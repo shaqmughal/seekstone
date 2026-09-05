@@ -8,7 +8,7 @@ type: article
 # Askabad
 
 ASKABAD, or ASKHABAD, a town of Russian central Asia, capital of the
-Transcaspian province, 345 m. by rail S.E. of Krasnovodsk and 594 from
+Transcaspian province, 345 m. by rail S.E. of [[Krasnovodsk]] and 594 from
 Samarkand, situated in a small oasis at the N. foot of the Kopet-dagh
 range. It has a public library and a technical railway school; also
 cotton-cleaning works, tanneries, brick-works, and a mineral-water

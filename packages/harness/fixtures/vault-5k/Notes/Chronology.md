@@ -7,7 +7,7 @@ world in the order of their succession, and to ascertain the intervals
 of time between them. The term "chronology" is also used of the order in
 time itself, as adopted, and of the system by which the order is fixed.
 
-The preservation of any record, however rude, of the lapse of time
+The preservation of any record, however rude, of the [[Lapse|lapse]] of time
 implies some knowledge of the celestial motions, by which alone time can
 be accurately measured, and some advancement in the arts of civilized
 life, which could be attained only by the accumulated experience of many
@@ -32,9 +32,9 @@ recording important transactions must have grown up as a necessary
 consequence of social life. But of these deliberate early records a very
 small portion only has escaped the ravages of time and barbarism.
 
-The earliest written annals of the Greeks, Etruscans and Romans are
-irretrievably lost. The traditions of the Druids perished with them. A
-Chinese emperor has the credit of burning "the books" extant in his day
+The earliest written [[Annals|annals]] of the Greeks, Etruscans and Romans are
+irretrievably lost. The traditions of the [[Druids]] perished with them. A
+Chinese emperor has the [[Credit|credit]] of burning "the books" extant in his day
 (about 220 B.C.), and of burying alive the scholars who were acquainted
 with them. And a Spanish adventurer destroyed the picture records which
 were found in the _pueblo_ of Montezuma.
@@ -44,15 +44,15 @@ attempts were made in the direction of systematic chronology we have no
 knowledge at first-hand. Of Hellanicus, the Greek logographer, who
 appears to have lived through the greater part of the 5th century B.C.,
 and who drew up a chronological list of the priestesses of Here at
-Argos; of Ephorus, who lived in the 4th century B.C., and is
+Argos; of [[Ephorus]], who lived in the 4th century B.C., and is
 distinguished as the first Greek who attempted the composition of a
 universal history; and of Timaeus, who in the following century wrote an
 elaborate history of Sicily, in which he set the example of using the
 Olympiads as the basis of chronology, the works have perished and our
 meagre knowledge of their contents is derived only from fragmentary
-citations in later writers. The same fate has befallen the works of
-Berossus and Manetho, Eratosthenes and Apollodorus. Berossus, a priest
-of Belus living at Babylon in the 3rd century B.C., added to his
+citations in later writers. The same [[Fate|fate]] has befallen the works of
+Berossus and Manetho, Eratosthenes and [[Apollodorus]]. Berossus, a priest
+of Belus living at [[Babylon]] in the 3rd century B.C., added to his
 historical account of Babylonia a chronological list of its kings, which
 he claimed to have compiled from genuine archives preserved in the
 temple. Manetho, likewise a priest, living at Sebennytus in Lower Egypt
@@ -62,7 +62,7 @@ have drawn from genuine archives in the keeping of the priests. Of these
 works fragments only, more or less copious and accurate, have been
 preserved. Eratosthenes, who in the latter half of the 2nd century B.C.
 was keeper of the famous Alexandrian library, not only made himself a
-great name by his important work on geography, but by his treatise
+great name by his important work on [[Geography|geography]], but by his treatise
 entitled _Chronographia_, one of the first attempts to establish an
 exact scheme of general chronology, earned for himself the title of
 "father of chronology." His method of procedure, however, was usually
@@ -84,7 +84,7 @@ long before this was apprehended. When it began to be seen, various
 epochs were selected by various writers; and at first each small
 separate community had its own epoch and method of time-reckoning. Thus
 in one city the reckoning was by succession of kings, in another by
-archons or annual magistrates, in a third by succession of priests. It
+archons or annual [[Magistrate|magistrates]], in a third by succession of priests. It
 seems now surprising that vague counting by generations should so long
 have prevailed and satisfied the wants of inquiring men, and that so
 simple, precise and seemingly obvious a plan as counting by years, the
@@ -107,7 +107,7 @@ the Babylonian, the Greek and the Roman. The Jews had no general era,
 properly so called. In the history of Babylonia, the fixed point from
 which time was reckoned was the era of Nabonassar, 747 B.C. Among the
 Greeks the reckoning was by Olympiads, the point of departure being the
-year in which Coroebus was victor in the Olympic Games, 776 B.C. The
+year in which Coroebus was victor in the Olympic [[Games]], 776 B.C. The
 Roman chronology started from the foundation of the city, the year of
 which, however, was variously given by different authors. The most
 generally adopted was that assigned by Varro, 753 B.C. It is noteworthy
@@ -157,7 +157,7 @@ Perhaps no single statement could more vividly emphasize the change in
 the point of view from which scholars regard the chronology of ancient
 history than the citation of this indisputable fact. To-day, though
 Bibles are still printed with the year 4004 B.C. in the margin of the
-first chapter of Genesis, no scholar would pretend to regard this
+first chapter of [[Genesis]], no scholar would pretend to regard this
 reference seriously. On the contrary, the scholarship of to-day regards
 the fifth millennium B.C. as well within the historical period for such
 nations as the Egyptians and the Babylonians. It has come to be fully
@@ -192,8 +192,8 @@ anthropologists, ethnologists and the like. But the distinction scarcely
 covers a real difference. The scope of the archaeologist's studies must
 include every department of the ancient history of man as preserved in
 antiquities of whatever character, be they tumuli along the Baltic,
-fossil skulls and graven bones from the caves of France, the flint
-implements, pottery, and mummies of Egypt, tablets and bas-reliefs from
+fossil skulls and graven [[Bone|bones]] from the caves of France, the flint
+[[Implement|implements]], pottery, and mummies of Egypt, tablets and bas-reliefs from
 Mesopotamia, coins and sculptures of Greece and Rome, or inscriptions,
 waxen tablets, parchment rolls, and papyri of a relatively late period
 of classical antiquity. If at one time the monuments of Greece and Rome
@@ -213,7 +213,7 @@ geologists, with only indirect or incidental aid from the
 archaeologists. The new movement began actively with James Hutton in the
 later years of the 18th century, and was forwarded by the studies of
 William Smith in England and of Cuvier in France; but the really
-efficient champion of the conception that the earth is very old was Sir
+efficient [[Champion|champion]] of the conception that the earth is very old was Sir
 Charles Lyell, who published the first edition of his epoch-making
 _Principles of Geology_ only a few years before Queen Victoria came to
 the throne. Lyell demonstrated to the satisfaction, or--perhaps it
@@ -240,10 +240,10 @@ Perthes and others, and it had to do chiefly with the finding of
 implements of human construction associated with the remains of extinct
 animals in the beds of caves, and with the recovery of similar
 antiquities from alluvial deposits the great age of which was
-demonstrated by their depth. Every item of the evidence was naturally
+demonstrated by their depth. Every [[Item|item]] of the evidence was naturally
 subjected to the closest scrutiny, but at last the conservatives were
 forced reluctantly to confess themselves beaten. Their traditional
-arguments were powerless before the array of data marshalled by the new
+arguments were powerless before the [[Array|array]] of data marshalled by the new
 science of prehistoric archaeology. Looking back even at the short
 remove of a single generation, it is difficult to appreciate how
 revolutionary was the conception of the antiquity of man thus
@@ -254,10 +254,10 @@ foundations of religion itself. Yet the present generation accepts the
 antiquity of man as a mere matter of fact. Here, as so often elsewhere,
 the heresy of an elder day has come to seem almost an axiomatic truth.
 
-If we go back in imagination to the beginning of the Victorian era and
+If we go back in [[Imagination|imagination]] to the beginning of the Victorian era and
 ask what was then known of the history of Ancient Egypt, Mesopotamia and
 Asia Minor, we find ourselves confronted with a startling paucity of
-knowledge. The key to the mysteries of Egyptian history had indeed been
+knowledge. The [[Key|key]] to the mysteries of Egyptian history had indeed been
 found, thanks to the recent efforts of Thomas Young and Champollion, but
 the deciphering of inscriptions had not yet progressed far enough to
 give more than a vague inkling of what was to follow. It remained, then,
@@ -286,9 +286,9 @@ a state of civilization and culture such as few men supposed to have
 existed on the earth before the Golden Age of Greece. Not merely were
 artistic sculptures and bas-reliefs found that demonstrated a high
 development of artistic genius, but great libraries were soon
-revealed,--books consisting of bricks of various sizes, or of cylinders
+revealed,--books consisting of [[Brick|bricks]] of various sizes, or of cylinders
 of the same material, inscribed while in the state of clay with curious
-characters which became indelible when baking transformed the clay into
+characters which became indelible when [[Baking|baking]] transformed the clay into
 brick. No one was able to guess, even in the vaguest way, the exact
 interpretation of these odd characters; but, on the other hand, no one
 could doubt that they constituted a system of writing, and that the
@@ -298,7 +298,7 @@ message so obviously locked in these curious inscriptions must for ever
 remain an absolute mystery. Here, it was said, were inscriptions written
 in an unknown character and in a language that for at least two thousand
 years had been absolutely forgotten. In such circumstances nothing less
-than a miracle could enable human ingenuity to fathom the secret. Yet
+than a miracle could enable human ingenuity to [[Fathom|fathom]] the secret. Yet
 the feat pronounced impossible by mid-century scepticism was
 accomplished by contemporary scholarship, amidst the clamour of
 opposition and incredulity. Its success contains at once a warning to
@@ -329,7 +329,7 @@ so many characters as were necessary to represent the alphabetical
 sounds. This made the problem of deciphering Persian inscriptions a
 relatively easy one. In point of fact this problem had been partially
 solved in the early days of the 19th century, thanks to the sagacious
-guesses of the German philologist Grotefend. Working with some
+guesses of the German philologist [[Grotefend]]. Working with some
 inscriptions from Persepolis which were found to contain references to
 Darius and Xerxes, Grotefend had established the phonetic values of
 certain of the Persian characters, and his successors were perfecting
@@ -365,7 +365,7 @@ the Assyrian books had ceased to be an enigma. Of course this work was
 not accomplished in a day or in a year, but, considering the
 difficulties to be overcome, it was carried forward with marvellous
 expedition. In 1857 the new scholarship was put to a famous test, in
-which the challenge thrown down by Sir George Cornewall Lewis and Ernest
+which the challenge thrown down by Sir George Cornewall [[Lewis]] and Ernest
 Renan was met by Rawlinson, Hincks, Oppert and Fox Talbot in a
 conclusive manner. The sceptics had declared that the new science of
 Assyriology was itself a myth: that the investigators, self-deceived,
@@ -409,16 +409,16 @@ is now known to have been an actual monarch. Indeed, there are tablets
 in the British Museum labelled 4500 B.C.; and later researches,
 particularly those of the expedition of the University of Pennsylvania
 at Nippur, have brought us evidence which, interpreted with the aid of
-estimates as to the average rate of accumulation of dust deposits, leads
+estimates as to the average rate of accumulation of [[Dust|dust]] deposits, leads
 to the inference that a high state of civilization had been attained in
 Mesopotamia at least 9000 years ago.
 
 While the Assyriologists have been making these astonishing revelations,
 the Egyptologists have not been behindhand. Such scholars as Lepsius,
-Brugsch, de Rougé, Lenormant, Birch, Mariette, Maspero and Erman have
+Brugsch, de Rougé, Lenormant, [[Birch]], Mariette, Maspero and Erman have
 perfected the studies of Young and Champollion; while at the same time
 these and a considerable company of other explorers, most notable of
-whom are Gardner Wilkinson and Professor Flinders Petrie, have brought
+whom are [[Gardner]] Wilkinson and Professor [[Flinders]] Petrie, have brought
 to light a vast accumulation of new material, much of which has the
 highest importance from the standpoint of the historian. Lists of kings
 found on the temple wall at Abydos, in the fragments of the Turin
@@ -453,12 +453,12 @@ perhaps by thousands, of years the term which had hitherto been
 considered the full period of man's existence.
 
 We may note at once how these new figures disturb the historical
-balance. If our forerunners of eight or nine thousand years ago were in
+[[Balance|balance]]. If our forerunners of eight or nine thousand years ago were in
 a noonday glare of civilization, where shall we look for the
 much-talked-of "dawnings of history"? By this new standard the Romans
 seem our contemporaries in latter-day civilization; the "Golden Age" of
 Greece is but of yesterday; the pyramid-builders are only relatively
-remote. The men who built the temple of Bel at Nippur, in the year (say)
+remote. The men who built the temple of [[Bel]] at Nippur, in the year (say)
 5000 B.C., must have felt themselves at a pinnacle of civilization and
 culture. As Professor Mahaffy has suggested, the era of the Pyramids may
 have been the veritable autumn of civilization. Where, then, must we
@@ -482,7 +482,7 @@ present. Considering the important part played by the Egyptian sojourn
 of the Hebrews, as narrated in the Scriptures, it was certainly not an
 over-enthusiastic prediction that the Egyptian monuments when fully
 investigated would divulge important references to Joseph, to Moses, and
-to the all-important incidents of the Exodus; but half a century of
+to the all-important incidents of the [[Exodus]]; but half a century of
 expectant attention in this direction has led only to disappointment. It
 would be rash, considering the buried treasures that may yet await the
 future explorer, to assert that such records as those in question can
@@ -534,7 +534,7 @@ to-day no one who is competent to speak with authority pretends to doubt
 that such is really the fact. Even conservative students of the Bible
 urge that its historical passages must be viewed precisely in the light
 of any other historical writings of antiquity; and the fact that the
-oldest Hebrew manuscript dates only from the 8th century A.D., and
+oldest Hebrew [[Manuscript|manuscript]] dates only from the 8th century A.D., and
 therefore of necessity brings to us the message of antiquity through the
 fallible medium of many generations of copyists, is far more clearly
 kept in mind than it formerly was. Every belief of mankind is in the
@@ -615,7 +615,7 @@ libraries, historian and theologian alike waited with breathless
 interest for the exact revelations in store; and this time expectation
 was not disappointed. As, one after another, the various tablets and
 cylinders and annalistic tablets have been translated, it has become
-increasingly clear that here are almost inexhaustible fountains of
+increasingly clear that here are almost inexhaustible [[Fountain|fountains]] of
 knowledge, and that sooner or later it may be possible to check the
 Hebrew accounts of the most important periods of their history with
 contemporaneous accounts written from another point of view. It is true
@@ -624,7 +624,7 @@ described from opposite points of view, but, speaking in general terms
 rather than of specific incidents, we are already able to subject
 considerable portions of history to this test. The records of
 Shalmaneser II., Tiglath-Pileser III. and Sennacherib, kings of Assyria,
-of Nebuchadrezzar, king of Babylon, and of Cyrus, king of Persia, all
+of Nebuchadrezzar, king of Babylon, and of [[Cyrus]], king of Persia, all
 contain direct references to Hebrew history. An obelisk of Shalmaneser
 II. contains explicit reference to the tribute of Jehu of Samaria, and
 graphically depicts the Hebrew captives. Tiglath-Pileser III., a usurper
@@ -652,7 +652,7 @@ shows itself in a full appreciation of the value of chronology.
 
 One of the most striking instances of the way in which mistakes of
 chronology may lead to the perversion of historical records is shown in
-the Book of Daniel in connexion with the familiar account of the capture
+the Book of [[Daniel]] in connexion with the familiar account of the capture
 of Babylon by Cyrus. Within the past generation records of Cyrus have
 been brought to light, as well as records of the conquered Babylonian
 king himself, which show that the Hebrew writers of the later day had a
@@ -662,8 +662,8 @@ Herodotus. When the annalistic tablet of Cyrus was translated, it was
 made to appear, to the consternation of Bible scholars, that the city of
 Babylon had capitulated to the Persian--or more properly to the
 Elamite--conqueror without a struggle. It appeared, further, that the
-king ruling in Babylon at the time of the capitulation was named not
-Belshazzar, but Nabonidos. This king, as appears from his own records,
+king ruling in Babylon at the time of the [[Capitulation|capitulation]] was named not
+[[Belshazzar]], but Nabonidos. This king, as appears from his own records,
 had a son named Belshazzar, who commanded Babylonian armies in outlying
 provinces, but who never came to the throne. Nothing could well be more
 disconcerting than such a revelation as this. It is held, however, that
@@ -695,7 +695,7 @@ Hebrew accounts and contemporaneous records from Mesopotamia proves
 beyond cavil that, broadly speaking, the Bible accounts are historically
 true, and were written by persons who in the main had access to
 contemporaneous documents. On the other hand, the discrepancies as to
-details, the confusion as to exact chronology, the manifest prejudice
+details, the confusion as to exact chronology, the [[Manifest|manifest]] prejudice
 and partizanship, and the obvious limitations of knowledge make it clear
 that the writers partook in full measure of the shortcomings of other
 historians, and that their work must be adjudged by ordinary historical
@@ -769,7 +769,7 @@ with actual facts. It remained for the more robust faith of a Schliemann
 to show that such scepticism was all too faint-hearted, by proving that
 at such sites as Tiryns, Mycenae and Hissarlik evidences of a very early
 period of Greek civilization awaited the spade of the excavator. Thanks
-to the enthusiasm of Schliemann and his successors, we can now
+to the [[Enthusiasm|enthusiasm]] of Schliemann and his successors, we can now
 substitute for the mythical "Age of Heroes" a historical "Mycenaean Age"
 of Greece, and give tangible proof of its relatively high state of
 civilization. Schliemann may or may not have been correct in identifying
@@ -841,7 +841,7 @@ wonderful Tel-el-Amarna collection there is a suggestive absence of
 literary documents from the Aegean that demands a word of notice. The
 Tel el-Amarna collection, it will be recalled, consists of the royal
 archives of King Amenophis IV. of the XVIIIth Egyptian dynasty, who in
-the latter years of his reign chose to be known as Akhenaton, "the glory
+the latter years of his reign [[Chose|chose]] to be known as Akhenaton, "the glory
 of the solar disk." This monarch had retired from Thebes and established
 his court on the site now known as Tel el-Amarna, where he founded the
 city which existed only during the brief period of thirty years ending
@@ -985,7 +985,7 @@ Seleucidae.
   historical records after the middle of the 5th century of our era.
 
   The names of the months were different in the different Grecian
-  states. The Attic months, of which we possess the most certain
+  states. The [[Attic]] months, of which we possess the most certain
   knowledge, were named as follows:--
 
     Hecatombaeon.          Gamelion.
@@ -999,7 +999,7 @@ _Era of the Foundation of Rome._--After the Olympiads, the era most
 frequently met with in ancient history is that of the foundation of
 Rome, which is the chronological epoch adopted by all the Roman
 historians. There are various opinions respecting the year of the
-foundation of Rome. (1) Fabius Pictor places it in the latter half of
+foundation of Rome. (1) [[Fabius Pictor]] places it in the latter half of
 the first year of the eighth Olympiad, which corresponds with the 3967th
 of the Julian period, and with the year 747 B.C. (2) Polybius places it
 in the second year of the seventh Olympiad, corresponding with 3964 of
@@ -1061,7 +1061,7 @@ countries, and is even used by some Eastern nations. Its epoch or
 beginning is the 1st of January in the fourth year of the 194th
 Olympiad, the 753rd from the foundation of Rome, and the 4714th of the
 Julian period. This epoch was introduced in Italy in the 6th century, by
-Dionysius the Little, a Roman abbot, and began to be used in Gaul in the
+Dionysius the Little, a Roman abbot, and began to be used in [[Gaul]] in the
 8th, though it was not generally followed in that country till a century
 later. From extant charters it is known to have been in use in England
 before the close of the 8th century. Before its adoption the usual
@@ -1095,7 +1095,7 @@ preceded the birth of Christ by nine months, as the commencement of the
 first year of the era. This epoch therefore precedes that of the vulgar
 era by nine months and seven days. This manner of dating was followed in
 some of the Italian states, and continued to be used at Pisa even down
-to the year 1745. It was also adopted in some of the Papal bulls; and
+to the year 1745. It was also adopted in some of the Papal [[Bull|bulls]]; and
 there are proofs of its having been employed in France about the middle
 of the 11th century. Some chroniclers, who adhere to the day of the
 Annunciation as the commencement of the year, reckon from the 25th of
@@ -1103,7 +1103,7 @@ March following our epoch, as the Florentines in the 10th century.
 Gregory of Tours, and some writers of the 6th and 7th centuries, make
 the year begin sometimes with the 1st of March, and sometimes with the
 1st of January. In France, under the third race of kings, it was usual
-to begin the year with Easter; and this practice continued at least till
+to begin the year with [[Easter]]; and this practice continued at least till
 the middle of the 16th century, for an edict was issued by Charles IX.
 in the month of January 1663, ordaining that the beginning of the year
 should thenceforth be considered as taking place on the 1st of January.
@@ -1111,7 +1111,7 @@ An instance is given, in _L'Art de vérifier les dates_, of a date in
 which the year is reckoned from the 18th of March; but it is probable
 that this refers to the astronomical year, and that the 18th of March
 was taken for the day of the vernal equinox. In Germany, about the 11th
-century, it was usual to begin the year at Christmas; and this practice
+century, it was usual to begin the year at [[Christmas]]; and this practice
 also prevailed at Milan, Rome and other Italian cities, in the 13th,
 14th and 15th centuries.
 
@@ -1135,7 +1135,7 @@ and other documents in which the dates often appear contradictory. We
 may cite an example or two. It is well known that Charles the Great was
 crowned emperor at Rome on Christmas day in the year 800, and that he
 died in the year 814, according to our present manner of reckoning. But
-in the annals of Metz and Moissac, the coronation is stated to have
+in the annals of Metz and Moissac, the [[Coronation|coronation]] is stated to have
 taken place in the year 801, and his death in 813. In the first case the
 annalist supposes the year to begin with Christmas, and accordingly
 reckons the 25th of December and all the following days of that month to
@@ -1209,7 +1209,7 @@ abandoned the cycle of eighty-four years, and adopted that of Meton, by
 which their lunisolar year is regulated at the present day. This
 improvement was first proposed by Rabbi Samuel, rector of the Jewish
 school of Sora in Mesopotamia, and was finally accomplished in the year
-360 of our era by Rabbi Hillel, who introduced that form of the year
+360 of our era by Rabbi [[Hillel]], who introduced that form of the year
 which the Jews at present follow, and which, they say, is to endure till
 the coming of the Messiah.
 
@@ -1307,7 +1307,7 @@ celestial phenomena recorded by Ptolemy, and corresponds to Wednesday at
 mid-day, the 26th of February of the year 747 before Christ. The year
 was in all respects the same as the ancient Egyptian year. On account of
 the difference in the length of the Julian and Babylonian years, the
-conversion of dates according to the era of Nabonassar into years before
+[[Conversion|conversion]] of dates according to the era of Nabonassar into years before
 Christ is attended with considerable trouble. The surest way is to
 follow a comparative table. Frequently the year cannot be fixed with
 certainty, unless we know also the month and the day.
@@ -1330,7 +1330,7 @@ dates from the time of the occupation of Babylon by Seleucus Nicator,
 311 years before Christ, in the year of Rome 442, and twelve years after
 the death of Alexander the Great. It was adopted not only in the
 monarchy of the Seleucidae but in general in all the Greek countries
-bordering on the Levant, was followed by the Jews till the 15th century,
+bordering on the [[Levant]], was followed by the Jews till the 15th century,
 and is said to be used by some Arabians even at the present day. By the
 Jews it was called the _Era of Contracts_, because the Syrian governors
 compelled them to make use of it in civil contracts; the writers of the
@@ -1339,7 +1339,7 @@ general prevalence in the East for many centuries, authors using it
 differ much with regard to their manner of expressing dates, in
 consequence of the different epochs adopted for the beginning of the
 year. Among the Syrian Greeks the year began with the month Elul, which
-corresponds to our September. The Nestorians and Jacobites at the
+corresponds to our September. The Nestorians and [[Jacobites]] at the
 present day suppose it to begin with the following month, or October.
 The author of the first book of Maccabees makes the era commence with
 the month Nisan, or April; and the author of the second book with the
@@ -1347,7 +1347,7 @@ first Tishrin, or October. Albategni, a celebrated Arabian astronomer,
 dates from the 1st of October. Some of the Arabian writers, as
 Alfergani, date from the 1st of September. At Tyre the year was counted
 from the 19th of our October, at Gaza from the 28th of the same month,
-and at Damascus from the vernal equinox. These discrepancies render it
+and at [[Damascus]] from the vernal equinox. These discrepancies render it
 extremely difficult to determine the exact correspondence of Macedonian
 dates with those of other eras; and the difficulty is rendered still
 greater by the want of uniformity in respect of the length of the year.
@@ -1399,7 +1399,7 @@ Greeks. According to the computation of the Greeks, the 49th year of the
 Caesarean era began in the autumn of the year preceding the commencement
 of the Christian era; and, according to the Syrians, the 49th year began
 in the autumn of the first year of the Incarnation. It is followed by
-Evagrius in his _Ecclesiastical History_.
+[[Evagrius]] in his _Ecclesiastical History_.
 
 _Julian Era._--The Julian era begins with the 1st of January, forty-five
 years B.C. It was designed to commemorate the reformation of the Roman
@@ -1410,10 +1410,10 @@ which was completed in the thirty-ninth year B.C., gave rise to this
 era, which began with the first day of the following year, and was long
 used in Spain and Portugal, and generally in all the Roman provinces
 subdued by the Visigoths, both in Africa and the South of France.
-Several of the councils of Carthage, and also that of Arles, are dated
+Several of the councils of Carthage, and also that of [[Arles]], are dated
 according to this era. After the 9th century it became usual to join
 with it in public acts the year of the Incarnation. It was followed in
-Catalonia till the year 1180, in the kingdom of Aragon till 1350, in
+[[Catalonia]] till the year 1180, in the kingdom of [[Aragon]] till 1350, in
 Valencia till 1358, and in Castile till 1382. In Portugal it is said to
 have been in use so late as the year 1415, or 1422, though it would seem
 that after the establishment of the Portuguese monarchy, no other era
@@ -1448,7 +1448,7 @@ alteration in their mundane era, by striking off ten years from their
 reckoning. At the same time they established a new era, which is still
 followed by the Abyssinians and Copts. It begins with the 29th of August
 (the first day of the Egyptian year) of the year 284 of our era, which
-was the first of the reign of Diocletian. The denomination of _Era of
+was the first of the reign of Diocletian. The [[Denomination|denomination]] of _Era of
 Martyrs_, subsequently given to it in commemoration of the persecution
 of the Christians, would seem to imply that its commencement ought to be
 referred to the year 303 of our era, for it was in that year that
@@ -1588,7 +1588,7 @@ the elevation of Yazdegerd III. to the throne of Persia, on the 16th of
 June in the year of our era 632. Till the year 1079 the Persian year
 resembled that of the ancient Egyptians, consisting of 365 days without
 intercalation; but at that time the Persian calendar was reformed by
-Jel[=a]l ud-D[=i]n Malik Shah, sultan of Khorasan, and a method of
+Jel[=a]l ud-D[=i]n Malik Shah, sultan of [[Khorasan]], and a method of
 intercalation adopted which, though less convenient, is considerably
 more accurate than the Julian. The intercalary period is 33 years,--one
 day being added to the common year seven times successively at the end
@@ -1769,7 +1769,7 @@ intercalary, and is called by the same name as the preceding month.
   1583. _De Emendatione Temporum_, by Joseph Scaliger, in which were
   laid the foundations of chronological science.
 
-  1603. _Opus Chronologicum_, by Sethus Calvisius.
+  1603. _Opus Chronologicum_, by Sethus [[Calvisius]].
 
   1627. _De Doctrina Temporum_, by Petavius (Denis Petau), with its
   continuation published in 1630, and an abridgment entitled
@@ -1790,9 +1790,9 @@ intercalary, and is called by the same name as the preceding month.
   1687. _L'Antiquité des temps rétablie et défendue_, by Paul Pezron,
   with its _Defense_, 1691.
 
-  1701. _De Veteribus Graecorum Romanorumque Cyclis_, by Henry Dodwell.
+  1701. _De Veteribus Graecorum Romanorumque Cyclis_, by Henry [[Dodwell]].
 
-  1728. _The Chronology of Ancient Kingdoms amended_, by Sir Isaac
+  1728. _The Chronology of Ancient Kingdoms amended_, by Sir [[Isaac]]
   Newton, remarkable as an attempt to construct a system on new bases,
   independent of the Greek chronologers.
 
@@ -1819,7 +1819,7 @@ intercalary, and is called by the same name as the preceding month.
   1803. _Handbuch der alten Geschichte, Geographie, und Chronologie_, by
   G.G. Bredow, with his _Historische Tabellen_.
 
-  1809-1814. _New Analysis of Chronology_, by William Hales.
+  1809-1814. _New Analysis of Chronology_, by William [[Hales]].
 
   1819. _Annales Veterum Regnorum_, by C.G. Zumpt.
 
@@ -1827,14 +1827,14 @@ intercalary, and is called by the same name as the preceding month.
   Buret de Longchamps.
 
   1824-1834. _Fasti Hellenici_, and 1845-1850, _Fasti Romani_, by H.
-  Fynes Clinton. Epitomes of these elaborate works were published,
+  [[Fyne|Fynes]] Clinton. Epitomes of these elaborate works were published,
   1851-1853.
 
   1825-1826. _Handbuch der mathematischen und technischen Chronologie_,
   by Christian Ludwig Ideler; and his _Lehrbuch der Chronologie_,
   (1831).
 
-  1833. _The Chronology of History_, by Sir Harris Nicolas.
+  1833. _The Chronology of History_, by Sir [[Harris]] Nicolas.
 
   1852. _Fasti Temporis Catholici_, by Edward Greswell; and by the same
   author (1854), _Origines Kalendariae Italicae_; and 1862, _Origines

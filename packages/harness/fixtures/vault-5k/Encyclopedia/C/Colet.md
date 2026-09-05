@@ -6,12 +6,12 @@ London about 1467. He was educated at St Anthony's school and at
 Magdalen College, Oxford, where he took the M.A. degree in 1490. He
 already held the non-resident rectory of Dennington, Suffolk, and the
 vicarage of St Dunstan's, Stepney, and was now collated rector of
-Thurning, Hunts. In 1493 he went to Paris and thence to Italy, studying
+Thurning, [[Hunt|Hunts]]. In 1493 he went to Paris and thence to Italy, studying
 canon and civil law, patristics and the rudiments of Greek. During his
 residence abroad he became acquainted with Budaeus (Guillaume Budé) and
 Erasmus, and with the teaching of Savonarola. On his return to England
 in 1496 he took orders and settled at Oxford, where he lectured on the
-epistles of St Paul, replacing the old scholastic method of
+[[Epistle|epistles]] of St Paul, replacing the old scholastic method of
 interpretation by an exegesis more in harmony with the new learning. His
 methods did much to influence Erasmus, who visited Oxford in 1498, and
 in after years Erasmus received an annuity from him. Since 1494 he had
@@ -28,7 +28,7 @@ annual value of £122 and upwards. The celebrated grammarian William
 Lilly was the first master, and the company of mercers were (in 1510)
 appointed trustees, the first example of non-clerical management in
 education. The dean's religious opinions were so much more liberal than
-those of the contemporary clergy (whose ignorance and corruption he
+those of the contemporary clergy (whose [[Ignorance|ignorance]] and corruption he
 denounced) that they deemed him little better than a heretic; but
 William Warham, the archbishop, refused to prosecute him. Similarly
 Henry VIII. held him in high esteem despite his sermons against the
@@ -38,16 +38,16 @@ sweating sickness on the 16th of September 1519. He was buried on the
 south side of the choir of St Paul's, where a stone was laid over his
 grave, with no other inscription than his name. Besides the preferments
 above mentioned, he was rector of the gild of Jesus at St Paul's and
-chaplain to Henry VIII.
+[[Chaplain|chaplain]] to Henry VIII.
 
-Colet, though never dreaming of a formal breach with the Roman Church,
+Colet, though never dreaming of a formal [[Breach|breach]] with the Roman Church,
 was a keen reformer, who disapproved of auricular confession, and of the
 celibacy of the clergy. Though no great scholar or writer, he was a
 powerful force in the England of his day, and helped materially to
 disintegrate the medieval conditions still obtaining, and to introduce
 the humanist movement. Among his works, which were first collectively
 published in 1867-1876, are _Absolutissimus de octo orationis partium
-constructione libellus_ (Antwerp, 1530), _Rudimenta Grammatices_
+constructione libellus_ ([[Antwerp]], 1530), _Rudimenta Grammatices_
 (London, 1539), _Daily Devotions_, _Monition to a Godly Life_,
 _Epistolae ad Erasmum_, and commentaries on different parts of the
 Bible.

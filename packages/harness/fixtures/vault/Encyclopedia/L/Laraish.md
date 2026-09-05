@@ -12,10 +12,10 @@ supplied with old-fashioned guns. Traces of the Spanish occupation from
 as those of St Stephen, St James and that of the Jews, with the Castle
 of Our Lady of Europe, now the kasbah or citadel. The most remarkable
 feature of Laraish is its fine large market-place inside the town with a
-low colonnade in front of very small shops. The streets, though narrow
+low [[Colonnade|colonnade]] in front of very small shops. The streets, though narrow
 and steep, are generally paved. Its chief exports are oranges, millet,
 dra and other cereals, goat-hair and skins, sheepskins, wool and
-fullers' earth. The wool goes chiefly to Marseilles. The annual value of
+fullers' earth. The wool goes chiefly to [[Marseilles]]. The annual value of
 the trade is from £400,000 to £500,000.
 
 In 1780 all the Europeans in Laraish were expelled by Mohammed XVI.,
@@ -23,12 +23,12 @@ although in 1786 the monopoly of its trade had been granted to Holland,
 even its export of wheat. In 1787 the Moors were still building pirate
 vessels here, the timber for which came from the neighbouring forest of
 M'amora. Not far from the town are the remains of what is believed to be
-a Phoenician city, Shammish, mentioned by Idrisi, who makes no allusion
+a Phoenician city, Shammish, mentioned by [[Idrisi]], who makes no allusion
 to Laraish. It is not, however, improbable from a passage in Scylax that
 the site of the present town was occupied by a Libyan settlement.
-Tradition also connects Laraish with the garden of the Hesperides,
+Tradition also connects Laraish with the garden of the [[Hesperides]],
 '_Arasi_ being the Arabic for "pleasure-gardens," and the "golden
-apples" perhaps the familiar oranges.
+[[Apple|apples]]" perhaps the familiar oranges.
 
 ## See also
 

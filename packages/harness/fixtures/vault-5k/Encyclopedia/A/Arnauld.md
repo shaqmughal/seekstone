@@ -11,14 +11,14 @@ ARNAULD, the surname of a family of prominent French lawyers, chiefly
 remembered in connexion with the Jansenist troubles of the 17th century.
 At their head was ANTOINE ARNAULD (1560-1619), a leader of the Paris
 bar; in this capacity he delivered a famous philippic against the
-Jesuits in 1594, accusing them of gross disloyalty to the newly
+[[Jesuits]] in 1594, accusing them of [[Gross|gross]] disloyalty to the newly
 converted Henry IV. This speech was afterwards known as the original sin
 of the Arnaulds.
 
 Of his twenty children several grew up to fight the Jesuits on more
 important matters. Five gave themselves up wholly to the church. HENRI
 ARNAULD (1597-1692), the second son, became bishop of Angers in 1649,
-and represented Jansenism on the episcopal Bench for as long as
+and represented [[Jansenism]] on the episcopal [[Bench]] for as long as
 forty-three years. The youngest son, ANTOINE (1612-1694), was the most
 famous of Jansenist theologians (see below). The second daughter,
 ANGELIQUE (1591-1661), was abbess and reformer of Port Royal; here she
@@ -41,7 +41,7 @@ was created marquis de Pomponne. Lastly Madame Lemaistre and two of her
 sons became identified with Port Royal. On her husband's death she took
 the veil there. Her eldest son, ANTOINE LEMAISTRE (1608-1658), became
 the first of the _solitaires_, or hermits of Port Royal. There he was
-joined by his younger brother, ISAAC LEMAISTRE DE SACI (1613-1684), who
+joined by his younger brother, [[Isaac|ISAAC]] LEMAISTRE DE SACI (1613-1684), who
 presently took holy orders, and became confessor to the hermits.
 
 The Arnaulds' connexion with Port Royal (q.v.)--a convent of Cistercian
@@ -136,7 +136,7 @@ to drive home every possible point, and cut his adversary off from every
 possible line of retreat, makes him seem intolerably prolix. "In spite
 of myself," Arnauld once said regretfully, "my books are seldom very
 short." And even lucidity may prove a snare to those who trust to it
-alone, and scornfully refuse to appeal to the imagination or the
+alone, and scornfully refuse to appeal to the [[Imagination|imagination]] or the
 feelings. It is to be feared that, but for his connexion with Pascal,
 Arnauld's name would be almost forgotten--or, at most, live only in the
 famous epitaph Boileau consecrated to his memory--
@@ -151,7 +151,7 @@ famous epitaph Boileau consecrated to his memory--
   _Memoires pour servir a l'histoire de Port-Royal_ (3 vols., Utrecht
   1742). Three volumes of her correspondence were also published at the
   same time and place. There are excellent modern lives of her in
-  English by Miss Frances Martin (_Angelique Arnauld_, 1873) and by A.
+  English by Miss [[Franc|Frances]] Martin (_Angelique Arnauld_, 1873) and by A.
   K. H. (_Angelique of Port Royal_, 1905). Antoine Arnauld's complete
   works--thirty-seven volumes in forty-two parts--were published in
   Paris, 1775-1781. No modern biography of him exists; but there is a

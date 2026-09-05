@@ -2,13 +2,13 @@
 
 GANDAK, a river of northern India. It rises in the Nepal-Himalayas,
 flows south-west until it reaches British territory, where it forms the
-boundary between the United Provinces and Bengal for a considerable
-portion of its course, and falls into the Ganges opposite Patna. It is a
+boundary between the United Provinces and [[Bengal]] for a considerable
+portion of its course, and falls into the [[Ganges]] opposite Patna. It is a
 snow-fed stream, and the surrounding country in the plains, lying at a
-lower level than its banks, is endangered by its floods. The river is
-accordingly enclosed by protective embankments.
+lower level than its banks, is endangered by its [[Flood|floods]]. The river is
+accordingly enclosed by protective [[Embankment|embankments]].
 
-The LITTLE GANDAK rises in the Nepal hills, enters Gorakhpur district
+The LITTLE GANDAK rises in the Nepal hills, enters [[Gorakhpur]] district
 about 8 m. west of the Gandak, and joins the Gogra just within the Saran
 district of Bengal.
 

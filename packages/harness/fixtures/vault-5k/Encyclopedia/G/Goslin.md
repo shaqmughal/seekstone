@@ -2,7 +2,7 @@
 
 GOSLIN, or GAUZLINUS (d. c. 886), bishop of Paris and defender of the
 city against the Northmen (885), was, according to some authorities, the
-son of Roricon II., count of Maine, according to others the natural son
+son of Roricon II., count of [[Maine]], according to others the natural son
 of the emperor Louis I. In 848 he became a monk, and entered a monastery
 at Reims, later he became abbot of St Denis. Like most of the prelates
 of his time he took a prominent part in the struggle against the
@@ -26,7 +26,7 @@ Charles the Fat was in Italy. Goslin died soon after the preliminaries
 of the peace had been agreed on, worn out by his exertions, or killed by
 a pestilence which raged in the city.
 
-  See Amaury Duval, _L'Eveque Gozlin ou le siege de Paris par les
+  See Amaury [[Duval]], _L'Eveque Gozlin ou le siege de Paris par les
   Normands, chronique du IX^e siecle_ (2 vols., Paris, 1832, 3rd ed.
   _ib._ 1835).
 

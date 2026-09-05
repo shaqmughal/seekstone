@@ -8,7 +8,7 @@ type: article
 # Chryselephantine
 
 CHRYSELEPHANTINE (Gr. [Greek: chrysos], gold, and [Greek: elephas],
-ivory), the architectural term given to statues which were built up on a
+[[Ivory|ivory]]), the architectural term given to statues which were built up on a
 wooden core, with ivory representing the flesh and gold the drapery. The
 two most celebrated examples are those by Pheidias of the statue of
 Athena in the Parthenon and of Zeus in the temple at Olympia.
@@ -16,12 +16,12 @@ Athena in the Parthenon and of Zeus in the temple at Olympia.
 
 
 
-CHRYSENE C18H12, a hydrocarbon occurring in the high boiling fraction of
+CHRYSENE C18H12, a [[Hydrocarbon|hydrocarbon]] occurring in the high boiling fraction of
 the coal tar distillate. It is produced in small quantity in the
-distillation of amber, on passing the vapour of phenyl-naphthyl-methane
-through a red-hot tube, on heating indene, or by passing the mixed
+[[Distillation|distillation]] of amber, on passing the vapour of phenyl-naphthyl-methane
+through a red-hot tube, on heating [[Indene|indene]], or by passing the mixed
 vapours of coumarone and naphthalene through a red-hot tube. It
-crystallizes in plates or octahedra (from benzene), which exhibit a
+crystallizes in plates or octahedra (from [[Benzene|benzene]]), which exhibit a
 violet fluorescence, and melt at 250°C. Chromic acid in glacial acetic
 acid solution oxidizes it to chrysoquinone C18H10O2, which when
 distilled with lead oxide gives chrysoketone C17H10O. When chrysene is

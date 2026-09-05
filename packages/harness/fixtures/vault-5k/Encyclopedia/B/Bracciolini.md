@@ -15,9 +15,9 @@ entered the service of Cardinal Maffeo Barberini, with whom he
 afterwards went to France. After the death of Clement VIII. he returned
 to his own country; and when his patron Barberini was elected pope,
 under the name of Urban VIII., Bracciolini repaired to Rome, and was
-made secretary to the pope's brother, Cardinal Antonio. He had also the
+made secretary to the pope's brother, Cardinal [[Antonio]]. He had also the
 honour conferred on him of taking a surname from the arms of the
-Barberini family, which were bees; whence he was afterwards known by the
+Barberini family, which were [[Bee|bees]]; whence he was afterwards known by the
 name of _Bracciolini dell' Api_. During Urban's pontificate the poet
 lived at Rome in considerable reputation, though at the same time he was
 censured for his sordid avarice. On the death of the pontiff he returned

@@ -25,7 +25,7 @@ about 1600, was Hudson's blind guide in this voyage, and the polar map
 of 1611 by Pontanus illustrates well what he attempted, and the valuable
 results both negative and positive which he reached. He investigated the
 trade prospects at Bear Island, and recommended his patrons to seek
-higher game in Newland; hence he may be called the father of the English
+higher [[Game|game]] in Newland; hence he may be called the father of the English
 whale-fisheries at Spitzbergen.
 
 Next year Hudson was again sent by the Muscovy Company to open a passage
@@ -37,7 +37,7 @@ Sea in vain between 75 deg. 30' N.W. and 71 deg. 15' S.E. for an opening
 through the ice, and on the 6th of July, "voide of hope of a north-east
 passage (except by the Waygats, for which I was not fitted to trie or
 prove)," he resolved to sail to the north-west, and if time and means
-permitted to run a hundred leagues up Lumley's Inlet (Frobisher Strait)
+permitted to run a hundred leagues up Lumley's Inlet ([[Frobisher]] Strait)
 or Davis's "overfall" (Hudson Strait). But his voyage being delayed by
 contrary winds he was finally compelled to return without accomplishing
 his wish. The failure of this second attempt satisfied the Muscovy
@@ -91,7 +91,7 @@ Panama.
 Hudson's confidence in the existence of a North-West Passage had not
 been diminished by his three failures, and a new company was formed to
 support him in a fourth attempt, the principal promoters being Sir
-Thomas Smith (or Smythe), Sir Dudley Digges and John (afterwards Sir
+Thomas Smith (or Smythe), Sir [[Dudley]] Digges and John (afterwards Sir
 John) Wolstenholme. He determined this time to carry out his old plan of
 searching for a passage up Davis's "overfall"--so-called in allusion to
 the overfall of the tide which Davis had observed rushing through the
@@ -105,7 +105,7 @@ James Bay, being frozen in a few days later, and during the long winter
 months which were passed there only a scanty supply of game was secured
 to eke out the ship's provisions. Discontent became rife, and on the
 ship breaking out of the ice in the spring Hudson had a violent quarrel
-with a dissolute young fellow named Henry Greene, whom he had befriended
+with a dissolute young [[Fellow|fellow]] named Henry Greene, whom he had befriended
 by taking him on board, and who now retaliated by inciting the
 discontented part of the crew to put Hudson and eight others (including
 the sick men) out of the ship. This happened on the 22nd of June 1611.
@@ -122,7 +122,7 @@ on maps and charts before he set out on his voyages, yet he deserves to
 take a very high rank among northern navigators for the mere extent of
 his discoveries and the success with which he pushed them beyond the
 limits of his predecessors. The rich fisheries of Spitzbergen and the
-fur industry of the Hudson Bay Territory were the immediate fruit of his
+[[Fur|fur]] industry of the Hudson Bay Territory were the immediate fruit of his
 labours.
 
   See _Henry Hudson, the Navigator_ (Hakluyt Society, 1860); and T. A.

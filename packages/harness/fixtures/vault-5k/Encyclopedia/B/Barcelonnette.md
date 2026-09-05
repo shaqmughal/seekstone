@@ -1,6 +1,6 @@
 # Barcelonnette
 
-BARCELONNETTE, a town in the department of Basses-Alpes, in the S.E. of
+BARCELONNETTE, a town in the department of [[Basses-Alpes]], in the S.E. of
 France. Pop. (1906) 2075. It is built at a height of 3717 ft. on the right
 bank of the Ubaye river, on which it is the most important place. It is
 situated in a wide and very fertile valley, and is surrounded by many
@@ -17,11 +17,11 @@ family of the counts of Barcelona, whence the name of the town he rebuilt),
 Barcelonnette passed to Savoy in 1388 (formal cession in 1419), and in 1713
 by the treaty of Utrecht was ceded to France in exchange for the valleys of
 Exilles, Fénestrelles, and Château Dauphin (Casteldelfino). It was the
-birth-place of J. A. Manuel (1775-1827), the well-known Liberal orator at
+birth-place of J. A. [[Manuel]] (1775-1827), the well-known Liberal orator at
 the time of the Restoration of 1815, after whom the principal square of the
 town is named.
 
-See F. Arnaud, _Barcelonnette et ses environs_ (_Guide du C. A. F._)
+See F. [[Arnaud]], _Barcelonnette et ses environs_ (_Guide du C. A. F._)
 (1898), and _La Vallée de Barcelonnette_ (1900).
 
 (W. A. B. C.)

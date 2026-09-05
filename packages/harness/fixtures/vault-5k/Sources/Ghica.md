@@ -21,7 +21,7 @@ Walachia in 1659-1660. He moved the capital from Tirgovishtea to
 Bucharest. From him are derived the numerous branches of the family
 which became so conspicuous in the history of Moldavia and Walachia.
 
-2. The Walachian branch starts afresh from the great ban Demetrius or
+2. The Walachian branch starts afresh from the great [[Ban|ban]] [[Demetrius]] or
 Dumitru Ghica (1718-1803), who was twice married and had fourteen
 children (see RUMANIA: _History_). One of these, Gregory (Grigorie),
 prince of Walachia 1822-1828, starts a new era of civilization, by
@@ -37,7 +37,7 @@ of the Walachian prince Gregory.
 
 3. Another Gregory Ghica, prince of Moldavia from 1775 to 1777, paid
 with his life for the opposition he offered when the Turks ceded the
-province of Bukovina to Austria.
+province of [[Bukovina]] to Austria.
 
 4. Michael (Michail) (1794-1850) was the father of Elena (1827-1888), a
 well-known novelist, who wrote under the name of Dora d'Istria. Brought
@@ -48,7 +48,7 @@ the marriage was an unhappy one, and in 1855 she left St Petersburg for
 Florence, where she died in 1888. In that city she developed her
 literary talent and published a number of works characterized by
 lightness of touch and brilliance of description, such as _Pelerinage
-au tombeau de Dante, La Vie monastique dans les eglises orientales_
+au tombeau de [[Dante]], La Vie monastique dans les eglises orientales_
 (1844), _La Suisse allemande_, &c. One of her last works was devoted to
 the history of her own family, _Gli Albanesi in Roumenia: Storia dei
 Principi Ghika nei secoli XVII-XIX_ (Florence, 1873). Her sister was
@@ -56,7 +56,7 @@ Sophia, Countess O'Rourke.
 
 5. Scarlat Ghica (1750-1802) was twice prince of Walachia. His grandson
 John (Ioan) Ghica (1817-1897), a lifelong friend of Turkey, was educated
-in Bucharest and in the West, and studied engineering and mathematics in
+in Bucharest and in the West, and studied [[Engineering|engineering]] and mathematics in
 Paris from 1837 to 1840; returning to Moldavia he was involved in the
 conspiracy of 1841, which was intended to bring about the union of
 Walachia and Moldavia under one native prince (Michael Sturdza). The

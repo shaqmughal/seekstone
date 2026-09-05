@@ -14,12 +14,12 @@ brain disorder, generally occurring in connexion with some special form
 of bodily disease. It may vary in intensity from slight and occasional
 wandering of the mind and incoherence of expression, to fixed delusions
 and violent maniacal excitement, and again it may be associated with
-more or less of coma or insensibility. (See INSANITY, and
+more or less of [[Coma|coma]] or insensibility. (See [[Insanity|INSANITY]], and
 NEUROPATHOLOGY.) Delirium is apt to occur in most diseases of an acute
-nature, such as fevers or inflammatory affections, in injuries affecting
+nature, such as [[Fever|fevers]] or inflammatory affections, in injuries affecting
 the brain, in blood diseases, in conditions of exhaustion, and as the
 result of the action of certain specific poisons, such as opium, Indian
-hemp, belladonna, chloroform and alcohol.
+hemp, belladonna, [[Chloroform|chloroform]] and alcohol.
 
 Delirium tremens is one of a train of symptoms of what is termed in
 medical nomenclature acute alcoholism, or excessive indulgence in
@@ -43,7 +43,7 @@ have shown themselves, one of which is aversion to drink as well as
 food--the attack being in most instances preceded by marked derangement
 of the digestive functions. Occasionally the attack is precipitated in
 persons predisposed to it by the occurrence of some acute disease, such
-as pneumonia, by accidents, such as burns, also by severe mental strain,
+as pneumonia, by accidents, such as [[Burns|burns]], also by severe mental strain,
 and by the deprivation of food, even where the supply of alcohol is less
 than would have been likely to produce it otherwise. Where, on the other
 hand, the quantity of alcohol taken has been very large, the attack is
@@ -51,7 +51,7 @@ sometimes ushered in by fits of an epileptiform character.
 
 One of the earliest indications of the approaching attack of delirium
 tremens is sleeplessness, any rest the patient may obtain being troubled
-by unpleasant or terrifying dreams. During the day there is observed a
+by unpleasant or terrifying [[Dream|dreams]]. During the day there is observed a
 certain restlessness and irritability of manner, with trembling of the
 hands and a thick or tremulous articulation. The skin is perspiring, the
 countenance oppressed-looking and flushed, the pulse rapid and feeble,
@@ -62,7 +62,7 @@ talks incessantly and incoherently, has a distressed and agitated or
 perplexed appearance, and a vague notion that he is pursued by some one
 seeking to injure him. His delusions are usually of transient character,
 but he is constantly troubled with visual hallucinations in the form of
-disagreeable animals or insects which he imagines he sees all about him.
+disagreeable animals or [[Insect|insects]] which he imagines he sees all about him.
 He looks suspiciously around him, turns over his pillows, and ransacks
 his bedclothes for some fancied object he supposes to be concealed
 there. There is constant restlessness, a common form of delusion being
@@ -92,7 +92,7 @@ in recovery, it occasionally proves fatal by the supervention of coma
 and convulsions, or acute mania, or by exhaustion, more especially when
 any acute bodily disease is associated with the attack. In certain
 instances delirium tremens is but the beginning of serious and permanent
-impairment of intellect, as is not infrequently observed in confirmed
+impairment of [[Intellect|intellect]], as is not infrequently observed in confirmed
 drunkards who have suffered from frequent attacks of this disease. The
 theory once widely accepted, that delirium tremens was the result of the
 too sudden breaking off from indulgence in alcohol, led to its treatment

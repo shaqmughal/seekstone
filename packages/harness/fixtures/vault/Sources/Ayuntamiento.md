@@ -9,7 +9,7 @@ _capitulum_. The ayuntamiento consisted of the official members, and of
 _regidores_ or _regulators_, who were chosen in varying proportions from
 the "hidalgos" or nobles (_hijos de algo_, sons of somebody) and the
 "pecheros," or commoners, who paid the _pecho_, or personal tax; pecho
-(Lat. _pectus_) is in Spanish the breast, and then by extension the person.
+(Lat. _pectus_) is in Spanish the [[Breast|breast]], and then by extension the person.
 The regidores of the ayuntamientos, or lay cabildos, were checked by the
 royal judge or _corregidor_, who was in fact the permanent chairman or
 president. The distinction between hidalgo and pechero has been abolished

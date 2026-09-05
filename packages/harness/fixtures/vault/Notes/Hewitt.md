@@ -8,14 +8,14 @@ type: note
 # Hewitt
 
 HEWITT, ABRAM STEVENS (1822-1903), American manufacturer and political
-leader, was born in Haverstraw, New York, on the 31st of July 1822. His
+leader, was born in [[Haverstraw]], New York, on the 31st of July 1822. His
 father, John, a Staffordshire man, was one of a party of four mechanics
 who were sent by Boulton and Watt to Philadelphia about 1790 to set up a
 steam engine for the city water-works and who in 1793-1794 built at
-Belleville, N.J., the first steam engine constructed wholly in America;
+[[Belleville]], N.J., the first steam engine constructed wholly in America;
 he made a fortune in the manufacture of furniture, but lost it by the
 burning of his factories. The boy's mother was of Huguenot descent. He
-graduated with high rank from Columbia College in 1842, having supported
+graduated with high rank from [[Columbia]] College in 1842, having supported
 himself through his course. He taught mathematics at Columbia, and in
 1845 was admitted to the bar, but, owing to defective eyesight, never
 practised. With Edward Cooper (son of Peter Cooper, whom Hewitt greatly
@@ -32,8 +32,8 @@ of the "Tweed Ring"; from 1875 until the end of 1886 (except in
 for the County Democracy; in the Hayes-Tilden campaign of that year he
 was chairman of the Democratic National Committee, and in Congress he
 was one of the House members of the joint committee which drew up the
-famous Electoral Count Act providing for the Electoral Commission. In
-1886 he was elected mayor of New York City, his nomination having been
+famous Electoral Count Act providing for the [[Electoral Commission]]. In
+1886 he was elected [[Mayor|mayor]] of New York City, his nomination having been
 forced upon the Democratic Party by the strength of the other nominees,
 Henry George and Theodore Roosevelt; his administration (1887-1888) was
 thoroughly efficient and creditable, but he broke with Tammany, was not
@@ -50,10 +50,10 @@ that made at the opening of the Brooklyn Bridge in 1883. He was a terse,
 able and lucid speaker, master of wit and sarcasm, and a fearless
 critic. He gave liberally to Cooper Union, of which he was trustee and
 secretary, and which owes much of its success to him; was a trustee of
-Columbia University from 1901 until his death, chairman of the board of
-trustees of Barnard College, and was one of the original trustees, first
+[[Columbia University]] from 1901 until his death, chairman of the board of
+trustees of [[Barnard]] College, and was one of the original trustees, first
 chairman of the board of trustees, and a member of the executive
-committee of the Carnegie Institution.
+committee of the [[Carnegie]] Institution.
 
 ## See also
 

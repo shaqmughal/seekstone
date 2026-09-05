@@ -3,7 +3,7 @@
 CULLEN, WILLIAM (1710-1790), Scottish physician and medical teacher, was
 born at Hamilton, Lanarkshire, on the 15th of April 1710. He received
 his early education at the grammar-school of Hamilton, and he appears to
-have subsequently attended some classes at the university of Glasgow. He
+have subsequently attended some classes at the university of [[Glasgow]]. He
 began his medical career as apprentice to John Paisley, a Glasgow
 surgeon, and after completing his apprenticeship he became surgeon to a
 merchant vessel trading between London and the West Indies. On his
@@ -11,16 +11,16 @@ return to Scotland in 1732 he settled as a practitioner in the parish of
 Shotts, Lanarkshire, and in 1734-1736 studied medicine at Edinburgh,
 where he was one of the founders of the Royal Medical Society. In 1736
 he began to practise in Hamilton, where he rapidly acquired a high
-reputation. From 1737 to 1740 William Hunter was his resident pupil, and
+reputation. From 1737 to 1740 William [[Hunter]] was his resident pupil, and
 at one time they proposed to enter into partnership. In 1740 Cullen took
 the degree of M.D. at Glasgow, whither he removed in 1744. During his
 residence at Hamilton, besides the arduous duties of medical practice,
 he found time to devote to the study of the natural sciences, and
-especially of chemistry. On coming to Glasgow he appears to have begun
+especially of [[Chemistry|chemistry]]. On coming to Glasgow he appears to have begun
 to lecture in connexion with the university, the medical school of which
 was as yet imperfectly organized. Besides the subjects of theory and
 practice of medicine, he lectured systematically on botany, materia
-medica and chemistry. His great abilities, enthusiasm and power of
+medica and chemistry. His great abilities, [[Enthusiasm|enthusiasm]] and power of
 conveying instruction made him a successful and highly popular teacher,
 and his classes increased largely in numbers. At the same time he
 diligently pursued the practice of his profession. Chemistry was the
@@ -72,10 +72,10 @@ results, and adopt one which attributed more to the agency of the solids
 and very little to that of the fluids of the body. His chief works were
 _First Lines of the Practice of Physic_ (1774); _Institutions of
 Medicine_ (1770); and _Synopsis Nosologicae Medicae_ (1785), which
-contained his classification of diseases into four great classes--(1)
-Pyrexiae, or febrile diseases, as typhus fever; (2) Neuroses, or nervous
-diseases, as epilepsy; (3) Cachexiae, or diseases resulting from bad
-habit of body, as scurvy; and (4) Locales, or local diseases, as cancer.
+contained his [[Classification|classification]] of diseases into four great classes--(1)
+Pyrexiae, or febrile diseases, as typhus [[Fever|fever]]; (2) Neuroses, or nervous
+diseases, as [[Epilepsy|epilepsy]]; (3) Cachexiae, or diseases resulting from bad
+habit of body, as scurvy; and (4) Locales, or local diseases, as [[Cancer|cancer]].
 
 Cullen's eldest son Robert became a Scottish judge in 1796 under the
 title of Lord Cullen, and was known for his powers of mimicry.
@@ -83,7 +83,7 @@ title of Lord Cullen, and was known for his powers of mimicry.
   The first volume of an account of _Cullen's Life, Lectures and
   Writings_ was published by Dr John Thomson in 1832, and was reissued
   with the second volume (completing the work) by Drs W. Thomson and D.
-  Craigie in 1859.
+  [[Craigie]] in 1859.
 
 ## See also
 

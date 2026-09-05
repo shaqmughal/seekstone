@@ -1,9 +1,9 @@
 # Lostwithiel
 
-LOSTWITHIEL, a market town and municipal borough in the Bodmin
-parliamentary division of Cornwall, England, 30½ m. W. of Plymouth by
+LOSTWITHIEL, a market town and municipal borough in the [[Bodmin]]
+parliamentary division of [[Cornwall]], England, 30½ m. W. of Plymouth by
 the Great Western railway. Pop. (1901) 1379. It is pleasantly situated
-on the banks of the river Fowey. The church of St Bartholomew is
+on the banks of the river [[Fowey]]. The church of St Bartholomew is
 remarkable for a fine Early English tower surmounted by a Decorated
 spire; there are also beautiful Decorated windows and details in the
 body of the church, and a richly carved octagonal font. A bridge of the
@@ -26,24 +26,24 @@ his reign granted to the burgesses a gild merchant sac and soc, toll,
 team and infangenethef, freedom from pontage, lastage, &c., throughout
 Cornwall, and exemption from the jurisdiction of the hundred and county
 courts, also a yearly fair and a weekly market. Richard transferred the
-assizes from Launceston to Lostwithiel. His son Edmund, earl of
+[[Assize|assizes]] from [[Launceston]] to Lostwithiel. His son Edmund, earl of
 Cornwall, built a great hall at Lostwithiel and decreed that the coinage
 of tin should be at Lostwithiel only. In 1325 Richard's charter was
 confirmed and the market ordered to be held on Thursdays. In 1386 the
 assizes were transferred back to Launceston. In 1609 a charter of
-incorporation provided for a mayor, recorder, six capital burgesses and
+incorporation provided for a [[Mayor|mayor]], recorder, six capital burgesses and
 seventeen assistants and courts of record and pie powder. The boundaries
 of the borough were extended in 1733. Under the reformed charter granted
 in 1885 the corporation consists of a mayor, four aldermen and twelve
 councillors. From 1305 to 1832 two members represented Lostwithiel in
-parliament. The electors after 1609 were the twenty-five members of the
+parliament. The [[Electors|electors]] after 1609 were the twenty-five members of the
 corporation. Under the Reform Act (1832) the borough became merged in
 the county. For the Thursday market granted in 1326 a Friday market was
 substituted in 1733, and this continues to be held. The fair granted in
 1326 and the three fairs granted in 1733 have all given place to others.
 The archdeacon's court, the sessions and the county elections were long
 held at Lostwithiel, but all have now been removed. For the victory
-gained by Charles I. over the earl of Essex in 1644, see GREAT
+gained by Charles I. over the earl of [[Essex]] in 1644, see GREAT
 REBELLION.
 
 ## See also

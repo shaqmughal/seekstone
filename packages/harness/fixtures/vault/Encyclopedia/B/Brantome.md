@@ -11,9 +11,9 @@ id: 42-679
 BRANTOME, PIERRE DE BOURDEILLE, SEIGNEUR AND ABBE DE (c. 1540-1614),
 French historian and biographer, was born in Perigord about 1540. He was
 the third son of the baron de Bourdeille. His mother and his maternal
-grandmother were both attached to the court of Marguerite of Valois, and
+grandmother were both attached to the court of [[Marguerite]] of Valois, and
 at her death in 1549 he went to Paris, and later (1555) to Poitiers, to
-finish his education. He was given several benefices, the most important
+finish his education. He was given several [[Benefice|benefices]], the most important
 of which was the abbey of Brantome (see below), but he had no
 inclination for an ecclesiastical career. At an early age he entered the
 profession of arms. He showed himself a brave soldier, and was brought
@@ -22,8 +22,8 @@ fortune in the wars that distracted the continent. He travelled much in
 Italy; in Scotland, where he accompanied Mary Stuart (then the widow of
 Francis I.); in England, where he saw Queen Elizabeth (1561, 1579); in
 Morocco (1564); and in Spain and Portugal. He fought on the galleys of
-the order of Malta, and accompanied his great friend, the French
-commander Philippe Strozzi (grandson of Filippo Strozzi, the Italian
+the order of [[Malta]], and accompanied his great friend, the French
+[[Commander|commander]] Philippe Strozzi (grandson of Filippo Strozzi, the Italian
 general, and nephew of Piero), in his expedition against Terceira, in
 which Strozzi was killed (1582). During the wars of religion under
 Charles IX. he fought in the ranks of the Catholics, but he allowed
@@ -34,7 +34,7 @@ private life about 1589, and he spent his last years in writing his
 _Memoirs_ of the illustrious men and women whom he had known. He died on
 the 15th of July 1614.
 
-Brantome left distinct orders that his manuscript should be printed; a
+Brantome left distinct orders that his [[Manuscript|manuscript]] should be printed; a
 first edition appeared, however, late (1665-1666) and not very complete.
 Of the later editions the most valuable are: one in 15 volumes (1740);
 another by Louis Jean Nicolas Monmerque (1780-1860) in 8 volumes
@@ -48,7 +48,7 @@ quaint conversational way, pouring forth his thoughts, observations or
 facts without order or system, and with the greatest frankness and
 naivete. His works certainly gave an admirable picture of the general
 court-life of the time, with its unblushing and undisguised profligacy.
-There is not a _homme illustre_ or a _dame galante_ in all his gallery
+There is not a _homme illustre_ or a _[[Dame|dame]] galante_ in all his gallery
 of portraits who is not stained with vice; and yet the whole is narrated
 with the most complete unconsciousness that there is anything
 objectionable in their conduct.

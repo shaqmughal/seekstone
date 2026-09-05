@@ -12,14 +12,14 @@ or _ellekonge_, that is, _elverkonge_, the king of the elves; and the
 true German word would have been _Elbkonig_ or _Elbenkonig_, afterwards
 used under the modified form of _Elfenkonig_ by Wieland in his _Oberon_
 (1780). Herder was probably misled by the fact that the Danish word
-_elle_ signifies not only elf, but also alder tree (Ger. _Erle_). His
+_elle_ signifies not only [[Elf|elf]], but also alder tree (Ger. _[[Erle]]_). His
 mistake at any rate has been perpetuated by both English and French
 translators, who speak of a "king of the alders," "un roi des aunes,"
 and find an explanation of the myth in the tree-worship of early times,
 or in the vapoury emanations that hang like weird phantoms round the
 alder trees at night. The legend was adopted by Goethe as the subject of
 one of his finest ballads, rendered familiar to English readers by the
-translations of Lewis and Sir Walter Scott; and since then it has been
+translations of [[Lewis]] and Sir Walter Scott; and since then it has been
 treated as a musical theme by Reichardt and Schubert.
 
 ## References

@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chatham"
 
 CHATHAM, WILLIAM PITT, 1st EARL OF (1708-1778), English statesman, was
 born at Westminster on the 15th of November 1708. He was the younger son
-of Robert Pitt of Boconnoc, Cornwall, and grandson of Thomas Pitt
+of Robert Pitt of Boconnoc, [[Cornwall]], and grandson of Thomas Pitt
 (1653-1726), governor of Madras, who was known as "Diamond" Pitt, from
 the fact of his having sold a diamond of extraordinary size to the
 regent Orleans for something like £135,000. It was mainly by this
@@ -19,8 +19,8 @@ which was one of old standing, to a position of wealth and political
 influence. The latter he acquired by purchasing the burgage tenures of
 Old Sarum.
 
-William Pitt was educated at Eton, and in January 1727 was entered as a
-gentleman commoner at Trinity College, Oxford. There is evidence that he
+William Pitt was educated at [[Eton]], and in January 1727 was entered as a
+[[Gentleman|gentleman]] commoner at Trinity College, Oxford. There is evidence that he
 was an extensively read, if not a minutely accurate classical scholar;
 and it is interesting to know that Demosthenes was his favourite author,
 and that he diligently cultivated the faculty of expression by the
@@ -32,7 +32,7 @@ intractable, and he continued subject to attacks of growing intensity at
 frequent intervals till the close of his life. In 1727 his father had
 died, and on his return home it was necessary for him, as the younger
 son, to choose a profession. Having chosen the army, he obtained through
-the interest of his friends a cornet's commission in the dragoons. But
+the interest of his friends a cornet's commission in the [[Dragoon|dragoons]]. But
 his military career was destined to be short. His elder brother Thomas
 having been returned at the general election of 1734 both for Oakhampton
 and for Old Sarum, and having preferred to sit for the former, the
@@ -53,9 +53,9 @@ dismissal from the army. Some years later he had occasion vigorously to
 denounce the system of cashiering officers for political differences,
 but with characteristic loftiness of spirit he disdained to make any
 reference to his own case. The loss of his commission was soon made up
-to him. The heir to the throne, as was usually the case in the house of
-Hanover, if not in reigning families generally, was the patron of the
-opposition, and the ex-cornet became groom of the bed-chamber to the
+to him. The [[Heir|heir]] to the throne, as was usually the case in the house of
+[[Hanover]], if not in reigning families generally, was the patron of the
+opposition, and the ex-cornet became [[Groom|groom]] of the bed-chamber to the
 prince of Wales. In this new position his hostility to the government
 did not, as may be supposed, in any degree relax. He had all the natural
 gifts an orator could desire--a commanding presence, a graceful though
@@ -89,7 +89,7 @@ of Wilmington, though the real power in the new government was divided
 between Carteret and the Pelhams. Pitt's conduct on the change of
 administration was open to grave censure. The relentless vindictiveness
 with which he insisted on the prosecution of Walpole, and supported the
-bill of indemnity to witnesses against the fallen minister, was in
+bill of [[Indemnity|indemnity]] to witnesses against the fallen minister, was in
 itself not magnanimous; but it appears positively unworthy when it is
 known that a short time before Pitt had offered, on certain conditions,
 to use all his influence in the other direction. Possibly he was
@@ -102,8 +102,8 @@ Pelhams in 1744, after the dismissal of Carteret, though it included
 several of those with whom he had been accustomed to act, did not at
 first include Pitt himself even in a subordinate office. Before the
 obstacle to his admission was overcome, he had received a remarkable
-accession to his private fortune. The eccentric duchess of Marlborough,
-dying in 1744, at the age of ninety, left him a legacy of £10,000 as an
+accession to his private fortune. The [[Eccentric|eccentric]] duchess of [[Marlborough]],
+dying in 1744, at the age of ninety, left him a [[Legacy|legacy]] of £10,000 as an
 "acknowledgment of the noble defence he had made for the support of the
 laws of England and to prevent the ruin of his country." As her hatred
 was known to be at least as strong as her love, the legacy was probably
@@ -116,7 +116,7 @@ Sir William Pynsent, a Somersetshire baronet to whom he was personally
 quite unknown, left him his entire estate, worth about three thousand a
 year, in testimony of approval of his political career.
 
-It was with no very good grace that the king at length consented to give
+It was with no very good [[Grace|grace]] that the king at length consented to give
 Pitt a place in the government, although the latter did all he could to
 ingratiate himself at court, by changing his tone on the questions on
 which he had made himself offensive. To force the matter, the Pelhams
@@ -126,7 +126,7 @@ impracticable, that they were reinstated with the obnoxious politician
 as vice-treasurer of Ireland. This was in February 1746. In May of the
 same year he was promoted to the more important and lucrative office of
 paymaster-general, which gave him a place in the privy council, though
-not in the cabinet. Here he had an opportunity of displaying his public
+not in the [[Cabinet|cabinet]]. Here he had an opportunity of displaying his public
 spirit and integrity in a way that deeply impressed both the king and
 the country. It had been the usual practice of previous paymasters to
 appropriate to themselves the interest of all money lying in their hands
@@ -177,7 +177,7 @@ In 1754 Henry Pelham died, and was succeeded at the head of affairs by
 his brother, the duke of Newcastle. To Pitt the change brought no
 advancement, and he had thus an opportunity of testing the truth of the
 description of his chief given by Sir Robert Walpole, "His name is
-treason." But there was for a time no open breach. Pitt continued at his
+treason." But there was for a time no open [[Breach|breach]]. Pitt continued at his
 post; and at the general election which took place during the year he
 even accepted a nomination for the duke's pocket borough of Aldborough.
 He had sat for Seaford since 1747. When parliament met, however, he was
@@ -189,7 +189,7 @@ strange state matters continued for about a year. At length, just after
 the meeting of parliament in November 1751, Pitt was dismissed from
 office, having on the debate on the address spoken at great length
 against a new system of continental subsidies, proposed by the
-government of which he was a member. Fox, who had just before been
+government of which he was a member. [[Fox]], who had just before been
 appointed secretary of state, retained his place, and though the two men
 continued to be of the same party, and afterwards served again in the
 same government, there was henceforward a rivalry between them, which
@@ -202,7 +202,7 @@ opposition, and a series of military disasters abroad combined to rouse
 a public feeling of indignation which could not be withstood, and in
 December 1756 Pitt, who now sat for Okehampton, became secretary of
 state, and leader of the Commons under the premiership of the duke of
-Devonshire. He had made it a condition of his joining any administration
+[[Devonshire]]. He had made it a condition of his joining any administration
 that Newcastle should be excluded from it, thus showing a resentment
 which, though natural enough, proved fatal to the lengthened existence
 of his government. With the king unfriendly, and Newcastle, whose
@@ -231,7 +231,7 @@ in power till 1761. During the four years of its existence it has been
 usual to say that the biography of Pitt is the history of England, so
 thoroughly was he identified with the great events which make this
 period, in so far as the external relations of the country are
-concerned, one of the most glorious in her annals. A detailed account of
+concerned, one of the most glorious in her [[Annals|annals]]. A detailed account of
 these events belongs to history; all that is needed in a biography is to
 point out the extent to which Pitt's personal influence may really be
 traced in them. It is scarcely too much to say that, in the general
@@ -240,12 +240,12 @@ his single genius; his alone was the mind that planned, and his the
 spirit that animated the brilliant achievements of the British arms in
 all the four quarters of the globe. Posterity, indeed, has been able to
 recognize more fully the independent genius of those who carried out his
-purposes. The heroism of Wolfe would have been irrepressible, Clive
+purposes. The heroism of Wolfe would have been irrepressible, [[Clive]]
 would have proved himself "a heaven-born general," and Frederick the
 Great would have written his name in history as one of the most skilful
 strategists the world has known, whoever had held the seals of office in
 England. But Pitt's relation to all three was such as to entitle him to
-a large share in the credit of their deeds. It was his discernment that
+a large share in the [[Credit|credit]] of their deeds. It was his discernment that
 selected Wolfe to lead the attack on Quebec, and gave him the
 opportunity of dying a victor on the heights of Abraham. He had
 personally less to do with the successes in India than with the other
@@ -279,7 +279,7 @@ humiliation was the beginning of a new epoch in history. The victorious
 policy of Pitt destroyed the military prestige which repeated experience
 has shown to be in France as in no other country the very life of
 monarchy, and thus was not the least considerable of the many influences
-that slowly brought about the French Revolution. It effectually deprived
+that slowly brought about the [[French Revolution]]. It effectually deprived
 her of the lead in the councils of Europe which she had hitherto
 arrogated to herself, and so affected the whole course of continental
 politics. It is such far-reaching results as these, and not the mere
@@ -294,16 +294,16 @@ new king had, as was natural, new counsellors of his own, the chief of
 whom, Lord Bute, was at once admitted to the cabinet as a secretary of
 state. Between Bute and Pitt there speedily arose an occasion of serious
 difference. The existence of the so-called family compact by which the
-Bourbons of France and Spain bound themselves in an offensive alliance
+[[Bourbon|Bourbons]] of France and Spain bound themselves in an offensive alliance
 against England having been brought to light, Pitt urged that it should
-be met by an immediate declaration of war with Spain. To this course
+be met by an immediate [[Declaration|declaration]] of war with Spain. To this course
 Bute would not consent, and as his refusal was endorsed by all his
 colleagues save Temple, Pitt had no choice but to leave a cabinet in
 which his advice on a vital question had been rejected. On his
 resignation, which took place in October 1761, the king urged him to
 accept some signal mark of royal favour in the form most agreeable to
 himself. Accordingly he obtained a pension of £3000 a year for three
-lives, and his wife, Lady Hester Grenville, whom he had married in 1754,
+lives, and his wife, Lady Hester [[Grenville]], whom he had married in 1754,
 was created Baroness Chatham in her own right. In connexion with the
 latter gracefully bestowed honour it may be mentioned that Pitt's
 domestic life was a singularly happy one.
@@ -326,7 +326,7 @@ protested against its various conditions. The physical cause which
 rendered this effort so painful probably accounts for the infrequency of
 his appearances in parliament, as well as for much that is otherwise
 inexplicable in his subsequent conduct. In 1763 he spoke against the
-obnoxious tax on cider, imposed by his brother-in-law, George Grenville,
+obnoxious tax on [[Cider|cider]], imposed by his brother-in-law, George Grenville,
 and his opposition, though unsuccessful in the House, helped to keep
 alive his popularity with the country, which cordially hated the excise
 and all connected with it. When next year the question of general
@@ -353,7 +353,7 @@ Pitt had not been long out of office when he was solicited to return to
 it, and the solicitations were more than once renewed. Unsuccessful
 overtures were made to him in 1763, and twice in 1765, in May and
 June--the negotiator in May being the king's uncle, the duke of
-Cumberland, who went down in person to Hayes, Pitt's seat in Kent. It is
+[[Cumberland]], who went down in person to [[Hay|Hayes]], Pitt's seat in Kent. It is
 known that he had the opportunity of joining the marquis of Rockingham's
 short-lived administration at any time on his own terms, and his conduct
 in declining an arrangement with that minister has been more generally
@@ -363,9 +363,9 @@ task of forming a government entirely on his own conditions. The result
 was a cabinet, strong much beyond the average in its individual members,
 but weak to powerlessness in the diversity of its composition. Burke, in
 a memorable passage of a memorable speech, has described this "chequered
-and speckled" administration with great humour, speaking of it as
+and speckled" administration with great [[Humour|humour]], speaking of it as
 "indeed a very curious show, but utterly unsafe to touch and unsure to
-stand on." Pitt chose for himself the office of lord privy seal, which
+stand on." Pitt [[Chose|chose]] for himself the office of lord privy seal, which
 necessitated his removal to the House of Lords; and in August he became
 earl of Chatham and Viscount Pitt.
 
@@ -373,7 +373,7 @@ By the acceptance of a peerage the great commoner lost at least as much
 and as suddenly in popularity as he gained in dignity. One significant
 indication of this may be mentioned. In view of his probable accession
 to power, preparations were made in the city of London for a banquet and
-a general illumination to celebrate the event. But the celebration was
+a general [[Illumination|illumination]] to celebrate the event. But the celebration was
 at once countermanded when it was known that he had become earl of
 Chatham. The instantaneous revulsion of public feeling was somewhat
 unreasonable, for Pitt's health seems now to have been beyond doubt so
@@ -383,9 +383,9 @@ choose a sinecure office, and the ease of the Lords. But a popular idol
 nearly always suffers by removal from immediate contact with the popular
 sympathy, be the motives for removal what they may.
 
-One of the earliest acts of the new ministry was to lay an embargo upon
-corn, which was thought necessary in order to prevent a dearth resulting
-from the unprecedentedly bad harvest of 1766. The measure was strongly
+One of the earliest acts of the new ministry was to lay an [[Embargo|embargo]] upon
+[[Corn|corn]], which was thought necessary in order to prevent a dearth resulting
+from the unprecedentedly bad [[Harvest|harvest]] of 1766. The measure was strongly
 opposed, and Lord Chatham delivered his first speech in the House of
 Lords in support of it. It proved to be almost the only measure
 introduced by his government in which he personally interested himself.
@@ -411,7 +411,7 @@ circumstances. But there is no sufficient reason to doubt that he was
 really, as his friends represented, in a state that utterly unfitted him
 for business. He seems to have been freed for a time from the pangs of
 gout only to be afflicted with a species of mental alienation bordering
-on insanity. This is the most satisfactory, as it is the most obvious,
+on [[Insanity|insanity]]. This is the most satisfactory, as it is the most obvious,
 explanation of his utter indifference in presence of one of the most
 momentous problems that ever pressed for solution on an English
 statesman. Those who are able to read the history in the light of what
@@ -424,7 +424,7 @@ discontent of the colonists and prevented the ultimate dismemberment of
 the empire, it would have been Lord Chatham. The fact that he not only
 did nothing to remove existing difficulties, but remained passive while
 his colleagues took the fatal step which led directly to separation, is
-in itself clear proof of his entire incapacity. The imposition of the
+in itself clear proof of his entire incapacity. The [[Imposition|imposition]] of the
 import duty on tea and other commodities was the project of Charles
 Townshend, and was carried into effect in 1767 without consultation with
 Lord Chatham, if not in opposition to his wishes. It is probably the
@@ -446,7 +446,7 @@ mention the dismissal of Amherst and Shelburne as a personal grievance.
 Soon after his resignation a renewed attack of gout freed Chatham from
 the mental disease under which he had so long suffered. He had been
 nearly two years and a half in seclusion when, in July 1769, he again
-appeared in public at a royal levee. It was not, however, until 1770
+appeared in public at a royal [[Levee|levee]]. It was not, however, until 1770
 that he resumed his seat in the House of Lords. He had now almost no
 personal following, mainly owing to the grave mistake he had made in not
 forming an alliance with the Rockingham party. But his eloquence was as
@@ -462,7 +462,7 @@ to the "natural enemy" whom it had been the main object of his life to
 humble, and he declaimed for a considerable time, though with sadly
 diminished vigour, against the motion. After the duke of Richmond had
 replied, he rose again excitedly as if to speak, pressed his hand upon
-his breast, and fell down in a fit. He was removed to his seat at Hayes,
+his [[Breast|breast]], and fell down in a fit. He was removed to his seat at Hayes,
 where he died on the 11th of May. With graceful unanimity all parties
 combined to show their sense of the national loss. The Commons presented
 an address to the king praying that the deceased statesman might be
@@ -508,11 +508,11 @@ confessed his unfitness for dealing with questions of finance. The
 commercial prosperity that was produced by his war policy was in a great
 part delusive, as prosperity so produced must always be, though it had
 permanent effects of the highest moment in the rise of such centres of
-industry as Glasgow. This, however, was a remote result which he could
+industry as [[Glasgow]]. This, however, was a remote result which he could
 have neither intended nor foreseen.
 
   The correspondence of Lord Chatham, in four volumes, was published in
-  1838-1840; and a volume of his letters to Lord Camelford in 1804. The
+  1838-1840; and a volume of his letters to Lord [[Camelford]] in 1804. The
   Rev. Francis Thackeray's _History of the Rt. Hon. William Pitt, Earl
   of Chatham_ (2 vols., 1827), is a ponderous and shapeless work.
   Frederic Harrison's _Chatham_, in the "Twelve English Statesmen"
@@ -522,7 +522,7 @@ have neither intended nor foreseen.
   best and most thorough account of Chatham, his period, and his policy,
   which has appeared. See also the separate article on William Pitt, and
   the authorities referred to, especially the Rev. William Hunt's
-  appendix i. to his vol. x. of _The Political History of England_
+  appendix i. to his vol. x. of _The [[Political History]] of England_
   (1905).
 
 ## References

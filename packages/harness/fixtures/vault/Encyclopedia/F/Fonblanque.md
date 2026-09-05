@@ -7,12 +7,12 @@ topic: history
 # Fonblanque
 
 FONBLANQUE, ALBANY WILLIAM (1793-1872), English journalist, descended
-from a noble French Huguenot family, the Greniers of Languedoc, was born
+from a noble French Huguenot family, the Greniers of [[Languedoc]], was born
 in London in 1793. John Grenier, a banker, became naturalized in England
-under the name of Fonblanque; and his son John Samuel Martin Fonblanque
-(1760-1838), a distinguished equity lawyer, and the author of a standard
+under the name of Fonblanque; and his son John Samuel [[Martin]] Fonblanque
+(1760-1838), a distinguished [[Equity|equity]] lawyer, and the author of a standard
 legal work, a _Treatise on Equity_, was the father of Albany Fonblanque;
-he represented the borough of Camelford in parliament; and was one of
+he represented the borough of [[Camelford]] in parliament; and was one of
 the Whig friends of George IV. when prince of Wales. At fourteen young
 Fonblanque was sent to Woolwich to prepare for the Royal Engineers. His
 health, however, failed, and for two years his studies had to be
@@ -34,17 +34,17 @@ From 1820 to 1830 Albany Fonblanque was successively employed upon the
 staff of _The Times_ and the _Morning Chronicle_, whilst he contributed
 to the _Examiner_, to the _London Magazine_ and to the _Westminster
 Review_. In 1828 the _Examiner_ newspaper, which had been purchased by
-the Rev. Dr Fellowes, author of the _Religion of the Universe_, &c., was
+the Rev. Dr [[Fellow|Fellowes]], author of the _Religion of the Universe_, &c., was
 given over to Fonblanque's complete control; and for a period of
 seventeen years (1830 to 1847) he not only sustained the high character
 for political independence and literary ability which the _Examiner_ had
-gained under the direction of Leigh Hunt and his brother, John Hunt, but
+gained under the direction of Leigh [[Hunt]] and his brother, John Hunt, but
 even compelled his political opponents to acknowledge a certain delight
 in the boldness and brightness of the wit directed against themselves.
 When it was proposed that the admirers and supporters of the paper
 should facilitate a reduction in its price by the payment of their
 subscription ten years in advance, not only did Mr Edward Bulwer (Lord
-Lytton) volunteer his aid, but also Mr Disraeli, who was then coquetting
+[[Lytton]]) volunteer his aid, but also Mr Disraeli, who was then coquetting
 with radicalism. During his connexion with the _Examiner_, Fonblanque
 had many advantageous offers of further literary employment; but he
 devoted his energies and talents almost exclusively to the service of
@@ -70,9 +70,9 @@ comparison with the course of social and political events in England
 from 1826 to 1837. As a journalist, he must be regarded in the light of
 a reformer. Journalism before his day was regarded as a somewhat
 discreditable profession; men of true culture were shy of entering the
-hot and dusty arena lest they should be confounded with the ruder
+hot and dusty [[Arena|arena]] lest they should be confounded with the ruder
 combatants who fought there before the public for hire. But the fact
-that Fonblanque, a man not only of strong and earnest political
+that Fonblanque, a man not only of strong and [[Earnest|earnest]] political
 convictions but also of exceptional literary ability, did not hesitate
 to choose this field as a worthy one in which both a politician and a
 man of letters might usefully as well as honourably put forth his best
@@ -80,7 +80,7 @@ gifts, must have helped, in no small degree, to correct the old
 prejudice.
 
   See the _Life and Labours of Albany Fonblanque_, edited by his nephew,
-  Edward Barrington de Fonblanque (London, 1874); a collection of his
+  Edward [[Barrington]] de Fonblanque (London, 1874); a collection of his
   articles with a brief biographical notice.
 
 ## References

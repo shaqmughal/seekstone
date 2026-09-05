@@ -5,9 +5,9 @@ in Cork, on the 12th of May 1784. His father was the lexicographer,
 James Knowles (1759-1840), cousin-german of Richard Brinsley Sheridan.
 The family removed to London in 1793, and at the age of fourteen Knowles
 published a ballad entitled _The Welsh Harper_, which, set to music, was
-very popular. The boy's talents secured him the friendship of Hazlitt,
+very popular. The boy's talents secured him the friendship of [[Hazlitt]],
 who introduced him to Lamb and Coleridge. He served for some time in the
-Wiltshire and afterwards in the Tower Hamlets militia, leaving the
+Wiltshire and afterwards in the Tower [[Hamlet|Hamlets]] militia, leaving the
 service to become pupil of Dr Robert Willan (1757-1812). He obtained the
 degree of M.D., and was appointed vaccinator to the Jennerian Society.
 Although, however, Dr Willan generously offered him a share in his
@@ -16,10 +16,10 @@ first appearance probably at Bath, and playing Hamlet at the Crow
 Theatre, Dublin. At Wexford he married, in October 1809, Maria
 Charteris, an actress from the Edinburgh Theatre. In 1810 he wrote
 _Leo_, in which Edmund Kean acted with great success; another play,
-_Brian Boroihme_, written for the Belfast Theatre in the next year, also
+_Brian Boroihme_, written for the [[Belfast]] Theatre in the next year, also
 drew crowded houses, but his earnings were so small that he was obliged
 to become assistant to his father at the Belfast Academical Institution.
-In 1817 he removed from Belfast to Glasgow, where, besides conducting a
+In 1817 he removed from Belfast to [[Glasgow]], where, besides conducting a
 flourishing school, he continued to write for the stage. His first
 important success was _Caius Gracchus_, produced at Belfast in 1815; and
 his _Virginius_, written for Edmund Kean, was first performed in 1820 at
@@ -56,12 +56,12 @@ became increasingly preponderant; and that of Catholics was even more
 so. The geographical segregation and the clannishness of foreign voters
 in the cities gave them a power that Whigs and Democrats alike (the
 latter more successfully) strove to control, to the great aggravation of
-naturalization and election frauds. "No one can deny that ignorant
+naturalization and election [[Fraud|frauds]]. "No one can deny that ignorant
 foreign suffrage had grown to be an evil of immense proportions" (J. F.
 Rhodes). In labour disputes, political feuds and social clannishness,
 the alien elements--especially the Irish and German--displayed their
 power, and at times gave offence by their hostile criticism of American
-institutions.[1] In immigration centres like Boston, Philadelphia and
+institutions.[1] In immigration centres like [[Boston]], Philadelphia and
 New York, the Catholic Church, very largely foreign in membership and
 proclaiming a foreign allegiance of disputed extent, was really "the
 symbol and strength of foreign influence" (Scisco); many regarded it as
@@ -70,7 +70,7 @@ ideas.[2] Thus it became involved in politics. The decade 1830-1840 was
 marked by anti-Catholic (anti-Irish) riots in various cities and by
 party organization of nativists in many places in local elections. Thus
 arose the American-Republican (later the Native-American) Party, whose
-national career begun practically in 1845, and which in Louisiana in
+national career begun practically in 1845, and which in [[Louisiana]] in
 1841 first received a state organization. New York City in 1844 and
 Boston in 1845 were carried by the nativists, but their success was due
 to Whig support, which was not continued,[3] and the national
@@ -89,7 +89,7 @@ obscure.[4] Its organization was secret; and hence its name--for a
 member, when interrogated, always answered that he knew nothing about
 it. Selecting candidates secretly from among those nominated by the
 other parties, and giving them no public endorsement, the Know Nothings,
-as soon as they gained the balance of power, could shatter at will Whig
+as soon as they gained the [[Balance Of Power|balance of power]], could shatter at will Whig
 and Democratic calculations. Their power was evident by 1852--from which
 time, accordingly, "Know Nothingism" is most properly dated. The charges
 they brought against naturalization abuses were only too well founded;
@@ -125,7 +125,7 @@ Democrats would endure the evasion; Douglas and Seward, and later
 (1855-1856) their parties, denounced it. In the North-West the Know
 Nothings were swept into the anti-slavery movement in 1854 without
 retaining their organization. In the state campaigns of 1855 professions
-were measured to the latitude. The national platform of 1856 (adopted by
+were measured to the [[Latitude|latitude]]. The national platform of 1856 (adopted by
 a secret grand council), besides including anti-alien and anti-Catholic
 planks, offered sops to the North, the South and the "doughfaces" on the
 slavery issue. Millard Fillmore was nominated for the presidency. The
@@ -151,7 +151,7 @@ been generally accepted; others--as the refusal to exclude the
 others--as the taxation of all Church property--remain disputed.
 
   See L. D. Scisco, _Political Nativism in New York State_ (doctoral
-  thesis, Columbia University, New York, 1901); L. F. Schmeckebier,
+  thesis, [[Columbia]] University, New York, 1901); L. F. Schmeckebier,
   _Know Nothing Party in Maryland_ (Johns Hopkins University, Baltimore,
   1899); G. H. Haynes, "A Know Nothing Legislature" (Mass., 1855), in
   _American Historical Assoc. Report_, pt. 1 (1896); J. B. McMaster,
@@ -182,7 +182,7 @@ FOOTNOTES:
   [5] This year "American Party" became the official name. Its strength
     in Congress was almost thirty-fold that of 1852. It elected
     governors, legislatures, or both, in four New England states, and in
-    Maryland, Kentucky and California; minor officers elsewhere; and
+    Maryland, [[Kentucky]] and California; minor officers elsewhere; and
     almost won six Southern states.
 
   [6] For it delayed anti-slavery organization in the North, and

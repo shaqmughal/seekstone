@@ -6,7 +6,7 @@ westerly and then south-westerly direction for a distance of 19 m.
 Excepting at the Bay of Nigg, on the northern shore, and Cromarty Bay,
 on the southern, where it is about 5 m. wide (due N. and S.), and at
 Alness Bay, where it is 2 m. wide, it has an average width of 1 m. and a
-depth varying from 5 to 10 fathoms, forming one of the safest and most
+depth varying from 5 to 10 [[Fathom|fathoms]], forming one of the safest and most
 commodious anchorages in the north of Scotland. Besides other streams it
 receives the Conon, Peffery, Skiack and Alness, and the principal places
 on its shores are Dingwall near the head, Cromarty near the mouth,

@@ -10,11 +10,11 @@ KRAGUYEVATS (also written KRAGUIEVATZ and KRAGUJEVAC), the capital of
 the Kraguyevats department of Servia; situated 59 m. S.S.W. of Belgrade,
 in a valley of the Shumadia, or "forest-land," and on the Lepenitsa, a
 small stream flowing north-east to join the Morava. On the opposite bank
-stands the picturesque hamlet of Obilichevo, with a large powder
+stands the picturesque [[Hamlet|hamlet]] of Obilichevo, with a large powder
 factory. Kraguyevats itself is the main arsenal of Servia, and
 possesses an iron-foundry and a steam flour-mill. It is the seat of the
 district prefecture, of a tribunal, of a fine library, and of a large
-garrison. It boasts the finest college building and the finest modern
+[[Garrison|garrison]]. It boasts the finest college building and the finest modern
 cathedral (in Byzantine style) in Servia. In the first years of Servia's
 autonomy under Prince Milosh, it was the residence of the prince and the
 seat of government (1818-1839). Even later, between 1868 and 1880, the

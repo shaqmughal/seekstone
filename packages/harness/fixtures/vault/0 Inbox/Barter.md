@@ -6,7 +6,7 @@ topic: chemistry
 
 # Barter
 
-BARTER (from Fr. _barater_, to truck, to exchange), the exchange of
+BARTER (from Fr. _barater_, to truck, to [[Exchange|exchange]]), the exchange of
 commodities for commodities, in contra-distinction to the exchange of
 commodities for money. Barter was the simplest form of trading among
 primitive communities, but its inconveniences led, at an early stage of
@@ -18,7 +18,7 @@ weapons, tools and ornaments, which are more readily taken than money.
 
 For the history of barter and the steps by which a system of currency was
 gradually evolved, see MONEY. Consult also W. S. Jevons, _Money and the
-Mechanism of Exchange_; A. Marshall, _Economics_; W. Ridgeway, _Origin of
+Mechanism of Exchange_; A. [[Marshall]], _Economics_; W. Ridgeway, _Origin of
 Currency and Weight Standards._
 
 ## See also

@@ -11,7 +11,7 @@ invasion of England by Canute in 1015 Edric deserted Edmund Ironside and
 joined him. After the battle of Otford he returned to Edmund, but only
 by his treachery at the battle of Assandun to secure the utter defeat of
 the national cause. When peace was at length made, Canute restored to
-Edric the earldom of Mercia; but at Christmas 1017, fearing further
+Edric the earldom of Mercia; but at [[Christmas]] 1017, fearing further
 treachery, he had him slain--"very rightly" says the _Saxon Chronicle_.
 
 
@@ -19,13 +19,13 @@ treachery, he had him slain--"very rightly" says the _Saxon Chronicle_.
 
 EDUCATION. In the following treatment of this subject, the theory and
 early history of education is first dealt with, and secondly the modern
-organization of education as a national concern. Many definitions have
+organization of education as a national concern. Many [[Definition|definitions]] have
 been given of the word "education," but underlying them all is the
 conception that it denotes an attempt on the part of the adult members
 of a human society to shape the development of the coming generation in
 accordance with its own ideals of life. It is true that the word has not
 infrequently been used in wider senses than this. For example, J.S. Mill
-included under it everything which "helps to shape the human being";
+included under it everything which "[[Helps|helps]] to shape the human being";
 and, with some poetic licence, we speak of the education of a people or
 even of the whole human race. But all such usages are rhetorical
 extensions of the commonly accepted sense of the term, which includes,
@@ -133,7 +133,7 @@ Still more does this imply that education strives to transcend the
 present condition of the educated by making their life more rational,
 more volitional, and more attracted by goodness and beauty than it would
 otherwise be. It can never be a passive watching of the child's
-development. No more fundamental error can be made than the assumption
+development. No more fundamental [[Error|error]] can be made than the [[Assumption|assumption]]
 that education can be determined wholly, or even mainly, by the
 tendencies and impulses with which a child is endowed. Its real guiding
 principle must be a conception of the nature to which the child may
@@ -143,7 +143,7 @@ development of that innate nature in order that he may, wisely and
 successfully, employ appropriate means to direct further development and
 to accelerate its progress towards a more rational, complete and worthy
 life; not that he may the more skilfully give facilities to the child to
-drift about on the unregulated currents of caprice.
+[[Drift|drift]] about on the unregulated currents of caprice.
 
 Such considerations show the importance of an insight into the theory of
 education on the part of all who are practically concerned with its
@@ -171,7 +171,7 @@ neither simple egoism nor pure altruism. Until that conception of life
 is attained and held generally there can be no sure and universally
 accepted conception of the aim and function of education. Much of the
 interest of the history of education[1] turns on the relation of these
-two principles as determinants of its aim.
+two principles as [[Determinant|determinants]] of its aim.
 
 
   Old Greek education.
@@ -179,7 +179,7 @@ two principles as determinants of its aim.
 In ancient Greece the supremacy of the state was generally unquestioned,
 and, especially in the earlier times, the good man was identified with
 the good citizen. No doubt, in later days philosophers, such as Plato
-and Aristotle, saw clearly that the round of the duties of citizenship
+and [[Aristotle]], saw clearly that the round of the duties of citizenship
 did not exhaust the life of the individual. With them the highest life
 was one of cultured leisure in which the energies were mainly
 concentrated on the pursuit of knowledge for its own sake. But this
@@ -230,7 +230,7 @@ state laws insisting on the attendance of the children of the free
 citizens at school, and, in some degree, regulating the schools
 themselves. But at the time of Plato these had fallen into desuetude,
 and the state directly concerned itself only with the training of the
-ephebi, for which, we learn from Aristotle's _Constitution of Athens_,
+[[Ephebi|ephebi]], for which, we learn from Aristotle's _Constitution of Athens_,
 somewhat elaborate provisions were made by the appointment of officers,
 and the regulation of both intellectual and physical pursuits. For
 children and youths under the ephebic age there was no practical
@@ -246,7 +246,7 @@ education was in reality its strongest point. In practice, the harmony
 between individual liberty and social claims was much more nearly
 attained under a system of free working out of common thoughts and
 ideals than would have been the case under one of the irresistible
-imposition from without of a rigid mould.
+[[Imposition|imposition]] from without of a rigid mould.
 
 The instruments of education everywhere found to be in harmony with the
 Greek conception of life and culture were essentially twofold,--"music"
@@ -257,7 +257,7 @@ character, and doubtless, though not formulated, this was generally more
 or less vaguely felt. But Greek gymnastic was really an individual
 training, and therefore made only indirectly for the aim of cultivating
 the social bonds of citizenship. Ancient Greece had nothing
-corresponding in value in this respect to the organized games which form
+corresponding in value in this respect to the organized [[Games|games]] which form
 so important a feature in the school life of modern England. The
 "musical" training was essentially in the national literature and music
 of Greece, and this could obviously be carried to very different
@@ -278,14 +278,14 @@ of Greece which Plato and Aristotle vainly opposed. This was the
 rhetorical training of the Sophists, the narrowly practical and
 individualistic aim of which was entirely out of harmony with the older
 Greek ideals of life and culture. In a democratic city-state the orator
-easily became a demagogue, and generally oratory was the readiest path
+easily became a [[Demagogue|demagogue]], and generally oratory was the readiest path
 to influence and power. Thus oratory opened the way to personal
 ambition, and young men who were moved by that passion eagerly attended
 the Sophist schools where their dominant motive was strengthened.
 
 Further, the closer relations between the Greek states, both in nearer
 and farther Hellas, led naturally to the diminution of differences
-between civic ideals, and, as a consequence, to a more cosmopolitan
+between civic ideals, and, as a consequence, to a more [[Cosmopolitan|cosmopolitan]]
 conception of higher education. This process was completed by the loss
 of political independence of the city-states under the Macedonian
 domination. Henceforth, higher education became purely intellectual, and
@@ -293,7 +293,7 @@ its relation to political and social life increasingly remote. This,
 combined with the growing rhetorical tendency already noticed, accounts
 for the sterility of Greek thought during the succeeding centuries. The
 means of higher education were, indeed, more fully organized. The
-university of Athens was the outcome of a fusion of the private
+university of Athens was the outcome of a [[Fusion|fusion]] of the private
 philosophical schools with the state organization for the training of
 the ephebi, and there were other such centres of higher culture,
 especially in after years at Alexandria, where the contact of Greek
@@ -320,7 +320,7 @@ culture. A Roman boy learnt to reverence the gods, to read, to bear
 himself well in manly exercises, and to know enough of the laws of his
 country to regulate his conduct. This last he acquired directly by
 hearing his father decide the cases of his clients every morning in his
-hall. The rules of courtesy he learnt similarly by accompanying his
+hall. The rules of [[Courtesy|courtesy]] he learnt similarly by accompanying his
 father to the social gatherings to which he was invited. Thus early
 Roman education was essentially practical, civic and moral, but its
 intellectual outlook was extremely narrow.
@@ -341,7 +341,7 @@ rhetorical declamation. These furnished the means of higher culture for
 those youths who did not study at Alexandria or Athens, and were also
 preparatory to studies at those universities. Under the Empire the
 rhetorical schools were gradually organized into a state system, the
-general principles of administration being laid down by imperial decree,
+general principles of administration being laid down by imperial [[Decree|decree]],
 and even such details as the appointment and rate of payment of the
 professors, at first left to the municipalities, being in time assumed
 by the central government. There is no evidence of any state regulation
@@ -353,7 +353,7 @@ which is especially characteristic of Hellenized Roman education.
 The conception of a rhetorical culture is seen at its best in
 Quintilian's _Institutio oratoria_, the most systematic treatise on
 education produced by the ancient world. With Quintilian the ideal of an
-orator was a widely cultured, wise and honourable man. And at first the
+orator was a widely cultured, wise and [[Honourable|honourable]] man. And at first the
 teaching of rhetoric undoubtedly made for higher and true culture. But
 with the autocracy, soon passing into tyranny, of the empire, rhetoric
 ceased to be a preparation for real life. The true function of oratory
@@ -412,7 +412,7 @@ converts to the new faith were few and obscure, the question scarcely
 arose; but as men of culture and position were attracted to the Church
 it became urgent. The answers given by the Christian leaders were
 various, and largely the outcome of temperament and previous training.
-The Greek Fathers, especially Clement of Alexandria (150-217) and Origen
+The Greek Fathers, especially [[Clement]] of Alexandria (150-217) and Origen
 (185-253), regarded Christianity as essentially the culmination of
 philosophy, to which the way must be found through liberal culture.
 Without a liberal education the Christian could live a life of faith and
@@ -458,7 +458,7 @@ the not infrequent perversions of cultured Christians to Paganism. But
 generally the opposition was so obscured that the ethical writings of St
 Ambrose (340-397) are largely Stoic in conception and reasoning. Yet the
 Pagan ideal of life, especially as it had been developed in the
-individualistic ethics which had prevailed for more than six centuries,
+individualistic [[Ethics|ethics]] which had prevailed for more than six centuries,
 was antithetical in essence to that of the Christian Church. The former
 was essentially an ethics of self-reliance and self-control showing
 itself in moderation and proportion in all expressions of life. An
@@ -469,7 +469,7 @@ regarded pride and self-confidence as the deadliest of sins. It
 recognized no doctrine of limitation; what was to be condemned could not
 be abhorred too violently, nor could what was good be too strongly
 desired or too ardently sought. The highest state attainable by man was
-absorption in loving ecstasy in the mystic contemplation of God. The
+absorption in loving [[Ecstasy|ecstasy]] in the mystic contemplation of God. The
 practical attempt to realize this gave rise to monasticism, with its
 minutely regulated life expressing unlimited obedience and the
 renunciation of private will at every moment. The monastic life was
@@ -483,7 +483,7 @@ another end than classical culture was discouraged.
 
   Effect of barbarian inroads.
 
-Of course, during these centuries, the gradual subjugation of the
+Of course, during these centuries, the [[Gradual|gradual]] subjugation of the
 western empire by the barbarians had been powerfully operative in the
 obscuring of culture. Most of the public schools disappeared, and
 generally the light of learning was kept burning only in monasteries,
@@ -495,7 +495,7 @@ St Augustine were plunged in intellectual darkness, relieved by
 transitory gleams of light in Britain and by a more enduring flame in
 Ireland. The utmost that could be done was to preserve to some extent
 the heritage of the past. This, indeed, was essentially the work of men
-like Boethius, Cassiodorus, Isidore and Bede.
+like Boethius, Cassiodorus, Isidore and [[Bede]].
 
 
   Modification of Latin.
@@ -557,18 +557,18 @@ and philosophy, on the secular side, together with some dogmatic
 instruction in the doctrines of the Church, the early fathers, and the
 Scriptures. Theology was as yet not organized into a philosophical
 system: that was the great work the middle ages had to perform. The
-seven liberal arts (divided into the _Trivium_--grammar, dialectic,
-rhetoric; and the more advanced _Quadrivium_--geometry, arithmetic,
-music, astronomy) were a legacy from old Roman education through the
+seven liberal arts (divided into the _Trivium_--grammar, [[Dialectic|dialectic]],
+rhetoric; and the more advanced _Quadrivium_--geometry, [[Arithmetic|arithmetic]],
+music, [[Astronomy|astronomy]]) were a [[Legacy|legacy]] from old Roman education through the
 transition centuries. They appear in the _Disciplinarum libri IX._ of
 Varro in the 2nd century B.C., where are added to them the more
 utilitarian arts of medicine and architecture. But they reached the
 middle ages chiefly through the summaries of writers in the transition
 centuries, of which the best known were the _De nuptiis Philologiae et
-Mercurii_ of the Neo-platonist Martianus Capella, who wrote probably
+Mercurii_ of the Neo-platonist Martianus [[Capella]], who wrote probably
 early in the 5th century; the _De artibus ac disciplinis liberalium
 litterarum_ of the Christian Cassiodorus (468-562); and the
-_Etymologiarum libri XX._ of St Isidore of Seville (570-636).
+_Etymologiarum libri XX._ of St [[Isidore Of Seville|Isidore of Seville]] (570-636).
 
 The scope of the arts was wider than their names would suggest in modern
 times. Under grammar was included the study of the content and form of
@@ -576,14 +576,14 @@ literature; and in practice the teaching varied from a liberal literary
 culture to a dry and perfunctory study of just enough grammar to give
 some facility in the use of Latin. Dialectic was mainly formal logic.
 Rhetoric covered the study of law, as well as composition in prose and
-verse. Geometry was rather what is now understood by geography and
+verse. Geometry was rather what is now understood by [[Geography|geography]] and
 natural history, together with the medicinal properties of plants.
 Arithmetic, with the cumbrous Roman notation, included little more than
 the simplest practical calculations required in ordinary life and the
 computation of the calendar. Music embraced the rules of the plain-song
 of the Church, some theory of sound, and the connexion of harmony and
 numbers. Astronomy dealt with the courses of the heavenly bodies, and
-was seldom kept free from astrology. In philosophy the current
+was seldom kept free from [[Astrology|astrology]]. In philosophy the current
 text-books were the _De consolatione philosophiae_ of Boethius
 (470-524), an eclectic summary of pagan ethics from the standpoint of
 the Christian view of life, and the same writer's adapted translations
@@ -591,7 +591,7 @@ of the _Categories_ and _De interpretatione_ of Aristotle and of
 Porphyry's _Introduction to the Categories_.
 
 It is evident that though such a scheme of studies might in practice,
-during ages of intellectual stagnation and general ignorance, be arid in
+during ages of intellectual stagnation and general [[Ignorance|ignorance]], be arid in
 the extreme, it was capable in time of revival of giving scope to the
 widest extension of culture. It was, indeed, at once comprehensive and
 unified in conception, and well adapted to educate for the perfectly
@@ -607,7 +607,7 @@ been converted, and, as in the case of the Normans, had pressed to the
 forefront of civilization; civic life had developed in the fortified
 towns of Italy, raised as defences against the pressure of Saracen and
 Hungarian invasions. Soon, communication with the East by trade and in
-the Crusades, and with the highly cultivated Moors in Spain, further
+the [[Crusades]], and with the highly cultivated Moors in Spain, further
 stimulated the new burst of intellectual life. Arabic renderings of some
 of the works of Aristotle and commentaries on them were translated into
 Latin and exercised a profound influence on the trend of culture. A new
@@ -633,7 +633,7 @@ or the doctrine that the universal is the true reality, of which
 particulars and individuals are only appearances; while the opposite
 doctrine of nominalism--that universals are "mere sounds" and
 particulars the only true existences--showed a continual disposition to
-lapse into heresies on the most fundamental doctrines of the Church. The
+[[Lapse|lapse]] into heresies on the most fundamental doctrines of the Church. The
 second stage was essentially constructive; the opposition of philosophy
 to theology was negated, and philosophy gave a systematic form to
 theology itself. The most characteristic figure of the former period was
@@ -662,23 +662,23 @@ of this world.
 
 Before the rediscovery of Aristotle exerted such a general influence on
 the form of education, there was a real revival of classical literary
-culture at Chartres and a few other schools, and John of Salisbury (d.
+culture at Chartres and a few other schools, and [[John Of Salisbury|John of Salisbury]] (d.
 1182) in his _Metalogicus_ advocated literature as an instrument of
 education and lamented the barrenness of a training confined to the
 subtleties of formal logic. But the recrudescence of Aristotle
 accelerated the movement in favour of dialectic, though at the same time
 it furnished topics on which logic could be exercised which only a bare
-materialism can esteem unimportant. The weaknesses of the general
+[[Materialism|materialism]] can esteem unimportant. The weaknesses of the general
 educational system which grew up within scholasticism were that haste to
 begin dialectic led to an undue curtailment of previous liberal culture,
 and that exclusive attention to philosophical and theological questions
 caused a neglect of the study of the physical world and a disregard of
-the critical functions of the intellect. Doubtless there were
+the critical functions of the [[Intellect|intellect]]. Doubtless there were
 exceptions, of which perhaps the most striking is the work in physical
 science done at Oxford by Roger Bacon (1214-1294). But Albertus Magnus
 (1193-1280), the master of St Thomas, was also a student of nature and
 an authority for his day on both the natural and the physical sciences.
-And the work of Grosseteste (d. 1253), as chancellor of the university
+And the work of [[Grosseteste]] (d. 1253), as chancellor of the university
 of Oxford, shows that care for a liberal literary culture was by no
 means unknown. Always there were such examples. But too often boys
 hastened to enter upon dialectic and philosophy as soon as they had
@@ -701,7 +701,7 @@ all other benefits owed by future ages to scholasticism is the
 foundation of the universities of western Europe. The intellectual
 activity of the 11th century led everywhere to a great increase in the
 number of scholars attending the monastic and cathedral schools. Round
-famous teachers, such as Abelard, gathered crowds of students from every
+famous teachers, such as Abelard, gathered [[Crowd|crowds]] of students from every
 country. In the 12th century the need for organizing such bodies of
 teachers and students was imperative, and thus the earlier universities
 arose in Italy, France and England, not by deliberate foundation of
@@ -751,10 +751,10 @@ propaedeutic to those of theology, law and medicine. It often included,
 indeed, quite young boys, for the distinction between grammar school and
 university was not clearly drawn. Attention was concentrated on those
 subjects which treat of man and his relations to his fellow-men and to
-God, and no attempt was made to extend the bounds of knowledge. The aim
+God, and no attempt was made to extend the [[Bounds|bounds]] of knowledge. The aim
 was to pass on a body of acquired knowledge regarded as embracing all
 that was possible of attainment, and the authority of Aristotle in
-physics as well as in philosophy, and of Galen and Hippocrates in
+physics as well as in philosophy, and of Galen and [[Hippocrates]] in
 medicine was absolute. The methods of instruction--by lecture, or
 commentary on received texts; and by disputation, in which the scholars
 acquired dexterity in the use of the knowledge they had absorbed--were
@@ -773,12 +773,12 @@ universities was naturally accompanied by a corresponding increase in
 schools of lower rank. Not only were there grammar schools at cathedral
 and collegiate churches, but many others were founded in connexion with
 chantries, and by some of the many gilds into which medieval
-middle-class life organized itself. The Dominican and Franciscan friars
+middle-class life organized itself. The Dominican and Franciscan [[Friar|friars]]
 were enthusiastic promoters of learning both in universities and in
 schools, and in the Netherlands the Brethren of the Common Life, founded
-by Gerard Groote and approved by Eugenius IV. in 1431, regarded school
+by [[Gerard]] Groote and approved by [[Eugenius]] IV. in 1431, regarded school
 teaching as one of their main functions, and the promotion of learning
-by the multiplication of manuscripts as another. The curriculum was
+by the multiplication of [[Manuscript|manuscripts]] as another. The curriculum was
 represented broadly by the _Trivium_. The greatest attention was paid to
 grammar, which included very various amounts of reading of classical and
 Christian authors, the most commonly included being Virgil, parts of
@@ -803,7 +803,7 @@ pictures and statues with which the churches were adorned aided the
 direct teaching of sermons and catechizing in giving a general knowledge
 of Bible history and of the legends of the saints.
 
-No doubt, in times of spiritual and intellectual lethargy, the practice
+No doubt, in times of spiritual and intellectual [[Lethargy|lethargy]], the practice
 fell short of the theory; but on the whole it may be concluded that in
 medieval times the provision for higher instruction was adequate to the
 demand, and that, relatively to the culture of the time, the mass of the
@@ -815,13 +815,13 @@ them available, is clear proof that the latter part of the middle ages
 was by no means a time of general illiteracy.
 
 
-  Education of chivalry.
+  Education of [[Chivalry|chivalry]].
 
 Feudalism, the other characteristic aspect of medieval society, had also
 its system of education, expressing its own view of life, and preparing
 for the adequate performance of its duties. This was the training in
 chivalry given to pages and squires in the halls and castles of the
-great. Hallam has well said: "There are, if I may so say, three powerful
+great. [[Hallam]] has well said: "There are, if I may so say, three powerful
 spirits which have from time to time moved over the face of the waters,
 and given a predominant impulse to the moral sentiments and energies of
 mankind. These are the spirits of liberty, of religion and of honour. It
@@ -830,7 +830,7 @@ of these." And this was not in opposition to the spirit of religion
 which animated the scholastic education which went on side by side with
 it. Throughout chivalry was sanctified by the offices of the Church. The
 education of chivalry aimed at fitting the noble youth to be a worthy
-knight, a just and wise master, and a prudent manager of an estate. Much
+[[Knight|knight]], a just and wise master, and a prudent manager of an estate. Much
 was acquired by daily experience of a knightly household, but in
 addition the page received direct instruction in reading and writing;
 courtly amusements, such as chess and playing the lute, singing and
@@ -867,30 +867,30 @@ eastern empire, was the seed-plot of this new tree of knowledge. Ever
 since the 11th century the cities of northern Italy had been in advance
 of Europe beyond the Alps both in culture and in material progress. The
 old classical spirit and the feeling of Roman citizenship had never
-quite died out, and the _Divina Commedia_ of Dante (1265-1321) furnishes
+quite died out, and the _Divina Commedia_ of [[Dante]] (1265-1321) furnishes
 evidence that the poet of the scholastic philosophical theology was also
 a keen student and lover of the old Latin poets. But the greatest
 impulse to the revived study of the classics was given by Petrarch
-(1304-1374) and Boccaccio (1313-1375). Generally throughout western
+(1304-1374) and [[Boccaccio]] (1313-1375). Generally throughout western
 Europe the 14th century, though full of war and political unrest, was a
 time of considerable intellectual activity, shown in the increase of
 schools and universities, as well as in the literary and artistic
 revival in Italy, in the social and theological movement in England and
-Bohemia associated with the names of Wycliffe and Huss, and in the more
+Bohemia associated with the names of Wycliffe and [[Huss]], and in the more
 or less perfect substitution of Roman law everywhere except in England
 for the law of custom which had hitherto prevailed.
 
 But it was the literary movement which most affected education, and
-indeed the whole life of Europe. A decisive step was taken when Manuel
+indeed the whole life of Europe. A decisive step was taken when [[Manuel]]
 Chrysoloras was invited to teach Greek in the university of Florence in
-1397. The enthusiasm for classical culture, to which Petrarch had given
+1397. The [[Enthusiasm|enthusiasm]] for classical culture, to which Petrarch had given
 so great an impetus, gathered force and extended over the whole of
 Italy, though, of course, felt only by a select few and leaving the mass
 of the people little, if at all, affected. From Italy it spread
 gradually to countries north of the Alps. In the old writers men found
 full expression of that new spirit of self-conscious freedom which was
 vaguely striving for expression throughout the whole of Christendom. In
-the free political atmosphere of the Italian communes, with their
+the free political atmosphere of the Italian [[Commune|communes]], with their
 wealthy and leisured merchant class, that spirit could flourish much
 more readily than in the feudalized Europe across the Alps. Moreover,
 the antique spirit was in direct line of ancestry with that of medieval
@@ -948,7 +948,7 @@ intellectual and moral cravings which had been blindly gathering force
 for generations, and which found themselves formulated and objectified
 in the writings which set forth the Pagan view of life with its
 assumption of the essential worth and self-reliance of the individual
-and its frank delight in all the pleasures of existence. It was, in
+and its [[Frank|frank]] delight in all the pleasures of existence. It was, in
 short, in proportion as men not only found delight in Pagan literature
 but returned in essence to the Pagan view of individual worth and the
 supremacy of the human intellect, that the Church realized the danger to
@@ -958,7 +958,7 @@ At first the revival of interest in the classical literatures did not
 show any antagonism to Catholic faith and practice, and its warmest
 supporters were faithful sons of the Church. The view of the relation of
 classical literature to Christianity adopted by the great humanist
-schoolmaster Vittorino da Feltre (1378-1446) was broadly that of the
+schoolmaster Vittorino da [[Feltre]] (1378-1446) was broadly that of the
 early Fathers, and in his school at Mantua he showed that culture was
 not inconsistent with loyalty to the Church or with purity of life. With
 him classical literature was not the end and sum of education, but was a
@@ -979,7 +979,7 @@ he attacked the practical abuses of the Church, remained in communion
 with it, and aimed at harmonizing classical culture with the Christian
 life. In England the same love of culture combined with devotion to the
 Church was seen in Selling, prior of Christ Church, Canterbury, the
-first real English humanist, in Grocyn, Linacre, More, Fisher, Colet and
+first real English humanist, in [[Grocyn]], [[Linacre]], More, Fisher, [[Colet]] and
 many others whose enthusiasm for culture was as undoubted as was their
 loyalty to Catholicism. It seemed, then, at first as if the greatest
 educational effect of the classical revival would be the deepening of
@@ -996,7 +996,7 @@ Cambridge had welcomed the new studies. That the influence of the new
 movement for classical study was gradually permeating the schools is
 shown not only by the practice of the Brethren of the Common Life but by
 the curriculum laid down by the statutes of the schools refounded by
-Wolsey at Ipswich and by Colet at St Paul's.
+Wolsey at [[Ipswich]] and by Colet at St Paul's.
 
 
   Immediate influence of the Reformation on education.
@@ -1021,7 +1021,7 @@ over the points in dispute. This decadence in culture was attended by an
 outbreak of licence and immorality, especially among the young, which
 called forth violent denunciations from Luther and many of his followers
 in Germany, and from Latimer and other reformers in England. In some
-respects these results were only transitory. Humanism and Protestantism,
+respects these results were only transitory. [[Humanism]] and Protestantism,
 which had so far diverged that Erasmus (1467-1536) had declared that
 where Lutheranism flourished learning decayed, were brought together
 again by Melanchthon (1497-1560) under whose influence universities were
@@ -1052,7 +1052,7 @@ his demand for an encyclopaedic curriculum, held the writings of the
 ancients as authoritative on natural phenomena. Melanchthon, whose
 conception of instruction was much narrower, exercised enormous
 influence in the moulding of Protestant universities and secondary
-schools, both directly and through such disciples as Trotzendorf and
+schools, both directly and through such [[Disciple|disciples]] as Trotzendorf and
 Neander, but especially through his friend Sturm (1507-1589), whose
 Latin gymnasium at Strassburg became the model which the grammar schools
 of Protestant Europe strove to imitate. In this school nearly the whole
@@ -1067,10 +1067,10 @@ extant writings of their master, but a like spirit dominated him.
 
 In Catholic countries the Church retained control of education. The
 practical reformation of abuses by the Council of Trent, and the energy
-and skill of the Society of Jesus, founded by St Ignatius Loyola, in
-1534, brought back most of south Germany into the fold of the Church.
+and skill of the Society of Jesus, founded by St [[Ignatius]] [[Loyola]], in
+1534, brought back most of south Germany into the [[Fold|fold]] of the Church.
 Everywhere Catholic universities were mainly taught by Jesuit fathers;
-and under their influence, scholasticism, purged from the excretions
+and under their influence, scholasticism, purged from the [[Excretion|excretions]]
 which had degraded it, was restored, and continued to satisfy the
 longings of minds which felt the need of an authoritative harmonizing of
 faith and knowledge. Everywhere the society established schools, which,
@@ -1086,7 +1086,7 @@ generally wanting elsewhere.
 
   Early proposals for reform.
 
-So long as Latin remained the language of learning, and new fields of
+So long as Latin remained the language of learning, and new [[Fields|fields]] of
 knowledge were not appropriated, the schools remained in harmony with
 the culture of their time, though, as Mulcaster (1530-1611) pointed out,
 such a training was not of value to the majority of boys. For them he
@@ -1097,16 +1097,16 @@ In the 17th century the dislocation between the Latin schools and the
 needs of life began to be accentuated as Latin gradually ceased to be
 the language of learning; and, as a consequence, the numbers attending
 the schools decreased, and the mass of the people sunk continually lower
-in ignorance. In vain Hoole urged the establishment of a universal
+in ignorance. In vain [[Hoole]] urged the establishment of a universal
 system of elementary schools giving instruction in the vernacular, Petty
-put forth his plan for elementary trade schools, and Cowley proposed the
+put forth his plan for elementary trade schools, and [[Cowley]] proposed the
 establishment of a college devoted to research. Ideas of reform were in
 the air, but the main current of scholastic practice flowed on
 unaffected by them. Some attention was, indeed, paid to the conservative
 reforms advocated by the Port Royalists, of which the most important was
 the inclusion of the vernacular as a branch of instruction, but the cry
 for more fundamental changes based on the philosophy of Bacon was
-unheeded. Of these, none was a more active propagandist than Comenius
+unheeded. Of these, none was a more active propagandist than [[Comenius]]
 (1571-1635). Unfortunately his _Great Didactic_, in which he set forth
 his general principles, attracted little attention and won less
 adherence, though his school books, in which he attempted with very
@@ -1175,7 +1175,7 @@ in his _Tractate_ advocated the foundation of such academies in England,
 though he proposed a curriculum far more extensive than had ever been
 found possible. More and more, too, foreign travel had, from the middle
 of the 16th century, been looked upon as a better mode of finishing the
-education of a gentleman than a course at a university.
+education of a [[Gentleman|gentleman]] than a course at a university.
 
 
   Revival of university life.
@@ -1184,7 +1184,7 @@ The later years of the 17th century saw a revival of university life in
 Cambridge, through the work of Newton and the increasing attention paid
 to mathematics and the physical sciences, though the number of students
 continued very small. In Germany, also, a new era opened with the
-foundation of the universities of Halle (1694) and Gottingen (1737),
+foundation of the universities of [[Halle]] (1694) and Gottingen (1737),
 which from the first discarded the old conception that the function of a
 university is to pass on knowledge already complete, and so opened the
 door of the German universities to the new culture and philosophy. It
@@ -1199,7 +1199,7 @@ thought.
 At Halle, too, was set the example by Francke of providing for the
 education of the children of the poor, and to his disciple Hecker
 Germany owes the first _Realschule_. Simultaneous movements for the
-education of the poor were made by St Jean-Baptiste de la Salle and the
+education of the poor were made by St Jean-Baptiste de [[La Salle|la Salle]] and the
 Brothers of the Christian Schools in France, and by the Society for the
 Promotion of Christian Knowledge in England. But the total results were
 not great; the mass of the people in every European country remained
@@ -1213,9 +1213,9 @@ aristocratic. Voltaire and the Encyclopaedists aimed at the
 enlightenment of the select few, and Rousseau declared baldly that the
 poor need no education. That these movements influenced education
 profoundly is undoubted. The individualistic and abstract rationalism of
-Voltaire, derived from the sensationist philosophy of Locke through the
+Voltaire, derived from the sensationist philosophy of [[Locke]] through the
 more thorough-going Condillac, and finding its logical outcome in the
-materialistic atheism of La Mettrie and the refined selfishness of
+materialistic [[Atheism|atheism]] of La Mettrie and the refined selfishness of
 Rochefoucault, infected the more cultured classes. In Lord
 Chesterfield's _Letters to his Son_ is shown its educational outcome--a
 veneer of superficial culture and artificial politeness covering, but
@@ -1247,7 +1247,7 @@ abolish all moral training and leave the child to the reactions of the
 physical world upon his actions.
 
 
-  Kant.
+  [[Kant]].
 
 Against this position the educational teaching of Kant (1724-1804),
 influenced though he was by the _Emile_, is essentially a protest. The
@@ -1256,7 +1256,7 @@ which by the formation of habit prepares the young to receive as
 principles of conduct the laws at first imposed upon them from without.
 And the supreme guide of life is the law of duty which is always more or
 less opposed to the promptings of inclination. Kant exaggerates the
-dualism: Rousseau would abolish it by ignoring the more important of the
+[[Dualism|dualism]]: Rousseau would abolish it by ignoring the more important of the
 two antitheses.
 
 
@@ -1276,7 +1276,7 @@ the educational history of the 19th century.
 
 Preached and practised by Pestalozzi (1746-1827) in Switzerland, the
 general education of the poor was first made a reality by Prussia after
-the crushing defeat of Jena. In France and England it remained for
+the crushing defeat of [[Jena]]. In France and England it remained for
 nearly three-quarters of the century the work of the Church and other
 voluntary agencies, though aided by the state. Finally a state system of
 schools has been more or less fully set up in every state of western
@@ -1348,7 +1348,7 @@ solution will be reached when a true adjustment is made between the
 process of education and the life for which that education is intended
 to be a preparation.
 
-  See also the articles ACADEMIES; CLASSICS; CO-EDUCATION; EXAMINATIONS;
+  See also the articles ACADEMIES; CLASSICS; [[Co-Education|CO-EDUCATION]]; EXAMINATIONS;
   POLYTECHNIC; SCHOOLS; TECHNICAL EDUCATION; UNIVERSITIES; WOMEN; &c.
        (J. Wn.)
 
@@ -1372,7 +1372,7 @@ not necessitate a monopoly of education on the part of the state, such
 as was claimed by the Napoleonic despotism under the traditional
 influence (it would seem) of the old authoritative Gallo-Roman
 tradition, transformed in its outward manifestation but not in its
-inward spirit by the French Revolution. Such a monopoly would be plainly
+inward spirit by the [[French Revolution]]. Such a monopoly would be plainly
 repugnant to the spirit of Anglo-Saxon individualism, and it is
 interesting to note that attempts to reassert it have in recent times
 been repudiated in republican France by some of the best exponents of
@@ -1388,7 +1388,7 @@ as private effort attempts anything in this direction, it should be
 motived in the main by religion and associated with the great historical
 religious organizations; thus it comes about that the moment the state
 steps in to make good the deficiency of voluntary effort a fruitful and
-embittering source of difficulty and friction is disclosed. Hence, in
+embittering source of difficulty and [[Friction|friction]] is disclosed. Hence, in
 England, the history of public elementary education since the beginning
 of the 19th century has been very largely the history of what is called
 the religious difficulty. Here we find ourselves in the region of acute
@@ -1414,7 +1414,7 @@ education. The principle of "the career open to talent" is no longer a
 matter of abstract humanitarian theory, a fantastical aspiration of
 revolutionary dreamers; for the great industrial communities of the
 modern world it is a cogent practical necessity imposed by the fierce
-international competition which prevails in the arts and industries of
+[[International|international]] competition which prevails in the arts and industries of
 life. The nation that is not to fail in the struggle for commercial
 success, with all that this implies for national life and civilization,
 must needs see that its industries are fed with a constant supply of
@@ -1456,7 +1456,7 @@ present article.
 
 Reserving to a final section the history of education in the United
 States of America, a brief description is given here of the educational
-systems of the leading European countries by way of introduction to a
+systems of the leading [[European Countries|European countries]] by way of introduction to a
 more detailed, but still summary, historical sketch of public education
 in England. The highly organized educational systems of France and
 Prussia (as representing Germany) are manifestly suitable for the
@@ -1464,7 +1464,7 @@ purposes of a general study of the principles of educational polity as
 worked out upon logical and consistently thought-out plans by highly
 centralized states. As to other European countries, a brief mention must
 suffice of certain features of special interest presented by smaller
-progressive states of such different types as Switzerland, Belgium and
+progressive states of such different types as Switzerland, [[Belgium]] and
 Holland. Similarly, in the case of the United Kingdom, considerations of
 space forbid more than a brief notice of the educational systems of
 Scotland (q.v.) and Ireland (q.v.). For other countries see the sections
@@ -1486,13 +1486,13 @@ the administrative machinery. The pedagogic element in turn does but
 represent another side of the collective activities of the state. The
 teaching profession both in the primary and higher spheres--and the two
 are sharply marked off from one another--consists of a highly organized
-body of state functionaries, united by a strong _esprit de corps_ and
+body of state functionaries, united by a strong _esprit de [[Corps|corps]]_ and
 actuated by ideals and aims which are inspired by the state. The
 importance of this condition of things lies in the fact that the
 Republic is something more than a form of government: it is the social
 and moral expression of the democratic ideal as conceived by a people
 profoundly imbued by tradition with the sense of social solidarity, or
-collectivism; and nowhere has this expression been more characteristic
+[[Collectivism|collectivism]]; and nowhere has this expression been more characteristic
 or more complete than in the domain of public education. Yet the
 educational system of modern France is by no means exclusively the
 creation of the Third Republic, and the main stages in its development
@@ -1502,11 +1502,11 @@ deserve to be traced historically.
   Freres de la Doctrine chretienne.
 
 No historical sketch, however slight, of French education can ignore the
-great Catholic religious educator of the 18th century, Jean Baptiste de
+great Catholic religious educator of the 18th century, Jean [[Baptiste]] de
 la Salle, the founder of _Les Freres de la Doctrine chretienne_,
 commonly known as the "Christian Brothers." The Brothers were not merely
 pioneers of elementary education, they may also be regarded (as M.
-Buisson, formerly director of public instruction, has shown) as the
+[[Buisson]], formerly director of public instruction, has shown) as the
 originators of higher primary instruction. Under the Restoration they
 upheld the method of simultaneous teaching against the partisans of the
 mutual (or monitorial) method, successfully demonstrating the
@@ -1542,7 +1542,7 @@ Under the Restoration education fell inevitably under the control of the
 church, but under the Liberal Monarchy Guizot in 1833 passed a law which
 laid the foundations of modern primary instruction, obliging the
 communes to maintain schools and pay the teachers. It is also to the
-credit of Guizot as an educational reformer that he perceived the
+[[Credit|credit]] of Guizot as an educational reformer that he perceived the
 necessity for the higher primary as distinct from the secondary school.
 The higher primary schools which he founded were unfortunately
 suppressed by the _Loi Falloux_; their restoration constitutes one of
@@ -1605,7 +1605,7 @@ _certificat d'aptitude pedagogique_, which qualifies probationer-teachers
 (_stagiaires_) for appointment as teachers in full standing
 (_titulaires_), and the _certificat d'aptitude_ for primary inspectors
 and heads of normal schools. The law of June 16, 1881, rendered
-obligatory for all teachers, whether public or private, the _brevet de
+obligatory for all teachers, whether public or private, the _[[Brevet|brevet]] de
 capacite_. It was found impracticable to carry this law into immediate
 effect, and as late as 1902 only about 60% of the men and 52% of the
 women were provided with the professional certificate necessary for
@@ -1616,7 +1616,7 @@ becoming _titulaires_.
 
 The laws making primary education gratuitous, compulsory and secular,
 are indissolubly associated with the name of Jules Ferry. The law of
-June 16, 1881, abolished fees in all primary schools and training
+June 16, 1881, abolished [[Fee|fees]] in all primary schools and training
 colleges, the law of 1882 established compulsory attendance, and finally
 the law of October 30, 1886, enacted that none but lay persons should
 teach in the public schools, and abolished in those schools all
@@ -1657,11 +1657,11 @@ willing to concede) right of entry for the clergy into the schools. But
 the real causes of the trouble lie deep in the philosophical and
 religious problems of our time, and in the constant and self-sacrificing
 devotion of the French to logical ideals on either side. Perhaps it is
-not too sanguine to discern in the growing tendency to idealism in
+not too sanguine to discern in the growing tendency to [[Idealism|idealism]] in
 French philosophy, and to liberal ideas in French and Catholic religious
 thought, the promise of a happier state of things. In the meantime, the
 religious difficulty in the schools divides the nation into two hostile
-camps (_les deux Frances_, as a Swiss Protestant writer puts it) in the
+camps (_les deux [[Franc|Frances]]_, as a Swiss Protestant writer puts it) in the
 shape of the state secular schools on the one side and the private
 religious schools on the other.
 
@@ -1677,15 +1677,15 @@ In 1889 an important change was made in educational finance by
 transferring the cost of teachers' salaries in primary schools from the
 communes to the state, a right consequence of the changes which made the
 teacher a state official. Thus the state assumed the greater part of the
-burden of primary instruction, leaving to the communes merely the cost
-of fabric, and to the department the maintenance of the fabric of the
+[[Burden|burden]] of primary instruction, leaving to the communes merely the cost
+of fabric, and to the department the [[Maintenance|maintenance]] of the fabric of the
 normal schools and certain expenses of inspection.
 
 
   Administrative machinery. Minister and conseil superieur.
 
 At this point it will be convenient to describe shortly the various
-central and local authorities that constitute the official machine. The
+central and local authorities that constitute the official [[Machine|machine]]. The
 minister, the head of the entire hierarchy, is assisted by a _conseil
 superieur_ consisting of fifty-seven members, of whom the majority are
 elected by the higher teaching profession, while a few are nominated by
@@ -1703,7 +1703,7 @@ whose respective functions are purely advisory.
   Inspecteurs generaux.
 
 The _inspecteurs generaux_ "act," says Mr Brereton in his official
-report to the English Board of Education, "as the eyes and ears of the
+report to the English Board of Education, "as the eyes and [[Ear|ears]] of the
 central authority." Their duties are: first to inspect the normal
 schools; next to supervise the work of the ordinary inspectorate; lastly
 to give general and comparative information on the progress of primary
@@ -1830,7 +1830,7 @@ teaching in the _ecoles professionnelles_. At the same time, prominence
 is given in the higher primary schools to practical training of an
 educational character with special reference to the industries and
 circumstances of the locality, and in the rural districts a special
-agricultural bias is imparted to the curriculum. It is interesting to
+agricultural [[Bias|bias]] is imparted to the curriculum. It is interesting to
 note that the institution of the higher primary schools was due in large
 part to the spontaneous initiative of the municipalities, and that in
 the later phases of state organization special care has been taken to
@@ -1852,7 +1852,7 @@ _certificat d'etudes primaires_. A feature of importance for
 continuation work in rural districts is the provision made for boarding
 scholars in attendance at these schools. The boarding arrangements are
 generally, as in the case of the secondary schools, left to the head
-teacher, but in some instances municipal hostels have been provided. No
+teacher, but in some instances municipal [[Hostel|hostels]] have been provided. No
 fees may be charged for higher primary instruction, and scholarships
 (_bourses_) are provided to a certain extent in the form either of
 boarding scholarships or maintenance allowances to compensate the parent
@@ -1928,7 +1928,7 @@ problem of the organization of secondary education.
 
 It is remarkable in view of the thoroughness with which the principle of
 laicization has been applied to the primary schools that the lycees
-still retain their chaplains (_aumoniers_) for the purpose of giving
+still retain their [[Chaplain|chaplains]] (_aumoniers_) for the purpose of giving
 religious instruction. This difference of treatment is apparently based
 upon the consideration that the gratuitous and compulsory character of
 primary education demanded a much stricter interpretation of the
@@ -1961,7 +1961,7 @@ demand is deeply rooted in the public mind. Proposals have been mooted
 for making the baccalaureat strictly a school leaving examination
 attached to the state schools. The adoption of any such measure would
 practically destroy liberty of teaching by reason of the power which the
-baccalaureat secures to the state as the key to the professions.
+baccalaureat secures to the state as the [[Key|key]] to the professions.
 
 
   Secondary education for girls.
@@ -1989,12 +1989,12 @@ Under the German empire education is left to the exclusive control of
 each of the federated states. The only point of direct contact between
 the Empire and education lies in the mutual undertaking of the federated
 states to bring the law of compulsory school attendance to bear upon all
-subjects of the empire resident within their respective borders. Of far
+subjects of the empire resident within their respective [[Borders|borders]]. Of far
 greater moment is the moral influence exerted upon the other states by
-the Prussian hegemony, in virtue of which the Prussian educational
+the Prussian [[Hegemony|hegemony]], in virtue of which the Prussian educational
 system comes to be in all essential characteristics typical and
 representative of Germany as a whole. It is remarkable that though, as
-Matthew Arnold was able to report to the Schools Inquiry Commission in
+[[Matthew]] [[Arnold]] was able to report to the Schools Inquiry Commission in
 1866, "the school system of Germany in its completeness and carefulness
 is such as to excite the foreigner's admiration," neither Prussia
 herself, nor Bavaria, nor several other of the principal states of the
@@ -2008,7 +2008,7 @@ especially in secondary education, some considerable local variations
 and anomalies should remain, but the centralized authority of the state
 has confined these to questions of patronage and external
 administration, and even within this sphere has successfully asserted
-its own ultimate supremacy as the guardian of the educational interests
+its own ultimate supremacy as the [[Guardian|guardian]] of the educational interests
 of its citizens. A detailed historical study would bring out clearly the
 intimate connexion between the development of the educational system and
 the growth of the Prussian state, and again between these and the
@@ -2051,7 +2051,7 @@ association largely contributed to the creation of that healthy public
 opinion which in Prussia rendered the principle of compulsory school
 attendance easy of acceptance at a much earlier date than in England and
 elsewhere, save only Scotland, where a similar historical religious
-influence was supplied by John Knox.
+influence was supplied by John [[Knox]].
 
 
   Early Prussian measures.
@@ -2099,7 +2099,7 @@ assuming control of the civil administration in 1807, was to abolish the
 semi-ecclesiastical Oberschulkollegium which had been set up as the
 central authority under the churchly policy of Frederick William II.,
 and to place education under the Ministry of the Interior as a special
-section. Wilhelm von Humboldt was placed at the head of this section in
+section. Wilhelm von [[Humboldt]] was placed at the head of this section in
 1809, and the work which this "great master of the science and art of
 education" (as Professor Seeley terms him in his _Life of Stein_)
 inaugurated in his one year of office entitles him to be ranked among
@@ -2110,7 +2110,7 @@ Schleiermacher, Savigny, Wolf and Niebuhr, as also the internal reform
 of secondary schools undertaken with the pedagogical assistance of Wolf
 and under the inspiration of Fichte--lie beyond the scope of this
 article. It may, however, be observed that Humboldt's policy in
-secondary education represents a compromise between the narrow
+secondary education represents a [[Compromise|compromise]] between the narrow
 philological pedantry of the old Latin schools and the large demands of
 the new humanism of the period; and the recent reform of the Prussian
 secondary schools may be said to represent a return to the spirit of
@@ -2132,7 +2132,7 @@ _Schuldeputationen_ for the towns.
   Reforms of 1825 and 1834. Abiturientenexamen.
 
 Though the period which succeeded the peace of 1815 was one of political
-reaction, the cabinet order of Frederick William III. in 1825
+reaction, the [[Cabinet|cabinet]] order of Frederick William III. in 1825
 strengthened the law of compulsory attendance and carried on the work of
 administrative organization by defining the duties of the
 Provinzial-Schul-Kollegium and the Regierung. In 1834 an important
@@ -2172,7 +2172,7 @@ Prussian system remains to-day both for Catholics and Protestants
 essentially denominational. All schools, whether elementary or
 secondary, are Evangelical, Catholic, Jewish or mixed. In the elementary
 sphere, in particular, recourse is only had to the mixed school
-(_Simultanschule_ or _paritatische Schule_), where the creeds are so
+(_Simultanschule_ or _paritatische Schule_), where the [[Creeds|creeds]] are so
 intermingled that a confessional school is impracticable. In all cases
 the teachers are appointed with reference to religious faith; religious
 instruction is given compulsorily in school hours and is inspected by
@@ -2221,7 +2221,7 @@ affairs, retained at the present day from motives of economy and a
 desire to conciliate the church.
 
 For every school there is an _Ortsschulinspektor_, usually the clergyman
-of the parish, who discharges the duties of local manager and
+of the parish, who [[Discharge|discharges]] the duties of local manager and
 correspondent. This local inspector is also chairman of the
 _Schulvorstand_ or committee, elected by the _Schulgemeinde_, and
 charged with questions of attendance and maintenance rather than with
@@ -2238,7 +2238,7 @@ elementary and secondary schools, the local boards in the towns
 (_Schuldeputationen_) are able to exert a considerable influence in the
 way of selection of the type of school, and even of suggestion for the
 modification of recognized types, as is shown by the cases of the famous
-"reformed" secondary curricula of Altona and Frankfort. Still, the legal
+"reformed" secondary curricula of Altona and [[Frankfort]]. Still, the legal
 powers of the local board are restricted to the establishment of an
 approved type of school, the control of externa, and the right of
 nominating teachers.
@@ -2263,7 +2263,7 @@ elementary teachers, whose powers of oral exposition have struck English
 observers as specially remarkable, and again by the national readiness
 to be content with a moderate salary in return for official status. A
 survival of the old close connexion between church and school is to be
-found in the _Kirchendienste_, the duties of training the choir, playing
+found in the _Kirchendienste_, the duties of training the [[Choir|choir]], playing
 the organ, &c., which are attached in many cases to the post of
 schoolmaster, and afford an additional source of emolument, rendered
 feasible by the practical absence of religious dissent.
@@ -2322,7 +2322,7 @@ rapidly adopted by the great cities, including Berlin.
 
   Grading of secondary schools.
 
-_Secondary Education._--The official classification or grading according
+_Secondary Education._--The official [[Classification|classification]] or grading according
 to the type of curriculum of secondary schools in Prussia (and indeed
 throughout Germany) is very precise. The following are the officially
 recognized types. I. Classical schools: (a) Gymnasium, with nine years'
@@ -2368,17 +2368,17 @@ hand, as has often been observed, a great school tends to multiply
 within itself different types of curricula in a haphazard way according
 to the demand of parents, whose original choice of school is based
 rather on social than on educational grounds. Modern sides, army classes
-and engineering classes grow up as excrescences upon an originally
+and [[Engineering|engineering]] classes grow up as excrescences upon an originally
 classical type, with the waste of power that results from loss of
 consistency and concentration of purpose. The difference between the
 English and German systems is due ultimately to the adoption in Germany
 of the day-school system and the absence, very remarkable in an
-otherwise aristocratically governed country, of the caste spirit in
+otherwise aristocratically governed country, of the [[Caste|caste]] spirit in
 education above the elementary level, thanks to which the nobly born are
-not ashamed to sit on the school bench side by side with the children of
+not ashamed to sit on the school [[Bench|bench]] side by side with the children of
 the trading classes. On the other hand, the English boarding-school
 system, despite all the want of social solidarity, and all the class
-jealousy and exclusiveness with which it is inevitably associated, has
+[[Jealousy|jealousy]] and exclusiveness with which it is inevitably associated, has
 admittedly favoured those ideals of the cultivation of character as
 distinct from book-learning which give a special value to what is in
 England called a public school education.
@@ -2420,8 +2420,8 @@ of discontent with the old philological type of classical school was
 vigorously expressed in a private letter written by the emperor William
 II. as crown prince of Prussia in 1885, but not published until
 some-years later. In December 1890 the Prussian ministry convoked a
-conference at Berlin of secondary school experts, and the emperor
-presided in person at the opening session. His majesty delivered a
+conference at Berlin of secondary school [[Expert|experts]], and the emperor
+presided in person at the opening session. His [[Majesty|majesty]] delivered a
 speech criticizing the Gymnasia as wanting a national basis. "It is our
 duty to educate young men to become young Germans and not young Greeks
 or Romans" was the keynote of the imperial discourse. The outcome of the
@@ -2502,7 +2502,7 @@ sixteenth years factory work, together with the time given to school and
 religious instruction, must not exceed eleven hours a day. (4) All
 recruits for the federal army (in which service is compulsory on a
 militia basis) are examined in their twentieth year, and the results are
-published. This examination affords an instructive index to the state of
+published. This examination affords an instructive [[Index|index]] to the state of
 education in the several cantons and promotes a healthy emulation among
 them.
 
@@ -2512,7 +2512,7 @@ them.
 The cantonal organization of education presents the variety which the
 extraordinary diversity of race, language, religion and physical
 conditions of the component states of the federation would lead one to
-expect. The large canton of Bern may be instanced as the type of a
+expect. The large canton of [[Bern]] may be instanced as the type of a
 strong central authority. The commune or parish is the unit for
 elementary education. The communal council nominates a school board of
 at least five members, whose function is to spend the money voted for
@@ -2638,14 +2638,14 @@ the continental rather than the English type.
 
 The national appreciation of education is found marked already before
 the Reformation in a statute of James IV. (1494) requiring all
-freeholders of substance to send their heirs to school and to keep them
+freeholders of substance to send their [[Heir|heirs]] to school and to keep them
 there until they had perfect Latin. The Reformation, asserting itself by
 common consent under one ecclesiastical form, and free from the
 divisions of religious organization which tended to neutralize it as an
 educational force in England, put fresh life into the educational
 aspirations of the people. As early as 1560 the Church Assembly, largely
 under the influence of John Knox, put forth the _Book of Discipline_,
-providing that "every several kirk" in a town "of any reputation" was to
+providing that "every several [[Kirk|kirk]]" in a town "of any reputation" was to
 have its Latin school, that the "upaland" or country parts were to have
 a teacher of the "first rudiments" in every parish, and that each
 "notable" town was to have "a college for logic, rhetoric and the
@@ -2673,7 +2673,7 @@ consequently in imposing a compulsory conscience clause the act did
 little more than confirm existing usage. The school boards were left
 full liberty as to the religious instruction to be given in their
 schools, and in practice school boards universally adopt the Shorter
-Catechism, which is acceptable to all denominations of Presbyterians.
+Catechism, which is acceptable to all [[Denomination|denominations]] of Presbyterians.
 The act made the school boards responsible for the supply of school
 accommodation, and introduced compulsory attendance, for which opinion
 in England was not at that time ripe. By the act of 1901, the age of
@@ -2687,7 +2687,7 @@ The experience of the Scottish Education Department, like that of the
 English, has led to the gradual abandonment of individual examination as
 the basis for the payment of grants. The institution of the merit
 certificate is one of the features in which the Scottish system differs
-from the English. Prior to the code of 1903 the merit certificate,
+from the English. Prior to the [[Code|code]] of 1903 the merit certificate,
 awarded on examination after the age of twelve, was properly described
 as the leaving certificate of the elementary school. Under the more
 recent codes merit certificates are awarded under a system designed to
@@ -2741,7 +2741,7 @@ teachers had been trained in training colleges.
 
 Certain miscellaneous additional powers are conferred upon school boards
 by the Education (Scotland) Act 1908, including powers to provide school
-meals; in outlying parts, to provide means of conveyance, or pay
+meals; in outlying parts, to provide means of [[Conveyance|conveyance]], or pay
 travelling expenses of teachers or pupils, or defray the cost of lodging
 pupils in convenient proximity to a school; to provide for medical
 inspection; and as to children neglected by reason of the ill-health or
@@ -2755,7 +2755,7 @@ enables (not obliges) school boards to make bye-laws requiring
 attendance at continuation classes up to the age of seventeen years.
 Apart from compulsory attendance, the act lays upon school boards the
 duty of making suitable provision of continuation classes with reference
-to the crafts and industries practised in the district.
+to the [[Craft|crafts]] and industries practised in the district.
 
 
   Secondary education.
@@ -2833,10 +2833,10 @@ historical features, the great religious educational enterprise of
 Edmond Rice in founding the well-known Irish Catholic order of the
 Christian Brothers in 1802 forms an exception to the general lack of
 initiative among the people themselves. About the same period the
-Kildare Place Society (founded in 1811 while the first commission of
+[[Kildare]] Place Society (founded in 1811 while the first commission of
 inquiry into Irish education was sitting) attempted to grapple with the
 peculiar difficulties of the religious situation upon lines somewhat
-similar to those just laid down by Lancaster and his followers in
+similar to those just laid down by [[Lancaster]] and his followers in
 England. This organization comprised both Roman Catholic and Protestant
 schools upon a common religious basis of Bible reading without note or
 comment, and received government grants which rose to L30,000 a year
@@ -2859,7 +2859,7 @@ religious instruction for Roman Catholics and Protestants. At the same
 time, an attempt was inconsistently made to provide an ethical basis for
 the secular instruction by means of Bible extracts. The story of the
 preparation of these extracts by an ingenious compound of the Protestant
-Authorized and Douai versions of Scripture is in its way one of the
+Authorized and [[Douai]] versions of Scripture is in its way one of the
 curiosities of religious history. The extracts were designed to meet the
 recognized Catholic objection to the indiscriminate reading of the Bible
 without note or comment. In practice they were chiefly used in the
@@ -2874,7 +2874,7 @@ et communes religionis Christianae articuli restricte tradantur,
 reservata singulis sestis peculiari seorsum eruditione. Ita enim cum
 pueris agere periculosum valde videtur." The religious difficulty in
 Irish elementary education may be said to have been solved in process of
-time by the conversion of the national system in practice, though not in
+time by the [[Conversion|conversion]] of the national system in practice, though not in
 theory, into a system strongly denominational and therefore widely
 different from the design of its founders, combined Biblical instruction
 being discarded, and separate schools for the most part taking the place
@@ -2969,7 +2969,7 @@ science and art grants were administered by the Science and Art
 Department in England; by this act they were transferred to the new
 Irish Department for Agriculture and Technical Instruction. This
 department makes block grants to secondary schools in respect of science
-and art teaching, and manual instruction or domestic economy. Measures
+and art teaching, and [[Manual|manual]] instruction or domestic economy. Measures
 have been taken for the co-ordination of the duties of the Technical
 Department and the Intermediate Board, and the impetus given to the
 teaching of experimental science by grants for the erection of
@@ -3003,7 +3003,7 @@ wider, deeper and truer, because more national, culture.
 
 _England._
 
-It was justly observed by Sir Joshua Fitch (_Ency. Brit._, 10th ed.,
+It was justly observed by Sir [[Joshua]] Fitch (_Ency. Brit._, 10th ed.,
 xxvii. p. 655) that "the public provision for the education of the
 people in England is not the product of any theory or plan formulated
 beforehand by statesmen or philosophers; it has come into existence
@@ -3068,7 +3068,7 @@ unfamiliar at this date. The earliest elementary schools were _petits_
 schools, which (as the name implies) were really preparatory departments
 of the grammar-schools. Education in fact was still regarded as the
 privilege of an elite, but, as in the middle ages, the elite for whom it
-was sought to provide a ladder to the university by means of the endowed
+was sought to provide a [[Ladder|ladder]] to the university by means of the endowed
 schools so numerously founded about this time was an elite of intellect
 and not of mere wealth; the class feeling which became so marked a
 feature of English higher education was of much later growth.
@@ -3083,7 +3083,7 @@ the growth of towns and the creation of a considerable industrial
 population. At the close of the century the moral evils attendant upon
 industrialism alarmed the religious conscience and prompted one of the
 great educational movements that stand to the credit of the national
-church. In 1699 Dr Bray founded the Society for Promoting Christian
+church. In 1699 Dr [[Bray]] founded the Society for Promoting Christian
 Knowledge, and the movement thereby initiated may be traced in the
 numerous "charity" or "Blue Coat" schools scattered plentifully
 throughout the country and especially in the great centres of
@@ -3128,11 +3128,11 @@ Raikes, the founder of the Sunday School Union, established his first
 Sunday school in 1782. The idea of the Sunday school did not originate
 with Raikes; among earlier pioneers in this field were John Wesley, who
 held Sunday classes at Savannah in 1737; Theophilus Lindsey at Catterick
-in the North Riding of Yorkshire, about 1769; Hannah Ball at High
+in the North Riding of Yorkshire, about 1769; Hannah [[Ball]] at High
 Wycombe in 1769; and Jenkin Morgan near Llanidloes in 1770. Sunday
 schools, too, had been founded in England by Joseph Alleine, the Puritan
 Father, in the 17th century, and in Catholic Italy and France by St
-Charles Borromeo and Jean Baptiste de la Salle in the 16th and 17th
+Charles [[Borromeo]] and Jean Baptiste de la Salle in the 16th and 17th
 centuries respectively. Nevertheless, in virtue of his achievement in
 organization, Raikes is rightly regarded as the founder of the English
 Sunday school. The peculiar value of the Sunday-school system in its
@@ -3158,7 +3158,7 @@ home to the public mind the need of a national system of day schools.
 Unfortunately, just at this moment the revival of Nonconformity as the
 result of the religious vitality of the Evangelical movement shattered
 the religious peace of the early Hanoverian period and divided the
-nation once more into hostile camps, to which class distinctions lent
+nation once more into hostile camps, to which class distinctions [[Lent|lent]]
 additional bitterness. The famous controversy between Andrew Bell and
 Joseph Lancaster and their respective followers in the opening years of
 the 19th century served to define the religious difficulty substantially
@@ -3192,7 +3192,7 @@ control the national education. The religious issue was prominent in
 connexion with the remarkable attempt at legislation made by the Whig
 statesman Mr Whitbread in his Parochial Schools Bill of 1807. As
 originally introduced, the bill proposed to make it compulsory on
-parochial vestries to levy rates for the support of schools for teaching
+parochial vestries to [[Levy|levy]] rates for the support of schools for teaching
 reading, writing and arithmetic. The compulsory provisions were dropped
 in the House of Commons, but the bill was rejected by the Lords, mainly
 on the ground that it did not place education on a religious basis or
@@ -3241,12 +3241,12 @@ endowed charities. The labours of this great inquisition lasted for
 twenty years and led to the reformation of many cases of abuse or waste
 of wealthy endowments, and eventually to the establishment of the
 Charity Commission in 1853. In 1820 Brougham introduced a remarkable
-bill which proposed to make the magistrates in quarter sessions the
+bill which proposed to make the [[Magistrate|magistrates]] in quarter sessions the
 rating authority, to require teachers to be members of the Church of
 England and to be appointed upon a certificate from the parochial
 clergyman, and on the other hand to prohibit religious formularies and
 to confine religious instruction to Bible reading without comment. The
-bill naturally failed through the opposition cf the Dissenters, and
+bill naturally failed through the opposition cf the [[Dissenter|Dissenters]], and
 served only to accentuate the religious impasse.
 
 
@@ -3314,7 +3314,7 @@ Among the first acts of the Committee of Council was the promulgation of
 a set of model trusts deeds, one or other of which applicants for
 building grants were required to adopt for the settlement of their
 school premises. The necessary conditions were the permanent
-appropriation of the site to purposes of education, and the permanent
+[[Appropriation|appropriation]] of the site to purposes of education, and the permanent
 right of government inspection; it must, however, be noted that this
 latter right was generally limited in terms to the inspection provided
 for by the minute of August 10, 1840. A conscience clause was not
@@ -3479,7 +3479,7 @@ instruction to all classes of the people. The _Report_ of the Newcastle
 Commission, issued in 1861, contains an exhaustive account of the
 existing condition of elementary education, and, with due allowance for
 the grave defects revealed, and in particular the glaring inefficiency
-of the numerous little private-venture schools kept by "dames" and
+of the numerous little private-venture schools kept by "[[Dame|dames]]" and
 others, the graphic picture drawn by the commissioners constitutes a
 striking tribute to the sterling qualities of self-help and religious
 earnestness which were so characteristic of the early Victorian period.
@@ -3561,9 +3561,9 @@ of 4s. upon the old principle and a further grant of not more than 8s.
 upon the result of examination. Mr Lowe declared of the system in the
 House of Commons that "if it was costly it should at least be efficient;
 and if it was inefficient it should at least be cheap." In fact, it
-proved to be cheap; the giant fell from L813,400 in 1861 to L636,800 in
+proved to be cheap; the [[Giant|giant]] fell from L813,400 in 1861 to L636,800 in
 1865. The upholders of the existing system denounced the Revised Code as
-an undeserved slight upon the voluntary managers, and even as a breach
+an undeserved slight upon the voluntary managers, and even as a [[Breach|breach]]
 of faith with the great religious denominations. On purely educational
 grounds, which need not be here re-capitulated, it was at once viewed
 with misgiving by many authorities, including Matthew Arnold. To meet
@@ -3589,18 +3589,18 @@ government brought in, but did not proceed with, an education bill
 deliberately discarding the principle of rate-aid on the ground that it
 would destroy voluntary contributions and gradually starve out the
 denominational schools. In 1867 and again in 1868 Mr Bruce (afterwards
-Lord Aberdare), Mr W.E. Forster and Mr Algernon Egerton introduced a
+Lord Aberdare), Mr W.E. Forster and Mr Algernon [[Egerton]] introduced a
 bill which formed the basis of the measure of 1870. As redrafted in 1868
 the bill of Mr Bruce and his coadjutors proposed a universal system of
 municipal and parochial rating with liberty for voluntary schools to
 unite themselves to the rate-aided system under their existing
 management, subject to the acceptance of a conscience clause. The bill
 also proposed to empower town councils to co-opt outsiders upon their
-education committees. Thus both in the principle of co-optation and in
+education committees. Thus both in the principle of [[Co-Optation|co-optation]] and in
 the extension of rate aid to schools not under public control the bill
 of these Liberal statesmen in 1868 anticipated certain controverted
 features of Mr Balfour's Education Act of 1902. In the meantime, in the
-country the Education League, originated at Birmingham, was carrying on
+country the Education League, originated at [[Birmingham]], was carrying on
 a propaganda in favour of free secular schools, whilst the Education
 Union, formed to counteract the influence of the league, urged a
 settlement upon the old lines. As a concession to the popular feeling
@@ -3616,7 +3616,7 @@ long.
 The Elementary Education Act of 1870 bore in every respect the marks of
 compromise. As Mr Forster explained in introducing the bill, the object
 of the government was "to complete the voluntary system and to fill up
-gaps," not to supplant it. To this end the Education Department was
+[[Gap|gaps]]," not to supplant it. To this end the Education Department was
 charged with the duty of ascertaining whether or not there was in every
 parish a deficiency of public school accommodation, and provision made
 for the formation of school boards in every school district (i.e. parish
@@ -3714,7 +3714,7 @@ departure for the proposals in this direction which were the basis of
 the unsuccessful bills of 1906 and 1908. The act of 1870 did not
 introduce either direct compulsory attendance or free education, but it
 took a distinct step forward in each direction by enabling school boards
-to frame by-laws rendering attendance compulsory, and also to pay the
+to [[Frame|frame]] by-laws rendering attendance compulsory, and also to pay the
 school fees in the case of poverty of the parent.
 
 The policy of compromise between the two systems of voluntary and
@@ -3738,7 +3738,7 @@ however, that there were, exclusive of the well-to-do classes, at least
 inspection. In 1876 accommodation had been provided for nearly
 3,500,000, and of the 1,500,000 new places nearly two-thirds were
 provided by voluntary agencies. "These voluntary agencies," says Sir H.
-Craik, "had received grants in aid for about one-third of the schools
+[[Craik]], "had received grants in aid for about one-third of the schools
 they had built, the grants defraying about one-fifth of the cost of the
 aided schools." On the other hand, the growth of school boards was rapid
 and continuous, notwithstanding the permissive character of the act and
@@ -3755,7 +3755,7 @@ The development evidenced by the above figures, and in particular the
 fact that 52% of the population were subject to by-laws, enabled Mr
 Disraeli's government in 1876 to take a notable step forward in the
 direction of universal direct compulsion. The act of 1876 embodied the
-declaration that "it shall be the duty of the parent of every child to
+[[Declaration|declaration]] that "it shall be the duty of the parent of every child to
 cause such child to receive efficient elementary instruction in
 reading, writing and arithmetic, and if such parent fail to perform
 such duty he shall be liable to such orders and penalties as are
@@ -3878,8 +3878,8 @@ In 1861, that is to say, nearly thirty years after the state began to
 concern itself with elementary education, the first step in the way of
 intervention in what is now called secondary or intermediate education
 was taken by the appointment of a royal commission, presided over by
-Lord Clarendon, to inquire into the condition of nine of the chief
-endowed schools in the country, viz. Eton, Winchester, Westminster,
+Lord [[Clarendon]], to inquire into the condition of nine of the chief
+endowed schools in the country, viz. [[Eton]], Winchester, Westminster,
 Charterhouse, St Paul's, Merchant Taylors, Harrow, Rugby and Shrewsbury.
 The report of this commission led to a statute, the Public Schools Act
 of 1864, which introduced certain reforms in the administration of seven
@@ -3930,7 +3930,7 @@ they were in a feeble and decadent state, giving, more or less
 inefficiently, an education wholly unsuited to the wants of the class to
 whom they ministered. In addition to the general inelasticity of the
 curriculum, the special evils from which the grammar-schools suffered
-were the want of effective governing bodies and the freehold tenure of
+were the want of effective governing bodies and the [[Freehold|freehold]] tenure of
 the headmasterships.
 
 
@@ -4000,7 +4000,7 @@ hand of the commissioners. The total income of the endowments known to
 be Subject to the Endowed Schools Acts, and therefore available for
 purposes of secondary education, according to the estimate of the
 Secondary Education Commission (still in 1909 the latest available
-source of complete information), was in 1895 about L735,000 gross.
+source of complete information), was in 1895 about L735,000 [[Gross|gross]].
 
 
   Technical Instruction Acts 1889, &c.
@@ -4018,7 +4018,7 @@ Comparatively few councils were prepared to resort to their rating
 powers, but progress under these acts was greatly facilitated by the
 Local Taxation (Customs and Excise) Act of 1890, which mentioned
 technical instruction as one of the purposes to which the imperial
-contribution paid to local authorities in respect of the beer and spirit
+contribution paid to local authorities in respect of the [[Beer|beer]] and spirit
 duties might be applied. By virtue of the very liberal interpretation
 given to technical instruction by these acts the financial assistance
 afforded under them was extended to cover the whole field of
@@ -4153,7 +4153,7 @@ Education is concerned, viz. elementary, secondary and technological.
   Act of 1902, general principles.
 
 No law of recent years has excited an acuter or more prolonged
-controversy than the Education Act of 1902, and amid the dust of
+controversy than the Education Act of 1902, and amid the [[Dust|dust]] of
 religious and political strife it is not easy for contemporaries to view
 it objectively and in its true proportions. Nevertheless, considered
 historically, the act becomes intelligible as the product of the forces,
@@ -4198,7 +4198,7 @@ upon the centralization of authority in the hands of the county
 councils. Account, too, must be taken of the comparative heaviness with
 which a uniform county rate is apt to press upon sparsely populated
 agricultural parishes, especially in counties which include considerable
-industrial districts. Notwithstanding these minor drawbacks, it may be
+industrial districts. Notwithstanding these minor [[Drawback|drawbacks]], it may be
 said that upon the whole the best opinion has endorsed the policy of
 1902 with respect to the area of administration. At any rate it has been
 necessary to recognize the impracticability of disestablishing the
@@ -4232,7 +4232,7 @@ follows:--
   1890, heretofore optional, is made compulsory, and power is given to
   levy a rate which in the case of a county is not to exceed two pence
   in the pound, or such higher rate as the county council with the
-  consent of the Local Government Board may fix (S 2). Concurrent powers
+  consent of the [[Local Government Board]] may fix (S 2). Concurrent powers
   are given to the councils of non-county boroughs and urban districts,
   with the limit of a penny rate (S 3). A council must not require any
   particular form of religious instruction or observance, but the usual
@@ -4316,7 +4316,7 @@ follows:--
   to be made by the L.E.A. (S 7. [5]).
 
   A provision, S 7 (6), known from the name of its author (d. 1908),
-  Colonel Kenyon Slaney, M.P., as the Kenyon-Slaney clause, attracted
+  Colonel [[Kenyon]] Slaney, M.P., as the Kenyon-Slaney clause, attracted
   considerable attention and formed the subject of much ecclesiastical
   controversy during the passage of the bill through parliament. The
   Kenyon-Slaney clause requires the religious instruction in voluntary
@@ -4419,7 +4419,7 @@ follows:--
   containing certain special provisions of only minor importance.
 
 
-  "Passive resistance" to 1902 act. Default Act 1904.
+  "Passive resistance" to 1902 act. [[Default]] Act 1904.
 
 The hostility of Nonconformists to the extension of rate-aid to
 denominational schools led to the organization upon a considerable scale
@@ -4443,7 +4443,7 @@ authority on account of parliamentary grants.
 
   Bill of 1906.
 
-When the liberal party came into power again in 1906, Mr Birrell as
+When the [[Liberal Party|liberal party]] came into power again in 1906, Mr [[Birrell]] as
 president of the Board of Education in Sir Henry Campbell-Bannerman's
 administration introduced a bill to amend the Education Acts 1902-1903,
 with the object of securing full public control of all rate-aided
@@ -4480,10 +4480,10 @@ schools upon terms of receiving a grant of 47s. per head. The bill was
 accompanied by a financial scheme for a new system of allocating the
 parliamentary grant. In view of the improbability of its passing into
 law the bill was not pressed beyond the stage of second reading.
-Meanwhile, when Mr Asquith reorganized the cabinet, Mr Runciman
+Meanwhile, when Mr [[Asquith]] reorganized the cabinet, Mr Runciman
 succeeded Mr McKenna at the education office, and in the autumn he
 introduced a fresh measure framed as the result of negotiations between
-the government and the archbishop of Canterbury (Dr Randall Davidson)
+the government and the archbishop of Canterbury (Dr Randall [[Davidson]])
 and designed to be passed rapidly through parliament by consent of all
 parties. Mr Runciman's bill, like his predecessor's, was based upon the
 principle of compulsory transfer in single-school parishes and
@@ -4541,7 +4541,7 @@ public elementary schools. In connexion with this act the Board of
 Education established a medical department to advise and assist them in
 supervising local education authorities in carrying out their statutory
 duties in this regard. The whole departure is significant of the new
-sense of the importance of physical culture and hygiene which has been
+sense of the importance of physical culture and [[Hygiene|hygiene]] which has been
 one of the remarkable features in recent educational developments.
 
 
@@ -4579,7 +4579,7 @@ the Board of Education in 1905. This volume represented a notable
 attempt to connect administration with educational theory, without in
 any way seeking to crush individual initiative, or to impose a
 bureaucratic uniformity of method upon those engaged in the actual work
-of the schools. Apprehension of the true aim of elementary education as
+of the schools. [[Apprehension]] of the true aim of elementary education as
 essentially and primarily a preparation for practical life has led to a
 corresponding development of instruction of a practical character,
 observation lessons and nature study being treated as a necessary
@@ -4637,7 +4637,7 @@ The total expenditure (exclusive of capital outlay) of the local
 authorities (1906-1907) in England only upon elementary education,
 including "industrial" and "special" schools, was L19,776,733, of which
 (a) L10,408,242 was met by the ordinary parliamentary grant, and (b)
-L8,930,468 was the balance required to be met by rates, the difference
+L8,930,468 was the [[Balance|balance]] required to be met by rates, the difference
 being represented by receipts from various sources. The average cost per
 child of elementary schools in England and Wales (excluding London) may
 be taken at L3 (including London L3, 4s. 10d.), and the average central
@@ -4656,12 +4656,12 @@ ed.) pointed out that the full appreciation of the importance of
 training began at the lower end of the social scale. Shuttleworth and
 Tufnell in 1846 urged the necessity of special training for the primary
 teacher, and hoped to establish State Training Colleges to supply this
-want; but the one college at Battersea which was founded as an
+want; but the one college at [[Battersea]] which was founded as an
 experiment was soon transferred to the National Society (the "National
 Society for educating the poor in the principles of the Established
 Church": founded in 1811). Before this, Bell and Lancaster had made
 arrangements in their model schools for the reception of a few young
-people to learn the system by practice. In Glasgow, David Stow, who
+people to learn the system by practice. In [[Glasgow]], David Stow, who
 founded in 1826 the Normal Seminary which afterwards became the Free
 Church College, was one of the first to insist on the need of systematic
 professional preparation. The religious bodies in England, notably the
@@ -4670,7 +4670,7 @@ central government, and a number of diocesan colleges for men, and
 separately for women, were gradually established. In 1854 the British
 and Foreign School Society (founded 1808) placed their institutes at the
 Borough Road and Stockwell on a collegiate footing, and subsequently
-founded other colleges at Swansea, Bangor, Darlington and Saffron
+founded other colleges at Swansea, [[Bangor]], [[Darlington]] and Saffron
 Walden; the Roman Catholic Church provided two for women and one for
 men; and the Wesleyans two, one for each sex. The new provincial
 colleges of university rank were invited by the Education Department to
@@ -4719,7 +4719,7 @@ a full course of secondary education, secondly by associating pupil
 teachership itself as far as possible with part-time attendance at a
 secondary school. The total number of pupil teachers recognized during
 the year 1907-1908 was 20,571, and of these 9770 were in centres forming
-integral parts of secondary schools. The number of bursars who passed
+integral parts of secondary schools. The number of [[Bursar|bursars]] who passed
 the leaving examination was 1486.
 
 
@@ -4806,7 +4806,7 @@ secondary and technological, rendered possible for the first time an
 adequate treatment of the problem of public secondary education as a
 whole. "The regulations for secondary schools," says the prefatory
 memorandum to the regulations of the Board of Education, "grew up round
-the old provisions of the Directory of the Science and Art Department.
+the old provisions of the [[Directory]] of the Science and Art Department.
 Detached science classes were gradually built up into schools of
 science. Schools of science were subsequently widened into schools of
 what was known as the 'Division A' type, providing a course of
@@ -4826,7 +4826,7 @@ public control; on the other hand the tendency (marked especially by the
 regulations of 1907) to greater elasticity in regard to curricula, and
 so to the freer encouragement of local initiative and local effort.
 
-In 1907 the government of Sir Henry Campbell-Bannerman placed greatly
+In 1907 the government of Sir Henry [[Campbell-Bannerman]] placed greatly
 increased funds at the disposal of the Board of Education for the
 purpose of secondary education. The regulations under which the
 increased grant was administered imposed conditions in respect of
@@ -4966,7 +4966,7 @@ English was a distinct check to the development of public elementary
 education, and little or no further progress was made until after the
 Revolution. The most systematic educational policy was pursued in the
 colony of Massachusetts. As early as 1635, five years after it was
-founded, the town of Boston took action to the end that "our brother
+founded, the town of [[Boston]] took action to the end that "our brother
 Philemon Pormort shall be entreated to become schoolmaster for the
 teaching and nurturing children with us." The General Court of the
 colony in 1636 made the first appropriation for what was to become
@@ -4994,12 +4994,12 @@ set up a grammar school in which pupils might be prepared for the
 "University," as the new institution at Cambridge was designated.
 Moreover, a penalty was attached to neglect of this legislative
 requirement, in the form of a fine to be devoted to the maintenance of
-the nearest school. Horace Mann said of the act of 1647: "It is
+the nearest school. Horace [[Mann]] said of the act of 1647: "It is
 impossible for us adequately to conceive the boldness of the measure,
 which aimed at universal education through the establishment of free
 schools. As a fact it had no precedent in the world's history; and, as a
 theory, it could have been refuted and silenced by a more formidable
-array of argument and experience than was ever marshalled against any
+[[Array|array]] of argument and experience than was ever marshalled against any
 other institution of human origin. But time has ratified its soundness.
 Two centuries of successful operation now proclaim it to be as wise as
 it was courageous, and as beneficent as it was disinterested." The
@@ -5007,7 +5007,7 @@ significance of these acts of 1642 and 1647 is that they foreshadow the
 whole American system of education, including elementary schools,
 secondary schools and colleges, and that they indicate the principles
 upon which that system rests. These principles as summarized by George
-H. Martin in his _Evolution of the Massachusetts Public School System_
+H. [[Martin]] in his _Evolution of the Massachusetts Public School System_
 are the following:--(1) The universal education of youth is essential to
 the well-being of the state. (2) The obligation to furnish this
 education rests primarily upon the parent. (3) The state has a right to
@@ -5024,21 +5024,21 @@ States is founded.
 
   Development.
 
-Despite the praiseworthy attempts made in New York, New Jersey and
+Despite the praiseworthy attempts made in New York, New [[Jersey]] and
 Pennsylvania to develop schools and school systems, very little was
 accomplished in those colonies which was permanent. The sentiment in the
 more southern colonies was, as a rule, unfriendly to free schools, and
 nothing of importance was attempted in that section of the country until
-the time of Thomas Jefferson. Through religious zeal or philanthropy
+the time of Thomas [[Jefferson]]. Through religious zeal or philanthropy
 colleges were founded as far south as Virginia, and no fewer than ten of
 these institutions were in operation in 1776. Their present names and
 the dates of their foundation are: Harvard University, Massachusetts
 (1636); College of William and Mary, Virginia (1693); Yale University,
 Connecticut (1701); Princeton University, New Jersey (1746); Washington
-and Lee University, Virginia (1749); University of Pennsylvania,
-Pennsylvania (1749); Columbia University, New York (1754); Brown
+and [[Lee]] University, Virginia (1749); University of Pennsylvania,
+Pennsylvania (1749); [[Columbia University]], New York (1754); Brown
 University, Rhode Island (1764); Rutgers College, New Jersey (1766); and
-Dartmouth College, New Hampshire (1769). In the colleges the
+[[Dartmouth College]], New [[Hampshire]] (1769). In the colleges the
 ecclesiastical spirit was at first almost uniformly dominant. The
 greater number of their students were preparing for the ministry in some
 one of the branches of the Protestant Church. These facts caused the
@@ -5110,7 +5110,7 @@ the township, has been the political unit in the south from the
 beginning. Special laws have been made for the school system in cities,
 and the form of these laws differs very much. In nearly every city there
 is a separate board of education, sometimes chosen by the voters,
-sometimes appointed by the mayor or other official, which board has
+sometimes appointed by the [[Mayor|mayor]] or other official, which board has
 full control of the schools. The city board of education has as its
 executive officer a superintendent of schools, who has become a most
 important factor in American educational administration. He exerts great
@@ -5119,10 +5119,10 @@ the arrangement of the programme of studies, and in the determination of
 questions of policy. Sometimes he is charged by law with the initiative
 in some or all of these matters. He is usually a trained administrator
 as well as an experienced teacher. The first superintendent was
-appointed in 1837 at Buffalo. Providence followed in 1839, New Orleans
-in 1841, Cleveland in 1844, Baltimore in 1849, Cincinnati in 1850,
-Boston in 1851, New York, San Francisco and Jersey City in 1852, Newark
-and Brooklyn in 1853, Chicago and St Louis in 1854, and Philadelphia in
+appointed in 1837 at [[Buffalo]]. Providence followed in 1839, New Orleans
+in 1841, [[Cleveland]] in 1844, Baltimore in 1849, Cincinnati in 1850,
+Boston in 1851, New York, San Francisco and [[Jersey City]] in 1852, Newark
+and Brooklyn in 1853, [[Chicago]] and St Louis in 1854, and Philadelphia in
 1883. In general, it may be said that the progress of public education
 in the United States is marked by (1) compulsory schools, (2) compulsory
 licensing of teachers, (3) compulsory school attendance, and (4)
@@ -5157,7 +5157,7 @@ while not controlling it. This policy dates from the 13th of July 1787,
 when there was passed the famous "Ordinance for the Government of the
 Territory of the United States North-West of the River Ohio," meaning
 the territory north and west of the Ohio river now represented by the
-states of Ohio, Indiana, Illinois, Michigan, Wisconsin, and the eastern
+states of Ohio, [[Indiana]], Illinois, Michigan, Wisconsin, and the eastern
 side of Minnesota, embracing more than 265,000 sq. m. of territory. This
 ordinance contains this declaration: "Religion, morality, and knowledge
 being necessary to good government and the happiness of mankind, schools
@@ -5167,7 +5167,7 @@ of 1785, by which section No. 16 in every township (a township consists
 of 36 numbered sections of 1 sq. m. each), or one thirty-sixth of the
 entire north-west territory, was set aside for the maintenance of public
 schools within the township. The funds derived from the sale and lease
-of these original "school lands" form the major portion of the public
+of these original "school lands" form the [[Major|major]] portion of the public
 school endowment of the states formed out of the north-west territory.
 The precedent thus established became the policy of the nation. Each
 state admitted prior to 1848 reserved section No. 16 in every township
@@ -5183,7 +5183,7 @@ added various special grants made from time to time to the states and
 devoted to education. The portion of the public domain so set apart in
 1900 amounted in all to 86,138,473 acres, or 134,591 English sq. m. This
 is an area greater than those of the six New England states, New York,
-New Jersey, Maryland and Delaware added together. It is a portion of the
+New Jersey, Maryland and [[Delaware]] added together. It is a portion of the
 earth's surface as great as the kingdom of Prussia, about seven-tenths
 as great as France, and considerably greater than the combined areas of
 Great Britain (including the Channel Islands) and the kingdom of
@@ -5201,7 +5201,7 @@ land and money given by the national government for education in the
 several states and territories is about $300,000,000.
 
 
-  Bureau of education.
+  [[Bureau]] of education.
 
 In 1867 the Congress established a bureau of education, presided over by
 a commissioner who is under the jurisdiction of the secretary of the
@@ -5221,9 +5221,9 @@ increased. The annual reports alone of the Commissioner of Education are
 mines of information. These standard works of reference are distributed
 gratuitously in large numbers to libraries, school officials and other
 persons interested, and to foreign governments. The several
-commissioners of education have been: Henry Barnard, 1867-1870; John
-Eaton, 1870-1886; Nathaniel H.R. Dawson, 1886-1889; William T.
-Harris,[3] 1889-1906; Elmer Ellsworth Brown, 1906- .
+commissioners of education have been: Henry [[Barnard]], 1867-1870; John
+[[Eaton]], 1870-1886; Nathaniel H.R. [[Dawson]], 1886-1889; William T.
+[[Harris]],[3] 1889-1906; Elmer Ellsworth Brown, 1906- .
 
 
   State governments and education.
@@ -5277,12 +5277,12 @@ authorities. The county and city superintendents are often charged with
 the duty of holding examinations for entrance upon the work of teaching,
 and of issuing licences to those persons who pass the examinations. This
 system works best where it is carefully regulated by state law. Thirty
-states, one territory, and the District of Columbia have enacted
+states, one territory, and the District of [[Columbia]] have enacted
 compulsory education laws, but the enforcement of them is usually very
 lax. In fifteen states and territories there are no compulsory education
 laws, although there are in existence there fully organized school
 systems free to all children. The usual age during which school
-attendance is required is from 8 to 14. Provision is made in Maine, New
+attendance is required is from 8 to 14. Provision is made in [[Maine]], New
 Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New
 Jersey, Pennsylvania, Indiana, Minnesota and Michigan, for sending
 habitual truants to some special institution. Laws forbidding the
@@ -5317,7 +5317,7 @@ Miss Susan E. Blow, herself the leading exponent of kindergarten
 principles in the United States, has pointed out that the history of the
 kindergarten movement reveals four distinct stages in its development:
 the pioneer stage, having Boston as its centre; the philanthropic stage,
-which began in the village of Florence, Mass., and reached its climax at
+which began in the village of Florence, Mass., and reached its [[Climax|climax]] at
 San Francisco, California; the national or strictly educational stage,
 which began at St Louis; and the so-called maternal stage, which from
 Chicago as a centre is spreading over the entire country. During the
@@ -5367,12 +5367,12 @@ of the United States, and elementary natural science, including human
 physiology and hygiene. Physical training, vocal music, drawing and
 manual training are often taught. Sometimes a foreign language (Latin,
 German or French) and the study of general history are begun. Formal
-instruction in manners and morals is not often found, but the discipline
+instruction in [[Manners|manners]] and morals is not often found, but the discipline
 of the school offers the best possible training in the habits of
 truthfulness, honesty, obedience, regularity, punctuality and conformity
 to order. Religious teaching is not permitted, although the exercises of
 the day are often opened with reading from the Bible, the repetition of
-the Lord's Prayer and the singing of a hymn. Corporal punishment is not
+the Lord's Prayer and the singing of a hymn. [[Corporal Punishment|Corporal punishment]] is not
 infrequent, but is forbidden by law in New Jersey, and in many states
 may be used only under restrictions. Text-books are used as the basis of
 the instruction given, and the pupils "recite" in class to the teacher,
@@ -5387,7 +5387,7 @@ instruction.
 
 The secondary school course is normally four years in length. The
 principal subjects studied are Latin, Greek, French, German, algebra,
-geometry, physics, chemistry, physical geography, physiology, rhetoric,
+geometry, physics, [[Chemistry|chemistry]], physical geography, physiology, rhetoric,
 English literature, civics and history. Although but 11.36% of the
 students in public high schools and 25.36% of those in private secondary
 schools are preparing for a college or scientific school, yet the
@@ -5449,7 +5449,7 @@ paterfamilias. He knew each student and came into direct personal
 contact with him. The president and the faculty had supervision not only
 of the studies of the students, but of their moral and religious life as
 well. The older type of college professor was not always a great
-scholar, but he was a student of human nature, with keen intuitions and
+scholar, but he was a student of human nature, with keen [[Intuition|intuitions]] and
 shrewd insight. The new type, which had come into existence at the
 opening of the 20th century, was more scholarly in some special
 direction, often regarded teaching as a check upon opportunities for
@@ -5488,15 +5488,15 @@ take rank with good secondary schools. Only time and a greatly increased
 capacity to distinguish the various types of higher schools will remedy
 this error. Putting aside tentative and unsuccessful attempts to develop
 genuine university instruction much earlier, it may safely be said that
-the opening of the Johns Hopkins University at Baltimore in 1876 began
+the opening of the Johns [[Hopkins]] University at Baltimore in 1876 began
 the present movement to organize carefully advanced study and research,
 requiring a college education of those who wish to enter upon it. This
 is university instruction properly so called, and though found
 elsewhere, it is given chiefly at fourteen institutions: California
 University, Catholic University of America, Chicago University, Clark
-University, Columbia University, Cornell University, Harvard University,
+University, Columbia University, [[Cornell University]], Harvard University,
 Johns Hopkins University, Michigan University, Pennsylvania University,
-Princeton University, Leland Stanford Jr. University, Wisconsin
+Princeton University, [[Leland Stanford Jr. University]], Wisconsin
 University and Yale University. All of these institutions, except the
 Catholic University of America, are also colleges. The combination of
 collegiate and university instruction under one corporation and one
@@ -5535,7 +5535,7 @@ philosophical faculty. (See also UNIVERSITIES.)
 
 Most extensive provision is made in America for professional, technical
 and special education of all kinds, and for the care and training of the
-dependent and defective classes (see BLINDNESS and DEAF AND DUMB), as
+dependent and defective classes (see [[Blindness|BLINDNESS]] and DEAF AND DUMB), as
 well as for the education of the Indian (see INDIANS, NORTH AMERICAN),
 and--in the Southern states--of the negro (q.v.). (N. M. B.)
 
@@ -5552,8 +5552,8 @@ summarizes the national account as follows:--
   teachers or other educational officers, and more or less of the time
   of some eighteen million students.... We pay for the labour of these
   teachers, many of whom work for only part of the normal city-school
-  year, about $300,000,000. We pay for fuel, light, janitorial services,
-  repairs, depreciation of books, school supplies, insurance and the
+  year, about $300,000,000. We pay for [[Fuel|fuel]], light, janitorial services,
+  repairs, depreciation of books, school supplies, [[Insurance|insurance]] and the
   like, about $90,000,000. For depreciation of the plant not so charged
   we should properly provide during the year a sinking fund of perhaps
   $25,000,000. Adding an interest charge of 5% on the investment in the
@@ -5583,7 +5583,7 @@ summarizes the national account as follows:--
   of education in the country at large. The plant used for formal
   education is valued at 1% of our entire national wealth, or twice the
   value of our telephone systems, or ten times the value of our Pullman
-  and private cars, or one-tenth the value of our railroads. The number
+  and private [[Car|cars]], or one-tenth the value of our railroads. The number
   of teachers is approximately that of the clergymen, engineers, lawyers
   and physicians together, five times that of the regular army and navy,
   and about twice that of the saloon-keepers and bar-tenders and their
@@ -5705,7 +5705,7 @@ From the same report the following statistics may be cited for
   Universitaten_ is the best history of education in Germany.
 
   On the Renaissance in Italy, Villari's Introduction to his _Life and
-  Times of Machiavelli_, and Burckhardt's _Die Kultur der Renaissance in
+  Times of [[Machiavelli]]_, and Burckhardt's _Die Kultur der Renaissance in
   Italien_ (translated into English), are of the first importance. Other
   valuable books are the first volume of the _Cambridge Modern History_
   and Symonds's great work on _The Renaissance in Italy_, especially the
@@ -5740,7 +5740,7 @@ From the same report the following statistics may be cited for
   pedagogique_, and various German Reports.
 
   For education in the United States, see also Boone's _History of
-  Education in U.S.A._ (1889); N.M. Butler (editor), _Education in the
+  Education in U.S.A._ (1889); N.M. [[Butler]] (editor), _Education in the
   U.S.A._ (1900), a series of monographs prepared for the Paris
   Exposition; E.G. Dexter's _History of Education in the United States_
   (1904); and the _Proceedings_ of the National Educational Association.
@@ -5772,7 +5772,7 @@ FOOTNOTES:
     Education for 1907 (Washington, 1908).
 
   [4] See especially the second Annual Report of the President of the
-    Carnegie Foundation for the Advancement of Teaching (pp. 76-80),
+    [[Carnegie]] Foundation for the Advancement of Teaching (pp. 76-80),
     quoted in the Report for 1907 of the Commissioner of Education.
 
   [5] In private schools there were also 1,304,547 pupils.

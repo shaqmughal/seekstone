@@ -8,10 +8,10 @@ topic: renaissance
 
 ELF (O. Eng. _aelf_; cf. Ger. _Alp_, nightmare), a diminutive
 supernatural being of Teutonic mythology, usually of a more or less
-mischievous and malignant character, causing diseases and evil dreams,
+mischievous and malignant character, causing diseases and evil [[Dream|dreams]],
 stealing children and substituting changelings, and thus somewhat
 different from the Romanic fairy, which usually has less sinister
-associations. The prehistoric arrow-heads and other flint implements
+associations. The prehistoric arrow-heads and other flint [[Implement|implements]]
 were in England early known as "elf-bolts" or "elf-arrows," and were
 looked on as the weapons of the elves, with which they injured cattle.
 So too a tangle in the hair was called an "elf-lock," as being caused by

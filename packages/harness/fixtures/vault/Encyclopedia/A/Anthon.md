@@ -8,7 +8,7 @@ topic: politics
 
 ANTHON, CHARLES (1797-1867), American classical scholar, was born in New
 York city on the 19th of November 1797. After graduating with honours at
-Columbia College in 1815, he began the study of law, and in 1819 was
+[[Columbia]] College in 1815, he began the study of law, and in 1819 was
 admitted to the bar, but never practised. In 1820 he was appointed
 assistant professor of Greek and Latin in his old college, full
 professor ten years later, and at the same time headmaster of the

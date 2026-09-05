@@ -9,10 +9,10 @@ of God had, in the view of older exegesis, already expressed itself in
 the scriptural _Song of Songs_ and Judah Halevi used this book as his
 model. In this aspect of his work he found inspiration also in Arabic
 predecessors. The second period of his literary career was devoted to
-more serious pursuits. He wrote a philosophical dialogue in five books,
+more serious pursuits. He wrote a philosophical [[Dialogue|dialogue]] in five books,
 called the _Cuzari_, which has been translated into English by
 Hirschfeld. This book bases itself on the historical fact that the
-Crimean Kingdom of the Khazars adopted Judaism, and the Hebrew
+Crimean Kingdom of the [[Khazars]] adopted Judaism, and the Hebrew
 poet-philosopher describes what he conceives to be the steps by which
 the Khazar king satisfied himself as to the claims of Judaism. Like many
 other medieval Jewish authors, Judah Halevi was a physician. His real
@@ -22,10 +22,10 @@ rite. A striking feature of his thought was his devotion to Jerusalem.
 To the love of the Holy City he devoted his noblest genius, and he wrote
 some memorable Odes to Zion, which have been commemorated by Heine, and
 doubly appreciated recently under the impulse of Zionism (q.v.). He
-started for Jerusalem, was in Damascus in 1140, and soon afterwards
+started for Jerusalem, was in [[Damascus]] in 1140, and soon afterwards
 died. Legend has it that he was slain by an Arab horseman just as he
 arrived within sight of what Heine called his "Woebegone poor darling,
-Desolation's very image,--Jerusalem."
+Desolation's very [[Image|image]],--Jerusalem."
 
   Excellent English renderings of some of Judah Halevi's poems may be
   read in Mrs H. Lucas's _The Jewish Year_, and Mrs R. N. Solomon's

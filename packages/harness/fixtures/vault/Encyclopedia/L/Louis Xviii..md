@@ -1,7 +1,7 @@
 # Louis Xviii.
 
 LOUIS XVIII. (LOUIS LE DÉSIRÉ) (1755-1824). Louis-Stanislas-Xavier,
-comte de Provence, third son of the dauphin Louis, son of Louis XV., and
+comte de Provence, third son of the [[Dauphin|dauphin]] Louis, son of Louis XV., and
 of Maria Josepha of Saxony, was born at Versailles on the 17th of
 November 1755. His education was supervised by the devout duc de la
 Vauguyon, but his own taste was for the writings of Voltaire and the
@@ -11,24 +11,24 @@ position at court was uncomfortable, for though ambitious and conscious
 of possessing greater abilities than his brother (Louis XVI.), his scope
 for action was restricted; he consequently devoted his energies largely
 to intrigue, especially against Marie Antoinette, whom he hated.[1]
-During the long absence of heirs to Louis XVI., "Monsieur," as heir to
+During the long absence of [[Heir|heirs]] to Louis XVI., "Monsieur," as heir to
 the throne, courted popularity and took an active part in politics, but
 the birth of a dauphin (1781) was a blow to his ambitions.[2] He opposed
 the revival of the _parlements_, wrote a number of political
 pamphlets,[3] and at the Assembly of Notables presided, like the other
-princes of the blood, over a bureau, to which was given the name of the
+princes of the blood, over a [[Bureau|bureau]], to which was given the name of the
 _Comité des sages_; he also advocated the double representation of the
 _tiers_. At the same time he cultivated literature, entertaining poets
 and writers both at the Luxembourg and at his château of Brunoy (see
 Dubois-Corneau, _Le Comte de Provence à Brunoy_, 1909), and gaining a
 reputation for wit by his verses and _mots_ in the salon of the charming
-and witty comtesse de Balbi, one of Madame's ladies, who had become his
+and witty comtesse de [[Balbi]], one of Madame's ladies, who had become his
 mistress,[4] and till 1793 exerted considerable influence over him. He
-did not emigrate after the taking of the Bastille, but, possibly from
+did not emigrate after the taking of the [[Bastille]], but, possibly from
 motives of ambition, remained in Paris. Mirabeau thought at one time of
 making him chief minister in his projected constitutional government
 (see _Corr. de Mirabeau et La Marck_, ed. Bacourt, i. 434, 436, 442),
-but was disappointed by his caution and timidity. The _affaire Favras_
+but was disappointed by his caution and timidity. The _affaire [[Favras]]_
 (Dec. 1789) aroused great feeling against Monsieur, who was believed by
 many to have conspired with Favras, only to abandon him (see Lafayette's
 _Mems._ and _Corr. of Mirabeau_). In June 1791, at the time of the
@@ -43,12 +43,12 @@ Here, living in royal state, he put himself at the head of the
 counter-revolutionary movement, appointing ambassadors, soliciting the
 aid of the European sovereigns, and especially of Catherine II. of
 Russia. Out of touch with affairs in France and surrounded by violent
-anti-revolutionists, headed by Calonne and the comte d'Artois, he
+anti-revolutionists, headed by [[Calonne]] and the comte d'Artois, he
 followed an entirely selfish policy, flouting the National Assembly (see
-his reply to the summons of the National Assembly, in Daudet, _op. cit._
+his reply to the summons of the National Assembly, in [[Daudet]], _op. cit._
 i. 96), issuing uncompromising manifestoes (Sept. 1791, Aug. 1792, &c.),
 and obstructing in every way the representatives of the king and
-queen.[6] After Valmy he had to retire to Hamm in Westphalia, where, on
+queen.[6] After Valmy he had to retire to [[Hamm]] in Westphalia, where, on
 the death of Louis XVI., he proclaimed himself regent; from here he went
 south, with the idea of encouraging the royalist feeling in the south of
 France, and settled at Verona, where on the death of Louis XVII. (8th of
@@ -59,19 +59,19 @@ wanderings, negotiations and conspiracies. In April 1796 he joined
 Condé's army on the German frontier, but was shortly requested to leave
 the country, and accepted the hospitality of the duke of Brunswick at
 Blanckenberg till 1797, when, this refuge being no longer open to him,
-the emperor Paul I. permitted him to settle at Mittau in Courland, where
+the emperor Paul I. permitted him to settle at Mittau in [[Courland]], where
 he stayed till 1801. All this time he was in close communication with
 the royalists in France, but was much embarrassed by the conflicting
 policy pursued by the comte d'Artois from England, and was largely at
 the mercy of corrupt and dishonest agents.[7] At Mittau was realized his
 cherished plan of marrying Madame Royale, daughter of Louis XVI., to the
 duc d'Angoulême, elder son of the comte d'Artois. From Mittau, too, was
-sent his well-known letter to Bonaparte (1799) calling upon him to play
+sent his well-known letter to [[Bonaparte]] (1799) calling upon him to play
 the part of Monk, a proposal contemptuously refused (E. Daudet, _Hist.
 de l'émigration_, ii. 371, 436), though Louis in turn declined to accept
 a pension from Bonaparte, and later, in 1803, though his fortunes were
 at their lowest ebb, refused to abdicate at his suggestion and accept an
-indemnity.
+[[Indemnity|indemnity]].
 
 Suddenly expelled from Mittau in 1801 by the capricious Paul I., Louis
 made his way, in the depth of winter, to Warsaw, where he stayed for
@@ -80,17 +80,17 @@ royalist cause, and had a "_conseil royal_" in Paris, founded at the end
 of 1799 by Royer-Collard, Montesquiou and Clermont-Gallerande, the
 actions of which were much impeded by the activity of the rival
 committee of the comte d'Artois (see E. Daudet, _op. cit._ ii., and
-Remâcle, _Bonaparte et les Bourbons_, Paris, 1899), but after 1800, and
+Remâcle, _Bonaparte et les [[Bourbon|Bourbons]]_, Paris, 1899), but after 1800, and
 still more after the failure of the royalist conspiracy of Cadoudal,
 Pichegru and Moreau, followed by the execution of the duc d'Enghien
-(March 1804), and the assumption by Napoleon of the title of emperor
+(March 1804), and the [[Assumption|assumption]] by Napoleon of the title of emperor
 (May 1804), the royalist cause appeared quite hopeless. In September
 1804 Louis met the comte d'Artois at Calmar in Sweden, and they issued a
 protest against Napoleon's action, but being warned that he must not
 return to Poland, he gained permission from Alexander I. again to retire
 to Mittau. After Tilsit, however (1807), he was again forced to depart,
-and took refuge in England, where he stayed first at Gosfield in Essex,
-and afterwards (1809 onwards) at Hartwell in Buckinghamshire. In 1810
+and took refuge in England, where he stayed first at Gosfield in [[Essex]],
+and afterwards (1809 onwards) at Hartwell in [[Buckinghamshire]]. In 1810
 his wife died, and in 1811 d'Avaray died, his place as favourite being
 taken by the comte de Blacas.[8] After Napoleon's defeats in 1813 the
 hopes of the royalists revived, and Louis issued a fresh manifesto, in
@@ -100,7 +100,7 @@ support his cause, but was really playing for his own hand.
 
 In March 1814 the Allies entered Paris, and thanks to Talleyrand's
 negotiations the restoration of the Bourbons was effected, Louis XVIII.
-entering Paris on the 2nd of May 1814, after issuing the declaration of
+entering Paris on the 2nd of May 1814, after issuing the [[Declaration|declaration]] of
 St Ouen, in which he promised to grant the nation a constitution
 (_octroyer une charte_). He was now nearly sixty, wearied by adversity,
 and a sufferer from gout and obesity. But though clear-sighted, widely
@@ -110,18 +110,18 @@ to the reactionary and clerical party of the _émigrés_, headed by the
 comte d'Artois and the duchesse d'Angoulême, aroused suspicions of his
 loyalty to the constitution, the creation of his _Maison militaire_
 alienated the army, and the constant presence of Blacas made the
-formation of a united ministry impossible. After the Hundred Days,
-during which the king was forced to flee to Ghent, the dismissal of
+formation of a united ministry impossible. After the [[Hundred Days]],
+during which the king was forced to flee to [[Ghent]], the dismissal of
 Blacas was made one of the conditions of his second restoration. On the
 8th of July he again entered Paris, "in the baggage train of the allied
 armies," as his enemies said, but in spite of this was received with the
-greatest enthusiasm[9] by a people weary of wars and looking for
+greatest [[Enthusiasm|enthusiasm]][9] by a people weary of wars and looking for
 constitutional government. He was forced to retain Talleyrand and Fouché
 in his first ministry, but took the first opportunity of ridding himself
 of them when the elections of 1815 assured him of a strong royalist
 majority in the chamber (the _chambre introuvable_, a name given it by
 Louis himself). At this time he came into contact with the young comte
-(afterwards duc) Decazes, prefect of the police under Fouché, and
+(afterwards duc) [[Decazes]], prefect of the police under Fouché, and
 minister of police in Richelieu's ministry, who now became his favourite
 and gained his entire confidence (see E. Daudet, _Louis XVIII. et le duc
 Decazes_). Having obtained a ministry in which he could trust, having as
@@ -139,7 +139,7 @@ position was more passive than active, and consisted in giving his
 support as far as possible to the ministry of the day. While Decazes
 was still in power, the king's policy to a large extent followed his,
 and was rather liberal and moderate, but after the assassination of the
-duc de Berry (1820), when he saw that Decazes could no longer carry on
+duc de [[Berry]] (1820), when he saw that Decazes could no longer carry on
 the government, he sorrowfully acquiesced in his departure, showered
 honours upon him, and transferred his support to Richelieu, the head of
 the new ministry. In the absence of Decazes a new favourite was found to
@@ -162,13 +162,13 @@ certain nobility of demeanour, and a consciousness of his dignity as
 king. But his nature was cold, unsympathetic and calculating, combined
 with a talent for intrigue, to which was added an excellent memory and a
 ready wit. An interesting judgment of him is contained in _Queen
-Victoria's Letters_, vol. i., in a letter of Leopold I., king of the
+Victoria's Letters_, vol. i., in a letter of [[Leopold]] I., king of the
 Belgians, to the queen before her accession, dated the 18th of November
 1836, "Poor Charles X. is dead.... History will state that Louis XVIII.
 was a most liberal monarch, reigning with great mildness and justice to
 his end, but that his brother, from his despotic and harsh disposition,
 upset all the other had done and lost the throne. Louis XVIII. was a
-clever, hard-hearted man, shackled by no principle, very proud and
+[[Clever|clever]], hard-hearted man, shackled by no principle, very proud and
 false. Charles X. an honest man, a kind friend," &c. &c. This seems
 fairly just as a personal estimate, though it does not do justice to
 their respective political rôles.
@@ -179,7 +179,7 @@ their respective political rôles.
   Paris, 1832-1833) are compiled by Lamothe-Langon, a well-known
   compiler of more or less apocryphal memoirs. From the hand of Louis
   XVIII. are: _Relation d'un voyage à Bruxelles et à Coblentz_, 1791
-  (Paris, 1823, with dedication to d'Avaray); and _Journal de
+  (Paris, 1823, with [[Dedication|dedication]] to d'Avaray); and _Journal de
   Marie-Thérèse de France, duchesse d'Angoulême, corrigé et annoté par
   Louis XVIII._, ed. Imbert de St Amand (Paris, 1896). Some of his
   letters are contained in collections, such as _Lettres d'Artwell;
@@ -206,13 +206,13 @@ their respective political rôles.
   Provence sous le consulat_ (Paris, 1899). For various episodes, see
   Vicomte de Reiset, _La Comtesse de Balbi_ (Paris, 1908; contains a
   long bibliography, chiefly of memoirs concerning the emigration, and
-  is based on documents); J. B. H. R. Capefigue, _La Comtesse du Cayla_
+  is based on documents); J. B. H. R. [[Capefigue]], _La Comtesse du Cayla_
   (Paris, 1866); J. Turquan, _Les Favorites de Louis XVIII._ (Paris,
   1900); see also the chief memoirs of the period, such as those of
   Talleyrand, Chateaubriand, Guizot, duc de Broglie, Villèle, Vitrolles,
-  Pasquier, the comtesse de Boigne (ed. Nicoullaud, Paris, 1907), the
+  Pasquier, the comtesse de [[Boigne]] (ed. Nicoullaud, Paris, 1907), the
   Vicomte L. F. Sosthène de la Rochefoucauld (15 vols., Paris,
-  1861-1864); and the writings of Benjamin Constant, Chateaubriand, &c.
+  1861-1864); and the writings of [[Benjamin]] Constant, Chateaubriand, &c.
 
   General Works.--See the histories of France, the Emigration, the
   Restoration and especially the very full bibliographies to chapters
@@ -222,10 +222,10 @@ their respective political rôles.
 
 FOOTNOTES:
 
-  [1] See Arneth and Geffroy, _Corr. de Marie-Thérèse avec le comte de
-    Mercy-Argenteau_, vol. i., "Mercy to Maria Theresa, June 22nd, 1771,"
+  [1] See [[Arneth]] and [[Geffroy]], _Corr. de Marie-Thérèse avec le comte de
+    Mercy-Argenteau_, vol. i., "Mercy to [[Maria Theresa]], June 22nd, 1771,"
     also i. 261, ii. 186, 352, 393. Marie Antoinette says (ii. 393): "...
-    à un caractère très faible, il joint une marche souterraine, et
+    à un caractère très faible, il joint une [[Marche|marche]] souterraine, et
     quelquefois très basse."
 
   [2] See his letters to Gustavus III. of Sweden in A. Geffroy,
@@ -234,7 +234,7 @@ FOOTNOTES:
   [3] Two pamphlets at least are ascribed to him: "Les Mannequins,
     conte ou histoire, comme l'on voudra" (against Turgot; anon., Paris,
     1776) and "Description historique d'un monstre symbolique pris vivant
-    sur les bords du lac Fagua, près de Santa-Fé, par les soins de
+    sur les bords du [[Lac|lac]] Fagua, près de Santa-Fé, par les soins de
     Francisco Xaveiro de Neunris" (against Calonne; Paris, 1784) (A.
     Debidour in _La Grande Encyclopédie_).
 
@@ -265,8 +265,8 @@ FOOTNOTES:
 
     [9] See account by Decazes in E. Daudet, _Louis XVIII. et le duc
     Decazes_, pp. 48-49, and an interesting "secret and confidential"
-    letter of Castlereagh to Liverpool (July 8, 1815) in the unpublished
-    Foreign Office records: "The king sent for the duke and me this
+    letter of Castlereagh to [[Liverpool]] (July 8, 1815) in the unpublished
+    [[Foreign Office]] records: "The king sent for the duke and me this
     evening to the Thuilleries.... We found him in a state of great
     emotion and exaltation at the reception he had met with from his
     subjects, which appears to have been even more animated than on his
@@ -274,7 +274,7 @@ FOOTNOTES:
     admitted, it was almost impossible to converse, so loud were the
     shouts of the people in the Thuilleries Gardens, which were full,
     though it was then dark. Previous to the king's dismissing us, he
-    carried the duke and me to the open window. Candles were then
+    carried the duke and me to the open window. [[Candle|Candles]] were then
     brought, which enabled the people to see the king with the duke by
     his side. They ran from all parts of the Gardens, and formed a solid
     mass of an immense extent, rending the air with acclamations. The
@@ -282,7 +282,7 @@ FOOTNOTES:
     have traversed the principal streets that every demonstration of joy
     was manifested by the inhabitants."
 
-    [10] It is as yet not proved that Blacas returned from his embassy in
+    [10] It is as yet not proved that Blacas returned from his [[Embassy|embassy]] in
     response to a summons from the Ultras. But whether it was on his own
     initiative or not, there can be no doubt as to the hopes which they
     built on his arrival (see Daudet, _Louis XVIII. et le duc Decazes_).

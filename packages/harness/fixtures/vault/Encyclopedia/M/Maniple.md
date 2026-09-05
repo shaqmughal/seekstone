@@ -9,17 +9,17 @@ secure it, it is sometimes tied on with strings attached underneath,
 sometimes provided with a hole in the lining through which the arm is
 passed. It is ornamented with three crosses, one in the centre and one
 at each end, that in the centre being obligatory, and is often
-elaborately embroidered. It is the special ensign of the office of
+elaborately embroidered. It is the special [[Ensign|ensign]] of the office of
 subdeacon, and at the ordination is placed on the arm of the new
 subdeacon by the bishop with the words: "Take the maniple, the symbol of
 the fruit of good works."[1] It is strictly a "mass vestment," being
-worn, with certain exceptions (e.g. by a subdeacon singing the Gospel at
+worn, with certain exceptions (e.g. by a subdeacon singing the [[Gospel]] at
 the service of blessing the palms), only at Mass, by the celebrant and
 the ministers assisting.
 
 The most common name for the maniple up to the beginning of the 11th
 century in the Latin Church was _mappula_ (dim. of _mappa_, cloth), the
-Roman name for the vestment until the time of Innocent III. The
+Roman name for the vestment until the time of [[Innocent]] III. The
 designation _manipulus_ did not come into general use until the 15th
 century. Father Braun (_Liturg. Gewandung_, p. 517) gives other early
 medieval names: _sudanum_, _fano_, _mantile_, all of them meaning
@@ -28,8 +28,8 @@ linen cloth of ceremony (_pallium linostinum_) worn in the 4th century
 by the Roman clergy over the left arm, and peculiar at that time to
 them. Its ultimate origin is obscure, but is probably traceable to some
 ceremonial handkerchiefs commonly carried by Roman dignitaries, e.g.
-those with which the magistrates were wont to signal the opening of the
-games of the circus. As late as the 9th century, indeed, the maniple was
+those with which the [[Magistrate|magistrates]] were wont to signal the opening of the
+[[Games|games]] of the [[Circus|circus]]. As late as the 9th century, indeed, the maniple was
 still a handkerchief, held folded in the left hand. By what process it
 became changed into a narrow strip is not known; the earliest extant
 specimen of the band-like maniple is that found in the grave of St
@@ -43,7 +43,7 @@ The maniple was originally carried in the left hand. In pictures of the
 as hung over the left fore-arm. By the 12th century the rule according
 to which it is worn over the left arm had been universally accepted.
 According to present usage the maniple is put on by priests after the
-alb and girdle; by deacons and subdeacons after the dalmatic or tunicle;
+alb and girdle; by deacons and subdeacons after the [[Dalmatic|dalmatic]] or tunicle;
 by bishops at the altar after the _Confiteor_, except at masses for the
 dead, when it is assumed before the stole.[2]
 
@@ -60,7 +60,7 @@ middle with a cross or a sword (the "sword of the Spirit," which it is
 supposed to symbolize); sometimes, however, the space within the border
 is embroidered with pictures. It is worn only by bishops and the higher
 clergy, and derives its name from the fact that it hangs down over the
-knee ([Greek: gony]). It is worn on the right side, under the
+[[Knee|knee]] ([Greek: gony]). It is worn on the right side, under the
 _phelonion_, but when the _sakkos_ is worn instead of the _phelonion_,
 by metropolitans, &c., it is attached to this. The _epigonation_, like
 the maniple, was originally a cloth held in the hand; a fact
@@ -73,10 +73,10 @@ half of the 12th century, probably marks the date of the complete
 conventionalizing of the original cloth into the present stiff
 embroidered square; but the earliest representations of the vestment in
 its actual form date from the 14th century, e.g. the mosaic of St
-Athanasius in the chapel of St Zeno in St Mark's at Venice.
+[[Athanasius]] in the chapel of St Zeno in St Mark's at Venice.
 
-  See J. Braun, S. J., _Die liturgische Gewandung_ (Freiburg im
-  Breisgau, 1907), pp. 515-561. and the bibliography to VESTMENTS.
+  See J. Braun, S. J., _Die liturgische Gewandung_ ([[Freiburg]] im
+  [[Breisgau]], 1907), pp. 515-561. and the bibliography to VESTMENTS.
 
 
 FOOTNOTES:

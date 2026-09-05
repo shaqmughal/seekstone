@@ -8,7 +8,7 @@ type: note
 # Kiang-Si
 
 KIANG-SI, an eastern province of China, bounded N. by Hu-peh and
-Ngan-hui, S. by Kwang-tung, E. by Fu-kien, and W. by Hu-nan. It has an
+Ngan-hui, S. by Kwang-tung, E. by [[Fu-Kien|Fu-kien]], and W. by Hu-nan. It has an
 area of 72,176 sq. m., and a population returned at 22,000,000. It is
 divided into fourteen prefectures. The provincial capital is Nan-ch'ang
 Fu, on the Kan Kiang, about 35 m. from the Po-yang Lake. The whole
@@ -25,7 +25,7 @@ into the Po-yang Lake, connecting in its course the Wu-yuen district,
 whence come the celebrated "Moyune" green teas, and the city of
 King-te-chên, celebrated for its pottery, with Jao-chow Fu on the lake.
 The black "Kaisow" teas are brought from the Ho-kow district, where they
-are grown, down the river Kin to Juy-hung on the lake, and the Siu-ho
+are grown, down the river [[Kin]] to Juy-hung on the lake, and the Siu-ho
 connects by a navigable stream I-ning Chow, in the neighbourhood of
 which city the best black teas of this part of China are produced, with
 Wu-ching, the principal mart of trade on the lake. The principal

@@ -11,36 +11,36 @@ southern boundary of Hanover. A small portion of the province in the
 south is separated from Hanover proper by the interposition of part of
 Brunswick. On the 23rd of March 1873 the province was increased by the
 addition of the Jade territory (purchased by Prussia from Oldenburg),
-lying south-west of the Elbe and containing the great naval station and
+lying south-west of the [[Elbe]] and containing the great naval station and
 arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
 
   _Physical Features._--The greater part of Hanover is a plain with
   sandhills, heath and moor. The most fertile districts lie on the banks
   of the Elbe and near the North Sea, where, as in Holland, rich meadows
-  are preserved from encroachment of the sea by broad dikes and deep
+  are preserved from encroachment of the sea by broad [[Dike|dikes]] and deep
   ditches, kept in repair at great expense. The main feature of the
-  northern plain is the so-called _Luneburger Heide_, a vast expanse of
+  northern plain is the so-called _Luneburger [[Heide]]_, a vast expanse of
   moor and fen, mainly covered with low brushwood (though here and there
   are oases of fine beech and oak woods) and intersected by shallow
   valleys, and extending almost due north from the city of Hanover to
-  the southern arm of the Elbe at Harburg. The southern portion of the
+  the southern arm of the Elbe at [[Harburg]]. The southern portion of the
   province is hilly, and in the district of Klausenburg, containing the
   Harz, mountainous. The higher elevations are covered by dense forests
   of fir and larch, and the lower slopes with deciduous trees. The
   eastern portion of the northern plain is covered with forests of fir.
-  The whole of Hanover dips from the Harz Mountains to the north, and
+  The whole of Hanover dips from the [[Harz Mountains]] to the north, and
   the rivers consequently flow in that direction. The three chief rivers
   of the province are the Elbe in the north-east, where it mainly forms
-  the boundary and receives the navigable tributaries Jeetze, Ilmenau,
+  the boundary and receives the navigable tributaries Jeetze, [[Ilmenau]],
   Seve, Este, Luhe, Schwinge and Medem; the Weser in the centre, with
   its important tributary the Aller (navigable from Celle downwards);
-  and in the west the Ems, with its tributaries the Aa and the Leda.
+  and in the west the [[Ems]], with its tributaries the Aa and the Leda.
   Still farther West is the Vecht, which, rising in Westphalia, flows to
   the Zuider Zee. Canals are numerous and connect the various river
   systems.
 
   The principal lakes are the Steinhuder Meer, about 4 m. long and 2 m.
-  broad, and 20 fathoms deep, on the borders of Schaumburg-Lippe; the
+  broad, and 20 [[Fathom|fathoms]] deep, on the borders of Schaumburg-Lippe; the
   Dummersee, on the borders of Oldenburg, about 12 m. in circuit; the
   lakes of Bederkesa and some others in the moorlands of the north; the
   Seeburger See, near Duderstadt; and the Oderteich, in the Harz, 2100
@@ -63,7 +63,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   female. The density of the population is 175 to the sq. m. (English),
   and the proportion of urban to rural population, roughly, as 1 to 3 of
   the inhabitants. The province is divided into the six
-  _Regierungsbezirke_ (or departments) of Hanover, Hildesheim, Luneburg,
+  _Regierungsbezirke_ (or departments) of Hanover, [[Hildesheim]], Luneburg,
   Stade, Osnabruck and Aurich, and these again into Kreise (circles, or
   local government districts)--76 in all. The chief towns--containing
   more than 10,000 inhabitants--are Hanover, Linden, Osnabruck,
@@ -85,7 +85,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   in Hanover, an academy of forestry in Munden, a mining college in
   Clausthal, a military school and a veterinary college (both in
   Hanover), 26 gymnasia (classical schools), 18 semi-classical, and 14
-  commercial schools. There are also two naval academies, asylums for
+  commercial schools. There are also two naval academies, [[Asylum|asylums]] for
   the deaf and dumb, and numerous charitable institutions.
 
   _Agriculture._--Though agriculture constitutes the most important
@@ -100,7 +100,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   generally grown for bread. Flax, for which much of the soil is
   admirably adapted, is extensively cultivated, and forms an important
   article of export, chiefly, however, in the form of yarn. Potatoes,
-  hemp, turnips, hops, tobacco and beet are also extensively grown, the
+  hemp, turnips, hops, tobacco and [[Beet|beet]] are also extensively grown, the
   latter, in connexion with the sugar industry, showing each year a
   larger return. Apples, pears, plums and cherries are the principal
   kinds of fruit cultivated, while the wild red cranberries from the
@@ -114,11 +114,11 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   _Heidschnucken_, which equal the Southdowns of England in delicacy of
   flavour. Horses famous for their size and quality are reared in the
   marshes of Aurich and Stade, in Hildesheim and Hanover; and, for
-  breeding purposes, in the stud farm of Celle. Bees are principally
+  breeding purposes, in the stud farm of Celle. [[Bee|Bees]] are principally
   kept on the Luneburger Heide, and the annual yield of honey is very
   considerable. Large flocks of geese are kept in the moist lowlands;
   their flesh is salted for domestic consumption during the winter, and
-  their feathers are prepared for sale. The rivers yield trout, salmon
+  their [[Feather|feathers]] are prepared for sale. The rivers yield trout, salmon
   (in the Weser) and crayfish. The sea fisheries are important and have
   their chief centre at Geestemunde.
 
@@ -133,19 +133,19 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   _Manufactures._--Works for the manufacture of iron, copper, silver,
   lead, vitriol and sulphur are carried on to a large extent. The iron
   works are very important: smelting is carried on in the Harz and near
-  Osnabruck; there are extensive foundries and machine factories at
+  Osnabruck; there are extensive foundries and [[Machine|machine]] factories at
   Hanover, Linden, Osnabruck, Hameln, Geestemunde, Harburg, Osterode,
   &c., and manufactories of arms at Herzberg, and of cutlery in the
   towns of the Harz and in the Sollinger Forest. The textile industries
   are prosecuted chiefly in the towns. Linen yarn and cloth are largely
   manufactured, especially in the south about Osnabruck and Hildesheim,
-  and bleaching is engaged in extensively; woollen cloths are made to a
+  and [[Bleaching|bleaching]] is engaged in extensively; woollen cloths are made to a
   considerable extent in the south about Einbeck, Gottingen and Hameln;
   cotton-spinning and weaving have their principal seats at Hanover and
   Linden. Glass houses, paper-mills, potteries, tile works and
   tobacco-pipe works are numerous. Wax is bleached to a considerable
   extent, and there are numerous tobacco factories, tanneries,
-  breweries, vinegar works and brandy distilleries. Shipbuilding is an
+  breweries, vinegar works and [[Brandy|brandy]] distilleries. Shipbuilding is an
   important industry, especially at Wilhelmshaven, Papenburg, Leer,
   Stade and Harburg; and at Munden river-barges are built.
 
@@ -159,7 +159,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   _Communications._--The roads throughout are, on the whole, well laid,
   and those connecting the principal towns macadamized. Hanover is
   intersected by important trunk lines of railway; notably the lines
-  from Berlin to Cologne, from Hamburg to Frankfort-on-Main, from
+  from Berlin to Cologne, from Hamburg to [[Frankfort-On-Main|Frankfort-on-Main]], from
   Hamburg to Bremen and Cologne, and from Berlin to Amsterdam.
 
 _History._--The name Hanover (_Hohenufer_ = high bank), originally
@@ -184,11 +184,11 @@ Christian (1566-1633), Augustus (d. 1636) and Frederick (d. 1648). In
 addition to these four princes Duke William left three other sons, and
 in 1610 the seven brothers entered into a compact that the duchy should
 not be divided, and that only one of them should marry and continue the
-family. Casting lots to determine this question, the lot fell upon the
+family. Casting [[Lot|lots]] to determine this question, the lot fell upon the
 sixth brother, George (1582-1641), who was a prominent soldier during
 the period of the Thirty Years' War and saw service in almost all parts
 of Europe, fighting successively for Christian IV. of Denmark, the
-emperor Ferdinand II., and for the Swedes both before and after the
+emperor [[Ferdinand]] II., and for the Swedes both before and after the
 death of Gustavus Adolphus. In 1617 he aided his brother, Duke
 Christian, to add Grubenhagen to Luneburg, and after the extinction of
 the family of Brunswick-Wolfenbuttel in 1634, he obtained Calenberg for
@@ -198,7 +198,7 @@ became duke of Luneburg-Celle; and at this time he handed over
 Calenberg, which he had ruled since his father's death, to his second
 brother, George William (d. 1705). When Christian Louis died George
 William succeeded him in Luneburg-Celle; but the duchy was also claimed
-by a younger brother, John Frederick, a cultured and enlightened prince
+by a younger brother, [[John Frederick]], a cultured and enlightened prince
 who had forsaken the Lutheran faith of his family and had become a Roman
 Catholic. Soon, however, by an arrangement John Frederick received
 Calenberg and Grubenhagen, which he ruled in absolute fashion, creating
@@ -227,7 +227,7 @@ electoral college; France and Sweden were called upon for assistance;
 and the constitution of the Empire was reduced to a state of chaos. This
 agitation, however, soon died away; and in 1708 George Louis, the son
 and successor of Ernest Augustus, was recognized as an elector by the
-imperial diet. George Louis married his cousin Sophia Dorothea, the only
+imperial diet. George Louis married his [[Cousin|cousin]] Sophia Dorothea, the only
 child of George William of Luneburg-Celle; and on his uncle's death in
 1705 he united this duchy, together with Saxe-Lauenburg, with his
 paternal inheritance of Calenberg or Hanover. His father, Ernest
@@ -249,7 +249,7 @@ his brother-in-law Frederick William I. of Prussia, and his nephew
 Frederick the Great; and in 1729 war between Prussia and Hanover was
 only just avoided. In 1743 George took up arms on behalf of the empress
 Maria Theresa; but in August 1745 the danger in England from the
-Jacobites led him to sign the convention of Hanover with Frederick the
+[[Jacobites]] led him to sign the convention of Hanover with Frederick the
 Great, although the struggle with France raged around his electorate
 until the peace of Aix-la-Chapelle in 1748. Induced by political
 exigencies George allied himself with Frederick the Great when the Seven
@@ -266,7 +266,7 @@ country. But George III. was more British than either his grandfather or
 his great-grandfather, and owing to a variety of causes the foreign
 policies of the two countries began to diverge in the later years of his
 reign. Two main considerations dominated the fortunes of Hanover during
-the period of the Napoleonic wars, the jealousy felt by Prussia at the
+the period of the Napoleonic wars, the [[Jealousy|jealousy]] felt by Prussia at the
 increasing strength and prestige of the electorate, and its position as
 a vulnerable outpost of Great Britain. From 1793 the Hanoverian troops
 fought for the Allies against France, until the treaty of Basel between
@@ -290,7 +290,7 @@ elector was granted the title of king; but the British ministers wished
 to keep the interests of Great Britain distinct from those of Hanover.
 The result of the congress, however, was not unfavourable to the new
 kingdom, which received East Friesland, the secularized bishopric of
-Hildesheim, the city of Goslar, and some smaller additions of territory,
+Hildesheim, the city of [[Goslar]], and some smaller additions of territory,
 in return for the surrender of the greater part of the duchy of
 Saxe-Lauenburg to Prussia.
 
@@ -346,7 +346,7 @@ declare it invalid. He appears to have been especially chagrined because
 the crown lands were not his personal property, but the whole of the new
 arrangements were repugnant to him. Seven Gottingen professors who
 protested against this proceeding were deprived of their chairs; and
-some of them, including F. C. Dahlmann and Jakob Grimm, were banished
+some of them, including F. C. [[Dahlmann]] and [[Jakob]] Grimm, were banished
 from the country for publishing their protest. To save the constitution
 an appeal was made to the German Confederation, which Hanover had joined
 in 1815; but the federal diet declined to interfere, and in 1840 Ernest
@@ -365,7 +365,7 @@ Refusing to join the Prussian _Zollverein_, Hanover had become a member
 of the rival commercial union, the _Steuerverein_, three years before
 Ernest's accession; but as this union was not a great success the
 _Zollverein_ was joined in 1851. In 1849, after the failure of the
-German parliament at Frankfort, the king had joined with the sovereigns
+German parliament at [[Frankfort]], the king had joined with the sovereigns
 of Prussia and Saxony to form the "three kings' alliance"; but this
 union with Prussia was unreal, and with the king of Saxony he soon
 transferred his support to Austria and became a member of the "four
@@ -398,7 +398,7 @@ once Prussia requested Hanover to remain unarmed and neutral during the
 war, and with equal promptness King George refused to assent to these
 demands. Prussian troops then crossed his frontier and took possession
 of his capital. The Hanoverians, however, were victorious at the battle
-of Langensalza on the 27th of June 1866, but the advance of fresh bodies
+of [[Langensalza]] on the 27th of June 1866, but the advance of fresh bodies
 of the enemy compelled them to capitulate two days later. By the terms
 of this surrender the king was not to reside in Hanover, his officers
 were to take no further part in the war, and his ammunition and stores
@@ -437,7 +437,7 @@ Prussia.
   AUTHORITIES.--A. Hune, _Geschichte des Konigreichs Hannover und des
   Herzogtums Braunschweig_ (Hanover, 1824-1830); A. F. H. Schaumann,
   _Handbuch der Geschichte der Lande Hannover und Braunschweig_
-  (Hanover, 1864); G. A. Grotefend, _Geschichte der allgemeinen
+  (Hanover, 1864); G. A. [[Grotefend]], _Geschichte der allgemeinen
   landstandischen Verfassung des Konigreichs Hannover, 1814-1848_
   (Hanover, 1857); H. A. Oppermann, _Zur Geschichte des Konigreichs
   Hannover_, 1832-1860 (Berlin, 1868); E. von Meier, _Hannoversche
@@ -445,7 +445,7 @@ Prussia.
   Hassell, _Das Kurfurstentum Hannover vom Baseler Frieden bis zur
   preussischen Okkupation_ (Hanover, 1894); and _Geschichte des
   Konigreichs_ Hannover (Leipzig, 1898-1901); H. von Treitschke, _Der
-  Herzog von Cumberland und das hannoversche Staatsgrundgesetz von 1833_
+  [[Herzog]] von Cumberland und das hannoversche Staatsgrundgesetz von 1833_
   (Leipzig, 1888); M. Bar, _Ubersicht uber die Bestande des koniglichen
   Staatsarchivs zu Hannover_ (Leipzig, 1900); _Hannoversches Portfolio_
   (Stuttgart, 1839-1841); and the authorities given for the history of

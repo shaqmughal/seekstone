@@ -8,7 +8,7 @@ type: note
 # Guignes
 
 GUIGNES, JOSEPH DE (1721-1800), French orientalist, was born at Pontoise
-on the 19th of October 1721. He succeeded Fourmont at the Royal Library
+on the 19th of October 1721. He succeeded [[Fourmont]] at the Royal Library
 as secretary interpreter of the Eastern languages. A _Memoire historique
 sur l'origine des Huns et des Turcs_, published by de Guignes in 1748,
 obtained his admission to the Royal Society of London in 1752, and he

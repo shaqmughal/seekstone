@@ -1,12 +1,12 @@
 # Langhorne
 
 LANGHORNE, JOHN (1735-1779), English poet and translator of Plutarch,
-was born at Kirkby Stephen, Westmorland. He At first supported himself
+was born at [[Kirkby]] Stephen, Westmorland. He At first supported himself
 as a private tutor and schoolmaster, and, having taken orders, was
 appointed (1766) to the rectory of Blagdon, Somerset, where he died on
 the 1st of April 1779. His poems (original and translations), and
 sentimental tales, are now forgotten, but his translation of Plutarch's
-_Lives_ (1770), in which he had the co-operation of his elder brother
+_Lives_ (1770), in which he had the [[Co-Operation|co-operation]] of his elder brother
 William (1721-1772), is not yet superseded. It is far less vigorous than
 Sir Thomas North's version (translated from Amyot) but is free from its
 inaccuracies. His poems were published in 1804 by his son, J. T.

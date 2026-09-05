@@ -11,7 +11,7 @@ Folies, which was renamed the Theatre Dejazet. Here, even at the age of
 sixty-five, she had marvellous success in youthful parts, especially in
 a number of Sardou's earlier plays, previously unacted. She retired in
 1868, and died on the 1st of December 1875, leaving a great name in the
-annals of the French stage.
+[[Annals|annals]] of the French stage.
 
   See Duval's _Virginie Dejazet_ (1876).
 

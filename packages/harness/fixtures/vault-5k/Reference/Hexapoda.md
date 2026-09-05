@@ -2,7 +2,7 @@
 
 HEXAPODA (Gr. [Greek: hex], six, and [Greek: pous], foot), a term used
 in systematic zoology for that class of the ARTHROPODA, popularly known
-as insects. Linnaeus in his _Systema naturae_ (1735) grouped under the
+as [[Insect|insects]]. Linnaeus in his _Systema naturae_ (1735) grouped under the
 class Insecta all segmented animals with firm exoskeleton and jointed
 limbs--that is to say, the insects, centipedes, millipedes, crustaceans,
 spiders, scorpions and their allies. This assemblage is now generally
@@ -29,7 +29,7 @@ segments. In the terminology proposed by E. R. Lankester the arrangement
 is "nomomeristic" and "nomotagmic." The head of an insect carries
 usually four pairs of conspicuous appendages--feelers, mandibles and two
 pairs of maxillae, so that the presence of four primitive somites is
-immediately evident. The compound eyes of insects resemble so closely
+immediately evident. The [[Compound|compound]] eyes of insects resemble so closely
 the similar organs in Crustaceans that there can hardly be reasonable
 doubt of their homology, and the primitively appendicular nature of the
 eyes in the latter class suggests that in the Hexapoda also they
@@ -48,7 +48,7 @@ of development the mouth moves back to the mandibular segment, so that
 the first three somites--ocular, antennal and intercalary--lie in front
 of it. In Lankester's terminology, therefore, the head of an insect is
 "triprosthomerous." The maxillae of the hinder pair become more or less
-fused together to form a "lower lip" or labium, and the segment of these
+fused together to form a "lower [[Lip|lip]]" or labium, and the segment of these
 appendages is, in some insects, only imperfectly united with the
 head-capsule.
 
@@ -75,7 +75,7 @@ presence of a complex system of air-tubes (tracheae) for respiration,
 usually opening to the exterior by a series of paired spiracles on
 certain of the body segments. The possession of a variable number of
 excretory tubes (Malpighian tubes), which are developed as outgrowths of
-the hind-gut and pour their excretion into the intestine, is also a
+the hind-gut and pour their [[Excretion|excretion]] into the intestine, is also a
 distinctive character of the Hexapoda.
 
 The wings of insects are, in all cases, developed after hatching, the
@@ -107,11 +107,11 @@ may pass to a more detailed account of their structure.
   very distinct upper lip (_labrum_) is usually jointed. Behind the
   labrum arises a process--the _epipharynx_--which in some blood-sucking
   insects becomes a formidable piercing-organ. On either side a variable
-  amount of convex area is occupied by the compound eye; in many insects
+  amount of [[Convex|convex]] area is occupied by the compound eye; in many insects
   of acute sense and accurate flight these eyes are very large and
   sub-globular, almost meeting on the middle line of the head. Below
   each eye is a cheek area (_gena_), often divided into an anterior and
-  a posterior part, while a distinct chin-sclerite (_gula_) is often
+  a posterior part, while a distinct chin-sclerite (_[[Gula|gula]]_) is often
   developed behind the mouth.
 
   [Illustration: From Miall and Denny, _The Cockroach_, Lovell Reeve &
@@ -135,7 +135,7 @@ may pass to a more detailed account of their structure.
   segments may be reduced, certain of them often becoming highly
   modified in form.
 
-  [Illustration: After Marlatt, _Entom. Bull._ 14, n. s. (U.S. Dept.
+  [Illustration: After Marlatt, _Entom. [[Bull]]._ 14, n. s. (U.S. Dept.
   Agric.).
 
   FIG. 2.--Head of Cicad, front view. Ia, frons; b, clypeus (the pointed
@@ -160,7 +160,7 @@ may pass to a more detailed account of their structure.
 
   As previously mentioned, a pair of minute jaws--the _maxillulae_--are
   present in the lowest order of insects, between the mandibles and the
-  first maxillae. They usually consist of an inner and an outer lobe
+  first maxillae. They usually consist of an inner and an outer [[Lobe|lobe]]
   arising from a basal piece, which bears also in some genera a small
   palp (see APTERA).
 
@@ -176,7 +176,7 @@ may pass to a more detailed account of their structure.
   developed. In bugs and aphids the lacinia is a slender needle-like
   piercer (fig. 2, III), while the palp is wanting. In butterflies and
   moths the lacinia is absent while the galea becomes a flexible
-  process, grooved on its inner face, so as to make with its fellow a
+  process, grooved on its inner face, so as to make with its [[Fellow|fellow]] a
   hollow sucking-trunk, and the palp is usually very small.
 
   The _second pair of maxillae_ are more or less completely fused
@@ -187,14 +187,14 @@ may pass to a more detailed account of their structure.
   (_sub-mentum_) and the stipites a smaller plate (_mentum_)--see fig.
   1, C, sm, m--jointed on to the sub-mentum, while the galeae, laciniae
   and palps remain distinct. In specialized biting insects, such as
-  beetles (Coleoptera), the labium tends to become a hard transverse
+  beetles ([[Coleoptera]]), the labium tends to become a hard transverse
   plate bearing the pair of palps, a median structure--known as the
   _ligula_--formed of the conjoined laciniae, and a pair of small
   rounded processes--the reduced galeae--often called the "paraglossae,"
   a term better avoided since it has been applied also to the maxillulae
   of Aptera, entirely different structures. The long sucking "tongue" of
-  bees is probably a modification of the ligula. In bugs and aphids
-  (Hemiptera), the fused second maxillae form a jointed grooved beak or
+  [[Bee|bees]] is probably a modification of the ligula. In bugs and aphids
+  ([[Hemiptera]]), the fused second maxillae form a jointed grooved beak or
   rostrum (fig. 2, IV) in which the slender piercers (mandibles and
   first maxillae) work to and fro.
 
@@ -218,7 +218,7 @@ may pass to a more detailed account of their structure.
   head and thorax. Probably, however, as suggested by T. H. Huxley
   (_Anat. Invert. Animals_, 1877), they really belong to the labial
   segment which has not become completely fused with the head-capsule.
-  It has been shown by C. Janet (1889), from careful studies of the
+  It has been shown by C. [[Janet]] (1889), from careful studies of the
   musculature, that the greater part of the head-capsule is built up of
   the four anterior head-segments, the hindmost of which has the
   mandibles for its appendages, and this conclusion is in the main
@@ -314,7 +314,7 @@ may pass to a more detailed account of their structure.
   necessary for flight. Those of the dragon-flies (Odonata) have been
   described in detail by R. von Lendenfeld (1881). The long axis of the
   wings, when at rest, lies parallel to the body axis. In this position
-  the outer margin of the wing is the _costa_, the inner the _dorsum_,
+  the outer margin of the wing is the _[[Costa|costa]]_, the inner the _dorsum_,
   and the hind-margin the _termen_. The angle between the costa and
   termen is the _apex_. When the wing is spread, its long axis is more
   or less at a right angle to the body axis. A wing is an outgrowth from
@@ -422,7 +422,7 @@ may pass to a more detailed account of their structure.
   chafers and in the Hemiptera, for instance, being represented by a
   single mass situated in the thorax. The legs, wings and other organs
   of the trunk receive their nerves from the thoracic and abdominal
-  ganglia, and the fusion of several pairs of these ganglia may be
+  ganglia, and the [[Fusion|fusion]] of several pairs of these ganglia may be
   regarded as corresponding to a centralization of individuality. A
   special "sympathetic" system arises by paired nerves from the
   oesophageal connectives; these nerves unite, and send back a median
@@ -436,7 +436,7 @@ may pass to a more detailed account of their structure.
   ARTHROPODA. The surface of a compound eye is seen to be covered with a
   large number of hexagonal corneal facets, each of which overlies an
   ommatidium or series of cell elements (fig. 9, A, B). There are over
-  25,000 ommatidia in the eye of a hawk moth.
+  25,000 ommatidia in the eye of a [[Hawk|hawk]] moth.
 
   [Illustration: After Miall and Denny, _The Cockroach_, Lovell Reeve &
   Co.
@@ -446,14 +446,14 @@ may pass to a more detailed account of their structure.
   Auditory organs of a simple type are present in most insects. These
   consist of fine rods suspended between two points of the cuticle, and
   connected with nerve-fibres; they are known as chordotonal organs. In
-  many cases a more complex ear is developed, which may be situated in
+  many cases a more complex [[Ear|ear]] is developed, which may be situated in
   strangely diverse regions of the insect's body. In locusts
   (_Acridiidae_) a large ovate, tympanic membrane (fig. 9, G) is
   conspicuous on either side of the first abdominal segment; on the
   inner surface of this membrane are two horn-like processes in contact
   with a delicate sac containing fluid, connected with which are the
   actual nerve-endings. In the nearly-related crickets and long-horned
-  grasshoppers (_Locustidae_) the ears are situated in the shins of the
+  [[Grasshopper|grasshoppers]] (_Locustidae_) the ears are situated in the shins of the
   fore-legs (see fig. 9, F). Just below the knee-joint there is a
   swelling, along which two narrow slits run lengthwise. They lead into
   chambers, formed by inpushing of the cuticle, whose delicate inner
@@ -461,7 +461,7 @@ may pass to a more detailed account of their structure.
   latter are ridges, along which the special nerve-endings are arranged.
   An ear of another type is found in the swollen second segment of the
   feeler in many male gnats and midges, the cuticle between this segment
-  and the third forming an annular drum which is connected with numerous
+  and the third forming an [[Annular|annular]] drum which is connected with numerous
   nerve-endings, while the fine bristles on the more distal segments
   vibrate in response to the note produced by the humming of the female.
 
@@ -470,7 +470,7 @@ may pass to a more detailed account of their structure.
   FIG. 9.--Single Ommatidium of Cockroach's Eye (after Grenacher). B,
   Section through compound eye (after Miall and Denny); C, organs of
   smell in cockchafer (after Kraepelin); D, a, b, sensory pits on
-  cercopods of golden-eye fly; c, sensory pit on palp of stone-fly
+  cercopods of [[Golden-Eye|golden-eye]] fly; c, sensory pit on palp of stone-fly
   (after Packard); E, sensory hair (after Miall and Denny); F, ear of
   long-horned grasshopper; a, Front shin showing outer opening and
   air-tube; b, section (after Graber); G, ear of locust from within
@@ -514,7 +514,7 @@ may pass to a more detailed account of their structure.
   _Nepidae_, _Corixidae_ and _Hydrometridae_ have a pulsating sac at
   each knee-joint to assist the flow of blood through the legs, while in
   dragon-flies and locusts (_Acridiidae_) there is a ventral pulsating
-  diaphragm, which forms the roof of a sinus enclosing the nerve-cords.
+  [[Diaphragm|diaphragm]], which forms the roof of a sinus enclosing the nerve-cords.
 
   [Illustration: After Miall and Denny, _The Cockroach_, Lovell Reeve &
   Co.
@@ -552,7 +552,7 @@ may pass to a more detailed account of their structure.
   modifications are described in the special articles on the various
   orders of insects (COLEOPTERA, HEMIPTERA, &c.). Many insects have
   aquatic larvae, some of which take in atmospheric air at intervals,
-  while others breathe dissolved air by means of tracheal gills. These
+  while others breathe dissolved air by means of tracheal [[Gill|gills]]. These
   modifications are mentioned below in the section on metamorphosis.
 
   [Illustration: From Miall and Denny, _The Cockroach_, Lovell Reeve &
@@ -584,7 +584,7 @@ may pass to a more detailed account of their structure.
   On either side of the gullet are from one to ten pairs of salivary
   glands (fig. 12, s) whose ducts open into the mouth. Some of these
   glands may be modified for special purposes--as silk-producing glands
-  in caterpillars or as poison-glands in blood-sucking flies and bugs.
+  in [[Caterpillar|caterpillars]] or as poison-glands in blood-sucking flies and bugs.
   The food passing into the crop is there acted on by the saliva and
   also by an acid gastric juice which passes forwards from the stomach
   through the proventriculus. As the various portions of the food
@@ -607,7 +607,7 @@ may pass to a more detailed account of their structure.
   _Reproductive System._--All the Hexapoda are of separate sexes. The
   ovaries (fig. 13) in the female are paired, each ovary consisting of a
   variable number of tubes (one in the bristle-tail _Campodea_ and
-  fifteen hundred in a queen termite) in which the eggs are developed.
+  fifteen hundred in a queen termite) in which the [[Egg|eggs]] are developed.
   From each ovary an oviduct (fig. 13, od) leads, and in some of the
   more primitive insects (bristle-tails, earwigs, may-flies) the two
   oviducts open separately direct to the exterior. Usually they open
@@ -730,7 +730,7 @@ may pass to a more detailed account of their structure.
   chitin-lined fore-gut and hind-gut, which form the greater part of
   the digestive tract, arise from ectodermal invaginations (stomodaeum
   and proctodaeum respectively) at the positions of the future mouth and
-  anus. The origin of the mid-gut (mesenteron), that has no chitinous
+  [[Anu|anus]]. The origin of the mid-gut (mesenteron), that has no chitinous
   lining in the developed insect, is the disputed point. According to
   the classical researches of A. Kowalevsky (1871 and 1887) on the
   embryology of the water-beetle _Hydrophilus_ and of the muscid flies,
@@ -745,7 +745,7 @@ may pass to a more detailed account of their structure.
   endoderm-rudiment arises as Kowalevsky had observed, the posterior
   part of the "mid-gut" has its origin as a direct outgrowth from the
   proctodaeum. The recent researches of R. Heymons (1895) on the
-  Orthoptera, and of A. Lecaillon (1898) on various leaf beetles, tend
+  Orthoptera, and of A. Lecaillon (1898) on various [[Leaf|leaf]] beetles, tend
   to show that the whole of the "mid-gut" arises from the proliferation
   of cells at the extremity of the stomodaeum and of the proctodaeum. On
   this view the entire food-canal in most Hexapoda must be regarded as
@@ -763,7 +763,7 @@ may pass to a more detailed account of their structure.
   rudiment derived from the "endoblast," that many of the cells of these
   rudiments wander into the yolk, and that the mesenteric epithelium
   becomes reinforced by cells that migrate from the yolk. K. Escherich
-  (1901), after a new research on the embryology of the muscid Diptera,
+  (1901), after a new research on the embryology of the muscid [[Diptera]],
   claims that the fore and hind endodermal rudiments arise from the
   blastoderm by invagination, and are from their origin distinct from
   the mesoderm. On the whole it seems likely that the endoderm is
@@ -1052,7 +1052,7 @@ may pass to a more detailed account of their structure.
   some midges and in caddis-flies the serosa becomes ruptured and
   absorbed, while the germ band, still clothed with the amnion, grows
   around the yolk. In moths and certain saw-flies there is no rupture of
-  the membranes; the Russian zoologists Tichomirov and Kovalevsky have
+  the membranes; the Russian zoologists Tichomirov and [[Kovalevsky]] have
   described the growth of both amnion and embryonic ectoderm around the
   yolk, the embryo being thus completely enclosed until hatching time by
   both amnion and serosa. V. Graber has described a similar method of
@@ -1277,7 +1277,7 @@ brain.]
   observed before phagocytosis occurs. This process can therefore only
   be looked on as a secondary one that hastens and perfects the
   destruction necessary to permit of the accompanying histogenesis. This
-  view is confirmed by the fate of the phagocytic cells. These do not
+  view is confirmed by the [[Fate|fate]] of the phagocytic cells. These do not
   take a direct part in the formation of the new tissue, but it is
   believed merely yield their surplus acquisitions, becoming ordinary
   blood-cells or disappearing altogether. As to the nature of
@@ -1376,7 +1376,7 @@ shelter is assured and food abundant, while the short-lived, active
 condition enables the newly-hatched insect to make its way to the spot
 favourable for its future development, clinging, for example, in the
 case of an oil-beetle's larva, to the hairs of a bee as she flies
-towards her nest. The presence of the two successive larval forms in the
+towards her nest. The presence of the two successive [[Larval Forms|larval forms]] in the
 life-history constitutes what is called hypermetamorphosis. Most
 significant is the precedence of the eruciform by the campodeiform type.
 In conjunction with the association mentioned above of the most highly
@@ -1498,7 +1498,7 @@ tubular or leaf-like gills. Such are the grubs of stone-flies, may-flies
 (fig. 27) and some dragon-flies and midges. An interesting feature is
 the difference often to be observed between an aquatic larva and pupa of
 the same insect in the matter of breathing. The gnat larva, for example,
-breathes at the tail-end, hanging head-downwards from the surface-film.
+breathes at the tail-end, [[Hanging|hanging]] head-downwards from the surface-film.
 But the pupa hangs from the surface by means of paired respiratory
 trumpets on the prothorax, the dorsal thoracic surface, where the
 cuticle splits to allow the emergence of the fly, being thus directed
@@ -1571,7 +1571,7 @@ some species of insect appearing in vast numbers in a locality where it
 has not been seen for several years.
 
 
-CLASSIFICATION
+[[Classification|CLASSIFICATION]]
 
 _Number of Species._--It is now considered that 2,000,000 is a moderate
 estimate of the species of insects actually existing. Some authorities
@@ -1792,7 +1792,7 @@ Borner and Enderlein.
   Fore-wings uniform in texture. Young often larvae. Penultimate instar
   passive in some cases.
 
-  Includes the cicads, aphides and scale-insects (see HEMIPTERA).
+  Includes the cicads, [[Aphides|aphides]] and scale-insects (see HEMIPTERA).
 
     Order: _Anoplura_.
 
@@ -1801,7 +1801,7 @@ Borner and Enderlein.
   forms. Cerci absent. Four Malpighian tubes. Young resembling adults.
 
   Includes the family of the Lice (_Pediculidae_), often reckoned as
-  Hemiptera (q.v.). See also LOUSE.
+  Hemiptera (q.v.). See also [[Louse|LOUSE]].
 
     Sub-class: ENDOPTERYGOTA.
 
@@ -1970,10 +1970,10 @@ that can be unhesitatingly referred to existing orders. From the Trias
 of Colorado, Scudder has described cockroaches intermediate between
 their Carboniferous precursors and their present-day descendants, while
 the existence of endopterygotous Hexapods is shown by the remains of
-Coleoptera of several families. In the Jurassic rocks are found
+Coleoptera of several families. In the [[Jurassic]] rocks are found
 Ephemeroptera and Odonata, as well as Hemiptera, referable to existing
 families, some representatives of which had already appeared in the
-oldest of the Jurassic ages--the Lias. To the Lias also can be traced
+oldest of the Jurassic ages--the [[Lias]]. To the Lias also can be traced
 back the Neuroptera, the Trichoptera, the orthorrhaphous Diptera and,
 according to the determination of certain obscure fossils, also the
 Hymenoptera (ants). The Lithographic stone of Kimmeridgian age, at
@@ -1985,7 +1985,7 @@ preserved in the amber of the Baltic Oligocene have been described by G.
 L. Mayr and others, while Scudder has studied the rich Oligocene faunas
 of Colorado (Florissant) and Wyoming (Green River). The Oeningen beds of
 Baden, of Miocene age, have also yielded an extensive insect fauna,
-described fifty years ago by O. Heer. Further details of the geological
+described fifty years ago by O. [[Heer]]. Further details of the geological
 history of the Hexapoda will be found in the special articles on the
 various orders. Fragmentary as the records are, they show that the
 Exopterygota preceded the Endopterygota in the evolution of the class,
@@ -1998,7 +1998,7 @@ GEOGRAPHICAL DISTRIBUTION
 
 The class Hexapoda has a world-wide range, and so have most of its
 component orders. The Aptera have perhaps the most extensive
-distribution of all animals, being found in Franz Josef Land and South
+distribution of all animals, being found in [[Franz]] Josef Land and South
 Victoria Land, on the snows of Alpine glaciers, and in the depths of the
 most extensive caves. Most of the families and a large proportion of the
 genera of insects are exceedingly widespread, but a study of the genera
@@ -2101,7 +2101,7 @@ They are not, therefore, like the wings of birds, modified from some
 pre-existing structures (the fore-limbs) common to their phylum; they
 are new and peculiar structures. Comparison of the tracheated wings with
 the paired tracheated outgrowths on the abdominal segments of the
-aquatic campodeiform larva of may-flies (see fig. 27) led C. Gegenbaur
+aquatic campodeiform larva of may-flies (see fig. 27) led C. [[Gegenbaur]]
 to the brilliant suggestion that wings might be regarded as specialized
 and transformed gills. But a survey of the Hexapoda as a whole, and
 especially a comparative study of the tracheal system, can hardly leave
@@ -2128,7 +2128,7 @@ of the groups of existing Endopterygota have been traced with certainty
 farther back than the Mesozoic epoch, and all the numerous Palaeozoic
 insect-fossils seem to belong to forms that possessed only imperfect
 metamorphosis. The only doubt arises from the existence of insect
-remains, referred to the order Coleoptera, in the Silesian Culm of
+remains, referred to the order Coleoptera, in the Silesian [[Culm]] of
 Steinkunzendorf near Reichenbach. The oldest larva known, _Mormolucoides
 articulatus_, is from the New Red Sandstone of Connecticut; it belongs
 to the _Sialidae_, one of the lowest forms of Holometabola. It is now,
@@ -2160,7 +2160,7 @@ Endopterygota are not descended from Exopterygota, but were derived
 directly from ancestors that were never winged; (3) that the predominant
 division--i.e. Endopterygota--of insects of the present epoch are
 descended from the predominant--if not the sole--group that existed in
-the Palaeozoic epoch, viz. the Exopterygota. The first hypothesis is not
+the Palaeozoic epoch, viz. the Exopterygota. The first [[Hypothesis|hypothesis]] is not
 negatived by direct evidence, for we do not actually know the ontogeny
 of any of the Palaeozoic insects; it is, however, rendered highly
 improbable by the modern views as to the nature and origin of wings in
@@ -2186,7 +2186,7 @@ growth are directly opposed. The explanation has to be sought in another
 direction. Now there are many forms of Exopterygota in which the
 creatures are almost or quite destitute of wings. This phenomenon occurs
 among species found at high elevations, among others found in arid or
-desert regions, and in some cases in the female sex only, the male being
+[[Desert|desert]] regions, and in some cases in the female sex only, the male being
 winged and the female wingless. This last state is very frequent in
 _Blattidae_, which were amongst the most abundant of Palaeozoic insects.
 The wingless forms in question are always allied to winged forms, and
@@ -2259,7 +2259,7 @@ trunk-segments. Of such Arthropods the living Symphyla--of which the
 delicate little _Scutigerella_ is a fairly well-known example--give us
 some representation.
 
-No indications beyond those furnished by comparative anatomy help us to
+No indications beyond those furnished by [[Comparative Anatomy|comparative anatomy]] help us to
 unravel the phylogeny of the Collembola. In most respects, the shortened
 abdomen, for example, they are more specialized than the Thysanura, and
 most of the features in which they appear to be simple, such as the

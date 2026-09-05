@@ -7,7 +7,7 @@ type: source
 
 # Bigsby
 
-BIGSBY, JOHN JEREMIAH (1792-1881), English geologist and physician, the
+BIGSBY, JOHN [[Jeremiah|JEREMIAH]] (1792-1881), English geologist and physician, the
 son of Dr John Bigsby, was born at Nottingham on the 14th of August
 1792. Educated at Edinburgh, where he took the degree of M.D., he joined
 the army medical service and was stationed at the Cape of Good Hope in
@@ -18,11 +18,11 @@ he was appointed British secretary and medical officer to the Boundary
 Commission, and for several years he made extensive and important
 geological researches, contributing papers to the _American Journal of
 Science_ and other scientific journals; and later embodying an account
-of his travels in a book entitled _The Shoe and Canoe_ (1850). Returning
+of his travels in a book entitled _The Shoe and [[Canoe]]_ (1850). Returning
 to England in 1827 he practised medicine at Newark until 1846 when he
 removed to London, where he remained until the end of his life. He now
 took an active interest in the Geological Society of London, of which he
-had been elected a fellow in 1823. In 1869 he was elected a fellow of
+had been elected a [[Fellow|fellow]] in 1823. In 1869 he was elected a fellow of
 the Royal Society, and in 1874 he was awarded the Murchison medal by the
 council of the Geological Society. During the last twenty years of his
 long life he was continually at work preparing, after the most

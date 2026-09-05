@@ -4,16 +4,16 @@ CANARY ISLANDS (_Canarias_), a Spanish archipelago in the Atlantic
 Ocean; about 60 m. W. of the African coast, between 27 deg. 40' and 29
 deg. 30' N., and between 13 deg. 20' and 18 deg. 10' W. Pop. (1900)
 358,564; area 2807 sq. m. The Canary Islands resemble a roughly-drawn
-semicircle, with its convex side facing south-wards, and with the island
+semicircle, with its [[Convex|convex]] side facing south-wards, and with the island
 of Hierro detached on the south-west. More precisely, they may be
 considered as two groups, one of which, including Teneriffe, Grand
 Canary, Palma, Hierro and Gomera, consists of mountain peaks, isolated
 and rising directly from an ocean of great depth; while the other,
-comprising Lanzarote, Fuerteventura and six uninhabited islets, is based
+comprising Lanzarote, [[Fuerteventura]] and six uninhabited islets, is based
 on a single submarine plateau, of far less depth. Teneriffe and Gomera,
 the only members of the principal group which have a common base, may be
 regarded as the twin peaks of one great volcanic mass. Ever since the
-researches of Leopold von Buch the Canary Islands have been classical
+researches of Leopold von [[Buch]] the Canary Islands have been classical
 ground to the student of volcanic action. Buch considered them to be
 representative of his "craters of elevation." In common with the other
 West African islands they are of volcanic origin. The lavas consist
@@ -45,23 +45,23 @@ equable, the daily range seldom exceeding 6 deg. Fahr. At Santa Cruz the
 mean for the year is about 71 deg. The rainy season occurs at the same
 period as in southern Europe. The dry season is at the time of the
 trade-winds, which extend a few degrees farther north than this
-latitude.
+[[Latitude|latitude]].
 
 _Fauna_.--The indigenous mammals of the Canary Islands are very few in
 number. The dog, swine, goat and sheep were alone found upon the island
 by the Spanish conquerors: The race of large dogs which is supposed to
 have given a name to the islands has been long extinct. A single
 skeleton has been found, which is deposited in one of the museums at
-Paris. The ferret, rabbit, cat, rat, mouse and two kinds of bat have
+Paris. The [[Ferret|ferret]], rabbit, cat, rat, mouse and two kinds of bat have
 become naturalized. The ornithology is more interesting, on account at
 once of the birds native to the islands, and the stragglers from the
 African coast, which are chiefly brought over in winter, when the wind
 has blown for some time from the east. Among the indigenous birds are
 some birds of prey, as the African vulture, the falcon, the buzzard, the
 sparrow-hawk and the kite. There are also two species of owl, three
-species of sea-mew, the stockdove, quail, raven, magpie, chaffinch,
+species of sea-mew, the stockdove, quail, raven, [[Magpie|magpie]], chaffinch,
 goldfinch, blackcap, canary, titmouse, blackbird, house-swallow, &c. As
-to the insects, mention may be made of a species of gnat or mosquito
+to the [[Insect|insects]], mention may be made of a species of gnat or mosquito
 which is sometimes troublesome, especially to strangers. The list of
 reptiles is limited to three varieties of lizard and one species of
 frog. The only fresh-water fish is the eel. Marine fishes are not
@@ -79,7 +79,7 @@ the African region. The climate in the hottest parts is similar to that
 of Egypt. Here grow, among the introduced plants, the coffee tree, the
 date-palm, the sugar-cane, the banana, the orange tree, the American
 agave and two species of cactus; and among indigenous plants, the dragon
-tree on the north-west of Teneriffe. A leafless and fantastic euphorbia,
+tree on the north-west of Teneriffe. A leafless and fantastic [[Euphorbia|euphorbia]],
 _E. canariensis_, and a shrubby composite plant, _Cacalia kleinia_, give
 a character to the landscape about Santa Cruz. (2) Between 1300 ft. and
 2800 ft. This is the region of south European vegetation, the climate
@@ -131,12 +131,12 @@ _Government_.--The archipelago forms one Spanish province, of which the
 capital is Santa Cruz de Tenerife, the residence of the civil governor,
 who has under his command one of the two districts into which the
 archipelago is divided, this first district comprising Teneriffe, Palma,
-Gomera and Hierro. The other district includes Grand Canary, Lanzarote,
+Gomera and Hierro. The other district includes [[Grand Canary]], Lanzarote,
 Fuerteventura, and has at its head a sub-governor, residing in Las
 Palmas, on Grand Canary, who is independent of the governor except in
 regard to elections and municipal administration. The chief finance
 office is at Santa Cruz de Tenerife. The court of appeal, created in
-1526, is in Las Palmas. The captain-general and second commandant of the
+1526, is in [[Las Palmas]]. The captain-general and second commandant of the
 archipelago reside in Santa Cruz de Tenerife, and there is a
 brigadier-governor of Grand Canary, residing in Las Palmas, besides
 eight inferior military commandants. The province furnishes no men for
@@ -145,7 +145,7 @@ for the local territorial militia, composed of regiments of infantry,
 squadrons of mounted rifles and companies of garrison artillery--about
 5000 men all told. The archipelago is divided into two naval districts,
 commanded by royal navy captains. Roman Catholicism is the official
-religion, and ecclesiastical law is the same as in other Spanish
+religion, and [[Ecclesiastical Law|ecclesiastical law]] is the same as in other Spanish
 provinces. The convents have been suppressed, and in many cases
 converted to secular uses. Laguna and Las Palmas are episcopal sees, in
 the archbishopric of Seville.
@@ -157,7 +157,7 @@ an extraordinarily high price. In the _Terrenos de secano_, or
 non-irrigable districts, the average price of an acre ranges from L7 to
 L17; in the _Terrenes de riego_, or irrigable land, it ranges from L100
 to L250. Until 1853 wine was the staple product, and although even the
-finest brand (known as _Vidonia_) never equalled the best Madeira
+finest [[Brand|brand]] (known as _Vidonia_) never equalled the best Madeira
 vintages, it was largely consumed abroad, especially in England. The
 annual value of the wine exported often exceeded L500,000. In 1853,
 however, the grape disease attacked the vineyards; and thenceforward the
@@ -179,10 +179,10 @@ operates along some 600 m. of the African coast, between Cape Cantin and
 the Arguin Bank. Shipbuilding is carried on at Las Palmas; and the minor
 industries include the manufacture of cloth, drawn-linen (_calado_)
 work, silk, baskets, hats, &c. A group of Indian merchants, who employ
-coolie labour, produce silken, jute and cotton goods, Oriental
+[[Coolie|coolie]] labour, produce silken, jute and cotton goods, Oriental
 embroideries, wrought silver, brass-ware, porcelain, carved sandal-wood,
 &c. The United Kingdom heads the import trade in coal, textiles,
-hardware, iron, soap, candles and colonial products. Timber comes
+hardware, iron, soap, [[Candle|candles]] and colonial products. Timber comes
 chiefly from North America and Scandinavia, alcohol from Cuba and the
 United States, wheat and flour from various British possessions, maize
 from Morocco and Argentina. Large quantities of miscellaneous imports
@@ -201,7 +201,7 @@ to a protest by the inhabitants, its operation was postponed.
 
 _History_.--There is ground for supposing that the Phoenicians were not
 ignorant of the Canaries. The Romans learned of their existence through
-Juba, king of Mauretania, whose account of an expedition to the islands,
+[[Juba]], king of Mauretania, whose account of an expedition to the islands,
 made about 40 B.C., was preserved by the elder Pliny. He mentions
 "Canaria, so called from the multitude of dogs of great size," and
 "Nivaria, taking its name from perpetual snow, and covered with clouds,"
@@ -215,7 +215,7 @@ gale. A Portuguese expedition, undertaken about the same time, failed to
 find the archipelago, and want of means frustrated the project of
 conquest entertained by a grandson of Alphonso X. of Castile, named Juan
 de la Cerda, who had obtained a grant of the islands and had been
-crowned king of them at Avignon, by Pope Clement VI. Two or possibly
+crowned king of them at [[Avignon]], by Pope Clement VI. Two or possibly
 more Spanish expeditions followed, and a monastic mission was
 established, but at the close of the 14th century the Guanches remained
 unconquered and unconverted. In 1402, however, Gadifer de la Salle and
@@ -234,11 +234,11 @@ left the Canaries, entrusting their government to his nephew Maciot de
 Bethencourt, and reserving for himself a share in any profits obtained,
 and the royal title. Eight years of misrule followed before Queen
 Catherine of Castile intervened. Maciot thereupon sold his office to her
-envoy, Pedro Barba de Campos; sailed to Lisbon and resold it to Prince
+envoy, Pedro Barba de Campos; sailed to [[Lisbon]] and resold it to Prince
 Henry the Navigator; and a few years afterwards resold it once more to
 Enrique de Guzman, count of Niebla. Jean de Bethencourt, who died in
 1422, bequeathed the islands to his brother Reynaud; Guzman sold them to
-another Spaniard named Paraza, who was forced to re-sell to Ferdinand
+another Spaniard named Paraza, who was forced to re-sell to [[Ferdinand]]
 and Isabella of Castile in 1476; and Prince Henry twice endeavoured to
 enforce his own claims. Meanwhile the Guanches remained unconquered
 throughout the greater part of the archipelago. In 1479 the sovereignty
@@ -261,7 +261,7 @@ by Spanish troops.
   and illustrations); _De la Tierra Canaria_, by L. and A. Millares
   Cubas (Madrid, 1894); and _Physikalische Beschreibung der kanarischen
   Inseln_, by L. von Buch (Berlin, 1825). Besides the interesting folio
-  atlas of von Buch (Paris, 1836), good modern maps have been published
+  [[Atlas|atlas]] of von Buch (Paris, 1836), good modern maps have been published
   by E. Stanford (London, 1891, 12-1/2 English m. to 1 in.), and M.
   Perez y Rodriquez (Madrid, 1896-1898, 4 sheets). See also _Histoire
   naturelle des iles Canaries_, by P. Barker-Webb and S. Berthelot

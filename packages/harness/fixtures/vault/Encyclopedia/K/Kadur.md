@@ -5,7 +5,7 @@ KADUR, a district of Mysore state, in southern India, with an area of
 decade. The larger portion of the district consists of the Malnad or
 hill country, which contains some of the wildest mountain scenery in
 southern India. The western frontier is formed by the chain of the
-Ghats, of which the highest peaks are the Kudremukh (6215 ft.) and the
+[[Ghats]], of which the highest peaks are the Kudremukh (6215 ft.) and the
 Meniti Gudda (5451 ft.). The centre is occupied by the horse-shoe range
 of the Baba Budans, containing the loftiest mountain in Mysore,
 Mulaingiri (6317 ft.). The Maidan or plain country lying beneath the
@@ -20,13 +20,13 @@ into irrigation channels by means of anicuts or weirs. The chief natural
 wealth of Kadur is in its forests, which contain inexhaustible supplies
 of the finest timber, especially teak, and also furnish shelter for the
 coffee plantations. Iron is found and smelted at the foot of the hills,
-and corundum exists in certain localities. Wild beasts and game are
+and [[Corundum|corundum]] exists in certain localities. Wild beasts and [[Game|game]] are
 numerous, and fish are abundant.
 
 The largest town is Tarikere (pop. 10,164); the headquarters are at
 Chikmagalur (9515): The staple crop is rice, chiefly grown on the hill
 slopes, where the natural rainfall is sufficient, or in the river
-valley, where the fields can be irrigated. Coffee cultivation is said to
+valley, where the [[Fields|fields]] can be irrigated. Coffee cultivation is said to
 have been introduced by a Mahommedan saint, Baba Budan, more than two
 centuries ago; but it first attracted European capital in 1840. The
 district is served by the Southern Mahratta railway.

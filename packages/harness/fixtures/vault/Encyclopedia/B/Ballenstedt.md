@@ -9,9 +9,9 @@ tags: [philosophy, science]
 
 BALLENSTEDT, a town of Germany, in the duchy of Anhalt, on the river Getel,
 20 m. E. of Quedlinburg by rail. Pop. (1900) 5423. It is pleasantly
-situated under the north-eastern declivity of the Harz mountains. The
+situated under the north-eastern declivity of the [[Harz Mountains|Harz mountains]]. The
 inhabitants are mostly engaged in agriculture and there is practically no
-other industry. The palace of the dukes of Anhalt, standing on an eminence,
+other industry. The palace of the [[Dukes|dukes]] of Anhalt, standing on an [[Eminence|eminence]],
 contains a library and collections of various kinds, including a good
 picture gallery. It is approached by a fine avenue of trees and is
 surrounded by a well-wooded park. In the Schlosskirche the grave of Albert

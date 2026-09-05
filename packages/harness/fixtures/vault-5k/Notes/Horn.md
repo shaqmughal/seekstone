@@ -40,12 +40,12 @@ slide and the mouthpiece.
 
   (b) The _crooks_ (Fr. _corps_ or _tons de rechange_; Ger.
   _Krummbogen_, _Stimmbogen_, _Einsetzbogen_) are interchangeable,
-  spiral tubes, tapering to a diameter of a quarter of an inch at the
+  spiral tubes, tapering to a diameter of a quarter of an [[Inch|inch]] at the
   mouthpiece end and varying in length from 16 in. for the B[flat] alto
   crook to 125 in. for the B[flat] basso. Each crook is named according
   to the fundamental tone which it produces on being added to the body.
   By lengthening the tube at will the crook lowers the pitch of the
-  instrument, and consequently changes the key in which it stands.
+  instrument, and consequently changes the [[Key|key]] in which it stands.
   Although the harmonic series remains the same for all the crooks, the
   actual sounds produced by overblowing are lower, the tube being
   longer, and they now belong to the key of the crook. The principle of
@@ -70,7 +70,7 @@ slide and the mouthpiece.
   and complex instrument, the proportions of the mouthpiece must bear a
   certain undefined relation to the length and diameter of the column of
   air. The choice of a suitable mouthpiece is in fact a test of skill;
-  the shape of the lip of the performer and the more special use he may
+  the shape of the [[Lip|lip]] of the performer and the more special use he may
   wish to make of either the higher or the lower harmonics have to be
   taken into consideration. In orchestral music the part for first horns
   naturally calls for the use of the higher harmonics, which are more
@@ -134,7 +134,7 @@ as an open pipe, and gives the consecutive scale of harmonics.[8]
   In order to produce sound from the horn, the performer, stretching his
   lips across the funnel-shaped mouthpiece from rim to rim, blows into
   the cavity. The lips, vibrating as the breath passes through the
-  aperture between them, communicate pulsations or series of
+  [[Aperture|aperture]] between them, communicate pulsations or series of
   intermittent shocks to the thin stream of air, known as the exciting
   current, which, issuing from them, strikes the column of air in the
   tube, already in a state of stationary vibration.[9] The effect of
@@ -147,7 +147,7 @@ as an open pipe, and gives the consecutive scale of harmonics.[8]
   open pipe, the wave-length is theoretically equal to the length of the
   tube. The pitch of the note depends on the frequency per second with
   which each vibration or complete sound-wave reaches the drum of the
-  ear. The longer the wave the lower the frequency. The velocity of the
+  [[Ear|ear]]. The longer the wave the lower the frequency. The velocity of the
   wave is independent of its length, being solely conditioned by the
   rate of vibration of the particles composing the conveying medium:
   while one individual particle performs one complete vibration, the
@@ -353,7 +353,7 @@ as an open pipe, and gives the consecutive scale of harmonics.[8]
 
   The form of the mouthpiece (q.v.) at the point where it joins the main
   bore of the tube must also exercise a certain influence on the form of
-  vibration, which it helps to modify in conjunction with the
+  vibration, which it [[Helps|helps]] to modify in conjunction with the
   conformation of each individual horn-player's lip. In the horn the cup
   of the mouthpiece is shaped like a funnel, the bore converging
   insensibly into the narrow end of the main conical bore without break
@@ -389,12 +389,12 @@ French horn but to the bugle and tuba.
   Before civilization had dawned in classic Greece, Egypt, Assyria and
   the Semitic races were using wind instruments of wood and metal which
   had left the primitive ram or bugle horn far behind. Even in northern
-  Europe, during the Bronze age (c. 1000 B.C.), prehistoric man had
+  Europe, during the [[Bronze Age|Bronze age]] (c. 1000 B.C.), prehistoric man had
   evolved for himself the prototype of the Roman _cornu_, a bronze horn
   of wide conical bore, bent in the shape of a G. One of these
   instruments, known among the modern Scandinavian races as _luurs_ or
   _lurs_, found in the peat beds of Denmark and now preserved in the
-  Museum of Northern Antiquities in Copenhagen, has a length of 1.91 m.
+  Museum of Northern Antiquities in [[Copenhagen]], has a length of 1.91 m.
   (about 6 ft. 4 in.). The U-shaped mouthpiece joint is neatly joined to
   the remainder of the crescent-tube by means of a bronze ring; the
   bell, which must have rested on the shoulder, consists merely of a
@@ -409,7 +409,7 @@ French horn but to the bugle and tuba.
 
   Among the Romans the wind instruments derived from the horn were well
   represented, and included well-developed types which do not differ
-  materially from the natural instruments of modern times. The buccina
+  materially from the natural instruments of modern times. The [[Buccina|buccina]]
   developed directly into the trumpet and trombone during the middle
   ages, losing no characteristic of importance but the bent form, which
   was perforce abandoned when the art of bending hollow tubes was lost
@@ -426,11 +426,11 @@ French horn but to the bugle and tuba.
   and more sonorous tone, for, owing to the wider calibre of the bore,
   the fundamental was easily reached. In the reliefs on Trajan's Column,
   where the two instruments may be compared, the wider curve of the
-  buccina forms a ready means of identification. In addition to these
+  buccina forms a ready means of [[Identification|identification]]. In addition to these
   was (4) the small instrument like the medieval hunting-horn or
   post-horn, with the single spiral turn similar to one which figures as
   service badge in many British infantry regiments,[21] such as the
-  first battalion of the King's Own Light Infantry. A terra-cotta model,
+  first [[Battalion|battalion]] of the King's Own Light Infantry. A terra-cotta model,
   slightly broken, but with the spiral intact, was excavated at Ventoux
   in France and is at present preserved in the department of Greek and
   Roman antiquities at the British Museum, having been acquired from the
@@ -445,7 +445,7 @@ French horn but to the bugle and tuba.
   fanfares, and therefore, in spite of the high degree of perfection to
   which they attained as instruments, they scarcely possess any claim to
   be considered within the domain of music. They were signalling
-  instruments, mainly used in war, in hunting and in state or civic
+  instruments, mainly used in war, in [[Hunting|hunting]] and in state or civic
   ceremonial. Vegetius (A.D. 386) describes these instruments, and gives
   detailed instructions for the special traditional uses of tuba,
   buccina and cornu in the military camp: "Semivocalia sunt, quae per
@@ -468,7 +468,7 @@ French horn but to the bugle and tuba.
   cup-shaped form in use on the trumpet, the trombone, the tubas,
   &c.[25] It would seem that even the short horn in the 4th century was
   provided with a mouthpiece,[26] judging from a carved specimen on an
-  ivory _capsa_ or _pyxis_ dating from the period immediately preceding
+  [[Ivory|ivory]] _capsa_ or _pyxis_ dating from the period immediately preceding
   the fall of the Roman Empire, preserved among the precious relics at
   Xanten.
 
@@ -478,7 +478,7 @@ French horn but to the bugle and tuba.
   FIG. 1.--Roman Cornu and Buccina.]
 
   After the fall of the Roman Empire, when instrumental music had fallen
-  into disrepute and had been placed under a ban by the church, the art
+  into disrepute and had been placed under a [[Ban|ban]] by the church, the art
   of playing upon such highly-developed instruments gradually died out
   in western Europe. With the disappearance of the civilization and
   culture of the Romans, the skilled crafts also gradually vanished, and
@@ -531,7 +531,7 @@ French horn but to the bugle and tuba.
   a 14th-century French MS. treatise on venery.[29] Only one note is
   indicated, the various calls and signals being based chiefly on
   rhythm, and the notes being left to the taste and skill of the
-  huntsman. The interpretation[30] of the _Cornure de chasse de veue_
+  [[Huntsman|huntsman]]. The interpretation[30] of the _Cornure de chasse de veue_
   seen in the figure is as follows:
 
     First line = [music notes]
@@ -555,7 +555,7 @@ French horn but to the bugle and tuba.
   chasse de veue_ given above.
 
   [Illustration: From Turbevile's _Noble Art of Venerie_ (1576), by
-  permission of the Clarendon Press.
+  permission of the [[Clarendon]] Press.
 
   FIG. 3.--Hunting Call.]
 
@@ -569,7 +569,7 @@ French horn but to the bugle and tuba.
   across the body with the bell already slightly parabolic, at arm's
   length to the left side.
 
-  The hunting- and post-horns were favourite emblems on medieval coats
+  The hunting- and post-horns were favourite [[Emblem|emblems]] on medieval coats
   of arms, more especially in Germany[33] and Bohemia.
 
   It is necessary at this point to draw attention to the fact that the
@@ -592,13 +592,13 @@ French horn but to the bugle and tuba.
   was in use from the 14th century. A wooden bas-relief on the under
   part of the seats of the choir of Worcester cathedral,[35] said to
   date from the 14th century, shows a musician in a robe with long
-  sleeves of fur playing the horn (fig. 4). The tube winds from the
+  sleeves of [[Fur|fur]] playing the horn (fig. 4). The tube winds from the
   mouth in a circle reaching to his waist, passes under the right arm
   across the shoulders with the bell stretching out horizontally over
   his left shoulder. The tube, of strictly conical bore, is made in
-  three pieces, the joints being strengthened by means of two rings. The
+  three pieces, the [[Joints|joints]] being strengthened by means of two rings. The
   other example is German, and figures in the arms of the city of
-  Frankfort-on-Main.[36] Here in the two opposite corners are two
+  [[Frankfort-On-Main|Frankfort-on-Main]].[36] Here in the two opposite corners are two
   cherubs playing immense cornua. The bore of the instruments (fig. 5)
   is of a calibre suggestive of the contrabass tuba; the circle formed
   is of a diameter sufficiently large to accommodate the youthful
@@ -632,15 +632,15 @@ French horn but to the bugle and tuba.
   rendered it unavailable for use in the hunting-field, but the
   snake-shaped model, as Praetorius describes it, was a decided
   improvement on the horn, although inferior in resonance to the cavalry
-  model. Here then are the materials for the fusion of the trumpet and
+  model. Here then are the materials for the [[Fusion|fusion]] of the trumpet and
   hunting-horn into the natural or hand-horn of the 17th and 18th
   centuries. There is evidence, however, that a century earlier, i.e. at
   the end of the 15th century, the art of bending a brass tube of the
   delicate proportions of the French horn, which is still a test of fine
   workmanship, had been successfully practised. In an illustrated
   edition of Virgil's works published in Strassburg in 1502 and
-  emanating from Gruninger's office, Brant being responsible for the
-  illustrations, the lines (_Aen._ viii. 1-2) "Ut belli signum Laurenti
+  emanating from Gruninger's office, [[Brant]] being responsible for the
+  illustrations, the lines (_Aen._ viii. 1-2) "Ut [[Belli|belli]] signum Laurenti
   Turnus ab arce Extulit: et rauco strepuerunt cornua cantu" are
   illustrated by two soldiers, one with the sackbut (posaune, the
   descendant of the buccina), the other with a horn wound spirally round
@@ -674,7 +674,7 @@ French horn but to the bugle and tuba.
   inventa ars quum delectatus suavitate cantus duos ex hominibus sibi
   obnoxiis ea instituendos curavit. Id principium apud nos artis, qua
   hodie Bohemi excellere putantur." In a preceding passage after the
-  count's name, Franz Anton, Graf von Sporken, are the words "anno
+  count's name, [[Franz]] Anton, Graf von Sporken, are the words "anno
   saeculi superioris octogesimo quum iter in externas provincias
   suscepisset," &c. There is no reference here to the invention of the
   horn in Paris or to the folding of the tube spirally, but only to the
@@ -682,7 +682,7 @@ French horn but to the bugle and tuba.
   accustomed to the medieval hunting fanfares in which the tone of the
   horn approximated to the blare of the trumpet, was merely struck by
   the musical quality of the true horn tone elicited in Paris, and gave
-  France the credit of the so-called invention, which probably more
+  France the [[Credit|credit]] of the so-called invention, which probably more
   properly belonged to Italy. The account published by Prochaska a
   hundred years after, without reference to the source from which it was
   obtained, finds no corroboration from French sources. Had the French
@@ -711,7 +711,7 @@ French horn but to the bugle and tuba.
   back to 1169, there is a hunting-horn coiled round in a complete
   circle is also misleading. The horn (a post-horn) did not appear in
   the arms of the family in question until 1699, when the first peer
-  Casimir Johann Friedrich was created hereditary Post-Master. The
+  Casimir Johann [[Friedrich]] was created hereditary Post-Master. The
   influence of such erroneous statements in the work of noted writers is
   far-reaching. Inquiries at the department of National Archives in
   Paris concerning Raoux, the founder of the afterwards famous firm of
@@ -722,7 +722,7 @@ French horn but to the bugle and tuba.
   Place du Louvre" dated 1695. The inscriptions on the horns in question
   are: For No. 105, a silver horn of the simplest form of construction
   in D, "Fait a Paris par Raoux"; for No. 106, a brass horn engraved
-  with a crown on an ermine mantle with the initials C. A. (Carl
+  with a crown on an ermine mantle with the [[Initials|initials]] C. A. (Carl
   Albert), "Fait a Paris par Raoux, seul ordinaire du Roy, Place du
   Louvre." Both horns measure across the coils 56 cm. and across the
   bell 27(1/2). They are practically the same as the _cors de chasse_
@@ -731,7 +731,7 @@ French horn but to the bugle and tuba.
   orchestral horn was given a narrower diameter in order to facilitate
   its being held in front of the performer in a convenient position for
   stopping the bell with the right hand. No. 107 in the same collection,
-  a horn of German construction, bears the inscription "Macht Jacob
+  a horn of German construction, bears the inscription "Macht [[Jacob]]
   Schmid in Nurnberg" and the trademark "J. S." with a bird. A horn in
   E[flat]] of French make, having fleur-de-lys stamped on the rim of the
   bell, and measuring only 15 in. across the coils to the exterior edge
@@ -754,7 +754,7 @@ French horn but to the bugle and tuba.
 
   The horn must have been well known at this time in England, for there
   are 17th-century horns of English manufacture still extant, one, for
-  instance, in the collection of the Rev. F. W. Galpin by William Bull,
+  instance, in the collection of the Rev. F. W. Galpin by William [[Bull]],
   dated 1699.[52] In 1701 Clagget[53] invented a contrivance by means of
   which two horns in different keys could be coupled and played by means
   of one mouthpiece, a valve or key opening the passage into the airways
@@ -795,7 +795,7 @@ French horn but to the bugle and tuba.
 
   In the same opera, act i. sc. 4, "Coro di Cavalieri" is a stirring
   call to arms of elemental grandeur, in which occur the words: "all'
-  armi, o la guerrieri corni e tamburi e trombe, ogni campo ogni canto,
+  armi, o la guerrieri corni e tamburi e trombe, ogni campo ogni [[Canto|canto]],
   armi rimbombe." There are above the voice parts four staves with
   treble and C clef signatures above the bass, and, although no
   instruments are indicated, the music written thereon, which alternates
@@ -815,7 +815,7 @@ French horn but to the bugle and tuba.
   Moliere's divertissement, "Les plaisirs de l'ile enchantee," written
   for a great festival at Versailles on the 7th of May 1664. A copy of
   the music for this ballet, made about 1680, is preserved in the
-  library of the Fitzwilliam Museum, Cambridge. The music contains a
+  library of the [[Fitzwilliam]] Museum, Cambridge. The music contains a
   piece entitled "Les violons et les cors de chasse," written in the
   same style as Cavalli's scena; there are but two staves, and on both
   the music is characteristic of the horn, with which the violins would
@@ -866,7 +866,7 @@ French horn but to the bugle and tuba.
   until much later in 1735 in Andre Campra's _Achille et Deidamie_, and
   then only in a fanfare. In the meantime the horn had already won a
   place in most of the rising opera houses and ducal orchestras[59] of
-  Germany, and had been introduced by Handel into the orchestra in
+  Germany, and had been introduced by [[Handel]] into the orchestra in
   London in his _Water-music_ composed in honour of George I.
 
   Although the Italians were undoubtedly the first to introduce the horn
@@ -894,7 +894,7 @@ French horn but to the bugle and tuba.
   fullen besser aus als die ubertaubende und schreyende Clarinen, weil
   sie um eine ganze quinte tiefer stehen."
 
-  Lotti in his _Giove in Argo_, given in Dresden, 1717, scored for two
+  Lotti in his _Giove in Argo_, given in [[Dresden]], 1717, scored for two
   horns in C, writing for them soli in the aria for tenor[61] (act iii.
   sc. 1). Examples of C. H. Graun's[62] scoring for horns in F and G
   respectively in _Polydorus_ (1708-1729) and in _Iphigenia_ (1731) show
@@ -1015,7 +1015,7 @@ French horn but to the bugle and tuba.
   not prove conclusively that they were intended to be played on
   hand-stopped horns, with the exception, perhaps, of the A, 13th
   harmonic from C, which could not easily be obtained except by
-  hand-stopping on the hand-horn. On the blank sheet preceding the
+  hand-stopping on the hand-horn. On the [[Blank|blank]] sheet preceding the
   exercises is an inscription in the hand of Moritz Furstenau, former
   custodian of the Royal Private Musical Collection (incorporated with
   the public library in 1896): "Anton Joseph Hampel, by whom these
@@ -1106,7 +1106,7 @@ French horn but to the bugle and tuba.
   [Illustration: Music notes.]
 
   In 1812 Dikhuth,[82] horn-player in the orchestra of the grand-duke of
-  Baden at Mannheim, constructed a horn in which a slide on the
+  Baden at [[Mannheim]], constructed a horn in which a slide on the
   principle of that of the trombone was intended to replace
   hand-stopping and to lower the pitch at will a semitone.
 
@@ -1138,7 +1138,7 @@ FOOTNOTES:
     310, where diagrams of the mouthpieces are given.
 
   [3] See Joseph Frohlich, _Vollstandige theoretisch-praktische
-    Musikschule_ (Bonn, 1811), iii. 7, where diagrams of the two
+    Musikschule_ ([[Bonn]], 1811), iii. 7, where diagrams of the two
     mouthpieces for first and second horn are given.
 
   [4] See Gottfried Weber, "Zur Akustik der Blasinstrumente," in
@@ -1225,7 +1225,7 @@ FOOTNOTES:
     1888), pp. 402, &c.
 
   [22] _De re militari_, iii. 5 (Basel, 1532). The successive editions
-    and translations of this classic, both manuscript and printed,
+    and translations of this classic, both [[Manuscript|manuscript]] and printed,
     throughout the middle ages afford useful evidence of the evolution of
     these three wind instruments.
 
@@ -1243,7 +1243,7 @@ FOOTNOTES:
     the conservatoires of Paris and Brussels and the Collection Kraus in
     Florence possess facsimiles of these instruments; see Victor
     Mahillon, _Catalogue_, vol. ii. p. 30. Cf. also the pair of bronze
-    Etruscan cornua, No. 2734 in the department of Creek and Roman
+    Etruscan cornua, No. 2734 in the department of [[Creek]] and Roman
     antiquities at the British Museum, which possess well-preserved
     cup-shaped mouthpieces.
 
@@ -1269,7 +1269,7 @@ FOOTNOTES:
   [31] See Turbevile, _op. cit._, also J. du Fouilloux, _La Venerie_
     (Paris, 1628), p. 70; cf. also editions of 1650 and of 1562, where
     the horn is called _trompe_, used with the verb _corner_; Juliana
-    Bernes, _Boke of St Albans_ (1496), the frontispiece of which is a
+    [[Bern|Bernes]], _Boke of St Albans_ (1496), the frontispiece of which is a
     hunting scene showing a horn of very wide bore, without bell. Only
     half the instrument is visible.
 
@@ -1281,7 +1281,7 @@ FOOTNOTES:
   [33] See Jost Amman, _Wappen und Stammbuch_ (1589). A reprint in
     facsimile has been published by Georg Hirth as vol. iii. of
     _Liebhaber Bibliothek_ (Munich, 1881). See arms of Sultzberger aus
-    Tirol (p. 52), "Ein Jagerhornlin," and of the Herzog von Wirtenberg;
+    Tirol (p. 52), "Ein Jagerhornlin," and of the [[Herzog]] von Wirtenberg;
     cf. the latter with the arms of Wurthemberch in pl. xxii. vol. ii. of
     Gelre's _Wappenboek ou armorial de 1334 a 1372_ (miniatures of coats
     of arms in facsimile), edited by Victor Bouton (Paris, 1883).
@@ -1292,7 +1292,7 @@ FOOTNOTES:
     century, and Cotton MS., Nero, D. IV., 8th century; also Edward
     Buhle, _op. cit._, pl. ii. and pp. 12-24.
 
-  [35] See John Carter, _Specimens of Ancient Sculpture and Paintings_
+  [35] See John [[Carter]], _Specimens of Ancient Sculpture and Paintings_
     (London, 1780-1794), i. p. 53 (plates unnumbered); also reproduced in
     H. Lavoix, _Histoire de la musique_ (Paris, 1884).
 
@@ -1315,7 +1315,7 @@ FOOTNOTES:
   [42] See Ernest Thoinan, _Les Origines de la chapelle musique des
     souverains de France_ (Paris, 1864); F. J. Fetis, "Recherches sur la
     musique des rois de France, et de quelques princes depuis Philippe le
-    Bel jusqu'a la fin du regne de Louis XIV.," _Revue musicale_ (Paris,
+    [[Bel]] jusqu'a la fin du regne de Louis XIV.," _Revue musicale_ (Paris,
     1832), xii. pp. 193, 217, 233, 241, 257; Castil-Blaze, _La Chapelle
     musique des rois de France_ (Paris, 1882); Michel Brenet, "Deux
     comptes de la chapelle musique des rois de France," _Intern. Mus.
@@ -1328,7 +1328,7 @@ FOOTNOTES:
   [44] See _Die Sammlung der Musikinstrumente des baierischen Nat.
     Museum_ by K. A. Bierdimpfl (Munich, 1883), Nos. 105 and 106.
 
-  [45] Communication from Dr Georg Hagen, assistant director.
+  [45] Communication from Dr Georg [[Hagen]], assistant director.
 
   [46] See Musee du Conservatoire National de Musique. _Catalogue des
     instruments de musique_ (Paris, 1884), p. 147.
@@ -1358,7 +1358,7 @@ FOOTNOTES:
   [54] See, for instance, frontispiece of Walther's _Musikalisches
     Lexikon_ (Leipzig, 1732); J. F. B. C. Majer's _Musik-Saal_
     (Nuremberg, 1741, 2nd ed.), p. 54; Joh. Christ. Kolb, _Pinacotheca
-    Davidica_ (Augsburg, 1711); Ps. xci.; "Componimenti Musicali per il
+    Davidica_ ([[Augsburg]], 1711); Ps. xci.; "Componimenti Musicali per il
     cembalo Dr Theofilo Muffat, organista di sua Sacra Maesta Carlo VI.
     Imp." (1690), title-page in _Denkmaler d. Tonkunst in Oesterreich_,
     Bd. iii.
@@ -1374,7 +1374,7 @@ FOOTNOTES:
     primitive animal horn. He mentions nevertheless that they were not
     only used for signals and fanfares but also for little concerted
     pieces in four parts for horns alone, or with oboes, at the
-    conclusion of the hunt.
+    conclusion of the [[Hunt|hunt]].
 
   [58] See William Tans'ur Senior, _The Elements of Musick_ (London,
     1772); Br. V. Dictionary under "Horn." Also Scale of Horn in the hand
@@ -1382,7 +1382,7 @@ FOOTNOTES:
 
   [59] A horn-player, Johann Theodor Zeddelmayer, was engaged in 1706
     at the Saxon court at Weissenfels; see _Neue-Mitteilungen aus dem
-    Gebiete histor. antiqu. Forschungen_, Bd. xv. (2) (Halle, 1882), p.
+    Gebiete histor. antiqu. Forschungen_, Bd. xv. (2) ([[Halle]], 1882), p.
     503; also Wilhelm Kleefeld, "Das Orchester der Hamburger Oper,
     1678-1738," _Intern. Mus. Ges._, Smbd. i. 2, p. 280, where the
     appearance of the horn in the orchestras of Germany is traced.

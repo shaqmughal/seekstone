@@ -23,7 +23,7 @@ his painting for several years. But he was constantly meditating on the
 political state of Italy. In 1830 he returned to Turin, and after his
 father's death in 1831 removed to Milan. There he remained for twelve
 years, moving in the literary and artistic circles of the city. He became
-the intimate of Alessandro Manzoni the novelist, whose daughter he married;
+the intimate of Alessandro [[Manzoni]] the novelist, whose daughter he married;
 thenceforth literature became his chief occupation instead of art, and he
 produced two historical novels, _Niccolò dei Lapi_ and _Ettore Fieramosca_,
 in imitation of Manzoni, and with pronounced political tendencies, his
@@ -33,7 +33,7 @@ political envoy, to report on its conditions and the troubles which he
 foresaw would break out on the death of Pope Gregory XVI. The following
 year he published his famous pamphlet _Degli ultimi casi di Romagna_ at
 Florence, in consequence of which he was expelled from Tuscany. He spent
-the next few months in Rome, sharing the general enthusiasm over the
+the next few months in Rome, sharing the general [[Enthusiasm|enthusiasm]] over the
 supposed liberalism of the new pope, Pius IX.; like V. Gioberti and Balbo
 he believed in an Italian confederation under papal auspices, and was
 opposed to the Radical wing of the Liberal party. His political activity
@@ -50,7 +50,7 @@ realizing how impossible it was to renew the campaign, and "not having the
 heart to sign, in such wretched internal and external conditions, a treaty
 of peace with Austria" (_Correspondance politique_, by E. Rendu), he
 refused. After the defeat of Novara (23rd of March 1849), Charles Albert
-abdicated and was succeeded by Victor Emmanuel II. D'Azeglio was again
+abdicated and was succeeded by Victor [[Emmanuel]] II. D'Azeglio was again
 called on to form a cabinet, and this time, although the situation was even
 more difficult, he accepted, concluded a treaty of peace, dissolved the
 Chamber, and summoned a new one to ratify it. The treaty was accepted, and
@@ -97,7 +97,7 @@ The death of his two brothers in 1862 and of Cavour in 1861 caused Massimo
 great grief, and he subsequently led a comparatively retired life. But he
 took part in politics, both as a deputy and a writer, his two chief
 subjects of interest being the Roman question and the relations of Piedmont
-(now the kingdom of Italy) with Mazzini and the other revolutionists. In
+(now the kingdom of Italy) with [[Mazzini]] and the other revolutionists. In
 his opinion Italy must be unified by means of the Franco-Piedmontese army
 alone, all connexion with the conspirators being eschewed, while the pope
 should enjoy nominal sovereignty over Rome, with full spiritual
@@ -106,7 +106,7 @@ Romans being Italian citizens (see his letters to E. Rendu and his pamphlet
 _Le questioni urgenti_). He strongly disapproved of the convention of 1864
 between the Italian government and the pope. The last few years of
 d'Azeglio's life were spent chiefly at his villa of Cannero, where he set
-to work to write his own memoirs. He died of fever on the 15th of January
+to work to write his own memoirs. He died of [[Fever|fever]] on the 15th of January
 1866.
 
 Massimo d'Azeglio was a very attractive personality, as well as an
@@ -132,7 +132,7 @@ AZERB[=A]ÏJ[=A]N (also spelt ADERBIJAN; the _Azerb[=a]deg[=a]n_ of medieval
 writers, the _Athropatakan_ and _Atropatene_ of the ancients), the
 north-western and most important province of Persia. It is separated from
 Russian territory on the N. by the river Aras (Araxes), while it has the
-Caspian Sea, Gilan and Khamseh (Zenj[=a]n) on the E., Kurdistan on the S.,
+Caspian Sea, Gilan and Khamseh (Zenj[=a]n) on the E., [[Kurdistan]] on the S.,
 and Asiatic Turkey on the W. Its area is estimated at 32,000 sq. m.; its
 population at 1½ to 2 millions, comprising various races, as Persians
 proper, Turks, Kurds, Syrians, Armenians, &c. The country is superior in
@@ -173,10 +173,10 @@ has always been the heir-apparent to the throne of Persia, assisted by a
 responsible minister appointed by the shah. The administrative divisions
 are as follows:--Tabriz and environs; Uskuh; Deh-Kharegan; Maragha;
 Miandoab; Sa[=u]jbulagh; Sulduz; Urmia; Selmas; Khoi; Maku; Gerger; Merend;
-Karadagh; Arvanek; Talish; Ardebil; Mishkin; Khalkh[=a]l; Hashtrud;
+Karadagh; Arvanek; Talish; [[Ardebil]]; Mishkin; Khalkh[=a]l; Hashtrud;
 Garmrud; Afshar; Sain Kaleh; Ujan; Sarab. The revenue amounts to about
-£200,000 per annum in cash and kind, and nearly all of it is expended in
-the province for the maintenance of the court of the heir-apparent, the
+£200,000 per annum in [[Cash|cash]] and kind, and nearly all of it is expended in
+the province for the [[Maintenance|maintenance]] of the court of the heir-apparent, the
 salaries and pay to government officials, troops, pensions, &c.
 
 (A. H.-S.)

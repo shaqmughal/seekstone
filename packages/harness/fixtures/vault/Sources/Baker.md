@@ -13,18 +13,18 @@ on the 8th of June 1821. He was educated partly in England and partly in
 Germany. His father, a West India merchant, destined him for a commercial
 career, but a short experience of office work proved him to be entirely
 unsuited to such a life. On the 3rd of August 1843 he married Henrietta
-Biddulph Martin, daughter of the rector of Maisemore, Gloucestershire, and
-after two years in Mauritius the desire for travel took him in 1846 to
+Biddulph [[Martin]], daughter of the rector of Maisemore, Gloucestershire, and
+after two years in [[Mauritius]] the desire for travel took him in 1846 to
 Ceylon, where in the following year he founded an agricultural settlement
 at Nuwara Eliya, a mountain health-resort. Aided by his brother, he brought
 emigrants thither from England, together with choice breeds of cattle, and
 before long the new settlement was a success. During his residence in
-Ceylon he published, as a result of many adventurous hunting expeditions,
+Ceylon he published, as a result of many adventurous [[Hunting|hunting]] expeditions,
 _The Rifle and the Hound in Ceylon_ (1853), and two years later _Eight
 Years' Wanderings in Ceylon_ (1855). After a journey to Constantinople and
-the Crimea in 1856, he found an outlet for his restless energy by
+the [[Crimea]] in 1856, he found an outlet for his restless energy by
 undertaking the supervision of the construction of a railway across the
-Dobrudja, connecting the Danube with the Black Sea. After its completion he
+Dobrudja, connecting the Danube with the [[Black Sea]]. After its completion he
 spent some months in a tour in south-eastern Europe and Asia Minor. It was
 during this time that he met in Hungary the lady who (in 1860) became his
 second wife, Florence, daughter of Finnian von Sass, his first wife having
@@ -33,8 +33,8 @@ in central Africa. This, in his own words, was undertaken "to discover the
 sources of the Nile, with the hope of meeting the East African expedition
 under Captains Speke and Grant somewhere about the Victoria Lake." After a
 year spent on the Sudan-Abyssinian border, during which time he learnt
-Arabic, explored the Atbara and other Nile tributaries, and proved that the
-Nile sediment came from Abyssinia, he arrived at Khartum, leaving that city
+Arabic, explored the [[Atbara]] and other Nile tributaries, and proved that the
+Nile sediment came from Abyssinia, he arrived at [[Khartum]], leaving that city
 in December 1862 to follow up the course of the White Nile. Two months
 later at Gondokoro he met Speke and Grant, who, after discovering the
 source of the Nile, were following the river to Egypt. Their success made
@@ -76,9 +76,9 @@ upon which others could build up an administration. He returned to England
 with his wife in 1874, and in the following year purchased the estate of
 Sandford Orleigh in South Devon, where he made his home for the rest of his
 life. He published his narrative of the central African expedition under
-the title of _Ismailia_ (1874). _Cyprus as I saw it in 1879_ was the result
+the title of _[[Ismailia]]_ (1874). _[[Cyprus]] as I saw it in 1879_ was the result
 of a visit to that island. He spent several winters in Egypt, and travelled
-in India, the Rocky Mountains and Japan in search of big game, publishing
+in India, the Rocky Mountains and [[Japan]] in search of big [[Game|game]], publishing
 in 1890 _Wild Beasts and their Ways_. He kept up an exhaustive and vigorous
 correspondence with men of all shades of opinion upon Egyptian affairs,
 strongly opposing the abandonment of the Sudan and subsequently urging its

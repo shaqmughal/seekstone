@@ -12,8 +12,8 @@ the Pausebach, 35 m. S. by W. of Breslau. Pop. (1905) 7890. It is still
 surrounded by its medieval walls, has two Evangelical and three Roman
 Catholic churches, among the latter the parish church with a curious
 overhanging tower, and a monastery. The industries include the
-manufacture of artificial manures, bricks, beer and straw hats. There
-are also mills for grinding the magnesite found in the neighbourhood.
+manufacture of artificial manures, [[Brick|bricks]], beer and straw hats. There
+are also mills for grinding the [[Magnesite|magnesite]] found in the neighbourhood.
 
 ## See also
 

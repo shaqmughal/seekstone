@@ -8,10 +8,10 @@ type: reference
 # Christiansund
 
 CHRISTIANSUND (KRISTIANSUND), a seaport on the west coast of Norway, in
-Romsdal _amt_ (county), 259 m. N.E. by N. of Bergen, in the latitude of
+Romsdal _amt_ (county), 259 m. N.E. by N. of Bergen, in the [[Latitude|latitude]] of
 the Faeroe Islands. Pop. (1901) 11,982. It is built on four small
 islands, by which its harbour is enclosed. The chief exports are wood,
-cod, herrings and fish products, and butter to Great Britain. The town
+cod, [[Herrings|herrings]] and fish products, and [[Butter|butter]] to Great Britain. The town
 is served by the principal steamers between the south Norwegian ports,
 Hull, Hamburg, &c, and Trondhjem, and it is the chief port of the
 district of Nordmöre. Local steamers serve the neighbouring fjords,

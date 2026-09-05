@@ -13,7 +13,7 @@ Euphrates, 27(1/2) m. above its junction with the Khabor, lat. 35 deg.
 Christians; except in the official classes, there are no Turks. It is
 the capital and the only considerable town of the Zor sanjak, formed in
 1857, which includes Ras el-'Ain on the north and Palmyra on the south,
-with a total area of 32,820 sq. m., chiefly desert, and an estimated
+with a total area of 32,820 sq. m., chiefly [[Desert|desert]], and an estimated
 population of 100,000, mostly Arab nomads. Deir itself is a thrifty and
 rising town, having considerable traffic; it is singularly European in
 appearance, with macadamized streets and a public garden. The name Deir
@@ -23,7 +23,7 @@ capital of the sanjak it was an insignificant village. It is an
 important centre for the control of the Bedouin Arabs, and has a
 garrison of about 1000 troops, including a special corps of mule-riders.
 It is also a road centre, the roads from the Mediterranean to Bagdad by
-way of Aleppo and Damascus respectively meeting here. A road also leads
+way of Aleppo and [[Damascus]] respectively meeting here. A road also leads
 northward, by Sinjar, to Mosul, crossing the river on a stone bridge,
 built in 1897, the only permanent bridge over the Euphrates south of
 Asia Minor.     (J. P. Pe.)

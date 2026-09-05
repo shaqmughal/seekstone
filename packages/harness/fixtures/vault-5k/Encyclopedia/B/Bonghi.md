@@ -14,7 +14,7 @@ against the Bourbons. At Turin he resumed his philosophic studies and
 his translation of Plato, but in 1858 refused a professorship of Greek
 at Pavia, under the Austrian government, only to accept it in 1859 from
 the Italian government after the liberation of Lombardy. In 1860, with
-the Cavour party, he opposed the work of Garibaldi, Crispi and Bertani
+the Cavour party, he opposed the work of [[Garibaldi]], [[Crispi]] and Bertani
 at Naples, and became secretary of Luigi Carlo Farini during the
 latter's lieutenancy, but in 1865 assumed contemporaneously the
 editorship of the _Perseveranza_ of Milan and the chair of Latin
@@ -22,7 +22,7 @@ literature at Florence. Elected deputy in 1860 he became celebrated by
 the biting wit of his speeches, while, as journalist, the acrimony of
 his polemical writings made him a redoubtable adversary. Though an
 ardent supporter of the historic Right, and, as such, entrusted by the
-Lanza cabinet with the defence of the law of guarantees in 1870, he was
+[[Lanza]] cabinet with the defence of the law of guarantees in 1870, he was
 no respecter of persons, his caustic tongue sparing neither friend nor
 foe. Appointed minister for public instruction in 1873, he, with
 feverish activity, reformed the Italian educational system, suppressed

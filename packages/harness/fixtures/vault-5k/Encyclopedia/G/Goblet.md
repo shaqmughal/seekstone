@@ -16,7 +16,7 @@ the department of the Somme to the National Assembly, where he took his
 place on the extreme left. He failed to secure election in 1876, but
 next year was returned for Amiens. He held a minor government office in
 1879, and in 1882 became minister of the interior in the Freycinet
-cabinet. He was minister of education, fine arts and religion in Henri
+cabinet. He was minister of education, [[Fine Arts|fine arts]] and religion in Henri
 Brisson's first cabinet in 1885, and again under Freycinet in 1886, when
 he greatly increased his reputation by an able defence of the
 government's education proposals. Meanwhile his extreme independence and
@@ -39,7 +39,7 @@ budget in May 1887, his government resigned; but he returned to office
 next year as foreign minister in the radical administration of Charles
 Floquet. He was defeated at the polls by a Boulangist candidate in 1889,
 and sat in the senate from 1891 to 1893, when he returned to the popular
-chamber. In association with MM. E. Lockroy, Ferdinand Sarrien and P. L.
+chamber. In association with MM. E. [[Lockroy]], [[Ferdinand]] Sarrien and P. L.
 Peytral he drew up a republican programme which they put forward in the
 _Petite Republique francaise_. At the elections of 1898 he was defeated,
 and thenceforward took little part in public affairs. He died in Paris

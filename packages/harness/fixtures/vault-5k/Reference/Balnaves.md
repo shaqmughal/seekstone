@@ -30,7 +30,7 @@ Andrews. When that castle surrendered to the French in July Balnaves was
 taken prisoner to Rouen. Somerset made vain efforts to procure his release
 and continued his pension. He made himself useful by giving information to
 the English government, and even Mary Tudor sent him £50 as reward in June
-1554. Balnaves also busied himself in writing what Knox calls "a
+1554. Balnaves also busied himself in writing what [[Knox]] calls "a
 comfortable treatise of justification," which was found in MS. with a
 preface by Knox, among the reformer's papers, and was published at
 Edinburgh in 1584 under the title _The Confession of Faith_.
@@ -43,13 +43,13 @@ The accession of Queen Elizabeth changed the situation, and Mary of Guise
 had reasons for accusing him of "practices out of England" (_Salisbury
 MSS._ i. 155). He took, in fact, an active part in the rising of 1559 and
 was commissioned by the Congregation to solicit the help of the English
-government through Sir Ralph Sadleir at Berwick. He was also selected one
+government through Sir Ralph Sadleir at [[Berwick]]. He was also selected one
 of the Scots representatives to negotiate with the duke of Norfolk in
 February 1560. In 1563 he was restored to his office as lord of session,
 and was one of those appointed by the General Assembly to revise the _Book
 of Discipline_. He was one of Bothwell's judges for the murder of Darnley
 in 1567, and in 1568 he accompanied Moray to the York inquiry into Queen
-Mary's guilt. He resigned his judicial office in 1574, and died in 1579 at
+Mary's [[Guilt|guilt]]. He resigned his judicial office in 1574, and died in 1579 at
 Edinburgh. He has been claimed as a Scots bard on the strength of one
 ballad, "O gallandis all, I cry and call," which is printed in Allan
 Ramsay's _Evergreen_ (2 vols. 1724-1727).
@@ -57,7 +57,7 @@ Ramsay's _Evergreen_ (2 vols. 1724-1727).
 See _Letters and Papers of Henry VIII._ (1540-1545); Bain's and Thorp's
 _Cal. of Scottish State-Papers_; English _Domestic and Foreign Cals._;
 _Acts of Engl. Privy Council_; _Reg. P.C._, Scotland; _Reg. Great Seal of
-Scotland_; _Hamilton Papers_; _Border Papers_; Knox, _Works_; Burnet,
+Scotland_; _Hamilton Papers_; _Border Papers_; Knox, _Works_; [[Burnet]],
 _Reformation_; Froude, _Hist._
 
 (A. F. P.)

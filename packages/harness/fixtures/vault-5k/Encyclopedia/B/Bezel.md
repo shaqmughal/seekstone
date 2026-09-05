@@ -9,7 +9,7 @@ id: 42-301
 
 BEZEL (from an O. Fr. word, cf. Mod. Fr. _biseau_, _basile_, possibly
 connected with Lat. _bis_, twice), a sloping edge, as of a cutting tool,
-also known as basil. In jewelry, the term is used for the oblique sides
+also known as basil. In [[Jewelry|jewelry]], the term is used for the oblique sides
 or faces of a gem; the rim which secures the crystal of a watch in
 position or a jewel in its setting, and particularly the enlarged part
 of a ring on which the device is engraved (see RING).
@@ -18,11 +18,11 @@ of a ring on which the device is engraved (see RING).
 
 
 BEZIERS, a town of southern France, capital of an arrondissement in the
-department of Herault, 47 m. S.W. of Montpellier by rail. Pop. (1906)
+department of [[Herault]], 47 m. S.W. of Montpellier by rail. Pop. (1906)
 46,262. Beziers is situated in a wine-growing district on a hill on the
 left bank of the river Orb, which is joined at this point by the Canal
 du Midi. The Allees Paul Riquet, named after the creator of the canal,
-occupy the centre of Beziers and divide the old town with its maze of
+occupy the centre of Beziers and divide the old town with its [[Maze|maze]] of
 narrow and irregular streets from the new quarter to the east. They form
 a long and shady promenade, terminating at one end in the Place de la
 Republique and the theatre, the front of which is decorated with
@@ -33,18 +33,18 @@ St Nazaire, the finest of the churches of Beziers; it dates from the
 12th to the 14th centuries and is a good specimen of the ecclesiastical
 fortification common in southern France. Its chief artistic features are
 the rose window in the western facade, and the stained glass and curious
-iron grilles of the choir-windows, which belong to the 14th century.
-Adjoining the south transept there are Gothic cloisters of the 14th
+iron [[Grille|grilles]] of the choir-windows, which belong to the 14th century.
+Adjoining the south transept there are [[Gothic]] cloisters of the 14th
 century. The Orb is crossed by four bridges, the railway bridge, an
 ancient bridge of the 13th or 14th century, a modern bridge and the fine
 aqueduct by which the Canal du Midi is carried over the river. About
-half a mile to the south-west of the town are the locks of Fonserannes,
+half a mile to the south-west of the town are the [[Lock|locks]] of Fonserannes,
 in which in 330 yds. the water of the canal descends 80 ft. to reach the
-level of the Orb. There are remains of a Roman arena which have been
+level of the Orb. There are remains of a Roman [[Arena|arena]] which have been
 built into the houses of the rue St Jacques. Beziers is seat of a
 sub-prefect and has tribunals of first instance and of commerce,
 communal colleges and several learned societies. It is an agricultural
-market and carries on an active trade in wine, brandy, fruit, leather
+market and carries on an active trade in wine, [[Brandy|brandy]], fruit, leather
 and sulphur. Its industries are chiefly connected with the wine trade
 (cask and cork making, &c.) and there are important distilleries. It
 also has iron-works and tanneries.

@@ -10,7 +10,7 @@ they are much richer than their neighbours. They thrive on a rich
 sedimentary soil copiously irrigated in the midst of a country where
 cultivable land of any kind is scarce and water in general hardly to be
 obtained. But they pay a heavy tax in health and well-being for the
-possession of their fertile acres. Fevers and other ravaging diseases
+possession of their fertile acres. [[Fever|Fevers]] and other ravaging diseases
 are bred in the wet sodden lands of the Tochi Valley, lying at the
 bottom of a deep depression exposed to the burning rays of the sun; and
 the effects of these ailments may be clearly traced in the drawn or
@@ -21,7 +21,7 @@ of the Afghan races; but in spite of these defects, and of the contempt
 with which they are regarded by the other Afghan tribes, they have held
 their own for centuries against the warlike and hardy Waziris. The
 secret of this is that the Dawaris stand together, and the Waziris do
-not, while the weaker race is gifted with infinite patience and tenacity
+not, while the weaker race is gifted with [[Infinite|infinite]] patience and tenacity
 of purpose. With the advent of British government, however, the Dawaris
 are now secured in the possession of their ancestral lands.
 

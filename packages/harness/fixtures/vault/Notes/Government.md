@@ -23,7 +23,7 @@ have at times been given, which may be distinguished broadly into three
 classes. The first class would comprehend the legendary accounts which
 nations have given in primitive times of their own forms of government.
 These are always attributed to the mind of a single lawgiver. The
-government of Sparta was the invention of Lycurgus. Solon, Moses, Numa
+government of Sparta was the invention of [[Lycurgus]]. Solon, Moses, Numa
 and Alfred in like manner shaped the government of their respective
 nations. There was no curiosity about the institutions of other
 nations--about the origin of governments in general; and each nation was
@@ -44,9 +44,9 @@ into existence. Society without government resolves itself into a number
 of individuals each following his own aims, and therefore, in the days
 before government, each man followed his own aims. It is easy to see how
 this kind of reasoning should lead to very different views of the nature
-of the supposed original state. With Hobbes, it is a state of war, and
+of the supposed original state. With [[Hobbes]], it is a state of war, and
 government is the result of an agreement among men to keep the peace.
-With Locke, it is a state of liberty and equality,--it is not a state of
+With [[Locke]], it is a state of liberty and equality,--it is not a state of
 war; it is governed by its own law,--the law of nature, which is the
 same thing as the law of reason. The state of nature is brought to an
 end by the voluntary agreement of individuals to surrender their natural
@@ -60,7 +60,7 @@ community" (_On Civil Government_, c. viii.). Locke boldly defends his
 theory as founded on historical fact, and it is amusing to compare his
 demonstration of the baselessness of Sir R. Filmer's speculations with
 the scanty and doubtful examples which he accepts as the foundation of
-his own. But in general the various forms of the hypothesis eliminate
+his own. But in general the various forms of the [[Hypothesis|hypothesis]] eliminate
 the question of time altogether. The original contract from which
 government sprang is likewise the subsisting contract on which civil
 society continues to be based. The historical weakness of the theory was
@@ -107,13 +107,13 @@ sort existed while the family did not.
 
 I. FORMS OF GOVERNMENT
 
-_Three Standard Forms._--Political writers from the time of Aristotle
-have been singularly unanimous in their classification of the forms of
+_Three Standard Forms._--Political writers from the time of [[Aristotle]]
+have been singularly unanimous in their [[Classification|classification]] of the forms of
 government. There are three ways in which states may be governed. They
 may be governed by one man, or by a number of men, small in proportion
 to the whole number of men in the state, or by a number large in
 proportion to the whole number of men in the state. The government may
-be a monarchy, an aristocracy or a democracy. The same terms are used by
+be a monarchy, an [[Aristocracy|aristocracy]] or a democracy. The same terms are used by
 John Austin as were used by Aristotle, and in very nearly the same
 sense. The determining quality in governments in both writers, and it
 may safely be said in all intermediate writers, is the numerical
@@ -152,10 +152,10 @@ form, thus:--
   The good government of few (Aristocracy) corresponds to the depraved
   form (Oligarchy).
 
-  The good government of many (Commonwealth) corresponds to the depraved
+  The good government of many ([[Commonwealth]]) corresponds to the depraved
   form (Democracy).
 
-The fault of the depraved forms is that the governors act unjustly where
+The [[Fault|fault]] of the depraved forms is that the governors act unjustly where
 their own interests are concerned. The worst of the depraved forms is
 tyranny, the next oligarchy and the least bad democracy.[1] Each of the
 three leading types exhibits a number of varieties. Thus in monarchy we
@@ -186,7 +186,7 @@ kept alive by the facility with which an over-powerful and unscrupulous
 citizen could seize the whole machinery of government. Communities
 oscillated between some form of oligarchy and some form of democracy.
 The security of each was constantly imperilled by the conspiracies of
-the opposing factions. Hence, although political life exhibits that
+the opposing [[Faction|factions]]. Hence, although political life exhibits that
 exuberant variety of form and expression which characterizes all the
 intellectual products of Greece, it lacks the quality of persistent
 progress. Then there was no approximation to a national government, even
@@ -197,7 +197,7 @@ it is needless to conjecture; the true interest of Greek politics lies
 in the fact that the free citizens were, in the strictest sense of the
 word, self-governed. Each citizen took his turn at the common business
 of the state. He spoke his own views in the agora, and from time to time
-in his own person acted as magistrate or judge. Citizenship in Athens
+in his own person acted as [[Magistrate|magistrate]] or judge. Citizenship in Athens
 was a liberal education, such as it never can be made under any
 representative system.
 
@@ -209,9 +209,9 @@ were, however, in the hands of a bureaucratic assembly, recruited from
 the holders of high public office. The senate represented capacity and
 experience rather than rank and wealth. Without some such instrument the
 city government of Rome could never have made the conquest of the world.
-The gradual extension of the citizenship to other Italians changed the
+The [[Gradual|gradual]] extension of the citizenship to other Italians changed the
 character of Roman government. The distant citizens could not come to
-the voting booths; the device of representation was not discovered; and
+the voting [[Booth|booths]]; the device of representation was not discovered; and
 the comitia fell into the power of the town voters. In the last stage of
 the Roman republic, the inhabitants of one town wielded the resources of
 a world-wide empire. We can imagine what would be the effect of leaving
@@ -222,15 +222,15 @@ The favour of the effeminate masters of the world is purchased by _panem
 et circenses_. That capable officers and victorious armies should long
 be content to serve such masters was impossible. A conspiracy of
 generals placed itself at the head of affairs, and the most capable of
-them made himself sole master. Under Caesar, Augustus and Tiberius, the
+them made himself sole master. Under [[Caesar]], Augustus and Tiberius, the
 Roman people became habituated to a new form of government, which is
 best described by the name of Caesarism. The outward forms of republican
 government remained, but one man united in his own person all the
 leading offices, and used them to give a seemingly legal title to what
 was essentially military despotism. There is no more interesting
 constitutional study than the chapters in which Tacitus traces the
-growth of the new system under the subtle and dissimulating intellect of
-Tiberius. The new Roman empire was as full of fictions as the English
+growth of the new system under the subtle and dissimulating [[Intellect|intellect]] of
+Tiberius. The new Roman empire was as full of [[Fictions|fictions]] as the English
 constitution of the present day. The master of the world posed as the
 humble servant of a menial senate. Deprecating the outward symbols of
 sovereignty, he was satisfied with the modest powers of a consul or a
@@ -313,7 +313,7 @@ has remained unchanged, and, so far as legal description goes, the
 constitution of William III. might be taken for the same system as that
 which still exists. The silent changes have, however, been enormous. The
 most striking of these, and that which has produced the most salient
-features of the English system, is the growth of cabinet government.
+features of the English system, is the growth of [[Cabinet|cabinet]] government.
 Intimately connected with this is the rise of the two great historical
 parties of English politics. The normal state of government in England
 is that the cabinet of the day shall represent that which is, for the
@@ -333,7 +333,7 @@ constitutional functions of high importance, because at any moment it
 may be called to provide a ministry. Criticism is sobered by being made
 responsible. Along with this movement went the withdrawal of the
 personal action of the sovereign in politics. No king has attempted to
-veto a bill since the Scottish Militia Bill was vetoed by Queen Anne. No
+veto a bill since the Scottish Militia Bill was vetoed by Queen [[Anne]]. No
 ministry has been dismissed by the sovereign since 1834. Whatever the
 power of the sovereign may be, it is unquestionably limited to his
 personal influence over his ministers. And it must be remembered that
@@ -344,7 +344,7 @@ find that the House of Commons, as a body, gradually made itself the
 centre of the government. Since the area of the constitution has been
 enlarged, it may be doubted whether the orthodox descriptions of the
 government any longer apply. The earlier constitutional writers, such as
-Blackstone and J. L. Delolme, regard it as a wonderful compound of the
+[[Blackstone]] and J. L. [[Delolme]], regard it as a wonderful compound of the
 three standard forms,--monarchy, aristocracy and democracy. Each has its
 place, and each acts as a check upon the others. Hume, discussing the
 question "Whether the British government inclines more to absolute
@@ -368,7 +368,7 @@ few very general considerations.
 
 _The Two Chambers._--First, as to the double chamber. This, which is
 perhaps more accidental than any other portion of the British system,
-has been the most widely imitated. In most European countries, in the
+has been the most widely imitated. In most [[European Countries|European countries]], in the
 British colonies, in the United States Congress, and in the separate
 states of the Union,[5] there are two houses of legislature. This result
 has been brought about partly by natural imitation of the accepted type
@@ -393,7 +393,7 @@ the confidence of the House of Commons; they need not--in fact they
 often do not--possess the confidence of the House of Lords. It is only
 in legislation that the Lower House really shares its powers with the
 Upper; and (apart from any such change in the constitution as was
-suggested in 1907 by Sir H. Campbell-Bannerman) the constitution
+suggested in 1907 by Sir H. [[Campbell-Bannerman]]) the constitution
 possesses, in the unlimited power of nominating peers, a well-understood
 last resource should the House of Lords persist in refusing important
 measures demanded by the representatives of the people. In the United
@@ -456,7 +456,7 @@ an uncle must make himself safe from his relatives and competitors.
 Hence the scenes which shock the European conscience when "Amurath an
 Amurath succeeds." The strong monarchical governments of Europe have
 been saved from this evil by an indisputable law of succession, which
-marks out from his infancy the next successor to the throne. The king
+marks out from his [[Infancy|infancy]] the next successor to the throne. The king
 names his ministers, and the law names the king. In popular or
 constitutional governments far more elaborate precautions are required.
 It is one of the real merits of the English constitution that it has
@@ -485,7 +485,7 @@ recognized head of a party, subject to there being such an individual.
 It is certain that the intervention of the crown facilitates the
 transfer of power from one party to another, by giving it the appearance
 of a mere change of servants. The real disturbance is that caused by the
-appeal to the electors. A general election is always a struggle between
+appeal to the [[Electors|electors]]. A general election is always a struggle between
 the great political parties for the possession of the powers of
 government. It may be noted that modern practice goes far to establish
 the rule that a ministry beaten at the hustings should resign at once
@@ -506,7 +506,7 @@ _Change of Power in the United States._--The United States offers a very
 different solution of the problem. The American president is at once
 king and prime minister; and there is no titular superior to act as a
 conduit-pipe between him and his successor. His crown is rigidly fixed;
-he can be removed only by the difficult method of impeachment. No
+he can be removed only by the difficult method of [[Impeachment|impeachment]]. No
 hostile vote on matters of legislation can affect his position. But the
 end of his term is known from the first day of his government; and
 almost before he begins to reign the political forces of the country are
@@ -531,7 +531,7 @@ served by a prime minister and a cabinet, who, like an English ministry,
 hold office on the condition of parliamentary confidence; but he holds
 office himself on the same terms, and is, in fact, a minister like the
 others. So far as the transmission of power from cabinet to cabinet is
-concerned, he discharges the functions of an English king. But the
+concerned, he [[Discharge|discharges]] the functions of an English king. But the
 transmission of power between himself and his successor is protected by
 no constitutional devices whatever, and experience would seem to show
 that no such devices are really necessary. Other European countries
@@ -549,7 +549,7 @@ technical language of the English school of jurists is certainly of a
 kind to encourage such a supposition. The entire body of law in force in
 a country at any moment is regarded as existing solely by the fiat of
 the governing power. There is no maxim more entirely in the spirit of
-this jurisprudence than the following:--"The real legislator is not he
+this [[Jurisprudence|jurisprudence]] than the following:--"The real legislator is not he
 by whom the law was first ordained, but he by whose will it continues to
 be law." The whole of the vast repertory of rules which make up the law
 of England--the rules of practice in the courts, the local customs of a
@@ -557,7 +557,7 @@ county or a manor, the principles formulated by the sagacity of
 generations of judges, equally with the statutes for the year, are
 conceived of by the school of Austin as created by the will of the
 sovereign and the two Houses of Parliament, or so much of them as would
-now satisfy the definition of sovereignty. It would be out of place to
+now satisfy the [[Definition|definition]] of sovereignty. It would be out of place to
 examine here the difficulties which embarrass this definition, but the
 statement we have made carries on its face a demonstration of its own
 falsity in fact. There is probably no government in the world of which
@@ -565,12 +565,12 @@ it could be said that it might change at will the substantive laws of
 the country and still remain a government. However well it may suit the
 purposes of analytical jurisprudence to define a law as a command set by
 sovereign to subject, we must not forget that this is only a definition,
-and that the assumption it rests upon is, to the student of society,
+and that the [[Assumption|assumption]] it rests upon is, to the student of society,
 anything but a universal fact. From his point of view the cause of a
 particular law is not one but many, and of the many the deliberate will
-of a legislator may not be one. Sir Henry Maine has illustrated this
+of a legislator may not be one. Sir Henry [[Maine]] has illustrated this
 point by the case of the great tax-gathering empires of the east, in
-which the absolute master of millions of men never dreams of making
+which the absolute master of millions of men never [[Dream|dreams]] of making
 anything in the nature of a law at all. This view is no doubt as strange
 to the English statesman as to the English jurist. The most conspicuous
 work of government in his view is that of parliamentary legislation. For
@@ -637,14 +637,14 @@ example of the English constitution as it existed when the states were
 founded. In England there is also still a considerable amount of
 judicial work in which the people takes its share. The inferior
 magistracies, except in populous places, are in the hands of private
-persons. And by the jury system the ascertainment of fact has been
+persons. And by the [[Jury|jury]] system the ascertainment of fact has been
 committed in very large measure to persons selected indiscriminately
 from the mass of the people, subject to a small property qualification.
 But the higher functions of the judicature are exercised by persons whom
 the law has jealously fenced off from external interference and control.
-The independence of the bench distinguishes the English system from
+The independence of the [[Bench|bench]] distinguishes the English system from
 every other. It was established in principle as a barrier against
-monarchical power, and hence has become one of the traditional ensigns
+monarchical power, and hence has become one of the traditional [[Ensign|ensigns]]
 of popular government. In many of the American states the spirit of
 democracy has demanded the subjection of the judiciary to popular
 control. The judges are elected directly by the people, and hold office
@@ -652,7 +652,7 @@ for a short term, instead of being appointed, as in England, by the
 responsible executive, and removable only by a vote of the two Houses.
 At the same time the constitution of the United States has assigned to
 the supreme court of the Union a perfectly unique position. The supreme
-court is the guardian of the constitution (as are the state courts of
+court is the [[Guardian|guardian]] of the constitution (as are the state courts of
 the constitution of the states: see UNITED STATES). It has to judge
 whether a measure passed by the legislative powers is not void by reason
 of being unconstitutional, and it may therefore have to veto the
@@ -698,7 +698,7 @@ have been assigned in terms, but popular sentiment has more or less
 vaguely fenced off departments of conduct as sacred from the
 interference of the law. Phrases like "the liberty of the subject," the
 "sanctity of private property," "an Englishman's house is his castle,"
-"the rights of conscience," are the commonplaces of political
+"the rights of conscience," are the [[Commonplace|commonplaces]] of political
 discussion, and tell the state, "Thus far shalt thou go and no further."
 
 The two contrasting policies are those of _laissez-faire_ (let alone)
@@ -735,7 +735,7 @@ of many important exceptions, founded on no principle less vague than
 that of public expediency. The essay on _Liberty_ is mainly concerned
 with freedom of individual character, and its arguments apply to control
 exercised, not only by the state, but by society in the form of public
-opinion. The leading principle is that of Humboldt, "the absolute and
+opinion. The leading principle is that of [[Humboldt]], "the absolute and
 essential importance of human development in its richest diversity."
 Humboldt broadly excluded education, religion and morals from the
 action, direct and indirect, of the state. Mill, as we have seen,
@@ -783,17 +783,17 @@ contract.
 
 FOOTNOTES:
 
-  [1] Aristotle elsewhere speaks of the error of those who think that
+  [1] Aristotle elsewhere speaks of the [[Error|error]] of those who think that
     any one of the depraved forms is better than any other.
 
   [2] None of the free states of Greece ever made extensive or
     permanent conquests; but the tribute sometimes paid by one state to
-    another (as by the Aeginetans to the Athenians) was a manifest source
+    another (as by the Aeginetans to the Athenians) was a [[Manifest|manifest]] source
     of corruption. Compare the remarks of Hume (_Essays_, part i. 3,
     _That Politics may be reduced to a Science_), "free governments are
     the most ruinous and oppressive for their provinces."
 
-  [3] Ultimately, in the theory of English law, the king may be said to
+  [3] Ultimately, in the theory of [[English Law|English law]], the king may be said to
     have become the universal successor of the people. Some of the
     peculiarities of the prerogative rights seem to be explainable only
     on this view, e.g. the curious distinction between wrecks come to

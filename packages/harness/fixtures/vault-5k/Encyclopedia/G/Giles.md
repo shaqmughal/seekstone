@@ -1,12 +1,12 @@
 # Giles
 
-GILES (GIL, GILLES), ST, the name given to an abbot whose festival is
+GILES (GIL, [[Gill|GILLES]]), ST, the name given to an abbot whose festival is
 celebrated on the 1st of September. According to the legend, he was an
 Athenian ([Greek: Aigidios], Aegidius) of royal descent. After the death
 of his parents he distributed his possessions among the poor, took ship,
-and landed at Marseilles. Thence he went to Arles, where he remained for
-two years with St Caesarius. He then retired into a neighbouring desert,
-where he lived upon herbs and upon the milk of a hind which came to him
+and landed at Marseilles. Thence he went to [[Arles]], where he remained for
+two years with St Caesarius. He then retired into a neighbouring [[Desert|desert]],
+where he lived upon [[Herb|herbs]] and upon the milk of a hind which came to him
 at stated hours. He was discovered there one day by Flavius, the king of
 the Goths, who built a monastery on the place, of which he was the first
 abbot. Scholars are very much divided as to the date of his life, some
@@ -26,7 +26,7 @@ and the state were due. In the 12th century the pilgrimages to St-Gilles
 are cited as among the most celebrated of the time. The cult of the
 saint, who came to be regarded as the special patron of lepers, beggars
 and cripples, spread very extensively over Europe, especially in
-England, Scotland, France, Belgium and Germany. The church of St Giles,
+England, Scotland, France, [[Belgium]] and Germany. The church of St Giles,
 Cripplegate, London, was built about 1090, while the hospital for lepers
 at St Giles-in-the-Fields (near New Oxford Street) was founded by Queen
 Matilda in 1117. In England alone there are about 150 churches dedicated
@@ -40,7 +40,7 @@ less common in Italy and Spain.
   Rembry, _Saint Gilles, sa vie, ses reliques, son culte en Belgique et
   dans le nord de la France_ (Bruges, 1881); F. Arnold-Forster, _Studies
   in Church Dedications, or England's Patron Saints_, ii. 46-51, iii.
-  15, 363-365 (1899); A. Jameson, _Sacred and Legendary Art_, 768-770
+  15, 363-365 (1899); A. [[Jameson]], _Sacred and Legendary Art_, 768-770
   (1896); A. Bell, _Lives and Legends of the English Bishops and Kings,
   Medieval Monks, and other later Saints_, pp. 61, 70, 74-78, 84, 197
   (1904).     (H. De.)

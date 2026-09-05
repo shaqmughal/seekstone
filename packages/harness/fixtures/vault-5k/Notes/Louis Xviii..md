@@ -29,7 +29,7 @@ _tiers_. At the same time he cultivated literature, entertaining poets
 and writers both at the Luxembourg and at his château of Brunoy (see
 Dubois-Corneau, _Le Comte de Provence à Brunoy_, 1909), and gaining a
 reputation for wit by his verses and _mots_ in the salon of the charming
-and witty comtesse de Balbi, one of Madame's ladies, who had become his
+and witty comtesse de [[Balbi]], one of Madame's ladies, who had become his
 mistress,[4] and till 1793 exerted considerable influence over him. He
 did not emigrate after the taking of the Bastille, but, possibly from
 motives of ambition, remained in Paris. Mirabeau thought at one time of
@@ -55,7 +55,7 @@ followed an entirely selfish policy, flouting the National Assembly (see
 his reply to the summons of the National Assembly, in Daudet, _op. cit._
 i. 96), issuing uncompromising manifestoes (Sept. 1791, Aug. 1792, &c.),
 and obstructing in every way the representatives of the king and
-queen.[6] After Valmy he had to retire to Hamm in Westphalia, where, on
+queen.[6] After Valmy he had to retire to [[Hamm]] in Westphalia, where, on
 the death of Louis XVI., he proclaimed himself regent; from here he went
 south, with the idea of encouraging the royalist feeling in the south of
 France, and settled at Verona, where on the death of Louis XVII. (8th of
@@ -66,7 +66,7 @@ wanderings, negotiations and conspiracies. In April 1796 he joined
 Condé's army on the German frontier, but was shortly requested to leave
 the country, and accepted the hospitality of the duke of Brunswick at
 Blanckenberg till 1797, when, this refuge being no longer open to him,
-the emperor Paul I. permitted him to settle at Mittau in Courland, where
+the emperor Paul I. permitted him to settle at Mittau in [[Courland]], where
 he stayed till 1801. All this time he was in close communication with
 the royalists in France, but was much embarrassed by the conflicting
 policy pursued by the comte d'Artois from England, and was largely at
@@ -117,12 +117,12 @@ to the reactionary and clerical party of the _émigrés_, headed by the
 comte d'Artois and the duchesse d'Angoulême, aroused suspicions of his
 loyalty to the constitution, the creation of his _Maison militaire_
 alienated the army, and the constant presence of Blacas made the
-formation of a united ministry impossible. After the Hundred Days,
-during which the king was forced to flee to Ghent, the dismissal of
+formation of a united ministry impossible. After the [[Hundred Days]],
+during which the king was forced to flee to [[Ghent]], the dismissal of
 Blacas was made one of the conditions of his second restoration. On the
 8th of July he again entered Paris, "in the baggage train of the allied
 armies," as his enemies said, but in spite of this was received with the
-greatest enthusiasm[9] by a people weary of wars and looking for
+greatest [[Enthusiasm|enthusiasm]][9] by a people weary of wars and looking for
 constitutional government. He was forced to retain Talleyrand and Fouché
 in his first ministry, but took the first opportunity of ridding himself
 of them when the elections of 1815 assured him of a strong royalist
@@ -146,7 +146,7 @@ position was more passive than active, and consisted in giving his
 support as far as possible to the ministry of the day. While Decazes
 was still in power, the king's policy to a large extent followed his,
 and was rather liberal and moderate, but after the assassination of the
-duc de Berry (1820), when he saw that Decazes could no longer carry on
+duc de [[Berry]] (1820), when he saw that Decazes could no longer carry on
 the government, he sorrowfully acquiesced in his departure, showered
 honours upon him, and transferred his support to Richelieu, the head of
 the new ministry. In the absence of Decazes a new favourite was found to
@@ -175,7 +175,7 @@ Belgians, to the queen before her accession, dated the 18th of November
 was a most liberal monarch, reigning with great mildness and justice to
 his end, but that his brother, from his despotic and harsh disposition,
 upset all the other had done and lost the throne. Louis XVIII. was a
-clever, hard-hearted man, shackled by no principle, very proud and
+[[Clever|clever]], hard-hearted man, shackled by no principle, very proud and
 false. Charles X. an honest man, a kind friend," &c. &c. This seems
 fairly just as a personal estimate, though it does not do justice to
 their respective political rôles.
@@ -229,7 +229,7 @@ their respective political rôles.
 
 FOOTNOTES:
 
-  [1] See Arneth and Geffroy, _Corr. de Marie-Thérèse avec le comte de
+  [1] See Arneth and [[Geffroy]], _Corr. de Marie-Thérèse avec le comte de
     Mercy-Argenteau_, vol. i., "Mercy to Maria Theresa, June 22nd, 1771,"
     also i. 261, ii. 186, 352, 393. Marie Antoinette says (ii. 393): "...
     à un caractère très faible, il joint une marche souterraine, et
@@ -241,7 +241,7 @@ FOOTNOTES:
   [3] Two pamphlets at least are ascribed to him: "Les Mannequins,
     conte ou histoire, comme l'on voudra" (against Turgot; anon., Paris,
     1776) and "Description historique d'un monstre symbolique pris vivant
-    sur les bords du lac Fagua, près de Santa-Fé, par les soins de
+    sur les bords du [[Lac|lac]] Fagua, près de Santa-Fé, par les soins de
     Francisco Xaveiro de Neunris" (against Calonne; Paris, 1784) (A.
     Debidour in _La Grande Encyclopédie_).
 
@@ -281,7 +281,7 @@ FOOTNOTES:
     admitted, it was almost impossible to converse, so loud were the
     shouts of the people in the Thuilleries Gardens, which were full,
     though it was then dark. Previous to the king's dismissing us, he
-    carried the duke and me to the open window. Candles were then
+    carried the duke and me to the open window. [[Candle|Candles]] were then
     brought, which enabled the people to see the king with the duke by
     his side. They ran from all parts of the Gardens, and formed a solid
     mass of an immense extent, rending the air with acclamations. The

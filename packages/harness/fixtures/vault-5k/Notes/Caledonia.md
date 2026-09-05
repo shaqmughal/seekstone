@@ -11,7 +11,7 @@ for Scotland. It occurs first in the poet Lucan (A.D. 64), and then often
 in Roman literature. There were (1) a district Caledonia, of which the
 southern border must have been on or near the isthmus between the Clyde and
 the Forth, (2) a Caledonian Forest (possibly in Perthshire), and (3) a
-tribe of Caledones or Calidones, named by the geographer Ptolemy as living
+tribe of [[Caledon|Caledones]] or Calidones, named by the geographer Ptolemy as living
 within boundaries which are now unascertainable. The Romans first invaded
 Caledonia under Agricola (about A.D. 83). They then fortified the Forth and
 Clyde Isthmus with a line of forts, two of which, those at Camelon and
@@ -55,18 +55,18 @@ political divisions, the boundaries and capitals of the tribes, and the
 like, we know nothing. Ptolemy gives a list of tribe and place-names. But
 hardly one can be identified with any approach to certainty, except in the
 extreme south. Nor has any certainty been reached about the ethnological
-problems of the population, the Aryan or non-Aryan character of the Picts
+problems of the population, the [[Aryan]] or non-Aryan character of the Picts
 and the like. That the Caledonians, like the later Scots, sometimes sought
 their fortunes in the south, is proved by a curious tablet of about A.D.
 220, found at Colchester, dedicated to an unknown equivalent of Mars,
-Medocius, by one "Lossio Veda, nepos [ = kin of] Vepogeni, Caledo." The
-name Caledonia is said to survive in the second syllable of Dunkeld and in
+Medocius, by one "Lossio Veda, nepos [ = [[Kin|kin]] of] Vepogeni, Caledo." The
+name Caledonia is said to survive in the second syllable of [[Dunkeld]] and in
 the mountain name Schiehallion (Sith-chaillinn).
 
 AUTHORITIES.--Tacitus, _Agricola_; Hist. Augusta, _Vita Severi_; Dio
-lxxvi.; F. Haverfield, _The Antonine Wall Report_ (Glasgow, 1899), pp.
+lxxvi.; F. Haverfield, _The Antonine Wall Report_ ([[Glasgow]], 1899), pp.
 154-168; J. Rhys, _Celtic Britain_ (ed. 3). On Burghead, see H.W. Young,
-_Proc. of Scottish Antiq._ xxv., xxvii.; J. Macdonald, _Trans. Glasgow
+_Proc. of Scottish Antiq._ xxv., xxvii.; J. [[Macdonald]], _Trans. Glasgow
 Arch. Society_. The Roman remains of Scotland are described in Rob.
 Stuart's _Caled. Romana_ (Edinburgh, 1852), the volumes of the Scottish
 Antiq. Society, the _Corpus Inscriptionum Latinarum_, vol. vii., and
@@ -89,7 +89,7 @@ authorizing the construction of the canal, which was begun forthwith under
 Telford's direction, and traffic was started in 1822. From the northern
 entrance on Beauly Firth to the southern, near Fort William, the total
 length is about 60 m., that of the artificial portion being about 22 m. The
-number of locks is 28, and their standard dimensions are:--length 160 ft,
+number of [[Lock|locks]] is 28, and their standard dimensions are:--length 160 ft,
 breadth 38 ft., water-depth 15 ft. Their lift is in general about 8 ft.,
 but some of them are for regulating purposes only. A flight of 8 at
 Corpach, with a total lift of 64 ft., is known as "Neptune's Staircase."
@@ -97,7 +97,7 @@ The navigation is vested in and managed by the commissioners of the
 Caledonian Canal, of whom the speaker of the House of Commons is _ex
 officio_ chairman. Usually the income is between L7000 and L8000 annually,
 and exceeds the expenditure by a few hundred pounds; but the commissioners
-are not entitled to make a profit, and the credit balances, though
+are not entitled to make a profit, and the [[Credit|credit]] [[Balance|balances]], though
 sometimes allowed to accumulate, must be expended on renewals and
 improvements of the canal. They have not, however, always proved sufficient
 for their purposes, and parliament is occasionally called upon to make

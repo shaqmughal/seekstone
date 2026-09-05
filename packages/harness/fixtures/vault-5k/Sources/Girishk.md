@@ -1,7 +1,7 @@
 # Girishk
 
 GIRISHK, a village and fort of Afghanistan. It stands on the right bank
-of the Helmund 78 m. W. of Kandahar on the road to Herat; 3641 ft. above
+of the Helmund 78 m. W. of [[Kandahar]] on the road to [[Herat]]; 3641 ft. above
 the sea. The fort, which is garrisoned from Kandahar and is the
 residence of the governor of the district (Pusht-i-Rud), has little
 military value. It commands the fords of the Helmund and the road to

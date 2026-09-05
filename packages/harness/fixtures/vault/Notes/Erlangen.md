@@ -6,7 +6,7 @@ Nuremberg, on the railway from Munich to Bamberg. Pop. (1905) 23,720. It
 is divided into an old and a new town, the latter consisting of wide,
 straight and well-built streets. The market place is a fine square. Upon
 it stand the town-hall and the former palace of the margraves of
-Bayreuth, now the main building of the university. The latter was
+[[Bayreuth]], now the main building of the university. The latter was
 founded by the margrave Frederick (d. 1763), who, in 1742, established a
 university at Bayreuth, but in 1743 removed it to Erlangen. A statue of
 the founder, erected in 1843 by King Louis I. of Bavaria, stands in the
@@ -18,8 +18,8 @@ establishments, laboratories and a botanical garden. Among the churches
 of the town (six Protestant and one Roman Catholic), only the new town
 church, with a spire 220 ft. high, is remarkable. The chief industries
 of Erlangen are spinning and weaving, and the manufacture of glass,
-paper, brushes and gloves. The brewing industry is also important, the
-beer of Erlangen being famous throughout Germany and large quantities
+paper, brushes and [[Glove|gloves]]. The brewing industry is also important, the
+[[Beer|beer]] of Erlangen being famous throughout Germany and large quantities
 being exported.
 
 Erlangen owes the foundation of its prosperity chiefly to the French
@@ -31,7 +31,7 @@ into the hands of the Hohenzollerns, burgraves of Nuremberg, in 1416.
 There for nearly three centuries it was the property of the margraves of
 Bayreuth, being ceded with the rest of Bayreuth to Prussia in 1791. In
 1810 it came into the possession of Bavaria. Erlangen was for many years
-the residence of the poet Friedrich Ruckert, and of the philosophers
+the residence of the poet [[Friedrich]] Ruckert, and of the philosophers
 Johann Gottlieb Fichte and Friedrich Wilhelm von Schnelling.
 
   See Stein and Muller, _Die Geschichte von Erlangen_ (1898).

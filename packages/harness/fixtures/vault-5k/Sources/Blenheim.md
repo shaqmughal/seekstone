@@ -43,7 +43,7 @@ from the dispositions of the French marshal that this weak point of
 junction of his two armies was exactly that at which decisive action was
 to be expected. Tallard therefore had a few horse on his right between
 the Danube and Blenheim, a mass of infantry in his centre at Blenheim
-itself, and a long line of cavalry supported by a few battalions forming
+itself, and a long line of cavalry supported by a few [[Battalion|battalions]] forming
 his left wing in the plain, and connecting with the right of Marsin's
 army. This army was similarly drawn up. The cavalry right wing was in
 the open, the French infantry near Oberglau, which was strongly held,
@@ -99,7 +99,7 @@ of them the finest of the French army, surrendered.
 
 The losses of the allies are stated at 4500 killed and 7500 wounded
 (British 670 killed and 1500 wounded). Of the French and Bavarians
-11,000 men, 100 guns and 200 colours and standards were taken; besides
+11,000 men, 100 guns and 200 [[Colours|colours]] and standards were taken; besides
 the killed and wounded, the numbers of which vere large but
 uncertain--many were drowned in the Danube. Marsin's army, though it
 lost heavily, was drawn off in good order; Tallard's was almost

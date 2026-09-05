@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Comayagua"
 
 COMAYAGUA, the capital of the department of Comayagua in central
 Honduras, on the right bank of the river Ulua, and on the interoceanic
-railway from Puerto Cortes to Fonseca Bay. Pop. (1900) about 8000.
+railway from Puerto Cortes to [[Fonseca]] Bay. Pop. (1900) about 8000.
 Comayagua occupies part of a fertile valley, enclosed by mountain
 ranges. Under Spanish rule it was a city of considerable size and
 beauty, and in 1827 its inhabitants numbered more than 18,000. A fine
@@ -19,10 +19,10 @@ prosperity, for most of the handsome public buildings erected in the
 colonial period have fallen into disrepair. The present city chiefly
 consists of low adobe houses and cane huts, tenanted by Indians. The
 university founded in 1678 has ceased to exist, but there is a school of
-jurisprudence. In the neighbourhood are many ancient Indian ruins (see
-CENTRAL AMERICA: _ARCHAEOLOGY_).
+[[Jurisprudence|jurisprudence]]. In the neighbourhood are many ancient Indian ruins (see
+[[Central America|CENTRAL AMERICA]]: _[[Archaeology|ARCHAEOLOGY]]_).
 
-Founded in 1540 by Alonzo Caceres, who had been instructed by the
+Founded in 1540 by Alonzo [[Caceres]], who had been instructed by the
 Spanish government to find a site for a city midway between the two
 oceans, Valladolid la Nueva, as the town was first named, soon became
 the capital of Honduras. It received the privileges of a city in 1557,

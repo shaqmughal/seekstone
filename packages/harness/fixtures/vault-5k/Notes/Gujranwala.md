@@ -12,12 +12,12 @@ The DISTRICT comprises an area of 3198 sq. m. In 1901 the population was
 divided between a low alluvial tract along the rivers Chenab and Degh
 and the upland between them, which forms the central portion of the
 Rechna Doab, intermediate between the fertile submontane plains of
-Sialkot and the desert expanses of Jhang. Part of the upland tract has
+Sialkot and the [[Desert|desert]] expanses of Jhang. Part of the upland tract has
 been brought under cultivation by the Chenab canal. The country is very
 bare of trees, and the scenery throughout is tame and in the central
 plateau becomes monotonous. It seems likely that the district once
 contained the capital of the Punjab, at an epoch when Lahore had not
-begun to exist. We learn from the Chinese Buddhist pilgrim, Hsuan Tsang,
+begun to exist. We learn from the Chinese Buddhist pilgrim, [[Hsuan Tsang]],
 that about the year 630 he visited a town known as Tse-kia (or Taki),
 the metropolis of the whole country of the five rivers. A mound near the
 modern village of Asarur has been identified as the site of the ancient

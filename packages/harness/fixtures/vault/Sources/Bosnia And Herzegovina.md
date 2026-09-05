@@ -1,13 +1,13 @@
 # Bosnia And Herzegovina
 
 BOSNIA AND HERZEGOVINA, or BOSNIA-HERZEGOVINA, two provinces formerly
-included in European Turkey, which now, together with Dalmatia, form the
+included in European Turkey, which now, together with [[Dalmatia]], form the
 southernmost territories of the Austro-Hungarian Monarchy. The name
 _Herzegovina_ is also written _Hertzegovina, Hertsegovina_ or, in
 Croatian, _Hercegovina_. In shape roughly resembling an equilateral
 triangle, with base uppermost, Bosnia and Herzegovina cover an area of
-19,696 sq. m., in the north-west of the Balkan Peninsula. They are
-bounded N. and N.W. by Croatia-Slavonia; W. and S.W. by Dalmatia; S.E.
+19,696 sq. m., in the north-west of the [[Balkan Peninsula]]. They are
+bounded N. and N.W. by [[Croatia-Slavonia]]; W. and S.W. by Dalmatia; S.E.
 by Montenegro and the Sanjak of Novibazar; and N.E. by Servia. Opposite
 to the promontory of Sabbioncello, and at the entrance to the Bocche di
 Cattaro, the frontier of Herzegovina comes down to the Adriatic; but
@@ -32,7 +32,7 @@ system, no large stream finding a way to the Adriatic. The Save flows
 eastward along the northern frontier for 237 m. It is joined by four
 main tributaries, the Drina, Bosna, Vrbas and Una. The Drina is formed
 on the Montenegrin frontier by the united streams of the Tara and Piva;
-curving north-eastwards past Visegrad, it marches for 102 m. with
+curving north-eastwards past Visegrad, it [[Marches|marches]] for 102 m. with
 Servian territory, and falls into the Save at Racha, after a total
 course of 155 m. The Bosna issues from many springs near Serajevo, and
 winds for 107 m. northward, through a succession of fertile glens,
@@ -46,22 +46,22 @@ Novi it is joined by the Sana, a considerable affluent.
 
 Herzegovina, which lies south of Bosnia, in a parallelogram defined by
 Montenegro, Dalmatia, the Dinaric Alps, and an irregular line drawn from
-a point 25 m. west-north-west of Mostar to the bend of the river
+a point 25 m. west-north-west of Mostar to the [[Bend|bend]] of the river
 Narenta, differs in many respects from the larger territory. Its
 mountains, which belong to the Adriatic watershed, and form a
 continuation of the Montenegrin highlands, are less rounded and more
-dolomitic in character. They descend in parallel ridges of grey Karst
-limestone, south-westwards to the sea; their last summits reappear in
+dolomitic in character. They descend in parallel ridges of grey [[Karst]]
+[[Limestone|limestone]], south-westwards to the sea; their last summits reappear in
 the multitude of rocky islands along the Dalmatian littoral. As in the
 peaks of Orjen, Orobac, Samotica and Veliki Kap, their height often
 exceeds 6000 ft. West of the Narenta, their flanks are in places covered
-with forests of beech and pine, but north-east of that river they
+with forests of [[Beech|beech]] and pine, but north-east of that river they
 present for the most part a scene of barren desolation. Their monotony
 is varied only by the fruitful river-valleys and _poljes_, or upland
 hollows, where the smaller towns and villages are grouped; the districts
 or cantons thus formed are walled round by a natural rampart of
 limestone. These _poljes_ may be described as oases in what is otherwise
-a desert expanse of mountains. The surface of some, as notably the
+a [[Desert|desert]] expanse of mountains. The surface of some, as notably the
 _Mostarsko Blato_, lying west of Mostar, is marshy, and in spring forms
 a lake; others are watered by streams which disappear in swallow-holes
 of the rock, and make their way by underground channels either to the
@@ -84,7 +84,7 @@ side and culminate in Lupoglav (6796 ft.) on the east, and Cvrstnica
 Herzegovina are to be regarded, in both their orographic and tectonic
 character, as a continuation of the South Alpine calcareous belt. Along
 the west frontier there appear broad and strongly marked zones of
-Cretaceous limestone, alternating with Jurassic and Triassic, joined by
+Cretaceous limestone, alternating with [[Jurassic]] and Triassic, joined by
 a strip of Palaeozoic formations running from the north-west corner of
 Bosnia. Next, proceeding from this region in an easterly direction, are
 the Neogene freshwater formations, filling up the greatest part of the
@@ -95,13 +95,13 @@ quartzite. Along the whole northern rim of Bosnia, as also in the
 fluvial and Karst valleys (_poljes_), are found diluvial and alluvial
 formations, interrupted at one place by an isolated granite layer.
 Bosnia is rich in minerals, including coal, iron, copper, chrome,
-manganese, cinnabar, zinc and mercury, besides marble and much excellent
+manganese, cinnabar, zinc and mercury, besides [[Marble|marble]] and much excellent
 building stone. Among the mountains, gold and silver were worked by the
 Romans, and, in the middle ages, by the Ragusans. After 1881 the Mining
-Company of Bosnia began to develop the coal and iron fields; and from
+Company of Bosnia began to develop the coal and iron [[Fields|fields]]; and from
 1886 its operations were continued by the government. Valuable salt is
-obtained from the pits at Dolnja Tuzla, and the southern part of
-Herzegovina yields asphalt and lignite. Mineral springs also abound, and
+obtained from the pits at [[Dolnja Tuzla]], and the southern part of
+Herzegovina yields [[Asphalt|asphalt]] and lignite. Mineral springs also abound, and
 those of Ilidze, near Serajevo, have been utilized since the days of
 the Romans; but the majority remained unexploited at the beginning of
 the 20th century.
@@ -119,22 +119,22 @@ Dalmatian mountains, oppressively hot in summer, when the mercury often
 rises beyond 110 deg. Fahr. The winter rains of the Karst region show
 that it belongs to the sub-tropical climatic zone.
 
-4. _Fauna._--In 1893 the bones of a cave-bear (_Ursus spelaeus_) were
+4. _Fauna._--In 1893 the [[Bone|bones]] of a cave-bear (_Ursus spelaeus_) were
 taken from a cavern of the Bjelasnica range, in Herzegovina, a discovery
 without parallel in the Balkan Peninsula. Of existing species the bear,
 wild-boar, badger, roe-deer and chamois may occasionally be seen in the
-remotest wilds of mountain and forest. Hares are uncommon, and the last
+remotest wilds of mountain and forest. [[Hare|Hares]] are uncommon, and the last
 red-deer was shot in 1814; but wolves, otters and squirrels abound.
 Snipe, woodcock, ducks and rails, in vast flocks, haunt the banks of the
 Drina and Save; while the crane, pelican, wild-swan and wild-goose are
 fairly plentiful. The lammergeier (_Gypaetus barbatus_) had almost
-become extinct in 1900; but several varieties of eagle and falcon are
+become extinct in 1900; but several varieties of [[Eagle|eagle]] and falcon are
 left. Falconry was long a pastime of the Moslem landlords. The
-destruction of game, recklessly carried out under Turkish rule, is
+destruction of [[Game|game]], recklessly carried out under Turkish rule, is
 prevented by the laws of 1880, 1883 and 1893, which enforced a close
 time, and rendered shooting-licences necessary. The list of reptiles
 includes the venomous _Vipera ammodytes_ and _Pelias berus_, while
-scorpions and lizards infest the stony wastes of the Karst. In the
+scorpions and [[Lizard|lizards]] infest the stony wastes of the Karst. In the
 museum at Serajevo there is a large entomological collection, including
 the remarkable _Pogonus anophthalmus_, from the underground Karst caves.
 The caves are rich in curious kinds of fish, _Paraphoxinus Gethaldii_,
@@ -151,25 +151,25 @@ and sterlet, from the Danube, are netted in the Save.
 
 5. _Flora._--Serajevo museum has a collection of the Bosnian flora,
 representing over 3000 species; among them, the rare _Veronica crinita,
-Pinus leucodermis, Picea omorica_ and _Daphne Blagayana_. About 50% of
+Pinus leucodermis, Picea omorica_ and _[[Daphne]] Blagayana_. About 50% of
 the occupied territory is clothed with forest. "Bosnia begins with the
 forest," says a native proverb, "Herzegovina with the rock"; and this
 account is, broadly speaking, accurate, although the Bosnian Karst is as
 bare as that of Herzegovina. Below the mountain crests, where only the
-hardiest lichens and mosses can survive, comes a belt of large timber,
-including many giant trees, 200 ft. high, and 20 ft. in girth at the
+hardiest [[Lichens|lichens]] and mosses can survive, comes a belt of large timber,
+including many [[Giant|giant]] trees, 200 ft. high, and 20 ft. in girth at the
 level of a man's shoulder. Dense brushwood prevails on the foothills.
 There are three main zones of woodland. Up to 2500 ft. among the ranges
 of northern Bosnia, the sunnier slopes are overgrown by oaks, the
 shadier by beeches. Farther south, in central Bosnia, the oak rarely
-mounts beyond the foothills, being superseded by the beech, elm, ash,
+mounts beyond the foothills, being superseded by the beech, [[Elm|elm]], ash,
 fir and pine, up to 5000 ft. The third zone is characterized by the
 predominance, up to 6000 ft., of the fir, pine and other conifers. In
 all three zones occur the chestnut, aspen, willow (especially _Salix
-laurea_), hornbeam, birch, alder, juniper and yew; while the mountain
+laurea_), hornbeam, [[Birch|birch]], alder, juniper and yew; while the mountain
 ash, hazel, wild plum, wild pear and other wild fruit trees are found at
 rarer intervals. Until 1878 the forests were almost neglected;
-afterwards, the government was forced to levy a graduated tax on goats,
+afterwards, the government was forced to [[Levy|levy]] a graduated tax on goats,
 owing to the damage they inflicted upon young trees, and to curtail the
 popular rights of cutting timber and fir-wood and of pasturage. These
 measures were largely successful, but in 1902 the export of oak staves
@@ -188,8 +188,8 @@ surface of Bosnia and Herzegovina was laid out as follows:--
   Unproductive.          210,998
 
 Apart from the arid wastes of the Karst, the soil is well adapted for
-the growing of cereals, especially Indian corn; olives, vines,
-mulberries, figs, pomegranates, melons, oranges, lemons, rice and
+the growing of cereals, especially Indian [[Corn|corn]]; olives, vines,
+mulberries, figs, pomegranates, melons, oranges, [[Lemon|lemons]], rice and
 tobacco flourish in Herzegovina and the more sheltered portions of
 Bosnia. Near Doboj, on the Bosna, there is a state sugar-refinery, for
 which beetroot is largely grown in the vicinity. _Pyrethrum
@@ -197,12 +197,12 @@ cinerariaefolium_ is exported for the manufacture of insect-powder, and
 sunflowers are cultivated for the oil contained in their seeds. The
 plum-orchards of the Posavina furnish prunes and a spirit called
 _slivovica, shlivovitsa_ or _sliwowitz_. This district is the
-headquarters of a thriving trade in pigs. Poultry, bees and silkworms
+headquarters of a thriving trade in pigs. Poultry, [[Bee|bees]] and silkworms
 are commonly kept. On the whole agriculture is backward, despite the
 richness of the soil; for the cultivators are a very conservative race,
-and prefer the methods and implements of their ancestors. Many
+and prefer the methods and [[Implement|implements]] of their ancestors. Many
 improvements were, nevertheless, introduced by the government after
-1878. Machinery was lent to the farmers, and free grants of seed were
+1878. Machinery was [[Lent|lent]] to the [[Farmer|farmers]], and free grants of seed were
 made. Model farms were established at Livno and at Gacko, on the
 Montenegrin border; a school of viticulture near Mostar; a model
 poultry-farm at Prijedor, close to the Croatian boundary; a school of
@@ -224,15 +224,15 @@ enactment, owned by the state; in practice, it was held by the Moslem
 _begs_ or _beys_ (nobles) and _agas_ (landlords), who let it to the
 peasantry. The landlord received from his tenant (_kmet_) a fixed
 percentage, usually one third (_tretina_), of the annual produce; and,
-of the remaining two thirds, the cash equivalent of one tenth
+of the remaining two thirds, the [[Cash|cash]] equivalent of one tenth
 (_desetina_) went to the state. The amount of the _desetina_ was always
-fixed first, and served as a basis for the assessment of the _tretina_,
+fixed first, and served as a basis for the [[Assessment|assessment]] of the _tretina_,
 which, however, was generally paid in kind. At any time the tenant could
 relinquish his holding; but he could only be evicted for refusing to pay
 his _tretina_, for wilful neglect of his land or for damage done to it.
 The landlord was bound to keep his tenants' dwellings and outhouses in
 repair. Should he desire to sell his estates, the right of pre-emption
-belonged to the tenants, or, in default, to the neighbours. Thus foreign
+belonged to the tenants, or, in [[Default|default]], to the neighbours. Thus foreign
 speculators in land were excluded, while a class of peasant proprietors
 was created; its numbers being increased by the custom that, if any man
 reclaimed a piece of waste land, it became his own property after ten
@@ -248,7 +248,7 @@ officials, who meet in Sarajevo, under state supervision. Its income
 rose to L25,000 in 1895, having quadrupled itself in ten years. The
 _Vakuf_ tenants were at that time extremely prosperous, for their rent
 had been fixed for ten years in advance on the basis of the year's
-harvest, and so had not risen proportionately to the value of their
+[[Harvest|harvest]], and so had not risen proportionately to the value of their
 holdings.
 
 8. _Industries and Commerce._--Beside agriculture, which employed over
@@ -260,17 +260,17 @@ development of the house industry. More particularly, chased and inlaid
 metallic wares, _bez_ (thin cotton) and carpet-weaving receive
 government support. Besides the sugar-refinery already mentioned, there
 were in 1900 four tobacco factories, a national printing-press, an
-annular furnace for brick-burning, an iron-foundry and several
+[[Annular|annular]] furnace for brick-burning, an iron-foundry and several
 blast-furnaces, under the management of the state. Among the larger
 private establishments there existed in the same year seven breweries,
-one brandy distillery, two jam, two soap and candle factories, two
+one [[Brandy|brandy]] distillery, two jam, two soap and [[Candle|candle]] factories, two
 building and furniture works, a factory for spinning thread, one iron
 and steel works, one paper and one ammonia and soda factory, and one
 mineral-oil refinery.
 
 In respect of foreign trade Bosnia and Herzegovina were in 1882 included
 in the customs and commercial system of Austria-Hungary, to the
-extinction of all intermediate imposts. Since 1898 special statistics
+extinction of all intermediate [[Impost|imposts]]. Since 1898 special statistics
 have been drawn up respecting their trade also with Austria and Hungary.
 According to these statistics the most important articles of export are
 coal and turf, fruit, minerals, soda, iron and steel, and cattle. Other
@@ -280,7 +280,7 @@ stuffs, building materials, drinks, sugar, machinery, glass, fats,
 clothes, wooden and stone wares, and various manufactured goods.
 
 There is a national bank in Serajevo, which carries on a hypothecary
-credit business and manages the wholesale trade of the tobacco
+[[Credit|credit]] business and [[Manage|manages]] the wholesale trade of the tobacco
 factories. There are savings banks in Banjaluka, Bjelina and Brcka.
 
 9. _Communications._--The construction of carriage-roads, wholly
@@ -306,13 +306,13 @@ of the principal towns there are also government hotels.
 Serajevo, with 41,543 inhabitants in 1895, is the capital of the
 combined provinces, and other important places are Mostar (17,010), the
 capital of Herzegovina, Banjaluka (14,812), Dolnja Tuzla (11,034),
-Travnik (6626), Livno (5273), Visoko(5000), Foca (4217), Jajce (3929)
+Travnik (6626), Livno (5273), Visoko(5000), [[Foca]] (4217), Jajce (3929)
 and Trebinje (2966). All these are described in separate articles.
 
 10. _Population and National Characteristics._--In 1895 the population,
 which tends to increase slowly, with a preponderance of males over
 females, numbered 1,568,092. The alien element is small, consisting
-chiefly of Austro-Hungarians, gipsies, Italians and Jews. Spanish is a
+chiefly of Austro-Hungarians, [[Gipsies|gipsies]], Italians and Jews. Spanish is a
 comomon language of the Jews, whose ancestors fled hither, during the
 16th century, to escape the Inquisition. The natives are officially
 described as Bosniaks, but classify themselves according to religion.
@@ -323,33 +323,33 @@ almost identical with Servian, though written by the Roman Catholics in
 Latin instead of Cyrillic letters. A full account of this language, and
 its literature, is given under SERVIA and CROATIA-SLAVONIA. To avoid
 offending either "Serbs" or "Croats," it is officially designated
-"Bosnisch." In some parts of Herzegovina the dress, manners and physical
+"Bosnisch." In some parts of Herzegovina the [[Dress|dress]], [[Manners|manners]] and physical
 type of the peasantry are akin to those of Montenegro. The Bosnians or
 Bosniaks resemble their Servian kinsfolk in both appearance and
 character. They have the same love for poetry, music and romance; the
 same intense pride in their race and history; many of the same
-superstitions and customs. The Christians retain the Servian costume,
+superstitions and customs. The Christians retain the Servian [[Costume|costume]],
 modified in detail, as by the occasional use of the turban or fez. The
 "Turkish" women have in some districts abandoned the veil; but in others
 they even cover the eyes when they leave home. Polygamy is almost
 unknown, possibly because many of the "Turks" are descended from the
-austere Bogomils, who were, in most cases, converted to Islam, but more
+austere [[Bogomils]], who were, in most cases, converted to Islam, but more
 probably because the "Turks" are as a rule too poor to provide for more
 than one wife on the scale required by Islamic law. In general, the
 people of Bosnia and Herzegovina are sober and thrifty, subsisting
-chiefly on Indian corn, dried meat, milk and vegetables. Their houses
+chiefly on Indian corn, dried [[Meat|meat]], milk and vegetables. Their houses
 are built of timber and thatch, or clay tiles, except in the Karst
 region, where stone is more plentiful than wood. Family ties are strong,
 and the women are not ill-treated, although they share in all kinds of
-manual labour.
+[[Manual|manual]] labour.
 
-11. _Government._--At the time of the Austrian annexation in 1908, the
+11. _Government._--At the time of the Austrian [[Annexation|annexation]] in 1908, the
 only remaining token of Ottoman suzerainty was that the foreign consuls
 received their _exequatur_ from Turkey, instead of Austria; otherwise
 the government of the country was conducted in the name of the Austrian
 emperor, through the imperial minister of finance at Vienna, who
 controlled the civil service for the occupied territory. Its central
-bureau, with departments of the interior, religion and education,
+[[Bureau|bureau]], with departments of the interior, religion and education,
 finance and justice, was established at Serajevo; and its members were
 largely recruited among the Austrian Slavs, who were better able than
 the Germans to comprehend the local customs and language. A consultative
@@ -359,29 +359,29 @@ administrative purposes the country was divided into 6 districts or
 prefectures (_kreise_), which were subdivided into 49 subprefectures
 (_bezirke_).
 
-Every large town has a mayor and deputy mayor, appointed by the
+Every large town has a [[Mayor|mayor]] and [[Deputy|deputy]] mayor, appointed by the
 government, and a town council, of whom one third are similarly
 appointed, while the citizens choose the rest; a proportionate number of
 councillors representing each religious community. To ensure economy,
 the decisions of this body are supervised by a government commissioner.
-The commune is preserved, somewhat as in Servia (q.v.), but with
+The [[Commune|commune]] is preserved, somewhat as in Servia (q.v.), but with
 modified powers. Each district has its court of law, where cases are
-tried by three official judges and two assessors, selected from the
+tried by three official judges and two [[Assessor|assessors]], selected from the
 leading citizens. The assessors vote equally with the judges, and three
 votes decide the verdict. Except where the litigants and witnesses are
 German, the Serbo-Croatian language is used. An appeal, on points of law
 alone, may be carried to the supreme court in Serajevo, and there tried
 by five judges without assessors. In cases not involving a sum greater
-than 300 florins (L25), no appeal will lie; and where only 50 florins
+than 300 [[Florin|florins]] (L25), no appeal will lie; and where only 50 florins
 (L4:3:4) are in question, the case is summarily decided at the
-_Bagatelle Gericht_, or court for trifling cases. The number of lawyers
+_[[Bagatelle]] Gericht_, or court for trifling cases. The number of lawyers
 admitted to practice is strictly limited. As far as possible, the
 Turkish law was retained during the period of occupation; all cases
 between Moslems were settled in separate courts by Moslem judges,
 against whom there was an appeal to the supreme court, aided by
 assessors. All able-bodied males are liable, on reaching their 21st
-year, for 3 years' service with the colours, and 9 years in the reserve.
-The garrison numbers about 20,000 Austrian troops, and there are 7100
+year, for 3 years' service with the [[Colours|colours]], and 9 years in the reserve.
+The [[Garrison|garrison]] numbers about 20,000 Austrian troops, and there are 7100
 native troops. The principal military stations are Bjelina, Zvornik,
 Visegrad, Gorazda, Foca, Bilek, Avtovac and Trebinje, along the eastern
 frontier; Mostar and Stolac in the south; Livno in the west; and Bihac
@@ -391,10 +391,10 @@ in the north.
 35% Moslems and 21% Roman Catholics. The patriarch of Constantinople is
 the nominal head of the Orthodox priesthood; but by an arrangement
 concluded in 1879, his authority was delegated to the Austrian emperor,
-in exchange for a revenue equal to the tribute previously paid by the
+in [[Exchange|exchange]] for a revenue equal to the tribute previously paid by the
 clergy of the provinces; and his nominations for the metropolitanate of
 Serajevo, and the bishoprics of Dolnja Tuzla, Banjaluka and Mostar
-require the imperial assent. Under Turkish rule the communes chose their
+require the imperial assent. Under Turkish rule the communes [[Chose|chose]] their
 own parish priests, but this right is now vested in the government. The
 Roman Catholics have an archbishop in Serajevo, a bishop in Mostar and
 an apostolic administrator in Banjaluka. Serajevo is also the seat of
@@ -405,19 +405,19 @@ _Vakuf_. Considerable bitterness prevails between the rival confessions,
 each aiming at political ascendancy, but the government favours none. In
 order to conciliate even the Moslems, who include the bulk of the great
 landholders and of the urban population, its representatives visit the
-mosques in state on festivals; grants are made for the Mecca pilgrimage;
-and even the howling Dervishes in Serajevo are maintained by the state.
+mosques in state on festivals; grants are made for the [[Mecca]] pilgrimage;
+and even the howling [[Dervish|Dervishes]] in Serajevo are maintained by the state.
 
 13. _Education._--Education for boys and girls between the ages of seven
 and fifteen is free, but not compulsory. The state supports primary
-schools (352 in 1905), where reading, writing, arithmetic and history
+schools (352 in 1905), where reading, writing, [[Arithmetic|arithmetic]] and history
 are taught; and separate instruction is given by the Orthodox, Roman
 Catholic, Jewish and Moslem clergy. There are also various private
 schools, belonging to the different religious communities. These receive
 a grant from the government, which nevertheless encourages all parents
 to send their children to its own schools. One of the earliest and
 best-known private schools is the orphanage at Serajevo, founded in 1869
-by two English ladies, Miss Irby and Miss Mackenzie. In the Moslem
+by two English ladies, Miss Irby and Miss [[Mackenzie]]. In the Moslem
 schools, which, in 1905, comprised 855 _mektebs_ or primary schools, and
 41 _madrasas_ or high schools, instruction is usually given in Turkish
 or Arabic; while in Orthodox schools the books are printed in Cyrillic
@@ -426,7 +426,7 @@ characters.
 For higher education there were in 1908 three gymnasia, a real-school at
 Banjaluka, a technical college and a teachers' training-college at
 Serajevo, where, also, is the state school for Moslem law-students,
-called _scheriatschule_ from the _sheri_ or Turkish code; and various
+called _scheriatschule_ from the _sheri_ or Turkish [[Code|code]]; and various
 theological, commercial and art institutes. Promising pupils are
 frequently sent to Vienna University, with scholarships, which may be
 forfeited if the holders engage in political agitation.
@@ -435,13 +435,13 @@ forfeited if the holders engage in political agitation.
 discovered in Bosnia or Herzegovina; but many later prehistoric remains
 are preserved in Serajevo museum. The neolithic station of Butmir, near
 Ilidze, was probably a lake-dwellers' colony, and has yielded numerous
-stone and horn implements, clay figures and pottery. Not far off,
+stone and [[Horn|horn]] implements, clay figures and pottery. Not far off,
 similar relics were found at Sobunar, Zlatiste and Debelobrdo; iron and
 bronze ornaments, vessels and weapons, often of elaborate design, occur
 in the huts and cemeteries of Glasinac, and in the cemetery of Jezerine,
 where they are associated with objects in silver, tin, amber, glass, &c.
 Among the numerous finds made in other districts may be mentioned the
-discovery, at Vrankamer, near Bihac, of 98 African coins, the oldest of
+discovery, at Vrankamer, near Bihac, of 98 African [[Coin|coins]], the oldest of
 which dates from 300 B.C. Many vestiges of Roman rule survive, such as
 roads, mines, ruins, tombs, coins, frescoes and inscriptions. Such
 remains occur frequently near Bihac, Foca, Livno, Jajce and Serajevo;
@@ -453,7 +453,7 @@ those of Dervent, Doboj, Maglaj, Zepce and Vranduk, on the Bosna; Bihac,
 on the Una; Prijedor and Kljuc, on the Sana; and Stolac, Gabela,
 Irebinje and Konjica, in Herzegovina. The bridge across the Narenta, at
 Konjica, is said to date from the 10th century. A group of signs carved
-on some rocks near Visegrad have been regarded as cuneiform writing, but
+on some rocks near Visegrad have been regarded as [[Cuneiform|cuneiform]] writing, but
 are probably medieval masonic symbols. In a few cases, such as the
 Begova Dzamia at Serajevo, the Foca mosques and the Mostar bridge, the
 buildings raised by the Turks are of high architectural merit. More
@@ -461,7 +461,7 @@ remarkable are the tombstones, generally measuring 6 ft. in length, 3 in
 height and 3 in breadth, which have been supposed to mark the graves of
 the Bogomils. These are, as a rule, quite unadorned, a few only being
 decorated with rude has-reliefs of animals, plants, weapons, the
-crescent and star, or, very rarely, the cross.
+[[Crescent|crescent]] and star, or, very rarely, the cross.
 
 
   Formation of the Banate.
@@ -480,7 +480,7 @@ district of Livno. The old Illyrian population was rapidly absorbed or
 expelled, its Latin institutions being replaced by the autonomous tribal
 divisions, or _Zupanates_, of the Slavs. Pressure from Hungary and
 Byzantium gradually welded these isolated social units into a single
-nation, whose ruler was known as the Ban (q.v.). But the central power
+nation, whose ruler was known as the [[Ban]] (q.v.). But the central power
 remained weak, and the country possessed no strong natural frontiers. It
 seems probable that the bans were originally viceroys of the Croatian
 kings, who resumed their sovereignty over Bosnia from 958 to 1010.
@@ -506,11 +506,11 @@ unusually able ruler, connected by marriage with the powerful Servian
 dynasty of Nemanya, and by treaty with the republic of Ragusa,[3] Kulin
 perceived in the new doctrines a barrier between his subjects and
 Hungary. He was compelled to recant, under strong pressure from Pope
-Innocent III. and Bela III. of Hungary; but, despite all efforts,
+[[Innocent]] III. and [[Bela]] III. of Hungary; but, despite all efforts,
 Bogomilism incessantly gained ground. In 1232 Stephen, the successor of
-Kulin, was dethroned by the native magnates, who chose instead Matthew
+Kulin, was dethroned by the native magnates, who chose instead [[Matthew]]
 Ninoslav, a Bogomil. This event illustrates the three dominant
-characteristics of Bosnian history: the strength of the aristocracy; the
+characteristics of Bosnian history: the strength of the [[Aristocracy|aristocracy]]; the
 corresponding weakness of the central authority, enhanced by the lack of
 any definite rule of inheritance; and the supreme influence of religion.
 Threatened by Pope Gregory IX. with a crusade, Ninoslav was baptized,
@@ -521,7 +521,7 @@ concluded after a Bosnian campaign against Croatia. A renewal of the
 crusade proving equally vain, in 1247 Pope Innocent III. entered into
 friendly negotiations with the ban, whose country was for the moment an
 independent and formidable state. The importance attached to its
-conversion is well attested by the correspondence of Pope Gregory IX.
+[[Conversion|conversion]] is well attested by the correspondence of Pope Gregory IX.
 with Ninoslav and various Bosnian ecclesiastics.[4]
 
 
@@ -529,7 +529,7 @@ with Ninoslav and various Bosnian ecclesiastics.[4]
 
 On the death of Ninoslav in 1250, vigorous efforts were made to
 exterminate the Bogomil heresy; and to this end, Bela IV., who appeared
-as the champion of Roman Catholicism, secured the election of his
+as the [[Champion|champion]] of Roman Catholicism, secured the election of his
 nominee Prijesda to the banate. Direct Hungarian suzerainty lasted until
 1299, the bans preserving only a shadow of their former power. From 1299
 to 1322 the country was ruled by the Croatian princes, Paul and Mladen
@@ -543,10 +543,10 @@ and greatest of the Bosnian bans.
   Stephen Kotromanic.
 
 At this period the Servian empire had reached its zenith; Hungary,
-governed by the feeble monarch, Charles Robert of Anjou, was striving to
+governed by the feeble monarch, Charles Robert of [[Anjou]], was striving to
 crush the insurgent magnates of Croatia; Venice, whose commercial
 interests were imperilled, desired to restore peace and maintain the
-balance of power. Dread of Servia impelled Kotromanic to aid Hungary. In
+[[Balance Of Power|balance of power]]. Dread of Servia impelled Kotromanic to aid Hungary. In
 an unsuccessful war against the Croats (1322-26), from which Venice
 derived the sole advantage, the ban appears to have learned the value of
 sea-power; immediately afterwards he occupied the principality of Hlum
@@ -574,7 +574,7 @@ But in 1366 Tvrtko overcame all opposition at home, and forthwith
 embarked on a career of conquest, recapturing Hlum and annexing part of
 Dalmatia. The death of Stephen Dushan, in 1356, had left his empire
 defenceless against the Hungarians, Turks and other enemies; and to win
-help from Bosnia the Servian tsar Lazar ceded to Tvrtko a large tract of
+help from Bosnia the Servian tsar [[Lazar]] ceded to Tvrtko a large tract of
 territory, including the principality of Tribunia. In 1376 Tvrtko was
 crowned as "Stephen I., king of Bosnia, Servia, and all the Sea-coast,"
 although Lazar retained his own title and a diminished authority. The
@@ -584,10 +584,10 @@ by establishing a maritime state. With Venetian aid he wrested from
 Hungary the entire Adriatic littoral between Fiume and Cattaro, except
 the city of Zara; thus adding Dalmatia to his kingdom at the moment when
 Servia was lost through the Ottoman victory of Kossovo (1389). At his
-coronation he had proclaimed his purpose to revive the ancient Servian
+[[Coronation|coronation]] he had proclaimed his purpose to revive the ancient Servian
 empire; in 1378 he had married the daughter of the last Bulgarian tsar;
 and it is probable that he dreamed of founding an empire which should
-extend from the Adriatic to the Black Sea. The disaster of Kossovo,
+extend from the Adriatic to the [[Black Sea]]. The disaster of Kossovo,
 though fatal to his ambition, did not immediately react on Bosnia
 itself; and when Tvrtko died in 1391, his kingdom was still at the
 summit of its prosperity.
@@ -649,7 +649,7 @@ the Roman Catholics withdrew into Croatia-Slavonia and south Hungary,
 where they ultimately fell again under Ottoman dominion. Others found
 shelter in Rome or Venice, and a large number settled in Ragusa, where
 they doubtless contributed to the remarkable literary development of the
-16th and 17th centuries in which the use of the Bosnian dialect was a
+16th and 17th centuries in which the use of the Bosnian [[Dialect|dialect]] was a
 characteristic feature. Some of the most daring spirits waged war on
 their conquerors from Clissa in Dalmatia, and afterwards from Zengg in
 maritime Croatia, where they formed the notorious pirate community of
@@ -686,15 +686,15 @@ presented some points of resemblance to their own doctrines. The nominal
 governor of the country was the Turkish _vali_, who resided at Banjaluka
 or Travnik, and rarely interfered in local affairs, if the taxes were
 duly paid. Below him ranked the newly converted Moslem aristocracy, who
-adopted the dress, titles and etiquette of the Turkish court, without
+adopted the dress, titles and [[Etiquette|etiquette]] of the Turkish court, without
 relinquishing their language or many of their old customs. They dwelt in
 fortified towns or castles, where the vali was only admitted on
 sufferance for a few days; and, at the outset, they formed a separate
-military caste, headed by 48 _kapetans_--landholders exercising
+military [[Caste|caste]], headed by 48 _kapetans_--landholders exercising
 unfettered authority over their retainers and Christian serfs, but
 bound, in return, to provide a company of mounted troops for the service
 of their sovereign. Their favourite pursuits were fighting, either
-against a common enemy or among themselves, hunting, hawking and
+against a common enemy or among themselves, [[Hunting|hunting]], hawking and
 listening to the minstrels who celebrated their exploits. Their yearly
 visits to Serajevo assumed in time the character of an informal
 parliament, for the discussion of national questions; and their rights
@@ -707,9 +707,9 @@ Herzegovina, became grand vizier; and he was succeeded by the
 distinguished soldier and statesman, Mahomet Beg Sokolovic, a Bosnian.
 Below the feudal nobility and their Moslem soldiers came the Christian
 serfs, tillers of the soil and taxpayers, whose lives and property were
-at the mercy of their lords. The hardships of their lot, and, above all,
+at the mercy of their lords. The hardships of their [[Lot|lot]], and, above all,
 the system by which the strongest of their sons were carried off as
-recruits for the corps of janissaries (q.v.), frequently drove them to
+recruits for the [[Corps|corps]] of janissaries (q.v.), frequently drove them to
 brigandage, and occasionally to open revolt.
 
 
@@ -724,7 +724,7 @@ Turkish campaigns in Hungary provided constant occupation for the nobles
 during a large part of the 16th and 17th centuries. But after the
 Ottoman defeat at Vienna in 1683, the situation changed. Instead of
 extending the foreign conquests of their sultan, the Bosnians were hard
-pressed to defend their own borders. Zvornik fell before the
+pressed to defend their own [[Borders|borders]]. Zvornik fell before the
 Austro-Hungarian army in 1688, and the Turkish vali, who was still
 officially styled the "vali of Hungary," removed his headquarters from
 Banjaluka to Travnik, a more southerly, and therefore a safer capital.
@@ -732,7 +732,7 @@ Two years later, the imperial troops reached Dolnja Tuzla, and retired
 with 3000 Roman Catholic emigrants. Serajevo was burned in 1697 by
 Eugene of Savoy, who similarly deported 40,000 Christians. The treaties
 of Carlowitz (1699) and Passarowitz (1718) deprived the Turks of all the
-Primorje, or littoral of Herzegovina, except the narrow enclaves of Klek
+Primorje, or littoral of Herzegovina, except the narrow [[Enclave|enclaves]] of Klek
 and Suttorina, left to sunder the Ragusan dominions from those of
 Venice. At the same time a strip of territory in northern Bosnia was
 ceded to Austria, which was thus able to control both banks of the Save.
@@ -747,12 +747,12 @@ as the Bosnian frontier.
 The reform of the Ottoman government contemplated by the sultan Mahmud
 II. (1808-1839) was bitterly resented in Bosnia, where Turkish prestige
 had already been weakened by the establishment of Servian autonomy under
-Karageorge. Many of the janissaries had married and settled on the land,
+[[Karageorge]]. Many of the janissaries had married and settled on the land,
 forming a strongly conservative and fanatical caste, friendly to the
 Moslem nobles, who now dreaded the curtailment of their own privileges.
 Their opportunity came in 1820, when the Porte was striving to repress
 the insurrections in Moldavia, Albania and Greece. A first Bosnian
-revolt was crushed in 1821; a second, due principally to the massacre of
+revolt was crushed in 1821; a second, due principally to the [[Massacre|massacre]] of
 the janissaries, was quelled with much bloodshed in 1827. After the
 Russo-Turkish War of 1828-29, a further attempt at reform was initiated
 by the sultan and his grand vizier, Reshid Pasha. Two years later came a
@@ -765,9 +765,9 @@ Bosnia," and was regarded by his followers as a saint. The Moslems of
 Herzegovina, under Ali Pasha Rizvanbegovic, remained loyal to the Porte,
 but in Bosnia Hussein Aga encountered little resistance. At Kossovo he
 was reinforced by 20,000 Albanians, led by the rebel Mustapha Pasha; and
-within a few weeks the united armies occupied the whole of Bulgaria, and
+within a few weeks the united armies occupied the whole of [[Bulgaria]], and
 a large part of Macedonia. Their career was checked by Reshid Pasha, who
-persuaded the two victorious commanders to intrigue against one another,
+persuaded the two victorious [[Commander|commanders]] to intrigue against one another,
 secured the division of their forces, and then fell upon each in turn.
 The rout of the Albanians at Prilipe and the capture of Mustapha at
 Scutari were followed by an invasion of Bosnia. After a desperate
@@ -794,7 +794,7 @@ restore quiet. Ali Pasha openly professed himself a loyal subject, but
 secretly sent reinforcements to the rebel aristocracy. The Turks proved
 everywhere successful. After a cordial reception by their commander Omer
 or Omar Pasha, Ali was imprisoned; he was shortly afterwards
-assassinated, lest his lavish bribery of Turkish officials should
+assassinated, lest his lavish [[Bribery|bribery]] of Turkish officials should
 restore him to favour, and bring disgrace on his captor (March 1851).
 
 
@@ -814,13 +814,13 @@ their produce; the central government imposed a tithe which had become
 an eighth by 1875. Three kinds of cattle-tax, the tax for exemption from
 military service, levied on every newborn male, forced labour on the
 roads, forced loan of horses, a heavy excise on grapes and tobacco, and
-a variety of lesser taxes combined to burden the Christian serfs; but
+a variety of lesser taxes combined to [[Burden|burden]] the Christian serfs; but
 even more galling than the amount was the manner in which these dues
 were exacted--the extortionate assessments of tax-farmers and excisemen,
 the brutal licence of the soldiery who were quartered on recalcitrant
 villagers. A crisis was precipitated by the example of Servian
 independence, the hope of Austrian intervention, and the public
-bankruptcy of Turkey.
+[[Bankruptcy|bankruptcy]] of Turkey.
 
 
   Christian rising of 1875.
@@ -840,11 +840,11 @@ struggle, and in April 1877 Russia declared war on the sultan.
 The Austro-Hungarian occupation, authorized on the 13th of July 1878 by
 the treaty of Berlin (arts. 23 and 26), was not easily effected; and,
 owing to the difficulty of military operations among the mountains, it
-was necessary to employ a force of 200,000 men. Haji Loja, the native
+was necessary to employ a force of 200,000 men. Haji [[Loja]], the native
 leader, was supported by a body of Albanians and mutinous Turkish
 troops, while the whole Moslem population bitterly resented the proposed
 change. The losses on both sides were very heavy, and, besides those who
-fell in battle, many of the insurgents were executed under martial law.
+fell in battle, many of the insurgents were executed under [[Martial|martial]] law.
 But after a series of stubbornly contested engagements, the Austrian
 general, Philippovic, entered Serajevo on the 19th of August, and ended
 the campaign on the 20th of September, by the capture of Bihac in the
@@ -853,21 +853,21 @@ was then handed over to the imperial ministry of finance; but the
 bureaucratic methods of the finance ministers, Baron von Hoffmann and
 Joseph de Szlavy, resulted only in the insurrection of 1881-82. Order
 was restored in June 1882, when the administration was entrusted to
-Benjamin von Kallay (q.v.), as imperial minister of finance. Kallay
+[[Benjamin]] von Kallay (q.v.), as imperial minister of finance. Kallay
 retained this position until his death on the 13th of July 1903, when he
 was succeeded by Baron Stephan Burian de Rajecz. During this period life
 and property were rendered secure, and great progress was achieved, on
 the lines already indicated, in creating an efficient civil service,
 harmonizing Moslem law with new enactments, promoting commerce, carrying
 out important public works, and reorganizing the fiscal and educational
-systems. All classes and creeds were treated impartially; and, although
+systems. All classes and [[Creeds|creeds]] were treated impartially; and, although
 the administration has been reproached alike for undue harshness and
 undue leniency, neither accusation can be sustained. Critics have also
 urged that Kallay fostered the desire for material welfare at the cost
 of every other national ideal; that, despite his own popularity, he
-never secured the goodwill of the people for Austria-Hungary; that he
+never secured the [[Goodwill|goodwill]] of the people for Austria-Hungary; that he
 left the agrarian difficulty unsolved, and the hostile religious
-factions unreconciled. These charges are not wholly unfounded; but the
+[[Faction|factions]] unreconciled. These charges are not wholly unfounded; but the
 chief social and political evils in Bosnia and Herzegovina may be traced
 to historical causes operative long before the Austro-Hungarian
 occupation, and above all to the political ambition of the rival
@@ -895,7 +895,7 @@ certainly encouraged the Serb and Moslem inhabitants of the occupied
 territory to petition the emperor for the grant of a constitution
 similar to that in force in the provinces of Austria proper. But the
 Austro-Hungarian government, profiting by the weakness of Russia after
-the war with Japan, and aware that the proclamation of Bulgarian
+the war with [[Japan]], and aware that the proclamation of Bulgarian
 independence was imminent, had already decided to annex Bosnia and
 Herzegovina, in spite of the pledges given at Berlin, and although the
 proposal was unpopular in Hungary. Its decision, after being
@@ -903,7 +903,7 @@ communicated to the sovereigns of the powers signatory to the treaty of
 Berlin, in a series of autograph letters from the emperor Francis
 Joseph, was made known to Bosnia and Herzegovina in an imperial rescript
 published on the 7th of October 1908. The Serb and Moslem delegates, who
-had started on the same day for Budapest, to present their petition to
+had started on the same day for [[Budapest]], to present their petition to
 the emperor, learned from the rescript that the government intended to
 concede to their compatriots "a share in the legislation and
 administration of provincial affairs, and equal protection for all
@@ -912,18 +912,18 @@ administration was, however, to be maintained, and the rescript did not
 promise that the new provincial diet would be more than a consultative
 assembly, elected on a strictly limited franchise.
 
-  BIBLIOGRAPHY.--G. Capus, _A travers la Bosnie et l'Herzegovine_
+  BIBLIOGRAPHY.--G. [[Capus]], _A travers la Bosnie et l'Herzegovine_
   (Paris, 1896) contains a detailed and fully illustrated account of the
   combined provinces, their resources and population. J. Asboth, _An
   Official Tour through Bosnia and Herzegovina_ (London, 1890) is
   valuable for details of local history, antiquities and topography: A.
-  Bordeaux, _La Bosnie populaire_ (Paris, 1904) for social life and
+  [[Bordeaux]], _La Bosnie populaire_ (Paris, 1904) for social life and
   mining. Much information is also contained in the works by Lamouche,
   Miller, Thomson, Joanne, Cambon, Millet, Hamard and Laveleye, cited
   under the heading BALKAN PENINSULA. See also B. Nikasinovic, _Bosnien
   und die Herzegovina unter der Verwaltung der osterreich-ungarischen
   Monarchie_ (Berlin, 1901, &c.), and M. Oransz, _Auf dem Rade durch
-  Kroatien und Bosnien_ (Vienna, 1903). The best map is that of the
+  Kroatien und Bosnien_ (Vienna, 1903). The best [[Map|map]] is that of the
   Austrian General Staff. See also for geology, J. Cvijic,
   _Morphologische und glaciale Studien aus Bosnien_ (Vienna, 1900); F.
   Katzer, _Geologischer Fuhrer durch Bosnien und Herzegovina_ (Serajevo,
@@ -961,7 +961,7 @@ assembly, elected on a strictly limited franchise.
 
 FOOTNOTES:
 
-  [1] This was soon modified in detail. Arrears of debt, for instance,
+  [1] This was soon modified in detail. Arrears of [[Debt|debt]], for instance,
     were made recoverable for one year only, instead of the ten years
     allowed by Turkish law.
 
@@ -983,7 +983,7 @@ FOOTNOTES:
     Venetian Republic, given by Shafarik, _Acta archivi Veneti_, &c.
 
   [7] For details of these events see Umar Effendi, _History of the War
-    in Bosnia_ (1737-1739). Translated by C. Fraser (London, 1830).
+    in Bosnia_ (1737-1739). Translated by C. [[Fraser]] (London, 1830).
 
   [8] For the Christian rebellion and its causes, see A.J. Evans,
     _Through Bosnia and Herzegovina on Foot_ (London, 1876); and W.J.
@@ -1001,7 +1001,7 @@ FOOTNOTES:
   Black Sea with the Sea of Marmora and forms part of the boundary
   between Europe and Asia. The channel is 18 m. long, and has a maximum
   breadth at the northern entrance of 2-3/4 m., a minimum breadth of
-  about 800 yds., and a depth varying from 20 to 66 fathoms in
+  about 800 yds., and a depth varying from 20 to 66 [[Fathom|fathoms]] in
   mid-stream. In the centre there is a rapid current from the Black Sea
   to the Sea of Marmora, but a counter-current sets in the opposite
   direction below the surface and along the shores. The surface current
@@ -1013,7 +1013,7 @@ FOOTNOTES:
   Bosporus are composed in the northern portion of different volcanic
   rocks, such as dolerite, granite and trachyte; but along the remaining
   course of the channel the prevailing formations are Devonian,
-  consisting of sandstones, marls, quartzose conglomerates, and
+  consisting of sandstones, [[Marl|marls]], quartzose conglomerates, and
   calcareous deposits of various kinds. The scenery on both sides is of
   the most varied and beautiful description, many villages lining each
   well-wooded shore, while on the European side are numerous fine

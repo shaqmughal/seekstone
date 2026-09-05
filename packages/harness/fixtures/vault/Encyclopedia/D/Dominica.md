@@ -8,7 +8,7 @@ type: reference
 # Dominica
 
 DOMINICA, the largest of the five presidencies in the colony of the
-Leeward Islands, British West Indies. It lies in 15° 30' N. and 61° 20'
+[[Leeward Islands]], British West Indies. It lies in 15° 30' N. and 61° 20'
 W., between the French islands of Martinique and Guadeloupe, at a
 distance of about 25 m. from each, is 29 m. long, has a maximum breadth
 of 16 m. and an area of 291 sq. m. A range of lofty rugged mountains
@@ -29,8 +29,8 @@ hills are covered with valuable timber, while coffee, limes, oranges,
 india-rubber trees, spices and all tropical fruits grow luxuriantly in
 the rich brown mould of the lowlands. There are some thirty streams of
 considerable size, besides numerous mountain torrents, and this
-abundance of water renders the island very fertile. The fisheries are
-productive, and honey and wax are furnished by wild bees, originally
+abundance of water renders the island very fertile. The [[Fisheries|fisheries]] are
+productive, and honey and wax are furnished by wild [[Bee|bees]], originally
 introduced from Europe. The temperature varies from 78° to 86° F. in the
 hot season from August to October, and from 72° to 84° in the cooler
 months; the rainfall varies in different parts from 50 to 162 in. per
@@ -38,10 +38,10 @@ annum, but the porous soil soon absorbs the rain, rendering the
 atmosphere dry and invigorating.
 
 The manufactures include sugar, lime-juice and essential oils; the
-exports are coffee, cocoa, sugar, limes and lime-juice, essential oils
+exports are coffee, [[Cocoa|cocoa]], sugar, limes and lime-juice, essential oils
 and fruit of all kinds. The inhabitants in 1901 numbered 28,894. The
 majority are negroes; the whites are of French and British descent.
-There are also a few Caribs, the remnant of the aboriginal population. A
+There are also a few [[Caribs]], the remnant of the aboriginal population. A
 French _patois_ is the language of the peasantry, but English is
 generally understood. The capital, Roseau (5764), is a fortified town
 and a port; Portsmouth, the only other town, possesses the better
@@ -70,7 +70,7 @@ Rodney's victory over De Grasse in the neighbouring sea in 1782 was
 followed by the restoration of the island to Britain in 1783; in the
 interval the trade of Dominica had been ruined. In 1795 a force from
 Guadeloupe made an unsuccessful descent on the island, and in 1805 the
-French general La Grange, at the head of 4000 troops, took Roseau and
+French general La [[Grange]], at the head of 4000 troops, took Roseau and
 pillaged the island--an event now remembered as the most memorable in
 its history. The French were, however, unable to make good their hold,
 and Dominica has remained since undisturbed in British possession. Its

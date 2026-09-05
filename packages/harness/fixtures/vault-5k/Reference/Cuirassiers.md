@@ -11,7 +11,7 @@ men-at-arms or gendarmerie forming the heavy cavalry of feudal armies.
 Their special characteristic was the wearing of full armour, which they
 retained long after other troops had abandoned it. Hence they became
 distinguished as cuirassiers. The first Austrian corps of _kyrissers_
-was formed in 1484 by the emperor Maximilian and was 100 strong. In 1705
+was formed in 1484 by the emperor [[Maximilian]] and was 100 strong. In 1705
 Austria possessed twenty regiments of cuirassiers. After the war of
 1866, however, the existing regiments were converted into dragoons.
 Russia has likewise in modern times abolished all but a few guard

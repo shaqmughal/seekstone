@@ -4,12 +4,12 @@ GAILLARD, GABRIEL HENRI (1726-1806), French historian, was born at
 Ostel, Picardy, in 1726. He was educated for the bar, but after
 finishing his studies adopted a literary career, ultimately devoting his
 chief attention to history. He was already a member of the Academy of
-Inscriptions and Belles-lettres (1760), when, after the publication of
+Inscriptions and [[Belles-Lettres|Belles-lettres]] (1760), when, after the publication of
 the three first volumes of his _Histoire de la rivalite de la France et
 d'Angleterre_, he was elected to the French Academy (1771); and when
 Napoleon created the Institute he was admitted into its third class
 (_Academie francaise_) in 1803. For forty years he was the intimate
-friend of Malesherbes, whose life (1805) he wrote. He died at St Firmin,
+friend of [[Malesherbes]], whose life (1805) he wrote. He died at St Firmin,
 near Chantilly, on the 13th of February 1806. Gaillard is painstaking
 and impartial in his statement of facts, and his style is correct and
 elegant, but the unity of his narrative is somewhat destroyed by

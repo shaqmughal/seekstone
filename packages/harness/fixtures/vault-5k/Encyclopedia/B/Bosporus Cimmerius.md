@@ -1,7 +1,7 @@
 # Bosporus Cimmerius
 
-BOSPORUS CIMMERIUS, the ancient name for the Straits of Kerch or
-Yenikale, connecting the Black Sea and the Sea of Azov; the Cimmerii
+BOSPORUS CIMMERIUS, the ancient name for the Straits of [[Kerch]] or
+Yenikale, connecting the [[Black Sea]] and the Sea of Azov; the Cimmerii
 (q.v.) were the ancient inhabitants. The straits are about 25 m. long
 and 2-1/2 m. broad at the narrowest, and are formed by an eastern
 extension of the Crimea and the peninsula of Taman, a kind of
@@ -19,7 +19,7 @@ have left hardly any architectural or sculptural remains, but the
 numerous barrows in their neighbourhood have yielded very beautiful
 objects now mostly preserved in the Hermitage in St Petersburg. They
 comprise especially gold work, vases exported from Athens, textiles and
-specimens of carpentry and marquetry. The numerous terra-cottas are
+specimens of carpentry and [[Marquetry|marquetry]]. The numerous terra-cottas are
 rather rude in style.
 
 According to Diodorus Siculus (xii. 31) the locality was governed from
@@ -51,7 +51,7 @@ of enlightened and wise princes; although Greek opinion could not deny
 that they were, strictly speaking, tyrants, they are always described as
 dynasts. They maintained close relations with Athens, their best
 customers for the Bosporan corn export, of which Leucon I. set the
-staple at Theodosia, where the Attic ships were allowed special
+staple at Theodosia, where the [[Attic]] ships were allowed special
 privileges. We have many references to this in the Attic orators. In
 return the Athenians granted him Athenian citizenship and set up decrees
 in honour of him and his sons. Mithradates the Great entrusted the
@@ -108,7 +108,7 @@ found among the inhabitants of the Empire.
 
 We possess a large series of coins of Panticapaeum and other cities from
 the 5th century B.C. The gold _staters_ of Panticapaeum bearing Pan's
-head and a griffin are specially remarkable for their weight and fine
+head and a [[Griffin|griffin]] are specially remarkable for their weight and fine
 workmanship. We have also coins with the names of the later Spartocids
 and a singularly complete series of dated _solidi_ issued by the later
 or Achaemenian dynasty; in them may be noticed the swift degeneration of

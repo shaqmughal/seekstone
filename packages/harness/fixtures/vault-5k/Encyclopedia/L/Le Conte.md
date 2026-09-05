@@ -9,7 +9,7 @@ type: note
 
 LE CONTE, JOSEPH (1823-1901), American geologist, of Huguenot descent,
 was born in Liberty county, Georgia, on the 26th of February 1823. He
-was educated at Franklin College, Georgia, where he graduated (1841); he
+was educated at [[Franklin]] College, Georgia, where he graduated (1841); he
 afterwards studied medicine and received his degree at the New York
 College of Physicians and Surgeons in 1845. After practising for three
 or four years at Macon, Georgia, he entered Harvard, and studied natural
@@ -19,7 +19,7 @@ interest in geology. After graduating at Harvard, Le Conte in 1851
 accompanied Agassiz on an expedition to study the Florida reefs. On his
 return he became professor of natural science in Oglethorpe University,
 Georgia; and from 1852 to 1856 professor of natural history and geology
-in Franklin College. From 1857 to 1869 he was professor of chemistry and
+in Franklin College. From 1857 to 1869 he was professor of [[Chemistry|chemistry]] and
 geology in South Carolina College, and he was then appointed professor
 of geology and natural history in the university of California, a post
 which he held until his death. He published a series of papers on
@@ -35,7 +35,7 @@ Association for the Advancement of Science in 1892, and of the
 Geological Society of America in 1896. He died in the Yosemite Valley,
 California, on the 6th of June 1901.
 
-  See Obituary by J. J. Stevenson, _Annals of New York Acad. of
+  See Obituary by J. J. Stevenson, _[[Annals]] of New York Acad. of
   Sciences_, vol. xiv. (1902), p. 150.
 
 ## See also

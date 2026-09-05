@@ -1,8 +1,8 @@
 # Janjira
 
-JANJIRA, a native state of India, in the Konkan division of Bombay,
-situated along the coast among the spurs of the Western Ghats, 40 m. S.
-of Bombay city. Area, 324 sq. m. Pop. (1901), 85,414, showing an
+JANJIRA, a native state of India, in the [[Konkan]] division of Bombay,
+situated along the coast among the spurs of the Western [[Ghats]], 40 m. S.
+of [[Bombay City|Bombay city]]. Area, 324 sq. m. Pop. (1901), 85,414, showing an
 increase of 4% in the decade. The estimated revenue is about £37,000;
 there is no tribute. The chief, whose title is Nawab Sahib, is by
 descent a Sidi or Abyssinian Mahommedan; and his ancestors were for many

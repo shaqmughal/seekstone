@@ -38,7 +38,7 @@ represented by the Greek _Delta_. In form D has varied throughout its
 career comparatively little. In the earliest Phoenician it is [symbol]
 with slight variations; in most Greek dialects [symbol] which has been
 adopted as the Greek literary form, but in others as e.g. the earliest
-Attic [symbol] or [symbol]. The form with the rounded back, which has
+[[Attic]] [symbol] or [symbol]. The form with the rounded back, which has
 passed from Latin into the languages of western Europe, was borrowed
 from the Greeks of S.W. Italy, but is widely spread also amongst the
 peoples of the Peloponnese and of northern Greece. It arises from a form

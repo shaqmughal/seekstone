@@ -12,7 +12,7 @@ under the name Kir of Moab (xv. 1), Kir-Hareseth (xvi. 7) or Kir-Heres
 (xvi. 11): Jeremiah also refers to it by the last name (xxxix. 31, 36).
 The modern name, in the form [Greek: Charax], appears in 2 Macc. xii.
 17. Later, Kerak was the seat of the archbishop of Petra. The Latin
-kings of Jerusalem, recognizing its importance as the key of the E.
+kings of Jerusalem, recognizing its importance as the [[Key|key]] of the E.
 Jordan region, fortified it in 1142; from 1183 it was attacked
 desperately by Saladin, to whom at last it yielded in 1188. The Arabian
 Ayyubite princes fortified the town, as did the Egyptian Mameluke
@@ -24,7 +24,7 @@ secure the safety of travellers and the general quiet of the district.
 The town is an irregular congeries of flat mud-roofed houses. In the
 Christian quarter is the church of St George; the mosque also is a
 building of Christian origin. The town is surrounded by a wall with five
-towers; entrance now is obtained through breaches in the wall, but
+towers; entrance now is obtained through [[Breach|breaches]] in the wall, but
 formerly it was accessible only by means of tunnels cut in the rocky
 substratum. The castle, now used as the headquarters of the garrison and
 closed to visitors, is a remarkably fine example of a crusaders'

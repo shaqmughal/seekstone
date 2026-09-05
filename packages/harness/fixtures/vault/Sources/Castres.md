@@ -8,14 +8,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Castres"
 
 # Castres
 
-CASTRES, a town of south-western France, capital of an arrondissement in
+CASTRES, a town of south-western France, capital of an [[Arrondissement|arrondissement]] in
 the department of Tarn, 29 m. S.S.E. of Albi on a branch line of the
-Southern railway. Pop. (1906) town, 19,864; commune, 28,272. Castres,
+Southern railway. Pop. (1906) town, 19,864; [[Commune|commune]], 28,272. Castres,
 the busiest and most populous town of its department, is intersected
 from north to south by the Agout; the river is fringed by old houses the
-upper stories of which project over its waters. Wide boulevards traverse
+upper stories of which project over its waters. Wide [[Boulevard|boulevards]] traverse
 the west of the town, which is also rendered attractive by numerous
-fountains fed by a fine aqueduct hewn in the rock. The church of St
+[[Fountain|fountains]] fed by a fine aqueduct hewn in the rock. The church of St
 Benoît, once a cathedral, and the most important of the churches of
 Castres, dates only from the 17th and 18th centuries. The hôtel de
 ville, which contains a museum and the municipal library, occupies the

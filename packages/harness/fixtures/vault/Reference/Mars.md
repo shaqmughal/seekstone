@@ -1,15 +1,15 @@
 # Mars
 
-MARS, in astronomy, the fourth planet in the order of distance from the
+MARS, in [[Astronomy|astronomy]], the fourth planet in the order of distance from the
 sun, and the next outside the earth. To the naked eye it appears as a
-bright star of a decidedly reddish or lurid tint, which contrasts
+[[Bright|bright]] star of a decidedly reddish or lurid tint, which contrasts
 strongly with the whiteness of Venus and Jupiter. At opposition it is
 brighter than a first magnitude star, sometimes outshining even Sirius.
 It is by virtue of its position the most favourably situated of all the
 planets for observation from the earth. The eccentricity of its orbit,
-0.0933, is greater than that of any other major planet except Mercury.
+0.0933, is greater than that of any other [[Major|major]] planet except Mercury.
 The result is that at an opposition near perihelion Mars is markedly
-nearer to the earth than at an opposition near aphelion, the one
+nearer to the earth than at an opposition near [[Aphelion|aphelion]], the one
 distance being about 35 million miles; the other 63 million. These
 numbers express only the minimum distances at or near opposition, and
 not the distance at other times. The time of revolution of Mars is
@@ -29,7 +29,7 @@ earth. AE is the line of the equinoxes from which longitudes are
 counted. The perihelion of Mars is in longitude 335° at the point [pi].
 The ascending node [Omega] is in longitude 47°. The line of nodes makes
 an angle of 74° with the major axis, so that Mars is south of the
-ecliptic near perihelion, but north of it near aphelion. Around the
+[[Ecliptic|ecliptic]] near perihelion, but north of it near aphelion. Around the
 inner circle, representing the earth's orbit, are marked the months
 during which the earth passes through the different parts of the orbit.
 It will be seen that the distance of Mars at the time of any opposition
@@ -46,7 +46,7 @@ years, so that oppositions near perihelion, when Mars is therefore
 nearest the earth, occur at intervals of 15 or 17 years.
 
 The axis of rotation of the planet is inclined between 23° and 24° to
-the orbit, and the equator of the planet has the same inclination to the
+the orbit, and the [[Equator|equator]] of the planet has the same inclination to the
 plane of the orbit. The north pole is directed toward a point in
 longitude 355°, in consequence of which the projection of the planet's
 axis upon the plane of the ecliptic is nearly parallel to the line of
@@ -82,7 +82,7 @@ absorption when the planet was examined with the spectroscope. But the
 observations were not conclusive; and with the view of setting the
 question at rest if possible, W. W. Campbell at the Lick Observatory
 instituted a very careful series of spectroscopic observations.[1] To
-reduce the chances of error to a minimum the spectrum of Mars was
+reduce the chances of [[Error|error]] to a minimum the spectrum of Mars was
 compared with that of the moon when the two bodies were near each other.
 Not the slightest difference could be seen between any of the lines in
 the two spectra. It being certain that the spectrum of the moon is not
@@ -105,10 +105,10 @@ earth as a spot of light outside the terminator, or visible edge of the
 illuminated part of the disk. It is noticeable that phenomena more or
 less of this character, though by no means common, have been noted by
 observers on several occasions. Among these have been the Mt Hamilton
-and Lowell observers, and W. H. Pickering at Arequipa. Campbell has
+and [[Lowell]] observers, and W. H. Pickering at Arequipa. Campbell has
 shown that many of them may be accounted for by supposing the presence
 of mountains not more than two miles in height, which may well exist on
-the planet. While this hypothesis will serve to explain several of these
+the planet. While this [[Hypothesis|hypothesis]] will serve to explain several of these
 appearances, this can scarcely be said of a detached spot observed on
 the evening of the 26th of May 1903, at the Lowell Observatory.[3] Dr
 Slipher, who first saw it, was so struck by the appearance of the
@@ -121,9 +121,9 @@ account for except on the principle that the rate of diminution of the
 density of an atmosphere with its height is proportional to the
 intensity of gravity, which is smaller on Mars than on the earth. The
 colour was not white, but tawny, of the tint exhibited by a cloud of
-dust. Percival Lowell therefore suggests that this and other appearances
+[[Dust|dust]]. Percival Lowell therefore suggests that this and other appearances
 of the same kind seen from time to time are probably dust clouds,
-travelling over the desert, as they sometimes do on the earth, and
+travelling over the [[Desert|desert]], as they sometimes do on the earth, and
 settling slowly again to the ground.
 
 _Temperature._--Up to a recent time all that could be said of the
@@ -164,7 +164,7 @@ a permanence and invariability which markedly differentiate them from
 the ever varying surfaces of Jupiter and Saturn, and show that what we
 see is a solid surface, like that of our earth. They were observed and
 delineated by the leading astronomers of the 16th century, especially
-Huygens, Cassini and Hooke. These observers could only distinguish the
+[[Huygens]], Cassini and [[Hooke]]. These observers could only distinguish the
 different regions upon the planet as bright or dark. Reasoning as they
 did in the case of the moon, it was naturally supposed that the brighter
 regions were land and the darker ones seas. The observers of our time
@@ -173,12 +173,12 @@ might suggest the idea of water, but are variegated in a way to show
 that they must be composed of a solid crust, like the brighter regions.
 The latter have a decidedly warm red or ochre tint, which gives the
 characteristic colour to the planet as seen by the naked eye. The
-regions in equatorial and middle latitudes, which are those best seen
+regions in equatorial and middle [[Latitude|latitudes]], which are those best seen
 from our planet, show a surface of which the general aspect is not
 dissimilar to that which would be presented by the deserts of our earth
 when seen from the moon. With each improvement in the telescope the
 numerous drawings of the planet show more definiteness and certainty in
-details. About 1830 a fairly good map was made by W. Beer and J. H.
+details. About 1830 a fairly good [[Map|map]] was made by W. [[Beer]] and J. H.
 Mädler, a work which has been repeated by a number of observers since
 that time. The volume of literature on the subject, illustrated by
 drawings and maps, has become so great that it is impossible here to
@@ -202,7 +202,7 @@ comes into view after being turned nearly a year away from the sun, it
 is found to be covered with a white cap. This gradually contracts in
 extent as the sun shines upon it during the remaining half of the
 Martian year, sometimes nearly disappearing. That this change is due to
-the precipitation of watery vapour in the form of ice, snow or frost
+the precipitation of watery vapour in the form of [[Ice|ice]], snow or [[Frost|frost]]
 during the winter, and its melting or evaporation when exposed to the
 sun's rays, is so obvious a conclusion that it has never been seriously
 questioned. It has indeed been suggested that the deposit may be frozen
@@ -211,7 +211,7 @@ probabilities seem in favour of the deposit being due to the
 precipitation of aqueous vapour in a frozen form. At a temperature of
 -50° C., which is far above what we can suppose to prevail in the polar
 regions during the winter, the tension of aqueous vapour is 0.034 mm. On
-the other hand Faraday found the tension of carbonic acid to be still an
+the other hand [[Faraday]] found the tension of carbonic acid to be still an
 entire atmosphere at as low a temperature as -80° C. Numerically exact
 statements are impossible owing to our want of knowledge of the actual
 temperature, which must depend partly upon air currents between the
@@ -223,7 +223,7 @@ Since every improvement in the telescope and in the conditions of
 observation must enable modern observers to see all that their
 predecessors did and yet more, we shall confine our statements to the
 latest results. These may be derived from the work of Professor Lowell
-of Boston, who in 1894 founded an observatory at Flagstaff, Arizona,
+of [[Boston]], who in 1894 founded an observatory at Flagstaff, Arizona,
 7250 ft. above sea-level, and supplied it with a 24´´ telescope, of
 which the main purpose was the study of Mars. This work has been
 continued with such care and assiduity that its results must take
@@ -248,7 +248,7 @@ spots are occasionally visible in the tropical and temperate regions,
 which are perhaps due to the condensation of frost or snow, or to saline
 exudation such as seasonally occurs in India (Lowell). Moreover in
 winter the temperate zones are more or less covered by a whitish veil,
-which may be either hoar frost or cloud. A spring haze seems to surround
+which may be either [[Hoar|hoar]] frost or cloud. A spring haze seems to surround
 the north polar cap during its most extensive melting; otherwise the
 Martian sky is quite clear, like that of a dry desert land. When either
 polar cap is melting it is bordered by a bluish area, which Lowell
@@ -277,7 +277,7 @@ breadth, and that it was therefore absurd to call them canals, did not
 prevent this term from being so extensively used that it is now scarcely
 possible to do away with it. A second series of observations was made by
 Schiaparelli at the opposition of 1879, when the planet was farther
-away, but was better situated as to altitude above the horizon. He now
+away, but was better situated as to altitude above the [[Horizon|horizon]]. He now
 found a number of additional channels, which were much finer than those
 he had previously drawn. The great interest attaching to their seemingly
 artificial character gave an impetus to telescopic study of the planet
@@ -403,7 +403,7 @@ the glare of the planet.
 
 A long and careful series of observations was made upon these bodies by
 other observers. Later, especially at the very favourable oppositions of
-1892 and 1894, observations were made by Hermann Struve at Poulkova, who
+1892 and 1894, observations were made by [[Hermann]] Struve at Poulkova, who
 subjected all the observations up to 1898 to a very careful discussion.
 He showed that the inclination of the planes of the orbits to the
 equator of the planet is quite small, thus making it certain that these
@@ -479,7 +479,7 @@ The other elements are:--
   fisiche sull' asse di rotazione e sulla topografia del pianeta Marte_,
   and were published in different volumes of the _Memoirs_ of the _Reale
   Accademia dei Lincei_ of Rome. The observations and drawings of Lowell
-  are found _in extenso_ in _Annals_ of the Lowell Observatory. Lowell's
+  are found _in extenso_ in _[[Annals]]_ of the Lowell Observatory. Lowell's
   conclusions are summarized in _Mars and its Canals_, by Percival
   Lowell (1906), and _Mars as the Abode of Life_ (1909). In connexion
   with his work may be mentioned _Mars and its Mystery_, by Edward S.
@@ -550,7 +550,7 @@ FOOTNOTES:
     the canals had breaks amounting to 16 m. across, such breaks would be
     visible. None are; while the lines themselves are thousands of miles
     long and perfectly straight (_Astrophys. Journ._, Sept. 1907).
-    Between expert observers representing the planet at the same epoch
+    Between [[Expert|expert]] observers representing the planet at the same epoch
     the accordance is striking; differences in drawings are differences
     of time and are due to seasonal and secular changes in the planet
     itself. These seasonal changes have been carefully followed at

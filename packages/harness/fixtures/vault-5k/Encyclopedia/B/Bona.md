@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bona"
 
 # Bona
 
-BONA (BONE), a seaport of Algeria, in 36 deg. 53' N., 7 deg. 46' E., on
+BONA ([[Bone|BONE]]), a seaport of Algeria, in 36 deg. 53' N., 7 deg. 46' E., on
 a bay of the Mediterranean, chief town of an arrondissement in the
 department of Constantine, 220 m. by rail W. of Tunis, and 136 m. N.E.
 of Constantine. The town, which is situated at the foot of the wooded
@@ -24,8 +24,8 @@ statue of Thiers, and at the northern end, the cathedral of St
 Augustine, a large church built in quasi-Byzantine style. In it is
 preserved a relic supposed to be the right arm of St Augustine, brought
 from Pavia in 1842. The Grand Mosque, built out of ruins of the ancient
-Hippo, occupies one side of the chief square, the Place d'Armes. There
-are barracks with accommodation for 3000 men, and civil and military
+[[Hippo]], occupies one side of the chief square, the Place d'Armes. There
+are [[Barracks|barracks]] with accommodation for 3000 men, and civil and military
 hospitals. The Kasbah (citadel) stands on a hill at the north-east of
 the town. The inner harbour, covering 25 acres, is surrounded by fine
 quays at which vessels drawing 22 ft. can be moored. Beyond is a
@@ -42,7 +42,7 @@ advantage of an abundant water supply obtained from the Edugh hills.
 There are cork woods and marble quarries in the vicinity, and the valley
 of the Seybuse and the neighbouring plains are rich in agricultural
 produce. The population of the town of Bona in 1906 was 36,004, of the
-commune 42,934, of the arrondissement, which includes La Calle (q.v.)
+[[Commune|commune]] 42,934, of the arrondissement, which includes [[La Calle]] (q.v.)
 and 11 other communes, 77,803.
 
 Bona is identified with the ancient _Aphrodisium_, the seaport of _Hippo
@@ -55,9 +55,9 @@ connexion with St Augustine, who lived here as priest and bishop for
 thirty-five years. Hippo was captured by the Vandals under Genseric in
 431, after a siege of fourteen months, during which Augustine died. Only
 the cathedral, together with Augustine's library and MSS., escaped the
-general destruction. The town Avas partially restored by Belisarius, and
+general destruction. The town Avas partially restored by [[Belisarius]], and
 again sacked by the Arabs in the 7th century. On the top of the hill on
-which Hippo stood, a large basilica, with chancel towards the west,
+which Hippo stood, a large basilica, with [[Chancel|chancel]] towards the west,
 dedicated to St Augustine, was opened in 1900. An altar surmounted by a
 bronze statue of the saint has also been erected among the ruins. The
 place was named Hippo Regius (Royal) by the Romans because it was a

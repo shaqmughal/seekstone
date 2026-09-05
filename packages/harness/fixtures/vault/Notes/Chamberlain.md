@@ -14,8 +14,8 @@ Grove, London, on the 8th of July 1836. His father was a well-to-do man
 of business, a Unitarian in religion and a Liberal in politics. Young
 Chamberlain was educated at Canonbury from 1845 to 1850, and at
 University College school, London, from 1850 to 1852. After two years in
-his father's office in London, he was sent to Birmingham to join his
-cousin Joseph Nettlefold in a screw business in which his father had an
+his father's office in London, he was sent to [[Birmingham]] to join his
+[[Cousin|cousin]] Joseph Nettlefold in a screw business in which his father had an
 interest; and by degrees, largely owing to his own intelligent
 management, this business became very successful. Nettlefold &
 Chamberlain employed new methods of attracting customers, and
@@ -31,7 +31,7 @@ was reorganized, he became one of its leading members. In 1869 he was
 elected chairman of the executive council of the new National Education
 League, the outcome of Mr George Dixon's movement for promoting the
 education of the children of the lower classes by paying their school
-fees, and agitating for more accommodation and a better national system.
+[[Fee|fees]], and agitating for more accommodation and a better national system.
 In the same year he was elected a member of the town council, and
 married his second wife--a cousin of his first--Miss Florence Kenrick
 (d. 1875).
@@ -47,9 +47,9 @@ Republican institutions. His programme was "free Church, free land, free
 schools, free labour." At the general election of 1874 he stood as a
 parliamentary candidate for Sheffield, but without success. Between 1869
 and 1873 he was a prominent advocate in the Birmingham town council of
-the gospel of municipal reform preached by Mr Dawson, Dr Dale and Mr
+the [[Gospel|gospel]] of municipal reform preached by Mr [[Dawson]], Dr Dale and Mr
 Bunce (of the _Birmingham. Post_); and in 1873 his party obtained a
-majority, and he was elected mayor, an office he retained until June
+majority, and he was elected [[Mayor|mayor]], an office he retained until June
 1876. As mayor he had to receive the prince and princess of Wales on
 their visit in June 1874, an occasion which excited some curiosity
 because of his reputation as a Republican; but those who looked for an
@@ -58,7 +58,7 @@ Radical mayor satisfied the requirements alike of _The Times_ and of
 _Punch_.
 
 The period of his mayoralty was one of historic importance in the growth
-of modern Birmingham. New municipal buildings were erected, Highgate
+of modern Birmingham. New municipal buildings were erected, [[Highgate]]
 Park was opened as a place of recreation, the free library and art
 gallery were developed. But the great work carried through by Mr
 Chamberlain for Birmingham was the municipalization of the supply of gas
@@ -72,8 +72,8 @@ cool and hard-hitting, his spare figure, incisive features and single
 eye-glass soon made him a favourite subject for the caricaturist; and in
 later life his aggressive personality, and the peculiarly irritating
 effect it had on his opponents, made his actions and speeches the object
-of more controversy than was the lot of any other politician of his
-time. His hobby for orchid-growing at his house "Highbury" near
+of more controversy than was the [[Lot|lot]] of any other politician of his
+time. His [[Hobby|hobby]] for orchid-growing at his house "Highbury" near
 Birmingham also became famous. In private life his loyalty to his
 friends, and his "genius for friendship" (as John Morley said) made a
 curious contrast to his capacity for arousing the bitterest political
@@ -83,38 +83,38 @@ instrumental in starting the Birmingham University (1900), of which he
 became chancellor. His connexion with Birmingham University was indeed
 peculiarly appropriate to his character as a man of business; but in
 spite of his representing a departure among men of the front rank in
-politics from the "Eton and Oxford" type, his general culture sometimes
+politics from the "[[Eton]] and Oxford" type, his general culture sometimes
 surprised those who did not know him. In later life Oxford and Cambridge
 gave him their doctors' degrees; and in 1897 he was made lord rector of
-Glasgow University (delivering an address on "Patriotism" at his
-installation).
+[[Glasgow]] University (delivering an address on "Patriotism" at his
+[[Installation|installation]]).
 
 In 1876 Mr Dixon resigned his seat in parliament, and Mr Chamberlain was
 returned for Birmingham in his place unopposed, as John Bright's
 colleague. He made his maiden speech in the House of Commons on the 4th
 of August 1876, on Lord Sandon's Education Bill. At this period, too, he
 paid much attention to the question of licensing reform, and in 1876 he
-examined the Gothenburg system in Sweden, and advocated a solution of
+examined the [[Gothenburg]] system in Sweden, and advocated a solution of
 the problem in England on similar lines. During 1877 the new federation
-of Liberal Associations which became known as the "Caucus" was started
+of Liberal Associations which became known as the "[[Caucus]]" was started
 under Mr Chamberlain's influence in Birmingham--its secretary, Mr
 Schnadhorst, quickly making himself felt as a wire-puller of exceptional
 ability; and the new organization had a remarkable effect in putting
-life into the Liberal party, which since Mr Gladstone's retirement in
+life into the [[Liberal Party|Liberal party]], which since Mr Gladstone's retirement in
 1874 had been much in need of a stimulus. When the general election came
 in 1880, Mr Schnadhorst's powers were demonstrated in the successes won
 under his auspices. The Liberal party numbered 349, against 243
 Conservatives and 60 Irish Nationalists; and the Radical section of the
-Liberal party, led by Mr Chamberlain and Sir Charles Dilke, was
-recognized by Mr Gladstone by his inclusion of the former in his cabinet
+Liberal party, led by Mr Chamberlain and Sir Charles [[Dilke]], was
+recognized by Mr Gladstone by his inclusion of the former in his [[Cabinet|cabinet]]
 as president of the Board of Trade, and the appointment of the latter as
 under secretary for foreign affairs. In his new capacity Mr Chamberlain
-was responsible for carrying such important measures as the Bankruptcy
+was responsible for carrying such important measures as the [[Bankruptcy]]
 Act 1883, and the Patents Act. Another bill which he had much at heart,
 on merchant shipping, had to be abandoned, and a royal commission
 substituted, but the subsequent legislation in 1888-1894 owed much to
 his efforts. The Franchise Act of 1884 was also one in which he took a
-leading part as a champion of the opinions of the labouring class. At
+leading part as a [[Champion|champion]] of the opinions of the labouring class. At
 this time he took the current advanced Radical views of both Irish and
 foreign policy, hating "coercion," disliking the occupation of Egypt,
 and prominently defending the Transvaal settlement after Majuba. Both
@@ -124,7 +124,7 @@ in June 1885, he associated himself with what was known as the
 taxation and local government. In June 1885 he made a speech at
 Birmingham, treating the reforms just mentioned as the "ransom" that
 property must pay to society for the security it enjoys--for which Lord
-Iddesleigh called him "Jack Cade"; and he continually urged the Liberal
+[[Iddesleigh]] called him "[[Jack]] [[Cade]]"; and he continually urged the Liberal
 party to take up these Radical measures. At the general election of
 November 1885 Mr Chamberlain was returned for West Birmingham. The
 Liberal strength generally was, however, reduced to 335 members, though
@@ -132,12 +132,12 @@ the Radical section held their own; and the Irish vote became necessary
 to Mr Gladstone if he was to command a majority. In December it was
 stated that Mr Gladstone intended to propose Home Rule for Ireland, and
 in January Lord Salisbury's ministry was defeated on the Address, on an
-amendment moved by Mr Chamberlain's Birmingham henchman, Mr Jesse
-Collings (b. 1831), embodying the "three acres and a cow" of the Radical
-programme. Unlike Lord Hartington (afterwards duke of Devonshire) and
+amendment moved by Mr Chamberlain's Birmingham [[Henchman|henchman]], Mr Jesse
+[[Colling|Collings]] (b. 1831), embodying the "three acres and a cow" of the Radical
+programme. Unlike Lord Hartington (afterwards duke of [[Devonshire]]) and
 other Liberals, who declined to join Mr Gladstone in view of the altered
 attitude he was adopting towards Ireland, Mr Chamberlain entered the
-cabinet as president of the Local Government Board (with Mr Jesse
+cabinet as president of the [[Local Government Board]] (with Mr Jesse
 Collings as parliamentary secretary), but on the 15th of March 1886 he
 resigned, explaining in the House of Commons (8th April) that, while he
 had always been in favour of the largest possible extension of local
@@ -150,7 +150,7 @@ irreconcilable, and he invited Mr Gladstone even then to modify his bill
 so as to remove the objections made to it. This indecisive attitude did
 not last long, and the split in the party rapidly widened. At Birmingham
 Mr Chamberlain was supported by the "Two Thousand," but deserted by the
-"Caucus" and Mr Schnadhorst. In May the Radicals who followed Mr Bright
+"Caucus" and Mr Schnadhorst. In May the Radicals who followed Mr [[Bright]]
 and Mr Chamberlain, and the Whigs who took their cue from Lord
 Hartington, decided to vote against the second reading of the Home Rule
 Bill, instead of allowing it to be taken and then pressing for
@@ -173,7 +173,7 @@ were not offensive to Liberal Unionist principles. It still seemed
 possible, moreover, that the Gladstonians might be brought to modify
 their Home Rule proposals, and in January 1887 a Round Table conference
 (suggested by Mr Chamberlain) was held between Mr Chamberlain, Sir G.
-Trevelyan, Sir William Harcourt, Mr Morley and Lord Herschell. But no
+Trevelyan, Sir William [[Harcourt]], Mr Morley and Lord Herschell. But no
 _rapprochement_ was effected, and reconciliation became daily more and
 more difficult. The influence of Liberal Unionist views upon the
 domestic legislation of the government was steadily bringing about a
@@ -183,11 +183,11 @@ of seeing Lord Salisbury's ministry pass such important acts, from a
 progressive point of view, as those dealing with Coal Mines Regulation,
 Allotments, County Councils, Housing of the Working Classes, Free
 Education and Agricultural Holdings, besides Irish legislation like the
-Ashbourne Act, the Land Act of 1891, and the Light Railways and
+[[Ashbourne]] Act, the Land Act of 1891, and the Light Railways and
 Congested Districts Acts. In October 1887 Mr Chamberlain, Sir L.
 Sackville West and Sir Charles Tupper were selected by the government as
-British plenipotentiaries to discuss with the United States the Canadian
-fisheries dispute, and a treaty was arranged by them at Washington on
+British plenipotentiaries to [[Discus|discuss]] with the United States the Canadian
+[[Fisheries|fisheries]] dispute, and a treaty was arranged by them at Washington on
 the 15th of February 1888. The Senate refused to ratify it; but a
 protocol provided for a _modus vivendi_ pending ratification, giving
 American fishing vessels similar advantages to those contemplated in the
@@ -226,7 +226,7 @@ Birmingham municipal associates, Mr Jesse Collings (as under secretary
 of the home office), and Mr J. Powell-Williams (1840-1904) as financial
 secretary to the war office. Mr Chamberlain's influence in the Unionist
 cabinet was soon visible in the Workmen's Compensation Act and other
-measures. This act, though in Sir Matthew White Ridley's charge as home
+measures. This act, though in Sir [[Matthew]] White Ridley's charge as home
 secretary, was universally and rightly associated with Mr Chamberlain;
 and its passage, in the face of much interested opposition from
 highly-placed, old-fashioned conservatives and capitalists on both
@@ -244,12 +244,12 @@ resulted from all the confident talk on the subject in which Mr
 Chamberlain had indulged when out of office. Eventually it was the
 Liberal and not the Unionist party that carried an Old Age Pensions
 scheme through parliament, during the 1908 session, when Mr Chamberlain
-was _hors de combat_.
+was _[[Hor|hors]] de combat_.
 
-From January 1896 (the date of the Jameson Raid) onwards South Africa
+From January 1896 (the date of the [[Jameson]] Raid) onwards South Africa
 demanded the chief attention of the colonial secretary (see SOUTH
 AFRICA, and for details TRANSVAAL). In his negotiations with President
-Kruger one masterful temperament was pitted against another. Mr
+[[Kruger]] one masterful temperament was pitted against another. Mr
 Chamberlain had a very difficult part to play, in a situation dominated
 by suspicion on both sides, and while he firmly insisted on the rights
 of Great Britain and of British subjects in the Transvaal, he was the
@@ -272,7 +272,7 @@ turn his other cheek to the smiter, was not slow to return the blows
 with interest.
 
 Apart from South Africa, his most important work at this time was the
-successful passing of the Australian Commonwealth Act (1900), in which
+successful passing of the Australian [[Commonwealth]] Act (1900), in which
 both tact and firmness were needed to settle certain differences between
 the imperial government and the colonial delegates.
 
@@ -303,11 +303,11 @@ note of constructive statesmanship, basing itself on the economic
 necessities of a world-wide empire. Not the least of the anxieties of
 the colonial office during this period was the situation in the West
 Indies, where the cane-sugar industry was being steadily undermined by
-the European bounties given to exports of continental beet; and though
+the European bounties given to exports of continental [[Beet|beet]]; and though
 the government restricted themselves to attempts at removing the
 bounties by negotiation and to measures for palliating the worst effects
 in the West Indies, Mr Chamberlain made no secret of his repudiation of
-the Cobden Club view that retaliation would be contrary to the doctrines
+the [[Cobden]] Club view that retaliation would be contrary to the doctrines
 of free trade, and he did his utmost to educate public opinion at home
 into understanding that the responsibilities of the mother country are
 not merely to be construed according to the selfish interests of a
@@ -333,8 +333,8 @@ subordinate part during the carrying out of the military operations.
 Among domestic statesmen he was felt, however, to be the backbone of the
 party in power. He was the hero of the one side, just as he was the
 bugbear of the other. On the 13th of February 1902 he was presented with
-an address in a gold casket by the city corporation, and entertained at
-luncheon at the Mansion House, an honour not unconnected with the strong
+an address in a gold [[Casket|casket]] by the city corporation, and entertained at
+[[Luncheon|luncheon]] at the Mansion House, an honour not unconnected with the strong
 feeling recently aroused by his firm reply (at Birmingham, January 11)
 to some remarks made by Count von Bullow, the German chancellor, in the
 Reichstag (January 8), reflecting the offensive allegations current in
@@ -347,14 +347,14 @@ The domestic crisis, and the sharp cleavage between parties at home, had
 driven the bent of his mind and policy further and further away from the
 purely municipal and national ideals which he had followed so keenly
 before he became colonial minister. The problems of empire engrossed
-him, and a new enthusiasm for imperial projects arose in the Unionist
+him, and a new [[Enthusiasm|enthusiasm]] for imperial projects arose in the Unionist
 party under his inspiration. No English statesman probably has ever
 been, at different times in his career, so able an advocate of
 absolutely contradictory policies, and his opponents were not slow to
 taunt him with quotations from his earlier speeches. As the war drew to
 its end, new plans for imperial consolidation were maturing in his
 brain. Subsidiary points of utility, such as the formation of the London
-and Liverpool schools of tropical medicine from 1899 onwards, were taken
+and [[Liverpool]] schools of tropical medicine from 1899 onwards, were taken
 up by him with characteristic vigour. But the next step was to prove a
 critical one indeed for the loyalty of the party which had so far been
 unanimous in his favour.
@@ -371,7 +371,7 @@ results appeared to be secured. He went from place to place in South
 Africa (December 26-February 25); arranged with the leading Transvaal
 financiers that in return for support from the British government in
 raising a Transvaal loan they would guarantee a large proportion of a
-Transvaal debt of L30,000,000, which should repay the British treasury
+Transvaal [[Debt|debt]] of L30,000,000, which should repay the British treasury
 so much of the cost of the war; and when he returned in March 1903,
 satisfaction was general in the country over the success of his mission.
 But meantime two things had happened. He had looked at the empire from
@@ -380,7 +380,7 @@ atmosphere; and at home some of his colleagues had gone a long way,
 behind the scenes, to destroy one of the very factors on which the
 question of a practical scheme for imperial commercial federation seemed
 to hinge. In the budget of 1902 a duty of a shilling a quarter on
-imported corn had been reintroduced. This small tax was regarded as only
+imported [[Corn|corn]] had been reintroduced. This small tax was regarded as only
 a registration duty. Even by free-trade ministers like Gladstone it had
 been left up to 1869 untouched, and its removal by Robert Lowe (Lord
 Sherbrooke) had since then been widely regarded as a piece of economic
@@ -411,7 +411,7 @@ all the conviction with which its restoration had been supported a year
 before, was very difficult for the party itself to stomach, and on any
 ground it was a distasteful act, loyally as the party followed their
 leaders. But to those who had looked to it as providing a lever for a
-gradual change in the established fiscal system, the _volte-face_ was a
+[[Gradual|gradual]] change in the established fiscal system, the _volte-face_ was a
 bitter blow, and at once there began, though not at first openly, a
 split between the more rigid free-traders--advocates of cheap food and
 free imports--and those who desired to use the opportunities of a
@@ -437,7 +437,7 @@ cleverest younger politicians and journalists in the Unionist party. The
 idea of tariff reform--to broaden the basis of taxation, to introduce a
 preference, and to stimulate home industries and increase
 employment--took firm root; and the political economists of the
-party--Prof. W. Cunningham, Prof. W. Ashley and Prof. W.A.S. Hewins, in
+party--Prof. W. [[Cunningham]], Prof. W. [[Ashley]] and Prof. W.A.S. Hewins, in
 particular--brought effective criticism to bear on the one-sided "free
 trade" in vogue. The first demand was for inquiry. The country was still
 bearing an income-tax of elevenpence in the pound; it appeared that the
@@ -453,12 +453,12 @@ Opposition, who now found themselves the defenders of conservatism in
 the established fiscal policy of the country, this whole argument was
 scouted; but for a time the demand merely for inquiry, and the
 production of figures, gave no sufficient occasion for dissension among
-Unionists, even when, like Sir M. Hicks Beach, they were convinced
+Unionists, even when, like Sir M. Hicks [[Beach]], they were convinced
 free-importers on purely economic grounds; and Mr Balfour (q.v.), as
 premier, managed to hold his colleagues and party together by taking the
 line that particular opinions on economic subjects should not be made a
 test of party loyalty. The Board of Trade was set to work to produce
-fiscal Blue-books, and hum-drum politicians who had never shown any
+fiscal [[Blue-Book|Blue-books]], and hum-drum politicians who had never shown any
 genius for figures suddenly blossomed out into arithmeticians of the
 deepest dye. The Tariff Reform League was founded in order to further Mr
 Chamberlain's policy, holding its inaugural meeting on July 21st; and it
@@ -466,7 +466,7 @@ began to take an active part in issuing leaflets and in work at
 by-elections. Discussion proceeded hotly on the merits of a preferential
 tariff, and on August 15th a manifesto appeared against it signed by
 fourteen professors or lecturers on political economy, including Mr
-Leonard Courtney, Professor Edgeworth, Professor Marshall, Professor
+Leonard [[Courtney]], Professor [[Edgeworth]], Professor [[Marshall]], Professor
 Bastable, Professor Smart, Professor J.S. Nicholson, Professor Conner,
 Mr Bowley, Mr E. Cannan and Mr L.R. Phelps,--men of admitted competence,
 yet, after all, of no higher authority than the economists supporting Mr
@@ -498,7 +498,7 @@ was willing to adopt fiscal reform so far as it covered retaliatory
 duties, but thought that the exclusion of taxation of food from the
 party programme was in existing circumstances necessary, so long as
 public opinion was not ripe. At the same time he welcomed the fact that
-Mr Chamberlain's son, Mr Austen Chamberlain, was ready to remain a
+Mr Chamberlain's son, Mr [[Austen]] Chamberlain, was ready to remain a
 member of the government. Mr Austen Chamberlain (b. 1863) accordingly
 became the new chancellor of the exchequer; he was already in the
 cabinet as postmaster-general, having previously made his mark as civil
@@ -538,13 +538,13 @@ British position. This was the outcome of the working of a one-sided
 free-trade system. Now was the time, and it might soon be lost, for
 consolidating British trade relations with the colonies. If the mother
 country and her daughter states did not draw closer, they would
-inevitably drift apart. A further increase of L26,000,000 a year in the
+inevitably [[Drift|drift]] apart. A further increase of L26,000,000 a year in the
 trade with the colonies might be obtained by a preferential tariff, and
 this meant additional employment at home for 166,000 workmen, or
 subsistence for a population of a far larger number. His positive
 proposals were: (1) no tax on raw materials; (2) a small tax on food
 other than colonial, e.g. two shillings a quarter on foreign corn but
-excepting maize, and 5% on meat and dairy produce excluding bacon; (3)
+excepting maize, and 5% on [[Meat|meat]] and dairy produce excluding bacon; (3)
 a 10% general tariff on imported manufactured goods. To meet any
 increased cost of living, he proposed to reduce the duties on tea, sugar
 and other articles of general consumption, and he estimated that his
@@ -555,10 +555,10 @@ substantial advantage in their markets." This speech, delivered with
 characteristic vigour and Imperialistic enthusiasm, was the type of
 others which followed in quick succession during the year. At Greenock
 next day he emphasized the necessity of retaliating against foreign
-tariffs--"I never like being hit without striking back." The practice of
+tariffs--"I never like being [[Hit|hit]] without striking back." The practice of
 "dumping" must be fairly met; if foreign goods were brought into England
 to undersell British manufacturers, either the Fair Wages Clause and the
-Factory Acts and the Compensation Act would have to be repealed, or the
+[[Factory Acts]] and the Compensation Act would have to be repealed, or the
 workmen would have to take lower wages, or lose their work. "Agriculture
 has been practically destroyed, sugar has gone, silk has gone, iron is
 threatened, wool is threatened, cotton will go! How long are you going
@@ -566,21 +566,21 @@ to stand it?" On October 20th he spoke at Newcastle, on the 21st at
 Tynemouth, on the 27th at Liverpool, insisting that free-trade had never
 been a working-class measure and that it could not be reconciled with
 trade-unionism; on November 4th at Birmingham, on the 20th at Cardiff,
-on the 21st at Newport, and on December 16th at Leeds. In all these
+on the 21st at Newport, and on December 16th at [[Leeds]]. In all these
 speeches he managed to point his argument by application to local
 industries. In the Leeds speech he announced that, with a view to
 drawing up a scientific model tariff, a non-political commission of
-representative experts would be appointed under the auspices of the
+representative [[Expert|experts]] would be appointed under the auspices of the
 Tariff Reform League to take evidence from every trade; it included many
-heads of businesses, and Mr Charles Booth, the eminent student of social
+heads of businesses, and Mr Charles [[Booth]], the eminent student of social
 and industrial London, with Sir Robert Herbert as chairman, and
 Professor W.A.S. Hewins as secretary. The name of "Tariff Commission,"
 given to this voluntary and unofficial body, was a good deal criticized,
 but though flouted by the political free-traders it set to work in
-earnest, and accumulated a mass of evidence as to the real facts of
+[[Earnest|earnest]], and accumulated a mass of evidence as to the real facts of
 trade, which promised to be invaluable to economic inquirers. On January
 18th, 1904, Mr Chamberlain ended his series of speeches by a great
-meeting at the Guildhall, in the city of London, the key-note being his
+meeting at the [[Guildhall]], in the city of London, the key-note being his
 exhortation to his audience to "think imperially."
 
 All this activity on Mr Chamberlain's part represented a great physical
@@ -590,7 +590,7 @@ essential features of his personality. Nothing like this campaign had
 been known in the political world since Mr Gladstone's Midlothian days;
 and it produced a great public impression, stirring up both supporters
 and opponents. Free-trade unionists like Lord Goschen and Lord Hugh
-Cecil, and the Liberal leaders--for whom Mr Asquith became the principal
+[[Cecil]], and the Liberal leaders--for whom Mr [[Asquith]] became the principal
 spokesman, though Lord Rosebery's criticisms also had considerable
 weight--found new matter in Mr Chamberlain's speeches for their
 contention that any radical change in the traditional English fiscal
@@ -628,8 +628,8 @@ On the other hand the colonies took a great interest in the new
 movement, though without putting any such pressure on the home public as
 Mr Chamberlain might have expected. At the opening of 1904 he was
 officially invited by Mr Deakin, the prime minister of the Commonwealth,
-to pay a visit to Australia, in order to expound his scheme, being
-promised an enthusiastic welcome "as the harbinger of commercial
+to pay a visit to [[Australia]], in order to expound his scheme, being
+promised an enthusiastic welcome "as the [[Harbinger|harbinger]] of commercial
 reciprocity between the mother country and her colonies." Mr
 Chamberlain, however, declined; his work at home was too pressing.
 
@@ -646,7 +646,7 @@ loyalty. The result was a long drawn out interval, while the government
 held on and its supporters became more embittered over their
 differences. Mr Chamberlain needed a rest, and was away in Italy and
 Egypt from March to May, and again in November. He made three important
-speeches at Welbeck (August 4), at Luton (October 5), and at Limehouse
+speeches at Welbeck (August 4), at [[Luton]] (October 5), and at Limehouse
 (December 15), but he had nothing substantial to add to his case, and
 the party situation continued in all its embarrassments. Mr Balfour's
 introduction of his promise (at Edinburgh on October 3) to convene an
@@ -677,7 +677,7 @@ Chamberlain then called a general meeting on his own responsibility in
 February, when a new constitution was proposed; and in May, at the
 annual meeting of the Liberal-Unionist council, the free-food Unionists,
 being in a minority, retired, and the association was reorganized under
-Mr Chamberlain's auspices, Lord Lansdowne and Lord Selborne (both of
+Mr Chamberlain's auspices, Lord [[Lansdowne]] and Lord Selborne (both of
 them cabinet ministers) becoming vice-presidents. On July 14th the
 reconstituted Liberal-Unionist organization held a great demonstration
 in the Albert Hall, and Mr Chamberlain's success in ousting the duke of
@@ -695,7 +695,7 @@ somewhat further than before his "embrace" of Mr Balfour; and in the
 autumn, when foreign affairs no longer dominated the attention of the
 government, the crisis rapidly came to a head. In reply to Mr Balfour's
 appeal for the sinking of differences (Newcastle, November 14), Mr
-Chamberlain insisted at Bristol (November 21) on the adoption of his
+Chamberlain insisted at [[Bristol]] (November 21) on the adoption of his
 fiscal policy; and Mr Balfour resigned on December 4. on the ground that
 he no longer retained the confidence of the party. At the crushing
 Unionist defeat in the general election which followed in January 1906,
@@ -725,8 +725,8 @@ real devotion to an idea. In championing the cause of imperial fiscal
 union, by means involving the abandonment of a system of taxation which
 had become part of British orthodoxy, he followed the guidance of a
 profound conviction that the stability of the empire and the very
-existence of the hegemony of the United Kingdom depended upon the
-conversion of public opinion to a revision of the current economic
+existence of the [[Hegemony|hegemony]] of the United Kingdom depended upon the
+[[Conversion|conversion]] of public opinion to a revision of the current economic
 doctrine. There were doubtless miscalculations at the outset as to the
 resistance to be encountered. But from the purely party point of view he
 was entitled to say that he followed the path of loyalty to Mr Balfour
@@ -740,7 +740,7 @@ mainly responsible for the Unionist collapse. Time alone would show
 whether the system of free imports could be permanently reconciled with
 British imperial policy or commercial prosperity. It remained the fact
 that Mr Chamberlain staked an already established position on his
-refusal to compromise with his convictions on a question which appeared
+refusal to [[Compromise|compromise]] with his convictions on a question which appeared
 to him of vital and immediate importance.
 
 Mr Chamberlain's own activity in the political field was cut short in

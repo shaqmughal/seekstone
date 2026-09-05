@@ -1,8 +1,8 @@
 # Bardoux
 
-BARDOUX, AGÉNOR (1820-1897), French statesman, was a native of Bourges.
+BARDOUX, AGÉNOR (1820-1897), French statesman, was a native of [[Bourges]].
 Established as an advocate at Clermont, he did not hesitate to proclaim his
-republican sympathies. In 1871 he was elected deputy of the National
+republican sympathies. In 1871 he was elected [[Deputy|deputy]] of the National
 Assembly, and re-elected in 1876 and in 1877. In the chamber he was
 president of the group of the left centre, standing strongly for the
 republic but against anti-clericalism. After the _coup d'état_ of the 16th

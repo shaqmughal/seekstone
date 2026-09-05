@@ -29,7 +29,7 @@ The form "Junto," a corruption due to other Spanish words ending in
 -_o_, came into use in English in the 17th century, often in a
 disparaging sense, of a party united for a political purpose, a faction
 or cabal; it was particularly applied to the advisers of Charles I., to
-the Rump under Cromwell, and to the leading members of the great Whig
+the Rump under [[Cromwell]], and to the leading members of the great Whig
 houses who controlled the government in the reigns of William III. and
 Anne.
 

@@ -2,7 +2,7 @@
 
 BASILISK (the [Greek: Basiliskos] of the Greeks, and _Tsepha_ (cockatrice)
 of the Hebrews), a name given by the ancients to a horrid monster of their
-own imagination, to which they attributed the most malignant powers and an
+own [[Imagination|imagination]], to which they attributed the most malignant powers and an
 equally fiendish appearance. The term is now applied, owing to a certain
 fanciful resemblance, to a genus of lizards belonging to the family
 _Iguanidae_, the species of which are characterized by the presence, in the

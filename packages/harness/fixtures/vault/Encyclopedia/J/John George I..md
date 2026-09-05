@@ -12,14 +12,14 @@ strength of Brandenburg nor the increasing prestige of the Palatinate;
 the adherence of the other branches of the Saxon ruling house to
 Protestantism seemed to him to suggest that the head of electoral Saxony
 should throw his weight into the other scale, and he was prepared to
-favour the advances of the Habsburgs and the Roman Catholic party. Thus
-he was easily induced to vote for the election of Ferdinand, archduke of
+favour the advances of the [[Habsburg|Habsburgs]] and the Roman Catholic party. Thus
+he was easily induced to vote for the election of [[Ferdinand]], archduke of
 Styria, as emperor in August 1619, an action which nullified the
-anticipated opposition of the Protestant electors. The new emperor
+anticipated opposition of the Protestant [[Electors|electors]]. The new emperor
 secured the help of John George for the impending campaign in Bohemia by
 promising that he should be undisturbed in his possession of certain
 ecclesiastical lands. Carrying out his share of the bargain by occupying
-Silesia and Lusatia, where he displayed much clemency, the Saxon elector
+Silesia and [[Lusatia]], where he displayed much clemency, the Saxon elector
 had thus some part in driving Frederick V., elector palatine of the
 Rhine, from Bohemia and in crushing Protestantism in that country, the
 crown of which he himself had previously refused. Gradually, however, he
@@ -31,10 +31,10 @@ although clamouring vainly for the exemption of the electorate from the
 area covered by the edict, John George took no decided measures to break
 his alliance with the emperor. He did, indeed, in February 1631 call a
 meeting of Protestant princes at Leipzig, but in spite of the appeals of
-the preacher Matthias Hoë von Hohenegg (1580-1645) he contented himself
+the preacher [[Matthias]] Hoë von Hohenegg (1580-1645) he contented himself
 with a formal protest. Meanwhile Gustavus Adolphus had landed in
-Germany, and the elector had refused to allow him to cross the Elbe at
-Wittenberg, thus hindering his attempt to relieve Magdeburg. But John
+Germany, and the elector had refused to allow him to cross the [[Elbe]] at
+Wittenberg, thus hindering his attempt to relieve [[Magdeburg]]. But John
 George's reluctance to join the Protestants disappeared when the
 imperial troops under Tilly began to ravage Saxony, and in September
 1631 he concluded an alliance with the Swedish king. The Saxon troops
@@ -64,8 +64,8 @@ little more than confirm the treaty of Prague, John George died on the
 great ruler; his character appears to have been harsh and unlovely, and
 he was addicted to drink. He was twice married, and in addition to his
 successor John George II. he left three sons, Augustus (1614-1680),
-Christian (d. 1691) and Maurice (d. 1681) who were all endowed with
-lands in Saxony, and who founded cadet branches of the Saxon house.
+Christian (d. 1691) and [[Maurice]] (d. 1681) who were all endowed with
+lands in Saxony, and who founded [[Cadet|cadet]] branches of the Saxon house.
 
 JOHN GEORGE II. (1613-1680), elector of Saxony, was born on the 31st of
 May 1613. In 1657, just after his accession, he made an arrangement with
@@ -73,15 +73,15 @@ his three brothers with the object of preventing disputes over their
 separate territories, and in 1664 he entered into friendly relations
 with Louis XIV. He received money from the French king, but the
 existence of a strong anti-French party in Saxony induced him
-occasionally to respond to the overtures of the emperor Leopold I. The
+occasionally to respond to the overtures of the emperor [[Leopold]] I. The
 elector's primary interests were not in politics, but in music and art.
-He adorned Dresden, which under him became the musical centre of
+He adorned [[Dresden]], which under him became the musical centre of
 Germany; welcoming foreign musicians and others he gathered around him a
 large and splendid court, and his capital was the constant scene of
 musical and other festivals. His enormous expenditure compelled him in
 1661 to grant greater control over monetary matters to the estates, a
 step which laid the foundation of the later system of finance in Saxony.
-John George died at Freiberg on the 22nd of August 1680.
+John George died at [[Freiberg]] on the 22nd of August 1680.
 
 JOHN GEORGE III. (1647-1691), elector of Saxony, the only son of John
 George II., was born on the 20th of June 1647. He forsook the
@@ -93,11 +93,11 @@ the emperor Leopold I. after the victory, he returned at once to Saxony.
 However, he sent aid to Leopold in 1685. When Louis XIV.'s armies
 invaded Germany in September 1688 John George was one of the first to
 take up arms against the French, and after sharing in the capture of
-Mainz he was appointed commander-in-chief of the imperial forces. He had
+[[Mainz]] he was appointed commander-in-chief of the imperial forces. He had
 not, however, met with any notable success when he died at Tübingen on
 the 12th of September 1691. Like his father, he was very fond of music,
 but he appears to have been less extravagant than John George II. His
-wife was Anna Sophia, daughter of Frederick III. king of Denmark, and
+wife was [[Anna]] Sophia, daughter of Frederick III. king of [[Denmark]], and
 both his sons, John George and Frederick Augustus, became electors of
 Saxony, the latter also becoming king of Poland as Augustus II.
 
@@ -124,7 +124,7 @@ JOHN[1] MAURICE OF NASSAU (1604-1679), surnamed the Brazilian, was the
 son of John the Younger, count of Nassau-Siegen-Dillenburg, and the
 grandson of John, the elder brother of William the Silent and the chief
 author of the Union of Utrecht. He distinguished himself in the
-campaigns of his cousin, the stadtholder Frederick Henry of Orange, and
+campaigns of his [[Cousin|cousin]], the stadtholder Frederick Henry of Orange, and
 was by him recommended to the directors of the Dutch West India company
 in 1636 to be governor-general of the new dominion in Brazil recently
 conquered by the company. He landed at the Recife, the port of
@@ -142,7 +142,7 @@ submit quietly to Dutch rule. His large schemes and lavish expenditure
 alarmed however the parsimonious directors of the West India company,
 but John Maurice refused to retain his post unless he was given a free
 hand, and he returned to Europe in July 1644. He was shortly afterwards
-appointed by Frederick Henry to the command of the cavalry in the States
+appointed by Frederick Henry to the command of the [[Cavalry|cavalry]] in the States
 army, and he took part in the campaigns of 1645 and 1646. When the war
 was ended by the peace of Münster in January 1648, he accepted from the
 elector of Brandenburg the post of governor of Cleves, Mark and
@@ -156,11 +156,11 @@ forces on land. Though hampered in his command by the restrictions of
 the states-general, he repelled the invasion, and the bishop, Christoph
 von Galen, was forced to conclude peace. His campaigning was not yet at
 an end, for in 1673 he was appointed by the stadtholder William III. to
-command the forces in Friesland and Groningen, and to defend the eastern
+command the forces in [[Friesland]] and [[Groningen]], and to defend the eastern
 frontier of the Provinces. In 1675 his health compelled him to give up
 active military service, and he spent his last years in his beloved
 Cleves, where he died on the 20th of December 1679. The house which he
-built at the Hague, named after him the Maurits-huis, now contains the
+built at the [[Hague]], named after him the Maurits-huis, now contains the
 splendid collections of pictures so well known to all admirers of Dutch
 art.
 

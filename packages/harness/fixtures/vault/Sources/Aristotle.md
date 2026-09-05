@@ -2,7 +2,7 @@
 
 ARISTOTLE (384-322 B.C.), the great Greek philosopher, was born at
 Stagira, on the Strymonic Gulf, and hence called "the Stagirite."
-Dionysius of Halicarnassus, in his _Epistle on Demosthenes and
+[[Dionysius]] of [[Halicarnassus]], in his _[[Epistle]] on Demosthenes and
 Aristotle_ (chap. 5), gives the following sketch of his life:--Aristotle
 ([Greek: Aristotelaes]) was the son of Nicomachus, who traced back his
 descent and his art to Machaon, son of Aesculapius; his mother being
@@ -13,12 +13,12 @@ the archonship of Polyzelus (367-366), after the death of his father, in
 his eighteenth year, he came to Athens, and having joined Plato spent
 twenty years with him. On the death of Plato (May 347) in the archonship
 of Theophilus (348-347) he departed to Hermias, tyrant of Atarneus, and,
-after three years' stay, during the archonship of Eubulus (345-344) he
+after three years' stay, during the archonship of [[Eubulus]] (345-344) he
 moved to Mitylene, whence he went to Philip of Macedon in the archonship
 of Pythodotus (343-342), and spent eight years with him as tutor of
 Alexander. After the death of Philip (336), in the archonship of
 Euaenetus (335-334), he returned to Athens and kept a school in the
-Lyceum for twelve years. In the thirteenth, after the death of Alexander
+[[Lyceum]] for twelve years. In the thirteenth, after the death of Alexander
 (June 323) in the archonship of Cephisodorus (323-322), having departed
 to Chalcis, he died of disease (322), after a life of three-and-sixty
 years.
@@ -27,7 +27,7 @@ years.
 I. ARISTOTLE'S LIFE
 
 This account is practically repeated by Diogenes Laertius in his _Life
-of Aristotle_, on the authority of the _Chronicles_ of Apollodorus, who
+of Aristotle_, on the authority of the _Chronicles_ of [[Apollodorus]], who
 lived in the 2nd century B.C. Starting then from this tradition, near
 enough to the time, we can confidently divide Aristotle's career into
 four periods: his youth under his parents till his eighteenth year; his
@@ -40,30 +40,30 @@ with few details.
 
 Aristotle from the first profited by having a father who, being
 physician to Amyntas II., king of Macedon, and one of the Asclepiads
-who, according to Galen, practised their sons in dissection, both
+who, according to Galen, practised their sons in [[Dissection|dissection]], both
 prepared the way for his son's influence at the Macedonian court, and
-gave him a bias to medicine and biology, which certainly led to his
+gave him a [[Bias|bias]] to medicine and [[Biology|biology]], which certainly led to his
 belief in nature and natural science, and perhaps induced him to
 practise medicine, as he did, according to his enemies, Timaeus and
-Epicurus, when he first went to Athens. At Athens in his second period
+[[Epicurus]], when he first went to Athens. At Athens in his second period
 for some twenty years he acquired the further advantage of balancing
 natural science by metaphysics and morals in the course of reading
 Plato's writings and of hearing Plato's unwritten dogmas (cf. [Greek: en
 tois legomenois agraphois dogmasin], Ar. _Physics_, iv. 2, 209 b 15,
-Berlin ed.). He was an earnest, appreciative, independent student. The
-master is said to have called his pupil the intellect of the school and
+Berlin ed.). He was an [[Earnest|earnest]], appreciative, independent student. The
+master is said to have called his pupil the [[Intellect|intellect]] of the school and
 his house a reader's. He is also said to have complained that his pupil
-spurned him as colts do their mothers. Aristotle, however, always
-revered Plato's memory (_Nic. Ethics_, i. 6), and even in criticizing
+spurned him as [[Colt|colts]] do their mothers. Aristotle, however, always
+revered Plato's memory (_Nic. [[Ethics]]_, i. 6), and even in criticizing
 his master counted himself enough of a Platonist to cite Plato's
 doctrines as what "we say" (cf. [Greek: phamen], _Metaphysics_, i. 9,
 990 b 16). At the same time, he must have learnt much from other
 contemporaries at Athens, especially from astronomers such as Eudoxus
-and Callippus, and from orators such as Isocrates and Demosthenes. He
+and Callippus, and from orators such as [[Isocrates]] and Demosthenes. He
 also attacked Isocrates, according to Cicero, and perhaps even set up a
 rival school of rhetoric. At any rate he had pupils of his own, such as
-Eudemus of Cyprus, Theodectes and Hermias, books of his own, especially
-dialogues, and even to some extent his own philosophy, while he was
+Eudemus of [[Cyprus]], Theodectes and Hermias, books of his own, especially
+[[Dialogue|dialogues]], and even to some extent his own philosophy, while he was
 still a pupil of Plato.
 
 Well grounded in his boyhood, and thoroughly educated in his manhood,
@@ -79,9 +79,9 @@ then a boy of thirteen. According to Cicero (_De Oratore_, iii. 41),
 Philip wished his son, then a boy of thirteen, to receive from Aristotle
 "agendi praecepta et eloquendi." Aristotle is said to have written on
 monarchy and on colonies for Alexander; and the pupil is said to have
-slept with his master's edition of Homer under his pillow, and to have
+slept with his master's edition of [[Homer]] under his pillow, and to have
 respected him, until from hatred of Aristotle's tactless relative,
-Callisthenes, who was done to death in 328, he turned at last against
+[[Callisthenes]], who was done to death in 328, he turned at last against
 Aristotle himself. Aristotle had power to teach, and Alexander to learn.
 Still we must not exaggerate the result. Dionysius must have spoken too
 strongly when he says that Aristotle was tutor of Alexander for eight
@@ -94,7 +94,7 @@ and in return was celebrated in a festival after his death. All these
 vicissitudes made him a man of the world, drew him out of the
 philosophical circle at Athens, and gave him leisure to develop his
 philosophy. Besides Alexander he had other pupils: Callisthenes,
-Cassander, Marsyas, Phanias, and Theophrastus of Eresus, who is said to
+[[Cassander]], [[Marsyas]], Phanias, and Theophrastus of Eresus, who is said to
 have had land at Stagira. He also continued the writings begun in his
 second period; and the Macedonian kings have the glory of having
 assisted the Stagirite philosopher with the means of conducting his
@@ -102,11 +102,11 @@ researches in the _History of Animals_.
 
 At last, in his fourth period, after the accession of Alexander,
 Aristotle at fifty returned to Athens and became the head of his own
-school in the Lyceum, a gymnasium near the temple of Apollo Lyceius in
+school in the Lyceum, a gymnasium near the temple of [[Apollo]] Lyceius in
 the suburbs. The master and his scholars were called Peripatetics
 ([Greek: oi ek ton peripaton]), certainly from meeting, like other
 philosophical schools, in a walk ([Greek: peripatos]), and perhaps also,
-on the authority of Hermippus of Smyrna, from walking and talking there,
+on the authority of [[Hermippus]] of Smyrna, from walking and talking there,
 like Protagoras and his followers as described in Plato's _Protagoras_
 (314 E, 315 C). Indeed, according to Ammonius, Plato too had talked as
 he walked in the Academy; and all his followers were called
@@ -118,7 +118,7 @@ the philosopher himself delivered lectures, in which his practice, as
 his pupil Aristoxenus tells us (_Harmonics_ ii, _init_.), was, avoiding
 the generalities of Plato, to prepare his audience by explaining the
 subject of investigation and its nature. But Aristotle was an author as
-well as a lecturer; for the hypothesis that the Aristotelian writings
+well as a lecturer; for the [[Hypothesis|hypothesis]] that the Aristotelian writings
 are notes of his lectures taken down by his pupils is contradicted by
 the tradition of their learning while walking, and disproved by the
 impossibility of taking down such complicated discourses from dictation.
@@ -148,7 +148,7 @@ oppressive selfishness of new tyrannies throughout the Greek world, he
 condemned the actual constitutions of the Greek states as deviations
 ([Greek: parekbaseis]) directed merely to the good of the government;
 and he contemplated a right constitution ([Greek: orthae politeia]),
-which might be either a commonwealth, an aristocracy or a monarchy,
+which might be either a [[Commonwealth|commonwealth]], an [[Aristocracy|aristocracy]] or a monarchy,
 directed to the general good; but he preferred the monarchy of one man,
 pre-eminent in virtue above the rest, as the best of all governments
 (_Nicomachean Ethics_, viii. 10; _Politics_, [Gamma] 14-18). Moreover,
@@ -164,8 +164,8 @@ friendship of Antipater, the Macedonian regent in Alexander's absence.
 But on Alexander's sudden death in 323, when Athens in the Lamian war
 tried to reassert her freedom against Antipater, Aristotle found himself
 in danger. He was accused of impiety on the absurd charge of deifying
-the tyrant Hermias; and, remembering the fate of Socrates, he retired to
-Chalcis in Euboea. There, away from his school, in 322 he died. (A tomb
+the tyrant Hermias; and, remembering the [[Fate|fate]] of Socrates, he retired to
+Chalcis in [[Euboea]]. There, away from his school, in 322 he died. (A tomb
 has been found in our time inscribed with the name of Biote, daughter of
 Aristotle. But is this _our_ Aristotle?)
 
@@ -182,12 +182,12 @@ are to take charge of Herpyllis, "because," in the words of the
 testator, "she has been good to me," and to allow her to reside either
 in the lodging by the garden at Chalcis or in the paternal house at
 Stagira. They are to provide for the slaves, who in some cases are to be
-freed. They are to see after the dedication of four images by Gryllion
+freed. They are to see after the [[Dedication|dedication]] of four [[Image|images]] by Gryllion
 of Nicanor, Proxenus, Nicanor's mother and Arimnestus. They are to
-dedicate an image of Aristotle's mother, and to see that the bones of
+dedicate an image of Aristotle's mother, and to see that the [[Bone|bones]] of
 his wife Pythias are, as she ordered, taken up and buried with him. On
 this will we may remark that Proxenus is said to have been Aristotle's
-guardian after the death of his father, and to have been the father of
+[[Guardian|guardian]] after the death of his father, and to have been the father of
 Nicanor; that Herpyllis of Stagira was the mother of Nicomachus by
 Aristotle; and that Arimnestus was the brother of Aristotle, who also
 had a sister, Arimneste. Every clause breathes the philosopher's
@@ -248,7 +248,7 @@ apprehends, or (to be precise) is reminded of, real universal forms,
 and, by first ascending from less to more general until it arrives at
 the form of good and then descending from this unconditional principle
 to the less general, becomes science and philosophy, using as its method
-the dialectic which gives and receives questions and answers between man
+the [[Dialectic|dialectic]] which gives and receives questions and answers between man
 and man. Happiness in this world consists proximately in virtue as a
 harmony between the three parts, rational, spirited and appetitive, of
 our souls, and ultimately in living according to the form of the good;
@@ -305,7 +305,7 @@ the immateriality of essences; he believed in the good, and that there
 is a good of the universe; he believed that God is a living being,
 eternal and best, who is a supernatural cause of the motions and changes
 of the natural world, and that essences and matter are also necessary
-causes; he believed in the divine intelligence and in the immortality of
+causes; he believed in the divine intelligence and in the [[Immortality|immortality]] of
 our intelligent souls; he believed in knowledge going from sense to
 reason, that science requires ascent to principles and is descent from
 principles, and that dialectic is useful to science; he believed in
@@ -313,7 +313,7 @@ happiness involving virtue, and in moral virtue being a control of
 passions by reason, while the highest happiness is speculative wisdom.
 All these inspiring metaphysical and moral doctrines the pupil accepted
 from his master's dialogues, and throughout his life adhered to the
-general spirit of realism without materialism pervading the Platonic
+general spirit of realism without [[Materialism|materialism]] pervading the Platonic
 philosophy. But what he refused to believe with Plato was that reality
 is not here, but only above; and what he maintained against Plato was
 that it is both, and that universals and forms, one and many, the good,
@@ -333,7 +333,7 @@ _Eudemus_, seem to have been published. It is not always certain which
 were dialogues, which didactic like Aristotle's later works; but by
 comparing those which were certainly dialogues with their companions in
 the list of Aristotle's books as given by Diogenes Laertius, we may
-conclude with Bernays that the books occurring first in that list were
+conclude with [[Bernays]] that the books occurring first in that list were
 dialogues. Hence we may perhaps accept as genuine the following:--
 
   1. Dialogues:--
@@ -390,7 +390,7 @@ with Alexander.
 
 These early writings show clearly how Aristotle came to depart from
 Plato. In the first place as regards style, though the Stagirite pupil
-Aristotle could never rival his Attic master in literary form, yet he
+Aristotle could never rival his [[Attic]] master in literary form, yet he
 did a signal service to philosophy in gradually passing from the vague
 generalities of the dialogue to the scientific precision of the didactic
 treatise. The philosophy of Plato is dialogue trying to become science;
@@ -414,17 +414,17 @@ Philosophy_ and the treatise _on Forms_ are against Plato.
   that the soul is more real than the body, that it is imprisoned in the
   carcase as a prison-house, that it is capable of enjoying a happier
   life freed from the body, and that it can transmigrate from body to
-  body. This strange, exotic, ascetic view was adopted by some
+  body. This strange, [[Exotic|exotic]], ascetic view was adopted by some
   philosophers, and especially by the Pythagoreans, and so transmitted
   to Plato. Aristotle in the _Eudemus_, written about 352, when he was
   thirty-two, also believed in it. Accordingly, the soul of Eudemus,
   when it left his body, is said to be returning home: the soul is made
-  subject to the casting of lots, and in coming from the other world to
+  subject to the casting of [[Lot|lots]], and in coming from the other world to
   this it is supposed to forget its former visions: but its disembodied
   life is regarded as its natural life in a better world. The _Eudemus_
   also contained a celebrated passage, preserved by Plutarch (_Consolat.
   ad Apoll._.27; _Fragm._ 44). Here we can read the young Aristotle,
-  writing in the form of the dialogue like Plato, avoiding hiatus like
+  writing in the form of the dialogue like Plato, avoiding [[Hiatus|hiatus]] like
   Isocrates, and justifying the praises accorded to his style by Cicero,
   Quintilian and Dionysius. It shows how nearly the pupil could imitate
   his master's dialogues, and still more how exactly he at first
@@ -437,7 +437,7 @@ Philosophy_ and the treatise _on Forms_ are against Plato.
 
   Hardly less Platonic is the _Protrepticus_ (_Fragm._ 50 seq.), an
   exhortation to philosophy which, according to Zeno the Stoic, was
-  studied by his master Crates. It is an exhortation, whose point is
+  studied by his master [[Crates]]. It is an exhortation, whose point is
   that the chief good is philosophy, the contemplation of the universe
   by divine and immortal intellect. This is indeed a doctrine of
   Platonic ethics from which Aristotle in his later days never swerved.
@@ -451,7 +451,7 @@ Philosophy_ and the treatise _on Forms_ are against Plato.
   of happiness. Finally, in the spirit of Plato's _Phaedo_ and the
   dialogue _Eudemus_, the _Protrepticus_ holds that the soul is bound to
   the sentient members of the body as prisoners in Etruria are bound
-  face to face with corpses; whereas the later view of the _De Anima_ is
+  face to face with [[Corpse|corpses]]; whereas the later view of the _De Anima_ is
   that the soul is the vital principle of the body and the body the
   necessary organ of the soul.
 
@@ -544,7 +544,7 @@ Philosophy_ and the treatise _on Forms_ are against Plato.
   the state, but departed from him by saying that a king need not be a
   philosopher, as Plato had said in the _Republic_, but does need to
   listen to philosophers. Still more marked was his departure from Plato
-  as regards rhetoric. Plato in the _Gorgias_, (501 [Alpha]) had
+  as regards rhetoric. Plato in the _[[Gorgias]]_, (501 [Alpha]) had
   contended that rhetoric is not an art but an empirical practice
   ([Greek: tribae kai empeiria]); Aristotle in the _Gryllus_ (_Fragm._
   68-69), written in his second period, took according to Quintilian a
@@ -593,7 +593,7 @@ The system which was taught by Aristotle at Athens in the fourth period
 of his life, and which is now known as the Aristotelian philosophy, is
 contained not in fragments but in extant books. It will be best then to
 give at once a list of these extant works, following the traditional
-order in which they have long been arranged, and marking with a dagger
+order in which they have long been arranged, and marking with a [[Dagger|dagger]]
 ([+]) those which are now usually considered not to be genuine, though
 not always with sufficient reason.
 
@@ -619,7 +619,7 @@ not always with sufficient reason.
 
   5. [Greek: Topika]: _Topica_: On dialectical syllogism ([Greek:
   Dialektikos syllogismos]), so called from consisting mainly of
-  commonplaces ([Greek: topoi]. _loci_), or general sources of argument.
+  [[Commonplace|commonplaces]] ([Greek: topoi]. _loci_), or general sources of argument.
 
   6. [Greek: Sophistikoi elenchoi]: _Sophistici Elenchi_: On sophistic
   ([Greek: sophistikos]) or eristic syllogism ([Greek: eristikos
@@ -633,7 +633,7 @@ not always with sufficient reason.
   1. [Greek: Physikae akroasis]: _Physica Auscultatio_: On Nature as
   cause of change, and the general principles of natural science.
 
-  2. [Greek: peri ouranou]: _De coelo_: On astronomy, &c.
+  2. [Greek: peri ouranou]: _De coelo_: On [[Astronomy|astronomy]], &c.
 
   3. [Greek: peri geneseos kai phthoras]: _De generatione et
   corruptione_: On generation and destruction in general.
@@ -655,7 +655,7 @@ not always with sufficient reason.
   9. [Greek: peri hypnou kai egregorseos]: _De somno et vigilia_: On
   sleep and waking.
 
-  10. [Greek: peri enypnion]: _De insomniis_: On dreams.
+  10. [Greek: peri enypnion]: _De insomniis_: On [[Dream|dreams]].
 
   11. [Greek: peri taes kath hypnon mantikes] or [Greek: peri mantikes
   pes hen tois hypnois]: _De divinatione per somnum_: On prophecy in
@@ -664,7 +664,7 @@ not always with sufficient reason.
   12. [Greek: peri makrobiotetos kai brachybiotetos]: _De longitudine et
   brevitate vitae_: On length and shortness of life.
 
-  13. [Greek: peri neotetos kai geros kai peri zoaes kai thanatou]: _De
+  13. [Greek: peri neotetos kai [[Gero|geros]] kai peri zoaes kai thanatou]: _De
   juventute et senectute et de vita et morte_: On youth and age, and on
   life and death.
 
@@ -690,7 +690,7 @@ not always with sufficient reason.
   20. [Greek: peri zoon geneseos]: _De animalium generatione_: On the
   generation of animals.
 
-  21.[+] [Greek: peri chromaton]: _De coloribus_: On colours. [Ascribed
+  21.[+] [Greek: peri chromaton]: _De coloribus_: On [[Colours|colours]]. [Ascribed
   to the school of Theophrastus and Strato by Zeller.]
 
   22.[+] [Greek: peri akouston]: _De audibilibus_. [Ascribed to the
@@ -778,7 +778,7 @@ not always with sufficient reason.
   Hitherto, only fragments have come down to us (cf. _Fragm_. 381-603).
   The present treatise, without however its beginning and end, written
   on a papyrus discovered in Egypt and now in the British Museum, was
-  first edited by F.G. Kenyon 1890-1891.] (See the article CONSTITUTION
+  first edited by F.G. [[Kenyon]] 1890-1891.] (See the article CONSTITUTION
   OF ATHENS.)
 
 _The Difficulty._--The genuineness of the Aristotelian works, as
@@ -791,7 +791,7 @@ sometimes so carefully as to avoid hiatus, e.g. the _Metaphysics_ A, and
 parts of the _De Coelo_ and _Parva Naturalia_, which in this respect
 resemble the fragment quoted by Plutarch from the early dialogue
 _Eudemus_ (_Fragm_. 44). They also appear to contain displacements,
-interpolations, prefaces such as that to the _Meteorologica_, and
+[[Interpolation|interpolations]], prefaces such as that to the _Meteorologica_, and
 appendices such as that to the _Sophistical Elenchi_, which may have
 been added. An Aristotelian work often goes on continuously at first,
 and then becomes disappointing by suddenly introducing discussions which
@@ -831,12 +831,12 @@ beyond them. On the one hand, there is the curious story given partly by
 Strabo (608-609) and partly in Plutarch's _Sulla_ (c. 26), that
 Aristotle's successor Theophrastus left the books of both to their joint
 pupil, Neleus of Scepsis, where they were hidden in a cellar, till in
-Sulla's time they were sold to Apellicon, who made new copies,
+Sulla's time they were sold to [[Apellicon]], who made new copies,
 transferred after Apellicon's death by Sulla to Rome, and there edited
 and published by Tyrannio and Andronicus. On the other hand, there are
-the curious and puzzling catalogues of Aristotelian books, one given by
+the curious and puzzling [[Catalogue|catalogues]] of Aristotelian books, one given by
 Diogenes Laertius, another by an anonymous commentator (perhaps
-Hesychius of Miletus) quoted in the notes of Gilles Menage on Diogenes
+Hesychius of Miletus) quoted in the notes of [[Gill|Gilles]] Menage on Diogenes
 Laertius, and known as "Anonymus Menagii," and a third copied by two
 Arabian writers from Ptolemy, perhaps King Ptolemy Philadelphus, son of
 the founder of the library at Alexandria. (See Rose, _Fragm_. pp. 1-22.)
@@ -905,7 +905,7 @@ further proofs that they were both begun earlier than this date. The
 _Politics_ ([Beta] 10) mentions as having happened lately ([Greek:
 neosti]) the expedition of Phalaecus to Crete, which occurred towards
 the end of the Sacred War in 346. The _Meteorologica_ ([Gamma] 7)
-mentions the comet of 341. It is true that the _Politics_ also mentions
+mentions the [[Comet|comet]] of 341. It is true that the _Politics_ also mentions
 much later events, e.g. the assassination of Philip which took place in
 336 ([Epsilon] 10, 1311 b 1-3). Indeed, the whole truth about this great
 work is that it remained unfinished at Aristotle's death. But what of
@@ -929,7 +929,7 @@ without quinqueremes, which first appeared at Athens in 325-324; and as
 it mentions nothing later it probably received its final touches between
 320 and 324. But it may have been begun long before, and received
 additions and changes. However early Aristotle began a book, so long as
-he kept the manuscript, he could always change it. Finally he died
+he kept the [[Manuscript|manuscript]], he could always change it. Finally he died
 without completing some of his works, such as the _Politics_, and
 notably that work of his whole philosophic career and foundation of his
 whole philosophy--the _Metaphysics_--which, projected in his early
@@ -943,7 +943,7 @@ contemplated additions, continued writing them more or less together,
 not so much successively as simultaneously, and had not finished writing
 at his death.
 
-There is a curious characteristic connected with this gradual
+There is a curious characteristic connected with this [[Gradual|gradual]]
 composition. An Aristotelian treatise frequently has the appearance of
 being a collection of smaller discourses ([Greek: logoi]), as, e.g.,
 K.L. Michelet has remarked.
@@ -969,7 +969,7 @@ back to a previous part of a given topic, e.g. _Met_. [Theta] 1, 1045 b
 27-32, referring back to [Zeta] 1, or at the earliest to [Gamma] 2. On
 either alternative, however, "the first discourses" mentioned may have
 originally been a separate discourse; for Book [Gamma] begins quite
-fresh with the definition of the science of being, long afterwards
+fresh with the [[Definition|definition]] of the science of being, long afterwards
 called "Metaphysics," and Book [Zeta] begins Aristotle's fundamental
 doctrine of substance.
 
@@ -978,7 +978,7 @@ discourses is its consisting of different parts imperfectly connected.
 Thus the _Nicomachean Ethics_ begins by identifying the good with
 happiness ([Greek: eudaimonia]), and happiness with virtuous action. But
 when it comes to the moral virtues (Book iii. 6), a new motive of the
-"honourable" ([Greek: tou kalou eneka]) is suddenly introduced without
+"[[Honourable|honourable]]" ([Greek: tou kalou eneka]) is suddenly introduced without
 preparation, where one would expect the original motive of happiness.
 Then at the end of the moral virtues justice is treated at inordinate
 length, and in a different manner from the others, which are regarded as
@@ -1012,7 +1012,7 @@ beforehand the very difficulties which have since been found in his
 writings. He could very easily write in different styles at different
 times, now avoiding hiatus and now not, sometimes writing diffusely and
 sometimes briefly, partly polishing and partly leaving in the rough,
-according to the subject, his own state of health or humour, his age,
+according to the subject, his own state of health or [[Humour|humour]], his age,
 and the degree to which he had developed a given topic; and all this
 even in the same manuscript as well as in different manuscripts, so that
 a difference of style between different parts of a work or between
@@ -1107,7 +1107,7 @@ published to be obeyed, occasional poems, such as the poems of Solon,
 the odes of Pindar and the plays of the dramatists, which all had a
 political significance, were probably the first writings to be published
 or, rather, recited and acted, from written copies. With them came
-philosophical poems, such as those of Xenophanes and Empedocles; the
+philosophical poems, such as those of Xenophanes and [[Empedocles]]; the
 epical history of Herodotus; the dramatic philosophy of Plato. On a
 larger scale speeches written by orators to be delivered by litigants
 were published and encouraged publication; and, as the Attic orators
@@ -1150,7 +1150,7 @@ any of the _Constitutions_ were published in the author's lifetime. We
 are equally at a loss to prove that Aristotle published his philosophy.
 He had, like all the great, many enemies, personal and philosophical;
 but in his lifetime they attacked the man, not his philosophy. In the
-Megarian school, first Eubulides quarrelled with him and calumniated him
+Megarian school, first [[Eubulides]] quarrelled with him and calumniated him
 (Diog. Laert. ii. 109) in his lifetime; but the attack was on his life,
 not on his writings: afterwards Stilpo wrote a dialogue ([Greek:
 Aristotelaes]), which may have been a criticism of the Aristotelian
@@ -1168,17 +1168,17 @@ treated "even in current discussions" ([Greek: kai en tois egkukliois]).
 
 There is therefore no contemporary proof that Aristotle published any
 part of his mature philosophical system in his lifetime. It is true that
-a book of Andronicus, as reported by Aulus Gellius (xx. 5), contained a
+a book of Andronicus, as reported by Aulus [[Gellius]] (xx. 5), contained a
 correspondence between Alexander and Aristotle in which the pupil
 complained that his master had published his "acroatic discourses"
 ([Greek: tous akroatikous ton logon]). But ancient letters are
 proverbially forgeries, and in the three hundred years which elapsed
 between the supposed correspondence and the time of Andronicus there was
-plenty of time for the forgery of these letters. But even if the
+plenty of time for the [[Forgery|forgery]] of these letters. But even if the
 correspondence is genuine, "acroatic discourses" must be taken to mean
 what Alexander would mean by them in the time of Aristotle, and not what
 they had come to mean by the time of Andronicus. Alexander meant those
-discourses which Aristotle, when he was his tutor, intended for the ears
+discourses which Aristotle, when he was his tutor, intended for the [[Ear|ears]]
 of himself and his fellow-pupils; such as the early political works on
 _Monarchy_ and on _Colonies_, and the early rhetorical works, the
 _Theodectea_, the _Collection of Arts_, and possibly the _Rhetoric to
@@ -1201,7 +1201,7 @@ because they were popular, though now they are lost, but on the other
 hand did not publish any of the extant historical and philosophical
 works which belong to his mature system, because they were best adapted
 to his philosophical pupils in the Peripatetic school. The object of the
-philosopher was not the applause of the public but the truth of things.
+philosopher was not the [[Applause|applause]] of the public but the truth of things.
 Now this conclusion has an important bearing on the composition of
 Aristotle's writings and on the difficulties which have been found in
 them. If he had like a modern author brought out each of his extant
@@ -1219,7 +1219,7 @@ lectures; but he used them for lectures: he allowed his pupils to read
 them in his library, and probably to take copies from them. He also used
 diagrams, which are sometimes incorporated in his works, but sometimes
 are only mentioned, and were no doubt used for purposes of teaching. He
-also availed himself of his pupils' co-operation, as we may judge from
+also availed himself of his pupils' [[Co-Operation|co-operation]], as we may judge from
 his description in the _Ethics_ (x. 7) of the speculative philosopher
 who, though he is self-sufficing, is better having co-operators ([Greek:
 synergous hexon]). From an early time he had a tendency to address his
@@ -1313,7 +1313,7 @@ author must from the first have comtemplated a whole treatise in a
 regular order for definite publication, lose themselves in vain disputes
 as to whether to go by the traditional order of books indicated by their
 letters and known to have existed as early as the abstract (given in
-Stobaeus, _Ecl._ ii. 7) ascribed to Didymus (1st century A.D.), or to
+Stobaeus, _Ecl._ ii. 7) ascribed to [[Didymus]] (1st century A.D.), or to
 put the group [Eta], [Theta], as more connected with [Alpha], [Beta],
 [Gamma], before the group [Delta], [Zeta], and this group before the
 book [Eta]. It is agreed, says Zeller, that the traditional order
@@ -1397,7 +1397,7 @@ _Eudemian Ethics_ and _Magna Moralia_; (4) the _Rhetoric to Alexander_.
 
 1. The Categories ([Greek: kataegoriai]).--This short discourse turns on
 Aristotle's fundamental doctrine of individual substances, without which
-there is nothing. He arrives at it from a classification of categories,
+there is nothing. He arrives at it from a [[Classification|classification]] of categories,
 by which he here means "things stated in no combination" ([Greek: ta
 kata maedemian symplokaen legomena]) or what we should call "names,"
 capable of becoming predicates ([Greek: kataegoroumena, kataegoriai]).
@@ -1457,7 +1457,7 @@ paschein]). Aristotelianism is this philosophy of substantial things.
   classification of words by their structure; and in neither are they a
   psychological classification of notions or general conceptions
   ([Greek: noaemata]), such as they afterwards became in Kant's
-  _Critique_ and the post-Kantian idealism. Moreover, even in the
+  _Critique_ and the post-Kantian [[Idealism|idealism]]. Moreover, even in the
   _Categories_ as names signifying distinct things they imply distinct
   things; and hence the _Categories_, as well as the _Metaphysics_,
   draws the metaphysical conclusion that individual substances are the
@@ -1517,7 +1517,7 @@ paschein]). Aristotelianism is this philosophy of substantial things.
   those which differentiate the _Categories_ and the _Metaphysics_.
 
   In the first place, in the _Categories_ the belonging of things in
-  other categories to individual substances in the first category is not
+  other categories to individual substances in the first [[Category|category]] is not
   so well developed. A distinction (chap. 2) is drawn between things
   which are predicates of a subject ([Greek: kath upokeimenon]) and
   things which inhere in a subject ([Greek: en ipokeimeno]); and, while
@@ -1608,7 +1608,7 @@ paschein]). Aristotelianism is this philosophy of substantial things.
   species and genera to be called "secondary substances," nevertheless
   falls itself into calling a universal essence ([Greek: to ti aen
   einai]) a substance---and that too in the very book where it is proved
-  that no universal can be a substance. But this lapse only shows how
+  that no universal can be a substance. But this [[Lapse|lapse]] only shows how
   powerful a dominion Plato exercised over Aristotle's soul to the last;
   for it arises out of the pupil still accepting from his master the
   unity of the universal though now applying it, not to classes, but to
@@ -1651,7 +1651,7 @@ paschein]). Aristotelianism is this philosophy of substantial things.
   individual essence of any individual of the species.
 
 2. The _De Interpretatione._--Another example of Aristotle's gradual
-desertion of Plato is exhibited by the _De Interpretatione_ as compared
+[[Desertion|desertion]] of Plato is exhibited by the _De Interpretatione_ as compared
 with the _Prior Analytics_, and it shows another gradual history in
 Aristotle's philosophy, namely, the development of subject, predicate
 and copula, in his logic.
@@ -1662,7 +1662,7 @@ division of the sentence ([Greek: logos]) into noun and verb ([Greek:
 onoma] and [Greek: rema].) Its point is to separate the enunciative
 sentence, or that in which there is truth or falsity, from other
 sentences; and then, dismissing the rest to rhetoric or poetry (where we
-should say grammar), to discuss the enunciative sentence ([Greek:
+should say grammar), to [[Discus|discuss]] the enunciative sentence ([Greek:
 apophantikos logos]), or enunciation ([apophansis]), or what we should
 call the proposition (_De Int._ chap. 4). Here Aristotle, starting from
 the previous grammar of sentences in general, proceeded, for the first
@@ -1727,7 +1727,7 @@ _Prior Analytics_ can only be explained by supposing that the former is
 the earlier treatise. It is nearer to Plato's analysis of the sentence,
 and no logician would have gone back to it, after the Prior Analytics.
 It is not spurious, as some have supposed, nor later than the _De
-Anima_, as Zeller thought, but Aristotle in an earlier frame of mind.
+Anima_, as Zeller thought, but Aristotle in an earlier [[Frame|frame]] of mind.
 
 Moreover we can make a history of Aristotle's thought and gradual
 composition thus:
@@ -1752,7 +1752,7 @@ manuscript writings of one man. Nevertheless, the most usual hypothesis
 is that, while the _Nicomachean Ethics_ (E.N.) was written by Aristotle
 to Nicomachus, the _Eudemian_ (E.E.) was written, not to, but by,
 Eudemus, and the _Magna Moralia_ (M.M.) was written by some early
-disciple before the introduction of Stoic and Academic elements into the
+[[Disciple|disciple]] before the introduction of Stoic and Academic elements into the
 Peripatetic school. The question is further complicated by the fact that
 three Nicomachean books (E.N. v.-vii.) and three Eudemian (E.E.
 [Delta]-[Zeta]) are common to the two treatises, and by the consequent
@@ -1793,7 +1793,7 @@ subsequent life, however, he retained the fundamental doctrine, which he
 had learnt from Plato, and Plato from Socrates, that virtue is essential
 to happiness. Twice over this tenet, which makes Socrates, Plato and
 Aristotle one ethical school, inspired Aristotle to attempt poetry:
-first, in the Elegy to Eudemus of Cyprus, in which, referring to either
+first, in the [[Elegy]] to Eudemus of Cyprus, in which, referring to either
 Socrates or Plato, he praises the man who first showed clearly that a
 good and happy man are the same (_Fragm._ 673); and secondly, in the
 Hymn in memory of Hermias, beginning "Virtue, difficult to the human
@@ -1855,7 +1855,7 @@ name of Aristotle.
   good or evil as such. In the _Metaphysics_ ([lambda] 7, 1072 b 16), in
   discussing the occupation of God, he says "his pleasure is activity,"
   or "his activity is pleasure," according to a difference of readings
-  which makes no difference to the identification of pleasure and
+  which makes no difference to the [[Identification|identification]] of pleasure and
   activity ([Greek: energeia]). As then we find this identification of
   pleasure with activity in the _Metaphysics_ and in the _De Anima_, as
   well as in the _Nicomachean Ethics_, the _Eudemian Ethics_ and the
@@ -1940,10 +1940,10 @@ name of Aristotle.
   and like the _Eudemian Ethics_ in discussing good fortune and
   gentlemanliness, but it discusses them in a more worldly way. On good
   fortune (ii. 8), after recognizing the necessity of external goods to
-  happiness, it denies that fortune is due to divine grace, and simply
+  happiness, it denies that fortune is due to divine [[Grace|grace]], and simply
   defines it as irrational nature ([Greek: alogos thusis]).
   Gentlemanliness (ii. 9) it regards as perfect virtue, and defines the
-  gentleman as the man to whom really good things are good and really
+  [[Gentleman|gentleman]] as the man to whom really good things are good and really
   honourable things honourable. It then adds (ii. 10) that acting
   according to right reason is when the irrational part of the soul does
   not hinder the rational part of intellect from doing its work.
@@ -1982,7 +1982,7 @@ name of Aristotle.
   Ethics_.
 
   Again, these sketches are rough preparations for the subsequent books
-  common to the two treatises. It is true, as Dr Henry Jackson has
+  common to the two treatises. It is true, as Dr Henry [[Jackson]] has
   pointed out, though with some exaggeration, that the Eudemian agrees
   in detail rather better than the Nicomachean treatment of the
   voluntary with the subsequent discussion of injury (E.E. [Delta] =
@@ -1993,7 +1993,7 @@ name of Aristotle.
   other hand, there are still more fundamental points in which the first
   three books of the _Eudemian Ethics_ are a very inadequate preparation
   for the common books. Notably its treatment of prudence ([Greek:
-  phronaesis]) is a chaos. At first, prudence appears as the operation
+  phronaesis]) is a [[Chaos|chaos]]. At first, prudence appears as the operation
   of the philosophical life and connected with the speculative
   philosophy of Anaxagoras (E.E. [Alpha] 1-5): then it is brought into
   connexion with the practical philosophy of Socrates (_ib_. 5) and
@@ -2101,7 +2101,7 @@ name of Aristotle.
   calls intellectual virtues, but the _Magna Moralia_ (i. 5, 35) virtues
   of the rational part of the soul, and right reason, it distinguishes
   (i. 35, 1196 b 34-36) science, prudence, intelligence, wisdom,
-  apprehension ([Greek: upolaepsis]), in a rough manner very inferior to
+  [[Apprehension|apprehension]] ([Greek: upolaepsis]), in a rough manner very inferior to
   the classification of science, art, prudence, intelligence, wisdom,
   all of which are coordinate states of attaining truth, in the
   _Nicomachean Ethics_ (vi. 3). It distinguishes prudence ([Greek:
@@ -2158,7 +2158,7 @@ name of Aristotle.
 
   The hypothesis that the _Eudemian Ethics_, and by consequence the
   _Magna Moralia_, are later than Aristotle has arisen from a simple
-  misconception, continued in a Scholium attributed to Aspasius, who
+  misconception, continued in a Scholium attributed to [[Aspasius]], who
   lived in the 2nd century A.D. Nicomachean means "addressed to
   Nicomachus," and Eudemian "addressed to Eudemus"; but, as Cicero
   thought that the _Nicomachean Ethics_ was written by Nicomachus, so
@@ -2240,11 +2240,11 @@ fundamental doctrines that happiness requires external fortune, but is
 activity of soul according to virtue, rising from morality through
 prudence to wisdom, or that science of the divine which constitutes the
 theology of his _Metaphysics_. Surely, the harmony of these three moral
-gospels proves that Aristotle wrote them, and wrote the _Eudemian
+[[Gospel|gospels]] proves that Aristotle wrote them, and wrote the _Eudemian
 Ethics_ and the _Magna Moralia_ as preludes to the Nicomachean Ethics.
 When did he begin? We do not know; but there is a pathetic
 suggestiveness in a passage in the _Magna Moralia_ (i. 35), where he
-says, "Clever even a bad man is called; as Mentor was thought clever,
+says, "[[Clever]] even a bad man is called; as Mentor was thought clever,
 but prudent he was not." Mentor was the treacherous contriver of the
 death of Hermias (345-344 B.C.). Was this passage written when Aristotle
 was mourning for his friend?
@@ -2312,7 +2312,7 @@ ton anthropon]); (2) adventitious evidences ([Greek: ai d' epithetoi
 tois legomenois kai tois prattomenois]). The former are immediately
 enumerated as probabilities ([Greek: eikota]), examples ([Greek:
 paradeigmara]), proofs ([Greek: tekmaeria]), considerations ([Greek:
-enthomaemata]), maxims ([Greek: gnomai]), signs ([Greek: saemeia]),
+enthomaemata]), [[Maxims|maxims]] ([Greek: gnomai]), signs ([Greek: saemeia]),
 refutations ([Greek: elenchoi]); the latter as opinion of the speaker
 ([Greek: doxa ton legontos]), witnesses ([Greek: martyriai]), tortures
 ([Greek: basanoi]), oaths ([Greek: orkoi]). It is confessed by Spengel
@@ -2379,7 +2379,7 @@ logic of rhetoric.
   slightly different from the definition in the _Rhetoric_, which it
   must be remembered is also the definition in the _Prior Analytics_.
   Strange as this point is, it is still stranger that not one of these
-  internal evidences is brought into relation with induction and
+  internal evidences is brought into relation with [[Induction|induction]] and
   deduction. Example ([Greek: paradeigma]) is not called rhetorical
   induction, and consideration ([Greek: enthymaema]) is not called
   rhetorical syllogism, as they are in the _Rhetoric_, and in the
@@ -2399,11 +2399,11 @@ logic of rhetoric.
   that Aristotle was primarily a metaphysician. He gradually became a
   logician out of his previous studies: out of metaphysics, for with him
   being is always the basis of thinking, and common principles, such as
-  that of contradiction, are axioms of things before axioms of thought,
+  that of contradiction, are [[Axiom|axioms]] of things before axioms of thought,
   while categories are primarily things signified by names; out of the
   mathematics of the Pythagoreans and the Platonists, which taught him
   the nature of demonstration; out of the physics, of which he imbibed
-  the first draughts from his father, which taught him induction from
+  the first [[Draughts|draughts]] from his father, which taught him induction from
   sense and the modification of strict demonstration to suit facts; out
   of the dialectic between man and man which provided him with beautiful
   examples of inference in the Socratic dialogues of Xenophon and Plato;
@@ -2540,13 +2540,13 @@ becomes impossible to put one before another.
   introducing the principle of contradiction (_Met._ [Gamma] 3), which
   belongs to Metaphysics as an axiom of being, says that those who
   attempt to discuss the question of accepting this axiom, do so on
-  account of their ignorance of _Analytics_, which they ought to know
+  account of their [[Ignorance|ignorance]] of _Analytics_, which they ought to know
   beforehand ([Greek: proepistamenous]). He means that the logical
   analysis of demonstration in the _Analytics_ would teach them
   beforehand that there cannot be demonstration, though there must be
   induction, of an axiom, or any other principle; whereas, if they are
   not logically prepared for metaphysics, they will expect a
-  demonstration of the axiom, as Heraclitus, the Heraclitean Cratylus
+  demonstration of the axiom, as [[Heraclitus]], the Heraclitean Cratylus
   and the Sophist Protagoras actually did,--and in vain. Acting on this
   hint, not Aristotle but the Peripatetics inferred that all logic is an
   instrument ([Greek: organon]) of all sciences; and by the time of
@@ -2556,7 +2556,7 @@ becomes impossible to put one before another.
   real order for studying the philosophy of Aristotle, because there is
   more Metaphysics in his Physics than Physics in his Metaphysics, and
   more Metaphysics in his Logic than Logic in his Metaphysics. The
-  commentators themselves were doubtful about the order: Boethus
+  commentators themselves were doubtful about the order: [[Boethus]]
   proposed to begin with Physics, and some of the Platonists with Ethics
   or Mathematics; while Andronicus preferred to put Logic first as
   Organon (_Scholia_, 25 b 34 seq.). None of the parties to the dispute
@@ -2657,7 +2657,7 @@ science of mind.
 Aristotle's view of thinking in science and philosophy is essentially
 comprehensive; but it is not so wide as to become indefinite. According
 to him, science at its widest selects a special subject, e.g. number in
-arithmetic, magnitude in geometry, stars in astronomy, a man's good in
+[[Arithmetic|arithmetic]], magnitude in geometry, stars in astronomy, a man's good in
 ethics; concentrates itself on the causes and appropriate principles of
 its subject, especially the definition of the subject and its species by
 their essences or formal causes; and after an inductive intelligence of
@@ -2714,7 +2714,7 @@ knowledge of a definite subject from its appropriate principles and the
 discussion of anything whatever from opinions and authority. On one side
 he places science and philosophy, on the other dialectic and sophistry.
 
-Such is the great mind of Aristotle manifested in the large map of
+Such is the great mind of Aristotle manifested in the large [[Map|map]] of
 learning, by which we have now to determine the order of his extant
 philosophical writings, with a view to studying them in their real
 order, which is neither chronological nor traditional, but philosophical
@@ -2959,7 +2959,7 @@ philosophy of his own; (3) have traced the gradual composition of his
 writings from Plato's time onwards; (4) have distinguished earlier, more
 Platonic and rudimentary, from later, more independent and mature,
 writings; (5) have founded the real order of his writings, not on
-chronology, nor on tradition, but on his classification of science and
+[[Chronology|chronology]], nor on tradition, but on his classification of science and
 learning. It remains to answer the final question:--What is the
 Aristotelian philosophy, which its author gradually formed with so much
 labour? Here we have only room for its spirit, which we shall try to
@@ -2990,7 +2990,7 @@ substance itself affected ([Greek: auto peponthos]). The essence of each
 substance, being what it is ([Greek: to tiest, to ti aen einai]), is
 that substance; e.g. this rational animal, Socrates. Substances are so
 similar that the individuals of a species are even the same in essence
-or substance, e.g. Callias and Socrates differ in matter but are the
+or substance, e.g. [[Callias]] and Socrates differ in matter but are the
 same in essence, as rational animals. The universal ([Greek: to
 katholoy]) is real only as one predicate belonging to many individual
 substances: it is therefore not a substance. There are then no separate
@@ -3137,7 +3137,7 @@ speculation, practice and production.
   substance: intellect thereupon discovers the universal essence but
   only in the individuals of sense. This intellectual discovery requires
   sensation and retention of sensation; so that sense ([Greek:
-  aisthaesis]) receives impressions, imagination ([Greek: phantasia])
+  aisthaesis]) receives impressions, [[Imagination|imagination]] ([Greek: phantasia])
   retains them as images, intellect ([Greek: nous]) generalizes the
   universal, and, when it is intelligence of essence, is always true.
 
@@ -3269,7 +3269,7 @@ speculation, practice and production.
   the art of producing representations; (1) in words, rhythm and harmony
   ([Greek: harmonia], "harmony" in the original sense); (2) of men like
   ourselves, or better as in tragedy, or worse as in comedy; (3) by
-  means of narrative as in epic, or by action as in the drama. The cause
+  means of narrative as in epic, or by action as in the [[Drama|drama]]. The cause
   of poetry is man's instinct of representation and his love of
   representations caused by the pleasure of learning. Comedy is
   representation of men inferior in being ludicrous: epic is like
@@ -3281,7 +3281,7 @@ speculation, practice and production.
   this end we should use the most moral harmonies. But music has also
   other ends and uses, and on the whole four; namely amusement, virtue,
   occupation and purgation of the affections; for some men are liable
-  more than others to pity and fear and enthusiasm, but from sacred
+  more than others to pity and fear and [[Enthusiasm|enthusiasm]], but from sacred
   melodies we see them, when they have heard those which act
   orgiastically on the soul, becoming settled by a kind of medicine and
   purgation ([Greek: katharsis]), and being relieved with pleasure.
@@ -3295,7 +3295,7 @@ speculation, practice and production.
 
 Aristotle, even in this sketch of his system, shows himself to be the
 philosopher of facts, who can best of all men bear criticism; and indeed
-it must be confessed that he retained many errors of Platonism and laid
+it must be confessed that he retained many [[Error|errors]] of Platonism and laid
 himself open to the following objections. Two substances, being
 individuals, e.g. Socrates and Callias, are in no way the same, but only
 similar, even in essence, e.g. Socrates is one rational animal, Callias
@@ -3334,14 +3334,14 @@ is, matter as able passively to be changed, force as able actively to
 change. The simple bodies which are the matter of the rest are not
 terrestrial earth, water, air, fire, and a different celestial aether,
 but whatever elementary bodies natural science, starting anew from
-mechanics and chemistry, may determine to be the matter of all other
+mechanics and [[Chemistry|chemistry]], may determine to be the matter of all other
 bodies whatever. Nature does not aim at God as end, but God, thinking
 and willing ends, produces and acts on nature. Soul is not an
 immateriate essence of an organic body capable, but an immateriate
 conscious substance within an organic body. Sensation is not the
 reception of the selfsame essence of an external body, but one's
 perception of one's sentient organism as affected, and especially of its
-organs resisting one another, e.g. one's lips, hands, &c., preventing
+organs resisting one another, e.g. one's [[Lip|lips]], hands, &c., preventing
 one another from occupying the same place at the same moment within
 one's organism. Intelligence does not differ from sense by having no
 bodily organ, but the nervous system is the bodily organ of both.
@@ -3388,8 +3388,8 @@ stands or falls.
   LITERATURE.--The Aristotelian philosophy is to be studied first in
   Aristotle's works, which are the best commentaries on one another; the
   best complete edition is the Berlin edition (1831-1870), by Bekker and
-  Brandis, in which also are the fragments collected by V. Rose, the
-  scholia collected by Brandis, and the index compiled by Bonitz. After
+  [[Brandis]], in which also are the fragments collected by V. Rose, the
+  scholia collected by Brandis, and the [[Index|index]] compiled by Bonitz. After
   reading the remains of the Peripatetic school, the Greek commentators
   should be further studied in this edition. The Latin commentators, the
   Arabians and the schoolmen show how Aristotle has been the chief
@@ -3399,13 +3399,13 @@ stands or falls.
   which changed natural science, and the modern revolution of philosophy
   by Descartes which changed metaphysics, the study of Aristotle has
   become less universal; but it did not die out, and received a fresh
-  stimulus especially from Julius Pacius, who going back through G.
+  stimulus especially from [[Julius]] Pacius, who going back through G.
   Zabarella to the Arabians, and himself gifted with great logical
   powers, always deserves study in his editions of the _Organon_ and the
   _Physics_ and in his _Doctrinae Peripateticae_. In more recent times,
   as part of the growing conviction of the essentiality of everything
   Greek, Aristotle has received marked attention. In France there are
-  the works of Cousin (1835), Felix Ravaisson, who wrote on the
+  the works of [[Cousin]] (1835), [[Felix]] Ravaisson, who wrote on the
   _Metaphysics_ (1837-1846), and Barthelemy St Hilaire, who translated
   the _Organon_ and other works (1844 seq.). In Germany there has been a
   host of commentaries, among which we may mention the _Organon_ edited
@@ -3424,14 +3424,14 @@ stands or falls.
   towards understanding the foundations of Aristotelianism.
 
   In England scholars tend to take up certain parts of Aristotle's
-  philosophy. Grote indeed intended to write a general account of
+  philosophy. [[Grote]] indeed intended to write a general account of
   Aristotle like that of Plato; but his _Aristotle_ went little further
   than the logical writings. From Cambridge we have J.W. Blakesley's
   _Life of Aristotle_, E.M. Cope's _Rhetoric_, Dr Henry Jackson's
   _Nicomachean Ethics_, v., S.H. Butcher's _Poetics_, Hicks's _De
   Anima_, J.E. Sandys's _Athenian Constitution_, Jebb's _Rhetoric_ (ed.
   Sandys). Oxford in particular, since the beginning of the 19th
-  century, has kept alive the study of Aristotle. E. Cardwell in his
+  century, has kept alive the study of Aristotle. E. [[Cardwell]] in his
   edition of the _Nicomachean Ethics_ (1828) had the wisdom to found his
   text on the Laurentian Manuscript (Kb); E. Poste wrote translations of
   the _Posterior Analytics_ and _Sophistici Elenchi_; R. Congreve edited
@@ -3441,7 +3441,7 @@ stands or falls.
   Ogle has translated the _De Partibus Animalium_, with notes; R. Shute
   wrote a _History of the Aristotelian Writings_; Professor J.A.
   Stewart has written _Notes on the Nicomachean Ethics_; Professor J.
-  Burnet has issued an annotated edition of the _Nicomachean Ethics_,
+  [[Burnet]] has issued an annotated edition of the _Nicomachean Ethics_,
   and W.D. Ross has translated the _Metaphysics_. All these are, or
   were, Oxford men; and it remains to mention two others: I. Bywater,
   who as an Aristotelian scholar has done much for the improvement of

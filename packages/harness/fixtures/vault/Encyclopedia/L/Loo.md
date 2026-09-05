@@ -1,7 +1,7 @@
 # Loo
 
 LOO (formerly called "Lanterloo," Fr. _lanturlu_, the refrain of a
-popular 17th-century song), a round game of cards, played by any number
+popular 17th-century song), a round [[Game|game]] of [[Cards|cards]], played by any number
 of persons; from five to seven makes the best game. "Three-card loo" is
 the game usually played. An ordinary pack of fifty-two cards is used and
 the deal passes after each round. Each player must have the same number
@@ -70,7 +70,7 @@ each has to contribute.
   to play in the first deal, or when there is no loo the previous deal,
   or whenever clubs are trumps ("club law"). When there is a force no
   miss is dealt. "Irish loo" is played by allowing declared players to
-  exchange some or all of their cards for cards dealt from the top of
+  [[Exchange|exchange]] some or all of their cards for cards dealt from the top of
   the pack. There is no miss, and it is not compulsory to lead a trump
   with two trumps, unless there are only two declared players. At
   "five-card loo" each player has five cards instead of three, and a

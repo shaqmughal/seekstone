@@ -2,7 +2,7 @@
 
 MAXIMUS, the name of four Roman emperors.
 
-I. M. CLODIUS PUPIENUS MAXIMUS, joint emperor with D. Caelius Calvinus
+I. M. [[Clodius|CLODIUS]] PUPIENUS MAXIMUS, joint emperor with D. Caelius Calvinus
 Balbinus during a few months of the year A.D. 238. Pupienus was a
 distinguished soldier, who had been proconsul of Bithynia, Achaea, and
 Gallia Narbonensis. At the advanced age of seventy-four, he was chosen by
@@ -19,20 +19,20 @@ of leaving the city on an expedition--Pupienus against the Persians and
 Balbinus against the Goths--the praetorians, who had always resented the
 appointment of the senatorial emperors and cherished the memory of the
 soldier-emperor Maximinus, seized the opportunity of revenge. When most of
-the people were at the Capitoline games, they forced their way into the
+the people were at the Capitoline [[Games|games]], they forced their way into the
 palace, dragged Balbinus and Pupienus through the streets, and put them to
 death.
 
   See Capitolinus, _Life of Maximus and Balbinus_; Herodian vii. 10,
   viii. 6; Zonaras xii. 16; Orosius vii. 19; Eutropius ix. 2; Zosimus i.
-  14; Aurelius Victor, _Caesares_, 26, _epit._ 26; H. Schiller,
+  14; Aurelius Victor, _[[Caesar|Caesares]]_, 26, _epit._ 26; H. Schiller,
   _Geschichte der römischen Kaiserzeit_, i. 2; Gibbon, _Decline and
-  Fall_, ch. 7 and (for the chronology) appendix 12 (Bury's edition).
+  Fall_, ch. 7 and (for the [[Chronology|chronology]]) appendix 12 (Bury's edition).
 
 II. MAGNUS MAXIMUS, a native of Spain, who had accompanied Theodosius on
 several expeditions and from 368 held high military rank in Britain. The
 disaffected troops having proclaimed Maximus emperor, he crossed over
-to Gaul, attacked Gratian (q.v.), and drove him from Paris to Lyons,
+to [[Gaul]], attacked Gratian (q.v.), and drove him from Paris to [[Lyons]],
 where he was murdered by a partisan of Maximus. Theodosius being unable
 to avenge the death of his colleague, an agreement was made (384 or 385)
 by which Maximus was recognized as Augustus and sole emperor in Gaul,
@@ -42,11 +42,11 @@ In 387 Maximus crossed the Alps, Valentinian was speedily put to flight,
 while the invader established himself in Milan and for the time became
 master of Italy. Theodosius now took vigorous measures. Advancing with a
 powerful army, he twice defeated the troops of Maximus--at Siscia on the
-Save, and at Poetovio on the Danube. He then hurried on to Aquileia,
+Save, and at Poetovio on the Danube. He then hurried on to [[Aquileia]],
 where Maximus had shut himself up, and had him beheaded. Under the name
 of Maxen Wledig, Maximus appears in the list of Welsh royal heroes (see
-R. Williams, _Biog. Dict. of Eminent Welshmen_, 1852; "The Dream of
-Maxen Wledig," in the _Mabinogion_).
+R. Williams, _Biog. Dict. of Eminent Welshmen_, 1852; "The [[Dream]] of
+Maxen Wledig," in the _[[Mabinogion]]_).
 
   Full account with classical references in H. Richter, _Das
   weströmische Reich, besonders unter den Kaisern Gratian, Valentinian
@@ -56,7 +56,7 @@ Maxen Wledig," in the _Mabinogion_).
 
 III. MAXIMUS TYRANNUS, made emperor in Spain by the Roman general,
 Gerontius, who had rebelled against the usurper Constantine in 408.
-After the defeat of Gerontius at Arelate (Arles) and his death in 411
+After the defeat of Gerontius at Arelate ([[Arles]]) and his death in 411
 Maximus renounced the imperial title and was permitted by Constantine to
 retire into private life. About 418 he rebelled again, but, failing in
 his attempt, was seized, carried into Italy, and put to death at Ravenna
@@ -78,7 +78,7 @@ months, he was murdered by some Burgundian mercenaries as he was fleeing
 before the troops of Genseric, who, invited by Eudoxia, the widow of
 Valentinian, had landed at the mouth of the Tiber (May or June 455).
 
-  See Procopius, _Vand._ i. 4; Sidonius Apollinaris, _Panegyr. Aviti_,
+  See Procopius, _Vand._ i. 4; Sidonius [[Apollinaris]], _Panegyr. Aviti_,
   ep. ii. 13; the various _Chronicles_; Gibbon, _Decline and Fall_, chs.
   35, 36; Tillemont, _Hist. des empereurs_, vi.
 

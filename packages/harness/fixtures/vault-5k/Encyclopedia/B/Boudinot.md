@@ -21,7 +21,7 @@ prisoners, with the rank of colonel, in the continental army. He was one
 of the New Jersey members of the continental congress in 1778 and again
 from 1781 until 1783, and from November 1782 until October 1783 was
 president of that body, acting also for a short time, after the
-resignation of Robert R. Livingston, as secretary for foreign affairs.
+resignation of Robert R. [[Livingston]], as secretary for foreign affairs.
 From 1789 to 1795 he sat as a member of the national House of
 Representatives, and from 1795 until 1805 he was the director of the
 United States mint at Philadelphia. He took an active part in the
@@ -32,11 +32,11 @@ _Age of Reason_, he published the _Age of Revelation_ (1790); he also
 published a volume entitled _A Star in the West, or a Humble Attempt to
 Discover the Long Lost Ten Tribes of Israel_ (1816), in which he
 endeavours to prove that the American Indians may be the ten lost
-tribes. Boudinot died at Burlington, New Jersey, on the 24th of October
+tribes. Boudinot died at [[Burlington]], New Jersey, on the 24th of October
 1821.
 
   See _The Life, Public Services, Addresses and Letters of Elias
-  Boudinot_, edited by J.J. Boudinot (Boston and New York, 1896).
+  Boudinot_, edited by J.J. Boudinot ([[Boston]] and New York, 1896).
 
 ## References
 

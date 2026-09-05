@@ -75,7 +75,7 @@ of their sharp collision. This simplification of colour and tone recalls
 by its broad effects of light and silhouette on the one hand Velasquez,
 on the other the extreme simplification made by the Japanese for the
 purposes of colour-printing. Manet, like the other painters of his
-group, was influenced by these newly-discovered works of art. The image,
+group, was influenced by these newly-discovered works of art. The [[Image|image]],
 thus treated, has remarkable hardiness and vigour, and also great
 decorative breadth. Its vivacity and intensity of aspect is gained by
 the sacrifice of many minor gradations, and by the judgment with which
@@ -85,11 +85,11 @@ transparency in shadows. (2) During this period Manet makes constant
 progress towards a fair, clear colour. In his early work the patches of
 blond colour are relieved against black shadows; later these shadows
 clear up, and in place of an indeterminate brown sauce we find shadows
-that are colours. A typical picture of this period is the "Musique aux
+that are [[Colours|colours]]. A typical picture of this period is the "Musique aux
 Tuileries," refused by the Salon of 1863. In this we have an actual
 out-of-doors scene rendered with a frankness and sharp taste of
 contemporary life surprising to contemporaries, with an elision of
-detail in the treatment of a crowd and a seizing on the chief colour
+detail in the treatment of a [[Crowd|crowd]] and a seizing on the chief colour
 note and patch that characterize each figure equally surprising, an
 effort finally to render the total high-pitched gaiety of the spectacle
 as a banquet of sunlight and colour rather than a collection of separate
@@ -107,7 +107,7 @@ dramatic groups.
   also, for Manet and others, J. K. Huysman's _L'Art moderne_ (1883) and
   _Certains_. Summaries of the literature of the whole period will be
   found in R. Muther, _The History of Modern Painting_ (tr. London,
-  1896), not always trustworthy in detail, and Miss R. G. Kingsley, _A
+  1896), not always trustworthy in detail, and Miss R. G. [[Kingsley]], _A
   History of French Art_ (1899). For an interesting critical account see
   W. C. Brownell, _French Art_ (1892).
 
@@ -137,7 +137,7 @@ revolt, went the way of conventional brown, and all ready-made mixtures
 like the umbers, ochres, siennas were banished from the palette. Black
 itself was condemned. (2) The idea of the spectrum, as exhibiting the
 series of "primary" or "pure" colours, directed the reformed palette.
-Six colours, besides white, were admitted to represent the chief hues of
+Six colours, besides white, were admitted to represent the chief [[Hue|hues]] of
 the spectrum. (3) These colours were laid on the canvas with as little
 previous mixture on the palette as possible to maintain a maximum of
 luminosity, and were fused by touch on the canvas as little as possible,
@@ -145,7 +145,7 @@ for the same reason. Hence the "broken" character of the touch in this
 painting, and the subordination of delicacies of form and suave
 continuity of texture to the one aim of glittering light-and-colour
 notation. Justification of these procedures was sought in occasional
-features of the practice of E. Delacroix, of Watteau, of J. B. Chardin,
+features of the practice of E. [[Delacroix]], of Watteau, of J. B. Chardin,
 in the hatchings of pastel, the stipple of water-colour. With the
 ferment of theory went a _parti pris_ for translating all effects into
 the upper registers of tone (cf. Ruskin's chapter on Turner's practice
@@ -160,29 +160,29 @@ Besides Pissarro, Alfred Sisley (1840-1899) is a member of the group,
 and Manet continues his progress, influenced by the new ideas in
 pictures like "Le Linge" and "Chez le Père Lathuille."
 
-Edmond Degas (b. 1834), a severe and learned draughtsman, is associated
+Edmond [[Degas]] (b. 1834), a severe and learned draughtsman, is associated
 with this landscape group by his curiosity in the expression of
 momentary action and the effects of artificial illumination, and by his
 experiments in broken colour, more particularly in pastel. The novelty
 of his matter, taken from unexplored corners of modern life, still more
-the daring and irony of his observation and points of view, and the
+the daring and [[Irony|irony]] of his observation and points of view, and the
 strangeness of his composition, strongly influenced by Japanese art,
 enriched the associations now gathering about the word "impressionist."
 Another name, that of Auguste Renoir (b. 1841), completes the leading
 figures of the group. Any "school" programme would be strained to
 breaking-point to admit this painter, unless on the very general grounds
 of love of bright colour, sunlit places and independence of vision. He
-has no science of drawing or of tone, but wins a precarious charm of
+has no science of drawing or of tone, but wins a precarious [[Charm|charm]] of
 colour and expression.
 
   The landscape, out-of-doors line, which unites in this period with
-  Manet's line, may be represented by these names: J. B. Corot, J. B.
+  Manet's line, may be represented by these names: J. B. [[Corot]], J. B.
   Jongkind, Boudin, Monet. Monet's real teacher was Eugène Boudin
   (1824-1898), (See Gustave Cahen's _Eugène Boudin_, Paris, 1900). They,
   and others of the group, worked together in a painters' colony at
   Saint Simeon, near Honfleur. It is usual to date the origin of
   _plein-air_ painting, i.e. painting out-of-doors, in an out-of-doors
-  key of tone, from a picture Manet painted in the garden of de Nittis,
+  [[Key|key]] of tone, from a picture Manet painted in the garden of de Nittis,
   just before the outbreak of war in 1870. This dates only Manet's
   change to the lighter key and looser handling. It was Monet who
   carried the practice to a logical extreme, working on his canvas only
@@ -205,13 +205,13 @@ colour and expression.
 
   The Impressionist group (with the exception of Manet, who still fought
   for his place in the Salon) exhibited together for the first time as
-  L'Exposition des Impressionistes at Nadar's, Boulevard des Capucines,
+  L'Exposition des Impressionistes at Nadar's, [[Boulevard]] des Capucines,
   in 1874. They were then taken up by the dealer Durand-Ruel, and the
   succeeding exhibitions in 1876, 1877, 1879, 1880, 1881, 1882 and 1886
   were held by him in various galleries. The full history of these
   exhibitions, with the names of the painters, will be found in two
   works: Félix-Fénéon, _Les Impressionistes en 1886_ (Paris, 1886), and
-  G. Geffroy, _La Vie artistique_ ("Histoire de l'impressionisme," in
+  G. [[Geffroy]], _La Vie artistique_ ("Histoire de l'impressionisme," in
   vol. for 1894). See also G. Lecomte, _L'Art impressionists d'après la
   collection privée de M. Durand-Ruel_ (Paris, 1892); Duranty, _La
   Peinture nouvelle_ (1876). Besides the names already cited, some
@@ -219,7 +219,7 @@ colour and expression.
   Paul Cézanne, belonging to the Manet-Pissarro group; and, later,
   Gauguin. J. F. Raffaëlli applied a "characteristic" drawing, to use
   his word, to scenes in the dismal suburbs of Paris; Forain, the
-  satiric draughtsman, was a disciple of Degas, as also Zandomeneghi.
+  satiric draughtsman, was a [[Disciple|disciple]] of Degas, as also Zandomeneghi.
   Miss Mary Cassatt was his pupil. Caillebotte, who bequeathed the
   collection of Impressionist paintings now in the Luxembourg, was also
   an exhibitor; and Boudin, who linked the movement to the earlier
@@ -254,7 +254,7 @@ of a mixture of coloured _lights_, not of pigments, so that the result
 is an increase instead of a loss of luminosity. There are several
 fallacies, however, theoretical and practical, in this "spectral
 palette" and pointillist method. If we depart from the three primaries
-of the Helmholtz hypothesis, there is no reason why we should stop at
+of the Helmholtz [[Hypothesis|hypothesis]], there is no reason why we should stop at
 six hues instead of six hundred. But pigments follow the spectrum series
 so imperfectly that the three primaries, even if we could exactly locate
 them, limit the palette considerably in its upper range. The sacrifice
@@ -264,7 +264,7 @@ mixture of lights in their dotting, e.g. dotting green and red together
 to produce yellow. It may be added that dotting with oil pigment is in
 practice too coarse and inaccurate a method. This innovation of
 _pointillisme_ is generally ascribed to George Seurat (d. 1890), whose
-picture, "La Grande Jatte," was exhibited at the Rue Laffitte in 1886.
+picture, "La Grande Jatte," was exhibited at the Rue [[Laffitte]] in 1886.
 Pissarro experimented in the new method, but abandoned it, and other
 names among the _Pointillistes_ are Paul Signac, Vincent van Gogh, and
 van Rysselberghe. The theory opened the way for endless casuistries, and
@@ -292,7 +292,7 @@ over the work of Turner, of the Pre-Raphaelites, and also of G. F.
 Watts, but less isolated and narrowed, because the art of none of these
 limited itself to the pursuit of light. _Pointillisme_, after a fashion,
 existed in British water-colour practice. But the Pre-Raphaelite school
-had accustomed the English eye to extreme definition in painting and to
+had accustomed the English eye to extreme [[Definition|definition]] in painting and to
 elaboration of detail, and it happened that the painting of James
 M'Neill Whistler (Grosvenor Gallery, 1878) brought the battle-name
 Impressionism into England and gave it a different colour. Whistler's
@@ -336,7 +336,7 @@ admitted into painting; a blurring that may arise from distance, from
 vapour or smoke, from brilliant light, from obscurity, or simply from
 the nearness in value of adjacent objects. Similarly, much detail that
 in primitive art is elaborated is absorbed by rendering the aspect
-instead of the facts known to make up that aspect. Thus hair and fur,
+instead of the facts known to make up that aspect. Thus hair and [[Fur|fur]],
 the texture of stuffs, the blades of grass at a little distance, become
 patches of tone showing only their larger constructive markings. But the
 blurring of definitions and the elimination of detail that we find in
@@ -354,7 +354,7 @@ _attention_ as it affects the aspect of the field. We are familiar, in
 the ordinary use of the eye, with two features of its structure that
 limit clearness of vision. There is, first, the spot of clear vision on
 the retina, outside of which all falls away into blur; there is,
-secondly, the action of _focus_. As the former limits clear definition
+secondly, the action of _[[Focus|focus]]_. As the former limits clear definition
 to one spot in the field extended vertically and laterally, so focus
 limits clear definition to one plane in the third dimension, viz. depth.
 If three objects, A, B and C, stand at different depths before the eye,
@@ -367,7 +367,7 @@ interest of the eye, whatever it may be. The painter instinctively uses
 these means to arrive at the emphasis and neglect that his choice
 requires. If he is engaged on a face he will now screw his attention to
 a part and now relax it, distributing the attention over the whole so as
-to restore the bigger relations of aspect. Sir Joshua Reynolds describes
+to restore the bigger relations of aspect. Sir [[Joshua]] Reynolds describes
 this process as seeing the whole "with the dilated eye"; the commoner
 precept of the studios is "to look with the eyes half closed"; a third
 way is to throw the whole voluntarily out of focus. In any case the
@@ -382,12 +382,12 @@ one. Again, he indicates by his treatment of planes and definitions
 whether the main subject of his picture is in the foreground or the
 distance. He persuades the eye to slip over hosts of near objects so
 that, as in life, it may hit a distant target, or concentrate its attack
-on what is near, while the distance falls away into a dim curtain. All
+on what is near, while the distance falls away into a dim [[Curtain|curtain]]. All
 those devices by which attention is directed and distributed, and the
 importance in space of an object established, affect impressionistic
 composition.
 
-It is an inevitable misunderstanding of painting which plays the game of
+It is an inevitable misunderstanding of painting which plays the [[Game|game]] of
 art so closely up to the real aspects of nature that its aim is that of
 mere exact copying. Painting like Manet's, accused of being realistic in
 this sense, sufficiently disproves the accusation when examined. Never

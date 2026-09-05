@@ -8,14 +8,14 @@ tags: [natural-history, history]
 # Gluckstadt
 
 GLUCKSTADT, a town of Germany, in the Prussian province of
-Schleswig-Holstein, on the right bank of the Elbe, at the confluence of
+Schleswig-Holstein, on the right bank of the [[Elbe]], at the confluence of
 the small river Rhin, and 28 m. N.W. of Altona, on the railway from
-Itzehoe to Elmshorn. Pop. (1905) 6586. It has a Protestant and a Roman
+[[Itzehoe]] to [[Elmshorn]]. Pop. (1905) 6586. It has a Protestant and a Roman
 Catholic church, a handsome town-hall (restored in 1873-1874), a
 gymnasium, a provincial prison and a penitentiary. The inhabitants are
 chiefly engaged in commerce and fishing; but the frequent losses from
 inundations have greatly retarded the prosperity of the town. Gluckstadt
-was founded by Christian IV. of Denmark in 1617, and fortified in 1620.
+was founded by Christian IV. of [[Denmark]] in 1617, and fortified in 1620.
 It soon became an important trading centre. In 1627-28 it was besieged
 for fifteen weeks by the imperialists under Tilly, without success. In
 1814 it was blockaded by the allies and capitulated, whereupon its

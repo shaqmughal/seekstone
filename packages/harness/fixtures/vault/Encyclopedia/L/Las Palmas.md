@@ -6,11 +6,11 @@ topic: music
 
 # Las Palmas
 
-LAS PALMAS, the capital of the Spanish island of Grand Canary, in the
-Canary archipelago, and of an administrative district which also
-comprises the islands of Lanzarote and Fuerteventura; on the east coast,
+LAS PALMAS, the capital of the Spanish island of [[Grand Canary]], in the
+[[Canary]] archipelago, and of an administrative district which also
+comprises the islands of Lanzarote and [[Fuerteventura]]; on the east coast,
 in 28° 7´ N. and 5° 24´ W. Pop. (1900) 44,517. Las Palmas is the largest
-city in the Canary Islands, of which it was the capital until 1833. It
+city in the [[Canary Islands]], of which it was the capital until 1833. It
 is the seat of a court of appeal, of a brigadier, who commands the
 military forces in the district, of a civil lieutenant-governor, who is
 independent of the governor-general except in connexion with elections
@@ -32,7 +32,7 @@ but actually the first in the matter of tonnage. It is strongly
 fortified. The harbour, protected by the promontory of La Isleta, which
 is connected with the mainland by a narrow bar of sand, can accommodate
 the largest ships, and affords secure anchorage in all weathers. Ships
-can discharge at the breakwater (1257 yds. long) or at the Santa
+can [[Discharge|discharge]] at the breakwater (1257 yds. long) or at the Santa
 Catalina mole, constructed in 1883-1902. The minimum depth of water
 alongside the quays is 4½ ft. There are floating water-tanks, numerous
 lighters, titan and other cranes, repairing workshops, and very large
@@ -40,7 +40,7 @@ supplies of coal afloat and ashore. La Luz is one of the principal
 Atlantic coaling stations, and the coal-trade is entirely in British
 hands. Other important industries are shipbuilding, fishing, and the
 manufacture of glass, leather and hats. The chief exports are fruit,
-vegetables, sugar, wine and cochineal; coal, iron, cement, timber,
+vegetables, sugar, wine and [[Cochineal|cochineal]]; coal, iron, cement, timber,
 petroleum, manure, textiles and provisions are the chief imports. (See
 also CANARY ISLANDS.)
 

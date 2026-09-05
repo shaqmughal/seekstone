@@ -9,11 +9,11 @@ tags: [commerce, history]
 
 # Bogie
 
-BOGIE, a northern English dialect word of unknown origin, applied to a
-kind of low truck or "trolly." In railway engineering it is applied to
+BOGIE, a northern English [[Dialect|dialect]] word of unknown origin, applied to a
+kind of low truck or "trolly." In railway [[Engineering|engineering]] it is applied to
 an under-truck, most frequently with four wheels, which is often
 provided at one end of a locomotive or both ends of a carriage. It is
-pivoted or swivelled on the main frames, so that it can turn relatively
+pivoted or swivelled on the main [[Frame|frames]], so that it can turn relatively
 to the body of the vehicle or engine, and thus it enables the wheels
 readily to follow the curves of the line. It has no connexion with the
 series of words, such as "bogey" or "bogy," "bogle," "boggle," "bogart"

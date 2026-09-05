@@ -30,7 +30,7 @@ rounded, giving rise to lenticular shapes, hence the name phacolite
 [Illustration: FIG. 1. FIG. 2. Twinned Crystals of Chabazite.]
 
 The hardness of chabazite is 4-1/2, and the specific gravity 2.08-2.16.
-As first noticed by Sir David Brewster in 1830, the crystals often
+As first noticed by Sir David [[Brewster]] in 1830, the crystals often
 exhibit anomalous optical characters: instead of being uniaxial, a basal
 section may be divided into sharply-defined biaxial sectors. Heating of
 the crystals is attended by a loss of water and a change in their
@@ -46,7 +46,7 @@ French name of which is Acadie).
 
 Chemically, chabazite is a complex hydrated calcium and sodium silicate,
 with a small proportion of the sodium replaced by potassium, and
-sometimes a small amount of the calcium replaced by barium and
+sometimes a small amount of the calcium replaced by [[Barium|barium]] and
 strontium. The composition is however variable, and is best expressed
 as an isomorphous mixture of the molecules (Ca, Na2) Al2(SiO4)2 + 4H2O
 and (Ca, Na2) Al2(Si3O8)2 + 8H2O, which are analogous to the felspars.
@@ -54,14 +54,14 @@ Most analyses correspond with a formula midway between these extremes,
 namely, (Ca, Na2)Al2(SiO3)4 + 6H2O.
 
 Chabazite occurs with other zeolites in the amygdaloidal cavities of
-basaltic rocks; occasionally it has been found in gneisses and schists.
+basaltic rocks; occasionally it has been found in [[Gneiss|gneisses]] and schists.
 Well-formed crystals are known from many localities; for example,
-Kilmalcolm in Renfrewshire, the Giant's Causeway in Co. Antrim, and
+Kilmalcolm in Renfrewshire, the [[Giant'S Causeway|Giant's Causeway]] in Co. Antrim, and
 Oberstein in Germany. Beautiful, clear glassy crystals of the phacolite
 ("seebachite") variety occur with phillipsite and radiating bundles of
-brown calcite in cavities in compact basalt near Richmond, Melbourne,
+brown [[Calcite|calcite]] in cavities in compact basalt near Richmond, Melbourne,
 Victoria. Small crystals have been observed lining the cavities of
-fossil shells from Iceland, and in the recent deposits of the hot
+fossil shells from [[Iceland]], and in the recent deposits of the hot
 springs of Plombieres and Bourbonne-les-Bains in France.
 
 Gmelinite and levynite are other species of zeolites which may be

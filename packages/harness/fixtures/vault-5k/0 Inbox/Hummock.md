@@ -9,7 +9,7 @@ id: 42-4340
 
 HUMMOCK (of uncertain derivation; cf. hump or hillock), a boss or
 rounded knoll of ice rising above the general level of an ice-field,
-making sledge travelling in the Arctic and Antarctic region extremely
+making sledge travelling in the [[Arctic]] and Antarctic region extremely
 difficult and unpleasant. Hummocky ice is caused by slow and unequal
 pressure in the main body of the packed ice, and by unequal structure
 and temperature at a later period.

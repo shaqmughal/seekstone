@@ -13,7 +13,7 @@ in 1839-1868 he was professor of Biblical literature and interpretation
 in Newton Theological Institution where his most important work was the
 introduction of the modern German methods of Biblical criticism, which
 he had learned from Moses Stuart at Andover and with which he made
-himself more familiar in Germany (especially under Tholuck at Halle) in
+himself more familiar in Germany (especially under Tholuck at [[Halle]]) in
 1841. He travelled in Egypt and Palestine in 1852, and in 1858-1859 in
 Greece, becoming proficient in modern Greek. From 1870 until his death
 in Rochester, New York, on the 2nd of November 1875, he was professor of
@@ -32,12 +32,12 @@ exegetical scholar.
   Bible_, to the British edition of which he had contributed about
   thirty articles; _Commentary on the Original Text of the Acts of the
   Apostles_ (1852; 2nd edition, 1858), for many years the best English
-  commentary; _Notes on the Greek Text of the Epistle of Paul to
+  commentary; _Notes on the Greek Text of the [[Epistle]] of Paul to
   Philemon_, and a _Revised Version_ of Philemon, both published in
   1860; the English versions, in Schaff's edition of Lange's
   _Commentaries_, of Van Oosterzee's _Philemon_ and Braune's
   _Philippians_; and for the American Bible Union Version of the Bible
-  he translated the books of Ruth and Judges, and aided T. J. Conant in
+  he translated the books of Ruth and Judges, and aided T. J. [[Conant]] in
   editorial revision; and he was one of the American translators for the
   English Bible revision.
 

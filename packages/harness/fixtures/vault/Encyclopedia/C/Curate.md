@@ -16,9 +16,9 @@ a more limited sense it is applied in the Church of England to the
 incumbent of a parish who has no endowment of tithes, as distinguished
 from a perpetual vicar, who has an endowment of small tithes, which are
 for that reason sometimes styled vicarial tithes. The origin of such
-unendowed curacies is traceable to the fact that benefices were
+unendowed curacies is traceable to the fact that [[Benefice|benefices]] were
 sometimes granted to religious houses _pleno jure_, and with liberty for
-them to provide for the cure; and when such appropriations were
+them to provide for the cure; and when such [[Appropriation|appropriations]] were
 transferred to lay persons, being unable to serve themselves, the
 impropriators were required to nominate a clerk in full orders to the
 ordinary for his licence to serve the cure. Such curates, being not

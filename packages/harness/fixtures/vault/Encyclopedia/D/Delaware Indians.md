@@ -11,7 +11,7 @@ tags: [geography, artillery]
 
 DELAWARE INDIANS, the English name for the Leni Lenape, a tribe of North
 American Indians of Algonquian stock. When first discovered by the
-whites the tribe was settled on the banks of the Delaware river. The
+whites the tribe was settled on the banks of the [[Delaware]] river. The
 French called them Loups (wolves) from their chief totemic division.
 Early in the 17th century the Dutch began trading with them.
 Subsequently William Penn bought large tracts of land from them, and war

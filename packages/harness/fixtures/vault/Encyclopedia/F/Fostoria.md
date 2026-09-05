@@ -10,12 +10,12 @@ type: note
 FOSTORIA, a city, partly in Seneca, partly in Hancock, and partly in
 Wood county, Ohio, U.S.A., 35 m. S. by E. of Toledo. Pop. (1890) 7070;
 (1900) 7730 (584 foreign-born); (1910) 9597. It is served by the
-Baltimore & Ohio, the New York, Chicago & St Louis, the Ohio Central,
+Baltimore & Ohio, the New York, [[Chicago]] & St Louis, the Ohio Central,
 the Lake Erie & Western, and the Hocking Valley railways, and by two
 interurban electric lines. The city is situated in an agricultural
 region, and oil abounds in the vicinity. Among the city's manufactures
-are glass, flour, planing mill products, brass and iron, carriages,
-barrels, incandescent lamps, carbons, wire nails and fences, automobile
+are glass, flour, planing mill products, [[Brass|brass]] and iron, carriages,
+[[Barrel|barrels]], incandescent [[Lamp|lamps]], [[Carbon|carbons]], wire nails and fences, automobile
 engines and parts, railway torpedoes and muslin underwear. The
 waterworks are owned and operated by the municipality. In 1832, upon the
 coming of the first settlers, two towns, Rome and Risdon, were laid out

@@ -6,9 +6,9 @@ topic: geography
 
 # Calcutta
 
-CALCUTTA, the capital of British India and also of the province of Bengal.
+CALCUTTA, the capital of British India and also of the province of [[Bengal]].
 It is situated in 22 deg. 34' N. and 88 deg. 24' E., on the left or east bank of
-the Hugli, about 80 m. from the sea. Including its suburbs it covers an
+the [[Hugli]], about 80 m. from the sea. Including its suburbs it covers an
 area of 27,267 acres, and contains a population (1901) of 949,144. Calcutta
 and Bombay have long contested the position of the premier city of India in
 population and trade; but during the decade 1891-1901 the prevalence of
@@ -23,22 +23,22 @@ palaces," its modern public buildings cannot compare with those of Bombay.
 Its chief glory is the Maidan or park, which is large enough to embrace the
 area of Fort William and a racecourse. Many monuments find a place on the
 Maidan, among them being modern equestrian statues of Lord Roberts and Lord
-Lansdowne, which face one another on each side of the Red Road, where the
+[[Lansdowne]], which face one another on each side of the Red Road, where the
 rank and [v.04 p.0982] fashion of Calcutta take their evening drive. In the
 north-eastern corner of the Maidan the Indian memorial to Queen Victoria,
-consisting of a marble hall, with a statue and historical relics, was
+consisting of a [[Marble|marble]] hall, with a statue and historical relics, was
 opened by the prince of Wales in January 1906. The government acquired
 Metcalfe Hall, in order to convert it into a public library and
 reading-room worthy of the capital of India; and also the country-house of
-Warren Hastings at Alipur, for the entertainment of Indian princes. Lord
+Warren [[Hastings]] at Alipur, for the entertainment of Indian princes. Lord
 Curzon restored, at his own cost, the monument which formerly commemorated
-the massacre of the Black Hole, and a tablet let into the wall of the
+the [[Massacre|massacre]] of the Black Hole, and a tablet let into the wall of the
 general post office indicates the position of the Black Hole in the
-north-east bastion of Fort William, now occupied by the roadway. Government
-House, which is situated near the Maidan and Eden Gardens, is the residence
+north-east [[Bastion|bastion]] of Fort William, now occupied by the roadway. Government
+House, which is situated near the Maidan and [[Eden]] Gardens, is the residence
 of the viceroy; it was built by Lord Wellesley in 1799, and is a fine pile
 situated in grounds covering six acres, and modelled upon Kedleston Hall in
-Derbyshire, one of the Adam buildings. Belvedere House, the official
+Derbyshire, one of the Adam buildings. [[Belvedere]] House, the official
 residence of the lieutenant-governor of Bengal, is situated close to the
 botanical gardens in Alipur, the southern suburb of Calcutta. Facing the
 Maidan for a couple of miles is the Chowringhee, one of the famous streets
@@ -46,9 +46,9 @@ of the world, once a row of palatial residences, but now given up almost
 entirely to hotels, clubs and shops.
 
 _Commerce._--Calcutta owes its commercial prosperity to the fact that it is
-situated near the mouth of the two great river systems of the Ganges and
+situated near the mouth of the two great river systems of the [[Ganges]] and
 Brahmaputra. It thus receives the produce of these fertile river valleys,
-while the rivers afford a cheaper mode of conveyance than any railway. In
+while the rivers afford a cheaper mode of [[Conveyance|conveyance]] than any railway. In
 addition Calcutta is situated midway between Europe and the Far East and
 thus forms a meeting-place for the commerce and peoples of the Eastern and
 Western worlds. The port of Calcutta is one of the busiest in the world,
@@ -56,14 +56,14 @@ and the banks of the Hugli rival the port of London in their show of
 shipping. The total number of arrivals and departures during 1904-1905 was
 3027 vessels with an average tonnage of 3734. But though the city is such a
 busy commercial centre, most of its industries are carried on outside
-municipal limits. Howrah, on the opposite side of the Hugli, is the
+municipal limits. [[Howrah]], on the opposite side of the Hugli, is the
 terminus of three great railway systems, and also the headquarters of the
 jute industry and other large factories. It is connected with Calcutta by
 an immense floating bridge, 1530 ft. in length, which was constructed in
 1874. Other railways have their terminus at Sealdah, an eastern suburb. The
-docks lie outside Calcutta, at Kidderpur, on the south; and at Alipur are
+[[Dock|docks]] lie outside Calcutta, at Kidderpur, on the south; and at Alipur are
 the zoological gardens, the residence of the lieutenant-governor of Bengal,
-cantonments for a native infantry regiment, the central gaol and a
+[[Cantonment|cantonments]] for a native infantry regiment, the central gaol and a
 government reformatory. The port of Calcutta stretches about 10 m. along
 the river. It is under the control of a port trust, whose jurisdiction
 extends to the mouth of the Hugli and also over the floating bridge. New
@@ -98,7 +98,7 @@ examining body, on the model of the university of London. The chief
 educational institutions are the Government Presidency College; three aided
 missionary colleges, and four unaided native colleges; the Sanskrit College
 and the Mahommedan Madrasah; the government medical college, the government
-engineering college at Sibpur, on the opposite bank of the Hugli, the
+[[Engineering|engineering]] college at Sibpur, on the opposite bank of the Hugli, the
 government school of art, high schools for boys, the Bethune College and
 high schools for girls.
 
@@ -132,7 +132,7 @@ Bombay at the same time.
 
 _History._--The history of Calcutta practically dates from the 24th of
 August 1690, when it was founded by Job Charnock (_q.v._) of the English
-East India Company. In 1596 it had obtained a brief entry as a rent-paying
+[[East India Company]]. In 1596 it had obtained a brief entry as a rent-paying
 village in the survey of Bengal executed by command of the emperor Akbar.
 But it was not till ninety years later that it emerged into history. In
 1686 the English merchants at Hugli under Charnock's leadership, finding
@@ -145,13 +145,13 @@ attempt that Charnock was able to obtain the future capital of India for
 his centre and the subsequent prosperity of Calcutta is due entirely to his
 tenacity of purpose. The new settlement soon extended itself along the
 river bank to the then village of Kalikata, and by degrees the cluster of
-neighbouring hamlets grew into the present town. In 1696 the English built
+neighbouring [[Hamlet|hamlets]] grew into the present town. In 1696 the English built
 the original Fort William by permission of the nawab, and in 1698 they
 formally purchased the three villages of Sutanati, Kalikata and Govindpur
-from Prince Azim, son of the emperor Aurangzeb.
+from Prince Azim, son of the emperor [[Aurangzeb]].
 
 The site thus chosen had an excellent anchorage and was defended by the
-river from the Mahrattas, who harried the districts on the other side. The
+river from the [[Mahrattas]], who harried the districts on the other side. The
 fort, subsequently rebuilt on the Vauban principle, and a moat, designed to
 form a semicircle [v.04 p.0983] round the town, and to be connected at both
 ends with the river, but never completed, combined with the natural
@@ -161,10 +161,10 @@ any fixed plan, and with little regard to the sanitary arrangements
 required for a town. Some parts of it lay below high-water mark on the
 Hugli, and its low level throughout rendered its drainage a most difficult
 problem. Until far on in the 18th century the malarial jungle and paddy
-fields closely hemmed in the European mansions; the vast plain (_maidan_),
+[[Fields|fields]] closely hemmed in the European mansions; the vast plain (_maidan_),
 now covered with gardens and promenades, was then a swamp during three
 months of each year; the spacious quadrangle known as Wellington Square was
-built upon a filthy creek. A legend relates how one-fourth of the European
+built upon a filthy [[Creek|creek]]. A legend relates how one-fourth of the European
 inhabitants perished in twelve months, and during seventy years the
 mortality was so great that the name of Calcutta, derived from the village
 of Kalikata, was identified by mariners with Golgotha, the place of a
@@ -186,7 +186,7 @@ by Lord Curzon in 1902. The Mahommedans retained possession of Calcutta for
 about seven months, and during this brief period the name of the town was
 changed in official documents to Alinagar. In January 1757 the expedition
 despatched from Madras, under the command of Admiral Watson and Colonel
-Clive, regained possession of the city. They found many of the houses of
+[[Clive]], regained possession of the city. They found many of the houses of
 the English residents demolished and others damaged by fire. The old church
 of St John lay in ruins. The native portion of the town had also suffered
 much. Everything of value had been swept away, except the merchandise of
@@ -198,12 +198,12 @@ this position he agreed to make restitution to the Calcutta merchants for
 their losses. The English received L500,000, the Hindus and Mahommedans
 L200,000, and the Armenians L70,000. By another clause in this treaty the
 Company was permitted to establish a mint, the visible sign in India of
-territorial sovereignty, and the first coin, still bearing the name of the
-Delhi emperor, was issued on the 19th of August 1757. The restitution money
+territorial sovereignty, and the first [[Coin|coin]], still bearing the name of the
+[[Delhi]] emperor, was issued on the 19th of August 1757. The restitution money
 was divided among the sufferers by a committee of the most respectable
 inhabitants. Commerce rapidly revived and the ruined city was rebuilt.
 Modern Calcutta dates from 1757. The old fort was abandoned, and its site
-devoted to the custom-house and other government offices. A new fort, the
+devoted to the [[Custom-House|custom-house]] and other government offices. A new fort, the
 present Fort William, was begun by Clive a short distance lower down the
 river, and is thus the second of that name. It was not finished till 1773,
 and is said to have cost two millions sterling. At this time also the
@@ -225,7 +225,7 @@ old Mahommedan officials, and had removed the treasury from Murshidabad to
 Calcutta. The latter town thus became the capital of Bengal and the seat of
 the supreme government in India. In 1834 the governor-general of Bengal was
 created governor-general of India, and was permitted to appoint a
-deputy-governor to manage the affairs of Lower Bengal during his occasional
+deputy-governor to [[Manage|manage]] the affairs of Lower Bengal during his occasional
 absence. It was not until 1854 that a separate head was appointed for
 Bengal, who, under the style of lieutenant-governor, exercises the same
 powers in civil matters as those vested in the governors in council of
@@ -235,9 +235,9 @@ the local government, each with an independent set of offices. (See
 BENGAL.)
 
 See A.K. Ray, _A Short History of Calcutta_ (Indian Census, 1901); H.B.
-Hyde, _Parochial Annals of Bengal_ (1901); K. Blechynden, _Calcutta, Past
+Hyde, _Parochial [[Annals]] of Bengal_ (1901); K. Blechynden, _Calcutta, Past
 and Present_ (1905); H.E. Busteed, _Echoes from Old Calcutta_ (1897); G.W.
-Forrest, _Cities of India_ (1903); C.R. Wilson, _Early Annals of the
+[[Forrest]], _Cities of India_ (1903); C.R. Wilson, _Early Annals of the
 English in Bengal_ (1895); and _Old Fort William in Bengal_ (1906);
 _Imperial Gazetteer of India_ (Oxford, 1908), _s.v._ "Calcutta."
 

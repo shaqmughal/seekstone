@@ -56,7 +56,7 @@ people than of the mob. Thoroughly the son of his day in intellectual
 matters, he shrank from the coarser aspects of its political and social
 life. His best word is for the small farmer ([Greek: autourgos]), who
 does not often come to town, or soil his rustic honesty by contact with
-the crowd of the market-place.
+the [[Crowd|crowd]] of the market-place.
 
 About 409 B.C. Euripides left Athens, and after a residence in the
 Thessalian Magnesia repaired, on the invitation of King Archelaus, to
@@ -67,7 +67,7 @@ the meagre fragments he evidently alludes to the beneficent energy of
 his royal host in opening up the wild land of the North. It was at
 Pella, too, that Euripides composed or completed, and perhaps produced,
 the _Bacchae_. Jealous courtiers, we are told, contrived to have him
-attacked and killed by savage dogs. It is odd that the fate of Actaeon
+attacked and killed by savage dogs. It is odd that the [[Fate|fate]] of Actaeon
 should be ascribed, by legend, to two distinguished Greek writers,
 Euripides and Lucian; though in the former case at least the fate has
 not such appropriateness as the Byzantine biographer discovers in the
@@ -77,7 +77,7 @@ B.C., when he was seventy-four. Sophocles followed him in a few months,
 but not before he had been able to honour the memory of his younger
 rival by causing his actors to appear with less than the full costume of
 the Dionysiac festival. Soon afterwards, in the _Frogs_, Aristophanes
-pronounced the epitaph of Attic comedy on Attic tragedy.
+pronounced the epitaph of [[Attic]] comedy on Attic tragedy.
 
 The historical interest of such a life as that of Euripides consists in
 the very fact that its external record is so scanty--that, unlike
@@ -101,14 +101,14 @@ types had not merely an artistic and a moral interest; they had,
 further, a religious interest, because the Greeks believed that the epic
 heroes, sprung from the gods, were their own ancestors. Greek tragedy
 arose when the choral worship of Dionysus, the god of physical rapture,
-had engrafted upon it a dialogue between actors who represented some
+had engrafted upon it a [[Dialogue|dialogue]] between actors who represented some
 persons of the legends consecrated by this faith. The dramatist was
 accordingly obliged to refrain from multiplying those minute touches
 which, by individualizing the characters too highly, would detract from
 their general value as types in which all Hellenic humanity could
-recognize its own image glorified and raised a step nearer to the
+recognize its own [[Image|image]] glorified and raised a step nearer to the
 immortal gods. This necessity was further enforced by the existence of
-the chorus, the original element of the drama, and the very essence of
+the chorus, the original element of the [[Drama|drama]], and the very essence of
 its nature as an act of Dionysiac worship. Those utterances of the
 chorus, which to the modern sense are so often platitudes, were not so
 to the Greeks, just because the moral issues of tragedy were felt to
@@ -144,14 +144,14 @@ slender opportunities for change of scenery, were so many fixed
 obstacles to the free development of tragedy in the new direction. But
 no man of his time could have broken free from these traditions; in
 attempting to do so he must have wrecked either his fame or his art. It
-is not the fault of Euripides if in so much of his work we feel the want
+is not the [[Fault|fault]] of Euripides if in so much of his work we feel the want
 of harmony between matter and form. Art abhors compromise; and it was
 the misfortune of Attic tragedy in his generation that nothing but a
 compromise could save it. Two devices have become common phrases of
 reproach against him--the prologue and the _deus ex machina_. Doubtless
 the prologue is a slipshod and sometimes ludicrous expedient. But the
 audiences of his days were far from being so well versed as their
-fathers in the mythic lore, and, on the other hand, a dramatist who
+fathers in the mythic [[Lore|lore]], and, on the other hand, a dramatist who
 wished to avoid trite themes had now to go into the byways of mythology.
 A prologue was often perhaps desirable or necessary for the instruction
 of the audience. As regards the _deus ex machina_, a distinction should
@@ -181,7 +181,7 @@ originality and skill.
   85. 2, i.e. at the Dionysia in the spring of 438 B.C., as the fourth
   play of a tetralogy comprising the _Cretan Women_, the _Alcmaeon at
   Psophis_, and the _Telephus_. The _Alcestis_ is altogether removed
-  from the character, essentially grotesque, of a mere satyric drama. On
+  from the character, essentially [[Grotesque|grotesque]], of a mere satyric drama. On
   the other hand, it has features which distinctly separate it from a
   Greek tragedy of the normal type. First, the subject belongs to none
   of the great cycles, but to a byway of mythology, and involves such
@@ -192,7 +192,7 @@ originality and skill.
   passage where Apollo is directly confronted with the daemonic figure
   of Thanatos. Lastly, the boisterous, remorseful, and generous Heracles
   makes, not, indeed, a satyric drama, but a distinctly satyric scene--a
-  scene which, in the frank original, hardly bears the subtle
+  scene which, in the [[Frank|frank]] original, hardly bears the subtle
   interpretation which in _Balaustion_ is hinted by the genius of
   Browning, that Heracles got drunk in order to keep up other people's
   spirits. When the happy ending is taken into account, it is not
@@ -203,7 +203,7 @@ originality and skill.
   respect the _Alcestis_ might more truly be compared to such a drama as
   the _Winter's Tale_; the loss and recovery of Hermione by Leontes do
   not form a tragi-comedy because we are amused between-whiles by
-  Autolycus and the clown. It does not seem improbable that the
+  [[Autolycus]] and the clown. It does not seem improbable that the
   _Alcestis_--the earliest of the extant plays--may represent an attempt
   to substitute for the old satyric drama an after-piece of a kind
   which, while preserving a satyric element, should stand nearer to
@@ -237,7 +237,7 @@ originality and skill.
   remains a tragedy of first-rate power. It is admirable for the
   splendid force with which the character of the strange and
   strong-hearted woman, a barbarian friendless among Hellenes, is thrown
-  out against the background of Hellenic life in Corinth.
+  out against the background of Hellenic life in [[Corinth]].
 
   3. The extant _Hippolytus_ (429 B.C.)--sometimes called
   _Stephanephoros_, the "wreath-bearer," from the garland of flowers
@@ -247,7 +247,7 @@ originality and skill.
   sense of Athens. In this earlier _Hippolytus_, Phaedra herself had
   confessed her love to her step-son, and, when repulsed, had falsely
   accused him to Theseus, who doomed him to death; at the sight of the
-  corpse, she had been moved to confess her crime, and had atoned for it
+  [[Corpse|corpse]], she had been moved to confess her crime, and had atoned for it
   by a voluntary death. This first _Hippolytus_ is cited as _Hippolytus
   the Veiled_ ([Greek: kaluptomenos]), either, as Toup and Welcker
   thought, from Hippolytus covering his face in horror, or, as Bentley
@@ -257,7 +257,7 @@ originality and skill.
   reception of its predecessor. Euripides had been warned that limits
   must be observed in the dramatic portrayal of a morally repulsive
   theme. In the later play, accordingly, the whole action is made to
-  turn on the jealous feud between Aphrodite, the goddess of love, and
+  turn on the jealous feud between [[Aphrodite]], the goddess of love, and
   Artemis, the goddess of chastity. Phaedra not only shrinks from
   breathing her secret to Hippolytus, but destroys herself when she
   learns that she is rejected. But the natural agency of human passion
@@ -311,8 +311,8 @@ originality and skill.
   son of Achilles. During his absence, her son Molossus is taken from
   her, with the aid of Menelaus, by her jealous rival Hermione. Mother
   and son are rescued from death by Peleus; but meanwhile Neoptolemus is
-  slain at Delphi through the intrigues of Orestes. The goddess Thetis
-  now appears, ordains that Andromache shall marry Helenus, and declares
+  slain at [[Delphi]] through the intrigues of Orestes. The goddess Thetis
+  now appears, ordains that Andromache shall marry [[Helenus]], and declares
   that Molossus shall found a line of Epirote kings, while Peleus shall
   become immortal among the gods of the sea. The _Andromache_ is a poor
   play. The contrasts, though striking, are harsh and coarse, and the
@@ -326,7 +326,7 @@ originality and skill.
   Attica. It is also the most perfect example of the poet's skill in the
   structure of dramatic intrigue. For its place in the chronological
   order there are no data except those of style and metre. Judging by
-  these, Hermann would place it "neither after Ol. 89, nor much
+  these, [[Hermann]] would place it "neither after Ol. 89, nor much
   before"--i.e. somewhere between 424 and 421 B.C.; and this may be
   taken as approximately correct. The scene is laid throughout at the
   temple of Delphi. The young Ion is a priest in the temple of Delphi
@@ -354,7 +354,7 @@ originality and skill.
   B.C., when, through the agency of Alcibiades, Athens and Argos
   concluded a defensive alliance. The play has a strongly marked
   rhetorical character, and is, in fact, a panegyric, with an immediate
-  political aim, on Athens as the champion of humanity against Thebes.
+  political aim, on Athens as the [[Champion|champion]] of humanity against Thebes.
 
   8. The _Heracleidae_--a companion piece to the _Suppliants_, and of
   the same period--is decidedly inferior in merit. Here, too, there are
@@ -367,7 +367,7 @@ originality and skill.
   Heracleidae, is reminded how unnatural would be an alliance between
   herself and Argos.
 
-  9. The _Heracles Mainomenos_[2] (_Hercules Furens_), which, on grounds
+  9. The _Heracles Mainomenos_[2] (_[[Hercules]] Furens_), which, on grounds
   of style, can scarcely be put later than 420-417 B.C., shares with the
   two last plays the purpose of exalting Athens in the person of
   Theseus. Heracles returns from Hades--whither, at the command of
@@ -390,7 +390,7 @@ originality and skill.
   management of a romantic plot and in the delineation of character. The
   scene is laid at the temple of Artemis in the Tauric Chersonese (the
   Crimea)--on the site of the modern Balaklava. Iphigenia, who had been
-  doomed to die at Aulis for the Greeks, had been snatched from that
+  doomed to die at [[Aulis]] for the Greeks, had been snatched from that
   death by Artemis, and had become priestess of the goddess at the
   Tauric shrine, where human victims were immolated. Two strangers, who
   had landed among the Tauri, have been sentenced to die at the altar.
@@ -414,7 +414,7 @@ originality and skill.
   Cassandra--immediately after the capture of Troy. There is hardly a
   plot in the proper sense--only an accumulation of sorrows on the heads
   of the passive sufferers. The piece is less a drama than a pathetic
-  spectacle, closing with the crash of the Trojan towers in flame and
+  spectacle, closing with the [[Crash|crash]] of the Trojan towers in flame and
   ruin. The _Troades_ is indeed remarkable among Greek tragedies for its
   near approach to the character of melodrama. It must be observed that
   there is no ground for the inference--sometimes made an accusation
@@ -440,7 +440,7 @@ originality and skill.
   tragedy.
 
   13. The _Phoenissae_ was brought out, with the _Oenomaus_ and the
-  _Chrysippus_, in 411 B.C., the year in which the recall of Alcibiades
+  _[[Chrysippus]]_, in 411 B.C., the year in which the recall of Alcibiades
   was decreed by the army at Samos, and, after the fall of the Four
   Hundred, ratified by the Assembly at Athens (Thuc. viii. 81, 97). The
   dialogue between Iocaste and Polynices on the griefs of banishment
@@ -460,9 +460,9 @@ originality and skill.
   rather a series of effective scenes than an impressive drama.
 
   14. Plutarch (_Lys._ 15) says that, when Athens had surrendered to
-  Lysander (404 B.C.) and when the fate of the city was doubtful, a
+  [[Lysander]] (404 B.C.) and when the fate of the city was doubtful, a
   Phocian officer happened to sing at a banquet of the leaders the first
-  song of the chorus in the Electra of Euripides--
+  song of the chorus in the [[Electra]] of Euripides--
 
        [Greek: Agamemnonos ô kora,
     êlython, Êlektra, poti san agroteran aulan],
@@ -517,10 +517,10 @@ originality and skill.
   16. The _Iphigenia at Aulis_, like the _Bacchae_, was brought out only
   after the death of Euripides. It is a very brilliant and beautiful
   play,--probably left by the author in an unfinished state,--and has
-  suffered from interpolation more largely, perhaps, than any other of
+  suffered from [[Interpolation|interpolation]] more largely, perhaps, than any other of
   his works. As regards its subject, it forms a prelude to the
   _Iphigenia in Tauris_. Iphigenia has been doomed by her father
-  Agamemnon to die at Aulis, as Calchas declares that Artemis claims
+  Agamemnon to die at Aulis, as [[Calchas]] declares that Artemis claims
   such a sacrifice before the adverse winds can fall.
 
   The genuine play, as we have it, breaks off at v. 1508, when Iphigenia
@@ -546,7 +546,7 @@ originality and skill.
 
   It is a magnificent play, alone among extant Greek tragedies in
   picturesque splendour, and in that sustained glow of Dionysiac
-  enthusiasm to which the keen irony lends the strength of contrast. If
+  [[Enthusiasm|enthusiasm]] to which the keen [[Irony|irony]] lends the strength of contrast. If
   Euripides had left nothing else, the _Bacchae_ would place him in the
   first rank of poets, and would prove his possession of a sense rarely
   manifested by Greek poets,--perhaps by no one of his own
@@ -564,14 +564,14 @@ originality and skill.
   more direct than the victory of Aphrodite in the _Hippolytus_. The
   great nature-powers who give refreshment to mortals cannot be robbed
   of their due tribute without provoking a nemesis. The refusal of such
-  a homage is not, so the Greeks deemed, a virtue in itself: in the
+  a [[Homage|homage]] is not, so the Greeks deemed, a virtue in itself: in the
   sight of the gods it may be only a cold form of [Greek: hybris],
   overweening self-reliance--the quality personified in Pentheus.
 
   The _Bacchae_ was always an exceptionally popular play--partly because
   its opportunities as a spectacle fitted it for gorgeous
   representation, and so recommended it for performance at courts and on
-  great public occasions. "Demetrius the Cynic" (says Lucian, _Adv.
+  great public occasions. "[[Demetrius]] the Cynic" (says Lucian, _Adv.
   Indoctum_, 19) "saw an illiterate person at Corinth reading a very
   beautiful poem--the _Bacchae_ of Euripides, I think it was; he was at
   the place where the messenger narrates the doom of Pentheus and the
@@ -598,12 +598,12 @@ originality and skill.
   has gained ground, and the _Rhesus_ is now almost universally
   recognized as spurious. The art and the style, still more evidently
   the feeling and the mind, of Euripides are absent. If it cannot be
-  ascribed to a disciple of his matured school, it is still less like
+  ascribed to a [[Disciple|disciple]] of his matured school, it is still less like
   the work of an Alexandrian. The most probable view seems to be that
   which assigns it to a versifier of small dramatic power in the latest
   days of Attic tragedy. It has this literary interest, that it is the
   only extant play of which the subject is directly taken from our
-  _Iliad_, of which the tenth book--the [Greek: Dolôneia]--has been
+  _Iliad_, of which the tenth book--the [Greek: [[Dol]]ôneia]--has been
   followed by the playwright with a closeness which is sometimes
   mechanical.
 
@@ -615,7 +615,7 @@ secure of a wide and lasting renown. As the old life of Athens passed
 away, as the old faiths lost their meaning and the peculiarly Greek
 instincts in art lost their truth and freshness, Aeschylus and Sophocles
 might cease to be fully enjoyed save by a few; but Euripides could still
-charm by qualities more readily and more universally recognized. The
+[[Charm|charm]] by qualities more readily and more universally recognized. The
 comparative nearness of his diction to the idiom of ordinary life
 rendered him less attractive to the grammarians of Alexandria than
 authors whose erudite form, afforded a better scope for the display of
@@ -628,10 +628,10 @@ B.C.), best known for his _Atthis_, dealt, in his treatise on Euripides,
 especially with the mythology of the plays. From 300 B.C. to the age of
 Augustus a long series of critics busied themselves with this poet. The
 first systematic arrangement of his reputed works is ascribed to
-Dicaearchus and Callimachus in the early part of the 3rd century B.C.
+Dicaearchus and [[Callimachus]] in the early part of the 3rd century B.C.
 Among those who furthered the exact study of his text, and of whose work
 some traces remain in the extant scholia, were Aristophanes of
-Byzantium, Callistratus, Apollodorus of Tarsus, Timachidas, and
+Byzantium, Callistratus, [[Apollodorus]] of Tarsus, Timachidas, and
 pre-eminently Didymus; probably also Crates of Pergamum and Aristarchus.
 At Rome Euripides was early made known through the translations of
 Ennius and the freer adaptations of Pacuvius. When Hellenic civilization
@@ -641,13 +641,13 @@ were not too severely or exclusively Attic. The Parthian Orodes and his
 court were witnessing the _Bacchae_ of Euripides when the Agave of the
 hour was suddenly enabled to lend a ghastly reality to the terrible
 scene of frenzied triumph by displaying the gory head of the Roman
-Crassus. Mommsen has noted the moment as one in which the power of Rome
+[[Crassus]]. Mommsen has noted the moment as one in which the power of Rome
 and the genius of Greece were simultaneously abased in the presence of
 sultanism. So far as Euripides is concerned, the incident may suggest
 another and a more pleasing reflection; it may remind us how the charm
 of his humane genius had penetrated the recesses of the barbarian East,
 and had brought to rude and fierce peoples at least some dim and distant
-apprehension of that gracious world in which the great spirits of
+[[Apprehension|apprehension]] of that gracious world in which the great spirits of
 ancient Hellas had moved. A quaintly significant testimony to the
 popularity of Euripides is afforded by the Byzantine [Greek: Christos
 paschôn]. This drama, narrating the events which preceded and attended
@@ -655,20 +655,20 @@ the Passion, is a cento of no less than 2610 verses, taken from the
 plays of Euripides, principally from the _Bacchae_, the _Troades_ and
 the _Rhesus_. The traditional ascription of the authorship to Gregory of
 Nazianzus is now generally rejected; another conjecture assigns it to
-Apollinaris of Laodicea, and places the date of composition at about
+Apollinaris of [[Laodicea]], and places the date of composition at about
 A.D. 330.[4] Although the text used by the author of the cento may not
 have been a good one, the value of the piece for the diplomatic
 criticism of Euripides is necessarily very considerable; and it was
 diligently used both by Valcknaer and by Porson.
 
-Dante, who does not mention Aeschylus or Sophocles, places Euripides,
+[[Dante]], who does not mention Aeschylus or Sophocles, places Euripides,
 with the tragic poets Antiphon and Agathon, and the lyrist Simonides, in
 the first circle of Purgatory (xxii. 106), among those
 
     "piùe
   Greci, che già di lauro ornar la fronte."
 
-Casaubon, in a letter to Scaliger, salutes that scholar as worthy to
+[[Casaubon]], in a letter to Scaliger, salutes that scholar as worthy to
 have lived at Athens with Aristophanes and Euripides--a compliment which
 certainly implies respect for his correspondent's powers as a
 peacemaker. In popular literature, too, where Aeschylus and Sophocles
@@ -723,13 +723,13 @@ in Goethe's conversations with Eckermann which form effective quotations
 against the Greek poet's real or supposed detractors. "To feel and
 respect a great personality, one must be something oneself. All those
 who denied the sublime to Euripides were either poor wretches incapable
-of comprehending such sublimity or shameless charlatans who, in their
+of comprehending such sublimity or shameless [[Charlatan|charlatans]] who, in their
 presumption, wished to make more of themselves than they were." "A poet
 whom Socrates called his friend, whom Aristotle lauded, whom Alexander
 admired, and for whom Sophocles and the city of Athens put on mourning
 on hearing of his death, must certainly have been some one. If a modern
 man like Schlegel must pick out faults in so great an ancient, he ought
-only to do it upon his knees" (J.A. Symonds, _Greek Poets_, i. 230). We
+only to do it upon his [[Knee|knees]]" (J.A. Symonds, _Greek Poets_, i. 230). We
 yield to no one in admiration of Goethe; but we cannot think that these
 rather bullying utterances are favourable examples of his method in
 aesthetic discussion; nor have they any logical force except as against
@@ -742,7 +742,7 @@ the operation of those external conditions which made him what he was,
 and the nature of his influence on succeeding ages.
 
 
-    Manuscript tradition of Euripides.
+    [[Manuscript]] tradition of Euripides.
 
   The manuscript tradition of Euripides has a very curious and
   instructive history. It throws a suggestive light on the capricious
@@ -764,7 +764,7 @@ and the nature of his influence on succeeding ages.
   the select list had a narrow escape of being lost, and, as it is, have
   come to us in a much less satisfactory condition.
 
-  A. Kirchhoff was the first, in his editions, thoroughly to investigate
+  A. [[Kirchhoff]] was the first, in his editions, thoroughly to investigate
   the history and the affinities of the Euripidean manuscripts.[5] All
   our MSS. are, he thinks, derived from a lost archetype of the 9th or
   10th century, which contained the nineteen plays (counting the
@@ -777,7 +777,7 @@ and the nature of his influence on succeeding ages.
   century, 7 plays (all but _Troades_ and _Rhesus_). Of the same stock,
   but inferior, are (4) Marcianus 468, 13th century: _Hecuba, Orestes,
   Medea_ (v. 1-42), _Orestes, Phoenissae_; (5) Havniensis (from
-  _Hafnia_, Copenhagen, according to Paley), a late transcript from a
+  _Hafnia_, [[Copenhagen]], according to Paley), a late transcript from a
   MS. resembling Vat. 909, nine plays. A second family of MSS. for the
   nine plays, sprung from the same copy, but modified by a Byzantine
   recension of the 13th century, is greatly inferior.
@@ -827,7 +827,7 @@ and the nature of his influence on succeeding ages.
   Victorius from Florentinus C. in 1545. The Aldine edition was
   reprinted at Basel in 1537.
 
-  The complete edition of Joshua Barnes (1694) is no longer of any
+  The complete edition of [[Joshua]] Barnes (1694) is no longer of any
   critical value. The first thorough work done on Euripides was by L.C.
   Valcknaer in his edition of the _Phoenissae_ (1755), and his _Diatribe
   in Eur. perditorum dramatum relliquias_ (1767), in which he argued
@@ -840,7 +840,7 @@ and the nature of his influence on succeeding ages.
   Alcestis, Iphigenia A., Iphigenia T._; P. Elmsley (1813-1821), _Medea,
   Bacchae, Heraclidae, Supplices_; G. Hermann (1831-1841), _Hecuba_
   (animadv. ad R. Porsoni notas, first in 1800), _Orestes, Alcestis,
-  Iphigenia A., Iphigenia T., Helena, Ion, Hercules Furens_; C. Badham
+  Iphigenia A., Iphigenia T., Helena, Ion, Hercules Furens_; C. [[Badham]]
   (1851-1853), _Iphigenia T., Helena, Ion_; H. Weil, _Hipp., Medea,
   Hec., Iph. in T., Iph. in A., Electra, Orestes_ (2nd ed., 1890). It is
   impossible to give a list of the English and foreign editions of
@@ -881,7 +881,7 @@ FOOTNOTES:
 
   [1] A considerable fragment of the _Antiope_ was discovered in Egypt
     in the latter part of the 19th century; ed. J.P. Mahaffy in vol.
-    viii. of the _Cunningham Memoirs_ (Dublin, 1891); and quite recently
+    viii. of the _[[Cunningham]] Memoirs_ (Dublin, 1891); and quite recently
     fragments, probably from the _Hypsipyle_, the _Phaëthon_, and the
     _Cretans_ (see _Berliner Klassikertexte_, v. 2, 1907).
 

@@ -2,7 +2,7 @@
 
 BARATYNSKI, JEWGENIJ ABRAMOVICH (1800-1844), Russian poet, was educated at
 the royal school at St Petersburg and then entered the army. He served for
-eight years in Finland, where he composed his first poem _Eda_. Through the
+eight years in [[Finland]], where he composed his first poem _Eda_. Through the
 interest of friends he obtained leave from the tsar to retire from the
 army, and settled in 1827 near Moscow. There he completed his chief work
 _The Gipsy_, a poem written in the style of Pushkin. He died in 1844 at

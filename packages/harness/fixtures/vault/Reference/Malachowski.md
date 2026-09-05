@@ -11,8 +11,8 @@ MALACHOWSKI, STANISLAW (1736-1809), Polish statesman, the younger son of
 Stanislaw Malachowski, palatine of Posen, the companion in arms of
 Sobieski. From his youth Malachowski laboured zealously for the good of
 his country, and as president of the royal court of justice won the
-honourable title of the "Polish Aristides." He was first elected a
-deputy to the Coronation Diet of 1764, and the great Four Years' Diet
+[[Honourable|honourable]] title of the "Polish [[Aristides]]." He was first elected a
+[[Deputy|deputy]] to the [[Coronation]] Diet of 1764, and the great Four Years' Diet
 unanimously elected him its speaker at the beginning of its session in
 1788. Accurately gauging the situation, Malachowski speedily gathered
 round him all those who were striving to uphold the falling republic and
@@ -24,7 +24,7 @@ first to enter his name as a citizen of Warsaw in the civic register and
 to open negotiations with his own peasantry for their complete
 liberation. Disappointed in his hopes by the overthrow of the
 constitution, he resigned office and left the country in 1792, going
-first to Italy and subsequently to his estates in Galicia, where he was
+first to Italy and subsequently to his estates in [[Galicia]], where he was
 imprisoned for a time on a false suspicion of conspiracy. In 1807
 Malachowski was placed at the head of the executive committee appointed
 at Warsaw after its evacuation by the Prussians, and when the grand

@@ -24,11 +24,11 @@ vigour of his style and his speculative originality. He is free from the
 scholastic trifling and learned frivolity which tainted the rhetorical
 culture of his century. He made the world of men and things his study,
 learned to write his mother-tongue with idiomatic conciseness, and
-nourished his imagination on the masterpieces of the Romans.
+nourished his [[Imagination|imagination]] on the masterpieces of the Romans.
 
 The year of Charles VIII.'s invasion and of the Medici's expulsion from
 Florence (1494) saw Machiavelli's first entrance into public life. He
-was appointed clerk in the second chancery of the commune under his old
+was appointed clerk in the second chancery of the [[Commune|commune]] under his old
 master, the grammarian, Marcello Virgilio Adriani. Early in 1498 Adriani
 became chancellor of the republic, and Machiavelli received his vacated
 office with the rank of second chancellor and secretary. This post he
@@ -37,23 +37,23 @@ di libertà e pace_, who, though subordinate to the _signoria_, exercised
 a separate control over the departments of war and the interior. They
 sent their own ambassadors to foreign powers, transacted business with
 the cities of the Florentine domain, and controlled the military
-establishment of the commonwealth. The next fourteen years of
+establishment of the [[Commonwealth|commonwealth]]. The next fourteen years of
 Machiavelli's life were fully occupied in the voluminous correspondence
-of his bureau, in diplomatic missions of varying importance, and in the
+of his [[Bureau|bureau]], in diplomatic missions of varying importance, and in the
 organization of a Florentine militia. It would be tedious to follow him
 through all his embassies to petty courts of Italy, the first of which
 took place in 1499, when he was sent to negotiate the continuance of a
-loan to Catherine Sforza, countess of Forli and Imola. In 1500
+loan to Catherine Sforza, countess of [[Forli]] and Imola. In 1500
 Machiavelli travelled into France, to deal with Louis XII. about the
 affairs of Pisa. These embassies were the school in which Machiavelli
 formed his political opinions, and gathered views regarding the state of
 Europe and the relative strength of nations. They not only introduced
-him to the subtleties of Italian diplomacy, but also extended his
+him to the subtleties of Italian [[Diplomacy|diplomacy]], but also extended his
 observation over races very different from the Italians. He thus, in the
 course of his official business, gradually acquired principles and
 settled ways of thinking which he afterwards expressed in writing.
 
-In 1502 Machiavelli married Marietta Corsini, who bore him several
+In 1502 Machiavelli married [[Marietta]] Corsini, who bore him several
 children, with whom, in spite of his own infidelities, he lived on good
 terms, and who survived him twenty-six years. In the same year Piero
 Soderini was chosen gonfalonier for life, in accordance with certain
@@ -75,23 +75,23 @@ are able to appreciate the actual relations which existed between the
 two men, and the growth in Machiavelli's mind of a political ideal based
 upon his study of the duke's character. Machiavelli conceived the
 strongest admiration for Cesare's combination of audacity with
-diplomatic prudence, for his adroit use of cruelty and fraud, for his
-self-reliance, avoidance of half-measures, employment of native troops,
+diplomatic prudence, for his adroit use of [[Cruelty|cruelty]] and [[Fraud|fraud]], for his
+self-reliance, [[Avoidance|avoidance]] of half-measures, employment of native troops,
 and firm administration in conquered provinces. More than once, in
 letters to his friend Vettori, no less than in the pages of the
 _Principe_, Machiavelli afterwards expressed his belief that Cesare
 Borgia's behaviour in the conquest of provinces, the cementing of a new
 state out of scattered elements, and the dealing with false friends or
-doubtful allies, was worthy of all commendation and of scrupulous
+doubtful allies, was worthy of all [[Commendation|commendation]] and of scrupulous
 imitation. As he watched Cesare Borgia at this, the most brilliant
 period of his adventurous career, the man became idealized in his
 reflective but imaginative mind. Round him, as a hero, he allowed his
 own conceptions of the perfect prince to cluster. That Machiavelli
 separated the actual Cesare Borgia, whom he afterwards saw, ruined and
 contemptible, at Rome, from this radiant creature of his political
-fancy, is probable. That the Cesare of history does not exactly match
+[[Fancy|fancy]], is probable. That the Cesare of history does not exactly match
 the Duca Valentino of Machiavelli's writings is certain. Still the fact
-remains that henceforth Machiavelli cherished the ideal image of the
+remains that henceforth Machiavelli cherished the ideal [[Image|image]] of the
 statesman which he had modelled upon Cesare, and called this by the name
 of Valentino.
 
@@ -101,11 +101,11 @@ Borgia had strengthened in his mind. The duties of his office obliged
 him to study the conditions of military service as they then existed in
 Italy. He was familiar with the disadvantages under which republics
 laboured when they engaged professional captains of adventure and levied
-mercenary troops. The bad faith of the condottiere Paolo Vitelli
+mercenary troops. The bad faith of the [[Condottiere|condottiere]] Paolo Vitelli
 (beheaded at Florence in 1499) had deeply impressed him. In the war with
 Pisa he had observed the insubordination and untrustworthiness of
 soldiers gathered from the dregs of different districts, serving under
-egotistical and irresponsible commanders. His reading in Livy taught him
+egotistical and irresponsible [[Commander|commanders]]. His reading in Livy taught him
 to admire the Roman system of employing armies raised from the body of
 the citizens; and Cesare Borgia's method of gradually substituting the
 troops of his own duchy for aliens and mercenaries showed him that this
@@ -123,9 +123,9 @@ a new military organization. On the 6th of December 1506 his plan was
 approved by the signoria, and a special ministry, called the nove _di
 ordinanza e milizia_, was appointed. Machiavelli immediately became
 their secretary. The country districts of the Florentine dominion were
-now divided into departments, and levies of foot soldiers were made in
+now divided into departments, and [[Levi|levies]] of foot soldiers were made in
 order to secure a standing militia. A commander-in-chief had to be
-chosen for the new troops. Italian jealousy shrank from conferring this
+chosen for the new troops. Italian [[Jealousy|jealousy]] shrank from conferring this
 important office on a Florentine, lest one member of the state should
 acquire a power dangerous to the whole. The choice of Soderini and
 Machiavelli fell, at this juncture, upon an extremely ineligible person,
@@ -140,13 +140,13 @@ patriot army. Here, as elsewhere, he revealed his insensibility to the
 ethical element in human nature.
 
 Meanwhile Italy had been the scene of memorable events, in most of which
-Machiavelli took some part. Alexander VI. had died suddenly of fever.
-Julius II. had ascended the papal chair. The duke of Valentinois had
+Machiavelli took some part. Alexander VI. had died suddenly of [[Fever|fever]].
+[[Julius]] II. had ascended the papal chair. The duke of Valentinois had
 been checked in mid-career of conquest. The collapse of the Borgias
 threw Central Italy into confusion; and Machiavelli had, in 1505, to
 visit the Baglioni at Perugia and the Petrucci at Siena. In the
 following year he accompanied Julius upon his march through Perugia into
-the province of Emilia, where the fiery pope subdued in person the
+the province of [[Emilia]], where the fiery pope subdued in person the
 rebellious cities of the Church. Upon these embassies Machiavelli
 represented the Florentine dieci in quality of envoy. It was his duty to
 keep the ministry informed by means of frequent despatches and reports.
@@ -154,24 +154,24 @@ All this while the war for the recovery of Pisa was slowly dragging on,
 with no success or honour to the Florentines. Machiavelli had to attend
 the camp and provide for levies amid his many other occupations. And yet
 he found time for private literary work. In the autumn of 1504 he began
-his _Decennali_, or _Annals of Italy_, a poem composed in rough terza
+his _Decennali_, or _[[Annals]] of Italy_, a poem composed in rough terza
 rima. About the same time he composed a comedy on the model of
 Aristophanes, which is unfortunately lost. It seems to have been called
 _Le Maschere_. Giuliano de' Ricci tells us it was marked by stringent
 satire upon great ecclesiastics and statesmen, no less than by a
 tendency to "ascribe all human things to natural causes or to fortune."
-That phrase accurately describes the prevalent bias of its author's
+That phrase accurately describes the prevalent [[Bias|bias]] of its author's
 mind.
 
 The greater part of 1506 and 1507 was spent in organizing the new
 militia, corresponding on the subject, and scouring the country on
 enlistment service. But at the end of the latter year European affairs
 of no small moment diverted Machiavelli from these humbler duties.
-Maximilian was planning a journey into Italy in order to be crowned
+[[Maximilian]] was planning a journey into Italy in order to be crowned
 emperor at Rome, and was levying subsidies from the imperial burghs for
 his expenses. The Florentines thought his demands excessive. Though they
 already had Francesco Vettori at his court, Soderini judged it advisable
-to send Machiavelli thither in December. He travelled by Geneva, all
+to send Machiavelli thither in December. He travelled by [[Geneva]], all
 through Switzerland, to Botzen, where he found the emperor. This journey
 was an important moment in his life. It enabled him to study the Swiss
 and the Germans in their homes; and the report which he wrote on his
@@ -181,7 +181,7 @@ political weight of the German nation, and to penetrate the causes of
 its strength and weakness. He attempts to grasp the national character
 as a whole, and thence to deduce practical conclusions. The same
 qualities are noticeable in his _Ritratti delle cose di Francia_, which
-he drew up after an embassy to Louis XII. at Blois in 1510. These notes
+he drew up after an [[Embassy|embassy]] to Louis XII. at [[Blois]] in 1510. These notes
 upon the French race are more scattered than the report on German
 affairs. But they reveal no less acumen combined with imaginative
 penetration into the very essence of national existence.
@@ -236,18 +236,18 @@ ascribed the production of the _Principe_, the _Discorsi_, the _Arte
 della guerra_, the comedies, and the _Historie fiorentine_. The
 uneasiness of Machiavelli's mind in the first years of this retirement
 is brought before us by his private correspondence. The letters to
-Vettori paint a man of vigorous intellect and feverish activity,
+Vettori paint a man of vigorous [[Intellect|intellect]] and feverish activity,
 dividing his time between studies and vulgar dissipations, seeking at
 one time distraction in low intrigues and wanton company, at another
 turning to the great minds of antiquity for solace. It is not easy to
 understand the spirit in which the author of the _Principe_ sat down to
-exchange obscenities with the author of the _Sommario della storia
+[[Exchange|exchange]] obscenities with the author of the _Sommario della storia
 d'Italia_. At the same time this coarseness of taste did not blunt his
 intellectual sagacity. His letters on public affairs in Italy and
 Europe, especially those which he meant Vettori to communicate to the
 Medici at Rome, are marked by extraordinary fineness of perception,
 combined, as usual in his case, with philosophical breadth. In
-retirement at his villa near Percussina, a hamlet of San Casciano,
+retirement at his villa near Percussina, a [[Hamlet|hamlet]] of San Casciano,
 Machiavelli completed the _Principe_ before the end of 1513. This famous
 book is an analysis of the methods whereby an ambitious man may rise to
 sovereign power. It appears to have grown out of another scarcely less
@@ -257,7 +257,7 @@ afterwards. This second treatise is the _Discorsi sopra la prima deca di
 Tito Livio_.
 
   Cast in the form of comments on the history of Livy, the _Discorsi_
-  are really an inquiry into the genesis and maintenance of states. The
+  are really an inquiry into the [[Genesis|genesis]] and [[Maintenance|maintenance]] of states. The
   _Principe_ is an offshoot from the main theme of the _Discorsi_,
   setting forth Machiavelli's views at large and in detail upon the
   nature of principalities, the method of cementing them, and the
@@ -269,11 +269,11 @@ Tito Livio_.
   view, and brought it forth to serve a special crisis. The moment of
   its composition was indeed decisive. Machiavelli judged the case of
   Italy so desperate that salvation could only be expected from the
-  intervention of a powerful despot. The unification of Italy in a state
-  protected by a national army was the cherished dream of his life; and
+  intervention of a powerful [[Despot|despot]]. The unification of Italy in a state
+  protected by a national army was the cherished [[Dream|dream]] of his life; and
   the peroration of the _Principe_ shows that he meant this treatise to
   have a direct bearing on the problem. We must be careful, however, not
-  to fall into the error of supposing that he wrote it with the sole
+  to fall into the [[Error|error]] of supposing that he wrote it with the sole
   object of meeting an occasional emergency. Together with the
   _Discorsi_, the _Principe_ contains the speculative fruits of his
   experience and observation combined with his deductions from Roman
@@ -290,7 +290,7 @@ Tito Livio_.
   Ghibellines, as leaning on the one side to papal, on the other to
   imperial supremacy. In the revival of learning, scholarship supplanted
   scholasticism, and the old ways of medieval thinking were forgotten.
-  But no substantial philosophy of any kind emerged from humanism; the
+  But no substantial philosophy of any kind emerged from [[Humanism|humanism]]; the
   political lucubrations of the scholars were, like their ethical
   treatises, for the most part rhetorical. Still the humanists effected
   a delivery of the intellect from what had become the bondage of
@@ -324,7 +324,7 @@ Tito Livio_.
   century, but as a whole in history. He drew his conclusions from the
   nature of mankind itself, "ascribing all things to natural causes or
   to fortune." In this way he restored the right method of study, a
-  method which had been neglected since the days of Aristotle. He formed
+  method which had been neglected since the days of [[Aristotle]]. He formed
   a conception of the modern state, which marked the close of the middle
   ages, and anticipated the next phase of European development. His
   prince, abating those points which are purely Italian or strongly
@@ -336,7 +336,7 @@ Tito Livio_.
   remedies which he suggested, in the perorations of the _Principe_ and
   the _Arte della guerra_, have since been applied in the unification of
   Italy. Lastly, when we once have freed ourselves from the antipathy
-  engendered by his severance of ethics from the field of politics, when
+  engendered by his severance of [[Ethics|ethics]] from the field of politics, when
   we have once made proper allowance for his peculiar use of phrases
   like _frodi onorevoli_ or _scelleratezze gloriose_, nothing is left
   but admiration for his mental attitude. That is the attitude of a
@@ -366,7 +366,7 @@ Tito Livio_.
   and vegetation. Yet some such isolation of the subject matter of this
   science was demanded at the moment of its birth, just as political
   economy, when first started, had to make a rigid severance of wealth
-  from other units. It is only by a gradual process that social science
+  from other units. It is only by a [[Gradual|gradual]] process that social science
   in its whole complexity can be evolved. We have hardly yet discovered
   that political economy has unavoidable points of contact with ethics.
 
@@ -380,9 +380,9 @@ Tito Livio_.
   for his position in Renaissance Italy, for the corruption in the midst
   of which he lived, for his own personal temperament? How shall we
   state his point of departure from the middle ages, his sympathy with
-  prevalent classical enthusiasms, his divination of a new period? How
+  prevalent classical [[Enthusiasm|enthusiasms]], his [[Divination|divination]] of a new period? How
   shall we estimate the permanent worth of his method, the residuum of
-  value in his maxims?
+  value in his [[Maxims|maxims]]?
 
 After finishing the _Principe_, Machiavelli thought of dedicating it to
 one of the Medicean princes, with the avowed hope that he might thereby
@@ -393,7 +393,7 @@ pope than he formed schemes for the aggrandizement of his family.
 Giuliano was offered and refused the duchy of Urbino. Later on, Leo
 designed for him a duchy in Emilia, to be cemented out of Parma,
 Piacenza, Reggio and Modena. Supported by the power of the papacy, with
-the goodwill of Florence to back him, Giuliano would have found himself
+the [[Goodwill|goodwill]] of Florence to back him, Giuliano would have found himself
 in a position somewhat better than that of Cesare Borgia; and Borgia's
 creation of the duchy of Romagna might have served as his model.
 Machiavelli therefore was justified in feeling that here was an
@@ -410,7 +410,7 @@ stuff to found Italian kingdoms.
 Machiavelli, meanwhile, was reading his _Discorsi_ to a select audience
 in the Rucellai gardens, fanning that republican enthusiasm which never
 lay long dormant among the Florentines. Towards the year 1519 both Leo
-X. and his cousin, the cardinal Giulio de' Medici, were much perplexed
+X. and his [[Cousin|cousin]], the cardinal Giulio de' Medici, were much perplexed
 about the management of the republic. It seemed necessary, if possible,
 in the gradual extinction of their family to give the city at least a
 semblance of self-government. They applied to several celebrated
@@ -433,13 +433,13 @@ and the _Vita di Castruccio_.
   artillery it displays a want of insight into the actualities of modern
   warfare. We may regard it as a supplement or appendix to the
   _Principe_ and the _Discorsi_, since Machiavelli held it for a
-  fundamental axiom that states are powerless unless completely armed in
+  fundamental [[Axiom|axiom]] that states are powerless unless completely armed in
   permanence. The peroration contains a noble appeal to the Italian
   liberator of his dreams, and a parallel from Macedonian history,
   which, read by the light of this century, sounds like a prophecy of
   Piedmont.
 
-  The _Vita di Castruccio_ was composed at Lucca, whither Machiavelli
+  The _Vita di Castruccio_ was composed at [[Lucca]], whither Machiavelli
   had been sent on a mission. This so-called biography of the medieval
   adventurer who raised himself by personal ability and military skill
   to the tyranny of several Tuscan cities must be regarded in the light
@@ -456,9 +456,9 @@ and the _Vita di Castruccio_.
   In the same year, 1520, Machiavelli, at the instance of the cardinal
   Giulio de' Medici, received commission from the officers of the
   _Studio pubblico_ to write a history of Florence. They agreed to pay
-  him an annual allowance of 100 florins while engaged upon the work.
+  him an annual allowance of 100 [[Florin|florins]] while engaged upon the work.
   The next six years were partly employed in its composition, and he
-  left a portion of it finished, with a dedication to Clement VII., when
+  left a portion of it finished, with a [[Dedication|dedication]] to [[Clement]] VII., when
   he died in 1527. In the _Historie fiorentine_ Machiavelli quitted the
   field of political speculation for that of history. But, having
   already written the _Discorsi_ and the _Principe_, he carried with him
@@ -485,18 +485,18 @@ and the _Vita di Castruccio_.
   appropriate to prominent personages. The style of the whole book is
   nervous, vivid, free from artifice and rhetoric, obeying the writer's
   thought with absolute plasticity. Machiavelli had formed for himself a
-  prose style, equalled by no one but by Guicciardini in his minor
+  prose style, equalled by no one but by [[Guicciardini]] in his minor
   works, which was far removed from the emptiness of the latinizing
   humanists and the trivialities of the Italian purists. Words in his
   hands have the substance, the self-evidence of things. It is an
-  athlete's style, all bone and sinew, nude, without superfluous flesh
+  athlete's style, all [[Bone|bone]] and sinew, nude, without superfluous flesh
   or ornament.
 
 It would seem that from the date of Machiavelli's discourse to Leo on
 the government of Florence the Medici had taken him into consideration.
 Writing to Vettori in 1513, he had expressed his eager wish to "roll
 stones" in their service; and this desire was now gratified. In 1521 he
-was sent to Carpi to transact a petty matter with the chapter of the
+was sent to [[Carpi]] to transact a petty matter with the chapter of the
 Franciscans, the chief known result of the embassy being a burlesque
 correspondence with Francesco Guicciardini. Four years later, in 1525,
 he received a rather more important mission to Venice. But Machiavelli's
@@ -510,13 +510,13 @@ are uncertain, though the greatest of them was first printed at Rome in
 and most powerful play in the Italian language.
 
   The plot is both improbable and unpleasing. But literary criticism is
-  merged in admiration of the wit, the humour, the vivacity, the satire
+  merged in admiration of the wit, the [[Humour|humour]], the vivacity, the satire
   of a piece which brings before us the old life of Florence in a
   succession of brilliant scenes. If Machiavelli had any moral object
-  when he composed the _Mandragola_, it was to paint in glaring colours
+  when he composed the _Mandragola_, it was to paint in glaring [[Colours|colours]]
   the corruption of Italian society. It shows how a bold and plausible
   adventurer, aided by the profligacy of a parasite, the avarice and
-  hypocrisy of a confessor, and a mother's complaisant familiarity with
+  [[Hypocrisy|hypocrisy]] of a confessor, and a mother's complaisant familiarity with
   vice, achieves the triumph of making a gulled husband bring his own
   unwilling but too yielding wife to shame. The whole comedy is a study
   of stupidity and baseness acted on by roguery. About the power with
@@ -525,10 +525,10 @@ and most powerful play in the Italian language.
   whether the author's radical conception of human nature was not false.
   The same suspicion is forced upon us by the _Principe_. Did not
   Machiavelli leave good habit, as an essential ingredient of character,
-  out of account? Men are not such absolute fools as Nicia, nor such
+  out of account? Men are not such absolute [[Fools|fools]] as Nicia, nor such
   compliant catspaws as Ligurio and Timoteo; women are not such weak
   instruments as Sostrata and Lucrezia. Somewhere, in actual life, the
-  stress of craft and courage acting on the springs of human vice and
+  stress of [[Craft|craft]] and courage acting on the springs of human vice and
   weakness fails, unless the hero of the comedy or tragedy, Callimaco or
   Cesare, allows for the revolt of healthier instincts. Machiavelli does
   not seem to have calculated the force of this recoil. He speculates a
@@ -546,15 +546,15 @@ and most powerful play in the Italian language.
   Machiavelli's, as internal evidence of style sufficiently argues,
   might be accepted as a study for both the _Clizia_ and the
   _Mandragola_. It seems written to expose the corruption of domestic
-  life in Florence, and especially to satirize the friars in their
+  life in Florence, and especially to satirize the [[Friar|friars]] in their
   familiar part of go-betweens, tame cats, confessors and adulterers.
 
-  Of Machiavelli's minor poems, sonnets, _capitoli_ and carnival songs
+  Of Machiavelli's minor poems, sonnets, _capitoli_ and [[Carnival|carnival]] songs
   there is not much to say. Powerful as a comic playwright, he was not a
   poet in the proper sense of the term. The little novel of _Belfagor_
   claims a passing word, if only because of its celebrity. It is a
   good-humoured satire upon marriage, the devil being forced to admit
-  that hell itself is preferable to his wife's company. That Machiavelli
+  that [[Hell|hell]] itself is preferable to his wife's company. That Machiavelli
   invented it to express the irritation of his own domestic life is a
   myth without foundation. The story has a medieval origin, and it was
   almost simultaneously treated in Italian by Machiavelli, Straparola
@@ -563,7 +563,7 @@ and most powerful play in the Italian language.
 In the spring of 1526 Machiavelli was employed by Clement VII. to
 inspect the fortifications of Florence. He presented a report upon the
 subject, and in the summer of the same year received orders to attend
-Francesco Guicciardini, the pope's commissary of war in Lombardy.
+Francesco Guicciardini, the pope's [[Commissary|commissary]] of war in Lombardy.
 Guicciardini sent him in August to Cremona, to transact business with
 the Venetian _provveditori_. Later on in the autumn we find him once
 more with Guicciardini at Bologna. Thus the two great Italian historians
@@ -571,7 +571,7 @@ of the 16th century, who had been friends for several years, were
 brought into relations of close intimacy.
 
 After another visit to Guicciardini in the spring of 1527, Machiavelli
-was sent by him to Civita Vecchia. It seemed that he was destined to be
+was sent by him to [[Civita Vecchia]]. It seemed that he was destined to be
 associated in the papal service with Clement's viceroy, and that a new
 period of diplomatic employment was opening for him. But soon after his
 return to Florence he fell ill. His son Piero said that he took medicine
@@ -579,27 +579,27 @@ on the 20th of June which disagreed with him; and on the 22nd he died,
 having received the last offices of the Church.
 
 There is no foundation for the legend that he expired with profane
-sarcasms upon his lips. Yet we need not run into the opposite extreme,
+sarcasms upon his [[Lip|lips]]. Yet we need not run into the opposite extreme,
 and try to fancy that Machiavelli, who had professed Paganism in his
 life, proved himself a believing Christian on his death-bed. That he
-left an unfavourable opinion among his fellow citizens is very decidedly
+left an unfavourable opinion among his [[Fellow|fellow]] citizens is very decidedly
 recorded by the historian Varchi. The _Principe_, it seems, had already
 begun to prejudice the world against him; and we can readily believe
 that Varchi sententiously observes, that "it would have been better for
 him if nature had given him either a less powerful intellect or a mind
 of a more genial temper." There is in truth a something crude,
 unsympathetic, cynical in his mental attitude toward human nature, for
-which, even after the lapse of more than three centuries, we find it
+which, even after the [[Lapse|lapse]] of more than three centuries, we find it
 difficult to make allowance. The force of his intellect renders this
 want of geniality repulsive. We cannot help objecting that one who was
 so powerful could have been kindlier and sounder if he willed. We
 therefore do him the injustice of mistaking his infirmity for
-perversity. He was colour-blind to commonplace morality; and we are
-angry with him because he merged the hues of ethics in one grey monotone
+perversity. He was colour-blind to [[Commonplace|commonplace]] morality; and we are
+angry with him because he merged the [[Hue|hues]] of ethics in one grey monotone
 of politics.
 
 In person Machiavelli was of middle height, black-haired, with rather a
-small head, very bright eyes and slightly aquiline nose. His thin, close
+small head, very [[Bright|bright]] eyes and slightly aquiline nose. His thin, close
 lips often broke into a smile of sarcasm. His activity was almost
 feverish. When unemployed in work or study he was not averse to the
 society of boon companions, gave himself readily to transient amours,
@@ -626,7 +626,7 @@ acquainted with little that is so disagreeable.     (J. A. S.)
   various authors who have written on Machiavelli. See also T. Mundt,
   _Niccolò Machiavelli und das System der modernen Politik_ (3rd ed.,
   Berlin, 1867); E. Feuerlein, "_Zur Machiavelli-Frage_" in H. von
-  Sybel's _Histor. Zeitschrift_ (Munich, 1868); P. S. Mancini,
+  Sybel's _Histor. Zeitschrift_ (Munich, 1868); P. S. [[Mancini]],
   _Prelezioni con un saggio sul Machiavelli_; F. Nitti, _Machiavelli
   nella vita e nelle opere_ (Naples, 1876); O. Tomasini, _La Vita e gli
   scritti di Niccolò Machiavelli_ (Turin, 1883); L. A. Burd, _Il

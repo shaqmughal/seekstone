@@ -23,7 +23,7 @@ the Clay-with-Flints is the residue left by the slow solution and
 disintegration of the Chalk by the processes of weathering; on the other
 hand, it has long been known that the deposit very frequently contains
 materials foreign to the Chalk, derived either from the Tertiary rocks
-or from overlying drift. In the paper quoted above, Jukes-Browne ably
+or from overlying [[Drift|drift]]. In the paper quoted above, Jukes-Browne ably
 summarizes the evidence against the view that the deposit is mainly a
 Chalk residue, and brings forward a good deal of evidence to show that
 many patches of the Clay-with-Flints lie upon the same plane and may be
@@ -39,7 +39,7 @@ been much more extensive than they are now" (loc. cit. p. 159).
 It is noteworthy that the Clay-with-Flints is developed over an area
 which is just beyond the limits of the ice sheets of the Glacial epoch,
 and the peculiar conditions of late Pliocene and Pleistocene times;
-involving heavy rains, snow and frost, may have had much to do with the
+involving heavy rains, snow and [[Frost|frost]], may have had much to do with the
 mingling of the Tertiary and Chalky material. Besides the occurrence in
 surface patches, Clay-with-Flints is very commonly to be observed
 descending in "pipes" often to a considerable depth into the Chalk;

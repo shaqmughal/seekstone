@@ -1,13 +1,13 @@
 # Leopold I.
 
 LEOPOLD I. (1640-1705), Roman emperor, the second son of the emperor
-Ferdinand III. and his first wife Maria Anna, daughter of Philip III. of
+[[Ferdinand]] III. and his first wife Maria [[Anna]], daughter of Philip III. of
 Spain, was born on the 9th of June 1640. Intended for the Church, he
 received a good education, but his prospects were changed by the death
 of his elder brother, the German king Ferdinand IV., in July 1654, when
 he became his father's heir. In 1655 he was chosen king of Hungary and
 in 1656 king of Bohemia, and in July 1658, more than a year after his
-father's death, he was elected emperor at Frankfort, in spite of the
+father's death, he was elected emperor at [[Frankfort]], in spite of the
 intrigues of Cardinal Mazarin, who wished to place on the imperial
 throne Ferdinand, elector of Bavaria, or some other prince whose
 elevation would break the Habsburg succession. Mazarin, however,
@@ -62,12 +62,12 @@ Almost immediately after the conclusion of peace Louis renewed his
 aggressions on the German frontier. Engaged in a serious struggle with
 Turkey, the emperor was again slow to move, and although he joined a
 league against France in 1682 he was glad to make a truce at Regensburg
-two years later. In 1686 the league of Augsburg was formed by the
+two years later. In 1686 the league of [[Augsburg]] was formed by the
 emperor and the imperial princes, to preserve the terms of the treaties
 of Westphalia and of Nijmwegen. The whole European position was now
 bound up with events in England, and the tension lasted until 1688, when
 William of Orange won the English crown and Louis invaded Germany. In
-May 1689 the grand alliance was formed, including the emperor, the kings
+May 1689 the [[Grand Alliance|grand alliance]] was formed, including the emperor, the kings
 of England, Spain and Denmark, the elector of Brandenburg and others,
 and a fierce struggle against France was waged throughout almost the
 whole of western Europe. In general the several campaigns were
@@ -89,7 +89,7 @@ powerful league, the grand alliance, was formed against France; of this
 the emperor was a prominent member, and in 1703 he transferred his claim
 on the Spanish monarchy to his second son, the archduke Charles. The
 early course of the war was not favourable to the imperialists, but the
-tide of defeat had been rolled back by the great victory of Blenheim
+tide of defeat had been rolled back by the great victory of [[Blenheim]]
 before Leopold died on the 5th of May 1705.
 
 In governing his own lands Leopold found his chief difficulties in
@@ -104,7 +104,7 @@ besieged from July to September, while Leopold took refuge at Passau.
 Realizing the gravity of the situation somewhat tardily, some of the
 German princes, among them the electors of Saxony and Bavaria, led their
 contingents to the imperial army which was commanded by the emperor's
-brother-in-law, Charles, duke of Lorraine, but the most redoubtable of
+brother-in-law, Charles, duke of [[Lorraine]], but the most redoubtable of
 Leopold's allies was the king of Poland, John Sobieski, who was already
 dreaded by the Turks. On the 12th of September 1683 the allied army fell
 upon the enemy, who was completely routed, and Vienna was saved. The
@@ -122,7 +122,7 @@ was crowned hereditary king of Hungary.
 During this reign some important changes were made in the constitution
 of the Empire. In 1663 the imperial diet entered upon the last stage of
 its existence, and became a body permanently in session at Regensburg;
-in 1692 the duke of Hanover was raised to the rank of an elector,
+in 1692 the duke of [[Hanover]] was raised to the rank of an elector,
 becoming the ninth member of the electoral college; and in 1700 Leopold,
 greatly in need of help for the impending war with France, granted the
 title of king of Prussia to the elector of Brandenburg. The net result
@@ -143,9 +143,9 @@ had also four daughters.
 Leopold was a man of industry and education, and during his later years
 he showed some political ability. Extremely tenacious of his rights, and
 regarding himself as an absolute sovereign, he was also very intolerant
-and was greatly influenced by the Jesuits. In person he was short, but
+and was greatly influenced by the [[Jesuits]]. In person he was short, but
 strong and healthy. Although he had no inclination for a military life
-he loved exercises in the open air, such as hunting and riding; he had
+he loved exercises in the open air, such as [[Hunting|hunting]] and riding; he had
 also a taste for music.
 
   Leopold's letters to Marco d'Aviano from 1680 to 1699 were edited by

@@ -9,25 +9,25 @@ from designs engraved on metal plates), and Vasari's account was
 universally accepted and repeated until recent research proved it
 erroneous. What we actually know from contemporary documents of
 Finiguerra, his origin, his life, and his work, is as follows. He was
-the son of Antonio, and grandson of Tommaso Finiguerra or Finiguerri,
+the son of [[Antonio]], and grandson of Tommaso Finiguerra or Finiguerri,
 both goldsmiths of Florence, and was born in Sta Lucia d'Ognissanti in
 1426. He was brought up to the hereditary profession of goldsmith and
 was early distinguished for his work in niello. In his twenty-third year
 (1449) we find note of a sulphur cast from a niello of his workmanship
 being handed over by the painter Alessio Baldovinetti to a customer in
-payment or exchange for a dagger received. In 1452 Maso delivered and
+payment or exchange for a [[Dagger|dagger]] received. In 1452 Maso delivered and
 was paid for a niellated silver pax commissioned for the baptistery of
 St John by the consuls of the gild of merchants or Calimara. By this
 time he seems to have left his father's workshop: and we know that he
 was in partnership with Piero di Bartolommeo di Sali and the great
 Antonio Pollaiuolo in 1457, when the firm had an order for a pair of
-fine silver candlesticks for the church of San Jacopo at Pistoia. In
+fine silver [[Candlestick|candlesticks]] for the church of San Jacopo at Pistoia. In
 1459 we find Finiguerra noted in the house-book of Giovanni Rucellai as
 one of several distinguished artists with whose works the Casa Rucellai
 was adorned. In 1462 he is recorded as having supplied another wealthy
 Florentine, Cino di Filippo Rinuccini, with waist-buckles, and in the
 years next following with forks and spoons for christening presents. In
-1463 he drew cartoons, the heads of which were coloured by Alessio
+1463 he drew [[Cartoon|cartoons]], the heads of which were coloured by Alessio
 Baldovinetti, for five or more figures for the sacristy of the duomo,
 which was being decorated in wood inlay by a group of artists with
 Giuliano da Maiano at their head. On the 14th of December 1464 Maso
@@ -36,7 +36,7 @@ Finiguerra made his will, and died shortly afterwards.
 These documentary facts are supplemented by several writers of the next
 generation with statements more or less authoritative. Thus Baccio
 Bandinelli says that Maso was among the young artists who worked under
-Ghiberti on the famous gates of the baptistery; Benvenuto Cellini that
+[[Ghiberti]] on the famous gates of the baptistery; Benvenuto [[Cellini]] that
 he was the finest master of his day in the art of niello engraving, and
 that his masterpiece was a pax of the Crucifixion in the baptistery of
 St John; that being no great draughtsman, he in most cases, including
@@ -46,13 +46,13 @@ inferior draughtsman to Pollaiuolo, mentions nevertheless a number of
 original drawings by him as existing in his own collection, "with
 figures both draped and nude, and histories drawn in water-colour."
 Vasari's account was confirmed and amplified in the next century by
-Baldinucci, who says that he has seen many drawings by Finiguerra much
+[[Baldinucci]], who says that he has seen many drawings by Finiguerra much
 in the manner of Masaccio; adding that Maso was beaten by Pollaiuolo in
 competition for the reliefs of the great silver altar-table commission
 by the merchants' gild for the baptistery of St John (this famous work
 is now preserved in the Opera del Duomo). But the paragraph of Vasari
 which has chiefly held the attention of posterity is that in which he
-gives this craftsman the credit of having been the first to print off
+gives this craftsman the [[Credit|credit]] of having been the first to print off
 impressions from niello plates on sulphur casts and afterwards on sheets
 of paper, and of having followed up this invention by engraving
 copper-plates for the express purpose of printing impressions from them,
@@ -64,7 +64,7 @@ artists and especially from Botticelli. In the last years of the 18th
 century Vasari's account of Finiguerra's invention was held to have
 received a decisive and startling confirmation under the following
 circumstances. There was in the baptistery at Florence (now in the
-Bargello) a beautiful 15th-century niello pax of the Coronation of the
+Bargello) a beautiful 15th-century niello pax of the [[Coronation]] of the
 Virgin. The Abate Gori, a savant and connoisseur of the mid-century, had
 claimed this conjecturally for the work of Finiguerra; a later and still
 more enthusiastic virtuoso, the Abate Zani, discovered first, in the
@@ -89,7 +89,7 @@ nothing is more marked than the special style of Pollaiuolo and his
 group; and nothing is more unlike it than the style of the Coronation
 pax, the designer of which must obviously have been trained in quite a
 different school, namely that of Filippo Lippi. So this seductive
-identification has to be abandoned, and we have to look elsewhere for
+[[Identification|identification]] has to be abandoned, and we have to look elsewhere for
 traces of the real work of Finiguerra. The only fully authenticated
 specimens which exist are the above-mentioned tarsia figures, over half
 life-size, executed from his cartoons for the sacristy of the duomo. But
@@ -102,7 +102,7 @@ same hand, acquired in 1888 for the British Museum. The Florence series
 depicts for the most part figures of the studio and the street, to all
 appearance members of the artist's own family and workshop, drawn direct
 from life. The museum volume, on the other hand, is a picture-chronicle,
-drawn from imagination, and representing parallel figures of sacred and
+drawn from [[Imagination|imagination]], and representing parallel figures of sacred and
 profane history, in a chronological series from the Creation to Julius
 Caesar, dressed and accoutred with inordinate richness according to the
 quaint pictures which Tuscan popular fancy in the mid-15th century
@@ -164,7 +164,7 @@ holding the field.
   Benvenuto Cellini, _I Trattati dell' orificeria_, &c. (ed. Lemonnier),
   pp. 7, 12, 13, 14; Baldinucci, _Notizie dei professori di disegno_
   (1845), i. pp. 518, 519, 533; Zani, _Materiali per servire_, &c.
-  (1802); Duchesne, _Essai sur les nielles_ (1824); Dutuit, _Manuel de
+  (1802); Duchesne, _Essai sur les nielles_ (1824); Dutuit, _[[Manuel]] de
   l'amateur d'estampes_, vol. i. pref. and vol. ii.; and for a full
   discussion of the whole question, with quotations from earlier
   authorities and reproductions of the works discussed, Sidney Colvin,
@@ -179,13 +179,13 @@ printed fabrics of any description are subjected, with the object of
 imparting a characteristic appearance to the surface of the fabric, or
 of influencing its handle or feel. Strictly speaking, certain operations
 might be classed under this heading which are conducted previous to
-bleaching, dyeing, &c; e.g. mercerizing (q.v.), stretching and crabbing,
+[[Bleaching|bleaching]], dyeing, &c; e.g. mercerizing (q.v.), stretching and crabbing,
 singeing (see BLEACHING); but as these are not undertaken by the
 finisher, only those will be dealt with here which are not mentioned
 under other headings. By the various treatments to which the fabric is
 subjected in finishing, it is often so altered in appearance that it is
-impossible to recognize in it the same material that came from the loom
-or from the bleacher or dyer. On the other hand, one and the same
+impossible to recognize in it the same material that came from the [[Loom|loom]]
+or from the bleacher or [[Dyer|dyer]]. On the other hand, one and the same
 fabric, subjected to different processes of finishing, may be made to
 represent totally different classes of material. In other cases,
 however, the appearance of the finished article differs but slightly
@@ -210,7 +210,7 @@ subjected during the various operations to more or less continual
 longitudinal tension, and while becoming elongated, shrink more or less
 considerably in width. In order to bring them back to their original
 width, they are stretched or "stentered" by means of specially
-constructed machines. The most effective of these is the so-called
+constructed [[Machine|machines]]. The most effective of these is the so-called
 stentering frame, which consists essentially of two slightly diverging
 endless chains carrying clips or pins which hold the piece in position
 as it traverses the machine. The length of a frame may vary from 20 to
@@ -232,8 +232,8 @@ treatment to the ordinary finishing processes such as calendering, hot
 pressing, raising, &c. But in the majority of cases they are previously
 impregnated, according to the finish desired, with stiffening or
 softening agents, weighting materials, &c. Usually, starch constitutes
-the main stiffening agent, with additions of china clay, barium
-compounds, &c., for weighting purposes, and Turkey red oil, with or
+the main stiffening agent, with additions of china clay, [[Barium|barium]]
+[[Compound|compounds]], &c., for weighting purposes, and Turkey red oil, with or
 without the addition of some vegetable oil or fat, as the softening
 agent. Magnesium sulphate is also largely used in order to give "body"
 to the cloth, which it does by virtue of its property of crystallizing
@@ -297,7 +297,7 @@ ordinary mangle, from which, however, it differs essentially inasmuch as
 one or more of the rollers or bowls are made of steel or iron and can be
 treated either by gas or steam; the other bowls are made of compressed
 cotton or paper. Three distinct forms of calender are in use, viz. the
-ordinary calender, the friction calender and the embossing calender.
+ordinary calender, the [[Friction|friction]] calender and the embossing calender.
 
 The number of bowls in an ordinary calender varies between two and six
 according to the character of the finish for which it is intended. In a
@@ -368,7 +368,7 @@ will be described below.
 
 _Raising._--This operation, which was formerly only used for woollen
 goods (teasing), has come largely into use for cotton pieces, partly in
-consequence of the introduction of the direct cotton colours by which
+consequence of the introduction of the direct cotton [[Colours|colours]] by which
 the cotton is dyed evenly throughout (see DYEING), and partly in
 consequence of new and improved machinery having been devised for the
 purpose. Starting with a plain bleached, dyed or printed fabric, the
@@ -427,7 +427,7 @@ consist in the main of cellulose, are disintegrated at elevated
 temperatures by dilute mineral acids. The pieces are run through
 sulphuric acid of from 4° to 6° Tw., squeezed or hydro-extracted, and
 dried over cylinders and then in stoves. The acid is thus concentrated
-and attacks the burrs, which fall to dust, while leaving the wool
+and attacks the burrs, which fall to [[Dust|dust]], while leaving the wool
 intact. For the removal of the acid the fabric is first washed in water
 and then in weak soda. Carbonizing is also sometimes used for worsteds.
 
@@ -437,7 +437,7 @@ Milling was formerly all done in milling or fulling stocks (see Fig. 5),
 in which the cloth saturated with a strong solution of soap (with or
 without other additions such as stale urine, potash, fuller's earth,
 &c.) is subjected to the action of heavy wooden hammers, which are
-raised by the cams attached to the wheel (E) on the revolving shaft, and
+raised by the [[Cam|cams]] attached to the wheel (E) on the revolving shaft, and
 fall with their own weight on to the bundles of cloth. The shape of the
 hammer-head causes the cloth to turn slowly in the cavity in which the
 milling takes place. Occasionally, the cloth is taken out, straightened,
@@ -449,7 +449,7 @@ In the more modern forms of milling machines the principle adopted is to
 draw the pieces in rope form, saturated with soap solution and sewn
 together end to end so as to form an endless band, between two or more
 rollers, on leaving which they are forced down a closed trough ending in
-an aperture the size of which can be varied, but which in any case is
+an [[Aperture|aperture]] the size of which can be varied, but which in any case is
 sufficiently small to cause a certain amount of force to be necessary to
 push the pieces through. A machine of this kind is shown in Fig. 6. It
 is evident that for coloured goods which have to be milled only such
@@ -628,7 +628,7 @@ For the finishing of silk pieces the operations and machinery employed
 are similar in character to some of those used for cotton and worsteds.
 Most high-class silks require no further treatment other than simple
 damping and pressing after they leave the loom. Inferior qualities are
-frequently filled or back-filled with glue, sugar, gum tragacanth,
+frequently filled or back-filled with glue, sugar, [[Gum|gum]] tragacanth,
 dextrin, &c., after which they are dried, damped and given a light
 calender finish. Moiré or watered effects are produced by running two
 pieces face to face through a calender or by means of an embossing
@@ -662,7 +662,7 @@ yarn tight on a frame, which is immersed in boiling water and then
 allowing it to cool in this condition.
 
 A peculiar silk-like gloss and feel is sometimes imparted to yarns made
-from lustre wool by a treatment with a weak solution of chlorine
+from lustre wool by a treatment with a weak solution of [[Chlorine|chlorine]]
 (bleaching powder and hydrochloric acid) followed by a treatment with
 soap.
 
@@ -695,17 +695,17 @@ some of the lustre which has been lost in weighting.     (E. K.)
 
 FINISTÈRE, or FINISTERRE, the most western department of France, formed
 from part of the old province of Brittany. Pop. (1906) 795,103. Area,
-2713 sq. m. It is bounded W. and S. by the Atlantic Ocean, E. by the
+2713 sq. m. It is bounded W. and S. by the [[Atlantic Ocean]], E. by the
 departments of Côtes-du-Nord and Morbihan, and N. by the English
 Channel. Two converging chains of hills run from the west towards the
 east of the department and divide it into three zones conveying the
 waters in three different directions. North of the Arrée, or more
 northern of the two chains, the waters of the Douron, Penzé and Flèche
 flow northward to the sea. The Elorn, however, after a short northerly
-course, turns westward and empties into the Brest roads. South of the
+course, turns westward and empties into the [[Brest]] roads. South of the
 Montagnes Noires, the Odet, Aven, Isole and Ellé flow southward; while
 the waters of the Aulne, flowing through a region enclosed by the two
-chains with a westward declination, discharge into the Brest roads. The
+chains with a westward [[Declination|declination]], discharge into the Brest roads. The
 rivers are all small, and none of the hills attain a height of 1300 ft.
 The coast is generally steep and rocky and at some points dangerous,
 notably off Cape Raz and the Île de Sein; it is indented with numerous
@@ -717,11 +717,11 @@ are Ushant (q.v.) N.W. of Cape St Mathieu, and Batz off Roscoff. The
 climate is temperate and equable, but humid; the prevailing winds are
 the W., S.W. and N.W. Though more than a third of the department is
 covered by heath, waste land and forest, it produces oats, wheat,
-buckwheat, rye and barley in quantities more than sufficient for its
+[[Buckwheat|buckwheat]], rye and barley in quantities more than sufficient for its
 population. In the extreme north the neighbourhood of Roscoff, and
 farther south the borders of the Brest roadstead, are extremely fertile
-and yield large quantities of asparagus, artichokes and onions, besides
-melons and other fruits. The cider apple is abundant and furnishes the
+and yield large quantities of [[Asparagus|asparagus]], artichokes and onions, besides
+melons and other fruits. The [[Cider|cider]] apple is abundant and furnishes the
 chief drink of the inhabitants. Hemp and flax are also grown. The farm
 and dairy produce is plentiful, and great attention is paid to the
 breeding and feeding of cattle and horses. The production of honey and
@@ -733,9 +733,9 @@ potter's clay, &c. The lead mines of Poullaouen and Huelgoat, which for
 several centuries yielded a considerable quantity of silver, are no
 longer worked. The preparation of sardines is carried on on a large
 scale at several of the coast-towns. The manufactures include linens,
-woollens, sail-cloth, ropes, agricultural implements, paper, leather,
-earthenware, soda, soap, candles, and fertilizers and chemicals derived
-from seaweed. Brest has important foundries and engineering works; and
+woollens, sail-cloth, ropes, agricultural [[Implement|implements]], paper, leather,
+earthenware, soda, soap, [[Candle|candles]], and fertilizers and chemicals derived
+from seaweed. Brest has important foundries and [[Engineering|engineering]] works; and
 shipbuilding is carried on there and at other seaports. Brest and
 Morlaix are the most important commercial ports. Trade is in fish,
 vegetables and fruit. Coal is the chief import. The department is served
@@ -744,7 +744,7 @@ by the Orleans and Western railways. The canal from Nantes to Brest has
 and many of the smaller rivers for short distances.
 
 Finistère is divided into the arrondissements of Quimperlé, Brest,
-Châteaulin, Morlaix and Quimper (43 cantons, 294 communes), the town of
+Châteaulin, Morlaix and Quimper (43 cantons, 294 [[Commune|communes]]), the town of
 Quimper being the capital of the department and the seat of a bishopric.
 The department belongs to the region of the XI. army corps and to the
 archiepiscopal province and académie (educational division) of Rennes,

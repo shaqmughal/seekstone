@@ -12,7 +12,7 @@ functionaries of the Frankish empire, archbishops, bishops, _missi_ and
 counts, a copy being kept by the chancellor in the archives of the
 palace. At the present day we do not possess a single capitulary in its
 original form: but very frequently copies of these isolated capitularies
-were included in various scattered manuscripts, among pieces of a very
+were included in various scattered [[Manuscript|manuscripts]], among pieces of a very
 different nature, ecclesiastical or secular. We find, therefore, a fair
 number of them in books which go back as far as the 9th or 10th
 centuries. In recent editions in the case of each capitulary it is
@@ -31,7 +31,7 @@ duplicates. This collection soon gained an official authority, and after
 
 After 827 new capitularies were naturally promulgated, and before 858
 there appeared a second collection in three books, by an author calling
-himself Benedictus Levita. His aim was, he said, to complete the work of
+himself [[Benedictus]] Levita. His aim was, he said, to complete the work of
 Ansegisus, and bring it up to date by continuing it from 827 to his own
 day; but the author has not only borrowed prescriptions from the
 capitularies; he has introduced other documents into his collection,
@@ -44,9 +44,9 @@ Levita into a single collection in seven books. The serious historian of
 to-day, however, is careful not to use books v., vi. and vii. for
 purposes of reference.
 
-Early editors chose to republish this collection of Ansegisus and
+Early editors [[Chose|chose]] to republish this collection of Ansegisus and
 Benedictus as they found it. It was a distinguished French scholar,
-Etienne Baluze, who led the way to a fresh classification. In 1677 he
+Etienne [[Baluze]], who led the way to a fresh [[Classification|classification]]. In 1677 he
 brought out the _Capitularia regum francorum_, in two folio volumes, in
 which he published first the capitularies of the Merovingian kings, then
 those of Pippin, of Charles and of Louis the Pious, which he had found
@@ -68,7 +68,7 @@ together with various appendices bearing on them, and the collection of
 Ansegisus. Boretius, whose health had been ruined by overwork, was
 unable to finish his work; it was continued by Victor Krause, who
 collected in vol. ii. the scattered capitularies of a date posterior to
-828. Karl Zeumer and Albrecht Werminghoff drew up a detailed index of
+828. Karl Zeumer and Albrecht Werminghoff drew up a detailed [[Index|index]] of
 both volumes, in which all the essential words are noted. A third
 volume, prepared by Emil Seckel, was to include the collection of
 Benedictus Levita.
@@ -77,7 +77,7 @@ Benedictus Levita.
 kind. Boretius has divided them into several classes:--
 
 (a) The _Capitula legibus addenda._--These are additions made by the
-king of the Franks to the barbarian laws promulgated under the
+king of the [[Frank|Franks]] to the barbarian laws promulgated under the
 Merovingians, the Salic law, the Ripuarian or the Bavarian. These
 capitularies have the same weight as the law which they complete; they
 are particular in their application, applying, that is to say, only to
@@ -138,13 +138,13 @@ private interests by charters; it was not until the reign of Philip
 Augustus that general provisions again appeared; but when they did so,
 they bore the name of ordinances (_ordonnances_).
 
-There were also capitularies of the Lombards. These capitularies formed
+There were also capitularies of the [[Lombards]]. These capitularies formed
 a continuation of the Lombard laws, and are printed as an appendix to
 these laws by Boretius in the folio edition of the _Monumenta Germaniae,
 Leges_, vol. iv.
 
   AUTHORITIES.---Boretius, _Die Capitularien im Longobardenreich_
-  (Halle, 1864); and _Beitrage zur Capitularienkritik_ (Leipzig, 1874);
+  ([[Halle]], 1864); and _Beitrage zur Capitularienkritik_ (Leipzig, 1874);
   G. Seeliger, _Die Kapitularien der Karolinger_ (Munich, 1893). See
   also the histories of institutions or of law by Waitz, Brunner, Fustel
   de Coulanges, Viollet, Esmein.     (C. Pf.)

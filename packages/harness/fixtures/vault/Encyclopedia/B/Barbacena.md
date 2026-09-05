@@ -3,7 +3,7 @@
 BARBACENA, an inland town of Brazil, in the state of Minas Geraes, 150 m.
 N.N.W. of Rio de Janeiro and about 3500 ft. above sea-level. The
 surrounding district is chiefly agricultural, producing coffee, sugar-cane,
-Indian corn and cattle, and the town has considerable commercial
+Indian [[Corn|corn]] and cattle, and the town has considerable commercial
 importance. It is also noted for its healthiness and possesses a large
 sanatorium much frequented by convalescents from Rio de Janeiro during the
 hot season. Barbacena was formerly a principal distributing centre for the

@@ -1,6 +1,6 @@
 # Ant-Lion
 
-ANT-LION, the name given to neuropterous insects of the family
+ANT-LION, the name given to neuropterous [[Insect|insects]] of the family
 _Myrmeleonidae_, with relatively short and apically clubbed antennae and
 four large densely reticulated wings in which the apical veins enclose
 regular oblong spaces. The perfect insects are for the most part
@@ -12,12 +12,12 @@ however, the term ant-lion applies to the larval form, which has been
 known scientifically for over two hundred years, on account of its
 peculiar and forbidding appearance and its skilful and unique manner of
 entrapping prey by means of a pitfall. The abdomen is oval, sandy-grey
-in hue and beset with warts and bristles; the prothorax forms a mobile
+in [[Hue|hue]] and beset with warts and bristles; the prothorax forms a mobile
 neck for the large square head, which carries a pair of long and
 powerful toothed mandibles. It is in dry and sandy soil that the
 ant-lion lays its trap. Having marked out the chosen site by a circular
 groove, it starts to crawl backwards, using its abdomen as a plough to
-shovel up the soil. By the aid of one front leg it places consecutive
+shovel up the soil. By the aid of one front [[Leg|leg]] it places consecutive
 heaps of loosened particles upon its head, then with a smart jerk throws
 each little pile clear of the scene of operations. Proceeding thus it
 gradually works its way from the circumference towards the centre. When

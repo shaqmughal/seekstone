@@ -1,8 +1,8 @@
 # Francatelli
 
-FRANCATELLI, CHARLES ELMÉ (1805-1876), Anglo-Italian cook, was born in
+FRANCATELLI, CHARLES [[Elm|ELM]]É (1805-1876), Anglo-Italian [[Cook|cook]], was born in
 London, of Italian extraction, in 1805, and was educated in France,
-where he studied the art of cookery. Coming to England, he was employed
+where he studied the art of [[Cookery|cookery]]. Coming to England, he was employed
 successively by various noblemen, subsequently becoming manager of
 Crockford's club. He left Crockford's to become chief cook to Queen
 Victoria, and afterwards he was chef at the Reform Club. He was the

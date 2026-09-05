@@ -23,7 +23,7 @@ among the West Saxons followed. In 591 Ceawlin lost the western part of
 his kingdom, and in 592 Was defeated by his nephew, Ceolric, at
 Wanborough, and driven from Wessex. He was killed in 593, possibly in an
 attempt to regain his kingdom. Ceawlin is included in the _Chronicle_
-among the Bretwaldas.
+among the [[Bretwalda|Bretwaldas]].
 
   See _Two of the Saxon Chronicles_, ed. by C. Plummer (Oxford, 1892);
   _Dictionary of National Biography_, vol. ix (London, 1887); E. Guest,

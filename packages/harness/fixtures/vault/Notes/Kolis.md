@@ -6,12 +6,12 @@ topic: history
 
 # Kolis
 
-KOLIS, a caste or tribe of Western India, of uncertain origin. Possibly
+KOLIS, a [[Caste|caste]] or tribe of Western India, of uncertain origin. Possibly
 the name is derived from the Turki _kuleh_ a slave; and, according to
 one theory, this name has been passed on to the familiar word "cooly"
 for an agricultural labourer. They form the main part of the inferior
 agricultural population of Gujarat, where they were formerly notorious
-as robbers; but they also extend into the Konkan and the Deccan. In 1901
+as robbers; but they also extend into the [[Konkan]] and the Deccan. In 1901
 the number of Kolis in all India was returned as nearly 3¾ millions; but
 this total includes a distinct weaving caste of Kolis or Koris in
 northern India.
@@ -25,14 +25,14 @@ his mother were both Zürich people, and he in due time married a lady
 from Aargau, so that Switzerland can claim him as wholly her own, though
 he lived the greater part of his life in Germany. His early education
 was carried on in Zürich, and he entered the university there in 1836.
-After two years, however, he moved to the university of Bonn, and later
+After two years, however, he moved to the university of [[Bonn]], and later
 to that of Berlin, becoming at the latter place the pupil of Johannes
-Müller and of F. G. J. Henle. He graduated in philosophy at Zürich in
+Müller and of F. G. J. [[Henle]]. He graduated in philosophy at Zürich in
 1841, and in medicine at Heidelberg in 1842. The first academic post
 which he held was that of prosector of anatomy under Henle; but his
 tenure of this office was brief, for in 1844 his native city called him
 back to its university to occupy a chair as professor extraordinary of
-physiology and comparative anatomy. His stay here too, however, was
+physiology and [[Comparative Anatomy|comparative anatomy]]. His stay here too, however, was
 brief, for in 1847 the university of Würzburg, attracted by his rising
 fame, offered him the post of professor of physiology and of
 microscopical and comparative anatomy. He accepted the appointment, and
@@ -47,10 +47,10 @@ of the revival of the microscopic investigation of living beings. Two
 centuries earlier the great Italian Malpighi had started, and with his
 own hand had carried far the study by the help of the microscope of the
 minute structure of animals and plants. After Malpighi this branch of
-knowledge, though continually progressing, made no remarkable bounds
+knowledge, though continually progressing, made no remarkable [[Bounds|bounds]]
 forward until the second quarter of the 19th century, when the
 improvement of the compound microscope on the one hand, and the
-promulgation by Theodor Schwann and Matthias Schleiden of the "cell
+promulgation by Theodor Schwann and [[Matthias]] Schleiden of the "cell
 theory" on the other, inaugurated a new era of microscopic
 investigation. Into this new learning Kölliker threw himself with all
 the zeal of youth, wisely initiated into it by his great teacher Henle,
@@ -70,7 +70,7 @@ the influence of these two great teachers, strengthened by the spirit of
 the times, the threefold character of Kölliker's long-continued and
 varied labours. In all of them, or in almost all of them, the microscope
 was the instrument of inquiry, but the problem to be solved by means of
-the instrument belonged now to one branch of biology, now to another.
+the instrument belonged now to one branch of [[Biology|biology]], now to another.
 
 At Zürich, and afterwards at Würzburg, the title of the chair which he
 held laid upon him the duty of teaching comparative anatomy, and very
@@ -91,7 +91,7 @@ At the time when Kölliker was beginning his career the influence of Karl
 Ernst von Baer's embryological teaching was already being widely felt,
 men were learning to recognize the importance to morphological and
 zoological studies of a knowledge of the development of animals; and
-Kölliker plunged with enthusiasm into the relatively new line of
+Kölliker plunged with [[Enthusiasm|enthusiasm]] into the relatively new line of
 inquiry. His earlier efforts were directed to the invertebrata, and his
 memoir on the development of cephalopods, which appeared in 1844, is a
 classical work; but he soon passed on to the vertebrata, and studied not
@@ -108,7 +108,7 @@ standard work.
 
 But neither zoology nor embryology furnished Kölliker's chief claim to
 fame. If he did much for these branches of science, he did still more
-for histology, the knowledge of the minute structure of the animal
+for [[Histology|histology]], the knowledge of the minute structure of the animal
 tissues. This he made emphatically his own. It may indeed be said that
 there is no fragment of the body of man and of the higher animals on
 which he did not leave his mark, and in more places than one his mark
@@ -124,7 +124,7 @@ physiology. By the above discovery Kölliker completed that basis.
 
 Even to enumerate, certainly to dwell on, all his contributions to
 histology would be impossible here: smooth muscle, striated muscle,
-skin, bone, teeth, blood-vessels and viscera were all investigated by
+skin, [[Bone|bone]], teeth, blood-vessels and viscera were all investigated by
 him; and he touched none of them without striking out some new truths.
 The results at which he arrived were recorded partly in separate
 memoirs, partly in his great textbook on microscopical anatomy, which
@@ -139,9 +139,9 @@ basis for all sound speculations as to the actions of the central
 nervous system. From that time onward he continually laboured, and
 always fruitfully, at the histology of the nervous system, and more
 especially at the difficult problems presented by the intricate patterns
-in which fibres and cells are woven together in the brain and spinal
+in which [[Fibres|fibres]] and cells are woven together in the brain and spinal
 cord. In his old age, at a time when he had fully earned the right to
-fold his arms, and to rest and be thankful, he still enriched
+[[Fold|fold]] his arms, and to rest and be thankful, he still enriched
 neurological science with results of the highest value. From his early
 days a master of method, he saw at a glance the value of the new Golgi
 method for the investigation of the central nervous system, and, to the
@@ -169,8 +169,8 @@ Naturally a man of so much accomplishment was not left without honours.
 Formerly known simply as Kölliker, the title "von" was added to his
 name. He was made a member of the learned societies of many countries;
 in England, which he visited more than once, and where he became well
-known, the Royal Society made him a fellow in 1860, and in 1897 gave him
-its highest token of esteem, the Copley medal.     (M. F.)
+known, the Royal Society made him a [[Fellow|fellow]] in 1860, and in 1897 gave him
+its highest token of esteem, the [[Copley]] medal.     (M. F.)
 
 ## See also
 

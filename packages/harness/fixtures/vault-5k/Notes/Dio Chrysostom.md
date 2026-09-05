@@ -11,7 +11,7 @@ DIO CHRYSOSTOM (c. A.D. 40-115), Greek sophist and rhetorician, was born
 at Piusa (mod. _Brusa_), a town at the foot of Mount Olympus in
 Bithynia. He was called Chrysostom ("golden-mouthed") from his
 eloquence, and also to distinguish him from his grandson, the historian
-Dio Cassius; his surname Cocceianus was derived from his patron, the
+Dio [[Cassius]]; his surname Cocceianus was derived from his patron, the
 emperor Cocceius Nerva. Although he did much to promote the welfare of
 his native place, he became so unpopular there that he migrated to Rome,
 but, having incurred the suspicion of Domitian, he was banished from
@@ -31,23 +31,23 @@ Favorinus of Arelate. Of the extant orations the following are the most
 important:--_Borysthenitica_ (xxxvi.), on the advantages of monarchy,
 addressed to the inhabitants of Olbia, and containing interesting
 information on the history of the Greek colonies on the shores of the
-Black Sea; _Olympica_ (xii.), in which Pheidias is represented as
+[[Black Sea]]; _Olympica_ (xii.), in which Pheidias is represented as
 setting forth the principles which he had followed in his statue of
 Zeus, one passage being supposed by some to have suggested Lessing's
 _Laocoon_; _Rhodiaca_ (xxxi.), an attack on the Rhodians for altering
 the names on their statues, and thus converting them into memorials of
-famous men of the day (an imitation of Demosthenes' _Leptines_); _De
+famous men of the day (an imitation of Demosthenes' _[[Leptines]]_); _De
 regno_ (i.-iv.), addressed to Trajan, a eulogy of the monarchical form
 of government, under which the emperor is the representative of Zeus
 upon earth; _De Aeschylo et Sophocle et Euripide_ (lii.), a comparison
 of the treatment of the story of Philoctetes by the three great Greek
 tragedians; and _Philoctetes_ (lix.), a summary of the prologue to the
-lost play by Euripides. In his later life, Dio, who had originally
+lost play by [[Euripides]]. In his later life, Dio, who had originally
 attacked the philosophers, himself became a convert to Stoicism. To this
 period belong the essays on moral subjects, such as the denunciation of
 various cities (Tarsus, Alexandria) for their immorality. Most pleasing
 of all is the _Euboica_ (vii.), a description of the simple life of the
-herdsmen and huntsmen of Euboea as contrasted with that of the
+herdsmen and huntsmen of [[Euboea]] as contrasted with that of the
 inhabitants of the towns. _Troica_ (xi.), an attempt to prove to the
 inhabitants of Ilium that Homer was a liar and that Troy was never
 taken, is a good example of a sophistical rhetorical exercise. Amongst
@@ -61,7 +61,7 @@ part in the revival of Greek literature at the end of the 1st century of
 the Christian era.
 
   Editions: J. J. Reiske (Leipzig, 1784); A. Emperius (Brunswick, 1844);
-  L. Dindorf (Leipzig, 1857), H. von Arnim (Berlin, 1893-1896). The
+  L. Dindorf (Leipzig, 1857), H. von [[Arnim]] (Berlin, 1893-1896). The
   ancient authorities for his life are Philostratus, _Vit. Soph._ i. 7;
   Photius, _Bibliotheca_, cod. 209; Suidas, s.v.; Synesius, [Greek:
   Diôn]. On Dio generally see H. von Arnim, _Leben und Werke des Dion

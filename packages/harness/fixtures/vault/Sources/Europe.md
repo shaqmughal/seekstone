@@ -5,17 +5,17 @@ the globe which are usually distinguished by the conventional name of
 continents.
 
 
-1. GEOGRAPHY AND STATISTICS
+1. [[Geography|GEOGRAPHY]] AND STATISTICS
 
   Individuality of the continent.
 
-It has justly become a commonplace of geography to describe Europe as a
+It has justly become a [[Commonplace|commonplace]] of geography to describe Europe as a
 mere peninsula of Asia, but while it is necessary to bear this in mind
 in some aspects of the geography of the continent, more particularly in
 relation to the climate, the individuality of the continent is
 established in the clearest manner by the course of history and the
 resultant distribution of population. The earliest mention of Europe is
-in the Homeric _Hymn to Apollo_, but there Europe is not the name of a
+in the Homeric _Hymn to [[Apollo]]_, but there Europe is not the name of a
 continent, but is opposed to the Peloponnesus and the islands of the
 Aegean. The distinction between Europe and Asia is found, however, in
 Aeschylus in the 5th century B.C., but there seems to be little doubt
@@ -26,7 +26,7 @@ setting sun," is frequent, and these names were probably passed on by
 the Phoenicians to the Greeks, and gave rise to the names of Asia and
 Europe. Where the names originated the geographical distinction was
 clearly marked by the intervention of the sea, and this intervention
-marked equally clearly the distinction between Europe and Libya
+marked equally clearly the distinction between Europe and [[Libya]]
 (Africa). As the knowledge of the world extended, the difficulty, which
 still exists, of fixing the boundary between Europe and Asia where there
 is land connexion, caused uncertainty in the application of the two
@@ -51,9 +51,9 @@ with, the peoples of the east and the south.
   Boundaries.
 
 On the subject of the boundaries of Europe there is still divergence of
-opinion. While some authorities take the line of the Caucasus as the
+opinion. While some authorities take the line of the [[Caucasus]] as the
 boundary in the south-east, others take the line of the Manych
-depression, between the upper end of the Sea of Azov and the Caspian
+depression, between the upper end of the Sea of [[Azov]] and the Caspian
 Sea, nearly parallel to the Caucasus. Various limits are assigned to the
 continent on the east. Officially the crest of the Caucasus and that of
 the Urals are regarded in Russia as the boundaries between Europe and
@@ -67,7 +67,7 @@ of the Urals. The Manych depression, marking the lowest line of this
 area to the north of the Caucasus, has been taken as the boundary of
 Europe on the south-east by Wagner in his edition of Guthe's _Lehrbuch
 der Geographie_,[3] and the same limit is adopted in Kirchhoff's
-_Länderkunde des Erdteils Europa_[4] and Stanford's _Compendium of
+_Länderkunde des Erdteils [[Europa]]_[4] and Stanford's _Compendium of
 Geography and Travel_. In favour of this limit it appears that much
 weight ought to be given to the consideration put forward by Wagner,
 that from time immemorial the valleys on both sides of the Caucasus have
@@ -102,22 +102,22 @@ different limits.
 
 The following calculations in English square miles (round numbers) of
 the area of Europe, within different limits, are given in Behm and
-Wagner's _Bevölkerung der Erde_, No. viii. (Gotha, Justus Perthes,
+Wagner's _Bevölkerung der Erde_, No. viii. ([[Gotha]], Justus Perthes,
 1891), p. 53:--Europe, within the narrowest physical limits (to the
 crest of the Urals and the Manych depression, and including the Sea of
-Azov, but excluding the Caspian Steppe, Iceland, Novaya Zemlya,
+Azov, but excluding the Caspian Steppe, [[Iceland]], Novaya Zemlya,
 Spitsbergen and Bear Island) 3,570,000 sq. m. The same, with the
-addition of the Caspian Steppe up to the Ural river and the Caspian Sea,
+addition of the Caspian Steppe up to the Ural river and the [[Caspian Sea]],
 3,687,750 sq. m. The same, with the addition of the area between the
 Manych depression and the Caucasus, 3,790,500 sq. m. The same, with the
 addition of territories east of the Ural Mountains, the portion of the
 Caspian Steppe east of the Ural river as far as the Emba, and the
 southern slopes of the Caucasus, 3,988,500 sq. m. The same, with
 Iceland, Novaya Zemlya, Spitsbergen and Bear Island, 4,093,000 sq. m. In
-all these calculations the islands in the Sea of Marmora, the Canary
-Islands, Madeira, and even the Azores, are excluded, but all the Greek
-islands of the Aegean Sea and the Turkish islands of Thasos, Lemnos,
-Samothrace, Imbros, Hagiostrati or Bozbaba, and even Tenedos, are
+all these calculations the islands in the Sea of Marmora, the [[Canary]]
+Islands, Madeira, and even the [[Azores]], are excluded, but all the Greek
+islands of the Aegean Sea and the Turkish islands of Thasos, [[Lemnos]],
+Samothrace, [[Imbros]], Hagiostrati or Bozbaba, and even Tenedos, are
 included.
 
 
@@ -142,8 +142,8 @@ included.
   irregularity and development which have been one of the most potent of
   the physical factors of its history. The total length of coast-line
   was estimated by Reuschle in 1869 at 19,820 m., of which about 3600
-  were counted as belonging to the Arctic Ocean, 8390 to the Atlantic,
-  and 7830 to the Black Sea and Mediterranean. This estimate, however,
+  were counted as belonging to the [[Arctic]] Ocean, 8390 to the Atlantic,
+  and 7830 to the [[Black Sea]] and Mediterranean. This estimate, however,
   does not take into account minor indentations. Reclus's estimate,
   including the more important indentations, brings the coast-line up to
   26,700 m., and that of Strelbitsky up to 47,790 m. (smaller islands
@@ -167,7 +167,7 @@ included.
   it has undergone a number of important local changes, some at least of
   which are due to causes that are at work over very extensive areas.
   These changes may be conveniently classified under four heads: the
-  formation of deltas by the alluvium of rivers; the increase of the
+  formation of [[Delta|deltas]] by the alluvium of rivers; the increase of the
   land-surface due to upheaval; the advance of the sea by reason of its
   own erosive activity; and the advance of the sea through the
   subsidence of the land. The actual form of the coast, however, is
@@ -175,24 +175,24 @@ included.
   the causes--sea and river and subterranean forces helping or resisting
   each other. That changes in the coast-line on the shores of the Gulf
   of Bothnia have taken place within historical times through elevation
-  of the land seems now to be generally admitted. The commune of
-  Hvittisbofjärd north of Bjorneborg on the Finland side of that gulf
+  of the land seems now to be generally admitted. The [[Commune|commune]] of
+  Hvittisbofjärd north of [[Bjorneborg]] on the [[Finland]] side of that gulf
   gained about 2¼ sq. m. between 1784 and 1894, an amount greater than
   could be accounted for by the most liberal estimates of alluvial
   deposit, and the most careful investigation seems to show that on the
   Swedish coast of that gulf a rise has taken place in recent years on
   the east coast of Sweden from about 57° 20' N. increasing in amount
   towards the north up to 62° 20' N., where it reaches an average of
-  about two-fifths of an inch annually.[8] Our information is naturally
+  about two-fifths of an [[Inch|inch]] annually.[8] Our information is naturally
   most complete in regard to the Mediterranean coasts, as these were the
   best known to the first book-writing nations. There we find that all
   the great rivers have been successfully at work--more especially the
   Rhone, the Ebro and the Po. The activity of the Rhone, indeed, as a
   maker of new land, is astonishing. The tower of St Louis, erected on
   the coast in 1737, is now upwards of four miles inland; the city of
-  Arles is said to be nearly twice as far from the sea as it was in the
-  Roman period. The present St Gilles was probably a harbour when the
-  Greeks founded Marseilles, and Aigues Mortes, which took its place in
+  [[Arles]] is said to be nearly twice as far from the sea as it was in the
+  Roman period. The present St [[Gill|Gilles]] was probably a harbour when the
+  Greeks founded [[Marseilles]], and Aigues Mortes, which took its place in
   the middle ages, was no longer on the coast in the time of St Louis
   (13th century), but Narbonne continued to be a seaport till the 14th
   century. At the mouth of the Hérault, according to Fischer,[9] the
@@ -200,8 +200,8 @@ included.
   requires great labour to keep the harbour of Cette from being silted
   up. The Po is even more efficient than the Rhone, if the size of its
   basin be taken into account. Ravenna, which was at one time an insular
-  city like Venice, has now a wide stretch of downs partly covered with
-  pine forest between it and the sea. Aquileia, one of the greatest
+  city like Venice, has now a wide stretch of [[Downs|downs]] partly covered with
+  pine forest between it and the sea. [[Aquileia]], one of the greatest
   seaports of the Mediterranean in the early centuries of the Christian
   era, is now 7 m. from the coast, and Adria, which gives its name to
   the sea, is 13. The islands on which Venice is built have sunk about 3
@@ -218,8 +218,8 @@ included.
   of the Narenta has been changed into a swamp by the advance of the
   sea. A process of elevation, on the other hand, is indicated along
   nearly all the coasts of Sicily, at the southern end of Sardinia, the
-  east of Corsica, and perhaps in the neighbourhood of Nice, while the
-  west coast of Italy from the latitude of Rome to the southern shores
+  east of [[Corsica]], and perhaps in the neighbourhood of Nice, while the
+  west coast of Italy from the [[Latitude|latitude]] of Rome to the southern shores
   of the Gulf of Salerno has undergone considerable oscillations of
   level within historical times. About the time of the settlement of the
   Greeks the coast stood at least 20 ft. above the level of the present
@@ -227,31 +227,31 @@ included.
   16 ft. higher than now. A more rapid depression began in the middle
   ages, so that the sea-level rose from 18 to 20 ft. above the present
   zero, and the coast began gradually to rise again at the close of the
-  15th century.[11] Passing eastward to the Balkan peninsula, we find
+  15th century.[11] Passing eastward to the [[Balkan Peninsula|Balkan peninsula]], we find
   considerable changes on the coast-line of Greece; but as they are only
   repetitions on a smaller scale of the phenomena already described, it
-  is sufficient to indicate the Gulf of Arta and the mouth of the
+  is sufficient to indicate the Gulf of [[Arta]] and the mouth of the
   Spercheios as two of the more important localities. The latter
   especially is interesting to the historian as well as to the
   geologist, as the river has greatly altered the physical features of
   one of the world's most famous scenes--the battlefield of Thermopylae.
 
   If we proceed to the Atlantic seaboard we observe, as we might expect,
-  great modifications in the embouchures of the Garonne and the Loire,
+  great modifications in the embouchures of the [[Garonne]] and the Loire,
   but by far the most remarkable variations of sea and land have taken
-  place in the region extending from the south of Belgium in the
-  neighbourhood of the Straits of Dover to the mouth of the Elbe and the
+  place in the region extending from the south of [[Belgium]] in the
+  neighbourhood of the Straits of [[Dover]] to the mouth of the [[Elbe]] and the
   west coast of Schleswig-Holstein. Here there has been a prolonged
   struggle between man and nature, in which on the whole nature has
   hitherto had the best of the battle. While, as is well known, much
   land below sea-level in the Low Countries has been protected against
-  the sea by dikes and reclaimed, and the coast-line has been, on the
+  the sea by [[Dike|dikes]] and reclaimed, and the coast-line has been, on the
   whole, advanced between the Elbe and the Eider,[12] there has been a
   great loss of land in the interior of Holland since the beginning of
-  the Christian era, and on the balance a large loss of land north of
+  the Christian era, and on the [[Balance|balance]] a large loss of land north of
   the Eider since the first half of the 13th century.[13] In the 1st
   century A.D. the Zuider Zee appears to have been represented only by a
-  comparatively small inland lake, the dimensions of which were
+  comparatively small inland lake, the [[Dimension|dimensions]] of which were
   increased by different inroads of the sea, the last and greatest of
   which occurred in 1395. Among the local changes of European
   significance within this area may be mentioned the silting up towards
@@ -268,17 +268,17 @@ included.
   well-known villages are occupied by the sea. Towards the east the
   great rivers are successfully working in the opposite direction. In
   the Gulf of Danzig the alluvial deposits of the Vistula cover an area
-  of 615 sq. m.; in the 13th century the knights of Marienburg enclosed
+  of 615 sq. m.; in the 13th century the [[Knight|knights]] of [[Marienburg]] enclosed
   with dikes about 350 sq. m.; and an area of about 70 sq. m. was added
-  in the course of the 14th. The Memel is silting up the Kurisches Haff,
-  which, like the Frisches Haff, is separated from the open sea by a
-  line of dunes comparable with those of the Landes in France. The
+  in the course of the 14th. The Memel is silting up the [[Kurisches Haff]],
+  which, like the [[Frisches Haff]], is separated from the open sea by a
+  line of [[Dunes|dunes]] comparable with those of the [[Landes]] in France. The
   so-called strand or coast-lines at various altitudes round the
   Scandinavian peninsula, though belonging for the most part to glacial
   times, speak also of relative changes of level in the post-glacial
   period.
 
-  [Illustration: Map of Europe.]
+  [Illustration: [[Map]] of Europe.]
 
 
     Volcanoes and earthquakes.
@@ -289,14 +289,14 @@ included.
   which we usually ascribe to volcanic agency. Besides the great
   outlying "hearth" of Iceland, there are four centres of volcanic
   activity in Europe--all of them, however, situated in the
-  Mediterranean. Vesuvius on the western coast of Italy, Etna in the
+  Mediterranean. Vesuvius on the western coast of Italy, [[Etna]] in the
   island of Sicily, and Stromboli in the Lipari group, have been
   familiarly known from the earliest historic times; but the fourth has
   only attracted particular attention since the 18th century. It lies in
   the Archipelago, on the southern edge of the Cyclades, near the little
   group of islets called Santorin. The region was evidently highly
   volcanic at an earlier period, for Milo, one of the nearest of the
-  islands, is simply a ruined crater still presenting smoking solfataras
+  islands, is simply a ruined [[Crater|crater]] still presenting smoking solfataras
   and other traces of former activity. The devastations produced by the
   eruptions of the European volcanoes are usually confined within very
   narrow limits; and it is only at long intervals that any part of the
@@ -304,13 +304,13 @@ included.
   of Europe, however, for which there are no recorded earthquakes is
   central and northern Russia; and the Alps and Carpathians, especially
   the intra-Carpathian area of depression, Greece, Italy, especially
-  Calabria and the adjoining part of Sicily, the Sierra Nevada and the
-  Pyrenees, the Lisbon district and the rift valley of the upper Rhine
-  (between the Vosges and the Black Forest) are all regions specially
+  [[Calabria]] and the adjoining part of Sicily, the Sierra Nevada and the
+  Pyrenees, the [[Lisbon]] district and the rift valley of the upper Rhine
+  (between the Vosges and the [[Black Forest]]) are all regions specially
   liable to earthquake shocks and occasionally to shocks of considerable
   intensity. One well-marked seismic line extends along the south side
-  of the Alps from Lake Garda by Udine and Görz to Fiume, and another
-  forms a curve convex towards the south-east passing first through
+  of the Alps from Lake [[Garda]] by Udine and Görz to Fiume, and another
+  forms a curve [[Convex|convex]] towards the south-east passing first through
   Calabria, then through the north-east of Sicily to the south of the
   Peloritan Mountains.[14] Of all European earthquakes in modern times,
   the most destructive are that of Lisbon in 1755, and that of Calabria
@@ -328,13 +328,13 @@ included.
   and Etna, about 11,000 ft.; (3) the Apennines, the Corsican Mountains,
   the Carpathians, the Balkans, and the Despoto Dagh, from 8000 to 9000;
   (4) the Guadarrama, the Scandinavian Alps, the Dinaric Alps, the Greek
-  Mountains, and the Cevennes, between 6000 and 8000; (5) the mountains
-  of Auvergne, the Jura, the Riesengebirge, the mountains of Sardinia,
-  Majorca, Minorca, and the Crimea, the Black Forest, the Vosges, and
+  Mountains, and the [[Cevennes]], between 6000 and 8000; (5) the mountains
+  of Auvergne, the [[Jura]], the Riesengebirge, the mountains of Sardinia,
+  Majorca, Minorca, and the [[Crimea]], the Black Forest, the Vosges, and
   the Scottish Highlands, from 4000 to 6000.
 
   The following estimates are based on those contained in the fifth
-  edition, by Dr Hermann Wagner, of Guthe's _Lehrbuch der Geographie_.
+  edition, by Dr [[Hermann]] Wagner, of Guthe's _Lehrbuch der Geographie_.
   In the original the figures are given in German sq. m. and in sq.
   kilometres in round numbers, and the equivalents here given in English
   sq. m. are similarly treated:--
@@ -356,9 +356,9 @@ included.
 
   Several estimates have been made of the average elevation of the
   continent, but it is enough to give here the main results. In the
-  following list, where a conversion from metres into feet has been
-  necessary, the nearest multiple of 5 ft. has been given:--Humboldt,
-  675 ft.; Leipoldt,[15] 975 ft.; De Lapparent,[16] 960 ft.; Murray,[17]
+  following list, where a [[Conversion|conversion]] from metres into feet has been
+  necessary, the nearest multiple of 5 ft. has been given:--[[Humboldt]],
+  675 ft.; Leipoldt,[15] 975 ft.; De [[Lapparent]],[16] 960 ft.; Murray,[17]
   939 ft.; Supan,[18] 950 ft.; von Tillo,[19] 1040 ft.; Heiderich,[20]
   1230 ft.; Penck,[21] 1085 ft. The exceptionally high estimate of
   Heiderich is due to the fact that by him Transcaucasia and the islands
@@ -388,7 +388,7 @@ included.
   third also refers, and detailed consideration of these points in that
   relation will be reserved for that heading. Here, however, it may be
   noted that in Europe the distribution of the natural resources for the
-  maintenance of the inhabitants is such that, if we leave out of
+  [[Maintenance|maintenance]] of the inhabitants is such that, if we leave out of
   account Russia, which is almost entirely outside of the series of
   highlands running east and west, the population north of the mountains
   is roughly about 50% greater than that south of the mountains, whereas
@@ -405,13 +405,13 @@ included.
     | Volga              |   1977[22] |  2107[23]  |  563,300    |
     | Danube             |   1644     |    ..      |  315,435    |
     | Ural               |   1446     |  1477[23]  |   96,350    |
-    | Dnieper (Dnyepr)   |   1064     |  1328[23]  |  203,460    |
-    | Kama               |    984     |  1115[23]  |  202,615    |
+    | [[Dnieper]] (Dnyepr)   |   1064     |  1328[23]  |  203,460    |
+    | [[Kama]]               |    984     |  1115[23]  |  202,615    |
     | Don (Russia)       |    980     |  1123[23]  |  166,125    |
     | Pechora            |    915     |  1024[23]  |  127,225    |
     | Rhine              |    709     |    ..      |   63,265    |
     | Oka                |    706     |   914[23]  |   93,205    |
-    | Dniester (Dnyestr) |    646     |   835[23]  |   29,675    |
+    | [[Dniester]] (Dnyestr) |    646     |   835[23]  |   29,675    |
     | Elbe               |    612     |    ..      |   55,340    |
     | Vistula            |    596     |   646[23]  |   73,905    |
     | Vyatka             |    596     |   680[23]  |   50,555    |
@@ -422,7 +422,7 @@ included.
     | Meuse              |    530     |    ..      |   12,740    |
     | Mezen              |    496     |   507[23]  |   30,410    |
     | Donets             |    487     |   613[23]  |   37,890    |
-    | Douro              |    485     |    ..      |   36,705    |
+    | [[Douro]]              |    485     |    ..      |   36,705    |
     | Düna (S. Dvina)    |    470     |   576[23]  |   32,975    |
     | Ebro               |    470     |    ..      |   38,580[24]|
     | Rhone              |    447     |    ..      |   38,180    |
@@ -436,7 +436,7 @@ included.
     | Khoper             |    387     |   563[23]  |   23,120    |
     | Maros              |    390     |    ..      |   16,975    |
     | Pripet             |    378     |   404[23]  |   46,805    |
-    | Guadalquivir       |    374     |    ..      |   21,580[24]|
+    | [[Guadalquivir]]       |    374     |    ..      |   21,580[24]|
     | Pruth (Prut[)u]    |    368     |   503[23]  |   10,330    |
     | Northern Dvina     |    358     |   447[23]  |  141,075    |
     | Weser-Werra        |    355     |    ..      |   19,925    |
@@ -463,7 +463,7 @@ included.
     | Morava, Servian    |    235     |    ..      |   15,715    |
     | Klar               |    224     |    ..      |    4,520    |
     | Voronezh           |    218     |   305[23]  |    7,760    |
-    | Berezina           |    218     |   285[23]  |    9,295    |
+    | [[Berezina]]           |    218     |   285[23]  |    9,295    |
     | Saale              |    215     |    ..      |    8,970    |
     | Onega              |    212     |   245[23]  |   22,910    |
     | Vág (Waag)         |    212     |    ..      |    6,245    |
@@ -490,7 +490,7 @@ included.
   the Iberian peninsula from the adjoining country more extensively than
   any other chain in the continent. Between the foot-hills of the
   Pyrenees, however, and those of the central plateau of France the
-  ground sinks in the Passage of Naurouse or Gap of Carcassonne to a
+  ground sinks in the Passage of Naurouse or [[Gap]] of [[Carcassonne]] to a
   well-marked gap establishing easy communication between the valley of
   the Garonne and the lower part of that of the Rhone. The highlands in
   the north spread northwards and then north-eastwards till they join
@@ -506,13 +506,13 @@ included.
   France from both the Alps and the Jura, while between these last two
   systems there lies the wedge of the Swiss midlands contracting
   south-westwards to a narrow but important gap at the outlet of the
-  Lake of Geneva. Between the Alps and the mountains of the Italian and
+  Lake of [[Geneva]]. Between the Alps and the mountains of the Italian and
   Balkan peninsulas the orographical lines of demarcation are less
   distinct, but on the north the valley of the Danube mostly forms a
   wide separation between the Alps and the mountains of the Balkan
   peninsula on the south and the highlands of Bohemia and Moravia, the
   Carpathians and the Transylvanian Alps on the north. The valleys of
-  the Eger and the Elbe form distinct breaks in the environment of
+  the [[Eger]] and the Elbe form distinct breaks in the environment of
   Bohemia, and the Sudetes on the north-east of Bohemia and Moravia are
   even more clearly divided from the Carpathians by the valley of the
   upper Oder, the Moravian Gate, as it is called, which forms the
@@ -546,11 +546,11 @@ included.
   a higher mean temperature than the air in all months of the year.
 
   In various parts of Europe, more particularly in calcareous regions,
-  such as the Jura, the Causses in the south-east of France, and the
-  Karst in the north-west of the Balkan peninsula, there are numerous
+  such as the Jura, the [[Causses]] in the south-east of France, and the
+  [[Karst]] in the north-west of the Balkan peninsula, there are numerous
   subterranean or partly subterranean rivers. Several of the more
   important rivers are of very irregular flow, and some are subject to
-  really formidable floods. This is particularly the case with rivers a
+  really formidable [[Flood|floods]]. This is particularly the case with rivers a
   large part of whose basin is made up of crystalline or other
   impervious rocks with steep slopes, like those of the Loire in France
   and the Ebro in Spain. The Danube and its tributaries, the great
@@ -565,7 +565,7 @@ included.
     |                                |  Sea.  |         |  Depth.  | Depth.|of Cub. Ft.|
     |--------------------------------+--------+---------+----------+-------+-----------+                              |
     |                                |   Ft.  | Sq. m.  |    Ft.   |  Ft.  |           |
-    | Ladoga, Russia                 |    15  |  7004   |    730   |  ..   |    ..     |
+    | [[Ladoga]], Russia                 |    15  |  7004   |    730   |  ..   |    ..     |
     | Onega,    "                    |   115  |  3765   |About 1200|  ..   |    ..     |
     | Vener, Sweden                  |   145  |  2149   |    280   |  ..   |    ..     |
     | Chudskoye or Peipus, Russia    |   100  | 1357[28]|     90   |  ..   |    ..     |
@@ -574,7 +574,7 @@ included.
     | Päjäne,  "                     |   255  |   608   |    ..    |  ..   |    ..     |
     | Enare,   "                     |   490  |   549   |    ..    |  ..   |    ..     |
     | Segozero,"                     |   481  |   140   |    ..    |  ..   |    ..     |
-    | Mälar, Sweden                  |   1.6  |   449   |    170   |  ..   |    ..     |
+    | Mä[[Lar|lar]], Sweden                  |   1.6  |   449   |    170   |  ..   |    ..     |
     | Byelo-Ozero, Russia            |   400  |   434   |     35   |  ..   |    ..     |
     | Pielis, Russia                 |   305  |   422   |    ..    |  ..   |    ..     |
     | Topozero, Russia               |   ..   |   411   |    ..    |  ..   |    ..     |
@@ -582,7 +582,7 @@ included.
     | Ilmen,      "                  |   107  |   358   |    ..    |  ..   |    ..     |
     | Vigozero,   "                  |   ..   |   332   |    ..    |  ..   |    ..     |
     | Imandra,    "                  |   ..   |   329   |    ..    |  ..   |    ..     |
-    | Balaton, Hungary               |   350  |   266   |     13   |  ..   |    ..     |
+    | [[Balaton]], Hungary               |   350  |   266   |     13   |  ..   |    ..     |
     | Geneva, France and Switzerland |  1220  |   225   |   1015   |  500  | 3,140,000 |
     | Kovdozero, Russia              |   ..   |   225   |    ..    |  ..   |    ..     |
     | Constance, Germany and         |        |         |          |       |           |
@@ -603,8 +603,8 @@ included.
     | Neuchâtel, Switzerland         |  1415  |    85   |    500   |  210  |   500,000 |
     | Ylikitkakärvi, Russia          |   680  |    85   |     30   |  ..   |    ..     |
     | Maggiore, Italy and Switzerland|   645  |    82   |   1220   |  575  | 1,316,000 |
-    | Corrib, Ireland                |    30  |    71   |    152   |  ..   |    ..     |
-    | Como, Italy                    |   655  |    56   |   1360   |  ..   |    ..     |
+    | [[Corrib]], Ireland                |    30  |    71   |    152   |  ..   |    ..     |
+    | [[Como]], Italy                    |   655  |    56   |   1360   |  ..   |    ..     |
     +--------------------------------+--------+---------+----------+-------+-----------+
 
 
@@ -619,7 +619,7 @@ included.
   comprising only the larger lakes, is mainly based on this list, where
   the original authorities are mentioned. The figures entered in the
   table not taken from this list are after Strelbitsky, the _Géog.
-  Universelle_ of V. de St Martin, or, in the case of Swedish lakes,
+  Universelle_ of V. de St [[Martin]], or, in the case of Swedish lakes,
   from the official handbook of Sweden.[29]
 
   The Alpine lakes break up into a southern and northern
@@ -639,8 +639,8 @@ included.
   A few of the number are very shallow. The Neusiedler See, for example
   (the Peiso Lacus of the Latins and Fertö-tava of the Hungarians),
   completely dried up in 1693, 1738 and 1864, and left its bed covered
-  for the most part with a deposit of salt.[30] Lakes Copais in Boeotia
-  and Fucino Celano in Italy have been entirely turned into dry land.
+  for the most part with a deposit of salt.[30] Lakes Copais in [[Boeotia]]
+  and [[Fucino]] Celano in Italy have been entirely turned into dry land.
   The progress of agriculture has greatly diminished the extent of marsh
   land in Europe. The Minsk marshes in Russia form the largest area of
   this character still left, and on these large encroachments are
@@ -678,11 +678,11 @@ included.
   change took place, the outer crust would be left as a hollow sphere
   without any internal support. But the materials of which it is
   composed are not strong enough to bear its enormous weight, and, like
-  an arch which is too weak in its abutments, it collapses upon the
+  an [[Arch|arch]] which is too weak in its abutments, it collapses upon the
   interior core. Where the crust is rigid it fractures, as an ordinary
   arch would fracture; and some portions fall inward, while other parts
   may even be wedged a little outward. Where, on the other hand, the
-  crust is made of softer rock, it crumples and folds, and a mountain
+  crust is made of softer rock, it crumples and [[Fold|folds]], and a mountain
   chain is produced. Such a mountain chain, for want of a better term,
   is called a folded mountain chain. The folding is most intense where a
   flexible portion of the crust lies next to a more rigid part. Where
@@ -692,17 +692,17 @@ included.
   the European area.
 
   The oldest mountain chain lay in the extreme north-west of Europe, and
-  its relics are seen in the outer Hebrides, the Lofoten Islands and the
+  its relics are seen in the outer [[Hebrides]], the Lofoten Islands and the
   north of Norway. The rocks of this ancient chain have since been
-  converted into gneiss, and they were folded and denuded before the
+  converted into [[Gneiss|gneiss]], and they were folded and denuded before the
   deposition of the oldest known fossiliferous sediments. The mountain
   system must therefore have been formed in Pre-Cambrian times, and it
-  has been called by Marcel Bertrand the Huronian chain. It is probable
+  has been called by [[Marcel]] [[Bertrand]] the Huronian chain. It is probable
   that a great land-mass lay towards the north-west; but in the sea
   which certainly existed south-east of the chain, the Cambrian,
   Ordovician and Silurian beds were deposited. In Russia and South
   Sweden these beds still lie flat and undisturbed; but in Norway,
-  Scotland, the Lake District, North Wales and the north of Ireland they
+  Scotland, the [[Lake District]], North Wales and the north of Ireland they
   were crushed against the north-western continent and were not only
   intensely folded but were pushed forward over the old rocks of the
   Huronian chain. Thus was formed the Caledonian mountain system of Ed.
@@ -711,7 +711,7 @@ included.
 
   Then followed, in northern Europe, a continental period. By the
   elevation of the Caledonian chain the northern land-mass had grown
-  southward and now extended as far as the Bristol Channel. Upon it the
+  southward and now extended as far as the [[Bristol]] Channel. Upon it the
   Old Red Sandstone was laid down in inland seas or lakes, while farther
   south contemporaneous deposits were formed in the open sea.
 
@@ -750,7 +750,7 @@ included.
   southern Europe was covered by the open sea, and here, accordingly,
   the contemporaneous deposits were marine.
 
-  The Jurassic and Cretaceous periods were free from any violent folding
+  The [[Jurassic]] and Cretaceous periods were free from any violent folding
   or mountain building, and the sea again spread over a large part of
   the northern continent. There were indeed several oscillations, but in
   general the greater part of southern and central Europe lay beneath
@@ -762,7 +762,7 @@ included.
   Jurassic and Lower Cretaceous were laid down in England and Germany,
   the purely marine Tithonian formation, with its peculiar fauna, was
   deposited in the south; and while the Chalk was formed in northern
-  Europe, the Hippurite limestone was laid down in the south.
+  Europe, the Hippurite [[Limestone|limestone]] was laid down in the south.
 
   The Tertiary period saw fundamental changes in the geography of
   Europe. The formation of the great mountain ranges of the south, the
@@ -774,7 +774,7 @@ included.
   Miocene period some of these arms were completely cut off from the
   ocean and large deposits of salt were formed, as at Wieliczka. At a
   later period south-eastern Europe was covered by a series of extensive
-  lagoons, and the waters of these lagoons gradually became brackish,
+  [[Lagoon|lagoons]], and the waters of these lagoons gradually became brackish,
   and then fresh, before the area was finally converted into dry land.
   Great changes also took place in the Mediterranean region. The Black
   Sea, the Aegean, the Adriatic and the Tyrrhenian Sea were all formed
@@ -784,7 +784,7 @@ included.
 
   Exactly what was happening in northern Europe during these great
   changes in the south it is not easy to say. The basaltic flows of the
-  north of Ireland, the western islands of Scotland, the Faeroe Islands
+  north of Ireland, the western islands of Scotland, the [[Faeroe]] Islands
   and Iceland are mere fragments of former extensive plateaus. No sign
   of marine Tertiary deposits of earlier age than Pliocene has been
   found in this northern part of Europe, and on the other hand plant
@@ -802,7 +802,7 @@ included.
   melting and disappearance of the ice-sheet, the topography of Europe
   assumed nearly its present form, and man came upon the scene. Minor
   changes, such as the separation of Great Britain from the continent,
-  may have occurred at a later date; but since the Glacial period there
+  may have occurred at a later date; but since the [[Glacial Period|Glacial period]] there
   have, apparently, been no fundamental modifications in the
   configuration of Europe.
 
@@ -828,20 +828,20 @@ included.
   violence; the mistral of southern France; the etesian winds of the
   Mediterranean; and the sirocco, which proves so destructive to the
   southern vegetation. Though it is only at comparatively rare intervals
-  that the winds attain the development of a hurricane, the destruction
+  that the winds attain the development of a [[Hurricane|hurricane]], the destruction
   of life and property which they occasion, both by sea and land, is in
   the aggregate of no small moment. About six or seven storms from the
   west pass over the continent every winter, usually appearing later in
   the southern districts, such as Switzerland or the Adriatic, than in
-  the northern districts, as Scotland and Denmark.
+  the northern districts, as Scotland and [[Denmark]].
 
 
     Climate.
 
   The great determining factors of the climate of Europe are these. The
-  northern borders of the continent are within the Arctic Circle; the
+  northern [[Borders|borders]] of the continent are within the Arctic Circle; the
   most southern points of the mainland are 13½° or more north of the
-  Tropic of Cancer; to the east extends for about 3000 m. the continuous
+  Tropic of [[Cancer]]; to the east extends for about 3000 m. the continuous
   land surface of Asia; to the west lie the waters of the north
   Atlantic, which penetrate in great inland seas to the north and south
   of the great European peninsula; the prevailing winds in western
@@ -858,9 +858,9 @@ included.
   separate continent. In estimating the value of those factors one must
   bear in mind, first, that the waters of the north Atlantic are
   exceptionally warm, especially on the European side of the ocean. The
-  Gulf Stream carries a large body of warm water northwards to near the
+  [[Gulf Stream]] carries a large body of warm water northwards to near the
   parallel of 40° N., and to the north of the Gulf Stream prevailing
-  south-westerly winds, especially during the winter months, drift
+  south-westerly winds, especially during the winter months, [[Drift|drift]]
   onwards to the western and northern shores of Europe, even as far east
   as Spitsbergen, large bodies of water of an exceptionally high
   temperature. Secondly, one must bear in mind that these relatively
@@ -889,7 +889,7 @@ included.
   continent, which has temperatures as favourable to agriculture as the
   corresponding latitudes of eastern Asia or eastern North America, is
   without the copious rains which make those temperatures so valuable,
-  and hence forms part of the desert that divides the populations of
+  and hence forms part of the [[Desert|desert]] that divides the populations of
   Europe and Asia.
 
 
@@ -898,7 +898,7 @@ included.
   On the local distribution of rainfall and temperature, the physical
   configuration of the continent has very marked effects. Here as
   elsewhere there is a striking difference both in the amount of
-  rainfall and the temperature on the weather and lee sides of mountains
+  rainfall and the temperature on the weather and [[Lee|lee]] sides of mountains
   and even low hills. But with reference to this it should not be
   forgotten that water-vapour, heat and cold may be carried farther into
   the land by winds blowing in a different direction from that of those
@@ -922,7 +922,7 @@ included.
   precipitation from west to east, and that the heaviest precipitation
   is indicated on the west or south and most exposed sides of mountains.
   The areas of scantiest rainfall lie to the north and north-west of the
-  Caspian Sea and in the interior of the Kola Peninsula, north-west of
+  Caspian Sea and in the interior of the [[Kola]] Peninsula, north-west of
   the White Sea. The Stye in the English Lake District, some 2 m. from
   and 650 ft. higher than Seathwaite, has long been reputed to be the
   station recording the heaviest rainfall in Europe, but it has been
@@ -951,12 +951,12 @@ included.
   Europe has received attention from Drs A.J. Herbertson, Köppen and
   Supan, and Mr A. Angot. The rainfall of each month in Europe as in the
   other continents is shown by Dr A.J. Herbertson in _The Distribution
-  of Rainfall over the Land_.[35] On plate 19 of the _Atlas of
+  of Rainfall over the Land_.[35] On plate 19 of the _[[Atlas]] of
   Meteorology_, by J.G. Bartholomew and A.J. Herbertson, Dr Köppen has
   furnished maps showing the months of maximum rainfall and the seasons
   of maximum and minimum rain frequency in different parts of Europe. Mr
   A. Angot's work on the subject is published in two papers in the
-  _Annales du bureau central météor. de France_, a series of memoirs in
+  _Annales du [[Bureau|bureau]] central météor. de France_, a series of memoirs in
   which the rainfall observations of Europe for the thirty years
   1861-1890 are recorded and discussed. The first paper (1893, B, pp.
   157-194) deals with the Iberian Peninsula, the second (1895, B, pp.
@@ -1024,7 +1024,7 @@ included.
   or below the freezing point for as much as one month, and in the
   Mediterranean region only the higher parts of the mountains besides
   the northern part of the Balkan Peninsula are characterized by such
-  prolonged frosts. On the other hand, on the parallel of 50° N. the
+  prolonged [[Frost|frosts]]. On the other hand, on the parallel of 50° N. the
   duration of such low temperatures increases at first rapidly,
   afterwards more gradually, from west to east. The second map
   illustrating the duration of average daily temperatures between 50°
@@ -1089,7 +1089,7 @@ included.
   Rumania, in Italy and a large part of the south-west of France, and
   from 40% to 60% in the south-east of England. Spelt is cultivated in
   the south-west of Germany, Belgium and northern Switzerland, on the
-  middle Volga and in Dalmatia and Servia. Rye covers more than 50% of
+  middle Volga and in [[Dalmatia]] and Servia. Rye covers more than 50% of
   the grain area in the east of Holland and Belgium, in the north-west
   of Germany, in central and eastern Germany and in middle Russia. Oats
   are more cultivated than all varieties of wheat in Ireland, in the
@@ -1104,8 +1104,8 @@ included.
   in the south-east of Europe. The kind of millet known as guinea-corn
   or durra (_Sorghum vulgare_ Pers.), so extensively cultivated in
   Africa and India, is grown to a small extent on the east side and in
-  the interior of Istria. Buckwheat is cultivated in the west and east
-  of the continent--in the west from the Pyrenees to Jutland, in the
+  the interior of [[Istria]]. [[Buckwheat]] is cultivated in the west and east
+  of the continent--in the west from the Pyrenees to [[Jutland]], in the
   east throughout southern and middle Russia. The potato is very largely
   cultivated in western, northern and central Europe, but has made
   comparatively little progress in Russia. The cultivation of lentils is
@@ -1114,7 +1114,7 @@ included.
   rapidity since 1840 in the dry sandy regions of eastern Germany, where
   lupines have proved as well adapted for such soils as the more widely
   cultivated sainfoin has done for dry chalky and other limestone soils.
-  Sugar beet is most largely cultivated in the extreme north of France
+  Sugar [[Beet|beet]] is most largely cultivated in the extreme north of France
   and the adjoining parts of Belgium and in central Germany, to a less
   but still considerable extent in south-eastern Germany, northern
   Bohemia and the south-west of Russia. Flax, like other industrial
@@ -1131,7 +1131,7 @@ included.
   yet in France.
 
   The vine can be grown without protection in southern Scandinavia, and
-  has been known to ripen its grapes in the open air at Christiansund in
+  has been known to ripen its grapes in the open air at [[Christiansund]] in
   63° 7'; but its cultivation is of no importance north of 47½° on the
   Atlantic coast, 50½° on the Rhine, and from 50° to 52° in eastern
   Germany, the limit falling rapidly southwards to the east of 17° E.
@@ -1148,7 +1148,7 @@ included.
   Fyen (Funen).
 
   Hop-growing is hardly known in the south, but forms an important
-  industry in England, Austria, Germany and Belgium. Among the exotics
+  industry in England, Austria, Germany and Belgium. Among the [[Exotic|exotics]]
   exclusively cultivated in the south are the sugar-cane, the cotton
   plant, and rice. The first, which is found in Spain and Sicily, is of
   little practical moment; the second holds a secondary position in
@@ -1178,14 +1178,14 @@ included.
   countries of the continent at three periods is shown in the following
   tables.
 
-    _Average Production of Wheat in Millions of Bushels._
+    _Average Production of Wheat in Millions of [[Bushel|Bushels]]._
 
     +---------------------+---------------+---------------+---------------+
     |                     | 1872-1876.[42]| 1881-1890.[43]| 1894-1903.[44]|
     +---------------------+---------------+---------------+---------------+
     | Austria-Hungary[45] |      137      |      161      |      191      |
     | Belgium             |       22      |       18      |       15      |
-    | Bulgaria[46]        |       ..      |       40      |       36      |
+    | [[Bulgaria]][46]        |       ..      |       40      |       36      |
     | Denmark             |        4.7    |        5      |        3.6    |
     | France              |      277      |      309      |      335      |
     | Germany             |      101      |       93      |      127      |
@@ -1260,11 +1260,11 @@ included.
 
     Forests.
 
-  When the Aryan peoples began their immigration into Europe a large
+  When the [[Aryan]] peoples began their immigration into Europe a large
   part of the surface must have been covered with primeval forest; for
   even after long centuries of human occupation the Roman conquerors
   found vast regions where the axe had made no lasting impression. The
-  account given by Julius Caesar of the Silva Hercynia is well known: it
+  account given by [[Julius]] [[Caesar]] of the Silva Hercynia is well known: it
   extended, he tells us, for sixty days' journey from Helvetia eastward,
   and it probably included what are now called the Schwarzwald, the
   Odenwald, the Spessart, the Rhön, the Thüringerwald, the Harz, the
@@ -1276,12 +1276,12 @@ included.
   most reckless, have been obliged to take systematic measures to
   control the exploitation and secure the replantation of exhausted
   areas. To this they have been constrained not only by lack of timber
-  and fuel, but also by the prejudicial effects exerted on the climate
+  and [[Fuel|fuel]], but also by the prejudicial effects exerted on the climate
   and the irrigation of the country by the denudation of the high
   grounds. But even now, on the whole, Europe is well wooded, and two or
   three countries find an extensive source of wealth in the export of
   timber and other forest productions, such as turpentine, tar,
-  charcoal, bark, bast and potash.
+  [[Charcoal|charcoal]], bark, bast and potash.
 
     _Acreage under Wheat._[51]
 
@@ -1296,7 +1296,7 @@ included.
     |   "      1901-1903 |   1.7  |  16.3 | 12.0     |   4.4  |   2.6  |   9.0  |   42.8     |   3.9  |
     +--------------------+--------+-------+----------+--------+--------+--------+------------+--------+
 
-  The following estimates of the forest areas of European countries are
+  The following estimates of the forest areas of [[European Countries|European countries]] are
   given in G.S. Boulger's _Wood_:--
 
     +-----------------+-----------+--------------+
@@ -1328,10 +1328,10 @@ included.
   countries, and in several, as Russia, France, Hungary and Spain, the
   state gives it exceptional support. Almost every district of the
   continent has a breed of its own: Russia reckons those of the
-  Bashkirs, the Kalmucks, the Don-Cossacks, the Esthonians and the
-  Finlanders as among its best; France sets store by those of Flanders,
-  Picardy, Normandy, Limousin and Auvergne; Germany by those of
-  Hanover, Oldenburg and Mecklenburg, which indeed rank among the most
+  [[Bashkirs]], the [[Kalmuck|Kalmucks]], the Don-Cossacks, the Esthonians and the
+  Finlanders as among its best; France sets store by those of [[Flanders]],
+  Picardy, Normandy, [[Limousin]] and Auvergne; Germany by those of
+  [[Hanover]], Oldenburg and [[Mecklenburg]], which indeed rank among the most
   powerful in the world; and Great Britain by those of Suffolk and
   Clydesdale. The English racers are famous throughout the world, and
   Iceland and the Shetland Islands are well known for their hardy breed
@@ -1340,18 +1340,18 @@ included.
   Greece. The camel is not popularly considered a European animal; but
   it is reared in Russia in the provinces of Orenburg, Astrakhan and
   Taurid, in Turkey on the Lower Danube, and in Spain at Madrid and
-  Cadiz; and it has even been introduced into Tuscany. A much more
-  important beast of burden in eastern and southern Europe is the ox:
+  [[Cadiz]]; and it has even been introduced into Tuscany. A much more
+  important beast of [[Burden|burden]] in eastern and southern Europe is the ox:
   the long lines of slow-moving wains in Rumania, for example, are not
   unlike what one would expect in Cape Colony. In western Europe it is
   mainly used for the plough or fattened for its flesh. It is estimated
   that there are about 100 distinct local varieties or breeds in Europe,
   and within the last hundred years an enormous advance has been made in
   the development and specialization of the finer types. The cows of
-  Switzerland and of Guernsey may be taken as the two extremes in point
-  of size, and the "Durhams" and "Devonshires" of England as examples of
+  Switzerland and of [[Guernsey]] may be taken as the two extremes in point
+  of size, and the "Durhams" and "[[Devonshire|Devonshires]]" of England as examples of
   the results of human supervision and control. The Dutch breed ranks
-  very high in the production of milk. The buffalo is frequent in the
+  very high in the production of milk. The [[Buffalo|buffalo]] is frequent in the
   south of Europe, more especially in the countries on the Lower Danube
   and in southern Italy. Sheep are of immense economic value to most
   European countries, above all to Spain and Portugal, Great Britain,
@@ -1363,12 +1363,12 @@ included.
   and Germany. The pig is distributed throughout the whole continent,
   but in no district does it take so high a place as in Servia. In the
   rearing and management of poultry France is the first country in
-  Europe, and has consequently a large surplus of both fowls and eggs.
+  Europe, and has consequently a large surplus of both fowls and [[Egg|eggs]].
   In Pomerania, Brandenburg, West Prussia, Mecklenburg and Württemberg
   the breeding of geese has become a great source of wealth, and the
   town of Strassburg is famous all the world over for its _pâtés de foie
   gras_. Under this heading may also be mentioned the domesticated
-  insects, the silkworm, the bee and the cantharis. The silkworm is most
+  [[Insect|insects]], the silkworm, the [[Bee|bee]] and the cantharis. The silkworm is most
   extensively reared in northern Italy, but also in the southern parts
   of the Rhone valley in France, and to a smaller extent in several
   other Mediterranean and southern countries. Bee-keeping is widespread.
@@ -1390,14 +1390,14 @@ included.
   this head has been the German Customs' Union, the United Kingdom,
   Spain, France, Russia, Sweden, Austria-Hungary and Belgium. By far the
   most important iron-ore producing district of Europe is that which
-  lies on different slopes of the hills in which German Lorraine, the
+  lies on different slopes of the hills in which German [[Lorraine]], the
   grand duchy of Luxemburg and France meet, the district producing all
   the ore of Luxemburg and the principal supplies of Germany and France.
   Another important producing district is what is known as the
   Siegerland on the confines of the Prussian provinces of the Rhine and
   Westphalia. Next in importance to these are the iron-ore deposits of
-  the United Kingdom, the chief being those of the Cleveland district
-  south of the Tees, and the hematite fields of Cumberland and Furness.
+  the United Kingdom, the chief being those of the [[Cleveland]] district
+  south of the Tees, and the hematite [[Fields|fields]] of [[Cumberland]] and [[Furness]].
 
   With regard to the mineral production of Europe generally, perhaps the
   most notable fact to record is the relatively lower place taken by the
@@ -1476,7 +1476,7 @@ included.
   Platinum has hitherto been obtained nowhere in Europe except in the
   auriferous sands in the Russian government of Perm. Nickel is derived
   from Germany, Norway and Sweden; antimony from Germany and Hungary;
-  bismuth from Saxony and Bohemia. Bauxite, which is used in the
+  [[Bismuth|bismuth]] from Saxony and Bohemia. Bauxite, which is used in the
   manufacture of aluminium, is obtained from France, Styria and Ireland.
   In order of importance the chief salt-producing countries are the
   United Kingdom (in which for some years the amount produced has been
@@ -1486,10 +1486,10 @@ included.
   has for many years been producing a rapidly increasing amount of
   potash salts, of which it has almost a monopoly. Italy (chiefly
   Sicily) is by far the most important producer of sulphur. Among other
-  mineral products may be mentioned the boric acid and statuary marble
-  of Tuscany, the statuary marble of Greece, the asphalt of Switzerland,
+  mineral products may be mentioned the boric acid and statuary [[Marble|marble]]
+  of Tuscany, the statuary marble of Greece, the [[Asphalt|asphalt]] of Switzerland,
   Italy, Germany and Austria-Hungary, the slates of Wales, Scotland and
-  France, the kaolin of Germany, England and France, and the abundant
+  France, the [[Kaolin|kaolin]] of Germany, England and France, and the abundant
   glass sands of Belgium, France and Bohemia.
 
 
@@ -1510,7 +1510,7 @@ included.
   means of communication, and the methods of transport by sea and land.
   Larger ships more economically propelled have brought grain at a
   cheaper and cheaper rate from all parts of the world, and improved
-  methods of refrigeration have made fresh meat, butter and other
+  methods of refrigeration have made fresh [[Meat|meat]], [[Butter|butter]] and other
   perishable commodities even from the southern hemisphere articles of
   rapidly growing importance in European markets. Improvements in
   transport have likewise tended to cheapen British coal in many parts
@@ -1526,7 +1526,7 @@ included.
   ingot iron and steel from the phosphoric iron ores, an invention which
   gave a greatly enhanced value to the ores on the borders of Lorraine,
   Luxemburg and Alsace, as well as others both in England and on the
-  continent; (2) the invention of efficient machines for the application
+  continent; (2) the invention of efficient [[Machine|machines]] for the application
   of power by means of electricity, an invention which gave greatly
   increased importance to the water-power of mountainous countries; and
   (3) the discovery of the fact that from lignite an even higher grade
@@ -1545,7 +1545,7 @@ included.
     |                 |      | Total Horse- | Total Horse- |  Percentage  |
     |    Countries.   | Date.|power used in |   power in   | belonging to |
     |                 |      | Mechanical   |  Hydraulic   |  Hydraulic   |
-    |                 |      |  Industry.   |Installations.|Installations.|
+    |                 |      |  Industry.   |[[Installation|Installations]].|Installations.|
     +-----------------+------+--------------+--------------+--------------+
     |                 |      |  Thousands.  |  Thousands.  |   Per cent.  |
     | Germany         | 1895 |    3427      |     629      |      18      |
@@ -1635,24 +1635,24 @@ included.
   early times. This route was again much used in the middle ages, when
   Visby, on Gotland, undoubtedly selected on account of the security
   afforded by an island station, was for hundreds of years an important
-  centre of trade both in northern products (of which furs were the most
+  centre of trade both in northern products (of which [[Fur|furs]] were the most
   valuable) and those of the East (pepper and other spices, silks and
-  other costly articles). Numerous coins, Roman, Byzantine and Arabic,
+  other costly articles). Numerous [[Coin|coins]], Roman, Byzantine and Arabic,
   found not merely in Gotland itself but also at various points along
   the route indicated, testify to the long-continued importance of this
   route. In the middle ages the Oder route was also largely used whether
   reached by rounding the Carpathians or ascending the Danube, and in
-  connexion with that route the island of Bornholm long formed a focus
+  connexion with that route the island of Bornholm long formed a [[Focus|focus]]
   of commerce answering to that in Gotland farther east. The Danube
   route was also made use of farther west, and formed a large part of a
   great route connecting the East with the north-west of Europe. The
   valuable goods of the Orient could be conveyed up-stream as high as
   Ratisbon (Regensburg), and thence north-westward across Nuremberg to
-  Frankfort-on-Main, from which access was had to the Rhine gorge
-  leading on to Cologne and the ports of Dordrecht and Rotterdam, Bruges
-  and Ghent; or they could be carried still farther up-stream to Ulm,
+  [[Frankfort-On-Main|Frankfort-on-Main]], from which access was had to the Rhine gorge
+  leading on to [[Cologne]] and the ports of [[Dordrecht]] and Rotterdam, Bruges
+  and [[Ghent]]; or they could be carried still farther up-stream to Ulm,
   thence by a route winding through the north of the Black Forest to
-  Strassburg and from that point north of the Vosges to the Marne and
+  Strassburg and from that point north of the Vosges to the [[Marne]] and
   Seine.
 
   [Illustration: Map of Europe at the end of the 10th century.]
@@ -1675,7 +1675,7 @@ included.
   intercourse between central Europe and northern Italy. In their trade
   with the mouth of the Rhine the Etruscans appear to have used only the
   passes approached by the Dora Baltea, which leads equally to the
-  Little St Bernard, to the south of Mont Blanc, and so to the Isère
+  Little St [[Bernard]], to the south of Mont [[Blanc]], and so to the Isère
   valley and the Rhone, and to the Great St Bernard, to the east of Mont
   Blanc, and so directly to the Rhone valley above the Lake of Geneva,
   by which route the remainder of the Alps could be rounded on the west
@@ -1695,11 +1695,11 @@ included.
   between Venice and southern Germany, on a route leading also to
   northern Germany by way of Ratisbon and afterwards the rivers of the
   Elbe basin, and finally (from the end of the 14th century) by a canal
-  to Lübeck, which was the great distributing centre of these and other
+  to Lü[[Beck|beck]], which was the great distributing centre of these and other
   products for the Baltic. To take the most direct route to the Rhine
   valley and north-western Europe some other pass (the Seefeld or the
   Fern) in the Bavarian Alps had to be crossed and the Rhine valley
-  reached by Augsburg, and thence either by way of Ulm or Frankfort.
+  reached by [[Augsburg]], and thence either by way of Ulm or [[Frankfort]].
   From Genoa the routes in the early middle ages were by way of Milan to
   the Lake of Constance, and thence by way of Ulm if the Rhine valley
   was the goal, and by way of Augsburg if it was the Baltic. The St
@@ -1727,7 +1727,7 @@ included.
   articles on the different countries supply the necessary information
   with respect to those which have a purely national interest, but here
   mention must be made of those which have significance as belonging to
-  trans-European routes or have an international value. The importance
+  trans-European routes or have an [[International|international]] value. The importance
   of shortening the water-route between the opposite sides of the great
   European isthmus separating the Baltic and the Black Sea is brought
   into prominence by the constant revival of projects for a ship-canal
@@ -1740,7 +1740,7 @@ included.
   of the Ludwigs or Danube-Main Canal, running from the Main near
   Bamberg to Kelheim on the Danube, it has been possible to go by water
   from the mouth of the Rhine to the mouth of the Danube; but this canal
-  has in reality no trans-European significance. It cannot take barges
+  has in reality no trans-European significance. It cannot take [[Barge|barges]]
   of a greater capacity than 125 tons, is not adapted for steamers, and
   carries only a very small amount of traffic. But projects for
   connecting the Danube with northern Europe by water are still
@@ -1748,7 +1748,7 @@ included.
   connexions through Austria. On the 11th of June 1901 the Austrian diet
   passed an act prescribing the construction of a canal connecting the
   Oder with the Danube through the Morava, and another connecting the
-  Danube at Linz with the Moldau-Elbe, and the improvement of the
+  Danube at [[Linz]] with the Moldau-Elbe, and the improvement of the
   navigation on the connected waterways. The Oder-Danube canal thus
   authorized would have to cross a watershed of little more than 1000
   ft. in altitude as against 1365 ft. in the case of the Ludwigs Canal;
@@ -1758,15 +1758,15 @@ included.
   Danube-Main connexion either wholly or partly along the route of the
   present canal, and for establishing a new connexion by means of a
   canal of at least 6½ ft. in depth by way of the Neckar, the Rems and
-  the Brenz, joining the Danube at Lauingen about midway between Ulm and
+  the [[Brenz]], joining the Danube at Lauingen about midway between Ulm and
   Donauwörth. The Moldau-Elbe is itself an important international
   waterway, inasmuch as it allows of steamer traffic from Prague in
-  Bohemia to Hamburg, and by means of a connecting canal to Lübeck. But
+  Bohemia to [[Hamburg]], and by means of a connecting canal to Lübeck. But
   the most important of all international waterways in Europe is the
   Rhine, on which even sea-going steamers regularly ascend to Cologne,
   and an amount of traffic crosses the Dutch frontier three or four
   times as great as that which makes use of the Manchester ship-canal.
-  The river is also navigable to Basel in Switzerland, though above
+  The river is also navigable to [[Basel]] in Switzerland, though above
   Strassburg the river is little used, being replaced since 1834 by the
   Rhine and Rhone canal, which connects the two rivers through the Ill
   and the Saône. The Rhine is also connected with the Seine by the Marne
@@ -1796,7 +1796,7 @@ included.
   Baltic for all North Sea ports to the south of Newcastle, and affords
   the means of avoiding a rather dangerous passage round the north of
   Jutland. A minor degree of international interest belongs to the
-  ship-canal through the Isthmus of Corinth, opened on the 6th of August
+  ship-canal through the Isthmus of [[Corinth]], opened on the 6th of August
   1893.
 
 
@@ -1839,7 +1839,7 @@ included.
     --------------------+-----------+--------+--------+--------+--------+--------+--------+
       * Excluding Finland.
 
-  The chief railways of most European countries are on the same gauge as
+  The chief railways of most European countries are on the same [[Gauge|gauge]] as
   that originally adopted in Great Britain, namely, 4 ft. 8½ in. Irish
   railways are, however, on the gauge of 5 ft. 3 in. The standard gauge
   in Russia is 5 ft., that of Spain and Portugal about 5 ft. 6 in. The
@@ -1849,7 +1849,7 @@ included.
   entering every country on its frontier except Russia. It allows of
   German coal being carried without break of bulk to Paris, Milan and
   the mainland of Denmark. By means of train-ferries German trains can
-  also be conveyed to Copenhagen by way of Warnemünde and Gjedser and
+  also be conveyed to [[Copenhagen]] by way of Warnemünde and Gjedser and
   then across the channel separating Falster and Zealand; and there is a
   similar means of communication between Copenhagen and Malmö (Sweden)
   and between Lindau in Bavaria on the Lake of Constance and Romanshorn
@@ -1860,7 +1860,7 @@ included.
   Of the railway systems of the mainland of Europe as a whole the main
   features are these. There is a broad belt running from the North Sea
   eastwards between the lines marked by Amsterdam and Hanover on the
-  north, and Calais, Liége, Düsseldorf and Halle on the south, in which
+  north, and Calais, Liége, Düsseldorf and [[Halle]] on the south, in which
   important lines of railway run from west to east. About 12° E. those
   lines begin to converge on Berlin. This belt is crossed in the Rhine
   valley by a much narrower but very important belt running north and
@@ -1874,7 +1874,7 @@ included.
   Berlin in central Europe is perhaps an even more important railway
   focus. Among the chief lines radiating from it are one through Leipzig
   and Munich and connecting with the Italian railway system by the
-  Brenner route, and another through Dresden and Prague to Vienna, and
+  Brenner route, and another through [[Dresden]] and Prague to Vienna, and
   then by the Semmering pass by one route to Triest and by another to
   Venice. East of Berlin the railways of Europe begin to form wider
   meshes. Two main lines diverge towards the north-east, one by Küstrin
@@ -1883,10 +1883,10 @@ included.
   Prussian frontier and passing on to St Petersburg. From Thorn a line
   branches off by Warsaw to Moscow, the chief railway focus in eastern
   Europe. South-east from Berlin there runs another important line
-  through Breslau, Cracow and Lemberg to Odessa, skirting to a large
+  through Breslau, Cracow and [[Lemberg]] to Odessa, skirting to a large
   extent the foot-hills of the Carpathians like the ancient trade route
   from Olbia to the Baltic. Two routes on which there are services
-  organized by the International Sleeping Car Company connect London
+  organized by the International Sleeping [[Car]] Company connect London
   with Constantinople, and it is noteworthy that both of these indicate
   the importance of the physical feature which has determined the
   position of the great north-south belt of railways above mentioned,
@@ -1896,11 +1896,11 @@ included.
   valley for about 40 m. to Karlsruhe, then winds through the hilly
   country between the Black Forest proper and the Odenwald to Stuttgart,
   proceeding thence by Ulm, Augsburg and Munich to Linz and then by the
-  valley of the Danube through Vienna and Budapest to Belgrade, and
+  valley of the Danube through Vienna and [[Budapest]] to Belgrade, and
   thence by the valleys of the Morava, Nishava and Maritza to
   Constantinople. The other is that of the Ostend-Vienna express, going
   by Ostend to Brussels, and through Aix-la-Chapelle to Cologne, then up
-  the Rhine gorge southwards to Bingen and eastwards to Mainz and on to
+  the Rhine gorge southwards to Bingen and eastwards to [[Mainz]] and on to
   Frankfort (on the Main), thence south-eastwards by the route so
   celebrated in the middle ages through Nuremberg to Regensburg
   (Ratisbon), and thence down the valley of the Danube coinciding with
@@ -1916,7 +1916,7 @@ included.
   1848-1854. Its summit is in a tunnel less than 1 m. long, 2940 ft.
   above sea-level or nearly 300 ft. below the level of the pass. South
   of the Semmering, however, various other passes have to be crossed,
-  and it was not till 1857 that the railway to Triest (by Laibach) was
+  and it was not till 1857 that the railway to Triest (by [[Laibach]]) was
   completed, and not till the late seventies that the more direct route
   to Venice across the Tarvis pass in Carinthia was established. Of the
   route from Triest by Görz across the Karawanken and Tauern Alps to
@@ -2030,7 +2030,7 @@ included.
     London         3215 | Marseilles  1506
     Bremen         3502 | Genoa       1426
     Hamburg        3520 | Venice      1330
-    Stettin        3749 | Brindisi     930
+    Stettin        3749 | [[Brindisi]]     930
     St Petersburg  4300 | Odessa      1130
 
 
@@ -2052,7 +2052,7 @@ Asia, but in some part of Europe, so that we can no longer speak of any
 detachment of Aryan-speaking peoples entering Europe.
 
 The most important works, summarizing the labours of a host of
-specialists on the races of Europe, are those of Ripley and Deniker.[72]
+specialists on the races of Europe, are those of Ripley and [[Deniker]].[72]
 Founding upon a great multitude of data that have been collected with
 regard to the form of the head, face and nose, height, and colour of the
 hair and eyes, most of the leading anthropologists seem to have come to
@@ -2061,7 +2061,7 @@ intricately intermingled in Europe. As described and named by Ripley,
 these are: (1) the Teutonic, characterized by long head and face and
 narrow aquiline nose, high stature, very light hair and blue eyes; (2)
 the Alpine, characterized by round head, broad face, variable rather
-broad heavy nose, medium height and "stocky" frame, light chestnut hair
+broad heavy nose, medium height and "stocky" [[Frame|frame]], light chestnut hair
 and hazel grey eyes; and (3) the Mediterranean, characterized by long
 head and face, rather broad nose, medium stature and slender build, dark
 brown or black hair and dark eyes. The Teutonic race is entirely
@@ -2082,10 +2082,10 @@ Ripley as an intrusive Asiatic element which once advanced as a wedge
 amongst the earlier long-headed population as far as Brittany, where it
 still survives in relative purity, and even into Great Britain, though
 not Ireland, but afterwards retired and contracted its area before an
-advance of the long-headed races. Deniker, basing his classification on
+advance of the long-headed races. Deniker, basing his [[Classification|classification]] on
 essentially the same data as Ripley and others, while agreeing with them
 almost entirely with regard to the distribution of the three main traits
-(cephalic index, colour of hair and eyes, and stature) on which
+([[Cephalic Index|cephalic index]], colour of hair and eyes, and stature) on which
 anthropologists rely, yet proceeds further in the subdivision of the
 races of Europe. He recognizes six principal and four secondary races.
 The six principal races are the Nordic (answering approximately to the
@@ -2103,12 +2103,12 @@ importance of the peoples of Europe than a survey of their linguistic
 differences and affinities.[73] The following table contains the names
 of the various languages which are still spoken on the continent, as
 well as of those which, though now extinct, can be clearly traced in
-other forms. Two asterisks are employed to mark those which are
+other forms. Two [[Asterisk|asterisks]] are employed to mark those which are
 emphatically dead languages, while one indicates those which have a kind
 of artificial life in ecclesiastical or literary usage.
 
   I. INDO-EUROPEAN.
-      1. INDIC branch, represented by            Gipsy dialects.
+      1. INDIC branch, represented by            Gipsy [[Dialect|dialects]].
       2. IRANIC branch,     "      "         (a) Ossetian.
                                              (b) Armenian.
       3. HELLENIC branch,   "      "        *(a) Greek.
@@ -2132,7 +2132,7 @@ of artificial life in ecclesiastical or literary usage.
                                              (d) Welsh.
                                            **(e) Cornish.
                                              (f) Low Breton.
-      6. TEUTONIC branch, represented by   **(a) Gothic.
+      6. TEUTONIC branch, represented by   **(a) [[Gothic]].
                                          / **(b) Norse or Old Norse.
                                          |   (c) Icelandic and Faeroese.
              _Scandinavian_             <    (d) Norwegian.
@@ -2214,10 +2214,10 @@ in a large measure determined by the geographical conditions, and
 accordingly the lines along which they run for the most part show the
 influence of such conditions very clearly, and thus present in many
 cases a marked contrast to the political boundaries in America and
-Australia, where the boundaries have often been marked out in advance of
+[[Australia]], where the boundaries have often been marked out in advance of
 the population. In Europe the general rule is that the boundaries tend
 to run through some thinly peopled strip or tract of country, such as is
-formed by mountain ranges, elevated tablelands too bleak for
+formed by mountain ranges, elevated tablelands too [[Bleak|bleak]] for
 cultivation, relatively high ground of no great altitude where soil and
 climate are less favourable to cultivation than the lower land on either
 side, or low ground occupied by heaths or marshes or some other sterile
@@ -2234,15 +2234,15 @@ the present political map of Europe will serve to illustrate these
 rules.
 
   The eastern frontier of the Netherlands begins by running southwards
-  through a marsh nearly parallel to the Ems but nowhere touching it,
+  through a marsh nearly parallel to the [[Ems]] but nowhere touching it,
   then winds south or south-westwards through a rather sparsely peopled
   district to the Rhine. This river it crosses, it then approaches but
   does not touch the Meuse, but runs for a considerable distance roughly
   parallel to that river along higher ground, where the population is
   much more scanty than in the valley. On the side of Belgium the Dutch
   boundary is for the most part thoroughly typical, winding between the
-  dreariest parts of the Dutch or Belgium provinces of North Brabant,
-  Limburg and Antwerp. The Scheldt nowhere forms a boundary between
+  dreariest parts of the Dutch or Belgium provinces of North [[Brabant]],
+  [[Limburg]] and [[Antwerp]]. The Scheldt nowhere forms a boundary between
   countries, not even at its wide estuary. The eastern frontier of
   Belgium is quite typical both on the side of Germany and Luxemburg. It
   is otherwise, however, on the south, there that country confines with
@@ -2261,12 +2261,12 @@ rules.
   a minor degree illustrates the general rule. The division of the
   Iberian peninsula between Spain and Portugal goes back in effect to
   the Christian reaction against the Moors. The valley of the Miño and
-  its tributaries establishes a natural connexion between Galicia and
+  its tributaries establishes a natural connexion between [[Galicia]] and
   the rest of Spain; but an independent crusade against the Moors
   starting from the lower part of the valley of the Douro resulted in
   the formation of the kingdom of Portugal, which found its natural
   eastern limit on the scantily peopled margin of the Iberian tableland,
-  where the rivers cease to be navigable and flow through narrow gorges,
+  where the rivers cease to be navigable and flow through narrow [[Gorges|gorges]],
   that of the Tagus, where the river marks the frontier, being almost
   without inhabitants, especially on the Spanish side.
 
@@ -2328,7 +2328,7 @@ rules.
     | Austria-Hungary   |   241,466   | 37,884    |  41,358    | 45,405[11]|  188   |
     |   Bosnia-Herze-   |    19,735   |  1,336[1] |     ..     |  1,568[12]|   81   |
     |     govina[a]     |             |           |            |           |        |
-    |   Liechtenstein   |        61   |           |       9[7] |    ..     |  147   |
+    |   [[Liechtenstein]]   |        61   |           |       9[7] |    ..     |  147   |
     | Belgium           |    11,373   |  5,520    |   6,069    |  6,694[16]|  589   |
     | Denmark[b]        |    15,431   |  1,980    |   2,185    |  2,465[14]|  160   |
     | France            |   207,206   |           |  38,343[7] | 38,596[14]|  186   |
@@ -2356,10 +2356,10 @@ rules.
     |   Thasos          |       152   |    ..     |     ..     |     12?   |   79   |
     | United Kingdom    |   121,742   | 35,026[2] |  37,881[7] | 41,455[14]|  341   |
     +-------------------+-------------+-----------+------------+-----------+--------+
-      [a] Annexed by imperial decree to Austria-Hungary in 1908.
+      [a] Annexed by imperial [[Decree|decree]] to Austria-Hungary in 1908.
       [b] Including Faeroe Islands.
       [c] Area exclusive of Tagus and Sado inlets (together 161 sq. m.).
-      [d] Excluding Canary Islands.
+      [d] Excluding [[Canary Islands]].
       [e] With Novi-bazar.
       [f] Bulgaria proclaimed its independence of Turkey in 1908.
 
@@ -2411,7 +2411,7 @@ continent:--
   | Bosnia, Servia and Bulgaria |          |    4.2    |    4.2    |
   | Rumania                     |    4.6   |    7.2    |   11.8    |
   | Hungary                     |    3.7   |    9.1    |   12.8    |
-  | Galicia and Bukovina        |    2.0   |    4.8    |    6.8    |
+  | Galicia and [[Bukovina]]        |    2.0   |    4.8    |    6.8    |
   | Cis-Leithan provinces of    |          |           |           |
   |   Austria (exclusive of the |          |           |           |
   |   two latter)               |   12.4   |    5.9    |   18.3    |
@@ -2433,78 +2433,78 @@ according to the nearest census or available estimate to 1900.
 Population in thousands (000 omitted):--
 
   *London (Greater, 1901)     6581 | Portsmouth (1901)         189
-   London (Registration,           | Charlottenburg (1900)     189
+   London (Registration,           | [[Charlottenburg]] (1900)     189
      1901)                    4536 | Königsberg (1900)         188
   *Paris (w. subs.)           2877 | Triest (1900)             179
      "   (City, 1901)         2661 | Plymouth-Devonport (1901) 177
   *Berlin (w. subs.)          2073 | Stuttgart (1900)          176
      "    (1900)              1884 | Kharkov (1897)            174
-   Vienna (1900)              1662 | Bolton (1901)             168
+   Vienna (1900)              1662 | [[Bolton]] (1901)             168
   *St Petersburg (w. subs.,        | Oporto (1900)             168
      1897)                    1267 | Cardiff (1901)            164
   *Constantinople (w. subs.)  1200 | Bremen (1900)             163
    Moscow (w. subs., 1897)    1036 | Ghent (1901)              162
-   Glasgow (w. subs., 1901)    910 | Dundee (1901)             161
+   [[Glasgow]] (w. subs., 1901)    910 | [[Dundee]] (1901)             161
    Hamburg-Altona (1900)       867 | Vilna (1897)              160
-   Liverpool (w. subs., 1901)  767 | Brighton-Hove (1901)      160
+   [[Liverpool]] (w. subs., 1901)  767 | Brighton-Hove (1901)      160
    Manchester-Salford (1901)   765 | Lemberg (1900)            160
    Budapest (1900)             732 | Liége (1901)              160
    Warsaw (1897)               638 | Halle a S. (1900)         157
-  +Birmingham (w. subs., 1901) 599 | Aberdeen (1901)           153
+  +[[Birmingham]] (w. subs., 1901) 599 | Aberdeen (1901)           153
   *Naples (comm., 1901)        565 | Bologna (comm., 1901)     152
    Brussels (1901)             563 |*Venice (comm., 1901)      152
-  *Madrid (1900)               540 | Catania (comm., 1901)     150
+  *Madrid (1900)               540 | [[Catania]] (comm., 1901)     150
    Amsterdam (1902)            540 | Messina (comm., 1901)     150
-  *Barcelona (1900)            533 | Salonica                  150
+  *[[Barcelona]] (1900)            533 | Salonica                  150
    Munich (1900)               500 | Strassburg (1900)         150
    Marseilles (1901)           495 | Zürich (comm., 1900)      150
   *Milan (comm., 1901)         493 | Seville (1900)            148
    Copenhagen (w. subs., 1901) 477 | St Etienne (1901)         147
   *Rome (comm., 1901)          463 | Sunderland (1901)         147
-   Lyons (1901)                460 | Dortmund (1900)           142
+   [[Lyons]] (1901)                460 | [[Dortmund]] (1900)           142
    Leipzig (1900)              455 | Danzig (1900)             141
-   Leeds (w. subs., 1901)      444 | Mannheim (1900)           140
+   [[Leeds]] (w. subs., 1901)      444 | [[Mannheim]] (1900)           140
    Breslau (1900)              423 | Stettin (1895)            140
-   Odessa (1897)               405 | Croydon (1901)            139
+   Odessa (1897)               405 | [[Croydon]] (1901)            139
    Dresden (1900)              395 | Graz (1900)               138
    Edinburgh-Leith (1901)      393 | Oldham (1901)             137
    Sheffield (1901)            381 | Saratov (1897)            137
    Dublin (w. subs., 1901)     373 | Aachen (1900)             135
-   Cologne (1900)              372 | Gothenburg (1902)         134
+   Cologne (1900)              372 | [[Gothenburg]] (1902)         134
   *Lisbon (1900)               356 | Toulouse (1896)           134
-   Belfast (1901)              349 | Nantes (1901)             133
+   [[Belfast]] (1901)              349 | Nantes (1901)             133
    Rotterdam (1902)            348 | Kazan (1897)              132
    Turin (comm., 1901)         335 | Malaga (1900)             130
-   Bristol (1901)              329 | Havre (1901)              130
+   Bristol (1901)              329 | [[Havre]] (1901)              130
    Newcastle-Gateshead (1901)  325 | Blackburn (1901)          128
    Prague (w. subs., 1900)     317 | Brunswick (1900)          128
-   Lódz (1897)                 315 | Ekaterinoslav (1897)      121
+   Lódz (1897)                 315 | [[Ekaterinoslav]] (1897)      121
   *Palermo (comm., 1901)       310 | Rostov-on-Don (1897)      120
    Stockholm (1902)            306 | Essen (1900)              119
    Elbferfeld-Barmen (1901)    299 | Posen (1900)              117
-   Bordeaux (w. subs., 1896)   289 | Preston (1901)            113
+   [[Bordeaux]] (w. subs., 1896)   289 | Preston (1901)            113
    Frankfort-on-Main           288 | Astrakhan (1897)          113
    Riga (w. subs., 1897)       283 | Norwich (1901)            112
    Bucharest (1899)            282 | Murcia (1900)             112
-   Bradford (1901)             280 | Birkenhead (1901)         111
+   [[Bradford]] (1901)             280 | Birkenhead (1901)         111
    Antwerp (1901)              273 | Athens (1896)             111
  ++West Ham (1901)             267 | Tula (1897)               111
    Nuremberg (1900)            261 | Brünn (1900)              110
-   Kiev (1897)                 247 | Kishinev (1897)           109
-   Hull (1901)                 241 | Basel (comm., 1900)       109
+   Kiev (1897)                 247 | [[Kishinev]] (1897)           109
+   [[Hull]] (1901)                 241 | Basel (comm., 1900)       109
    Nottingham (1901)           240 | Utrecht (1902)            109
    Hanover (1900)              237 | Kiel (1900)               108
    Genoa (comm., 1901)         235 | Reims (1901)              108
-   Magdeburg (1900)            230 | Krefeld (1900)            107
-   Christiania (1900)          226 | Derby (1901)              106
-   The Hague (1902)            222 | Kassel (1900)             106
+   [[Magdeburg]] (1900)            230 | Krefeld (1900)            107
+   [[Christiania]] (1900)          226 | [[Derby]] (1901)              106
+   The [[Hague]] (1902)            222 | Kassel (1900)             106
    Roubaix-Tourcoing (1901)    220 | Halifax (1901)            105
    Düsseldorf (1900)           214 | Nice (1901)               105
   *Valencia (1900)             214 | Southampton (1901)        105
    Florence (comm., 1901)      205 | Nancy (1901)              103
    Leicester (1901)            212 | Szeged (1900)             103
    Lille (1901)                211 | Toulon (1901)             102
-   Chemnitz (1900)             207 | Cartagena (1900)          100
+   Chemnitz (1900)             207 | [[Cartagena]] (1900)          100
 
      Comm. = commune. w. subs. = with suburbs.
 
@@ -2517,14 +2517,14 @@ Population in thousands (000 omitted):--
 
      [++] Part of Greater London.
 
-  AUTHORITIES.--Elisée Reclus, vols. i. to v. of _Nouvelle Géographie
+  AUTHORITIES.--[[Eli|Elis]]ée Reclus, vols. i. to v. of _Nouvelle Géographie
   universelle_ (Paris, 1876-1880), translated by E.G. Ravenstein and
-  A.H. Keane (vol. i. Southern Europe, vol. ii. France and Switzerland,
+  A.H. [[Keane]] (vol. i. Southern Europe, vol. ii. France and Switzerland,
   vol. iii. Austria-Hungary, Germany, Belgium and the Netherlands, vol.
   iv. The British Isles, vol. v. Scandinavia, Russia in Europe, and the
   European islands, translation undated); G.G. Chisholm, "Europe" (2
   vols.) in Stanford's _Compendium of Geography and Travel_ (London,
-  1899, 1902); Kirchhoff and others, _Die Landerkunde des Erdteils
+  1899, 1902); [[Kirchhoff]] and others, _Die Landerkunde des Erdteils
   Europa_, vols. ii. and iii. of _Unser Wissen von der Erde_ (comprising
   all the countries of Europe except Russia) (Vienna, &c., 1887-1893);
   A. Philippson and L. Neumann, _Europa, eine allgemeine Landerkunde_
@@ -2534,7 +2534,7 @@ Population in thousands (000 omitted):--
   treated from a general point of view); Joseph Partsch, _Mitteleuropa_
   (Gotha, 1904) (the same work in German, extended and furnished with
   additional coloured maps); M. Fallex and A. Moirey, _L'Europe moins la
-  France_ (Paris, 1906) (no index); A. Hettner, _Europa_ (Leipzig, 1907)
+  France_ (Paris, 1906) (no [[Index|index]]); A. [[Hettner]], _Europa_ (Leipzig, 1907)
   (an important feature of this work is the division of Europe into
   natural regions); Vidal de la Blache, _Tableau de la géographie de la
   France_ (Paris, 1903) (contains a most instructive map embracing
@@ -2578,7 +2578,7 @@ Population in thousands (000 omitted):--
   1896); E. Ihne, "Phänologische Karte des Frühlingseinzugs in
   Mitteleuropa," in _Petermanns Mitteil._ (1905), pl. 9, and pp. 97-108;
   A. Angot, "Régime des pluies de la péninsule ibérique," in _Annales du
-  bur. cent. météor. de France_ (1893, B. pp. 157-194), and "Régime des
+  [[Bur|bur]]. cent. météor. de France_ (1893, B. pp. 157-194), and "Régime des
   pluies de l'Europe occidentale," _ibid._ (1895, B. pp. 155-192); E.D.
   Brückner, "Die Klimaschwankungen seit 1700," in Penck's _Geographische
   Abhandlungen_, iv. Pl. 2 (Vienna, 1890); Supan, "Die Verschiebung der
@@ -2592,7 +2592,7 @@ Population in thousands (000 omitted):--
   Milit. Topog. Section of the Russian General Staff_, vols. xlix. and
   l. (St. Petersburg, 1893) (in Russian, see notice in _Petermanns
   Mitteil._ (1894), _Litteraturbericht_, No. 289); (2) and (3) _Die
-  europäische Längengradmessung in 52° Br. von Greenwich bis Warschau_;
+  europäische Längengradmessung in 52° Br. von [[Greenwich]] bis Warschau_;
   (2) Part i., Helmert, _Hauptdreiecke und Grundlinienanschlüsse von
   England bis Polen_ (Berlin, 1893); (3) Part ii., Bërsch and Krüger,
   _Geodätische Linien, Parallelbogen, und Lothabweichungen zwischen
@@ -2603,10 +2603,10 @@ Population in thousands (000 omitted):--
        (G. G. C.)
 
 
-2. POLITICAL HISTORY
+2. [[Political History|POLITICAL HISTORY]]
 
 The origin of the name of Europe has been dealt with above, and the
-difficulty of any exact definition of the geographical limits covered by
+difficulty of any exact [[Definition|definition]] of the geographical limits covered by
 this term has been pointed out. A similar difficulty meets us when we
 come to deal with European history. We know what we mean when we speak of
 European civilization, though in its origins, as in its modern
@@ -2658,7 +2658,7 @@ does Europe owe to Christianity, an Asiatic religion, but modified by
 contact with Greek thought and powerfully organized on the lines of the
 Roman administrative system. The Roman Church remained a reality when
 the Roman empire had become little more than a name, and was throughout
-the period of chaos and transformation that followed the collapse of the
+the period of [[Chaos|chaos]] and transformation that followed the collapse of the
 Roman empire the most powerful instrument for giving to the
 heterogeneous races of Europe a common culture and a certain sense of
 common interests.
@@ -2675,7 +2675,7 @@ of the modern European states system.
 In a sense the Roman empire had been already "barbarized" before the
 invasions of the barbarians _en masse_. Land left vacant by the
 dwindling of the population was colonized by immigrants, Teutonic and
-other, from beyond the frontiers; the Roman legions were largely
+other, from beyond the frontiers; the Roman [[Legion|legions]] were largely
 recruited from Germans and other non-Romans, some of whom even rose to
 the imperial purple. Thus, in the end, the Roman emperor, with his guard
 and his household, ruling over an empire mercilessly exploited to fill
@@ -2707,8 +2707,8 @@ were of two types, (1) migrations of whole peoples with their old German
 patriarchal organization complete, (2) bands, larger or smaller, of
 emigrants in search of land to settle on, without tribal cohesion, but
 organized under the leadership of military chiefs. The earlier invaders,
-Goths and Vandals, and later the Burgundians and Lombards were of the
-first type; to the second belonged the Franks, "free" men from the Saxon
+Goths and Vandals, and later the Burgundians and [[Lombards]] were of the
+first type; to the second belonged the [[Franks]], "free" men from the Saxon
 plain, and the Saxon invaders of Britain. The distinction was a vital
 one; for the Goths, Vandals, Burgundians and Lombards never took root in
 the soil, and succumbed in turn, while the Frankish and Saxon
@@ -2724,9 +2724,9 @@ It was owing to the pressure of Turanian invaders from the East that the
 Teutonic peoples were first forced to take refuge within the empire. In
 378 the Goths defeated and slew the emperor Valens in a battle near
 Adrianople; in 410 Alaric, king of the West Goths, sacked Rome; and
-shortly after his death the Goths passed into Gaul and Spain. In 429
+shortly after his death the Goths passed into [[Gaul]] and Spain. In 429
 Gaiseric, king of the Vandals, at the invitation, it is said, of the
-governor Bonifacius, passed over from Spain to Roman Africa, which
+governor [[Bonifacius]], passed over from Spain to Roman Africa, which
 became the centre of another Teutonic kingdom, soon established as a
 great naval power which for a while commanded the Mediterranean and
 devastated the coasts of Italy and Sicily with its piracies.
@@ -2763,7 +2763,7 @@ extending the Roman dominion, Italy, save for a while Ravenna itself and
 a few scattered sea-coast towns, was thenceforth lost to the empire of
 which in theory it still formed a part.
 
-This catastrophe produced one result the importance of which it is
+This [[Catastrophe|catastrophe]] produced one result the importance of which it is
 impossible to exaggerate; the development of the political power of the
 papacy. At the beginning of the 6th century Rome, under Theodoric the
 Goth, was still the city of the Caesars; the tradition of its ancient
@@ -2781,11 +2781,11 @@ _Middle Ages_; PAPACY).
 
 The next event that profoundly affected the history of Europe was the
 rise of Mahommedanism. In A.D. 622, sixteen years after Gregory's death,
-occurred the flight (_Hijra_) of Mahomet from Mecca to Medina, which
+occurred the flight (_Hijra_) of Mahomet from [[Mecca]] to Medina, which
 fixed the memorable era of the Hegira. The full force of the militant
 religion founded by the Arab prophet was not felt till after his death
 (632). The emperor Heraclius, the vigour of his manhood passed, was
-unable to meet this new peril; the Arabs, strong in their hardy
+unable to meet this new peril; the [[Arabs]], strong in their hardy
 simplicity, and new-born religious fanaticism, and aided by the treason
 and cowardice of the decadent Roman governing classes, overran Asia
 Minor, conquered Egypt and the whole of northern Africa, overwhelmed the
@@ -2801,15 +2801,15 @@ themselves throughout the middle ages; developing a high type of
 civilization which had a considerable influence on the intellectual life
 of medieval Europe; and it was not till 1494 that Granada, their last
 possession in the peninsula, was conquered by the Christian monarchs,
-Ferdinand and Isabella.
+[[Ferdinand]] and [[Isabella]].
 
 
-  The Carolingians.
+  The [[Carolingians]].
 
 The battle of Tours emphasized and increased the power and reputation of
-Charles Martel. As a mayor of the palace to the decadent Merovingian
+Charles Martel. As a [[Mayor|mayor]] of the palace to the decadent Merovingian
 successors of Clovis, he was virtually ruler of the Franks, and, after
-his death, the last of the _rois fainéants_ of the house of Merovech was
+his death, the last of the _rois [[Fain|fain]]éants_ of the house of Merovech was
 deposed, and Pippin, Charles's son, was elected king of the Franks. The
 prestige of the Carolingian house (to give it the name it was later
 known by) was increased when, at the urgent entreaty of Pope Stephen
@@ -2821,10 +2821,10 @@ of northern Italy to his dominions.
 [Illustration: Charlemagne's Empire at its greatest extent.]
 
 
-  The coronation of Charles the Great as emperor. 800.
+  The [[Coronation|coronation]] of Charles the Great as emperor. 800.
 
 In 797 an event of the highest importance to the European world took
-place. The emperor Constantine VI. was deposed by his mother Irene, who
+place. The emperor Constantine VI. was deposed by his mother [[Irene]], who
 seized the throne. Thereupon Pope Leo and the Roman people definitely
 threw off the authority of the emperors of Constantinople, on the ground
 that a woman could not hold the position of Caesar. In 800 Leo crowned
@@ -2855,16 +2855,16 @@ effective barrier for Europe and Christendom against the advancing tide
 of Islam. At the same time, however, the growing divergence between the
 Eastern and Western Churches, which had been accentuated by the
 iconoclastic controversy (see ICONOCLASTS), and was destined in 1053 to
-culminate in a definite schism, was gradually widening the breach
+culminate in a definite schism, was gradually widening the [[Breach|breach]]
 between the two types of European civilization, which came into violent
 conflict at the beginning of the 13th century, when crusaders from
 western Europe captured Constantinople and set up a Latin empire in the
-East (see ROMAN EMPIRE, LATER; CHURCH HISTORY; CRUSADES). In western
+East (see ROMAN EMPIRE, LATER; CHURCH HISTORY; [[Crusades|CRUSADES]]). In western
 Europe, meanwhile, the unity of the empire did not long survive
 Charlemagne. Its definite break-up dates from the treaty of Verdun
-(843), by which Charles the Bald received Neustria, Aquitaine and
+(843), by which Charles the Bald received Neustria, [[Aquitaine]] and
 western Burgundy, Louis the German Bavaria, Swabia, Saxony and
-Thuringia, and the emperor Lothair the middle kingdom known by his name,
+Thuringia, and the emperor [[Lothair]] the middle kingdom known by his name,
 the _regnum Lotharii_ or Lotharingia (see LORRAINE). By the partition of
 Mersen (870) Lotharingia itself was divided between the West and East
 Frankish realms--France and Germany, terms which from this time begin to
@@ -2887,9 +2887,9 @@ who not only scourged all the coasts of Europe but penetrated, burning
 and harrying, far inland up the great waterways. Meanwhile, the
 weakening of central government due to dynastic struggles had led to
 the growth of independent or semi-independent powers within the states
-themselves. The Frank landowners had successfully asserted their
+themselves. The [[Frank]] landowners had successfully asserted their
 independence of the jurisdiction of the king (or emperor) and his
-officials; the imperial officials themselves, dukes or counts, had
+officials; the imperial officials themselves, [[Dukes|dukes]] or counts, had
 received grants of lands with similar immunities (_beneficia_), and
 these had become hereditary. Thus sprang up a class of great territorial
 nobles to whom, amid the growing anarchy, men looked for protection
@@ -2900,13 +2900,13 @@ was admirable for defence; and with its aid, before the close of the
 first decade of the 10th century, the frontiers of France and Germany
 had been made safe against the northern barbarians, who had either been
 driven off and barriers erected against their return--e.g. the marks
-established by Henry the Fowler along the middle Elbe--or, as in the
+established by Henry the [[Fowler]] along the middle Elbe--or, as in the
 case of the Normans, absorbed into a system well adapted for such a
 process. By the treaty of St Claire-sur-Epte (911) between Charles the
 Simple and Rollo, chief of the Norsemen, the Normans were established in
 the country since known as Normandy (q.v.), as feudatories of the French
 crown. In England, by the treaty of Wedmore (878) between Alfred and the
-Danish king Guthrum, the Danes had already been established in a large
+Danish king [[Guthrum]], the Danes had already been established in a large
 part of England.
 
 
@@ -2932,7 +2932,7 @@ hand, feudalism as a system of government had become firmly established;
 and it was not till the days of Philip Augustus (1180-1223) and Louis
 IX. (1226-1270) that the monarchy began to get the upper hand. From this
 time until the 17th century the power of the French monarchy, in spite
-of occasional lapses, grew steadily stronger. The reverse was the case
+of occasional [[Lapse|lapses]], grew steadily stronger. The reverse was the case
 with the German kingship. Its association with the undefined claims
 involved in the title of Roman emperor, traditionally attached to it,
 and notably those to authority in Italy, necessitated concession after
@@ -2958,13 +2958,13 @@ established was a slow one. During the greater part of the 10th century
 the Carolingians, stripped of the vast domains which had been the basis
 of the power of Pippin, owed their continued existence to the
 forbearance of Hugh the Great, count of Paris. In 987, however, the last
-Carolingian king died, and Hugh Capet, son of Hugh the Great, the most
+Carolingian king died, and [[Hugh Capet]], son of Hugh the Great, the most
 powerful of the territorial magnates, was chosen king of France. With
 his election dates the real beginning of the French monarchy, and under
 him and his successors Paris became the capital of France. Hugh's
 election, however, was the work of the great feudatories, and France
 remained divided among a number of great fiefs, of which the chief were
-Brittany, Anjou, Flanders, Vermandois, Champagne, Burgundy, Aquitaine,
+Brittany, [[Anjou]], Flanders, Vermandois, [[Champagne]], Burgundy, Aquitaine,
 Poitou, Gascony, Toulouse and Normandy.
 
 
@@ -2980,7 +2980,7 @@ by encouraging the growth and development of towns he contributed
 greatly to the formation of the German kingdom. His immediate
 successors, Otto the Great and Otto II., continued his work, which was
 only interrupted for a short time during the reign of the idealist Otto
-III., whose "cosmopolitan imperialism" brought him into collision with
+III., whose "[[Cosmopolitan|cosmopolitan]] imperialism" brought him into collision with
 the German Church and to some extent with the German nobles. Henry II.
 (1002-1025) asserted with success his authority over Germany, and his
 successor Conrad II., who belonged to the Salian or Franconian line, did
@@ -3001,7 +3001,7 @@ Capetians in France, have proved successful. Unfortunately for Germany
 Henry entered upon the famous contest with the papacy under Gregory VII.
 (1073-1080), which ended in the 13th century in the defeat of the Empire
 in the person of Frederick II. The struggle began in 1073 over the
-question of investiture (q.v.), and widened into a duel between the
+question of [[Investiture|investiture]] (q.v.), and widened into a [[Duel|duel]] between the
 spiritual and temporal powers. During the early years of the contest the
 influence of the papacy reached a high pitch and made itself felt in the
 crusading movement, which received its first impetus from Pope Urban
@@ -3012,7 +3012,7 @@ recover the Holy Places from the Turks.
   The eastern Empire and the Crusades.
 
 During the 11th century the Eastern Empire was attacked by the Russians,
-the Normans and the Seljuks. The emperor Alexius Comnenus found himself
+the Normans and the Seljuks. The emperor Alexius [[Comnenus]] found himself
 on his accession in 1081 threatened by the Seljuks (the victors in the
 decisive battle of Manzikert in 1071) and by the Sicilian Normans who in
 1081 besieged Durazzo. In 1083 he defeated the Normans in the battle of
@@ -3056,7 +3056,7 @@ experience of international affairs, and--in the case of the great popes
 of this epoch--the superiority of their minds and characters, made them
 not only the spiritual rulers of Europe, but the effective centres of
 whatever political unity it possessed. As a Byzantine observer was to
-observe of Innocent III., they had become the successors of the Caesars
+observe of [[Innocent]] III., they had become the successors of the Caesars
 rather than of Peter (see PAPACY).
 
 
@@ -3073,8 +3073,8 @@ de France and a prospective claim to Poitou and Aquitaine. Under his
 successor Louis VII. (1137-1180) the consolidation movement was checked
 owing to the marriage of Eleanor of Aquitaine (after her divorce from
 Louis VII.) to Henry II of England. By the addition of his wife's lands
-(Gascony and Guienne) to those which he had already inherited from his
-father and mother (Normandy, Anjou, Touraine and Maine) Henry was
+(Gascony and [[Guienne]]) to those which he had already inherited from his
+father and mother (Normandy, Anjou, Touraine and [[Maine]]) Henry was
 enabled to form the powerful though short-lived Angevin empire. But the
 lost ground was rapidly recovered by Philip Augustus (1180-1223), who
 took advantage of the weakness and folly of John of England, and before
@@ -3130,7 +3130,7 @@ The reign of Frederick Barbarossa (1152-1190) saw that struggle at its
 height, and during that reign it became apparent that the emperor's
 efforts to unite Italy and Germany under one crown were doomed to
 failure. The rise and success of the alliance of Italian republics known
-as the Lombard League no doubt contributed to the success of the papacy,
+as the [[Lombard League]] no doubt contributed to the success of the papacy,
 but in their contest with the popes the emperors never had any chance of
 gaining a permanent victory. Frederick II continued with great energy to
 attempt the hopeless task of dominating the papacy, but his possession
@@ -3162,7 +3162,7 @@ Partly no doubt owing to the failure of the Empire and papacy to work
 together, a great impetus had been given to the formation of national
 monarchies. While Frederick II. had failed, Louis IX. and Philip IV. of
 France, Ferdinand III. of Castile (1217-1252), James the Conqueror, king
-of Aragon (1213-1276) and Edward I. of England (1239-1307) succeeded in
+of [[Aragon]] (1213-1276) and Edward I. of England (1239-1307) succeeded in
 laying the foundations of strong monarchies which after two centuries of
 struggles with the dying efforts of feudalism were established on a firm
 basis. In spite of the intellectual activity and political developments
@@ -3177,8 +3177,8 @@ of the earlier period (see MIDDLE AGES).
 Thus the 14th and 15th centuries have characteristics which
 differentiate them from all preceding and succeeding centuries, The
 triumph of the papacy over the Empire had been short-lived. Owing to the
-disturbed state of Italy, Clement V. was in 1305 compelled to take
-refuge at Avignon, and till 1377--a period known as the Babylonish
+disturbed state of Italy, [[Clement]] V. was in 1305 compelled to take
+refuge at [[Avignon]], and till 1377--a period known as the Babylonish
 captivity--the popes remained in France. While the Empire and papacy
 steadily decline, while the Byzantine empire falls before the Turks,
 strong monarchies are gradually formed in England, France, Spain, and
@@ -3195,7 +3195,7 @@ centuries may truly be styled a period of transition.
   The decline of the Empire, 1254-1519.
 
 From the death of Conrad IV., the son of Frederick II., in 1254 to 1273,
-when Rudolph of Habsburg became king, chaos reigned in Germany, and the
+when Rudolph of [[Habsburg]] became king, chaos reigned in Germany, and the
 period is known as the Great Interregnum. The forces of decentralization
 strengthened themselves, and the emperors found that the formation of a
 strong and united German kingdom was an impossibility. Rudolph of
@@ -3207,7 +3207,7 @@ establishment of the house of Anjou in Naples, and, after the Sicilian
 Vespers in 1282, the supremacy of the house of Aragon in Sicily.
 Refusing to follow the example of Frederick II. and to take part in
 distant expeditions, Rudolph conquered Austria, Styria, Carinthia and
-Carniola, Vienna became the capital of the Habsburg dominions in
+[[Carniola]], Vienna became the capital of the Habsburg dominions in
 Germany, and his son Albert of Austria, who was king from 1298 to 1308,
 was careful to continue the policy of his father. Though no Habsburg was
 again elected to the imperial throne till 1438, when the long succession
@@ -3226,9 +3226,9 @@ During the 14th century the weakness of the Empire became more and more
 accentuated under the weak rule of Louis IV. On his death in 1346 his
 successor Charles of Luxemburg, known as the emperor Charles IV., made a
 celebrated attempt to form a strong centralized German monarchy. With
-that object he issued in 1356 the Golden Bull, by which it was hoped
+that object he issued in 1356 the Golden [[Bull]], by which it was hoped
 that all matters connected with the imperial election would be settled.
-The number of imperial electors was settled, and henceforth they were to
+The number of imperial [[Electors|electors]] was settled, and henceforth they were to
 consist of the archbishops of Cologne, Mainz and Trier, and of the king
 of Bohemia, the duke of Saxony, the margrave of Brandenburg and the
 count palatine of the Rhine. Charles hoped to concentrate gradually in
@@ -3247,7 +3247,7 @@ height of its power, and in 1381 the Rhenish towns formed a
 confederation. Wenceslaus, like Richard II., had fallen upon evil times.
 The advance westwards by the Turks occupied the attention of his brother
 Sigismund, now king of Hungary; he was himself unpopular in Bohemia, and
-at the same time was exposed to the intrigues of his cousin Jobst of
+at the same time was exposed to the intrigues of his [[Cousin|cousin]] [[Jobst]] of
 Moravia, who had secured Brandenburg. In 1400 Wenceslaus was formally
 deposed by the electors, and spent the rest of his life in Bohemia,
 where he died in 1419. His successor Rupert of the palatinate reigned
@@ -3256,7 +3256,7 @@ to bring to an end the great schism which had followed upon the return
 of Pope Urban VI. from Avignon to Rome in 1377. Two popes had been
 elected, one living at Rome, the other at Avignon, and Christian Europe
 was scandalized at the sight of two rival pontiffs. On Rupert's death
-the electors chose Sigismund the brother of Wenceslaus, and he ruled as
+the electors [[Chose|chose]] Sigismund the brother of Wenceslaus, and he ruled as
 emperor from 1411 to 1437.
 
 
@@ -3298,7 +3298,7 @@ emperor Frederick III. With his accession the imperial throne became
 practically hereditary in the Habsburg family. Frederick's long reign,
 which lasted from 1440 to 1493, was of little benefit to Germany; for he
 showed no administrative skill and proved a weak and incapable ruler.
-Undoubtedly his lot fell upon evil days, for not only were the Turks at
+Undoubtedly his [[Lot|lot]] fell upon evil days, for not only were the Turks at
 the height of their power, but both Bohemia and Hungary gave him much
 anxiety. The imminent fall of Constantinople, the last barrier of
 Christendom against Islam in the East, was a threat not only to the
@@ -3309,9 +3309,9 @@ the various courts of the West; in vain he had humbled himself to pay
 the price asked, by subscribing to the abnegation of the distinctive
 tenets of the Orthodox Church, which secured the ephemeral reunion of
 Christendom at the council of Florence (1438). The crusading spirit was
-dead; the European powers stirred no finger to save the imperial city;
+dead; the European powers stirred no [[Finger|finger]] to save the imperial city;
 and in 1453 Sultan Mahommed II. rode through the breach over the body of
-the last of the Eastern Caesars, and planted the crescent on the dome
+the last of the Eastern Caesars, and planted the [[Crescent|crescent]] on the dome
 of the metropolitan church, of Eastern Christendom (see TURKEY, and
 ROMAN EMPIRE, LATER).
 
@@ -3322,7 +3322,7 @@ by expanding; and for over two hundred years to come the dread of
 Ottoman aggression was a dominant factor in the politics of eastern
 Europe. The tide of Turkish advance could have been arrested by a union
 of Europe; but the appeals of Pope Nicholas V. fell unheeded upon a
-sceptical age, intent only on its dynastic and particularist ambitions.
+sceptical age, [[Intent|intent]] only on its dynastic and particularist ambitions.
 To the emperor the ousting of the Ottomans from the Balkan peninsula
 seemed of less importance than the consolidation of the Habsburg power
 in Germany, and its extension over the neighbouring kingdoms of Hungary
@@ -3350,7 +3350,7 @@ The victory of Ladislaus, son of Casimir, king of Poland, who succeeded
 in uniting in his own person the crowns of Bohemia, Hungary and Poland,
 threatened to result in the permanent independence of those countries of
 the house of Habsburg. But in 1490 Ladislaus was compelled by
-Maximilian, son of Frederick III., to sign the treaty of Pressburg,
+[[Maximilian]], son of Frederick III., to sign the treaty of Pressburg,
 providing for the eventual succession of the Habsburgs to Hungary and
 Bohemia.
 
@@ -3361,7 +3361,7 @@ In other ways the reign of Frederick III. laid the foundations of the
 greatness of his family. In 1477 Maximilian married Mary, duchess of
 Burgundy and heiress of Charles the Bold, and through her the Habsburgs
 obtained Franche Comté and the Netherlands. The line, _Bella gerant
-alii, tu felix Austria nube_, well described the method by which the
+alii, tu [[Felix|felix]] Austria nube_, well described the method by which the
 house of Habsburg increased its possessions and established its
 fortunes. A.E.I.O.U. (_Austriae est imperare orbi universo_), was the
 device invented for his house at that time by Frederick III. and it
@@ -3388,7 +3388,7 @@ French power both at home and abroad again declined under the rule of
 the incapable Charles VII. (1380-1422). In fact the year 1422 may be
 said to mark the lowest stage in the history of the French monarchy.
 From that year an improvement gradually set in. A national sentiment, as
-exemplified in the career of Joan of Arc (q.v.), was developed; an
+exemplified in the career of [[Joan Of Arc|Joan of Arc]] (q.v.), was developed; an
 alliance, essential for the successful expulsion of the English from
 France, was made in 1435 between the king of France and the duke of
 Burgundy; and in 1439 the famous ordinance empowering the king to
@@ -3420,7 +3420,7 @@ occurred before the end of the 15th century, while in the early years of
 the 16th century the ideal of civil and ecclesiastical unity was finally
 shattered by the Reformation and by the development of the modern states
 system, accompanied by the prominence henceforward attached to the
-question of the balance of power.
+question of the [[Balance Of Power|balance of power]].
 
 
   The Renaissance.
@@ -3449,7 +3449,7 @@ government a necessity.
 From the beginning of the 16th century Europe entered upon modern times.
 Many events marked the close of the middle ages. The discovery of
 America, the decay of Venice, the development of the European states
-system, the rise of diplomacy as a permanent international system (see
+system, the rise of [[Diplomacy|diplomacy]] as a permanent international system (see
 DIPLOMACY), the wars of religion--all these are the general
 characteristics of the new period upon which Europe now enters. With the
 growth of monarchies arises the belief in the divine right of kings, the
@@ -3457,7 +3457,7 @@ development of territorial sovereignty, and wars of ambition like those
 waged by Louis XIV.
 
 With the 18th century democratic ideas first begin to appear side by
-side with the rule of the enlightened despots such as Frederick the
+side with the rule of the enlightened [[Despot|despots]] such as Frederick the
 Great, Catherine II. and Joseph II. The outbreak of the French
 Revolution brings to an end the old European system, upsets the ideas on
 which it was founded, and leads to important territorial changes.
@@ -3474,7 +3474,7 @@ main characteristic of the middle ages. Thus from the beginning of the
 becomes the scene of national wars in which the idea of the balance of
 power was the leading principle (see BALANCE OF POWER). That principle
 did not allow of the recognition of the rights of nationalities, and
-till the wars of the French Revolution the interests of the various
+till the wars of the [[French Revolution]] the interests of the various
 European states were usually subordinated to the dynastic aims of their
 rulers. During the ensuing centuries the balance of power in Europe was
 seriously threatened; during the first half of the 16th century by
@@ -3516,7 +3516,7 @@ with Francis I. enabled Charles to turn his attention to the rapid
 growth of Protestantism, it was too late to adopt with any chance of
 success a policy of suppression. In 1552 he found himself compelled to
 agree to the treaty of Passau which implied the adoption of a policy of
-compromise, and which in 1555 was followed by a definite arrangement at
+[[Compromise|compromise]], and which in 1555 was followed by a definite arrangement at
 Augsburg, which admitted the principle of _cujus regio, ejus religio_.
 Till the outbreak of the Thirty Years' War in 1618, the settlement of
 Augsburg tended to keep peace between the Catholics and the Protestants.
@@ -3549,7 +3549,7 @@ beginning of the 16th century had reformed itself, the council of Trent
 (q.v.), which closed its sittings in 1564, had given Roman Catholicism a
 "clearly and sharply defined body of doctrine," and the Catholic Church
 had become "more united, less worldly; and more dependent on herself."
-In this work of reorganization the Jesuits had played a great part, and
+In this work of reorganization the [[Jesuits]] had played a great part, and
 the success of the Counter-Reformation was largely due to their efforts
 (see JESUITS). Paul III., Pius IV. and V., Gregory XIII. and Sixtus V.
 are all good examples of the reforming popes of the 16th century. Under
@@ -3579,7 +3579,7 @@ formed themselves into the Dutch republic (see HOLLAND: _History_). His
 scheme for the conquest of England failed, and the Spanish Armada was
 totally defeated in 1588. Nor was his plan for the subjection of France
 more successful. After a tedious civil war between the Catholics and
-Huguenots, Henry of Navarre appeared as a national leader, who, having
+[[Huguenots]], Henry of Navarre appeared as a national leader, who, having
 overcome the armies of the League with which Philip was allied,
 concluded the peace of Vervins in 1598. In consenting to this treaty
 Philip acknowledged that his schemes for the establishment of his
@@ -3620,9 +3620,9 @@ III. of Spain and Maximilian of Bavaria undoubtedly hoped to suppress
 Protestantism in Germany, while Wallenstein, the great imperial general,
 was prepared to conquer Denmark, Sweden and Norway, and to convert the
 Baltic into an Austrian lake. Though the resistance of Christian IV. of
-Denmark was vain, the jealousy felt by the Catholic princes of
+Denmark was vain, the [[Jealousy|jealousy]] felt by the Catholic princes of
 Wallenstein and the skill of Gustavus Adolphus caused the total failure
-of these ambitious schemes. All hope of seeing the imperial flag waving
+of these ambitious schemes. All hope of seeing the imperial [[Flag|flag]] waving
 over the Baltic was dispelled by the victory of Breitenfeld, and that of
 Lützen in 1632, and though Gustavus Adolphus fell in the last-named
 battle, he had saved north Germany from falling into the hands of the
@@ -3659,7 +3659,7 @@ was about to see Portugal regain its independence. The Protestant
 princes in the north of Germany were ready to ally with France and
 Sweden against the emperor, even the Catholic Bavarian duke was to prove
 a doubtful ally of the Habsburg house. In 1642 Richelieu and in 1643
-Louis XIII. died, but though Louis XIV. was an infant, and the French
+Louis XIII. died, but though Louis XIV. was an [[Infant|infant]], and the French
 nobles by their cabals hindered the work of the regency, Mazarin
 successfully carried out the anti-Habsburg policy of his predecessors
 and brought the war against Austria to a successful conclusion. (See
@@ -3726,7 +3726,7 @@ With the beginning of the personal rule of Louis XIV. in 1661, and the
 return of Charles II. to England in 1660, a new period in the history of
 personal monarchy in Europe began. At the time of the peace of
 Westphalia the monarchy in Europe was under a cloud. In England the
-cause of Charles I. was lost; in France the Fronde was holding its own
+cause of Charles I. was lost; in France the [[Fronde]] was holding its own
 against Mazarin; in Germany the princes had triumphed over the emperor;
 even in Russia the nobles were aiming at the curtailment of the power of
 the crown. But from 1660 it became evident that these attempts to secure
@@ -3745,7 +3745,7 @@ his personal rule lasted from 1661 to his death in 1715, and is known as
 "the age of Louis XIV." During that period France was the leading
 monarchy in Europe, and the most conspicuous not only in arms but also
 in all the arts of civilization. While Turenne, Luxemburg, Villars and
-many others exemplified, till the rise of Marlborough, the pre-eminence
+many others exemplified, till the rise of [[Marlborough]], the pre-eminence
 of French generals, Pascal, Racine, Corneille, Molière and Fénelon
 testified to the commanding position taken by France in the world of
 literature. The building of Versailles and the establishment of the
@@ -3807,7 +3807,7 @@ from England or from Spain, Louis prepared to carry out his schemes,
 with regard to the extension of his territory eastwards, at the expense
 of Germany. Simultaneously with Louis' aggressions in western Europe,
 the Turks had made an attempt to capture Vienna in 1683. Fortunately the
-efforts of the emperor Leopold, aided by John Sobieski, king of Poland,
+efforts of the emperor [[Leopold]], aided by John Sobieski, king of Poland,
 were successful, and the Turkish tide of conquest was gradually but
 successfully checked. It was not, however, till the accession of William
 III. to the English throne that the tide of French conquest in western
@@ -3836,14 +3836,14 @@ which led to the War of the Spanish Succession in 1702. That war
 continued till 1713, when the treaty of Utrecht, followed in 1714 by the
 treaties of Rastadt and Baden, ended a struggle which had many results
 of vital importance to Europe. Great Britain, strengthened by the
-possession of Gibraltar and Minorca, by her establishment in Canada, and
+possession of [[Gibraltar]] and Minorca, by her establishment in Canada, and
 by trading rights in South America, henceforward stood forth as a rising
 colonial power to whom the command of the sea was essential. Austria
 obtained not only Belgium, which she held till the French Revolution,
 but also a firm foothold in Italy, which she maintained till 1859. To
 Spain the war indirectly brought unexpected benefits. Freed from her
 expensive possessions in Belgium and Italy, and now ruled by a new
-dynasty, Spain, so far from meeting with the fate which later attended
+dynasty, Spain, so far from meeting with the [[Fate|fate]] which later attended
 Poland, entered upon a new period in her career, and throughout the 18th
 century showed considerable power of resistance to the colonial policy
 of Great Britain.
@@ -3856,7 +3856,7 @@ excellent settlement. Till 1740, although a few short wars took place,
 Europe as a whole enjoyed peace. But with the settlement of Utrecht
 Europe seemed to have lost all touch with the high ideals which
 occasionally, as in the career of Gustavus Adolphus, or in the English
-great rebellion, or in the defence of Vienna by John Sobieski, were met
+[[Great Rebellion|great rebellion]], or in the defence of Vienna by John Sobieski, were met
 with. The 18th century was marked by the dominance of a perverted system
 of the balance of power, which regarded such acts as the Prussian
 seizure of Silesia and the partition of Poland as justifiable on the
@@ -3876,7 +3876,7 @@ Succession War 1733-35 and the equally short war of 1737-39, in which
 Russia and Austria fought against Turkey, no general European struggle
 took place. That this was so was due in great measure to the alliance of
 1717 between Great Britain and France, to the subsequent peace policy
-upheld by Walpole, Fleury, Patiño and Horn (the English, French, Spanish
+upheld by Walpole, [[Fleury]], Patiño and [[Horn]] (the English, French, Spanish
 and Swedish ministers), to the hostility between the courts of Vienna
 and Madrid--only momentarily healed by the treaty of Vienna in 1725--and
 to the uncertain character of Russian politics.
@@ -3953,7 +3953,7 @@ recognized as the equal of Austria in Europe.
 The period from the close of the Seven Years' War to the French
 Revolution saw all the special characteristics and tendencies of the
 18th century in an accentuated form. Benevolent despotism found
-representatives not only in Frederick the Great and Maria Theresa, but
+representatives not only in Frederick the Great and [[Maria Theresa]], but
 also in Joseph II., Catherine II., Charles III. of Spain, and Leopold of
 Tuscany. Reforming ministers, too, flourished in the persons of Tanucci,
 Turgot, Squillaci, Florida Blanca, D'Aranda and many others. Instances,
@@ -4005,7 +4005,7 @@ Europe was, however, caused by the attempt of the Spaniards to annex
 Nootka Sound, and by the continuance of the war between Russia and
 Turkey. The former difficulty was, however, removed in November 1790 by
 an agreement between Great Britain and Spain, and in January 1792 Russia
-made the treaty of Jassy with Turkey.
+made the treaty of [[Jassy]] with Turkey.
 
 
   French Revolution, 1789.
@@ -4020,14 +4020,14 @@ battle of Waterloo. While the east of Europe was engaged in war, and
 while the Triple Alliance was busy attempting to restore peace to
 Europe, the French Revolution had broken out in 1789. The assistance
 given by France to the American colonists had brought the country to
-bankruptcy, and no course was left to Louis XVI. except to summon the
+[[Bankruptcy|bankruptcy]], and no course was left to Louis XVI. except to summon the
 states-general in May 1789. In that year a revolution against the
 reforms of Joseph II. had taken place in the Netherlands, and a
 revolution was being prepared in Poland for the overthrow of the
 aristocratic constitution and for the establishment of an hereditary
 monarchy. At first the revolution in France was entirely occupied with
 internal reforms, but after the dissolution of the Constituent Assembly
-in September 1791 the Girondists, whose influence became paramount,
+in September 1791 the [[Girondists]], whose influence became paramount,
 determined by the advice of Brissot to insist upon a policy of menace
 towards the Empire which would inevitably lead to war. War would, they
 hoped, result in the downfall of monarchy in France. On the other hand,
@@ -4046,8 +4046,8 @@ and Austria, and to the determination and patriotism of all classes in
 France, the allies were discomfited and the league of powers broken up
 in 1795, when the treaties of Basel were made. Only Great Britain,
 Austria and Sardinia remained in arms against France, which was till
-1799 ruled by the Directory. The next few years witnessed a series of
-most startling events. The successes of Napoleon Bonaparte in the
+1799 ruled by the [[Directory]]. The next few years witnessed a series of
+most startling events. The successes of Napoleon [[Bonaparte]] in the
 Italian campaigns of 1797 and 1798 led to the peace of Cherasco with
 Sardinia, and the peace of Campo Formio with Austria. Only Great
 Britain remained at war with France. In 1799, taking advantage of the
@@ -4058,7 +4058,7 @@ forced to retire from Holland. The return of Napoleon from Egypt was
 followed by the establishment of the Consulate in November 1799, by the
 overthrow of the Austrians at Marengo and Hohenlinden, by the treaty of
 Lunéville with the emperor, and by the treaty of Amiens in 1802 with the
-English government. (See FRENCH REVOLUTIONARY WARS.)
+English government. (See [[French Revolutionary Wars|FRENCH REVOLUTIONARY WARS]].)
 
 
   The German Revolution.
@@ -4070,7 +4070,7 @@ in Germany. The Holy Roman Empire had become an anachronism, and as soon
 as France became possessed of the left bank of the Rhine it was obvious
 that the imperial constitution required revision. The jealousies
 existing among the German princes and the overthrow of Austria at
-Austerlitz enabled Napoleon to carry out a revolution in Germany
+[[Austerlitz]] enabled Napoleon to carry out a revolution in Germany
 according to his own ideas. At first, in 1804, new arrangements were
 made with regard to the character and formation of the diet. The
 constitution of that assembly was so altered that a Protestant majority
@@ -4101,7 +4101,7 @@ and Austria and Prussia trampled under foot by Napoleon that a strong
 national spirit in Germany was evoked. Until the treaty of Tilsit had
 been signed in 1807 there was no visible growth of a national uprising
 in any part of Europe. During the intervening years Prussia had been
-crushed at Jena and her kingdom cut short (1806), while Alexander I. of
+crushed at [[Jena]] and her kingdom cut short (1806), while Alexander I. of
 Russia, after a fierce campaign against Napoleon, had agreed in 1807 to
 the treaty of Tilsit, which apparently placed Europe at the feet of
 France and Russia. Napoleon was, as he thought, now in a position to
@@ -4126,9 +4126,9 @@ first Austria in 1809 and then Russia in 1812 offered an active
 resistance to his projects. The first note of opposition to Napoleon's
 plans was struck by Canning, when in 1807 he carried off the Danish
 fleet to England. Then the British fleet conveyed to Brazil in safety
-the Portuguese royal family when Portugal was invaded by Junot, while
+the Portuguese royal family when Portugal was invaded by [[Junot]], while
 the surrender of 30,000 French troops at Baylen in July 1808, which was
-followed in August by the convention of Cintra, indicated that Spanish
+followed in August by the convention of [[Cintra]], indicated that Spanish
 patriotism was, when roused, as effective as in the days of the Spanish
 Succession War. Austria was the first country to follow the example of
 Spain, and though she was defeated at Wagram and forced to accept
@@ -4204,9 +4204,9 @@ bartered one against the other.
 
 This process of "dividing the spoils," as Gentz called it, was naturally
 pregnant with possibilities of quarrels. Of these the most dangerous was
-that provoked by the resolution of the emperor Alexander I. at all costs
+that provoked by the resolution of the emperor Alexander I. at all [[Costs|costs]]
 to keep the former grand-duchy of Warsaw for himself, while compensating
-Prussia for the loss of some of her Polish territories by the annexation
+Prussia for the loss of some of her Polish territories by the [[Annexation|annexation]]
 to her of all Saxony. The deadlock caused by the stubborn insistence on
 this plan, which the other great powers were equally determined to
 frustrate, all but led to war, and by a secret treaty signed on the 3rd
@@ -4254,7 +4254,7 @@ large accession of territory in the Rhine provinces, carved partly out
 of the suppressed kingdom of Westphalia, partly out of the former
 ecclesiastical states, and comprising the imperial city of
 Aix-la-Chapelle and the former electorate of Cologne. To Prussia also
-was conceded the right to garrison the federal fortress of Luxemburg.
+was conceded the right to [[Garrison|garrison]] the federal fortress of Luxemburg.
 
 Of the other German states, Bavaria, which alone was sufficiently
 powerful to be of any great importance in the general affairs of Europe,
@@ -4277,7 +4277,7 @@ against the dictatorship of the great powers to which she was forced to
 submit. Finally, the electorate of Hanover, partly out of compliment to
 the king of Great Britain, partly because with the abolition of the Holy
 Empire the title elector had fallen obsolete, was elevated to a kingdom.
-The request of the elector of Hesse for a similar concession in his case
+The request of the elector of [[Hesse]] for a similar concession in his case
 was refused by the powers assembled at Aix-la-Chapelle in 1818.
 
 Of great importance were the changes effected in the north and east of
@@ -4295,7 +4295,7 @@ possessions of Austria and Prussia by setting up a quasi-independent
 Poland as a centre of attraction to the scattered elements of the Polish
 nation; though in the sequel the establishment of the city of Cracow and
 its territory as an independent republic, to avoid the difficult
-question of its assignment elsewhere, proved a more fruitful source of
+question of its [[Assignment|assignment]] elsewhere, proved a more fruitful source of
 nationalist unrest. In the north the settlement confirmed by the
 congress marked the definite withdrawal of the Scandinavian Powers from
 any active influence on the affairs of the continent. Alone of the
@@ -4305,16 +4305,16 @@ added. On the other hand, by the cession of Swedish Pomerania to
 Prussia, Sweden finally withdrew from the southern shores of the Baltic.
 The Scandinavian states ceased henceforth to play any determining part
 in European politics. In the south, on the other hand, the restoration
-of Savoy and Piedmont to Victor Emmanuel I., king of Sardinia, and the
+of Savoy and Piedmont to Victor [[Emmanuel]] I., king of Sardinia, and the
 incorporation in his dominions of the territories of the former republic
 of Genoa, were factors pregnant with mighty issues. The object of this
 increase of the power of the house of Savoy was but to erect a barrier
 against any possible renewal of French aggression in Italy; in effect it
 established the nucleus of the power which was to struggle successfully
-with Austria for the hegemony of Italy.
+with Austria for the [[Hegemony|hegemony]] of Italy.
 
 The gains of Great Britain in Europe were comparatively small, though by
-no means unimportant. By the retention of Malta she secured her power in
+no means unimportant. By the retention of [[Malta]] she secured her power in
 the Mediterranean, and this was further increased by the treaty of Paris
 (November 5, 1815), by which the powers recognized her protectorate over
 the Ionian Islands. (See VIENNA, CONGRESS OF.)
@@ -4322,7 +4322,7 @@ the Ionian Islands. (See VIENNA, CONGRESS OF.)
 
   The powers and France.
 
-But for the episode of the Hundred Days, France would have emerged from
+But for the episode of the [[Hundred Days]], France would have emerged from
 the congress with recovered prestige and mistress of at least some of
 the territorial gains of the revolutionary wars; though Napoleon had
 thrown away, during the negotiations at Châtillon, the chance of
@@ -4343,18 +4343,18 @@ her "national frontiers" was to bear troublesome fruit later.
 That the treaties embodied in the Final Act of Vienna represented a
 settlement of all outstanding questions was believed by nobody. They had
 been negotiated for weary months in an atmosphere of diplomatic and
-feminine intrigue; they had been concluded in a hurry, under the
+feminine intrigue; they had been concluded in a [[Hurry|hurry]], under the
 influence of the panic caused by Napoleon's return from Elba. To
-Friedrich von Gentz they were at best but "partial arrangements," useful
+[[Friedrich]] von Gentz they were at best but "partial arrangements," useful
 as forming an authoritative basis for the establishment of a more
 complete and satisfactory system. The history of the international
 politics of Europe for the years immediately succeeding the congress of
 Vienna is that of the attempt to establish such a system.
 
 
-  Treaty of Nov. 20, 1815, and the Concert of Europe.
+  Treaty of Nov. 20, 1815, and the [[Concert]] of Europe.
 
-  The Holy Alliance.
+  The [[Holy Alliance]].
 
   England and the Concert.
 
@@ -4381,7 +4381,7 @@ commonly but erroneously applied. The Holy Alliance, drawn up by the
 emperor Alexander I., and signed by him, the emperor Francis, and King
 Frederick William III. of Prussia on the 26th of September 1815,
 represented a different and conflicting ideal. Actually it was not a
-treaty at all, but at best a declaration of principles to which any
+treaty at all, but at best a [[Declaration|declaration]] of principles to which any
 Christian could subscribe, at worst--to quote Castlereagh--"a piece of
 sublime mysticism and nonsense" from the political point of view (see
 HOLY ALLIANCE). It gained its sole political importance from the
@@ -4440,7 +4440,7 @@ reversion of the Italian duchies held by the empress Marie Louise.
 
 Meanwhile the balance of forces within the European concert had shown a
 tendency to shift. At the outset the restless activity of the emperor
-Alexander, his incalculable idealism, and his hardly veiled ambitions
+Alexander, his incalculable [[Idealism|idealism]], and his hardly veiled ambitions
 had drawn Austria and Great Britain together in common suspicion of an
 influence that threatened to be little less disturbing to the world's
 peace than that of Napoleon. But at Aix Metternich had begun to realize
@@ -4451,7 +4451,7 @@ fettered as she was by constitutional forms; while Alexander, alarmed at
 the discovery of revolutionary plots against his person, had already
 shown gratifying signs of repentance. The "Jacobin" propaganda of the
 tsar's agents continued, it is true, especially in Italy; and, in spite
-of the murder of the dramatist Kotzebue, as a Russian emissary, by the
+of the murder of the dramatist [[Kotzebue]], as a Russian emissary, by the
 fanatical "Bursche" Karl Sand, Alexander joined with Castlereagh in
 protesting against the reactionary policy embodied in the Carlsbad
 Decrees of October 1819. But the murder of the duke of Berri on the 13th
@@ -4572,7 +4572,7 @@ development seemed wholly welcome. He applied to the rivalry of states
 the Liberal principle of free competition as the sole condition of
 healthy growth. "Villèle is a minister of thirty years ago," he wrote to
 Bagot on the 3rd of January 1823, "no revolutionary scoundrel: but
-constitutionally hating England, as Choiseul and Vergennes used to hate
+constitutionally hating England, as [[Choiseul]] and Vergennes used to hate
 us, and so things are getting back to a wholesome state again. Every
 nation for itself, and God for us all." But the essential difference
 between the rivalries of the 18th and 19th centuries was in the
@@ -4585,7 +4585,7 @@ to suit its own ideals was as foreign to him as to Metternich. Yet this
 principle of nationality, which was destined during the 19th century to
 wreck the political structure consecrated at Vienna, and to leave to the
 succeeding age a host of unsolved and insoluble problems, found in
-Canning its earliest champion in the higher councils of Europe. The
+Canning its earliest [[Champion|champion]] in the higher councils of Europe. The
 recognition of the independence of the South American republics and of
 the belligerent rights of the Greek insurgents were both in the first
 instance motived by the particular interests of Great Britain; but they
@@ -4601,7 +4601,7 @@ continue till the face of Europe had been transformed.
   Revolutions of 1830.
 
 This in fact constitutes the main significance for Europe of the War of
-Greek Independence, which lasted from the first rising of the Greeks in
+[[Greek Independence]], which lasted from the first rising of the Greeks in
 the Morea in 1821 till the signature of the treaty of London on the 7th
 of May 1832 (see GREEK INDEPENDENCE, WAR OF; TURKEY: _History_). Its
 actual outcome, so far as the political structure of Europe was
@@ -4614,7 +4614,7 @@ there was no difference between the Greek insurgents and any other
 "rebels against legitimate authority," and the Liberals of all Europe,
 forced into inactivity by the Austrian police system, hailed in the
 Greeks the champions of their own cause. Philhellenism, beyond its
-proper enthusiasm, served as a convenient veil for agitations that had
+proper [[Enthusiasm|enthusiasm]], served as a convenient veil for agitations that had
 little concern with Greece. Other forces making for political change
 were simultaneously at work. The peace secured by the concert of the
 powers had given free play to the mechanical and industrial innovations
@@ -4705,7 +4705,7 @@ vassalage of the sultan to the tsar. But when, in 1832, Sultan Mahmud
 appealed in his despair to the emperor Nicholas to save him from ruin at
 the hands of the Egyptian rebels, and, as the result, the treaty of
 Unkiar Skelessi (July 8, 1833) seemed to place definitely in the hands
-of Russia the keys of the Black Sea, it was left to France and Great
+of Russia the [[Key|keys]] of the Black Sea, it was left to France and Great
 Britain to give voice to the protest of Europe. Austria, alarmed by the
 revolutionary movements of 1830, accepted the fact of Russian
 preponderance at Constantinople, rather than risk a breach with the
@@ -4732,7 +4732,7 @@ powers as an act of hostility directed against all of them.
 This reconstitution of the "Holy Alliance" on a narrower basis was the
 work of the emperor Nicholas, whose masterful personality had by this
 time quite overshadowed the influence of Metternich in the councils of
-the autocratic powers. There was no formal breach of the Grand Alliance;
+the autocratic powers. There was no formal breach of the [[Grand Alliance]];
 the "treaties" remained in force; but the French revolution of 1830 had
 produced a practical disruption which was every day accentuated by the
 attitude of the British government under the influence of Palmerston.
@@ -4749,7 +4749,7 @@ under the Pragmatic Sanction, his daughter Isabella succeeded under the
 regency of Queen Christina; in July, Dom Miguel, the absolutist
 pretender to the throne of Portugal, had made himself master of Lisbon.
 In Spain Don Carlos, Ferdinand's brother, claimed the crown as the
-legitimate heir, and began the long agony of the Carlist wars; in
+legitimate [[Heir|heir]], and began the long agony of the Carlist wars; in
 Portugal the constitutionalists upheld in arms the rights of Queen Maria
 da Gloria (see SPAIN and PORTUGAL). Carlists and Miguelists, making
 common cause, had the moral support of the allies of Münchengrätz; while
@@ -4781,7 +4781,7 @@ good hope to work for its destruction. The fears roused by the Reform
 Act of 1832 had been belied by its results; the conservative temper of
 the British electorate had restored to Great Britain the prestige of a
 legitimate power; and the pledge of the tsar's renewed confidence and
-goodwill was the visit of the cesarevich (afterwards the emperor
+[[Goodwill|goodwill]] was the visit of the cesarevich (afterwards the emperor
 Alexander II.) to the English court in 1839. This was not without its
 effect on the public sentiment; but the triumph of the tsar's diplomacy
 was due to fresh complications in the Eastern question, due to the
@@ -4814,7 +4814,7 @@ stress upon their sanctity. The _entente_ between the two Liberal powers
 had been patched up after the closure of the Egyptian Question; it was
 cemented by visits of Queen Victoria and the prince consort to the
 Chateau d'Eu (1843 and 1845), and of King Louis Philippe to Windsor
-(1844); and it survived, in spite of several causes of friction, notably
+(1844); and it survived, in spite of several causes of [[Friction|friction]], notably
 the crisis in Morocco (q.v.), until 1846, when the affair of the Spanish
 Marriages brought it to a somewhat dramatic conclusion.
 
@@ -4831,7 +4831,7 @@ more than a breach of faith with Great Britain (how deeply it was
 resented may be learnt from Queen Victoria's letters); it was a breach
 of faith with the revolution that had made him king. Since 1840, indeed,
 the whole tendency of the king's policy had been to revert to the
-traditional standpoint of the Bourbons; internally, "resistance" to the
+traditional standpoint of the [[Bourbon|Bourbons]]; internally, "resistance" to the
 growing claims of the democracy; externally, dynastic ambition. But in
 endeavouring to win the goodwill of the reactionary powers he only
 succeeded in losing that of the classes of his own people on which his
@@ -4881,10 +4881,10 @@ the inherent rottenness was now revealed, involved that of those
 reactionary powers which had leaned upon it. One by one they accepted
 what seemed to be the inevitable; even Pope Pius IX. sent troops to
 fight under the banner of St Peter for the Italian cause; while in
-Berlin Frederick William IV., wrapped in the gold and black colours of
+Berlin Frederick William IV., wrapped in the gold and black [[Colours|colours]] of
 imperial Germany, posed as the leader of "the glorious German
 revolution." When, on the 18th of May, the parliament of United Germany
-was opened at Frankfort, it seemed as though pan-German dreams were on
+was opened at Frankfort, it seemed as though pan-German [[Dream|dreams]] were on
 the threshold of realization; while in Italy, early in the same month,
 Lombardy, Modena, Parma and Piacenza declared by plebiscites for
 incorporation in the north Italian kingdom, Venice following suit on the
@@ -4923,13 +4923,13 @@ Thus, from the chaos of warring races, the old order began slowly to
 reappear. So early as the 15th of June 1848 Prince Windischgrätz had
 restored order in Prague and received the thanks of the Frankfort
 parliament; on the 25th of July Radetzky's victory at Custozza set free
-the imperialist army in Italy; on the 4th of September Jellachich, ban
+the imperialist army in Italy; on the 4th of September Jellachich, [[Ban|ban]]
 of Croatia, invaded Hungary in the name of the united empire; on the 1st
 of November Windischgrätz entered democratic Vienna. The alliance of the
 army and the Slav races had won the victory over German democracy. The
 combating of Hungarian nationalism proved a longer and a harder task;
 but the Austrian victory of Kapolna (February 26-27, 1849) encouraged
-Schwarzenberg to dissolve the rump of the _Reichsrath_ at Kremsier and
+Schwarzenberg to dissolve the rump of the _Reichsrath_ at [[Kremsier]] and
 proclaim a new constitution for the whole empire, including Hungary. The
 Magyar victories that followed issued in the proclamation, on the 14th
 of April, of the independence of Hungary. But though the Austrian arms
@@ -4950,7 +4950,7 @@ armies and handed over, without _quid pro quo_, to her legitimate king.
 
   Prussia and Austria. Convention of Olmütz, 1850.
 
-Görgei's capitulation of Világos (August 14, 1849) cleared the ground
+Görgei's [[Capitulation|capitulation]] of Világos (August 14, 1849) cleared the ground
 for the complete restoration of the system destroyed by the March
 revolutions of the year before. The refusal of Frederick William IV. of
 Prussia to accept the imperial crown (April 21,1849) had already
@@ -4977,10 +4977,10 @@ the cracks in the structure of the European system had--to use
 Bismarck's phrase applied to another occasion--only been "papered over";
 and soon ominous rents revealed the fact that the forces that had
 threatened it with sudden ruin were still at work. One fateful breach in
-the treaties had, indeed, been accepted as beyond repair; when the dust
+the treaties had, indeed, been accepted as beyond repair; when the [[Dust|dust]]
 of the revolutionary turmoil was at length laid a Bonaparte was once
 more firmly seated on the throne of France. The emperor Nicholas,
-watching from the calm of Russia, had realized all that the recognition
+watching from the [[Calm|calm]] of Russia, had realized all that the recognition
 of this fact would involve; he had proposed to set in motion the
 somewhat rusty machinery of the Grand Alliance, but the other autocratic
 powers were in no case to support a legitimist crusade, and when
@@ -5001,7 +5001,7 @@ Liberalism to the horrors of unrestricted competition, had begun to
 organize itself in a movement, of which the catchword was "the right to
 work" and the banner the red flag of the socialist commune. The reign of
 Charles X. had been the _reductio ad absurdum_ of the principle of
-legitimacy; that of Louis Philippe had discredited for ever government
+[[Legitimacy|legitimacy]]; that of Louis Philippe had discredited for ever government
 based solely on the _bourgeoisie_; the socialistic experiments of 1848
 in Paris had collapsed amid the anarchy and bloodshed of the June days.
 At this opportune moment Louis Napoleon Bonaparte proclaimed to the
@@ -5042,7 +5042,7 @@ the European nations not only materially but morally closer together.
 The first universal exhibition, opened under the auspices of the prince
 consort at London in 1851, was intended to advertise and consecrate the
 dawn of a new era of international peace and goodwill. The Crystal
-Palace at Sydenham, once hailed as the "bright Koh-i-nur of the West,"
+Palace at Sydenham, once hailed as the "[[Bright|bright]] Koh-i-nur of the West,"
 remains the dismal monument of a hope so soon to be belied by the hard
 logic of events. For no period since 1815 has been so occupied with wars
 and the rumours of war as the twenty years that followed the opening of
@@ -5057,7 +5057,7 @@ One question, that of the ultimate destination of the duchies of
 Schleswig and Holstein, which threatened the tranquillity of the West,
 was temporarily settled by the conference of London in 1852 (see
 SCHLESWIG-HOLSTEIN QUESTION). But about the same time anxious watchers
-noticed on the political horizon in the East a cloud, no bigger than a
+noticed on the political [[Horizon|horizon]] in the East a cloud, no bigger than a
 man's hand, that threatened a serious storm. At first this was no more
 than a quarrel between Greek and Latin monks about the custody of
 certain holy places and things in Palestine. It soon, however, became
@@ -5076,7 +5076,7 @@ consequent danger to the British empire in India. It is now generally
 conceded that, so far as these objects were concerned, the war was a
 tragic mistake. The hopes that were built on the capacity of Turkey to
 reform itself were disappointed; the restrictions imposed upon Russia
-were repudiated at the first opportunity, during the Franco-German War
+were repudiated at the first opportunity, during the [[Franco-German War]]
 in 1870; and the results of the Russo-Turkish War of 1876 have shown
 that a far more effective barrier against Russia than the weakened
 Ottoman empire has been furnished by the young and vigorous national
@@ -5133,7 +5133,7 @@ the Austrians out of Lombardy and established the nucleus of the Italian
 kingdom was the beginning of a process which, within twelve years, was
 to change the balance of Europe. It was ominous of the future that it
 was largely the menace of Prussian intervention that persuaded Napoleon
-to conclude the armistice of Villafranca (July 11, 1859), which,
+to conclude the [[Armistice|armistice]] of Villafranca (July 11, 1859), which,
 contrary to his agreement with Victor Emmanuel, left Venice to the
 Austrians. In spite of the peace of Zürich (November 10), indeed, the
 union of Italy continued during the succeeding years, and Savoy and Nice
@@ -5249,7 +5249,7 @@ the French emperor's cause in the eyes of Europe.
 
 Meanwhile public feeling in France had become seriously excited by this
 sudden menace of a hostile power on her eastern frontier, and this
-excitement was raised to fever heat when it became known that the vacant
+excitement was raised to [[Fever|fever]] heat when it became known that the vacant
 throne of Spain had been offered to and accepted by a prince of the
 house of Hohenzollern. Napoleon's policy had become hopelessly
 discredited by the successive fiascos in Poland, Mexico and Germany, and
@@ -5278,7 +5278,7 @@ The story of the struggle that followed is told elsewhere (see
 FRANCO-GERMAN WAR). The hopes that Napoleon had based on the action of
 the South German courts was belied; and the first crushing German
 victories (Weissenburg, August 4, and Wörth, August 6) not only removed
-all chance of Austrian co-operation but brought down with a crash the
+all chance of Austrian [[Co-Operation|co-operation]] but brought down with a [[Crash|crash]] the
 imposing facade of the Second Empire. On the 2nd of September Napoleon
 surrendered, with his army, at Sedan; and two days later the Empire was
 overthrown and a provisional republican government set up at Paris. On
@@ -5288,7 +5288,7 @@ palace of Versailles, William I., king of Prussia, was proclaimed German
 emperor. On the 26th of February were signed the preliminaries of peace,
 by which France agreed to cede to the German empire Alsace (except
 Belfort and its territory) and German Lorraine, with Metz and Thionville
-(Diedenhofen), and to pay a war indemnity of five milliards of francs
+([[Diedenhofen]]), and to pay a war [[Indemnity|indemnity]] of five milliards of [[Franc|francs]]
 (£200,000,000) in three years, to be secured by the occupation of French
 territory. The definitive treaty was signed at Frankfort-on-Main on the
 10th of May 1871.
@@ -5311,16 +5311,16 @@ ceded to it the city and territory of Venice, thus surrendering the
 traditional claim of the Habsburgs to domination in Italy. This was
 followed in 1867 by the establishment of the Dual Monarchy in the
 Habsburg dominions under the auspices of Bismarck's rival, Count
-Beust,--Francis Joseph being crowned king of Hungary, and a separate
+[[Beust]],--Francis Joseph being crowned king of Hungary, and a separate
 constitution being established for Hungary and the _Cis-Leithan_
 dominions of the Austrian emperor (see AUSTRIA: _History_). In Italy,
 meanwhile, the unification of the kingdom had continued after the
 conclusion of the war of 1859 by the treaty of Zürich. In 1860 Tuscany,
 Parma and Modena were united to the monarchy of Victor Emmanuel, at the
 cost of the cession of Nice and Savoy to Napoleon. In May of the same
-year Garibaldi and his "Thousand" landed in Sicily, which he reduced by
+year [[Garibaldi]] and his "Thousand" landed in Sicily, which he reduced by
 the end of June; in August he crossed to the mainland, and the
-capitulation of Francis II. of the Two Sicilies at Gaeta on the 13th of
+capitulation of Francis II. of the Two Sicilies at [[Gaeta]] on the 13th of
 February 1861 ended the Bourbon kingdom in southern Italy. On the 17th
 of March Victor Emmanuel II. was proclaimed king of United Italy. This
 title, as mentioned above, was recognized by Austria in 1866, when Italy
@@ -5343,7 +5343,7 @@ sanction as in former times." The action of Russia was, in fact, a
 practical illustration of Bismarck's _dicta_ that "_rebus sic stantibus_
 is involved in all treaties that require performance" (_Mem_. ii. 280),
 and that "_ultro posse nemo obligatur_ holds good in spite of all treaty
-obligations whatsoever, nor can any treaty guarantee the discharge of
+obligations whatsoever, nor can any treaty guarantee the [[Discharge|discharge]] of
 obligations when the private interest of those who lie under them no
 longer reinforces the text" (ib. ii. 270). Great Britain did her best to
 counteract a doctrine so subversive of international confidence. For a
@@ -5377,14 +5377,14 @@ order of things.
 
   Russian policy towards Germany.
 
-With regard to Russia there was little cause for apprehension. She had
+With regard to Russia there was little cause for [[Apprehension|apprehension]]. She had
 aided Bismarck to carry out his audacious schemes in the past, and there
 was no reason to suppose that she would change her policy in the
 immediate future. The _rapprochement_ dated from the Polish insurrection
 of 1863, when the governments of France and England, yielding to popular
 excitement, made strong diplomatic representations to Russia in favour
 of the Poles, whereas Bismarck not only refused to join in the
-diplomatic campaign, but made a convention with the cabinet of St
+diplomatic campaign, but made a convention with the [[Cabinet|cabinet]] of St
 Petersburg by which the Russian and German military authorities on the
 frontiers should aid each other in suppressing the disturbances. From
 that time the friendship ripened steadily. The relations between the two
@@ -5399,7 +5399,7 @@ Franco-German War of 1870-71 Russia maintained an extremely benevolent
 neutrality, and prevented Austria and Italy from taking part in the
 struggle. So benevolent was the neutrality that the emperor William at
 the end of the campaign felt constrained to write to the tsar that he
-owed to His Majesty the happy issue of the campaign and would never
+owed to His [[Majesty]] the happy issue of the campaign and would never
 forget the fact. Having thus helped to create the German empire,
 Alexander II. was not likely to take an active part in destroying it,
 and Bismarck could look forward confidently to a long continuance of the
@@ -5440,7 +5440,7 @@ Confederation." For this purpose he tried to soothe Austrian
 susceptibilities, and suggested confidentially that compensation for the
 losses of territory, influence and prestige in Italy and Germany might
 be found in south-eastern Europe, especially by the acquisition of
-Bosnia and Herzegovina; but so long as his rival Count Beust was
+[[Bosnia And Herzegovina|Bosnia and Herzegovina]]; but so long as his rival Count Beust was
 minister for foreign affairs in Vienna, and Austria had the prospect of
 being able to recover her lost position by the assistance of Russia and
 France, these efforts had no success. It was only when Prince Gorchakov
@@ -5552,7 +5552,7 @@ measure his hatred of Austria, which had distorted for so many years his
 political vision, he had come to understand that it was not for the
 interests of his own country to have as neighbour a powerful united
 Germany instead of a weak confederation of small states, and he now
-perceived that it would be a grave error of policy to allow Germany to
+perceived that it would be a grave [[Error|error]] of policy to allow Germany to
 destroy still more to her own advantage the balance of power in Europe
 by permanently weakening France. No doubt he desired to recover the lost
 portion of Bessarabia and to raise Russian prestige in the East, but he
@@ -5584,17 +5584,17 @@ thus averted, but the incident sowed the seeds of future troubles, by
 awakening in Bismarck a bitter personal resentment against his Russian
 colleague. By certain incautious remarks to those around him, and still
 more by a circular to the representatives of Russia abroad, dated Berlin
-and beginning with the words _maintenant la paix est assurée_, Gorchakov
-seemed to take to himself the credit of having checkmated Bismarck and
+and beginning with the words _maintenant la paix est [[Assur|assur]]ée_, Gorchakov
+seemed to take to himself the [[Credit|credit]] of having checkmated Bismarck and
 saved Europe from a great war. Bismarck resented bitterly this conduct
 on the part of his old friend, and told him frankly that he would have
 reason to regret it. In the Russian official world it is generally
 believed that he took his revenge in the Russo-Turkish War and the
 congress of Berlin. However this may be, he has himself explained that
 "the first cause of coldness" was the above incident, "when Gorchakov,
-aided by Decazes, wanted to play at my expense the part of a saviour of
+aided by [[Decazes]], wanted to play at my expense the part of a saviour of
 France, to represent me as the enemy of European peace, and to procure
-for himself a triumphant _quos ego_ to arrest by a word and shatter my
+for himself a triumphant _quos ego_ to [[Arrest|arrest]] by a word and shatter my
 dark designs!" In any case the incident marks the beginning of a new
 phase in the relations of the three powers; henceforth Bismarck can no
 longer count on the unqualified support of Russia, and in controlling
@@ -5609,7 +5609,7 @@ cloud no bigger than a man's hand.
 
   Austro-Russian agreement, 1876.
 
-The next move in the aggressive game was made by Austria, with the
+The next move in the aggressive [[Game|game]] was made by Austria, with the
 connivance of Russia. During the summer of 1875 an insurrection of the
 Christian Slavs in Herzegovina, which received support from the
 neighbouring principalities of Montenegro and Servia, was fostered by
@@ -5623,7 +5623,7 @@ war against the Porte. Thereupon Russia began to show her hand more
 openly. The government allowed volunteers to be recruited in Moscow and
 St Petersburg, and the Russian general Chernayev, who had distinguished
 himself in Central Asia, was appointed to the command of the Servian
-army. When the ball had thus been set rolling, the two powers chiefly
+army. When the [[Ball|ball]] had thus been set rolling, the two powers chiefly
 concerned considered that the time had come for embodying the result of
 their informal confidential pourparlers in a secret agreement, which is
 known as the convention of Reichstadt, because it was signed at a
@@ -5737,7 +5737,7 @@ bear on the cabinet of Vienna.
 
   Berlin Congress.
 
-  Cyprus Convention.
+  [[Cyprus]] Convention.
 
 Deceived in her expectations of active support from her two allies,
 Russia found herself in an awkward position. From a military point of
@@ -5766,7 +5766,7 @@ these principalities received a considerable accession of territory.
 Rumania, however. in return for the Dobrudja, which it professed not to
 desire, was obliged to give back to Russia the portion of Bessarabia
 ceded after the Crimean War. In Asia Minor Russia agreed to confine her
-annexations to the districts of Kars, Ardahan and Batum, and to restore
+annexations to the districts of [[Kars]], Ardahan and [[Batum]], and to restore
 to Turkey the remainder of the occupied territory. As a set-off against
 the large acquisitions of the Slav races, the powers recommended that
 the sultan should cede to the kingdom of Greece the greater part of
@@ -5810,14 +5810,14 @@ imposed on her by the war, and her dissatisfaction led to a new grouping
 of the powers. Before the opening of the Berlin congress Bismarck had
 announced publicly that he would refrain from taking sides with any of
 the contending parties, and would confine himself to playing the part of
-an honest broker. The announcement was received by the Russians with
+an honest [[Broker|broker]]. The announcement was received by the Russians with
 astonishment and indignation. What they expected was not an impartial
 arbiter, but a cordial and useful friend in need. In 1871 the emperor
 William, as we have seen, had spontaneously declared to the tsar that
 Germany owed to His Majesty the happy issue of the war, and that she
 would never forget it, and we may add that on that occasion he signed
 himself "Your ever grateful Friend." Now, in 1878, when the moment had
-come for paying at least an instalment of this debt, and when Russia was
+come for paying at least an [[Instalment|instalment]] of this [[Debt|debt]], and when Russia was
 being compelled to make concessions which she described as incompatible
 with her dignity, Bismarck had nothing better to offer than honest
 brokerage. The indignation in all classes was intense, and the views
@@ -5855,10 +5855,10 @@ the Russian view. After an exhausting war and without a single powerful
 ally, Russia was not likely to provoke wantonly a great war with Germany
 and Austria. The press attacks were not more violent than those which
 frequently appear in newspapers which draw their inspiration from the
-German foreign office, and the accusations about the arrogant attitude
+German [[Foreign Office|foreign office]], and the accusations about the arrogant attitude
 and menacing tone of Alexander II. are not at all in harmony with his
 known character, and are refuted by the documents since published by Dr
-Busch. The truth seems to be that the self-willed chancellor was
+[[Busch]]. The truth seems to be that the self-willed chancellor was
 actuated by nervous irritation and personal feeling more than by
 considerations of statecraft. His imperial master was not convinced by
 his arguments, and showed great reluctance to permit the conclusion of a
@@ -5913,7 +5913,7 @@ central and southern Italy, and that he obtained Savoy and Nice as the
 price of partly withdrawing his opposition. Subsequently, in the war of
 1866, he was supposed to have insulted Italy by making her conclude
 peace with Austria, on the basis of the cession of Venetia, before she
-could wipe out the humiliation of her defeats at Custozza and Lissa.
+could wipe out the humiliation of her defeats at Custozza and [[Lissa]].
 Then came the French protection of the pope's temporal power as a
 constant source of irritation, producing occasional explosions of
 violent hostility, as when the new Chassepot rifles were announced to
@@ -5972,7 +5972,7 @@ might prevent the conclusion of a commercial treaty with France, and
 thereby increase the financial and economic difficulties with which the
 young kingdom was struggling, whereas a _rapprochement_ with France
 would certainly excite the hostility of Bismarck, who was retiring from
-the _Kulturkampf_ and journeying towards Canossa, and who might possibly
+the _Kulturkampf_ and journeying towards [[Canossa]], and who might possibly
 conciliate the pope by helping him to recover his temporal sovereignty
 at the expense of Italy. Altogether the problem was a very complicated
 one. The conflicting currents so nearly balanced each other, that the
@@ -5988,7 +5988,7 @@ convention with the sultan for the British occupation of Cyprus, and in
 order to calm its resentment Lord Salisbury gave M. Waddington to
 understand that, so far as England was concerned, France would be
 allowed a free hand in the Regency of Tunis, which she had long coveted.
-Though the conversations on the subject and a subsequent exchange of
+Though the conversations on the subject and a subsequent [[Exchange|exchange]] of
 notes were kept strictly secret, the Italian government soon got wind of
 the affair, and it was at first much alarmed. It considered, in common
 with Italians generally, that Tunis, on the ground of historic right and
@@ -6068,9 +6068,9 @@ continuance of the Nihilist agitation, and was not averse from drawing
 closer to the conservative powers; and as he desired tranquillity for
 some time in the Balkan Peninsula, he was glad to have security that his
 rival would do nothing in that part of the world without a previous
-understanding. M. de Giers, who had now succeeded Prince Gorchakov in
+understanding. M. de [[Giers]], who had now succeeded Prince Gorchakov in
 the direction of foreign affairs, was accordingly despatched to
-Friedrichsruh to discuss the subject with Bismarck. The practical result
+Friedrichsruh to [[Discus|discuss]] the subject with Bismarck. The practical result
 of the meeting was that negotiations between the two governments were
 begun, and on the 21st of March 1884 a formal document was signed in
 Berlin. About six months later, in the month of September, the three
@@ -6150,7 +6150,7 @@ government. Following the example of the Servians, the Greeks were
 preparing to exact territorial compensation likewise; but as their
 mobilization was a slow process, the powers had time to restrain them
 from entering on active hostilities, first by an ultimatum (April 26,
-1886), and afterwards by a blockade of their ports (May 1886). By that
+1886), and afterwards by a [[Blockade|blockade]] of their ports (May 1886). By that
 time, thanks to the intervention of the powers, a peace between Bulgaria
 and Servia had been signed at Bucharest (March 3); and with regard to
 Eastern Rumelia a compromise had been effected by which the formal union
@@ -6180,7 +6180,7 @@ Stambolof's political organization counteracted all his efforts, and on
 the 20th of November he left Bulgaria and took the Russian consuls with
 him. Stambolof maintained his position, suppressed energetically several
 insurrectionary movements, and succeeded in getting Prince Ferdinand of
-Coburg elected prince (July 7, 1887), in spite of the opposition of
+[[Coburg]] elected prince (July 7, 1887), in spite of the opposition of
 Russia, who put forward as candidate a Russian subject, Prince Nicholas
 of Mingrelia. Prince Ferdinand was not officially recognized by the
 sultan and the powers, but he continued to reign under the direction of
@@ -6205,7 +6205,7 @@ encouraging the opposition to Russian influence. This revived the hatred
 against him which had been created by his pro-Austrian leanings after
 the Russo-Turkish War. The feeling was assiduously fomented by the
 Russian press, especially by M. Katkoff, the editor of the _Moscow
-Gazette_, who exercised great influence on public opinion and had
+[[Gazette]]_, who exercised great influence on public opinion and had
 personal relations with Alexander III. On the 31st of July 1886, three
 weeks before the kidnapping of Prince Alexander, he had begun a regular
 journalistic campaign against Germany, and advocated strongly a new
@@ -6213,7 +6213,7 @@ orientation of Russian policy. M. de Giers, minister of foreign affairs,
 was openly attacked as a partisan of the German alliance, and his
 "pilgrimages to Friedrichsruh and Berlin" were compared to the
 humiliating journeys of the old Russian grand-princes to the Golden
-Horde in the time of the Tatar domination. The moment had come, it was
+[[Horde]] in the time of the Tatar domination. The moment had come, it was
 said, for Russia to emancipate herself from German diplomatic thraldom,
 and for this purpose a _rapprochement_ with France was suggested. The
 idea was well received by the public, and it seemed to be not
@@ -6230,7 +6230,7 @@ estrangement between the two cabinets, but it marked the beginning of a
 period of vacillation on the part of Alexander III. When the treaty of
 Skiernevice was about to expire in 1887, he positively refused to renew
 the Three Emperors' League, but he consented to make, without the
-cognizance of Austria, a secret treaty of alliance with Germany for
+[[Cognizance|cognizance]] of Austria, a secret treaty of alliance with Germany for
 three years. Not satisfied with this guarantee against the danger of a
 Franco-Russian alliance, Bismarck caused attacks to be made in the press
 on Russian credit, which was rapidly gaining a footing on the Paris
@@ -6269,7 +6269,7 @@ This was perfectly understood by both governments; and after some
 hesitation on both sides. Generals Vannovski and Obruchev, on the one
 side, and Generals Saussier, Miribel and Boisdeffre on the other, were
 permitted to discuss plans of co-operation. At the same time a large
-quantity of Lebel rifles were manufactured in France for the Russian
+quantity of [[Lebel]] rifles were manufactured in France for the Russian
 army, and the secret of making smokeless powder was communicated to the
 Russian military authorities. The French government wished to go further
 and conclude a defensive alliance, but the tsar was reluctant to bind
@@ -6296,7 +6296,7 @@ was ratified; that in the summer of 1895 M. Ribot, when prime minister,
 first spoke publicly of an alliance; and that during the visit of the
 president of the French Republic to St Petersburg, in August 1897,
 France and Russia were referred to as allies in the complimentary
-speeches of the tsar and of M. Félix Faure. Though we are still in the
+speeches of the tsar and of M. Félix [[Faure]]. Though we are still in the
 dark as to the precise terms of the arrangement, there is no doubt that
 close friendly relations were established between the two powers, and
 that in all important international affairs they sought to act in accord
@@ -6317,9 +6317,9 @@ a tendency on the part of Italy to gravitate towards France, the
 grouping of the great powers was not radically changed till the
 Russo-Japanese War of 1904-5. By that war the balance of power in Europe
 was seriously disturbed. Russia inadvertently provoked a struggle with
-Japan which made such a drain on her energies and material resources
+[[Japan]] which made such a drain on her energies and material resources
 that her political influence in Europe necessarily suffered a partial
-eclipse. Thus the Triple Alliance outweighed its rival, and there was a
+[[Eclipse|eclipse]]. Thus the Triple Alliance outweighed its rival, and there was a
 danger of the German emperor's taking advantage of the situation to
 secure for himself a diplomatic predominance in Europe. France at once
 perceived that there was a grave danger for herself, and naturally
@@ -6337,7 +6337,7 @@ in Egypt, and that England in return should allow France, within certain
 limits, a free hand in Morocco. On that basis was effected a
 _rapprochement_ between the two governments which soon developed into an
 _entente cordiale_ between the two nations. The efforts of the German
-emperor to undermine the _entente_ by insisting on the convocation of a
+emperor to undermine the _entente_ by insisting on the [[Convocation|convocation]] of a
 conference to consider the Morocco question caused M. Delcassé to
 resign, and produced considerable anxiety throughout Europe, but the
 desired result was not attained. On the contrary, the conference in
@@ -6352,7 +6352,7 @@ localized. Some of the principal questions involved may be more
 particularly mentioned.
 
 
-  Armenia.
+  [[Armenia]].
 
 The Armenian Question was brought prominently before Europe by the
 Russo-Turkish War of 1877-78. In the treaties of San Stefano and Berlin
@@ -6378,7 +6378,7 @@ repression which the Turks were sure to employ might lead to the active
 intervention of Europe and ensure their liberation from Turkish rule, as
 the famous "atrocities" of 1876 had led to the political emancipation of
 Bulgaria. In due course--1895-1896--the expected atrocities took place,
-in the form of wholesale massacres in Constantinople and various towns
+in the form of wholesale [[Massacre|massacres]] in Constantinople and various towns
 of Asia Minor. The sultan was subjected to diplomatic pressure and
 threatened with more efficient means of coercion. In the diplomatic
 campaign England took the lead, and was warmly supported by Italy, but
@@ -6400,7 +6400,7 @@ Panhellenic agitation, and took advantage of one of the periodical
 insurrections in Crete to further its projects. In February 1897 the
 Cretan revolutionary committee proclaimed the annexation of the island
 to the Hellenic kingdom, and a contingent of Greek regular troops landed
-near Canea under the command of Colonel Vassos to take possession of the
+near [[Canea]] under the command of Colonel Vassos to take possession of the
 island in the name of King George. The powers, objecting to this
 arbitrary proceeding, immediately occupied Canea with a mixed force from
 the ships of war which were there at the time, and summoned the Greek
@@ -6444,7 +6444,7 @@ but the methods she adopted were very different. She endeavoured to
 bring under her authority, by annexation or the establishment of
 protectorates, the largest possible extent of territory, in order to
 increase her trade by a system of differential tariffs; she encroached
-on the hinterland of British settlements, and endeavoured to direct
+on the [[Hinterland|hinterland]] of British settlements, and endeavoured to direct
 artificially the native inland trade towards her own ports. A glance at
 the map of the African West Coast will suffice to show the success with
 which this policy was carried out. When the British government awoke to
@@ -6469,8 +6469,8 @@ gaining a firm foothold on the upper course of the river. The effort
 which she made in 1898 to attain this end, by simultaneously despatching
 the Marchand mission from her Congo possessions and inciting the emperor
 Menelek of Abyssinia to send a force from the east to join hands with
-Major Marchand at Fashoda, was defeated by the overthrow of the Khalifa
-and the British occupation of Khartum. For a few days the two nations
+[[Major]] Marchand at [[Fashoda]], was defeated by the overthrow of the Khalifa
+and the British occupation of [[Khartum]]. For a few days the two nations
 seemed on the brink of war, but the French government, receiving no
 encouragement from St Petersburg, consented to withdraw the Marchand
 mission, and a convention was signed defining the respective spheres of
@@ -6519,7 +6519,7 @@ between the Russian and British spheres of influence, has now been
 carried right up to the frontier of the Chinese empire. The delimitation
 of the English and French spheres of influence in Asia has also
 progressed. In 1885 France endeavoured to get a footing on the Upper
-Irrawaddy, the hinterland of British Burma, and England replied in the
+Irrawaddy, the hinterland of British [[Burma]], and England replied in the
 following year by annexing the dominions of King Thebaw, including the
 Shan States as far east as the Mekong. Thereupon France pushed her
 Indo-Chinese frontier westwards, and in 1893 made an attack on the
@@ -6555,7 +6555,7 @@ the young emperor of Russia, Nicholas II., that he invited the powers to
 consider whether the further increase of the burdens thereby imposed on
 the nations might not be arrested by mutual agreement; and a conference
 for this purpose was convened at the Hague (May 18-July 29, 1899), but
-the desirable object in view was not attained. (See ARBITRATION,
+the desirable object in view was not attained. (See [[Arbitration|ARBITRATION]],
 INTERNATIONAL.)     (D. M. W.)
 
 
@@ -6628,8 +6628,8 @@ emperors in 1903, and imposed upon the Porte by the diplomatic pressure
 of the great powers, did not produce the effects hoped for. The hideous
 tale of massacres of helpless villagers by organized Greek bands, and of
 equally hideous, if less wholesale, reprisals by Bulgarian bands, grew
-rather than diminished, and reached its climax in the early months of
-1908. The usefulness of the new _gendarmerie_, under European officers,
+rather than diminished, and reached its [[Climax|climax]] in the early months of
+1908. The usefulness of the new _[[Gendarmerie|gendarmerie]]_, under European officers,
 which was to have co-operated with the Ottoman authorities in the
 restoration of order, was from the outset crippled by the passive
 obstruction of the Turkish government. The sultan, indeed, could hardly
@@ -6639,7 +6639,7 @@ Mahommedan rule, nor could he be expected to desire the smooth working
 of a system against which he had protested as a violation of his
 sovereign rights. In 1908 the powers were still united in bringing
 pressure to bear on the Porte to make the reforms effective; but the
-proposal of Great Britain to follow the precedent of the Lebanon and
+proposal of Great Britain to follow the precedent of the [[Lebanon]] and
 commit the administration of Macedonia to a Mussulman governor appointed
 by the sultan, but removable only by consent of the powers, met with
 little favour either at Constantinople or among the powers whose
@@ -6778,8 +6778,8 @@ reaffirmation of a principle of international comity and law, so
 successfully violated, could serve to disguise the brutal truth that in
 questions between nations, in the long-run, might is right--that there
 is no middle term between the naked submission preached by Tolstoy and
-his disciples and Napoleon's _dictum_ that "Providence is with the big
-battalions." In Great Britain, especially, public opinion was quick to
+his [[Disciple|disciples]] and Napoleon's _dictum_ that "Providence is with the big
+[[Battalion|battalions]]." In Great Britain, especially, public opinion was quick to
 grasp this truth. It was realized that it was the immense armed power of
 Germany that had made her the arbiter in a question vitally affecting
 the interests of all Europe. Germany alone emerged from the crisis with
@@ -6804,14 +6804,14 @@ existence of her over-sea empire depended.
   (Paris, 1877, &c.), which with certain limitations (notably as regards
   the Slav, Hungarian and Scandinavian countries) gives references to
   published documents for all names of people, however obscure,
-  occurring in medieval history. In 1894 M. Chevalier began the
+  occurring in medieval history. In 1894 M. [[Chevalier]] began the
   publication of a second series of his _Répertoire_, under the somewhat
   misleading title of _Topo-Bibliographie_, intended as a compendious
   guide to the places, institutions, &c., of the middle ages; though
   very useful, this is by no means so complete as the
   _Bio-Bibliographie_. August Potthast's _Bibliotheca historica medii
-  aevi_ (2nd ed., Berlin, 1895-1896) gives a complete catalogue of all
-  the annals, chronicles and other historical works which appeared in
+  aevi_ (2nd ed., Berlin, 1895-1896) gives a complete [[Catalogue|catalogue]] of all
+  the [[Annals|annals]], chronicles and other historical works which appeared in
   Europe between the years 375 and 1500 and have since been printed,
   with short notes on their value and significance, and references to
   critical works upon them. See also the article RECORD. For authorities
@@ -6853,11 +6853,11 @@ existence of her over-sea empire depended.
   (London, 1893, &c.): Per. I. _The Dark Ages, 476-918_, by C.W.C. Oman
   (1893); Per. II. _The Empire and the Papacy, 918-1273_, by T.F. Tout
   (1898); Per. III. _The Close of the Middle Ages, 1273-1494_, by R.
-  Lodge (1901); _Europe in the 16th Century, 1494-1598_, by A.H. Johnson
+  [[Lodge]] (1901); _Europe in the 16th Century, 1494-1598_, by A.H. Johnson
   (1897); _The Ascendancy of France_, by H.O. Wakeman (1894); _The
   Balance of Power_, by A. Hassal (1896); _Revolutionary Europe_, by H.
   Morse Stephens (1893); _Modern Europe_, by W. Alison Phillips (1901,
-  5th ed., 1908). See also T.H. Dyer, _History of Modern Europe from
+  5th ed., 1908). See also T.H. [[Dyer]], _History of Modern Europe from
   the fall of Constantinople_, revised and continued to the end of the
   19th century by A. Hassal (6 vols., London, 1901). Besides the above
   may be mentioned, for European history since the outbreak of the
@@ -6882,8 +6882,8 @@ existence of her over-sea empire depended.
   _The Scottish Hist. Rev._ (Glasgow); _The American Hist. Rev._ (London
   and New York); the _Revue historique_ (Paris); the _Historische
   Zeitschrift_ (Munich). The most notable collections of treaties are J.
-  Dumont's _Corps diplomatique_, covering the period from A.D. 800 to
-  1731 (Amsterdam and the Hague, 1726-1731); F.G. de Martens and his
+  Dumont's _[[Corps]] diplomatique_, covering the period from A.D. 800 to
+  1731 (Amsterdam and the Hague, 1726-1731); F.G. de [[Martens]] and his
   continuators, _Recueil des traités_, &c. (1791, &c.), covering with
   its supplements the period from 1494 to 1874; F. (T.T.) de Martens,
   _Recueil des traités conclus par la Russie_, &c. (14 vols., St
@@ -6893,7 +6893,7 @@ existence of her over-sea empire depended.
   new series, by. L. Neumann and A. de Plason (16 vols., Vienna,
   1877-1903); _Österreichische Staatsverträge_ (vol. i. _England_,
   1526-1748), published by the Commission for the modern history of
-  Austria (Innsbruck, 1907), with valuable introductory notes; _British
+  Austria ([[Innsbruck]], 1907), with valuable introductory notes; _British
   and Foreign State Papers_ (from the termination of the war in 1814),
   compiled at the Foreign Office by the Librarian and Keeper of the
   Papers (London, 1819, &c.); Sir E. Hertslet, _The Map of Europe by
@@ -6916,13 +6916,13 @@ FOOTNOTES:
   [4] Pt. i. pp. 11-12.
 
   [5] Griesbach, on the strength of Middendorff's observations, remarks
-    that, in addition to European fruit trees, oak, maples, elms, ashes
+    that, in addition to European fruit trees, oak, [[Maple|maples]], [[Elm|elms]], ashes
     and the black alder do not cross the Urals, while the lime tree is
     reduced to the size of a shrub (_La Végétation du globe_, translated
     by Tchihatchef, i. p. 181).
 
   [6] On the history of the boundary between Asia and Europe see F.G.
-    Hahn in the _Mitteilungen des Vereins für Erdkunde zu Leipzig_
+    [[Hahn]] in the _Mitteilungen des Vereins für Erdkunde zu Leipzig_
     (1881), pp. 83-104. Hahn, on the ground that true mountain systems
     must be regarded as forming geographical units, pronounces against
     the practice of making "natural boundaries" run along mountain
@@ -6941,7 +6941,7 @@ FOOTNOTES:
 
   [10] See _Mitteil der Wiener Geog. Gesellschaft_ (1890), p. 333.
 
-  [11] See R.T. Gunther, _Contributions to the Study of Earth-Movements
+  [11] See R.T. [[Gunther]], _Contributions to the Study of Earth-Movements
     in the Bay of Naples_ (Oxford, 1903), and "Earth-Movements in the Bay
     of Naples," in the _Geog. Journ._ vol. xxii. pp. 121-149, 269-285.
 
@@ -7038,7 +7038,7 @@ FOOTNOTES:
   [43] From the _Fifth Report of the United States Department of
     Agriculture_, Division of Statistics, Miscellaneous Series, p. 13.
 
-  [44] Based on the _Corn Trade Year-book_ (1904), p. 284.
+  [44] Based on the _[[Corn]] Trade Year-book_ (1904), p. 284.
 
   [45] Exclusive of Bosnia and Herzegovina, in which the average
     production in 1894-1903 was about 2½ million bushels.
@@ -7131,10 +7131,10 @@ FOOTNOTES:
     der menschlichen Tatigkeit," in _Petermanns Mitteil._ (1906), p. 249,
     where corresponding figures are given for other parts of the world.
 
-  [75] Kaluga, Smolensk, Tver, Moscow, Yaroslav, Kostromer and
+  [75] [[Kaluga]], Smolensk, Tver, Moscow, Yaroslav, Kostromer and
     Vladimir.
 
-  [76] Kursk, Orel, Tula, Ryazan, Tambov, Voronezh and Penza.
+  [76] [[Kursk]], Orel, Tula, Ryazan, Tambov, Voronezh and Penza.
 
   [77] Nizhniy Novgorod, Kazan, Simbirsk, Samara, Saratov and
     Astrakhan.

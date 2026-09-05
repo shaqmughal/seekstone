@@ -14,7 +14,7 @@ succeeded in effecting his escape to Barcelona. He enrolled himself in
 the foreign legion and fought gallantly against his former comrades.
 Near Figuières the legion was compelled to surrender, and Carrel became
 the prisoner of his old general, Damas. There was considerable
-difficulty about the terms of capitulation, and one council of war
+difficulty about the terms of [[Capitulation|capitulation]], and one council of war
 condemned Carrel to death. Fortunately some informality prevented the
 sentence being executed, and he was soon afterwards acquitted and set at
 liberty. His career as a soldier being then finally closed, Carrel
@@ -39,7 +39,7 @@ admirable style, lucid, precise and well balanced. As the defender of
 democracy he had frequently to face serious dangers. He was once in Ste
 Pelagie, and several times before the tribunal to answer for his
 journal. Nor was he in less danger from private enmities. Before his
-last fatal encounter he was twice engaged in duels with editors of rival
+last fatal encounter he was twice engaged in [[Duel|duels]] with editors of rival
 papers. The dispute which led to the duel with Émile de Girardin was one
 of small moment, and might have been amicably arranged had it not been
 for some slight obstinacy on Carrel's part. The meeting took place on

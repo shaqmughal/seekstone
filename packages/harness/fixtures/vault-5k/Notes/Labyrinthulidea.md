@@ -35,7 +35,7 @@ this.
   encysted.
 
   3 A portion of the network of _Labyrinthula vitellina_, Cienk., more
-  highly magnified. p, Protoplasmic mass apparently produced by fusion
+  highly magnified. p, Protoplasmic mass apparently produced by [[Fusion|fusion]]
   of several filaments. p´, Fusion of several cells which have lost
   their definite spindle-shaped contour. s, Corpuscles which have become
   spherical and are no longer moving (perhaps about to be encysted).

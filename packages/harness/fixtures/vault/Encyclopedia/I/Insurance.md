@@ -33,12 +33,12 @@ The simplest and most general conception of insurance is a provision
 made by a group of persons, each singly in danger of some loss, the
 incidence of which cannot be foreseen, that when such loss shall occur
 to any of them it shall be distributed over the whole group. Its
-essential elements, therefore, are foresight and co-operation; the
+essential elements, therefore, are foresight and [[Co-Operation|co-operation]]; the
 former the special distinction of civilized man, the latter the means of
 social progress. But foresight is possible only in the degree in which
 the consequences of conduct are assured, i.e. it depends on an
 ascertained regularity in the forces of nature and the order of society.
-To the savage, life is a lottery. In hunting, rapine and war, all his
+To the savage, life is a lottery. In [[Hunting|hunting]], rapine and war, all his
 interests are put at hazard. The hopes and fears of the gambler dominate
 his impulses. As nature is studied and subdued, and as society is
 developed, the element of chance is slowly eliminated from life. In a
@@ -48,7 +48,7 @@ together to narrow the realm of chance and extend that of foresight. But
 there remain certain events which may disturb all anticipations, and in
 spite of any man's best wisdom and effort may deprive him of the fruits
 of his labour. These are mainly of two classes: (1) damage to property
-by the great forces of nature, such as lightning and hail, by the perils
+by the great forces of nature, such as lightning and [[Hail|hail]], by the perils
 of the sea and by fire; (2) premature death. A useful life has an
 economical value. But no skill can make certain its continuance to its
 normal close. In the reasonable expectation that it will last until a
@@ -66,7 +66,7 @@ of relief after accidental fires. When such a loss was proved to the
 king in council, the chancellor sent a king's brief to churches,
 sheriffs and justices, asking contributions, and trustees for the
 sufferers administered the funds collected. But under the last two
-Stuarts gross frauds resulted, and the system fell into disrepute and
+Stuarts [[Gross|gross]] [[Fraud|frauds]] resulted, and the system fell into disrepute and
 disuse. At best, the voluntary relief provided by charity after losses
 are incurred is but sporadic and irregular. Insurance begins when the
 liability to loss is recognized as common, and provision is made
@@ -77,14 +77,14 @@ formative stages is extremely obscure.
 
 Its first appearance in business life is often sought in the marine
 loans of the ancient Greeks, fully described by Demosthenes. Money was
-advanced on a ship or cargo, to be repaid with large interest if the
+advanced on a ship or [[Cargo|cargo]], to be repaid with large interest if the
 voyage prosper, but not repaid at all if the ship be lost, the rate of
 interest being made high enough to pay not only for the use of the
 capital, but for the risk of losing it. Loans of this character have
 ever since been common in maritime lands, under the name of bottomry and
 respondentia bonds. (See below, _Marine Insurance_.) But the direct
 insurance of sea-risks for a premium paid independently of loans began,
-as far as is known, in Belgium about A.D. 1300. During the next century
+as far as is known, in [[Belgium]] about A.D. 1300. During the next century
 the risks of insurance for the usual voyages between London and European
 ports were carefully considered, and customary rates became established.
 In his address in opening Elizabeth's first parliament in 1559, Sir
@@ -107,7 +107,7 @@ the length and route of the voyage, the season, the current rate of
 interest and profits--determined the rate of premium; and when this
 obtained general assent, the written agreement was signed by each
 underwriter for that part of the risk which he assumed. Towards the end
-of the 17th century these meetings were held in Lloyd's coffee-house,
+of the 17th century these meetings were held in [[Lloyd'S|Lloyd's]] coffee-house,
 and their simple practice gradually grew into the complete and
 complicated system of marine insurance now general. The underwriters
 together evolved rules and improved methods, but continued for
@@ -127,14 +127,14 @@ a patent of monopoly to insure houses at the rate of one shilling yearly
 for each L20 of rent, the association to repair or rebuild those burned,
 to maintain a perpetual fire-watch in the streets, and to pay L200
 yearly towards rebuilding St Paul's cathedral until finished. The
-attorney-general approved the project, but in the disorders of the
+[[Attorney-General|attorney-general]] approved the project, but in the disorders of the
 kingdom it was forgotten. The Great Fire of 1666 revived interest in the
 subject, and led to practical measures. In May 1680 a private fire
-office was opened "at the back side of the Royal Exchange" to insure
+office was opened "at the back side of the Royal [[Exchange]]" to insure
 houses in London, by assuming the risk of loss to a fixed amount for a
-fixed premium, namely, 2(1/2)% of the yearly rent for brick houses and 5%
-for frame houses, the rent being always assumed to be one-tenth of the
-value of the fee. The estimates of the promoters are interesting. In the
+fixed premium, namely, 2(1/2)% of the yearly rent for [[Brick|brick]] houses and 5%
+for [[Frame|frame]] houses, the rent being always assumed to be one-tenth of the
+value of the [[Fee|fee]]. The estimates of the promoters are interesting. In the
 fourteen years since the Great Fire 750 houses had been burned in
 London, with an average loss of L200. A fund of L40,000 subscribed as
 guaranty was to be increased by L20,000 for every 10,000 houses insured,
@@ -155,9 +155,9 @@ practically tested on a large scale in Great Britain or America.
 The next notable step in the evolution of modern methods was the
 organization of mutual insurance associations. In 1684 the Friendly
 Society was organized. Each member paid a small entrance fee for
-expenses, made a cash deposit as a reserve for emergencies, to be
+expenses, made a [[Cash|cash]] deposit as a reserve for emergencies, to be
 returned at the end of his term, and agreed to meet equitable
-assessments for current losses. Payments were computed on the assumption
+[[Assessment|assessments]] for current losses. Payments were computed on the [[Assumption|assumption]]
 that one house in 200 is burned every fifteen years. The rivalry between
 the proprietary and the mutual systems began at once, and has continued
 till now. In 1686 "the Fire Office at the back side of the Royal
@@ -225,7 +225,7 @@ Assurance for Widows and Orphans" was founded in London, a crude form of
 what is now called an assessment company. Each of 2000 healthy men under
 fifty-five years of age was to pay 5s. as entrance fee, 1s. quarterly
 for expenses, and 5s. at the death of another member; and at his own
-death his estate should receive L500, less 3%. On default in any payment
+death his estate should receive L500, less 3%. On [[Default|default]] in any payment
 his interest was forfeited. The society lasted about eleven years, and
 the accounts of its eighth year are preserved, showing the payment of
 L5200 upon twenty-four claims. The economic significance of this society
@@ -294,7 +294,7 @@ whether or not the dreaded event occurs to any, they will in the
 aggregate be poorer, as the direct result, by the exact cost of the
 machinery for effecting it. The distribution of property is changed, its
 sum is not increased. But the results in the social economy, the
-substitution of reasonable foresight and confidence for apprehension and
+substitution of reasonable foresight and confidence for [[Apprehension|apprehension]] and
 the sense of hazard, the large elimination of chance from business and
 conduct, have a supreme value. The direct contribution of insurance to
 civilization is made, not in visible wealth, but in the intangible and
@@ -311,7 +311,7 @@ spirit. It is impossible to conceive of our civilization in its full
 vigour and progressive power without this principle which unites the
 fundamental law of practical economy, that he best serves humanity who
 best serves himself, with the golden rule of religion, "Bear ye one
-another's burdens."
+another's [[Burden|burdens]]."
 
 
 II. CASUALTY AND MISCELLANEOUS INSURANCE
@@ -379,7 +379,7 @@ to cover every class of employee.
 
   The most common form of accident insurance, however, is still
   represented by the policy which promises the assured a fixed sum in
-  case of death by accident, and a weekly compensation during disability
+  case of death by accident, and a weekly compensation during [[Disability|disability]]
   from such a cause. Many policies also specify a sum to be paid for the
   loss or permanent damage of a member, as an eye, a hand or foot.
   Another extension of the personal accident policy is the addition of
@@ -407,11 +407,11 @@ to cover every class of employee.
   especially in Great Britain.
 
   There are several companies in the United Kingdom and in America which
-  make the insurance against damage by the explosion of steam boilers a
+  make the insurance against damage by the explosion of steam [[Boiler|boilers]] a
   special feature of their work, but by far the greater part of the
   business is transacted by one company in each country. The service
   rendered is one of special skill and vigilance, extending far beyond
-  the contract for indemnity. The company, in fact, employs inspectors
+  the contract for [[Indemnity|indemnity]]. The company, in fact, employs inspectors
   of the highest scientific qualifications, who assume constant
   supervision of the machinery, and require its structure and conduct to
   be freed from elements of danger. It is prevention rather than
@@ -465,14 +465,14 @@ to cover every class of employee.
   responsible assurance that the title is flawless. Several of the
   companies in the United States possess elaborate and expensive
   collections of records, covering the sources of title for cities or
-  large districts; all of them employ expert ability of a high order;
+  large districts; all of them employ [[Expert|expert]] ability of a high order;
   and when they approve a title as perfect, the purchaser or lender of
   money may receive, with the approval, a guaranty against loss in
   accepting it, which private examiners or counsel cannot give. Titles
   are insured also in other countries, but the business has nowhere else
   attained such importance, nor do the institutions transacting it make
   full and separate statements of their accounts. Other minor forms of
-  insurance are against bad debts, bonds and securities in transit,
+  insurance are against bad [[Debt|debts]], bonds and securities in transit,
   earthquakes, failure of issue, loss on investment, leasehold
   redemption, non-renewal of licences, loss of or damage to luggage in
   transit, damage to pictures, loss of profits through fire, imperfect
@@ -536,7 +536,7 @@ undertaken the work and disappeared within fifty years, show the dangers
 to which inadequate skill and capital are exposed. But a small
 proportion of these failures were the direct result of sweeping
 disasters, though about seventy of them followed the memorable fires in
-Chicago and Boston in 1871 and 1872. Many more, nearly one-half of the
+[[Chicago]] and [[Boston]] in 1871 and 1872. Many more, nearly one-half of the
 whole, have followed a short career, in which the helplessness of
 inexperience to compete with long training and complete organization
 was demonstrated. Many hundreds of these projects were mere
@@ -558,7 +558,7 @@ America and by the criticism of the press.
   their professed objects, but almost always in connexion with some
   forms of casualty insurance, which appear to be practically the
   purpose in view. The reports of the fire business in the United
-  Kingdom for recent years, as collected in _Bourne's Manual_, show that
+  Kingdom for recent years, as collected in _Bourne's [[Manual]]_, show that
   less than one-fourteenth of it is done by companies organized since
   1870. Though new companies have been registered, usually several every
   year, the number actually transacting successful business has not
@@ -569,7 +569,7 @@ America and by the criticism of the press.
   vast basis of average and of a large capital for security, and still
   more by the increasing demand for a thoroughly trained and organized
   body of agents, able to protect their companies from fraud and
-  imposition, and at the same time to compete for public patronage.
+  [[Imposition|imposition]], and at the same time to compete for public patronage.
 
 
   Mutual system.
@@ -607,7 +607,7 @@ is in associations of this character that the mutual plan of fire
 insurance has rendered its greatest services. The mutual plan has been
 widely adopted also in local associations for the insurance of dwellings
 and farm improvements, where the individual risks are small, and where
-technical classification and special safeguards against fraud are not
+technical [[Classification|classification]] and special safeguards against fraud are not
 considered necessary, often with the result of affording satisfactory
 protection at low rates. But the ratio of this part of the business to
 that conducted by joint-stock companies diminishes from year to year,
@@ -625,7 +625,7 @@ but what it seeks to accomplish is that such losses shall not fall
 exclusively, and possibly with overwhelming effect, on the owner of the
 property destroyed, but shall be borne in easy proportions by a large
 number of persons who are all alike exposed to the risk of a similar
-catastrophe. To work out the equitable solution of such a problem an
+[[Catastrophe|catastrophe]]. To work out the equitable solution of such a problem an
 amount of technical skill and extended experience is required which few
 bodies or communities possess. Certainly, experience in Great Britain
 has shown that the one system of fire insurance which has contributed
@@ -669,7 +669,7 @@ association known as Lloyd's has been for generations a strong financial
 institution, with every modern safeguard, and since 1871 has been a
 chartered corporation with large funds, yet its name has become accepted
 as the symbol of the primitive practice of combined underwriting by
-individuals, each upon his own credit, for a share of the risk and
+individuals, each upon his own [[Credit|credit]], for a share of the risk and
 without common liability.
 
   A few associations on this general principle were known to exist in
@@ -728,7 +728,7 @@ of several distinct buildings and the contents of them: one building may
 be devoted to operations involving in a high degree the risk of fire; in
 another the processes carried on may be more simple and safe; a third
 may be used only for the storage of materials having little tendency to
-burn. Fairly to measure these various hazards it has been found
+[[Burn|burn]]. Fairly to measure these various hazards it has been found
 necessary that the experience and skill at the command of many companies
 shall be combined, and that the rates shall be the result of
 consultation and a common understanding.
@@ -741,7 +741,7 @@ a reciprocal obligation to charge not less than the rates thus agreed
 on; in other words, a tariff of rates is developed to which each office
 binds itself to adhere. The system tends to restrain and moderate the
 competition for business which inevitably and to some extent properly
-exists among the companies, and its value to them is manifest. But it is
+exists among the companies, and its value to them is [[Manifest|manifest]]. But it is
 also of service to the insuring public. At first sight it might seem
 that free competition would suit the public best, and that a combination
 among the offices must tend to keep up rates, and to secure for the
@@ -769,7 +769,7 @@ lessening of the danger. In other words, and reversing the order, it
 seeks to diminish the risk of fire, and to secure adequate payment for
 what risk remains. On the supposition that the offices are correct in
 their estimate of risks, the effect, and indeed the intention, of their
-rule is not so much to put money into their own coffers as to lessen the
+rule is not so much to put money into their own [[Coffer|coffers]] as to lessen the
 danger, and to save themselves in the first instance, and the owners of
 property ultimately, from the consequences of preventible fires.
 
@@ -779,7 +779,7 @@ property ultimately, from the consequences of preventible fires.
   L50,000, L100,000 and more. An additional charge of 5s. or 10s. % in
   respect of a supposed increase of risk may mean a payment by the owner
   of several hundred pounds a year, and may operate as a complete veto
-  on some arrangement or some machine which it might otherwise be
+  on some arrangement or some [[Machine|machine]] which it might otherwise be
   desirable to resort to. The occurrence of a few severe fires in one
   town, followed by an increase of insurance rates, may have, and indeed
   has had, the effect of driving some branch of trade to another
@@ -875,13 +875,13 @@ notably in Austria, Switzerland and Germany.
   government supervision of insurance has most interfered with and
   modified the natural development of the business. In recent years,
   beginning with 1885, sixteen of these states have enacted legislation,
-  dictated by the growing jealousy of corporate powers and privileges,
+  dictated by the growing [[Jealousy|jealousy]] of corporate powers and privileges,
   forbidding fire insurance companies or their agents to combine in any
   form for the determination of rates. Companies have often been
   indicted, fined and deprived of authority to issue policies because of
   membership in associations for the purely scientific purpose of
   ascertaining their average experience. The courts have frequently
-  narrowed in their interpretations the sweeping intent of such laws,
+  narrowed in their interpretations the sweeping [[Intent|intent]] of such laws,
   but have generally sustained them as within the power of the
   legislature, and at the present time there is an overwhelming public
   sentiment in large sections of the country arrayed against every
@@ -995,7 +995,7 @@ its true bearing.
   advantage to those who insure above this limit. Thus, for practical
   purposes, and in the general mass of business, the 80% clause may be
   accepted as approximately the best application of the principle. It
-  makes possible substantial equity in distributing the cost, while it
+  makes possible substantial [[Equity|equity]] in distributing the cost, while it
   does not interfere with proper safeguards against over-insurance. The
   cordial support of the mercantile community in the great cities, and
   of the most intelligent state officers, has been given to it.
@@ -1006,7 +1006,7 @@ its true bearing.
   for by the premium; and that any limitation upon it must be a wrong to
   the insured, for the emolument of the insurance corporation. No less
   than ten states have passed laws prohibiting the clause within their
-  jurisdiction, though Maine in 1895, after a trial of two years,
+  jurisdiction, though [[Maine]] in 1895, after a trial of two years,
   repealed the prohibition. The law of Tennessee, a typical form, is as
   follows: "Insurance companies shall pay their policyholders the full
   amount of loss sustained upon property insured by them, provided said
@@ -1195,7 +1195,7 @@ companies insuring against fire will be found in the annual _Insurance
 Blue Book and Guide_.
 
 In the _Dominion of Canada_ the insurance companies make detailed
-reports to the government bureau, and the statistics of the business are
+reports to the government [[Bureau|bureau]], and the statistics of the business are
 full and accurate. The following table shows the aggregate business of
 five companies in the Dominion in 1869 and 1907:--
 
@@ -1217,7 +1217,7 @@ five companies in the Dominion in 1869 and 1907:--
 
 Upon the _continent of Europe_ the fire insurance business is conducted
 partly by local companies in each country and partly by the great
-international offices of Great Britain and Germany. The local
+[[International|international]] offices of Great Britain and Germany. The local
 associations in Austria, Germany and Switzerland are of three
 classes--public assurance organizations connected with local
 governments, private mutual companies and joint-stock companies. It is
@@ -1249,15 +1249,15 @@ both, under the same general management.
   meagre. The great British and German corporations are zealous in
   extending their transactions to the commercial ports everywhere, and
   local companies are often formed in the British colonies. In addition
-  to those in Canada and Australia some companies in South Africa have
+  to those in Canada and [[Australia]] some companies in South Africa have
   become financially important. Small native companies have been
-  successful in establishing their credit in Japan, Brazil, the
-  Argentine Republic, Chile and Peru. A considerable business is done in
-  insuring the property of foreign residents in the Levant, on the
+  successful in establishing their credit in [[Japan]], Brazil, the
+  Argentine Republic, [[Chile]] and Peru. A considerable business is done in
+  insuring the property of foreign residents in the [[Levant]], on the
   coasts of Asia, in South Africa and the Pacific Islands, but mostly by
   European companies, and as an incident to the more general practice of
   marine insurance. There are several successful fire companies among
-  the Dutch in Java. The small business in Mexico appears to be wholly
+  the Dutch in [[Java]]. The small business in Mexico appears to be wholly
   in the hands of foreign companies.
 
 
@@ -1276,7 +1276,7 @@ should be valued as a lease of seven years, one for two lives as a lease
 of fourteen years, and for three lives as a lease of twenty-one years.
 More than a century later _The Cambridge Tables for renewing of Leases
 and purchasing Liens_, a standard work in England, with the certificate
-of Sir Isaac Newton to its accuracy, proposed, as a remedy for the
+of Sir [[Isaac]] Newton to its accuracy, proposed, as a remedy for the
 inequity of this fanciful rule, to make the increase for each additional
 life less by one year, so that, valuing a single life at ten years, two
 lives shall be reckoned as nineteen years and three lives as
@@ -1286,7 +1286,7 @@ foremost minds of the world had as yet no apprehension of a true method
 of reasoning on the subject. The first clear insight into the character
 of the problem appears in _Natural and Political Observations on the
 Bills of Mortality_, published in 1661 under the name of John Graunt, a
-haberdasher and train-band captain of London. Graunt recognized the
+[[Haberdasher|haberdasher]] and train-band captain of London. Graunt recognized the
 principle of uniformity in large groups of vital and social facts, and
 actually prepared, from the mortality registers of London, what he calls
 a "Table showing of one hundred quick conceptions, how many die within
@@ -1299,7 +1299,7 @@ John de Witt, grand pensionary of Holland, reported to the states
 general a plan for such sales upon a scientific method, the insight and
 skill of which, had he possessed proper statistical data, would have
 anticipated results only reached by later generations. The report,
-however, was buried in the Dutch archives and forgotten for nearly two
+however, was buried in the Dutch [[Archive|archives]] and forgotten for nearly two
 centuries. It was unknown in England when, in 1692, the government
 undertook the sale of annuities. A loan of L1,000,000 was offered, each
 L100 paid in to purchase a life annuity of L14, without distinction of
@@ -1308,7 +1308,7 @@ age. A table accompanied the offer, purporting to show how many of
 likely to die in each year from one to ninety-nine. The purchasers,
 though without clear understanding of the principle, were instinctively
 shrewd enough to select healthy young lives for annuitants, and the
-nation paid enormously for the error. This speculation of the public
+nation paid enormously for the [[Error|error]]. This speculation of the public
 treasury led the eminent mathematician and astronomer, Dr Edmund Halley,
 to examine the subject. In 1693 he presented to the Royal Society a
 study of "The degrees of mortality of mankind." The parish registers of
@@ -1373,7 +1373,7 @@ continental Europe, while it remained almost unnoticed in England.
   Northampton Table.
 
 Throughout the 18th century the customary treatment of life annuities
-was as chaotic and fanciful as before, though some writers of eminence,
+was as chaotic and fanciful as before, though some writers of [[Eminence|eminence]],
 most notably Dr Thomas Simpson of London (1752), treated the theory of
 the subject with great intelligence, and in 1753 James Dodson of London
 (great-grandfather of Augustus de Morgan) projected a life insurance
@@ -1404,7 +1404,7 @@ treatment, except in the narrow school founded by Johann Sussmilch in
 Germany (1746), and in the isolated and almost prophetic work of de
 Parcieux in France, had been speculative and vague. Demoivre handled it
 with mathematical acuteness, but framed his scale of mortality (about
-1750) on a hypothesis of his own, not on known facts. Out of each group
+1750) on a [[Hypothesis|hypothesis]] of his own, not on known facts. Out of each group
 of eighty-six deaths, according to this scale, one dies on the average
 each year till all are gone; so that x being the present age, the
 probability of death within a year is always 1/(86-x). This conjecture,
@@ -1415,7 +1415,7 @@ brought to general apprehension the conviction that a large basis of
 observed facts is the only source of real knowledge. The government of
 the day felt the influence of the movement. In 1786 Pitt, then
 chancellor of the exchequer, consulted Dr Price on plans for the
-conversion of debt, and in 1789 the government first showed knowledge
+[[Conversion|conversion]] of debt, and in 1789 the government first showed knowledge
 that in granting annuities ages must be distinguished, and that the
 prospective life at ninety and that at twenty-five are not to be
 estimated as equal. About 1808 a conversion of 3% into annuities was
@@ -1434,14 +1434,14 @@ million to the treasury. The Northampton Table, in fact, like the
 earlier Breslau Table, was formed without a census, and upon the false
 assumption that the population was stationary. Dr Price's estimate,
 founded on the recorded baptisms, was much too low, many of the people
-being of a sect which rejected infant baptism. His table represents an
+being of a sect which rejected [[Infant|infant]] baptism. His table represents an
 average life of twenty-four years, whilst subsequent inquiries indicate
 a true average of about thirty years at that time in the same parishes.
 The actual mortality in the Equitable Society proved to be less by
 one-third than that anticipated by the table. The error had consequences
 of vast moment. The immediate and dazzling prosperity of the societies
 founding rates on this supposed scientific basis excited the public
-imagination, stimulated the business exceedingly, and led to many
+[[Imagination|imagination]], stimulated the business exceedingly, and led to many
 extravagant projects, followed by fluctuations and failures which
 impaired its healthy growth and usefulness.
 
@@ -1455,7 +1455,7 @@ courts as practically a part of the common law. Parliament, followed by
 some state legislatures and many courts in America, even made it the
 authorized standard for valuing annuity charges and reversionary
 interests. But in life insurance practice it is now wholly antiquated.
-Like its most famous successor, the Carlisle Table of Joshua Milne, it
+Like its most famous successor, the Carlisle Table of [[Joshua]] Milne, it
 rested upon observations of the population of a town. How far this
 limited and peculiar group represented the nation was still doubtful; no
 less so how far the rate of mortality among applicants for insurance,
@@ -1500,7 +1500,7 @@ controversy. Some of these will require more detailed notice hereafter.
   continent of Europe the small business transacted by the pioneer
   companies was largely conducted on empirical and conjectural methods
   from year to year, English custom being consulted as a guide in fixing
-  premiums. The Gotha Bank, the first institution to insure lives upon
+  premiums. The [[Gotha]] Bank, the first institution to insure lives upon
   business principles in Germany, adopted at its foundation in 1827 a
   mortality table formed by Charles Babbage upon the basis of the
   Northampton Table, corrected from cursory notes upon the early
@@ -1621,7 +1621,7 @@ lifetime of civilized man; and, on the other hand, that their combined
 effect has been to lessen the sharpness of the struggle for existence,
 to rescue the weaklings from destruction and enable them to multiply,
 and so to weaken society at large. The final decision of the question
-will be found in the gradual modifications of the true table of
+will be found in the [[Gradual|gradual]] modifications of the true table of
 mortality through successive epochs.
 
 For the purposes of life insurance the future of mortality tables looks
@@ -1707,7 +1707,7 @@ from indisposition to pay their premiums, but the motive to do so is
 weakest with lives which have become impaired. The average vitality is
 lowered by the loss on the whole of a superior class, and the average
 mortality of those who persist rises. The extent of this influence
-varies widely with the proportionate number of lapses and the motives
+varies widely with the proportionate number of [[Lapse|lapses]] and the motives
 which induce them, increasing in a startling degree when lapses multiply
 in a discredited company, and remaining small, or even at times
 doubtful, under very favourable conditions; so that the ascertainment of
@@ -1789,7 +1789,7 @@ masses of capital, such as the investments of life companies, are kept
 in view. The fall has been greatest, too, in countries where rates were
 formerly highest, suggesting that as the great financial markets of the
 world become more intimately connected the normal rate of interest
-assumes a more cosmopolitan character, with an increasing tendency to
+assumes a more [[Cosmopolitan|cosmopolitan]] character, with an increasing tendency to
 equality among them. These considerations have had an important
 influence upon the computations of life insurance companies. In Great
 Britain, and commonly in continental Europe, the leading offices from
@@ -1823,7 +1823,7 @@ Europe, have on the whole advanced, the minimum average rates having
 been reached, after twenty-five years of gradual reduction, in 1897.
 These facts are entirely consistent with the conclusions suggested by
 the history of the subject. No uniform or secular tendency to reduction
-in the average rate of interest, which is the index of the average
+in the average rate of interest, which is the [[Index|index]] of the average
 productiveness of capital, not of its amount, can be found to have
 prevailed. Fluctuations in the average rate are found, quite independent
 of the local and temporary fluctuations, which are often extreme; and
@@ -1862,7 +1862,7 @@ The business of life insurance being founded on well-ascertained natural
 laws, and on principles of finance which in their broad aspect are of
 the simplest description, there exists no necessity for frequent close
 scrutiny of the affairs of an insurance office, in so far as the
-maintenance of a mere standard of solvency is concerned. We have seen
+[[Maintenance|maintenance]] of a mere standard of solvency is concerned. We have seen
 that the premiums charged for insurances are based on certain
 assumptions in regard to (1) the rate of mortality to be experienced,
 (2) the rate of interest to be earned by the office on its funds, and
@@ -2099,7 +2099,7 @@ succeeding year.
   equal to, those of the net-premium method according as the "loading"
   is a constant percentage of the net premium or an equal addition to it
   at all ages, or of an intermediate character, its elements being so
-  adjusted as to balance each other.
+  adjusted as to [[Balance|balance]] each other.
 
   When the net-premium method is employed, it is important that the
   office premiums be not altogether left out of view, otherwise an
@@ -2198,7 +2198,7 @@ is to deny the first principle of insurance. The average amount by which
 the reserve of a company must be increased, because of the existence of
 policies of a given class, is to the actuary an important fact, and is
 commonly accepted as his best guide in the distribution of surplus. But
-a popular theory has seized upon the assignment of this average sum to
+a popular theory has seized upon the [[Assignment|assignment]] of this average sum to
 each policy, in the technical shorthand of the actuary, and holds that
 it is in each case the special property of the owner of that policy. The
 practical consequences are serious when, as often, many of the insured
@@ -2234,7 +2234,7 @@ companies. Until recently this class of people had no satisfactory share
 in the benefits of insurance, although the friendly societies in Great
 Britain, and many forms of beneficial associations in the United States,
 were attempts, often in part successful, to provide for special wants,
-mainly for maintenance of the sick and for the costs of burial. Most of
+mainly for maintenance of the sick and for the [[Costs|costs]] of burial. Most of
 them, however, lacked a scientific basis and an efficient and permanent
 organization, while thousands of them were grossly mismanaged. In
 Germany an elaborate scheme of compulsory insurance for labourers was
@@ -2446,7 +2446,7 @@ however, is free to continue or to drop the insurance as he pleases, and
 it may fairly be presumed that he will take whichever course will best
 serve his own interest. The tendency obviously is that policies on
 deteriorated and unhealthy lives are kept in force, while those on lives
-having good prospects of longevity are more readily given up. Again, the
+having good prospects of [[Longevity|longevity]] are more readily given up. Again, the
 retiring policyholder, by withdrawing his annual contribution, not only
 diminishes the fund from which expenses are met, but lessens the area
 over which these are spread, and so increases the burden for those who
@@ -2496,7 +2496,7 @@ such information. Accordingly it is made a stipulation, preliminary to
 the issue of every policy, that all the required information bearing
 upon the risk shall have been truly and fairly stated, and that in case
 of any misrepresentation, or any concealment of material facts, the
-insurance shall be forfeited. In practice, however, this forfeiture is
+insurance shall be forfeited. In practice, however, this [[Forfeiture|forfeiture]] is
 rarely insisted on unless there has been an evident intention to
 deceive. Other systems and conditions of life insurance policies may be
 shortly noticed.
@@ -2517,7 +2517,7 @@ are also endowment policies for children, under which parents or others
 receive a specified sum on a child attaining a given age, the premiums
 being returnable if the child dies before the specified age.
 
-  _As to Payment of Premiums._--A certain period of grace is allowed,
+  _As to Payment of Premiums._--A certain period of [[Grace|grace]] is allowed,
   most commonly thirty days, after each premium falls due. If payment is
   not made within that time, the presumption is that the policyholder
   intends to drop the contract, and the risk of the office comes to an
@@ -2534,8 +2534,8 @@ being returnable if the child dies before the specified age.
   _As to Foreign Travel and Residence, and as to Hazardous
   Occupations._--When Babbage wrote his _Comparative View of Assurance
   Institutions_ in 1826, voyaging abroad was scarcely permitted under a
-  British life policy. The Elbe and the Garonne, Texel and Havre, Texel
-  and Brest, the Elbe and Brest were the limits prescribed by most of
+  British life policy. The [[Elbe]] and the [[Garonne]], Texel and [[Havre]], Texel
+  and [[Brest]], the Elbe and Brest were the limits prescribed by most of
   the English offices. Even at a much later period the extra premiums
   charged for leave to travel or reside abroad were very heavy. But
   improved means of conveyance--in some places better sanitary
@@ -2565,7 +2565,7 @@ being returnable if the child dies before the specified age.
   The practice of rendering policies _indisputable_ and free from
   restriction as to foreign travel or residence, after a certain period,
   has tended greatly to simplify the contract between the office and the
-  insured. A declaration of indisputability covers any inaccuracies in
+  insured. A [[Declaration|declaration]] of indisputability covers any inaccuracies in
   the original documents on which a policy was granted, unless these
   inaccuracies amount to fraud, which the law will not condone under any
   circumstances.
@@ -2607,7 +2607,7 @@ much prompter reports to the insurance departments of the states; and
 every annual statement is required to show the results of an actuarial
 investigation. All these facts are collected, classified and compared by
 statisticians for several standard annuals in both countries, especially
-the _Post Magazine Almanack_, _Bourne's Directory_ and _Manual_ and the
+the _Post Magazine Almanack_, _Bourne's [[Directory]]_ and _Manual_ and the
 _Insurance Blue Book_ in London, and _The Insurance Year-Book_ of the
 Spectator Company in New York.
 
@@ -2616,7 +2616,7 @@ Spectator Company in New York.
   in them are about thirty-five in number, mostly small and local. The
   New York reports represent very nearly 95% of the entire business of
   the United States. While the amount of life assurance done by British
-  and other foreign offices in the United States is insignificant,
+  and other [[Foreign Office|foreign offices]] in the United States is insignificant,
   fourteen companies of the United States have agencies in Canada (ten
   for new business), and four transact business in Europe and in other
   parts of the world. The home business of the American companies is in
@@ -2649,10 +2649,10 @@ and enabled the postmaster-general to act as the agent of the
 commissioners in the issue of life policies and the grant of annuities.
 The limits of insurance were fixed at L20 and L100, and of annuities at
 L4 and L50; and the purchase of deferred annuities or old-age pay, by
-monthly, or even more frequent instalments, was sanctioned. The work was
+monthly, or even more frequent [[Instalment|instalments]], was sanctioned. The work was
 eagerly accepted by Lord Stanley of Alderley, the postmaster-general of
 the day, and the machinery for putting the act in action was elaborated
-by Frank Ives Scudamore of the Post Office and Sir Alexander Spearman of
+by [[Frank]] Ives Scudamore of the Post Office and Sir Alexander Spearman of
 the National Debt office. The business was commenced on the 17th of
 April 1865. By the end of the year 560 policies of insurance had been
 issued, and 94 immediate and 54 deferred annuities granted. In the first
@@ -2797,15 +2797,15 @@ at least, that in his day it was no novelty. It is mentioned in a Pisan
 ordinance of 1318, and in Venetian public documents of the early years
 of the 15th century. The earliest form of policy known is that given in
 the Florentine statute of 1523. It is uncertain whether insurance was
-introduced into England directly from Italy or by way of Flanders. The
+introduced into England directly from Italy or by way of [[Flanders]]. The
 earliest policies issued in England which have yet been discovered are
 in Italian, but the subscriptions are in English ("Santa Maria di
-Venetia," Cadiz to London, 1547, "Santa Maria de Porto Salvo," Hampton
+Venetia," [[Cadiz]] to London, 1547, "Santa Maria de Porto Salvo," Hampton
 to Messina, 1548).
 
   The earliest known policies in English are one of 1555 on the "Sancta
   Crux" "from any porte of the Isles of Indea of Calicut unto Lixborne,"
-  and one of 1557 on the "Ele" from Velis Maliga to Antwerp. The
+  and one of 1557 on the "Ele" from Velis Maliga to [[Antwerp]]. The
   authority for this statement is Mr R. G. Marsden, who edited for the
   Selden Society the records of the Admiralty Court; nothing earlier had
   been found at the Record Office down to May 1907. In the "Sancta Crux"
@@ -2831,7 +2831,7 @@ to Messina, 1548).
 
     "Her husband's to Aleppo gone, master of the 'Tiger.'"
 
-  Clark & Wright's note (in the "Clarendon Press" series edition) cites
+  Clark & Wright's note (in the "[[Clarendon]] Press" series edition) cites
   Sir Kenelm Digby's journal of 1628 mentioning "the 'Tyger' of London
   going for Scanderone" (Alexandretta). Hakluyt (_Voyages_) gives
   letters and journals of a voyage of the "Tyger of London" to Tripolis
@@ -2851,17 +2851,17 @@ to Messina, 1548).
   While the form of the insurance policy was thus developing, there was
   a singular absence of legislation (and, as far as we can yet trace, of
   litigation) on the subject. Till 1601 differences seem to have been
-  generally settled by arbitration. This accounts for the poverty of the
+  generally settled by [[Arbitration|arbitration]]. This accounts for the poverty of the
   British Admiralty records in matters of marine insurance. In 1601 a
   special tribunal was established by statute for summary trial of
   disputes arising on insurance policies; but, owing mainly to the
   opposition of the common-law judges, the new court languished, and by
   1720 it had fallen into utter disuse. J. A. Park states that not more
   than sixty insurance cases were reported between 1603 and 1756.
-  Consequently, when Lord Mansfield came to the court of king's bench in
+  Consequently, when Lord [[Mansfield]] came to the court of king's [[Bench|bench]] in
   the latter year, he found a clear field. He practically created the
   insurance law of England. He made use of all the continental
-  ordinances and codes extant in his day, taking his legal principles
+  ordinances and [[Code|codes]] extant in his day, taking his legal principles
   largely from them; the customs of trade he learnt from mercantile
   special jurors. Subsequent legislation referred solely to the
   prohibiting of certain insurances (wager policies, &c.), the naming in
@@ -2869,7 +2869,7 @@ to Messina, 1548).
   marine insurances. In 1894 Lord Herschell introduced his Marine
   Insurance Bill, which endeavoured "to reproduce as exactly as possible
   the existing law relating to marine insurance." After Lord Herschell's
-  death, Lord Chancellor Halsbury took up the bill, introducing it in
+  death, Lord Chancellor [[Halsbury]] took up the bill, introducing it in
   the House of Lords in 1899 and again in 1900; he appointed a committee
   on which underwriters, shipowners and average adjusters were
   represented, and, presiding himself, went through the bill with them
@@ -2878,13 +2878,13 @@ to Messina, 1548).
   by Lord Chancellor Loreburn in conjunction with Lord Halsbury. After
   some amendment and modification it was finally passed by both Houses
   and became law on the 1st of January 1907 (6 Ed. VII., c. 41).[3] In
-  America a less happy fate has attended the insurance code, forming
+  America a less happy [[Fate|fate]] has attended the insurance code, forming
   part of the proposed civil code of New York, completed and published
   in 1865, of which a very slightly altered version was adopted in
   California and has been in effect there since the 1st of January 1873.
   On the continent of Europe legislation at first took the form of local
-  ordinances of commercial cities, such as Barcelona (1434-1484),
-  Florence (1523), Burgos (1538), Bilbao (1560), Middelburg (1600),
+  ordinances of commercial cities, such as [[Barcelona]] (1434-1484),
+  Florence (1523), [[Burgos]] (1538), Bilbao (1560), Middelburg (1600),
   Rotterdam (1604-1655). In the third quarter of the 16th century Rouen
   produced a handy guide to marine insurance, _Le Guidon de la mer_; and
   in 1656 Etienne Cleirac published there his _Us et coutumes de la
@@ -2893,7 +2893,7 @@ to Messina, 1548).
   In 1807 France produced the _Code de commerce_, on the model of which
   nearly every European nation has issued a similar code. Probably the
   "best considered" (Willes, J.) of these, and the most adequate as
-  regards marine insurance, is that of the German empire; but Hamburg
+  regards marine insurance, is that of the German empire; but [[Hamburg]]
   and Bremen still preserve many of their local conditions by special
   contract in their policies. In fact it is doubtful whether the German
   Code could have been produced without the previous elaboration of the
@@ -2910,7 +2910,7 @@ to Messina, 1548).
   their business should experience the difficulty and hardship arising
   from the differences between the marine insurance law of different
   states, and should attempt to find a remedy. Such an attempt was made
-  at the Buffalo conference of the International Law Association in 1899
+  at the [[Buffalo]] conference of the International Law Association in 1899
   to prepare a body of rules dealing with those parts of marine
   insurance on which the laws of maritime countries differ. This
   undertaking was of the same nature as the earlier efforts of the same
@@ -2984,14 +2984,14 @@ to Messina, 1548).
   American underwriters will voluntarily consent to the practical
   annihilation of the seaworthiness warranty, and no less improbable
   that American and continental assured will voluntarily accept the
-  stricter rule of constructive total loss embodied in English law, when
+  stricter rule of constructive total loss embodied in [[English Law|English law]], when
   their national law enforces on the underwriter terms more favourable
   to the assured. The fewness of the international insurance markets of
   the world diminishes the need for uniform international regulations in
   this matter. The matter may be one for adjustment by variation in the
   rate of premium, but this is not certain.
 
-  The Glasgow conference of 1901 adopted the rules, after excepting time
+  The [[Glasgow]] conference of 1901 adopted the rules, after excepting time
   policies from the scope of the rule respecting seaworthiness. The
   rules are known as the Glasgow Marine Insurance Rules. The writer
   knows of no instance in which they have been adopted in practice.
@@ -3002,7 +3002,7 @@ to Messina, 1548).
   Till then it was based almost entirely on common law, only a few
   disconnected points having been dealt with by statute. The reported
   cases were thus of great importance, and being about 2000 in number
-  (_teste_ Sir M. D. Chalmers) were not easy to master. No doubt many of
+  (_teste_ Sir M. D. [[Chalmers]]) were not easy to master. No doubt many of
   them referred to commercial conditions no longer prevalent; still they
   could not be entirely ignored. But the original introducer of the bill
   described it as an endeavour "to reproduce as exactly as possible the
@@ -3015,7 +3015,7 @@ to Messina, 1548).
   provisions of the act work.
 
 
-  Definition.
+  [[Definition]].
 
 A contract of marine insurance is a contract of indemnity whereby the
 insurer undertakes to indemnify the insured, in the manner and to the
@@ -3065,7 +3065,7 @@ policy.
   sale, he can assign his policy to the party who acquires his
   interest--unless, of course, the policy contains terms expressly
   prohibiting assignment. The customary form of assignment is
-  endorsement of the policy either in blank or to a specified party.
+  endorsement of the policy either in [[Blank|blank]] or to a specified party.
   Within the limits already named, interests are insurable whether
   complete or partial, defeasible or contingent; similarly loans on
   bottomry or respondentia, advance freight not repayable in case of
@@ -3140,7 +3140,7 @@ made in good faith.
   the protection granted by the latter is called the _premium_. Until
   payment be made or tendered the policy is not ordinarily issuable,
   i.e. unless otherwise agreed. When the insured effects insurance with
-  an underwriter through a broker, then, unless otherwise agreed, the
+  an underwriter through a [[Broker|broker]], then, unless otherwise agreed, the
   broker is liable for the premium to the underwriter, who is, however,
   directly responsible to the assured for losses or liabilities falling
   on the policy and for returnable premium. But the broker has a lien on
@@ -3230,7 +3230,7 @@ venture.
   from it; (2) when, in absence of such definite specification in the
   policy, the vessel departs from the course usually and customarily
   followed in the voyage insured. If a policy provides for several named
-  ports of discharge, the vessel may, without committing deviation, omit
+  ports of [[Discharge|discharge]], the vessel may, without committing deviation, omit
   to proceed to one or more; but whether she goes to all or to some she
   must (in absence of usage or sufficient cause to the contrary) take
   them in the order in which they appear in the policy, if not there is
@@ -3265,7 +3265,7 @@ name is unfortunate, as in every other branch of the law of contract it
 bears another meaning; still it is convenient, and its insurance
 signification is now firmly established. Failure on the part of the
 insured to fulfil a warranty _literally_ entitles the underwriter to
-avoid his contract as from the moment of breach,[4] but it does not
+avoid his contract as from the moment of [[Breach|breach]],[4] but it does not
 limit his obligation up to that moment. Breach of warranty is not
 nullified by subsequent remedy of the breach, consequently loss
 occurring after breach of warranty is not at the charge of the
@@ -3427,7 +3427,7 @@ proximately caused by sea-perils.
   covers the insured against both, unless a different intention appears
   from the terms of the policy. It is an "actual" total loss when the
   object insured is destroyed or damaged so as to cease to be of the
-  denomination of goods to which it belonged when insured, or when the
+  [[Denomination|denomination]] of goods to which it belonged when insured, or when the
   insured is irretrievably deprived of the property insured. In the case
   of an actual total loss no notice of abandonment need be given. In the
   case of a missing ship after the lapse of a reasonable time without
@@ -3660,7 +3660,7 @@ proximately caused by sea-perils.
   such risks probably lie more in determining the legal position of the
   owners of the property, and the obligations under which they lie, than
   in settling those of their underwriters. Such questions concern
-  _blockade_, _contraband_, _domicile_, _nationality_, _neutrality_, &c.
+  _[[Blockade|blockade]]_, _contraband_, _domicile_, _nationality_, _neutrality_, &c.
 
 
     Course of business.
@@ -3716,7 +3716,7 @@ proximately caused by sea-perils.
   Statement of loss in detail. In the United States certified copies of
   Nos. (1), (2), and (3) are taken; but as none of these copy-documents
   can transfer possession to the underwriter, there is necessary for
-  that purpose another document, viz. (5) Bill of sale and abandonment
+  that purpose another document, viz. (5) [[Bill Of Sale|Bill of sale]] and abandonment
   with subrogation to underwriter--that is, an assignment of all
   interest to the underwriter. In the absence of the _full_ set of bills
   of lading, a similar document should be taken in Great Britain,
@@ -3745,10 +3745,10 @@ proximately caused by sea-perils.
   AUTHORITIES.--E. K. Allen, _Stamp Duties on Sea Insurances_ (2nd ed.,
   London, 1903); Th. Andresen, _Seeversicherung_ (Hamburg, 1888); Joseph
   Arnould, _Treatise on the Law of Marine Insurance and Average_ (2
-  vols., 2nd edition, London, 1857); eighth edition by de Hart and Simey
+  vols., 2nd edition, London, 1857); eighth edition by de [[Hart]] and Simey
   (London, 1909); Laurence R. Baily, _Perils of the Seas_ (London,
-  1860); William Barber, _Principles of the Law of Insurance_ (San
-  Francisco, 1887); W. G. Black, _Digest of Decisions in Scottish
+  1860); William [[Barber]], _Principles of the Law of Insurance_ (San
+  Francisco, 1887); W. G. Black, _[[Digest]] of Decisions in Scottish
   Shipping Cases, 1865-1890_ (Edinburgh, 1891); Sir M. D. Chalmers and
   Douglas Owen, _Marine Insurance Act 1906_ (London, 1906); Alfred de
   Courcy, _Commentaire des polices francaises d'assurances maritimes_
@@ -3756,9 +3756,9 @@ proximately caused by sea-perils.
   Insurance Act 1906_ (London, 1907); R. R. Douglas, _Index to Maritime
   Law Decisions_ (London, 1888); John Duer, _Law and Practice of Marine
   Insurance_ (2 vols., New York, 1845, 1846); William Gow, _Marine
-  Insurance_ (3rd corrected edition, London, 1909); Victor Jacobs,
+  Insurance_ (3rd corrected edition, London, 1909); Victor [[Jacobs]],
   _Etude sur les assurances maritimes et les avaries_ (Brussels, 1885);
-  Richard Lowndes, _Practical Treatise on the Law of Marine Insurance_
+  Richard [[Lowndes]], _Practical Treatise on the Law of Marine Insurance_
   (2nd edition, London, 1885); _Law of General Average, English and
   Foreign_ (4th edition, London, 1888); Charles M'Arthur, _Contract of
   Marine Insurance_ (2nd edition, London, 1890); D. Maclachlan, _Arnould
@@ -3771,7 +3771,7 @@ proximately caused by sea-perils.
   of the Laws of England_, vol. viii. (London, 1907); Willard Phillips,
   _Treatise on the Law of Insurance_ (2 vols., 5th edition, New York,
   1867); C. R. Tyser, _Law relating to Losses under a Policy of Marine
-  Insurance_ (London, 1894); Rudolph Ulrich, _Grosse Haverei_ (2nd ed.,
+  Insurance_ (London, 1894); Rudolph Ulrich, _[[Grosse]] Haverei_ (2nd ed.,
   3 vols., Berlin, 1903, 1905, 1906); G. Denis Weil, _Des assurances
   maritimes et des avaries_ (Paris, 1879).     (W. Go.)
 
@@ -3803,7 +3803,7 @@ FOOTNOTES:
   [4] Lord Mansfield expressed it: "The warranty in a contract of
     insurance is a condition or a contingency, and unless that be
     performed there is no contract" (_Hibbert_ v. _Pigou_, _apud_
-    Marshall, 3rd ed., p. 375).
+    [[Marshall]], 3rd ed., p. 375).
 
 ## References
 

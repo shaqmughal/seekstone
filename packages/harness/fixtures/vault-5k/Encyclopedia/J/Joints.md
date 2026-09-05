@@ -9,14 +9,14 @@ type: article
 
 JOINTS, in anatomy. The study of joints, or articulations, is known as
 Arthrology (Gr. [Greek: arthron]), and naturally begins with the
-definition of a joint. Anatomically the term is used for any connexion
-between two or more adjacent parts of the skeleton, whether they be bone
+[[Definition|definition]] of a joint. Anatomically the term is used for any connexion
+between two or more adjacent parts of the skeleton, whether they be [[Bone|bone]]
 or cartilage. Joints may be immovable, like those of the skull, or
-movable, like the knee.
+movable, like the [[Knee|knee]].
 
 [Illustration: FIG. 1.--Vertical section through a synchondrosis. b, b,
 the two bones; Sc, the interposed cartilage; l, the fibrous membrane
-which plays the part of a ligament.]
+which plays the part of a [[Ligament|ligament]].]
 
 [Illustration: FIG. 2.--Vertical section through a cranial suture, b, b,
 the two bones; s, opposite the suture; l, the fibrous membrane, or
@@ -106,7 +106,7 @@ ligament, and which is continuous with the interposed fibrous membrane.]
   in which the cavity is subdivided into two by an interposed
   fibro-cartilage or meniscus, Fc. The other letters as in fig. 4.]
 
-  A _compound diarthrodial joint_ is one in which the joint cavity is
+  A _[[Compound|compound]] diarthrodial joint_ is one in which the joint cavity is
   divided partly or wholly into two by a _meniscus_ or _interarticular
   fibro-cartilage_ (fig. 5, Fc).
 
@@ -127,9 +127,9 @@ ligament, and which is continuous with the interposed fibrous membrane.]
   attached close to the articular end of the skeletal element that end
   becomes concave, while, when they are attached far off or are not
   attached at all, as in the case of the phalanges, the articular end is
-  convex. His mechanical explanation is ingenious and to the present
+  [[Convex|convex]]. His mechanical explanation is ingenious and to the present
   writer convincing (see _Handbuch der Gelenke_, by R. Fick, Jena,
-  1904). Bernays, however, pointed out that the articular ends were
+  1904). [[Bernays]], however, pointed out that the articular ends were
   moulded before the muscular tissue was differentiated (_Morph. Jahrb._
   iv. 403), but to this Fick replies by pointing out that muscular
   movements begin before the muscle fibres are formed, and may be seen
@@ -141,7 +141,7 @@ ligament, and which is continuous with the interposed fibrous membrane.]
   (1) _Gliding joints_ (_Arthrodia_), in which the articular surfaces
   are flat, as in the carpal and tarsal bones.
 
-  (2) _Hinge joints_ (_Ginglymus_), such as the elbow and
+  (2) _Hinge joints_ (_Ginglymus_), such as the [[Elbow|elbow]] and
   interphalangeal joints.
 
   (3) _Condyloid joints_ (_Condylarthrosis_), allowing flexion and
@@ -176,7 +176,7 @@ amphiarthrodial joint results, or it may become absorbed in the centre
 to form a joint cavity, or, if this absorption occurs in two places, two
 joint cavities with an intervening meniscus may result. Although,
 ontogenetically, there is little doubt that menisci arise in the way
-just mentioned, the teaching of comparative anatomy suggests that,
+just mentioned, the teaching of [[Comparative Anatomy|comparative anatomy]] suggests that,
 phylogenetically, they originate as an ingrowth from the capsule pushing
 the synovial membrane in front of them. The subject will be returned to
 when the comparative anatomy of the individual joints is reviewed. In
@@ -194,7 +194,7 @@ disks_. These are formed of alternating concentric rings of fibrous
 tissue and fibro-cartilage, with an elastic mass in the centre known as
 the _nucleus pulposus_. The bodies are also bound together by _anterior_
 and _posterior common ligaments_. The odontoid process of the axis fits
-into a pivot joint formed by the anterior arch of the atlas in front and
+into a pivot joint formed by the anterior arch of the [[Atlas|atlas]] in front and
 the _transverse ligament_ behind; it is attached to the basioccipital
 bone by two strong _lateral check ligaments_, and, in the mid line, by a
 feebler _middle check ligament_ which is regarded morphologically as
@@ -307,7 +307,7 @@ enarthrodial variety. Its most striking characteristic is mobility at
 the expense of strength. The small size of the glenoid cavity in
 comparison with the head of the humerus, and the great laxity of the
 capsule, favour this, although the glenoid cavity is slightly deepened
-by a fibrous lip, called the _glenoid ligament_, round its margin. The
+by a fibrous [[Lip|lip]], called the _glenoid ligament_, round its margin. The
 presence of the coracoid and acromial processes of the scapula, with the
 _coraco-acromial ligament_ between them, serves as an overhanging
 protection to the joint, while the biceps tendon runs over the head of
@@ -506,14 +506,14 @@ from the external condyle to the head of the fibula, while the posterior
 is slighter and passes from the same place to the styloid process of the
 fibula. The _internal lateral ligament_ is a flat band which runs from
 the inner condyle of the femur to the internal surface of the tibia some
-two inches below the level of the knee joint. The posterior part of the
+two [[Inch|inches]] below the level of the knee joint. The posterior part of the
 capsule is strengthened by an oblique bundle of fibres running upward
 and outward from the semimembranosus tendon, and called the _posterior
 ligament of Winslow_.
 
 The intra-articular structures are numerous and interesting. Passing
 from the head of the tibia, in front and behind the spine, are the
-_anterior_ and _posterior crucial ligaments_; the former is attached to
+_anterior_ and _posterior [[Crucial|crucial]] ligaments_; the former is attached to
 the outer side of the intercondylar notch above, and the latter to the
 inner side. These two ligaments cross like an X. The _semilunar
 fibro-cartilages_--external and internal--are partial menisci, each of
@@ -550,10 +550,10 @@ in front of the knee.
   Ornithorhynchus, the knee is divided into three parts, two
   condylo-tibial and one trochleo-patellar, by synovial folds which in
   Man are represented by the ligamentum mucosum. In a typical Mammal the
-  external _semilunar cartilage_ is attached by its posterior horn to
+  external _semilunar cartilage_ is attached by its posterior [[Horn|horn]] to
   the internal condyle of the femur only, and this explains the
   _ligament of Wrisberg_ already mentioned. In the Monkeys and
-  anthropoid Apes this cartilage is circular. The _semilunar cartilages_
+  anthropoid [[Ape|Apes]] this cartilage is circular. The _semilunar cartilages_
   first appear in the Amphibia, and, according to B. Sutton, are derived
   from muscles which are drawn into the joint. When only one kind of
   movement (hinge) is allowed, as in the fruit bat, the cartilages are
@@ -566,7 +566,7 @@ in front of the knee.
   membrane, while the lower has been already used as an example of a
   syndesmosis or fibrous half joint.
 
-The ANKLE JOINT is a hinge, the astragalus being received into a lateral
+The [[Ankle|ANKLE]] JOINT is a hinge, the astragalus being received into a lateral
 arch formed by the lower ends of the tibia and fibula. Backward
 dislocation is prevented by the articular surface of the astragalus
 being broader in front than behind. The anterior and posterior parts of
@@ -665,7 +665,7 @@ the articular surfaces are separated from one another.
   chiefly suffers; the condition is termed _synovitis_. Synovitis may,
   however, be due to other causes than mechanical injury, as when the
   interior of the joint is attacked by the micro-organisms of pyæmia
-  (blood-poisoning), typhoid fever, pneumonia, rheumatism, gonorrhoea or
+  (blood-poisoning), typhoid [[Fever|fever]], pneumonia, rheumatism, gonorrhoea or
   syphilis. Under judicious treatment the synovitis generally clears up,
   but it may linger on and cause the formation of adhesions which may
   temporarily stiffen the joint; or it may, especially in tuberculous,
@@ -795,7 +795,7 @@ the articular surfaces are separated from one another.
   A _stiff joint_ may remain as the result of long continued
   inflammation; the unused muscles are wasted and the joint in
   consequence looks large. Careful measurement, however, may show that
-  it is not materially larger than its fellow. And though all tenderness
+  it is not materially larger than its [[Fellow|fellow]]. And though all tenderness
   may have passed away, and though the neighbouring skin is no longer
   hot, still the joint remains stiff and useless. No progress being made
   under the influence of massage, or of gentle exercises, the surgeon
@@ -849,14 +849,14 @@ the articular surfaces are separated from one another.
   pain after exercise, and with a little effusion into the capsule of
   the joint. As regards _treatment_, medicines are of no great value.
   Wet, cold and damp being bad for the patient, he should be, if
-  possible, got into a dry, bright, sunny place, and he should dress
+  possible, got into a dry, bright, sunny place, and he should [[Dress|dress]]
   warmly. Perhaps there is no better place for him in the winter than
-  Assuan. Cairo is not so suitable as it used to be before the dam was
+  [[Assuan]]. Cairo is not so suitable as it used to be before the dam was
   made, when its climate was drier. For the spring and summer certain
   British and Continental watering-places serve well. But if this luxury
   cannot be afforded, the patient must make himself as happy as he can
   with such hot douchings and massage as he can obtain, keeping himself
-  warm, and his joints covered by flannel bandages and rubbed with
+  warm, and his joints covered by [[Flannel|flannel]] bandages and rubbed with
   stimulating liniments. In people advanced or advancing in years, the
   disease, as a rule, gets slowly worse, sometimes very slowly, but
   sometimes rapidly, especially when its makes its appearance in the
@@ -880,11 +880,11 @@ the articular surfaces are separated from one another.
   After the joint has thus gone wrong, bleeding and serous effusion take
   place into it, and it becomes greatly swollen. And if the cartilage
   still remains in the grip of the bones he is unable to straighten or
-  bend his knee. But the surgeon by suddenly flexing and twisting the
-  leg may manage to unhitch the cartilage and restore comfort and
+  [[Bend|bend]] his knee. But the surgeon by suddenly flexing and twisting the
+  leg may [[Manage|manage]] to unhitch the cartilage and restore comfort and
   usefulness to the limb. As a rule, the slipping of a cartilage first
   occurs as the result of a serious fall or of a sudden and violent
-  action--often it happens when the man is "dodging" at football, the
+  action--often it happens when the man is "dodging" at [[Football|football]], the
   foot being firmly fixed on the ground and the body being violently
   twisted at the knee. After the slipping has occurred many times, the
   amount of swelling, distress and lameness may diminish with each
@@ -965,7 +965,7 @@ the articular surfaces are separated from one another.
 
   The first thing to be done is to find out by means of the X-rays
   whether a socket exists into which, under an anaesthetic, the surgeon
-  may fortunately be enabled to lodge the end of the thigh-bone. If this
+  may fortunately be enabled to [[Lodge|lodge]] the end of the thigh-bone. If this
   offers no prospect of success, there are three courses open: First,
   to try under an anaesthetic to manipulate the limb until the head of
   the thigh-bone rests as nearly as possible in its normal position, and

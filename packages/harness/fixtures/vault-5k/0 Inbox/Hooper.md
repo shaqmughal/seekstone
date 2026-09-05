@@ -5,8 +5,8 @@ was born in Somerset about the end of the 15th century and graduated
 B.A. at Oxford in 1519. He is said to have then entered the Cistercian
 monastery at Gloucester; but in 1538 a John Hooper appears among the
 names of the Black friars at Gloucester and also among the White friars
-at Bristol who surrendered their houses to the king. A John Hooper was
-likewise canon of Wormesley priory in Herefordshire; but identification
+at [[Bristol]] who surrendered their houses to the king. A John Hooper was
+likewise canon of Wormesley priory in Herefordshire; but [[Identification|identification]]
 of any of these with the future bishop is doubtful. The _Greyfriars'
 Chronicle_ says that Hooper was "sometime a white monk"; and in the
 sentence pronounced against him by Gardiner he is described as "_olim
@@ -21,7 +21,7 @@ Before 1546 he had secured employment in the household of Sir Thomas
 Arundell, a man of influential connexions. Hooper speaks of himself at
 this period as being "a courtier and living too much of a court life in
 the palace of our king." But he chanced upon some of Zwingli's works and
-Bullinger's commentaries on St Paul's epistles; and after some
+Bullinger's commentaries on St Paul's [[Epistle|epistles]]; and after some
 molestation in England and some correspondence with Bullinger on the
 lawfulness of complying against his conscience with the established
 religion, he determined to secure what property he could and take refuge
@@ -34,8 +34,8 @@ successor, Bullinger.
 
 It was not until May 1549, after he had published various works at
 Zurich, that Hooper again arrived in England. He at once became the
-principal champion of Swiss Protestantism against the Lutherans as well
-as the Catholics, and was appointed chaplain to Protector Somerset.
+principal [[Champion|champion]] of Swiss Protestantism against the Lutherans as well
+as the Catholics, and was appointed [[Chaplain|chaplain]] to Protector Somerset.
 Somerset's fall in the following October endangered Hooper's position,
 and for a time he was in hourly dread of imprisonment and martyrdom,
 more especially as he had taken a prominent part against Gardiner and
@@ -56,7 +56,7 @@ consecration with the legal ceremonies (March 8, 1551).
 Once seated in his bishopric Hooper set about his episcopal duties with
 exemplary vigour. His visitation of his diocese (printed in _English
 Hist. Rev._ Jan. 1904, pp. 98-121) revealed a condition of almost
-incredible ignorance among his clergy. Fewer than half could say the Ten
+incredible [[Ignorance|ignorance]] among his clergy. Fewer than half could say the Ten
 Commandments; some could not even repeat the Lord's Prayer in English.
 Hooper did his best in the time at his disposal; but in less than a year
 the bishopric of Gloucester was reduced to an archdeaconry and added to
@@ -73,7 +73,7 @@ Hooper was kept in prison; and the revival of the heresy acts in
 December 1554 was swiftly followed by execution. On the 29th of January
 1555, Hooper, Rogers, Rowland Taylor and others were condemned by
 Gardiner and degraded by Bonner. Hooper was sent down to suffer at
-Gloucester, where he was burnt on the 9th of February, meeting his fate
+Gloucester, where he was burnt on the 9th of February, meeting his [[Fate|fate]]
 with steadfast courage and unshaken conviction.
 
 Hooper was the first of the bishops to suffer because his Zwinglian
@@ -84,13 +84,13 @@ approved of the _Consensus Tigurinus_ negotiated in 1549 between the
 Zwinglians and Calvinists of Switzerland; and it was this form of
 religion that he laboured to spread in England against the wishes of
 Cranmer, Ridley, Bucer, Peter Martyr and other more conservative
-theologians. He would have reduced episcopacy to narrow limits; and his
+theologians. He would have reduced [[Episcopacy|episcopacy]] to narrow limits; and his
 views had considerable influence on the Puritans of Elizabeth's reign,
 when many editions of Hooper's various works were published.
 
   Two volumes of Hooper's writings are included in the Parker Society's
   publications and another edition appeared at Oxford in 1855. See also
-  Gough's General Index to Parker Soc. Publ.; Strype's _Works_ (General
+  Gough's General [[Index]] to Parker Soc. Publ.; Strype's _Works_ (General
   Index); Foxe's _Acts and Monuments_, ed. Townsend; _Acts of the Privy
   Council; Cal. State Papers_, "Domestic" Series; Nichols's _Lit.
   Remains of Edward VI._; Burner, Collier, Dixon, Froude and Gairdner's

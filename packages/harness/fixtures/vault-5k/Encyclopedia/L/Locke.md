@@ -18,9 +18,9 @@ home, was engaged in the military service of the parliamentary party.
 myself in a storm, which has continued to this time." For fourteen years
 his education, more or less interrupted, went on in the rural home at
 Belluton, on his father's little estate, half a mile from Pensford, and
-6 m. from Bristol. In 1646 he entered Westminster School and remained
+6 m. from [[Bristol]]. In 1646 he entered Westminster School and remained
 there for six years. Westminster was uncongenial to him. Its memories
-perhaps encouraged the bias against public schools which afterwards
+perhaps encouraged the [[Bias|bias]] against public schools which afterwards
 disturbed his philosophic calm in his _Thoughts on Education_. In 1652
 he entered Christ Church, Oxford, then under John Owen, the Puritan dean
 and vice-chancellor of the university. Christ Church was Locke's
@@ -40,7 +40,7 @@ Under Owen scholastic studies were maintained with a formality and
 dogmatism unsuited to Locke's free inquisitive temper. The aversion to
 them which he expressed showed thus early an innate disposition to rebel
 against empty verbal reasoning. He was not, according to his own account
-of himself to Lady Masham, a hard student at first. He sought the
+of himself to Lady [[Masham]], a hard student at first. He sought the
 company of pleasant and witty men, and thus gained knowledge of life. He
 took the ordinary bachelor's degree in 1656, and the master's in 1658.
 In December 1660 he was serving as tutor of Christ Church, lecturing in
@@ -56,14 +56,14 @@ which gave him a relish for philosophy, were those of this philosopher,
 although he very often differed from him. At the Restoration potent
 influences were drawing Oxford and England into experimental inquiries.
 Experiment in physics became the fashion. The Royal Society was then
-founded, and we find Locke experimenting in chemistry in 1663, also in
+founded, and we find Locke experimenting in [[Chemistry|chemistry]] in 1663, also in
 meteorology, in which he was particularly interested all his life.
 
 The restraints of a professional career were not suited to Locke. There
 is a surmise that early in his Oxford career he contemplated taking
 orders in the Church of England. His religious disposition attracted him
 to theology. Revulsion from the dogmatic temper of the Presbyterians,
-and the unreasoning enthusiasm of the Independents favoured sympathy
+and the unreasoning [[Enthusiasm|enthusiasm]] of the Independents favoured sympathy
 afterwards with Cambridge Platonists and other liberal Anglican
 churchmen. Whichcote was his favourite preacher, and close intimacy with
 the Cudworth family cheered his later years. But, though he has a place
@@ -73,7 +73,7 @@ him look to medicine as his profession, and before 1666 we find him
 practising as a physician in Oxford. Nevertheless, although known among
 his friends as "Doctor Locke," he never graduated in medicine. His
 health was uncertain, for he suffered through life from chronic
-consumption and asthma. A fortunate event soon withdrew him from the
+consumption and [[Asthma|asthma]]. A fortunate event soon withdrew him from the
 medical profession.
 
 Locke early showed an inclination to politics, as well as to theology
@@ -92,12 +92,12 @@ at Belluton, he found a home and shared fortune with Shaftesbury for
 fifteen years.
 
 Locke's commonplace books throw welcome light on the history of his mind
-in early life. A paper on the "Roman Commonwealth" which belongs to this
+in early life. A paper on the "Roman [[Commonwealth]]" which belongs to this
 period, expresses convictions about religious liberty and the relations
 of religion to the state that were modified and deepened afterwards;
 objections to the sacerdotal conception of Christianity appear in
 another article; short work is made of ecclesiastical claims to
-infallibility in the interpretation of Scripture in a third; a scheme of
+[[Infallibility|infallibility]] in the interpretation of Scripture in a third; a scheme of
 utilitarian ethics, wider than that of Hobbes, is suggested in a fourth.
 The most significant of those early revelations is the _Essay concerning
 Toleration_ (1666), which anticipates conclusions more fully argued
@@ -123,7 +123,7 @@ as likely to open a way out of their difficulties. He undertook to
 attempt this, and fancied that what he had to say might find sufficient
 space on "one sheet of paper." What was thus "begun by chance, was
 continued by entreaty, written by incoherent parcels, and after long
-intervals of neglect resumed again as humour and occasions permitted."
+intervals of neglect resumed again as [[Humour|humour]] and occasions permitted."
 At the end of nearly twenty years the issue was given to the world as
 Locke's now famous _Essay Concerning Human Understanding_.
 
@@ -137,7 +137,7 @@ letters--Peter Guenellon, the well-known Amsterdam physician; Ole Römer,
 the Danish astronomer; Thoynard, the critic; Melchisédech Thévenot, the
 traveller; Henri Justel, the jurist; and François Bernier, the expositor
 of Gassendi. But there is no mention of Malebranche, whose _Recherche de
-la vérité_ had appeared three years before, nor of Arnauld, the
+la vérité_ had appeared three years before, nor of [[Arnauld]], the
 illustrious rival of Malebranche.
 
 Locke returned to London in 1679. Reaction against the court party had
@@ -170,9 +170,9 @@ theological dogma hardly consistent with an exclusive connexion with any
 sect.
 
 In his fifty-second year, in the gloomy autumn of 1683, Locke retired to
-Holland, then the asylum of eminent persons who were elsewhere denied
+Holland, then the [[Asylum|asylum]] of eminent persons who were elsewhere denied
 liberty of thought. Descartes and Spinoza had speculated there; it had
-been the home of Erasmus and Grotius; it was now the refuge of Bayle.
+been the home of Erasmus and [[Grotius]]; it was now the refuge of Bayle.
 Locke spent more than five years there; but his (unpublished) letters
 show that exile sat heavily upon him. Amsterdam was his first Dutch
 home, where he lived in the house of Dr Keen, under the assumed name of
@@ -184,7 +184,7 @@ new friends. The chief of these was Limborch, the successor of
 Episcopius as Remonstrant professor of theology, lucid, learned and
 tolerant, the friend of Cudworth, Whichcote and More. By Limborch he was
 introduced to Le Clerc, the youthful representative of letters and
-philosophy in Limborch's college, who had escaped from Geneva and
+philosophy in Limborch's college, who had escaped from [[Geneva]] and
 Calvinism to the milder atmosphere of Holland and the Remonstrants. The
 _Bibliothèque universelle_ of Le Clerc was then the chief organ in
 Europe of men of letters. Locke contributed several articles. It was his
@@ -199,7 +199,7 @@ epitome appeared in 1688 in Le Clerc's journal, the forecast of the
 larger work. Locke was then at Rotterdam, where he lived for a year in
 the house of a Quaker friend, Benjamin Furley, or Furly, a wealthy
 merchant and lover of books. At Rotterdam he was a confidant of
-political exiles, including Burnet and the famous earl of Peterborough,
+political exiles, including [[Burnet]] and the famous earl of Peterborough,
 and he became known to William, prince of Orange. William landed in
 England in November 1688; Locke followed in February 1689, in the ship
 which carried the princess Mary.
@@ -212,13 +212,13 @@ he lived at Dorset Court in London, were memorable for the publication
 of his two chief works on social polity, and of the epoch-making book on
 modern philosophy which reveals the main principles of his life. The
 earliest of these to appear was his defence of religious liberty, in the
-_Epistola de Tolerantia_, addressed to Limborch, published at Gouda in
+_Epistola de Tolerantia_, addressed to Limborch, published at [[Gouda]] in
 the spring of 1689, and translated into English in autumn by William
 Popple, a Unitarian merchant in London. _Two Treatises on Government_,
 in defence of the right of ultimate sovereignty in the people, followed
 a few months later. The famous _Essay concerning Human Understanding_
 saw the light in the spring of 1690. He received £30 for the copyright,
-nearly the same as Kant got in 1781 for his _Kritik der reinen
+nearly the same as [[Kant]] got in 1781 for his _Kritik der reinen
 Vernunft_. In the _Essay_ Locke was the critic of the empirical data of
 human experience: Kant, as the critic of the intellectual and moral
 presuppositions of experience, supplied the complement to the incomplete
@@ -248,11 +248,11 @@ public affairs, in which he was still an active adviser. Otes was in
 every way his home. In his letters and otherwise we have pleasant
 pictures of its inmates and domestic life and the occasional visits of
 his friends, among others Lord Peterborough, Lord Shaftesbury of the
-_Characteristics_, Sir Isaac Newton, William Molyneux and Anthony
-Collins.
+_Characteristics_, Sir [[Isaac]] Newton, William Molyneux and Anthony
+[[Collins]].
 
 At Otes he was busy with his pen. The _Letter on Toleration_ involved
-him in controversy. An _Answer_ by Jonas Proast of Queen's College,
+him in controversy. An _Answer_ by [[Jonas]] Proast of Queen's College,
 Oxford, had drawn forth in 1690 a _Second Letter_. A rejoinder in 1691
 was followed by Locke's elaborate _Third Letter on Toleration_ in the
 summer of the following year. In 1691 currency and finance were much in
@@ -275,7 +275,7 @@ conspicuous. Locke's _Vindication_, followed by a _Second Vindication_
 in 1697, added fuel to this fire. Above all, the great _Essay_ was
 assailed and often misinterpreted by philosophers and divines. Notes of
 opposition had been heard almost as soon as it appeared. John Norris,
-the metaphysical rector of Bemerton and English disciple of Malebranche,
+the metaphysical rector of Bemerton and English [[Disciple|disciple]] of Malebranche,
 criticized it in 1690. Locke took no notice at the time, but his second
 winter at Otes was partly employed in _An Examination of Malebranche's
 Opinion of Seeing all Things in God_, and in _Remarks upon some of Mr
@@ -306,7 +306,7 @@ replied in January 1697. Stillingfleet's rejoinder appeared in May,
 followed by a _Second Letter_ from Locke in August, to which the bishop
 replied in the following year. Locke's _Third Letter_, in which the
 ramifications of this controversy are pursued with a copious expenditure
-of acute reasoning and polished irony, was delayed till 1699, in which
+of acute reasoning and polished [[Irony|irony]], was delayed till 1699, in which
 year Stillingfleet died. Other critics of the _Essay_ entered the lists.
 One of the ablest was John Sergeant, a priest of the Roman Church, in
 _Solid Philosophy Asserted Against the Fancies of the Ideists_ (1697).
@@ -320,7 +320,7 @@ clergyman. The _Essay_ itself was meanwhile spreading over Europe,
 impelled by the name of its author as the chief philosophical defender
 of civil and religious liberty. The fourth edition (the last while Locke
 was alive) appeared in 1700, with important additional chapters on
-"Association of Ideas" and "Enthusiasm." What was originally meant to
+"[[Association Of Ideas|Association of Ideas]]" and "Enthusiasm." What was originally meant to
 form another chapter was withheld. It appeared among Locke's posthumous
 writings as _The Conduct of the Understanding_, one of the most
 characteristic of his works. The French translation of the _Essay_ by
@@ -332,7 +332,7 @@ Amsterdam and at Leipzig.
 In 1700 Locke resigned his commission at the Board of Trade, and devoted
 himself to Biblical studies and religious meditation. The Gospels had
 been carefully studied when he was preparing his _Reasonableness of
-Christianity_. He now turned to the Epistles of St Paul, and applied the
+Christianity_. He now turned to the [[Epistle|Epistles]] of St Paul, and applied the
 spirit of the _Essay_ and the ordinary rules of critical interpretation
 to a literature which he venerated as infallible, like the pious
 Puritans who surrounded his youth. The work was ready when he died, and
@@ -397,7 +397,7 @@ harm, but never yet did anyone the least good." Large, "round-about"
 common sense, intellectual strength directed by a virtuous purpose, not
 subtle or daring speculation sustained by an idealizing faculty, in
 which he was deficient, is what we find in Locke. Defect in speculative
-imagination appears when he encounters the vast and complex final
+[[Imagination|imagination]] appears when he encounters the vast and complex final
 problem of the universe in its organic unity.
 
 Locke is apt to be forgotten now, because in his own generation he so
@@ -426,7 +426,7 @@ are memorable in the record of human progress.
   in England, and after for Keeping it here"_ (1695). (7) _Further
   Considerations concerning Raising the Value of Money_ (1695)
   (occasioned by a _Report_ containing an "Essay for the Amendment of
-  Silver Coins," published that year by William Lowndes, secretary for
+  Silver Coins," published that year by William [[Lowndes]], secretary for
   the Treasury). (8) _A Fourth Letter for Toleration_ (1706,
   posthumous).
 
@@ -442,7 +442,7 @@ are memorable in the record of human progress.
 
   III. EDUCATION.--(1) _Some Thoughts concerning Education_ (1693). (2)
   _The Conduct of the Understanding_ (1706, posthumous). (3) _Some
-  Thoughts concerning Reading and Study for a Gentleman_ (1706,
+  Thoughts concerning Reading and Study for a [[Gentleman]]_ (1706,
   posthumous). (4) _Instructions for the Conduct of a Young Gentleman_
   (1706, posthumous). (5) _Of Study_ (written in France in Locke's
   journal, and published in L. King's _Life of Locke_ in 1830).
@@ -476,13 +476,13 @@ are memorable in the record of human progress.
   by orders from the House of Lords, was disavowed by Locke himself. It
   may have been dictated by Shaftesbury. There are also miscellaneous
   writings of Locke first published in the biographies of Lord King
-  (1830) and of Mr Fox Bourne (1876).
+  (1830) and of Mr Fox [[Bourne]] (1876).
 
   _Letters_ from Locke to Thoynard, Limborch, Le Clerc, Guenellon,
   Molyneux, Collins, Sir Isaac Newton, the first and the third Lord
   Shaftesbury, Lords Peterborough and Pembroke, Clarke of Chipley and
   others are preserved, many of them unpublished, most of them in the
-  keeping of Lord Lovelace at Horseley Towers, and of Mr Sanford at
+  keeping of Lord [[Lovelace]] at Horseley Towers, and of Mr Sanford at
   Nynehead in Somerset, or in the British Museum. They express the
   gracious courtesy and playful humour which were natural to him, and
   his varied interests in human life.
@@ -509,7 +509,7 @@ are memorable in the record of human progress.
   and that "the grossest absurdities" must be the issue of "following
   custom when reason has left the custom." He was always disposed to
   liberal ecclesiastical concessions for the sake of peace, and he
-  recommended harmonious co-operation with the civil magistrate in all
+  recommended harmonious co-operation with the civil [[Magistrate|magistrate]] in all
   matters of worship and government that were not expressly determined
   by Scripture.
 
@@ -556,7 +556,7 @@ are memorable in the record of human progress.
   Toleration_ fatigues the modern reader. The change is due more to
   Locke himself than to anyone else. Free thought and liberty of
   conscience had indeed been pleaded for, on various grounds, in the
-  century in which he lived. Chillingworth, Jeremy Taylor, Glanvill and
+  century in which he lived. Chillingworth, [[Jeremy]] Taylor, Glanvill and
   other philosophical thinkers in the Church of England urged toleration
   in the state, in conjunction with wide comprehension in the church, on
   the ground of our necessary intellectual limitation and inability to
@@ -629,7 +629,7 @@ are memorable in the record of human progress.
   of peace among Christians, to its original simplicity; but this is apt
   to conceal its transcendent mystery. Those who practically acknowledge
   the supremacy of Jesus as Messiah accept all that is essential to the
-  Christianity of Locke. His own Christian belief, sincere and earnest,
+  Christianity of Locke. His own Christian belief, sincere and [[Earnest|earnest]],
   was more the outcome of the common sense which, largely through him,
   moulded the prudential theology of England in the 18th century, than
   of the nobler elements present in More, Cudworth and other religious
@@ -701,9 +701,9 @@ are memorable in the record of human progress.
   show that our knowledge at its highest must be far short of a
   "universal or perfect comprehension of whatsoever is," it might still
   be "sufficient" for us, because "suited to our individual state." The
-  "light of reason," the "candle of the Lord," that is set up in us may
+  "light of reason," the "[[Candle|candle]] of the Lord," that is set up in us may
   be found to shine bright enough for all _our_ purposes. If human
-  understanding cannot fully solve the infinite problem of the universe,
+  understanding cannot fully solve the [[Infinite|infinite]] problem of the universe,
   man may at least see that at no stage of his finite experience is he
   necessarily the sport of chance, and that he can practically secure
   his own wellbeing.
@@ -801,9 +801,9 @@ are memorable in the record of human progress.
   serve his purpose who teacheth them" (bk. i. chap. 4, § 24).
 
 
-    Genesis of ideas.
+    [[Genesis]] of ideas.
 
-  The second book proposes a hypothesis regarding the genesis of our
+  The second book proposes a [[Hypothesis|hypothesis]] regarding the genesis of our
   ideas and closes after an elaborate endeavour to verify it. The
   hypothesis is, that all human ideas, even the most complex and
   abstract and sublime, ultimately depend upon "experience." Otherwise,
@@ -832,7 +832,7 @@ are memorable in the record of human progress.
   like it, and might properly enough be called internal sense." But the
   suggestion that "sense" might designate _both_ the springs of
   experience is misleading, when we find in the sequel how much Locke
-  tacitly credits "reflection" with. The ambiguity of his language makes
+  tacitly [[Credit|credits]] "reflection" with. The ambiguity of his language makes
   opposite interpretations of this cardinal part of the Essay possible;
   the best we can do is to compare one part with another, and in
   doubtful cases to give him the benefit of the doubt.
@@ -865,7 +865,7 @@ are memorable in the record of human progress.
   The contrast and correlation of these two data of experience is
   suggested in the chapter on the "qualities of matter" in which we are
   introduced to a noteworthy vein of speculation (bk. ii. chap. 8). This
-  chapter, on "things and their qualities," looks like an interpolation
+  chapter, on "things and their qualities," looks like an [[Interpolation|interpolation]]
   in an analysis of mere "ideas." Locke here treats simple ideas of the
   five senses as qualities of outward things. And the sense data are, he
   finds, partly (a) revelations of external things themselves in their
@@ -905,7 +905,7 @@ are memorable in the record of human progress.
   inconsistent with it."
 
   Some of the most remarkable chapters in the second book concern what
-  may be called "crucial instances" in verification of its fundamental
+  may be called "[[Crucial|crucial]] instances" in verification of its fundamental
   hypothesis of the dependence of human knowledge upon the simple ideas
   presented in our dual experience (bk. ii. ch. 13-28). They carry us
   towards the ultimate mysteries which attract meditative minds. The
@@ -954,7 +954,7 @@ are memorable in the record of human progress.
   itself obliged to add without limit and to divide without limit. He
   simply reports that immensity and eternity are inevitable negative
   ideas, and also that every endeavour to realize them in positive
-  images must be an attempt to represent as quantity what is beyond
+  [[Image|images]] must be an attempt to represent as quantity what is beyond
   quantity. After all our additions we are as far from the infinite idea
   as we were at the beginning.
 
@@ -969,7 +969,7 @@ are memorable in the record of human progress.
   dispense with it. An unsubstantiated succession of phenomena, without
   a centre of unity to which they are referable as qualities, is
   unintelligible: we cannot have a language of adjectives without nouns.
-  Locke had some apprehension of this transcendent intellectual
+  Locke had some [[Apprehension|apprehension]] of this transcendent intellectual
   obligation. According to his report, "the mind" always obliges us to
   suppose Something beyond positive phenomena to which the phenomena
   must be attributed; but he was perplexed by this "confused negative"
@@ -1093,7 +1093,7 @@ are memorable in the record of human progress.
   fourth.
 
 
-    Intuition and demonstration.
+    [[Intuition]] and demonstration.
 
   Locke found important differences in the way in which knowledge of any
   sort is reached. In some instances the known relation is self-evident,
@@ -1133,7 +1133,7 @@ are memorable in the record of human progress.
   important part of what we desire to know." Of these, including as they
   do all inductive science, he reports that demonstrable knowledge "is
   very short, if indeed we have any at all"; and are not thrown wholly
-  on presumptions of probability, or else left in ignorance. Man cannot
+  on presumptions of probability, or else left in [[Ignorance|ignorance]]. Man cannot
   attain perfect and infallible science of bodies. For natural science
   depends, he thinks, on knowledge of the relations between their
   secondary qualities on the one hand, and the mathematical qualities of
@@ -1170,7 +1170,7 @@ are memorable in the record of human progress.
   I call the thinking faculty in me 'mind,' yet I cannot, because of
   that name, equal it in anything to that infinite and incomprehensible
   Being, which, for want of right and distinct conceptions, is called
-  'Mind' also." But the immanence of God in the things and persons that
+  'Mind' also." But the [[Immanence|immanence]] of God in the things and persons that
   compose the universal order, with what this implies, is a conception
   foreign to Locke, whose habitual conception was of an extra-mundane
   deity, the dominant conception in the 18th century.
@@ -1273,7 +1273,7 @@ are memorable in the record of human progress.
   Green's Introduction to the _Philosophical Works of Hume_ (1874). The
   _Essay, with Prolegomena, biographical, critical and historical_,
   edited by Professor Campbell Fraser and published by the Oxford
-  Clarendon Press in 1894, is the only annotated edition, unless the
+  [[Clarendon]] Press in 1894, is the only annotated edition, unless the
   _Nouveaux Essais_ of Leibnitz may be reduced to this category.
 
   The _Letters on Toleration_, _Thoughts on Education_ and _The_
@@ -1289,7 +1289,7 @@ are memorable in the record of human progress.
   of his _Works_, or contained in biographical dictionaries. In 1829 a
   _Life of Locke_ (2nd ed. in two volumes, with considerable additions,
   1830), was produced by Peter, 7th Baron King, a descendant of Locke's
-  cousin, Anne Locke. This adds a good deal to what was previously
+  [[Cousin|cousin]], Anne Locke. This adds a good deal to what was previously
   known, as Lord King was able to draw from the mass of correspondence,
   journals and commonplace books of Locke in his possession. In the same
   year Dr Thomas Foster published some interesting letters from Locke to
@@ -1298,7 +1298,7 @@ are memorable in the record of human progress.
   research among the Shaftesbury Papers, Locke MSS. in the British
   Museum, the Public Record Office, the Lambeth, Christ Church and
   Bodleian libraries, and in the Remonstrants' library at Amsterdam.
-  Monographs on Locke by T. H. Fowler in 1880, in "English Men of
+  Monographs on Locke by T. H. [[Fowler]] in 1880, in "English Men of
   Letters," and by Fraser, in 1890, in Blackwood's "Philosophical
   Classics" may be mentioned; also addresses by Sir F. Pollock and
   Fraser at the bicentenary commemoration by the British Academy of

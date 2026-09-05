@@ -55,7 +55,7 @@ d'amour_; but it also found energetic defenders.
   are lost--_De spirituelle amitié_ from the _De spirituali amicitia_ of
   Aelred of Rievaulx (d. 1166), and the _Livre des merveilles
   d'Hirlande_ from the _Topographia Hibernica_, or _De Mirabilibus
-  Hiberniae_ of Giraldus Cambrensis (Giraud de Barry). His last poems
+  Hiberniae_ of Giraldus Cambrensis ([[Giraud]] de [[Barry]]). His last poems
   are doubtless his _Testament_ and _Codicille_. The _Testament_ is
   written in quatrains in monorime, and contains advice to the different
   classes of the community.

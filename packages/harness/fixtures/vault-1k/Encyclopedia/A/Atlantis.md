@@ -11,7 +11,7 @@ the birth of Solon, and its armies had overrun the lands which bordered
 the Mediterranean. Athens alone had withstood them with success. Finally
 the sea had overwhelmed Atlantis, and had thenceforward become
 unnavigable owing to the shoals which marked the spot. In the _Critias_
-Plato adds a history of the ideal commonwealth of Atlantis. It is
+Plato adds a history of the ideal [[Commonwealth|commonwealth]] of Atlantis. It is
 impossible to decide how far this legend is due to Plato's invention,
 and how far it is based on facts of which no record remains. Medieval
 writers, for whom the tale was preserved by the Arabian geographers,
@@ -33,7 +33,7 @@ several races. Somewhat similar legends are those of the island of
 Brazil (q.v.), of Lyonnesse (q.v.), the sunken land off the Cornish
 coast, of the lost Breton city of Is, and of Mayda or Asmaide--the
 French _Isle Verte_ and Portuguese _Ilha Verde_ or "Green Island"--which
-appears in many folk-tales from Gibraltar to the Hebrides, and until
+appears in many folk-tales from Gibraltar to the [[Hebrides]], and until
 1853 was marked on English charts as a rock in 44 deg. 48' N. and 26
 deg. 10' W. After the Renaissance, with its renewal of interest in
 Platonic studies, numerous attempts were made to rationalize the myth of

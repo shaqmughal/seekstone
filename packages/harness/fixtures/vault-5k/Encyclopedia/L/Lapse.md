@@ -9,9 +9,9 @@ tags: [history, biography]
 # Lapse
 
 LAPSE (Lat. _lapsus_, a slip or departure), in law, a term used in
-several senses. (1) In ecclesiastical law, when a patron has neglected
+several senses. (1) In [[Ecclesiastical Law|ecclesiastical law]], when a patron has neglected
 to present to a void benefice within six months next after the
-avoidance, the right of presentation is said to lapse. In such case the
+[[Avoidance|avoidance]], the right of presentation is said to lapse. In such case the
 patronage or right of presentation devolves from the neglectful patron
 to the bishop as ordinary, to the metropolitan as superior and to the
 sovereign as patron paramount. (2) The failure of a testamentary

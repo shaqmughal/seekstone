@@ -68,7 +68,7 @@ The population (5846 in 1870) was 7270 in 1900. The southern part of the
 peninsula is occupied by Kamchadales, who exhibit many attributes of the
 Mongolian race, but are more similar to the aborigines of N.E. Asia and
 N.W. America. Fishing (quantities of salmon enter the rivers) and
-hunting are their chief occupations. Dog-sledges are principally used as
+[[Hunting|hunting]] are their chief occupations. Dog-sledges are principally used as
 means of communication. The efforts of the government to introduce
 cattle-breeding have failed. The Kamchadale language cannot be assigned
 to any known group; its vocabulary is extremely poor. The purity of the

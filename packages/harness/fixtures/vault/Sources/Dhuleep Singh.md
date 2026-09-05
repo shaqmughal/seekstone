@@ -49,10 +49,10 @@ claim against England would be taken up by the Russians; but when that
 expectation proved futile he proceeded to Paris, where he lived for the
 rest of his life on the pension allowed him by the Indian government.
 His death from an attack of apoplexy took place at Paris on the 22nd of
-October 1893. The maharaja's eldest son, Prince Victor Albert Jay
-Dhuleep Singh (b. 1866), was educated at Trinity and Downing Colleges,
-Cambridge. In 1888 he obtained a commission in the 1st Royal Dragoon
-Guards. In 1898 he married Lady Anne Coventry, youngest daughter of the
+October 1893. The maharaja's eldest son, Prince Victor Albert [[Jay]]
+Dhuleep Singh (b. 1866), was educated at Trinity and [[Downing]] Colleges,
+Cambridge. In 1888 he obtained a commission in the 1st Royal [[Dragoon]]
+[[Guards]]. In 1898 he married Lady [[Anne]] [[Coventry]], youngest daughter of the
 earl of Coventry.                                              (G.F.B.)
 
 ## See also

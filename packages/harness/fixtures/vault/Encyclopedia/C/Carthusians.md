@@ -2,7 +2,7 @@
 
 CARTHUSIANS, an order of monks founded by St Bruno (q.v.). In 1084 Bruno
 and his six companions presented themselves before the bishop of
-Grenoble and explained to him their desire to lead an ascetical life in
+[[Grenoble]] and explained to him their desire to lead an ascetical life in
 a solitary place. He pointed out to them a desolate spot named
 Chartreuse, on the mountains near Grenoble, rocky and precipitous, and
 snow-covered during a great portion of the year, and told them they
@@ -11,18 +11,18 @@ an oratory, and gave themselves up to a life of prayer and silence and
 extreme austerity. After a few years Bruno was summoned to Rome by Urban
 II., as an adviser in the government of the Church, c. 1090; but after a
 year or so he obtained permission to withdraw from Rome, and was able to
-found in the forests of Calabria near Squillace a second, and later on a
+found in the forests of [[Calabria]] near Squillace a second, and later on a
 third and a fourth monastery, on the same lines as the Chartreuse. On
 one of these south Italian foundations Bruno died in 1101. On leaving
 the Chartreuse he had appointed a successor as superior, and the
 institute steadily took more settled shape and further development.
-Peter the Venerable, abbot of Cluny, writing about forty years later,
+Peter the Venerable, abbot of [[Cluny]], writing about forty years later,
 speaks thus of the mode of life of the earliest Carthusians:--
 
   "Warned by the negligence and lukewarmness of many of the older monks,
   they adopted for themselves and for their followers greater precaution
   against the artifices of the Evil One. As remedy against pride and
-  vain-glory they chose a dress more poor and contemptible than that of
+  vain-glory they [[Chose|chose]] a [[Dress|dress]] more poor and contemptible than that of
   any other religious body; so that it is horrible to look on these
   garments, so short, scanty, coarse and dirty are they. In order to cut
   up avarice by the roots, they enclosed around their cells a certain
@@ -35,15 +35,15 @@ speaks thus of the mode of life of the earliest Carthusians:--
   one of their monasteries there should be no more than twelve monks,
   with their prior the thirteenth, eighteen lay brothers and a few paid
   servants. To mortify the flesh they always wear hair shirts of the
-  severest kind, and their fasting is wellnigh continuous. They always
+  severest kind, and their [[Fasting|fasting]] is wellnigh continuous. They always
   eat bread of unbolted meal, and take so much water with their wine
-  that it has hardly any flavour of wine left. They never eat meat,
+  that it has hardly any flavour of wine left. They never eat [[Meat|meat]],
   whether in health or ill. They never buy fish, but they accept it if
-  it is given to them for charity. They may eat cheese and eggs only on
+  it is given to them for charity. They may eat [[Cheese|cheese]] and [[Egg|eggs]] only on
   Sundays and Thursdays. On Tuesdays and Saturdays they eat cooked
   vegetables. On Mondays, Wednesdays and Fridays they take only bread
   and water. They eat once a day only, save during the octaves of
-  Christmas, Easter, Pentecost, Epiphany and other solemnities. They
+  [[Christmas]], [[Easter]], Pentecost, Epiphany and other solemnities. They
   live in separate little houses like the ancient monks of Egypt, and
   they occupy themselves continually with reading, prayer and the labour
   of their hands, especially the writing of books. They recite the
@@ -67,7 +67,7 @@ the 18th there were 170, 75 being in France.
 There was no written rule before 1130, when Guigo, the fifth prior of
 the Grande Chartreuse, reduced to writing the body of customs that had
 been the basis of Carthusian life (Migne, _Patrol. Lat._ cliii. 631);
-enlargements and modifications of this code were made in 1259, 1367,
+enlargements and modifications of this [[Code|code]] were made in 1259, 1367,
 1509 and 1681: this last form of the statutes is the present Carthusian
 rule.
 
@@ -84,13 +84,13 @@ wish to employ in workshop and garden, and with such books as they need
 from the library. The Carthusian goes to bed every evening at 7 and is
 called about 11, when he says in his private oratory the _Officium B.
 Mariae Virginis_. Towards midnight all repair to the church for Matins
-and Lauds, which are celebrated with extraordinary solemnity and
+and [[Laud|Lauds]], which are celebrated with extraordinary solemnity and
 prolixity, so as to last from 2 to 3 hours, according to the office.
 They then return to bed until 5, when they again go to the church for
 the daily High Mass, still celebrated according to the phase of
 liturgical and ritual development of the 11th century. The private
 Masses are then said, and the monks betake themselves to work or study.
-At 10 in summer, 11 in winter, 12 on feast days, they have their dinner,
+At 10 in summer, 11 in winter, 12 on feast days, they have their [[Dinner|dinner]],
 alone except on Sundays and feasts; the dinner is supplied from the
 common kitchen through a small window. On many days of the year there is
 but one meal; meat is never eaten, even in sickness--this has always
@@ -128,9 +128,9 @@ celebrated being those at Sheen in Surrey and at Smithfield in London
 Carthusians were the only order that made any corporate resistance to
 the ecclesiastical policy of Henry VIII. The community of the London
 Charterhouse stood firm, and the prior and several of the monks were put
-to death in 1535 under circumstances of barbarous cruelty. In Mary's
+to death in 1535 under circumstances of barbarous [[Cruelty|cruelty]]. In Mary's
 reign a community was reassembled at Sheen, and on her death it
-emigrated, fifteen in number, to Flanders, and finally settled in
+emigrated, fifteen in number, to [[Flanders]], and finally settled in
 Nieuport; it maintained itself as an English community for a
 considerable time, but gradually dwindled, and the last of the old
 English Carthusian stock died in 1831. There is now one Charterhouse in
@@ -138,10 +138,10 @@ England established at Parkminster in Sussex in 1883; the community
 numbers 50 choir-monks, but it is almost wholly made up of foreigners,
 including many of those recently expelled from France.
 
-At the French Revolution the monks were driven from the Grande
+At the [[French Revolution]] the monks were driven from the Grande
 Chartreuse, but they returned in 1816; they were again driven out under
 the Association Laws of 1901, and the community of the Grande Chartreuse
-is now settled in an old Certosa near Lucca. Of late years the community
+is now settled in an old Certosa near [[Lucca]]. Of late years the community
 at the Grande Chartreuse had consisted of some 40 choir-monks and 20 lay
 brothers. Before the recent expulsions from France there were in all
 some 20 Charterhouses.
@@ -156,12 +156,12 @@ monks and nuns, is white.
 A word may be added as to the famous liqueur, known as Chartreuse, made
 by the monks. At the Revolution the property of the Carthusians was
 confiscated, and on their restoration they recovered only the barren
-desert in which the monastery stood, and for it they had to pay rent.
+[[Desert|desert]] in which the monastery stood, and for it they had to pay rent.
 Thus they were for some years in want even of the needful means of
 subsistence. Then the liqueur was invented as a means of supplying the
 wants of the community; it became a great commercial success and
 produces a large yearly income. This income the monks have not spent on
-themselves, nor does it accumulate. The first charge is the maintenance
+themselves, nor does it accumulate. The first charge is the [[Maintenance|maintenance]]
 of the Grande Chartreuse and the other Charterhouses, and out of it have
 been built and established the new monasteries of the order, as at
 Düsseldorf, Parkminster and elsewhere; but by far the largest portion
@@ -176,9 +176,9 @@ the secluded and austere life of the monks of the Grande Chartreuse.
   found in Max Heimbucher, _Orden u. Kongregationen_ (1896), i. § 36;
   Wetzer und Welte, _Kirchenlexicon_ (ed. 2), art. "Karthäuserorden";
   Herzog-Hauck, _Realencyklopadie_ (ed. 3), art. "Karthäuser." For the
-  English Carthusians, see E. Margaret Thompson, _Somerset Carthusians_
+  English Carthusians, see E. [[Margaret]] Thompson, _Somerset Carthusians_
   (1895), and Dom L. Hendriks, _London Charterhouse_ (1889). The best
-  study on St Bruno and the foundation of the order is Hermann Löbbel,
+  study on St Bruno and the foundation of the order is [[Hermann]] Löbbel,
   "Der Stifter des Karthäuser-Ordens," 1899 (vol. v. No. 1 of
   _Kirchengeschichtliche Studien_, Munster); and the best account of the
   actual life is by Algar Thorold (_Dublin Review_, April 1892), who

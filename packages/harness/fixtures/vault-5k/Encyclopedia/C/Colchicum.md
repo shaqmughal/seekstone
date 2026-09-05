@@ -35,7 +35,7 @@ as it is ripe in June or July.
 Colchicum was known to the Greeks under the name of [Greek: Kolchikon],
 from [Greek: Kolchis], or Colchis, a country in which the plant grew;
 and it is described by Dioscorides as a poison. In the 17th century the
-corms were worn by some of the German peasantry as a charm against the
+corms were worn by some of the German peasantry as a [[Charm|charm]] against the
 plague. The drug was little used till 1763, when Baron Störck of Vienna
 introduced it for the treatment of dropsy. Its use in febrile diseases,
 at one time extensive, is now obsolete. As a specific for gout colchicum
@@ -84,11 +84,11 @@ powerful of known cholagogues. Though this action doubtless contributes
 to its remarkable therapeutic power, it is very far from being an
 adequate explanation of the virtues of the drug in gout. In larger doses
 colchicum or colchicine acts as a most violent gastrointestinal
-irritant, causing terrible pain, colic, vomiting, diarrhoea, haemorrhage
+irritant, causing terrible pain, colic, vomiting, diarrhoea, [[Haemorrhage|haemorrhage]]
 from the bowel, thirst and ultimately death from collapse. This is
 accelerated by a marked depressant action upon the heart, similar to
 that produced by veratrine and aconite. Large doses also depress the
-nervous system, weakening the anterior horns of grey matter in the
+nervous system, weakening the anterior [[Horn|horns]] of grey matter in the
 spinal cord so as ultimately to cause complete paralysis, and also
 causing a partial insensibility of the cutaneous nerves of touch and
 pain. The action of colchicum or colchicine upon the kidneys has been
@@ -119,7 +119,7 @@ remain so until the efficient poison of gout is isolated and defined.
 When that is done, colchicine may be found to exhibit a definite
 chemical interaction with this hitherto undiscovered substance.
 
-In _colchicum poisoning_, empty the stomach, give white of egg, olive or
+In _colchicum poisoning_, empty the stomach, give white of [[Egg|egg]], olive or
 salad oil, and water. Use hot bottles and stimulants, especially trying
 to counteract the cardiac depression by atropine, caffeine,
 strophanthin, &c.

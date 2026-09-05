@@ -36,7 +36,7 @@ Ferozepur remained in the hands of the English.
 Ferozepur has rapidly advanced in material prosperity of late years, and
 is now a very important seat of commerce, trade being mainly in grain.
 The main streets of the city are wide and well paved, and the whole is
-enclosed by a low brick wall. Great improvements have been made in the
+enclosed by a low [[Brick|brick]] wall. Great improvements have been made in the
 surroundings of the city. The cantonment lies 2 m. to the south of the
 city, and is connected with it by a good metalled road.
 
@@ -49,14 +49,14 @@ along the north-western boundary. The principal crops are wheat, barley,
 millet, gram, pulses, oil-seeds, cotton, tobacco, &c. The manufactures
 are of the humblest kind, consisting chiefly of cotton and wool-weaving,
 and are confined entirely to the supply of local wants. The Lahore and
-Ludhiana road runs for 51 m. through the district, and forms an
+[[Ludhiana]] road runs for 51 m. through the district, and forms an
 important trade route. The North-Western, the Southern Punjab, and a
 branch of the Rajputana-Malwa railways serve the district. The other
 important towns and seats of commerce are Fazilka (pop. 8505), Dharmkot
 (6731), Moga (6725), and Muktsar (6389). Owing principally to the
 dryness of its climate, Ferozepur has the reputation of being an
 exceptionally healthy district. In September and October, however, after
-the annual rains, the people suffer a good deal from remittent fever. In
+the annual rains, the people suffer a good deal from remittent [[Fever|fever]]. In
 1901 the population was 958,072. Distributaries of the Sirhind canal
 water the whole district.
 

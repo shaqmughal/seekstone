@@ -44,12 +44,12 @@ ladies.
 Folding fans had their origin in Japan, and were imported thence to
 China. They were in the shape still used--a segment of a circle of paper
 pasted on a light radiating framework of bamboo, and variously
-decorated, some in colours, others of white paper on which verses or
+decorated, some in [[Colours|colours]], others of white paper on which verses or
 sentences are written. It is a compliment in China to invite a friend
 or distinguished guest to write some sentiment on your fan as a memento
 of any special occasion, and this practice has continued. A fan that has
 some celebrity in France was presented by the Chinese ambassador to the
-comtesse de Clauzel at the coronation of Napoleon I. in 1804. When a
+comtesse de Clauzel at the [[Coronation|coronation]] of Napoleon I. in 1804. When a
 site was given in 1635, on an artificial island, for the settlement of
 Portuguese merchants in Nippo in Japan, the space was laid out in the
 form of a fan as emblematic of an object agreeable for general use. Men

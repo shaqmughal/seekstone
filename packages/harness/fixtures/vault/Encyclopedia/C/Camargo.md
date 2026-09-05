@@ -6,9 +6,9 @@ topic: thermodynamics
 
 # Camargo
 
-CAMARGO, MARIE ANNE DE CUPIS DE (1710-1770), French dancer, of Spanish
+CAMARGO, MARIE [[Anne|ANNE]] DE CUPIS DE (1710-1770), French dancer, of Spanish
 descent, was born in Brussels on the 15th of April 1710. Her father,
-Ferdinand Joseph de Cupis, earned a scanty living as violinist and
+[[Ferdinand]] Joseph de Cupis, earned a scanty living as violinist and
 dancing-master, and from childhood she was trained for the stage. At ten
 years of age she was given lessons by Mlle Françoise Prévost
 (1680-1741), then the first dancer at the Paris Opéra, and at once
@@ -18,7 +18,7 @@ her Paris _début_ in 1726, and at once became the rage. Every new
 fashion bore her name; her manner of doing her hair was copied by all at
 court; her shoemaker--she had a tiny foot--made his fortune. She had
 many titled adorers whom she nearly ruined by her extravagances, among
-others Louis de Bourbon, comte de Clermont. At his wish she retired from
+others Louis de [[Bourbon]], comte de Clermont. At his wish she retired from
 the stage from 1736 to 1741. In her time she appeared in seventy-eight
 ballets or operas, always to the delight of the public. She was the
 first ballet-dancer to shorten the skirt to what afterwards became the

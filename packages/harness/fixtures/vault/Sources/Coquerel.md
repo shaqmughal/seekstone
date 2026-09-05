@@ -15,7 +15,7 @@ who at the close of the 18th century gained a reputation by various
 translations and by her _Letters from France_. He completed his
 theological studies at the Protestant seminary of Montauban, and in 1816
 was ordained minister. In 1817 he was invited to become pastor of the
-chapel of St Paul at Jersey, but he declined, being unwilling to
+chapel of St Paul at [[Jersey]], but he declined, being unwilling to
 subscribe to the Thirty-nine Articles of the Church of England. During
 the following twelve years he resided in Holland, and preached before
 Calvinistic congregations at Amsterdam, Leiden and Utrecht. In 1830, at
@@ -27,7 +27,7 @@ liberal views brought him into antagonism with the rigid Calvinists. He
 took a warm interest in all matters of education, and distinguished
 himself so much by his defence of the university of Paris against a
 sharp attack, that in 1835 he was chosen a member of the consistory of
-the Legion of Honour. In 1841 appeared his _Réponse_ to the _Leben Jesu_
+the [[Legion]] of Honour. In 1841 appeared his _Réponse_ to the _Leben Jesu_
 of Strauss. After the revolution of February 1848, Coquerel was elected
 a member of the National Assembly, where he sat as a moderate
 republican, subsequently becoming a member of the Legislative Assembly.

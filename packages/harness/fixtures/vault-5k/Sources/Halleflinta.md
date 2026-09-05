@@ -12,10 +12,10 @@ id: 42-3786
 HALLEFLINTA (a Swedish word meaning rock-flint), a white, grey, yellow,
 greenish or pink, fine-grained rock consisting of an intimate mixture of
 quartz and felspar. Many examples are banded or striated; others contain
-porphyritic crystals of quartz which resemble those of the felsites and
-porphyries. Mica, iron oxides, apatite, zircon, epidote and hornblende
+porphyritic crystals of quartz which resemble those of the [[Felsite|felsites]] and
+porphyries. Mica, iron oxides, apatite, zircon, [[Epidote|epidote]] and hornblende
 may also be present in small amount. The more micaceous varieties form
-transitions to granulite and gneiss. Halleflinta under the microscope is
+transitions to [[Granulite|granulite]] and [[Gneiss|gneiss]]. Halleflinta under the microscope is
 very finely crystalline, or even cryptocrystalline, resembling the
 felsitic matrix of many acid rocks. It is essentially metamorphic and
 occurs with gneisses, schists and granulites, especially in the
@@ -28,7 +28,7 @@ metamorphosed acid tuffs and a certain number of adinoles (shales,
 contact altered by intrusions of diabase). The assemblage is not a
 perfectly homogeneous one but includes both igneous and sedimentary
 rocks, but the former preponderate. Rocks very similar to the typical
-Swedish halleflintas occur in Tirol, in Galicia and eastern Bohemia.
+Swedish halleflintas occur in Tirol, in [[Galicia]] and eastern Bohemia.
 
 ## See also
 

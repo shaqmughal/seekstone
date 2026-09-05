@@ -20,7 +20,7 @@ Amazon trade through some small river ports on tributaries of the
 Mamoré. The city is regularly laid out, and contains many attractive
 residences surrounded by gardens. It is an episcopal city (since 1847),
 containing many churches, four conventual establishments, and a
-missionary college of the "Propaganda Fide" for the conversion of
+missionary college of the "Propaganda Fide" for the [[Conversion|conversion]] of
 Indians. The city has a university and two colleges, but they are poorly
 equipped and receive very little support from the government. Cochabamba
 was founded in the 16th century, and for a time was called Oropesa. It

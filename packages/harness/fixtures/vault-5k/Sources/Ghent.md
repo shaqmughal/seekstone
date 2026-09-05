@@ -1,19 +1,19 @@
 # Ghent
 
-GHENT (Flem. _Gent_, Fr. _Gand_), the capital of East Flanders, Belgium,
+GHENT (Flem. _Gent_, Fr. _Gand_), the capital of East Flanders, [[Belgium]],
 at the junction of the Scheldt and the Lys (Ley). Pop. (1880) 131,431,
 (1904) 162,482. The city is divided by the rivers (including the small
 streams Lieve and Moere) and by canals, some navigable, into numerous
 islands connected by over 200 bridges of various sorts. Within the
 limits of the town, which is 6 m. in circumference, are many gardens,
-meadows and promenades; and, though its characteristic lanes are gloomy
-and narrow, there are also broad new streets and fine quays and docks.
+meadows and promenades; and, though its characteristic [[Lane|lanes]] are gloomy
+and narrow, there are also broad new streets and fine quays and [[Dock|docks]].
 The most conspicuous building in the city is the cathedral of St
 Bavon[1] (Sint Baafs), the rich interior of which contrasts strongly
 with its somewhat heavy exterior. Its crypt dates from 941, the choir
-from 1274-1300, the Late Gothic choir chapels from the 15th century, and
+from 1274-1300, the Late [[Gothic]] choir chapels from the 15th century, and
 the nave and transept from 1533-1554. Among the treasures of the church
-is the famous "Worship of the Lamb" by Hubert and Jan van Eyck. Of the
+is the famous "Worship of the Lamb" by [[Hubert]] and Jan van [[Eyck]]. Of the
 original 12 panels, taken to France during the Revolutionary Wars, only
 4 are now here, 6 being in the Berlin museum and two in that of
 Brussels. Among the other 55 churches may be mentioned that of St
@@ -23,7 +23,7 @@ unfinished tower. In the centre of the city stands the unfinished Belfry
 (_Beffroi_), a square tower some 300 ft. high, built 1183-1339. If has a
 cast-iron steeple (restored in 1854), on the top of which is a gold
 dragon which, according to tradition, was brought from Constantinople
-either by the Varangians or by the emperor Baldwin after the Latin
+either by the Varangians or by the emperor [[Baldwin]] after the Latin
 conquest. Close to it is the former Cloth-hall, a Gothic building of
 1325. The hotel-de-ville consists of two distinct parts. The northern
 facade, a magnificent example of Flamboyant Gothic, was erected between
@@ -40,9 +40,9 @@ street, the Cours des Princes.
 To the north of the Oudeburg, on the other side of the Lys, is the
 Marche du Vendredi, the principal square of the city. This was the
 centre of the life of the medieval city, the scene of all great public
-functions, such as the homage of the burghers to the counts, and of the
+functions, such as the [[Homage|homage]] of the burghers to the counts, and of the
 auto-da-fes under the Spanish regime. In it stands a bronze statue of
-Jacob van Artevelde, by Devigne-Quyo, erected in 1863. At a corner of
+[[Jacob]] van Artevelde, by Devigne-Quyo, erected in 1863. At a corner of
 the square is a remarkable cannon, known as _Dulle Griete_ (Mad Meg), 19
 ft. long and 11 ft. in circumference. It is ornamented with the arms of
 Philip the Good, duke of Burgundy, and must have been cast between 1419
@@ -55,14 +55,14 @@ new theatre (1848), all designed by Roelandt, and the Institut des
 Sciences (1890) by A. Pauli. In the park on the site of the citadel
 erected by Charles V. are some ruins of the ancient abbey of St Bavon
 and of a 12th-century octagonal chapel dedicated to St Macharius. In the
-park is also situated the Museum of Fine Arts, completed in 1902.
+park is also situated the Museum of [[Fine Arts]], completed in 1902.
 
 One of the most interesting institutions of Ghent is the great Beguinage
 (Begynhof) which, originally established in 1234 by the Bruges gate, was
 transferred in 1874 to the suburb of St Amandsberg. It constitutes a
 little town of itself, surrounded by walls and a moat, and contains
 numerous small houses, 18 convents and a church. It is occupied by some
-700 Beguines, women devoted to good works (see BEGUINES). Near the
+700 [[Beguines]], women devoted to good works (see BEGUINES). Near the
 station is a second Beguinage with 400 inmates. In addition to these
 there were in Ghent in 1901 fifty religious houses of various orders.
 
@@ -81,7 +81,7 @@ city via Bruges with Ostende.
 
 Among the educational establishments is the State University, founded by
 King William I. of the Netherlands in 1816. With it are connected a
-school of engineering, a school of arts and industries and the famous
+school of [[Engineering|engineering]], a school of arts and industries and the famous
 library (about 300,000 printed volumes and 2000 MSS.) formerly belonging
 to the city. In addition there are training schools for teachers, an
 episcopal seminary, a conservatoire and an art academy with a fine
@@ -116,7 +116,7 @@ arrange for the administration of justice by nominated jurats
 (_scabini_) under the count's _bailli_. Far more comprehensive was the
 second charter, granted by Philip's widow Mathilda, after his death on
 crusade in 1191, as the price paid for the faithfulness of the city to
-her cause. The magistrates of the city were still nominated _scabini_
+her cause. The [[Magistrate|magistrates]] of the city were still nominated _scabini_
 (fixed at thirteen), but their duties and rights were strictly defined
 and the liberties of the citizens safe-guarded; the city, moreover,
 received the right to fortify itself and even individuals within it to
@@ -126,9 +126,9 @@ provision being that general rules for the government of the city were
 only to be made by arrangement between the count or his officials and
 the common council of the citizens. The burghers thus attained to a very
 considerable measure of self-government. A charter of 1212 of Count
-Ferdinand (of Portugal) and his wife Johanna introduced a modified
+[[Ferdinand]] (of Portugal) and his wife Johanna introduced a modified
 system of election for the _scabini_; a further charter (1228) fixed the
-executive at 39 members, including _scabini_ and members of the commune,
+executive at 39 members, including _scabini_ and members of the [[Commune|commune]],
 and ordained that the _bailli_ of the count and his _servientes_, like
 the _podestas_ of Italian cities, were not to be natives of Ghent.
 
@@ -147,7 +147,7 @@ incorporation in Burgundy, were lost for a time as a result of the
 unsuccessful rising against Duke Philip the Good (1450). The citizens,
 however, retained their turbulent spirit. After the death of Mary of
 Burgundy, who had resided in the city, they forced her husband, the
-archduke Maximilian, to conclude the treaty of Arras (1482). They were
+archduke [[Maximilian]], to conclude the treaty of [[Arras]] (1482). They were
 less fortunate in their opposition to Maximilian's son, the emperor
 Charles V. In 1539 they refused, on the plea of their privileges, to
 contribute to a general tax laid on Flanders, and when Charles's sister
@@ -173,7 +173,7 @@ the Scheldt. The city was captured by the French in 1698, 1708 and 1745.
 After 1714 it formed part of the Austrian Netherlands, and in 1794
 became the capital of the French department of the Scheldt. In 1814 it
 was incorporated in the kingdom of the United Netherlands, and it was
-here that Louis XVIII. of France took refuge during the Hundred Days.
+here that Louis XVIII. of France took refuge during the [[Hundred Days]].
 Here too was signed (December 24, 1814) the treaty of peace between
 Great Britain and the United States of America. After 1815 Ghent was for
 a time the centre of Catholic opposition to Dutch rule, as it is now

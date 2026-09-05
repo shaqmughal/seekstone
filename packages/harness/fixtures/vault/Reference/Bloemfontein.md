@@ -10,20 +10,20 @@ type: article
 BLOEMFONTEIN, capital of the Orange Free State, in 29 deg. 8' S., 26
 deg. 18' E. It is situated on the open veld, surrounded by a few low
 kopjes, 4518 ft. above the sea, 105 m. by rail E. by S. of Kimberley,
-750 N.E. by E. of Cape Town, 450 N. by E. of Port Elizabeth, and 257
+750 N.E. by E. of [[Cape Town]], 450 N. by E. of Port Elizabeth, and 257
 S.W. of Johannesburg.
 
 Bloemfontein is a very pleasant town, regularly laid out with streets
 running at right angles and a large central market square. Many of the
 houses are surrounded by large wooded gardens. Through the town runs the
-Bloemspruit. After a disastrous flood in 1904 the course of this spring
+Bloemspruit. After a disastrous [[Flood|flood]] in 1904 the course of this spring
 was straightened and six stone bridges placed across it. There are
-several fine public buildings, mostly built of red brick and a
+several fine public buildings, mostly built of red [[Brick|brick]] and a
 fine-grained white stone quarried in the neighbourhood. The Raadzaal, a
 building in the Renaissance style, faces Market Square. Formerly the
 meeting-place of the Orange Free State Raad, it is now the seat of the
 provincial council. In front of the old Raadzaal (used as law courts) is
-a statue of President Brand. In Douglas Street is an unpretentious
+a statue of President [[Brand]]. In Douglas Street is an unpretentious
 building used in turn as a church, a raadzaal, a court-house and a
 museum. In it was signed (1854) the convention which recognized the
 independence of the Free State Boers (see ORANGE FREE STATE: _History_).
@@ -47,15 +47,15 @@ is an excellent water-supply, obtained partly from Bloemspruit, but
 principally from the Modder river at Sanna's Post, 22 m. to the east,
 and from reservoirs at Moches Dam and Magdepoort.
 
-The population in 1904 was 33,883, of whom, including the garrison of
+The population in 1904 was 33,883, of whom, including the [[Garrison|garrison]] of
 3487, 15,501 were white, compared with a white population of 2077 in
-1890. The coloured inhabitants are mostly Bechuana and Basuto. Most of
+1890. The coloured inhabitants are mostly [[Bechuana]] and Basuto. Most of
 the whites are of British origin, and English is the common language of
 all, including the Dutch.
 
 The _spruit_ or spring which gives its name to the town was called after
-one of the emigrant farmers, Jan Bloem. The town dates from 1846, in
-which year Major H.D. Warden, then British resident north of the Orange,
+one of the emigrant [[Farmer|farmers]], Jan Bloem. The town dates from 1846, in
+which year [[Major]] H.D. Warden, then British resident north of the Orange,
 selected the site as the seat of his administration. When in 1854
 independence was conferred on the country the town was chosen by the
 Boers as the seat of government. It became noted for the intelligence of
@@ -65,7 +65,7 @@ railway connecting it with Cape Town and Johannesburg was completed.
 During the Anglo-Boer War of 1899-1902 it was occupied by the British
 under Lord Roberts without resistance (13th of March 1900), fourteen
 days after the surrender of General Cronje at Paardeberg. In Market
-Square on the 28th of the following May the annexation of the Orange
+Square on the 28th of the following May the [[Annexation|annexation]] of the Orange
 Free State to the British dominions was proclaimed. In 1907 the first
 session of the first parliament elected under the constitution granting
 the colony self-government was held in Bloemfontein. In 1910 when the

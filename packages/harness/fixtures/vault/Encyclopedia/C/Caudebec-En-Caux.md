@@ -12,7 +12,7 @@ Seine-Inferieure, 27 m. W.N.W. of Rouen by the Ouest-Etat railway. Pop.
 (1906) 2141. It is situated on the right bank of the Seine, the tidal
 wave of which (_mascaret_) can be well seen at this point. The chief
 interest of the town lies in its church, a building of the 15th and the
-early 16th centuries. Round its top run balustrades formed of Gothic
+early 16th centuries. Round its top run balustrades formed of [[Gothic]]
 letters, which read as part of the Magnificat. Its west portal, the
 decoration of the spire of the tower, and its stained glass are among
 the features which make it one of the finest churches of the Rouen

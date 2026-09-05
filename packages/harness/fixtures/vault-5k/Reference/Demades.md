@@ -7,7 +7,7 @@ unscrupulous character to a prominent position at Athens. He espoused
 the cause of Philip in the war against Olynthus, and was thus brought
 into bitter and life-long enmity with Demosthenes, whom he at first
 supported. He fought against the Macedonians in the battle of
-Chaeroneia, and was taken prisoner. Having made a favourable impression
+[[Chaeroneia]], and was taken prisoner. Having made a favourable impression
 upon Philip, he was released together with his fellow-captives, and was
 instrumental in bringing about a treaty of peace between Macedonia and
 Athens. He continued to be a favourite of Alexander, and, prompted by a

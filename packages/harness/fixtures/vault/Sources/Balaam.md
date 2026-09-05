@@ -1,12 +1,12 @@
 # Balaam
 
 BALAAM ([Hebrew: BIL`AM] Bil`am; [Greek: Balaam]; Vg. _Balaam_; the
-etymology of the name is uncertain), a prophet in the Bible. Balaam, the
-son of Beor, was a Gentile seer; he appears in the history of the
+[[Etymology|etymology]] of the name is uncertain), a prophet in the Bible. Balaam, the
+son of Beor, was a [[Gentile]] seer; he appears in the history of the
 Israelites during their sojourn in the plains of Moab, east of Jordan, at
 the close of the Forty Years' wandering, shortly before the death of Moses
 and the crossing of the Jordan. Israel had conquered two kings of eastern
-Palestine--Sihon, king of the Amorites, and Og, king of Bashan. Balak, king
+Palestine--Sihon, king of the Amorites, and Og, king of [[Bashan]]. Balak, king
 of Moab, became alarmed, and sent for Balaam to curse Israel; Balaam came
 after some hesitation, but when he sought to curse Israel Yahweh compelled
 him to bless them.
@@ -53,9 +53,9 @@ who tells him that he would have slain him but for the ass. Balaam offers
 to go back, but is told to go on.
 
 Speaking animals are a common feature of folk-lore; the only other case in
-the Old Testament is the serpent in Eden. Maimonides suggested that the
+the Old Testament is the serpent in [[Eden]]. Maimonides suggested that the
 episode of the Angel and the conversation with the ass is an account of a
-vision; similar views have been held by E. W. Hengstenberg and other
+vision; similar views have been held by E. W. [[Hengstenberg]] and other
 Christian scholars. Others, _e.g._ Volck in Hauck's _Realencyklopadie_ (s.
 "Bileam"), regard the statements about the ass speaking as figurative; the
 ass brayed, and Balaam translated the sound into words. The ordinary
@@ -63,7 +63,7 @@ literal interpretation is more probable; but it does not follow that the
 authors of the Pentateuch intended the story to be taken as historical in
 its details. It need hardly be said that the exact accuracy of such
 narratives is not an essential part of the Christian faith; no such
-doctrine is laid down by the creeds and confessions.
+doctrine is laid down by the [[Creeds|creeds]] and confessions.
 
 xxii. 36, 39, xxiv. 1, 2, 10-14, 25. Balak meets Balaam and they go
 together [and offer sacrifices]; Balaam, however, blesses Israel by divine
@@ -74,7 +74,7 @@ to J's narrative, see below.)
 (ii.) E. xxii. 2, 3a, 5b "to Pethor, which is by the river," 8-10, 12-16,
 19-21, 37a, to "unto me," 38. Balak, king of Moab, alarmed at the conquests
 of Israel, sends the princes of Moab to Balaam at _Pethor_ on the
-Euphrates, that he may come and curse Israel.
+[[Euphrates]], that he may come and curse Israel.
 
 A. Jeremias, _Das Alte Testament im Lichte des alten Orients_, p. 278,
 adopts Marquart's view that the "River" (_nahar_) is the so-called "River"
@@ -86,7 +86,7 @@ Euphrates, and to identify _Pethor_ with a _Pitru_ on a tributary of the
 Euphrates, mentioned in an inscription of Shalmaneser II. Deut. xxiii. 4
 places Pethor in Mesopotamia.
 
-God appears to him in a dream and forbids him to go. The princes return and
+God appears to him in a [[Dream|dream]] and forbids him to go. The princes return and
 report to Balak, who sends them back to put further pressure on Balaam. God
 in another dream permits him to go, on condition that he speaks what God
 tells him. He goes with the _princes of Moab_. Balak meets them, and Balaam
@@ -102,14 +102,14 @@ narrative, see below.)
 
 Deut. xxiii. 3-6[1] summarizes E's account of this incident, adding,
 however, the feature that the Ammonites were associated with the Moabites,
-possibly an imperfect reminiscence of the reference to Ammon in J. Joshua,
+possibly an imperfect reminiscence of the reference to Ammon in J. [[Joshua]],
 in his farewell speech to the Israelites,[2] also refers to this episode.
-The Priestly Code[3] has a different story of Balaam, in which he advises
+The Priestly [[Code]][3] has a different story of Balaam, in which he advises
 the _Midianites_ how they may bring disaster on Israel by seducing the
 people from their loyalty to Yahweh. Later on he is slain in battle,
 fighting in the ranks of Midian.
 
-It is often supposed that the name of the king of Edom,[4] Bela, son of
+It is often supposed that the name of the king of [[Edom]],[4] [[Bela]], son of
 Beor, is a corruption of Balaam, and that, therefore, one form of the
 tradition made him a king of Edom.
 
@@ -137,7 +137,7 @@ monarchy.
 
 _Agag_, in verse 7, can hardly be the Amalekite king of 1 Sam. xv.; Amalek
 was too small and obscure. The Septuagint and other Greek Versions and Sam.
-Pent, have _Gog_, which would imply a post-exilic date, cf. Ezek. xxxix.
+Pent, have _[[Gog]]_, which would imply a post-exilic date, cf. Ezek. xxxix.
 Probably both Agag and Gog are textual corruptions. _Og_ has been
 suggested, but does not seem a great improvement.
 
@@ -145,7 +145,7 @@ The _Fourth_, xxiv. 14-19, announces the coming of a king, possibly David,
 who shall conquer Edom and Moab.
 
 The remaining poems are usually regarded as later additions; thus the
-_Oxford Hexateuch_ on Num. xxiv. 20-24. "The three concluding oracles seem
+_Oxford [[Hexateuch]]_ on Num. xxiv. 20-24. "The three concluding oracles seem
 irrelevant here, being concerned neither with Israel nor Moab. It has been
 thought that they were added to bring the cycle up to seven."
 
@@ -159,7 +159,7 @@ ancient realm of Nineveh, according to others the Seleucid kingdom of
 Syria, which was also called Assyria.
 
 The _Seventh_, xxiv. 23 f., speaks of the coming of ships from the West, to
-attack Assur and "Eber"; it may refer to the conquest of Persia by
+attack [[Assur]] and "[[Eber]]"; it may refer to the conquest of Persia by
 Alexander the Great. An interesting, but doubtful, emendation makes this
 poem describe the ruin of Shamal, a state in N. W. Syria.
 
@@ -173,29 +173,29 @@ Mahommedans. Josephus[7] paraphrases the story _more suo_, and speaks of
 Balaam as the best prophet of his time, but with a disposition ill adapted
 to resist temptation. Philo describes him in the _Life of Moses_ as a great
 magician; elsewhere[8] he speaks of "the sophist Balaam, being," _i.e._
-symbolizing, "a vain crowd of contrary and warring opinions"; and again[9]
+symbolizing, "a vain [[Crowd|crowd]] of contrary and warring opinions"; and again[9]
 as "a vain people"; both phrases being based on a mistaken etymology of the
 name Balaam. The later Targums and the Talmuds represent him as a typical
 sinner; and there are the usual worthless Rabbinical fables, _e.g._ that he
 was blind of one eye; that he was the Elihu of Job; that, as one of
-Pharaoh's counsellors, he was governor of a city of Ethiopia, and rebelled
+Pharaoh's counsellors, he was governor of a city of [[Ethiopia]], and rebelled
 against Pharaoh; Moses was sent against him by Pharaoh at the head of an
 army, and stormed the city and put Balaam to flight, &c. &c.
 
-[v.03 p.0233] Curiously enough, the Rabbinical (Yalkut) identification of
+[v.03 p.0233] Curiously enough, the Rabbinical (Yalkut) [[Identification|identification]] of
 Balaam with Laban, Jacob's father-in-law, has been revived from a very
 different standpoint, by a modern critic.[10] The Mahommedans, also, have
-various fables concerning Balaam. He was one of the Anakim, or giants of
+various fables concerning Balaam. He was one of the Anakim, or [[Giant|giants]] of
 Palestine; he read the books of Abraham, where he got the name Yahweh, by
 virtue of which he predicted the future, and got from God whatever he
 asked. It has been conjectured that the Arabic wise man, commonly called
-Luqman (_q.v._), is identical with Balaam. The names of their fathers are
+[[Luqman]] (_q.v._), is identical with Balaam. The names of their fathers are
 alike, and "Luqman" means _devourer_, _swallower,_ a meaning which might be
 got out of Balaam by a popular etymology.
 
 If we might accept the various theories mentioned above, Balaam would
 appear in one source of J as an Edomite, in another as an Ammonite; in E as
-a native of the south of Judah or possibly as an Aramaean; in the tradition
+a native of the south of [[Judah]] or possibly as an Aramaean; in the tradition
 followed by the Priestly Code probably as a Midianite. All these peoples
 either belong to the Hebrew stock or are closely connected with it. We may
 conclude that Balaam was an ancient figure of traditions originally common
@@ -214,12 +214,12 @@ the idea that Yahweh revealed his will to nations other than Israel.
 Apparently the Priestly Code ignored this feature of the story.
 
 Taking the narratives as we now have them, Balaam is a companion figure to
-Jonah, the prophet who wanted to go where he was not sent, over against the
+[[Jonah]], the prophet who wanted to go where he was not sent, over against the
 prophet who ran away from the mission to which he was called.
 
 BIBLIOGRAPHY.--Ewald, _Geschichte des Volkes Israel^3_, Bd. ii. p. 298;
 Hengstenberg's _Die Geschichte Bileams und seine Weissagungen_ (1842); the
-commentaries on the scriptural passages, especially G. B. Gray on Numbers
+commentaries on the scriptural passages, especially G. B. [[Gray]] on Numbers
 xxii.-xxiv.; and the articles on "Balaam" (Bileam) in Hamburger's
 _Realencyclopädie für Bibel und Talmud_, Hastings' _Bible Dict._, Black and
 Cheyne's _Encyclopaedia Biblica_, Herozog-Hauck's _Realencyklopadie_. For
@@ -252,14 +252,14 @@ independent tradition. The date of the Priestly Code is _ca._ 400 B.C.
 
 BAL[=A]DHUR[=I] (AB[=U]-L-`ABB[=A]S AHMAD IBN YAHY[=A] IBN J[=A]BIR
 AL-BAL[=A]DHUR[=I]), Arabian historian, was a Persian by birth, though his
-sympathies seem to have been strongly with the Arabs, for Mas`[=u]d[=i]
-refers to one of his works in which he refuted the Shu`[=u]bites (see ABU
+sympathies seem to have been strongly with the [[Arabs]], for Mas`[=u]d[=i]
+refers to one of his works in which he refuted the Shu`[=u][[Bit|bites]] (see ABU
 `UBAIDA). He lived at the court of the caliphs al-Mutawakkil and
 al-Musta`[=i]n and was tutor to the son of al-Mu`tazz. He died in 892 as
 the result of a drug called _bal[=a]dhur_ (hence his name). The work by
 which he is best known is the _Fut[=u]h ul-Buld[=a]n_ (Conquests of Lands),
 edited by M. J. de Goeje as _Liber expugnationis regionum_ (Leiden, 1870;
-Cairo, 1901). This work is a digest of a larger one, which is now lost. It
+Cairo, 1901). This work is a [[Digest|digest]] of a larger one, which is now lost. It
 contains an account of the early conquests of Mahomet and the early
 caliphs. Bal[=a]dhur[=i] is said to have spared no trouble in collecting
 traditions, and to have visited various parts of north Syria and
@@ -267,7 +267,7 @@ Mesopotamia for this purpose. Another great historical work of his was the
 _Ans[=a]b ul-Ashr[=a]f_ (Genealogies of the Nobles), of which he is said to
 have written forty parts when he died. Of this work the eleventh book has
 been published by W. Ahlwardt (Greifswald, 1883), and another part is known
-in manuscript (see _Journal of the German Oriental Society_, vol. xxxviii.
+in [[Manuscript|manuscript]] (see _Journal of the German Oriental Society_, vol. xxxviii.
 pp. 382-406). He also made some translations from Persian into Arabic.
 
 (G. W. T.)

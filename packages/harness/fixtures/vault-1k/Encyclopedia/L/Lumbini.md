@@ -57,7 +57,7 @@ the stone, and rendered in our translation "flawless"; and secondly, the
 last word, rendered in our translation "one-eighth part (of the crop)."
 Fortunately these words are of minor importance for the historical value
 of this priceless document. The date, the twenty-first year after the
-formal coronation of Asoka, would be 248 B.C. The name Piyadassi is the
+formal [[Coronation|coronation]] of Asoka, would be 248 B.C. The name Piyadassi is the
 official epithet always used by Asoka in his inscriptions when speaking
 of himself. The inscription confirms in every respect the Buddhist
 story, and makes it certain that, at the time when it was put up, the
@@ -80,7 +80,7 @@ stupas there (already noticed by Hsuan Tsang) have not been opened.
   AUTHORITIES.--_Sutta Nipata_, ed. V. Fansböll (London Pali Text
   Society, 1884); _Katha Vatthu_, ed. A. C. Taylor (London, 1897);
   _Jataka_, ed. V. Fansböll, vol. i. (London, 1877); _Divyavadana_, ed.
-  Cowell and Niel (Cambridge, 1886); G. Bühler in the _Proceedings of
+  [[Cowell]] and Niel (Cambridge, 1886); G. Bühler in the _Proceedings of
   the Vienna Academy_ for Jan. 1897, in _Epigraphia Indica_, vol. v.
   (London, 1898) and in the Journal of the Royal Asiatic Society (1897),
   p. 429. See also ibid. (1895), pp. 751 ff.; (1897) pp. 615, 644;

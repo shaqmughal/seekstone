@@ -371,7 +371,7 @@ of the competitors are English visitors.
   1893    Miss Dod         |  1907    Miss M. Sutton
   1894    Mrs Hillyard     |  1908    Mrs Sterry
   1895    Miss C. Cooper   |  1909    Miss D. Boothby
-  1896    Miss C. Cooper   |  1910    Mrs Lambert Chambers
+  1896    Miss C. Cooper   |  1910    Mrs [[Lambert]] Chambers
   1897    Mrs Hillyard     |            (Miss Douglass)
 
 
@@ -422,7 +422,7 @@ Slocum. Other prominent players of the period were the brothers C. M.
 and J. S. Clark, who in 1883 came to England and were decisively beaten
 at Wimbledon by the two Renshaws. To a later generation belong the
 strongest single players, M. D. Whitman, Holcombe Ward, W. A. Larned and
-Karl Behr. Holcombe Ward and Dwight Davis, who have the credit of
+Karl Behr. Holcombe Ward and Dwight Davis, who have the [[Credit|credit]] of
 introducing the peculiar "American twist service," were an exceedingly
 strong pair in doubles; but after winning the American doubles
 championship for three years in succession, they were defeated in 1902
@@ -430,7 +430,7 @@ by the English brothers R. F. and H. L. Doherty. The championship
 singles in 1904 and 1905 was won by H. Ward and B. C. Wright, the latter
 being one of the finest players America has produced; and these two in
 partnership won the doubles for three years in succession, until they
-were displaced by F. B. Alexander and H. H. Hackett, who in their turn
+were displaced by F. B. Alexander and H. H. [[Hackett]], who in their turn
 held the doubles championship for a like period. In 1909 two young
 Californians, Long and McLoughlin, unexpectedly came to the front, and,
 although beaten in the final round for the championship doubles, they
@@ -523,7 +523,7 @@ players.
   1902   W. C. Grant     "  Miss E. H. Moore
   1903   Harry Allen     "  Miss Chapman
   1904   W. C. Grant     "  Miss E. H. Moore
-  1905   Clarence Hobart "  Mrs Clarence Hobart
+  1905   [[Clarence]] Hobart "  Mrs Clarence Hobart
   1906   E. B. Dewhurst  "  Miss Coffin
   1907   W. F. Johnson   "  Miss Sayres
   1908   N. W. Niles     "  Miss E. Rotch
@@ -554,7 +554,7 @@ in America. In 1909 England was not represented in the competition, and
 the Australians again retained the cup, beating the Americans McLoughlin
 and Long both in singles and doubles.
 
-  See "The Badminton Library," _Tennis: Lawn-Tennis: Racquets: Fives_,
+  See "The Badminton Library," _Tennis: Lawn-Tennis: Racquets: [[Fives]]_,
   new and revised edition (1903); R. F. and H. L. Doherty, _On
   Lawn-Tennis_ (1903); E. H. Miles, _Lessons in Lawn-Tennis_ (1899); E.
   de Nanteuil, _La Paume et le lawn-tennis_ (1898); J. Dwight, "Form in

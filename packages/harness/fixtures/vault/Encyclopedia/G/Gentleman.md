@@ -7,7 +7,7 @@ type: source
 
 # Gentleman
 
-GENTLEMAN (from Lat. _gentilis_, "belonging to a race or _gens_," and
+GENTLEMAN (from Lat. _[[Gentili|gentilis]]_, "belonging to a race or _gens_," and
 "man"; Fr. _gentilhomme_, Span, _gentil hombre_, Ital. _gentil huomo_),
 in its original and strict signification, a term denoting a man of good
 family, the Lat. _generosus_ (its invariable translation in
@@ -16,7 +16,7 @@ _gentilhomme_, "nobleman," which latter term has in Great Britain been
 long confined to the peerage (see NOBILITY); and the term "gentry"
 ("gentrice" from O. Fr. _genterise_ for _gentelise_) has much of the
 significance of the Fr. _noblesse_ or the Ger. _Adel_. This was what was
-meant by the rebels under John Ball in the 14th century when they
+meant by the rebels under John [[Ball]] in the 14th century when they
 repeated:
 
   "When Adam delved and Eve span,
@@ -25,7 +25,7 @@ repeated:
 Selden (_Titles of Honor_, 1672), discussing the title "gentleman,"
 speaks of "our English use of it" as "convertible with _nobilis_," and
 describes in connexion with it the forms of ennobling in various
-European countries. William Harrison, writing a century earlier, says
+[[European Countries|European countries]]. William Harrison, writing a century earlier, says
 "gentlemen be those whom their race and blood, or at the least their
 virtues, do make noble and known." But for the complete gentleman the
 possession of a coat of arms was in his time considered necessary; and
@@ -39,23 +39,23 @@ Shakespeare's day:
   laws of the realm, who so abideth in the university, giving his mind
   to his book, or professeth physic and the liberal sciences, or beside
   his service in the room of a captain in the wars, or good counsel
-  given at home, whereby his commonwealth is benefited, can live without
-  manual labour, and thereto is able and will bear the port, charge and
+  given at home, whereby his [[Commonwealth|commonwealth]] is benefited, can live without
+  [[Manual|manual]] labour, and thereto is able and will bear the port, charge and
   countenance of a gentleman, he shall for money have a coat and arms
   bestowed upon him by heralds (who in the charter of the same do of
   custom pretend antiquity and service, and many gay things) and
   thereunto being made so good cheap be called master, which is the
-  title that men give to esquires and gentlemen, and reputed for a
+  title that men give to [[Esquire|esquires]] and gentlemen, and reputed for a
   gentleman ever after. Which is so much the less to be disallowed of,
   for that the prince doth lose nothing by it, the gentleman being so
   much subject to taxes and public payments as is the yeoman or
   husbandman, which he likewise doth bear the gladlier for the saving of
   his reputation. Being called also to the wars (for with the government
   of the commonwealth he medleth little) what soever it cost him, he
-  will both array and arm himself accordingly, and show the more manly
+  will both [[Array|array]] and arm himself accordingly, and show the more manly
   courage, and all the tokens of the person which he representeth. No
   man hath hurt by it but himself, who peradventure will go in wider
-  buskins than his legs will bear, or as our proverb saith, now and then
+  [[Buskin|buskins]] than his [[Leg|legs]] will bear, or as our proverb saith, now and then
   bear a bigger sail than his boat is able to sustain."[1]
 
 In this way Shakespeare himself was turned, by the grant of his coat of
@@ -68,10 +68,10 @@ usually maintained in the granting of arms "to an ennobled person though
 of the long Robe wherein he hath little use of them as they mean a
 shield." At the last the wearing of a sword on all occasions was the
 outward and visible sign of a "gentleman"; and the custom survives in
-the sword worn with "court dress." This idea that a gentleman must have
+the sword worn with "court [[Dress|dress]]." This idea that a gentleman must have
 a coat of arms, and that no one is a "gentleman" without one is,
 however, of comparatively late growth, the outcome of the natural desire
-of the heralds to magnify their office and collect fees for registering
+of the heralds to magnify their office and collect [[Fee|fees]] for registering
 coats; and the same is true of the conception of "gentlemen" as a
 separate class. That a distinct order of "gentry" existed in England
 very early has, indeed, been often assumed, and is supported by weighty
@@ -84,8 +84,8 @@ takes the same view. Sir George Sitwell, however, has conclusively
 proved that this opinion is based on a wrong conception of the
 conditions of medieval society, and that it is wholly opposed to the
 documentary evidence. The fundamental social cleavage in the middle ages
-was between the _nobiles_, i.e. the tenants in chivalry, whether earls,
-barons, knights, esquires or franklins, and the _ignobiles_, i.e. the
+was between the _nobiles_, i.e. the tenants in [[Chivalry|chivalry]], whether earls,
+barons, [[Knight|knights]], esquires or [[Franklin|franklins]], and the _ignobiles_, i.e. the
 villeins, citizens and burgesses;[2] and between the most powerful noble
 and the humblest franklin there was, until the 15th century, no
 "separate class of gentlemen." Even so late as 1400 the word "gentleman"
@@ -101,7 +101,7 @@ incidents of which are instructive and occasionally amusing. The
 immediate cause was the statute I Henry V. cap. v. of 1413, which laid
 down that in all original writs of action, personal appeals and
 indictments, in which process of outlawry lies, the "estate degree or
-mystery" of the defendant must be stated, as well as his present or
+mystery" of the [[Defendant|defendant]] must be stated, as well as his present or
 former domicile. Now the Black Death (1349) had put the traditional
 social organization out of gear. Before that the younger sons of the
 _nobiles_ had received their share of the farm stock, bought or hired
@@ -112,7 +112,7 @@ hangers-on of the great nobles. These men, under the old system, had no
 definite status; but they were _generosi_, men of birth, and, being now
 forced to describe themselves, they disdained to be classed with
 franklins (now sinking in the social scale), still more with yeomen or
-husbandmen; they chose, therefore, to be described as "gentlemen." On
+husbandmen; they [[Chose|chose]], therefore, to be described as "gentlemen." On
 the character of these earliest "gentlemen" the records throw a lurid
 light. According to Sir George Sitwell (p. 76), "the premier gentleman
 of England, as the matter now stands, is 'Robert Erdeswyke of Stafford,
@@ -120,16 +120,16 @@ gentilman,'" who had served among the men-at-arms of Lord Talbot at
 Agincourt (ib. note). He is typical of his class. "Fortunately--for the
 gentle reader will no doubt be anxious to follow in his footsteps--some
 particulars of his life may be gleaned from the public records. He was
-charged at the Staffordshire Assizes with housebreaking, wounding with
-intent to kill, and procuring the murder of one Thomas Page, who was cut
-to pieces while on his knees begging for his life." If any earlier
+charged at the Staffordshire [[Assize|Assizes]] with housebreaking, wounding with
+[[Intent|intent]] to kill, and procuring the murder of one Thomas Page, who was cut
+to pieces while on his [[Knee|knees]] begging for his life." If any earlier
 claimant to the title of "gentleman" be discovered, Sir George Sitwell
 predicts that it will be within the same year (1414) and in connexion
 with some similar disreputable proceedings.[3]
 
 From these unpromising beginnings the separate order of "gentlemen" was
 very slowly evolved. The first "gentleman" commemorated on an existing
-monument was John Daundelyon of Margate (d. c. 1445); the first
+monument was John Daundelyon of [[Margate]] (d. c. 1445); the first
 gentleman to enter the House of Commons, hitherto composed mainly of
 "valets," was "William Weston, gentylman"; but even in the latter half
 of the 15th century the order was not clearly established. As to the
@@ -144,7 +144,7 @@ constituted a distinct order, and that the badge of this distinction was
 the heralds' recognition of the right to bear arms. It is unfortunate
 that this view, which is quite unhistorical and contradicted by the
 present practice of many undoubtedly "gentle" families of long descent,
-has of late years been given a wide currency in popular manuals of
+has of late years been given a wide currency in popular [[Manuals|manuals]] of
 heraldry.
 
 In this narrow sense, however, the word "gentleman" has long since
@@ -156,11 +156,11 @@ sufficiently shown; but the whole spirit and tendency of English
 constitutional and social development tended to its early destruction.
 The comparative good order of England was not favourable to the
 continuance of a class, developed during the foreign and civil wars of
-the 14th and 15th centuries, for whom fighting was the sole honourable
+the 14th and 15th centuries, for whom fighting was the sole [[Honourable|honourable]]
 occupation. The younger sons of noble families became apprentices in the
-cities, and there grew up a new aristocracy of trade. Merchants are
+cities, and there grew up a new [[Aristocracy|aristocracy]] of trade. Merchants are
 still "citizens" to William Harrison; but he adds "they often change
-estate with gentlemen, as gentlemen do with them, by a mutual conversion
+estate with gentlemen, as gentlemen do with them, by a mutual [[Conversion|conversion]]
 of the one into the other." A frontier line between classes so
 indefinite could not be maintained, especially as in England there was
 never a "nobiliary prefix" to stamp a person as a gentleman by his
@@ -168,18 +168,18 @@ surname, as in France or Germany.[4] The process was hastened, moreover,
 by the corruption of the Heralds' College and by the ease with which
 coats of arms could be assumed without a shadow of claim; which tended
 to bring the "science of armory" into contempt. The word "gentleman" as
-an index of rank had already become of doubtful value before the great
+an [[Index|index]] of rank had already become of doubtful value before the great
 political and social changes of the 19th century gave to it a wider and
 essentially higher significance. The change is well illustrated in the
-definitions given in the successive editions of the _Encyclopaedia
+[[Definition|definitions]] given in the successive editions of the _Encyclopaedia
 Britannica_. In the 5th edition (1815) "a gentleman is one, who without
 any title, bears a coat of arms, or whose ancestors have been freemen."
 In the 7th edition (1845) it still implies a definite social status:
 "All above the rank of yeomen." In the 8th edition (1856) this is still
 its "most extended sense"; "in a more limited sense" it is defined in
 the same words as those quoted above from the 5th edition; but the
-writer adds, "By courtesy this title is generally accorded to all
-persons above the rank of common tradesmen when their manners are
+writer adds, "By [[Courtesy|courtesy]] this title is generally accorded to all
+persons above the rank of common tradesmen when their [[Manners|manners]] are
 indicative of a certain amount of refinement and intelligence." The
 Reform Bill of 1832 has done its work; the "middle classes" have come
 into their own; and the word "gentleman" has come in common use to
@@ -188,13 +188,13 @@ education and manners. The test is no longer good birth, or the right to
 bear arms, but the capacity to mingle on equal terms in good society. In
 its best use, moreover, "gentleman" involves a certain superior standard
 of conduct, due, to quote the 8th edition once more, to "that
-self-respect and intellectual refinement which manifest themselves in
+self-respect and intellectual refinement which [[Manifest|manifest]] themselves in
 unrestrained yet delicate manners." The word "gentle," originally
 implying a certain social status, had very early come to be associated
 with the standard of manners expected from that status. Thus by a sort
-of punning process the "gentleman" becomes a "gentle-man." Chaucer in
+of punning process the "gentleman" becomes a "gentle-man." [[Chaucer]] in
 the _Meliboeus_ (c. 1386) says: "Certes he sholde not be called a gentil
-man, that ... ne dooth his diligence and bisynesse, to kepen his good
+man, that ... ne dooth his [[Diligence|diligence]] and bisynesse, to kepen his good
 name"; and in the _Wife of Bath's Tale_:
 
   "Loke who that is most vertuous alway
@@ -225,7 +225,7 @@ phrase is used; "to spend money like a gentleman" may even be no great
 praise; but "to conduct a business like a gentleman" implies a standard
 at least as high as that involved in the phrase "noblesse oblige." In
 this sense of a person of culture, character and good manners the word
-"gentleman" has supplied a gap in more than one foreign language.
+"gentleman" has supplied a [[Gap|gap]] in more than one foreign language.
 
 The evolution of this meaning of "gentleman" reflects very accurately
 that of English society; and there are not wanting signs that the
@@ -240,7 +240,7 @@ is there much justification for the denunciation by purists of the
 "vulgarization" and "abuse" of the "grand old name of gentleman." Its
 strict meaning has now fallen completely obsolete. Its current meaning
 varies with every class of society that uses it. But it always implies
-some sort of excellency of manners or morals. It may by courtesy be
+some sort of [[Excellency|excellency]] of manners or morals. It may by courtesy be
 over-loosely applied by one common man to another; but the common man
 would understand the reproach conveyed in "You're no gentleman."
 
@@ -273,16 +273,16 @@ FOOTNOTES:
     that, but for the commendable activity of the earls marshals, he
     feared that yeomen would soon be "as rare in _England_ as they are in
     _France_." See also an amusing instance from the time of Henry VIII.,
-    given in "The Gentility of Richard Barker," by Oswald Barron, in the
+    given in "The Gentility of Richard [[Barker]]," by Oswald Barron, in the
     _Ancestor_, vol. ii. (July 1902).
 
-  [2] Even this classification would seem to need modifying. For
+  [2] Even this [[Classification|classification]] would seem to need modifying. For
     certain of the great patrician families of the cities were certainly
     _nobiles_.
 
   [3] The designation "gentilman" is, indeed, found some two centuries
     earlier. In the _Inquisitio maneriorum Ecclesiae S. Pauli Londin._ of
-    A.D. 1222 (W.A. Hale, _Domesday of St Paul's_, Camden Soc., 1858, p.
+    A.D. 1222 (W.A. [[Hale]], _Domesday of St Paul's_, Camden Soc., 1858, p.
     80) occurs the entry: _Adam gentilma dim acra, p' iii. d._ This is
     probably the earliest record of the "grand old name of gentleman";
     but Adam, who held half an acre at a rent of three pence--less by
@@ -295,7 +295,7 @@ FOOTNOTES:
   [4] The prefix "de" attached to some English names is in no sense
     "nobiliary." In Latin documents _de_ was the equivalent of the
     English "of," as _de la_ of "at" (so de la Pole for Atte Poole, cf.
-    such names as Attwood, Attwater). In English this "of" was in the
+    such names as [[Attwood]], Attwater). In English this "of" was in the
     15th century dropped; e.g. the grandson of Johannes de Stoke (John of
     Stoke) in a 14th-century document becomes John Stoke. In modern
     times, under the influence of romanticism, the prefix "de" has been

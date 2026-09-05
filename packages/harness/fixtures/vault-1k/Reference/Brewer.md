@@ -11,7 +11,7 @@ id: 42-602
 BREWER, JOHN SHERREN (1810-1879), English historian, was born in Norwich in
 1810, the son of a Baptist schoolmaster. He was educated at Queen's
 College, Oxford, was ordained in the Church of England in 1837, and became
-chaplain to a central London workhouse. In 1839 he was appointed lecturer
+[[Chaplain|chaplain]] to a central London workhouse. In 1839 he was appointed lecturer
 in classical literature at King's College, London, and in 1855 he became
 professor of English language and literature and lecturer in modern
 history, succeeding F.D. Maurice. Meanwhile from 1854 onwards he was also
@@ -56,7 +56,7 @@ wealthier classes preparing their own beer, but it then became gradually
 apparent to the latter (owing no doubt to improved methods of brewing, and
 for others reasons) that it was more economical and less troublesome to
 have their beer brewed for them at a regular brewery. The usual charge was
-30s. per barrel for bitter ale, and 8s. or so for small beer. This tendency
+30s. per [[Barrel|barrel]] for bitter ale, and 8s. or so for small beer. This tendency
 to centralize brewing operations became more and more marked with each
 succeeding decade. Thus during 1895-1905 the number of private brewers
 declined from 17,041 to 9930. Of the private brewers still existing, about
@@ -732,7 +732,7 @@ so produces "condition."
 _Fining_.--As a very light article is desired nowadays, and this has to be
 provided in a short time, artificial means must be resorted to, in order to
 replace the natural fining or brightening which storage brings about.
-_Finings_ generally consist of a solution or semi-solution of isinglass in
+_Finings_ generally consist of a solution or semi-solution of [[Isinglass|isinglass]] in
 sour beer, or in a solution of tartaric acid or of sulphurous acid. After
 the finings are added to the beer and the barrels have been well rolled,
 the finings slowly precipitate (or work out through the bung-hole) and

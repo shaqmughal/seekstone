@@ -12,7 +12,7 @@ id: 42-3419
 DRESDEN, a city of Germany, capital of the kingdom of Saxony, 71 m.
 E.S.E. from Leipzig and 111 m. S. from Berlin by railway. It lies at an
 altitude of 402 ft. above the Baltic, in a broad and pleasant valley on
-both banks of the Elbe. The prospect of the city with its cupolas,
+both banks of the [[Elbe]]. The prospect of the city with its [[Cupola|cupolas]],
 towers, spires and the copper green roofs of its palaces, as seen from
 the distance, is one of striking beauty. On the left bank of the river
 are the Altstadt (old town) with four old suburbs and numerous new
@@ -51,7 +51,7 @@ the public squares in the Altstadt must be mentioned the magnificent
 Theaterplatz, with a fine equestrian statue of King John, by Schilling;
 the Altmarkt, with a monument commemorative of the war of 1870-71; the
 Neumarkt, with a bronze statue of King Frederick Augustus II., by E. J.
-Hähnel; the Postplatz, adorned by a Gothic fountain, by Semper; and the
+Hähnel; the Postplatz, adorned by a [[Gothic]] [[Fountain|fountain]], by Semper; and the
 Bismarckplatz in the Anglo-American quarter. In the Neustadt are the
 market square, with a bronze equestrian statue of Augustus the Strong;
 the Kaiser Wilhelmplatz; and the Albertplatz. The continuous Schloss-,
@@ -96,7 +96,7 @@ Frederick Augustus I. It was intended to be the vestibule to a palace,
 but now contains a number of collections of great value. Until 1846 it
 was open at the north side; but this space has since been occupied by
 the museum, a beautiful Renaissance building, the exterior of which is
-adorned by statues of Michelangelo, Raphael, Giotto, Dante, Goethe and
+adorned by statues of Michelangelo, Raphael, Giotto, [[Dante]], Goethe and
 other artists and poets by Rietschel and Hähnel, and it contains the
 famous picture gallery. The Brühl palace, built in 1737 by Count Brühl,
 the minister of Augustus II., has been in some measure demolished to
@@ -126,9 +126,9 @@ archives. On the right bank of the Elbe in Neustadt stand the fine
 buildings of the ministries of war, of finance, justice, the interior
 and education. The public monuments of Dresden also include the Moritz
 Monument, a relief dedicated by the elector Augustus to his brother
-Maurice, a statue of Weber the composer by Rietschel, a bronze statue of
+[[Maurice]], a statue of Weber the composer by Rietschel, a bronze statue of
 Theodor Körner by Hähnel, the Rietschel monument on the Brühl Terrace by
-Schilling, a bust of Gutzkow, and a statue of Bismarck on the promenade.
+Schilling, a bust of [[Gutzkow]], and a statue of Bismarck on the promenade.
 In the suburbs which encircle the old town are to be noted the vast
 central Hauptbahnhof (1893-1898) occupying the site of the old
 Böhmischer railway station, the new premises of the municipal hospital
@@ -156,7 +156,7 @@ name of the gallery is generally associated are Correggio's "La Notte"
 and "Mary Magdalene"; Titian's "Tribute Money" and "Venus"; "The
 Adoration" and "The Marriage in Cana," by Paul Veronese; Andrea del
 Sarto's "Abraham's Sacrifice"; Rembrandt's "Portrait of Himself with his
-Wife sitting on his Knee"; "The Judgment of Paris" and "The Boar Hunt,"
+Wife sitting on his [[Knee]]"; "The Judgment of Paris" and "The Boar [[Hunt]],"
 by Rubens; Van Dyck's "Charles I., his Queen, and their Children."
 
 Of modern painters, this magnificent collection contains masterpieces by
@@ -186,7 +186,7 @@ order. There is in the same building an excellent Historical Museum. In
 the Grüne Gewölbe (Green Vault) of the Royal Palace, so called from the
 character of its original decorations, there is an unequalled collection
 of precious stones, pearls and works of art in gold, silver, amber and
-ivory. The objects, which are about 3000 in number, are arranged in
+[[Ivory|ivory]]. The objects, which are about 3000 in number, are arranged in
 eight rooms. They include the regalia of Augustus II. as king of Poland;
 the electoral sword of Saxony; a group by Dinglinger, in gold and
 enamel, representing the court of the grand mogul Aurungzebe, and
@@ -199,19 +199,19 @@ zoological and mineralogical museums and a collection of instruments
 used in mathematical and physical science. Among other collections is
 that of the Körner museum with numerous reminiscences of the
 Goethe-Schiller epoch, and of the wars of liberation (1813-15), and
-containing valuable manuscripts and relics. Founded by Hofrath Dr Emil
+containing valuable [[Manuscript|manuscripts]] and relics. Founded by Hofrath Dr Emil
 Peschel, it has passed into the possession of the city.
 
 _Education._--Dresden is the seat of a number of well-known scientific
 associations. The educational institutions are numerous and of a high
 order, including a technical high school (with about 1100 students),
 which enjoys the privilege of conferring the degrees of doctor of
-engineering, doctor of technical sciences, &c., a veterinary college, a
+[[Engineering|engineering]], doctor of technical sciences, &c., a veterinary college, a
 political-economic institution (Gehestiftung), with library, a school of
 architects, a royal and four municipal gymnasia, numerous lower grade
-and popular schools, the royal conservatorium for music and drama, and a
+and popular schools, the royal conservatorium for music and [[Drama|drama]], and a
 celebrated academy of painting. Dresden has several important hospitals,
-asylums and other charitable institutions.
+[[Asylum|asylums]] and other charitable institutions.
 
 _Music and the Theatres._--Besides the two royal theatres, Dresden
 possesses several minor theatres and music halls. The pride of place in
@@ -249,11 +249,11 @@ in books and objects of art.
 _Surroundings._--The environs of the city are delightful. To the north
 are the vine-clad hills of the Lössnitz commanding views of the valley
 of the Elbe from Dresden to Meissen; behind them, on an island in a
-lake, is the castle of Moritzburg, the hunting box of the king of
+lake, is the castle of Moritzburg, the [[Hunting|hunting]] box of the king of
 Saxony. On the right bank of the Elbe, 3 m. above the city, lies the
 village of Loschwitz, where Schiller, in the summer of 1786, wrote the
 greater part of his _Don Carlos_: above it on the fringe of the Dresdner
-Heide, the climatic health resort Weisser-Hirsch; farther up the river
+[[Heide]], the climatic health resort Weisser-Hirsch; farther up the river
 towards Pirna the royal summer palace Pillnitz; to the south the
 Plauensche Grund, and still farther the Rabenauer Grund.
 
@@ -291,7 +291,7 @@ been carried out.
   See Lindau, _Geschichte der Haupt- und Residenzstadt Dresden_ (2
   vols., Dresden, 1884-1885); Prölss, _Geschichte des Hoftheaters in
   Dresden_ (Dresden, 1877); Schumann, _Führer durch die königl.
-  Sammlungen zu Dresden_ (1903); Woerl, _Führer durch Dresden_; Daniel,
+  Sammlungen zu Dresden_ (1903); Woerl, _Führer durch Dresden_; [[Daniel]],
   _Deutschland_ (1894).
 
 
@@ -337,7 +337,7 @@ Vandamme was marching with all speed.
 [Illustration: Emery Walker sc.]
 
 Napoleon's plan for the 27th was, as usual, simple in its outline. As at
-Friedland, a ravine separated a part of the hostile line of battle from
+[[Friedland]], a ravine separated a part of the hostile line of battle from
 the rest. The villages west of the Plauen ravine and even Löbda were
 occupied in the early morning by General Metzko with the leading
 division of Klenau's corps from Freiberg, and upon Metzko Napoleon
@@ -362,7 +362,7 @@ available in and about Dresden, was still able to move where the Allied
 guns sank in mud. Further, if the cavalry had to walk, or at most trot,
 through the fields the opposing infantry was almost always unable to
 fire their muskets. "You cannot fire; surrender," said Murat to an
-Austrian battalion in the battle. "Never," they replied; "you cannot
+Austrian [[Battalion|battalion]] in the battle. "Never," they replied; "you cannot
 charge us." On the appearance of Murat's horse artillery, however, they
 had to surrender at once. Under such conditions, Metzko, unsupported
 either by Klenau or the main army beyond the ravine, was an easy victim.
@@ -378,7 +378,7 @@ or taken prisoners.
 
 Meanwhile Ney on the other flank, with his left on the Pillnitz road and
 his right on the Grosser Garten, had opened his attack. The Russians
-offered a strenuous resistance, defending Seidnitz, Gross Döbritz and
+offered a strenuous resistance, defending Seidnitz, [[Gross]] Döbritz and
 Reick with their usual steadiness, and Ney was so far advanced that
 several generals at the Allied headquarters suggested a counter-attack
 of the centre by way of Strehlen, so as to cut off the French left from
@@ -400,7 +400,7 @@ the French cavalry was unable to make any effective pursuit.
 The forces engaged were 96,000 French, Saxons, &c., and 200,000
 Austrians, Russians and Prussians. The French losses were about 10,000,
 or a little over 10%, those of the Allies 38,000 killed, wounded and
-prisoners (the latter 23,000) or 19%. They lost also 15 colours and 26
+prisoners (the latter 23,000) or 19%. They lost also 15 [[Colours|colours]] and 26
 guns.
 
 ## See also

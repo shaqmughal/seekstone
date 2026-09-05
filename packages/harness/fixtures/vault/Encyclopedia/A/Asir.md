@@ -8,7 +8,7 @@ type: article
 # Asir
 
 ASIR, a district in western Arabia, lying between 17 deg. 30' and 21
-deg. N., and 40 deg. 30' and 45 deg. E.; bounded N. by Hejaz, E. by
+deg. N., and 40 deg. 30' and 45 deg. E.; bounded N. by [[Hejaz]], E. by
 Nejd, S. by Yemen and W. by the Red Sea. Like Yemen, it consists of a
 lowland zone some 20 or 30 m. in width along the coast, and of a
 mountainous tract, falling steeply on the west and merging into a
@@ -22,20 +22,20 @@ mountainous tract has probably an average altitude of between 6000 and
 and populous. The valleys are well watered and produce excellent crops
 of cereals and dates. The best-known are the Wadi Taraba and the W.
 Besha, both running north-east towards the W. Dawasir in Nejd. Taraba,
-according to John Lewis Burckhardt, is a considerable town, surrounded
+according to John [[Lewis]] Burckhardt, is a considerable town, surrounded
 by palm groves and gardens, and watered by numerous rivulets, and tamous
 for its long resistance to Mehemet Ali's forces in 1815. Five or six
 days' journey to the south-east is the district of Besha, the most
 important position between Sana and Taif. Here Mehemet Ali's army,
 amounting to 12,000 men, found sufficient provisions to supply it during
 a fortnight's halt. The Wadi Besha is a broad valley abounding with
-streams containing numerous hamlets scattered over a tract some six or
+streams containing numerous [[Hamlet|hamlets]] scattered over a tract some six or
 eight hours' journey in length. Its principal affluent, the W. Shahran,
 rises 120 m. to the south and runs through the fertile district of
 Khamis Mishet, the highest in Asir. The Zahran district lies four days
 west of Besha on the crest of the main range: the principal place is
 Makhwa, a large town and market, from which grain is exported in
-considerable quantities to Mecca. Farther south is the district of
+considerable quantities to [[Mecca]]. Farther south is the district of
 Shamran. Throughout the mountainous country the valleys are well watered
 and cultivated, with fortified villages perched on the surrounding
 heights. Juniper forests are said to exist on the higher mountains.

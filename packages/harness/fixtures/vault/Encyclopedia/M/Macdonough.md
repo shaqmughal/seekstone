@@ -1,12 +1,12 @@
 # Macdonough
 
 MACDONOUGH, THOMAS (1786-1825), American sailor, was born in the state
-of Delaware, his father being an officer of the Continental Army, and
+of [[Delaware]], his father being an officer of the Continental Army, and
 entered the United States navy in 1800. During his long service as a
-lieutenant he took part in the bombardment of Tripoli, and on a
+lieutenant he took part in the [[Bombardment|bombardment]] of Tripoli, and on a
 subsequent occasion showed great firmness in resisting the seizure of a
 seaman as an alleged deserter from the British navy, his ship at the
-time lying under the guns of Gibraltar. When war with England broke out,
+time lying under the guns of [[Gibraltar]]. When war with England broke out,
 in 1812, he was ordered to cruise in the lakes between Canada and the
 United States, with his headquarters on lake Champlain. He was
 instrumental in saving New York and Vermont from invasion by his
@@ -21,16 +21,16 @@ gold medal.
 
 MacDOWELL, EDWARD ALEXANDER (1861-1908), American musical composer, was
 born in New York City on the 18th of December 1861. His father, an
-Irishman of Belfast, had emigrated to America shortly before the boy's
+Irishman of [[Belfast]], had emigrated to America shortly before the boy's
 birth. He had a varied education in music, first under Spanish-American
-teachers, and then in Europe, at Paris (Debussy being a fellow pupil),
+teachers, and then in Europe, at Paris (Debussy being a [[Fellow|fellow]] pupil),
 Stuttgart, Wiesbaden and Weimar, where he was chiefly influenced by
 Joachim, Raff and Liszt. From 1879 to 1887 he lived in Germany, teaching
-and studying, and also appearing as solo pianist at important concerts.
+and studying, and also appearing as solo pianist at important [[Concert|concerts]].
 In 1884 he married Marian Nevins, of New York. In 1888 he returned to
-America, and settled in Boston till in 1896 he was made professor of
-music at Columbia University, New York. He resigned this post in 1904,
-and in 1905 overwork and insomnia resulted in a complete cerebral
+America, and settled in [[Boston]] till in 1896 he was made professor of
+music at [[Columbia University]], New York. He resigned this post in 1904,
+and in 1905 overwork and [[Insomnia|insomnia]] resulted in a complete cerebral
 collapse. He died on the 24th of January 1908. MacDowell's work gives
 him perhaps the highest place among American composers. Deeply
 influenced by modern French models and by German romanticism, full of
@@ -46,7 +46,7 @@ choruses, and various pieces for pianoforte, his own instrument; they
 are numbered from _op._ 9 to _op._ 62, his first eight numbered works
 being destroyed by him.
 
-  See Lawrence Gilman, _Edward MacDowell_ (1906).
+  See [[Lawrence]] [[Gilman]], _Edward MacDowell_ (1906).
 
 
 
@@ -54,17 +54,17 @@ being destroyed by him.
 McDOWELL, IRVIN (1818-1885), American soldier, was born in Columbus,
 Ohio, on the 15th of October 1818. He was educated in France, and
 graduated at the U. S. military academy in 1838. From 1841 to 1845 he
-was instructor, and later adjutant, at West Point. He won the brevet of
+was instructor, and later adjutant, at West Point. He won the [[Brevet|brevet]] of
 captain in the Mexican War, at the battle of Buena Vista, and served as
 adjutant-general, chiefly at Washington, until 1861, being promoted
-major in 1856. In 1858-1859 he visited Europe. Whilst occupied in
+[[Major|major]] in 1856. In 1858-1859 he visited Europe. Whilst occupied in
 mustering volunteers at the capital, he was made brigadier-general in
 May 1861, and placed in command during the premature Virginian campaign
-of July, which ended in the defeat at Bull Run. Under McClellan he
-became a corps commander and major-general of volunteers (March 1862).
+of July, which ended in the defeat at [[Bull]] Run. Under McClellan he
+became a [[Corps|corps]] [[Commander|commander]] and major-general of volunteers (March 1862).
 When the Peninsular campaign began McDowell's corps was detained against
 McClellan's wishes, sent away to join in the fruitless chase of
-"Stonewall" Jackson in the Shenandoah Valley, and eventually came under
+"Stonewall" [[Jackson]] in the Shenandoah Valley, and eventually came under
 the command of General Pope, taking part in the disastrous campaign of
 Second Bull Run. Involved in Pope's disgrace, McDowell was relieved of
 duty in the field (Sept. 1862), and served on the Pacific coast 1864-68.
@@ -78,7 +78,7 @@ faithful, unselfish and energetic soldier, in patriotic sympathy with
 the administration, and capable of great achievements. It was his
 misfortune to be associated with the first great disaster to the Union
 cause, to play the part of D'Erlon at Quatre-Bras between the armies of
-Banks and McClellan, and finally to be involved in the catastrophe of
+Banks and McClellan, and finally to be involved in the [[Catastrophe|catastrophe]] of
 Pope's campaign. That he was perhaps too ready to accept great risks at
 the instance of his superiors is the only just criticism to which his
 military character was open.

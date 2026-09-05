@@ -12,7 +12,7 @@ districts of the Fort, Callowelle, Galopiadde, Hirimbure and
 Cumbalwalla. The fort, which is more than a mile in circumference,
 overlooks the whole harbour, but is commanded by a range of hills.
 Within its enclosure are not only several government buildings, but an
-old church erected by the Dutch East India Company, a mosque, a Wesleyan
+old church erected by the [[Dutch East India Company]], a mosque, a Wesleyan
 chapel, a hospital, and a considerable number of houses occupied by
 Europeans. The old Dutch building known as the queen's house, or
 governor's residence, which dated from 1687, was in such a dilapidated
@@ -31,19 +31,19 @@ The opening of the Suez Canal in 1869, and the construction of a
 breakwater at Colombo, leading to the transfer of the mail and most of
 the commercial steamers to the capital of the island, seriously
 diminished the prosperity of Galle. Although a few steamers still call
-to coal and take in some cargo, yet the loss of the Peninsular and
+to coal and take in some [[Cargo|cargo]], yet the loss of the Peninsular and
 Oriental and other steamer agencies reduced the port to a subordinate
 position; nor has the extension of the railway from Colombo, and beyond
 Galle to Matara, very much improved matters. The tea-planting industry
 has, however, spread to the neighbourhood, and a great deal is done in
-digging plumbago and in growing grass for the distillation of citronella
+digging plumbago and in growing grass for the [[Distillation|distillation]] of citronella
 oil. The export trade is chiefly represented by coco-nut oil, plumbago,
 coir yarn, fibre, rope and tea. In the import trade cotton goods are the
-chief item. Both the export and import trade for the district, however,
+chief [[Item|item]]. Both the export and import trade for the district, however,
 now chiefly passes through Colombo. Pop. (1901) 37,165.
 
   Galle is mentioned by none of the Greek or Latin geographers, unless
-  the identification with Ptolemy's Avium Promontorium or Cape of Birds
+  the [[Identification|identification]] with Ptolemy's Avium Promontorium or Cape of Birds
   be a correct one. It is hardly noticed in the native chronicles before
   1267, and Ibn Batuta, in the middle of the 14th century, distinctly
   states that Kali--that is, Galle--was a _small_ town. It was not till
@@ -58,8 +58,8 @@ now chiefly passes through Colombo. Pop. (1901) 37,165.
   English hands at the conquest of the island from the Dutch in 1796.
   The name Galle is derived from the Sinhalese _galla_, equivalent to
   "rock"; but the Portuguese and Dutch settlers, being better fighters
-  than philologists, connected it with the Latin _gallus_, a cock, and
-  the image of a cock was carved as a symbol of the town in the front of
+  than philologists, connected it with the Latin _[[Gallus|gallus]]_, a [[Cock|cock]], and
+  the [[Image|image]] of a cock was carved as a symbol of the town in the front of
   the old government house.
 
 ## See also

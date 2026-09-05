@@ -8,10 +8,10 @@ type: note
 # Arnaud
 
 ARNAUD, HENRI (1641-1721), pastor and general of the Vaudois or
-Waldensians of Piedmont, was born at Embrun. About 1650 his family
+Waldensians of Piedmont, was born at [[Embrun]]. About 1650 his family
 returned to their native valley of Luserna, where Arnaud was educated at
-La Tour (the chief village), later visiting the college at Basel (1662
-and 1668) and the Academy at Geneva (1666). He then returned home, and
+[[La Tour]] (the chief village), later visiting the college at [[Basel]] (1662
+and 1668) and the Academy at [[Geneva]] (1666). He then returned home, and
 seems to have been pastor in several of the Vaudois valleys before
 attaining that position at La Tour (1685). He was thus the natural
 leader of his co-religionists after Victor Amadeus expelled them (1686)
@@ -26,8 +26,8 @@ Furnished with detailed instructions from the veteran Josue Janavel
 1000 followers, started (August 17, 1689) from near Nyon on the Lake of
 Geneva for the _glorieuse rentree_. On the 27th of August, the valiant
 band, after many hardships and dangers, reached the Valley of St
-Martin, having passed by Sallanches and crossed the Col de Very (6506
-ft.), the Enclave de la Fenetre (7425 ft.), the Col du Bonhomme (8147
+[[Martin]], having passed by Sallanches and crossed the Col de Very (6506
+ft.), the [[Enclave]] de la Fenetre (7425 ft.), the Col du Bonhomme (8147
 ft.), the Col du Mont Iseran (9085 ft.), the Grand Mont Cenis (6893
 ft.), the Petit Mont Cenis (7166 ft.), the Col de Clapier (8173 ft.),
 the Col de Coteplane (7589 ft.), and the Col du Piz (8550 ft.). They
@@ -51,11 +51,11 @@ Wurttemberg, where Arnaud became the pastor of Durrmenz-Schonenberg,
 N.W. of Stuttgart (1699). Once again (1704-1706) the Vaudois aided the
 duke against France. Arnaud, however, took no part in the military
 operations, though he visited England (1707) to obtain pecuniary aid
-from Queen Anne. He died at Schonenberg (which was the church hamlet of
+from Queen [[Anne]]. He died at Schonenberg (which was the church [[Hamlet|hamlet]] of
 the parish of Durrmenz) in 1721. It was during his retirement that he
 compiled from various documents by other hands his _Histoire de la
 glorieuse rentree des Vaudois dans leurs vallees_, which was published
-(probably at Cassel) in 1710, with a dedication to Queen Anne. It was
+(probably at [[Cassel]]) in 1710, with a [[Dedication|dedication]] to Queen Anne. It was
 translated into English (1827) by H. Dyke Acland, and has also appeared
 in German and Dutch versions. A part of the original MS. is preserved in
 the Royal Library in Berlin.

@@ -5,7 +5,7 @@ Nansemond and Elizabeth rivers of Virginia, U.S.A., pass (between Old
 Point Comfort to the N. and Sewell's Point to the S.) into Chesapeake
 Bay. It is an important highway of commerce, especially for the cities
 of Norfolk, Portsmouth and Newport News, and is the chief rendezvous of
-the United States navy. For a width of 500 ft. the Federal government
+the United States navy. For a width of 500 ft. the [[Federal Government|Federal government]]
 during 1902-1905 increased its minimum depth at low water from 25-1/2
 ft. to 30 ft. The entrance from Chesapeake Bay is defended by Fortress
 Monroe on Old Point Comfort and by Fort Wood on a small island called
@@ -16,20 +16,20 @@ Hampton Roads is famous in history as the scene of the first engagement
 between iron-clad vessels. In the spring of 1861 the Federals set fire
 to several war vessels in the Gosport navy yard on the Elizabeth river
 and abandoned the place. In June the Confederates set to work to raise
-one of these abandoned vessels, the frigate "Merrimac" of 3500 tons and
+one of these abandoned vessels, the [[Frigate|frigate]] "Merrimac" of 3500 tons and
 40 guns, and to rebuild it as an iron-clad. The vessel (renamed the
 "Virginia" though it is generally known in history by its original name)
 was first cut down to the water-line and upon her hull was built a
 rectangular casemate, constructed of heavy timber (24 in. in thickness),
 covered with bar-iron 4 in. thick, and rising from the water on each
 side at an angle of about 35 deg. The iron plating extended 2 ft. below
-the water line; and beyond the casemate, toward the bow, was a cast-iron
+the water line; and beyond the casemate, toward the [[Bow|bow]], was a cast-iron
 pilot house, extending 3 ft. above the deck. The reconstruction of the
 vessel was completed on the 5th of March 1862. The vessel drew 22 ft. of
 water, was equipped with poor engines, so that it could not make more
-than 5 knots, and was so unwieldy that it could not be turned in less
+than 5 [[Knot|knots]], and was so unwieldy that it could not be turned in less
 than 30 minutes. It was armed with 10 guns--2 (rifled) 7 in., 2 (rifled)
-6 in., and 6 (smooth bore Dahlgren) 9 in. Her most powerful equipment,
+6 in., and 6 (smooth bore [[Dahlgren]]) 9 in. Her most powerful equipment,
 however, was her 18 in. cast-iron ram. In October 1861 Captain John
 Ericsson, an engineer, and a Troy (N.Y.) firm, as builders, began the
 construction of the iron-clad "Monitor" for the Federals, at Greenpoint,
@@ -55,7 +55,7 @@ the government on the 19th of the following month. The building of the
 two vessels was practically a race between the two combatants.
 
 On the 8th of March about 1 P.M., the "Merrimac," commanded by Commodore
-Franklin Buchanan (1795-1871), steamed down the Elizabeth accompanied by
+[[Franklin]] [[Buchanan]] (1795-1871), steamed down the Elizabeth accompanied by
 two one-gun gun-boats, to engage the wooden fleet of the Federals,
 consisting of the frigate "Congress," 50 guns, and the sloop
 "Cumberland," 30 guns, both sailing vessels, anchored off Newport News,
@@ -63,7 +63,7 @@ and the steam frigates "Minnesota," and "Roanoke," the sailing frigate
 "St Lawrence," and several gun-boats, anchored off Fortress Monroe.
 Actual firing began about 2 o'clock, when the "Merrimac" was nearly a
 mile from the "Congress" and the "Cumberland." Passing the first of
-these vessels with terrific broadsides, the "Merrimac" rammed the
+these vessels with terrific [[Broadside|broadsides]], the "Merrimac" rammed the
 "Cumberland" and then turned her fire again on the "Congress," which in
 an attempt to escape ran aground and was there under fire from three
 other Confederate gun-boats which had meanwhile joined the "Merrimac."
@@ -110,7 +110,7 @@ in a gale off Cape Hatteras on the 31st of December 1862.
 
 Though the battle between the two vessels was indecisive, its effect was
 to "neutralize" the "Merrimac," which had caused great alarm in
-Washington, and to prevent the breaking of the Federal blockade at
+Washington, and to prevent the breaking of the Federal [[Blockade|blockade]] at
 Hampton Roads; in the history of naval warfare it may be regarded as
 marking the opening of a new era--the era of the armoured warship. On
 the 3rd of February 1865 near Fortress Monroe on board a steamer
@@ -121,8 +121,8 @@ held the Jamestown Tercentennial Exposition.
 
   See James R. Soley, _The Blockade and the Cruisers_ (New York, 1883);
   _Battles and Leaders of the Civil War_, vol. i. (New York, 1887);
-  chap. ii. of Frank M. Bennett's _The Monitor and the Navy under Steam_
-  (Boston, 1900); and William Swinton, _Twelve Decisive Battles of the
+  chap. ii. of [[Frank]] M. Bennett's _The Monitor and the Navy under Steam_
+  ([[Boston]], 1900); and William Swinton, _Twelve Decisive Battles of the
   War_ (New York, 1867).
 
 

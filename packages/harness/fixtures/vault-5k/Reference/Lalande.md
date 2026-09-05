@@ -3,7 +3,7 @@
 LALANDE, JOSEPH JÉRÔME LEFRANÇAIS DE (1732-1807), French astronomer, was
 born at Bourg (department of Ain), on the 11th of July 1732. His parents
 sent him to Paris to study law; but the accident of lodging in the Hôtel
-Cluny, where J. N. Delisle had his observatory, drew him to astronomy,
+[[Cluny]], where J. N. Delisle had his observatory, drew him to astronomy,
 and he became the zealous and favoured pupil of both Delisle and Pierre
 Lemonnier. He, however, completed his legal studies, and was about to
 return to Bourg to practise there as an advocate, when Lemonnier
@@ -22,7 +22,7 @@ were J. B. J. Delambre, G. Piazzi, P. Mechain, and his own nephew Michel
 Lalande. By his publications in connexion with the transit of 1769 he
 won great and, in a measure, deserved fame. But his love of notoriety
 and impetuous temper compromised the respect due to his scientific zeal,
-though these faults were partially balanced by his generosity and
+though these [[Fault|faults]] were partially balanced by his generosity and
 benevolence. He died on the 4th of April 1807.
 
   Although his investigations were conducted with diligence rather than
@@ -32,7 +32,7 @@ benevolence. He died on the 4th of April 1807.
   corrections for mutual perturbations, were the best available up to
   the end of the 18th century; and the Lalande prize, instituted by him
   in 1802 for the chief astronomical performance of each year, still
-  testifies to his enthusiasm for his favourite pursuit. Amongst his
+  testifies to his [[Enthusiasm|enthusiasm]] for his favourite pursuit. Amongst his
   voluminous works are _Traité d'astronomie_ (2 vols., 1764; enlarged
   edition, 4 vols., 1771-1781; 3rd ed., 3 vols., 1792); _Histoire
   céleste française_ (1801), giving the places of 50,000 stars;
@@ -47,7 +47,7 @@ benevolence. He died on the 4th of April 1807.
 
   See _Mémoires de l'Institut_, t. viii. (1807) (J. B. J. Delambre);
   Delambre, _Hist. de l'astr. au XVIII^e siècle_, p. 547; _Magazin
-  encyclopédique_, ii. 288 (1810) (Mme de Salm); J. S. Bailly, _Hist. de
+  encyclopédique_, ii. 288 (1810) (Mme de Salm); J. S. [[Bailly]], _Hist. de
   l'astr. moderne_, t. iii. (ed. 1785); J. Mädler, _Geschichte der
   Himmelskunde_, ii. 141; R. Wolf, _Gesch. der Astronomie_; J. J.
   Lalande, _Bibl. astr._ p. 428; J. C. Poggendorff, _Biog. Lit.
@@ -60,7 +60,7 @@ LALÍN, a town of north-western Spain, in the province of Pontevedra.
 Pop. (1900) 16,238. Lalín is the centre of the trade in agricultural
 products of the fertile highlands between the Deza and Arnego rivers.
 The local industries are tanning and the manufacture of paper. Near
-Lalín are the ruins of the Gothic abbey of Carboeiro.
+Lalín are the ruins of the [[Gothic]] abbey of Carboeiro.
 
 ## References
 

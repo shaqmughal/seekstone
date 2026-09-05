@@ -74,7 +74,7 @@ seeks to avoid collision with man; when wounded, however, or in defence
 of its young, it exhibits great ferocity, and native canoes are capsized
 and occasionally demolished by its infuriated attacks; the bellowing
 grunt then becoming loud enough to be heard a mile away. As among
-elephants, so also among hippopotamuses there are "rogues"--old bulls
+elephants, so also among hippopotamuses there are "rogues"--old [[Bull|bulls]]
 which have become soured in solitude, and are at all times dangerous.
 Assuming the offensive on every occasion, they attack all and sundry
 without shadow of provocation; and the natives avoid their haunts, which
@@ -94,7 +94,7 @@ was distributed over Europe as far north as Yorkshire at the same epoch;
 while an allied species (_H. palaeindicus_) inhabited Pleistocene India.
 Contemporary with the latter was, however, a species (_H. namadicus_)
 with three pairs of incisors; and "hexaprotodont" hippopotamuses are
-also characteristic of the Pliocene of India and Burma (_H. sivalensis_
+also characteristic of the Pliocene of India and [[Burma]] (_H. sivalensis_
 and _H. iravadicus_), and of Algeria, Egypt and southern Europe (_H.
 hipponensis_).
 

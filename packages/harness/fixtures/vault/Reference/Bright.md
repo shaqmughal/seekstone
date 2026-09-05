@@ -1,10 +1,10 @@
 # Bright
 
 BRIGHT, JOHN (1811-1889), British statesman, was born at Rochdale on the
-16th of November 1811. His father, Jacob Bright, was a much-respected
+16th of November 1811. His father, [[Jacob]] Bright, was a much-respected
 Quaker, who had started a cottonmill at Rochdale in 1809. The family had
 reached Lancashire by two migrations. Abraham Bright was a Wiltshire
-yeoman, who, early in the 18th century, removed to Coventry, where his
+yeoman, who, early in the 18th century, removed to [[Coventry]], where his
 descendants remained, and where, in 1775, Jacob Bright was born. Jacob
 Bright was educated at the Ackworth school of the Society of Friends, and
 was apprenticed to a fustian manufacturer at New Mills. He married his
@@ -27,11 +27,11 @@ was a leader) in opposition to a local [v.04 p.0567] church-rate, and the
 second for parliamentary reform, by which Rochdale successfully claimed to
 have a member allotted to it under the Reform Bill. In both these movements
 John Bright took part. He was an ardent Nonconformist, proud to number
-among his ancestors John Gratton, a friend of George Fox, and one of the
+among his ancestors John Gratton, a friend of George [[Fox]], and one of the
 persecuted and imprisoned preachers of the Society of Friends. His
 political interest was probably first kindled by the Preston election in
 1830, in which Lord Stanley, after a long struggle, was defeated by
-"Orator" Hunt. But it was as a member of the Rochdale Juvenile Temperance
+"Orator" [[Hunt]]. But it was as a member of the Rochdale Juvenile Temperance
 Band that he first learned public speaking. These young men went out into
 the villages, borrowed a chair of a cottager, and spoke from it at open-air
 meetings. In Mrs John Mills's life of her husband is an account of John
@@ -42,7 +42,7 @@ into his mind. Bright obeyed, began with much hesitancy, but found his
 tongue and made an excellent address. On some early occasions, however, he
 committed his speech to memory. In 1832 he called on the Rev. John Aldis,
 an eminent Baptist minister, to accompany him to a local Bible meeting. Mr
-Aldis described him as a slender, modest young gentleman, who surprised him
+Aldis described him as a slender, modest young [[Gentleman|gentleman]], who surprised him
 by his intelligence and thoughtfulness, but who seemed nervous as they
 walked to the meeting together. At the meeting he made a stimulating
 speech, and on the way home asked for advice. Mr Aldis counselled him not
@@ -57,20 +57,20 @@ his home, and always ready to take part in the social, educational and
 political life of his native town. He was one of the founders of the
 Rochdale Literary and Philosophical Society, took a leading part in its
 debates, and on returning from a holiday journey in the East, gave the
-society a lecture on his travels. He first met Richard Cobden in 1836 or
+society a lecture on his travels. He first met Richard [[Cobden]] in 1836 or
 1837. Cobden was an alderman of the newly formed Manchester corporation,
 and Bright went to ask him to speak at an education meeting in Rochdale. "I
 found him," said Bright, "in his office in Mosley Street, introduced myself
 to him, and told him what I wanted." Cobden consented, and at the meeting
 was much struck by Bright's short speech, and urged him to speak against
-the Corn Laws. His first speech on the Corn Laws was made at Rochdale in
+the [[Corn]] Laws. His first speech on the Corn Laws was made at Rochdale in
 1838, and in the same year he joined the Manchester provisional committee
 which in 1839 founded the Anti-Corn Law League He was still only the local
 public man, taking part in all public movements, especially in opposition
 to John Feilden's proposed factory legislation, and to the Rochdale
 church-rate. In 1839 he built the house which he called "One Ash," and
-married Elizabeth, daughter of Jonathan Priestman of Newcastle-on-Tyne. In
-November of the same year there was a dinner at Bolton to Abraham Paulton,
+married Elizabeth, daughter of [[Jonathan]] Priestman of Newcastle-on-Tyne. In
+November of the same year there was a [[Dinner|dinner]] at [[Bolton]] to Abraham Paulton,
 who had just returned from a successful Anti-Corn Law tour in Scotland.
 Among the speakers were Cobden and Bright, and the dinner is memorable as
 the first occasion on which the two future leaders appeared together on a
@@ -87,7 +87,7 @@ undistinguished in the body of the meeting. A daughter, Helen, was born to
 him; but his young wife, after a long illness, died of consumption in
 September 1841. Three days after her death at Leamington, Cobden called to
 see him. "I was in the depths of grief," said Bright, when unveiling the
-statue of his friend at Bradford in 1877, "I might almost say of despair,
+statue of his friend at [[Bradford]] in 1877, "I might almost say of despair,
 for the life and sunshine of my house had been extinguished." Cobden spoke
 some words of condolence, but after a time he looked up and said, 'There
 are thousands of homes in England at this moment where wives, mothers and
@@ -113,15 +113,15 @@ formidable reputation as an agitator. He had been all over England and
 Scotland addressing vast meetings and, as a rule, carrying them with him;
 he had taken a leading part in a conference held by the Anti-Corn Law
 League in London, had led deputations to the duke of Sussex, to Sir James
-Graham, then home secretary, and to Lord Ripon and Mr Gladstone, the
+[[Graham]], then home secretary, and to Lord Ripon and Mr Gladstone, the
 secretary and under secretary of the Board of Trade; and he was universally
 recognized as the chief orator of the Free Trade movement. Wherever "John
-Bright of Rochdale" was announced to speak, vast crowds assembled. He had
-been so announced, for the last time, at the first great meeting in Drury
-Lane theatre on 15th March 1843; henceforth his name was enough. He took
+Bright of Rochdale" was announced to speak, vast [[Crowd|crowds]] assembled. He had
+been so announced, for the last time, at the first great meeting in [[Drury]]
+[[Lane]] theatre on 15th March 1843; henceforth his name was enough. He took
 his seat in the House of Commons as one of the members for Durham on 28th
 July 1843, and on 7th August delivered his maiden speech in support of a
-motion by Mr Ewart for reduction of import duties. He was there, he said,
+motion by Mr [[Ewart]] for reduction of import duties. He was there, he said,
 "not only as one of the representatives of the city of Durham, but also as
 one of the representatives of that benevolent organization, the Anti-Corn
 Law League." A member who heard the speech described Bright as "about the
@@ -150,7 +150,7 @@ argumentative speeches were regarded more sympathetically than Bright's
 more rhetorical appeals, and in a debate on Villiers's annual motion
 against the Corn Laws Bright was heard with so much impatience that [v.04
 p.0568] he was obliged to sit down. In the next session (1845) he moved for
-an inquiry into the operation of the Game Laws. At a meeting of county
+an inquiry into the operation of the [[Game]] Laws. At a meeting of county
 members earlier in the day Peel had advised them not to be led into
 discussion by a violent speech from the member for Durham, but to let the
 committee be granted without debate. Bright was not violent, and Cobden
@@ -171,16 +171,16 @@ we have laboured in." A few days later he set off for Manchester, posting
 in that wettest of autumns through "the rain that rained away the Corn
 Laws," and on his arrival got his friends together, and raised the money
 which tided Cobden over the emergency. The crisis of the struggle had come.
-Peel's budget in 1845 was a first step towards Free Trade. The bad harvest
+Peel's budget in 1845 was a first step towards Free Trade. The bad [[Harvest|harvest]]
 and the potato disease drove him to the repeal of the Corn Laws, and at a
 meeting in Manchester on 2nd July 1846 Cobden moved and Bright seconded a
 motion dissolving the league. A library of twelve hundred volumes was
 presented to Bright as a memorial of the struggle.
 
-Bright married, in June 1847, Miss Margaret Elizabeth Leatham, of
+Bright married, in June 1847, Miss [[Margaret]] Elizabeth Leatham, of
 Wakefield, by whom he had seven children, Mr John Albert Bright being the
 eldest. In the succeeding July he was elected for Manchester, with Mr
-Milner Gibson, without a contest. In the new parliament, as in the previous
+Milner [[Gibson]], without a contest. In the new parliament, as in the previous
 session, he opposed legislation restricting the hours of labour, and, as a
 Nonconformist, spoke against clerical control of national education. In
 1848 he voted for Hume's household suffrage motion, and introduced a bill
@@ -190,7 +190,7 @@ miserable measure," and foretold its failure. In this parliament he spoke
 much on Irish questions. In a speech in favour of the government bill for a
 rate in aid in 1849, he won loud cheers from both sides, and was
 complimented by Disraeli for having sustained the reputation of that
-assembly. From this time forward he had the ear of the House, and took
+assembly. From this time forward he had the [[Ear|ear]] of the House, and took
 effective part in the debates. He spoke against capital punishment, against
 church-rates, against flogging in the army, and against the Irish
 Established Church. He supported Cobden's motion for the reduction of
@@ -215,23 +215,23 @@ dog.'" "In that sense," he said, "I shall be buried like a dog, and all
 those with whom I am best acquainted, whom I best love and esteem, will be
 'buried like a dog.' Nay more, my own ancestors, who in past time suffered
 persecution for what is now held to be a righteous cause, have all been
-buried like dogs, if that phrase is true." The tender, half-broken tones in
+buried like [[Dogs|dogs]], if that phrase is true." The tender, half-broken tones in
 which these words were said, the inexpressible pathos of his voice and
 manner, were never forgotten by those who heard that Wednesday morning
 speech.
 
 Bright was disqualified by illness during the whole of 1856 and 1857. In
 Palmerston's penal dissolution in the latter year, Bright was rejected by
-Manchester, but in August, while ill and absent, Birmingham elected him
+Manchester, but in August, while ill and absent, [[Birmingham]] elected him
 without a contest. He returned to parliament in 1858, and in February
 seconded the motion which threw out Lord Palmerston's government. Lord
-Derby thereupon came into office for the second time, and Bright had the
+[[Derby]] thereupon came into office for the second time, and Bright had the
 satisfaction of assisting in the passing of two measures which he had long
 advocated--the admission of Jews to parliament and the transfer of the
-government of India from the East India Company to the crown. He was now
+government of India from the [[East India Company]] to the crown. He was now
 restored to full political activity, and in October addressed his new
 constituents, and started a movement for parliamentary reform. He spoke at
-great gatherings at Edinburgh, Glasgow, Bradford and Manchester, and his
+great gatherings at Edinburgh, [[Glasgow]], Bradford and Manchester, and his
 speeches filled the papers. For the next nine years he was the protagonist
 of Reform. Towards the close of the struggle he told the House of Commons
 that a thousand meetings had been held, that at every one the doors were
@@ -264,7 +264,7 @@ Birmingham without opposition. Palmerston's death in the early autumn
 brought Lord John Russell into power, and for the first time Bright gave
 his support to the government. Russell's fourth Reform Bill was introduced,
 was defeated by the Adullamites, and the Derby-Disraeli ministry was
-installed. Bright declared Lord Derby's accession to be a declaration of
+installed. Bright declared Lord Derby's accession to be a [[Declaration|declaration]] of
 war against the working classes, and roused the great towns in the demand
 for reform. Bright was the popular hero of the time. As a political leader
 the winter of 1866-1867 was the culminating point in his career. The Reform
@@ -273,8 +273,8 @@ autumn of 1868 Bright, with two Liberal colleagues, was again returned for
 Birmingham. Mr Gladstone came into power with a programme of Irish reform
 in church and land such as Bright had long urged, and he accepted the post
 of president of the Board of Trade. He thus became a member of the privy
-council, with the title of Right Honourable, and from this time forth was a
-recognized leader of the Liberal party in parliament and in the country. He
+council, with the title of Right [[Honourable]], and from this time forth was a
+recognized leader of the [[Liberal Party|Liberal party]] in parliament and in the country. He
 made a great speech [v.04 p.0569] on the second reading of the Irish Church
 Bill, and wrote a letter on the House of Lords, in which he said, "In
 harmony with the nation they may go on for a long time, but throwing
@@ -283,16 +283,16 @@ them to think of." He also spoke strongly in the same session in favour of
 the bill permitting marriage with a deceased wife's sister. The next
 session found him disqualified by a severe illness, which caused his
 retirement from office at the end of the year, and kept him out of public
-life for four years. In August 1873 Mr Gladstone reconstructed his cabinet,
-and Bright returned to it as chancellor of the duchy of Lancaster. But his
+life for four years. In August 1873 Mr Gladstone reconstructed his [[Cabinet|cabinet]],
+and Bright returned to it as chancellor of the duchy of [[Lancaster]]. But his
 hair had become white, and though he spoke again with much of his former
 vigour, he was now an old man. In the election in January 1874 Bright and
 his colleagues were returned for Birmingham without opposition. When Mr
 Gladstone resigned the leadership of his party in 1875, Bright was chairman
-of the party meeting which chose Lord Hartington as his successor. He took
+of the party meeting which [[Chose|chose]] Lord Hartington as his successor. He took
 a less prominent part in political discussion till the Eastern Question
 brought Great Britain to the verge of war with Russia, and his old energy
-flamed up afresh. In the debate on the vote of credit in February 1878, he
+flamed up afresh. In the debate on the vote of [[Credit|credit]] in February 1878, he
 made one of his impressive speeches, urging the government not to increase
 the difficulties manufacturers had in finding employment for their
 workpeople by any single word or act which could shake confidence in
@@ -310,7 +310,7 @@ Bright's doubts: "There is not a word of truth in the rumours which have
 reached you." At the general election in 1880 he was re-elected at
 Birmingham, and joined Mr Gladstone's new government as chancellor of the
 duchy of Lancaster. For two sessions he spoke and voted with his
-colleagues, but after the bombardment of the Alexandria forts he left the
+colleagues, but after the [[Bombardment|bombardment]] of the Alexandria forts he left the
 ministry and never held office again. He felt most painfully the severance
 from his old and trusted leader, but it was forced on him by his conviction
 of the danger and impolicy of foreign entanglements. He, however, gave a
@@ -320,7 +320,7 @@ that year was the object of an unparalleled demonstration at Birmingham to
 celebrate his twenty-five years of service as its representative. At this
 celebration he spoke strongly of "the Irish rebel party," and accused the
 Conservatives of "alliance" with them, but withdrew the imputation when Sir
-Stafford Northcote moved that such language was a breach of the privileges
+Stafford Northcote moved that such language was a [[Breach|breach]] of the privileges
 of the House of Commons. At a banquet to Lord Spencer he accused the Irish
 members of having "exhibited a boundless sympathy for criminals and
 murderers." He refused in the House of Commons to apologise for these
@@ -336,7 +336,7 @@ should form a grand committee to which every Irish bill should go after
 first reading. The break-up of the Liberal party filled him with gloom. His
 last speech at Birmingham was on 29th March 1888, at a banquet to celebrate
 Mr Chamberlain's return from his peace mission to the United States. He
-spoke of imperial federation as a "dream and an absurdity." In May his
+spoke of imperial federation as a "[[Dream|dream]] and an absurdity." In May his
 illness returned, he took to his bed in October, and died on the 27th of
 March 1889. He was buried in the graveyard of the meeting-house of the
 Society of Friends in Rochdale.
@@ -344,7 +344,7 @@ Society of Friends in Rochdale.
 Bright had much literary and social recognition in his later years. In 1882
 he was elected lord rector of the university of Glasgow, and Dr Dale wrote
 of his rectorial address: "It was not the old Bright." "I am weary of
-public speaking," he had told Dr Dale; "my mind is almost a blank." He was
+public speaking," he had told Dr Dale; "my mind is almost a [[Blank|blank]]." He was
 given an honorary degree of the university of Oxford in 1886, and in 1888 a
 statue of him was erected at Birmingham. The 3rd marquess of Salisbury said
 of him, and it sums up his character as a public man: "He was the greatest
@@ -355,7 +355,7 @@ vigorous style in which he gave fitting expression to the burning and noble
 thoughts he desired to utter."
 
 See _The Life and Speeches of the Right Hon. John Bright, M.P_., by George
-Barnett Smith, 2 vols. 8vo (1881); _The Life of John Bright, M.P._, by John
+[[Barnett]] Smith, 2 vols. 8vo (1881); _The Life of John Bright, M.P._, by John
 M^cGilchrist, in Cassell's Representative Biographies (1868); _John
 Bright_, by C.A. Vince (1898); _Speeches on Parliamentary Reform by John
 Bright, M.P., revised by Himself_ (1866); _Speeches on Questions of Public

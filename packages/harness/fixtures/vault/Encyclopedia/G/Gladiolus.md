@@ -1,7 +1,7 @@
 # Gladiolus
 
 GLADIOLUS, a genus of monocotyledonous plants, belonging to the natural
-order Iridaceae. They are herbaceous plants growing from a solid
+order [[Iridaceae]]. They are herbaceous plants growing from a solid
 fibrous-coated bulb (or corm), with long narrow plaited leaves and a
 terminal one-sided spike of generally bright-coloured irregular flowers.
 The segments of the limb of the perianth are very unequal, the perianth
@@ -28,7 +28,7 @@ made with _G. tristis_, _G. oppositiflorus_, _G. hirsutus_, _G. alatus_
 and _G. psittacinus_; but it was not till after the production of _G.
 gandavensis_ that the gladiolus really became a general favourite in
 gardens. This fine hybrid was raised in 1837 by M. Bedinghaus, gardener
-to the duc d'Aremberg, at Enghien, crossing _G. psittacinus_ and _G.
+to the duc d'Aremberg, at [[Enghien]], crossing _G. psittacinus_ and _G.
 cardinalis_. There can, however, be little doubt that before the
 _gandavensis_ type had become fairly fixed the services of other species
 were brought into force, and the most likely of these were _G.
@@ -50,23 +50,23 @@ it undoubtedly had that variety as one of its parents. Owing to the
 brilliant scarlet colour of the flowers, this is always a great
 favourite for planting in beds. The _Lemoinei_ forms originated at
 Nancy, in France, by fertilizing _G. purpureo-auratus_ with pollen from
-_G. gandavensis_, the first flower appearing in 1877, and the plants
+_G. gandavensis_, the first [[Flower|flower]] appearing in 1877, and the plants
 being put into commerce in 1880. The _Childsi_ gladioli first appeared
 in 1882, having been raised at Baden-Baden by Herr Max Leichtlin from
 the best forms of _G. gandavensis_ and _G. Saundersi_. The flowers of
 the best varieties are of great size and substance, often measuring 7 to
 9 in. across, while the range of colour is marvellous, with shades of
-grey, purple, scarlet, salmon, crimson, rose, white, pink, yellow, &c.,
+grey, purple, scarlet, salmon, [[Crimson|crimson]], rose, white, pink, yellow, &c.,
 often beautifully mottled and blotched in the throat. The plants are
 vigorous in growth, often reaching a height of 4 to 5 ft. _G.
 nanceianus_ was raised at Nancy by MM. Lemoine and were first put into
 commerce in 1889. Next to the _Childsi_ group they are the most
 beautiful, and have the blood of the best forms of _G. Saundersi_ and
 _G. Lemoinei_ in their veins. The plants are quite as hardy as the
-_gandavensis_ hybrids, and the colours of the flowers are almost as
-brilliant and varied in hue as those of the _Childsi_ section.
+_gandavensis_ hybrids, and the [[Colours|colours]] of the flowers are almost as
+brilliant and varied in [[Hue|hue]] as those of the _Childsi_ section.
 
-  A deep and rather stiff sandy loam is the best soil for the gladiolus,
+  A deep and rather stiff sandy [[Loam|loam]] is the best soil for the gladiolus,
   and this should be trenched up in October and enriched with
   well-decomposed manure, consisting partly of cow dung, the manure
   being disposed altogether below the corms, a layer at the bottom of
@@ -91,7 +91,7 @@ brilliant and varied in hue as those of the _Childsi_ section.
   The seed bed is then pressed down evenly and firmly, watered
   occasionally and kept free from weeds during the summer. In October
   they will have ripened off, and must be taken out of the soil, and
-  stored in paper bags in a dry room secure from frost. They will have
+  stored in paper bags in a dry room secure from [[Frost|frost]]. They will have
   made little bulbs from the size of a hazel nut downwards, according to
   their vigour. In the spring they should be planted like the old bulbs,
   and the larger ones will flower during the season, while the smaller

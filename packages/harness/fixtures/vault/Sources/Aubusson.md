@@ -14,9 +14,9 @@ belonged to a noble French family, and early devoted himself to the
 career of a soldier in the service of the emperor Sigismund. Under the
 archduke Albert of Austria he took part in a campaign against the Turks,
 and on his return to France sided with the Armagnacs against the Swiss,
-greatly distinguishing himself at the battle of St Jacob in 1444. He
-then joined the order of the knights of Rhodes, and successfully
-conducted an expedition against the pirates of the Levant and an embassy
+greatly distinguishing himself at the battle of St [[Jacob]] in 1444. He
+then joined the order of the [[Knight|knights]] of Rhodes, and successfully
+conducted an expedition against the pirates of the [[Levant]] and an [[Embassy|embassy]]
 to Charles VII. He soon rose to the most important offices in the order,
 and in 1476 was elected grand-master. It was the period of the conquests
 of Mahommed II., who, supreme in the East, now began to threaten Europe.
@@ -32,19 +32,19 @@ at Rhodes under a safe-conduct from the grand-master and the council of
 the knights. What followed remains a stain on d'Aubusson's memory.
 Rhodes not being considered secure, Jem with his own consent was sent to
 France. Meanwhile, in spite of the safe-conduct, d'Aubusson accepted an
-annuity of 45,000 ducats from the sultan; in return for which he
+annuity of 45,000 [[Ducat|ducats]] from the sultan; in return for which he
 undertook to guard Jem in such a way as to prevent his design of
 appealing to the Christian powers to aid him against his brother. For
 six years Jem, in spite of frequent efforts to escape, was kept a close
 prisoner in various castles of the Rhodian order in France, until in
-1489 he was handed over to Pope Innocent VIII., who had been vying with
+1489 he was handed over to Pope [[Innocent]] VIII., who had been vying with
 the kings of Hungary and Naples for the possession of so valuable a
 political weapon. D'Aubusson's reward was a cardinal's hat (1489), and
-the power to confer all benefices connected with the order without the
+the power to confer all [[Benefice|benefices]] connected with the order without the
 sanction of the papacy; the order of St John received the wealth of the
-suppressed orders of the Holy Sepulchre and St Lazarus. The remaining
+suppressed orders of the Holy Sepulchre and St [[Lazarus]]. The remaining
 years of his life d'Aubusson spent in the attempt to restore discipline
-and zeal in his order, and to organize a grand international crusade
+and zeal in his order, and to organize a grand [[International|international]] crusade
 against the Turks. The age of the Renaissance, with Alexander Borgia on
 the throne of St Peter, was, however, not favourable to such an
 enterprise; the death of Jem in 1495 had removed the most formidable
@@ -55,9 +55,9 @@ at his failure, which was hardly compensated by his success in
 extirpating Judaism in Rhodes, by expelling all adult Jews and forcibly
 baptizing their children. In the summer of 1503 he died.
 
-  See P. Bouhours, _Hist. de Pierre d'Aubusson_ (Paris, 1676; Hague,
+  See P. Bouhours, _Hist. de Pierre d'Aubusson_ (Paris, 1676; [[Hague]],
   1793; abridged ed. Bruges, 1887); G.E. Streck, _Pierre d'Aubusson,
-  Grossmeister_, &c. (Chemnitz, 1873); J.B. Bury in _Cambridge Mod.
+  Grossmeister_, &c. (Chemnitz, 1873); J.B. [[Bury]] in _Cambridge Mod.
   Hist._ vol. i. p. 85, &c. (for relations with Jem).
 
 ## See also

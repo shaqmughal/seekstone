@@ -14,7 +14,7 @@ portrait painter. He early attracted attention with sketches and
 pictures made in Spain, and a large composition, "The Quartette," now in
 the Metropolitan Museum of Art, New York, was one of the successes of
 the Paris Salon of 1884. Dannat settled in Paris, became an officer of
-the Legion of Honour, and is represented in the Luxembourg.
+the [[Legion]] of Honour, and is represented in the Luxembourg.
 
 ## See also
 

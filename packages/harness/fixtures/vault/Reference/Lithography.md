@@ -49,7 +49,7 @@ Chalk lithography subdivides itself into work in which the black
 predominates, although it may be supported by 5 or 6 shades of modified
 colour--this branch is known as "black and tint" work--and that in which
 the black is only used locally like any other colour. Frequently this
-latter class of work will require a dozen or more colours, while some of
+latter class of work will require a dozen or more [[Colours|colours]], while some of
 the finest examples have had some twenty to thirty stones employed in
 them. Work of this description is known as chromo-lithography. Each
 colour requires a separate stone, and work of the highest quality may
@@ -68,7 +68,7 @@ far greater number of combinations that the three blocks will give.
 Beyond this, the chromo-lithographer has to exercise very great powers
 of colour analysis; but the human mind is quite unable to settle offhand
 the exact proportion of red, blue and yellow necessary to produce some
-particular class say of grey, and this the camera with the aid of colour
+particular class say of grey, and this the [[Camera|camera]] with the aid of colour
 filters does with almost perfect precision.
 
 Notwithstanding these disadvantages, lithography has these strong
@@ -85,20 +85,20 @@ not very enduring.
 
 With regard to the two branches of chalk lithography, the firms that
 maintained the English supremacy for black and tint work in the early
-days were Hulemandel, Day and Haghe and Maclure, while the best
+days were Hulemandel, Day and Haghe and [[Maclure]], while the best
 chromo-lithographic work in the same period was done by Vincent Brooks,
 the brothers Hanhart, Thomas Kell and F. Kell. In reference to the
 personal work of professed lithographers during the same period, the
-names of Louis Haghe, J. D. Harding, J. Needham, C. Baugniet, L. Ghemar,
-William Simpson, R. J. Lane, J. H. Lynch, A. Maclure and Rimanozcy stand
+names of Louis Haghe, J. D. [[Harding]], J. Needham, C. Baugniet, L. Ghemar,
+William Simpson, R. J. [[Lane]], J. H. [[Lynch]], A. Maclure and Rimanozcy stand
 for black and tint work; while in chromo-lithography J. M. Carrick, C.
-Risdon, William Bunney, W. Long, Samuel Hodson, Edwin Buckman and J.
-Lewis have been conspicuous among those who have maintained the standard
-of their craft. In the foregoing list will be recognized the names of
+Risdon, William Bunney, W. Long, Samuel [[Hodson]], Edwin Buckman and J.
+[[Lewis]] have been conspicuous among those who have maintained the standard
+of their [[Craft|craft]]. In the foregoing list will be recognized the names of
 several who have had admirable works on the walls of the Royal Academy
 and other exhibitions; Mr Lane, who exhibited lithographs from 1824 to
-1872, was for many years the doyen of lithographers, and the only one of
-their number to attain academic rank, but Lynch and John Cardwell Bacon
+1872, was for many years the [[Doyen|doyen]] of lithographers, and the only one of
+their number to attain academic rank, but Lynch and John [[Cardwell]] Bacon
 were his pupils, and Bacon's son, the painter John H. F. Bacon, was
 elected to the Royal Academy in 1903. In the first decade of the 20th
 century the number of firms doing high-class work, and the artists who
@@ -112,22 +112,22 @@ it is as artistic as the methods just described. Retransferring is the
 process of pulling impressions from the original stones with a view to
 making up a large sheet of one or more small subjects, or where it is
 desired to print a very large number without deterioration of the
-original or matrix stone. The higher class work in this direction has
+original or [[Matrix|matrix]] stone. The higher class work in this direction has
 been done in France, Germany and the United States, where for many years
 superiority has been shown in regard to the excellence and rapidity of
-retransferring. To this cause may be attributed the fact that the box
-tops and Christmas cards on the English market were so largely done
+retransferring. To this cause may be attributed the fact that the [[Box|box]]
+tops and [[Christmas]] [[Cards|cards]] on the English market were so largely done
 abroad until quite recent times. The work of producing even a small face
 in the finest hand stipple is a lengthy and tedious affair, and the
 English craftsman has seldom shown the patience necessary for this work;
-but since the American invention known as Ben Day's shading medium was
+but since the American invention known as [[Ben]] Day's shading medium was
 introduced into England the trade has largely taken it up, and thereby
 much of the tedium has been avoided, so that it has been found possible
 by its means to introduce a freedom into stipple work that had not
 before been found possible, and a very much better class of work has
 since been produced in this department.
 
-About the year 1868 grained paper was invented by Maclure, Macdonald &
+About the year 1868 grained paper was invented by Maclure, [[Macdonald]] &
 Co. This method consists in impressing on ordinary Scotch transfer or
 other suitable paper a grain closely allied to that of the lithographic
 stone. It appears to have been rather an improvement than a new
@@ -137,7 +137,7 @@ drawing that had been placed thereon; but still from this to the
 beautifully prepared paper that was placed on the market by the firm of
 which the late Andrew Maclure was the head was a great advance, and
 although the first use was by the ordinary craftsman it was not long
-before artists of eminence saw that a new and convenient mode of
+before artists of [[Eminence|eminence]] saw that a new and convenient mode of
 expression was opened up to them.
 
 On the first introduction of lithography the artists of every nation
@@ -149,10 +149,10 @@ perfected, by which they could make their drawings in the comfort of
 their studios without reversing, that any serious revival took place.
 Although excellent work on grained paper had been done by Andrew
 Maclure, Rimanozcy, John Cardwell Bacon, Rudofsky and other craftsmen,
-the credit for its furtherance among artists must be given to Thomas Way
+the [[Credit|credit]] for its furtherance among artists must be given to Thomas Way
 and his son T. R. Way, who did much valuable pioneer work in this
 direction. The adhesion of such artists of eminence as Whistler, Legros,
-Frank Short, Charles Shannon, Fantin Latour, William Strang, Will
+[[Frank]] Short, Charles Shannon, Fantin Latour, William Strang, Will
 Rothenstein, Herbert Railton and Joseph Pennell, did not a little to aid
 lithography in resisting the encroachments of other methods into what
 may still be considered its sphere. As a means of reproducing effects
@@ -178,14 +178,14 @@ that could have been attained from the usual screen or half-toned
 blocks.
 
 Grained paper is much used in the ordinary lithographic studio for work
-such as the hill shading of maps that can be done without much working
+such as the hill shading of [[Map|maps]] that can be done without much working
 up, but the velvety effects that in the hands of Louis Haghe and his
 contemporaries were so conspicuous, cannot be secured by this method.
 The effects referred to were obtained by much patient work of a
 "tinter," who practically laid a ground on which the more experienced
 and artistic craftsman did his work either by scraping or accentuation.
 Where fine rich blacks are needed, artists will do well to read the
-notes on the "aquatint" and "wash" methods described by Senefelder in
+notes on the "[[Aquatint|aquatint]]" and "wash" methods described by Senefelder in
 his well-known treatise, and afterwards practised with great skill by
 Hulemandel.
 
@@ -219,7 +219,7 @@ text-books on the subject.
   motives, as nearly exhausted; but a visit in 1906 revealed that the
   output--considerable as it had been during a period little short of a
   century--was very unimportant when compared to the great mass of
-  carbonaceous limestone existing in the neighbourhood. The strong point
+  carbonaceous [[Limestone|limestone]] existing in the neighbourhood. The strong point
   in favour of this source of supply, in addition to its unrivalled
   quality, is the evenness of its stratification, and the fact that
   after the removal of the surface deposits, which are very thin, the
@@ -254,7 +254,7 @@ text-books on the subject.
   "muller" and acid; now a bath of acid is more generally used, and the
   operation is known as "passing," while the plates are quite thin,
   which renders them suitable for bending round the cylinders of rotary
-  machines.
+  [[Machine|machines]].
 
   So far we have been dealing with plain zinc, but variations are
   caused, either by the oxidization of the surface or by coating the
@@ -287,10 +287,10 @@ text-books on the subject.
   Many appliances (some very expensive) have been devised for doing the
   principal part of this work by machine--none more effective than those
   methods by which a disk of about 12 in. is kept revolving on a rod
-  attached to the ceiling, guided by hand over all parts of the stone;
+  attached to the [[Ceiling|ceiling]], guided by hand over all parts of the stone;
   but for large surfaces the ceiling needs to be rather high so as to
   allow of a long expanding rod reaching the surface at a moderate
-  angle. When this machine is fitted with friction disk driving, very
+  angle. When this machine is fitted with [[Friction|friction]] disk driving, very
   wide variations of speed are possible, and the machine can be driven
   so slowly and evenly as to secure a very fair (but not first class)
   grain, in addition to speedy rubbing out, which is the chief aim of
@@ -299,7 +299,7 @@ text-books on the subject.
   _Preparing a Subject in Chalk or Chalk and Tints._--This branch of
   work is much less in demand than formerly. A grey stone having been
   selected and finely grained with sand or powdered glass passed through
-  a sieve of 80 to 120 meshes to the lineal inch, and the artist having
+  a sieve of 80 to 120 meshes to the lineal [[Inch|inch]], and the artist having
   made his tracing, this tracing is reversed upon the stone with the
   interposition of a piece of paper coated with red chalk, and the chalk
   side towards the surface; the lines on the tracing are then gone over
@@ -308,7 +308,7 @@ text-books on the subject.
   Lemercier chalks of at least two grades, hard and soft: the pointing
   is a matter that requires experience, and is done by the worker
   drawing a sharp pen-knife towards him in a slicing manner as though
-  trying to put a point upon a piece of cheese. Care should be taken
+  trying to put a point upon a piece of [[Cheese|cheese]]. Care should be taken
   that the falling pieces are gathered into a box, or they may do
   irreparable mischief to the work. The work of outlining is done with
   No. 1 or hard chalk, and until experience is gained it will be well to
@@ -318,13 +318,13 @@ text-books on the subject.
   (Vanhymbeck's or Lemercier's are two good makes) needs careful
   preparation, the method being to warm a saucer and rub the ink dry
   upon it, then add a little distilled water and incorporate with the
-  finger. It is of great importance not to use any ink left over for the
+  [[Finger|finger]]. It is of great importance not to use any ink left over for the
   next day, but always to have a fresh daily supply.
 
   When the drawing is thus completed, it will require what is termed
   etching, by which the parts intended to receive the printing ink, and
   already protected by an acid-resisting grease, will be left above the
-  unprotected surface. The acid and gum mixture varies in accordance
+  unprotected surface. The acid and [[Gum|gum]] mixture varies in accordance
   with the quality of the work and the character of the stone. A
   patiently executed specimen will, for instance, stand more etching
   than a hastily drawn one; while a grey stone will require more of the
@@ -361,7 +361,7 @@ text-books on the subject.
   of work there are generally only two,--one warm or sandy shade and the
   other a quiet blue--and these, with the black and the neutral colour
   secured by the superposition of the two shades, give an excellent
-  result, of which Haghe's sketches in Belgium may be taken as a leading
+  result, of which Haghe's sketches in [[Belgium]] may be taken as a leading
   example.
 
   In making such subjects suitable for present-day printing in the
@@ -378,7 +378,7 @@ text-books on the subject.
   will be much the same as those suggested for the black and tint work,
   but the preliminary tracing will be done in lithographic ink on
   tracing transfer paper or scratched on gelatine, the lines being
-  subsequently filled in with transfer ink, and will be used as a "key,"
+  subsequently filled in with transfer ink, and will be used as a "[[Key|key]],"
   a guide stone that will not be printed; and the number of stones
   necessary will probably be much more numerous. The initial point will
   be to consider if the work is to have the edition printed from it, or
@@ -405,7 +405,7 @@ text-books on the subject.
   impressions of each colour on thoroughly white paper, and beyond this
   in important work there should be a progressive colour pattern that
   will show how the work looked when two, three or more colours were on,
-  for this may at the finish be invaluable to show where error has crept
+  for this may at the finish be invaluable to show where [[Error|error]] has crept
   in, and is in any event an immense aid to the machine minder.
 
   In regard to paper, a description made of rag or rag and esparto is
@@ -421,14 +421,14 @@ text-books on the subject.
   the period mentioned, distinguished examples of chromo-lithography are
   "Blue Lights," after Turner, by Carrick; "Spanish Peasants" and the
   Lumley portrait of Shakespeare, by Risdon; "Queen Victoria receiving
-  the Guards," by W. Bunney, after John Gilbert; and the series of
+  the [[Guards]]," by W. Bunney, after John Gilbert; and the series of
   chromos after John Leech, produced under the general direction of
   Vincent Brooks. A small proportion only of the Arundel Society's
   prints were executed in England, but many reproductions of
   water-colours after Birket Foster, Richardson, Wainwright and others
   were executed by Samuel Hodson, James Lewis and others. Perhaps the
   most consistently good work of modern times has been the reproduction
-  of Pellegrini's and Leslie Ward's drawings for _Vanity Fair_, which
+  of Pellegrini's and [[Leslie]] Ward's drawings for _Vanity Fair_, which
   from 1870 to 1906 were with very few exceptions executed by the firm
   of Vincent Brooks, Day & Son.
 
@@ -443,7 +443,7 @@ text-books on the subject.
   brought to blood-heat by being gradually heated in an iron cupboard
   prepared with the necessary apparatus. The methods that sometimes
   prevail of pouring boiling water over the stone, heating with the
-  flame of an ordinary plumber's lamp, or even heating the surface in
+  flame of an ordinary plumber's [[Lamp|lamp]], or even heating the surface in
   front of a fire, are ineffective substitutes, for the surface may thus
   become unduly hot and spread the work, and there is no increased
   tendency for the chalk to enter into the stone and thus give the work
@@ -483,7 +483,7 @@ text-books on the subject.
   the tints should then be proceeded with in the usual way. Another
   method of transfer work is to pull impressions from copper or steel
   plates in transfer ink; it is in such way that simple etchings like
-  those of Cruikshank, Phiz and others are produced, and nearly all
+  those of [[Cruikshank]], Phiz and others are produced, and nearly all
   commercial work such as maps, bill heads, &c., are prepared in the
   same manner.
 
@@ -491,9 +491,9 @@ text-books on the subject.
   writing transfer paper, such as circulars, law writing for abstracts,
   specifications and plans.
 
-  _Machinery._--The chief items are the hand presses and the machines,
+  _Machinery._--The chief [[Item|items]] are the hand presses and the machines,
   whether flat bed or rotary, the principal places of manufacture being
-  Leeds, Otley and Edinburgh. Stimulated by American competition, the
+  [[Leeds]], Otley and Edinburgh. Stimulated by American competition, the
   standard of excellence in the United Kingdom has been very
   considerably raised of late years. The rotary machines have only been
   possible since the more frequent use of aluminium and zinc, but these
@@ -543,7 +543,7 @@ text-books on the subject.
   search of more detailed information: _A Complete Course of
   Lithography_, by Alois Senefelder (R. Ackermann, London, 1819); _The
   Grammar of Lithography_, by W. D. Richmond (13th edition, E. Menken,
-  London); _Handbook of Lithography_, by David Cumming (London, A. & C.
+  London); _Handbook of Lithography_, by David [[Cumming]] (London, A. & C.
   Black). The first of these will only be found in libraries of
   importance; the others are present-day text-books.     (F. V. B.)
 

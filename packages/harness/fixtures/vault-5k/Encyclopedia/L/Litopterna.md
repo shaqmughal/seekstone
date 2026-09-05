@@ -8,9 +8,9 @@ digitigrade animals, recalling in general build the llamas and horses;
 they have small brains, and a facet on the calcaneum for the fibula. The
 cheek-dentition approximates more or less to the perissodactyle type.
 Both the terminal faces of the cervical vertebrae are flat, the femur
-carries a third trochanter, the bones of both the carpus and tarsus are
+carries a third trochanter, the [[Bone|bones]] of both the carpus and tarsus are
 arranged in linear series, and the number of toes, although commonly
-three, varies between one and five, the third or middle digit being
+three, varies between one and five, the third or middle [[Digit|digit]] being
 invariably the largest.
 
 Of the two families, the first is the _Proterotheriidae_, which
@@ -25,7 +25,7 @@ specialized than the second family.
   formula is i.½, c.(0/1), p.(4/5), m.(3/8), and the feet are very like
   those of _Hipparion_. The cervical vertebrae are of normal form, the
   orbit (as in the second family) is encircled by bone, the last molar
-  has a third lobe, the single pair of upper incisors are somewhat
+  has a third [[Lobe|lobe]], the single pair of upper incisors are somewhat
   elongated, and have a gap between and behind them, while the outer
   lower incisors are larger than the inner pair, the canines being
   small. The skull has a short muzzle, with elongated nasals. Remains of
@@ -63,7 +63,7 @@ the canine, which may be double-rooted, is like the earlier premolars.
 The radius and ulna, like the tibia and fibula, are distinct, and the
 metapodials rudimentary. On the other hand, in _Macrauchenia_, which was
 a much larger llama-like animal, the skull is elongated and narrow, with
-rudimentary nasals, and the aperture of the nose placed nearly on the
+rudimentary nasals, and the [[Aperture|aperture]] of the nose placed nearly on the
 line of the eyes and directed upwards, the muzzle not improbably
 terminating in a short trunk. Deep pits on the forehead probably served
 for the attachment of special muscles connected with the latter. Very
@@ -105,7 +105,7 @@ i.(1/3), c.(0/1), p.(2/1), m.(3/3).
   are bifid, and very like those of Edentata. Indeed, this type of foot
   shows many edentate resemblances. The astragalus is square and
   flattened, articulating directly with the navicular, although not with
-  the cuboid, and having a slightly convex facet for the tibia. From the
+  the cuboid, and having a slightly [[Convex|convex]] facet for the tibia. From the
   structure of the above-mentioned type of foot, which is stated to have
   been found in association with the skull, it has been suggested that
   _Homalodontotherium_ should be placed in the _Ancylopoda_ (q.v.), but,

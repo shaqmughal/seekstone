@@ -16,7 +16,7 @@ fact that this place was the residence of the first Spanish kings after
 the spread of the Moors over the Peninsula. Here early in the 8th
 century lived King Pelayo, who started the Christian reconquest of
 Spain. His historic cave of Covadonga is only 8 m. distant (see
-ASTURIAS). The church of the Assumption, rebuilt in the 19th century, is
+ASTURIAS). The church of the [[Assumption]], rebuilt in the 19th century, is
 on the model and site of an older church of the middle ages. Near Cangas
 are ruins and bridges of the Roman period.
 

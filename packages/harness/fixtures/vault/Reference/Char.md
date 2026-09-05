@@ -26,7 +26,7 @@ Lough Melvin, Ireland, being the most distinct. _S. alpinus_ varies much
 in size according to the waters it inhabits, remaining dwarfed in some
 English lakes, and growing to 2 ft. or more in other localities. In
 other parts of Europe, also, various local forms have been
-distinguished, such as the "omble chevalier" of the lakes of Switzerland
+distinguished, such as the "omble [[Chevalier|chevalier]]" of the lakes of Switzerland
 and Savoy (_S. umbla_), the "Sabling" of the lakes of South Germany and
 Austria (_S. salvelinus_), the "kullmund" of Norway (_S. carbonarius_),
 &c., while the North American _S. parkei, alipes, stagnalis, arcturus,
@@ -35,10 +35,10 @@ Taken in this wide sense, _S. alpinus_ has a very extensive
 distribution. In central Europe, in the British islands and in the
 greater part of Scandinavia it is confined to mountain lakes, but
 farther to the north, in both the Old World and the New, it lives in the
-sea and ascends rivers to spawn. In Lapland, Iceland, Greenland and
-other parts of the arctic regions, it ranks among the commonest fishes.
+sea and ascends rivers to spawn. In Lapland, [[Iceland]], Greenland and
+other parts of the [[Arctic|arctic]] regions, it ranks among the commonest fishes.
 The extreme northern point at which char have been obtained is 82 deg.
-34' N. (Victoria lake and Floeberg Beach, Arctic America). It reaches an
+34' N. (Victoria lake and Floeberg [[Beach]], Arctic America). It reaches an
 altitude of 2600 ft. in the Alps and 6000 ft. in the Carpathians.
 
 The American brook char, _S. fontinalis_, is a close ally of _S.
@@ -46,7 +46,7 @@ alpinus_, differing from it in having fewer and shorter gill-rakers, a
 rather stouter body, the back more or less barred or marbled with dark
 olive or black, and the dorsal and caudal fins mottled or barred with
 black. Many local varieties of colour have been distinguished. Sea-run
-individuals are often nearly plain bright silvery. It is a small
+individuals are often nearly plain [[Bright|bright]] silvery. It is a small
 species, growing to about 18 in. abundant in all clear, cold streams of
 North America, east of the Mississippi, northward to Labrador. The fish
 has been introduced into other parts of the United States, and also into

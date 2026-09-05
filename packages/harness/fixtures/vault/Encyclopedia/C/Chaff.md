@@ -7,7 +7,7 @@ topic: literature-studies
 # Chaff
 
 CHAFF (from the A.S. _ceaf_, allied to the O. High Ger. _cheva_, a husk
-or pod), the husks left after threshing grain, and also hay and straw
+or pod), the husks left after threshing grain, and also [[Hay|hay]] and straw
 chopped fine as food for cattle; hence, figuratively, the refuse or
 worthless part of anything. The colloquial use of the word, to chaff, in
 the sense of to banter or to make fun of a person, may be derived from

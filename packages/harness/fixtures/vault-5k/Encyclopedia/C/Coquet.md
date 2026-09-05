@@ -9,7 +9,7 @@ id: 42-1694
 # Coquet
 
 COQUET (pronounced Cócket), a river of Northumberland, draining a
-beautiful valley about 40 m. in length. It rises in the Cheviot Hills.
+beautiful valley about 40 m. in length. It rises in the [[Cheviot Hills]].
 Following a course generally easterly, but greatly winding, it passes
 Harbottle, near which relics of the Stone Age are seen, and Holystone,
 where it is recorded that Bishop Paulinus baptized a great body of

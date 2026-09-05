@@ -24,7 +24,7 @@ Church may be gathered from its Book of Common Prayer (see PRAYER, BOOK
 OF COMMON) as finally revised in 1661, with the form of ordaining and
 consecrating bishops, priests and deacons, with the exception of the
 services for certain days which were abrogated in 1859; from the XXXIX
-Articles (see CREEDS), published with royal authority in 1571; and from
+Articles (see [[Creeds|CREEDS]]), published with royal authority in 1571; and from
 the First and Second Books of Homilies of 1549 and 1562 respectively,
 which are declared in Article XXXV. to contain sound doctrine.
 
@@ -34,25 +34,25 @@ which are declared in Article XXXV. to contain sound doctrine.
   The British church.
 
 _Precursors._--Christianity reached Britain during the 3rd century, and
-perhaps earlier, probably from Gaul. An early tradition records the
+perhaps earlier, probably from [[Gaul]]. An early tradition records the
 death of a martyr Alban at Verulamium, the present St Albans. A fully
 grown British Church existed in the 4th century: bishops of London, York
-and Lincoln attended the council of Arles in 314; the church assented to
+and [[Lincoln]] attended the council of [[Arles]] in 314; the church assented to
 the council of Nicaea in 325, and some of its bishops were present at
 the council of Rimini in 359. The church held the Catholic faith.
 Britons made pilgrimages, to Rome and to Palestine, and some joined the
-monks who gathered round St Martin, bishop of Tours. Among these was
+monks who gathered round St [[Martin]], bishop of Tours. Among these was
 Ninian, who preached to the southern Picts, and about 400 built a church
 of stone on Wigton Bay; its whiteness struck the people and their name
 for it is commemorated in the modern name Whithorn. From northern
 Britain, St Patrick (see PATRICK, ST) went to accomplish his work as the
-apostle of Ireland. Early in the 5th century Britain was infected by the
+[[Apostle|apostle]] of Ireland. Early in the 5th century Britain was infected by the
 heresy of Pelagius, himself a Briton by birth, but in 429 Germanus,
-bishop of Auxerre, and Lupus, bishop of Troyes, recalled the church to
+bishop of Auxerre, and [[Lupus]], bishop of Troyes, recalled the church to
 orthodoxy and, according to tradition, led their converts to victory,
 the "Hallelujah victory," over the Picts and Scots. When the Britons
 were hard pressed by Saxon invaders large bodies of them found shelter
-in western Armorica, in a lesser Britain, which gave its name to
+in western [[Armorica]], in a lesser Britain, which gave its name to
 Brittany. A British Church was founded there, and bishops, scholars and
 recluses of either Britain seem constantly to have visited the other.
 The Saxon invasion cut off Britain from communication with Rome; and the
@@ -61,7 +61,7 @@ Church, differences gradually arose between them. The organization of
 the British Church was monastic, its bishops being members, usually
 abbots, of monasteries, and not strictly diocesan, for the monasteries
 to which the clergy were attached had a tribal character. The monastic
-communities were large, Bangor numbered 2000 monks. From Gildas, a
+communities were large, [[Bangor]] numbered 2000 monks. From Gildas, a
 British monk, who wrote about 550, we gather that the bishops were rich
 and powerful and claimed apostolical succession; that though governed by
 synods the church lacked discipline; that simony was rife, and that
@@ -74,14 +74,14 @@ settlements or schools were many and large, and were the abodes of
 learning. Bishops dwelt in them and were reverenced for their office,
 but each was subject to the direction of the abbot and convent. In 565
 (?) St Columba, the founder and head of several Scotic monasteries, left
-Ireland and founded a monastery in Hii or Iona, which afforded gospel
+Ireland and founded a monastery in Hii or Iona, which afforded [[Gospel|gospel]]
 teaching to the Scots of Dalriada and the northern Picts, and later did
 a great work in evangelizing many of the Teutonic conquerors of Britain.
 By 602 the British Church, in common with the Irish Scots, followed
 practices which differed from the Roman use as it then was; it kept
-Easter at a different date; its clergy wore a different tonsure, and
+[[Easter]] at a different date; its clergy wore a different tonsure, and
 there was some defect in its baptismal rite. The conquerors of
-Britain--Saxons, Angles and Jutes--were heathens; the Britons gradually
+Britain--Saxons, Angles and Jutes--were [[Heathen|heathens]]; the Britons gradually
 retreated before them to Wales, and to western and northern districts,
 or dwelt among them either as slaves or as outlaws hiding in swamps and
 forests, and they made no attempts to evangelize the conquering race.
@@ -105,11 +105,11 @@ but evidently made no effort to spread the faith. Augustine and his band
 landed probably at Ebbsfleet in 597. They were well received by
 Æthelberht, who was converted and baptized. On the 16th of November
 Augustine was consecrated by the archbishop of Arles to be the
-archbishop of the English, and by Christmas had baptized 10,000 Kentish
+archbishop of the English, and by [[Christmas]] had baptized 10,000 Kentish
 men. Thus the fathers of the English Church were Pope Gregory and St
 Augustine. Augustine restored a church of the Roman times at Canterbury
 to be the church of his see. The mission was reinforced from Rome; and
-Gregory sent directions for the rule of the infant church. There were to
+Gregory sent directions for the rule of the [[Infant|infant]] church. There were to
 be two archbishops, at London and York; London, however, was not fully
 Christianized for some years, and the primatial see remained at
 Canterbury. Augustine held two conferences with British bishops; he bade
@@ -122,13 +122,13 @@ for Rochester, and for London for the East Saxons. After Augustine and
 East Saxons apostatized. In 627 Edwin, king of Northumbria, who had
 married a daughter of Æthelberht, was converted and baptized with his
 nobles by Paulinus, who became the first bishop of York. As Edwin's
-kingdom extended from the Humber to the Forth and included the Trent
+kingdom extended from the [[Humber]] to the Forth and included the Trent
 valley, while he exercised superiority over all the other English
-kingdoms, except Kent, his conversion promised well for the church, but
+kingdoms, except Kent, his [[Conversion|conversion]] promised well for the church, but
 he was slain and his kingdom overrun by Penda, the heathen king of
 Mercia, the central part of England. Penda's victories endangered the
 cause of Christianity. The Roman mission was dying out. Kent and East
-Anglia, which was evangelized by Felix, a Burgundian bishop sent from
+Anglia, which was evangelized by [[Felix]], a Burgundian bishop sent from
 Canterbury, were settled in the faith. Though Bernicia, the northern
 part of Northumbria, was little affected by the gospel, and after
 Edwin's death heathenism became dominant in his kingdom, Christianity
@@ -141,11 +141,11 @@ The work of the Romans was taken up by Scotic missionaries. Oswald,
 under whom the Northumbrian power revived, had lived as an exile among
 the Scots, and asked them for a bishop to teach his people. Aidan was
 sent to him by the monks of Iona in 635, and fixed his see in
-Lindisfarne, or Holy Island, where he founded a monastery. Saintly,
+Lindisfarne, or [[Holy Island]], where he founded a monastery. Saintly,
 zealous and supported by Oswald's influence, he brought Northumbria
 generally to accept the gospel. The conversion of the Middle Angles and
 Mercians, and the reconversion of the East Saxons, were also achieved by
-Scots or by disciples of the Scotic mission. After Aidan's death in 651
+Scots or by [[Disciple|disciples]] of the Scotic mission. After Aidan's death in 651
 the differences between the Roman and Scotic usages, and specially that
 concerning the date of Easter, led to bitter feelings, were inconvenient
 in practice, and must have hindered the church in its warfare against
@@ -190,7 +190,7 @@ a part of his former diocese. Theodore also gave the church learning by
 establishing a school at Canterbury, where many gained knowledge of the
 Scriptures, of Latin and Greek, and other religious and secular
 subjects. In the north learning was promoted by Benedict Biscop in the
-sister monasteries which he founded at Wearmouth and Jarrow. There Bede
+sister monasteries which he founded at Wearmouth and Jarrow. There [[Bede]]
 (q.v.) received the learning which he imparted to others. In the year of
 Bede's death, 735, one of his disciples, Ecgbert, bishop of York, became
 the first archbishop of York, Gregory III. giving him the _pallium_, a
@@ -202,14 +202,14 @@ church, following the example of the Irish Scots, showed much missionary
 zeal, and English missionaries founded an organized church in Frisia and
 laboured on the lower Rhine; two who attempted to preach in the old
 Saxon land were martyred. Most famous of all, Winfrid, or St Boniface,
-the apostle of Germany, preached to the Frisians, Hessians and
+the apostle of Germany, preached to the [[Frisians]], Hessians and
 Thuringians, founded bishoprics and monasteries, became the first
-archbishop of Mainz, and in 754 was martyred in Frisia. He had many
+archbishop of [[Mainz]], and in 754 was martyred in Frisia. He had many
 English helpers, some became bishops, and some were ladies, as Thecla,
-abbess of Kitzingen, and Lioba, abbess of Bischofsheim. After his death,
+abbess of [[Kitzingen]], and Lioba, abbess of Bischofsheim. After his death,
 Willehad laboured in Frisia, and later, at the bidding of Charlemagne,
 among the Saxons, and became the first bishop of Bremen. Religion,
-learning, arts, such as transcription and illumination, flourished in
+learning, arts, such as transcription and [[Illumination|illumination]], flourished in
 English monasteries. Yet heathen customs and beliefs lingered on among
 the people, and in Bede's time there were many pseudo-monasteries where
 men and women made monasticism a cloak for idleness and vice. In the
@@ -235,18 +235,18 @@ founded. His pilgrimage was probably undertaken in the hope of averting
 the attacks of the pagan Danes. Their invasions fell heavily on the
 church; priests were slaughtered and churches sacked and burnt. Learning
 disappeared in Northumbria, and things were little better in the south.
-Bishops fought and fell in battle, the clergy lived as laymen, the
+Bishops fought and fell in battle, the clergy lived as [[Laymen|laymen]], the
 monasteries were held by married canons, heathen superstitions and
 immorality prevailed among the laity. Besides bringing the Danish
 settlers in East Anglia to profess Christianity in 878, Alfred set
 himself to improve the religious and intellectual condition of his own
-people (see ALFRED). The gradual reconquest of middle and northern
+people (see ALFRED). The [[Gradual|gradual]] reconquest of middle and northern
 England by his successors was accompanied by the conversion of the
 Danish population. A revival of religion was effected by churchmen
-inspired by the reformed monasticism of France and Flanders, by Odo,
+inspired by the reformed monasticism of France and [[Flanders]], by Odo,
 archbishop of Canterbury, Oswald, archbishop of York, and Dunstan (see
 DUNSTAN), who introduced from abroad the strict life of the new
-Benedictinism. King Edgar promoted the monastic reform, and by his
+Benedictinism. King [[Edgar]] promoted the monastic reform, and by his
 authority Bishop Æthelwold of Winchester turned canons out of the
 monasteries and put monks in their place. Dunstan sought to reform the
 church by ecclesiastical and secular legislation, forbidding immorality
@@ -258,7 +258,7 @@ lay with the monks' party, and in many cathedral churches the chapters
 remained monastic. The renewed energy of the church was manifested by
 councils, canonical legislation and books of sermons. In the homilies of
 Abbot Ælfric, written for Archbishop Sigeric, stress is laid on the
-purely spiritual presence of Christ in the Eucharist, but his words do
+purely spiritual presence of Christ in the [[Eucharist]], but his words do
 not indicate, as some have believed, that the English Church was not in
 accord with Rome. The ecclesiastical revival was short-lived. Renewed
 Danish invasions, in the course of which Archbishop Alphege was martyred
@@ -274,7 +274,7 @@ banishment of Robert, the Norman archbishop of Canterbury. An Englishman
 Stigand received his see, but was excommunicated at Rome, and was
 regarded even in England as schismatical. When William of Normandy
 planned his invasion of England, Alexander II., by the advice of
-Hildebrand, afterwards Gregory VII., moved doubtless by this schism and
+[[Hildebrand]], afterwards Gregory VII., moved doubtless by this schism and
 by the desire to bring the English Church under the influence of the
 Cluniac revival and into closer relation with Rome, gave the duke a
 consecrated banner, and the Norman invasion had something of the
@@ -288,7 +288,7 @@ English bishops were political partisans, the clergy were married, and
 discipline and asceticism, then the recognized condition of holiness,
 were extinct. The Conqueror's relations with Rome ensured a reform; for
 the papacy was instinct with the Cluniac spirit. In 1070 papal legates
-were received and held a council by which Stigand was deposed. Lanfranc,
+were received and held a council by which Stigand was deposed. [[Lanfranc]],
 abbot of Bec, was appointed archbishop of Canterbury and worked
 harmoniously with the king in bringing the English Church up to the
 level of the church in Normandy. Many native bishops and abbots were
@@ -296,20 +296,20 @@ deposed, and the Norman prelates who succeeded them were generally of
 good character, strict disciplinarians, and men of grander ideas. A
 council of 1075 decreed the removal of bishops' sees from villages to
 towns, as on the continent; the see of Sherborne, for example, was
-removed to Old Sarum, and that of Selsey to Chichester, and many
+removed to Old Sarum, and that of Selsey to [[Chichester]], and many
 churches statelier than of old were built in the Norman style which the
 Confessor had already adopted for his church at Westminster. In another
 council priests and deacons were thenceforward forbidden to marry.
 William and Lanfranc also worked on Hildebrandine lines in separating
 ecclesiastical from civil administration. Ecclesiastical affairs were
 regulated in church councils held at the same time as the king's
-councils. Bishops and archdeacons were no longer to exercise their
+councils. Bishops and [[Archdeacon|archdeacons]] were no longer to exercise their
 spiritual jurisdiction in secular courts, as had been the custom, but in
 ecclesiastical courts and according to canon law. The king, however,
 ruled church as well as state; Gregory granted him control over
 episcopal elections, he invested bishops with the crozier and they held
 their temporalities of him, and he allowed no councils to meet and no
-business to be done without his licence. Gregory claimed homage from
+business to be done without his licence. Gregory claimed [[Homage|homage]] from
 him; but while the king promised the payment of Peter's pence and such
 obedience as his English predecessors had rendered, he refused homage;
 he allowed no papal letters to enter the kingdom without his leave, and
@@ -327,22 +327,22 @@ when they disagreed. William Rufus tried to feudalize the church, to
 bring its officers and lands under feudal law; he kept bishoprics and
 abbacies vacant and confiscated their revenues. He quarrelled with
 Anselm (q.v.) who succeeded Lanfranc. Anselm while at Rome heard the
-investiture of prelates by laymen denounced, and he maintained the papal
-decree against Henry I. Bishops were vassals of the king, holding lands
+[[Investiture|investiture]] of prelates by laymen denounced, and he maintained the papal
+[[Decree|decree]] against Henry I. Bishops were vassals of the king, holding lands
 of him, as well as officers of the church. How were they to be
 appointed? Who should invest them with the symbols of their office? To
 whom was their homage due? (see INVESTITURE). These questions which
-agitated western Europe were settled as regards England by a compromise:
+agitated western Europe were settled as regards England by a [[Compromise|compromise]]:
 Henry surrendered investiture and kept the right to homage. The
 substantial gain lay with the crown, for, while elections were
 theoretically free, the king retained his power over them. Though Henry
 in some degree checked the exercise of papal authority in England,
 appeals to Rome without his sanction were frequent towards the end of
-his reign. Stephen obtained the recognition of his title from Innocent
+his reign. Stephen obtained the recognition of his title from [[Innocent]]
 II., and was upheld by the church until he violently attacked three
 bishops who had been Henry's ministers. The clergy then transferred
 their allegiance to Matilda. His later quarrel with the papacy, then
-under the influence of St Bernard, added to his embarrassments and
+under the influence of St [[Bernard]], added to his embarrassments and
 strengthened the Angevin cause.
 
 
@@ -357,11 +357,11 @@ punishment. Henry II., finding ecclesiastical privileges an obstacle to
 administrative reform, demanded that the bishops should agree to observe
 the ancient customs of the realm. These customs were, he asserted,
 expressed in certain constitutions to which he required their assent at
-a council at Clarendon in 1164. In spirit they generally maintained the
+a council at [[Clarendon]] in 1164. In spirit they generally maintained the
 rights of the crown as they existed under the Conqueror. One provided
 that clerks convicted of temporal crime in a spiritual court and
 degraded should be sentenced by a lay court and punished as laymen.
-Archbishop Becket (see BECKET) agreed, repented and refused his assent.
+Archbishop [[Becket]] (see BECKET) agreed, repented and refused his assent.
 The king tried to ruin him by unjust demands; he appealed to Rome and
 fled to France. A long quarrel ensued, and in 1170 Henry was forced to
 be reconciled to Becket. The archbishop's murder consequent on the
@@ -390,13 +390,13 @@ kingdom of the Roman see, and promised a yearly tribute for England and
 Ireland. Finally he surrendered his crown to a legate and received it
 back from him. The banished clergy returned and an agreement was made as
 to their losses. Langton guided the barons in their demands on the king
-which were expressed in Magna Carta. The first clause provided, as
+which were expressed in [[Magna Carta]]. The first clause provided, as
 charters of Henry I. and Stephen had already provided, that the English
 Church should be "free," adding that it should have freedom of election,
 which John had promised in 1214. As John's suzerain, Innocent annulled
 the charter, suspended Langton, and excommunicated the barons in arms
-against the king. On John's death, Gualo, legate of Honorius III., with
-the help of the earl marshal, secured the throne for Henry III., and he
+against the king. On John's death, [[Gualo]], legate of [[Honorius]] III., with
+the help of the [[Earl Marshal|earl marshal]], secured the throne for Henry III., and he
 and his successor Pandulf, as representatives of the young king's
 suzerain, largely directed English affairs until 1221, when Pandulf's
 departure restored Langton to his rightful position as head in England
@@ -404,19 +404,19 @@ of the church. Reforms in discipline and clerical work were inculcated
 by provincial legislation, and two legates, Otho in 1237 and Ottoboni in
 1268, promulgated in councils constitutions which were a fundamental
 part of the canon law in England. Religious life was quickened by the
-coming of the friars (see FRIARS). Parochial organization was
-strengthened by the institution of vicars in benefices held by religious
+coming of the [[Friar|friars]] (see FRIARS). Parochial organization was
+strengthened by the institution of vicars in [[Benefice|benefices]] held by religious
 bodies, which was regulated and enforced by the bishops. It was a time
-of intellectual activity, in character rather cosmopolitan than
+of intellectual activity, in character rather [[Cosmopolitan|cosmopolitan]] than
 national. English clerks studied philosophy and theology at Paris or law
 at Bologna; some remained abroad and were famous as scholars, others
-like Archbishops Langton, and Edmund Rich, and Bishop Grosseteste
+like Archbishops Langton, and Edmund Rich, and Bishop [[Grosseteste]]
 returned to be rulers of the church, and others like Roger Bacon to
 continue their studies in England. The schools of Oxford, however, had
 already attained repute, and Cambridge began to be known as a place of
-study. The spirit of the age found expression in art, and English Gothic
+study. The spirit of the age found expression in art, and English [[Gothic]]
 architecture, though originally, like the learning of the time, imported
-from France, took a line of its own and reached its climax at this
+from France, took a line of its own and reached its [[Climax|climax]] at this
 period. Henry's gratitude for the benefits which in his early years he
 received from Rome was shown later in subservience to papal demands.
 Gregory IX., and still more Innocent IV., sorely in need of money to
@@ -440,14 +440,14 @@ Edward I., who was a strong king, checked an attempt to magnify the
 spiritual authority by the writ _Circumspecte agatis_, which defined the
 sphere of the ecclesiastical courts, put a restraint on religious
 endowments by the Statute of Mortmain, and desiring that every estate in
-the realm should have a share in public burdens and counsels, caused the
+the realm should have a share in public [[Burden|burdens]] and counsels, caused the
 beneficed clergy to be summoned to send proctors to parliament. The
-clergy preferred to make their grants in their own convocations, and so
+clergy preferred to make their grants in their own [[Convocation|convocations]], and so
 lost the position offered to them. For some years clerical taxation by
 the crown was carried on with the good-will of the papacy; it was not
 oppressive for unbeneficed clergy and incomes below ten marks were
 exempt, and in theory the clergy were celibate. Papal demands, however,
-were additional burdens. In 1296 Boniface VIII., by his bull _Clericis
+were additional burdens. In 1296 Boniface VIII., by his [[Bull|bull]] _Clericis
 laicos_, forbade the clergy to grant money to lay princes, and Edward's
 request for a clerical subsidy was in 1297 refused by convocation led by
 Archbishop Winchelsea. The king thereupon outlawed the clergy. The
@@ -455,7 +455,7 @@ northern province yielded, the southern held out longer; but finally the
 clergy made their peace severally, each paying his share, and the royal
 victory was complete. Winchelsea joined the baronial opposition which
 forced Edward to grant the "Confirmation of the Charters." Edward
-procured his disgrace from Clement V., and in return allowed Clement to
+procured his disgrace from [[Clement]] V., and in return allowed Clement to
 exact so much from the church that the doings of the papal agents
 provoked an indignant remonstrance from parliament in 1307. With that
 exception the king's dealings with the church were statesmanlike. He
@@ -465,10 +465,10 @@ which had become recognized as essential. His weak son Edward II.
 yielded readily to papal demands. The majority of the bishops of the
 reign, and specially those engaged in politics, were unworthy men;
 religion was at a low ebb; plurality and non-residence were common. By
-the constitution _Execrebilis_ John XXII. ordered that all cures held in
+the constitution _Execrebilis_ John XXII. ordered that all [[Cures|cures]] held in
 plurality save one should be vacated, and, which was not so well,
 "reserved" all benefices so vacated for his own appointment. As the
-residence of the popes at Avignon from 1308 to 1377 brought them under
+residence of the popes at [[Avignon]] from 1308 to 1377 brought them under
 French influence, Englishmen during the war with France were specially
 displeased that large sums should be drawn from the kingdom for them and
 that they should exercise patronage there. In the reign of Edward III.
@@ -480,7 +480,7 @@ remained mere forms; the king nominated, and the popes provided, and
 took advantage of their claim to appoint to sees vacant by translation.
 Papal interference in suits concerning temporalities was checked by a
 law of 1353 (the first statute of _Praemunire_), which made punishable
-by outlawry and forfeiture the carrying before a foreign tribunal of
+by outlawry and [[Forfeiture|forfeiture]] the carrying before a foreign tribunal of
 causes cognizable by English courts. This measure was extended in 1365,
 and in 1393 by the great statute of _Praemunire_. Indignant at the law
 of 1365, Urban V. demanded payment of the tribute promised by John,
@@ -506,12 +506,12 @@ who quarrelled with Archbishop Stratford on political grounds, had
 appointed lay ministers, and in 1371 William of Wykeham, bishop of
 Winchester, and other clerical ministers were turned out of office and
 succeeded by laymen. A political crisis in 1376 was followed by a
-struggle between the bishops and John of Gaunt, duke of Lancaster, the
+struggle between the bishops and John of Gaunt, duke of [[Lancaster]], the
 head of the anticlerical party, who allied himself with John Wycliffe
 (q.v.). He was unpopular, and when the bishops cited Wycliffe before
 them in St Paul's, the duke's conduct provoked a riot and the
 proceedings ended abruptly. Wycliffe held that the church was corrupted
-by wealth; that only those in grace had a right to God's gifts, and that
+by wealth; that only those in [[Grace|grace]] had a right to God's gifts, and that
 temporal power belonged only to laymen and not to popes nor priests.
 Later he attacked the papacy itself, which in 1378 was distracted by the
 great schism; by 1380 he condemned pilgrimages, secret confession and
@@ -530,9 +530,9 @@ motives of the insurrection were essentially secular (Oman, _The Great
 Revolt of 1381_). The reaction which followed extended to religion, and
 Wycliffe's doctrines were condemned by a church council in 1382.
 Nevertheless he died in peace. He had many disciples, especially in
-Oxford and in industrial centres. The Lollards, as his followers were
+Oxford and in industrial centres. The [[Lollards]], as his followers were
 called, had supporters in parliament and among people of high rank in
-the court of Richard II., and the king's marriage to Anne of Bohemia
+the court of Richard II., and the king's marriage to [[Anne]] of Bohemia
 brought about the importation of Wycliffe's writings into Bohemia, where
 they had a strong influence on the religious movement led by Hus. At
 first the bishops were not inclined to persecute, and the earlier
@@ -551,7 +551,7 @@ convicted in a spiritual court should be committed to the secular arm
 and publicly burned, and, while this statute was pending, one Sawtre was
 burned as a relapsed heretic. Henry V. was zealous for orthodoxy and the
 persecution of Lollards increased; in 1414 Sir John Oldcastle, Lord
-Cobham, who had been condemned as a heretic, escaped and made an
+[[Cobham]], who had been condemned as a heretic, escaped and made an
 insurrection; he was taken in 1417 and hanged and burned. Lollardism was
 connected with an insurrection in 1431; it then ceased to have any
 political importance, but it kept its hold in certain towns and
@@ -580,7 +580,7 @@ into the daily life of the people, into their gild-meetings,
 church-ales, mystery-plays and holidays, as well as into the great
 events of family life--baptisms, marriages and deaths. Many stately
 churches were built in the prevailing Perpendicular style, often by
-efforts in which all classes shared, and many hamlet chapels
+efforts in which all classes shared, and many [[Hamlet|hamlet]] chapels
 supplemented the mother church in scattered parishes. The revival of
 classical learning scarcely affected the church at large. Greek learning
 was regarded with suspicion by many churchmen, but the English humanists
@@ -606,7 +606,7 @@ Henry VIII. wrote a book against Luther in which he maintained the papal
 authority, and was rewarded by Leo X. with the title of Defender of the
 Faith. Henry, however, whose will was to himself as the oracles of God,
 finding that the pope opposed his intended divorce from Catherine of
-Aragon, determined to allow no supremacy in his realm save his own. He
+[[Aragon]], determined to allow no supremacy in his realm save his own. He
 carried out his ecclesiastical policy by parliamentary help. Parliament
 was packed, and was skilfully managed; and he had on his side the
 popular impatience of ecclesiastical abuses, a new feeling of national
@@ -614,11 +614,11 @@ pride which would brook no foreign interference, the old desire of the
 laity to lighten their own burdens by the wealth of the church, and a
 growing inclination to question or reject sacerdotal authority. He used
 these advantages to forward his policy, and when he met with opposition,
-enforced his will as a despot. The parliament of 1529 lasted until 1536;
+enforced his will as a [[Despot|despot]]. The parliament of 1529 lasted until 1536;
 it broke the bonds of Rome, established royal supremacy over the English
 Church, and effected a redistribution of national wealth at the expense
 of the spirituality. It began by acts abolishing ecclesiastical
-exactions, such as excessive mortuaries and fees for probate, and by
+exactions, such as excessive mortuaries and [[Fee|fees]] for probate, and by
 prohibiting pluralities except in stated cases, application to Rome for
 licence to evade the act being made penal. Henry having crushed his
 minister Cardinal Wolsey, archbishop of York, declared the whole body of
@@ -635,9 +635,9 @@ of the canon law by commissioners to be appointed by the king. A bill
 for conditionally withholding the payment of _annates_, or first-fruits,
 to Rome was passed, and Henry took advantage of the fear of the Roman
 court lest it should lose these payments, to obtain without the usual
-fees bulls promoting Cranmer to the see of Canterbury in 1533, and thus
+fees bulls promoting [[Cranmer]] to the see of Canterbury in 1533, and thus
 was enabled to gain his divorce. Cranmer pronounced his marriage to
-Catherine null, and declared him lawfully married to Anne Boleyn.
+Catherine null, and declared him lawfully married to Anne [[Boleyn]].
 Clement VII. retorted by excommunicating the king, but for that Henry
 cared not. Appeals to Rome were forbidden by statute, and the council
 ordained that the pope should thenceforth only be spoken of as bishop of
@@ -663,12 +663,12 @@ steadfast, were sent to the stake, for though the heresy law of Henry
 IV. was repealed, heresy was still punishable by death, and persecution
 was not abated. By breaking the bonds of Rome Henry did not give the
 church freedom; he substituted a single despotism for the dual authority
-which pope and king had previously exercised over it. In 1535 Cromwell,
+which pope and king had previously exercised over it. In 1535 [[Cromwell]],
 the king's vicar-general, began a visitation of the monasteries. The
 reports (_comperta_) of his commissioners having been delivered to the
 king and communicated to parliament in 1536, parliament declared the
 smaller monasteries corrupt, and granted the king all of less value than
-£200 a year. A rebellion in Lincolnshire and another in the north, the
+£200 a year. A rebellion in [[Lincolnshire]] and another in the north, the
 formidable Pilgrimage of Grace, followed. The suppression of the greater
 houses was effected gradually, surrenders were obtained by pressure, and
 three abbots who were reluctant to give up the possessions of their
@@ -676,8 +676,8 @@ convents for confiscation were hanged. Monastic shrines and treasuries
 were sacked and the spoil sent to the king, to whom parliament granted
 all the houses, their lands and possessions. Of the enormous wealth thus
 gained Henry spent a part on national defence, a little on the
-foundation of the bishoprics of Westminster, dissolved in 1550, Bristol,
-Chester, Gloucester, Oxford and Peterborough, and gave the lands to men
+foundation of the bishoprics of Westminster, dissolved in 1550, [[Bristol]],
+[[Chester]], Gloucester, Oxford and Peterborough, and gave the lands to men
 either useful to or favoured by himself, or sold them to rich
 purchasers. In 1536 he dictated the belief and ceremonial of the church
 by issuing Ten Articles which were subscribed by convocation. This first
@@ -686,12 +686,12 @@ Catholic doctrine, though it showed the influence of Lutheran models.
 Another exposition of Anglican doctrine was made in the _Institution of
 a Christian Man_ or "Bishops' book," in some respects more likely to
 satisfy those attached to the tenets of Rome, in others, as in the
-distinct repudiation of purgatory and the declaration that salvation
+distinct repudiation of purgatory and the [[Declaration|declaration]] that salvation
 depended solely on the merits of Christ, showing an advance. It was
 published in 1537 with Henry's sanction but not by authority. In that
 year licence was granted for the sale of a translation of the Bible, and
 in 1538 another version called Matthew's Bible, was ordered to be kept
-in all churches (see BIBLE). Pilgrimages were suppressed and images
+in all churches (see BIBLE). Pilgrimages were suppressed and [[Image|images]]
 used for worship destroyed. Denial of the king's supremacy, denial of
 the corporal presence in the Eucharist, and insults to Catholic rites
 were alike punished by cruel death. The publication abroad of the king's
@@ -732,11 +732,11 @@ Uniformity in 1549; it retained much from old service books, but the
 communion office is Lutheran in character. It excited discontent, and a
 serious insurrection broke out in the West, the insurgents demanding the
 revival of the Act of the Six Articles and the withdrawal of the new
-service as "like a Christmas game." After Somerset's fall the government
+service as "like a Christmas [[Game|game]]." After Somerset's fall the government
 rapidly pushed forward reformation. A new _Ordinal_ issued with
 parliamentary approval in 1550 was significant of the change in
 sacramental doctrine, and the four minor orders disappeared. Altars were
-destroyed and tables substituted. Five bishops, Bonner of London,
+destroyed and tables substituted. Five bishops, [[Bonner]] of London,
 Gardiner of Winchester, and Heath of Worcester, then already in prison,
 and two others, were deprived; and the Lady Mary, who would not give up
 the mass, was harshly treated. The reformers were not tolerant; for a
@@ -778,7 +778,7 @@ believed that her authority would be accepted in religious matters; but
 she met with opposition, partly provocative, for Wyat's rebellion
 consequent on her intended marriage to Philip of Spain was closely
 connected with religion, and more largely passive in the noble
-resolution of those who chose martyrdom rather than denial of their
+resolution of those who [[Chose|chose]] martyrdom rather than denial of their
 faith. To the nation at large, though not averse from the old doctrines
 and practices of the church, a return to the Roman obedience was
 distasteful. Nevertheless, Cardinal Pole was received as legate, and the
@@ -792,15 +792,15 @@ Henry VIII. The heresy laws were revived, and a horrible persecution of
 those who refused to disown the doctrines of the prayer-book began in
 1555, and lasted during the remainder of the reign. Nearly 300 persons
 were burned to death as heretics in these four years, among them being
-five bishops: Hooper of Gloucester, Ferrar of St David's, Ridley of
+five bishops: [[Hooper]] of Gloucester, [[Ferrar]] of St David's, Ridley of
 London, and Latimer (until 1539) of Worcester in 1555, and Archbishop
 Cranmer in 1556. The chief responsibility for these horrors rests with
 the queen; the bishops who examined the accused were less zealous than
 she desired. The most prominent among them in persecution was Bonner of
-London. The exiles for religion were received at Frankfort, Strassburg
+London. The exiles for religion were received at [[Frankfort]], Strassburg
 and Zürich. At Frankfort a party among them objected to the ceremonies
-retained in the prayer-book, and, encouraged by Calvin and by Knox, who
-came to them from Geneva, quarrelled with those who desired to keep the
+retained in the prayer-book, and, encouraged by [[Calvin]] and by [[Knox]], who
+came to them from [[Geneva]], quarrelled with those who desired to keep the
 book unchanged. Mary died in 1558. Her reign arrested the rapid
 spoliation of the church and possibly prevented the adoption of
 doctrines which would have destroyed its apostolic character; the
@@ -826,7 +826,7 @@ refused the oath of supremacy and were deprived, and eight were
 imprisoned. Of the clergy generally few refused it; for only some 200
 were deprived for religion during the first six years of the reign.
 Bishops for the vacant sees were nominated by the crown and elected by
-their chapters as in Henry's reign; Matthew Parker was canonically
+their chapters as in Henry's reign; [[Matthew]] Parker was canonically
 consecrated archbishop of Canterbury. The orthodoxy of the church was
 vindicated by Bishop Jewel's _Apologia ecclesiae Anglicanae_. Adherents
 to Rome vainly tried to obtain papal sanction for attending the church
@@ -841,14 +841,14 @@ on obedience to his "Advertisements" of 1566, which, though not formally
 authorized by the queen, expressed her will, and became held as
 authoritative, and some of the refractory were punished. A company
 engaged in irregular worship was discovered in London in 1567 and a few
-persons were imprisoned by the magistrate. Active opposition to the
+persons were imprisoned by the [[Magistrate|magistrate]]. Active opposition to the
 government was stirred up by Pius V., and in 1569 a rebellion in the
 north, where the old religion was strong, was aided by papal money and
 encouraged by hopes of Spanish intervention. In 1570 Pius published a
 bull excommunicating and deposing the queen. Thenceforward recusants had
 to choose between loyalty to the queen and loyalty to the pope. They lay
 under suspicion, and severe penal laws were enacted against Romish
-practices. About 1579 many seminary priests and Jesuits came over to
+practices. About 1579 many seminary priests and [[Jesuits]] came over to
 England as missionaries; some actively engaged in treason, all were
 legally traitors. The country was threatened with foreign invasion,
 plots against the government were detected, and the queen's life was
@@ -884,10 +884,10 @@ Brownists were executed in 1583. The nonconformists remained in the
 church and continued their efforts to subvert its episcopal system.
 Elizabeth, though personally little influenced by religion, understood
 the political value of the church, and would allow no slackness in
-enforcing conformity. Archbishop Grindal was sequestrated for defending
+enforcing conformity. Archbishop [[Grindal]] was sequestrated for defending
 "prophesyings," or meetings of the Puritan clergy for religious
 exercises. The House of Commons, in which there was a Puritan element,
-repeatedly attempted to discuss church questions and was sharply
+repeatedly attempted to [[Discus|discuss]] church questions and was sharply
 silenced by the queen, who would not allow any interference in
 ecclesiastical matters. Whitgift, who succeeded Grindal in 1583, though
 kind-hearted, was strict in his administration of the law. Violent
@@ -912,10 +912,10 @@ widespread dissatisfaction. At a conference between divines of the two
 parties at Hampton Court in 1604, James roughly decided against the
 Puritans. Some small alterations were made in the prayer-book, and a new
 version of the Bible was undertaken, which appeared in 1611 as the
-"authorized version." In 1604 convocation framed a code of canons which
+"authorized version." In 1604 convocation framed a [[Code|code]] of canons which
 received royal authorization. Refusal to obey them was punished with
 deprivation, and, according to S. R. Gardiner, about 300 clergy were
-deprived, though a 17th century writer (Peter Heylyn) puts the number at
+deprived, though a 17th century writer (Peter [[Heylyn]]) puts the number at
 49 only, which W. H. Frere (_History of the English Church, 1558-1625_,
 p. 321) thinks more credible. Conformity could still be enforced, but
 before long the Puritan party grew in strength partly from religious and
@@ -938,9 +938,9 @@ right. It suffered heavily from this alliance. As men saw the church on
 the side of absolutism, Puritanism grew strong both among the country
 gentry, who were largely represented in the Commons, and among the
 nation at large, and the church lost ground through the king's political
-errors. A restoration of order and decency in worship and the
+[[Error|errors]]. A restoration of order and decency in worship and the
 introduction of more ceremonial begun in James's reign were carried on
-by Laud (q.v.) under Charles I. Laud aimed at silencing disputes about
+by [[Laud]] (q.v.) under Charles I. Laud aimed at silencing disputes about
 doctrine and enforcing outward uniformity; the Puritans hated ceremonial
 and wished to make every one accept their doctrines. Many of the reforms
 introduced by Laud after he became archbishop in 1633 were needful, but
@@ -960,8 +960,8 @@ issued canons magnifying the royal authority and imposing the so-called
 others. The Long Parliament voted the canons illegal; Laud was
 imprisoned, and in 1642 the bishops were excluded from parliament. The
 civil war began in 1642; in 1643 a bill was passed for the taking away
-of episcopacy, in 1645 Laud was beheaded, and parliament abolished the
-prayer-book and accepted the Presbyterian directory, and from 1646
+of [[Episcopacy|episcopacy]], in 1645 Laud was beheaded, and parliament abolished the
+prayer-book and accepted the Presbyterian [[Directory|directory]], and from 1646
 Presbyterianism was the legal form of church government. Many, perhaps
 2000, clergy were deprived; some were imprisoned and otherwise
 maltreated, though a fifth of their former revenues was assigned to the
@@ -1005,12 +1005,12 @@ Roman Catholicism, issued a Declaration of Indulgence which applied both
 to Romanists and Protestant Nonconformists, but parliament compelled him
 to withdraw it, and, in 1673, passed a Test Act making reception of the
 holy communion and a denial of transubstantiation necessary
-qualifications for public office. Later, when the dissenters found
+qualifications for public office. Later, when the [[Dissenter|dissenters]] found
 friends among the party in parliament opposed to the crown, the church
 supported the king, and the doctrine of passive obedience was generally
 accepted by the clergy. The church was popular, and among the great
 preachers and theologians who adorned it in the Caroline period were
-Jeremy Taylor, Pearson, Bull, Barrow, South and Stillingfleet. The lower
+[[Jeremy]] Taylor, Pearson, Bull, Barrow, South and Stillingfleet. The lower
 clergy were mostly poor, and their social position was consequently
 often humble, but the pictures of clerical humiliation after 1660 are
 generally overcoloured; the assertion that they commonly married
@@ -1059,11 +1059,11 @@ scheme was abortive. A long controversy began between the two houses:
 the bishops were mostly Whigs with latitudinarian tendencies, the lower
 clergy Tories and high churchmen. During most of the reign convocation
 was suspended and the church was governed by royal injunctions, a system
-injurious to its welfare. It had been the bulwark of the nation against
+injurious to its welfare. It had been the [[Bulwark|bulwark]] of the nation against
 Romanism under James II., and the affection of the nation enabled it to
 preserve its distinctive character amid dangers of an opposite kind
 under William III. Its religious life was active; associations for
-worship and the reformation of manners led to more frequent services,
+worship and the reformation of [[Manners|manners]] led to more frequent services,
 the establishment of schools for poor children, and the foundation of
 the Society for Promoting Christian Knowledge (S.P.C.K.) and for the
 Propagation of the Gospel in Foreign Parts (S.P.G.). This activity and
@@ -1078,7 +1078,7 @@ Dr Sacheverell, who was prosecuted for a violently Tory sermon. His
 trial, in 1710, caused much excitement; mobs shouted for "High Church
 and Dr Sacheverell," and the lightness of his sentence was hailed as a
 Tory victory. Queen Anne is gratefully remembered by the church for her
-"Bounty," which gave it the first-fruits and tenths (see ANNATES and
+"[[Bounty]]," which gave it the first-fruits and tenths (see ANNATES and
 QUEEN ANNE'S BOUNTY).
 
 
@@ -1095,7 +1095,7 @@ largely depended on a profession of Whig principles: the church was
 regarded as subservient to the state; its historic position and claims
 were ignored, and it was treated by politicians as though its principal
 function was to support the government. This change was accelerated by
-the silencing of convocation. A sermon by Hoadly, bishop of Bangor,
+the silencing of convocation. A sermon by [[Hoadly]], bishop of Bangor,
 impugned the existence of a visible church, and the "Bangorian
 controversy" which ensued threatened to end in the condemnation of his
 opinions by convocation, or at least by the lower house. As this would
@@ -1112,14 +1112,14 @@ lowest point of their decline, about the middle of the century. While
 the church was inactive in practical work, it showed vigour in the
 intellectual defence of Christianity. Controversies of earlier origin
 with assailants of the faith were ably maintained by, among others,
-Daniel Waterland, William Law, a nonjuror, Bishop Butler, whose
-_Analogy_ appeared in 1736, and Bishop Berkeley. A revival of
+[[Daniel]] Waterland, William Law, a nonjuror, Bishop [[Butler]], whose
+_Analogy_ appeared in 1736, and Bishop [[Berkeley]]. A revival of
 spirituality and energy at last set in. Its origin has been traced to
 Law's Serious Call, published in 1728. Law's teaching was actively
 carried out by John Wesley (q.v.), a clergyman who from 1739 devoted
 himself to evangelization. Though his preaching awoke much religious
 feeling, specially among the lower classes, the excitement which
-attended it led to a horror of religious enthusiasm, and his methods
+attended it led to a horror of religious [[Enthusiasm|enthusiasm]], and his methods
 irritated the parochial clergy. Some of them seconded his efforts, but
 far more regarded them with violent and often unworthily expressed
 dislike. While he urged his followers to adhere to the church, he could
@@ -1148,7 +1148,7 @@ both as regards Roman Catholics and Protestant dissenters. The spirit of
 rationalism, which had been manifested earlier in attacks on revelation,
 appeared in a movement against subscription to the Articles demanded of
 the clergy and others which was defeated in parliament in 1772. The
-alarm consequent on the French Revolution checked the progress of
+alarm consequent on the [[French Revolution]] checked the progress of
 toleration and was temporarily fatal to free-thinking; it strengthened
 the position of the church, which was regarded as a bulwark of society
 against the spread of revolutionary doctrines; and this caused the
@@ -1179,7 +1179,7 @@ Apart from the Evangelical revival, religion was advanced in the church.
 In 1811 the education of the poor was provided for on church principles
 by the National Society; the Church Building Society was founded in
 1818; and the colonial episcopate was started by the establishment of
-bishoprics in Calcutta in 1814, and in Jamaica and Barbados in 1824. Yet
+bishoprics in [[Calcutta]] in 1814, and in Jamaica and Barbados in 1824. Yet
 reforms were urgently needed. In 1813, out of about 10,800 benefices,
 6311 are said to have been without resident incumbents (_The Black
 Book_, p. 34); the value of some great offices was enormous, while many
@@ -1200,10 +1200,10 @@ proceeded from parliament, while convocation remained silenced.
 Latitudinarian opinions revived, and the church was regarded merely as a
 human institution. Among the clergy generally ritual observance was
 neglected and rubrical directions disobeyed. A few churchmen, including
-Keble and Newman, set themselves to revive church feeling, and Oxford
+[[Keble]] and Newman, set themselves to revive church feeling, and Oxford
 became the centre of a new movement. The publication of Keble's
 _Christian Year_ prepared its way, and its aims were declared in his
-assize sermon at Oxford on "National Apostasy" in 1833. Its promoters
+[[Assize|assize]] sermon at Oxford on "National Apostasy" in 1833. Its promoters
 urged their views in _Tracts for the Times_, and were strengthened by
 the adhesion of Pusey. Hence they were nicknamed Tractarians or
 Puseyites. Their cardinal doctrine was that the Church of England was a
@@ -1247,11 +1247,11 @@ comparatively small, but it included some men of mark. In 1860 appeared
 _Essays and Reviews_, a volume of essays by seven authors, of whom six
 were in orders. The book as a whole had a rationalistic tendency and was
 condemned by convocation: two of the essayists were suspended by the
-Court of Arches, but its judgment was reversed by the judicial
+Court of [[Arches]], but its judgment was reversed by the judicial
 committee. Crude attacks on the authority of the Scriptures and the
 position of the English Church with respect to it having been published
-by Colenso, bishop of Natal, he was deposed by his metropolitan, Bishop
-Gray of Cape Town, in 1863, but the judicial committee decided that the
+by [[Colenso]], bishop of Natal, he was deposed by his metropolitan, Bishop
+[[Gray]] of [[Cape Town]], in 1863, but the judicial committee decided that the
 bishop of Cape Town had no coercive jurisdiction over Natal. Convocation
 declared Colenso's books erroneous, abstaining in face of this judgment
 from acknowledging as valid the excommunication which Bishop Gray
@@ -1263,7 +1263,7 @@ services of the church to a higher level came before the judicial
 committee in the case of _Westerton_ v. _Liddell_ in 1857, with a result
 encouraging to the ritualists, as they then began to be called. An
 increase in ritual usages, such as eucharistic vestments, altar lights
-and incense, followed. In 1859-1860 disgraceful riots took place at St
+and [[Incense|incense]], followed. In 1859-1860 disgraceful riots took place at St
 George's-in-the-East, London, where an advanced ritual was used. In 1860
 the English Church Union was formed mainly to uphold high church
 doctrine and ritual, and assist clergy prosecuted for either cause, and
@@ -1297,7 +1297,7 @@ its report in 1883 led to no results, and the bishops strove to mend
 matters by exercising their veto. Advanced and illegal usages became
 more frequent. Proceedings in respect of illegal ritual having been
 instituted against Bishop King of Lincoln, the archbishop of Canterbury
-(Benson) personally heard and decided the case in 1890, and his judgment
+([[Benson]]) personally heard and decided the case in 1890, and his judgment
 was upheld by the judicial committee (see LINCOLN JUDGMENT). The
 spiritual character of the tribunal and the authority of the judgment
 which sanctioned certain usages and condemned others, had a quieting
@@ -1313,7 +1313,7 @@ discipline was appointed in 1904. The commissioners presented a
 unanimous report in 1906, its chief recommendations being, briefly, that
 practices significant of doctrines repugnant to those of the English
 Church should be extirpated; that the convocations should prepare a new
-ornaments rubric, and frame modifications in the conduct of divine
+ornaments rubric, and [[Frame|frame]] modifications in the conduct of divine
 service; that the diocesan and provincial courts and the court of final
 appeal should be reformed in accordance with the recommendations of
 1883, the last to consist of a permanent body of lay judges who on all
@@ -1330,7 +1330,7 @@ it is beset with difficulties and dangers both from within and without.
 Within, besides difficulties as regards ritual, it has to contend
 against rationalism, which has been stimulated by scientific discoveries
 and speculations, and far more by Biblical criticism. While this
-criticism has been used by many as a means to a fuller comprehension of
+criticism has been used by many as a means to a [[Fuller|fuller]] comprehension of
 divine revelation, much of it is simply destructive, and has led to
 ill-considered expressions of opinion adverse to the doctrine of the
 church. From without, the church has been threatened with
@@ -1338,13 +1338,13 @@ disestablishment both wholly and as regards the dioceses within the
 Welsh counties; and the education of the poor, which from early days
 depended on its care, has largely been taken out of its hands (see
 EDUCATION). The amount contributed by the church to elementary
-education, including the maintenance of Sunday schools, in 1907-8 was
+education, including the [[Maintenance|maintenance]] of Sunday schools, in 1907-8 was
 £576,012. During the last sixty years the church has strengthened its
 hold on the loyalty of the nation by its increased efficiency. Its
 bishops are laborious and active. Since 1876 the home episcopate has
 been increased by the creation of the dioceses of Truro, St Albans,
-Liverpool, Newcastle, Southwell, Wakefield, Bristol, Southwark and
-Birmingham, so that there are now (1910) thirty-seven diocesan bishops,
+[[Liverpool]], Newcastle, Southwell, Wakefield, Bristol, Southwark and
+[[Birmingham]], so that there are now (1910) thirty-seven diocesan bishops,
 aided by twenty-eight suffragan and eight assistant bishops, and a
 further subdivision of dioceses is contemplated. At no other time
 probably have the clergy been so industrious. As a rule they are far
@@ -1355,7 +1355,7 @@ greater worldly advantages. The poverty of many of the clergy stands in
 strong contrast to the wealth around them. Of 14,242 benefices 4704 are
 said to be below £200 a year net value. The value of £100 tithe rent
 charge has sunk (1909) to £69: 18 : 5¼, the average value since the
-Commutation Act of 1836 being £94 : 3 : 2¾. The number of assistant
+[[Commutation]] Act of 1836 being £94 : 3 : 2¾. The number of assistant
 clergy is (1910) about 7500, in spite of the hardships often attending
 clerical life, the supply of men being kept up. The Queen Victoria
 Clergy Fund and other voluntary associations and various educational
@@ -1371,11 +1371,11 @@ parsonages £6,116,592, yet church extension fails to keep pace with the
 increase of the population. Evangelistic efforts, the relief of the sick
 and poor, and the inculcation of temperance are zealously carried on.
 Good work is done by twenty-six sisterhoods and several institutions of
-deaconesses, and one or two communities of celibate clergy. In the
+[[Deaconess|deaconesses]], and one or two communities of celibate clergy. In the
 British colonies and India the episcopate consists (1909) of seven
 archbishops with two coadjutors; there are also seventy diocesan
 bishops, and in other parts of the world thirty missionary bishops. The
-S.P.G. has 847 ordained ministers, including thirty chaplains in Europe,
+S.P.G. has 847 ordained ministers, including thirty [[Chaplain|chaplains]] in Europe,
 besides many female missionaries; the C.M.S. has 793 ordained ministers,
 and many other missionaries of both sexes; the Zenana Missionary Society
 has a staff of 1288; other church societies for foreign missions are
@@ -1389,8 +1389,8 @@ the four houses of convocation and the two lay assemblies was formed
 with the name of the Representative Church Council. During the last
 forty years diocesan conferences, in which the laity are represented,
 have become universal, while ruridecanal and other meetings of a like
-kind are general. An annual church congress, established in 1861, held
-its forty-ninth meeting in 1909. Of wider importance are the Lambeth
+kind are general. An annual [[Church Congress|church congress]], established in 1861, held
+its forty-ninth meeting in 1909. Of wider importance are the [[Lambeth]]
 conferences, held since 1878 at intervals of ten years, to which the
 bishops of the English Church and the churches in communion with it are
 invited, and meet under the presidency of the archbishop of Canterbury.
@@ -1402,21 +1402,21 @@ CONFERENCES and ANGLICAN COMMUNION).
   AUTHORITIES.--General Histories, Narrative: J. Collier,
   _Ecclesiastical History of Great Britain_ (to 1685), ed. T. Lathbury
   (9 vols., London, 1852); T. Fuller, _Church History_ (to 1648), ed. J.
-  S. Brewer (Oxford, 1845), valuable near the author's own time; C.
-  Dodd, _Church History of England_ (to 1625, by a Roman Catholic), ed.
+  S. [[Brewer]] (Oxford, 1845), valuable near the author's own time; C.
+  [[Dodd]], _Church History of England_ (to 1625, by a Roman Catholic), ed.
   M. A. Tierney (5 vols., London, 1839-1843); Dean W. F. Hook, Lives of
   the _Archbishops of Canterbury_ (to 1663) (12 vols., London,
   1860-1879); G. G. Perry, _Students' English Church History_ (to 1884)
   (London, 1887), a carefully written book; _A History of the English
-  Church_, ed. Stephens and Hunt, in 8 vols., noticed below under
+  Church_, ed. Stephens and [[Hunt]], in 8 vols., noticed below under
   various periods; H. O. Wakeman, _An Introduction to the History of the
-  Church of England_ (London, 1896), a brightly written manual by a
+  Church of England_ (London, 1896), a brightly written [[Manual|manual]] by a
   pronounced high churchman. Documents: D. Wilkins, _Concilia_
   (446-1717) (4 vols. fol., London, 1737), a splendid work; A. W. Haddan
   and Bishop W. Stubbs, _Councils and Ecclesiastical Documents_ (3
   vols., Oxford, 1869-1873), supersedes Wilkins so far as it goes, but
   deals with English Church only to 870, with Welsh, Scottish and
-  Cumbrian churches to later dates; H. Gee and W. J. Hardy, _Documents
+  Cumbrian churches to later dates; H. [[Gee]] and W. J. Hardy, _Documents
   of English Church History_ (to 1700) (London, 1896), useful for
   students. Constitutional: Bishop W. Stubbs, _Constitutional History of
   England_ (parts of) (3 vols., revised ed., Oxford, 1895-1897), a work
@@ -1426,18 +1426,18 @@ CONFERENCES and ANGLICAN COMMUNION).
   (See under CONVOCATION.)
 
   From 597: Bede, _Historia ecclesiastica_, ed. C. Plummer (2 vols.,
-  Oxford, 1896), the primary authority to 731, trans. by J. A. Giles
+  Oxford, 1896), the primary authority to 731, trans. by J. A. [[Giles]]
   (Bohn's Library) and others; see also Eddi's contemporary "Vita
   Wilfridi," in _Historians of York_, ed. James Raine, Rolls series (3
-  vols., 1879-1894); W. Bright, _Early English Church History_ (to 709)
+  vols., 1879-1894); W. [[Bright]], _Early English Church History_ (to 709)
   (3rd ed., Oxford, 1897), a learned and beautiful book; articles in
   _Dictionary of Christian Biography_ (to 9th century), ed. W. Smith and
   H. Wace (4 vols., London, 1877-1887). Later Anglo-Saxon: In Chronicles
   and biographies, as _Anglo-Saxon Chronicle, Two of the Saxon
   Chronicles_, ed. C. Plummer (2 vols., 1892), trans. by B. Thorpe,
-  Rolls series (1861), and others; Asser, _Life of Alfred_, ed. W. H.
+  Rolls series (1861), and others; [[Asser]], _Life of Alfred_, ed. W. H.
   Stevenson (Oxford, 1904), trans. by Giles; _Memorials of Dunstan_,
-  ed. W. Stubbs, Rolls series (1874). Modern: J. Lingard, _History of
+  ed. W. Stubbs, Rolls series (1874). Modern: J. [[Lingard]], _History of
   the Anglo-Saxon Church_ (2 vols., London, 2nd ed., printed 1858); W.
   Hunt, _History of the English Church_, 597-1066, ed. Stephens and Hunt
   (London, revised ed., 1901).
@@ -1445,14 +1445,14 @@ CONFERENCES and ANGLICAN COMMUNION).
   For later medieval times: (1) Chroniclers, &c., after 1066, as
   Florence of Worcester, ed. B. Thorpe, Eng. Hist. Soc. (2 vols., 1878),
   trans. by J. Stevenson in _Church Historians_ (London, 1853); Symeon
-  of Durham, ed. T. Arnold, Rolls series (2 vols., 1882); Eadmer (for
+  of Durham, ed. T. [[Arnold]], Rolls series (2 vols., 1882); [[Eadmer]] (for
   Archbishop Anselm), ed. M. Rule, Rolls series (1884); William of
   Malmesbury, _Gesta regum_, &c. (to 1152), ed. W. Stubbs, Rolls series
   (2 vols., 1887), and _Gesta pontificum_, ed. N. E. S. A. Hamilton,
-  Rolls series (1870); (John of Salisbury?) _Historia pontificalis_ (for
+  Rolls series (1870); ([[John Of Salisbury|John of Salisbury]]?) _Historia pontificalis_ (for
   Archbishop Theobald, 1139-1161), ed. Pertz, _Rerum Germ. scriptt._
   xx.; _Materials for the Life of Archbishop Becket_, ed. J. C.
-  Robertson, Rolls series (7 vols., 1875-1885); Giraldus Cambrensis
+  Robertson, Rolls series (7 vols., 1875-1885); [[Giraldus Cambrensis]]
   (12th century), _Gemma ecclesiastica and Speculum ecclesiae_, Works
   ii. and iv., ed. J. S. Brewer, Rolls series (1862, 1873); Matthew
   Paris, _Chronica majora_ (to 1259), ed. H. R. Luard, Rolls series (7
@@ -1463,11 +1463,11 @@ CONFERENCES and ANGLICAN COMMUNION).
   _Registrum J. Peckham_ (Archbishop of Canterbury, 1279-1292), ed. C.
   T. Martin, Rolls series (3 vols., 1882-1886); _Exeter Registers_, ed.
   Hingeston-Randolph (5 vols., 1889); _Registers_ of Bishops Drokensford
-  and Ralph of Shrewsbury, ed. W. H. Dickinson and T. S. Holmes,
+  and Ralph of Shrewsbury, ed. W. H. [[Dickinson]] and T. S. Holmes,
   Somerset Record Soc. (3 vols., 1887, 1895-1896), and others. For
   Wycliffe and early Lollards see WYCLIFFE. R. Pecock, _Repressor of
   Overmuch Blaming of the Clergy_, ed. C. Babington, Rolls series (2
-  vols., 1860); and T. Gascoigne, _Loci e libro veritatum_, ed. J. T.
+  vols., 1860); and T. [[Gascoigne]], _Loci e libro veritatum_, ed. J. T.
   Rogers (Oxford, 1881), which gives ample notices of abuses, should be
   consulted for 15th century. Modern books: W. R. W. Stephens, _The
   English Church, 1066-1272_ (revised edition, 1904), and W. W. Capes,
@@ -1484,31 +1484,31 @@ CONFERENCES and ANGLICAN COMMUNION).
   For the Reformation Period: Documentary: Notices in Letters and
   Papers, Henry VIII., ed. J. S. Brewer, J. Gairdner, R. H. Brodie,
   Record Publ. (19 vols., 1862-1905), and _Calendars of State Papers_
-  for Henry VIII., Edward VI., ed. R. Lemon (1856) and M. A. Green
+  for Henry VIII., Edward VI., ed. R. [[Lemon]] (1856) and M. A. Green
   (1870), for Mary, ed. Lemon (1856), Record Publ., and for Elizabeth,
   Hatfield MSS., Hist. MSS. Comm.; _Acts of the Privy Council_, ed. J.
   R. Dasent (1890), in progress; _Records of the Reformation_, ed. N.
-  Pocock (2 vols., Oxford, 1870); E. Cardwell, _Documentary Annals_
+  Pocock (2 vols., Oxford, 1870); E. [[Cardwell]], _Documentary [[Annals]]_
   (Oxford, 1839); _Original Letters_, ed. H. Ellis (11 vols.,
   1824-1846); _Zurich Letters_ (2 vols.), _Original Letters_ (2 vols.),
   ed. Robinson (1842-1847); Latimer's _Sermons_ (1844), and _Archbishop
   Parker's Correspondence_, ed. J. Bruce and T. T. Perowne, all Parker
-  Soc. Publ., Cambridge; see also _General Index to Parker Soc.'s Publ._
+  Soc. Publ., Cambridge; see also _General [[Index]] to Parker Soc.'s Publ._
   (1855); R. Pole (Cardinal), _Epistolae_, ed. Quirini (5 vols.,
-  Brescia, 1744-1757); G. W. Prothero, _Select Statutes_, &c.;
+  [[Brescia]], 1744-1757); G. W. Prothero, _Select Statutes_, &c.;
   _Elizabeth and James I._ (3rd ed., Oxford, 1906). Supplementary:
   Strype, _Ecclesiastical Memorials_ (6 vols., 1513-1556); _Annals_
   (Elizabeth) (7 vols.); _Memorials of Cranmer_ (2 vols.); _Lives_ of
   Parker (3 vols.), Grindal, Whitgift (3 vols.), all with a large
-  repertory of documents, also of Cheke, T. Smith and Aylmer (all
-  Oxford, 1820-1824); Burnet, _History of the Reformation_, ed. N.
+  repertory of documents, also of [[Cheke]], T. Smith and [[Aylmer]] (all
+  Oxford, 1820-1824); [[Burnet]], _History of the Reformation_, ed. N.
   Pocock (7 vols., Oxford, 1865), with many documents. Chronicles and
   early Histories: W. Camden, _Annales_ (Elizabeth), ed. T. Hearne (3
   vols., 1717); _Chronicle of Queen Jane and Queen Mary_, ed. J. G.
   Nichols (Camden Soc., 1850); E. Hall, _Chronicle_ (Henry VIII.), ed.
   C. Whibley (2 vols., London, 1904); N. Harpsfield, _Treatise on the
   Pretended Divorce of Henry VIII._, ed. N. Pocock (Camden Soc., 1878);
-  J. Foxe, _Acts and Monuments_ (often called "The Book of Martyrs"),
+  J. [[Foxe]], _Acts and Monuments_ (often called "The Book of Martyrs"),
   ed. S. R. Cattley and G. Townsend (a book with many facts
   industriously gathered, many documents and some errors) (8 vols.,
   London, 1843-1849); H. Machyn, _Diary_ (1550-1563), and _Narratives of
@@ -1516,21 +1516,21 @@ CONFERENCES and ANGLICAN COMMUNION).
   Roper, _The Life of Sir Thomas More_, ed. S. Singer (1817), and other
   editions, a beautiful book by More's son-in-law; N. Sander, _De
   origins ac progressu schismatis Anglicani_, continued by E. Rishton
-  (Rome, 1586), translated by D. Lewis (London, 1877) (Sander was a
+  (Rome, 1586), translated by D. [[Lewis]] (London, 1877) (Sander was a
   Roman Catholic priest who wrote in 1576; his language is violent but
   the narrative generally trustworthy); _The Presbyterian Movement in
   the Reign of Queen Elizabeth_, ed. R. G. Usher (R. Hist. Soc., 1905).
   Modern histories: J. H. Blunt, _History of the English Reformation_
   (London, 1878), a careful work, though of no great historical
-  importance; T. E. Bridgett, _Life of Blessed John Fisher_ (London,
+  importance; T. E. [[Bridgett]], _Life of Blessed John Fisher_ (London,
   1888); R. W. Dixon, _History of the Church of England from the
   Abolition of the Roman Jurisdiction_ (5 vols., London, 1878-1892), a
   book showing great knowledge and insight; V. M. Doreau, _Henry VIII et
   les martyres de la Chartreuse_ (Paris, 1890); H. Fisher, _History of
   England 1485-1547_, presents a brilliant and trustworthy narrative of
   ecclesiastical affairs during the reign of Henry VIII., and forms
-  vol. v. of the _Political History of England_, ed. W. Hunt and R. L.
-  Poole (London, 1906); P. Friedmann, _Anne Boleyn_ (London, 1884), an
+  vol. v. of the _[[Political History]] of England_, ed. W. Hunt and R. L.
+  Poole (London, 1906); P. [[Friedmann]], _Anne Boleyn_ (London, 1884), an
   important work; W. H. Frere, _History of the English Church,
   1558-1625_, ed. W. R. W. Stephens and W. Hunt (1904), scholarly; J. A.
   Froude, _History of England_ (1527-1588), a work of literary beauty,
@@ -1539,7 +1539,7 @@ CONFERENCES and ANGLICAN COMMUNION).
   VIII. (12 vols., London, 1856-1870, cheap editions, 1881-1882, 1893);
   J. Gairdner, _History of the English Church_, Henry VIII. to Mary, ed.
   Stephens and Hunt (London, 1902), by the highest authority on the
-  period; H. E. Jacobs, _The Lutheran Movement in England_
+  period; H. E. [[Jacobs]], _The Lutheran Movement in England_
   (Philadelphia, 1890), chiefly on progressive doctrinal change; A. F.
   Pollard, _Henry VIII._ (London, with illustrations 1902, with
   references 1905), an excellent general history of the reign, _England
@@ -1549,8 +1549,8 @@ CONFERENCES and ANGLICAN COMMUNION).
   Lomas (23 vols.), from 1649, ed. E. Green (13 vols.), and _Calendars
   of Committees for Plundered Ministers_, &c., all Record Publ.;
   _Constitutional Documents of the Puritan Revolution_, ed. S. R.
-  Gardiner (Oxford, 1899); J. Evelyn, _Diary_, ed. A. Dobson (3 vols.,
-  London, 1906); also ed. W. Bray and ed. H. B. Wheatley; J. Hacket,
+  Gardiner (Oxford, 1899); J. [[Evelyn]], _Diary_, ed. A. [[Dobson]] (3 vols.,
+  London, 1906); also ed. W. [[Bray]] and ed. H. B. Wheatley; J. Hacket,
   _Scrinia reserata_, Life of Archbishop Williams (London, 1715); P.
   Heylyn, _Cyprianus Anglicanus_, Life of Archbishop Laud (Dublin,
   1668); W. Laud, Works, ed. W. Scott and W. Bliss, Library of
@@ -1571,7 +1571,7 @@ CONFERENCES and ANGLICAN COMMUNION).
   divine, a careful and unprejudiced history; J. Walker, _Sufferings of
   the Clergy_ (London, 1714). For Restoration and Revolution Period: R.
   Baxter, _Reliquiae Baxterianae_, ed. M. Sylvester (London, 1696); and
-  E. Calamy, _Abridgment of Life of Baxter_ (2 vols., 1713); R. Bentley,
+  E. [[Calamy]], _Abridgment of Life of Baxter_ (2 vols., 1713); R. Bentley,
   _Life of Bishop Stillingfleet_, with _Works_ in 6 vols. (London,
   1710); Bishop G. Burnet, _History of his Own Time_ (6 vols., Oxford,
   1783); G. Doyly, _Life of Archbishop Sancroft_ (2 vols., London,
@@ -1579,17 +1579,17 @@ CONFERENCES and ANGLICAN COMMUNION).
   1710); T. Lathbury, _History of the Nonjurors_ (London, 1843); T. B.
   Macaulay, _History of England_ (5 vols., London, 1858-1861); _Magdalen
   College and James II._, ed. J. R. Bloxam, Oxford Historical Society
-  (Oxford, 1886); R. Nelson, _Life of Bishop Bull_, ed. Burton (Oxford,
+  (Oxford, 1886); R. Nelson, _Life of Bishop Bull_, ed. [[Burton]] (Oxford,
   1827); J. H. Overton, _The Nonjurors_ (London, 1902), and _Life in the
   English Church, 1660-1714_ (2 vols., London, 1885); E. H. Plumptre,
-  _Life of Bishop Ken_ (2 vols., London, 1888); I. Walton, _Lives_
+  _Life of Bishop [[Ken]]_ (2 vols., London, 1888); I. Walton, _Lives_
   (Bishop G. Morley and others) (London, 1898, and frequently). For 18th
   century: C. J. Abbey, _The English Church and its Bishops, 1700-1800_
   (2 vols., London, 1887); C. J. Abbey and J. H. Overton, _The English
   Church in the 18th Century_ (London, revised ed., 1887), a pleasant
-  and useful book; R. Cecil, _Life of John Newton_ (London, 1827); A.
-  C. Fraser, _Life of Bishop Berkeley_, vol. iv. of _Works_ (Oxford,
-  1871); Lord Hervey, _Memoirs of the Reign of George II._, ed. J. W.
+  and useful book; R. [[Cecil]], _Life of John Newton_ (London, 1827); A.
+  C. [[Fraser]], _Life of Bishop Berkeley_, vol. iv. of _Works_ (Oxford,
+  1871); Lord [[Hervey]], _Memoirs of the Reign of George II._, ed. J. W.
   Croker (3 vols., London, 1884); A. H. Hore, _The Church of England
   from William III. to Victoria_ (2 vols., Oxford, 1886); J. Hunt,
   _Religious Thought in England_ (3 vols., London, 1873); _Huntingdon,
@@ -1612,16 +1612,16 @@ CONFERENCES and ANGLICAN COMMUNION).
 
   For the Oxford Movement and onwards: A. W. Benn, _English Rationalism
   in the 19th Century_ (2 vols., London, 1906); A. C. Benson, _Life of
-  Archbishop E. W. Benson_ (2 vols., London, 1899); J. W. Burgon, _Lives
+  Archbishop E. W. Benson_ (2 vols., London, 1899); J. W. [[Burgon]], _Lives
   of Twelve Good Men_ (2 vols., London, 1888); R. W. Church, _History of
   the Oxford Movement_ (London, 1891); J. T. Coleridge, _Life of Keble_
-  (Oxford, 1869); R. T. Davidson and W. Benham, _Life of Archbishop A.
+  (Oxford, 1869); R. T. [[Davidson]] and W. Benham, _Life of Archbishop A.
   C. Tait_ (2 vols., London, 1892); H. P. Liddon and J. O. Johnston,
   _Life of Pusey_ (4 vols., London, 1893-1895); T. Mozley,
   _Reminiscences of Oriel and the Oxford Movement_ (2 vols., London,
   1882); J. H. Newman, _Apologia pro Vita sua_ (London, 1864); R.
   Prothero, _Correspondence of Dean A. P. Stanley_ (2 vols., London,
-  1893); R. G. Wilberforce and A. Ashwell, _Life of Bishop S.
+  1893); R. G. Wilberforce and A. [[Ashwell]], _Life of Bishop S.
   Wilberforce_ (3 vols., London, 1879) _Report of the Royal Commission
   on Ecclesiastical Courts_ (1883), and _Report of the Royal Commission
   on Ecclesiastical Discipline_ (1906), both H.M. Stationery Office;

@@ -232,14 +232,14 @@ to their customs and traditions, which, however, possessed a certain
 uniformity resulting from their close connexion with natural and divine
 law. Strangely enough, those documents which bear the greatest
 resemblance to a small collection of canonical regulations, such as the
-Didache, the Didascalia and the Canons of Hippolytus, have not been
+[[Didache]], the Didascalia and the Canons of Hippolytus, have not been
 retained, and find no place in the collections of canons, doubtless for
 the reason that they were not official documents. Even the Apostolical
 Constitutions (q.v.), an expansion of the Didache and the Didascalia,
 after exercising a certain amount of influence, were rejected by the
 council in Trullo (692). Thus the only pseudo-epigraphic document
 preserved in the law of the Greek Church is the small collection of the
-eighty-five so-called "Apostolic Canons" (q.v.). The compilers, in their
+eighty-five so-called "[[Apostolic Canons]]" (q.v.). The compilers, in their
 several collections, gathered only occasional decisions, the outcome of
 no pre-determined plan, given by councils or by certain great bishops.
 
@@ -257,7 +257,7 @@ were further added the twenty-five canons of the so-called council _in
 encaeniis_ of that city (341). Soon afterwards, Paphlagonia contributed
 twenty canons passed at the council of Gangra (held, according to the
 _Synodicon orientale_, in 343),[2] and Phrygia fifty-nine canons of the
-assembly of Laodicea (345-381?), or rather of the compilation known as
+assembly of [[Laodicea]] (345-381?), or rather of the compilation known as
 the work of this council.[3] The collection was so well and so widely
 known that all these canons were numbered in sequence, and thus at the
 council of Chalcedon (451) several of the canons of Antioch were read
@@ -399,7 +399,7 @@ time by the monk Dionysius, known by the name of Dionysius Exiguus,
 which he himself had assumed as a sign of humility. He was a Scythian by
 birth, and did not come to Rome till after 496, his learning was
 considerable for his times, and to him we owe the employment of the
-Christian era and a new way of reckoning Easter. At the desire of
+Christian era and a new way of reckoning [[Easter]]. At the desire of
 Stephen, bishop of Salona, he undertook the task of making a new
 translation, from the original Greek text, of the canons of the Greek
 collection. The manuscript which he used contained only the first fifty
@@ -420,7 +420,7 @@ officially received by the Frankish Church, imposed by the council of
 Aix-la-Chapelle of 802, and from that time on was recognized and quoted
 as the _liber canonum_. If we consider that the Church of Africa, which
 had already suffered considerably from the Vandal invasion, was at this
-period almost entirely destroyed by the Arabs, while the fate of Spain
+period almost entirely destroyed by the Arabs, while the [[Fate|fate]] of Spain
 was but little better, it is easy to see why the collection of Dionysius
 became the code of almost the whole of the Western Church, with the
 exception of the Anglo-Saxon countries; though here too it was known.
@@ -621,7 +621,7 @@ makes itself felt in several collections of canons, intended to support
 the rights of the Holy See and the Church against the pretensions of the
 emperor. To this group belong an anonymous collection, described by M.P.
 Fournier as the first manual of the Reform;[18] the collection of
-Anselm, bishop of Lucca,[19] in 13 books (1080-1086); that of Cardinal
+Anselm, bishop of [[Lucca]],[19] in 13 books (1080-1086); that of Cardinal
 Deusdedit,[20] in 4 books, dedicated to Pope Victor III. (1086-1087);
 and lastly that of Bonizo,[21] bishop of Sutri, in 10 books (1089). In
 the 12th century, the canonical works of Ivo of Chartres[22] are of
@@ -715,7 +715,7 @@ Considered from the point of view of official authority, the _Decretum_
 occupies an intermediate position very difficult to define. It is not
 and cannot be a really official code, in which every text has the force
 of a law. It has never been recognized as such, and the pretended
-endorsement of it by Pope Eugenius III. is entirely apocryphal.
+endorsement of it by Pope [[Eugenius]] III. is entirely apocryphal.
 Moreover, it could not have become an official code; it would be
 impossible to transform into so many laws either the discordant texts
 which Gratian endeavoured to reconcile or his own _Dicta_; a treatise on
@@ -741,7 +741,7 @@ character. Henceforth a significant differentiation began to appear; the
 collections of texts, the number of which continued to increase, were
 clearly separated from the commentaries in which the canonists continued
 the formation and interpretation of the law. Thus the way was prepared
-for official collections. The disciples of Gratian, in glossing or
+for official collections. The [[Disciple|disciples]] of Gratian, in glossing or
 commenting on the _Decretum_, turned to the papal decretals, as they
 appeared, for information and the determination of doubtful points.
 Their idea, then, was to make collections of these points, to support
@@ -788,11 +788,11 @@ hexameter summing up this division:
   _Judex, judicium, clerus, connubia, crimen._
 
 This is the division adopted in all the official collections of the
-_Corpus juris_. By a bull of the 28th of December 1210 Innocent III.
+_Corpus juris_. By a [[Bull|bull]] of the 28th of December 1210 Innocent III.
 sent to the university of Bologna an authentic collection of the
 decretals issued during the first twelve years of his pontificate; this
 collection he had caused to be drawn up by his notary, Petrus
-Collivacinus of Benevento, his object being to supersede the collections
+Collivacinus of [[Benevento]], his object being to supersede the collections
 in circulation, which were incomplete and to a certain extent spurious.
 This was the _Compilatio tertia_; for soon after, Joannes Galensis (John
 of Wales) collected the decretals published between the collection of
@@ -1047,7 +1047,7 @@ number of pontifical constitutions, and of decrees emanating from the
 Roman Congregations, has greatly aggravated the situation; moreover, the
 attempts which have been made to resume the interrupted process of
 codification have entirely failed. As regards the texts, the canon law
-of to-day is in a very similar position to that of English law, which
+of to-day is in a very similar position to that of [[English Law|English law]], which
 gave rise to J.S. Mill's saying: "All ages of English history have given
 one another rendezvous in English law; their several products may be
 seen all together, not interfused, but heaped one upon another, as many
@@ -1267,7 +1267,7 @@ has been published.
   canonischen Rechts von Gratian bis auf die Gegenwart_ (3 vols.,
   Stuttgart, 1875 et. seq.). Manuals for the study of the sources: Ph.
   Schneider, _Die Lehre von den Kirchenrechtsquellen_ (Regensburg,
-  1892); F. Laurin, _Introductio in Corpus juris canonici_ (Freiburg,
+  1892); F. Laurin, _Introductio in Corpus juris canonici_ ([[Freiburg]],
   1889); Tardif, _Histoire des sources du droit canonique_ (Paris,
   1887). Most of the German manuals on canon law devote considerable
   space to the history of the sources: see Phillips, vol. ii (3rd ed.,
@@ -1529,7 +1529,7 @@ annual meeting of a purely episcopal synod, which was to receive appeals
 from either clergy or laity. In 1862-1863, another General Synod further
 revised and amended the Code of Canons. This revised code enabled the
 bishop to appoint a learned and discreet layman to act as his
-chancellor, to advise him in legal matters and be his assessor at
+chancellor, to advise him in legal matters and be his [[Assessor|assessor]] at
 diocesan synods. Assistant curates and mission priests were, under
 certain restrictions, given seats in diocesan synods. Male communicants
 were also permitted to be present at such synods, with a deliberative

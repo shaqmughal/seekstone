@@ -7,10 +7,10 @@ topic: religion-theory
 # Assam
 
 ASSAM, a former province of British India, which was amalgamated in 1905
-with "Eastern Bengal and Assam" (q.v.). Area 56,243 sq. m.; pop. (1901)
-6,126,343. The province of Assam lies on the N.E. border of Bengal, on
-the extreme frontier of the Indian empire, with Bhutan and Tibet beyond
-it on the N., and Burma and Manipur on the E. It comprises the valleys
+with "[[Eastern Bengal And Assam|Eastern Bengal and Assam]]" (q.v.). Area 56,243 sq. m.; pop. (1901)
+6,126,343. The province of Assam lies on the N.E. border of [[Bengal]], on
+the extreme frontier of the Indian empire, with [[Bhutan]] and Tibet beyond
+it on the N., and [[Burma]] and Manipur on the E. It comprises the valleys
 of the Brahmaputra and Surma rivers, together with the mountainous
 watershed which intervenes between them. It is situated between 24 deg.
 0' and 28 deg. 17' N. lat., and between 89 deg. 46' and 97 deg. 5' E.
@@ -20,24 +20,24 @@ successively Bhutias, Akas, Daphlas, Miris, Abors and Mishmis; on the
 N.E. by the Mishmi hills, which sweep round the head of the Brahmaputra
 valley; on the E. by the unexplored mountains that mark the frontier of
 Burma, by the hills occupied by the independent Naga tribes and by the
-state of Manipur; on the S. by the Lushai hills, the state of Hill
+state of Manipur; on the S. by the [[Lushai Hills|Lushai hills]], the state of Hill
 Tippera, and the Bengal district of Tippera; and on the W. by the Bengal
-districts of Mymensingh and Rangpur, the state of Kuch Behar and
-Jalpaiguri district.
+districts of Mymensingh and Rangpur, the state of [[Kuch Behar]] and
+[[Jalpaiguri]] district.
 
 _Natural Divisions._--Assam is naturally divided into three distinct
 tracts, the Brahmaputra valley, the Surma valley and the hill ranges
 between the two. The Brahmaputra valley is an alluvial plain, about 450
 m. in length, with an average breadth of 50 m., lying almost east and
-west. To the north is the main chain of the Himalayas, the lower ranges
+west. To the north is the main chain of the [[Himalaya|Himalayas]], the lower ranges
 of which rise abruptly from the plain; to the south is the great
 elevated plateau or succession of plateaus known as the Assam range. The
 various portions of this range are called by the names of the tribes who
 inhabit them--the Garo, the Khasi, the Jaintia, the North Cachar and the
 Naga hills. The range as a whole is joined at its eastern extremity by
 the Patkai to the Himalayan system, and by the mountains of Manipur to
-the Arakan Yoma. The highest points in the range are Nokrek peak (4600
-ft.) in the Garo hills, Shillong peak (6450 ft.) in the Khasi-Jaintia
+the [[Arakan]] Yoma. The highest points in the range are Nokrek peak (4600
+ft.) in the [[Garo Hills|Garo hills]], Shillong peak (6450 ft.) in the Khasi-Jaintia
 hills, and Japva peak (nearly 10,000 ft.) in the Naga hills. South of
 the range comes the third division of the province, the Surma valley,
 comprising the two districts of Cachar and Sylhet. The Surma valley is
@@ -47,14 +47,14 @@ sluggish.
 
   _Physical Aspects._--Assam is a fertile series of valleys, with the
   great channel of the Brahmaputra (literally, the _Son of Brahma_)
-  flowing down its middle, and an infinite number of tributaries and
+  flowing down its middle, and an [[Infinite|infinite]] number of tributaries and
   watercourses pouring into it from the mountains on either side. The
   Brahmaputra spreads out in a sheet of water several miles broad during
   the rainy season, and in its course through Assam forms a number of
   islands in its bed. Rising in the Tibetan plateau, far to the north of
   the Himalayas, and skirting round their eastern passes not far from
   the Yang-tsze-kiang and the great river of Cambodia, it enters Assam
-  by a series of waterfalls and rapids, amid vast boulders and
+  by a series of waterfalls and rapids, amid vast [[Boulder|boulders]] and
   accumulations of rocks. The gorge, situated in Lakhimpur district,
   through which the southernmost branch of the Brahmaputra enters, has
   from time immemorial been held in reverence by the Hindus. It is
@@ -63,7 +63,7 @@ sluggish.
   thousands of devotees. After a rapid course westwards down the whole
   length of the Assam valley, the Brahmaputra turns sharply to the
   south, spreading itself over the alluvial districts of the Bengal
-  delta, and, after several changes of name, ends its course of 1800 m.
+  [[Delta|delta]], and, after several changes of name, ends its course of 1800 m.
   in the Bay of Bengal. Its first tributaries in Assam, after crossing
   the frontier, are the Kundil and the Digaru, flowing from the Mishmi
   hills on the north, and the Tengapani and Dihing, which take their
@@ -79,17 +79,17 @@ sluggish.
   Tsangpo, but these were practically set at rest by the voyage of F.J.
   Needham in 1886. Below the confluence, the united stream flows in a
   south-westerly direction, forming the boundary between the districts
-  of Lakhimpur and Darrang, situated on its northern bank, and those of
+  of Lakhimpur and [[Darrang]], situated on its northern bank, and those of
   Sibsagar and Nowgong on the south; and finally bisecting Kamrup, it
   crosses over the frontier of the province and passes into Bengal. In
   its course it receives on the left side the Dihing, a river having its
   rise at the south-eastern angle of the province; and lower down, on
-  the opposite side, it parts with a considerable offset termed the Buri
+  the opposite side, it parts with a considerable offset termed the [[Buri]]
   Lohir, which, however, reunites with the Brahmaputra 60 m. below the
   point of divergence, bearing with it the additional waters of the
   Subansiri, flowing from Tibet. A second offset, under the name of the
   Kalang river, rejoins the parent stream a short distance above the
-  town of Gauhati. The remaining rivers are too numerous to be
+  town of [[Gauhati]]. The remaining rivers are too numerous to be
   particularized. The streams of the south are not rapid, and have no
   considerable current until May or June. Among the islands formed by
   the intersection and confluence of the rivers is Majuli, or the Great
@@ -101,7 +101,7 @@ sluggish.
   and east by the Himalayas, and thickly wooded from the base to the
   snow-line. On either bank of the Brahmaputra a long narrow strip of
   plain rises almost imperceptibly to the foot of the hills. Gigantic
-  reeds and grasses occupy the low lands near the banks of the great
+  reeds and [[Grasses|grasses]] occupy the low lands near the banks of the great
   river; expanses of fertile rice-land come next; a little higher up,
   dotted with villages encircled by groves of bamboos and fruit trees of
   great size and beauty, the dark forests succeed, covering the interior
@@ -119,7 +119,7 @@ sluggish.
 
   _Soils._--The soil is exceedingly rich and well adapted to all kinds
   of agricultural purposes, and for the most part is composed of a rich
-  black loam reposing on a grey sandy clay, though occasionally it
+  black [[Loam|loam]] reposing on a grey sandy clay, though occasionally it
   exhibits a light yellow clayey texture. The land may be divided into
   three great classes. The first division is composed of hills, the
   largest group within the valley being that of the Mikir Mountains,
@@ -130,7 +130,7 @@ sluggish.
   of the lands is the well-raised part of the valley whose level lies
   above the ordinary inundations of the Brahmaputra. The channels of
   some of the hill streams, however, are of so little depth that the
-  highest lands in their neighbourhood are liable to sudden floods. On
+  highest lands in their neighbourhood are liable to sudden [[Flood|floods]]. On
   the north bank of the great river, lands of this sort run down the
   whole length of the valley, except where they are interrupted by the
   beds of the hill streams. The breadth of these plains is in some
@@ -140,14 +140,14 @@ sluggish.
   deposits of the Brahmaputra and of its tributary streams may be
   considered as the third general division of lands in Assam. These
   lands are very extensive, and present every degree of fertility and
-  elevation, from the vast _chars_ of pure sand, subject to annual
+  elevation, from the vast _[[Char|chars]]_ of pure sand, subject to annual
   inundations, to the firm islands, so raised by drift-sand and the
   accumulated remains of rank vegetable matter, as no longer to be
   liable to flood. The rapidity with which wastes, composed entirely of
   sand newly washed forward by the current during floods, become
   converted into rich pasture is astonishing. As the freshets begin to
   lessen and retire into the deeper channels, the currents form natural
-  embankments on their edges, preventing the return of a small portion
+  [[Embankment|embankments]] on their edges, preventing the return of a small portion
   of water which is thus left stagnant on the sands, and exposed to the
   action of the sun's rays. It slowly evaporates, leaving a thin crust
   of animal and vegetable matter. This is soon impregnated with the
@@ -155,7 +155,7 @@ sluggish.
   partly brought by the winds and partly deposited by the water. Such
   places are frequented by numerous flocks of aquatic birds, which
   resort thither in search of fish and mollusca. As vegetation begins to
-  appear, herds of wild elephants and buffaloes are attracted by the
+  appear, herds of wild [[Elephant|elephants]] and [[Buffalo|buffaloes]] are attracted by the
   supply of food and the solitude of the newly-formed land, and in their
   turn contribute to manure the soil.
 
@@ -164,8 +164,8 @@ sluggish.
   neither. The older rocks are like those of Bengal, and the newer beds
   show no sign of either the Himalayan or the Burmese folding--on the
   top of the plateau they are nearly horizontal, but along the southern
-  margin they are bent sharply downwards in a simple monoclinal fold.
-  The greater part of the mass is composed of gneiss and schists. The
+  margin they are bent sharply downwards in a simple monoclinal [[Fold|fold]].
+  The greater part of the mass is composed of [[Gneiss|gneiss]] and schists. The
   Sylhet traps near the southern margin are correlated with the Rajmahal
   traps of Bengal. The older rocks are overlaid unconformably by
   Cretaceous beds, consisting chiefly of sandstones with seams of coal,
@@ -197,14 +197,14 @@ sluggish.
   1882; but by far the severest shock known is that which occurred on
   the evening of 12th June 1897. The area of this seismic disturbance
   extended over north-eastern India, from Manipur to Sikkim; but the
-  focus was in the Khasi and Garo hills. In the station of Shillong
-  every masonry building was levelled to the ground. Throughout the
+  [[Focus|focus]] was in the Khasi and Garo hills. In the station of Shillong
+  every [[Masonry|masonry]] building was levelled to the ground. Throughout the
   country bridges were shattered, roads were broken up like ploughed
-  fields, and the beds of rivers were dislocated. In the hills there
+  [[Fields|fields]], and the beds of rivers were dislocated. In the hills there
   were terrible landslips, which wrecked the little Cherrapunji railway
   and caused 600 deaths. The total mortality recorded was 1542,
   including two Europeans at Shillong. The levels of the country were so
-  affected that the towns of Goalpara and Barpeta became almost
+  affected that the towns of [[Goalpara]] and Barpeta became almost
   uninhabitable during the rains.
 
   _Fauna._--The zoology of Assam presents some interesting features.
@@ -214,30 +214,30 @@ sluggish.
   trained to decoy males into the snares prepared for subjecting them to
   captivity. A considerable number are tamed and exported from Assam
   every year. Many are killed every year in the forests for the sake of
-  the ivory which they furnish. The government _keddah_ establishment
-  from Dacca captures large numbers of elephants in the province, and
-  the right of hunting is also sold by auction to private bidders. The
+  the [[Ivory|ivory]] which they furnish. The government _keddah_ establishment
+  from [[Dacca]] captures large numbers of elephants in the province, and
+  the right of [[Hunting|hunting]] is also sold by auction to private bidders. The
   annual catch of the latter averages about two hundred. The rhinoceros
   is found in the denser parts of the forests and generally in swampy
-  places. This animal is hunted and killed for its skin and its horn.
+  places. This animal is hunted and killed for its skin and its [[Horn|horn]].
   The skin affords the material for the best shields. The horn is sacred
   in the eyes of the natives. Contrary to the usual belief, it is stated
   that, if caught young, the rhinoceros is easily tamed and becomes
   strongly attached to his keeper. Tigers abound, and though many are
   annually destroyed for the sake of the government reward, their
-  numbers seem scarcely, if at all, to diminish. Leopards and bears are
+  numbers seem scarcely, if at all, to diminish. [[Leopard|Leopards]] and bears are
   numerous; and the sand-badger, the _Arctonyx collaris_ of Cuvier, a
   small animal somewhat resembling a bear, but having the snout, eyes
   and tail of a hog, is found. Among the most formidable animals known
   is the wild buffalo or _gaur_ which is of great size, strength and
-  fierceness. The fox and the jackal exist, and the wild hog is very
-  abundant. Goats, deer of various kinds, hares, and two or three
-  species of antelope are found, as are monkeys in great variety. The
-  porcupine, the squirrel, the civet cat, the ichneumon and the otter
+  fierceness. The [[Fox|fox]] and the jackal exist, and the wild hog is very
+  abundant. Goats, deer of various kinds, [[Hare|hares]], and two or three
+  species of [[Antelope|antelope]] are found, as are monkeys in great variety. The
+  porcupine, the squirrel, the [[Civet|civet]] cat, the ichneumon and the otter
   are common. The birds are too various to admit of enumeration. Wild
-  game is plentiful; pheasants, partridges, snipe and water-fowl of many
+  [[Game|game]] is plentiful; pheasants, partridges, snipe and water-fowl of many
   descriptions make the country a tempting field for the sportsman.
-  Vultures and other birds of prey are met with. Crocodiles (commonly
+  Vultures and other birds of prey are met with. [[Crocodile|Crocodiles]] (commonly
   called alligators) swarm in all parts of the Brahmaputra, and are very
   destructive to the fish, of which hundreds of varieties are found, and
   which supply a valuable article of food. The most destructive of the
@@ -264,14 +264,14 @@ sluggish.
   acres under rice. In addition jute is grown to a considerable extent
   in Goalpara and Sylhet; cotton is grown in large quantities along the
   slopes of the Assam range. Rubber is grown in government plantations
-  and is also brought in by the hill tribes; while lac, mustard and
+  and is also brought in by the hill tribes; while [[Lac|lac]], mustard and
   potatoes are also produced.
 
   _Tea Plantations._--The most important article of commerce produced in
   Assam is tea. The rice crop covers a very great proportion of the
   cultivated land, but it is used for local consumption, and the
   Brahmaputra valley does not produce enough for its own consumption,
-  large quantities being imported for the coolies. The tea plantations
+  large quantities being imported for the [[Coolie|coolies]]. The tea plantations
   are the one great source of wealth to the province, and the
   necessities of tea cultivation are the chief stimulants to the
   development of Assam. The plant was discovered in 1823 by Mr Robert
@@ -282,9 +282,9 @@ sluggish.
   division of gunboats employed in some part of the operations, followed
   up the pursuit of the subject, and obtained several hundred plants and
   a considerable quantity of seed. Some specimens were ultimately
-  forwarded to the superintendent of the botanic garden at Calcutta. In
-  1832 Captain F. Jenkins was deputed by the governor-general of India,
-  Lord William Bentinck, to report upon the resources of the country,
+  forwarded to the superintendent of the botanic garden at [[Calcutta]]. In
+  1832 Captain F. [[Jenkins]] was deputed by the governor-general of India,
+  Lord William [[Bentinck]], to report upon the resources of the country,
   and the tea plant was brought to his especial notice by Mr Bruce; in
   1834 a minute was recorded by the governor-general on the subject, in
   which it is stated that his attention had been called to it in 1827
@@ -299,13 +299,13 @@ sluggish.
   indigenous here, and might be multiplied to any extent; another result
   of the Chinese mission, that of procuring persons skilled in the
   cultivation and manufacture of black tea, was of more material
-  benefit. Subsequently, under Lord Auckland, a further supply of
+  benefit. Subsequently, under Lord [[Auckland]], a further supply of
   Chinese cultivators and manufacturers was obtained--men well
   acquainted with the processes necessary for the production of green
   tea, as the former set were with those requisite for black. In 1838
   the first twelve chests of tea from Assam were received in England.
   They had been injured in some degree on the passage, but on samples
-  being submitted to brokers, and others of long experience and tried
+  being submitted to [[Broker|brokers]], and others of long experience and tried
   judgment, the reports were highly favourable. It was never, however,
   the intention of government to carry on the trade, but to resign it to
   private adventure as soon as the experimental course could be fairly
@@ -352,17 +352,17 @@ sluggish.
   restrictions, may be arrested without warrant by their employers. In
   addition to the labourers engaged under this act, a large number are
   employed under contract enforceable by Act XIII, of 1859, which
-  provides penalties for breach of the contract, but does not allow of
-  the arrest of deserters without warrant. Neither does this act
+  provides penalties for [[Breach|breach]] of the contract, but does not allow of
+  the [[Arrest|arrest]] of deserters without warrant. Neither does this act
   regulate in any way the terms of the contract, nor contain any special
   provisions for the protection of the labourer. Many labourers on the
   conclusion of their first engagement under Act VI. of 1901 enter into
   renewed contracts under Act XIII. of 1859. In 1905 there were in all
-  664,296 labourers, and 24,209 fresh importations, of whom 62% chose
+  664,296 labourers, and 24,209 fresh importations, of whom 62% [[Chose|chose]]
   the old act.
 
   _Railways._--The Assam-Bengal railway runs from the seaport of
-  Chittagong to the Surma valley, and thence across the hills to
+  [[Chittagong]] to the Surma valley, and thence across the hills to
   Dibrugarh, at the head of the Brahmaputra valley, with a branch to
   Gauhati lower down the Brahmaputra. The hill section of this line was
   found exceedingly difficult of construction, and extensive damage was
@@ -378,11 +378,11 @@ sluggish.
   Brahmaputra valley steamers carry as much as 86% of the exports, and
   94% of the imports. In the Surma valley native boats carry about 43%
   of both. In 1904-1905 the total exports were valued at 726 lakhs of
-  rupees. The chief items were tea, rice in the husk, oil-seeds,
+  rupees. The chief [[Item|items]] were tea, rice in the husk, oil-seeds,
   tea-seed, timber, coal and jute. The imports were valued at 457 lakhs
   of rupees. The chief items were cotton piece-goods, rice not in the
   husk, sugar, grain and pulse, salt, iron and steel, tobacco, cotton
-  twist and yarn, and brass and copper. No less than two-thirds of the
+  twist and yarn, and [[Brass|brass]] and copper. No less than two-thirds of the
   total trade is conducted with Calcutta. The trans-frontier trade is
   insignificant; and most of it is conducted with the Bengal state of
   Hill Tippera. The trade through Chittagong is increasing owing to the
@@ -400,19 +400,19 @@ only 5.9% in the decade, and with the immigrants deducted 1.36%. Amongst
 native-born Assamese during the decade there was a serious decrease in
 Nowgong and some other districts, due to _kalaazar_ and other diseases.
 The Assamese are an interesting race, of distinct origin from the
-neighbouring Bengalis. A large proportion of them derive their origin
+neighbouring [[Bengali|Bengalis]]. A large proportion of them derive their origin
 from tribes who came from the Himalayan ranges, from Burma or from the
 Chinese frontier. The most important of these are the Ahoms or Ahams, an
 offshoot of the Shan race of northern Burma. They were the last
 conquerors of Assam before the Burmese, and they long preserved their
-ancient traditions, habits and institutions. Hinduism first made its
+ancient traditions, habits and institutions. [[Hinduism]] first made its
 encroachments among their kings and nobility. Several generations ago
-they gave up eating beef, and they are now completely Hinduized, except
+they gave up eating [[Beef|beef]], and they are now completely Hinduized, except
 in a few remote recesses of Assam. Hinduism has also impressed its
 language upon the province, and the vernacular Assamese possesses a
 close affinity to Bengali, with the substitution of _s_ for the Bengali
 _ch_, of a guttural _h_ for the Bengali _h_ or _sh_, and a few other
-dialectic changes. Indeed, so close was the resemblance that for a time
+[[Dialectic|dialectic]] changes. Indeed, so close was the resemblance that for a time
 Bengali was used as the court and official language of the province
 under British rule. But with the development of the country the Assamese
 tongue asserted its claims to be treated as a distinct vernacular, and a
@@ -427,7 +427,7 @@ demand made upon him for money, saving the light rental of his fields.
 Under the peaceful influences of British rule, he has completely lost
 his ancient warlike instincts, and forgotten his predatory habits. In
 complexion he is a shade or two fairer than the Bengali. His person is
-in general short and robust, but devoid of the grace and flexibility of
+in general short and robust, but devoid of the [[Grace|grace]] and flexibility of
 the Hindu. A flat face, with high cheek-bones, presents a physiognomy
 resembling the Chinese, and suggests no idea of beauty. His hair is
 abundant, black, lank and coarse, but the beard is scanty, and usually
@@ -437,10 +437,10 @@ than is commonly seen in the women of Bengal, with a form and feature
 somewhat approaching the European. The habits of life of the Assamese
 peasantry are pre-eminently domestic. Great respect is paid to old age;
 when parents are no longer capable of labour they are supported by their
-children, and scarcely any one is allowed to become a burden to the
+children, and scarcely any one is allowed to become a [[Burden|burden]] to the
 public. They have also in general a very tender regard for their
 offspring, and are generous and kind to their relations. They are
-hospitable to people of their own caste, but to no others. The use of
+hospitable to people of their own [[Caste|caste]], but to no others. The use of
 opium is very general.
 
 _Hill Tribes._--The hill and frontier tribes of Assam include the Nagas,
@@ -451,12 +451,12 @@ who inhabit the hills and forests along the eastern and south-eastern
 frontier of Assam. They reside partly in the British district of the
 Naga hills and partly in independent territory under the political
 control of the deputy-commissioner of the adjoining districts. They
-cultivate rice, cotton, yams and Indian corn, and prepare salt from the
+cultivate rice, cotton, yams and Indian [[Corn|corn]], and prepare salt from the
 brine springs in their hills. The different tribes of Nagas are
 independent of and unconnected with one another, and are often at war
 with each other. The Singphos are another of the main population of the
 same race, who occupy in force the hilly country between the Patkai and
-Chindwin rivers, and are nominally subject to Burma. The Akas, Daphlas,
+[[Chindwin]] rivers, and are nominally subject to Burma. The Akas, Daphlas,
 Miris, Abors, Mishmis and Khamtis are described under separate headings.
 Under regulation V. of 1873, an inner line has been laid down in certain
 districts, up to which the protection of British authority is
@@ -482,14 +482,14 @@ invasion by the Burmese towards the end of the 18th century, and its
 final cession to the British in 1826. It seems to have been originally
 included, along with the greater part of north-eastern Bengal, in the
 old Hindu territory of Kamrup. Its early legends point to great
-religious revolutions between the rival rites of Krishna and Siva as a
+religious revolutions between the rival rites of [[Krishna]] and Siva as a
 source of dynastic changes. Its roll of kings extends deep into
 prehistoric times, but the first rajah capable of indentification
 flourished about the year 76 A.D. Kamrup, the Pragjotishpur of the
 ancient Hindus, was the capital of a legendary king Narak, whose son
 Bhagadatta distinguished himself in the great war of the _Mahabharata_.
 
-When Hsuan Tsang visited the country in A.D. 640, a prince named Kumar
+When [[Hsuan Tsang]] visited the country in A.D. 640, a prince named Kumar
 Bhaskara Barman was on the throne. The people are described as being of
 small stature with dark yellow complexions; they were fierce in
 appearance, but upright and studious. Hinduism was the state religion,
@@ -505,15 +505,15 @@ the Assam valley. In the early part of the 13th century the Ahoms or
 Ahams, from northern Burma and the Chinese frontiers, poured into the
 eastern districts of Assam, founded a kingdom, and held it firmly for
 several centuries. The Ahoms were Shans from the ancient Shan kingdom of
-Pong. Their manners, customs, religion and language were, and for a long
+Pong. Their [[Manners|manners]], customs, religion and language were, and for a long
 time continued to be, different from those of the Hindus; but they found
 themselves compelled to respect the superior civilization of this race,
-and slowly adopted its customs and language. The conversion of their
+and slowly adopted its customs and language. The [[Conversion|conversion]] of their
 king Chuchengpha to Hinduism took place in the year A.D. 1655, and all
 the Ahoms of Assam gradually followed his example. In medieval history,
 the Assamese were known to the Mussulman population as a warlike,
 predatory race, who sailed down the Brahmaputra in fleets of innumerable
-canoes, plundered the rich districts of the delta, and retired in safety
+[[Canoe|canoes]], plundered the rich districts of the delta, and retired in safety
 to their forests and swamps. As the Mahommedan power consolidated itself
 in Bengal, repeated expeditions were sent out against these river
 pirates of the north-east. The physical difficulties which an invading
@@ -529,7 +529,7 @@ Assamese descended the Brahmaputra, and pillaged the country round the
 city of Dacca; they were expelled by the governor of Bengal, who
 retaliated upon the plunderers by ravaging Assam. During the civil wars
 between the sons of Shah Jahan, the king of Assam renewed his predatory
-incursions into Bengal; upon the termination of the contest, Aurangzeb
+incursions into Bengal; upon the termination of the contest, [[Aurangzeb]]
 determined to avenge these repeated insults, and despatched a
 considerable force for the regular invasion of the Assamese territory
 (1660-1662). His general, Mir Jumla, defeated the rajah, who fled to the
@@ -543,7 +543,7 @@ Assamese have sheltered themselves in strong posts, and have distressed
 the enemy by stratagems, surprises and alarms, and by cutting off their
 provisions. If these means failed, they have declined a battle in the
 field, but have carried the peasants into the mountains, burned the
-grain and left the country desert. But when the rainy season has set in
+grain and left the country [[Desert|desert]]. But when the rainy season has set in
 upon the advancing enemy, they have watched their opportunity to make
 excursions and vent their rage; the famished invaders have either become
 their prisoners or been put to death. In this manner powerful and
@@ -559,9 +559,9 @@ opposed by thick and dangerous jungles, and broad and boisterous rivers.
 The difficulties in the way of successful invasion are of course not
 understated, as it was the object of the writer to exalt the prowess and
 perseverance of the faithful. He accounts for their temporary success by
-recording that "the Mussulman hordes experienced the comfort of fighting
+recording that "the Mussulman [[Horde|hordes]] experienced the comfort of fighting
 for their religion, and the blessings of it reverted to the sovereignty
-of his just and pious majesty." The short-lived triumph of the
+of his just and pious [[Majesty|majesty]]." The short-lived triumph of the
 Mussulmans might, however, have warranted a less ambitious tone. About
 the middle of the 17th century the chief became a convert to Hinduism.
 By what mode the conversion was effected does not clearly appear, but
@@ -572,10 +572,10 @@ prince nor people enjoyed security. Late in the 18th century some
 interference took place on the part of the British government, then
 conducted by Lord Cornwallis; but the successor of that nobleman, Sir
 John Shore, adopting the non-intervention policy, withdrew the British
-force, and abandoned the country to its fate. Its condition encouraged
-the Burmese to depose the rajah, and to make Assam a dependency of Ava.
+force, and abandoned the country to its [[Fate|fate]]. Its condition encouraged
+the Burmese to depose the rajah, and to make Assam a dependency of [[Ava]].
 The extension of their encroachments on a portion of the territory of
-the East India Company compelled the British government to take decisive
+the [[East India Company]] compelled the British government to take decisive
 steps for its own protection. Hence arose the series of hostilities with
 Ava known in Indian history as the first Burmese War, on the termination
 of which by treaty in February 1826, Assam remained a British

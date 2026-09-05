@@ -35,13 +35,13 @@ positive, a widely extending patch is seen on the plate, consisting of a
 dense nucleus, from which branches radiate in all directions; if
 negative the patch is much smaller and has a sharp circular boundary
 entirely devoid of branches. If the plate receives a mixed charge, as,
-for example, from an induction coil, a "mixed" figure results,
+for example, from an [[Induction|induction]] coil, a "mixed" figure results,
 consisting of a large red central nucleus, corresponding to the negative
 charge, surrounded by yellow rays, corresponding to the positive charge.
 The difference between the positive and negative figures seems to depend
 on the presence of the air; for the difference tends to disappear when
 the experiment is conducted in vacuo. Riess explains it by the negative
-electrification of the plate caused by the friction of the water vapour,
+electrification of the plate caused by the [[Friction|friction]] of the water vapour,
 &c., driven along the surface by the explosion which accompanies the
 disruptive discharge at the point. This electrification would favour the
 spread of a positive, but hinder that of a negative discharge. There is,
@@ -50,7 +50,7 @@ peculiarities of positive and negative brush and other discharge in air.
 
 As a satirist and humorist Lichtenberg takes high rank among the German
 writers of the 18th century. His biting wit involved him in many
-controversies with well-known contemporaries, such as Lavater, whose
+controversies with well-known contemporaries, such as [[Lavater]], whose
 science of physiognomy he ridiculed, and Voss, whose views on Greek
 pronunciation called forth a powerful satire, _Über die Pronunciation
 der Schöpse des alten Griechenlandes_ (1782). In 1769 and again in 1774

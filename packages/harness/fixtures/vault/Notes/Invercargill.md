@@ -19,7 +19,7 @@ and there is a fine open reserve. The harbour is deep and well
 sheltered, but the greater part of the trade passes through the
 neighbouring Bluff Harbour, on which is Campbelltown, 17 m. S. of
 Invercargill by rail. Bluff Harbour is the port of call and departure
-for steamers for Melbourne and Hobart. Exports are wool, preserved meat
+for steamers for Melbourne and [[Hobart]]. Exports are wool, preserved [[Meat|meat]]
 and timber. The district of Southland was surveyed in 1841, but was
 reported unfavourable, and settlement was delayed till 1857. Southland
 was a separate province between 1860 and 1870, but, failing financially

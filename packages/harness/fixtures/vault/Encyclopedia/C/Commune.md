@@ -12,7 +12,7 @@ introduced by the Germanic invaders. It is largely for the latter reason
 that it seems advisable to begin with an account of the German towns,
 the term German to correspond to the limits of the old kingdom of
 Germany, comprising the present empire, German Austria, German
-Switzerland, Holland and a large portion of Belgium. In their
+Switzerland, Holland and a large portion of [[Belgium]]. In their
 development the problem, as it were, worked out least tainted by foreign
 interference, showing at the same time a rich variety in detail; and it
 may also be said that their constitutional and economic history has been
@@ -47,29 +47,29 @@ all officers for the town's government. The chief of these was usually
 the _advocatus_ or _Vogt_, some neighbouring noble who served as the
 proctor of the church in all secular affairs. It was his business to
 preside three times a year over the chief law-court, the so-called
-_echte_ or _ungebotene Ding_, under the cognizance of which fell all
+_echte_ or _ungebotene Ding_, under the [[Cognizance|cognizance]] of which fell all
 cases relating to real property, personal freedom, bloodshed and
 robbery. For the rest of the legal business and as president of the
 ordinary court he appointed a _Schultheiss_, _centenarius_ or
 _causidicus_. Other officers were the _Burggraf_[2] or _praefectus_ for
 military matters, including the preservation of the town's defences,
 walls, moat, bridges and streets, to whom also appertained some
-jurisdiction over the craft-gilds in matters relating to their crafts;
+jurisdiction over the craft-gilds in matters relating to their [[Craft|crafts]];
 further the customs-officer or _teleonarius_ and the mint-master or
 _monetae magister_. It was not, however, the fact of their being placed
 under the bishop that constituted these towns as separate jurisdictional
 units. The chief feature rather is the existence within their walls of a
 special law, distinct in important points from that of the country at
 large. The towns enjoyed a special peace, as it was called, i.e.
-breaches of the peace were more severely punished if committed in a town
+[[Breach|breaches]] of the peace were more severely punished if committed in a town
 than elsewhere. Besides, the inhabitants might be sued before the town
 court only, and to fugitives from the country who had taken refuge in
 the town belonged a similar privilege. This special legal status
 probably arose from the towns being considered in the first place as the
 king's fortresses[3] or burgs (see BOROUGH), and, therefore, as
 participating in the special peace enjoyed by the king's palace. Hence
-the terms "burgh," "borough" in English, _baurgs_ in Gothic, the
-earliest Germanic designations for a town; "burgher," "burgess" for its
+the terms "burgh," "borough" in English, _baurgs_ in [[Gothic]], the
+earliest Germanic designations for a town; "burgher," "[[Burges|burgess]]" for its
 inhabitants. What struck the townless early Germans most about the Roman
 towns was their mighty walls. Hence they applied to all fortified
 habitations the term in use for their own primitive fortifications; the
@@ -81,7 +81,7 @@ The new towns in the interior of Germany were founded on land belonging
 to the founder, some ecclesiastical or lay lord, and frequently
 adjoining the cathedral close of one of the new sees or the lord's
 castle, and they were laid out according to a regular plan. The most
-important feature was the market-square, often surrounded by arcades
+important feature was the market-square, often surrounded by [[Arcade|arcades]]
 with stalls for the sale of the principal commodities, and with a number
 of straight streets leading thence to the city gates.[4] As for the
 fortifications, some time naturally passed before they were completed.
@@ -98,14 +98,14 @@ would at first be mainly agricultural. The new towns, on the other hand,
 general economic conditions having meanwhile begun to undergo a marked
 change, were founded with the intention of establishing centres of
 trade. Periodical markets, weekly or annual, had preceded them, which
-already enjoyed the special protection of the king's ban, acts of
+already enjoyed the special protection of the king's [[Ban|ban]], acts of
 violence against traders visiting them or on their way towards them
 being subject to special punishment. The new towns may be regarded as
 markets made permanent. The settlers invited were merchants (_mercatores
 personati_) and handicraftsmen. The land now allotted to each member of
 the community was just large enough for a house and yard, stabling and
-perhaps a small garden (50 by 100 ft. at Freiburg, 60 by 100 ft. at
-Bern). These building plots were given as free property or, more
+perhaps a small garden (50 by 100 ft. at [[Freiburg]], 60 by 100 ft. at
+[[Bern]]). These building plots were given as free property or, more
 frequently, at a merely nominal rent (_Wurtzins_) with the right of free
 disposal, the only obligation being that of building a house. All that
 might be required besides would be a common for the pasture of the
@@ -156,7 +156,7 @@ it further extended to breaches of the peace. And, finally, it raised
 funds by means of an excise-duty, _Ungeld_ (cf. the English _malatolta_)
 or _Accise_, _Zeise_. In the older and larger towns it soon went beyond
 what the bishops thought proper to tolerate; conflicts ensued; and in
-the 13th century several bishops obtained decrees in the imperial court,
+the 13th century several bishops obtained [[Decree|decrees]] in the imperial court,
 either to suppress the _Rat_ altogether, or to make it subject to their
 nomination, and more particularly to abolish the _Ungeld_, as
 detrimental to episcopal finances. In the long run, however, these
@@ -171,7 +171,7 @@ existed, no doubt also influence the management of town affairs; but
 nowhere has the _Rat_, as used to be thought, developed out of a gild,
 nor has the latter anywhere in Germany played a part at all similar in
 importance to that of the English gild merchant, the only exception
-being for a time the _Richerzeche_, or Gild of the Rich of Cologne, from
+being for a time the _Richerzeche_, or Gild of the Rich of [[Cologne]], from
 early times by far the largest, the richest, and the most important
 trading centre among German cities, and therefore provided with an
 administration more complex, and in some respects more primitive, than
@@ -192,7 +192,7 @@ wishes of the clerical authorities, the other powers could not in the
 long run be withheld, including that of forcing all followers of any
 craft to join the gild (_Zunftzwang_). Thus the official inspection of
 markets, community of interests on the part of the craftsmen, and
-co-operation for social and religious ends, worked together in the
+[[Co-Operation|co-operation]] for social and religious ends, worked together in the
 formation of craft-gilds. It is not suggested that in each individual
 town the rise of the gilds was preceded by an organization of crafts on
 the part of the lord and his officers; but it is maintained that as a
@@ -233,7 +233,7 @@ much more numerous than the former, consisted of those founded on
 demesne-land belonging either to the Empire or to one of the families
 who rose to imperial rank. This class was largely reinforced, when after
 the extinction of the royal house of Hohenstaufen in the 13th century, a
-great number of towns founded by them on their demesne successfully
+great number of towns founded by them on their [[Demesne|demesne]] successfully
 claimed immediate subjection to the crown. About this time, during the
 interregnum, a federation of more than a hundred towns was formed,
 beginning on the Rhine, but spreading as far as Bremen in the north,
@@ -242,7 +242,7 @@ helping to preserve the peace. After the death of King William in 1256,
 they resolved to recognize no king unless unanimously elected. This
 league was joined by a powerful group of princes and nobles and found
 recognition by the prince-electors of the Empire; but for want of
-leadership it did not stand the test, when Richard of Cornwall and
+leadership it did not stand the test, when Richard of [[Cornwall]] and
 Alphonso of Castile were elected rival kings in 1257.[8] In the
 following centuries the imperial cities in south Germany, where most of
 them were situated, repeatedly formed leagues to protect their interests
@@ -251,12 +251,12 @@ were waged; but no great political issue found solution, the relative
 position of the parties after each war remaining much what it had been
 before. On the part of the towns this was mainly due to lack of
 leadership and of unity of purpose. At the time of the Reformation the
-imperial towns, like most of the others, stood forward as champions of
+imperial towns, like most of the others, stood forward as [[Champion|champions]] of
 the new cause and did valuable service in upholding and defending it.
 After that, however, their political part was played out, mainly because
 they proved unable to keep up with modern conditions of warfare. It
 should be stated that seven among the episcopal cities, viz. Cologne,
-Mainz, Worms, Spires, Strassburg, Basel and Regensburg, claimed a
+[[Mainz]], Worms, Spires, Strassburg, [[Basel]] and Regensburg, claimed a
 privileged position as "Free Cities," but neither is the ground for this
 claim clearly established, nor its nature well defined. The general
 obligations of the imperial cities towards the Empire were the payment
@@ -267,19 +267,19 @@ early date, as unredeemed pledges to some prince who had advanced money
 to the emperor. Others seceded as members of the Swiss Confederation.
 But a considerable number survived until the reorganization of the
 Empire in 1803. At the peace in 1815, however, only four were spared,
-namely, Frankfort, Bremen, Hamburg and Lübeck, these being practically
+namely, [[Frankfort]], Bremen, [[Hamburg]] and Lü[[Beck|beck]], these being practically
 the only ones still in a sufficiently flourishing and economically
 independent position to warrant such preferential treatment. But finally
 Frankfort, having chosen the wrong side in the war of 1866, was annexed
 by Prussia, and only the three seaboard towns remain as full members of
 the new confederate Empire under the style of _Freie und Hansestädte_.
 But until modern times most of the larger _Landstädte_ or mesne-towns
-for all intents and purposes were as independent under their lords as
+for all [[Intent|intents]] and purposes were as independent under their lords as
 the imperial cities were under the emperor. They even followed a foreign
 policy of their own, concluded treaties with foreign powers or made war
-upon them. Nearly all the _Hanseatic towns_ belonged to this category.
-With others like Bremen, Hamburg and Magdeburg, it was long in the
-balance which class they belonged to. All towns of any importance,
+upon them. Nearly all the _Hanseatic towns_ belonged to this [[Category|category]].
+With others like Bremen, Hamburg and [[Magdeburg]], it was long in the
+[[Balance|balance]] which class they belonged to. All towns of any importance,
 however, were for a considerable time far ahead of the principalities in
 administration. It was largely this fact that gave them power. When,
 therefore, from about the 15th century the princely territories came to
@@ -304,7 +304,7 @@ Certain leading political economists, notably K. Bücher (_Die
 Bevölkerung von Frankfurt a. M. im 14ten und 15ten Jahrhundert_, i.,
 Tübingen, 1886; _Die Entstehung der Volkswirtschaft_, 5th ed., Tübingen,
 1906), and, in a modified form, W. Sombart (_Der moderne Kapitalismus_,
-2 vols., Leipzig, 1902), have propounded the doctrine of one gradual
+2 vols., Leipzig, 1902), have propounded the doctrine of one [[Gradual|gradual]]
 progression from an agricultural state to modern capitalistic
 conditions. This theory, however, is nothing less than an outrage on
 history. As a matter of fact, as far as modern Europe is concerned,
@@ -324,14 +324,14 @@ lower strata of the population to power played an important part.
 
 The craft-gilds had remained subordinate to the _Rat_, but by-and-by
 they claimed a share in the government of the towns. Originally any
-inhabitant holding a certain measure of land, freehold or subject to the
+inhabitant holding a certain measure of land, [[Freehold|freehold]] or subject to the
 mere nominal ground-rent above-mentioned, was a full citizen
 independently of his calling, the clergy and the lord's retainers and
-servants of whatever rank, who claimed exemption from scot and lot, to
+servants of whatever rank, who claimed exemption from scot and [[Lot|lot]], to
 use the English formula, alone excepted. The majority of the artisans,
 however, were not in this happy position. Moreover, the town council,
 instead of being freely elected, filled up vacancies in its ranks by
-co-optation, with the result that all power became vested in a limited
+[[Co-Optation|co-optation]], with the result that all power became vested in a limited
 number of rich families. Against this state of things the crafts
 rebelled, alleging mismanagement, malversation and the withholding of
 justice. During the 14th and 15th centuries revolutions and
@@ -348,7 +348,7 @@ Swabian League in the 14th century. At home, whereas at first markets
 had been free and open to any comer, a more and more protective policy
 set in, traders from other towns being subjected more and more to
 vexatious restrictions. It was also made increasingly difficult to
-obtain membership in the craft-gilds, high admission fees and so-called
+obtain membership in the craft-gilds, high admission [[Fee|fees]] and so-called
 masterpieces being made a condition. Finally, the number of members
 became fixed, and none but members' sons and sons-in-law, or members'
 widows' husbands were received. The first result was the formation of a
@@ -362,7 +362,7 @@ Those cities, on the other hand, where the mercantile community remained
 in power, like Nuremberg and the seaboard towns, on the whole followed a
 more enlightened policy, although even they could not quite keep clear
 of the ever-growing protective tendencies of the time. Many even of the
-richer towns, notably Nuremberg, ran into debt irretrievably, owing
+richer towns, notably Nuremberg, ran into [[Debt|debt]] irretrievably, owing
 partly to an exorbitant expenditure on magnificent public buildings and
 extensive fortifications, calculated to resist modern instruments of
 destruction, partly to a faulty administration of the public debt. From
@@ -376,9 +376,9 @@ _legislation_. Their law was founded originally on the general national
 (or provincial) law, on custom, and on special privilege. New
 foundations were regularly provided by their lord with a charter
 embodying the most important points of the special law of the town in
-question. This miniature code would thenceforth be developed by means of
+question. This miniature [[Code|code]] would thenceforth be developed by means of
 statutes passed by the town council. The codification of the law of
-Augsburg in 1276 already fills a moderate volume in print (ed. by
+[[Augsburg]] in 1276 already fills a moderate volume in print (ed. by
 Christian Meyer, Augsburg, 1872). Later foundations were frequently
 referred by their founders to the nearest existing town of importance,
 though that might belong to a different lord. Afterwards, if a question
@@ -403,13 +403,13 @@ run fell under the sway of some local tyrant-dynasty.
 
 From Roman times the country had remained thickly studded with towns,
 each being the seat of a bishop. From this arose their most important
-peculiarity. For it was largely due to an identification of dioceses and
+peculiarity. For it was largely due to an [[Identification|identification]] of dioceses and
 municipal territories that the nobles of the surrounding country took up
 their headquarters in the cities, either voluntarily or because forced
 to do so by the citizens, who made it their policy thus to turn possible
 opponents into partisans and defenders. In Germany, on the other hand,
-nobles and knights were carefully shut out so long as the town's
-independence was at stake, the members of a princely garrison being
+nobles and [[Knight|knights]] were carefully shut out so long as the town's
+independence was at stake, the members of a princely [[Garrison|garrison]] being
 required to take up their abode in the citadel, separated from the town
 proper by a wall. Only in the comparatively few cathedral cities this
 rule does not obtain. It will be seen that, in consequence of this,
@@ -424,8 +424,8 @@ all through the barbarian invasions had kept their walls in repair and
 maintained some importance as economic centres, and whose _popolo_
 largely consisted of merchants of some standing. As early as the 8th
 century the laws of the Langobard King Aistulf distinguished three
-classes of merchants (_negotiantes_), among whom the _majores et
-potentes_ were required to keep themselves provided with horse, lance,
+classes of merchants (_negotiantes_), among whom the _[[Major|majores]] et
+potentes_ were required to keep themselves provided with horse, [[Lance|lance]],
 shield and a cuirass. The valley of the Po formed the main artery of
 trade between western Europe and the East, Milan being besides the point
 of convergence for all Alpine passes west of the Brenner (the St
@@ -443,7 +443,7 @@ weak successors the independence of the cities reached such a pitch as
 to be manifestly intolerable to an energetic monarch like Frederick I.
 Besides, the more powerful among them would subdue or destroy their
 weaker neighbours, and two parties were formed, one headed by Milan, the
-other by Cremona. Como and Lodi complained of the violence used to them
+other by Cremona. [[Como]] and Lodi complained of the violence used to them
 by the former city. Therefore in 1158 a commission was appointed
 embracing four Roman legists as representatives of the emperor, as well
 as those of fourteen towns, to examine into the imperial and municipal
@@ -477,13 +477,13 @@ _judices_ also presided in the law-courts; but besides the consuls of
 the commune there were _consules de placitis_ specially appointed for
 jurisdictional purposes.
 
-In spite of these multifarious safeguards, however, family factions
+In spite of these multifarious safeguards, however, family [[Faction|factions]]
 early destroyed the fabric of liberty, especially as, just as there was
 an imperial, or Ghibelline, and a papal, or Guelph party among the
 cities as a whole, thus also within each town each faction would allege
 adherence to and claim support by one or other of the great
-world-powers. To get out of the dilemma of party-government, resort was
-thereupon had to the appointment as chief magistrate of a _podestà_ from
+world-powers. To get out of the [[Dilemma|dilemma]] of party-government, resort was
+thereupon had to the appointment as chief [[Magistrate|magistrate]] of a _podestà_ from
 among the nobles or knights of a different part of the country not mixed
 up with the local feuds. But the end was in most cases the establishment
 of the despotism of some leading family, such as the Visconti at Milan,
@@ -492,13 +492,13 @@ Padua.
 
 In Tuscany, the historic rôle of the cities, with the exception of Pisa,
 begins at a later date, largely owing to the overlordship of the
-powerful margraves of the house of Canossa and their successors, who
+powerful margraves of the house of [[Canossa]] and their successors, who
 here represented the emperor. Pisa, however, together with Genoa, all
 through the 11th century distinguished itself by war waged in the
 western Mediterranean and its isles against the Saracens. Both cities,
 along with Venice, but especially the Genoese, also did excellent
 service in reducing the Syrian coast towns still in the hands of the
-Turks in the reigns of Kings Baldwin I. and Baldwin II. of Jerusalem,
+Turks in the reigns of Kings [[Baldwin]] I. and Baldwin II. of Jerusalem,
 while more particularly Pisa with great constancy placed her fleet at
 the disposal of the Hohenstaufen emperors for warfare with Sicily.
 
@@ -517,7 +517,7 @@ changes. As early as the 13th century the lower orders among the
 inhabitants formed an organization under officers of their own, side by
 side with that of the commune, which was controlled by the great and the
 rich; e.g. at Florence the people in 1250 rose against the turbulent
-nobles and chose a _capitano del popolo_ with twelve _anziani_, two from
+nobles and [[Chose|chose]] a _capitano del popolo_ with twelve _anziani_, two from
 each of the six city-wards (_sestieri_), as his council. The _popolo_
 itself was divided into twenty armed companies, each under a
 _gonfaloniere_. But later the _arti_ (craft-gilds), some of whom,
@@ -533,7 +533,7 @@ della giustizia_ was placed at the head of the militia. In the 14th
 century twelve _buoni uomini_ representing the wards (_sestieri_) were
 superadded, all these dignitaries holding office for two months only.
 And besides all these, there existed three competing chief justices and
-commanders of the forces called in from abroad and holding office for
+[[Commander|commanders]] of the forces called in from abroad and holding office for
 six months, viz. the _podestà_, the _capitano del popolo_, and the
 _esecutore della giustizia_. In spite of all this complicated machinery
 of checks and balances, revolution followed upon revolution, nor could
@@ -545,7 +545,7 @@ quieter times ensued under the wise leadership, first of the Albizzi and
 finally of the Medici.
 
 The history of the other Tuscan towns was equally tumultuous, all of
-them save Lucca, after many fitful changes finally passing under the
+them save [[Lucca]], after many fitful changes finally passing under the
 sway of Florence, or the grand-duchy of Tuscany, as the state was now
 called. Pisa, one time the mightiest, had been crushed between its
 inland neighbour and its maritime rival Genoa (battle of Meloria, 1282).
@@ -555,7 +555,7 @@ and it might be added, in Europe, stands Venice. Almost alone among
 Italian cities its origin does not go back to Roman times. It was not
 till the invasions of Hun and Langobard that fugitives from the Venetian
 mainland took refuge among the poor fishermen on the small islands in
-the lagoons and on the _lido_--the narrow stretch of coast-line which
+the [[Lagoon|lagoons]] and on the _lido_--the narrow stretch of coast-line which
 separates the lagoons from the Adriatic--some at Grado, some at
 Malamocco, others on Rialto. A number of small communities was formed
 under elected tribunes, acknowledging as their sovereign the emperor at
@@ -578,12 +578,12 @@ suffered naval defeat, it was deemed necessary to introduce a stricter
 constitutional order. According to the orthodox account, some details of
 which have, however, recently been impugned,[11] the irregular popular
 meeting was replaced by a great council of from 450 to 480 members
-elected annually by special appointed electors in equal proportion from
+elected annually by special appointed [[Electors|electors]] in equal proportion from
 each of the six wards. One of the functions of this body was to appoint
 most of the state officials or their electors. There was also an
 executive council of six, one from each ward. Besides these, the duke,
 who was henceforward elected by a body of eleven electors from among the
-aristocracy, would invite persons of prominence (the _pregadi_) in order
+[[Aristocracy|aristocracy]], would invite persons of prominence (the _pregadi_) in order
 to secure their assent and co-operation, whenever a measure of
 importance was to be placed before the great council. Only under
 extraordinary circumstances the _concio_ was still to be called. The
@@ -612,12 +612,12 @@ the laws. Too much stability, however, finally changed into stagnation,
 and decay followed. The foreign policy of Venice was likewise mainly
 dictated by commercial motives, the chief objectives being commercial
 privilege in the Byzantine empire and in the Frankish states in the
-East, domination of the Adriatic, occupation of a sufficient hinterland
+East, domination of the Adriatic, occupation of a sufficient [[Hinterland|hinterland]]
 on the _terra firma_, non-sufferance of the rivalry of Genoa, and,
-finally, maintenance of trade-supremacy in the eastern Mediterranean
+finally, [[Maintenance|maintenance]] of trade-supremacy in the eastern Mediterranean
 through a series of alternating wars and treaties with Turkey, the
 lasting monument of which was the destruction of the Parthenon in 1685
-by a Venetian bomb. At last the proud republic surrendered to Napoleon
+by a Venetian [[Bomb|bomb]]. At last the proud republic surrendered to Napoleon
 without a stroke.
 
 The cities of southern Italy do not here call for special attention.
@@ -628,8 +628,8 @@ history for them came to an end.
 
 Rome, finally, derived its importance from being the capital of the
 popes and from its proud past. From time to time spasmodic attempts were
-made to revive the forms of the ancient republic, as under Arnold of
-Brescia in the 12th and by Niccolò di Rienzo in the 14th century; but
+made to revive the forms of the ancient republic, as under [[Arnold]] of
+[[Brescia]] in the 12th and by Niccolò di Rienzo in the 14th century; but
 there was no body of stalwart, self-reliant citizens to support such
 measures: nothing but turbulent nobles on the one hand and a rabble on
 the other.
@@ -661,7 +661,7 @@ generally of a more friendly character than in the north, and in some
 cases the bishop or archbishop even retained a considerable influence in
 the management of the town's affairs. Dissensions among the citizens, or
 between the nobles and the bourgeois, frequently ended in the adoption
-of a _podestat_. And in several cities of the Languedoc, each of the two
+of a _podestat_. And in several cities of the [[Languedoc]], each of the two
 classes composing the population retained its separate laws and customs.
 It is matter of dispute whether vestiges of Roman institutions had
 survived in these parts down to the time when the new constitutions
@@ -691,7 +691,7 @@ juramentum communiae_). The members were described as _jurati_ (also
 _burgenses, vicini, amici_), although in some communes that term was
 reserved for the members of the governing body. None but men of free and
 legitimate birth, and free from debt and contagious or incurable disease
-were received. The members of the governing body were styled _jurés_
+were received. The members of the governing body were styled _[[Jur|jur]]és_
 (_jurati_), _pairs_ (_pares_) or _échevins_ (_scabini_). The last was,
 however, as in Germany, more properly the title of the jurors in the
 court of justice, which in many cases remained in the hands of the lord.
@@ -751,7 +751,7 @@ more complex than that of hundreds of smaller places which, formally,
 might stand in an identical relationship to their lords. Like other
 _villes franches_ under the king, Paris was governed by a _prévôt_
 (provost), but certain functions of self-government for the city were
-delegated to the company of the _marchands de l'eau, mercatores aquae_,
+delegated to the company of the _marchands de l'eau, mercatores [[Aquae|aquae]]_,
 also called _mercatores ansati_, that is, the gild of merchants whose
 business lay down the river Seine, in other words, a body naturally
 exclusive, not, however, to the citizens as such. At their head stood a
@@ -768,12 +768,12 @@ artisans. Among the duties of these bodies, as elsewhere, was the _guet_
 or night-watch, which necessitated a military organization under
 _quartiniers, cinquantainiers_ and _dixainiers_. This gave them a
 certain power. But both their revolutions, under the _prévôt des
-marchands_, Étienne Marcel, after the battle of Maupertuis, and again in
+marchands_, Étienne [[Marcel]], after the battle of [[Maupertuis]], and again in
 1382, were extremely short-lived, and the only tangible result was a
 stricter subjection to the king and his officers.
 
 An exceptional position among the cities of France is taken up by those
-of _Flanders_, more particularly the three "Great Towns," Bruges, Ghent
+of _[[Flanders]]_, more particularly the three "Great Towns," Bruges, [[Ghent]]
 and Ypres, whose population was Flemish, i.e. German. They sprang up at
 the foot of the count's castles and rose in close conjunction with his
 power. On the accession of a new house they made their power felt as
@@ -787,16 +787,16 @@ being in their interest to keep up friendly relations with England, on
 whose wool the flourishing state of the staple industry of Flanders
 depended. It is a remarkable fact that the historical position taken up
 by these cities, which politically belonged to France, is much more akin
-to the part played by the German towns, whereas Cambrai, whose
+to the part played by the German towns, whereas [[Cambrai]], whose
 population was French, is the only city politically situated in Germany,
 where a commune came to be established.
 
 In the _Spanish peninsula_, the chief importance of the numerous small
 towns lay in the part they played as fortresses during the unceasing
 wars with the Moors. The kings therefore extended special privileges
-(_fueros_) to the inhabitants, and they were even at an early date
+(_[[Fuero|fueros]]_) to the inhabitants, and they were even at an early date
 admitted to representation in the Cortes (parliament). Of greater
-individual importance than all the rest was Barcelona. Already in 1068
+individual importance than all the rest was [[Barcelona]]. Already in 1068
 Count Berengarius gave the city a special law (_usatici_) based on its
 ancient usages, and from the 14th century its commercial code (_libro
 del consolat del mar_) became influential all over southern Europe.
@@ -806,16 +806,16 @@ those of Germany, but the towns never attained anything like the same
 independence. Their dependence on the royal government most strongly
 comes out in the fact of their being uniformly regulated by royal law in
 each of the three kingdoms. In Sweden particularly, German merchants by
-law took an equal share in the government of the towns. In Denmark their
+law took an equal share in the government of the towns. In [[Denmark]] their
 influence was also great, and only in Norway did they remain in the
-position of foreigners in spite of their famous settlement at Bergen.
+position of foreigners in spite of their famous settlement at [[Bergen]].
 The details, as well as those of the German settlement at Wisby and on
 the east coast of the Baltic, belong rather to the history of the
 Hanseatic League (q.v.). Denmark appears to be the only one of the three
 kingdoms where gilds at an early date played a part of importance.
 
   BIBLIOGRAPHY.--The only book dealing with the subject in general, viz.
-  K. D. Hüllmann, _Städtewesen des Mittelalters_ (4 vols., Bonn,
+  K. D. Hüllmann, _Städtewesen des Mittelalters_ (4 vols., [[Bonn]],
   1826-1828), is quite antiquated. For Germany it is best to consult
   Richard Schröder, _Lehrbruch der deutschen Rechtsgeschichte_ (5th ed.,
   Leipzig, 1907), §§ 51 and 56, where a bibliography as complete as need
@@ -826,9 +826,9 @@ kingdoms where gilds at an early date played a part of importance.
   _Urkunden zur städtischen Verfassungsgeschichte_ (Berlin, 1901 =
   _Ausgewählte Urkunden zur deutschen Verfassungsgeschichte_, by G. von
   Below and F. Keutgen, vol. i.), a collection of 437 select charters
-  and other documents, with a very full index. The great work of G. L.
+  and other documents, with a very full [[Index|index]]. The great work of G. L.
   von Maurer, _Geschichte der Städteverfassung von Deutschland_ (4 thick
-  vols., Erlangen, 1869-1871), contains an enormous mass of information
+  vols., [[Erlangen]], 1869-1871), contains an enormous mass of information
   not always treated quite so critically as the present age requires.
   There is an excellent succinct account for general readers by Georg
   von Below, "Das ältere deutsche Städtewesen und Bürgertum,"
@@ -853,13 +853,13 @@ kingdoms where gilds at an early date played a part of importance.
   1896-1908); down to the beginning of the 14th century; the same,
   _Forschungen zur Geschichte von Florenz_ (vols. i.-iv., Berlin,
   1896-1908); Heinrich Kretschmayr, _Geschichte von Venedig_ (vol. i.,
-  Gotha, 1905, to 1205). For France, there are the works by Achille
+  [[Gotha]], 1905, to 1205). For France, there are the works by Achille
   Luchaire, _Les Communes françaises à l'époque des Capétiens directs_
   (Paris, 1890), and Paul Viollet, "Les Communes françaises au moyen
-  âge," _Mémoires de l'Académie des Inscriptions et Belles-lettres_,
+  âge," _Mémoires de l'Académie des Inscriptions et [[Belles-Lettres|Belles-lettres]]_,
   tome xxxvi. (Paris, 1900). There are, of course, also accounts in the
-  great works on French institutions by Flach, Glasson, Viollet,
-  Luchaire, but perhaps the one in Luchaire's _Manuel des institutions
+  great works on French institutions by [[Flach]], Glasson, Viollet,
+  Luchaire, but perhaps the one in Luchaire's _[[Manuel]] des institutions
   françaises, période des Capétiens directs_ (Paris, 1892) deserves
   special recommendation. Another valuable account for France north of
   the Loire is that contained in the great work by Karl Hegel, _Städte
@@ -867,9 +867,9 @@ kingdoms where gilds at an early date played a part of importance.
   1891; see _English Historical Review_, viii. 120-127). Of course,
   there are also numerous monographs, among which the following may be
   mentioned: Édouard Bonvalot, _Le Tiers État d'après la charte de
-  Beaumont et ses filiales_ (Paris, 1884); and A. Giry, _Les
+  Beaumont et ses filiales_ (Paris, 1884); and A. [[Giry]], _Les
   Êtablissements de Rouen_ (2 vols., Paris, 1883-1885); also a
-  collection of documents by Gustave Fagniez, _Documents relatifs à
+  collection of documents by Gustave [[Fagniez]], _Documents relatifs à
   l'histoire de l'industrie et du commerce en France_ (2 vols., Paris,
   1898, 1900). Some valuable works on the commercial history of southern
   Europe should still be mentioned, such as W. Heyd, _Geschichte des
@@ -878,13 +878,13 @@ kingdoms where gilds at an early date played a part of importance.
   author), recognized as a standard work; Adolf Schaube,
   _Handelsgeschichte der romanischen Völker des Mittelmeergebietes bis
   zum Ende der Kreuzzüge_ (Munich and Berlin, 1906); Aloys Schulte,
-  _Geschichte des mittelalterlichen Handels und Verkehrs zwischen
+  _Geschichte des mittelalterlichen [[Handel|Handels]] und Verkehrs zwischen
   Westdeutschland und Italien mit Ausschluss Venedigs_ (2 vols.,
   Leipzig, 1900); L. Goldschmidt, _Universalgesdiichte des
   Handelsrechts_ (vol. i., Stuttgart, 1891). As for the Scandinavian
   towns, the best guide is perhaps the book by K. Hegel, _Städte und
   Gilden der germanischen Völker_, already mentioned; but see also
-  Dietrich Schäfer, "Der Stand der Geschichtswissenschaft im
+  [[Dietrich]] Schäfer, "Der Stand der Geschichtswissenschaft im
   skandinavischen Norden," _Internationale Wochenschrift_, November 16,
   1907.     (F. K.)
 
@@ -915,7 +915,7 @@ FOOTNOTES:
   [6] F. Keutgen, _Urkunden zur städtischen Verfassungsgeschichte_, No.
     74 and No. 75 (Berlin, 1901).
 
-  [7] F. Keutgen, _Ämter und Zünfte_ (Jena, 1903).
+  [7] F. Keutgen, _Ämter und Zünfte_ ([[Jena]], 1903).
 
   [8] J. Weizsäcker, _Der rheinische Bund_ (Tübingen, 1879).
 
@@ -927,7 +927,7 @@ FOOTNOTES:
 
   [10] On this whole subject see Richard Schröder, _Lehrbuch der
     deutschen Rechtsgeschichte_ (5th ed., Leipzig, 1907), § 56, "Die
-    Stadtrechte." Also Charles Gross, _The Gild Merchant_ (Oxford, 1890),
+    Stadtrechte." Also Charles [[Gross]], _The Gild Merchant_ (Oxford, 1890),
     vol. i. Appendix E, "Affiliation of Medieval Boroughs."
 
   [11] H. Kretschmayr, _Geschichte von Venedig_, vol. i. (Gotha, 1905).

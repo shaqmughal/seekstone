@@ -13,12 +13,12 @@ Memel and Allenstein. Pop. (1900) 27,787. It has four Evangelical
 churches, of which the town church is celebrated for its fine wood
 carvings, a Roman Catholic church, a synagogue, several schools and a
 park. Besides flax-spinning and iron-founding, Insterburg has
-manufactures of machinery, shoes, cement, leather and beer, along with a
+manufactures of machinery, shoes, cement, leather and [[Beer|beer]], along with a
 considerable trade in cereals, vegetables, flax, linseed and wood, while
 horse-breeding is extensively carried on in the neighbourhood. Close to
-the town lies the demesne of Georgenburg, with an old castle which
+the town lies the [[Demesne|demesne]] of Georgenburg, with an old castle which
 formerly belonged to the Teutonic order. Insterburg, the "burg" on the
-Inster, was founded in the 14th century by the knights of the Teutonic
+Inster, was founded in the 14th century by the [[Knight|knights]] of the Teutonic
 order. Having passed to the margraves of Brandenburg, the village which
 had sprung up round the castle received civic privileges in 1583. During
 the next century it made rapid advances in prosperity, partly owing to
@@ -45,7 +45,7 @@ elastic, and is in large measure determined by the context. Thus in
 social relationships we speak of "instinctive" liking or distrust; we
 are told that the Greeks had "instinctive" appreciation of art; we hear
 of an instinct of reverence or "instinctive" beliefs. We understand what
-is meant and neither desire nor demand a strict definition. But in any
+is meant and neither desire nor demand a strict [[Definition|definition]]. But in any
 scientific discussion the term instinct must be used within narrower
 limits, and hence it is necessary that the term should be defined. There
 are difficulties, however, in framing a satisfactory definition. That
@@ -100,7 +100,7 @@ behaviour as comprising those complex groups of co-ordinated acts which,
 though they contribute to experience, are, on their first occurrence,
 not determined by individual experience; which are adaptive and tend to
 the well-being of the individual and the preservation of the race; which
-are due to the co-operation of external and internal stimuli; which are
+are due to the [[Co-Operation|co-operation]] of external and internal stimuli; which are
 similarly performed by all members of the same more or less restricted
 group of animals; but which are subject to variation, and to subsequent
 modification under the guidance of individual experience.
@@ -113,7 +113,7 @@ view be required, that given in the _Dictionary of Philosophy and
 Psychology_ may be accepted: "An inherited reaction of the sensori-motor
 type, relatively complex and markedly adaptive in character, and common
 to a group of individuals." Instinctive behaviour thus depends solely on
-how the nervous system has been built through heredity; while
+how the nervous system has been built through [[Heredity|heredity]]; while
 intelligent behaviour depends also on those characters of the nervous
 system which have been acquired under the modifying influence of
 individual relation to the environment.
@@ -142,7 +142,7 @@ distinction is drawn between the behaviour which is thus rendered
 definite through heredity, and the behaviour the distinguishing
 characteristics of which are acquired in the course of individual life.
 What in popular usage are spoken of as the instincts of animals, for
-example, the hunting of prey by foxes and wolves, or the procedure of
+example, the [[Hunting|hunting]] of prey by [[Foxe|foxes]] and wolves, or the procedure of
 ants in their nests, are generally joint products of hereditary and
 acquired factors. Wasmann's comprehensive definition so far accords with
 popular usage. But it tends to minimize the importance of the
@@ -166,7 +166,7 @@ occasion of their initial performance are they purely instinctive; all
 subsequent performance being in some degree modified by the experience
 afforded, by previous behaviour of like nature and the results it
 affords. It should be remembered that such comparatively simple
-activities, though there is little about them to arrest popular
+activities, though there is little about them to [[Arrest|arrest]] popular
 attention, are just the raw material out of which the normal active life
 of such organisms is elaborated, and that for scientific treatment they
 are therefore not less important than those more conspicuous
@@ -195,7 +195,7 @@ afford experience; in no other sense can it be said that experience is
 inherited.
 
 
-  Examples from insect life.
+  Examples from [[Insect|insect]] life.
 
 A good example of the methods of recent investigation is to be found in
 Dr G. W. and Mrs Peckham's minute observations on the habits and
@@ -210,12 +210,12 @@ example) is on the whole similar in the case of the members of any given
 species--that is to say, all the wasps of the species behave in very
 much the same manner--yet there are minor variations in detail. This
 outcome of prolonged and careful observation is of importance. It
-affords a point of departure for the interpretation of the genesis of
+affords a point of departure for the interpretation of the [[Genesis|genesis]] of
 existing instincts. Furthermore, the observations on American wasps
 render it probable that the earlier accounts of the instinctive
 behaviour of such wasps are exaggerated. Romanes thought that the manner
 of stinging and paralysing their prey might be justly deemed the most
-remarkable instinct in the world. Spiders, caterpillars and grasshoppers
+remarkable instinct in the world. Spiders, [[Caterpillar|caterpillars]] and [[Grasshopper|grasshoppers]]
 are, he said, stung in their chief nerve-centres, in consequence of
 which the victims are not killed outright, but rendered motionless and
 continue to live in this paralysed condition for several weeks, being
@@ -245,12 +245,12 @@ of genesis is narrowed to a clear issue. Do they originate through the
 natural selection of those variations which are the more adaptive; or do
 they originate through the inheritance of those acquired modifications
 which are impressed on the nervous system in the course of individual
-and intelligent use? Romanes, taking up the inquiry where Darwin left
+and intelligent use? Romanes, taking up the inquiry where [[Darwin]] left
 it, came to the conclusion that some instinctive modes of behaviour
 which he termed "primary" are due to the operation of natural selection
 alone; that others, which he termed "secondary," and of which he could
 give few examples, were due to the inheritance of acquired modifications
-from which, in the phrase of G. H. Lewes, the intelligence had lapsed;
+from which, in the phrase of G. H. [[Lewes]], the intelligence had lapsed;
 while others, which he termed "blended," were partly due to natural
 selection and partly resulted from the inheritance of acquired habit.
 There has been a prolonged controversy between the school of
@@ -268,9 +268,9 @@ procedure only contributes to the survival and not to the origin of
 hereditary variations.
 
 
-  Crucial observations.
+  [[Crucial]] observations.
 
-To test the hypothesis that natural selection is an essential condition
+To test the [[Hypothesis|hypothesis]] that natural selection is an essential condition
 to the genesis of instinctive behaviour it should be the aim of
 investigation to find crucial cases. This is, however, no easy task. We
 ought to be able to adduce cases in which, where the incidence of
@@ -333,7 +333,7 @@ popular sense, it does not fall within the narrower definition of the
 term; it is more conveniently described as innate. It is important to
 grasp clearly the distinction thus drawn. A duckling only a few hours
 old if placed in water swims with orderly strokes. The stimulus of water
-on the breast may be regarded as a sensory presentation which is
+on the [[Breast|breast]] may be regarded as a sensory presentation which is
 followed by a definite and adaptive application of behaviour. But this
 specific application is dependent upon a prolonged racial preparation of
 the organism to respond in this particular way. Such response is
@@ -347,10 +347,10 @@ capacity cannot take effect. Instinct involves inherited adaptation;
 intelligence, an inherited power, embodied in the higher nerve-centres,
 of accommodation to varying circumstances.
 
-  See C. Lloyd Morgan, _Habit and Instinct_ (1896), and _Animal
+  See C. [[Lloyd]] Morgan, _Habit and Instinct_ (1896), and _Animal
   Behaviour_ (1900); G. J. Romanes, _Mental Evolution in Animals_
   (1883), and _Natural History of Instinct_ (1886); Lord Avebury, _On
-  the Instincts of Animals_ (1889); Marshall, _Instinct and Reason_
+  the Instincts of Animals_ (1889); [[Marshall]], _Instinct and Reason_
   (1898); Mills, _Nature of Animal Intelligence_ (1898); St George
   Mivart, _Nature and Thought_ (1882), and _Origin of Human Reason_
   (1899); E. Wasmann, _Zur Entwickelung der Instincte_ (1897), _Instinct

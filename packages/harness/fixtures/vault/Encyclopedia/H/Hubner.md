@@ -12,14 +12,14 @@ born in Vienna on the 26th of November 1811. His real name was
 Hafenbredl, which he afterwards changed to Hubner. He began his public
 career in 1833 under Metternich, whose confidence he soon gained, and
 who sent him in 1837 as attache to Paris. In 1841 he became secretary of
-embassy at Lisbon, and in 1844 Austrian consul-general at Leipzig. In
+[[Embassy|embassy]] at [[Lisbon]], and in 1844 Austrian consul-general at Leipzig. In
 1848 he was sent to Milan to conduct the diplomatic correspondence of
 Archduke Rainer, viceroy of Lombardy. On the outbreak of the revolution
 he was seized as a hostage, and remained a prisoner for some months.
 Returning to Austria, he was entrusted with the compilation of the
 documents and proclamations relating to the abdication of the Emperor
-Ferdinand and the accession of Francis Joseph. His journal, an
-invaluable clue to the complicated intrigues of this period, was
+[[Ferdinand]] and the accession of Francis Joseph. His journal, an
+invaluable [[Clue|clue]] to the complicated intrigues of this period, was
 published in 1891 in French and German, under the title of _Une Annee de
 ma vie, 1848-1849_. In March 1849 he was sent on a special mission to
 Paris, and later in the same year was appointed ambassador to France. To
@@ -32,11 +32,11 @@ emperor's cold reception of Hubner on New Year's Day, 1859, with the
 famous words: "I regret that our relations with your Government are not
 so good as they have hitherto been." He did not return to Paris after
 the war, and after holding the ministry of police in the Goluchowski
-cabinet from August to October 1859, lived in retirement till 1865, when
+[[Cabinet|cabinet]] from August to October 1859, lived in retirement till 1865, when
 he became ambassador at Rome. Quitting this post in 1867, he undertook
 extensive travels, his descriptions of which appeared as _Promenade
 autour du monde, 1871_ (1873; English translation by Lady Herbert, 1874)
-and _Through the British Empire_ (1886). Written in a bright and
+and _Through the British Empire_ (1886). Written in a [[Bright|bright]] and
 entertaining style, and characterized by shrewd observation, they
 achieved considerable popularity in their time. A more serious effort
 was his _Sixte-Quint_ (1870, translated into English by H. E. H.

@@ -14,7 +14,7 @@ midst of a fine farming region, which is rich in petroleum and natural
 gas, and is widely known for its mineral springs. One mile W. of the
 city is a state fish hatchery, and there are fine trout streams in the
 neighbourhood. Among the city's manufactures are steel, engines,
-locomotives, radiators, shovels, bricks, flour, furniture and leather.
+locomotives, radiators, shovels, [[Brick|bricks]], flour, furniture and leather.
 Corry was settled in 1860, and was incorporated as a borough in 1863 and
 as a city in 1866.
 

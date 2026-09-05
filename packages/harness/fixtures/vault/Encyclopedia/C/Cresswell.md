@@ -2,12 +2,12 @@
 
 CRESSWELL, SIR CRESSWELL (1794-1863), English judge, was a descendant of
 an old Northumberland family, and was born at Newcastle in 1794. He was
-educated at the Charterhouse and at Emmanuel College, Cambridge. He
+educated at the Charterhouse and at [[Emmanuel]] College, Cambridge. He
 graduated B.A. in 1814, and M.A. four years later. Having chosen the
 profession of the law he studied at the Middle Temple, and was called to
 the bar in 1819. He joined the northern circuit, and was not long in
 earning a distinguished position among his professional brethren. In
-1837 he entered parliament as Conservative member for Liverpool, and he
+1837 he entered parliament as Conservative member for [[Liverpool]], and he
 soon gained a reputation as an acute and learned debater on all
 constitutional questions. In January 1842 he was made a judge of the
 court of common pleas, being knighted at the same time; and this post he
@@ -24,7 +24,7 @@ By a fall from his horse on the 11th of July 1863 his knee-cap was
 injured. He was recovering from this when on the 29th of the same month
 he died of disease of the heart.
 
-  See Foss's _Lives of the Judges_; E. Manson, _Builders of our Law_
+  See Foss's _Lives of the Judges_; E. [[Manson]], _Builders of our Law_
   (1904).
 
 ## References

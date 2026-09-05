@@ -21,9 +21,9 @@ Gluck, whose acquaintance, as well as that of Haydn, he had made while
 in the service of the prince, on a professional journey to Italy. His
 success as a violinist on this occasion was equal to that of Gluck as
 composer; and on his return to Vienna he was recognized as the superior
-of Antonio Lolli, who as virtuoso had hitherto held the palm. In 1764 he
+of [[Antonio]] Lolli, who as virtuoso had hitherto held the palm. In 1764 he
 was again associated with Gluck in the musical part of the ceremonies at
-Frankfort, attending the coronation of the archduke Joseph as King of
+[[Frankfort]], attending the [[Coronation|coronation]] of the archduke Joseph as King of
 the Romans. His next appointment was that of conductor of the orchestra
 of the bishop of Grosswardein, a Hungarian magnate, at Pressburg. He set
 up a private stage in the episcopal palace, and wrote for it his first
@@ -37,7 +37,7 @@ again in the service of an ecclesiastical patron, count von Schafgotsch,
 prince bishop of Breslau, at his estate of Johannesberg in Silesia. Here
 he displayed so much skill as a sportsman, that the bishop procured for
 him the office of forester (_Forstmeister_) of the principality of
-Neisse. He had already, by the same influence, been made knight of the
+Neisse. He had already, by the same influence, been made [[Knight|knight]] of the
 Golden Spur (1770). At Johannesberg Ditters also produced a comic opera,
 _Il Viaggiatore americano_, and an oratorio, _Davide_. The title rôle of
 the latter was taken by a pretty Italian singer, Signora Nicolini, whom
@@ -56,7 +56,7 @@ _Metamorphoses_ of Ovid. He was now at the height of his fame, and spent
 the fortune which it brought him in much luxury. But after a time his
 patron fell on evil days, the famous orchestra had to be reduced, and
 when the bishop died in 1795 his successor dismissed the composer with a
-small money gift. Poor and broken in health, he accepted the asylum
+small money gift. Poor and broken in health, he accepted the [[Asylum|asylum]]
 offered to him by Ignaz Freiherr von Stillfried, on his estate near
 Neuhaus in Bohemia, where he spent what strength was left him in a
 feverish effort to make money by the composition of operas, symphonies
@@ -93,7 +93,7 @@ the inner parts. Six of Dittersdorf's symphonies on the _Metamorphoses_
 of Ovid were republished in 1899, the centenary of his death. In them we
 have an amusing and sometimes charming illustration of the way in which
 at transitional periods music, as at the present day, is ready to make
-crutches of literature. The end of the representation of the conversion
+crutches of literature. The end of the representation of the [[Conversion|conversion]]
 of the Lycian peasants into frogs is prophetically and ridiculously
 Wagnerian in its ingenious expansion of rhythm and eminently expert
 orchestration. Every external feature of Dittersdorf's style seems

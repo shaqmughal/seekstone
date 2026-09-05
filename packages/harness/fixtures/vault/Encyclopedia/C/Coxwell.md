@@ -3,7 +3,7 @@
 COXWELL, HENRY TRACEY (1819-1900), English aeronaut, was born at
 Wouldham, Kent, on the 2nd of March 1819, the son of a naval officer. He
 was educated for the army, but became a dentist. From a boy he had been
-greatly interested in ballooning, then in its infancy, but his own first
+greatly interested in ballooning, then in its [[Infancy|infancy]], but his own first
 ascent was not made until 1844. In 1848 he became a professional
 aeronaut, making numerous public ascents in the chief continental
 cities. Returning to London, he gave exhibitions from the Cremorne and

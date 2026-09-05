@@ -1,6 +1,6 @@
 # Cyrto-Style
 
-CYRTO-STYLE (Gr. [Greek: kyrtos], convex, and [Greek: stylos], column),
+CYRTO-STYLE (Gr. [Greek: kyrtos], [[Convex|convex]], and [Greek: stylos], column),
 in architecture, a circular projecting portico with columns; like those
 of the transept entrances of St Paul's cathedral and the western
 entrance of St Mary-le-Strand, London.

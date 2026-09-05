@@ -1,14 +1,14 @@
 # Gueridon
 
-GUERIDON, a small table to hold a lamp or vase, supported by a tall
+GUERIDON, a small table to hold a [[Lamp|lamp]] or vase, supported by a tall
 column or a human or mythological figure. This piece of furniture, often
 very graceful and elegant, originated in France towards the middle of
 the 17th century. In the beginning the table was supported by a negro or
-other exotic figure, and there is some reason to believe that it took
-its name from the generic appellation of the young African groom or
+other [[Exotic|exotic]] figure, and there is some reason to believe that it took
+its name from the generic appellation of the young African [[Groom|groom]] or
 "tiger," who was generally called "Gueridon," or as we should say in
-English "Sambo." The swarthy figure and brilliant costume of the "Moor"
-when reproduced in wood and picked out in colours produced a very
+English "Sambo." The swarthy figure and brilliant [[Costume|costume]] of the "Moor"
+when reproduced in wood and picked out in [[Colours|colours]] produced a very
 striking effect, and when a small table was supported on the head by the
 upraised hands the idea of passive service was suggested with
 completeness. The gueridon is still occasionally seen in something

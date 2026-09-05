@@ -6,7 +6,7 @@ the Pico de Urbion, an isolated mountain mass 7389 ft. high. It
 describes a wide curve eastwards past Soria, then flows westward across
 the Castilian table-land, passing south of Valladolid, with Toro and
 Zamora on its right bank; then from a point 3 m. E. of Paradella to
-Barca d'Alva it flows south-west and forms the frontier between Spain
+[[Barca]] d'Alva it flows south-west and forms the frontier between Spain
 and Portugal for 65 m. It crosses Portugal in a westerly direction
 through a narrow and tortuous bed, and enters the Atlantic 3 m. below
 Oporto at São Jõao da Foz. The length of the Douro, which is greater
@@ -28,12 +28,12 @@ and risks between its mouth and Barca d'Alva; but a railway, running for
 the most part along the right bank, skirts the river during the greater
 part of its course through Portugal. The mouth of the river is partly
 blocked by a sandy bar; only ships of light draught can enter, while
-those of greater burden are accommodated at the harbour of Leixões, an
+those of greater [[Burden|burden]] are accommodated at the harbour of Leixões, an
 artificial basin constructed about 3 m. N. On its way through Portugal
 the Douro traverses the Paiz do Vinho, one of the richest wine-producing
 territories in the world; large quantities of wine are conveyed to
 Oporto in sailing boats. The Douro yields an abundance of fish,
-especially trout, shad and lampreys.
+especially trout, shad and [[Lamprey|lampreys]].
 
 ## References
 

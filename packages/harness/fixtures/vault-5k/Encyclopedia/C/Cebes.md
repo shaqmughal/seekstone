@@ -1,14 +1,14 @@
 # Cebes
 
 CEBES, the name of two Greek philosophers, (1) CEBES OF CYZICUS,
-mentioned in Athenaeus (iv. 156 D), seems to have been a Stoic, who
+mentioned in [[Athenaeus]] (iv. 156 D), seems to have been a Stoic, who
 lived during the reign of Marcus Aurelius. Some would attribute to him
 the _Tabula Cebetis_ (see below), but as that work was well known in the
 time of Lucian, it is probably to be placed earlier. (2) CEBES OF
-THEBES, a disciple of Socrates and Philolaus. He is one of the speakers
-in the _Phaedo_ of Plato, in which he is represented as an earnest
+THEBES, a [[Disciple|disciple]] of Socrates and Philolaus. He is one of the speakers
+in the _Phaedo_ of Plato, in which he is represented as an [[Earnest|earnest]]
 seeker after virtue and truth, keen in argument and cautious in
-decision. Three dialogues, the [Greek: Hebdome], the [Greek: Phrynichos]
+decision. Three [[Dialogue|dialogues]], the [Greek: Hebdome], the [Greek: Phrynichos]
 and the [Greek: Pinax] or _Tabula_, are attributed to him by Suidas and
 Diogenes Laertius. The two former are lost, and most scholars deny the
 authenticity of the _Tabula_ on the ground of material and verbal

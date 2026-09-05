@@ -9,11 +9,11 @@ dating from the Roman period, the other constructed of iron in 1804,
 unite the older and larger part of Manresa with the modern suburbs on
 the right bank of the river. The principal buildings are the collegiate
 church of Santa Maria de la Séo, the Dominican monastery, and the church
-of San Ignazio, built over the cavern (_cueva santa_) where Ignatius de
-Loyola spent most of the year 1522 in penitentiary exercises and the
+of San Ignazio, built over the cavern (_cueva santa_) where [[Ignatius]] de
+[[Loyola]] spent most of the year 1522 in penitentiary exercises and the
 composition of his _Exercitia spiritualia_. Santa Maria is a fine
-example of Spanish Gothic, and consists, like many Catalan churches, of
-nave and chancel, aisles and ambulatory, without transepts. One of its
+example of Spanish [[Gothic]], and consists, like many Catalan churches, of
+nave and [[Chancel|chancel]], aisles and ambulatory, without transepts. One of its
 chief treasures is an exquisite 15th-century Florentine altar-frontal,
 preserved in the sacristy. The Dominican monastery, adjoining the _cueva
 santa_, commands a magnificent view of the Montserrat (q.v.), and is

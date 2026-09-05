@@ -7,13 +7,13 @@ type: reference
 
 # Inversion
 
-INVERSION (Lat. _invertere_, to turn about), in chemistry, the name
+INVERSION (Lat. _invertere_, to turn about), in [[Chemistry|chemistry]], the name
 given to the hydrolysis of cane sugar into a mixture of glucose and
 fructose (invert sugar); it was chosen because the operation was
 attended by a change from dextro-rotation of polarized light to a
 laevo-rotation. In mathematics, inversion is a geometrical method,
 discovered jointly by Stubbs and Ingram of Dublin, and employed
-subsequently with conspicuous success by Lord Kelvin in his electrical
+subsequently with conspicuous success by Lord [[Kelvin]] in his electrical
 researches. The notion may be explained thus: If R be a circle of centre
 O and radius r, and P, Q be two points on a radius such that OP.OQ = r^2,
 then P, Q are said to be inverse points for a circle of radius r, and O

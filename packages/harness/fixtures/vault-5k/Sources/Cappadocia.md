@@ -1,6 +1,6 @@
 # Cappadocia
 
-CAPPADOCIA, in ancient geography, an extensive inland district of Asia
+CAPPADOCIA, in ancient [[Geography|geography]], an extensive inland district of Asia
 Minor. In the time of Herodotus the Cappadocians occupied the whole
 region from Mount Taurus to the Euxine. That author tells us that the
 name of the Cappadocians (Katpatouka) was applied to them by the
@@ -18,7 +18,7 @@ considered in the present article.
 
 Cappadocia, in this sense, was bounded S. by the chain of Mount Taurus,
 E. by the Euphrates, N. by Pontus, and W. vaguely by the great central
-salt "Desert" (_Axylon_). But it is impossible to define its limits with
+salt "[[Desert]]" (_Axylon_). But it is impossible to define its limits with
 accuracy. Strabo, the only ancient author who gives any circumstantial
 account of the country, greatly exaggerated its dimensions; it was in
 reality about 250 m. in length by less than 150 in breadth. With the
@@ -57,7 +57,7 @@ geographer, into ten districts. Of these _Cataonia_ has been described;
 the adjoining district of _Melitene_, which did not originally form part
 of Cappadocia at all, but was annexed to it by Ariarathes I., was a
 fertile tract adjoining the Euphrates; its chief town retains the name
-of Malatia. _Cilicia_ was the name given to the district in which
+of [[Malatia]]. _Cilicia_ was the name given to the district in which
 Caesarea, the capital of the whole country was situated, and in which
 rose the conspicuous Mount Argaeus. _Tyanitis_, the region of which
 Tyana was the capital, was a level tract in the extreme south, extending
@@ -76,12 +76,12 @@ The only two cities of Cappadocia considered by Strabo to deserve that
 appellation were Mazaca, the capital of the kingdom under its native
 monarchs (see CAESAREA-MAZACA); and Tyana, not far from the foot of the
 Taurus, the site of which is marked by a great mound at a place called
-Kiz (or Ekuz) Hissar, about 12 m. south-west of Nigdeh. Archelais,
+Kiz (or Ekuz) [[Hissar]], about 12 m. south-west of Nigdeh. Archelais,
 founded by Archelaus, the last king of the country, subsequently became
 a Roman colony, and a place of some importance. It is now Akserai.
 
 Several localities in the Cappadocian country were the sites of famous
-temples. Among these the most celebrated were those of Comana (q.v.) and
+temples. Among these the most celebrated were those of [[Comana]] (q.v.) and
 Venasa in Morimene, where a male god was served by over 3000
 _hieroduli_. The local sanctity of Venasa has been perpetuated by the
 Moslem veneration for Haji Bektash, the founder of the order of
@@ -103,7 +103,7 @@ which has left monuments at many places, e.g. Nevsheher, Fraktin, Gorun,
 Malatia, various points about Albistan and Derendeh, Bulgur Maden,
 Andaval and Tyana. Possibly the princes of the last named city were
 independent. With the decline of the Syro-Cappadocians after their
-defeat by Croesus, Cappadocia was left in the power of a sort of feudal
+defeat by [[Croesus]], Cappadocia was left in the power of a sort of feudal
 aristocracy, dwelling in strong castles and keeping the peasants in a
 servile condition, which later made them apt for foreign slavery. It was
 included in the third Persian satrapy in the division established by
@@ -127,14 +127,14 @@ left it to a line of successors, who mostly bore the name of the founder
 of the dynasty, Under the fourth of the name Cappadocia came into
 relations with Rome, first as a foe espousing the cause of Antiochus the
 Great, then as an ally against Perseus of Macedon. The kings
-henceforward threw in their lot with the Republic as against the
+henceforward threw in their [[Lot|lot]] with the Republic as against the
 Seleucids, to whom they had been from time to time tributary. Ariarathes
-V. marched with the Roman proconsul Crassus against Aristonicus, a
+V. marched with the Roman proconsul [[Crassus]] against [[Aristonicus]], a
 claimant to the throne of Pergammum, and their forces were annihilated
 (130 B.C.). The imbroglio which followed his death ultimately led to
 interference by the rising power of Pontus and the intrigues and wars
 which ended in the failure of the dynasty. The Cappadocians, supported
-by Rome against Mithradates, elected a native lord, Ariobarzanes, to
+by Rome against Mithradates, elected a native lord, [[Ariobarzanes]], to
 succeed (93 B.C.); but it was not till Rome had disposed at once of the
 Pontic and Armenian kings that his rule was established (63 B.C.). In
 the civil wars Cappadocia was now for Pompey, now for Caesar, now for
@@ -142,8 +142,8 @@ Antony, now against him. The Ariobarzanes dynasty came to an end and a
 certain Archelaus reigned in its stead, by favour first of Antony, then
 of Octavian, and maintained tributary independence till A.D. 17, when
 the emperor Tiberius, on Archelaus's death in disgrace, reduced
-Cappadocia at last to a province. Vespasian in A.D. 70 joined Armenia
-Minor to it and made the combined province a frontier bulwark. It
+Cappadocia at last to a province. Vespasian in A.D. 70 joined [[Armenia]]
+Minor to it and made the combined province a frontier [[Bulwark|bulwark]]. It
 remained, under various provincial redistributions, part of the Eastern
 Empire till late in the 11th century, though often ravaged both by
 Persians and Arabs. But before it passed into Seljuk hands (1074), and
@@ -166,11 +166,11 @@ are now a flourishing community.
 
   BIBLIOGRAPHY.--W. Wright, _Empire of the Hittites_ (1884); G. Perrot
   and C. Chipiez, _Hist. de l'art dans l'antiquite_, vol. iv. (1886);
-  A.H. Sayce, _Hittites_ (1892) (see also PTERIA); J.G. Droysen, _Gesch.
+  A.H. Sayce, _Hittites_ (1892) (see also PTERIA); J.G. [[Droysen]], _Gesch.
   des Hellenismus_ (3rd ed., 1878); A. Holm, _Gesch. Griech._ (Eng.
   trans., 1886); Th. Reinach, _Mithridate Eupator_ (1890); E.R. Bevan,
   _House of Seleucus_ (1902); Th. Mommsen, _Provinces of the Roman
-  Empire_ (Eng. trans., 1886); J. Marquardt, _Rom. Staatsverwaltung_, i.
+  Empire_ (Eng. trans., 1886); J. [[Marquardt]], _Rom. Staatsverwaltung_, i.
   (1874); W.M. Ramsey, _Hist. Geog. of Asia Minor_ (1890); C. Ritter,
   _Erdkunde_, xviii. xix. (1858-1859); D.G. Hogarth and J.A.R. Munro,
   _Mod. and Anc. Roads in E. Asia Minor_ (R.G.S. Supp. Papers, iii.

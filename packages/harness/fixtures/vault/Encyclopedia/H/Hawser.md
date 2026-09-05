@@ -1,15 +1,15 @@
 # Hawser
 
 HAWSER (in sense and form as if from "hawse," which, from the
-16th-century form _halse_, is derived from Teutonic _hals_, neck, of
+16th-century form _halse_, is derived from Teutonic _[[Hals|hals]]_, neck, of
 which there is a Scandinavian use in the sense of the forepart of a
 ship; the two words are not etymologically connected; "hawser" is from
-an O. Fr. _haucier_, _hausser_, to raise, tow, hoist, from the Late Lat.
-_altiare_, to lift, _altus_, high), a small cable or thick rope used at
+an O. Fr. _haucier_, _[[Hausser|hausser]]_, to raise, tow, hoist, from the Late Lat.
+_altiare_, to lift, _altus_, high), a small [[Cable|cable]] or thick rope used at
 sea for the purposes of mooring or warping, in the case of large vessels
 made of steel. When a cable or tow line is made of three or more small
 ropes it is said to be "hawser-laid." The "hawse" of a ship is that part
-of the bows where the "hawse-holes" are made. These are two holes cut in
+of the [[Bow|bows]] where the "hawse-holes" are made. These are two holes cut in
 the bows of a vessel for the cables to pass through, having small
 cast-iron pipes, called "hawse-pipes," fitted into them to prevent
 abrasion. In bad weather at sea these holes are plugged up with

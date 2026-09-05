@@ -24,10 +24,10 @@ and the Japanese _L. flexuosa_ var. _aureoreticulata_ is esteemed for
 its charmingly variegated leaves netted with golden yellow. The fly
 honeysuckle, _L. Xylosteum_, a hardy shrub of dwarfish, erect habit, and
 _L. tatarica_, of similar habit, both European, are amongst the oldest
-English garden shrubs, and bear axillary flowers of various colours,
+English garden shrubs, and bear axillary flowers of various [[Colours|colours]],
 occurring two on a peduncle. There are numerous other species, many of
 them introduced to our gardens, and well worth cultivating in
-shrubberies or as climbers on walls and bowers, either for their beauty
+shrubberies or as climbers on walls and [[Bower|bowers]], either for their beauty
 or the fragrance of their blossoms.
 
 [Illustration: Honeysuckle.--(a) Flowering branch; (b) Flower, nat.
@@ -48,7 +48,7 @@ West Indian honeysuckle is _Tecoma capensis_, and is also a name applied
 to _Desmodium_.
 
 The wood of the fly honeysuckle is extremely hard, and the clear
-portions between the joints of the stems, when their pith has been
+portions between the [[Joints|joints]] of the stems, when their pith has been
 removed, were stated by Linnaeus to be utilized in Sweden for making
 tobacco-pipes. The wood is also employed to make teeth for rakes; and,
 like that of _L. tatarica_, it is a favourite material for

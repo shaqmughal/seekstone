@@ -7,7 +7,7 @@ type: note
 
 # Hydrocarbon
 
-HYDROCARBON, in chemistry, a compound of carbon and hydrogen. Many occur
+HYDROCARBON, in [[Chemistry|chemistry]], a [[Compound|compound]] of [[Carbon|carbon]] and hydrogen. Many occur
 in nature in the free state: for example, natural gas, petroleum and
 paraffin are entirely composed of such bodies; other natural sources are
 india-rubber, turpentine and certain essential oils. They are also
@@ -24,7 +24,7 @@ and, on account of their great number, and still greater number of
 derivatives, they are studied as a separate branch of the science,
 namely, organic chemistry.
 
-  See CHEMISTRY for an account of their classification, &c.
+  See CHEMISTRY for an account of their [[Classification|classification]], &c.
 
 ## References
 

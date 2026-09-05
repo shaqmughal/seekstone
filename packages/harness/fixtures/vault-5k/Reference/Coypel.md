@@ -25,8 +25,8 @@ Painting, of which he became professor and rector in 1707, and director
 in 1714. In 1716 he was appointed king's painter, and he was ennobled in
 the following year. Antoine Coypel received a careful literary
 education, the effects of which appear in his works; but the graceful
-imagination displayed by his pictures is marred by the fact that he was
-not superior to the artificial taste of his age. He was a clever etcher,
+[[Imagination|imagination]] displayed by his pictures is marred by the fact that he was
+not superior to the artificial taste of his age. He was a [[Clever|clever]] etcher,
 and engraved several of his own works. His _Discours prononces dans les
 conferences de l' Academie royale de Peinture, &c._; appeared in 1741.
 

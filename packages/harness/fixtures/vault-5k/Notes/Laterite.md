@@ -1,6 +1,6 @@
 # Laterite
 
-LATERITE (Lat. _later_, a brick), in petrology, a red or brown
+LATERITE (Lat. _later_, a [[Brick|brick]]), in petrology, a red or brown
 superficial deposit of clay or earth which gathers on the surface of
 rocks and has been produced by their decomposition; it is very common in
 tropical regions. In consistency it is generally soft and friable, but
@@ -15,14 +15,14 @@ deeper layers often being soft when the surface is hard or stony; the
 transition to fresh, sound rock below may be very sudden. That laterite
 is merely rotted crystalline rock is proved by its often preserving the
 structures, veins and even the outlines of the minerals of the parent
-mass below; the felspars and other components of granite gneiss having
+mass below; the felspars and other components of granite [[Gneiss|gneiss]] having
 evidently been converted _in situ_ into a soft argillaceous material.
 
 Laterite occurs in practically every tropical region of the earth, and
-is very abundant in Ceylon, India, Burma, Central and West Africa,
+is very abundant in Ceylon, India, [[Burma]], Central and West Africa,
 Central America, &c. It is especially well developed where the
 underlying rock is crystalline and felspathic (as granite gneiss,
-syenite and diorite), but occurs also on basalts in the Deccan and in
+syenite and [[Diorite|diorite]]), but occurs also on basalts in the Deccan and in
 other places, and is found even on mica schist, sandstone and quartzite,
 though in such cases it tends to be more sandy than argillaceous. Many
 varieties have been recognized. In India a calcareous laterite with
@@ -58,7 +58,7 @@ fine grains of quartz with minute scales of hydrates of alumina. The
 latter are easily soluble in acid while clay is not, and after treating
 laterite with acids the alumina and iron leave the silica as a residue
 in the form of quartz. The alumina seems to be combined with variable
-proportions of water, probably as the minerals hydrargillite, diaspore
+proportions of water, probably as the minerals hydrargillite, [[Diaspore|diaspore]]
 and gibbsite, while the iron occurs as goethite, turgite, limonite,
 haematite. As already remarked, there is a tendency for the superficial
 layers to become hard, probably by a loss of the water contained in
@@ -84,13 +84,13 @@ the Deccan in India.
   countries laterite is seldom seen, and where the rainfall is moderate
   the laterite is often calcareous); third, the presence of rocks
   containing aluminous minerals such as felspar, augite, hornblende and
-  mica. On pure limestones such as coral rocks and on quartzites
+  mica. On pure [[Limestone|limestones]] such as coral rocks and on quartzites
   laterite deposits do not originate except where the material has been
   transported.
 
   Many hypotheses have been advanced to account for the essential
   difference between lateritization and the weathering processes
-  exhibited by rocks in temperate and arctic climates. In the tropics
+  exhibited by rocks in temperate and [[Arctic|arctic]] climates. In the tropics
   the rank growth of vegetation produces large amounts of humus and
   carbonic acid which greatly promote rock decomposition; igneous and
   crystalline rocks of all kinds are deeply covered under rich dark
@@ -106,11 +106,11 @@ the Deccan in India.
   decompose silicate of alumina into quartz and hydrates of alumina. The
   restricted distribution of laterite deposits might then be due to the
   inhibiting effect of low temperatures on the reproduction of these
-  organisms. This very ingenious hypothesis has not yet received the
+  organisms. This very ingenious [[Hypothesis|hypothesis]] has not yet received the
   experimental confirmation which seems necessary before it can be
   regarded as established. Malcolm Maclaren, rejecting the bacterial
   theory, directs special attention to the alternate saturation of the
-  soil with rain water in the wet season and desiccation in the
+  soil with rain water in the wet season and [[Desiccation|desiccation]] in the
   subsequent drought. The laterite beds are porous, in fact they are
   traversed by innumerable tubules which are often lined with deposits
   of iron oxide and aluminous minerals. We may be certain that, as in
@@ -137,8 +137,8 @@ the Deccan in India.
   and phosphates have been removed in solution, while only alumina, iron
   and silica are left behind. They are used as clays for puddling, for
   making tiles, and as a mortar in rough work. Kankar has filled an
-  important part as a cement in many large engineering works in India.
-  Where the iron concretions have been washed out by rains or by
+  important part as a cement in many large [[Engineering|engineering]] works in India.
+  Where the iron [[Concretion|concretions]] have been washed out by rains or by
   artificial treatment (often in the form of small shot-like pellets)
   they serve as an iron ore in parts of India and Africa. Attempts are
   being made to utilize laterite as an ore of aluminium, a purpose for

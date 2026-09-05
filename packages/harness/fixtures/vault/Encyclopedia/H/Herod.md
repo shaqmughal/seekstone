@@ -1,12 +1,12 @@
 # Herod
 
 HEROD (surnamed THE GREAT), the son of Antipater, who supported Hyrcanus
-II. against Aristobulus II. with the aid first of the Nabataean Arabs
+II. against Aristobulus II. with the aid first of the Nabataean [[Arabs]]
 and then of Rome. The family seems to have been of Idumaean origin, so
 that its members were liable to the reproach of being half-Jews or even
 foreigners. Justin Martyr has a tradition that they were originally
 Philistines of Ascalon (_Dial._ c. 52), and on the other hand Nicolaus
-of Damascus (_apud_ Jos. _Ant._ xiv. 1. 3) asserted that Herod, his
+of [[Damascus]] (_apud_ Jos. _Ant._ xiv. 1. 3) asserted that Herod, his
 royal patron, was descended from the Jews who first returned from the
 Babylonian Captivity. The tradition and the assertion are in all
 probability equally fictitious and proceed respectively from the foes
@@ -24,16 +24,16 @@ renewed the civil war in Palestine, the Roman governor of Syria in the
 exercise of his jurisdiction arranged a settlement "in accordance with
 the wishes of Antipater" (Jos. _Ant._ xiv. 6. 4). To this policy of
 dependence upon Rome Antipater adhered, and he succeeded in commending
-himself to Mark Antony and Caesar in turn. After the battle of Pharsalia
+himself to Mark Antony and [[Caesar]] in turn. After the battle of Pharsalia
 Caesar made him procurator and a Roman citizen.
 
-At this point Herod appears on the scene as ruler of Galilee (Jos.
+At this point Herod appears on the scene as ruler of [[Galilee]] (Jos.
 _Ant._ xiv. 9. 2) appointed by his father at the age of fifteen or,
 since he died at seventy, twenty-five. In spite of his youth he soon
-found an opportunity of displaying his mettle; for he arrested Hezekiah
+found an opportunity of displaying his mettle; for he arrested [[Hezekiah]]
 the arch-brigand, who had overrun the Syrian border, and put him to
 death. The Jewish nobility at Jerusalem seized upon this high-handed
-action as a pretext for satisfying their jealousy of their Idumaean
+action as a pretext for satisfying their [[Jealousy|jealousy]] of their Idumaean
 rulers. Herod was cited in the name of Hyrcanus to appear before the
 Sanhedrin, whose prerogative he had usurped in executing Hezekiah. He
 appeared with a bodyguard, and the Sanhedrin was overawed. Only Sameas,
@@ -46,7 +46,7 @@ Galilee without wreaking his vengeance upon his enemies. About this time
 governor. The episode is important for the light which it throws upon
 Herod's relations with Rome and with the Jews.
 
-In 44 B.C. Cassius arrived in Syria for the purpose of filling his
+In 44 B.C. [[Cassius]] arrived in Syria for the purpose of filling his
 war-chest: Antipater and Herod collected the sum of money at which the
 Jews of Palestine had been assessed. In 43 B.C. Antipater was poisoned
 at the instigation of one Malichus, who was perhaps a Jewish patriot
@@ -78,22 +78,22 @@ prison: mutilated, he could no longer hold office as high-priest; but
 his mutilation probably gave him the prestige of a martyr, and his
 influence--whatever it was worth--seems to have been favourable to the
 new dynasty. On the other hand Herod's marriage with Mariamne brought
-some of his enemies into his own household. He had scotched the faction
+some of his enemies into his own household. He had scotched the [[Faction|faction]]
 of Hasmonaean sympathizers by killing forty-five members of the
 Sanhedrin and confiscating their possessions. But so long as there were
 representatives of the family alive, there was always a possible
 pretender to the throne which he occupied; and the people had not lost
 their affection for their former deliverers. Mariamne's mother used her
 position to further her plots for the overthrow of her son-in-law; and
-she found an ally in Cleopatra of Egypt, who was unwilling to be spurned
+she found an ally in [[Cleopatra]] of Egypt, who was unwilling to be spurned
 by him, even if she was not weary of his patron, Antony.
 
 The events of Herod's reign indicate the temporary triumphs of his
 different adversaries. His high-priest, a Babylonian, was deposed in
 order that Aristobulus III., Mariamne's brother, might hold the place to
-which he had some ancestral right. But the enthusiasm with which the
+which he had some ancestral right. But the [[Enthusiasm|enthusiasm]] with which the
 people received him at the Feast of Tabernacles convinced Herod of the
-danger; and the youth was drowned by order of the king at Jericho.
+danger; and the youth was drowned by order of the king at [[Jericho]].
 Cleopatra had obtained from Antony a grant of territory adjacent to
 Herod's domain and even part of it. She required Herod to collect
 arrears of tribute. So it fell out that, when Octavian and the Senate
@@ -112,7 +112,7 @@ brigands who still infested the country and to check the raids of the
 Arabs on the frontier, he built or rebuilt fortresses, which were of
 material assistance to the Jews in the great revolt against Rome. Within
 and without Judaea he erected magnificent buildings and founded cities.
-He established games in honour of the emperor after the ancient Greek
+He established [[Games|games]] in honour of the emperor after the ancient Greek
 model in Caesarea and Jerusalem and revived the splendour of the Olympic
 games. At Athens and elsewhere he was commemorated as a benefactor; and
 as Jew and king of the Jews he restored the temple at Jerusalem. The
@@ -139,15 +139,15 @@ better to be Herod's _swine_ than a _son_ of Herod."
   _Gesch. d. jud. Volk._, 4th ed., i. pp. 360-418.
 
 HEROD ANTIPAS, son of Herod the Great by the Samaritan Malthace, and
-full brother of Archelaus, received as his share of his father's
+full brother of [[Archelaus]], received as his share of his father's
 dominions the provinces of Galilee and Peraea, with the title of
 tetrarch. Like his father, Antipas had a turn for architecture: he
 rebuilt and fortified the town of Sepphoris in Galilee; he also
 fortified Betharamptha in Peraea, and called it Julias after the wife of
 the emperor. Above all he founded the important town of Tiberias on the
 west shore of the Sea of Galilee, with institutions of a distinctly
-Greek character. He reigned 4 B.C.-A.D. 39. In the gospels he is
-mentioned as Herod. He it was who was called a "fox" by Christ (Luke
+Greek character. He reigned 4 B.C.-A.D. 39. In the [[Gospel|gospels]] he is
+mentioned as Herod. He it was who was called a "[[Fox|fox]]" by Christ ([[Luke]]
 xiii. 32). He is erroneously spoken of as a king in Mark vi. 14. It was
 to him that Jesus was sent by Pilate to be tried. But it is in connexion
 with his wife Herodias that he is best known, and it was through her
@@ -160,16 +160,16 @@ Herod, and completely defeated his army. John the Baptist condemned his
 marriage with Herodias, and in consequence was put to death in the way
 described in the gospels and in Josephus. When Herodias's brother
 Agrippa was appointed king by Caligula, she was determined to see her
-husband attain to an equal eminence, and persuaded him, though naturally
+husband attain to an equal [[Eminence|eminence]], and persuaded him, though naturally
 of a quiet and unambitious temperament, to make the journey to Rome to
 crave a crown from the emperor. Agrippa, however, managed to influence
 Caligula against him. Antipas was deprived of his dominions and banished
-to Lyons, Herodias voluntarily sharing his exile.
+to [[Lyons]], Herodias voluntarily sharing his exile.
 
 HEROD PHILIP, son of Herod the Great by Cleopatra of Jerusalem, received
 the tetrarchate of Ituraea and other districts to E. and N.E. of the
 Lake of Galilee, the poorest part of his father's kingdom. His subjects
-were mainly Greeks or Syrians, and his coins bear the image of Augustus
+were mainly Greeks or Syrians, and his [[Coin|coins]] bear the [[Image|image]] of Augustus
 or Tiberius. He is described as an excellent ruler, who loved peace and
 was careful to maintain justice, and spent his time in his own
 territories. He was also a builder of cities, one of which was Caesarea

@@ -13,14 +13,14 @@ in composition--as bullfinch, chaffinch, goldfinch, hawfinch, &c.) to a
 great many small birds of the order _Passeres_, and now pretty generally
 accepted as that of a group or family--the _Fringillidae_ of most
 ornithologists. Yet it is one the extent of which must be regarded as
-being uncertain. Many writers have included in it the buntings
+being uncertain. Many writers have included in it the [[Bunting|buntings]]
 (_Emberizidae_), though these seem to be quite distinct, as well as the
-larks (_Alaudidae_), the tanagers (_Tanagridae_), and the weaver-birds
-(_Ploceidae_). Others have separated from it the crossbills, under the
+[[Lark|larks]] (_Alaudidae_), the tanagers (_Tanagridae_), and the weaver-birds
+(_Ploceidae_). Others have separated from it the [[Crossbill|crossbills]], under the
 title of _Loxiidae_, but without due cause. The difficulty which at this
 time presents itself in regard to the limits of the _Fringillidae_
-arises from our ignorance of the anatomical features, especially those
-of the head, possessed by many exotic forms.
+arises from our [[Ignorance|ignorance]] of the anatomical features, especially those
+of the head, possessed by many [[Exotic|exotic]] forms.
 
 Taken as a whole, the finches, concerning which no reasonable doubt can
 exist, are not only little birds with a hard bill, adapted in most cases
@@ -61,11 +61,11 @@ _Fringillidae_ which it is convenient to consider in this article in an
 alphabetical arrangement.
 
 Of the Bullfinches the best known is the familiar bird (_Pyrrhula_
-_europaea_). The varied plumage of the cock--his bright red breast and
+_europaea_). The varied plumage of the cock--his bright red [[Breast|breast]] and
 his grey back, set off by his coal-black head and quills--is naturally
 attractive; while the facility with which he is tamed, with his engaging
 disposition in confinement, makes him a popular cage-bird,--to say
-nothing of the fact (which in the opinion of so many adds to his charms)
+nothing of the fact (which in the opinion of so many adds to his [[Charm|charms]])
 of his readily learning to "pipe" a tune, or some bars of one. By
 gardeners the bullfinch has long been regarded as a deadly enemy, from
 its undoubted destruction of the buds of fruit-trees in spring-time,
@@ -74,8 +74,8 @@ means so undoubted. Northern and eastern Europe is inhabited by a larger
 form (_P. major_), which differs in nothing but size and more vivid
 tints from that which is common in the British Isles and western Europe.
 A very distinct species (_P. murina_), remarkable for its dull
-coloration, is peculiar to the Azores, and several others are found in
-Asia from the Himalayas to Japan. A bullfinch (_P. cassini_) has been
+coloration, is peculiar to the [[Azores]], and several others are found in
+Asia from the [[Himalaya|Himalayas]] to Japan. A bullfinch (_P. cassini_) has been
 discovered in Alaska, being the first recognition of this genus in the
 New World.
 
@@ -108,17 +108,17 @@ Palestine.
 The Chaffinches are regarded as the type-form of _Fringillidae_. The
 handsome and sprightly _Fringilla coelebs_[4] is common throughout the
 whole of Europe. Conspicuous by his variegated plumage, his peculiar
-call note[5] and his glad song, the cock is almost everywhere a
+call note[5] and his glad song, the [[Cock|cock]] is almost everywhere a
 favourite. In Algeria the British chaffinch is replaced by a
 closely-allied species (_F. spodogenia_), while in the Atlantic Islands
 it is represented by two others (_F. tintillon_ and _F. teydea_)--all of
 which, while possessing the general appearance of the European bird, are
 clothed in soberer tints.[6] Another species of true _Fringilla_ is the
-brambling (_F. montifringilla_), which has its home in the birch forests
+brambling (_F. montifringilla_), which has its home in the [[Birch|birch]] forests
 of northern Europe and Asia, whence it yearly proceeds, often in flocks
 of thousands, to pass the winter in more southern countries. This bird
 is still more beautifully coloured than the chaffinch--especially in
-summer, when, the brown edges of the feathers being shed, it presents a
+summer, when, the brown edges of the [[Feather|feathers]] being shed, it presents a
 rich combination of black, white and orange. Even in winter, however,
 its diversified plumage is sufficiently striking.
 
@@ -132,9 +132,9 @@ FOOTNOTES:
   [1] About 200 species of these have been described, and perhaps 150
     may really exist.
 
-  [2] The earliest published description seems to be that of Gesner in
+  [2] The earliest published description seems to be that of [[Gesner]] in
     1555 (_Orn._ p. 234), but he had not seen the bird, an account of
-    which was communicated to him by Raphael Seiler of Augsburg, under
+    which was communicated to him by Raphael Seiler of [[Augsburg]], under
     the name of _Suckeruögele_.
 
   [3] See also _The Canary Book_, by Robert L. Wallace; _Canaries and
@@ -150,7 +150,7 @@ FOOTNOTES:
     however, that in some localities the sexes live apart during the
     winter.
 
-  [5] This call-note, which to many ears sounds like "pink" or "spink,"
+  [5] This call-note, which to many [[Ear|ears]] sounds like "pink" or "spink,"
     not only gives the bird a name in many parts of Britain, but is also
     obviously the origin of the German _Fink_ and the English _Finch_.
     The similar Celtic form _Pinc_ is said to have given rise to the Low

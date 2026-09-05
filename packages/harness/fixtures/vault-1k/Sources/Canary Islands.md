@@ -140,7 +140,7 @@ _Government_.--The archipelago forms one Spanish province, of which the
 capital is Santa Cruz de Tenerife, the residence of the civil governor,
 who has under his command one of the two districts into which the
 archipelago is divided, this first district comprising Teneriffe, Palma,
-Gomera and Hierro. The other district includes Grand Canary, Lanzarote,
+Gomera and Hierro. The other district includes [[Grand Canary]], Lanzarote,
 Fuerteventura, and has at its head a sub-governor, residing in Las
 Palmas, on Grand Canary, who is independent of the governor except in
 regard to elections and municipal administration. The chief finance
@@ -166,7 +166,7 @@ an extraordinarily high price. In the _Terrenos de secano_, or
 non-irrigable districts, the average price of an acre ranges from L7 to
 L17; in the _Terrenes de riego_, or irrigable land, it ranges from L100
 to L250. Until 1853 wine was the staple product, and although even the
-finest brand (known as _Vidonia_) never equalled the best Madeira
+finest [[Brand|brand]] (known as _Vidonia_) never equalled the best Madeira
 vintages, it was largely consumed abroad, especially in England. The
 annual value of the wine exported often exceeded L500,000. In 1853,
 however, the grape disease attacked the vineyards; and thenceforward the
@@ -243,11 +243,11 @@ left the Canaries, entrusting their government to his nephew Maciot de
 Bethencourt, and reserving for himself a share in any profits obtained,
 and the royal title. Eight years of misrule followed before Queen
 Catherine of Castile intervened. Maciot thereupon sold his office to her
-envoy, Pedro Barba de Campos; sailed to Lisbon and resold it to Prince
+envoy, Pedro Barba de Campos; sailed to [[Lisbon]] and resold it to Prince
 Henry the Navigator; and a few years afterwards resold it once more to
 Enrique de Guzman, count of Niebla. Jean de Bethencourt, who died in
 1422, bequeathed the islands to his brother Reynaud; Guzman sold them to
-another Spaniard named Paraza, who was forced to re-sell to Ferdinand
+another Spaniard named Paraza, who was forced to re-sell to [[Ferdinand]]
 and Isabella of Castile in 1476; and Prince Henry twice endeavoured to
 enforce his own claims. Meanwhile the Guanches remained unconquered
 throughout the greater part of the archipelago. In 1479 the sovereignty
@@ -270,7 +270,7 @@ by Spanish troops.
   and illustrations); _De la Tierra Canaria_, by L. and A. Millares
   Cubas (Madrid, 1894); and _Physikalische Beschreibung der kanarischen
   Inseln_, by L. von Buch (Berlin, 1825). Besides the interesting folio
-  atlas of von Buch (Paris, 1836), good modern maps have been published
+  [[Atlas|atlas]] of von Buch (Paris, 1836), good modern maps have been published
   by E. Stanford (London, 1891, 12-1/2 English m. to 1 in.), and M.
   Perez y Rodriquez (Madrid, 1896-1898, 4 sheets). See also _Histoire
   naturelle des iles Canaries_, by P. Barker-Webb and S. Berthelot

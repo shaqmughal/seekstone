@@ -12,13 +12,13 @@ born in Vienna on the 26th of November 1811. His real name was
 Hafenbredl, which he afterwards changed to Hubner. He began his public
 career in 1833 under Metternich, whose confidence he soon gained, and
 who sent him in 1837 as attache to Paris. In 1841 he became secretary of
-embassy at Lisbon, and in 1844 Austrian consul-general at Leipzig. In
+embassy at [[Lisbon]], and in 1844 Austrian consul-general at Leipzig. In
 1848 he was sent to Milan to conduct the diplomatic correspondence of
 Archduke Rainer, viceroy of Lombardy. On the outbreak of the revolution
 he was seized as a hostage, and remained a prisoner for some months.
 Returning to Austria, he was entrusted with the compilation of the
 documents and proclamations relating to the abdication of the Emperor
-Ferdinand and the accession of Francis Joseph. His journal, an
+[[Ferdinand]] and the accession of Francis Joseph. His journal, an
 invaluable clue to the complicated intrigues of this period, was
 published in 1891 in French and German, under the title of _Une Annee de
 ma vie, 1848-1849_. In March 1849 he was sent on a special mission to

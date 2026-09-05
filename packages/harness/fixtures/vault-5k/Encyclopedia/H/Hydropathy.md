@@ -26,14 +26,14 @@ springs by the neighbouring peasantry, investigated the history of cold
 bathing, and published in 1702 his [Greek: "Psychrolousia], _or the
 History of Cold Bathing, both Ancient and Modern_." The book ran through
 six editions within a few years, and the translation was largely drawn
-upon by Dr J. S. Hahn of Silesia, in a work published in 1738, _On the
+upon by Dr J. S. [[Hahn]] of Silesia, in a work published in 1738, _On the
 Healing Virtues of Cold Water, Inwardly and Outwardly applied, as proved
-by Experience_. The other work was that of Dr James Currie (1756-1805)
+by Experience_. The other work was that of Dr James [[Currie]] (1756-1805)
 of Liverpool, entitled _Medical Reports on the Effects of Water, Cold
-and Warm, as a remedy in Fevers and other Diseases_, published in 1797,
+and Warm, as a remedy in [[Fever|Fevers]] and other Diseases_, published in 1797,
 and soon after translated into German by Michaelis (1801) and Hegewisch
 (1807). It was highly popular, and first placed the subject on a
-scientific basis. Hahn's writings had meanwhile created much enthusiasm
+scientific basis. Hahn's writings had meanwhile created much [[Enthusiasm|enthusiasm]]
 among his countrymen, societies having been everywhere formed to promote
 the medicinal and dietetic use of water; and in 1804 Professor Örtel of
 Ansbach republished them and quickened the popular movement by
@@ -51,7 +51,7 @@ enthusiastic in their estimate of his genius and penetration; Captain
 Claridge introduced hydropathy into England in 1840, his writings and
 lectures, and later those of Sir W. Erasmus Wilson (1809-1884), James
 Manby Gully (1808-1883) and Edward Johnson, making numerous converts,
-and filling the establishments opened soon after at Malvern and
+and filling the establishments opened soon after at [[Malvern]] and
 elsewhere. In Germany, France and America hydropathic establishments
 multiplied with great rapidity. Antagonism ran high between the old
 practice and the new. Unsparing condemnation was heaped by each on the
@@ -69,10 +69,10 @@ adequately recognized by John Smedley, a manufacturer of Derbyshire,
 who, impressed in his own person with the severities as well as the
 benefits of "the cold water cure," practised among his workpeople a
 milder form of hydropathy, and began about 1852 a new era in its
-history, founding at Matlock a counterpart of the establishment at
+history, founding at [[Matlock]] a counterpart of the establishment at
 Gräfenberg.
 
-Ernst Brand (1826-1897) of Berlin, Räljen and Theodor von Jürgensen of
+Ernst [[Brand]] (1826-1897) of Berlin, Räljen and Theodor von Jürgensen of
 Kiel, and Karl Liebermeister (1833-1901) of Basel, between 1860 and
 1870, employed the cooling bath in abdominal typhus with striking
 results, and led to its introduction to England by Dr Wilson Fox. In the
@@ -98,7 +98,7 @@ health (see BATHS, ad fin.).
   body, with a number of dry blankets packed tightly over it, including
   a macintosh covering or not. In an hour or less these are removed and
   a general bath administered. The pack is a derivative, sedative,
-  sudorific and stimulator of cutaneous excretion. There are numerous
+  sudorific and stimulator of cutaneous [[Excretion|excretion]]. There are numerous
   modifications of it, notably the cooling pack, where the wrappings are
   loose and scanty, permitting evaporation, and the application of
   indefinite duration, the sheet being rewetted as it dries; this is of
@@ -120,7 +120,7 @@ health (see BATHS, ad fin.).
   also the uraemic, gouty and rheumatic diathesis, are beneficially
   influenced by it. The full pack and Turkish bath have between them
   usurped the place and bettered the function of the once familiar hot
-  bath. The Russian or steam bath and the lamp bath are primitive and
+  bath. The Russian or steam bath and the [[Lamp|lamp]] bath are primitive and
   inferior varieties of the modern Turkish bath, the atmosphere of which
   cannot be too dry and pure.
 
@@ -152,19 +152,19 @@ health (see BATHS, ad fin.).
   their closer application to the skin ensures.
 
   (f) Fomentations and poultices, hot or cold, sinapisms, stupes,
-  rubefacients, irritants, frictions, kneadings, calisthenics,
+  rubefacients, irritants, [[Friction|frictions]], kneadings, calisthenics,
   gymnastics, electricity, &c., are adjuncts largely employed.
 
   BIBLIOGRAPHY.--Among the numerous earlier works on hydropathy, the
   following are worth mention: Balbirnie, _Water Cure in Consumption_
-  (1847), _Hydropathic Aphorisms_ (1856) and _A Plea for the Turkish
+  (1847), _Hydropathic [[Aphorism|Aphorisms]]_ (1856) and _A Plea for the Turkish
   Bath_ (1862); Beni-Barde, _Traité d'hydrothérapie_ (1874); Claridge,
   _Cold Water Cure, or Hydropathy_ (1841), _Facts and Evidence in
   Support of Hydropathy_ (1843) and _Cold Water, Tepid Water and
   Friction Cure_ (1849); Dunlop, _Philosophy of the Bath_ (1873);
   Floyer, _Psychrolousia, or the History of Cold-Bathing_, &c. (1702);
   J. S. Hahn (Schweidnitz), _Observations on the Healing Virtues of Cold
-  Water_ (1738); Hunter, _Hydropathy for Home Use_ (1879); E. W. Lane,
+  Water_ (1738); Hunter, _Hydropathy for Home Use_ (1879); E. W. [[Lane]],
   _Hydropathy, or the Natural System of Medical Treatment_ (1857); R. J.
   Lane, _Life at the Water Cure_ (1851); Shew, _Hydropathic Family
   Physician_ (1857); Smedley, _Practical Hydropathy_ (1879); Smethurst,

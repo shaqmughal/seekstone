@@ -23,7 +23,7 @@ into prison by his father-in-law, King John, Machaut addressed him a
 _Confort d'ami_ to console him for his enforced separation from his
 young wife, then aged fifteen. This was followed about 1370 by a poem of
 9000 lines entitled _La Prise d'Alexandrie_, one of the last chronicles
-cast in this form. Its hero was Pierre de Lusignan, king of Cyprus.
+cast in this form. Its hero was Pierre de Lusignan, king of [[Cyprus]].
 Machaut is best known for the strange book telling of the love affair of
 his old age with a young and noble lady long supposed to be Agnes of
 Navarre, sister of Charles the Bad; Paulin Paris in his edition of the
@@ -36,17 +36,17 @@ and the poems which they exchanged. The romance, which ended with
 Perronne's marriage and Machaut's desire to remain her _doux ami_, has
 gleams of poetry, especially in Perronne's verses, but its subject and
 its length are both deterrent to modern readers. But Machaut with
-Deschamps marks a distinct transition. The _trouvères_ had been
+[[Deschamps]] marks a distinct transition. The _trouvères_ had been
 impersonal. It is difficult to gather any details of their personal
 history from their work. Machaut and Deschamps wrote of their own
 affairs, and the next step in development was to be the self-analysis of
 Villon. Machaut was also a musician. He composed a number of motets,
 songs and ballads, also a mass supposed to have been sung at the
-coronation of Charles V. This was translated into modern notation by
+[[Coronation|coronation]] of Charles V. This was translated into modern notation by
 Perne, who read a notice on it before the Institute of France in 1817.
 
   Machaut's _Oeuvres choisies_ were edited by P. Tarbe (Rheims and
-  Paris, 1849); _La Prise d'Alexandrie_, by L. de Mas-Latrie (Geneva,
+  Paris, 1849); _La Prise d'Alexandrie_, by L. de Mas-Latrie ([[Geneva]],
   1877); and _Le Livre du voir-dit_, by Paulin Paris (1875). See also F.
   G. Fétis, _Biog. universelle des musiciens ..._ (Paris, 1862), and a
   notice on the _Instruments de musique au xiv^e siècle d'après

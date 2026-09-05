@@ -102,7 +102,7 @@ exceed exports, the annual values being about 7½ and 1½ millions
 sterling respectively. The former consist principally of grain and
 flour, cottons and woollens, coffee, iron (raw and manufactured), coal,
 bacon and salt meat, oils, sugar, machinery, flax, jute and hemp,
-paper-hangings, paints, colours, &c., wines and spirits, raw tobacco,
+paper-hangings, paints, [[Colours|colours]], &c., wines and spirits, raw tobacco,
 copper, zinc, lead and tin, silk, molasses and other commodities. The
 principal exports are wood-pulp, timber, nails, paper, butter and
 margarine, matches, condensed milk, fish, leather and hides, ice,

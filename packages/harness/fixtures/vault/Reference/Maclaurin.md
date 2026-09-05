@@ -1,14 +1,14 @@
 # Maclaurin
 
 MACLAURIN, COLIN (1698-1746), Scottish mathematician, was the son of a
-clergyman, and born at Kilmodan, Argyllshire. In 1709 he entered the
-university of Glasgow, where he exhibited a decided genius for
+clergyman, and born at Kilmodan, [[Argyllshire]]. In 1709 he entered the
+university of [[Glasgow]], where he exhibited a decided genius for
 mathematics, more especially for geometry; it is said that before the
 end of his sixteenth year he had discovered many of the theorems
 afterwards published in his _Geometria organica_. In 1717 he was elected
 professor of mathematics in Marischal College, Aberdeen, as the result
 of a competitive examination. Two years later he was admitted F.R.S. and
-made the acquaintance of Sir Isaac Newton. In 1719 he published his
+made the acquaintance of Sir [[Isaac]] Newton. In 1719 he published his
 _Geometria organica, sive descriptio linearum curvarum universalis_. In
 it Maclaurin developed several theorems due to Newton, and introduced
 the method of generating conics which bears his name, and showed that
@@ -23,7 +23,7 @@ curves of the degrees _m_, _n_, _p_, &c., respectively, then the free
 summit moves on a curve of the degree _2mnp_... which reduces to _mnp_
 ... when the fixed points all lie on a right line." In 1722 Maclaurin
 travelled as tutor and companion to the eldest son of Lord Polwarth, and
-after a short stay in Paris resided for some time in Lorraine, where he
+after a short stay in Paris resided for some time in [[Lorraine]], where he
 wrote an essay on the percussion of bodies, which obtained the prize of
 the French Academy of Sciences for the year 1724. The following year he
 was elected professor of mathematics in the university of Edinburgh on
@@ -32,18 +32,18 @@ his nephew, John Conduitt, applied to Maclaurin for his assistance in
 publishing an account of Newton's life and discoveries. This Maclaurin
 gladly undertook, but the death of Conduitt put a stop to the project.
 
-In 1740 Maclaurin divided with Leonhard Euler and Daniel Bernoulli the
+In 1740 Maclaurin divided with Leonhard [[Euler]] and [[Daniel]] Bernoulli the
 prize offered by the French Academy of Sciences for an essay on tides.
 His _Treatise on Fluxions_ was published at Edinburgh in 1742, in two
 volumes. In the preface he states that the work was undertaken in
 consequence of the attack on the method of fluxions made by George
-Berkeley in 1734. Maclaurin's object was to found the doctrine of
+[[Berkeley]] in 1734. Maclaurin's object was to found the doctrine of
 fluxions on geometrical demonstration, and thus to answer all objections
 to its method as being founded on false reasoning and full of mystery.
 The most valuable part of the work is that devoted to physical
 applications, in which he embodied his essay on the tides. In this he
 showed that a homogeneous fluid mass revolving uniformly round an axis
-under the action of gravity ought to assume the form of an ellipsoid of
+under the action of gravity ought to assume the form of an [[Ellipsoid|ellipsoid]] of
 revolution. The importance of this investigation in connexion with the
 theory of the tides, the figure of the earth, and other kindred
 questions, has always caused it to be regarded as one of the great
@@ -63,10 +63,10 @@ Edinburgh Maclaurin fled to England, to avoid making submission to the
 Pretender. He accepted the invitation of T. Herring, then archbishop of
 York, with whom he remained until it was safe to return to Edinburgh. He
 died of dropsy on the 14th of June 1746, at Edinburgh. Maclaurin was
-married in 1733 to Anne, daughter of Walter Stewart, solicitor-general
+married in 1733 to [[Anne]], daughter of Walter Stewart, solicitor-general
 for Scotland. His eldest son John, born in 1734, was distinguished as an
 advocate, and appointed one of the judges of the Scottish court of
-session, with the title of Lord Dreghorn. He inherited an attachment to
+session, with the title of Lord Dreghorn. He inherited an [[Attachment|attachment]] to
 scientific discovery, and was one of the founders of the Royal Society
 of Edinburgh, in 1782.
 

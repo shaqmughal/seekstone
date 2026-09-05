@@ -10,7 +10,7 @@ id: 42-6396
 # Footman
 
 FOOTMAN, a name given among articles of furniture to a metal stand,
-usually of polished steel or brass, and either oblong or oval in shape,
+usually of polished steel or [[Brass|brass]], and either oblong or oval in shape,
 for keeping plates and dishes hot before a dining-room fire. In the days
 before the general use of hot-water dishes the footman possessed
 definite utility, but although it is still in occasional use, it is now

@@ -40,11 +40,11 @@ Aegean. But the confusion of the Leleges with the Carians (immigrant
 conquerors akin to Lydians and Mysians, and probably to Phrygians) which
 first appears in a Cretan legend (quoted by Herodotus, but repudiated,
 as he says, by the Carians themselves) and is repeated by Callisthenes,
-Apollodorus and other later writers, led easily to the suggestion of
+[[Apollodorus]] and other later writers, led easily to the suggestion of
 Callisthenes, that Leleges joined the Carians in their (half legendary)
 raids on the coasts of Greece. Meanwhile other writers from the 4th
-century onwards claimed to discover them in Boeotia, west Acarnania
-(Leucas), and later again in Thessaly, Euboea, Megara, Lacedaemon and
+century onwards claimed to discover them in [[Boeotia]], west Acarnania
+(Leucas), and later again in Thessaly, [[Euboea]], Megara, Lacedaemon and
 Messenia. In Messenia they were reputed immigrant founders of Pylos, and
 were connected with the seafaring Taphians and Teleboans of Homer, and
 distinguished from the Pelasgians; in Lacedaemon and in Leucas they were
@@ -55,7 +55,7 @@ Greece; perhaps this is the result of some early migration; perhaps it
 is also the cause of these Lelegian theories.
 
   Modern speculations (mainly corollaries of Indo-Germanic theory) add
-  little of value to the Greek accounts quoted above. H. Kiepert ("Über
+  little of value to the Greek accounts quoted above. H. [[Kiepert]] ("Über
   den Volksstamm der Leleges," in _Monatsber. Berl. Akad._, 1861, p.
   114) makes the Leleges an aboriginal people akin to Albanians and
   Illyrians; K. W. Deimling, _Die Leleger_ (Leipzig, 1862), starts them

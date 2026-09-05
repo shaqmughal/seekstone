@@ -1,18 +1,18 @@
 # Cremieux
 
-CREMIEUX, ISAAC MOISE [known as ADOLPHE] (1796-1880), French statesman,
+CREMIEUX, [[Isaac|ISAAC]] MOISE [known as ADOLPHE] (1796-1880), French statesman,
 was born at Nimes, of a rich Jewish family. He began life as an advocate
 in his native town. After the revolution of 1830 he came to Paris,
 formed connexions with numerous political personages, even with King
 Louis Philippe, and became a brilliant defender of Liberal ideas in the
 law courts and in the press,--witness his _Eloge funebre_ of the bishop
-Gregoire (1830), his _Memoire_ for the political rehabilitation of
+[[Gregoire]] (1830), his _Memoire_ for the political rehabilitation of
 Marshal Ney (1833), and his plea for the accused of April (1835).
-Elected deputy in 1842, he was one of the leaders in the campaign
+Elected [[Deputy|deputy]] in 1842, he was one of the leaders in the campaign
 against the Guizot ministry, and his eloquence contributed greatly to
 the success of his party. On the 24th of February 1848 he was chosen by
 the Republicans as a member of the provisional government, and as
-minister of justice he secured the decrees abolishing the death penalty
+minister of justice he secured the [[Decree|decrees]] abolishing the death penalty
 for political offences, and making the office of judge immovable. When
 the conflict between the Republicans and Socialists broke out he
 resigned office, but continued to sit in the constituent assembly. At
@@ -31,7 +31,7 @@ Israelite Alliance, and while in the government of the national defence
 he secured the franchise for the Jews in Algeria. This famous _Decret
 Cremieux_ was the origin of the anti-Semitic movement in Algiers.
 Cremieux published a _Recueil_ of his political cases (1869), and the
-_Actes de la delegation de Tours et de Bordeaux_ (2 vols., 1871).
+_Actes de la delegation de Tours et de [[Bordeaux]]_ (2 vols., 1871).
 
 ## See also
 

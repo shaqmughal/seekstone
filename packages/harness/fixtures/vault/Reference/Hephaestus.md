@@ -12,7 +12,7 @@ the ancients often confused with, the Roman god Vulcan (q.v.); the
 derivation of the name is uncertain, but it may well be of Greek origin.
 The elemental character of Hephaestus is far more apparent than is the
 case with the majority of the Olympian gods; the word Hephaestus was
-used as a synonym for fire not only in poetry (Homer, _Il._ ii. 426 and
+used as a synonym for fire not only in poetry ([[Homer]], _Il._ ii. 426 and
 later), but also in common speech (Diod. v. 74). It is doubtful whether
 the origin of the god can be traced to any specific form of fire. As all
 earthly fire was thought to have come from heaven, Hephaestus has been
@@ -26,24 +26,24 @@ not primitive, and it seems reasonable to conclude that Hephaestus was a
 general fire-god, though some of his characteristics were due to
 particular manifestations of the element.
 
-In Homer the fire-god was the son of Zeus and Hera, and found a place in
+In Homer the fire-god was the son of Zeus and [[Hera]], and found a place in
 the Olympian system as the divine smith. The _Iliad_ contains two
 versions of his fall from heaven. In one account (i. 590) he was cast
-out by Zeus and fell on Lemnos; in the other, Hera threw him down
+out by Zeus and fell on [[Lemnos]]; in the other, Hera threw him down
 immediately after his birth in disgust at his lameness, and he was
 received by the sea-goddesses Eurynome and Thetis. The Lemnian version
 is due to the prominence of his cult at Lemnos in very early times; and
 his fall into the sea may have been suggested by volcanic activity in
 Mediterranean islands, as at Lipara and Thera. The subsequent return of
 Hephaestus to Olympus is a favourite theme in early art. His wife was
-Charis, one of the Graces (in the _Iliad_) or Aphrodite (in the
+Charis, one of the [[Graces]] (in the _Iliad_) or [[Aphrodite]] (in the
 _Odyssey_). The connexion of the rough Hephaestus with these goddesses
 is curious; it may be due to the beautiful works of the smith-god
 ([Greek: charienta erga]), but it is possibly derived from the supposed
 fertilizing and productive power of fire, in which case Hephaestus is a
 natural mate of Charis, a goddess of spring, and Aphrodite the goddess
 of love. In Homer, the skill of Hephaestus in metallurgy is often
-mentioned; his forge was on Olympus, where he was served by images of
+mentioned; his forge was on Olympus, where he was served by [[Image|images]] of
 golden handmaids which he had animated. Similar myths are found in
 relation to the Finnish smith-god Ilmarinen, who made a golden woman,
 and the Teutonic Wieland; a belief in the magical power of metal-workers
@@ -68,19 +68,19 @@ new fire was brought from the sacred hearth at Delos. The significance
 of this and similar customs is examined by J. G. Frazer, _Golden Bough_,
 iii. ch. 4. The close connexion of Hephaestus with Lemnos and especially
 with its mountain Mosychlus has been explained by the supposed existence
-of a volcano; but no crater or other sign of volcanic agency is now
+of a volcano; but no [[Crater|crater]] or other sign of volcanic agency is now
 apparent, and the "Lemnian fire"--a phenomenon attributed to
 Hephaestus--may have been due to natural gas (see LEMNOS). In Sicily,
 however, the volcanic nature of the god is prominent in his cult at
-Etna, as well as in the neighbouring Liparaean isles. The Olympian forge
+[[Etna]], as well as in the neighbouring Liparaean isles. The Olympian forge
 had been transferred to Etna or some other volcano, and Hephaestus had
 become a subterranean rather than a celestial power.
 
 The divine smith naturally became a "culture-god"; in Crete the
-invention of forging in iron was attributed to him, and he was honoured
+invention of [[Forging|forging]] in iron was attributed to him, and he was honoured
 by all metal-workers. But we have little record of his cult in this
 aspect, except at Athens, where his worship was of real importance,
-belonging to the oldest stratum of Attic religion. A tribe was called
+belonging to the oldest stratum of [[Attic]] religion. A tribe was called
 after his name, and Erichthonius, the mythical father of the Attic
 people, was the son of Hephaestus. Terra-cotta statuettes of the god
 seem to have been placed before the hearths of Athenian houses. This
@@ -117,7 +117,7 @@ close-fitting cap. His face is that of a middle-aged man, with unkempt
 hair. He is in fact represented as an idealized Greek craftsman, with
 the hammer, and sometimes the pincers. Some mythologists have compared
 the hammer of Hephaestus with that of Thor, and have explained it as the
-emblem of a thunder-god; but it is Zeus, not Hephaestus, who causes the
+[[Emblem|emblem]] of a thunder-god; but it is Zeus, not Hephaestus, who causes the
 thunder, and the emblems of the latter god are merely the signs of his
 occupation as a smith. In art no attempt was made, as a rule, to
 indicate the lameness of Hephaestus; but one sculptor (Alcamenes) is
@@ -128,7 +128,7 @@ said to have suggested the deformity without spoiling the statue.
   Mythologie_, s.v. "Hephaistos" (Leipzig, 1884-1886); Harrison, _Myth.
   and Mon. of Ancient Athens_, p. 119 f. (London, 1890); O. Gruppe,
   _Griech. Mythologie u. Religionsgesch._ p. 1304 f. (Munich, 1906); O.
-  Schrader and F. B. Jevons, _Prehistoric Antiquities of the Aryan
+  Schrader and F. B. Jevons, _Prehistoric Antiquities of the [[Aryan]]
   People_, p. 161, &c. (London, 1890); L. R. Farnell, _Cults of the
   Greek States_, v. (1909).     (E. E. S.)
 

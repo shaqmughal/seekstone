@@ -6,10 +6,10 @@ Alb, 15 m. S.E. of Stuttgart by rail. Pop. (1905), 8830. The town has a
 royal castle built in 1538, two schools and several benevolent
 institutions. The manufactures include cotton goods, damask,
 pianofortes, machinery, furniture, chemicals and cement. The town also
-has wool-spinning establishments and breweries, and a corn exchange. It
+has wool-spinning establishments and breweries, and a [[Corn|corn]] [[Exchange|exchange]]. It
 is the most important wool market in South Germany, and has also a trade
 in fruit, timber and pigs. In the vicinity are the ruins of the castle
-of Teck, the hereditary stronghold of the dukes of that name. Kirchheim
+of Teck, the hereditary stronghold of the [[Dukes|dukes]] of that name. Kirchheim
 has belonged to Württemberg since 1381.
 
 ## See also

@@ -9,10 +9,10 @@ id: 42-5441
 # Caccini
 
 CACCINI, GIULIO (1558-1615?), Italian musical composer, also known as
-Giulio Romano, but to be distinguished from the painter of that name, was
+[[Giulio Romano]], but to be distinguished from the painter of that name, was
 born at Rome about 1558, and in 1578 entered the service of the grand duke
 of Tuscany at Florence. He collaborated with J. Peri in the early attempts
-at musical drama which were the ancestors of modern opera (_Dafne_, 1594,
+at musical [[Drama|drama]] which were the ancestors of modern opera (_Dafne_, 1594,
 and _Euridice_, 1600), produced at Florence by the circle of musicians and
 amateurs which met at the houses of G. Bardi and Corsi. He also published
 in 1601 _Le nuove musiche_, a collection of songs which is of great

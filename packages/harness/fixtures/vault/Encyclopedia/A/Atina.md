@@ -21,7 +21,7 @@ B.C., not having produced any decisive evidence on the point. To the
 Roman period belong the remains of an amphitheatre and numerous
 inscriptions.
 
-2. A town (mod. _Atina_) of the Volsci, 12 m. N. of Casinum, and about
+2. A town (mod. _Atina_) of the Volsci, 12 m. N. of [[Casinum]], and about
 14 m. E. of Arpinum, on a hill 1607 ft. above sea-level. The walls, of
 carefully worked polygonal blocks of stone, are still preserved in
 parts, and the modern town does not fill the whole area which they
@@ -29,7 +29,7 @@ enclose. Cicero speaks of it as a prosperous country town, which had not
 as yet fallen into the hands of large proprietors; and inscriptions show
 that under the empire it was still flourishing. One of these last is a
 boundary stone relating to the assignation of lands in the time of the
-Gracchi, of which six other examples have been found in Campania and
+Gracchi, of which six other examples have been found in [[Campania]] and
 Lucania.
 
 3. A town of the Veneti, mentioned by Pliny, _H.N._ iii. 131.

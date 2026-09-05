@@ -8,7 +8,7 @@ type: reference
 # Gersoppa
 
 GERSOPPA, FALLS OF, a cataract on the Sharavati river in the North
-Kanara district of Bombay. The falls are considered the finest in India.
+[[Kanara]] district of Bombay. The falls are considered the finest in India.
 The river descends in four separate cascades called the Raja or
 Horseshoe, the Roarer, the Rocket and the Dame Blanche. The cliff over
 which the river plunges is 830 ft. high, and the pool at the base of the

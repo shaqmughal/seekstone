@@ -15,9 +15,9 @@ some drawbacks, is valuable as the testimony of an eye-witness of the
 war. An edition, carefully revised, appears in the _Memoires relatifs a
 l'histoire de France_, tome x., edited by J.F. Michaud and J.J.F.
 Poujoulat (Paris, 1850). He also wrote _Instruction sur les affaires
-d'etat_ (Lyons, 1610).
+d'etat_ ([[Lyons]], 1610).
 
-  See J. Lelong, _Bibliotheque historique de la France_ (Paris,
+  See J. [[Lelong]], _Bibliotheque historique de la France_ (Paris,
   1768-1778).
 
 ## See also

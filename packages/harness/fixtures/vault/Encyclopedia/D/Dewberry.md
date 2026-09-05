@@ -2,7 +2,7 @@
 
 DEWBERRY, _Rubus caesius_, a trailing plant, allied to the bramble, of
 the natural order Rosaceae. It is common in woods, hedges and the
-borders of fields in England and other countries of Europe. The leaves
+[[Borders|borders]] of [[Fields|fields]] in England and other countries of Europe. The leaves
 have three leaflets, are hairy beneath, and of a dusky green; the
 flowers which appear in June and July are white, or pale rose-coloured.
 The fruit is large, and closely embraced by the calyx, and consists of a

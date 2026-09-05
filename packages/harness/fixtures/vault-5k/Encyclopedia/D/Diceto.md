@@ -4,15 +4,15 @@ DICETO, RALPH DE (d. c. 1202), dean of St Paul's, London, and
 chronicler, is first mentioned in 1152, when he received the
 archdeaconry of Middlesex. He was probably born between 1120 and 1130;
 of his parentage and nationality we know nothing. The common statement
-that he derived his surname from Diss in Norfolk is a mere conjecture;
+that he derived his surname from [[Diss]] in Norfolk is a mere conjecture;
 Dicetum may equally well be a Latinized form of Dissai, or Dicy, or
-Dizy, place names which are found in Maine, Picardy, Burgundy and
+Dizy, place names which are found in [[Maine]], Picardy, Burgundy and
 Champagne. In 1152 Diceto was already a master of arts; presumably he
 had studied at Paris. His reputation for learning and integrity stood
 high; he was regarded with respect and favour by Arnulf of Lisieux and
-Gilbert Foliot of Hereford (afterwards of London), two of the most
-eminent bishops of their time. Quite naturally, the archdeacon took in
-the Becket question the same side as his friends. Although his narrative
+[[Gilbert Foliot]] of Hereford (afterwards of London), two of the most
+eminent bishops of their time. Quite naturally, the [[Archdeacon|archdeacon]] took in
+the [[Becket]] question the same side as his friends. Although his narrative
 is colourless, and although he was one of those who showed some sympathy
 for Becket at the council of Northampton (1164), the correspondence of
 Diceto shows that he regarded the archbishop's conduct as
@@ -41,7 +41,7 @@ beginning as a compilation from Robert de Monte and the letters of
 Foliot, becomes an original authority about 1172, and a contemporary
 record about 1181. In precision and fulness of detail the _Ymagines_ are
 inferior to the chronicles of the so-called Benedict and of Hoveden.
-Though an annalist, Diceto is careless in his chronology; and the
+Though an annalist, Diceto is careless in his [[Chronology|chronology]]; and the
 documents which he incorporates, while often important, are selected on
 no principle. He has little sense of style; but displays considerable
 insight when he ventures to discuss a political situation. For this

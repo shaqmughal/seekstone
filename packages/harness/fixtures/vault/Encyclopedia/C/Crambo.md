@@ -1,8 +1,8 @@
 # Crambo
 
-CRAMBO, an old rhyming game which, according to Strutt (_Sports and
+CRAMBO, an old rhyming [[Game|game]] which, according to Strutt (_Sports and
 Pastimes_), was played as early as the 14th century under the name of
-the _ABC of Aristotle_. In the days of the Stuarts it was very popular,
+the _ABC of [[Aristotle]]_. In the days of the Stuarts it was very popular,
 and is frequently mentioned in the writings of the time. Thus Congreve's
 _Love for Love_, i. 1, contains the passage, "Get the Maids to Crambo in
 an Evening, and learn the knack of Rhiming." Crambo, or capping the
@@ -15,7 +15,7 @@ right word is guessed.
 
 
 In _Dumb Crambo_ the guessers, instead of naming the word, express its
-meaning by dumb show, a rhyme being given them as a clue.
+meaning by dumb show, a rhyme being given them as a [[Clue|clue]].
 
 ## See also
 

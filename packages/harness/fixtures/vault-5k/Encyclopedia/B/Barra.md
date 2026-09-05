@@ -8,12 +8,12 @@ type: article
 # Barra
 
 BARRA, or BARRAY (Scand. _Baraey_, isle of the ocean), an island of the
-outer Hebrides, Inverness-shire, Scotland. Pop. (1901) 2362. It lies about
+outer [[Hebrides]], Inverness-shire, Scotland. Pop. (1901) 2362. It lies about
 5 m. S.W. of South Uist, is 8 m. in length and from 2 to 4 m. in breadth,
 save at the sandy isthmus 2 m. below Scurrival Point, where it is only a
-few hundred yards broad. The rock formation is gneiss. The highest hill is
+few hundred yards broad. The rock formation is [[Gneiss|gneiss]]. The highest hill is
 Heaval (1260 ft.) and there are several small lochs. The chief village is
-Castlebay, at which the Glasgow steamer calls once a week. This place
+Castlebay, at which the [[Glasgow]] steamer calls once a week. This place
 derives its name from the castle of Kishmul standing on a rock in the bay,
 which was once the stronghold of the McNeills of Barra, one of the oldest
 of Highland clans. There are remains of ancient chapels, Danish duns and

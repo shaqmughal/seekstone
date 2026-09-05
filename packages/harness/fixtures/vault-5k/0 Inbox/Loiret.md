@@ -2,7 +2,7 @@
 
 LOIRET, a department of central France, made up of the three districts
 of the ancient province of Orléanais--Orléanais proper, Gâtinais and
-Dunois--together with portions of those of Île-de-France and Berry. It
+Dunois--together with portions of those of Île-de-France and [[Berry]]. It
 is bounded N. by Seine-et-Oise, N.E. by Seine-et-Marne, E. by Yonne, S.
 by Nièvre and Cher, S.W. and W. by Loir-et-Cher and N.W. by
 Eure-et-Loir. Area, 2629 sq. m. Pop. (1906) 364,999. The name is
@@ -33,7 +33,7 @@ Montargis. The only important tributary of the Loire within the
 department is the Loiret; the Loing, a tributary of the Seine, has a
 course of 40 m. from south to north, and is accompanied first by the
 Briare canal and afterwards by that of the Loing. The Essonne, another
-important affluent of the Seine, leaving Loiret below Malesherbes, takes
+important affluent of the Seine, leaving Loiret below [[Malesherbes]], takes
 its rise on the plateau of Orléans, as also does its tributary the
 Juine. The department has the climate of the Sequanian region, the mean
 temperature being a little above that of Paris; the rainfall varies from
@@ -43,27 +43,27 @@ destruction in the Loire valley and the neighbouring regions.
 
   The department is essentially agricultural in character. A large
   number of sheep, cattle, horses and pigs are reared; poultry,
-  especially geese, and bees are plentiful. The yield of wheat and oats
+  especially geese, and [[Bee|bees]] are plentiful. The yield of wheat and oats
   is in excess of the consumption; rye, barley, meslin, potatoes,
   beetroot, colza and forage plants are also cultivated. Wine in
   abundance, but of inferior quality, is grown on the hills of the Loire
-  valley. Buckwheat supports bees by its flowers, and poultry by its
+  valley. [[Buckwheat]] supports bees by its flowers, and poultry by its
   seeds. Saffron is another source of profit. The woods consist of oak,
-  elm, birch and pine; fruit trees thrive in the department, and Orléans
-  is a great centre of nursery gardens. The industries are brick and
+  [[Elm|elm]], [[Birch|birch]] and pine; fruit trees thrive in the department, and Orléans
+  is a great centre of nursery gardens. The industries are [[Brick|brick]] and
   tile making, and the manufacture of faience, for which Gien is one of
   the most important centres in France. The Briare manufacture of
   porcelain buttons and pearls employs many workmen. Flour-mills are
   very numerous. There are iron and copper foundries, which, with
-  agricultural implement making, bell-founding and the manufacture of
+  agricultural [[Implement|implement]] making, bell-founding and the manufacture of
   pins, nails and files, represent the chief metal-working industries.
-  The production of hosiery, wool-spinning and various forms of wool
+  The production of [[Hosiery|hosiery]], wool-spinning and various forms of wool
   manufacture are also engaged in. A large quantity of the wine grown is
   made into vinegar (vinaigre d'Orléans). The tanneries produce
   excellent leather; and paper-making, sugar-refining, wax-bleaching and
   the manufacture of caoutchouc complete the list of industries. The
   four arrondissements are those of Orléans, Gien, Montargis and
-  Pithiviers, with 31 cantons and 349 communes. The department forms
+  Pithiviers, with 31 cantons and 349 [[Commune|communes]]. The department forms
   part of the _académie_ (educational division) of Paris.
 
 Besides Orléans, the capital, the more noteworthy places, Gien,

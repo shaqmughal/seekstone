@@ -22,7 +22,7 @@ Commagene became a Roman province. In 38 his son ANTIOCHUS IV. EPIPHANES
 was made king by Caligula, who deposed him almost immediately. Restored
 by Claudius in 41, he reigned until 72 as an ally of Rome against
 Parthia. In that year he was deposed on suspicion of treason and retired
-to Rome. Several of his coins are extant.
+to Rome. Several of his [[Coin|coins]] are extant.
 
   On all the above see "Antiochos" in Pauly-Wissowa's _Realencyclopadie
   der classischen Altertumswissenschaft_, i. part ii. (1894).

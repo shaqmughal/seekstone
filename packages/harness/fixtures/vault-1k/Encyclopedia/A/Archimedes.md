@@ -20,7 +20,7 @@ mechanical contrivances which made him famous, regarding them as beneath
 the dignity of pure science and even declining to leave any written
 record of them except in the case of the [Greek: sphairopoiia]
 (_Sphere-making_), as to which see below. As, however, these machines
-impressed the popular imagination, they naturally figure largely in the
+impressed the popular [[Imagination|imagination]], they naturally figure largely in the
 traditions about him. Thus he devised for Hiero engines of war which
 almost terrified the Romans, and which protracted the siege of Syracuse
 for three years. There is a story that he constructed a burning mirror
@@ -42,7 +42,7 @@ filled with water, and observing the difference of overflow. He was so
 overjoyed when this happy thought struck him that he ran home without
 his clothes, shouting [Greek: euraeka, euraeka], "I have found it, I
 have found it." Similarly his pioneer work in mechanics is illustrated
-by the story of his having said [Greek: dos moi pon sto kai kino taen
+by the story of his having said [Greek: dos moi pon sto kai [[Kino|kino]] taen
 gaen] (or as another version has it, in his dialect, [Greek: pa bo kai
 kino tan gan]), "Give me a place to stand and I (will) move the earth."
 Hiero asked him to give an illustration of his contention that a very
@@ -177,7 +177,7 @@ Arpinum."
   mentioned by Pappus; (2) [Greek: Harchai], _Principles_, a book
   addressed to Zeuxippus and dealing with the _naming of numbers_ on the
   system explained in the _Sand Reckoner_; (3) [Greek: Peri zygon], _On
-  balances or levers_; (4) [Greek: Kentrobarika], _On centres of
+  [[Balance|balances]] or levers_; (4) [Greek: Kentrobarika], _On centres of
   gravity_; (5) [Greek: Katoptrika], an optical work from which Theon of
   Alexandria quotes a remark about refraction; (6) [Greek: Hephodion], a
   _Method_, mentioned by Suidas; (7) [Greek: Peri sphairopoiias], _On
@@ -190,7 +190,7 @@ Arpinum."
   the commentary of Eutocius, is that printed at Basel, in 1544, in
   Greek and Latin, by Hervagius. D. Rivault's edition (Paris, 1615) gave
   the enunciations in Greek and the proofs in Latin somewhat retouched.
-  A Latin version of them was published by Isaac Barrow in 1675 (London,
+  A Latin version of them was published by [[Isaac]] Barrow in 1675 (London,
   4to); Nicolas Tartaglia published in Latin the treatises on _Centres
   of Gravity_, on the _Quadrature of the Parabola_, on the _Measurement
   of the Circle_, and on _Floating Bodies_, i. (Venice, 1543); Trojanus

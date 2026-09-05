@@ -21,16 +21,16 @@ Street, until the intercourse was interrupted by an illness which
 compelled him to go to the country. After a period of imprisonment in
 the old Bridewell prison and in Newgate for Quakerism, Ellwood resumed
 his visits to Milton, who was now residing at a house his friend had
-taken for him at Chalfont St Giles. In 1665 Ellwood was again arrested
+taken for him at Chalfont St [[Giles]]. In 1665 Ellwood was again arrested
 and imprisoned in Aylesbury gaol. When he visited Milton after his
-release the poet gave him the manuscript of the _Paradise Lost_ to read.
+release the poet gave him the [[Manuscript|manuscript]] of the _Paradise Lost_ to read.
 On returning the manuscript Ellwood said, "Thou hast said much here of
 Paradise lost; but what hast thou to say of Paradise found?" and when
 Milton long afterwards in London showed him _Paradise Regained_, it was
 with the remark, "This is owing to you, for you put it into my head at
-Chalfont." Ellwood was the friend of Fox and Penn, and was the author of
+Chalfont." Ellwood was the friend of [[Fox]] and Penn, and was the author of
 several polemical works in defence of the Quaker position, of which
-_Forgery no Christianity_ (1674) and _The Foundation of Tithes Shaken_
+_[[Forgery]] no Christianity_ (1674) and _The Foundation of Tithes Shaken_
 (1678) deserve mention. His _Sacred Histories of the Old and New
 Testaments_ appeared in 1705 and 1709. He also published some volumes of
 poems, among them a _Davideis_ in five books. He died on the 1st of

@@ -9,21 +9,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Catesby"
 # Catesby
 
 CATESBY, ROBERT (1573-1605), English conspirator, son of Sir William
-Catesby of Lapworth in Warwickshire, a prominent recusant who was a
+Catesby of [[Lapworth]] in Warwickshire, a prominent recusant who was a
 descendant of Sir William Catesby, speaker of the House of Commons in
 1484, executed by Henry VII. after the battle of Bosworth, was born in
 1573, and entered Gloucester Hall (now Worcester College), Oxford, in
 1586. He possessed a considerable estate, and was said to be wild and
 extravagant in his youth. In 1596 he was one of those arrested on
 suspicion during an illness of Queen Elizabeth. In 1601 he took part in
-the rebellion of Essex, was wounded in the fight and imprisoned, but
+the rebellion of [[Essex]], was wounded in the fight and imprisoned, but
 finally pardoned on the payment of an enormous fine, to obtain which he
 was forced to sell a portion of his property. In 1602 he despatched
 Thomas Winter and the Jesuit Tesimond _alias_ Greenway to Spain to
 induce Philip III. to organize an invasion of England, and in 1603,
 after James's accession, he was named as an accomplice in the "Bye
 Plot." Catesby was a man of great beauty of person, "above 2 yards
-high," says Father Gerard, "and though slender, yet as well-proportioned
+high," says Father [[Gerard]], "and though slender, yet as well-proportioned
 to his height as any man one should see." He possessed a clear head and
 unflinching courage, and with a strong determination and fascinating
 manner mastered the minds of his associates and overpowered all
@@ -36,7 +36,7 @@ chief instigator of the famous Gunpowder Plot, which must in any event
 have brought disaster upon the Roman Catholic cause. The idea of some
 great stroke seems to have first entered his mind in May 1603. About the
 middle of January 1604 he imparted his scheme of blowing up the
-Parliament House to his cousin Thomas Winter, subsequently taking in Guy
+Parliament House to his [[Cousin|cousin]] Thomas Winter, subsequently taking in Guy
 Fawkes and several other conspirators and overcoming all fears and
 scruples. But it was his determination, from which he would not be
 shaken, not to allow warning to be given to the Roman Catholic peers
@@ -61,7 +61,7 @@ taking refuge ultimately at Holbeche in Staffordshire, where on the
 night of the 8th of November he was overtaken and killed. He had married
 Catherine, daughter of Thomas Leigh of Stoneleigh, Warwickshire, and
 left one son, Robert, who inherited that part of the family estate which
-had been settled on Catesby's mother and was untouched by the attainder,
+had been settled on Catesby's mother and was untouched by the [[Attainder|attainder]],
 and who is said to have married a daughter of Thomas Percy.
 
 ## References

@@ -1,9 +1,9 @@
 # Kolbe
 
-KOLBE, ADOLPHE WILHELM HERMANN (1818-1884), German chemist, was born on
+KOLBE, ADOLPHE WILHELM [[Hermann|HERMANN]] (1818-1884), German chemist, was born on
 the 27th of September 1818 at Elliehausen, near Göttingen, where in 1838
-he began to study chemistry under F. Wöhler. In 1842 he became assistant
-to R. W. von Bunsen at Marburg, and three years later to Lyon Playfair
+he began to study [[Chemistry|chemistry]] under F. Wöhler. In 1842 he became assistant
+to R. W. von Bunsen at [[Marburg]], and three years later to Lyon Playfair
 at London. From 1847 to 1851 he was engaged at Brunswick in editing the
 _Dictionary of Chemistry_ started by Liebig, but in the latter year he
 went to Marburg as successor to Bunsen in the chair of chemistry. In
@@ -11,7 +11,7 @@ went to Marburg as successor to Bunsen in the chair of chemistry. In
 city on the 25th of November 1884. Kolbe had an important share in the
 great development of chemical theory that occurred about the middle of
 the 19th century, especially in regard to the constitution of organic
-compounds, which he viewed as derivatives of inorganic ones, formed from
+[[Compound|compounds]], which he viewed as derivatives of inorganic ones, formed from
 the latter--in some cases directly--by simple processes of substitution.
 Unable to accept Berzelius's doctrine of the unalterability of organic
 radicals, he also gave a new interpretation to the meaning of copulae

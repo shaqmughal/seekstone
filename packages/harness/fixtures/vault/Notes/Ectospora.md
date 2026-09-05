@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ectospora"
 # Ectospora
 
 ECTOSPORA, a homogeneous and natural division of Protozoan parasites
-included under the Sporozoa; they comprise the three orders, Gregarines,
-Coccidia and Haemosporidia. The defining character of the Ectospora is
+included under the Sporozoa; they comprise the three orders, [[Gregarines]],
+[[Coccidia]] and Haemosporidia. The defining character of the Ectospora is
 that the spore-mother-cells (sporoblasts) are formed at the periphery of
 the parent-individual (sporont); we may, however, go further, and say
 that the formation of all the different reproductive elements is

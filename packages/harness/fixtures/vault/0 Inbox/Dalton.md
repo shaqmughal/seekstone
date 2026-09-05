@@ -8,20 +8,20 @@ type: reference
 # Dalton
 
 DALTON, JOHN (1766-1844), English chemist and physicist, was born about
-the 6th of September 1766 at Eaglesfield, near Cockermouth in
-Cumberland. His father, Joseph Dalton, was a weaver in poor
+the 6th of September 1766 at Eaglesfield, near [[Cockermouth]] in
+[[Cumberland]]. His father, Joseph Dalton, was a weaver in poor
 circumstances, who, with his wife (Deborah Greenup), belonged to the
 Society of Friends; they had three children--Jonathan, John and Mary.
 John received his early education from his father and from John
 Fletcher, teacher of the Quakers' school at Eaglesfield, on whose
 retirement in 1778 he himself started teaching. This youthful venture
-was not successful, the amount he received in fees being only about five
+was not successful, the amount he received in [[Fee|fees]] being only about five
 shillings a week, and after two years he took to farm work. But he had
 received some instruction in mathematics from a distant relative, Elihu
 Robinson, and in 1781 he left his native village to become assistant to
-his cousin George Bewley who kept a school at Kendal. There he passed
+his [[Cousin|cousin]] George Bewley who kept a school at Kendal. There he passed
 the next twelve years, becoming in 1785, through the retirement of his
-cousin, joint manager of the school with his elder brother Jonathan.
+cousin, joint manager of the school with his elder brother [[Jonathan]].
 About 1790 he seems to have thought of taking up law or medicine, but
 his projects met with no encouragement from his relatives and he
 remained at Kendal till, in the spring of 1793, he moved to Manchester,
@@ -31,7 +31,7 @@ scientific knowledge, he was appointed teacher of mathematics and
 natural philosophy at the New College in Moseley Street (in 1880
 transferred to Manchester College, Oxford), and that position he
 retained until the removal of the college to York in 1799, when he
-became a "public and private teacher of mathematics and chemistry."
+became a "public and private teacher of mathematics and [[Chemistry|chemistry]]."
 
 During his residence in Kendal, Dalton had contributed solutions of
 problems and questions on various subjects to the _Gentlemen's_ and
@@ -44,18 +44,18 @@ the book met with only a limited sale. Another work by him, _Elements of
 English Grammar_, was published in 1801. In 1794 he was elected a member
 of the Manchester Literary and Philosophical Society, and a few weeks
 after election he communicated his first paper on "Extraordinary facts
-relating to the vision of colours," in which he gave the earliest
+relating to the vision of [[Colours|colours]]," in which he gave the earliest
 account of the optical peculiarity known as Daltonism or
 colour-blindness, and summed up its characteristics as observed in
 himself and others. Besides the blue and purple of the spectrum he was
 able to recognize only one colour, yellow, or, as he says in his paper,
-"that part of the image which others call red appears to me little more
+"that part of the [[Image|image]] which others call red appears to me little more
 than a shade or defect of light; after that the orange, yellow and green
 seem one colour which descends pretty uniformly from an intense to a
 rare yellow, making what I should call different shades of yellow." This
 paper was followed by many others on diverse topics--on rain and dew and
 the origin of springs, on heat, the colour of the sky, steam, the
-auxiliary verbs and participles of the English language and the
+[[Auxiliary|auxiliary]] verbs and participles of the English language and the
 reflection and refraction of light. In 1800 he became a secretary of the
 society, and in the following year he presented the important paper or
 series of papers, entitled "Experimental Essays on the constitution of
@@ -90,12 +90,12 @@ inseparably associated. It has been supposed that this theory was
 suggested to him either by researches on olefiant gas and carburetted
 hydrogen or by analysis of "protoxide and deutoxide of azote," both
 views resting on the authority of Dr Thomas Thomson (1773-1852),
-professor of chemistry in Glasgow university. But from a study of
+professor of chemistry in [[Glasgow]] university. But from a study of
 Dalton's own MS. laboratory notebooks, discovered in the rooms of the
 Manchester society, Roscoe and Harden (_A New View of the Origin of
 Dalton's Atomic Theory_, 1896) conclude that so far from Dalton being
 led to the idea that chemical combination consists in the approximation
-of atoms of definite and characteristic weight by his search for an
+of [[Atom|atoms]] of definite and characteristic weight by his search for an
 explanation of the law of combination in multiple proportions, the idea
 of atomic structure arose in his mind as a purely physical conception,
 forced upon him by study of the physical properties of the atmosphere
@@ -115,7 +115,7 @@ analysis of water, ammonia, carbon-dioxide, &c. by chemists of the time.
 It appears, then, that, confronted with the "problem of ascertaining the
 relative diameter of the particles of which, he was convinced, all gases
 were made up, he had recourse to the results of chemical analysis.
-Assisted by the assumption that combination always takes place in the
+Assisted by the [[Assumption|assumption]] that combination always takes place in the
 simplest possible way, he thus arrived at the idea that chemical
 combination takes place between particles of different weights, and this
 it was which differentiated his theory from the historic speculations of
@@ -158,7 +158,7 @@ cause no increase in its volume, his inference being that the "salt
 enters into the pores of the water."
 
 As an investigator, Dalton was content with rough and inaccurate
-instruments, though better ones were readily attainable. Sir Humphry
+instruments, though better ones were readily attainable. Sir [[Humphry]]
 Davy described him as a "very coarse experimenter," who "almost always
 found the results he required, trusting to his head rather than his
 hands." In the preface to the second part of vol. i. of his _New System_
@@ -168,7 +168,7 @@ attest by my own experience," but this independence he carried so far
 that it sometimes resembled lack of receptivity. Thus he distrusted, and
 probably never fully accepted, Gay-Lussac's conclusions as to the
 combining volumes of gases; he held peculiar and quite unfounded views
-about chlorine, even after its elementary character had been settled by
+about [[Chlorine|chlorine]], even after its elementary character had been settled by
 Davy; he persisted in using the atomic weights he himself had adopted,
 even when they had been superseded by the more accurate determinations
 of other chemists; and he always objected to the chemical notation
@@ -196,24 +196,24 @@ that he delighted in the society of women of education and refinement,
 he lived for more than a quarter of a century with his friend the Rev.
 W. Johns (1771-1845), in George Street, Manchester, where his daily
 round of laboratory work and tuition was broken only by annual
-excursions to the Lake district and occasional visits to London, "a
+excursions to the [[Lake District|Lake district]] and occasional visits to London, "a
 surprising place and well worth one's while to see once, but the most
 disagreeable place on earth for one of a contemplative turn to reside in
 constantly." In 1822 he paid a short visit to Paris, where he met many
 of the distinguished men of science then living in the French capital,
 and he attended several of the earlier meetings of the British
-Association at York, Oxford, Dublin and Bristol. Into society he rarely
-went, and his only amusement was a game of bowls on Thursday afternoons.
+Association at York, Oxford, Dublin and [[Bristol]]. Into society he rarely
+went, and his only amusement was a [[Game|game]] of bowls on Thursday afternoons.
 He died in Manchester in 1844 of paralysis. The first attack he suffered
 in 1837, and a second in 1838 left him much enfeebled, both physically
 and mentally, though he remained able to make experiments. In May 1844
 he had another stroke; on the 26th of July he recorded with trembling
 hand his last meteorological observation, and on the 27th he fell from
 his bed and was found lifeless by his attendant. A bust of him, by
-Chantrey, was publicly subscribed for in 1833 and placed in the entrance
+[[Chantrey]], was publicly subscribed for in 1833 and placed in the entrance
 hall of the Manchester Royal Institution.
 
-  See Henry, _Life of Dalton_, Cavendish Society (1854); Angus Smith,
+  See Henry, _Life of Dalton_, [[Cavendish]] Society (1854); [[Angus]] Smith,
   _Memoir of John Dalton and History of the Atomic Theory_ (1856), which
   on pp. 253-263 gives a list of Dalton's publications; and Roscoe and
   Harden, _A New View of the Origin of Dalton's Atomic Theory_ (1896);

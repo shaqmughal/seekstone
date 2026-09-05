@@ -15,10 +15,10 @@ and some incidents of the war of Spoleto, in the great council-hall of
 Venice. These works were greatly admired at the time, but have long ago
 disappeared under repaintings. His works in Padua have suffered much. In
 the church of the Eremitani are allegories of the Planets, and, in its
-choir, some small sacred histories in dead colour, such as an Ecce Homo;
+[[Choir|choir]], some small sacred histories in dead colour, such as an Ecce Homo;
 also, on the upper walls, the life of St Augustine, with some other
 subjects. A few fragments of other paintings by Guariento are still
-extant in Padua. In the gallery of Bassano is a Crucifixion, carefully
+extant in Padua. In the gallery of [[Bassano]] is a Crucifixion, carefully
 executed, and somewhat superior to a merely traditional method of
 handling, although on the whole Guariento must rather be classed in that
 school of art which preceded Cimabue than as having advanced in his

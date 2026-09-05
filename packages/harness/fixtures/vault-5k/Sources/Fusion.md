@@ -41,7 +41,7 @@ deg. C. into the monosymmetric form which melts at 120 deg., but if
 heated rapidly the rhombic form melts at 114.5. The two forms, rhombic
 and monosymmetric, can exist in equilibrium at 95.6 deg., the transition
 point at which they have the same vapour pressure. Similarly a solid
-solution of carbon in iron, when cooled slowly, passes at about 700 deg.
+solution of [[Carbon|carbon]] in iron, when cooled slowly, passes at about 700 deg.
 C., with considerable evolution of heat, into the form of "pearlite,"
 which is soft when cold, but if rapidly chilled the carbon remains in
 solution and the steel is very hard (see also ALLOYS).
@@ -59,7 +59,7 @@ fully studied and their phenomena greatly elucidated in recent years.
 
 There is also a sub-variety of amorphous fusion, which may be styled
 colloid or gelatinous, and may be illustrated by the behaviour of
-solutions of water in gelatin. Many of these jellies melt at a fairly
+solutions of water in [[Gelatin|gelatin]]. Many of these jellies melt at a fairly
 definite temperature on heating, and coagulate or set at a definite
 temperature on cooling. But in some cases the process is not reversible,
 and there is generally marked hysteresis, the temperature of setting and
@@ -114,7 +114,7 @@ constancy of temperature in the case of homogeneous crystalline solids.
   Sodium       95.6 deg.     Silver       962 deg.
   Tin         231.9 deg.     Gold        1064 deg.
   Bismuth     269.2 deg.     Copper      1082 deg.
-  Cadmium     320.7 deg.     Nickel      1427 deg.
+  [[Cadmium]]     320.7 deg.     Nickel      1427 deg.
   Lead        327.7 deg.     Palladium   1535 deg.
   Zinc        419.0 deg.     Platinum    1710 deg.
 
@@ -133,7 +133,7 @@ which would assist the molecules to rearrange themselves. A liquid in
 this state is said to be "undercooled" or "superfused." The phenomenon
 is even more familiar in the case of solutions (e.g. sodium sulphate or
 acetate) which may remain in the "metastable" condition for an
-indefinite time if protected from dust, &c. The introduction into the
+indefinite time if protected from [[Dust|dust]], &c. The introduction into the
 liquid under this condition of the smallest fragment of the crystal,
 with respect to which the solution is supersaturated, will produce
 immediate crystallization, which will continue until the temperature is
@@ -160,7 +160,7 @@ VAPORIZATION) when the supersaturation exceeds a certain limit.
   was first predicted by James Thomson on the analogy of the effect of
   pressure on the boiling point, and was numerically verified by Lord
   Kelvin in the case of ice, and later by Bunsen in the case of paraffin
-  and spermaceti. The equation by which the change of the F.P. is
+  and spermaceti. The [[Equation|equation]] by which the change of the F.P. is
   calculated may be proved by a simple application of the Carnot cycle,
   exactly as in the case of vapour and liquid. (See THERMODYNAMICS.) If
   L be the latent heat of fusion in mechanical units, v' the volume of
@@ -291,8 +291,8 @@ solution is saturated with respect to both salt and ice. The
 concentration cannot vary further, and the temperature remains constant,
 while the salt and ice crystallize out together, maintaining the exact
 proportions in which they exist in the solution. The resulting solid was
-termed a cryohydrate by F. Guthrie, but it is really an intimate mixture
-of two kinds of crystals, and not a chemical compound or hydrate
+termed a cryohydrate by F. [[Guthrie]], but it is really an intimate mixture
+of two kinds of crystals, and not a chemical [[Compound|compound]] or hydrate
 containing the constituents in chemically equivalent proportions. The
 lowest temperature attainable by means of a freezing mixture is the
 temperature of the F.P. of the corresponding cryohydrate. In a mixture
@@ -394,7 +394,7 @@ other way.
 
   which may be integrated, assuming Q constant, with the result
 
-    2log_eC" / C' = Q / [theta]' - Q / [theta]",   (7)
+    2[[Log|log]]_eC" / C' = Q / [theta]' - Q / [theta]",   (7)
 
   where C', C" are the concentrations of the saturated solution
   corresponding to the temperatures [theta]' and [theta]". This
@@ -478,7 +478,7 @@ crystals of the hydrate are in equilibrium with the saturated solution.
 At any given temperature the hydrate possessing the least solubility is
 the most stable. If two are present in contact with the same solution,
 the more soluble will dissolve, and the less soluble will be formed at
-its expense until the conversion is complete. The two hydrates cannot be
+its expense until the [[Conversion|conversion]] is complete. The two hydrates cannot be
 in equilibrium with the same solution except at the temperature at which
 their solubilities are equal, i.e. at the point where the corresponding
 curves of solubility intersect. This temperature is called the

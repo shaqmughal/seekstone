@@ -12,7 +12,7 @@ of ground which separates this bank from the water's edge. Along the
 crest of the bank a public park is laid out, commanding a view of the
 desolate Dobrudja hills, across the river.
 
-On the landward side, Braila has the shape of a crescent, the curve of
+On the landward side, Braila has the shape of a [[Crescent|crescent]], the curve of
 its outer streets following the line of the old fortifications,
 dismantled in 1829. Few houses, among the older quarters, exceed two
 storeys in height, but the main streets are paved, and there is a

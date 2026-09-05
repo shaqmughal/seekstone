@@ -1,6 +1,6 @@
 # Caran D'Ache
 
-CARAN D'ACHE, the pseudonym (meaning "lead-pencil") of Emmanuel Poire
+CARAN D'ACHE, the pseudonym (meaning "lead-pencil") of [[Emmanuel]] Poire
 (1858-1909), French artist and illustrator, who was born and educated at
 Moscow, being the grandson of one of Napoleon's officers who had settled
 in Russia. He determined to be a military painter, and when he arrived

@@ -20,20 +20,20 @@ he participated in the commercial negotiations with France, in 1878
 compiled the Italian customs tariff, and subsequently took a leading
 part in the negotiations of all the commercial treaties between Italy
 and other countries. Appointed minister of the treasury in the first Di
-Rudini cabinet of 1891, he imprudently abolished the system of frequent
+Rudini [[Cabinet|cabinet]] of 1891, he imprudently abolished the system of frequent
 clearings of bank-notes between the state banks, a measure which
 facilitated the duplication of part of the paper currency and hastened
 the bank crisis of 1893. In 1896 he entered the second Di Rudini cabinet
 as minister of the treasury, and by timely legislation helped to save
 the bank of Naples from failure. After his fall from office in June
 1898, his principal achievement was the negotiation of the
-Franco-Italian commercial treaty, though, as deputy, journalist and
+Franco-Italian commercial treaty, though, as [[Deputy|deputy]], journalist and
 professor, he continued to take an active part in all political and
 economic manifestations. He was again minister of the treasury from
 November 1903 to March 1905 in Giolitti's second administration, and for
 the third time from February to May 1906, under Sonnino's premiership.
-During the latter term of office he achieved the conversion of the
-Italian 5% debt (reduced to 4% by the tax) to 3¾% to be eventually
+During the latter term of office he achieved the [[Conversion|conversion]] of the
+Italian 5% [[Debt|debt]] (reduced to 4% by the tax) to 3¾% to be eventually
 lowered to 3½%, an operation which other ministers had attempted without
 success; although the actual conversion was not completed until after
 the fall of the cabinet of which he formed part the merit is entirely

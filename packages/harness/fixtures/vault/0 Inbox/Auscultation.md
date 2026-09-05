@@ -9,10 +9,10 @@ of the chest and abdomen. Still no general application of this method of
 investigation was resorted to, or was indeed possible, till the advance
 of the study of anatomy led to correct ideas regarding the locality,
 structure and uses of the various organs of the body, and the
-alterations produced in them by disease. In 1761 Leopold Auenbrugger
+alterations produced in them by disease. In 1761 [[Leopold]] Auenbrugger
 (1722-1809), a Viennese physician, published his _Inventum Novum_,
 describing the art of percussion in reference more especially to
-diseases of the chest. This consisted in tapping with the fingers the
+diseases of the chest. This consisted in tapping with the [[Finger|fingers]] the
 surface of the body, so as to elicit sounds by which the comparative
 resonance of the subjacent parts or organs might be estimated.
 Auenbrugger's method attracted but little attention till the French
@@ -23,7 +23,7 @@ practised in the manner above mentioned (_immediate percussion_), but
 subsequently the method of _mediate percussion_ was introduced by P.A.
 Piorry (1794-1879). It is accomplished by placing upon the spot to be
 examined some solid substance, upon which the percussion strokes are
-made with the fingers. For this purpose a thin oval piece of ivory
+made with the fingers. For this purpose a thin oval piece of [[Ivory|ivory]]
 (called a _pleximeter_, or stroke-measurer) may be used, with a small
 hammer; but one or more fingers of the left hand applied flat upon the
 part answer equally well, and this is the method which most physicians
@@ -31,7 +31,7 @@ adopt. Percussion must be regarded as a necessary part of auscultation,
 particularly in relation to the examination of the chest; for the
 physician who has made himself acquainted with the normal condition of
 that part of the body in reference to percussion is thus able to
-recognize by the ear alterations of resonance produced by disease. But
+recognize by the [[Ear|ear]] alterations of resonance produced by disease. But
 percussion alone, however important in diagnosis, could manifestly
 convey only limited and imperfect information, for it could never
 indicate the nature or extent of functional disturbance.
@@ -40,11 +40,11 @@ In 1819 the distinguished French physician R.T.H. Laennec (1781-1826)
 published his _Traite de L'auscultation mediate_, embodying the present
 methods of auscultatory examination, and venturing definite conclusions
 based on years of his own study. He also invented the stethoscope
-([Greek: staethos], the breast, and [Greek: skopein], to examine). Since
+([Greek: staethos], the [[Breast|breast]], and [Greek: skopein], to examine). Since
 then many men have widened the scope of auscultation, notably Skoda,
-Wintrich, A. Geigel, Th. Weber and Gerhardt. According to Laennec the
+Wintrich, A. Geigel, Th. Weber and [[Gerhardt]]. According to Laennec the
 essential of a good stethoscope was its capability of intensifying the
-tone vibrations. But since his time the opinion of experts on this
+tone vibrations. But since his time the opinion of [[Expert|experts]] on this
 matter has somewhat changed, and there are now two definite schools. The
 first and older condemns the resonating stethoscope, maintaining that
 the tones are bound to be altered; the second and younger school warmly
@@ -53,7 +53,7 @@ phonendoscope much used by the younger men, which has the advantage that
 it can be used when the older type of instrument fails, viz. when the
 patient is recumbent and too ill to be moved. By slipping it beneath the
 patient's back a fairly accurate idea of the breathing over the bases of
-the lungs behind can often be obtained.
+the [[Lung|lungs]] behind can often be obtained.
 
 Stethoscopes have been made of many forms and materials. They usually
 consist of a hollow stem of wood, hard rubber or metal, with an enlarged
@@ -63,7 +63,7 @@ instrument to be more conveniently carried, the ear-plate can be
 unscrewed from the tube. The length of the stem of the instrument is of
 minor importance, but its bore should be as nearly as possible that of
 the entrance of the external ear. A flexible stethoscope in general use
-both in England and America transmits the sound from a funnel through
+both in England and America transmits the sound from a [[Funnel|funnel]] through
 tubes to the ears of the observer. This is the common form of a binaural
 resonating stethoscope. It is convenient and gives a loud tone, but is
 condemned by the older school, who say that the resonance is confusing,
@@ -86,7 +86,7 @@ unattainable. The same holds good in the case of the heart, whose varied
 and often complex forms of disease can, by auscultation, be identified
 with striking accuracy. But in addition to these its main uses,
 auscultation is found to render great assistance in the investigation of
-many obscure internal affections, such as aneurysms and certain diseases
+many obscure internal affections, such as [[Aneurysm|aneurysms]] and certain diseases
 of the oesophagus and stomach. To the accoucheur the stethoscope yields
 valuable aid in the detection of some forms of uterine tumours, and
 especially in the diagnosis of pregnancy--the only evidence now accepted

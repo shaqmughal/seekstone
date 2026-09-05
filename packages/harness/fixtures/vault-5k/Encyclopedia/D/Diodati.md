@@ -1,8 +1,8 @@
 # Diodati
 
 DIODATI, GIOVANNI (1576-1649), Swiss Protestant divine, was born at
-Geneva on the 6th of June 1576, of a noble family originally belonging
-to Lucca, which had been expatriated on account of its Protestantism. At
+[[Geneva]] on the 6th of June 1576, of a noble family originally belonging
+to [[Lucca]], which had been expatriated on account of its Protestantism. At
 the age of twenty-one he was nominated professor of Hebrew at Geneva on
 the recommendation of Theodor Beza. In 1606 he became professor of
 theology, in 1608 pastor, or parish minister, at Geneva, and in the

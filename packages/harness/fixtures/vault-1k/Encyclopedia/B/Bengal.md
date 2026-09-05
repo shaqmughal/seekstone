@@ -26,7 +26,7 @@ and Khondmals, Puri, Hazaribagh, Ranchi, Palamau, Manbhum, Singhbum and
 Sambalpur, and the native states of Sikkim and the tributary states of
 Orissa and Chota Nagpur.
 
-The name Bengal is derived from Sanskrit geography, and applies strictly
+The name Bengal is derived from Sanskrit [[Geography|geography]], and applies strictly
 to the country stretching southwards from Bhagalpur to the sea. The
 ancient Banga formed one of the five outlying kingdoms of Aryan India,
 and was practically conterminous with the delta of Bengal. It derived
@@ -224,7 +224,7 @@ central India, piratical devastations on the sea-board, banditti who
 marched about the interior in bodies of 50,000 men, floods which drowned
 the harvests of whole districts, and droughts in which a third of the
 population starved to death, kept alive a sense of human powerlessness
-in the presence of an omnipotent fate. Under the Mahommedans a
+in the presence of an omnipotent [[Fate|fate]]. Under the Mahommedans a
 pestilence turned the capital into a silent wilderness, never again to
 be re-peopled. Under British rule it is estimated that 10 millions
 perished within the Lower Provinces alone in the famine of 1769-1770;
@@ -269,7 +269,7 @@ most valuable crop, but being sown in low lands is liable to be
 destroyed by excessive rainfall. Harvest takes place in December or
 January. _Aus_ rice is generally sown on high ground. The field is
 ploughed when the early rains set in, ten or twelve times over, till the
-soil is reduced nearly to dust, the seed being sown broadcast in April
+soil is reduced nearly to [[Dust|dust]], the seed being sown broadcast in April
 or May. As soon as the young plants reach 6 in. in height, the land is
 harrowed for the purpose of thinning the crop and to clear it of weeds.
 The crop is harvested in August or September. _Boro_, or spring rice, is
@@ -406,7 +406,7 @@ These settlements were of a purely commercial character. In 1620 one of
 the Company's factors dates from Patna; in 1624-1636 the Company
 established itself, by the favour of the emperor, on the ruins of the
 ancient Portuguese settlement of Pippli, in the north of Orissa; in
-1640-1642 an English surgeon, Gabriel Boughton, obtained establishments
+1640-1642 an English surgeon, Gabriel [[Boughton]], obtained establishments
 at Balasore, also in Orissa, and at Hugli, some miles above Calcutta.
 The vexations and extortions to which the Company's early agents were
 subjected more than once almost induced them to abandon the trade, and
@@ -423,7 +423,7 @@ followed by Clive's battle of Plassey and capture of Calcutta, which
 avenged it. That battle, and the subsequent years of confused fighting,
 established British military supremacy in Bengal, and procured the
 treaties of 1765, by which the provinces of Bengal, Behar and Orissa
-passed under British administration. To Warren Hastings (1772-1785)
+passed under British administration. To Warren [[Hastings]] (1772-1785)
 belongs the glory of consolidating the British power, and converting a
 military occupation into a stable civil government. To another member of
 the civil service, John Shore, afterwards Lord Teignmouth (1786-1793),
@@ -483,7 +483,7 @@ recorded up to that date.
 
 The earthquake of the 12th of June 1897, which had its centre of
 disturbance in Assam, was felt throughout eastern and northern Bengal.
-In all the large towns the masonry buildings were severely damaged or
+In all the large towns the [[Masonry|masonry]] buildings were severely damaged or
 totally wrecked. The permanent way of the railways also suffered. The
 total number of deaths returned was only 135. Far more destructive to
 life was the cyclone and storm-wave that broke over Chittagong district
@@ -513,7 +513,7 @@ heading (see INDIA: _History_).
   provinces of Bengal and Assam (Cd. 2658 and Cd. 2746, 1905); Colonel
   E.T. Dalton, _The Ethnology of Bengal_ (1872); Sir W.W. Hunter,
   _Annals of Rural Bengal_ (1868), and _Orissa_ (1872); Sir H.H. Risley,
-  _Tribes and Castes of Bengal_ (1891); C.E. Buckland, _Bengal under the
+  _Tribes and [[Caste|Castes]] of Bengal_ (1891); C.E. Buckland, _Bengal under the
   Lieutenant-Governors_ (1901); and Sir James Bourdillon, _The Partition
   of Bengal_ (Society of Arts, 1905).
 

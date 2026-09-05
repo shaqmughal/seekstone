@@ -27,8 +27,8 @@ considerable part of it is obviously legendary. It assumes that the
 bishops of Rome exercised authority over the Christian Church from its
 earliest days.
 
-  _The Liber_, which was used by Bede for his _Historia Ecclesiastica_,
-  was first printed at Mainz in 1602. Among other editions is the one
+  _The Liber_, which was used by [[Bede]] for his _Historia Ecclesiastica_,
+  was first printed at [[Mainz]] in 1602. Among other editions is the one
   edited by T. Mommsen for the _Monumenta Germaniae historica. Gesta
   Romanorum pontificum_, Band i., but the best is the one by L.
   Duchesne, _Le Liber pontificalis: texte, introduction, commentaire_

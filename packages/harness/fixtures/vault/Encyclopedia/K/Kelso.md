@@ -21,7 +21,7 @@ abbey, the building of which was completed towards the middle of the
 in Scotland, claiming precedence over the other monasteries and
 disputing for a time the supremacy with St Andrews. It suffered damage
 in numerous English forays, was pillaged by the 4th earl of Shrewsbury
-in 1522, and was reduced to ruins in 1545 by the earl of Hertford
+in 1522, and was reduced to ruins in 1545 by the earl of [[Hertford]]
 (afterwards the Protector Somerset). In 1602 the abbey lands passed into
 the hands of Sir Robert Ker of Cessford, 1st earl of Roxburghe. The
 ruins were disfigured by an attempt to render part of them available for
@@ -29,29 +29,29 @@ public worship, and one vault was long utilized as the town gaol. All
 excrescences, however, were cleared away at the beginning of the 19th
 century, by the efforts of the Duke of Roxburghe. The late Norman and
 Early Pointed cruciform church has an unusual ground-plan, the west end
-of the cross forming the nave and being shorter than the chancel. The
+of the cross forming the nave and being shorter than the [[Chancel|chancel]]. The
 nave and transepts extend only 23 ft. from the central tower. The
 remains include most of the tower, nearly the whole of the walls of the
 south transept, less than half of the west front with a fragment of the
 richly moulded and deeply-set doorway, the north and west sides of the
 north transept, and a remnant of the chancel. The chancel alone had
-aisles, while its main circular arches were surmounted by two tiers of
+aisles, while its main circular [[Arches|arches]] were surmounted by two tiers of
 triforium galleries. The predominant feature is the great central tower,
 which, as seen from a distance, suggests the keep of a Norman castle. It
 rested on four Early Pointed arches, each 45 ft. high (of which the
 south and west yet exist) supported by piers of clustered columns. Over
 the Norman porch in the north transept is a small chamber with an
-interlaced arcade surmounted by a network gable.
+interlaced [[Arcade|arcade]] surmounted by a network [[Gable|gable]].
 
 The Tweed is crossed at Kelso by a bridge of five arches constructed in
 1803 by John Rennie. The public buildings include a court house, the
-town hall, corn exchange, high school and grammar school (occupying the
+town hall, [[Corn|corn]] [[Exchange|exchange]], high school and grammar school (occupying the
 site of the school which Sir Walter Scott attended in 1783). The public
 park lies in the east of the town, and the race-course to the north of
 it. The leading industries are the making of fishing tackle,
-agricultural machinery and implements, and chemical manures, besides
+agricultural machinery and [[Implement|implements]], and chemical manures, besides
 coach-building, cabinet-making and upholstery, corn and saw mills, iron
-founding, &c. James and John Ballantyne, friends of Scott, set up a
+founding, &c. James and John [[Ballantyne]], friends of Scott, set up a
 press about the end of the 18th century, from which there issued, in
 1802, the first two volumes of the _Minstrelsy of the Scottish Border_;
 but when the brothers transferred their business to Edinburgh printing
@@ -60,8 +60,8 @@ now the oldest of the Border newspapers. The town is an important
 agricultural centre, there being weekly corn and fortnightly cattle
 markets, and, every September, a great sale of Border rams.
 
-  Kelso became a burgh of barony in 1634 and five years later received
-  the Covenanters, under Sir Alexander Leslie, on their way to the
+  Kelso became a burgh of [[Barony|barony]] in 1634 and five years later received
+  the Covenanters, under Sir Alexander [[Leslie]], on their way to the
   encampment on Duns Law. On the 24th of October 1715 the Old Pretender
   was proclaimed James VIII. in the market square, but in 1745 Prince
   Charles Edward found no active adherents in the town.
@@ -81,14 +81,14 @@ markets, and, every September, a great sale of Border rams.
   Scotland it became a favoured royal residence, and a town gradually
   sprang up beneath its protection, which reached its palmiest days
   under David I., and formed a member of the Court of Four Burghs with
-  Edinburgh, Stirling and Berwick. It possessed a church, court of
+  Edinburgh, Stirling and [[Berwick]]. It possessed a church, court of
   justice, mint, mills, and, what was remarkable for the 12th century,
   grammar school. Alexander II. was married and Alexander III. was born
   in the castle. During the long period of Border warfare, the town was
   repeatedly burned and the castle captured. After the defeat of Wallace
-  at Falkirk the castle fell into the hands of the English, from whom it
+  at [[Falkirk]] the castle fell into the hands of the English, from whom it
   was delivered in 1314 by Sir James Douglas. Ceded to Edward III. in
-  1333, it was regained in 1342 by Sir Alexander Ramsay of Dalhousie,
+  1333, it was regained in 1342 by Sir Alexander Ramsay of [[Dalhousie]],
   only to be lost again four years later. The castle was finally retaken
   and razed to the ground in 1460. It was at the siege that the king,
   James II., was killed by the explosion of a huge gun called "the
@@ -102,7 +102,7 @@ markets, and, every September, a great sale of Border rams.
   century, is considered the best example of a Border Peel and the most
   perfect relic of a feudal structure in the South of Scotland. Two m.
   N. by E. of Kelso is the pretty village of Ednam (Edenham, "The
-  Village on the Eden"), the birthplace of the poet James Thomson, to
+  Village on the [[Eden]]"), the birthplace of the poet James Thomson, to
   whose memory an obelisk, 52 ft. high, was erected on Ferney Hill in
   1820.
 

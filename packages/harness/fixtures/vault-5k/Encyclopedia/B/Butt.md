@@ -6,15 +6,15 @@ topic: theology-islamic-theory
 
 # Butt
 
-BUTT, ISAAC (1813-1879), Irish lawyer and Nationalist leader, was born at
-Glenfin, Donegal, in 1813, his father being the Episcopalian rector of
+BUTT, [[Isaac|ISAAC]] (1813-1879), Irish lawyer and Nationalist leader, was born at
+Glenfin, [[Donegal]], in 1813, his father being the Episcopalian rector of
 Stranorlar. Having won high honours at Trinity, Dublin, he was appointed
 professor of political economy in 1836. In 1838 he was called to the bar,
 and not only soon obtained a good practice, but became known as a
 politician on the Protestant Conservative side, and an opponent of
 O'Connell. In 1844 he was made a Q.C. He figured in nearly all the
 important Irish law cases for many years, and was engaged in the defence of
-Smith O'Brien in 1848, and of the Fenians between 1865 and 1869. In 1852 he
+Smith O'Brien in 1848, and of the [[Fenians]] between 1865 and 1869. In 1852 he
 was returned to parliament by Youghal as a Liberal-Conservative, and
 retained this seat till 1865; but his views gradually became more liberal,
 and he drifted away from his earlier opinions. His career in parliament was

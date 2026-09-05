@@ -8,15 +8,15 @@ type: reference
 # Coehoorn
 
 COEHOORN, MENNO, BARON VAN (1641-1704), Dutch soldier and military
-engineer, of Swedish extraction, was born at Leeuwarden in Friesland. He
+engineer, of Swedish extraction, was born at [[Leeuwarden]] in [[Friesland]]. He
 received an excellent military and general education, and at the age of
 sixteen became a captain in the Dutch army. He took part in the defence
 of Maastricht in 1673 and in the siege of Grave in the same year, where
 the small mortars (called coehorns) invented by him caused the French
-garrison considerable trouble (Seydel, _Nachrichten über
+[[Garrison|garrison]] considerable trouble (Seydel, _Nachrichten über
 Festungskriege_, Leipzig, 1818). He was made a colonel for his gallant
 conduct at the battle of Seneff (1674), and was present also at the
-battles of Cassel (1677) and Saint Denis (1678).
+battles of [[Cassel]] (1677) and Saint Denis (1678).
 
 The circumstances of the time and the country turned Coehoorn's
 attention to the art of fortification, and the events of the late war
@@ -41,7 +41,7 @@ Speckle, and in general he aimed rather at the adaptation of his
 principles to the requirements of individual sites than at producing a
 geometrically and theoretically perfect fortress; and throughout his
 career he never hesitated to depart from his own rules in dealing with
-exceptional cases, such as that of Groningen. Subsequent editions of
+exceptional cases, such as that of [[Groningen]]. Subsequent editions of
 _Nieuwe Vestingbouw_ appeared in Dutch (1702, and frequently
 afterwards), English (London, 1705), French (Wesel, 1705), and German
 (Düsseldorf, 1709).
@@ -53,16 +53,16 @@ Vauban; but the Dutch engineer had his revenge three years later, when
 the place, on which in the meantime Vauban had lavished his skill, fell
 to his attack. Coehoorn became lieutenant-general and inspector-general
 of the Netherlands fortresses, and the high-German peoples as well as
-his own countrymen honoured him. He commanded a corps in the army of the
-duke of Marlborough from 1701 to 1703, and in the constant siege warfare
+his own countrymen honoured him. He commanded a [[Corps|corps]] in the army of the
+duke of [[Marlborough]] from 1701 to 1703, and in the constant siege warfare
 of these campaigns in the Low Countries his technical skill was of the
-highest value. The swift reduction of the fortress of Bonn and the siege
-of Huy in 1703 were his crowning successes. At the opening of his
+highest value. The swift reduction of the fortress of [[Bonn]] and the siege
+of [[Huy]] in 1703 were his crowning successes. At the opening of his
 following campaign he was on his way to confer with Marlborough when he
 died of apoplexy at Wijkel on the 17th of March 1704.
 
 His "first system" was applied to numerous places in Holland, notably
-Nijmwegen, Breda and Bergen-op-Zoom. Mannheim in Germany was also
+Nijmwegen, Breda and [[Bergen-Op-Zoom|Bergen-op-Zoom]]. [[Mannheim]] in Germany was also
 fortified in this way, while the "secondsystem" was applied to Belgrade
 and Temesvár in eastern Europe.
 
@@ -72,13 +72,13 @@ and Temesvár in eastern Europe.
   Entstehen und Wesen der neueren Befestigungsmethode_ (1844); Cosseran
   de Villenoisy, _Essai historique sur la fortification_ (1869); Mandar,
   _Architecture des forteresses_ (1801); Krayenhoff, _Verhandeling over
-  de erste versterkingsmanier van Coehoorn_ (Hague, 1823); Bosscha,
+  de erste versterkingsmanier van Coehoorn_ ([[Hague]], 1823); Bosscha,
   _Nederlandsche heldend te Land_ (Amsterdam, 1838); Dewez, _Histoire de
   Belgique_ (Brussels, 1823); Ypey, _Narratio de rebus gestis Mennonis
   Cohorni_ (1771); Hennert, _Dissertation sur la fortification
   permanente_ (1795); Böhms, _Gründliche Anleitung zur Kriegsbaukunst_
   (1776); _Axiomatas of allgemeene bekentnisse over de Vestinghbouw door
-  Menno Baron van Coehoorn, Uytgewerkt door E. W. Berg_ (MS. in Dutch
+  Menno Baron van Coehoorn, Uytgewerkt door E. W. [[Berg]]_ (MS. in Dutch
   Ministry of War); Bousmard, _Essai général de fortification_ (1797);
   also the article FORTIFICATION AND SIEGECRAFT.
 

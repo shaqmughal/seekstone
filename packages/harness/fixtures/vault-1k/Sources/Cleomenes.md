@@ -8,7 +8,7 @@ CLEOMENES I. was the son of Anaxandridas, whom he succeeded about 520
 B.C. His chief exploit was his crushing victory near Tiryns over the
 Argives, some 6000 of whom he burned to death in a sacred grove to which
 they had fled for refuge (Herodotus vi. 76-82). This secured for Sparta
-the undisputed hegemony of the Peloponnese. Cleomenes' interposition in
+the undisputed [[Hegemony|hegemony]] of the Peloponnese. Cleomenes' interposition in
 the politics of central Greece was less successful. In 510 he marched to
 Athens with a Spartan force to aid in expelling the Peisistratidae, and
 subsequently returned to support the oligarchical party, led by

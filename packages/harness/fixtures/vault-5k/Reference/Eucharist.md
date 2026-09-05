@@ -28,7 +28,7 @@ meaning of the original rite is examined.
 
 St Paul (1 Cor. xi. 17-34) attests that the faithful met regularly in
 church, i.e. in religious meetings, to eat the dominical or Lord's
-Supper, but that this aim was frustrated by some who ate up their
+Supper, but that this aim was frustrated by some who [[Ate|ate]] up their
 provisions before others, so that the poor were left hungry while the
 rich got drunk; and the meetings were animated less by a spirit of
 brotherhood and charity than of division and faction. He directs that,
@@ -43,21 +43,21 @@ they ate it "in church," as was assumed by those guilty of the practices
 here condemned; but only the pervading sense of brotherhood and love.
 The contrast lay between the _Dominical Supper_ or food and drink shared
 unselfishly by all with all, and the _private supper_, the feast of
-Dives, shamelessly gorged under the eyes of timid and shrinking Lazarus.
+Dives, shamelessly gorged under the eyes of timid and shrinking [[Lazarus]].
 By way of enforcing this point Paul repeats the tradition he had
 received direct from the Lord, and already handed on to the Corinthians,
 of how "the Lord Jesus on the night in which he was betrayed" (not
 necessarily the night of Passover) "took bread and having given thanks
 brake it and said, This is my body, which is for your sake; this do in
 remembrance of me. In like manner also the cup, after supper, saying,
-This cup is the new covenant through my blood: this do, as oft as ye
+This cup is the new [[Covenant|covenant]] through my blood: this do, as oft as ye
 drink it, in remembrance of me." Paul adds that this rite commemorated
 the Lord's death and was to be continued until he should come again, as
 in that age they expected him to do after no long interval: "As often as
 ye eat this bread and drink the cup, ye do (or ye shall) proclaim the
 Lord's death till he come."
 
-The same epistle (x. 17) attests that one loaf only was broken and
+The same [[Epistle|epistle]] (x. 17) attests that one loaf only was broken and
 distributed: "We who are many, are one loaf (or bread), one body; for we
 all partake of the one loaf (or bread)." As a single loaf could not
 satisfy the hunger of many, the rehearsal in these meals of Christ's own
@@ -70,15 +70,15 @@ eaten in their homes beforehand, the giving of the cup would immediately
 follow on the breaking and eating of the one loaf, but Paul's words
 indicate that the common meal within the church was the norm. Those who
 ate at home marked themselves out as both greedy and lacking in charity.
-There is no demand that they should come fasting, or Paul could not
+There is no demand that they should come [[Fasting|fasting]], or Paul could not
 recommend in (xi. 34) that those who were too hungry to wait until all
 the brethren were assembled in church, should eat at home and
 beforehand.
 
-Mark xiv. 22-25, Matt. xxvi. 26-29, Luke xxii. 14-20, are, in order of
+Mark xiv. 22-25, Matt. xxvi. 26-29, [[Luke]] xxii. 14-20, are, in order of
 time, our next accounts, Mark representing the oldest tradition. They
 all in substance repeat Paul's account; but identify the night on which
-Jesus was betrayed with that of the Pascha. In Matthew and Mark, Jesus
+Jesus was betrayed with that of the Pascha. In [[Matthew]] and Mark, Jesus
 says of the bread "Take ye it, this is my body," omitting the idea of
 sacrifice imported by Paul's addition "which is for you"; but in them
 Jesus enunciates the same idea when he says of the cup: "This is my
@@ -89,7 +89,7 @@ addition, and so may be the words "which is poured out for many." But
 the words which follow have an antique ring: "Amen, I say unto you, I
 will no more drink of the fruit of the vine, until that day when I drink
 it new in the kingdom of God." For here Jesus affirms his conviction, in
-view of his impending death, which unlike his disciples he foresaw,
+view of his impending death, which unlike his [[Disciple|disciples]] he foresaw,
 that, when the kingdom of God is instituted on earth, he will take his
 place in it. But this is the last time he will sit down upon earth with
 his disciples at the table of the millenarist hope. These sources do not
@@ -99,7 +99,7 @@ Paul, and the texts of his oldest MSS. too discrepant, for us to rely on
 it except so far as it supports the other gospels. It emphasizes the
 fact that the Last Supper was the Pascha. "With desire have I desired to
 eat this Passover, before I suffer"; and places the bread after the
-wine, unless indeed the Pauline interpolation comprises the whole of
+wine, unless indeed the Pauline [[Interpolation|interpolation]] comprises the whole of
 verse 19.
 
 The fourth gospel, written perhaps A.D. 90-100, sublimates the rite, in
@@ -138,7 +138,7 @@ common meals. The Essenes, similarly, appointed houses all over
 Palestine where they could safely eat, and priests of their own to
 prepare their food. Some Christians escaped the difficulties of their
 position by eating no meat at all. "He that is weak," says Paul (Rom.
-xiv. 1), "eateth herbs"; that is, becomes a vegetarian. Rather than
+xiv. 1), "eateth [[Herb|herbs]]"; that is, becomes a vegetarian. Rather than
 scandalize weaker brethren, Paul was willing to eat herbs the rest of
 his life.
 
@@ -249,7 +249,7 @@ the Last Supper before the feast of the Passover (xiii. 1), and
 pointedly omits Christ's institution of the Eucharist, substituting for
 it the washing of his disciples' feet. The blessing of the Bread and
 Cup, as an incident in a feast of Christian brotherhood, is all that the
-_Didache_ has in common with Paul and the Synoptists. The use of the
+_[[Didache]]_ has in common with Paul and the Synoptists. The use of the
 words "after being filled," in x. 1, implies that the brethren ate
 heartily, and that the cup and bread formed no isolated episode. The
 Baptized alone are admitted to this Supper, and they only after
@@ -291,7 +291,7 @@ was made against them. If, then, this afternoon meal did not include it,
 Pliny's remark that their food was ordinary and innocent is
 unintelligible.
 
-Ignatius, about A.D. 120, in his letter to the Ephesians, defines the
+[[Ignatius]], about A.D. 120, in his letter to the Ephesians, defines the
 one bread broken in the Eucharist as a "drug of immortality, and
 antidote that we should not die, but live for ever in Jesus Christ." He
 also rejects as invalid any Eucharist not held "under the bishop or one
@@ -301,7 +301,7 @@ dwellings.
 
 In the Epistle to Diognetus, formerly assigned to Justin Martyr, we read
 (v. 7) that "Christians have in vogue among themselves a table common,
-yet not common" (i.e. unclean). In Justin's first apology (c. 140) we
+yet not common" (i.e. unclean). In Justin's first [[Apology|apology]] (c. 140) we
 have two detailed accounts of the Eucharist, of which the first, in ch.
 65, describes the first communion of the newly baptized:--
 
@@ -310,7 +310,7 @@ have two detailed accounts of the Eucharist, of which the first, in ch.
   together, to offer public prayer both for ourselves and for the person
   illuminated, and for all others everywhere, earnestly, to the end that
   having learned the truth we may be made worthy to be found not only in
-  our actions good citizens, but guardians of the things enjoined.
+  our actions good citizens, but [[Guardian|guardians]] of the things enjoined.
 
   "We salute one another with a kiss at the end of the prayers. Then
   there is presented to the president of the brethren bread and a cup of
@@ -357,7 +357,7 @@ elements are _gifts_ or _offerings_. Justin was a Roman, but may not
 represent the official Roman church. The rite as he pictures it agrees
 well with the developed liturgies of a later age.
 
-Irenaeus (Gaul and Asia Minor, before 190) in his work _against
+[[Irenaeus]] ([[Gaul]] and Asia Minor, before 190) in his work _against
 heresies_, iv. 31, 4, points to the sacrament in proof that the human
 body may become incorruptible:
 
@@ -367,7 +367,7 @@ body may become incorruptible:
   Eucharist cease to be corruptible, and possess the hope of eternal
   resurrection."
 
-There is a similar passage in the 36th fragment (ed. Harvey ii. p. 500),
+There is a similar passage in the 36th fragment (ed. [[Harvey]] ii. p. 500),
 sketching the rite and calling the elements antitypes:
 
   "The oblation of the Eucharist is not fleshly, but spiritual and so
@@ -394,7 +394,7 @@ and more rarely by flasks of wine or water. The fish represents Christ;
 and in the Inscription of Abercius, bishop of Hierapolis about A.D. 160,
 we have this symbolism enshrined in a literary form: "In company with
 Paul I followed, while everywhere Faith led the way, and set before me
-the fish from the fountain, mighty and stainless, whom a pure virgin
+the fish from the [[Fountain|fountain]], mighty and stainless, whom a pure virgin
 grasped, and gave this to friends to eat always, having good wine and
 giving the mixt cup with bread." This representation of baskets of
 loaves and several fishes, or of one fish and several loaves, seems to
@@ -422,9 +422,9 @@ communicants:--
 
 The _Acts of Thomas_, secondly, ch. 46, attest an Eucharistic usage,
 somewhat apart from the orthodox. The apostle spreads a linen cloth on a
-bench, lays on it bread of blessing ([Greek: eulogia]), and says:
+[[Bench|bench]], lays on it bread of blessing ([Greek: eulogia]), and says:
 
-  "Jesus Christ, Son of God, who hast made us worthy to commune in the
+  "Jesus Christ, Son of God, who hast made us worthy to [[Commune|commune]] in the
   Eucharist of thy holy body and precious blood, Lo, we venture on the
   thanksgiving (_Eucharistia_) and invocation of thy blessed name, come
   now and communicate with us. And he began to speak and said: Come Pity
@@ -497,7 +497,7 @@ it would surely grow is already present in the words "My blood ... which
 is shed for many" of Matt. and Mark; yet more surely in Paul's "my body
 which is in your behoof" and "this do in commemoration of me," where the
 Greek word for do, Gr. [Greek: poieite], Lat. _facite_, could to pagan
-ears mean "this do ye sacrifice." In the first two centuries the rite is
+[[Ear|ears]] mean "this do ye sacrifice." In the first two centuries the rite is
 spoken of as an offering and as a bloodless sacrifice; but it is God's
 own creations, the bread and wine, alms and first-fruits, which, offered
 with a pure conscience, he receives as from friends, and bestows in turn
@@ -547,11 +547,11 @@ the Armenian church.
 _Wine or Water?_--Justin Martyr perhaps contemplated the use of water
 instead of wine, and Tatian his pupil used it. The Marcionites, the
 Ebionites, or Judaeo-Christians of Palestine, the Montanists of Phrygia,
-Africa and Galatia, the confessor Alcibiades of Lyons, c. A.D. 177
+Africa and Galatia, the confessor Alcibiades of [[Lyons]], c. A.D. 177
 (Euseb. _Hist. Eccl_. v. 3. 2), equally used it. Cyprian (_Ep_. 63)
 affirms (c. 250) that his predecessors on the throne of Carthage had
 used water, and that many African bishops continued to do so, "out of
-ignorance," he says, "and simplemindedness, and God would forgive them."
+[[Ignorance|ignorance]]," he says, "and simplemindedness, and God would forgive them."
 Pionius, the Catholic martyr of Smyrna, c. 250, also used water. In the
 _Acts of Thomas_ it is used. Such uniformity of language has led Prof.
 Harnack to suppose that in the earliest age water was used equally with
@@ -565,13 +565,13 @@ a _krama_ ([Greek: krama]) or _temperamentum_. In the East, then as now,
 no one took wine without so mixing it. Cyprian insists on the admixture
 of water, which he says represented the humanity of Jesus, as wine his
 godhood. The users of water were named _Aquarii_ or _hydroparastatae_ in
-the 4th century, and were liable to death under the code of Theodosius.
+the 4th century, and were liable to death under the [[Code|code]] of Theodosius.
 Some of the Monophysite churches, e.g. the Armenian, eschewed water and
 used pure wine, so falling under the censure of the council _in Trullo_
 of A.D. 692. Milk and honey was added at first communions. Oil was
 sometimes offered, as well as wine, but it would seem for consecration
 only, and not for consumption along with the sacrament. With the bread,
-however, was sometimes consecrated cheese, e.g. by the African
+however, was sometimes consecrated [[Cheese|cheese]], e.g. by the African
 Montanists in the 2nd century. Bitter herbs also were often added,
 probably because they were eaten with the Paschal lamb. Many early
 canons forbid the one and the other. Hot water was mixt with the wine in
@@ -591,7 +591,7 @@ vestments were unknown until late in the 5th century, when certain
 bishops were honoured with the same _pallium_ worn by civil officials
 (see VESTMENTS).
 
-In the Latin and in the Monophysite churches of Armenia and Egypt
+In the Latin and in the Monophysite churches of [[Armenia]] and Egypt
 unleavened bread is used in the Eucharist on the somewhat uncertain
 ground that the Last Supper was the Paschal meal. The Greek church uses
 leavened.
@@ -608,14 +608,14 @@ religious usage and beliefs. But when the Agapé on one side and paganism
 on the other receded into a dim past, owing to the enhanced
 sacrosanctity of the Eucharist and because of the severe edicts of the
 emperor Theodosius and his successors, the psychological background fell
-away, and the Eucharist was left isolated and hanging in the air. Then
+away, and the Eucharist was left isolated and [[Hanging|hanging]] in the air. Then
 men began to ask themselves what it meant. Rival schools of thought
 sprang up, and controversy raged over it, as it had aforetime about the
 _homoousion_, or the two natures. Thus the sacrament which was intended
 to be a bond of peace, became a chief cause of dissension and bloodshed,
 and was often discussed as if it were a vulgar talisman.
 
-Serapion of Thmuis in Egypt, a younger contemporary of Athanasius, in
+Serapion of Thmuis in Egypt, a younger contemporary of [[Athanasius]], in
 his Eucharistic prayers combines the language of the _Didache_ with a
 high sacramentalism alien to that document which now only survived in
 the form of a grace used at table in the nunneries of Alexandria (see
@@ -643,14 +643,14 @@ centres of mystic force; and assimilates their consecration to that of
 the water of baptism, of the altar, of oil or chrism, of the priest. He
 compares it also to the change of Moses' rod into a snake, of the Nile
 into blood, to the virtue inherent in Elijah's mantle or in the wood of
-the cross or in the clay mixt of dust and the Lord's spittle, or in
-Elisha's relics which raised a corpse to life, or in the burning bush.
+the cross or in the clay mixt of [[Dust|dust]] and the Lord's spittle, or in
+Elisha's relics which raised a [[Corpse|corpse]] to life, or in the burning bush.
 All these, he says, "were parcels of matter destitute of life and
 feeling, but through miracles they became vehicles of the power of God
 absorbed or taken into themselves." He thus views the consecration of
 the elements as akin to other consecrations; and, like priestly
 ordination, as involving "a metamorphosis for the better," a phrase
-which later on became classical. John of Damascus (c. 750) believed the
+which later on became classical. [[John Of Damascus|John of Damascus]] (c. 750) believed the
 bread to be mysteriously changed into the Christ's body, just as when
 eaten it is changed into any human body; and he argued that it is wrong
 to say, as Irenaeus had said, that the elements are mere antitypes after
@@ -664,7 +664,7 @@ declaring that Judas received the sacrament, as if the unworthiness of
 the recipient made no difference.
 
 Out of this mist of contradictions scholastic thought strove to emerge
-by means of clear-cut definitions. The drawback for the dogmatist of
+by means of clear-cut [[Definition|definitions]]. The drawback for the dogmatist of
 such a view as Serapion broaches in his prayers was this, that although
 it explained how the Logos comes to be immanent in the elements, as a
 soul in its body, nevertheless it did not guarantee the presence in or
@@ -694,7 +694,7 @@ elements furnish a new vehicle of the Spirit's influence, a new body
 through which the Word operates, a fresh sojourning among us of the
 Word, though consecrated bread is in itself no more Christ's natural
 body than are we who assimilate it. Other doctors of the 9th century,
-e.g. Hincmar of Reims and Haimo of Halberstadt, took the side of
+e.g. [[Hincmar]] of Reims and Haimo of Halberstadt, took the side of
 Paschasius, and affirmed that the substance of the bread and wine is
 changed, and that God leaves the colour, taste and other outward
 properties out of mercy to the worshippers, who would be overcome with
@@ -717,7 +717,7 @@ Berengar in a weak moment in 1059 was forced by the pope to recant and
 assert that "the true body and blood are not only a sacrament, but in
 truth touched and broken by the hands of the priests and pressed by the
 teeth of the faithful," and this position remains in every Roman
-catechism. Such dilemmas as whether a mouse can devour the true body,
+catechism. Such [[Dilemma|dilemmas]] as whether a mouse can devour the true body,
 and whether it is not involved in all the obscenities of human digestive
 processes, were ill met by this ruling. Each party dubbed the other
 _stercoranists_ (dung-feasters), and the controversy was often marred by
@@ -744,7 +744,7 @@ in the bread alone was enjoined by the council of Constance in 1415, and
 by the council of Trent in 1562. The reformed churches of the West went
 back to the older rule which Eastern churches had never forsaken.
 
-_Mass._--The term _mass_, which survives in Candlemas, Christmas,
+_Mass._--The term _mass_, which survives in Candlemas, [[Christmas]],
 Michaelmas, is from the Latin _missa_, which was in the 3rd century a
 technical term for the dismissal of any lay meeting, e.g. of a
 law-court, and was adopted in that sense by the church as early as
@@ -768,7 +768,7 @@ In Anglican churches non-communicants used to leave the church after the
 prayer for the Church Militant. Ritualists now keep unconfirmed children
 in church during the entire rite, through ignorance of ancient usage, in
 order that they may learn to adore the consecrated elements. For this
-moment of homage to material elements ritually filled with divine
+moment of [[Homage|homage]] to material elements ritually filled with divine
 potency may be so exaggerated as to obscure the rite's ancient
 significance as a communion of the faithful in mystic food.
 
@@ -778,14 +778,14 @@ and Eastern churches, and urged a Receptionist view, viz. that Christ is
 in the sacrament only spiritually consumed by worthy recipients alone,
 the material body not being actually chewed. This is seen by a
 comparison of other confessions with the Profession of Catholic Faith in
-accordance with the council of Trent, in the bull of Pius IV., which
+accordance with the council of Trent, in the [[Bull|bull]] of Pius IV., which
 runs thus:--
 
   "I profess that in the Mass is offered to God a true, proper and
   propitiatory sacrifice, for the living and the dead, and that in the
   most holy sacrament of the Eucharist there is truly really and in
   substance the body and blood, together with the soul and divinity of
-  our Lord Jesus Christ, and that there does take place a conversion of
+  our Lord Jesus Christ, and that there does take place a [[Conversion|conversion]] of
   the entire substance of the bread into the body, and of the entire
   substance of the wine into the blood, which conversion the Catholic
   Church doth call Transubstantiation. I also admit that under one of
@@ -917,7 +917,7 @@ It has been justly remarked of the Pauline view, that--
 
 Paul caps his argument thus:--"Ye cannot drink the cup of the Lord and
 the cup of demons: ye cannot partake of the table of the Lord and of the
-table of demons. Or do we provoke the Lord to jealousy? Are we stronger
+table of demons. Or do we provoke the Lord to [[Jealousy|jealousy]]? Are we stronger
 than he?" And these words with their context prove that Paul, like the
 Fathers of the church, regarded the gods and goddesses as real living
 supernatural beings, but malignant. They were the powers and
@@ -932,11 +932,11 @@ them, not forgetting that Paul, as a Semite, and his hearers, as
 converted pagans, were imbued with the sacrificial ideas of the old
 world.
 
-"A kin," remarks W. Robertson Smith (_Religion of the Semites_, 1894),
+"A [[Kin|kin]]," remarks W. Robertson Smith (_Religion of the Semites_, 1894),
 "was a group of persons whose lives were so bound up together, in what
 must be called a physical unity, that they could be treated as parts of
 one common life. The members of one kindred looked on themselves as one
-living whole, a single animated mass of blood, flesh and bones, of which
+living whole, a single animated mass of blood, flesh and [[Bone|bones]], of which
 no member could be touched without all the members suffering." "In later
 times," observes the same writer (_op. cit._ p. 313), "we find the
 conception current that any food which two men partake of together, so
@@ -973,7 +973,7 @@ But this effect of participation in the bread and cup was not in Paul's
 opinion automatic, was no mere _opus operatum_; it depended on the
 ethical co-operation of the believer, who must not eat and drink
 _unworthily_, that is, after refusing to share his meats with the poorer
-brethren, or with any other guilt in his soul. The phrases "discern the
+brethren, or with any other [[Guilt|guilt]] in his soul. The phrases "discern the
 body" and "discern ourselves" in 1 Cor. xi. 29, 31 are obscure. Paul
 evidently plays on the verb, _krinô, diakrinô, katakrinô_ ([Greek:
 krinô], [Greek: diakrinô], [Greek: katakrinô]). The general sense is
@@ -992,7 +992,7 @@ tribes when they met annually at their common temple partook of a
 "single" bull. And in Greek _Panegureis_ or festivals the sacrificial
 wine had to be dispensed from one common bowl: "Unto a common cup they
 come together, and from it pour libations as well as sacrifice," says
-Aristides Rhetor in his _Isthmica in Neptunum_, p. 45. To ensure the
+[[Aristides]] Rhetor in his _Isthmica in Neptunum_, p. 45. To ensure the
 continued unity of the bread, the Roman church ever leaves over from a
 preceding consecration half a holy wafer, called _fermentum_, which is
 added in the next celebration.
@@ -1019,7 +1019,7 @@ account is to be understood thus: Jesus, conscious that he now for the
 last time lies down to eat with his disciples a meal which, if not the
 Paschal, was anyhow anticipatory of the Millennial Regeneration (Matt.
 xix. 28), institutes, as it were, a blood-brotherhood between himself
-and them. It is a covenant similar to that of Exodus xxiv., when after
+and them. It is a covenant similar to that of [[Exodus]] xxiv., when after
 the peace-offering of oxen, Moses took the blood in basins and sprinkled
 half of it on the altar and on twelve pillars erected after the twelve
 tribes, and the other half on the people, to whom he had first read out
@@ -1041,13 +1041,13 @@ been parted from them in the flesh. An older prophet would have slain an
 animal and drunk its blood in common with his followers, or they would
 all alike have smeared themselves with it. In the East, even now, one
 who wishes to create a blood tie between himself and his followers and
-cement them to himself, makes under his left breast an incision from
+cement them to himself, makes under his left [[Breast|breast]] an incision from
 which they each in turn suck his blood. Such barbarisms was alien to the
 spirit of the Founder, who substitutes bread and wine for his own flesh
 and blood, only imparting to these his own quality by the declaration
 that they _are_ himself. He broke the bread not in token of his
 approaching death, but in order to its equal distribution. Wine he
-rather chose than water as a surrogate for his actual blood, because it
+rather [[Chose|chose]] than water as a surrogate for his actual blood, because it
 already in Hebrew sacrifices passed as such. "The Hebrews," says
 Robertson Smith (_op. cit_. p. 230), "treated it like the blood, pouring
 it out at the base of the altar." As a red liquid it was a ready symbol
@@ -1064,7 +1064,7 @@ was assigned after the death of Jesus to his eldest brother James, and
 after him for several generations to the eldest living representative of
 his family.
 
-To the modern mind it is absurd that an image or symbol should be taken
+To the modern mind it is absurd that an [[Image|image]] or symbol should be taken
 for that which is imaged or symbolized, and that is why the early
 history of the Eucharist has been so little understood by ecclesiastical
 writers. And yet other religions, ancient and modern, supply many
@@ -1080,7 +1080,7 @@ parallels, which are considered in the article SACRAMENT.
   sacramentaries derive from the Jewish Synagogue); Goar, _Rituale
   Graecorum_; F.E. Brightman, _Eastern Liturgies_; Cabrol and Leclercq,
   _Monumenta liturgica, reliquiae liturgicae vetustissimae_ (Paris,
-  1900); Harnack, _History of Dogma_; Jas. Martineau, _Seat of Authority
+  1900); Harnack, _History of Dogma_; Jas. [[Martineau]], _Seat of Authority
   in Religion_, bk. iv. (London, 1890); Loofs, art. "Abendmahlsfeier" in
   Herzog's _Realencyklopädie_ (1896.) Spitta, _Urchristentum_
   (Göttingen, 1893); Schultzen, _Das Abendmahl im N.T._ (Göttingen,
@@ -1106,7 +1106,7 @@ their own homes and reserve it in _arcae_ or caskets for the purpose of
 communicating themselves (Tert. _ad Uxor_. ii. 5, _De orat_. 19; St
 Cypr. _De lapsis_, 132). Being open to objection on grounds both of
 superstition and of irreverence, these customs were gradually put down
-by the council of Laodicea in A.D. 360. But some irregular forms of
+by the council of [[Laodicea]] in A.D. 360. But some irregular forms of
 reservation still continued; the prohibition as regards the lay people
 was not extended, at any rate with any strictness, to the clergy and
 monks; the Eucharist was still carried on journeys; occasionally it was
@@ -1122,7 +1122,7 @@ East as the [Greek: artophorion], and in the West as the _turris_, the
 _capsa_, and later on as the _pyx_. In the East it was kept against the
 wall behind the altar; in the West, in a locked aumbry in some part of
 the church, or (as in England and France) in a pyx made in the form of a
-dove and suspended over the altar.
+[[Dove|dove]] and suspended over the altar.
 
 In the West it has been used in other ways. A portion of the consecrated
 Bread from one Eucharist, known as the "Fermentum," was long made use of
@@ -1174,7 +1174,7 @@ _Private Mass_, depends upon that fact; and when Cardinal du Perron
 alleged against the English Church the lack of the reserved Eucharist,
 Bishop Andrewes replied, not that the fact was otherwise, but that
 reservation was unnecessary in view of the English form for the
-Communion of the Sick: "So that reservation needeth not; the intent is
+Communion of the Sick: "So that reservation needeth not; the [[Intent|intent]] is
 had without it" (_Answers to Cardinal Perron, &c._, p. 19, Library of
 Anglo-Catholic Theology). It does not follow, however, that a custom
 which has ceased to exist is of necessity forbidden, nor even that what
@@ -1223,7 +1223,7 @@ and providing that the Eucharist should be reserved for the sick person
 if there had been a celebration on the same day. But although the book
 in question was issued under letters patent, it is not really a
 translation of the Elizabethan book at all, but simply a reshaping of
-Aless's clever and inaccurate translation of Edward VI.'s first book. In
+Aless's [[Clever|clever]] and inaccurate translation of Edward VI.'s first book. In
 the rubric in question words are altered here and there in a way which
 shows that its reappearance can hardly be a mere printer's error; but in
 any case its importance is very slight, for the Act of Uniformity
@@ -1241,7 +1241,7 @@ continuously from earlier times. (7) Certain of the divines who took
 part in the framing of the Prayer-Book of 1661 seem to speak of the
 practice as though it actually prevailed in their day. But Bishop
 Sparrow's words on the subject (_Rationale_, p. 349) are not free from
-difficulty on any hypothesis, and Thorndike (_Works_, v. 578, Library of
+difficulty on any [[Hypothesis|hypothesis]], and Thorndike (_Works_, v. 578, Library of
 Anglo-Catholic Theology) writes in such a style that it is often hard to
 tell whether he is describing the actual practice of his day or that
 which in his view it ought to be. (8) There appears to be more evidence
@@ -1277,7 +1277,7 @@ Lambeth Hearing on Incense (q.v.). The parties concerned were three
 clergymen, who appealed from the direction of their respective
 diocesans, the bishops of St Albans and Peterborough and the archbishop
 of York: in the two former cases the archbishop (Temple) of Canterbury
-was the principal and the archbishop of York (Maclagan) the assessor,
+was the principal and the archbishop of York (Maclagan) the [[Assessor|assessor]],
 whilst in the latter case the functions were reversed. The hearing
 extended from 17th to 20th July; counsel were heard on both sides,
 evidence was given in support of the appeals by two of the clergy

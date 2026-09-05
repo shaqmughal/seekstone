@@ -1,16 +1,16 @@
 # Leopold I.
 
-LEOPOLD I. (1640-1705), Roman emperor, the second son of the emperor
-Ferdinand III. and his first wife Maria Anna, daughter of Philip III. of
+[[Leopold|LEOPOLD]] I. (1640-1705), Roman emperor, the second son of the emperor
+[[Ferdinand]] III. and his first wife Maria [[Anna]], daughter of Philip III. of
 Spain, was born on the 9th of June 1640. Intended for the Church, he
 received a good education, but his prospects were changed by the death
 of his elder brother, the German king Ferdinand IV., in July 1654, when
-he became his father's heir. In 1655 he was chosen king of Hungary and
+he became his father's [[Heir|heir]]. In 1655 he was chosen king of Hungary and
 in 1656 king of Bohemia, and in July 1658, more than a year after his
-father's death, he was elected emperor at Frankfort, in spite of the
+father's death, he was elected emperor at [[Frankfort]], in spite of the
 intrigues of Cardinal Mazarin, who wished to place on the imperial
 throne Ferdinand, elector of Bavaria, or some other prince whose
-elevation would break the Habsburg succession. Mazarin, however,
+elevation would break the [[Habsburg]] succession. Mazarin, however,
 obtained a promise from the new emperor that he would not send
 assistance to Spain, then at war with France, and, by joining a
 confederation of German princes, called the league of the Rhine, France
@@ -23,7 +23,7 @@ never led his troops in person; yet the greater part of his public life
 was spent in arranging and directing wars. The first was with Sweden,
 whose king Charles X. found a useful ally in the prince of Transylvania,
 George II. Rakocky, a rebellious vassal of the Hungarian crown. This
-war, a legacy of the last reign, was waged by Leopold as the ally of
+war, a [[Legacy|legacy]] of the last reign, was waged by Leopold as the ally of
 Poland until peace was made at Oliva in 1660. A more dangerous foe next
 entered the lists. The Turks interfered in the affairs of Transylvania,
 always an unruly district, and this interference brought on a war with
@@ -62,13 +62,13 @@ Almost immediately after the conclusion of peace Louis renewed his
 aggressions on the German frontier. Engaged in a serious struggle with
 Turkey, the emperor was again slow to move, and although he joined a
 league against France in 1682 he was glad to make a truce at Regensburg
-two years later. In 1686 the league of Augsburg was formed by the
+two years later. In 1686 the league of [[Augsburg]] was formed by the
 emperor and the imperial princes, to preserve the terms of the treaties
 of Westphalia and of Nijmwegen. The whole European position was now
 bound up with events in England, and the tension lasted until 1688, when
 William of Orange won the English crown and Louis invaded Germany. In
-May 1689 the grand alliance was formed, including the emperor, the kings
-of England, Spain and Denmark, the elector of Brandenburg and others,
+May 1689 the [[Grand Alliance|grand alliance]] was formed, including the emperor, the kings
+of England, Spain and [[Denmark]], the elector of Brandenburg and others,
 and a fierce struggle against France was waged throughout almost the
 whole of western Europe. In general the several campaigns were
 favourable to the allies, and in September 1697 England and Holland made
@@ -83,13 +83,13 @@ bound him to the royal house of France. He was feeble and childless, and
 attempts had been made by the European powers to arrange for a peaceable
 division of his extensive kingdom. Leopold refused to consent to any
 partition, and when in November 1700 Charles died, leaving his crown to
-Philip, duke of Anjou, a grandson of Louis XIV., all hopes of a
+Philip, duke of [[Anjou]], a grandson of Louis XIV., all hopes of a
 peaceable settlement vanished. Under the guidance of William III. a
 powerful league, the grand alliance, was formed against France; of this
 the emperor was a prominent member, and in 1703 he transferred his claim
 on the Spanish monarchy to his second son, the archduke Charles. The
 early course of the war was not favourable to the imperialists, but the
-tide of defeat had been rolled back by the great victory of Blenheim
+tide of defeat had been rolled back by the great victory of [[Blenheim]]
 before Leopold died on the 5th of May 1705.
 
 In governing his own lands Leopold found his chief difficulties in
@@ -102,9 +102,9 @@ the cause of the rebels the sultan sent an enormous army into Austria
 early in 1683; this advanced almost unchecked to Vienna, which was
 besieged from July to September, while Leopold took refuge at Passau.
 Realizing the gravity of the situation somewhat tardily, some of the
-German princes, among them the electors of Saxony and Bavaria, led their
+German princes, among them the [[Electors|electors]] of Saxony and Bavaria, led their
 contingents to the imperial army which was commanded by the emperor's
-brother-in-law, Charles, duke of Lorraine, but the most redoubtable of
+brother-in-law, Charles, duke of [[Lorraine]], but the most redoubtable of
 Leopold's allies was the king of Poland, John Sobieski, who was already
 dreaded by the Turks. On the 12th of September 1683 the allied army fell
 upon the enemy, who was completely routed, and Vienna was saved. The
@@ -122,7 +122,7 @@ was crowned hereditary king of Hungary.
 During this reign some important changes were made in the constitution
 of the Empire. In 1663 the imperial diet entered upon the last stage of
 its existence, and became a body permanently in session at Regensburg;
-in 1692 the duke of Hanover was raised to the rank of an elector,
+in 1692 the duke of [[Hanover]] was raised to the rank of an elector,
 becoming the ninth member of the electoral college; and in 1700 Leopold,
 greatly in need of help for the impending war with France, granted the
 title of king of Prussia to the elector of Brandenburg. The net result
@@ -133,7 +133,7 @@ and Bohemia, and Leopold was the first who really appears to have
 realized this altered state of affairs and to have acted in accordance
 therewith.
 
-The emperor was married three times. His first wife was Margaret Theresa
+The emperor was married three times. His first wife was [[Margaret]] Theresa
 (d. 1673), daughter of Philip IV. of Spain; his second Claudia Felicitas
 (d. 1676), the heiress of Tirol; and his third Eleanora, a princess of
 the Palatinate. By his first two wives he had no sons, but his third
@@ -143,9 +143,9 @@ had also four daughters.
 Leopold was a man of industry and education, and during his later years
 he showed some political ability. Extremely tenacious of his rights, and
 regarding himself as an absolute sovereign, he was also very intolerant
-and was greatly influenced by the Jesuits. In person he was short, but
+and was greatly influenced by the [[Jesuits]]. In person he was short, but
 strong and healthy. Although he had no inclination for a military life
-he loved exercises in the open air, such as hunting and riding; he had
+he loved exercises in the open air, such as [[Hunting|hunting]] and riding; he had
 also a taste for music.
 
   Leopold's letters to Marco d'Aviano from 1680 to 1699 were edited by

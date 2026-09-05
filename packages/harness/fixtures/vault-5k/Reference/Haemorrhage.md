@@ -66,10 +66,10 @@ to stop the flow of blood.
 The surgical procedure for the treatment of an open wound is--(1) arrest
 of haemorrhage; (2) cleansing of the wound and removal of any foreign
 bodies; (3) careful apposition of its edges and surfaces--the edges
-being best brought in contact by sutures of aseptic silk or catgut, the
+being best brought in contact by sutures of aseptic silk or [[Catgut|catgut]], the
 surfaces by carefully applied pressure; (4) free drainage, if necessary,
 to prevent accumulation either of blood or serous effusion; (5)
-avoidance of sepsis; (6) perfect rest of the part. These methods of
+[[Avoidance|avoidance]] of sepsis; (6) perfect rest of the part. These methods of
 treatment require to be modified for wounds in special situations and
 for those in which there is much contusion and laceration. When a
 special poison has entered the wound at the time of its infliction or at

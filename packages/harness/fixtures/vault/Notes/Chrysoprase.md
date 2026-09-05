@@ -1,13 +1,13 @@
 # Chrysoprase
 
-CHRYSOPRASE (Gr. [Greek: chrysos], gold, and [Greek: prason], leek), a
+CHRYSOPRASE (Gr. [Greek: chrysos], gold, and [Greek: prason], [[Leek|leek]]), a
 name applied by modern mineralogists to an apple-green variety of
 chalcedony or hornstone, used as an ornamental stone. The colour is due
 to the presence of nickel, probably in the form of a hydrous silicate.
 By exposure to a moderate heat, or to strong light, the chrysoprase
 becomes paler, or even colourless, but it may regain its colour by
 absorption of moisture. Chrysoprase is a mineral of rather limited
-distribution. Most of it comes from the neighbourhood of Frankenstein in
+distribution. Most of it comes from the neighbourhood of [[Frankenstein]] in
 Silesia, where it occurs in association with altered serpentine. It is
 found to a limited extent at Revdinsk, near Ekaterinburg, in the Urals;
 and it occurs also in India. It is known, too, at several localities in
@@ -16,7 +16,7 @@ occurs in nickeliferous serpentine.
 
 The chrysoprase of the moderns is certainly not the _chrysoprasius_ of
 Pliny, or the [Greek: chrysoprasos] of Greek writers. The ancient stone
-was not improbably our chrysoberyl, and it is doubtful whether the
+was not improbably our [[Chrysoberyl|chrysoberyl]], and it is doubtful whether the
 modern chrysoprase was known until a comparatively late period. The
 chrysoprase of Kosemütz, near Frankenstein in Silesia, was discovered in
 1740, and used by Frederick the Great in the decoration of the palace of
@@ -36,12 +36,12 @@ CHRYSOSTOM. St John Chrysostom ([Greek: Chrysostomos], golden-mouthed),
 the most famous of the Greek Fathers, was born of a noble family at
 Antioch, the capital of Syria, about A.D. 345 or 347. At the school of
 Libanius the sophist he gave early indications of his mental powers, and
-would have been the successor of his heathen master, had he not been
+would have been the successor of his [[Heathen|heathen]] master, had he not been
 stolen away, to use the expression of his teacher, to a life of piety
 (like Augustine, Gregory of Nazianzus, and Theodoret) by the influence
 of his pious mother Anthusa. After his baptism (about 370) by Meletius,
 the bishop of Antioch, he gave up all his forensic prospects, and buried
-himself in an adjacent desert, where for nearly ten years he spent a
+himself in an adjacent [[Desert|desert]], where for nearly ten years he spent a
 life of ascetic self-denial and theological study, to which he was
 introduced by Diodorus, bishop of Tarsus, a famous scholar of the
 Antiochene type. Illness, however, compelled him to return to the world;
@@ -49,7 +49,7 @@ and the authority of Meletius gained his services to the church. He was
 ordained deacon in his thirty-fifth year (381), and afterwards presbyter
 (386) at Antioch. On the death of Nectarius he was appointed archbishop
 of Constantinople by Eutropius, the favourite minister of the emperor
-Arcadius. He had, ten years before this, only escaped promotion to the
+[[Arcadius]]. He had, ten years before this, only escaped promotion to the
 episcopate by a very questionable stratagem--which, however, he defends
 in his instructive and eloquent treatise _De Sacerdotio_. As a
 presbyter, he won high reputation by his preaching at Antioch, more
@@ -63,11 +63,11 @@ of monastic simplicity. The ample revenues which his predecessors had
 consumed in pomp and luxury he diligently applied to the establishment
 of hospitals; and the multitudes who were supported by his charity
 preferred the eloquent discourses of their benefactor to the amusements
-of the theatre or of the circus. His homilies, which are still
-preserved, furnish ample apology for the partiality of the people,
+of the theatre or of the [[Circus|circus]]. His homilies, which are still
+preserved, furnish ample [[Apology|apology]] for the partiality of the people,
 exhibiting the free command of a pure and copious vocabulary, an
 inexhaustible fund of metaphors and similitudes, giving variety and
-grace to the most familiar topics, with an almost dramatic exposure of
+[[Grace|grace]] to the most familiar topics, with an almost dramatic exposure of
 the folly and turpitude of vice, and a deep moral earnestness. His zeal
 as a bishop and eloquence as a preacher, however, gained him enemies
 both in the church and at the court. The ecclesiastics who were parted
@@ -76,7 +76,7 @@ servants), the thirteen bishops whom he deposed for simony and
 licentiousness at a single visitation, the idle monks who thronged the
 avenues to the court and found themselves the public object of his
 scorn--all conspired against the powerful author of their wrongs. Their
-resentment was inflamed by a powerful party, embracing the magistrates,
+resentment was inflamed by a powerful party, embracing the [[Magistrate|magistrates]],
 the ministers, the favourite eunuchs, the ladies of the court, and
 Eudoxia the empress herself, against whom the preacher thundered daily
 from the pulpit of St Sophia. A favourable pretext for gratifying their
@@ -106,7 +106,7 @@ Bithynia.
 As soon as the news of his banishment spread through the city, the
 astonishment of the people was quickly exchanged for a spirit of
 irresistible fury, which was increased by the occurrence of an
-earthquake. In crowds they besieged the palace, and had already begun to
+earthquake. In [[Crowd|crowds]] they besieged the palace, and had already begun to
 take vengeance on the foreign monks and sailors who had come from
 Chalcedon to the metropolis, when, at the entreaty of Eudoxia, the
 emperor consented to his recall. His return was graced with all the pomp
@@ -117,7 +117,7 @@ addressed almost within the precincts of St Sophia to the statue of the
 empress. The haughty spirit of Eudoxia was inflamed by the report of a
 discourse commencing with the words--"Herodias is again furious;
 Herodias again dances; she once more demands the head of John"; and
-though the report was false, it sealed the doom of the archbishop. A new
+though the report was false, it sealed the [[Doom|doom]] of the archbishop. A new
 council was summoned, more numerous and more subservient to the wishes
 of Theophilus; and troops of barbarians were quartered in the city to
 overawe the people. Without examining it, the council confirmed the
@@ -136,29 +136,29 @@ metropolis than before. In his solitude he had ample leisure for forming
 schemes of missionary enterprise among Persians and Goths, and by his
 correspondence with the different churches he at once baffled his
 enemies and gave greater energy to his friends. This roused the emperor
-to visit him with a severer punishment, though Innocent I. of Rome and
-the emperor Honorius recognized his orthodoxy and besought his return.
+to visit him with a severer punishment, though [[Innocent]] I. of Rome and
+the emperor [[Honorius]] recognized his orthodoxy and besought his return.
 An order was despatched for his removal to the extreme desert of Pityus;
-and his guards so faithfully obeyed their instructions that, before he
-reached the sea-coast of the Euxine, he expired at Comana in Pontus, in
+and his [[Guards|guards]] so faithfully obeyed their instructions that, before he
+reached the sea-coast of the Euxine, he expired at [[Comana]] in Pontus, in
 the year 407. His exile gave rise to a schism in the church, and the
 Johannists (as they were called) did not return to communion with the
 archbishop of Constantinople till the relics of the saint were, 30 years
 after, brought back to the Eastern metropolis with great pomp and the
-emperor publicly implored forgiveness from Heaven for the guilt of his
+emperor publicly implored forgiveness from Heaven for the [[Guilt|guilt]] of his
 ancestors. The festival of St Chrysostom is kept in the Greek Church on
 the 13th of November, and in the Latin Church on the 27th of January.
 
 In his general teaching Chrysostom elevates the ascetic element in
 religion, and in his homilies he inculcates the need of personal
-acquaintance with the Scriptures, and denounces ignorance of them as the
+acquaintance with the Scriptures, and denounces [[Ignorance|ignorance]] of them as the
 source of all heresy. If on one or two points, as, for instance, the
 invocation of saints, some germs of subsequent Roman teaching may be
 discovered, there is a want of anything like the doctrine of indulgences
 or of compulsory private confession. Moreover, in writing to Innocent,
 bishop of Rome, he addresses him as a brother metropolitan, and sends
 the same letter to Venerius, bishop of Milan, and Chromatius, bishop of
-Aquileia. His correspondence breathes a most Christian spirit,
+[[Aquileia]]. His correspondence breathes a most Christian spirit,
 especially in its tone of charity towards his persecutors. In exegesis
 he is a pure Antiochene, basing his expositions upon thorough
 grammatical study, and proceeding from a knowledge of the original
@@ -171,21 +171,21 @@ The voluminous works of Chrysostom fall into three groups. To the days
 of his early desert life is probably to be assigned the treatise _On
 Priesthood_, a book full of wise counsel. To the years of his
 presbyterate and episcopate belong the great mass of homilies and
-commentaries, among which those _On the Statues_, and on _Matthew_,
+commentaries, among which those _On the Statues_, and on _[[Matthew]]_,
 _Romans_ and _Corinthians_, stand out pre-eminently. His letters belong
 to the last years, the time of exile, and with his other works are
 valuable sources for the history of his time.
 
-  The manuscripts are very numerous, and many of them are of great
+  The [[Manuscript|manuscripts]] are very numerous, and many of them are of great
   antiquity, as are the Syriac and other translations. The best edition
-  is that of Bernard de Montfaucon in 13 vols. fol. (1718-1738),
+  is that of [[Bernard]] de Montfaucon in 13 vols. fol. (1718-1738),
   reproduced with some improvements by Migne (_Patrol. Graec._
   xlvii.-lxiv.); but this edition is greatly indebted to the one issued
   more than a century earlier (1612) by Sir Henry Savile, provost of
-  Eton College, from a press established at Eton by himself, which
-  Hallam (_Lit. of Europe_, iii. 10, 11) calls "the first work of
+  [[Eton]] College, from a press established at Eton by himself, which
+  [[Hallam]] (_Lit. of Europe_, iii. 10, 11) calls "the first work of
   learning, on a great scale, published in England." F. Field admirably
-  edited _S. Matthew_ (Cambridge, 1839) and _Epistles of S. Paul_
+  edited _S. Matthew_ (Cambridge, 1839) and _[[Epistle|Epistles]] of S. Paul_
   (Oxford, 1849-1855). J.A. Bengel's edition of _De Sacerdotio_ (1725)
   has been often reprinted (e.g. Leipzig, 1887).
 

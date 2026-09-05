@@ -7,16 +7,16 @@ type: note
 
 # Kodungalur
 
-KODUNGALUR (or CRANGANUR), a town of southern India, in Cochin state,
+KODUNGALUR (or CRANGANUR), a town of southern India, in [[Cochin]] state,
 within the presidency of Madras. Though now a place of little
 importance, its historical interest is considerable. Tradition assigns
 to it the double honour of having been the first field of St Thomas's
 labours (A.D. 52) in India and the seat of Cheraman Perumal's
 government. The visit of St Thomas is generally considered mythical; but
 it is certain that the Syrian Church was firmly established here before
-the 9th century (Burnell), and probably the Jews' settlement was still
+the 9th century ([[Burnell]]), and probably the Jews' settlement was still
 earlier. The latter, in fact, claim to hold grants dated A.D. 378. The
-cruelty of the Portuguese drove most of the Jews to Cochin. Up to 1314,
+[[Cruelty|cruelty]] of the Portuguese drove most of the Jews to Cochin. Up to 1314,
 when the Vypin harbour was formed, the only opening in the Cochin
 backwater, and outlet for the Periyar, was at Kodungalur, which must
 then have been the best harbour on the coast. In 1502 the Syrian

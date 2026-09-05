@@ -19,7 +19,7 @@ and requested their neighbours to hand them on to the next nation, and
 so on, till they finally reached Delos. The theory of H. L. Ahrens, that
 Hyperboreans and Perphereës are identical, is now widely accepted. In
 some of the dialects of northern Greece (especially Macedonia and
-Delphi) [phi] had a tendency to become [beta]. The original form of
+[[Delphi]]) [phi] had a tendency to become [beta]. The original form of
 [Greek: Perpherees] was [Greek: hyperpheretai] or [Greek: hyperphoroi]
 ("those who carry over"), which becoming [Greek: hyperboroi] gave rise
 to the popular derivation from [Greek: boreas] ("dwellers beyond the
@@ -56,7 +56,7 @@ Argos (the stories of Heracles, Perseus, Io), Attica, Macedonia, Thrace,
 Sicily and Italy (which Niebuhr indeed considers their original home).
 In modern times the name has been applied to a group of races, which
 includes the Chukchis, Koryaks, Yukaghirs, Ainus, Gilyaks and
-Kamchadales, inhabiting the arctic regions of Asia and America. But if
+Kamchadales, inhabiting the [[Arctic|arctic]] regions of Asia and America. But if
 ever ethnically one, the Asiatic and American branches are now as far
 apart from each other as they both are from the Mongolo-Tatar stock.
 

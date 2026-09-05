@@ -21,7 +21,7 @@ his chief attention to philology under the instruction of such men as F.
 Thiersch, G. F. Creuzer, J. H. Voss, F. A. Wolf, August Böckh and P. K.
 Buttmann. In 1815, soon after completing his studies at Berlin, he
 accepted the appointment of ordinary professor of philology in the
-academy of Bern. In 1819 he was transferred to Erlangen, where he became
+academy of [[Bern]]. In 1819 he was transferred to Erlangen, where he became
 second professor of philology in the university and rector of the
 gymnasium. In 1827 he became first professor of philology and rhetoric
 and director of the philological seminary. He died on the 9th of

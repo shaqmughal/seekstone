@@ -1,8 +1,8 @@
 # Commitment
 
-COMMITMENT, in English law, a precept or warrant _in writing_, made and
+COMMITMENT, in [[English Law|English law]], a precept or warrant _in writing_, made and
 issued by a court or judicial officer (including, in cases of treason,
-the privy council or a secretary of state), directing the conveyance of
+the privy council or a secretary of state), directing the [[Conveyance|conveyance]] of
 a person named or sufficiently described therein to a prison or other
 legal place of custody, and his detention therein for a time specified,
 or until the person to be detained has done a certain act specified in
@@ -15,7 +15,7 @@ under statutory authority:--
   To each and all of the constables of the county of A and the governor
   of His Majesty's Prison at C.
 
-  E. F. hereinafter called the defendant has this day been convicted
+  E. F. hereinafter called the [[Defendant|defendant]] has this day been convicted
   before the court of summary jurisdiction sitting at D.
 
   (Here the conviction and adjudication is stated.)
@@ -35,7 +35,7 @@ law which are consequent on the decision. An interval must necessarily
 elapse between the decision to commit and the making out of the warrant
 of commitment, during which interval the detention in custody of the
 person committed is undoubtedly legal. A commitment differs also from a
-warrant of arrest (_mandat d'amener_), in that it is not made until
+warrant of [[Arrest|arrest]] (_mandat d'amener_), in that it is not made until
 after the person to be detained has actually appeared, or has been
 summoned, before the court which orders committal, to answer to some
 charge.
@@ -51,7 +51,7 @@ Commitments by justices of the peace must be under their hands and
 seals. Commitments by a court of record if formally drawn up are under
 the seal of the court.
 
-Every person in custody is entitled, under the Habeas Corpus Act 1679,
+Every person in custody is entitled, under the [[Habeas Corpus]] Act 1679,
 to receive within six hours of demand from the officer in whose custody
 he is, a copy of any warrant of commitment under which he is detained,
 and may challenge its legality by application for a writ of habeas
@@ -67,7 +67,7 @@ person present in court for contempt of the court is enforced by his
 immediate arrest by the tipstaff as soon as committal is ordered, and he
 may be detained in prison on a memorandum of the clerk or registrar of
 the court while a formal order is being drawn up. And in the case of
-persons sentenced at assizes and quarter sessions the only written
+persons sentenced at [[Assize|assizes]] and quarter sessions the only written
 authority for enforcement is a calendar of the prisoners tried, on which
 the sentences are entered up, signed by the presiding judge.
 
@@ -75,12 +75,12 @@ Commitments are usually made by courts of criminal jurisdiction in
 respect of offences against the criminal law, but are also occasionally
 made as a punishment for disobedience to the orders made in a civil
 court, e.g. where a judgment debtor having means to pay refuses to
-satisfy the judgment debt, or in cases where the person committed has
+satisfy the judgment [[Debt|debt]], or in cases where the person committed has
 been guilty of a direct contempt of the court.
 
 The expenses of executing a warrant of commitment, so far as not paid by
 the prisoner, are defrayed out of the parliamentary grants for the
-maintenance of prisons.
+[[Maintenance|maintenance]] of prisons.
 
 ## References
 

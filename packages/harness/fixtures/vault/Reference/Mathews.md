@@ -13,8 +13,8 @@ at Llandaff Court, Llandaff. He entered the navy and became lieutenant
 in 1699, being promoted captain in 1703. During the short war with Spain
 (1718-20) he commanded the "Kent" in the fleet of Sir George Byng (Lord
 Torrington), and from 1722 to 1724 he had the command of a small
-squadron sent to the East Indies to repress the pirates of the coast of
-Malabar. He saw no further service till March 1741, when he was
+squadron sent to the [[East Indies]] to repress the pirates of the coast of
+[[Malabar]]. He saw no further service till March 1741, when he was
 appointed to the command in the Mediterranean, and plenipotentiary to
 the king of Sardinia and the other courts of Italy. It is impossible to
 understand upon what grounds he was selected. As an admiral he was not
@@ -25,7 +25,7 @@ purpose for which he was sent out in his double capacity was not
 altogether ill performed. In 1742 Mathews sent a small squadron to
 Naples to compel King Charles III., afterwards king of Spain, to remain
 neutral. It was commanded by commodore, afterwards admiral, William
-Martin (1696?-1756), who refused to enter into negotiations, and gave
+[[Martin]] (1696?-1756), who refused to enter into negotiations, and gave
 the king half an hour in which to return an answer. In June of the same
 year a squadron of Spanish galleys, which had taken refuge in the Bay of
 Saint Tropez, was burnt by the fireships of Mathews' fleet. In the
@@ -34,7 +34,7 @@ Toulon, and was watched by the British fleet from its anchorage at
 Hyères. In February 1744 the Spaniards put to sea in company with a
 French force. Mathews, who had now returned to his flagship, followed,
 and an engagement took place on the 11th of February. The battle was
-highly discreditable to the British fleet, and not very honourable to
+highly discreditable to the British fleet, and not very [[Honourable|honourable]] to
 their opponents, but it is of the highest historical importance in the
 history of the navy. It marked the lowest pitch reached in discipline
 and fighting and efficiency by the fleet in the 18th century, and it had
@@ -47,7 +47,7 @@ considerable distance from the body of the fleet, and he ought
 undoubtedly to have joined his admiral before lying to, but he obeyed
 the second order, with the result, which it is impossible not to feel
 that he foresaw and desired, that when morning came he was a long way
-off the flag of Mathews. The enemy were within striking distance of the
+off the [[Flag|flag]] of Mathews. The enemy were within striking distance of the
 van and centre of the British fleet, and Mathews attacked their rear.
 The battle was ill fought, as it had been ill prepared. Lestock never
 came into action at all. One Spanish line-of-battleship, the "Poder"
@@ -76,23 +76,23 @@ large it appeared strange that the admiral who had actually fought
 should be condemned, while the admiral who had kept at a distance was
 acquitted. Mathews looked upon his condemnation as the result of mere
 party spirit. Sheer pedantry on the part of the officers forming the
-court-martial affords a more satisfactory explanation. They judged that
+[[Court-Martial|court-martial]] affords a more satisfactory explanation. They judged that
 a naval officer was bound not to go beyond the Fighting Instructions as
 Mathews had undoubtedly done, and therefore condemned him. Their
 decision had a serious effect in fixing the rule that all battles, at
 any rate against enemies of equal or nearly equal numbers, were to be
 fought on one pattern. Mathews died on the 2nd of October 1751 in
-London. There is a portrait of him in the Painted Hall at Greenwich.
+London. There is a portrait of him in the Painted Hall at [[Greenwich]].
 
   In Beatson's _Naval and Military Memoirs_, vol. i., will be found a
   fair account of the battle of February 1744. It is fully dealt with by
-  Montagu Burrows in his _Life of Hawke_. The French account may be
+  Montagu Burrows in his _Life of [[Hawke]]_. The French account may be
   found in Tronde's _Batailles Navales de la France_. The Spanish view
   is in the _Vida de Don Josef Navarro_ by Don Josef de Vargas. The
   battle led to a violent pamphlet controversy. The charges and findings
   at the courts-martial on both Lestock and Mathews were published at
   the time. The minor trials arising out of the action are collected in
-  a folio under the title "Copies of all the Minutes and Proceedings
+  a [[Folio|folio]] under the title "Copies of all the Minutes and Proceedings
   taken at and upon the several Tryals of Captain George Burrish"
   (1746). A "Narrative" was published by, or for, Lestock in 1744, and
   answered by, or on behalf of, Mathews under the title "Ad----l

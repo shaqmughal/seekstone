@@ -12,8 +12,8 @@ furniture originated in England towards the end of the 18th century, and
 some exceedingly elegant examples were designed by Sheraton and his
 school. They were usually circular, with three diminishing tiers,
 sometimes surrounded by a continuous or interrupted pierced gallery in
-wood or brass. The smaller varieties are now much used in England for
-the display of small silver objects in drawing-rooms.
+wood or [[Brass|brass]]. The smaller varieties are now much used in England for
+the display of small silver objects in [[Drawing-Room|drawing-rooms]].
 
 
 FOOTNOTE:

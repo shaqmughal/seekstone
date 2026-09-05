@@ -10,13 +10,13 @@ type: article
 ARRHENIUS, SVANTE AUGUST (1859-   ), Swedish physicist and chemist, was
 born on the 19th of February 1859, at Schloss Wijk, near Upsala. He
 studied at Upsala from 1876 to 1881 and at Stockholm from 1881 to 1884,
-then returning to Upsala as privat-docent in physical chemistry. He
+then returning to Upsala as privat-docent in physical [[Chemistry|chemistry]]. He
 spent two years from 1886 to 1888 in travelling, and visited Riga
 Polytechnic and the universities of Wurzburg, Graz, Amsterdam and
 Leipzig. In 1891 he was appointed lecturer in physics at Stockholm and
 four years later became full professor. Arrhenius is specially
 associated with the development of the theory of electrolytic
-dissociation, and his great paper on the subject, _Recherches sur la
+[[Dissociation|dissociation]], and his great paper on the subject, _Recherches sur la
 conductibilite galvanique des electrolytes_--(1) _conductibilite
 galvanique des solutions aqueuses extremement diluees_, (2) _theorie
 chimique des electrolytes_, was presented to the Stockholm Academy of
@@ -33,7 +33,7 @@ physical chemistry to the study of the theory of toxins and antitoxins,
 and which were published in 1907 under the title _Immunochemistry_. In
 his _Worlds in the Making_ (1908), an English translation of _Das Werden
 der Welten_ (1907), he combated the generally accepted doctrine that the
-universe is tending to what Clausius termed _Warmetod_ through
+universe is tending to what [[Clausius]] termed _Warmetod_ through
 exhaustion of all sources of heat and motion, and suggested that by
 virtue of a mechanism which maintains its available energy it is
 self-renovating, energy being "degraded" in bodies which are in the

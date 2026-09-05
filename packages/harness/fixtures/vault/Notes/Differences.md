@@ -60,7 +60,7 @@ arranged in successive columns of a table thus:--
   the right. It will be seen, in the first place, that the successive
   terms in (A), reading downwards to the right, and the successive terms
   in (B), reading downwards to the left, consist each of a series of
-  terms whose coefficients follow the binomial law; i.e. the
+  terms whose coefficients follow the [[Binomial|binomial]] law; i.e. the
   coefficients in b - a, c - 2b + a, d - 3c + 3b - a, ... and in [alpha]
   + [beta], [alpha] + 2[beta] + [gamma], [alpha] + 3[beta] + 3[gamma] +
   [delta], ... are respectively the same as in y - x, (y - x)², (y -
@@ -384,7 +384,7 @@ arranged in successive columns of a table thus:--
   = u_(n+1), which may also be written (E-1)v_n = u_(n+1). This is a
   simple form of difference-equation. There are several forms which have
   been investigated; a simple form, more general than the above, is the
-  _linear equation_ with _constant coefficients_--
+  _linear [[Equation|equation]]_ with _constant coefficients_--
 
     v_(n+m) + a1v_(n+m-1) + a2v_(n+m-2) + ... + a_mv_n = N,
 
@@ -416,7 +416,7 @@ arranged in successive columns of a table thus:--
   represent the successive values of u corresponding to x = x1, x2....
   The important applications of the theory in these cases are to (i.)
   relations between differences and differential coefficients, (ii.)
-  interpolation, or the determination of intermediate values of u, and
+  [[Interpolation|interpolation]], or the determination of intermediate values of u, and
   (iii.) relations between sums and integrals.
 
   17. Starting from any pair of values x0 and u0, we may suppose the
@@ -469,7 +469,7 @@ arranged in successive columns of a table thus:--
   the operators [Delta], E, D, ... as if they were algebraical
   quantities. Thus the relation E = e^(hD) (§ 17) gives
 
-    hD = log_e  (1 + [Delta]) = [Delta] - ½[Delta]² + 1/3 [Delta]³ ...
+    hD = [[Log|log]]_e  (1 + [Delta]) = [Delta] - ½[Delta]² + 1/3 [Delta]³ ...
 
          /du\
     or h( -- ) = [Delta]u0 - ½[Delta]²u0 + 1/3 [Delta]³u0  ....
@@ -537,7 +537,7 @@ arranged in successive columns of a table thus:--
                   .                .             .
 
   When u is a rational integral function of x, each of the above series
-  is a terminating series. In other cases the series will be an infinite
+  is a terminating series. In other cases the series will be an [[Infinite|infinite]]
   one, and may be divergent; but it may be used for purposes of
   approximation up to a certain point, and there will be a "remainder,"
   the limits of whose magnitude will be determinate.
@@ -569,7 +569,7 @@ arranged in successive columns of a table thus:--
   are three formulae.
 
   (i.) The Euler-Maclaurin formula, properly so called, (due
-  independently to Euler and Maclaurin) is
+  independently to [[Euler]] and [[Maclaurin]]) is
 
       _ x_n
      /                             1    du_n    1       d³u_n     1       d^5 u_n

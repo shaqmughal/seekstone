@@ -22,9 +22,9 @@ of the Prussian postal system, formerly held by his family.
 
 KRÜDENER, BARBARA JULIANA, BARONESS VON (1764-1824), Russian religious
 mystic and author, was born at Riga in Livonia on the 11th of November
-1764. Her father, Otto Hermann von Vietinghoff, who had fought as a
+1764. Her father, Otto [[Hermann]] von Vietinghoff, who had fought as a
 colonel in Catherine II.'s wars, was one of the two councillors for
-Livonia and a man of immense wealth; her mother, _née_ Countess Anna
+Livonia and a man of immense wealth; her mother, _née_ Countess [[Anna]]
 Ulrica von Münnich, was a grand-daughter of the celebrated field
 marshal. Juliana, as she was usually called, was one of a numerous
 family. Her education, according to her own account, consisted of
@@ -40,7 +40,7 @@ difficulties. At first indeed all went well. On the 31st of January 1784
 a son was born to them, named Paul after the grand-duke Paul (afterwards
 emperor), who acted as god-father. The same year Baron Krüdener became
 ambassador at Venice,[1] where he remained until transferred to
-Copenhagen in 1786.
+[[Copenhagen]] in 1786.
 
 In 1787 the birth of a daughter (Juliette) aggravated the nervous
 disorders from which the baroness had for some time been suffering, and
@@ -66,7 +66,7 @@ doctors had ordered her to winter in the south. He died on the 14th of
 June 1802, without ever having seen her again.
 
 Meanwhile the baroness had been revelling in the intellectual society of
-Coppet and of Paris. She was now thirty-six; her charms were fading, but
+Coppet and of Paris. She was now thirty-six; her [[Charm|charms]] were fading, but
 her passion for admiration survived. She had tried the effect of the
 shawl dance, in imitation of Emma, Lady Hamilton; she now sought fame in
 literature, and in 1803, after consulting Châteaubriand and other
@@ -74,16 +74,16 @@ writers of distinction, published her _Valérie_, a sentimental romance,
 of which under a thin veil of anonymity she herself was the heroine. In
 January 1804 she returned to Livonia.
 
-At Riga occurred her "conversion." A gentleman of her acquaintance when
+At Riga occurred her "[[Conversion|conversion]]." A [[Gentleman|gentleman]] of her acquaintance when
 about to salute her fell dying at her feet. The shock overset her not
 too well balanced mind; she sought for consolation, and found it in the
-ministrations of her shoemaker, an ardent disciple of the Moravian
+ministrations of her shoemaker, an ardent [[Disciple|disciple]] of the Moravian
 Brethren. Though she had "found peace," however, the disorder of her
 nerves continued, and she was ordered by her doctor to the baths of
 Wiesbaden. At Königsberg she had an interview with Queen Louise, and,
 more important still, with one Adam Müller, a rough peasant, to whom the
 Lord had revealed a prophetic mission to King Frederick William III.
-"Chiliasm" was in the air. Napoleon was evidently Antichrist; and the
+"[[Chiliasm]]" was in the air. Napoleon was evidently [[Antichrist]]; and the
 "latter days" were about to be accomplished. Under the influence of the
 pietistic movement the belief was widely spread, in royal courts, in
 country parsonages, in peasants' hovels: a man would be raised up "from
@@ -91,7 +91,7 @@ the north ... from the rising of the sun" (Isa. xli. 25); Antichrist
 would be overthrown, and Christ would come to reign a thousand years
 upon the earth. The interview determined the direction of the baroness's
 religious development. A short visit to the Moravians at Herrenhut
-followed; then she went, via Dresden, to Karlsruhe, to sit at the feet
+followed; then she went, via [[Dresden]], to Karlsruhe, to sit at the feet
 of Heinrich Jung-Stilling (q.v.), the high priest of occultist pietism,
 whose influence was supreme at the court of Baden and infected those of
 Stockholm and St Petersburg.[3] By him she was instructed in the
@@ -125,18 +125,18 @@ now waned, and she had fallen under that of Johann Kaspar Wegelin
 (1766-1833), a pious linen-draper of Strassburg, who taught her the
 sweetness of "complete annihilation of the will and mystic death." Her
 preaching and her indiscriminate charities now began to attract curious
-crowds from afar; and her appearance everywhere was accompanied by an
+[[Crowd|crowds]] from afar; and her appearance everywhere was accompanied by an
 epidemic of visions and prophesyings, which culminated in the appearance
 in 1811 of the comet, a sure sign of the approaching end. In 1812 she
 was at Strassburg, whence she paid more than one visit to J. F. Oberlin
-(q.v.), the famous pastor of Waldbach in Steinthal (Ban de la Roche),
+(q.v.), the famous pastor of Waldbach in Steinthal ([[Ban]] de la Roche),
 and where she had the glory of converting her host, Adrien de
-Lazay-Marnesia, the prefect. In 1813 she was at Geneva, where she
+Lazay-Marnesia, the prefect. In 1813 she was at [[Geneva]], where she
 established the faith of a band of young pietists in revolt against the
 Calvinist Church authorities--notably Henri Louis Empeytaz, afterwards
 destined to be the companion of her crowning evangelistic triumph. In
 September 1814 she was again at Waldbach, where Empeytaz had preceded
-her; and at Strassburg, where the party was joined by Franz Karl von
+her; and at Strassburg, where the party was joined by [[Franz]] Karl von
 Berckheim, who afterwards married Juliette.[6] At the end of the year
 she returned with her daughters and Empeytaz to Baden, a fateful
 migration.
@@ -160,7 +160,7 @@ strange gospel, while the most powerful man in Europe sat, his face
 buried in his hands, sobbing like a child; until at last he declared
 that he had "found peace." At the tsar's request she followed him to
 Heidelberg and later to Paris, where she was lodged at the Hôtel
-Montchenu, next door to the imperial headquarters in the Elysée Palace.
+Montchenu, next door to the imperial headquarters in the [[Ely|Elys]]ée Palace.
 A private door connected the establishments, and every evening the
 emperor went to take part in the prayer-meetings conducted by the
 baroness and Empeytaz. Chiliasm seemed to have found an entrance into
@@ -176,7 +176,7 @@ the prophetess Marie Kummer.
 In this religious forcing-house the idea of the Holy Alliance germinated
 and grew to rapid maturity. On the 26th of September the portentous
 proclamation, which was to herald the opening of a new age of peace and
-goodwill on earth, was signed by the sovereigns of Russia, Austria and
+[[Goodwill|goodwill]] on earth, was signed by the sovereigns of Russia, Austria and
 Prussia (see HOLY ALLIANCE; and EUROPE: _History_). Its authorship has
 ever been a matter of dispute. Madame de Krüdener herself claimed that
 she had suggested the idea, and that Alexander had submitted the draft
@@ -238,7 +238,7 @@ words, uttered after the revelation of the misery of the Crimean
 colonists had at last opened her eyes: "The good that I have done will
 endure; the evil that I have done (for how often have I not mistaken for
 the voice of God that which was no more than the result of my
-imagination and my pride) the mercy of God will blot out."
+[[Imagination|imagination]] and my pride) the mercy of God will blot out."
 
   Much information about Madame de Krüdener, coloured by the author's
   views, is to be found in H. L. Empeytaz's _Notice sur Alexandre,
@@ -246,7 +246,7 @@ imagination and my pride) the mercy of God will blot out."
   Krudener_ (2 vols., Paris, 1849), by the Swiss banker and Philhellene
   J. G. Eynard, was long the standard life and contains much material,
   but is far from authoritative. In English appeared the _Life and
-  Letters of Madame de Krüdener_, by Clarence Ford (London, 1893). The
+  Letters of Madame de Krüdener_, by [[Clarence]] Ford (London, 1893). The
   most authoritative study, based on a wealth of original research, is
   E. Muhlenbeck's _Étude sur les origines de la Sainte-Alliance_ (Paris,
   1909), in which numerous references are given.     (W. A. P.)
@@ -255,7 +255,7 @@ imagination and my pride) the mercy of God will blot out."
 FOOTNOTES:
 
   [1] A portrait of Madame de Krüdener and her son as "Venus disarming
-    Cupid," by Angelica Kauffmann, of this period, is in the Louvre.
+    Cupid," by [[Angelica]] [[Kauffmann]], of this period, is in the Louvre.
 
   [2] He died while she was there in 1792.
 

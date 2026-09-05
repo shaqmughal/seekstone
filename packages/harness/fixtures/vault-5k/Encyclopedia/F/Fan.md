@@ -8,22 +8,22 @@ type: note
 # Fan
 
 FAN (Lat. _vannus_; Fr. _eventail_), in its usually restricted meaning,
-a light implement used for giving motion to the air in order to produce
+a light [[Implement|implement]] used for giving motion to the air in order to produce
 coolness to the face; the word is, however, also applied to the
-winnowing fan, for separating chaff from grain, and to various
-engineering appliances for ventilation, &c. _Ventilabrum_ and
+winnowing fan, for separating [[Chaff|chaff]] from grain, and to various
+[[Engineering|engineering]] appliances for ventilation, &c. _Ventilabrum_ and
 _flabellum_ are names under which ecclesiastical fans are mentioned in
 old inventories. Fans for cooling the face have been in use in hot
 climates from remote ages. A bas-relief in the British Museum represents
-Sennacherib with female figures carrying feather fans. They were
+Sennacherib with female figures carrying [[Feather|feather]] fans. They were
 attributes of royalty along with horse-hair fly-flappers and umbrellas.
 Examples may be seen in plates of the Egyptian sculptures at Thebes and
 other places, and also in the ruins of Persepolis. In the museum of
 Boulak, near Cairo, a wooden fan handle showing holes for feathers is
 still preserved. It is from the tomb of Amenhotep, of the 18th dynasty,
 17th century B.C. In India fans were also attributes of men in
-authority, and sometimes sacred emblems. A heart-shaped fan, with an
-ivory handle, of unknown age, and held in great veneration by the
+authority, and sometimes sacred [[Emblem|emblems]]. A heart-shaped fan, with an
+[[Ivory|ivory]] handle, of unknown age, and held in great veneration by the
 Hindus, was given to King Edward VII. when prince of Wales. Large
 punkahs or screens, moved by a servant who does nothing else, are in
 common use in hot countries, and particularly India.
@@ -44,12 +44,12 @@ ladies.
 Folding fans had their origin in Japan, and were imported thence to
 China. They were in the shape still used--a segment of a circle of paper
 pasted on a light radiating framework of bamboo, and variously
-decorated, some in colours, others of white paper on which verses or
+decorated, some in [[Colours|colours]], others of white paper on which verses or
 sentences are written. It is a compliment in China to invite a friend
 or distinguished guest to write some sentiment on your fan as a memento
 of any special occasion, and this practice has continued. A fan that has
 some celebrity in France was presented by the Chinese ambassador to the
-comtesse de Clauzel at the coronation of Napoleon I. in 1804. When a
+comtesse de Clauzel at the [[Coronation|coronation]] of Napoleon I. in 1804. When a
 site was given in 1635, on an artificial island, for the settlement of
 Portuguese merchants in Nippo in Japan, the space was laid out in the
 form of a fan as emblematic of an object agreeable for general use. Men
@@ -58,7 +58,7 @@ artisans using them with one hand while working with the other. In China
 they are often made of carved ivory, the sticks being plates very thin
 and sometimes carved on both sides, the intervals between the carved
 parts pierced with astonishing delicacy, and the plates held together by
-a ribbon. The Japanese make the two outer guards of the stick, which
+a ribbon. The Japanese make the two outer [[Guards|guards]] of the stick, which
 cover the others, occasionally of beaten iron, extremely thin and light,
 damascened with gold and other metals.
 
@@ -75,7 +75,7 @@ twenty-seven are enumerated in her inventory (1606). Coryat, the English
 traveller, in 1608 describes them as common in Italy. They also became
 of general use from that time in Spain. In Italy, France and Spain fans
 had special conventional uses, and various actions in handling them grew
-into a code of signals, by which ladies were supposed to convey hints or
+into a [[Code|code]] of signals, by which ladies were supposed to convey hints or
 signals to admirers or to rivals in society. A paper in the _Spectator_
 humorously proposes to establish a regular drill for these purposes.
 
@@ -90,7 +90,7 @@ called Spanish a great number were in fact made in France. Louis XIV.
 issued edicts at various times to regulate the manufacture. Besides fans
 mounted with parchment, Dutch fans of ivory were imported into Paris,
 and decorated by the heraldic painters in the process called "Vernis
-Martin," after a famous carriage painter and inventor of colourless lac
+Martin," after a famous carriage painter and inventor of colourless [[Lac|lac]]
 varnish. Fans of this kind belonging to Queen Victoria and the baroness
 de Rothschild were exhibited in 1870 at Kensington. A fan of the date of
 1660, representing sacred subjects, is attributed to Philippe de
@@ -148,7 +148,7 @@ circumstances. A large number of fans of all sorts, principally those of
 the 18th century, French, English, German, Italian, Spanish, &c., have
 been bequeathed to the South Kensington (Victoria and Albert) Museum.
 
-The sticks of folding fans are called in French _brins_, the two outer
+The sticks of folding fans are called in French _[[Brin|brins]]_, the two outer
 guards _panaches_, and the mount _feuille_.
 
   See also Blondel, _Histoire des eventails_ (1875); Octave Uzanne,

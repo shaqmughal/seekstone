@@ -11,19 +11,19 @@ to), a term defined, in its prosodical sense, as "the corresponding or
 riming of one word with another in the accented vowel and those which
 follow it, but not in the consonants" (_New English Dictionary_,
 Oxford). In other words, assonance is an improper or imperfect form of
-rhyme, in which the ear is satisfied with the incomplete identity of
+rhyme, in which the [[Ear|ear]] is satisfied with the incomplete identity of
 sound which the vowel gives without the aid of consonants. Much rustic
 or popular verse in England is satisfied with assonance, as in such
 cases as
 
-  "And pray who gave thee that jolly red _nose_?
+  "And pray who gave thee that [[Jolly|jolly]] red _nose_?
    Cinnamon, Ginger, Nutmeg and _Cloves_,"
 
 where the agreement between the two _o's_ permits the ear to neglect the
 discord between _s_ and _v_. But in English these instances are the
 result of carelessness or blunted ear. It is not so in several
 literatures, such as in Spanish, where assonance is systematically
-cultivated as a literary ornament. It is an error to confound
+cultivated as a literary ornament. It is an [[Error|error]] to confound
 alliteration,--which results from the close juxtaposition of words
 beginning with the same sound or letter,--and assonance, which is the
 repetition of the same vowel-sound in a syllable at points where the ear
@@ -52,7 +52,7 @@ nature of the language here permits the full value of the corresponding
 vowel-sounds to be appreciated, whereas in English--and even in German,
 where, however, a great deal of assonant poetry exists--the divergence
 of the consonants easily veils or blunts the similarity of sound.
-Various German poets of high merit, and in particular Tieck and Heine,
+Various German poets of high merit, and in particular Tieck and [[Heine]],
 have endeavoured to obviate this difficulty, but without complete
 success. Occasionally they endeavour, as English rhymers have done, to
 mix pure rhyme with assonance, but the result of this in almost all

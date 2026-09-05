@@ -7,7 +7,7 @@ topic: history
 # Marston
 
 MARSTON, JOHN (c. 1575-1634), English dramatist and satirist, eldest son
-of John Marston of Coventry, at one time lecturer of the Middle Temple,
+of John Marston of [[Coventry]], at one time lecturer of the Middle Temple,
 was born in 1575, or early in 1576. Swinburne notes his affinities with
 Italian literature, which may be partially explained by his parentage,
 for his mother was the daughter of an Italian physician, Andrew Guarsi.
@@ -15,9 +15,9 @@ He entered Brasenose College, Oxford, in 1592, taking his B.A. degree in
 1594. The elder Marston in his will expresses regret that his son, to
 whom he left his law-books and the furniture of his rooms in the Temple,
 had not been willing to follow his profession. John Marston married Mary
-Wilkes, daughter of one of the royal chaplains, and Ben Jonson said that
+Wilkes, daughter of one of the royal [[Chaplain|chaplains]], and [[Ben]] [[Jonson]] said that
 "Marston wrote his father-in-law's preachings, and his father-in-law his
-sermons." His first work was _The Metamorphosis of Pigmalions Image, and
+sermons." His first work was _The Metamorphosis of Pigmalions [[Image]], and
 certaine Satyres_ (1598). "Pigmalion" is an erotic poem in the metre of
 _Venus and Adonis_, and Joseph Hall attached a rather clumsy epigram to
 every copy that was exposed for sale in Cambridge. In the same year
@@ -39,15 +39,15 @@ far to justify Mr W. J. Courthope's[1] judgment that "it is likely
 enough that in seeming to satirize the world without him, he is usually
 holding up the mirror to his own prurient mind."
 
-On the 28th of September 1599 Henslowe notices in his diary that he lent
+On the 28th of September 1599 [[Henslowe]] notices in his diary that he [[Lent|lent]]
 "unto Mr Maxton, the new poete, the sum of forty shillings," as an
 advance on a play which is not named. Another hand has amended "Maxton"
 to "Mastone." The earliest plays to which Marston's name is attached are
-_The History of Antonio and Mellida. The First Part_; and _Antonio's
+_The History of [[Antonio]] and Mellida. The First Part_; and _Antonio's
 Revenge. The Second Part_ (both entered at Stationers' Hall in 1601 and
 printed 1602). The second part is preceded by a prologue which, in its
-gloomy forecast of the play, moved the admiration of Charles Lamb, who
-also compares the situation of Andrugio and Lucia to Lear and Kent, but
+gloomy forecast of the play, moved the admiration of Charles [[Lamb]], who
+also compares the situation of Andrugio and [[Lucia]] to [[Lear]] and Kent, but
 the scene which he quotes gives a misleading idea of the play and of the
 general tenor of Marston's work.
 
@@ -59,7 +59,7 @@ Jonson, and in the next year he prefixed commendatory verses to
 _Sejanus_. Far greater restraint is shown in _The Malcontent_ than in
 the earlier plays. It was printed twice in 1604, the second time with
 additions by John Webster. _The Dutch Courtezan_ (1605) and
-_Parasitaster, or the Fawne_ (1606) followed. In 1605 _Eastward Hoe_,[2]
+_Parasitaster, or the Fawne_ (1606) followed. In 1605 _Eastward [[Hoe]]_,[2]
 a gay comedy of London life, which gave offence to the king's Scottish
 friends, caused the playwrights concerned in its production--Marston,
 Chapman and Jonson--to be imprisoned at the instance of Sir James
@@ -77,11 +77,11 @@ Mother of Adonis_ (1607), and _Hiren and the Fair Greek_ (1611). The
 piece contains many passages superior to anything to be found in
 Marston's well-authenticated plays, and Mr A. H. Bullen suggests that it
 may be Barksteed's version of an earlier one drafted by Marston. The
-character and history of Isabella are taken chiefly from "The Disordered
+character and history of [[Isabella]] are taken chiefly from "The Disordered
 Lyfe of the Countess of Celant" in William Paynter's _Palace of
-Pleasure_, derived eventually from Bandello. There is no certain
+Pleasure_, derived eventually from [[Bandello]]. There is no certain
 evidence of Marston's authorship in _Histriomastix_ (printed 1610, but
-probably produced before 1599), or in _Jacke Drums Entertainement, or
+probably produced before 1599), or in _Jacke [[Drum|Drums]] Entertainement, or
 the Comedie of Pasquil and Katherine_ (1616), though he probably had a
 hand in both. Mr R. Boyle (_Englische Studien_, vol. xxx., 1901), in a
 critical study of Shakespeare's _Troilus and Cressida_, assigns to
@@ -90,7 +90,7 @@ prologue and epilogue, and attributes to him the bombast and coarseness
 in the last scenes of the play. It will be seen that his undoubted
 dramatic work was completed in 1607. It is uncertain at what time he
 exchanged professions, but in 1616 he was presented to the living of
-Christchurch, Hampshire. He formally resigned his charge in 1631, and
+Christchurch, [[Hampshire]]. He formally resigned his charge in 1631, and
 when his works were collected in 1633 the publisher, William Sheares,
 stated that the author "in his autumn and declining age" was living "far
 distant from this place." Nevertheless he died in London, in the parish
@@ -102,7 +102,7 @@ Church.
   John Marston_. _The Works of John Marston_ (3 vols.) were reprinted by
   Mr J. O. Halliwell (Phillipps) in 1856, and again by Mr. A. H. Bullen
   (3 vols.) in 1887. His _Poems_ (2 vols.) were edited by Dr A. B.
-  Grosart in 1879. The British Museum Catalogue tentatively assigns to
+  [[Grosart]] in 1879. The British Museum [[Catalogue]] tentatively assigns to
   Marston _The Whipper of the Satyre his pennance in a white sheete; or,
   the Beadle's Confutation_ (1601), a pamphlet in answer to _The
   Whipping of the Satyre_. For an account of the quarrel of Dekker and
@@ -120,8 +120,8 @@ FOOTNOTES:
 
   [1] _Hist. of Eng. Poetry_, iii. 70.
 
-  [2] Revived at Drury Lane (1751) as _The Prentices_, in 1775 as _Old
-    City Manners_, and said to have suggested Hogarth's "Industrious and
+  [2] Revived at [[Drury]] [[Lane]] (1751) as _The Prentices_, in 1775 as _Old
+    City [[Manners]]_, and said to have suggested Hogarth's "Industrious and
     Idle Prentices."
 
 ## See also

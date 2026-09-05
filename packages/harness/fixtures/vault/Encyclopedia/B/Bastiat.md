@@ -7,9 +7,9 @@ Educated at the colleges of Saint-Sever and of Soreze, he entered in
 of mercantile life being distasteful to him, in 1825 he retired to a
 property at Mugron, of which he became the owner on the death of his
 grandfather. Here Bastiat occupied himself with farming, his leisure
-being devoted to study and meditation. He welcomed with enthusiasm the
-Revolution of 1830. In 1831 he became a _juge de paix_ of his canton,
-and in 1832 a member of the _conseil general_ of the Landes. In 1834 he
+being devoted to study and meditation. He welcomed with [[Enthusiasm|enthusiasm]] the
+Revolution of 1830. In 1831 he became a _[[Juge|juge]] de paix_ of his canton,
+and in 1832 a member of the _conseil general_ of the [[Landes]]. In 1834 he
 published his first pamphlet, and between 1841 and 1844 three others,
 all on questions of taxation affecting local interests. During this
 period an accidental circumstance led him to become a subscriber to an
@@ -23,12 +23,12 @@ attracted great attention, and was followed by others, including the
 first series of his brilliant _Sophismes Economiques_.
 
 In 1845 Bastiat came to Paris in order to superintend the publication of
-his _Cobden et la Ligue, ou l'agitation anglaise pour la liberte des
+his _[[Cobden]] et la Ligue, ou l'agitation anglaise pour la liberte des
 echanges_, and was very cordially received by the economists of the
 capital. From Paris he went to London and Manchester, and made the
-personal acquaintance of Cobden, Bright and other leaders of the league.
+personal acquaintance of Cobden, [[Bright]] and other leaders of the league.
 When he returned to France he found that his writings had been exerting
-a powerful influence; and in 1846 he assisted in organizing at Bordeaux
+a powerful influence; and in 1846 he assisted in organizing at [[Bordeaux]]
 the first French Free-Trade Association (Association pour la Liberte des
 Echanges). The rapid spread of the movement soon required him to abandon
 Mugron for Paris.
@@ -64,7 +64,7 @@ protection, and exposing the delusions on which it rested. Thus within
 the space of two years there appeared _Propriete et Loi, Justice et
 Fraternite, Propriete et Spoliation, L'Etat, Baccalaureat et Socialisme,
 Protectionisme et Communisme, Capital et Rente, Maudit Argent,
-Spoliation et Loi, Gratuite du Credit_, and _Ce qu'on voit et ce qu'on
+Spoliation et Loi, Gratuite du [[Credit]]_, and _Ce qu'on voit et ce qu'on
 ne voit pas_. While thus occupied he was meditating the composition of a
 great constructive work, meant to renovate economical science by basing
 it on the principle that "interests, left to themselves, tend to
@@ -99,16 +99,16 @@ Bastiat between 1848 and 1850. (3) He attempted to expound in an
 original and independent manner political economy as a science. In
 combating, first, the Protectionists, and, afterwards, the Socialists,
 there gradually rose on his mind a conception which seemed to him to
-shed a flood of light over the whole of economical doctrine, and,
+shed a [[Flood|flood]] of light over the whole of economical doctrine, and,
 indeed, over the whole theory of society, viz. the harmony of the
-essential tendencies of human nature. The radical error, he became
+essential tendencies of human nature. The radical [[Error|error]], he became
 always more convinced, both of protectionism and socialism, was the
-assumption that human interests, if left to themselves would inevitably
+[[Assumption|assumption]] that human interests, if left to themselves would inevitably
 prove antagonistic and anti-social, capital robbing labour, manufactures
 ruining agriculture, the foreigner injuring the native, the consumer the
 producer, &c.; and the chief weakness of the various schools of
 political economy, he believed, he had discovered in their imperfect
-apprehension of the truth that human interests, when left to themselves,
+[[Apprehension|apprehension]] of the truth that human interests, when left to themselves,
 when not arbitrarily and forcibly interfered with, tend to harmonious
 combination, to the general good.
 

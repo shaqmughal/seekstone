@@ -7,9 +7,9 @@ townships of modern growth which fringe the southern boundaries of
 Manchester, and practically form suburbs of that city. Stockport lies
 immediately to the east. The name occurs in the formerly separate
 villages of Cheadle Hulme, Cheadle Bulkeley and Cheadle Moseley. There
-are cotton printing and bleaching works in the locality. The parish
-church of St Giles, Cheadle, is Perpendicular, containing an altar-tomb
-of the 15th century for two knights.
+are cotton printing and [[Bleaching|bleaching]] works in the locality. The parish
+church of St [[Giles]], Cheadle, is Perpendicular, containing an altar-tomb
+of the 15th century for two [[Knight|knights]].
 
 ## See also
 

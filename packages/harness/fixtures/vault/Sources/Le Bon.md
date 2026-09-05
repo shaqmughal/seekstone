@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Le_Bon"
 
 # Le Bon
 
-LE BON, JOSEPH (1765-1795), French politician, was born at Arras on the
+LE BON, JOSEPH (1765-1795), French politician, was born at [[Arras]] on the
 29th of September 1765. He became a priest in the order of the Oratory,
 and professor of rhetoric at Beaune. He adopted revolutionary ideas, and
 became a curé of the Constitutional Church in the department of
@@ -27,7 +27,7 @@ executed at Amiens on the 24th Vendémiaire in the year IV. (10th October
 1795). Whatever Le Bon's offences, his condemnation was to a great
 extent due to the violent attacks of one of his political enemies,
 Armand Guffroy; and it is only just to remember that it was owing to his
-courage that Cambrai was saved from falling into the hands of the
+courage that [[Cambrai]] was saved from falling into the hands of the
 Austrians.
 
   His son, Émile le Bon, published a _Histoire de Joseph le Bon et des

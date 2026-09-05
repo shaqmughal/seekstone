@@ -1,14 +1,14 @@
 # Faro
 
 FARO (from _Pharaoh_, a picture of the Egyptian king appearing on a card
-of the old French pack), a game of cards, played with a full pack.
+of the old French pack), a [[Game|game]] of [[Cards|cards]], played with a full pack.
 Originally the pack was held in the dealer's left hand, but nowadays
-very elaborate and expensive implements are used. The dealer places the
+very elaborate and expensive [[Implement|implements]] are used. The dealer places the
 pack, after shuffling and cutting, in a dealing-box face upwards, and
-the cards are taken from the top of the box in couples through a slit in
+the cards are taken from the top of the [[Box|box]] in couples through a slit in
 the side. The exposed card on top is called _soda_, and the last card
 left in the box is _in hoc_. The implements include counters of various
-colours and values, a dealing-box, a case or frame manipulated by a
+[[Colours|colours]] and values, a dealing-box, a case or [[Frame|frame]] manipulated by a
 "case-keeper," upon which the cards already played are arranged in
 sight, a shuffling-board, and score-sheets for the players. Upon the
 table is the "lay-out," a complete suit of spades, enamelled on green

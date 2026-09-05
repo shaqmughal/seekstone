@@ -3,7 +3,7 @@
 CAT'S-EYE, a name given to several distinct minerals, their common
 characteristic being that when cut with a convex surface they display a
 luminous band, like that seen by reflection in the eye of a cat. (1)
-Precious cat's-eye, oriental cat's-eye or chrysoberyl cat's-eye. This,
+Precious cat's-eye, oriental cat's-eye or [[Chrysoberyl|chrysoberyl]] cat's-eye. This,
 the rarest of all, is a chatoyant variety of chrysoberyl (q.v.), showing
 in the finest stones a very sharply defined line of light. One of the
 grandest known specimens was in the Hope collection of precious stones,
@@ -24,7 +24,7 @@ oxide of iron, and results from the alteration of crocidolite (q.v.). It
 is often distinguished as "tiger's-eye" (or more commonly "tiger-eye"),
 whilst a blue variety, less altered, is known as "hawk's-eye." By the
 action of hydrochloric acid the colour of tiger's-eye may to a large
-extent be removed, and a greyish cat's-eye obtained. (4) Corundum
+extent be removed, and a greyish cat's-eye obtained. (4) [[Corundum]]
 cat's-eye. In some asteriated corundum (see ASTERIA) the star is
 imperfect and may be reduced to a luminous zone, producing an indistinct
 cat's-eye effect. According to the colour of the corundum the stone is

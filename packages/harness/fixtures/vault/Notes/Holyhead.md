@@ -7,13 +7,13 @@ tags: [classics, chemistry]
 
 # Holyhead
 
-HOLYHEAD (Caergybi, the fort of Cybi, the saint mentioned by Matthew
-Arnold as meeting St Seiriol of Penmon, Anglesey), a seaport and
-market-town of Anglesey, N. Wales, situated on the small Holy Island, at
+HOLYHEAD (Caergybi, the fort of Cybi, the saint mentioned by [[Matthew]]
+[[Arnold]] as meeting St Seiriol of Penmon, [[Anglesey]]), a seaport and
+market-town of Anglesey, N. Wales, situated on the small [[Holy Island]], at
 the western end of the county. Pop. of urban district (1901) 10,079.
 Here the London and North-Western railway has a terminus, 263(1/2) m.
 from London by rail. Holy Island is connected with Anglesey by an
-embankment, 3/4 m. long, over which pass the railway and main road, the
+[[Embankment|embankment]], 3/4 m. long, over which pass the railway and main road, the
 tide flowing fast under the central piers. Once a small fishing village,
 the town has since William IV.'s reign acquired importance as the Dublin
 mail steam station. Its magnificent harbour of refuge was begun in 1847
@@ -42,7 +42,7 @@ a mass of serpentine rocks, off which lie the North and South Stacks,
 each with a lighthouse with a revolving light, visible for 20 m., and
 197 ft. above high water on the South Stack. On the hill are traces of
 British fortification, including a circular building, probably a Roman
-watch-tower. Coasting trade and fishing, with some shipbuilding and the
+watch-tower. [[Coasting]] trade and fishing, with some shipbuilding and the
 Irish traffic, occupy most of the inhabitants.
 
   See Hon. W. Stanley's _Holy Island and Holyhead_.

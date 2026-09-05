@@ -11,7 +11,7 @@ uncommon at the catamenial periods, as well as during pregnancy. In
 goitre the swelling is conspicuous and is not only unsightly but may
 occasion much discomfort from its pressure upon the windpipe and other
 important parts of the neck. J. L. Alibert recorded cases of goitre
-where the tumour hung down over the breast, or reached as low as the
+where the tumour hung down over the [[Breast|breast]], or reached as low as the
 middle of the thigh.
 
 Goitre usually appears in early life, often from the eighth to the
@@ -22,7 +22,7 @@ constituent parts, which retain their normal soft consistence; but in
 the course of time other changes supervene, and it may become cystic, or
 acquire hardness from increase of fibrous tissue or from calcareous
 deposits. Occasionally the enlargement is uniform, but more commonly one
-of the lobes, generally the right, is the larger. In rare instances the
+of the [[Lobe|lobes]], generally the right, is the larger. In rare instances the
 disease is limited to the isthmus which connects the two lobes of the
 gland. The growth is unattended with pain, and is not inconsistent with
 good health.
@@ -48,7 +48,7 @@ desirable, and small doses of iron and of iodine should be given; if
 this fails small doses of thyroid extract should be tried. If palliative
 measures prove unsuccessful, operation must be undertaken for the
 removal of one lateral lobe and the isthmus of the tumour. This may be
-done under chloroform or after the subcutaneous injection of cocaine. If
+done under [[Chloroform|chloroform]] or after the subcutaneous injection of cocaine. If
 chloroform is used, it must be given very sparingly, as the breathing is
 apt to become seriously embarrassed during the operation. After the
 successful performance of the operation great improvement takes place,
@@ -68,10 +68,10 @@ disorders, and it is occasionally seen in cases of organic heart
 disease. It has been suddenly developed as the effect of fright or of
 violent emotion. The first symptom is usually the palpitation of the
 heart, which is aggravated by slight exertion, and may be so severe as
-not only to shake the whole frame but even to be audible at some
+not only to shake the whole [[Frame|frame]] but even to be audible at some
 distance. A throbbing is felt throughout the body, and many of the
 larger blood-vessels are, like the heart, seen to pulsate strongly. The
-enlargement of the thyroid is gradual, and rarely increases to any great
+enlargement of the thyroid is [[Gradual|gradual]], and rarely increases to any great
 size, thus differing from the commoner form of goitre. The enlarged
 gland is of soft consistence, and communicates a thrill to the touch
 from its dilated and pulsating blood-vessels. Accompanying the goitre a

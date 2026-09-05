@@ -10,12 +10,12 @@ type: note
 HYPAETHROS (Gr. [Greek: hypaithros], beneath the sky, in the open air,
 [Greek: hypo], beneath, and [Greek: aithêr], air), the Greek term quoted
 by Vitruvius (iii. 2) for the opening in the middle of the roof of
-decastyle temples, of which "there was no example in Rome, but one in
+[[Decastyle|decastyle]] temples, of which "there was no example in Rome, but one in
 Athens in the temple of Jupiter Olympius, which is octastyle." But at
-the time he wrote (c. 25 B.C.) the cella of this temple was unroofed,
+the time he wrote (c. 25 B.C.) the [[Cella|cella]] of this temple was unroofed,
 because the columns which had been provided to carry, at all events,
-part of the ceiling and roof had been taken away by Sulla in 80 B.C. The
-decastyle temple of Apollo Didymaeus near Miletus was, according to
+part of the [[Ceiling|ceiling]] and roof had been taken away by Sulla in 80 B.C. The
+decastyle temple of [[Apollo]] Didymaeus near Miletus was, according to
 Strabo (c. 50 B.C.), unroofed, on account of the vastness of its cella,
 in which precious groves of laurel bushes were planted. Apart from these
 two examples, the references in various writers to an opening of some
@@ -41,7 +41,7 @@ Temple R. at Selinus, he shows an opaion about half the relative size
 shown in Cockerell's of that at Aegina, the coping on the side elevation
 being much less noticeable. The problem was apparently solved in another
 way at Bassae, where, in the excavations of the temple of Apollo by
-Cockerell and Baron Haller von Hallerstein, three marble tiles were
+[[Cockerell]] and Baron [[Haller]] von Hallerstein, three [[Marble|marble]] tiles were
 found with pierced openings in them about 18 in. by 10 in.; five of
 these pierced tiles on either side would have amply lighted the interior
 of the cella, and the amount of rain passing through (a serious element
@@ -72,11 +72,11 @@ carried a ceiling, probably constructed of timbers crossing one another
 at right angles, and one or more of the spaces was left open, which
 Xenocles surmounted by a roof formed of tiles.
 
-  James Fergusson put forward many years ago a conjectural restoration
+  James [[Fergusson]] put forward many years ago a conjectural restoration
   in which he adopted a clerestory above the superimposed columns inside
   the cella; in order to provide the light for these windows he
   indicated two trenches in the roof, one on each side, and pointed out
-  that the great Hall of Columns at Karnak was lighted in this way with
+  that the great Hall of Columns at [[Karnak]] was lighted in this way with
   clerestory windows; but in the first place the light in the latter was
   obtained over the flat roofs covering lower portions of the hall, and
   in the second place, as it rarely rains in Thebes, there could be no
@@ -90,7 +90,7 @@ Xenocles surmounted by a roof formed of tiles.
   in the cella wall would make the peristyle insupportable just at the
   time when it was required for shelter. No drainage otherwise of any
   kind has ever been found in any Greek temple, which is fatal to
-  Fergusson's view. Nor is it in accordance with the definition "open to
+  Fergusson's view. Nor is it in accordance with the [[Definition|definition]] "open to
   the sky." English cathedrals and churches are all lighted by
   clerestory windows, but no one has described them as open to the sky,
   and although Vitruvius's statements are sometimes confusing, his
@@ -100,7 +100,7 @@ Xenocles surmounted by a roof formed of tiles.
 
   There is one other theory which has been put forward, but which can
   only apply to non-peristylar temples,--that light and air was admitted
-  through the metopes, the apertures between the beams crossing the
+  through the metopes, the [[Aperture|apertures]] between the beams crossing the
   cella,--and it has been assumed that because Orestes was advised in
   one of the Greek plays to climb up and look through the metopes of the
   temple, these were left open; but if Orestes could look in, so could

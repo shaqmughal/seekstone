@@ -6,12 +6,12 @@ topic: history
 
 # Jefferson City
 
-JEFFERSON CITY (legally and officially the City of Jefferson), the
+JEFFERSON CITY (legally and officially the City of [[Jefferson]]), the
 capital of Missouri, U.S.A., and the county-seat of Cole county, on the
 Missouri river, near the geographical centre of the state, about 125 m.
 W. of St Louis. Pop. (1890), 6742; (1900), 9664, of whom 786 were
 foreign-born and 1822 were negroes; (1910 census), 11,850. It is served
-by the Missouri Pacific, the Chicago & Alton, and the Missouri, Kansas &
+by the Missouri Pacific, the [[Chicago]] & Alton, and the Missouri, Kansas &
 Texas railways. Its site is partly in the bottom-lands of the river and
 partly on the steep banks at an elevation of about 600 ft. above the
 sea. A steel bridge spans the river. The state capitol, an imposing
@@ -30,7 +30,7 @@ and the city has a public library. In the city is Lincoln Institute, a
 school for negroes, founded in 1866 by two regiments of negro infantry
 upon their discharge from the United States army, opened in 1868, taken
 over by the state in 1879, and having sub-normal, normal, college,
-industrial and agricultural courses. Coal and limestone are found near
+industrial and agricultural courses. Coal and [[Limestone|limestone]] are found near
 the city. In 1905 the total value of the factory product was $3,926,632,
 an increase of 28.2% since 1900. The original constitution of Missouri
 prescribed that the capital should be on the Missouri river within 40 m.

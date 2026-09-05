@@ -1,7 +1,7 @@
 # Lewisham
 
 LEWISHAM, a south-eastern metropolitan borough of London, England,
-bounded N.W. by Deptford, N.E. by Greenwich, E. by Woolwich, and W. by
+bounded N.W. by Deptford, N.E. by [[Greenwich]], E. by Woolwich, and W. by
 Camberwell, and extending S. to the boundary of the county of London.
 Pop. (1901) 127,495. Its area is for the most part occupied by villas.
 It includes the districts of Blackheath and Lee in the north, Hither
@@ -17,11 +17,11 @@ an open common of considerable historical interest. The other principal
 pleasure grounds are Hilly Fields (46 acres) and Ladywell Recreation
 Grounds (46 acres) in the north-west part of the borough; and at
 Sydenham (but outside the boundary of the county of London) is the
-Crystal Palace. Among institutions are the Horniman Museum, Forest Hill
+[[Crystal Palace]]. Among institutions are the Horniman Museum, Forest Hill
 (1901); Morden's College, on the south of Blackheath, founded at the
 close of the 17th century by Sir John Morden for Turkey merchants who
 were received as pensioners, and subsequently extended in scope;
-numerous schools in the same locality; and the Park Fever Hospital,
+numerous schools in the same locality; and the Park [[Fever]] Hospital,
 Hither Green. The parliamentary borough of Lewisham returns one member.
 The borough council consists of a mayor, 7 aldermen and 42 councillors.
 Area, 7014.4 acres.

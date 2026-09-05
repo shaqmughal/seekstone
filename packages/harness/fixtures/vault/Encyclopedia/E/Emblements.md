@@ -6,19 +6,19 @@ topic: geography
 
 # Emblements
 
-EMBLEMENTS (from O. Fr. _emblavence de bled_, i.e. corn sprung up above
-ground), a term applied in English law to the corn and other crops of
+EMBLEMENTS (from O. Fr. _emblavence de bled_, i.e. [[Corn|corn]] sprung up above
+ground), a term applied in [[English Law|English law]] to the corn and other crops of
 the earth which are produced annually, not spontaneously, but by labour
 and industry. Emblements belong therefore to the class of _fructus
 industriales_, or "industrial growing crops" (Sale of Goods Act 1893, §
 62). They include not only corn and grain of all kinds, but everything
 of an artificial and annual profit that is produced by labour and
-manuring, e.g. hemp, flax, hops, potatoes, artificial grasses like
-clover, but not fruit growing on trees, which come under the general
+manuring, e.g. hemp, flax, [[Hop|hops]], potatoes, artificial [[Grasses|grasses]] like
+[[Clover|clover]], but not fruit growing on trees, which come under the general
 rule _quicquid plantatur solo, solo cedit_. Emblements are included
-within the definition of goods in s. 62 of the Sale of Goods Act 1893.
+within the [[Definition|definition]] of goods in s. 62 of the Sale of Goods Act 1893.
 Where an estate of uncertain duration terminates unexpectedly by the
-death of the tenant, or some other event due to no fault of his own, the
+death of the tenant, or some other event due to no [[Fault|fault]] of his own, the
 law gives to the personal representative the profits of crops of this
 nature as compensation for the tilling, manuring and sowing of the land.
 If the estate, although of uncertain duration, is determined by the
@@ -31,9 +31,9 @@ uncertain interest, shall, instead of emblements, be entitled to hold
 the lands until the expiration of the current year of his tenancy. The
 right to emblements still exists, however, in favour of (a) a tenant not
 within the Landlord and Tenant Act 1851, whose estate determines by an
-event which could not be foreseen, (b) the executor, as against the heir
-of the owner in fee of land in his own occupation, (c) an execution
-creditor under a writ directing seizure of goods and chattels. A person
+event which could not be foreseen, (b) the executor, as against the [[Heir|heir]]
+of the owner in [[Fee|fee]] of land in his own occupation, (c) an execution
+creditor under a writ directing seizure of goods and [[Chattel|chattels]]. A person
 entitled to emblements may enter upon the lands after the determination
 of the tenancy for the purpose of cutting and carrying away the crops.
 Emblements are liable to distress by the landlord for arrears of rent,
@@ -54,13 +54,13 @@ lines of the English Landlord and Tenant Act 1851. In some states the
 tenant is entitled to compensation also from the person succeeding to
 the possession.
 
-  Under the French Code Civil, the outgoing tenant is entitled to
+  Under the French [[Code]] Civil, the outgoing tenant is entitled to
   convenient housing for the consumption of his fodder and for the
-  harvests remaining to be got in (art. 1777). The same rule is in force
-  in Belgium (Code Civil, art. 1777); and in Holland (Civil Code, art.
+  [[Harvest|harvests]] remaining to be got in (art. 1777). The same rule is in force
+  in [[Belgium]] (Code Civil, art. 1777); and in Holland (Civil Code, art.
   1635) and Spain (art. 1578). Similar rights are secured to the tenant
   under the German Civil Code (arts. 592 et seq.). French law is in
-  force in Mauritius. The common law of England and the Landlord and
+  force in [[Mauritius]]. The common law of England and the Landlord and
   Tenant Act 1851 (14 & 15 Vict., c. 25, s. 1) are in force in many of
   the British colonies acquired by settlement. In other colonies they
   have been recognized by statute (e.g. Victoria, Landlord and Tenant
@@ -70,9 +70,9 @@ the possession.
   AUTHORITIES.--English Law: Fawcett on the _Law of Landlord and Tenant_
   (3rd ed., London, 1905); Foà, _Landlord and Tenant_ (4th ed., London,
   1907). Scots Law: Bell's _Principles_ (10th ed., Edinburgh, 1899).
-  Irish Law: Noland and Kanes, _Statutes relating to the Law of Landlord
+  Irish Law: Noland and [[Kane|Kanes]], _Statutes relating to the Law of Landlord
   and Tenant in Ireland_ (10th ed.), by Kelly (Dublin, 1898). American
-  Law: Stimson, _American Statute Law_ (Boston, 1886); Bouvier, _Law
+  Law: Stimson, _American Statute Law_ ([[Boston]], 1886); Bouvier, _Law
   Dictionary_, ed. by Rawle (Boston and London, 1897); _Ruling Cases_
   (London and Boston, 1894-1901), tit. "Emblements" (American Notes).
        (A. W. R.)

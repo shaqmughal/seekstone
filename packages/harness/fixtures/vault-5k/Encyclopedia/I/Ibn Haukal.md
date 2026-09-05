@@ -7,7 +7,7 @@ topic: history
 # Ibn Haukal
 
 IBN HAUKAL, strictly IBN HAUQAL, a 10th century Arabian geographer.
-Nothing is known of his life. His work on geography, written in 977, is
+Nothing is known of his life. His work on [[Geography|geography]], written in 977, is
 only a revision and extension of the _Masalik ul-Mamalik_ of
 al-Istakhri, who wrote in 951. This itself was a revised edition of the
 _Kitab ul-Ashkal_ or _Suwar ul-Aqalim_ of Abu Zaid ul-Balkhi, who wrote
@@ -21,13 +21,13 @@ about 921. Ibn Haukal's work was published by M. J. de Goeje (Leiden,
 
 
 IBN HAZM [Abu Mahommed 'Ali ibn Ahmad ibn Hazm] (994-1064), Moslem
-theologian, was born in a suburb of Cordova. He studied history, law and
+theologian, was born in a suburb of [[Cordova]]. He studied history, law and
 theology, and became a vizier as his father had been before him, but was
 deposed for heresy, and spent the rest of his life quietly in the
 country. In legal matters he belonged first to the Shafi'ite school, but
 came to adopt the views of the Zahirites, who admitted only the external
 sense of the Koran and tradition, disallowing the use of analogy
-(_Qiyas_) and _Taqlid_ (appeal to the authority of an imam), and
+(_Qiyas_) and _Taqlid_ (appeal to the authority of an [[Imam|imam]]), and
 objecting altogether to the use of individual opinion (_Ra'y_). Every
 sentence of the Koran was to be interpreted in a general and universal
 sense; the special application to the circumstances of the time it was
@@ -58,7 +58,7 @@ of language and history. His chief work is his edition of Ibn Ishaq's
 (q.v.) _Life of the Apostle of God_, which has been edited by F.
 Wüstenfeld (Göttingen, 1858-1860). An abridged German translation has
 been made by G. Weil (Stuttgart, 1864; cf. P. Brönnle, _Die
-Commentatoren des Ibn Ishaq und ihre Scholien_, Halle, 1895). Ibn Hisham
+Commentatoren des Ibn Ishaq und ihre Scholien_, [[Halle]], 1895). Ibn Hisham
 is said to have written a work explaining the difficult words which
 occur in poems on the life of the Apostle, and another on the
 genealogies of the Himyarites and their princes.     (G. W. T.)
@@ -71,7 +71,7 @@ lived in Medina, where he interested himself to such an extent in the
 details of the Prophet's life that he was attacked by those to whom his
 work seemed to have a rationalistic tendency. He consequently left
 Medina in 733, and went to Alexandria, then to Kufa and Hira, and
-finally to Bagdad, where the caliph Mansur provided him with the means
+finally to Bagdad, where the caliph [[Mansur]] provided him with the means
 of writing his great work. This was the _Life of the Apostle of God_,
 which is now lost and is known to us only in the recension of Ibn Hisham
 (q.v.). The work has been attacked by Arabian writers (as in the
@@ -88,7 +88,7 @@ Arabian geographer, was born in Valencia. At Granada he studied the
 Koran, tradition, law and literature, and later became secretary to the
 Mohad governor of that city. During this time he composed many poems. In
 1183 he left the court and travelled to Alexandria, Jerusalem, Medina,
-Mecca, Damascus, Mosul and Bagdad, returning in 1185 by way of Sicily.
+Mecca, [[Damascus]], Mosul and Bagdad, returning in 1185 by way of Sicily.
 
   The _Travels of Ibn Jubair_ were edited by W. Wright (Leiden, 1852);
   and a new edition of this text, revised by M. J. de Goeje, was
@@ -112,11 +112,11 @@ III.), Abu Inan's successor, but, having offended the prime minister, he
 obtained permission to emigrate to Spain, where, at Granada, he was
 received with great cordiality by Ibn al Ahmar, who had been greatly
 indebted to his good offices when an exile at the court of Abu Salem.
-The favours he received from the sovereign excited the jealousy of the
+The favours he received from the sovereign excited the [[Jealousy|jealousy]] of the
 vizier, and he was driven back to Africa (1364), where he was received
-with great cordiality by the sultan of Bougie, Abu Abdallah, who had
+with great cordiality by the sultan of [[Bougie]], Abu Abdallah, who had
 been formerly his companion in prison. On the fall of Abu Abdallah Ibn
-Khaldun raised a large force amongst the desert Arabs, and entered the
+Khaldun raised a large force amongst the [[Desert|desert]] Arabs, and entered the
 service of the sultan of Tlemçen. A few years later he was taken
 prisoner by Abdalaziz ('Abd ul 'Aziz), who had defeated the sultan of
 Tlemçen and seized the throne. He then entered a monastic establishment,
@@ -170,7 +170,7 @@ age of sixty-four.
   _Muqaddama_ (preface), was published by M. Quatremère (3 vols., Paris,
   1858), often republished in the East, and a French translation was
   made by McG. de Slane (3 vols., Paris, 1862-1868). The parts of the
-  history referring to the expeditions of the Franks into Moslem lands
+  history referring to the expeditions of the [[Frank|Franks]] into Moslem lands
   were edited by C. J. Tornberg (Upsala, 1840), and the parts treating
   of the Banu-l Ahmar kings of Granada were translated into French by M.
   Gaudefroy-Demombynes in the _Journal asiatique_, ser. 9, vol. xiii.
@@ -185,7 +185,7 @@ age of sixty-four.
 
 IBN KHALLIKAN [Abu-l 'Abbas Ahmad ibn Khallikan] (1211-1282), Arabian
 biographer, was born at Arbela, the son of a professor reputed to be
-ascended from the Barmecides of the court of Harun al-Rashid. When
+ascended from the [[Barmecides]] of the court of Harun al-Rashid. When
 eighteen he went to Aleppo, where he studied for six years, then to
 Damascus, and in 1238 to Alexandria and Cairo. In 1252 he married and
 became chief cadi of Syria in Damascus in 1261. Having held this office
@@ -203,7 +203,7 @@ in the same city, but died in the following year.
   1838-1842), and also in Cairo (1859 and 1882). An English translation
   by McG. de Slane was published for the Oriental Translation Fund in 4
   vols. (London, 1842-1871). Thirteen extra biographies from a
-  manuscript in Amsterdam were published by Pijnappel (Amsterdam, 1845).
+  [[Manuscript|manuscript]] in Amsterdam were published by Pijnappel (Amsterdam, 1845).
   A Persian translation exists in manuscript, and various extracts from
   the work are known. Several supplements to the book have been written,
   the best known being that of Mahommed ibn Shakir (d. 1362), published

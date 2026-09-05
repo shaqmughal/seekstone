@@ -3,7 +3,7 @@
 BAKHCHI-SARAI (Turk. for "garden-palace"), a town of Russia, in the
 government of Taurida, situated in a narrow gorge in the Crimea, 20 m. by
 rail S.S.W. of Simferopol. From the close of the 15th century down to 1783
-it was the residence of the Tatar khans of the Crimea; and its streets wear
+it was the residence of the Tatar [[Khan|khans]] of the Crimea; and its streets wear
 a decidedly oriental look. The principal building, the palace, or
 _Khan-sarai_, was originally erected in 1519 by Abdul-Sahal-Ghirai,
 destroyed in 1736, and restored at Potemkin's command for the reception of

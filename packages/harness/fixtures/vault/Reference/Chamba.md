@@ -7,10 +7,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chamba"
 
 # Chamba
 
-CHAMBA, a native state of India, within the Punjab, amid the Himalayas,
+CHAMBA, a native state of India, within the Punjab, amid the [[Himalaya|Himalayas]],
 and lying on the southern border of Kashmir. It has an area of 3216 sq.
-m. Pop. (1901) 127,834. The sanatorium of Dalhousie, though within the
-state, is attached to the district of Gurdaspur. Chamba is entirely
+m. Pop. (1901) 127,834. The sanatorium of [[Dalhousie]], though within the
+state, is attached to the district of [[Gurdaspur]]. Chamba is entirely
 mountainous; in the east and north, and in the centre, are snowy ranges.
 The valleys in the west and south are fertile. The chief rivers are the
 Chandra and Ravi. The country is much in favour with sportsmen. The

@@ -6,7 +6,7 @@ English writers to indicate the hymn-tunes composed or adopted for use
 in church by the German reformers. German writers, however, apply the
 terms "_Choral_" and "_Chorale-gesang_," as Luther himself would apply
 them, to any solemn melody used in the church. It is thus the equivalent
-of _canto fermo_; and the German rhymed versions of the biblical and
+of _[[Canto|canto]] [[Fermo|fermo]]_; and the German rhymed versions of the biblical and
 other ancient canticles, such as the Magnificat and the Te Deum, are set
 to curious corruptions of the corresponding Gregorian tunes, which
 adaptations the composers of classical German music called chorales with
@@ -19,7 +19,7 @@ musical epoch in which symmetry of melody and rhythm was beginning to
 assume artistic importance. The growing sense of form shown by some of
 Luther's own tunes (e.g. _Vom Himmel hoch, da komm' ich her_) soon
 advanced, especially in the tunes of Crüger, beyond any that was shown
-by folk-music; and it provided an invaluable bulwark against the chaos
+by folk-music; and it provided an invaluable [[Bulwark|bulwark]] against the chaos
 that was threatening to swamp music on all sides at the beginning of the
 17th century. By Bach's time all the polyphonic instrumental and vocal
 art-forms of the 18th century were mature; and though he loved to derive
@@ -49,7 +49,7 @@ fermos in constant use in the church, composers will be driven to use
 them rather unsystematically as special effects, and to rely for the
 most part on other artistic devices, though any use of melodies in long
 notes against quicker counterpoint will be aesthetically
-indistinguishable from counterpoint on a _canto fermo_. Thus Handel in
+indistinguishable from counterpoint on a _canto fermo_. Thus [[Handel]] in
 his Italian and English works wrote no entire chorale movements, yet
 what is the passage in the "Hallelujah" chorus from "the kingdom of this
 world" to the end but a treatment of the second part of the chorale
@@ -72,7 +72,7 @@ vital.
   Genevan Psalter (1st ed., Strassburg, 1542, final edition 1562), which
   is now conclusively proved to be the work of Bourgeois. From this
   Sternhold and Hopkins borrowed extensively (1562). The psalter of C.
-  Goudimel (Paris, 1565) is another among many prominent collections
+  [[Goudimel]] (Paris, 1565) is another among many prominent collections
   showing the steps towards congregational singing, i.e. the restriction
   to "note-against-note" counterpoint (sc. plain harmony), and, in
   twelve cases, the assigning of the melody to the treble instead of to

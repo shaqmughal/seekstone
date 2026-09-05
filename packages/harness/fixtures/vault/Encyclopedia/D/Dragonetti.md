@@ -10,7 +10,7 @@ type: article
 DRAGONETTI, DOMENICO (1763-1846), Italian double-bass player, was born
 in Venice on the 7th of April 1763. Having become famous as a performer
 on his instrument, he went to London in 1794, where his playing created
-a furore. He was the friend of Haydn and of Beethoven, and a well-known
+a furore. He was the friend of [[Haydn]] and of [[Beethoven]], and a well-known
 character in his day. He died in London on the 16th of April 1846.
 
 
@@ -18,7 +18,7 @@ character in his day. He died in London on the 16th of April 1846.
 
 DRAGON-FLY (Ger. _Wasserjungfer_; Swed. _trollslända_; Dan. _guldsmed_;
 Dutch, _scherpstekendevlieg_; Fr. _demoiselle_), the popular English
-name applied to the members of a remarkable group of insects which
+name applied to the members of a remarkable group of [[Insect|insects]] which
 formed the genus _Libellula_ of Linnaeus and the ancient authors. In
 some parts of the United States they appear to be known as "devil's
 darning needles," and in many parts of England are termed
@@ -28,7 +28,7 @@ of the larger species can inflict a momentarily painful bite with their
 powerful jaws. Their true systematic position is still contested and
 somewhat uncertain. By most of the older systematists they were placed
 as forming part of the heterogeneous order _Neuroptera_. J. C.
-Fabricius, however, elevated them to the rank of a distinct order, which
+[[Fabricius]], however, elevated them to the rank of a distinct order, which
 he termed _Odonata_; and whatever may be the difference of opinion
 amongst authors at the present day, that term is almost universally
 employed for the group. W. F. Erichson transferred all the groups of
@@ -39,7 +39,7 @@ in the _Orthoptera_, terming those groups in which the earlier states
 are subaquatic _Orthoptera amphibotica_. All entomologists are agreed in
 maintaining the insects as forming a group marked by characters at once
 extraordinary and isolated in their nature, and in most modern
-classifications they are treated as a distinct order.
+[[Classification|classifications]] they are treated as a distinct order.
 
 The group _Odonata_ is divided into three families, and each of these
 again into two subfamilies. The families are the _Agrionidae_,
@@ -56,9 +56,9 @@ and the third _Cordulina_ and _Libellulina_.
   (_Agrionidae_ and _Gomphina_) widely distant; occupied by innumerable
   facets, which are often larger on the upper portion. The antennae,
   which are smaller in proportion than in almost any other insects,
-  consist only of two short swollen basal joints and a 5 or 6-jointed
+  consist only of two short swollen basal [[Joints|joints]] and a 5 or 6-jointed
   bristle-like thread. The large labrum conceals the jaws and inner
-  mouth parts. The lower lip, or labium (formed by the conjoined second
+  mouth parts. The lower [[Lip|lip]], or labium (formed by the conjoined second
   maxillae), is attached to a very small chin piece (or mentum), and is
   generally very large, often (_Agrionidae_) divided almost to its base
   into two portions, or more frequently entire or nearly so; on each
@@ -85,7 +85,7 @@ and the third _Cordulina_ and _Libellulina_.
   form, and often furnishing the best specific (and even generic)
   characters.
 
-  The legs vary in length and stoutness, but may, as a rule, be termed
+  The [[Leg|legs]] vary in length and stoutness, but may, as a rule, be termed
   long and slender. The anterior pair probably assist in capturing and
   holding insect prey, but the greatest service all the legs render is
   possibly in enabling the creature to rest lightly, so that it can quit
@@ -120,7 +120,7 @@ and the third _Cordulina_ and _Libellulina_.
   The internal structure is comparatively simple. The existence of
   salivary glands, denied by L. Duprix, has been asserted by O.
   Poletajewa. The rest of the digestive apparatus consists of an
-  elongate canal extending from mouth to anus, comprising the
+  elongate canal extending from mouth to [[Anu|anus]], comprising the
   oesophagus, stomach and intestine, with certain dilatations and
   constrictions; the characteristic Malpighian vessels are stated to
   number about forty, placed round the posterior extremity of the
@@ -150,7 +150,7 @@ and the third _Cordulina_ and _Libellulina_.
   second segment of the male. In the more powerful _Libellulidae_, &c.,
   the act is of short duration, and it is probable that polygamy and
   polyandry exist, for it possibly requires more than one almost
-  momentary act to fertilize all the eggs in the ovaries of a female.
+  momentary act to fertilize all the [[Egg|eggs]] in the ovaries of a female.
   But in many _Agrionidae_, and in some others, the male keeps his hold
   of the prothorax of the female for a lengthened period, retaining
   himself in flight in an almost perpendicular manner, and it may be
@@ -164,7 +164,7 @@ and the third _Cordulina_ and _Libellulina_.
   water-weeds, so that in all probability the eggs fall at once to the
   bottom. But in some of the _Agrionidae_ the female has been often
   noticed by trustworthy observers to creep down the stems of aquatic
-  plants several inches below the surface, emerging after the act of
+  plants several [[Inch|inches]] below the surface, emerging after the act of
   oviposition has been effected; and in the case of _Lestes sponsa_, K.
   T. E. von Siebold saw the male descend with the female. The same exact
   observer noticed also in this species that the female makes slight
@@ -181,7 +181,7 @@ and the third _Cordulina_ and _Libellulina_.
   [Illustration: FIG. 3.--The whole body extricated.]
 
   [Illustration: FIG. 4.--The perfect insect (the wings having acquired
-  their full dimensions) resting to dry itself, preparatory to the wings
+  their full [[Dimension|dimensions]]) resting to dry itself, preparatory to the wings
   being horizontally extended.]
 
 _Larva and Nymph._--The duration of the subaquatic life of a dragon-fly
@@ -232,7 +232,7 @@ There are two pairs of thoracic spiracles, through which the nymph
 breathes during its later life by thrusting the anterior end of the body
 into the air; but respiration is mostly effected by a peculiar apparatus
 at the tail end, and there are two different methods. In the
-_Agrionidae_ there are three elongate flattened plates, or false gills,
+_Agrionidae_ there are three elongate flattened plates, or false [[Gill|gills]],
 full of tracheal ramifications, which extract the air from the water,
 and convey it to the internal tracheae (in _Calopteryx_ these plates are
 excessively long, nearly equalling the abdomen), the plates also serving
@@ -257,11 +257,11 @@ arrived at its full growth sallies forth from the water, and often
 crawls a considerable distance (frequently many feet up the trunks of
 trees) before it fixes itself for the final change, which is effected by
 the thorax splitting longitudinally down the back, through which fissure
-the perfect insect gradually drags itself. The figures indicate this
+the perfect insect gradually [[Drag|drags]] itself. The figures indicate this
 process as observed in _Aeschna cyanea_.
 
 _The Complete Insect._-For a considerable time after its emergence a
-dragon-fly is without any of its characteristic colours, and is flaccid
+dragon-fly is without any of its characteristic [[Colours|colours]], and is flaccid
 and weak, the wings (even in those groups in which they are afterwards
 horizontally extended) being held vertically in a line with the abdomen.
 By degrees the parts harden, and the insect essays its first flight, but
@@ -275,7 +275,7 @@ female is yellow; but several days elapse before this pulverulent
 appearance is attained, and a comparatively young male is yellow like
 the female. The wings are typically hyaline and colourless, but in many
 species (especially _Calopterygina_ and _Libellulina_) they may be
-wholly or in part opaque and often black, due apparently to gradual
+wholly or in part opaque and often black, due apparently to [[Gradual|gradual]]
 oxydization of a pigment between the two membranes of which the wings
 are composed; the brilliant iridescence, or metallic lustre, so
 frequently found is no doubt due to interference--the effect of minute
@@ -288,7 +288,7 @@ hyaline.
 These insects are pre-eminently lovers of the hottest sunshine (a few
 are somewhat crepuscular), and the most powerful and daring on the wing
 in fine weather become inert and comparatively lifeless when at rest in
-dull weather, allowing themselves to be captured by the fingers without
+dull weather, allowing themselves to be captured by the [[Finger|fingers]] without
 making any effort to escape. Many of the larger species (_Aeschna_, &c.)
 have a habit of affecting a particular twig or other resting place like
 a fly-catcher among birds, darting off after prey and making long
@@ -303,8 +303,8 @@ follows: Agrionina, 700 species; Calopterygina, 280; Gomphina, 320;
 Aeschnina, 170; Corduliina, 130; Libellulina, 600. In Europe proper only
 100 species have been observed, and about 46 of these occur in the
 British islands. New Zealand is excessively poor, and can only number 8
-species, whereas they are very numerous in Australia. Some species are
-often seen at sea, far from land, in calm weather, in troops which are
+species, whereas they are very numerous in [[Australia]]. Some species are
+often seen at sea, far from land, in [[Calm|calm]] weather, in troops which are
 no doubt migratory; the common _Libellula quadrimaculata_, which
 inhabits the cold and temperate regions of the northern hemisphere, has
 been frequently seen in immense migratory swarms. One species (_Pantala
@@ -326,13 +326,13 @@ ancient type, but in addition, the large wings and strong dense
 reticulation are extremely favourable for preservation in a fossil
 condition, and in many cases all the intricate details can be as readily
 followed as in a recent example. From the Carboniferous strata of
-Commentry, France, C. Brongniart has described several genera of
+[[Commentry]], France, C. [[Brongniart]] has described several genera of
 gigantic insects allied to dragon-flies, but with less specialized
 thoracic segments and simpler wing-neuration. These form a special
 group--the Protodonata. True _Odonata_ referable to the existing
 families are plentiful in Mesozoic formations; in England they have been
 found more especially in the Purbeck beds of Swanage, and the vales of
-Wardour and Aylesbury, in the Stonesfield Slate series, and in the Lias
+Wardour and Aylesbury, in the Stonesfield Slate series, and in the [[Lias]]
 and Rhaetic series of the west of England. But the richest strata appear
 to be those of the Upper Miocene at Oeningen, near Schaffhausen in the
 Rhine valley; the Middle Miocene at Radaboj, near Krapina in Croatia;
@@ -345,7 +345,7 @@ of their subaquatic conditions have been found, although these as a rule
 are numerous in most of the other strata, hence the insects may be
 regarded as having been drowned in the sea and washed on shore. Many of
 these Solenhofen species differ considerably in form from those now
-existing, so that Dr H. A. L. Hagen, who has especially studied them,
+existing, so that Dr H. A. L. [[Hagen]], who has especially studied them,
 says that for nearly all it is necessary to make new genera. It is of
 great interest, however, to find that a living Malayan genus (_Euphaea_)
 and another living genus _Uropetala_, now confined to New Zealand, are
@@ -365,17 +365,17 @@ able to extricate themselves if accidentally entangled in the resin.
   et Cordulines_, with Supplements (Brussels, from 1853 to 1877); E. de
   Selys-Longchamps and H. A. L. Hagen, _Revue des Odonates d'Europe_
   (Brussels, 1850); _Monographie des Caloptérygines et des Gomphines_
-  (Brussels, 1854 and 1858); Charpentier, _Libellulinae europeae_
+  (Brussels, 1854 and 1858); [[Charpentier]], _Libellulinae europeae_
   (Leipzig, 1840). For modern systematic work see various papers by R.
-  M'Lachlan, P. P. Calvert, J. G. Needham, R. Martin, E. B. Williamson,
+  M'Lachlan, P. P. [[Calvert]], J. G. Needham, R. [[Martin]], E. B. Williamson,
   F. Karsch, &c.; also H. Tumpel, _Die Geradflugler Mitteleuropas_
-  (Eisenach, 1900); and W. F. Kirby, _Catalogue of Neuroptera Odonata_
+  ([[Eisenach]], 1900); and W. F. [[Kirby]], _[[Catalogue]] of Neuroptera Odonata_
   (London, 1890). For habits and details of transformation and larval
   life, see L. C. Miall, _Natural History of Aquatic Insects_ (London,
-  1895); H. Dewitz, _Zool. Anz._ xiii. (1891); and J. G. Needham, _Bull.
+  1895); H. Dewitz, _Zool. Anz._ xiii. (1891); and J. G. Needham, _[[Bull]].
   New York Museum_, lxviii. (1903). For geographical distribution, G. H.
   Carpenter, _Sci. Proc. R. Dublin Soc._ viii. (1897). For British
-  species, W. J. Lucas, _Handbook of British Dragonflies_ (London,
+  species, W. J. [[Lucas]], _Handbook of British Dragonflies_ (London,
   1899). For wings and mechanism of flight, R. von Lendenfeld, _S.B.
   Akad. Wien_, lxxxiii. (1881), and J. G. Needham, _Proc. U.S. Nat.
   Mus._ xxvi. (1903). For general morphology, R. Heymons, _Abhandl. k.

@@ -7,7 +7,7 @@ topic: law
 # Delolme
 
 DELOLME, JEAN LOUIS (1740-1806), Swiss jurist and constitutional writer,
-was born at Geneva in 1740. He studied for the bar, and had begun to
+was born at [[Geneva]] in 1740. He studied for the bar, and had begun to
 practise when he was obliged to emigrate on account of a pamphlet
 entitled _Examen de trois parts de droit_, which gave offence to the
 authorities of the town. He took refuge in England, where he lived for

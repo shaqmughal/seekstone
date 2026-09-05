@@ -8,7 +8,7 @@ type: reference
 # Borromean Islands
 
 BORROMEAN ISLANDS, a group of four islands on the W. side of Lago
-Maggiore off Baveno and Stresa. The southernmost, the Isola Bella, is
+Maggiore off [[Baveno]] and Stresa. The southernmost, the Isola Bella, is
 famous for its chateau and terraced gardens, constructed by Count
 Vitaliano Borromeo (d. 1690). To the N.W. is the Isola dei Pescatori,
 containing a fishing village; and to the N.E. of this the Isola Madre,

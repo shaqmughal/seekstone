@@ -12,11 +12,11 @@ begun by Ptolemy III. Euergetes in 237 B.C., was finished by his
 successor in 212; the portico, court, pylons and surrounding wall were
 added by Ptolemy Euergetes II., Soter II. and Alexander I.; but the
 decoration was not finished till 57 B.C. in the reign of Ptolemy XIII.
-Neos Dionysus. The god of Atbo was a form of Horus (Apollo) as the
+Neos [[Dionysus]]. The god of Atbo was a form of Horus ([[Apollo]]) as the
 sun-god; his most characteristic representation is as the disk of the
 sun with outspread wings, so often seen over the doors of shrines, at
 the top of stelae, &c. In the temple, where he is often figured as a
-falcon-headed man, he is associated with Hathor of Dendera and the child
+falcon-headed man, he is associated with Hathor of [[Dendera]] and the child
 Harsemteus.
 
   See Baedeker's _Egypt_; Ed. Naville, _Textes relatifs au mythe d'Horus

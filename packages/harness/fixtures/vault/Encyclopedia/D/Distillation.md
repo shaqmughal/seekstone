@@ -7,7 +7,7 @@ topic: history
 # Distillation
 
 DISTILLATION (from the Lat. _distillare_, more correctly _destillare_,
-to drop or trickle down), an operation consisting in the conversion of a
+to drop or trickle down), an operation consisting in the [[Conversion|conversion]] of a
 substance or mixture of substances into vapours which are afterwards
 condensed to the liquid form; it has for its object the separation or
 purification of substances by taking advantage of differences in
@@ -62,15 +62,15 @@ about the end of the 5th century.
 
 In modern times the laboratory practice of distillation was greatly
 facilitated by the introduction of the condenser named after Justus von
-Liebig; A. Kolbe and E. Frankland introduced the "reflux condenser,"
+Liebig; A. [[Kolbe]] and E. [[Frankland]] introduced the "reflux condenser,"
 i.e. a condenser so placed that the condensed vapours return to the
 distilling flask, a device permitting the continued boiling of a
 substance with little loss; W. Dittmar and R. Anschütz, independently
 of one another, introduced "distillation under reduced pressure"; and
 "fractional distillation" was greatly aided by the columns of Wurtz
-(1855), E. Linnemann (1871), and of J. A. Le Bel and A. Henninger
+(1855), E. Linnemann (1871), and of J. A. Le [[Bel]] and A. Henninger
 (1874). In chemical technology enormous strides have been made, as is
-apparent from the coal-gas, coal-tar, mineral oil, spirits and mineral
+apparent from the coal-gas, [[Coal-Tar|coal-tar]], mineral oil, spirits and mineral
 acids industries.
 
 The subject is here treated under the following subdivisions: (1)
@@ -107,10 +107,10 @@ technology and (8) commercial distillation of water.
   [Illustration: FIG. 1.]
 
   The mode of heating varies with the substance to be distilled. For
-  highly volatile liquids, e.g. ether, ligroin, &c., immersion of the
+  highly volatile liquids, e.g. ether, ligroin, &c., [[Immersion|immersion]] of the
   flask in warm water suffices; for less volatile liquids a directly
   heated water or sand bath is used; for other liquids the flask is
-  heated through wire gauze or asbestos board, or directly by a Bunsen.
+  heated through wire gauze or asbestos board, or directly by a [[Bunsen]].
   The condensing apparatus must also be conditioned by the volatility.
   With difficulty volatile substances, e.g. nitrobenzene, air cooling of
   the retort neck or of a straight tube connected with the distilling
@@ -118,7 +118,7 @@ technology and (8) commercial distillation of water.
   receiver immersed in water may be used. For less volatile liquids the
   Liebig condenser is most frequently used. In its original form, this
   consists of a long tube surrounded by an outer tube so arranged that
-  cold water circulates in the annular space between the two. The
+  cold water circulates in the [[Annular|annular]] space between the two. The
   vapours pass through the inner tube, and the cold water enters at the
   end farthest from the distilling flask. For more efficient
   condensation--and also for shortening the apparatus--the central tube
@@ -126,7 +126,7 @@ technology and (8) commercial distillation of water.
   spiral form, the object in each case being to increase the condensing
   surface. Of other common types of condenser, we may notice the
   "spiral" or "worm" type, which consists of a glass, copper or tin worm
-  enclosed in a vessel in which water circulates; and the ball
+  enclosed in a vessel in which water circulates; and the [[Ball|ball]]
   condenser, which consists of two concentric spheres, the vapour
   passing through the inner sphere and water circulating in the space
   between this and the outer (in another form the vapour circulates in a
@@ -134,7 +134,7 @@ technology and (8) commercial distillation of water.
   effective type is shown in fig. 2. The condensing water enters at the
   top and is conducted to the bottom of the inner tube, which it fills
   and then flows over the outside of the outer tube; it collects in the
-  bottom funnel and is then led off. The vapours pass between the inner
+  bottom [[Funnel|funnel]] and is then led off. The vapours pass between the inner
   and outer tubes.
 
   [Illustration: FIG. 2.]
@@ -146,7 +146,7 @@ technology and (8) commercial distillation of water.
   other contrivance in which the vapours are taken up. If the substances
   operated upon decompose when heated in air, as, for example, the zinc
   alkyls which inflame, the air within the apparatus is replaced by some
-  inert gas, e.g. nitrogen, carbon dioxide, &c., which is led in at the
+  inert gas, e.g. nitrogen, [[Carbon|carbon]] dioxide, &c., which is led in at the
   distilling flask before the process is started, and a slow current
   maintained during the operation.
 
@@ -156,7 +156,7 @@ technology and (8) commercial distillation of water.
   temperature. The apparatus differs very slightly from that employed in
   ordinary distillation. The "receiver" must be connected on the one
   side to the condenser, and on the other to the exhaust pump. A safety
-  vessel and a manometer are generally interposed between the pump and
+  vessel and a [[Manometer|manometer]] are generally interposed between the pump and
   receiver. For the purpose of collecting the distillates in fractions,
   many forms of receivers have been devised. Brühl's is one of the
   simplest. It consists of a number of tubes mounted vertically on a
@@ -165,7 +165,7 @@ technology and (8) commercial distillation of water.
   of the condenser projects so as to be over one of the receiving tubes;
   the other leads to the pump. By rotating the disk the tubes may be
   successively brought under the end of the condenser. Boiling under
-  reduced pressure has one very serious drawback, viz. the liquid boils
+  reduced pressure has one very serious [[Drawback|drawback]], viz. the liquid boils
   irregularly or "bumps." W. Dittmar showed that this may be avoided by
   leading a fine, steady stream of dry gas-air, carbon dioxide,
   hydrogen, &c., according to the substance operated upon--through the
@@ -173,8 +173,8 @@ technology and (8) commercial distillation of water.
   reaches to nearly the bottom of the flask. "Bumping" is common in open
   boiling when the liquid is free from air bubbles and the interior of
   the vessel is very smooth. It may be diminished by introducing
-  clippings of platinum foil, pieces of porcelain, glass beads or
-  garnets into the liquid. "Frothing" is another objectionable feature
+  clippings of platinum foil, pieces of porcelain, glass [[Bead|beads]] or
+  [[Garnet|garnets]] into the liquid. "Frothing" is another objectionable feature
   with many liquids. When cold, froth can be immediately dissipated by
   adding a few drops of ether. In boiling liquids its formation may be
   prevented by adding paraffin wax; the wax melts and forms a ring on
@@ -230,7 +230,7 @@ technology and (8) commercial distillation of water.
   quantities.
 
   4. _Distillation with Steam._--In this process a current of steam,
-  which is generated in a separate boiler and superheated, if necessary,
+  which is generated in a separate [[Boiler|boiler]] and superheated, if necessary,
   by circulation through a heated copper worm, is led into the
   distilling vessel, and the mixed vapours condensed as in the ordinary
   processes. This method is particularly successful in the case of
@@ -314,7 +314,7 @@ technology and (8) commercial distillation of water.
   (i.) If the vapour of A be readily soluble in the liquid B, and the
   vapour of B readily soluble in the liquid A, there will exist a
   mixture of A and B which will have a lower vapour pressure than any
-  other mixture. The vapour pressure composition curve will be convex to
+  other mixture. The vapour pressure composition curve will be [[Convex|convex]] to
   the axis of compositions, the maximum vapour pressures corresponding
   to pure A and pure B, and the minimum to some mixture of A and B. On
   distilling such a mixture under constant pressure, a mixture of the
@@ -356,7 +356,7 @@ technology and (8) commercial distillation of water.
 
   [Illustration: FIG. 4.]
 
-  Van't Hoff (_Theoretical and Physical Chemistry_, vol. i. p. 51)
+  Van't Hoff (_Theoretical and Physical [[Chemistry]]_, vol. i. p. 51)
   illustrates the five cases on one diagram. In fig. 4 let AB be the
   axis of composition, AP be the vapour pressure of pure A, BQ the
   vapour pressure of pure B. For immiscible liquids the vapour pressure
@@ -384,7 +384,7 @@ technology and (8) commercial distillation of water.
   requiring much purification. Prior to 1830, little was known of the
   process other than that organic compounds generally yielded tarry and
   solid matters, but the discoveries of Liebig and Dumas (of acetone
-  from acetates), of Mitscherlich (of benzene from benzoates) and of
+  from acetates), of Mitscherlich (of [[Benzene|benzene]] from benzoates) and of
   Persoz (of methane from acetates and lime) brought the operation into
   common laboratory practice. For efficiency the operation must be
   conducted with small quantities; caking may be prevented by mixing the
@@ -400,8 +400,8 @@ technology and (8) commercial distillation of water.
   One of the earliest red-hot tube syntheses of importance was the
   formation of naphthalene from a mixture of alcohol and ether vapours.
   Such condensations were especially studied by M. P. E. Berthelot, and
-  shown to be very fruitful in forming hydrocarbons. Sometimes reagents
-  are placed in the combustion tube, for example lead oxide (litharge),
+  shown to be very fruitful in forming [[Hydrocarbon|hydrocarbons]]. Sometimes reagents
+  are placed in the [[Combustion|combustion]] tube, for example lead oxide (litharge),
   which takes up bromine and sulphur. In its simplest form the apparatus
   consists of a straight tube, made of glass, porcelain or iron
   according to the temperature required and the nature of the reacting
@@ -421,7 +421,7 @@ technology and (8) commercial distillation of water.
   manufacturing practice. Distillation in a vacuum is practised in two
   forms:--if the pump draws off steam as well as air it is termed a
   "wet" air-pump; if it only draws off air, it is a "dry" air-pump. In
-  the glycerin industry the lyes obtained by saponifying the fats are
+  the glycerin industry the [[Lye|lyes]] obtained by saponifying the fats are
   first evaporated with "wet vacuum" and finally distilled with closed
   and live steam and a "dry vacuum." Two forms of steam distillation may
   be distinguished:--in one the still is simply heated by a steam coil
@@ -440,7 +440,7 @@ technology and (8) commercial distillation of water.
   enamelled iron or other material are employed, which when worn can be
   replaced at a far lower cost than that of a new still. Glass stills
   heated by a sand bath are sometimes employed in the final distillation
-  of sulphuric acid; platinum, and an alloy of platinum and iridium with
+  of sulphuric acid; platinum, and an alloy of platinum and [[Iridium|iridium]] with
   a lining of gold rolled on (a discovery due to Heraeus), are used for
   the same purpose. Cast iron stills are provided with a hemispherical
   head or dome, generally attached to the body of the still by bolts,
@@ -456,8 +456,8 @@ technology and (8) commercial distillation of water.
   charging purposes, (6) sight-holes through which the operation can be
   watched, and (7) a safety valve. The body of the still is provided
   with one or more openings at different heights to serve for the
-  discharge of the residue in the still, and sometimes with a glass
-  gauge to record the quantity of matter in the still. For dry
+  [[Discharge|discharge]] of the residue in the still, and sometimes with a glass
+  [[Gauge|gauge]] to record the quantity of matter in the still. For dry
   distillations the retorts are generally horizontal cylinders, the
   bottom or lower surface being sometimes flattened. Iron and fireclay
   are the materials commonly employed; wrought iron is used in the
@@ -472,7 +472,7 @@ technology and (8) commercial distillation of water.
   upper part of the still, while in others the furnace gases do not play
   directly on the base or upper portion of the still but are conducted
   around it by a system of flues (see COAL-TAR). Steam heating, dry or
-  live, is employed alone and also as an auxiliary to direct firing.
+  live, is employed alone and also as an [[Auxiliary|auxiliary]] to direct firing.
 
   The condensing plant varies with the volatility of the distillate. Air
   cooling is adopted whenever possible. For example, in the less modern
@@ -480,7 +480,7 @@ technology and (8) commercial distillation of water.
   directly into double-necked bottles (_bombonnes_) immersed in water. A
   more efficient arrangement consists of a stack of vertical pipes
   standing up from a main or collecting trough and connected at the top
-  in consecutive pairs by a cross tube. By an arrangement of diaphragms
+  in consecutive pairs by a cross tube. By an arrangement of [[Diaphragm|diaphragms]]
   in the lower trough the vapours are circulated through the system. As
   an auxiliary to air cooling the stack may be cooled by a slow stream
   of water trickling down the outside of the pipes, or, in certain
@@ -497,7 +497,7 @@ technology and (8) commercial distillation of water.
   condenser is regulated according to the volatility of the condensate.
   When the vapours readily condense to a solid form the condensing plant
   may take the form of large chambers; such conditions prevail in the
-  manufacture of arsenic, sulphur and lampblack: in the latter case
+  manufacture of [[Arsenic|arsenic]], sulphur and lampblack: in the latter case
   (which, however, is not properly one of distillation) the chamber is
   hung with sheets on which the pigment collects. Large chambers are
   also used in the condensation of mercury.
@@ -506,7 +506,7 @@ technology and (8) commercial distillation of water.
   fractions, petroleum and the "wash" of the spirit industry, is very
   important, and many types of apparatus are employed in order to effect
   a separation of the vapours. The earliest form, invented by C. B.
-  Mansfield to facilitate the fractionation of paraffin and coal-tar
+  [[Mansfield]] to facilitate the fractionation of paraffin and coal-tar
   distillates, consisted in having a pipe leading from the inclined
   delivery tube of the still to the still again, so that any vapour
   which condensed in the delivery tube was returned to the still. Of
@@ -554,19 +554,19 @@ technology and (8) commercial distillation of water.
   potable water from sea-water, the following conditions are
   essential:--1st, aeration of the distilled product so that it may be
   immediately available for drinking purposes; 2nd, economy of coal to
-  obtain the maximum of water with the minimum expenditure of fuel; and
+  obtain the maximum of water with the minimum expenditure of [[Fuel|fuel]]; and
   3rd, simplicity of working parts, to secure the apparatus from
   breaking down, and enable unskilled attendants to work it with safety.
-  The problem is a comparatively old one, for we find that R. Fitzgerald
+  The problem is a comparatively old one, for we find that R. [[Fitzgerald]]
   patented a process in 1683 having for its purpose the "sweetening of
   sea-water." A history of early attempts is given in S. Hales's
   _Philosophical Experiments_, published in 1739. Among the earlier of
   the modern forms of apparatus which came into practical adoption are
-  the inventions of Dr Normandy and of Chaplin of Glasgow, the apparatus
-  of Rocher of Nantes, and that patented by Gallé and Mazeline of Havre.
+  the inventions of Dr Normandy and of Chaplin of [[Glasgow]], the apparatus
+  of Rocher of Nantes, and that patented by [[Gall]]é and Mazeline of [[Havre]].
   Normandy's apparatus, although economical and producing water of good
   quality, is very complex in its structure, consisting of very numerous
-  working parts, with elaborate arrangements of pipes, cocks and other
+  working parts, with elaborate arrangements of pipes, [[Cock|cocks]] and other
   fittings. It is consequently expensive and requires careful attention
   for its working. It was extensively adopted in the British navy, the
   Cunard line and many other important emigrant and mercantile lines.
@@ -576,7 +576,7 @@ technology and (8) commercial distillation of water.
   compactness, in consequence of which it is comparatively cheap and not
   liable to derangement. It was adopted by many important British and
   continental shipping companies, among others by the Peninsular &
-  Oriental, the Inman, the North German Lloyd and the Hamburg American
+  Oriental, the [[Inman]], the North German [[Lloyd]] and the [[Hamburg]] American
   companies.
 
   The modern distilling plant consists of two main parts termed the
@@ -608,18 +608,18 @@ technology and (8) commercial distillation of water.
   the storage tanks have a false bottom perforated by fine holes so that
   if air be injected below it, the water is efficiently aerated by the
   air which traverses it in fine streams. After condensation the water
-  is filtered through charcoal. The filter is either a separate piece of
+  is filtered through [[Charcoal|charcoal]]. The filter is either a separate piece of
   plant, or, as in the Quiggins form, it may be placed below the coils
   in the same outer vessel. In this plant the aeration is conducted by
   blowing in air at the base of the condenser. After filtration the
   water is pumped to the storage tanks. Many types of distilling plant
   are in use in addition to those mentioned above, for example the
   Rayner, Kirkaldy, Merlees, Normand; the United States navy has adopted
-  a form designed by the Bureau of Engineering.
+  a form designed by the [[Bureau]] of [[Engineering]].
 
   BIBLIOGRAPHY.--The general practice of laboratory distillation is
   discussed in all treatises on practical organic chemistry; reference
-  may be made to Lassar-Cohn, _Manual of Organic Chemistry_ (1896), and
+  may be made to Lassar-Cohn, _[[Manual]] of Organic Chemistry_ (1896), and
   _Arbeitsmethoden für organisch-chemische Laboratorien_ (1901); Hans
   Meyer, _Analyse und Konstitutionermittlung organischer Verbindungen_
   (1909). The theory of distillation finds a place in all treatises on

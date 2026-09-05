@@ -9,10 +9,10 @@ type: article
 
 ARRESTMENT, in Scots law, the process by which a creditor detains the
 goods or effects of his debtor in the hands of third parties till the
-debt due to him shall be paid. It is divided into two kinds: (1)
+[[Debt|debt]] due to him shall be paid. It is divided into two kinds: (1)
 Arrestment in security, used when proceedings are commencing, or in
 other circumstances where a claim may become, but is not yet,
-enforceable; and (2) Arrestment in execution, following on the decree of
+enforceable; and (2) Arrestment in execution, following on the [[Decree|decree]] of
 a court, or on a registered document, under a clause or statutory power
 of registration, according to the custom of Scotland. By the process of
 arrestment the property covered is merely retained in place; to realize

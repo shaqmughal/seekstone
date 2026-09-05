@@ -18,8 +18,8 @@ plants of widely different affinities which possess some resemblance
 (often slight) in foliage to true grasses; e.g. knot-grass (_Polygonum
 aviculare_), cotton-grass (_Eriophorum_), rib-grass (_Plantago_),
 scorpion-grass (_Myosotis_), blue-eyed grass (_Sisyrinchium_), sea-grass
-(_Zostera_). The grass-tree of Australia (_Xanthorrhoea_) is a
-remarkable plant, allied to the rushes in the form of its flower, but
+(_Zostera_). The grass-tree of [[Australia]] (_Xanthorrhoea_) is a
+remarkable plant, allied to the rushes in the form of its [[Flower|flower]], but
 with a tall, unbranched, soft-woody, palm-like trunk bearing a crown of
 long, narrow, grass-like leaves and stalked heads of small,
 densely-crowded flowers. In agriculture the word has an extended
@@ -28,12 +28,12 @@ often called "artificial grasses." Indeed, formerly _grass_ (also spelt
 _gwrs_, _gres_, _gyrs_ in the old herbals) meant any green herbaceous
 plant of small size.
 
-Yet the first attempts at a classification of plants recognized and
+Yet the first attempts at a [[Classification|classification]] of plants recognized and
 separated a group of _Gramina_, and this, though bounded by nothing more
 definite than habit and general appearance, contained the Gramineae of
 modern botanists. The older group, however, even with such systematists
 as Ray (1703), Scheuchzer (1719), and Micheli (1729), embraced in
-addition the Cyperaceae (Sedge family), Juncaceae (Rush family), and
+addition the [[Cyperaceae]] (Sedge family), [[Juncaceae]] (Rush family), and
 some other monocotyledons with inconspicuous flowers. Singularly enough,
 the sexual system of Linnaeus (1735) served to mark off more distinctly
 the true grasses from these allies, since very nearly all of the former
@@ -43,7 +43,7 @@ themselves under his other classes and orders.
 I. STRUCTURE.--The general type of true grasses is familiar in the
 cultivated cereals of temperate climates--wheat, barley, rye, oats, and
 in the smaller plants which make up pastures and meadows and form a
-principal factor of the turf of natural downs. Less familiar are the
+principal factor of the turf of natural [[Downs|downs]]. Less familiar are the
 grains of warmer climates--rice, maize, millet and sorgho, or the
 sugar-cane. Still farther removed are the bamboos of the tropics, the
 columnar stems of which reach to the height of forest trees. All are,
@@ -56,9 +56,9 @@ duration, and have the roots also fibrous, but fewer, thicker and less
 branched. In such cases they are very generally given off from just
 above each node (often in a circle) of the lower part of the stem or
 rhizome, perforating the leaf-sheaths. In some bamboos they are very
-numerous from the lower nodes of the erect culms, and pass downwards to
+numerous from the lower nodes of the erect [[Culm|culms]], and pass downwards to
 the soil, whilst those from the upper nodes shrivel up and form circles
-of spiny fibres.
+of spiny [[Fibres|fibres]].
 
 [Illustration: FIG. 1.--Rhizome of Bamboo. A, B, C, D, successive series
 of axes, the last bearing aerial culms. Much reduced.]
@@ -80,7 +80,7 @@ the whole forming a series of connected arched axes, truncate at their
 ends, which were formerly continued into leafy culms. The rhizome is
 always solid, and has the usual internal structure of the
 monocotyledonous stem. In the cases of branching just cited the branches
-break directly through the sheath of the leaf in connexion with which
+break directly through the sheath of the [[Leaf|leaf]] in connexion with which
 they arise. In other cases the branches grow upwards through the sheaths
 which they ultimately split from above, and emerging as aerial shoots
 give a tufted habit to the plant. Good examples are the oat, cock's-foot
@@ -110,7 +110,7 @@ The exterior of the culms is more or less concealed by the leaf-sheaths;
 it is usually smooth and often highly polished, the epidermal cells
 containing an amount of silica sufficient to leave after burning a
 distinct skeleton of their structure. Tabasheer is a white substance
-mainly composed of silica, found in the joints of several bamboos. A few
+mainly composed of silica, found in the [[Joints|joints]] of several bamboos. A few
 of the lower internodes may become enlarged and sub-globular, forming
 nutriment-stores, and grasses so characterized are termed "bulbous"
 (_Arrhenatherum_, _Poa bulbosa_, &c.). In internal structure
@@ -145,7 +145,7 @@ which is almost invariably (_Eriospora_ is an exception) a complete
 tube; in some grasses, however (species of _Poa_, _Bromus_ and others),
 the edges are united. The sheaths are much dilated in _Alopecurus
 vaginatus_ and in a species of _Potamochloa_, in the latter, an East
-Indian aquatic grass, serving as floats. At the summit of the sheath,
+Indian aquatic grass, serving as [[Float|floats]]. At the summit of the sheath,
 above the origin of the blade, is the _ligule_, a usually membranous
 process of small size (occasionally reaching 1 in. in length) erect and
 pressed around the culm. It is rarely quite absent, but may be
@@ -159,7 +159,7 @@ The blade is frequently wanting or small and imperfect in the basal
 leaves, but in the rest is long and set on to the sheath at an angle.
 The usual form is familiar--sessile, more or less ribbon-shaped,
 tapering to a point, and entire at the edge. The chief modifications are
-the articulation of the deciduous blade on to the sheath, which occurs
+the articulation of the [[Deciduous|deciduous]] blade on to the sheath, which occurs
 in all the Bambuseae (except _Planotia_) and in _Spartina stricta_; and
 the interposition of a petiole between the sheath and the blade, as in
 bamboos, _Leptaspis_, _Pharus_, _Pariana_, _Lophatherum_ and others. In
@@ -179,7 +179,7 @@ scabra_, _Panicum serratum_) so large as to give the margin a serrate
 appearance. The leaves are occasionally woolly, as in _Alopecurus
 lanatus_ and one or two _Panicums_. The blade is often twisted,
 frequently so much so that the upper and under faces become reversed. In
-dry-country grasses the blades are often folded on the midrib, or rolled
+dry-country grasses the [[Blades|blades]] are often folded on the midrib, or rolled
 up. The rolling is effected by bands of large wedge-shaped
 cells--motor-cells--between the nerves, the loss of turgescence by
 which, as the air dries, causes the blade to curl towards the face on
@@ -235,7 +235,7 @@ _Phalarideae_ being the only exceptions. It is of thin membranous
 consistence, usually obtuse, often bifid, and possesses no central rib
 or nerve, but has two lateral ones, one on either side; the margins are
 frequently folded in at the ribs, which thus become placed at the sharp
-angles. This structure was formerly regarded as pointing to the fusion
+angles. This structure was formerly regarded as pointing to the [[Fusion|fusion]]
 of two organs, and the pale was considered by Robert Brown to represent
 two portions soldered together of a trimerous perianth-whorl, the third
 portion being the "lower pale." The pale is now generally considered to
@@ -252,7 +252,7 @@ another bract in such a way that the pale is exactly opposed to it,
 though at a slightly higher level. It is this second bract or flowering
 glume which has been generally called by systematists the "lower pale,"
 and with the "upper pale" was formerly considered to form an outer
-floral envelope ("calyx," Jussieu; "perianthium," Brown). The two bracts
+floral envelope ("calyx," [[Jussieu]]; "perianthium," Brown). The two bracts
 are, however, on different axes, one secondary to the other, and cannot
 therefore be parts of one whorl of organs. They are usually quite unlike
 one another, but in some genera (e.g. most _Festuceae_) are very similar
@@ -271,14 +271,14 @@ furrow. In _Leptaspis_ it is formed into a closed cavity by the union of
 its edges, and encloses the flower, the styles projecting through the
 pervious summit. Valuable characters for distinguishing genera are
 obtained from the awn. This presents itself variously developed from a
-mere subulate point to an organ several inches in length, and when
+mere subulate point to an organ several [[Inch|inches]] in length, and when
 complete (as in _Andropogoneae_, _Aveneae_ and _Stipeae_) consists of
 two well-marked portions, a lower twisted part and a terminal straight
 portion, usually set in at an angle with the former, sometimes trifid
 and occasionally beautifully feathery (fig. 8). The lower part is most
 often suppressed, and in the large group of the _Paniceae_ awns of any
 sort are very rarely seen. The awn may be either terminal or may come
-off from the back of the flowering glume, and Duval Jouve's observations
+off from the back of the flowering glume, and [[Duval]] Jouve's observations
 have shown that it represents the blade of the leaf of which the portion
 of the flowering glume below its origin is the sheath; the twisted part
 (so often suppressed) corresponds with the petiole, and the portion of
@@ -289,7 +289,7 @@ when dorsal only one; it is covered with stomate-bearing epidermis.
 
 [Illustration: FIG. 8.--Spikelet of _Stipa pennata_. The pair of barren
 glumes (b) are separated from the flowering glume, which bears a long
-awn, twisted below the knee and feathery above. About 3/4 nat. size.]
+awn, twisted below the [[Knee|knee]] and feathery above. About 3/4 nat. size.]
 
 The flower with its palea is thus sessile in the axil of a floriferous
 glume, and in a few grasses (_Leersia_ (fig. 9), _Coleanthus_, _Nardus_)
@@ -320,7 +320,7 @@ pale.]
 (h) beneath it. b, Barren glumes; f, flowering glume; p, pale.]
 
 The axis of the spikelet is frequently jointed and breaks up into
-articulations above each flower. Tufts or borders of hairs are
+articulations above each flower. Tufts or [[Borders|borders]] of hairs are
 frequently present (_Calamagrostis_, _Phragmites_, _Andropogon_), and
 are often so long as to surround and conceal the flowers (fig. 11). The
 axis is often continued beyond the last flower or glume as a bristle or
@@ -340,7 +340,7 @@ in Gramineae, in marked contrast with Cyperaceae, where they are so
 conspicuous. They however occur in a whole section of _Andropogon_, in
 _Anomochloa_, and at the base of the spike in _Sesleria_. The remarkable
 ovoid involucre of _Coix_, which becomes of stony hardness, white and
-polished (then known as "Job's tears," q.v.), is also a modified bract
+polished (then known as "[[Job'S Tears|Job's tears]]," q.v.), is also a modified bract
 or leaf-sheath. It is closed except at the apex, and contains the female
 spikelet, the stalks of the male inflorescence and the long styles
 emerging through the small apical orifice.
@@ -482,7 +482,7 @@ pollen can only effect cross-fertilization upon other spikelets in the
 same or another plant. Of those with only bisexual flowers, many are
 strongly protogynous (the stigmas protruding before the anthers are
 ripe), such as _Alopecurus_ and _Anthoxanthum_ (fig. 7), but generally
-the anthers protrude first and discharge the greater part of their
+the anthers protrude first and [[Discharge|discharge]] the greater part of their
 pollen before the stigmas appear. The filaments elongate rapidly at
 flowering-time, and the lightly versatile anthers empty an abundance of
 finely granular smooth pollen through a longitudinal slit. Some flowers,
@@ -504,14 +504,14 @@ been applied (more familiarly "grain"); it is commonly furrowed
 longitudinally down one side (usually the inner, but in _Coix_ and its
 allies, the outer), and an additional covering is not unfrequently
 provided by the adherence of the persistent palea, or even also of the
-flowering glume ("chaff" of cereals). From this type are a few
+flowering glume ("[[Chaff|chaff]]" of cereals). From this type are a few
 deviations; thus in _Sporobolus_, &c. (fig. 16), the pericarp is not
 united with the seed but is quite distinct, dehisces, and allows the
 loose seed to escape. Sometimes the pericarp is membranous, sometimes
 hard, forming a nut, as in some genera of _Bambuseae_, while in other
-_Bambuseae_ it becomes thick and fleshy, forming a berry often as large
-as an apple. In _Melocanna_ the berry forms an edible fruit 3 or 4 in.
-long, with a pointed beak of 2 in. more; it is indehiscent, and the
+_Bambuseae_ it becomes thick and fleshy, forming a [[Berry|berry]] often as large
+as an [[Apple|apple]]. In _Melocanna_ the berry forms an edible fruit 3 or 4 in.
+long, with a pointed [[Beak|beak]] of 2 in. more; it is indehiscent, and the
 small seed germinates whilst the fruit is still attached to the tree,
 putting out a tuft of roots and a shoot, and not falling till the latter
 is 6 in. long. The position of the embryo is plainly visible on the
@@ -530,7 +530,7 @@ farinaceous endosperm (albumen) on which the nutritive value of the
 grain depends. The outermost layer of endosperm, the aleuron-layer,
 consists of regular cells filled with small proteid granules; the rest
 is made up of large polygonal cells containing numerous starch-grains in
-a matrix of proteid which may be continuous (horny endosperm) or
+a [[Matrix|matrix]] of proteid which may be continuous (horny endosperm) or
 granular (mealy endosperm). The embryo presents many points of interest.
 Its position is remarkable, closely applied to the surface of the
 endosperm at the base of its outer side. This character is absolute for
@@ -596,15 +596,15 @@ near the surface, from too rapid wetting and, when once soaked, from
 drying up again. They also decrease the specific gravity, so that the
 grain is more readily carried by the wind, especially when, as in
 _Briza_, the glume has a large surface compared with the size of the
-grain, or when, as in _Holcus_, empty glumes also take part; in Canary
+grain, or when, as in _Holcus_, empty glumes also take part; in [[Canary]]
 grass (_Phalaris_) the large empty glumes bear a membranous wing on the
-keel. In the sugar-cane (_Saccharum_) and several allied genera the
+[[Keel|keel]]. In the sugar-cane (_Saccharum_) and several allied genera the
 separating joints of the axis bear long hairs below the spikelets; in
 others, as in _Arundo_ (a reed-grass), the flowering glumes are
 enveloped in long hairs. The awn which is frequently borne on the
 flowering glume is also a very efficient means of distribution, catching
-into fur of animals or plumage of birds, or as often in _Stipa_ (fig. 8)
-forming a long feather for wind-carriage. In _Tragus_ the glumes bear
+into [[Fur|fur]] of animals or plumage of birds, or as often in _Stipa_ (fig. 8)
+forming a long [[Feather|feather]] for wind-carriage. In _Tragus_ the glumes bear
 numerous short hooked bristles. The fleshy berries of some _Bambuseae_
 favour distribution by animals.
 
@@ -613,14 +613,14 @@ _Stipa_, species of _Avena_, _Heteropogon_ and others the base of the
 glume forms a sharp point which will easily penetrate the ground; above
 the point are short stiff upwardly pointing hairs which oppose its
 withdrawal. The long awn, which is bent and closely twisted below the
-bend, acts as a driving organ; it is very hygroscopic, the coils
+[[Bend|bend]], acts as a driving organ; it is very hygroscopic, the coils
 untwisting when damp and twisting up when dry. The repeated twisting and
 untwisting, especially when the upper part of the awn has become fixed
 in the earth or caught in surrounding vegetation, drives the point
 deeper and deeper into the ground. Such grasses often cause harm to
 sheep by catching in the wool and boring through the skin.
 
-A peculiar method of distribution occurs in some alpine and arctic
+A peculiar method of distribution occurs in some alpine and [[Arctic|arctic]]
 grasses, which grow under conditions where ripening of the fruit is
 often uncertain. The entire spikelet, or single flowers, are transformed
 into small-leaved shoots which fall from the axes and readily root in
@@ -675,7 +675,7 @@ this does not occur, but the axis of the spikelet frequently articulates
 _above_ the pair of empty basal glumes. Neither of these great divisions
 will well accommodate certain genera allied to _Phalaris_, for which
 Brown proposed tentatively a third group (since named _Phalarideae_);
-this, or at least the greater part of it, is placed by Bentham under the
+this, or at least the greater part of it, is placed by [[Bentham]] under the
 Poaceae.
 
 The following arrangement has been proposed by Professor Eduard Hackel
@@ -747,8 +747,8 @@ in his recent monograph on the order.
                      11. _Bambuseae_.
 
   Tribe 1. _Maydeae_ (7 genera in the warmer parts of the earth). _Zea
-  Mays_ (maize, q.v., or Indian corn) (q.v.). _Tripsacum_, 2 or 3
-  species in subtropical America north of the equator; _Tr. dactyloides_
+  Mays_ (maize, q.v., or Indian [[Corn|corn]]) (q.v.). _Tripsacum_, 2 or 3
+  species in subtropical America north of the [[Equator|equator]]; _Tr. dactyloides_
   (gama grass) extends northwards to Illinois and Connecticut; it is
   used for fodder and as an ornamental plant. _Coix Lacryma-Jobi_ (Job's
   tears) q.v.
@@ -766,7 +766,7 @@ in his recent monograph on the order.
   grasses, with large silky flower-panicles, which are grown for
   ornament. _Imperata_, another ally, is a widespread tropical genus;
   one species _I. arundinacea_ is the principal grass of the alang-alang
-  fields in the Malay Archipelago; it is used for thatch. _Vossia_, an
+  [[Fields|fields]] in the Malay Archipelago; it is used for thatch. _Vossia_, an
   aquatic grass, often floating, is found in western India and tropical
   Africa. In the swampy lands of the upper Nile it forms, along with a
   species of _Saccharum_, huge floating grass barriers. _Elionurus_, a
@@ -776,12 +776,12 @@ in his recent monograph on the order.
   balsam-like smell. Other aromatic members are _Andropogon Nardus_, a
   native of India, but also cultivated, the rhizome, leaves and
   especially the spikelets of which contain a volatile oil, which on
-  distillation yields the citronella oil of commerce. A closely allied
+  [[Distillation|distillation]] yields the citronella oil of commerce. A closely allied
   species, _A. Schoenanthus_ (lemon-grass), yields lemon-grass oil; a
-  variety is used by the negroes in western Africa for haemorrhage.
+  variety is used by the negroes in western Africa for [[Haemorrhage|haemorrhage]].
   Other species of the same genus are used as stimulants and cosmetics
   in various parts of the tropics. The species of _Heteropogon_, a
-  cosmopolitan genus in the warmer parts of the world, have strongly
+  [[Cosmopolitan|cosmopolitan]] genus in the warmer parts of the world, have strongly
   awned spikelets. _Themeda Forskalii_, which occurs from the
   Mediterranean region to South Africa and Tasmania, is the kangaroo
   grass of Australia, where, as in South Africa, it often covers wide
@@ -791,7 +791,7 @@ in his recent monograph on the order.
   temperate), a second flower, generally male, rarely hermaphrodite, is
   often present below the fertile flower. _Paspalum_, is a large
   tropical genus, most abundant in America, especially on the pampas and
-  campos; many species are good forage plants, and the grain is
+  [[Campos|campos]]; many species are good forage plants, and the grain is
   sometimes used for food. _Amphicarpum_, native in the south-eastern
   United States, has fertile cleistogamous spikelets on filiform runners
   at the base of the culm, those on the terminal panicle are sterile.
@@ -812,12 +812,12 @@ in his recent monograph on the order.
   In _Setaria_ and allied genera the spikelet is subtended by an
   involucre of bristles or spines which represent sterile branches of
   the inflorescence. _Setaria italica_, Hungarian grass, is extensively
-  grown as a food-grain both in China and Japan, parts of India and
+  grown as a food-grain both in China and [[Japan]], parts of India and
   western Asia, as well as in Europe, where its culture dates from
   prehistoric times; it is found in considerable quantity in the lake
   dwellings of the Stone age.
 
-  In _Cenchrus_ the bristles unite to form a tough spiny capsule (fig.
+  In _Cenchrus_ the bristles unite to form a tough spiny [[Capsule|capsule]] (fig.
   12); _C. tribuloides_ (bur-grass) and other species are troublesome
   weeds in North and South America, as the involucre clings to the wool
   of sheep and is removed with great difficulty. _Pennisetum typhoideum_
@@ -834,7 +834,7 @@ in his recent monograph on the order.
   spikelets are sometimes unisexual, and there are often six stamens.
   _Leersia_ is a genus of swamp grasses, one of which _L. oryzoides_
   occurs in the north temperate zone of both old and new worlds, and is
-  a rare grass in Surrey, Sussex and Hampshire. _Zizania aquatica_
+  a rare grass in Surrey, Sussex and [[Hampshire]]. _Zizania aquatica_
   (Tuscarora or Indian rice) is a reed-like grass growing over large
   areas on banks of streams and lakes in North America and north-east
   Asia. The Indians collect the grain for food. _Oryza sativa_ (rice)
@@ -850,7 +850,7 @@ in his recent monograph on the order.
   a native of southern Europe and the Mediterranean area) is grown for
   bird-food and sometimes as a cereal. _Anthoxanthum odoratum_, the
   sweet vernal grass of our flora, owes its scent to the presence of
-  coumarin, which is also present in the closely allied genus
+  [[Coumarin|coumarin]], which is also present in the closely allied genus
   _Hierochloe_ (fig. 19), which occurs throughout the temperate and
   frigid zones.
 
@@ -877,7 +877,7 @@ in his recent monograph on the order.
   North Africa and the Atlantic states of America.
 
   Tribe 7. _Aveneae_ (about 24 genera, seven of which are British).
-  _Holcus lanatus_ (Yorkshire fog, soft grass) is a common meadow and
+  _Holcus lanatus_ (Yorkshire [[Fog|fog]], soft grass) is a common meadow and
   wayside grass with woolly or downy leaves. _Aira_ is a genus of
   delicate annuals with slender hair-like branches of the panicle.
   _Deschampsia_ and _Trisetum_ occur in temperate and cold regions or on
@@ -899,13 +899,13 @@ in his recent monograph on the order.
   plains of the south-western United States, afford good grazing.
   _Eleusine indica_ is a common tropical weed; the nearly allied species
   _E. Coracana_ is a cultivated grain in the warmer parts of Asia and
-  throughout Africa. _Buchloe dactyloides_ is the buffalo grass of the
+  throughout Africa. _Buchloe dactyloides_ is the [[Buffalo|buffalo]] grass of the
   North American prairies, a valuable fodder.
 
   Tribe 9. _Festuceae_ (about 83 genera, including tropical, temperate,
   arctic and alpine forms) many are important meadow-grasses; 15 are
   British. _Gynerium argenteum_ (pampas grass) is a native of southern
-  Brazil and Argentina. _Arundo_ and _Phragmites_ are tall reed-grasses
+  Brazil and [[Argentina]]. _Arundo_ and _Phragmites_ are tall reed-grasses
   (see REED). Several species of _Triodia_ cover large areas of the
   interior of Australia, and from their stiff, sharply pointed leaves
   are very troublesome. _Eragrostis_, one of the larger genera of the
@@ -922,10 +922,10 @@ in his recent monograph on the order.
   species are British; _P. annua_ (fig. 20) is the very common weed in
   paths and waste places; _P. pratensis_ and _P. trivialis_ are also
   common grasses of meadows, banks and pastures, the former is the "June
-  grass" or "Kentucky blue grass" of North America; _P. alpina_ is a
+  grass" or "[[Kentucky]] blue grass" of North America; _P. alpina_ is a
   mountain grass of the northern hemisphere and found also in the Arctic
   region. The largest species of the genus is _Poa flabellata_ which
-  forms great tufts 6-7 ft. high with leaves arranged like a fan; it is
+  forms great tufts 6-7 ft. high with leaves arranged like a [[Fan|fan]]; it is
   a native of the Falkland and certain antarctic islands where it is
   known as tussock grass. _Glyceria fluitans_, manna-grass, so-called
   from the sweet grain, is one of the best fodder grasses for swampy
@@ -966,7 +966,7 @@ in his recent monograph on the order.
 III. DISTRIBUTION.--Grasses are the most universally diffused of all
 flowering plants. There is no district in which they do not occur, and
 in nearly all they are a leading feature of the flora. In number of
-species Gramineae comes considerably after Compositae and Leguminosae,
+species Gramineae comes considerably after [[Compositae]] and Leguminosae,
 the two most numerous orders of phanerogams, but in number of individual
 plants it probably far exceeds either; whilst from the wide extension of
 many of its species, the proportion of Gramineae to other orders in the
@@ -981,7 +981,7 @@ number of individuals is greater in the temperate zones, where they form
 extended areas of turf. Turf- or meadow-formation depends upon uniform
 rainfall. Grasses also characterize steppes and savannas, where they
 form scattered tufts. The bamboos are a feature of tropical forest
-vegetation, especially in the monsoon region. As the colder latitudes
+vegetation, especially in the monsoon region. As the colder [[Latitude|latitudes]]
 are entered the grasses become relatively more numerous, and are the
 leading family in Arctic and Antarctic regions. The only countries where
 the order plays a distinctly subordinate part are some extra-tropical
@@ -1053,12 +1053,12 @@ _Phragmites_, and to the _Bambuseae_.
   and E. A. Southworth); and _Andropogoneae_ in de Candolle's
   _Monographiae phanerogamarum_ (Paris, 1889); K. S. Kunth, _Revision
   des graminees_ (Paris, 1829-1835) and _Agrostographia_ (Stuttgart,
-  1833); J. C. Doll in Martius and Eichler, _Flora Brasiliensis_, ii.
+  1833); J. C. [[Doll]] in [[Martius]] and Eichler, _Flora Brasiliensis_, ii.
   Pts. II. and III. (Munich, 1871-1883); A. W. Eichler,
   _Bluthendiagramme_ i. 119 (Leipzig, 1875); Bentham and Hooker, _Genera
   plantarum_, iii. 1074 (London, 1883); H. Baillon, _Histoire des
   plantes_, xii. 136 (Paris, 1893); J. S. Gamble, "_Bambuseae_ of
-  British India" in _Annals Royal Botanic Gardens, Calcutta_, vii.
+  British India" in _[[Annals]] Royal Botanic Gardens, [[Calcutta]]_, vii.
   (1896); John Percival, _Agricultural Botany_ (chapters on "Grasses,"
   2nd ed., London, 1902). See also accounts of the family in the various
   great floras, such as Ascherson and Graebner, _Synopsis der
@@ -1080,7 +1080,7 @@ FOOTNOTE:
     touch lightly in passing, may be a development of this from the idea
     of close cropping; if it is to be distinguished a possible connexion
     may be found with "glace" (Fr. _glacer_, glide, slip, Lat. _glacies_,
-    ice), to glance off, the change in form being influenced by "grate,"
+    [[Ice|ice]]), to glance off, the change in form being influenced by "grate,"
     to scrape, scratch (Fr. _gratter_, Ger. _kratzen_).
 
 ## References

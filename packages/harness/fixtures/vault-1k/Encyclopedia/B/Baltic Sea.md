@@ -15,7 +15,7 @@ coast-line, 5000 m.; the central axis runs approximately from south-west to
 north-east. The Baltic is connected with North Sea by the winding channel
 between the south of Scandinavia and the Cimbrian peninsula. This channel
 is usually included in the Baltic. The part of it west of a line joining
-the Skaw with Christiania fjord receives the name of Skagerrak; the part
+the Skaw with [[Christiania]] fjord receives the name of Skagerrak; the part
 east of this line is called the Kattegat. At its southern end the Kattegat
 is blocked by the Danish islands, and it communicates with the Baltic
 proper by narrow channels called the Sound, the Great Belt and the Little
@@ -235,7 +235,7 @@ days in the year; but navigation is rendered possible throughout the winter
 by the use of ice-breakers.
 
 See references to different parts of the subject in the standard books of
-A. Penck, A. de Lapparent, E. Suess and others. Also Credner, _Die
+A. Penck, A. de Lapparent, E. Suess and others. Also [[Credner]], _Die
 Entstehung der Ostsee_ (Leipzig, 1895); G. de Geer, _Om Skandinaviens
 nivåforändringar under quartärperioden_ (Stockholm, 1888); R. Sieger,
 _Seeenschwankungen und Strandverschiebungen in Skandinavien_ (Berlin,
@@ -248,9 +248,9 @@ International Council for the Study of the Sea_ (Copenhagen, since 1902).
 
 [v.03 p.0287] BALTIMORE, GEORGE CALVERT, 1ST BARON (_c._ 1580-1632),
 English statesman, son of Leonard Calvert, and Alice, daughter of John
-Crosland of Crosland, was born at Kipling in Yorkshire and educated at
+Crosland of Crosland, was born at [[Kipling]] in Yorkshire and educated at
 Trinity College, Oxford. After travelling on the continent, he entered the
-public service as secretary to Robert Cecil, afterwards earl of Salisbury.
+public service as secretary to Robert [[Cecil]], afterwards earl of Salisbury.
 In 1606 he was appointed clerk of the crown in Connaught and Clare, in 1608
 a clerk of the council, and was returned to parliament for Bossiney in
 1609. He assisted James I. in his discourse against Vorstius, the Arminian

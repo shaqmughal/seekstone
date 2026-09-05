@@ -6,7 +6,7 @@ topic: politics
 
 # Cheshunt
 
-CHESHUNT, an urban district in the Hertford parliamentary division of
+CHESHUNT, an urban district in the [[Hertford]] parliamentary division of
 Hertfordshire, England, on the Lea, 14 m. N. of London by the Great
 Eastern railway. Pop. (1891) 9620; (1901) 12,292. The church of St Mary
 is Perpendicular and has been enlarged in modern times. A college was
@@ -30,9 +30,9 @@ wall of an inn. A Romano-British village or small town is indicated.
 There was a Benedictine nunnery here in the 13th century. Of several
 interesting mansions in the vicinity one, the Great House, belonged to
 Cardinal Wolsey, and a former Pengelly House was the residence of
-Richard Cromwell the Protector after his resignation. Theobalds Park was
+Richard [[Cromwell]] the Protector after his resignation. Theobalds Park was
 built in the 18th century, but the original mansion was acquired by
-William Cecil, Lord Burghley, in 1561; being taken in 1607 by James I.
+William [[Cecil]], Lord [[Burghley]], in 1561; being taken in 1607 by James I.
 from Robert Cecil, first earl of Salisbury, in exchange for Hatfield
 House. James died here in 1625, and Charles I. set out from here for
 Nottingham in 1642 at the outset of the Civil War. One of the entrances

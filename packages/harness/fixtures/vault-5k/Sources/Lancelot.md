@@ -1,8 +1,8 @@
 # Lancelot
 
-LANCELOT (Lancelot du Lac, or Lancelot of the Lake), a famous figure in
+LANCELOT (Lancelot du [[Lac]], or Lancelot of the Lake), a famous figure in
 the Arthurian cycle of romances. To the great majority of English
-readers the name of no knight of King Arthur's court is so familiar as
+readers the name of no [[Knight|knight]] of King Arthur's court is so familiar as
 is that of Sir Lancelot. The mention of Arthur and the Round Table at
 once brings him to mind as the most valiant member of that brotherhood
 and the secret lover of the Queen. Lancelot, however, is not an original
@@ -11,7 +11,7 @@ of considerable perplexity to the critic.
 
 Briefly summarized, the outline of his career, as given in the German
 _Lanzelet_ and the French prose _Lancelot_, is as follows: Lancelot was
-the only child of King Ban of Benoic and his queen Helaine. While yet an
+the only child of King [[Ban]] of Benoic and his queen Helaine. While yet an
 infant, his father was driven from his kingdom, either by a revolt of
 his subjects, caused by his own harshness (_Lanzelet_), or by the action
 of his enemy Claudas de la Deserte (_Lancelot_). King and queen fly,
@@ -22,7 +22,7 @@ mysterious kingdom. In the German poem this is a veritable "Isle of
 Maidens," where no man ever enters, and where it is perpetual spring. In
 the prose _Lancelot_, on the other hand, the Lake is but a mirage, and
 the Lady's court does not lack its complement of gallant knights;
-moreover the boy has the companionship of his cousins, Lionel and
+moreover the boy has the companionship of his [[Cousin|cousins]], Lionel and
 Bohort, who, like himself, have been driven from their kingdom by
 Claudas. When he reaches the customary age (which appears to be
 fifteen), the young Lancelot, suitably equipped, is sent out into the
@@ -36,7 +36,7 @@ name and parentage, though for some unexplained reason he keeps both
 secret, and he goes with a fitting escort and equipment to Arthur's
 court to demand knighthood. The subsequent adventures differ widely: in
 the _Lanzelet_ he ultimately reconquers his kingdom, and, with his wife
-Iblis, reigns over it in peace, both living to see their children's
+[[Iblis]], reigns over it in peace, both living to see their children's
 children, and dying on the same day, in good old fairy-tale fashion. In
 fact, the whole of the _Lanzelet_ has much more the character of a fairy
 or folk-tale than that of a knightly romance.
@@ -44,7 +44,7 @@ or folk-tale than that of a knightly romance.
 In the prose version, Lancelot, from his first appearance at court,
 conceives a passion for the queen, who is very considerably his senior,
 his birth taking place some time after her marriage to Arthur. This
-infatuation colours all his later career. He frees her from imprisonment
+infatuation [[Colours|colours]] all his later career. He frees her from imprisonment
 in the castle of Meleagant, who has carried her off against her will--(a
 similar adventure is related in _Lanzelet_, where the abductor is
 Valerîn, and Lanzelet is not the rescuer)--and, although he recovers his
@@ -58,7 +58,7 @@ fruitlessly, in the Grail quest, only being vouchsafed a fleeting
 glimpse of the sacred Vessel, which, however, is sufficient to cast him
 into unconsciousness, in which he remains for as many days as he has
 spent years in sin. Finally, his relations with Guenevere are revealed
-to Arthur by the sons of King Lot, Gawain, however, taking no part in
+to Arthur by the sons of King [[Lot]], [[Gawain]], however, taking no part in
 the disclosure. Surprised together, Lancelot escapes, and the queen is
 condemned to be burnt alive. As the sentence is about to be carried into
 execution Lancelot and his kinsmen come to her rescue, but in the fight
@@ -130,11 +130,11 @@ The story of the loves of Lancelot and Guenevere, as related by
 Chrétien, has about it nothing spontaneous and genuine; in no way can it
 be compared with the story of Tristan and Iseult. It is the exposition
 of a relation governed by artificial and arbitrary rules, to which the
-principal actors in the drama must perforce conform. Chrétien states
+principal actors in the [[Drama|drama]] must perforce conform. Chrétien states
 that he composed the poem (which he left to be completed by Godefroi de
 Leigni) at the request of the countess Marie of Champagne, who provided
 him with _matière et san_. Marie was the daughter of Louis VII. of
-France and of Eleanor of Aquitaine, subsequently wife of Henry II. of
+France and of Eleanor of [[Aquitaine]], subsequently wife of Henry II. of
 Anjou and England. It is a matter of history that both mother and
 daughter were active agents in fostering that view of the social
 relations of the sexes which found its most famous expression in the
@@ -197,7 +197,7 @@ the genuine "popular" tale.
   editions of 1488, 1494, 1513, 1520 and 1533--of this last date there
   are two, one published by Jehan Petit, the other by Philippe Lenoire,
   this last by far the better, being printed from a much fuller
-  manuscript. There is no critical edition, and the only version
+  [[Manuscript|manuscript]]. There is no critical edition, and the only version
   available for the general reader is the modernized and abridged text
   published by Paulin Paris in vols. iii. to v. of _Romans de la Table
   Ronde_. A Dutch verse translation of the 13th century was published by
@@ -218,11 +218,11 @@ the genuine "popular" tale.
   these texts, with the result that the sections dealing with _Lancelot_
   and _Queste_ urgently require revision.
 
-  BIBLIOGRAPHY.--_Lanzelet_ (ed. Hahn, 1845, out of print and extremely
+  BIBLIOGRAPHY.--_Lanzelet_ (ed. [[Hahn]], 1845, out of print and extremely
   difficult to obtain). Chrétien's poem has been published by Professor
   Wendelin Foerster, in his edition of the works of that poet, _Der
   Karrenritter_ (1899). A Dutch version of a short episodic poem,
-  _Lancelot et le cerf au pied blanc_ will be found in M. Jonckbloet's
+  _Lancelot et le cerf au pied [[Blanc|blanc]]_ will be found in M. Jonckbloet's
   volume, and a discussion of this and other _Lancelot_ poems, by Gaston
   Paris, is contained in vol. xxx. of _Histoire littéraire de la
   France_. For critical studies on the subject cf. Gaston Paris's

@@ -39,7 +39,7 @@ name summoned Matvyeev to return to the capital and act as chief adviser
 to the tsaritsa Natalia. He reached Moscow on the 15th of May, prepared
 "to lay down his life for the tsar," and at once proceeded to the head
 of the Red Staircase to meet and argue with the assembled stryeltsi, who
-had been instigated to rebel by the anti-Petrine faction. He had already
+had been instigated to rebel by the anti-Petrine [[Faction|faction]]. He had already
 succeeded in partially pacifying them, when one of their colonels began
 to abuse the still hesitating and suspicious musketeers. Infuriated,
 they seized and flung Matvyeev into the square below, where he was

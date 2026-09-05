@@ -8,12 +8,12 @@ tags: [politics, biography]
 
 # F. G. M. B. - Frederick George Meeson Beck
 
-F. G. M. B. - FREDERICK GEORGE MEESON BECK, M.A.
-Fellow and Lecturer of Clare College, Cambridge.
+F. G. M. B. - FREDERICK GEORGE MEESON [[Beck|BECK]], M.A.
+[[Fellow]] and Lecturer of [[Clare]] College, Cambridge.
 
 - Bernicia.
 
-F. Ll. G. - FRANCIS LLEWELYN GRIFFITH, M.A., PH.D., F.S.A.
+F. Ll. G. - FRANCIS [[Llewelyn|LLEWELYN]] GRIFFITH, M.A., PH.D., F.S.A.
 Reader in Egyptology, Oxford. Editor of the _Archaeological Survey_ and
 _Archaeological Reports_ of the Egypt Exploration Fund. Fellow of the
 Imperial German Archaeological Institute.

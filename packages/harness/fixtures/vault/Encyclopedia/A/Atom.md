@@ -26,7 +26,7 @@ particles do not seem to exist in the water until it is broken up; so
 far as we can see, the material of the water is continuous not granular.
 This conception of matter, _as infinitely divisible and continuous_, was
 taught by Anaxagoras more than four centuries before the Christian era,
-and in the philosophy of Aristotle the same ideas are found. But some
+and in the philosophy of [[Aristotle]] the same ideas are found. But some
 phenomena are difficult to reconcile with this view; for example, a
 cubic foot of air can be compressed into less than one five-hundredth of
 a cubic foot, or, if allowed to expand, the air originally occupying the
@@ -41,13 +41,13 @@ without any abrupt change, and many substances usually solid can be
 converted into gases by heating them. This conception of the _grained_
 structure of matter is very ancient; traces of it are to be found in
 Indian philosophy, perhaps twelve centuries before the Christian era,
-and the Greek philosophers Democritus and Epicurus, in the 3rd and 4th
+and the Greek philosophers Democritus and [[Epicurus]], in the 3rd and 4th
 centuries B.C., taught it very definitely. Their view was that "matter
 is not indefinitely divisible, but that all substances are formed of
 indivisible particles or atoms which are eternal and unchangeable, that
 the atoms are separated from one another by void, and that these atoms,
 by their combinations, form the matter we are conscious of." The Roman
-poet Lucretius (_De Rerum Natura_) was an eloquent exponent of this
+poet [[Lucretius]] (_De Rerum Natura_) was an eloquent exponent of this
 theory, but throughout the middle ages, indeed until the 17th century,
 it was eclipsed by the prestige of Aristotle. In the time, however, of
 Boyle[1] and Newton, we again find an atomic theory of matter; Newton[2]
@@ -81,7 +81,7 @@ His opponent would be disposed to say that the iodine and the mercury
 ceased to exist when the red powder was formed, that they were
 _components_ but not _constituents_ of it. The fact that the two
 components can be recovered from the compound by destroying it does not
-decide the question. It is remarkable that pure chemistry, even to-day,
+decide the question. It is remarkable that pure [[Chemistry|chemistry]], even to-day,
 has no very conclusive arguments for the settlement of this controversy;
 but the sister science of physics is steadily accumulating evidence in
 favour of the atomic conception.
@@ -97,7 +97,7 @@ favour of the atomic conception.
         (.) hydrogen.
         ( ) oxygen.
         (|) nitrogen.
-        (O) carbon.
+        (O) [[Carbon|carbon]].
      (.)( ) water.
      (.)(|) ammonia.
      (.)(O) ethylene.
@@ -108,7 +108,7 @@ favour of the atomic conception.
   ( )(|)( ) nitrogen peroxide.]
 
 
-  Dalton.
+  [[Dalton]].
 
 Until the time of John Dalton, the atomic conception remained purely
 qualitative, and until then it does not appear to have advanced
@@ -119,14 +119,14 @@ could be predicted or explained. In fact, he did so much to make the
 atomic theory of matter probable that he is popularly regarded as its
 originator. Dalton lived in a period marked by great advances in
 experimental chemistry. Rather before the commencement of the 19th
-century the work of Lavoisier had rendered it very probable that
+century the work of [[Lavoisier]] had rendered it very probable that
 chemical changes are not accompanied by any change in weight, and this
 principle of the conservation of matter was becoming universally
 accepted; chemists were also acquiring considerable skill in chemical
 analysis, that is, in the determination of the nature and relative
 amounts of the elements contained in compounds. But Sir H.E. Roscoe and
 A. Harden, _New View of the Atomic Theory_ (1896), have shown, from a
-study of Dalton's manuscript notes, that we do not owe his atomic theory
+study of Dalton's [[Manuscript|manuscript]] notes, that we do not owe his atomic theory
 to such experiments. If their view is correct, the theory appears to be
 a remarkable example of deductive reasoning. Dalton, who was a
 mathematical physicist even more than a chemist, had given much thought
@@ -168,7 +168,7 @@ times to form a perceptible amount of a compound. The conceptions of
 "element," "compound" and "mixture" became more precise than they had
 been hitherto; in an element all the atoms are alike, in a compound all
 the molecules are alike, in a mixture there are different kinds of
-molecules. If we accept the hypothesis that each kind of atom has a
+molecules. If we accept the [[Hypothesis|hypothesis]] that each kind of atom has a
 specific and invariable weight, we can, with the aid of the above
 theory, make most important inferences concerning the proportions by
 weight in which substances combine to form compounds. These inferences
@@ -194,7 +194,7 @@ to a substance containing variable proportions of flour and water.
 Similarly the substance we call wine is undeniably variable in
 composition. Why should not the substance we call water also vary more
 or less? The Aristotelian would find no difficulty in such a
-variability; it is only the disciple of Dalton to whom it seems
+variability; it is only the [[Disciple|disciple]] of Dalton to whom it seems
 impossible. It is evident that we have in this law a definite prediction
 that can be tested by experiment.
 
@@ -224,7 +224,7 @@ way. As Dalton said, "The doctrine of definite proportions appears
 mysterious unless we adopt the atomic hypothesis." "It appears like the
 mystical ratios of Kepler which Newton so happily elucidated." The
 chemists of Dalton's time were not unanimous in accepting these laws;
-indeed C.L. Berthollet (_Essai de statique chimique_, 1803) expressly
+indeed C.L. [[Berthollet]] (_Essai de statique chimique_, 1803) expressly
 controverted them. He maintained that, under varying conditions, two
 substances could combine in an indefinitely large number of different
 ratios, that there could in fact be a continuous variation in the
@@ -275,7 +275,7 @@ much stronger one, and the atomic theory might have had to wait a long
 while for acceptance. Even at the present time, it would be too much to
 say that all the complex organic substances have been proved by analysis
 to obey these laws; all we can assert is that their composition and
-properties can be satisfactorily explained on the assumption that they
+properties can be satisfactorily explained on the [[Assumption|assumption]] that they
 do so.
 
 The above statement does not by any means exhaust the possible
@@ -301,7 +301,7 @@ atomic theory, has been roughly verified by innumerable analyses, in
 which, a given weight of a substance having been taken, each ingredient
 in it is isolated and its weight separately determined; the total weight
 of the ingredients is always found to be very nearly equal to the weight
-of the original substance. But on account of experimental errors in
+of the original substance. But on account of experimental [[Error|errors]] in
 weighing and measuring, and through loss of material in the transfer of
 substances from one vessel to another, such analyses are rarely
 trustworthy to more than one part in about 500; so that small changes in
@@ -349,7 +349,7 @@ The law of constant proportions is easily verified to a moderate degree
 of accuracy by such experiments as the following. We can prepare, in the
 laboratory, a white powder that proves to be calcium carbonate, that is,
 it appears to be wholly composed of carbon dioxide and lime. We find in
-nature two other unlike substances, marble and Iceland spar, each of
+nature two other unlike substances, [[Marble|marble]] and [[Iceland]] spar, each of
 which is wholly composed of carbon dioxide and lime. Thus these three
 substances, unlike in appearance and origin, are composed of the same
 ingredients: if small variations in the combining ratio of the
@@ -375,7 +375,7 @@ grams of copper, converted it into the coloured chloride, and sealed up
 the whole of this in solution, together with a weighed strip of copper.
 After some time the colour entirely disappeared; the strip of copper was
 then taken out and reweighed, and it was found to have lost 8.03 grams.
-Thus the chlorine, which in the coloured compound was in union with 8
+Thus the [[Chlorine|chlorine]], which in the coloured compound was in union with 8
 grams of copper, appears, in the colourless chloride, to be combined
 with 16.03 grams, or almost exactly double the amount. It is easy to
 verify this result. In a series of repetitions of the experiment, by
@@ -518,7 +518,7 @@ more than once happened in the history of science that a hypothesis,
 after having been useful in the discovery and the co-ordination of
 knowledge, has been abandoned and replaced by one more in harmony with
 later discoveries. Some distinguished chemists have thought that this
-fate may be awaiting the atomic theory, and that in future chemists may
+[[Fate|fate]] may be awaiting the atomic theory, and that in future chemists may
 be able to obtain all the guidance they need from the science of the
 transformations of energy. But modern discoveries in radioactivity[5]
 are in favour of the existence of the atom, although they lead to the
@@ -533,9 +533,9 @@ FOOTNOTES:
   [1] Robert Boyle, _The Sceptical Chymist_ (1661); _The Usefulness of
     Natural Philosophy_ (1663).
 
-  [2] Sir Isaac Newton, _Principia_, bk. ii. prop. 23.
+  [2] Sir [[Isaac]] Newton, _Principia_, bk. ii. prop. 23.
 
-  [3] Freund, _The Study of Chemical Composition_.
+  [3] [[Freund]], _The Study of Chemical Composition_.
 
   [4] It will be seen that in the three gas diagrams of Dalton that are
     reproduced above, equal numbers of molecules are contained in equal
@@ -577,7 +577,7 @@ repentance and amendment of life. Most theories of atonement would
 combine two or more of these, and would include repentance and
 amendment. Some or all of the conditions of atonement may be fulfilled,
 according to various views, either by the sinner or vicariously on his
-behalf by some kinsman; or by his family, clan or nation; or by some one
+behalf by some kinsman; or by his family, [[Clan|clan]] or nation; or by some one
 else.
 
 
@@ -586,19 +586,19 @@ else.
 In the Old Testament, "atonement," "make an atonement" represent the
 Hebrew _kippur_ and its derivatives. It is doubtful whether this root
 meant originally to "cover" or "wipe out"; but probably it is used as a
-technical term without any consciousness of its etymology. The Old
+technical term without any consciousness of its [[Etymology|etymology]]. The Old
 Testament presents very varied teaching on this subject without
 attempting to co-ordinate its doctrines in a harmonious system. In some
 cases there is no suggestion of any forgiveness; sinners are "cut off"
 from the chosen people; individuals and nations perish in their
 iniquity.[1] Some passages refer exclusively to the endurance of
 punishment as a condition of pardon;[2] others to the penitence and
-amendment of the sinner.[3] In Ezekiel xxxvi. 25-31, repentance is
+amendment of the sinner.[3] In [[Ezekiel]] xxxvi. 25-31, repentance is
 called forth by the divine forgiveness.
 
 Sacrifice and other rites are also spoken of as conditions of the
-restoration of man to happy relations with God. The Priestly Code
-(Leviticus and allied passages) seems to confine the efficacy of
+restoration of man to happy relations with God. The Priestly [[Code]]
+([[Leviticus]] and allied passages) seems to confine the efficacy of
 sacrifice to ritual, venial and involuntary sins,[4] and requires that
 the sacrifices should be offered at Jerusalem by the Aaronic priests;
 but these limitations did not belong to the older religion; and even in
@@ -618,7 +618,7 @@ life of the victim represented the forfeited life of the offerer.
 
   Jewish day of atonement.
 
-The atoning ritual reached its climax on the Day of Atonement [Hebrew:
+The atoning ritual reached its [[Climax|climax]] on the Day of Atonement [Hebrew:
 yom hakipurim] [Greek: aemera exilasmon], in the Mishna simply "the
 Day," (_Yoma_), observed annually on the 10th day of the 7th month
 (Tisri), in the autumn, about October, shortly before the Feast of
@@ -636,7 +636,7 @@ abstinence from work, &c.; and also certain unique acts. The Day of
 Atonement is the only fast provided in the Law; it is only on this
 occasion that (a) the Jews are required to "afflict their souls," (b)
 the High Priest enters the Holy of Holies, (c) the High Priest offers
-incense before the mercy seat and sprinkles it with blood, and (d) the
+[[Incense|incense]] before the mercy seat and sprinkles it with blood, and (d) the
 scapegoat or Azazel is sent away into the wilderness, bearing upon him
 all the iniquities of the people. In later Judaism, especially from
 about 100 B.C., great stress was laid on the Day of Atonement, and it is
@@ -649,7 +649,7 @@ different forms. The nation suffers for the sin of the individual;[9]
 and the individual for the sin of his kinsfolk[10] or of the nation.[11]
 Above all the Servant of Yahweh[12] appears as atoning for sinners by
 his sufferings and death. Again, the Old Testament speaks of the
-restoration of heathen nations, and of the salvation of the heathen;[13]
+restoration of [[Heathen|heathen]] nations, and of the salvation of the heathen;[13]
 but does not formulate any theory of atonement in this connexion. The
 Old Testament, however, only prepares the way for the Christian doctrine
 of the atonement; this is clear, inasmuch as its teaching is largely
@@ -675,7 +675,7 @@ these words are rare, and we read more often of "salvation" ([Greek:
 sotaeria]) and "being saved," which includes or involves that
 restoration to divine favour which is called atonement. The leading
 varieties of teaching, the Sayings of Jesus, Paul, the Johannine
-writings, the Epistle to the Hebrews, connect the atonement with Christ
+writings, the [[Epistle]] to the Hebrews, connect the atonement with Christ
 especially with His death, and associate it with faith in Him and with
 repentance and amendment of life.[15]
 
@@ -710,7 +710,7 @@ The subsequent development of the Christian doctrine has chiefly shaped
 itself according to the Pauline formula of vicarious atonement; the
 sufferings of Christ were accepted as a substitute for the punishment
 which men deserved, and so the divine righteousness was satisfied--a
-formula, however, which left much room for controversy. The creeds and
+formula, however, which left much room for controversy. The [[Creeds|creeds]] and
 confessions are usually vague. Thus the Apostles' Creed, "I believe in
 the forgiveness of sins"; the Nicene Creed, "I believe in one Lord Jesus
 Christ ... who for us men and for our salvation came down from heaven
@@ -718,35 +718,35 @@ Christ ... who for us men and for our salvation came down from heaven
 Creed, "Who (Christ) suffered for our salvation." In the Thirty-nine
 Articles of the Church of England we have (ii.) "Christ suffered ... to
 reconcile his Father to us, and to be a sacrifice, not only for original
-guilt, but also for all actual sins of men"; and (xxxi.) "The offering
+[[Guilt|guilt]], but also for all actual sins of men"; and (xxxi.) "The offering
 of Christ once made is that perfect redemption, propitiation, and
 satisfaction, for all the sins of the whole world." The council of Trent
 declared that "_Christus ... nobis sua sanctissima passione ligno crucis
 justificationem meruit et pro nobis deo patri satisfecit_," "Christ
 earned our justification by His most holy passion and satisfied God the
-Father for us." The Confession of Augsburg uses words equivalent to the
+Father for us." The Confession of [[Augsburg]] uses words equivalent to the
 Articles quoted above which were based upon it. The Westminster
 Confession declares: "The Lord Jesus Christ, by His perfect obedience
 and sacrifice of Himself, which He through the Eternal Spirit once
 offered up to God, hath fully satisfied the justice of His Father, and
-purchased not only reconciliation, but an everlasting inheritance in the
+purchased not only reconciliation, but an [[Everlasting|everlasting]] inheritance in the
 kingdom of heaven, for all those whom the Father hath given unto Him."
 
 Individual theologians have sought to define more exactly the points on
 which the standards are vague. For instance, how was justice satisfied
-by Christ? The early Fathers, from Irenaeus (d. c. 200) to Anselm (d.
+by Christ? The early Fathers, from [[Irenaeus]] (d. c. 200) to Anselm (d.
 1109),[24] held, _inter alia_, that Christ paid a ransom to Satan to
 induce him to release men from his power. Anselm and the scholastics
-regarded the atonement as an offering to God of such infinite value as
+regarded the atonement as an offering to God of such [[Infinite|infinite]] value as
 to outweigh men's sins, a view sometimes styled the "Commerical
 Theory."[25] The leading reformers emphasized the idea that Christ bore
 the punishment of sin, sufferings equivalent to the punishments deserved
-by men, a view maintained later on by Jonathan Edwards junior. But the
+by men, a view maintained later on by [[Jonathan]] Edwards junior. But the
 intellectual activity of the Reformation also developed other views; the
 Socinians, with their humanitarian theory of the Person of Christ,
 taught that He died only to assure men of God's forgiving love and to
 afford them an example of obedience--"Forgiveness is granted upon the
-ground of repentance and obedience."[26] Grotius put forward what has
+ground of repentance and obedience."[26] [[Grotius]] put forward what has
 been called the _Governmental_ Theory, viz. that the atonement took
 place not to satisfy the wrath of God, but in the practical interests of
 the divine government of the world, "The sufferings and death of the Son
@@ -766,9 +766,9 @@ feeling for him an "equivalent repentance" for his sin. Thus McLeod
 Campbell (q.v.) held that Christ atoned by offering up to God a perfect
 confession of the sins of mankind and an adequate repentance for them,
 with which divine justice is satisfied, and a full expiation is made for
-human guilt. A similar view was held by F.D. Maurice.[28] Others hold
+human guilt. A similar view was held by F.D. [[Maurice]].[28] Others hold
 that the effect of the atoning death of Christ is not to propitiate God,
-but to reconcile man to God; it manifests righteousness, and thus
+but to reconcile man to God; it [[Manifest|manifests]] righteousness, and thus
 reveals the heinousness of sin; it also reveals the love of God, and
 conveys the assurance of His willingness to forgive or receive the
 sinner; thus it moves men to repentance and faith, and effects their
@@ -785,13 +785,13 @@ and carries ours with it ... (and) because in His submission to the
 awful penalty of sin ... there was a revelation of the righteousness of
 God, which must otherwise have been revealed in the infliction of the
 penalties of sin on the human race."[30] This view, however, leads to a
-dilemma; if the law of righteousness is simply an expression of the
+[[Dilemma|dilemma]]; if the law of righteousness is simply an expression of the
 divine will, satisfaction to law is equivalent to propitiation offered
 to God; if the law has an independent position, the view is inconsistent
 with pure monotheism.
 
 The present position may be illustrated from a work representing the
-more liberal Anglican theology. Bishop Lyttelton in _Lux Mundi_[31]
+more liberal Anglican theology. Bishop [[Lyttelton]] in _Lux Mundi_[31]
 stated that the death of Christ is propitiatory towards God because it
 expressed His perfect obedience, it manifested God's righteous wrath
 against sin, and in virtue of Christ's human nature involved man's
@@ -823,7 +823,7 @@ with modern natural science, psychology and historical criticism. Such
 attempts are necessary in a time of transition, but they involve a
 measure of obscurity and ambiguity.
 
-  BIBLIOGRAPHY.--Atonement: H. Bushnell, _Vicarious Sacrifice_ (1871);
+  BIBLIOGRAPHY.--Atonement: H. [[Bushnell]], _Vicarious Sacrifice_ (1871);
   J. McLeod Campbell, _Nature of the Atonement_ (1869); T.J. Crawford,
   _Doctrine of the Holy Spirit respecting the Atonement_ (1871); R.W.
   Dale, _Atonement_ (1875); J. Denney, _Death of Christ_, _Atonement and
@@ -838,10 +838,10 @@ measure of obscurity and ambiguity.
 
 FOOTNOTES:
 
-  [1] Cf. Exodus xii. 15, &c.; Josh. vii. 24 (Achan); Jer. li. 62
-    (Babylon).
+  [1] Cf. [[Exodus]] xii. 15, &c.; Josh. vii. 24 (Achan); Jer. li. 62
+    ([[Babylon]]).
 
-  [2] 2 Sam. xii. 13, 14 (David); Isaiah xl. 2 (Jerusalem): in such
+  [2] 2 Sam. xii. 13, 14 (David); [[Isaiah]] xl. 2 (Jerusalem): in such
     cases, however, the context implies repentance.
 
   [3] Ezek. xviii., Micah vi.
@@ -854,7 +854,7 @@ FOOTNOTES:
 
   [7] Lev. xvi., xxiii. 27-32; Numb. xxix. 7-11.
 
-  [8] So Davidson, &c. with LXX. The A.V. with Hebrew text has "seventh
+  [8] So [[Davidson]], &c. with LXX. The A.V. with Hebrew text has "seventh
     day of the month."
 
   [9] e.g. Achan, Josh. vii. 10-15.

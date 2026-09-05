@@ -12,7 +12,7 @@ thus equivalent to the Arabic _faq[=i]r_ (fakir). Generally in Islam it
 indicates a member of a religious fraternity, whether mendicant or not;
 but in Turkey and Persia it indicates more exactly a wandering, begging
 religious, called, in Arabic-speaking countries, more specifically a
-_faqir_. With important differences, the dervish fraternities may be
+_faqir_. With important differences, the dervish [[Fraternities|fraternities]] may be
 compared to the regular religious orders of Roman Christendom, while the
 Ulema (q.v.) are, also with important differences, like the secular
 clergy. The origin and history of the mystical life in Islam, which led
@@ -26,8 +26,8 @@ spiritual life gathered round a revered sheikh (_murshid_, "guide,"
 _ustadh_, _pir_, "teacher"), lived with him, shared his religious
 practices and were instructed by him. In time of war against the
 unbelievers, they might accompany him to the threatened frontier, and
-fight under his eye. Thus _mur[=a]bit_, "one who pickets his horse on a
-hostile frontier," has become the marabout (q.v.) or dervish of French
+fight under his eye. Thus _mur[=a][[Bit|bit]]_, "one who pickets his horse on a
+hostile frontier," has become the [[Marabout|marabout]] (q.v.) or dervish of French
 Algeria; and _ribat_, "a frontier fort," has come to mean a monastery.
 The relation, also, might be for a time only. The pupil might at any
 time return to the world, when his religious education and training were
@@ -38,7 +38,7 @@ perpetuate his name were slow in forming. Ghazali himself, though he
 founded, taught and ruled a [S.][=u]f[=i] cloister (_kh[=a]nq[=a]h_) at
 Tus, left no order behind him. But 'Ad[=i] al-Hakk[=a]r[=i], who founded
 a cloister at Mosul and died about 1163, was long reverenced by the
-'Adawite Fraternity, and in 1166 died 'Abd al-Q[=a]dir al-Jil[=a]n[=i],
+'Adawite Fraternity, and in 1166 died 'Abd al-Q[=a][[Dir|dir]] al-Jil[=a]n[=i],
 from whom the Q[=a]dirite order descends, one of the greatest and most
 influential to this day. The troublous times of the break up of the
 Seljuk rule may have been a cause in this, as, with St Benedict, the
@@ -65,7 +65,7 @@ ud-D[=i]n was an advanced pantheist, and so are the Mevlevites, but that
 seems only to earn them the dislike of the Ulema, and not to affect
 their standing in Islam. They are the most broad-minded and tolerant of
 all. There are also the performances of the Rif[=a]'ites or "howling
-dervishes." In ecstasy they cut themselves with knives; eat live coals
+dervishes." In [[Ecstasy|ecstasy]] they cut themselves with knives; eat live coals
 and glass, handle red-hot iron and devour serpents. They profess
 miraculous healing powers, and the head of the Sa'dites, a sub-order,
 used, in Cairo, to ride over the bodies of his dervishes without hurting
@@ -79,7 +79,7 @@ to be out of their bodies and in the heavenly regions. They may not only
 commit the vilest of actions, but neglect in general the ceremonial and
 ritual law. This goes so far that in Persia and Turkey dervish orders
 are classified as _b[=a]-shar'_, "with law," and _b[=i]-shar'_, "without
-law." The latter are really antinomians, and the best example of them is
+law." The latter are really [[Antinomians|antinomians]], and the best example of them is
 the Bakhtashite order, widely spread and influential in Turkey and
 Albania and connected by legend with the origin of the Janissaries. The
 Qalandarite order is known to all from the "Calenders" of the _Thousand
@@ -90,7 +90,7 @@ puritanic and reforming attitude and strict orthodoxy, without any
 admixture of mystical slackness in faith or conduct. Each order is
 distinguished by a peculiar garb. Candidates for admission have to pass
 through a noviciate, more or less lengthy. First comes the _'ahd_, or
-initial covenant, in which the neophyte or _mur[=i]d_, "seeker," repents
+initial [[Covenant|covenant]], in which the neophyte or _mur[=i]d_, "seeker," repents
 of his past sins and takes the sheikh of the order he enters as his
 guide (_murshid_) for the future. He then enters upon a course of
 instruction and discipline, called a "path" (_tar[=i]qa_), on which he
@@ -112,9 +112,9 @@ adherents, like the tertiaries of the Franciscans. Thus, nearly every
 religious man of the Turkish Moslem world is a lay member of one order
 or another, under the duty of saying certain prayers daily. Certain
 trades, too, affect certain orders. Most of the Egyptian Q[=a]dirites,
-for example, are fishermen and, on festival days, carry as banners nets
-of various colours. On this side, the orders bear a striking resemblance
-to lodges of Freemasons and other friendly societies, and points of
+for example, are fishermen and, on festival days, carry as [[Banners|banners]] nets
+of various [[Colours|colours]]. On this side, the orders bear a striking resemblance
+to [[Lodge|lodges]] of Freemasons and other friendly societies, and points of
 direct contact have even been alleged between the more pantheistic and
 antinomian orders, such as the Bakhtashite, and European Freemasonry. On
 another side, just as the _dhikrs_ of the early ascetic mystics suggest
@@ -136,7 +136,7 @@ explained. First, Mahomet left undoubted loop-holes for a minor
 inspiration, legitimate and illegitimate. Secondly, the [S.][=u]f[=i]s,
 under various foreign influences, developed these to the fullest.
 Thirdly, just as the Christian church has absorbed much of the mythology
-of the supposed exterminated heathen religions into its cult of local
+of the supposed exterminated [[Heathen|heathen]] religions into its cult of local
 saints, so Islam, to an even higher degree, has been overlaid and almost
 buried by the superstitions of the peoples to which it has gone. Their
 religious and legal customs have completely overcome the direct commands
@@ -170,7 +170,7 @@ near," friend or favourite.
 
 In the fraternities, then, all are dervishes, cloistered or lay; those
 whose faith is so great that God has given them miraculous powers--and
-there are many--are _wal[=i]s_; begging friars are _fakirs_. All forms
+there are many--are _wal[=i]s_; begging [[Friar|friars]] are _fakirs_. All forms
 of life--solitary, monastic, secular, celibate, married, wandering,
 stationary, ascetic, free--are open. Their theology is some form of
 S[=u]fi'ism.
@@ -188,7 +188,7 @@ S[=u]fi'ism.
    J. P. Brown, _The Dervishes, or Oriental Spiritualism_ (London,
    1868). (2) _On Saints._ I. Goldziher, _Muhammedanische Studien_, ii.
    277 ff., and "De l'ascétisme aux premiers temps de l'Islam" in _Revue
-   de l'histoire des religions_, vol. xxxvii. pp. 134 ff.; Lane, _Modern
+   de l'histoire des religions_, vol. xxxvii. pp. 134 ff.; [[Lane]], _Modern
    Egyptians_, chap. x.; _Arabian Nights_, chap. iii. note 63; Vollers
    in _Zeitsch. d. morgenländ. Gesellsch._ xliii. 115 ff.   (D. B. MA.)
 

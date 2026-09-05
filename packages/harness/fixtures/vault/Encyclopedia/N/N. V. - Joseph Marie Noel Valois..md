@@ -8,11 +8,11 @@ type: note
 # N. V. - Joseph Marie Noel Valois.
 
 N. V. - JOSEPH MARIE NOEL VALOIS.
-Member of the Académie des Inscriptions et Belles-Lettres. Honorary
-Archivist at the Archives Nationales. Formerly President of the Société de
+Member of the Académie des Inscriptions et [[Belles-Lettres]]. Honorary
+Archivist at the [[Archive|Archives]] Nationales. Formerly President of the Société de
 l'Histoire de France and of the Société de l'École de Chartes.
 
-- Basel, Council of; Benedict XIII. (_anti-pope_).
+- [[Basel]], Council of; Benedict XIII. (_anti-pope_).
 
 ## See also
 

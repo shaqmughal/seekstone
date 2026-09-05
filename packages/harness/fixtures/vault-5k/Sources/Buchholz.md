@@ -2,17 +2,17 @@
 
 BUCHHOLZ, a town of Germany, in the kingdom of Saxony, 1700 ft. above the
 sea, on the Sehma, 18 m. S. by E. of Chemnitz by rail. Pop. (1905) 9307. It
-has a Gothic Evangelical church and monuments of Frederick the Wise of
+has a [[Gothic]] Evangelical church and monuments of Frederick the Wise of
 Saxony, and Bismarck. There is a school for instruction in lace-making, an
 industry dating from 1589, which still forms the chief employment of the
 inhabitants.
 
-BUeCHNER, FRIEDRICH KARL CHRISTIAN LUDWIG (1824-1899), German philosopher
+BUeCHNER, [[Friedrich|FRIEDRICH]] KARL CHRISTIAN LUDWIG (1824-1899), German philosopher
 and physician, was born at Darmstadt. He studied at Giessen, Strassburg,
 Wuerzburg and Vienna. In 1852 he became lecturer in medicine at the
 university of Tuebingen, where he published his great work _Kraft und Stoff_
-(1855). In this work, the product, according to Lange, of a fanatical
-enthusiasm for humanity, he sought to demonstrate the indestructibility of
+(1855). In this work, the product, according to [[Lange]], of a fanatical
+[[Enthusiasm|enthusiasm]] for humanity, he sought to demonstrate the indestructibility of
 matter and force, and the finality of physical force. The extreme
 materialism of this work excited so much opposition that he was compelled
 to give up his post at Tuebingen. He retired to Darmstadt, where he
@@ -24,7 +24,7 @@ geistigen Leben der Gegenwart_ (1890), _Darwinismus und Socialismus_
 (1894), _Im Dienste der Wahrheit_ (1899). He died at Darmstadt on the 1st
 of May 1899. In estimating Buechner's philosophy it must be remembered that
 he was primarily a physiologist, not a metaphysician. Matter and force (or
-energy) are infinite; the conservation of force follows from the
+energy) are [[Infinite|infinite]]; the conservation of force follows from the
 imperishability of matter, the ultimate basis of all science. Buechner is
 not always clear in his theory of the relation between matter and force. At
 one time he refuses to explain it, but generally he assumes that all
@@ -44,7 +44,7 @@ theological interpretations of the universe. Nature according to him is
 purely physical; it has no purpose, no will, no laws imposed by extraneous
 authority, no supernatural ethical sanction.
 
-See Frauenstaedt, _Der Materialismus_ (Leipzig, 1856); Janet, _The
+See Frauenstaedt, _Der Materialismus_ (Leipzig, 1856); [[Janet]], _The
 Materialism of the Present Day: A Criticism of Dr Buechner's System_, trans.
 Masson (London, 1867).
 

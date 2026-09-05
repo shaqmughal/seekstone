@@ -1,6 +1,6 @@
 # Kirin
 
-KIRIN, a province of central Manchuria, with a capital bearing the same
+KIRIN, a province of central [[Manchuria]], with a capital bearing the same
 name. The province has an area of 90,000 sq. m., and a population of
 6,500,000. The chief towns besides the capital are Kwang-chêng-tsze, 80
 m. N.W. of the capital, and Harbin on the Sungari river. The city of
@@ -12,11 +12,11 @@ The western part of the town is built upon a swamp and is under water a
 great part of the year. The dockyards are supplied with machinery from
 Europe and are efficient. Tobacco is the principal article of trade, the
 kind grown in the province being greatly prized throughout the Chinese
-empire under the name of "Manchu leaf." Formerly ginseng was also an
+empire under the name of "Manchu [[Leaf|leaf]]." Formerly ginseng was also an
 important staple, but the supply from this quarter of the country has
 been exhausted. Outside the town lies a plain "thickly covered with open
 coffins containing the dead bodies of Chinese emigrants exposed for
-identification and removal by their friends; if no claim is made during
+[[Identification|identification]] and removal by their friends; if no claim is made during
 ten years the remains are buried on the spot." Kirin was chosen by the
 emperor K'anghi as a military post during the wars with the Eleuths; and
 it owes its Chinese name of Ch'uen-ch'ang, i.e. Naval Yard, to his

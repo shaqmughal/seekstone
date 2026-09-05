@@ -14,7 +14,7 @@ under surface of the pileus and are easily detachable. The species all
 grow on the ground, in woods or under trees, in the early autumn. They
 are brown, red or yellow in colour; the pores also vary in colour from
 pure white to brown, red, yellow or green, and are from one or two lines
-to nearly an inch long. A few are poisonous; several are good for
+to nearly an [[Inch|inch]] long. A few are poisonous; several are good for
 eating. One of the greatest favourites for the table is _Boletus
 edulis_, recognized by its brown cap and white pores which become green
 when old. It is the _ceps_ of the continental European markets. There

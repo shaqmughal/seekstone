@@ -11,7 +11,7 @@ was called to succeed Orry de Fulvy as controller-general of the
 finances in December 1745. He found, on taking office, that in the four
 years of the War of the Austrian Succession the economies of Cardinal
 Fleury had been exhausted, and he was forced to develop the system of
-borrowings which was bringing French finances to bankruptcy. He
+borrowings which was bringing French finances to [[Bankruptcy|bankruptcy]]. He
 attempted in 1749 a reform in the levying of direct taxes, which, if
 carried out, would have done much to prevent the later Revolutionary
 movement. He proposed to abolish the old tax of a tenth, which was

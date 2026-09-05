@@ -9,21 +9,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Knitting"
 # Knitting
 
 KNITTING (from O.E. _cnyttan_, to knit; cf. Ger. _Knütten_; the root is
-seen in "knot"), the art of forming a single thread or strand of yarn
+seen in "[[Knot|knot]]"), the art of forming a single thread or strand of yarn
 into a texture or fabric of a loop structure, by employing needles or
 wires. "Crochet" work is an analogous art in its simplest form. It
 consists of forming a single thread into a single chain of loops. All
 warp knit fabrics are built on this structure. Knitting may be said to
 be divided into two principles, viz. (1) hand knitting and (2)
-frame-work knitting (see HOSIERY). In hand knitting, the wires, pins or
-needles used are of different lengths or gauges, according to the class
-of work wanted to be produced. They are made of steel, bone, wood or
-ivory. Some are headed to prevent the loops from slipping over the ends.
+frame-work knitting (see [[Hosiery|HOSIERY]]). In hand knitting, the wires, pins or
+needles used are of different lengths or [[Gauge|gauges]], according to the class
+of work wanted to be produced. They are made of steel, [[Bone|bone]], wood or
+[[Ivory|ivory]]. Some are headed to prevent the loops from slipping over the ends.
 Flat or selvedged work can only be produced on them. Others are pointed
 at both ends, and by employing three or more a circular or
 circular-shaped fabric can be made. In hand knitting each loop is formed
-and thrown off individually and in rotation and is left hanging on the
-new loop formed. The cotton, wool and silk fibres are the principal
+and thrown off individually and in rotation and is left [[Hanging|hanging]] on the
+new loop formed. The cotton, wool and silk [[Fibres|fibres]] are the principal
 materials from which knitting yarns are manufactured, wool being the
 most important and most largely used. "Lamb's-wool," "wheeling,"
 "fingering" and worsted yarns are all produced from the wool fibre, but

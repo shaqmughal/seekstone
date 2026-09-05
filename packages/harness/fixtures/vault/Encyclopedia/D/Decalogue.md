@@ -5,17 +5,17 @@ or [Greek: nomothesia]), another name for the biblical _Ten
 Commandments_, in Hebrew the _Ten Words_ (Deut. iv. 13, x. 4; Ex. xxxiv.
 28), written by God on the two tables of stone (Ex. xxiv. 12, xxxii.
 16), the so-called _Tables of the Revelation_ (E.V. "tables of
-testimony," Ex. xxxiv. 29), or _Tables of the Covenant_ (Deut. ix. 9,
+testimony," Ex. xxxiv. 29), or _Tables of the [[Covenant]]_ (Deut. ix. 9,
 11, 15). These tables were broken by Moses (Ex. xxxii. 19), and two new
 ones were hewn (xxxiv. 1), and upon them were written the words of the
 covenant by Moses (xxxiv. 27 sqq.) or, according to another view, by God
 himself (Deut. iv. 13, ix. 10). They were deposited in the Ark (Ex. xxv.
 21; 1 Kings viii. 9). In Deuteronomy the inscription on these tables,
 which is briefly called the covenant (iv. 13), is expressly identified
-with the words spoken by Jehovah (Yahweh) out of the midst of the fire
+with the words spoken by [[Jehovah]] (Yahweh) out of the midst of the fire
 at Mt. Sinai or Horeb (according to the Deuteronomic tradition), in the
-ears of the whole people on the "day of the assembly," and rehearsed in
-v. 6-21. In the narrative of Exodus the relation of the "ten words" of
+[[Ear|ears]] of the whole people on the "day of the assembly," and rehearsed in
+v. 6-21. In the narrative of [[Exodus]] the relation of the "ten words" of
 xxxiv. to the words spoken from Sinai, xx. 2-17, is not so clearly
 indicated, and it is generally agreed that the Pentateuch presents
 divergent and irreconcilable views of the Sinaitic covenant.
@@ -38,8 +38,8 @@ is used.
 
 The construction of the second commandment in the Hebrew text is
 disputed, but the most natural sense seems to be, "Thou shalt not make
-unto thee a graven image; (and) to no visible shape in heaven, &c.,
-shalt thou bow down, &c." The third commandment might be rendered, "Thou
+unto thee a graven [[Image|image]]; (and) to no visible shape in heaven, &c.,
+shalt thou [[Bow|bow]] down, &c." The third commandment might be rendered, "Thou
 shalt not utter the name of the Lord thy God vainly," but it is possible
 that the meaning is that Yahweh's name is not to be used for purposes of
 sorcery.
@@ -48,7 +48,7 @@ sorcery.
   stealing varies in the Vatican text of the Septuagint, viz. adultery,
   stealing, murder, in Ex.; adultery, murder, stealing, in Deut. The
   latter is supported by several passages in the New Testament (Rom.
-  xiii. 9; Mark x. 19, A.V.; Luke xviii. 20; contrast Matt. xix. 18),
+  xiii. 9; Mark x. 19, A.V.; [[Luke]] xviii. 20; contrast Matt. xix. 18),
   and by the "Nash Papyrus."[1] It may be added that the double system
   of accentuation of the Decalogue in the Hebrew Bible seems to preserve
   traces of the ancient uncertainty concerning the numeration.
@@ -86,7 +86,7 @@ taken as the first "word," and the second embraces verses 3-6.
   commandments against polytheism and idolatry. But that is far from
   being the case. The first precept of the Philonic scheme enjoins
   monolatry, the second expresses God's spiritual and transcendental
-  nature. Accordingly Kuenen does not deny that the prohibition of
+  nature. Accordingly [[Kuenen]] does not deny that the prohibition of
   images contains an element additional to the precept of monolatry,
   but, following De Goeje, regards the words from "thou shalt not make
   unto thyself" down to "the waters under the earth" as a later
@@ -101,7 +101,7 @@ sense of the precepts; for antiquity did not look on piety towards
 parents as a mere precept of probity, part of one's duty towards one's
 neighbour. The authority of parents and rulers is viewed in the Old
 Testament as a delegated divine authority, and the violation of it is
-akin to blasphemy (cf. Ex. xxi. 17 and Lev. xx. 9 with Lev. xxiv. 15,
+akin to [[Blasphemy|blasphemy]] (cf. Ex. xxi. 17 and Lev. xx. 9 with Lev. xxiv. 15,
 16, and note the formula of treason, 1 Kings xxi. 13).
 
 We have thus five precepts of piety on the first table, and five of
@@ -141,7 +141,7 @@ which can be as old as Moses. It is urged by many critics that Moses
 cannot have prohibited the worship of Yahweh by images; for the
 subsequent history shows us a descendant of Moses as priest in the
 idolatrous sanctuary of Dan. There were teraphim in David's house, and
-the worship of Yahweh under the image of a calf was the state religion
+the worship of Yahweh under the image of a [[Calf|calf]] was the state religion
 of the kingdom of Ephraim. Even Moses himself is said to have made a
 brazen serpent which, down to Hezekiah's time, continued to be
 worshipped at Jerusalem. It is argued from these facts that
@@ -156,14 +156,14 @@ than the middle of the 8th century, and is probably later. With this,
 the condemnation of adultery in Gen. xx. 1-17 (contrast xii. 10-20,
 xxvi. 6-11) is in harmony, and the prohibition of the worship of the
 heavenly bodies is aimed at a form of idolatry which is frequently
-alluded to in the times of the later kings. The lofty ethics (e.g. tenth
+alluded to in the times of the later kings. The lofty [[Ethics|ethics]] (e.g. tenth
 commandment) is in itself no _sound_ criterion, whilst the external form
-of the laws, though characteristic of later codes, need not be taken as
+of the laws, though characteristic of later [[Code|codes]], need not be taken as
 evidence of importance. But the general result of a study of the
-Decalogue as a whole, in connexion with Israelite political history and
+Decalogue as a whole, in connexion with Israelite [[Political History|political history]] and
 religion, strongly supports, in fact demands, a post-Mosaic origin, and
 modern criticism is chiefly divided only as to the approximate date to
-which it is to be ascribed. The time of Manasseh (cf. especially its
+which it is to be ascribed. The time of [[Manasseh]] (cf. especially its
 contact with Micah vi. 6-8) has found many adherents, but an earlier
 period, about 750 B.C. (time of Amos and Hosea), is often held to
 satisfy the main conditions; the former, however, is probably nearer the
@@ -193,7 +193,7 @@ ordain (3) the observance of the feast of unleavened bread, (4) the
 feast of weeks, (5) the feast of ingathering at the end of the year, and
 (6) the seventh-day rest; to Yahweh belong (7) the firstlings, and (8)
 the first-fruits of the land; they forbid also (9) the offering of the
-blood of sacrifice with leaven, (10) the leaving-over of the fat of a
+blood of sacrifice with [[Leaven|leaven]], (10) the leaving-over of the fat of a
 feast until the morning, and (11) the seething of a kid in its mother's
 milk. This scheme ignores the command to appear thrice in the year
 before Yahweh which recapitulates Nos. 3-5, and the decade is obtained
@@ -203,7 +203,7 @@ by omitting No. 6, which some hold to be out of place. Others include
 obtains a decalogue from scattered precepts in Ex. xx.-xxiii., which
 corresponds with Nos. 2, 7, 6, 3 and 5 (in one), 9 and 10 (in one), 11
 above, and adds (a) the building of an altar of earth (xx. 24), (b)
-offering from the harvest and wine-press (xxii. 29), (c) firstlings of
+offering from the [[Harvest|harvest]] and wine-press (xxii. 29), (c) firstlings of
 animals (xxii. 29 sqq.; cf. No. 7, and xxxiv. 19); (d) prohibition
 against eating torn flesh (xxii. 31).[5] The so-called Yahwist Decalogue
 in xxxiv. presupposes a rather more primitive stage in society, partly
@@ -223,9 +223,9 @@ his contemporaries, whose whole religion lay in the observance of sacred
 feasts. To those accustomed to look on the Ten Words written on the
 tables of stone as the very foundation of the Mosaic law, it is hard to
 realize that in ancient Israel there were two opinions as to what these
-"Words" were. The hypothesis that Ex. xxxiv. 10-26 originally stood in a
+"Words" were. The [[Hypothesis|hypothesis]] that Ex. xxxiv. 10-26 originally stood in a
 different connexion, and was misplaced at some stage in the redaction of
-the Hexateuch, does not help us, since it would still have to be
+the [[Hexateuch]], does not help us, since it would still have to be
 admitted that the editor to whom we owed the present form of the chapter
 identified this little code of religious observances with the Ten Words.
 Were this the case the editor, to quote Wellhausen, "introduced the most
@@ -244,7 +244,7 @@ precepts _de lege naturae_, though the law of the Sabbath is not of the
 law of nature, in so far as it prescribes a determinate day of rest
 (Thomas, _summa_, I^ma II^dae, qu. c. art. 3; Duns, _Super sententias_,
 lib. iii. dist. 37). The most important medieval exposition of the
-Decalogue is that of Nicolaus de Lyra; and the 15th century, in which
+Decalogue is that of Nicolaus de [[Lyra]]; and the 15th century, in which
 the Decalogue acquired special importance in the confessional, was
 prolific in treatises on the subject (Antoninus of Florence, Gerson,
 &c.).
@@ -252,7 +252,7 @@ prolific in treatises on the subject (Antoninus of Florence, Gerson,
 Important theological controversies on the Decalogue begin with the
 Reformation. The question between the Lutheran (Augustinian) and
 Reformed (Philonic) division of the ten commandments was mixed up with
-controversy as to the legitimacy of sacred images not designed to be
+controversy as to the [[Legitimacy|legitimacy]] of sacred images not designed to be
 worshipped. The Reformed theologians took the stricter view. The
 identity of the Decalogue with the eternal law of nature was maintained
 in both churches, but it was an open question whether the Decalogue, as
@@ -263,7 +263,7 @@ especially in the shape that the Decalogue is a civil and not a moral
 law (J. D. Michaelis), was the current one in the period of 18th-century
 rationalism. The distinction of a permanent and a transitory element in
 the law of the Sabbath is found, not only in Luther and Melanchthon, but
-in Calvin and other theologians of the Reformed church. The main
+in [[Calvin]] and other theologians of the Reformed church. The main
 controversy which arose on the basis of this distinction was whether the
 prescription of one day in seven is of permanent obligation. It was
 admitted that such obligation must be not natural but positive; but it
@@ -274,14 +274,14 @@ it was regarded as a _universal positive_ law of God. But those who
 maintained the opposite view were not excluded from the number of the
 orthodox. The laxer conception found a place in the Cocceian school.
 
-  LITERATURE.--Geffcken, _Uber die verschiedenen Eintheilungen des
+  LITERATURE.--[[Geffcken]], _Uber die verschiedenen Eintheilungen des
   Dekalogs und den Einfluss derselben auf den Cultus_; W. Robertson
   Smith, _Old Test. Jew. Church_, pp. 331-345, where his earlier views
   (1877) in the _Ency. Brit._ are largely modified (cf. also _Eng. Hist.
   Rev._ (1888) p. 352); Montefiore, _Hibbert Lectures_ (1892), Appendix
   I; W. R. Harper, _Internat. Crit. Comm. on Amos and Hosea_, pp. 58-64
   (on the position of the Decalogue in early pre-prophetic religion of
-  Israel); C. A. Briggs, _Higher Criticism of Hexat_.^2 pp. 189-210; see
+  Israel); C. A. [[Brigg|Briggs]], _Higher Criticism of Hexat_.^2 pp. 189-210; see
   also the references under EXODUS.     (W. R. S.; S. A. C.)
 
 
@@ -289,12 +289,12 @@ FOOTNOTES:
 
   [1] A Hebrew fragment probably of the 2nd century A.D., in the
     University Library, Cambridge, containing the Decalogue with several
-    variant readings; see S. A. Cook, _Proceed. Soc. Bibl. Archaeology_
+    variant readings; see S. A. [[Cook]], _Proceed. Soc. Bibl. [[Archaeology]]_
     (1903), pp. 34-56; F. C. Burkitt, _Jewish Quarterly Review_ (1903),
     pp. 392-408; N. Peters, _D. alteste Abschrift d. zehn Gebote_ (1905).
 
   [2] So, for example, Augustine, l.c., Thomas, _Summa_ (_Prima
-    Secundae_, qu. c. art. 4), and recently Sonntag and Kurtz. Purely
+    Secundae_, qu. c. art. 4), and recently Sonntag and [[Kurtz]]. Purely
     arbitrary is the idea of Lutheran writers (Gerhard, Loc. xiii. S 46)
     that the ninth commandment forbids _concupiscentia actualis_, the
     tenth _conc. originalis_.
@@ -302,12 +302,12 @@ FOOTNOTES:
   [3] It is generally assumed that the addition in Exodus is from a
     hand akin to Gen. ii. 2 sqq.; Ex. xxxi. 17 (P.).
 
-  [4] So Hitzig (_Ostern und Pfingsten im zweiten Dekalog_, Heidelberg,
+  [4] So [[Hitzig]] (_Ostern und Pfingsten im zweiten Dekalog_, Heidelberg,
     1838), independently of a previous suggestion of Goethe in 1783, who
     in turn appears to have been anticipated by an early Greek writer
-    (Nestle, _Zeit. fur alt-test. Wissenschaft_ (1904), pp. 134 sqq.).
+    (Nestle, _Zeit. [[Fur|fur]] alt-test. Wissenschaft_ (1904), pp. 134 sqq.).
 
-  [5] See also W. E. Barnes, _Journ. Theol. Stud._ (1905), pp. 557-563.
+  [5] See also W. E. [[Barnes]], _Journ. Theol. Stud._ (1905), pp. 557-563.
 
   [6] The last three sentences of this paragraph are taken almost
     bodily from Robertson Smith's later views (_Old Testament in the

@@ -8,7 +8,7 @@ mammals and birds, and in settled districts is destructive to poultry.
 Allamand's grison (_G. allamandi_), with the same range, is somewhat
 larger. Another member of the genus is the tayra or taira (_G.
 barbara_), about as large as an otter, with a range from Mexico to
-Argentina. This species hunts in companies (see CARNIVORA).
+[[Argentina]]. This species [[Hunt|hunts]] in companies (see CARNIVORA).
 
 ## References
 

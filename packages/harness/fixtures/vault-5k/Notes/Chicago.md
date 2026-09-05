@@ -1,6 +1,6 @@
 # Chicago
 
-CHICAGO, a city, a port of entry and the county-seat of Cook county,
+CHICAGO, a city, a port of entry and the county-seat of [[Cook]] county,
 Illinois, U.S.A., the second city of the United States in population,
 commerce and manufactures; pop. (1900) 1,698,575; and (1910) 2,185,283.
 It is situated at the south-west corner of Lake Michigan (lat. 41° 50',
@@ -12,8 +12,8 @@ all rare, and changes of twenty are common. The city is the greatest
 railway centre of the United States, and was for several decades
 practically the only commercial outlet of the great agricultural region
 of the northern Mississippi Valley. Trunk lines reach E. to Montreal,
-Boston, New York, Philadelphia, Baltimore (the nearest point on the
-Atlantic coast, 854 m.); S. to Charleston, Savannah, Florida, Mobile,
+[[Boston]], New York, Philadelphia, Baltimore (the nearest point on the
+Atlantic coast, 854 m.); S. to [[Charleston]], Savannah, Florida, Mobile,
 New Orleans, Port Arthur and Galveston; W. to the Pacific at Los
 Angeles, San Francisco, Seattle and Vancouver, and to most of these by a
 variety of routes. In 1905 about 14% of the world's railway mileage
@@ -52,14 +52,14 @@ was begun in 1833. Great breakwaters protect the river mouth from the
 silting shore currents of the lake and afford secure shelter in an outer
 roadstead from its storms, and there is a smaller inner-basin (about 450
 acres, 16 ft. depth) as well. But the river itself which has about 15 m.
-of navigable channel, in part lined with docks, is the most important
+of navigable channel, in part lined with [[Dock|docks]], is the most important
 part of the harbour. Its channel has been repeatedly deepened, and in
 rectnt years--especially since 1896, after its control as a navigable
 stream passed (1890) to the federal government--widened and straightened
 by the removal of jutting building constructions along its shores. Grain
-elevators of enormous size, coal yards, lumber yards and grimy
-warehouses or factories crowd close upon it. The shipping facilities on
-the river are not so good in some ways, however, as on the Calumet in
+[[Elevators|elevators]] of enormous size, coal yards, lumber yards and grimy
+warehouses or factories [[Crowd|crowd]] close upon it. The shipping facilities on
+the river are not so good in some ways, however, as on the [[Calumet]] in
 southeastern (or South) Chicago, whither there has been a strong
 movement of manufactures and heavy commerce.
 
@@ -87,7 +87,7 @@ skyline, varied colour, massiveness, bustle and impressive commercialism
 of the business district. Chicago is generally credited with being the
 original home of the steel-frame "sky-scraper,"[5] though there are now
 higher buildings elsewhere in America. The unstable soil of sand, clay
-and boulders that underlies the city is unfavourable to tall
+and [[Boulder|boulders]] that underlies the city is unfavourable to tall
 constructions, and necessitates extraordinary attention to foundations.
 The bed-rock lies, on an average, 50 ft. below the level of the lake (in
 places more than a hundred). To the rock the foundations are often sunk
@@ -103,9 +103,9 @@ were some 475 structures ten or more storeys high. Not a few are
 noteworthy, whether for size--as the Monadnock office building of 16
 storeys, with some 6000 occupants, and the new Northwestern Railway
 station; or for the luxury of their interior fittings--as the La Salle,
-Blackstone and Sherman hotels; or for boldness and originality in the
+[[Blackstone]] and Sherman hotels; or for boldness and originality in the
 treatment of the steel-frame type; or for association with the city's
-life--as the Fine Arts building, given over to varied purposes of public
+life--as the [[Fine Arts]] building, given over to varied purposes of public
 amusement and artistic or intellectual improvement, or the Railway
 Exchange (cased in tiles), the University Club, the Chamber of Commerce
 and the Board of Trade; and many others are handsome and dignified
@@ -113,7 +113,7 @@ examples of architecture. The Marquette building, consistently and
 handsomely decorated with works of art, is one of the finest
 office-buildings in the country. There are a number of enormous retail
 stores. The largest, and one of the finest in the world, is that of
-Marshall Field. The wholesale establishment of the same firm is the work
+[[Marshall]] Field. The wholesale establishment of the same firm is the work
 of H.H. Richardson, considered one of his best, and one of the most
 admirable examples among American commercial buildings. The city hall
 and county court house (cost, $4,500,000) is an enormous double building
@@ -121,13 +121,13 @@ in a free French Renaissance style, with columned facades. The new
 Federal building (finished in 1905; cost, $4,750,000) is a massive
 edifice (a low rectangle surmounted by a higher inner cross and crowned
 with a dome). The public library (1893-1897, $2,125,000), constructed of
-dark granite and limestone, with rich interior decorations of varied
+dark granite and [[Limestone|limestone]], with rich interior decorations of varied
 frescoes, mosaics, ornamental bronze and iron-work, and mottoes, is one
 of the handsomest libraries of the country. The Chicago Art Institute
 (1892-1893; Italian Renaissance), the Chicago Orchestra building (1904),
 and the Commercial National Bank, are also noteworthy. The finest
 residence streets are the Lake Shore Drive of the North Side and the
-"boulevards"--broad parkways that connect the parks of the city--of
+"[[Boulevard|boulevards]]"--broad parkways that connect the parks of the city--of
 which Michigan Avenue, Drexel and Grand are the finest. The city's
 environs are not of particular beauty, but there are bluffs on the lake
 to the north, and woods to the south-west, and a fair variety of pretty
@@ -192,11 +192,11 @@ construction of a ship-canal for large vessels. The canal also made
 possible the development (begun in 1903) of enormous hydraulic power
 for the use of the city. The Illinois and Michigan Canal has been
 supplemented by the Illinois and Mississippi Canal, commonly known as
-"the Hennepin," from its starting at the great bend of the Illinois
+"the Hennepin," from its starting at the great [[Bend|bend]] of the Illinois
 river 1¾ m. above Hennepin, not far below La Salle; the first
 appropriation for it was made in 1890, and work was begun in 1892 and
 completed in October 1907. Its course from Hennepin is by the Bureau
-Creek valley to the mouth of Queen river on the Rock river, thence by
+[[Creek]] valley to the mouth of Queen river on the Rock river, thence by
 the Rock river and a canal around its rapids at Milan to its mouth at
 Rock Island on the Mississippi river. This barge canal is 80 ft. wide at
 water-line, 52 ft. wide at the bottom, and 7 ft. deep. Its main feeder
@@ -212,7 +212,7 @@ of which, underlying the entire business district, had been constructed
 before 1909. It is the only subway system in the world that seeks to
 clear the streets by the lessening of trucking, in place of devoting
 itself to the transportation of passengers. Direct connexion is made
-with the freight stations of all railways and the basements of important
+with the freight stations of all railways and the [[Basement|basements]] of important
 business buildings, and coal, building materials, ashes and garbage,
 railway luggage, heavy mail and other kinds of heavy freight are
 expeditiously removed and delivered. Telegraph and telephone wires are
@@ -281,14 +281,14 @@ was the first American city to adopt this system.
 _Art._--Among the monuments erected in public places are a Columbus by
 D.C. French and a bronze replica of French's equestrian statue of
 Washington in Paris; statues of John A. Logan and Abraham Lincoln by St
-Gaudens; monuments commemorating the Haymarket riot and the Fort
-Dearborn massacres; statues of General Grant, Stephen A. Douglas, La
+[[Gauden|Gaudens]]; monuments commemorating the Haymarket riot and the Fort
+Dearborn [[Massacre|massacres]]; statues of General Grant, Stephen A. Douglas, La
 Salle, Schiller, Humboldt, Beethoven and Linnaeus. There is also a
 memorial to G.B. Armstrong (1822-1871), a citizen of Chicago, who
 founded the railway mail service of the United States. A city art
 commission approves all works of art before they become the property of
 the city, and at the request of the mayor acts in various ways for the
-city's aesthetic betterment. The Architectural Club labours for the same
+city's aesthetic [[Betterment|betterment]]. The Architectural Club labours for the same
 end. A Municipal Art League (organized in 1899) has done good work in
 arousing civic pride; it has undertaken, among other things, campaigns
 against bill-board advertisements,[11] and against the smoke nuisance.
@@ -344,7 +344,7 @@ medicine, rare books and fine editions; the public library covers the
 whole range of general literature. The library of the University of
 Chicago contained in 1908 some 450,000 titles. Among other collections
 are those of the Chicago Historical Society (1856; about 150,000 titles
-in 1908), the Athenaeum (1871); the Law Institute and Library (1857),
+in 1908), the [[Athenaeum]] (1871); the Law Institute and Library (1857),
 which in 1908 had about 46,500 volumes; the Art Institute, the Field
 Museum of Natural History, the Academy of Sciences (1857) and the
 libraries of various schools.
@@ -356,8 +356,8 @@ of North-Western University is in Chicago, while its academic department
 is in the suburb of Evanston. North-Western University was organized in
 1851 and is under Methodist Episcopal control. Its students in 1908
 (exclusive of pupils in "co-operating" theological schools) numbered
-3850; the best equipped departments are those of dentistry, medicine and
-pharmacy. There are two Roman Catholic colleges in Chicago: Loyola
+3850; the best equipped departments are those of [[Dentistry|dentistry]], medicine and
+pharmacy. There are two Roman Catholic colleges in Chicago: [[Loyola]]
 University (chartered in 1870), with a department of law, called Lincoln
 College (1908), and a medical department; and St. Stanislaus College
 (1870). The College of Physicians and Surgeons is the medical department
@@ -368,13 +368,13 @@ Seminary (Presbyterian); the Chicago Theological Seminary
 Swedish Institutes); the Western Episcopal Theological Seminary; a
 German Lutheran theological seminary, and an Evangelical Lutheran
 theological seminary. There are a number of independent medical schools
-and schools of dentistry and veterinary surgery. The Lewis Institute
+and schools of dentistry and veterinary surgery. The [[Lewis]] Institute
 (bequest 1877, opened 1896), designed to give a practical education to
 boys and girls at a nominal cost, and the Armour Institute of
 Technology, one of the best technical schools of the country, provide
 technical education and are well endowed. The Armour Institute was
 founded in 1892 by Philip D. Armour, and was opened in 1893. It
-comprises the College of Engineering, including, besides the usual
+comprises the College of [[Engineering]], including, besides the usual
 departments, a department of chemical engineering and a department of
 fire protection engineering, a department of "commercial tests," and the
 Armour Scientific Academy (preparatory). In 1907 the Institute had 1869
@@ -397,7 +397,7 @@ was a recognition of its supreme advantages as the easiest outlet for
 the products of the Middle West, on whose wealth its prosperity is
 founded. The growth of its trade has been marvellous. The last years of
 the 19th century showed, however, an inevitable loss to Chicago in the
-growth of Duluth, Kansas City and other rivals in strategic situations.
+growth of Duluth, [[Kansas City]] and other rivals in strategic situations.
 In particular, the struggle of the North and South railway lines in the
 Mississippi Valley to divert to ports on the Gulf of Mexico grain and
 other freight caused great losses to Chicago. An enormous increase in
@@ -430,7 +430,7 @@ the work is done by machinery. Their capacity in 1904 was 65,140,000
 bu.[13] In the same quinquennial period, 1900-1904, the average yearly
 receipts of lumber aggregated 1,807,066,000 ft.,[14] and of shingles,
 410,711 thousand; of cattle, 3,078,734; of hogs, 8,334,904; of sheep,
-3,338,291; of butter, 239,696,921 lb; the exports of hides, 167,442,077
+3,338,291; of [[Butter|butter]], 239,696,921 lb; the exports of hides, 167,442,077
 lb; of dressed beef, 1,126,995,490 lb; of lard, 410,688,319 lb; of pork,
 191,371 bbl.; of other hog products, 600,503,394 lb. The combined
 tonnage in and out averaged 14,135,406 tons.[15] There is a large direct
@@ -447,7 +447,7 @@ $256,527,949 (32.2% of the city's total) in 1900 and at $269,581,486
 (28.2% of the total) in 1905, are the most important of the city's
 industries; in 1905 the product value in Chicago was 29.5% of that for
 the slaughtering and meat-packing of the entire United States. Other
-important manufactures are foundry and machine shop products,
+important manufactures are foundry and [[Machine|machine]] shop products,
 $44,561,071 in 1900, and $51,774,695 in 1905; and other iron and steel
 products, $35,058,700 in 1900 and $27,074,307 in 1905; clothing
 ($58,093,572 in 1900, and $64,913,481 in 1905); cars and other railway
@@ -456,7 +456,7 @@ construction, $28,369,956 in 1900 and $36,080,210 in 1905; malt liquors
 ($12,344,510 in 1900 and $17,488,257 in 1905). The Illinois Steel
 Company has the largest rolling mills in the world. The McCormick
 Harvesting Machine Company is the largest concern in the world
-manufacturing agricultural implements. Pullman in southern Chicago, in
+manufacturing agricultural [[Implement|implements]]. Pullman in southern Chicago, in
 the sparsely settled outskirts of the city, is a model little "labour
 town," planned and constructed with regard for both appearances and
 conveniences by the Pullman Palace Car Company, which has its works
@@ -470,7 +470,7 @@ Meat-packing is the greatest local industry and is that for which
 Chicago is best known. In the enormous stock-yards from two-thirds to
 four-fifths of the cattle and hogs received are killed, and sent out in
 various forms of prepared meats and by-products (lard, fertilizers,
-glue, butterine, soap, candles, &c).[16] This industry is remarkable for
+glue, butterine, soap, [[Candle|candles]], &c).[16] This industry is remarkable for
 the extraordinary division of labour in its processes. In the
 preparation of a bullock more than thirty specialties are involved, and
 some twenty different rates of pay. This system enabled the packing
@@ -503,7 +503,7 @@ veto. The mayor, chosen for four years, is the executive head of the
 city, and has large power of appointment and removal, limited by a civil
 service law, under which he must submit reasons for removals, while
 two-thirds of the council may prevent them. On the other hand the mayor
-can veto separate items in the council's budget. The administrative
+can veto separate [[Item|items]] in the council's budget. The administrative
 departments are generally headed by single commissioners; but those of
 elections, education and the public library are exceptions. The council
 was once all important, but as early as the charter of 1851 it began to
@@ -544,7 +544,7 @@ in 1886 (present form 1890) to carry through the drainage canal. The
 school board has been nominally separate from and almost independent of
 the city government in power since 1857. The courts of law are courts of
 the state of Illinois, but a certain number of justices of the peace are
-designated by the mayor to act as police magistrates. The initiative and
+designated by the mayor to act as police [[Magistrate|magistrates]]. The initiative and
 referendum in local matters has been made possible under a state law,
 and has been several times exercised in important questions. Financial
 arrangements have been loose and inefficient. Independent taxing power
@@ -564,14 +564,14 @@ population, was not high (in 1901 Boston $5.03, New York $3.21, Chicago
 $2.19), and the results were not exactly efficient. The difficulty is
 that the city is poor and can pay only for strict necessities. Its
 poverty is due mainly to state laws. The taxation limit on property is
-1% on the cash value, thus compelling special dependence upon all sorts
+1% on the [[Cash|cash]] value, thus compelling special dependence upon all sorts
 of indirect taxes; the debt limit is 5% on the assessed valuation. Since
 1900 relief has been given by state law in some matters, such as for the
 park system. The water system has been operated by the city since 1851,
 and has been financially very successful from the beginning: rates are
 far lower than in the other great cities of the country, and a handsome
 net revenue accrues to the treasury.[20] A municipal electric-lighting
-plant (1887), which was paid for gradually out of the general tax levy
+plant (1887), which was paid for gradually out of the general tax [[Levy|levy]]
 and was not built by the sale of bonds, gave excellent results in the
 city service. The city, like the state, has power to regulate the price
 of gas sold by private companies. The elevation of the railway tracks
@@ -659,7 +659,7 @@ in 1896. So far as possible the school buildings are kept open for
 school, lectures and entertainments, serving thus as wholesome social
 centres; and a more adequate use is made of the large investment (in
 1908 about $44,500,000) which they represent. In all the public schools
-manual training, household arts and economy, and commercial studies are
+[[Manual|manual]] training, household arts and economy, and commercial studies are
 a regular part of the curriculum. A department of scientific pedagogy
 and child study (1900) seeks to secure a development of the school
 system in harmony with the results of scientific study of children (the
@@ -669,7 +669,7 @@ expenditure for all purposes by the city in 1903 for every dollar
 expended for schools was only $1.713; a ratio paralleled in only a few
 cities of the country.
 
-Hospitals, infirmaries, dispensaries, asylums, shelters and homes for
+Hospitals, infirmaries, dispensaries, [[Asylum|asylums]], shelters and homes for
 the defective, destitute, orphaned, aged, erring, friendless and
 incurably diseased; various relief societies, and associations that sift
 the good from the bad among the mendicant, the economically inefficient,
@@ -685,7 +685,7 @@ important charitable societies of the city are the United Charities of
 Chicago (1909), the United Hebrew Charities (1857), and the Associated
 Jewish Charities (1900). The first is the union of the Relief and Aid
 Society (1857) and the Bureau of Charities (1894), and tries to prevent
-overlapping of efforts and to weed out fraud. Following the gradual
+overlapping of efforts and to weed out [[Fraud|fraud]]. Following the gradual
 development of New York state laws on behalf of children was enacted the
 Illinois Juvenile Court Law, which came into force on the 1st of July
 1899 and was largely the result of Chicago's interest in juvenile
@@ -743,7 +743,7 @@ increase equivalent to 8.6% annually, compounded. Such a continuous
 
 _History._--The river Chicago (an Indian name of uncertain meaning, but
 possibly from Ojibwa _she-kag-ong_, "wild onion place") was visited by
-Joliet and Marquette in 1673, and later by La Salle and others. It
+[[Joliet]] and Marquette in 1673, and later by La Salle and others. It
 became a portage route of some importance, used by the French in passing
 to the lower Illinois country. In 1804 the United States established
 here Fort Dearborn. In 1812, during the Indian War of Tecumseh, the
@@ -753,12 +753,12 @@ now well within the city. The fort was re-established and fitfully
 occupied until its final abandonment in 1837. When Cook county was
 organized in 1831, Chicago, then a tiny village, became the seat of
 justice. It became a town in 1833 and a city in 1837. By that time
-Chicago was confident of its future. The federal government had begun
+Chicago was confident of its future. The [[Federal Government|federal government]] had begun
 the improvement of the harbour, and the state had started the Illinois
 and Michigan canal. There was a federal land-office also, and the land
 speculator and town promoter had opened a chapter of history more
 picturesque, albeit sordid, than in any of the old French days. The
-giant growth of the lake trade had drawn attention before railway
+[[Giant|giant]] growth of the lake trade had drawn attention before railway
 connexion was secure with the East in 1852, making progress even more
 rapid thereafter. During the Civil War a large prison-camp for
 Confederate prisoners, Camp Douglas, was maintained at Chicago. In 1870
@@ -787,7 +787,7 @@ money contributions from the United States and abroad were $4,996,782;
 of this foreign countries contributed nearly $1,000,000 (England half of
 this). These funds, which were over and above gifts of food, clothing
 and supplies, were made to last till the close of 1876. Out of them
-temporary homes were provided for nearly 40,000 people; barracks and
+temporary homes were provided for nearly 40,000 people; [[Barracks|barracks]] and
 better houses were erected, workmen were supplied with tools, and women
 with sewing-machines; the sick were cared for and the dead buried; and
 the poorer classes of Chicago were probably never so comfortable as
@@ -796,7 +796,7 @@ the city was accomplished with wonderful rapidity. Work was begun before
 the cinders were cold. The business district was largely rebuilt within
 a year, and within three there were hardly scars of the calamity. Wood
 was barred from a large area (and subsequently from the entire city),
-and a new Chicago of brick and stone, larger, finer and wealthier, had
+and a new Chicago of [[Brick|brick]] and stone, larger, finer and wealthier, had
 taken the place of the old. Business and population showed no set-back
 in their progress. The solidity and permanence of this prosperity were
 confirmed during the financial panic of 1873, when Chicago banks alone,
@@ -834,7 +834,7 @@ with the movement of the mails, were imprisoned for long terms for
 contempt of court.
 
 Out of a strike in the McCormick works in 1886 there sprang another
-famous incident in Chicago's history. The "international" anarchists of
+famous incident in Chicago's history. The "[[International|international]]" anarchists of
 Chicago had been organized in "groups" about two years earlier, and were
 very active. They were advocating a "general strike" for an eight-hour
 day, and the tense excitement among the labourers of the city, owing to
@@ -860,7 +860,7 @@ which 188 were covered by buildings. On the 21st of October
 formally dedicated, and on the following 1st of May opened to the
 public, continuing open for six months. The number of paid admissions
 was 21,500,000; of total admissions 27,539,521. The buildings, planned
-by a commission of architects--among whom John W. Root and Daniel H.
+by a commission of architects--among whom John W. Root and [[Daniel]] H.
 Burnbam of Chicago were responsible for the general scheme--formed a
 collection of remarkable beauty, to which the grounds, planned by F.L.
 Olmsted, intersected by lagoons and bordered by the lake, lent an
@@ -887,10 +887,10 @@ were unsuccessful. A national peace jubilee was held here in 1898.
   Study of the Higher Life of Chicago_ (Chicago University, doctoral
   dissertation, 1905); S.E. Sparling, _Municipal History and Present
   Organization of the City of Chicago_ (University of Wisconsin,
-  doctoral dissertation, Madison, 1898). Periodical literature contains
+  doctoral dissertation, [[Madison]], 1898). Periodical literature contains
   a vast amount of information on Chicago's progress and conditions that
   is elsewhere unobtainable; exact references may be obtained in Poole's
-  _Index to Periodical Literature_.
+  _[[Index]] to Periodical Literature_.
 
 
 FOOTNOTES:
@@ -971,7 +971,7 @@ FOOTNOTES:
 
   [18] Cook county is Republican in politics generally, the rural
     districts being so strongly so as often to overbalance the normal
-    Democratic plurality in Chicago. Thus another ground of jealousy is
+    Democratic plurality in Chicago. Thus another ground of [[Jealousy|jealousy]] is
     found In the distribution of county offices.
 
   [19] An amendment of 1904 provided that the legislature should enact

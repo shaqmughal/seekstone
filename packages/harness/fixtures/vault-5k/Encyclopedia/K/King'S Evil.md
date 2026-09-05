@@ -34,7 +34,7 @@ personal act of washing the diseased flesh with water, but under Henry
 VII. the use of an ablution was omitted, and a regular office was drawn
 up for insertion in the Service Book. At the "Ceremonies for the
 Healing" the king now merely touched his afflicted subject in the
-presence of the court chaplain who offered up certain prayers and
+presence of the court [[Chaplain|chaplain]] who offered up certain prayers and
 afterwards presented the touch-piece, pierced so that it might be
 suspended by a ribbon round the patient's neck. Henry VII.'s office was
 henceforth issued with variations from time to time under successive

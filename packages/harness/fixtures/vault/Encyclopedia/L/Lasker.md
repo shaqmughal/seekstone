@@ -4,7 +4,7 @@ LASKER, EDUARD (1829-1884), German publicist, was born on the 14th of
 October 1829, at Jarotschin, a village in Posen, being the son of a
 Jewish tradesman. He attended the gymnasium, and afterwards the
 university of Breslau. In 1848, after the outbreak of the revolution, he
-went to Vienna and entered the students' legion which took so prominent
+went to Vienna and entered the students' [[Legion|legion]] which took so prominent
 a part in the disturbances; he fought against the imperial troops during
 the siege of the city in October. He then continued his legal studies at
 Breslau and Berlin, and after a visit of three years to England, then
@@ -17,13 +17,13 @@ under the title _Zur Verfassungsgeschichte Preussens_ (Leipzig, 1874),
 and in 1865 he was elected member for one of the divisions of Berlin in
 the Prussian parliament. He joined the radical or _Fortschritts_ party,
 and in 1867 was also elected to the German parliament, but he helped to
-form the national liberal party, and in consequence lost his seat in
+form the national [[Liberal Party|liberal party]], and in consequence lost his seat in
 Berlin, which remained faithful to the radicals; after this he
-represented Magdeburg and Frankfort-on-Main in the Prussian, and
+represented [[Magdeburg]] and [[Frankfort-On-Main|Frankfort-on-Main]] in the Prussian, and
 Meiningen in the German, parliament. He threw himself with great energy
 into his parliamentary duties, and quickly became one of its most
 popular and most influential members. An optimist and idealist, he
-joined to a fervent belief in liberty an equal enthusiasm for German
+joined to a fervent belief in liberty an equal [[Enthusiasm|enthusiasm]] for German
 unity and the idea of the German state. His motion that Baden should be
 included in the North German Confederation in January 1870 caused much
 embarrassment to Bismarck, but was not without effect in hastening the
@@ -36,7 +36,7 @@ liberals who, unable to obtain all the concessions which they called
 for, refused to vote for the new laws as a whole. A speech made by
 Lasker on the 7th of February 1873, in which he attacked the management
 of the Pomeranian railway, caused a great sensation, and his exposure of
-the financial mismanagement brought about the fall of Hermann Wagener,
+the financial mismanagement brought about the fall of [[Hermann]] Wagener,
 one of Bismarck's most trusted assistants. By this action he caused,
 however, some embarrassment to his party. This is generally regarded as
 the beginning of the reaction against economic liberalism by which he
@@ -59,7 +59,7 @@ America, and died suddenly in New York on the 5th of January 1884.
   liberal ideas have materially advanced the social, political and
   economic conditions of these people, but by the lovers of liberty
   throughout the world." This motion was sent through the American
-  minister at Berlin to the German foreign office, with a request that
+  minister at Berlin to the German [[Foreign Office|foreign office]], with a request that
   it might be communicated to the president of the Reichstag. It was to
   ask Bismarck officially to communicate a resolution in which a foreign
   parliament expressed an opinion in German affairs exactly opposed to
@@ -74,7 +74,7 @@ America, and died suddenly in New York on the 5th of January 1884.
   Jahre parlamentarischer Geschichte 1866-1880_ appeared edited by W.
   Cahn (Berlin, 1902). See also L. Bamberger, _Eduard Lasker,
   Gedenkrede_ (Leipzig, 1884); A. Wolff, _Zur Erinnerung an Eduard
-  Lasker_ (Berlin, 1884); Freund, _Einiges über Eduard Lasker_ (Leipzig,
+  Lasker_ (Berlin, 1884); [[Freund]], _Einiges über Eduard Lasker_ (Leipzig,
   1885); and _Eduard Lasker, seine Biographie und letzte öffentliche
   Rede_, by various writers (Stuttgart, 1884).     (J. W. He.)
 

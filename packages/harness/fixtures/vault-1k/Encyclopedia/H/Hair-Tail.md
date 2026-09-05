@@ -100,7 +100,7 @@ of Baraderes. The coast line is estimated at 1250 m.
   it Etang Sale. After heavy rains it occasionally forms a continuous
   sheet of water with another lake called Azuey, or Etang Saumatre,
   which is 16 m. long by 4 m. broad; on these occasions the united lake
-  has a total length of 60 m. and is larger than the Lake of Geneva.
+  has a total length of 60 m. and is larger than the Lake of [[Geneva]].
   Farther S. is the Icoten de Limon, 5 m. long by 2 m. broad, a
   fresh-water lake with no visible outlet. Smaller lakes are Rincon and
   Miragoane. There are no active volcanoes, but earthquakes are not
@@ -137,7 +137,7 @@ of Baraderes. The coast line is estimated at 1250 m.
   teem with fish and other sea food. Wild cattle, hogs and dogs,
   descendants of those brought from Europe, roam at large on the plains
   and in the forests. The wild hogs furnish much sport to the natives,
-  who hunt them with dogs trained for the purpose.
+  who [[Hunt|hunt]] them with dogs trained for the purpose.
 
   In richness and variety of vegetable products Haiti is not excelled by
   any other country in the world. All tropical plants and trees grow in
@@ -247,7 +247,7 @@ Gonaive (18,000), and Port de Paix (10,000). Jeremie was the birthplace
 of the elder Dumas. The ruins of the wonderful palace of Sans-Souci and
 of the fortress of La Ferriere, built by King Henri Christophe
 (1807-1825), can be seen near Millot, a town 9 m. inland from Cap
-Haitien. Plaisance (25,000), Gros Morne (22,000) and La Croix des
+Haitien. Plaisance (25,000), [[Gros]] Morne (22,000) and La Croix des
 Bouquets (20,000) are the largest towns in the interior. The entire
 population of the republic is about 1,500,000.
 
@@ -267,7 +267,7 @@ Porto Plata and Bonao. Mines had been opened up, and advances made in
 agriculture. Sugar was introduced in 1506, and in a few years became the
 staple product. About 1630, a mixed company of French and English,
 driven by the Spaniards from St Kitts, settled on the island of Tortuga,
-where they became formidable under the name of Buccaneers. They soon
+where they became formidable under the name of [[Buccaneers]]. They soon
 obtained a footing on the mainland of Haiti, and by the treaty of
 Ryswick, 1697, the part they occupied was ceded to France. This new
 colony, named Saint Dominique, subsequently attained a high degree of
@@ -391,8 +391,8 @@ was on foot to depose Simon, and further trouble was threatened.
   49-259, with map; L. G. Tippenhauer, _Die Insel Haiti_ (Leipzig,
   1893); see also several articles by L. G. Tippenhauer in _Peterm.
   Mitt._ 1899 and 1901. A comparison with the Jamaican succession will
-  be found in R. T. Hill, "The Geology and Physical Geography of
-  Jamaica," _Bull. Mus. Comp. Zool._, Harvard, vol. xxxiv. (1899).
+  be found in R. T. Hill, "The Geology and Physical [[Geography]] of
+  Jamaica," _[[Bull]]. Mus. Comp. Zool._, Harvard, vol. xxxiv. (1899).
 
 ## See also
 

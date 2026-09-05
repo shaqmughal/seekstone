@@ -13,16 +13,16 @@ lighting, the Juanacatlan falls of the Rio Grande near the city
 furnishing the electric power. Guadalajara is an episcopal see, and its
 cathedral, built between 1571 and 1618, is one of the largest and most
 elaborately decorated churches in Mexico. The government palace, which
-like the cathedral faces upon the _plaza mayor_, is generally considered
+like the cathedral faces upon the _plaza [[Mayor|mayor]]_, is generally considered
 one of the finest specimens of Spanish architecture in Mexico. Other
 important edifices and institutions are the university, with its schools
 of law and medicine, the mint, built in 1811, the modern national
 college and high schools, a public library of over 28,000 volumes, an
-episcopal seminary, an academy of fine arts, the Teatro Degollado, and
+episcopal seminary, an academy of [[Fine Arts|fine arts]], the Teatro Degollado, and
 the large modern granite building of the penitentiary. There are many
 interesting churches and eleven conventual establishments in the city.
 Charitable institutions of a high character are also prominent, among
-which are the Hospicio, which includes an asylum for the aged, infirm,
+which are the Hospicio, which includes an [[Asylum|asylum]] for the aged, infirm,
 blind, deaf and dumb, foundlings and orphans, a primary school for both
 sexes, and a girls' training school, and the Hospital de San Miguel de
 Belen, which is a hospital, an insane asylum, and a school for little

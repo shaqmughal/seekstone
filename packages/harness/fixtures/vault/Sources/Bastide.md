@@ -18,7 +18,7 @@ sentenced to death but escaped to London. On his return to Paris in 1834
 he was acquitted, and occupied himself with journalism, contributing to
 the _National_, a republican journal of which he became editor in 1836.
 In 1847 he founded the _Revue nationale_ with the collaboration of P.J.
-Buchez (q.v.), with whose ideas he had become infected. After the
+[[Buchez]] (q.v.), with whose ideas he had become infected. After the
 Revolution of February 1848 Bastide's intimate knowledge of foreign
 affairs gained for him a secretarial post in the provisional government,
 and, after the creation of the executive commission, he was made

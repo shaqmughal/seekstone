@@ -8,7 +8,7 @@ topic: ancient-rome
 
 LITCHI, or LEE-CHEE, the fruit of _Nephelium Litchi_, a small tree,
 native of southern China and one of the most important indigenous
-fruits. It is also cultivated in India. The tree bears large compound
+fruits. It is also cultivated in India. The tree bears large [[Compound|compound]]
 leaves with two to four pairs of leathery lanceolate pointed leaflets
 about 3 in. long, and panicles of small flowers without petals. The
 fruits are commonly roundish, about 1½ in. in diameter, with a thin,
@@ -19,9 +19,9 @@ substance. The pulp is of the nature of an aril, that is, an additional
 seed-coat.
 
   _Nephelium Longana_, the longan tree, also a native of southern China,
-  is cultivated in that country, in the Malay Peninsula, India and
+  is cultivated in that country, in the [[Malay Peninsula]], India and
   Ceylon for its fruit, which is smaller than that of the litchi, being
-  half an inch to an inch in diameter with a nearly smooth
+  half an [[Inch|inch]] to an inch in diameter with a nearly smooth
   yellowish-brown brittle skin, and containing a pulpy aril resembling
   that of the litchi in flavour. Another species, _N. lappaceum_, a tall
   tree native of the Malay Peninsula, where it is known under the names

@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Harmonica"
 # Harmonica
 
 HARMONICA, a generic term applied to musical instruments in which sound
-is produced by friction upon glass bells. The word is also used to
+is produced by [[Friction|friction]] upon glass bells. The word is also used to
 designate instruments of percussion of the Glockenspiel type, made of
 steel and struck by hammers (Ger. _Stahlharmonika_).
 
@@ -28,7 +28,7 @@ states that the instrument was used for church and other solemn music.
 Gluck gave a concert at the "little theatre in the Haymarket" (London)
 in April 1746, at which he performed on musical glasses a concerto of
 his composition with full orchestral accompaniment. E. H. Delaval is
-also credited with the invention. When Benjamin Franklin visited London
+also credited with the invention. When Benjamin [[Franklin]] visited London
 in 1757, he was so much struck by the beauty of tone elicited by Delaval
 and Pockrich, and with the possibilities of the glasses as musical
 instruments, that he set to work on a mechanical application of the
@@ -50,7 +50,7 @@ sudden as it was ephemeral, produced emulation in a generation
 unsurpassed for zeal in the invention of musical instruments. The most
 notable of its offspring were Carl Leopold Rollig's improved harmonica
 with a keyboard in 1786, Chladni's euphon in 1791 and clavicylinder in
-1799, Ruffelsen's melodicon in 1800 and 1803, Franz Leppich's
+1799, Ruffelsen's melodicon in 1800 and 1803, [[Franz]] Leppich's
 panmelodicon in 1810, Buschmann's uranion in the same year, &c. Of most
 of these nothing now remains but the name and a description in the
 _Allgemeine musikalische Zeitung_, but there are numerous specimens of

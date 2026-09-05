@@ -43,8 +43,8 @@ rest with the side that has command of the sea. This was assured to the
 insurgents at the outset by the revolt of the maritime communities of
 the Greek archipelago. The Greeks of the islands had been accustomed
 from time immemorial to seafaring; their ships--some as large as
-frigates--were well armed, to guard against the Barbary pirates and
-rovers of their own kin; lastly, they had furnished the bulk of the
+frigates--were well armed, to guard against the [[Barbary]] pirates and
+rovers of their own [[Kin|kin]]; lastly, they had furnished the bulk of the
 sailors to the Ottoman navy which, now that this recruiting ground was
 closed, had to be manned hastily with impressed crews of dock-labourers
 and peasants, many of whom had never seen the sea. The Turkish fleet,
@@ -65,7 +65,7 @@ its Mussulman inhabitants who could not escape into the citadel were
 massacred; but the citadel remained in the hands of the Turks till 1828.
 Meanwhile, in the south, leaders of another stamp had appeared: Petros,
 bey of the Maina (q.v.) chief of the Mavromichales, who at the head of
-his clan attacked Kalamata and put the Mussulman inhabitants to the
+his [[Clan|clan]] attacked Kalamata and put the Mussulman inhabitants to the
 sword; and Kolokotrones, a notable brigand once in the service of the
 Ionian government, who--fortified by a vision of the Virgin--captured
 Karytaena and slaughtered its infidel population. Encouraged by these
@@ -73,8 +73,8 @@ successes the revolt spread rapidly; within three weeks there was not a
 Mussulman left in the open country, and the remnants of the once
 dominant class were closely besieged in the fortified towns by hosts of
 wild peasants and brigands. The flames of revolt now spread across the
-Isthmus of Corinth: early in April the Christians of Dervenokhoria rose,
-and the whole of Boeotia and Attica quickly followed suit; at the
+Isthmus of [[Corinth]]: early in April the Christians of Dervenokhoria rose,
+and the whole of [[Boeotia]] and Attica quickly followed suit; at the
 beginning of May the Mussulman inhabitants of Athens were blockaded in
 the Acropolis. In the Morea, meanwhile, a few Mussulman fortresses still
 held out: Coron, Modon, Navarino, Patras, Nauplia, Monemvasia,
@@ -83,7 +83,7 @@ scenes of butchery. The horrors culminated in the capture of Tripolitsa,
 the capital of the vilayet. In September this was taken by storm;
 Kolokotrones rode in triumph to the citadel over streets carpeted with
 the dead; and the crowning triumph of the Cross was celebrated by a
-cold-blooded massacre of 2000 prisoners of all ages and both sexes. This
+cold-blooded [[Massacre|massacre]] of 2000 prisoners of all ages and both sexes. This
 completed the success of the insurrection in the Morea, where only
 Patras, Nauplia, and one or two lesser fortresses remained to the Turks.
 
@@ -101,10 +101,10 @@ islands, Spetsae on the 7th, Psara on the 23rd, Hydra on the 28th and
 Samos on the 30th. Their fleets were divided into squadrons, of which
 one, under Tombazes, was deputed to watch for the entrance of the
 Ottomans into the archipelago, while the other under Andreas Miaoulis
-(_q.v._) sailed to blockade Patras and watch the coasts of Epirus. At
+(_q.v._) sailed to [[Blockade|blockade]] Patras and watch the coasts of Epirus. At
 sea, as on land, the Greeks opened the campaign with hideous atrocities,
 almost their first exploit being the capture of a vessel carrying to
-Mecca the sheik-ul-Islam and his family, whom they murdered with every
+[[Mecca]] the sheik-ul-Islam and his family, whom they murdered with every
 aggravation of outrage.
 
 
@@ -118,8 +118,8 @@ even Miaoulis, for all his high character and courage, was often unable
 to prevent his captains from sailing home at critical moments, when pay
 or booty failed. On land the presence of a few educated Phanariots, such
 as Demetrios Ypsilanti or Alexander Mavrocordato, was powerless to
-inspire the rude hordes with any sense of order or of humanity in
-warfare; while every lull in the fighting, due to a temporary check to
+inspire the rude [[Horde|hordes]] with any sense of order or of humanity in
+warfare; while every [[Lull|lull]] in the fighting, due to a temporary check to
 the Turks, was the signal for internecine conflicts due to the rivalry
 of leaders who, with rare exceptions, thought more of their personal
 power and profit than of the cause of Greece.
@@ -137,7 +137,7 @@ as these did in the extermination of the prosperous community of Scio
 (Chios) in March 1822. The cause of Greece was now that of Christendom,
 of the Catholic and Protestant West, as of the Orthodox East. European
 Liberalism, too, gagged and fettered under Metternich's "system,"
-recognized in the Greeks the champions of its own cause; while even
+recognized in the Greeks the [[Champion|champions]] of its own cause; while even
 conservative statesmen, schooled in the memories of ancient Hellas, saw
 in the struggle a fight of civilization against barbarism. This latter
 belief, which was, moreover, flattering to their vanity, the Greek
@@ -155,19 +155,19 @@ on board.
 
 Meanwhile Sultan Mahmud, now wide awake to the danger, had been
 preparing for a systematic effort to suppress the rising. The threatened
-breach with Russia had been avoided by Metternich's influence on the
+[[Breach|breach]] with Russia had been avoided by Metternich's influence on the
 tsar Alexander; the death of Ali of Iannina had set free the army of
 Khurshid Pasha, who now, as _seraskier_ of Rumelia, was charged with the
 task of reducing the Morea. In the spring of 1822 two Turkish armies
 advanced southwards: one, under Omar Vrioni, along the coast of Western
-Hellas, the other, under Ali, pasha of Drama (Dramali), through Boeotia
+Hellas, the other, under Ali, pasha of [[Drama]] (Dramali), through Boeotia
 and Attica. Omar was held in check by the mud ramparts of Missolonghi;
 but Dramali, after exacting fearful vengeance for the massacre of the
-Turkish garrison of the Acropolis at Athens, crossed the Isthmus and
+Turkish [[Garrison|garrison]] of the Acropolis at Athens, crossed the Isthmus and
 with the over-confidence of a conquering barbarian advanced to the
 relief of the hard-pressed garrison of Nauplia. He crossed the perilous
 defile of Dervenaki unopposed; and at the news of his approach most of
-the members of the Greek government assembled at Argos fled in panic
+the members of the Greek government assembled at [[Argos]] fled in panic
 terror. Demetrios Ypsilanti, however, with a few hundred men joined the
 Mainote Karayanni in the castle of Larissa, which crowns the acropolis
 of ancient Argos. This held Dramali in check, and gave Kolokotrones time
@@ -175,7 +175,7 @@ to collect an army. The Turks, in the absence of the fleet which was to
 have brought them supplies, were forced to retreat (August 6); the
 Greeks, inspired with new courage, awaited them in the pass of
 Dervenaki, where the undisciplined Ottoman host, thrown into confusion
-by an avalanche of boulders hurled upon them, was annihilated. In
+by an [[Avalanche|avalanche]] of [[Boulder|boulders]] hurled upon them, was annihilated. In
 Western Greece the campaign had an outcome scarcely less disastrous for
 the Turks. The death of Ali of Iannina had been followed by the
 suppression of the insurgent Suliotes and the advance of Omar Vrioni
@@ -201,12 +201,12 @@ loose all the sectional and personal jealousies, which even in face of
 the enemy had been with difficulty restrained, and the year 1823
 witnessed the first civil war between the Greek parties. These
 internecine feuds might easily have proved fatal to the cause of Greece.
-In the Archipelago Hydriotes and Spetsiotes were at daggers drawn; the
+In the Archipelago Hydriotes and Spetsiotes were at [[Dagger|daggers]] drawn; the
 men of Psara were at open war with those of Samos; all semblance of
 discipline and cohesion had vanished from the Greek fleet. Had Khosrev,
 the new Ottoman admiral, been a man of enterprise, he might have
 regained the command of the sea and, with it, that of the whole
-situation. But the fate of his predecessor had filled him with a lively
+situation. But the [[Fate|fate]] of his predecessor had filled him with a lively
 terror of Kanaris and his fire-ships; he contented himself with a cruise
 round the coasts of Greece, and was happy to return to safety under the
 guns of the Dardanelles without having accomplished anything beyond
@@ -216,10 +216,10 @@ themselves. In the west an army of Mussulman and Catholic Albanians,
 under Mustai Pasha, advanced southwards. On the night of the 21st of
 August occurred the celebrated exploit of Marko Botzaris and his
 Suliotes: a successful surprise attack on the camp of the Ottoman
-vanguard, in which the Suliote leader fell. The jealousy of the Aetolian
+vanguard, in which the Suliote leader fell. The [[Jealousy|jealousy]] of the Aetolian
 militia for the Suliotes, however, prevented the victory being decisive;
 and Mustai advanced to the siege of Anatoliko, a little town in the
-lagoons near Missolonghi. Here he was detained until, on the 11th of
+[[Lagoon|lagoons]] near Missolonghi. Here he was detained until, on the 11th of
 December, he was forced to raise the siege and retire northwards. His
 colleague, Yussuf Pasha, in East Hellas fared no better; here, too, the
 Turks gained some initial successes, but in the end the harassing
@@ -229,7 +229,7 @@ free to renew their internecine feuds.
 
 Just when these feuds were at their height, in the autumn of 1823, the
 most famous of the Philhellenes who sacrificed themselves for the cause
-of Greece, Lord Byron, arrived in Greece.
+of Greece, Lord [[Byron]], arrived in Greece.
 
 
   Second civil war, 1824.
@@ -237,7 +237,7 @@ of Greece, Lord Byron, arrived in Greece.
   Intervention of Mehemet Ali.
 
 The year 1824 was destined to be a fateful one for the Greek cause. The
-large loans raised in Europe, the first instalment of which Byron had
+large loans raised in Europe, the first [[Instalment|instalment]] of which Byron had
 himself brought over, while providing the Greeks with the sinews of war,
 provided them also with fresh material for strife. To the struggle for
 power was added a struggle for a share of this booty, and a second civil
@@ -256,7 +256,7 @@ Hussein Bey had landed in Crete, and by April of the following year had
 reduced the insurgent islanders to submission. Crete now became the base
 of operations against the Greeks. On the 19th of June Hussein appeared
 before Kasos, a nest of pirates of evil reputation, which he captured
-and destroyed. The same day the Egyptian fleet, under Ibrahim Pasha,
+and destroyed. The same day the Egyptian fleet, under [[Ibrahim Pasha]],
 sailed from Alexandria. Khosrev, too, emboldened by this new sense of
 support, ventured to sea, surprised and destroyed Psara (July 2), and
 planned an attack on Samos, which was defeated by Miaoulis and his
@@ -264,7 +264,7 @@ fire-ships (August 16, 17). On the 1st of September, however, Khosrev
 succeeded in effecting a junction with Ibrahim off Budrun, and two
 indecisive engagements followed with the united Greek fleet on the 5th
 and 10th. The object of Ibrahim was to reach Suda Bay with his
-transports, which the Greeks should at all costs have prevented. A first
+transports, which the Greeks should at all [[Costs|costs]] have prevented. A first
 attempt was defeated by Miaoulis on the 16th of November, and Ibrahim
 was compelled to retire and anchor off Rhodes; but the Greek admiral was
 unable to keep his fleet together, the season was far advanced, his
@@ -273,7 +273,7 @@ for Nauplia, leaving the sea unguarded. On the 5th of December Ibrahim
 again set sail, and reached Suda without striking a blow. Here he
 completed his preparations, and, on the 24th of February 1825, landed at
 Modon in the Morea with a force of 4000 regular infantry and 500
-cavalry. The rest followed, without the Greeks making any effort to
+[[Cavalry|cavalry]]. The rest followed, without the Greeks making any effort to
 intercept them.
 
 
@@ -309,8 +309,8 @@ man of determined character. On the 6th of April, after bribing the
 Albanian clansmen to neutrality, he passed the defile of Makrynoros,
 which the Greeks had left undefended, and on the 7th of May opened the
 second siege of Missolonghi. For twelve months the population held out,
-repulsing the attacks of the enemy, refusing every offer of honourable
-capitulation. This resistance was rendered possible by the Greek command
+repulsing the attacks of the enemy, refusing every offer of [[Honourable|honourable]]
+[[Capitulation|capitulation]]. This resistance was rendered possible by the Greek command
 of the sea, Miaoulis from time to time entering the lagoons with
 supplies; it came to an end when this command was lost. In September
 1825 Ibrahim, at the order of the sultan, had joined Reshid before the
@@ -318,12 +318,12 @@ town; piecemeal the outlying forts and defences now fell, until the
 garrison, reduced by starvation and disease, determined to hazard all on
 a final sortie. This took place on the night of the 22nd of April 1826;
 but a mistaken order threw the ranks of the Greeks into disorder, and
-the Turks entered the town pell-mell with the retreating crowd. Only a
+the Turks entered the town pell-mell with the retreating [[Crowd|crowd]]. Only a
 remnant of the defenders succeeded in gaining the forests of Mount
 Zygos, where most of them perished.
 
 
-  Karaiskakis.
+  [[Karaiskakis]].
 
 The fall of Missolonghi, followed as this was by the submission of many
 of the more notable chiefs, left Reshid free to turn his attention to
@@ -355,14 +355,14 @@ towns actually held by the Turks.
 
 It was at this juncture that the Greek government, reinforced by a fresh
 loan from Europe, handed over the chief command at sea to Lord Cochrane
-(earl of Dundonald, _q.v._), and that of the land forces to General
+(earl of [[Dundonald]], _q.v._), and that of the land forces to General
 (afterwards Sir Richard) Church, both Miaoulis and Karaiskakis
 consenting without demur to serve under them. Cochrane and Church at
 once concentrated their energies on the task of relieving the Acropolis.
 Already, on the 5th of February, General Gordon had landed and
 entrenched himself on the hill of Munychia, near the ancient Piraeus,
 and the efforts of the Turks to dislodge him had failed, mainly owing to
-the fire of the steamer "Karteria" commanded by Captain Hastings. When
+the fire of the steamer "Karteria" commanded by Captain [[Hastings]]. When
 Church and Cochrane arrived, a general assault on the Ottoman camp was
 decided on. This was preceded, on the 25th of April, by an attack,
 headed by Cochrane, on the Turkish troops established near the monastery
@@ -372,7 +372,7 @@ vanguard on the promontory of the Piraeus. The monastery held out for
 two days longer, when the Albanian garrison surrendered on terms, but
 were massacred by the Greeks as they were marching away under escort.
 For this miserable crime Church has, by some historians, been held
-responsible by default; it is clear, however, from his own account that
+responsible by [[Default|default]]; it is clear, however, from his own account that
 no blame rests upon him (see his MS. _Narrative_, vol. i. chap. ii. p.
 34). The assault on the Turkish main camp was fixed for the 6th of May;
 but, unfortunately, a chance skirmish brought on an engagement the day
@@ -398,22 +398,22 @@ Iannina to consolidate his conquests.
 The fate of Greece was now in the hands of the Powers, who after years
 of diplomatic wrangling had at last realized that intervention was
 necessary if Greece was to be saved for European civilization. The worst
-enemy of the Greeks was their own incurable spirit of faction; in the
+enemy of the Greeks was their own incurable spirit of [[Faction|faction]]; in the
 very crisis of their fate, during the siege of Missolonghi, rival
 presidents and rival assemblies struggled for supremacy, and a third
 civil war had only been prevented by the arrival of Cochrane and Church.
 Under their influence a new National Assembly met at Troezene in March
-1827 and elected as president Count Capo d'Istria (_q.v._), formerly
+1827 and elected as president Count [[Capo D'Istria|Capo d'Istria]] (_q.v._), formerly
 Russian minister for foreign affairs; at the same time a new
 constitution was promulgated which, when the very life of the
 insurrection seemed on the point of flickering out, set forth the full
-ideal of Pan-Hellenic dreams. Anarchy followed; war of Rumeliotes
+ideal of Pan-Hellenic [[Dream|dreams]]. Anarchy followed; war of Rumeliotes
 against Moreotes, of chief against chief; rival factions bombarded each
 other from the two forts at Nauplia over the stricken town, and in
 derision of the impotent government. Finally, after months of inaction,
 Ibrahim began once more his systematic devastation of the country. To
 put a stop to this the Powers decided to intervene by means of a joint
-demonstration of their fleets, in order to enforce an armistice and
+demonstration of their fleets, in order to enforce an [[Armistice|armistice]] and
 compel Ibrahim to evacuate the Morea (Treaty of London, July 6, 1827).
 The refusal of Ibrahim to obey, without special instruction from the
 sultan, led to the entrance of the allied British, French and Russian
@@ -425,7 +425,7 @@ war of 1828-29, decided the issue.
   the material now available, and all the existing works must be read
   with caution, especially those by eye-witnesses, who were too often
   prejudiced or the dupes of the Greek factions. The best-known works
-  are: G. Finlay, _Hist. of the Greek Revolution_ (2 vols., London,
+  are: G. [[Finlay]], _Hist. of the Greek Revolution_ (2 vols., London,
   1861); T. Gordon, _Hist. of the Greek Revolution_ (London, 1833); C.
   W. P. Mendelssohn-Bartholdy, _Geschichte Griechenlands_, &c.
   (_Staatengeschichte der neuesten Zeit_) (2 vols., Leipzig, 1870-1874);
@@ -446,11 +446,11 @@ war of 1828-29, decided the issue.
   and Papers of Sir Richard Church, now in the British Museum (Add MSS.
   36,543-36,571). Among these is a Narrative by Church of the war in
   Greece during his tenure of the command (vols. xxi.-xxiii., Nos.
-  36,563-36,565), which contains the material for correcting many errors
+  36,563-36,565), which contains the material for correcting many [[Error|errors]]
   repeated in most works on the war, notably the strictures of Finlay
   and others on Church's conduct before Athens. For further references
   see the bibliography appended to W. Alison Phillips's chapter on
-  "Greece and the Balkan Peninsula" in the _Cambridge Modern History_,
+  "Greece and the [[Balkan Peninsula]]" in the _Cambridge Modern History_,
   x. 803.     (W. A. P.)
 
 
@@ -461,8 +461,8 @@ Indo-European languages (q.v.) are divided. The area in which it is
 spoken has been curiously constant throughout its recorded history.
 These limits are, roughly speaking, the shores of the Aegean, on both
 the European and the Asiatic side, and the intermediate islands (one of
-the most archaic of Greek dialects being found on the eastern side in
-the island of Cyprus), and the Greek peninsula generally from its
+the most archaic of Greek [[Dialect|dialects]] being found on the eastern side in
+the island of [[Cyprus]]), and the Greek peninsula generally from its
 southern promontories as far as the mountains which shut in Thessaly on
 the north. Beyond Mt. Olympus and the Cambunian mountains lay Macedonia,
 in which a closely kindred dialect was spoken, so closely related,
@@ -472,7 +472,7 @@ dialect which included Thessalian to the south and Lesbian to the east.
 In the north-west, Greek included many rude dialects little known even
 to the ancient Greeks themselves, and it extended northwards beyond
 Aetolia and Ambracia to southern Epirus and Thesprotia. In the Homeric
-age the great shrine of Pelasgian Zeus was at Dodona, but, by the time
+age the great shrine of Pelasgian Zeus was at [[Dodona]], but, by the time
 of Thucydides, Aetolia and all north of it had come to be looked upon as
 the most backward of Greek lands, where men lived a savage life,
 speaking an almost unintelligible language, and eating raw flesh
@@ -487,7 +487,7 @@ being the most primitive of any of the Indo-European languages, while
 its verb system has no rival in completeness except in the earliest
 Sanskrit of the Vedic literature. Its noun system, on the other hand, is
 much less complete, its cases being more broken down than those of the
-Aryan, Armenian, Slavonic and Italic families.
+[[Aryan]], Armenian, Slavonic and Italic families.
 
   The most remarkable characteristic of Greek is one conditioned by the
   geographical aspect of the land. Few countries are so broken up with
@@ -508,7 +508,7 @@ Aryan, Armenian, Slavonic and Italic families.
   natural features of the country. Thus at one time in the little island
   of Amorgos there were no less than three separate and independent
   political units. The inevitable result of geographical and political
-  division was the maintenance of a great number of local
+  division was the [[Maintenance|maintenance]] of a great number of local
   characteristics in language, differentiating in this respect also each
   political community from its nearest neighbours. It was only natural
   that the inhabitants of a country so little adapted to maintain a
@@ -519,8 +519,8 @@ Aryan, Armenian, Slavonic and Italic families.
   Carians of Asia Minor (Herodotus i. 171; Thucydides i. 4. 8). The same
   population indeed appears to have preceded them on the mainland of
   Greece, for there are similar place-names in Caria and in Greece which
-  have no etymology in Greek. Thus the endings of words like Parnassus
-  and Halicarnassus seem identical, and the common ending of place-names
+  have no [[Etymology|etymology]] in Greek. Thus the endings of words like Parnassus
+  and [[Halicarnassus]] seem identical, and the common ending of place-names
   in -[Greek: inthos, Korinthos, Probalinthos], &c., seems to be the
   same in origin with the common ending of Asiatic names in -_nda_,
   Alinda, Karyanda, &c. Probably the earliest portion of Asia Minor to
@@ -529,10 +529,10 @@ Aryan, Armenian, Slavonic and Italic families.
   Thesprotians, who later controlled Thessaly. The name Aeolis, which
   after times gave to the N.W. of Asia Minor, was the old name for
   Thessaly (Hdt. vii. 176). These Thesprotians were of the same stock as
-  the Dorians, to whose invasion of the Peloponnese the later migration,
+  the [[Dorians]], to whose invasion of the Peloponnese the later migration,
   which carried the Ionians to Asia and the Cypriot Greeks to Cyprus, in
   all probability was due. From the north Aegean probably the Dorians
-  reached Crete, where alone their existence is recorded by Homer
+  reached Crete, where alone their existence is recorded by [[Homer]]
   (_Odyssey_, xix. 175 ff.; Diodorus Siculus v. 80. 2); cp. Fick,
   _Vorgriechische Ortsnamen_ (1906).
 
@@ -541,14 +541,14 @@ Aryan, Armenian, Slavonic and Italic families.
   Thucydides recognize an Aeolian stock which must have spread over
   Thessaly and far to the west till it was suppressed and absorbed by
   the Dorian stock which came in from the north-west. The name of Aeolis
-  still attached in Thucydides' time to the western area of Calydon
+  still attached in Thucydides' time to the western area of [[Calydon]]
   between the mountains and the N. side of the entrance to the
   Corinthian gulf (iii. 102). In Boeotia the same stock survived (Thuc.
   vii. 57. 5), overlaid by an influx of Dorians, and it came down to the
   isthmus; for the Corinthians, though speaking in historical times a
   Doric dialect, were originally Aeolians (Thuc. iv. 42). In the
   Peloponnese Herodotus recognizes (viii. 73) three original stocks, the
-  Arcadians, the Ionians of Cynuria, and the Achaeans. In Arcadia there
+  Arcadians, the Ionians of Cynuria, and the Achaeans. In [[Arcadia]] there
   is little doubt that the pre-Dorian population maintained itself and
   its language, just as in the mountains of Wales, the Scottish
   Highlands and Connemara the Celtic language has maintained itself
@@ -557,13 +557,13 @@ Aryan, Armenian, Slavonic and Italic families.
   gulf, were expelled by the Achaeans (vii. 94, viii. 73), apparently
   themselves driven from their own homes by the Dorian invasion (Strabo
   viii. p. 333 _fin_.). However this may be, the Achaeans of historical
-  times spoke a dialect akin to that of northern Elis and of the Greeks
+  times spoke a dialect akin to that of northern [[Eli|Elis]] and of the Greeks
   on the north side of the Corinthian gulf. How close the relation may
   have been between the language of the Achaeans of the Peloponnese in
   the Homeric age and their contemporaries in Thessaly we have no means
   of ascertaining definitely, the documentary evidence for the history
   of the dialects being all very much later than Homeric times. Even in
-  the Homeric catalogue Agamemnon has to lend the Arcadians ships to
+  the Homeric [[Catalogue|catalogue]] Agamemnon has to lend the Arcadians ships to
   take them to Troy (_Iliad_, ii. 612). But a population speaking the
   same or a very similar dialect was probably seated on the eastern
   coast, and migrated at the beginning of the Doric invasion to Cyprus.
@@ -580,7 +580,7 @@ Aryan, Armenian, Slavonic and Italic families.
   realized in their dialects, as recorded in their inscriptions, though
   all existing inscriptions belong to a much later period. Thus from the
   ancient Aeolis of northern Greece sprang the historical dialects of
-  Thessaly and Lesbos with the neighbouring coast of Asia Minor. At an
+  Thessaly and [[Lesbos]] with the neighbouring coast of Asia Minor. At an
   early period the Dorians had invaded and to some extent affected the
   character of the southern Thessalian and to a much greater extent that
   of the Boeotian dialect. The dialects of Locris, Phocis and Aetolia
@@ -603,8 +603,8 @@ Aryan, Armenian, Slavonic and Italic families.
   coast of Asia Minor. Be that as it may, legend and language alike
   connected the Athenians with the Ionians, though by the 5th century
   B.C. the Athenians no longer cared to be known by the name (Hdt. i.
-  143). Lemnos, Imbros and Scyros, which had long belonged to Athens,
-  were Athenian also in language. The great island of Euboea and all the
+  143). [[Lemnos]], [[Imbros]] and Scyros, which had long belonged to Athens,
+  were Athenian also in language. The great island of [[Euboea]] and all the
   islands of the central Aegean between Greece and Asia were Ionic.
   Chios, the most northerly Ionic island on the Asiatic coast, seems to
   have been originally Aeolic, and its Ionic retained some Aeolic
@@ -637,13 +637,13 @@ Aryan, Armenian, Slavonic and Italic families.
   dialects of the eastern and the western ends of the island differ from
   one another and from the middle whence our most valuable documents
   come, all are Doric. By Melos and Thera Dorians carried their language
-  to Cos, Calymnus, Cnidus and Rhodes.
+  to Cos, Calymnus, [[Cnidus]] and Rhodes.
 
   These settlements, Aeolic, Ionic and Doric, grew and prospered, and
   like flourishing hives themselves sent out fresh swarms to other
   lands. Most prosperous and energetic of all was Miletus, which
-  established its trading posts in the Black Sea to the north and in the
-  delta of the Nile (Naucratis) to the south. The islands also sent off
+  established its trading posts in the [[Black Sea]] to the north and in the
+  [[Delta|delta]] of the Nile (Naucratis) to the south. The islands also sent off
   their colonies, carrying their dialects with them, Paros to Thasos,
   Euboea to the peninsulas of Chalcidice; the Dorians of Megara guarded
   the entrance to the Black Sea at Chalcedon and Byzantium. While
@@ -687,12 +687,12 @@ Aryan, Armenian, Slavonic and Italic families.
   is steadily increasing. Both dialects change final [omicron] to
   [upsilon], [Greek: apo] passing into [Greek: apy]. Arcadian changes
   the verb ending -[Greek: ai] into -[Greek: oi]. Arcadian uses [delta]
-  or [zeta] for an original _gw_-sound, which appears in Attic Greek as
+  or [zeta] for an original _gw_-sound, which appears in [[Attic]] Greek as
   [beta]: [Greek: zello], Attic [Greek: ballo], "throw." In inflexion
   both agree in changing -[Greek: ao] of masculine -[alpha] stems into
   [Greek: au] (Arcadian carries this form also into the feminine
   -[alpha] stems), and in using locatives in -[Greek: ai] and -[Greek:
-  oi] for the dative, such locatives being governed by the prepositions
+  oi] for the [[Dative|dative]], such locatives being governed by the prepositions
   [Greek: apy] and [Greek: ex] (before a consonant [Greek: es] in
   Arcadian). Verbs in -[Greek: ao], -[Greek: eo] and -[Greek: oo] are
   declined not as -[omega], but as -[Greek: mi] verbs. The final [iota]
@@ -715,7 +715,7 @@ Aryan, Armenian, Slavonic and Italic families.
   [Greek: Belphaios] the adjective in Thessalian to [Greek: Delphoi],
   and [Greek: pher] for [Greek: ther]. They all tend to change [omicron]
   to [upsilon]: [Greek: onyma], "name"; [Greek: ou] for [omega] in
-  Thessalian: [Greek: Aploun], "Apollo"; and [upsilon] in Boeotian for
+  Thessalian: [Greek: Aploun], "[[Apollo]]"; and [upsilon] in Boeotian for
   [Greek: oi]: [Greek: wukia] ([Greek: oikia]), "house." They also make
   the dative plural of the third declension in -[Greek: essi], and the
   perfect participle active is declined like a present participle in
@@ -760,12 +760,12 @@ Aryan, Armenian, Slavonic and Italic families.
   [Greek: daphne] are found, and both groups form the "contracting
   verbs" not in -[omega] but in -[Greek: mi]. In the second group as in
   the first there is little that precedes the 5th century B.C. Future
-  additions to our materials may be expected to lessen the gap between
+  additions to our materials may be expected to lessen the [[Gap|gap]] between
   the two groups and Homer.
 
   3. _Ionic-Attic._--One of the earliest of Greek inscriptions--of the
   7th century, at least--is the Attic inscription written in two lines
-  from right to left upon a wine goblet ([Greek: oinochoe]) given as a
+  from right to left upon a wine [[Goblet|goblet]] ([Greek: oinochoe]) given as a
   prize: [Greek: hos nun orcheston panton | atalotata paizei toto dekan
   min]. The last words are uncertain. Till lately early inscriptions in
   Ionic were few, but recently an early inscription has been found at
@@ -782,7 +782,7 @@ Aryan, Armenian, Slavonic and Italic families.
   took place after the Ionians came into Asia is shown by the word
   [Greek: Medoi], which in Cyprian is [Greek: Madoi]; the Medes were
   certainly not known to the Greeks till long after the conquest of
-  Ionia. While Aeolic and the greater part of Doric kept [digamma], this
+  [[Ionia]]. While Aeolic and the greater part of Doric kept [digamma], this
   symbol and the sound _w_ represented by it had disappeared from both
   Ionic and Attic before existing records begin--in other words, were
   certainly not in use after 800 B.C. The symbol was known and occurs in
@@ -848,7 +848,7 @@ Aryan, Armenian, Slavonic and Italic families.
   have -[sigma]-, or contraction from presents in-[Greek: zo]; dikazo,
   dikaso], Doric [Greek: dikaxo], &c.; the future passive with active
   endings, [Greek: epimeletheseunti] (Rhodes), found as yet only in the
-  Doric islands and in the Doric prose of Archimedes; the particles
+  Doric islands and in the Doric prose of [[Archimedes]]; the particles
   [Greek: ai] "if" and [Greek: ka] with a similar value to the Aeolic
   [Greek: ke] and the Attic-Ionic [Greek: an]. Doric had an accentuation
   system different both from Aeolic and from Ionic-Attic, but the
@@ -861,12 +861,12 @@ Aryan, Armenian, Slavonic and Italic families.
   which in time engulfed all the local dialects except the descendant of
   Spartan, Tzakonian. Here it is possible to mention its varieties only
   in the briefest form. (a) The southern dialects are well illustrated
-  in the inscriptions of Laconia recently much increased in number by
+  in the inscriptions of [[Laconia]] recently much increased in number by
   the excavations of the British School at Athens. Apart from some brief
-  dedications, the earliest inscription of importance is the list of
+  [[Dedication|dedications]], the earliest inscription of importance is the list of
   names placed on a bronze column soon after 479 B.C. to commemorate the
   tribes which had repulsed the Persians. The column, originally at
-  Delphi, is now at Constantinople. The most striking features of the
+  [[Delphi]], is now at Constantinople. The most striking features of the
   dialect are the retention of [digamma] at the beginning of words, as
   in the dedication from the 6th century [Greek: wanaxibios] (_Annual of
   British School_, xiv. 144). The dialect changed -[sigma]- between
@@ -887,7 +887,7 @@ Aryan, Armenian, Slavonic and Italic families.
   prassontassi] = Attic [Greek: prattousi]. Of the dialect of Messenia
   we know little, the long inscription about mysteries from Andania
   being only about 100 B.C. From Argolis there are a considerable number
-  of early inscriptions, and in a later form of the dialect the cures
+  of early inscriptions, and in a later form of the dialect the [[Cures|cures]]
   recorded at the temple of Asklepios at Epidaurus present many points
   of interest. There is also an inscription of the 6th century B.C. from
   the temple of Aphaia in Aegina. [Digamma] survives in the old
@@ -967,7 +967,7 @@ Aryan, Armenian, Slavonic and Italic families.
   Doric. Much more remarkable is the Elean dialect known chiefly from
   inscriptions found at Olympia, some of which are as early as the
   beginning of the 6th century. The native dialect was replaced first by
-  a Doric and then by the Attic [Greek: koine], but under the Caesars
+  a Doric and then by the Attic [Greek: koine], but under the [[Caesar|Caesars]]
   the archaic dialect was restored. Many of its characteristics it
   shares with the dialects north of the Corinthian gulf, but it changes
   original [epsilon] to [alpha]: [Greek: ma = me], &c.; [delta] was
@@ -994,11 +994,11 @@ Aryan, Armenian, Slavonic and Italic families.
   was therefore Aeolic; Stesichorus was the founder of the triumphal
   ode, which, as he was a Dorian of Sicily, must henceforth be in Doric,
   though Pindar was an Aeolian, and its other chief representatives,
-  Simonides and Bacchylides, were Ionians from Ceos. The choral ode of
+  Simonides and Bacchylides, were Ionians from [[Ceos]]. The choral ode of
   tragedy was always conventional Doric, and in the iambics also are
-  Doric words like [Greek: drao, lao], &c. Elegy and epigram were
+  Doric words like [Greek: drao, lao], &c. [[Elegy]] and epigram were
   founded on epic; the satirical iambics of Hipponax and his late
-  disciple Herondas are Ionic. The first Greek prose was developed in
+  [[Disciple|disciple]] Herondas are Ionic. The first Greek prose was developed in
   Ionia, of which an excellent example has been preserved to us in
   Herodotus. Thucydides was not an Ionian, but he could not shake
   himself free of the tradition: he therefore writes [Greek: prasso,
@@ -1006,9 +1006,9 @@ Aryan, Armenian, Slavonic and Italic families.
   in Attic inscriptions nor in the writers who imitate the language of
   common life--Aristophanes (when not parodying tragedy, or other forms
   of literature or dialect), Plato and the Orators (with the partial
-  exception of Antiphon, who ordinarily has -[Greek: ss]-, but in the
+  exception of [[Antiphon]], who ordinarily has -[Greek: ss]-, but in the
   one speech actually intended for the law-courts -[Greek: tt]-).
-  Similarly Hippocrates and his medical school in Cos wrote in Ionic,
+  Similarly [[Hippocrates]] and his medical school in Cos wrote in Ionic,
   not, however, in the Ionic of Herodotus, but in a language more akin
   to the Ionic [Greek: koine] of the inscriptions; and this dialect
   continued to be used in medicine later, much as doctors now use Latin
@@ -1016,7 +1016,7 @@ Aryan, Armenian, Slavonic and Italic families.
   prose is the treatise on the _Constitution of Athens_, which is
   generally printed amongst the minor works of Xenophon, but really
   belongs to about 425 B.C. From the fragment of Aristophanes'
-  _Banqueters_ and from the first speech of Lysias "Against
+  _Banqueters_ and from the first speech of [[Lysias]] "Against
   Theomnestos" it is clear that the Attic dialect had changed rapidly in
   the 6th and 5th centuries B.C., and that much of the phraseology of
   Solon's laws was no longer intelligible by 400 B.C. Among the most
@@ -1028,7 +1028,7 @@ Aryan, Armenian, Slavonic and Italic families.
   Aeolisms, and the heroes sung are, except for the Athenians (very
   briefly referred to), and possibly Telamonian Ajax, not of the Ionic
   stock. Chios was itself an Ionicized Aeolic colony (Diodorus v. 81.
-  7). The hypothesis of a great poet writing on the basis of earlier
+  7). The [[Hypothesis|hypothesis]] of a great poet writing on the basis of earlier
   Aeolic lays ([Greek: klea andron]) in Chios seems to explain the main
   peculiarities of the Homeric language, which, however, was modified to
   some extent in later times first under Ionic and afterwards under
@@ -1067,24 +1067,24 @@ Aryan, Armenian, Slavonic and Italic families.
   lochagos, kunagos], &c. A soldier of fortune like Xenophon, who spent
   most of his life away from Athens, introduced not only strange words
   but strange grammatical constructions also into his literary
-  compositions. With Aristotle, not a born Athenian but long resident in
+  compositions. With [[Aristotle]], not a born Athenian but long resident in
   Athens, the [Greek: koine] may be said to have begun. Some
   characteristics of Attic foreigners found it hard to acquire--its
   subtle use of particles and its accent. Hence in Hellenistic Greek
   particles are comparatively rare. According to Cicero, Theophrastus,
-  who came from as near Attica as Eretria in Euboea, was easily detected
+  who came from as near Attica as [[Eretria]] in Euboea, was easily detected
   by a market-woman as no Athenian after he had lived thirty years in
   Athens. Thoucritus, an Athenian, who was taken prisoner in the
   Peloponnesian War and lived for many years in Epirus as a slave, was
   unable to recover the Athenian accent on his return, and his family
   lay under the suspicion that they were an alien's children, as his son
-  tells us in Demosthenes' speech "Against Eubulides." In the [Greek:
+  tells us in Demosthenes' speech "Against [[Eubulides]]." In the [Greek:
   koine] there were several divisions, though the line between them is
   faint and irregular. There was a [Greek: koine] of literary men like
   Polybius and of carefully prepared state documents, as at Magnesia or
   Pergamum; and a different [Greek: koine] of the vulgar which is
   represented to us in its Egyptian form in the Pentateuch, in a later
-  and at least partially Palestinian form in the Gospels. Still more
+  and at least partially Palestinian form in the [[Gospel|Gospels]]. Still more
   corrupt is the language which we find in the ill-written and ill-spelt
   private letters found amongst the Egyptian papyri. Not out of the old
   dialects but out of this [Greek: koine] arose modern Greek, with a
@@ -1094,10 +1094,10 @@ Aryan, Armenian, Slavonic and Italic families.
   and diphthongs began to pass into the characteristic sounds of modern
   Greek four centuries before Christ. Dorian dialects illustrate early
   the passing of the old aspirate [Greek: th], the sound of which was
-  like the final t in English _bit_, into a sound like the English _th_
+  like the final t in English _[[Bit|bit]]_, into a sound like the English _th_
   in _thin_, _pith_, which it still retains in modern Greek. The change
   of [gamma] between vowels into a y sound was charged by the comic
-  poets against Hyperbolus the demagogue about 415 B.C. Only when the
+  poets against Hyperbolus the [[Demagogue|demagogue]] about 415 B.C. Only when the
   Attic sound changes stood isolated amongst the Greek dialects did they
   give way in the [Greek: koine] to Ionic. Thus the forms with -[Greek:
   ss]- instead of -[Greek: tt]- won the day, while modern Greek shows
@@ -1117,7 +1117,7 @@ Aryan, Armenian, Slavonic and Italic families.
   -[Greek: mi] conjugation, the loss of the optative and the
   assimilation of the imperfect and second aorist endings to those of
   the first aorist.[2] There were meantime spasmodic attempts at the
-  revival of the old language. Lucian wrote Attic dialogue with a
+  revival of the old language. Lucian wrote Attic [[Dialogue|dialogue]] with a
   facility almost equal to Plato; the old dialect was revived in the
   inscriptions of Sparta; Balbilla, a lady-in-waiting on Hadrian's
   empress, wrote epigrams in Aeolic, and there were other attempts of
@@ -1128,14 +1128,14 @@ Aryan, Armenian, Slavonic and Italic families.
   entirely different from Attic Greek. Apart from non-Attic
   constructions, which are not very numerous, the difference consists
   largely in the new vocabulary of the philosophical schools since
-  Aristotle, whose jargon had become part of the language of educated
+  Aristotle, whose [[Jargon|jargon]] had become part of the language of educated
   men in Plutarch's time, and made a difference in the language not
   unlike that which has been brought about in English by the development
   of the natural sciences. It is hardly necessary to say that these
   changes, whether of the [Greek: koine] or of modern Greek, did not of
   necessity impair the powers of the language as an organ of expression;
   if elaborate inflection were a necessity for the highest literary
-  merit, then we must prefer Caedmon to Milton and Cynewulf to
+  merit, then we must prefer [[Caedmon]] to Milton and [[Cynewulf]] to
   Shakespeare.
 
 
@@ -1446,7 +1446,7 @@ Aryan, Armenian, Slavonic and Italic families.
   Thompson (London, 1902). The grammar of Homer was handled by D. B.
   Monro (2nd ed., Oxford, 1891). The syntax has been treated in many
   special works, amongst which may be mentioned W. W. Goodwin, _Syntax
-  of the Greek Moods and Tenses_ (new ed., 1889); B. L. Gildersleeve and
+  of the Greek Moods and Tenses_ (new ed., 1889); B. L. [[Gildersleeve]] and
   C. W. E. Miller, _Syntax of Classical Greek from Homer to
   Demosthenes_, pt. i. (New York, 1901--and following); J. M. Stahl,
   _Kritisch-historische Syntax des griechischen Verbums_ (1907); F. E.
@@ -1458,16 +1458,16 @@ Aryan, Armenian, Slavonic and Italic families.
   Sprachen_ (the 2nd ed., begun 1897, is still incomplete) and
   Brugmann's _Kurze vergleichende Grammatik_ (1902-1903); A. Meillet,
   _Introduction a l'etude comparative des langues indo-europeennes_ (2nd
-  ed., 1908). Greek compared with Latin and English: P. Giles, _A Short
-  Manual of Comparative Philology for Classical Students_ (2nd ed.,
+  ed., 1908). Greek compared with Latin and English: P. [[Giles]], _A Short
+  [[Manual]] of Comparative Philology for Classical Students_ (2nd ed.,
   1901, with an appendix containing a brief account and specimens of the
   dialects); Riemann and Goelzer, _Grammaire comparative du Grec et du
   Latin_ (1901), a parallel grammar in 2 vols., specially valuable for
   syntax. (iii.) For the dialects two works have recently appeared, both
   covering in brief space the whole field: A. Thumb, _Handbuch der
   griechischen Dialekte_ (with bibliographies for each dialect, 1909);
-  C. D. Buck, _Introduction to the Study of the Greek Dialects, Grammar,
-  Selected Inscriptions, Glossary_ (Boston, 1910). Works on a larger
+  C. D. [[Buck]], _Introduction to the Study of the Greek Dialects, Grammar,
+  Selected Inscriptions, Glossary_ ([[Boston]], 1910). Works on a larger
   scale have been undertaken by R. Meister, by O. Hoffmann and by H. W.
   Smyth. For the [Greek: koine] may be specially mentioned A. Thumb,
   _Die griech. Sprache in Zeitalter des Hellenismus_ (1901); E. Mayser,

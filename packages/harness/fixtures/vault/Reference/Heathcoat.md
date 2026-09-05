@@ -7,12 +7,12 @@ topic: heraldry
 # Heathcoat
 
 HEATHCOAT, JOHN (1783-1861), English inventor, was born at Duffield near
-Derby on the 7th of August 1783. During his apprenticeship to a
+[[Derby]] on the 7th of August 1783. During his apprenticeship to a
 framesmith near Loughborough, he made an improvement in the construction
 of the warp-loom, so as to produce mitts of a lace-like appearance by
 means of it. He began business on his own account at Nottingham, but
 finding himself subjected to the intrusion of competing inventors he
-removed to Hathern. There in 1808 he constructed a machine capable of
+removed to Hathern. There in 1808 he constructed a [[Machine|machine]] capable of
 producing an exact imitation of real pillow-lace. This was by far the
 most expensive and complex textile apparatus till then existing; and in
 describing the process of his invention Heathcoat said in 1836, "The
@@ -22,14 +22,14 @@ not attempt its accomplishment." Some time before perfecting his
 invention, which he patented in 1809, he removed to Loughborough, where
 he entered into partnership with Charles Lacy, a Nottingham
 manufacturer; but in 1816 their factory was attacked by the Luddites and
-their 55 lace frames destroyed. The damages were assessed in the King's
-Bench at L10,000; but as Heathcoat declined to expend the money in the
+their 55 [[Lace|lace]] [[Frame|frames]] destroyed. The damages were assessed in the King's
+[[Bench]] at L10,000; but as Heathcoat declined to expend the money in the
 county of Leicester he never received any part of it. Undaunted by his
 loss, he began at once to construct new and greatly improved machines in
 an unoccupied factory at Tiverton, Devon, propelling them by water-power
 and afterwards by steam. His claim to the invention of the twisting and
 traversing lace machine was disputed, and a patent was taken out by a
-clever workman for a similar machine, which was decided at a trial in
+[[Clever|clever]] workman for a similar machine, which was decided at a trial in
 1816 to be an infringement of Heathcoat's patent. He followed his great
 invention by others of much ability, as, for instance, contrivances for
 ornamenting net while in course of manufacture and for making ribbons

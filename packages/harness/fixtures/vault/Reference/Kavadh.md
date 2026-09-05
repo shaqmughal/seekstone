@@ -5,8 +5,8 @@ mythical history of the old Iranian kingdom as Kai Kobadh (Kaikobad). It
 was borne by two kings of the Sassanid dynasty.
 
 (1) KAVADH I., son of Peroz, crowned by the nobles in 488 in place of
-his uncle Balash, who was deposed and blinded. At this time the empire
-was utterly disorganized by the invasion of the Ephthalites or White
+his uncle [[Balash]], who was deposed and blinded. At this time the empire
+was utterly disorganized by the invasion of the [[Ephthalites]] or White
 Huns from the east. After one of their victories against Peroz, Kavadh
 had been a hostage among them during two years, pending the payment of a
 heavy ransom. In 484 Peroz had been defeated and slain with his whole
@@ -26,16 +26,16 @@ and applied for subsidies to Rome, which had before supported the
 Persians. But now the emperor Anastasius refused subsidies, expecting
 that the two rival powers of the East would exhaust one another in war.
 At the same time he intervened in the affairs of the Persian part of
-Armenia. So Kavadh joined the Ephthalites and began war against the
+[[Armenia]]. So Kavadh joined the Ephthalites and began war against the
 Romans. In 502 he took Theodosiopolis in Armenia, in 503 Amida
 (Diarbekr) on the Tigris. In 505 an invasion of Armenia by the western
-Huns from the Caucasus led to an armistice, during which the Romans paid
-subsidies to the Persians for the maintenance of the fortifications on
+Huns from the [[Caucasus]] led to an [[Armistice|armistice]], during which the Romans paid
+subsidies to the Persians for the [[Maintenance|maintenance]] of the fortifications on
 the Caucasus. When Justin I. (518-527) came to the throne the conflict
 began anew. The Persian vassal, Mondhir of Hira, laid waste Mesopotamia
-and slaughtered the monks and nuns. In 531 Belisarius was beaten at
+and slaughtered the monks and nuns. In 531 [[Belisarius]] was beaten at
 Callinicum. Shortly afterwards Kavadh died, at the age of eighty-two, in
-September 531. During his last years his favourite son Chosroes had had
+September 531. During his last years his favourite son [[Chosroes]] had had
 great influence over him and had been proclaimed successor. He also
 induced Kavadh to break with the Mazdakites, whose doctrine had spread
 widely and caused great social confusion throughout Persia. In 529 they

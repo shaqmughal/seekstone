@@ -18,29 +18,29 @@ it is important as the seat of the colonial government of the Dutch East
 Indies, all other parts of the Dutch territory being distinguished as
 the Outer Possessions (_Buitenbezittungens_). According to the
 triangulation survey (report published in 1901) the area of Java proper
-is 48,504 sq. m.; of Madura, the large adjacent and associated island,
+is 48,504 sq. m.; of [[Madura]], the large adjacent and associated island,
 1732; and of the smaller islands administratively included with Java and
 Madura 1416, thus making a total of 50,970 sq. m. The more important of
 these islands are the following: Pulau Panaitan or Princes Island
 (_Prinseneiland_), 47 sq. m., lies in the Sunda Strait, off the
 south-western peninsula of the main island, from which it is separated
 by the Behouden Passage. The Thousand Islands are situated almost due N.
-of Batavia. Of these five were inhabited in 1906 by about 1280 seafarers
+of [[Batavia]]. Of these five were inhabited in 1906 by about 1280 seafarers
 from all parts and their descendants. The Karimon Java archipelago, to
 the north of Semarang, numbers twenty-seven islands with an area of 16
 sq. m. and a population of about 800 (having one considerable village on
 the main island). Bavian[1] (Bawian), 100 m. N. of Surabaya, is a ruined
 volcano with an area of 73 sq. m. and a population of about 44,000.
-About a third of the men are generally absent as traders or coolies. In
+About a third of the men are generally absent as traders or [[Coolie|coolies]]. In
 Singapore and Sumatra they are known as Boyans. They are devout
-Mahommedans and many of them make the pilgrimage to Mecca. The Sapudi
+Mahommedans and many of them make the pilgrimage to [[Mecca]]. The Sapudi
 and Kangean archipelagoes are eastward continuations of Madura. The
 former, thirteen in all, with an area of 58 sq. m. and 53,000
 inhabitants, export cattle, dried fish and trepang; and many of the male
 population work as day labourers in Java or as lumbermen in Sumbawa,
-Flores, &c. The main island of the Kangians has an area of 19 sq. m.;
-the whole group 23 sq. m. It is best known for its limestone caves and
-its buffaloes. Along the south coast the islands are few and
+[[Flores]], &c. The main island of the Kangians has an area of 19 sq. m.;
+the whole group 23 sq. m. It is best known for its [[Limestone|limestone]] caves and
+its [[Buffalo|buffaloes]]. Along the south coast the islands are few and
 small--Klapper or Deli, Trouwers or Tingal, Nusa Kembangan, Sempu and
 Nusa Barung.
 
@@ -48,7 +48,7 @@ Nusa Barung.
 
 From Sumatra on the W., Java is separated by the Sunda Strait, which at
 the narrowest is only 14 m. broad, but widens elsewhere to about 50 m.
-On the E. the strait of Bali, which parts it from the island of that
+On the E. the strait of [[Bali]], which parts it from the island of that
 name, is at the northern end not more than 1½ m. across. Through the
 former strong currents run for the greater part of the day throughout
 the year, outwards from the Java Sea to the Indian Ocean. In the strait
@@ -67,20 +67,20 @@ lies between the ocean on the S. and the Chinese Sea on the N., and has
 the massive island of Borneo as its chief subaerial portion. While the
 waves and currents of the ocean sweep away most of the products of
 denudation along the south coast or throw a small percentage back in the
-shape of sandy downs, the Java Sea on the north--not more than 50
-fathoms deep--allows them to settle and to form sometimes with
+shape of sandy [[Downs|downs]], the Java Sea on the north--not more than 50
+[[Fathom|fathoms]] deep--allows them to settle and to form sometimes with
 extraordinary rapidity broad alluvial tracts.[3]
 
   It is customary and obvious to divide Java into three divisions, the
   middle part of the island narrowing into a kind of isthmus, and each
   of the divisions thus indicated having certain structural
-  characteristics of its own. West Java, which consists of Bantam,
+  characteristics of its own. West Java, which consists of [[Bantam]],
   Krawang and the Preanger Regencies, has an area of upwards of 18,000
   sq. m. In this division the highlands lie for the most part in a
   compact mass to the south and the lowlands form a continuous tract to
   the north. The main portion of the uplands consists of the Preanger
   Mountains, with the plateaus of Bandong, Pekalongan, Tegal, Badung and
-  Gurut, encircled with volcanic summits. On the borders of the
+  Gurut, encircled with volcanic summits. On the [[Borders|borders]] of the
   Preanger, Batavia and Bantam are the Halimon Mountains (the Blue
   Mountains of the older travellers), reaching their greatest altitudes
   in the volcanic summits of Gedeh and Salak. To the west lie the
@@ -101,16 +101,16 @@ extraordinary rapidity broad alluvial tracts.[3]
   about 17,500 sq. m. In this division lowlands and highlands are
   intermingled in endless variety except along the south coast, where
   the watershed-range forms a continuous breakwater from Jokjakarta to
-  Besuki. The volcanic eminences, instead of rising in lines or groups,
+  Besuki. The volcanic [[Eminence|eminences]], instead of rising in lines or groups,
   are isolated.
 
   For its area Java is one of the most distinctly volcanic regions of
   the world. Volcanic forces made it, and volcanic forces have continued
   to devastate and fertilize it. According to R. D. M. Verbeek about 125
   volcanic centres can be distinguished, a number which may be increased
-  or diminished by different methods of classification. It is usual to
+  or diminished by different methods of [[Classification|classification]]. It is usual to
   arrange the volcanoes in the following groups: westernmost Java 11
-  (all extinct); Preanger 50 (5 active); Cheribon 2 (both extinct);
+  (all extinct); Preanger 50 (5 active); [[Cheribon]] 2 (both extinct);
   Slamet 2 (1 active); middle Java 16 (2 active); Murio 2 (both
   extinct); Lavu 2 (extinct); Wilis 2 (extinct); east Java 21 (5
   active). The active volcanoes of the present time are Gedeh,
@@ -120,13 +120,13 @@ extraordinary rapidity broad alluvial tracts.[3]
   of steam and scoriae.
 
   The plains differ in surface and fertility, according to their
-  geological formation. Built up of alluvium and diluvium, the plains of
+  geological formation. Built up of alluvium and [[Diluvium|diluvium]], the plains of
   the north coast-lands in western and middle Java are at their lowest
   levels, near the mouths of rivers and the sea, in many cases marshy
-  and abounding in lakes and coral remains, but for the rest they are
+  and abounding in lakes and [[Coral|coral]] remains, but for the rest they are
   fertile and available for culture. The plains, too, along the south
   coast of middle Java--of Banyumas and Bagelen--contain many morasses
-  as well as sandy stretches and dunes impeding the outlet of the
+  as well as sandy stretches and [[Dunes|dunes]] impeding the outlet of the
   rivers. They are, nevertheless, available for the cultivation more
   particularly of rice, and are thickly peopled. In eastern Java, again,
   the narrow coast plains are to be distinguished from the wider plains
@@ -181,8 +181,8 @@ extraordinary rapidity broad alluvial tracts.[3]
   in three ridges, rising to 50 ft. high, and varying in breadth from
   300 to over 1600 ft., liable, moreover, to transformation from tides
   and the east monsoon, oppose everywhere, also in Preanger and Besuki,
-  a barrier to the discharge of the rivers and the drainage of the
-  coast-lands. They assist the formation of lagoons and morasses. At
+  a barrier to the [[Discharge|discharge]] of the rivers and the drainage of the
+  coast-lands. They assist the formation of [[Lagoon|lagoons]] and morasses. At
   intervals in the dune coast, running in the direction of the limestone
   mountains, there tower up steep inaccessible masses of land, showing
   neither ports nor bays, hollowed out by the sea, rising in
@@ -207,13 +207,13 @@ extraordinary rapidity broad alluvial tracts.[3]
   Orthophragmina; and these beds are as limited in extent as the
   Cretaceous schists themselves. Sedimentary deposits of Upper Tertiary
   age are widely spread, covering about 38% of the surface. They consist
-  of breccias, marls and limestones containing numerous fossils, and are
+  of [[Breccia|breccias]], [[Marl|marls]] and limestones containing numerous fossils, and are
   for the most part Miocene but probably include a part of the Pliocene
   also. They were laid down beneath the sea, but have since been folded
   and elevated to considerable heights. Fluviatile deposits of late
   Pliocene age have been found in the east of Java, and it was in these
-  that the remarkable anthropoid ape or ape-like man, _Pithecanthropus
-  erectus_ of Dubois, was discovered. The Quaternary deposits lie
+  that the remarkable anthropoid [[Ape|ape]] or ape-like man, _Pithecanthropus
+  erectus_ of [[Dubois]], was discovered. The Quaternary deposits lie
   horizontally upon the upturned edges of the Tertiary beds. They are
   partly marine and partly fluviatile, the marine deposits reaching to a
   height of some 350 ft. above the sea and thus indicating a
@@ -223,7 +223,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   of the island. The eruptions began in the middle of the Tertiary
   period, but did not attain their maximum until Quaternary times, and
   many of the volcanoes are still active. Most of the cones seem to lie
-  along faults parallel to the axis of the island, or on short cross
+  along [[Fault|faults]] parallel to the axis of the island, or on short cross
   fractures. The lavas and ashes are almost everywhere andesites and
   basalts, with a little obsidian. Some of the volcanoes, however, have
   erupted leucite rocks. Similar rocks, together with phonolite, occur
@@ -236,7 +236,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   obvious: Java lies in the tropics, under an almost vertical sun, and
   thus has a day of almost uniform length throughout the year.[6] It is
   also within the perpetual influence of the great atmospheric movements
-  passing between Asia and Australia; and is affected by the
+  passing between Asia and [[Australia]]; and is affected by the
   neighbourhood of vast expanses of sea and land (Borneo and Sumatra).
   There are no such maxima of temperature as are recorded from the
   continents. The highest known at Batavia was 96° F. in 1877 and the
@@ -254,7 +254,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   coast towns are surprised at the invigorating effects of a change to
   health resorts from 300 to 1200 ft. above sea-level; and at greater
   elevations it may be uncomfortably cold at night, with chilly mists
-  and occasional frosts. The year is divided into two seasons by the
+  and occasional [[Frost|frosts]]. The year is divided into two seasons by the
   prevailing winds: the rainy season, that of the west monsoon, lasting
   from November to March, and the dry season, that of the east monsoon,
   during the rest of the year; the transition from one monsoon to
@@ -278,7 +278,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   The rainfall is heaviest in January, but it rains only for about
   one-seventh of the time. Next in order come February, March and
   December. August, the driest month, has from three to five days of
-  rain, though the amount is usually less than an inch and not more than
+  rain, though the amount is usually less than an [[Inch|inch]] and not more than
   one and a half inches. The popular description of the rain falling not
   in drops but streams was proved erroneous by J. Wiesner's careful
   observations (see _Kais. Akad. d. Wiss. Math. Naturw. Cl._ Bd. xiv.,
@@ -287,7 +287,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   The greatest rainfall recorded in an hour (4.5 in.) is enormously
   exceeded by records even in Europe. From observations taken for the
   meteorological authorities at a very considerable number of stations,
-  J. H. Boeseken constructed a map in 1900 (_Tijdschr. v. h. Kon. Ned.
+  J. H. Boeseken constructed a [[Map|map]] in 1900 (_Tijdschr. v. h. Kon. Ned.
   Aardr. Gen._, 1900; reproduced in Veth, _Java_, iii. 1903). Among the
   outstanding facts are the following. The south coasts of both eastern
   and middle Java have a much heavier rainfall than the north. Majalenka
@@ -305,27 +305,27 @@ extraordinary rapidity broad alluvial tracts.[3]
   north coast.[7]
 
   _Fauna._--In respect of its fauna Java differs from Borneo, Sumatra
-  and the Malay Peninsula far more than these differ among themselves;
+  and the [[Malay Peninsula]] far more than these differ among themselves;
   and, at the same time, it shows a close resemblance to the Malay
-  Peninsula, on the one hand, and to the Himalayas on the other. Of the
+  Peninsula, on the one hand, and to the [[Himalaya|Himalayas]] on the other. Of the
   176 mammals of the whole Indo-Malayan region the greater number occur
   in Java. Of these 41 are found on the continent of Asia, 8 are common
   to Java and Borneo, and 6 are common to Java and Sumatra (see M.
   Weber, _Das Indo-Malay Archipelago und die Geschichte seiner
-  Thierwelt_, Jena, 1902). No genus and only a few species are confined
+  Thierwelt_, [[Jena]], 1902). No genus and only a few species are confined
   to the island. Of the land-birds only a small proportion are peculiar.
-  The elephant, the tapir, the bear, and various other genera found in
+  The [[Elephant|elephant]], the tapir, the bear, and various other genera found in
   the rest of the region are altogether absent. The Javanese rhinoceros
   (_Rhinoceros sundaicus_; _sarak_ in Javanese, _badak_ in Sundanese),
   the largest of the mammals on the island, differs from that of Sumatra
-  in having one horn instead of two. It ranges over the highest
+  in having one [[Horn|horn]] instead of two. It ranges over the highest
   mountains, and its regular paths, worn into deep channels, may be
   traced up the steepest slopes and round the rims of even active
   volcanoes. Two species of wild swine, _Sus vittatus_ and _Sus
   verrucosus_, are exceedingly abundant, the former in the hot, the
   latter in the temperate, region; and their depredations are the cause
   of much loss to the natives, who, however, being Mahommedans, to whom
-  pork is abhorrent, do not hunt them for the sake of their flesh. Not
+  pork is abhorrent, do not [[Hunt|hunt]] them for the sake of their flesh. Not
   much less than the rhinoceros is the banteng (_Bibos banteng_ or
   _sundaicus_) found in all the uninhabited districts between 2000 and
   7000 ft. of elevation. The kidang or muntjak (_Cervulus muntjac_) and
@@ -333,14 +333,14 @@ extraordinary rapidity broad alluvial tracts.[3]
   representatives of the deer kind. The former is a delicate little
   creature occurring singly or in pairs both in the mountains and in the
   coast districts; the latter lives in herds of fifty to a hundred in
-  the grassy opens, giving excellent sport to the native hunters.
+  the grassy opens, giving excellent sport to the native [[Hunter|hunters]].
   Another species (_Russa kuhlii_) exists in Bavian. The kantjil
   (_Tragulus javanicus_) is a small creature allied to the musk-deer but
   forming a genus by itself. It lives in the high woods, for the most
   part singly, seldom in pairs. It is one of the most peculiar of the
   Javanese mammals. The royal tiger, the same species as that of India,
   is still common enough to make a tiger-hunt a characteristic Javanese
-  scene. The leopard (_Felis pardus_) is frequent in the warm regions
+  scene. The [[Leopard|leopard]] (_Felis pardus_) is frequent in the warm regions
   and often ascends to considerable altitudes. Black specimens
   occasionally occur, but the spots are visible on inspection; and the
   fact that in the Amsterdam zoological gardens a black leopard had one
@@ -353,8 +353,8 @@ extraordinary rapidity broad alluvial tracts.[3]
   The Cheiroptera hold a prominent place in the fauna, the principal
   genera being _Pteropus_, _Cynonycteris_, _Cynopterus_ and
   _Macroglossus_. Remarkable especially for size is the kalong, or
-  flying fox, _Pteropus edulis_, a fruit-eating bat, which may be seen
-  hanging during the day in black clusters asleep on the trees, and in
+  flying [[Fox|fox]], _Pteropus edulis_, a fruit-eating bat, which may be seen
+  [[Hanging|hanging]] during the day in black clusters asleep on the trees, and in
   the evening hastening in long lines to the favourite feeding grounds
   in the forest. The damage these do to the young coco-nut trees, the
   maize and the sugar-palms leads the natives to snare and shoot them;
@@ -367,8 +367,8 @@ extraordinary rapidity broad alluvial tracts.[3]
   Surakarta and Madiun. The creature known to the Europeans as the
   flying-cat and to the natives as the kubin is the _Galeopithecus
   volans_ or _variagatus_--a sort of transition from the bats to the
-  lemuroids. Of these last Java has several species held in awe by the
-  natives for their supposed power of fascination. The apes are
+  lemuroids. Of these last Java has several species held in [[Awe|awe]] by the
+  natives for their supposed power of [[Fascination|fascination]]. The apes are
   represented by the wou-wou (_Hylobates leuciscus_), the lutung, and
   kowi (_Semnopithecus maurus_ and _pyrrhus_), the surili
   (_Semnopithecus mitratus_), and the munyuk (_Cercocebus_, or _Macacus,
@@ -382,15 +382,15 @@ extraordinary rapidity broad alluvial tracts.[3]
   (including the brown Norway rat, often called _Mus javanicus_, as if
   it were a native; a great plague); mice in great variety; porcupines
   (_Acanthion javanicum_); squirrels (five species) and flying squirrels
-  (four species) represent the rodents. A hare, _Lepus nigricollis_,
-  originally from Ceylon, has a very limited habitat; the Insectivora
+  (four species) represent the rodents. A [[Hare|hare]], _Lepus nigricollis_,
+  originally from Ceylon, has a very limited habitat; the [[Insectivora]]
   comprise a shrew-mouse (_Rachyura indica_), two species of tupaya and
   _Hylomys suillus_ peculiar to Java and Sumatra. The nearest relation
   to the bears is _Arctictis binturong_. _Mydaus meliceps_ and _Helictis
   orientalis_ represent the badgers. In the upper part of the mountains
   occurs _Mustela Henrici_, and an otter (_Aonyx leptonyx_) in the
   streams of the hot zone. The coffee rat (_Paradoxurus
-  hermaphroditus_), a civet cat (_Viverricida indica_), the Javanese
+  [[Hermaphroditus|hermaphroditus]]_), a [[Civet|civet]] cat (_Viverricida indica_), the Javanese
   ichneumon (_Herpestes javanicus_), and _Priodon gracilis_ may also be
   mentioned.
 
@@ -405,20 +405,20 @@ extraordinary rapidity broad alluvial tracts.[3]
   the older travellers (_Buceros plicatus_, _lunatus_ and _albirostris_)
   live in the tall trees of the forest zone. The Javanese peacock is a
   distinct species (_Pavo muticus_ or _spiciferus_), and even exceeds
-  the well-known Indian species in the splendour of its plumage. _Gallus
+  the well-known Indian species in the splendour of its plumage. _[[Gallus]]
   Bankiva_ is famous as the reputed parent of all barn-door fowls;
   _Gallus furcatus_ is an exquisitely beautiful bird and can be trained
-  for cock-fighting. Of parrots two species only are known: _Palaeornis
+  for [[Cock-Fighting|cock-fighting]]. Of parrots two species only are known: _Palaeornis
   Alexandri_ or _javanicus_ and the pretty little grass-green _Curyllis
   pusilla_, peculiar to Java. As talkers and mimics they are beaten by
   the _Gracula javanensis_, a favourite cage-bird with the natives. A
-  cuckoo, _Chrysococcyx basalis_, may be heard in the second zone. The
+  [[Cuckoo|cuckoo]], _Chrysococcyx basalis_, may be heard in the second zone. The
   grass-fields are the foraging-grounds of swarms of weaver-birds
   (_Plocula javanensis_ and _Ploccus baya_). They lay nearly as heavy a
   toll on the rice-fields as the gelatiks (_Munia oryzivora_), which are
-  everywhere the rice-growers' principal foe. Hawks and falcons make
+  everywhere the rice-growers' principal foe. [[Hawks]] and falcons make
   both an easy prey. The _Nictuarinas_ or honey-birds (eight species)
-  take the place of the humming-bird, which they rival in beauty and
+  take the place of the [[Humming-Bird|humming-bird]], which they rival in beauty and
   diminutiveness, ranging from the lowlands to an altitude of 4000 ft.
   In the upper regions the birds, like the plants, are more like those
   of Europe, and some of them--notably the kanchilan (_Hyloterpe
@@ -435,17 +435,17 @@ extraordinary rapidity broad alluvial tracts.[3]
   introduction of the goldfish, which reaches a great size. The sea fish
   most prized by Europeans is _Lates calcarifer_ (a perch). Of more than
   one hundred species of snakes about twenty-four species (including
-  the cobra di capella) are poisonous and these are responsible for the
+  the cobra di [[Capella|capella]]) are poisonous and these are responsible for the
   deaths of between one hundred and two hundred persons per annum.
-  Adders and lizards are abundant. Geckos are familiar visitants in the
-  houses of the natives. There are two species of crocodiles.
+  Adders and [[Lizard|lizards]] are abundant. [[Gecko|Geckos]] are familiar visitants in the
+  houses of the natives. There are two species of [[Crocodile|crocodiles]].
 
   As in other tropical-rain forest lands the variety and abundance of
-  insects are amazing. At sundown the air becomes resonant for hours
-  with their myriad voices. The _Coleoptera_ and the _Lepidoptera_ form
+  [[Insect|insects]] are amazing. At sundown the air becomes resonant for hours
+  with their myriad voices. The _[[Coleoptera]]_ and the _[[Lepidoptera]]_ form
   the glory of all great collections for their size and magnificence. Of
   butterflies proper five hundred species are known. Of the beetles one
-  of the largest and handsomest is _Chalcosoma atlas_. Among the spiders
+  of the largest and handsomest is _Chalcosoma [[Atlas|atlas]]_. Among the spiders
   (a numerously represented order) the most notable is a bird-killing
   species, _Selene scomia javanensis_. In many parts the island is
   plagued with ants, termites and mosquitoes. Crops of all kinds are
@@ -460,7 +460,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   _Flora._--For the botanist Java is a natural paradise, affording him
   the means of studying the effects of moisture and heat, of
   air-currents and altitudes, without the interference of superincumbent
-  arctic conditions. The botanic gardens of Buitenzorg have long been
+  [[Arctic|arctic]] conditions. The botanic gardens of Buitenzorg have long been
   famous for their wealth of material, the ability with which their
   treasures have been accumulated and displayed, their value in
   connexion with the economic development of the island and the
@@ -470,22 +470,22 @@ extraordinary rapidity broad alluvial tracts.[3]
   primeval forest. Hardly any similar area in the world has a flora of
   richer variety than Java. It is estimated that the total number of the
   species of plants is about 5000; but this is probably under the mark
-  (De Candolle knew of 2605 phanerogamous species), and new genera and
+  (De [[Candolle]] knew of 2605 phanerogamous species), and new genera and
   species of an unexpected character are from time to time discovered.
   The lower parts of the island are always in the height of summer. The
   villages and even the smaller towns are in great measure concealed by
   the abundant and abiding verdure; and their position in the landscape
   is to be recognized mainly by their groves, orchards and cultivated
-  fields. The amount and distribution of heat and moisture at the
+  [[Fields|fields]]. The amount and distribution of heat and moisture at the
   various seasons of the year form the dominant factors in determining
   the character of the vegetation. Thus trees which are evergreen in
-  west Java are deciduous in the east of the island, some dropping their
+  west Java are [[Deciduous|deciduous]] in the east of the island, some dropping their
   leaves (e.g. _Tetrameles nudiflora_) at the very time they are in
   bloom or ripening their fruit. This and other contrasts are
   graphically described from personal observation by A. F. W. Schimper
   in his _Pflanzen-Geographie auf physiologischer Grundlage_ (Jena,
   1898). The abundance of epiphytes, orchids, pitcher-plants, mosses and
-  fungi is a striking result of the prevalent humidity; and many trees
+  [[Fungi|fungi]] is a striking result of the prevalent humidity; and many trees
   and plants indeed, which in drier climates root in the soil, derive
   sufficient moisture from their stronger neighbours. Of orchids J. J.
   Smith records 562 species (100 genera), but the flowers of all except
@@ -503,7 +503,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   middle Java, where it occupies areas of hundreds of acres.
 
   The effect of mere altitude in the distribution of the flora was long
-  ago emphasized by Friedrich Junghuhn, the Humboldt of Java, who
+  ago emphasized by [[Friedrich]] Junghuhn, the [[Humboldt]] of Java, who
   divided the island into four vertical botanical zones--a division
   which has generally been accepted by his successors, though, like all
   such divisions, it is subject to many modifications and exceptions.
@@ -535,7 +535,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   the silvery alang-alang grass broken by bamboo thickets, clusters of
   trees and shrubs (_Butea frondosa_, _Emblica officinalis_, &c.) and
   islands of the taller erigedeh or glagah (_Saccharum spontaneum_).
-  Alang-alang (_Imperata arundinacea_, Cyr. var. Bentham) grows from 1
+  Alang-alang (_Imperata arundinacea_, Cyr. var. [[Bentham]]) grows from 1
   to 4 ft. in height. It springs up wherever the ground is cleared of
   trees and is a perfect plague to the cultivator. It cannot hold its
   own, however, with the ananas, the kratok (_Phaseolus lunatus_) or the
@@ -562,7 +562,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   but their tall stems are often covered with multitudes of small
   vermilion fungi. Wherever the local climate has sufficient humidity,
   the true rain-forest claims its own. The second of Junghuhn's zones is
-  the region of, more especially, tea, cinchona and coffee plantations,
+  the region of, more especially, tea, [[Cinchona|cinchona]] and coffee plantations,
   of maize and the sugar palm (areng). In the forest the trees are
   richly clad with ferns and enormous fungi; there is a profusion of
   underwood (_Pavetta macrophylla Javanica_ and _salicifolia_; several
@@ -579,12 +579,12 @@ extraordinary rapidity broad alluvial tracts.[3]
   several plateaus (the Dieng, parts of the Tengger, the Ijen) is a
   region of clouds and mists. There are a considerable number of lakes
   and swamps in several parts of the region, and these have a luxuriant
-  environment of grasses, Cyperaceae, Characeae and similar forms. The
+  environment of [[Grasses|grasses]], [[Cyperaceae]], Characeae and similar forms. The
   taller trees of the region--oaks, chestnuts, various Lauraceae, and
   four or five species of _Podocarpus_--with some striking exceptions,
   _Astronia spectabilis_, &c., are less floriferous than those of the
   lower zones; but the shrubs (_Rhododendron javanicum_, _Ardisia
-  javanica_, &c.), herbs and parasites more than make up for this
+  javanica_, &c.), [[Herb|herbs]] and parasites more than make up for this
   defect. There is little cultivation, except in the Tengger, where the
   natives grow maize, rye and tobacco, and various European vegetables
   (cabbage, potatoes, &c.), with which they supply the lowland markets.
@@ -593,15 +593,15 @@ extraordinary rapidity broad alluvial tracts.[3]
   of mosses," associated with the "elfin forest," as he quaintly calls
   it, a perfect tangle of "low, thick, oblique or even horizontal
   stems," almost choked to leaflessness by their grey and ghostly
-  burden. Much of the lower vegetation begins to have a European aspect;
+  [[Burden|burden]]. Much of the lower vegetation begins to have a European aspect;
   violets, primulas, thalictrums, ranunculus, vacciniums, equisetums,
   rhododendrons (_Rhod. retusum_). The _Primula imperialis_, found only
   on the Pangerango, is a handsome species, prized by specialists. In
   the fourth or alpine zone occur such distinctly European forms as
-  _Artemisia vulgaris_, _Plantago major_, _Solanum nigrum_, _Stellaria
+  _[[Artemisia]] vulgaris_, _Plantago [[Major|major]]_, _Solanum nigrum_, _Stellaria
   media_; and altogether the alpine flora contains representatives of no
   fewer than thirty-three families. A characteristic shrub is _Anaphalis
-  javanica_, popularly called the Javanese edelweiss, which "often
+  javanica_, popularly called the Javanese [[Edelweiss|edelweiss]], which "often
   entirely excludes all other woody plants."[11] The tallest and noblest
   of all the trees in the island is the rasamala or liquid-ambar
   (_Altingia excelsa_), which, rising with a straight clean trunk,
@@ -635,7 +635,7 @@ extraordinary rapidity broad alluvial tracts.[3]
   population in its more cultivable regions should have such extensive
   tracts of primeval or quasi-primeval forest as have been above
   indicated would be matter of surprise to one who did not consider the
-  simplicity of the life of the Javanese. They require but little fuel;
+  simplicity of the life of the Javanese. They require but little [[Fuel|fuel]];
   and both their dwellings and their furniture are mostly constructed of
   bamboo supplemented with a palm or two. They destroy the forest mainly
   to get room for their rice-fields and pasture for their cattle. In
@@ -682,7 +682,7 @@ The colour of the skin in all three cases presents various shades of
 yellowish-brown; and it is observed that, owing perhaps to the Hindu
 strain, the Javanese are generally darker than the Sundanese. The eyes
 are always brown or black, the hair of the head black, long, lank and
-coarse. Neither breast nor limbs are provided with hair, and there is
+coarse. Neither [[Breast|breast]] nor limbs are provided with hair, and there is
 hardly even the suggestion of a beard. In stature the Sundanese is less
 than the Javanese proper, being little over 5 ft. in average height,
 whereas the Javanese is nearly 5½ ft.; at the same time the Sundanese is
@@ -690,7 +690,7 @@ more stoutly built. The Madurese is as tall as the Javanese, and as
 stout as the Sundanese. The eye is usually set straight in the head in
 the Javanese and Madurese; among the Sundanese it is often oblique. The
 nose is generally flat and small, with wide nostrils, although among the
-Javanese it not infrequently becomes aquiline. The lips are thick, yet
+Javanese it not infrequently becomes aquiline. The [[Lip|lips]] are thick, yet
 well formed; the teeth are naturally white, but often filed and stained.
 The cheek-bones are well developed, more particularly with the Madurese.
 In expressiveness of countenance the Javanese and Madurese are far in
@@ -710,7 +710,7 @@ Javanese word _déså_ (High Javanese _dusun_). Every dessa, however small
 large), forms an independent community; and no sooner does it attain to
 any considerable size than it sends off a score of families or so to
 form a new dessa. Each lies in the midst of its own area of cultivation.
-The general enceinte is formed by an impervious hedge of bamboos 40 to
+The general [[Enceinte|enceinte]] is formed by an impervious hedge of bamboos 40 to
 70 ft. high. Within this lie the houses, each with its own enclosure,
 which, even when the fields are the communal property, belongs to the
 individual householder. The capital of a district is only a larger
@@ -719,7 +719,7 @@ several kampongs or villages. The bamboo houses in the strictly Javanese
 districts are always built on the ground; in the Sunda lands they are
 raised on piles. Some of the well-to-do, however, have stone houses. The
 principal article of food is rice; a considerable quantity of fish is
-eaten, but little meat. Family life is usually well ordered. The upper
+eaten, but little [[Meat|meat]]. Family life is usually well ordered. The upper
 class practise polygamy, but among the common people a man has generally
 only one wife. The Javanese are nominally Mahommedans, as in former
 times they were Buddhists and Brahmins; but in reality, not only such
@@ -744,7 +744,7 @@ work is not very widely spread.
   distinguish English from Anglo-Saxon, there is no break of historical
   continuity. Kavi (Basa Kavi, i.e. the language of poetry) may be
   defined as the form spoken and written before the founding of
-  Majapahit; and middle Javanese, still represented by the dialect of
+  Majapahit; and middle Javanese, still represented by the [[Dialect|dialect]] of
   Banyumas, north Cheribon, north Krawang and north Bantam, as the form
   the language assumed under the Majapahit court influence; while New
   Javanese is the language as it has developed since the fall of that
@@ -756,14 +756,14 @@ work is not very widely spread.
   the "thouing" language (cf. Fr. _tutoyant_, Ger. _dutzend_); but each
   class understands the language of the other class. The aristocrat
   speaks to the commonalty in the language of the commoner; the
-  commoner speaks to the aristocracy in the language of the aristocrat;
-  and, according to clearly recognized etiquette, every Javanese plays
+  commoner speaks to the [[Aristocracy|aristocracy]] in the language of the aristocrat;
+  and, according to clearly recognized [[Etiquette|etiquette]], every Javanese plays
   the part of aristocrat or commoner towards those whom he addresses. To
   speak Ngoko to a superior is to insult him; to speak Kråmå to an equal
   or inferior is a mark of respect. In this way Dipå Negårå showed his
-  contempt for the Dutch General de Kock. The ordinary Javanese thinks
+  contempt for the Dutch General de [[Kock]]. The ordinary Javanese thinks
   in Ngoko; the children use it to each other, and so on. Between the
-  two forms there is a kind of compromise, the Madya, or middle form of
+  two forms there is a kind of [[Compromise|compromise]], the Madya, or middle form of
   speech, employed by those who stand to each other on equal or friendly
   footing or by those who feel little constraint of etiquette. For every
   idea expressed in the language Kråmå has one vocable, the Ngoko
@@ -775,7 +775,7 @@ work is not very widely spread.
   existence side by side of two peoples, speaking each its own tongue,
   and occupying towards each other the position intellectually and
   politically of superior and inferior, had much to do with it. But
-  Professor Kern thinks that some influence must also be assigned to
+  Professor [[Kern]] thinks that some influence must also be assigned to
   _pamela_ or _pantang_, word-taboo--certain words being in certain
   circumstances regarded as of evil omen--a superstition still
   lingering, e.g. even among the Shetland fishermen (see G. A. F. Hazeu,
@@ -801,7 +801,7 @@ work is not very widely spread.
   and heroes find their place in the native history and serve as
   ancestors to their noble families. (Cohen Stuart published the modern
   Javanese version with a Dutch translation and notes, _Bråtå-Joedå_,
-  &c., Samarang, 1877. The Kavi text was lithographed at the Hague by S.
+  &c., Samarang, 1877. The Kavi text was lithographed at the [[Hague]] by S.
   Lankhout.) Of greater antiquity probably is the _Ardjunå Wiwåhå_ (or
   marriage festival of Ardjuna), which Professor Kern thinks may be
   assigned to the first half of the 11th century of the Christian era.
@@ -822,7 +822,7 @@ work is not very widely spread.
   _wayangs_ or puppet-plays which usually take their subjects from the
   Hindu legends or from those relating to the kingdoms of Majapahit and
   Pajajaram (see e.g. H. C. Humme, _Abiåså, een Javaansche toneelstuk_,
-  the Hague, 1878). In these plays grotesque figures of gilded leather
+  the Hague, 1878). In these plays [[Grotesque|grotesque]] figures of gilded leather
   are moved by the performer, who recites the appropriate speeches and,
   as occasion demands, plays the part of chorus.
 
@@ -836,19 +836,19 @@ work is not very widely spread.
   treatises in great variety.[14]
 
   _Arts._--In mechanic arts the Javanese are in advance of the other
-  peoples of the archipelago. Of thirty different crafts practised among
-  them, the most important are those of the blacksmith or cutler, the
+  peoples of the archipelago. Of thirty different [[Craft|crafts]] practised among
+  them, the most important are those of the blacksmith or [[Cutler|cutler]], the
   carpenter, the kris-sheath maker, the coppersmith, the goldsmith and
   the potter. Their skill in the working of the metals is the more
   noteworthy as they have to import the raw materials. The most esteemed
   product of the blacksmith's skill is the kris; every man and boy above
-  the age of fourteen wears one at least as part of his ordinary dress,
+  the age of fourteen wears one at least as part of his ordinary [[Dress|dress]],
   and men of rank two and sometimes four. In the finishing and adornment
   of the finer weapons no expense is spared; and ancient krises of good
   workmanship sometimes fetch enormous prices. The Javanese gold and
   silver work possesses considerable beauty, but there is nothing equal
-  to the filigree of Sumatra; the brass musical instruments are of
-  exceptional excellence. Both bricks and tiles are largely made, as
+  to the [[Filigree|filigree]] of Sumatra; the [[Brass|brass]] musical instruments are of
+  exceptional excellence. Both [[Brick|bricks]] and tiles are largely made, as
   well as a coarse unglazed pottery similar to that of Hindustan; but
   all the finer wares are imported from China. Cotton spinning, weaving
   and dyeing are carried on for the most part as purely domestic
@@ -856,7 +856,7 @@ work is not very widely spread.
   by weaving in stripes with a succession of different coloured yarns,
   but another mode is to cover with melted wax or damar the part of the
   cloth not intended to receive the dye. This process is naturally a
-  slow one, and has to be repeated according to the number of colours
+  slow one, and has to be repeated according to the number of [[Colours|colours]]
   required. As a consequence the _battiks_, as the cloths thus treated
   are called, are in request by the wealthier classes. For the most part
   quiet colours are preferred. To the Javanese of the present day the
@@ -912,7 +912,7 @@ work is not very widely spread.
   mosque (1867), a school for the sons of native men of rank, the most
   important quinine factory in the island, and a race-course where in
   July a good opportunity is afforded of seeing both the life of
-  fashionable and official Java and the customs and costumes of the
+  fashionable and official Java and the customs and [[Costume|costumes]] of the
   common people. The district is famous for its waterfalls, one of the
   most remarkable of which is where the Chi Tarum rushes through a
   narrow gully to leap down from the Bandung plateau. In the
@@ -944,7 +944,7 @@ work is not very widely spread.
   palace of Sultan Supeh, often described by travellers, lies about 2 m.
   off near Sunya Raja. Mundu, a village 4 m. south-east of Cheribon, is
   remarkable as the only spot on the north coast of the island visited
-  by the ikan prut or belly-fish, a species about as large as a cod,
+  by the ikan prut or belly-fish, a species about as large as a [[Cod|cod]],
   caught in thousands and salted by the local fishermen. Indramayu,
   which lies on both banks of the Chi Manuk about 8 m. from the coast,
   is mentioned under the name of Dermayo as a port for the rice of the
@@ -955,7 +955,7 @@ work is not very widely spread.
   overcome the disadvantage of its position--the roads being safe only
   during the east monsoon and the river requiring to be deepened and
   regulated. Tegal has long been one of the chief towns of Java:
-  commerce, native trade and industry, and fisheries are all well
+  commerce, native trade and industry, and [[Fisheries|fisheries]] are all well
   represented and the sugar factories give abundant employment to the
   inhabitants. The harbour has been the object of various improvements
   since 1871. The whole district is densely populated (3100 to the sq.
@@ -988,7 +988,7 @@ work is not very widely spread.
   roadstead is insecure in the west monsoon. After many delays an
   artificial canal, begun in 1858, became available as a substitute for
   the river; but further works are necessary. A second great canal to
-  the east, begun in 1896, helps to prevent inundations and thus improve
+  the east, begun in 1896, [[Helps|helps]] to prevent inundations and thus improve
   the healthiness of the town. Demak, 13 m. N.E. of Semarang, though
   situated in a wretched region of swamps and having only 5000
   inhabitants, is famous in ancient Javanese history. The mosque,
@@ -1000,18 +1000,18 @@ work is not very widely spread.
   with allusion to three temples now destroyed) was in early times one
   of the resting places of ambassadors proceeding to the court of
   Mataram, and in the European history of Java its name is associated
-  with the peace of 1755 and the capitulation of 1811. It is the seat of
-  a cavalry and artillery camp. Its population, about 10,000, seems to
+  with the peace of 1755 and the [[Capitulation|capitulation]] of 1811. It is the seat of
+  a [[Cavalry|cavalry]] and artillery camp. Its population, about 10,000, seems to
   be declining. Ambarawa with its railway station is, on the other hand,
   rapidly increasing. Its population of 14,745 includes 459 Europeans.
   About a mile to the N. lies the fortress of Willem I. which Van den
   Bosch meant to make the centre of the Javanese system of defensive
   works; the Banyubiru military camp is in the neighbourhood. Kendal
-  (15,000) is a centre of the sugar industry. Kudus (31,000; 4300
+  (15,000) is a centre of the sugar industry. [[Kudu|Kudus]] (31,000; 4300
   Chinese) has grown to be one of the most important inland towns. Its
   cloth and battik pedlars are known throughout the island and the
   success of their enterprise is evident in the style of their houses. A
-  good trade is also carried on in cattle, kapok, copra, pottery and all
+  good trade is also carried on in cattle, kapok, [[Copra|copra]], pottery and all
   sorts of small wares. The mosque in the old town has interesting
   remains of Majapahit architecture; and the tomb of Pangeran Kudus is a
   noted Mahommedan sanctuary. A steam tramway leads northward towards,
@@ -1042,7 +1042,7 @@ work is not very widely spread.
   makers, &c., &c., of his highness. The independent Prince Paku Alam
   has a palace of his own. As in Surakarta there are an old Dutch town
   and a fort. The Jogka market is one of the most important of all Java,
-  especially for jewelry. The total population is 72,235 with 1424
+  especially for [[Jewelry|jewelry]]. The total population is 72,235 with 1424
   Europeans. To the south-east lies Pasar Gedeh, a former capital of
   Mataram, with tombs of the ancient princes in the Kraton, a favourite
   residence of wealthy Javanese traders. Surabaya (q.v.), on the strait
@@ -1070,8 +1070,8 @@ work is not very widely spread.
   This last was at one time the seat of the resident, now the eastern
   terminus of the railway system, and is a seaport on the Bali Strait
   with an important office of the telegraph company controlling
-  communication with Port Darwin and Singapore. It has a very mingled
-  population, besides Javanese and Madurese, Chinese and Arabs,
+  communication with Port [[Darwin]] and Singapore. It has a very mingled
+  population, besides Javanese and Madurese, Chinese and [[Arabs]],
   Balinese, Buginese and Europeans. The chief town of Kediri (10,489) is
   the only residency town in the interior traversed by a navigable
   river, and is exceeded by Tulungagung; and the residency of Madiun has
@@ -1108,7 +1108,7 @@ work is not very widely spread.
   of the government and private proprietors, comprising an area of about
   3½ million acres, consists of sugar, cinchona, coffee, tobacco, tea,
   indigo, &c. The Javanese possess buffaloes, ordinary cattle, horses,
-  dogs and cats. The buffalo was probably introduced by the Hindus. As
+  [[Dogs|dogs]] and cats. The buffalo was probably introduced by the Hindus. As
   in agricultural products, so also in cattle-rearing, western Java is
   distinguished from middle and eastern Java. The average distribution
   of buffaloes is 106 per 1000 inhabitants, but it varies considerably
@@ -1124,10 +1124,10 @@ work is not very widely spread.
   comes naturally to the Javanese; horse-races and tournays have been in
   vogue among them from early times.
 
-  Coffee is an alien in Java. Specimens brought in 1696 from Cannanore
-  on the Malabar coast perished in an earthquake and floods in 1699; the
+  Coffee is an alien in Java. Specimens brought in 1696 from [[Cannanore]]
+  on the [[Malabar]] coast perished in an earthquake and [[Flood|floods]] in 1699; the
   effective introduction of the precious shrub was due to Hendrik
-  Zwaardekron (see N. P. van den Berg, "Voortbrenging en verbruck van
+  Zwaardekron (see N. P. van den [[Berg]], "Voortbrenging en verbruck van
   koffie," _Tijdschrift v. Nijverh. en Landb._ 1879; and the article
   "Koffie" in _Encyc. Ned. Ind._ Wiji kawih is mentioned in a Kavi
   inscription of A.D. 856, and the bean-broth in David Tappen's list of
@@ -1139,7 +1139,7 @@ work is not very widely spread.
   about 143 tons per annum; and this probably represented nearly the
   whole production of the island. By the beginning of the 19th century
   the annual production was about 7143 tons and after the introduction
-  of the Van den Bosch system of forced culture a further augmentation
+  of the Van den Bosch system of forced culture a further [[Augmentation|augmentation]]
   was effected. The forced culture system was, in 1909, however, of
   little importance. Official reports show that from 1840 to 1873 the
   amount ranged from 5226 tons to 7354. During the ten years 1869 to
@@ -1170,14 +1170,14 @@ work is not very widely spread.
   tons; in 1869-1873, 170,831, and in 1875-1880, 204,678. By 1899-1900
   the average had risen to 787,673 tons; and the crops for 1904 and 1905
   were respectively 1,064,935 and 1,028,357 tons. Prices fluctuate, but
-  the value of the harvest of 1905 was estimated at about £15,000,000.
+  the value of the [[Harvest|harvest]] of 1905 was estimated at about £15,000,000.
 
   The cultivation of indigo shows a strange vitality. Under the culture
   system the natives found this the most oppressive of all the state
   crops. The modern chemist at one time seemed to have killed the
   industry by his synthetic substitute, but in every year between 1899
   and 1904 Java exported between one million and one and a half million
-  pounds of the natural product. Japan and Russia were the largest
+  pounds of the natural product. [[Japan]] and Russia were the largest
   buyers. As blue is a favourite colour with the Javanese proper a large
   quantity is used at home.
 
@@ -1187,11 +1187,11 @@ work is not very widely spread.
   attempts to increase their profits by delivering an inferior article
   ultimately led to the abandonment of the contract system in 1860. In
   the meantime the basis of a better state of the industry had been laid
-  by the Dutch tea-taster J. J. L. L. Jacobsen of the Nederlandsch
-  Handel Maatschappij, who introduced not only fresh stock, but expert
+  by the Dutch tea-taster J. J. L. L. [[Jacobsen]] of the Nederlandsch
+  [[Handel]] Maatschappij, who introduced not only fresh stock, but [[Expert|expert]]
   growers from China in 1852-1853. The tea-planters (often taking
   possession of the abandoned coffee-plantations) have greatly improved
-  the quality of their products. Assam tea was introduced in 1878, and
+  the quality of their products. [[Assam]] tea was introduced in 1878, and
   this has rapidly extended its area. The exports increased from
   12,110,724 lb. in 1898 to 25,772,564 in 1905. More than half the total
   goes to the Netherlands; the United Kingdom ranks next, and, far
@@ -1211,7 +1211,7 @@ work is not very widely spread.
   somewhat extensively grown. The oil is exported to Holland, where it
   is sold as Delft salad oil. Tapioca has long been cultivated,
   especially in the Preanger. The industry is mainly in the hands of the
-  Chinese, and the principal foreign purchasers are English biscuit
+  Chinese, and the principal foreign purchasers are English [[Biscuit|biscuit]]
   manufacturers. The kapok is a tree from tropical America which,
   growing freely in any soil, is extensively used throughout Java along
   the highways as a support for telegraph and telephone wires, and
@@ -1233,7 +1233,7 @@ work is not very widely spread.
   control. Java tobacco, amounting to about 35,200,000 lb. a year, is
   cultivated almost exclusively in eastern Java. Among other products
   which are of some importance as articles of export may be mentioned
-  nutmegs, mace, pepper, hides, arrack and copra.
+  nutmegs, [[Mace|mace]], pepper, hides, arrack and copra.
 
   _Particular Lands._--At different times down to 1830 the government
   disposed of its lands in full property to individuals who, acquiring
@@ -1262,16 +1262,16 @@ work is not very widely spread.
   many parts (Bantam, Rembang, Jokjakarta, &c.); and in 1905 a
   concession was granted to a company to work the coal-beds at Bajah
   close to the harbour of Wijnkoopers Bay, a port of call of the
-  Koninklijk Paketvaart Maatschappij. The discovery by De Groot in 1863
+  Koninklijk Paketvaart Maatschappij. The discovery by De [[Groot]] in 1863
   of petroleum added a most important industry to the list of the
-  resources of Java. The great Dort Petroleum Company, now centred at
+  resources of Java. The great [[Dort]] Petroleum Company, now centred at
   Amsterdam, was founded in 1887. The production of this company alone
-  rose from 79,179 _kisten_ or cases (each 8.14 gall.) in 1891 to
+  rose from 79,179 _kisten_ or cases (each 8.14 [[Gall|gall]].) in 1891 to
   1,642,780 in 1890, and to 1,967,124 in 1905. In 1904 there were no
   fewer than 36 concessions for petroleum. At the same time there is a
   larger importation of oil from Sumatra as well as from America and
   Russia. Sulphur is regularly worked in the Gunong Slamet, G. Sindoro,
-  G. Sumbing, and in the crater of the Tangkuban Prahu as well as in
+  G. Sumbing, and in the [[Crater|crater]] of the Tangkuban Prahu as well as in
   other places in the Preanger regencies and in Pasuruan. Brine-wells
   exist in various parts. The bledegs (salt-mud wells) of Grobogan in
   the Solo Valley, Semarang, are best known. They rise from Miocene
@@ -1303,13 +1303,13 @@ work is not very widely spread.
   government. The earliest lines, between Batavia and Buitenzorg and
   between Semarang and the capitals of the sultanates, were built about
   1870 by a private company with a state guarantee. Since 1875, when Dr
-  van Goltstein, then a cabinet minister and afterwards Dutch minister
+  van Goltstein, then a [[Cabinet|cabinet]] minister and afterwards Dutch minister
   in London, had an act passed for the construction of state railways in
   Java, their progress has become much more rapid. In addition, several
   private companies have built either light railways or tramways, such
   as that between Semarang and Joana, and the total length of all lines
   was 2460 in 1905. There are some 3500 miles of telegraph line, and
-  cables connect Java with Madura, Bali and Sumatra, and Port Darwin in
+  [[Cable|cables]] connect Java with Madura, Bali and Sumatra, and Port Darwin in
   Australia. Material welfare was promoted by the establishment of lines
   of steamships between Java and the other islands, all belonging to a
   Royal Packet Company, established in 1888 under a special statute, and
@@ -1344,7 +1344,7 @@ prefixed.
 
 It is impossible to extract a rational historical narrative from the
 earlier _babads_ or native chronicles, and even the later are destitute
-of any satisfactory chronology. The first great era in the history is
+of any satisfactory [[Chronology|chronology]]. The first great era in the history is
 the ascendancy of the Hindus, and that breaks up into three periods--a
 period of Buddhism, a period of aggressive Sivaism, and a period of
 apparent compromise. Of the various Hindu states that were established
@@ -1356,7 +1356,7 @@ century; and the third is the establishment of European and more
 particularly of Dutch influence and authority in the island. About 1520
 the Portuguese entered into commercial relationship with the natives,
 but at the close of the same century the Dutch began to establish
-themselves. At the time when the Dutch East India company began to fix
+themselves. At the time when the [[Dutch East India Company|Dutch East India company]] began to fix
 its trading factories on the coast towns, the chief native state was
 Mataram, which had in the 16th century succeeded to the overlordship
 possessed by the house of Demak--one of the states that rose after the
@@ -1372,13 +1372,13 @@ Jokjakarta, which still retain a shadow of independence. The kingdom of
 Bantam was finally subjugated in 1808. By the English occupation of the
 island (1811-1818) the European ascendancy was rather strengthened than
 weakened; the great Java war (1825-1830), in which Dipå Negårå, the last
-Javanese prince, a clever, bold and unscrupulous leader, struggled to
+Javanese prince, a [[Clever|clever]], bold and unscrupulous leader, struggled to
 maintain his claim to the whole island, resulted in the complete success
 of the Dutch. To subdue him and his following, however, taxed all the
 resources of the Dutch Indian army for a period of five years, and cost
 it the loss of 15,000 officers and soldiers, besides millions of
 guilders. Nor did his great influence die with him when his adventurous
-career came to a close in 1855 at Macassar. Many Javanese, who dream of
+career came to a close in 1855 at Macassar. Many Javanese, who [[Dream|dream]] of
 a restoration of their ancient empire, do not believe even yet that Dipå
 Negårå is dead. They are readily persuaded by fanatical hadjis that
 their hero will suddenly appear to drive away the Dutch and claim his
@@ -1410,7 +1410,7 @@ travelling in Java were abolished by the then governor-general, Dr Sloet
 van de Beele, who also introduced many reforms, reducing the _corvée_ in
 the government plantations to a minimum, and doing away with the
 monopoly of fisheries. Six years later a primary education system for
-the natives, and a penal code, whose liberal provisions seemed framed
+the natives, and a penal [[Code|code]], whose liberal provisions seemed framed
 for Europeans, were introduced.
 
   _Antiquities._--Ordinary traces of early human occupation are few in
@@ -1418,7 +1418,7 @@ for Europeans, were introduced.
   occasionally found. But remains of the temples and monastic buildings
   of the Hindu period are numerous and splendid, and are remarkable as
   representing architecture which reached a high standard without the
-  use of mortar, supporting columns or arches. Chandis (i.e. temples,
+  use of mortar, supporting columns or [[Arches|arches]]. Chandis (i.e. temples,
   though the word originally meant a depository for the ashes of a
   saint) are not found in western Java. They exist in two great zones:
   one in middle Java, one in eastern Java, each with its own
@@ -1434,7 +1434,7 @@ for Europeans, were introduced.
   temples once existed.[16] Some of them are Sivaite, some Buddhist,
   some astoundingly composite. None of the Buddhist buildings shows
   traces of the older Himaryana form of the creed. The greatest of all
-  is a perfect sculptural exposition of the Mahayana doctrine. As to the
+  is a perfect sculptural exposition of the [[Mahayana]] doctrine. As to the
   period during which these temples were erected, authorities are not
   agreed. Ijzerman assigns the central Java groups to between the 8th
   and the 10th centuries. The seven-storeyed vihara (monastery)
@@ -1452,12 +1452,12 @@ for Europeans, were introduced.
   employed native artists and to some extent left them a free hand.
 
   In his standard work on _Indian and Eastern Architecture_ (London,
-  1876), James Fergusson asserted that the Javanese temples are in the
+  1876), James [[Fergusson]] asserted that the Javanese temples are in the
   Chalukyan style. But J. W. Ijzerman in an elaborate paper in the
   _Album-Kern_ contends that the learned historian of architecture was
   misled by basing his opinion mainly on inaccurate drawings reproduced
   by Raffles. The Javanese temples, with the solitary exception of
-  Chandi Bima in the Dyeng, are Dravidian and not Chalukyan. The very
+  Chandi Bima in the Dyeng, are [[Dravidian]] and not Chalukyan. The very
   temples quoted by Fergusson, when more carefully examined, disprove
   his statement: a fact not without its bearing on the history of the
   Hindu immigration.
@@ -1470,7 +1470,7 @@ for Europeans, were introduced.
   of a considerable town, no sepulchral relics of the inhabitants have
   been discovered. There still remain five groups of temples--some well
   preserved, some mere heaps of stone--to prove the devotion their
-  builders bore to Siva, his consort Durga, and Ganesha their son. The
+  builders bore to Siva, his consort [[Durga]], and Ganesha their son. The
   Arjuno group, in the middle of the plateau, consists of Chandi Arjuno
   (with its chapel or priests' residence, Ch. Semar), Ch. Srikahdi, Ch.
   Puntadeva and Ch. Sembadro, each a simple square chamber with a
@@ -1497,21 +1497,21 @@ for Europeans, were introduced.
   It lies in the residency of Kedu, a little to the west of the Progo, a
   considerable stream flowing south to the Indian Ocean. The place is
   best reached by taking the steam-tram from Magelang or Jokjakarta to
-  the village of Muntilam Passar, where a conveyance may be hired.
+  the village of Muntilam Passar, where a [[Conveyance|conveyance]] may be hired.
   Strictly speaking, Boro-Budur is not a temple but a hill, rising about
   150 ft. above the plain, encased with imposing terraces constructed of
   hewn lava-blocks and crowded with sculptures. The lowest terrace now
   above ground forms a square, each side 497 ft. long. About 50 ft.
   higher there is another terrace of similar shape. Then follow four
   other terraces of more irregular contour. The structure is crowned by
-  a dome or cupola 52 ft. in diameter surrounded by sixteen smaller
+  a dome or [[Cupola|cupola]] 52 ft. in diameter surrounded by sixteen smaller
   bell-shaped cupolas. Regarded as a whole, the main design, to quote Mr
   Sewell, may be described as "an archaic Indian temple, considerably
   flattened and consisting of a series of terraces, surmounted by a
   quasi-stupa capped by a dagoba." It was discovered by the engineer J.
-  W. Ijzerman in 1885 that the basement of the structure had been
+  W. Ijzerman in 1885 that the [[Basement|basement]] of the structure had been
   earthed up before the building was finished, and that the lowest
-  retaining wall was completely concealed by the embankment. The
+  retaining wall was completely concealed by the [[Embankment|embankment]]. The
   architects had evidently found that their temple was threatened with a
   destructive subsidence; and, while the sculptors were still busy with
   the decoration of the lower façades, they had to abandon their work.
@@ -1524,14 +1524,14 @@ for Europeans, were introduced.
   most varied description, forming a picture-gallery of landscapes,
   scenes of outdoor and domestic life, mingled with mythological and
   religious designs. Among the genre class appear men shooting birds
-  with blow-pipe or bow and arrow, fishermen with rod or net, a man
+  with blow-pipe or [[Bow|bow]] and arrow, fishermen with rod or net, a man
   playing a bagpipe, and so on. It would seem as if the architect had
   intended gradually to wean the devotees from the things of this world.
   When once they began to ascend from stage to stage of the temple-hill
   they were introduced to the realities of religion; and by the time
   they reached the dagoba they had passed through a process of
   instruction and were ready, with enlightened eyes, to enter and behold
-  the image of Buddha, symbolically left imperfect, as beyond the power
+  the [[Image|image]] of Buddha, symbolically left imperfect, as beyond the power
   of human art to realize or portray. From basement to summit the whole
   hill is a great picture bible of the Mahayana creed.
 
@@ -1568,13 +1568,13 @@ for Europeans, were introduced.
   popular name of Durga. In the southern temple of the row is a very
   fine figure of a four-armed Brahma; in the northern there was a Vishnu
   with attendant figures. Of the other row the middle temple is again
-  the largest, with Siva, his nandi or bull, and other symbolic
+  the largest, with Siva, his nandi or [[Bull|bull]], and other symbolic
   sculptures. To the north lies the extraordinary cluster of temples
   which, though it does not deserve its popular name of Chandi Sewu, the
   thousand shrines, consists of at least 240 small buildings gathered
   round a great central temple, richly adorned, though roofless and
   partially ruined since the earthquake of 1867. Among the more
-  noteworthy figures are those of the huge and ungainly guardians of the
+  noteworthy figures are those of the huge and ungainly [[Guardian|guardians]] of the
   temple kneeling at the four main gateways of each of the principal
   buildings. Colonel Yule pointed out that there are distinct traces of
   a fine coat of stucco on the exterior and the interior of the
@@ -1636,7 +1636,7 @@ for Europeans, were introduced.
   As many of the Chinese came from China centuries ago and have not
   ceased to hold intercourse with their native country, the houses of
   the wealthier men among them are often rich in ancient specimens of
-  Chinese art. The special exhibition organized by Henri Borel and other
+  Chinese art. The special exhibition organized by Henri [[Borel]] and other
   enthusiasts showed how much of value in this matter might be brought
   together in spite of the reluctance of the owners to commit the
   sacrilege of exposing to public gaze the images of their ancestral
@@ -1653,7 +1653,7 @@ for Europeans, were introduced.
   by J. K. Hasskarl, Leipzig, 1854-1857); P. J. Veth, _Java,
   Geographisch, ethnologisch, historisch_ (2nd ed., Haarlem, 1896-1903),
   a masterly compendium originally based largely on Junghuhn's
-  descriptions; L. van Deventer, _Geschiedenis der Nederlanders op Java_
+  descriptions; L. van [[Deventer]], _Geschiedenis der Nederlanders op Java_
   (2nd ed., Haarlem, 1895); L. W. C. van den Berg, _Le Hadhramout et les
   colonies arabes dans l'archipel indien_ (Batavia, 1886); E. R.
   Scidmore, _Java, the Garden of the East_ (New York, 1898); J.
@@ -1689,7 +1689,7 @@ FOOTNOTES:
   [5] R. D. M. Verbeek and R. Fennema, _Description géologique de Java
     et Madoura_ (2 vols. and atlas, Amsterdam, 1896; also published in
     Dutch)--a summary with map was published by Verbeek in _Peterm.
-    Mitt._ xliv. (1898), 24-33, pl. 3. Also K. Martin, _Die Eintheilung
+    Mitt._ xliv. (1898), 24-33, pl. 3. Also K. [[Martin]], _Die Eintheilung
     der versteinerungsführenden Sedimente von Java_, Samml. Geol.
     Reichsmus. Leiden, ser. i., vol. vi. (1899-1902), 135-245.
 
@@ -1706,7 +1706,7 @@ FOOTNOTES:
 
   [9] See especially M. Weber, _Siboga Expedition_.
 
-  [10] The _Annales de Buitenzorg_, with their _Icones bogorienses_,
+  [10] The _Annales de Buitenzorg_, with their _[[Icon|Icones]] bogorienses_,
     are universally known; the _Teysmannia_ is named after a former
     director. A history of the gardens was published by Dr Treub,
     _Festboek van's Lands Plantentuin_ (1891).
@@ -1718,7 +1718,7 @@ FOOTNOTES:
     _Vegetationsbilder_ (1903).
 
   [12] It is interesting to compare this with the natural
-    "reflorization" of Krakatoa. See Penzig, _Ann. jard. de Buitenzorg_,
+    "reflorization" of [[Krakatoa]]. See Penzig, _Ann. jard. de Buitenzorg_,
     vol. viii. (1902); and W. Botting in _Nature_ (1903).
 
   [13] See Walbreken, _De Taalsvorten in het Javaansh_; and G. A.

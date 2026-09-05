@@ -8,10 +8,10 @@ id: 42-1894
 
 # Anthrax
 
-ANTHRAX (the Greek for "coal," or "carbuncle," so called by the ancients
+ANTHRAX (the Greek for "coal," or "[[Carbuncle|carbuncle]]," so called by the ancients
 because they regarded it as burning like coal; cf. the French equivalent
 _charbon_; also known as _fievre charbonneuse, Milzbrand_, splenic
-fever, and malignant pustule), an acute, specific, infectious, virulent
+[[Fever|fever]], and malignant pustule), an acute, specific, infectious, virulent
 disease, caused by the _Bacillus anthracis_, in animals, chiefly cattle,
 sheep and horses, and frequently occurring in workers in the wool or
 hair, as well as in those handling the hides or carcases, of beasts
@@ -21,29 +21,29 @@ _Animals._--As affecting wild as well as domesticated animals and man,
 anthrax has been widely diffused in one or more of its forms, over the
 surface of the globe. It at times decimates the reindeer herds in
 Lapland and the Polar regions, and is only too well known in the tropics
-and in temperate latitudes. It has been observed and described in
+and in temperate [[Latitude|latitudes]]. It has been observed and described in
 Russia, Siberia, Central Asia, China, Cochin-China, Egypt, West Indies,
 Peru, Paraguay, Brazil, Mexico, and other parts of North and South
-America, in Australia, and on different parts of the African continent,
-while for other European countries the writings which have been
+America, in [[Australia]], and on different parts of the African continent,
+while for other [[European Countries|European countries]] the writings which have been
 published with regard to its nature, its peculiar characteristics, and
 the injury it inflicts are innumerable. Countries in which are extensive
 marshes, or the subsoil of which is tenacious or impermeable, are
 usually those most frequently and seriously visited. Thus there have
 been regions notorious for its prevalence, such as the marshes of
-Sologne, Dombes and Bresse in France; certain parts of Germany, Hungary
+Sologne, [[Dombes]] and [[Bresse]] in France; certain parts of Germany, Hungary
 and Poland; in Spain the half-submerged valleys and the maritime coasts
-of Catalonia, as well as the Romagna and other marshy districts of
+of [[Catalonia]], as well as the Romagna and other marshy districts of
 Italy; while it is epizootic, and even panzootic, in the swampy regions
-of Esthonia, Livonia, Courland, and especially of Siberia, where it is
+of [[Esthonia]], Livonia, [[Courland]], and especially of Siberia, where it is
 known as the _Sibirskaja jaswa_ (Siberian boil-plague). The records of
 anthrax go back to a very ancient date. It is supposed to be the murrain
-of Exodus. Classical writers allude to anthrax as if it were the only
+of [[Exodus]]. Classical writers allude to anthrax as if it were the only
 cattle disease worthy of mention (see Virgil, _Georg._ iii.). It figures
 largely in the history of the early and middle ages as a devastating
 pestilence attacking animals, and through them mankind; the oldest
-Anglo-Saxon manuscripts contain many fantastic recipes, leechdoms,
-charms and incantations for the prevention or cure of the "blacan
+Anglo-Saxon [[Manuscript|manuscripts]] contain many fantastic recipes, leechdoms,
+[[Charm|charms]] and [[Incantation|incantations]] for the prevention or cure of the "blacan
 blezene" (black blain) and the relief of the "elfshot" creatures. In the
 18th and 19th centuries it sometimes spread like an epizootic over the
 whole of Europe, from Siberia to France. It was in this malady that
@@ -55,7 +55,7 @@ with this disease that Toussaint, Pasteur and J.B. Chauveau first showed
 how to make the morbific poison its own antidote. (See VIVISECTION.)
 
 The symptoms vary with the species of animal, the mode of infection, and
-the seat of the primary lesion, internal or external. In all its forms
+the seat of the primary [[Lesion|lesion]], internal or external. In all its forms
 anthrax is an inoculable disease, transmission being surely and promptly
 effected by this means, and it may be conveyed to nearly all animals by
 inoculation of a wound of the skin or through the digestive organs.
@@ -69,10 +69,10 @@ the sudden death of one or more of the herd or flock. Animals which do
 not die at once may be noticed to stagger and tremble; the breathing
 becomes hurried and the pulse very rapid, while the heart beats
 violently; the internal temperature of the body is high, 104 deg. to 106
-deg. F.; blood oozes from the nose, mouth and anus, the visible mucous
+deg. F.; blood oozes from the nose, mouth and [[Anu|anus]], the visible mucous
 membranes are dusky or almost black. The animal becomes weak and
 listless, the temperature falls and death supervenes in a few hours,
-being immediately preceded by delirium, convulsions or coma. While death
+being immediately preceded by [[Delirium|delirium]], convulsions or [[Coma|coma]]. While death
 is usually rapid or sudden when the malady is general, constituting what
 is designated splenic apoplexy, internal anthrax in cattle is not
 invariably fatal. In some cases the animal rallies from a first attack
@@ -96,7 +96,7 @@ Anthrax of the horse usually begins as an affection of the throat or
 bowel. In the former there is rapid obstructive oedema of the mucous
 membrane of the pharynx and larynx with swelling of the throat and neck,
 fever, salivation, difficulty in swallowing, noisy breathing, frothy
-discharge from the nose and threatening suffocation. General invasion
+[[Discharge|discharge]] from the nose and threatening suffocation. General invasion
 soon ensues, and the horse may die in from four to sixteen hours. The
 intestinal form is marked by high temperature, great prostration, small
 thready pulse, tumultuous action of the heart, laboured breathing and
@@ -159,7 +159,7 @@ was observed upon the skin; but, on the other hand, in not a few cases
 without any external manifestation, symptoms of blood-poisoning, often
 proving rapidly fatal, suggested the probability of other channels for
 the introduction of the disease. In 1880 the occurrence of several such
-cases among woolsorters at Bradford, reported by Dr J.H. Bell of that
+cases among woolsorters at [[Bradford]], reported by Dr J.H. Bell of that
 town, led to an official inquiry in England by the Local Government
 Board, and an elaborate investigation into the pathology of what was
 then called "woolsorters' disease" was at the same time conducted at the
@@ -201,7 +201,7 @@ or hair is unpacked, or again during the process of sorting. The
 symptoms usually observed are those of rapid physical prostration, with
 a small pulse, somewhat lowered temperature (rarely fever), and
 quickened breathing. Examination of the chest reveals inflammation of
-the lungs and pleura. In some cases death takes place by collapse in
+the [[Lung|lungs]] and pleura. In some cases death takes place by collapse in
 less than one day, while in others the fatal issue is postponed for
 three or four days, and is preceded by symptoms of blood-poisoning,
 including rigors, perspirations, extreme exhaustion, &c. In some cases
@@ -219,7 +219,7 @@ found loaded with the _Bacillus anthracis_.
 
 Treatment in this disease appears to be of but little avail, except as
 regards the external form, where the malignant pustule may be excised or
-dealt with early by strong caustics to destroy the affected textures.
+dealt with early by strong [[Caustic|caustics]] to destroy the affected textures.
 For the relief of the general constitutional symptoms, quinine,
 stimulants and strong nourishment appear to be the only available means.
 An anti-anthrax serum has also been tried. As preventive measures in

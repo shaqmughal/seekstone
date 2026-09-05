@@ -10,9 +10,9 @@ id: 42-2450
 
 HOGSHEAD, a cask for holding liquor or other commodities, such as
 tobacco, sugar, molasses, &c.; also a liquid measure of capacity,
-varying with the contents. As a measure for beer, cider, &c., it equals
+varying with the contents. As a measure for beer, [[Cider|cider]], &c., it equals
 54 gallons. A statute of Richard III. (1483) fixed the hogshead of wine
-at 63 wine-gallons, i.e. 52(1/2) imperial gallons. The etymology of the
+at 63 wine-gallons, i.e. 52(1/2) imperial gallons. The [[Etymology|etymology]] of the
 word has been much discussed. According to Skeat, the origin is to be
 found in the name for a cask or liquid measure appearing in various
 forms in several Teutonic languages, in Dutch _oxhooft_ (modern

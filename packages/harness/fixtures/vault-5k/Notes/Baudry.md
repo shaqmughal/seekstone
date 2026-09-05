@@ -8,7 +8,7 @@ type: source
 # Baudry
 
 BAUDRY, or BALDERICH, OF BOURGUEIL (1046 or 1047-1130), archbishop of
-Dol, historian and poet, was born at Meung-sur-Loire, where he passed
+[[Dol]], historian and poet, was born at Meung-sur-Loire, where he passed
 his early days. Educated at Meung and at Angers, he entered the
 Benedictine abbey of Bourgueil, and in 1079 became abbot of this place,
 but his time was devoted to literary pursuits rather than to his
@@ -37,7 +37,7 @@ the material for which was mainly drawn from the anonymous _Gesta
 Francorum_, but some valuable information has been added by Baudry. It
 was very popular during the middle ages, and was used by Ordericus
 Vitalis for his _Historiae ecclesiasticae_; by William, archbishop of
-Tyre, for his _Belli sacri historia_; and by Vincent of Beauvais for his
+Tyre, for his _[[Belli]] sacri historia_; and by Vincent of Beauvais for his
 _Speculum historiale_. The best edition is that by C. Thurot, which
 appears in the _Recueil des historiens des croisades_, tome iv. (Paris,
 1841-1887), Other works probably by Baudry are _Epistola ad Fiscannenses

@@ -9,8 +9,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Kiepert"
 
 KIEPERT, HEINRICH (1818-1899), German geographer, was born at Berlin on
 the 31st of July 1818. He was educated at the university there, studying
-especially history, philology and geography. In 1840-1846, in
-collaboration with Karl Ritter, he issued his first work, _Atlas von
+especially history, philology and [[Geography|geography]]. In 1840-1846, in
+collaboration with Karl Ritter, he issued his first work, _[[Atlas]] von
 Hellas und den hellenischen Kolonien_, which brought him at once into
 eminence in the sphere of ancient historical cartography. In 1848 his
 _Historisch-geographischer Atlas der alten Welt_ appeared, and in 1854

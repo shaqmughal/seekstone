@@ -1,6 +1,6 @@
 # Geyser
 
-GEYSER, GEISER, or GEISIR, a natural spring or fountain which discharges
+GEYSER, GEISER, or GEISIR, a natural spring or [[Fountain|fountain]] which [[Discharge|discharges]]
 into the air, at more or less regular intervals of time, a column of
 heated water and steam; it may consequently be regarded as an
 intermittent hot spring. The word is the Icelandic _geysir_, gusher or
@@ -27,8 +27,8 @@ middle; and dry basins from which the water has receded with their
 shafts now choked with rubbish.
 
 Geysers exist at the present time in many volcanic regions, as in the
-Malay Archipelago, Japan and South America; but the three localities
-where they attain their highest development are Iceland, New Zealand and
+Malay Archipelago, [[Japan]] and South America; but the three localities
+where they attain their highest development are [[Iceland]], New Zealand and
 the Yellowstone Park, U.S.A. The very name by which we call them
 indicates the historical priority of the Iceland group.
 
@@ -36,9 +36,9 @@ The Iceland geysers, mentioned by Saxo Grammaticus, are situated about
 30 m. N.W. of Hecla, in a broad valley at the foot of a range of hills
 from 300 to 400 ft. in height. Within a circuit of about 2 m., upwards
 of one hundred hot springs may be counted, varying greatly both in
-character and dimensions. The Great Geyser in its calm periods appears
+character and [[Dimension|dimensions]]. The Great Geyser in its [[Calm|calm]] periods appears
 as a circular pool about 60 ft. in diameter and 4 ft. in depth,
-occupying a basin on the summit of a mound of siliceous concretion; and
+occupying a basin on the summit of a mound of siliceous [[Concretion|concretion]]; and
 in the centre of the basin is a shaft, about 10 ft. in diameter and 70
 ft. in depth, lined with the same siliceous material. The clear
 sea-green water flows over the eastern rim of the basin in little
@@ -46,7 +46,7 @@ runnels. On the surface it has a temperature of from 76 deg. to 89 deg.
 C., or from 168 deg. to 188 deg. F. Within the shaft there is of course
 a continual shifting both of the average temperature of the column and
 of the relative temperatures of the several strata. The results of the
-observations of Bunsen and A. L. O. Descloizeaux in 1847 were as follows
+observations of [[Bunsen]] and A. L. O. Descloizeaux in 1847 were as follows
 (cf. _Pogg. Ann._, vol. 72 and _Comptes rendus_, vol. 19): About three
 hours after a great eruption on July 6, the temperature 6 metres from
 the bottom of the shaft was 121.6 deg. C; at 9.50 metres, 121.1 deg.; at
@@ -73,11 +73,11 @@ nearest approach to the appropriate boiling point, and that this
 approach was closer in proportion as an eruption was at hand. The Great
 Geyser has varied very much in the nature and frequency of its eruptions
 since it began to be observed. In 1809 and 1810, according to Sir W. J.
-Hooker and Sir George S. Mackenzie, its columns were 100 or 90 ft. high,
-and rose at intervals of 30 hours, while, according to Henderson, in
+Hooker and Sir George S. [[Mackenzie]], its columns were 100 or 90 ft. high,
+and rose at intervals of 30 hours, while, according to [[Henderson]], in
 1815 the intervals were of 6 hours and the altitude from 80 to 150 ft.
 
-About 100 paces from the Great Geyser is the _Strokkr_ or churn, which
+About 100 paces from the Great Geyser is the _Strokkr_ or [[Churn|churn]], which
 was first described by Stanlay in 1789. The shaft in this case is about
 44 ft. deep, and, instead of being cylindrical, is funnel-shaped, having
 a width of about 8 ft. at the mouth, but contracting to about 10 in.
@@ -98,7 +98,7 @@ at 4.65 metres, 113.7 deg.; and at 8.85 metres, 99.9 deg.
 [Illustration: FIG. 1.]
 
 The great geyser-district of New Zealand is situated in the south of the
-province of Auckland in or near the upper basin of the Waikato river, to
+province of [[Auckland]] in or near the upper basin of the Waikato river, to
 the N.E. of Lake Taupo. The scene presented in various parts of the
 districts is far more striking and beautiful than anything of the same
 kind to be found in Iceland, but this is due not so much to the grandeur
@@ -121,7 +121,7 @@ the non-eruptive hot springs are much more numerous, there being more
 than 3000. The dimensions and activity of several of the geysers render
 those of Iceland and New Zealand almost insignificant in comparison. The
 principal groups are situated along the course of that tributary of the
-Upper Madison which bears the name of Fire Hole River. Many of the
+Upper [[Madison]] which bears the name of Fire Hole River. Many of the
 individual geysers have very distinctive characteristics in the form and
 colour of the mound, in the style of the eruption and in the shape of
 the column. The "Giantess" lifts the main column to a height of only 50
@@ -133,7 +133,7 @@ action. Its eruptions, which raise the water to a height of 100 or 150
 ft., last for about five minutes, and recur every hour or thereabouts.
 The "Beehive" sometimes attains a height of 219 it.; and the water,
 instead of falling back into the basin, is dissipated in spray and
-vapour. Very various accounts are given of the "Giant." F. V. Hayden saw
+vapour. Very various accounts are given of the "[[Giant]]." F. V. [[Hayden]] saw
 it playing for an hour and twenty minutes, and reaching a height of 140
 ft., and Doane says it continued in action for three hours and a half,
 and had a maximum of 200 ft.; but at the earl of Dunraven's visit the
@@ -153,10 +153,10 @@ eruption lasted only a few minutes.
   shaking of the ground." He admitted that this could be only a partial
   explanation of the facts of the case, and that he was unable to
   account for the frequent and periodical production of the necessary
-  heat; but he has the credit of hitting on what is certainly the
+  heat; but he has the [[Credit|credit]] of hitting on what is certainly the
   proximate cause--the sudden evolution of steam. By Bunsen's theory the
   whole difficulty is solved, as is beautifully demonstrated by the
-  artificial geyser designed by J. H. J. Muller of Freiburg (fig. 2). If
+  artificial geyser designed by J. H. J. Muller of [[Freiburg]] (fig. 2). If
   the tube ab be filled with water and heated at two points, first at a
   and then at b, the following succession of changes is produced. The
   water at a beginning to boil, the superincumbent column is

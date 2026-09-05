@@ -32,8 +32,8 @@ passed over to Sweden in August 1642. The great Swedish minister,
 Oxenstjerna, obtained for him a pension, and a commission to furnish a
 plan for regulating the Swedish schools according to his own method.
 Devoting himself to the elaboration of his scheme, Comenius settled
-first at Elbing, and then at Lissa; but, at the burning of the latter
-city by the Poles, he lost nearly all his manuscripts, and he finally
+first at [[Elbing]], and then at Lissa; but, at the burning of the latter
+city by the Poles, he lost nearly all his [[Manuscript|manuscripts]], and he finally
 removed to Amsterdam, where he died in 1671.
 
 As an educationist, Comenius holds a prominent place in history. He was
@@ -42,19 +42,19 @@ the teaching of words and things must go together. Languages should be
 taught, like the mother tongue, by conversation on ordinary topics;
 pictures, object lessons, should be used; teaching should go hand in
 hand with a happy life. In his course he included singing, economy,
-politics, world-history, geography, and the arts and handicrafts. He was
+politics, world-history, [[Geography|geography]], and the arts and handicrafts. He was
 one of the first to advocate teaching science in schools.
 
 As a theologian, Comenius was greatly influenced by Boehme. In his
 _Synopsis physicae ad lumen divinum reformatae_ he gives a physical
-theory of his own, said to be taken from the book of Genesis. He was
+theory of his own, said to be taken from the book of [[Genesis]]. He was
 also famous for his prophecies and the support he gave to visionaries.
 In his _Lux in tenebris_ he published the visions of Kotterus, Dabricius
 and Christina Poniatovia. Attempting to interpret the book of
 Revelation, he promised the millennium in 1672, and guaranteed
 miraculous assistance to those who would undertake the destruction of
 the Pope and the house of Austria, even venturing to prophesy that
-Cromwell, Gustavus Adolphus, and Rakoczy, prince of Transylvania, would
+[[Cromwell]], Gustavus Adolphus, and Rakoczy, prince of Transylvania, would
 perform the task. He also wrote to Louis XIV., informing him that the
 empire of the world should be his reward if he would overthrow the
 enemies of God.

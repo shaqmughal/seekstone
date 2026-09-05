@@ -12,8 +12,8 @@ MAXIMS, LEGAL. A maxim is an established principle or proposition. The
 Latin term _maxima_ is not to be found in Roman law with any meaning
 exactly analogous to that of a legal maxim in the modern sense of the
 word, but the treatises of many of the Roman jurists on _Regulae
-definitiones_, and _Sententiae juris_ are, in some measure, collections
-of maxims (see an article on "Latin Maxims in English Law" in _Law Mag.
+[[Definition|definitiones]]_, and _Sententiae juris_ are, in some measure, collections
+of maxims (see an article on "Latin Maxims in [[English Law]]" in _Law Mag.
 and Rev._ xx. 285); Fortescue (_De laudibus_, c. 8) and Du Cange treat
 _maxima_ and _regula_ as identical. The attitude of early English
 commentators towards the maxims of the law was one of unmingled
@@ -58,7 +58,7 @@ interest and value.
   acts. Among the maxims relating to the crown, the most important are
   _Rex non potest peccare_ (2 Rolle R. 304)--"The King can do no
   wrong"--which enshrines the principle of ministerial responsibility,
-  and _Nullum tempus occurrit regi_ (2 Co. Inst. 273)--"lapse of time
+  and _Nullum tempus occurrit regi_ (2 Co. Inst. 273)--"[[Lapse|lapse]] of time
   does not bar the crown," a maxim qualified by various enactments in
   modern times. Passing to the judicial office and the administration of
   justice, we may refer to the rules--_Audi alteram partem_--a
@@ -72,7 +72,7 @@ interest and value.
   juratores_ (8 Co. _Rep._ 155). The maxim _Boni judicis est ampliare
   jurisdictionem_ (Ch. Prec. 329) is certainly erroneous as it stands,
   as a judge has no right to "extend his jurisdiction." If _justitiam_
-  is substituted for _jurisdictionem_, as Lord Mansfield said it should
+  is substituted for _jurisdictionem_, as Lord [[Mansfield]] said it should
   be (1 Burr. 304), the maxim is near the truth. A group of maxims
   supposed to embody certain fundamental principles of legal right and
   obligations may next be referred to: (a) _Ubi jus ibi remedium_ (see
@@ -81,7 +81,7 @@ interest and value.
   were dealt with, was historically due, but which must be taken with
   the gloss _Damnum absque injuria_--"there are forms of actual damage
   which do not constitute legal injury" for which the law supplies no
-  remedy; (b) _Actus Dei nemini facit injuriam_ (2 Blackstone, 122)--and
+  remedy; (b) _Actus Dei nemini facit injuriam_ (2 [[Blackstone]], 122)--and
   its allied maxim, _Lex non cogit ad impossibilia_ (Co. _Litt._ 231
   b)--on which the whole doctrine of _vis major_ (_force majeure_) and
   impossible conditions in the law of contract has been built up. In
@@ -91,7 +91,7 @@ interest and value.
   see _Smith_ v. _Baker_, 1891, A.C. 325. Other maxims deal with rights
   of property--_Qui prior est tempore, potior est jure_ (Co. _Litt._ 14
   a), which consecrates the position of the _beati possidentes_ alike in
-  municipal and in international law; _Sic utere tuo ut alienum non
+  municipal and in [[International|international]] law; _Sic utere tuo ut alienum non
   laedas_ (9 Co. _Rep._ 59), which has played its part in the
   determination of the rights of adjacent owners; and _Domus sua cuique
   est tutissimum refugium_ (5 Co. _Rep._ 92)--"a man's house is his
@@ -101,7 +101,7 @@ interest and value.
   _Litt._ 33 a)--the canon law of Europe prior to the council of Trent,
   and still law in Scotland, though modified by legislation in England;
   and _Pater is est quem nuptiae demonstrant_ (see Co. _Litt._ 7 b), on
-  which, in most civilized countries, the presumption of legitimacy
+  which, in most civilized countries, the presumption of [[Legitimacy|legitimacy]]
   depends. In the interpretation of written instruments, the maxim
   _Noscitur a sociis_ (3 _Term Reports_, 87), which proclaims the
   importance of the context, still applies. So do the rules _Expressio
@@ -120,7 +120,7 @@ interest and value.
   other "maxims of equity" come the rules that "he that seeks equity
   must do equity," i.e. must act fairly, and that "equity looks upon
   that as done which ought to be done"--a principle from which the
-  "conversion" into money of land directed to be sold, and of money
+  "[[Conversion|conversion]]" into money of land directed to be sold, and of money
   directed to be invested in the purchase of land, is derived.
 
   The principal collections of legal maxims are: _English Law_: Bacon,
@@ -131,7 +131,7 @@ interest and value.
   Lofft (annexed to his Reports, 1776); Broom, _Legal Maxims_ (7th ed.
   London, 1900). _Scots Law_: Lord Trayner, _Latin Maxims and Phrases_
   (2nd ed., 1876); Stair, _Institutions of the Law of Scotland_, with
-  Index by More (Edinburgh, 1832). _American Treatises_: A. I. Morgan,
+  [[Index]] by More (Edinburgh, 1832). _American Treatises_: A. I. Morgan,
   _English Version of Legal Maxims_ (Cincinnati, 1878); S. S. Peloubet,
   _Legal Maxims in Law and Equity_ (New York, 1880).     (A. W. R.)
 

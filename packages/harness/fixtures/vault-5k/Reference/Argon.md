@@ -15,9 +15,9 @@ quantities of moisture and traces of carbonic acid, hydrogen, ammonia,
 analysis of air was conducted by determining the amount of oxygen
 present and assuming the remainder to be nitrogen. Since the time of
 Henry Cavendish no one seemed even to have asked the question whether
-the residue was, in truth, all capable of conversion into nitric acid.
+the residue was, in truth, all capable of [[Conversion|conversion]] into nitric acid.
 
-The manner in which this condition of complacent ignorance came to be
+The manner in which this condition of complacent [[Ignorance|ignorance]] came to be
 disturbed is instructive. Observations undertaken mainly in the interest
 of Prout's law, and extending over many years, had been conducted to
 determine afresh the densities of the principal gases--hydrogen, oxygen
@@ -42,7 +42,7 @@ experiment only brought out more clearly the diversity of the gases
 hitherto assumed to be identical. Whatever were the means employed to
 rid air of accompanying oxygen, a uniform value of the density was
 arrived at, and this value was 1/2% greater than that appertaining to
-nitrogen extracted from compounds such as nitrous oxide, ammonia and
+nitrogen extracted from [[Compound|compounds]] such as nitrous oxide, ammonia and
 ammonium nitrite. No impurity, consisting of any known substance, could
 be discovered capable of explaining an excessive weight in the one case,
 or a deficiency in the other. Storage for eight months did not disturb
@@ -126,12 +126,12 @@ wires insulated by U-shaped glass tubes CC passing through the liquid
 and round the mouth of the test-tube. The inner platinum ends DD of the
 wire may be sealed into the glass insulating tubes, but reliance should
 not be placed upon these sealings. In order to secure tightness in spite
-of cracks, mercury was placed in the bends. With a battery of five Grove
+of cracks, mercury was placed in the [[Bend|bends]]. With a battery of five Grove
 cells and a Ruhmkorff coil of medium size, a somewhat short spark, or
 arc, of about 5 mm. was found to be more favourable than a longer one.
 When the mixed gases were in the right proportion, the rate of
 absorption was about 30 c.c. per hour, about thirty times as fast as
-Cavendish could work with the electrical machine of his day. Where it is
+Cavendish could work with the electrical [[Machine|machine]] of his day. Where it is
 available, an alternating electric current is much superior to a battery
 and break. This combination, introduced by W. Spottiswoode, allows the
 absorption in the apparatus of fig. 1 to be raised to about 80 c.c. per
@@ -167,7 +167,7 @@ advantage is attained by raising the pressure of the gases above
 atmosphere, but a capacious vessel is necessary. This may consist of a
 glass sphere of 50 litres' capacity, into the neck of which, presented
 downwards, the necessary tubes are fitted. The whole of the interior
-surface is washed with a fountain of alkali, kept in circulation by
+surface is washed with a [[Fountain|fountain]] of alkali, kept in circulation by
 means of a small centrifugal pump. In this apparatus, and with about one
 horse-power utilized at the transformer, the absorption of gas is 21
 litres per hour ("The Oxidation of Nitrogen Gas," _Trans. Chem. Soc._,
@@ -186,7 +186,7 @@ determination over mercury by A.M. Kellas (_Proc. Roy. Soc._ lix. p.
 66, 1895) gave 1.186 c.c. as the amount of argon present in 100 c.c. of
 mixed atmospheric nitrogen and argon. In the earlier stages of the
 inquiry, when it was important to meet the doubts which had been
-expressed as to the presence of the new gas in the atmosphere, blank
+expressed as to the presence of the new gas in the atmosphere, [[Blank|blank]]
 experiments were executed in which air was replaced by nitrogen from
 ammonium nitrite. The residual argon, derived doubtless from the water
 used to manipulate the gases, was but a small fraction of what would
@@ -201,7 +201,7 @@ combustion furnace. Into this air, previously deprived of oxygen by
 red-hot copper and thoroughly dried, is led in a continuous stream. At
 this temperature the nitrogen combines with the magnesium, and thus the
 argon is concentrated. A still more potent absorption is afforded by
-calcium prepared _in situ_ by heating a mixture of magnesium dust with
+calcium prepared _in situ_ by heating a mixture of magnesium [[Dust|dust]] with
 thoroughly dehydrated quick-lime. The density of argon, prepared and
 purified by magnesium, was found by Sir William Ramsay to be 19.941 on
 the O = 16 scale. The volume actually weighed was 163 c.c. Subsequently
@@ -234,7 +234,7 @@ Kundt's method, and it leaves no room for any sensible energy of
 rotatory or vibrational motion. The same value had previously been found
 for mercury vapour by Kundt and Warburg, and had been regarded as
 confirmatory of the monatomic character attributed on chemical grounds
-to the mercury molecule. It may be added that helium has the same
+to the mercury molecule. It may be added that [[Helium|helium]] has the same
 character as argon in respect of specific heats (Ramsay, _Proc. Roy.
 Soc._ l. p. 86, 1895).
 
@@ -369,7 +369,7 @@ the evaporation will give an idea of the course of events:--
 
 FOOTNOTE:
 
-  [1] Sir James Dewar, _Compt. Rend._ (1904), 139, 261 and 241.
+  [1] Sir James [[Dewar]], _Compt. Rend._ (1904), 139, 261 and 241.
 
 ## See also
 

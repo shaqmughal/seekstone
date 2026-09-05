@@ -17,7 +17,7 @@ continued to serve the Company, both on the coast of Brazil, and in the
 West Indies. In the month of September of that year he made himself
 famous, gained immense advantage for the Company, and inflicted ruinous
 loss on the Spaniards, by the capture of the fleet which was bringing
-the bullion from the American mines home to Spain. The Spanish ships
+the [[Bullion|bullion]] from the American mines home to Spain. The Spanish ships
 were outnumbered chiefly because the convoy had become scattered by bad
 management and bad seamanship. The more valuable part of it, consisting
 of the four galleons, and eleven trading ships in which the king's share
@@ -28,7 +28,7 @@ in the bush before the Dutchman could come up with them. But Juan de
 Benavides, the Spanish commander, failed to act with decision, was
 overtaken, and his ships captured in the harbour before the silver could
 be discharged. The total loss was estimated by the Spaniards at four
-millions of ducats. Piet Heyn now returned home, and bought himself a
+millions of [[Ducat|ducats]]. Piet Heyn now returned home, and bought himself a
 house at Delft with the intention of retiring from the sea. In the
 following year, however, he was chosen at a crisis to take command of
 the naval force of the Republic, with the rank of Lieutenant-Admiral of

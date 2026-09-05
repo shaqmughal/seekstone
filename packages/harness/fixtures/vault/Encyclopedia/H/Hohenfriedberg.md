@@ -5,17 +5,17 @@ from the small town of Striegau. It gives its name to a battle (also
 called the battle of Striegau) in the War of the Austrian Succession,
 fought on the 3rd of June 1745 between the Prussians under Frederick the
 Great and the Austrians and Saxons commanded by Prince Charles of
-Lorraine. In May the king, whose army had occupied extended winter
+[[Lorraine]]. In May the king, whose army had occupied extended winter
 quarters in Silesia, had drawn it together into a position about Neisse
 whence he could manoeuvre against the Austrians, whether they invaded
 Silesia by Troppau or Glatz, or joined their allies (who, under the duke
-of Weissenfels, were on the upper Elbe), and made their advance on
+of Weissenfels, were on the upper [[Elbe]]), and made their advance on
 Schweidnitz, Breslau or Liegnitz. On the Austrians concentrating towards
 the Elbe, Frederick gradually drew his army north-westward along the
 edge of the mountain country until on the 1st of June it was near
 Schweidnitz. At that date the Austro-Saxons were advancing (very slowly
 owing to the poorness of the roads and the dilatoriness of the Saxon
-artillery train) from Waldenburg and Landshut through the mountains,
+artillery train) from Waldenburg and [[Landshut]] through the mountains,
 heading for Striegau. After a few minor skirmishes at the end of May,
 Frederick had made up his mind to offer no opposition to the passage of
 the Allies, but to fall upon them as they emerged, and the Prussian army
@@ -30,8 +30,8 @@ ranks." But in fact, as even the coolest observers noticed, the Prussian
 army was in excellent spirits and eager for the "decisive affair"
 promised by the king. On the 3rd of June, watched by the invisible
 patrols, the Austrians and Saxons emerged from the hills at
-Hohenfriedberg with bands playing and colours flying. Their advanced
-guard of infantry and cavalry spread out into the plain, making for a
+Hohenfriedberg with bands playing and [[Colours|colours]] flying. Their advanced
+guard of infantry and [[Cavalry|cavalry]] spread out into the plain, making for a
 line of hills spreading north-west from Striegau, where the army was to
 encamp. But the main body moved slowly, and at last Prince Charles and
 Weissenfels decided to put off the occupation of the line of hills till
@@ -46,7 +46,7 @@ The king had made his arrangements in good time, aided by the enemy's
 slowness, and in the evening he issued simple orders to move. About 9
 P.M. the Prussians marched off from Alt-Jauernigk towards Striegau, the
 guns on the road, the infantry and cavalry, in long open columns of
-companies and squadrons, over the fields on either side--a night march
+companies and squadrons, over the [[Fields|fields]] on either side--a night march
 well remembered by contrast with others as having been executed in
 perfect order. Meanwhile General Dumoulin, who commanded an advanced
 detachment between Striegau and Stanowitz, broke camp silently and moved
@@ -63,7 +63,7 @@ report, if made, was ignored.
 At 4 A.M. Dumoulin advanced on Pilgramshain, neglecting the fire of the
 Saxon outpost on the Spitzberg, whereupon this promptly retired in
 order to avoid being surrounded. Dumoulin then posted artillery on the
-slope of the hill and deployed his six grenadier battalions facing the
+slope of the hill and deployed his six grenadier [[Battalion|battalions]] facing the
 village. The leading cavalry of the main army came up and deployed on
 Dumoulin's left front in open rolling ground. Meantime the duke of
 Weissenfels had improvised a line of defence, posting his infantry in
@@ -78,7 +78,7 @@ confusion off the battlefield. The cavalry battle was ended by 6.30
 A.M., by which time Dumoulin's grenadiers, stiffened by the line
 regiment Anhalt (the "Old Dessauer's" own), were vigorously attacking
 the garden hedges and walls of Pilgramshain, and the Saxon and Austrian
-infantry in the marsh was being attacked by Prince Dietrich of Dessau
+infantry in the marsh was being attacked by Prince [[Dietrich]] of [[Dessau]]
 with the right wing of the king's infantry. The line infantry of those
 days, however, did not work easily in bad ground, and the Saxons were
 steady and well drilled. After an hour's fight, well supported by the
@@ -117,8 +117,8 @@ Saxons out of the marsh, pursued Weissenfels, two regiments of his and
 one of Dumoulin's were brought over to the left wing and sent against
 the north side of Gunthersdorf. In the course of the general forward
 movement, which was made in what was for those days a very irregular
-line, a wide gap opened up between the centre and left, behind which 10
-squadrons of the Bayreuth dragoon regiment, with Lieut.-General von
+line, a wide [[Gap|gap]] opened up between the centre and left, behind which 10
+squadrons of the [[Bayreuth]] [[Dragoon|dragoon]] regiment, with Lieut.-General von
 Gessler, took up their position. Thus the line advanced. The grenadiers
 on the extreme left cleared Thomaswaldau, and their fire galled the
 Austrian squadrons engaged in the cavalry battle to the south. Then
@@ -147,7 +147,7 @@ spent to pursue.
 
 HOHENHEIM, a village of Germany, in the kingdom of Wurttemberg, 7 m. S.
 of Stuttgart by rail. Pop. 300. It came in 1768 from the counts of
-Hohenheim to the dukes of Wurttemberg, and in 1785 Duke Karl Eugen built
+Hohenheim to the [[Dukes|dukes]] of Wurttemberg, and in 1785 Duke Karl Eugen built
 a country house here. This house with grounds is now the seat of the
 most important agricultural college in Germany; it was founded in 1817,
 was raised to the position of a high school in 1865, and now ranks as a

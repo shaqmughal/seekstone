@@ -16,16 +16,16 @@ in connexion with this work he wrote a commentary on the _Minhaj
 ut-Talibin_ of Nawawi (q.v.). He is, however, better known in the
 history of literature for his _Life of Animals_ (_Hayat ul-Hayawan_),
 which treats in alphabetic order of 931 animals mentioned in the Koran,
-the traditions and the poetical and proverbial literature of the Arabs.
+the traditions and the poetical and proverbial literature of the [[Arabs]].
 The work is a compilation from over 500 prose writers and nearly 200
 poets. The correct spelling of the names of the animals is given with an
 explanation of their meanings. The use of the animals in medicine, their
 lawfulness or unlawfulness as food, their position in folk-lore are the
 main subjects treated, while occasionally long irrelevant sections on
-political history are introduced.
+[[Political History|political history]] are introduced.
 
   The work exists in three forms. The fullest has been published several
-  times in Egypt; a mediate and a short recension exist in manuscript.
+  times in Egypt; a mediate and a short recension exist in [[Manuscript|manuscript]].
   Several editions have been made at various times of extracts, among
   them the poetical one by Suyuti (q.v.), which was translated into
   Latin by A. Ecchelensis (Paris, 1667). Bochartus in his _Hierozoicon_

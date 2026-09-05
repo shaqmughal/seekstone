@@ -7,17 +7,17 @@ tags: [biography, history]
 
 # Blackmail
 
-BLACKMAIL, a term, in English law, used in three special meanings, at
+BLACKMAIL, a term, in [[English Law|English law]], used in three special meanings, at
 different times. The usual derivation of the second half of the word is
-from Norman Fr. _maille (medalia_; cf. "medal"), small copper coin; the
+from Norman Fr. _maille (medalia_; cf. "medal"), small copper [[Coin|coin]]; the
 _New English Dictionary_ derives from "mail" (q.v.), meaning rent or
 tribute. (1) The primary meaning of "blackmail" was rent paid in labour,
 grain or baser metal (i.e. money other than sterling money), called
 _reditus nigri_, in contradistinction to rent paid in silver or white
 money (_mailles blanches_). (2) In the northern counties of England
 (Northumberland, Westmorland and the bishopric of Durham) it signified a
-tribute in money, corn, cattle or other consideration exacted from
-farmers and small owners by freebooters in return for immunity from
+tribute in money, [[Corn|corn]], cattle or other consideration exacted from
+[[Farmer|farmers]] and small owners by freebooters in return for immunity from
 robbers or moss-troopers. By a statute of 1601 it was made a felony
 without benefit of clergy to receive or pay such tribute, but the
 practice lingered until the union of England and Scotland in 1707. (3)

@@ -35,7 +35,7 @@ strongholds of Angria, the Mahratta pirate of the 18th century. The same
 island has given its name to Kolaba Point, the spur of Bombay Island
 running south that protects the entrance to the harbour. On Kolaba Point
 are the terminus of the Bombay & Baroda railway, barracks for a European
-regiment, lunatic asylum and observatory.
+regiment, lunatic [[Asylum|asylum]] and observatory.
 
 ## See also
 

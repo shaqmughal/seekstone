@@ -4,7 +4,7 @@ CARNIOLA (Ger. _Krain_), a duchy and crown-land of Austria, bounded N.
 by Carinthia, N.E. by Styria, S.E. and S. by Croatia, and W. by Görz and
 Gradisca, Trieste and Istria. It has an area of 3856 sq. m. Carniola is
 for the most part a mountainous region, occupied in the N. by the Alps,
-and in the S. by the Karst (q.v.) or Carso Mountains. It is traversed by
+and in the S. by the [[Karst]] (q.v.) or Carso Mountains. It is traversed by
 the Julian Alps, the Karawankas and the Steiner Alps, which belong all
 to the southern zone of the Eastern Alps. The highest point in the
 Julian Alps is formed by the three sugar-loaf peaks of the Triglav or
@@ -36,7 +36,7 @@ watershed of the Save. The Save or Sau rises within the duchy, and is
 formed by the junction at Radmannsdorf of its two head-streams the
 Wurzener Save and the Wocheiner Save. Its principal affluents are the
 Kanker and the Steiner Feistritz on the left, and the Zeyer or Sora, the
-Laibach and the Gurk on the right. The most remarkable of these rivers
+[[Laibach]] and the Gurk on the right. The most remarkable of these rivers
 is the Laibach, which rises in the Karst region under the name of Poik,
 takes afterwards a subterranean course and traverses the Adelsberg
 grotto, and appears again on the surface near Planina under the name of
@@ -56,7 +56,7 @@ area only 14.8% is under cultivation, and the crops do not suffice for
 the needs of the province; forests occupy 44.4%, 17.2% are meadows,
 15.7% are pastures, and 1.17% of the soil is covered by vineyards. Large
 quantities of flax are grown, while the timber trade is of considerable
-importance. Fish and game are plentiful, and the silkworm is bred in the
+importance. Fish and [[Game|game]] are plentiful, and the silkworm is bred in the
 warmer districts. The principal mining product is mercury, extracted at
 Idria, while iron and copper ore, zinc and coal are also found. The
 industry is not well developed, but the weaving of linen and lace is

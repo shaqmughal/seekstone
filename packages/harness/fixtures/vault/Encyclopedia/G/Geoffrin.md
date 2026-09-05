@@ -15,10 +15,10 @@ Guard, who died in 1750. It was not till Mme Geoffrin was nearly fifty
 years of age that we begin to hear of her as a power in Parisian
 society. She had learned much from Mme de Tencin, and about 1748 began
 to gather round her a literary and artistic circle. She had every week
-two dinners, on Monday for artists, and on Wednesday for her friends the
+two [[Dinner|dinners]], on Monday for artists, and on Wednesday for her friends the
 Encyclopaedists and other men of letters. She received many foreigners
 of distinction, Hume and Horace Walpole among others. Walpole spent much
-time in her society before he was finally attached to Mme du Deffand,
+time in her society before he was finally attached to Mme du [[Deffand]],
 and speaks of her in his letters as a model of common sense. She was
 indeed somewhat of a small tyrant in her circle. She had adopted the
 pose of an old woman earlier than necessary, and her coquetry, if such
@@ -42,9 +42,9 @@ on the 6th of October 1777.
 
   See _Correspondance inedite du roi Stanislas Auguste Poniatowski et de
   Madame Geoffrin_, edited by the comte de Mouy (1875); P. de Segur, _Le
-  Royaume de la rue Saint-Honore, Madame Geoffrin et sa fille_ (1897);
-  A. Tornezy, _Un Bureau d'esprit au XVIII^e siecle: le salon de Madame
-  Geoffrin_ (1895); and Janet Aldis, _Madame Geoffrin, her Salon and her
+  Royaume [[De La Rue|de la rue]] Saint-Honore, Madame Geoffrin et sa fille_ (1897);
+  A. Tornezy, _Un [[Bureau]] d'esprit au XVIII^e siecle: le salon de Madame
+  Geoffrin_ (1895); and [[Janet]] Aldis, _Madame Geoffrin, her Salon and her
   Times, 1750-1777_ (1905).
 
 ## See also

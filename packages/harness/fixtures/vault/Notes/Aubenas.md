@@ -1,7 +1,7 @@
 # Aubenas
 
-AUBENAS, a town of south-eastern France, in the department of Ardeche,
-19 m. S.W. of Privas by road. Pop. (1906) 3976 (town), 7064 (commune).
+AUBENAS, a town of south-eastern France, in the department of [[Ardeche]],
+19 m. S.W. of Privas by road. Pop. (1906) 3976 (town), 7064 ([[Commune|commune]]).
 Aubenas is beautifully situated on the slope of a hill, on the right
 bank of the Ardeche, but its streets generally are crooked and narrow.
 It has a castle of the 13th and 16th centuries, now occupied by several

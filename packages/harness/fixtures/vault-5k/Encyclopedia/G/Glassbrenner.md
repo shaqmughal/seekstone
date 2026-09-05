@@ -18,7 +18,7 @@ titles _Berlin wie es ist und--trinkt_ (30 parts, with illustrations,
 literature associated with modern Berlin. In 1840 he married the actress
 Adele Peroni (1813-1895), and removed in the following year to
 Neustrelitz, where his wife had obtained an engagement at the Grand
-ducal theatre. In 1848 Glassbrenner entered the political arena and
+ducal theatre. In 1848 Glassbrenner entered the political [[Arena|arena]] and
 became the leader of the democratic party in Mecklenburg-Strelitz.
 Expelled from that country in 1850, he settled in Hamburg, where he
 remained until 1858; and then he became editor of the _Montagszeitung_
@@ -27,7 +27,7 @@ in Berlin, where he died on the 25th of September 1876.
   Among Glassbrenner's other humorous and satirical writings may be
   mentioned: _Leben und Treiben der feinen Welt_ (1834); _Bilder und
   Traume aus Wien_ (2 vols., 1836); Gedichte (1851, 5th ed. 1870); the
-  comic epics, _Neuer Reineke Fuchs_ (1846, 4th ed. 1870) and _Die
+  comic epics, _Neuer Reineke [[Fuchs]]_ (1846, 4th ed. 1870) and _Die
   verkehrte Welt_ (1857, 6th ed. 1873); also _Berliner Volksleben_ (3
   vols., illustrated; Leipzig, 1847-1851). Glassbrenner has published
   some charming books for children, notably _Lachende Kinder_ (14th ed.,

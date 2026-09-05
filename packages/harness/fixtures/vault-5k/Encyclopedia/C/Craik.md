@@ -28,9 +28,9 @@ biographical notes and frequent quotations; and in 1847 his _Bacon, his
 Writings and his Philosophy_, a work of a similar kind. The two
 last-mentioned works appeared among _Knight's Weekly Volumes_. Two years
 later Craik obtained the chair of history and English literature at
-Queen's College, Belfast, a position which he held till his death, which
+Queen's College, [[Belfast]], a position which he held till his death, which
 took place on the 25th of June 1866. He had married Miss Jeannette
-Dempster (d. 1856) in 1826, and his daughter, Georgiana Marion Craik
+Dempster (d. 1856) in 1826, and his daughter, Georgiana [[Marion]] Craik
 (Mrs A. W. May), wrote over thirty novels, of which _Lost and Won_
 (1859) was the best. Besides the works already noticed, Craik published
 the _History of British Commerce from the Earliest Times_ (1844),

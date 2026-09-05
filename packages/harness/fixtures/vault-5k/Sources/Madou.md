@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Madou"
 
 MADOU, JEAN BAPTISTE (1796-1877), Belgian painter and lithographer, was
 born at Brussels on the 3rd of February 1796. He studied at the Brussels
-Academy of Fine Arts and was a pupil of François. While draughtsman to
+Academy of [[Fine Arts]] and was a pupil of François. While draughtsman to
 the topographical military division at Courtrai, he received a
 commission for lithographic work from a Brussels publisher. It was about
 1820 that he began his artistic career. Between 1825 and 1827 he
@@ -25,7 +25,7 @@ including "The Fiddler," "The Jewel Merchant," "The Police Court," "The
 Drunkard," "The Ill-regulated Household," and "The Village Politicians."
 Among his numerous works mention may also be made of "The Feast at the
 Château" (1851), "The Unwelcome Guests" (1852, Brussels Gallery),
-generally regarded as his masterpiece, "The Rat Hunt" (acquired by
+generally regarded as his masterpiece, "The Rat [[Hunt]]" (acquired by
 Leopold II., king of the Belgians), "The Arquebusier" (1860), and "The
 Stirrup Cup." At the age of sixty-eight he decorated a hall in his house
 with a series of large paintings representing scenes from La Fontaine's
@@ -34,7 +34,7 @@ paintings for the château of Ciergnon. Madou died at Brussels on the
 31st of March 1877.
 
   For a list of his paintings see the annual report of the Academy of
-  Belgium for 1879.     (F. K.*)
+  [[Belgium]] for 1879.     (F. K.*)
 
 ## References
 

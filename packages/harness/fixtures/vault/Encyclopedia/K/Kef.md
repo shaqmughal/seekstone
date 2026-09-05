@@ -9,7 +9,7 @@ id: 42-100
 # Kef
 
 KEF, more correctly El-Kef (the Rock), a town of Tunisia, 125 m. by rail
-S.S.W. of the capital, and 75 m. S.E. of Bona in Algeria. It occupies
+S.S.W. of the capital, and 75 m. S.E. of [[Bona]] in Algeria. It occupies
 the site of the Roman colony of Sicca Veneria, and is built on the steep
 slope of a rock in a mountainous region through which flows the
 Mellegue, an affluent of the Mejerda. Situated at the intersection of
@@ -21,16 +21,16 @@ half-dozen mosques and tortuous, dirty streets, is still partly walled.
 The southern part of the wall has however been destroyed by the French,
 and the remainder is being left to decay. Beyond the part of the wall
 destroyed is the French quarter. The _kasbah_, or citadel, occupies a
-rocky eminence on the west side of the town. It was built, or rebuilt,
+rocky [[Eminence|eminence]] on the west side of the town. It was built, or rebuilt,
 by the Turks, the material being Roman. It has been restored by the
-French, who maintain a garrison here.
+French, who maintain a [[Garrison|garrison]] here.
 
 The Roman remains include fragments of a large temple dedicated to
-Hercules, and of the baths. The ancient cisterns remain, but are empty,
-being used as part of the barracks. The town is however supplied by
+[[Hercules]], and of the baths. The ancient cisterns remain, but are empty,
+being used as part of the [[Barracks|barracks]]. The town is however supplied by
 water from the same spring which filled the cisterns. The Christian
-cemetery is on the site of a basilica. There are ruins of another
-Christian basilica, excavated by the French, the apse being intact and
+cemetery is on the site of a [[Basilica|basilica]]. There are ruins of another
+Christian basilica, excavated by the French, the [[Apse|apse]] being intact and
 the narthex serving as a church. Many stones with Roman inscriptions are
 built into the walls of Arab houses. The modern town is much smaller
 than the Roman colony. Pop. about 6000, including about 100 Europeans
@@ -39,13 +39,13 @@ than the Roman colony. Pop. about 6000, including about 100 Europeans
   The Roman colony of Sicca Veneria appears from the character of its
   worship of Venus (Val. Max. ii. 6, S 15) to have been a Phoenician
   settlement. It was afterwards a Numidian stronghold, and under the
-  Caesars became a fashionable residential city and one of the chief
+  [[Caesar|Caesars]] became a fashionable residential city and one of the chief
   centres of Christianity in North Africa. The Christian apologist
   Arnobius the Elder lived here.
 
-  See H. Barth, _Die Kustenlander des Mittelmeeres_ (1849); _Corpus
-  Inscript. Lat._, vol. viii.; Sombrun in _Bull. de la soc. de geog. de
-  Bordeaux_ (1878). Also Cardinal Newman's Callista: _a Sketch of the
+  See H. [[Barth]], _Die Kustenlander des Mittelmeeres_ (1849); _Corpus
+  Inscript. Lat._, vol. viii.; Sombrun in _[[Bull]]. de la soc. de geog. de
+  [[Bordeaux]]_ (1878). Also Cardinal Newman's Callista: _a Sketch of the
   Third Century_ (1856), for a "reconstruction" of the manner of life of
   the early Christians and their oppressors.
 

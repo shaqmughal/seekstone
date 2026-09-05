@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ausonius"
 # Ausonius
 
 AUSONIUS, DECIMUS MAGNUS (c. 310-395), Roman poet and rhetorician, was
-born at Burdigala [_Bordeaux_]. He received an excellent education,
+born at Burdigala [_[[Bordeaux]]_]. He received an excellent education,
 especially in grammar and rhetoric, but confesses that his progress in
 Greek was unsatisfactory. Having completed his studies, he practised for
 some time as an advocate, but his inclination lay in the direction of
@@ -28,19 +28,19 @@ His most important extant works are: in prose, _Gratiarum Actio_, an
 address of thanks to Gratian for his elevation to the consulship;
 _Periochae_, summaries of the books of the _Iliad_ and _Odyssey_; and
 one or two _epistolae_; in verse, _Epigrammata_, including several free
-translations from the Greek Anthology; _Ephemeris_, the occupations of
+translations from the Greek Anthology; _[[Ephemeris]]_, the occupations of
 a day; _Parentalia_ and _Commemoratio Professorum Burdigalensium_, on
 deceased relatives and literary friends; _Epitaphia_, chiefly on the
-Trojan heroes; _Caesares_, memorial verses on the Roman emperors from
-Julius Caesar to Elagabalus; _Ordo Nobilium Urbium_, short poems on
+Trojan heroes; _[[Caesar|Caesares]]_, memorial verses on the Roman emperors from
+[[Julius]] Caesar to Elagabalus; _Ordo Nobilium Urbium_, short poems on
 famous cities; _Ludus Septem Sapientum_, speeches delivered by the Seven
 Sages of Greece; _Idyllia_, of which the best-known are the _Mosella_, a
-descriptive poem on the Moselle, and the infamous _Cento Nuptialis_. We
+descriptive poem on the Moselle, and the infamous _[[Cento]] Nuptialis_. We
 may also mention _Cupido Cruciatus_, Cupid on the cross;
 _Technopaegion_, a literary trifle consisting of a collection of verses
 ending in monosyllables; _Eclogarum Liber_, on astronomical and
 astrological subjects; _Epistolae_, including letters to Paulinus and
-Symmachus; lastly, _Praefatiunculae_, three poetical epistles, one to
+Symmachus; lastly, _Praefatiunculae_, three poetical [[Epistle|epistles]], one to
 the emperor Theodosius. Ausonius was rather a man of letters than a
 poet; his wide reading supplied him with material for a great variety of
 subjects, but his works exhibit no traces of a true poetic spirit; even

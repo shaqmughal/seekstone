@@ -9,7 +9,7 @@ period, _Les plus belles sont les plus fausses_. A few others followed
 much in the same strain, but failed to catch the attention of the
 public. He tried his hand at dramatic criticism in the _Revue des
 théâtres_, and in 1838 made a double venture on the stage. The small
-Théâtre du Panthéon produced, amid some signs of popular favour, a drama
+Théâtre du Panthéon produced, amid some signs of popular favour, a [[Drama|drama]]
 of his, _L'Avocat Loubet_, while a vaudeville, _Monsieur de Coislin ou
 l'homme infiniment poli_, written in collaboration with Marc Michel, and
 given at the Palais Royal, introduced for the first time to the
@@ -29,17 +29,17 @@ incident when he dedicated the first edition of his complete works: "To
 my wife." Labiche, in conjunction with Varin,[1] Marc Michel,[2]
 Clairville,[3] Dumanoir,[4] and others contributed comic plays
 interspersed with couplets to various Paris theatres. The series
-culminated in the memorable farce in five acts, _Un Chapeau de paille
+culminated in the memorable [[Farce|farce]] in five acts, _Un Chapeau de paille
 d'Italie_ (August 1851). It remains an accomplished specimen of the
 French _imbroglio_, in which some one is in search of something, but
-does not find it till five minutes before the curtain falls. Prior to
+does not find it till five minutes before the [[Curtain|curtain]] falls. Prior to
 that date Labiche had been only a successful _vaudevilliste_ among a
-crowd of others; but a twelvemonth later he made a new departure in _Le
+[[Crowd|crowd]] of others; but a twelvemonth later he made a new departure in _Le
 Misanthrope et l'Auvergnat_. All the plays given for the next
 twenty-five years, although constructed on the old plan, contained a
 more or less appreciable dose of that comic observation and good sense
 which gradually raised the French farce almost to the level of the
-comedy of character and manners. "Of all the subjects," he said, "which
+comedy of character and [[Manners|manners]]. "Of all the subjects," he said, "which
 offered themselves to me, I have selected the _bourgeois_. Essentially
 mediocre in his vices and in his virtues, he stands half-way between the
 hero and the scoundrel, between the saint and the profligate." During
@@ -63,9 +63,9 @@ happiest productions of Labiche.
 
 In 1877 he brought his connexion with the stage to a close, and retired
 to his rural property in Sologne. There he could be seen, dressed as a
-farmer, with low-brimmed hat, thick gaiters and an enormous stick,
+[[Farmer|farmer]], with low-brimmed hat, thick gaiters and an enormous stick,
 superintending the agricultural work and busily engaged in reclaiming
-land and marshes. His lifelong friend, Augier, visited him in his
+land and marshes. His lifelong friend, [[Augier]], visited him in his
 principality, and, being left alone in the library, took to reading his
 host's dramatic productions, scattered here and there in the shape of
 theatrical _brochures_. He strongly advised Labiche to publish a
@@ -76,7 +76,7 @@ into effect. Labiche's comic plays, in ten volumes, were issued during
 the author's most sanguine friends. It had been commonly believed that
 these plays owed their popularity in great measure to the favourite
 actors who had appeared in them; but it was now discovered that all,
-with the exception of Geoffroy, had introduced into them a grotesque and
+with the exception of Geoffroy, had introduced into them a [[Grotesque|grotesque]] and
 caricatural element, thus hiding from the spectator, in many cases, the
 true comic vein and delightful delineation of human character. The
 amazement turned into admiration, and the _engouement_ became so general
@@ -84,7 +84,7 @@ that very few dared grumble or appear scandalized when, in 1880, Labiche
 was elected to the French Academy. It was fortunate that, in former
 years, he had never dreamt of attaining this high distinction; for, as
 M. Pailleron justly observed, while trying to get rid of the little
-faults which were in him, he would have been in danger of losing some of
+[[Fault|faults]] which were in him, he would have been in danger of losing some of
 his sterling qualities. But when the honour was bestowed upon him, he
 enjoyed it with his usual good sense and quiet modesty. He died in Paris
 on the 23rd of January 1888.
@@ -111,7 +111,7 @@ FOOTNOTES:
 
   [1] Victor Varin, pseudonym of Charles Voirin (1798-1869).
 
-  [2] Marc Antoine Amédée Michel (1812-1868), vaudevillist.
+  [2] Marc [[Antoine]] Amédée Michel (1812-1868), vaudevillist.
 
   [3] Louis François Nicolaise, called Clairville (1811-1879),
     part-author of the famous _Fille de Mme Angot_ (1872).
@@ -119,7 +119,7 @@ FOOTNOTES:
   [4] Philippe François Pinel, called Dumanoir (1806-1865).
 
   [5] Alfred Charlemagne Lartigue, called Delacour (1815-1885). For a
-    list of this author's pieces see O. Lorenz, _Catalogue Général_ (vol.
+    list of this author's pieces see O. Lorenz, _[[Catalogue]] Général_ (vol.
     ii., 1868).
 
   [6] Adolphe Joseph Choler (1822-1889).

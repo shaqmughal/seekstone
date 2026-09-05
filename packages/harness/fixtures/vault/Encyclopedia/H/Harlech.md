@@ -8,11 +8,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Harlech"
 
 # Harlech
 
-HARLECH (perhaps for _Hardd lech_, fair slate, or _Harleigh_, an
+HARLECH (perhaps for _Hardd [[Lech|lech]]_, fair slate, or _Harleigh_, an
 Anglicized variant), a town of Merionethshire, Wales, 38 m. from
 Aberystwyth, and 29 from Carnarvon on the Cambrian railway. Pop. 900.
 Ruins of a fortress crown the rock of Harlech, about half a mile from
-the sea. Discovery of Roman coins makes it probable that it was once
+the sea. Discovery of Roman [[Coin|coins]] makes it probable that it was once
 occupied by the Romans. In the 3rd century Bronwen (white bosom),
 daughter of Bran Fendigaid (the blessed), is said to have stayed here,
 perhaps by force; and there was here a tower, called Twr Bronwen, and
@@ -21,10 +21,10 @@ North Wales. In the early 10th century, Harlech castle was, apparently,
 repaired by Colwyn, lord of Ardudwy, founder of one of the fifteen North
 Wales tribes, and thence called Caer Colwyn. The present structure
 dates, like many others in the principality, from Edward I., perhaps
-even from the plans of the architect of Carnarvon and Conway castles,
+even from the plans of the architect of Carnarvon and [[Conway]] castles,
 but with the retention of old portions. It is thought to have been
 square, each side measuring some 210 ft., with towers and turrets.
-Glendower held it for four years. Here, in 1460, Margaret, wife of Henry
+[[Glendower]] held it for four years. Here, in 1460, [[Margaret]], wife of Henry
 VI., defeated at Northampton, took refuge. Dafydd ap Ieuan ap Einion
 held it for the Lancastrians, until famine, rather than Edward IV., made
 him surrender. From this time is said to date the air "March of the men

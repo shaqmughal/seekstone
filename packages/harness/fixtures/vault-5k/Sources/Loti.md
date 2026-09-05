@@ -15,7 +15,7 @@ adhered, at least nominally, to the faith of his fathers. Of the
 picturesque and touching incidents of his childhood he has given a very
 vivid account in _Le Roman d'un enfant_ (1890). His education began in
 Rochefort, but at the age of seventeen, being destined for the navy, he
-entered the naval school, Le Borda, and gradually rose in his
+entered the naval school, Le [[Borda]], and gradually rose in his
 profession, attaining the rank of captain in 1906. In January 1910 he
 was placed on the reserve list. His pseudonym is said to be due to his
 extreme shyness and reserve in early life, which made his comrades call
@@ -28,14 +28,14 @@ so many of Loti's, seems half a romance, half an autobiography. He
 proceeded to the South Seas, and on leaving Tahiti published the
 Polynesian idyll, originally called _Rarahu_ (1880), which was reprinted
 as _Le Mariage de Loti_, and which first introduced to the wider public
-an author of remarkable originality and charm. _Le Roman d'un spahi_, a
+an author of remarkable originality and [[Charm|charm]]. _Le Roman d'un spahi_, a
 record of the melancholy adventures of a soldier in Senegambia, belongs
 to 1881. In 1882 Loti issued a collection of short studies under the
 general title of _Fleurs d'ennui_. In 1883 he achieved the widest
 celebrity, for not only did he publish _Mon frère Yves_, a novel
 describing the life of a French bluejacket in all parts of the
 world--perhaps his most characteristic production--but he was involved
-in a public discussion in a manner which did him great credit. While
+in a public discussion in a manner which did him great [[Credit|credit]]. While
 taking part as a naval officer in the Tongking War, Loti had exposed in
 the _Figaro_ a series of scandals which followed on the capture of Hué
 (1883), and was suspended from the service for more than a year. He
@@ -43,7 +43,7 @@ continued for some time nearly silent, but in 1886 he published a novel
 of life among the Breton fisher-folk, called _Pêcheur d'islande_, the
 most popular of all his writings. In 1887 he brought out a volume of
 extraordinary merit, which has not received the attention it deserves;
-this is _Propos d'exil_, a series of short studies of exotic places, in
+this is _Propos d'exil_, a series of short studies of [[Exotic|exotic]] places, in
 his peculiar semi-autobiographic style. The fantastic novel of Japanese
 manners, _Madame Chrysanthème_, belongs to the same year. Passing over
 one or two slighter productions, we come in 1890 to _Au Maroc_, the
@@ -61,7 +61,7 @@ visited British India, with the view of describing what he saw; the
 result appeared in 1903--_L'Inde_ (_sans les Anglais_). At his best
 Pierre Loti was unquestionably the finest descriptive writer of the day.
 In the delicate exactitude with which he reproduced the impression given
-to his own alert nerves by unfamiliar forms, colours, sounds and
+to his own alert nerves by unfamiliar forms, [[Colours|colours]], sounds and
 perfumes, he was without a rival. But he was not satisfied with this
 exterior charm; he desired to blend with it a moral sensibility of the
 extremest refinement, at once sensual and ethereal. Many of his best
@@ -73,13 +73,13 @@ are apt to pall upon the reader, and his later books of pure description
 were rather empty. His greatest successes were gained in the species of
 confession, half-way between fact and fiction, which he essayed in his
 earlier books. When all his limitations, however, have been rehearsed,
-Pierre Loti remains, in the mechanism of style and cadence, one of the
+Pierre Loti remains, in the mechanism of style and [[Cadence|cadence]], one of the
 most original and most perfect French writers of the second half of the
 19th century. Among his later works were: _La Troisième jeunesse de Mme
 Prune_ (1905); _Les Désenchantées_ (1906, Eng. trans. by C. Bell); _La
 Mort de Philae_ (1908); _Judith Renaudin_ (Théâtre Antoine, 1904), a
 five-act historical play based on an earlier book; and, in
-collaboration with Émile Vedel, a translation of _King Lear_, also
+collaboration with Émile Vedel, a translation of _King [[Lear]]_, also
 produced at the Théâtre Antoine in 1904.     (E. G.)
 
 
@@ -97,7 +97,7 @@ Bernese would come over and alter their religion. In 1906 the piercing
 of a tunnel (8½ m. long) beneath this pass was begun, starting a little
 above Kandersteg and ending at Goppenstein near the mouth of the
 Lötschen valley. Subsidies were granted by both the confederation and
-the canton of Bern. This pass is to be carefully distinguished from the
+the canton of [[Bern]]. This pass is to be carefully distinguished from the
 Lötschenlücke (10,512 ft.), another easy glacier pass which leads from
 the head of the Lötschen valley to the Great Aletsch glacier.
      (W. A. B. C.)
@@ -106,7 +106,7 @@ the head of the Lötschen valley to the Great Aletsch glacier.
 
 
 LOTTERIES. The word lottery[1] has no very definite signification. It
-may be applied to any process of determining prizes by lot, whether the
+may be applied to any process of determining prizes by [[Lot|lot]], whether the
 object be amusement or gambling or public profit. In the Roman
 Saturnalia and in the banquets of aristocratic Romans the object was
 amusement; the guests received _apophoreta_. The same plan was followed
@@ -143,11 +143,11 @@ first drawing were (1) _extrait_, (2) _ambe_, (3) _terne_, (4)
 _quaterne_, (5) _quine_. After this there were four drawings called
 _primes gratuites_. The _extrait_ gave fifteen times the price of the
 ticket; the _quine_ gave one million times the price. These are said to
-be much more favourable terms than were given in Vienna, Frankfort and
+be much more favourable terms than were given in Vienna, [[Frankfort]] and
 other leading European cities at the end of the 18th century. The
 _Loterie Royale_ was ultimately suppressed in 1836. Under the law of the
 29th of May 1844 lotteries may be held for the assistance of charity and
-the fine arts. In 1878 twelve million lottery tickets of one franc each
+the [[Fine Arts|fine arts]]. In 1878 twelve million lottery tickets of one [[Franc|franc]] each
 were sold in Paris to pay for prizes to exhibitors in the great
 Exhibition and expenses of working-men visitors. The first prize was
 worth £5000; the second, £4000, and the third and fourth £2000 each. The
@@ -155,7 +155,7 @@ Société du Crédit Foncier, and many of the large towns, are permitted to
 contract loans, the periodical repayments of which are determined by
 lot. This practice, which is prohibited in Germany and England,
 resembles the older system of giving higher and lower rates of interest
-for money according to lot. Lotteries were suppressed in Belgium in
+for money according to lot. Lotteries were suppressed in [[Belgium]] in
 1830, Sweden in 1841 and Switzerland in 1865, but they still figure in
 the state budgets of Austria-Hungary, Prussia and other German States,
 Holland, Spain, Italy and Denmark. In addition to lottery loans,
@@ -190,7 +190,7 @@ benefit of the Royal Fishing Company, were prohibited as common
 nuisances, by which children, servants and other unwary persons had been
 ruined. This prohibition was in the 18th century gradually extended to
 illegal insurances on marriages and other events, and to a great many
-games with dice, such as faro, basset, hazard, except backgammon and
+[[Games|games]] with dice, such as faro, basset, hazard, except backgammon and
 games played in the royal palace. In spite of these prohibitions, the
 government from 1709 down to 1824 annually raised considerable sums in
 lotteries authorized by act of parliament. The prizes were in the form
@@ -198,7 +198,7 @@ of terminable or perpetual annuities. The £10 tickets were sold at a
 premium of say 40% to contractors who resold them in retail (sometimes
 in one-sixteenth parts) by "morocco men," or men with red leather books
 who travelled through the country. As the drawing extended over forty
-days, a very pernicious system arose of insuring the fate of tickets
+days, a very pernicious system arose of insuring the [[Fate|fate]] of tickets
 during the drawing for a small premium of 4d. or 6d. This was partly
 cured by the Little Go Act of 1802, directed against the itinerant
 wheels which plied between the state lotteries, and partly by Perceval's
@@ -214,7 +214,7 @@ them, and in 1826 they were finally prohibited. An energetic proposal to
 revive the system was made before the select committee on metropolitan
 improvements in 1830, but it was not listened to. By a unique blunder in
 legislation, authority was given to hold a lottery under an act of 1831
-which provided a scheme for the improvement of the city of Glasgow.
+which provided a scheme for the improvement of the city of [[Glasgow]].
 These "Glasgow lotteries" were suppressed by an act of 1834. Art Unions
 were legalized by the Art Unions Act 1846. The last lottery prominently
 before the public in England was that of Dethier's twelfth-cake lottery,
@@ -237,7 +237,7 @@ lotteries as a mode of raising money for public purposes; and this
 authorization from the Maryland legislature was approved by an act of
 the Federal Congress in 1812. In 1833 they were prohibited in New York
 and Massachusetts and gradually in the other states, until they survived
-only in Louisiana. In that state, the Louisiana State Lottery, a company
+only in [[Louisiana]]. In that state, the Louisiana State Lottery, a company
 chartered in 1868, had a monopoly for which it paid $40,000 to the state
 treasury. Its last charter was granted in 1879 for a period of
 twenty-five years, and a renewal was refused in 1890. In 1890 Congress
@@ -257,17 +257,17 @@ to a considerable extent in the Southern States.
   lotteries, the reason being given that they "tend to promote a
   gambling spirit," and that it is the duty of the state to "protect the
   morals and advance the welfare of the people." In New York the
-  Constitution of 1846 forbade lotteries, and by § 324 of the Penal Code
+  Constitution of 1846 forbade lotteries, and by § 324 of the Penal [[Code]]
   a lottery is declared "unlawful and a public nuisance." "Contriving"
   and advertising lotteries is also penal. The following have been held
   illegal lotteries: In New York, a concert, the tickets for which
-  entitled the holder to a prize to be drawn by lot; in Indiana,
+  entitled the holder to a prize to be drawn by lot; in [[Indiana]],
   offering a gold watch to the purchaser of goods who guesses the number
-  of beans in a bottle; in Texas, selling "prize candy" boxes; and
+  of [[Bean|beans]] in a bottle; in Texas, selling "prize candy" boxes; and
   operating a nickel-in-the-slot machine--so also in Louisiana; in
-  Massachusetts, the "policy" or "envelope game," or a "raffle"; in
-  Kentucky (1905), prize coupon packages, the coupons having to spell a
-  certain word (_U.S._ v. _Jefferson_, 134 Fed. R. 299); in Kansas
+  Massachusetts, the "policy" or "envelope [[Game|game]]," or a "raffle"; in
+  [[Kentucky]] (1905), prize coupon packages, the coupons having to spell a
+  certain word (_U.S._ v. _[[Jefferson]]_, 134 Fed. R. 299); in Kansas
   (1907) it was held by the Supreme Court that the gift of a hat-pin to
   each purchaser was not illegal as a "gift enterprise," there being no
   chance or lot. In Oklahoma (1907) it was held that the making of
@@ -291,7 +291,7 @@ to a considerable extent in the Southern States.
   églises_ (3 vols., Amsterdam, 1697), by the Bolognese historian
   Gregorio Leti; J. Dessaulx, _De la passion du jeu depuis les anciens
   temps jusqu'à nos jours_ (Paris, 1779); Endemann, _Beiträge zur
-  Geschichte der Lottrie und zur heutigen Lotterie_ (Bonn, 1882);
+  Geschichte der Lottrie und zur heutigen Lotterie_ ([[Bonn]], 1882);
   Larson, _Lottrie und Volkswirtschaft_ (Berlin, 1894); J. Ashton,
   _History of English Lotteries_ (1893); _Annual Report of the American
   Historical Association_ (1892); _Journal of the American Social
@@ -303,7 +303,7 @@ FOOTNOTE:
   [1] The word "lottery" is directly derived from Ital. _lotteria_, cf.
     Fr. _loterie_, formed from _lotto_, lot, game of chance. "Lot" is in
     origin a Teutonic word, adopted into Romanic languages. In O. Eng. it
-    appears as _hlot_, cf. Dutch _lot_, Ger. _Loos_, Dan. _lod_, &c. The
+    appears as _hlot_, cf. Dutch _lot_, Ger. _[[Loo|Loos]]_, Dan. _lod_, &c. The
     meaning of the Teutonic root _hleut_ from which these words have
     derived is unknown. Primarily "lot" meant the object, such as a disk
     or counter of wood, a pebble, bean or the like, which was drawn or

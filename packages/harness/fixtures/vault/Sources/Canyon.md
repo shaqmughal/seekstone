@@ -7,12 +7,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Canyon"
 
 # Canyon
 
-CANYON (Anglicized form of Span. _canon_, a tube, pipe or cannon; the
+CANYON (Anglicized form of Span. _canon_, a tube, pipe or [[Cannon|cannon]]; the
 Spanish form being also frequently written), a type of valley with huge
 precipitous sides, such as the Grand Canyons of the Colorado and the
-Yellowstone livers, and the gorge of the Niagara river below the falls,
+Yellowstone [[Liver|livers]], and the gorge of the Niagara river below the falls,
 due to rapid stream erosion in a "young" land. A river saws its channel
-vertically downwards, and a swift stream erodes chiefly at the bottom.
+vertically downwards, and a swift stream [[Erode|erodes]] chiefly at the bottom.
 In rainy regions the valleys thus formed are widened out by slope-wash
 and the resultant valley-slopes are gentle, but in arid regions there is
 very little side-extension of the valleys and the river cuts its way

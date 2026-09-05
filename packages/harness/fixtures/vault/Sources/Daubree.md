@@ -14,16 +14,16 @@ In 1880 the Geological Society of London awarded to him the Wollaston
 medal. His published researches date from 1841, when the origin of
 certain tin minerals attracted his attention; he subsequently discussed
 the formation of bog-iron ore, and worked out in detail the geology of
-the Bas-Rhin (1852). From 1857 to 1861, while engaged in engineering
+the Bas-Rhin (1852). From 1857 to 1861, while engaged in [[Engineering|engineering]]
 works connected with the springs of Plombieres, he made a series of
 interesting observations on thermal waters and their influence on the
-Roman masonry through which they made their exit. He was, however,
+Roman [[Masonry|masonry]] through which they made their exit. He was, however,
 especially distinguished for his long-continued and often dangerous
 experiments on the artificial production of minerals and rocks. He
 likewise discussed the permeability of rocks by water, and the effects
 of such infiltration in producing volcanic phenomena; he dealt with the
 subject of metamorphism, with the deformations of the earth's crust,
-with earthquakes, and with the composition and classification of
+with earthquakes, and with the composition and [[Classification|classification]] of
 meteorites. He died in Paris on the 29th of May 1896.
 
 His publications were: _Etudes et experiences synthetiques sur le

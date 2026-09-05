@@ -5,7 +5,7 @@ Vienna on the 21st of February 1791. His father, who was a teacher of
 the piano, trained him for that instrument from an early age with such
 success that he performed in public at the age of nine, and commenced
 his own career as a teacher at fourteen. He was brought under the notice
-of Beethoven, and was his pupil in the sense in which the great master
+of [[Beethoven]], and was his pupil in the sense in which the great master
 had pupils. It is perhaps his greatest claim to distinction as a
 performer that he was selected to be the first to play Beethoven's
 celebrated Emperor concerto in public. He soon became the most popular
@@ -34,11 +34,11 @@ and various benevolent institutions.
 D The fourth letter in the English alphabet occupies the same position
 in the Latin, Greek and Phoenician alphabets, which represent the
 preceding stages in its history. The Phoenician name _Daleth_ is
-represented by the Greek _Delta_. In form D has varied throughout its
+represented by the Greek _[[Delta]]_. In form D has varied throughout its
 career comparatively little. In the earliest Phoenician it is [symbol]
-with slight variations; in most Greek dialects [symbol] which has been
+with slight variations; in most Greek [[Dialect|dialects]] [symbol] which has been
 adopted as the Greek literary form, but in others as e.g. the earliest
-Attic [symbol] or [symbol]. The form with the rounded back, which has
+[[Attic]] [symbol] or [symbol]. The form with the rounded back, which has
 passed from Latin into the languages of western Europe, was borrowed
 from the Greeks of S.W. Italy, but is widely spread also amongst the
 peoples of the Peloponnese and of northern Greece. It arises from a form

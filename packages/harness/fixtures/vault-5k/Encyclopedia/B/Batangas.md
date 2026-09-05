@@ -10,7 +10,7 @@ type: source
 BATANGAS, a town, port of entry, and the capital of the province of
 Batangas, Luzon, Philippine Islands, near the Batangas river, about 1 m.
 from its mouth on the E. coast of the Gulf of Batangas, and about 65 m.
-S. by E. of Manila. Pop. (1903) 33,131. The United States government has
+S. by E. of [[Manila]]. Pop. (1903) 33,131. The United States government has
 established a military post here, and the town has numerous fine public
 buildings and private residences. It is the most important port of a
 province noted for the fertility of its soil and the industry of its

@@ -32,7 +32,7 @@ recognized:--1st, volatile or vaporizable substances, which attack
 impurities in the air; 2nd, chemical agents, for acting on the diseased
 body or on the infectious discharges therefrom; and 3rd, the physical
 agencies of heat and cold. In some of these cases the destruction of the
-contagium is effected by the formation of new chemical compounds, by
+contagium is effected by the formation of new chemical [[Compound|compounds]], by
 oxidation, deoxidation or other reaction, and in others the conditions
 favourable to life are removed or life is destroyed by high temperature.
 Among the first class, aerial or gaseous disinfectants, formic aldehyde
@@ -40,10 +40,10 @@ has of late years taken foremost place. The vapour is a powerful
 disinfectant and deodorant, and for the surface disinfection of rooms,
 fulfils all requirements when used in sufficient amount. It acts more
 rapidly than equal quantities of sulphurous acid, and it does not affect
-colours. It is non-poisonous, though irritating to the eyes and throat.
+[[Colours|colours]]. It is non-poisonous, though irritating to the eyes and throat.
 With the exception of iron and steel it does not attack metals. It can
 be obtained in paraform tabloids, and with a specially constructed
-spirit lamp disinfection can be carried out by any one. Twenty tabloids
+spirit [[Lamp|lamp]] disinfection can be carried out by any one. Twenty tabloids
 must be employed for every 1000 cubic ft. of space. Disinfection by
 sulphurous acid fumes is of great antiquity, and is still in very
 general use; for the purpose of destroying vermin it is more powerful

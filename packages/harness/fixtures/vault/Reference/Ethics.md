@@ -16,18 +16,18 @@ For convenience in reference, the arrangement followed in this article
 may be explained at the outset:--
 
                                                      PAGE
-  I. DEFINITION AND SCOPE                            809
+  I. [[Definition|DEFINITION]] AND SCOPE                            809
 
   II. HISTORICAL SKETCH                              810
 
     A. Greek and Graeco-Roman Ethics                 810
       The Age of the Sophists                        811
-      Socrates and his Disciples                     811
+      Socrates and his [[Disciple|Disciples]]                     811
       Plato                                          812
-      Plato and Aristotle                            814
+      Plato and [[Aristotle]]                            814
       Aristotle                                      815
       Stoicism                                       816
-      Hedonism (Epicurus)                            818
+      Hedonism ([[Epicurus]])                            818
       Later Greek and Roman Ethics                   818
       Neoplatonism                                   819
 
@@ -40,34 +40,34 @@ may be explained at the outset:--
         Augustine, Ambrose                           823
       Medieval Morality and Moral Philosophy         824
       Thomas Aquinas                                 824
-      Casuistry and Jesuitry                         826
+      [[Casuistry]] and Jesuitry                         826
       The Reformation; and birth of Modern Thought   826
 
     C. Modern Ethics                                 827
-      Grotius                                        827
-      Hobbes                                         827
+      [[Grotius]]                                        827
+      [[Hobbes]]                                         827
       The Cambridge Moralists                        828
         (Cudworth, More)
-      Cumberland                                     829
-      Locke                                          829
+      [[Cumberland]]                                     829
+      [[Locke]]                                          829
       Clarke                                         829
       Shaftesbury                                    830
       Mandeville                                     830
-      Butler                                         831
+      [[Butler]]                                         831
       Wollaston                                      831
-      Hutcheson                                      831
+      [[Hutcheson]]                                      831
       Hume                                           832
       Adam Smith                                     833
       The Intuitional School                         833
         (Price, Reid, Stewart, Whewell)
       The Utilitarian School                         835
-       (Paley, Bentham, Mill)
+       (Paley, [[Bentham]], Mill)
       Association and Evolution                      837
       Free-will           837
       French Influence on English Ethics             838
-        (Helvetius, Comte)
+        ([[Helvetius]], Comte)
       German Influence on English Ethics             839
-        (Kant, Hegel)
+        ([[Kant]], Hegel)
 
     D. Ethics since 1879                             840
 
@@ -103,7 +103,7 @@ living at different periods of time. Such a field of study would
 obviously be too wide for any particular science or philosophy to
 investigate, and moreover portions of the field are already occupied by
 history, by anthropology and by the particular sciences (e.g.
-physiology, anatomy, biology), in so far as the habits and character of
+physiology, anatomy, [[Biology|biology]]), in so far as the habits and character of
 men depend upon the material processes which these sciences examine.
 Even philosophies such as logic and aesthetic would be necessary for
 such an investigation, if thought and artistic production are normal
@@ -127,7 +127,7 @@ and the same time be required to make the experiment and to provide the
 subject upon which the experiment is performed. (2) Ethics is a
 philosophy and not a science. Philosophy is a process of reflection upon
 the presuppositions involved in unreflective thought. In logic and
-metaphysics it investigates either the process of apprehension itself,
+metaphysics it investigates either the process of [[Apprehension|apprehension]] itself,
 or conceptions such as cause, substance, space, time, which the ordinary
 scientific consciousness never criticizes. In moral philosophy the place
 of the body of sciences, which philosophy as the theory of knowledge
@@ -146,7 +146,7 @@ are not strictly speaking philosophical problems at all. It is occupied
 with just such questions as each individual man who wishes to act
 rightly is constantly called upon to answer, e.g. questions such as
 "What particular action will meet the claims of justice under such and
-such circumstances?" or "What degree of ignorance will excuse this
+such circumstances?" or "What degree of [[Ignorance|ignorance]] will excuse this
 particular person in this particular case from his responsibility?" It
 tries to attain a knowledge as complete as possible of the circumstances
 under which the act contemplated must be performed, the personalities of
@@ -175,7 +175,7 @@ particular moral judgment is arrived at by a process of inference from
 some universal conception of the Supreme Good or the Final End from
 which all particular duties or virtues may be deduced. It may be that
 criticism of morality first originates with a criticism of existing
-moral institutions or codes of ethics; such a criticism may be due to
+moral institutions or [[Code|codes]] of ethics; such a criticism may be due to
 the spontaneous activity of the moral consciousness itself. But when
 such criticism passes into the attempt to find a universal criterion of
 morality--such an attempt being in effect an effort to make morality
@@ -228,7 +228,7 @@ apply to ethics ideas borrowed from or analogous to the conceptions of
 that science. False analogies drawn between ethics and mathematics or
 between morality and the perception of beauty have wrought much mischief
 in modern and to some degree even in ancient ethics. The influence of
-ideas borrowed from biology is everywhere manifest in the ethical
+ideas borrowed from biology is everywhere [[Manifest|manifest]] in the ethical
 speculations of modern times. Sometimes, again, whole theories of ethics
 have been formulated which can be seen in the end to be efforts to
 subordinate moral conceptions to conceptions belonging properly to
@@ -251,7 +251,7 @@ of the will, arose directly out of what was in reality a theological
 problem--the necessity, namely, of reconciling God's foreknowledge with
 human freedom. The unreflective moral consciousness never finds it
 difficult to distinguish between a man's power of willing and all the
-forces of circumstance, heredity and the like, which combine to form the
+forces of circumstance, [[Heredity|heredity]] and the like, which combine to form the
 temptations to which he may yield or bid defiance; and such facts as
 "remorse" and "penitence" are a continual testimony to man's sense of
 freedom. But so soon as men perceive upon reflection an apparent
@@ -295,7 +295,7 @@ study which may produce quite unforeseen results for psychology.
 
 Nothing therefore is to be gained by confining ethics within limits
 which must from the nature of the case be arbitrary. The defender at all
-events of the supremacy of moral intuitions must be prepared to follow
+events of the supremacy of moral [[Intuition|intuitions]] must be prepared to follow
 whither the argument leads, into whatever strange quarters it may direct
 him. But this much may be said by way of delimitation of the scope of
 ethics: however complicated and involved its arguments and processes of
@@ -323,7 +323,7 @@ is a closer connexion between moral and metaphysical speculation. The
 doctrine of the Pythagoreans that the essence of justice (conceived as
 equal retribution) was a square number, indicates a serious attempt to
 extend to the region of conduct their mathematical view of the universe;
-and the same may be said of their classification of good with unity,
+and the same may be said of their [[Classification|classification]] of good with unity,
 straightness and the like, and of evil with the opposite qualities.
 Still, the enunciation of the moral precepts of Pythagoras appears to
 have been dogmatic, or even prophetic, rather than philosophic, and to
@@ -333,7 +333,7 @@ Pythagorean blending of ethical and mathematical notions may have had on
 Plato, and, through him, on later thought, we cannot regard the school
 as having really forestalled the Socratic inquiry after a completely
 reasoned theory of conduct. The ethical element in the "dark"
-philosophizing of Heraclitus (c. 530-470 B.C.), though it anticipates
+philosophizing of [[Heraclitus]] (c. 530-470 B.C.), though it anticipates
 Stoicism in its conceptions of a law of the universe, to which the wise
 man will carefully conform, and a divine harmony, in the recognition of
 which he will find his truest satisfaction, is more profound, but even
@@ -352,14 +352,14 @@ must fulfil before it can lay claim to be treated as scientific.
 The truth is that no system of ethics could be constructed until
 attention had been directed to the vagueness and inconsistency of the
 common moral opinions of mankind. For this purpose was needed the
-concentration of a philosophic intellect of the first order on the
+concentration of a philosophic [[Intellect|intellect]] of the first order on the
 problems of practice. In Socrates first we find the required combination
 of a paramount interest in conduct and an ardent desire for knowledge.
 The pre-Socratic thinkers were all primarily devoted to ontological
 research; but by the middle of the 5th century B.C. the conflict of
 their dogmatic systems had led some of the keenest minds to doubt the
 possibility of penetrating the secret of the physical universe. This
-doubt found expression in the reasoned scepticism of Gorgias, and
+doubt found expression in the reasoned scepticism of [[Gorgias]], and
 produced the famous proposition of Protagoras, that human apprehension
 is the only standard of existence. The same feeling led Socrates to
 abandon the old physico-metaphysical inquiries. In his ease, moreover,
@@ -378,7 +378,7 @@ concentrated his efforts.
 Though, however, Socrates was the first to arrive at a proper conception
 of the problems of conduct, the general idea did not originate with him.
 The natural reaction against the metaphysical and ethical dogmatism of
-the early thinkers had reached its climax in the Sophists (q.v.).
+the early thinkers had reached its [[Climax|climax]] in the Sophists (q.v.).
 Gorgias and Protagoras are only representatives of what was really a
 universal tendency to abandon dogmatic theory and take refuge in
 practical matters, and especially, as was natural in the Greek
@@ -397,7 +397,7 @@ flute-playing was the virtue of the flute-player. We see here, as in
 other activities of the age, a determination to acquire technical
 knowledge, and to apply it directly to the practical issue; just as
 music was being enriched by new technical knowledge, architecture by
-modern theories of plans and T-squares (sc. Hippodamus), the handling of
+modern theories of plans and T-squares (sc. [[Hippodamus]]), the handling of
 soldiers by the new technique of "tactics" and "hoplitics," so
 citizenship must be analysed afresh, systematized and adapted in
 relation to modern requirements. The Sophists had studied these matters
@@ -410,18 +410,18 @@ doing at haphazard. But in the true sense of the word, they had no
 ethical system at all, nor did they contribute save by contrast to
 ethical speculation. They merely analysed conventional formulae, much in
 the manner of certain modern so-called "scientific" moralists. Into this
-arena of hazy popular common sense Socrates brought a new critical
+[[Arena|arena]] of hazy popular common sense Socrates brought a new critical
 spirit, showing that these popular lecturers, in spite of their fertile
-eloquence, could not defend their fundamental assumptions, nor even give
+eloquence, could not defend their fundamental [[Assumption|assumptions]], nor even give
 rational definitions of what they professed to explain. Not only were
 they thus "ignorant," but they were also perpetually inconsistent with
 themselves in dealing with particular instances. Thus, by the aid of his
-famous "dialectic," Socrates arrived first at the negative result that
+famous "[[Dialectic|dialectic]]," Socrates arrived first at the negative result that
 the professed teachers of the people were as ignorant as he himself
 claimed to be, and in a measure justified the eulogy of Aristotle that
-he rendered to philosophy the service of "introducing induction and
+he rendered to philosophy the service of "introducing [[Induction|induction]] and
 definitions." This description of his work is, however, both too
-technical and too positive, if we may judge from those earlier dialogues
+technical and too positive, if we may judge from those earlier [[Dialogue|dialogues]]
 of Plato in which the real Socrates is found least modified. The
 pre-eminent wisdom which the Delphic oracle attributed to him was held
 by himself to consist in a unique consciousness of ignorance. Yet it is
@@ -437,7 +437,7 @@ the history of ethical thought not only are easy to harmonize with his
 conviction of ignorance, but even render it easier to understand his
 unwearied cross-examination of common opinion. While he showed clearly
 the difficulty of acquiring knowledge, he was convinced that knowledge
-alone could be the source of a coherent system of virtue, as error of
+alone could be the source of a coherent system of virtue, as [[Error|error]] of
 evil. Socrates, therefore, first in the history of thought, propounds a
 positive scientific law of conduct. Virtue is knowledge. This principle
 involved the paradox that no man, knowing good, would do evil. But it
@@ -494,11 +494,11 @@ again, whose demand for knowledge was more easily satisfied, and who
 were more impressed with the positive and practical side of the master's
 teaching, made the quest a much simpler affair. They took the Good as
 already known, and held philosophy to consist in the steady application
-of this knowledge to conduct. Among these were Antisthenes the Cynic and
+of this knowledge to conduct. Among these were [[Antisthenes]] the Cynic and
 Aristippus of Cyrene. It is by their recognition of the duty of living
 consistently by theory instead of mere impulse or custom, their sense of
 the new value given to life through this rationalization, and their
-effort to maintain the easy, calm, unwavering firmness of the Socratic
+effort to maintain the easy, [[Calm|calm]], unwavering firmness of the Socratic
 temper, that we recognize both Antisthenes and Aristippus as "Socratic
 men," in spite of the completeness with which they divided their
 master's positive doctrine into systems diametrically opposed. Of their
@@ -510,7 +510,7 @@ from the Socratic life.
 
   Aristippus.
 
-Aristippus (see CYRENAICS) argued that, if all that is beautiful or
+Aristippus (see [[Cyrenaics|CYRENAICS]]) argued that, if all that is beautiful or
 admirable in conduct has this quality as being useful, i.e. productive
 of some further good; if virtuous action is essentially action done with
 insight, or rational apprehension of the act as a means to this good,
@@ -533,7 +533,7 @@ reasonable. Thus early in the history of ethical theory appeared the
 most thorough-going exposition of hedonism.
 
 
-  The Cynics.
+  The [[Cynics]].
 
 Far otherwise was the Socratic spirit understood by Antisthenes and the
 Cynics (q.v.). They equally held that no speculative research was needed
@@ -564,7 +564,7 @@ effort to escape from this absurdity.
 
 The ultimate views of these two Socratic schools we shall have to notice
 presently when we come to the post-Aristotelian schools. We must now
-proceed to trace the fuller development of the Socratic theory in the
+proceed to trace the [[Fuller|fuller]] development of the Socratic theory in the
 hands of Plato and Aristotle.
 
 
@@ -643,7 +643,7 @@ realization of some divine end; and, in the metaphysical turn which
 Plato gave to this view, he was probably anticipated by Euclid of
 Megara, who held that the one real being is "that which we call by many
 names, Good, Wisdom, Reason or God," to which Plato, raising to a
-loftier significance the Socratic identification of the beautiful with
+loftier significance the Socratic [[Identification|identification]] of the beautiful with
 the useful, added the further name of Absolute Beauty, explaining how
 man's love of the beautiful finally reveals itself as the yearning for
 the end and essence of being.
@@ -658,7 +658,7 @@ The answer to this question is inevitably somewhat complicated. In the
 first place we have to observe that philosophy has now passed definitely
 from the market-place into the lecture-room. The quest of Socrates was
 for the true art of conduct for a man living a practical life among his
-fellows. But if the objects of abstract thought constitute the real
+[[Fellows|fellows]]. But if the objects of abstract thought constitute the real
 world, of which this world of individual things is but a shadow, it is
 plain that the highest, most real life must lie in the former region and
 not in the latter. It is in contemplating the abstract reality which
@@ -674,7 +674,7 @@ strong in proportion to its philosophic capacity; hence it is that in
 learning any abstract truth by scientific demonstration we merely make
 explicit what we already implicitly know; we bring into clear
 consciousness hidden memories of a state in which the soul looked upon
-Reality and Good face to face, before the lapse that imprisoned her in
+Reality and Good face to face, before the [[Lapse|lapse]] that imprisoned her in
 an alien body and mingled her true nature with fleshly feelings and
 impulses. We thus reach the paradox that the true art of living is
 really an "art of dying" as far as possible to mere sense, in order more
@@ -807,13 +807,13 @@ best unless we can also prove it to be the pleasantest.
 
 When a student passes from Plato to Aristotle, he is so forcibly
 impressed by the contrast between the habits of mind of the two authors,
-and the literary manners of the two philosophers, that it is easy to
+and the literary [[Manners|manners]] of the two philosophers, that it is easy to
 understand how their systems have come to be popularly conceived as
 diametrically opposed to each other; and the uncompromising polemic
 which Aristotle, both in his ethical and in his metaphysical treatises,
 directs against Plato and the platonists, has tended strongly to confirm
 this view. Yet a closer inspection shows us that when a later president
-of the Academy (Antiochus of Ascalon) repudiated the scepticism which
+of the Academy ([[Antiochus]] of Ascalon) repudiated the scepticism which
 for two hundred years had been accepted as the traditional Platonic
 doctrine, he had good grounds for claiming Plato and Aristotle as
 consentient authorities for the ethical position which he took up. For
@@ -825,7 +825,7 @@ the difference between the two practically vanishes when we view them in
 relation to the later controversy between Stoics and Epicureans. Even on
 the cardinal point on which Aristotle entered into direct controversy
 with Plato, the definite disagreement between the two is less than at
-first appears; the objections of the disciple hit that part of the
+first appears; the objections of the disciple [[Hit|hit]] that part of the
 master's system that was rather imagined than thought; the main positive
 result of Platonic speculation only gains in distinctness by the
 application of Aristotelian analysis.
@@ -995,7 +995,7 @@ distinguishes the wider use of the term to express Law-observance, which
 (he says) coincides with the social side of virtue generally, and its
 narrower use for the virtue that "aims at a kind of equality," whether
 (1) in the distribution of wealth, honour, &c., or (2) in commercial
-exchange, or (3) in the reparation of wrong done. Then, in arranging the
+[[Exchange|exchange]], or (3) in the reparation of wrong done. Then, in arranging the
 other special virtues, he begins with courage and temperance, which
 (after Plato) he considers as the excellences of the "irrational
 element" of the soul. Next follow two pairs of excellences, concerned
@@ -1010,7 +1010,7 @@ wit.
 The abundant store of just and close analytical observation contained in
 Aristotle's account of these notions give it a permanent interest, even
 beyond its historical value as a delineation of the Greek ideal of "fair
-and good" life.[4] But its looseness of arrangement and almost grotesque
+and good" life.[4] But its looseness of arrangement and almost [[Grotesque|grotesque]]
 co-ordination of qualities widely differing in importance are obvious.
 Thus his famous general formula for virtue, that it is a mean or middle
 state, always to be found somewhere between the vices which stand to it
@@ -1034,7 +1034,7 @@ We cannot, however, find that he has furnished any substantial
 principles for its determination; indeed, he hardly seems to have formed
 a distinct general idea of the practical syllogism by which he conceives
 it to be effected.[6] The kind of reasoning which his view of virtuous
-conduct requires is one in which the ultimate major premise states a
+conduct requires is one in which the ultimate [[Major|major]] premise states a
 distinctive characteristic of some virtue, and one or more minor
 premises show that such characteristic belongs to a certain mode of
 conduct under given circumstances; since it is essential to good conduct
@@ -1077,7 +1077,7 @@ two elements of Common Sense was too profound to be compromised; and the
 moral consciousness of mankind demanded a more trenchant partisanship
 than Aristotle's. Its demands were met by the Stoic school which
 separated the moral from the worldly view of life, with an absoluteness
-and definiteness that caught the imagination; which regarded practical
+and definiteness that caught the [[Imagination|imagination]]; which regarded practical
 goodness as the highest manifestation of its ideal of wisdom; and which
 bound the common notions of duty into an apparently coherent system, by
 a formula that comprehended the whole of human life, and exhibited its
@@ -1150,10 +1150,10 @@ admitted that no one could of deliberate purpose act contrary to what
 seemed to him best. Now, Aristotle's divergence from Socrates had not
 led him so far as to deny this; while for the Stoics who had receded to
 the original Socratic position, the difficulty was still more patent.
-This theory of virtue led them into two dilemmas. Firstly, if virtue is
+This theory of virtue led them into two [[Dilemma|dilemmas]]. Firstly, if virtue is
 knowledge, does it follow that vice is involuntary? If not, it must be
 that ignorance is voluntary. This alternative is the less dangerous to
-morality, and as such the Stoics chose it. But they were not yet at the
+morality, and as such the Stoics [[Chose|chose]] it. But they were not yet at the
 end of their perplexities; for while they were thus driven to an extreme
 extension of the range of human volition, their view of the physical
 universe involved an equally thorough-going determinism. How could the
@@ -1206,7 +1206,7 @@ divine substance which was in very truth the "god within him"; the
 reason whose supremacy he maintained was the reason of Zeus, and of all
 gods and reasonable men, no less than his own; its realization in any
 one individual was thus the common good of all rational beings as such;
-"the sage could not stretch out a finger rightly without thereby
+"the sage could not stretch out a [[Finger|finger]] rightly without thereby
 benefiting all other sages,"--nay, it might even be said that he was "as
 useful to Zeus as Zeus to him."[10] But again, the same conception
 served to harmonize the higher and the lower elements of human life. For
@@ -1219,7 +1219,7 @@ formula of "living according to nature," in its application to man as
 the "rational animal," may be understood both as directing that reason
 is to govern, and as indicating how that government is to be practically
 exercised. In man, as in every other animal, from the moment of birth
-natural impulse prompts to the maintenance of his physical frame; then,
+natural impulse prompts to the [[Maintenance|maintenance]] of his physical [[Frame|frame]]; then,
 when reason has been developed and has recognized itself as its own sole
 good, these "primary ends of nature" and whatever promotes these still
 constitute the outward objects at which reason is to aim; there is a
@@ -1262,7 +1262,7 @@ necessary to the preservation of human society that its members should
 form sexual unions, produce children, and bestow care on their rearing
 and training. But beyond this nature did not seem to go in determining
 the relations of the sexes; accordingly, we find that community of wives
-was a feature of Zeno's ideal commonwealth, just as it was of Plato's;
+was a feature of Zeno's ideal [[Commonwealth|commonwealth]], just as it was of Plato's;
 while, again, the strict theory of the school recognized no government
 or laws as true or binding except those of the sage; he alone is the
 true ruler, the true king. So far, the Stoic "nature" seems in danger of
@@ -1278,7 +1278,7 @@ does not appear that his political action was to be regulated by any
 other principles than those commonly accepted in his community.
 Similarly, in the view taken by the Stoics of the duties of social
 decorum, and in their attitude to the popular religion, we find a
-fluctuating compromise between the disposition to repudiate what is
+fluctuating [[Compromise|compromise]] between the disposition to repudiate what is
 conventional, and the disposition to revere what is established, each
 tendency expressing in its own way the principle of "conforming to
 nature."
@@ -1295,7 +1295,7 @@ endeavoured to resist Epicureanism even on the ground where the latter
 seems prima facie strongest; in its appeal, namely, to the natural
 pleasure-seeking of all living things. Nor did they merely mean by
 pleasure ([Greek: hedone]) the gratification of bodily appetite; we find
-(e.g.) Chrysippus urging, as a decisive argument against Aristotle, that
+(e.g.) [[Chrysippus]] urging, as a decisive argument against Aristotle, that
 pure speculation was "a kind of amusement; that is, pleasure." Even the
 "joy and gladness" ([Greek: chara, euphrosyne]) that accompany the
 exercise of virtue seem to have been regarded by them as merely an
@@ -1319,7 +1319,7 @@ be happy even on the rack; that his happiness, too, is unimpaired by
 being restricted in duration, when his mind has apprehended the natural
 limits of life; that, in short, Epicurus makes no less strenuous efforts
 than Zeno to eliminate imperfection from the conditions of human
-existence. This characteristic, however, is the key to the chief
+existence. This characteristic, however, is the [[Key|key]] to the chief
 differences between Epicureanism and the more naive hedonism of
 Aristippus. The latter system gave the simplest and most obvious answer
 to the inquiry after ultimate good for man; but besides being liable,
@@ -1361,14 +1361,14 @@ pleasure; that the stringency of all laws and customs depends solely on
 the legal and social penalties attached to their violation; that, in
 short, all virtuous conduct and all speculative activity are empty and
 useless, except as contributing to the pleasantness of the agent's life.
-And Epicurus assures us that he means by pleasure what plain men mean by
+And Epicurus [[Assur|assures]] us that he means by pleasure what plain men mean by
 it; and that if the gratifications of appetite and sense are discarded,
 the notion is emptied of its significance. So far the system would seem
 to suit the inclinations of the most thorough-going voluptuary. The
 originality of Epicurus lay in his theory that the highest point of
 pleasure, whether in body or mind, is to be attained by the mere removal
 of pain or disturbance, after which pleasure admits of variation only
-and not of augmentation; that therefore the utmost gratification of
+and not of [[Augmentation|augmentation]]; that therefore the utmost gratification of
 which the body is capable may be provided by the simplest means, and
 that "natural wealth" is no more than any man can earn. When further he
 teaches that the attainment of happiness depends almost entirely upon
@@ -1391,7 +1391,7 @@ striking feature in the traditions of his school; and certainly the
 ideal which Stoics and Epicureans equally cherished of a brotherhood of
 sages was most easily realized on the Epicurean plan of withdrawing from
 political and dialectical conflict to simple living and serene leisure,
-in imitation of the gods apart from the fortuitous concourse of atoms
+in imitation of the gods apart from the fortuitous concourse of [[Atom|atoms]]
 that we call a world. No doubt it was rather the practical than the
 theoretical side of Epicureanism which gave it so strong a hold on
 succeeding generations.
@@ -1420,7 +1420,7 @@ the essentially Greek doctrine which it received,--a reaction all the
 more inevitable from the very affinity between the Stoic sage and the
 ancient Roman ideal of manliness. It was natural that the earlier Stoics
 should be chiefly occupied with delineating the inner and outer
-characteristics of ideal wisdom and virtue, and that the gap between the
+characteristics of ideal wisdom and virtue, and that the [[Gap|gap]] between the
 ideal sage and the actual philosopher, though never ignored, should yet
 be somewhat overlooked. But when the question "What is man's good?" had
 been answered by an exposition of perfect wisdom, the practical question
@@ -1435,8 +1435,8 @@ resignation preponderates over self-poised indifference; the old
 self-reliance of the reason, looking down on man's natural life as a
 mere field for its exercise, makes room for a positive aversion to the
 flesh as an alien element imprisoning the spirit; the body has come to
-be a "corpse which the soul sustains,"[14] and life a "sojourn in a
-strange land";[15] in short, the ethical idealism of Zeno has begun to
+be a "[[Corpse|corpse]] which the soul sustains,"[14] and life a "sojourn in a
+strange land";[15] in short, the ethical [[Idealism|idealism]] of Zeno has begun to
 borrow from the metaphysical idealism of Plato.
 
 
@@ -1467,7 +1467,7 @@ alien to the general tenor of Plato's doctrine, and had consequently
 been unnoticed during the intervening centuries. We observe, again, the
 value that Plutarch attaches, not merely to the sustainment and
 consolation of rational religion, but to the supernatural communications
-vouchsafed by the divinity to certain human beings in dreams, through
+vouchsafed by the divinity to certain human beings in [[Dream|dreams]], through
 oracles, or by special warnings, like those of the genius of Socrates.
 For these flashes of intuition, he holds, the soul should be prepared by
 tranquil repose and the subjugation of sensuality through abstinence.
@@ -1481,7 +1481,7 @@ Egyptian Plotinus.
   Neoplatonism.
 
 The system of Plotinus (205-270 A.D.) is a striking development of that
-element of Platonism which has had most fascination for the medieval and
+element of Platonism which has had most [[Fascination|fascination]] for the medieval and
 even for the modern mind, but which had almost vanished out of sight in
 the controversies of the post-Aristotelian schools. At the same time the
 differences are the more noteworthy from the reverent adhesion which the
@@ -1524,7 +1524,7 @@ disciple Porphyry.
 
 There is, however, a yet higher point to be reached in the upward ascent
 of the Neoplatonist from matter; and here the divergence of Plotinus
-from Platonic idealism is none the less striking, because it is a _bona
+from Platonic idealism is none the less striking, because it is a _[[Bona|bona]]
 fide_ result of reverent reflection on Plato's teaching. The cardinal
 assumption of Plato's metaphysic is, that the real is definitely
 thinkable and knowable in proportion as it is real; so that the further
@@ -1537,7 +1537,7 @@ duality, a Being wholly without difference or determination; and,
 accordingly, the highest mode of human existence, in which the soul
 apprehends this absolute, must be one in which all definite thought is
 transcended, and all consciousness of self lost in the absorbing
-ecstasy. Porphyry tells us that his master Plotinus attained the highest
+[[Ecstasy|ecstasy]]. Porphyry tells us that his master Plotinus attained the highest
 state four times during the six years which he spent with him.
 
 Neoplatonism, originally Alexandrine, is often regarded as Hellenistic
@@ -1556,7 +1556,7 @@ thought which Philo Judaeus had expounded two centuries before; nor the
 fact that Neoplatonism was developed in conscious antagonism to the new
 religion which had spread from Judea, and was already threatening the
 conquest of the Graeco-Roman world, and also to the Gnostic systems (see
-GNOSTICISM); nor, finally, that it furnished the chief theoretical
+[[Gnosticism|GNOSTICISM]]); nor, finally, that it furnished the chief theoretical
 support in the last desperate struggle that was made under Julian to
 retain the old polytheistic worship.
 
@@ -1614,16 +1614,16 @@ knowledge of a divine code, emanating from an authority external to
 human reason which had only the function of interpreting and applying
 its rules. This law was derived partly from Moses, partly from the
 utterances of the later prophets, partly from oral tradition and from
-the commentaries and supplementary maxims of generations of students.
+the commentaries and supplementary [[Maxims|maxims]] of generations of students.
 Christianity inherited the notion of a written divine code acknowledged
 as such by the "true Israel"--now potentially including the whole of
 mankind, or at least the chosen of all nations,--on the sincere
 acceptance of which the Christian's share of the divine promises to
 Israel depended. And though the ceremonial part of the old Hebrew code
-was altogether rejected, and with it all the supplementary jurisprudence
+was altogether rejected, and with it all the supplementary [[Jurisprudence|jurisprudence]]
 resting on tradition and erudite commentary, still God's law was
 believed to be contained in the sacred books of the Jews, supplemented
-by the teaching of Christ and his apostles. By the recognition of this
+by the teaching of Christ and his [[Apostle|apostles]]. By the recognition of this
 law the church was constituted as an ordered community, essentially
 distinct from the State; the distinction between the two was emphasized
 by the withdrawal of the early Christians from civic life, to avoid the
@@ -1636,7 +1636,7 @@ state religion under Constantine.
 
 Thus the jural form in which morality was conceived only emphasized the
 fundamental difference between it and the laws of the state. The
-ultimate sanctions of the moral code were the infinite rewards and
+ultimate sanctions of the moral code were the [[Infinite|infinite]] rewards and
 punishments awaiting the immortal soul hereafter; but the church early
 felt the necessity of withdrawing the privileges of membership from
 apostates and allowing them to be gradually regained only by a solemn
@@ -1644,10 +1644,10 @@ ceremonial expressive of repentance, protracted through several years.
 This formal and regulated "penitence" was extended from apostasy to
 other grave--or, as they were subsequently called, "deadly"--sins; while
 for minor offences all Christians were called upon to express contrition
-by fasting and abstinence from ordinarily permitted pleasures, as well
+by [[Fasting|fasting]] and abstinence from ordinarily permitted pleasures, as well
 as verbally in public and private devotions. "Excommunication" and
 "penance" thus came to be temporal ecclesiastical sanctions of the moral
-law. As the graduation of these sanctions naturally became more minute,
+law. As the [[Graduation|graduation]] of these sanctions naturally became more minute,
 a correspondingly detailed classification of offences was rendered
 necessary, and thus a system of ecclesiastical jurisprudence was
 gradually produced, somewhat analogous to that of Judaism. At the same
@@ -1657,7 +1657,7 @@ original antithesis to Jewish legalism. We find that this antithesis, as
 exaggerated by some of the Gnostic sects of the 2nd and 3rd centuries
 A.D., led, not merely to theoretical antinomianism, but even (if the
 charges of their orthodox opponents are not entirely to be discredited)
-to gross immorality of conduct. A similar tendency has shown itself at
+to [[Gross|gross]] immorality of conduct. A similar tendency has shown itself at
 other periods of church history. And though such antinomianism has
 always been sternly repudiated by the moral consciousness of
 Christendom, it has never been forgotten that "inwardness," rightness of
@@ -1715,7 +1715,7 @@ ethics was contrasted with the philosophical; the theologians
 maintaining sometimes that the divine law is essentially arbitrary, the
 expression of will, not reason; more frequently that its reasonableness
 is inscrutable, and that actual human reason should confine itself to
-examining the credentials of God's messengers, and not the message
+examining the [[Credentials|credentials]] of God's messengers, and not the message
 itself. But in early Christianity this latter antithesis was as yet
 undeveloped; faith means simply force in clinging to moral and religious
 conviction, whatever their rational grounds may be; this force, in the
@@ -1733,7 +1733,7 @@ the divine law and reverent trust in the lawgiver; it implies a
 consciousness, at once continually present and continually transcended,
 of the radical imperfection of all human obedience to the law, and at
 the same time of the irremissible condemnation which this imperfection
-entails. The Stoic doctrine of the worthlessness of ordinary human
+[[Entail|entails]]. The Stoic doctrine of the worthlessness of ordinary human
 virtue, and the stern paradox that all offenders are equally, in so far
 as all are absolutely, guilty, find their counterparts in Christianity;
 but the latter (maintaining this ideal severity in the moral standard,
@@ -1741,14 +1741,14 @@ with an emotional consciousness of what is involved in it quite unlike
 that of the Stoic) overcomes its practical exclusiveness through faith.
 This faith, again, may be conceived in two modes, essentially distinct
 though usually combined. In one view it gives the believer strength to
-attain, by God's supernatural aid or "grace," a goodness of which he is
+attain, by God's supernatural aid or "[[Grace|grace]]," a goodness of which he is
 naturally incapable; in the other view it gives him an assurance that,
 though he knows himself a sinner deserving of utter condemnation, a
 perfectly just God still regards him with favour on account of the
 perfect services and suffering of Christ. Of these views the former is
 the more catholic, more universally present in the Christian
 consciousness; the latter more deeply penetrates the mystery of the
-Atonement, as expounded in the Pauline epistles.
+Atonement, as expounded in the Pauline [[Epistle|epistles]].
 
 
   Love.
@@ -1816,7 +1816,7 @@ the earliest period of the church's history. In the view of primitive
 Christians, ordinary human society was a world temporarily surrendered
 to Satanic rule, over which a swift and sudden destruction was
 impending; in such a world the little band who were gathered in the ark
-of the church could have no part or lot,--the only attitude they could
+of the church could have no part or [[Lot|lot]],--the only attitude they could
 maintain was that of passive alienation. On the other hand, it was
 difficult practically to realize this alienation, and a keen sense of
 this difficulty induced the same hostility to the body as a clog and
@@ -1842,8 +1842,8 @@ however, we clearly trace the influence of Christ's express prohibition
 of violent resistance to violence, and his inculcation, by example and
 precept, of a love that was to conquer even natural resentment. An
 extreme result of this influence is shown in Tertullian's view, that no
-Christian could properly hold the office of a secular magistrate in
-which he would have to doom to death, chains, imprisonment; but even
+Christian could properly hold the office of a secular [[Magistrate|magistrate]] in
+which he would have to [[Doom|doom]] to death, chains, imprisonment; but even
 more sober writers, such as Ambrose, extend Christian passivity so far
 as to preclude self-defence even against a murderous assault. The common
 sense of Christendom gradually shook off these extravagances; but the
@@ -1895,7 +1895,7 @@ dwelling on the immense impetus given to the practice of social duty
 generally by the religion that made beneficence a form of divine
 service, and identified "piety" with "pity," we have to put down as
 definite changes introduced by Christianity--(1) the severe condemnation
-and final suppression of the practice of exposing infants; (2) effective
+and final suppression of the practice of exposing [[Infant|infants]]; (2) effective
 abhorrence of the barbarism of gladiatorial combats; (3) immediate moral
 mitigation of slavery, and a strong encouragement of emancipation; (4)
 great extension of the eleemosynary provision made for the sick and the
@@ -1913,7 +1913,7 @@ contrasted with merely outward chastity.
 5. Even the peculiarly Christian virtue of humility, which presents so
 striking a contrast to the Greek "highmindedness," was to some extent
 anticipated in the Rabbinic teaching. Its far greater prominence under
-the new dispensation may be partly referred to the express teaching and
+the new [[Dispensation|dispensation]] may be partly referred to the express teaching and
 example of Christ; partly, in so far as the virtue is manifested in the
 renunciation of external rank and dignity, or the glory of merely
 secular gifts and acquirements, it is one aspect of the unworldliness
@@ -1991,7 +1991,7 @@ the 4th century it began to be absorbed in the labour of a dogmatic
 construction. Thus, for example, the anti-secular tendencies of the new
 creed, to which Tertullian (160-220) gave violent and rigid expression,
 were exaggerated in the Montanist heresy which he ultimately joined; on
-the other hand, Clement of Alexandria, in opposition to the general tone
+the other hand, [[Clement]] of Alexandria, in opposition to the general tone
 of his age, maintained the value of pagan philosophy for the development
 of Christian faith into true knowledge (Gnosis), and the value of the
 natural development of man through marriage for the normal perfecting of
@@ -2028,7 +2028,7 @@ points are sufficiently secured if actual freedom of choice between good
 and evil is allowed in the single case of our progenitor Adam.[19] For
 since the _natura seminalis_ from which all men were to arise already
 existed in Adam, in his voluntary preference of self to God, humanity
-chose evil once for all; for which ante-natal guilt all men are justly
+chose evil once for all; for which ante-natal [[Guilt|guilt]] all men are justly
 condemned to perpetual absolute sinfulness and consequent punishment,
 unless they are elected by God's unmerited grace to share the benefits
 of Christ's redemption. Without this grace it is impossible for man to
@@ -2057,7 +2057,7 @@ rigidity in practical precepts. Indeed, an important part of Augustine's
 work as a moralist lies in the reconciliation which he laboured to
 effect between the anti-worldly spirit of Christianity and the
 necessities of secular civilization. For example, we find him arguing
-for the legitimacy of judicial punishments and military service against
+for the [[Legitimacy|legitimacy]] of judicial punishments and military service against
 an over-literal interpretation of the Sermon on the Mount; and he took
 an important part in giving currency to the distinction between
 evangelical "counsels" and "commands," and so defending the life of
@@ -2083,7 +2083,7 @@ necessarily grounded on faith. Christian Fortitude is essentially
 firmness in withstanding the seductions of good and evil fortune,
 resoluteness in the conflict perpetually waged against wickedness
 without carnal weapons--though Ambrose, with the Old Testament in his
-hand, will not quite relinquish the ordinary martial application of the
+hand, will not quite relinquish the ordinary [[Martial|martial]] application of the
 term. "Temperantia" retains the meaning of "observance of due measure"
 in all conduct, which it had in Cicero's treatise; though its notion is
 partly modified by being blended with the newer virtue of humility.
@@ -2101,8 +2101,8 @@ them all into the one central affection of love of God.
 
 Under the influence of Ambrose and Augustine, the four cardinal virtues
 furnished a basis on which the systematic ethical theories of subsequent
-theologians were built. With them the triad of Christian graces, Faith,
-Hope and Love, and the seven gifts of the Spirit (Isaiah xi. 2) were
+theologians were built. With them the triad of Christian [[Graces|graces]], Faith,
+Hope and Love, and the seven gifts of the Spirit ([[Isaiah]] xi. 2) were
 often combined. In antithesis to this list, an enumeration of the
 "deadly sins" obtained currency. These were at first commonly reckoned
 as eight; but a preference for mystical numbers characteristic of
@@ -2127,7 +2127,7 @@ the sinner from eternal damnation; for "venial" sins he might obtain
 forgiveness, through prayer, almsgiving, and the observance of the
 regular fasts. We find that "penitential books" for the use of the
 confessional, founded partly on traditional practice and partly on the
-express decrees of synods, come into general use in the 7th century. At
+express [[Decree|decrees]] of synods, come into general use in the 7th century. At
 first they are little more than mere inventories of sins, with their
 appropriate ecclesiastical punishments; gradually cases of conscience
 come to be discussed and decided, and the basis is laid for that system
@@ -2137,7 +2137,7 @@ relation of the church to the ruder races with which it had to deal
 during this period, necessarily tended to encourage a somewhat external
 view of morality. But a powerful counterpoise to this tendency was
 continually maintained by the fervid inwardness of Augustine,
-transmitted through Gregory the Great, Isidore of Seville, Alcuin,
+transmitted through Gregory the Great, [[Isidore Of Seville|Isidore of Seville]], Alcuin,
 Hrabanus Maurus, and other writers of the philosophically barren period
 between the destruction of the Western empire and the rise of
 Scholasticism.
@@ -2152,14 +2152,14 @@ salient points in the long and active discussion that led up to it. In
 the pantheistic system of Erigena (q.v.) (_circa_ 810-877) the chief
 philosophic element is supplied by the influence of Plato and Plotinus,
 transmitted through an unknown author of the 5th century, who assumed
-the name of Dionysius the Areopagite. Accordingly the ethical side of
+the name of [[Dionysius]] the Areopagite. Accordingly the ethical side of
 this doctrine has the same negative and ascetic character that we have
 observed in Neoplatonism. God is the only real Being; evil is
 essentially unreal and incognizable; the true aim of man's life is to
 return to perfect union with God out of the degraded material existence
 into which he has fallen. This doctrine found little acceptance among
 Erigena's contemporaries, and was certainly unorthodox enough to justify
-the condemnation which it subsequently received from Honorius III.; but
+the condemnation which it subsequently received from [[Honorius]] III.; but
 its influence, together with that of the Pseudo-Dionysius, had a
 considerable share in developing the more emotional orthodox mysticism
 of the 12th and 13th centuries; and Neoplatonism (or Platonism received
@@ -2180,7 +2180,7 @@ only exists potentially in humanity, except where it is made actual by
 grace.
 
 In a more real sense Abelard (1079-1142) tries to establish the
-connexion between man's ill desert and his free consent. He asserts that
+connexion between man's ill [[Desert|desert]] and his free consent. He asserts that
 the inherited propensity to evil is not strictly a sin, which is only
 committed when the conscious self yields to vicious inclination. With a
 similar stress on the self-conscious side of moral action, he argues
@@ -2197,11 +2197,11 @@ as pure only if purged from the self-regarding desire of the happiness
 which God gives. The general tendency of Abelard's thought was
 suspiciously regarded by contemporary orthodoxy;[22] and the
 over-subtlety of the last-mentioned distinction provoked vehement
-replies from orthodox mystics of the age. Thus, Hugo of St Victor
+replies from orthodox mystics of the age. Thus, [[Hugo]] of St Victor
 (1077-1141) argues that all love is necessarily so far "interested" that
 it involves a desire for union with the beloved; and since eternal
 happiness consists in this union, it cannot truly be desired apart from
-God; while Bernard of Clairvaux (1091-1153) more elaborately
+God; while [[Bernard]] of Clairvaux (1091-1153) more elaborately
 distinguishes four stages by which the soul is gradually led from (1)
 merely self-regarding desire for God's aid in distress, to (2) love him
 for his loving-kindness to it, then also (3) for his absolute goodness,
@@ -2324,7 +2324,7 @@ vague and obscure in particular applications. Neither natural nor human
 law, moreover, takes into account that supernatural happiness which is
 man's highest end. Hence they need to be supplemented by a special
 revelation of divine law. This revelation is distinguished into the law
-of the old covenant and the law of the gospel; the latter of these is
+of the old [[Covenant|covenant]] and the law of the [[Gospel|gospel]]; the latter of these is
 productive as well as imperative since it carries with it the divine
 grace that makes its fulfilment possible. We have, however, to
 distinguish in the case of the gospel between (1) absolute commands and
@@ -2333,7 +2333,7 @@ monastic life of poverty, celibacy and obedience as the best method of
 effectively turning the will from earthly to heavenly things.
 
 
-  Duns Scotus.
+  [[Duns Scotus]].
 
   William of Occam.
 
@@ -2348,7 +2348,7 @@ between good and evil that the jural view of morality seems to require;
 and, secondly, the Christian difficulty of harmonizing this latter
 notion with the absolute dependence on divine grace which the religious
 consciousness affirms. The latter difficulty Thomas, like many of his
-predecessors, avoids by supposing a "co-operation" of free-will and
+predecessors, avoids by supposing a "[[Co-Operation|co-operation]]" of free-will and
 grace, but the former he does not fully meet. It is against this part of
 his doctrines that the most important criticism, in ethics, of his rival
 Duns Scotus (c. 1266-1308) was directed. He urged that will could not be
@@ -2385,15 +2385,15 @@ the 12th century with Bernard of Clairvaux and Hugo of St Victor. It
 blended the Christian element of love with the ecstatic vision of
 Plotinus, sometimes giving the former a decided predominance. In its
 more moderate form, keeping wholly within the limits of ecclesiastical
-orthodoxy, this mysticism is represented by Bonaventura and Gerson;
+orthodoxy, this mysticism is represented by [[Bonaventura]] and Gerson;
 while it appears more independent and daringly constructive in the
-German Eckhart, advancing in some of his followers to open breach with
+German [[Eckhart]], advancing in some of his followers to open [[Breach|breach]] with
 the church, and even to practical immorality.
 
 
   Casuistry.
 
-  The Jesuits.
+  The [[Jesuits]].
 
 In the brief account above given of the general ethical view of Thomas
 Aquinas no mention has been made of the detailed discussion of
@@ -2407,9 +2407,9 @@ into prominence, borrowing a good deal of matter from Thomas and other
 schoolmen. One result of this was a marked development and
 systematization of casuistry. The best known _Summae casuum
 conscientiae_, compiled for the conduct of auricular confession, belong
-to the 14th and 15th centuries. The oldest, the _Astesana_, from Asti in
+to the 14th and 15th centuries. The oldest, the _Astesana_, from [[Asti]] in
 Piedmont, is arranged as a kind of text-book of morality on a scholastic
-basis; later manuals are merely lists of questions and answers. It was
+basis; later [[Manuals|manuals]] are merely lists of questions and answers. It was
 inevitable that, in proportion as this casuistry assumed the character
 of a systematic penal jurisprudence, its precise determination of the
 limits between the prohibited and the allowable, with all doubtful
@@ -2429,7 +2429,7 @@ proportions until after the Reformation; when, in the struggle made by
 the Catholic church to recover its hold on the world, the principle of
 authority was, as it were, forced into keen, balanced and prolonged
 conflict with that of reliance on private judgment. To the Jesuits, the
-foremost champions in this struggle, it seemed indispensable that the
+foremost [[Champion|champions]] in this struggle, it seemed indispensable that the
 confessional should be made attractive; for this purpose
 ecclesiastico-moral law must be somehow "accommodated" to worldly needs;
 and the theory of "Probabilism" supplied a plausible method for
@@ -2440,8 +2440,8 @@ opinion that rested on the authority of even a single doctor; therefore
 his confessor must be authorized to hold him guiltless if any such
 "probable" opinion could be produced in his favour; nay, it was his duty
 to suggest such an opinion, even though opposed to his own, if it would
-relieve the conscience under his charge from a depressing burden. The
-results to which this Probabilism, applied with an earnest desire to
+relieve the conscience under his charge from a depressing [[Burden|burden]]. The
+results to which this Probabilism, applied with an [[Earnest|earnest]] desire to
 avoid dangerous rigour, led in the 17th century were revealed to the
 world in the immortal _Lettres provinciales_ of Pascal.
 
@@ -2483,7 +2483,7 @@ light of natural reason, now furnished the sole principles on which
 cases of conscience were decided.
 
 
-  Humanism.
+  [[Humanism]].
 
 In the 17th century, however, the interest of this quasi-legal treatment
 of morality gradually faded; and the ethical studies of educated minds
@@ -2525,7 +2525,7 @@ C. _Modern Ethics._--The need of such independent principles was most
 strongly felt in the region of man's civil and political relations,
 especially the mutual relations of communities. Accordingly we find that
 modern ethical controversy began in a discussion of the law of nature.
-Albericus Gentilis (1557-1611) and Hugo Grotius (1583-1645) were the
+Albericus [[Gentili|Gentilis]] (1557-1611) and Hugo Grotius (1583-1645) were the
 first to give a systematic account. Natural law, according to Grotius
 and other writers of the age, is that part of divine law which follows
 from the essential nature of man, who is distinguished from animals by
@@ -2545,7 +2545,7 @@ jurists in some passages (cf. _Inst. of Justinian_, ii. 1, 2) clearly
 implied a period of human history in which men were governed by natural
 law alone, prior to the institution of civil society. Posidonius had
 identified this period with the mythical "golden age"; and such ideas
-easily coalesced with the narrative in Genesis. Thus there had become
+easily coalesced with the narrative in [[Genesis]]. Thus there had become
 current the conception of a "state of nature" in which individuals or
 single families lived side by side--under none other than those
 "natural" laws which prohibited mutual injury and interference in the
@@ -2553,7 +2553,7 @@ free use of the goods of the earth common to all, and upheld parental
 authority, fidelity of wives, and the observance of compacts freely
 made. This conception Grotius took, and gave it additional force and
 solidity by using the principles of this natural law for the
-determination of international rights and duties, it being obvious that
+determination of [[International|international]] rights and duties, it being obvious that
 independent nations, in their corporate capacities, were still in that
 "state of nature" in their mutual relations. It was not, of course,
 assumed that these laws were universally obeyed; indeed, one point with
@@ -2574,7 +2574,7 @@ the doctrine of the "fundamental pact" as the jural basis of government
 had long been maintained, especially in England, where the constitution
 historically established readily suggested such a compact. At the same
 time the rapid and remarkable success of Grotius's treatise (_De jure
-belli et pacis_) brought his view of Natural Right into prominence, and
+[[Belli|belli]] et pacis_) brought his view of Natural Right into prominence, and
 suggested such questions as--"What is man's ultimate reason for obeying
 these laws? Wherein exactly does this their agreement with his rational
 and social nature consist? How far, and in what sense, is his nature
@@ -2590,7 +2590,7 @@ psychological views to which Hobbes had been led, possibly to some
 extent under the influence of Bacon,[26] partly perhaps through
 association with his younger contemporary Gassendi, who, in two
 treatises, published between the appearance of Hobbes's _De cive_ (1642)
-and that of the _Leviathan_ (1651), endeavoured to revive interest in
+and that of the _[[Leviathan]]_ (1651), endeavoured to revive interest in
 Epicurus. Hobbes's psychology is in the first place materialistic; he
 holds, that is, that in any of the psycho-physical phenomena of human
 nature the reality is a material process of which the mental feeling is
@@ -2635,7 +2635,7 @@ hypothetically obligatory; they are actualized by the establishment of a
 "common power" that may "use the strength and means of all" to enforce
 on all the observance of rules tending to the common benefit. On the
 other hand Hobbes yields to no one in maintaining the paramount
-importance of moral regulations. The precepts of good faith, equity,
+importance of moral regulations. The precepts of good faith, [[Equity|equity]],
 requital of benefits, forgiveness of wrong so far as security allows,
 the prohibition of contumely, pride, arrogance,--which may all be summed
 up in the formula, "Do not that to another which thou wouldest not have
@@ -2699,7 +2699,7 @@ These distinctions, he insists, have an objective reality, cognizable by
 reason no less than the relations of space or number; and he endeavours
 to refute Hobbism--which he treats as a "novantique philosophy," a mere
 revival of the relativism of Protagoras--chiefly by the following
-_argumentum ad hominem_. He argues that Hobbes's atomic materialism
+_argumentum ad hominem_. He argues that Hobbes's atomic [[Materialism|materialism]]
 involves the conception of an objective physical world, the object not
 of passive sense that varies from man to man, but of the active
 intellect that is the same in all; there is therefore, he urges, an
@@ -2740,7 +2740,7 @@ More is hardly clear. On the one hand he maintains that these principles
 express an absolute good, which is to be called intellectual because its
 essence and truth are apprehended by the intellect. We might infer from
 this that the intellect, so judging, is itself the proper and complete
-determinant of the will, and that man, as a rational being, ought to aim
+[[Determinant|determinant]] of the will, and that man, as a rational being, ought to aim
 at the realization of absolute good for its own sake. In spite, however,
 of possible inferences from his definition of virtue, this does not seem
 to be really More's view. He explains that though absolute good is
@@ -2815,7 +2815,7 @@ ethical rules to be actually obligatory independently of political
 society, and capable of being scientifically constructed on principles
 intuitively known,--though he does not regard these principles as
 implanted in the mind at birth. The aggregate of such rules he conceives
-as the law of God, carefully distinguishing it, not only from civil law,
+as the law of God, carefully distinguishing it, not only from [[Civil Law|civil law]],
 but from the law of opinion or reputation, the varying moral standard by
 which men actually distribute praise and blame; as being divine it is
 necessarily sanctioned by adequate rewards and punishments. He does not,
@@ -2858,7 +2858,7 @@ expounds, Piety towards God, Equity, Benevolence and Sobriety (which
 includes self-preservation), the first is obtained, just as Locke
 suggests, by "comparing the idea" of man with the idea of an infinitely
 good and wise being on whom he depends; and the second and third are
-axioms self-evident on the consideration of the equality or similarity
+[[Axiom|axioms]] self-evident on the consideration of the equality or similarity
 of human individuals as such. The principle of equity--that "whatever I
 judge reasonable or unreasonable for another to do for me, that by the
 same I declare reasonable or unreasonable that I in the like case should
@@ -2959,7 +2959,7 @@ good. Goodness, in short, consists in due combination, in just
 proportion, of both sorts of "affections," tendency to promote general
 good being taken as the criterion of the right degrees and proportions.
 This being established, the main aim of Shaftesbury's argument is to
-prove that the same balance of private and social affections, which
+prove that the same [[Balance|balance]] of private and social affections, which
 tends naturally to public good, is also conducive to the happiness of
 the individual in whom it exists. Taking the different impulses in
 detail, he first shows how the individual's happiness is promoted by
@@ -3015,7 +3015,7 @@ rather broadly impressive than exactly reasoned, and connected as it was
 with a natural theology that implied the Christian scheme to be
 superfluous, challenged attack equally from orthodox divines and from
 cynical freethinkers. Of these latter Mandeville, the author of _The
-Fable of the Bees, or Private Vices Public Benefits_ (1723), was a
+Fable of the [[Bee|Bees]], or Private Vices Public Benefits_ (1723), was a
 conspicuous if not a typical specimen. He can hardly be called a
 "moralist"; and though it is impossible to deny him a considerable share
 of philosophic penetration, his anti-moral paradoxes have not even
@@ -3101,7 +3101,7 @@ essentially authoritative--which is not implied in the term "moral
 sense"--such a man is really bound to be vicious; "since interest, one's
 own happiness, is a manifest obligation." Still on this view, even if
 the authority of conscience be asserted, we seem reduced to an ultimate
-dualism of our rational nature. Butler's ordered polity of impulses
+[[Dualism|dualism]] of our rational nature. Butler's ordered polity of impulses
 turns out to be a polity with two independent governments. Butler does
 not deny this, so far as mere claim to authority is concerned;[32] but
 he maintains that, the dictates of conscience being clear and certain,
@@ -3128,7 +3128,7 @@ approve itself to the strong common sense of Butler; but his statement
 of happiness or pleasure as a "justly desirable" end at which every
 rational being "ought" to aim corresponds exactly to Butler's conception
 of self-love as a naturally governing impulse; while the "moral
-arithmetic" with which he compares pleasures and pains, and endeavours
+[[Arithmetic|arithmetic]]" with which he compares pleasures and pains, and endeavours
 to make the notion of happiness quantitatively precise, is an
 anticipation of Benthamism.
 
@@ -3188,7 +3188,7 @@ only by the indirect method of cultivating and indulging the
 disinterested desire for others' good, which is thus obviously distinct
 from the desire for the pleasure of benevolence. He points to the fact
 that the imminence of death often intensifies instead of diminishing a
-man's desire for the welfare of those he loves, as a crucial experiment
+man's desire for the welfare of those he loves, as a [[Crucial|crucial]] experiment
 proving the disinterestedness of love; adding, as confirmatory evidence,
 that the sympathy and admiration commonly felt for self-sacrifice
 depends on the belief that it is something different from refined
@@ -3376,7 +3376,7 @@ doctrine, that reason is not concerned with the ends of action, to say
 that the mere existence of a moral sentiment is in itself no reason for
 obeying it. A reaction, in one form or another, against the tendency to
 dissolve ethics into psychology was inevitable; since mankind generally
-could not be so far absorbed by the interest of psychological hypothesis
+could not be so far absorbed by the interest of psychological [[Hypothesis|hypothesis]]
 as to forget their need of establishing practical principles. It was
 obvious, too, that this reaction might take place in either of the two
 lines of thought, which, having been peacefully allied in Clarke and
@@ -3473,7 +3473,7 @@ must naturally regulate all particular appetites and passions. It cannot
 reasonably be subordinated even to the moral faculty; in fact, a man who
 doubts the coincidence of the two--which on religious grounds we must
 believe to be complete in a morally governed world--is reduced to the
-"miserable dilemma whether it is better to be a fool or a knave." As
+"miserable dilemma whether it is better to be a [[Fool|fool]] or a knave." As
 regards the moral faculty itself, Reid's statement coincides in the main
 with Price's; it is both intellectual and active, not merely perceiving
 the "rightness" or "moral obligation" of actions (which Reid conceives
@@ -3684,7 +3684,7 @@ his political or moral inferences lie open at every point to the test of
 practical experience. Every one, it would seem, can tell what value he
 sets on the pleasures of alimentation, sex, the senses generally,
 wealth, power, curiosity, sympathy, antipathy (malevolence), the
-goodwill of individuals or of society at large, and on the corresponding
+[[Goodwill|goodwill]] of individuals or of society at large, and on the corresponding
 pains, as well as the pains of labour and organic disorders;[42] and can
 guess the rate at which they are valued by others; therefore if it be
 once granted that all actions are determined by pleasures and pains, and
@@ -3727,7 +3727,7 @@ cardinal doctrine of utilitarianism that a man always gains his own
 greatest happiness by promoting that of others; another section,
 represented by John Austin, apparently returned to Paley's position, and
 treated utilitarian morality[44] as a code of divine legislation;
-others, with Grote, are content to abate the severity of the claims made
+others, with [[Grote]], are content to abate the severity of the claims made
 by "general happiness" on the individual, and to consider utilitarian
 duty as practically limited by reciprocity; while on the opposite side
 an unqualified subordination of private to general happiness was
@@ -3826,7 +3826,7 @@ slightly in his account of justice and other "artificial" virtues. Some
 years earlier, Gay,[45] admitting Hutcheson's proof of the actual
 disinterestedness of moral and benevolent impulses, had maintained that
 these (like the desires of knowledge or fame, the delight of reading,
-hunting and planting, &c.) were derived from self-love by "the power of
+[[Hunting|hunting]] and planting, &c.) were derived from self-love by "the power of
 association." But a thorough and systematic application of the principle
 to ethical psychology is first found in Hartley's _Observations on Man_
 (1748). Hartley, too, was the first to conceive association as
@@ -3853,7 +3853,7 @@ these sentiments are manifested by children, which hardly allows time
 for association to produce the effects ascribed to it. This argument has
 been met in recent times by the application to mind of the physiological
 theory of heredity, according to which changes produced in the mind
-(brain) of a parent, by association of ideas or otherwise, tend to be
+(brain) of a parent, by [[Association Of Ideas|association of ideas]] or otherwise, tend to be
 inherited by his offspring; so that the development of the moral sense
 or any other faculty or susceptibility of existing man may be
 hypothetically carried back into the prehistoric life of the human race,
@@ -4053,8 +4053,8 @@ the _Law of Nature_, in which the general view of Grotius was restated
 with modifications, partly designed to effect a compromise with the
 doctrine of Hobbes, seems to have been a good deal read at Oxford and
 elsewhere. Locke includes it among the books necessary to the complete
-education of a gentleman. But the subsequent development of the theory
-of conduct in Germany dropped almost entirely out of the cognizance of
+education of a [[Gentleman|gentleman]]. But the subsequent development of the theory
+of conduct in Germany dropped almost entirely out of the [[Cognizance|cognizance]] of
 Englishmen; even the long dominant system of Wolff (d. 1754) was hardly
 known. Nor had Kant any serious influence in England until the second
 quarter of the 19th century. We find, however, distinct traces of
@@ -4250,7 +4250,7 @@ what is most permanent in the contribution of modern times to ethical
 theory will ultimately be attributed to philosophers antagonistic to
 evolutionary ethics. Nevertheless the application of the historical
 method to inquiries concerning the facts of morality and the moral
-life--itself part of the great movement of thought to which Darwin gave
+life--itself part of the great movement of thought to which [[Darwin]] gave
 the chief impetus--has caused moral problems to be presented in a novel
 aspect; while the influence of Darwinism upon studies which have
 considerable bearing upon ethics, e.g. anthropology or the study of
@@ -4344,7 +4344,7 @@ of our nature at the expense of reason, he leaves unsolved.
 It was in Herbert Spencer, the triumphant "buccinator novi temporis,"
 that the advocates of evolutionary ethics found their protagonist.
 Spencer looked to ideas derived from the biological sciences to provide
-a solution of all the enigmas of morality, as of most other departments
+a solution of all the [[Enigma|enigmas]] of morality, as of most other departments
 of life; and he conceived it "to be the business of moral science to
 deduce from the laws of life and the conditions of existence what kinds
 of action necessarily tend to produce happiness and what kinds to
@@ -4469,7 +4469,7 @@ meaningless test of "survivability" as a standard of perfection for the
 usual and intelligible standards of "good" and "right."
 
 
-  Leslie Stephen.
+  [[Leslie]] Stephen.
 
 A similar criticism might fairly be passed upon the majority of
 philosophers who approach ethics from the standpoint of evolution. Sir
@@ -4510,7 +4510,7 @@ considerations. But it is precisely this, the only logical inference,
 which most evolutionary philosophers are unwilling to draw. They cannot
 give up their belief in customary morality. Professor Huxley maintained,
 for example, in a famous lecture that "the ethical progress of society
-depends not on imitating the cosmic process, still less in running away
+depends not on imitating the [[Cosmic|cosmic]] process, still less in running away
 from it, but in combating it" (_Romanes Lecture, ad fin_.). And very
 frequently arguments are adduced by evolutionists to prove that men's
 belief in the absolute character of moral precepts is one of the
@@ -4526,7 +4526,7 @@ and conditions of existence meaningless, if not absurd.
   Nietzsche.
 
 Perhaps the one European thinker who has carried evolutionary principles
-in ethics to their logical conclusion is Friedrich Nietzsche. Almost any
+in ethics to their logical conclusion is [[Friedrich]] Nietzsche. Almost any
 system of morality or immorality might find some justification in
 Nietzsche's writings, which are extraordinarily chaotic and full of the
 wildest exaggerations. Yet it has been a true instinct which has led
@@ -4732,7 +4732,7 @@ regard to the second position one quotation will suffice (_op. cit._ p.
 psychological root of primitive ethical sentiment. Both developments are
 alike unavoidable, and each is ultimately irreconcilable with the other.
 Neither egoism nor altruism can be made the sole basis of moral theory
-without mutilation of the facts, nor can any higher category be
+without mutilation of the facts, nor can any higher [[Category|category]] be
 discovered by the aid of which their rival claims may be finally
 adjusted."
 
@@ -4803,7 +4803,7 @@ generation even in the infra-ethical world with which biology deals. He
 traces this opposition into the forms in which it appears in the social
 life of mankind (as, e.g., in the difficulty of reconciling the
 conflicting claims of individual self-development and self-culture and
-social service), and finds "a hidden root of insincerity and hypocrisy
+social service), and finds "a hidden root of insincerity and [[Hypocrisy|hypocrisy]]
 beneath all morality" (p. 243), inasmuch as it is not possible to pursue
 any one type of ideal without some departure from singleness of purpose.
 And he finds all the conceptions by which men have hoped to reconcile
@@ -4849,7 +4849,7 @@ metaphysics tend in their systems to usurp the place of authority
 formerly assigned to ethics proper.
 
 
-  Martineau.
+  [[Martineau]].
 
 It would be true on the whole to assert that evolutionary systems of
 ethics such as those of Herbert Spencer, Sir Leslie Stephen or Professor
@@ -4867,7 +4867,7 @@ systematize the moral sentiments, and if the actual exhibition of what
 is involved, e.g., in moral choice is the vindication of morality
 Martineau may be said to have been successful. It is with his
 interpretation and systematization of the moral sentiments that most of
-Martineau's critics have found fault. It is impossible, e.g., to accept
+Martineau's critics have found [[Fault|fault]]. It is impossible, e.g., to accept
 his ordered hierarchy of "springs of action" without perceiving that the
 real principle upon which they can be arranged in order at all must
 depend upon considerations of circumstances and consequences, of
@@ -4899,7 +4899,7 @@ founding a school of thought. Many of his most acute critics would be
 the first to admit how much they owe to his teaching. Chief among the
 more recent of these is G.E. Moore, whose book _Principia Ethica_ is an
 important original contribution to ethical thought. And although Dr
-Hastings Rashdall (_The Theory of Good and Evil_ Oxford, 1907) is not in
+[[Hastings]] Rashdall (_The Theory of Good and Evil_ Oxford, 1907) is not in
 agreement with Sidgwick's own particular type of hedonistic theory in
 his own philosophical position, he occupies a point of view somewhat
 similar to that of Sidgwick's main attitude of Rational Utilitarianism.
@@ -4943,7 +4943,7 @@ in ethical speculation.
   I. _Historical._--Sir L. Stephen, _History of English Thought in the
   18th Century_ (1876, 3rd ed. 1892); W.E.H. Lecky, _History of European
   Morals from Augustus to Charlemagne_ (1869, many editions); works of
-  Ed. Zeller (q.v.); G.H. Lewes, _History of Philosophy_ (1880); W.
+  Ed. Zeller (q.v.); G.H. [[Lewes]], _History of Philosophy_ (1880); W.
   Gass, _Geschichte der christlichen Ethik_ (1881); A.W. Benn, _The
   Greek Philosophers_ (1882); F. Jodl, _Geschichte der Ethik in der
   neueren Philos_. (2 vols., 1882-1889); L. Schmidt, _Ethik der alten
@@ -4951,16 +4951,16 @@ in ethical speculation.
   (1885); J. Martineau, _Types of Ethical Theory_ (Oxford, 1885, 3rd ed.
   1891); Th. Ziegler, _Gesch. d. christl. Ethik_ (1886); Ch.
   Letourneaux, _L'Evolution de la morale_ (1887); K. Kostlin, _Gesch.
-  der Ethik_ (1887); C.E. Luthardt, _Die antike Ethik in ihrer
+  der Ethik_ (1887); C.E. [[Luthardt]], _Die antike Ethik in ihrer
   geschichtlichen Entwicklung_ (1887), and _Hist. of Christian Ethics_
   (1888); C.M. Williams, _A Review of the Systems of Ethics founded on
   the Theory of Evolution_ (1893); J. Watson, _Hedonistic Theories from
   Aristippus to Spencer_ (1895); L.A. Selby-Bigge, _British Moralists_
-  (1897); R. Mackintosh, _From Comte to Benjamin Kidd_ (1899); S.
+  (1897); R. Mackintosh, _From Comte to [[Benjamin]] Kidd_ (1899); S.
   Patten, _The Development of English Thought_ (1899); A.B. Bruce, _The
   Moral Order of the World in Ancient and Modern Thought_ (1899); Sir L.
   Stephen, _The English Utilitarians_ (1901); Henry Sidgwick, _Outlines
-  of the History of Ethics_ (5th ed., 1902); Paul Janet, _History of the
+  of the History of Ethics_ (5th ed., 1902); Paul [[Janet]], _History of the
   Problems of Philosophy_ (1902-1903), Eng. trans. Ada Monahan, vol. ii.
   "Ethics"; W.R. Sorley, _Recent Tendencies in Ethics_ (1904).
 
@@ -4971,9 +4971,9 @@ in ethical speculation.
   ni sanction_ (Eng. trans., 1898); G.H. Lewes, _Problems of Life and
   Mind_ (1879); Sir L. Stephen, _Science of Ethics_ (1882); P. Janet,
   _The Theory of Morals_ (Eng. trans., 1884); W.R. Sorley, _On the
-  Ethics of Naturalism_ (1885); W.L. Courtney, _Constructive Ethics_
-  (1886); Wilson and Fowler, _Principles of Morals_ (1886); H. Hoffding,
-  _Ethik_ (1888), _Psychologie_ (1882, 1892; trans. Lowndes, 1892); W.
+  Ethics of Naturalism_ (1885); W.L. [[Courtney]], _Constructive Ethics_
+  (1886); Wilson and [[Fowler]], _Principles of Morals_ (1886); H. [[Hoffding]],
+  _Ethik_ (1888), _Psychologie_ (1882, 1892; trans. [[Lowndes]], 1892); W.
   Wundt, _Ethik_ (1886; trans. Titchener and others, 1897); F. Paulsen,
   _Ethik_ (1889, 1893; trans. Thilly, 1899); H. Sidgwick, _Method of
   Ethics_ (1890); J.T. Bixby, _The Crisis in Morals: An Examination of
@@ -4981,24 +4981,24 @@ in ethical speculation.
   (1891); J.H. Muirhead, _Elements of Ethics_ (1892); G. Simnel,
   _Einleitung in die Moralwissenschaft_ (1892, 1893); T. Ziegler,
   _Social Ethics_ (1892); T.H. Huxley, _Evolution and Ethics_ (1893); W.
-  Knight, _The Christian Ethic_ (1893); J.S. Mackenzie, _Manual of
+  [[Knight]], _The Christian Ethic_ (1893); J.S. [[Mackenzie]], _[[Manual]] of
   Ethics_ (1893); F. Ryland, _Ethics_ (1893); J. Seth, _A Study of
   Ethical Principles_ (1894, 6th ed. 1902); C.F. D'Arcy, _Short Study of
   Ethics_ (1895); J.H. Hyslop, _The Elements of Ethics_ (1895); J. Kidd,
   _Morality and Religion_ (1895); Sir L. Stephen, _Social Rights and
-  Duties_ (1896); J.M. Baldwin, _Social and Ethical Interpretations in
+  Duties_ (1896); J.M. [[Baldwin]], _Social and Ethical Interpretations in
   Mental Development_ (1897); Th. Ribot, _Psychology of Emotions_
   (1897); A. Seth Pringle-Pattison, _Man's Place in the Cosmos_ (1897);
-  H.R. Marshall, _Instinct and Reason_ (1898); W. Wallace, _Natural
+  H.R. [[Marshall]], _Instinct and Reason_ (1898); W. Wallace, _Natural
   Theology and Ethics_ (1898); F. Paulsen, _Partei-politik und Moral_
-  (1900); A.E. Taylor, _Problem of Conduct_ (1901); G.T. Ladd,
+  (1900); A.E. Taylor, _Problem of Conduct_ (1901); G.T. [[Ladd]],
   _Philosophy of Conduct_ (1902); H. Sidgwick, _Ethics of Green,
   Spencer, Martineau_ (1902); D. Irons, _Study in Psychology of Ethics_
-  (1903); G.E. Moore, _Principia Ethica_ (1903); R. Eucken, _Geistige
+  (1903); G.E. Moore, _Principia Ethica_ (1903); R. [[Eucken]], _Geistige
   Stromungen der Gegenwart_ (1904), and other works (see EUCKEN,
-  RUDOLF); works of A. Fouillee (q.v.); G. Santayana, _Life of Reason_
+  RUDOLF); works of A. [[Fouillee]] (q.v.); G. Santayana, _Life of Reason_
   (1905); E.A. Westermarck, _Origin and Development of Moral Ideas_
-  (1906); George Gore, _Scientific Basis of Morality_ (1899), and _New
+  (1906); George [[Gore]], _Scientific Basis of Morality_ (1899), and _New
   Scientific Basis of Morality_ (1906), containing an interesting if
   unconvincing attempt to explain ethics on purely physical principles.
        (H. H. W.)
@@ -5121,7 +5121,7 @@ FOOTNOTES:
     Milman, _Lat. Christ_. book xiii. c. 9.
 
   [25] As the chief English casuists we may mention Perkins, Hall,
-    Sanderson, as well as the more eminent Jeremy Taylor, whose _Ductor
+    Sanderson, as well as the more eminent [[Jeremy]] Taylor, whose _Ductor
     dubitantium_ appeared in 1660.
 
   [26] This influence was not exercised in the region of ethics.
@@ -5258,7 +5258,7 @@ FOOTNOTES:
 
   [41] It must be allowed that Paley's application of this argument is
     somewhat loosely reasoned, and does not sufficiently distinguish the
-    consequence of a single act of beneficent manslaughter from the
+    consequence of a single act of beneficent [[Manslaughter|manslaughter]] from the
     consequences of a general permission to commit such acts.
 
   [42] This list gives twelve out of the fourteen classes in which
@@ -5306,7 +5306,7 @@ FOOTNOTES:
     adopt."
 
   [49] In Kantism, as we have partly seen, the most important
-    ontological beliefs--in God, freedom and immortality of the soul--are
+    ontological beliefs--in God, freedom and [[Immortality|immortality]] of the soul--are
     based on necessities of ethical thought. In Fichte's system the
     connexion of ethics and metaphysics is still more intimate; indeed,
     we may compare it in this respect to Platonism; as Plato blends the

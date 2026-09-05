@@ -1,6 +1,6 @@
 # Kwang-Si
 
-KWANG-SI, a southern province of China, bounded N. by Kwei-chow and
+KWANG-SI, a southern province of China, bounded N. by [[Kwei-Chow|Kwei-chow]] and
 Hu-nan, E. and S. by Kwang-tung, S.W. and W. by French Indo-Chino and
 Yun-nan. It covers an area of 80,000 sq. m. It is the least populous
 province of China, its inhabitants numbering (1908) little over

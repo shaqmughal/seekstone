@@ -25,8 +25,8 @@ system of sacrificial worship. In this connexion, however, the term
 reference in the book itself to the Levites themselves.
 
 The book of Leviticus presents a marked contrast to the two preceding
-books of the Hexateuch in that it is derived from one document only,
-viz. the Priestly Code (P), and contains no trace of the other documents
+books of the [[Hexateuch]] in that it is derived from one document only,
+viz. the Priestly [[Code]] (P), and contains no trace of the other documents
 from which the Hexateuch has been compiled. Hence the dominant interest
 is a priestly one, while the contents are almost entirely legislative as
 opposed to historical. But though the book as a whole is assigned to a
@@ -112,8 +112,8 @@ that they were not all derived from the same source.
   period of the sacrificial system. Several features confirm this view:
   (1) the blood of the sin-offering of the "anointed priest" and of the
   whole congregation is brought within the veil and sprinkled on the
-  altar of incense, (2) the sin-offering of the congregation is a
-  bullock, and not, as elsewhere, a goat (ix. 15; Num. xv. 24), (3) the
+  altar of [[Incense|incense]], (2) the sin-offering of the congregation is a
+  [[Bullock|bullock]], and not, as elsewhere, a goat (ix. 15; Num. xv. 24), (3) the
   altar of incense is distinguished from the altar of burnt-offering (as
   opposed to Exod. xxix.; Lev. viii. ix.). Chap. v. 1-13 have usually
   been regarded as an appendix to iv., setting forth (a) a number of
@@ -161,9 +161,9 @@ that they were not all derived from the same source.
   connexion with the sacrificial meal which formed the usual
   accompaniment of the peace-offering. Chap. vii. 28-34 are also
   addressed to the people, and cannot therefore have formed part of the
-  original priestly manual; v. 33 betrays the same hand as vi. 26 (Heb.
+  original priestly [[Manual|manual]]; v. 33 betrays the same hand as vi. 26 (Heb.
   19) and vii. 7, and with 35a may be assigned to the same collection as
-  those verses; to the redactor must be assigned vv. 32 (a doublet of v.
+  those verses; to the redactor must be assigned vv. 32 (a [[Doublet|doublet]] of v.
   33), 34, 35b and 36.
 
   Chaps. viii.-x. As stated, these chapters form the original sequel to
@@ -183,7 +183,7 @@ that they were not all derived from the same source.
   since the intervening chapters exhibit obvious traces of belonging to
   another source, we may conclude with some certainty that Lev. viii.
   formed the immediate continuation of Exod. xl. in the original
-  narrative of P. But it has already been pointed out (see Exodus) that
+  narrative of P. But it has already been pointed out (see [[Exodus]]) that
   Exod. xxxv.-xl. belong to a later stratum of P than Exod. xxv.-xxix,
   hence it is by no means improbable that Exod. xxxv-xl. have superseded
   an earlier and shorter account of the fulfilment of the commands in
@@ -196,7 +196,7 @@ that they were not all derived from the same source.
   but are clearly the work of a later editor. These additions, the
   secondary character of which is obvious both from the way in which
   they interrupt the context and also from their contents, are (1), v.
-  10, the anointing of the Tabernacle in accordance with Exod. xxx. 26
+  10, the [[Anointing|anointing]] of the Tabernacle in accordance with Exod. xxx. 26
   ff.: it is not enjoined in Exod. xxix.; (2) v. 11, the anointing of
   the altar and the laver (cf. Exod. xxx. 17 ff.) as in Exod. xxix. 36b,
   xxx. 26 ff.; (3) v. 30, the sprinkling of blood and oil on Aaron and
@@ -225,7 +225,7 @@ that they were not all derived from the same source.
   is extremely harsh, and since vv. 10, 11 relate to an entirely
   different subject (cf. xi. 47), the latter verses must be regarded as
   a misplaced fragment. Verses 12-15 relate to the portions of the meal-
-  and peace-offerings which fell to the lot of the priests, and connect,
+  and peace-offerings which fell to the [[Lot|lot]] of the priests, and connect,
   therefore, with chap. ix.; possibly they have been wrongly transferred
   from that chapter. In the remaining paragraph, x. 16-20, we have an
   interesting example of the latest type of additions to the Hexateuch.
@@ -236,13 +236,13 @@ that they were not all derived from the same source.
   according to the older legislation (Exod. xxix. 14; cf. Lev. viii.
   17), was in direct contradiction to the ritual of vi. 24 ff., which
   prescribed that the flesh of ordinary sin-offerings should be eaten by
-  the priests. Such a breach of ritual on the part of Aaron and his sons
+  the priests. Such a [[Breach|breach]] of ritual on the part of Aaron and his sons
   seemed to a later redactor to demand an explanation, and this is
   furnished in the present section.
 
 II. _The Laws of Purification._--Chaps. xi.-xv. This collection of laws
 comprises four main sections relating to (1) clean and unclean beasts
-(xi.), (2) childbirth (xii.), (3) leprosy (xiii. xiv.), and (4) certain
+(xi.), (2) childbirth (xii.), (3) [[Leprosy|leprosy]] (xiii. xiv.), and (4) certain
 natural secretions (xv.). These laws, or _toroth_, are so closely allied
 to each other by the nature of their contents and their literary form
 (cf. especially the recurring formula "This is the law of ..." xi. 46,
@@ -320,7 +320,7 @@ address (xi. 1, xiii. 1, xiv. 33, xv. 1) is contrary to the usage of P.
   the healing of leprosy; and (d) xiv. 33-53, regulations dealing with
   the appearance of patches of mould or mildew on the walls of a house.
   Like other collections the group of laws on leprosy easily betrays its
-  composite character and exhibits unmistakable evidence of its gradual
+  composite character and exhibits unmistakable evidence of its [[Gradual|gradual]]
   growth. There is, however, no reason to doubt that a large portion of
   the laws is genuinely old since the subject is one that would
   naturally call for early legislation; moreover, Deut. xxiv. 8
@@ -366,7 +366,7 @@ address (xi. 1, xiii. 1, xiv. 33, xv. 1) is contrary to the usage of P.
   regulations to be observed by Aaron whenever he might enter "the holy
   place within the veil." These regulations are the natural outcome of
   the death of Nadab and Abihu (x. 1-5), and their object is to guard
-  Aaron from a similar fate; the section thus forms the direct
+  Aaron from a similar [[Fate|fate]]; the section thus forms the direct
   continuation of chap. x.; (2) vv. 29-34a, rules for the observance of
   a yearly fast day, having for their object the purification of the
   sanctuary and of the people; (3) vv. 5, 7-10, 14-22, 26-28, a later
@@ -375,7 +375,7 @@ address (xi. 1, xiii. 1, xiv. 33, xv. 1) is contrary to the usage of P.
   ceremony of the goat which is sent away into the wilderness to Azazel.
   The matter common to the first two sections, viz. the entrance of the
   high priest into the Holy of Holies, was doubtless the cause of their
-  subsequent fusion; beyond this, however, the sections have no
+  subsequent [[Fusion|fusion]]; beyond this, however, the sections have no
   connexion with one another, and must originally have been quite
   independent. Doubtless, as Benzinger suggests, the rites to be
   performed by the officiating high priest on the annual Day of
@@ -389,14 +389,14 @@ address (xi. 1, xiii. 1, xiv. 33, xv. 1) is contrary to the usage of P.
   the main narrative of P; it connects directly with chap. x. and
   presupposes only one altar (cf. v. 12, Exod. xxviii. 35). The second
   and third sections, however, must be assigned to a later stratum of P,
-  if only because they appear to have been unknown to Ezra (Neh. ix. 1);
+  if only because they appear to have been unknown to [[Ezra]] (Neh. ix. 1);
   the fact that Ezra's fast day took place on the twenty-fourth day of
   the seventh month (as opposed to Lev. xvi. 29, xxiii. 26 f.) acquires
   an additional importance in view of the agreement between Neh. viii.
   23 f. and Lev. xxiii. 33 f. as to the date of the Feast of
   Tabernacles. No mention is made of the Day of Atonement in the
   pre-exilic period, and it is a plausible conjecture that the present
-  law arose from the desire to turn the spontaneous fasting of Neh. ix.
+  law arose from the desire to turn the spontaneous [[Fasting|fasting]] of Neh. ix.
   1 into an annual ceremony; in any case directions as to the annual
   performance of the rite must originally have preceded vv. 29 ff.
   Possibly the omission of this introduction is due to the redactor who
@@ -416,7 +416,7 @@ indeed, is so characteristic of the entire group that the title "Law of
 Holiness," first given to it by Klostermann (1877), has been generally
 adopted. The term "holiness" in this connexion consists positively in
 the fulfilment of ceremonial obligations and negatively in abstaining
-from the defilement caused by heathen customs and superstitions, but it
+from the defilement caused by [[Heathen|heathen]] customs and superstitions, but it
 also includes obedience to the moral requirements of the religion of
 Yahweh.
 
@@ -458,7 +458,7 @@ Yahweh.
 
   Two other points in connexion with H are of considerable importance:
   (a) the possibility of other remains of H, and (b) its relation to
-  Deuteronomy and Ezekiel.
+  Deuteronomy and [[Ezekiel]].
 
   (a) It is generally recognized that H, in its present form, is
   incomplete. The original code must, it is felt, have included many
@@ -495,7 +495,7 @@ Yahweh.
   agreement in order either in the whole or in smaller portions, and the
   fact that of the peculiar motives and phrases of R_{D} there is no
   trace in H (Lev. xxiii. 40 is almost solitary). It is an unwarranted
-  assumption that all the fragments of Israelite legislation which have
+  [[Assumption|assumption]] that all the fragments of Israelite legislation which have
   been preserved lie in one serial development" (Moore, _Ency. Bibl._
   col. 2790).
 
@@ -517,7 +517,7 @@ Yahweh.
   (2) the passages in Lev. xxvi. (vv. 34 f., 39-45), which are
   especially cited in support of the exilic standpoint of the writer,
   are just those which, on other grounds, show signs of later
-  interpolation. The following considerations undoubtedly suggest the
+  [[Interpolation|interpolation]]. The following considerations undoubtedly suggest the
   priority of H: (1) there is no trace in H of the distinction between
   priests and Levites first introduced by Ezekiel; (2) Ezekiel xviii.,
   xx., xxii., xxiii. appear to presuppose the laws of Lev. xviii.-xx.;
@@ -572,7 +572,7 @@ Yahweh.
   shall be holy"). The various laws are clearly defined by the formula
   "I am Yahweh," or "I am Yahweh your God," phrases which are especially
   characteristic of chaps. xviii.-xx. The first group of laws (vv. 3 f.)
-  corresponds to the first table of the decalogue, while vv. 11-18 are
+  corresponds to the first table of the [[Decalogue|decalogue]], while vv. 11-18 are
   analogous to the second table; vv. 5-8 (on peace-offerings) are
   obviously out of place here, and are possibly to be restored to the
   cognate passage xxii. 29 f., while the humanitarian provisions of vv.
@@ -653,16 +653,16 @@ Yahweh.
   Chap. xxiii. A calendar of sacred seasons. The chapter consists of two
   main elements which can easily be distinguished from one another, the
   one being derived from P and the other from H. To the former belongs
-  the fuller and more elaborate description of vv. 4-8, 21, 23-38; to
+  the [[Fuller|fuller]] and more elaborate description of vv. 4-8, 21, 23-38; to
   the latter, vv. 9-20, 22, 39-44. Characteristic of the priestly
-  calendar are (1) the enumeration of "holy convocations," (2) the
+  calendar are (1) the enumeration of "holy [[Convocation|convocations]]," (2) the
   prohibition of all work, (3) the careful determination of the date by
   the day and month, (4) the mention of "the offerings made by fire to
   Yahweh," and (5) the stereotyped form of the regulations. The older
   calendar, on the other hand, knows nothing of "holy convocations," nor
   of abstinence from work; the time of the feasts, which are clearly
   connected with agriculture, is only roughly defined with reference to
-  the harvest (cf. Exod. xxiii. 14 ff., xxxiv. 22; Deut. xvi. 9 ff.).
+  the [[Harvest|harvest]] (cf. Exod. xxiii. 14 ff., xxxiv. 22; Deut. xvi. 9 ff.).
 
   The calendar of P comprises (a) the Feast of Passover and the
   Unleavened Cakes, vv. 4-8; (b) a fragment of Pentecost, v. 21; (c) the
@@ -683,11 +683,11 @@ Yahweh.
   Chap. xxiv. affords an interesting illustration of the manner in which
   the redactor of P has added later elements to the original code of H.
   For the first part of the chapter, with its regulations as to (a) the
-  lamps in the Tabernacle, vv. 1-4, and (b) the Shewbread, vv. 5-9, is
+  [[Lamp|lamps]] in the Tabernacle, vv. 1-4, and (b) the Shewbread, vv. 5-9, is
   admittedly derived from P, vv. 1-4, forming a supplement to Exod. xxv.
   31-40 (cf. xxvii. 20 f.) and Num. viii. 1-4, and vv. 5-9 to Exod. xxv.
   30. The rest of the chapter contains old laws (vv. 15b-22) derived
-  from H on blasphemy, manslaughter and injuries to the person, to which
+  from H on [[Blasphemy|blasphemy]], [[Manslaughter|manslaughter]] and injuries to the person, to which
   the redactor has added an historical setting (vv. 10-14, 23) as well
   as a few glosses.
 
@@ -747,7 +747,7 @@ Yahweh.
   impossible to hold that Ezekiel was either the author or compiler of
   this chapter.
 
-  Chap. xxvii. On the commutation of vows and tithes. The chapter as a
+  Chap. xxvii. On the [[Commutation|commutation]] of vows and tithes. The chapter as a
   whole must be assigned to a later stratum of P, for while vv. 2-25 (on
   vows) presuppose the year of Jubilee, the section on tithes, vv.
   30-33, marks a later stage of development than Num. xviii. 21 ff. (P);
@@ -758,11 +758,11 @@ Yahweh.
   Leviticus_ (1897); Driver and White, _SBOT. Leviticus_ (English,
   1898); B. Baentsch, _Exod. Lev. u. Num._ (HK, 1900); Bertholet,
   _Leviticus_ (KHC, 1901). _Criticism_: The Introductions to the Old
-  Testament by Kuenen, Holzinger, Driver, Cornill, König and the
+  Testament by [[Kuenen]], Holzinger, Driver, Cornill, König and the
   archaeological works of Benzinger and Nowack. Wellhausen, _Die
   Composition des Hexateuchs_, &c. (1899); Kayser, _Das vorexilische
-  Buch der Urgeschichte Isr._ (1874); Klostermann, _Zeitschrift für
-  Luth. Theologie_ (1877); Horst, _Lev. xvii.-xxvi. and Hezekiel_
+  [[Buch]] der Urgeschichte Isr._ (1874); Klostermann, _Zeitschrift für
+  Luth. Theologie_ (1877); [[Horst]], _Lev. xvii.-xxvi. and Hezekiel_
   (1881); Wurster, _ZATW_ (1884); Baentsch, _Das Heiligkeitsgesetz_
   (1893); L. P. Paton, "The Relation of Lev. 20 to Lev. 17-19,"
   _Hebraica_ (1894); "The Original Form of Leviticus," _JBL_ (1897,

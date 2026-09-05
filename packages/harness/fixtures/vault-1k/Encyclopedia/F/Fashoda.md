@@ -17,7 +17,7 @@ unhealthy; mosquitoes are present in millions. The climate is always
 damp and the temperature rarely below 98 deg. in the shade. The
 government offices are well-built brick structures. In front of the
 station is a long low island, and when the Nile is at its lowest this
-channel becomes dry. Several roads from Kordofan converge on the Nile at
+channel becomes dry. Several roads from [[Kordofan]] converge on the Nile at
 this point, and near the station is the residence of the _mek_, or king,
 of the Shilluk tribe, whose designation of the post was adopted when it
 was decided to abandon the use of Fashoda. At Lul, 18 m. farther up

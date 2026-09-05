@@ -7,10 +7,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Investitur
 
 # Investiture
 
-INVESTITURE (Late Lat. _investitura_), the formal installation into an
+INVESTITURE (Late Lat. _investitura_), the formal [[Installation|installation]] into an
 office or estate, which constituted in the middle ages one of the acts
 that betokened the feudal relation between suzerain and vassal. The
-suzerain, after receiving the vassal's homage and oath of fealty,
+suzerain, after receiving the vassal's [[Homage|homage]] and oath of fealty,
 invested him with his land or office by presenting some symbol, such as
 a clod, a banner, a branch, or some other object according to the custom
 of the fief. Otto of Freising says: "It is customary when a kingdom is
@@ -18,7 +18,7 @@ delivered over to any one that a sword be given to represent it, and
 when a province is transferred a standard is given." As feudal customs
 grew more stereotyped, the sword and sceptre, emblematic respectively of
 service and military command and of judicial prerogatives, became the
-usual emblems of investiture of laymen. The word investiture (from
+usual [[Emblem|emblems]] of investiture of [[Laymen|laymen]]. The word investiture (from
 _vestire_, to put in possession) is later than the 9th century; the
 thing itself was an outcome of feudal society.
 
@@ -35,15 +35,15 @@ were bishop-dukes, bishop-counts, &c., themselves vassals of other
 lords, and especially of the king, from whom they received the
 investiture of their temporalities. Many of the faithful founded abbeys
 and churches on condition that the right of patronage, that is the
-choice of beneficiaries, should be reserved to them and their heirs.
-Thus in various ways ecclesiastical benefices were gradually transformed
+choice of beneficiaries, should be reserved to them and their [[Heir|heirs]].
+Thus in various ways ecclesiastical [[Benefice|benefices]] were gradually transformed
 into fiefs, and lay suzerains claimed the same rights over ecclesiastics
 as over other vassals from whom they received homage, and whom they
 invested with lands. This ecclesiastical investiture by lay princes
 dates at least from the time of Charlemagne. It did not seem fitting at
 first to confer ecclesiastical investiture by such military and worldly
 emblems as the sword and sceptre, nor to exact an oath of fealty. The
-emperor Henry I. invested bishops with a glove; Otto II. presented the
+emperor Henry I. invested bishops with a [[Glove|glove]]; Otto II. presented the
 pastoral staff; Conrad II., according to Wipo, went farther and required
 from the archbishop of Milan an oath of fealty. By the time of Henry
 III. investiture with ring and crozier had become the general practice:
@@ -53,7 +53,7 @@ Investiture of ecclesiastics by laymen had certain serious effects which
 were bound to bring on a conflict between the temporal and spiritual
 authorities. In the first place the lay authorities often rendered
 elections uncanonical by interfering in behalf of some favourite,
-thereby impairing the freedom of the electors. Again, benefices were
+thereby impairing the freedom of the [[Electors|electors]]. Again, benefices were
 kept vacant for long periods in order to ensure to the lord as long as
 possible the exercise of his regalian rights. And, finally, control by
 temporal princes of investiture, and indirectly of election, greatly
@@ -72,7 +72,7 @@ investiture was further complicated by the considerable practice of
 concubinage. There was always the tendency for clerics in such cases to
 invest their sons with the temporalities of the Church; and the synod
 convened by Benedict VIII. at Pavia in 1018 (or 1022 according to some
-authorities) was mainly concerned with the issue of decrees against
+authorities) was mainly concerned with the issue of [[Decree|decrees]] against
 clerics who lived with wives or concubines and bestowed Church goods on
 their children. In time the Church came to perceive how closely lay
 investiture was bound up with simony. The sixth decree of the Lateran
@@ -80,7 +80,7 @@ synod of 1059 forbade any cleric to accept Church office from a layman.
 In the following year this decree was reaffirmed by synods held at
 Vienne and Toulouse under the presidency of a legate of Nicholas II. The
 main investiture struggle with the empire did not take place, however,
-until Hildebrand became Pope Gregory VII. To Gregory it was intolerable
+until [[Hildebrand]] became Pope Gregory VII. To Gregory it was intolerable
 that a layman, whether emperor, king or baron, should invest a churchman
 with the emblems of spiritual office; ecclesiastical investiture should
 come only from ecclesiastics. To the emperor Henry IV. it was highly
@@ -99,12 +99,12 @@ appear at Rome in order to justify his private misconduct, and Henry
 replied by causing the partisan synod of Worms (1076) to pronounce
 Gregory's deposition. The pope excommunicated the emperor and stirred up
 civil war against him in Saxony with such success that he brought about
-Henry's bitter humiliation at Canossa in the following year. The papal
+Henry's bitter humiliation at [[Canossa]] in the following year. The papal
 prohibition of lay investiture was renewed at synods in 1078 and 1080,
 and although Gregory's death in exile (1085) prevented him from
 realizing his aim in the matter, his policy was steadfastly maintained
 by his successors. Victor III. condemned lay investiture at the synod of
-Benevento in 1087, and Urban II. at that of Melfi in 1089. At the
+[[Benevento]] in 1087, and Urban II. at that of Melfi in 1089. At the
 celebrated council of Clermont (1095), at which the first crusade was
 preached, Urban strengthened the former prohibitions by declaring that
 no one might accept any spiritual office from a layman, or take an oath
@@ -117,18 +117,18 @@ to surrender all the temporalities that had been bestowed on the clergy
 since the days of Charlemagne in return for freedom of election and the
 abolition of lay investiture. Henry, having agreed to the proposal,
 entered Rome to receive his crown. The bishops and clergy who were
-present at the coronation protested against this surrender, and a tumult
+present at the [[Coronation|coronation]] protested against this surrender, and a tumult
 arising, the ceremony had to be abandoned. The king then seized pope and
 curia and left the city. After two months of close confinement Paschal
 consented to an unqualified renunciation on his part of the right of
 investiture. In the following year, however, a Lateran council
 repudiated this compact as due to violence, and a synod held at Vienne
 with papal approval declared lay investiture to be heresy and placed
-Henry under the ban. The struggle was complicated throughout its course
+Henry under the [[Ban|ban]]. The struggle was complicated throughout its course
 by political and other considerations; there were repeated rebellions of
-German nobles, constant strife between rival imperial and papal factions
+German nobles, constant strife between rival imperial and papal [[Faction|factions]]
 in the Lombard cities and at Rome, and creation of several anti-popes,
-of whom Guibert of Ravenna (Clement III.) and Gregory VIII. were the
+of whom Guibert of Ravenna ([[Clement]] III.) and Gregory VIII. were the
 most important. Final settlement of the struggle was retarded, moreover,
 by the question of the succession to the lands of the great Countess
 Matilda, who had bequeathed all her property to the Holy See, Henry
@@ -139,15 +139,15 @@ general council were rendered fruitless by his death (1119).
 At length in 1122 the struggle was brought to an end by the concordat of
 Worms, the provisions of which were incorporated in the eighth and ninth
 canons of the general Lateran council of 1123. The settlement was a
-compromise. The emperor, on the one hand, preserved feudal suzerainty
+[[Compromise|compromise]]. The emperor, on the one hand, preserved feudal suzerainty
 over ecclesiastical benefices; but, on the other, he ceased to confer
 ring and crozier, and thereby not only lost the right of refusing the
 elect on the grounds of unworthiness, but also was deprived of an
 efficacious means of maintaining vacancies in ecclesiastical offices.
-Few efforts were made to undo the compromise. King Lothair the Saxon
-demanded of Innocent II. the renewal of lay investiture as reward for
+Few efforts were made to undo the compromise. King [[Lothair]] the Saxon
+demanded of [[Innocent]] II. the renewal of lay investiture as reward for
 driving the antipope Anacletus from Rome, but the opposition of St
-Bernard and the German prelates was so potent that the king dropped his
+[[Bernard]] and the German prelates was so potent that the king dropped his
 demand, and Innocent in 1133 confirmed the concordat. In fact, the
 imperial control over the election of bishops in Germany came later to
 be much curtailed in practice, partly by the tacitly changed relations
@@ -183,7 +183,7 @@ conflict between papacy and empire; and it ended in a compromise which
 closely foreshadowed the provisions of the concordat of Worms and
 received the confirmation of Paschal II. in 1106. Freedom of election,
 somewhat similar in form to that which still exists, was formally
-conceded under Stephen, and confirmed by John in Magna Carta.
+conceded under Stephen, and confirmed by John in [[Magna Carta]].
 
   Many documents relating to the investiture struggle have been edited
   by E. Dummler in _Monumenta Germaniae historica, Libelli de lite
@@ -195,16 +195,16 @@ conceded under Stephen, and confirmed by John in Magna Carta.
   Konkordat_ (Breslau, 1906); R. Boerger, _Die Belehnungen der deutschen
   geistlichen Fursten_ (Leipzig, 1901); K. E. Benz, _Die Stellung der
   Bischofe von Meissen, Merseburg und Naumburg im Investiturstreite
-  unter Heinrich IV. und Heinrich V._ (Dresden, 1899); W. Martens,
+  unter Heinrich IV. und Heinrich V._ ([[Dresden]], 1899); W. [[Martens]],
   _Gregor VII., sein Leben und Wirken_ (2 vols., Leipzig, 1894); P.
   Fisher, _The Medieval Empire_, c. 10 (London, 1898). For France, see
-  P. Imbart de la Tour, _Les Elections episcopales dans l'eglise de
+  P. Imbart de [[La Tour|la Tour]], _Les Elections episcopales dans l'eglise de
   France du XI^e au XII^e siecle_ (Paris, 1891); A. Luchaire,
   _Histoire des institutions monarchiques de la France sous les premiers
   Capetiens 987-1180_ (2nd ed., Paris, 1891); P. Viollet, _Histoire des
   institutions politiques et administratives de la France_ (Paris,
   1898); Ibach, _Der Kampf zwischen Papsttum und Konigtum von Gregor
-  VII. bis Calixto II._ (Frankfort, 1884). For England, see J. F.
+  VII. bis Calixto II._ ([[Frankfort]], 1884). For England, see J. F.
   Bohmer, _Kirche und Staat in England und in der Normandie in XI. und
   XII. Jahrhundert_ (Leipzig, 1899); E. A. Freeman, _The Reign of
   William II. Rufus and the Accession of Henry I._ (London, 1882); H. W.

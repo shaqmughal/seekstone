@@ -3,7 +3,7 @@
 GUINEA-WORM (_Dracontiasis_), a disease due to the _Filaria medinensis_,
 or _Dracunculus_, or Guinea-worm, a filarious nematode like a
 horse-hair, whose most frequent habitat is the subcutaneous and
-intramuscular tissues of the legs and feet. It is common on the Guinea
+intramuscular tissues of the [[Leg|legs]] and feet. It is common on the Guinea
 coast, and in many other tropical and subtropical regions and has been
 familiarly known since ancient times. The condition of dracontiasis due
 to it is a very common one, and sometimes amounts to an epidemic. The

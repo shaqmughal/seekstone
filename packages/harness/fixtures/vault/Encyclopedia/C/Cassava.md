@@ -42,7 +42,7 @@ nat. size.
   1, An inflorescence showing at a a fruit which will presently separate
   into five one-seeded parts, about ½ nat. size.
 
-  2, Pistil of female flower.
+  2, Pistil of female [[Flower|flower]].
 
   3, Stamens and fleshy disc of male flower.
 

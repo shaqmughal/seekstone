@@ -6,7 +6,7 @@ grand-daughter of the great Hetman Zolkiewski. After being educated at
 Cracow, he made the grand tour with his brother Mark and returned to
 Poland in 1648. He served against Chmielnicki and the Cossacks and was
 present at the battles of Beresteczko (1651) and Batoka (1652), but was
-one of the first to desert his unhappy country when invaded by the
+one of the first to [[Desert|desert]] his unhappy country when invaded by the
 Swedes in 1654, and actually assisted them to conquer the Prussian
 provinces in 1655. He returned to his lawful allegiance in the
 following year and assisted Czarniecki in his difficult task of
@@ -34,8 +34,8 @@ elector of Brandenburg against their own justly indignant countrymen.
 Two years later the same traitors again conspired against the king, at
 the very time when the Turks had defeated Sobieski's unsupported
 lieutenant, Luzecki, at Czertwertyworska and captured the fortress of
-Kamieniec (Kamenetz-Podolskiy), the key of south-eastern Poland, while
-Lemberg was only saved by the valour of Elias Lancki. The unhappy king
+Kamieniec (Kamenetz-Podolskiy), the [[Key|key]] of south-eastern Poland, while
+[[Lemberg]] was only saved by the valour of Elias Lancki. The unhappy king
 did the only thing possible in the circumstances. He summoned the
 _tuszenia pospolite_, or national armed assembly; but it failed to
 assemble in time, whereupon Michael was constrained to sign the
@@ -48,7 +48,7 @@ _tuszenia pospolite_ met at Golenba and ordered an inquiry into the
 conduct of Sobieski and his accomplices he frustrated all their efforts
 by summoning a counter confederation to meet at Szczebrzeszyn. Powerless
 to oppose a rebel who was at the same time commander-in-chief, both the
-king and the diet had to give way, and a compromise was come to whereby
+king and the diet had to give way, and a [[Compromise|compromise]] was come to whereby
 the peace of Buczacz was repudiated and Sobieski was given a chance of
 rehabilitating himself, which he did by his brilliant victory over an
 immense Turkish host at Khotin (Nov. 10, 1673). The same day King
@@ -59,15 +59,15 @@ elective diet of 1674 at the head of 6000 veterans he overawed every
 other competitor, and despite the persistent opposition of the
 Lithuanians was elected king on the 21st of May. By this time, however,
 the state of things in the Ukraine was so alarming that the new king had
-to hasten to the front. Assisted by French diplomacy at the Porte (Louis
+to hasten to the front. Assisted by French [[Diplomacy|diplomacy]] at the Porte (Louis
 XIV. desiring to employ Poland against Austria), and his own skilful
-negotiations with the Tatar khan, John III. now tried to follow the
+negotiations with the Tatar [[Khan|khan]], John III. now tried to follow the
 example of Wladislaus IV. by leaving the guardianship of the Ukraine
 entirely in the hands of the Cossacks, while he assembled as many
 regulars and militiamen as possible at Lemberg, whence he might hasten
 with adequate forces to defend whichever of the provinces of the
 Republic might be in most danger. But the appeal of the king was like
-the voice of one crying in the wilderness, and not one gentleman in a
+the voice of one crying in the wilderness, and not one [[Gentleman|gentleman]] in a
 hundred hastened to the assistance of the fatherland. Even at the end of
 August Sobieski had but 3000 men at his disposal to oppose to 60,000
 Turks. Only his superb strategy and the heroic devotion of his
@@ -88,17 +88,17 @@ breaking point, though the final rupture did not come till 1682 on the
 arrival of the Austrian minister, Zerowski, at Warsaw. After resisting
 every attempt of the French court to draw him into the anti-Habsburg
 league, Sobieski signed the famous treaty of alliance with the emperor
-Leopold against the Turks (March 31, 1683), which was the prelude to the
+[[Leopold]] against the Turks (March 31, 1683), which was the prelude to the
 most glorious episode of his life, the relief of Vienna and the
 liberation of Hungary from the Ottoman yoke. The epoch-making victory of
 the 12th of September 1683 was ultimately decided by the charge of the
-Polish cavalry led by Sobieski in person. Unfortunately Poland profited
+Polish [[Cavalry|cavalry]] led by Sobieski in person. Unfortunately Poland profited
 little or nothing by this great triumph, and now that she had broken the
 back of the enemy she was left to fight the common enemy in the Ukraine
 with whatever assistance she could obtain from the unwilling and unready
 Muscovites. The last twelve years of the reign of John III. were a
 period of unmitigated humiliation and disaster. He now reaped to the
-full the harvest of treason and rebellion which he himself had sown so
+full the [[Harvest|harvest]] of treason and rebellion which he himself had sown so
 abundantly during the first forty years of his life. A treasonable
 senate secretly plotting his dethronement, a mutinous diet rejecting the
 most necessary reforms for fear of "absolutism," ungrateful allies who
@@ -113,7 +113,7 @@ disillusioned and broken-hearted old man.
 
   See Tadeusz Korzon, _Fortunes and Misfortunes of John Sobieski_ (Pol.)
   (Cracow, 1898); E. H. R. Tatham, _John Sobieski_ (Oxford, 1881);
-  Kazimierz Waliszewski, _Archives of French Foreign Affairs_,
+  Kazimierz Waliszewski, _[[Archive|Archives]] of French Foreign Affairs_,
   1674-1696, v. (Cracow, 1881); Ludwik Piotr Leliwa, _John Sobieski and
   His Times_ (Pol.) (Cracow, 1882-1885); Kazimierz Waliszewski,
   _Marysienka Queen of Poland_ (London, 1898); Georg Rieder, _Johann

@@ -11,7 +11,7 @@ usually from loosely spun yarn. The origin of the word is uncertain, but
 in the 16th century flannel was a well-known production of Wales, and a
 Welsh origin has been suggested. The French form _flanelle_ was used
 late in the 17th century, and the Ger. _Flanell_ early in the 18th
-century. Baize, a kind of coarse flannel with a long nap, is said to
+century. [[Baize]], a kind of coarse flannel with a long nap, is said to
 have been first introduced to England about the middle of the 16th
 century by refugees from France and the Netherlands. The manufacture of
 flannel has naturally undergone changes, and, in some cases,
@@ -28,7 +28,7 @@ English wools are not commonly used alone. Over 2000 persons are
 employed in flannel manufacture in Rochdale alone, which is the historic
 seat of the industry, and a good deal of flannel is now made in the Spen
 Valley district, Yorkshire. Blankets, which constitute a special branch
-of the flannel trade, are largely made at Bury in Lancashire and
+of the flannel trade, are largely made at [[Bury]] in Lancashire and
 Dewsbury in Yorkshire. Welsh flannels have a high reputation, and make
 an important industry in Montgomeryshire. There are also flannel
 manufactories in Ireland.
@@ -46,7 +46,7 @@ Many so-called flannels have been made with a large admixture of cotton,
 but the Merchandise Marks Act has done something to limit the
 indiscriminate use of names. Unquestionably the development of the
 flannel trade has been checked by the great increase in the production
-of flannelettes, the better qualities of which have become formidable
+of [[Flannelette|flannelettes]], the better qualities of which have become formidable
 competitors with flannel. There must, however, be a regular and large
 demand for flannel while theory and experience confirm its value as a
 clothing particularly suitable for immediate contact with the body.

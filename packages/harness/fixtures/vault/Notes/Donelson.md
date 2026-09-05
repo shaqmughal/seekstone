@@ -1,15 +1,15 @@
 # Donelson
 
-DONELSON, FORT, an entrenched camp at Dover, Tennessee, U.S.A., erected
-by the Confederates in the Civil War to guard the lower Cumberland
+DONELSON, FORT, an entrenched camp at [[Dover]], Tennessee, U.S.A., erected
+by the Confederates in the Civil War to guard the lower [[Cumberland]]
 river, and taken by the Federals on the 16th of February 1862. It
 consisted of two continuous lines of entrenchments on the land side, and
 water batteries commanding the river. After the capture (Feb. 6) of Fort
 Henry on the lower Tennessee the Union army (three divisions) under
 Brigadier-General U. S. Grant marched overland to invest Donelson, and
-the gunboat flotilla (Commodore A. H. Foote) descended the Tennessee and
+the gunboat flotilla (Commodore A. H. [[Foote]]) descended the Tennessee and
 ascended the Cumberland to meet him. Albert Sidney Johnston, the
-Confederate commander in Kentucky, had thrown a large garrison under
+Confederate [[Commander|commander]] in [[Kentucky]], had thrown a large [[Garrison|garrison]] under
 General Floyd into Donelson, and Grant was at first outnumbered; though
 continually reinforced, the latter had at no time more than three men to
 the Confederates' two. The troops of both sides were untrained but
@@ -32,7 +32,7 @@ Lew Wallace's division, these two generals reoccupied the lost position
 on the Nashville road. On the 16th, the two senior Confederate generals
 Floyd and Pillow having escaped by steamer, the infantry left in the
 fort under General S. B. Buckner surrendered unconditionally. The
-Confederate cavalry under Colonel Forrest made its escape by road. The
+Confederate [[Cavalry|cavalry]] under Colonel [[Forrest]] made its escape by road. The
 prisoners numbered about 15,000 out of an original total of 18,000.
 
 ## See also

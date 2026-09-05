@@ -21,7 +21,7 @@ the single genus _Rhynchops_, the skimmers; but there seems no strong
 reason why the former should not be referred to the _Larinae_ and the
 latter to the _Sterninae_.
 
-Taking the gulls in their restricted sense, Howard Saunders, who has
+Taking the gulls in their restricted sense, [[Howard]] Saunders, who has
 subjected the group to a rigorous revision (_Proc. Zool. Society_, 1878,
 pp. 155-211), admits forty-nine species of them, which he places in five
 genera instead of the many which some prior investigators had sought to
@@ -33,15 +33,15 @@ its plumage, to which its jet-black legs offer a strong contrast. The
 young, however, are spotted with black. An inhabitant of the most
 northern seas, examples, most commonly young birds of the year, find
 their way in winter to more temperate shores. Its breeding-place has
-seldom been discovered, and the first of its eggs ever seen by
+seldom been discovered, and the first of its [[Egg|eggs]] ever seen by
 ornithologists was brought home by Sir L. M'Clintock in 1853 from Cape
 Krabbe (_Journ. R. Dubl. Society_, i. 60, pl. 1); others were
 subsequently obtained by Dr Malmgren in Spitsbergen. Of the species of
 _Rissa_, one is the abundant and well-known kittiwake, _R. tridactyla_,
 of circumpolar range, breeding, however, also in comparatively low
-latitudes, as on the coasts of Britain, and in winter frequenting
+[[Latitude|latitudes]], as on the coasts of Britain, and in winter frequenting
 southern waters. The other is _R. brevirostris_, limited to the North
-Pacific, between Alaska and Kamchatka. The singular fact requires to be
+Pacific, between Alaska and [[Kamchatka]]. The singular fact requires to be
 noticed that in both these species the hind toe is generally deficient,
 but that examples of each are occasionally found in which this
 functionless member has not wholly disappeared. We have then the genus
@@ -51,7 +51,7 @@ some species the adults assume a dark-coloured head every
 breeding-season, in others any trace of dark colour is the mark of
 immaturity. The larger species prey fiercely on other kinds of birds,
 while the smaller content themselves with a diet of small animals, often
-insects and worms. But however diverse be the appearance, structure or
+[[Insect|insects]] and worms. But however diverse be the appearance, structure or
 habits of the extremities of the series of species, they are so closely
 connected by intermediate forms that it is hard to find a gap between
 them that would justify a generic division. Forty-three species of this
@@ -77,7 +77,7 @@ carefully protected. Ross's or the roseate gull, _Rhodostethia rosea_,
 forms a well-marked genus, distinguished not so much by the pink tint of
 its plumage (for that is found in other species) but by its small
 dove-like bill and wedge-shaped tail. It is an exceedingly scarce bird,
-and beyond its having an Arctic habitat, little has yet been ascertained
+and beyond its having an [[Arctic]] habitat, little has yet been ascertained
 about it. More rare still is one of the species of _Xema_, _X.
 furcatum_, of which only two specimens, both believed to have come from
 the Galapagos, have been seen. Its smaller congener Sabine's gull, _X.

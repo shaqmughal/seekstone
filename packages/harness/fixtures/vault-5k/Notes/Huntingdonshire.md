@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Huntingdon
 
 # Huntingdonshire
 
-HUNTINGDONSHIRE (HUNTS), an east midland county of England, bounded N.
+HUNTINGDONSHIRE ([[Hunt|HUNTS]]), an east midland county of England, bounded N.
 and W. by Northamptonshire, S.W. by Bedfordshire and E. by
-Cambridgeshire. Among English counties it is the smallest with the
+[[Cambridgeshire]]. Among English counties it is the smallest with the
 exception of Middlesex and Rutland, having an area of 366 sq. m. The
 surface is low, and for the most part bare of trees. The south-eastern
 corner of the county, bounded by the Ouse valley, is traversed by a low
@@ -19,7 +19,7 @@ whole western half of the county, as well as in a strip about 6 m. broad
 north of the Ouse, between Huntingdon and St Ives. These hills never
 exceed 300 ft. in height, but form a pleasantly undulating surface. The
 north-eastern part of the county, comprising 50,000 acres, belongs to
-that division of the great Fen district called the Bedford Levels. The
+that division of the great Fen district called the [[Bedford]] Levels. The
 principal rivers are the Ouse and Nene. The Ouse from Bedfordshire
 skirts the borders of the county near St Neots, and after flowing north
 to Huntingdon takes an easterly direction past St Ives into
@@ -35,16 +35,16 @@ Vermuyden's Drain, a navigable cut connecting it with the Old Bedford
 river in Cambridgeshire.
 
   _Geology._--The geological structure is very simple. All the
-  stratified rocks are of Jurassic age, with the exception of a small
+  stratified rocks are of [[Jurassic]] age, with the exception of a small
   area of Lower Greensand which extends for a short distance along the
   border, north of Potton. The Greensands form low, rounded hills.
   Phosphatic nodules are obtained from these beds. On the north-western
   border is a narrow strip of Inferior Oolite, reaching from Thrapston
   by Oundle to Wansford near Peterborough. It is represented about
   Wansford by the Northampton sands and by a feeble development of the
-  Lincolnshire limestone. The Great Oolite Series has at the base the
+  Lincolnshire [[Limestone|limestone]]. The Great Oolite Series has at the base the
   Upper Estuarine clays; in the middle, the Great Oolite limestone,
-  which forms the escarpment of Alwalton Lynch; and at the top, the
+  which forms the escarpment of Alwalton [[Lynch]]; and at the top, the
   Great Oolite clay. The Cornbrash is exposed along part of the Billing
   brook, and in a small inlier near Yaxley. Over the remainder of the
   county the lower rocks are covered by the Oxford clay. It is about 600
@@ -54,7 +54,7 @@ river in Cambridgeshire.
   patch of the intermediate Corallian rock is present. All the
   stratified rocks have a general dip towards the south-east.
 
-  Much glacial drift clay with stones covers the older rocks over a good
+  Much glacial [[Drift|drift]] clay with stones covers the older rocks over a good
   deal of the county; it is a bluish clay, often containing masses of
   chalk, some of them being of considerable size, e.g. the one at
   Catworth. The Fens on the eastern side of the county are underlain by
@@ -79,7 +79,7 @@ by the overflow of the river, and its meadows form very rich pasture
 grounds. The upland district is under arable culture. Wheat is much more
 extensively grown than any other grain. Barley is more widely cultivated
 than oats, but its quality on many soils is lean and inferior, and
-unsuitable for malting purposes. Beans and pease are largely grown,
+unsuitable for malting purposes. [[Bean|Beans]] and pease are largely grown,
 while mangold and cabbage and similar green crops are chiefly used for
 the feeding of sheep. During the last quarter of the 19th century there
 was a large decrease in the areas of grain crops and of fallow, and an
@@ -92,7 +92,7 @@ Weston near St Neots, at Holywell near St Ives and at Somersham in the
 same district. Bee-farming is largely practised. Dairy-farming is not
 much followed, the milk being chiefly used for rearing calves. The
 village of Stilton, on the Great North Road, had formerly a large market
-for the well-known cheese to which it has given its name. Large numbers
+for the well-known [[Cheese|cheese]] to which it has given its name. Large numbers
 of cattle are fattened in the field or the fold-yard, and are sold when
 rising three years old. They are mostly of the shorthorn breed, large
 numbers of Irish shorthorns being wintered in the fens. Leicesters and
@@ -106,7 +106,7 @@ that of paper and parchment. Madder is obtained in considerable
 quantities, and in nearly every part of the county lime burning is
 carried on. Lace-making is practised by the female peasantry; and the
 other industries are printing, iron-founding, tanning and currying,
-brick and tile making, malting and brewing.
+[[Brick|brick]] and tile making, malting and brewing.
 
 _Communications._--The middle of the county is traversed from south to
 north by the Great Northern railway, which enters it at St Neots and
@@ -115,7 +115,7 @@ eastward to Ramsey is given off at Holme junction, midway between
 Huntingdon and Peterborough. From Huntingdon branch lines of the Midland
 and the Great Eastern run respectively west and east to Thrapston
 (Northamptonshire) and to Cambridge via St Ives. From St Ives Great
-Eastern lines also run N.E. to Ely (Cambridgeshire) via Earith Bridges
+Eastern lines also run N.E. to [[Ely]] (Cambridgeshire) via Earith Bridges
 on the county border, and N. to Wisbech (Cambridgeshire) with a branch
 line westward from Somersham to Ramsey. The north-western border is
 served by the Great Northern and the London and North-Western railways
@@ -127,7 +127,7 @@ _Population and Administration._--The area of the ancient county is
 county contains 4 hundreds. The municipal boroughs are Godmanchester
 (pop. 2017), Huntingdon, the county town (4261) and St Ives (2910). The
 other urban districts are Old Fletton (4585), Ramsey (4823) and St Neots
-(3880). The county is in the south-eastern circuit, and assizes are held
+(3880). The county is in the south-eastern circuit, and [[Assize|assizes]] are held
 at Huntingdon. It has one court of quarter sessions, and is divided into
 five petty sessional divisions. There are 105 civil parishes.
 Huntingdonshire, which contains 87 ecclesiastical parishes or districts
@@ -139,7 +139,7 @@ falls within the county.
 
 _History._--The earliest English settlers in the district were the
 Gyrwas, an East Anglian tribe, who early in the 6th century worked their
-way up the Ouse and the Cam as far as Huntingdon. After their conquest
+way up the Ouse and the [[Cam]] as far as Huntingdon. After their conquest
 of East Anglia in the latter half of the 9th century, Huntingdon became
 an important seat of the Danes, and the Danish origin of the shire is
 borne out by an entry in the Saxon Chronicle (918-921) referring to
@@ -162,8 +162,8 @@ outlying portion of the earldom of Northumberland, passing through
 Waltheof and Simon de St Liz to David of Scotland. After the separation
 of the earldom from the crown of Scotland during the Bruce and Balliol
 disputes, it was conferred in 1336 on William Clinton; in 1377 on
-Guichard d'Angle; in 1387 on John Holand; in 1471 on Thomas Grey,
-afterwards marquess of Dorset; and in 1529 on George, Baron Hastings,
+[[Guichard]] d'Angle; in 1387 on John Holand; in 1471 on Thomas Grey,
+afterwards marquess of Dorset; and in 1529 on George, Baron [[Hastings]],
 whose descendants hold it at the present day.
 
 The Norman Conquest was followed by a general confiscation of estates,
@@ -207,7 +207,7 @@ against the arrest of the five members. In 1642 it was one of the seven
 associated counties in which the king had no visible party.
 Hinchingbrook, however, was held for Charles by Sir Sydney Montagu, and
 in 1645 Huntingdon was captured and plundered by the Royalist forces.
-The chief historic family connected with this county were the Cromwells,
+The chief historic family connected with this county were the [[Cromwell|Cromwells]],
 who held considerable estates in the 16th century.
 
 Huntingdonshire has always been mainly an agricultural county, and at
@@ -237,14 +237,14 @@ Huntingdon and Stonely, both belonging to the Augustinian canons, and at
 St Ives and St Neots belonging to the Benedictines, together with a
 Benedictine nunnery at Hinchingbrook, near Huntingdon. Of these
 buildings almost the only remains are at Ramsey and St Ives. The most
-interesting churches for Norman architecture are Hartford near
+interesting churches for Norman architecture are [[Hartford]] near
 Huntingdon, Old Fletton near Peterborough (containing on the exterior
 some carved ornament said to have belonged to the original Saxon
 cathedral at Peterborough), Ramsey and Alwalton, a singular combination
 of Norman and Early English. Early English churches are Kimbolton,
 Alconbury, Warboys and Somersham, near Ramsey, and Hail Weston near St
 Neots, with a 15th-century wooden tower and spire. Decorated are Orton
-Longueville and Yaxley, both near Peterborough, the latter containing
+[[Longueville]] and Yaxley, both near Peterborough, the latter containing
 remains of frescoes on its walls; Perpendicular, St Neots, Connington
 near Ramsey and Godmanchester. At Buckden near Huntingdon are remains of
 a palace (15th century) of the bishops of Lincoln. There were two
@@ -263,7 +263,7 @@ old and rare prayer-books, Bibles and missals.
   the site of the place of confinement of several thousand French
   soldiers during the Napoleonic wars at the beginning of the 19th
   century. The village of Little Gidding, 9 m. N.W. of Huntingdon, is
-  memorable for its connexion with Nicholas Ferrar in the reign of
+  memorable for its connexion with Nicholas [[Ferrar]] in the reign of
   Charles I., when the religious community of which Ferrar was the head
   was organized. Relics connected with this community are preserved in
   the British Museum.

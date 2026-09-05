@@ -7,17 +7,17 @@ type: article
 
 # Gildersleeve
 
-GILDERSLEEVE, BASIL LANNEAU (1831-   ), American classical scholar, was
-born in Charleston, South Carolina, on the 23rd of October 1831, son of
-Benjamin Gildersleeve (1791-1875), a Presbyterian evangelist, and editor
+GILDERSLEEVE, [[Basil|BASIL]] LANNEAU (1831-   ), American classical scholar, was
+born in [[Charleston]], South Carolina, on the 23rd of October 1831, son of
+[[Benjamin]] Gildersleeve (1791-1875), a Presbyterian evangelist, and editor
 of the Charleston _Christian Observer_ in 1826-1845, of the Richmond
 (Va.) _Watchman and Observer_ in 1845-1856, and of _The Central
 Presbyterian_ in 1856-1860. The son graduated at Princeton in 1849,
-studied under Franz in Berlin, under Friedrich Ritschl at Bonn and under
+studied under [[Franz]] in Berlin, under [[Friedrich]] Ritschl at [[Bonn]] and under
 Schneidewin at Gottingen, where he received his doctor's degree in 1853.
 From 1856 to 1876 he was professor of Greek in the University of
 Virginia, holding the chair of Latin also in 1861-1866; and in 1876 he
-became professor of Greek in the newly founded Johns Hopkins University.
+became professor of Greek in the newly founded Johns [[Hopkins]] University.
 In 1880 _The American Journal of Philology_, a quarterly published by
 the Johns Hopkins University, was established under his editorial
 charge, and his strong personality was expressed in the department of
@@ -26,7 +26,7 @@ earliest years of its publication every petty detail was in his hands.
 His style in it, as elsewhere, is in striking contrast to that of the
 typical classical scholar, and accords with his conviction that the true
 aim of scholarship is "that which is." He published a _Latin Grammar_
-(1867; revised with the co-operation of Gonzalez B. Lodge, 1894 and
+(1867; revised with the [[Co-Operation|co-operation]] of Gonzalez B. [[Lodge]], 1894 and
 1899) and a Latin Series for use in secondary schools (1875), both
 marked by lucidity of order and mastery of grammatical theory and
 methods. His edition of _Persius_ (1875) is of great value. But his bent

@@ -30,7 +30,7 @@ Marsupials may be defined as viviparous (that is non-egg-laying)
 mammals, in which the young are born in an imperfect condition, and
 almost immediately attached to the teats of the mammary glands; the
 latter being generally enclosed in a pouch, and the front edge of the
-pelvis being always furnished with epipubic or "marsupial" bones. As a
+pelvis being always furnished with epipubic or "marsupial" [[Bone|bones]]. As a
 rule there is no allantoic placenta forming the means of communication
 between the blood of the parent and the foetus, and when such a
 structure does occur its development is incomplete. In all cases a more
@@ -53,11 +53,11 @@ mouths at intervals by means of a special muscle which compresses the
 glands. In the case of the great grey kangaroo, for instance, the period
 of gestation is less than forty days, and the newly-born embryo, which
 is blind, naked, and unable to use its bud-like limbs, is little more
-than an inch in length.
+than an [[Inch|inch]] in length.
 
   As additional features of the sub-class may be mentioned the absence
   of a corpus callosum connecting the right and left hemispheres of the
-  brain,[1] and of a fossa in the septum between the two auricles of the
+  brain,[1] and of a fossa in the septum between the two [[Auricle|auricles]] of the
   heart. In the skull there are always vacuities, or unossified spaces
   in the bones of the palate, while the "angle," or lower hind extremity
   of each half of the lower jaw is strongly bent inwards so as to form a
@@ -82,7 +82,7 @@ than an inch in length.
   attained its full stature, and is not shed and replaced by its
   successor until after all the other teeth, including the molars, are
   in place and use. In others, as the thylacine, it is rudimentary,
-  being shed or absorbed before any of the other teeth have cut the gum,
+  being shed or absorbed before any of the other teeth have cut the [[Gum|gum]],
   and therefore functionless. It may be added that there are some
   marsupials, such as the wombat, koala, marsupial ant-eater and the
   dasyures, in which no such deciduous tooth, even in a rudimentary
@@ -129,7 +129,7 @@ of this family have also been found in Europe in strata of the Oligocene
 period.
 
 _History._--The origin and evolution of the Australian marsupials have
-been discussed by Mr B. A. Bensley. In broad contrast to the views of Dr
+been discussed by Mr B. A. [[Bensley]]. In broad contrast to the views of Dr
 A. R. Wallace, this author is of opinion that marsupials did not effect
 an entrance into Australia till about the middle of the Tertiary period,
 their ancestors being probably opossums of the American type. They were
@@ -169,13 +169,13 @@ mammals.
 Another view is to regard both marsupials and placentals as derivates
 from implacental ancestors more or less nearly related to the creodont
 carnivora, or possibly as independently descended from anomodont
-reptiles (see CREODONTA). Finally, there is the hypothesis that
+reptiles (see CREODONTA). Finally, there is the [[Hypothesis|hypothesis]] that
 marsupials are the descendants of placentals, in which case, as was
 suggested by its discoverer, the placenta of the bandicoots would be a
 true vestigial structure.
 
 
-_Classification._
+_[[Classification]]._
 
 Existing marsupials may be divided into three main divisions or
 sub-orders, of which the first, or Polyprotodontia, is common to America
@@ -187,7 +187,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   numerous, small, sub-equal incisors, of which there are either five or
   four pairs in the upper and always three in the lower jaw, (fig. 2)
   and the generally strong and large canines, as well as by the presence
-  of from four to five sharp cusps or tubercles on the crown of the
+  of from four to five sharp [[Cusp|cusps]] or tubercles on the crown of the
   molars. The pouch is often absent, and may open backwards. For the
   most part the species are carnivorous or insectivorous.
 
@@ -230,7 +230,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   simple form, the cusps being less distinct and not so sharply pointed.
   Deciduous molar very small, and shed before the animal leaves the
   mother's pouch. General form dog-like, with the head elongated, the
-  muzzle pointed, and the ears moderate, erect and triangular. Fur short
+  muzzle pointed, and the [[Ear|ears]] moderate, erect and triangular. [[Fur]] short
   and closely applied to the skin. Tail of moderate length, thick at the
   base and tapering towards the apex, clothed with short hair. First
   hind toe (including the metacarpal bone) absent. Vertebrae: C. 7, D.
@@ -302,7 +302,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   distinct sub-family, the _Myrmecobiinae_, as distinct from the
   _Dasyurinae_, which includes all the other members of the family. From
   the number of its cheek-teeth, the banded ant-eater has been regarded
-  as related to some of the primitive Jurassic mammals; but this view is
+  as related to some of the primitive [[Jurassic]] mammals; but this view is
   disputed by Mr Bensley, who regards this multiplicity of teeth as a
   degenerate feature. On the other hand, it is noteworthy that this
   marsupial retains in its lower jaw the so-called mylo-hyoid groove,
@@ -375,7 +375,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   castanotis_.
 
   c, calcanium; a, astralagus; cb, cuboid; n. navicular; c³,
-  ectocuneiform; II. and III. the conjoined second and third digits; IV.
+  ectocuneiform; II. and III. the conjoined second and third [[Digit|digits]]; IV.
   the large and only functional digit; V. the rudimentary fifth digit.]
 
   The rabbit-bandicoot, _Peragale_ (or _Thylacomys_) represents a genus
@@ -418,7 +418,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   in the interior of Australia. Its general habits and food appear to
   resemble those of other bandicoots. A separate family, _Notoryctidae_,
   is represented by the marsupial mole (_Notoryctes typhlops_), of the
-  deserts of south Central Australia, a silky, golden-haired, burrowing
+  [[Desert|deserts]] of south Central Australia, a silky, golden-haired, burrowing
   creature, with a curious leathery muzzle, and a short, naked stumpy
   tail. The limbs are five-toed, with the third and fourth toes of the
   front pair armed with enormous digging claws; there are no external
@@ -518,7 +518,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   about a quarter of a circle, the concavity being directed outwards in
   the upper and inwards in the lower teeth. The first of the series
   (which appears to have no predecessor) single-lobed; the other four
-  composed of two lobes, each subtriangular in section. Limbs equal,
+  composed of two [[Lobe|lobes]], each subtriangular in section. Limbs equal,
   stout and short. Fore-feet with five distinct toes, each furnished
   with a long, strong and slightly curved nail, the first and fifth
   considerably shorter than the other three. Hind-feet with a very short
@@ -532,7 +532,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
 
   In addition to remains referable to the existing genus, the
   Pleistocene deposits of Australia have yielded evidence of an extinct
-  giant wombat constituting the genus _Phascolonus_ (_Sceparnodon_).
+  [[Giant|giant]] wombat constituting the genus _Phascolonus_ (_Sceparnodon_).
 
   The koala, or "native bear" (_Phascolarctus cinereus_), which differs
   widely from the wombats in its arboreal habits, is less specialized as
@@ -625,7 +625,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   lower functional incisor large, more or less inclined forwards;
   canines 1/(1 or 0) upper small or moderate, conical and sharp-pointed;
   lower absent or rudimentary; premolars variable; molars 3/3, or 2/2,
-  with four obtuse tubercles, sometimes forming crescents. Limbs
+  with four obtuse tubercles, sometimes forming [[Crescent|crescents]]. Limbs
   subequal. Fore-feet with five distinct subequal toes with claws.
   Hind-feet short and broad, with five well-developed toes; the first
   large, nailless and opposable; the second and third slender and united
@@ -664,7 +664,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
 
   As indicated in the accompanying illustration, the long-snouted
   phalanger is arboreal in habits, extracting honey and probably small
-  insects from long-tubed flowers by means of its extensile tongue.
+  [[Insect|insects]] from long-tubed flowers by means of its extensile tongue.
 
   The remaining members of the family may be included in the sub family
   _Phalangerinae_, characterized by the normal nature of the dentition
@@ -831,7 +831,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   Evolution of the Australian Marsupialia, &c.," _Trans. Linn. Soc._
   (vol. ix., 1903); L. Dollo, "Arboreal Ancestry of Marsupials,"
   _Miscell. Biologiques_ (Paris, 1899); B. Spencer, "Mammalia of the
-  Horn Expedition" (1896); "Wynyardia, a Fossil Marsupial from
+  [[Horn]] Expedition" (1896); "Wynyardia, a Fossil Marsupial from
   Tasmania," _Proc. Zool. Soc. London_ (1900); J. P. Hill,
   "Contributions to the Morphology of the Female Urino-genital Organs in
   Marsupialia," _Proc. Linn. Soc. N. S. Wales_, vols. xxiv. and xxv.;
@@ -841,7 +841,7 @@ inclusive of a few in the eastern Austro-Malayan islands.
   Cadibona," Part I. _Diprotodon, Mem. R. Soc. S. Australia_ (vol. i.,
   1889); R. Broom, "On the Affinities of _Thylacoleo," Proc. Linn. Soc.
   N. S. Wales_ (1898); H. F. Osborn, "Mesozoic Mammalia," _Journ. Acad.
-  Nat. Sci. Philadelphia_ (vol. ix., 1888); E. S. Goodrich, "On the
+  Nat. Sci. Philadelphia_ (vol. ix., 1888); E. S. [[Goodrich]], "On the
   Fossil Mammalia from the Stonesfield Slate," _Quart. Journ. Micr.
   Science_ (vol. xxxv., 1894).     (R. L.*)
 

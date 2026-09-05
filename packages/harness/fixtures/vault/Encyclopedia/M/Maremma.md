@@ -14,9 +14,9 @@ considerable towns situated on the hills--Populonia, Russellae, Cosa,
 &c., and was drained by a complete system of subterranean canals which
 were brought to light by the excavations made in connexion with the
 railways passing through the district. But the decline of agriculture at
-the end of the Republic led to a conversion of the land to pasture, and
+the end of the Republic led to a [[Conversion|conversion]] of the land to pasture, and
 later the unsettled state of affairs consequent on the fall of the Roman
-Empire resulted in neglect of the watercourses. Leopold II. of Tuscany
+Empire resulted in neglect of the watercourses. [[Leopold]] II. of Tuscany
 (1822-1844) made the first successful efforts to counteract the malaria
 which has affected the district, by drainage, the filling up of swamps,
 and the establishment of new farms, and since his time continuous

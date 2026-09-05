@@ -4,7 +4,7 @@ MALABAR, a district of British India, in the Madras Presidency.
 Geographically the name is sometimes extended to the entire western
 coast of the peninsula. Properly it should apply to the strip below the
 Ghats, which is inhabited by people speaking the Malayalam language, a
-branch of the Dravidian stock, who form a peculiar race, with castes,
+branch of the Dravidian stock, who form a peculiar race, with [[Caste|castes]],
 customs and traditions of their own. It would thus be coextensive with
 the old kingdom of Chera, including the modern states of Travancore and
 Cochin, and part of Kanara. In 1901 the total number of persons speaking

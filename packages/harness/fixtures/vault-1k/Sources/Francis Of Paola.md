@@ -11,7 +11,7 @@ FRANCIS OF PAOLA (or PAULA), ST, founder of the Minims, a religious
 order in the Catholic Church, was born of humble parentage at Paola in
 Calabria in 1416, or according to the Bollandists 1438. As a boy he
 entered a Franciscan friary, but left it and went to live as a hermit in
-a cave on the seashore near Paola. Soon disciples joined him, and with
+a cave on the seashore near Paola. Soon [[Disciple|disciples]] joined him, and with
 the bishop's approval he built a church and monastery. At first they
 called themselves "Hermits of St Francis"; but the object they proposed
 to themselves was to go beyond even the strict Franciscans in fasts and
@@ -41,7 +41,7 @@ in matter of diet the Minims surpassed in austerity all orders in the
 West, and probably all permanently organized orders in the East. The
 strongly ascetical spirit of the Minims manifested itself in the title
 borne by the superiors of the houses--not abbot (father), or prior, or
-guardian, or minister, or rector, but corrector; and the general
+[[Guardian|guardian]], or minister, or rector, but corrector; and the general
 superior is the corrector general. Notwithstanding its extreme severity
 the order prospered. At the death of the founder it had five
 provinces--Italy, France, Tours, Germany, Spain. Later there were as

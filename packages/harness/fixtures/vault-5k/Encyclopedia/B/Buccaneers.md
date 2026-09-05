@@ -17,7 +17,7 @@ colonial policy of Spain. Along its coast there were several isolated
 establishments presided over by Spaniards, who were deprived of a
 convenient market for the produce of the soil by the monopolies imposed by
 the mother country. Accordingly English, Dutch and French vessels were
-welcomed and their cargoes readily bought. The island, thinned of its
+welcomed and their [[Cargo|cargoes]] readily bought. The island, thinned of its
 former inhabitants, had become the home of immense herds of wild cattle;
 and it became the habit of smugglers to provision at Santo Domingo. The
 natives still left were skilled in preserving flesh at their little
@@ -46,7 +46,7 @@ operations were extended, and a storehouse secure from the attacks of the
 Spaniards was required. The small island of Tortuga (north-west of
 Hispaniola) was seized for this purpose in 1630, converted into a magazine
 for the goods of the rivals, and made their headquarters, Santo Domingo
-itself still continuing their hunting ground. A purely English settlement
+itself still continuing their [[Hunting|hunting]] ground. A purely English settlement
 directed by a company in London was made at Old Providence, an island in
 the Caribbean Sea, now belonging to Colombia. It began a little before
 1630, and was suppressed by the Spaniards in 1641.
@@ -70,7 +70,7 @@ In 1654 the Spaniards regained Tortuga from the French, into whose hands it
 again, however, fell after six years. But this state of affairs was too
 insecure even for these rovers, and they would speedily have succumbed had
 not a refuge been found for them by the fortunate conquest of Jamaica in
-1655 by the navy of the English Commonwealth. These conquests were not made
+1655 by the navy of the English [[Commonwealth]]. These conquests were not made
 without the aid of the buccaneers themselves. The taking and re-taking of
 Tortuga by the French was always with the assistance of the roving
 community; and at the conquest of Jamaica the English navy had the same
@@ -85,27 +85,27 @@ extends from the period of their rise to the capture of Panama by Morgan in
 till near its close, by government restriction. The second, from 1671 to
 the time of their greatest power, 1685, when the scene of their operations
 was no longer merely the Caribbean, but principally the whole range of the
-Pacific from California to Chile. The third and last period extends from
+Pacific from California to [[Chile]]. The third and last period extends from
 that year onwards; it was a time of disunion and disintegration, when the
 independence and rude honour of the previous periods had degenerated into
 unmitigated vice and brutality.
 
 It is chiefly during the first period that those leaders flourished whose
 names and doings have been associated with all that was really influential
-in the exploits of the buccaneers--the most prominent being Mansfield and
+in the exploits of the buccaneers--the most prominent being [[Mansfield]] and
 Morgan. The floating commerce of Spain had by the middle of the 17th
 century become utterly insignificant. But Spanish settlements remained; and
 in 1654 the first great expedition on land made by the buccaneers, though
 attended by considerable difficulties, was completed by the capture and
 sack of New Segovia, on the mainland of America. The Gulf of Venezuela,
-with its towns of Maracaibo and Gibraltar, were attacked and plundered
+with its towns of Maracaibo and [[Gibraltar]], were attacked and plundered
 under the command of a Frenchman named L'Ollonois, who performed, it is
 said, the office of executioner upon the whole crew of a Spanish vessel
 manned with ninety seamen. Such successes removed the buccaneers further
 and further from the pale of civilized society, fed their revenge, and
 inspired them with an avarice almost equal to that of the original settlers
 from Spain. Mansfield indeed, in 1664, conceived the idea of a permanent
-settlement upon a small island of the Bahamas, named New Providence, and
+settlement upon a small island of the [[Bahamas]], named New Providence, and
 Henry Morgan, a Welshman, intrepid and unscrupulous, joined him. But the
 untimely death of Mansfield nipped in the bud the only rational scheme of
 settlement which seems at any time to have animated this wild community;
@@ -126,9 +126,9 @@ The treaty was very ill observed in Jamaica, where the governor, Thomas
 Modyford (1620-1679), was in close alliance with the "privateers," which
 was the official title of the buccaneers. He had already granted
 commissions to Morgan and others for a great attack on the Isthmus of
-Panama, the route by which the bullion of the South American mines was
+Panama, the route by which the [[Bullion|bullion]] of the South American mines was
 carried to Porto Bello, to be shipped to Spain. The buccaneers to the
-number of 2000 began by seizing Chagres, and then marched to Panama in
+number of 2000 began by seizing [[Chagres]], and then marched to Panama in
 1671. After a difficult journey on foot and in canoes, they found
 themselves nearing the shores of the South Sea and in view of the city. On
 the morning of the tenth day they commenced an engagement which ended in
@@ -175,8 +175,8 @@ and Watling, roamed north and south on islands and mainland, and remained
 for long ravaging the coast of Peru. Never short of silver and gold, but
 often in want of the necessaries of life, they continued their practices
 for a little longer; then, evading the risk of recrossing the isthmus, they
-boldly cleared Cape Horn, and arrived in the Indies. Again, in 1683,
-numbers of them under John Cook departed for the South Sea by way of Cape
+boldly cleared Cape [[Horn]], and arrived in the Indies. Again, in 1683,
+numbers of them under John [[Cook]] departed for the South Sea by way of Cape
 Horn. On Cook's death his successor, Edward Davis, undoubtedly the greatest
 and most prudent commander who ever led the forces of the buccaneers at
 sea, met with a certain Captain Swan from England, and the two captains
@@ -214,11 +214,11 @@ Spanish vessels, and the interest undoubtedly centres in him. Townley and
 Swan had, however, by this time left him, and after cruising together for
 some time, they, too, parted. In 1688 Davis cleared Cape Horn and arrived
 in the West Indies, while Swan's ship, the "Cygnet," was abandoned as
-unseaworthy, after sailing as far as Madagascar. Townley had hardly joined
+unseaworthy, after sailing as far as [[Madagascar]]. Townley had hardly joined
 the French buccaneers remaining in the South Sea ere he died, and the
 Frenchmen with their companions crossed New Spain to the West Indies. And
 thus the Pacific, ravaged so long by this powerful and mysterious band of
-corsairs, was at length at peace.
+[[Corsair|corsairs]], was at length at peace.
 
 The West Indies had by this time become hot enough even for the banded
 pirates. They hung doggedly along the coasts of Jamaica and Santo Domingo,
@@ -241,7 +241,7 @@ into the favour of the king of Spain. With the resumption of hostilities in
 claimant to the throne the career of the buccaneers was effectually closed.
 
 But the fall of the buccaneers is no more accounted for fully by these
-circumstances than is their rise by the massacre of the islanders of Santo
+circumstances than is their rise by the [[Massacre|massacre]] of the islanders of Santo
 Domingo. There was that in the very nature of the community which, from its
 birth, marked it as liable to speedy decline.
 
@@ -249,13 +249,13 @@ The principles which bound the buccaneers together were, first the desire
 for adventure and gain, and, in the second place, hatred of the Spaniard.
 The first was hardly a sufficient bond of union, among men of different
 nationalities, when booty could be had nearly always by private venture
-under the colours of the separate European powers. Of greater validity was
+under the [[Colours|colours]] of the separate European powers. Of greater validity was
 their second and great principle of union, namely, that they warred not
 with one another, nor with every one, but with a single and a common foe.
 For while the buccaneer forces included English, French and Dutch sailors,
 and were complemented occasionally by bands of native Indians, there are
 few instances during the time of their prosperity and growth of their
-falling upon one another, and treating their fellows with the savagery
+falling upon one another, and treating their [[Fellows|fellows]] with the savagery
 which they exulted in displaying against the subjects of Spain. The
 exigencies, moreover, of their perilous career readily wasted their
 suddenly acquired gains.

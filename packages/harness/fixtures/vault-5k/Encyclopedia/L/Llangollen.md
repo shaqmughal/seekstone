@@ -1,6 +1,6 @@
 # Llangollen
 
-LLANGOLLEN, a picturesque market-town and summer resort of Denbighshire,
+LLANGOLLEN, a picturesque market-town and summer resort of [[Denbighshire]],
 N. Wales, in the Dee (_Dyfrdwy_) valley, on a branch of the Great
 Western Railway, 9 m. S.W. of Wrexham, 202½ m. from London by rail. Pop.
 of urban district (1901) 3303. The Dee is here crossed by a 14th-century

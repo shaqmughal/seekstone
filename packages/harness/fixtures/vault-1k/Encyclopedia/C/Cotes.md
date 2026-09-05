@@ -26,7 +26,7 @@ influence of a central force varying inversely as the cube of the
 distance. In 1738 Dr Robert Smith published Cotes' _Hydrostatical and
 Pneumatical Lectures_, a work which was held in great estimation. The
 exceptional genius of Cotes earned encomiums from both his
-contemporaries and successors; Sir Isaac Newton said, "If Mr Cotes had
+contemporaries and successors; Sir [[Isaac]] Newton said, "If Mr Cotes had
 lived, we should have known something."
 
 ## See also

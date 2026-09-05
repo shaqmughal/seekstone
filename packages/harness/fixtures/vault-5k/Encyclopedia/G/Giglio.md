@@ -16,8 +16,8 @@ cultivation of which has taken the place of the forests of which
 Rutilius spoke (_Itin._ i. 325, "eminus Igilii silvosa cacumina miror").
 Julius Caesar mentions its sailors in the fleet of Domitius Ahenobarbus.
 In Rutilius's time it served as a place of refuge from the barbarian
-invaders. Charlemagne gave it to the abbey of Tre Fontane at Rome. In
-the 14th century it belonged to Pisa, then to Florence, ~~6 Antonio
+invaders. Charlemagne gave it to the abbey of Tre [[Fontane]] at Rome. In
+the 14th century it belonged to Pisa, then to Florence, ~~6 [[Antonio]]
 Piccolomini, nephew of Pius II. In 1558 it was sold to the wife of
 Cosimo I. of Florence.
 

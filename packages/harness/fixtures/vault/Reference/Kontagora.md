@@ -1,7 +1,7 @@
 # Kontagora
 
 KONTAGORA, a province in the British protectorate of Northern Nigeria,
-on the east bank of the Niger to the north of Nupe and opposite Borgu.
+on the east bank of the Niger to the north of Nupe and opposite [[Borgu]].
 It is bounded W. by the Niger, S. by the province of Nupe, E. by that of
 Zaria, and N. by that of Sokoto. It has an area of 14,500 sq. m. and a
 population estimated at about 80,000. At the time of the British
@@ -21,7 +21,7 @@ was organized for administration on the same system as the rest of the
 protectorate. In 1903 Ibrahim, after agreeing to take the oath of
 allegiance to the British crown and to accept the usual conditions of
 appointment, which include the abolition of the slave trade within the
-province, was reinstated as emir and the British garrison was withdrawn.
+province, was reinstated as emir and the British [[Garrison|garrison]] was withdrawn.
 Since then the development of the province has progressed favourably.
 Roads have been opened and Kontagora connected by telegraph with
 headquarters at Zungeru. British courts of justice have been established
@@ -34,8 +34,8 @@ district of the province under a chief and a British assistant resident.
 
 
 
-KOORINGA [BURRA], a town of Burra county, South Australia on Burra
-Creek, 101 m. by rail N. by E. of Adelaide. Pop. (1901), 1994. It is the
+KOORINGA [BURRA], a town of Burra county, South [[Australia]] on Burra
+[[Creek]], 101 m. by rail N. by E. of Adelaide. Pop. (1901), 1994. It is the
 centre of a mining and agricultural district in which large areas are
 devoted to wheat-growing. The famous Burra Burra copper mine, discovered
 by a shepherd in 1844, is close to the town, while silver and lead ore
@@ -56,15 +56,15 @@ sealing-wax and ink. In the vicinity is Spindlersfeld, with important
 dye-works.
 
 Köpenick, which dates from the 12th century, received municipal rights
-in 1225. Shortly afterwards, it became the bone of contention between
+in 1225. Shortly afterwards, it became the [[Bone|bone]] of contention between
 Brandenburg and Meissen, but, at the issue of the feud, remained with
-the former, becoming a favourite residence of the electors of
-Brandenburg. In the palace the famous court martial was held in 1730,
+the former, becoming a favourite residence of the [[Electors|electors]] of
+Brandenburg. In the palace the famous court [[Martial|martial]] was held in 1730,
 which condemned the crown-prince of Prussia, afterwards Frederick the
 Great, to death. In 1906 the place derived ephemeral fame from the
 daring feat of a cobbler, one Wilhelm Voigt, who, attired as a captain
 in the army, accompanied by soldiers, whom his apparent rank deceived,
-took the mayor prisoner, on a fictitious charge of having falsified
+took the [[Mayor|mayor]] prisoner, on a fictitious charge of having falsified
 accounts and absconded with a considerable sum of municipal money. The
 "captain of Köpenick" was arrested, tried, and sentenced to a term of
 imprisonment.

@@ -5,7 +5,7 @@ Pavia in 1650. As chief founder of the well-known Roman academy called
 "L'Arcadia," he had a considerable share in the reform of Italian
 poetry, corrupted at that time by the extravagance and bad taste of the
 poets Marini and Achillini and their school. The poet Guidi and the
-critic and jurisconsult Gravina checked this evil by their influence and
+critic and jurisconsult [[Gravina]] checked this evil by their influence and
 example. The genius of Guidi was lyric in the highest degree; his songs
 are written with singular force, and charm the reader, in spite of
 touches of bombast. His most celebrated song is that entitled _Alla

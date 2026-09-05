@@ -22,7 +22,7 @@ France and then visited England, where in 1482 Edward IV. recognized him
 as king of Scotland by the gift of the king of England. War broke out
 with England, but James, made a prisoner by his nobles, was unable to
 prevent Albany and his ally, Richard, duke of Gloucester (afterwards
-Richard III.), from taking Berwick and marching to Edinburgh. Peace with
+Richard III.), from taking [[Berwick]] and marching to Edinburgh. Peace with
 Albany followed, but soon afterwards the duke was again in
 communication with Edward, and was condemned by the parliament after
 the death of the English king in April 1483. Albany's death in France in

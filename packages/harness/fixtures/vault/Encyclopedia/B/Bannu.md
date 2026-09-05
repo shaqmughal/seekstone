@@ -16,7 +16,7 @@ expeditions to the Tochi Valley and Waziri frontier.
 The district of Bannu, which only consists of the Bannu and Marwat tahsils
 since the constitution of the North-West Frontier Province in 1901,
 contains an area of 1680 sq. m. lying north of the Indus. The cis-Indus
-portions of Bannu and Dera Ismail Khan now comprises the new Punjab
+portions of Bannu and [[Dera Ismail Khan]] now comprises the new Punjab
 district of Mianwali. In addition to the Indus the other streams flowing
 through the district are the Kurram (which falls into the Indus) and its
 tributary the Gambila. The valley of Bannu proper, stretching to the foot
@@ -29,16 +29,16 @@ Pathan race, inhabiting the lower and more sandy portions of the Bannu
 valley; (3) Bannuchis, a mongrel Afghan tribe of bad physique and mean
 vices. The inhabitants of this district have always been very independent
 and stubbornly resisted the Afghan and Sikh predecessors of the British.
-After the annexation of the Punjab the valley was administered by Herbert
-Edwardes so thoroughly that it became a source of strength instead of
+After the [[Annexation|annexation]] of the Punjab the valley was administered by Herbert
+[[Edwardes]] so thoroughly that it became a source of strength instead of
 weakness during the Mutiny. The inhabitants of the valley itself are now
 peaceful, but it is always subject to incursion from the Waziri tribes in
 the Tochi valley and the neighbouring hills. Salt is quarried on government
-account at Kalabagh and alum is largely obtained in the same neighbourhood.
+account at [[Kalabagh]] and alum is largely obtained in the same neighbourhood.
 The chief export is wheat. A military road leads from Bannu town towards
 Dera Ismail Khan. The Indus, which is nowhere bridged within the district,
 is navigable for native boats throughout its course of 76 m. The chief
-frontier tribes on the border are the Waziris, Battannis and Dawaris. All
+frontier tribes on the border are the Waziris, [[Battanni|Battannis]] and [[Dawari|Dawaris]]. All
 these are described under their separate names.
 
 ## References

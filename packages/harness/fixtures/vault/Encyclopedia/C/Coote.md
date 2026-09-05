@@ -7,14 +7,14 @@ type: source
 
 # Coote
 
-COOTE, SIR EYRE (1726-1783), British soldier, the son of a clergyman,
+COOTE, SIR [[Eyre|EYRE]] (1726-1783), British soldier, the son of a clergyman,
 was born near Limerick, and entered the 27th regiment. He saw active
 service in the Jacobite rising of 1745, and some years later obtained a
 captaincy in the 39th regiment, which was the first British regiment
 sent to India. In 1756 a part of the regiment, then quartered at Madras,
-was sent forward to join Clive in his operations against Calcutta, which
+was sent forward to join [[Clive]] in his operations against [[Calcutta]], which
 was reoccupied without difficulty, and Coote was soon given the local
-rank of major for his good conduct in the surprise of the Nawab's camp.
+rank of [[Major|major]] for his good conduct in the surprise of the Nawab's camp.
 Soon afterwards came the battle of Plassey, which would in all
 probability not have taken place but for Coote's soldierly advice at
 the council of war; and after the defeat of the Nawab he led a
@@ -29,13 +29,13 @@ the remnants of Lally's forces were shut up in Pondicherry. For some
 reason Coote was not entrusted with the siege operations, but he
 cheerfully and loyally supported Monson, who brought the siege to a
 successful end on the 15th of January 1761. Soon afterwards Coote was
-given the command of the East India Company's forces in Bengal, and
+given the command of the East India Company's forces in [[Bengal]], and
 conducted the settlement of a serious dispute between the Nawab Mir
 Cassim and a powerful subordinate, and in 1762 he returned to England,
 receiving a jewelled sword of honour from the Company and other rewards
 for his great services. In 1771 he was made a K.B. In 1779 he returned
 to India as lieutenant-general commanding in chief. Following generally
-the policy of Warren Hastings, he nevertheless refused to take sides in
+the policy of Warren [[Hastings]], he nevertheless refused to take sides in
 the quarrels of the council, and made a firm stand in all matters
 affecting the forces. Hyder Ali's progress in southern India called him
 again into the field, but his difficulties were very great and it was

@@ -8,20 +8,20 @@ tags: [economics, astronomy-theory]
 
 # Gobel
 
-GOBEL, JEAN BAPTISTE JOSEPH (1727-1794), French ecclesiastic and
+GOBEL, JEAN [[Baptiste|BAPTISTE]] JOSEPH (1727-1794), French ecclesiastic and
 politician, was born at Thann, in Alsace, on the 1st of September 1727.
 He studied theology in the German College at Rome, and then became
 successively a member of the chapter of Porrentruy, bishop _in partibus_
-of Lydda, and finally suffragan of Basel for that part of the diocese
+of Lydda, and finally suffragan of [[Basel]] for that part of the diocese
 situated in French territory. His political life began when he was
-elected deputy to the states-general of 1789 by the clergy of the
+elected [[Deputy|deputy]] to the states-general of 1789 by the clergy of the
 _bailliage_ of Huningue. The turning-point of his life was his action in
 taking the oath of the civil constitution of the clergy (Jan. 3rd,
 1791); in favour of which he had declared himself since the 5th of May
 1790. The civil constitution of the clergy gave the appointment of
 priests to the electoral assemblies, and since taking the oath Gobel had
 become so popular that he was elected bishop in several dioceses. He
-chose Paris, and in spite of the difficulties which he had to encounter
+[[Chose|chose]] Paris, and in spite of the difficulties which he had to encounter
 before he could enter into possession, was consecrated on the 27th of
 March 1791 by eight bishops, including Talleyrand. On the 8th of
 November 1792, Gobel was appointed administrator of Paris. He was
@@ -35,9 +35,9 @@ who were then pursuing their anti-Christian policy, claimed Gobel as one
 of themselves; while, on the other hand, Robespierre looked upon him as
 an atheist, though apostasy cannot strictly speaking be laid to the
 charge of the ex-bishop, nor did he ever make any actual profession of
-atheism. Robespierre, however, found him an obstacle to his religious
-schemes, and involved him in the fate of the Hebertists. Gobel was
-condemned to death, with Chaumette, Hebert and Anacharsis Cloots, and
+[[Atheism|atheism]]. Robespierre, however, found him an obstacle to his religious
+schemes, and involved him in the [[Fate|fate]] of the Hebertists. Gobel was
+condemned to death, with Chaumette, Hebert and Anacharsis [[Cloots]], and
 was guillotined on the 12th of April 1794.
 
   See E. Charavay, _Assemblee electorale de Paris_ (Paris, 1890); H.

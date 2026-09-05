@@ -5,12 +5,12 @@ shoulder-piece, and so applied to the shoulder-knot of ribbon to which a
 scapulary was attached, worn by members of a religious order. The
 military usage was probably derived from the metal plate (_epauliere_)
 which protected the shoulder in the defensive armour of the 16th
-century. It was first used merely as a shoulder knot to fasten the
-baldric, and the application of it to mark distinctive grades of rank
+century. It was first used merely as a shoulder [[Knot|knot]] to fasten the
+[[Baldric|baldric]], and the application of it to mark distinctive grades of rank
 was begun in France at the suggestion, it is said, of Charles Louis
-Auguste Fouquet, duc de Belle-Isle, in 1759. In modern times it always
+Auguste Fouquet, duc de [[Belle-Isle]], in 1759. In modern times it always
 appears as a shoulder ornament for military and naval uniforms. At first
-it consisted merely of a fringe hanging from the end of the
+it consisted merely of a fringe [[Hanging|hanging]] from the end of the
 shoulder-strap or cord over the sleeve, but towards the end of the 18th
 century it became a solid ornament, consisting of a flat shoulder-piece,
 extended beyond the point of the shoulder into an oval plate, from the

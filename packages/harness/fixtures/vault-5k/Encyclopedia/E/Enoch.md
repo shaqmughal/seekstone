@@ -15,7 +15,7 @@ Jews in Egypt.
 The _Book of Enoch_ was written in the second and first centuries B.C.
 It was well known to many of the writers of the New Testament, and in
 many instances influenced their thought and diction. Thus it is quoted
-by name as a genuine production of Enoch in the Epistle of Jude, 14 sq.,
+by name as a genuine production of Enoch in the [[Epistle]] of Jude, 14 sq.,
 and it lies at the base of Matt. xix. 28 and John v. 22, 27, and many
 other passages. It had also a vast indirect influence on the Palestinian
 literature of the 1st century of our era. Like the Pentateuch, the
@@ -23,7 +23,7 @@ Psalms, the Megilloth, the Pirke Aboth, this work was divided into five
 parts, with the critical discussion of which we shall deal below. With
 the earlier Fathers and Apologists it had all the weight of a canonical
 book, but towards the close of the 3rd and the beginning of the 4th
-century it began to be discredited, and finally fell under the ban of
+century it began to be discredited, and finally fell under the [[Ban|ban]] of
 the Church. Almost the latest reference to it in the early church is
 made by George Syncellus in his Chronography about A.D. 800. The book
 was then lost sight of till 1773, when Bruce discovered the Ethiopic
@@ -85,7 +85,7 @@ MS., in 1851 by Dillmann from five, in 1902 by Flemming from fifteen
 MSS., and in 1906 by the present writer from twenty-three.
 
   _Translations and Commentaries._--Laurence, _The Book of Enoch_
-  (Oxford, 1821); Dillmann, _Das Buch Henoch_ (1853); Schodde, _The Book
+  (Oxford, 1821); Dillmann, _Das [[Buch]] Henoch_ (1853); Schodde, _The Book
   of Enoch_ (1882); Charles, _The Book of Enoch_ (1893); Beer, "Das Buch
   Henoch," in Kautzsch's _Apok. u. Pseud. des A.T._ (1900), ii. 217-310;
   Flemming and Radermacher, _Das Buch Henoch_ (1901); Martin, _Le Livre
@@ -120,7 +120,7 @@ divisions of the book.
 
 A new critical analysis of the book based on this view was given by
 Charles (_op. cit._ pp. 24-33), and further developed by Clemen and
-Beer. The analysis of the latter (see Herzog, _Realencyk._^3 xiv. 240)
+Beer. The analysis of the latter (see [[Herzog]], _Realencyk._^3 xiv. 240)
 is very complex. The book, according to this scholar, is composed of the
 following separate elements from the Enoch tradition:--(1) Ch. i.-v.;
 (2) xii-xvi.; (3) xvii.-xix.; (4) xx.-xxxvi.; (5) xxxvii.-lxix. (from
@@ -141,7 +141,7 @@ Methuselah sections, adding two others from his own pen. The Similitudes
 he worked up from a series of later sources, and gave them the second
 place in the final work authenticating them with the name of Noah. The
 date of the publication of the entire work Appel assigns to the years
-immediately following the death of Herod.
+immediately following the death of [[Herod]].
 
   We shall now give an analysis of the book, with the dates of the
   various sections where possible. Of these we shall deal with the
@@ -149,7 +149,7 @@ immediately following the death of Herod.
   the writer of which had very different objects before him from the
   writers of the rest of the book. His sole aim is to give the law of
   the heavenly bodies. His work has suffered disarrangements and
-  interpolations at the hands of the editor of the whole work. Thus
+  [[Interpolation|interpolations]] at the hands of the editor of the whole work. Thus
   lxxvi.-lxxvii., which are concerned with the winds, the quarters of
   the heaven, and certain geographical matters, and lxxxi., which is
   concerned wholly with ethical matters, are foreign to a work which
@@ -161,7 +161,7 @@ immediately following the death of Herod.
   the last third of the 2nd century B.C.
 
   _Chaps. lxxxiii.-xc._--This section was written before 161 B.C., for
-  "the great horn," who is Judas the Maccabee, was still warring when
+  "the great [[Horn|horn]]," who is Judas the Maccabee, was still warring when
   the author was writing. (Dillmann, Schurer and others take the great
   horn to be John Hyrcanus, but this interpretation does violence to the
   text.) These chapters recount three visions: the first two deal with
@@ -171,11 +171,11 @@ immediately following the death of Herod.
   centre in the New Jerusalem set up by God Himself.
 
   _Chaps. xci.-civ._--In the preceding section the Maccabees were the
-  religious champions of the nation and the friends of the Hasidim. Here
+  religious [[Champion|champions]] of the nation and the friends of the Hasidim. Here
   they are leagued with the Sadducees, and are the declared foes of the
   Pharisaic party. This section was written therefore after 134 B.C.,
-  when the breach between John Hyrcanus and the Pharisees took place and
-  before the savage massacres of the latter by Jannaeus (95 B.C.); for
+  when the [[Breach|breach]] between John Hyrcanus and the Pharisees took place and
+  before the savage [[Massacre|massacres]] of the latter by Jannaeus (95 B.C.); for
   it is not likely that in a book dealing with the sufferings of the
   Pharisees such a reference would be omitted. These chapters indicate a
   revolution in the religious hopes of the nation. An eternal Messianic
@@ -196,7 +196,7 @@ immediately following the death of Herod.
   sixteen verses, such an omission need cause little embarrassment, and
   still less if the author is the determined foe of the Maccabees, whom
   he would probably have stigmatized as apostates, if he had mentioned
-  them at all, just as he similarly brands all the Sadducean priesthood
+  them at all, just as he similarly [[Brand|brands]] all the Sadducean priesthood
   that preceded them to the time of the captivity. This Ten-Weeks
   Apocalypse, therefore, we take to be the work of the writer of the
   rest of xci.-civ.
@@ -219,7 +219,7 @@ immediately following the death of Herod.
   mankind, and the condemnation of the fallen angels, the subject-matter
   now suddenly changes and xvii.-xxxvi. treat of Enoch's journeyings
   through earth and heaven escorted by angels. Here undoubtedly we have
-  a series of doublets; for xvii.-xix. stand in this relation to
+  a series of [[Doublet|doublets]]; for xvii.-xix. stand in this relation to
   xx.-xxxvi., since both sections deal with the same subjects. Thus
   xvii. 4 = xxiii.; xvii. 6 = xxii.; xviii. 1 = xxxiv.-xxxvi.; xviii.
   6-9 = xxiv.-xxv., xxxii. 1-2; xviii. 11, xix. = xxi. 7-10; xviii.
@@ -256,7 +256,7 @@ immediately following the death of Herod.
   "This is the Son of Man," &c. Ver. 15, then, gives the message sent to
   Enoch by the Son of Man. In the next verse the second person should be
   changed into the third. Thus we recover the original text of this
-  difficult chapter. The Messianic doctrine and eschatology of this
+  difficult chapter. The Messianic doctrine and [[Eschatology|eschatology]] of this
   section is unique. The Messiah is here for the first time described as
   the pre-existent Son of Man (xlviii. 2), who sits on the throne of God
   (xlv. 3; xlvii. 3), possesses universal dominion (lxii. 6), and is the
@@ -269,7 +269,7 @@ MSS. discovered in Russia and Servia. Since about A.D. 500 it has been
 lost sight of. It is cited without acknowledgment in the _Book of Adam
 and Eve_, the _Apocalypses of Moses and Paul_, the _Sibylline Oracles_,
 the _Ascension of Isaiah_, the _Epistle of Barnabas_, and referred to by
-Origen and Irenaeus (see Charles, _The Book of the Secrets of Enoch_,
+Origen and [[Irenaeus]] (see Charles, _The Book of the Secrets of Enoch_,
 1895, pp. xvii-xxiv). For Charles's _editio princeps_ of this work, in
 1895, Professor Morfill translated two of the best MSS., as well as
 Sokolov's text, which is founded on these and other MSS. In 1896
@@ -312,10 +312,10 @@ name is here derived from the initial letters of the four quarters:
 [Greek: anatole, dusis, arktos, mesembria]. This derivation is
 impossible in Semitic. This context is found elsewhere in the Sibyllines
 iii. 24 sqq. and other Greek writings. (2) Again our author uses the
-chronology of the Septuagint and in 1, 4 follows the Septuagint text of
+[[Chronology|chronology]] of the Septuagint and in 1, 4 follows the Septuagint text of
 Deuteronomy xxxii. 35 against the Hebrew. On the other hand, some
 sections may wholly or in part go back to Hebrew originals. There is a
-Hebrew Book of Enoch attributed to R. Ishmael ben Elisha who lived at
+Hebrew Book of Enoch attributed to R. [[Ishmael]] ben [[Elisha]] who lived at
 the close of the 1st century and the beginning of the 2nd century B.C.
 This book is very closely related to the Book of the Secrets of Enoch,
 or rather, to a large extent dependent upon it. Did Ishmael ben Elisha
@@ -335,7 +335,7 @@ The book in its present form was written in Egypt. This may be inferred
 and writings of a Hellenistic character that circulated mainly in Egypt.
 (2) The Phoenixes are Chalkydries (ch. xii.)--monstrous serpents with
 the heads of crocodiles--are natural products of the Egyptian
-imagination. (3) The syncretistic character of the creation account
+[[Imagination|imagination]]. (3) The syncretistic character of the creation account
 (xxv.-xxvi.) betrays Egyptian elements.
 
 _Relation to Jewish and Christian Literature._--The existence of a
@@ -370,12 +370,12 @@ readily incorporates Platonic (xxx. 16), Egyptian (xxv. 2) and Zend
 
 _Anthropological Views._--All the souls of men were created before the
 foundation of the world (xxiii. 5) and likewise their future abodes in
-heaven or hell (xlix. 2, lviii. 5). Man's name was derived, as we have
+heaven or [[Hell|hell]] (xlix. 2, lviii. 5). Man's name was derived, as we have
 already seen, from the four quarters of the world, and his body was
 compounded from seven substances (xxx. 8). He was created originally
 good: freewill was bestowed upon him with instruction in the two ways of
 light and darkness, and then he was left to mould his own destiny (xxx.
-15). But his preferences through the bias of the flesh took an evil
+15). But his preferences through the [[Bias|bias]] of the flesh took an evil
 direction, and death followed as the wages of sin (xxx. 16).
 
   LITERATURE.--Morfill and Charles, _The Book of the Secrets of Enoch_

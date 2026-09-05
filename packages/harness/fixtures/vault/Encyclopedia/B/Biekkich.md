@@ -9,12 +9,12 @@ type: source
 
 BIEKKICH, a town of Germany, in the Prussian province of Hesse-Nassau,
 on the right bank of the Rhine, 3 m. S. from Wiesbaden, of which it is
-the river port, and on the main line of railway from Cologne to
-Frankfort-on-Main. Pop. (1900) 15,048; (1905) 20,137. The palace of the
-former dukes of Nassau occupies a fine position on the river bank, and
+the river port, and on the main line of railway from [[Cologne]] to
+[[Frankfort-On-Main|Frankfort-on-Main]]. Pop. (1900) 15,048; (1905) 20,137. The palace of the
+former [[Dukes|dukes]] of Nassau occupies a fine position on the river bank, and
 the shady gardens and groves attract large numbers of visitors during
 the summer. It is an important steamboat station for both passenger and
-cargo traffic, and besides manufactures of cement, dyes and soap, has a
+[[Cargo|cargo]] traffic, and besides manufactures of cement, dyes and soap, has a
 considerable trade in the wines of the district.
 
 ## See also

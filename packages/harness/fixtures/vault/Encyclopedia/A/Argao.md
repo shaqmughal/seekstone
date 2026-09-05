@@ -3,7 +3,7 @@
 ARGAO, a town on the east coast of Cebu, Philippine Islands, 36 m.
 S.S.W. of the town of Cebu. Pop. (1903) 35,448. Large quantities of a
 superior quality of cacao are produced in the vicinity, and rice and
-Indian corn are other important products. A limited amount of cotton is
+Indian [[Corn|corn]] are other important products. A limited amount of cotton is
 raised and woven into cloth. The language is Cebu-Visayan. Argao was
 founded in 1608.
 

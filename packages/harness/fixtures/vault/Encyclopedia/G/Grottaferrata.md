@@ -1,12 +1,12 @@
 # Grottaferrata
 
 GROTTAFERRATA, a village of Italy, in the province of Rome, from which
-it is 13 m. S.E. by electric tramway, and 2-1/2 m. S. of Frascati, 1080
+it is 13 m. S.E. by electric tramway, and 2-1/2 m. S. of [[Frascati]], 1080
 ft. above sea-level, in the Alban Hills. Pop. (1901) 2645. It is
 noticeable for the Greek monastery of Basilians founded by S. Nilus in
 1002 under the Emperor Otho III., and which occupies the site of a large
 Roman villa, possibly that of Cicero. It was fortified at the end of the
-15th century by Cardinal Giuliano della Rovere (afterwards Pope Julius
+15th century by Cardinal Giuliano della Rovere (afterwards Pope [[Julius]]
 II.), whose arms may be seen about it. The massive towers added by him
 give it a picturesque appearance. The church belongs to the 12th
 century, and the original portal, with a mosaic over it, is still
@@ -19,8 +19,8 @@ an interesting museum of local antiquities. The library contains
 valuable MSS., among them one from the hand of S. Nilus (965); and a
 palaeographical school, for the copying of MSS. in the ancient style, is
 maintained. An _omophorion_ of the 11th or 12th century, with scenes
-from the Gospel in needlework, and a chalice of the 15th century with
-enamels, given by Cardinal Bessarion, the predecessor of Giuliano della
+from the [[Gospel]] in needlework, and a chalice of the 15th century with
+enamels, given by Cardinal [[Bessarion]], the predecessor of Giuliano della
 Rovere as commendatory of the abbey, are among its treasures. An
 important exhibition of Italo-Byzantine art was held here in 1905-1906.
 

@@ -20,7 +20,7 @@ subsequently removed to the Hermitage at St Petersburg, while those that
 remained at Kerch were scattered during the English occupation in the
 Crimean War. The existing museum is a small collection in a private
 house. Among the products of local industry are leather, tobacco,
-cement, beer, aerated waters, lime, candles and soap. Fishing is carried
+cement, beer, aerated waters, lime, [[Candle|candles]] and soap. Fishing is carried
 on, and there are steam saw-mills and flour-mills. A rich deposit of
 iron ore was discovered close to Kerch in 1895, and since then mining
 and blasting have been actively prosecuted. The mineral mud-baths, one
@@ -43,7 +43,7 @@ became the founder of a new line under the protection of the Romans,
 which continued to exist till the middle of the 4th century A.D., and
 extended its power over the maritime parts of Tauris. After that the
 town--which had already begun to be known as Bospora--passed
-successively into the hands of the Eastern empire, of the Khazars, and
+successively into the hands of the Eastern empire, of the [[Khazars]], and
 of various barbarian tribes. In 1318, the Tatars, who had come into
 possession in the previous century, ceded the town to the Genoese, who
 soon raised it into new importance as a commercial centre. They usually
@@ -59,21 +59,21 @@ importance was greatly impaired by the rise of Odessa and Taganrog; and
 in 1820 the fortress was dismantled. Kerch suffered severely during the
 Crimean War.
 
-  Archaeologically Kerch is of particular interest, the kurgans or
+  Archaeologically Kerch is of particular interest, the [[Kurgan|kurgans]] or
   sepulchral mounds of the town and vicinity having yielded a rich
   variety of the most beautiful works of art. Since 1825 a large number
   of tombs have been opened. In the Altun or Zolotai-oba (Golden Mound)
   was found a great stone vault similar in style to an Egyptian pyramid;
   and within, among many objects of minor note, were golden dishes
-  adorned with griffins and beautiful arabesques. In the Kul-oba, or
+  adorned with [[Griffin|griffins]] and beautiful [[Arabesque|arabesques]]. In the Kul-oba, or
   Mound of Cinders (opened in 1830-1831), was a similar tomb, in which
   were found what would appear to be the remains of one of the kings of
-  Bosporus, of his queen, his horse and his groom. The ornaments and
-  furniture were of the most costly kind; the king's bow and buckler
+  Bosporus, of his queen, his horse and his [[Groom|groom]]. The ornaments and
+  furniture were of the most costly kind; the king's [[Bow|bow]] and buckler
   were of gold; his very whip intertwined with gold; the queen had
   golden diadems, necklace and breast-jewels, and at her feet lay a
   golden vase. In the Pavlovskoi kurgan (opened in 1858) was the tomb of
-  a Greek lady, containing among other articles of dress and decoration
+  a Greek lady, containing among other articles of [[Dress|dress]] and decoration
   a pair of fine leather boots (a unique discovery) and a beautiful vase
   on which is painted the return of Persephone from Hades and the
   setting out of Triptolemus for Attica. In a neighbouring tomb was what
@@ -94,9 +94,9 @@ Crimean War.
   distinct date (491) was discovered. Its walls were covered with Greek
   inscriptions and crosses.
 
-  See H. D. Seymour's _Russia on the Black Sea and Sea of Azoff_
+  See H. D. Seymour's _Russia on the [[Black Sea]] and Sea of Azoff_
   (London, 1855); J. B. Telfer, _The Crimea_ (London, 1876); P. Bruhn,
-  _Tchernomore, 1852-1877_ (Odessa, 1878); Gilles, _Antiquités du
+  _Tchernomore, 1852-1877_ (Odessa, 1878); [[Gill|Gilles]], _Antiquités du
   Bosphore Cimmérien_ (1854); D. Macpherson, _Antiquities of Kertch_
   (London, 1857); _Compte rendu de la Commission Imp. Archéologique_ (St
   Petersburg); L. Stephani, _Die Alterthümer vom Kertsch_ (St

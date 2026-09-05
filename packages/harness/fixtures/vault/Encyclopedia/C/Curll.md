@@ -30,7 +30,7 @@ number, fortunately, were quite free from "Curlicisms." A list of his
 publications contains, indeed, 167 standard works. He died on the 11th
 of December 1747.
 
-  For Curll's relations with Pope, see the _Life of Pope_, by Sir Leslie
+  For Curll's relations with Pope, see the _Life of Pope_, by Sir [[Leslie]]
   Stephen in the English Men of Letters series.
 
 ## References

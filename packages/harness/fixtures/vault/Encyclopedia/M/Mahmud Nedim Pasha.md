@@ -11,20 +11,20 @@ Abd-ul-Aziz and fell much under the influence of General Ignatiev, the
 forceful Russian ambassador before the war of 1877-78, his subserviency
 to Russia earning for him the nickname of "Mahmudoff." His
 administration was most unsuccessful from every point of view, and he
-was largely responsible for the issue of the decree suspending the
+was largely responsible for the issue of the [[Decree|decree]] suspending the
 interest on the Turkish funds. He was minister of the interior from 1879
 to 1883.
 
 
 
 
-MAHMUD[1] OF GHAZNI (971-1030), son of Sabuktagin, Afghan conqueror, was
+MAHMUD[1] OF [[Ghazni|GHAZNI]] (971-1030), son of Sabuktagin, Afghan conqueror, was
 born on the 2nd of October 971. His fame rests chiefly on his successful
 wars, in particular his numerous invasions of India. His military
 capacity, inherited from his father, Nasir-ud-din Sabuktagin, was
 strengthened by youthful experience in the field. Sabuktagin, a Turki
-slave of Alptagin, governor of Khorasan under Abdalmalik I. b. Nuh of
-the Samanid dynasty of Bokhara, early brought himself to notice (see
+slave of Alptagin, governor of [[Khorasan]] under Abdalmalik I. b. Nuh of
+the Samanid dynasty of [[Bokhara]], early brought himself to notice (see
 SAMANIDS). He was raised to high office in the state by Alptagin's
 successor, Abu Ishak, and in A.H. 366 (A.D. 977), by the choice of the
 nobles of Ghazni, he became their ruler. He soon began to make conquests
@@ -35,7 +35,7 @@ Jaipal, raja of Lahore, whom Sabuktagin defeated on the Punjab frontier.
 
 In 994 Mahmud was made governor of Khorasan, with the title of Saif
 addaula (ud-daula) ("Sword of the State") by the Samanid Nuh II. Two
-years later, his father Sabuktagin died in the neighbourhood of Balkh,
+years later, his father Sabuktagin died in the neighbourhood of [[Balkh]],
 having declared his second son, Ismail, who was then with him, to be his
 successor. As soon as Ismail had assumed the sovereignty at Balkh,
 Mahmud, who was at Nishapur, addressed him in friendly terms, proposing
@@ -53,11 +53,11 @@ succeeding to his father's dominions, when he received from Qadir,
 caliph of Bagdad (see CALIPHATE, C. § 25), a _khilat_ (robe of honour),
 with a letter recognizing his sovereignty, and conferring on him the
 titles _Yamiin-addaula_ ("Right hand of the State"), and
-_Amin-ul-Millat_ ("Guardian of the Faith"). From this time it is the
-name of the caliph that is inscribed on Mahmud's coins, together with
-his own new titles. Previously the name of the Samanid sovereign, Mansur
+_Amin-ul-Millat_ ("[[Guardian]] of the Faith"). From this time it is the
+name of the caliph that is inscribed on Mahmud's [[Coin|coins]], together with
+his own new titles. Previously the name of the Samanid sovereign, [[Mansur]]
 II. b. Nuh is given along with his own former title, Saif addaula
-Mahmud. The earliest of those of the new form gives his name Mahmud bin
+Mahmud. The earliest of those of the new form gives his name Mahmud [[Bin|bin]]
 Sabuktagin. Thereafter his father's name does not appear on his coins,
 but it is inscribed again on his tomb.
 
@@ -83,7 +83,7 @@ expedition, is said to have taken the distinctive appellation of _Ghazi_
 occasion (1005) Mahmud advanced, as far as Bhera on the Jhelum, when his
 adversary Anang-pal, son and successor of Jaipal, fled to Kashmir. The
 following year saw Mahmud at Multan. When he was in the Punjab at this
-time, he heard of the invasion of Khorasan by the Ilek Khan Nasr I.
+time, he heard of the invasion of Khorasan by the Ilek [[Khan]] Nasr I.
 ruler of Transoxiana whose daughter Mahmud had married. After a rapid
 march back from India, Mahmud repelled the invaders. The Ilek Khan,
 having retreated across the Oxus, returned with reinforcements, and took
@@ -92,10 +92,10 @@ Mahmud.
 
 Mahmud again entered the Punjab in 1008, this time for the express
 purpose of chastising Sewah Pal, who, having become a Mussulman, and
-been left by Mahmud in charge of Multan, had relapsed to Hinduism. The
+been left by Mahmud in charge of Multan, had relapsed to [[Hinduism]]. The
 Indian campaign of 1009 was notable. Near the Indus Mahmud was opposed
 again by Anang-pal, supported by powerful rajas from other parts of
-India. After a severe fight, Anang-pal's elephants were so terror-struck
+India. After a severe fight, Anang-pal's [[Elephant|elephants]] were so terror-struck
 by the fire-missiles flung amongst them by the invaders that they turned
 and fled, the whole army retreating in confusion and leaving Mahmud
 master of the field. Mahmud, after this victory, pushed on through the
@@ -104,27 +104,27 @@ temples to enrich his treasury at Ghazni. In 1011 Mahmud, after a short
 campaign against the Afghans under Mahommed ibn Sur in the hill country
 of Ghur, marched again into the Punjab. The next time (1014) he advanced
 to Thanesar, another noted stronghold of Hinduism, between the Sutlej
-and the Jumna. Having now found his way across all the Punjab rivers, he
+and the [[Jumna]]. Having now found his way across all the Punjab rivers, he
 was induced on two subsequent occasions to go still farther. But first
 he designed an invasion of Kashmir (1015), which was not carried out, as
 his progress was checked at Loh-kot, a strong hill fort in the
 north-west of the Punjab. Then before undertaking his longer inroad into
-Hindustan he had to march north into Khwarizm (Khiva) against his
+Hindustan he had to march north into Khwarizm ([[Khiva]]) against his
 brother-in-law Mamun, who had refused to acknowledge Mahmud's supremacy.
 The result was as usual, and Mahmud, having committed Khwarizm to a new
 ruler, one of Mamun's chief officers, returned to his capital. Then in
 1018, with a very large force, he proceeded to India again, extending
 his inroad this time to the great Hindu cities of Mathra on the Jumna
-and Kanauj on the Ganges. He reduced the one, received the submission of
+and Kanauj on the [[Ganges]]. He reduced the one, received the submission of
 the other, and carried back great stores of plunder. Three years later
 he went into India again, marching over nearly the same ground, to the
 support, this time, of the raja of Kanauj, who, having made friendship
 with the Mahommedan invader on his last visit, had been attacked by the
-raja of Kalinjar. But Mahmud found he had not yet sufficiently subdued
+raja of [[Kalinjar]]. But Mahmud found he had not yet sufficiently subdued
 the idolaters nearer his own border, between Kabul and the Indus, and
 the campaign of 1022 was directed against them, and reached no farther
 than Peshawar. Another march into India the following year was made
-direct to Gwalior.
+direct to [[Gwalior]].
 
 The next expedition (1025) is the most famous of all. The point to which
 it was directed was the temple of Somnath on the coast of the Gujarat
@@ -134,7 +134,7 @@ fruitless resistance on the part of the Hindus of Gujarat. Moslem feet
 soon trod the courts of the great temple. The chief object of worship it
 contained was broken up, and the fragments kept to be carried off to
 Ghazni. The story is often told of the hollow figure, cleft by Mahmud's
-battle-axe, pouring out great store of costly jewels and gold. But the
+battle-axe, pouring out great store of costly [[Jewel|jewels]] and gold. But the
 idol in this Sivite temple was only a tall block or pillar of hewn
 stone, of a familiar kind. The popular legend is a very natural one.
 Mahmud, it was well known, made Hindu temples yield up their most
@@ -150,7 +150,7 @@ into the Punjab. His brilliant military career closed with an expedition
 to Persia, in the third year after this, his last, visit to India. The
 Indian campaigns of Mahmud and his father were almost, but not
 altogether, unvarying successes. The Moslem historians touch lightly on
-reverses. And, although the annals of Rajputana tell how Sabuktagin was
+reverses. And, although the [[Annals|annals]] of Rajputana tell how Sabuktagin was
 defeated by one raja of Ajmere and Mahmud by his successor, the course
 of events which followed shows how little these and other reverses
 affected the invader's progress. Mahmud's failure at Ajmere, when the
@@ -177,7 +177,7 @@ doctors.
   The principal histories of Mahmud's reign are--_Kitab-i-Yamini_
   (Utbi); _Tarikh-us-Subuktigin_ (Baihaki); _Tabakat i Nasiri_ (Minhaj
   el-Siraj); _Rauzat-us-Safa_ (Mir Khond); _Habib-us-Sivar_ (Khondamir).
-  See Elliot, _History of India_; Elphinstone, _History of India_; and
+  See Elliot, _History of India_; [[Elphinstone]], _History of India_; and
   Roos-Keppel's translation of the _Tarikh-i-Sultan Mahmud-i-Ghaznavi_
   (1901).
 

@@ -8,7 +8,7 @@ id: 42-5181
 
 # Maclise
 
-MACLISE, DANIEL (1806-1870), Irish painter, was born at Cork, the son of
+MACLISE, [[Daniel|DANIEL]] (1806-1870), Irish painter, was born at Cork, the son of
 a Highland soldier. His education was of the plainest kind, but he was
 eager for culture, fond of reading, and anxious to become an artist. His
 father, however, placed him, in 1820, in Newenham's Bank, where he
@@ -23,20 +23,20 @@ accessory. Various influential friends perceived the genius and promise
 of the lad, and were anxious to furnish him with the means of studying
 in the metropolis; but with rare independence he refused all aid, and by
 careful economy saved a sufficient sum to enable him to leave for
-London. There he made a lucky hit by a sketch of the younger Kean,
+London. There he made a lucky [[Hit|hit]] by a sketch of the younger Kean,
 which, like his portrait of Scott, was lithographed and published. He
 entered the Academy schools in 1828, and carried off the highest prizes
 open to the students. In 1829 he exhibited for the first time in the
 Royal Academy. Gradually he began to confine himself more exclusively to
 subject and historical pictures, varied occasionally by portraits of
-Campbell, Miss Landon, Dickens, and other of his literary friends. In
+Campbell, Miss Landon, [[Dickens]], and other of his literary friends. In
 1833 he exhibited two pictures which greatly increased his reputation,
 and in 1835 the "Chivalric Vow of the Ladies and the Peacock" procured
 his election as associate of the Academy, of which he became full member
 in 1840. The years that followed were occupied with a long series of
 figure pictures, deriving their subjects from history and tradition and
-from the works of Shakespeare, Goldsmith and Le Sage. He also designed
-illustrations for several of Dickens's Christmas books and other works.
+from the works of Shakespeare, Goldsmith and [[Le Sage]]. He also designed
+illustrations for several of Dickens's [[Christmas]] books and other works.
 Between the years 1830 and 1836 he contributed to _Fraser's Magazine_,
 under the pseudonym of Alfred Croquis, a remarkable series of portraits
 of the literary and other celebrities of the time--character studies,

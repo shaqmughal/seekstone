@@ -18,8 +18,8 @@ publicly, the proper form is an advertisement in a newspaper; if made
 within the hearing of a few only, a letter of apology, which may be read
 to those who have heard what was said, should be sufficient. By the
 English Libel Act 1843, s. 2, it was enacted that in an action for libel
-contained in a newspaper it is a defence for the defendant to plead that
-the libel was inserted without actual malice and without gross
+contained in a newspaper it is a defence for the [[Defendant|defendant]] to plead that
+the libel was inserted without actual malice and without [[Gross|gross]]
 negligence, and that before the commencement of the action and at the
 earliest opportunity afterwards he inserted in the newspaper a full
 apology for the libel, or, where the newspaper in which the libel

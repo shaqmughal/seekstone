@@ -1,13 +1,13 @@
 # Cenci
 
-CENCI, BEATRICE (1577-1599), a Roman woman, famous for her tragic story;
-poetic fancy has woven a halo of romance about her, which modern
+CENCI, [[Beatrice|BEATRICE]] (1577-1599), a Roman woman, famous for her tragic story;
+poetic [[Fancy|fancy]] has woven a [[Halo|halo]] of romance about her, which modern
 historic research has to a large extent destroyed. Born at Rome, she was
-the daughter of Francesco Cenci (1549-1598), the bastard son of a
+the daughter of Francesco Cenci (1549-1598), the [[Bastard|bastard]] son of a
 priest, and a man of great wealth but dissolute habits and violent
 temper. He seems to have been guilty of various offences and to have got
-off with short terms of imprisonment by bribery; but the monstrous
-cruelty which popular tradition has attributed to him is purely
+off with short terms of imprisonment by [[Bribery|bribery]]; but the monstrous
+[[Cruelty|cruelty]] which popular tradition has attributed to him is purely
 legendary. His first wife, Ersilia Santa Croce, bore him twelve
 children, and nine years after her death he married Lucrezia Petroni, a
 widow with three daughters, by whom he had no offspring. He was very
@@ -36,16 +36,16 @@ hardships they underwent in prison is greatly exaggerated. Guerra
 escaped; Lucrezia, Giacomo and Bernardo confessed the crime; and
 Beatrice, who at first denied everything, even under torture, also ended
 by confessing. Great efforts were made to obtain mercy for the accused,
-but the crime was considered too heinous, and the pope (Clement VIII.)
+but the crime was considered too heinous, and the pope ([[Clement]] VIII.)
 refused to grant a pardon; on the 11th of September 1599, Beatrice and
 Lucrezia were beheaded, and Giacomo, after having been tortured with
-red-hot pincers, was killed with a mace, drawn and quartered. Bernardo's
+red-hot pincers, was killed with a [[Mace|mace]], drawn and quartered. Bernardo's
 penalty, on account of his youth, was commuted to perpetual
 imprisonment, and after a year's confinement he was pardoned. The
 property of the family was confiscated.
 
   The romantic character of the history of this family has been the
-  subject of poems, dramas and novels. Shelley's tragedy is well known
+  subject of poems, [[Drama|dramas]] and novels. Shelley's tragedy is well known
   as a magnificent piece of writing, although the author adopts a purely
   fictitious version of the story. Nor is F.D. Guerrazzi's novel,
   _Beatrice Cenci_ (Milan, 1872), more trustworthy. The first attempt to

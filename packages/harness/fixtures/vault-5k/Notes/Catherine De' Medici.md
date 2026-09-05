@@ -30,13 +30,13 @@ possible extinction of the royal house, might listen to such a proposal.
 But Catherine had the happiness of bringing him grandchildren ere he
 died. During the reign of her husband, too (1547-1559), Catherine lived
 a quiet and passive, but observant life. Henry being completely under
-the influence of his mistress, Diane de Poitiers, she had little
+the influence of his mistress, [[Diane De Poitiers|Diane de Poitiers]], she had little
 authority. In 1552, when the king left the kingdom for the campaign of
 Metz, she was nominated regent, but with very limited powers. This
 continued even after the accession of her son Francis II. Francis was
 under the spell of Mary Stuart, and she, little disposed to meddle with
 politics on her own account, was managed by her uncles, the cardinal of
-Lorraine and the duke of Guise. The queen-mother, however, soon grew
+[[Lorraine]] and the duke of Guise. The queen-mother, however, soon grew
 weary of the domination of the Guises, and entered upon a course of
 secret opposition. On the 1st of April 1560 she placed in the
 chancellorship Michel de l'Hopital (q.v.), who advocated the policy of
@@ -63,7 +63,7 @@ resolved not to allow them to be utterly crushed, in order to use them
 as a counterpoise to the Guises. This trimming policy met with little
 success: rage and suspicion so possessed men's minds, that she could no
 longer control the opposing parties, and one civil war followed another
-to the end of her life. In 1567, after the "Enterprise of Meaux," she
+to the end of her life. In 1567, after the "Enterprise of [[Meaux]]," she
 dismissed l'Hopital and joined the Catholic party. But, having failed to
 crush the Protestant rebellion by arms, she resumed in 1570 the policy
 of peace and negotiation. She conceived the project of marrying her
@@ -74,7 +74,7 @@ re-enter the council. Of this step she quickly repented. Charles IX.
 conceived a great affection for the admiral and showed signs of taking
 up an independent attitude. Catherine, thinking her influence menaced,
 sought to regain it, first by the murder of Coligny, and, when that had
-failed, by the massacre of St Bartholomew (q.v.). The whole of the
+failed, by the [[Massacre|massacre]] of St Bartholomew (q.v.). The whole of the
 responsibility for this crime, therefore, rests with Catherine; unlike
 the populace, she had not even the excuse of fanaticism. This
 responsibility, however, weighed but lightly on her; while her son was
@@ -86,13 +86,13 @@ unnecessary to dwell upon it. She died on the 5th of January 1589, a
 short time before the assassination of Henry, and the consequent
 extinction of the House of Valois. In her taste for art and her love of
 magnificence and luxury, Catherine was a true Medici; her banquets at
-Fontainebleau in 1564 were famous for their sumptuousness. In
+[[Fontainebleau]] in 1564 were famous for their sumptuousness. In
 architecture especially she was well versed, and Philibert de l'Orme
 relates that she discussed with him the plan and decoration of her
-palace of the Tuileries. Catherine's policy provoked a crowd of
+palace of the Tuileries. Catherine's policy provoked a [[Crowd|crowd]] of
 pamphlets, the most celebrated being the _Discours merveilleux de la
 vie, actions et deportemens de la reine Catherine de Medicis_, in which
-Henri Estienne undoubtedly collaborated.
+Henri [[Estienne]] undoubtedly collaborated.
 
   See _Lettres de Catherine de Medicis_, edited by Hector de la Ferriere
   (Paris, 1880, seq.), in the _Collection de documents inedits sur

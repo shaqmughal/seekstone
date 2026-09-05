@@ -14,15 +14,15 @@ _The Feast of Dedication_ ([Hebrew: hanuka]; [Greek: ta egkainia]) was a
 Jewish festival observed for eight days from the 25th of Kislev (i.e.
 about December 12) in commemoration of the reconsecration (165 B.C.) of
 the temple and especially of the altar of burnt offering, after they had
-been desecrated in the persecution under Antiochus Epiphanes (168 B.C.).
-The distinguishing features of the festival were the illumination of
+been desecrated in the persecution under [[Antiochus]] Epiphanes (168 B.C.).
+The distinguishing features of the festival were the [[Illumination|illumination]] of
 houses and synagogues, a custom probably taken over from the feast of
 tabernacles, and the recitation of Psalm xxx. The biblical references
 are 1 Macc. i. 41-64, iv. 36-39; 2 Macc. vi. 1-11; John x. 22. See also
 2 Macc. i. 9, 18; ii. 16; and Josephus, _Antiq._ xii. v. 4. J.
 Wellhausen suggests that the feast was originally connected with the
 winter solstice, and only afterwards with the events narrated in
-Maccabees.
+[[Maccabees]].
 
 _Dedication of Churches._--The custom of solemnly dedicating or
 consecrating buildings as churches or chapels set apart for Christian
@@ -32,7 +32,7 @@ or post-apostolic writings, it is merely due to the fact that Christian
 churches had not as yet begun to be built. Throughout the ante-Nicene
 period, until the reign of Constantine, Christian churches were few in
 number, and any public dedication of them would have been attended with
-danger in those days of heathen persecution. This is why we are ignorant
+danger in those days of [[Heathen|heathen]] persecution. This is why we are ignorant
 as to what liturgical forms and what consecration ritual were employed
 in those primitive times. But when we come to the earlier part of the
 4th century allusions to and descriptions of the consecration of
@@ -40,22 +40,22 @@ churches become plentiful.
 
 Like so much else in the worship and ritual of the Christian church this
 service is probably of Jewish origin. The hallowing of the tabernacle
-and of its furniture and ornaments (Exodus xl.); the dedication of
+and of its furniture and ornaments ([[Exodus]] xl.); the dedication of
 Solomon's temple (1 Kings viii.) and of the second temple by Zerubbabel
-(Ezra vi.), and its rededication by Judas Maccabaeus (see above), and
-the dedication of the temple of Herod the Great (Josephus, _Antiq. of
+([[Ezra]] vi.), and its rededication by Judas Maccabaeus (see above), and
+the dedication of the temple of [[Herod]] the Great (Josephus, _Antiq. of
 the Jews_, bk. xv. c. xi. S 6), and our Lord's recognition of the Feast
 of Dedication (St John xi. 22, 23)--all these point to the probability
 of the Christians deriving their custom from a Jewish origin, quite
 apart from the intrinsic appropriateness of such a custom in itself.
 
-Eusebius (_Hist. Eccles._ lib. x. cap. 3) speaks of the dedication of
-churches rebuilt after the Diocletian persecution, including the church
+[[Eusebius]] (_Hist. Eccles._ lib. x. cap. 3) speaks of the dedication of
+churches rebuilt after the [[Diocletian]] persecution, including the church
 at Tyre in A.D. 314. The consecrations of the church of the Holy
 Sepulchre at Jerusalem in A.D. 335, which had been built by Constantine,
 and of other churches after his time, are described both by Eusebius and
 by other ecclesiastical historians. From them we gather that every
-consecration was accompanied by a celebration of the Holy Eucharist and
+consecration was accompanied by a celebration of the Holy [[Eucharist]] and
 a sermon, and special prayers of a dedicatory character, but there is no
 trace of the elaborate ritual, to be described presently, of the
 medieval pontificals dating from the 8th century onwards.
@@ -63,16 +63,16 @@ medieval pontificals dating from the 8th century onwards.
 The separate consecration of altars is provided for by canon 14 of the
 council of Agde in 506, and by canon 26 of the council of Epaone in 517,
 the latter containing the first known reference to the usage of
-anointing the altar with chrism. The use of both holy water and of
+[[Anointing|anointing]] the altar with [[Chrism|chrism]]. The use of both [[Holy Water|holy water]] and of
 unction is attributed to St Columbanus, who died in 615 (Walafrid
 Strabo, _Vita S. Galli_, cap. 6).
 
 There was an annual commemoration of the original dedication of the
 church, a feast with its octave extending over eight days, during which
-Gregory the Great encouraged the erection of booths and general feasting
+Gregory the Great encouraged the erection of [[Booth|booths]] and general feasting
 on the part of the populace, to compensate them for, and in some way to
 take the place of, abolished heathen festivities (Sozomen, _Hist.
-Eccles._ lib. ii. cap. 26; Bede, _Hist. Eccles._ lib. i. cap. 30).
+Eccles._ lib. ii. cap. 26; [[Bede]], _Hist. Eccles._ lib. i. cap. 30).
 
 At an early date the right to consecrate churches was reserved to
 bishops, as by canon 37 of the first council of Bracara in 563, and by
@@ -98,7 +98,7 @@ There is a preliminary office for laying a foundation-stone. On the day
 of consecration the bishop is to vest in a tent outside the church,
 thence to proceed to the door of the church on the outside, a single
 deacon being inside the church, and there to bless holy water, twelve
-lighted candles being placed outside, and twelve inside the church. He
+lighted [[Candle|candles]] being placed outside, and twelve inside the church. He
 is then to sprinkle the walls all round outside, and to knock at the
 door; then to sprinkle the walls all round outside a second time and to
 knock at the door again; then to sprinkle the walls all round outside a
@@ -124,13 +124,13 @@ outside, censing it.
 Then there follows the consecration of the altar. First, holy water is
 blessed and mixed with chrism, and with the mixture the bishop makes a
 cross in the middle of the altar, then on the right and the left, then
-on the four horns of the altar. Then the altar is sprinkled seven times
+on the four [[Horn|horns]] of the altar. Then the altar is sprinkled seven times
 or three times with water not mixed with chrism, and the altar-table is
 washed therewith and censed and wiped with a linen cloth. The centre of
 the altar is next anointed with the oil of the catechumens in the form
 of a cross; and the altar-stone is next anointed with chrism; and then
 the whole altar is rubbed over with oil of the catechumens and with
-chrism. Incense is next blessed, and the altar censed, five grains of
+chrism. [[Incense]] is next blessed, and the altar censed, five grains of
 incense being placed crosswise in the centre and at the four corners,
 and upon the grains five slender candle crosses, which are to be lit.
 Afterwards the altar is scraped and cleansed; then the altar-cloths and
@@ -155,7 +155,7 @@ then sprinkled the pavement from the altar to the porch, and sideways
 from wall to wall, and then to the four quarters of the compass, he
 prepares some cement at the altar. He then goes to the place where the
 relics are kept, and starts a solemn procession with the relics round
-the outside of the church. There a sermon is preached, and two decrees
+the outside of the church. There a sermon is preached, and two [[Decree|decrees]]
 of the council of Trent are read, and the founder's deed of gift or
 endowment. Then the bishop, anointing the door with chrism, enters the
 church with the relics and deposits them in the cavity or confession in
@@ -205,14 +205,14 @@ excluded, the bishop and clergy vested proceed to fix in its place and
 consecrate the altar, a long prayer of dedication being said, followed
 by a litany. The altar is then sprinkled with warm water, then with
 wine, then anointed with chrism in the form of a cross. The altar, the
-book of the gospels, and all cloths are then censed, every pillar is
+book of the [[Gospel|gospels]], and all cloths are then censed, every pillar is
 crossed with chrism, while various collects are said and psalms recited.
-One lamp is then filled with oil and lit, and placed on the altar, while
+One [[Lamp|lamp]] is then filled with oil and lit, and placed on the altar, while
 clergy bring in other lamps and other ornaments of the church. On the
 next day--if the service cannot be concluded in one day--the bishop and
 clergy go to the building where the relics have been kept and guarded. A
 procession is formed and advances thence with the relics, which are
-borne by a priest in a holy vessel (_discus_) on his head; the church
+borne by a priest in a holy vessel (_[[Discus|discus]]_) on his head; the church
 having been entered, the relics are placed by him with much ceremonial
 in the "confession," the recess prepared in or about the altar for their
 reception, which is then anointed and sealed up. After this the liturgy
@@ -221,7 +221,7 @@ afterwards.
 
 There is no authorized form for the dedication of a church in the
 reformed Church of England. A form was drawn up and approved by both
-houses of the convocation of Canterbury under Archbishop Tenison in
+houses of the [[Convocation|convocation]] of Canterbury under Archbishop Tenison in
 1712, and an almost identical form was submitted to convocation in 1715,
 but its consideration was not completed by the Lower House, and neither
 form ever received royal sanction. The consequence has been that
@@ -235,14 +235,14 @@ door, outside, a petition for consecration; the procession then moves
 round the whole church outside, while certain psalms are chanted. On
 again reaching the west door the bishop knocks thrice for admission, and
 the door being opened the procession advances to the east end of the
-church. He there lays the keys on the table "which is to be hallowed."
+church. He there lays the [[Key|keys]] on the table "which is to be hallowed."
 The _Veni Creator_ is then sung kneeling, followed by the litany with
 special suffrages. The bishop then proceeds to various parts of the
-church and blesses the font, the chancel, with special references to
-confirmation and holy matrimony, the lectern, the pulpit, the clergy
-stalls, the choir seats, the holy table. The deed of consecration is
+church and blesses the font, the [[Chancel|chancel]], with special references to
+confirmation and holy [[Matrimony|matrimony]], the [[Lectern|lectern]], the pulpit, the clergy
+stalls, the [[Choir|choir]] seats, the holy table. The deed of consecration is
 then read and signed, and the celebration of Holy Communion follows with
-special collects, epistle and gospel.
+special collects, [[Epistle|epistle]] and gospel.
 
 The Church of Ireland and the episcopal Church of Scotland are likewise
 without any completely authorized form of dedication, and their

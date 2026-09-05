@@ -1,14 +1,14 @@
 # G. B. B. - Gerard Baldwin Brown
 
-G. B. B. - GERARD BALDWIN BROWN, M.A.
-Professor of Fine Arts, University of Edinburgh. Formerly Fellow of
+G. B. B. - GERARD [[Baldwin|BALDWIN]] BROWN, M.A.
+Professor of [[Fine Arts]], University of Edinburgh. Formerly [[Fellow]] of
 Brasenose College, Oxford. Author of _From Schola to Cathedral_; _The Fine
 Arts_; &c.
 
 - Basilica (_in part_).
 
-G. B. G.* - GEORGE BUCHANAN GRAY, M.A., D.D., D.LITT. (Oxon.)
-Professor of Hebrew and Old Testament Exegesis, Mansfield College, Oxford.
+G. B. G.* - GEORGE [[Buchanan|BUCHANAN]] GRAY, M.A., D.D., D.LITT. (Oxon.)
+Professor of Hebrew and Old Testament Exegesis, [[Mansfield]] College, Oxford.
 Examiner in Hebrew, University of Wales. Author of _The Divine Discipline
 of Israel_; &c.
 

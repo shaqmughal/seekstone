@@ -24,9 +24,9 @@ arrested on a charge of treason, and with the help of false witnesses he
 was found guilty and condemned to death. For this the prophet Elijah
 pronounced a solemn curse upon Ahab and Jezebel, which was fulfilled
 when Jehu, who was anointed king at Elisha's instigation, killed the son
-Jehoram, massacred all the family, and had Jezebel destroyed (1 Kings
+[[Jehoram]], massacred all the family, and had Jezebel destroyed (1 Kings
 xxi.; 2 Kings ix. 11-28). What is told of her comes from sources written
-under the influence of strong religious bias; among the exaggerations
+under the influence of strong religious [[Bias|bias]]; among the exaggerations
 must be reckoned 1 Kings xviii. 13, which is inconsistent with xix. 18
 and xxii. 6. A literal interpretation of the reference to Jezebel's
 idolatry (2 Kings ix. 22) has made her name a byword for a false

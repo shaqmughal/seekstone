@@ -25,7 +25,7 @@ chancellor and librarian under Innocent II., was the successor of
 Celestine II. His stormy pontificate was marked by the erection of a
 revolutionary republic at Rome which sought to deprive the pope of his
 temporal power, and by the recognition of papal suzerainty over
-Portugal. He was succeeded by Eugenius III.
+Portugal. He was succeeded by [[Eugenius]] III.
 
   His letters are in J. P. Migne, _Patrol. Lat._ vol. 179. A single
   unreliable writer, Godfrey of Viterbo (in J. M. Watterich, _Pontif.
@@ -37,7 +37,7 @@ Portugal. He was succeeded by Eugenius III.
   Hamilton (London, 1896).
 
 LUCIUS III. (Ubaldo Allucingoli), pope from the 1st of September 1181 to
-the 25th of November 1185, a native of Lucca and a Cistercian monk,
+the 25th of November 1185, a native of [[Lucca]] and a Cistercian monk,
 named cardinal-priest of Sta Prassede by Innocent II. and
 cardinal-bishop of Ostia and Velletri by Adrian IV., succeeded Alexander
 III. He lived at Rome from November 1181 to March 1182, but dissensions

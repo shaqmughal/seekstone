@@ -14,14 +14,14 @@ company Eccard is said to have visited Paris, but in 1574 we find him
 again at Muehlhausen, where he resided for four years, and edited,
 together with Johann von Burgk, his first master, a collection of sacred
 songs, called _Crepundia sacra Helmboldi_ (1577). Soon afterwards he
-obtained an appointment as musician in the house of Jacob Fugger, the
-Augsburg banker. In 1583 he became assistant conductor, and in 1599
-conductor, at Koenigsberg, to Georg Friedrich, margrave of
+obtained an appointment as musician in the house of [[Jacob]] [[Fugger]], the
+[[Augsburg]] banker. In 1583 he became assistant conductor, and in 1599
+conductor, at Koenigsberg, to Georg [[Friedrich]], margrave of
 Brandenburg-Anspach, the administrator of Prussia. In 1608 he was called
 by the elector Joachim Friedrich to Berlin as chief conductor, but this
 post he held only for three years, owing to his premature death at
 Koenigsberg in 1611. Eccard's works consist exclusively of vocal
-compositions, such as songs, sacred cantatas and chorales for four or
+compositions, such as songs, sacred cantatas and [[Chorale|chorales]] for four or
 five, and sometimes for seven, eight, or even nine voices. Their
 polyphonic structure is a marvel of art, and still excites the
 admiration of musicians. At the same time his works are instinct with a
@@ -39,7 +39,7 @@ inseparably connected with the history of the Reformation.
 
 ECCELINO [or EZZELINO] DA ROMANO (1194-1259), Ghibelline leader, and
 supporter of the emperor Frederick II., was born on the 25th of April
-1194. He belonged to a family descended from a German knight named
+1194. He belonged to a family descended from a German [[Knight|knight]] named
 Eccelin, who followed the emperor Conrad II. to Italy about 1036, and
 received the fief of Romano near Padua. Eccelin's grandson was Eccelino
 III., surnamed the Monk, who divided his lands between his two sons in
@@ -53,7 +53,7 @@ Verona he was saved by the advance of the emperor, who in November of
 the same year took Vicenza and entrusted its government to Eccelino. In
 1237 he obtained authority over Padua and Treviso; and on the 27th of
 November in that year he shared in the victory gained by the emperor
-over the Lombards at Cortenuova. In 1238 he married Frederick's natural
+over the [[Lombards]] at Cortenuova. In 1238 he married Frederick's natural
 daughter, Selvaggia; in 1239 was appointed imperial vicar of the march
 of Treviso; but in the same year was excommunicated by Pope Gregory IX.
 He was constantly engaged in increasing his possessions; was present at
@@ -71,14 +71,14 @@ take nourishment, and died at Soncino on the 7th of October 1259. In the
 following year his brother Albert was put to death, and the Romano
 family became extinct. Eccelino, who is sometimes called the _tyrant_,
 acquired a terrible reputation on account of his cruelties, a reputation
-that won for him the immortality of inclusion in Dante's _Inferno_; but
+that won for him the [[Immortality|immortality]] of inclusion in Dante's _Inferno_; but
 his unswerving loyalty to Frederick II. forms a marked contrast to the
 attitude of many of his contemporaries.
 
-Eccelino is the subject of a novel by Cesare Cantu and of a drama by J.
-Eichendorff.
+Eccelino is the subject of a novel by Cesare Cantu and of a [[Drama|drama]] by J.
+[[Eichendorff]].
 
-  See J.M. Gittermann, _Ezzelino da Romano_ (Freiburg, 1890); S. Mitis,
+  See J.M. Gittermann, _Ezzelino da Romano_ ([[Freiburg]], 1890); S. Mitis,
   _Storia d' Ezzelino IV. da Romano_ (Maddaloni, 1896); and F. Stieve,
   _Ezzelino von Romano_ (Leipzig, 1909).
 

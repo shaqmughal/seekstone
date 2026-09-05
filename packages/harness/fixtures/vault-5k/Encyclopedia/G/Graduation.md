@@ -31,7 +31,7 @@ divisions, or a screw or a divided plate; but, once in the possession of
 one such divided instrument, it was a comparatively easy matter to
 employ it as a standard. Hence graduation divides itself into two
 distinct branches, _original graduation_ and _copying_, which latter may
-be done either by the hand or by a machine called a dividing engine.
+be done either by the hand or by a [[Machine|machine]] called a dividing engine.
 Graduation may therefore be treated under the three heads of _original
 graduation_, _copying_ and _machine graduation_.
 
@@ -45,7 +45,7 @@ which belonged to Napier of Merchiston, and which only read to
 minutes--a result, according to Thomson and Tait (_Nat. Phil._), "giving
 no greater accuracy than is now attainable by the pocket sextants of
 Troughton and Simms, the radius of whose arc is little more than an
-inch."
+[[Inch|inch]]."
 
   The original graduation of a straight line is done either by the
   method of continual bisection or by stepping. In continual bisection
@@ -72,7 +72,7 @@ The division of circular arcs is essentially the same in principle as
 the graduation of straight lines.
 
   The first example of note is the 8-ft. mural circle which was
-  graduated by George Graham (1673-1751) for Greenwich Observatory in
+  graduated by George [[Graham]] (1673-1751) for [[Greenwich]] Observatory in
   1725. In this two concentric arcs of radii 96.85 and 95.8 in.
   respectively were first described by the beam-compass. On the inner of
   these the arc of 90 deg. was to be divided into degrees and 12th parts
@@ -284,7 +284,7 @@ In copying circles use is made of the dividing plate. This is a circular
 plate of brass, of 36 in. or more in diameter, carefully graduated near
 its outer edge. It is turned quite flat, and has a steel pin fixed in
 its centre, and at right angles to its plane. For guiding the dividing
-knife an instrument called an index is employed. This is a straight bar
+knife an instrument called an [[Index|index]] is employed. This is a straight bar
 of thin steel of length equal to the radius of the plate. A piece of
 metal, having a V notch with its angle a right angle, is riveted to one
 end of the bar in such a position that the vertex of the notch is
@@ -320,7 +320,7 @@ all succeeding engines for dividing circles.
   direction, it carried the tangent screw with it, and so turned the
   plate, but when it moved in the opposite direction, it left the
   tangent screw, and with it the plate, stationary. Round the spiral
-  groove of the cylinder a catgut band was wound, one end of which was
+  groove of the cylinder a [[Catgut|catgut]] band was wound, one end of which was
   attached to a treadle and the other to a counterpoise weight. When the
   treadle was depressed the tangent screw turned round, and when the
   pressure was removed it returned, in obedience to the weight, to its
@@ -395,11 +395,11 @@ permission.
   can be altogether removed from contact with the plate. The edge of the
   plate is ratched by 4320 teeth which were cut opposite the original
   division by a circular cutter attached to the screw frame. H is the
-  spiral barrel round which the catgut band is wound, one end of which
-  is attached to the crank L on the end of the axis J and the other to a
+  spiral [[Barrel|barrel]] round which the catgut band is wound, one end of which
+  is attached to the [[Crank|crank]] L on the end of the axis J and the other to a
   counterpoise weight not seen. On the other end of J is another crank
   inclined to L and carrying a band and counterpoise weight seen at K.
-  The object of this weight is to balance the former and give steadiness
+  The object of this weight is to [[Balance|balance]] the former and give steadiness
   to the motion. On the axis J is seen a pair of bevelled wheels which
   move the rod I, which, by another pair of bevelled wheels attached to
   the box N, gives motion to the axis M, on the end of which is an

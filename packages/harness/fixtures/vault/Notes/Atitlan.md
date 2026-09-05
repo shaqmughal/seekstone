@@ -7,11 +7,11 @@ topic: philosophy
 # Atitlan
 
 ATITLAN, or SANTIAGO DE ATITLAN, a town in the department of Solola,
-Guatemala, on the southern shore of Lake Atitlan. Pop. (1905) about
+[[Guatemala]], on the southern shore of Lake Atitlan. Pop. (1905) about
 9000, almost all Indians. Cotton-spinning is the chief industry. Lake
 Atitlan is 24 m. long and 10 m. broad, with 64 m. circumference. It
-occupies a crater more than 1000 ft. deep and about 4700 ft. above
-sea-level. The peaks of the Guatemala Cordillera rise round it,
+occupies a [[Crater|crater]] more than 1000 ft. deep and about 4700 ft. above
+sea-level. The peaks of the Guatemala [[Cordillera]] rise round it,
 culminating near its southern end in the volcanoes of San Pedro (7000
 ft.) and Atitlan (11,719 ft.). Although the lake is fed by many small
 mountain torrents, it has no visible outlet, but probably communicates

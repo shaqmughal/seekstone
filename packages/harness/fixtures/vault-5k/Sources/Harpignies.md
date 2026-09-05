@@ -17,7 +17,7 @@ groundwork of sound constructive draughtsmanship, which is so marked a
 feature of his landscape painting. After two years under this exacting
 teacher he went to Italy, whence he returned in 1850. During the next
 few years he devoted himself to the painting of children in landscape
-setting, and fell in with Corot and the other Barbizon masters, whose
+setting, and fell in with [[Corot]] and the other [[Barbizon]] masters, whose
 principles and methods are to a certain extent reflected in his own
 personal art. To Corot he was united by a bond of warm friendship, and
 the two artists went together to Italy in 1860. On his return, he scored

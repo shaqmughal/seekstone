@@ -8,8 +8,8 @@ tags: [history, ancient-greece]
 # Hydraulics
 
 HYDRAULICS (Gr. [Greek: hydôr], water, and [Greek: aulos], a pipe), the
-branch of engineering science which deals with the practical
-applications of the laws of hydromechanics.
+branch of [[Engineering|engineering]] science which deals with the practical
+applications of the laws of [[Hydromechanics|hydromechanics]].
 
 
 I. THE DATA OF HYDRAULICS[1]
@@ -64,7 +64,7 @@ motion of their parts. This resistance diminishes with the velocity of
 the relative motion, and becomes zero in a fluid the parts of which are
 relatively at rest. When the relative motion of different parts of a
 fluid is small, the viscosity may be neglected without introducing
-important errors. On the other hand, where there is considerable
+important [[Error|errors]]. On the other hand, where there is considerable
 relative motion, the viscosity may be expected to have an influence too
 great to be neglected.
 
@@ -93,7 +93,7 @@ great to be neglected.
 
     R = [kappa]´[omega](nV).   (2)
 
-  But equations (1) and (2) may both be expressed in one equation if
+  But [[Equation|equations]] (1) and (2) may both be expressed in one equation if
   [kappa] and [kappa]´ are replaced by a constant varying inversely as
   the thickness of the layer. Putting [kappa] = [mu]/T, [kappa]´ =
   [mu]/nT,
@@ -107,7 +107,7 @@ great to be neglected.
   an expression first proposed by L. M. H. Navier. The coefficient [mu]
   is termed the coefficient of viscosity.
 
-  According to J. Clerk Maxwell, the value of [mu] for air at [theta]°
+  According to J. Clerk [[Maxwell]], the value of [mu] for air at [theta]°
   Fahr. in pounds, when the velocities are expressed in feet per second,
   is
 
@@ -117,7 +117,7 @@ great to be neglected.
   temperature and independent of the pressure.
 
   The value of [mu] for water at 77° Fahr. is, according to H. von
-  Helmholtz and G. Piotrowski,
+  [[Helmholtz]] and G. Piotrowski,
 
     [mu] = 0.0000188,
 
@@ -145,7 +145,7 @@ directions, and sliding with finite relative velocities against those
 surrounding them. These slidings develop resistances incomparably
 greater than the viscous resistance due to movements varying
 continuously from point to point. The movements which produce the
-phenomena commonly ascribed to fluid friction must be regarded as
+phenomena commonly ascribed to fluid [[Friction|friction]] must be regarded as
 rapidly or even suddenly varying from one point to another. The internal
 resistances to the motion of the fluid do not depend merely on the
 general velocities of translation at different points of the fluid (or
@@ -174,7 +174,7 @@ RELATION OF PRESSURE, DENSITY, AND TEMPERATURE OF LIQUIDS
   litre contains one kilogram of water at 4° C. or 1000 kilograms per
   cubic metre. River and spring water is not sensibly denser than pure
   water. But average sea water weighs 64 lb. per cub. ft. at 53° F. The
-  weight of water per cubic unit will be denoted by G. Ice free from air
+  weight of water per cubic unit will be denoted by G. [[Ice]] free from air
   weighs 57.28 lb. per cub. ft. (Leduc).
 
   § 6. _Compressibility of Liquids._--The most accurate experiments show
@@ -208,7 +208,7 @@ RELATION OF PRESSURE, DENSITY, AND TEMPERATURE OF LIQUIDS
 
   According to the experiments of Grassi, the compressibility of water
   diminishes as the temperature increases, while that of ether, alcohol
-  and chloroform is increased.
+  and [[Chloroform|chloroform]] is increased.
 
   § 7. _Change of Volume and Density of Water with Change of
   Temperature._--Although the change of volume of water with change of
@@ -269,7 +269,7 @@ RELATION OF PRESSURE, DENSITY, AND TEMPERATURE OF LIQUIDS
     +-----+-------+----------+----------+
 
   The weight per cubic foot has been calculated from the values of
-  [rho], on the assumption that 1 cub. ft. of water at 39.2° Fahr. is
+  [rho], on the [[Assumption|assumption]] that 1 cub. ft. of water at 39.2° Fahr. is
   62.425 lb. For ordinary calculations in hydraulics, the density of
   water (which will in future be designated by the symbol G) will be
   taken at 62.4 lb. per cub. ft., which is its density at 53° Fahr. It
@@ -279,7 +279,7 @@ RELATION OF PRESSURE, DENSITY, AND TEMPERATURE OF LIQUIDS
   § 8. _Pressure Column. Free Surface Level._--Suppose a small vertical
   pipe introduced into a liquid at any point P (fig. 3). Then the liquid
   will rise in the pipe to a level OO, such that the pressure due to the
-  column in the pipe exactly balances the pressure on its mouth. If the
+  column in the pipe exactly [[Balance|balances]] the pressure on its mouth. If the
   fluid is in motion the mouth of the pipe must be supposed accurately
   parallel to the direction of motion, or the impact of the liquid at
   the mouth of the pipe will have an influence on the height of the
@@ -398,7 +398,7 @@ stream.
   to change, and it is then said to have reached a condition of
   permanent regime. No river probably is in absolutely permanent regime,
   except perhaps in rocky channels. In other cases the bed is scoured
-  more or less during the rise of a flood, and silted again during the
+  more or less during the rise of a [[Flood|flood]], and silted again during the
   subsidence of the flood. But while many streams of a torrential
   character change the condition of their bed often and to a large
   extent, in others the changes are comparatively small and not easily
@@ -441,7 +441,7 @@ stream.
   from their mutual friction. A much closer approximation to the real
   motion of ordinary streams is thus obtained.
 
-  _Stream Line Motion._--In the preceding hypothesis, all the particles
+  _Stream Line Motion._--In the preceding [[Hypothesis|hypothesis]], all the particles
   in each lamina have the same velocity at any given cross section of
   the stream. If this assumption is abandoned, the cross section of the
   stream must be supposed divided into indefinitely small areas, each
@@ -590,7 +590,7 @@ stream.
   in these experiments a thin sheet of fluid is caused to flow between
   two parallel plates of glass. In the earlier experiments streams of
   very small air bubbles introduced into the water current rendered
-  visible the motions of the water. By the use of a lantern the image of
+  visible the motions of the water. By the use of a [[Lantern|lantern]] the [[Image|image]] of
   a portion of the current can be shown on a screen or photographed. In
   later experiments streams of coloured liquid at regular distances were
   introduced into the sheet and these much more clearly marked out the
@@ -627,13 +627,13 @@ stream.
   or sudden enlargement of a pipe. Lastly, fig. 13 shows the stream
   lines of a current passing an oblique plane. H. S. Hele Shaw,
   "Experiments on the Nature of the Surface Resistance in Pipes and on
-  Ships," _Trans. Inst. Naval Arch._ (1897). "Investigation of Stream
+  Ships," _Trans. Inst. Naval [[Arch]]._ (1897). "Investigation of Stream
   Line Motion under certain Experimental Conditions," _Trans. Inst.
   Naval Arch._ (1898); "Stream Line Motion of a Viscous Fluid," _Report
   of British Association_ (1898).
 
 
-  III. PHENOMENA OF THE DISCHARGE OF LIQUIDS FROM ORIFICES AS
+  III. PHENOMENA OF THE [[Discharge|DISCHARGE]] OF LIQUIDS FROM ORIFICES AS
   ASCERTAINABLE BY EXPERIMENTS
 
   § 16. When a liquid issues vertically from a small orifice, it forms a
@@ -669,7 +669,7 @@ stream.
 
   _Use of the term Head in Hydraulics._--The term _head_ is an old
   millwright's term, and meant primarily the height through which a mass
-  of water descended in actuating a hydraulic machine. Since the water
+  of water descended in actuating a hydraulic [[Machine|machine]]. Since the water
   in fig. 14 descends through a height h to the orifice, we may say
   there are h ft. of head above the orifice. Still more generally any
   mass of liquid h ft. above a horizontal plane may be said to have h
@@ -720,7 +720,7 @@ stream.
   [Illustration: FIG. 15.]
 
   _Coefficient of Contraction--Sharp-edged Orifices in Plane
-  Surfaces._--When a jet issues from an aperture in a vessel, it may
+  Surfaces._--When a jet issues from an [[Aperture|aperture]] in a vessel, it may
   either spring clear from the inner edge of the orifice as at a or b
   (fig. 15), or it may adhere to the sides of the orifice as at c. The
   former condition will be found if the orifice is bevelled outwards as
@@ -763,7 +763,7 @@ stream.
 
   § 18. _Experimental Determination of c_v, c_c, and c._--The
   coefficient of contraction c_c is directly determined by measuring the
-  dimensions of the jet. For this purpose fixed screws of fine pitch
+  [[Dimension|dimensions]] of the jet. For this purpose fixed screws of fine pitch
   (fig. 16) are convenient. These are set to touch the jet, and then the
   distance between them can be measured at leisure.
 
@@ -903,7 +903,7 @@ stream.
     |Head|      |                |  of Sides 4:1   |  of Sides 16:1  |      |
     | in | Cir- +------+---------+---------+-------+---------+-------+ Tri- |
     | ft.|cular.|Sides |         |  Long   | Long  |  Long   | Long  |angu- |
-    |    |      |Verti-|Diagonal |  Sides  | Sides |  Sides  | Sides | lar. |
+    |    |      |Verti-|Diagonal |  Sides  | Sides |  Sides  | Sides | [[Lar|lar]]. |
     |    |      | cal. |Vertical.|Vertical.| hori- |Vertical.| Hori- |      |
     |    |      |      |         |         |zontal.|         |zontal.|      |
     +----+------+------+---------+---------+-------+---------+-------+------+
@@ -937,7 +937,7 @@ stream.
 
     c = 0.6075 + 0.0098/[root]h - 0.0037d,
 
-  where h is in feet and d in inches.
+  where h is in feet and d in [[Inch|inches]].
 
     _Coefficients of Discharge from Circular Orifices. Temperature 51° to
     55°._
@@ -962,7 +962,7 @@ stream.
   vertical plane surfaces, the head being measured, not immediately over
   the orifice, where the surface is depressed, but to the still-water
   surface at some distance from the orifice. The values were obtained by
-  graphic interpolation, all the most reliable experiments being plotted
+  graphic [[Interpolation|interpolation]], all the most reliable experiments being plotted
   and curves drawn so as to average the discrepancies.
 
     _Coefficients of Discharge for Rectangular Orifices, Sharp-edged, in
@@ -1101,7 +1101,7 @@ stream.
   [Illustration: FIG. 22.]
 
   § 24. _Orifices Furnished with Channels of Discharge._--These external
-  borders to an orifice also modify the contraction.
+  [[Borders|borders]] to an orifice also modify the contraction.
 
   The following coefficients of discharge were obtained with openings 8
   in. wide, and small in proportion to the channel of approach (fig. 22,
@@ -1123,7 +1123,7 @@ stream.
 
   [Illustration: FIG. 23.]
 
-  § 25. _Inversion of the Jet._--When a jet issues from a horizontal
+  § 25. _[[Inversion]] of the Jet._--When a jet issues from a horizontal
   orifice, or is of small size compared with the head, it presents no
   marked peculiarity of form. But if the orifice is in a vertical
   surface, and if its dimensions are not small compared with the head,
@@ -1171,7 +1171,7 @@ stream.
   contraction. Beyond this point, if the jet retains its coherence,
   sheets are thrown out again, but in directions bisecting the angles
   between the previous sheets. Lord Rayleigh accepts an explanation of
-  this contraction first suggested by H. Buff (1805-1878), namely, that
+  this contraction first suggested by H. [[Buff]] (1805-1878), namely, that
   it is due to surface tension.
 
   § 26. _Influence of Temperature on Discharge of Orifices._--Professor
@@ -1216,7 +1216,7 @@ stream.
   IV. THEORY OF THE STEADY MOTION OF FLUIDS.
 
   § 28. The general equation of the steady motion of a fluid given under
-  Hydrodynamics furnishes immediately three results as to the
+  [[Hydrodynamics]] furnishes immediately three results as to the
   distribution of pressure in a stream which may here be assumed.
 
   (a) If the motion is rectilinear and uniform, the variation of
@@ -1408,10 +1408,10 @@ stream.
 
   § 32. _Venturi Meter._--An ingenious application of the variation of
   pressure and velocity in a converging and diverging pipe has been made
-  by Clemens Herschel in the construction of what he terms a Venturi
+  by Clemens [[Herschel]] in the construction of what he terms a Venturi
   Meter for measuring the flow in water mains. Suppose that, as in fig.
   32, a contraction is made in a water main, the change of section being
-  gradual to avoid the production of eddies. The ratio [rho] of the
+  [[Gradual|gradual]] to avoid the production of eddies. The ratio [rho] of the
   cross sections at A and B, that is at inlet and throat, is in actual
   meters 5 to 1 to 20 to 1, and is very carefully determined by the
   maker of the meter. Then, if v and u are the velocities at A and B, u
@@ -1448,7 +1448,7 @@ stream.
   main at any moment can be determined. Notice that the pressure height
   at C will be the same as at A except for a small loss h_f due to
   friction and eddying between A and B. To get the pressure at the
-  throat very exactly Herschel surrounds it by an annular passage
+  throat very exactly Herschel surrounds it by an [[Annular|annular]] passage
   communicating with the throat by several small holes, sometimes formed
   in vulcanite to prevent corrosion. Though constructed to prevent
   eddying as much as possible there is some eddy loss. The main effect
@@ -1476,7 +1476,7 @@ stream.
   If the discharge of the main increases the disk rises, but as it rises
   its position in the chamber is such that in consequence of the larger
   area the velocity is less. It finds, therefore, a new position of
-  equilibrium. A pencil P records on a drum moved by clockwork the
+  equilibrium. A pencil P records on a [[Drum|drum]] moved by clockwork the
   position of the disk, and from this the variation of flow is inferred.
 
   § 33. _Pressure, Velocity and Energy in Different Stream Lines._--The
@@ -1534,7 +1534,7 @@ stream.
 
   § 34. _Rectilinear Current._--Suppose the motion is in parallel
   straight stream lines (fig. 35) in a vertical plane. Then [rho] is
-  infinite, and from eq. (2), § 33,
+  [[Infinite|infinite]], and from eq. (2), § 33,
 
      dH = v dv/g.
 
@@ -1746,7 +1746,7 @@ stream.
   [Illustration: FIG. 39.]
 
   § 37. _Minimum Coefficient of Contraction. Re-entrant Mouthpiece of
-  Borda._--In one special case the coefficient of contraction can be
+  [[Borda]]._--In one special case the coefficient of contraction can be
   determined theoretically, and, as it is the case where the convergence
   of the streams approaching the orifice takes place through the
   greatest possible angle, the coefficient thus determined is the
@@ -2118,7 +2118,7 @@ stream.
 
   [Illustration: FIG. 46.]
 
-  When a notch is used to gauge a stream of varying flow, the ratio B/H
+  When a notch is used to [[Gauge|gauge]] a stream of varying flow, the ratio B/H
   varies if the notch is rectangular, but is constant if the notch is
   triangular. This led Professor James Thomson to suspect that the
   coefficient of discharge, c, would be much more constant with
@@ -2193,7 +2193,7 @@ stream.
   Experiment shows that the actual discharge is very approximately equal
   to this maximum, and the formula is more legitimately applicable to
   the discharge over broad-crested weirs and to cases such as the
-  discharge with free upper surface through large masonry sluice
+  discharge with free upper surface through large [[Masonry|masonry]] sluice
   openings than the ordinary weir formula for sharp-edged weirs. It
   should be remembered, however, that the friction on the sides and
   crest of the weir has been neglected, and that this tends to reduce a
@@ -2330,7 +2330,7 @@ stream.
   slope of 1 mm. per metre. The channel is 2 metres wide with vertical
   sides. The channels were constructed of concrete rendered with cement.
   The water levels were taken in chambers constructed near the canal, by
-  floats actuating an index on a dial. Hook gauges were used in
+  [[Float|floats]] actuating an [[Index|index]] on a dial. Hook gauges were used in
   determining the heads on the weirs.
 
   [Illustration: FIG. 51.]
@@ -2510,7 +2510,7 @@ stream.
   on the weir and, consequently, the velocity change. Fig. 55 shows one
   of these separating weirs in the form in which they were first
   introduced on the Manchester Waterworks; fig. 56 a more modern weir of
-  the same kind designed by Sir A. Binnie for the Bradford Waterworks.
+  the same kind designed by Sir A. Binnie for the [[Bradford]] Waterworks.
   When the quantity of water coming down the stream is not excessive, it
   drops over the weir into a transverse channel leading to the
   reservoirs. In flood, the water springs over the mouth of this channel
@@ -2780,7 +2780,7 @@ stream.
 
   § 53. _Flow from a Vessel when the Effective Head varies with the
   Time._--Various useful problems arise relating to the time of emptying
-  and filling vessels, reservoirs, lock chambers, &c., where the flow is
+  and filling vessels, reservoirs, [[Lock|lock]] chambers, &c., where the flow is
   dependent on a head which increases or diminishes during the
   operation. The simplest of these problems is the case of filling or
   emptying a vessel of constant horizontal section.
@@ -2851,7 +2851,7 @@ stream.
 
   [Illustration: FIG. 65.]
 
-  _Pin Ferrules or Measuring Cocks._--To give a tolerably definite
+  _Pin Ferrules or Measuring [[Cock|Cocks]]._--To give a tolerably definite
   supply of water to houses, without the expense of a meter, a ferrule
   with an orifice of a definite size, or a cock, is introduced in the
   service-pipe. If the head in the water main is constant, then a
@@ -2864,7 +2864,7 @@ stream.
   circular plate, protected by wire gauze from stoppage by impurities in
   the water. The cock on the right hand can be used by the consumer for
   emptying the pipes. The one on the left and the measuring cock are
-  connected by a key which can be locked by a padlock, which is under
+  connected by a [[Key|key]] which can be locked by a padlock, which is under
   the control of the water company.
 
   § 55. _Measurement of the Flow in Streams._--To determine the quantity
@@ -2907,7 +2907,7 @@ stream.
   beginning and end of the time. As this involves a good deal of
   troublesome calculation, E. Sang proposed to use a scale so graduated
   as to read off the discharge in cubic feet per second. The lengths of
-  the principal graduations of such a scale are easily calculated by
+  the principal [[Graduation|graduations]] of such a scale are easily calculated by
   putting Q = 1, 2, 3 ... in the ordinary formulae for notches; the
   intermediate graduations may be taken accurately enough by subdividing
   equally the distances between the principal graduations.
@@ -2934,7 +2934,7 @@ stream.
 
   _Hook Gauge._--For the determination of the surface level of water,
   the most accurate instrument is the hook gauge used first by U. Boyden
-  of Boston, in 1840. It consists of a fixed frame with scale and
+  of [[Boston]], in 1840. It consists of a fixed [[Frame|frame]] with scale and
   vernier. In the instrument in fig. 68 the vernier is fixed to the
   frame, and the scale slides vertically. The scale carries at its lower
   end a hook with a fine point, and the scale can be raised or lowered
@@ -2971,7 +2971,7 @@ stream.
   of the adjustable sluice a tolerably constant head above the fixed
   orifice is maintained, and therefore there is a nearly constant
   discharge of ascertainable amount through the orifice, into the
-  channel leading to the fields which are to be irrigated.
+  channel leading to the [[Fields|fields]] which are to be irrigated.
 
   [Illustration: FIG. 70.--Scale 1/100.]
 
@@ -3026,13 +3026,13 @@ stream.
   The covered regulating chamber is about 20 ft. long, with a breadth
   1.64 ft. greater than that of the discharging orifice. At precisely
   the normal level of the water in the regulating chamber, there is a
-  ceiling of planks intended to still the agitation of the water. A
+  [[Ceiling|ceiling]] of planks intended to still the agitation of the water. A
   block of stone serves to indicate the normal level of the water in the
   chamber. The water is discharged into an open channel 0.655 ft. wider
   than the orifice, splaying out till it is 1.637 ft. wider than the
   orifice, and about 18 ft. in length.
 
-  § 58. _Spanish Module._--On the canal of Isabella II., which supplies
+  § 58. _Spanish Module._--On the canal of [[Isabella]] II., which supplies
   water to Madrid, a module much more perfect in principle than the
   Italian module is employed. Part of the water is supplied for
   irrigation, and as it is very valuable its strict measurement is
@@ -3040,8 +3040,8 @@ stream.
   other, the upper chamber being in free communication with the
   irrigation canal, and the lower chamber discharging by a culvert to
   the fields. In the arched roof between the chambers there is a
-  circular sharp-edged orifice in a bronze plate. Hanging in this there
-  is a bronze plug of variable diameter suspended from a hollow brass
+  circular sharp-edged orifice in a bronze plate. [[Hanging]] in this there
+  is a bronze plug of variable diameter suspended from a hollow [[Brass|brass]]
   float. If the water level in the canal lowers, the plug descends and
   gives an enlarged opening, and conversely. Thus a perfectly constant
   discharge with a varying head can be obtained, provided no clogging or
@@ -3122,7 +3122,7 @@ stream.
   constant difference of pressure between the chambers A and B, so that
   a constant discharge flows through the stop valve O. The equilibrium
   valve D is rigidly connected with a plunger P loosely fitted in a
-  diaphragm, separating A from a chamber B2 connected by a pipe B1 with
+  [[Diaphragm|diaphragm]], separating A from a chamber B2 connected by a pipe B1 with
   the discharging main B. Any increase of the difference of pressure in
   A and B will drive the plunger up and close the equilibrium valve, and
   conversely a decrease of the difference of pressure will cause the
@@ -3148,7 +3148,7 @@ stream.
 
   § 61. _External Work during the Expansion of Air._--If air expands
   without doing any external work, its temperature remains constant.
-  This result was first experimentally demonstrated by J. P. Joule. It
+  This result was first experimentally demonstrated by J. P. [[Joule]]. It
   leads to the conclusion that, however air changes its state, the
   internal work done is proportional to the change of temperature. When,
   in expanding, air does work against an external resistance, either
@@ -3181,14 +3181,14 @@ stream.
     =  |   p dv  = p1v1 |   dv/v
       _/v1             _/v1
 
-    = p1v1 log_[epsilon] v2v1 = p1v1 log_[epsilon] p1p2.   (1)
+    = p1v1 [[Log|log]]_[epsilon] v2v1 = p1v1 log_[epsilon] p1p2.   (1)
 
   Since the weight per cubic foot is the reciprocal of the volume per
   pound, this may be written
 
     (p1/G1) log_[epsilon] G1/G2.   (1a)
 
-  Then the expansion curve ab is a common hyperbola.
+  Then the expansion curve ab is a common [[Hyperbola|hyperbola]].
 
   _Case 2._--No heat is supplied to the air during expansion. Then the
   air loses an amount of heat equivalent to the external work done and
@@ -3330,7 +3330,7 @@ stream.
     v2²/2g = {[gamma]/([gamma] - 1)} {(p1/G1) - (p2/G2)};
 
   an equation commonly ascribed to L. J. Weisbach (_Civilingenieur_,
-  1856), though it appears to have been given earlier by A. J. C. Barre
+  1856), though it appears to have been given earlier by A. J. C. [[Barre]]
   de Saint Venant and L. Wantzel.
 
   It has already (§ 9, eq. 4a) been seen that
@@ -3440,7 +3440,7 @@ stream.
   A. F. Fliegner showed (_Civilingenieur_ xx., 1874) that for air
   flowing from well-rounded mouthpieces there is no discontinuity of the
   law of flow, as Napier's hypothesis implies, but the curve of flow
-  bends so sharply that Napier's rule may be taken to be a good
+  [[Bend|bends]] so sharply that Napier's rule may be taken to be a good
   approximation to the true law. The limiting value of the ratio p2/p1,
   for which Weisbach's formula, as originally understood, ceases to
   apply, is for air 0.5767; and this is the number to be substituted for
@@ -3468,7 +3468,7 @@ stream.
 
   1. The frictional resistance is independent of the pressure between
   the fluid and the solid against which it flows. This may be verified
-  by a simple direct experiment. C. H. Coulomb, for instance, oscillated
+  by a simple direct experiment. C. H. [[Coulomb]], for instance, oscillated
   a disk under water, first with atmospheric pressure acting on the
   water surface, afterwards with the atmospheric pressure removed. No
   difference in the rate of decrease of the oscillations was observed.
@@ -3554,7 +3554,7 @@ stream.
   surface can be indirectly obtained from observations of the discharge
   of pipes and canals. In obtaining them, however, some assumptions as
   to the motion of the water must be made, and it will be better
-  therefore to discuss these values in connexion with the cases to which
+  therefore to [[Discus|discuss]] these values in connexion with the cases to which
   they are related.
 
   Many attempts have been made to express the coefficient of friction in
@@ -3632,12 +3632,12 @@ stream.
   move a pen M, which records the extension on a greatly increased
   scale, by a line drawn on the paper cylinder N. This cylinder revolves
   at a speed proportionate to that of the carriage, its motion being
-  obtained from the axle of the carriage wheels. A second pen O,
+  obtained from the [[Axle|axle]] of the carriage wheels. A second pen O,
   receiving jerks at every second and a quarter from a clock P, records
   time on the paper cylinder. The scale for the line of resistance is
   ascertained by stretching the spiral spring by known weights. The
   boards used for the experiment were 3/16 in. thick, 19 in. deep, and
-  from 1 to 50 ft. in length, cutwater included. A lead keel
+  from 1 to 50 ft. in length, cutwater included. A lead [[Keel|keel]]
   counteracted the buoyancy of the board. The boards were covered with
   various substances, such as paint, varnish, Hay's composition,
   tinfoil, &c., so as to try the effect of different degrees of
@@ -3808,7 +3808,7 @@ stream.
   which the resistance was proportional varied from 1.9 to 2.1. This is
   in agreement with Froude's results.
 
-  Experiments with a bright brass disk showed that the friction
+  Experiments with a [[Bright|bright]] brass disk showed that the friction
   decreased with increase of temperature. The diminution between 41° and
   130° F. amounted to 18%. In the general equation M = cN^n for any
   given disk,
@@ -4176,7 +4176,7 @@ stream.
   much with the roughness of its surface is a guide, and Darcy's method
   of dealing with these causes of variation is very helpful. But a
   further difficulty arises from the discordance of the results of
-  different experiments. For instance F. P. Stearns and J. M. Gale both
+  different experiments. For instance F. P. Stearns and J. M. [[Gale]] both
   experimented on clean asphalted cast-iron pipes, 4 ft. in diameter.
   According to one set of gaugings [zeta] = .0051, and according to the
   other [zeta] = .0031. It is impossible in such cases not to suspect
@@ -4210,7 +4210,7 @@ stream.
   which most nearly passes through the plotted points. Saint-Venant
   found for n the value of 1.71. In a memoir on the influence of
   temperature on the movement of water in pipes (Berlin, 1854) by G. H.
-  L. Hagen (1797-1884) another modification of the Saint-Venant formula
+  L. [[Hagen]] (1797-1884) another modification of the Saint-Venant formula
   was given. This is h/l = mv^n/d^x, which involves three experimental
   coefficients. Hagen found n = 1.75; x = 1.25; and m was then nearly
   independent of variations of v and d. But the range of cases examined
@@ -4218,7 +4218,7 @@ stream.
   Professor Osborne Reynolds made much clearer the change from regular
   stream line motion at low velocities to the eddying motion, which
   occurs in almost all the cases with which the engineer has to deal.
-  Partly by reasoning, partly by induction from the form of
+  Partly by reasoning, partly by [[Induction|induction]] from the form of
   logarithmically plotted curves of experimental results, he arrived at
   the general equation h/l = c(v^n/d^(3 - n))P^(2 - n), where n = l for
   low velocities and n = 1.7 to 2 for ordinary velocities. P is a
@@ -4247,7 +4247,7 @@ stream.
     |                    |               |          |               |
     |                  / | Hamilton Smith| / .0266  | 1.760 \       |
     | Asphalted       <  | Lampe.        |<  .4185  | 1.850  > 1.85 |
-    |                  | | W. W. Bonn    | | .306   | 1.582 |       |
+    |                  | | W. W. [[Bonn]]    | | .306   | 1.582 |       |
     |                  \ | Stearns       | \1.219   | 1.880 /       |
     |                    |               |          |               |
     | Riveted wrought \  |               | /.2776   | 1.804 \       |
@@ -4487,15 +4487,15 @@ stream.
   modified in details, as constructed by the Glenfield Company, at
   Kilmarnock. A is a longitudinal section of the pipe, showing the
   scraper in place; B is an end view of the plungers, and C, D sections
-  of the boxes placed at intervals on the main for introducing or
+  of the [[Box|boxes]] placed at intervals on the main for introducing or
   withdrawing the scraper. The apparatus consists of two plungers,
   packed with leather so as to fit the main pretty closely. On the
-  spindle of these plungers are fixed eight steel scraping blades, with
+  spindle of these plungers are fixed eight steel scraping [[Blades|blades]], with
   curved scraping edges fitting the surface of the main. The apparatus
   is placed in the main by removing the cover from one of the boxes
   shown at C, D. The cover is then replaced, water pressure is admitted
   behind the plungers, and the apparatus driven through the main. At
-  Lancaster after twice scraping the discharge was increased 56½%, at
+  [[Lancaster]] after twice scraping the discharge was increased 56½%, at
   Oswestry 54½%. The increased discharge is due to the diminution of the
   friction of the pipe by removing the roughnesses due to oxidation. The
   scraper can be easily followed when the mains are about 3 ft. deep by
@@ -4710,7 +4710,7 @@ stream.
     | [xi]_c =           | 225.9 |47.77 |30.83 |7.801|1.753|1.796|.797 |.290 |.060 |.000 |
     +--------------------+-------+------+------+-----+-----+-----+-----+-----+-----+-----+
 
-  Elbows.--Weisbach considers the loss of head at elbows (fig. 91) to be
+  [[Elbow|Elbows]].--Weisbach considers the loss of head at elbows (fig. 91) to be
   due to a contraction formed by the stream. From experiments with a
   pipe 1¼ in. diameter, he found the loss of head
 
@@ -4953,7 +4953,7 @@ stream.
   [Illustration: FIG. 97.]
 
   § 85. _Arrangement of Water Mains for Towns' Supply._--Town mains are
-  usually supplied oy gravitation from a service reservoir, which in
+  usually supplied oy [[Gravitation|gravitation]] from a service reservoir, which in
   turn is supplied by gravitation from a storage reservoir or by pumping
   from a lower level. The service reservoir should contain three days'
   supply or in important cases much more. Its elevation should be such
@@ -5079,7 +5079,7 @@ stream.
   accurate.
 
   § 88. _Water Hammer._--If in a pipe through which water is flowing a
-  sluice is suddenly closed so as to arrest the forward movement of the
+  sluice is suddenly closed so as to [[Arrest|arrest]] the forward movement of the
   water, there is a rise of pressure which in some cases is serious
   enough to burst the pipe. This action is termed water hammer or water
   ram. The fluctuation of pressure is an oscillating one and gradually
@@ -5265,14 +5265,14 @@ stream.
 
   § 91. _Coefficient of Friction for Air._--A discussion by Professor
   Unwin of the experiments by Culley and Sabine on the rate of
-  transmission of light carriers through pneumatic tubes, in which there
+  transmission of light [[Carrier|carriers]] through pneumatic tubes, in which there
   is steady flow of air not sensibly affected by any resistances other
   than surface friction, furnished the value [zeta] = .007. The pipes
   were lead pipes, slightly moist, 2¼ in. (0.187 ft.) in diameter, and
   in lengths of 2000 to nearly 6000 ft.
 
   In some experiments on the flow of air through cast-iron pipes A.
-  Arson found the coefficient of friction to vary with the velocity and
+  [[Arson]] found the coefficient of friction to vary with the velocity and
   diameter of the pipe. Putting
 
     [zeta] = [alpha]/v + [beta],   (8)
@@ -5618,7 +5618,7 @@ stream.
     +-------------------------------------------------+--------+------+
     |  I. Very smooth channels, sides of smooth       |        |      |
     |       cement or planed timber                   | .00294 | 0.10 |
-    | II. Smooth channels, sides of ashlar, brickwork,|        |      |
+    | II. Smooth channels, sides of [[Ashlar|ashlar]], [[Brickwork|brickwork]],|        |      |
     |       planks                                    | .00373 | 0.23 |
     |III. Rough channels, sides of rubble masonry or  |        |      |
     |       pitched with stone                        | .00471 | 0.82 |
@@ -5806,7 +5806,7 @@ stream.
   Ganguillet and Kutter's formula is so cumbrous that it is difficult to
   use without the aid of tables.
 
-  Lowis D'A. Jackson published complete and extensive tables for
+  Lowis D'A. [[Jackson]] published complete and extensive tables for
   facilitating the use of the Ganguillet and Kutter formula (_Canal and
   Culvert Tables_, London, 1878). To lessen calculation he puts the
   formula in this form:--
@@ -5849,7 +5849,7 @@ stream.
 
   In Jackson's opinion even Kutter's numerous classes of channels seem
   inadequately graduated, and he proposes for artificial canals the
-  following classification:--
+  following [[Classification|classification]]:--
 
       I. Canals in very firm gravel, in perfect order      n = 0.02
      II. Canals in earth, above the average in order       n = 0.0225
@@ -5950,7 +5950,7 @@ stream.
   found to vary from 0 to 0.3d.
 
   § 104. _Influence of the Wind._--In the experiments on the Mississippi
-  the vertical velocity curve in calm weather was found to agree fairly
+  the vertical velocity curve in [[Calm|calm]] weather was found to agree fairly
   with a parabola, the greatest velocity being at (3/10)ths of the depth
   of the stream from the surface. With a wind blowing down stream the
   surface velocity is increased, and the axis of the parabola approaches
@@ -5992,7 +5992,7 @@ stream.
   at some distance below the water surface, the ordinate of the parabola
   at the axis being the maximum velocity of the section. During the
   gaugings the force of the wind was registered on a scale ranging from
-  0 for a calm to 10 for a hurricane. Arranging the velocity curves in
+  0 for a calm to 10 for a [[Hurricane|hurricane]]. Arranging the velocity curves in
   three sets--(1) with the wind blowing up stream, (2) with the wind
   blowing down stream, (3) calm or wind blowing across stream--it was
   found that an upstream wind lowered, and a down-stream wind raised,
@@ -6032,7 +6032,7 @@ stream.
   mid-depth velocity, then on the average v_m = 0.98v_(md).
 
   § 105. _Mean Velocity on a Vertical from Two Velocity
-  Observations._--A. J. C. Cunningham, in gaugings on the Ganges canal,
+  Observations._--A. J. C. [[Cunningham]], in gaugings on the [[Ganges]] canal,
   found the following useful results. Let v0 be the surface, v_m the
   mean, and v_(xd) the velocity at the depth xd; then
 
@@ -6104,7 +6104,7 @@ stream.
   a loop is formed with only a narrow strip of land between the two
   encroaching branches of the river. Finally a "cut off" may occur, a
   waterway being opened through the strip of land and the loop left
-  separated from the stream, forming a horseshoe shaped lagoon or marsh.
+  separated from the stream, forming a horseshoe shaped [[Lagoon|lagoon]] or marsh.
   Professor James Thomson pointed out (_Proc. Roy. Soc._, 1877, p. 356;
   _Proc. Inst. of Mech. Eng._, 1879, p. 456) that the usual supposition
   is that the water tending to go forwards in a straight line rushes
@@ -6159,7 +6159,7 @@ stream.
 
   [Illustration: FIG. 109.]
 
-  Wooden channels or flumes, of which there are examples on a large
+  Wooden channels or [[Flume|flumes]], of which there are examples on a large
   scale in America, are rectangular in section, and the same form is
   adopted for wrought and cast-iron aqueducts. Channels built with
   brickwork or masonry may be also rectangular, but they are often
@@ -6373,7 +6373,7 @@ stream.
     +-------------+-----------+--------+----------+---------+------------+
     |             |Inclination|Ratio of| Area of  |         |Top width = |
     |             |of Sides to|  Side  | Section  |  Bottom |twice length|
-    |             |  Horizon. | Slopes.| [Omega]. |  Width. |of each Side|
+    |             |  [[Horizon]]. | Slopes.| [Omega]. |  Width. |of each Side|
     |             |           |        |          |         |   Slope.   |
     +-------------+-----------+--------+----------+---------+------------+
     | Semicircle  |    ..     |   ..   | 1.571 d² |    0    |    2 d     |
@@ -6501,7 +6501,7 @@ stream.
   Let fig. 119 represent the cross section A0B0, and let [omega] be a
   small element of its area at a point where the velocity is v. Let
   [Omega]0 be the whole area of the cross section and u0 the mean
-  velocity for the whole cross section. From the definition of mean
+  velocity for the whole cross section. From the [[Definition|definition]] of mean
   velocity we have
 
     u0 = [Sigma][omega]v/[Omega]0.
@@ -6774,7 +6774,7 @@ stream.
   rapidly followed, and it soon became apparent that means must be
   adopted for raising the surface of the stream at those points (that
   is, the crests of the falls). Planks were accordingly fixed in the
-  grooves above the bridge arches, or temporary weirs were formed over
+  grooves above the bridge [[Arches|arches]], or temporary weirs were formed over
   which the water was allowed to fall; in some cases the surface of the
   water was thus raised above its normal height, causing a backwater in
   the channel above" (Crofton's _Report on the Ganges Canal_, p. 14).
@@ -6917,7 +6917,7 @@ stream.
   over the weir crest A acquired a very high velocity on the steep slope
   AB, and the section of the stream at B became very small. It easily
   happened, therefore, that at B the depth h < u²/g. In flowing along
-  the rough apron of the weir the velocity u diminished and the depth h
+  the rough [[Apron|apron]] of the weir the velocity u diminished and the depth h
   increased. At a point C, where h became equal to u²/g, the conditions
   for producing the standing wave occurred. Beyond C the free surface
   abruptly rose to the level corresponding to uniform motion with the
@@ -6951,7 +6951,7 @@ stream.
   catchment basin. The catchment basin is surrounded by a ridge or
   watershed line, continuous except at the point where the river finds
   an outlet. The area of the catchment basin may be determined from a
-  suitable contoured map on a scale of at least 1 in 100,000. Of the
+  suitable contoured [[Map|map]] on a scale of at least 1 in 100,000. Of the
   whole rainfall on the catchment basin, a part only finds its way to
   the stream. Part is directly re-evaporated, part is absorbed by
   vegetation, part may escape by percolation into neighbouring
@@ -7086,7 +7086,7 @@ stream.
     |                       |     = v_b.    |    = v_m.   |
     +-----------------------+---------------+-------------+
     | 1. Soft earth         |     0.25      |     .33     |
-    | 2. Loam               |     0.50      |     .65     |
+    | 2. [[Loam]]               |     0.50      |     .65     |
     | 3. Sand               |     1.00      |    1.30     |
     | 4. Gravel             |     2.00      |    2.62     |
     | 5. Pebbles            |     3.40      |    4.46     |
@@ -7108,7 +7108,7 @@ stream.
     | Clay                           |    .98  |    .75  |    .52  |
     | Firm sand                      |   1.97  |   1.51  |   1.02  |
     | Pebbly bed                     |   4.00  |   3.15  |   2.30  |
-    | Boulder bed                    |   5.00  |   4.03  |   3.08  |
+    | [[Boulder]] bed                    |   5.00  |   4.03  |   3.08  |
     | Conglomerate of slaty fragments|   7.28  |   6.10  |   4.90  |
     | Stratified rocks               |   8.00  |   7.45  |   6.00  |
     | Hard rocks                     |  14.00  |  12.15  |  10.36  |
@@ -7271,9 +7271,9 @@ stream.
     |                      |    In Air.   |   In Water.  |
     +----------------------+--------------+--------------+
     | Basalt               |    187.3     |    124.9     |
-    | Brick                |    130.0     |     67.6     |
+    | [[Brick]]                |    130.0     |     67.6     |
     | Brickwork            |    112.0     |     49.6     |
-    | Granite and limestone|    170.0     |    107.6     |
+    | Granite and [[Limestone|limestone]]|    170.0     |    107.6     |
     | Sandstone            |    144.0     |     81.6     |
     | Masonry              |   116-144    |  53.6-81.6   |
     +----------------------+--------------+--------------+
@@ -7291,15 +7291,15 @@ stream.
   [Illustration: FIG. 133.]
 
   This is strikingly the case with the Mississippi, and that river is
-  now kept from flooding immense areas by artificial embankments or
-  levees. In India, the term _deltaic segment_ is sometimes applied to
+  now kept from flooding immense areas by artificial [[Embankment|embankments]] or
+  [[Levee|levees]]. In India, the term _deltaic segment_ is sometimes applied to
   that portion of a river running through deposits formed by inundation,
   and having this characteristic section. The irrigation of the country
   in this case is very easy; a comparatively slight raising of the river
   surface by a weir or annicut gives a command of level which permits
   the water to be conveyed to any part of the district.
 
-  § 132. _Deltas._--The name delta was originally given to the [Greek:
+  § 132. _[[Delta|Deltas]]._--The name delta was originally given to the [Greek:
   Delta]-shaped portion of Lower Egypt, included between seven branches
   of the Nile. It is now given to the whole of the alluvial tracts round
   river mouths formed by deposition of sediment from the river, where
@@ -7392,7 +7392,7 @@ stream.
 
   § 136. _Surface Floats_ are convenient for determining the surface
   velocities of a stream, though their use is difficult near the banks.
-  The floats may be small balls of wood, of wax or of hollow metal, so
+  The floats may be small [[Ball|balls]] of wood, of wax or of hollow metal, so
   loaded as to float nearly flush with the water surface. To render
   them visible they may have a vertical painted stem. In experiments on
   the Seine, cork balls 1(3/4) in. diameter were used, loaded to float
@@ -7438,7 +7438,7 @@ stream.
   of the float and determining the distances AC, BD.
 
   The time taken by the float in passing over the measured distance may
-  be observed by a chronograph, started as the float passes the upper
+  be observed by a [[Chronograph|chronograph]], started as the float passes the upper
   rope or line, and stopped when it passes the lower. In Cunningham's
   observations two chronometers were sometimes used, the time of passing
   one end of the run being noted on one, and that of passing the other
@@ -7597,7 +7597,7 @@ stream.
   gear. For deep streams the meter A is suspended by a wire with a heavy
   lenticular weight below (fig. 144). The wire is payed out from a small
   winch D, with an index showing the depth of the meter, and passes over
-  a pulley B. The meter is in gimbals and is directed by a conical
+  a pulley B. The meter is in [[Gimbal|gimbals]] and is directed by a conical
   rudder which keeps it facing the stream with its axis horizontal.
   There is an electric circuit from a battery C through the meter, and a
   contact is made closing the circuit every 100 revolutions. The moment
@@ -7673,7 +7673,7 @@ stream.
   surface of the stream, and turned with the mouth down stream, the
   fluid sinks a depth h´ = v²/2g nearly, though the tube in that case
   interferes with the free flow of the liquid and somewhat modifies the
-  result. Pitot expanded the mouth of the tube so as to form a funnel or
+  result. Pitot expanded the mouth of the tube so as to form a [[Funnel|funnel]] or
   bell mouth. In that case he found by experiment
 
     h = 1.5v²/2g.
@@ -7866,7 +7866,7 @@ stream.
     Experiments on the Seine                         0.62
     Destrem and De Prony, experiments on the Neva    0.78
     Boileau, experiments on canals                   0.82
-    Baumgartner, experiments on the Garonne          0.80
+    Baumgartner, experiments on the [[Garonne]]          0.80
     Brünings (mean)                                  0.85
     Cunningham, Solani aqueduct                      0.823
 
@@ -8090,7 +8090,7 @@ stream.
   the polar planimeter. A slight difficulty arises in the part of the
   solid lying above the last contour curve. This will have generally a
   height which is not exactly x, and a form more rounded than the other
-  layers and less like a conical frustum. The volume of this may be
+  layers and less like a conical [[Frustum|frustum]]. The volume of this may be
   estimated separately, and taken to be the area of its base (the area
   [Omega]_n) multiplied by 1/3 to ½ its height.
 
@@ -8133,7 +8133,7 @@ means of transmitting energy and distributing it to many scattered
 working points. Hence large and important hydraulic systems are adopted
 in which at a central station water is pumped at high pressure into
 distributing mains, which convey it to various points where it actuates
-hydraulic motors operating cranes, lifts, dock gates, and in some cases
+hydraulic motors operating cranes, lifts, [[Dock|dock]] gates, and in some cases
 riveting and shearing machines. In this case the head driving the
 hydraulic machinery is artificially created, and it is the convenience of
 distributing power in an easily applied form to distant points which
@@ -8437,7 +8437,7 @@ transmitted electrically are not included.
   point A and in the direction AC. Take AC = v = velocity of water, and
   let AD represent in magnitude and direction the velocity of the vane.
   Completing the parallelogram, DC or AE represents the direction in
-  which the water is moving relatively to the vane. If the lip of the
+  which the water is moving relatively to the vane. If the [[Lip|lip]] of the
   vane at A is tangential to AE, the water will not have its direction
   suddenly changed when it impinges on the vane, and will therefore have
   no tendency to spread laterally. On the contrary it will be so
@@ -8835,7 +8835,7 @@ transmitted electrically are not included.
   normally on a Plane.]
 
   Some very interesting experiments on the distribution of pressure on a
-  surface struck by a jet have been made by J. S. Beresford (_Prof.
+  surface struck by a jet have been made by J. S. [[Beresford]] (_Prof.
   Papers on Indian Engineering_, No. cccxxii.), with a view to afford
   information as to the forces acting on the aprons of weirs.
   Cylindrical jets ½ in. to 2 in. diameter, issuing from a vessel in
@@ -9043,7 +9043,7 @@ transmitted electrically are not included.
   comparatively small depth. For similar plates moved through air they
   found f = 1.36, a result more in accordance with those which precede.
 
-  For a fixed plane in a moving current of water E. Mariotte found f =
+  For a fixed plane in a moving current of water E. [[Mariotte]] found f =
   1.25. Dubuat, in experiments in a current of water like those
   mentioned above, obtained the values m = 1.186; n = 0.670; f = 1.856.
   Thibault exposed to wind pressure planes of 1.17 and 2.5 sq. ft. area,
@@ -9127,7 +9127,7 @@ transmitted electrically are not included.
   were balanced by ingenious mechanism designed by F. H. Wenham and
   Spencer Browning, in such a manner that both the pressure in the
   direction of the air current and the lateral force were separately
-  measured. These planes were placed opposite a blast from a fan issuing
+  measured. These planes were placed opposite a blast from a [[Fan|fan]] issuing
   from a wooden pipe 18 in. square. The pressure of the blast varied
   from 6/10 to 1 in. of water pressure. The following are the results
   given in pounds per square foot of the plane, and a comparison of the
@@ -9199,7 +9199,7 @@ hydraulic engines is done intermittently.
   the available head to work the motor is H = H_t - [h]_r. It is this
   available head which should be used in all calculations of the
   proportions of the motor. Let Q be the supply of water per second.
-  Then GQH foot-pounds per second is the gross available work of the
+  Then GQH foot-pounds per second is the [[Gross|gross]] available work of the
   fall. The power of the fall may be utilized in three ways. (a) The GQ
   pounds of water may be placed on a machine at the highest level, and
   descending in contact with it a distance of H ft., the work done will
@@ -9251,7 +9251,7 @@ purposes.
 
   § 172. _Water Power at Holyoke, U.S.A._--About 85 m. from the mouth of
   the Connecticut river there was a fall of about 60 ft. in a short
-  distance, forming what were called the Grand Rapids, below which the
+  distance, forming what were called the [[Grand Rapids]], below which the
   river turned sharply, forming a kind of peninsula on which the city of
   Holyoke is built. In 1845 the magnitude of the water-power available
   attracted attention, and it was decided to build a dam across the
@@ -9332,7 +9332,7 @@ invented by Lord Armstrong--has already been mentioned. This system has
 led to the development of a great variety of hydraulic pressure engines
 of very various types. The cost of pumping the pressure water to some
 extent restricts its use to intermittent operations, such as working
-lifts and cranes, punching, shearing and riveting machines, forging and
+lifts and cranes, punching, shearing and riveting machines, [[Forging|forging]] and
 flanging presses. To keep down the cost of the distributing mains
 very high pressures are adopted, generally 700 lb. per sq. in. or 1600
 ft. of head or more.
@@ -9343,7 +9343,7 @@ single acting ram and cylinder. In a few cases double-acting pistons and
 cylinders are used; but they involve a water-tight packing of the piston
 not easily accessible. In some cases pressure engines are used to obtain
 rotative movement, and then two double-acting cylinders or three
-single-acting cylinders are used, driving a crank shaft. Some
+single-acting cylinders are used, driving a [[Crank|crank]] shaft. Some
 double-acting cylinders have a piston rod half the area of the piston.
 The pressure water acts continuously on the annular area in front of the
 piston. During the forward stroke the pressure on the front of the
@@ -9551,7 +9551,7 @@ the driving effort on the crank pin is very uniform.
   A circular valve disk with concentric segmental ports revolves at the
   same rate as the crank over ports in the valve face common to the
   three cylinders. Each cylinder is always in communication with either
-  an admission or exhaust port. The blank parts of the circular valve
+  an admission or exhaust port. The [[Blank|blank]] parts of the circular valve
   close the admission and exhaust ports alternately. The fixed valve
   face is of lignum vitae in a metal recess, and the revolving valve of
   gun-metal. In the case of a small capstan engine the cylinders are 3½
@@ -9589,7 +9589,7 @@ the driving effort on the crank pin is very uniform.
   the stroke must be made variable. Messrs Hastie have contrived an
   exceedingly ingenious method of varying the stroke automatically, in
   proportion to the amount of work to be done (fig. 174). The crank pin
-  I is carried in a slide H moving in a disk M. In this is a double cam
+  I is carried in a slide H moving in a disk M. In this is a double [[Cam|cam]]
   K acting on two small steel rollers J, L attached to the slide H. If
   the cam rotates it moves the slide and increases or decreases the
   radius of the circle in which the crank pin I rotates. The disk M is
@@ -9623,7 +9623,7 @@ artificial head of water, which is afterwards employed in driving
 water-pressure machinery. Where power is required intermittently, for
 short periods, at a number of different points, as, for instance, in
 moving the cranes, lock gates, &c., of a dockyard, a separate steam
-engine and boiler at each point is very inconvenient; nor can engines
+engine and [[Boiler|boiler]] at each point is very inconvenient; nor can engines
 worked from a common boiler be used, because of the great loss of heat
 and the difficulties which arise out of condensation in the pipes. If a
 tank, into which water is continuously pumped, can be placed at a great
@@ -9715,7 +9715,7 @@ do not require to be of large size, as the pressure is so great.
 
 _Water Wheels._
 
-§ 180. _Overshot and High Breast Wheels._--When a water fall ranges
+§ 180. _Overshot and High [[Breast]] Wheels._--When a water fall ranges
 between 10 and 70 ft. and the water supply is from 3 to 25 cub. ft. per
 second, it is possible to construct a bucket wheel on which the water
 acts chiefly by its weight. If the variation of the head-water level
@@ -9758,7 +9758,7 @@ supply is given to the wheel in all positions of the head-water level.
 
   Overshot and high breast wheels work badly in backwater, and hence if
   the tail-water level varies, it is better to reduce the diameter of
-  the wheel so that its greatest immersion in flood is not more than 1
+  the wheel so that its greatest [[Immersion|immersion]] in flood is not more than 1
   ft. The depth d of the shrouds is about 10 to 16 in. The number of
   buckets may be about
 
@@ -9812,7 +9812,7 @@ water in the loaded arc of the wheel.
 
 The largest high breast wheels ever constructed were probably the four
 wheels, each 50 ft. in diameter, and of 125 h.p., erected by Sir W.
-Fairbairn in 1825 at Catrine in Ayrshire. These wheels are still
+[[Fairbairn]] in 1825 at Catrine in Ayrshire. These wheels are still
 working.
 
 [Illustration: FIG. 181.]
@@ -10261,7 +10261,7 @@ very exactly. These turbines are made by Messrs Gilkes & Co. of Kendal.
   turbine rests on three foundation stones, and, the pivot for the
   vertical shaft being under water, there is a screw and lever
   arrangement for adjusting it as it wears. The vertical shaft gives
-  motion to the machinery driven by a pair of bevel wheels. On the right
+  motion to the machinery driven by a pair of [[Bevel|bevel]] wheels. On the right
   are the worm and wheel for working the guide-blade gear.
 
   [Illustration: FIG. 191.]
@@ -10273,7 +10273,7 @@ very exactly. These turbines are made by Messrs Gilkes & Co. of Kendal.
   5500 h.p. The effective fall is 136 to 140 ft. In the first power
   house the turbines are twin outward flow reaction turbines with
   vertical shafts running at 250 revs. per minute and driving the
-  dynamos direct. In the second power house the turbines are inward flow
+  [[Dynamo|dynamos]] direct. In the second power house the turbines are inward flow
   turbines with draft tubes or suction pipes. Fig. 191 shows a section
   of one of these turbines. There is a balancing piston keyed on the
   shaft, to the under side of which the pressure due to the fall is
@@ -10541,7 +10541,7 @@ very exactly. These turbines are made by Messrs Gilkes & Co. of Kendal.
   V_o²)/2g increases when the turbine speed increases, and vice versa.
   Consequently the flow into the turbine increases when the speed
   increases, and diminishes when the speed diminishes, and this again
-  augments the variation of speed. The action of the centrifugal head in
+  [[Augment|augments]] the variation of speed. The action of the centrifugal head in
   an outward flow turbine is therefore prejudicial to steadiness of
   motion. For this reason r_o : r_i is made small, generally about 5 :
   4. Even then a governor is sometimes required to regulate the speed of
@@ -10899,7 +10899,7 @@ be kept down to a manageable value.
   [Illustration: FIG. 203.]
 
   § 200. _Pelton Wheel._--In the mining district of California about
-  1860 simple impulse wheels were used, termed hurdy-gurdy wheels. The
+  1860 simple impulse wheels were used, termed [[Hurdy-Gurdy|hurdy-gurdy]] wheels. The
   wheels rotated in a vertical plane, being supported on a horizontal
   axis. Round the circumference were fixed flat vanes which were struck
   normally by a jet from a nozzle of size varying with the head and
@@ -11050,7 +11050,7 @@ there are 400 tons of water flowing at 10 ft. per second, opposing
 enormous resistance to rapid change of speed of flow. The sluices of
 water turbines also are necessarily large and heavy. Hence relay
 governors must be used, and the tendency of relay governors to
-hunt must be overcome. In the Niagara Falls Power House No. 1, each
+[[Hunt|hunt]] must be overcome. In the Niagara Falls Power House No. 1, each
 turbine has a very sensitive centrifugal governor acting on a ratchet
 relay. The governor puts into gear one or other of two ratchets driven
 by the turbine itself. According as one or the other ratchet is in gear
@@ -11060,7 +11060,7 @@ gear again, and this prevents the over correction of the speed from the
 lag in the action of the governor. In the Niagara Power House No. 2, the
 relay is an hydraulic relay similar in principle, but rather more
 complicated in arrangement, to that shown in fig. 206, which is a
-governor used for the 1250 h.p. turbines at Lyons. The sensitive
+governor used for the 1250 h.p. turbines at [[Lyons]]. The sensitive
 governor G opens a valve and puts into action a plunger driven by oil
 pressure from an oil reservoir. As the plunger moves forward it
 gradually closes the oil admission valve by lowering the fulcrum end f
@@ -11203,7 +11203,7 @@ reciprocating pumps, with metal valves on lifts of 15 ft., were found by
 Morin to have an efficiency of 16 to 40%, or on the average 25%. When
 used to pump water at considerable pressure, through hose pipes, the
 efficiency rose to from 28 to 57%, or on the average, with 50 to 100 ft.
-of lift, about 50%. A large pump with barrels 18 in. diameter, at speeds
+of lift, about 50%. A large pump with [[Barrel|barrels]] 18 in. diameter, at speeds
 under 60 ft. per minute, gave the following results:--
 
   Lift in feet    14½   34    47
@@ -11217,7 +11217,7 @@ steam-engine the efficiency may be 80%.
 Many small pumps are now driven electrically and are usually three-throw
 single-acting pumps driven from the electric motor by gearing. It is not
 convenient to vary the speed of the motor to accommodate it to the
-varying rate of pumping usually required. Messrs Hayward Tyler have
+varying rate of pumping usually required. Messrs [[Hayward]] Tyler have
 introduced a mechanism for varying the stroke of the pumps (Sinclair's
 patent) from full stroke to nil, without stopping the pumps.
 
@@ -11261,7 +11261,7 @@ Fig. 210 shows a centrifugal pump differing from ordinary centrifugal
 pumps in one feature only. The water rises through a suction pipe S,
 which divides so as to enter the pump wheel W at the centre on each
 side. The pump disk or wheel is very similar to a turbine wheel. It is
-keyed on a shaft driven by a belt on a fast and loose pulley arrangement
+keyed on a shaft driven by a belt on a [[Fast And Loose|fast and loose]] pulley arrangement
 at P. The water rotating in the pump disk presses outwards, and if the
 speed is sufficient a continuous flow is maintained through the pump and
 into the discharge pipe D. The special feature in this pump is that the
@@ -11544,7 +11544,7 @@ Newcastle:--
   | Speed in revs, per min.             |  3300 |  3330 |  3710 | 3340  |
   | Height of suction               ft. |   11  |   11  |   11  |  11   |
   | Total lift                      ft. |  762  |  744  |  917  |  756  |
-  | Million galls. per day pumped--     |       |       |       |       |
+  | Million [[Gall|galls]]. per day pumped--     |       |       |       |       |
   |   By Ventun meter                   | 1.573 | 1.499 | 1.689 | 1.503 |
   |   By orifice                        | 1.623 | 1.513 | 1.723 | 1.555 |
   | Water h.p.                          |  252  |  235  |  326  |  239  |
@@ -11717,7 +11717,7 @@ case of the important Guibal fans used in mine ventilation.
 
   These approximate equations, which are derived purely from experiment,
   do not differ greatly from those obtained by the rough theory given
-  above. The theory helps to explain the reason for the form of the
+  above. The theory [[Helps|helps]] to explain the reason for the form of the
   empirical results.     (W. C. U.)
 
 

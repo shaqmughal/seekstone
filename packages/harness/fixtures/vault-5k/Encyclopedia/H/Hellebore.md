@@ -11,15 +11,15 @@ HELLEBORE (Gr. [Greek: helleboros]: mod. Gr. also [Greek: skaphe]: Ger.
 _Nieswurz_, _Christwurz_; Fr. _hellebore_, and in the district of
 Avranche, _herbe enragee_), a genus (_Helleborus_) of plants of the
 natural order Ranunculaceae, natives of Europe and western Asia. They
-are coarse perennial herbs with palmately or pedately lobed leaves. The
+are coarse perennial [[Herb|herbs]] with palmately or pedately lobed leaves. The
 flowers have five persistent petaloid sepals, within the circle of which
 are placed the minute honey-containing tubular petals of the form of a
-horn with an irregular opening. The stamens are very numerous, and are
+[[Horn|horn]] with an irregular opening. The stamens are very numerous, and are
 spirally arranged; and the carpels are variable in number, sessile or
 stipitate and slightly united at the base and dehisce by ventral suture.
 
 _Helleborus niger_, black hellebore, or, as from blooming in mid-winter
-it is termed the Christmas rose (Ger. _Schwarze Nieswurz_; Fr., _rose de
+it is termed the [[Christmas]] rose (Ger. _Schwarze Nieswurz_; Fr., _rose de
 Noel_ or _rose d'hiver_), is found in southern and central Europe, and
 with other species was cultivated in the time of Gerard (see _Herball_,
 p. 977, ed. Johnson, 1633) in English gardens. Its knotty root-stock is
@@ -34,12 +34,12 @@ pale-rose, eventually greenish sepals, 15 to 18 lines in breadth; 8 to
 13 tubular green petals containing honey; and 5 to 10 free carpels.
 There are several forms, the best being _maximus_. The Christmas rose is
 extensively grown in many market gardens to provide white flowers forced
-in gentle heat about Christmas time for decorations, emblems, &c.
+in gentle heat about Christmas time for decorations, [[Emblem|emblems]], &c.
 
 _H. orientalis_, the Lenten rose, has given rise to several fine hybrids
 with _H. niger_, some of the best forms being clear in colour and
 distinctly spotted. _H. foetidus_, stinking hellebore, is a native of
-England, where like _H. viridis_, it is confined chiefly to limestone
+England, where like _H. viridis_, it is confined chiefly to [[Limestone|limestone]]
 districts; it is common in France and the south of Europe. Its leaves
 have 7- to 11-toothed divisions, and the flowers are in panicles,
 numerous, cup-shaped and drooping, with many bracts, and green sepals
@@ -52,7 +52,7 @@ central and southern Europe. It has bright yellowish-green flowers, 2 to
 century) regarded the plant as the black hellebore of the Greeks.
 
 _H. lividus_, holly-leaved hellebore, found in the Balearic Islands, and
-in Corsica and Sardinia, is remarkable for the handsomeness of its
+in [[Corsica]] and Sardinia, is remarkable for the handsomeness of its
 foliage. White hellebore is _Veratrum album_ (see VERATRUM), a
 liliaceous plant.
 
@@ -68,7 +68,7 @@ summer. For propagation cuttings of the rhizome may be taken in August,
 and placed in pans of light soil, with a bottom heat of 60 deg. to 70
 deg. Fahr.; hellebores can also be grown from seed, which must be sown
 as soon as ripe, since it quickly loses its vitality. The seedlings
-usually blossom in their third year. The exclusion of frost favours the
+usually blossom in their third year. The exclusion of [[Frost|frost]] favours the
 production of flowers; but the plants, if forced, must be gradually
 inured to a warm atmosphere, and a free supply of air must be afforded,
 without which they are apt to become much affected by greenfly. For
@@ -76,7 +76,7 @@ potting, _H. niger_ and its varieties, and _H. orientalis_, _atrorubens_
 and _olympicus_ have been found well suited. After lifting, preferably
 in September, the plants should receive plenty of light, with abundance
 of water, and once a week liquid manure, not over-strong. The flowers
-are improved in delicacy of hue, and are brought well up among the
+are improved in delicacy of [[Hue|hue]], and are brought well up among the
 leaves, by preventing access of light except to the upper part of the
 plants. Of the numerous species of hellebore now grown, the
 deep-purple-flowered _H. colchicus_ is one of the handsomest; by
@@ -89,7 +89,7 @@ pieces, from about 1 to 3 in. in length, white and of a horny texture
 within. Cut transversely it presents internally a circle of 8 to 12
 cuneiform ligneous bundles, surrounded by a thick bark. It emits a faint
 odour when cut or broken, and has a bitter and slightly acrid taste. The
-drug is sometimes adulterated with the rhizome of baneberry, _Actaea
+drug is sometimes adulterated with the rhizome of [[Baneberry|baneberry]], _Actaea
 spicata_, which, however, may be recognized by the distinctly cruciate
 appearance of the central portion of the attached roots when cut
 across, and by its decoction giving the chemical reactions for
@@ -117,7 +117,7 @@ eleven days 65% of water.
   killed by eating "black hellebore"; and Christison (_On Poisons_, p.
   876, 11th ed., 1845) writes: "I have known severe griping produced by
   merely tasting the fresh root in January." Poisonous doses of
-  hellebore occasion in man singing in the ears, vertigo, stupor,
+  hellebore occasion in man singing in the [[Ear|ears]], vertigo, stupor,
   thirst, with a feeling of suffocation, swelling of the tongue and
   fauces, emesis and catharsis, slowing of the pulse, and finally
   collapse and death from cardiac paralysis. Inspection after death
@@ -128,7 +128,7 @@ eleven days 65% of water.
   the rhizome was formerly official. _H. foetidus_ was in past times
   much extolled as an anthelmintic, and is recommended by Bisset (_Med.
   Ess._, pp. 169 and 195, 1766) as the best vermifuge for children; J.
-  Cook, however, remarks of it (_Oxford Mag._, March 1769, p. 99):
+  [[Cook]], however, remarks of it (_Oxford Mag._, March 1769, p. 99):
   "Where it killed not the patient, it would certainly kill the worms;
   but the worst of it is, it will sometimes kill both." This plant, of
   old termed by farriers ox-heel, setter-wort and setter-grass, as well
@@ -148,7 +148,7 @@ eleven days 65% of water.
   the descriptions given by the ancients of black hellebore, the [Greek:
   helleboros melas] of Dioscorides. The rhizome of this plant, if
   identical, as would appear, with that obtained by Tournefort at Prusa
-  in Asia Minor (_Rel. d'un voy. du Levant_, ii. 189, 1718), must be a
+  in Asia Minor (_Rel. d'un voy. du [[Levant]]_, ii. 189, 1718), must be a
   remedy of no small toxic properties. According to an early tradition,
   black hellebore administered by the soothsayer and physician Melampus
   (whence its name _Melampodium_), was the means of curing the madness
@@ -157,7 +157,7 @@ eleven days 65% of water.
   insanity, a fact frequently alluded to by classical writers, e.g.
   Horace (_Sat._ ii. 3. 80-83, _Ep. ad Pis._ 300). Various superstitions
   were in olden times connected with the cutting of black hellebore. The
-  best is said by Pliny (_Nat. hist._ xxv. 21) to grow on Mt Helicon. Of
+  best is said by Pliny (_Nat. hist._ xxv. 21) to grow on Mt [[Helicon]]. Of
   the three Anticyras that in Phocis was the most famed for its
   hellebore, which, being there used combined with "sesamoides," was,
   according to Pliny, taken with more safety than elsewhere.
@@ -168,7 +168,7 @@ to administer this drug. It may be given in doses of 5-15 minims. The
 tincture is prepared from the dried rhizome and rootlets of green
 hellebore, containing the alkaloids jervine, veratrine and veratroidine.
 It is recommended as a cardiac and nervous sedative in cerebral
-haemorrhage and puerperal eclampsia. Black hellebore is a purgative and
+[[Haemorrhage|haemorrhage]] and puerperal eclampsia. Black hellebore is a purgative and
 uterine stimulant.
 
 

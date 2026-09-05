@@ -26,14 +26,14 @@ used the Greek. It probably dates from about the beginning of the first
 century B.C.[2]
 
 As it supplies a detailed and accurate record of the forty years from
-the accession of Antiochus Epiphanes to the death of Simon (175-135
+the accession of [[Antiochus]] Epiphanes to the death of Simon (175-135
 B.C.), without doubt the most stirring chapter in Jewish history, the
 book is one of the most precious historical sources we possess. In its
-careful chronology, based upon the Seleucid era, in the minuteness of
+careful [[Chronology|chronology]], based upon the Seleucid era, in the minuteness of
 its geographical knowledge, in the frankness with which it records
 defeat as well as victory, on the restraint with which it speaks of the
 enemies of the Jews, in its command of details, it bears on its face the
-stamp of genuineness. Not that it is wholly free from error or
+stamp of genuineness. Not that it is wholly free from [[Error|error]] or
 exaggeration, but its mistakes are due merely to defective knowledge of
 the outside world, and its overstatements, virtually confined to the
 matter of numbers, proceed from a patriotic desire to magnify Jewish
@@ -49,7 +49,7 @@ Testament, the work is characterized by a religious reticence which
 avoids even the use of the divine name, and by the virtual absence of
 the Messianic hope. The observance of the law is strongly urged, and the
 cessation of prophecy deplored (iv. 46; xiv. 41). There is no allusion
-either to the immortality of the soul or to the resurrection of the
+either to the [[Immortality|immortality]] of the soul or to the resurrection of the
 dead. The rewards to which the dying Mattathias points his sons are all
 for this life. Many scholars are of opinion that the unknown author was
 a Sadducee,[4] but all that can be said with certainty is that he was a
@@ -61,12 +61,12 @@ Palestinian Jew devotedly attached to the national cause.
   resembles the rest of the books of Holy Scripture, and would not be
   unworthy to be enumerated with them."
 
-_2 Maccabees_, the epitome of a larger work in five books by one Jason
+_2 Maccabees_, the [[Epitome|epitome]] of a larger work in five books by one [[Jason]]
 of Cyrene, deals with the same history as its predecessor, except that
 it begins at a point one year earlier (176 B.C.), and stops short at the
 death of Nicanor (161 B.C.), thus covering a period of only fifteen
 years. First of all[5] the writer describes the futile attempt of
-Heliodorus to rob the Temple, and the malicious intrigues of the
+[[Heliodorus]] to rob the Temple, and the malicious intrigues of the
 Benjamite Simon against the worthy high priest Onias III. (iii. i-iv.
 6). As throwing light upon the situation prior to the Maccabaean revolt
 this section of the book is of especial value. Chapters iv. 7-vii. 42
@@ -98,11 +98,11 @@ mercilessly, and in exact correspondence to their sins.[6] The
 chastisements of erring Jews are of short duration, and intended to
 recall them to duty. If the faithful suffer martyrdom, it is in order to
 serve as an example to others, and they shall be compensated by being
-raised up "unto an eternal renewal of life." The eschatology of 2 Macc.
+raised up "unto an eternal renewal of life." The [[Eschatology|eschatology]] of 2 Macc.
 is singularly advanced, for it combines the doctrine of a resurrection
 with that of immortality. It is worthy of note that the Roman Church
 finds support in this book for its teaching with reference to prayers
-for the dead and purgatory (xii. 43 seq.). An allusion to Jeremiah as
+for the dead and purgatory (xii. 43 seq.). An allusion to [[Jeremiah]] as
 "he who prayeth much for the people and the holy city" (xv. 14) it
 likewise appeals to as favouring its views respecting the intercession
 of the saints.
@@ -152,7 +152,7 @@ virtually ignored.
   Alexandria. Clerks were told off to prepare a list of the prisoners'
   names, but after forty days constant toil they had exhausted their
   writing materials without finishing their task. Ptolemy further
-  commanded that 500 elephants should be intoxicated and let loose upon
+  commanded that 500 [[Elephant|elephants]] should be intoxicated and let loose upon
   the occupants of the race-course. Only an accident prevented the
   carrying out of this design; the king had slept until it was past the
   time for his principal meal. On the following day, in virtue of a
@@ -185,20 +185,20 @@ the aim and scope of his work. Then follows the first main division (i.
 reason is the mistress of the passions, inquiring what is meant by
 "reason" and what by "passion," as well as how many kinds of passion
 there are, and whether reason rules them all. The conclusion reached is
-that with the exception of forgetfulness and ignorance all the
+that with the exception of forgetfulness and [[Ignorance|ignorance]] all the
 affections are under the lordship of reason, or at all events of _pious_
 reason. To follow the dictates of pious reason in opposition to natural
 inclination is to have learned the secret of victory over the passions.
 In the second part of the book (iii. 19-xviii. 5) the writer goes on to
 prove his thesis from Jewish history, dwelling in particular upon the
 noble stand made against the tyranny of Antiochus IV. Epiphanes by the
-priest Eleazar, the seven brothers and their mother--all of whom chose
+priest Eleazar, the seven brothers and their mother--all of whom [[Chose|chose]]
 torture and death rather than apostatize from the faith. Finally he
 appeals to his readers to emulate these acts of piety (xvii. 7-xviii.
 24). In his gruesome descriptions of physical sufferings the author
 offends against good taste even more than the writer of 2 Macc., while
 both contrast very unfavourably in this respect with the sober reserve
-of the gospel narratives.
+of the [[Gospel|gospel]] narratives.
 
 The book is written in a cultured, if somewhat rhetorical, Greek style,
 and is unmistakably coloured by the Stoic philosophy. The four cardinal
@@ -231,7 +231,7 @@ acceptance it met with in the Christian Church) prior to the destruction
 of Jerusalem. Most likely it is a product of the Herodian period.
 
 _5 Maccabees._ Writing in 1566 Sixtus Senensis mentions having seen at
-Lyons a manuscript of a so-called "Fifth Book of Maccabees" in the
+[[Lyons]] a [[Manuscript|manuscript]] of a so-called "Fifth Book of Maccabees" in the
 library of Santas Pagninus, which was soon afterwards destroyed by fire.
 It began with the words: "After the murder of Simon, John his son became
 high priest in his stead." Sixtus conjectures that it may have been a
@@ -282,7 +282,7 @@ FOOTNOTES:
     commentaries). The book may, however, have been known to Origen only
     in an Aramaic translation, in which case, according to the happy
     conjecture of Dalman (_Gramm._ 6) the two words may have represented
-    the Aramaic [Hebrew: sefer beit Hashmonai] ("book of the Hasmonaean
+    the Aramaic [Hebrew: sefer [[Beit|beit]] Hashmonai] ("book of the Hasmonaean
     house").
 
   [2] If the book is a unity, ch. xvi. 23 implies that it was written
@@ -298,14 +298,14 @@ FOOTNOTES:
   [5] Prefixed to the book are two spurious letters from Palestinian
     Jews (i., ii. 18), having no real connexion with it, or even with one
     another, further than that they both urge Egyptian Jews to observe
-    the Feast of the Dedication. Between these and the main narrative is
+    the Feast of the [[Dedication]]. Between these and the main narrative is
     inserted the writer's own preface, in which he explains the source
     and aim of his work (ii. 19-32).
 
   [6] iv. 38. 42; v. 9 seq.; ix. 5-18.
 
   [7] The date of composition can be only approximately determined. As
-    the writer is acquainted with the Greek additions to Daniel (vi. 6),
+    the writer is acquainted with the Greek additions to [[Daniel]] (vi. 6),
     the first century B.C. forms the superior limit; and as the book
     found favour in the Eastern Church, the first century A.D. forms the
     inferior limit.
@@ -352,7 +352,7 @@ translations from nearly all the modern languages, took immensely with
 his countrymen on account of their patriotic ring. This was followed by
 _The Bellfounder_ (1857), _Under-glimpses_ and other poems (1857) and
 _The Early Life of Shelley_ (1871). In 1853 he began a number of
-translations from the Spanish of Calderon's dramas, which won for him a
+translations from the Spanish of Calderon's [[Drama|dramas]], which won for him a
 medal from the Royal Spanish Academy. He had already been granted a
 civil list pension for his literary services. He died in Ireland on the
 7th of April 1882.

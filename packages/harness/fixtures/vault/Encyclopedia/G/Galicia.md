@@ -1,7 +1,7 @@
 # Galicia
 
 GALICIA (Ger. _Galizien_; Pol. _Halicz_), a crownland of Austria,
-bounded E. and N. by Russia, S. by Bukovina and Hungary, and W. by
+bounded E. and N. by Russia, S. by [[Bukovina]] and Hungary, and W. by
 Austrian and Prussian Silesia. It has an area of 30,299 sq. m., and is
 the largest Austrian province. It comprises the old kingdoms of Galicia
 and Lodomeria, the duchies of Auschwitz and Zator, and the grand duchy
@@ -10,13 +10,13 @@ of Cracow.
 Galicia lies on the northern slopes of the Carpathians, which with their
 offshoots cover about a third of the whole area of the country. The
 surface gradually sinks down by undulating terraces to the valleys of
-the Vistula and Dniester. To the N. and E. of these rivers Galicia forms
+the Vistula and [[Dniester]]. To the N. and E. of these rivers Galicia forms
 a continuation of the great plains of Russia, intersected only by a few
 hills, which descend from the plateaus of Poland and Podolia, and which
 attain in some places an altitude of 1300 to 1500 ft. The Carpathians,
 which, extending in the form of an arc, form the boundary between
 Galicia and Hungary, are divided into the West and the East Beskides,
-which are separated by the northern ramifications of the massif of the
+which are separated by the northern ramifications of the [[Massif|massif]] of the
 Tatra. The highest peaks are the Babia Gora (5650 ft.), the Wolowiec
 (6773 ft.) and the Cserna Gora (6505 ft.). The principal passes are
 those of Zdjar over the Tatra, and of Dukla, Vereczke Korosmezo or
@@ -42,7 +42,7 @@ Exposed to the cold northern and north-eastern winds, and shut out by
 the Carpathians from the warm southerly winds, Galicia has the severest
 climate in Austria. It has long winters, with an abundant snowfall,
 short and wet springs, hot summers and long and steady autumns. The mean
-annual temperature at Lemberg is 46.2 deg. F., and at Tarnopol only 43
+annual temperature at [[Lemberg]] is 46.2 deg. F., and at Tarnopol only 43
 deg. F.
 
 Of the total area 48.45% is occupied by arable land, 11.16% by meadows,
@@ -50,18 +50,18 @@ Of the total area 48.45% is occupied by arable land, 11.16% by meadows,
 generally fertile, but agriculture is still backward. The principal
 products are barley, oats, rye, wheat, maize and leguminous plants.
 Galicia has the largest area under potatoes and legumes in the whole of
-Austria, and hemp, flax, tobacco and hops are of considerable
+Austria, and hemp, flax, tobacco and [[Hop|hops]] are of considerable
 importance. The principal mineral products are salt, coal and petroleum.
 Salt is extracted at Wieliczka, Bochnia, Bolechow, Dolina, Kalusz and
 Kosow. Coals are found in the Cracow district at Jaworzno, at Siersza
-near Trzebinia and at Dabrowa. Some of the richest petroleum fields in
+near Trzebinia and at Dabrowa. Some of the richest petroleum [[Fields|fields]] in
 Europe are spread in the region of the Carpathians, and are worked at
 Boryslaw and Schodnica near Drohobycz, Bobrka and Potok near Krosno,
 Sloboda-Rungurska near Kolomea, &c. Great quantities of ozocerite are
 also extracted in the petroliferous region of the Carpathians. Other
 mineral products are zinc, extracted at Trzebionka and Wodna in the
 Cracow region, amounting to 40% of the total zinc production in Austria,
-iron ore, marble and various stones for construction. The sulphur mines
+iron ore, [[Marble|marble]] and various stones for construction. The sulphur mines
 of Swoszowice near Cracow, which had been worked since 1598, were
 abandoned in 1884.
 
@@ -113,20 +113,20 @@ Galicia (or Halicz) took its rise, along with the neighbouring
 principality of Lodomeria (or Vladimir), in the course of the 12th
 century--the seat of the ruling dynasty being Halicz or Halitch.
 Disputes between the Galician and Lodomerian houses led to the
-interference of the king of Hungary, Bela III., who in 1190 assumed the
+interference of the king of Hungary, [[Bela]] III., who in 1190 assumed the
 title of king, and appointed his son Andreas lieutenant of the kingdom.
 Polish assistance, however, enabled Vladimir, the former possessor, to
 expel Andreas, and in 1198 Roman, prince of Lodomeria, made himself
 master of Galicia also. On his death in 1205 the struggle between Poland
 and Hungary for supremacy in the country was resumed; but in 1215 it was
-arranged that Daniel (1205-1264), son of Roman, should be invested with
-Lodomeria, and Coloman, son of the Hungarian king, with Galicia.
+arranged that [[Daniel]] (1205-1264), son of Roman, should be invested with
+Lodomeria, and [[Coloman]], son of the Hungarian king, with Galicia.
 Coloman, however, was expelled by Mstislav of Novgorod; and in his turn
 Andreas, Mstislav's nominee, was expelled by Daniel of Lodomeria, a
 powerful prince, who by a flexible policy succeeded in maintaining his
 position. Though in 1235 he had recognized the overlordship of Hungary,
 yet, when he found himself hard pressed by the Mongolian general Batu,
-he called in the assistance of Innocent IV., and accepted the crown of
+he called in the assistance of [[Innocent]] IV., and accepted the crown of
 Galicia from the hands of a papal legate; and again, when Innocent
 disappointed his expectation, he returned to his former connexion with
 the Greek Church. On the extinction of his line in 1340 Casimir III. of

@@ -2,7 +2,7 @@
 
 EPAMINONDAS (c. 418-362), Theban general and statesman, born about 418
 B.C. of a noble but impoverished family. For his education he was
-chiefly indebted to Lysis of Tarentum, a Pythagorean exile who had found
+chiefly indebted to [[Lysis Of Tarentum|Lysis of Tarentum]], a Pythagorean exile who had found
 refuge with his father Polymnis. He first comes into notice in the
 attack upon Mantineia in 385, when he fought on the Spartan side and
 saved the life of his future colleague Pelopidas. In his youth
@@ -13,13 +13,13 @@ in organizing the Theban defence. In 371 he represented Thebes at the
 congress in Sparta, and by his refusal to surrender the Boeotian cities
 under Theban control prevented the conclusion of a general peace. In the
 ensuing campaign he commanded the Boeotian army which met the
-Peloponnesian levy at Leuctra, and by a brilliant victory on this site,
+Peloponnesian [[Levy|levy]] at [[Leuctra]], and by a brilliant victory on this site,
 due mainly to his daring innovations in the tactics of the heavy
 infantry, established at once the predominance of Thebes among the
 land-powers of Greece and his own fame as the greatest and most original
 of Greek generals. At the instigation of the Peloponnesian states which
 armed against Sparta in consequence of this battle, Epaminondas in 370
-led a large host into Laconia; though unable to capture Sparta he
+led a large host into [[Laconia]]; though unable to capture Sparta he
 ravaged its territory and dealt a lasting blow at Sparta's predominance
 in Peloponnesus by liberating the Messenians and rebuilding their
 capital at Messene. Accused on his return to Thebes of having exceeded
@@ -31,7 +31,7 @@ command contrived the safe retreat of the Theban army from a difficult
 position. Returning to Thessaly next year at the head of an army he
 procured the liberation of Pelopidas from the tyrant Alexander of Pherae
 without striking a blow. In his third expedition (366) to Peloponnesus,
-Epaminondas again eluded the Isthmus garrison and won over the Achaeans
+Epaminondas again eluded the Isthmus [[Garrison|garrison]] and won over the Achaeans
 to the Theban alliance. Turning his attention to the growing maritime
 power of Athens, Epaminondas next equipped a fleet of 100 triremes, and
 during a cruise to the Propontis detached several states from the
@@ -48,7 +48,7 @@ His title to fame rests mainly on his brilliant qualities both as a
 strategist and as a tactician; his influence on military art in Greece
 was of the greatest. For the purity and uprightness of his character he
 likewise stood in high repute; his culture and eloquence equalled the
-highest Attic standard. In politics his chief achievement was the final
+highest [[Attic]] standard. In politics his chief achievement was the final
 overthrow of Sparta's predominance in the Peloponnese; as a constructive
 statesman he displayed no special talent, and the lofty pan-Hellenic
 ambitions which are imputed to him at any rate never found a practical

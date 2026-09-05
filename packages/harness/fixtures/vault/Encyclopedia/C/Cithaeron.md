@@ -7,16 +7,16 @@ topic: history
 # Cithaeron
 
 CITHAERON, now called from its pine forests Elatea, a famous mountain
-range (4626 ft.) in the south of Boeotia, separating that state from
+range (4626 ft.) in the south of [[Boeotia]], separating that state from
 Megaris and Attica. It was famous in Greek mythology, and is frequently
 mentioned by the great poets, especially by Sophocles. It was on
 Cithaeron that Aetaeon was changed into a stag, that Pentheus was torn
 to pieces by the Bacchantes whose orgies he had been watching, and that
-the infant Oedipus was exposed. This mountain, too, was the scene of the
-mystic rites of Dionysus, and the festival of the Daedala in honour of
-Hera. The carriage-road from Athens to Thebes crosses the range by a
+the [[Infant|infant]] Oedipus was exposed. This mountain, too, was the scene of the
+mystic rites of [[Dionysus]], and the festival of the Daedala in honour of
+[[Hera]]. The carriage-road from Athens to Thebes crosses the range by a
 picturesque defile (the pass of Dryoscephalae, "Oak-heads"), which was
-at one time guarded on the Attic side by a strong fortress, the ruins of
+at one time guarded on the [[Attic]] side by a strong fortress, the ruins of
 which are known as Ghyphto-kastro ("Gipsy Castle"). Plataea is situated
 on the north slope of the mountain, and the strategy of the battle of
 479 B.C. was considerably affected by the fact that it was necessary for

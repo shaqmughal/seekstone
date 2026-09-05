@@ -14,12 +14,12 @@ lieutenant under William Moultrie in a campaign against the Cherokees.
 In 1775 he was a member of the South Carolina Provincial Congress; and
 on the 21st of June was commissioned captain in the 2nd South Carolina
 regiment under W. Moultrie, with whom he served in June 1776 in the
-defence of Fort Sullivan (Fort Moultrie), in Charleston Harbor. In
+defence of Fort Sullivan (Fort Moultrie), in [[Charleston]] Harbor. In
 September 1776 the Continental Congress commissioned him a
 lieutenant-colonel. In the autumn of 1779 he took part in the siege of
 Savannah, and early in 1780, under General Benjamin Lincoln, was engaged
 in drilling militia. After the capture of Charleston (May 12,1780) and
-the defeats of General Isaac Huger at Monk's Corner (Berkeley county,
+the defeats of General [[Isaac]] Huger at Monk's Corner (Berkeley county,
 South Carolina) and Lieut.-Colonel Abraham Buford at the Waxhaws (near
 the North Carolina line, in what is now Lancaster county), Marion
 organized a small troop--which usually consisted of between 20 and 70

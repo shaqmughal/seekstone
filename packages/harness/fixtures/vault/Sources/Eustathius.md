@@ -13,18 +13,18 @@ of the 12th century. He was at first a monk, and afterwards deacon of St
 Sophia and teacher of rhetoric in his native city. In 1174 he was chosen
 bishop of Myra in Lycia, but in 1175 was transferred to Thessalonica. He
 was outspoken and independent, and did not hesitate to oppose the
-emperor Manuel, when the latter desired an alteration in the formula of
+emperor [[Manuel]], when the latter desired an alteration in the formula of
 abjuration necessary for converts from Mahommedanism. In 1185, when
 Thessalonica was captured by the Normans under William II. of Sicily,
 Eustathius secured religious toleration for the conquered. He died about
 1193. His best known work is his _Commentary on the Iliad and Odyssey of
-Homer_ ([Greek: parekbolai], critical compilations), valuable as
+[[Homer]]_ ([Greek: parekbolai], critical compilations), valuable as
 containing numerous extracts from the scholia of other critics, whose
 works have now perished. He also wrote a commentary on the geographical
-epic of Dionysius Periegetes, in which much of Stephanus of Byzantium
-and the lost writings of Arrian is preserved. A commentary on Pindar has
+epic of [[Dionysius]] Periegetes, in which much of Stephanus of Byzantium
+and the lost writings of [[Arrian]] is preserved. A commentary on Pindar has
 been lost, with the exception of the preface, which contains an essay on
-lyric poetry, a life of Pindar, and an account of the Olympic games. A
+lyric poetry, a life of Pindar, and an account of the Olympic [[Games|games]]. A
 history of the conquest of Thessalonica by the Normans, a congratulatory
 address to the emperor Manuel, a plea for an improved water-supply for
 Constantinople, and an extensive correspondence with clerical and lay
@@ -32,7 +32,7 @@ dignitaries, are evidence of his versatility. He is also the author of
 various religious works, chiefly directed against the prevailing abuses
 of his time, which almost anticipate, though in a milder form, the
 denunciations of Luther; the most important of these is _The Reform of
-Monastic Life_. A commentary on the pentecostal hymn of John of Damascus
+Monastic Life_. A commentary on the pentecostal hymn of [[John Of Damascus|John of Damascus]]
 may also be mentioned.
 
   Editions: Homer Commentary, by G. Stallbaum (1825-1830); preface to

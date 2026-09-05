@@ -5,14 +5,14 @@ guaiacum or lignum-vitae tree (Ger. _Guajakbaum_, _Franzosenbaum_,
 _Pockenholzbaum_; Fr. _Gayac_, _Gaiac_), _G. officinale_, is a native of
 the West Indies and the north coast of South America, where it attains a
 height of 20 to 30 ft. Its branches are numerous, flexuous and knotted;
-the leaves opposite and pinnate, with caducous (falling early) stipules,
+the leaves opposite and pinnate, with [[Caducous|caducous]] (falling early) stipules,
 and entire, glabrous, obovate or oval leaflets, arranged in 2 or, more
 rarely, 3 pairs; the flowers are in axillary clusters (cymes), and have
 5 oval pubescent sepals, 5 distinct pale-blue petals three times the
 length of the sepals, 10 stamens, and a 2-celled superior ovary. The
 fruit is about 3/4 in. long, with a leathery pericarp, and contains in
 each of its two cells a single seed (see fig.). _G. sanctum_ grows in
-the Bahamas and Cuba, and at Key West in Florida. It is distinguished
+the [[Bahamas]] and Cuba, and at [[Key]] West in Florida. It is distinguished
 from _G. officinale_ by its smaller and narrow leaflets, which are in 4
 to 5 pairs, by its shorter and glabrous sepals, and 5-celled and
 5-winged fruit. _G. arboreum_, the guaiacum tree of Colombia, is found
@@ -26,19 +26,19 @@ The lignum vitae of commerce, so named on account of its high repute as
 a medicinal agent in past times, when also it was known as _lignum
 sanctum_ and _lignum Indicum_, _lignum guaycanum_, or simply _guayacan_,
 is procured from _G. officinale_, and in smaller amount from _G.
-sanctum_. It is exported in large logs or blocks, generally divested of
+sanctum_. It is exported in large [[Log|logs]] or blocks, generally divested of
 bark, and presents in transverse section very slightly marked concentric
 rings of growth, and scarcely any traces of pith; with the aid of a
 magnifying glass the medullary rays are seen to be equidistant and very
 numerous. The outer wood, the sapwood or alburnum, is of a pale yellow
-hue, and devoid of resin; the inner, the heartwood or duramen, which is
+[[Hue|hue]], and devoid of resin; the inner, the heartwood or duramen, which is
 by far the larger proportion, is of a dark greenish-brown, contains in
 its pores 26% of resin, and has a specific gravity of 1.333, and
-therefore sinks in water on which the alburnum floats. Owing to the
+therefore sinks in water on which the alburnum [[Float|floats]]. Owing to the
 diagonal and oblique arrangement of the successive layers of its fibres,
 the wood cannot be split; and on account of its hardness, density and
 durability it is much valued for the manufacture of ships' pulleys,
-rulers, skittle-balls, mallets and other articles.
+rulers, skittle-balls, [[Mallet|mallets]] and other articles.
 
 [Illustration: From Bentley & Trimen's _Medicinal Plants_, by permission
 of J. & A. Churchill.
@@ -63,7 +63,7 @@ St Domingo, the Bahamas and Jamaica.
   about 3 ft. in length, bored to permit of the outflow of the resin; or
   by boiling chips and raspings in water to which salt has been added to
   raise the temperature of ebullition. It occurs in rounded or oval
-  tears, commonly coated with a greyish-green dust, and supposed to be
+  tears, commonly coated with a greyish-green [[Dust|dust]], and supposed to be
   the produce of _G. sanctum_, or in large brownish or greenish-brown
   masses, translucent at the edges; fuses at 85 deg. C.; is brittle, and
   has a vitreous fracture, and a slightly balsamic odour, increased by
@@ -116,7 +116,7 @@ St Domingo, the Bahamas and Jamaica.
   doses of 5-15 grains. Its important preparations in the British
   Pharmacopoeia are the _mistura guiaci_ (dose 1/2-1 oz.), the
   ammoniated tincture of guaiacum (dose 1/2-1 drachm), in which the
-  resin is dissolved by means of ammonia, and the trochiscus or lozenge,
+  resin is dissolved by means of ammonia, and the trochiscus or [[Lozenge|lozenge]],
   containing 3 grains of the resin. This lozenge is undoubtedly of value
   when given early in cases of sore throat, especially of rheumatic
   origin. Powdered guaiacum is also used.
@@ -140,7 +140,7 @@ St Domingo, the Bahamas and Jamaica.
   presence of blood, or rather of haemoglobin, the red colouring matter
   of the blood, in urine or other secretions. This test was first
   suggested by Dr John Day of Geelong, Australia. A _single drop_ of the
-  tincture should be added to, say, an inch of urine in a test-tube. The
+  tincture should be added to, say, an [[Inch|inch]] of urine in a test-tube. The
   resin is at once precipitated, yielding a milky fluid. If "ozonic
   ether"--an ethereal solution of hydrogen peroxide--be now poured
   gently into the test-tube, a deep blue coloration is produced along

@@ -18,7 +18,7 @@ Martin Frobisher, and in 1571-1572 as being in the public service at sea
 off the coast of Ireland. He married in 1559. As early as 1560 or 1561
 Frobisher had formed a resolution to undertake a voyage in search of a
 North-West Passage to Cathay and India. The discovery of such a route
-was the motive of most of the Arctic voyages undertaken at that period
+was the motive of most of the [[Arctic]] voyages undertaken at that period
 and for long after, but Frobisher's special merit was in being the first
 to give to this enterprise a national character. For fifteen years he
 solicited in vain the necessary means to carry his project into
@@ -28,7 +28,7 @@ put in command of an expedition consisting of two tiny barks, the
 10 tons, with an aggregate crew of 35.
 
 He weighed anchor at Blackwall, and, after having received a good word
-from Queen Elizabeth at Greenwich, set sail on the 7th of June, by way
+from Queen Elizabeth at [[Greenwich]], set sail on the 7th of June, by way
 of the Shetland Islands. Stormy weather was encountered in which the
 pinnace was lost, and some time afterwards the "Michael" deserted; but
 stoutly continuing the voyage alone, on the 28th of July the "Gabriel"
@@ -51,7 +51,7 @@ this expedition, it was noised abroad that the apparently valueless
 this rumour arose, and whether there was any truth in it, or whether
 Frobisher was a party to a deception, in order to obtain means to carry
 out the great idea of his life. The story, at any rate, was so far
-successful; the greatest enthusiasm was manifested by the court and the
+successful; the greatest [[Enthusiasm|enthusiasm]] was manifested by the court and the
 commercial and speculating world of the time; and next year a much more
 important expedition than the former was fitted out, the queen lending
 the "Aid" from the royal navy and subscribing L1000 towards the expenses
@@ -69,11 +69,11 @@ queen's name. Several weeks were now spent in collecting ore, but very
 little was done in the way of discovery, Frobisher being specially
 directed by his commission to "defer the further discovery of the
 passage until another time." There was much parleying and some
-skirmishing with the natives, and earnest but futile attempts made to
+skirmishing with the natives, and [[Earnest|earnest]] but futile attempts made to
 recover the men captured the previous year. The return was begun on the
 23rd of August, and the "Aid" reached Milford Haven on the 23rd of
 September; the "Gabriel" and "Michael," having separated, arrived later
-at Bristol and Yarmouth.
+at [[Bristol]] and Yarmouth.
 
 Frobisher was received and thanked by the queen at Windsor. Great
 preparations were made and considerable expense incurred for the
@@ -88,11 +88,11 @@ the queen at Greenwich, and her Majesty threw a fine chain of gold
 around his neck. On the 31st of May 1578 the expedition, consisting in
 all of fifteen vessels, left Harwich, and sailing by the English Channel
 on the 20th of June reached the south of Greenland, where Frobisher and
-some of his men managed to land. On the 2nd of July the foreland of
+some of his men managed to land. On the 2nd of July the [[Foreland|foreland]] of
 Frobisher Bay was sighted, but stormy weather and dangerous ice
 prevented the rendezvous from being gained, and, besides causing the
 wreck of the barque "Dennis" of 100 tons, drove the fleet unwittingly up
-a new (Hudson) strait. After proceeding about 60 m. up this "mistaken
+a new ([[Hudson]]) strait. After proceeding about 60 m. up this "mistaken
 strait," Frobisher with apparent reluctance turned back, and after many
 bufferings and separations the fleet at last came to anchor in Frobisher
 Bay. Some attempt was made at founding a settlement, and a large
@@ -121,7 +121,7 @@ a landed proprietor in Yorkshire and Notts. He found, however, little
 leisure for a country life, and the following year took charge of the
 fleet fitted out by Sir Walter Raleigh to the Spanish coast, returning
 with a rich prize. In November 1594 he was engaged with a squadron in
-the siege and relief of Brest, when he received a wound at Fort Crozon
+the siege and relief of [[Brest]], when he received a wound at Fort Crozon
 from which he died at Plymouth on the 22nd of November. His body was
 taken to London and buried at St Giles', Cripplegate. Though he appears
 to have been somewhat rough in his bearing, and too strict a

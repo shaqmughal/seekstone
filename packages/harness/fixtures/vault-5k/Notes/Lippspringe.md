@@ -8,7 +8,7 @@ topic: composers
 
 LIPPSPRINGE, a town and watering-place in the Prussian province of
 Westphalia, lying under the western slope of the Teutoburger Wald, 5 m.
-N. of Paderborn. Pop. (1905) 3100. The springs, the Arminius Quelle and
+N. of Paderborn. Pop. (1905) 3100. The springs, the [[Arminius]] Quelle and
 the Liborius Quelle, for which it is famous, are saline waters of a
 temperature of 70° F., and are utilized both for bathing and drinking in
 cases of pulmonary consumption and chronic diseases of the respiratory

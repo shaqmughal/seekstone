@@ -1,7 +1,7 @@
 # Ilmenite
 
 ILMENITE, a mineral known also as titanic iron, formerly regarded as an
-iron and titanium sesquioxide (Fe, Ti)2O3 isomorphous with haematite
+iron and titanium sesquioxide (Fe, Ti)2O3 isomorphous with [[Haematite|haematite]]
 (Fe2O3), but now generally considered to be an iron titanate FeTiO3
 isomorphous with pyrophanite (MnTiO3) and geikielite (MgTiO3). It
 crystallizes in the parallel-faced hemihedral class of the rhombohedral
@@ -15,13 +15,13 @@ which should be the case if the three substances were isomorphous.
 Analyses show wide variations in chemical composition, and there is a
 gradation from normal ilmenite FeTiO3 (with titanium dioxide 52.7, and
 ferrous oxide 47.3%) to titaniferous haematite and titaniferous
-magnetite. Frequently also, magnesia and manganous oxide are present in
+[[Magnetite|magnetite]]. Frequently also, magnesia and manganous oxide are present in
 small amounts, the former reaching 16%. The formula (Fe, Mg)TiO3 is then
 analogous to those of geikielite and pyrophanite. Many analyses show the
 presence of TiO2 and (Fe, Mg)O in this ratio of 1:1, yet there is often
 an excess of ferric oxide to be accounted for; this may perhaps be
 explained by the regular intergrowth on a minute scale of ilmenite with
-haematite, like the intergrowth of such substances as calcite and sodium
+haematite, like the intergrowth of such substances as [[Calcite|calcite]] and sodium
 nitrate, which are similar crystallographically but not chemically.
 
 [Illustration]
@@ -41,10 +41,10 @@ Owing to the wide variations in composition, which even yet are not
 properly understood, several varieties of the mineral have been
 distinguished by special names. Crichtonite occurs as small and
 brilliant crystals of acute rhombohedral habit on quartz at Le Bourg
-d'Oisans in Dauphiné; it agrees closely in composition with the formula
+d'Oisans in [[Dauphin]]é; it agrees closely in composition with the formula
 FeTiO3 and has a specific gravity of 4.7. Manaccanite (or Menaccanite)
 is a black sandy material, first found in 1791 in a stream at Manaccan
-near Helston in Cornwall. Iserite, from Iserwiese in the Iser Mountains,
+near [[Helston]] in [[Cornwall]]. Iserite, from Iserwiese in the Iser Mountains,
 Bohemia, is a similar sand, but containing some octahedral crystals,
 possibly of titaniferous magnetite. Washingtonite is found as large
 tabular crystals at Washington, Connecticut. Uddevallite is from
@@ -56,10 +56,10 @@ Mountains in the southern Urals, whence come the best crystals of the
 mineral. The largest crystals, sometimes as much as 16 lb. in weight,
 are from Kragerö and Arendal in Norway.
 
-Ilmenite occurs, often in association with magnetite, in gneisses and
+Ilmenite occurs, often in association with magnetite, in [[Gneiss|gneisses]] and
 schists, sometimes forming beds of considerable extent, but of little or
 no economic value. It is a common accessory constituent of igneous rocks
-of all kinds, more especially basic rocks such as gabbro, diabase and
+of all kinds, more especially basic rocks such as [[Gabbro|gabbro]], diabase and
 basalt. In these rocks it occurs as platy crystals, and is frequently
 represented by a white, opaque alteration product known as leucoxene.
      (L. J. S.)

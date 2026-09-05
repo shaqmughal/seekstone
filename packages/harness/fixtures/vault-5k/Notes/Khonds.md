@@ -11,7 +11,7 @@ subdivision of Angul district in Orissa: area, 800 sq. m.; pop. (1901),
 million persons, is much more closely related to Telugu than is Gondi.
 The Khonds are a finer type than the Gonds. They are as tall as the
 average Hindu and not much darker, while in features they are very
-Aryan. They are undoubtedly a mixed Dravidian race, with much Aryan
+[[Aryan]]. They are undoubtedly a mixed [[Dravidian]] race, with much Aryan
 blood.
 
 The Khonds became notorious, on the British occupation of their district

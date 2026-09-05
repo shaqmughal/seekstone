@@ -2,10 +2,10 @@
 
 BEATRICE, a city and the county-seat of Gage county, in S.E. Nebraska,
 U.S.A., about 40 m. S. of Lincoln. Pop. (1900) 7875 (852 foreign-born);
-(1910) 9356. It is served by the Chicago, Burlington & Quincy, the
+(1910) 9356. It is served by the [[Chicago]], [[Burlington]] & Quincy, the
 Chicago, Rock Island & Pacific, and the Union Pacific railways. Beatrice
 is the seat of the state institute for feeble-minded youth, and has a
-Carnegie library. The city is very prettily situated in the valley of
+[[Carnegie]] library. The city is very prettily situated in the valley of
 the Big Blue river, in the midst of a fine agricultural region. Among
 its manufactures are dairy products (there is a large creamery), canned
 goods, flour and grist mill products, gasoline engines, well-machinery,

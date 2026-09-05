@@ -9,16 +9,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Electra"
 # Electra
 
 ELECTRA ([Greek: Elektra]), "the bright one," in Greek mythology. (1)
-One of the seven Pleiades, daughter of Atlas and Pleïone. She is closely
+One of the seven Pleiades, daughter of [[Atlas]] and Pleïone. She is closely
 connected with the old constellation worship and the religion of
-Samothrace, the chief seat of the Cabeiri (q.v.), where she was
-generally supposed to dwell. By Zeus she was the mother of Dardanus,
+Samothrace, the chief seat of the [[Cabeiri]] (q.v.), where she was
+generally supposed to dwell. By Zeus she was the mother of [[Dardanus]],
 Iasion (or Eëtion), and Harmonia; but in the Italian tradition, which
 represented Italy as the original home of the Trojans, Dardanus was her
 son by a king of Italy named Corythus. After her amour with Zeus,
 Electra fled to the Palladium as a suppliant, but Athena, enraged that
 it had been touched by one who was no longer a maiden, flung Electra and
-the image from heaven to earth, where it was found by Ilus, and taken by
+the [[Image|image]] from heaven to earth, where it was found by Ilus, and taken by
 him to Ilium; according to another tradition, Electra herself took it to
 Ilium, and gave it to her son Dardanus (Schol. Eurip. _Phoen._ 1136). In
 her grief at the destruction of the city she plucked out her hair and
@@ -31,11 +31,11 @@ reputed daughter Harmonia by Cadmus, and by the fact that, according to
 Athenicon (the author of a work on Samothrace quoted by the scholiast on
 Apollonius Rhodius i. 917), the Cabeiri were Dardanus and Iasion. The
 gate Electra at Thebes and the fabulous island Electris were said to
-have been called after her (Apollodorus iii. 10. 12; Servius on _Aen._
+have been called after her ([[Apollodorus]] iii. 10. 12; Servius on _Aen._
 iii. 167, vii. 207, x. 272, _Georg._ i. 138).
 
 (2) Daughter of Agamemnon and Clytaemnestra, sister of Orestes and
-Iphigeneia. She does not appear in Homer, although according to Xanthus
+[[Iphigeneia]]. She does not appear in Homer, although according to Xanthus
 (regarded by some as a fictitious personage), to whom Stesichorus was
 indebted for much in his _Oresteia_, she was identical with the Homeric
 Laodice, and was called Electra because she remained so long unmarried
@@ -53,17 +53,17 @@ bringing the news of the death of Orestes. Being admitted to the palace,
 he slays both Aegisthus and Clytaemnestra. According to another story
 (Hyginus, _Fab._ 122), Electra, having received a false report that
 Orestes and Pylades had been sacrificed to Artemis in Tauris, went to
-consult the oracle at Delphi. In the meantime Aletes, the son of
+consult the oracle at [[Delphi]]. In the meantime Aletes, the son of
 Aegisthus, seized the throne of Mycenae. Her arrival at Delphi coincided
 with that of Orestes and Iphigeneia. The same messenger, who had already
 communicated the false report of the death of Orestes, informed her that
 he had been slain by Iphigeneia. Electra in her rage seized a burning
-brand from the altar, intending to blind her sister; but at the critical
+[[Brand|brand]] from the altar, intending to blind her sister; but at the critical
 moment Orestes appeared, recognition took place, and the brother and
 sister returned to Mycenae. Aletes was slain by Orestes, and Electra
 became the wife of Pylades. The story of Electra is the subject of the
 _Choëphori_ of Aeschylus, the _Electra_ of Sophocles and the _Electra_
-of Euripides. It is in the Sophoclean play that Electra is most
+of [[Euripides]]. It is in the Sophoclean play that Electra is most
 prominent.
 
   There are many variations in the treatment of the legend, for which,
@@ -74,7 +74,7 @@ prominent.
 
 
 
-ELECTRICAL (or ELECTROSTATIC) MACHINE, a machine operating by manual or
+ELECTRICAL (or ELECTROSTATIC) [[Machine|MACHINE]], a machine operating by [[Manual|manual]] or
 other power for transforming mechanical work into electric energy in the
 form of electrostatic charges of opposite sign delivered to separate
 conductors. Electrostatic machines are of two kinds: (1) Frictional, and
@@ -85,8 +85,8 @@ conductors. Electrostatic machines are of two kinds: (1) Frictional, and
 _Frictional Machines._--A primitive form of frictional electrical
 machine was constructed about 1663 by Otto von Guericke (1602-1686). It
 consisted of a globe of sulphur fixed on an axis and rotated by a winch,
-and it was electrically excited by the friction of warm hands held
-against it. Sir Isaac Newton appears to have been the first to use a
+and it was electrically excited by the [[Friction|friction]] of warm hands held
+against it. Sir [[Isaac]] Newton appears to have been the first to use a
 glass globe instead of sulphur (_Optics_, 8th Query). F. Hawksbee in
 1709 also used a revolving glass globe. A metal chain resting on the
 globe served to collect the charge. Later G.M. Bose (1710-1761), of
@@ -127,7 +127,7 @@ the prime conductor carrying the cushion.
 
 _Influence Machines._--Frictional machines are, however, now quite
 superseded by the second class of instrument mentioned above, namely,
-influence machines. These operate by electrostatic induction and convert
+influence machines. These operate by electrostatic [[Induction|induction]] and convert
 mechanical work into electrostatic energy by the aid of a small initial
 charge which is continually being replenished or reinforced. The general
 principle of all the machines described below will be best understood by
@@ -154,7 +154,7 @@ capacity with respect to the earth than the balls. Hence the charges of
 the jars will be increased. The balls A' and B' are then practically
 discharged, and the above cycle of operations may be repeated. Hence,
 however small may be the initial charges of the Leyden jars, by a
-principle of accumulation resembling that of compound interest, they can
+principle of accumulation resembling that of [[Compound|compound]] interest, they can
 be increased as above shown to any degree. If this series of operations
 be made to depend upon the continuous rotation of a winch or handle, the
 arrangement constitutes an electrostatic influence machine. The
@@ -165,7 +165,7 @@ principle therefore somewhat resembles that of the self-exciting dynamo.
 
 The first suggestion for a machine of the above kind seems to have grown
 out of the invention of Volta's electrophorus. Abraham Bennet, the
-inventor of the gold leaf electroscope, described a doubler or machine
+inventor of the gold [[Leaf|leaf]] electroscope, described a doubler or machine
 for multiplying electric charges (_Phil. Trans._, 1787).
 
   The principle of this apparatus may be explained thus. Let A and C be
@@ -207,7 +207,7 @@ Nicholson (_Phil. Trans._, 1788, p. 403) of "an instrument which by
 turning a winch produced the two states of electricity without friction
 or communication with the earth." This "revolving doubler," according to
 the description of Professor S.P. Thompson (_loc. cit._), consists of
-two fixed plates of brass A and C (fig. 3), each two inches in diameter
+two fixed plates of brass A and C (fig. 3), each two [[Inch|inches]] in diameter
 and separately supported on insulating arms in the same plane, so that a
 third revolving plate B may pass very near them without touching. A
 brass ball D two inches in diameter is fixed on the end of the axis that
@@ -270,7 +270,7 @@ which worked on the same principle. Bennet and Nicholson were followed
 by T. Cavallo, John Read, Bohnenberger, C.B. Désormes and J.N.P.
 Hachette and others in the invention of various forms of rotating
 doubler. A simple and typical form of doubler, devised in 1831 by G.
-Belli (fig. 4), consisted of two curved metal plates between which
+[[Belli]] (fig. 4), consisted of two curved metal plates between which
 revolved a pair of balls carried on an insulating stem. Following the
 nomenclature usual in connexion with dynamos we may speak of the
 conductors which carry the initial charges as the field plates, and of
@@ -346,7 +346,7 @@ was fixed another vertical disk of glass in which were cut two windows
 B, B. On the side of the fixed disk next the rotating disk were pasted
 two sectors of paper A, A, with short blunt points attached to them
 which projected out into the windows on the side away from the rotating
-disk. On the other side of the rotating disk were placed two metal combs
+disk. On the other side of the rotating disk were placed two metal [[Comb|combs]]
 C, C, which consisted of sharp points set in metal rods and were each
 connected to one of a pair of discharge balls E, D, the distance between
 which could be varied. To start the machine the balls were brought in
@@ -457,7 +457,7 @@ screens.
 
 In 1900 it was found by F. Tudsbury that if an influence machine is
 enclosed in a metallic chamber containing compressed air, or better,
-carbon dioxide, the insulating properties of compressed gases enable a
+[[Carbon|carbon]] dioxide, the insulating properties of compressed gases enable a
 greatly improved effect to be obtained owing to the diminution of the
 leakage across the plates and from the supports. Hence sparks can be
 obtained of more than double the length at ordinary atmospheric
@@ -497,7 +497,7 @@ of influence machines.
   BIBLIOGRAPHY.--In addition to S.P. Thompson's valuable paper on
   influence machines (to which this article is much indebted) and other
   references given, see J. Clerk Maxwell, _Treatise on Electricity and
-  Magnetism_ (2nd ed., Oxford, 1881), vol. i. p. 294; J.D. Everett,
+  Magnetism_ (2nd ed., Oxford, 1881), vol. i. p. 294; J.D. [[Everett]],
   _Electricity_ (expansion of part iii. of Deschanel's _Natural
   Philosophy_) (London, 1901), ch. iv. p. 20; A. Winkelmann, _Handbuch
   der Physik_ (Breslau, 1905), vol. iv. pp. 50-58 (contains a large

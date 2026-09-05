@@ -18,8 +18,8 @@ Bethshean, which apparently were not all subdued till the days of David
 or Solomon (Judg. i. 27; 1 Sam. xxxi. 10; 1 Kings ix. 15). Besides its
 western settlement in the fertile glades of northern Samaria, running
 out into the great plain, there were territories east of the Jordan
-reckoned to Manasseh. Gilead and Bashan were said to have been taken by
-Machir, and a number of places of uncertain identification were occupied
+reckoned to Manasseh. [[Gilead]] and [[Bashan]] were said to have been taken by
+Machir, and a number of places of uncertain [[Identification|identification]] were occupied
 by Nobah and Jair (Num. xxxii. 41; Judg. x. 3-5). It seems most natural
 to suppose that these districts were held before the Israelites crossed
 over to the west (cf. the tradition Num. xxi., Deut. iii.). On the other
@@ -39,7 +39,7 @@ at an unknown period of history, sixty cities were lost (1 Chron. ii.
 interest for the Hebrew law of inheritance (Num. xxvii. 1-11, xxxvi.).
 
   Some details of the history of this twofold branch of the Israelites
-  are contained in the stories of Gideon (W. Manasseh) and Jephthah (E.
+  are contained in the stories of Gideon (W. Manasseh) and [[Jephthah]] (E.
   Manasseh). The relations between Saul and Jabesh-Gilead point to the
   close bond uniting the two districts, but the details have been
   variously interpreted: Winckler, for example, suggesting that Saul

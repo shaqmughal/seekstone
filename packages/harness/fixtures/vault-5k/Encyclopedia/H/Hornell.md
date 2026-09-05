@@ -17,9 +17,9 @@ Hospital, the Steuben Sanitarium, a public library, and a county
 court-house--terms of the county court being held here as well as in
 Bath (pop. in 1905, 3695), the county-seat, and in Corning. Hornell has
 extensive car shops of the Erie railroad, and among its manufactures
-are silk goods (silk gloves being a specially important product), sash,
+are silk goods (silk [[Glove|gloves]] being a specially important product), sash,
 doors and blinds, leather, furniture, shoes, white-goods, wire-fences,
-foundry and machine shop products, electric motors, and brick and tile.
+foundry and [[Machine|machine]] shop products, electric motors, and [[Brick|brick]] and tile.
 The value of the factory product in 1905 was $3,162,677, an increase of
 30.1% since 1900. The first settlement here was made in 1790, within the
 district of Erwin (then in Ontario county); after 1796 it was a part of

@@ -1,6 +1,6 @@
 # Liternum
 
-LITERNUM, an ancient town of Campania, Italy, on the low sandy coast
+LITERNUM, an ancient town of [[Campania]], Italy, on the low sandy coast
 between Cumae and the mouth of the Volturnus. It was probably once
 dependent on Cumae. In 194 B.C. it became a Roman colony. It is mainly
 famous as the residence of the elder Scipio, who withdrew from Rome and

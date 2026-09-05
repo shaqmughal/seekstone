@@ -43,7 +43,7 @@ death is uncertain.
 
 
 
-GERMAN BAPTIST BRETHREN, or GERMAN BRETHREN, a sect of American Baptists
+GERMAN BAPTIST BRETHREN, or GERMAN BRETHREN, a sect of American [[Baptists]]
 which originated in Germany, and whose members are popularly known in
 the United States as "Dunkers," "Dunkards" or "Tunkers," corruptions of
 the German verb _tunken_, "to dip," in recognition of the sect's
@@ -55,7 +55,7 @@ Reformed churches were taking liberties with the literal teachings of
 the Scriptures. The new sect was scarcely organized in Germany when its
 members were compelled by persecution to take refuge in Holland, whence
 they emigrated to Pennsylvania, in small companies, between 1719 and
-1729. The first congregation in America was organized on Christmas Day
+1729. The first congregation in America was organized on [[Christmas]] Day
 1723 by Peter Becker at Germantown, Pennsylvania, and here in 1743
 Christopher Sauer, one of the sect's first pastors, and a printer by
 trade, printed the first Bible (a few copies of which are still in
@@ -63,7 +63,7 @@ existence) published in a European language in America. From
 Pennsylvania the sect spread chiefly westward, and, after various
 vicissitudes, caused by defections and divisions due to doctrinal
 differences, in 1908 were most numerous in Pennsylvania, Maryland,
-Virginia, Ohio, Indiana, Illinois, Iowa, Missouri, Nebraska, Kansas and
+Virginia, Ohio, [[Indiana]], Illinois, Iowa, Missouri, Nebraska, Kansas and
 North Dakota.
 
 There is much uncertainty about the early theological history of the
@@ -106,10 +106,10 @@ they refuse to take oaths, and discountenance going to law over issues
 that can possibly be settled out of the courts. The taking of interest
 was at first forbidden, but that prohibition is not now insisted upon.
 They "testify" against the use of intoxicating liquor and tobacco, and
-advocate simplicity in dress. In its earlier history the sect opposed
+advocate simplicity in [[Dress|dress]]. In its earlier history the sect opposed
 voting or taking any active part in political affairs, but these
 restrictions have quite generally disappeared. Similarly the earlier
-prejudice against higher education, and the maintenance of institutions
+prejudice against higher education, and the [[Maintenance|maintenance]] of institutions
 for that purpose, has given place to greater liberality along those
 lines. In 1782 the sect forbade slave-holding by its members.
 
@@ -142,7 +142,7 @@ An early secession from the general body of Dunkers was that of the
 Seventh Day Dunkers, whose distinctive principle was that the seventh
 day was the true Sabbath. Their founder was Johann Conrad Beissel
 (1690-1768), a native of Eberbach and one of the first emigrants, who,
-after living as a hermit for several years on Mill Creek, Lancaster
+after living as a hermit for several years on Mill [[Creek]], Lancaster
 county, Pennsylvania, founded the sect (1725), then again lived as a
 hermit in a cave (formerly occupied by another hermit, one Elimelech) on
 the Cocalico Creek in Pennsylvania, and in 1732-1735 established a
@@ -163,7 +163,7 @@ India, and in several European countries; and also in 1882 of the
 radicals, or Progressives, who objected to a distinctive dress and to
 the absolute supremacy of the yearly conferences. Higher education was
 long forbidden and is consistently opposed by the Old Order. The same
-element in the Brethren opposed a census, but according to Howard
+element in the Brethren opposed a census, but according to [[Howard]]
 Miller's census of 1880 (_Record of the Faithful_) the number of Dunkers
 was 59,749 in that year; by the United States census of 1890 it was then
 73,795; the figures for 1904 are given by Henry King Carroll in his
@@ -174,7 +174,7 @@ Progressives or Brethren, 15,000; Seventh Day, 194; total, 114,194. In
 approximately 100,000, and the Brethren of 18,000. The main body, or
 Conservatives, support schools at Huntingdon, Pennsylvania; Mt. Morris,
 Illinois; Lordsburg, California; McPherson, Kansas; Bridgewater,
-Virginia; Canton, Ohio; Chicago, Illinois; North Manchester, Indiana;
+Virginia; Canton, Ohio; [[Chicago]], Illinois; North Manchester, Indiana;
 Plattsburg, Missouri; Elizabethtown, Pennsylvania; Union Bridge,
 Maryland; and Fruitdale, Alabama. They have a publishing house at Elgin,
 Illinois, and maintain missions in Denmark, Sweden, France, Italy, India
@@ -187,10 +187,10 @@ Canada, South America and Persia.
   Falkenstein, "The German Baptist Brethren, or Dunkers," part 8 of
   "Pennsylvania: The German Influence in its Settlement and
   Development," in vol. x. of the _Pennsylvania German Society,
-  Proceedings and Addresses_ (Lancaster, Penn., 1900); Julius Friedrich
+  Proceedings and Addresses_ (Lancaster, Penn., 1900); Julius [[Friedrich]]
   Sachse, _The German Sectarians of Pennsylvania, 1742-1800: A Critical
   and Legendary History of the Ephrata Cloister and the Dunkers_
-  (Philadelphia, 1900); and John Lewis Gillin, _The Dunkers: A
+  (Philadelphia, 1900); and John [[Lewis]] Gillin, _The Dunkers: A
   Sociological Interpretation_ (New York, 1906), a doctor's
   dissertation, with full bibliography.
 

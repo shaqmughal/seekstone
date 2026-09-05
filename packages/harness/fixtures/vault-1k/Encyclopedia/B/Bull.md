@@ -50,7 +50,7 @@ with a possible punning reference to papal bulls in Milton's _True
 Religion_, "and whereas the Papist boasts himself to be a Roman Catholick,
 it is a mere contradiction, one of the Pope's Bulls, as if he should say a
 universal particular, a Catholick schismatick." Probably this use may be
-traced to a M.E. word _bul_, first found in the _Cursor Mundi_, c. 1300, in
+traced to a M.E. word _bul_, first found in the _[[Cursor]] Mundi_, c. 1300, in
 the sense of falsehood, trickery, deceit; the _New English Dictionary_
 compares an O.Fr. _boul_, _boule_ or _bole_, in the same sense. Although
 modern associations connect this type of blunder with the Irish, possibly

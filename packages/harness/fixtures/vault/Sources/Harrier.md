@@ -3,7 +3,7 @@
 HARRIER, or HEN-HARRIER, name given to certain birds of prey which were
 formerly very abundant in parts of the British Islands, from their habit
 of harrying poultry. The first of these names has now become used in a
-generic sense for all the species ranked under the genus _Circus_ of
+generic sense for all the species ranked under the genus _[[Circus]]_ of
 Lacepede, and the second confined to the particular species which is the
 _Falco cyaneus_ of Linnaeus and the _Circus cyaneus_ of modern
 ornithologists.
@@ -14,10 +14,10 @@ moor-buzzard. But harriers are not, like buzzards, arboreal in their
 habits, and always affect open country, generally, though not
 invariably, preferring marshy or fenny districts, for snakes and frogs
 form a great part of their ordinary food. On the ground their carriage
-is utterly unlike that of a buzzard, and their long wings and legs
+is utterly unlike that of a buzzard, and their long wings and [[Leg|legs]]
 render it easy to distinguish the two groups when taken in the hand. All
 the species also have a more or less well-developed ruff or frill of
-small thickset feathers surrounding the lower part of the head, nearly
+small thickset [[Feather|feathers]] surrounding the lower part of the head, nearly
 like that seen in owls, and accordingly many systematists consider that
 the genus _Circus_, though undoubtedly belonging to the _Falconidae_,
 connects that family with the Striges. No osteological affinity,
@@ -29,7 +29,7 @@ pp. 50-73). In most if not all the harriers the sexes differ greatly in
 colour, so much so that for a long while the males and females of one of
 the commonest and best known, the _C. cyaneus_ above mentioned, were
 thought to be distinct species, and were or still are called in various
-European languages by different names. The error was maintained with the
+European languages by different names. The [[Error|error]] was maintained with the
 greater persistency since the young males, far more abundant than the
 adults, wear much the same plumage as their mother, and it was not until
 after Montagu's observations were published at the beginning of the 19th
@@ -53,11 +53,11 @@ hudsonius_, usually regarded as a good species, the adult male of which
 is always to be recognized by its rufous markings beneath, in which
 character it rather resembles _C. cineraceus_, but it has not the long
 wings of that species. South America has in _C. cinereus_ another
-representative form, while China, India and Australia possess more of
+representative form, while China, India and [[Australia]] possess more of
 this type. Thus there is a section in which the males have a strongly
 contrasted black and grey plumage, and finally there is a group of
 larger forms allied to the European _C. aeruginosus_, wherein a grey
-dress is less often attained, of which the South African _C. ranivorus_
+[[Dress|dress]] is less often attained, of which the South African _C. ranivorus_
 and the New Zealand _C. gouldi_ are examples.     (A. N.)
 
 [Illustration: Hen-Harrier (Male and Female).]
@@ -67,7 +67,7 @@ FOOTNOTES:
 
   [1] The distribution of the different species is rather curious,
     while the range of some is exceedingly wide,--one, _C. maillardi_,
-    seems to be limited to the island of Reunion (Bourbon).
+    seems to be limited to the island of Reunion ([[Bourbon]]).
 
   [2] A singular mistake, which has been productive of further error,
     was made by Albin, who drew his figure (_Hist. Birds_, ii. pi. 5)

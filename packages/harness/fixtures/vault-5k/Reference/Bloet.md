@@ -11,7 +11,7 @@ however, he fell out of favour, and, although he had been very rich, was
 impoverished by the fines which the king extorted from him. Perhaps his
 wealth was his chief offence in the king's eyes; for he was in
 attendance on Henry when seized with his last illness. He was the patron
-of the chronicler Henry of Huntingdon, whom he advanced to an
+of the chronicler [[Henry Of Huntingdon|Henry of Huntingdon]], whom he advanced to an
 archdeaconry.
 
   Henry of Huntingdon and W. Malmesbury (_De Gestis Pontificum_) are

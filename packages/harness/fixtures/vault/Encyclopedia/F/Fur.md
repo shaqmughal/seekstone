@@ -9,7 +9,7 @@ barbed lengthwise, while the overhair is straight, smooth and
 comparatively rigid. These properties of fur constitute its essential
 value for felting purposes, and mark its difference from wool and silk;
 the first, after some slight preparation by the aid of hot water,
-readily unites its fibres into a strong and compact mass; the others can
+readily unites its [[Fibres|fibres]] into a strong and compact mass; the others can
 best be managed by spinning and weaving.
 
 On the living animal the overhair keeps the fur filaments apart,
@@ -19,21 +19,21 @@ matter of fact, this very overhair, though of an humbler name, is most
 generally the beauty and pride of the pelt, and marks its chief value
 with the furrier. We arrive thus at two distinct and opposite uses and
 values of fur. Regarded as useful for felt it is denominated staple fur,
-while with respect to its use with and on the pelt it is called fancy
+while with respect to its use with and on the pelt it is called [[Fancy|fancy]]
 fur.
 
 _History._--The manufacture of fur into a felt is of comparatively
 modern origin, while the use of fur pelts as a covering for the body,
 for the couch, or for the tent is coeval with the earliest history of
 all northern tribes and nations. Their use was not simply a barbarous
-expedient to defend man from the rigours of an arctic winter; woven wool
+expedient to defend man from the rigours of an [[Arctic|arctic]] winter; woven wool
 alone cannot, in its most perfect form, accomplish this. The pelt or
 skin is requisite to keep out the piercing wind and driving storm, while
 the fur and overhair ward off the cold; and "furs" are as much a
 necessity to-day among more northern peoples as they ever were in the
 days of barbarism. With them the providing of this necessary covering
 became the first purpose of their toil; subsequently it grew into an
-object of barter and traffic, at first among themselves, and afterwards
+object of [[Barter|barter]] and traffic, at first among themselves, and afterwards
 with their neighbours of more temperate climes; and with the latter it
 naturally became an article of fashion, of ornament and of luxury. This,
 in brief, has been the history of its use in China, Tatary, Russia,
@@ -46,35 +46,35 @@ competition as to terminate in tribal pillages and even national wars;
 and in modern times it has led to commercial ventures on the part of
 individuals and companies, the account of which, told in its plainest
 form, reads like the pages of romance. Furs have constituted the price
-of redemption for royal captives, the gifts of emperors and kings, and
+of redemption for royal [[Captive|captives]], the gifts of emperors and kings, and
 the peculiar badge of state functionaries. At the present day they vie
 with precious gems and gold as ornaments and garniture for wealth and
 fashion; but by their abundance, and the cheapness of some varieties,
 they have recently come within the reach of men of moderate incomes. The
 history of furs can be read in Marco Polo, as he grows eloquent with the
-description of the rich skins of the khan of Tatary; in the early
+description of the rich skins of the [[Khan|khan]] of Tatary; in the early
 fathers of the church, who lament their introduction into Rome and
 Byzantium as an evidence of barbaric and debasing luxury; in the
-political history of Russia, stretching out a powerful arm over Siberia
+[[Political History|political history]] of Russia, stretching out a powerful arm over Siberia
 to secure her rich treasures; in the story of the French occupation of
-Canada, and the ascent of the St Lawrence to Lake Superior, and the
+Canada, and the ascent of the St [[Lawrence]] to Lake Superior, and the
 subsequent contest to retain possession against England; in the history
 of early settlements of New England, New York and Virginia; in Irving's
-_Astoria_; in the records of the Hudson's Bay Company; and in the annals
+_Astoria_; in the records of the Hudson's Bay Company; and in the [[Annals|annals]]
 of the fairs held at Nizhniy Novgorod and Leipzig. Here it may suffice
 to give some account of the present condition of the trade in fancy
 furs. The collection of skins is now chiefly a matter of private
 enterprise. Few, if any, monopolies exist.
 
 _Natural Supplies._--We are dependent upon the Carnivora, Rodentia,
-Ungulata and Marsupialia for our supplies of furs, the first two classes
+Ungulata and [[Marsupialia]] for our supplies of furs, the first two classes
 being by far of the greatest importance. The Carnivora include bears,
-wolverines, wolves, raccoons, foxes, sables, martens, skunks, kolinskis,
+wolverines, wolves, raccoons, [[Foxe|foxes]], sables, [[Martens|martens]], skunks, kolinskis,
 fitch, fishers, ermines, cats, sea otters, fur seals, hair seals, lions,
-tigers, leopards, lynxes, jackals, &c. The Rodentia include beavers,
-nutrias, musk-rats or musquash, marmots, hamsters, chinchillas, hares,
+tigers, [[Leopard|leopards]], [[Lynx|lynxes]], jackals, &c. The Rodentia include beavers,
+nutrias, musk-rats or musquash, marmots, [[Hamster|hamsters]], chinchillas, [[Hare|hares]],
 rabbits, squirrels, &c. The Ungulata include Persian, Astrachan,
-Crimean, Chinese and Tibet lambs, mouflon, guanaco, goats, ponies, &c.
+Crimean, Chinese and Tibet [[Lamb|lambs]], mouflon, [[Guanaco|guanaco]], goats, ponies, &c.
 The Marsupialia include opossums, wallabies and kangaroos. These, of
 course, could be subdivided, but for general purposes of the fur trade
 the above is deemed sufficient.
@@ -89,14 +89,14 @@ neglected through vagaries of fashion, which give nature an opportunity
 to replenish their source. These respites are, however, becoming fewer
 every day, and what were formerly the most neglected kinds of furs are
 becoming more and more sought after. The supply of some of the most
-valuable, such as sable, silver and natural black fox, sea otter and
+valuable, such as sable, silver and natural black [[Fox|fox]], sea otter and
 ermine, which are all taken from animals of a more or less shy nature,
-does very gradually decrease with persistent hunting and the
+does very gradually decrease with persistent [[Hunting|hunting]] and the
 encroachment of man upon the districts where they live, but the climate
 of these vast regions is so cold and inhospitable that the probabilities
 of man ever permanently inhabiting them in numbers sufficient to scare
 away or exterminate the fur-bearing wild animals is unlikely. Besides
-these there are many useful, though commonplace, fur-bearing animals
+these there are many useful, though [[Commonplace|commonplace]], fur-bearing animals
 like mink, musquash, skunk, raccoon, opossum, hamster, rabbit, hares and
 moles, that thrive by depredations upon cultivated land. Some of these
 are reared upon extensive wild farms. In addition there are domestic
@@ -120,33 +120,33 @@ the normal development of the creature.
 
 In mountainous districts in the more temperate zones some good supplies
 are found. Chinchillas and nutrias are obtained from South America,
-whence come also civet cats, jaguars, ocelots and pumas. Opossums and
-wallabies, good useful furs, come from Australia and New Zealand. The
+whence come also [[Civet|civet]] cats, [[Jaguar|jaguars]], ocelots and pumas. Opossums and
+wallabies, good useful furs, come from [[Australia]] and New Zealand. The
 martens, foxes and otters imported from southern Europe and southern
 Asia, are very mixed in quality, and the majority are poor compared with
 those of Canada and the north.
 
-Certain characteristics In the skin reveal to the expert from what
+Certain characteristics In the skin reveal to the [[Expert|expert]] from what
 section of territory they come, but in classifying them it is considered
 sufficient to mention territories only.
 
 Some of the poorer sorts of furs, such as hamster, marmot, Chinese goats
-and lambs, Tatar ponies, weasels, kaluga, various monkeys, antelopes,
+and lambs, Tatar ponies, weasels, [[Kaluga|kaluga]], various monkeys, [[Antelope|antelopes]],
 foxes, otters, jackals and others from the warmer zones, which until
 recently were neglected on account of their inferior quality of colour,
 by the better class of the trade, are now being deftly dressed or dyed
 in Europe and America, and good effects are produced, although the lack
 of quality when compared with the better furs from colder climates which
 possess full top hair, close underwool and supple leathers, is readily
-manifest. It is only the pressure of increasing demand that makes
-marketable hard pelts with harsh brittle hair of nondescript hue, and
+[[Manifest|manifest]]. It is only the pressure of increasing demand that makes
+marketable hard pelts with harsh brittle hair of nondescript [[Hue|hue]], and
 these would, naturally, be the last to attract the notice of dealers.
 
 As it is impossible that we shall ever discover any new fur-bearing
 animals other than those we know, it behoves responsible authorities to
 enforce close seasons and restrictions, as to the sex and age, in the
 killing for the purpose of equalizing the numbers of the catches. As
-evidence of indiscriminate slaughter the case of the American buffaloes
+evidence of indiscriminate slaughter the case of the American [[Buffalo|buffaloes]]
 may be cited. At one time thousands of buffalo skins were obtainable and
 provided material for most useful coats and rugs for rough wear in cold
 regions, but to-day only a herd or so of the animals remain, and in
@@ -155,7 +155,7 @@ captivity.
 The majority of animals taken for their fur are trapped or snared, the
 gun being avoided as much as possible in order that the coat may be
 quite undamaged. Many weary hours are spent in setting baits, traps and
-wires, and, frequently, when the hunter retraces his steps to collect
+wires, and, frequently, when the [[Hunter|hunter]] retraces his steps to collect
 the quarry it is only to find it gone, devoured by some large animal
 that has visited his traps before him. After the skins have been
 carefully removed--the sooner after death the better for the subsequent
@@ -171,7 +171,7 @@ quality and colour. Fur skins taken out of season are indifferent, and
 the hair is liable to shed itself freely; a good furrier will, however,
 reject such faulty specimens in the manufacturing. The finest furs are
 obtained from the Arctic and northern regions, and the lower the
-latitude the less full and silky the fur, till, at the torrid zone, fur
+[[Latitude|latitude]] the less full and silky the fur, till, at the torrid zone, fur
 gives place to harsh hair without any underwool. The finest and closest
 wools are possessed by the amphibious Carnivora and Rodentia, viz.
 seals, otters, beavers, nutrias and musquash, the beauty of which is not
@@ -181,7 +181,7 @@ belly is thicker than that of the back, while the opposite is true of
 those found on the land. The sea otter, one of the richest and rarest of
 furs, especially for men's wear, is an exception to this unhairing
 process, which it does not require, the hair being of the same length as
-the wool, silky and bright, quite the reverse of the case of other
+the wool, silky and [[Bright|bright]], quite the reverse of the case of other
 aquatic animals.
 
 Of sealskins there are two distinct classes, the fur seals and the hair
@@ -222,8 +222,8 @@ of skins from the far-scattered trappers. These are the Hudson's Bay
 Co., Russian Fur Co., Alaska Commercial Co., North American Commercial
 Co., Russian Sealskin Co., Harmony Fur Co., Royal Greenland Fur Co.,
 American Fur Co., Missouri Co. and Pacific Co. Most of the raw skins are
-forwarded to about half-a-dozen brokers in London, who roughly sort them
-in convenient lots, issuing catalogues to the traders of the world, and
+forwarded to about half-a-dozen [[Broker|brokers]] in London, who roughly sort them
+in convenient [[Lot|lots]], issuing [[Catalogue|catalogues]] to the traders of the world, and
 after due time for examination of the goods by intending purchasers, the
 lots are sold by public auction. The principal sales of general furs are
 held in London in January and March, smaller offerings being made in
@@ -234,7 +234,7 @@ exactly indicating current values. While many buyers from America and
 Russia are personally in attendance at the sales, many more are
 represented by London and Leipzig agents who buy for them upon
 commission. In addition to the fur skins coming from North America vast
-numbers from Russia, Siberia, China, Japan, Australia and South America
+numbers from Russia, Siberia, China, [[Japan]], Australia and South America
 are offered during the same periods at public auction. Fairs are also
 held in Siberia, Russia and Germany for the distribution of fur skins as
 follows:--
@@ -242,16 +242,16 @@ follows:--
   January:   Frankfort-on-the-  Small collection of provincial produce,
                Oder               such as otter, fox, fitch and marten.
 
-  February:  Irbit, Siberia     General Russian furs.
+  February:  [[Irbit]], Siberia     General Russian furs.
 
-  Easter:    Leipzig, Germany   General furs.
+  [[Easter]]:    Leipzig, Germany   General furs.
 
   August:    Nizhniy Novgorod,  Persian lamb and general furs.
                Russia
 
-  August:    Kiakhta, Siberia   Chinese furs and ermine.
+  August:    [[Kiakhta]], Siberia   Chinese furs and ermine.
 
-  December:  Ishim, Siberia     Chiefly squirrels.
+  December:  [[Ishim]], Siberia     Chiefly squirrels.
 
 Of course there are many transactions, generally in the cheaper and
 coarser kinds of furs, used only in central Europe, Russia and Asia
@@ -283,7 +283,7 @@ herewith set out.
   Cat, Civet                                    157,915
   Cat, House                                    126,703
    "   Wild                                      32,253
-  Chinchilla (La Plata), known also as Bastard   43,578
+  Chinchilla ([[La Plata]]), known also as [[Bastard]]   43,578
       "      Peruvian finest                      5,603
   Deer, Chinese                                 124,355
   Ermine                                         40,641
@@ -340,7 +340,7 @@ A brief account of the different qualities of the pelts, with some
 general remarks as to their customary uses, follows. The prices quoted
 are subject to constant fluctuation and represent purely trade prices
 for bulk, and it should be explained that the very great variations are
-due to different sizes, qualities and colours, and moreover are only
+due to different sizes, qualities and [[Colours|colours]], and moreover are only
 _first cost_, before skins are dressed and prepared. These preparations
 are in some cases expensive, and there is generally a considerable
 percentage of waste. The prices cannot be taken as a guide to the
@@ -348,11 +348,11 @@ wholesale price of a single and finished skin, but simply as _relative_
 value.
 
 The fullest and darkest skins of each kind are the most valuable, and,
-in cases of bluish grey or white, the fuller, clearer and brighter are
+in cases of bluish grey or white, the [[Fuller|fuller]], clearer and brighter are
 the more expensive. A few albinos are found in every species, but
 whatever their value to a museum, they are of little commercial
 importance. Some odd lots of skins arrive designated simply as
-"sundries," so no classification is possible, and this will account for
+"sundries," so no [[Classification|classification]] is possible, and this will account for
 the absence of a few names of skins of which the imports are
 insignificant in quantity, or are received direct by the wholesale
 merchants.
@@ -384,7 +384,7 @@ merchants.
 
   BEAR, BROWN.--Size 6 X 3 ft. Similar in quality to the black, but far
   more limited in number; the colours range from light yellow to a rich
-  dark brown. The best come from Hudson Bay territory and are valuable.
+  dark brown. The best come from [[Hudson Bay]] territory and are valuable.
   Used for muffs, trimmings, boas, and carriage rugs. Inferior sorts,
   almost grizzly in effect and some very pale, are found in Europe and
   Asia and are mostly used locally. In India there is a species called
@@ -406,17 +406,17 @@ merchants.
   and very white specimens are valuable. Value 20s. to 520s.
 
   BEAVER. Size 3 X 2 ft. The largest of rodents, it possesses a close
-  underwool of bluish-brown hue, nearly an inch in depth, with coarse,
+  underwool of bluish-brown hue, nearly an [[Inch|inch]] in depth, with coarse,
   bright, black or reddish-brown top hair, 3 in. long. Found widely in
   North America. After being unhaired the darkest wools are the most
   valuable, although many people prefer the bright, lighter brown tones.
   Used for collars, cuffs, boas, muffs, trimmings, coat linings and
-  carriage aprons, and is of a most durable nature, in addition to
+  carriage [[Apron|aprons]], and is of a most durable nature, in addition to
   having a rich and good appearance. Value 10s. to 39s. 6d.
 
   BROADTAIL.--See _Lambs_, below.
 
-  CARACAL.--A small lynx from India, the fur very poor, seldom imported.
+  [[Caracal|CARACAL]].--A small lynx from India, the fur very poor, seldom imported.
 
   CARACUL.--See _Goats_ and _Lambs_, below.
 
@@ -431,7 +431,7 @@ merchants.
   from Holland, Bavaria, America and Russia, where they are reared for
   their coats. The best, from Holland, are used for coat linings.
   Although in colour, weight and warmth they are excellent, the fur is
-  apt to become loose and to fall off with friction of wear. The black
+  apt to become loose and to fall off with [[Friction|friction]] of wear. The black
   are known as genet, although the true genet is a spotted wild cat.
   Wild sorts of the tabby order are coarser, and not so good and silky
   in effect as when domestically reared. Value of the black sorts 2d. to
@@ -441,7 +441,7 @@ merchants.
 
   CHEETAH.--Size of a small leopard and similar in colour, but has black
   spots in lieu of rings. Only a few are now imported, which are used
-  for mats. Value 2s. 6d. to 18s.
+  for [[Mat|mats]]. Value 2s. 6d. to 18s.
 
   CHINCHILLA, PERUVIAN and BOLIVIAN.--Size 12 X 7 in., fur 1 to 1-1/4
   in. deep. Delicate blue-grey with black shadings, one of nature's most
@@ -467,7 +467,7 @@ merchants.
   of little interest for use other than trophy mats. Thousands are taken
   for the leather trade. Value of Chinese 1s. 2d. to 1s. 6d. each.
 
-  DOG.--The only dogs that are used in the fur trade in civilized
+  DOG.--The only [[Dogs|dogs]] that are used in the fur trade in civilized
   countries are those imported from China, which are heavy and coarse,
   and only used in the cheaper trade, chiefly for rugs. Value 6d. to 1s.
 
@@ -481,7 +481,7 @@ merchants.
   stoles, muffs and trimmings, also for embellishment of British state,
   parliamentary and legal robes. When this fur is symmetrically spotted
   with black lamb pieces it is styled miniver, in which form it is used
-  at the grand coronation functions of British sovereigns. Value 1s. 3d.
+  at the grand [[Coronation|coronation]] functions of British sovereigns. Value 1s. 3d.
   to 8s. 6d.
 
   FISHER.--Size 30 X 12 in., tail 12 to 18 in. long, the largest of the
@@ -496,7 +496,7 @@ merchants.
   FITCH.--Size 12 X 3 in., of the marten species, also known as the pole
   cat. Yellow underwool 1/3 in. deep, black top hair, 1-1/2 to 1-3/4 in.
   long, very fine and open in growth, and not close as in martens.
-  Largest skins come from Denmark, Holland and Germany. The Russian are
+  Largest skins come from [[Denmark]], Holland and Germany. The Russian are
   smaller, but more silky and, as now dyed, make a cheap and fair
   substitute for sable. They are excellent for linings of ladies' coats,
   being of light weight and fairly strong in the pelt. English mayors'
@@ -600,7 +600,7 @@ merchants.
 
   GOATS.--Size varies greatly. The European, Arabian and East Indian
   kinds are seldom used for rugs, the skins are chiefly dressed as
-  leather for books and furniture, and the kids for boots and gloves,
+  leather for books and furniture, and the kids for boots and [[Glove|gloves]],
   and the finer wool and hair are woven into various materials. Many
   from Russia are dyed black for floor and carriage rugs; the hair is
   brittle, with poor underwool and not very durable; the cost, however,
@@ -661,7 +661,7 @@ merchants.
   much longer than that upon its back. The flanks are usually cut off
   and made into muffs and stoles. The hair is, however, brittle and is
   not at all durable. This fur is dyed jet black and various shades of
-  brown and grey, and manufactured into articles for the small drapers
+  brown and grey, and manufactured into articles for the small [[Draper|drapers]]
   and for exportation. The North American hares are also dyed black and
   brown and used in the same way. Value of white 2d. to 5d.
 
@@ -750,7 +750,7 @@ merchants.
     Shiraz       "   4s. 6d " 10s.
     Bokharan     "   1s. 6d "  3s. 6d.
 
-  Grey lambs, size 24 X 10 in., are obtained from the Crimea and known
+  Grey lambs, size 24 X 10 in., are obtained from the [[Crimea]] and known
   in the trade as "crimmers." They are of a similar nature to the
   caracul lambs, but looser in curl, ranging from a very light to a dark
   grey. The best are the pale bluish greys, and are chiefly used for
@@ -766,18 +766,18 @@ merchants.
   others for opera cloak linings. Price 1s. to 6s. 6d.
 
   LEOPARD.--Size 3 to 6 ft. long. There are several kinds, the chief
-  being the snow or ounce, Chinese, Bengal, Persian, East Indian and
-  African. The first variety inhabit the Himalayas and are beautifully
+  being the snow or ounce, Chinese, [[Bengal]], Persian, East Indian and
+  African. The first variety inhabit the [[Himalaya|Himalayas]] and are beautifully
   covered with a deep soft fur quite long compared to the flat harsh
   hair of the Bengal sort. The colours are pale orange and white with
   very dark markings, a strong contrast making a fine effect. Most
   artists prize these skins above all others. The Chinese are of a
   medium orange brown colour, but full in fur. The East Indian are less
   full and not so dark. The Bengal are dark and medium in colour, short
-  and hard hair, but useful for floor rugs, as they do not hold the dust
+  and hard hair, but useful for floor rugs, as they do not hold the [[Dust|dust]]
   like the fuller and softer hair of the kinds previously named. They
   are also used for drummers' aprons and saddle cloths in the Indian
-  army. The African are small with pale lemon colour grounds very
+  army. The African are small with pale [[Lemon|lemon]] colour grounds very
   closely marked with black spots on the skin, the strong contrast
   making a pleasing effect. Occasionally, where something very marked is
   wanted, skating jackets and carriage aprons are made from the softest
@@ -820,7 +820,7 @@ merchants.
   MARMOT.--Size 18 X 12 in. Is a rodent and is found in considerable
   numbers in the south of Prussia. The fur is a yellowish brown and
   rather harsh and brittle and has no underwool. Since, however, the
-  value of all good furs has advanced, dyers and manufacturers have made
+  value of all good furs has advanced, [[Dyer|dyers]] and manufacturers have made
   very successful efforts with this fur. The Viennese have been
   particularly successful, and their method has been to dye the skins a
   good brown and then not put in the dark stripes, which exist in sable
@@ -887,11 +887,11 @@ merchants.
   and Europe, and owing to their lovely velvety coats of exquisite blue
   shade and to the dearness of other furs are much in demand. Though the
   fur is cheap in itself, the expense of dressing and working up these
-  little skins is considerable, and they possess the unique charm of an
+  little skins is considerable, and they possess the unique [[Charm|charm]] of an
   exceptional colour with little weight of pelt; the quality of
   resistance to friction is, however, so slight as to make them
   expensive in wear. The best are the dark blue from the Fen district of
-  Cambridgeshire in England. Value 1/2d. to 2d.
+  [[Cambridgeshire]] in England. Value 1/2d. to 2d.
 
   MONGOLIAN LAMBS.--See _Lambs_, above.
 
@@ -905,7 +905,7 @@ merchants.
   1890. They are now mostly bought for Germany and the continent. Value
   6d. to 1s. 6d.
 
-  MOUFLON.--Size 30 X 15 in. Is a sheep found in Russia and Corsica and
+  MOUFLON.--Size 30 X 15 in. Is a sheep found in Russia and [[Corsica]] and
   now very little in demand, and but few are imported into Great
   Britain. Many Mongolian goats with the long hairs pulled out are sold
   as mouflon. Value 4s. to 10s. 6d.
@@ -936,7 +936,7 @@ merchants.
   garment lasts sufficiently long to warrant the present outlay. Value
   5-1/2d. to 1s. 9d.
 
-  There is a so-called black variety found in Delaware and New Jersey,
+  There is a so-called black variety found in [[Delaware]] and New [[Jersey]],
   but the number is very small compared to the brown species. They are
   excellent for men's coat linings and the outside of ladies' coats, for
   stoles, muffs, collars and cuffs. Value 10d. to 3s. 7d.
@@ -1046,7 +1046,7 @@ merchants.
 
   PLATYPUS.--Size 12 X 8 in. One of the most singular of fur-bearing
   animals, being the link between bird and beast. It has fur similar to
-  otter, is of aquatic habits, being web-footed with spurs of a cock and
+  otter, is of aquatic habits, being web-footed with spurs of a [[Cock|cock]] and
   the bill of a duck. The skins are not obtained in any numbers, but
   being brought over by travellers as curiosities and used for muffs,
   collars and cuffs, &c., they are included here for reference. Value
@@ -1173,8 +1173,8 @@ merchants.
   the best sort is chiefly from the North Pacific, viz. Pribilof
   Islands, Alaska, north-west coast of America, Copper Island of the
   Aleutian group near to Kamschatka, Robben Island and Japan. Other
-  kinds are taken from the South Pacific and South Atlantic Oceans,
-  around Cape Horn, the Falkland Islands up to Lobos Islands at the
+  kinds are taken from the South Pacific and South [[Atlantic Ocean|Atlantic Oceans]],
+  around Cape [[Horn]], the [[Falkland Islands]] up to [[Lobo|Lobos]] Islands at the
   entrance of the La Plata river, off the Cape of Good Hope and Crozet
   Isles. With, however, the exception of the pick of the Lobos Island
   seals the fur of the southern sea seals is very poor and only suitable
@@ -1240,10 +1240,10 @@ merchants.
   Siberian sorts, which are the only kind imported for the fur. The
   numerous other species are too poor in their coats to attract notice
   from fur dealers. The back of the Russian squirrel has an even close
-  fur varying from a clear bluish-grey to a reddish-brown, the bellies
+  fur varying from a clear bluish-grey to a reddish-brown, the [[Belli|bellies]]
   in the former being of a flat quality and white, in the latter
   yellowish. The backs are worked into linings separately, as are the
-  bellies or "locks." The pelts, although very light, are tough and
+  bellies or "[[Lock|locks]]." The pelts, although very light, are tough and
   durable, hence their good reputation for linings for ladies' walking
   or driving coats. The best skins also provide excellent material for
   coats, capes, stoles, ties, collars, cuffs, gloves, muffs, hoods and
@@ -1256,13 +1256,13 @@ merchants.
   consigned to the trade auction sales in London ready dressed and
   worked into cross-shaped coats, and the remainder, a fourth of the
   total, come as dressed skins. They are excellent for trimmings of
-  evening mantles and for children's ties, muffs and perambulator
+  evening [[Mantle|mantles]] and for children's ties, muffs and perambulator
   aprons. The fur is too long and bulky for linings. Value per skin from
   4s. 6d. to 8s. 6d.
 
   TIGER.--Size varies considerably, largest about 10 ft. from nose to
   root of tail. Tigers are found throughout India, Turkestan, China,
-  Mongolia and the East Indies. The coats of the Bengal kind are short
+  Mongolia and the [[East Indies]]. The coats of the Bengal kind are short
   and of a dark orange brown with black stripes, those from east or
   further India are similar in colour, but longer in the hair, while
   those from north of the Himalayas and the mountains of China are not
@@ -1320,7 +1320,7 @@ merchants.
   its excellent qualities make it valuable. The darkest of the least
   coarse skins are worth the most. Prices from 6s. to 37s.
 
-  WOMBAT, KOALA or Australian Bear.--Size 20 X 12 in. Has light grey or
+  WOMBAT, [[Koala|KOALA]] or Australian Bear.--Size 20 X 12 in. Has light grey or
   brown close thick wool half an inch deep without any top hair, with a
   rather thick spongy pelt. It is quite inexpensive and only suitable
   for cheap rough coats, carriage rugs, perambulator aprons and linings
@@ -1348,10 +1348,10 @@ preserve the natural colour of the fur, and to render the pelt as supple
 as possible. Generally the skins are placed in an alkali bath, then by
 hand with a blunt wooden instrument the moisture of the pelt is worked
 out and it is drawn carefully to and fro over a straight, dull-edged
-knife to remove any superfluous flesh and unevenness. Special grease is
-then rubbed in and the skin placed in a machine which softly and
+[[Knife|knife]] to remove any superfluous flesh and unevenness. Special grease is
+then rubbed in and the skin placed in a [[Machine|machine]] which softly and
 continuously beats in the softening mixture, after which it is put into
-a slowly revolving drum, fitted with wooden paddles, partly filled with
+a slowly revolving [[Drum|drum]], fitted with wooden paddles, partly filled with
 various kinds of fine hard sawdust according to the nature of the furs
 dealt with. This process with a moderate degree of heat thoroughly
 cleans it of external greasy matter, and all that is necessary before
@@ -1361,7 +1361,7 @@ of the fur. After dressing most skins alter in shape and decrease in
 size.
 
 With regard to the merits of European dressing, it may be fairly taken
-that English, German and French dressers have specialities of
+that English, German and French [[Dresser|dressers]] have specialities of
 excellence. In England, for instance, the dressing of sables, martens,
 foxes, otters, seals, bears, lions, tigers and leopards is first rate;
 while with skunk, mink, musquash, chinchillas, beavers, lambs and
@@ -1398,11 +1398,11 @@ rich dark brown colour, one coat after another, each being allowed to
 thoroughly dry before the next is put on, till the effect is almost a
 lustrous black on the top. The whole is again put through the cleaning
 process and evenly reduced in thickness by revolving emery wheels, and
-eventually finished off in the palest buff colour.
+eventually finished off in the palest [[Buff|buff]] colour.
 
 The English dye for seals is to-day undoubtedly the best; its
 constituents are more or less of a trade secret, but the principal
-ingredients comprise gall nuts, copper dust, camphor and antimony, and
+ingredients comprise [[Gall|gall]] nuts, copper dust, camphor and antimony, and
 it would appear after years of careful watching that the atmosphere and
 particularly the water of London are partly responsible for good and
 lasting results. The Paris dyers do excellent work in this direction,
@@ -1437,7 +1437,7 @@ workrooms. In 1667 they were given power to scrutinize the preparing of
 rabbit or cony wool for the wool trade and the registration of the then
 customary seven years' apprenticeship. To-day all these privileges and
 powers are in abeyance, and the interest that they took in the fur trade
-has been gradually transferred to the leather-dressing craft.
+has been gradually transferred to the leather-dressing [[Craft|craft]].
 
 The work done by English furriers was generally good, but since about
 1865 has considerably improved on account of the influx of German
@@ -1449,7 +1449,7 @@ style and combination of colour, bad judgment in which will mar the
 beauty of the most valuable furs. It is a recognized law among
 high-class furriers that furs should be simply arranged, that is, that
 an article should consist of one fur or of two furs of a suitable
-contrast, to which lace may be in some cases added with advantage. As
+contrast, to which [[Lace|lace]] may be in some cases added with advantage. As
 illustrative of this, it may be explained that any brown tone of fur
 such as sable, marten, mink, black marten, beaver, nutria, &c., will go
 well upon black or very dark-brown furs, while those of a white or grey
@@ -1461,7 +1461,7 @@ colours and greys should never be in contrast. One neutralizes the other
 and the effect is bad. The qualities, too have to be considered--the
 fulness of one, the flatness of the other, or the coarseness or fineness
 of the furs. The introduction of a third fur in the same garment or
-indiscriminate selection of colours of silk linings, braids, buttons,
+indiscriminate selection of colours of silk linings, [[Braid|braids]], buttons,
 &c., often spoils an otherwise good article.
 
 With regard to the natural colours of furs, the browns that command the
@@ -1472,7 +1472,7 @@ most esteemed and that are the rarest.
 
 Perhaps for ingenuity and the latest methods of manipulating skins in
 the manufacturing of furs the Americans lead the way, but as fur cutters
-are more or less of a roving and cosmopolitan character the larger fur
+are more or less of a roving and [[Cosmopolitan|cosmopolitan]] character the larger fur
 businesses in London, Berlin, Vienna, St Petersburg, Paris and New York
 are guided by the same thorough and comparatively advanced principles.
 
@@ -1502,13 +1502,13 @@ squirrels are made up separately from the under and thinner white and
 grey parts, the first being known as squirrel-back and the other as
 squirrel-lock linings. A few linings are made from entire skins and
 others are made from the quite white pieces, which in some instances are
-spotted with the black ear tips of the animals to resemble ermine. The
-smaller and uneven pieces of heads and legs are made up into linings, so
+spotted with the black [[Ear|ear]] tips of the animals to resemble ermine. The
+smaller and uneven pieces of heads and [[Leg|legs]] are made up into linings, so
 there is absolutely no waste. Similar work is done in Russia on almost
 as extensive a scale, but neither the dressing nor the work is so good
 as the German.
 
-The majority of heads, gills or throats, sides or flanks, paws and
+The majority of heads, [[Gill|gills]] or throats, sides or flanks, paws and
 pieces of skins cut up in the fur workshops of Great Britain, America
 and France, weighing many tons, are chiefly exported to Leipzig, and
 made up in neighbouring countries and Greece, where labour can be
@@ -1543,7 +1543,7 @@ absurd price paid for so-called "loot" of furs, particularly in
 mandarins' coats of dyed and natural fox skins and pieces, and natural
 ermine, poor in quality and yellowish in colour; from three to ten times
 their value was paid for them when at the same time huge parcels of
-similar quality were warehoused in the London docks, because purchasers
+similar quality were warehoused in the London [[Dock|docks]], because purchasers
 could not be found for them.
 
 With regard to Japanese furs, there is little to commend them. The best
@@ -1556,7 +1556,7 @@ carriage rugs are imported into Europe, and many come through travellers
 and private sources, but generally they are so badly dressed that they
 are quite brittle upon the leather side. Similar remarks are applicable
 to opossum rugs made in Australia. From South Africa a quantity of
-jackal, hyena, fox, leopard and sheep karosses, i.e. a peculiarly shaped
+jackal, hyena, fox, leopard and sheep [[Kaross|karosses]], i.e. a peculiarly shaped
 rug or covering used by native chiefs, is privately brought over. The
 skins are invariably tanned and beautifully sewn, the furs are generally
 flat in quality and not very strong in the hair, and are retained' more
@@ -1570,7 +1570,7 @@ from the angora and vicuna. They are limited in quantity and costly, and
 the trade depends upon various sorts of other sheep and goat wools for
 the bulk of its productions.
 
-_Frauds and Imitations._--The opportunities for cheating in the fur
+_[[Fraud|Frauds]] and Imitations._--The opportunities for [[Cheating|cheating]] in the fur
 trade are very considerable, and most serious frauds have been
 perpetrated in the selling of sables that have been coloured or
 "topped"; that is, just the tips of the hairs stained dark to represent
@@ -1652,7 +1652,7 @@ freezing. Furs kept in such a condition are not only immune from the
 ravages of the larvae of moth, but all the natural oils in the pelt and
 fur are conserved, so that its colour and life are prolonged, and the
 natural deterioration is arrested. Sunlight has a tendency to bleach
-furs and to encourage the development of moth eggs, therefore continued
+furs and to encourage the development of moth [[Egg|eggs]], therefore continued
 exposure is to be avoided. When furs are wetted by rain they should be
 well shaken and allowed to dry in a current of air without exposure to
 sun or open fire.
@@ -1746,15 +1746,15 @@ spring and summer.
                                                          (approximate).
 
     Straight stole 1/2 length (just below the waist line)      2-3/4
-    Straight stole 3/4 length (just below the knee)            3-3/4
+    Straight stole 3/4 length (just below the [[Knee|knee]])            3-3/4
     Stole, broad enough at the neck to cover the top of
       arm 3/4 length                                           5
     The same, full length (to hem of skirt)                    6
-    Eton jacket, without collar                               13
+    [[Eton]] jacket, without collar                               13
     Plain cape, 15 in. long                                    6-1/2
     Deep cape, 30 in. long                                    15
     Full cape with broad stole front, 3/4 length              15
-    Inverness cape (to knee)                                  25
+    [[Inverness]] cape (to knee)                                  25
     Double-breasted, straight, semi-fitting coat, covering
       hips                                                    16
     Double-breasted sacque jacket, 36 in. long, full sleeves  20
@@ -1827,7 +1827,7 @@ spring and summer.
     |                                     |           |   sq. ft.   |
     +-------------------------------------+-----------+-------------+
     | Otter (with water hairs)            |    100    |     4       |
-    | Sealskin, marble                    |     80    |     3       |
+    | Sealskin, [[Marble|marble]]                    |     80    |     3       |
     | "Hair Sealskin" (tinted) with water |           |             |
     |   hairs (a special variety of seal) |     75    |     3-1/4   |
     | Raccoon                             |     65    |     4-1/2   |

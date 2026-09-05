@@ -10,8 +10,8 @@ CEPHALONIA (Ital. _Cefalonia_, ancient and modern official Greek
 _Cephallenia_, [Greek: Kephallênia]), an island belonging to the kingdom
 of Greece, and the largest of those known as the Ionian Islands,
 situated on the west side of the mainland, almost directly opposite the
-Gulf of Corinth. The name was traditionally derived from Cephalus, the
-Attic hero who was regarded as having colonized the island. The
+Gulf of [[Corinth]]. The name was traditionally derived from Cephalus, the
+[[Attic]] hero who was regarded as having colonized the island. The
 tradition, which is repeated by Aristotle, is probably due solely to the
 similarity of the names (see J.G. Frazer, _Pausanias_, i. 37, 6 note).
 Pop. (1907) 71,235. Its extreme length is 31 m., and its breadth varies
@@ -21,7 +21,7 @@ distance of about 4 m. across the strait of Guiscardo or Viscaro. The
 whole island, with its area of 348 English sq. m., is covered with rocky
 hills of varying elevation, the main range running from north-west to
 south-east. The ancient Mount Aenos, now Elato, Monte Negro, or the
-Black Mountain (5315 ft.), frequently retains the snow for several
+[[Black Mountain]] (5315 ft.), frequently retains the snow for several
 months. It is not only the loftiest part of the sierra, but also the
 highest land in the whole Ionian group. The name "Black" was given from
 the darkness of the pine woods which still constitute the most striking
@@ -53,7 +53,7 @@ proportion of the soil is under cultivation, and the quantity of grain
 grown in the island is comparatively meagre. The staple is the currant,
 in the production of which the island surpasses Zante. The fruit is
 smaller than that of the Morea, and has a peculiar flavour; it finds a
-market mainly in Holland, Belgium and Germany. The grape vine also is
+market mainly in Holland, [[Belgium]] and Germany. The grape vine also is
 grown, and the manufacture of wine is a rising industry. The olive crop
 is of considerable importance, and the culture of cotton in the low
 grounds has been successfully attempted. Manufactures are few and
@@ -81,7 +81,7 @@ along with Santa Maura and Zante by a succession of five counts of the
 Tocco family at Naples. Formally made over to Venice in 1350 by the
 prince of Tarentum, it was afterwards captured by the Turks in 1479; but
 the Hispanico-Venetian fleet under Benedetto Pessaro and Gonsalvo of
-Cordova effected their expulsion in 1500, and the island continued in
+[[Cordova]] effected their expulsion in 1500, and the island continued in
 Venetian possession till the fall of the republic. For some time it was
 administered for the French government, but in 1809 it was taken by the
 British under Cuthbert, Lord Collingwood. Till 1813 it was in the hands
@@ -94,7 +94,7 @@ prosperity, but was several times the scene of political disturbances.
 It retained longer than the sister islands traces of feudal influence
 exerted by the landed proprietors, but has been gradually becoming more
 democratic. Under the Venetians it was divided into eight districts, and
-an elaborate system of police was in force; since its annexation to
+an elaborate system of police was in force; since its [[Annexation|annexation]] to
 Greece it has been broken up into twenty demarchies, each with its
 separate jurisdiction and revenues, and the police system has been
 abolished.

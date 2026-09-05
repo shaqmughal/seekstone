@@ -27,16 +27,16 @@ In the United Kingdom the statute law against offences relating to the
 coin was codified by an act of 1861. The statute provides that whoever
 falsely makes or counterfeits any coin resembling or apparently intended
 to resemble or pass for any current gold or silver coin of the realm (s.
-2), or gilds, silvers, washes, cases over or colours with materials
+2), or gilds, silvers, washes, cases over or [[Colours|colours]] with materials
 capable of producing the appearance of gold or silver a coin or a piece
-of any metal or mixture of metals, or files or alters it, with intent to
+of any metal or mixture of metals, or files or alters it, with [[Intent|intent]] to
 make it resemble or pass for any current gold or silver coin (s. 3), or
 who buys, sells, receives or pays a false gold or silver coin at a lower
-rate than its denomination imports, or who receives into the United
+rate than its [[Denomination|denomination]] imports, or who receives into the United
 Kingdom any false coin knowing it to be counterfeit (ss. 6, 7), or who,
 without lawful authority or excuse, knowingly makes or mends, buys or
 sells, or has in his custody or possession, or conveys out of the Royal
-Mint any coining moulds, machines or tools, is guilty of felony (ss. 24,
+Mint any coining moulds, [[Machine|machines]] or tools, is guilty of felony (ss. 24,
 25). The punishment for such offences is either penal servitude for life
 or for not less than three years, or imprisonment for not more than two
 years, with or without hard labour. Whoever impairs, diminishes or
@@ -48,7 +48,7 @@ servitude for from three to seven years. The statute also makes
 provision against tendering or uttering false gold or silver coin, which
 is a misdemeanour, punishable by imprisonment with or without hard
 labour. Provision is also made with respect to falsely making,
-counterfeiting, tendering or uttering copper coin, exporting false coin,
+[[Counterfeiting|counterfeiting]], tendering or uttering copper coin, exporting false coin,
 or defacing current coin by stamping names or words on it, and
 counterfeiting, tendering or uttering coin resembling or meant to pass
 as that of some foreign state. The act of 1861 applies to offences with
@@ -57,7 +57,7 @@ respect to colonial coins as well as to those of the United Kingdom.
 By the constitution of the United States, Congress has the power of
 coining money, regulating the value thereof and of foreign coin (Art. i.
 s. viii.), and the states are prohibited from coining money, or making
-anything but gold and silver money a tender in payment of debts (Art. i.
+anything but gold and silver money a tender in payment of [[Debt|debts]] (Art. i.
 s. x.). The counterfeiting coin or money, uttering the same, or
 mutilating or defacing it, is an offence against the United States, and
 is punishable by fine and imprisonment with hard labour for from two to

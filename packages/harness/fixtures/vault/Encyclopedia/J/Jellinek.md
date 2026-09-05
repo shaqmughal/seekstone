@@ -31,8 +31,8 @@ displayed unobtrusive learning, fresh application of old sayings, and a
 high conception of Judaism and its claims. Jellinek was a powerful
 apologist and an accomplished homilist, at once profound and ingenious.
 
-His son, GEORGE JELLINEK, was appointed professor of international law
-at Heidelberg in 1891. Another son, MAX HERMANN JELLINEK, was made
+His son, GEORGE JELLINEK, was appointed professor of [[International|international]] law
+at Heidelberg in 1891. Another son, MAX [[Hermann|HERMANN]] JELLINEK, was made
 assistant professor of philology at Vienna in 1892.
 
 A brother of Adolf, HERMANN JELLINEK (b. 1823), was executed at the age
@@ -41,8 +41,8 @@ of 1848. One of Hermann Jellinek's best-known works was _Uriel Acosta_.
 Another brother, MORITZ JELLINEK (1823-1883), was an accomplished
 economist, and contributed to the Academy of Sciences essays on the
 price of cereals and on the statistical organization of the country. He
-founded the Budapest tramway company (1864) and was also president of
-the corn exchange.
+founded the [[Budapest]] tramway company (1864) and was also president of
+the [[Corn|corn]] [[Exchange|exchange]].
 
   See _Jewish Encyclopedia_, vii. 92-94. For a character sketch of Adolf
   Jellinek see S. Singer, _Lectures and Addresses_ (1908), pp. 88-93;

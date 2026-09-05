@@ -19,7 +19,7 @@ cylindrical corolla-tube, with a spreading limb, two included stamens
 and a two-celled ovary.
 
 The name is derived from the Persian _yásmín_. Linnaeus obtained a
-fancied etymology from [Greek: ia], violets, and [Greek: osmê], smell,
+fancied [[Etymology|etymology]] from [Greek: ia], violets, and [Greek: osmê], smell,
 but the odour of its flowers bears no resemblance to that of the violet.
 The common white jasmine, _Jasminum officinale_, one of the best known
 and most highly esteemed of British hardy ligneous climbers, is a native
@@ -45,11 +45,11 @@ double flowers are known.
   highly esteemed in the East, and are frequently referred to by the
   Persian and Arabian poets. An oil obtained by boiling the leaves is
   used to anoint the head for complaints of the eye, and an oil obtained
-  from the roots is used medicinally to arrest the secretion of milk.
+  from the roots is used medicinally to [[Arrest|arrest]] the secretion of milk.
   The flowers of one of the double varieties are held sacred to Vishnu,
   and used as votive offerings in Hindu religious ceremonies. The
   Spanish, or Catalonian jasmine, _J. grandiflorum_, a native of the
-  north-west Himalaya, and cultivated both in the old and new world, is
+  north-west [[Himalaya]], and cultivated both in the old and new world, is
   very like _J. officinale_, but differs in the size of the leaflets;
   the branches are shorter and stouter, and the flowers very much
   larger, and reddish underneath. By grafting it on two-year-old plants
@@ -62,19 +62,19 @@ double flowers are known.
   August and September are the most odoriferous.
 
   The aroma is extracted by the process known as _enfleurage_, i.e.
-  absorption by a fatty body, such as purified lard or olive oil. Square
+  absorption by a fatty body, such as purified [[Lard|lard]] or olive oil. Square
   glass trays framed with wood about 3 in. deep are spread over with
-  grease about half an inch thick, in which ridges are made to
+  grease about half an [[Inch|inch]] thick, in which ridges are made to
   facilitate absorption, and sprinkled with freshly gathered flowers,
   which are renewed every morning during the whole time the plant
   remains in blossom; the trays are piled up in stacks to prevent the
   evaporation of the aroma; and finally the pomade is scraped off the
   glass, melted at as low a temperature as possible, and strained. When
   oil is employed as the absorbent, coarse cotton cloths previously
-  saturated with the finest olive oil are laid on wire-gauze frames, and
+  saturated with the finest olive oil are laid on wire-gauze [[Frame|frames]], and
   repeatedly covered in the same manner with fresh flowers; they are
   then squeezed under a press, yielding what is termed _huile antique au
-  jasmin_. Three pounds of flowers will perfume 1 lb. of grease--this is
+  [[Jasmin|jasmin]]_. Three pounds of flowers will perfume 1 lb. of grease--this is
   exhausted by maceration in 1 pt. of rectified spirit to form the
   "extract." An essential oil is distilled from jasmine in Tunis and
   Algeria, but its high price prevents its being used to any extent. The
@@ -82,7 +82,7 @@ double flowers are known.
   sandalwood-oil.
 
   The distinguishing characters of _J. odoratissimum_, a native of the
-  Canary Islands and Madeira, consist principally in the alternate,
+  [[Canary Islands]] and Madeira, consist principally in the alternate,
   obtuse, ternate and pinnate leaves, the 3-flowered terminal peduncles
   and the 5-cleft yellow corolla with obtuse segments. The flowers have
   the advantage of retaining when dry their natural perfume, which is
@@ -94,22 +94,22 @@ double flowers are known.
   required for 100 lb. of tea. _J. angustifolium_ is a beautiful
   evergreen climber 10 to 12 ft. high, found in the Coromandel forests,
   and introduced into Britain during the present century. Its leaves are
-  of a bright shining green; its large terminal flowers are white with a
+  of a [[Bright|bright]] shining green; its large terminal flowers are white with a
   faint tinge of red, fragrant and blooming throughout the year.
 
-  In Cochin China a decoction of the leaves and branches of _J.
+  In [[Cochin]] China a decoction of the leaves and branches of _J.
   nervosum_ is taken as a blood-purifier; and the bitter leaves of _J.
-  floribundum_ (called in Abyssinia _habbez-zelim_) mixed with kousso is
+  floribundum_ (called in Abyssinia _habbez-zelim_) mixed with [[Kousso|kousso]] is
   considered a powerful anthelmintic, especially for tapeworm; the
   leaves and branches are added to some fermented liquors to increase
-  their intoxicating quality. In Catalonia and in Turkey the wood of the
+  their intoxicating quality. In [[Catalonia]] and in Turkey the wood of the
   jasmine is made into long, slender pipe-stems, highly prized by the
   Moors and Turks. Syrup of jasmine is made by placing in a jar
   alternate layers of the flowers and sugar, covering the whole with wet
   cloths and standing it in a cool place; the perfume is absorbed by the
   sugar, which is converted into a very palatable syrup. The important
   medicinal plant known in America as the "Carolina jasmine" is not a
-  true jasmine (see GELSEMIUM).
+  true jasmine (see [[Gelsemium|GELSEMIUM]]).
 
   Other hardy species commonly cultivated in gardens are the low or
   Italian yellow-flowered jasmine, _J. humile_, an East Indian species

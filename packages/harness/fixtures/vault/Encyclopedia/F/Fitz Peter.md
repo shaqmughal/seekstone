@@ -8,7 +8,7 @@ id: 42-3051
 
 # Fitz Peter
 
-FITZ PETER, GEOFFREY (d. 1213), earl of Essex and chief justiciar of
+FITZ PETER, GEOFFREY (d. 1213), earl of [[Essex]] and chief justiciar of
 England, began his official career in the later years of Henry II., whom
 he served as a sheriff, a justice itinerant and a justice of the forest.
 During Richard's absence on Crusade he was one of the five justices of
@@ -20,8 +20,8 @@ over Walden priory Fitz Peter came into conflict with Longchamp, and
 revenged himself by taking an active part in the baronial agitation
 through which the regent was expelled from his office. The king,
 however, forgave Fitz Peter for his share in these proceedings; and,
-though refusing to give him formal investiture of the Essex earldom,
-appointed him justiciar in succession to Hubert Walter (1198). In this
+though refusing to give him formal [[Investiture|investiture]] of the Essex earldom,
+appointed him justiciar in succession to [[Hubert]] Walter (1198). In this
 capacity Fitz Peter continued his predecessor's policy of encouraging
 foreign trade and the development of the towns; many of the latter
 received, during his administration, charters of self-government. He was

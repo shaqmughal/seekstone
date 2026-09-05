@@ -10,8 +10,8 @@ JUNG BAHADUR, SIR, MAHARAJAH (1816-1877), prime minister of Nepal, was a
 grand-nephew of Bhim sena Thapa (Bhim sen Thappa), the famous military
 minister of Nepal, who from 1804 to 1839 was _de facto_ ruler of the
 state under the rani Tripuri and her successor. Bhimsena's supremacy was
-threatened by the Kala Pandry, and many of his relations, including Jung
-Bahadur, went into exile in 1838, thus escaping the cruel fate which
+threatened by the Kala Pandry, and many of his relations, including [[Jung]]
+Bahadur, went into exile in 1838, thus escaping the cruel [[Fate|fate]] which
 overtook Bhimsena in the following year. The Pandry leaders, who then
 reverted to power, were in turn assassinated in 1843, and Matabar Singh,
 uncle of Jung Bahadur, was created prime minister. He appointed his
@@ -28,7 +28,7 @@ succeeded so well that in January 1850 he was able to leave for a visit
 to England, from which he did not return to Nepal until the 6th of
 February 1851. On his return, and frequently on subsequent dates, he
 frustrated conspiracies for his assassination. The reform of the penal
-code, and a desultory war with Tibet, occupied his attention until news
+[[Code|code]], and a desultory war with Tibet, occupied his attention until news
 of the Indian Mutiny reached Nepal. Jung Bahadur resisted all overtures
 from the rebels, and sent a column to Gorakpur in July 1857. In December
 he furnished a force of 8000 Gurkhas, which reached Lucknow on the 11th

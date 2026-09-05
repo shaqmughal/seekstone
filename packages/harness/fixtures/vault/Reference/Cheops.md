@@ -33,7 +33,7 @@ moralized on the uselessness of his stupendous work; but there is
 nothing else to prove that the Egyptians themselves execrated his
 memory. Modern writers rather dwell on the perfect organization demanded
 by his scheme, the training of a nation to combined labour, the level
-attained here by art and in the fitting of masonry, and finally the fact
+attained here by art and in the fitting of [[Masonry|masonry]], and finally the fact
 that the Great Pyramid was the oldest of the seven wonders of the
 ancient world and now alone of them survives. It seems that
 representations of deities, and indeed any representations at all, were
@@ -42,7 +42,7 @@ dynasty, and Petrie thinks that he can trace a violent religious
 revolution with confiscation of endowments at this time in the temple
 remains at Abydos; but none the less the wants of the deities were then
 attended to by priests selected from the royal family and the highest in
-the land. Khufu's work in the temple of Bubastis is proved by a
+the land. Khufu's work in the temple of [[Bubastis]] is proved by a
 surviving fragment, and he is figured slaying his enemy at Sinai before
 the god Thoth. In late times the priests of Denderah claimed Khufu as a
 benefactor; he was reputed to have built temples to the gods near the
@@ -53,14 +53,14 @@ practised under the twenty-sixth dynasty, when so much that had fallen
 into disuse and been forgotten was revived. Khufu is a leading figure in
 an ancient Egyptian story (Papyrus Westcar), but it is unfortunately
 incomplete. He was the founder of the fourth dynasty, and was probably
-born in Middle Egypt near Beni Hasan, in a town afterwards known as
+born in Middle Egypt near [[Beni]] Hasan, in a town afterwards known as
 "Khufu's Nurse," but was connected with the Memphite third dynasty. Two
 tablets at the mines of Wadi Maghara in the peninsula of Sinai, a
-granite block from Bubastis, and a beautiful ivory statuette found by
+granite block from Bubastis, and a beautiful [[Ivory|ivory]] statuette found by
 Petrie in the temple at Abydos, are almost all that can be definitely
 assigned to Khufu outside the pyramid at Giza and its ruined
 accompaniments. His date, according to Petrie, is 3969-3908 B.C., but in
-the shorter chronology of Meyer, Breasted and others he reigned (23
+the shorter [[Chronology|chronology]] of Meyer, Breasted and others he reigned (23
 years) about a thousand years later, c. 2900 B.C.
 
   See Herodotus ii. 124; Diodorus Siculus i. 64; Sethe in

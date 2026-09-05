@@ -6,9 +6,9 @@ topic: science
 
 # Fuerteventura
 
-FUERTEVENTURA, an island in the Atlantic Ocean, forming part of the
-Spanish archipelago of the Canary Islands (q.v.). Pop. (1900) 11,669;
-area 665 sq. m. Fuerteventura lies between Lanzarote and Grand Canary.
+FUERTEVENTURA, an island in the [[Atlantic Ocean]], forming part of the
+Spanish archipelago of the [[Canary Islands]] (q.v.). Pop. (1900) 11,669;
+area 665 sq. m. Fuerteventura lies between Lanzarote and [[Grand Canary]].
 It has a length of 52 m., and an average width of 12 m. Though less
 mountainous than the other islands, its aspect is barren. There are only
 two springs of fresh water, and these are confined to one valley. Lava

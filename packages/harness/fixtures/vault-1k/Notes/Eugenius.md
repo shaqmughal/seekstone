@@ -34,7 +34,7 @@ care of the poor and of widows and orphans. He died in 827. (L. D.*)
 EUGENIUS III. (Bernardo Paganelli), pope from the 15th of February 1145
 to the 8th of July 1153, a native of Pisa, was abbot of the Cistercian
 monastery of St Anastasius at Rome when suddenly elected to succeed
-Lucius II. His friend and instructor, Bernard of Clairvaux, the most
+[[Lucius]] II. His friend and instructor, Bernard of Clairvaux, the most
 influential ecclesiastic of the time, remonstrated against his election
 on account of his "innocence and simplicity," but Bernard soon
 acquiesced and continued to be the mainstay of the papacy throughout
@@ -96,7 +96,7 @@ house of Colonna. But by far the most important feature of Eugenius's
 pontificate was the great struggle between pope and council. On the 23rd
 of July 1431 his legate opened the council of Basel which had been
 convoked by Martin, but, distrustful of its purposes and moved by the
-small attendance, the pope issued a bull on the 18th of December 1431,
+small attendance, the pope issued a [[Bull|bull]] on the 18th of December 1431,
 dissolving the council and calling a new one to meet in eighteen months
 at Bologna. The council refused to dissolve, renewed the revolutionary
 resolutions by which the council of Constance had been declared superior

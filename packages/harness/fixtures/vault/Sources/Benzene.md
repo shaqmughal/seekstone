@@ -1,10 +1,10 @@
 # Benzene
 
-BENZENE, C6H6, a hydrocarbon discovered in 1825 by Faraday in the liquid
+BENZENE, C6H6, a [[Hydrocarbon|hydrocarbon]] discovered in 1825 by [[Faraday]] in the liquid
 produced in the compression of the illuminating gas obtained by
 distilling certain oils and fats. E. Mitscherlich prepared it in 1834 by
-distilling benzoic acid with lime; and in 1845 Hofmann discovered it in
-coal-tar. It was named "benzin" or "benzine" by Mitscherlich in 1833,
+distilling benzoic acid with lime; and in 1845 [[Hofmann]] discovered it in
+[[Coal-Tar|coal-tar]]. It was named "benzin" or "benzine" by Mitscherlich in 1833,
 but in the following year Liebig proposed "benzol" (the termination _ol_
 being suggested by the Lat. _oleum_, oil); the form "benzene" was due to
 A.W. Hofmann. The word "benzine" is sometimes used in commerce for the
@@ -16,10 +16,10 @@ used in Germany, and "benzole" in France.
 
 Benzene is manufactured from the low-boiling fractions of the coal-tar
 distillate (see COAL-TAR). The first successful fractionation of
-coal-tar naphtha was devised by C.B. Mansfield (1819-1855), who
+coal-tar naphtha was devised by C.B. [[Mansfield]] (1819-1855), who
 separated a benzol distilling below 100 deg. from a less volatile
 naphtha by using a simple dephlegmator. At first, the oil was
-manufactured principally for combustion in the Read-Holliday lamp and
+manufactured principally for [[Combustion|combustion]] in the Read-Holliday [[Lamp|lamp]] and
 for dissolving rubber, but the development of the coal-tar colour
 industry occasioned a demand for benzols of definite purity. In the
 earlier stages 30%, 50% and 90% benzols were required, the 30% being
@@ -32,11 +32,11 @@ the operation being principally conditioned by the efficiency of the
 dephlegmator, in which various improvements have been made. The light
 oil fraction of the coal-tar distillate, which comes over below 140 deg.
 and consists principally of benzene, toluene and the xylenes, yields on
-fractionation (1) various volatile impurities such as carbon disulphide,
+fractionation (1) various volatile impurities such as [[Carbon|carbon]] disulphide,
 (2) the benzene fraction boiling at about 80 deg. C., (3) the toluene
 fraction boiling at 100 deg., (4) the xylene fraction boiling at 140
 deg. The fractions are agitated with strong sulphuric acid, and then
-washed with a caustic soda solution. The washed products are then
+washed with a [[Caustic|caustic]] soda solution. The washed products are then
 refractionated. The toluene fraction requires a more thorough washing
 with sulphuric acid in order to eliminate the thiotolene, which is
 sulphonated much less readily than thiophene.
@@ -49,7 +49,7 @@ deg., and the vapour is highly inflammable, the flame being extremely
 smoky. Its specific gravity is 0.899 at 0 deg. C. It is very slightly
 soluble in water, more soluble in alcohol, and completely miscible with
 ether, acetic acid and carbon disulphide. It is an excellent solvent for
-gums, resins, fats, &c.; sulphur, phosphorus and iodine also dissolve in
+[[Gum|gums]], resins, fats, &c.; sulphur, phosphorus and iodine also dissolve in
 it. It sometimes separates with crystals of a solute as "benzene of
 crystallization," as for example with triphenylmethane, thio-p-tolyl
 urea, tropine, &c.
@@ -59,12 +59,12 @@ compounds derivable from it, which are exceedingly valuable in the arts.
 Chemically it is one of the most interesting substances known, since it
 is the parent of the enormous number of compounds styled the "aromatic"
 or "benzenoid" compounds. The constitution of the benzene ring, the
-isomerism of its derivatives, and their syntheses from aliphatic or
-open-chain compounds, are treated in the article CHEMISTRY. A summary of
+[[Isomerism|isomerism]] of its derivatives, and their syntheses from aliphatic or
+open-chain compounds, are treated in the article [[Chemistry|CHEMISTRY]]. A summary of
 its chemical transformations may be given here, and reference should be
 made to the articles on the separate compounds for further details.
 
-Passed through a red-hot tube, benzene vapour yields hydrogen, diphenyl,
+Passed through a red-hot tube, benzene vapour yields hydrogen, [[Diphenyl|diphenyl]],
 diphenylbenzenes and acetylene; the formation of the last compound is an
 instance of a reversible reaction, since Berthelot found that acetylene
 passed through a red-hot tube gave some benzene. Benzene is very stable
@@ -73,9 +73,9 @@ of the benzene ring. Manganese dioxide and sulphuric acid oxidize it to
 benzoic and o-phthalic acid; potassium chlorate and sulphuric acid
 breaks the ring; and ozone oxidizes it to the highly explosive white
 solid named ozo-benzene, C6H6O6. Hydriodic acid reduces it to
-hexamethylene (cyclo-hexane or hexa-hydro-benzene); chlorine and bromine
+hexamethylene (cyclo-hexane or hexa-hydro-benzene); [[Chlorine|chlorine]] and bromine
 form substitution and addition products, but the action is slow unless
-some carrier such as iodine, molybdenum chloride or ferric chloride for
+some [[Carrier|carrier]] such as iodine, molybdenum chloride or ferric chloride for
 chlorine, and aluminium bromide for bromine, be present. It is readily
 nitrated to nitrobenzene, two, and even three nitro groups being
 introduced if some dehydrator such as concentrated sulphuric acid be

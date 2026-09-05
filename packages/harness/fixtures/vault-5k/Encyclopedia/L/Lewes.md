@@ -10,7 +10,7 @@ type: article
 LEWES, GEORGE HENRY (1817-1878), British philosopher and literary
 critic, was born in London in 1817. He was a grandson of Charles Lee
 Lewes, the actor. He was educated in London, Jersey, Brittany, and
-finally at Dr Burney's school in Greenwich. Having abandoned
+finally at Dr Burney's school in [[Greenwich]]. Having abandoned
 successively a commercial and a medical career, he seriously thought of
 becoming an actor, and between 1841 and 1850 appeared several times on
 the stage. Finally he devoted himself to literature, science and
@@ -23,7 +23,7 @@ years supported himself by contributing to the quarterly and other
 reviews. These articles discuss a wide variety of subject, and, though
 often characterized by hasty impulse and imperfect study, betray a
 singularly acute critical judgment, enlightened by philosophic study.
-The most valuable are those on the drama, afterwards republished under
+The most valuable are those on the [[Drama|drama]], afterwards republished under
 the title _Actors and Acting_ (1875). With this may be taken the volume
 on _The Spanish Drama_ (1846). The combination of wide scholarship,
 philosophic culture and practical acquaintance with the theatre gives
@@ -36,7 +36,7 @@ Blanche and Violet_--which, though displaying considerable skill both
 in plot, construction and in characterization, have taken no permanent
 place in literature. The same is to be said of an ingenious attempt to
 rehabilitate Robespierre (1849). In 1850 he collaborated with Thornton
-Leigh Hunt in the foundation of the _Leader_, of which he was the
+Leigh [[Hunt]] in the foundation of the _Leader_, of which he was the
 literary editor. In 1853 he republished under the title of _Comte's
 Philosophy of the Sciences_ a series of papers which had appeared in
 that journal. In 1851 he became acquainted with Miss Evans (George
@@ -50,7 +50,7 @@ tastes, eminently fitted him to appreciate the large nature and the
 wide-ranging activity of the German poet. The high position this work
 has taken in Germany itself, notwithstanding the boldness of its
 criticism and the unpopularity of some of its views (e.g. on the
-relation of the second to the first part of _Faust_), is a sufficient
+relation of the second to the first part of _[[Faust]]_), is a sufficient
 testimony to its general excellence. From about 1853 Lewes's writings
 show that he was occupying himself with scientific and more particularly
 biological work. He may be said to have always manifested a distinctly
@@ -116,13 +116,13 @@ interested in the Hampstead Heath extension.
   scientific truth that mind and body coexist in the living organism and
   the philosophic truth that all knowledge of objects implies a knowing
   subject. In other words, to use Shadworth Hodgson's phrase, he mixes
-  up the question of the _genesis_ of mental forms with the question of
+  up the question of the _[[Genesis|genesis]]_ of mental forms with the question of
   their _nature_ (see _Philosophy of Reflexion_, ii. 40-58). Thus he
   reaches the "monistic" doctrine that mind and matter are two aspects
   of the same existence by attending simply to the parallelism between
   psychical and physical processes given as a fact (or a probable fact)
   of our experience, and by leaving out of account their relation as
-  subject and object in the cognitive act. His identification of the two
+  subject and object in the cognitive act. His [[Identification|identification]] of the two
   as phases of one existence is open to criticism, not only from the
   point of view of philosophy, but from that of science. In his
   treatment of such ideas as "sensibility," "sentience" and the like, he
@@ -144,7 +144,7 @@ interested in the Hampstead Heath extension.
   fundamental property of nerve substance. Closely related to this
   doctrine is the view that the nervous organism acts as a whole, that
   particular mental operations cannot be referred to definitely
-  circumscribed regions of the brain, and that the hypothesis of nervous
+  circumscribed regions of the brain, and that the [[Hypothesis|hypothesis]] of nervous
   activity passing in the centre by an isolated pathway from one
   nerve-cell to another is altogether illusory. By insisting on the
   complete coincidence between the regions of nerve-action and

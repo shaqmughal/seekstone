@@ -7,16 +7,16 @@ persons. The Roman empire of the 4th century adopted from the "vanity of
 the East the forms and ceremonies of ostentatious greatness." Gibbon
 includes in the "profusion of epithets" by which "the purity of the
 Latin language was debased," and which were lavished on "the principal
-officers of the empire," "your Sincerity, your Gravity, your Excellency,
+officers of the empire," "your Sincerity, your Gravity, your [[Excellency]],
 your Eminence, your sublime and wonderful Magnitude, your illustrious
 and magnificent Highness." From the _notitia dignitatum_ it passed into
 the Latin of the middle ages as a flattering epithet, and was applied in
 the church and by the popes to the dignified clergy at large, and
 sometimes as a pure form of civility to churchmen of modest rank. On the
 10th of June 1630, Urban VIII. confined the use of the titles
-_Eminentiae_ and _Eminentissimi_ to the cardinals, to imperial electors,
+_Eminentiae_ and _Eminentissimi_ to the cardinals, to imperial [[Electors|electors]],
 and to the master of the Hospital of St John of Jerusalem (order of the
-Knights of Malta). Since the dissolution of the Holy Roman Empire, and
+[[Knight|Knights]] of [[Malta]]). Since the dissolution of the Holy Roman Empire, and
 the entire change, if not actual destruction, of the order of St John,
 the title "eminence" has become strictly confined to the cardinals.
 Before 1630 the members of the Sacred College were "Illustrissimi" and

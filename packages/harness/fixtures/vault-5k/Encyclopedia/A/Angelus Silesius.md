@@ -23,7 +23,7 @@ have been adopted in the German Protestant hymnal. More remarkable,
 however, is his _Geistreiche Sinn-und Schluss-reime_ (1657),
 afterwards called _Cherubinischer Wandersmann_ (1674). This is a
 collection of "Reimsprüche" or rhymed distichs embodying a strange
-mystical pantheism drawn mainly from the writings of Jakob Böhme and
+mystical pantheism drawn mainly from the writings of [[Jakob]] Böhme and
 his followers. Silesius delighted specially in the subtle paradoxes of
 mysticism. The essence of God, for instance, he held to be love; God,
 he said, can love nothing inferior to himself; but he cannot be an
@@ -37,9 +37,9 @@ the _Cherubinischer Wandersmann_ and _Heilige Seelenlust_ have been
 republished by G. Ellinger (1895 and 1901); a selection from the
 former work by O.E. Hartleben (1896). For further notices of Silesius'
 life and work, see Hoffmann von Fallersleben in _Weimarisches Jahrbuch
-I_. (Hanover, 1854); A. Kahlert, _Angelus Silesius_ (1853); C.
+I_. ([[Hanover]], 1854); A. Kahlert, _Angelus Silesius_ (1853); C.
 Seltmann, _Angelus Silesius und seine Mystik_ (1896), and a biog. by
-H. Mahn (Dresden, 1896).
+H. Mahn ([[Dresden]], 1896).
 
 
 

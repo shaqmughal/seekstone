@@ -1,11 +1,11 @@
 # Lloyd'S
 
 LLOYD'S, an association of merchants, shipowners, underwriters, and ship
-and insurance brokers, having its headquarters in a suite of rooms in
-the north-east corner of the Royal Exchange, London. Originally a mere
+and [[Insurance|insurance]] [[Broker|brokers]], having its headquarters in a suite of rooms in
+the north-east corner of the Royal [[Exchange]], London. Originally a mere
 gathering of merchants for business or gossip in a coffee-house kept by
-one Edward Lloyd in Tower Street, London, the earliest notice of which
-occurs in the _London Gazette_ of the 18th of February 1688, this
+one Edward [[Lloyd]] in Tower Street, London, the earliest notice of which
+occurs in the _London [[Gazette]]_ of the 18th of February 1688, this
 institution has gradually become one of the greatest organizations in
 the world in connexion with commerce. The establishment existed in Tower
 Street up to 1692, in which year it was removed by the proprietor to
@@ -47,7 +47,7 @@ of British ships are required to give notice to Lloyd's agents of
 derelict vessels, which information is published by Lloyd's.
 
 The rooms at Lloyd's are available only to subscribers and members. The
-former pay an annual subscription of five guineas without entrance fee,
+former pay an annual subscription of five guineas without entrance [[Fee|fee]],
 but have no voice in the management of the institution. The latter
 consist of non-underwriting members, who pay an entrance fee of twelve
 guineas, and of underwriting members who pay a fee of £100. Underwriting
@@ -66,7 +66,7 @@ risk is accepted, each underwriter subscribes his name and the amount he
 agrees to take or underwrite, the insurance being effected as soon as
 the total value is made up.
 
-  See F. Martin, _History of Lloyd's and of Marine Insurance in Great
+  See F. [[Martin]], _History of Lloyd's and of Marine Insurance in Great
   Britain_ (1876).
 
 ## References

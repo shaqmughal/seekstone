@@ -14,7 +14,7 @@ close to the confluence of the Boyle. Pop. (1901) 1118. It is on the
 Sligo branch of the Midland Great Western railway, 90 m. W.N.W. of
 Dublin, the station being across the river in county Roscommon. Though
 having so small a population it is the largest town in the county, is
-the seat of the assizes, and has quays and some river trade. The
+the seat of the [[Assize|assizes]], and has quays and some river trade. The
 surrounding country, with its waterways, loughs and woods, is of
 considerable beauty.
 

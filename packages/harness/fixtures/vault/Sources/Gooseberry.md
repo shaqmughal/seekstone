@@ -11,7 +11,7 @@ of in racemes.
 The wild gooseberry is a small, straggling bush, nearly resembling the
 cultivated plant,--the branches being thickly set with sharp spines,
 standing out singly or in diverging tufts of two or three from the bases
-of the short spurs or lateral leaf shoots, on which the bell-shaped
+of the short spurs or lateral [[Leaf|leaf]] shoots, on which the bell-shaped
 flowers are produced, singly or in pairs, from the groups of rounded,
 deeply-crenated 3- or 5-lobed leaves. The fruit is smaller than in the
 garden kinds, but is often of good flavour; it is generally hairy, but
@@ -19,7 +19,7 @@ in one variety smooth, constituting the _R. Uva-crispa_ of writers; the
 colour is usually green, but plants are occasionally met with having
 deep purple berries. The gooseberry is indigenous in Europe and western
 Asia, growing naturally in alpine thickets and rocky woods in the lower
-country, from France eastward, perhaps as far as the Himalaya. In
+country, from France eastward, perhaps as far as the [[Himalaya]]. In
 Britain it is often found in copses and hedgerows and about old ruins,
 but has been so long a plant of cultivation that it is difficult to
 decide upon its claim to a place in the native flora of the island.
@@ -30,8 +30,8 @@ Pliny: the hot summers of Italy, in ancient times as at present, would
 be unfavourable to its cultivation. Abundant in Germany and France, it
 does not appear to have been much grown there in the middle ages, though
 the wild fruit was held in some esteem medicinally for the cooling
-properties of its acid juice in fevers; while the old English name,
-_Fea-berry_, still surviving in some provincial dialects, indicates that
+properties of its acid juice in [[Fever|fevers]]; while the old English name,
+_Fea-berry_, still surviving in some provincial [[Dialect|dialects]], indicates that
 it was similarly valued in Britain, where it was planted in gardens at a
 comparatively early period. William Turner describes the gooseberry in
 his _Herball_, written about the middle of the 16th century, and a few
@@ -45,20 +45,20 @@ in Lancashire, where the working cotton-spinners have raised numerous
 varieties from seed, their efforts having been chiefly directed to
 increasing the size of the fruit. Of the many hundred sorts enumerated
 in recent horticultural works, few perhaps equal in flavour some of the
-older denizens of the fruit-garden, such as the "old rough red" and
+older [[Denizen|denizens]] of the fruit-garden, such as the "old rough red" and
 "hairy amber." The climate of the British Islands seems peculiarly
 adapted to bring the gooseberry to perfection, and it may be grown
 successfully even in the most northern parts of Scotland; indeed, the
-flavour of the fruit is said to improve with increasing latitude. In
+flavour of the fruit is said to improve with increasing [[Latitude|latitude]]. In
 Norway even, the bush flourishes in gardens on the west coast nearly up
-to the Arctic circle, and it is found wild as far north as 63 deg. The
+to the [[Arctic]] circle, and it is found wild as far north as 63 deg. The
 dry summers of the French and German plains are less suited to it,
 though it is grown in some hilly districts with tolerable success. The
 gooseberry in the south of England will grow well in cool situations,
 and may be sometimes seen in gardens near London flourishing under the
-partial shade of apple trees; but in the north it needs full exposure to
+partial shade of [[Apple|apple]] trees; but in the north it needs full exposure to
 the sun to bring the fruit to perfection. It will succeed in almost any
-soil, but prefers a rich loam or black alluvium, and, though naturally a
+soil, but prefers a rich [[Loam|loam]] or black alluvium, and, though naturally a
 plant of rather dry places, will do well in moist land, if drained.
 
 The varieties are most easily propagated by cuttings planted in the
@@ -74,35 +74,35 @@ still succulent. When large fruit is desired, plenty of manure should
 be supplied to the roots, and the greater portion of the berries picked
 off while still small. If standards are desired, the gooseberry may be
 with advantage grafted or budded on stocks of some other species of
-_Ribes_, _R. aureum_, the ornamental golden currant of the flower
-garden, answering well for the purpose. The giant gooseberries of the
+_Ribes_, _R. aureum_, the ornamental golden currant of the [[Flower|flower]]
+garden, answering well for the purpose. The [[Giant|giant]] gooseberries of the
 Lancashire "fanciers" are obtained by the careful culture of varieties
 specially raised with this object, the growth being encouraged by
 abundant manuring, and the removal of all but a very few berries from
 each plant. Single gooseberries of nearly 2 oz. in weight have been
-occasionally exhibited; but the produce of such fanciful horticulture is
+occasionally exhibited; but the produce of such fanciful [[Horticulture|horticulture]] is
 generally insipid. The bushes at times suffer much from the ravages of
-the caterpillars of the gooseberry or magpie moth, _Abraxas
+the [[Caterpillar|caterpillars]] of the gooseberry or [[Magpie|magpie]] moth, _Abraxas
 grossulariata_, which often strip the branches of leaves in the early
 summer, if not destroyed before the mischief is accomplished. The most
-effectual way of getting rid of this pretty but destructive insect is to
+effectual way of getting rid of this pretty but destructive [[Insect|insect]] is to
 look over each bush carefully, and pick off the larvae by hand; when
 larger they may be shaken off by striking the branches, but by that time
-the harm is generally done--the eggs are laid on the leaves of the
+the harm is generally done--the [[Egg|eggs]] are laid on the leaves of the
 previous season. Equally annoying in some years is the smaller larva of
 the V-moth, _Halias vanaria_, which often appears in great numbers, and
 is not so readily removed. The gooseberry is sometimes attacked by the
 grub of the gooseberry sawfly, _Nematus ribesii_, of which several
 broods appear in the course of the spring and summer, and are very
-destructive. The grubs bury themselves in the ground to pass into the
+destructive. The grubs [[Bury|bury]] themselves in the ground to pass into the
 pupal state; the first brood of flies, hatched just as the bushes are
 coming into leaf in the spring, lay their eggs on the lower side of the
 leaves, where the small greenish larvae soon after emerge. For the
 destruction of the first broods it has been recommended to syringe the
 bushes with tar-water; perhaps a very weak solution of carbolic acid
-might prove more effective. The powdered root of white hellebore is said
+might prove more effective. The powdered root of white [[Hellebore|hellebore]] is said
 to destroy both this grub and the caterpillars of the gooseberry moth
-and V-moth; infusion of foxglove, and tobacco-water, are likewise tried
+and V-moth; infusion of [[Foxglove|foxglove]], and tobacco-water, are likewise tried
 by some growers. If the fallen leaves are carefully removed from the
 ground in the autumn and burnt, and the surface of the soil turned over
 with the fork or spade, most eggs and chrysalids will be destroyed.
@@ -139,7 +139,7 @@ disease proves troublesome the sedges in the neighbourhood should be
 destroyed.
 
 [Illustration: From George Massee's _Text-Book of Plant Diseases_, by
-permission of Duckworth & Co.
+permission of [[Duckworth]] & Co.
 
 FIG. 2.--Gooseberry Mildew (Microsphaeria Grossulariae.)
 
@@ -185,16 +185,16 @@ destruction by fire of all the young shoots showing the mildew should be
 resorted to.
 
 [Illustration: FIG. 3B.--1, Fructification (_perithecium_) bursting,
-ascus containing spores protruding; 2, Ascus with spores more highly
+[[Ascus|ascus]] containing spores protruding; 2, Ascus with spores more highly
 magnified.]
 
 The gooseberry, when ripe, yields a fine wine by the fermentation of the
 juice with water and sugar, the resulting sparkling liquor retaining
 much of the flavour of the fruit. By similarly treating the juice of the
 green fruit, picked just before it ripens, an effervescing wine is
-produced, nearly resembling some kinds of champagne, and, when skilfully
+produced, nearly resembling some kinds of [[Champagne|champagne]], and, when skilfully
 prepared, far superior to much of the liquor sold under that name.
-Brandy has been made from ripe gooseberries by distillation; by exposing
+[[Brandy]] has been made from ripe gooseberries by [[Distillation|distillation]]; by exposing
 the juice with sugar to the acetous fermentation a good vinegar may be
 obtained. The gooseberry, when perfectly ripe, contains a large quantity
 of sugar, most abundant in the red and amber varieties; in the former it
@@ -207,9 +207,9 @@ noticed _R. oxyacanthoides_ and _R. Cynosbati_, abundant in Canada and
 the northern parts of the United States, and _R. gracile_, common along
 the Alleghany range. The group is a widely distributed one in the north
 temperate zone,--one species is found in Europe extending to the
-Caucasus and North Africa (Atlas Mountains), five occur in Asia and
+[[Caucasus]] and North Africa ([[Atlas Mountains]]), five occur in Asia and
 nineteen in North America, the range extending southwards to Mexico and
-Guatemala.
+[[Guatemala]].
 
 
 FOOTNOTE:
@@ -217,8 +217,8 @@ FOOTNOTE:
   [1] The first part of the word has been usually treated as an
     etymological corruption either of this Dutch word or the allied Ger.
     _Krausbeere_, or of the earlier forms of the Fr. _groseille_. The
-    _New English Dictionary_ takes the obvious derivation from "goose"
-    and "berry" as probable; "the grounds on which plants and fruits have
+    _New English Dictionary_ takes the obvious derivation from "[[Goose|goose]]"
+    and "[[Berry|berry]]" as probable; "the grounds on which plants and fruits have
     received names associating them with animals are so commonly
     inexplicable, that the want of appropriateness in the meaning affords
     no sufficient ground for assuming that the word is an etymologizing

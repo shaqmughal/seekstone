@@ -1,6 +1,6 @@
 # Benserade
 
-BENSERADE, ISAAC DE (1613-1691), French poet, was born in Paris, and
+BENSERADE, [[Isaac|ISAAC]] DE (1613-1691), French poet, was born in Paris, and
 baptized on the 5th of November 1613. His family appears to have been
 connected with Richelieu, who bestowed on him a pension of 600 livres.
 He began his literary career with the tragedy of _Cleopatre_ (1635),

@@ -20,7 +20,7 @@ de Gondeville, and about 1204 to Ralph, earl of Chester. The borough
 must have grown up during the 12th century, for both these lords granted
 the burgesses charters which are known from a confirmation of 1247,
 granting that they and all who should come to the market of Campedene
-should be quit of toll, and that if any free burgess of Campedene should
+should be quit of toll, and that if any free [[Burges|burgess]] of Campedene should
 come into the lord's amerciament he should be quit for 12d. unless he
 should shed blood or do felony. Probably Earl Ralph also granted the
 town a portman-mote, for the account of a skirmish in 1273 between the

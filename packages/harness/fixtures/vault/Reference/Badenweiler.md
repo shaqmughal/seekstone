@@ -1,8 +1,8 @@
 # Badenweiler
 
 BADENWEILER, a health resort and watering place of the grand-duchy of
-Baden, Germany, 28 m. N. by E. by rail from Basel, at the western edge of
-the Black Forest. It is sheltered by the Blauen (3820 ft.) and the climate
+Baden, Germany, 28 m. N. by E. by rail from [[Basel]], at the western edge of
+the [[Black Forest]]. It is sheltered by the Blauen (3820 ft.) and the climate
 is excellent. Its new parish (Evangelical) church (1897) is built at the
 foot of the 11th-century castle which belonged to the margraves of Baden,
 and was destroyed by the French during the wars of Louis XV. The place is

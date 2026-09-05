@@ -8,11 +8,11 @@ id: 42-4370
 
 # Anville
 
-ANVILLE, JEAN BAPTISTE BOURGUIGNON D' (1697-1782), perhaps the greatest
+ANVILLE, JEAN [[Baptiste|BAPTISTE]] BOURGUIGNON D' (1697-1782), perhaps the greatest
 geographical author of the 18th century, was born at Paris on the 11th
 of July 1697. His passion for geographical research displayed itself
 from early years: at the age of twelve he was already amusing himself by
-drawing maps for Latin authors. Later, his friendship with the
+drawing [[Map|maps]] for Latin authors. Later, his friendship with the
 antiquarian, Abbe Longuerue, greatly aided his studies. His first
 serious map, that of Ancient Greece, was published when he was fifteen,
 and at the age of twenty-two he was appointed one of the king's
@@ -21,23 +21,23 @@ authorities. D'Anville's studies embraced everything of geographical
 nature in the world's literature, as far as he could master it: for this
 purpose he not only searched ancient and modern historians, travellers
 and narrators of every description, but also poets, orators and
-philosophers. One of his cherished objects was to reform geography by
+philosophers. One of his cherished objects was to reform [[Geography|geography]] by
 putting an end to the blind copying of older maps, by testing the
 commonly accepted positions of places through a rigorous examination of
 all the descriptive authority, and by excluding from cartography every
 name inadequately supported. Vast spaces, which had before been covered
-with countries and cities, were thus suddenly reduced almost to a blank.
+with countries and cities, were thus suddenly reduced almost to a [[Blank|blank]].
 
 D'Anville was at first employed in the humbler task of illustrating by
 maps the works of different travellers, such as Marchais, Charlevoix,
 Labat and Duhalde. For the history of China by the last-named writer he
-was employed to make an atlas, which was published separately at the
-Hague in 1737. In 1735 and 1736 he brought out two treatises on the
+was employed to make an [[Atlas|atlas]], which was published separately at the
+[[Hague]] in 1737. In 1735 and 1736 he brought out two treatises on the
 figure of the earth; but these attempts to solve geometrical problems by
 literary material were, to a great extent, refuted by Maupertuis'
 measurements of a degree within the polar circle. D'Anville's historical
 method was more successful in his 1743 map of Italy, which first
-indicated numerous errors in the mapping of that country, and was
+indicated numerous [[Error|errors]] in the mapping of that country, and was
 accompanied by a valuable memoir (a novelty in such work), showing in
 full the sources of the design. A trigonometrical survey which Benedict
 XIV. soon after had made in the papal states strikingly confirmed the
@@ -46,7 +46,7 @@ service for ancient and medieval geography, accomplishing something like
 a revolution in the former; mapping afresh all the chief countries of
 the pre-Christian civilizations (especially Egypt), and by his _Memoire
 et abrege de geographie ancienne et generale_ and his _Etats formes en
-Europe apres la chute de l'empire romain en occident_ (1771) rendering
+Europe apres la [[Chute|chute]] de l'empire romain en occident_ (1771) rendering
 his labours still more generally useful. In 1754, at the age of
 fifty-seven, he became a member of the Academie des Inscriptions et
 Belles Lettres, whose transactions he enriched with many papers. In 1775
@@ -71,13 +71,13 @@ which continued for two years, till his death in January 1782.
 
 
 
-ANWARI [Auhad-uddin Ali Anwari], Persian poet, was born in Khorasan
+ANWARI [Auhad-uddin Ali Anwari], Persian poet, was born in [[Khorasan]]
 early in the 12th century. He enjoyed the especial favour of the sultan
 Sinjar, whom he attended in all his warlike expeditions. On one
 occasion, when the sultan was besieging the fortress of Hazarasp, a
 fierce poetical conflict was maintained between Anwari and his rival
 Rashidi, who was within the beleaguered castle, by means of verses
-fastened to arrows. Anwari died at Balkh towards the end of the 12th
+fastened to arrows. Anwari died at [[Balkh]] towards the end of the 12th
 century. The _Diwan_, or collection of his poems, consists of a series
 of long poems, and a number of simpler lyrics. His longest piece, _The
 Tears of Khorassan_, was translated into English verse by Captain

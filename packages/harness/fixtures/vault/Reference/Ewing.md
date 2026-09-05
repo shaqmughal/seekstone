@@ -2,7 +2,7 @@
 
 EWING, THOMAS (1789-1871), American lawyer and statesman, was born near
 the present West Liberty, West Virginia, on the 28th of December 1789.
-His father, George Ewing, settled at Lancaster, Fairfield county, Ohio,
+His father, George Ewing, settled at [[Lancaster]], [[Fairfield]] county, Ohio,
 in 1792. Thomas graduated at Ohio University, Athens, Ohio, in 1815, and
 in August 1816 was admitted to the bar at Lancaster, where he won high
 rank as an advocate. He was a Whig member of the United States senate in
@@ -11,7 +11,7 @@ over the United States Bank, whose rechartering he favoured and which he
 resolutely defended against President Jackson's attack, opposing in able
 speeches the withdrawal of deposits and Secretary Woodbury's "Specie
 Circular" of 1836. In March 1841 he became secretary of the treasury in
-President W.H. Harrison's cabinet. When, however, after President
+President W.H. Harrison's [[Cabinet|cabinet]]. When, however, after President
 Tyler's accession, the relations between the President and the Whig
 Party became strained, he retired (September 1841) and was succeeded by
 Walter Forward (1786-1852). Subsequently from March 1849 to July 1850
@@ -19,9 +19,9 @@ he was a member of President Taylor's cabinet as the first secretary of
 the newly established department of the interior. He thoroughly
 organized the department, and in his able annual report advocated the
 construction by government aid of a railroad to the Pacific Coast. In
-1850-1851 he filled the unexpired term of Thomas Corwin in the U.S.
-Senate, strenuously opposing Clay's compromise measures and advocating
-the abolition of slavery in the District of Columbia. He was
+1850-1851 he filled the unexpired term of Thomas [[Corwin]] in the U.S.
+Senate, strenuously opposing Clay's [[Compromise|compromise]] measures and advocating
+the abolition of slavery in the District of [[Columbia]]. He was
 subsequently a delegate to the Peace Congress in 1861, and was a loyal
 supporter of President Lincoln's war policy. He died at Lancaster, Ohio,
 on the 26th of October 1871.
@@ -29,8 +29,8 @@ on the 26th of October 1871.
 His daughter was the wife of General William T. Sherman. His son, Hugh
 Boyle Ewing (1826-1905), served throughout the Civil War in the Federal
 armies, rising from the rank of colonel (1861) to that of
-brigadier-general (1862) and brevet major-general (1865), and commanding
-brigades at Antietam and Vicksburg and a division at Chickamauga; and
+brigadier-general (1862) and [[Brevet|brevet]] major-general (1865), and commanding
+brigades at [[Antietam]] and Vicksburg and a division at Chickamauga; and
 was minister of the United States to the Netherlands in 1866-1870.
 Another son, Thomas Ewing (1829-1896), studied at Brown University in
 1852-1854 (in 1894, by a special vote, he was placed on the list of
@@ -46,7 +46,7 @@ City, where he was long one of the recognized leaders of the bar.
 
 
 EXAMINATIONS. The term "examination" (i.e. inspecting, weighing and
-testing; from Lat. _examen_, the tongue of a balance) is used in the
+testing; from Lat. _examen_, the tongue of a [[Balance|balance]]) is used in the
 following article to denote a systematic test of knowledge, and of
 either special or general capacity or fitness, carried out under the
 authority of some public body.
@@ -54,8 +54,8 @@ authority of some public body.
 1. _History._--The oldest known system of examinations in history is
 that used in China for the selection of officers for the public service
 (c. 1115 B.C.), and the periodic tests which they undergo after entry
-(c. 2200 B.C.). See CHINA; also W.A.P. Martin, _The Lore of Cathay_
-(1901), p. 311 et seq.; T.L. Bullock, "Competitive Examinations in
+(c. 2200 B.C.). See CHINA; also W.A.P. [[Martin]], _The [[Lore]] of Cathay_
+(1901), p. 311 et seq.; T.L. [[Bullock]], "Competitive Examinations in
 China" (_Nineteenth Century_, July 1894); and Étienne Zi, _Pratique des
 examens littéraires en Chine_ (Shanghai, 1894). The abolition of this
 system was announced in 1906, and, as a partial substitute, it was
@@ -95,9 +95,9 @@ The doctoral examination at Bologna in the 13th-14th centuries consisted
 of two parts--a private examination which was the real test, and a
 public one of a ceremonial character (_conventus_). The candidate first
 took an "oath that he had complied with all the statutable conditions,
-that he would give no more than the statutable fees or entertainments to
+that he would give no more than the statutable [[Fee|fees]] or entertainments to
 the rector himself, the doctor or his fellow-students, and that he would
-obey the rector." He was then presented to the archdeacon of Bologna by
+obey the rector." He was then presented to the [[Archdeacon|archdeacon]] of Bologna by
 one or more doctors, who were required to have satisfied themselves of
 his fitness by private examination. On the morning of the examination,
 after attending mass, he was assigned by one of the doctors of the
@@ -108,7 +108,7 @@ exposition of, the prepared passages, and was examined on them by two of
 the doctors appointed by the college. Other doctors might then put
 supplementary questions on law arising out of the passages, or might
 suggest objections to his answers. The vote of the doctors present was
-taken by ballot, and the fate of the candidate was determined by the
+taken by [[Ballot|ballot]], and the [[Fate|fate]] of the candidate was determined by the
 majority. The successful candidate, who received the title of
 licentiate, was, on payment of a heavy fee and other expenses, permitted
 to proceed to the _conventus_ or final public examination. This
@@ -171,23 +171,23 @@ basis was presupposed to all knowledge and criticism was limited to the
 superstructure. At their worst, even with venal examiners (and
 additional fees were often offered as a bribe), Rashdall regards these
 examinations (at the end of the 13th century) as probably "less of a
-farce than the pass examinations of Oxford and Cambridge almost within
+[[Farce|farce]] than the pass examinations of Oxford and Cambridge almost within
 the memory of persons now living." It is, however, to be pointed out
 that the standard in Paris and elsewhere at a later date became
 scandalously low in some cases. In some universities the sons of nobles
-were regularly excused certain examinations. At Cambridge in 1774 Fellow
+were regularly excused certain examinations. At Cambridge in 1774 [[Fellow]]
 Commoners were examined with such precipitation to fulfil the formal
 requirements of the statutes that the ceremony was termed "huddling for
 a degree" (Jebb, _Remarks upon the Present Mode of Education in the
 University of Cambridge_, 4th ed., 1774, p. 32). The last privileges of
-this kind were abolished at Cambridge by a grace passed on the 20th of
+this kind were abolished at Cambridge by a [[Grace|grace]] passed on the 20th of
 March 1884.
 
 In the medieval examinations described above we find most of the
 elements of our present examinations: certificates of previous study and
 good conduct, preparation of set-books, questioning on subjects not
 specially prepared, division of examinations into various parts,
-classification in order of merit, payment of fees, the presentation of a
+[[Classification|classification]] in order of merit, payment of fees, the presentation of a
 dissertation, and the defence and publication of a thesis (a term of
 which the meaning has now become extended).
 
@@ -229,7 +229,7 @@ systems of examinations.
 At Oxford there is no record of a process of formal examination on books
 similar to that of Paris (Rashdall, ii. 442 et seq.), disputations being
 apparently the only test applied in its early history. Examinations were
-definitely introduced for the B.A. and M.A. degrees by Laud in 1636-1638
+definitely introduced for the B.A. and M.A. degrees by [[Laud]] in 1636-1638
 (Brodrick, _History of Oxford_, p. 114), but the standard prescribed was
 so much beyond the actual requirements of later times that it may be
 doubted if it was enforced. The studies fell in the 18th century into an
@@ -309,7 +309,7 @@ established, with the exception of the Royal University of Ireland
 (which was created in 1880 as an examining body on the model of London,
 but which was dissolved under the Irish Universities Act 1908, and
 replaced by the National University of Ireland and the Queen's
-University of Belfast), the precedent of Victoria has been followed. By
+University of [[Belfast]]), the precedent of Victoria has been followed. By
 an act passed in 1898, of which the provisions came into force in 1900,
 the university of London was reconstituted as a teaching university,
 although provision was made for the continuance of the system of
@@ -325,10 +325,10 @@ teachers.
 At the university of Dublin, examinations have been maintained both for
 the B.A. and M.A. degrees, and students may be admitted to the
 examinations in subjects other than divinity, law, medicine, and
-engineering without attendance at university courses.
+[[Engineering|engineering]] without attendance at university courses.
 
 The examinations of the newer universities, the Victoria University of
-Manchester, Birmingham, Liverpool, Leeds, Sheffield and Wales, are open
+Manchester, [[Birmingham]], [[Liverpool]], [[Leeds]], Sheffield and Wales, are open
 only to students at these universities, and are conducted by the
 teachers in association with one or more external examiners for each
 subject. In some universities, e.g. Manchester, the M.A. degree is given
@@ -344,7 +344,7 @@ exempted under certain conditions). The student desiring to proceed to
 the doctorate is free from examinations thereafter until he presents his
 thesis for the doctor's degree,[2] when, if it is accepted, he is
 submitted to a public oral examination not only in his principal subject
-(_Hauptfach_), but also as a rule in two or more collateral subjects
+(_Hauptfach_), but also as a rule in two or more [[Collateral|collateral]] subjects
 (_Nebenfächer_). The doctor's degree does not give the right to teach in
 a faculty (_venia legendi_). To acquire this a doctor must present a
 further thesis (_Habilitationsschrift_), and must deliver two lectures,
@@ -388,7 +388,7 @@ doctorate six examinations must be passed and a thesis submitted.
 There is also a special doctorate, the "_doctorat d'Université_,"
 awarded on a thesis and an oral examination; and there are diplomas
 (_Diplômes d'Études supérieures_) awarded on dissertations and
-examinations on subjects in philosophy, history and geography, classics
+examinations on subjects in philosophy, history and [[Geography|geography]], classics
 or modern languages, selected mainly by the candidate and approved by
 the faculty.
 
@@ -396,7 +396,7 @@ the faculty.
 for degrees having ceased to be used as technical tests of teaching
 capacity, new examinations have been devised for this purpose. The test
 for German university teachers has been described above. For secondary
-teachers, W. von Humboldt instituted a special examination in 1810
+teachers, W. von [[Humboldt]] instituted a special examination in 1810
 (Paulsen, _Gesch. des gelehrten Unterrichts_, ii. pp. 283 and 393), and
 an examination for primary teachers was instituted in Prussia in 1794.
 
@@ -441,8 +441,8 @@ years spent in a secondary school of Germany or France, and the
 continental "school-leaving examinations" correspond to the intermediate
 examinations of the newer English universities and to the pass
 examinations for the degree at Oxford and Cambridge (Mark Pattison,
-_Suggestions on Academical Organization_, 1868, p. 238, and Matthew
-Arnold, _Higher Schools and Universities in Germany_, 1892, p. 209).
+_Suggestions on Academical Organization_, 1868, p. 238, and [[Matthew]]
+[[Arnold]], _Higher Schools and Universities in Germany_, 1892, p. 209).
 
 A tabular summary is given (see Tables I., II., III., IV.) of the
 requirements of the secondary school-leaving examinations of France,
@@ -600,7 +600,7 @@ TABLE I.--PRUSSIA: ABITURIENTEN EXAMEN
       German essay.                   Latin.
       Mathematics.                    English.
       Translation from Latin.         French.
-      Translation from German into    Physics or Chemistry.
+      Translation from German into    Physics or [[Chemistry]].
         or essay in English or        Religion.
         French.                       History.
       Physics.                        Mathematics.
@@ -634,7 +634,7 @@ TABLE I.--PRUSSIA: ABITURIENTEN EXAMEN
     The Examining Board consists of a government inspector (_der
     Königliche Kommissar_) acting as chairman, the headmaster of the
     school, and the teachers of the highest classes in the school. The
-    inspector may nominate a deputy, who is as a rule, the headmaster of
+    inspector may nominate a [[Deputy|deputy]], who is as a rule, the headmaster of
     the school.
 
     Each teacher concerned selects for the written examination three
@@ -741,12 +741,12 @@ TABLE II.--FRANCE: BACCALAURÉAT
 
   VI. Examiners.
 
-    The Board of Examiners (or "jury") consists of (i.) University
+    The Board of Examiners (or "[[Jury|jury]]") consists of (i.) University
     examiners being members of a faculty of letters or faculty of
     sciences; (ii.) secondary teachers, active or retired, selected by
     the minister of public instruction. The Board consists of from four
     to six examiners, of whom, when the number is even, half are chosen
-    from either category.
+    from either [[Category|category]].
 
   VII. Nature of Examination and General Remarks.
 
@@ -955,7 +955,7 @@ some cases wealthy students have been known to return the emoluments of
 scholarships. In many universities of the United States there is a
 definite understanding that emoluments shall only be accepted by those
 needing them. It would not be difficult to ask candidates to make a
-confidential declaration on this subject on entrance and to establish in
+confidential [[Declaration|declaration]] on this subject on entrance and to establish in
 Great Britain a tradition similar to that of the United States, and
 steps in this direction have been taken both at Oxford and Cambridge
 (Lord Curzon of Kedleston, _University Reform_, p. 86).
@@ -980,7 +980,7 @@ should be such as to reduce the strain to a minimum. The question of the
 mental fatigue produced by examinations has been studied by certain
 German observers, but has not yet been fully investigated.
 
-7. _Marking, Classification and Errors of Detail._--In applying a single
+7. _Marking, Classification and [[Error|Errors]] of Detail._--In applying a single
 test in a qualifying examination it would be sufficient to mark
 candidates as passing or failing. But examinations consist as a rule of
 a number of tests, each one of which is complex; and a mark is recorded
@@ -994,7 +994,7 @@ certain standard within each class. At Cambridge, numerical marks are
 used. The advantage of numerical marks is that they are more easily
 manipulated than symbols; the disadvantage, that they produce the false
 impression that merit can be estimated with mathematical accuracy.
-Professor F.Y. Edgeworth, in two papers on "The Statistics of
+Professor F.Y. [[Edgeworth]], in two papers on "The Statistics of
 Examinations" and the "Element of Chance in Competitive Examinations"
 (_Journal of the Royal Statistical Society_, 1888 and 1890), has dealt
 with the subject, although on somewhat limited lines. His
@@ -1008,7 +1008,7 @@ those who pass an examination will be superior in efficiency to those
 who fail; but a few of those who fail may be superior to a few of those
 who pass. These errors are not peculiar to the examination system, they
 are inherent in all human judgments. It is necessary to allow for them
-in considering the failure of an individual candidate as an index of
+in considering the failure of an individual candidate as an [[Index|index]] of
 inefficiency.
 
 The element of chance, which prevails in the region on either side of
@@ -1016,7 +1016,7 @@ the border between pass and failure, obviously prevails equally on
 either side of the border between "classes," where candidates are
 classified; it has been suggested by Dr Schuster that numerical order
 should accompany classification so as to avoid the creation of an
-artificial gap between the last candidate in one class and the highest
+artificial [[Gap|gap]] between the last candidate in one class and the highest
 in the next. Edgeworth's objection to such an argument is that the
 number of uncertainties is far less when candidates are classed than
 when they are placed in ostensible order of merit.
@@ -1044,7 +1044,7 @@ Again, it is generally recognized to be undesirable to give marks for a
 smattering. In order to avoid this various devices are adopted. The
 simplest is to award a proportion of marks (say 10 to 15, or even 20%)
 for "general impression." In some examinations, unless say 20% or more
-marks are obtained for a particular subject, no credit is given for the
+marks are obtained for a particular subject, no [[Credit|credit]] is given for the
 paper in that subject. Latham (_The Action of Examinations_, 1877, p.
 490) describes other numerical adjustments used to meet this difficulty,
 especially that used in English civil service examinations. The
@@ -1053,7 +1053,7 @@ conform to a certain symmetrical "frequency-curve," of which the
 abscissae represent percentages of marks between definite limits and the
 ordinates the number of candidates obtaining marks between those limits.
 C.E. Fawsitt (_The Education of the Examiner_, Royal Philosophical
-Society of Glasgow, 1905) shows that frequency-curves deduced from
+Society of [[Glasgow]], 1905) shows that frequency-curves deduced from
 actual investigation of class-marks are not symmetrical, but have two
 maxima corresponding to the performance of "non-workers" and of
 "workers." In pass examinations of a well-known character there is a
@@ -1090,7 +1090,7 @@ destroy the faculties which it is desired to develop (_Geschichte des
 gelehrten Unterrichts_, ii. 684 et seq.); to prepare ready answers to
 the numberless questions which an examiner may ask on a large variety of
 subjects is to paralyse the natural and free activity of the mind (cf.
-A.C. Benson on the results of English secondary classical education,
+A.C. [[Benson]] on the results of English secondary classical education,
 _From a College Window_, 3rd ed., 1906, pp. 154-177). If pushed to its
 logical conclusion the view of Paulsen must, it is submitted, lead to
 the complete abandonment at examinations of tests of "knowledge" as
@@ -1224,14 +1224,14 @@ inquiry.
   SOURCES OF INFORMATION.--The works mentioned above, and T.D. Acland,
   _Some Account of the Origin and Objects of the New Oxford Examinations
   for the Title of Associate in Arts_ (London, 1858); Matthew Arnold,
-  _Higher Schools and Universities in Germany_ (1874); Graham Balfour,
+  _Higher Schools and Universities in Germany_ (1874); [[Graham]] Balfour,
   _The Educational Systems of Great Britain and Ireland_ (2nd ed.,
-  Oxford, 1903); W.W. Rouse Ball, _Origin and History of the
+  Oxford, 1903); W.W. Rouse [[Ball]], _Origin and History of the
   Mathematical Tripos_ (Cambridge, 1880); Adolf Beier, _Die höheren
   Schulen in Preussen und ihre Lehrer_ (1902-1906) (in progress);
   Cloudesley Brereton, "A New Method of awarding Scholarships," _School
   World_, 1907, p. 409; G.C. Brodrick, _A History of the University of
-  Oxford_ (London, 1886); F. Buisson, _Dictionnaire de pédagogie_
+  Oxford_ (London, 1886); F. [[Buisson]], _Dictionnaire de pédagogie_
   (1880-1887); Lord Curzon of Kedleston, _Principles and Methods of
   University Reform_ (1909); J. Demogeot and H. Montucci, _De
   l'enseignement supérieur en Angleterre et en Écosse_ (1870); H.
@@ -1243,7 +1243,7 @@ inquiry.
   _The Education of the Examiner_ (Royal Philosophical Society of
   Glasgow) (Glasgow, 1905); J.G. Fitch, "The Proposed Admission of Girls
   to the University Local Examination," _Education Miscellanies_ (1865),
-  vol. x.; W. Garnett, "The Representation of certain Examination
+  vol. x.; W. [[Garnett]], "The Representation of certain Examination
   Results," _Journ. Statist. Soc._ (Jan. 1910); G. Stanley Hall,
   _Adolescence_ (London, 1905); Sir W. Hamilton, _Discussions on
   Philosophy_ (London, 1853); P.J. Hartog, "Universities, Schools and
@@ -1255,17 +1255,17 @@ inquiry.
   and for 1904, p. 360; John Jebb, _Remarks upon the Present Mode of
   Education in the University of Cambridge_ (4th ed., 1774); Henry
   Latham, _On the Action of Examinations_ (Cambridge, 1877); H.C.
-  Maxwell Lyte, _A History of the University of Oxford to the Year 1530_
+  [[Maxwell]] Lyte, _A History of the University of Oxford to the Year 1530_
   (London, 1886); W.A.P. Martin, _The Lore of Cathay_ (Edinburgh and
   London, 1901); J.B. Mullinger, _The University of Cambridge_
   (Cambridge, 1873); _How to pass Examinations successfully_, by an
   Oxford Coach; Mark Pattison, _Suggestions on Academical Organization_
-  (Edinburgh, 1868); Friedrich Paulsen, _The German Universities and
+  (Edinburgh, 1868); [[Friedrich]] Paulsen, _The German Universities and
   University Study_ (London, 1906) and _Geschichte des gelehrten
   Unterrichts_ (Leipzig, 1896); George Peacock, _Observations on the
   Statutes of the University of Cambridge_ (1841); _Programme des
   examens du nouveau baccalauréat de l'enseignement secondaire_,
-  Delalain frères, Paris; Hastings Rashdall, _The Universities of Europe
+  Delalain frères, Paris; [[Hastings]] Rashdall, _The Universities of Europe
   in the Middle Ages_ (Oxford, 1895); Rein's _Encyklopädisches Handbuch
   der Pädagogik_ (2nd ed., 1902, &c.), articles "Prüfungen" (by F.
   Paulsen), &c.; Third Report of the Royal Commissioners on Scientific
@@ -1276,16 +1276,16 @@ inquiry.
   der Erziehung_ (Stuttgart, 1884, &c.), and _Encyklopädie des gesammten
   Erziehungs- und Unterrichtswesens_ (2nd ed., 1876-87), articles
   "Prüfung," "Schulprüfungen," "Versetzungsprüfungen," &c.;
-  Scholarships, various papers on, by H.B. Baker, A.A. David, H.A.
+  Scholarships, various papers on, by H.B. [[Baker]], A.A. David, H.A.
   Miers, M.E. Sadler and H. Bompas Smith, and others, British
   Association Report, 1907, pp. 707-718; Arthur Schuster, article on
   "Universities and Examinations" in the University Review (May 1905);
-  W.H. Sharp, _The Educational System of Japan_ (Office of the
+  W.H. Sharp, _The Educational System of [[Japan]]_ (Office of the
   Director-General of Education in India) (Bombay, 1906); Special
   Educational Reports, issued by the Board of Education, _passim_;
   A.M.M. Stedman, _Oxford: its Life and Schools_ (London, 1887); I.
   Todhunter, _Conflict of Studies_ (1873); William Whewell, _Of a
-  Liberal Education_ (London, 1845); Christopher Wordsworth, _Scholae
+  Liberal Education_ (London, 1845); [[Christopher]] Wordsworth, _Scholae
   academicae_ (Cambridge, 1877); Étienne Zi (or Siu or Seu), _Pratique
   des examens littéraires en Chine_ (Shanghai, 1894). Private
   information from Professor M.E. Sadler and Mr A.E. Twentyman.
@@ -1307,7 +1307,7 @@ FOOTNOTES:
     teachers concerned.
 
   [3] See E.E. Brown in _Monographs on Education in the United States_
-    (ed. by N.M. Butler, 1900, i. 164), and T. Gregory Foster and H.R.
+    (ed. by N.M. [[Butler]], 1900, i. 164), and T. Gregory Foster and H.R.
     Reichel, _Report of Mosely Educational Commission_ (1904), pp.
     117-119 and 288-289.
 

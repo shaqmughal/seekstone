@@ -8,24 +8,24 @@ topic: mining-theory
 
 CROATIA-SLAVONIA (Serbo-Croatian _Hrvatska i Slavonija_; Hung.
 _Horvat-Szlavonorszag_; Ger. _Kroatien und Slawonien_), a kingdom of the
-Hungarian monarchy; bounded on the N. by Carniola, Styria and Hungary
-proper; E. by Hungary and Servia; S. by Servia, Bosnia and Dalmatia; and
-W. by the Adriatic Sea, Istria and Carniola. Until 1881 Croatia, in the
+Hungarian monarchy; bounded on the N. by [[Carniola]], Styria and Hungary
+proper; E. by Hungary and Servia; S. by Servia, Bosnia and [[Dalmatia]]; and
+W. by the Adriatic Sea, [[Istria]] and Carniola. Until 1881 Croatia, in the
 N.W. of this region, was divided from Slavonia, in the N.E., by a
 section of the Austrian Military Frontier. This section is now the
 county of Bjelovar, and forms part of the united kingdom of
 Croatia-Slavonia. The river Kulpa, which bisects the county of Agram, is
-usually regarded as the north-eastern limit of the Balkan Peninsula; and
+usually regarded as the north-eastern limit of the [[Balkan Peninsula]]; and
 thus the greater part of Croatia, lying south of this river, falls
 within the peninsular boundary, while the remainder, with all Slavonia,
 belongs to the continental mainland. According to the official survey of
 1900, the total area of the country is 16,423 sq. m. The Croatian
 littoral extends for about 90 m. from Fiume to the Dalmatian frontier. A
 narrow strait, the Canale della Morlacca (or della Montagna), separates
-it from Veglia, Arbe, Pago and other Istrian or Dalmatian islands. The
+it from Veglia, [[Arbe]], Pago and other Istrian or Dalmatian islands. The
 city and territories of Fiume, the sole important harbour on this coast,
-are included in Hungary proper, and controlled by the Budapest
-government. Westward from Warasdin, and along the borders of Styria,
+are included in Hungary proper, and controlled by the [[Budapest]]
+government. Westward from Warasdin, and along the [[Borders|borders]] of Styria,
 Carniola, Istria, Dalmatia and north-western Bosnia, the frontier is
 generally mountainous and follows an irregular course. The central and
 eastern region, situated between the Drave and Danube on the north, and
@@ -34,7 +34,7 @@ the Save on the south, forms one long wedge, with its point at Semlin.
 _Physical Features_.--Croatia-Slavonia is naturally divided into two
 great sections, the highlands of the west and the lowlands of the east.
 
-The plateau of the Istrian Karst is prolonged in several of the bare and
+The plateau of the Istrian [[Karst]] is prolonged in several of the bare and
 desolate mountain chains between the Save and the Adriatic, notably the
 Great and Little Kapella (or Kapela), which link together the Karst and
 the Dinaric Alps, culminating in Biela Lazica (5029 ft.); the Pljecevica
@@ -47,7 +47,7 @@ ft.), and Vakanski Vrh (5768 ft.). Large tracts of the Croatian
 highlands are well-nigh waterless, and it is only in the more sheltered
 hollows that sufficient soil collects for large trees to flourish. In
 northern Croatia and Slavonia the mountains are far more fertile, being
-often densely wooded with oaks, beeches and pines. They comprise the
+often densely wooded with oaks, [[Beech|beeches]] and pines. They comprise the
 Uskoken Gebirge, or Uskoks Mountains, named after the piratical Uskoks
 (q.v.) of Zengg, who were deported hither after the fall of their
 stronghold in 1617; the Warasdin Mountains, with the peak of Ivanscica
@@ -98,7 +98,7 @@ of this region usually vanish underground in a similar manner. Near
 Fiume, the Recina, Rjeka or Fiumara falls into the Adriatic after a
 brief course. There is no large lake in Croatia-Slavonia, but the upland
 pools and waterfalls of Plitvica, near Ogulin, are celebrated for their
-beauty. After a thaw or heavy rain, the subterranean rivers flood the
+beauty. After a thaw or heavy rain, the subterranean rivers [[Flood|flood]] the
 mountain hollows of the Karst; and a lake thus formed by the river
 Gajka, near Otocac, has occasionally filled its basin to a depth of 160
 ft.
@@ -128,28 +128,28 @@ ft.
   pastures and forests; but much of this area must be set down as
   mountainous and swampy pasture of poor quality. The richest land
   occurs in the Zagorje and its neighbourhood, in the hills near
-  Warasdin and in the northern half of Syrmia. The Karst and the fens
-  are of least agricultural value. Indian corn heads the list of
+  Warasdin and in the northern half of Syrmia. The Karst and the [[Fens|fens]]
+  are of least agricultural value. Indian [[Corn|corn]] heads the list of
   cereals, but wheat, oats, rye and barley are also cultivated, besides
   hemp, flax, tobacco and large quantities of potatoes. The extensive
   vineyards were much injured by _phylloxera_ towards the close of the
   19th century. The Slavonian plum orchards furnish dried prunes,
-  besides a kind of brandy largely exported under the name of
-  _sliwowitz_ or _shlivovitsa_. Near Fiume the orange, lemon,
+  besides a kind of [[Brandy|brandy]] largely exported under the name of
+  _sliwowitz_ or _shlivovitsa_. Near Fiume the orange, [[Lemon|lemon]],
   pomegranate, fig and olive bear well; mulberries are planted on many
   estates for silkworms; and the heather-clad uplands of the central
-  region favour the keeping of bees. Large herds of swine fatten in the
+  region favour the keeping of [[Bee|bees]]. Large herds of swine fatten in the
   oak and beech forests; and dairy-farming is a thriving industry in the
   highlands between Agram and Warasdin, where, during the last years of
   the 19th century, systematic attempts were made to replace the
-  mountain pastures by clover and sown grass. The proportion of sheep to
+  mountain pastures by [[Clover|clover]] and sown grass. The proportion of sheep to
   other live-stock is lower than in most of the South Slavonic lands,
   and the scarcity of goats is also noteworthy. Horsebreeding is a
   favourite pursuit in Slavonia; and between 1900 and 1902 many
   thousands of remounts were shipped to the British army in South
   Africa. The local administration endeavours to better the quality of
   live-stock by importing purer breeds, distributing prizes, and other
-  measures; but the native farmers are slow to accept improvements.
+  measures; but the native [[Farmer|farmers]] are slow to accept improvements.
 
   _Forests_.--Forests, principally of oak, pine and beech, covered
   3,734,000 acres in 1895, about one-fifth being state property.
@@ -198,9 +198,9 @@ ft.
   _Chief Towns_,--The principal towns are Agram, the capital, with
   61,002 inhabitants in 1900; Esseg, the capital of Slavonia (24,930);
   Semlin (15,079); Mitrovica (11,518); Warasdin (12,930); Karlstadt
-  (7396); Brod (7310); Sissek (7047); Djakovo (6824); Karlowitz (5643);
+  (7396); Brod (7310); Sissek (7047); [[Djakovo]] (6824); Karlowitz (5643);
   Peterwardein (5019); Zengg (3182); and Buccari (1870). These are
-  described in separate articles. The centre of the coasting trade is
+  described in separate articles. The centre of the [[Coasting|coasting]] trade is
   Novi, and other small seaports are San Giorgio (_Sveto Juraj_), Porto
   Re (_Kraljevica_) and Carlopago. Agram, Gospic (10,799), Ogulin
   (8699), Warasdin and Bjelovar (6056) are respectively the capitals of
@@ -228,8 +228,8 @@ language of the two nations is identical, but the Croats use the Latin
 alphabet,[3] while the Serbs prefer a modified form of the Cyrillic. The
 two nations have also been politically separated since the 7th century,
 if not for a longer period; but this division has produced little
-difference of character or physical type. Even the costume of the
-Croatian peasantry, to whom brilliant colours and intricate embroideries
+difference of character or physical type. Even the [[Costume|costume]] of the
+Croatian peasantry, to whom brilliant [[Colours|colours]] and intricate embroideries
 are always dear, proclaims their racial identity with the Serbs; their
 songs, dances and musical instruments, the chief part of their customs
 and folk-lore, their whole manner of life, so little changed by its
@@ -248,7 +248,7 @@ Numerically this alien population is insignificant. The Italians are
 chiefly confined to the coast; the Germans congregate at Semlin and
 Warasdin; the Slovenes are settled along the north-western frontier,
 where they have introduced their language, and so greatly modified the
-local dialect; the gipsies wander from city to city, as horse-dealers,
+local [[Dialect|dialect]]; the [[Gipsies|gipsies]] wander from city to city, as horse-dealers,
 metal workers or musicians; there are numerous Moravian and Bohemian
 settlements; and near Mitrovica there is a colony of Albanians. It is
 impossible to give accurate statistics of the alien population; for, in
@@ -262,7 +262,7 @@ _Constitution and Government_.--By the fundamental law of the 21st of
 December 1867 Austria-Hungary was divided, for purposes of internal
 government, into Cisleithania, or the Austrian empire, and
 Transleithania, or the kingdoms of Hungary and Croatia-Slavonia. In
-theory the viceroy, or _ban_ of Croatia-Slavonia is nominated by the
+theory the viceroy, or _[[Ban|ban]]_ of Croatia-Slavonia is nominated by the
 crown, and enjoys almost unlimited authority over local affairs; in
 practice the consent of the crown is purely formal, and the _ban_ is
 appointed by the Hungarian premier, who can dismiss him at any moment.
@@ -273,7 +273,7 @@ the national assembly of Croatia-Slavonia (_Narodna Skupctina_). This
 body consists of a single chamber, composed partly of elected deputies,
 partly of privileged members, whose numbers cannot exceed half those of
 the deputies. There are 69 constituencies, besides the 21 royal free
-cities which also return deputies. Electors must belong to certain
+cities which also return deputies. [[Electors]] must belong to certain
 professions or pay a small tax. The privileged members are the heads of
 the nobility, with the highest ecclesiastics and officials. As a rule,
 they represent the "Magyarist" section of society, which sympathizes
@@ -281,7 +281,7 @@ with Hungarian policy. The chamber deals with religion, education,
 justice and certain strictly provincial affairs, but even within this
 limited sphere all its important enactments must be countersigned by the
 minister for Croatia-Slavonia, a member, without portfolio, of the
-Hungarian cabinet. At the polls, all votes are given orally, a system
+Hungarian [[Cabinet|cabinet]]. At the polls, all votes are given orally, a system
 which facilitates corruption; the officials who control the elections
 depend for their livelihood on the _ban_, usually a Magyarist; and thus,
 even apart from the privileged members, a majority favourable to Hungary
@@ -299,7 +299,7 @@ under _History_.
   For administrative purposes Croatia-Slavonia is divided into 8 rural
   counties, already enumerated; besides the 4 urban counties, or
   municipalities of Agram, Semlin, Warasdin and Esseg. These are
-  subdivided into rural and urban communes, each with its representative
+  subdivided into rural and urban [[Commune|communes]], each with its representative
   council. The affairs of each rural county are managed by an assembly
   chosen for 6 years, which comprises not only elected members, but
   delegates from all the cities except Agram and Esseg, with certain
@@ -351,7 +351,7 @@ under _History_.
   Serbo-Croatian. The development of higher education, without a
   corresponding advance of technical education, has created an
   intellectual class, comprising many men of letters, and several
-  painters, musicians and sculptors, though none of great eminence; it
+  painters, musicians and sculptors, though none of great [[Eminence|eminence]]; it
   also tends to produce many aspirants to official or professional
   careers, who find employment difficult to obtain. The want of a strong
   native middle class may partly be traced to this tendency.
@@ -376,14 +376,14 @@ empire. The Ostrogoths overran it in 489; in 535 it was annexed by
 Justinian; in 568 it was conquered by the Avars. These were in turn
 expelled from Croatia by the Croats, a Slavonic people from the western
 Carpathians, who, according to some authorities, had occupied the
-territories of the Marcomanni in Bohemia, and been driven thence in the
+territories of the [[Marcomanni]] in Bohemia, and been driven thence in the
 6th century by the Czechs. The main body of the Croats, whose tribal and
 racial names respectively are perpetuated in the names of Croatia and
 Slavonia, entered Croatia between 634 and 638, and were encouraged by
 the emperor Heraclius to attack the Avars. Smaller bodies had led the
 way southwards since 548. The Croats formed the western division of the
-great migratory horde of Serbo-Croats which colonized the lands between
-Bulgaria and the Adriatic. Contemporary chroniclers called them
+great migratory [[Horde|horde]] of Serbo-Croats which colonized the lands between
+[[Bulgaria]] and the Adriatic. Contemporary chroniclers called them
 _Chrobati_, _Belochrobati_ ("White Croats"), _Chrovati_, _Horvati_, or
 by some similar Latin or Byzantine variant of the Slavonic _Khrvaty_.
 The Croats occupied most of the region now known as Croatia-Slavonia,
@@ -395,11 +395,11 @@ Slavonic immigrants, Avars and Pannonians, the Slavs, and especially the
 Serbo-Croats, gradually became predominant. The Croats brought with them
 their primitive tribal institutions, organized on a basis partly
 military, partly patriarchal, and identical with the Zhupanates of the
-Serbs (see SERVIA); agriculture, war and hunting were their chief
+Serbs (see SERVIA); agriculture, war and [[Hunting|hunting]] were their chief
 pursuits. Although they at first acknowledged no alien sovereign, they
 passed gradually under Italian influence in the extreme west, and under
 Byzantine influence in the south and south-east. In 806 the northern and
-north-eastern districts were added to the empire of the Franks, and thus
+north-eastern districts were added to the empire of the [[Franks]], and thus
 won for the Western Church. Frankish predominance was long commemorated
 by the name Francochorion, given by the Byzantines to Syrmia; it is
 still commemorated by the name Frucka Gora, "Mountains of the
@@ -419,17 +419,17 @@ the first king properly so called. But Tomislav, whatever his official
 style, was certainly the first of a series of independent national
 rulers which lasted for nearly two centuries. The records of this
 period, regarded by many Croats as the golden age of their country, are
-often scanty, and its chronology is still unsettled. Little is known of
+often scanty, and its [[Chronology|chronology]] is still unsettled. Little is known of
 Trpimir, who preceded Drzislav, or of Stephen I. (1035-1058), but a
 few of the kings gained a more lasting fame by their success in war and
-diplomacy. Among these were Krecimir I. (c. 940--946), his successor
+[[Diplomacy|diplomacy]]. Among these were Krecimir I. (c. 940--946), his successor
 Miroslav, and especially Krecimir II., surnamed the Great (c.
 1000-1035), who harried the Bulgarians, at that time a powerful nation,
 and conquered a large part of Dalmatia, including some of the Italian
 cities. Already, under his predecessors, the Croats had built a fleet,
 which they used first for piracy and afterwards for trade. Their skill
 in maritime affairs, exemplified first in the 9th century by the pagan
-corsairs of the Narenta (see DALMATIA: _History_), and later by the
+[[Corsair|corsairs]] of the Narenta (see DALMATIA: _History_), and later by the
 numerous Dalmatian and Croatian sailors who served in the navies of
 Venice and Austria, is remarkable in a Slavonic people, and one which
 had so recently migrated from central Europe. At the end of the 10th
@@ -442,18 +442,18 @@ grandiose titles and elaborate procedure of the Byzantine court.
 Krecimir II. and Krecimir Peter (c. 1058-1073), the hero of many
 national legends and lays, restored the naval power of the Croats. After
 the death of Krecimir Peter, Slavic or Slaviza reigned until 1076,
-when he was succeeded by Zvonimir (Svinimir or Zvoinimir) Demetrius.
+when he was succeeded by Zvonimir (Svinimir or Zvoinimir) [[Demetrius]].
 Zvonimir was crowned by the legate of Pope Gregory VII, and appears to
 have been regarded as a vassal of the papacy. Both he and Stephen II., a
 nephew of Krecimir II., died in 1089.
 
 _Hungarian Supremacy: 1091-c. 1526._--Amid the strife of rival claimants
 to the throne, Helena, the widow of Stephen, appealed for aid to her
-brother Ladislaus I., king of Hungary. Ladislaus took possession of the
+brother [[Ladislaus I]]., king of Hungary. Ladislaus took possession of the
 country in 1091. He founded the bishopric of Agram and introduced
 Hungarian law. His death in 1095 was the signal for a nationalist
 insurrection, but after two years the rebels were crushed by his
-successor Coloman. This monarch reorganized the administration on a
+successor [[Coloman]]. This monarch reorganized the administration on a
 system which has been maintained, with modifications in detail, by
 almost all subsequent rulers. He respected the existing institutions of
 the conquered territory so far as to leave its autonomy in domestic
@@ -476,20 +476,20 @@ and Mladen Subic (d. 1322) even for a short period united Croatia,
 Slavonia, Bosnia and part of Dalmatia under their own rule. From 1322 to
 1326 the Croatian nobles successfully withstood the armies of Hungary
 and Bosnia; from 1337 to 1340, instigated by the Vatican, they carried
-on a crusade against the Bosnian Bogomils; and in the Krajina (Turkish
+on a crusade against the Bosnian [[Bogomils]]; and in the Krajina (Turkish
 Croatia) hostilities were resumed at intervals until the Turkish
 conquest.
 
 _The Turkish Occupation: c. 1526-1718._--Here, as elsewhere, the Ottoman
 invasion was facilitated by the feuds of the Christian sects. When King
-Matthias Corvinus undertook to defend Slavonia in 1490 it was too late;
+[[Matthias]] [[Corvinus]] undertook to defend Slavonia in 1490 it was too late;
 Matthias lost Syrmia and died in the same year. His successor Ladislaus
 of Poland (1490-1516) added Slavonia to the kingdoms named in the royal
 title, which now included the words "King of Dalmatia and Croatia and
 Slavonia" (_Rex Dalmatiae et Croatiae et Slavoniae_). But he failed to
 repel the Turks, who in 1526 destroyed the power of Hungary at the
 battle of Mohacs. In 1527 the Croats were compelled to swear allegiance
-to Ferdinand I. of Austria, who had been elected king of Hungary.
+to [[Ferdinand]] I. of Austria, who had been elected king of Hungary.
 Ferdinand founded the generalcy of Karlstadt and thus laid the
 foundation of the military frontier. The provinces of Agram, Warasdin
 and Kreutz, previously included in Slavonia, were added to Croatia, to
@@ -525,17 +525,17 @@ same administration as the rest of the Austrian coast, was annexed to
 Croatia, but three years later Fiume was declared an integral part of
 Hungary. These administrative changes, and especially the brief
 existence of united "Illyria," stimulated the dormant nationalism of the
-Croats and their jealousy of the Magyars. In 1809 Austria was forced to
+Croats and their [[Jealousy|jealousy]] of the [[Magyars]]. In 1809 Austria was forced to
 surrender to Napoleon a large part of Croatia, with Dalmatia, Istria,
 Carinthia, Carniola, Gorz and Gradisca. These territories received the
 name of the Illyrian Provinces, and remained under French rule until
 1813. All the Croats capable of service were enrolled under the French
-flag; their country was divided for administrative purposes into
+[[Flag|flag]]; their country was divided for administrative purposes into
 _Croatie civile_ and _Croatie militaire_. In 1814 Dalmatia was
 incorporated in Austria, while Istria, Carinthia, Carniola, Gorz and
 Gradisca became the Illyrian kingdom of Austria, and retained their
 united government until 1849. Croatia and Slavonia were declared
-appanages of the Hungarian crown--_partes adnexae_, or subject
+[[Appanage|appanages]] of the Hungarian crown--_partes adnexae_, or subject
 provinces, according to the Magyars; _regna socia_, or allied kingdoms,
 according to their own view. Each phrase afterwards became the watchword
 of a political party: neither is accurate. The Croats preserved their
@@ -556,7 +556,7 @@ office. One of their leaders, Baron Josef Jellachich, was appointed ban
 in 1848. He strongly advocated the union of Croatia with Carinthia,
 Carniola and Styria, but found his policy thwarted as much by the apathy
 of the Slovenes as by the hostility of the Magyars. A Croatian
-deputation was received at Innsbruck by Ferdinand V., but before its
+deputation was received at [[Innsbruck]] by Ferdinand V., but before its
 arrival the Hungarians had obtained a royal manifesto hostile to
 Illyrism. But failure only increased the agitation among the southern
 Slavs; all attempts at mediation proved unsuccessful, and on the 31st of
@@ -611,7 +611,7 @@ district of Sichelburg claimed by Carniola, was handed over to the local
 administration.
 
 Meanwhile the events of 1875-1878 in the Balkans, culminating in the
-Austrian occupation of Bosnia and Herzegovina, revived the agitation for
+Austrian occupation of [[Bosnia And Herzegovina|Bosnia and Herzegovina]], revived the agitation for
 a "Great Croatia." A party separate from the regular Opposition, and
 known as the "Party of the Right," was formed to oppose the Magyarists.
 Its activity resulted in the riots of 1883, which were with difficulty
@@ -623,7 +623,7 @@ famous Panslavist telegram to the Russian Church (see STROSSMAYER). In
 1889 the financial agreement with Hungary was revised and the
 contribution of Croatia-Slavonia to the expenses shared with Hungary or
 common to the whole of the Dual Monarchy was raised by 1%. This added
-burden combined with bad harvests, a fall in the revenue and a deficit
+[[Burden|burden]] combined with bad [[Harvest|harvests]], a fall in the revenue and a deficit
 in the budget to heighten popular discontent. Count Khuen-Hedervary was
 responsible for several administrative improvements, but the prosperity
 of the country declined from year to year. The government was accused of
@@ -632,7 +632,7 @@ arms and language in official documents, and with undue harshness in the
 censorship of the press. In May 1903 there were outbreaks of rioting in
 Agram, Sissek and other towns, besides serious agrarian disturbances
 directed against the Magyarist landowners; in a debate in the Reichsrath
-(18th May) an Austrian deputy named Bianchini unsuccessfully attempted
+(18th May) an Austrian [[Deputy|deputy]] named Bianchini unsuccessfully attempted
 to induce the imperial government to intervene. At the end of June Count
 Khuen-Hedervary was made Hungarian prime minister; Count T.
 Pejacevic succeeded him as ban, and restored quiet by promising
@@ -686,7 +686,7 @@ littoral; the _Stokavci_ (_Stokavctina_, _Shtokavski_), spoken in Servia
 and elsewhere in the north-west of the Balkan Peninsula; and the
 _Kajkavci_ (_Kajkavctina_, _Kaykavski_), spoken by the partly Slovene
 population of the districts of Agram, Warasdin and Kreuz. This
-classification is based on the form, varying in different localities, of
+[[Classification|classification]] is based on the form, varying in different localities, of
 the pronoun _ca_, _cto_, or _kaj_, meaning "what."
 
 The Cakavci literature includes most of the works of the Dalmatian
@@ -714,11 +714,11 @@ rank of a distinctive literary language for Croatia-Slavonia; but the
 Illyrist movement of 1840 led to the adoption of the Stokavci, which was
 already the vernacular of the majority of Serbo-Croats. Ljudevit Gaj
 (1809-1872), though he failed to create an artificial literary language
-by the fusion of the principal dialects spoken by Serbs, Croats and
+by the [[Fusion|fusion]] of the principal dialects spoken by Serbs, Croats and
 Slovenes, was by his championship of Illyrism instrumental in securing
 the triumph of the Stokavci. Gaj was a poet of considerable talent, and
 one of the founders of Croatian journalism. Among other writers of the
-first half of the 19th century may be mentioned Ivan Mazuranic
+first half of the 19th century may be mentioned [[Ivan]] Mazuranic
 (1813-1890), whose first poems were published in the _Danica ilirska_
 ("Illyrian Dawnstar"), a journal founded and for a time edited by Gaj.
 In 1846 Mazuranic published his _Smrt Smail Aga Cengica_ ("Death of
@@ -736,12 +736,12 @@ study of science and history received a new impetus. Under the
 presidency of Franko Racki (1825-1894) the academy, with its journal the
 _Rad jugoskovenske Akademije_, became the headquarters of an active
 group of savants, among whom may be mentioned Vastroslav Jagic (b.
-1838), sometime editor of the _Archiv fur slavische Philologie_; the
+1838), sometime editor of the _Archiv [[Fur|fur]] slavische Philologie_; the
 historians Sime Ljubic (1822-1896) and Vjekoslav Klaic, author of
 several standard works on Croatia and the Croats; the lexicographer
 Bogoslav Sulek (1816-1895); the ethnographer and philologist Franko
 Karelac (1811-1874). In Dalmatia, where the Ragusan journal _Slovinac_
-has served, like the Agram _Rad_, as a focus of literary activity, there
+has served, like the Agram _Rad_, as a [[Focus|focus]] of literary activity, there
 have been numerous poets and prose writers, associated, in many cases,
 with the Illyrist or the nationalist propaganda. Among these may be
 mentioned Count Medo Pucic (1821-1882), and the dramatist Matija Ban
@@ -759,7 +759,7 @@ dramatic poem in the Serbo-Croatian language.
   1868); "Die Slowenen," by J. Suman, and "Die Kroaten," by F. Stare,
   in vol. x. of _Die Volker Osterreich-Ungarns_ (Vienna, 1881-1882);
   _Die Serbokroaten der adriatischen Kustenlander_, by A. Weisbach
-  (Berlin, 1884); and the map _Zemljovid Hrvatske i Slavonije_, by M.
+  (Berlin, 1884); and the [[Map|map]] _Zemljovid Hrvatske i Slavonije_, by M.
   Katzenschlager (Vienna, 1895). The only detailed history is one in
   Serbo-Croatian, written by a succession of the highest native
   authorities, and published by the South Slavonic Academy (Agram, from
@@ -767,7 +767,7 @@ dramatic poem in the Serbo-Croatian language.
   historica Hungariam sacram illustrantia_, containing documents from
   the Vatican library edited by A. Theiner (Rome, 1860); _Vetera
   monumenta historiam Slavorum meridionalium illustrantia_, published by
-  the South Slavonic Academy (Agram, 1863, &c.); _Jura regni Croatiae,
+  the South Slavonic Academy (Agram, 1863, &c.); _[[Jura]] regni Croatiae,
   Dalmatiae, et Slavoniae cum privilegiis_, by J. Kukuljevic (Agram,
   1861-1862); _Monumenta historica Slavorum meridionalium_, by V.
   Makushev, in Latin and Italian, with notes in Slavonic (Belgrade,

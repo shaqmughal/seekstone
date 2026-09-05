@@ -8,7 +8,7 @@ opposition to bills, drafts or securities, applied to bank-notes. Hence
 "to cash" means to convert cheques and other negotiable instruments into
 coin. In bookkeeping, in such expressions as "petty cash," "cash-book,"
 and the like, it has the same significance, and so also in
-"cash-payment" or ready-money payment as opposed to "credit," however
+"cash-payment" or ready-money payment as opposed to "[[Credit|credit]]," however
 the payment may be made, by coin, notes or cheque.
 
 The "cash on delivery" or "collect on delivery" system, known as C.O.D.,
@@ -34,7 +34,7 @@ consistent opposition of the retail traders in large urban centres other
 than the large stores, and of the country shopkeeper generally, has been
 sufficient to secure the refusal of the postmaster-general to the
 proposed scheme, but a commencement was made in 1908 for orders not
-exceeding £20 between the United Kingdom and Egypt, Cyprus and Malta,
+exceeding £20 between the United Kingdom and Egypt, [[Cyprus]] and Malta,
 and certain British post offices in Turkey and Tangier.
 
 (2) (From Tamil _kasu_, Sinhalese _kasi_, a small coin, adopted by

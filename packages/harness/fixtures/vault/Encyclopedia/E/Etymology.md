@@ -27,14 +27,14 @@ to which the Germans have given the name _Volksetymologie_ or
 folk-etymology, has had much influence in the form which words take
 (e.g. "crawfish" or "crayfish," from the French _crevis_, modern
 _écrevisse_, or "sand-blind," from _samblind_, i.e. semi-, half-blind),
-and has frequently been the occasion of homonyms. W.W. Skeat has
+and has frequently been the occasion of [[Homonym|homonyms]]. W.W. Skeat has
 embodied in certain canons or rules some well-known principles which
 should be observed in giving the etymology of a word; these may be
 usefully given here: "(1) Before attempting an etymology, ascertain the
-earliest form and use of the word, and observe chronology. (2) Observe
-history and geography; borrowings are due to actual contact. (3) Observe
+earliest form and use of the word, and observe [[Chronology|chronology]]. (2) Observe
+history and [[Geography|geography]]; borrowings are due to actual contact. (3) Observe
 phonetic laws, especially those which regulate the mutual relation of
-consonants in the various Aryan languages, at the same time comparing
+consonants in the various [[Aryan]] languages, at the same time comparing
 the vowel sounds. (4) In comparing two words, A and B, belonging to the
 same language, of which A contains the lesser number of syllables, A
 must be taken to be the more original word, unless we have evidence of
@@ -66,12 +66,12 @@ or native) or parts of words with each other or with living formatives,
 i.e. syllables which no longer exist as separate words, but yet have an
 appreciable signification which they impart to the new product" (see
 Introduction to the Oxford _New English Dictionary_, p. xx). A further
-classification of words according to their origin is that into (1)
+[[Classification|classification]] of words according to their origin is that into (1)
 naturals, i.e. purely native words, like "mother," "father," "house";
 (2) those which become perfectly naturalized, though of foreign origin,
-like "cat," "mutton," "beef"; (3) denizens, words naturalized in usage
+like "cat," "mutton," "[[Beef|beef]]"; (3) [[Denizen|denizens]], words naturalized in usage
 but keeping the foreign pronunciation, spelling and inflections, e.g.
-"focus," "camera"; (4) aliens, words for foreign things, institutions,
+"[[Focus|focus]]," "[[Camera|camera]]"; (4) aliens, words for foreign things, institutions,
 offices, &c., for which there is no English equivalent, e.g., _menu_,
 _table d'hôte_, _impi_, _lakh_, _mollah_, _tarbush_; (5) casuals, e.g.,
 _bloc_, _Ausgleich_, _sabotage_, differing only from "aliens" in their

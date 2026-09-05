@@ -9,7 +9,7 @@ upholsterer, he found opportunity for the early exercise of his
 mechanical ingenuity. When he was sixteen his father died, and he
 removed to Paris where he obtained employment with a harpsichord maker.
 Here his remarkable constructive skill, though it speedily excited the
-jealousy of his master and procured his dismissal, almost equally soon
+[[Jealousy|jealousy]] of his master and procured his dismissal, almost equally soon
 attracted the notice of musicians and musical instrument makers of
 eminence. Before he was twenty-five he set up in business for himself,
 his first workshop being a room in the hotel of the duchesse de

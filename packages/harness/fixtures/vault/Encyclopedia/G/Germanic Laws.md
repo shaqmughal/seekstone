@@ -1,12 +1,12 @@
 # Germanic Laws
 
 GERMANIC LAWS, EARLY. Of those Germanic laws of the early middle ages
-which are known as _leges barbarorum_, we here deal with the principal
+which are known as _[[Leg|leges]] barbarorum_, we here deal with the principal
 examples other than Frankish, viz. (1) _Leges Wisigothorum_, (2) _Lex
 Burgundionum_, (3) _Pactus Alamannorum_ and _Lex Alamannorum_, (4) _Lex
 Bajuvariorum_, (5) _Lex Saxonum_, (6) _Lex Frisionum_, (7) _Lex
 Angliorum et Werinorum, hoc est, Thuringorum_, and (8) _Leges
-Langobardorum_. All these laws may in general be described as codes of
+Langobardorum_. All these laws may in general be described as [[Code|codes]] of
 procedure and tariffs of compositions. They present somewhat similar
 features with the Salic law, but often differ from it in the date of
 compilation, the amount of fines, the number and nature of the crimes,
@@ -21,7 +21,7 @@ ROMAN LAW.
   Leges_. For further information on the codes in general, see H.M.
   Zopfl, _Deutsche Rechtsgeschichte_ (4th ed., Heidelberg, 1871-1876);
   J.E.O. Stobbe, _Geschichte der deutschen Rechtsquellen_ (Brunswick,
-  1860-1864); Paul Viollet, _Histoire du droit civil francais_ (2nd ed.,
+  1860-1864); Paul Viollet, _Histoire du [[Droit|droit]] civil francais_ (2nd ed.,
   Paris, 1893); H. Brunner, _Deutsche Rechtsgeschichte_ (2nd ed.,
   Leipzig, 1906).
 
@@ -40,12 +40,12 @@ all cases between Goths, and between them and Romans; in cases between
 Romans, Roman law was used. At the instance of Euric's son, Alaric II.,
 an examination was made of the Roman laws in use among Romans in his
 dominions, and the resulting compilation was approved in 506 at an
-assembly at Aire, in Gascony, and is known as the Breviary of Alaric,
-and sometimes as the _Liber Aniani_, from the fact that the authentic
+assembly at Aire, in Gascony, and is known as the [[Breviary Of Alaric|Breviary of Alaric]],
+and sometimes as the _Liber Aniani_, from the fact that the [[Authentic|authentic]]
 copies bear the signature of the _referendarius_ Anian.
 
 Euric's code remained in force among the Visigoths of Spain until the
-reign of Leovigild (568-586), who made a new one, improving upon that of
+reign of [[Leovigild]] (568-586), who made a new one, improving upon that of
 his predecessor. This work is lost, and we have no direct knowledge of
 any fragment of it. In the 3rd codification, however, many provisions
 have been taken from the 2nd, and these are designated by the word
@@ -57,7 +57,7 @@ a transformation. The new laws made by the kings were declared to be
 applicable to all the subjects in the kingdom, of whatever race--in
 other words, they became territorial; and this principle of
 territoriality was gradually extended to the ancient code. Moreover, the
-conversion of Reccared I. (586-601) to orthodoxy effaced the religious
+[[Conversion|conversion]] of Reccared I. (586-601) to orthodoxy effaced the religious
 differences among his subjects, and all subjects, _qua_ Christians, had
 to submit to the canons of the councils, which were made obligatory by
 the kings. After this change had been accepted, Recceswinth (649-672)
@@ -89,12 +89,12 @@ compiled the _Lex Romana Burgundionum_, called sometimes, through a
 misreading of the MSS., the _Liber Papiani_ or simply _Papianus_. The
 barbarian law of the Burgundians shows strong traces of Roman influence.
 It recognizes the will and attaches great importance to written deeds,
-but on the other hand sanctions the judicial duel and the _cojuratores_
+but on the other hand sanctions the judicial [[Duel|duel]] and the _cojuratores_
 (sworn witnesses). The vehement protest made in the 9th century by
-Agobard, bishop of Lyons, against the _Lex Gundobada_ shows that it was
+Agobard, bishop of [[Lyons]], against the _Lex Gundobada_ shows that it was
 still in use at that period. So late as the 10th and even the 11th
 centuries we find the law of the Burgundians invoked as personal law in
-Cluny charters, but doubtless these passages refer to accretions of
+[[Cluny]] charters, but doubtless these passages refer to accretions of
 local customs rather than to actual paragraphs of the ancient code.
 
   The text of the _Lex Burgundionum_ has been published by F. Bluhme in
@@ -105,19 +105,19 @@ local customs rather than to actual paragraphs of the ancient code.
   des savants_ (July 1891).
 
 3. _Pactus Alamannorum_ and _Lex Alamannorum._--Of the laws of the
-Alamanni, who dwelt between the Rhine and the Lech, and spread over
+Alamanni, who dwelt between the Rhine and the [[Lech]], and spread over
 Alsace and what is now Switzerland to the south of Lake Constance, we
 possess two different texts. The earlier text, of which five short
 fragments have come down to us, is known as the _Pactus Alamannorum_,
 and from the persistent recurrence of the expression "et sic convenit"
 was most probably drawn up by an official commission. The reference to
-affranchisement _in ecclesia_ shows that it was composed at a period
+affranchisement _in [[Ecclesia|ecclesia]]_ shows that it was composed at a period
 subsequent to the conversion of the Alamanni to Christianity. There is
 no doubt that the text dates back to the reign of Dagobert I., i.e. to
 the first half of the 7th century. The later text, known as the _Lex
 Alamannorum_, dates from a period when Alamannia was independent under
-national dukes, but recognized the theoretical suzerainty of the
-Frankish kings. There seems no reason to doubt the St Gall MS., which
+national [[Dukes|dukes]], but recognized the theoretical suzerainty of the
+Frankish kings. There seems no reason to doubt the St [[Gall]] MS., which
 states that the law had its origin in an agreement between the great
 Alamannic lords and Duke Landfrid, who ruled the duchy from 709 to 730.
 
@@ -133,7 +133,7 @@ the law of the Alamanni. The Bavarian law, therefore, is later than that
 of the Alamanni. It dates unquestionably from a period when the Frankish
 authority was very strong in Bavaria, when the dukes were vassals of the
 Frankish kings. Immediately after the revolt of Bavaria in 743 the
-Bavarian duke Odilo was forced to submit to Pippin and Carloman, the
+Bavarian duke Odilo was forced to submit to Pippin and [[Carloman]], the
 sons of Charles Martel, and to recognize the Frankish suzerainty. About
 the same period, too, the church of Bavaria was organized by St
 Boniface, and the country divided into several bishoprics; and we find
@@ -165,7 +165,7 @@ which formerly entailed death. The _Lex Saxonum_ apparently dates from
 Ribuariae additum_ of that year. The law established the ancient
 customs, at the same time eliminating anything that was contrary to the
 spirit of Christianity; it proclaimed the peace of the churches, whose
-possessions it guaranteed and whose right of asylum it recognized.
+possessions it guaranteed and whose right of [[Asylum|asylum]] it recognized.
 
 6. _Lex Frisionum._--This consists of a medley of documents of the most
 heterogeneous character. Some of its enactments are purely pagan--thus
@@ -182,7 +182,7 @@ intense legislative activity at the court of Charlemagne.
 
   There are no MSS. of the document extant; our knowledge of it is based
   upon B.J. Herold's edition (_Originum ac Germanicarum antiquitatum
-  libri_, Basel, 1557), which has been reproduced by Karl von Richthofen
+  libri_, [[Basel]], 1557), which has been reproduced by Karl von Richthofen
   in the _Mon. Germ. hist._, _Leges_, iii. 631.
 
 7. _Lex Angliorum el Werinorum, hoc est, Thuringorum._--In early times
@@ -203,7 +203,7 @@ _Leges_, v. 103. The old opinion that the law originated in south
 Holland is entirely without foundation.
 
 8. _Leges Langobardorum._--We possess a fair amount of information on
-the origin of the last barbarian code, the laws of the Lombards. The
+the origin of the last barbarian code, the laws of the [[Lombards]]. The
 first part, consisting of 388 chapters, is known as the _Edictus
 Langobardorum_, and was promulgated by King Rothar at a diet held at
 Pavia on the 22nd of November 643. This work, composed at one time and
@@ -220,9 +220,9 @@ for Italy, called _Capitula Italica_, some of which were appended to the
 edict of Rothar.
 
 At an early date compilations were formed in Italy for the use of legal
-practitioners and jurists. Eberhard, duke and margrave of Rhaetia and
-Friuli, arranged the contents of the edict with its successive
-additamenta into a _Concordia de singulis causis_ (829-832). In the 10th
+practitioners and jurists. [[Eberhard]], duke and margrave of Rhaetia and
+[[Friuli]], arranged the contents of the edict with its successive
+additamenta into a _[[Concordia]] de singulis causis_ (829-832). In the 10th
 century a collection was made of the capitularies in use in Italy, and
 this was known as the _Capitulare Langobardorum_. Then appeared, under
 the influence of the school of law at Pavia, the _Liber legis
@@ -238,7 +238,7 @@ the _Lombarda Vulgata_.
   1613. For further information on the laws of the Lombards see J.
   Merkel, _Geschichte des Langobardenrechts_ (1850); A. Boretius, _Die
   Kapitularien im Langobardenreich_ (1864); and C. Kier, _Edictus
-  Rotari_ (Copenhagen, 1898). Cf. R. Dareste in the _Nouvelle Revue
+  Rotari_ ([[Copenhagen]], 1898). Cf. R. Dareste in the _Nouvelle Revue
   historique de droit francais et etranger_ (1900, p. 143).     (C. Pf.)
 
 

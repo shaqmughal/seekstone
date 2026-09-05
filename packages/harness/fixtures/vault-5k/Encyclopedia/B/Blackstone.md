@@ -5,7 +5,7 @@ on the 10th of July 1723. His parents having died when he was young, his
 early education, under the care of his uncle, Dr Thomas Bigg, was
 obtained at the Charterhouse, from which, at the age of fifteen, he was
 sent to Pembroke College, Oxford. He was entered in the Middle Temple in
-1741. In 1744 he was elected a fellow of All Souls' College. From this
+1741. In 1744 he was elected a [[Fellow|fellow]] of All Souls' College. From this
 period he divided his time between the university and the Temple, where
 he took chambers in order to attend the law courts. In 1746 he was
 called to the bar. Though but little known or distinguished as a
@@ -26,7 +26,7 @@ abandoned London, he entered on the duty of reading them at Oxford; and
 we are told by the author of his _Life_, that even at their
 commencement, the high expectations formed from the acknowledged
 abilities of the lecturer attracted to these lectures a very crowded
-class of young men of the first families, characters and hopes. Bentham,
+class of young men of the first families, characters and hopes. [[Bentham]],
 however, declares that he was a "formal, precise and affected
 lecturer--just what you would expect from the character of his
 writings--cold, reserved and wary, exhibiting a frigid pride." It was
@@ -57,7 +57,7 @@ attendance, "where," he said, "amidst the rage of contending parties, a
 man of moderation must expect to meet with no quarter from any side." In
 1770 he declined the place of solicitor-general; but shortly afterwards,
 on the promotion of Sir Joseph Yates to a seat in the court of common
-pleas, he accepted a seat on the bench, and on the death of Sir Joseph
+pleas, he accepted a seat on the [[Bench|bench]], and on the death of Sir Joseph
 succeeded him there also. He died on the 14th of February 1780.
 
 The design of the _Commentaries_ is exhibited in his first Vinerian
@@ -70,7 +70,7 @@ meanings of the word law, he advances from the law of nature (being
 either the revealed or the inferred will of God) to municipal law, which
 he defines to be a rule of civil conduct prescribed by the supreme power
 in a state commanding what is right and prohibiting what is wrong. On
-this definition he founds the division observed in the _Commentaries_.
+this [[Definition|definition]] he founds the division observed in the _Commentaries_.
 The objects of law are rights and wrongs. Rights are either rights of
 persons or rights of things. Wrongs are either public or private. These
 four headings form respectively the subjects of the four books of the
@@ -117,7 +117,7 @@ philosophy or fairness in this part of his work. Whether through the
 natural conservatism of a lawyer, or through his own timidity and
 subserviency as a man and a politician, he is always found to be a
 specious defender of the existing order of things. Bentham accuses him
-of being the enemy of all reform, and the unscrupulous champion of every
+of being the enemy of all reform, and the unscrupulous [[Champion|champion]] of every
 form of professional chicanery. Austin says that he truckled to the
 sinister interests and mischievous prejudices of power, and that he
 flattered the overweening conceit of the English in their own
@@ -144,12 +144,12 @@ convictions of the majority of the English people. Long after it has
 ceased to be of much practical value as an authority in the courts, it
 remains the arbiter of all public discussions on the law or the
 constitution. On such occasions the _Commentaries_ are apt to be
-construed as strictly as if they were a code. It is curious to observe
+construed as strictly as if they were a [[Code|code]]. It is curious to observe
 how much importance is attached to the _ipsissima verba_ of a writer who
 aimed more at presenting a picture intelligible to laymen than at
 recording the principles of the law with technical accuracy of detail.
 
-  See also the article ENGLISH LAW.
+  See also the article [[English Law|ENGLISH LAW]].
 
 ## References
 

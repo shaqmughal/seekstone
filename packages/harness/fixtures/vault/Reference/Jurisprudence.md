@@ -5,7 +5,7 @@ right, and _prudentia_, from _providere_, to foresee), the general term
 for "the formal science of positive law" (T. E. Holland); see LAW. The
 essential principles involved are discussed below and in JURISPRUDENCE,
 COMPARATIVE; the details of particular laws or sorts of law (CONTRACT,
-&c.) and of individual national systems of law (ENGLISH LAW, &c.) being
+&c.) and of individual national systems of law ([[English Law|ENGLISH LAW]], &c.) being
 dealt with in separate articles.
 
 The human race may be conceived as parcelled out into a number of
@@ -66,13 +66,13 @@ means an examination not limited to the exposition of particular
 systems. Analytical jurisprudence is in England associated chiefly with
 the name of John Austin (q.v.), whose _Province of Jurisprudence
 Determined_ systematized and completed the work begun in England by
-Hobbes, and continued at a later date and from a different point of view
-by Bentham.
+[[Hobbes]], and continued at a later date and from a different point of view
+by [[Bentham]].
 
 Austin's first position is to distinguish between laws properly so
 called and laws improperly so called. In any of the older writers on
 law, we find the various senses in which the word is used grouped
-together as variations of one common meaning. Thus Blackstone advances
+together as variations of one common meaning. Thus [[Blackstone]] advances
 to his proper subject, municipal laws, through (1) the laws of inanimate
 matter, (2) the laws of animal nutrition, digestion, &c., (3) the laws
 of nature, which are rules imposed by God on men and discoverable by
@@ -96,14 +96,14 @@ human superior to a human inferior.
 
 This distinction seems so simple and obvious that the energy and even
 bitterness with which Austin insists upon it now seem superfluous. But
-the indiscriminate identification of everything to which common speech
+the indiscriminate [[Identification|identification]] of everything to which common speech
 gives the name of a law was, and still is, a fruitful source of
 confusion. Blackstone's statement that when God "put matter into motion
 He established certain laws of motion, to which all movable matter must
 conform," and that in those creatures that have neither the power to
 think nor to will such laws must be invariably obeyed, so long as the
 creature itself subsists, for its existence depends on that obedience,
-imputes to the law of gravitation in respect of both its origin and its
+imputes to the law of [[Gravitation|gravitation]] in respect of both its origin and its
 execution the qualities of an act of parliament. On the other hand the
 qualities of the law of gravitation are imputed to certain legal
 principles which, under the name of the law of nature, are asserted to
@@ -113,7 +113,7 @@ of "natural laws" in the sense of scientific facts as improper, or as
 metaphorical.
 
 Having eliminated metaphorical or figurative laws, we restrict ourselves
-to those laws which are commands. This word is the key to the analysis
+to those laws which are commands. This word is the [[Key|key]] to the analysis
 of law, and accordingly a large portion of Austin's work is occupied
 with the determination of its meaning. A _command_ is an order issued by
 a superior to an inferior. It is a signification of desire distinguished
@@ -144,7 +144,7 @@ created by parliament would imply a law; a general order to go into
 mourning addressed to the whole nation for a particular occasion would
 not be a law.
 
-So far we have arrived at a definition of laws properly so called.
+So far we have arrived at a [[Definition|definition]] of laws properly so called.
 Austin holds superiority and inferiority to be necessarily implied in
 command, and such statements as that "laws emanate from superiors" to be
 the merest tautology and trifling. Elsewhere he sums up the
@@ -165,14 +165,14 @@ revealed or unrevealed, i.e. either expressed in direct command, or made
 known to men in one or other of the ways denoted by such phrases as the
 "light of nature," "natural reason," "dictates of nature," and so forth.
 Austin maintains that the principle of general utility, based ultimately
-on the assumed benevolence of God, is the true index to such of His
+on the assumed benevolence of God, is the true [[Index|index]] to such of His
 commands as He has not chosen to reveal. Austin's exposition of the
 meaning of the principle is a most valuable contribution to moral
 science, though he rests its claims ultimately on a basis which many of
 its supporters would disavow. And the whole discussion is now generally
 condemned as lying outside the proper scope of the treatise, although
 the reason for so condemning it is not always correctly stated. It is
-found in such assumptions of fact as that there is a God, that He has
+found in such [[Assumption|assumptions]] of fact as that there is a God, that He has
 issued commands to men in what Austin calls the "truths of revelation,"
 that He designs the happiness of all His creatures, that there is a
 predominance of good in the order of the world--which do not now command
@@ -187,9 +187,9 @@ The second set of laws properly so called, which are not positive laws,
 consists of three classes: (1) those which are set by men living in a
 state of nature; (2) those which are set by sovereigns but not as
 political superiors, e.g. when one sovereign commands another to act
-according to a principle of international law; and (3) those set by
+according to a principle of [[International|international]] law; and (3) those set by
 subjects but not in pursuance of legal rights. This group, to which
-Austin gives the name of positive morality, helps to explain his
+Austin gives the name of positive morality, [[Helps|helps]] to explain his
 conception of positive law. Men are living in a state of nature, or a
 state of anarchy, when they are not living in a state of government or
 as members of a political society. "Political society" thus becomes the
@@ -200,7 +200,7 @@ society. Again, the third set in the group is intimately connected with
 positive laws on the one hand and rules of positive morality which are
 not even laws properly so called on the other. Thus laws set by subjects
 in consequence of a legal right are clothed with legal sanctions, and
-are laws positive. A law set by guardian to ward, in pursuance of a
+are laws positive. A law set by [[Guardian|guardian]] to ward, in pursuance of a
 right which the guardian is bound to exercise, is a positive law pure
 and simple; a law set by master to slave, in pursuance of a legal right,
 which he is not bound to exercise, is, in Austin's phraseology, to be
@@ -229,7 +229,7 @@ instance the apparent paralogism cannot be avoided if we accept the
 limitation of laws properly so called to commands proceeding from a
 determinate source. And that limitation is so generally present in our
 conception of law that to ignore it would be a worse anomaly than this.
-No one finds fault with the statement that the so-called code of honour
+No one finds [[Fault|fault]] with the statement that the so-called [[Code|code]] of honour
 or the dictates of fashion are not, properly speaking, laws. We repel
 the same statement applied to the law of nature, because it resembles in
 so many of its most striking features--in the certainty of a large
@@ -293,7 +293,7 @@ be called the law of that society. The so-called laws which are common
 to the bulk of the community are purely and properly customary
 laws--that is to say, laws which are set or imposed by the general
 opinion of the community, but are not enforced by legal or political
-sanctions." Such, he says, are the savage societies of hunters and
+sanctions." Such, he says, are the savage societies of [[Hunter|hunters]] and
 fishers in North America, and such were the Germans as described by
 Tacitus. He takes no account of societies in an intermediate stage
 between this and the condition which constitutes political society.
@@ -301,7 +301,7 @@ between this and the condition which constitutes political society.
 We need not follow the analysis in detail. Much ingenuity is displayed
 in grouping the various kinds of government, in detecting the sovereign
 authority under the disguises which it wears in the complicated state
-system of the United States or under the fictions of English law, in
+system of the United States or under the [[Fictions|fictions]] of English law, in
 elucidating the precise meaning of abstract political terms.
 Incidentally the source of many celebrated fallacies in political
 thought is laid bare. That the question who is sovereign in a given
@@ -311,7 +311,7 @@ sovereign's command, that no real or assumed compact can limit his
 action--are positions which Austin has been accused of enforcing with
 needless iteration. He cleared them, however, from the air of paradox
 with which they had been previously encumbered, and his influence was in
-no direction more widely felt than in making them the commonplaces of
+no direction more widely felt than in making them the [[Commonplace|commonplaces]] of
 educated opinion in this generation.
 
 Passing from these, we may now consider what has been said against the
@@ -409,7 +409,7 @@ may set the sanction in operation in case the command be disobeyed.
   people as a command to be obeyed than are the elementary rules of the
   common law for which no legislative origin can be traced. It is not
   even necessary to resort to the figure of speech by which alone,
-  according to Sir Henry Maine (_Early History of Institutions_, p.
+  according to Sir Henry [[Maine]] (_Early History of Institutions_, p.
   314), the common law can be regarded as the commands of the
   government. "The common law," he says, "consists of their commands
   because they can repeal or alter or restate it at pleasure." "They
@@ -434,11 +434,11 @@ with the Austinian definition of law as a command creating rights and
 duties. Take the rule that "every will must be in writing." It is a very
 circuitous way of looking at things, according to Harrison, to say that
 such a rule creates a specific right in any determinate person of a
-definite description. So, again, the rule that "a legacy to the witness
+definite description. So, again, the rule that "a [[Legacy|legacy]] to the witness
 of a will is void." Such a rule is not "designed to give any one any
 rights, but simply to protect the public against wills made under undue
 influence." Again, the technical rule in Shelley's case that a gift to A
-for life, followed by a gift to the heirs of A, is a gift to A in fee
+for life, followed by a gift to the [[Heir|heirs]] of A, is a gift to A in [[Fee|fee]]
 simple, is pronounced to be inconsistent with the definition. It is an
 idle waste of ingenuity to force any of these rules into a form in which
 they might be said to create rights.
@@ -468,7 +468,7 @@ witnesses to the will," and the command, with its product of rights and
 duties, is still there. Each of the additions limits the operation of
 the command stated imperatively in the first sentence. So with the rule
 in Shelley's case. It is resolvable into the rule that every person to
-whom an estate is given by a conveyance expressed in such and such a way
+whom an estate is given by a [[Conveyance|conveyance]] expressed in such and such a way
 shall take such and such rights. To take another example from later
 legislation. An English statute passed in 1881 enacts nothing more than
 this, that an act of a previous session shall be construed as if "that"
@@ -483,7 +483,7 @@ law--is to be found in the two sections taken together.
 All this confusion arises from the fact that laws are not habitually
 expressed in imperative terms. Even in a mature system like that of
 England the great bulk of legal rules is hidden under forms which
-disguise their imperative quality. They appear as principles, maxims,
+disguise their imperative quality. They appear as principles, [[Maxims|maxims]],
 propositions of fact, generalizations, points of pleading and procedure,
 and so forth. Even in the statutes the imperative form is not uniformly
 observed. It might be said that the more mature a legal system is the
@@ -507,7 +507,7 @@ associates them with rules of positive morality and with laws which are
 only metaphorically so called. This collocation is unfortunate and out
 of keeping with Austin's method. Declaratory and repealing laws are as
 completely unlike positive morality and metaphorical laws as are the
-laws which he describes as properly so called. And if we avoid the error
+laws which he describes as properly so called. And if we avoid the [[Error|error]]
 of treating each separate proposition enunciated by the lawgiver as _a_
 law, the cases in question need give us no trouble. Read the declaratory
 and the repealing statutes along with the principal laws which they
@@ -558,7 +558,7 @@ _Early History of Institutions_, p. 380:--
   India, but because it happens to be the most modern precedent in
   point. My instance is the Indian province called the Punjaub, the
   country of the Five Rivers, in the state in which it was for about a
-  quarter of a century before its annexation to the British Indian
+  quarter of a century before its [[Annexation|annexation]] to the British Indian
   Empire. After passing through every conceivable phase of anarchy and
   dormant anarchy, it fell under the tolerably consolidated dominion of
   a half-military half-religious oligarchy known as the Sikhs. The Sikhs
@@ -612,13 +612,13 @@ state during their rare intervals of peace and order." The empire was in
 the main in each case a tax-gathering empire. The unalterable law of the
 Medes and Persians was not a law at all but an occasional command. So
 again Maine puts his position clearly in the following sentences: "The
-Athenian assembly made true laws for residents on Attic territory, but
+Athenian assembly made true laws for residents on [[Attic]] territory, but
 the dominion of Athens over her subject cities and islands was clearly a
 tax-taking as distinguished from a legislating empire." Maine, it will
 be observed, does not say that the sovereign assembly did not command
 the laws in the subject islands--only that it did not legislate.
 
-In the same category may be placed without much substantial difference
+In the same [[Category|category]] may be placed without much substantial difference
 all the societies that have ever existed on the face of the earth
 previous to the point at which _legislation_ becomes active. Maine is
 undoubtedly right in connecting the theories of Bentham and Austin with
@@ -667,7 +667,7 @@ himself, or should suppose himself to be unable to alter it in a single
 particular.
 
   It may be instructive to add to these examples of dubious cases one
-  taken from what is called ecclesiastical law. In so far as this has
+  taken from what is called [[Ecclesiastical Law|ecclesiastical law]]. In so far as this has
   not been adopted and enforced by the state, it would, on Austin's
   theory, be, not positive law, but either positive morality or possibly
   a portion of the Divine law. No jurist would deny that there is an
@@ -678,7 +678,7 @@ particular.
   the sanctions on which it depended. "The theory of penitential
   discipline was this: that the church was an organized body with an
   outward and visible form of government; that all who were outside her
-  boundaries were outside the means of divine grace; that she had a
+  boundaries were outside the means of divine [[Grace|grace]]; that she had a
   command laid upon her, and authority given to her, to gather men into
   her fellowship by the ceremony of baptism, but, as some of those who
   were admitted proved unworthy of their calling, she also had the right
@@ -743,7 +743,7 @@ habitually enforced by physical penalties, administered by a determinate
 person or portion of the community, they should be regarded as positive
 laws and the appropriate subject matter of jurisprudence. Rules which
 are not so enforced, but are enforced in any other way, whether by what
-is called public opinion, or spiritual apprehensions, or natural
+is called public opinion, or spiritual [[Apprehension|apprehensions]], or natural
 instinct, are rightly excluded from that subject matter. In all stages
 of society, savage or civilized, a large body of rules of conduct,
 habitually obeyed, are nevertheless not enforced by any state sanction
@@ -752,7 +752,7 @@ society, where they subserve the same purpose as positive laws in an
 advanced society, not to the positive laws which they resemble in
 purpose but to the moral or other rules which they resemble in
 operation. If we refuse to accept this position we must abandon the
-attempt to frame a general definition of law and its dependent terms, or
+attempt to [[Frame|frame]] a general definition of law and its dependent terms, or
 we must content ourselves with saying that law is one thing in one state
 of society and another thing in another. On the ground of clearness and
 convenience Austin's method is, we believe, substantially right, but
@@ -762,7 +762,7 @@ or that the relation of sovereign and subject is discernible in all
 states of human society. And a careful examination of Maine's criticism
 will show that it is devoted not so much to a rectification of Austin's
 position as to correction of the misconceptions into which some of his
-disciples may have fallen. It is a misconception of the analysis to
+[[Disciple|disciples]] may have fallen. It is a misconception of the analysis to
 suppose that it involves a difference in juridical character between
 custom not yet recognized by any judicial decision and custom after such
 recognition. There is no such difference except in the case of what is
@@ -794,13 +794,13 @@ rule enforceable by courts of justice. It was not even positive morality
 but the opinion of an individual; it is now law.
 
 The most difficult of the common terms of law to define is _right_; and,
-as right rather than duty is the basis of classification, it is a point
+as right rather than duty is the basis of [[Classification|classification]], it is a point
 of some importance. Assuming the truth of the analysis above discussed,
 we may go on to say that in the notion of law is involved an obligation
 on the part of some one, or on the part of every one, to do or forbear
 from doing. That obligation is duty; what is right? Dropping the
 negative of forbearance, and taking duty to mean an obligation to do
-something, with the alternative of punishment in default, we find that
+something, with the alternative of punishment in [[Default|default]], we find that
 duties are of two kinds. The thing to be done may have exclusive
 reference to a determinate person or class of persons, on whose motion
 or complaint the sovereign power will execute the punishment or sanction
@@ -831,7 +831,7 @@ we have a legal right. It would be more easy, no doubt, to pick holes in
 this definition than to frame a better one.[2]
 
 The distinction between rights available against determinate persons and
-rights available against all the world, _jura in personam_ and _jura in
+rights available against all the world, _[[Jura|jura]] in personam_ and _jura in
 rem_, is of fundamental importance. The phrases are borrowed from the
 classical jurists, who used them originally to distinguish actions
 according as they were brought to enforce a personal obligation or to
@@ -927,7 +927,7 @@ is an instance of the deep-seated and persistent tendency of the human
 mind to identify names with the things they represent. The _Institutes_
 of Justinian abound in explanations, founded on a supposed derivation of
 some leading term. _Testamentum_, we are told, _ex eo appellatur quod
-testatio mentis est_. A testament was no doubt, in effect, a declaration
+testatio mentis est_. A testament was no doubt, in effect, a [[Declaration|declaration]]
 of intention on the part of the testator when this was written. But the
 -_mentum_ is a mere termination, and has nothing to do with _mens_ at
 all. The history of testaments, which, it may be noted incidentally, has
@@ -936,7 +936,7 @@ meaning to the institution from that which was expressed by this
 fanciful derivation. So the perplexing subject of _possessio_ was
 supposed in some way to be explained by the derivation from _pono_ and
 _sedeo_--_quasi sedibus positio_. _Posthumi_ was supposed to be a
-compound of _post_ and _humus_. These examples belong to the class of
+compound of _post_ and _[[Humus|humus]]_. These examples belong to the class of
 rationalizing derivations with which students of philosophy are
 familiar. Their characteristic is that they are suggested by some
 prominent feature of the thing as it then appeared to observers--which
@@ -950,7 +950,7 @@ Thus, in the English law of inheritance, until the passing of the
 Inheritance Act 1833, an estate belonging to a deceased intestate would
 pass to his uncle or aunt, to the exclusion of his father or other
 lineal ancestor. This anomaly from an early time excited the curiosity
-of lawyers, and the explanation accepted in the time of Bracton was that
+of lawyers, and the explanation accepted in the time of [[Bracton]] was that
 it was an example of the general law of nature: "Descendit itaque jus
 quasi ponderosum quid cadens deorsum recta linea vel transversali, et
 nunquam reascendit ea via qua descendit." It has been suggested that the
@@ -993,7 +993,7 @@ force and those in which no such force exists. At what point in its
 development a given society passes into the condition of "an independent
 political society" it may not be easy to determine, for the evidence is
 obscure and conflicting. To the historical jurist there is no such
-breach. The rule which in one stage of society is a law, in another
+[[Breach|breach]]. The rule which in one stage of society is a law, in another
 merely a rule of "positive morality," is the same thing to him
 throughout. By the Irish Land Act 1881 the Ulster custom of tenant-right
 and other analogous customs were legalized. For the purposes of
@@ -1023,7 +1023,7 @@ which historical, or more properly comparative, jurisprudence has most
 analogy is the science of language. Laws and customs are to the one what
 words are to the other, and each separate municipal system has its
 analogue in a language. Legal systems are related together like
-languages and dialects, and the investigation in both cases brings us
+languages and [[Dialect|dialects]], and the investigation in both cases brings us
 back at last to the meagre and obscure records of savage custom and
 speech. A great master of the science of language (Max Müller) has
 indeed distinguished it from jurisprudence, as belonging to a totally
@@ -1047,12 +1047,12 @@ conception of the different relations of words and laws to the
 individual will by the story of the emperor Tiberius, who was reproved
 for a grammatical mistake by Marcellus, whereupon Capito, another
 grammarian, observed that, if what the emperor said was not good Latin,
-it would soon be so. "Capito," said Marcellus, "is a liar; for, Caesar,
+it would soon be so. "Capito," said Marcellus, "is a liar; for, [[Caesar]],
 thou canst give the Roman citizenship to men, but not to words." The
 mere impulse of a single mind, even that of a Roman emperor, however,
 probably counts for little more in law than it does in language. Even in
-language one powerful intellect or one influential academy may, by its
-own decree, give a bent to modes of speech which they would not
+language one powerful [[Intellect|intellect]] or one influential academy may, by its
+own [[Decree|decree]], give a bent to modes of speech which they would not
 otherwise have taken. But whether law or language be conventional or
 natural is really an obsolete question, and the difference between
 historical and natural sciences in the last result is one of names.
@@ -1072,7 +1072,7 @@ rationalized legal principles which may be considered apart from the
 state system in which they were developed, and which have, in fact,
 entered into the jurisprudence of the whole of modern Europe on the
 strength of their own abstract authority--so much so that the continued
-existence of the civil law, after the fall of the Empire, is entitled to
+existence of the [[Civil Law|civil law]], after the fall of the Empire, is entitled to
 be considered one of the first discoveries of the historical method.
 Alike, therefore, in its original history, as the law of the Roman
 state, and as the source from which the fundamental principles of modern
@@ -1143,7 +1143,7 @@ that have been buried for centuries, has nevertheless the qualities we
 have named. So too with the law of procedure as it existed under the
 "science" of special pleading. The greatest practical law reformer, and
 the severest critic of existing systems that has ever appeared in any
-age or country, Jeremy Bentham, has admitted this: "Confused,
+age or country, [[Jeremy]] Bentham, has admitted this: "Confused,
 indeterminate, inadequate, ill-adapted, and inconsistent as to a vast
 extent the provision or no provision would be found to be that has been
 made by it for the various cases that have happened to present
@@ -1185,7 +1185,7 @@ its jurisprudence.
 
   Among numerous English textbooks, those specially worth mention are:
   T. E. Holland, _The Elements of Jurisprudence_ (1880; 10th ed., 1906);
-  J. Austin, _Lectures on Jurisprudence_ (4th ed., 1873); W. Jethro
+  J. Austin, _Lectures on Jurisprudence_ (4th ed., 1873); W. [[Jethro]]
   Brown, _The Austinian Theory of Law_ (1906); Sir F. Pollock, _A First
   Book on Jurisprudence_ (1896; 2nd ed., 1904).
 
@@ -1200,7 +1200,7 @@ FOOTNOTES:
   [2] In English speech another ambiguity is happily wanting which in
     many languages besets the phrase expressing "a right." The Latin
     "jus," the German "Recht," the Italian "diritto," and the French
-    "droit" express, not only a right, but also law in the abstract. To
+    "[[Droit|droit]]" express, not only a right, but also law in the abstract. To
     indicate the distinction between "law" and "a right" the Germans are
     therefore obliged to resort to such phrases as "objectives" and
     "subjectives Recht," meaning by the former law in the abstract, and

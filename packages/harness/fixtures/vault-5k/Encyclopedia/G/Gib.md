@@ -12,7 +12,7 @@ was almost the only minister of Edinburgh who continued to preach
 against rebellion while the troops of Charles Edward were in occupation
 of the town. When in 1747 "the Associate Synod," by a narrow majority,
 decided not to give full immediate effect to a judgment which had been
-passed in the previous year against the lawfulness of the "Burgess
+passed in the previous year against the lawfulness of the "[[Burges|Burgess]]
 Oath," Gib led the protesting minority, who separated from their
 brethren and formed the Antiburgher Synod (April 10th) in his own house
 in Edinburgh. It was chiefly under his influence that it was agreed by

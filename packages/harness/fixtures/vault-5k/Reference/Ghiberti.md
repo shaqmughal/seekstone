@@ -14,7 +14,7 @@ city by the urgent entreaties of his stepfather Bartoluccio, who
 informed him that a competition was to be opened for designs of a second
 bronze gate in the baptistery, and that he would do wisely to return to
 Florence and take part in this great artistic contest. The subject for
-the artists was the sacrifice of Isaac; and the competitors were
+the artists was the sacrifice of [[Isaac]]; and the competitors were
 required to observe in their work a certain conformity to the first
 bronze gate of the baptistery, executed by Andrea Pisano about 100 years
 previously. Of the six designs presented by different Italian artists,
@@ -47,7 +47,7 @@ still have shone with all the brightness of their original gilding when,
 a century later, Michelangelo pronounced them worthy to be the gates of
 paradise. Next to the gates of the baptistery Ghiberti's chief works
 still in existence are his three statues of St John the Baptist, St
-Matthew and St Stephen, executed for the church of Or San Michele. In
+[[Matthew]] and St Stephen, executed for the church of Or San Michele. In
 the bas-relief of the coffin of St Zenobius, in the Florence cathedral,
 Ghiberti put forth much of his peculiar talent, and though he did not,
 as is commonly stated, execute entirely the painted glass windows in

@@ -16,12 +16,12 @@ matters. He was knighted, and was elected member for Kent in the Long
 Parliament, when he took the popular side, speaking against monopolies
 on the 9th of November 1640, being entrusted with the impeachment of Sir
 Robert Berkeley on the 12th of February 1641, supporting Stafford's
-attainder, and being appointed to the committee of defence on the 12th
+[[Attainder|attainder]], and being appointed to the committee of defence on the 12th
 of August 1641. He separated, however, from the popular party on the
 Church question, owing to political rather than religious objections,
 fearing the effect of the revolutionary changes which were now
 contemplated. He opposed the London petition for the abolition of
-episcopacy, the project of religious union with the Scots, and the Root
+[[Episcopacy|episcopacy]], the project of religious union with the Scots, and the Root
 and Branch Bill, and on the 1st of September he moved a resolution in
 defence of the prayer-book. In the following session he opposed the
 militia bill and the Grand Remonstrance, and finally on the 2nd of
@@ -51,7 +51,7 @@ the king, at the same time deprecating any yielding on the subject of
 the militia. He promoted the mission of Sir John Berkeley in 1647 to
 secure an understanding between Charles and the army. In 1648 he
 accompanied the prince in his unsuccessful naval expedition, and
-returned with him to the Hague, where violent altercations broke out
+returned with him to the [[Hague]], where violent altercations broke out
 among the royalist leaders, Colepeper going so far, on one occasion in
 the council, as to challenge Prince Rupert, and being himself severely
 assaulted in the streets by Sir Robert Walsh. He continued after the
@@ -59,7 +59,7 @@ execution of the king to press the acceptance on Charles II. of the
 Scottish proposals. He was sent to Russia in 1650, where he obtained a
 loan of 20,000 roubles from the tsar, and, soon after his return, to
 Holland, to procure military assistance. By the treaty, agreed to
-between Cromwell and Mazarin, of August 1654, Colepeper was obliged to
+between [[Cromwell]] and Mazarin, of August 1654, Colepeper was obliged to
 leave France, and he appears henceforth to have resided in Flanders. He
 accompanied Charles II. to the south of France in September 1659, at the
 time of the treaty of the Pyrenees. At the Restoration he returned to
@@ -67,7 +67,7 @@ England, but only survived a few weeks, dying on the 11th of June 1660.
 
 Several contemporary writers agree in testifying to Colepeper's great
 debating powers and to his resources as an adviser, but complain of his
-want of stability and of his uncertain temper. Clarendon, with whom he
+want of stability and of his uncertain temper. [[Clarendon]], with whom he
 was often on ill terms, speaks generally in his praise, and repels the
 charge of corruption levelled against him. That he was gifted with
 considerable political foresight is shown by a remarkable letter written

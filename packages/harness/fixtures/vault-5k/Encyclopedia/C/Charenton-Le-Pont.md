@@ -1,7 +1,7 @@
 # Charenton-Le-Pont
 
 CHARENTON-LE-PONT, a town of northern France in the department of Seine,
-situated on the right bank of the Marne, at its confluence with the
+situated on the right bank of the [[Marne]], at its confluence with the
 Seine, 1 m. S.E. of the fortifications of Paris, of which it is a
 suburb. Pop. (1906) 18,034. It derives the distinctive part of its name
 from the stone bridge of ten arches which crosses the Marne and unites
@@ -12,8 +12,8 @@ sanguinary conflicts. The fort of Charenton on the left bank of the
 Marne is one of the older forts of the Paris defence. In the 16th and
 17th centuries Charenton was the scene of the ecclesiastical councils of
 the Protestant party, which had its principal church in the town. At St
-Maurice adjoining Charenton is the famous Hospice de Charenton, a
-lunatic asylum, the foundation of which dates from 1641. Till the time
+[[Maurice]] adjoining Charenton is the famous Hospice de Charenton, a
+lunatic [[Asylum|asylum]], the foundation of which dates from 1641. Till the time
 of the Revolution it was used as a general hospital, and even as a
 prison, but from 1802 onwards it was specially appropriated to the
 treatment of lunacy. St Maurice has two other national establishments,

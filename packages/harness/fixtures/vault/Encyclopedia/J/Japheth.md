@@ -1,16 +1,16 @@
 # Japheth
 
 JAPHETH ([Hebrew: Yefeth]), in the Bible, the youngest son of Noah[1]
-according to the Priestly Code (c. 450 B.C.); but in the earlier
+according to the Priestly [[Code]] (c. 450 B.C.); but in the earlier
 tradition[2] the second son, also the "father" of one of the three
 groups into which the nations of the world are divided.[3] In Gen. ix.
 27, Noah pronounces the following blessing on Japheth--
 
   "God enlarge (Heb. _yapht_) Japheth (Heb. _yepheth_),
    And let him dwell in the tents of Shem;
-   And let Canaan be his servant."
+   And let [[Canaan]] be his servant."
 
-This is probably an ancient oracle independent alike of the flood story
+This is probably an ancient oracle independent alike of the [[Flood|flood]] story
 and the genealogical scheme in Gen. x. Shem is probably Israel; Canaan,
 of course, the Canaanites; by analogy, Japheth should be some third
 element of the population of Palestine--the Philistines or the
@@ -27,12 +27,12 @@ In Gen. x. Japheth is the northern and western division of the nations;
 being perhaps used as a convenient title under which to group the more
 remote peoples who were not thought of as standing in ethnic or
 political connexion with Israel or Egypt. Thus of his descendants,
-Gomer, Magog,[4] Tubal, Meshech, Ashkenaz, Riphath and Togarmah are
+[[Gomer]], Magog,[4] Tubal, Meshech, Ashkenaz, Riphath and Togarmah are
 peoples who are located with more or less certainty in N.E. Asia Minor,
-Armenia and the lands to the N.E. of the Black Sea; Javan is the
+[[Armenia]] and the lands to the N.E. of the [[Black Sea]]; Javan is the
 Ionians, used loosely for the seafaring peoples of the West, including
-Tarshish (Tartessus in Spain), Kittim (Cyprus), Rodanim[5] (Rhodes).
-There is no certain identification of Tiras and Elishah.
+Tarshish (Tartessus in Spain), Kittim ([[Cyprus]]), Rodanim[5] (Rhodes).
+There is no certain [[Identification|identification]] of Tiras and Elishah.
 
   The similarity of the name Japheth to the Titan Iapetos of Greek
   mythology is probably a mere accident. A place Japheth is mentioned in
@@ -52,7 +52,7 @@ FOOTNOTES:
   [3] Gen. x. 1-5; cf. I Chron. i. 5-7. For the significance of the
     genealogies in Gen. x. see HAM.
 
-  [4] See GOMER, GOG.
+  [4] See GOMER, [[Gog|GOG]].
 
   [5] So we should read with 1 Chron. i. 7 (LXX.) for Dodanim.
 

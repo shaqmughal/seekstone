@@ -12,7 +12,7 @@ the most powerful in Gallia Transpadana, inhabiting the country between
 the Adda, the Ticinus and the Alps. According to Livy (v. 34) they
 appear to have been a branch of the Aedui in Gallia Transalpina, though
 others assume that they were Umbrians, a view to some extent supported
-by the form Is-ombr-es. Livy states that Bellovesus and his Gauls,
+by the form Is-ombr-es. Livy states that Bellovesus and his [[Gaul|Gauls]],
 having crossed the Alps and defeated the Etruscans near the Ticinus,
 found themselves in the territory of the Insubres (also the name of a
 _pagus_ of the Aedui). Here they built a city and called it Mediolanum

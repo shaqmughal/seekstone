@@ -8,7 +8,7 @@ tags: [forestry, history]
 
 # Forli
 
-FORLI (anc. _Forum Livii_), a town and episcopal see of Emilia, Italy,
+FORLI (anc. _[[Forum]] Livii_), a town and episcopal see of Emilia, Italy,
 the capital of the province of Forli, 40 m. S.E. of Bologna by rail, 108
 ft. above sea-level. Pop. (1901) 15,461 (town); 43,321 (commune). Forli
 is situated on the railway between Bologna and Rimini. It is connected

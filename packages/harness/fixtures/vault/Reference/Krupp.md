@@ -7,7 +7,7 @@ topic: history
 # Krupp
 
 KRUPP, ALFRED (1812-1887), German metallurgist, was born at Essen on the
-26th of April 1812. His father, Friedrich Krupp (1787-1826), had
+26th of April 1812. His father, [[Friedrich]] Krupp (1787-1826), had
 purchased a small forge in that town about 1810, and devoted himself to
 the problem of manufacturing cast steel; but though that product was put
 on the market by him in 1815, it commanded but little sale, and the firm
@@ -32,7 +32,7 @@ practically separate villages, dotted about to the south and south-west
 of the town, with schools, libraries, recreation grounds, clubs, stores,
 &c. The policy also was adopted of acquiring iron and coal mines, so
 that the firm might have command of supplies of the raw material
-required for its operations. Alfred Krupp, who was known as the "Cannon
+required for its operations. Alfred Krupp, who was known as the "[[Cannon]]
 King," died at Essen on the 14th of July 1887, and was succeeded by his
 only son, Friedrich Alfred Krupp (1854-1902), who was born at Essen on
 the 17th of February 1854. The latter devoted himself to the financial

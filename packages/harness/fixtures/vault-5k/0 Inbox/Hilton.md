@@ -14,11 +14,11 @@ sending a "Group of Banditti"; and he soon established a reputation for
 choice of subject, and qualities of design and colour superior to the
 great mass of his contemporaries. He made a tour in Italy with Thomas
 Phillips, the portrait-painter. In 1813, having exhibited "Miranda and
-Ferdinand with the Logs of Wood," he was elected an associate of the
+[[Ferdinand]] with the [[Log|Logs]] of Wood," he was elected an associate of the
 Academy, and in 1820 a full academician, his diploma-picture
 representing "Ganymede." In 1823 he produced "Christ crowned with
 Thorns," a large and important work, subsequently bought out of the
-Chantrey Fund; this may be regarded as his masterpiece. In 1827 he
+[[Chantrey]] Fund; this may be regarded as his masterpiece. In 1827 he
 succeeded Henry Thomson as keeper of the Academy. He died in London on
 the 30th of December 1839, Some of his best pictures remained on his
 hands at his decease--such as the "Angel releasing Peter from Prison"

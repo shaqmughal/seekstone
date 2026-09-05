@@ -24,7 +24,7 @@ specially characteristic of measles. These consist in the somewhat
 sudden onset of acute catarrh of the mucous membranes. At this stage
 minute white spots in the buccal mucous membrane frequently occur; when
 they do, they are diagnostic of the disease. Sneezing, accompanied with
-a watery discharge, sometimes bleeding, from the nose, redness and
+a watery [[Discharge|discharge]], sometimes bleeding, from the nose, redness and
 watering of the eyes, cough of a short, frequent, and noisy character,
 with little or no expectoration, hoarseness of the voice, and
 occasionally sickness and diarrhoea, are the chief local phenomena of
@@ -40,8 +40,8 @@ febrile symptoms, however, showing some tendency to undergo abatement
 after the second day. On the fourth or fifth day after the invasion,
 sometimes later, rarely earlier, the characteristic eruption appears on
 the skin, being first noticed on the brow, cheeks, chin, also behind the
-ears, and on the neck. It consists of small spots of a dusky red or
-crimson colour, just like flea-bites, slightly elevated above the
+[[Ear|ears]], and on the neck. It consists of small spots of a dusky red or
+[[Crimson|crimson]] colour, just like flea-bites, slightly elevated above the
 surface, at first isolated, but tending to become grouped into patches
 of irregular, occasionally crescentic, outline, with portions of skin
 free from the eruption intervening. The face acquires a swollen and
@@ -55,7 +55,7 @@ the order in which it first showed itself, namely from above downwards.
 By the end of about a week after its first appearance scarcely any trace
 of the eruption remains beyond a faint staining of the skin. Usually
 during convalescence slight peeling of the epidermis takes place, but
-much less distinctly than is the case in scarlet fever. At the
+much less distinctly than is the case in scarlet [[Fever|fever]]. At the
 commencement of the eruptive stage the fever, catarrh, and other
 constitutional disturbance, which were present from the beginning,
 become aggravated, the temperature often rising to 105° or more, and
@@ -69,10 +69,10 @@ feeling perfectly well even before the rash has faded from the skin.
 
 Measles may, however, occur in a very malignant form, in which the
 symptoms throughout are of urgent character, the rash but feebly
-developed, and of dark purple hue, while there is great prostration,
+developed, and of dark purple [[Hue|hue]], while there is great prostration,
 accompanied with intense catarrh of the respiratory or gastro-intestinal
 mucous membrane. Such cases are rare, occurring mostly in circumstances
-of bad hygiene, both as regards the individual and his surroundings. On
+of bad [[Hygiene|hygiene]], both as regards the individual and his surroundings. On
 the other hand, cases of measles are often of so mild a form throughout
 that the patient can scarcely be persuaded to submit to treatment.
 
@@ -84,7 +84,7 @@ and in very young and delicate children. It has been already stated that
 irritation of the respiratory passages is one of the symptoms
 characteristic of measles, but that this subsides with the decline of
 the eruption. Not unfrequently, however, these symptoms, instead of
-abating, become aggravated, and bronchitis of the capillary form (see
+abating, become aggravated, and [[Bronchitis|bronchitis]] of the capillary form (see
 BRONCHITIS), or pneumonia, generally of the diffuse or lobular variety
 (see PNEUMONIA), supervene. By far the greater proportion of the
 mortality in measles is due to its complications, of which those just
@@ -92,7 +92,7 @@ mentioned are the most common, but which also include inflammatory
 affections of the larynx, with attacks resembling croup, and also
 diarrhoea assuming a dysenteric character. Or there may remain as direct
 results of the disease chronic ophthalmia, or discharge from the ears
-with deafness, and occasionally a form of gangrene affecting the tissues
+with deafness, and occasionally a form of [[Gangrene|gangrene]] affecting the tissues
 of the mouth or cheeks and other parts of the body, leading to
 disfigurement and gravely endangering life.
 
@@ -110,7 +110,7 @@ attending evils may by proper management be averted.
 
 Measles is a disease of the earlier years of childhood. Like other
 infectious maladies, it is admittedly rare, though not unknown, in
-nurslings or infants under six months old. It is comparatively seldom
+nurslings or [[Infant|infants]] under six months old. It is comparatively seldom
 met with in adults, but this is due to the fact that most persons have
 undergone an attack in early life. Where this has not been the case, the
 old suffer equally with the young. All races of men appear liable to
@@ -122,7 +122,7 @@ disease extends with great rapidity and virulence. This was shown by the
 epidemic in the Faroe Islands in 1846, where, within six months after
 the arrival of a single case of measles, more than three-fourths of the
 entire population were attacked and many perished; and the similarly
-produced and still more destructive outbreak in Fiji in 1875, in which
+produced and still more destructive outbreak in [[Fiji]] in 1875, in which
 it was estimated that about one-fourth of the inhabitants died from the
 disease in about three months. In both these cases the great mortality
 was due to the complications of the malady, specially induced by
@@ -146,7 +146,7 @@ difficulty of timely isolation, and the readiness with which the disease
 is spread in schools and families. The contagion is present in the skin
 and the various secretions. While the contagion is generally direct, it
 can also be conveyed by the particles from the nose and mouth which,
-after being expelled, become dry and are conveyed as dust on clothes,
+after being expelled, become dry and are conveyed as [[Dust|dust]] on clothes,
 toys, &c. Fortunately the germs of measles do not retain their virulence
 long under such conditions, comparing favourably with those of some
 other diseases.

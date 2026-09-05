@@ -7,7 +7,7 @@ rectangle, the base of the triangle coinciding with the long side of the
 rectangle. The two sides of the triangle form the "faces" of the
 bastion, which join at the "salient" angle, the short sides of the
 rectangle form the "flanks." Bastions were arranged so that the fire
-from the flanks of each protected not only the front of the curtain but
+from the flanks of each protected not only the front of the [[Curtain|curtain]] but
 also the faces of the adjacent bastions. A "tower bastion" is a
 case-mated tower built in bastion form; a "demi-bastion" is a work
 formed by half a bastion (bisected through the salient angle) and by a

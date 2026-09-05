@@ -9,10 +9,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Baddeley"
 # Baddeley
 
 BADDELEY, ROBERT (_c._ 1732-1794), English actor, is said to have been
-first a cook to Samuel Foote, "the English Aristophanes," and then a valet,
-before he appeared on the stage. In 1761, described as "of Drury Lane
+first a [[Cook|cook]] to Samuel [[Foote]], "the English Aristophanes," and then a valet,
+before he appeared on the stage. In 1761, described as "of [[Drury]] [[Lane]]
 theatre," he was seen at the theatre in Smock Alley, Dublin, as Gomez in
-Dryden's _Spanish Friar_. Two years later he was a regular member of the
+Dryden's _Spanish [[Friar]]_. Two years later he was a regular member of the
 Drury Lane company in London, where he had a great success in the low
 comedy and servants' parts. He remained at this theatre and the Haymarket
 until his death. He was the original Moses in the _School for Scandal_.

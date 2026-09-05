@@ -17,7 +17,7 @@ one hand "boat" is something more than a mere sound with a purely
 arbitrary conventional significance; on the other it has, apart from
 particular things to which it applies, no reality; its reality is purely
 abstract or conceptual. This theory was enunciated by Abelard in
-opposition to Roscellinus (nominalist) and William of Champeaux
+opposition to Roscellinus (nominalist) and William of [[Champeaux]]
 (realist). He held that it is only by becoming a predicate that the
 class-notion or general term acquires reality. Thus similarity
 (_conformitas_) is observed to exist between a number of objects in

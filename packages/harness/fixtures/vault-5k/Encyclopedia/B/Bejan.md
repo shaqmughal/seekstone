@@ -20,7 +20,7 @@ Paris. In the German and Austrian universities the freshman was called
 _beanus_. In Germany the freshman was anciently called a _Pennal_ (from
 Med. Lat. _pennale_, a box for pens), in allusion to the fact that the
 newly-arrived student had to carry such for the older pupils. Afterwards
-_Fuchs_ (fox) was substituted for _Pennal_, and then _Goldfuchs_ because
+_[[Fuchs]]_ (fox) was substituted for _Pennal_, and then _Goldfuchs_ because
 he is supposed still to have a few gold coins from home.
 
 ## See also

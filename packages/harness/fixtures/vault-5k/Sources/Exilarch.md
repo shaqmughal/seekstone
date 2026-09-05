@@ -2,7 +2,7 @@
 
 EXILARCH, in Jewish history, "Chief or Prince of the Captivity." The
 Jews of Babylonia, after the fall of the first temple, were termed by
-Jeremiah and Ezekiel the people of the "Exile." Hence the head of the
+Jeremiah and [[Ezekiel]] the people of the "Exile." Hence the head of the
 Babylonian Jews was the exilarch (in Aramaic _Resh Galutha_). The office
 was hereditary and carried with it considerable power. Some traditions
 regarded the last king of Davidic descent (Jehoiachin) as the first
@@ -19,11 +19,11 @@ of the office was renewed and its political position made secure"
 whose contest with Seadiah (q.v.) had momentous consequences. Hezekiah
 (c. 1040) was the last Babylonian exilarch, though the title left its
 traces in later ages. Benjamin of Tudela (_Itinerary_, p. 61) names an
-exilarch Daniel b. Hisdai in the 12th century. Petahiah (_Travels_, p.
+exilarch [[Daniel]] b. Hisdai in the 12th century. Petahiah (_Travels_, p.
 17) records that this Daniel's nephew succeeded to the office jointly
 with a R. Samuel. The latter, according to Petahiah, had a learned
 daughter who "gave instruction, through a window, remaining in the house
-while the disciples were below, unable to see her."
+while the [[Disciple|disciples]] were below, unable to see her."
 
 Our chief knowledge of the position and function of the exilarch
 concerns the period beginning with the Arabic rule in Persia. In the age
@@ -31,7 +31,7 @@ succeeding the Mahommedan conquest the exilarch was noted for the
 stately retinue that accompanied him, the luxurious banquets given at
 his abode, and the courtly etiquette that prevailed there. A brilliant
 account has come down of the ceremonies at the installation of a new
-exilarch. Homage was paid to him by the rabbinical heads of the colleges
+exilarch. [[Homage]] was paid to him by the rabbinical heads of the colleges
 (each of whom was called Gaon, q.v.); rich gifts were presented; he
 visited the synagogue in state, where a costly canopy had been erected
 over his seat. The exilarch then delivered a discourse, and in the

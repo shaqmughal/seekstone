@@ -1,7 +1,7 @@
 # Havelberg
 
 HAVELBERG, a town of Germany, in the Prussian province of Brandenburg,
-on the Havel and the railway Glowen-Havelberg. Pop. (1905), 5988. The
+on the [[Havel]] and the railway Glowen-Havelberg. Pop. (1905), 5988. The
 town is built partly on an island in the Havel, and partly on hills on
 the right bank of the river, on one of which stands the fine Romanesque
 cathedral dating from the 12th century. The two parts, which are

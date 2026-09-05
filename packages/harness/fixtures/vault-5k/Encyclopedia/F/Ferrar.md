@@ -18,7 +18,7 @@ St Oswald's at Nostell near Pontefract. At the dissolution he
 surrendered his priory without compunction to the crown, and received a
 liberal pension. For the rest of Henry's reign his career is obscure;
 perhaps he fled abroad on the enactment of the Six Articles. He
-certainly married, and is said to have been made Cranmer's chaplain, and
+certainly married, and is said to have been made Cranmer's [[Chaplain|chaplain]], and
 bishop of Sodor and Man; but he was never consecrated to that see.
 
 After the accession of Edward VI., Ferrar was, probably through the
@@ -33,7 +33,7 @@ altars. At St David's he had trouble at once with his singularly
 turbulent chapter, who, finding that he was out of favour at court since
 Somerset's fall in 1549, brought a long list of fantastic charges
 against him. He had taught his child to whistle, dined with his
-servants, talked of "worldly things such as baking, brewing, enclosing,
+servants, talked of "worldly things such as [[Baking|baking]], brewing, enclosing,
 ploughing and mining," preferred walking to riding, and denounced the
 debasement of the coinage. He seems to have been a kindly, homely,
 somewhat feckless person like many an excellent parish priest, who did
@@ -50,7 +50,7 @@ his diocese.
 Imprisonment on such a charge under Northumberland might have been
 expected to lead to liberation under Mary. But Ferrar had been a monk
 and was married. Even so, it is difficult to see on what legal ground he
-was kept in the queen's bench prison after July 1553; for Mary herself
+was kept in the queen's [[Bench|bench]] prison after July 1553; for Mary herself
 was repudiating the royal authority in religion. Ferrar's marriage
 accounts for the loss of his bishopric in March 1554, and his opinions
 for his further punishment. As soon as the heresy laws and
@@ -60,7 +60,7 @@ Morgan, his successor in the bishopric of St David's. He appealed from
 Morgan's sentence to Pole as papal legate, but in vain, and was burnt at
 Caermarthen on the 30th of March 1555. It was perhaps the most wanton of
 all Mary's acts of persecution; Ferrar had been no such protagonist of
-the Reformation as Cranmer, Ridley, Hooper and Latimer; he had had
+the Reformation as Cranmer, Ridley, [[Hooper]] and Latimer; he had had
 nothing to do with Northumberland's or Wyatt's conspiracy. He had taken
 no part in politics, and, so far as is known, had not said a word or
 raised a hand against Mary. He was burnt simply because he could not
@@ -70,7 +70,7 @@ persecuted heretics because and when they were traitors.
 
   See _Dictionary of National Biography_, xviii. 380-382, and
   authorities there cited. Also Acts of the Privy Council (1550-1554);
-  H.A.L. Fisher, _Political History of England_, vol. vi.     (A. F. P.)
+  H.A.L. Fisher, _[[Political History]] of England_, vol. vi.     (A. F. P.)
 
 ## See also
 

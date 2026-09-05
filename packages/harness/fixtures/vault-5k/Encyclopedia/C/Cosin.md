@@ -2,16 +2,16 @@
 
 COSIN, JOHN (1594-1672), English divine, was born at Norwich on the 30th
 of November 1594. He was educated at Norwich grammar school and at Caius
-College, Cambridge, where he was scholar and afterwards fellow. On
+College, Cambridge, where he was scholar and afterwards [[Fellow|fellow]]. On
 taking orders he was appointed secretary to Bishop Overall of Lichfield,
-and then domestic chaplain to Bishop Neile of Durham. In December 1624
-he was made a prebendary of Durham, and in the following year archdeacon
+and then domestic [[Chaplain|chaplain]] to Bishop Neile of Durham. In December 1624
+he was made a prebendary of Durham, and in the following year [[Archdeacon|archdeacon]]
 of the East Riding of Yorkshire. In 1628 he took his degree of D.D. He
 first became known as an author in 1627, when he published his
-_Collection of Private Devotions_, a manual stated to have been prepared
+_Collection of Private Devotions_, a [[Manual|manual]] stated to have been prepared
 by command of Charles I., for the use of the queen's maids of honour.[1]
 This book, together with his insistence on points of ritual in his
-cathedral church and his friendship with Laud, exposed him to the
+cathedral church and his friendship with [[Laud]], exposed him to the
 suspicions and hostility of the Puritans; and the book was rudely
 handled by William Prynne and Henry Burton. In 1628 Cosin took part in
 the prosecution of a brother prebendary, Peter Smart, for a sermon
@@ -43,13 +43,13 @@ Cosin occupies an interesting and peculiar position among the churchmen
 of his time. Though a ritualist and a rigorous enforcer of outward
 conformity, he was uncompromisingly hostile to Roman Catholicism, and
 most of his writings illustrate this antagonism. In France he was on
-friendly terms with Huguenots, justifying himself on the ground that
+friendly terms with [[Huguenots]], justifying himself on the ground that
 their non-episcopal ordination had not been of their own seeking, and at
 the Savoy conference in 1661 he tried hard to effect a reconciliation
 with the Presbyterians. He differed from the majority of his colleagues
 in his strict attitude towards Sunday observance and in favouring, in
 the case of adultery, both divorce and the re-marriage of the innocent
-party. He was a genial companion, frank and outspoken, and a good man of
+party. He was a genial companion, [[Frank|frank]] and outspoken, and a good man of
 business.
 
   Among his writings (most of which were published posthumously) are a

@@ -9,11 +9,11 @@ type: note
 
 FABRIANO, a town of the Marches, Italy, in the province of Ancona, from
 which it is 44 m. S.W. by rail, 1066 ft. above sea-level. Pop. (1901)
-town 9586, commune 22,996. It has been noted since the 13th century for
+town 9586, [[Commune|commune]] 22,996. It has been noted since the 13th century for
 its paper mills, which still produce the best paper in Italy. A school
 of painting arose here, one of the early masters of which is Allegretto
 Nuzi (1308-1385); and several of the churches contain works by him and
-other local masters. His pupil, Gentile da Fabriano (1370-1428), was a
+other local masters. His pupil, [[Gentile Da Fabriano|Gentile da Fabriano]] (1370-1428), was a
 painter of considerably greater skill and wider knowledge; but there are
 no important works of his at Fabriano. The sacristy of S. Agostino also
 contains some good frescoes by Ottaviano Nelli of Gubbio. The municipal

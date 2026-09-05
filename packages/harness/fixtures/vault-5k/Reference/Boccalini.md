@@ -7,7 +7,7 @@ Pursuing his studies at Rome, he had the honour of teaching Bentivoglio,
 and acquired the friendship of the cardinals Gaetano and Borghesi, as
 well as of other distinguished personages. By their influence he
 obtained various posts, and was even appointed by Gregory XIII. governor
-of Benevento in the states of the church. Here, however, he seems to
+of [[Benevento]] in the states of the church. Here, however, he seems to
 have acted imprudently, and he was soon recalled to Rome, where he
 shortly afterwards composed his most important work, the _Ragguagli di
 Parnaso_, in which Apollo is represented as receiving the complaints of
@@ -18,7 +18,7 @@ some of its happier hits are among the hackneyed felicities of
 literature. To escape, it is said, from the hostility of those whom his
 shafts had wounded, he returned to Venice, and there, according to the
 register in the parochial church of Sta Maria Formosa, died of colic,
-accompanied with fever, on the 16th of November 1613. It was asserted,
+accompanied with [[Fever|fever]], on the 16th of November 1613. It was asserted,
 indeed, by contemporary writers that he had been beaten to death with
 sand-bags by a band of Spanish bravadoes, but the story seems without
 foundation. At the same time, it is evident from the _Pietra del
@@ -33,7 +33,7 @@ to have had a special affection.
   English and Latin; the English translator was Henry, earl of Monmouth,
   his version being entitled _The Politicke Touchstone_ (London, 1674).
   Another posthumous publication of Boccalini was his _Commentarii sopra
-  Cornelia Tacito_ (Geneva, 1669). Many of his manuscripts are preserved
+  Cornelia Tacito_ ([[Geneva]], 1669). Many of his [[Manuscript|manuscripts]] are preserved
   still unprinted.
 
 ## See also

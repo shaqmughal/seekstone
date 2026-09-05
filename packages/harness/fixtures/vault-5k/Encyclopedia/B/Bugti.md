@@ -2,7 +2,7 @@
 
 BUGTI, a Baluch tribe of Rind (Arab) origin, numbering about 15,500, who
 occupy the hills to the east of the Sind-Peshin railway, between Jacobabad
-and Sibi, with the Marris (a cognate tribe) to the north of them. Like the
+and Sibi, with the [[Marri|Marris]] (a cognate tribe) to the north of them. Like the
 Marris, the Bugtis are physically a magnificent race of people, fine
 horsemen, good swordsmen and hereditary robbers. An expedition against them
 was organized by Sir C. Napier in 1845, but they were never brought under

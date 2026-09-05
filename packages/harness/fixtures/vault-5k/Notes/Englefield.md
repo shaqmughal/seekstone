@@ -11,7 +11,7 @@ dissolution of the monasteries; and he acquiesced in these measures to
 the extent of taking the oath of royal supremacy, serving as sheriff of
 Berkshire and Oxfordshire in 1546-1547, and accepting in 1545 a grant of
 the manor of Tilehurst, which had belonged to Reading Abbey. He was even
-knighted at the coronation of Edward VI. in February 1547. But the
+knighted at the [[Coronation|coronation]] of Edward VI. in February 1547. But the
 progress of the Reformation during that reign alienated him, and he
 attached his fortunes to the cause of the princess Mary, whose service
 he entered before 1551. In August of that year he was sent to the Tower
@@ -49,7 +49,7 @@ lived first at Rome, then in the Low Countries, and finally at
 Valladolid. He was blind for the last twenty years of his life, and
 received a pension of six hundred crowns from Philip. He had been
 outlawed in 1564 and his estates sequestered, but they were not
-forfeited until 1585, when an act of attainder was passed against
+forfeited until 1585, when an act of [[Attainder|attainder]] was passed against
 Englefield. Even then some legal difficulties stood in the way of their
 appropriation by the crown, for Englefield, obviously with an eye to
 this contingency, had conditionally settled them on his nephew Francis.

@@ -2,8 +2,8 @@
 
 CITTERN (also CITHERN, CITHRON, CYTHREN, CITHAREN, &c.; Fr. _citre,
 cistre, cithre, guitare allemande_ or _anglaise_; Ger. _Cither_, Zither
-(_mit Hals_, with neck); Ital. _cetera, cetra_), a medieval stringed
-instrument with a neck terminating in a grotesque and twanged by fingers
+(_mit [[Hals]]_, with neck); Ital. _cetera, cetra_), a medieval stringed
+instrument with a neck terminating in a [[Grotesque|grotesque]] and twanged by [[Finger|fingers]]
 or plectrum. The popularity of the cittern was at its height in England
 and Germany during the 16th and 17th centuries. The cittern consisted of
 a pear-shaped body similar to that of the lute but with a flat back and
@@ -23,13 +23,13 @@ According to Vincentio Galilei (the father of the great astronomer)
 England was the birthplace of the cittern.[2] Several lesson books for
 this popular instrument were published during the 17th century in
 England. A very rare book (of which the British Museum does not possess
-a copy), _The Cittharn Schoole_, written by Anthony Holborne in 1597, is
-mentioned in Sir P. Leycester's manuscript commonplace book[3] dated
+a copy), _The Cittharn Schoole_, written by [[Anthony]] Holborne in 1597, is
+mentioned in Sir P. Leycester's [[Manuscript|manuscript]] [[Commonplace|commonplace]] book[3] dated
 1656, "For the little Instrument called a _Psittyrne_ Anthony Holborne
 and Tho. Robinson were most famous of any before them and have both of
 them set out a booke of Lessons for this Instrument. Holborne has
 composed a Basse-parte for the Viole to play unto the Psittyrne with
-those Lessons set out in his booke. These lived about Anno Domini 1600."
+those Lessons set out in his booke. These lived about [[Anno]] Domini 1600."
 Thomas Robinson's _New Citharen Lessons with perfect tunings for the
 same from Foure course of strings to Fourteene course_, &c. (printed
 London, 1609, by William Barley), contains illustrations of both kinds
@@ -49,9 +49,9 @@ which it might be mastered and used to accompany the voice; it was one
 of four instruments generally found in barbers' shops, the others being
 the gittern, the lute and the virginals. The customers while waiting
 took down the instrument from its peg and played a merry tune to pass
-the time.[4] We read that when Konstantijn Huygens came over to England
+the time.[4] We read that when Konstantijn [[Huygens]] came over to England
 and was received by James I. at Bagshot, he played to the king on the
-cittern (cithara), and that his performance was duly appreciated and
+cittern ([[Cithara|cithara]]), and that his performance was duly appreciated and
 applauded. He tells us that, although he learnt to play the barbiton in
 a few weeks with skill, he had lessons from a master for two years on
 the cittern.[5] On the occasion of a third visit he witnessed the
@@ -69,7 +69,7 @@ an illustration (sounded an octave higher than the notation).
 
 [Illustration: Italian 6 course]
 
-During the 18th century the cittern, citra or English guitar, had twelve
+During the 18th century the cittern, citra or English [[Guitar|guitar]], had twelve
 wire strings in six pairs of unisons tuned thus:
 
 [Illustration]
@@ -77,14 +77,14 @@ wire strings in six pairs of unisons tuned thus:
 The introduction of the Spanish guitar, which at once leapt into favour,
 gradually displaced the English variety. The Spanish guitar had gut
 strings twanged by the fingers. The last development of the cittern
-before its disappearance was the addition of keys. The keyed cithara[7]
+before its disappearance was the addition of [[Key|keys]]. The keyed cithara[7]
 was first made by Claus & Co. of London in 1783. The keys, six in
 number, were placed on the left of the sound-board, and on being
 depressed they acted on hammers inside the sound-chest, which rising
 through the rose sound-hole struck the strings. Sometimes the keys were
-placed in a little box right over the strings, the hammers striking from
+placed in a little [[Box|box]] right over the strings, the hammers striking from
 above. M.J.B. Vuillaume of Paris possessed an Italian cetera (not keyed)
-by Antoine Stradivarius,[8] 1700 (now in the Museum of the
+by [[Antoine]] Stradivarius,[8] 1700 (now in the Museum of the
 Conservatoire, Paris), with twelve strings tuned in pairs of unisons to
 E, D, G, B, C, A, which was exhibited in London in 1871.
 
@@ -112,7 +112,7 @@ kithara (see CITHARA).
     Spanish Guitar                 Ghittern
 
 The cittern has retained the following characteristics of the archetype.
-(1) The derivation of the name, which after the introduction of the bow
+(1) The derivation of the name, which after the introduction of the [[Bow|bow]]
 was used to characterize various instruments whose strings were twanged
 by fingers or plectrum, such as the harp and the rotta (both known as
 _cithara_), the citola and the zither. In an interlinear Latin and
@@ -144,14 +144,14 @@ representations of the pear-shaped instrument abound in miniatures and
 carvings.[10]
 
   A very clearly drawn cittern of the 14th century occurs in a MS.
-  treatise on astronomy (Sloane MS. 3983, Brit. Mus.) translated from
+  treatise on [[Astronomy|astronomy]] (Sloane MS. 3983, Brit. Mus.) translated from
   the Persian of Albumazar into Latin by Georgius Zothari Zopari
   Fenduli, priest and philosopher, with a prologue and numerous
   illustrations by his own hand; the cittern is here called _giga_ in an
   inscription at the side of the drawing.
 
   References to the cittern are plentiful in the literature of the 16th
-  and 17th centuries. Robert Fludd[11] describes it thus: "Cistrona quae
+  and 17th centuries. Robert [[Fludd]][11] describes it thus: "Cistrona quae
   quatuor tantum chordas duplicatas habet easque cupreas et ferreas de
   quibus aliquid dicemus quo loco." Others are given in the _New English
   Dictionary_, "Cittern," and in Godefroy's _Dict. de l'anc. langue
@@ -162,7 +162,7 @@ FOOTNOTES:
 
   [1] See Shakespeare, _Love's Labour's Lost_, act v. sc. 2, where
     Boyet compares the countenance of Holofernes to a cittern head; John
-    Forde, _Lovers' Melancholy_ (1629), act ii. sc. 1, "Barbers shall
+    Forde, _Lovers' Melancholy_ (1629), act ii. sc. 1, "[[Barber|Barbers]] shall
     wear thee on their citterns."
 
   [2] _Dialogo della musica_ (Florence, 1581), p. 147.
@@ -172,7 +172,7 @@ FOOTNOTES:
     mentioned in his _Bibliotheca Madrigaliana_. The descriptive list of
     the musical instruments in use in England during Leycester's
     lifetime (about 1656) has been extracted and published by Dr F.J.
-    Furnivall, in _Captain Cox, his Ballads and Books, or Robert
+    Furnivall, in _Captain [[Cox]], his Ballads and Books, or Robert
     Laneham's Letter_ (1575), (London, 1871), pp. 65-68.
 
   [4] See Knight's _London_, i. 142.
@@ -185,7 +185,7 @@ FOOTNOTES:
     universelle_ (Paris, 1636), livre ii. prop. xv., who gives different
     accordances.
 
-  [7] See Carl Engel, _Catalogue_ of the Exhibition of Ancient Musical
+  [7] See Carl [[Engel]], _[[Catalogue]]_ of the Exhibition of Ancient Musical
     Instruments (London, 1872), Nos. 289 and 290.
 
   [8] See note above. Illustration in A.J. Hipkins, _Musical Instruments;
@@ -200,16 +200,16 @@ FOOTNOTES:
 
   [10] An oval cittern and a ghittern, side by side, occur in the
     beautiful 13th-century Spanish MS. known as _Cantigas de Santa
-    Maria_ in the Escorial. For a fine facsimile in colours see marquis
+    Maria_ in the Escorial. For a fine facsimile in [[Colours|colours]] see marquis
     de Valmar, _Real. Acad. Esq._, publ. by L. Aguado (Madrid, 1889).
     Reproductions in black and white in Juan F. Riaño, _Critical and
     Bibliog. Notes on Early Spanish Music_ (London, 1887). See also K.
     Schlesinger, op. cit. fig. 167, p. 223, also boat-shaped citterns,
     figs. 155 and 156, p. 197. Cittern with woman's head, 15th century,
     on one of six bas-reliefs on the under parts of the seats of the
-    choir of the Priory church, Great Malvern, reproduced in J. Carter's
+    [[Choir|choir]] of the Priory church, Great [[Malvern]], reproduced in J. Carter's
     _Ancient Sculptures_, &c., vol. ii. pl. following p. 12. Another
-    without a head, ibid. pl. following p. 16, from a brass monumental
+    without a head, ibid. pl. following p. 16, from a [[Brass|brass]] monumental
     plate in St Margaret's, King's Lynn.
 
   [11] _Historia utriusque Cosmi_ (Oppenheim, ed. 1617) i. 226.

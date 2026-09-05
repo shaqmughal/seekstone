@@ -152,7 +152,7 @@ the Syrian claim. But all that we can safely say as to locality is that
 the community here represented seems to have been isolated, and out of
 touch with the larger centres of Christian life.
 
-This last consideration helps us in discussing the question of date. For
+This last consideration [[Helps|helps]] us in discussing the question of date. For
 such an isolated community may have preserved primitive customs for some
 time after they had generally disappeared. Certainly the stage of
 development is an early one, as is shown, e.g., by the prominence of

@@ -10,7 +10,7 @@ tags: [chemistry, history-studies]
 
 ELVAS, an episcopal city and frontier fortress of Portugal, in the
 district of Portalegre and formerly included in the province of
-Alemtejo; 170 m. E. of Lisbon, and 10 m. W. of the Spanish fortress of
+Alemtejo; 170 m. E. of [[Lisbon]], and 10 m. W. of the Spanish fortress of
 Badajoz, by the Madrid-Badajoz-Lisbon railway. Pop. (1900) 13,981. Elvas
 is finely situated on a hill 5 m. N.W. of the river Guadiana. It is
 defended by seven bastions and the two forts of Santa Luzia and Nossa
@@ -24,7 +24,7 @@ fertile, and Elvas is celebrated for its excellent olives and plums, the
 last-named being exported, either fresh or dried, in large quantities.
 Brandy is distilled and pottery manufactured in the city. The fortress
 of Campo Maior, 10 m. N.E., is famous for its siege by the French and
-relief by the British under Marshal Beresford in 1811--an exploit
+relief by the British under Marshal [[Beresford]] in 1811--an exploit
 commemorated in a ballad by Sir Walter Scott.
 
 Elvas is the Roman _Alpesa_ or _Helvas_, the Moorish _Balesh_, the

@@ -33,7 +33,7 @@ acres, but were found insufficient for the growing traffic of the port,
 and in 1906 the construction of a large new dock, of about 40 acres'
 area and 30 to 35 ft. depth, was undertaken by the Great Central Company
 at Immingham, 5 m. above Grimsby on the Humber. The principal imports
-are butter, woollens, timber, cereals, eggs, glass, cottons, preserved
+are butter, woollens, timber, cereals, [[Egg|eggs]], glass, cottons, preserved
 meat, wool, sugar and bacon. The exports consist chiefly of woollen
 yarn, woollens, cotton goods, cotton yarn, machinery, &c. and coal. It
 is as a fishing port, however, that Grimsby is chiefly famous. Two of
@@ -49,7 +49,7 @@ municipal borough is under a mayor, 12 aldermen and 36 councillors.
 Area, 2852 acres.
 
 Grimsby (_Grimesbi_) is supposed to have been the landing-place of the
-Danes on their first invasion of Britain towards the close of the 8th
+[[Dan|Danes]] on their first invasion of Britain towards the close of the 8th
 century. It was a borough by prescription as early as 1201, in which
 year King John granted the burgesses a charter of liberties according to
 the custom of the burgesses of Northampton. Henry III. in 1227 granted

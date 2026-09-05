@@ -3,7 +3,7 @@
 BARBOUR, JOHN (? 1316-1395), Scottish poet, was born, perhaps in
 Aberdeenshire, early in the 14th century, approximately 1316. In a letter
 of safe-conduct dated 1357, allowing him to go to Oxford for study, he is
-described as archdeacon of Aberdeen. He is named in a similar letter in
+described as [[Archdeacon|archdeacon]] of Aberdeen. He is named in a similar letter in
 1364 and in another in 1368 granting him permission to pass to France,
 probably for further study, at the university of Paris. In 1372 he was one
 of the auditors of exchequer, and in 1373 a clerk of audit in the king's
@@ -33,7 +33,7 @@ battle of Bannockburn. Patriotic as the sentiment is, it is in more general
 terms than is found in later Scots literature. The king is a hero of the
 chivalric type common in contemporary romance; freedom is a "noble thing"
 to be sought and won at all costs; the opponents of such freedom are shown
-in the dark colours which history and poetic propriety require; but there
+in the dark [[Colours|colours]] which history and poetic propriety require; but there
 is none of the complacency of the merely provincial habit of mind. The
 lines do not lack vigour; and there are passages of high merit, notably the
 oft-quoted section beginning "A! fredome is a noble thing." Despite a
@@ -60,7 +60,7 @@ same and in MS. Douce 148 in the Bodleian library, Oxford. This ascription
 was first made by Henry Bradshaw, the librarian of Cambridge University;
 but the consensus of critical opinion is now against it. Though it were
 proved that these Troy fragments are Barbour's, there remains the question
-whether their identification with the book on the Stewart line is
+whether their [[Identification|identification]] with the book on the Stewart line is
 justified. The scale of the story in these fragments forces us to doubt
 this identification. They contain 595 + 3118 = 3713 lines and are concerned
 entirely with "Trojan" matters. This would be an undue allowance in a
@@ -75,7 +75,7 @@ and the facts that the lives of English saints are excluded and those of St
 Machar (the patron saint of Aberdeen) and St Ninian are inserted, made the
 ascription plausible. Later criticism, though divided, has tended in the
 contrary direction, and has based its strongest negative judgment on the
-consideration of rhymes, assonance and vocabulary (see bibliography). That
+consideration of rhymes, [[Assonance|assonance]] and vocabulary (see bibliography). That
 the "district" of the author is the north-east of Scotland cannot be
 doubted in the face of a passage such as this, in the fortieth legend (St
 Ninian), 11, 1359 et seq.

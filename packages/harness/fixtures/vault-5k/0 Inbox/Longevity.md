@@ -19,13 +19,13 @@ as otherwise the problem will be confused by arguments as to the meaning
 of biological individuality.
 
 _Empirical Data._--A multitude of observations show that only a very
-brief life, ranging from a few hours to a few days, is the normal fate
+brief life, ranging from a few hours to a few days, is the normal [[Fate|fate]]
 of the vast majority of single-celled organisms, whether these be animal
 or vegetable or on the border-line between the two kingdoms. Death comes
 to them rapidly from internal or external causes, or the individual life
 ends in conjugation or division or spore-formation. Under special
 conditions, natural or artificial, the individual life may be prolonged
-by desiccation, or freezing, or by some similar arrest of functional
+by [[Desiccation|desiccation]], or freezing, or by some similar arrest of functional
 activity.
 
 The duration of life among plants is varied. The popular division into
@@ -36,20 +36,20 @@ by the mode of growth, and the problem of individuality, however we
 desire to exclude it, obtrudes itself. In the vast majority of cases
 where a plant is obviously a simple individual, its life is short,
 ranging from a few days in the case of fungi, to two seasons in the case
-of biennial herbs. Most of the simple algae are annual, their life
+of biennial [[Herb|herbs]]. Most of the simple algae are annual, their life
 enduring only for part of the year; the branching algae are more often
 perennial, but in their cases not only are observations as to duration
 lacking, but however simply we may use the term individual, its
 application is difficult. The larger terrestrial plants with woody
 tissues which we denote roughly as shrubs and trees have an
-individuality which, although different from that of a hyacinth or
+individuality which, although different from that of a [[Hyacinth|hyacinth]] or
 carrot, is usually obvious. Shrubs live from four to ten or more years,
 and it apparently is the case that odoriferous shrubs such as sage and
 lavender display the longer duration. Trees with soft wood, such as
 poplars and willows, last for about fifty years, fruit-trees rather
 longer. Estimates of the age which large trees can attain, based partly
 on attempts to count the annual rings, have been given by many writers,
-and range from about three hundred years in the case of the elm to three
+and range from about three hundred years in the case of the [[Elm|elm]] to three
 to five thousand years in the case of _Sequoia gigantea_ of California,
 and over five thousand years in that of the baobab (_Adansonia
 digitata_) of Cape Verde. It is impossible to place exact reliance on
@@ -60,8 +60,8 @@ animals.
 The duration of life amongst multicellular invertebrate animals is
 little known, except in the frequent instances where it is normally
 brief. Many sponges and polyps die at the end of the season, leaving
-winter eggs or buds. The much-branched masses of the larger sponges and
-compound hydrozoa certainly may be perennial. A sea-anemone (_Actinia
+winter [[Egg|eggs]] or buds. The much-branched masses of the larger sponges and
+[[Compound|compound]] [[Hydrozoa|hydrozoa]] certainly may be perennial. A sea-anemone (_Actinia
 mesembryanthemum_), captured in 1828 by Sir John Dalyell, a Scottish
 naturalist, and then guessed to be about seven years old, lived in
 captivity in Edinburgh until 1887, the cause of death being unknown. As
@@ -75,7 +75,7 @@ known to have very short lives. The variation in the length of life of
 molluscs appears to be great. Many species of gastropods live only a few
 years; others, such as _Natica heros_, have reached thirty years, whilst
 the large _Tridacna gigas_ is stated to live from sixty to a hundred
-years. Among insects, the adult stage has usually only a very short
+years. Among [[Insect|insects]], the adult stage has usually only a very short
 duration of life, extending from a few hours to a few months, but the
 larval stages may last much longer. Including these latter, the range of
 duration among insects, taking the whole life from hatching to death,
@@ -84,7 +84,7 @@ plant-lice to seventeen years in the case of the American _Cicada
 septemdecim_, the larva of which lives seventeen years, the adult only a
 month. Most butterflies are annuals, but those which fail to copulate
 may hibernate and live through a second season, whilst the lives of some
-have been preserved artificially for seven years. Worker bees and drones
+have been preserved artificially for seven years. Worker [[Bee|bees]] and drones
 do not survive the season, but queens may live from two to five years.
 In the case of vertebrates, the duration of life appears to be greater
 among fish and reptiles than among birds and mammals. The ancient Romans
@@ -106,7 +106,7 @@ have been recorded as living over twelve years, and toads up to
 thirty-six years.
 
 Almost nothing is known as to the longevity of snakes and lizards, but
-it is probable that no great ages are reached. Crocodiles, alligators
+it is probable that no great ages are reached. [[Crocodile|Crocodiles]], alligators
 and caymans grow slowly and are believed to live very long. There is
 exact evidence as to alligators in captivity in Europe reaching forty
 years without signs of senescence, and some of the sacred crocodiles of
@@ -122,9 +122,9 @@ H. Gurney. From his lists, which include more than fifty species, it
 appears that the duration is least in the case of small passerine and
 picarian birds, where it ranges from eight or nine years (goat-suckers
 and swifts) to a maximum of twenty-five years, the latter age having
-been approached by larks, canaries and goldfinch. Gulls have been
+been approached by [[Lark|larks]], canaries and goldfinch. [[Gull|Gulls]] have been
 recorded as living over forty years, ducks and geese over fifty years
-(the duchess of Bedford has recorded the case of a Chinese goose having
+(the duchess of [[Bedford]] has recorded the case of a Chinese [[Goose|goose]] having
 been in possession of the same family for fifty-seven years). Parrots
 frequently live over eighty years, swans nearly as long, ravens and owls
 rather less, whilst there is excellent evidence of eagles and falcons
@@ -153,14 +153,14 @@ of life in the case of horses, asses and zebras is from fifteen to
 thirty years, but instances of individuals reaching fifty years are
 fairly well authenticated. Domestic cattle may live from twenty-five to
 thirty years, sheep and goats from twelve to fourteen years, antelopes
-rather longer, especially in the case of the larger forms. A giraffe has
+rather longer, especially in the case of the larger forms. A [[Giraffe|giraffe]] has
 lived for nineteen years in the London Zoological Gardens. Deer are
 reputed to live longer than sheep, and records of individuals at the
 London Gardens confirm this, but it is doubtful if they live as long as
 cattle. Camels are long-lived, according to repute, but actual records
 show no great age; a llama which died in the London Gardens at the age
 of seventeen years showed unmistakable signs of senility. The
-hippopotamus is another large ungulate to which great longevity has been
+[[Hippopotamus|hippopotamus]] is another large ungulate to which great longevity has been
 assigned, but the longest actual record is the case of a female born in
 the London Gardens which died in its thirty-fifth year. The duration of
 life assigned to domestic swine is about twenty years; an Indian wild
@@ -183,7 +183,7 @@ Zoological Gardens, apparently in good health, a meerkat at least twelve
 years old, a sand-badger fourteen years and a ratel nineteen years of
 age. Records regarding monkeys are unsatisfactory, for these creatures
 are notoriously delicate in captivity, and it is practically certain
-that under such circumstances they rarely die of old age. A grey lemur
+that under such circumstances they rarely die of old age. A grey [[Lemur|lemur]]
 eleven years old and a chimpanzee eleven and a half, both in good health
 in the London Zoological Gardens, appear to be the oldest primates
 definitely recorded. Estimates based on size, condition of the skull and
@@ -252,12 +252,12 @@ ninety to one hundred years; the horse has reached its full size at four
 years of age and may live for a total period of twenty-five to thirty
 years. M. J. P. Flourens attempted to make Buffon's suggestion more
 exact; he took the end of the period of growth as the time at which the
-epiphyses of the long bones united with the bones themselves, and on
+epiphyses of the long [[Bone|bones]] united with the bones themselves, and on
 this basis held that the duration of life was five times the length of
 the period of growth. The theories of Buffon and Flourens, however, do
 not apply to all vertebrates and have no meaning in the case of
 invertebrates. Y. Bunge has suggested that in the case of mammals the
-period taken by the new-born young to double in weight is an index of
+period taken by the new-born young to double in weight is an [[Index|index]] of
 the rapidity of growth and is in a definite relation to the possible
 duration of life. M. Oustalet has discussed the existence of definite
 relations between duration of life and size, rate of growth, period of
@@ -301,7 +301,7 @@ is that duration of life may be prolonged by measures directed against
 intestinal putrefaction.
 
 The process of putrefaction takes place in masses of badly-digested
-food, and may be combated by careful dieting, avoidance of rich foods of
+food, and may be combated by careful dieting, [[Avoidance|avoidance]] of rich foods of
 all kinds and particularly of flesh and alcohol. Putrefaction, however,
 cannot take place except in the presence of a particular group of
 bacteria, the entrance of which to the body can be prevented to a
@@ -400,13 +400,13 @@ life.
 
   REFERENCES.--G. L. L. Buffon, _Histoire naturelle générale et
   particulière_, vol. ii. (Paris, 1749); Y. Bunge, _Archiv. f. die
-  gesammte Physiologie_, vol. xcv. (Bonn, 1903); M. J. P. Flourens, _De
+  gesammte Physiologie_, vol. xcv. ([[Bonn]], 1903); M. J. P. Flourens, _De
   la longévité humaine et de la quantité de vie sur le globe_ (Paris,
   1855); J. H. Gurney, _On the Comparative Ages to which Birds live_,
   _Ibis_, p. 19 (1899); Sir E. Ray Lankester, _Comparative Longevity in
   Man and the Lower Animals_ (London, 1870); E. Metchnikoff, _The
   Prolongation of Life_ (London, 1908); M. Oustalet, _La Nature_, p. 378
-  (1900); A. Weismann, _Essays upon Heredity_ (Oxford, 1889).     (P. C. M.)
+  (1900); A. Weismann, _Essays upon [[Heredity]]_ (Oxford, 1889).     (P. C. M.)
 
 ## References
 

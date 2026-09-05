@@ -4,8 +4,8 @@ MARIA THERESA (1717-1780), archduchess of Austria, queen of Hungary and
 Bohemia, and wife of the Holy Roman emperor Francis I., was born at Vienna
 on the 13th of May 1717. She was the eldest daughter of the Emperor
 Charles VI. (q.v.) and his wife Elizabeth of Brunswick-Wolfenbüttel. On
-the 12th of February 1736 she was married to her cousin Francis of
-Lorraine (q.v.), then grand duke of Tuscany, and afterwards emperor. Five
+the 12th of February 1736 she was married to her [[Cousin|cousin]] Francis of
+[[Lorraine]] (q.v.), then grand duke of Tuscany, and afterwards emperor. Five
 sons and eleven daughters were born of this marriage. From the date of her
 father's death on the 20th of October 1740, till her own death in 1780,
 Maria Theresa was one of the central figures in the wars and politics of
@@ -20,10 +20,10 @@ greatest actress who had ever lived, and he answered "Next to you, Madam."
 Maria Theresa had undoubtedly an instinctive histrionic sense of the
 perspective of the theatre, and could adopt the appropriate attitude and
 gesture, passionate, dignified or pathetic, required to impress those she
-wished to influence. But there was no affectation in her assumption of a
+wished to influence. But there was no affectation in her [[Assumption|assumption]] of a
 becoming bearing or in her picturesque words. The common story, that she
 appeared before the Hungarian magnates in the diet at Pressburg in 1741
-with her infant son, afterwards Joseph II., in her arms, and so worked on
+with her [[Infant|infant]] son, afterwards Joseph II., in her arms, and so worked on
 their feelings that they shouted _Moriamur pro rege nostro Maria
 Theresia_, is only mythically true. But during the delicate negotiations
 which were required to secure the support of the Hungarian nobles she
@@ -42,7 +42,7 @@ her reputation before God and man for respecting the rights of others it
 must not be for a small advantage--if, in fact, Austria was to share in
 the plunder of Poland, she was to be consoled for the distress caused to
 her feelings by the magnitude of her share of the booty. There was no
-hypocrisy in the tears of the empress. Her intellectual honesty was as
+[[Hypocrisy|hypocrisy]] in the tears of the empress. Her intellectual honesty was as
 perfect as Frederick's own, and she was as incapable as he was of
 endeavouring to blind herself to the quality of her own acts. No ruler was
 ever more loyal to a conception of duty. Maria Theresa considered herself
@@ -62,7 +62,7 @@ her to recover Silesia. Here, as later in the case of Poland, she
 subordinated her feelings to her duty to the state. Though she denied that
 she had ever written directly to Madame de Pompadour, it is certain that
 she allowed her ministers to make use of the favourite's influence over
-the French king. When fate decided against her in the Seven Years' War she
+the French king. When [[Fate|fate]] decided against her in the Seven Years' War she
 bowed to the inevitable, and was thenceforward a resolute advocate of
 peace.
 
@@ -78,9 +78,9 @@ bodies. Education, trade, religious toleration, the emancipation of the
 agricultural population from feudal burdens--all had her approval up to
 a certain point. She would favour them, but on the distinct condition
 that nothing was to be done to weaken the bonds of authority. She took
-part in the suppression of the Jesuits, and she resisted the pope in the
+part in the suppression of the [[Jesuits]], and she resisted the pope in the
 interest of the state. Her methods were those of her cautious younger
-son, Leopold II., and not of her eldest son and immediate successor,
+son, [[Leopold]] II., and not of her eldest son and immediate successor,
 Joseph II. She did not give her consent even to the suppression of
 torture in legal procedure without hesitation, lest the authority of the
 law should be weakened. Her caution had its reward, for whatever she did
@@ -90,12 +90,12 @@ reform brought his empire to the verge of a general rebellion.
 In her private life Maria Theresa was equally the servant of the state
 and the sovereign of all about her. She was an affectionate wife to her
 husband Francis I.; but she was always the queen of Hungary and Bohemia
-and archduchess of Austria, like her ancestress, Isabella the Catholic,
+and archduchess of Austria, like her ancestress, [[Isabella]] the Catholic,
 who never forgot, nor allowed her husband to forget, that she was
-"proprietary queen" of Castile and Leon. She married her daughters in
+"proprietary queen" of Castile and [[Leon]]. She married her daughters in
 the interest of Austria, and taught them _not_ to forget their people
 and their father's house. In the case of Marie Antoinette (q.v.), who
-married the dauphin, afterwards Louis XVI., she gave an extraordinary
+married the [[Dauphin|dauphin]], afterwards Louis XVI., she gave an extraordinary
 proof of her readiness to subordinate everything to the reason of state.
 She instructed her daughter to show a proper respect to her husband's
 grandfather, Louis XV., by behaving with politeness to his mistresses,
@@ -111,8 +111,8 @@ of November 1780. When she lay painfully on her deathbed her son Joseph
 said to her, "You are not at ease," and her last words were the answer,
 "I am sufficiently at my ease to die."
 
-  See A. von Arneth, _Geschichte Maria Theresas_ (Vienna, 1863-1879) and
-  J. F. Bright, _Maria Theresa_ (London, 1897); also the article
+  See A. von [[Arneth]], _Geschichte Maria Theresas_ (Vienna, 1863-1879) and
+  J. F. [[Bright]], _Maria Theresa_ (London, 1897); also the article
   AUSTRIA.
 
 ## See also

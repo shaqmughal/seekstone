@@ -24,7 +24,7 @@ dates, like many others in the principality, from Edward I., perhaps
 even from the plans of the architect of Carnarvon and Conway castles,
 but with the retention of old portions. It is thought to have been
 square, each side measuring some 210 ft., with towers and turrets.
-Glendower held it for four years. Here, in 1460, Margaret, wife of Henry
+[[Glendower]] held it for four years. Here, in 1460, Margaret, wife of Henry
 VI., defeated at Northampton, took refuge. Dafydd ap Ieuan ap Einion
 held it for the Lancastrians, until famine, rather than Edward IV., made
 him surrender. From this time is said to date the air "March of the men

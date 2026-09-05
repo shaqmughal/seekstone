@@ -7,8 +7,8 @@ type: source
 
 # Crocidolite
 
-CROCIDOLITE, a mineral described in 1815 by M. H. Klaproth under the
-name _Blaueisenstein_ (blue ironstone), and in 1831 by J. F. Hausmann,
+CROCIDOLITE, a mineral described in 1815 by M. H. [[Klaproth]] under the
+name _Blaueisenstein_ (blue ironstone), and in 1831 by J. F. [[Hausmann]],
 who gave it its present name on account of its nap-like appearance (Gr.
 [Greek: krokus], nap of cloth). It is a blue fibrous mineral belonging
 to the amphibole group and closely related to riebeckite; chemically it
@@ -47,9 +47,9 @@ crocidolite and of the blue and brown products of alteration:--
 Another alteration product of the crocidolite, consisting of silica and
 ferric hydrate, has been called griqualandite. Crocidolite and the
 minerals resulting from its alteration occur in seams, associated with
-magnetite and other iron-ores, in the jasper-slates of the Asbestos
+[[Magnetite|magnetite]] and other iron-ores, in the jasper-slates of the Asbestos
 Mountains in Griqualand West, Cape Colony. It is known also from a few
-other localities, but only in subordinate quantity. (See CAT'S-EYE.)
+other localities, but only in subordinate quantity. (See [[Cat'S-Eye|CAT'S-EYE]].)
 
 ## See also
 

@@ -8,7 +8,7 @@ type: note
 # Hillel
 
 HILLEL, Jewish rabbi, of Babylonian origin, lived at Jerusalem in the
-time of King Herod. Though hard pressed by poverty, he applied himself
+time of King [[Herod]]. Though hard pressed by poverty, he applied himself
 to study in the schools of Shemaiah and Abtalion (Sameas and Pollion in
 Josephus). On account of his comprehensive learning and his rare
 qualities he was numbered among the recognized leaders of the Pharisaic
@@ -53,7 +53,7 @@ enjoined and practised the virtues of charity, humility and true piety.
 His proverbial sayings, in particular, a great number of which were
 written down partly in Aramaic, partly in Hebrew, strongly affected the
 spirit both of his contemporaries and of the succeeding generations. In
-his Maxims (_Aboth,_ i. 12) he recommends the love of peace and the love
+his [[Maxims]] (_Aboth,_ i. 12) he recommends the love of peace and the love
 of mankind beyond all else, and his own love of peace sprang from the
 tenderness and deep humility which were essential features in his
 character, as has been illustrated by many anecdotes. Hillel's patience
@@ -68,7 +68,7 @@ xix. 18) as the fundamental law of religious morals, became in a certain
 sense a commonplace of Pharisaic scholasticism. For the Pharisee who
 accepts the answer of Jesus regarding that fundamental doctrine which
 ranks the love of one's neighbour as the highest duty after the love of
-God (Mark xii. 33), does so because as a disciple of Hillel the idea is
+God (Mark xii. 33), does so because as a [[Disciple|disciple]] of Hillel the idea is
 familiar to him. St Paul also (Gal. v. 14) doubtless learned this in the
 school of Gamaliel. Hillel emphasized the connexion between duty towards
 one's neighbour and duty towards oneself in the epigrammatic saying: "If
@@ -100,7 +100,7 @@ God is shown in the words spoken by him on the occasion of a feast in
 the Temple--words alluding to the throng of people gathered there which
 he puts into the mouth of God Himself: "If I am here every one is here;
 if I am not here no one is here" (_Sukkah_ 53a). In like manner Hillel
-makes God say to Israel, referring to Exodus xx. 24: "Whither I please,
+makes God say to Israel, referring to [[Exodus]] xx. 24: "Whither I please,
 thither will I go; if thou come into my house I come into thy house; if
 thou come not into my house, I come not into thine" (_ib._).
 

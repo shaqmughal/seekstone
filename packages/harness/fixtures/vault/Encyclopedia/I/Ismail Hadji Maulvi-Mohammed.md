@@ -1,10 +1,10 @@
 # Ismail Hadji Maulvi-Mohammed
 
 ISMAIL HADJI MAULVI-MOHAMMED (1781-1831), Mussulman reformer, was born
-at Pholah near Delhi. In co-operation with Syed Ahmed he attempted to
+at Pholah near [[Delhi]]. In [[Co-Operation|co-operation]] with Syed Ahmed he attempted to
 free Indian Mahommedanism from the influence of the native early Indian
 faiths. The two men travelled extensively for many years and visited
-Mecca. In the Wahhabite movement they found much that was akin to their
+[[Mecca]]. In the Wahhabite movement they found much that was akin to their
 own views, and on returning to India preached the new doctrine of a pure
 Islam, and gathered many adherents. The official Mahommedan leaders,
 however, regarded their propaganda with disfavour, and the dispute led

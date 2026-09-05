@@ -1,7 +1,7 @@
 # Betaine
 
 BETAINE (OXYNEURINE, LYCINE), C5H13NO3, a substance discovered in the
-sugar beet (_Beta vulgaris_) in 1869 by C. Scheibler (_Ber._, 1869, 2,
+sugar [[Beet|beet]] (_Beta vulgaris_) in 1869 by C. Scheibler (_Ber._, 1869, 2,
 p. 292). It is also found in cotton seed, in the vetch and in wheat
 sprouts (E. Schulz and S. Frankfurt, _Ber._, 1893, 26, p. 2151). It may
 be synthetically prepared by oxidizing choline with chromic acid (O.
@@ -38,7 +38,7 @@ shown as follows:--
      N          H3C-N-I          H3C-N----O
 
 The methyl betaine of nicotinic acid is identical with the alkaloid
-_trigonelline_, which was discovered in 1885 by E. Jahns in the seeds of
+_trigonelline_, which was discovered in 1885 by E. [[Jahn|Jahns]] in the seeds of
 _Trigonella faenum-graecum_ (_Ber._, 1885, 18, p. 2518). It has also
 been obtained from nicotine by A. Pictet by oxidizing the methyl
 hydroxide of nicotine with potassium permanganate (_Ber._, 1897, 30, p.
@@ -48,7 +48,7 @@ hydroxide of nicotine with potassium permanganate (_Ber._, 1897, 30, p.
   muscarine. Choline (bilineurine, sincaline), (Gr. [Greek: cholae],
   bile), C5H15NO2 or HO.CH2.CH2.N(CH3)3.OH, first isolated by A.
   Strecker in 1862 (_Ann._ 123, p. 353; 148, p. 76), is found in the
-  bile, in brain substance, and in yolk of egg in the form of lecithin,
+  bile, in brain substance, and in yolk of [[Egg|egg]] in the form of lecithin,
   a complex ester of glycerin with phosphoric acid and the fatty acids.
   It is also found in combination with sinapic acid in sinapin, the
   glucoside obtained from white mustard, and can be obtained from this
@@ -60,7 +60,7 @@ hydroxide of nicotine with potassium permanganate (_Ber._, 1897, 30, p.
   It can be synthetically prepared by the action of trimethylamine on an
   aqueous solution of ethylene oxide (A. Wurtz, _Ann. Suppl._, 1868, 6,
   p. 201). It forms deliquescent crystals of strongly alkaline reaction,
-  and absorbs carbon dioxide from the air. It is not poisonous. By
+  and absorbs [[Carbon|carbon]] dioxide from the air. It is not poisonous. By
   continued boiling of its aqueous solution, it is resolved into glycol
   and trimethylamine.
 
@@ -73,7 +73,7 @@ hydroxide of nicotine with potassium permanganate (_Ber._, 1897, 30, p.
 
   It is a crystalline solid, very soluble in water, and is strongly
   basic and very poisonous. Muscarine, C5H15NO3, is an exceedingly
-  poisonous substance found in many fungi. It may be obtained
+  poisonous substance found in many [[Fungi|fungi]]. It may be obtained
   synthetically by oxidizing choline with dilute nitric acid (O.
   Schmiedeberg, _Jahresb._, 1876, p. 804). The exact constitution has
   not yet been definitely determined.
@@ -84,9 +84,9 @@ hydroxide of nicotine with potassium permanganate (_Ber._, 1897, 30, p.
 BETEL NUT. The name betel is applied to two different plants, which in
 the East are very closely associated in the purposes to which they are
 applied. The betel nut is the fruit of the Areca or betel palm, _Areca
-Catechu_, and the betel leaf is the produce of the betel vine or pan,
+Catechu_, and the betel [[Leaf|leaf]] is the produce of the betel vine or pan,
 _Chavica Betel_, a plant allied to that which yields black pepper. The
-Areca palm is a native of the Malay Peninsula and Islands and is
+Areca palm is a native of the [[Malay Peninsula]] and Islands and is
 extensively cultivated over a wide area in the East, including southern
 India, Ceylon, Siam, the Malay Archipelago and the Philippine Islands.
 It is a graceful tree with a straight, slender, unbranched stem reaching
@@ -106,7 +106,7 @@ dark brown or black colour. When chewed a small piece is wrapped up in a
 leaf of the betel vine or pan, with a pellet of shell lime or chunam;
 and in some cases a little cardamom, turmeric or other aromatic is
 added. The mastication causes a copious flow of saliva of a brick-red
-colour, which dyes the mouth, lips and gums. The habit blackens the
+colour, which dyes the mouth, [[Lip|lips]] and [[Gum|gums]]. The habit blackens the
 teeth, but it is asserted by those addicted to it that it strengthens
 the gums, sweetens the breath and stimulates the digestive organs. Among
 the Orientals betel is offered on ceremonial visits in the same manner

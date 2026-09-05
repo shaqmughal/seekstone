@@ -21,10 +21,10 @@ afterwards king under the title of Euergetes. It is supposed by some
 (e.g. Niebuhr, _Kleine Schriften_; cf. Ehrlichs, _De Callimachi hymnis_)
 that she is to be identified with the Arsinoe who became wife of Magas,
 king of Cyrene, and that she married him after her exile to Coptos. But
-this hypothesis is apparently without foundation. Magas before his death
-had betrothed his daughter Berenice to the son of his brother Ptolemy
+this [[Hypothesis|hypothesis]] is apparently without foundation. Magas before his death
+had betrothed his daughter [[Berenice]] to the son of his brother Ptolemy
 II. Philadelphus, but Arsinoe, disliking the projected alliance, induced
-Demetrius the Fair, son of Demetrius Poliorcetes, to accept the throne
+[[Demetrius]] the Fair, son of Demetrius Poliorcetes, to accept the throne
 of Cyrene as husband of Berenice. She herself, however, fell in love
 with the young prince, and Berenice in revenge formed a conspiracy, and,
 having slain Demetrius, married Ptolemy's son (see BERENICE, 3).
@@ -59,7 +59,7 @@ husband as [Greek: Theoi adelphoi] (Justin xxiv. 2, 3; Pausanias i. 7).
   See von Prott, _Rhein. Mus._ liii. (1898), pp. 460 f.
 
 3. Daughter of Ptolemy III. Euergetes, sister and wife of Ptolemy IV.
-Philopator. She seems to be erroneously called Eurydice by Justin (xxx.
+Philopator. She seems to be erroneously called [[Eurydice]] by Justin (xxx.
 2), and Cleopatra by Livy (xxvii. 4). Her presence greatly encouraged
 the troops at the battle of Raphia (217), in which Antiochus the Great
 was defeated. Her husband put her to death to please his mistress
@@ -74,7 +74,7 @@ being then held captive by Caesar. Caesar took her with him to Rome as a
 precaution. After Caesar's triumph she was allowed to return to
 Alexandria. After the battle of Philippi she was put to death at Miletus
 (or in the temple of Artemis at Ephesus) by order of Mark Antony, at the
-request of her sister Cleopatra (Dio Cassius xlii. 39; Caesar, _Bell.
+request of her sister Cleopatra (Dio [[Cassius]] xlii. 39; Caesar, _Bell.
 civ._ iii. 112; Appian, _Bell. civ._ v. 9).
 
   AUTHORITIES.--For general authorities see article PTOLEMIES. The
@@ -86,7 +86,7 @@ civ._ iii. 112; Appian, _Bell. civ._ v. 9).
 FOOTNOTE:
 
   [1] The appendix to pt. ii. of the Tebtunis series of papyri
-    (Grenfell, Hunt and Goodspeed, 1907) contains a lengthy account of
+    (Grenfell, [[Hunt]] and Goodspeed, 1907) contains a lengthy account of
     the topography of the Arsinoite nome.
 
 ## See also

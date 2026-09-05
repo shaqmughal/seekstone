@@ -10,13 +10,13 @@ KIRKWALL (Norse, _Kirkjuvagr_, "church bay"), a royal, municipal and
 police burgh, seaport and capital of the Orkney Islands, county of
 Orkney, Scotland. Pop. (1901), 3711. It is situated at the head of a bay
 of the same name on the east of the island of Pomona, or Mainland, 247
-m. N. of Leith and 54 m. N. of Wick by steamer. Much of the city is
+m. N. of [[Leith]] and 54 m. N. of Wick by steamer. Much of the city is
 quaint-looking and old-fashioned, its main street (nearly 1 m. long)
 being in parts so narrow that two vehicles cannot pass each other. The
 more modern quarters are built with great regularity and the suburbs
 contain several substantial villas surrounded by gardens. Kirkwall has
 very few manufactures. The linen trade introduced in the middle of the
-18th century is extinct, and a like fate has overtaken the kelp and
+18th century is extinct, and a like [[Fate|fate]] has overtaken the kelp and
 straw-plaiting industries. Distilling however prospers, and the town is
 important not only as regards its shipping and the deep-sea fishery, but
 also as a distributing centre for the islands and the seat of the
@@ -27,7 +27,7 @@ being disregarded by such men as Robert (d. 1592) and Patrick Stewart
 parliament passed an act in 1670 confirming the charter granted by
 Charles II. in 1661. The prime object of interest is the cathedral of St
 Magnus, a stately cruciform red sandstone structure in the severest
-Norman, with touches of Gothic. It was founded by Jarl Rognvald (Earl
+Norman, with touches of [[Gothic]]. It was founded by Jarl Rognvald (Earl
 Ronald) in 1137 in memory of his uncle Jarl Magnus who was assassinated
 in the island of Egilshay in 1115, and afterwards canonized and adopted
 as the patron saint of the Orkneys. The remains of St Magnus were
@@ -49,7 +49,7 @@ burned down by the English in 1502; and of the church erected on its
 site by Bishop Reid--the greatest building the Orkneys ever had--little
 more than the merest fragment survives. Nothing remains of the old
 castle, a fortress of remarkable strength founded by Sir Henry Sinclair
-(d. 1400), earl and prince of Orkney and 1st earl of Caithness, its last
+(d. 1400), earl and prince of Orkney and 1st earl of [[Caithness]], its last
 vestiges having been demolished in 1865 to provide better access to the
 harbour; and the earthwork to the east of the town thrown up by the
 Cromwellians has been converted into a battery of the Orkney Artillery
@@ -65,13 +65,13 @@ Orkney, and on his forfeiture given to the bishops for a residence.
 Tankerness House is a characteristic example of the mansion of an Orkney
 laird of the olden time. Other public buildings include the municipal
 buildings, the sheriff court and county buildings, Balfour hospital, and
-the fever hospital. There is daily communication with Scrabster pier
+the [[Fever|fever]] hospital. There is daily communication with Scrabster pier
 (Thurso), via Scapa pier, on the southern side of the waist of Pomona,
 about 1½ m. to the S. of Kirkwall; and steamers sail at regular
 intervals from the harbour to Wick, Aberdeen and Leith. Good roads place
 the capital in touch with most places in the island and a coach runs
 twice a day to Stromness. Kirkwall belongs to the Wick district group of
-parliamentary burghs, the others being Cromarty, Dingwall, Dornoch and
+parliamentary burghs, the others being Cromarty, Dingwall, [[Dornoch]] and
 Tain.
 
 ## References

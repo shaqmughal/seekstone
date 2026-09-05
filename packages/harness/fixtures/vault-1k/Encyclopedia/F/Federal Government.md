@@ -42,13 +42,13 @@ examples of small states deliberately sacrificing what must have been
 obvious commercial advantage for the sake of a precarious autonomy. Such
 examples as existed of even semi-federal union were very loose in
 structure, and the selfishness of the component units was the
-predominant feature. Thus the Spartan hegemony in the Peloponnese was
+predominant feature. Thus the Spartan [[Hegemony|hegemony]] in the Peloponnese was
 not really a federation except in the broadest sense. The states did, it
 is true, meet occasionally for discussion, but their relation, which had
 no real existence save in cases of immediate common danger, was really
 that between a paramount leader and unwilling and suspicious allies. The
 Athenian empire again was a thinly disguised autocracy. The synod (see
-DELIAN LEAGUE) of the "allies" soon degenerated into a mere form; of
+[[Delian League|DELIAN LEAGUE]]) of the "allies" soon degenerated into a mere form; of
 comprehensive united policy there was none, at all events after the
 League had achieved its original purpose of expelling the Persians from
 Europe.
@@ -246,7 +246,7 @@ rights in relation to all local self-government, and sustaining a
 constitutional autonomy, while cherishing the colonial relationship to
 Great Britain.
 
-The Commonwealth of Australia (q.v.), proclaimed in 1901, is another
+The [[Commonwealth]] of Australia (q.v.), proclaimed in 1901, is another
 interesting example of self-governing states federating into a united
 whole. There is, however, a striking difference to be observed in the
 powers of the federal governments of Canada and Australia. The federal

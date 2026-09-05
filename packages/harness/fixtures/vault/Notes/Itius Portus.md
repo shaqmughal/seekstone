@@ -1,6 +1,6 @@
 # Itius Portus
 
-ITIUS PORTUS, the name given by Caesar to the chief harbour which he
+ITIUS PORTUS, the name given by [[Caesar]] to the chief harbour which he
 used when embarking for his second expedition to Britain in 54 B.C. (_De
 bello Gallico_, v. 2). It was certainly near the uplands round Cape
 Grisnez (_Promuntorium Itium_), but the exact site has been violently
@@ -9,7 +9,7 @@ assumed that Caesar used the same port for his first expedition, but the
 name does not appear at all in that connexion (_B. G._ iv. 21-23). This
 fact, coupled with other considerations, makes it probable that the two
 expeditions started from different places. It is generally agreed that
-the first embarked at Boulogne. The same view was widely held about the
+the first embarked at [[Boulogne]]. The same view was widely held about the
 second, but T. Rice Holmes in an article in the _Classical Review_ (May
 1909) gave strong reasons for preferring Wissant, 4 m. east of Grisnez.
 The chief reason is that Caesar, having found he could not set sail from

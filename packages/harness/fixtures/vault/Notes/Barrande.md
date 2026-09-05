@@ -9,17 +9,17 @@ topic: sculpture
 BARRANDE, JOACHIM (1799-1883), Austrian geologist and palaeontologist, was
 born at Saugues, Haute Loire, on the 11th of August 1799, and educated in
 the École Polytechnique at Paris. Although he had received the training of
-an engineer, his first appointment was that of tutor to the duc de Bordeaux
+an engineer, his first appointment was that of tutor to the duc de [[Bordeaux]]
 (afterwards known as the comte de Chambord), grandson of Charles X., and
 when the king abdicated in 1830, Barrande accompanied the royal exiles to
 England and Scotland, and afterwards to Prague. Settling in that city in
-1831, he became occupied in engineering works, and his attention was then
+1831, he became occupied in [[Engineering|engineering]] works, and his attention was then
 attracted to the fossils from the Lower Palaeozoic rocks of Bohemia. The
 publication in 1839 of Murchison's _Silurian System_ incited Barrande to
 carry on systematic researches on the equivalent strata in Bohemia. For ten
 years (1840-1850) he made a detailed study of these rocks, engaging workmen
 specially to collect fossils, and in this way he obtained upwards of 3500
-species of graptolites, brachiopoda, mollusca, crustacea (particularly
+species of graptolites, [[Brachiopoda|brachiopoda]], mollusca, crustacea (particularly
 trilobites) and fishes. The first volume of his great work, _Système
 silurien du centre de la Bohême_ (dealing with trilobites), appeared in
 1852; and from that date until 1881, he issued twenty-one quarto volumes of
@@ -46,9 +46,9 @@ more reasonable explanation of the occurrence of strata with newer fossils
 amid those containing older ones. Other geologists subsequently questioned
 the doctrine of "Colonies." In 1880 Dr J. E. Marr, from a personal study in
 the field, brought forward evidence to show that the repetitions of the
-fossiliferous strata on which the "Colonies" were based were due to faults.
+fossiliferous strata on which the "Colonies" were based were due to [[Fault|faults]].
 The later stages of Barrande, F, G and H, have since been shown by Emanuel
-Friedrich Heinrich Kayser (b. 1845) to be Devonian.
+[[Friedrich]] Heinrich Kayser (b. 1845) to be Devonian.
 
 Despite these modifications in the original groupings of the strata, it is
 recognized that Barrande "made Bohemia classic ground for the study of the

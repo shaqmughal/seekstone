@@ -20,7 +20,7 @@ and Inagua. The Turks and Caicos islands continue the outer line, and
 belong geographically to the archipelago, but not politically. The
 surrounding seas are shallow for the most part, but there are three
 well-defined channels--the Florida or New Bahama channel, between the
-north-western islands and Florida, followed by the Gulf Stream, the
+north-western islands and Florida, followed by the [[Gulf Stream]], the
 Providence channels (north-east and north-west) from which a depression
 known as the Tongue of Ocean extends southward along the east side of
 Andros, and the Old Bahama channel, between the archipelago and Cuba. The
@@ -38,7 +38,7 @@ Mayaguana, Watling, Rum Cay and the Biminis, though these last, which are
 two very small north-western islands, are relatively densely populated with
 545 persons.
 
-_Physical Geography._--The islands are of coral formation and low-lying.
+_Physical [[Geography]]._--The islands are of [[Coral|coral]] formation and low-lying.
 The rock on the surface is as hard as flint, but underneath it gradually
 softens and furnishes an admirable stone for building which can be sawn
 into blocks of any size, hardening on exposure to the atmosphere. The
@@ -47,12 +47,12 @@ ft. high. It is a remarkable fact that, except in the island of Andros, no
 streams of running water are to be found in the whole group. The
 inhabitants derive their water supply from wells. As a result of the
 porosity of the rock, many of the wells feel the influence of the sea and
-exhibit an ebb and flow. There is an extensive swampy lagoon in Eleuthera,
+exhibit an ebb and flow. There is an extensive swampy [[Lagoon|lagoon]] in Eleuthera,
 the water of which is fresh or nearly so; and brackish lagoons also occur,
 as in Watling Island. An artificial lake in New Providence, constructed for
 the use of the turtle-catchers, is noted as exhibiting an extraordinary
 degree of phosphorescence. A remarkable natural phenomenon is that of the
-so-called "banana holes," which frequently occur in the limestone. Their
+so-called "banana holes," which frequently occur in the [[Limestone|limestone]]. Their
 formation has been attributed to the effect of rotting vegetation on the
 rock, but without certainty. These holes are of various depths up to about
 40 ft., and of curiously regular form. The Mermaid's Pool in New
@@ -69,8 +69,8 @@ probably been derived from the disintegration of the reefs, and from the
 shells of animals living in the shallows. When freshly exposed the rock is
 soft, but by the action of rain and sea it becomes covered with a hard
 crust. The surface is often remarkably honeycombed, and the rock weathers
-into pinnacles, pillars and arches of extraordinary shapes. On the island
-of Andros there is an extremely fine white marl almost resembling a chalky
+into pinnacles, pillars and [[Arches|arches]] of extraordinary shapes. On the island
+of Andros there is an extremely fine white [[Marl|marl]] almost resembling a chalky
 ooze. The coral reefs are of especial interest from their bearing on the
 general question of the formation of coral reefs.
 
@@ -82,7 +82,7 @@ the small Hog Island. There is a depth of 14 ft. at low-water spring-tide
 on the bar. The town extends along the shore, and up a slightly elevated
 ridge behind it. It contains the principal public buildings, and some
 interesting old forts, dating from the middle and close of the 18th
-century, though the subterranean works below Fort Charlotte are attributed
+century, though the subterranean works below Fort [[Charlotte]] are attributed
 to an earlier period. From the same century dates the octagonal building
 which, formerly a gaol, now contains a good public library. The sea-bathing
 is excellent. The months of February and March are the principal season for
@@ -94,39 +94,39 @@ _Climate, Flora, Fauna_.--The climate of the Bahamas adds to their
 attractions. The mean temperature of the hottest months (June to September)
 is 88° F., and that of the coldest (January to March) 66°. In a series of
 observations of winds about one half have been found to indicate a
-direction from north-east or east. Hurricanes occur from July to October,
+direction from north-east or east. [[Hurricane|Hurricanes]] occur from July to October,
 and May to October are reckoned as the rainy months. The rainfall recorded
-in 1901 at Nassau amounted to 63.32 in. Where a mantle of soil covers the
+in 1901 at Nassau amounted to 63.32 in. Where a [[Mantle|mantle]] of soil covers the
 rock it is generally thin but very fertile. A well-defined area in New
 Providence is known as the "pine barrens," from the tree which principally
 grows in this rocky soil. Elsewhere three types of soil are
 distinguished--a black soil, of decayed vegetable matter, where the land is
 under forest, a reddish clay, and a white soil occurring along the shores.
 Andros Island and the Abaco Islands may be specially noted for their
-profusion of large timber, including mahogany, mastic, lignum vitae, iron
-and bullet woods, and many others. Unfortunately the want both of labour
+profusion of large timber, including mahogany, [[Mastic|mastic]], lignum vitae, iron
+and [[Bullet|bullet]] woods, and many others. Unfortunately the want both of labour
 and of roads renders it impossible to turn much of this valuable timber to
 useful account, although attempts have been made to work it in Abaco. The
 fruits and spices of the Bahamas are very numerous, the fruit equalling any
 in the world. The produce of the islands includes tamarinds, olives,
-oranges, lemons, limes, citrons, pomegranates, pine-apples, figs,
-sapodillas, bananas, sour-sops, melons, yams, potatoes, gourds, cucumbers,
-pepper, cassava, prickly pears, sugar-cane, ginger, coffee, indigo, Guinea
-corn and pease. Tobacco and cascarilla bark also flourish; and cotton is
+oranges, [[Lemon|lemons]], limes, citrons, pomegranates, pine-apples, figs,
+sapodillas, bananas, sour-sops, melons, yams, potatoes, [[Gourd|gourds]], cucumbers,
+pepper, [[Cassava|cassava]], prickly pears, sugar-cane, ginger, coffee, indigo, Guinea
+[[Corn|corn]] and pease. Tobacco and cascarilla bark also flourish; and cotton is
 indigenous and was woven into cloth by the aborigines. But although
 oranges, pine-apples and some other fruits form important articles of
 commerce, it is only rarely that systematic and thorough methods of
 cultivation are prosecuted. Cotton has been found to suffer much from
-insect pests. Sisal is grown in increasing quantity. The Bahamas are far
+[[Insect|insect]] pests. Sisal is grown in increasing quantity. The Bahamas are far
 poorer in their fauna than in their flora. It is said that the aborigines
-had a breed of dogs which did not bark, and a small coney is also
+had a breed of [[Dogs|dogs]] which did not bark, and a small coney is also
 mentioned. The guana also is indigenous to the islands. Oxen, sheep, horses
 and other live-stock introduced from Europe thrive well, but little
 attention is paid to stock-rearing. There are many varieties of birds to be
-found in the woods of the Bahamas; they include flamingoes and the
-beautiful hummingbird, as well as wild geese, ducks, pigeons, hawks, green
-parrots and doves. The waters of the Bahamas swarm with fish; the turtle
-procured here is particularly fine, and the sponge fishery is of
+found in the woods of the Bahamas; they include [[Flamingo|flamingoes]] and the
+beautiful hummingbird, as well as wild geese, ducks, pigeons, [[Hawks|hawks]], green
+parrots and [[Dove|doves]]. The waters of the Bahamas swarm with fish; the turtle
+procured here is particularly fine, and the sponge [[Fishery|fishery]] is of
 importance. In some islands there are rich salt ponds, but their working
 has decreased. The portion of Nassau harbour known as the Sea Gardens
 exhibits an extraordinarily beautiful development of marine organisms.
@@ -142,7 +142,7 @@ or being householders for six months at a rental not less than £2:18s. in
 New Providence, or £1:4s. in other islands. The members' qualification is
 the possession of real or personal estate to the value of £200. The average
 annual revenue and expenditure may be set down at about £75,000,
-expenditure somewhat exceeding revenue. There is a public debt of about
+expenditure somewhat exceeding revenue. There is a public [[Debt|debt]] of about
 £105,000. The average annual value of imports is somewhat over £300,000,
 and of exports £200,000. The average annual tonnage of shipping, entering
 and clearing, exceeds 1,000,000. The government supports elementary free
@@ -150,7 +150,7 @@ schools, controlled by a nominated board of education, while committees
 partly elected exercise local supervision. There are higher schools and a
 Queen's College in Nassau. Nassau is the seat of a bishopric of the Church
 of England created in 1861. The Bahamas are without railways, but there are
-good roads in New Providence, and a few elsewhere. A cable connects Nassau
+good roads in New Providence, and a few elsewhere. A [[Cable|cable]] connects Nassau
 with West Jupiter in Florida.
 
 _History_.--The story of the Bahamas is a singular one, and bears
@@ -162,19 +162,19 @@ precedence as the landfall of Columbus on his memorable voyage. Cat Island
 was long supposed to be the island first reached by Columbus (12th October
 1492) and named by him San Salvador. Then the distinction was successively
 transferred to the neighbouring Watling, Great Turk, and Mariguana; but in
-1880 the American marine surveyor, G. V. Fox, identified San Salvador, on
-seemingly good grounds, with Samana (Atwood Cay), which lies about midway
+1880 the American marine surveyor, G. V. [[Fox]], identified San Salvador, on
+seemingly good grounds, with Samana ([[Atwood]] Cay), which lies about midway
 between Watling and Mariguana. The chief difficulty is its size, for, if
 Samana is the true San Salvador, it must have been considerably larger then
 than now. Watling Island is generally accepted as the landfall.
 
-Columbus passed through the islands, and in one of his letters to Ferdinand
-and Isabella he said, "This country excels all others as far as the day
+Columbus passed through the islands, and in one of his letters to [[Ferdinand]]
+and [[Isabella]] he said, "This country excels all others as far as the day
 surpasses the night in splendour; the natives love their neighbours as
 themselves; their conversation is the sweetest imaginable; their faces
 always smiling; and so gentle and so affectionate are they, that I swear to
 your highness there is not a better people in the world." But the natives,
-innocent as they appeared, were doomed to utter destruction. Ovando, the
+[[Innocent|innocent]] as they appeared, were doomed to utter destruction. Ovando, the
 governor of Hispaniola (Haiti), who had exhausted the labour of that
 island, turned his thoughts to the Bahamas, and in 1509 Ferdinand
 authorized him to procure labourers from these islands. It is said that
@@ -186,8 +186,8 @@ friends now dwelt, and about 40,000 were transported to Hispaniola to
 perish miserably in the mines. From that date, until after the colonization
 of New Providence by the British, there is no record of a Spanish visit to
 the Bahamas, with the exception of the extraordinary cruise of Juan Ponce
-de Leon, the conqueror of Porto Rico, who passed months searching the
-islands for Bimini, which was reported to contain the miraculous "Fountain
+de [[Leon]], the conqueror of Porto Rico, who passed months searching the
+islands for Bimini, which was reported to contain the miraculous "[[Fountain]]
 of Youth." This is in South Bimini, and has still a local reputation for
 healing powers.
 
@@ -196,16 +196,16 @@ Providence, which they held till 1641, when the Spaniards expelled them.
 This, however, refers to the Providence Island off the Mosquito Coast; it
 was only in 1646 that Eleuthera was colonized, and in 1666 New Providence,
 by settlers from the Bermudas. In 1670 Charles II. made a grant of the
-islands to Christopher, duke of Albemarle, and others. Governors were
+islands to [[Christopher]], duke of Albemarle, and others. Governors were
 appointed by the lords proprietors, and there are copious records in the
 state papers of the attempts made to develop the resources of the islands.
-But the buccaneers or pirates who had made their retreat here offered heavy
+But the [[Buccaneers|buccaneers]] or pirates who had made their retreat here offered heavy
 opposition; in 1680 there was an attack by the Spaniards, and in July 1703
 the French and Spaniards made a descent on New Providence, blew up the
 fort, spiked the guns, burnt the church and carried off the governor, with
 the principal inhabitants, to Havana. In October the Spaniards made a
 second descent and completed the work of destruction. It is said that when
-the last of the governors appointed by the lords proprietors, in ignorance
+the last of the governors appointed by the lords proprietors, in [[Ignorance|ignorance]]
 of the Spanish raid, arrived in New Providence, he found the island without
 an inhabitant. It again, however, became the resort of pirates, and the
 names of many of the worst of these ruffians are associated with New
@@ -214,7 +214,7 @@ afterwards killed in action against two American ships in 1718, being chief
 among the number.
 
 At last matters became so intolerable that the merchants of London and
-Bristol petitioned the crown to take possession and restore order, and
+[[Bristol]] petitioned the crown to take possession and restore order, and
 Captain Woodes Rogers was sent out as the first crown governor and arrived
 at New Providence in 1718. Many families of good character now settled at
 the Bahamas, and some progress was made in developing the resources of the
@@ -228,7 +228,7 @@ Island, 800 slaves were at work, and nearly 4000 acres of land under
 cultivation. But the usual bad luck of the Bahamas prevailed; the red bug
 destroyed the cotton crops in 1788 and again in 1794, and by the year 1800
 cotton cultivation was almost abandoned. There were also other causes that
-tended to retard the progress of the colony. In 1776 Commodore Hopkins, of
+tended to retard the progress of the colony. In 1776 Commodore [[Hopkins]], of
 the American navy, took the island of New Providence; he soon, however,
 abandoned it as untenable, but in 1781 it was retaken by the Spanish
 governor of Cuba. The Spaniards retained nominal possession of the Bahamas
@@ -269,13 +269,13 @@ the out-islands were reduced to indigence and want, a condition which is
 still, in some measure, in evidence.
 
 See the valuable _General Descriptive Report on the Bahama Islands_, by Sir
-G. T. Carter (governor, 1898-1904), issued in place of the ordinary annual
+G. T. [[Carter]] (governor, 1898-1904), issued in place of the ordinary annual
 report by the Colonial Office, London, 1902; also Governor R. W. Rawson's
-_Report_, 1866; Stark's _History and Guide to the Bahama Islands_ (Boston,
+_Report_, 1866; Stark's _History and Guide to the Bahama Islands_ ([[Boston]],
 Mass., 1891); _Bahama Islands_ (Geog. Soc. of Baltimore), ed. G. B.
 Shattuck (New York, 1905). For geology see A. Agassiz, "A Reconnaissance of
 the Bahamas and of the Elevated Reefs of Cuba in the steam yacht 'Wild
-Duck,' January to April 1893," _Bull. Mus. Comp. Zool. Harvard_, vol. xxvi.
+Duck,' January to April 1893," _[[Bull]]. Mus. Comp. Zool. Harvard_, vol. xxvi.
 no. 1, 1894.
 
 ## References

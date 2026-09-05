@@ -36,7 +36,7 @@ after landing at Waterford, received in Lismore castle the allegiance of
 the archbishops and bishops of Ireland. In 1518 the manor was granted to
 Sir Walter Raleigh, from whom it passed to Sir Richard Boyle, afterwards
 earl of Cork. From the earls of Cork it descended by marriage to the
-dukes of Devonshire. It was incorporated as a municipal borough in the
+[[Dukes|dukes]] of Devonshire. It was incorporated as a municipal borough in the
 time of Charles I., when it also received the privilege of returning
 members to parliament, but at the Union in 1800 it was disfranchised and
 also ceased to exercise its municipal functions.

@@ -15,13 +15,13 @@ that these seven kings exercised a certain superiority over a large part of
 England, but if such superiority existed it is certain that it was
 extremely vague and was unaccompanied by any unity of organization. Another
 theory is that Bretwalda refers to a war-leadership, or _imperium_, over
-the English south of the Humber, and has nothing to do with Britons or
+the English south of the [[Humber]], and has nothing to do with Britons or
 Britannia. In support of this explanation it is urged that the title is
 given in the _Chronicle_ to Ecgbert in the year in which he "conquered the
 kingdom of the Mercians and all that was south of the Humber." Less likely
 is the theory of Palgrave that the Bretwaldas were the successors of the
-pseudo-emperors, Maximus and Carausius, and claimed to share the imperial
-dignity of Rome; or that of Kemble, who derives Bretwalda from the British
+pseudo-emperors, [[Maximus]] and Carausius, and claimed to share the imperial
+dignity of Rome; or that of [[Kemble]], who derives Bretwalda from the British
 word _breotan_, to distribute, and translates it "widely ruling." With
 regard to Ecgbert the word is doubtless given as a title in imitation of
 its earlier use, and the same remark applies to its use in AEthelstan's
@@ -30,7 +30,7 @@ charter.
 See E.A. Freeman, _History of the Norman Conquest_, vol. i. (Oxford, 1877);
 W. Stubbs, _Constitutional History_, vol. i. (Oxford, 1897); J.R. Green,
 _The Making of England_, vol. ii. (London, 1897); F. Palgrave, _The Rise
-and Progress of the English Commonwealth_ (London, 1832); J. M. Kemble,
+and Progress of the English [[Commonwealth]]_ (London, 1832); J. M. Kemble,
 _The Saxons in England_ (London, 1876); J. Rhys, _Celtic Britain_ (London,
 1884).
 

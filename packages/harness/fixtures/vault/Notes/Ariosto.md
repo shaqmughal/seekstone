@@ -2,7 +2,7 @@
 
 ARIOSTO, LODOVICO (1474-1533) Italian poet, was born at Reggio, in
 Lombardy, on the 8th of September 1474. His father was Niccolo Ariosto,
-commander of the citadel of Reggio. He showed a strong inclination to
+[[Commander|commander]] of the citadel of Reggio. He showed a strong inclination to
 poetry from his earliest years, but was obliged by his father to study
 the law--a pursuit in which he lost five of the best years of his life.
 Allowed at last to follow his inclination, he applied himself to the
@@ -31,7 +31,7 @@ Hungary in 1518, and wished Ariosto to accompany him. The poet excused
 himself, pleading ill health, his love of study, the care of his private
 affairs and the age of his mother, whom it would have been disgraceful
 to leave. His excuses were not received, and even an interview was
-denied him. Ariosto then boldly said, that if his eminence thought to
+denied him. Ariosto then boldly said, that if his [[Eminence|eminence]] thought to
 have bought a slave by assigning him the scanty pension of 75 crowns a
 year, he was mistaken and might withdraw his boon--which it seems the
 cardinal did.
@@ -39,7 +39,7 @@ cardinal did.
 The cardinal's brother, Alphonso, duke of Ferrara, now took the poet
 under his patronage. This was but an act of simple justice, Ariosto
 having already distinguished himself as a diplomatist, chiefly on the
-occasion of two visits to Rome as ambassador to Pope Julius II. The
+occasion of two visits to Rome as ambassador to Pope [[Julius]] II. The
 fatigue of one of these hurried journeys brought on a complaint from
 which he never recovered; and on his second mission he was nearly killed
 by order of the violent pope, who happened at the time to be much
@@ -50,15 +50,15 @@ to provide for him, or to allow him to seek employment elsewhere. A
 province, situated on the wildest heights of the Apennines, being then
 without a governor, Ariosto received the appointment, which he held for
 three years. The office was no sinecure. The province was distracted by
-factions and banditti, the governor had not the requisite means to
+[[Faction|factions]] and banditti, the governor had not the requisite means to
 enforce his authority and the duke did little to support his minister.
 Yet it is said that Ariosto's government satisfied both the sovereign
 and the people confided to his care; and a story is added of his having,
 when walking out alone, fallen in with a party of banditti, whose chief,
-on discovering that his captive was the author of _Orlando Furioso_,
+on discovering that his [[Captive|captive]] was the author of _Orlando Furioso_,
 humbly apologized for not having immediately shown him the respect which
 was due to his rank. Although he had little reason to be satisfied with
-his office, he refused an embassy to Pope Clement VII. offered to him by
+his office, he refused an [[Embassy|embassy]] to Pope [[Clement]] VII. offered to him by
 the secretary of the duke, and spent the remainder of his life at
 Ferrara, writing comedies, superintending their performance as well as
 the construction of a theatre, and correcting his _Orlando Furioso_, of
@@ -116,7 +116,7 @@ poet like Ariosto. His lyrical compositions show the poet, although they
 do not seem worthy of his powers. His comedies, of which he wrote four,
 besides one which he left unfinished, are avowedly imitated from Plautus
 and Terence; and although native critics may admire in them the elegance
-of the diction, the liveliness of the dialogue and the novelty of some
+of the diction, the liveliness of the [[Dialogue|dialogue]] and the novelty of some
 scenes, few will feel interest either in the subject or in the
 characters, and it is hard to approve the immoral passages by which they
 are disfigured, however grateful these might be to the audiences and
@@ -129,30 +129,30 @@ oblivion the numberless romance poems which inundated Italy during the
 
 The popularity which an earlier poem on the same theme, _Orlando
 Innamorato_, by Boiardo, enjoyed in Ariosto's time, cannot be well
-conceived, now that the enthusiasm of the crusades, and the interest
+conceived, now that the [[Enthusiasm|enthusiasm]] of the [[Crusades|crusades]], and the interest
 which was attached to a war against the Moslems, have passed away.
 Boiardo wrote and read his poem at the court of Ferrara, but died before
 he was able to finish it. Many poets undertook the difficult task of its
 completion; but it was reserved for Ariosto both to finish and to
 surpass, his original. Boiardo did not, perhaps, yield to Ariosto either
-in vigour or in richness of imagination, but he lived in a less refined
+in vigour or in richness of [[Imagination|imagination]], but he lived in a less refined
 age, and died before he was able to recast or even finish the poetical
-romance which he had written under the impulse of his exuberant fancy.
+romance which he had written under the impulse of his exuberant [[Fancy|fancy]].
 Ariosto, on the other hand, united to a powerful imagination an elegant
 and cultivated taste. He began to write his great poem about 1503, and
 after having consulted the first men of the age of Leo X., he published
-it in 1516, in only 40 cantos (extended afterwards to 46); and up to the
+it in 1516, in only 40 [[Canto|cantos]] (extended afterwards to 46); and up to the
 moment of his death never ceased to correct and improve both the subject
 and the style. It is in this latter quality that he excels, and for
 which he had assigned him the name of _Divino Lodovico_. Even when he
-jests, he never compromises his dignity; and in pathetic description or
+jests, he never [[Compromise|compromises]] his dignity; and in pathetic description or
 narrative he excites the reader's deepest feelings. In his machinery he
 displays a vivacity of fancy with which no other poet can vie; but he
 never lets his fancy carry him so far as to omit to employ, with an art
 peculiar to himself, those simple and natural pencil-strokes which, by
 imparting to the most extraordinary feats a colour of reality, satisfy
 the reason without disenchanting the imagination. The death of Zerbino,
-the complaints of Isabella, the effects of discord among the Saracens,
+the complaints of [[Isabella]], the effects of discord among the Saracens,
 the flight of Astolfo to the moon, the passion which causes Orlando's
 madness, teem with beauties of every variety. The supposition that the
 poem is not connected throughout is wholly unfounded; there is a
@@ -164,11 +164,11 @@ ends with their marriage.
   The first complete edition of the _Orlando Furioso_ was published at
   Ferrara in 1532, as noted above. The edition of Morali (Milan, 1818)
   follows the text of the 1532 edition with great correctness. Of
-  editions published in England, those of Baskerville (Birmingham, 1773)
+  editions published in England, those of Baskerville ([[Birmingham]], 1773)
   and Panizzi (London, 1834) are the most important. The indifferent
-  translations into English of Sir John Harrington (1591) and John Hoole
+  translations into English of Sir John [[Harrington]] (1591) and John [[Hoole]]
   (1783) have been superseded by the spirited rendering of W. Stewart
-  Rose (1823). See also E. Gardner, _Ariosto: the Prince of Court Poets_
+  Rose (1823). See also E. [[Gardner]], _Ariosto: the Prince of Court Poets_
   (1906).
 
 ## See also

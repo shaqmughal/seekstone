@@ -1,7 +1,7 @@
 # Bugis
 
 BUGIS, or BUGHIS, a people of Malayan stock, originally occupying only the
-kingdom of Boni in the south-western peninsula of the island of Celebes.
+kingdom of [[Boni]] in the south-western peninsula of the island of Celebes.
 From this district they spread over the whole island, and founded
 settlements throughout the whole Malay Archipelago. They are of middle size
 and robust, of very active, enterprising nature and of a complexion

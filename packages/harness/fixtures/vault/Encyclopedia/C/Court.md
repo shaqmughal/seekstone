@@ -19,11 +19,11 @@ freeholders of the county in which representatives and certain officers
 were elected. Such assemblies in early times exercised political and
 legislative as well as judicial functions. But these have now been
 almost entirely separated everywhere, and only judicial bodies are now
-usually called courts. In every court, says Blackstone, there must be
-three parts,--an _actor_ or plaintiff, _reus_ or defendant, and _judex_,
+usually called courts. In every court, says [[Blackstone]], there must be
+three parts,--an _actor_ or plaintiff, _reus_ or [[Defendant|defendant]], and _judex_,
 or judge.
 
-The language of legal fictions, which English lawyers invariably use in
+The language of legal [[Fictions|fictions]], which English lawyers invariably use in
 all constitutional subjects, makes the king the ultimate source of all
 judicial authority, and assumes his personal presence in all the courts.
 
@@ -85,9 +85,9 @@ special class of local courts, which do not appear to fall within the
 description of either superior or inferior courts. Some, while
 administering the ordinary municipal law, have or had jurisdiction
 exclusive of their superior courts; such were the common pleas of Durham
-and Lancaster. Others have concurrent jurisdiction with the superior
+and [[Lancaster]]. Others have concurrent jurisdiction with the superior
 courts; such are the lord mayor's court of London, the passage court of
-Liverpool, &c.
+[[Liverpool]], &c.
 
 The distribution of judicial business among the various courts of law in
 England may be exhibited as follows.
@@ -95,12 +95,12 @@ England may be exhibited as follows.
 _Criminal Courts._--(1) The lowest is that of the justice of the peace,
 sitting in petty sessions of two or more, to determine in a summary way
 certain specified minor offences. In populous districts, such as London,
-Manchester, &c., stipendiary magistrates are appointed, generally with
+Manchester, &c., stipendiary [[Magistrate|magistrates]] are appointed, generally with
 enlarged powers. Besides punishing by summary conviction, justices may
-commit prisoners for trial at the assizes. (2) The justices in quarter
+commit prisoners for trial at the [[Assize|assizes]]. (2) The justices in quarter
 sessions are commissioned to determine felonies and other offences. An
 act of 1842 (5 & 6 Vict. c. 38) contains a list of offences _not_
-triable at quarter sessions--treason, murder, forgery, bigamy, &c. (see
+triable at quarter sessions--treason, murder, [[Forgery|forgery]], [[Bigamy|bigamy]], &c. (see
 QUARTER SESSIONS, COURT OF). The corresponding court in a borough is
 presided over by a recorder. (3) The more serious offences are reserved
 for the judges of the superior courts sitting under a commission of oyer
@@ -145,7 +145,7 @@ Appellate Jurisdiction Act of 1876 the House of Lords is enabled to sit
 for the hearing of appeals from the English court of appeal and the
 Scottish and Irish courts during the prorogation and dissolution of
 parliament. The lords of appeal, of whom three must be present, are the
-lord chancellor, the lords of appeal in ordinary, and peers who have
+lord chancellor, the [[Lords Of Appeal In Ordinary|lords of appeal in ordinary]], and peers who have
 held "high judicial office" in Great Britain or Ireland. The lords in
 ordinary are an innovation in the constitution of the House. They hold
 the rank of baron for life only, have a right to sit and vote in the
@@ -168,12 +168,12 @@ may be described as the king's council, or a portion of it, charged
 specially with the management of judicial and revenue business. In
 relation to the revenue it became the exchequer, under which name a
 separate court grew up whose special field was the judicial business
-arising out of revenue cases. By Magna Carta the inconvenience caused by
+arising out of revenue cases. By [[Magna Carta]] the inconvenience caused by
 the curia following the king's person was remedied, in so far as private
 litigation was concerned, by the order that common pleas (Communia
 Placita) should be held at some fixed place; and hence arose the court
 of common pleas. The Curia Regis, after having thrown off these
-branches, is represented by the king's bench, so that from the same
+branches, is represented by the king's [[Bench|bench]], so that from the same
 stock we have now three courts, differing at first in functions, but
 through competition for business, and the ingenious use of fictions,
 becoming finally the co-ordinate courts of common law of later history.
@@ -182,7 +182,7 @@ name claimed to exercise judicial as well as other power; hence the
 chancellor's jurisdiction, which became, partly in harmony with the
 supra-legal power claimed from which it sprang, and partly through the
 influence of the ecclesiastical chancellors by whom it was first
-administered, the equity of English law. Similar developments of the
+administered, the [[Equity|equity]] of [[English Law|English law]]. Similar developments of the
 same authority were the court of requests (which was destroyed by a
 decision of the common pleas) and the court of star chamber--a court of
 criminal equity, as it has been called,--which, having been made the
@@ -204,7 +204,7 @@ district courts.
 The Supreme Court is created by the Constitution, and consisted in 1909
 of nine judges, who are nominated by the President and confirmed by the
 Senate. They hold office during good behaviour, i.e. are removable only
-by impeachment, thus having a tenure even more secure than that of
+by [[Impeachment|impeachment]], thus having a tenure even more secure than that of
 English judges. The court sits at Washington from October to July in
 every year. The sessions of the court are held in the Capitol. A rule
 requiring the presence of six judges to pronounce a decision prevents
@@ -228,7 +228,7 @@ be appealed to the Supreme Court from the circuit court of appeals, and
 others directly from the lower courts. The district courts number (1909)
 ninety, in most cases having a single justice. There is also a special
 tribunal called the court of claims, which deals with the claims of
-private persons against the Federal government. It is not strictly a
+private persons against the [[Federal Government|Federal government]]. It is not strictly a
 part of the general judicial system, but is a creation of Congress
 designed to relieve that body of a part of its own labours.
 
@@ -271,7 +271,7 @@ relies upon Federal law, and whose contention is overruled by a state
 court, the right of having the suit removed to a Federal court. The
 Judiciary Act of 1789 (as amended by subsequent legislation) provides
 for the removal to the Supreme Court of the United States of "a final
-judgment or decree in any suit rendered in the highest court of a state
+judgment or [[Decree|decree]] in any suit rendered in the highest court of a state
 in which a decision could be had, where is drawn in question the
 validity of a treaty or statute of, or an authority exercised under the
 United States, and the decision is against their validity; or where is
@@ -317,7 +317,7 @@ authority, whence it necessarily follows that the weaker law is extinct.
 This duty of interpretation belongs to all tribunals, but as
 constitutional cases are, if originating in a lower court, usually
 carried by appeal to the Supreme Court, men have grown accustomed to
-talk of the Supreme Court as in a special sense the guardian of the
+talk of the Supreme Court as in a special sense the [[Guardian|guardian]] of the
 Constitution.
 
 The Federal courts never deliver an opinion on any constitutional
@@ -333,10 +333,10 @@ understood to be entitled so to do.
 
 FOOTNOTES:
 
-  [1] Cf. the German _Hof_ for court-yard, court of law, and royal
+  [1] Cf. the German _[[Hof]]_ for court-yard, court of law, and royal
     court.
 
-  [2] The sittings are held in the court-house in the Old Bailey. The
+  [2] The sittings are held in the court-house in the Old [[Bailey]]. The
     old sessions house was destroyed in the Gordon riots of 1780. The
     building erected in its place, although enlarged from time to time,
     was very incommodious, and a new structure, occupying the site of

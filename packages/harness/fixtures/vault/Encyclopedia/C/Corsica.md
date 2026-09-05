@@ -9,7 +9,7 @@ type: article
 
 CORSICA (Fr. _Corse_), a large island of the Mediterranean, forming a
 department of France. It is situated immediately to the north of
-Sardinia (from which it is separated by the narrow strait of Bonifacio),
+Sardinia (from which it is separated by the narrow strait of [[Bonifacio]]),
 between 41° 21' and 43° N. and 8° 30' and 9° 30' E. Area, 3367 sq.m.
 Pop. (1906) 291,160. Corsica lies within 54 m. W. of the coast of
 Tuscany, 98 m. S. of Genoa and 106 m. S.E. of the French coast at Nice.
@@ -26,17 +26,17 @@ ft.), Rotondo (8612), Paglia Orba (8284), Padro (7851) and d'Oro (7845).
 On the eastern side of the island, between Bastia and Porto Vecchio,
 there intervenes between the mountains and the sea a considerable tract
 of low and unhealthy, but fertile country, and the coast is fringed in
-places by lagoons.
+places by [[Lagoon|lagoons]].
 
   _Geology._--Corsica may be divided into two parts, which are
   geologically distinct, by a line drawn from Belgodere through Corte to
   the east coast near Favone. West of this line the island is composed
   chiefly of granite, with a large mass of granophyres, quartz
   porphyries and similar rocks forming the high mountains around Mt.
-  Cinto; but between the Gulfs of Porto and Galeria, schists, limestones
+  Cinto; but between the Gulfs of Porto and Galeria, schists, [[Limestone|limestones]]
   and anthracite, containing fossils of Upper Carboniferous age, occur.
-  The famous orbicular diorite of Corsica is found near Sta.
-  Lucia-di-Tallano in the arrondissement of Sartène. In the eastern part
+  The famous orbicular [[Diorite|diorite]] of Corsica is found near Sta.
+  Lucia-di-Tallano in the [[Arrondissement|arrondissement]] of Sartène. In the eastern part
   of the island the predominant rocks are schists of unknown age, with
   intrusive masses of serpentine and euphotide. Folded amongst the
   schists are Strips of Upper Carboniferous beds similar to those of the
@@ -66,7 +66,7 @@ are the Liamone, the Gravone and the Taravo. The other streams are all
 comparatively small. Owing to the rugged and indented outline of the
 western coast there are an unusual number of bays and harbours. Of the
 bays the most important are Porto, Sagone, Ajaccio and Valinco; of the
-ports, St Florent (San Fiorenzo), Ile Rousse (Isola Rossa), Calvi,
+ports, St Florent (San Fiorenzo), Ile Rousse (Isola Rossa), [[Calvi]],
 Ajaccio and Propriano. On the eastern side, which is much less rugged
 and broken, the only harbours worth mentioning are those of Bastia and
 Porto Vecchio (the _Portus Syracusanus_ of the ancients), and the only
@@ -80,7 +80,7 @@ and healthy. The mean annual temperature at Ajaccio is 63° F. The
 dominant winds are those from the south-west and south-east.
 
 There are mines of anthracite, antimony and copper; the island produces
-granite, building stone, marble, and amianthus, and there are salt
+granite, building stone, [[Marble|marble]], and amianthus, and there are salt
 marshes. Among other places Guagno, Pardina Guitera, and Orezza have
 mineral springs.
 
@@ -93,7 +93,7 @@ especially of the vine, cedrates, citrons and olives (for which the
 Balagne region, in the north-west, is noted), of vegetables and of
 tobacco, and sheep and goat rearing are the main rural industries, to
 which may be added the rearing of silk-worms. The exploitation of the
-fine forests, which contain the well-known Corsican pine, beeches, oaks
+fine forests, which contain the well-known Corsican pine, [[Beech|beeches]], oaks
 and chestnuts, is also an important resource, but tends to proceed too
 rapidly. Chestnuts are exported, and, ground into flour, are used as
 food by the mountaineers. Most of the inhabitants are proprietors of
@@ -101,7 +101,7 @@ land, but often the properties are so split up that many hours, or even
 a whole day, are spent in going from the vineyard or olive plantation to
 the arable land in the plain or the chestnut-wood in the mountain. A
 great part of the agricultural labour is performed by labourers from
-Tuscany and Lucca, who periodically visit the island for that purpose.
+Tuscany and [[Lucca]], who periodically visit the island for that purpose.
 Sheep of a peculiar breed, resembling chamois and known as _mouflons_,
 inhabit the more inaccessible parts of the mountains. The uncultivated
 districts are generally overgrown with a thick tangled underwood,
@@ -111,22 +111,22 @@ distinguished even from the sea.
 
 Fishing and shooting are allowed almost everywhere to the possessor of a
 government licence; special permission, where it is necessary, is easily
-obtained. Wild boars, stags, in the eastern districts, and hares as well
+obtained. Wild boars, stags, in the eastern districts, and [[Hare|hares]] as well
 as the _mouflon_ are found, while partridges, quail, woodcock, wild duck
 and water-fowl are abundant. Trout and eels are the chief fish. The
-flesh of the Corsican blackbird is considered a delicacy. The fisheries
+flesh of the Corsican blackbird is considered a delicacy. The [[Fisheries|fisheries]]
 of tunny, pilchard and anchovy are extensively prosecuted for the supply
 of the Italian markets; but comparatively few of the natives are engaged
 in this industry.
 
 The Corsican is simple and sober but unenterprising; dignified and
-proud, he is possessed of a native courtesy, manifested in his
+proud, he is possessed of a native [[Courtesy|courtesy]], manifested in his
 hospitality to strangers, the refusal of which is much resented. He is,
 however, implacable towards his own countrymen when his enmity is once
 aroused, and the practice of the blood-feud or _vendetta_ has not died
 out. Each individual is attached to some powerful family, and the
 influence of this usage is specially marked in politics, the individual
-voting with his clan on pain of arousing the vindictiveness of his
+voting with his [[Clan|clan]] on pain of arousing the vindictiveness of his
 fellow-members. Another dominant factor in social life in Corsica is the
 almost universal ambition on the part of the natives towards an official
 career, a tendency from which commerce and agriculture inevitably
@@ -135,24 +135,24 @@ suffer.
 The manufactures of the island are of small importance. They include the
 extraction of gallic acid from chestnut-bark, the preparation of
 preserved citrons and other delicacies, and of macaroni and similar
-foods and the manufacture of fancy goods and cigars.
+foods and the manufacture of [[Fancy|fancy]] goods and [[Cigar|cigars]].
 
 The chief ports are Bastia, Ajaccio and Ile Rousse. A railway runs from
 Bastia to Ajaccio with branches to Calvi and Ghisonaccia, but, in
 general, lack of means of communication as well as of capital are a
 barrier to commercial activity. In 1905 imports reached a value of
 £113,000. The chief were tobacco furniture and wooden goods, wine,
-cereals, coal, cheese and bran. Exports were valued at £336,000, and
-included chestnut-extract, charcoal, timber, citrons and other fruits,
+cereals, coal, [[Cheese|cheese]] and bran. Exports were valued at £336,000, and
+included chestnut-extract, [[Charcoal|charcoal]], timber, citrons and other fruits,
 seeds, casks, skins, chestnuts and tanning bark.
 
 Corsica is divided into five arrondissements (chief towns--Ajaccio,
-Bastia, Calvi, Corte and Sartène), with 62 cantons and 364 communes. It
+Bastia, Calvi, Corte and Sartène), with 62 cantons and 364 [[Commune|communes]]. It
 forms part of the _académie_ (educational circumscription) and
 archiepiscopal province of Aix (Bouches-du-Rhône) and of the region of
-the XV. army corps. The principal towns are Ajaccio, the capital and the
+the XV. army [[Corps|corps]]. The principal towns are Ajaccio, the capital and the
 seat of the bishop of the island and of the prefect; Bastia, the seat of
-the court of appeal and of the military commander; Calvi, Corte and
+the court of appeal and of the military [[Commander|commander]]; Calvi, Corte and
 Bonifacio. Other places of interest are St Florent, near which stand the
 ruins of the cathedral (12th century) of the vanished town of Nebbio;
 Murato, which has a church (12th or 13th century) of Pisan architecture,
@@ -163,14 +163,14 @@ monuments are numerous, chief among them being the dolmen of Fontanaccia
 in the arrondissement of Sartène.
 
 _History._--The earliest inhabitants of Corsica were probably Ligurian.
-The Phocaeans of Ionia were the first civilized people to establish
+The Phocaeans of [[Ionia]] were the first civilized people to establish
 settlements there. About 560 B.C. they landed in the island and founded
 the town of Alalia. By the end of the 6th century, however, their power
 had dwindled before that of the Etruscans, who were in their turn driven
 out by the Carthaginians. The latter were followed by the Romans, who
 gained a footing in the island at the time of the First Punic War, but
 did not establish themselves there till the middle of the 2nd century
-B.C. Both Marius and Sulla founded colonies--the one at Mariana (near
+B.C. Both [[Marius]] and Sulla founded colonies--the one at [[Mariana]] (near
 Lucciana) in 104, the second at Aleria in 88. In the early centuries of
 the Christian era Corsica formed one of the senatorial provinces of the
 Empire, but though it was in continuous commercial communication with
@@ -179,15 +179,15 @@ offenders. One of the most distinguished of those was the younger
 Seneca, who spent in exile there the eight years ending A.D. 49.
 
 During the break-up of the Roman empire in the West the possession of
-Corsica was for a while disputed between the Vandals and the Gothic
+Corsica was for a while disputed between the Vandals and the [[Gothic]]
 allies of the Roman emperors, until in 469 Genseric finally made himself
 master of the island. For 65 years the Vandals maintained their
 domination, the Corsican forests supplying the wood for the fleets with
 which they terrorized the Mediterranean. After the destruction of the
-Vandal power in Africa by Belisarius, his lieutenant Cyril conquered
+Vandal power in Africa by [[Belisarius]], his lieutenant [[Cyril]] conquered
 Corsica (534) which now, under the exarchate of Africa, became part of
 the East Roman empire. The succeeding period was one of great misery.
-Goths and Lombards in turn ravaged the island, which in spite of the
+Goths and [[Lombards]] in turn ravaged the island, which in spite of the
 prayers of Pope Gregory the Great the exarch of Africa did nothing to
 defend; the rule of the Byzantines was effective only in grinding
 excessive taxes out of the wretched population; and, to crown all, in
@@ -195,7 +195,7 @@ excessive taxes out of the wretched population; and, to crown all, in
 descent upon the island. Corsica remained nominally attached to the East
 Roman empire until Charlemagne, having overthrown the Lombard power in
 Italy (774), proceeded to the conquest of the island, which now passed
-into the hands of the Franks. In 806, however, occurred the first of a
+into the hands of the [[Franks]]. In 806, however, occurred the first of a
 series of Moorish incursions from Spain. Several times defeated by the
 emperor's lieutenants, the Moors continually returned, and in 810 gained
 temporary possession of the island. They were crushed and exterminated
@@ -214,7 +214,7 @@ a place of refuge for his son Adalbert, who succeeded in holding the
 island and in passing it on to his son, another Adalbert. This latter
 was, however, defeated by the forces of Otto II., and Corsica was once
 more attached to the marquisate of Tuscany, of which Adalbert was
-allowed to hold part of the island in fee.
+allowed to hold part of the island in [[Fee|fee]].
 
 
   The Terra di Comune.
@@ -228,16 +228,16 @@ Alando, put himself at the head of a movement which resulted in
 confining the feudal lords to less than half of the island to the south,
 and in establishing in the rest, henceforth known as the Terra di
 Comune, a sort of republic composed of autonomous parishes. This system,
-which survived till the Revolution, is thus described by Jacobi (tom. i.
+which survived till the Revolution, is thus described by [[Jacobi]] (tom. i.
 p. 137), "Each parish or commune nominated a certain number of
 councillors who, under the name of 'fathers of the commune,' were
 charged with the administration of justice under the direction of a
 _podestà_, who was as it were their president. The podestas of each of
-the states or enfranchised districts chose a member of the supreme
+the states or enfranchised districts [[Chose|chose]] a member of the supreme
 council charged with the making of laws and regulations for the Terra di
 Comune. This council or magistracy was called the Twelve, from the
 number of districts taking a share in its nomination. Finally, in each
-district the fathers of the commune elected a magistrate who, under the
+district the fathers of the commune elected a [[Magistrate|magistrate]] who, under the
 name of _caporale_, was entrusted with the defence of the interests of
 the poor and weak, with seeing that justice was done to them, and that
 they were not made the victims of the powerful and rich."
@@ -250,7 +250,7 @@ they were not made the victims of the powerful and rich."
 Meanwhile the south remained under the sway of the counts of Cinarca,
 while in the north feudal barons maintained their independence in the
 promontory of Cape Corso. Internal feuds continued; William, marquis of
-Massa, of the family known later as the Malaspina, was called in by the
+[[Massa]], of the family known later as the Malaspina, was called in by the
 communes (1020), drove out the count of Cinarca, reduced the barons to
 order, and in harmony with the communes established a dominion which he
 was able to hand on to his son. Towards the end of the 11th century,
@@ -260,7 +260,7 @@ reversion of the lands of the Church. The Corsican clergy supported the
 claim, and in 1077 the Corsicans declared themselves subjects of the
 Holy See in the presence of the apostolic legate Landolfo, bishop of
 Pisa. Pope Gregory VII. thereupon invested the bishop and his successors
-with the island, an investiture confirmed by Urban II. in 1190 and
+with the island, an [[Investiture|investiture]] confirmed by Urban II. in 1190 and
 extended into a concession of the full sovereignty. The Pisans now took
 solemn possession of the island and their "grand judges" (_judices_)
 took the place of the papal legates. Corsica, valued by the Pisans as by
@@ -271,7 +271,7 @@ The Corsican bishops repented their subjection to the Pisan archbishop;
 the Genoese intrigued at Rome to obtain a reversal of the papal gift to
 the rivals with whom they were disputing the supremacy of the seas.
 Successive popes followed conflicting policies in this respect; until in
-1138 Innocent II., by way of compromise, divided the ecclesiastical
+1138 [[Innocent]] II., by way of [[Compromise|compromise]], divided the ecclesiastical
 jurisdiction of the island between the archbishops of Pisa and Genoa.
 This gave the Genoese great influence in Corsica, and the contest
 between the Pisans and Genoese began to distract the island. It was not,
@@ -289,7 +289,7 @@ Malaspina; the Pisans set up the count of Cinarca once more; and the war
 between the marquis, the Pisans and Genoese dragged on with varying
 fortunes, neither succeeding in gaining the mastery. Then, in 1298, Pope
 Boniface VIII. added to the complication by investing King James of
-Aragon with the sovereignty of Corsica and of Sardinia. In 1325, after
+[[Aragon]] with the sovereignty of Corsica and of Sardinia. In 1325, after
 long delay, the Aragonese attacked and reduced Sardinia, with the result
 that the Pisans, their sea-power shattered, were unable to hold their
 own in Corsica. A fresh period of anarchy followed until, in 1347, a
@@ -311,21 +311,21 @@ feuds to reassert his claims. In 1372 Arrigo, count of La Rocca, with
 the assistance of Aragonese troops, made himself master of the island;
 but his very success stirred up against him the barons of Cape Corso,
 who once more appealed to Genoa. The republic, busied with other
-affairs, hit upon the luckless expedient of investing with the
+affairs, [[Hit|hit]] upon the luckless expedient of investing with the
 governorship of the island a sort of chartered company, consisting of
 five persons, known as the _Maona_. They attempted to restore order by
 taking Arrigo della Rocca into partnership, with disastrous results. In
 1380 four of the "governors of the Maona" resigned their rights to the
 Genoese republic, and Leonello Lomellino was left as sole governor. It
 was he who, in 1383, built Bastia on the north coast, which became the
-bulwark of the Genoese power in the island. It was not till 1401, after
+[[Bulwark|bulwark]] of the Genoese power in the island. It was not till 1401, after
 the death of Count Arrigo, that the Genoese domination was temporarily
 re-established.
 
 Meanwhile Genoa itself had fallen into the hands of the French, and in
 1407 Leonello Lomellino returned as governor with the title of count of
 Corsica bestowed on him by Charles VI. of France. But Vincentello d'
-Istria, who had gained distinction in the service of the king of Aragon,
+[[Istria]], who had gained distinction in the service of the king of Aragon,
 had captured Cinarca, rallied round him all the communes of the Terra di
 Comune, proclaimed himself count of Corsica at Biguglia and even seized
 Bastia. Lomellino was unable to make headway against him, and by 1410
@@ -357,14 +357,14 @@ Vincentello he managed to hold his own for a while; but ultimately the
 country rose against him, and in 1435 he was executed as a rebel by the
 Genoese, who had captured him by surprise in the port of Bastia.
 
-The anarchy continued, while rival factions, nominal adherents of the
+The anarchy continued, while rival [[Faction|factions]], nominal adherents of the
 Aragonese and Genoese, contended for the mastery. Profiting by the
 disturbed situation, the Genoese doge, Janus da Fregoso, succeeded in
 reducing the island, his artillery securing him an easy victory over the
 forces of Count Paolo della Rocca (1441). To secure his authority he
 built and fortified the new city of San Fiorenzo, near the ruins of
 Nebbio. But again the Aragonese intervened, and the anarchy reached its
-height. An appeal to Pope Eugenius IV. resulted in the despatch of a
+height. An appeal to Pope [[Eugenius]] IV. resulted in the despatch of a
 pontifical army of 14,000 men (1444), which was destroyed in detail by a
 league of some of the _caporali_ and most of the barons under the bold
 leadership of Rinuccio da Leca. A second expedition was more fortunate,
@@ -422,7 +422,7 @@ If the character of the Corsicans has been distinguished in modern times
 for a certain wild intractableness and ferocity, the cause lies in their
 unhappy past, and not least in the character of the rule established by
 the bank of San Giorgio. The power which the bank had won by ruthless
-cruelty, it exercised in the spirit of the narrowest and most
+[[Cruelty|cruelty]], it exercised in the spirit of the narrowest and most
 short-sighted selfishness. Only a shadow of the native institutions was
 suffered to survive, and no adequate system of administration was set up
 in the place of that which had been suppressed. In the absence of
@@ -432,9 +432,9 @@ making an end of private war. The agents of the bank, so far from
 discouraging these internecine quarrels, looked on them as the surest
 means for preventing a general rising. Concerned, moreover, only with
 squeezing taxes out of a recalcitrant population, they neglected the
-defence of the coast, along which the Barbary pirates harried and looted
+defence of the coast, along which the [[Barbary]] pirates harried and looted
 at will; and to all these woes were added, in the 16th century,
-pestilences and disastrous floods, which tended still further to
+pestilences and disastrous [[Flood|floods]], which tended still further to
 impoverish and barbarize the country.
 
 
@@ -445,19 +445,19 @@ conquering the island. From Corsican mercenaries in French service, men
 embittered by wrongs suffered at the hands of the Genoese, he obtained
 all the necessary information; by a treaty of alliance concluded at
 Constantinople (February 1, 1553) with Sultan Suleiman the Magnificent
-he secured the co-operation of the Turkish fleet. The combined forces
+he secured the [[Co-Operation|co-operation]] of the Turkish fleet. The combined forces
 attacked the island the same year; the citadel of Bastia fell almost
 without a blow, and siege was at once laid simultaneously to all the
-other fortresses. The capitulation of Bonifacio to the Turks, after an
-obstinate resistance, was followed by the treacherous massacre of the
-garrison; soon, of all the strong places, the Genoese held Calvi alone.
+other fortresses. The [[Capitulation|capitulation]] of Bonifacio to the Turks, after an
+obstinate resistance, was followed by the treacherous [[Massacre|massacre]] of the
+[[Garrison|garrison]]; soon, of all the strong places, the Genoese held Calvi alone.
 At this juncture the emperor Charles V. intervened; a strong force of
 imperial troops and Genoese was poured into the island, and the tide of
 war turned. The details of the struggle that followed, in which the
 Corsican national hero Sampiero da Bastelica gained his first laurels,
 are of little general importance. Fortresses were captured and
 recaptured; and for three years French, Germans, Spaniards, Genoese and
-Corsicans indulged in a carnival of mutual slaughter and outrage. The
+Corsicans indulged in a [[Carnival|carnival]] of mutual slaughter and outrage. The
 outcome of all this was a futile reversion to the _status quo_. In 1556,
 indeed, the conclusion of a truce left Corsica--with the exception of
 Bastia--in the hands of the French, who proceeded to set up a tolerable
@@ -468,7 +468,7 @@ over by the Genoese republic.
 
   Sampiero da Bastelica.
 
-Trouble at once began again. The Genoese attempted to levy a tax which
+Trouble at once began again. The Genoese attempted to [[Levy|levy]] a tax which
 the Corsicans refused to pay; in violation of the terms of the treaty,
 which had stipulated for a universal amnesty, they confiscated the
 property of Sampiero da Bastelica. Hereupon Sampiero again put himself
@@ -484,8 +484,8 @@ indiscipline among the Corsicans and by the internecine feuds of which
 the Genoese well knew how to take advantage. For over two years a war
 was waged in which quarter was given on neither side; but after the
 assassination of Sampiero in 1567 the spirit of the insurgents was
-broken. In 1568 an honourable peace, including a general amnesty, was
-arranged with the Genoese commander Giorgio Doria by Sampiero's son
+broken. In 1568 an [[Honourable|honourable]] peace, including a general amnesty, was
+arranged with the Genoese commander Giorgio [[Doria]] by Sampiero's son
 Alphonso d'Ornano, who with 300 of his friends emigrated to France,
 where he rose to be a marshal under Henry IV.
 
@@ -534,9 +534,9 @@ to accept his aid on his own conditions, namely that he should be
 acknowledged as king of Corsica. On the 15th of April, at Alesani, an
 assembly of clergy and of representatives of the communes, solemnly
 proclaimed Corsica an independent kingdom under the sovereignty of
-Theodore "I." and his heirs. The new king's reign was not fated to last
+Theodore "I." and his [[Heir|heirs]]. The new king's reign was not fated to last
 long. The _opéra bouffe_ nature of his entry on the stage--he was clad
-in a scarlet caftan, Turkish trousers and a Spanish hat and feather, and
+in a scarlet [[Caftan|caftan]], Turkish trousers and a Spanish hat and [[Feather|feather]], and
 girt with a scimitar--did not, indeed, offend the unsophisticated
 islanders; they were even ready to take seriously his lavish bestowal of
 titles and his knightly order "della Liberazione"; they appreciated his
@@ -573,7 +573,7 @@ and by the cutting up of several isolated French detachments. In
 February 1739 Boissieux died. His successor, the marquis de Maillebois,
 arrived in March with strong reinforcements, and by a combination of
 severity and conciliation soon reduced the island to order. Its
-maintenance, however, depended on the presence of the French troops, and
+[[Maintenance|maintenance]], however, depended on the presence of the French troops, and
 in October 1740 the death of the emperor Charles VI. and the outbreak of
 the War of the Austrian Succession necessitated their withdrawal.
 Genoese and Corsicans were once more left face to face, and the
@@ -627,7 +627,7 @@ command.
   Pasquale Paoli.
 
 The first task of Pasquale Paoli, elected general in April at an
-assembly at San Antonio della Casabianca, was to suppress the rival
+assembly at San [[Antonio]] della Casabianca, was to suppress the rival
 faction led by Emanuele Matra, son of Gaffori's former colleague. By the
 spring of 1756 this was done, and the Corsicans were able to turn a
 united front against the Genoese. At this juncture the French, alarmed
@@ -658,9 +658,9 @@ sovereignty had been expressly recognized in the agreement authorizing
 this, it was in effect non-existent. French and Corsicans remained on
 amicable terms, and the inhabitants of the nominally Genoese towns
 actually sent representatives to the national _consulta_ or parliament.
-The climax came early in 1767 when the Corsicans captured the Genoese
+The [[Climax|climax]] came early in 1767 when the Corsicans captured the Genoese
 island of Capraja, and occupied Ajaccio and other places, evacuated by
-the French as a protest against the asylum given to the Jesuits exiled
+the French as a protest against the [[Asylum|asylum]] given to the [[Jesuits]] exiled
 from France. Genoa now recognized that she had been worsted in the long
 contest, and on the 15th of May 1768 signed a treaty selling the
 sovereignty of the island to France.
@@ -668,18 +668,18 @@ sovereignty of the island to France.
 
   French conquest.
 
-The Corsicans, intent on independence, were now faced with a more
+The Corsicans, [[Intent|intent]] on independence, were now faced with a more
 formidable enemy than the decrepit republic of Genoa. A section of the
 people indeed, were in favour of submission; but Paoli himself declared
 for resistance; and among those who supported him at the _consulta_
-summoned to discuss the question was his secretary Carlo Buonaparte,
-father of Napoleon Bonaparte, the future emperor of the French. Into the
+summoned to [[Discus|discuss]] the question was his secretary Carlo Buonaparte,
+father of Napoleon [[Bonaparte]], the future emperor of the French. Into the
 details of the war that followed, it is impossible to enter here; in the
 absence of the hoped-for help from Great Britain its issue could not be
 doubtful; and, though the task of the French was a hard one, by the
 summer of 1769 they were masters of the island. On the 16th of June
 Pasquale and Clemente Paoli, with some 400 of their followers, embarked
-on a British ship for Leghorn. On the 15th of September 1770, a general
+on a British ship for [[Leghorn]]. On the 15th of September 1770, a general
 assembly of the Corsicans was summoned and the deputies swore allegiance
 to King Louis XV.
 
@@ -695,14 +695,14 @@ separate department (see Renucci, ii. p. 271 seq.). Paoli, recalled from
 exile by the National Assembly on the motion of Mirabeau, after a visit
 to Paris, where he was acclaimed as "the hero and martyr of liberty" by
 the National Assembly and the Jacobin Club, returned in 1790 to Corsica,
-where he was received with immense enthusiasm and acclaimed as "father
+where he was received with immense [[Enthusiasm|enthusiasm]] and acclaimed as "father
 of the country." With the new order in the island, however, he was
 little in sympathy. In the towns branches of the Jacobin Club had been
 established, and these tended, as elsewhere, to usurp the functions of
 the regular organs of government and to introduce a new element of
 discord into a country which it had been Paoli's life's work to unify.
 Suspicions of his loyalty to revolutionary principles had already been
-spread at Paris by Bartolomeo Arena, a Corsican deputy and ardent
+spread at Paris by Bartolomeo [[Arena]], a Corsican [[Deputy|deputy]] and ardent
 Jacobin, so early as 1791; yet in 1792, after the fall of the monarchy,
 the French government, in its anxiety to secure Corsica, was rash enough
 to appoint him lieutenant-general of the forces and governor (_capo
@@ -718,7 +718,7 @@ attended the meeting, he replied that he was rebelling, not against
 France, but against the dominant faction of whose actions the majority
 of Frenchmen disapproved. Saliceti thereupon hurried to Paris, and on
 his motion Paoli and his sympathizers were declared by the Convention
-_hors la loi_ (June 26).
+_[[Hor|hors]] la loi_ (June 26).
 
 
   British occupation, 1794-1796.
@@ -727,7 +727,7 @@ Paoli had already made up his mind to raise the standard of revolt
 against France. But though the _consulta_ at Corte elected him
 president, Corsican opinion was by no means united. Napoleon Bonaparte,
 whom Paoli had expected to win over to his views, indignantly rejected
-the idea of a breach with France, and the Bonapartes were henceforth
+the idea of a [[Breach|breach]] with France, and the Bonapartes were henceforth
 ranked with his enemies. Paoli now appealed for assistance to the
 British government, which despatched a considerable force. By the summer
 of 1794, after hard fighting, the island was reduced, and in June the
@@ -750,7 +750,7 @@ Its history henceforth is part of that of France.
   _Istoria di Corsica_ (1st ed., 1594; 2nd ed., corrected and
   illustrated with unpublished documents by G. C. Gregori, 5 vols.,
   Pisa, 1827-1832); J. M. Jacobi, _Hist. gén. de la Corse_, 2 vols.,
-  (Paris, 1833-1835), with many unpublished documents; L. H. Caird,
+  (Paris, 1833-1835), with many unpublished documents; L. H. [[Caird]],
   _History of Corsica_ (London, 1899). Further works and references to
   articles in reviews, &c., are given in Ulysse Chevalier's _Répertoire
   des sources_, &c., _Topo-bibliographie_, t. ii. s.v.
@@ -763,7 +763,7 @@ FOOTNOTES:
     pp. 286, 305, 413, 501, 549 and (1883) 147; also the report of the
     deputies sent by the bank to Pope Nicholas V. in 1453, ib. p. 141.
 
-  [2] Hammer-Purgstall, _Gesch. des Osmanischen Reichs_ (Pest, 1840),
+  [2] [[Hammer-Purgstall]], _Gesch. des Osmanischen Reichs_ (Pest, 1840),
     ii. 288.
 
   [3] Father Cancellotti, who visited every part of the island,

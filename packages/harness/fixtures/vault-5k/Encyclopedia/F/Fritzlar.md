@@ -26,7 +26,7 @@ Buraburg, which had been founded by Boniface in 741. At the diet of
 Fritzlar in 919 Henry I. was elected German king. In the beginning of
 the 13th century the village received municipal rights; in 1232 it was
 captured and burned by the landgrave Conrad of Thuringia and his allies;
-in 1631 it was taken by William of Hesse; in 1760 it was successfully
+in 1631 it was taken by William of [[Hesse]]; in 1760 it was successfully
 defended by General Luckner against the French; and in 1761 it was
 occupied by the French and unsuccessfully bombarded by the Allies. As a
 principality Fritzlar continued subject to the archbishopric of Mainz

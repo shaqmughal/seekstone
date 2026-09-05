@@ -9,7 +9,7 @@ topic: language
 BESTIA, the name of a family in ancient Rome, of which the following
 were the most distinguished.
 
-1. LUCIUS CALPURNIUS BESTIA, Roman tribune of the people in 121 B.C.,
+1. [[Lucius|LUCIUS]] [[Calpurnius|CALPURNIUS]] BESTIA, Roman tribune of the people in 121 B.C.,
 consul in 111. Having been appointed to the command of the operations
 against Jugurtha, he at first carried on the campaign energetically, but
 soon, having been heavily bribed, concluded a disgraceful peace. On his
@@ -19,7 +19,7 @@ and equally guilty, was one of the judges. He is probably identical with
 the Bestia who encouraged the Italians in their revolt, and went into
 exile (90) to avoid punishment under the law of Q. Varius, whereby those
 who had secretly or openly aided the Italian allies against Rome were to
-be brought to trial (Appian, _Bell. Civ._ i. 37; Val. Max. viii. 6. 4).
+be brought to trial ([[Appian]], _Bell. Civ._ i. 37; Val. Max. viii. 6. 4).
 Both Cicero and Sallust express a high opinion of Bestia's abilities,
 but his love of money demoralized him. He is mentioned in a Carthaginian
 inscription as one of a board of three, perhaps an agricultural
@@ -37,7 +37,7 @@ the signal for the outbreak of revolution. The conspiracy, however, was
 put down and Bestia had to content himself with delivering a violent
 attack upon the consul on the expiration of his office. This Bestia is
 probably not the Lucius Calpurnius Bestia, aedile, and a candidate for
-the praetorship in 57. He was accused of bribery during his candidature,
+the praetorship in 57. He was accused of [[Bribery|bribery]] during his candidature,
 and, in spite of Cicero's defence, was condemned. In 43 he attached
 himself to the party of Antony, apparently in the hope of obtaining the
 consulship.

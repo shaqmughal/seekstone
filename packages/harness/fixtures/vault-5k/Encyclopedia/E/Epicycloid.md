@@ -13,10 +13,10 @@ internally on the fixed circle, a point on the circumference describes a
 carried point is an "epitrochoid" when the circle rolls externally, and
 a "hypotrochoid" when the circle rolls internally. The epicycloid was so
 named by Ole Romer in 1674, who also demonstrated that cog-wheels having
-epicycloidal teeth revolved with minimum friction (see MECHANICS:
+epicycloidal teeth revolved with minimum [[Friction|friction]] (see MECHANICS:
 _Applied_); this was also proved by Girard Desargues, Philippe de la
-Hire and Charles Stephen Louis Camus. Epicycloids also received
-attention at the hands of Edmund Halley, Sir Isaac Newton and others;
+Hire and Charles Stephen Louis [[Camus]]. Epicycloids also received
+attention at the hands of Edmund Halley, Sir [[Isaac]] Newton and others;
 spherical epicycloids, in which the moving circle is inclined at a
 constant angle to the plane of the fixed circle, were studied by the
 Bernoullis, Pierre Louis M. de Maupertuis, Francois Nicole, Alexis
@@ -26,7 +26,7 @@ Claude Clairault and others.
   named above, when the radii of the rolling and fixed circles are in
   the ratio of 1 to 3. Since the circumference of a circle is
   proportional to its radius, it follows that if the ratio of the radii
-  be commensurable, the curve will consist of a finite number of cusps,
+  be commensurable, the curve will consist of a finite number of [[Cusp|cusps]],
   and ultimately return into itself. In the particular case when the
   radii are in the ratio of 1 to 3 the epicycloid (curve a) will
   consist of three cusps external to the circle and placed at equal
@@ -42,7 +42,7 @@ Claude Clairault and others.
 
   [Illustration]
 
-  The cartesian equation to the epicycloid assumes the form
+  The cartesian [[Equation|equation]] to the epicycloid assumes the form
                                    _____
     x = (a + b) cos[theta] - b cos(a + b / b)[theta],
                                    _____
@@ -92,7 +92,7 @@ Claude Clairault and others.
   extremities are always on two fixed lines at right angles to each
   other, i.e. of the line x/[alpha] + y/[beta] = 1, with the condition
   [alpha]^2 + [beta]^2 = 1/a, a constant. The epicycloid when the radii
-  of the circles are equal is the cardioid (q.v.), and the corresponding
+  of the circles are equal is the [[Cardioid|cardioid]] (q.v.), and the corresponding
   trochoidal curves are limacons (q.v.). Epicycloids are also examples
   of certain caustics (q.v.).
 

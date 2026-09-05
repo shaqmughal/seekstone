@@ -1,7 +1,7 @@
 # M'Crie
 
 M'CRIE, THOMAS (1772-1835), Scottish historian and divine, was born at
-Duns in Berwickshire in November 1772. He studied in Edinburgh
+Duns in [[Berwickshire]] in November 1772. He studied in Edinburgh
 University, and in 1796 he was ordained minister of the Second Associate
 Congregation, Edinburgh. In 1806, however, with some others M'Crie
 seceded from the "general associate synod," and formed the

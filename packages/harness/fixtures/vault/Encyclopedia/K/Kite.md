@@ -1,6 +1,6 @@
 # Kite
 
-KITE,[1] the _Falco milvus_ of Linnaeus and _Milvus ictinus_ of modern
+KITE,[1] the _Falco milvus_ of Linnaeus and _Milvus [[Ictinus|ictinus]]_ of modern
 ornithologists, once probably the most familiar bird of prey in Great
 Britain, and now one of the rarest. Three or four hundred years ago
 foreigners were struck with its abundance in the streets of London. It
@@ -11,15 +11,15 @@ latter at Norwich--"in good plentie about the citty which makes so few
 kites to be seen hereabout." John Wolley has well remarked of the modern
 Londoners that few "who see the paper toys hovering over the parks in
 fine days of summer, have any idea that the bird from which they derive
-their name used to float all day in hot weather high over the heads of
+their name used to [[Float|float]] all day in hot weather high over the heads of
 their ancestors." Even at the beginning of the 19th century the kite
 formed a feature of many a rural landscape in England, as they had done
-in the days when the poet Cowper wrote of them. "But an evil time soon
+in the days when the poet [[Cowper]] wrote of them. "But an evil time soon
 came upon the species. It must have been always hated by the henwife,
-but the resources of civilization in the shape of the gun and the gin
+but the resources of civilization in the shape of the gun and the [[Gin|gin]]
 were denied to her. They were, however, employed with fatal zeal by the
 gamekeeper; for the kite, which had long afforded the supremest sport to
-the falconer, was now left friendless,"[2] and in a very few years it
+the [[Falconer|falconer]], was now left friendless,"[2] and in a very few years it
 seems to have been exterminated throughout the greater part of England,
 certain woods in the Western Midlands, as well as Wales, excepted. In
 these latter a small remnant still exists; but the well-wishers of this
@@ -37,14 +37,14 @@ expansion, and therefore a powerful rudder, enabling the bird while
 soaring on its wide wings, more than 5 ft. in extent, to direct its
 circling course with scarcely a movement that is apparent to the
 spectator below. Its general colour is pale reddish-brown or cinnamon,
-the head being greyish-white, but almost each feather has the shaft
+the head being greyish-white, but almost each [[Feather|feather]] has the shaft
 dark. The tail feathers are broad, of a light red, barred with deep
 brown, and furnish the salmon fisher with one of the choicest materials
-of his "flies." The nest, nearly always built in the crotch of a large
+of his "flies." The nest, nearly always built in the [[Crotch|crotch]] of a large
 tree, is formed of sticks intermixed with many strange substances
 collected as chance may offer, but among them rags[3] seem always to
-have a place. The eggs, three or four in number, are of a dull white,
-spotted and blotched with several shades of brown, and often lilac. It
+have a place. The [[Egg|eggs]], three or four in number, are of a dull white,
+spotted and blotched with several shades of brown, and often [[Lilac|lilac]]. It
 is especially mentioned by old authors that in Great Britain the kite
 was resident throughout the year; whereas on the Continent it is one of
 the most regular and marked migrants, stretching its wings towards the
@@ -61,7 +61,7 @@ Nearly allied to this black kite are the _M. aegyptius_ of Africa, the
 _M. govinda_ (the common pariah kite of India),[5] the _M. melanotis_ of
 Eastern Asia, and the _M. affinis_ and _M. isurus_; the last is by some
 authors removed to another genus or sub-genus as _Lophoictinia_, and is
-peculiar to Australia, while _M. affinis_ also occurs in Ceylon, Burma,
+peculiar to [[Australia]], while _M. affinis_ also occurs in Ceylon, [[Burma]],
 and some of the Malay countries as well. All these may be considered
 true kites, while those next to be mentioned are more aberrant forms.
 First there is _Elanus_, the type of which is _E. caeruleus_, a
@@ -106,13 +106,13 @@ FOOTNOTES:
     the performance of the French king's falconer, who, when sent to
     England to show sport, "could not kill one kite, ours being more
     magnanimous than the French kite," at last succeeded, after an outlay
-    of £1000, in getting a cast of hawks that took nine kites
+    of £1000, in getting a cast of [[Hawks|hawks]] that took nine kites
     running--"never missed one." On the strength of this, James was
     induced to witness a flight at Royston, "but the kite went to such a
-    mountee as all the field lost sight of kite and hawke and all, and
+    mountee as all the field lost sight of kite and [[Hawke|hawke]] and all, and
     neither kite nor hawke were either seen or heard of to this present."
 
-  [3] Thus justifying the advice of Shakespeare's Autolycus (_Winter's
+  [3] Thus justifying the advice of Shakespeare's [[Autolycus]] (_Winter's
     Tale_, iv. 3)--"When the kite builds, look to lesser linen"--very
     necessary in the case of the laundresses in olden time, when the bird
     commonly frequented their drying-grounds.
@@ -120,10 +120,10 @@ FOOTNOTES:
   [4] Dr R. Bowdler Sharpe (_Cat. Birds Brit. Mus._ i. 322) calls it
     _M. korschun_, but the figure of S. G. Gmelin's _Accipiter Korschun_,
     whence the name is taken, unquestionably represents the moor-buzzard
-    (_Circus aeruginosus_).
+    (_[[Circus]] aeruginosus_).
 
   [5] The Brahminy kite of India, _Haliastur Indus_, seems to be rather
-    a fishing eagle.
+    a fishing [[Eagle|eagle]].
 
 ## References
 

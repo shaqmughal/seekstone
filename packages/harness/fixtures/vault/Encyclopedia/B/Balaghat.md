@@ -6,7 +6,7 @@ topic: composers
 
 # Balaghat
 
-BALAGHAT (_i.e._ "above the _ghats_ or passes," the highlands), a district
+BALAGHAT (_i.e._ "above the _[[Ghats|ghats]]_ or passes," the highlands), a district
 of British India in the Nagpur division of the Central Provinces. The
 administrative headquarters are at the town of Burha. The district contains
 an area of 3132 sq. m. It forms the eastern portion of the central plateau

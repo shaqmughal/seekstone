@@ -7,12 +7,12 @@ id: 42-4459
 
 # Jaundice
 
-JAUNDICE (Fr. _jaunisse_, from _jaune_, yellow), or ICTERUS (from its
+JAUNDICE (Fr. _jaunisse_, from _jaune_, yellow), or [[Icterus|ICTERUS]] (from its
 resemblance to the colour of the golden oriole, of which Pliny relates
 that if a jaundiced person looks upon it he recovers but the bird dies),
 a term in medicine applied to a yellow coloration of the skin and other
 parts of the body, depending in most instances on some derangement
-affecting the liver. This yellow colour is due to the presence in the
+affecting the [[Liver|liver]]. This yellow colour is due to the presence in the
 blood of bile or of some of the elements of that secretion. Jaundice,
 however, must be regarded more as a symptom of some morbid condition
 previously existing than as a disease _per se_.
@@ -57,12 +57,12 @@ to gastro-duodenal irritation spreading through the common duct--the
 first sign to attract attention is the yellow appearance of the white of
 the eye, which is speedily followed by a similar colour on the skin over
 the body generally. The yellow tinge is most distinct where the skin is
-thin, as on the forehead, breast, elbows, &c. It may be also well seen
-in the roof of the mouth, but in the lips and gums the colour is not
+thin, as on the forehead, [[Breast|breast]], [[Elbow|elbows]], &c. It may be also well seen
+in the roof of the mouth, but in the [[Lip|lips]] and [[Gum|gums]] the colour is not
 observed till the blood is first pressed from them. The tint varies,
 being in the milder cases faint, in the more severe a deep saffron
 yellow, while in extreme degrees of obstruction it may be of dark brown
-or greenish hue. The colour can scarcely, if at all, be observed in
+or greenish [[Hue|hue]]. The colour can scarcely, if at all, be observed in
 artificial light.
 
 The urine exhibits well marked and characteristic changes in jaundice
@@ -71,7 +71,7 @@ elsewhere. It is always of dark brown colour resembling porter, but
 after standing in the air it acquires a greenish tint. Its froth is
 greenish-yellow, and it stains with this colour any white substance. It
 contains not only the bile colouring matter but also the bile acids. The
-former is detected by the play of colours yielded on the addition of
+former is detected by the play of [[Colours|colours]] yielded on the addition of
 nitric acid, the latter by the purple colour, produced by placing a
 piece of lump sugar in the urine tested, and adding thereto a few drops
 of strong sulphuric acid.
@@ -90,7 +90,7 @@ the stomach. Intolerable itching of the skin is a common accompaniment
 of jaundice, and cutaneous eruptions or boils are occasionally seen.
 Yellow vision appears to be present in some very rare cases. Should the
 jaundice depend on advancing organic disease of the liver, such as
-cancer, the tinge becomes gradually deeper, and the emaciation and
+[[Cancer|cancer]], the tinge becomes gradually deeper, and the emaciation and
 debility more marked towards the fatal termination, which in such cases
 is seldom long postponed. Apart from this, however, jaundice from
 obstruction may exist for many years, as in those instances where the
@@ -104,7 +104,7 @@ catarrhal jaundice, or that following the passing of gallstones, a light
 nutritious diet (milk, soups, &c., avoiding saccharine and farinaceous
 substances and alcoholic stimulants), along with counter-irritation
 applied over the right side and the use of laxatives and cholagogues,
-will be found to be advantageous. Diaphoretics and diuretics to promote
+will be found to be advantageous. [[Diaphoretics]] and [[Diuretics|diuretics]] to promote
 the action of the skin and kidneys are useful in jaundice. In the more
 chronic forms, besides the remedies above named, the waters of Carlsbad
 are of special efficacy. In cases other than acute catarrhal, operative
@@ -112,16 +112,16 @@ interference is often called for, to remove the gallstones, tumour, &c.,
 causing the obstruction.
 
 2. _Toxaemic Jaundice_ is observed to occur as a symptom in certain
-fevers, e.g. yellow fever, ague, and in pyaemia also as the effect of
+[[Fever|fevers]], e.g. yellow fever, ague, and in pyaemia also as the effect of
 certain poisons, such as phosphorus, and the venom of snake-bites.
 Jaundice of this kind is almost always slight, and neither the urine nor
-the discharges from the bowels exhibit changes in appearance to such a
+the [[Discharge|discharges]] from the bowels exhibit changes in appearance to such a
 degree as in the obstructive variety. Grave constitutional symptoms are
 often present, but they are less to be ascribed to the jaundice than to
 the disease with which it is associated.
 
 3. _Hereditary Jaundice._--Under this group there are the jaundice of
-new-born infants, which varies enormously in severity; the cases in
+new-born [[Infant|infants]], which varies enormously in severity; the cases in
 which a slight form of jaundice obtains in several members of the same
 family, without other symptoms, and which may persist for years; and
 lastly the group of cases with hypertrophic cirrhosis.

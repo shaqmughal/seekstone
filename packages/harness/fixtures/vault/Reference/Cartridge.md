@@ -6,8 +6,8 @@ topic: science
 
 # Cartridge
 
-CARTRIDGE (corruption of Fr. _cartouche_), a case, of brass or other
-metal, cardboard, silk, flannel, &c., containing an explosive charge,
+CARTRIDGE (corruption of Fr. _[[Cartouche|cartouche]]_), a case, of [[Brass|brass]] or other
+metal, cardboard, silk, [[Flannel|flannel]], &c., containing an explosive charge,
 and usually the projectile also, for small arms and ordnance (see
 AMMUNITION).
 

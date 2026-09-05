@@ -6,9 +6,9 @@ m. N.E. of Peking, with which it is connected by an excellent road. Pop.
 (estimate), 10,000. It is a flourishing town, and consists of one great
 street, about 2 m. long, with smaller streets radiating in all
 directions. The people are well-to-do and there are some fine shops. The
-palace, called Pi-shu-shan-chuang, or "mountain lodge for avoiding
+palace, called Pi-shu-shan-chuang, or "mountain [[Lodge|lodge]] for avoiding
 heat," was built in 1703 on the plan of the palace of Yuen-ming-yuen
-near Peking. A substantial brick wall 6 m. in circuit encloses several
+near Peking. A substantial [[Brick|brick]] wall 6 m. in circuit encloses several
 well-wooded heights and extensive gardens, rockeries, pavilions,
 temples, &c. Jehol was visited by Lord Macartney on his celebrated
 mission to the emperor K'ienlung in 1793; and it was to Jehol that the

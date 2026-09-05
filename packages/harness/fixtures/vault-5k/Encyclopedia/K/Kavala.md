@@ -20,7 +20,7 @@ town and dilapidated citadel with water from Mount Pangeus.
   Kavala has been identified with Neapolis, at which St Paul landed on
   his way from Samothrace to Philippi (Acts xvi. 11). Neapolis was the
   port of Philippi, as Kavala now is of Seres; in the bay on which it
-  stands the fleet of Brutus and Cassius was stationed during the battle
+  stands the fleet of Brutus and [[Cassius]] was stationed during the battle
   of Philippi. Some authorities identify Neapolis with Datum ([Greek:
   Daton]), mentioned by Herodotus as famous for its gold mines.
 

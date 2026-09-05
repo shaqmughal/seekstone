@@ -8,8 +8,8 @@ type: note
 # Iserlohn
 
 ISERLOHN, a town in the Prussian province of Westphalia, on the Baar, in
-a bleak and hilly region, 17 m. W. of Arnsberg, and 30 m. E.N.E. from
-Barmen by rail. Pop. (1900) 27,265. Iserlohn is one of the most
+a bleak and hilly region, 17 m. W. of [[Arnsberg]], and 30 m. E.N.E. from
+[[Barmen]] by rail. Pop. (1900) 27,265. Iserlohn is one of the most
 important manufacturing towns in Westphalia. Both in the town and
 neighbourhood there are numerous foundries and works for iron, brass,
 steel and bronze goods, while other manufactures include wire, needles

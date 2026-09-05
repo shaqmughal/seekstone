@@ -1,14 +1,14 @@
 # Lightning Conductor
 
-LIGHTNING CONDUCTOR, or LIGHTNING ROD (Franklin), the name usually given
+LIGHTNING CONDUCTOR, or LIGHTNING ROD ([[Franklin]]), the name usually given
 to apparatus designed to protect buildings or ships from the destructive
 effects of lightning (Fr. _paratonnerre_, Ger. _Blitzableiter_). The
 upper regions of the atmosphere being at a different electrical
 potential from the earth, the thick dense clouds which are the usual
 prelude to a thunder storm serve to conduct the electricity of the upper
-air down towards the earth, and an electrical discharge takes place
+air down towards the earth, and an electrical [[Discharge|discharge]] takes place
 across the air space when the pressure is sufficient. Lightning
-discharges were distinguished by Sir Oliver Lodge into two distinct
+discharges were distinguished by Sir Oliver [[Lodge]] into two distinct
 types--the _A_ and the _B_ flashes. The _A_ flash is of the simple type
 which arises when an electrically charged cloud approaches the earth
 without an intermediate cloud intervening. In the second type _B_, where
@@ -39,7 +39,7 @@ avoid damage to the structure this must also be connected to the
 conductors. A single air terminal is of no more use than an inscribed
 sign-board; besides multiplying the number of points, numerous paths, as
 well as interconnexions between the conductors, must be arranged to lead
-the discharge to the earth. The system of pipes and gutters on a roof
+the discharge to the earth. The system of pipes and [[Gutter|gutters]] on a roof
 must be imitated; although a single rain-water pipe would be sufficient
 to deal with a summer shower, in practice pipes are used in sufficient
 number to carry off the greatest storm.
@@ -105,10 +105,10 @@ by A (fig. 2); the usual method is seen in B (fig. 2), where the tape
 follows the contour of the building and causes side flash. A building
 with a long roof should also be fitted with a horizontal conductor along
 the ridge, and to this aigrettes (fig. 3) should be attached; a simpler
-method is to support the cable by holdfasts armed with a spike (fig. 4).
-Joints must be held together mechanically as well as electrically, and
+method is to support the [[Cable|cable]] by holdfasts armed with a spike (fig. 4).
+[[Joints]] must be held together mechanically as well as electrically, and
 should be protected from the action of the air. At Westminster Abbey the
-cables are spliced and inserted in a box which is filled with lead run
+cables are spliced and inserted in a [[Box|box]] which is filled with lead run
 in when molten.
 
 [Illustration: _Fig_. 5.--Tubular Earth.]
@@ -116,7 +116,7 @@ in when molten.
 _Earth Connexion._--A copper plate not less than 3 sq. ft. in area may
 be used as an earth connexion if buried in permanently damp ground.
 Instead of a plate there are advantages in using the tubular earth shown
-in fig. 5. The cable packed in carbon descends to the bottom of the
+in fig. 5. The cable packed in [[Carbon|carbon]] descends to the bottom of the
 perforated tube which is driven into the ground, a connexion being made
 to the nearest rain-water pipe to secure the necessary moisture. No
 further attention is required. Plate earths should be tested every year.
@@ -129,7 +129,7 @@ a number of points should be fixed to high chimneys and there should be
 at least two conductors to earth. All roof metals, such as finials,
 flashings, rain-water gutters, ventilating pipes, cowls and stove pipes,
 should be connected to the system of conductors. The efficiency of the
-installation depends on the interconnexion of all metallic parts, also
+[[Installation|installation]] depends on the interconnexion of all metallic parts, also
 on the quality of the earth connexions. In the case of magazines used
 for explosives, it is questionable whether the usual plan of erecting
 rods at the sides of the buildings is efficient. The only way to ensure
@@ -138,17 +138,17 @@ the conductors so that they surround it like a bird cage.
 
   BIBLIOGRAPHY.--The literature, although extensive, contains so many
   descriptions of ludicrous devices, that the student, after reading
-  Benjamin Franklin's _Experiments and Observations on Electricity made
+  [[Benjamin]] Franklin's _Experiments and Observations on Electricity made
   at Philadelphia_ (1769), may turn to the _Report_ of the Lightning Rod
   Conference of December 1881. In the latter work there are abstracts of
   many valuable papers, especially the reports made to the French
-  Academy, among others by Coulomb, Laplace, Gay-Lussac, Fresnel,
-  Regnault, &c. In 1876 J. Clerk Maxwell read a paper before the British
+  Academy, among others by [[Coulomb]], Laplace, Gay-Lussac, Fresnel,
+  Regnault, &c. In 1876 J. Clerk [[Maxwell]] read a paper before the British
   Association in which he brought forward the idea (based on Faraday's
   experiments) of protecting a building from the effects of lightning by
   surrounding it with a sort of cage of rods or stout wire. It was not,
   however, until the Bath meeting of the British Association in 1888
-  that the subject was fully discussed by the physical and engineering
+  that the subject was fully discussed by the physical and [[Engineering|engineering]]
   sections. Sir Oliver Lodge showed the futility of single conductors,
   and advised the interconnexion of all the metal work on a building to
   a number of conductors buried in the earth. The action of lightning
@@ -165,7 +165,7 @@ the conductors so that they surround it like a bird cage.
   was published in April 1905. An illustrated supplement, compiled by K.
   Hedges and entitled _Modern Lightning Conductors_ (1905), contains
   particulars of the independent reports of the German committee, the
-  Dutch Academy of Science, and the Royal Joseph university, Budapest. A
+  Dutch Academy of Science, and the Royal Joseph university, [[Budapest]]. A
   description is also given of the author's modified Clerk Maxwell
   system, in which the metal work of the roofs of a building form the
   upper part, the rain-water pipes taking the place of the usual

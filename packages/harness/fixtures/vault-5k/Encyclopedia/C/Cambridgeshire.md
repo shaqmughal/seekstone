@@ -2,7 +2,7 @@
 
 CAMBRIDGESHIRE, an eastern county of England, bounded N. by
 Lincolnshire, E. by Norfolk and Suffolk, S. by Essex and Hertfordshire,
-and W. by Bedfordshire, Huntingdonshire and Northamptonshire. The area
+and W. by Bedfordshire, [[Huntingdonshire]] and Northamptonshire. The area
 is 858.9 sq. m. The greater part of the county falls within the district
 of the Fens, and is flat, elevated only a few feet above sea-level, and
 intersected with innumerable drainage channels. The physical
@@ -12,19 +12,19 @@ consideration under the heading FENS. Except in the south of the county
 the scenery of the flat land is hardly ever varied by rising ground or
 wood, and owes the attraction it possesses rather to individuality than
 to beauty. At the south-eastern and southern boundaries, and to the west
-of Cambridge, bordering the valley of the Cam on the north, the land
+of Cambridge, bordering the valley of the [[Cam]] on the north, the land
 rises in gentle undulations; but for the rest, such elevations as the
 Gog Magog Hills, S.E. of Cambridge, and the gentle hillock on which the
-city of Ely stands, are isolated and conspicuous from afar. The
+city of [[Ely]] stands, are isolated and conspicuous from afar. The
 principal rivers are the Ouse and its tributaries in the south and
 centre, and the Nene in the north; the greater part of the waters of
 both these rivers within Cambridgeshire flow in artificial channels, of
 which those for the Ouse, two great parallel cuts between Earith and
-Denver Sluice, in Norfolk, called the Bedford Rivers, form the most
+Denver Sluice, in Norfolk, called the [[Bedford]] Rivers, form the most
 remarkable feature in the drainage of the county. The old main channel
 of the Ouse, from Ely downward to Denver (below which are tidal waters),
 is filled chiefly by the waters of the Cam or Granta, which joins the
-Ouse 3 m. above Ely, the Lark (which with its feeder, the Kennett, forms
+Ouse 3 m. above Ely, the [[Lark]] (which with its feeder, the Kennett, forms
 the boundary of the county with Suffolk for a considerable distance) and
 the Little Ouse, forming part of the boundary with Norfolk.
 
@@ -34,7 +34,7 @@ uplands formed by the Chalk; north of this, but best developed in the
 south-west, is a clay and greensand area; all the remaining portion is
 alluvial Fenland. The general strike of the rocks is along a south-west
 and north-east line, the dip is south-easterly. The oldest rock is the
-Jurassic Oxford Clay, which appears as an irregular strip of elevated
+[[Jurassic]] Oxford Clay, which appears as an irregular strip of elevated
 flat ground reaching from Croxton by Conington and Fenny Drayton to
 Willingham and Rampton. Eastward and northward it no doubt forms the
 floor of the Fen country, and at Thorney and Whittlesea small patches
@@ -43,30 +43,30 @@ with the Els worth or St Ives rock at the base, occurs as a small patch,
 covered by Greensand, at Upware, whence many fossils have been obtained;
 elsewhere its place is taken by the Ampthill Clays, which are passage
 beds between the Oxford and Kimmeridge Clays. The latter clay lies in a
-narrow strip by Papworth St Agnes, Oakington and Cottenham; a large
+narrow strip by Papworth St Agnes, Oakington and [[Cottenham]]; a large
 irregular outcrop surrounds Haddenham and Ely, and similar occurrences
-are at March, Chatteris and Manea. Above the Kimmeridge Clay comes the
+are at March, [[Chatteris]] and Manea. Above the Kimmeridge Clay comes the
 Lower Greensand, sandy for the greater part, but here and there
 hardened into the condition known as "Carstone," which has been used as
 an inferior building-stone. This formation is thickest in the
 south-west; it extends from the border by Gamlingay, Cuxton and
 Cottenham, and appears again in outliers at Upware, Ely and Haddenham.
-The Gault forms a strip of flat ground, 4 to 6 m. wide, running roughly
+The [[Gault]] forms a strip of flat ground, 4 to 6 m. wide, running roughly
 parallel with the course of the river Cam, from Guilden Morden through
 Cambridge to Soham; it is a stiff blue clay 200 ft. thick in the
 south-west, but is thinner eastward. At the bottom of the chalk is the
-Chalk Marl, 10 to 20 ft. thick, with a glauconitic and phosphatic
+Chalk [[Marl]], 10 to 20 ft. thick, with a glauconitic and phosphatic
 nodule-bearing layer at its base, known as the Cambridge Greensand. This
 bed has been largely worked for the nodules and for cement; it contains
 many fossils derived from the Gault below. Several outliers of Chalk
 Marl lie upon the Gault west of the Cam. The Chalk comprises all the
 main divisions of the formation, including the Totternhoe stone,
-Melbourn rock and Chalk rock. Much glacial boulder clay covers all the
+Melbourn rock and Chalk rock. Much glacial [[Boulder Clay|boulder clay]] covers all the
 higher ground of the county; it is a stiff brownish clay with many chalk
 fragments of travelled rocks. Near Ely there is a remarkable mass of
 chalk, evidently transported by ice, resting on and surrounded by
 boulder clay. Plateau gravel caps some of the chalk hills, and old river
-gravels occur at lower levels with the bones of mammoth, rhinoceros and
+gravels occur at lower levels with the [[Bone|bones]] of mammoth, rhinoceros and
 other extinct mammals. The low-lying Fen beds are marly silt with
 abundant peat beds and buried forests; at the bottom is a gravel layer
 of marine origin.
@@ -82,9 +82,9 @@ permanent pasture. Wheat is the chief grain crop, but large quantities
 of barley and oats are also grown. Among green crops potatoes occupy a
 large and increasing area. Dairy-farming is especially practised in the
 south-west, where the district of the Cam valley has long been known as
-the Dairies; and much butter and cheese are sent to the London markets.
+the Dairies; and much [[Butter|butter]] and [[Cheese|cheese]] are sent to the London markets.
 Sheep are pastured extensively on the higher ground, but the number of
-these and of cattle for the county as a whole is not large. Beans occupy
+these and of cattle for the county as a whole is not large. [[Bean|Beans]] occupy
 a considerable acreage, and fruit-growing and market-gardening are
 important in many parts. There is no large manufacturing industry common
 to the county in general; among minor trades brewing is carried on at
@@ -120,7 +120,7 @@ towns Soham (4230) and Littleport (4181), both in the neighbourhood of
 Ely, may be mentioned. The town of Newmarket, which, although wholly
 within the administrative county of West Suffolk, is mainly in the
 ancient county of Cambridgeshire, is famous for its race-meetings. The
-county is in the south-eastern circuit, and assizes are held at
+county is in the south-eastern circuit, and [[Assize|assizes]] are held at
 Cambridge. Each administrative county has a court of quarter sessions,
 and the two are divided into ten petty sessional divisions. The borough
 of Cambridge has a separate court of quarter sessions, and this borough
@@ -178,7 +178,7 @@ bishops exercised quasi-palatinate rights, and offences were held to be
 committed against the bishop's peace. These privileges were considerably
 abridged in the reign of Henry VIII., but the Isle still had separate
 civil officers, appointed by the bishop, chief among whom were the
-chief justice, chief bailiff, deputy bailiff and two coroners. The
+chief justice, chief bailiff, deputy bailiff and two [[Coroner|coroners]]. The
 bishop is still _custos rotulorum_ of the Isle. Cambridgeshire has
 always been remarkable for its lack of county families, and for the
 frequent changes in the ownership of estates. No Englishmen retained
@@ -186,7 +186,7 @@ lands of any importance after the Conquest, and at the time of the
 Domesday Survey the chief lay proprietors were Alan, earl of Brittany,
 whose descendants the Zouches retained estates in the county until the
 15th century; Picot the sheriff, whose estates passed to the families of
-Peverell and Peche; Aubrey de Vere, whose descendants retained their
+Peverell and Peche; Aubrey [[De Vere|de Vere]], whose descendants retained their
 estates till the 16th century; and Hardwinus de Scalariis, ancestor of
 the Scales of Whaddon.
 
@@ -200,7 +200,7 @@ governor of Cambridge Castle, which, however, surrendered to the barons
 in the same year. The Isle of Ely was seized by the followers of Simon
 de Montfort in 1266, but in 1267 was taken by Prince Edward. At the
 Reformation period the county showed much sympathy with the Reformers,
-and in 1642 the knights, gentry and commoners of Cambridgeshire
+and in 1642 the [[Knight|knights]], gentry and commoners of Cambridgeshire
 petitioned for the removal of all unwarrantable orders and dignities,
 and the banishment of popish clergy. In the civil war of the 17th
 century Cambridgeshire was one of the associated counties in which the
@@ -263,8 +263,8 @@ quadrangular mansion dated 1557-1584.
 
   AUTHORITIES.--See D. and S. Lysons, _Magna Britannia_, vol. ii. part
   i. (London, 1808); C.C. Babington, _Ancient Cambridgeshire_
-  (Cambridge, 1883); R. Bowes, _Catalogue of Books printed at or
-  relating to Cambridge_ (Cambridge, 1891 et seq.); E. Conybeare,
+  (Cambridge, 1883); R. [[Bow|Bowes]], _Catalogue of Books printed at or
+  relating to Cambridge_ (Cambridge, 1891 et seq.); E. [[Conybeare]],
   _History of Cambridgeshire_ (London, 1897); _Victoria County History,
   Cambridgeshire_.
 

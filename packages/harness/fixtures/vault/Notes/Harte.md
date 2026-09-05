@@ -26,7 +26,7 @@ Bret Harte was an early master of the short story, and his Californian
 tales were regarded as introducing a new _genre_ into fiction. "The Luck
 of Roaring Camp" (1868), "The Outcasts of Poker Flat" (1869), the later
 sketch "How Santa Claus came to Simpson's Bar," and the verses entitled
-"Plain Language from Truthful James," combined humour, pathos and power
+"Plain Language from Truthful James," combined [[Humour|humour]], pathos and power
 of character portrayal in a manner that indicated that the new land of
 mining-gulches, gamblers, unassimilated Asiatics, and picturesque and
 varied landscape had found its best delineator; so that Harte became, in
@@ -34,7 +34,7 @@ his pioneer pictures, a sort of later Fenimore Cooper. Forty-four
 volumes were published by him between 1867 and 1898. After a year as
 professor in the university of California, Harte lived in New York,
 1871-1878; was United States consul at Crefeld, Germany, 1878-1880;
-consul at Glasgow, 1880-1885; and after 1885 resided in London, engaged
+consul at [[Glasgow]], 1880-1885; and after 1885 resided in London, engaged
 in literary work. He died at Camberley, England, on the 5th of May
 1902.
 

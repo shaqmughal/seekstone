@@ -44,7 +44,7 @@ moderate tone of his publications, drew upon himself unqualified
 censure. He wrote in this connexion a number of articles collected in
 1887 under the title _Treu und Frei. Reden und Vorträge über Juden und
 Judenthum_. In 1869 and 1871 he was president of the first and second
-Jewish Synods at Leipzig and Augsburg.
+Jewish Synods at Leipzig and [[Augsburg]].
 
   See R. Flint, _The Philosophy of History in Europe_; M. Brasch,
   _Gesammelte Essays und Characterköpfe zur neuen Philos. und

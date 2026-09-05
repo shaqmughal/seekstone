@@ -17,7 +17,7 @@ sur la théorie des satellites de Jupiter_ (1766), an expansion of a memoir
 presented to the Academy in 1763, showed much original power; and it was
 followed up in 1771 by a noteworthy dissertation _Sur les inégalités de la
 lumière des satellites de Jupiter_. Meantime, he had gained a high literary
-reputation by his _Éloges_ of Charles V., Lacaille, Molière, Corneille and
+reputation by his _É[[Log|loges]]_ of Charles V., Lacaille, Molière, Corneille and
 Leibnitz, which were issued in a collected form in 1770 and 1790; he was
 admitted to the French Academy (February 26, 1784), and to the Académie des
 Inscriptions in 1785, when Fontenelle's simultaneous membership of all
@@ -28,7 +28,7 @@ _Lettres sur l'origine des sciences_ (1777); _Lettres sur l'Atlantide de
 Platon_ (1779); and _Traité de l'astronomie indienne et orientale_ (1787).
 Their erudition was, however, marred by speculative extravagances.
 
-The cataclysm of the French Revolution interrupted his studies. Elected
+The cataclysm of the [[French Revolution]] interrupted his studies. Elected
 deputy from Paris to the states-general, he was chosen president of the
 Third Estate (May 5, 1789), led the famous proceedings in the Tennis Court
 (June 20), and acted as mayor of Paris (July 15, 1789, to November 16,
@@ -42,10 +42,10 @@ friend Pierre Simon Laplace at Melun; but was there recognized, arrested
 and brought (November 10) before the Revolutionary Tribunal at Paris. On
 the 12th of November he was guillotined amid the insults of a howling mob.
 He met his death with patient dignity, having, indeed, disastrously shared
-the enthusiasms of his age, but taken no share in its crimes.
+the [[Enthusiasm|enthusiasms]] of his age, but taken no share in its crimes.
 
 Notices of his life are contained in the _Éloges_ by Mérard de Saint Just,
-Delisle de Salles, Lalande and Lacretelle; in a memoir by Arago, read the
+Delisle de Salles, [[Lalande]] and Lacretelle; in a memoir by Arago, read the
 26th of February 1844 before the Académie des Sciences, and published in
 _Notices biographiques_, t. ii. (1852). See also Delambre, _Histoire de
 l'astronomie au 18me siècle_, p. 735, and Lalande, _Bibliographie

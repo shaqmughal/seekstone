@@ -4,7 +4,7 @@ BOYER, JEAN PIERRE (1776-1850), president of the republic of Haiti, a
 mulatto, was born at Port-au-Prince on the 28th of February 1776. He
 received a good education in France, and, returning to St Domingo,
 joined the army in 1792. In 1794 he was already in command of a
-battalion, and fought with distinction under General Rigaud against the
+[[Battalion|battalion]], and fought with distinction under General Rigaud against the
 English. The negro insurrection under Toussaint l'Ouverture, which was
 directed against the mulattoes as well as the whites, ultimately forced
 him to take refuge in France. He was well received by Napoleon, and in
@@ -24,7 +24,7 @@ gained almost undisputed possession of the whole island. During his
 presidency Boyer did much to set the finances and the administration in
 order, and to encourage the arts and sciences, and in 1825 obtained
 French recognition of the independence of Haiti, in return for a payment
-of 150,000 francs. The weight of this debt excited the greatest
+of 150,000 [[Franc|francs]]. The weight of this debt excited the greatest
 discontent in Haiti. Boyer was able to carry on his government for some
 years longer, but in March 1843 a violent insurrection overthrew his
 power and compelled him to take refuge in Jamaica. He resided there till

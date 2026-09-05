@@ -22,7 +22,7 @@ JOSEPH SOLOMON DELMEDIGO (1591-1655), pupil of Galileo, wrote many books
 on science and philosophy, and bore a considerable part in initiating
 the critical movement in Judaism. He belonged to the sceptical school,
 and though his positive contributions to literature were not of lasting
-worth, Graetz includes him among the important formative influences
+worth, [[Graetz]] includes him among the important formative influences
 within the synagogue of the 17th century.     (I. A.)
 
 ## See also

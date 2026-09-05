@@ -21,7 +21,7 @@ Prussian envoy (and in 1867 envoy of the North German Confederation) at
 the papal court. In 1869 he proposed that the governments should appoint
 representatives to be present at the Vatican council, a suggestion which
 was rejected by Bismarck, and foretold that the promulgation of papal
-infallibility would bring serious political difficulties. After the
+[[Infallibility|infallibility]] would bring serious political difficulties. After the
 recall of the French troops from Rome he attempted unsuccessfully to
 mediate between the pope and the Italian government. He was appointed in
 1871 German commissioner to arrange the final treaty with France, a task
@@ -48,12 +48,12 @@ charge of embezzling state papers. This recourse to the criminal law
 against a man of his rank, who had held one of the most important
 diplomatic posts, caused great astonishment. His defence was that the
 papers were not official, and he was acquitted on the charge of
-embezzlement, but convicted of undue delay in restoring official papers
+[[Embezzlement|embezzlement]], but convicted of undue delay in restoring official papers
 and condemned to three months' imprisonment. On appeal the sentence was
 increased to nine months. Arnim avoided imprisonment by leaving the
 country, and in 1875 published anonymously at Zurich a pamphlet entitled
 "Pro nihilo," in which he attempted to show that the attack on him was
-caused by Bismarck's personal jealousy. For this he was accused of
+caused by Bismarck's personal [[Jealousy|jealousy]]. For this he was accused of
 treason, insult to the emperor, and libelling Bismarck, and in his
 absence condemned to five years' penal servitude. From his exile in
 Austria he published two more pamphlets on the ecclesiastical policy of
@@ -63,7 +63,7 @@ family, to be allowed to return to Germany in order to take his trial
 afresh on the charge of treason; his request had just been granted when
 he died on the 19th of May 1881.
 
-In 1876 Bismarck carried an amendment to the criminal code making it an
+In 1876 Bismarck carried an amendment to the criminal [[Code|code]] making it an
 offence punishable with imprisonment or a fine up to L250 for an
 official of the foreign office to communicate to others official
 documents, or for an envoy to act contrary to his instructions. These

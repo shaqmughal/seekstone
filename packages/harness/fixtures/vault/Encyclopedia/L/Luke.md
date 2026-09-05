@@ -1,17 +1,17 @@
 # Luke
 
-LUKE, GOSPEL OF ST, the third of the four canonical Gospels of the
+LUKE, [[Gospel|GOSPEL]] OF ST, the third of the four canonical Gospels of the
 Christian Church.
 
 1. _Authorship and Date._--The earliest indication which we possess of
-the belief that the author was Luke, the companion of the Apostle Paul
+the belief that the author was Luke, the companion of the [[Apostle]] Paul
 (Col. iv. 14; Philem. 24; 2 Tim. iv. 11), is found in Justin Martyr,
-who, in his _Dialogue with Trypho_ (c. 103), when making a statement
+who, in his _[[Dialogue]] with Trypho_ (c. 103), when making a statement
 found only in our Luke, instead of referring for it simply to the
 "Apostolic Memoirs," his usual formula, says that it is contained in the
 memoirs composed by "the Apostles and _those that followed them_." But
 the first distinct mention of Luke as the author of the Gospel is that
-by Irenaeus in his famous passage about the Four Gospels (_Adv. Haer._
+by [[Irenaeus]] in his famous passage about the Four Gospels (_Adv. Haer._
 III. i. 2, c. A.D. 180).
 
 This tradition is important in spite of the fact that it first comes
@@ -27,8 +27,8 @@ present form. This is intimated at the beginning of the second of them
 (Acts i. 1); and both are marked, broadly speaking throughout, though in
 some parts much more strongly than in others, by stylistic
 characteristics which we may conveniently call "Lucan" without making a
-premature assumption as to the authorship. The writer is more versed
-than any other New Testament writer except the author of the Epistle to
+premature [[Assumption|assumption]] as to the authorship. The writer is more versed
+than any other New Testament writer except the author of the [[Epistle]] to
 the Hebrews, and very much more than most of them, in the literary Greek
 of the period of the rise of Christianity; and he has, also, like other
 writers, his favourite words, turns of expression and thoughts. The
@@ -76,7 +76,7 @@ the Acts. Another argument in support of this belief, upon which much
 reliance has been placed, is found in the descriptions of diseases, and
 the words common in Greek medical writers, contained in these two works.
 These, it is said, point to the author's having been a physician, as
-Luke (Col. iv. 14) was (see esp. Hobart, _The Medical Language of St
+Luke (Col. iv. 14) was (see esp. [[Hobart]], _The Medical Language of St
 Luke_, 1882). The instances alleged are, many of them at least, not very
 distinctive. Yet they have some value as confirming the conclusion based
 on a comparison of the "we" sections of the Acts, with the remainder of
@@ -114,7 +114,7 @@ himself have intended chiefly to contrast the orderliness and
 consecutiveness of his account with the necessarily fragmentary
 character of the catechetical instruction which Theophilus had received.
 He may, also, have had in view the fact that he has prefixed a narrative
-of the birth and infancy of Jesus and of John and so begun the history
+of the birth and [[Infancy|infancy]] of Jesus and of John and so begun the history
 at what he considered to be its true point of departure; to this he
 plainly alludes when he says that he has "traced the course of all
 things accurately from the first." He may, also, in part be thinking of
@@ -141,14 +141,14 @@ be doubted whether these are in all respects accurate.
   Gospel.
 
   Chap. iv. 14-vi. 16 _From the Commencement of the Ministry of Jesus in
-  Galilee to the Appointment of the Twelve._--In the main Luke here
+  [[Galilee]] to the Appointment of the Twelve._--In the main Luke here
   follows his Marcan document. He has, however, independent narratives
   of the visit of Jesus to Nazareth (iv. 16-30) and the call of the
-  first disciples (v. 1-11). The former, which in Mark is placed some
+  first [[Disciple|disciples]] (v. 1-11). The former, which in Mark is placed some
   way on in the Galilean ministry (vi. 1-6_a_), is given by Luke at the
   very beginning of it, perhaps because of the previous connexion of
   Jesus with Nazareth. But that it is not in its right position here,
-  before any mention of the work in Capernaum, appears from verse 23.
+  before any mention of the work in [[Capernaum]], appears from verse 23.
   Luke has also slightly altered the position of the call of the first
   disciples in the sequence of events.
 
@@ -168,7 +168,7 @@ be doubted whether these are in all respects accurate.
   parallel to one of them is placed later and differs considerably in
   form. Possibly this fact points to his Marcan document having been
   briefer than our Mark, and to its having afterwards received
-  interpolations (see MARK, GOSPEL OF ST).
+  [[Interpolation|interpolations]] (see MARK, GOSPEL OF ST).
 
   Chap. ix. 51-xviii. 14. _Incidents and Teaching connected with Journey
   towards Jerusalem._--This is another insertion into the Marcan
@@ -203,7 +203,7 @@ divine forgiveness, as set forth in the teaching of Jesus and manifested
 in His own attitude towards, and power over, the hearts of the outcasts
 among the people, is peculiarly prominent in this Gospel. This feature
 of Christ's ministry appears only in one passage of Mark; some other
-illustrations of it are mentioned in Matthew, but in Luke there are
+illustrations of it are mentioned in [[Matthew]], but in Luke there are
 several more which are peculiar to himself (see the three individual
 cases vii. 36 sqq.; xix. 1 sqq., xxiii. 40 sqq.; also the description at
 xv. 1, and the three parables that follow). These were "lost sheep of
@@ -212,7 +212,7 @@ also brought out (1) as regards Samaritans, by the rebuke administered
 to the disciples at ix. 52 sqq., the parable in x. 30 sqq., and the
 incident at xvii. 15-19; whereas they are not mentioned in Mark, and in
 Matthew only in the saying (x. 5) in which the Twelve are forbidden to
-enter any village of theirs; (2) as regards Gentiles, by the words of
+enter any village of theirs; (2) as regards [[Gentile|Gentiles]], by the words of
 Jesus at iv. 25-27, not to mention sayings which have parallels in the
 other Gospels. The promises of Old Testament prophets that the Gentiles
 would share in the blessing of the coming of Christ are also recalled,
@@ -248,11 +248,11 @@ spirit and spiritual hunger, while woes are denounced against the rich
 and the full (vi. 24, 25). The folly of absorption in the amassing and
 enjoyment of wealth is also shown (xii. 15 sqq. and xvi. 19 sqq.). But
 it would be an exaggeration to say, as some have done, that the poor are
-represented as being the heirs of a blessed hereafter, simply on the
+represented as being the [[Heir|heirs]] of a blessed hereafter, simply on the
 ground that they are now poor. In the Beatitudes Christ's own disciples
 are addressed, who were blessed _though_ poor, whereas the rich as a
 class were opposed or indifferent to the kingdom of God. Again, the
-contrast between Lazarus and Dives in the future state pictures vividly
+contrast between [[Lazarus]] and Dives in the future state pictures vividly
 the reversals that are in store; but it is unreasonable to take it as
 implying that every poor man, whatever his moral character, will be
 blessed.
@@ -269,7 +269,7 @@ are peculiarly frequent and full (iv. 15, v. 25, 26, vii. 16, x. 17,
 xiii. 13, 17, xvii. 15-18, xviii. 43, xix. 6, 37, 38, xxiii. 47, xxiv.
 41, 52, 53. Cf. also xv. 5, 7, 10, 32).
 
-The peculiar charm which this Gospel has been generally felt to possess
+The peculiar [[Charm|charm]] which this Gospel has been generally felt to possess
 is largely due to the spiritual and ethical traits which have been
 noted. But from a purely literary point of view, also, it is
 distinguished by great excellences. The evangelist's phraseology is
@@ -296,8 +296,8 @@ manner of writing to the subject-matter in hand. And at all events it is
 worthy of note that we pass without any sense of jar from passages in
 one style to those in another.
 
-  See Godet, _Commentaire sur l'évangile de S. Luc_ (Eng. trans., 1875);
-  Plummer's _Comm. on St Luke_ (in international Series, 4th ed., 1906);
+  See [[Godet]], _Commentaire sur l'évangile de S. Luc_ (Eng. trans., 1875);
+  Plummer's _Comm. on St Luke_ (in [[International|international]] Series, 4th ed., 1906);
   W. Ramsay, _Was Christ born in Bethlehem?_ (3rd ed., 1905); A.
   Harnack, _Lukas der Arzt_ (1906); B. Weiss, _Die Quellen des
   Lukas-Evangeliums_ (1907); also books on the Four Gospels, or the
@@ -315,7 +315,7 @@ line Luleå is 723 m. N.N.E. of Stockholm. It is the shipping place for
 the iron ore mined at Gellivara, 127 m. N. by W., and there are smelting
 works at Karlsvik in the vicinity. Timber is also exported, being
 floated in large quantities down the Lule. As a rule the port is closed
-by ice from November to the end of May. The town was almost entirely
+by [[Ice|ice]] from November to the end of May. The town was almost entirely
 burnt down in 1887, and its buildings are new--the church (1888-1893),
 the Norrbotten Museum and a technical school being the most important.
 Luleå as founded by Gustavus Adolphus was 7 m. higher up the river, but

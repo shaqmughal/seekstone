@@ -19,13 +19,13 @@ model for other foundations. Extending the area of his activities, he
 entered into communication with the emperor Henry III., addressed to
 Pope Leo IX. in 1049 a writing denouncing the vices of the clergy and
 entitled _Liber Gomorrhianus_; and soon became associated with
-Hildebrand in the work of reform. As a trusted counsellor of a
+[[Hildebrand]] in the work of reform. As a trusted counsellor of a
 succession of popes he was made cardinal bishop of Ostia, a position
 which he accepted with some reluctance; and presiding over a council at
 Milan in 1059, he courageously asserted the authority of Rome over this
 province, and won a signal victory for the principles which he
 advocated. He rendered valuable assistance to Pope Alexander II. in his
-struggle with the anti-pope, Honorius II.; and having served the papacy
+struggle with the anti-pope, [[Honorius]] II.; and having served the papacy
 as legate to France and to Florence, he was allowed to resign his
 bishopric in 1067. After a period of retirement at Fonte Avellana, he
 proceeded in 1069 as papal legate to Germany, and persuaded the emperor
@@ -38,13 +38,13 @@ controversialist, and his Latin abounds in denunciatory epithets. He was
 specially devoted to the Virgin Mary, and wrote an _Officium Beatae
 Virginis_, in addition to many letters, sermons, and other writings.
 
-  His works were collected by Cardinal Cajetan, and were published in
+  His works were collected by Cardinal [[Cajetan]], and were published in
   four volumes at Rome (1606-1615), and then at Paris in 1642, at Venice
   in 1743, and there are other editions. See A. Vogel, _Peter Damiani_
-  (Jena, 1856); A. Capecelatro, _Storia di S. Pier Damiani e del suo
+  ([[Jena]], 1856); A. Capecelatro, _Storia di S. Pier Damiani e del suo
   tempo_ (Florence, 1862); F. Neukirch, _Das Leben des Peter Damiani_
   (Gottingen, 1875); L. Guerrier, _De Petro Damiano_ (Orleans, 1881); W.
-  von Giesebrecht, _Geschichte der deutschen Kaiserzeit_ (Leipzig,
+  von [[Giesebrecht]], _Geschichte der deutschen Kaiserzeit_ (Leipzig,
   1885-1890); and Herzog-Hauck, _Realencyklopadie_, Band iv. (Leipzig,
   1898).
 

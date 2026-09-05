@@ -24,13 +24,13 @@ works are: _A kath. anyaszentegyhaznak hitbeli tanitasa_ (The Doctrinal
 Teaching of the Holy Catholic Church), and _A keresztenyeknek vallasbeli
 egyesulesokrol_ (On Religious Unity among Christians), both published at
 Pesth in 1822; also a Latin treatise entitled _Theologia Christiana
-fundamentalis et theologia dogmatica_ (4 vols., Gyor, 1828-1829). His
+fundamentalis et theologia dogmatica_ (4 vols., [[Gyor]], 1828-1829). His
 translation of Theocritus in hexameters was published in 1824. His
 versions of the _Oedipus_ of Sophocles and of the _Iphigenia_ of
-Euripides were rewarded by the Hungarian Academy, of which in 1838 he
+[[Euripides]] were rewarded by the Hungarian Academy, of which in 1838 he
 was elected honorary member. In 1832 he was appointed abbot of the
 wealthy Benedictine house at Bakonybel, a village in the county of
-Veszprem. There he built an asylum for 150 children, and founded a
+Veszprem. There he built an [[Asylum|asylum]] for 150 children, and founded a
 school of harmony and singing. He died on the 1st of September 1839.
 
 ## See also

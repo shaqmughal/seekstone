@@ -16,21 +16,21 @@ Indian peninsula, comprising a large proportion of the broad belt of
 hill and plateau country which separates the plains of Hindustan from
 the Deccan. It is bounded on the N. and N.E. by the Central India
 states, and along a small strip of the Saugor district by the United
-Provinces; on the W. by Bhopal, Indore and the Khandesh district of
+Provinces; on the W. by [[Bhopal]], Indore and the Khandesh district of
 Bombay; on the S. by Hyderabad and the large _zamindari_ estates of the
 Madras presidency; and on the E. by these latter estates and the
-tributary states of Bengal. In October 1905 most of Sambalpur and five
+tributary states of [[Bengal]]. In October 1905 most of Sambalpur and five
 Oriya-speaking hill-states were transferred from the Central Provinces
-to Bengal, while the Hindi-speaking states of Chota Nagpur were
+to Bengal, while the Hindi-speaking states of [[Chota]] Nagpur were
 transferred from Bengal to the Central Provinces. The province,
-therefore, now consists of the five British divisions of Jubbulpore,
-Nerbudda, Nagpur, Chhattisgarh and Berar, which are divided into the
-twenty-two districts of Saugor, Damoh, Jubbulpore, Mandla, Seoni,
-Narsinghpur, Hoshangabad, Nimar, Betul, Chhindwara, Wardha, Nagpur,
-Chanda, Bhandara, Balaghat, Raipur, Bilaspur, Amraoti, Akola, Ellichpur,
-Buldana and Wun; and the fifteen tributary states of Makrai, Bastar,
-Kanker, Nandgaon, Kairagarh, Chhuikhadan, Kawardha, Sakti, Raigarh,
-Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
+therefore, now consists of the five British divisions of [[Jubbulpore]],
+Nerbudda, Nagpur, Chhattisgarh and [[Berar]], which are divided into the
+twenty-two districts of Saugor, [[Damoh]], Jubbulpore, Mandla, Seoni,
+Narsinghpur, Hoshangabad, Nimar, Betul, [[Chhindwara]], Wardha, Nagpur,
+[[Chanda]], [[Bhandara]], [[Balaghat]], Raipur, [[Bilaspur]], Amraoti, Akola, [[Ellichpur]],
+[[Buldana]] and Wun; and the fifteen tributary states of Makrai, Bastar,
+Kanker, Nandgaon, Kairagarh, Chhuikhadan, [[Kawardha]], Sakti, Raigarh,
+Sarangarh, Chang Bhakar, [[Korea]], Sirguja, Udaipur and [[Jashpur]].
 
 
     Central Provinces.
@@ -55,7 +55,7 @@ Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
   hill range there is a large natural basin of fertile land which is
   highly cultivated. South of the Satpuras lies the great plain of
   Chhattisgarh at a mean elevation above the sea of 1000 ft.; it has an
-  area of 23,000 sq. m., and forms the upper basin of the Mahanadi.
+  area of 23,000 sq. m., and forms the upper basin of the [[Mahanadi]].
   Farther to the west and again divided off by hills is the great plain
   of Nagpur, extending over 24,000 sq. m. Its general surface inclines
   towards the south from 1000 ft. above the sea at Nagpur to 750 ft. at
@@ -80,14 +80,14 @@ Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
   two sections, the Payanghat or lowland country, bounded on the north
   by the Gawilgarh hills, and on the south by the outer scarps of the
   Ajanta range, and the Balaghat or upland country above the Ajanta
-  ridge, sloping down southwards beyond the ghats or passes which lead
+  ridge, sloping down southwards beyond the [[Ghats|ghats]] or passes which lead
   up to it. The Payanghat is a wide valley running up eastward between
   this ridge and the Gawilgarh hills, varying in breadth from 40 to 50
   m., and broader towards the end than at its mouth. It contains all the
   best land in Berar; it is full of deep, rich, black alluvial soil, of
   almost inexhaustible fertility, and it undulates sufficiently to
   maintain a natural system of drainage, but there is nothing
-  picturesque about this broad strip of champaign country. The upland
+  picturesque about this broad strip of [[Champaign|champaign]] country. The upland
   tract, on the contrary, is diversified with low-lying plains, high
   plateaus, fertile bottoms and rocky wastes, and is rendered
   picturesque by rivers and groves.
@@ -135,7 +135,7 @@ Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
   being about 105° as against 108° in the hotter ones for the month of
   May, and 79° as against 83° for the month of December. In the cold
   weather the temperature in Nagpur and the other hot districts is about
-  the same as in Calcutta and substantially higher than that of northern
+  the same as in [[Calcutta]] and substantially higher than that of northern
   India. The climate of Berar differs very little from that of the
   Deccan generally, except that in the Payanghat valley the hot weather
   may be exceptionally severe. The rainfall of the province is
@@ -143,7 +143,7 @@ Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
   a cooler and more pleasant atmosphere during the monsoon season. The
   average rainfall, before it was affected by the abnormal seasons which
   followed 1892, was 51 in., varying from 33 in. in Nimar to 65 in
-  Balaghat. In the autumn months malarial fever is prevalent in all
+  Balaghat. In the autumn months malarial [[Fever|fever]] is prevalent in all
   thickly forested tracts and also in the rice country; but on the whole
   the province is considered to be healthy, and as the rains break
   fairly regularly in June and produce an immediate fall in the
@@ -182,7 +182,7 @@ Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
   rail with Bombay and with Calcutta. The chief imports are cotton piece
   goods, cotton twist, salt, sugar, provisions, railway materials, raw
   cotton, metals, coal, tobacco, spices and kerosene oil. The chief
-  exports are raw cotton, rice, wheat, oil-seeds, hides and lac. The
+  exports are raw cotton, rice, wheat, oil-seeds, hides and [[Lac|lac]]. The
   exports of wheat are liable to extreme fluctuations, especially during
   famine periods.
 
@@ -204,7 +204,7 @@ Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
   various departments. The form of the administration of Berar was in
   1903 entirely reorganized. Under the original settlement concluded by
   the treaties of 1853 and 1860 the revenues of the province were
-  assigned primarily for the maintenance of the Hyderabad contingent,
+  assigned primarily for the [[Maintenance|maintenance]] of the Hyderabad contingent,
   such surplus as accrued from year to year being made over to the
   nizam, while the province itself was administered in trust by the
   government of India through the resident at Hyderabad. In November
@@ -224,53 +224,53 @@ Sarangarh, Chang Bhakar, Korea, Sirguja, Udaipur and Jashpur.
   now defined according to the census of 1901 was 10,847,325, and is of
   very diverse ethical construction, having been recruited by
   immigration from the countries surrounding it on all sides. There are
-  six main divisions of the people: the Dravidian tribes, who formerly
+  six main divisions of the people: the [[Dravidian]] tribes, who formerly
   held the country; Hindi-speaking immigrants from the north and
   north-west into Saugor, Damoh, the Nerbudda valley and the open
   country of Mandla and Seoni; Rajasthani-speaking immigrants from
   Central India into Nimar, Betul and parts of Hoshangabad, Narsinghpur
   and Chhindwara; Marathi-speaking immigrants from Bombay into Berar,
   the Mahratta districts and the southern tahsil of Betul; the Telugu
-  castes in the Sironcha and Chanda tahsil of Chanda and the south of
+  [[Caste|castes]] in the Sironcha and Chanda tahsil of Chanda and the south of
   Bastar; and the Hindu immigrants into Chhattisgarh, who are supposed
   to have arrived many centuries ago when the Haihaya dynasty of
   Ratanpur rose into power.
 
   _Language_.--Owing to the diversity of race, the diversity of language
-  is equally great. Thirty languages and a hundred and six dialects are
+  is equally great. Thirty languages and a hundred and six [[Dialect|dialects]] are
   found in the Central Provinces alone, and twenty-eight languages and
   sixty-eight dialects in Berar. The chief of these languages are
-  Western Hindi, Eastern Hindi, Rajasthani, Marathi, Oriya, Telugu and
+  Western [[Hindi]], Eastern Hindi, Rajasthani, [[Marathi]], Oriya, Telugu and
   Dravidian dialects. Of these last the chief dialects are Gondi, Oraon
-  or Kurukh, Kandhi and Kanarese, of which Gondi is by far the most
+  or Kurukh, Kandhi and [[Kanarese]], of which Gondi is by far the most
   important. There are also the Munda languages, of which the chief are
   Korku, Kharia and Munda or Kol. The chief languages of Berar are
   Marathi, Urdu, Gondi, Banjari, Hindi, Marwari, Telugu, Korku and
   Gujarati.
 
-_History_.--The authentic history of the greater part of the country
+_History_.--The [[Authentic|authentic]] history of the greater part of the country
 embraced in the Central Provinces does not begin till the 16th century
 A.D. By the people of northern India the country was known as Gondwana,
 after the savage tribes of Gonds by whom it was inhabited. The Mussulman
 invaders of the Deccan passed it by, not caring to enter its mountain
 fastnesses and impenetrable forests; though occasional inscriptions show
 that parts of it had fallen from time to time under the dominion of one
-or other of the great kingdoms of the north, e.g. of Asoka, of the
+or other of the great kingdoms of the north, e.g. of [[Asoka]], of the
 Guptas of Maghada, or of the ancient Hindu kingdom of Vidarbha (Berar);
-and inscriptions and numerous discoveries of coins prove that, during
+and inscriptions and numerous discoveries of [[Coin|coins]] prove that, during
 the middle ages, the open spaces were occupied by a series of Rajput
 dynasties. Of these the most important was that of the Haihayas of
 Ratanpur, a family which, settled from time immemorial in the Nerbudda
 valley, had towards the close of the 10th century succeeded the Pandava
 dynasty of Maha Kosala (Chhattisgarh) and ruled, though from the 16th
 century onwards over greatly diminished territories, until its overthrow
-by the Mahrattas in 1745. The second ruler of this dynasty, Ratnaraja,
+by the [[Mahrattas]] in 1745. The second ruler of this dynasty, Ratnaraja,
 was the founder of Ratanpur.
 
 The inscriptional records cease abruptly in the 12th century, and no
 more is known of the country until the rise of the Gond dynasties from
 the 14th to the 16th centuries. The first of these is mentioned in 1398,
-when Narsingh Rai, raja of Kherla, is said by Ferishta to have ruled all
+when Narsingh Rai, raja of Kherla, is said by [[Ferishta]] to have ruled all
 the hills of Gondwana. He was finally overthrown and killed by Hoshang
 Shah, king of Malwa. The 16th century saw the establishment of a
 powerful Gond kingdom by Sangram Sah, who succeeded in 1480 as the 47th
@@ -284,7 +284,7 @@ formed the state of Bhopal.
 
 About 200 years after Sangram Sah's time, Bakht Buland, the Gond
 chieftain of a principality seated at Deogarh in Chhindwara, having
-visited Delhi, set about introducing the civilization he had there
+visited [[Delhi]], set about introducing the civilization he had there
 admired. He founded the city of Nagpur, which his successor made his
 capital. The Deogarh kingdom, at its widest extent, embraced the modern
 districts of Betul, Chhindwara, Nagpur, with parts of Seoni, Bhandara
@@ -293,14 +293,14 @@ another Gond dynasty, which first came into prominence in the 16th
 century. The three Gond principalities of Garha-Mandla, Deogarh and
 Chanda were nominally subject to the Mogul emperors. In addition to the
 acquisitions made in the north at the expense of Garha-Mandla, the
-Moguls, after the annexation of Berar, established governors at Paunar
+Moguls, after the [[Annexation|annexation]] of Berar, established governors at Paunar
 in Wardha and Kherla in Betul. Having thus hemmed in the Gond states,
 however, they made no efforts to assert any effective sovereignty over
 them; the Gond rajas for their part were content with practical
 independence within their own dominions. Under their peaceful rule their
 territories flourished, until the weakening of the Mogul empire and the
 rise of the predatory Bundela and Mahratta powers, with the organized
-forces of which their semi-barbarous feudal levies were unable to cope,
+forces of which their semi-barbarous feudal [[Levi|levies]] were unable to cope,
 brought misfortune upon them.
 
 In the 17th century Chhatarsal, the Bundela chieftain, deprived the
@@ -308,7 +308,7 @@ Mandla principality of part of the Vindhyan plateau and the Nerbudda
 valley. In 1733 the peshwa of Poona invaded Bundelkhand; and in 1735 the
 Mahrattas had established their power in Saugor. In 1742 the peshwa
 advanced to Mandla and exacted the payment of _chauth_ (tributary
-blackmail), and from this time until 1781, when the successors of
+[[Blackmail|blackmail]]), and from this time until 1781, when the successors of
 Sangram Sah were finally overthrown, Garha-Mandla remained practically a
 Mahratta dependency. Meanwhile the other independent principalities of
 Gondwana had in turn succumbed. In 1743 Raghoji Bhonsla of Berar
@@ -332,13 +332,13 @@ some of the Chota Nagpur states.
 
 In 1803 Raghoji joined Sindhia against the British; the result was the
 defeat of the allies at Assaye and Argaon, and the treaty of Deogaon, by
-which Raghoji had to cede Cuttack, Sambalpur and part of Berar. Up to
+which Raghoji had to cede [[Cuttack]], Sambalpur and part of Berar. Up to
 this time the rule of the Bhonsla rajas, rough warriors of peasant
 extraction, had been on the whole beneficent; but, soured by his defeat,
 Raghoji now set to work to recover some of his losses by a ruthless
 exploitation of the peasantry, and until the effective intervention of
 the British in 1818 the country was subjected to every kind of
-oppression. After Raghoji II.'s death in 1816 his imbecile son Parsaji
+oppression. After Raghoji II.'s death in 1816 his [[Imbecile|imbecile]] son Parsaji
 was deposed and murdered by Mudhoji, known as Appa Sahib. In spite of a
 treaty signed with the British in this year, Mudhoji in 1817 joined the
 peshwa, but was defeated at Sitabaldi and forced to cede the rest of
@@ -347,7 +347,7 @@ Seoni and the Nerbudda valley, to the British. After a temporary
 restoration to the throne he was deposed, and Raghoji III., a grandchild
 of Raghoji II., was placed on the throne. During his minority, which
 lasted till 1840, the country was well administered by a British
-resident. In 1853, on the death of Raghoji III. without heirs, Nagpur
+resident. In 1853, on the death of Raghoji III. without [[Heir|heirs]], Nagpur
 lapsed to the British paramount power. Until the formation of the
 Central Provinces in 1861, Nagpur province, which consists of the
 present Nagpur division, Chhindwara and Chhatisgarh, was administered by
@@ -364,7 +364,7 @@ province to constitute the new Central Provinces in 1861. On the 1st of
 October 1903 Berar also was placed under the administration of the
 commissioner of the Central Provinces (for history see BERAR). In 1905
 the greater part of Sambalpur district, with the feudatory states of
-Bamra, Rairakhol, Sonpur, Patna and Kalahandi, were transferred to
+[[Bamra]], Rairakhol, Sonpur, Patna and [[Kalahandi]], were transferred to
 Bengal, while the feudatory states of Chang Bhakar, Korea, Surguja,
 Udaipur and Jashpur were transferred from Bengal to the Central
 Provinces.

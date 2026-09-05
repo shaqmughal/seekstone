@@ -5,7 +5,7 @@ with that of the family of Clare (q.v.), earls of Gloucester, who are
 sometimes called earls of Clare, of which word Clarence is a later form.
 The first duke of Clarence was Lionel of Antwerp (see below), third son
 of Edward III., who was created duke in 1362, and whose wife Elizabeth
-was a direct descendant of the Clares, the "Honour of Clare" being among
+was a direct descendant of the [[Clares]], the "Honour of Clare" being among
 the lands which she brought to her husband. When Lionel died without
 sons in 1368 the title became extinct; but in 1412 it was revived in
 favour of Thomas (see below), the second son of Henry IV. The third
@@ -34,7 +34,7 @@ landed at Dublin in 1361, and in November of the following year was
 created duke of Clarence, while his father made an abortive attempt to
 secure for him the crown of Scotland. His efforts to secure an effective
 authority over his Irish lands were only moderately successful; and
-after holding a parliament at Kilkenny, which passed the celebrated
+after holding a parliament at [[Kilkenny]], which passed the celebrated
 statute of Kilkenny in 1367, he threw up his task in disgust and
 returned to England. About this time a marriage was arranged between
 Clarence and Violante, daughter of Galeazzo Visconti, lord of Pavia (d.
@@ -53,7 +53,7 @@ household.
 THOMAS, duke of Clarence (c. 1388-1421), who was nominally lieutenant of
 Ireland from 1401 to 1413, and was in command of the English fleet in
 1405, acted in opposition to his elder brother, afterwards King Henry
-V., and the Beauforts during the later part of the reign of Henry IV.;
+V., and the [[Beaufort|Beauforts]] during the later part of the reign of Henry IV.;
 and was for a short time at the head of the government, leading an
 unsuccessful expedition into France in 1412. When Henry V., however,
 became king in 1413 no serious dissensions took place between the
@@ -86,7 +86,7 @@ of Henry VI., when the crown was settled upon himself in case the male
 line of Henry's family became extinct. The good understanding, however,
 between Warwick and his son-in-law was not lasting, and Clarence was
 soon secretly reconciled with Edward. The public reconciliation between
-the brothers took place when the king was besieging Warwick in Coventry,
+the brothers took place when the king was besieging Warwick in [[Coventry]],
 and Clarence then fought for the Yorkists at Barnet and Tewkesbury.
 After Warwick's death in April 1471 Clarence appears to have seized the
 whole of the vast estates of the earl, and in March 1472 was created by
@@ -108,7 +108,7 @@ short incorrigible. Both Houses of Parliament passed the bill of
 attainder, and the sentence of death which followed was carried out on
 the 17th or 18th of February 1478. It is uncertain what share Gloucester
 had in his brother's death; but soon after the event the rumour gained
-ground that Clarence had been drowned in a butt of malmsey wine. Two of
+ground that Clarence had been drowned in a [[Butt|butt]] of malmsey wine. Two of
 the duke's children survived their father: Margaret, countess of
 Salisbury (1473-1541), and Edward, earl of Warwick (1475-1499), who
 passed the greater part of his life in prison and was beheaded in

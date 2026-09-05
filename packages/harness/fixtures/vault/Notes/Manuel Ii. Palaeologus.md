@@ -12,7 +12,7 @@ was born in 1350. At the time of his father's death he was a hostage at
 the court of Bayezid at Brusa, but succeeded in making his escape; he
 was forthwith besieged in Constantinople by the sultan, whose victory
 over the Christians at Nicopolis, however (Sept. 28, 1396), did not
-secure for him the capital. Manuel subsequently set out in person to
+secure for him the capital. [[Manuel]] subsequently set out in person to
 seek help from the West, and for this purpose visited Italy, France,
 Germany and England, but without material success; the victory of Timur
 in 1402, and the death of Bayezid in the following year were the first
@@ -27,7 +27,7 @@ to the sultan.
   these are printed in Migne, _Patrologia graeca_, clvi.; the letters
   have been edited by E. Legrand (1893). There is a special monograph,
   by B. de Xivrey (in _Mémoires de l'Institut de France_, xix. (1853),
-  highly commended by C. Krumbacher, whose _Geschichte der
+  highly commended by C. [[Krumbacher]], whose _Geschichte der
   byzantinischen Litteratur_ (1897) should also be consulted.
 
 ## See also

@@ -38,7 +38,7 @@ Berlin in 1881. His editions of the classics are now, of course, out of
 date. He died at Vienna on the 4th of February 1508.
 
   For a full list of Celtes's works see Engelbert Klüpfel, _De vita et
-  scriptis Conradi Celtis_ (2 vols., Freiburg, 1827); also Johann
+  scriptis Conradi Celtis_ (2 vols., [[Freiburg]], 1827); also Johann
   Aschbach, _Die früheren Wanderjahre des Conrad Celtes_ (Vienna, 1869);
   Hartmann, _Konrad Celtes in Nürnberg _(Nuremberg, 1889).
 

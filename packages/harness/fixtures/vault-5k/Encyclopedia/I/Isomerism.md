@@ -1,9 +1,9 @@
 # Isomerism
 
-ISOMERISM, in chemistry. When Wohler, in 1825, analysed his cyanic acid,
+ISOMERISM, in [[Chemistry|chemistry]]. When Wohler, in 1825, analysed his cyanic acid,
 and Liebig his quite different fulminic acid in 1824, the composition of
-both compounds proved to be absolutely the same, containing each in
-round numbers 28% of carbon, 33% of nitrogen, 37% of oxygen and 2% of
+both [[Compound|compounds]] proved to be absolutely the same, containing each in
+round numbers 28% of [[Carbon|carbon]], 33% of nitrogen, 37% of oxygen and 2% of
 hydrogen. This fact, inconsistent with the then dominating conception
 that difference in qualities was due to difference in chemical
 composition, was soon corroborated by others of analogous nature, and so
@@ -100,13 +100,13 @@ acid almost at once, or, indirectly, one may conclude that the isomer
 which forms under greater heat-development is the more stable, at least
 at lower temperatures. Now, whether a real, though undetected, change
 occurs is a question to be determined from case to case; it is certain,
-however, that a substance like aragonite (a mineral form of calcium
+however, that a substance like [[Aragonite|aragonite]] (a mineral form of calcium
 carbonate) has sensibly persisted in geological periods, though the
-polymorphous calcite is the more stable form. Nevertheless, the
+polymorphous [[Calcite|calcite]] is the more stable form. Nevertheless, the
 theoretical possibility, and its realization in many cases, has brought
 considerations to the front which have recently become of predominant
 interest; consequently the possible transformations of isomers and
-polymers will be considered later under the denomination of reversible
+polymers will be considered later under the [[Denomination|denomination]] of reversible
 or dynamical isomerisms.
 
 Especially prominent is the fact that polymerism and metamerism are
@@ -147,7 +147,7 @@ high valency, explains, in considerable measure, why inorganic compounds
 afforded, as a rule, no phenomena of this kind until the systematic
 investigation of metallic compounds by Werner brought to light many
 instances of isomerism in inorganic compounds. Whereas carbon renders
-isomerism possible in organic compounds, cobalt and platinum are the
+isomerism possible in organic compounds, [[Cobalt|cobalt]] and platinum are the
 determining elements in inorganic chemistry, the phenomena being
 exhibited especially by complex ammoniacal derivatives. The constitution
 of these inorganic isomers is still somewhat questionable; and in
@@ -156,13 +156,13 @@ part here, but the general feature is that cobalt and platinum act in
 them with high valency, probably exceeding four. The most simple case is
 presented by the two platinum compounds PtCl2(NH3)2, the
 platosemidiammine chloride of Peyrone, and the platosammine chloride of
-Jules Reiset, the first formed according to the equation PtCl4K2 + 2NH3
+Jules Reiset, the first formed according to the [[Equation|equation]] PtCl4K2 + 2NH3
 = PtCl2(NH3)2 + 2KCl, the second according to Pt(NH3)4Cl2 = PtCl2(NH3)2
 + 2NH3, these compounds differing in solubility, the one dissolving in
 33, the other in 160 parts of boiling water. With cobalt the most simple
 case was discovered in 1892 by S. Jorgensen in the second
 dinitrotetramminecobalt chloride, [Co(NO2)2(NH3)4]Cl, designated as
-flavo--whereas the older isomer of Gibbs was distinguished as
+flavo--whereas the older isomer of [[Gibbs]] was distinguished as
 croceo-salt. An interesting lecture on the subject was delivered by A.
 Werner before the German chemical society (_Ber._, 1907, 40, p. 15).
 (See COBALT; PLATINUM.)
@@ -179,7 +179,7 @@ cyanuric acid (CNOH)3, the latter being a solid which readily transforms
 into the former on heating as an easily condensable vapour; the reverse
 transformation may also be realized; and the polymers methylene oxide
 (CH2O) and trioxymethylene (CH2O)3. In the first group we may mention
-the homologous series of hydrocarbons derived from ethylene, given by
+the homologous series of [[Hydrocarbon|hydrocarbons]] derived from ethylene, given by
 the general formula C_nH_(2n), and the two compounds methylene-oxide and
 honey-sugar C6H12O6. The cases of mutual transformation are generally
 characterized by the fact that in the compound of higher molecular
@@ -215,15 +215,15 @@ isomerism. By Wilhelm Ostwald especially, attempts have been made to
 substitute the notion of atoms and molecular structure by less
 hypothetical conceptions; these ideas may some day receive thorough
 confirmation, and when this occurs science will receive a striking
-impetus. The phenomenon of isomerism will probably supply the crucial
+impetus. The phenomenon of isomerism will probably supply the [[Crucial|crucial]]
 test, at least for the chemist, and the question will be whether the
-Ostwaldian conception, while substituting the Daltonian hypothesis, will
+Ostwaldian conception, while substituting the Daltonian [[Hypothesis|hypothesis]], will
 also explain isomerism. An early step accomplished by Ostwald in this
 direction is to define ozone in its relation to oxygen, considering the
 former as differing from the latter by an excess of energy, measurable
 as heat of transformation, instead of defining the difference as
 diatomic molecules in oxygen, and triatomic in ozone. Now, in this case,
-the first definition expresses much better the whole chemical behaviour
+the first [[Definition|definition]] expresses much better the whole chemical behaviour
 of ozone, which is that of "energetic" oxygen, while the second only
 includes the fact of higher vapour-density; but in applying the first
 definition to organic compounds and calling isobutylene "butylene with
@@ -232,7 +232,7 @@ advantages of the atomic conception--the possibility of exactly
 predicting how many isomers a given formula includes and how you may get
 them--are lost.
 
-To Kekule is due the credit of taking the decisive step in introducing
+To Kekule is due the [[Credit|credit]] of taking the decisive step in introducing
 the notion of tetravalent carbon in a clear way, i.e. in the property of
 carbon to combine with four different monatomic elements at once,
 whereas nitrogen can only hold three (or in some cases five), oxygen two
@@ -275,7 +275,7 @@ valuable indication which molecular structure gives about these isomers
 is how to prepare them, for instance, that normal hexane, represented by
 CH3.CH2.CH2.CH2.CH2.CH3, may be obtained by action of sodium on propyl
 iodide, CH3.CH2.CH2I, the atoms of iodine being removed from two
-molecules of propyl iodide, with the resulting fusion of the two systems
+molecules of propyl iodide, with the resulting [[Fusion|fusion]] of the two systems
 of three carbon atoms into a chain of six carbon atoms. But it is not
 only the formation of different isomers which is included in their
 constitution, but also the different ways in which they will decompose
@@ -319,7 +319,7 @@ being that those differences are not large.
   the same, whereas the chief difference lies in the value of b, that
   is, the volume occupied by the molecule itself. For what reason this
   volume may differ from case to case lies close at hand; in connexion
-  with the notion of negative and positive atoms, like chlorine and
+  with the notion of negative and positive atoms, like [[Chlorine|chlorine]] and
   hydrogen, experience tends to show that the former, as well as the
   latter, have a mutual repulsive power, but the former acts on the
   latter in the opposite sense; the necessary consequence is that, when
@@ -423,7 +423,7 @@ N. Bronstedt found that at 25 deg., 10 c.c. of benzene dissolved 0.25
 and 0.18 gr. of prismatic and rhombic sulphur respectively. It can be
 easily seen that this ratio, according to Henry's law, must correspond
 to that of vapour-pressures, and so be independent of the solvent; in
-fact, in alcohol the figures are 0.0066 and 0.0052. Recently Hermann
+fact, in alcohol the figures are 0.0066 and 0.0052. Recently [[Hermann]]
 Walther Nernst has been able to deduce the transition-point in the case
 of sulphur from the specific heat and the heat developed in the
 transition only. This best studied case shows that a number of mutual

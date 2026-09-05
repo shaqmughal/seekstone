@@ -1,10 +1,10 @@
 # Marggraf
 
 MARGGRAF, ANDREAS SIGISMUND (1709-1782), German chemist, was born at
-Berlin on the 3rd of March 1709. After studying chemistry at Berlin and
-Strassburg, medicine at Halle, and mineralogy and metallurgy at
+Berlin on the 3rd of March 1709. After studying [[Chemistry|chemistry]] at Berlin and
+Strassburg, medicine at [[Halle]], and mineralogy and metallurgy at
 Freiberg, he returned to his native city in 1735 as assistant to his
-father, Henning Christian Marggraf, chief apothecary at the court. Three
+father, Henning Christian Marggraf, chief [[Apothecary|apothecary]] at the court. Three
 years later he was elected to the Berlin Academy of Sciences, which in
 1754 put him in charge of its chemical laboratory and in 1760 appointed
 him director of its physics class. He died in Berlin on the 7th of
@@ -24,7 +24,7 @@ that the salt cannot be prepared by the action of sulphuric acid on
 alumina alone, the addition of an alkali being necessary. He explained
 and simplified the process of obtaining phosphorus from urine, and made
 some admirable observations on phosphoric acid; but though he noted the
-increase in weight that attends the conversion of phosphorus into
+increase in weight that attends the [[Conversion|conversion]] of phosphorus into
 phosphoric acid he was content to remain an adherent of the phlogistic
 doctrine. For his time he was a skilful chemical analyst; he knew how to
 distinguish potash and soda by the different colorations they produce in

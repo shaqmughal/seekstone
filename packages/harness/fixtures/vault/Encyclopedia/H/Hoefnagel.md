@@ -7,8 +7,8 @@ tags: [law-theory, history]
 
 # Hoefnagel
 
-HOEFNAGEL, JORIS (1545-1601), Dutch painter and engraver, the son of a
-diamond merchant, was born at Antwerp. He travelled abroad, making
+HOEFNAGEL, [[Joris|JORIS]] (1545-1601), Dutch painter and engraver, the son of a
+diamond merchant, was born at [[Antwerp]]. He travelled abroad, making
 drawings from archaeological subjects, and was a pupil of Jan Bol at
 Mechlin. He was afterwards patronized by the elector of Bavaria at
 Munich, where he stayed eight years, and by the Emperor Rudolph at

@@ -8,10 +8,10 @@ topic: mechanics-studies
 
 LISBON (_Lisboa_), the capital of the kingdom of Portugal and of the
 department of Lisbon; on the right bank of the river Tagus, near its
-entrance into the Atlantic Ocean, in 38° 42´ 24´´ N. and 9° 11´ 10´´ W.
+entrance into the [[Atlantic Ocean]], in 38° 42´ 24´´ N. and 9° 11´ 10´´ W.
 Pop. (1900) 356,009. Lisbon, the westernmost of European capitals, is
 built in a succession of terraces up the sides of a range of low hills,
-backed by the granite mountains of Cintra. It fronts the Tagus, and the
+backed by the granite mountains of [[Cintra]]. It fronts the Tagus, and the
 view from the river of its white houses, and its numerous parks and
 gardens, is comparable in beauty with the approach to Naples or
 Constantinople by sea. The lower reaches of the estuary form a channel
@@ -50,7 +50,7 @@ magnificent viaduct of thirty-five arches, exceeding 200 ft. in height.
 At the Lisbon end of the aqueduct is the Mae d'Agua (i.e. "Mother of
 Water"), containing a huge stone hall in the midst of which is the
 reservoir. The Alviella aqueduct, opened in 1880, brings water from
-Alviella near Pernes, 70 m. N.N.E. Numerous fountains are among the
+Alviella near Pernes, 70 m. N.N.E. Numerous [[Fountain|fountains]] are among the
 means of distribution. Sewage is discharged into the Tagus, and the
 sanitation of the city is good, except in the older quarters.
 
@@ -76,13 +76,13 @@ damage to this quarter, many of its narrow, steep and winding alleys
 retain the medieval aspect which all other parts of the city have lost;
 and almost rival the slums of Oporto in picturesque squalor. The most
 conspicuous feature of the Alfama is the rocky hill surmounted by the
-Castello de São Jorge, a Moorish citadel which has been converted into a
-fort and barracks. The Sé Patriarchal, a cathedral founded in 1150 by
+[[Castello]] de São Jorge, a Moorish citadel which has been converted into a
+fort and [[Barracks|barracks]]. The Sé Patriarchal, a cathedral founded in 1150 by
 Alphonso I., is said by tradition to have been a Moorish mosque. It was
 wrecked by an earthquake in 1344 and rebuilt in 1380, but the earthquake
 of 1755 shattered the dome, the roof and belfry were subsequently
 burned, and after the work of restoration was completed the choir and
-façade were the only parts of the 14th-century Gothic church unspoiled.
+façade were the only parts of the 14th-century [[Gothic]] church unspoiled.
 In one of the side chapels is the tomb of St Vincent (d. 304), patron
 saint of Lisbon; a pair of ravens kept within the cathedral precincts
 are popularly believed to be the same birds which, according to the
@@ -143,10 +143,10 @@ of the royal residences, and the Botanical Gardens of the polytechnic
 school, with a fine avenue of palms and collections of tropical and
 subtropical flora hardly surpassed in Europe. There are large Portuguese
 cemeteries east and west of Lisbon, a German cemetery, and an English
-cemetery, known also as _Os Cyprestes_ from the number of its cypresses.
+cemetery, known also as _Os Cyprestes_ from the number of its [[Cypress|cypresses]].
 This was laid out in 1717 at the cost of the British and Dutch residents
 and contains the graves of Henry Fielding (1707-1754), the novelist, and
-Dr Philip Doddridge (1702-1751), the Nonconformist divine.
+Dr Philip [[Doddridge]] (1702-1751), the Nonconformist divine.
 
 Lisbon is the seat of an archbishop who since 1716 has borne _ex
 officio_ the honorary title of patriarch; he presides over the House of
@@ -157,10 +157,10 @@ Estrella church, with its white marble dome and twin towers visible for
 many miles above the city. The late Renaissance church of São Roque
 contains two beautiful chapels dating from the 18th century, one of
 which is inlaid with painted tiles, while the other was constructed in
-Rome of coloured marbles, and consecrated by the pope before being
+Rome of coloured [[Marbles|marbles]], and consecrated by the pope before being
 shipped to Lisbon. Its mosaics and lapis lazuli pillars are
 exceptionally fine. The 14th-century Gothic Igreja do Carmo was
-shattered by the great earthquake. Only the apse, pillared aisles and
+shattered by the great earthquake. Only the [[Apse|apse]], pillared aisles and
 outer walls remain standing, and the interior has been converted into an
 archaeological museum. The church of Nossa Senhora da Conceição has a
 magnificent Manoeline façade.
@@ -172,7 +172,7 @@ Tombo collection, because in 1375 the archives were first stored in a
 tower of that name. The royal palace, or Paço das Necessidades, west of
 Buenos Ayres, is a vast 18th-century mansion occupying the site of a
 chapel dedicated to Nossa Senhora das Necessidades (i.e. "Our Lady who
-helps at need").
+[[Helps|helps]] at need").
 
   _The Suburbs of Ajuda and Belem._--In the extreme west of Lisbon,
   beyond the Alcantara valley, are Belem (i.e. "Bethlehem"), beside the
@@ -184,14 +184,14 @@ helps at need").
   monasteries of Alcobaça and Batalha also fronts the river. It is the
   Convento dos Jeronymos, a Hieronymite convent and church, founded in
   1499 to commemorate the discovery of the sea-route to India by Vasco
-  da Gama. It was built of white limestone by João de Castilho (d.
+  da Gama. It was built of white [[Limestone|limestone]] by João de Castilho (d.
   1581), perhaps the greatest of Manoeline architects. Its cloisters
   form a square with blunted corners, surrounded by a two-storeyed
-  arcade, every available portion of which is covered with exquisite
+  [[Arcade|arcade]], every available portion of which is covered with exquisite
   sculptures. Parts of the building have been restored, but the
   cloisters and the beautiful central gateway remain unspoiled. The
   interior contains many royal tombs, including that of Catherine of
-  Braganza (d. 1705), the wife of Charles II. of England. The supposed
+  [[Braganza]] (d. 1705), the wife of Charles II. of England. The supposed
   remains of Camoens and Vasco da Gama were interred here in 1880. In
   1834, when the convent was secularized, its buildings were assigned to
   the Casa Pia, an orphanage founded by Maria I. Since 1903 they have
@@ -211,23 +211,23 @@ helps at need").
   do Rojo; and a strip of territory extending inland for a mean distance
   of 30 m. This region corresponds with the southern part of Estremadura
   (q.v.). Its more important towns, Setubal, Cintra, Torres Vedras and
-  Mafra, are described in separate articles. Sines, a small seaport on
+  [[Mafra]], are described in separate articles. Sines, a small seaport on
   Cape Sines, was the birthplace of Vasco da Gama. On the left bank of
   the Tagus, opposite Lisbon, are the small towns of Almada, Barreiro,
-  Aldeia Gallega and Seixal, and the hamlet of Trafaria, inhabited by
+  Aldeia Gallega and Seixal, and the [[Hamlet|hamlet]] of Trafaria, inhabited by
   fishermen. The beautiful strip of coast west of Oeiras and south of
   Cape Roca is often called the "Portuguese Riviera." Its fine climate,
   mineral springs and sea-bathing attract visitors at all seasons to the
   picturesque fortified bay of Cascaes, or to Estoril, Mont' Estoril and
   São João do Estoril, modern towns consisting chiefly of villas, hotels
-  and gardens. The Boca do Inferno ("Mouth of Hell") is a cavity in the
+  and gardens. The Boca do Inferno ("Mouth of [[Hell]]") is a cavity in the
   rocks at Cascaes resembling the Bufador at Peñiscola (q.v.). The
   villages of Carcavellos, Bucellas, Lumiar and Collares produce
   excellent wines; at Carcavellos is the receiving station for cables,
   with a large British staff, and a club and grounds where social and
   athletic meetings are held by the British colony. Alhandra, on the
   right bank of the Tagus, above Lisbon, was the birthplace of
-  Albuquerque; fighting bulls for the Lisbon arena are bred in the
+  Albuquerque; fighting [[Bull|bulls]] for the Lisbon [[Arena|arena]] are bred in the
   adjacent pastures.
 
 _Railways, Shipping and Commerce._--Lisbon has five railway
@@ -243,23 +243,23 @@ extensive system of electric tramways replaced the old-fashioned cable
 cars and mule trams. Electric and hydraulic lifts are used where the
 streets are too steep for trams. Lisbon is lighted by both electricity
 and gas; it has an admirable telephone service, and is connected by the
-Carcavellos cable-station with Cornwall (England), Vigo in Galicia,
-Gibraltar, the Azores and Madeira.
+Carcavellos cable-station with [[Cornwall]] (England), Vigo in [[Galicia]],
+[[Gibraltar]], the [[Azores]] and Madeira.
 
 Ships of the largest size can enter the Tagus, and the Barreiro inlet is
 navigable at low water by vessels drawing 16 ft. There are extensive
-quays along the right bank, with hydraulic cranes, two graving docks, a
+quays along the right bank, with hydraulic cranes, two graving [[Dock|docks]], a
 slipway, warehouses and lines of railway. The government and private
 docks are on the left bank. Loading and discharging are principally
 effected by means of lighters. The exports are wines, oil, fruit, tinned
 fish, salt, colonial produce, cork, pitwood, leather and wool. The
-imports include cotton and woollen goods, linen, ale and porter, butter,
+imports include cotton and woollen goods, linen, ale and porter, [[Butter|butter]],
 tea, hardware, tin plates, coal, iron, machinery, chemical manure, &c.,
 from Great Britain; grain and petroleum from the United States; dried
 codfish from Norway and Newfoundland; silks, perfumery and fancy goods
 from France; hemp, flax, grain, petroleum and cloth from Russia; linen,
 machinery, hardware, sugar, &c., from Germany and Holland, iron, steel,
-timber, pitch and salt fish from the Baltic; cocoa, coffee, wax and
+timber, pitch and salt fish from the Baltic; [[Cocoa|cocoa]], coffee, wax and
 rubber from the Portuguese colonies. Towards the close of the 19th
 century the tourist traffic from Great Britain and Germany attained
 considerable importance, and Lisbon has long been one of the principal
@@ -272,30 +272,30 @@ to a fleet of about 600 sailing boats, the Tagus is the headquarters of
 a small fleet of steam trawlers. The industries of Lisbon include
 dyeing, distillation of spirits and manufactures of woollen, cotton,
 silk and linen fabrics, of pottery, soap, paper, chemicals, cement,
-corks, tobacco, preserved foods and biscuits.
+corks, tobacco, preserved foods and [[Biscuit|biscuits]].
 
 _Education and Charity._--Although the seat of the only university in
 Portugal was fixed at Coimbra in 1527, Lisbon is the educational centre
 of the Portuguese world, including Brazil. Its chief learned societies
 are the Society of Medical Sciences, the Geographical Society, the Royal
-Academy of Sciences, the Academy of Fine Arts, the Royal Conservatory of
+Academy of Sciences, the Academy of [[Fine Arts]], the Royal Conservatory of
 Music and the Propaganda de Portugal. The museum of the Academy of Fine
 Arts contains the largest collection of pictures and statues by native
 and foreign artists in Portugal. The Geographical Society has gained an
-international reputation; it possesses a valuable library and museum.
+[[International|international]] reputation; it possesses a valuable library and museum.
 The National Library, founded in 1796, contains over 400,000 printed
 books, and upwards of 9000 MSS. There are also colonial, naval,
 artillery, natural history and commercial museums, meteorological and
-astronomical observatories, zoological gardens and an aquarium. Purely
+astronomical observatories, zoological gardens and an [[Aquarium|aquarium]]. Purely
 educational institutions include the medical, polytechnic, military and
 naval schools, commercial, agricultural and industrial institutes, a
-school of art, a central lyceum, a school for teachers, &c. The English
+school of art, a central [[Lyceum|lyceum]], a school for teachers, &c. The English
 college for British Roman Catholics dates from 1628. The Irish
 Dominicans have a seminary, and Portuguese ecclesiastical schools are
 numerous. There are hospitals for women, and for contagious diseases,
 almshouses, orphanages, a foundling hospital and a very large quarantine
 station on the south bank of the Tagus, founded in 1857 after an
-outbreak of yellow fever had devastated the city. Foremost among the
+outbreak of yellow [[Fever|fever]] had devastated the city. Foremost among the
 theatres, circuses and other places of amusement is the royal
 opera-house of São Carlos, built in 1792-1793 on the model of the Scala
 at Milan.
@@ -324,9 +324,9 @@ environment.
   vendors of fruit, lottery tickets, or oil and vinegar, contribute a
   babel of sound. For church festivals and holidays the country-folk
   come to town, the women riding on pillions behind the men, adorned in
-  shawls, aprons and handkerchiefs of scarlet or other vivid hues, and
+  shawls, aprons and handkerchiefs of scarlet or other vivid [[Hue|hues]], and
   wearing the strings of coins and ornaments of exquisite gold and
-  silver filigree which represent their savings or dowries. The costumes
+  silver [[Filigree|filigree]] which represent their savings or dowries. The costumes
   and manners of all classes may be seen at their best in the great
   bull-ring of Campo Pequeno, a Mauresque building which holds many
   thousands of spectators. A Lisbon bullfight is a really brilliant
@@ -352,7 +352,7 @@ fall into his hands, and yielded only after a siege of several months
 (21st October 1147), in which he was aided by English and Flemish
 crusaders on their way to Syria. In 1184 the city was again attacked by
 the Moslems under the powerful caliph Abu Yakub, but the enterprise
-failed. In the reign of Ferdinand I., the greater part of the town was
+failed. In the reign of [[Ferdinand]] I., the greater part of the town was
 burned by the Castilian army under Henry II. (1373), and in 1384 the
 Castilians again besieged Lisbon, but without success. Lisbon became the
 seat of an archbishop in 1390, the seat of government in 1422. During
@@ -370,7 +370,7 @@ quays and wrecked the shipping in the Tagus; fire broke out to complete
 the work of destruction; between 30,000 and 40,000 persons lost their
 lives; and the value of the property destroyed was about £20,000,000.
 The shock was felt from Scotland to Asia Minor. Careful investigation by
-Daniel Sharpe, an English geologist, has delimited the area in and near
+[[Daniel]] Sharpe, an English geologist, has delimited the area in and near
 Lisbon to which its full force was confined. Lisbon is built in a
 geological basin of Tertiary formation, the upper portion of which is
 loose sand and gravel destitute of organic remains, while below these

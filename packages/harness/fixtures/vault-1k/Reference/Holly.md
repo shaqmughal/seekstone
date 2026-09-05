@@ -78,7 +78,7 @@ generally strike root in spring. Transplantation should be performed in
 damp weather in September and October, or, according to some writers, in
 spring or on mild days in winter, and care should be taken that the
 roots are not dried by exposure to the air. It is rarely injured by
-frosts in Britain, where its foliage and bright red berries in winter
+[[Frost|frosts]] in Britain, where its foliage and bright red berries in winter
 render it a valuable ornamental tree. The yield of berries has been
 noticed to be less when a warm spring, following on a wet winter season,
 has promoted excess of growth. There are numerous varieties of the
@@ -113,7 +113,7 @@ moths _Sphinx ligustri_ and _Phoxopteryx naevana_ have been met with on
 holly. The leaves are mined by the larva of a fly, _Phytomyza ilicis_,
 and both on them and the tops of the young twigs occurs the plant-louse
 _Aphis ilicis_ (Kaltenbach, _Pflanzenfeinde_, 1874, p. 427). The custom
-of employing holly and other plants for decorative purposes at Christmas
+of employing holly and other plants for decorative purposes at [[Christmas]]
 is one of considerable antiquity, and has been regarded as a survival of
 the usages of the Roman Saturnalia, or of an old Teutonic practice of
 hanging the interior of dwellings with evergreens as a refuge for sylvan
@@ -141,7 +141,7 @@ door are a protection against thunder.
   Cassine_, are among the species cultivated in Britain. The leaves of
   several species of _Ilex_ are used by dyers. The member of the genus
   most important economically is _I. paraguariensis_, the prepared
-  leaves of which constitute Paraguay tea, or MATE (q.v.). Knee holly is
+  leaves of which constitute Paraguay tea, or MATE (q.v.). [[Knee]] holly is
   _Ruscus aculeatus_, or butcher's broom (see BROOM); sea holly,
   _Eryngium maritimum_, an umbelliferous plant; and the mountain holly
   of America, _Nemopanthes canadensis_, also a member of the order

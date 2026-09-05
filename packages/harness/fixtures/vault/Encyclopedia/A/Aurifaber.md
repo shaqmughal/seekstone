@@ -24,7 +24,7 @@ at the university, and having then received his doctorate of divinity,
 was appointed professor of divinity and pastor of the church of St
 Nicholas at Rostock. He distinguished himself by his conciliatory
 disposition, earned the special confidence of Duke John Albert of
-Mecklenburg, and took a leading part in 1552 in drawing up the
+[[Mecklenburg]], and took a leading part in 1552 in drawing up the
 constitution of the Mecklenburg church. He also settled some religious
 disputes in the town of Lubeck. In 1553 Duke Albert of Prussia, anxious
 to heal the differences in the Prussian church caused by the discussion
@@ -40,20 +40,20 @@ in 1519. He studied at Wittenberg where he heard the lectures of Luther,
 and afterwards became tutor to Count Mansfeldt. In the war of 1544-45 he
 accompanied the army as field-preacher, and then lived with Luther as
 his _famulus_ or private secretary, being present at his death in 1546.
-In the following year he spent six months in prison with John Frederick,
+In the following year he spent six months in prison with [[John Frederick]],
 elector of Saxony, who had been captured by the emperor, Charles V. He
 held for some years the office of court-preacher at Weimar, but owing to
 theological disputes was compelled to resign this office in 1561. In
 1566 he was appointed to the Lutheran church at Erfurt, and there
 remained till his death in November 1575. Besides taking a share in the
-first collected or Jena edition of Luther's works (1556), Aurifaber
+first collected or [[Jena]] edition of Luther's works (1556), Aurifaber
 sought out and published at Eisleben in 1564-1565 several writings not
 included in that edition. He also published Luther's _Letters_ (1556,
 1565), and _Table Talk_ (1566). This popular work, which has given him
 most of his fame, is unfortunately but a second or third hand
 compilation.
 
-  See G. Kawerau's art. in Herzog-Hauck's _Realencyk. fur prot.
+  See G. Kawerau's art. in Herzog-Hauck's _Realencyk. [[Fur|fur]] prot.
   Theologie_, and the literature there cited.
 
 ## See also

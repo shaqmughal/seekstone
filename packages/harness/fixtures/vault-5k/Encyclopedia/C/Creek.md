@@ -30,7 +30,7 @@ existence in 1540, and then included the Muskogee, the ruling tribe,
 whose language was generally spoken, the Alabama, the Hichiti, Koasati
 and others of the Muskogean stock, with the Yuchi and the Natchez, a
 large number of Shawano and the Seminoles of Florida as a branch. The
-Creeks were agriculturists living in villages of log houses. They were
+Creeks were agriculturists living in villages of [[Log|log]] houses. They were
 brave fighters, but during the 18th century only had one struggle, of
 little importance, with the settlers. The Creek War of 1813-14 was,
 however, serious. The confederacy was completely defeated in three

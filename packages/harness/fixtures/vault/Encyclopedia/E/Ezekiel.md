@@ -16,7 +16,7 @@ priesthood of the time, including acquaintance with the national
 historical, legal and ritual traditions and with the contemporary
 history and customs of neighbouring peoples. In the year 597 (being
 then, probably, not far from thirty years of age) he was carried off to
-Babylonia by Nebuchadrezzar with King Jehoiachin and a large body of
+Babylonia by Nebuchadrezzar with King [[Jehoiachin]] and a large body of
 nobles, military men and artisans, and there, it would seem, he spent
 the rest of his life. His prophecies are dated from this year ("our
 captivity," xl. 1), except in i. 1, where the meaning of the date
@@ -30,9 +30,9 @@ appears from the fact that a scribe has added a gloss (vv. 2, 3) to
 bring this statement into accord with the usual way of reckoning in the
 book: the "thirtieth" year, he explains, is the fifth year of the
 captivity of Jehoiachin. The exiles dwelt at Tell-abib ("Hill of the
-flood"), one of the mounds or ruins made by the great floods that
+[[Flood|flood]]"), one of the mounds or ruins made by the great floods that
 devastated the country,[1] near the "river" Chebar (Kebar), probably a
-large canal not far south of the city of Babylon. Here they had their
+large canal not far south of the city of [[Babylon]]. Here they had their
 own lands, and some form of local government by elders, and appear to
 have been prosperous and contented; probably the only demand made on
 them by the Babylonian government was the payment of taxes.
@@ -40,10 +40,10 @@ them by the Babylonian government was the payment of taxes.
 Ezekiel was married (xxiv. 18), had his own house, and comported himself
 quietly as a Babylonian subject. But he was a profoundly interested
 observer of affairs at home and among the exiles: as patriot and
-ethical teacher he deplored alike the political blindness of the
+ethical teacher he deplored alike the political [[Blindness|blindness]] of the
 Jerusalem government (King Zedekiah revolted in 588) and the immorality
 and religious superficiality and apostasy of the people. He, like
-Jeremiah, was friendly to Nebuchadrezzar, regarding him as Yahweh's
+[[Jeremiah]], was friendly to Nebuchadrezzar, regarding him as Yahweh's
 instrument for the chastisement of the nation. Convinced that opposition
 to Babylonian rule was suicidal, and interpreting historical events, in
 the manner of the times, as indications of the temper of the deity, he
@@ -66,7 +66,7 @@ This, then, was Ezekiel's political creed--destruction of Jerusalem and
 its inhabitants, restoration of the exiles, and meantime submission to
 Babylon. His arraignment of the Judeans is violent, almost malignant
 (vi. xvi. al.). The well-meaning but weak king Zedekiah he denounces
-with bitter scorn as a perjured traitor (xvii). He does not discuss the
+with bitter scorn as a perjured traitor (xvii). He does not [[Discus|discuss]] the
 possibility of successful resistance to the Chaldeans; he simply assumes
 that the attempt is foolish and wicked, and, like other prophets, he
 identifies his political programme with the will of God. Probably his
@@ -96,9 +96,9 @@ communities, made bolder in this case, perhaps, by the political unrest
 and the weakness of the royal government under Zedekiah. No such charges
 are brought by the prophet against the exiles, in whose simple life,
 indeed, there was little or no opportunity for flagrant violation of
-law. Ezekiel's own moral code is that of the prophets, which insists on
+law. Ezekiel's own moral [[Code|code]] is that of the prophets, which insists on
 the practice of the fundamental civic virtues. He puts ritual offences,
-however, in the same category with offences against the moral law, and
+however, in the same [[Category|category]] with offences against the moral law, and
 he does not distinguish between immorality and practices that are
 survivals of old recognized customs: in ch. xxii. he mentions "eating
 with the blood"[2] along with murder, and failure to observe ritual
@@ -127,7 +127,7 @@ with ordinary offences against morality. But he conceives of him, on the
 other hand, as limited locally and morally--as having his special abode
 in. the Jerusalem temple, or elsewhere in the midst of the Israelite
 people, and as dealing with other nations solely in the interests of
-Israel. The bitter invectives against Ammon, Moab, Edom, Philistia,
+Israel. The bitter invectives against Ammon, Moab, [[Edom]], Philistia,
 Tyre, Sidon and Egypt, put into Yahweh's mouth, are based wholly on the
 fact that these peoples are regarded as hostile and hurtful to Israel;
 Babylonia, though nowise superior to Egypt morally, is favoured and
@@ -182,8 +182,8 @@ menials; and he takes from the civil ruler all authority over public
 religion, permitting him merely to furnish material for sacrifices. He
 is, however, much more than a ritual reformer. He is the first to
 express clearly the conception of a sacred nation, isolated by its
-religion from all others, the guardian of divine law and the abode of
-divine majesty. This kingdom of God he conceives of as moral: Yahweh is
+religion from all others, the [[Guardian|guardian]] of divine law and the abode of
+divine [[Majesty|majesty]]. This kingdom of God he conceives of as moral: Yahweh is
 to put his own spirit into the people,[4] creating in them a disposition
 to obey his commandments, which are moral as well as ritual (xxxvi. 26,
 27). The conception of a sacred nation controlled the whole succeeding
@@ -192,7 +192,7 @@ its intensity saved the Jewish religion to the world.
 
 _Text and Authorship._--The Hebrew text of the book of Ezekiel is not in
 good condition--it is full of scribal inaccuracies and additions. Many
-of the errors may be corrected with the aid of the Septuagint (e.g. the
+of the [[Error|errors]] may be corrected with the aid of the Septuagint (e.g. the
 430--390 + 40--of iv. 5, 6 is to be changed to 190), and none of them
 affect the general thought. The substantial genuineness of the
 discourses is now accepted by the great body of critics. The Talmudic
@@ -201,13 +201,13 @@ tradition (_Baba Bathra_ 14b) that the men of the Great Synagogue
 is no validity in the objections of Zunz (_Gottesdienstl. Vortr._) that
 the specific prediction concerning Zedekiah (xii. 12 f.) is
 non-Prophetic, and that the drawing-up of a new constitution soon after
-the destruction of the city and the mention of Noah, Daniel, Job and
+the destruction of the city and the mention of Noah, [[Daniel]], Job and
 Persia are improbable. The prediction in question was doubtless added by
 Ezekiel after the event; the code belongs precisely in his time, and the
 constitution was natural for a priest; Noah, Daniel and Job are old
 legendary Hebrew figures; and it is not probable that the prophet's
 "Paras" is our "Persia." Havet's contention (in _La Modernité des
-prophètes_) that Gog represents the Parthians (40 B.C.) has little or
+prophètes_) that [[Gog]] represents the Parthians (40 B.C.) has little or
 nothing in its support. There are additions made _post eventum_, as in
 the case mentioned above and in xxix. 17-20, and the description of the
 commerce of Tyre (xxvii. 9b-25a), which interrupts the comparison of the
@@ -225,7 +225,7 @@ fact that seems to be hinted at in the statement that he was "dumb" till
 the fall of Jerusalem (iii. 26, xxxiii. 22); in private interviews the
 people did not take him seriously (xxxiii. 30-33). His book was accepted
 early as part of the sacred literature: Ben-Sira (c. 180 B.C.) mentions
-him along with Isaiah and Jeremiah (Ecclus. xlix. 8); he is not quoted
+him along with [[Isaiah]] and Jeremiah (Ecclus. xlix. 8); he is not quoted
 directly in the New Testament, but his imagery is employed largely in
 the Apocalypse and elsewhere. His divergencies from the Pentateuchal
 code gave rise to serious doubts, but, after prolonged study, the
@@ -240,10 +240,10 @@ they reached the age of thirty years.
   consolatory construction of the future (xxxiii.-xlviii.). The opening
   "vision" (i.), an elaborate symbolic picture, is of the nature of a
   general preface, and was composed probably late in the prophet's life.
-  Out of the north (the Babylonian sacred mountain) comes a bright
+  Out of the north (the Babylonian sacred mountain) comes a [[Bright|bright]]
   cloud, wherein appear four Creatures (formed on the model of
-  Babylonian composite figures), each with four faces (man, lion, bull,
-  eagle) and attended by a wheel; the wheels are full of eyes, and move
+  Babylonian composite figures), each with four faces (man, lion, [[Bull|bull]],
+  [[Eagle|eagle]]) and attended by a wheel; the wheels are full of eyes, and move
   straight forward, impelled by the spirit dwelling in the Creatures
   (the spirit of Yahweh). Supported on their heads is something like a
   crystalline firmament, above which is a form like a sapphire throne
@@ -263,11 +263,11 @@ they reached the age of thirty years.
   capture of Jerusalem-perhaps revised after the event. There are
   several symbolic acts descriptive of the siege. One of these (iv. 4
   ff.) gives the duration of the national punishment in loose
-  chronological reckoning: 40 years (a round number) for Judah, and 150
+  chronological reckoning: 40 years (a round number) for [[Judah]], and 150
   more (according to the corrected text) for Israel, the starting-point,
   probably, being the year 722, the date of the capture of Samaria; the
   procedure described in v. 8 is not to be understood literally. In vi.
-  the idolatry of the nation is pictured in darkest colours. Next
+  the idolatry of the nation is pictured in darkest [[Colours|colours]]. Next
   follows (viii.-xi.) a detailed description, in the form of a vision,
   of the sin of Jerusalem: within the temple-area elders and others are
   worshipping beast-forms, Tammuz and the sun (probably actual cults of
@@ -283,14 +283,14 @@ they reached the age of thirty years.
   of a few eminently good men will not save it (xiv.).[7] After a
   comparison of Israel to a worthless wild vine (xv.) come two
   allegories, one portraying idolatrous Jerusalem as the unfaithful
-  spouse of Yahweh (xvi.), the other describing the fate of Zedekiah
+  spouse of Yahweh (xvi.), the other describing the [[Fate|fate]] of Zedekiah
   (xvii.). The fine insistence on individual moral responsibility in
   xviii. (cf. Deut. xxiv. 16, Jer. xxxi. 29 f.), while it is a protest
   against a superficial current view, is not to be understood as a
   denial of all moral relations between successive generations. This
   latter question had not presented itself to the prophet's mind; his
   object was simply to correct the opinion of the people that their
-  present misfortunes were due not to their own faults but to those of
+  present misfortunes were due not to their own [[Fault|faults]] but to those of
   their predecessors. A more sympathetic attitude appears in two elegies
   (xix.), one on the kings Jehoahaz and Jehoiachin, the other on the
   nation. These are followed by a scathing sketch of Israel's religious
@@ -302,13 +302,13 @@ they reached the age of thirty years.
   the former it (Aholah) is involved in the same condemnation as that of
   Jerusalem. At this point is introduced (xxv.-xxxii.) the series of
   discourses directed against foreign nations. The description of the
-  king of Tyre (xxviii. 11-19) as dwelling in Eden, the garden of God,
+  king of Tyre (xxviii. 11-19) as dwelling in [[Eden]], the garden of God,
   the sacred mountain, under the protection of the cherub, bears a
   curious resemblance to the narrative in Gen. ii., iii., of which,
   however, it seems to be independent, using different Babylonian
   material; the text is corrupt. The section dealing with Egypt is one
   of remarkable imaginative power and rhetorical vigour: the king of
-  Egypt is compared to a magnificent cedar of Lebanon (in xxxi. 3 read:
+  Egypt is compared to a magnificent cedar of [[Lebanon]] (in xxxi. 3 read:
   "there was a cedar in Lebanon") and to the dragon of the Nile, and the
   picture of his descent into Sheol is intensely tragic. Whether these
   discourses were all uttered between the investment of Jerusalem and
@@ -324,7 +324,7 @@ they reached the age of thirty years.
   land in peace for ever; this Gog section is regarded by some as the
   beginning of Jewish apocalyptic writing. In the last section
   (xl.-xlviii.), put as a vision, the temple is to be rebuilt, in
-  dimensions and arrangements a reproduction of the temple of Solomon
+  [[Dimension|dimensions]] and arrangements a reproduction of the temple of Solomon
   (cf. I Kings vi., vii.), the sacrifices and festivals and the
   functions of priests and prince are prescribed, a stream issuing from
   under the temple is to vivify the Dead Sea and fertilize the land
@@ -334,24 +334,24 @@ they reached the age of thirty years.
   for ever in the midst of his people.
 
   LITERATURE.--For the older works see the _Introductions_ of J.G.
-  Carpzov (1757) and C.H.H. Wright (1890). For _legends_:
-  Pseud.-Epiphan., _De vit. prophet._; Benjamin of Tudela, Itin.;
+  [[Carpzov]] (1757) and C.H.H. Wright (1890). For _legends_:
+  Pseud.-Epiphan., _De vit. prophet._; [[Benjamin Of Tudela|Benjamin of Tudela]], Itin.;
   Hamburger, _Realencycl._; _Jew. Encycl._ On the Hebrew text; C.H.
   Cornill, _Ezechiel_ (1886) (very valuable for text and ancient
-  versions); H. Graetz, _Emendationes_ (1893).; C.H. Toy, "Text of
+  versions); H. [[Graetz]], _Emendationes_ (1893).; C.H. Toy, "Text of
   Ezek." (1899) in Haupt's _Sacred Books of the Old Test._ Commentaries:
-  F. Hitzig (1847); H. Ewald (1868); E. Reuss (French ed., 1876; Germ,
+  F. [[Hitzig]] (1847); H. Ewald (1868); E. Reuss (French ed., 1876; Germ,
   ed., 1892); Currey (1876) in _Speaker's Comm._; R. Smend (revision of
-  Hitzig) (1880) in _Kurzgefasst. exeget. Handbuch_; A.B. Davidson
+  Hitzig) (1880) in _Kurzgefasst. exeget. Handbuch_; A.B. [[Davidson]]
   (1882) in Cambr. _Bible for Schools_; J. Skinner (1895) in _Expos.
-  Bible_; A. Bertholet (1897) in Marti's _Kurz. Hand-Comm._; C.H. Toy
+  Bible_; A. Bertholet (1897) in Marti's _[[Kurz]]. Hand-Comm._; C.H. Toy
   (1899) in Haupt's _Sacr. Bks._ (Eng. ed.); R. Kraetzschmar (1900) in
   W. Nowack's _Handkommentar_. See also Duhm, _Theol. d. Propheten_
-  (1875); A. Kuenen, _Prophets and Prophecy_ (1877); Gautier, _La
+  (1875); A. [[Kuenen]], _Prophets and Prophecy_ (1877); [[Gautier]], _La
   Mission du prophète Ezéchiel_ (1891); Montefiore, _Hibbert Lectures_
   (1892); A. Bertholet, _Der Verfassungsentwurf des Hesekiel_ (1896);
-  articles in Herzog-Hauck, _Realencykl._; Hastings, _Bibl. Dict._;
-  Cheyne, _Encycl. Bibl., Jew. Encycl._; F. Bleek, _Introd._ (Eng. tr.,
+  articles in Herzog-Hauck, _Realencykl._; [[Hastings]], _Bibl. Dict._;
+  [[Cheyne]], _Encycl. Bibl., Jew. Encycl._; F. Bleek, _Introd._ (Eng. tr.,
   1875), and Bleek-Wellhausen (Germ.) (1878); Wildeboer, _Letterkunde d.
   Oud. Verbonds_ (1893), and Germ, transl., _Litt. d. Alt. Test._;
   Perrot and Chipiez, _Hist. de l'art_, &c., in which, however, the
@@ -362,7 +362,7 @@ they reached the age of thirty years.
 FOOTNOTES:
 
   [1] The Assyrian term _abubu_ is used of the great primeval deluge
-    (in the Gilgamesh epic), and also of the local floods common in the
+    (in the [[Gilgamesh]] epic), and also of the local floods common in the
     country.
 
   [2] So we must read (as Robertson Smith has pointed out) in xxii. 9
@@ -389,7 +389,7 @@ FOOTNOTES:
   [8] For a reconstruction of the poem in xxi. 10, 11, see the English
     Ezekiel in Haupt's _Sacred Books_.
 
-  [9] Gog probably represents a Scythian horde (though such an invasion
+  [9] Gog probably represents a Scythian [[Horde|horde]] (though such an invasion
     never took place)--certainly not Alexander the Great, who would have
     been called "king of Greece," and would have been regarded not as an
     enemy but as a friend.

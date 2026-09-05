@@ -24,7 +24,7 @@ _History_). Quiet, shrewd, attentive to the public interest and his own,
 but without any particular distinction, he would have left an
 unblemished reputation if he had not unfortunately accepted a second
 term (18th December 1885). Shortly afterwards the traffic of his
-son-in-law (Daniel Wilson) in the decorations of the Legion of Honour
+son-in-law ([[Daniel]] Wilson) in the decorations of the Legion of Honour
 came to light. Grevy was not accused of personal participation in these
 scandals, but he was somewhat obstinate in refusing to realize that he
 was responsible indirectly for the use which his relative had made of

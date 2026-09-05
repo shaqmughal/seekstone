@@ -1,11 +1,11 @@
 # Football
 
-FOOTBALL, a game between two opposing sides played with a large inflated
-ball, which is propelled either by the feet alone or by both feet and
+FOOTBALL, a [[Game|game]] between two opposing sides played with a large inflated
+[[Ball|ball]], which is propelled either by the feet alone or by both feet and
 hands.
 
 Pastimes of the kind were known to many nations of antiquity, and their
-existence among savage tribes, such as the Maoris, Faroe Islanders,
+existence among savage tribes, such as the [[Maori|Maoris]], Faroe Islanders,
 Philippine Islanders, Polynesians and Eskimos, points to their primitive
 nature. In Greece the [Greek: episkyros] seems to have borne a
 resemblance to the modern game. Of this we read in Smith's _Dictionary
@@ -13,7 +13,7 @@ of Antiquities_--"It was the game at football, played in much the same
 way as with us, by a great number of persons divided into two parties
 opposed to one another." Amongst the Romans the _harpastum_, derived
 from the Greek verb [Greek: harpazô], I seize, thus showing that
-carrying the ball was permissible, bore a certain resemblance. Basil
+carrying the ball was permissible, bore a certain resemblance. [[Basil]]
 Kennett, in his _Romae antiquae notitia_, terms this missile a "larger
 kind of ball, which they played with, dividing into two companies and
 striving to throw it into one another's goals, which was the conquering
@@ -21,7 +21,7 @@ cast." The _harpastum_ was a gymnastic game and probably played for the
 most part indoors. The real Roman football was played with the inflated
 _follis_, which was kicked from side to side over boundaries, and thus
 must have closely resembled the modern Association game. Tradition
-ascribes its introduction in northern Europe to the Roman legions. It
+ascribes its introduction in northern Europe to the Roman [[Legion|legions]]. It
 has been played in Tuscany under the name of _Calcio_ from the middle
 ages down to modern times.
 
@@ -31,12 +31,12 @@ variety of football has been played in Ireland for over 2000 years. In
 early times the great football festival of the year was Shrove Tuesday,
 though the connexion of the game with this particular date is lost in
 obscurity. William Fitzstephen, in his _History of London_ (about 1175),
-speaks of the young men of the city annually going into the fields after
-dinner to play at the well-known game of ball on the day _quae dicitur
+speaks of the young men of the city annually going into the [[Fields|fields]] after
+[[Dinner|dinner]] to play at the well-known game of ball on the day _quae dicitur
 Carnilevaria_. As far as is known this is the first distinct mention of
 football in England. It was forbidden by Edward II. (1314) in
 consequence of "the great noise in the city caused by hustling over
-large balls (_rageries de grosses pelotes_)." A clear reference is made
+large balls (_rageries de [[Grosse|grosses]] pelotes_)." A clear reference is made
 "ad pilam ... pedinam" in the Rotuli Clausarum, 39 Edward III. (1365),
 memb. 23, as one of the pastimes to be prohibited on account of the
 decadence of archery, and the same thing occurs in 12 Richard II. c. 6
@@ -49,14 +49,14 @@ fury and extreme violence, whereof proceedeth hurte and consequently
 rancour and malice to remayne with thym that be wounded, wherefore it is
 to be put in perpetual silence." In Stubbes' _Anatomie of Abuses_ (1583)
 it is referred to as "a develishe pastime ... and hereof groweth envy,
-rancour and malice, and sometimes brawling, murther, homicide, and great
+rancour and malice, and sometimes [[Brawling|brawling]], murther, [[Homicide|homicide]], and great
 effusion of blood, as experience daily teacheth." Fifty years later
-(1634) Davenant is quoted (in Hone's _Table-Book_) as remarking, "I
+(1634) [[Davenant]] is quoted (in Hone's _Table-Book_) as remarking, "I
 would now make a safe retreat, but methinks I am stopped by one of your
-heroic games called football; which I conceive (under your favour) not
+heroic [[Games|games]] called football; which I conceive (under your favour) not
 very conveniently civil in the streets, especially in such irregular and
-narrow roads as Crooked Lane. Yet it argues your courage, much like
-your military pastime of throwing at cocks, since you have long allowed
+narrow roads as Crooked [[Lane]]. Yet it argues your courage, much like
+your military pastime of throwing at [[Cock|cocks]], since you have long allowed
 these two valiant exercises in the streets."
 
 An evidence of its old popularity in Ireland is that the statutes of
@@ -66,9 +66,9 @@ at Cambridge, particularly at Magdalene College, as is evidenced by the
 following extract from the register book of that institution under the
 date 1679:--
 
-  "That no schollers give or receive at any time any treat or collation
+  "That no schollers give or receive at any time any treat or [[Collation|collation]]
   upon account of ye football play, on or about Michaelmas Day, further
-  than Colledge beere or ale in ye open halle to quench their thirsts.
+  than Colledge beere or ale in ye open [[Halle|halle]] to quench their thirsts.
   And particularly that that most vile custom of drinking and spending
   money--Sophisters and Freshmen together--upon ye account of making or
   not making a speech at that football time be utterly left off and
@@ -76,10 +76,10 @@ date 1679:--
 
 It nevertheless remained for the most part a game for the masses, and
 never took root, except in educational institutions, among the upper
-classes until the 19th century. No clubs or code of rules had been
+classes until the 19th century. No clubs or [[Code|code]] of rules had been
 formed, and the sole aim seems to have been to drive the ball through
 the opposing side's goal by fair means or foul. So rough did the game
-become that James I. forbade the heir apparent to play it, and describes
+become that James I. forbade the [[Heir|heir]] apparent to play it, and describes
 the exercise in his _Basilikon Doron_ as "meeter for laming than making
 able the users thereof." Both sexes and all ages seem to have taken part
 in it on Shrove Tuesday; shutters had to be put up and houses closed in
@@ -99,7 +99,7 @@ the "Badminton Library") sees the origin of the Association game, came
 into existence. Only at Rugby (later at some other schools), which from
 the first possessed an extensive grass field, was the old game preserved
 and developed, including even its roughness, for actual "hacking" (i.e.
-intentional kicking of an opponent's legs) was not expressly abolished
+intentional kicking of an opponent's [[Leg|legs]]) was not expressly abolished
 at Rugby until 1877. The description of the old school game at Rugby
 contained in _Tom Brown's School Days_ has become classic.
 
@@ -129,13 +129,13 @@ the Rugby rules of that date were few and vague, and indeed almost
 unintelligible to those who had not been at Rugby school. Still, the
 fact that play was according to Rugby rules produced a certain
 uniformity; but it was not till the establishment of the English Union,
-and the commencement of international matches, that a really definite
+and the commencement of [[International|international]] matches, that a really definite
 code of rules was drawn up.
 
 It is an interesting question to ask why it was that the game of Rugby
 school became so popular in preference to the games of other schools,
-such as Eton, Winchester or Harrow. It was probably very largely due to
-the reputation and success of Rugby school under Dr Arnold, and this
+such as [[Eton]], Winchester or Harrow. It was probably very largely due to
+the reputation and success of Rugby school under Dr [[Arnold]], and this
 also led most probably to its adoption by other schools; for in 1860
 many schools besides Rugby played football according to Rugby rules. The
 rapidity with which the game spread after the middle of the 19th century
@@ -187,7 +187,7 @@ Scottish Unions. This dispute eventually turned on the question of the
 right of the English Union to make and interpret the rules of the game,
 and to be the paramount authority in the game, and superior to the other
 Unions. Scotland, Ireland and Wales resisted this claim, and finally, in
-1889, Lord Kingsburgh and Major Marindin were appointed as a commission
+1889, Lord Kingsburgh and [[Major]] Marindin were appointed as a commission
 to settle the dispute. The result was the establishment of the
 International Board, which consists of representatives from each
 Union--six from England, two from each of the others--whose duties were
@@ -262,7 +262,7 @@ the Northern Union, and this undoubtedly was the main cause of the
 popularity of the game in that county. Similarly the competition for the
 South Wales Cup from 1878 to 1887 did a great deal to establish the game
 in that country. The method of carrying on these competitions is, that
-all the clubs entered are drawn by lot, in pairs, to play together in
+all the clubs entered are drawn by [[Lot|lot]], in pairs, to play together in
 the first round; the winners of these ties are then similarly drawn in
 pairs for the next round, until for the final round there is only one
 pair left, the winner of which takes the cup. An elaboration of this
@@ -278,7 +278,7 @@ one defeat does not debar a club from eventually coming out first.
 
 It is said that wherever Britons go they take their games with them, and
 this has certainly been the case with Rugby football, especially in New
-Zealand, South Africa and Australia. An interchange of football visits
+Zealand, South Africa and [[Australia]]. An interchange of football visits
 between these colonies and the motherland is now an important feature in
 the game. These tours date from 1888, when an English team visited
 Australia and New Zealand. In the following season, 1889, a team of New
@@ -287,17 +287,17 @@ by their play even then indicated how well the grammar of the game had
 been studied in that colony. Subsequently several British teams visited
 at intervals New Zealand and Australia, and in 1905 New Zealand sent
 home a team which eclipsed anything previously accomplished. They played
-altogether thirty-three matches, including fixtures with England,
+altogether thirty-three matches, including [[Fixtures|fixtures]] with England,
 Ireland, Scotland and Wales, and only sustained one defeat, viz. by a
 try in their match with Wales, a record which speaks for itself. In 1908
 a combined team of English and Welsh players toured in New Zealand and
 Australia, and also visited Canada on their way home. The team was not
 so strong as could have been wished, and though they did fairly well in
 Australia, they lost all three "test matches" against New Zealand. In
-South Africa the game is followed with equal enthusiasm, and the play is
+South Africa the game is followed with equal [[Enthusiasm|enthusiasm]], and the play is
 hardly inferior, if at all, to that of the New Zealanders. The first
 British team to visit the Cape went in 1891 through the generosity of
-Cecil Rhodes, who guaranteed the undertaking against loss. Teams were
+[[Cecil]] Rhodes, who guaranteed the undertaking against loss. Teams were
 also sent out in 1896 and 1903; the result of matches played in each
 visit showing the steady improvement of the colonists. In 1906 the South
 Africans paid their first visit to England, and the result of their tour
@@ -330,7 +330,7 @@ The game itself is essentially a winter pastime, as two requisite
 conditions for its enjoyment are a cool atmosphere and a soft though
 firm turf. The field of play is an oblong, not more than 110 yds. long
 nor more than 75 yds. broad, and it usually approximates to these
-dimensions. The boundaries are marked by lines, called touch-lines, down
+[[Dimension|dimensions]]. The boundaries are marked by lines, called touch-lines, down
 the sides, and goal-lines along the ends. The touch-lines are continued
 beyond the goal-lines for a distance of not more than 25 yds.; and
 parallel to the goal-line and behind it, at a distance of not more than
@@ -346,7 +346,7 @@ spheroid), and the official dimensions are--length, 11 to 11¼ in.;
 length circumference, 30 to 31 in.; width circumference, 25½ to 26 in.;
 weight, 13 to 14½ oz. It is made of india-rubber inflated, and covered
 with a leather case. Halfway between the two goal-lines there is
-generally drawn the half-way line, but sometimes it is marked by flags
+generally drawn the half-way line, but sometimes it is marked by [[Flag|flags]]
 on the touch-line; and 25 yds. from each goal-line there is similarly
 marked the 25-yds. line. In the original game the side that had gained
 the majority of goals won the match, and if no goal had been scored, or
@@ -454,9 +454,9 @@ as it were--usually termed wheeling--directing all the force to one side
 of the scrummage and thus breaking away. As a rule the game is a lively
 one, for the players are rarely at rest; if there is much scrummaging it
 is called a slow game, but, if much running and passing, a fast or an
-open game. The spectator, unless he be an expert, prefers the open
+open game. The spectator, unless he be an [[Expert|expert]], prefers the open
 game; but in any case the game is always a hard and exciting struggle,
-frequently with the balance of fortune swaying very rapidly from one
+frequently with the [[Balance|balance]] of fortune swaying very rapidly from one
 side to the other, so that it is a matter of no surprise to find the
 British public so ardently attached to it. (C. J. N. F.; C. J. B. M.)
 
@@ -464,7 +464,7 @@ British public so ardently attached to it. (C. J. N. F.; C. J. B. M.)
 Association football is the outcome of the game of football as played at
 Cambridge University about the middle of the 19th century. In October
 1863 a committee, consisting of representatives of the schools of Eton,
-Harrow, Rugby, Marlborough, Shrewsbury and Westminster, drew up a code
+Harrow, Rugby, [[Marlborough]], Shrewsbury and Westminster, drew up a code
 of laws which settled the fundamental principle of the "Association"
 game, as distinguished from other forms of the game which permitted of
 handling and carrying the ball. In Association football the use of the
@@ -473,7 +473,7 @@ holding an opponent, is absolutely prohibited; "dribbling" or kicking
 the ball with the feet, and propelling it by the head or body, are the
 methods to be adopted. The Cambridge laws specially provided for
 "kicking" the ball. Laws 13 and 14 provided that "the ball, when in
-play, may be stopped by any part of the body, but may not be held or hit
+play, may be stopped by any part of the body, but may not be held or [[Hit|hit]]
 by the hands, arms or shoulders. All charging is fair, but holding,
 pushing with the hands, tripping up and shinning are forbidden."
 
@@ -561,19 +561,19 @@ established in the south it was making steady progress in the north,
 particularly in Yorkshire, where the Sheffield Club had been formed as
 early as 1854. In 1867 the game had become so well established that it
 was decided to play an inter-county match. The match, which was played
-"in the wilds of Battersea Park," terminated in a draw, neither side
+"in the wilds of [[Battersea]] Park," terminated in a draw, neither side
 having obtained a goal; and it did much to stimulate the growing
 popularity of the game. During the season 1870-1871, only three years
 later, two matches of an international character were played between
 Englishmen and Scotsmen in membership with the Football Association;
 they were not, however, recognized as "international" matches. The first
 real international match, England v. Scotland, was played on the 30th of
-November 1872 at Partick, Glasgow; the first international match between
+November 1872 at Partick, [[Glasgow]]; the first international match between
 England and Wales was played at Kennington Oval in 1879; and that
-between England and Ireland at Belfast in 1882. In 1896 amateur
+between England and Ireland at [[Belfast]] in 1882. In 1896 amateur
 international matches were inaugurated with Germany, Austria and
 Bohemia; and games are now annually played with Scotland, Wales,
-Ireland, France, Belgium, Germany, Holland, Austria and other
+Ireland, France, [[Belgium]], Germany, Holland, Austria and other
 continental countries. As the outcome of the international relations
 with Scotland, Wales and Ireland, an International Football Association
 Board was formed in 1882, when a universal code of laws was agreed upon.
@@ -585,7 +585,7 @@ of May 1904 the "International Federation of Association Football" was
 instituted. It consists of the recognized national associations in the
 respective countries: and its objects are to develop and control
 Association international football. The countries in federation are:
-Austria, Belgium, Denmark, England, Finland, France, Germany, Hungary,
+Austria, Belgium, [[Denmark]], England, [[Finland]], France, Germany, Hungary,
 Italy, Netherlands, Norway, Sweden and Switzerland.
 
 The small number of clubs taking part in the game in the early days
@@ -593,7 +593,7 @@ becomes of interest when compared with the magnitude of the game in the
 20th century. Association football has become one of the most popular of
 all national sports in the United Kingdom. It is slowly but surely
 taking a similar position on the continent of Europe and is making
-progress even in the Far East, Japan being one of its latest adherents.
+progress even in the Far East, [[Japan]] being one of its latest adherents.
 In the season of 1871-1872 the Football Association inaugurated its
 popular challenge cup competition which is now competed for by both
 amateur and professional clubs. In the first year fifteen clubs entered,
@@ -608,15 +608,15 @@ themselves. In the following season of 1882-1883 the cup was for the
 first time taken north by the Blackburn Olympic Club, and it remained in
 the north for the next nineteen years, until in the season of 1900-1901
 it was again brought south by the Tottenham Hotspur Club, who defeated
-the Sheffield United Club at Bolton by three goals to one. In the
-following season the cup was again taken north by the Bury Club. In the
+the Sheffield United Club at [[Bolton]] by three goals to one. In the
+following season the cup was again taken north by the [[Bury]] Club. In the
 early days of the competition a few hundred people only attended the
 final tie, which for many years was played at Kennington Oval in London.
 In the course of time, however, the interest of the public so largely
 increased that it became necessary to seek a ground of greater capacity;
 accordingly in 1893 the final was played at Fallowfield, Manchester,
 where it was watched by forty thousand people; in 1894 it was played at
-Everton and in 1895 at the Crystal Palace. The attendance during the
+Everton and in 1895 at the [[Crystal Palace]]. The attendance during the
 following ten years averaged 80,000 people. The record attendance was in
 the season of 1900-1901, when the south were contesting with the north,
 the spectators then being upwards of 113,000. In the season of 1908-1909
@@ -665,7 +665,7 @@ district and colonial associations, and indirectly in membership a large
 number of minor associations which are affiliated through the county and
 district associations. The Army Association includes 316 army clubs in
 Great Britain and Ireland, together with clubs formed by the various
-battalions in India, South Africa, Gibraltar and other army stations;
+[[Battalion|battalions]] in India, South Africa, [[Gibraltar]] and other army stations;
 and the Royal Navy Football Association comprises all ships afloat
 having Association football clubs.
 
@@ -715,7 +715,7 @@ to put the attack and defence on a more equal footing, and as a natural
 consequence to make the game more open and thereby generally more
 interesting and attractive. Association football is indeed, from the
 standpoint of the spectator, a much brighter game than it was in its
-infancy, the result of the new methods bringing every one of the eleven
+[[Infancy|infancy]], the result of the new methods bringing every one of the eleven
 players into full relief throughout the game. The players who, as a
 rule, make or mar the success of a side in modern football are the
 centre forward and the centre half-back. They are the pivot on which the
@@ -732,11 +732,11 @@ general well-being of the side.     (C. W. A.; F. J. W.)
   following works are among the best: _Football_ in the "Badminton
   Library" (London, 1904), where the different games played at Eton,
   Harrow, Rugby, Winchester and other public schools are thoroughly
-  described; Rev. F. Marshall, _Football; the Rugby Game_ (London,
+  described; Rev. F. [[Marshall]], _Football; the Rugby Game_ (London,
   Cassells); J.E. Vincent, _Football; its History for Five Centuries_
   (London, 1885); C.J.B. Marriott and C.W. Alcock, _Football_ ("Oval
   Series"); "Football," in the _Encyclopaedia of Sport_; _The Rugby
-  Football Union Handbook_, Richardson, Greenwich, Official Annual; and
+  Football Union Handbook_, Richardson, [[Greenwich]], Official Annual; and
   _The Football Annual_, Merritt and Hatcher (Association Game), London.
 
 _United States._--In America the game of football has been elaborated
@@ -751,7 +751,7 @@ fists, was allowed. There were two backs, sixteen rushers or forwards,
 and two rovers or "peanutters," who lurked near the opponents' goal.
 During this period the first international football game was played at
 Yale between the college team and one made up of old Etonians, the rules
-being a compromise between the American and the English.
+being a [[Compromise|compromise]] between the American and the English.
 
 English Rugby, introduced from Canada, was first played at Harvard
 University, and in 1875 a match under a compromise set of rules, taken
@@ -768,7 +768,7 @@ university authorities compelled Harvard to abstain from the annual game
 with Yale. Changes in the rules were introduced, and the game has been
 characterized by less roughness and by increased skill. It has become
 the most popular autumn game in the United States, the principal
-university matches often attracting crowds of 35,000 and even 40,000
+university matches often attracting [[Crowd|crowds]] of 35,000 and even 40,000
 spectators. The association subsequently disbanded, but a Rules
 Committee, invited by the University Athletic Club of New York, made the
 necessary changes in the rules from time to time, and these have been
@@ -805,7 +805,7 @@ The ball is in shape and material of the English Rugby type.
   of scrimmage at least 5 yds. from the point at which the ball is put
   in play. The field is marked off at intervals of 5 yds. with white
   lines parallel to the goal line, for convenience in penalizing fouls
-  and for measuring the 10 yds. to be gained in three downs, and also at
+  and for measuring the 10 yds. to be gained in three [[Downs|downs]], and also at
   intervals of 5 yds. with white lines parallel to the side lines, in
   order to assist the referee in determining whether the quarter-back
   runs according to rule, or whether, in case of a forward pass, such
@@ -840,14 +840,14 @@ constant man-to-man contest, and also in that a system of "interference"
 is allowed. Furthermore, a player in the American game is put "on side"
 when a kicked ball strikes the ground; and forward passing, i.e.
 throwing the ball toward the opponents' goal, is permissible under
-certain restrictions. The costume usually consists of a close-fitting
-jersey with shoulders and elbows padded and reinforced with leather;
-short trousers with padded thighs and knees, heavy stockings and shoes
-with leather cleats. In the early period of the game caps were worn,
+certain restrictions. The [[Costume|costume]] usually consists of a close-fitting
+[[Jersey|jersey]] with shoulders and [[Elbow|elbows]] padded and reinforced with leather;
+short trousers with padded thighs and [[Knee|knees]], heavy stockings and shoes
+with leather [[Cleat|cleats]]. In the early period of the game caps were worn,
 but, as they were impossible to keep on, they were discarded in favour
 of the wearing of long hair, and the "chrysanthemum head" became the
 distinguishing mark of the football player. This, however, proved an
-inadequate protection, and some players now wear a "head harness" of
+inadequate protection, and some players now wear a "head [[Harness|harness]]" of
 soft padded leather. Substitutes are allowed in the places of injured
 players.
 
@@ -860,7 +860,7 @@ front of it. In the American game there is no scrummage in the English
 sense, nor is the ball thrown in at right angles after going into touch.
 The element of chance in both these methods of play was done away with
 by the enunciation of the principle of the "possession of the ball." In
-America, when the ball has gone out of bounds or a runner has been
+America, when the ball has gone out of [[Bounds|bounds]] or a runner has been
 tackled and held and the ball downed, the ball is also put into play by
 an evolution called a scrimmage, usually called "line-up," which beyond
 the name bears no resemblance to the English scrummage. The ball, at
@@ -890,7 +890,7 @@ with the ball. Interference is one of the most important features of
 American football. As soon as the ball is passed to one of the
 half-backs for a run, for example, round one end of the line, his
 interference must form immediately. This means that one or more of his
-fellows must accompany and shield him as he runs, blocking off any
+[[Fellows|fellows]] must accompany and shield him as he runs, blocking off any
 opponent who tries to tackle him. The first duty of the defence against
 a hostile run is therefore to break up the interference, i.e. put these
 defenders out of the play, so that the runner may be reached and
@@ -940,7 +940,7 @@ ability to handle the ball cleanly in snapping back. He must also, in
 case the full-back is to make the next play, be able to throw the ball
 from between his legs accurately into the full-back's hands, thus saving
 the time that would be wasted if the quarter-back were used as an
-intermediary. The two "guards," who must also be heavy men, form with
+intermediary. The two "[[Guards|guards]]," who must also be heavy men, form with
 the centre the bulk of the line, protecting the backs in offence, and in
 defence blocking the enemy. The two "tackles" must be heavy yet active
 and aggressive men, as they must not only help the centre and guards in
@@ -987,7 +987,7 @@ important law providing for a limitation to the number of men who could
 be dropped back of the line, and practically keeping seven men drawn up
 in the line.
 
-_Penalties_ are of three kinds: (1) forfeiture of the game, for refusing
+_Penalties_ are of three kinds: (1) [[Forfeiture|forfeiture]] of the game, for refusing
 to play when directed to do so by the referee, and for repeated fouls
 made with the intention of delaying the game; (2) disqualification of
 players for unnecessary roughness or ungentlemanly conduct; and (3) for
@@ -996,23 +996,23 @@ the previous gains of the side making the fouls.
 
 The game resolves itself into a series of scrimmages interspersed with
 runs and kicks. The systematized development of plays places at the
-disposal of the quarter an infinite variety of attack, which he seeks to
+disposal of the quarter an [[Infinite|infinite]] variety of attack, which he seeks to
 direct at the opposing line with bewildering rapidity and dash. During
 the preliminary games of the season "straight football" is generally
 played; that is, intricate attacks are avoided and kicks and simple
 plunges into the line are mainly relied upon. "Trick plays," which
-comprise all manoeuvres of an intricate nature, are reserved for later
+comprise all [[Manoeuvres|manoeuvres]] of an intricate nature, are reserved for later
 and more important matches. Among these is the "fake (false) kick," in
 which the full-back takes position as if to receive the ball for a kick,
 but the ball is passed to a different player for a run. Another play of
 this kind is the "wing-shift," in which some or all of the players on
 one side of centre suddenly change to the other side, thus forming a
-mass and throwing the opponents' line out of balance. To this category
+mass and throwing the opponents' line out of balance. To this [[Category|category]]
 belong also "double passes," "false passes," "delayed passes," "delayed
 runs" and "criss-crosses."
 
 Training for football in America resembles that for other sports in
-regard to food and hygiene. The coaching systems at the universities
+regard to food and [[Hygiene|hygiene]]. The coaching systems at the universities
 differ, but there is generally a head coach, who is assisted by
 graduates, each of whom pays especial attention to one set of men, one
 to the men in the centre of the line, one to the backs, another to the
@@ -1034,9 +1034,9 @@ kinds is "play low."
   See Walter Camp, _How to play Football_, and the _Official Football
   Guide_ (annual), both in Spalding's Athletic Library; his _Book of
   College Sports_ (New York, 1893), his _American Football_ (New York,
-  1894), and his _Football_ (Boston, 1896)--the last in co-operation
-  with L.F. Deland; R.H. Barbour, _The Book of School and College
-  Sports_ (New York, 1904); W.H. Lewis, _Primer of College Football_
+  1894), and his _Football_ ([[Boston]], 1896)--the last in [[Co-Operation|co-operation]]
+  with L.F. Deland; R.H. [[Barbour]], _The Book of School and College
+  Sports_ (New York, 1904); W.H. [[Lewis]], _Primer of College Football_
   (Boston, 1896).     (E. B.; W. Ca.)
 
 ## See also

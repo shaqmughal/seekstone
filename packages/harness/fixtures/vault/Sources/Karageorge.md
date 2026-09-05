@@ -20,12 +20,12 @@ poor Servian peasant, Petroniye Petrovich. When quite a young man, he
 entered the service of a renowned Turkish brigand, Fazli-Bey by name,
 and accompanied his master on his adventurous expeditions. When twenty
 he married and started a small farm. But having killed a Turk, he left
-Servia for Syrmia, in Croatia-Slavonia, where the monks of the monastery
-Krushedol engaged him as one of their forest guards. He remained in the
+Servia for Syrmia, in [[Croatia-Slavonia]], where the monks of the monastery
+Krushedol engaged him as one of their forest [[Guards|guards]]. He remained in the
 service of the monks nearly two years, then enlisted into an Austrian
 regiment, and as sergeant took part in the Austrian war against Turkey
 (1788-91). He deserted his regiment, returned to Servia, and settled in
-the village of Topola, living sometimes as a peaceful farmer and
+the village of Topola, living sometimes as a peaceful [[Farmer|farmer]] and
 sometimes again as the leader of a small band of "hayduks"--men who
 attacked, robbed and in most cases killed the travelling Turks in
 revenge for the oppression of their country.
@@ -48,7 +48,7 @@ Karageorge attacked the Turks in Belgrade and Shabats, captured the
 towns first and then also the citadels, and allowed the Turkish
 population of Belgrade to be massacred. At the same time the Russian
 headquarters in Bucharest informed Karageorge that Russia was at war
-with Turkey and that the Tsar counted on the co-operation of the
+with Turkey and that the Tsar counted on the [[Co-Operation|co-operation]] of the
 Servians. Karageorge and his Servians then definitely rejected all the
 concessions which the Porte had granted them, and joined Russia, hoping
 thereby to secure the complete independence of Servia. The co-operation
@@ -118,7 +118,7 @@ displaying marvellous energy and valour, and giving proofs of a real
 military genius. The Servians consider him one of their greatest men. In
 grateful remembrance of his services to the national cause they elected
 his younger son, Alexander, in 1842, to be the reigning prince of
-Servia, and again in 1903 they chose his grandson, Peter Karageorgevich
+Servia, and again in 1903 they [[Chose|chose]] his grandson, Peter Karageorgevich
 (son of Alexander) to be the king of Servia.
 
   See SERVIA; also Ranke, _Die serbische Revolution_; Stoyan Novakovich,

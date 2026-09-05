@@ -6,9 +6,9 @@ naturalists regarded only as a subgenus or section of the typical genus
 _Felis_ (see CARNIVORA). As an English word (lynx) the name is used of
 any animal of this group. It is not certain to which of these, if to any
 of them, the Greek name [Greek: lynx] was especially applied, though it
-was more probably the caracal (q.v.) than any of the northern species.
+was more probably the [[Caracal|caracal]] (q.v.) than any of the northern species.
 The so-called lynxes of Bacchus were generally represented as resembling
-leopards rather than any of the species now known by the name. Various
+[[Leopard|leopards]] rather than any of the species now known by the name. Various
 fabulous properties were attributed to the animal, whatever it was, by
 the ancients, that of extraordinary powers of vision, including ability
 to see through opaque substances, being one; whence the epithet
@@ -16,8 +16,8 @@ to see through opaque substances, being one; whence the epithet
 
 Lynxes are found in the northern and temperate regions of both the Old
 and New World; they are smaller than leopards, and larger than true wild
-cats, with long limbs, short stumpy tail, ears tufted at the tip, and
-pupil of the eye linear when contracted. Their fur is generally long and
+cats, with long limbs, short stumpy tail, [[Ear|ears]] tufted at the tip, and
+pupil of the eye linear when contracted. Their [[Fur|fur]] is generally long and
 soft, and always longish upon the cheeks. Their colour is light brown or
 grey, and generally spotted with a darker shade. The naked pads of the
 feet are more or less covered by the hair that grows between them. The
@@ -31,7 +31,7 @@ value in the fur trade. The northern lynx (_L. lynx_ or _L. borealis_)
 of Scandinavia, Russia, northern Asia, and till lately the forest
 regions of central Europe, has not inhabited Britain during the historic
 period, but its remains have been found in cave deposits of Pleistocene
-age. Dr W. T. Blanford says that the characters on which E. Blyth relied
+age. Dr W. T. Blanford says that the characters on which E. [[Blyth]] relied
 in separating the Tibetan lynx (_L. isabellinus_) from the European
 species are probably due to the nature of its habitat among rocks, and
 that he himself could find no constant character justifying separation.

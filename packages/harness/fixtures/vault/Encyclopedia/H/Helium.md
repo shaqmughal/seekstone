@@ -8,20 +8,20 @@ id: 42-620
 # Helium
 
 HELIUM (from Gr. [Greek: helios], the sun), a gaseous chemical element,
-the modern discovery of which followed closely on that of argon (q.v.).
+the modern discovery of which followed closely on that of [[Argon|argon]] (q.v.).
 The Investigations of Lord Rayleigh and Sir William Ramsay had shown
 that indifference to chemical reagents did not sufficiently characterize
 an unknown gas as nitrogen, and it became necessary to reinvestigate
 other cases of the occurrence of "nitrogen" in nature. H. Miers drew
-Ramsay's attention to the work of W. F. Hillebrand, who had noticed, in
+Ramsay's attention to the work of W. F. [[Hillebrand]], who had noticed, in
 examining the mineral uraninite, that an inert gas was evolved when the
 mineral was decomposed with acid. Ramsay, repeating these experiments,
 found that the inert gas emitted refused to oxidize when sparked with
 oxygen, and on examining it spectroscopically he saw that the spectrum
-was not that of argon, but was characterized by a bright yellow line
+was not that of argon, but was characterized by a [[Bright|bright]] yellow line
 near to, but not identical with, the D line of sodium. This was
 afterwards identified with the D3 line of the solar chromosphere,
-observed in 1868 by Sir J. Norman Lockyer, and ascribed by him to a
+observed in 1868 by Sir J. Norman [[Lockyer]], and ascribed by him to a
 hypothetical element _helium_. This name was adopted for the new gas.
 
 Helium is relatively abundant in many minerals, all of which are
@@ -35,7 +35,7 @@ monazite. The gas also occurs in minute quantities in the common
 minerals of the earth's crust. In this case too it is associated with
 radioactive matter, which is almost ubiquitous. In two cases, however,
 it has been found in the absence of appreciable quantities of uranium
-and thorium compounds, namely in beryl, and in sylvine (potassium
+and thorium compounds, namely in [[Beryl|beryl]], and in sylvine (potassium
 chloride). Helium is contained almost universally in the gases which
 bubble up with the water of thermal springs. The proportion varies
 greatly. In the hot springs of Bath it amounts to about one-thousandth
@@ -54,17 +54,17 @@ spectrum.
 Much the best practical source of helium is thorianite, a mineral
 imported from Ceylon for the manufacture of thoria. It dissolves readily
 in strong nitric acid, and the helium contained is thus liberated. The
-gas contains a certain amount of hydrogen and oxides of carbon, also
+gas contains a certain amount of hydrogen and oxides of [[Carbon|carbon]], also
 traces of nitrogen. In order to get rid of hydrogen, some oxygen is
 added to the helium, and the mixture exploded by an electric spark. All
 remaining impurities, including the excess of oxygen, can then be taken
 out of the gas by Sir James Dewar's ingenious method of absorption with
-charcoal cooled in liquid air. Helium alone refuses to be absorbed, and
+[[Charcoal|charcoal]] cooled in liquid air. Helium alone refuses to be absorbed, and
 it can be pumped off from the charcoal in a state of absolute purity. In
 the absence of liquid air the helium must be purified by the methods
 employed for argon (q.v.). If thorianite cannot be obtained, monazite,
 which is more abundant, may be utilized. A part of the helium contained
-in minerals can be extracted by heat or by grinding (J. A. Gray, _Proc.
+in minerals can be extracted by heat or by grinding (J. A. [[Gray]], _Proc.
 Roy. Soc._, 1909, 82A, p. 301).
 
 _Properties._--All attempts to make helium enter into stable chemical
@@ -90,7 +90,7 @@ hydrogen. The refractivity of helium is 0.1238 (air = 1). The solubility
 in water is the lowest known, being, at 18.2 deg., only .0073 vols. per
 unit volume of water. The viscosity is .96 (air = 1).
 
-The spectrum of helium as observed in a discharge tube is distinguished
+The spectrum of helium as observed in a [[Discharge|discharge]] tube is distinguished
 by a moderate number of brilliant lines, distributed over the whole
 visual spectrum. The following are the approximate wave-lengths of the
 most brilliant lines:

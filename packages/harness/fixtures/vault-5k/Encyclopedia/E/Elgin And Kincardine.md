@@ -6,14 +6,14 @@ of July 1766, and in 1771 succeeded his brother in the Scottish peerage
 as the 7th earl of Elgin (cr. 1633), and 11th of Kincardine (cr. 1647).
 He was educated at Harrow and Westminster, and, after studying for some
 time at the university of St Andrews, proceeded to the continent, where
-he studied international law at Paris, and military science in Germany.
+he studied [[International|international]] law at Paris, and military science in Germany.
 When his education was completed he entered the army, in which he rose
 to the rank of general. His chief attention was, however, devoted to
-diplomacy. In 1792 he was appointed envoy at Brussels, and in 1795 envoy
+[[Diplomacy|diplomacy]]. In 1792 he was appointed envoy at Brussels, and in 1795 envoy
 extraordinary at Berlin; and from 1799 to 1802 he was envoy
 extraordinary at the Porte. It was during his stay at Constantinople
 that he formed the purpose of removing from Athens the celebrated
-sculptures now known as the Elgin Marbles. His doing so was censured by
+sculptures now known as the Elgin [[Marbles]]. His doing so was censured by
 some as vandalism, and doubts were also expressed as to the artistic
 value of many of the marbles; but he vindicated himself in a pamphlet
 published in 1810, and entitled _Memorandum on the Subject of the Earl
@@ -26,16 +26,16 @@ Scottish representative peer for fifty years. He died at Paris on the
 JAMES BRUCE, 8th earl of Elgin (1811-1863), British statesman, eldest
 son of the 7th earl by his second marriage, was born in 1811, and
 succeeded to the peerage as 8th earl of Elgin and 12th of Kincardine in
-1841. He was educated at Eton and at Christ Church, Oxford, where he had
+1841. He was educated at [[Eton]] and at Christ Church, Oxford, where he had
 as companions and rivals his younger predecessors in the office of
-governor-general of India, Dalhousie and Canning. He began his official
+governor-general of India, [[Dalhousie]] and Canning. He began his official
 career in 1842 at the age of thirty, as governor of Jamaica. During an
 administration of four years he succeeded in winning the respect of all
 classes. He improved the condition of the negroes and conciliated the
 planters by working through them. In 1846 Lord Grey appointed him
 governor-general of Canada. Son-in-law of the popular earl of Durham, he
 was well received by the colonists, and he set himself deliberately to
-carry out the Durham policy. In this his frank and genial manners aided
+carry out the Durham policy. In this his [[Frank|frank]] and genial manners aided
 him powerfully. His assent to the local measure for indemnifying those
 who had suffered in the troubles of 1837 led the mob of Montreal to pelt
 his carriage for the rewarding of rebels for rebellion, as Mr Gladstone
@@ -78,7 +78,7 @@ brother and the allied forces attempted to proceed to Peking with the
 ratified treaty, they were fired on from the Taku forts at the mouth of
 the Peiho. The Chinese had resolved to try the fortune of war once more,
 and Lord Russell again sent out Lord Elgin as ambassador extraordinary
-to demand an apology for the attack, the execution of the treaty, and an
+to demand an [[Apology|apology]] for the attack, the execution of the treaty, and an
 indemnity for the military and naval expenditure. Sir Robert Napier
 (afterwards Lord Napier of Magdala) and Sir Hope Grant, with the French,
 so effectually routed the Tatar troops and sacked the Summer Palace
@@ -94,14 +94,14 @@ been by the mutiny. But, as the first viceroy directly appointed by the
 Crown, and as subject to the secretary of state for India, Lord Elgin at
 once gave up all Lord Canning had fought for, in the co-ordinate
 independence, or rather the stimulating responsibility, of the
-governor-general, which had prevailed from the days of Clive and Warren
-Hastings. On the other hand, he loyally carried out the wise and
+governor-general, which had prevailed from the days of [[Clive]] and Warren
+[[Hastings]]. On the other hand, he loyally carried out the wise and
 equitable policy of his predecessor towards our feudatories with a
 firmness and a dignity that in the case of Holkar and Udaipur had a good
 effect. He did his best to check the aggression of the Dutch in Sumatra,
 which was contrary to treaty, and he supported Dost Mahommed in Kabul
 until that aged warrior entered the then neutral and disputed territory
-of Herat. Determined to maintain inviolate the integrity of our own
+of [[Herat]]. Determined to maintain inviolate the integrity of our own
 north-west frontier, Lord Elgin assembled a camp of exercise at Lahore,
 and marched a force to the Peshawar border to punish those branches of
 the Yusufzai tribe who had violated the engagements of 1858.

@@ -7,7 +7,7 @@ topic: geography
 # Calabozo
 
 CALABOZO, or CALABOSO, an inland town of Venezuela, once capital of the
-province of Caracas in the colonial period, and now capital of the state of
+province of [[Caracas]] in the colonial period, and now capital of the state of
 Guarico. Pop. (1891) 5618. Calabozo is situated in the midst of an
 extensive _llano_ on the left bank of the Guarico river, 325 ft. above
 sea-level and 123 m. S.S.W. of Caracas. The plain lies slightly above the

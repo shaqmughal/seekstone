@@ -8,7 +8,7 @@ id: 42-2592
 
 # Echelon
 
-ECHELON (Fr. from _echelle_, ladder), in military tactics, a formation
+ECHELON (Fr. from _echelle_, [[Ladder|ladder]]), in military tactics, a formation
 of troops in which each body of troops is retired on, but not behind,
 the flank of the next in front, the position of the whole thus
 resembling the steps of a staircase. To form echelon from line, the

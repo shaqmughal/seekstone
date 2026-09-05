@@ -183,7 +183,7 @@ the name of "first deacon," _protodiaconus_.
 
   There is one cardinal chosen by the pope from among the Sacred College
   to whom is entrusted the administration of the common property; this
-  is the cardinal camerlengo or chamberlain (_camerarius_). His office
+  is the cardinal camerlengo or chamberlain (_[[Camerarius|camerarius]]_). His office
   is an important one, for during the vacancy of the Holy See it is he
   who exercises all external authority, especially that connected with
   the Conclave.
@@ -219,7 +219,7 @@ give up the direction of their monasteries. In the following century
 occur a few cases of bishops being created cardinals without having to
 leave their see, and of cardinals upon whom were conferred foreign
 bishoprics (cf. Thomassin, loc. cit. cap. 114, n. 9). Of the cardinals
-created by the popes of Avignon the majority were French, and in 1331
+created by the popes of [[Avignon]] the majority were French, and in 1331
 John XXII. remarks that 17 cardinals were French out of the 20 who then
 existed. The councils of Constance and Basel forbade that more than a
 third of the cardinals should belong to the same country. After the
@@ -228,7 +228,7 @@ customs were soon resumed; the cardinals were for the most part
 Italians, the entire number of cardinals' hats conferred on the other
 Catholic nations only amounting to a minority. The non-Italian
 cardinals, with rare exceptions, are not resident in Rome; together with
-the rank of cardinal they receive a dispensation from residing _in
+the rank of cardinal they receive a [[Dispensation|dispensation]] from residing _in
 curia_; they are none the less, as cardinals, priests or deacons of the
 Roman Church.
 
@@ -278,7 +278,7 @@ concordatory agreement, strictly speaking, on the part of the popes.
 The _creation_ of cardinals (to use the official term) is in fact
 nowadays the function of the pope alone. It is accomplished by the
 publication of the persons chosen by the pope in secret consistory
-(q.v.). No other formality is essential; and the provision of Eugenius
+(q.v.). No other formality is essential; and the provision of [[Eugenius]]
 IV., which required the reception of the insignia of the cardinalate for
 the promotion to be valid, was abrogated before long, and definitely
 annulled by the declaration of Pius V. of the 26th of January 1571.
@@ -292,7 +292,7 @@ injunctions of the councils of Constance and Basel as to the written
 vote of the cardinals became before very long a dead letter, but there
 still remains a relic of them. In the consistory, when the pope has
 nominated those whom he desires to raise to the purple, he puts to the
-cardinals present the question: "Quid vobis videtur?" The cardinals bend
+cardinals present the question: "Quid vobis videtur?" The cardinals [[Bend|bend]]
 the head as a sign of their consent, and the pope then continues:
 "Itaque, auctoritate omnipotentis Dei, sanctorum Apostolorum Petri et
 Pauli, et Nostra, creamus et publicamus sanctae romanae Ecclesiae
@@ -338,7 +338,7 @@ a public consistory.
 Sometimes, after nominating the cardinals, the pope adds that he also
 appoints a certain number of others, whose names he does not divulge,
 but reserves the right of publishing at a later date. These cardinals,
-whose names he conceals "in his breast," are for that reason called
+whose names he conceals "in his [[Breast|breast]]," are for that reason called
 cardinals _in pectore_ (Ital. _in petto_). This practice seems to go
 back to Martin V., who may have had recourse to this expedient in order
 to avoid the necessity of soliciting the votes of the cardinals; but for
@@ -366,7 +366,7 @@ assigned to them; but was attributed to the cardinal bishops before it
 was to the rest. Their common prerogative was definitively established
 when they became the sole electors of the pope, at a period when the
 papacy, under pontiffs like Innocent III., shone with its most brilliant
-lustre. For example, at the council of Lyons in 1245 all the cardinals
+lustre. For example, at the council of [[Lyons]] in 1245 all the cardinals
 took precedence of the archbishops and bishops. It was in 1245, or
 perhaps the year before, that Innocent IV. granted the cardinals the
 privilege of wearing the red hat; as to the scarlet robe which still
@@ -400,8 +400,8 @@ of cardinals (see CURIA ROMANA).
   BIBLIOGRAPHY.--All works on canon law contain a treatise on the
   cardinals. See particularly, for the history, Thomassin, _Vetus et
   nova discipl._, tom. I., lib. ii., cap. 113-115. For history and law,
-  Phillips, _Kirchenrecht_, vol. vi.; Hinschius, _System des kathol.
-  Kirchenrechts_, vol. i. p. 312. For the canonical aspect, Ferraris,
+  Phillips, _Kirchenrecht_, vol. vi.; [[Hinschius]], _System des kathol.
+  Kirchenrechts_, vol. i. p. 312. For the canonical aspect, [[Ferrari|Ferraris]],
   _Prompta bibliotheca_, s.v. "Cardinales"; Bouix, _De curia romana_
   (Paris, 1859), pp. 5-141; Card. de Luca, _Relatio curiae romanae_,
   disc. 5. For details of the ceremonies and costume, Grimaldi, _Les

@@ -10,7 +10,7 @@ id: 42-5984
 
 CALORESCENCE (from the Lat. _calor_, heat), a term invented by John
 Tyndall to describe an optical phenomenon, the essential feature of
-which is the conversion of rays belonging to the dark infra-red portion
+which is the [[Conversion|conversion]] of rays belonging to the dark infra-red portion
 of the spectrum into the more refrangible visible rays, i.e. heat rays
 into rays of light. Such a transformation had not previously been
 observed, although the converse phenomenon, i.e. the conversion of short
@@ -20,8 +20,8 @@ however, were carried out on quite different lines, and have nothing to
 do with fluorescence (q.v.). His method was to sift out the long dark
 waves which are associated with the short visible waves constituting the
 light of the sun or of the electric arc and to concentrate the former to
-a focus. If the eye was placed at the focus, no sensation of light was
-observed, although small pieces of charcoal or blackened platinum foil
+a [[Focus|focus]]. If the eye was placed at the focus, no sensation of light was
+observed, although small pieces of [[Charcoal|charcoal]] or blackened platinum foil
 were immediately raised to incandescence, thus giving rise to visible
 rays.
 
@@ -29,18 +29,18 @@ The experiment is more easily carried out with the electric light than
 with sunlight, as the former contains a smaller proportion of visible
 rays. According to Tyndall, 90% of the radiation from the electric arc
 is non-luminous. The arc being struck in the usual way between two
-carbons, a concave mirror, placed close behind it, caused a large part
-of the radiation to be directed through an aperture in the camera and
+[[Carbon|carbons]], a concave mirror, placed close behind it, caused a large part
+of the radiation to be directed through an [[Aperture|aperture]] in the [[Camera|camera]] and
 concentrated to a focus outside. In front of the aperture were placed a
 plate of transparent rock-salt, and a flat cell of thin glass containing
-a solution of iodine in carbon bisulphide. Both rock-salt and carbon
+a solution of iodine in [[Carbon Bisulphide|carbon bisulphide]]. Both rock-salt and carbon
 bisulphide are extremely transparent to the luminous and also to the
 infra-red rays The iodine in the solution, however, has the property of
 absorbing the luminous rays, while transmitting the infra-red rays
 copiously, so that in sufficient thicknesses the solution appears nearly
 black. Owing to the inflammable nature of carbon bisulphide, the plate
 of rock-salt was found to be hardly a sufficient protection, and Tyndall
-surrounded the iodine cell with an annular vessel through which cold
+surrounded the iodine cell with an [[Annular|annular]] vessel through which cold
 water was made to flow. Any small body which was a good absorber of dark
 rays was rapidly heated to redness when placed at the focus. Platinized
 platinum (platinum foil upon which a thin film of platinum had been
@@ -56,7 +56,7 @@ circulation can then be dispensed with.
 
 Since the rays used by Tyndall in these experiments are similar to those
 emitted by a heated body which is not hot enough to be luminous, it
-might be thought that the radiation, say from a hot kettle, could be
+might be thought that the radiation, say from a hot [[Kettle|kettle]], could be
 concentrated to a focus and employed to render a small body luminous. It
 would, however, be impossible by such means to raise the receiving body
 to a higher temperature than the source of radiation. For it is easy to

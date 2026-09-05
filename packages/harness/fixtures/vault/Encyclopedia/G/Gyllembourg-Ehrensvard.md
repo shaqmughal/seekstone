@@ -1,7 +1,7 @@
 # Gyllembourg-Ehrensvard
 
 GYLLEMBOURG-EHRENSVARD, THOMASINE CHRISTINE, Baroness (1773-1856),
-Danish author, was born on the 9th of November 1773, at Copenhagen. Her
+Danish author, was born on the 9th of November 1773, at [[Copenhagen]]. Her
 maiden name was Buntzen. Her great beauty early attracted notice, and
 before she was seventeen she married the famous writer Peter Andreas
 Heiberg. To him she bore in the following year a son, afterwards
@@ -28,7 +28,7 @@ Copenhagen. Not until then did the secret of her authorship transpire;
 for throughout her life she had preserved the closest reticence on the
 subject even with her nearest friends. The style of Madame
 Ehrensvard-Gyllembourg is clear and sparkling; for English readers no
-closer analogy can be found than between her and Mrs Gaskell, and
+closer analogy can be found than between her and Mrs [[Gaskell]], and
 _Cranford_ might well have been written by the witty Danish authoress.
 
   See J. L. Heiberg, _Peter Andreas Heiberg og Thomasine Gyllembourg_

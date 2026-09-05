@@ -112,7 +112,7 @@ Society are in the same building. The Charleston _News and Courier_,
 published first as the _Courier_ in 1803 and combined with the _Daily
 News_ (1865) in 1873, is one of the most influential newspapers in the
 South. The charitable institutions of the city include the Roper
-hospital, the Charleston Orphan Asylum (founded in 1792), the William
+hospital, the Charleston Orphan [[Asylum]] (founded in 1792), the William
 Euston home for the aged, and a home for the widows of Confederate
 soldiers.
 

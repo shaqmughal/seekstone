@@ -1,12 +1,12 @@
 # Jury
 
-JURY, in English law, a body of laymen summoned and sworn (_jurati_) to
+JURY, in [[English Law|English law]], a body of [[Laymen|laymen]] summoned and sworn (_jurati_) to
 ascertain, under the guidance of a judge, the truth as to questions of
 fact raised in legal proceedings whether civil or criminal. The
 development of the system of trial by jury has been regarded as one of
-the greatest achievements of English jurisprudence; it has even been
+the greatest achievements of English [[Jurisprudence|jurisprudence]]; it has even been
 said that the ultimate aim of the English constitution is "to get twelve
-good men into a box."[1] In modern times the English system of trial by
+good men into a [[Box|box]]."[1] In modern times the English system of trial by
 jury has been adopted in many countries in which jury trial was not
 native or had been strangled or imperfectly developed under local
 conditions.
@@ -14,7 +14,7 @@ conditions.
 The origin of the system in England has been much investigated by
 lawyers and historians. The result of these investigations is a fairly
 general agreement that the germ of jury trial is to be found in the
-Frankish inquest (_recognitio_ or _inquisitio_) transplanted into
+Frankish [[Inquest|inquest]] (_recognitio_ or _inquisitio_) transplanted into
 England by the Norman kings. The essence of this inquest was the
 summoning of a body of neighbours by a public officer to give answer
 upon oath (_recognoscere veritatem_) on some question of fact or law
@@ -47,15 +47,15 @@ Normans themselves derived it. One scholar maintains that it was brought
 by the Norsemen from Scandinavia; another that it was derived from the
 processes of the canon law; another that it was developed on Gallic soil
 from Roman principles; another that it came from Asia through the
-crusades," or was borrowed by the Angles and Saxons from their Slavonic
+[[Crusades|crusades]]," or was borrowed by the Angles and Saxons from their Slavonic
 neighbours in northern Europe. The true answer is that forms of trial
 resembling the jury system in various particulars are to be found in the
 primitive institutions of all nations. That which comes nearest in time
 and character to trial by jury is the system of recognition by sworn
 inquest, introduced into England by the Normans. "That inquest," says
-Stubbs, "is directly derived from the Frank capitularies, into which it
+Stubbs, "is directly derived from the [[Frank]] capitularies, into which it
 may have been adopted from the fiscal regulations of the Theodosian
-code, and thus own some distant relationship with the Roman
+[[Code|code]], and thus own some distant relationship with the Roman
 jurisprudence." However that may be, the system of "recognition"
 consisted in questions of fact, relating to fiscal or judicial business,
 being submitted by the officers of the crown to sworn witnesses in the
@@ -72,7 +72,7 @@ compurgators, in the _frith-borh_ (frank-pledge), in every detail of the
 action of the popular courts before the conquest. Admitting with Stubbs
 that the Norman recognition was the instrument which the lawyers in
 England ultimately shaped into trial by jury, Freeman maintains none the
-less that the latter is distinctively English. Forsyth comes to
+less that the latter is distinctively English. [[Forsyth]] comes to
 substantially the same conclusion. Noting the jury germs of the
 Anglo-Saxon period, he shows how out of those elements, which continued
 in full force under the Anglo-Normans, was produced at last the
@@ -90,13 +90,13 @@ ordeal were the accepted modes of trying issues of fact.
 The inquest by recognition, formerly an inquest of office, i.e. to
 ascertain facts in the interests of the crown or the exchequer, was
 gradually allowed between subjects as a mode of settling disputes of
-fact. This extension began with the assize of novel disseisin, whereby
+fact. This extension began with the [[Assize|assize]] of novel disseisin, whereby
 the king protected by royal writ and inquest of neighbours every seisin
-of a freehold. This was followed by the grand assize, applicable to
-questions affecting freehold or status. A defendant in such an action
+of a [[Freehold|freehold]]. This was followed by the grand assize, applicable to
+questions affecting freehold or status. A [[Defendant|defendant]] in such an action
 was enabled by an enactment of Henry II. to decline trial by combat and
 choose trial by assize, which was conducted as follows. The sheriff
-summoned four knights of the neighbourhood, who being sworn chose the
+summoned four [[Knight|knights]] of the neighbourhood, who being sworn [[Chose|chose]] the
 twelve lawful knights most cognisant of the facts, to determine on their
 oaths which had the better right to the land. If they all knew the facts
 and were agreed as to their verdict, well and good; if some or all were
@@ -110,7 +110,7 @@ they proceed upon their own previously formed view of the facts in
 dispute that they seem to have considered themselves at liberty to pay
 no attention to evidence offered in court, however clearly it might
 disprove the case which they were prepared to support." The use of
-recognition is prescribed by the constitutions of Clarendon (1166) for
+recognition is prescribed by the constitutions of [[Clarendon]] (1166) for
 cases of dispute as to lay or clerical tenure. See Forsyth, p. 131;
 Stubbs, i. 617.
 
@@ -128,9 +128,9 @@ on the country, _posuerunt se super patriam_ (Pollock and Maitland, i.
 _The Grand Jury._--In Anglo-Saxon times there was an institution
 analogous to the grand jury in criminal cases, viz. the twelve senior
 thegns, who, according to an ordinance of Æthelred II., were sworn in
-the county court that they would accuse no innocent man and acquit no
+the county court that they would accuse no [[Innocent|innocent]] man and acquit no
 guilty one. The twelve thegns were a jury of presentment or accusation,
-like the grand jury of later times, and the absolute guilt or innocence
+like the grand jury of later times, and the absolute [[Guilt|guilt]] or innocence
 of those accused by them had to be determined by subsequent
 proceedings--by compurgation or ordeal. Whether this is the actual
 origin of the grand jury or not, the assizes of Clarendon (1166) and
@@ -138,15 +138,15 @@ Northampton (1176) establish the criminal jury on a definite basis.
 
 In the laws of Edward the Confessor and the earlier Anglo-Saxon kings
 are found many traces of a public duty to bring offenders to justice,
-by hue and cry, or by action of the _frith-borh_, township, tithing or
+by [[Hue|hue]] and cry, or by action of the _frith-borh_, township, tithing or
 hundred. By the assize of Clarendon it is directed that inquiry be made
 in each county and in each hundred by twelve lawful (_legaliores_) men
 of the hundred, and by four lawful men from each of the four vills
 nearest to the scene of the alleged crime, on oath to tell the truth if
 in the hundred or vill there is any man accused (_rettatus aut
 publicatus_) as a robber or murderer or thief, or receiver of such. The
-assize of Northampton added forgery of coin or charters (_falsonaria_)
-and arson. The inquiry is to be held by the justices in eyre, and by the
+assize of Northampton added [[Forgery|forgery]] of [[Coin|coin]] or charters (_falsonaria_)
+and [[Arson|arson]]. The inquiry is to be held by the justices in [[Eyre|eyre]], and by the
 sheriffs in their county courts. On a finding on the oath aforesaid, the
 accused was to be taken and to go to the ordeal. By the articles of
 visitation of 1194, four knights are to be chosen from the county who by
@@ -156,12 +156,12 @@ answer for all matters within the hundred, including, says Stubbs, "all
 the pleas of the crown, the trial of malefactors and their receivers, as
 well as a vast amount of civil business." The process thus described is
 now regarded as an employment of the Frankish inquest for the collection
-of _fama publica_. It was alternative to the rights of a private accuser
+of _[[Fama|fama]] publica_. It was alternative to the rights of a private accuser
 by appeal, and the inquest were not exactly either accusers or
 witnesses, but gave voice to public repute as to the criminality of the
 persons whom they presented. From this form of inquest has developed the
 grand jury of presentment or accusation, and the coroner's inquest,
-which works partly as a grand jury as to homicide cases, and partly as
+which works partly as a grand jury as to [[Homicide|homicide]] cases, and partly as
 an inquest of office as to treasure trove, &c.
 
 The number of the grand jury is fixed by usage at not less than twelve
@@ -190,7 +190,7 @@ preliminary inquiry before justices, and inasmuch as cases rarely come
 before a grand jury until after committal of the accused for trial, the
 present utility of the grand jury depends very much on the character of
 the justices' courts. As a review of the discretion of stipendiary
-magistrates in committing cases for trial, the intervention of the grand
+[[Magistrate|magistrates]] in committing cases for trial, the intervention of the grand
 jury is in most cases superfluous; and even when the committing justices
 are not lawyers, it is now a common opinion that their views as to the
 existence of a case to be submitted to a jury for trial should not be
@@ -204,24 +204,24 @@ shielding a criminal with whom it has strong political or social
 sympathies. The qualification of the grand jurymen is that they should
 be freeholders of the county--to what amount appears to be
 uncertain--and they are summoned by the sheriff, or failing him by the
-coroner.
+[[Coroner|coroner]].
 
 The _coroner's jury_ must by statute (1887) consist of not more than
 twenty-three nor less than twelve jurors. It is summoned by the coroner
 to hold an inquest _super visum corporis_ in cases of sudden or violent
-death, and of death in prisons or lunatic asylums, and to deal with
+death, and of death in prisons or lunatic [[Asylum|asylums]], and to deal with
 treasure trove. The qualification of the coroner's jurors does not
 depend on the Juries Acts 1825 and 1870, and in practice they are drawn
 from householders in the immediate vicinity of the place where the
 inquest is held. Unanimity is not required of a coroner's jury; but
 twelve must concur in the verdict. If it charges anyone with murder or
-manslaughter, it is duly recorded and transmitted to a court of assize,
+[[Manslaughter|manslaughter]], it is duly recorded and transmitted to a court of assize,
 and has the same effect as an indictment by a grand jury, i.e. it is
 accusatory only and is not conclusive, and is traversable, and the issue
 of guilt or innocence is tried by a petty jury.
 
 _The Petty Jury._--The ordeal by water or fire was used as the final
-test of guilt or innocence until its abolition by decree of the Lateran
+test of guilt or innocence until its abolition by [[Decree|decree]] of the Lateran
 council (1219). On its abolition it became necessary to devise a new
 mode of determining guilt as distinguished from ill fame as charged by
 the grand jury. So early as 1221 accused persons had begun to put
@@ -230,10 +230,10 @@ ill"; and the trial seems to have been by calling for the opinions of
 the twelve men and the four townships, who may have been regarded as a
 second body of witnesses who could traverse the opinion of the hundred
 jury. (See Pollock and Maitland, ii. 646.) The reference to _judicium
-parium_ in Magna Carta is usually taken to refer to the jury, but it is
+parium_ in [[Magna Carta]] is usually taken to refer to the jury, but it is
 clear that what is now known as the petty jury was not then developed in
 its present form. "The history of that institution is still in
-manuscript," says Maitland.
+[[Manuscript|manuscript]]," says Maitland.
 
 It is not at all clear that at the outset the trial by the country (_in
 pais_; _in patria_) was before another and different jury. The earliest
@@ -242,7 +242,7 @@ and had to agree. But by the time of Edward I. the accused seems to have
 been allowed to call in a second jury. A person accused by the inquest
 of the hundred was allowed to have the truth of the charge tried by
 another and different jury.[5] "There is," says Forsyth, "no possibility
-of assigning a date to this alteration." "In the time of Bracton (middle
+of assigning a date to this alteration." "In the time of [[Bracton]] (middle
 of the 13th century) the usual mode of determining innocence or guilt
 was by combat or appeal. But in most cases the appellant had the option
 of either fighting with his adversary or putting himself on his country
@@ -273,7 +273,7 @@ cases the attesting witnesses formed part of the jury. Forsyth doubts
 that conclusion, although he admits that, as the jurors themselves were
 originally mere witnesses, there was no distinction in principle between
 them and the attesting witnesses, and that the attesting witnesses might
-be associated with the jury in the discharge of the function of giving a
+be associated with the jury in the [[Discharge|discharge]] of the function of giving a
 verdict. However that may be, in the reign of Edward III., although the
 witnesses are spoken of "as joined to the assize," they are
 distinguished from the jurors. The trial _per sectam_ was used as an
@@ -306,7 +306,7 @@ recorder of London, _temp._ Edward VI., says that, "if the witnesses at
 a trial do not agree with the jurors, the verdict of the twelve shall be
 taken and the witnesses shall be rejected." Forsyth suggests as a reason
 for the continuance of this theory that it allowed the jury an escape
-from the _attaint_, by which penalties might be imposed on them for
+from the _[[Attaint|attaint]]_, by which penalties might be imposed on them for
 delivering a false verdict in a civil case. They could suggest that the
 verdict was according to the fact, though not according to the evidence.
 
@@ -333,7 +333,7 @@ to imply perversity of judgment, and the law sanctioned the application
 of the harshest methods to produce unanimity. The jurors while
 considering their verdict were not allowed a fire nor any refreshment,
 and it is said in some of the old books that, if they failed to agree,
-they could be put in a cart and drawn after the justices to the border
+they could be put in a [[Cart|cart]] and drawn after the justices to the border
 of the county, and then upset into a ditch. These rude modes of
 enforcing unanimity has been softened in later practice, but in criminal
 cases the rule of unanimity is still absolutely fixed.
@@ -384,7 +384,7 @@ The qualifications for, and exemptions from, service as a petty juror
 are in the main contained in the Juries Acts 1825 and 1870, though a
 number of further exemptions are added by scattered enactments. The
 exemptions include members of the legislature and judges, ministers of
-various denominations, and practising barristers and solicitors,
+various [[Denomination|denominations]], and practising barristers and solicitors,
 registered medical practitioners and dentists, and officers and soldiers
 of the regular army. Persons over sixty are exempt but not disqualified.
 Lists of the jurors are prepared by the overseers in rural parishes and
@@ -404,10 +404,10 @@ regulate the practice allude to it as well established. The Juries Act
 1870 (33 & 34 Vict. c. 77) defines the class of persons entitled and
 liable to serve on special juries thus: Every man whose name shall be on
 the jurors' book for any county, &c., and who shall be legally entitled
-to be called an esquire, or shall be a person of higher degree, or a
+to be called an [[Esquire|esquire]], or shall be a person of higher degree, or a
 banker or merchant, or who shall occupy a house of a certain rateable
 value (e.g. £100 in a town of 20,000 inhabitants, £50 elsewhere), or a
-farm of £300 or other premises at £100. A special juryman receives a fee
+farm of £300 or other premises at £100. A special juryman receives a [[Fee|fee]]
 of a guinea for each cause. Either party may obtain an order for a
 special jury, but must pay the additional expenses created thereby
 unless the judge certifies that it was a proper case to be so tried. For
@@ -417,19 +417,19 @@ or £20 on lands or tenement held by lease for twenty-one years or
 longer, or who being a householder is rated at £30 in the counties of
 London and Middlesex, or £20 in any other county. A special jury cannot
 be ordered in cases of treason or felony, and may be ordered in cases of
-misdemeanour only when the trial is in the king's bench division of the
+misdemeanour only when the trial is in the king's [[Bench|bench]] division of the
 High Court, or the civil side at assizes.
 
 _Challenge._--It has always been permissible for the parties to
 challenge the jurors summoned to consider indictments or to try cases.
 Both in civil and criminal cases a challenge "for cause" is allowed; in
 criminal cases a peremptory challenge is also allowed. Challenge "for
-cause" may be either to the _array_, i.e. to the whole number of jurors
+cause" may be either to the _[[Array|array]]_, i.e. to the whole number of jurors
 returned, or to the _polls_, i.e. to the jurors individually. A
 challenge to the array is either a _principal_ challenge (on the ground
 that the sheriff is a party to the cause, or related to one of the
 parties), or a challenge for _favour_ (on the ground of circumstances
-implying "at least a probability of bias or favour in the sheriff"). A
+implying "at least a probability of [[Bias|bias]] or favour in the sheriff"). A
 challenge to the polls is an exception to one or more jurymen on either
 of the following grounds: (1) _propter honoris respectum_, as when a
 lord of parliament is summoned; (2) _propter defectum_, for want of
@@ -515,13 +515,13 @@ sometimes difficult to apply, and almost unknown in continental
 jurisprudence, coupled with the right of an English judge to sum up the
 evidence (denied to French judges) and to express his own opinion as to
 its value (denied to American judges), fetter to some extent the
-independence or limit the chances of error of the jury.
+independence or limit the chances of [[Error|error]] of the jury.
 
 "The whole theory of the jurisdiction of the courts to interfere with
 the verdict of the constitutional tribunal is that the court is
 satisfied that the jury have not acted reasonably upon the evidence but
 have been misled by prejudice or passion" (_Watt_ v. _Watt_ (1905), App.
-Cas. 118, per Lord Halsbury). In civil cases the verdict may be
+Cas. 118, per Lord [[Halsbury]]). In civil cases the verdict may be
 challenged on the ground that it is against the evidence or against the
 weight of the evidence, or unsupported by any evidence. It is said to be
 against the evidence when the jury have completely misapprehended the
@@ -541,7 +541,7 @@ interfere with the verdict. To upset a verdict on the ground that there
 is no evidence to go to the jury implies that the judge at the trial
 ought to have withdrawn the case from the jury. Under modern procedure,
 in order to avoid the risk of a new trial, it is not uncommon to take
-the verdict of a jury on the hypothesis that there was evidence for
+the verdict of a jury on the [[Hypothesis|hypothesis]] that there was evidence for
 their consideration, and to leave the unsuccessful party to apply for
 judgment notwithstanding the verdict. The question whether there was any
 evidence proper to be submitted to the jury arises oftenest in cases
@@ -573,15 +573,15 @@ of the damages to a figure fixed by the court; see _Watt_ v. _Watt_
 (1905), App. Cas. 115.
 
 _Value of Jury System._--The value of the jury in past history as a
-bulwark against aggression by the Crown or executive cannot be
+[[Bulwark|bulwark]] against aggression by the Crown or executive cannot be
 over-rated, but the working of the institution has not escaped
 criticism. Its use protracts civil trials. The jurors are usually
 unwilling and are insufficiently remunerated; and jury trials in civil
-cases often drag out much longer and at greater expense than trials by a
+cases often [[Drag|drag]] out much longer and at greater expense than trials by a
 judge alone, and the proceedings are occasionally rendered ineffective
 by the failure of the jurors to agree.
 
-There is much force in the arguments of Bentham and others against the
+There is much force in the arguments of [[Bentham]] and others against the
 need of unanimity--the application of pressure to force conviction on
 the minds of jurors, the indifference to veracity which the concurrence
 of unconvinced minds must produce in the public mind, the probability
@@ -606,7 +606,7 @@ responsibility by requiring a quorum of three judges in order to
 constitute a court. The same act, by permitting an appeal to persons
 convicted on indictment both on questions of fact and of law, removed to
 a great extent any possibility of error by a jury. But in civil causes,
-where the issue must be determined one way or the other on the balance
+where the issue must be determined one way or the other on the [[Balance|balance]]
 of probabilities, a single judge would probably be a better tribunal
 than the present combination of judge and jury. Even if it be assumed
 that he would on the whole come to the same conclusion as a jury
@@ -621,7 +621,7 @@ In the county courts trial by jury is the exception and not the rule. In
 the court of chancery and the admiralty court it was never used. Under
 the Judicature Acts many cases which in the courts of common law would
 have been tried with a jury are now tried before a judge alone, or
-(rarely) with assessors, or before an official referee. Indeed cynics
+(rarely) with [[Assessor|assessors]], or before an official referee. Indeed [[Cynics|cynics]]
 say that a jury is insisted on chiefly in cases when a jury, from
 prejudice or other causes, is likely to be more favourable than a judge
 alone.
@@ -640,9 +640,9 @@ of offences committed than was the practice in former years.
   system became established at a very early date. Its history was very
   different from that of the English jury system. There was no grand
   jury under Scots law, but it was introduced in 1708 for the purpose of
-  high treason (7 Anne c. 21). For the trial of criminal cases the petty
+  high treason (7 [[Anne]] c. 21). For the trial of criminal cases the petty
   jury is represented by the criminal "assize." This jury has always
-  consisted of fifteen persons and the jurors are chosen by ballot by
+  consisted of fifteen persons and the jurors are chosen by [[Ballot|ballot]] by
   the clerk of the court from the list containing the names of the
   special and common jurors, five from the special, ten from the common.
   Prosecutor and accused each have five peremptory challenges, of which
@@ -661,7 +661,7 @@ of offences committed than was the practice in former years.
 
   Jury trial in civil cases was at one time in general if not prevailing
   use, but was gradually superseded for most purposes on the institution
-  of the Court of Session (1 Mackay, _Ct. Sess. Pr._ 33). In this, as in
+  of the Court of Session (1 [[Mackay]], _Ct. Sess. Pr._ 33). In this, as in
   many other matters, Scots law and procedure tend to follow continental
   rather than insular models. The civil jury was reintroduced in 1815
   (55 Geo. III. c. 42), mainly on account of the difficulties
@@ -712,7 +712,7 @@ of offences committed than was the practice in former years.
   is in force as part of the original law of the colonists or under the
   colonial charters of justice or by local legislation. The grand jury
   is not in use in India; was introduced but later abolished in the Cape
-  Colony; and in Australia has been for most purposes superseded by the
+  Colony; and in [[Australia]] has been for most purposes superseded by the
   public prosecutor. The ordinary trial jury for criminal cases is
   twelve, but in India may be nine, seven, five or three, according to
   certain provisions of the Criminal Procedure Code 1898. In countries
@@ -722,18 +722,18 @@ of offences committed than was the practice in former years.
   Carew_, 1897, A.C. 719. In civil cases the number of the jury is
   reduced in some colonies, e.g. to seven in Tasmania and Trinidad.
 
-  _European Countries._--In France there is no civil jury. In criminal
+  _[[European Countries]]._--In France there is no civil jury. In criminal
   cases the place of the grand jury is taken by the _chambre des mises
   en accusation_, and the more serious crimes are tried before a jury of
   twelve which finds its verdict by a majority, the exact number of
-  which may not be disclosed. In Belgium, Spain, Italy and Germany,
+  which may not be disclosed. In [[Belgium]], Spain, Italy and Germany,
   certain classes of crime are tried with the aid of a jury.
 
   _United States._--The English jury system was part of the law of the
-  American colonies before the declaration of independence; and grand
+  American colonies before the [[Declaration|declaration]] of independence; and grand
   jury, coroner's jury and petty jury continue in full use in the United
   States. Under the Federal Constitution (Article iii.) there is a right
-  to trial by jury in all criminal cases (except on impeachment) and in
+  to trial by jury in all criminal cases (except on [[Impeachment|impeachment]]) and in
   all civil actions at common law in which the subject matter exceeds
   $20 in value (amendments vi. and vii.). The trial jury must be of
   twelve and its verdict must be unanimous; see Cooley, _Constitutional
@@ -770,7 +770,7 @@ FOOTNOTES:
     system on English ground, as contrasted with its decay and extinction
     in France.
 
-  [4] Blackstone puts the principle as being that no man shall be
+  [4] [[Blackstone]] puts the principle as being that no man shall be
     convicted except by the unanimous voice of twenty-four of his equals
     or neighbours--twelve on the grand, and twelve on the petty jury.
 
@@ -784,14 +784,14 @@ FOOTNOTES:
   [6] Forsyth, 206. The number of the jury (twelve) is responsible for
     some unfounded theories of the origin of the system. This use of
     twelve is not confined to England, nor in England or elsewhere to
-    judicial institutions. "Its general prevalence," says Hallam (_Middle
+    judicial institutions. "Its general prevalence," says [[Hallam]] (_Middle
     Ages_, ch. viii.), "shows that in searching for the origin of trial
     by jury we cannot rely for a moment upon any analogy which the mere
     number affords." In a _Guide to English Juries_ (1682), by a person
     of quality (attributed to Lord Somers), the following passage occurs:
     "In analogy of late the jury is reduced to the number of twelve, like
-    as the prophets were twelve to foretell the truth; the apostles
-    twelve to preach the truth; the discoverers twelve, sent into Canaan
+    as the prophets were twelve to foretell the truth; the [[Apostle|apostles]]
+    twelve to preach the truth; the discoverers twelve, sent into [[Canaan]]
     to seek and report the truth; and the stones twelve that the heavenly
     Hierusalem is built on." Lord Coke indulged in similar speculations.
 

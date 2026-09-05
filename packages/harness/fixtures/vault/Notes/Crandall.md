@@ -13,7 +13,7 @@ Quaker parentage, at Hopkinton, Rhode Island, on the 3rd of September
 taught school at Plainfield, Conn., and in 1831 established a private
 academy for girls at Canterbury, Windham county, Connecticut. By
 admitting a negro girl she lost her white patrons, and in March 1833, on
-the advice of William Lloyd Garrison and Samuel J. May (1797-1871), she
+the advice of William [[Lloyd]] [[Garrison]] and Samuel J. May (1797-1871), she
 opened a school for "young ladies and little misses of colour." For this
 she was bitterly denounced, not only in Canterbury but throughout
 Connecticut, and was persecuted, boycotted and socially ostracized;
@@ -26,16 +26,16 @@ submit, was arrested, tried and convicted in the lower courts, whose
 verdict, however, was reversed on a technicality by the court of appeals
 in July 1834. Thereupon the local opposition to her redoubled, and she
 was finally in September 1834 forced to close her school. Soon afterward
-she married the Rev. Calvin Philleo. She died at Elk Falls, Kansas, on
+she married the Rev. [[Calvin]] Philleo. She died at Elk Falls, Kansas, on
 the 28th of January 1889. The Connecticut Black Law was repealed in
 1838. Miss Crandall's attempt to educate negro girls at Canterbury
 attracted the attention of the whole country; and the episode is of
 considerable significance as showing the attitude of a New England
 community toward the negro at that time.
 
-  See J. C. Kimball's _Connecticut Canterbury Tale_ (Hartford, Conn.,
+  See J. C. Kimball's _Connecticut Canterbury Tale_ ([[Hartford]], Conn.,
   1889), and Samuel J. May's _Recollections of Our Anti-Slavery
-  Conflict_ (Boston, 1869).
+  Conflict_ ([[Boston]], 1869).
 
 ## See also
 

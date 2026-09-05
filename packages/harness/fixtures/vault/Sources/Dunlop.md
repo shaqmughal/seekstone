@@ -12,7 +12,7 @@ DUNLOP, JOHN COLIN (1785-1842), Scottish man of letters, was born on the
 30th of December 1785. In 1816 he became sheriff of Renfrewshire, and
 retained this office until his death at Edinburgh, on the 26th of
 January (according to others, in February) 1842. The work by which he is
-best known, and which will always hold an honourable place in English
+best known, and which will always hold an [[Honourable|honourable]] place in English
 literature, is his _History of Fiction_ (1814; new edition, 1888, with
 notes by H. Wilson, in Bohn's "Standard Library"). In spite of the
 somewhat contemptuous notices in _Blackwood's Magazine_ (September 1824)

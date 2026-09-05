@@ -1,7 +1,7 @@
 # Louis Ii.
 
 LOUIS II., king of Bavaria (1845-1886), son of his predecessor
-Maximilian II. and his wife Maria, daughter of Prince William of
+[[Maximilian]] II. and his wife Maria, daughter of Prince William of
 Prussia, was born at Nymphenburg on the 25th of August 1845. Together
 with his brother Otto, three years younger than himself, Louis received,
 in accordance with the wishes of his learned father, a simple and
@@ -40,7 +40,7 @@ victories of 1870. As regards his ecclesiastical policy, though Louis
 remained personally true to the Catholic Church, he strove for a greater
 independence of the Vatican. He maintained friendly relations with Ignaz
 von Döllinger, the leader of the more liberal Catholics who opposed the
-definition of papal infallibility, but without extending his protection
+[[Definition|definition]] of papal [[Infallibility|infallibility]], but without extending his protection
 to the anti-Roman movement of the Old Catholics. In spite of this the
 Old Bavarian opposition was so aroused by the Liberalism of the
 Hohenlohe ministry that at the beginning of 1870 Louis had to form a
@@ -58,7 +58,7 @@ though his Bavarian particularism remained unchanged.
 Though up till the beginning of the year 1880 he did not cease to give
 some attention to state affairs, the king's interests lay in quite other
 spheres. His personal idiosyncrasies had, in fact, developed meanwhile
-in a most unhappy direction. His enthusiasm for all that is beautiful
+in a most unhappy direction. His [[Enthusiasm|enthusiasm]] for all that is beautiful
 soon led him into dangerous bypaths. It found its most innocent
 expression in the earliest years of his reign when he formed an intimate
 friendship with Richard Wagner, whom from May 1864 to December 1865 he
@@ -111,14 +111,14 @@ which irked him more and more, or in short and hasty journeys, in which
 he always travelled incognito. Even the theatre he could now only enjoy
 alone. He arranged private performances in his castles or in Munich at
 fabulous cost, and appointed an official poet to his household. Later
-his avoidance of society developed into a dread of it, accompanied by a
+his [[Avoidance|avoidance]] of society developed into a dread of it, accompanied by a
 fear of assassination and delusions that he was being followed.
 
 Side by side with this pathological development his inborn
 self-consciousness increased apace, turning more and more to
 megalomania, and impelling the weak-willed monarch to those
 extraordinary displays of magnificence which can still be admired to-day
-in the castles built or altered by him, such as Berg on the Starnberger
+in the castles built or altered by him, such as [[Berg]] on the Starnberger
 See, Linderhof, Herrenchiemsee, Hohenschwangau, Neuschwanstein, &c.,
 which are among the most splendid buildings in Germany. It is
 characteristic of the extravagance of the king's ideas that he adopted
@@ -161,7 +161,7 @@ who succeeded him as king of Bavaria, was also incurably insane.
   II. de Bavière_ (Paris, 1900); E. v. Possart, _Die
   Separatvorstellungen von König Ludwig II._ (1901); O. Bray-Steinburg,
   _Denkwürdigkeiten_ (1901); S. Röcke, _Ludwig II. und Richard Wagner_
-  (1903); W. Busch, _Die Kämpfe über Reichsverfassung und Kaisertum_
+  (1903); W. [[Busch]], _Die Kämpfe über Reichsverfassung und Kaisertum_
   (1906); Chlodwig Hohenlohe, _Denkwürdigkeiten_ (2 vols., 1907); A. v.
   Ruville, _Bayern und die Wiederaufrichtung des Deutschen Reiches_
   (1909); K. A. v. Müller, _Bayern im Jahre 1866 und die Berufung des
@@ -187,11 +187,11 @@ FOOTNOTES:
 
 LOUIS II.[1] (846-879), king of France, called "le Bègue" or "the
 Stammerer," was a son of Charles II. the Bald, Roman emperor and king of
-the West Franks, and was born on the 1st of November 846. After the
-death of his elder brother Charles in 866 he became king of Aquitaine,
+the West [[Frank|Franks]], and was born on the 1st of November 846. After the
+death of his elder brother Charles in 866 he became king of [[Aquitaine]],
 and in October 877 he succeeded his father as king of the West Franks,
 but not as emperor. Having made extensive concessions to the nobles both
-clerical and lay, he was crowned king by Hincmar, archbishop of Reims,
+clerical and lay, he was crowned king by [[Hincmar]], archbishop of Reims,
 on the 8th of December following, and in September 878 he took advantage
 of the presence of Pope John VIII. at the council of Troyes to be
 consecrated afresh. After a feeble and ineffectual reign of eighteen

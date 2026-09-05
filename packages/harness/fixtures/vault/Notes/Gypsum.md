@@ -27,7 +27,7 @@ proportion of sand may be mechanically entangled in the crystals without
 serious disturbance of form; whilst certain crystals occasionally
 enclose cavities with liquid and an air-bubble. Gypsum not infrequently
 becomes fibrous. This variety occurs in veins, often running through
-gypseous marls, with the fibres disposed at right angles to the
+gypseous [[Marl|marls]], with the [[Fibres|fibres]] disposed at right angles to the
 direction of the vein. Such gypsum when cut and polished has a pearly
 opalescence, or satiny sheen, whence it is called satin-spar (q.v.).
 
@@ -37,14 +37,14 @@ opalescence, or satiny sheen, whence it is called satin-spar (q.v.).
 
 Gypsum is so soft as to be scratched even by the finger-nail (H = 1.5 to
 2). Its specific gravity is about 2.3. The mineral is slightly soluble
-in water, one part of gypsum being soluble, according to G. K. Cameron,
+in water, one part of gypsum being soluble, according to G. K. [[Cameron]],
 in 372 parts of pure water at 26 deg. C. Waters percolating through
 gypseous strata, like the Keuper marls, dissolve the calcium sulphate
 and thus become permanently hard or "selenitic." Such water has special
-value for brewing pale ale, and the water used by the Burton breweries
+value for brewing pale ale, and the water used by the [[Burton]] breweries
 is of this character; hence the artificial dissolving of gypsum in water
 for brewing purposes is known as "burtonization." Deposits of gypsum are
-formed in boilers using selenitic water.
+formed in [[Boiler|boilers]] using selenitic water.
 
 Pure gypsum is colourless or white, but it is often tinted, especially
 in the alabaster variety, grey, yellow or pink. Gypsum crystallizes with
@@ -57,12 +57,12 @@ pulverulent substance, known as "plaster of Paris," which may readily be
 caused to recombine with water, forming a hard cement. The gypsum
 quarries of Montmartre, in the north of Paris, were worked in Tertiary
 strata, rich in fossils. Gypsum is largely quarried in England for
-conversion into plaster of Paris, whence it is sometimes known as
+[[Conversion|conversion]] into plaster of Paris, whence it is sometimes known as
 "plaster stone," and since much is sent to the Staffordshire potteries
 for making moulds it is also termed "potter's stone." The chief workings
 are in the Keuper marls near Newark in Nottinghamshire, Fauld in
 Staffordshire and Chellaston in Derbyshire. It is also worked in Permian
-beds in Cumberland and Westmorland, and in Purbeck strata near Battle in
+beds in [[Cumberland]] and Westmorland, and in Purbeck strata near Battle in
 Sussex.
 
 Gypsum frequently occurs in association with rock-salt, having been
@@ -72,10 +72,10 @@ under the microscope this sulphate is deposited as acicular crystals of
 gypsum. In salt-lagoons the deposition of the gypsum is probably
 effected in most cases by means of micro-organisms. Waters containing
 sulphuretted hydrogen, on exposure to the air in the presence of
-limestone, may yield gypsum by the formation of sulphuric acid and its
+[[Limestone|limestone]], may yield gypsum by the formation of sulphuric acid and its
 interaction with the calcium carbonate. In volcanic districts gypsum is
 produced by the action of sulphuric acid, resulting from the oxidation
-of sulphurous vapours, on lime-bearing minerals, like labradorite and
+of sulphurous vapours, on lime-bearing minerals, like [[Labradorite|labradorite]] and
 augite, in the volcanic rocks: hence gypsum is common around solfataras.
 Again, by the oxidation of iron-pyrites and the action of the resulting
 sulphuric acid on limestone or on shells, gypsum may be formed; whence
@@ -87,7 +87,7 @@ conditions, be dehydrated or reduced to anhydrite.
 Some of the largest known crystals of selenite have been found in
 southern Utah, where they occur in huge geodes, or crystal-lined
 cavities, in deposits from the old salt-lakes. Fine crystals, sometimes
-curiously bent, occur in the Permian rocks of Friedrichroda, near Gotha,
+curiously bent, occur in the Permian rocks of Friedrichroda, near [[Gotha]],
 where there is a grotto called the Marienglashohle, close to
 Rheinhardsbrunn. Many of the best localities for selenite are in the New
 Red Sandstone formation (Trias and Permian), notably the salt-mines of
@@ -95,10 +95,10 @@ Hall and Hallein, near Salzburg, and of Bex in Switzerland. Excellent
 crystals, usually of a brownish colour arranged in groups, are often
 found in the brine-chambers and the launders used in salt-works.
 Selenite also occurs in fine crystals in the sulphur-bearing marls of
-Girgenti and other Sicilian localities; whilst in Britain very bold
+[[Girgenti]] and other Sicilian localities; whilst in Britain very bold
 crystals are yielded by the Kimeridge clay of Shotover Hill near Oxford.
 Twisted crystals and rosettes of gypsum found in the Mammoth Cave,
-Kentucky, have been called "oulopholites" ([Greek: oulos], "woolly";
+[[Kentucky]], have been called "oulopholites" ([Greek: oulos], "woolly";
 [Greek: pholeos], "cave").
 
 In addition to the use of gypsum in cement-making, the mineral finds
@@ -122,18 +122,18 @@ the equinox and the rotation of the earth.
 The gyroscope (Gr. [Greek: gyros], ring, [Greek: skopein], to see) may
 be distinguished from the gyrostat ([Greek: gyros], and [Greek:
 statikos], stationary) as an instrument in which the rotating wheel or
-disk is mounted in gimbals so that the principal axis of rotation
+disk is mounted in [[Gimbal|gimbals]] so that the principal axis of rotation
 always passes through a fixed point (fig. 1). It can be made to imitate
 the motion of a spinning-top of which the point is placed in a smooth
 agate cup as in Maxwell's dynamical top (figs. 2, 3). (_Collected
-Works_, i. 248.) A bicycle wheel, with a prolongation of the axle placed
+Works_, i. 248.) A bicycle wheel, with a prolongation of the [[Axle|axle]] placed
 in a cup, can also be made to serve (fig. 4).
 
 [Illustration: FIG. 1.]
 
 [Illustration: FIG. 2.]
 
-The gyrostat is an instrument designed by Lord Kelvin (_Natural
+The gyrostat is an instrument designed by Lord [[Kelvin]] (_Natural
 Philosophy_, S 345) to illustrate the more complicated state of motion
 of a spinning body when free to wander about on a horizontal plane, like
 a top spun on the pavement, or a hoop or bicycle on the road. It
@@ -158,8 +158,8 @@ to illustrate Poinsot's theory of the motion of a body under no force,
 the gyroscope being made kinetically unsymmetrical by a setting of the
 screws. The discussion of this movement is required for Jacobi's
 theorems on the allied motion of a top and of a body under no force
-(Poinsot, _Theorie nouvelle de la rotation des corps_, Paris, 1857;
-Jacobi, _Werke_, ii. Note B, p. 476).
+(Poinsot, _Theorie nouvelle de la rotation des [[Corps|corps]]_, Paris, 1857;
+[[Jacobi]], _Werke_, ii. Note B, p. 476).
 
 To imitate the movement of the top the centre of gravity is displaced
 from the point of support so as to give a preponderance. When the motion
@@ -180,7 +180,7 @@ then be spun by hand and projected in any manner.
 
 The first practical application of the gyroscopic principle was invented
 and carried out (1744) by Serson, with a spinning top with a polished
-upper plane surface for giving an artificial horizon at sea, undisturbed
+upper plane surface for giving an artificial [[Horizon|horizon]] at sea, undisturbed
 by the motion of the ship, when the real horizon was obscured. The
 instrument has been perfected by Admiral Georges Ernest Fleuriais (fig.
 9), and is interesting theoretically as showing the correction required
@@ -189,12 +189,12 @@ devised for the same purpose of showing the earth's rotation; a
 description of it, and of the latest form employed by Foppl, is given in
 the _Ency. d. math. Wiss._, 1904, with bibliographical references in the
 article "Mechanics of Physical Apparatus." The rotation of the fly-wheel
-is maintained here by an electric motor, as devised by G. M. Hopkins,
+is maintained here by an electric motor, as devised by G. M. [[Hopkins]],
 and described in the _Scientific American_, 1878. To demonstrate the
 rotation of the earth by the constancy in direction of the axis of a
 gyroscope is a suggestion that has often been made; by E. Sang in 1836,
 and others. The experiment was first carried out with success by
-Foucault in 1851, by a simple pendulum swung in the dome of the
+[[Foucault]] in 1851, by a simple pendulum swung in the dome of the
 Pantheon, Paris, and it has been repeated frequently (_Memoires sur le
 pendule_, 1889).
 
@@ -208,7 +208,7 @@ original direction is lost.
 The gyrostatic principle, in which one degree of freedom is suppressed
 in the axis, is useful for imparting steadiness and stability in a
 moving body; it is employed by Schlick to mitigate the rolling of a ship
-and to maintain the upright position of Brennan's monorail car.
+and to maintain the upright position of Brennan's monorail [[Car|car]].
 
 Lastly, as an application of gyroscopic theory, a stretched chain of
 fly-wheels in rotation was employed by Kelvin as a mechanical model of
@@ -223,7 +223,7 @@ and suspended vertically.
   C.G.S. units, which are employed in the subsequent formulae, are
   denoted by M, h, C and A. M is the weight in grammes (g) as given by
   the number of gramme weights which equilibrate the top when weighed in
-  a balance; h is the distance OG in centimetres (cm.) between G the
+  a [[Balance|balance]]; h is the distance OG in centimetres (cm.) between G the
   centre of gravity and O the point of support, and Mh may be called the
   preponderance in g.-cm.; Mh and M can be measured by a spring balance
   holding up in a horizontal position the axis OC in fig. 8 suspended at
@@ -268,7 +268,7 @@ and suspended vertically.
   If, however, the axis OC' is prevented from taking up this
   precessional velocity, the top at once falls down; thence all the
   ingenious attempts--for instance, in the swinging cabin of the
-  Bessemer ship--to utilise the gyroscope as a mechanical directive
+  [[Bessemer]] ship--to utilise the gyroscope as a mechanical directive
   agency have always resulted in failure (_Engineer_, October 1874),
   unless restricted to actuate a light relay, which guides the
   mechanism, as in steering a torpedo.
@@ -278,7 +278,7 @@ and suspended vertically.
   socket, the rapidly rotating wheel will resist the impulse of tapping
   on the gimbal by moving to one side; but when the pinch screw prevents
   the rotation of the vertical spindle in the massive pedestal, this
-  resistance to the tapping at once disappears, provided the friction of
+  resistance to the tapping at once disappears, provided the [[Friction|friction]] of
   the table prevents the movement of the pedestal; and if the wheel has
   any preponderance, it falls down.
 
@@ -361,16 +361,16 @@ and suspended vertically.
 
     (9) KM.KN = A^2n^2,
 
-  so that K lies on a hyperbola with OC, OC' as asymptotes.
+  so that K lies on a [[Hyperbola|hyperbola]] with OC, OC' as asymptotes.
 
 
     Constrained motion of the gyroscope.
 
   4. Suppose the top or gyroscope, instead of moving freely about the
-  point O, is held in a ring or frame which is compelled to rotate about
+  point O, is held in a ring or [[Frame|frame]] which is compelled to rotate about
   the vertical axis OC with constant angular velocity [mu]; then if N
   denotes the couple of reaction of the frame keeping the top from
-  falling, acting in the plane COC', equation (4) S 3 becomes modified
+  falling, acting in the plane COC', [[Equation|equation]] (4) S 3 becomes modified
   into
 
     (1) gMh sin [theta] - N = [mu].CK = sin [theta] G'[mu] - A[mu]^2 cos [theta],
@@ -387,7 +387,7 @@ and suspended vertically.
     (3) [mu]1 [~=] gMh/G' = An^2/CR,
 
   the same for all inclinations, and this is the precession observed in
-  the spinning top and centrifugal machine of fig. 10 This is true
+  the spinning top and centrifugal [[Machine|machine]] of fig. 10 This is true
   accurately when the axis OC' is horizontal, and then it agrees with
   the result of the popular explanation of S 2.
 
@@ -410,7 +410,7 @@ and suspended vertically.
   This is effected automatically in the Weston centrifugal machine (fig.
   10) used for the separation of water and molasses, by the friction of
   the indiarubber cushions above the support; or else the spindle is
-  produced downwards below the drum a short distance, and turns in a
+  produced downwards below the [[Drum|drum]] a short distance, and turns in a
   hole in a weight resting on the bottom of the case, which weight is
   dragged round until the spindle is upright; this second arrangement is
   more effective when a liquid is treated in the drum, and wave action
@@ -425,7 +425,7 @@ and suspended vertically.
 
   so that N is negative or positive, and the axis tends to rise or fall
   according as K moves to the inside or outside of the hyperbola of free
-  motion. Thus a tap on the axis tending to hurry the precession is
+  motion. Thus a tap on the axis tending to [[Hurry|hurry]] the precession is
   equivalent to an impulse couple giving an increase to C'K, and will
   make K move to the interior of the hyperbola and cause the axis to
   rise; the steering of a bicycle may be explained in this way; but K1
@@ -445,7 +445,7 @@ and suspended vertically.
   _Trans. Camb. Phil. Soc._, 1903.
 
   The earth behaves in precession like a large spinning top, of which
-  the axis describes a circle round the pole of the ecliptic of mean
+  the axis describes a circle round the pole of the [[Ecliptic|ecliptic]] of mean
   angular radius [theta], about 23-1/2 deg., in a period of 26,000
   years, so that R/[mu] = 26000 X 365; and the mean couple producing
   precession is
@@ -467,7 +467,7 @@ and suspended vertically.
   Thus a carriage running round a curve experiences, in consequence of
   the rotation of the wheels, an increase of pressure Z on the outer
   track, and a diminution Z on the inner, giving a couple, if a is the
-  gauge,
+  [[Gauge|gauge]],
 
     (2) Za = G'[mu],
 
@@ -487,7 +487,7 @@ and suspended vertically.
 
     (6) tan [alpha] = G'[mu]/gMh = G'v/gMhc.
 
-  The gyroscopic action of a dynamo, turbine, and other rotating
+  The gyroscopic action of a [[Dynamo|dynamo]], turbine, and other rotating
   machinery on a steamer, paddle or screw, due to its rolling and
   pitching, can be evaluated in a similar elementary manner
   (Worthington, _Dynamics of Rotation_), and Schlick's gyroscopic
@@ -562,7 +562,7 @@ and suspended vertically.
                 [mu]1             86400             8[pi]
 
   if E is expressed in minutes, taking [mu] = 2[pi]/86400; thus making
-  the true latitude E nautical miles to the south of that given by the
+  the true [[Latitude|latitude]] E nautical miles to the south of that given by the
   top (_Revue maritime_, 1890; _Comptes rendus_, 1896).
 
   This can be seen by elementary consideration of the theory above, for
@@ -715,7 +715,7 @@ and suspended vertically.
 
   Suppose Oz is parallel to the earth's axis, and [mu] is the diurnal
   rotation, the square of which may be neglected, then if Gilbert's
-  barogyroscope of S 6 has the knife-edges turned in azimuth to make an
+  barogyroscope of S 6 has the knife-edges turned in [[Azimuth|azimuth]] to make an
   angle [beta] with E. and W., so that OZ lies in the horizon at an
   angle E.[beta].N., we must put [gamma] = 1/2[pi], cos [theta] = sin
   [alpha] sin [beta]; and putting [phi] = 1/2[pi] - [delta] + E, where
@@ -827,7 +827,7 @@ and suspended vertically.
   COC', and equal to gMh sin [theta] or An^2 sin [theta], so that if a
   point in the axis OC' at a distance An^2 from O is projected on the
   horizontal plane through C in the point P on CK, the curve described
-  by P, turned forwards through a right angle, will be the hodograph of
+  by P, turned forwards through a right angle, will be the [[Hodograph|hodograph]] of
   H; this is expressed by
 
     (3) An^2 sin [theta] e^{([psi] + 1/2[pi])i}
@@ -972,7 +972,7 @@ and suspended vertically.
   hyperboloid at H being normal to the curve of H; and then the other
   generator through O will coincide in the movement with OC', the axis
   of the top; thus the Poinsot herpolhode curve H is also the trace made
-  by rolling a line of curvature on an ellipsoid confocal to the
+  by rolling a line of curvature on an [[Ellipsoid|ellipsoid]] confocal to the
   hyperboloid of one sheet, on the plane through C.
 
   Kirchhoff's _Kinetic Analogue_ asserts also that the curve of H is the
@@ -1054,7 +1054,7 @@ and suspended vertically.
 
   is a quadric surface with the squares of the semiaxes given by HV.HQ,
   HT.HQ, HP.HQ, and with HQ the normal line at H, and so touching the
-  horizontal plane through C; and the direction cosines of the normal
+  horizontal plane through C; and the direction [[Cosin|cosines]] of the normal
   being
 
     (45) x/HV, y/HT, z/HP,
@@ -1152,7 +1152,7 @@ and suspended vertically.
   pivoted in fig. 8 in a lug screwed to the axle of a bicycle hub,
   fastened vertically in a bracket bolted to a beam. The wheel can now
   be spun by hand, and projected in any manner so as to produce a
-  desired gyroscopic motion, undulating, looped, or with cusps if the
+  desired gyroscopic motion, undulating, looped, or with [[Cusp|cusps]] if the
   stalk of the wheel is dropped from rest.
 
   As the principal part of the motion takes place now in the
@@ -1242,7 +1242,7 @@ and suspended vertically.
 
   Interpreted geometrically on the deformable hyperboloid, flattened in
   the plane of the focal ellipse, if OQ is the perpendicular from the
-  centre on the tangent HP, AOQ = amfK', and the eccentric angle of P,
+  centre on the tangent HP, AOQ = amfK', and the [[Eccentric|eccentric]] angle of P,
   measured from the minor axis, is am(1 - f)K', the eccentricity of the
   focal ellipse being the comodulus [kappa]'.
 
@@ -1265,7 +1265,7 @@ and suspended vertically.
                            OA                   OA
 
   By choosing for f a simple rational fraction, such as 1/2, 1/3, 1/4,
-  1/5, ... an algebraical case of motion can be constructed (_Annals of
+  1/5, ... an algebraical case of motion can be constructed (_[[Annals]] of
   Mathematics_, 1904).
 
   Thus with G' - GE = 0, we have E = z1 or z2, never z3; f = 0 or 1;
@@ -1344,7 +1344,7 @@ and suspended vertically.
   so that p = 0 and the motion is made algebraical by taking L = 1/2(1 -
   [kappa]).
 
-  The stereoscopic diagram of fig. 12 drawn by T. I. Dewar shows these
+  The stereoscopic diagram of fig. 12 drawn by T. I. [[Dewar]] shows these
   curves for [kappa] = 15/17, 3/5, and 1/3 (cusps).
 
   10. So far the motion of the axis OC' of the top has alone been
@@ -1549,7 +1549,7 @@ and suspended vertically.
   analytical constants; or the geometrical constants, such as [alpha],
   [beta], [delta], [delta]', k of a given articulated hyperboloid.
 
-  There is thus a triply infinite series of a state of motion; the
+  There is thus a triply [[Infinite|infinite]] series of a state of motion; the
   choice of a typical state can be made geometrically on the
   hyperboloid, flattened in the plane of the local ellipse, of which
   [kappa] is the ratio of the semiaxes [alpha] and [beta], and am(1 - f)
@@ -1567,7 +1567,7 @@ and suspended vertically.
   notation for the steady rolling motion at a constant inclination
   [alpha] to the vertical of a body of revolution, such as a disk, hoop,
   wheel, cask, wine-glass, plate, dish, bowl, spinning top, gyrostat, or
-  bicycle, on a horizontal plane, or a surface of revolution, as a coin
+  bicycle, on a horizontal plane, or a surface of revolution, as a [[Coin|coin]]
   in a conical lamp-shade.
 
   [Illustration: FIG. 13.]
@@ -2152,7 +2152,7 @@ and suspended vertically.
                         T   2Ta + Kn - An^2 + Mn^2a^2
 
   With K = 0, A = 0, this reduces to Lagrange's condition in the
-  vibration of a string of beads.
+  vibration of a string of [[Bead|beads]].
 
   Putting
 
@@ -2331,7 +2331,7 @@ and suspended vertically.
 
   Change the sign of g for the case of the gyrostats spinning upright,
   one on the top of the other, and so realize the gyrostat on the top of
-  a gyrostat described by Maxwell.
+  a gyrostat described by [[Maxwell]].
 
   In the gyrostatic chain of S 14, the tension T may change to a limited
   pressure, and U^2 may still be positive, and the motion stable; and so
@@ -2340,7 +2340,7 @@ and suspended vertically.
 
   16. _The Flexure Joint._--In Lord Kelvin's experiment the gyrostats
   are joined up by equal light rods and short lengths of elastic wire
-  with rigid attachment to the rod and case of a gyrostat, so as to keep
+  with rigid [[Attachment|attachment]] to the rod and case of a gyrostat, so as to keep
   the system still, and free from entanglement and twisting due to pivot
   friction of the fly-wheels.
 
@@ -2359,7 +2359,7 @@ and suspended vertically.
 
     (2) -2n sin 1/2[theta] cos 1/2[theta] = -n sin [theta], perpendicular
   to the axis of the case. The flexure joint behaves like a pair of
-  equal bevel wheels engaging.
+  equal [[Bevel|bevel]] wheels engaging.
 
   The component angular momentum in the direction Ox is therefore
 
@@ -2453,8 +2453,8 @@ and suspended vertically.
 
   and the motion is again of hyperelliptic character, except when A =
   C', or C' = 0. To realize a motion given completely by the elliptic
-  function, the suspension of the stalk must be made by a smooth ball
-  and socket, or else a Hooke universal joint.
+  function, the suspension of the stalk must be made by a smooth [[Ball|ball]]
+  and socket, or else a [[Hooke]] universal joint.
 
   Finally, there is the case of the general motion of a top with a
   spherical rounded point on a smooth plane, in which the centre of
@@ -2486,13 +2486,13 @@ and suspended vertically.
   Sept. 1852; Paper by Professor Magnus translated in Taylor's _Foreign
   Scientific Memoirs_, n.s., pt. 3, p. 210; _Ast. Notices_, xiii.
   221-248; _Theory of Foucault's Gyroscope Experiments_, by the Rev.
-  Baden Powell, F.R.S.; _Ast. Notices_, vol. xv.; articles by Major J.
-  G. Barnard in _Silliman's Journal_, 2nd ser., vols. xxiv. and xxv.; E.
-  Hunt on "Rotatory Motion," _Proc. Phil. Soc. Glasgow_, vol. iv.; J.
+  Baden Powell, F.R.S.; _Ast. Notices_, vol. xv.; articles by [[Major]] J.
+  G. [[Barnard]] in _Silliman's Journal_, 2nd ser., vols. xxiv. and xxv.; E.
+  [[Hunt]] on "Rotatory Motion," _Proc. Phil. Soc. [[Glasgow]]_, vol. iv.; J.
   Clerk Maxwell, "On a Dynamical Top," _Trans. R.S.E._ vol. xxi.; _Phil.
   Mag._ 4th ser. vols. 7, 13, 14; _Proc. Royal Irish Academy_, vol.
   viii.; Sir William Thomson on "Gyrostat," _Nature_, xv. 297; G. T.
-  Walker, "The Motion of a Celt," _Quar. Jour. Math._, 1896; G. T.
+  Walker, "The Motion of a [[Celt]]," _Quar. Jour. Math._, 1896; G. T.
   Walker, _Math. Ency._ iv. 1, xi. 1; Gallop, _Proc. Camb. Phil. Soc._
   xii. 82, pt. 2, 1903, "Rise of a Top"; Price's _Infinitesimal
   Calculus_, vol. iv.; Worms, _The Earth and its Mechanism_; Routh,

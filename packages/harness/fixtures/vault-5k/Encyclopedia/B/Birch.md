@@ -43,7 +43,7 @@ extensive domestic industry in Russia consists in the manufacture of
 wooden spoons, which are made to the extent of 30,000,000 annually,
 mostly of birch. Its pliant and flexible branches are made into brooms;
 and in ancient Rome the fasces of the lictors, with which they cleared
-the way for the magistrates, were made up of birch rods. A similar use
+the way for the [[Magistrate|magistrates]], were made up of birch rods. A similar use
 of birch rods has continued among pedagogues to times so recent that the
 birch is yet, literally or metaphorically, the instrument of school-room
 discipline. The bark of the common birch is much more durable, and
@@ -63,7 +63,7 @@ the opening of the leaf-buds, and is fermented into a kind of beer and
 vinegar. The whole tree, but especially the bark and leaves, has a very
 pleasant resinous odour, and from the young leaves and buds an essential
 oil is distilled with water. The leaves are used as fodder in northern
-latitudes.
+[[Latitude|latitudes]].
 
 The species which belong peculiarly to America (_B. lenta, excelsa,
 nigra, papyracea_, &c.) are generally similar in appearance and
@@ -79,7 +79,7 @@ the bark of _B. alba_ is used in northern Europe.
 
 The canoe or paper birch (_B. papyracea_) is found as far north as 70°
 N. on the American continent, but it becomes rare and stunted in the
-Arctic circle. Professor Charles Sprague Sargent says: "It is one of the
+[[Arctic]] circle. Professor Charles Sprague Sargent says: "It is one of the
 most widely distributed trees of North America. From Labrador it ranges
 to the southern shores of Hudson's Bay and to those of the Great Bear
 Lake, and to the valley of the Yukon and the coast of Alaska, forming

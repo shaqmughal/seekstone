@@ -13,8 +13,8 @@ of gilding was known to the ancients. According to Herodotus, the
 Egyptians were accustomed to gild wood and metals; and gilding by means
 of gold plates is frequently mentioned in the Old Testament. Pliny
 informs us that the first gilding seen at Rome was after the destruction
-of Carthage, under the censorship of Lucius Mummius, when the Romans
-began to gild the ceilings of their temples and palaces, the Capitol
+of Carthage, under the censorship of [[Lucius]] Mummius, when the Romans
+began to gild the [[Ceiling|ceilings]] of their temples and palaces, the Capitol
 being the first place on which this enrichment was bestowed. But he adds
 that luxury advanced on them so rapidly that in a little time you might
 see all, even private and poor persons, gild the walls, vaults, and
@@ -30,13 +30,13 @@ metal surface is thoroughly scraped, cleaned and polished, and next
 heated in a fire sufficiently to remove any traces of grease or other
 impurity which may remain from the operation of polishing. It is then
 dipped in an acid solution prepared from dried unripe apricots, and
-rubbed with pumice or brick powder. Next, the surface is rubbed over
+rubbed with pumice or [[Brick|brick]] powder. Next, the surface is rubbed over
 with mercury which forms a superficial amalgam with the copper, after
 which it is left some hours in clean water, again washed with the acid
 solution, and dried. It is now ready for receiving the gold, which is
-laid on in leaf, and, on adhering, assumes a grey appearance from
+laid on in [[Leaf|leaf]], and, on adhering, assumes a grey appearance from
 combining with the mercury, but on the application of heat the latter
-metal volatilizes, leaving the gold a dull greyish hue. The colour is
+metal volatilizes, leaving the gold a dull greyish [[Hue|hue]]. The colour is
 brought up by means of rubbing with agate burnishers. The weight of
 mercury used in this process is double that of the gold laid on, and
 the thickness of the gilding is regulated by the circumstances or
@@ -49,7 +49,7 @@ adheres by catching into the prepared scratched surface.
 Modern gilding is applied to numerous and diverse surfaces and by
 various distinct processes, so that the art is prosecuted in many ways,
 and is part of widely different ornamental and useful arts. It forms an
-important and essential part of frame-making (see CARVING AND GILDING);
+important and essential part of frame-making (see [[Carving And Gilding|CARVING AND GILDING]]);
 it is largely employed in connexion with cabinet-work, decorative
 painting and house ornamentation; and it also bulks largely in
 bookbinding and ornamental leather work. Further, gilding is much
@@ -79,12 +79,12 @@ heads--mechanical gilding and gilding by chemical agency.
   extremely fine division, and applied by mechanical means. Cold gilding
   on silver is performed by a solution of gold in aqua-regia, applied by
   dipping a linen rag into the solution, burning it, and rubbing the
-  black and heavy ashes on the silver with the finger or a piece of
+  black and heavy ashes on the silver with the [[Finger|finger]] or a piece of
   leather or cork. _Wet gilding_ is effected by means of a dilute
   solution of chloride of gold with twice its quantity of ether. The
   liquids are agitated and allowed to rest, when the ether separates and
-  floats on the surface of the acid. The whole mixture is then poured
-  into a funnel with a small aperture, and allowed to rest for some
+  [[Float|floats]] on the surface of the acid. The whole mixture is then poured
+  into a [[Funnel|funnel]] with a small [[Aperture|aperture]], and allowed to rest for some
   time, when the acid is run off and the ether separated. The ether will
   be found to have taken up all the gold from the acid, and may be used
   for gilding iron or steel, for which purpose the metal is polished
@@ -103,7 +103,7 @@ heads--mechanical gilding and gilding by chemical agency.
   eight to one. When the amalgam is cold it is squeezed through chamois
   leather for the purpose of separating the superfluous mercury; the
   gold, with about twice its weight of mercury, remains behind, forming
-  a yellowish silvery mass of the consistence of butter. When the metal
+  a yellowish silvery mass of the consistence of [[Butter|butter]]. When the metal
   to be gilt is wrought or chased, it ought to be covered with mercury
   before the amalgam is applied, that this may be more easily spread;
   but when the surface of the metal is plain, the amalgam may be applied
@@ -120,7 +120,7 @@ heads--mechanical gilding and gilding by chemical agency.
   known by the surface having entirely become of a dull yellow colour,
   the metal must undergo other operations, by which the fine gold colour
   is given to it. First, the gilded surface is rubbed with a scratch
-  brush of brass wire, until its surface be smooth; then it is covered
+  brush of [[Brass|brass]] wire, until its surface be smooth; then it is covered
   over with a composition called "gilding wax," and again exposed to the
   fire until the wax is burnt off. This wax is composed of beeswax mixed
   with some of the following substances, viz. red ochre, verdigris,
@@ -148,11 +148,11 @@ _Gilding of Pottery and Porcelain._--The quantity of gold consumed for
 these purposes is very large. The gold used is dissolved in aqua-regia,
 and the acid is driven off by heat, or the gold may be precipitated by
 means of sulphate of iron. In this pulverulent state the gold is mixed
-with 1/12th of its weight of oxide of bismuth, together with a small
-quantity of borax and gum water. The mixture is applied to the articles
+with 1/12th of its weight of oxide of [[Bismuth|bismuth]], together with a small
+quantity of borax and [[Gum|gum]] water. The mixture is applied to the articles
 with a camel's hair pencil, and after passing through the fire the gold
 is of a dingy colour, but the lustre is brought out by burnishing with
-agate and bloodstone, and afterwards cleaning with vinegar or
+agate and [[Bloodstone|bloodstone]], and afterwards cleaning with vinegar or
 white-lead.
 
 ## See also

@@ -9,7 +9,7 @@ and three men of that time, Frederic Harrison (q.v.), Beesly and John
 Henry Bridges (1832-1906), became the leaders of Comtism in England.
 Beesly left Oxford in 1854 to become assistant-master at Marlborough
 College. In 1859 he was appointed professor of history at University
-College, London, and of Latin at Bedford College, London, in 1860. He
+College, London, and of Latin at [[Bedford]] College, London, in 1860. He
 resigned these appointments in 1893 and 1889, and in 1893 became the
 editor of the newly-established _Positivist Review_. He collaborated in
 the translation of Comte's system of _Positive Polity_ (4 vols.,
@@ -21,7 +21,7 @@ unsuccessfully as Liberal candidate for Westminster in 1885 and for
 Marylebone in 1886, and is the author of numerous review articles on
 social and political topics, treated from the positivist standpoint,
 especially on the Irish question. His works also include a series of
-lectures on Roman history, entitled _Catiline, Clodius, Tiberius_
+lectures on Roman history, entitled _Catiline, [[Clodius]], Tiberius_
 (1878), in which he rehabilitates in some degree the character of each
 of his subjects, and _Queen Elizabeth_ (1892), in the "Twelve English
 Statesmen" series.

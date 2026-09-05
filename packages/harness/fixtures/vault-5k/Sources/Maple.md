@@ -3,7 +3,7 @@
 MAPLE, in botany. The maple (O.E. _mapel-tréow, mapulder_) and sycamore
 trees are species of _Acer_, of the order _Acerineae_. The genus
 includes about sixty species, natives of Europe, North America and Asia,
-especially the Himalayas, China and Japan. Maples are for the most part
+especially the [[Himalaya|Himalayas]], China and Japan. Maples are for the most part
 trees with opposite, long-stalked, palmately lobed leaves. The flowers
 are in fascicles, appearing before the leaves as in the Norway maple, or
 in racemes or panicles appearing with, or later than, the leaves as in
@@ -21,7 +21,7 @@ especially worthy of notice.
   _Acer campestre_, the common maple, is common in hedgerows, but less
   often seen as a tree, when it is seldom more than 20 ft. high, though
   in sheltered situations 30 ft. or more is attained. The leaves are
-  generally less than 2 in. across, and the five main lobes are blunter
+  generally less than 2 in. across, and the five main [[Lobe|lobes]] are blunter
   than in the sycamore. The clusters of green flowers terminate the
   young shoots and are erect; the two wings of the fruit spread almost
   horizontally, and are smaller than in the sycamore. It occurs in
@@ -52,7 +52,7 @@ especially worthy of notice.
   produces abundance of seeds, and is easily raised, but it requires
   good and tolerably dry soil; it will not thrive on stiff clays nor on
   dry sands or chalks. There are many varieties, the variegated and
-  cut-leaved being the most noticeable. The lobed shape of its leaf and
+  cut-leaved being the most noticeable. The lobed shape of its [[Leaf|leaf]] and
   its dense foliage caused it to be confused with the true
   sycamore--_Ficus sycamorus_--of scripture.
 
@@ -93,7 +93,7 @@ especially worthy of notice.
   used for inlaying mahogany. It is much prized for bedsteads,
   writing-desks, shoe-lasts, &c. The wood forms excellent fuel and
   charcoal, while the ashes are rich in alkaline principles, furnishing
-  a large proportion of the potash exported from Boston and New York.
+  a large proportion of the potash exported from [[Boston]] and New York.
   Sugar is principally extracted from this species, the sap being boiled
   and the syrup when reduced to a proper consistence runs into moulds to
   form cakes. Trees growing in low and moist situations afford the most

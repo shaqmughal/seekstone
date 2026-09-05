@@ -1,7 +1,7 @@
 # Cambaluc
 
 CAMBALUC, the name by which, under sundry modifications, the royal city
-of the great khan in China became known to Europe during the middle
+of the great [[Khan|khan]] in China became known to Europe during the middle
 ages, that city being in fact the same that we now know as Peking. The
 word itself represents the Mongol Khan-Balik, "the city of the khan," or
 emperor, the title by which Peking continues, more or less, to be known
@@ -11,7 +11,7 @@ A city occupying approximately the same site had been the capital of one
 of the principalities into which China was divided some centuries before
 the Christian era; and during the reigns of the two Tatar dynasties that
 immediately preceded the Mongols in northern China, viz. that of the
-Khitans, and of the Kin or "Golden" khans, it had been one of their
+Khitans, and of the [[Kin]] or "Golden" khans, it had been one of their
 royal residences. Under the names of Yenking, which it received from the
 Khitan, and of Chung-tu, which it had from the Kin, it holds a
 conspicuous place in the wars of Jenghiz Khan against the latter
@@ -39,7 +39,7 @@ established their residence at Nan-king ("South Court"), but this proved
 so inconvenient that Yunglo, the third sovereign of the dynasty,
 reoccupied Ta-tu, giving it then, for the first time, the name of
 Pe-king ("North Court"). This was the name in common use when the
-Jesuits entered China towards the end of the 16th century, and began to
+[[Jesuits]] entered China towards the end of the 16th century, and began to
 send home accurate information about China. But it is not so now; the
 names in ordinary use being King-cheng or King-tu, both signifying
 "capital." The restoration of Cambaluc was commenced in 1409. The size
@@ -70,7 +70,7 @@ prevailed regarding Cathay. The name is often in popular literature
 written Cambalu, and is by Longfellow accented in verse _Cámbalú_. But
 this spelling originates in an accidental error in Ramusio's Italian
 version, which was the chief channel through which Marco Polo's book was
-popularly known. The original (French) MSS. all agree with the etymology
+popularly known. The original (French) MSS. all agree with the [[Etymology|etymology]]
 in calling it Cambaluc, which should be accented _Cambáluc_.
 
 ## References

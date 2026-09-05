@@ -17,7 +17,7 @@ colour of the streak or powder is rather paler; hence the name
 liroconite, from the Gr. [Greek: leiros], pale, and [Greek: konia],
 powder. The hardness is 2½, and the specific gravity 2.95. The mineral
 was found at the beginning of the 19th century in the copper mines near
-Gwennap in Cornwall, where it was associated with other copper arsenates
+Gwennap in [[Cornwall]], where it was associated with other copper arsenates
 in the upper, oxidized portions of the lodes.     (L. J. S.)
 
 ## See also

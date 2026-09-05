@@ -6,7 +6,7 @@ topic: judaica
 
 # Hals
 
-HALS, FRANS (1580?-1666), Dutch painter, was born at Antwerp according
+HALS, FRANS (1580?-1666), Dutch painter, was born at [[Antwerp]] according
 to the most recent authorities in 1580 or 1581, and died at Haarlem in
 1666. As a portrait painter second only to Rembrandt in Holland, he
 displayed extraordinary talent and quickness in the exercise of his art
@@ -23,13 +23,13 @@ children with success till 1652, when the forced sale of his pictures
 and furniture, at the suit of a baker to whom he was indebted for bread
 and money, brought him to absolute penury. The inventory of the property
 seized on this occasion only mentions three mattresses and bolsters, an
-armoire, a table and five pictures. This humble list represents all his
-worldly possessions at the time of his bankruptcy. Subsequently to this
+[[Armoire|armoire]], a table and five pictures. This humble list represents all his
+worldly possessions at the time of his [[Bankruptcy|bankruptcy]]. Subsequently to this
 he was reduced to still greater straits, and his rent and firing were
 paid by the municipality, which afterwards gave him (1664) an annuity of
 200 florins. We may admire the spirit which enabled him to produce some
 of his most striking works in his unhappy circumstances: we find his
-widow seeking outdoor relief from the guardians of the poor, and dying
+widow seeking outdoor relief from the [[Guardian|guardians]] of the poor, and dying
 obscurely in a hospital.
 
 Hals's pictures illustrate the various strata of society into which his
@@ -44,17 +44,17 @@ suggested by M. G. S. Davies, but on his removal to Haarlem Frans Hals
 entered the atelier of van Mander, the painter and historian, of whom he
 possessed some pictures which went to pay the debt of the baker already
 alluded to. But he soon improved upon the practice of the time,
-illustrated by J. van Schoreel and Antonio Moro, and, emancipating
+illustrated by J. van Schoreel and [[Antonio]] Moro, and, emancipating
 himself gradually from tradition, produced pictures remarkable for truth
 and dexterity of hand. We prize in Rembrandt the golden glow of effects
 based upon artificial contrasts of low light in immeasurable gloom. Hals
 was fond of daylight of silvery sheen. Both men were painters of touch,
 but of touch on different keys--Rembrandt was the bass, Hals the treble.
 The latter is perhaps more expressive than the former. He seizes with
-rare intuition a moment in the life of his sitters. What nature displays
+rare [[Intuition|intuition]] a moment in the life of his sitters. What nature displays
 in that moment he reproduces thoroughly in a very delicate scale of
 colour, and with a perfect mastery over every form of expression. He
-becomes so clever at last that exact tone, light and shade, and
+becomes so [[Clever|clever]] at last that exact tone, light and shade, and
 modelling are all obtained with a few marked and fluid strokes of the
 brush.
 
@@ -64,7 +64,7 @@ produced by him in the first decade of his independent activity, save an
 engraving by Jan van de Velde after a lost portrait of "The Minister
 Johannes Bogardus," who died in 1614. The earliest works by Frans Hals
 that have come down to us, "Two Boys Playing and Singing" in the gallery
-of Cassel, and a "Banquet of the officers of the 'St Joris Doele'" or
+of Cassel, and a "Banquet of the officers of the 'St [[Joris]] Doele'" or
 Arquebusiers of St George (1616) in the museum of Haarlem, exhibit him
 as a careful draughtsman capable of great finish, yet spirited withal.
 His flesh, less clear than it afterwards becomes, is pastose and
@@ -72,7 +72,7 @@ burnished. Later he becomes more effective, displays more freedom of
 hand, and a greater command of effect. At this period we note the
 beautiful full-length of "Madame van Beresteyn" at the Louvre in Paris,
 and a splendid full-length portrait of "Willem van Heythuysen" leaning
-on a sword in the Liechtenstein collection at Vienna. Both these
+on a sword in the [[Liechtenstein]] collection at Vienna. Both these
 pictures are equalled by the other "Banquet of the officers, of the
 Arquebusiers of St George" (with different portraits) and the "Banquet
 of the officers of the 'Cloveniers Doelen'" or Arquebusiers of St Andrew
@@ -87,26 +87,26 @@ gradually dropped more and more into grey and silvery harmonies of tone;
 and two of his canvases, executed in 1664, "The Regents and Regentesses
 of the Oudemannenhuis" at Haarlem, are masterpieces of colour, though in
 substance all but monochromes. In fact, ever since 1641 Hals had shown a
-tendency to restrict the gamut of his palette, and to suggest colour
+tendency to restrict the [[Gamut|gamut]] of his palette, and to suggest colour
 rather than express it. This is particularly noticeable in his flesh
 tints which from year to year became more grey, until finally the
 shadows were painted in almost absolute black, as in the "Tymane
 Oosdorp," of the Berlin Gallery. As this tendency coincides with the
 period of his poverty, it has been suggested that one of the reasons, if
 not the only reason, of his predilection for black and white pigment was
-the cheapness of these colours as compared with the costly lakes and
+the cheapness of these [[Colours|colours]] as compared with the costly lakes and
 carmines.
 
 As a portrait painter Frans Hals had scarcely the psychological insight
 of a Rembrandt or Velazquez, though in a few works, like the "Admiral de
-Ruyter," in Earl Spencer's collection, the "Jacob Olycan" at the Hague
+Ruyter," in Earl Spencer's collection, the "[[Jacob]] Olycan" at the [[Hague]]
 Gallery, and the "Albert van der Meer" at Haarlem town hall, he reveals
 a searching analysis of character which has little in common with the
 instantaneous expression of his so-called "character" portraits. In
 these he generally sets upon the canvas the fleeting aspect of the
 various stages of merriment, from the subtle, half ironic smile that
-quivers round the lips of the curiously misnamed "Laughing Cavalier" in
-the Wallace Collection to the imbecile grin of the "Hille Bobbe" in the
+quivers round the [[Lip|lips]] of the curiously misnamed "Laughing Cavalier" in
+the Wallace Collection to the [[Imbecile|imbecile]] grin of the "Hille Bobbe" in the
 Berlin Museum. To this group of pictures belong Baron Gustav
 Rothschild's "Jester," the "_Bohemienne_" at the Louvre, and the "Fisher
 Boy" at Antwerp, whilst the "Portrait of the Artist with his second
@@ -125,18 +125,18 @@ student of Velazquez, good examples of the Dutch master have found their
 way into most of the leading public and private collections. In the
 British Isles, besides the works already mentioned, portraits from his
 brush are to be found at the National Gallery, the Edinburgh Gallery,
-the Glasgow Corporation Gallery, Hampton Court, Buckingham Palace,
+the [[Glasgow]] Corporation Gallery, Hampton Court, Buckingham Palace,
 Devonshire House, and the collections of Lord Northbrooke, Lord
 Ellesmere, Lord Iveagh and Lord Spencer.
 
 At Amsterdam is the celebrated "Flute Player," once in the Dupper
 collection at Dort; at Brussels, the patrician "Heythuysen"; at the
-Louvre, "Descartes"; at Dresden, the painter "Van der Vinne." Hals's
+Louvre, "Descartes"; at [[Dresden]], the painter "Van der Vinne." Hals's
 sitters were taken from every class of society--admirals, generals and
 burgomasters pairing with merchants, lawyers, clerks. To register all
 that we find in public galleries would involve much space. There are
 eight portraits at Berlin, six at Cassel, five at St Petersburg, six at
-the Louvre, two at Brussels, five at Dresden, two at Gotha. In private
+the Louvre, two at Brussels, five at Dresden, two at [[Gotha]]. In private
 collections, chiefly in Paris, Haarlem and Vienna, we find an equally
 important number. Amongst the painter's most successful representations
 of fishwives and termagants we should distinguish the "Hille Bobbe" of
@@ -173,7 +173,7 @@ remains second on his own ground to Palamedes. A fair specimen of his
 art is a "Lady playing a Harpsichord to a Young Girl and her Lover" in
 the van der Hoop collection at Amsterdam, now in the Ryks Museum. More
 characteristic, but not better, is a large company of gentle-folk rising
-from dinner, in the Academy at Vienna.
+from [[Dinner|dinner]], in the Academy at Vienna.
 
   LITERATURE.--See W. Bode, _Frans Hals und seine Schule_ (Leipzig,
   1871); W. Unger and W. Vosmaer, _Etchings after Frans Hals_ (Leyden,

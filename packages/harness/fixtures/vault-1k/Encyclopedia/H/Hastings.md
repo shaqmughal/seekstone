@@ -18,14 +18,14 @@ Indies. Thus unfortunate in his birth, young Hastings received the
 elements of education at a charity school in his native village. At the
 age of eight he was taken in charge by an elder brother of his father,
 Howard Hastings, who held a post in the customs. After spending two
-years at a private school at Newington Butts, he was moved to
+years at a private school at Newington [[Butt|Butts]], he was moved to
 Westminster, where among his contemporaries occur the names of Lord
 Thurlow and Lord Shelburne, Sir Elijah Impey, and the poets Cowper and
 Churchill. In 1749, when his headmaster Dr Nichols was already
 anticipating for him a successful career at the university, his uncle
 died, leaving him to the care of a distant kinsman, Mr Creswicke, who
 was afterwards in the direction of the East India Company; and he
-determined to send his ward to seek his fortune as a "writer" in Bengal.
+determined to send his ward to seek his fortune as a "writer" in [[Bengal]].
 
 When Hastings landed at Calcutta in October 1750 the affairs of the East
 India Company were at a low ebb. Throughout the entire south of the
@@ -33,10 +33,10 @@ peninsula French influence was predominant. The settlement of Fort St
 George or Madras, captured by force of arms, had only recently been
 restored in accordance with a clause of the peace of Aix-la-Chapelle.
 The organizing genius of Dupleix everywhere overshadowed the native
-imagination, and the star of Clive had scarcely yet risen above the
+[[Imagination|imagination]], and the star of Clive had scarcely yet risen above the
 horizon. The rivalry between the English and the French, which had
 already convulsed the south, did not penetrate to Bengal. That province
-was under the able government of Ali Vardi Khan, who peremptorily
+was under the able government of Ali Vardi [[Khan]], who peremptorily
 forbade the foreign settlers at Calcutta and Chandernagore to introduce
 feuds from Europe. The duties of a young "writer" were then such as are
 implied in the name. At an early date Hastings was placed in charge of
@@ -62,7 +62,7 @@ part in the action which led to the recovery of Calcutta. Clive showed
 his appreciation of Hastings's merits by appointing him in 1758 to the
 important post of resident at the court of Murshidabad. It was there
 that he first came into collision with the Bengali Brahman, Nuncomar,
-whose subsequent fate has supplied more material for controversy than
+whose subsequent [[Fate|fate]] has supplied more material for controversy than
 any other episode in his career. During his three years of office as
 resident he was able to render not a few valuable services to the
 Company; but it is more important to observe that his name nowhere
@@ -185,7 +185,7 @@ loose with him while the Mahratta army was at hand. The Rohillas were a
 race of Afghan origin, who had established themselves for some
 generations in a fertile tract west of Oudh, between the Himalayas and
 the Ganges, which still bears the name of Rohilkhand. They were not so
-much the occupiers of the soil as a dominant caste of warriors and
+much the occupiers of the soil as a dominant [[Caste|caste]] of warriors and
 freebooters. But in those troubled days their title was as good as any
 to be found in India. After not a little hesitation, Hastings consented
 to allow the Company's troops to be used to further the ambitious
@@ -252,7 +252,7 @@ when Clavering attempted to seize on the governor-generalship, he
 judiciously obtained an opinion from the judges of the supreme court in
 his favour. From that time forth, though he could not always command an
 absolute majority in council, Hastings was never again subjected to
-gross insult, and his general policy was able to prevail.
+[[Gros|gross]] insult, and his general policy was able to prevail.
 
 A crisis was now approaching in foreign affairs which demanded all the
 experience and all the genius of Hastings for its solution. Bengal was
@@ -264,7 +264,7 @@ subdue her rebellious colonists in America. Hastings did not hesitate to
 take upon his own shoulders the whole responsibility of military
 affairs. All the French settlements in India were promptly occupied. On
 the part of Bombay, the Mahratta war was conducted with procrastination
-and disgrace. But Hastings amply avenged the capitulation of Wargaon by
+and disgrace. But Hastings amply avenged the [[Capitulation|capitulation]] of Wargaon by
 the complete success of his own plan of operations. Colonel Goddard with
 a Bengal army marched across the breadth of the peninsula from the
 valley of the Ganges to the western sea, and achieved almost without a
@@ -308,10 +308,10 @@ Mahrattas. A second time the genius of Hastings saved the British empire
 in the east. On the arrival of the news that Hyder had descended from
 the highlands of Mysore, cut to pieces the only British army in the
 field, and swept the Carnatic up to the gates of Madras, he at once
-adopted a policy of extraordinary boldness. He signed a blank treaty of
+adopted a policy of extraordinary boldness. He signed a [[Blank|blank]] treaty of
 peace with the Mahrattas, who were still in arms, reversed the action of
 the Madras government towards the nizam, and concentrated all the
-resources of Bengal against Hyder Ali. Sir Eyre Coote, a general of
+resources of Bengal against [[Hyder Ali]]. Sir Eyre Coote, a general of
 renown in former Carnatic wars, was sent by sea to Madras with all the
 troops and treasure that could be got together; and a strong body of
 reinforcements subsequently marched southwards under Colonel Pearse
@@ -442,7 +442,7 @@ expenditure than by carefulness of acquisition. A classical education
 and the instincts of family pride saved him from both the greed and the
 vulgar display which marked the typical "nabob," the self-made man of
 those days. He could support the position of a governor-general and of a
-country gentleman with equal credit. Concerning his second marriage, it
+country gentleman with equal [[Credit|credit]]. Concerning his second marriage, it
 suffices to say that the Baroness Imhoff was nearly forty years of age,
 with a family of grown-up children, when the complaisant law of her
 native land allowed her to become Mrs Hastings. She survived her

@@ -15,7 +15,7 @@ doctrine of the Millennium (q.v.).
 
 
 CHILLÁN, a city and the capital of the province of Ñuble, in the
-southern part of central Chile, 35° 56' S., 71° 37' W., 246 m. by rail
+southern part of central [[Chile]], 35° 56' S., 71° 37' W., 246 m. by rail
 S.S.W. of Santiago and about 56 m. direct (108 by rail) N.E. of
 Concepción. Pop. (1895) 28,738; (1902, official estimate) 36,382.
 Chillán is one of the most active commercial cities of central Chile,

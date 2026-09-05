@@ -6,7 +6,7 @@ topic: philosophy
 
 # Gros
 
-GROS, ANTOINE JEAN, BARON (1771-1835), French painter, was born at Paris
+GROS, [[Antoine|ANTOINE]] JEAN, BARON (1771-1835), French painter, was born at Paris
 in 1771. His father, who was a miniature painter, began to teach him to
 draw at the age of six, and showed himself from the first an exacting
 master. Towards the close of 1785 Gros, by his own choice, entered the
@@ -23,7 +23,7 @@ at Genoa by the same means, producing a great quantity of miniatures and
 _fixes_. He visited Florence, but returning to Genoa made the
 acquaintance of Josephine, and followed her to Milan, where he was well
 received by her husband. On November 15, 1796, Gros was present with the
-army near Arcola when Bonaparte planted the tricolor on the bridge. Gros
+army near [[Arcola]] when [[Bonaparte]] planted the tricolor on the bridge. Gros
 seized on this incident, and showed by his treatment of it that he had
 found his vocation. Bonaparte at once gave him the post of "inspecteur
 aux revues," which enabled him to follow the army, and in 1797 nominated
@@ -32,7 +32,7 @@ the Louvre. In 1799, having escaped from the besieged city of Genoa,
 Gros made his way to Paris, and in the beginning of 1801 took up his
 quarters in the Capucins. His "esquisse" (Musee de Nantes) of the
 "Battle of Nazareth" gained the prize offered in 1802 by the consuls,
-but was not carried out, owing it is said to the jealousy of Junot felt
+but was not carried out, owing it is said to the [[Jealousy|jealousy]] of [[Junot]] felt
 by Napoleon; but he indemnified Gros by commissioning him to paint his
 own visit to the pest-house of Jaffa. "Les Pestiferes de Jaffa" (Louvre)
 was followed by the "Battle of Aboukir" 1806 (Versailles), and the
@@ -55,9 +55,9 @@ counter to them. In 1810 his "Madrid" and "Napoleon at the Pyramids"
 decoration of the dome of St Genevieve (begun in 1811 and completed in
 1824) is the only work of Gros's later years which shows his early force
 and vigour, as well as his skill. The "Departure of Louis XVIII."
-(Versailles), the "Embarkation of Madame d'Angouleme" (Bordeaux), the
-plafond of the Egyptian room in the Louvre, and finally his "Hercules
-and Diomedes," exhibited in 1835, testify only that Gros's efforts--in
+(Versailles), the "Embarkation of Madame d'Angouleme" ([[Bordeaux]]), the
+plafond of the Egyptian room in the Louvre, and finally his "[[Hercules]]
+and [[Diomedes]]," exhibited in 1835, testify only that Gros's efforts--in
 accordance with the frequent counsels of his old master David--to stem
 the rising tide of Romanticism, served but to damage his once brilliant
 reputation. Exasperated by criticism and the consciousness of failure,
@@ -71,10 +71,10 @@ David quitted Paris and made over his own classes to him. Gros was
 decorated and named baron of the empire by Napoleon, after the Salon of
 1808, at which he had exhibited the "Battle of Eylau." Under the
 Restoration he became a member of the Institute, professor at the Ecole
-des Beaux Arts, and was named chevalier of the order of St Michel.
+des Beaux Arts, and was named [[Chevalier|chevalier]] of the order of St Michel.
 
   M. Delecluze gives a brief notice of his life in _Louis David et son
-  temps_, and Julius Meyer's _Geschichte der modernen franzosischen
+  temps_, and [[Julius]] Meyer's _Geschichte der modernen franzosischen
   Malerei_ contains an excellent criticism on his works.
 
 ## See also

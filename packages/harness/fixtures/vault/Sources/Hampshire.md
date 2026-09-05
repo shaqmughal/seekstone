@@ -2,32 +2,32 @@
 
 HAMPSHIRE (or COUNTY OR SOUTHAMPTON, abbreviated Hants), a southern
 county of England, bounded N. by Berkshire, E. by Surrey and Sussex, S.
-by the English Channel, and W. by Dorsetshire and Wiltshire. The area is
+by the [[English Channel]], and W. by Dorsetshire and Wiltshire. The area is
 1623.5 sq. m. From the coast of the mainland, which is for the most part
 low and irregular, a strait, known in its western part as the Solent,
 and in its eastern as Spithead, separates the Isle of Wight. This island
 is included in the county. The inlet of Southampton Water opens from
 this strait, penetrating inland in a north-westerly direction for 12 m.
 The easterly part of the coast forms a large shallow bay containing
-Hayling and Portsea Islands, which divide it into Chichester Harbour,
+Hayling and Portsea Islands, which divide it into [[Chichester]] Harbour,
 Langston Harbour and Portsmouth Harbour. The westerly part forms the
 more regular indentations of Christchurch Bay and part of Poole Bay. In
 its general aspect Hampshire presents a beautiful variety of gently
 rising hills and fruitful valleys, adorned with numerous mansions and
 pleasant villages, and interspersed with extensive tracts of woodland.
 Low ranges of hills, included in the system to which the general name of
-the Western Downs is given, reach their greatest elevation in the
+the Western [[Downs]] is given, reach their greatest elevation in the
 northern and eastern parts of the county, where there are many
-picturesque eminences, of which Beacon, Sidown and Pilot hills near
+picturesque [[Eminence|eminences]], of which Beacon, Sidown and Pilot hills near
 Highclere in the north-west, each exceeding 850 ft., are the highest.
 The portion of the county west of Southampton Water is almost wholly
 included in the New Forest, a sequestered district, one of the few
 remaining examples of an ancient afforested tract. The river Avon in the
 south-west rises in Wiltshire, and passing Fordingbridge and Ringwood
 falls into Christchurch Bay below Christchurch, being joined close to
-its mouth by the Stour. The Lymington or Boldre river rises in the New
+its mouth by the Stour. The [[Lymington]] or Boldre river rises in the New
 Forest, and after collecting the waters of several brooks falls into the
-Solent through Lymington Creek. The Beaulieu in the eastern part of the
+Solent through Lymington [[Creek]]. The Beaulieu in the eastern part of the
 forest also enters the Solent by way of a long and picturesque estuary.
 The Test rises near Overton in the north, and after its junction with
 the Anton at Fullerton passes Stockbridge and Romsey, and enters the
@@ -42,7 +42,7 @@ Salmon are taken in the Avon.
 
   _Geology._--Somewhat to the north of the centre of the county is a
   broad expanse of hilly chalk country about 21 m. wide; the whole of it
-  has been bent up into a great fold so that the strata on the north dip
+  has been bent up into a great [[Fold|fold]] so that the strata on the north dip
   northward steeply in places, while those on the south dip in the
   opposite direction more gently. In the north the chalk disappears
   beneath Tertiary strata of the "London Basin," and some little
@@ -53,14 +53,14 @@ Salmon are taken in the Avon.
   had removed them from the chalk. These same agencies have exposed the
   strata beneath the chalk over a small area on the eastern border.
 
-  The oldest formation in Hampshire is the Lower Greensand in the
+  The oldest formation in Hampshire is the Lower [[Greensand]] in the
   neighbourhood of Woolmer Forest and Petersfield; it is represented by
-  the Hythe beds, sandstones and limestones which form the high ridge
+  the [[Hythe]] beds, sandstones and [[Limestone|limestones]] which form the high ridge
   which runs on towards Hind Head, then by the sands and clays of the
   Sandgate beds which lie in the low ground west of the ridge, and
-  finally by the Folkestone beds; all these dip westward beneath the
-  Gault. The last-named formation, a clay, worked here and there for
-  bricks, crops out as a narrow band from Fareham through Worldham and
+  finally by the [[Folkestone]] beds; all these dip westward beneath the
+  [[Gault]]. The last-named formation, a clay, worked here and there for
+  [[Brick|bricks]], crops out as a narrow band from [[Fareham]] through Worldham and
   Stroud common to Petersfield. Between the Gault and the chalk is the
   Upper Greensand with a hard bed of calcareous sandstone, the Malm
   rock, which stands up in places as a prominent escarpment. The Upper
@@ -69,18 +69,18 @@ Salmon are taken in the Avon.
   its crest, the older sandy strata are brought to light. A much more
   gentle anticline brings up the chalk through the Tertiary rocks in the
   neighbourhood of Fareham. Besides occupying the central region already
-  mentioned, which includes Basingstoke, Whitchurch, Andover, Alresford
+  mentioned, which includes [[Basingstoke]], Whitchurch, Andover, Alresford
   and Winchester, the chalk appears also in a small patch round
   Rockbourne. The Tertiary rocks of the north (London basin) about
   Farnborough, Aldershot and Kingsclere, comprise the Reading beds,
-  London clay and the more sandy Bagshot beds which cover the latter in
+  [[London Clay|London clay]] and the more sandy Bagshot beds which cover the latter in
   many places, giving rise to heathy commons. The southern Tertiary
   rocks of the Hampshire basin include the Lower Eocene Reading
   beds--used for brick-making--and the London clay which extend from the
   boundary of the chalk by Romsey, Bishop's Waltham, to Havant. These
   are succeeded towards the south by the Upper Eocene beds, the
-  Bracklesham beds and the Barton clay. The Barton clays are noted for
-  their abundant fossils and the Bagshot beds at Bournemouth contain
+  Bracklesham beds and the [[Barton]] clay. The Barton clays are noted for
+  their abundant fossils and the Bagshot beds at [[Bournemouth]] contain
   numerous remains of subtropical plants. A series of clays and sands of
   Oligocene age (unknown in the London basin) are found in the vicinity
   of Lymington, Brockenhurst and Beaulieu; they include the Headon beds,
@@ -94,21 +94,21 @@ Salmon are taken in the Avon.
   is under cultivation (an amount below the average of English counties)
   and of this area about two-fifths is in permanent pasture. The acreage
   under oats is roughly equal to that under wheat and barley. Small
-  quantities of rye and hops are cultivated. Barley is usually sown
+  quantities of rye and [[Hop|hops]] are cultivated. Barley is usually sown
   after turnips, and is more grown in the uplands than in the lower
-  levels. Beans, pease and potatoes are only grown to a small extent. On
+  levels. [[Bean|Beans]], pease and potatoes are only grown to a small extent. On
   account of the number of sheep pastured on the uplands a large acreage
-  of turnips is grown. Rotation grasses are grown chiefly in the
+  of turnips is grown. Rotation [[Grasses|grasses]] are grown chiefly in the
   uplands, and their acreage is greater than in any other of the
   southern counties of England. Sanfoin is the grass most largely grown,
   as it is best adapted to land with a calcareous subsoil. In the lower
-  levels no sanfoin and scarcely any clover is grown, the hay being
+  levels no sanfoin and scarcely any [[Clover|clover]] is grown, the [[Hay|hay]] being
   supplied from the rich water meadows, which are managed with great
   skill and attention, and give the best money return of any lands in
   the county. Where a rapid stream of water can be passed over them
   during the winter it seldom becomes frozen, and the grasses grow
   during the cold weather so as to be fit for pasture before any traces
-  of vegetation appear in the surrounding fields. Hops are grown in the
+  of vegetation appear in the surrounding [[Fields|fields]]. Hops are grown in the
   eastern part of the county bordering on Surrey. Farming is generally
   conducted on the best modern principles, but owing to the varieties of
   soil there is perhaps no county in England in which the rotation
@@ -120,25 +120,25 @@ Salmon are taken in the Avon.
   Alice Holt, in the south-east the Forest of Bere and Waltham Chase,
   and in the Isle of Wight Parkhurst Forest. The honey of the county is
   especially celebrated. Much attention is paid to the rearing of sheep
-  and cattle. The original breed of sheep was white-faced with horns,
+  and cattle. The original breed of sheep was white-faced with [[Horn|horns]],
   but most of the flocks are now of a Southdown variety which have
   acquired certain distinct peculiarities, and are known as "short
   wools" or "Hampshire downs." Cattle are of no distinctive breed, and
   are kept largely for dairy purposes, especially for the supply of
   milk. The breeding and rearing of horses is widely practised, and the
   fattening of pigs has long been an important industry. The original
-  breed of pigs is crossed with Berkshire, Essex and Chinese pigs. In
+  breed of pigs is crossed with Berkshire, [[Essex]] and Chinese pigs. In
   the vicinity of the forest the pigs are fed on acorns and beechmast,
   and the flesh of those so reared is considered the best, though the
   reputation of Hampshire bacon depends chiefly on the skilful manner in
   which it is cured.
 
   The manufactures are unimportant, except those carried on at
-  Portsmouth and Gosport in connexion with the royal navy. Southampton
+  Portsmouth and [[Gosport]] in connexion with the royal navy. Southampton
   is one of the principal ports in the kingdom. In many of the towns
   there are breweries and tanneries, and paper is manufactured at
-  several places. Fancy pottery and terra-cotta are made at Fareham and
-  Bishop's Waltham; and Ringwood is celebrated for its knitted gloves.
+  several places. [[Fancy]] pottery and terra-cotta are made at Fareham and
+  Bishop's Waltham; and Ringwood is celebrated for its knitted [[Glove|gloves]].
   At most of the coast towns fishing is carried on, and there are oyster
   beds at Hayling Island. Cowes in the Isle of Wight is the station of
   the Royal Yacht Squadron, and has building yards for yachts and large
@@ -148,7 +148,7 @@ Salmon are taken in the Avon.
   British Isles.
 
   _Communications._--Communications are provided mainly by the lines of
-  the London & South-Western railway company, which also owns the docks
+  the London & South-Western railway company, which also owns the [[Dock|docks]]
   at Southampton. The main line serves Farnborough, Basingstoke,
   Whitchurch and Andover, and a branch diverges southward from
   Basingstoke for Winchester, Southampton and the New Forest and
@@ -162,7 +162,7 @@ Salmon are taken in the Avon.
   Southampton. The Great Western company serves Basingstoke from Reading
   and Whitchurch, Winchester and Southampton from Didcot (working the
   Didcot, Newbury & Southampton line); the Midland & South-Western
-  Junction line connects Andover with Cheltenham; and the Somerset &
+  Junction line connects Andover with [[Cheltenham]]; and the Somerset &
   Dorset (also a Midland & South-Western joint line) connects
   Bournemouth with Bath--all these affording through communications
   between Southampton, Bournemouth, and the midlands and north of
@@ -190,7 +190,7 @@ Salmon are taken in the Avon.
   Havant (3837), Itchen (13,097), Petersfield (3265), Warblington
   (3639); and in the Isle of Wight, Cowes (8652), East Cowes (3196), St
   Helen's (4652), Sandown (5006), Shanklin (4533), Ventnor (5866). The
-  county is in the western circuit, and assizes are held at Winchester.
+  county is in the western circuit, and [[Assize|assizes]] are held at Winchester.
   It has one court of quarter sessions, and is divided into 14 petty
   sessional divisions. The boroughs of Andover, Basingstoke,
   Bournemouth, Lymington, Newport, Portsmouth, Romsey, Ryde, Southampton
@@ -223,21 +223,21 @@ alleged destruction of property for the formation of the New Forest is
 refuted by the Domesday record, which shows that this district had never
 been under cultivation.
 
-In the civil war of Stephen's reign Baldwin de Redvers, lord of the Isle
+In the civil war of Stephen's reign [[Baldwin]] de Redvers, lord of the Isle
 of Wight, supported the empress Matilda, and Winchester Castle was
 secured in her behalf by Robert of Gloucester, while the neighbouring
-fortress of Wolvesey was held for Stephen by Bishop Henry de Blois. In
+fortress of Wolvesey was held for Stephen by Bishop Henry de [[Blois]]. In
 1216 Louis of France, having arrived in the county by invitation of the
 barons, occupied Winchester Castle, and only met with resistance at
 Odiham Castle, which made a brave stand against him for fifteen days.
-During the Wars of the Roses Anthony Woodville, 2nd earl Rivers,
-defeated the duke of Clarence at Southampton, and in 1471, after the
+During the Wars of the Roses [[Anthony]] Woodville, 2nd earl Rivers,
+defeated the duke of [[Clarence]] at Southampton, and in 1471, after the
 battle of Barnet, the countess of Warwick took sanctuary at Beaulieu
 Abbey. The chief events connected with Hampshire in the Civil War of the
-17th century were the gallant resistance of the cavalier garrisons at
+17th century were the gallant resistance of the cavalier [[Garrison|garrisons]] at
 Winchester and Basing House; a skirmish near Cheriton in 1644 notable as
 the last battle fought on Hampshire soil; and the concealment of Charles
-at Titchfield in 1647 before his removal to Carisbrooke. The duke of
+at Titchfield in 1647 before his removal to [[Carisbrooke]]. The duke of
 Monmouth, whose rebellion met with considerable support in Hampshire,
 was captured in 1685 near Ringwood.
 
@@ -274,13 +274,13 @@ in number, and the archdeaconry of the Isle of Wight was divided into
 the deaneries of East Wight and West Wight.
 
 After the Conquest the most powerful Hampshire baron was William
-Fitz-Osbern, who in addition to the lordship of the Isle of Wight held
+[[Fitz-Osbern]], who in addition to the lordship of the Isle of Wight held
 considerable estates on the mainland. At the time of the Domesday Survey
 the chief landholders were Hugh de Port, ancestor of the Fitz-Johns;
 Ralf de Mortimer; William Mauduit whose name is preserved in Hartley
-Mauditt; and Waleran, called the Huntsman, ancestor of the Waleraund
-family. Hursley near Winchester was the seat of Richard Cromwell; and
-Gilbert White, the naturalist, was curate of Farringdon near Selborne.
+Mauditt; and Waleran, called the [[Huntsman]], ancestor of the Waleraund
+family. Hursley near Winchester was the seat of Richard [[Cromwell]]; and
+Gilbert White, the naturalist, was [[Curate|curate]] of Farringdon near Selborne.
 
 Apart from the valuable foreign and shipbuilding trade which grew up
 with the development of its ports, Hampshire has always been mainly an
@@ -328,12 +328,12 @@ Romsey, endowed soon after the Conquest. There are many churches of
 interest, apart from the cathedral church of Winchester and those in
 some of the towns in the Isle of Wight, or already mentioned in
 connexion with monastic foundations. Pre-Conquest work is well shown in
-the churches of Corhampton and Breamore, and very early masonry is also
-found in Headbourne Worthy church, where is also a brass of the 15th
-century to a scholar of Winchester College in collegiate dress. The most
+the churches of Corhampton and Breamore, and very early [[Masonry|masonry]] is also
+found in Headbourne Worthy church, where is also a [[Brass|brass]] of the 15th
+century to a scholar of Winchester College in collegiate [[Dress|dress]]. The most
 noteworthy Norman churches are at Chilcombe and Kingsclere and (with
 Early English additions) at Brockenhurst, Upper Clatford, which has the
-unusual arrangement of a double chancel arch, Hambledon, Milford and
+unusual arrangement of a double [[Chancel|chancel]] [[Arch|arch]], Hambledon, Milford and
 East Meon. Principally Early English are the churches of Cheriton,
 Grately, which retains some excellent contemporary stained glass from
 Salisbury cathedral; Sopley, which is partly Perpendicular; and
@@ -342,13 +342,13 @@ a very early example of complete plate armour. Specimens of the later
 styles are generally less remarkable. The frescoes in Bramley church,
 ranging in date from the 13th to the 15th century, include a
 representation of the murder of Thomas a Beckett. A fine series of
-Norman fonts in black marble should be mentioned; they occur in
+Norman fonts in black [[Marble|marble]] should be mentioned; they occur in
 Winchester cathedral and the churches of St Michael, Southampton, East
-Meon and St Mary Bourne.
+Meon and St Mary [[Bourne]].
 
 The most notable old castles are Carisbrooke in the Isle of Wight;
 Porchester, a fine Norman stronghold embodying Roman remains, on
-Portsmouth Harbour; and Hurst, guarding the mouth of the Solent, where
+Portsmouth Harbour; and [[Hurst]], guarding the mouth of the Solent, where
 for a short time Charles I. was imprisoned. Henry VIII. built several
 forts to guard the Solent, Spithead and Southampton Water; Hurst Castle
 was one, and others remaining, but adapted to various purposes, are at
@@ -356,9 +356,9 @@ Cowes, Calshot and Netley. Fine mansions are unusually numerous. That of
 Stratfieldsaye or Strathfieldsaye, which belonged to the Pitt family,
 was purchased by parliament for presentation to the duke of Wellington
 in 1817, his descendants holding the estate from the Crown in
-consideration of the annual tribute of a flag to the guard-room at
+consideration of the annual tribute of a [[Flag|flag]] to the guard-room at
 Windsor. A statue of the duke stands in the grounds, and his war-horse
-"Copenhagen" is buried here. The name of Tichborne Park, near Alresford,
+"[[Copenhagen]]" is buried here. The name of Tichborne Park, near Alresford,
 is well known in connexion with the famous claimant of the estates whose
 case was heard in 1871. Among ancient mansions the Jacobean Bramshill is
 conspicuous, lying near Stratfieldsaye in the north of the county. It is

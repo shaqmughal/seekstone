@@ -3,7 +3,7 @@
 LAURIUM ([Greek: Laurion], mod. ERGASTIRI), a mining town in Attica,
 Greece, famous for the silver mines which were one of the chief sources
 of revenue of the Athenian state, and were employed for coinage. After
-the battle of Marathon, Themistocles persuaded the Athenians to devote
+the battle of [[Marathon]], Themistocles persuaded the Athenians to devote
 the revenue derived from the mines to shipbuilding, and thus laid the
 foundation of the Athenian naval power, and made possible the victory of
 Salamis. The mines, which were the property of the state, were usually
@@ -16,7 +16,7 @@ Pausanias speaks of the mines as a thing of the past. The ancient
 workings, consisting of shafts and galleries for excavating the ore, and
 pans and other arrangements for extracting the metal, may still be seen.
 The mines are still worked at the present day by French and Greek
-companies, but mainly for lead, manganese and cadmium. The population of
+companies, but mainly for lead, manganese and [[Cadmium|cadmium]]. The population of
 the modern town was 10,007 in 1907.
 
   See E. Ardaillon, "Les Mines du Laurion dans l'antiquité," No. lxxvii.

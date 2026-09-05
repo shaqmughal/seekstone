@@ -2,14 +2,14 @@
 
 DOG-FISH, a name applied to several species of the smaller sharks, and
 given in common with such names as hound and beagle, owing to the habit
-these fishes have of pursuing or hunting their prey in packs. The
+these fishes have of pursuing or [[Hunting|hunting]] their prey in packs. The
 small-spotted dog-fish or rough hound (_Scyllium canicula_) and the
-large-spotted or nurse hound (_Scyllium catulus_) are also known as
+large-spotted or nurse hound (_Scyllium [[Catulus|catulus]]_) are also known as
 ground-sharks. They keep near the sea bottom, feeding chiefly on the
 smaller fishes and Crustacea, and causing great annoyance to the
 fishermen by the readiness with which they take bait. They differ from
 the majority of sharks, and resemble the rays in being oviparous. The
-eggs are enclosed in semi-transparent horny cases, known on the British
+[[Egg|eggs]] are enclosed in semi-transparent horny cases, known on the British
 coasts as "mermaids' purses," and these have tendril-like prolongations
 from each of the four corners, by means of which they are moored to
 sea-weed or some other fixed object near the shore, until the young

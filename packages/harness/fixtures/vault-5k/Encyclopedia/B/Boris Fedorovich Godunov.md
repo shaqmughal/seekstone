@@ -2,21 +2,21 @@
 
 BORIS FEDOROVICH GODUNOV, tsar of Muscovy (c. 1551-1605), the most
 famous member of an ancient, now extinct, Russian family of Tatar
-origin, which migrated from the Horde to Muscovy in the 14th century.
+origin, which migrated from the [[Horde]] to Muscovy in the 14th century.
 Boris' career of service began at the court of Ivan the Terrible. He is
 mentioned in 1570 as taking part in the Serpeisk campaign as one of the
 archers of the guard. In 1571 he strengthened his position at court by
 his marriage with Maria, the daughter of Ivan's abominable favourite
-Malyuta Skuratov. In 1580 the tsar chose Irene, the sister of Boris, to
+Malyuta Skuratov. In 1580 the tsar [[Chose|chose]] Irene, the sister of Boris, to
 be the bride of the tsarevich Theodore, on which occasion Boris was
 promoted to the rank of _boyar_. On his deathbed Ivan appointed Boris
-one of the guardians of his son and successor; for Theodore, despite his
+one of the [[Guardian|guardians]] of his son and successor; for Theodore, despite his
 seven-and-twenty years, was of somewhat weak intellect. The reign of
 Theodore began with a rebellion in favour of the infant tsarevich
-Demetrius, the son of Ivan's fifth wife Marie Nagaya, a rebellion
+[[Demetrius]], the son of Ivan's fifth wife Marie Nagaya, a rebellion
 resulting in the banishment of Demetrius, with his mother and her
-relations, to their appanage at Uglich. On the occasion of the tsar's
-coronation (May 31, 1584), Boris was loaded with honours and riches, yet
+relations, to their [[Appanage|appanage]] at Uglich. On the occasion of the tsar's
+[[Coronation|coronation]] (May 31, 1584), Boris was loaded with honours and riches, yet
 he held but the second place in the regency during the lifetime of his
 co-guardian Nikita Romanovich, on whose death, in August, he was left
 without any serious rival. A conspiracy against him of all the other
@@ -56,7 +56,7 @@ or ignorant contemporaries who hated Godunov's reforms as novelties.
 On the death of the childless tsar Theodore (January 7, 1598),
 self-preservation quite as much as ambition constrained Boris to seize
 the throne. Had he not done so, lifelong seclusion in a monastery would
-have been his lightest fate. His election was proposed by the patriarch
+have been his lightest [[Fate|fate]]. His election was proposed by the patriarch
 Job, who acted on the conviction that Boris was the one man capable of
 coping with the extraordinary difficulties of an unexampled situation.
 Boris, however, would only accept the throne from a _Zemsky Sobor_, or

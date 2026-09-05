@@ -15,7 +15,7 @@ marshy space between the Palatine and Capitoline hills (also called
 Forum Romanum), which probably even during the regal period afforded the
 accommodation necessary for such public meetings as could not be held
 within the area Capitolina. In early times the Forum Romanum was used
-for athletic games, and over the porticoes were galleries for
+for athletic [[Games|games]], and over the porticoes were galleries for
 spectators; there were also shops of various kinds. But with the growth
 of the city and the increase of provincial business, more than one forum
 became necessary, and under the empire a considerable number of
@@ -42,11 +42,11 @@ and the two main streets crossed one another close to but not through
 it. At Timgad the main streets are some 5 or 6 ft. lower than the forum.
 The word _forum_ frequently appears in the names of Roman market towns;
 as, for example, in Forum Appii, Forum Julii (_Frejus_), Forum Livii
-(_Forli_), Forum Sempronii (_Fossombrone_). These _fora_ were
+(_[[Forli]]_), Forum Sempronii (_Fossombrone_). These _fora_ were
 distinguished from mere _vici_ by the possession of a municipal
 organization, which, however, was less complete than that of a
 prefecture. In legal phraseology, which distinguishes the _forum
-commune_ from the _forum privilegiatum_, and the _forum generale_ from
+[[Commune|commune]]_ from the _forum privilegiatum_, and the _forum generale_ from
 the _forum speciale_, the word is practically equivalent to "court" or
 "jurisdiction."
 

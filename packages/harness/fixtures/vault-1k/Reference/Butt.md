@@ -6,7 +6,7 @@ topic: theology-islamic-theory
 
 # Butt
 
-BUTT, ISAAC (1813-1879), Irish lawyer and Nationalist leader, was born at
+BUTT, [[Isaac|ISAAC]] (1813-1879), Irish lawyer and Nationalist leader, was born at
 Glenfin, Donegal, in 1813, his father being the Episcopalian rector of
 Stranorlar. Having won high honours at Trinity, Dublin, he was appointed
 professor of political economy in 1836. In 1838 he was called to the bar,

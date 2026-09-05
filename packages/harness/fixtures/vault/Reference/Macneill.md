@@ -2,7 +2,7 @@
 
 MACNEILL, HECTOR (1746-1818), Scottish poet, was born near Roslin,
 Midlothian, on the 22nd of October 1746, the son of an impoverished army
-captain. He went to Bristol as a clerk at the age of fourteen, and soon
+captain. He went to [[Bristol]] as a clerk at the age of fourteen, and soon
 afterwards was despatched to the West Indies. From 1780 to 1786 he acted
 as assistant secretary on board the flagships of Admiral Geary and Sir
 Richard Bickerton (1727-1792). Most of his later life was spent in

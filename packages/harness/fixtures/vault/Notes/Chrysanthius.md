@@ -1,7 +1,7 @@
 # Chrysanthius
 
 CHRYSANTHIUS, a Greek philosopher of the 4th century A.D., of the school
-of Iamblichus. He was one of the favourite pupils of Aedesius, and
+of [[Iamblichus]]. He was one of the favourite pupils of Aedesius, and
 devoted himself mainly to the mystical side of Neoplatonism (q.v.). The
 emperor Julian (q.v.) went to him by the advice of Aedesius, and
 subsequently invited him to come to court, and assist in the projected
@@ -11,7 +11,7 @@ the scheme was unlikely to bear fruit. For the same reason he abstained
 from drastic religious reforms in his capacity as high-priest of Lydia.
 As a result of his moderation, he remained high-priest till his death,
 venerated alike by Christians and pagans. His wife Melite, who was
-associated with him in the priestly office, was a kinswoman of Eunapius
+associated with him in the priestly office, was a kinswoman of [[Eunapius]]
 the biographer.
 
 ## See also

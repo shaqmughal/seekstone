@@ -8,9 +8,9 @@ tags: [natural-history, history]
 # Gluckstadt
 
 GLUCKSTADT, a town of Germany, in the Prussian province of
-Schleswig-Holstein, on the right bank of the Elbe, at the confluence of
+Schleswig-Holstein, on the right bank of the [[Elbe]], at the confluence of
 the small river Rhin, and 28 m. N.W. of Altona, on the railway from
-Itzehoe to Elmshorn. Pop. (1905) 6586. It has a Protestant and a Roman
+Itzehoe to [[Elmshorn]]. Pop. (1905) 6586. It has a Protestant and a Roman
 Catholic church, a handsome town-hall (restored in 1873-1874), a
 gymnasium, a provincial prison and a penitentiary. The inhabitants are
 chiefly engaged in commerce and fishing; but the frequent losses from

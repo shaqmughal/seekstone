@@ -7,17 +7,17 @@ id: 42-5015
 
 # Arakan
 
-ARAKAN, a division of Lower Burma. It consists of a strip of country
-running along the eastern seaboard of the Bay of Bengal, from the Naaf
-estuary, on the borders of Chittagong, to Cape Negrais. Length from
+ARAKAN, a division of Lower [[Burma]]. It consists of a strip of country
+running along the eastern seaboard of the Bay of [[Bengal]], from the Naaf
+estuary, on the [[Borders|borders]] of [[Chittagong]], to Cape Negrais. Length from
 northern extremity to Cape Negrais, about 400 m.; greatest breadth in
 the northern part, 90 m., gradually diminishing towards the south, as it
 is hemmed in by the Arakan Yoma mountains, until, in the extreme south,
 it tapers away to a narrow strip not more than 15 m. across. The coast
-is studded with islands, the most important of which are Cheduba, Ramree
+is studded with islands, the most important of which are [[Cheduba]], Ramree
 and Shahpura. The division has its headquarters at Akyab and consists of
 four districts--namely, Akyab, Northern Arakan Hill Tracts, Sandoway and
-Kyaukpyu, formerly called Ramree. Its area is 18,540 sq. m. The
+[[Kyaukpyu]], formerly called Ramree. Its area is 18,540 sq. m. The
 population at the time of the British occupation in 1826 did not exceed
 100,000. In 1831 it amounted to 173,000; in 1839 to 248,000, and in 1901
 to 762,102.
@@ -28,10 +28,10 @@ Myu river, an arm of the sea, running a course almost parallel with the
 coast for about 50 m.; (3) the Koladaing river, rising near the Blue
 mountain, in the extreme north-east, and falling into the Bay of Bengal
 a few miles south of the Myu river, navigable by vessels of from 300 to
-400 tons burden for a distance of 40 m. inland; and (4) the Lemyu river,
+400 tons [[Burden|burden]] for a distance of 40 m. inland; and (4) the Lemyu river,
 a considerable stream falling into the bay a few miles south of the
 Koladaing. Farther to the south, owing to the nearness of the range
-which bounds Arakan on the east, the rivers are of but little
+which [[Bounds|bounds]] Arakan on the east, the rivers are of but little
 importance. These are the Talak and the Aeng, navigable by boats; and
 the Sandoway, the Taungup and the Gwa streams, the latter of which alone
 has any importance, owing to its mouth forming a good port of call or
@@ -44,7 +44,7 @@ indigo. The forests produce abundance of excellent oak and teak timber.
 The natives of Arakan trace their history as far back as 2666 B.C., and
 give a lineal succession of 227 native princes down to modern times.
 According to them, their empire had at one period far wider limits, and
-extended over Ava, part of China, and a portion of Bengal. This
+extended over [[Ava]], part of China, and a portion of Bengal. This
 extension of their empire is not, however, corroborated by known facts
 in history. At different times the Moguls and Pegus carried their arms
 into the heart of the country. The Portuguese, during the era of their
@@ -55,7 +55,7 @@ Yandaboo, its history forms part of that of Burma. The old city of
 Arakan, formerly the capital of the province, is situated on an inferior
 branch of the Koladaing river. Its remoteness from the ports and
 harbours of the country, combined with the extreme unhealthiness of its
-situation, have led to its gradual decay subsequently to the formation
+situation, have led to its [[Gradual|gradual]] decay subsequently to the formation
 of the comparatively recent settlement of Akyab, which place is now the
 chief town of the province. The old city (now Myohaung) lies 50 m.
 north-east of Akyab. The Maghs, who form nearly the whole population of
@@ -70,7 +70,7 @@ to Buddhist tenets, and such learning as is esteemed among their
 votaries.
 
 The Arakanese are of Burmese origin, but separated from the parent stock
-by the Arakan Yoma mountains, and they have a dialect and customs of
+by the Arakan Yoma mountains, and they have a [[Dialect|dialect]] and customs of
 their own. Though conquered by the Burmese, they have remained distinct
 from their conquerors.
 

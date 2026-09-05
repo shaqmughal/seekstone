@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chrysobery
 # Chrysoberyl
 
 CHRYSOBERYL, a yellow or green gem-stone, remarkable for its hardness,
-being exceeded in this respect only by the diamond and corundum. The
+being exceeded in this respect only by the diamond and [[Corundum|corundum]]. The
 name suggests that it was formerly regarded as a golden variety of
-beryl; and it is notable that though differing widely from beryl it yet
+[[Beryl|beryl]]; and it is notable that though differing widely from beryl it yet
 bears some relationship to it inasmuch as it contains the element
 beryllium. In chrysoberyl, however, the beryllium exists as an
 aluminate, having the formula BeAl2O4, or BeO·Al2O3. The analysis of a
@@ -34,7 +34,7 @@ Chrysoberyl is not infrequently cloudy, opalescent and chatoyant, and is
 then known as "cymophane" (Gr. [Greek: kyma], a "cloud"). The cloudiness
 is referable to the presence of multitudes of microscopic cavities. Some
 of the cymophane, when cut with a convex surface, forms the most
-valuable kind of cat's-eye (see CAT'S-EYE). A remarkable dichroic
+valuable kind of [[Cat'S-Eye|cat's-eye]] (see CAT'S-EYE). A remarkable dichroic
 variety of chrysoberyl is known as alexandrite (q.v.).
 
 Most chrysoberyl comes from Brazil, chiefly from the district of Minas

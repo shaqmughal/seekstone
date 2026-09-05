@@ -8,17 +8,17 @@ id: 42-8320
 # Flood
 
 FLOOD, HENRY (1732-1791), Irish statesman, son of Warden Flood, chief
-justice of the king's bench in Ireland, was born in 1732, and was
+justice of the king's [[Bench|bench]] in Ireland, was born in 1732, and was
 educated at Trinity College, Dublin, and afterwards at Christ Church,
 Oxford, where he became proficient in the classics. His father was a man
 of good birth and fortune, and he himself married a member of the
-influential Beresford family, who brought him a large fortune. In his
+influential [[Beresford]] family, who brought him a large fortune. In his
 early years he was handsome, witty, good-tempered, and a brilliant
 conversationalist. His judgment was sound, and he had a natural gift of
 eloquence which had been cultivated and developed by study of classical
 oratory and the practice of elocution. Flood therefore possessed every
 personal advantage when, in 1759, he entered the Irish parliament as
-member for Kilkenny in his twenty-seventh year. There was at that time
+member for [[Kilkenny]] in his twenty-seventh year. There was at that time
 no party in the Irish House of Commons that could truly be called
 national, and until a few years before there had been none that deserved
 even the name of an opposition. The Irish parliament was still
@@ -27,7 +27,7 @@ practically no powers of independent legislation, and none of
 controlling the policy of the executive, which was nominated by the
 ministers in London (see GRATTAN, HENRY). Though the great majority of
 the people were Roman Catholics, no person of that faith could either
-enter parliament or exercise the franchise; the penal code, which made
+enter parliament or exercise the franchise; the penal [[Code|code]], which made
 it almost impossible for a Roman Catholic to hold property, to follow a
 learned profession, or even to educate his children, and which in
 numerous particulars pressed severely on the Roman Catholics and
@@ -35,7 +35,7 @@ subjected them to degrading conditions, was as yet unrepealed, though in
 practice largely obsolete; the industry and commerce of Ireland were
 throttled by restrictions imposed, in accordance with the economic
 theories of the period, in the interest of the rival trade of Great
-Britain. Men like Anthony Malone and Hely-Hutchison fully realized the
+Britain. Men like [[Anthony]] [[Malone]] and Hely-Hutchison fully realized the
 necessity for far-reaching reforms, and it only needed the ability and
 eloquence of Flood in the Irish House of Commons to raise up an
 independent party in parliament, and to create in the country a public
@@ -53,8 +53,8 @@ which was the first step towards making the Irish House of Commons in
 some measure representative of public opinion. It had become the
 practice to allow crown patronage in Ireland to be exercised by the
 owners of parliamentary boroughs in return for their undertaking to
-manage the House in the government interest. But during the viceroyalty
-of Lord Townsend the aristocracy, and more particularly these
+[[Manage|manage]] the House in the government interest. But during the viceroyalty
+of Lord Townsend the [[Aristocracy|aristocracy]], and more particularly these
 "undertakers" as they were called, were made to understand that for the
 future their privileges in this respect would be curtailed. When,
 therefore, an opportunity was taken by the government in 1768 for
@@ -84,7 +84,7 @@ parliamentary conditions that were exceedingly unfavourable, and in an
 atmosphere charged with corruption, venality and subserviency, he had
 created a party before which ministers had begun to quail, and had
 inoculated the Protestant constituencies with a genuine spirit of
-liberty and self-reliance."[2] Lord Harcourt, who succeeded Townsend as
+liberty and self-reliance."[2] Lord [[Harcourt]], who succeeded Townsend as
 viceroy, saw that Flood must be conciliated at any price "rather than
 risk the opposition of so formidable a leader." Accordingly, in 1775,
 Flood was offered and accepted a seat in the privy council and the
@@ -103,9 +103,9 @@ Flood continued in office for nearly seven years. During this long
 period he necessarily remained silent on the subject of the independence
 of the Irish parliament, and had to be content with advocating minor
 reforms as occasion offered. He was thus instrumental in obtaining
-bounties on the export of Irish corn to foreign countries and some other
+bounties on the export of Irish [[Corn|corn]] to foreign countries and some other
 trifling commercial concessions. On the other hand he failed to procure
-the passing of a Habeas Corpus bill and a bill for making the judges
+the passing of a [[Habeas Corpus]] bill and a bill for making the judges
 irremovable, while his support of Lord North's American policy still
 more gravely injured his popularity and reputation. But an important
 event in 1778 led indirectly to his recovering to some extent his former
@@ -115,7 +115,7 @@ French invasion, while the English government could provide no troops to
 defend the island. The celebrated volunteer movement was then set on
 foot to meet the emergency; in a few weeks more than 40,000 men,
 disciplined and equipped, were under arms, officered by the country
-gentry, and controlled by the wisdom and patriotism of Lord Charlemont.
+gentry, and controlled by the wisdom and patriotism of Lord [[Charlemont]].
 This volunteer force, in which Flood was a colonel, while vigilant for
 the defence of the island, soon made itself felt in politics. A
 Volunteer Convention, formed with all the regular organization of a
@@ -130,7 +130,7 @@ chagrin that his former services had been to a great extent forgotten,
 and that he was eclipsed by Grattan. When in a debate on the
 constitutional question in 1779 Flood complained of the small
 consideration shown him in relation to a subject which he had been the
-first to agitate, he was reminded that by the civil law "if a man should
+first to agitate, he was reminded that by the [[Civil Law|civil law]] "if a man should
 separate from his wife, and abandon her for seven years, another might
 then take her and give her his protection." But though Flood had lost
 control of the movement for independence of the Irish parliament, the
@@ -166,7 +166,7 @@ parliament for the purpose of obtaining reform.
 
 In 1776 Flood had made an attempt to enter the English House of Commons.
 In 1783 he tried again, this time with success. He purchased a seat for
-Winchester from the duke of Chandos, and for the next seven years he was
+Winchester from the duke of [[Chandos]], and for the next seven years he was
 a member at the same time of both the English and Irish parliaments. He
 reintroduced, but without success, his reform bill in the Irish House in
 1784; supported the movement for protecting Irish industries; but
@@ -180,7 +180,7 @@ political party, he was not successful. His first speech, in opposition
 to Fox's India Bill on the 3rd of December 1783, disappointed the
 expectations aroused by his celebrity. His speech in opposition to the
 commercial treaty with France in 1787 was, however, most able; and in
-1790 he introduced a reform bill which Fox declared to be the best
+1790 he introduced a reform bill which [[Fox]] declared to be the best
 scheme of reform that had yet been proposed, and which in Burke's
 opinion retrieved Flood's reputation. But at the dissolution in the same
 year he lost his seat in both parliaments, and he then retired to
@@ -198,12 +198,12 @@ Mountmorres, a critic by no means partial to Flood, described him as a
 pre-eminently truthful man, and one who detested flattery. Grattan, who
 even after the famous quarrel never lost his respect for Flood, said of
 him that he was the best tempered and the most sensible man in the
-world. In his youth he was genial, frank, sociable and witty; but in
+world. In his youth he was genial, [[Frank|frank]], sociable and witty; but in
 later years disappointment made him gloomy and taciturn. As an orator he
 was less polished, less epigrammatic than Grattan; but a closer reasoner
 and a greater master of sarcasm and invective. Personal ambition often
 governed his actions, but his political judgment was usually sound; and
-it was the opinion of Bentham that Flood would have succeeded in
+it was the opinion of [[Bentham]] that Flood would have succeeded in
 carrying a reform bill which might have preserved Irish parliamentary
 independence, if he had been supported by Grattan and the rest of his
 party in keeping alive the Volunteer Convention in 1783. Though he never
@@ -214,15 +214,15 @@ produced a more sincere patriot than Henry Flood.
   Grattan, _Memoirs of the Life and Times of the Right Hon. H. Grattan_
   (5 vols., London, 1839-1846); Charles Phillips, _Recollections of
   Curran and some of his Contemporaries_ (London, 1822); _The Irish
-  Parliament 1775_, from an official and contemporary manuscript, edited
-  by William Hunt (London, 1907); W.J. O'Neill Daunt, _Ireland and her
+  Parliament 1775_, from an official and contemporary [[Manuscript|manuscript]], edited
+  by William [[Hunt]] (London, 1907); W.J. O'Neill Daunt, _Ireland and her
   Agitators_; Lord Mountmorres, _History of the Irish Parliament_ (2
   vols., London, 1792); W.E.H. Lecky, _History of England in the
   Eighteenth Century_ (8 vols., London, 1878-1890); and _Leaders of
   Public Opinion in Ireland_ (enlarged edition, 2 vols., London, 1903);
   J.A. Froude, _The English in Ireland_, vols. ii. and iii. (London,
   1881); Horace Walpole, _Memoirs of the Reign of George III._ (4 vols.,
-  London, 1845, 1894); Sir Jonah Barrington, _Rise and Fall of the Irish
+  London, 1845, 1894); Sir [[Jonah]] [[Barrington]], _Rise and Fall of the Irish
   Nation_ (London, 1833); Francis Plowden, _Historical Review of the
   State of Ireland_ (London, 1803); Alfred Webb, _Compendium of Irish
   Biography_ (Dublin, 1878); F. Hardy, _Memoirs of Lord Charlemont_

@@ -9,7 +9,7 @@ still in existence. The history of the city is unknown, though it is
 regarded as probable that it preserved its independence long after the
 Spaniards had taken possession of the rest of the district. The area
 covered by the ruins is approximately 1 sq. m., and other remains are
-found in the neighbouring forest. (See CENTRAL AMERICA: _Archaeology_.)
+found in the neighbouring forest. (See [[Central America|CENTRAL AMERICA]]: _[[Archaeology]]_.)
 
 ## See also
 

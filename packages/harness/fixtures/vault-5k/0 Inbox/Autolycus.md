@@ -23,7 +23,7 @@ Autolycus--who are the incarnate representations of these practices.
 Autolycus is also said to have instructed Heracles in the art of wrestling,
 and to have taken part in the Argonautic expedition.
 
-_Iliad_, x. 267; _Odyssey_, xix. 395; Ovid, _Metam._ xi. 313; Apollodorus
+_Iliad_, x. 267; _Odyssey_, xix. 395; Ovid, _Metam._ xi. 313; [[Apollodorus]]
 i. 9; Hyginus, _Fab._ 201.
 
 ## See also

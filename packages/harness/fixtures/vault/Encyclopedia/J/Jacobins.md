@@ -5,7 +5,7 @@ Revolution. It had its origin in the Club Breton, which was established
 at Versailles shortly after the opening of the States General in 1789.
 It was at first composed exclusively of deputies from Brittany, but was
 soon joined by others from various parts of France, and counted among
-its early members Mirabeau, Sieyès, Barnave, Pétion, the Abbé Grégoire,
+its early members Mirabeau, Sieyès, [[Barnave]], Pétion, the Abbé Grégoire,
 Charles and Alexandre Lameth, Robespierre, the duc d'Aiguillon, and La
 Revellière-Lépeaux. At this time its meetings were secret and little is
 known of what took place at them. After the émeute of the 5th and 6th of
@@ -28,7 +28,7 @@ of others besides deputies; Arthur Young was so admitted on the 18th of
 January 1790. On the 8th of February the society was formally
 constituted on this broader basis by the adoption of the rules drawn up
 by Barnave, which were issued with the signature of the duc d'Aiguillon,
-the president. The objects of the club were defined as (1) to discuss in
+the president. The objects of the club were defined as (1) to [[Discus|discuss]] in
 advance questions to be decided by the National Assembly; (2) to work
 for the establishment and strengthening of the constitution in
 accordance with the spirit of the preamble (i.e. of respect for legally
@@ -76,11 +76,11 @@ the king's dethronement; nor had it any official share even in the
 insurrections of the 20th of June and the 10th of August 1792; it only
 formally recognized the republic on the 21st of September. But the
 character and extent of the club's influence cannot be gauged by its
-official acts alone, and long before it emerged as the principal focus
+official acts alone, and long before it emerged as the principal [[Focus|focus]]
 of the Terror, its character had been profoundly changed by the
 secession of its more moderate elements, some to found the Club of 1789,
 some in 1791--among them Barnave, the Lameths, Duport and Bailly--to
-found the club of the Feuillants scoffed at by their former friends as
+found the club of the [[Feuillants]] scoffed at by their former friends as
 the _club monarchique_. The main cause of this change was the admission
 of the public to the sittings of the club, which began on the 14th of
 October 1791. The result is described in a report of the Department of
@@ -105,18 +105,18 @@ authorities only the shadow of power" (Schmidt, _Tableaux_ i. 78, &c.).
 
 The constituency to which the club was henceforth responsible, and from
 which it derived its power, was in fact the _peuple bête_ of Paris; the
-_sans-culottes_--decayed lackeys, cosmopolitan ne'er-do-wells, and
+_sans-culottes_--decayed lackeys, [[Cosmopolitan|cosmopolitan]] ne'er-do-wells, and
 starving workpeople--who crowded its tribunes. To this audience, and not
 primarily to the members of the club, the speeches of the orators were
 addressed and by its verdict they were judged. In the earlier stages of
 the Revolution the mob had been satisfied with the fine platitudes of
 the _philosophes_ and the vague promise of a political millennium; but
-as the chaos in the body politic grew, and with it the appalling
+as the [[Chaos|chaos]] in the body politic grew, and with it the appalling
 material misery, it began to clamour for the blood of the "traitors" in
 office by whose corrupt machinations the millennium was delayed, and
 only those orators were listened to who pandered to its suspicions.
 Hence the elimination of the moderate elements from the club; hence the
-ascendancy of Marat, and finally of Robespierre, the secret of whose
+ascendancy of [[Marat]], and finally of Robespierre, the secret of whose
 power was that they really shared the suspicions of the populace, to
 which they gave a voice and which they did not shrink from translating
 into action. After the fall of the monarchy Robespierre was in effect
@@ -133,7 +133,7 @@ observers that, at the height of the Terror, the Jacobins could not
 command a force of more than 3000 men in Paris. But the secret of their
 strength was that, in the midst of the general disorganization, they
 alone were organized. The police agent Dutard, in a report to the
-minister Garat (April 30, 1793), describing an episode in the Palais
+minister [[Garat]] (April 30, 1793), describing an episode in the Palais
 Égalité (Royal), adds: "Why did a dozen Jacobins strike terror into two
 or three hundred aristocrats? It is that the former have a
 rallying-point and that the latter have none." When the _jeunesse dorée_
@@ -143,12 +143,12 @@ the Girondin government had been urged to meet organization by
 organization, force by force; and it is clear from the daily reports of
 the police agents that even a moderate display of energy would have
 saved the National Convention from the humiliation of being dominated by
-a club, and the French Revolution from the blot of the Terror. But
+a club, and the [[French Revolution]] from the blot of the Terror. But
 though the Girondins were fully conscious of the evil, they were too
 timid, or too convinced of the ultimate triumph of their own persuasive
 eloquence, to act. In the session of the 30th of April 1793 a proposal
 was made to move the Convention to Versailles out of reach of the
-Jacobins, and Buzot declared that it was "impossible to remain in Paris"
+Jacobins, and [[Buzot]] declared that it was "impossible to remain in Paris"
 so long as "this abominable haunt" should exist; but the motion was not
 carried, and the Girondins remained to become the victims of the
 Jacobins.
@@ -156,10 +156,10 @@ Jacobins.
 Meanwhile other political clubs could only survive so long as they were
 content to be the shadows of the powerful organization of the Rue St
 Honoré. The Feuillants had been suppressed on the 18th of August 1792.
-The turn of the Cordeliers came so soon as its leaders showed signs of
+The turn of the [[Cordeliers]] came so soon as its leaders showed signs of
 revolting against Jacobin supremacy, and no more startling proof of this
-ascendancy could be found than the ease with which Hébert and his
-fellows were condemned and the readiness with which the Cordeliers,
+ascendancy could be found than the ease with which Hé[[Bert|bert]] and his
+[[Fellows|fellows]] were condemned and the readiness with which the Cordeliers,
 after a feeble attempt at protest, acquiesced in the verdict. It is idle
 to speculate on what might have happened had this ascendancy been
 overthrown by the action of a strong government. No strong government
@@ -169,7 +169,7 @@ within, and by a coalition of hostile powers without; the discipline of
 the Terror was perhaps necessary if she was to be welded into a united
 force capable of resisting this double peril; and the revolutionary
 leaders saw in the Jacobin organization the only instrument by which
-this discipline could be made effective. This is the apology usually put
+this discipline could be made effective. This is the [[Apology|apology]] usually put
 forward for the Jacobins by republican writers of later times; they
 were, it is said (and of some of them it is certainly true), no mere
 doctrinaires and visionary sectaries, but practical and far-seeing
@@ -191,22 +191,22 @@ following February (see BABEUF; FRANÇOIS NOEl). The last attempt to
 reorganize them was the foundation of the _Réunion d'amis de l'égalité
 et de la liberté_, in July 1799, which had its headquarters in the
 _Salle du Manège_ of the Tuileries, and was thus known as the _Club du
-Manège_. It was patronized by Barras, and some two hundred and fifty
+Manège_. It was patronized by [[Barras]], and some two hundred and fifty
 members of the two councils of the legislature were enrolled as members,
 including many notable ex-Jacobins. It published a newspaper called the
-_Journal des Libres_, proclaimed the apotheosis of Robespierre and
-Babeuf, and attacked the Directory as a _royauté pentarchique_. But
+_Journal des Libres_, proclaimed the [[Apotheosis|apotheosis]] of Robespierre and
+Babeuf, and attacked the [[Directory]] as a _royauté pentarchique_. But
 public opinion was now preponderatingly moderate or royalist, and the
 club was violently attacked in the press and in the streets, the
 suspicions of the government were aroused; it had to change its
 meeting-place from the Tuileries to the church of the Jacobins (Temple
 of Peace) in the Rue du Bac, and in August it was suppressed, after
 barely a month's existence. Its members revenged themselves on the
-Directory by supporting Napoleon Bonaparte.
+Directory by supporting Napoleon [[Bonaparte]].
 
 Long before the suppression of the Jacobin Club the name of "Jacobins"
 had been popularly applied to all promulgators of extreme revolutionary
-opinions. In this sense the word passed beyond the borders of France and
+opinions. In this sense the word passed beyond the [[Borders|borders]] of France and
 long survived the Revolution. Canning's paper, _The Anti-Jacobin_,
 directed against the English Radicals, consecrated its use in England;
 and in the correspondence of Metternich and other leaders of the
@@ -248,9 +248,9 @@ FOOTNOTES:
 
 
 
-JACOBITE CHURCH. The name of "Jacobites" is first found in a synodal
-decree of Nicaea A.D. 787, and was invented by hostile Greeks for the
-Syrian Monophysite Church as founded, or rather restored, by Jacob or
+JACOBITE CHURCH. The name of "[[Jacobites]]" is first found in a synodal
+[[Decree|decree]] of Nicaea A.D. 787, and was invented by hostile Greeks for the
+Syrian Monophysite Church as founded, or rather restored, by [[Jacob]] or
 James Baradaeus, who was ordained its bishop A.D. 541 or 543. The
 Monophysites, who like the Greeks knew themselves simply as the
 Orthodox, were grievously persecuted by the emperor Justinian and the
@@ -264,7 +264,7 @@ About 528 he went with a fellow-monk Sergius to Constantinople to plead
 the cause of his co-religionists with the empress Theodora, and lived
 there fifteen years. Justinian during those years imprisoned, deprived
 or exiled most of the recalcitrant clergy of Syria, Mesopotamia,
-Cilicia, Cappadocia, and the adjacent regions. Once ordained bishop of
+Cilicia, [[Cappadocia]], and the adjacent regions. Once ordained bishop of
 Edessa, with the connivance of Theodora, James, disguised as a ragged
 beggar (whence his name Baradaeus, Syriac _Burdeana_, Arabic
 _al-Baradia_), traversed these regions preaching, teaching and ordaining
@@ -281,23 +281,23 @@ known. In 1842, when the Rev. G. P. Badger visited the chief Jacobite
 centres, their numbers in all Turkey had dwindled to about 100,000
 souls, owing to vast secessions to Rome. At Aleppo at that date only ten
 families out of several hundred remained true to their old faith, and
-something like the same proportion at Damascus and Bagdad. Badger
+something like the same proportion at [[Damascus]] and Bagdad. Badger
 testifies that the Syrian proselytes to Rome were superior to their
 Jacobite brethren, having established schools, rebuilt their churches,
 increased their clergy, and, above all, having learned to live with each
 other on terms of peace and charity. As late as 1850 there were 150
-villages of them in the Jebel Toor to the north-east of Mardin, 50 in
+villages of them in the [[Jebel]] Toor to the north-east of Mardin, 50 in
 the district of Urfah and Gawar, and a few in the neighbourhoods of
 Diarbekr, Mosul and Damascus. From about 1860, the seceders to Rome were
 able, thanks to French consular protection, to seize the majority of the
 Jacobite churches in Turkey; and this injustice has contributed much to
 the present degradation and impoverishment of the Jacobites.
 
-They used leavened bread in the Eucharist mixed with salt and oil, and
+They used leavened bread in the [[Eucharist]] mixed with salt and oil, and
 like other Monophysites add to the _Trisagion_ the words "Who wast
-crucified for our sake." They venerate pictures or images, and make the
-sign of the cross with one finger to show that Christ had but one
-nature. Deacons, as in Armenia, marry before taking priests' orders.
+crucified for our sake." They venerate pictures or [[Image|images]], and make the
+sign of the cross with one [[Finger|finger]] to show that Christ had but one
+nature. Deacons, as in [[Armenia]], marry before taking priests' orders.
 Their patriarch is styled of Antioch, but seldom comes west of Mardin.
 His _maphrian_ (fertilizer) since 1089 has lived at Mosul and ordains
 the bishops. Monkery is common among them, but there are no nuns. Next
@@ -308,9 +308,9 @@ organization.
 
   See M. Klein, _Jacobus Baradaeus_ (Leiden, 1882); Assemani, _Bibl.
   Or._ ii. 62-69, 326 and 331; G. P. Badger, _The Nestorians_ (London,
-  1852); Rubens Duval, _La litérature syriaque_ (Paris, 1899); G.
-  Krüger, _Monophysitische Streitigkeiten_ (Jena, 1884); Silbernagel,
-  _Verfassung der Kirchen des Orients_ (Landshut, 1865); and G. Wright,
+  1852); Rubens [[Duval]], _La litérature syriaque_ (Paris, 1899); G.
+  Krüger, _Monophysitische Streitigkeiten_ ([[Jena]], 1884); Silbernagel,
+  _Verfassung der Kirchen des Orients_ ([[Landshut]], 1865); and G. Wright,
   _History of Syriac Literature_ (London, 1894).     (F. C. C.)
 
 ## See also

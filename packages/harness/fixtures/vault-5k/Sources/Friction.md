@@ -25,7 +25,7 @@ force at will, and is continually so used, yet it cannot be a primary
 moving force; it can transmit or modify motion already existing, but
 cannot in the first instance cause it. For this some external force, not
 friction, is required. The analogy with stress appears complete; the
-motion of the "driving link" of a machine is communicated to all the
+motion of the "driving link" of a [[Machine|machine]] is communicated to all the
 other parts, modified or unchanged as the case may be, by the stresses
 in those parts; but the actual setting in motion of the driving link
 itself cannot come about by stress, but must have for its production
@@ -107,9 +107,9 @@ not unreasonable to expect that the influence of time upon friction
 should show itself in a comparison of very slow with very rapid motion,
 as well as in a comparison of starting (i.e. motion after a long time of
 rest) with continued motion. That the friction at the higher velocities
-occurring in engineering practice is much less than at common velocities
+occurring in [[Engineering|engineering]] practice is much less than at common velocities
 has been shown by several modern experiments, such as those of Sir
-Douglas Galton (see _Report Brit. Assoc._, 1878, and _Proc. Inst. Mech.
+Douglas [[Galton]] (see _Report Brit. Assoc._, 1878, and _Proc. Inst. Mech.
 Eng._, 1878, 1879) on the friction between brake-blocks and wheels, and
 between wheels and rails. But no increase in the coefficient of friction
 had been detected at slow speeds, until the experiments of Prof.

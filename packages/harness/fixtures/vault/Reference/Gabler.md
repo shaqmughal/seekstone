@@ -8,12 +8,12 @@ type: reference
 # Gabler
 
 GABLER, JOHANN PHILIPP (1753-1826), German Protestant theologian of the
-school of J.J. Griesbach and J.G. Eichhorn, was born at
-Frankfort-on-Main on the 4th of June 1753. In 1772 he entered the
-university of Jena as a theological student. In 1776 he was on the point
+school of J.J. Griesbach and J.G. [[Eichhorn]], was born at
+[[Frankfort-On-Main|Frankfort-on-Main]] on the 4th of June 1753. In 1772 he entered the
+university of [[Jena]] as a theological student. In 1776 he was on the point
 of abandoning theological pursuits, when the arrival of Griesbach
 inspired him with new ardour. After having been successively _Repetent_
-in Gottingen and teacher in the public schools of Dortmund (Westphalia)
+in Gottingen and teacher in the public schools of [[Dortmund]] (Westphalia)
 and Altdorf (Bavaria), he was, in 1785, appointed second professor of
 theology in the university of Altdorf, whence he was translated to a
 chair in Jena in 1804, where he succeeded Griesbach in 1812. Here he
@@ -26,7 +26,7 @@ acumen, and which had considerable influence on the course of German
 thought on theological and Biblical questions. From 1798 to 1800 he was
 editor of the _Neuestes theologisches Journal_, first conjointly with
 H.K.A. Hanlein (1762-1829), C.F. von Ammon (1766-1850) and H.E.G.
-Paulus, and afterwards unassisted; from 1801 to 1804 of the _Journal fur
+Paulus, and afterwards unassisted; from 1801 to 1804 of the _Journal [[Fur|fur]]
 theologische Litteratur_; and from 1805 to 1811 of the _Journal fur
 auserlesene theologische Litteratur_.
 

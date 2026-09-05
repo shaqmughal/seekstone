@@ -3,7 +3,7 @@
 DUDLEY, THOMAS (1576-1653), British colonial governor of Massachusetts,
 was born in Northampton, England, in 1576, a member of the elder branch
 of the family to the younger branch of which Robert Dudley, earl of
-Leicester, belonged. He was the son of a country gentleman of some means
+Leicester, belonged. He was the son of a country [[Gentleman|gentleman]] of some means
 and high standing, was captain of an English company in the French
 expedition of 1597, serving under Henry of Navarre, and eventually
 became the steward of the earl of Lincoln's estates, which he managed
@@ -23,11 +23,11 @@ was more often opposed than in agreement. He was deputy-governor in
 four times, in 1634, 1640, 1645 and 1650. Soon after his arrival in the
 colony he settled at Newton (Cambridge), of which he was one of the
 founders; he was also one of the earliest promoters of the plan for the
-establishment of Harvard College. Winthrop's decision to make Boston the
+establishment of Harvard College. Winthrop's decision to make [[Boston]] the
 capital instead of Newton precipitated the first of the many quarrels
 between the two, Dudley's sterner and harsher Puritanism, being in
 strong contrast to Winthrop's more tolerant and liberal views. He was an
-earnest and persistent heresy-hunter--not only the Antinomians, but
+[[Earnest|earnest]] and persistent heresy-hunter--not only the Antinomians, but
 even such a good Puritan as John Cotton, against whom he brought
 charges, feeling the weight of his stern and remorseless hand. His
 position he himself best expressed in the following brief verse found
@@ -35,7 +35,7 @@ among his papers:
 
   "Let men of God in courts and churches watch
    O'er such as do a Toleration hatch,
-   Lest that ill egg bring forth a Cockatrice
+   Lest that ill [[Egg|egg]] bring forth a Cockatrice
    To poison all with heresy and vice."
 
 He died at Roxbury, Massachusetts, on the 31st of July 1653.
@@ -80,7 +80,7 @@ consist with so great a thirst for honour and power." He died at Roxbury
 on the 2nd of April 1720.
 
 Joseph Dudley's son, PAUL DUDLEY (1675-1751), graduated at Harvard in
-1690, studied law at the Temple in London, and became attorney-general
+1690, studied law at the Temple in London, and became [[Attorney-General|attorney-general]]
 of Massachusetts (1702 to 1718). He was associate justice of the
 superior court of that province from 1718 to 1745, and chief justice
 from 1745 until his death. He was a member of the Royal Society

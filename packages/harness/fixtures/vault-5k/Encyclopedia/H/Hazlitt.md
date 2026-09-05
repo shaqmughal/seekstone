@@ -9,7 +9,7 @@ tags: [drama-theory, history]
 # Hazlitt
 
 HAZLITT, WILLIAM (1778-1830), British literary critic and essayist, was
-born on the 10th of April 1778 at Maidstone, where his father, William
+born on the 10th of April 1778 at [[Maidstone]], where his father, William
 Hazlitt, was minister of a Unitarian congregation. The father took the
 side of the Americans in their struggle with the mother-country, and
 during a residence at Bandon, Co. Cork, interested himself in the
@@ -32,7 +32,7 @@ are related with inimitable skill in a paper in Hazlitt's _Literary
 Remains_ (1839). On visits to his brother in London he made many
 acquaintances, the most important being a friendship with Charles Lamb,
 said to have been founded on a remark of Lamb's interpolated in a
-discussion between Coleridge, Godwin and Holcroft, "Give me man as he is
+discussion between Coleridge, Godwin and [[Holcroft]], "Give me man as he is
 _not_ to be." He also formed an acquaintance with John Stoddart, whose
 sister Sarah he married in 1808. In October 1802 he went to Paris to
 copy portraits in the Louvre, and spent four happy months in Paris. When
@@ -62,8 +62,8 @@ course of lectures at the Russell Institution on the _Rise and Progress
 of Modern Philosophy_. He soon abandoned philosophy, however, to give
 his whole attention to journalism. He was parliamentary reporter and
 subsequently dramatic critic for the _Morning Chronicle_; he also
-contributed to the _Champion_ and _The Times_; but his closest connexion
-was with the _Examiner_, owned by John and Leigh Hunt. In conjunction
+contributed to the _[[Champion]]_ and _The Times_; but his closest connexion
+was with the _Examiner_, owned by John and Leigh [[Hunt]]. In conjunction
 with Leigh Hunt he undertook the series of articles called _The Round
 Table_, a collection of essays on literature, men and manners which
 were originally contributed to the _Examiner_. To this time belong his
@@ -80,10 +80,10 @@ of brilliant but fitful glimpses of insight, but was elaborated with
 steady care. His lectures on the Elizabethan dramatists performed a
 similar service for the earlier, sweeter and simpler among them, such as
 Dekker, till then unduly eclipsed by later writers like Massinger,
-better playwrights but worse poets. Treating of the contemporary drama,
+better playwrights but worse poets. Treating of the contemporary [[Drama|drama]],
 he successfully vindicated for Edmund Kean, whose genius he recognized
 from the first, the high place which he has retained as an actor, and
-his enthusiasm for Mrs Siddons knew no bounds. His criticisms on the
+his [[Enthusiasm|enthusiasm]] for Mrs Siddons knew no bounds. His criticisms on the
 English comic writers and men of letters in general are masterpieces of
 ingenious and felicitous exposition, though rarely, like Coleridge's,
 penetrating to the inmost core of the subject. Moreover, at the time
@@ -98,13 +98,13 @@ and characteristics, but always, whatever his ostensible theme, deriving
 the essence of his commentary from himself. This combination of intense
 subjectivity with strict adherence to his subject is one of Hazlitt's
 most distinctive and creditable traits. Intellectual truthfulness is a
-passion with him. He steeps his topic in the hues of his own
+passion with him. He steeps his topic in the [[Hue|hues]] of his own
 individuality, but never uses it as a means of self-display. The first
 reception of his admirable essays was by no means in accordance with
-their deserts. Hazlitt's political sympathies and antipathies were
+their [[Desert|deserts]]. Hazlitt's political sympathies and antipathies were
 vehement, and he had taken the unfashionable side. _The Quarterly
 Review_ attacked him with deliberate malignity, stopped the sale of his
-writings for a time and blighted his credit with publishers. Hazlitt
+writings for a time and blighted his [[Credit|credit]] with publishers. Hazlitt
 retaliated by his _Letter to William Gifford_ (1819), accusing the
 editor of deliberate misrepresentation. In downright abuse and
 hard-hitting, Hazlitt proved himself more than a match even for Gifford.
@@ -164,7 +164,7 @@ at the expense of refusing to revise his early impressions and
 prejudices. His estimate of a man's work was too apt to be decided by
 sympathy or the reverse with his politics. For Scott, however, he had a
 great admiration, although they were far enough apart in politics. He
-was a compound of intellect and passion, and the refinement of his
+was a [[Compound|compound]] of intellect and passion, and the refinement of his
 critical analysis is associated with vehement eloquence and glowing
 imagery. He was essentially a critic, a dissector and, as Bulwer justly
 remarks, a much better judge of men of thought than of men of action.
@@ -194,7 +194,7 @@ His son, WILLIAM HAZLITT (1811-1893), was born on the 26th of September
 on affectionate terms with both of them. He early began to write for the
 _Morning Chronicle_, and in 1833 married Caroline Reynell. He was the
 author of many translations, chiefly from the French, and of some works
-on the law of bankruptcy. He was called to the bar at the Middle Temple
+on the law of [[Bankruptcy|bankruptcy]]. He was called to the bar at the Middle Temple
 in 1844, and became registrar in the court of bankruptcy. He held this
 position for more than thirty years, retiring two years before his
 death, which took place at Addlestone, Surrey, on the 23rd of February
@@ -206,10 +206,10 @@ school and was called to the bar of the Inner Temple in 1861. Among his
 many publications may be noted his invaluable _Handbook to the Popular,
 Poetical and Dramatic Literature of Great Britain, from the Invention of
 Printing to the Restoration_ (1867), supplemented in 1876, 1882, 1887
-and 1889, a _General Index_ by J. G. Gray appearing in 1893. He
+and 1889, a _General [[Index]]_ by J. G. Gray appearing in 1893. He
 published further contributions to the subject in _Bibliographical
 Collections and Notes on Early English Literature made during the years
-1893-1903_ (1903), and a _Manual for the Collector and Amateur of Old
+1893-1903_ (1903), and a _[[Manual]] for the Collector and Amateur of Old
 English Plays ..._ (1892). He was the chief editor of the useful 1871
 edition of Warton's _History of English Poetry_, and compiled the
 _Catalogue of the Huth Library_ (1880).
@@ -217,12 +217,12 @@ _Catalogue of the Huth Library_ (1880).
   The list of the first William Hazlitt's works also includes:
   _Political Essays, with Sketches of Public Characters_ (1819);
   _Sketches of the Principal Picture Galleries in England ..._ (1824);
-  _Characteristics; in the Manner of Rochefoucauld's Maxims_ (1823);
+  _Characteristics; in the Manner of Rochefoucauld's [[Maxims]]_ (1823);
   _Select Poets of Great Britain: to which are prefixed Critical Notices
   of each Author_ (1825); _Notes of a Journey through France and Italy
   ..._ (1826); _The Life of Titian; with Anecdotes of the Distinguished
   Persons of his Time_ (1830), nominally by James Northcote; an article
-  on the "Fine Arts" contributed to the seventh edition of the
+  on the "[[Fine Arts]]" contributed to the seventh edition of the
   _Encyclopaedia Britannica_; and posthumous collections made by his
   son.
 
@@ -238,10 +238,10 @@ _Catalogue of the Huth Library_ (1880).
   to his _Literary Remains ..._ (2 vols., 1836), accompanied by
   estimates of his intellectual character by Bulwer and by Talfourd, who
   had been his fast friend. There is an excellent monograph on _William
-  Hazlitt_ (1902) by Mr Augustine Birrell, in the "English Men of
+  Hazlitt_ (1902) by Mr Augustine [[Birrell]], in the "English Men of
   Letters" series, and one in French by J. Donady (Paris, 1907), who
   also published a bibliography of his works. Valuable biographical
-  particulars have been preserved in Barry Cornwall's memoirs of Lamb;
+  particulars have been preserved in [[Barry]] Cornwall's memoirs of Lamb;
   in the _My Friends and Acquaintances_ (1854) of Mr P. G. Patmore,
   Hazlitt's most intimate associate in his later years; in Crabb
   Robinson's _Diary_, and in Lamb's correspondence. A full

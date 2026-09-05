@@ -19,7 +19,7 @@ prejudicial to the patrician interest. According to Livy, his proposal
 to bestow a share of the land upon the Latins was regarded with great
 suspicion. According to Mommsen (_Römische Forschungen_, ii.), the whole
 story is an invention of a later age, founded upon the proposals of the
-Gracchi and M. Livius Drusus, to which period belongs the idea of
+Gracchi and M. Livius [[Drusus]], to which period belongs the idea of
 sharing public land with the Latins.
 
   See Livy ii. 33, 41; Dion Halic. v. 49, viii. 69-80; Cicero, _Pro
@@ -30,7 +30,7 @@ The following Cassii are all plebeians. It is suggested that the sons of
 Spurius Cassius either were expelled from, or voluntarily left, the
 patrician order, in consequence of their father's execution.
 
-2. GAIUS CASSIUS LONGINUS, consul 73 B.C. With his colleague, Terentius
+2. GAIUS CASSIUS [[Longinus|LONGINUS]], consul 73 B.C. With his colleague, Terentius
 Varro Lucullus, he passed a law (_lex Terentia Cassia_), the object of
 which was to give authority for the purchase of corn at the public
 expense, to be retailed at a fixed price at Rome. It is doubtful whether
@@ -44,7 +44,7 @@ battle of Mutina.
 
 3. GAIUS CASSIUS LONGINUS, prime mover in the conspiracy against Julius
 Caesar. Little is known of his early life. In 53 B.C. he served in the
-Parthian campaign under M. Licinius Crassus, saved the remnants of the
+Parthian campaign under M. Licinius [[Crassus]], saved the remnants of the
 army after the defeat at Carrhae, and for two years successfully
 repelled the enemy. In 49 B.C. he became tribune of the plebs. The
 outbreak of the civil war saved him from being brought to trial for
@@ -76,14 +76,14 @@ Shakespeare's _Julius Caesar_, though vivid, is scarcely historical.
   iii. 2, 8, iv. 60-62, 87, 90, 111-113, 132; Caesar, _Bell. Civ._ iii.
   101.
 
-4. QUINTUS CASSIUS LONGINUS, the brother or cousin of the murderer of
+4. QUINTUS CASSIUS LONGINUS, the brother or [[Cousin|cousin]] of the murderer of
 Caesar, quaestor of Pompey in Further Spain in 54 B.C. In 49, as tribune
 of the people, he strongly supported the cause of Caesar, by whom he was
 made governor of Further Spain. He treated the provincials with great
-cruelty, and his appointment (48) to take the field against Juba, king
+cruelty, and his appointment (48) to take the field against [[Juba]], king
 of Numidia, gave him an excuse for fresh oppression. The result was an
 unsuccessful insurrection at Corduba. Cassius punished the leaders with
-merciless severity, and made the lot of the provincials harder than
+merciless severity, and made the [[Lot|lot]] of the provincials harder than
 ever. At last some of his troops revolted under the quaestor M.
 Marcellus, who was proclaimed governor of the province. Cassius was
 surrounded by Marcellus in Ulia. Bogud, king of Mauretania, and M.
@@ -102,7 +102,7 @@ greatly injured the cause of Caesar.
 30, proconsul of Asia 40-41, and governor of Syria under Claudius 45-50.
 On his return to Rome his wealth and high character secured him
 considerable influence. He was banished by Nero (65) to Sardinia,
-because among the images of his ancestors he had preserved that of the
+because among the [[Image|images]] of his ancestors he had preserved that of the
 murderer of Caesar. He was recalled by Vespasian, and died at an
 advanced age. As he was consul in 30, he must have been born at the
 latest in the year 3 B.C. Cassius was a pupil of Masurius Sabinus, with
@@ -110,7 +110,7 @@ whom he founded a legal school, the followers of which were called
 Cassiani. His chief work was the _Libri Juris Civilis_ in ten books,
 which was used by the compilers of the _Digest_ of Justinian.
 
-  See Tacitus, _Annals_, xvi. 7-9; Suetonius, _Nero_, 37; Dio Cassius
+  See Tacitus, _[[Annals]]_, xvi. 7-9; Suetonius, _Nero_, 37; Dio Cassius
   lix. 29; Teuffel-Schwabe, _Hist. of Roman Literature_, § 298, 3.
 
 ## See also

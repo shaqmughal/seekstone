@@ -6,12 +6,12 @@ and the details of his creed. We learn, however, from Suidas, and from
 his biographer Eunapius, that he was born at Chalcis in Coele-Syria, the
 scion of a rich and illustrious family, that he studied under Anatolius
 and afterwards under Porphyry, the pupil of Plotinus, that he himself
-gathered together a large number of disciples of different nations with
+gathered together a large number of [[Disciple|disciples]] of different nations with
 whom he lived on terms of genial friendship, that he wrote "various
 philosophical books," and that he died during the reign of
 Constantine,--according to Fabricius, before A.D. 333. His residence
 (probably) at his native town of Chalcis was varied by a yearly visit
-with his pupils to the baths of Gadara. Of the books referred to by
+with his pupils to the baths of [[Gadara]]. Of the books referred to by
 Suidas only a fraction has been preserved. His commentaries on Plato and
 Aristotle, and works on the Chaldaean theology and on the soul, are
 lost. For our knowledge of his system we are indebted partly to the
@@ -44,7 +44,7 @@ was scarcely mentioned without the epithet "divine" or "most divine,"
 while, not content with the more modest eulogy of Eunapius that he was
 inferior to Porphyry only in style, the emperor Julian regarded him as
 not even second to Plato, and said that he would give all the gold of
-Lydia for one epistle of Iamblichus.
+Lydia for one [[Epistle|epistle]] of Iamblichus.
 
 Theoretically, the philosophy of Plotinus was an attempt to harmonize
 the principles of the various Greek schools. At the head of his system
@@ -83,8 +83,8 @@ rank. We read of gods, angels, demons and heroes, of twelve heavenly
 gods whose number is increased to thirty-six or three hundred and sixty,
 and of seventy-two other gods proceeding from them, of twenty-one chiefs
 ([Greek: hegemones]) and forty-two nature-gods ([Greek: theoi
-genesiourgoi]), besides guardian divinities, of particular individuals
-and nations. The world is thus peopled by a crowd of superhuman beings
+genesiourgoi]), besides [[Guardian|guardian]] divinities, of particular individuals
+and nations. The world is thus peopled by a [[Crowd|crowd]] of superhuman beings
 influencing natural events, possessing and communicating knowledge of
 the future, and not inaccessible to prayers and offerings.
 
@@ -100,7 +100,7 @@ and unlimited.
 
 Another difficulty of the system is the account given of nature. It is
 said to be "bound by the indissoluble chains of necessity which men call
-fate," as distinguished from divine things which are not subject to
+[[Fate|fate]]," as distinguished from divine things which are not subject to
 fate. Yet, being itself the result of higher powers becoming corporeal,
 a continual stream of elevating influence flows from them to it,
 interfering with its necessary laws and turning to good ends the
@@ -142,7 +142,7 @@ one, from whom the first god and king spontaneously proceeds; while
 after these follow the ethereal, empyrean, and heavenly gods, and the
 various orders of archangels, angels, demons, and heroes distinguished
 in nature, power, and activity, and in greater profusion than even the
-imagination of Iamblichus had conceived. He says that all the gods are
+[[Imagination|imagination]] of Iamblichus had conceived. He says that all the gods are
 good (though he in another place admits the existence of evil demons who
 must be propitiated), and traces the source of evil to matter; rebuts
 the objection that their answering prayer implies passivity on the part
@@ -164,7 +164,7 @@ from Hermes.
 
 On one point only does the author of the _De mysteriis_ seem not to go
 so far as Iamblichus in thus making philosophy subservient to
-priestcraft. He condemns as folly and impiety the worship of images of
+priestcraft. He condemns as folly and impiety the worship of [[Image|images]] of
 the gods, though his master held that these _simulacra_ were filled with
 divine power, whether made by the hand of man or (as he believed) fallen
 from heaven. But images could easily be dispensed with from the point of
@@ -181,7 +181,7 @@ guard and companion.
   _Exhortation to Philosophy_ ([Greek: Logos protreptikos eis
   philosophian]), ed. T. Kiessling (1813); H. Piselli (1888). (3) The
   treatise _On the General Science of Mathematics_ ([Greek: Peri tês
-  koinês mathêmatkês epistêmês]), ed. J. G. Friis (Copenhagen, 1790), N.
+  koinês mathêmatkês epistêmês]), ed. J. G. Friis ([[Copenhagen]], 1790), N.
   Festa (Leipzig, 1891). (4) The book _On the Arithmetic of Nicomachus_
   ([Greek: Peri tês Nikomachou arithmêtikês eisagôgês]), along with
   fragments on fate ([Greek: Peri heimarmenês]) and prayer ([Greek: Peri
@@ -201,7 +201,7 @@ guard and companion.
 
   There is a monograph on Iamblichus by G. E. Hebenstreit (_De
   Iamblichi, philosophi Syri, doctrina_, Leipzig, 1764), and one of the
-  _De myst._ by Harless (_Das Buch v. d. ägypt. Myst._, Munich, 1858).
+  _De myst._ by Harless (_Das [[Buch]] v. d. ägypt. Myst._, Munich, 1858).
   The best accounts of Iamblichus are those of Zeller, _Phil. d.
   Griechen_, iii. 2, pp. 613 sq., 2nd ed.; E. Vacherot, _Hist. de
   l'école d'Alexandrie_ (1846), ii. 57 sq.; J. Simon, _Hist. de l'école

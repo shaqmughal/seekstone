@@ -14,7 +14,7 @@ at Edinburgh, and finally graduated at Leiden in 1745. Appointed physician
 to the army in 1758, he served in Germany during part of the Seven Years'
 War, and on his return settled down to practise in London. In 1764 he
 published _Economical and Medical Observations_, which contained
-suggestions for improving the hygiene of army hospitals. In his latter
+suggestions for improving the [[Hygiene|hygiene]] of army hospitals. In his latter
 years he withdrew altogether into private life. The circle of his friends
 included some of the most distinguished literary men of the age. He was
 warmly attached to Dr Johnson, to whom about 1784 he offered an annuity of

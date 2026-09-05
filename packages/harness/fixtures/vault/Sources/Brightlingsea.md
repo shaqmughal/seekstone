@@ -9,18 +9,18 @@ id: 42-6736
 # Brightlingsea
 
 BRIGHTLINGSEA (pronounced BRITTLESEA), a port and fishing station in the
-Harwich parliamentary division of Essex, England, on a creek opening from
-the east shore of the Colne estuary, the terminus of a branch from
-Colchester of the Great Eastern railway, 621/2 m. E.N.E. of London. Pop. of
+Harwich parliamentary division of [[Essex]], England, on a [[Creek|creek]] opening from
+the east shore of the [[Colne]] estuary, the terminus of a branch from
+[[Colchester]] of the Great Eastern railway, 621/2 m. E.N.E. of London. Pop. of
 urban district (1901) 4501. The Colchester oyster beds are mainly in this
-part of the Colne, and the oyster fishery is the chief industry.
+part of the Colne, and the oyster [[Fishery|fishery]] is the chief industry.
 Boat-building is carried on. This is also a favourite yachting centre. The
 church of All Saints, principally Perpendicular, has interesting monuments
-and brasses, and a fine lofty tower and west front. Brightlingsea, which
+and [[Brasses|brasses]], and a fine lofty tower and west front. Brightlingsea, which
 appears in Domesday, is a member of the Cinque Port of Sandwich in Kent.
 Near the opposite shore of the creek is St Osyth's priory, which originated
 as a nunnery founded by Osyth, a grand-daughter of Penda, king of Mercia,
-martyred (c. 653) by Norse invaders. A foundation for Augustinian canons
+martyred (c. 653) by Norse invaders. A foundation for [[Augustinian Canons|Augustinian canons]]
 followed on the site early in the 12th century. The remains, incorporated
 with a modern residence, include a late Perpendicular gateway, abbots'
 tower, clock tower and crypt. The gateway, an embattled structure with

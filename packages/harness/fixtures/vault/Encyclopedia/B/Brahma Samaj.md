@@ -8,11 +8,11 @@ type: source
 # Brahma Samaj
 
 BRAHMA SAMAJ, a religious association in India which owes its origin to
-(Raja) Ram Mohan Roy, who began teaching and writing in Calcutta soon
+(Raja) Ram Mohan Roy, who began teaching and writing in [[Calcutta]] soon
 after 1800. The name means literally the "Church of the One God," and
 the word _Samaj_, like the word Church, bears both a local and a
 universal, or an individual and a collective meaning. Impressed with the
-perversions and corruptions of popular Hinduism, Ram Mohan Roy
+perversions and corruptions of popular [[Hinduism]], Ram Mohan Roy
 investigated the Hindu Shastras, the Koran and the Bible, repudiated the
 polytheistic worship of the Shastras as false, and inculcated the
 reformed principles of monotheism as found in the ancient Upanishads of
@@ -31,10 +31,10 @@ for the worship and adoration of the eternal, unsearchable and immutable
 Being, who is the author and preserver of the universe, but not under
 and by any other name, designation or title, peculiarly used for and
 applied to any particular being or beings by any man or set of men
-whatsoever; and that no graven image, statue or sculpture, carving,
+whatsoever; and that no graven [[Image|image]], statue or sculpture, carving,
 painting, picture, portrait or the likeness of anything shall be
 admitted within the said messuage, building, land, tenements,
-hereditament and premises; and that no sacrifice, offering or oblation
+[[Hereditament|hereditament]] and premises; and that no sacrifice, offering or oblation
 of any kind or thing shall ever be permitted therein; and that no animal
 or living creature shall within or on the said messuage, &c., be
 deprived of life either for religious purposes or food, and that no
@@ -50,21 +50,21 @@ no sermon, preaching, discourse, prayer or hymns be delivered, made or
 used in such worship, but such as have a tendency to the contemplation
 of the Author and Preserver of the universe or to the promotion of
 charity, morality, piety, benevolence, virtue and the strengthening of
-the bonds of union between men of all religious persuasions and creeds."
+the bonds of union between men of all religious persuasions and [[Creeds|creeds]]."
 
 The new faith at this period held to the Vedas as its basis. Ram Mohan
 Roy soon after left India for England, and took up his residence in
-Bristol, where he died in 1835. The Brahma Samaj maintained a bare
-existence till 1841, when Babu Debendra Nath Tagore, a member of a
+[[Bristol]], where he died in 1835. The Brahma Samaj maintained a bare
+existence till 1841, when [[Babu]] Debendra Nath Tagore, a member of a
 famous and wealthy Calcutta family, devoted himself to it. He gave a
 printing-press to the Samaj, and established a monthly journal called
-the _Tattwabodhini Patrika_, to which the Bengali language now owes much
+the _Tattwabodhini Patrika_, to which the [[Bengali]] language now owes much
 for its strength and elegance. About 1850 some of the followers of the
 new religion discovered that the greater part of the Vedas is
 polytheistic, and a schism took place,--the advanced party holding that
-nature and intuition form the basis of faith. Between 1847 and 1858
+nature and [[Intuition|intuition]] form the basis of faith. Between 1847 and 1858
 branch societies were formed in different parts of India, especially in
-Bengal, and the new society made rapid progress, for which it was
+[[Bengal]], and the new society made rapid progress, for which it was
 largely indebted to the spread of English education and the work of
 Christian missionaries. In fact the whole Samaj movement is as distinct
 a product of the contest of Hinduism with Christianity in the 19th
@@ -83,7 +83,7 @@ religion. (5) They believe in the existence of one Supreme God--a God
 endowed with a distinct personality, moral attributes worthy of His
 nature and an intelligence befitting the Governor of the universe, and
 they worship Him alone. They do not believe in any of His incarnations.
-(6) They believe in the immortality and progressive state of the soul,
+(6) They believe in the [[Immortality|immortality]] and progressive state of the soul,
 and declare that there is a state of conscious existence succeeding life
 in this world and supplementary to it as respects the action of the
 universal moral government. (7) They believe that repentance is the only
@@ -100,18 +100,18 @@ calculated to compose and direct the mind towards Him. (12) They do not
 believe in pilgrimages and declare that holiness can only be attained by
 elevating and purifying the mind. (13) They put no faith in rites or
 ceremonies, nor do they believe in penances as instrumental in obtaining
-the grace of God. They declare that moral righteousness, the gaining of
+the [[Grace|grace]] of God. They declare that moral righteousness, the gaining of
 wisdom, divine contemplation, charity and the cultivation of devotional
 feelings are their rites and ceremonies. They further say, govern and
-regulate your feelings, discharge your duties to God and to man, and you
-will gain everlasting blessedness; purify your heart, cultivate
+regulate your feelings, [[Discharge|discharge]] your duties to God and to man, and you
+will gain [[Everlasting|everlasting]] blessedness; purify your heart, cultivate
 devotional feelings and you will see Him who is unseen. (14)
-Theoretically there is no distinction of caste among the Brahmas. They
+Theoretically there is no distinction of [[Caste|caste]] among the Brahmas. They
 declare that we are all the children of God, and therefore must consider
 ourselves as brothers and sisters.
 
 For long the Brahmas did not attempt any social reforms. But about 1865
-the younger section, headed by Babu Keshub Chunder Sen, who joined the
+the younger section, headed by Babu [[Keshub Chunder Sen]], who joined the
 Samaj in 1857, tried to carry their religious theories into practice by
 demanding the abandonment of the external signs of caste distinction.
 This, however, the older members opposed, declaring such innovations to

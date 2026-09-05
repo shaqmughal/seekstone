@@ -1,10 +1,10 @@
 # Fiacre
 
-FIACRE, SAINT (Celt. _Fiachra_), an anchorite of the 7th century, of
+FIACRE, SAINT ([[Celt]]. _Fiachra_), an anchorite of the 7th century, of
 noble Irish descent. We have no information concerning his life in his
 native country. His _Acta_, which have scarcely any historical value,
 relate that he left Ireland, and came to France with his companions. He
-approached St Faro, the bishop of Meaux, to whom he made known his
+approached St [[Faro]], the bishop of [[Meaux]], to whom he made known his
 desire to live a life of solitude in the forest. St Faro assigned him a
 spot called Prodilus (Brodolium), the modern Breuil, in the province of
 Brie. There St Fiacre built a monastery in honour of the Holy Virgin,
@@ -18,8 +18,8 @@ where his shrine may still be seen in the sacristy. Various relics of St
 Fiacre were given to princes and great personages. His festival is
 celebrated on the 30th of August. He is the patron of Brie, and
 gardeners invoke him as their protector. French hackney-coaches received
-the name of _fiacre_ from the Hôtel St Fiacre, in the rue St Martin,
-Paris, where one Sauvage, who was the first to provide cabs for hire,
+the name of _fiacre_ from the Hôtel St Fiacre, in the rue St [[Martin]],
+Paris, where one Sauvage, who was the first to provide [[Cab|cabs]] for hire,
 kept his vehicles.
 
   See _Acta Sanctorum_, Augusti vi. 598-620; J. O'Hanlon, _Lives of the

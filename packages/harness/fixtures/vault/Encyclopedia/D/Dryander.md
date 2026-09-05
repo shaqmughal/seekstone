@@ -1,11 +1,11 @@
 # Dryander
 
-DRYANDER, JONAS (1748-1810), Swedish botanist, was born in 1748. By his
-uncle, Dr Lars Montin, to whom his education was entrusted, he was sent
-to the university of Gothenburg, whence he removed to Lund. After taking
+DRYANDER, [[Jonas|JONAS]] (1748-1810), Swedish botanist, was born in 1748. By his
+uncle, Dr [[Lar|Lars]] Montin, to whom his education was entrusted, he was sent
+to the university of [[Gothenburg]], whence he removed to Lund. After taking
 his degree there in 1776, he studied at Upsala under Linnaeus, and then
 became for a time tutor to a young Swedish nobleman. He next visited
-England, and, on the death of his friend Dr Daniel Charles Solander
+England, and, on the death of his friend Dr [[Daniel]] Charles Solander
 (1736-1782), succeeded him as librarian to Sir Joseph Banks. He was
 librarian to the Royal Society and also to the Linnean Society. Of the
 latter, in 1788, he was one of the founders, and, when it was

@@ -16,7 +16,7 @@ ancient dignity, but the material condition of the town is little in
 keeping with its rank. The head of the gulf of Ismid is gradually
 silting up. The dockyard was closed in 1879, and the port of Ismid is
 now at Darinje, 3(3/4) m. distant, where the Anatolian Railway Company
-have established their workshops and have built docks and a quay.
+have established their workshops and have built [[Dock|docks]] and a quay.
 
 ## References
 

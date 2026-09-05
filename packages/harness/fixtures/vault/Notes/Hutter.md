@@ -2,15 +2,15 @@
 
 HUTTER, LEONHARD (1563-1616), German Lutheran theologian, was born at
 Nellingen near Ulm in January 1563. From 1581 he studied at the
-universities of Strassburg, Leipzig, Heidelberg and Jena. In 1594 he
+universities of Strassburg, Leipzig, Heidelberg and [[Jena]]. In 1594 he
 began to give theological lectures at Jena, and in 1596 accepted a call
 as professor of theology at Wittenberg, where he died on the 23rd of
-October 1616. Hutter was a stern champion of Lutheran orthodoxy, as set
+October 1616. Hutter was a stern [[Champion|champion]] of Lutheran orthodoxy, as set
 down in the confessions and embodied in his own _Compendium locorum
 theologicorum_ (1610; reprinted 1863), being so faithful to his master
 as to win the title of "Luther redonatus."
 
-  In reply to Rudolf Hospinian's _Concordia discors_ (1607), he wrote a
+  In reply to Rudolf Hospinian's _[[Concordia]] discors_ (1607), he wrote a
   work, rich in historical material but one-sided in its apologetics,
   _Concordia concors_ (1614), defending the formula of Concord, which he
   regarded as inspired. His _Irenicum vere christianum_ is directed
@@ -20,7 +20,7 @@ as to win the title of "Luther redonatus."
   _Calvinista aulopoliticus_ (1610) was written against the "damnable
   Calvinism" which was becoming prevalent in Holstein and Brandenburg.
   Another work, based on the formula of Concord, was entitled _Loci
-  communes theologici_.
+  [[Commune|communes]] theologici_.
 
 ## References
 

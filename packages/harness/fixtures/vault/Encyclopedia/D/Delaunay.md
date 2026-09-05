@@ -14,13 +14,13 @@ perfection for the sincerity and severity of the quattrocentists. As a
 pure and firm draughtsman he stands second only to Ingres. After his
 return from Rome he was entrusted with many important commissions for
 decorative paintings, such as the frescoes in the church of St Nicholas
-at Nantes; the three panels of "Apollo," "Orpheus" and "Amphion" at the
+at Nantes; the three panels of "[[Apollo]]," "Orpheus" and "Amphion" at the
 Paris opera-house; and twelve paintings for the great hall of the
 council of state in the Palais Royal. His "Scenes from the Life of St
 Genevieve," which he designed for the Pantheon, remained unfinished at
 his death. The Luxembourg Museum has his famous "Plague in Rome" and a
 nude figure of "Diana"; and the Nantes Museum, the "Lesson on the
-Flute." In the last decade of his life he achieved great popularity as a
+[[Flute]]." In the last decade of his life he achieved great popularity as a
 portrait painter.
 
 ## See also

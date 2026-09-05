@@ -17,7 +17,7 @@ clothing, but of the preparing and finishing of leather, the preparation
 of food for eating, the application of cleansing and healing substances
 or of bandages, &c., to a wound, the drawing up in a correct line of a
 body of troops, and, generally, adorning or decking out, as of a ship
-with flags. In the language of the theatre the "dresser" is the person
+with [[Flag|flags]]. In the language of the theatre the "dresser" is the person
 who looks after the actor's wardrobe and assists him in the changing of
 his costumes. For the printer's use of "dresser" see TYPOGRAPHY.
 

@@ -1,21 +1,21 @@
 # Didymi
 
-DIDYMI, or DIDYMA (mod. _Hieronta_), an ancient sanctuary of Apollo in
+DIDYMI, or DIDYMA (mod. _Hieronta_), an ancient sanctuary of [[Apollo]] in
 Asia Minor situated in the territory of Miletus, from which it was
 distant about 10 m. S. and on the promontory Poseideion. It was
-sometimes called _Branchidae_ from the name of its priestly caste which
+sometimes called _Branchidae_ from the name of its priestly [[Caste|caste]] which
 claimed descent from Branchus, a youth beloved by Apollo. As the seat of
 a famous oracle, the original temple attracted offerings from Pharaoh
 Necho (in whose army there was a contingent of Milesian mercenaries),
-and the Lydian Croesus, and was plundered by Darius of Persia. Xerxes
+and the Lydian [[Croesus]], and was plundered by [[Darius]] of Persia. Xerxes
 finally sacked and burnt it (481 B.C.) and exiled the Branchidae to the
 far north-east of his empire. This exile was believed to be voluntary,
 the priests having betrayed their treasures to the Persian; and on this
 belief Alexander the Great acted 150 years later, when, finding the
 descendants of the Branchidae established in a city beyond the Oxus, he
 ordered them to be exterminated for the sin of their fathers (328). The
-celebrated cult-statue of Apollo by Canachus, familiar to us from
-reproductions on Milesian coins, was also carried to Persia, there to
+celebrated cult-statue of Apollo by [[Canachus]], familiar to us from
+reproductions on Milesian [[Coin|coins]], was also carried to Persia, there to
 remain till restored by Seleucus I. in 295, and the oracle ceased to
 speak for a century and a half. The Milesians were not able to undertake
 the rebuilding till about 332 B.C., when the oracle revived at the
@@ -25,12 +25,12 @@ of the emperor Caligula, the structure was never quite finished: but
 even as it was, Strabo ranked the Didymeum the greatest of Greek temples
 and Pliny placed it among the four most splendid and second only to the
 Artemisium at Ephesus. In point of fact it was a little smaller than the
-Samian Heraeum and the temple of Cybele at Sardis, and almost exactly
+Samian Heraeum and the temple of [[Cybele]] at Sardis, and almost exactly
 the same size as the Artemisium. The area covered by the platform
 measures roughly 360 × 160 ft.
 
 When Cyriac of Ancona visited the spot in 1446, it seems that the temple
-was still standing in great part, although the _cella_ had been
+was still standing in great part, although the _[[Cella|cella]]_ had been
 converted into a fortress by the Byzantines: but when the next European
 visitor, the Englishman Dr Pickering, arrived in 1673, it had collapsed.
 It is conjectured that the cause was the great earthquake of 1493. The
@@ -47,7 +47,7 @@ ceded to, Dr Th. Wiegand, the German explorer of Miletus, who in 1905
 began a thorough clearance of what is incomparably the finest temple
 ruin in Asia Minor.
 
-The temple was a decastyle peripteral structure of the Ionic order,
+The temple was a [[Decastyle|decastyle]] peripteral structure of the Ionic order,
 standing on seven steps and possessing double rows of outer columns 60
 ft. high, twenty-one in each row on the flanks. It is remarkable not
 only for its great size, but (_inter alia_) for (1) the rich ornament of
@@ -57,10 +57,10 @@ Pergamene art, spring from the "eyes" of the volutes with bulls' heads
 between them; (3) the massive building two storeys high at least, which
 served below for _prodomos_, and above for a dispensary of oracles
 ([Greek: chrêsmographia] mentioned in the inscriptions) and a treasury;
-two flights of stairs called "labyrinths" in the inscriptions, led up to
+two flights of stairs called "[[Labyrinth|labyrinths]]" in the inscriptions, led up to
 these chambers; (4) the pylon and staircase at the west; (5) the frieze
 of Medusa heads and foliage. Two outer columns are still erect on the
-north-east flank, carrying their entablature, and one of the inner order
+north-east flank, carrying their [[Entablature|entablature]], and one of the inner order
 stands on the south-west. The fact that the temple was never finished is
 evident from the state in which some bases still remain at the west.
 There were probably no pedimental sculptures. A sacred way led from the
@@ -74,7 +74,7 @@ promontory.
 
   See Dilettanti Society, _Ionian Antiquities_, ii. (1821); C. T.
   Newton, _Hist. of Discoveries_, &c. (1862) and _Travels in the
-  Levant_, ii. (1865); O. Rayet and A. Thomas, _Milet et le Golfe
+  [[Levant]]_, ii. (1865); O. Rayet and A. Thomas, _Milet et le Golfe
   Latmique_ (1877); E. Pontremoli and B. Haussoullier, _Didymes_ (1904).
        (D. G. H.)
 

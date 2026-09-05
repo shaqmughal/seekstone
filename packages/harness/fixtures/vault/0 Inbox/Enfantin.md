@@ -9,14 +9,14 @@ id: 42-8804
 
 # Enfantin
 
-ENFANTIN, BARTHÉLEMY PROSPER (1796-1864), French social reformer, one of
+ENFANTIN, [[Barth|BARTH]]ÉLEMY PROSPER (1796-1864), French social reformer, one of
 the founders of Saint-Simonism, was born at Paris on the 8th of February
 1796. He was the son of a banker of Dauphiny, and after receiving his
-early education at a lyceum, was sent in 1813 to the École
+early education at a [[Lyceum|lyceum]], was sent in 1813 to the École
 Polytechnique. In March 1814 he was one of the band of students who, on
 the heights of Montmartre and Saint-Chaumont, attempted resistance to
 the armies of the allies then engaged in the investment of Paris. In
-consequence of this outbreak of patriotic enthusiasm, the school was
+consequence of this outbreak of patriotic [[Enthusiasm|enthusiasm]], the school was
 soon after closed by Louis XVIII., and the young student was compelled
 to seek some other career instead of that of the soldier. He first
 engaged himself to a country wine merchant, for whom he travelled in
@@ -35,9 +35,9 @@ _Globe_ newspaper, he made appeals to the people by systematic
 preaching, and organized centres of action in some of the principal
 cities of France. The headquarters in Paris were removed from the modest
 rooms in the Rue Taranne, and established in large halls near the
-Boulevard Italien. Enfantin and Bazard (q.v.) were proclaimed "Pères
+[[Boulevard]] Italien. Enfantin and Bazard (q.v.) were proclaimed "Pères
 Suprêmes." This union of the supreme fathers, however, was only nominal.
-A divergence was already manifest, which rapidly increased to serious
+A divergence was already [[Manifest|manifest]], which rapidly increased to serious
 difference and dissension. Bazard had devoted himself to political
 reform, Enfantin to social and moral change; Bazard was organizer and
 governor, Enfantin was teacher and consoler; the former attracted
@@ -50,7 +50,7 @@ aim was philosophical and political. Enfantin thus became sole "father,"
 and the few who were chiefly attracted by his religious pretensions and
 aims still adhered to him. New converts joined them, and Enfantin
 assumed that his followers in France numbered 40,000. He wore on his
-breast a badge with his title of "Père," was spoken of by his preachers
+[[Breast|breast]] a badge with his title of "Père," was spoken of by his preachers
 as "the living law," declared, and probably believed, himself to be the
 chosen of God, and sent out emissaries in a quest of a woman predestined
 to be the "female Messiah," and the mother of a new Saviour. The quest
@@ -61,7 +61,7 @@ length brought down upon him the hand of the law. Public morality was in
 peril, and in May 1832 the halls of the new sect were closed by the
 government, and the father, with some of his followers, appeared before
 the tribunals. He now retired to his estate at Menilmontant, near Paris,
-where with forty disciples, all of them men, he continued to carry out
+where with forty [[Disciple|disciples]], all of them men, he continued to carry out
 his socialistic views. In August of the same year he was again arrested,
 and on his appearance in court he desired his defence to be undertaken
 by two women who were with him, alleging that the matter was of special
@@ -75,20 +75,20 @@ followers, he went to Egypt. He stayed there two years, and might have
 entered the service of the viceroy if he would have professed himself,
 as a few of his friends did, a Mahommedan. On his return to France, a
 sadder and practically a wiser man, he settled down to very prosaic
-work. He became first a postmaster near Lyons, and in 1841 was
+work. He became first a postmaster near [[Lyons]], and in 1841 was
 appointed, through the influence of some of his friends who had risen to
 posts of power, member of a scientific commission on Algeria, which led
 him to engage in researches concerning North Africa and colonization in
 general. in 1845 he was appointed a director of the Paris & Lyons
 railway. Three years later he established, in conjunction with
-Duveyrier, a daily journal, entitled _Le Crédit_, which was discontinued
+[[Duveyrier]], a daily journal, entitled _Le Crédit_, which was discontinued
 in 1850. He was afterwards attached to the administration of the railway
 from Lyons to the Mediterranean. Father Enfantin held fast by his ideal
 to the end, but he had renounced the hope of giving it a local
 habitation and a name in the degenerate obstinate world. His personal
 influence over those who associated with him was immense. "He was a man
 of a noble presence, with finely formed and expressive features. He was
-gentle and insinuating in manner, and possessed a calm, graceful and
+gentle and insinuating in manner, and possessed a [[Calm|calm]], graceful and
 winning delivery" (_Gent. Mag_., Jan. 1865). His evident sincerity, his
 genuine enthusiasm, gave him his marvellous ascendancy. Not a few of his
 disciples ranked afterwards amongst the most distinguished men of
@@ -115,7 +115,7 @@ Tunis and Susa, 30 m. N.E. of the last-named place and 5 m. inland from
 the Gulf of Hammamet. Enfidaville is the chief settlement on the Enfida
 estate, a property of over 300,000 acres in the Sahel district of
 Tunisia, forming a rectangle between the towns of Hammamet, Susa,
-Kairawan and Zaghwan. On this estate, devoted to the cultivation of
+[[Kairawan]] and Zaghwan. On this estate, devoted to the cultivation of
 cereals, olives, vines and to pasturage, are colonies of Europeans and
 natives. At Enfidaville, where was, as its native name indicates, a
 palace of the beys of Tunis, there is a large horse-breeding
@@ -129,7 +129,7 @@ minister Khaireddin Pasha (q.v.) in return for the confirmation by the
 sultan of Turkey in 1871, through the instrumentality of the pasha, of
 the right of succession to the beylik of members of Es-Sadok's family.
 When, some years later, Khaireddin left Tunisia for Constantinople he
-sold the estate to a Marseilles company, which resold it to the Société
+sold the estate to a [[Marseilles]] company, which resold it to the Société
 Franco-africaine.
 
 ## References

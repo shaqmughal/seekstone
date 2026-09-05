@@ -12,8 +12,8 @@ Saxe-Altenburg, on a plateau between the rivers Saale and Elster, 20 m.
 S.W. from Zeitz, and connected with the railway Leipzig-Gera by a branch
 to Crossen. Pop. (1905) 8824. It possesses an old castle, several
 churches and monuments to Duke Christian of Saxe-Eisenberg (d. 1707),
-Bismarck, and the philosopher Karl Christian Friedrich Krause (q.v.).
-Its principal industries are weaving, and the manufacture of machines,
+Bismarck, and the philosopher Karl Christian [[Friedrich]] [[Krause]] (q.v.).
+Its principal industries are weaving, and the manufacture of [[Machine|machines]],
 ovens, furniture, pianos, porcelain and sausages.
 
   See Back, _Chronik der Sladt und des Amtes Eisenberg_ (Eisenb., 1843).

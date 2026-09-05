@@ -11,9 +11,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Liudprand"
 LIUDPRAND (LIUTPRAND, LUITPRAND) (c. 922-972), Italian historian and
 author, bishop of Cremona, was born towards the beginning of the 10th
 century, of a good Lombard family. In 931 he entered the service of King
-Hugo of Italy as page; he afterwards rose to a high position at the
+[[Hugo]] of Italy as page; he afterwards rose to a high position at the
 court of Hugo's successor Berengar, having become chancellor, and having
-been sent (949) on an embassy to the Byzantine court. Falling into
+been sent (949) on an [[Embassy|embassy]] to the Byzantine court. Falling into
 disgrace with Berengar on his return, he attached himself to the emperor
 Otto I., whom in 961 he accompanied into Italy, and by whom in 962 he
 was made bishop of Cremona. He was frequently employed in missions to
@@ -42,7 +42,7 @@ Theophano or not is uncertain. Liudprand died in 972.
   _Adversaria, Chronicon, 606-960_, and _Opusculum de vitis Romanorum
   pontificum_, are usually, but wrongly, assigned to Liudprand. An
   English translation of the embassy to Constantinople is in Ernest
-  Henderson's _Select Documents of the Middle Ages_ (Bohn series, 1896).
+  Henderson's _Select Documents of the Middle Ages_ ([[Bohn]] series, 1896).
   A complete bibliography is in A. Potthast's _Bibl. Hist. Medii Aevi_
   (Berlin, 1896).
 

@@ -1,6 +1,6 @@
 # Callao
 
-CALLAO, a city, port and coast department of Peru, 8½ m. west of Lima,
+CALLAO, a city, port and coast department of Peru, 8½ m. west of [[Lima]],
 in 12° 04' S., 77° 13' W. Pop. (1905) 31,128, of whom 3349 were
 foreigners. The department includes the city and its environs,
 Bellavista and La Punta, and the neighbouring islands, San Lorenzo,
@@ -13,13 +13,13 @@ The city stands on the south side of the bay, and is built on a flat
 point of land only 8 ft. above sea-level. The houses are for the most
 part low and cheaply built, and the streets are narrow, badly paved,
 irregular and dirty. The climate is good and the coast is swept by cool
-ocean breezes, the average temperatures ranging from 65° to 77° F., but
-notwithstanding this, Callao has a bad reputation for fevers and
+ocean [[Breeze|breezes]], the average temperatures ranging from 65° to 77° F., but
+notwithstanding this, Callao has a bad reputation for [[Fever|fevers]] and
 contagious diseases, chiefly because of its insanitary condition. Its
-noteworthy public buildings are the custom-house and its storehouses
+noteworthy public buildings are the [[Custom-House|custom-house]] and its storehouses
 which occupy the old quadrangular fortress built by the Spanish
 government between 1770 and 1775, and cover 15 acres, the prefecture,
-the military and naval offices and barracks, the post-office, three
+the military and naval offices and [[Barracks|barracks]], the post-office, three
 Catholic churches, a hospital, market, three clubs and some modern
 commercial houses. The present city is half a mile north of the site of
 the old town, which was destroyed by an earthquake and tidal wave in
@@ -38,10 +38,10 @@ railways and an electric tramway, with Oroya by railway 138 m. long, and
 with Cerro de Pasco by railway 221 m. A short railway also runs from the
 port to the Bellavista storehouses. The port is provided with modern
 harbour improvements, consisting of sea-walls of concrete blocks, two
-fine docks with berthing spaces for 30 large vessels, and a large
+fine [[Dock|docks]] with berthing spaces for 30 large vessels, and a large
 floating-dock (300 ft. long on the blocks and capable of receiving
 vessels up to 21 ft. draught and 5000 tons weight), which was built in
-Glasgow and was sent out to Callao in 1863. The docks are provided with
+[[Glasgow]] and was sent out to Callao in 1863. The docks are provided with
 gas and electric lights, 18 steam cranes for loading and discharging
 vessels, a triple line of railway and a supply of fresh water. Callao
 was formerly the headquarters in South America of the Pacific Steam
@@ -50,12 +50,12 @@ that position. There are, owing perhaps to the proximity of Lima, few
 industrial establishments in the city; among them are a large sugar
 refinery, some flour-mills, a brewery, a factory for making effervescent
 drinks, and a number of foundries and repair shops. Being a port of the
-first class, Callao is an important distributing centre for the coasting
+first class, Callao is an important distributing centre for the [[Coasting|coasting]]
 trade, in which a large number of small vessels are engaged. The foreign
 steamship companies making it a regular port of call are the Pacific
 Steam Navigation Co. (British), the Compañia Sud-America (Chilean), the
 Kosmos and Roland lines (German), the Merchants line (New York), and a
-Japanese line from the ports of Japan and China. A subsidized Peruvian
+Japanese line from the ports of [[Japan]] and China. A subsidized Peruvian
 line is also contemplated to ply between the Pacific ports of South
 America with an eventual extension of the service to Europe. The
 arrivals from and clearances for foreign ports in 1907 were as
@@ -70,7 +70,7 @@ The exports from Callao are guano, sugar, cotton, wool, hides, silver,
 copper, gold and forest products, and the imports include timber and
 other building materials, cotton and other textiles, general merchandise
 for personal, household and industrial uses, railway material, coal,
-kerosene, wheat, flour and other food stuffs. The maintenance of peace
+kerosene, wheat, flour and other food stuffs. The [[Maintenance|maintenance]] of peace
 and order, and the mining development of the interior, have added to the
 trade and prosperity of the port.
 

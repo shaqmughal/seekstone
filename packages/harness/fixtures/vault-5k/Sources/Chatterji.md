@@ -10,11 +10,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chatterji"
 
 CHATTERJI, BANKIM CHANDRA [BANKIMACHANDRA CHATTARADH-YAYA] (1838-1894),
 Indian novelist, was born in the district of the Twenty-four Parganas in
-Bengal on the 27th of June 1838, and was by caste a Brahman. He was
+[[Bengal]] on the 27th of June 1838, and was by [[Caste|caste]] a Brahman. He was
 educated at the Hugli College, at the Presidency College in Calcutta,
 and at Calcutta University, where he was the first to take the degree of
 B.A. (1858). He entered the Indian civil service, and served as deputy
-magistrate in various districts of Bengal, his official services being
+[[Magistrate|magistrate]] in various districts of Bengal, his official services being
 recognized, on his retirement in 1891, by the title of rai bahadur and
 the C.I.E. He died on the 8th of April 1894.
 
@@ -27,7 +27,7 @@ India a school of fiction on the European model. His first historical
 novel, the _Durges-Nandini_ or _Chief's Daughter_, modelled on Scott,
 made a great sensation in Bengal; and the _Kapala-Kundala_ and
 _Mrinalini_, which followed it, established his fame as a writer whose
-creative imagination and power of delineation had never been surpassed
+creative [[Imagination|imagination]] and power of delineation had never been surpassed
 in India. In 1872 he brought out his first social novel, the
 _Biska-Brikkha_ or _Poison Tree_, which was followed by others in rapid
 succession. It is impossible to exaggerate the effect they produced; for
@@ -55,7 +55,7 @@ developed also in his _Dharmatattwa_, an elaborate religious treatise in
 which he explained his views as to the changes necessary in the moral
 and religious condition of his fellow-countrymen before they could hope
 to compete on equal terms with the British and Mahommedans. But though
-the _Ananda Math_ is in form an apology for the loyal acceptance of
+the _Ananda Math_ is in form an [[Apology|apology]] for the loyal acceptance of
 British rule, it is none the less inspired by the ideal of the
 restoration, sooner or later, of a Hindu kingdom in India. This is
 especially evident in the occasional verses in the book, of which the
@@ -77,14 +77,14 @@ assimilated it with his European culture, and the true explanation is
 probably that given by Mr J.D. Anderson in _The Times_ of September 24,
 1906. He points out that in the 11th chapter of the 1st book of the
 _Ananda Math_ the Sannyasi rebels are represented as having erected, in
-addition to the image of Kali, "the Mother who Has Been," a white marble
+addition to the [[Image|image]] of Kali, "the Mother who Has Been," a white marble
 statue of "the Mother that Shall Be," which "is apparently a
 representation of the mother-land. The _Bande Mataram_ hymn is
 apparently addressed to both idols."
 
 The poem, then, is the work of a Hindu idealist who personified Bengal
 under the form of a purified and spiritualized Kali. Of its thirty-six
-lines, partly written in Sanskrit, partly in Bengali, the greater number
+lines, partly written in Sanskrit, partly in [[Bengali]], the greater number
 are harmless enough. But if the poet sings the praise of the "Mother"
 
   "As Lachmi, bowered in the flower
@@ -107,7 +107,7 @@ Nath Banerji in 1883. It has, however, obtained an evil notoriety in the
 agitations that followed the partition of Bengal. That Bankim Chandra
 himself foresaw or desired any such use of it is impossible to believe.
 According to S.M. Mitra, he composed it "in a fit of patriotic
-excitement after a good hearty dinner, which he always enjoyed. It was
+excitement after a good hearty [[Dinner|dinner]], which he always enjoyed. It was
 set to Hindu music, known as the _Mallar-Kawali-Tal_. The
 extraordinarily stirring character of the air, and its ingenious
 assimilation of Bengali passages with Sanskrit, served to make it
@@ -121,14 +121,14 @@ impress on the literature of Bengal. In his earlier years he served his
 apprenticeship in literature under Iswar Chandra Vidyasagar, the chief
 poet and satirist of Bengal during the earlier half of the 19th century.
 Bankim Chandra's friend and colleague, Dina Bandhu Mitra, was virtually
-the founder of the modern Bengali drama. Another friend of his, Hem
+the founder of the modern Bengali [[Drama|drama]]. Another friend of his, Hem
 Chandra Banerji, was a poet of recognized merit and talent. And among
 the younger men who venerated Bankim Chandra, and benefited by his
 example and advice, may be mentioned two distinguished poets, Nalein
 Chandra Sen and Rabindra Nath Tagore.
 
 Of Bankim Chandra's novels some have been translated into English by
-H.A.D. Phillips and by Mrs M.S. Knight.
+H.A.D. Phillips and by Mrs M.S. [[Knight]].
 
 ## See also
 

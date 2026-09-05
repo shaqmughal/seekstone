@@ -8,13 +8,13 @@ id: 42-8693
 # Arbogast
 
 ARBOGAST (d. 394), a barbarian officer in the Roman army, at the end of
-the 4th century. His nationality is uncertain, but Zosimus, Eunapius and
+the 4th century. His nationality is uncertain, but Zosimus, [[Eunapius]] and
 Sulpicius Alexander (a Gallo-Roman historian quoted by Gregory of Tours)
-all refer to him as a Frank. Having served with distinction against the
-Goths in Thrace, he was sent by Theodosius in 388 against Maximus, who
+all refer to him as a [[Frank]]. Having served with distinction against the
+Goths in Thrace, he was sent by Theodosius in 388 against [[Maximus]], who
 had usurped the empire of the west and had murdered Gratian. His
 complete success, which resulted in the destruction of Maximus and his
-sons and the pacification of Gaul, led Theodosius to appoint him chief
+sons and the pacification of [[Gaul]], led Theodosius to appoint him chief
 minister for his young brother-in-law Valentinian II. His rule was most
 energetic; but while he favoured the barbarians in the imperial service,
 and appointed them to high office, Valentinian, openly jealous of his
@@ -22,9 +22,9 @@ minister, sought to surround himself with Romans. As an offset to this,
 Arbogast allied himself with the pagan element in Rome, while
 Valentinian was strictly orthodox. In 392 Valentinian was secretly put
 to death at Vienne (in Gaul), and Arbogast, naming as his successor
-Eugenius, a rhetorician, descended into Italy to meet the expedition
+[[Eugenius]], a rhetorician, descended into Italy to meet the expedition
 which Theodosius was heading against him. He proclaimed himself the
-champion of the old Roman gods, and as a response to the appeal of
+[[Champion|champion]] of the old Roman gods, and as a response to the appeal of
 Ambrose, is said to have threatened to stable his horses in the
 cathedral of Milan, and to force the monks to fight in his army. His
 defeat in the hard-fought battle of the Frigidus saved Italy from these

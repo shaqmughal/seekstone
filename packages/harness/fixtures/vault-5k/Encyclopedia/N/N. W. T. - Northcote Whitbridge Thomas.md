@@ -21,7 +21,7 @@ On the Staff of the Carl Zeiss Factory, Jena, Germany.
 
 - Binocular Instrument.
 
-P. A. - PAUL DANIEL ALPHANDÉRY.
+P. A. - PAUL [[Daniel|DANIEL]] ALPHANDÉRY.
 Professor of the History of Dogma, École Pratique des Hautes Études,
 Sorbonne, Paris. Author of _Les Idées morales chez les hétérodoxes latines
 au début du XIII^e siècle_.

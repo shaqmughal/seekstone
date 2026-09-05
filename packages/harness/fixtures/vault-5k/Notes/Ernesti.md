@@ -16,13 +16,13 @@ sixteen he was sent to the celebrated Saxon cloister school of Pforta
 studied afterwards at the university of Leipzig. In 1730 he was made
 master in the faculty of philosophy. In the following year he accepted
 the office of conrector in the Thomas school of Leipzig, of which J.M.
-Gesner was then rector, an office to which Ernesti succeeded in 1734. He
+[[Gesner]] was then rector, an office to which Ernesti succeeded in 1734. He
 was, in 1742, named professor _extraordinarius_ of ancient literature in
 the university of Leipzig, and in 1756 professor _ordinarius_ of
 rhetoric. In the same year he received the degree of doctor of theology,
 and in 1759 was appointed professor _ordinarius_ in the faculty of
 theology. Through his learning and his manner of discussion, he
-co-operated with S.J. Baumgarten of Halle (1706-1757) in disengaging the
+co-operated with S.J. Baumgarten of [[Halle]] (1706-1757) in disengaging the
 current dogmatic theology from its many scholastic and mystical
 excrescences, and thus paved a way for a revolution in theology. He
 died, after a short illness, in his seventy-sixth year, on the 11th of
@@ -37,12 +37,12 @@ instituted a new school in ancient literature. He detected grammatical
 niceties in Latin, in regard to the consecution of tenses which had
 escaped preceding critics. His canons are, however, not without
 exceptions. As an editor of the Greek classics, Ernesti hardly deserves
-to be named beside his Dutch contemporaries, Tiberius Hemsterhuis
+to be named beside his Dutch contemporaries, Tiberius [[Hemsterhuis]]
 (1685-1766), L.C. Valckenaer (1715-1785), David Ruhnken (1723-1798), or
 his colleague J.J. Reiske (1716-1774). The higher criticism was not even
-attempted by Ernesti. But to him and to Gesner is due the credit of
+attempted by Ernesti. But to him and to Gesner is due the [[Credit|credit]] of
 having formed, by discipline and by example, philologists greater than
-themselves, and of having kindled the national enthusiasm for ancient
+themselves, and of having kindled the national [[Enthusiasm|enthusiasm]] for ancient
 learning. It is chiefly in hermeneutics that Ernesti has any claim to
 eminence as a theologian. But here his merits are distinguished, and, at
 the period when his _Institutio Interpretis N. T._ was published (1761),
@@ -70,7 +70,7 @@ hermeneutics.
   _Initia rhetorica_ (1730); editions, mostly annotated, of Xenophon's
   _Memorabilia_ (1737), Cicero (1737-1739), Suetonius (1748), Tacitus
   (1752), the _Clouds_ of Aristophanes (1754), Homer (1759-1764),
-  Callimachus (1761), Polybius (1764), as well as of the _Quaestura_ of
+  [[Callimachus]] (1761), Polybius (1764), as well as of the _Quaestura_ of
   Corradus, the Greek lexicon of Hedericus, and the _Bibliotheca Latina_
   of Fabricius (unfinished); _Archaeologia litteraria_ (1768), new and
   improved edition by Martini (1790); Horatius Tursellinus _De

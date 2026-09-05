@@ -19,7 +19,7 @@ Blissville, Astoria, Ravenswood, Dutch Kills, Middleton and Steinway.
 In 1853 this group of villages, by that time virtually one community,
 was called Long Island City, and it was formally incorporated under that
 name in 1870. In 1871-1872 the city was laid out by a commission of
-which General W. B. Franklin was president. Political convictions,
+which General W. B. [[Franklin]] was president. Political convictions,
 economic considerations and fear combined to make the residents in this
 region largely loyalist in their attitude during the War of
 Independence. From 1776 to 1783 British troops occupied Newtown, a
@@ -29,7 +29,7 @@ inhabitants of Queens county, in the colony of New York, being incapable
 of resolving to live and die free men,... all such persons as voted
 against sending deputies to the present convention in New York ... be
 put out of the protection of the United Colonies," &c., an action which
-led to the arrest and imprisonment of many of the accused persons.
+led to the [[Arrest|arrest]] and imprisonment of many of the accused persons.
 
   See J. S. Kelsey, _History of Long Island City_ (Long Island City,
   1896).

@@ -1,6 +1,6 @@
 # Hanthawaddy
 
-HANTHAWADDY, a district in the Pegu division of Lower Burma, the home
+HANTHAWADDY, a district in the Pegu division of Lower [[Burma]], the home
 district of Rangoon, from which the town was detached to make a separate
 district in 1880. It has an area of 3023 sq. m., with a population in
 1901 of 484,811, showing an increase of 22% in the decade. Hanthawaddy

@@ -23,7 +23,7 @@ army of Sigebert was betrayed from within its own ranks by men of
 Mayence in a battle fought with Radulf on the banks of the Unstrut in
 Thuringia. The chief heroes of the poems which make up the _geste_ of
 Doon de Mayence are Ogier the Dane (q.v.), the four sons of Aymon (see
-RENAUD), and HUON OF BORDEAUX (q.v.). It is probable that Doon himself
+RENAUD), and [[Huon Of Bordeaux|HUON OF BORDEAUX]] (q.v.). It is probable that Doon himself
 was one of the last personages to be clearly defined, and that the
 _chanson de geste_ relating his exploits was drawn up partly with the
 view of supplying a suitable ancestor for the other heroes. The latter
@@ -31,12 +31,12 @@ half of the poem, the story of Doon's wars in Saxony, is perhaps based
 on historical events, but the earlier half, which is really a separate
 romance dealing with his romantic childhood, is obviously pure fiction
 and dates from the 13th century. Doon had twelve sons: Gaufrey de Dane
-Marche (Ardennes?), the father of Ogier; Doon de Nanteuil, whose son
-Garnier married the beautiful Aye d'Avignon; Griffon d'Hauteville,
+[[Marche]] ([[Ardennes]]?), the father of Ogier; Doon de Nanteuil, whose son
+[[Garnier]] married the beautiful Aye d'Avignon; Griffon d'Hauteville,
 father of the arch-traitor Ganelon; Aymon de Dordone or Dourdan, whose
 four sons were so relentlessly pursued by Charles; Beuves d'Aigremont,
 whose son was the enchanter Maugis; Sevin or Seguin, the father of Huon
-of Bordeaux; Girard de Roussillon, and others less known. The history of
+of [[Bordeaux]]; Girard de Roussillon, and others less known. The history of
 these personages is given in _Doon de Mayence_, _Gaufrey_, the romances
 relating to Ogier, _Aye d'Avignon_, the fragmentary _Doon de Nanteuil_,
 _Gui de Nanteuil_, _Tristan de Nanteuil_, _Parise la Duchesse_, _Maugis
@@ -50,7 +50,7 @@ _Anciens Poètes de la France_ (1859, &c).
   for analyses of these poems by Paulin Paris; also J. Barrois,
   _Éléments carolingiens_ (Paris, 1846); W. Niederstadt, _Alter und
   Heimat der altfr. Doon_ (Greifswald, 1889). The prose romance, _La
-  Fleur des batailles Doolin de Mayence_, was printed by Antoine Vérard
+  Fleur des batailles Doolin de Mayence_, was printed by [[Antoine]] Vérard
   (Paris, 1501), by Alain Lotrian and Denis Janot (Paris, c. 1530), by
   N. Bonfons (Paris; no date), by J. Waesbergue (Rotterdam, 1604), &c.
 

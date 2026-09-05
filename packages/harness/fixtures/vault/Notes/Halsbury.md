@@ -7,11 +7,11 @@ type: article
 
 # Halsbury
 
-HALSBURY, HARDINGE STANLEY GIFFARD, 1ST EARL OF (1825-   ), English lord
-chancellor, son of Stanley Lees Giffard, LL.D., was born in London on
+HALSBURY, HARDINGE STANLEY [[Giffard|GIFFARD]], 1ST EARL OF (1825-   ), English lord
+chancellor, son of Stanley [[Lee|Lees]] Giffard, LL.D., was born in London on
 the 3rd of September 1825. He was educated at Merton College, Oxford,
 and was called to the bar at the Inner Temple in 1850, joining the North
-Wales and Chester circuit. Afterwards he had a large practice at the
+Wales and [[Chester]] circuit. Afterwards he had a large practice at the
 central criminal court and the Middlesex sessions, and he was for
 several years junior prosecuting counsel to the treasury. He was engaged
 in most of the celebrated trials of his time, including the Overend and
@@ -20,7 +20,7 @@ bencher of the Inner Temple. Mr Giffard twice contested Cardiff in the
 Conservative interest, in 1868 and 1874, but he was still without a seat
 in the House of Commons when he was appointed solicitor-general by
 Disraeli in 1875 and received the honour of knighthood. In 1877 he
-succeeded in obtaining a seat, when he was returned for Launceston,
+succeeded in obtaining a seat, when he was returned for [[Launceston]],
 which borough he continued to represent until his elevation to the
 peerage in 1885. He was then created Baron Halsbury and appointed lord
 chancellor, thus forming a remarkable exception to the rule that no
@@ -30,7 +30,7 @@ tenure of the office, broken only by the brief Liberal ministries of
 1886 and 1892-1895, being longer than that of any lord chancellor since
 Lord Eldon. In 1898 he was created earl of Halsbury and Viscount
 Tiverton. Among Conservative lord chancellors Lord Halsbury must always
-hold a high place, his grasp of legal principles and mastery in applying
+hold a [[High Place|high place]], his grasp of legal principles and mastery in applying
 them being pre-eminent among the judges of his day.
 
 ## See also

@@ -3,19 +3,19 @@
 DAUPHINE, one of the old provinces (the name being still in current use
 in the country) of pre-Revolutionary France, in the south-east portion
 of France, between Provence and Savoy; since 1790 it forms the
-departments of the Isere, the Drome and the Hautes Alpes.
+departments of the Isere, the Drome and the [[Hautes Alpes]].
 
 After the death of the last king of Burgundy, Rudolf III., in 1032, the
 territories known later as Dauphine (as part of his realm) reverted to
 the far-distant emperor. Much confusion followed, out of which the
 counts of Albon (between Valence and Vienne) gradually came to the
 front. The first dynasty ended in 1162 with Guigue V., whose daughter
-and heiress, Beatrice, carried the possessions of her house to her
+and heiress, [[Beatrice]], carried the possessions of her house to her
 husband, Hugh III., duke of Burgundy. Their son, Andre, continued the
 race, this second dynasty making many territorial acquisitions, among
 them (by marriage) the Embrunais and the Gapencais in 1232. In 1282 the
-second dynasty ended in another heiress, Anna, who carried all to her
-husband, Humbert, lord of La Tour du Pin (between Lyons and Grenoble).
+second dynasty ended in another heiress, [[Anna]], who carried all to her
+husband, Humbert, lord of La Tour du Pin (between [[Lyons]] and Grenoble).
 The title of the chief of the house was Count (later Dauphin) of the
 Viennois, _not_ of Dauphine. (For the origin of the terms Dauphin and
 Dauphine see DAUPHIN.) Humbert II. (1333-1349), grandson of the heiress
@@ -35,7 +35,7 @@ Dauphine history. The "States" of Dauphine (dating from about the middle
 of the 14th century) were suspended by Louis XIII. in 1628, but their
 unauthorized meeting (on the 21st of July 1788) in the tennis court
 (_Salle du Jeu de Paume_) of the castle of Vizille, near Grenoble, was
-one of the earliest premonitory signs of the great French Revolution of
+one of the earliest premonitory signs of the great [[French Revolution]] of
 1789. It was at Laffrey, near Grenoble, that Napoleon (March 7th, 1815)
 was first acclaimed by his old soldiers sent to arrest him.
 
@@ -56,7 +56,7 @@ was first acclaimed by his old soldiers sent to arrest him.
   Hautes-Alpes_ (Paris, 1888); J. Roman, _Histoire de la ville de Gap_
   (Gap, 1892); A. De Terrebasse, _Notice sur les Dauphins de Viennois_
   (Vienne, 1875); J. M. De Valbonnais, _Histoire de Dauphine_ (2 vols.,
-  Geneva, 1722); J. A. Felix Faure, _Les Assemblees de Vizille et de
+  [[Geneva]], 1722); J. A. Felix Faure, _Les Assemblees de Vizille et de
   Romans_, 1788 (Paris, 1887); O. Chenavas, _La Revolution de 1788 en
   Dauphine_ (Grenoble, 1888); C. Lory, _Description geologique du
   Dauphine_ (Paris, 1860).     (W. A. B. C.)

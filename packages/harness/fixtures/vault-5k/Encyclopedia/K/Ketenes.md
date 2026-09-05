@@ -1,10 +1,10 @@
 # Ketenes
 
-KETENES, in chemistry, a group of organic compounds which may be
+KETENES, in [[Chemistry|chemistry]], a group of organic [[Compound|compounds]] which may be
 considered as internal anhydrides of acetic acid and its substitution
 derivatives. Two classes may be distinguished: the aldo-ketenes,
 including ketene itself, together with its mono-alkyl derivatives and
-carbon suboxide, and the keto-ketenes which comprise the dialkyl
+[[Carbon|carbon]] suboxide, and the keto-ketenes which comprise the dialkyl
 ketenes. The aldo-ketenes are colourless compounds which are not capable
 of autoxidation, are polymerized by pyridine or quinoline, and are inert
 towards compounds containing the groupings C:N and C:O. The keto-ketenes
@@ -14,7 +14,7 @@ compounds with substances containing the C:N and C:O groupings. The
 ketenes are usually obtained by the action of zinc on ethereal or ethyl
 acetate solutions of halogen substituted acid chlorides or bromides.
 They are characterized by their additive reactions: combining with water
-to form acids, with alcohols to form esters, and with primary amines to
+to form acids, with alcohols to form [[Esters|esters]], and with primary amines to
 form amides.
 
   _Ketene_, CH2:CO, was discovered by N. T. M. Wilsmore (_Jour. Chem.

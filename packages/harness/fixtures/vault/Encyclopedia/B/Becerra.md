@@ -18,7 +18,7 @@ altar-pieces for several of the churches, most of which have been
 destroyed. His fame as a sculptor almost surpassed that as a painter.
 His best work was a magnificent figure of the Virgin, which was
 destroyed during the French war. He became court painter at Madrid in
-1563, and played a prominent part in the establishment of the fine arts
+1563, and played a prominent part in the establishment of the [[Fine Arts|fine arts]]
 in Spain.
 
 ## See also

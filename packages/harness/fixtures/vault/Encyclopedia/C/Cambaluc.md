@@ -1,7 +1,7 @@
 # Cambaluc
 
 CAMBALUC, the name by which, under sundry modifications, the royal city
-of the great khan in China became known to Europe during the middle
+of the great [[Khan|khan]] in China became known to Europe during the middle
 ages, that city being in fact the same that we now know as Peking. The
 word itself represents the Mongol Khan-Balik, "the city of the khan," or
 emperor, the title by which Peking continues, more or less, to be known
@@ -11,7 +11,7 @@ A city occupying approximately the same site had been the capital of one
 of the principalities into which China was divided some centuries before
 the Christian era; and during the reigns of the two Tatar dynasties that
 immediately preceded the Mongols in northern China, viz. that of the
-Khitans, and of the Kin or "Golden" khans, it had been one of their
+Khitans, and of the [[Kin]] or "Golden" khans, it had been one of their
 royal residences. Under the names of Yenking, which it received from the
 Khitan, and of Chung-tu, which it had from the Kin, it holds a
 conspicuous place in the wars of Jenghiz Khan against the latter
@@ -39,12 +39,12 @@ established their residence at Nan-king ("South Court"), but this proved
 so inconvenient that Yunglo, the third sovereign of the dynasty,
 reoccupied Ta-tu, giving it then, for the first time, the name of
 Pe-king ("North Court"). This was the name in common use when the
-Jesuits entered China towards the end of the 16th century, and began to
+[[Jesuits]] entered China towards the end of the 16th century, and began to
 send home accurate information about China. But it is not so now; the
 names in ordinary use being King-cheng or King-tu, both signifying
 "capital." The restoration of Cambaluc was commenced in 1409. The size
 of the city was diminished by the retrenchment of nearly one-third at
-the northern end, which brought the enceinte more nearly to a square
+the northern end, which brought the [[Enceinte|enceinte]] more nearly to a square
 form. And this constitutes the modern (so-called) "Tatar city" of
 Peking, the south front of which is identical with the south front of
 the city of Kublai. The walls were completed in 1437. Population
@@ -54,23 +54,23 @@ enclosed by a wall and called the "outer city." It is the same that is
 usually called by Europeans "the Chinese city." The ruins of the
 retrenched northern portion of Kublai's great rampart are still
 prominent along their whole extent, so that there is no room for
-question as to the position or true dimensions of the Cambaluc of the
+question as to the position or true [[Dimension|dimensions]] of the Cambaluc of the
 middle ages; and it is most probable, indeed it is almost a necessity,
 that the present palace stands on the lines of Kublai's palace.
 
 The city, under the name of Cambaluc, was constituted into an
-archiepiscopal see by Pope Clement V. in 1307, in favour of the
+archiepiscopal see by Pope [[Clement]] V. in 1307, in favour of the
 missionary Franciscan John of Montecorvino (d. 1330); but though some
 successors were nominated it seems probable that no second metropolitan
 ever actually occupied the seat.
 
-Maps of the 16th and 17th centuries often show Cambaluc in an imaginary
+[[Map|Maps]] of the 16th and 17th centuries often show Cambaluc in an imaginary
 region to the north of China, a part of the misconception that has
 prevailed regarding Cathay. The name is often in popular literature
 written Cambalu, and is by Longfellow accented in verse _Cámbalú_. But
-this spelling originates in an accidental error in Ramusio's Italian
+this spelling originates in an accidental [[Error|error]] in Ramusio's Italian
 version, which was the chief channel through which Marco Polo's book was
-popularly known. The original (French) MSS. all agree with the etymology
+popularly known. The original (French) MSS. all agree with the [[Etymology|etymology]]
 in calling it Cambaluc, which should be accented _Cambáluc_.
 
 ## References

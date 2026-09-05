@@ -66,7 +66,7 @@ are the Liamone, the Gravone and the Taravo. The other streams are all
 comparatively small. Owing to the rugged and indented outline of the
 western coast there are an unusual number of bays and harbours. Of the
 bays the most important are Porto, Sagone, Ajaccio and Valinco; of the
-ports, St Florent (San Fiorenzo), Ile Rousse (Isola Rossa), Calvi,
+ports, St Florent (San Fiorenzo), Ile Rousse (Isola Rossa), [[Calvi]],
 Ajaccio and Propriano. On the eastern side, which is much less rugged
 and broken, the only harbours worth mentioning are those of Bastia and
 Porto Vecchio (the _Portus Syracusanus_ of the ancients), and the only
@@ -101,7 +101,7 @@ land, but often the properties are so split up that many hours, or even
 a whole day, are spent in going from the vineyard or olive plantation to
 the arable land in the plain or the chestnut-wood in the mountain. A
 great part of the agricultural labour is performed by labourers from
-Tuscany and Lucca, who periodically visit the island for that purpose.
+Tuscany and [[Lucca]], who periodically visit the island for that purpose.
 Sheep of a peculiar breed, resembling chamois and known as _mouflons_,
 inhabit the more inaccessible parts of the mountains. The uncultivated
 districts are generally overgrown with a thick tangled underwood,
@@ -170,7 +170,7 @@ had dwindled before that of the Etruscans, who were in their turn driven
 out by the Carthaginians. The latter were followed by the Romans, who
 gained a footing in the island at the time of the First Punic War, but
 did not establish themselves there till the middle of the 2nd century
-B.C. Both Marius and Sulla founded colonies--the one at Mariana (near
+B.C. Both [[Marius]] and Sulla founded colonies--the one at Mariana (near
 Lucciana) in 104, the second at Aleria in 88. In the early centuries of
 the Christian era Corsica formed one of the senatorial provinces of the
 Empire, but though it was in continuous commercial communication with
@@ -364,7 +364,7 @@ reducing the island, his artillery securing him an easy victory over the
 forces of Count Paolo della Rocca (1441). To secure his authority he
 built and fortified the new city of San Fiorenzo, near the ruins of
 Nebbio. But again the Aragonese intervened, and the anarchy reached its
-height. An appeal to Pope Eugenius IV. resulted in the despatch of a
+height. An appeal to Pope [[Eugenius]] IV. resulted in the despatch of a
 pontifical army of 14,000 men (1444), which was destroyed in detail by a
 league of some of the _caporali_ and most of the barons under the bold
 leadership of Rinuccio da Leca. A second expedition was more fortunate,
@@ -448,7 +448,7 @@ Constantinople (February 1, 1553) with Sultan Suleiman the Magnificent
 he secured the co-operation of the Turkish fleet. The combined forces
 attacked the island the same year; the citadel of Bastia fell almost
 without a blow, and siege was at once laid simultaneously to all the
-other fortresses. The capitulation of Bonifacio to the Turks, after an
+other fortresses. The [[Capitulation|capitulation]] of Bonifacio to the Turks, after an
 obstinate resistance, was followed by the treacherous massacre of the
 garrison; soon, of all the strong places, the Genoese held Calvi alone.
 At this juncture the emperor Charles V. intervened; a strong force of
@@ -468,7 +468,7 @@ over by the Genoese republic.
 
   Sampiero da Bastelica.
 
-Trouble at once began again. The Genoese attempted to levy a tax which
+Trouble at once began again. The Genoese attempted to [[Levy|levy]] a tax which
 the Corsicans refused to pay; in violation of the terms of the treaty,
 which had stipulated for a universal amnesty, they confiscated the
 property of Sampiero da Bastelica. Hereupon Sampiero again put himself
@@ -660,7 +660,7 @@ amicable terms, and the inhabitants of the nominally Genoese towns
 actually sent representatives to the national _consulta_ or parliament.
 The climax came early in 1767 when the Corsicans captured the Genoese
 island of Capraja, and occupied Ajaccio and other places, evacuated by
-the French as a protest against the asylum given to the Jesuits exiled
+the French as a protest against the [[Asylum|asylum]] given to the Jesuits exiled
 from France. Genoa now recognized that she had been worsted in the long
 contest, and on the 15th of May 1768 signed a treaty selling the
 sovereignty of the island to France.
@@ -727,7 +727,7 @@ Paoli had already made up his mind to raise the standard of revolt
 against France. But though the _consulta_ at Corte elected him
 president, Corsican opinion was by no means united. Napoleon Bonaparte,
 whom Paoli had expected to win over to his views, indignantly rejected
-the idea of a breach with France, and the Bonapartes were henceforth
+the idea of a [[Breach|breach]] with France, and the Bonapartes were henceforth
 ranked with his enemies. Paoli now appealed for assistance to the
 British government, which despatched a considerable force. By the summer
 of 1794, after hard fighting, the island was reduced, and in June the
@@ -750,7 +750,7 @@ Its history henceforth is part of that of France.
   _Istoria di Corsica_ (1st ed., 1594; 2nd ed., corrected and
   illustrated with unpublished documents by G. C. Gregori, 5 vols.,
   Pisa, 1827-1832); J. M. Jacobi, _Hist. gén. de la Corse_, 2 vols.,
-  (Paris, 1833-1835), with many unpublished documents; L. H. Caird,
+  (Paris, 1833-1835), with many unpublished documents; L. H. [[Caird]],
   _History of Corsica_ (London, 1899). Further works and references to
   articles in reviews, &c., are given in Ulysse Chevalier's _Répertoire
   des sources_, &c., _Topo-bibliographie_, t. ii. s.v.

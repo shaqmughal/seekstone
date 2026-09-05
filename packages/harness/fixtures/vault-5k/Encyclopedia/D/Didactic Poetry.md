@@ -30,16 +30,16 @@ proper, nay, the only serious vehicle of their instruction. What they
 knew was extremely limited, and in its nature it was simple and
 straightforward; it had little technical subtlety; it constantly lapsed
 into the fabulous and the conjectural. Not only could what early sages
-knew, or guessed, about astronomy and medicine and geography be
+knew, or guessed, about astronomy and medicine and [[Geography|geography]] be
 conveniently put into rolling verse, but, in the absence of all written
 books, this was the easiest way in which information could be made
-attractive to the ear and be retained by the memory.
+attractive to the [[Ear|ear]] and be retained by the memory.
 
 In the prehistoric dawn of Greek civilization there appear to have been
 three classes of poetry, to which the literature of Europe looks back as
 to its triple fountain-head. There were romantic epics, dealing with the
 adventures of gods and heroes; these Homer represents. There were mystic
-chants and religious odes, purely lyrical in character, of which the
+[[Chant|chants]] and religious odes, purely lyrical in character, of which the
 best Orphic Hymns must have been the type. And lastly there was a great
 body of verse occupied entirely with increasing the knowledge of
 citizens in useful branches of art and observation; these were the
@@ -64,7 +64,7 @@ better than no knowledge at all. In slightly later times, as the Greek
 nation became better supplied with intellectual appliances, the stream
 of didactic poetry flowed more and more closely in one, and that a
 theological, channel. The great poem of Parmenides _On Nature_ and those
-of Empedocles exist only in fragments, but enough remains to show that
+of [[Empedocles]] exist only in fragments, but enough remains to show that
 these poets carried on the didactic method in mythology. Cleostratus of
 Tenedos wrote an astronomical poem in the 6th century, and Periander a
 medical one in the 4th, but didactic poetry did not flourish again in
@@ -76,7 +76,7 @@ It was from the hands of these Alexandrian writers that the genius of
 didactic poetry passed over to Rome, since, although it is possible that
 some of the lost works of the early republic, and in particular those of
 Ennius, may have possessed an educational character, the first and by
-far the greatest didactic Latin poet known to us is Lucretius. A highly
+far the greatest didactic Latin poet known to us is [[Lucretius]]. A highly
 finished translation by Cicero into Latin hexameters of the principal
 works of Aratus is believed to have drawn the attention of Lucretius to
 this school of Greek poetry, and it was not without reference to the
@@ -101,13 +101,13 @@ been essential in the agricultural life of his boyish home, and the
 result, in spite of the ardours of the subject, was what J. W. Mackail
 has called "the most splendid literary production of the Empire." In the
 rest of surviving Latin didactic poetry, the influence and the imitation
-of Virgil and Lucretius are manifest. Manilius, turning again to
+of Virgil and Lucretius are [[Manifest|manifest]]. [[Manilius]], turning again to
 Alexandria, produced a fine _Astronomica_ towards the close of the reign
 of Augustus. Columella, regretting that Virgil had omitted to sing of
 gardens, composed a smooth poem on horticulture. Natural philosophy
-inspired Lucilius junior, of whom a didactic poem on Etna survives. Long
+inspired [[Lucilius Junior|Lucilius junior]], of whom a didactic poem on Etna survives. Long
 afterwards, under Diocletian, a poet of Carthage, Nemesianus, wrote in
-the manner of Virgil the _Cynegetica_, a poem on hunting with dogs,
+the manner of Virgil the _Cynegetica_, a poem on [[Hunting|hunting]] with dogs,
 which has had numerous imitations in later European literatures. These
 are the most important specimens of didactic poetry which ancient Rome
 has handed down to us.
@@ -126,7 +126,7 @@ of the whole art of English farming. Throughout the early part of the
 brilliant condition, the last thing a poet thought of doing was the
 setting down of scientific facts in rhyme. We come across, however, one
 or two writers who were as didactic as the age would permit them to be,
-Samuel Daniel with his philosophy, Fulke Greville, Lord Brooke with his
+Samuel [[Daniel]] with his philosophy, Fulke Greville, Lord Brooke with his
 "treatises" of war and monarchy. After the Restoration, as the lyrical
 element rapidly died out of English poetry, there was more and more room
 left for educational rhetoric in verse. The poems about prosody, founded
@@ -141,7 +141,7 @@ the purely didactic about a great deal of the verse of Pope and Gay. In
 such productions as Gilbert West's (1703-1756) _Education_, Dyer's
 _Fleece_, and Somerville's _Chase_, we see technical information put
 forward as the central aim of the poet. Instead of a passionate
-pleasure, or at least an uplifted enthusiasm, being the poet's object,
+pleasure, or at least an uplifted [[Enthusiasm|enthusiasm]], being the poet's object,
 he frankly admits that, first and foremost, he has some facts about wool
 or dogs or schoolmasters which he wishes to bring home to his readers,
 and that, secondly, he consents to use verse, as brilliantly as he can,
@@ -162,10 +162,10 @@ divided; this poem belongs rather to the class of descriptive poetry,
 but a strong didactic tendency is visible in parts of it. Perhaps the
 latest frankly educational poem which enjoyed a great popularity was
 _The Course of Time_ by Robert Pollok (1798-1827), in which a system of
-Calvinistic divinity is laid down with severity and in the pomp of blank
+Calvinistic divinity is laid down with severity and in the pomp of [[Blank|blank]]
 verse. This kind of literature had already been exposed, and
 discouraged, by the teaching of Wordsworth, who had insisted on the
-imperative necessity of charging all poetry with imagination and
+imperative necessity of charging all poetry with [[Imagination|imagination]] and
 passion. Oddly enough, _The Excursion_ of Wordsworth himself is perhaps
 the most didactic poem of the 19th century, but it must be acknowledged
 that his influence, in this direction, was saner than his practice.
@@ -176,10 +176,10 @@ purpose of inculcating useful information.
 The history of didactic poetry in France repeats, in great measure, but
 in drearier language, that of England. Boileau, like Pope, but with a
 more definite purpose as a teacher, offered instruction in his _Art
-poétique_ and in his _Epistles_. But his doctrine was always literary,
+poétique_ and in his _[[Epistle|Epistles]]_. But his doctrine was always literary,
 not purely educational. At the beginning of the 18th century, the
 younger Racine (1692-1763) wrote sermons in verse, and at the close of
-it the Abbé Delille (1738-1813) tried to imitate Virgil in poems about
+it the Abbé [[Delille]] (1738-1813) tried to imitate Virgil in poems about
 horticulture. Between these two there lies a vast mass of verse written
 for the indulgence of intellect rather than at the dictates of the
 heart; wherever this aims at increasing knowledge, it at once becomes
@@ -197,7 +197,7 @@ Haller (1708-1777) brought a very considerable intellectual force to
 bear on his huge poems, _The Origin of Evil_, which was theological, and
 _The Alps_ (1729), botanical and topographical. Johann Peter Uz
 (1720-1796) wrote a _Theodicée_, which was very popular, and not without
-dignity. Johann Jacob Dusch (1725-1787) undertook to put _The Sciences_
+dignity. Johann [[Jacob]] Dusch (1725-1787) undertook to put _The Sciences_
 into the eight books of a great didactic poem. Tiedge (1752-1840) was
 the last of the school; in a once-famous _Urania_, he sang of God and
 Immortality and Liberty. These German pieces were the most unswervingly

@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ilagan"
 
 ILAGAN, the capital of the province of Isabela, Luzon, Philippine
 Islands, on an elevated site at the confluence of the Pinacanauan river
-with the Grande de Cagayan, about 200 m. N.N.E. of Manila. Pop. (1903)
+with the Grande de Cagayan, about 200 m. N.N.E. of [[Manila]]. Pop. (1903)
 16,008. The neighbouring country is the largest tobacco-producing
 section in the Philippines.
 

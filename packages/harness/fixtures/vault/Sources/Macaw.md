@@ -13,7 +13,7 @@ more species of large, long-tailed birds of the parrot-family, natives
 of the neotropical region, and forming a very well-known and easily
 recognized genus _Ara_, and to the four species of Brazilian Hyacinthine
 macaws of the genera _Anodorhynchus_ and _Cyanopsittacus_. Most of the
-macaws are remarkable for their gaudy plumage, which exhibits the
+macaws are remarkable for their [[Gaudy|gaudy]] plumage, which exhibits the
 brightest scarlet, yellow, blue and green in varying proportion and
 often in violent contrast, while a white visage often adds a very
 peculiar and expressive character.[1] With one exception the known
@@ -26,15 +26,15 @@ to Gundlach (_Ornitologia Cubana_, p. 126), its numbers are rapidly
 decreasing so that there is every chance of its becoming extinct.[2]
 
 Of the best known species of the group, the blue-and-yellow macaw, _A.
-ararauna_, has an extensive range in South America from Guiana in the
+ararauna_, has an extensive range in South America from [[Guiana]] in the
 east to Colombia in the west, and southwards to Paraguay. Of large size,
 it is to be seen in almost every zoological garden, and it is very
 frequently kept alive in private houses, for its temper is pretty good,
 and it will become strongly attached to those who tend it. Its richly
 coloured plumage, sufficiently indicated by its common English name,
-supplies feathers eagerly sought by salmon-fishers for the making of
-artificial flies. The red-and-blue macaw, _A. macao_, is even larger and
-more gorgeously clothed, for, besides the colours expressed in its
+supplies [[Feather|feathers]] eagerly sought by salmon-fishers for the making of
+artificial flies. The red-and-blue macaw, _A. [[Macao|macao]]_, is even larger and
+more gorgeously clothed, for, besides the [[Colours|colours]] expressed in its
 ordinary appellation, yellow and green enter into its adornment. It
 inhabits Central as well as South America as far as Bolivia, and is also
 a common bird in captivity, though perhaps less often seen than the
@@ -52,7 +52,7 @@ blue.
 The macaws live well in captivity, either chained to a perch or kept in
 large aviaries in which their strong flight is noticeable. The note of
 these birds is harsh and screaming. The sexes are alike; the lustreless
-white eggs are laid in hollow trees, usually two at a time. The birds
+white [[Egg|eggs]] are laid in hollow trees, usually two at a time. The birds
 are gregarious but apparently monogamous.     (A. N.)
 
 
@@ -66,7 +66,7 @@ FOOTNOTES:
     was most likely a peculiar species. Sloane (_Voyage_, ii. 297), after
     describing what he calls the "great maccaw" (_A. ararauna_), which he
     had seen in captivity in that island, mentions the "small maccaw" as
-    being very common in the woods there, and P. H. Gosse (_Birds of
+    being very common in the woods there, and P. H. [[Gosse]] (_Birds of
     Jamaica_, p. 260) gives, on the authority of Robinson, a local
     naturalist of the last century, the description of a bird which
     cannot be reconciled with any species now known, though it must have

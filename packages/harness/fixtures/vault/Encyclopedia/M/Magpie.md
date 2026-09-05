@@ -7,13 +7,13 @@ topic: history
 # Magpie
 
 MAGPIE, or simply PIE (Fr. _pie_), the prefix being the abbreviated form
-of a human name (Margaret[1]), a bird once common throughout Great
+of a human name ([[Margaret]][1]), a bird once common throughout Great
 Britain, though now nearly everywhere scarce. Its pilfering habits have
 led to this result, yet the injuries it causes are exaggerated by common
 report; and in many countries of Europe it is still the tolerated or
-even the cherished neighbour of every farmer, as it formerly was in
+even the cherished neighbour of every [[Farmer|farmer]], as it formerly was in
 England if not in Scotland also. It did not exist in Ireland in 1617,
-when Fynes Morison wrote his _Itinerary_, but it had appeared there
+when [[Fyne|Fynes]] Morison wrote his _Itinerary_, but it had appeared there
 within a hundred years later, when Swift mentions its occurrences in his
 _Journal to Stella_, 9th July 1711. It is now common enough in that
 country, and there is a widespread but unfounded belief that it was
@@ -25,10 +25,10 @@ settler's house to the next, as the country has been peopled.
 
 Since the persecution to which the pie has been subjected in Great
 Britain, its habits have altered greatly. It is no longer the merry,
-saucy hanger-on of the homestead, but is become the suspicious thief,
+saucy hanger-on of the [[Homestead|homestead]], but is become the suspicious thief,
 shunning the gaze of man, and knowing that danger may lurk in every
-bush. Hence opportunities of observing it fall to the lot of few, and
-most persons know it only as a curtailed captive in a wicker cage, where
+bush. Hence opportunities of observing it fall to the [[Lot|lot]] of few, and
+most persons know it only as a curtailed [[Captive|captive]] in a wicker cage, where
 its vivacity and natural beauty are lessened or wholly lost. At large
 few European birds possess greater beauty, the pure white of its
 scapulars and inner web of the flight-feathers contrasting vividly with
@@ -37,11 +37,11 @@ tail is lustrous with green, bronze, and purple reflections. The pie's
 nest is a wonderfully ingenious structure, placed either in high trees
 or low bushes, and so massively built that it will stand for years. Its
 foundation consists of stout sticks, turf and clay, wrought into a deep,
-hollow cup, plastered with earth, and lined with fibres; but around this
+hollow cup, plastered with earth, and lined with [[Fibres|fibres]]; but around this
 is erected a firmly interwoven, basket-like outwork of thorny sticks,
 forming a dome over the nest, and leaving but a single hole in the side
 for entrance and exit, so that the whole structure is rendered almost
-impregnable. Herein are laid from six to nine eggs, of a pale
+impregnable. Herein are laid from six to nine [[Egg|eggs]], of a pale
 bluish-green freckled with brown and blotched with ash-colour.
 Superstition as to the appearance of the pie still survives even among
 many educated persons, and there are several versions of a rhyming adage
@@ -58,7 +58,7 @@ slightly from those inhabiting the rest of Europe, and in some points
 more resemble the _P. mauritanica_ of north-western Africa; but that
 species has a patch of bare skin of a fine blue colour behind the eye,
 and much shorter wings. No fewer than five species have been
-discriminated from various parts of Asia, extending to Japan; but only
+discriminated from various parts of Asia, extending to [[Japan]]; but only
 one of them, the _P. leucoptera_ of Turkestan and Tibet, has of late
 been admitted as valid. In the west of North America, and in some of its
 islands, a pie is found which extends to the upper valleys of the

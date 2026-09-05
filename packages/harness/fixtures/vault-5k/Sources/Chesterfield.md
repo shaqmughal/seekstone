@@ -28,7 +28,7 @@ times were a special object of study with him, and he describes his
 boyish pedantry pleasantly enough, but by no means without a touch of
 self-satisfaction in the memory. His university training was
 supplemented (1714) by a continental tour, untrammelled by a governor;
-at the Hague his ambition for the applause awarded to adventure made a
+at the [[Hague]] his ambition for the applause awarded to adventure made a
 gamester of him, and at Paris he began, from the same motive, that
 worship of the conventional Venus, the serious inculcation of which has
 earned for him the largest and most unenviable part of his reputation.
@@ -36,7 +36,7 @@ earned for him the largest and most unenviable part of his reputation.
 The death of Anne and the accession of George I. opened up a career for
 him and brought him back to England. His relative James Stanhope
 (afterwards first Earl Stanhope), the king's favourite minister,
-procured for him the place of gentleman of the bedchamber to the prince
+procured for him the place of [[Gentleman|gentleman]] of the bedchamber to the prince
 of Wales. In 1715 he entered the House of Commons as Lord Stanhope of
 Shelford and member for St Germans, and when the impeachment of James,
 duke of Ormonde, came before the House, he used the occasion (5th of
@@ -45,7 +45,7 @@ speech was youthfully fluent and dogmatic; but on its conclusion the
 orator was reminded with many compliments, by an honourable member, that
 he wanted six weeks of his majority, and consequently that he was
 amenable to a fine of £500 for speaking in the House. Lord Stanhope
-quitted the Commons with a low bow and started for the continent. From
+quitted the Commons with a low [[Bow|bow]] and started for the continent. From
 Paris he rendered the government important service by gathering and
 transmitting information respecting the Jacobite plot; and in 1716 he
 returned to England, resumed his seat, and took frequent part in the
@@ -53,7 +53,7 @@ debates. In that year came the quarrel between the king and the heir
 apparent. Stanhope, whose politic instinct obliged him to worship the
 rising rather than the setting sun, remained faithful to the prince,
 though he was too cautious to break entirely with the king's party. He
-was on friendly terms with the prince's mistress, Henrietta Howard,
+was on friendly terms with the prince's mistress, Henrietta [[Howard]],
 afterwards countess of Suffolk. He maintained a correspondence with this
 lady which won for him the hatred of the princess of Wales (afterwards
 Queen Caroline). In 1723 a vote for the government got him the place of
@@ -127,7 +127,7 @@ Queen Caroline's "_ma bonne Howard_." The influence of Newcastle and
 Sandwich, however, was too strong for him; he was thwarted and
 over-reached; and in 1748 he resigned the seals, and returned to cards
 and his books with the admirable composure which was one of his most
-striking characteristics. He declined any knowledge of the _Apology for
+striking characteristics. He declined any knowledge of the _[[Apology]] for
 a late Resignation, in a Letter from an English Gentleman to his Friend
 at The Hague_, which ran through four editions in 1748, but there is
 little doubt that he was, at least in part, the author.
@@ -135,7 +135,7 @@ little doubt that he was, at least in part, the author.
 The dukedom offered him by George II., whose ill-will his fine tact had
 overcome, was refused. He continued for some years to attend the Upper
 House, and to take part in its proceedings. In 1751, seconded by Lord
-Macclesfield, president of the Royal Society, and Bradley, the eminent
+[[Macclesfield]], president of the Royal Society, and Bradley, the eminent
 mathematician, he distinguished himself greatly in the debates on the
 calendar, and succeeded in making the new style a fact. Deafness,
 however, was gradually affecting him, and he withdrew little by little
@@ -150,7 +150,7 @@ waiting in the anteroom when he called while Cibber was admitted. In any
 case the doctor had expected more help from a professed patron of
 literature, and wrote the earl the famous letter in defence of men of
 letters. Chesterfield's "respectable Hottentot," now identified with
-George, Lord Lyttelton, was long supposed, though on slender grounds, to
+George, Lord [[Lyttelton]], was long supposed, though on slender grounds, to
 be a portrait of Johnson. During the twenty years of life that followed
 this episode, Chesterfield wrote and read a great deal, but went little
 into society.
@@ -163,11 +163,11 @@ long been married to a lady of humble origin must have been galling in
 the extreme to his father after his careful instruction in worldly
 wisdom. Chesterfield, who had no children by his wife, Melusina von
 Schulemberg, illegitimate daughter of George I., whom he married in
-1733, adopted his godson, a distant cousin, named Philip Stanhope
+1733, adopted his godson, a distant [[Cousin|cousin]], named Philip Stanhope
 (1755-1815), as heir to the title and estates. His famous jest (which
 even Johnson allowed to have merit)--"Tyrawley and I have been dead
 these two years, but we don't choose to have it known"--is the best
-description possible of his humour and condition during the latter part
+description possible of his [[Humour|humour]] and condition during the latter part
 of this period of decline. To the deafness was added blindness, but his
 memory and his fine manners only left him with life; his last words
 ("Give Dayrolles a chair") prove that he had neither forgotten his
@@ -195,7 +195,7 @@ worked so hard and thought so deeply failed especially where his father
 had most desired he should succeed.
 
 As a politician and statesman, Chesterfield's fame rests on his short
-but brilliant administration of Ireland. As an author he was a clever
+but brilliant administration of Ireland. As an author he was a [[Clever|clever]]
 essayist and epigrammatist. But he stands or falls by the _Letters to
 his Son_, first published by Stanhope's widow in 1774, and the _Letters
 to his Godson_ (1890). The _Letters_ are brilliantly written--full of

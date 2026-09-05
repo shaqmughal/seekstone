@@ -30,7 +30,7 @@ Erskine May, _Parliamentary Practice_, 1906, pp. 201-202).
 
 The term "journal" is used, in business, for a book in which an account
 of transactions is kept previous to a transfer to the ledger (see
-BOOK-KEEPING), and also as an equivalent to a ship's log, as a record of
+BOOK-KEEPING), and also as an equivalent to a ship's [[Log|log]], as a record of
 the daily run, observations, weather changes, &c. In mining, a journal
 is a record describing the various strata passed through in sinking a
 shaft. A particular use of the word is that, in machinery, for the parts

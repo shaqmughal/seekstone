@@ -22,19 +22,19 @@ caecum.
 [Illustration: The Hippopotamus (_Hippopotamus amphibius_).]
 
 In form the hippopotamus is a huge, unwieldy creature, measuring in the
-largest specimens fully 14 ft. from the extremity of the upper lip to
+largest specimens fully 14 ft. from the extremity of the upper [[Lip|lip]] to
 the tip of the tail, while it ordinarily attains a length of 12 ft.,
 with a height of 5 ft. at the shoulders, and a girth round the thickest
-part of the body almost equal to its length. The small ears are
+part of the body almost equal to its length. The small [[Ear|ears]] are
 exceedingly flexible, and kept in constant motion when the animal is
 seeking to catch a distant sound; the eyes are placed high up on the
 head, but little below the level of the ears; while the gape is wide,
 and the upper lip thick and bulging so as to cover over even its large
 tusks when the mouth is closed. The molars, which show trefoil-shaped
 grinding-surfaces are well adapted for masticating vegetable substances,
-while the formidable array of long spear-like incisors and curved
+while the formidable [[Array|array]] of long spear-like incisors and curved
 chisel-edged canines or tusks root up rank grass like an agricultural
-implement. The legs are short, so that the body is but little elevated
+[[Implement|implement]]. The legs are short, so that the body is but little elevated
 above the ground; and the feet, which are small in proportion to the
 size of the animal, terminate in four short toes each bearing a small
 hoof. With the exception of a few tufts of hair on the lips, on the
@@ -74,7 +74,7 @@ seeks to avoid collision with man; when wounded, however, or in defence
 of its young, it exhibits great ferocity, and native canoes are capsized
 and occasionally demolished by its infuriated attacks; the bellowing
 grunt then becoming loud enough to be heard a mile away. As among
-elephants, so also among hippopotamuses there are "rogues"--old bulls
+elephants, so also among hippopotamuses there are "rogues"--old [[Bull|bulls]]
 which have become soured in solitude, and are at all times dangerous.
 Assuming the offensive on every occasion, they attack all and sundry
 without shadow of provocation; and the natives avoid their haunts, which
@@ -84,9 +84,9 @@ The only other living species is the pygmy hippopotamus, _H.
 (Choeropsis) liberiensis_, of West Africa, an animal not larger than a
 clumsily made pig of full dimensions, and characterized by having
 generally one (in place of two) pair of incisors. It is much less
-aquatic than its giant relative, having, in fact, the habits of a pig.
+aquatic than its [[Giant|giant]] relative, having, in fact, the habits of a pig.
 
-A small extinct species (_H. lemerlei_) inhabited Madagascar at a
+A small extinct species (_H. lemerlei_) inhabited [[Madagascar]] at a
 comparatively recent date; while other dwarf kinds were natives of Crete
 (_H. minutus_) and Malta and Sicily (_H. pentlandi_) during the
 Pleistocene. A large form of the ordinary species (_H. amphibius major_)
@@ -94,7 +94,7 @@ was distributed over Europe as far north as Yorkshire at the same epoch;
 while an allied species (_H. palaeindicus_) inhabited Pleistocene India.
 Contemporary with the latter was, however, a species (_H. namadicus_)
 with three pairs of incisors; and "hexaprotodont" hippopotamuses are
-also characteristic of the Pliocene of India and Burma (_H. sivalensis_
+also characteristic of the Pliocene of India and [[Burma]] (_H. sivalensis_
 and _H. iravadicus_), and of Algeria, Egypt and southern Europe (_H.
 hipponensis_).
 

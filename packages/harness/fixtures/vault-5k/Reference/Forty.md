@@ -12,7 +12,7 @@ also been known as "The Forty" or "The Forty Immortals." The period just
 before the repeal of the corn laws in the United Kingdom is frequently
 alluded to, particularly by the free trade school, as the "hungry
 forties"; and the "roaring forties" is a sailor's name for the stormy
-region between the 40th and 50th latitudes N. and S., but more
+region between the 40th and 50th [[Latitude|latitudes]] N. and S., but more
 particularly applied to the portion of the north Atlantic lying between
 those latitudes.
 

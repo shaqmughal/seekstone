@@ -8,10 +8,10 @@ topic: geography
 
 EGERTON, SIR PHILIP DE MALPAS GREY, Bart. (1806-1881), English
 palaeontologist, was born on the 13th of November 1806, the son of the
-9th baronet. He was educated at Eton and Christ Church, Oxford, where he
+9th baronet. He was educated at [[Eton]] and Christ Church, Oxford, where he
 graduated B.A. in 1828. While at college his interest in geology was
 aroused by the lectures of W. Buckland, and by his acquaintance with
-W.D. Conybeare. Subsequently when travelling in Switzerland with Lord
+W.D. [[Conybeare]]. Subsequently when travelling in Switzerland with Lord
 Cole (afterwards 3rd earl of Enniskillen) they were introduced to Prof.
 L. Agassiz at Neufchatel, and determined to make a special study of
 fossil fishes. During the course of fifty years they gradually gathered

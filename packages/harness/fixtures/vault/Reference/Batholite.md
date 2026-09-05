@@ -24,10 +24,10 @@ Such granite intrusions are generally known as bosses from their rounded
 surfaces, and the frequency with which they form flattish dome-shaped
 hills, rising above the older rocks surrounding them. At one time many
 geologists held that in certain situations the granite had arisen from
-the complete fusion and transformation of the stratified rocks over a
+the complete [[Fusion|fusion]] and transformation of the stratified rocks over a
 limited area of intense metamorphism. The chemical no less than the
 structural relations of the two sets of rocks, however, preclude the
-acceptance of this hypothesis. Obviously the granite is an intruder
+acceptance of this [[Hypothesis|hypothesis]]. Obviously the granite is an intruder
 which has welled up from below, and has cooled gradually, and solidified
 in its present situation.
 
@@ -44,7 +44,7 @@ unusual modifications of the granite which occur where it comes in
 contact with the adjacent strata, are adduced as evidence that there has
 been absorption and digestion of the country rock by the intrusive mass.
 These views are in favour especially in France; and instances are cited
-in which as the margins of the granite are approached diorites and other
+in which as the margins of the granite are approached [[Diorite|diorites]] and other
 rocks make their appearance, which are ascribed to the effect which
 admixture with dissolved sedimentary material has had on the composition
 of the granite magma; at the same time the schists have been permeated
@@ -52,7 +52,7 @@ with felspar from the igneous rocks, and are said to have been
 felspathized.
 
 The opponents of this theory hold these granitic masses to be
-"laccolites" (Gr. [Greek: lakkos], a cistern), or great cake-shaped
+"[[Laccolite|laccolites]]" (Gr. [Greek: lakkos], a cistern), or great cake-shaped
 injections of molten rock, which have been pressed from below into
 planes of weakness in the upper portions of the earth's crust, taking
 the lines of least resistance, and owing their shape to the varying

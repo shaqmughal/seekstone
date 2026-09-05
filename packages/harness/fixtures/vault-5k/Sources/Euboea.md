@@ -16,7 +16,7 @@ breadth from 30 m. to 4. Its general direction is from N.W. to S.E., and
 it is traversed throughout its length by a mountain range, which forms
 part of the chain that bounds Thessaly on the E., and is continued south
 of Euboea in the lofty islands of Andros, Tenos and Myconos. The
-principal peaks of this range are grouped in three knots which divide
+principal peaks of this range are grouped in three [[Knot|knots]] which divide
 the island into three portions. Towards the north, opposite the Locrian
 territory, the highest peaks are Mts. Gaetsades (4436 ft.) and Xeron
 (3232 ft.). The former was famed in ancient times for its medicinal
@@ -37,7 +37,7 @@ _Trachiniae_. Near the north-east extremity of the island, and almost
 facing the entrance of the Gulf of Pagasae, is the promontory of
 Artemisium, celebrated for the great naval victory gained by the Greeks
 over the Persians, 480 B.C. Towards the centre, to the N.E. of Chalcis,
-rises the highest of its mountains, Dirphys or Dirphe, now Mount Delphi
+rises the highest of its mountains, Dirphys or Dirphe, now Mount [[Delphi]]
 (5725 ft.), the bare summit of which is not entirely free from snow till
 the end of May, while its sides are clothed with pines and firs, and
 lower down with chestnuts and planes. It is one of the most conspicuous
@@ -58,10 +58,10 @@ to have been separated from it by an earthquake. This is the less
 improbable because it lies in the neighbourhood of a line of earthquake
 movement, and both from Thucydides and from Strabo we hear of the
 northern part of the island being shaken at different periods, and the
-latter writer speaks of a fountain at Chalcis being dried up by a
+latter writer speaks of a [[Fountain|fountain]] at Chalcis being dried up by a
 similar cause, and a mud volcano formed in the neighbouring plain.
 Evidences of volcanic action are also traceable in the legends connected
-with Heracles at Aedepsus and Cenaeum, which here, as at Lemnos and
+with Heracles at Aedepsus and Cenaeum, which here, as at [[Lemnos]] and
 elsewhere in Greece, have that origin. Its northern extremity is
 separated from the Thessalian coast by a strait, which at one point is
 not more than a mile and a half in width. In the neighbourhood of
@@ -70,7 +70,7 @@ readily to explain the story of Agamemnon's fleet having been detained
 there by contrary winds. At Chalcis itself, where the strait is
 narrowest, it is called the Euripus, and here it is divided in the
 middle by a rock, on which formerly a castle stood. The channel towards
-Boeotia, which is now closed, is spanned by a stone bridge. The other,
+[[Boeotia]], which is now closed, is spanned by a stone bridge. The other,
 which is far the deeper of the two, is crossed by an iron swing-bridge,
 allowing for the passage of vessels. This bridge, which dates from 1896,
 replaced a smaller wooden swing-bridge erected in 1856. The
@@ -98,7 +98,7 @@ the Cereus and Neleus concerning which the story was told that sheep
 drinking the water of the one became white, of the other black. On the
 north coast, near Histiaea, is the Callas; and on the western side the
 Lelantus, near Chalcis, flowing through the plain of the same name. This
-plain, which intervenes between Chalcis and Eretria, and was a fruitful
+plain, which intervenes between Chalcis and [[Eretria]], and was a fruitful
 source of contention to those cities, is the most considerable of the
 few and small spaces of level ground in the island, and was fertile in
 corn. Aristotle, when speaking of the aristocratic character of the
@@ -149,7 +149,7 @@ reinforced by Ionians from Attica, rose to great power, and exercised a
 sort of supremacy over the whole island, so that in Homer the
 inhabitants generally are called by that name. The southern part was
 occupied by the Dryopes, part of which tribe, after having been expelled
-from their original seats in the south of Thessaly by the Dorians,
+from their original seats in the south of Thessaly by the [[Dorians]],
 migrated to this island, and established themselves in the three cities
 of Karystos, Dystos and Styra. The population of Euboea at the present
 day is made up of elements not less various, for many of the Greek
@@ -182,16 +182,16 @@ Ionians in their revolt against the Persians (see IONIA); and owing to
 this, that city was the first place in Greece proper to be attacked by
 Datis and Artaphernes in 490 B.C. It was utterly ruined on that
 occasion, and its inhabitants were transported to Persia. Though it was
-restored after the battle of Marathon, on a site at a little distance
+restored after the battle of [[Marathon]], on a site at a little distance
 from its original position, it never regained its former eminence, but
 it was still the second city in the island. From this time its neighbour
 Chalcis, which, though it suffered from a lack of good water, was, as
 Strabo says, the natural capital from its commanding the Euripus, held
 an undisputed supremacy. Already, however, this city had suffered from
 the growing power of Athens. In the year 506, when the Chalcidians
-joined with the Boeotians and the Spartan king Cleomenes in a league
+joined with the Boeotians and the Spartan king [[Cleomenes]] in a league
 against that state, they were totally defeated by the Athenians, who
-established 4000 Attic settlers (see CLERUCHY) on their lands, and seem
+established 4000 [[Attic]] settlers (see CLERUCHY) on their lands, and seem
 to have reduced the whole island to a condition of dependence. Again, in
 446, when Euboea endeavoured to throw off the yoke, it was once more
 reduced by Pericles, and a new body of settlers was planted at Histiaea
@@ -211,7 +211,7 @@ it taking sides with one or other of the leading states, until, after
 the battle of Chaeronea, it passed into the hands of Philip II. of
 Macedon, and finally into those of the Romans. By Philip V. of Macedon
 Chalcis was called one of the three fetters of Greece, Demetrias on the
-Gulf of Pagasae and Corinth being the other two.
+Gulf of Pagasae and [[Corinth]] being the other two.
 
 In modern history Euboea or Negropont comes once more prominently into
 notice at the time of the fourth crusade. In the partition of the

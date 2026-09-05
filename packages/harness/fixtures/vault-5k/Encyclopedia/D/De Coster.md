@@ -10,7 +10,7 @@ tags: [inventors, americas]
 DE COSTER, CHARLES THEODORE HENRI (1827-1879), Belgian writer, was born
 at Munich on the 20th of August 1827. His father, Augustin de Coster,
 was a native of Liege, who was attached to the household of the papal
-nuncio at Munich, but soon returned to Belgium. Charles was placed in a
+nuncio at Munich, but soon returned to [[Belgium]]. Charles was placed in a
 Brussels bank, but in 1850 he entered the university of Brussels, where
 he completed his studies in 1855. He was one of the founders of the
 _Societe des Joyeux_, a small literary club, more than one member of
@@ -33,7 +33,7 @@ been compared to Don Quixote, and even to Panurge. He is the type of the
 16th-century Fleming, and the history of his resurrection from the grave
 itself was accepted as an allegory of the destiny of the race. The
 exploits of himself and his friend form the thread of a semi-historical
-narrative, full of racy humour, in spite of the barbarities that find a
+narrative, full of racy [[Humour|humour]], in spite of the barbarities that find a
 place in it. This book also was illustrated by Rops and others. In 1870
 De Coster became professor of general history and of French literature
 at the military school. His works however were not financially

@@ -4,21 +4,21 @@ MARATHI (properly _Marathi_),[1] the name of an important Indo-Aryan
 language spoken in western and central India. In 1901 the number of
 speakers was 18,237,899, or about the same as the population of Spain.
 Marathi occupies an irregular triangular area of approximately 100,000
-sq.m., having its apex about the district of Balaghat in the Central
+sq.m., having its apex about the district of [[Balaghat]] in the Central
 Provinces, and for its base the western coast of the peninsula from
-Daman on the Gulf of Cambay in the north to Karwar on the open Arabian
+Daman on the Gulf of [[Cambay]] in the north to Karwar on the open Arabian
 Sea in the south. It covers parts of two provinces of British
-India--Bombay and the Central Provinces (including Berar)--with numerous
+India--Bombay and the Central Provinces (including [[Berar]])--with numerous
 settlers in Central India and Madras, and is also the principal language
 of Portuguese India and of the north-western portion of His Highness the
 Nizam's dominions. The standard form of speech is that of Poona in
-Bombay, and, in its various dialects it covers the larger part of that
+Bombay, and, in its various [[Dialect|dialects]] it covers the larger part of that
 province, in which it is the vernacular of more than eight and a half
 millions of people.
 
 As explained in the article INDO-ARYAN LANGUAGES, there were in ancient
 times two main groups of these forms of speech--one, the language of the
-Midland, spoken in the country near the Gangetic Doab, and the other,
+Midland, spoken in the country near the Gangetic [[Doab]], and the other,
 the languages of the so-called "Outer Band," containing the Midland on
 three sides, west, east and south. The country to the south of the
 Midland, in which members of this Outer group of languages were formerly
@@ -28,9 +28,9 @@ hills. In the course of time the population of the Midland expanded, and
 gradually occupied this tract, reaching the sea in Gujarat. The language
 of the Outer Band was thus forced farther afield. Its speakers crossed
 the Vindhyas and settled in the central plateau of the Deccan and on the
-Konkan coast. Here they came into contact with speakers of the Dravidian
+[[Konkan]] coast. Here they came into contact with speakers of the [[Dravidian]]
 languages of southern India. As happened elsewhere in India, they
-retained their own Aryan tongue, and gradually through the influence of
+retained their own [[Aryan]] tongue, and gradually through the influence of
 their superior civilization imposed it upon the aborigines, so that all
 the inhabitants of this tract became the ancestors of the speakers of
 modern Marathi.
@@ -52,20 +52,20 @@ Provinces (including Berar), and that of the northern and central
 Konkan. In the southern part of the district of Ratnagiri this latter
 Konkani variety of Marathi gradually merges into the true Konkani
 dialect through a number of intermediate forms of speech. There are also
-several broken jargones, based upon Marathi, employed by aboriginal
+several broken [[Jargon|jargones]], based upon Marathi, employed by aboriginal
 tribes surviving in the hill country.
 
 _Relations with other Indo-Aryan Languages._--Marathi has to its north,
-in order from west to east, Gujarati, Rajasthani, Western Hindi and
+in order from west to east, Gujarati, Rajasthani, Western [[Hindi]] and
 Eastern Hindi. To its east and south it has the Dravidian languages,
-Gondi, Telugu and Kanarese. Elsewhere in India Aryan languages gradually
+Gondi, Telugu and [[Kanarese]]. Elsewhere in India Aryan languages gradually
 fade away into each other, so that it is impossible to fix any definite
 boundary line between them. But this is not the case with Marathi. It
 does not merge into any of the cognate neighbouring forms of speech, but
 possesses a distinct linguistic frontier. A native writer[2] says: "The
 Gujarati language agrees very closely with the languages of the
 countries lying to the north of it, because the Gujarati people came
-from the north. If a native of Delhi, Ajmere, Marwar, Mewar, Jaipur,
+from the north. If a native of [[Delhi]], Ajmere, Marwar, Mewar, Jaipur,
 &c., comes into Gujarat, the Gujarati people find no difficulty in
 understanding his language. But it is very wonderful that when people
 from countries bordering Gujarat on the south, as the Konkan,
@@ -108,9 +108,9 @@ also of the formal epic (_kavya_). Dramatic works were composed in it,
 and it was the vehicle of the non-canonical scriptures of the Jaina
 religion. The oldest work in the language of which we have any knowledge
 is the _Sattasai_, or Seven Centuries of verses, compiled at
-Pratisthana, on the Godavari, the capital of King Hala, at some time
+Pratisthana, on the Godavari, the capital of King [[Hala]], at some time
 between the 3rd and 7th centuries A.D. Pratisthana is the modern Paithan
-in the Aurangabad district of Hyderabad, and that city was for long
+in the [[Aurangabad]] district of Hyderabad, and that city was for long
 famous as a centre of literary composition. In later times the political
 centre of gravity was changed to Poona, the language of which district
 is now accepted as the standard of the best Marathi.
@@ -154,7 +154,7 @@ tongues," and again (p. 52):--
   having retained whatever has been spared by the action of time. To an
   Englishman Hindi commends itself by its absence of form, and the
   positional structure of its sentences resulting therefrom; to our
-  High-German cousins the Marathi, with its fuller array of genders,
+  High-German [[Cousin|cousins]] the Marathi, with its [[Fuller|fuller]] [[Array|array]] of genders,
   terminations, and inflexions, would probably seem the completer and
   finer language."
 
@@ -189,8 +189,8 @@ possible, in the following pages.
   sentences. But the richness of the language in _desya_ words has often
   rendered such borrowing unnecessary, and has saved Marathi, although
   the proportion of _tatsamas_ to _tadbhavas_[5] in the language is more
-  than sufficiently high, from the fate of the Pandit-ridden literary
-  Bengali, in which 80 to 90% of the vocabulary is pure Sanskrit. There
+  than sufficiently high, from the [[Fate|fate]] of the Pandit-ridden literary
+  [[Bengali]], in which 80 to 90% of the vocabulary is pure Sanskrit. There
   is indeed a tradition of stylistic chastity in the Maratha country
   from the earliest times, and even Sanskrit writers contrasted the
   simple elegance of the Deccan (or _Vaidarbhi_) style with the flowery
@@ -198,7 +198,7 @@ possible, in the following pages.
 
   The proportion of Persian and, through Persian, of Arabic words in the
   Marathi vocabulary is comparatively low, when compared with, say,
-  Hindostani. The reason is, firstly, the predominance in the literary
+  [[Hindostani]]. The reason is, firstly, the predominance in the literary
   world of these learned Brahmins, and, secondly, the fact that the
   Maratha country was not conquered by the Mussulmans till a fairly late
   period, nor was it so thoroughly occupied by them as were Sind, the
@@ -214,10 +214,10 @@ possible, in the following pages.
   very lightly, even when the accent is not the main accent of the word.
   Thus, if we indicate the main accent by ', and subsidiary accents
   (equivalent to the Hebrew _methegh_) by `, then the word _kárawat_, a
-  saw, is pronounced _kár^awat_; and _kàlakálane_, to be agitated, is
+  saw, is pronounced _kár^awat_; and _kàlaká[[Lane|lane]]_, to be agitated, is
   pronounced _kàl^akál^an_e. In Konkani the vowel _a_ assumes the sound
-  of o in "hot," a sound which is also heard in the language of Bengal.
-  In dialectic speech _e_ is often interchangeable with short or long
+  of o in "hot," a sound which is also heard in the language of [[Bengal]].
+  In [[Dialectic|dialectic]] speech _e_ is often interchangeable with short or long
   _a_, so that the standard _sangit^al_e, it was said, may appear as
   _sangit^ala_ or _sangit^ala_. The vowels _e_ and _o_ are apparently
   always long in the standard dialect, thus following Sanskrit; but in
@@ -228,12 +228,12 @@ possible, in the following pages.
   a long _a_, _i_ or _u_ precedes an accented syllable it is usually
   shortened. In the case of _a_ the shortening is not indicated by the
   spelling, but the written long _a_ is pronounced short like the _a_ in
-  the Italian _ballo_. Thus, the dative of _pik_, a ripe crop, is
+  the Italian _ballo_. Thus, the [[Dative|dative]] of _pik_, a ripe crop, is
   _pikas_, and that of _hat_, a hand, is _hatas_, pronounced _hatas_.
   Almost the only compound consonants which survived in the Prakrit
   stage were double letters, and in M. these are usually simplified, the
   preceding vowel being lengthened in compensation. Thus, the Prakrit
-  _kanno_ becomes _kan_, an ear; Pr. _bhikkha_ becomes _bhik_, alms; and
+  _kanno_ becomes _kan_, an [[Ear|ear]]; Pr. _bhikkha_ becomes _bhik_, alms; and
   Pr. _putto_ becomes _put_, a son. In the Pisaca (see INDO-ARYAN
   LANGUAGES) and other languages of north-western India it is not usual
   to lengthen the vowel in compensation, and the same tendency is
@@ -272,8 +272,8 @@ possible, in the following pages.
   Marathi _ghet^ale_, taken. There is similarly both in Marathi and
   Maharastri a laxness in distinguishing between cerebral and dental
   letters (which again reminds us of north-western India). Thus, Skr.
-  _dasati_, Maharastri _dasai_, he bites; M. _das^ane_ to bite; Skr.
-  _dahati_, Maharastri _dahai_, he burns; M. _dadz^ane_, to be hot; Skr.
+  _dasati_, Maharastri _dasai_, he [[Bit|bites]]; M. _das^ane_ to bite; Skr.
+  _dahati_, Maharastri _dahai_, he [[Burns|burns]]; M. _dadz^ane_, to be hot; Skr.
   _gardabhas_; Sauraseni _gaddaho_; Hindostani _gadha_; but Maharastri
   _gaddaho_; M. _gadhav_, an ass; and so many others. In Maharastri
   every _n_ becomes _n_, but in Jaina MSS. when the _n_ was initial or
@@ -598,7 +598,7 @@ possible, in the following pages.
     |   3    | uthe   | uthat   | utho  | uthot   | uthel    | uth^atil |
     +--------+--------+---------+-------+---------+----------+----------+
 
-  As in Rajasthani, Bihari and the Indo-Aryan language of Nepal (see
+  As in Rajasthani, [[Bihari]] and the Indo-Aryan language of Nepal (see
   PAHARI), the future is formed by adding _l_, or in the first person
   singular _n_, to the old present. In the second person singular the
   _l_ has been added to a form derived from the Pr. _utthasi_, which is
@@ -655,7 +655,7 @@ possible, in the following pages.
     | 3 | uth^ato   | uth^atat | uth^ala   | uth^ale |
     +---+-----------+----------+-----------+---------+
 
-  The feminine and neuter forms differ from the above: thus, _uth^ates_,
+  The feminine and neuter forms differ from the above: thus, _uth^[[Ate|ates]]_,
   thou (fem.) risest; _uth^alis_, thou (fem.) didst rise; and so on for
   the other persons and for the neuter.
 
@@ -692,7 +692,7 @@ possible, in the following pages.
   the verb substantive to the various participles. Thus _mi uthat ahe_,
   I am rising; _mi uthat hoto_, I was rising; _mya uthave hote_
   (impersonal construction), I should have risen. In the case of tenses
-  formed from the past participle, the auxiliary is appended, not to the
+  formed from the past participle, the [[Auxiliary|auxiliary]] is appended, not to the
   participle, but to the past tense, as in _mi uth^alo ahe_, I have
   risen; _mya marila ahe_ (personal passive construction) or _mya
   marile_ ahe (impersonal passive construction), I have killed.
@@ -730,7 +730,7 @@ possible, in the following pages.
   Ram could read a book (by R. a book could be read).
 
   Several verbs are irregular. These must be learnt from the grammars.
-  Here we may mention _hone_, to become, past participle _dzhala_;
+  Here we may mention _[[Hone|hone]]_, to become, past participle _dzhala_;
   _yene_, to come, past participle _ala_; and _dzane_, to go, past
   participle _gela_. There are also numerous compound verbs. One of
   these, making a passive, is formed by conjugating the verb _dzane_, to
@@ -744,14 +744,14 @@ possible, in the following pages.
   pantheism hitherto prevalent. The earliest writer of whom we have any
   record is Namdev (13th century), whose hymns in honour of Vithoba, a
   personal form of Vishnu, have travelled far beyond the home of their
-  writer, and are even found in the Sikh _Àdi Granth_. Dnyanoba, a
+  writer, and are even found in the Sikh _Àdi [[Granth]]_. Dnyanoba, a
   younger contemporary, wrote a paraphrase of the Sanskrit _Bhagavad
   Gita_, which is still much admired. Passing over several intermediate
   writers we come to the period of the warrior Sivaji, the opponent of
-  Aurangzeb. He was a disciple of Ramdas (1608-1681), who exercised
+  [[Aurangzeb]]. He was a [[Disciple|disciple]] of Ramdas (1608-1681), who exercised
   great influence over him, and whose _Dasbodh_, a work on religious
   duty, is a classic. Contemporary with Ramdas and Sivaji was Tukaram
-  (1608-1649), a Sudra by caste, and yet the greatest writer in the
+  (1608-1649), a Sudra by [[Caste|caste]], and yet the greatest writer in the
   language. He began life as a petty shopkeeper, and being unsuccessful
   both in his business and in his family relations, he abandoned the
   world and became a wandering ascetic. His _Abhangs_ or "unbroken"
@@ -761,7 +761,7 @@ possible, in the following pages.
   any great height as poetry. Other Marathi poets who may be mentioned
   are Sridhar (1678-1728), the most copious of all, who translated the
   _Bhagavata Purana_, and the learned Mayura or Moropant (1729-1794),
-  whose works smell too much of the lamp to satisfy European standards
+  whose works smell too much of the [[Lamp|lamp]] to satisfy European standards
   of criticism. Mahipati (1715-1790) was an imitator of Tukaram, but his
   chief importance rests on the fact that he collected the popular
   traditions about national saints, and was thus the author of the _Acta
@@ -771,18 +771,18 @@ possible, in the following pages.
   war-ballads, mostly by nameless poets, which are sung everywhere
   throughout the country. There is a small prose literature, consisting
   of narratives of historical events (the so-called _Bakhars_), moral
-  maxims and popular tales.
+  [[Maxims|maxims]] and popular tales.
 
   In the 19th century the facilities of the printing press are
   responsible for a great mass of published matter. Most of the best
   works have been written in English by learned natives, upon whom the
   methods of European scholarship have exercised more influence than
   elsewhere in India, and have given rise to a happy combination of
-  western science with Oriental lore. No vernacular authors of
+  western science with Oriental [[Lore|lore]]. No vernacular authors of
   outstanding merit have appeared during the last century.
 
   Konkani once had a literature of its own, which is said to have been
-  destroyed by the Inquisition at Goa. Temples and manuscripts were
+  destroyed by the Inquisition at Goa. Temples and [[Manuscript|manuscripts]] were
   burnt wholesale. Under Roman Catholic auspices a new literature arose,
   the earliest writer being an Englishman, Thomas Stephens (Thomaz
   Estevão), who came to Goa in 1579, wrote the first Konkani grammar,
@@ -814,10 +814,10 @@ possible, in the following pages.
   M. G. Ranade's _Rise of the Maratha Power_ (Bombay, 1900). For Konkani
   literature, see J. Gerson da Cunha's "Materials for the History of
   Oriental Studies among the Portuguese," in the _Proceedings of the
-  Fourth International Congress of Orientalists_, ii. 179 sqq.
+  Fourth [[International]] Congress of Orientalists_, ii. 179 sqq.
   (Florence, 1881). A full account of Marathi, given in great detail,
   will be found in vol. vii. of the _Linguistic Survey of India_
-  (Calcutta, 1905).     (G. A. Gr.)
+  ([[Calcutta]], 1905).     (G. A. Gr.)
 
 
 FOOTNOTES:
@@ -831,7 +831,7 @@ FOOTNOTES:
   [2] Shastri Vrajlal Kalidas, quoted by Beames in _Comparative
     Grammar_, i. 102.
 
-  [3] See B. A. Gupte in _Indian Antiquary_ (1905), xxxiv. 27.
+  [3] See B. A. Gupte in _Indian [[Antiquary]]_ (1905), xxxiv. 27.
 
   [4] For details see Dr Sten Konow's article on Maharastri and Marathi
     in _Indian Antiquary_ (1903), xxxii. 180 seq.

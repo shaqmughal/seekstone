@@ -1,10 +1,10 @@
 # Bertram
 
 BERTRAM, CHARLES (1723-1765), English literary impostor, was born in
-London, the son of a silk dyer. In 1747, being then teacher of English
-at the school for Danish naval cadets at Copenhagen, he wrote to Dr
+London, the son of a silk [[Dyer|dyer]]. In 1747, being then teacher of English
+at the school for Danish naval [[Cadet|cadets]] at [[Copenhagen]], he wrote to Dr
 William Stukeley, the English antiquarian, that he had discovered a
-manuscript written by a monk named Richard of Westminster, which
+[[Manuscript|manuscript]] written by a monk named Richard of Westminster, which
 corrected and supplemented the _Itinerary_ of Antoninus in Britain. He
 subsequently sent to Stukeley a copy of various parts of the work and a
 facsimile of a few lines of the manuscript. These were so cleverly
@@ -13,12 +13,12 @@ period. Stukeley, finding that a chronicler of the fourteenth century,
 Richard of Cirencester, had also been an inmate of Westminster Abbey,
 identified him with Bertram's Richard of Westminster, and, in 1756, read
 an analysis of the "discovery" before the Society of Antiquaries, which
-was published with a copy of Richard's map. In 1757 Bertram published at
+was published with a copy of Richard's [[Map|map]]. In 1757 Bertram published at
 Copenhagen a volume entitled _Britannicarum Gentium Historiae Antiquae
 Scriptores Tres_. This contained the works of Gildas and Nennius and the
-full text of Bertram's forgery, and though Bertram's map did not
+full text of Bertram's [[Forgery|forgery]], and though Bertram's map did not
 correspond with that of Richard, Stukeley discarded the latter and
-adopted Bertram's concoction in his _Itinerarium Curiosum_ published in
+adopted Bertram's concoction in his _[[Itinerarium]] Curiosum_ published in
 1776. Although Thomas Reynolds in his _Iter Britanniarum_ (1799), an
 edition of the British portion of Antoninus' _Itinerary_, was distinctly
 sceptical as to the value of Bertram's manuscript, its authenticity was

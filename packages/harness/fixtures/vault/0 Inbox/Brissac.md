@@ -9,7 +9,7 @@ tags: [religion, geology]
 
 # Brissac
 
-BRISSAC, DUKES OF. The fief of Brissac in Anjou was acquired at the end of
+BRISSAC, [[Dukes|DUKES]] OF. The fief of Brissac in [[Anjou]] was acquired at the end of
 the 15th century by a noble French family named Cosse belonging to the same
 province. Rene de Cosse married into the Gouffier family, just then very
 powerful at court, and became _premier panelier_ (chief pantler) to Louis

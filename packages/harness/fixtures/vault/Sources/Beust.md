@@ -1,9 +1,9 @@
 # Beust
 
-BEUST, FRIEDRICH FERDINAND VON (1809-1886), Austrian statesman, was
+BEUST, [[Friedrich|FRIEDRICH]] [[Ferdinand|FERDINAND]] VON (1809-1886), Austrian statesman, was
 descended from a noble family which had originally sprung from the Mark
 of Brandenburg, and of which one branch had been for over 300 years
-settled in Saxony. He was born on the 13th of January 1809 in Dresden,
+settled in Saxony. He was born on the 13th of January 1809 in [[Dresden]],
 where his father held office at the Saxon court. After studying at
 Leipzig and Gottingen he entered the Saxon public service; in 1836 he
 was made secretary of legation at Berlin, and afterwards held
@@ -18,7 +18,7 @@ internal affairs in 1853, and in the same year was appointed
 minister-president. From the time that he entered the ministry he was,
 however, the leading member of it, and he was chiefly responsible for
 the events of 1849. By his advice the king refused to accept the
-constitution proclaimed by the Frankfort parliament, a policy which led
+constitution proclaimed by the [[Frankfort]] parliament, a policy which led
 to the outbreak of revolution in Dresden, which was suppressed after
 four days' fighting by Prussian troops, for whose assistance Beust had
 asked. On Beust fell also the chief responsibility for governing the
@@ -34,7 +34,7 @@ conspicuous figures in German politics. He was the leader of that party
 which hoped to maintain the independence of the smaller states, and was
 the opponent of all attempts on the part of Prussia to attract them into
 a separate union; in 1849-1850 he had been obliged to join the "three
-kings' union" of Prussia, Hanover and Saxony, but he was careful to keep
+kings' union" of Prussia, [[Hanover]] and Saxony, but he was careful to keep
 open a loophole for withdrawal, of which he speedily availed himself. In
 the crisis of 1851 Saxony was on the side of Austria, and he supported
 the restoration of the diet of the confederation. In 1854 he took part
@@ -67,7 +67,7 @@ minister. It was a bold decision, for Beust was not only a stranger to
 Austria, but also a Protestant; but the choice of the emperor justified
 itself. Beust threw himself into his new position with great energy; it
 was owing to him that the negotiations with Hungary were brought to a
-successful issue. When difficulties came he went himself to Budapest,
+successful issue. When difficulties came he went himself to [[Budapest]],
 and acted directly with the Hungarian leaders. In 1867 he also held the
 position of Austrian minister-president, and he carried through the
 measures by which parliamentary government was restored. He also carried
@@ -96,7 +96,7 @@ with a view to establishing a good understanding with Germany. Bismarck
 accepted his advances with alacrity, and the new _entente_, which Beust
 announced to the Austro-Hungarian delegations in July 1871, was sealed
 in August by a friendly meeting of the two old rivals and enemies at
-Gastein.
+[[Gastein]].
 
 In 1871 Beust interfered at the last moment, together with Andrassy, to
 prevent the emperor accepting the federalist plans of Hohenwart. He was
@@ -113,8 +113,8 @@ and geology, a subject in which other members of the family had
 distinguished themselves.
 
 Beust was in many ways a diplomatist of the old school. He had great
-social gifts and personal graces; he was proud of his proficiency in the
-lighter arts of composing waltzes and _vers de societe_. His chief fault
+social gifts and personal [[Graces|graces]]; he was proud of his proficiency in the
+lighter arts of composing waltzes and _vers de societe_. His chief [[Fault|fault]]
 was vanity, but it was an amiable weakness. It was more vanity than
 rancour which made him glad to appear even in later years as the great
 opponent of Bismarck; and if he cared too much for popularity, and was
@@ -125,12 +125,12 @@ much importance to the verbal victory of a well-written despatch; but
 when the opportunity was given him he showed higher qualities. In the
 crisis of 1849 he displayed considerable courage, and never lost his
 judgment even in personal danger. If he was defeated in his German
-policy, it must be remembered that Bismarck held all the good cards, and
+policy, it must be remembered that Bismarck held all the good [[Cards|cards]], and
 in 1866 Saxony was the only one of the smaller states which entered on
 the war with an army properly equipped and ready at the moment. That he
 was no mere reactionary the whole course of his government in Saxony,
 and still more in Austria, shows. His Austrian policy has been much
-criticized, on the ground that in establishing the system of dualism he
+criticized, on the ground that in establishing the system of [[Dualism|dualism]] he
 gave too much to Hungary, and did not really understand Austrian
 affairs; and the Austro-Hungarian crisis during the early years of the
 present century has given point to this view. Yet it remains the fact
@@ -146,7 +146,7 @@ probably the best attainable in the circumstances.
   reminiscences. See also Ebeling, _F.F. Graf v. Beust_ (Leipzig, 1876),
   a full and careful account of his political career, especially up to
   1866; _Diplomatic Sketches: No. 1, Count Beust_, by Outsider (Baron
-  Carl v. Malortie); Flathe, _Geschichte van Sachsen_, vol. iii. (Gotha,
+  Carl v. Malortie); Flathe, _Geschichte van Sachsen_, vol. iii. ([[Gotha]],
   1877); Friesen, _Erinnerungen aus meinem Leben_ (Dresden, 1880).
        (J. W. He.)
 

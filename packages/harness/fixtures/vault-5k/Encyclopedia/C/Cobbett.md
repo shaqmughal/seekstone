@@ -1,7 +1,7 @@
 # Cobbett
 
 COBBETT, WILLIAM (1766-1835), English politician and writer, was born
-near Farnham in Surrey, according to his own statement, on the 9th of
+near [[Farnham]] in Surrey, according to his own statement, on the 9th of
 March 1766. He was the grandson of a farm-labourer, and the son of a
 small farmer; and during his early life he worked on his father's farm.
 At the age of sixteen, inspired with patriotic feeling by the sight of
@@ -9,7 +9,7 @@ the men-of-war in Portsmouth harbour, he thought of becoming a sailor;
 and in May 1783, having, while on his way to Guildford fair, met the
 London coach, he suddenly resolved to accompany it to its destination.
 He arrived at Ludgate Hill with exactly half-a-crown in his pocket, but
-an old gentleman who had travelled with him invited him to his house,
+an old [[Gentleman|gentleman]] who had travelled with him invited him to his house,
 and obtained for him the situation of copying clerk in an attorney's
 office. He greatly disliked his new occupation; and rejecting all his
 father's entreaties that he would return home, he went down to Chatham
@@ -38,7 +38,7 @@ these was Talleyrand, who employed him, according to Cobbett's story,
 not because he was ignorant of English, but because he wished to
 purchase his pen. Cobbett made his first literary sensation by his
 _Observations on the Emigration of a Martyr to the Cause of Liberty_, a
-clever retort on Dr Priestley, who had just landed in America
+[[Clever|clever]] retort on Dr Priestley, who had just landed in America
 complaining of the treatment he had received in England. This pamphlet
 was followed by a number of papers, signed "Peter Porcupine," and
 entitled _Prospect from the Congress Gallery_, the _Political Censor_
@@ -62,8 +62,8 @@ settled till the end of 1799, when he was fined $5000. After this last
 misfortune, for a few months Cobbett carried on a newspaper called the
 _Rushlight_; but in June 1800 he set sail for England.
 
-At home he found himself regarded as the champion of order and monarchy.
-Windham invited him to dinner, introduced him to Pitt, and begged him to
+At home he found himself regarded as the [[Champion|champion]] of order and monarchy.
+Windham invited him to [[Dinner|dinner]], introduced him to Pitt, and begged him to
 accept a share in the _True Briton_. He refused the offer and joined an
 old friend, John Morgan, in opening a book shop in Pall Mall. For some
 time he published the _Porcupine's Gazette_, which was followed in
@@ -111,7 +111,7 @@ was here that he wrote his clear and interesting _English Grammar_, of
 which 10,000 copies were sold in a month.
 
 His return to England was accompanied by his weakest exhibition--the
-exhuming and bringing over of the bones of Thomas Paine, whom he had
+exhuming and bringing over of the [[Bone|bones]] of Thomas Paine, whom he had
 once heartily abused, but on whom he now wrote a panegyrical ode. Nobody
 paid any attention to the affair; the relics he offered were not
 purchased; and the bones were reinterred.
@@ -119,7 +119,7 @@ purchased; and the bones were reinterred.
 Cobbett's great aim was now to obtain a seat in the House of Commons. He
 calmly suggested that his friends should assist him by raising the sum
 of £5000; it would be much better, he said, than a meeting of 50,000
-persons. He first offered himself for Coventry, but failed; in 1826 he
+persons. He first offered himself for [[Coventry]], but failed; in 1826 he
 was by a large number of votes last of the candidates for Preston; and
 in 1828 he could find no one to propose him for the office of common
 councillor. In 1830, that year of revolutions, he was prosecuted for
@@ -162,7 +162,7 @@ forcible.
   Register_, which ended only with Cobbett's death (June 1835). An
   abridgment of these works, with notes, was published by his sons, John
   M. Cobbett and James P. Cobbett. Besides this he published _An Account
-  of the Horrors of the French Revolution_, and a work tracing all these
+  of the Horrors of the [[French Revolution]]_, and a work tracing all these
   horrors to "the licentious politics and infidel philosophy of the
   present age" (both 1798); _A Year's Residence in the United States_;
   _Parliamentary History of England from the Norman Conquest to 1800_

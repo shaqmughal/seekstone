@@ -21,10 +21,10 @@ the prayers, if quiet, they might come in to receive the bishop's
 blessing (_Apost. Const_. viii. 6, 7, 32) and listen to the sermon. They
 were daily fed and prayed over by the exorcists, and, in case of
 recovery, after a fast of from 20 to 40 days, were admitted to the
-eucharist, and their names and cures entered in the church records.
+[[Eucharist|eucharist]], and their names and cures entered in the church records.
 
   A note on the New Testament use of the word [Greek: energein] and its
-  cognates will be found in J.A. Robinson's edition of _The Epistle to
+  cognates will be found in J.A. Robinson's edition of _The [[Epistle]] to
   the Ephesians_, pp. 241-247; an excursus on "The Conflict with Demons"
   in A. Harnack, _The Expansion of Christianity_, i. 152-180. Cf.
   EXORCISM.

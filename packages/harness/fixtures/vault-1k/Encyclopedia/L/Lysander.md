@@ -6,11 +6,11 @@ Athen. vi. 271 e) say that he was a _mothax_, i.e. the son of a helot
 mother (see HELOTS), but this tradition is at least doubtful; according
 to Plutarch he was a Heraclid, though not of either royal family. We do
 not know how he rose to eminence: he first appears as admiral of the
-Spartan navy in 407 B.C. The story of his influence with Cyrus the
+Spartan navy in 407 B.C. The story of his influence with [[Cyrus]] the
 Younger, his naval victory off Notium, his quarrel with his successor
 Callicratidas in 406, his appointment as [Greek: epistoleus] in 405, his
 decisive victory at Aegospotami, and his share in the siege and
-capitulation of Athens belong to the history of the Peloponnesian War
+[[Capitulation|capitulation]] of Athens belong to the history of the Peloponnesian War
 (q.v.). By 404 he was the most powerful man in the Greek world and set
 about completing the task of building up a Spartan empire in which he
 should be supreme in fact if not in name. Everywhere democracies were

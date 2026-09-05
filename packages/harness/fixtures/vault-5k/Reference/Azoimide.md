@@ -6,7 +6,7 @@ topic: inventors-studies
 
 # Azoimide
 
-AZOIMIDE, or HYDRAZOIC ACID, N_3H, a compound of nitrogen and hydrogen,
+AZOIMIDE, or HYDRAZOIC ACID, N_3H, a [[Compound|compound]] of nitrogen and hydrogen,
 first isolated in 1890 by Th. Curtius (_Berichte_, 1890, 23, p. 3023). It
 is the hydrogen compound corresponding to P. Greiss' diazoimino benzene,
 C_6H_5N_3, which is prepared by the addition of ammonia to diazobenzene
@@ -51,7 +51,7 @@ being ionized only to a very slight extent in dilute aqueous solution.
 
 E. Noelting and E. Grandmougin (_Berichte_, 1891, 24, p. 2546) obtained
 azoimide from dinitraniline, C_6H_3(NO_2)_2·NH_2, by diazotization and
-conversion of the diazo compound into the perbromide,
+[[Conversion|conversion]] of the diazo compound into the perbromide,
 (NO_2)_2C_6H_3·N_2·Br_3. This compound is then decomposed by ammonia,
 dinitrophenylhydrazoate being formed, which on hydrolysis with alcoholic
 potash gives potassium hydrazoate (azide) and dinitrophenol. The solution

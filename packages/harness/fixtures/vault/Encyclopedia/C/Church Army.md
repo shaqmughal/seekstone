@@ -8,19 +8,19 @@ tags: [history, philosophy]
 # Church Army
 
 CHURCH ARMY, an English religious organization, founded in 1882 by the
-Rev. Wilson Carlile (afterwards prebendary of St Paul's), who banded
+Rev. Wilson [[Carlile]] (afterwards prebendary of St Paul's), who banded
 together in an orderly army of "soldiers" and "officers" a few working
 men and women, whom he and others trained to act as "Church of England
 evangelists" among the outcasts and criminals of the Westminster slums.
 Previous experience had convinced him that the moral condition of the
 lowest classes of the people called for new and aggressive action on the
 part of the Church, and that this work was most effectively done by
-laymen and women of the same class as those whom it was desired to
+[[Laymen|laymen]] and women of the same class as those whom it was desired to
 touch. "Evangelistic zeal with Church order" is the principle of the
 Church Army, and it is essentially a working men's and women's mission
 to working people. As the work grew, a training institution for
 evangelists was started in Oxford, but soon moved (1886) to London,
-where, in Bryanston Street near the Marble Arch, the headquarters of the
+where, in Bryanston Street near the [[Marble]] [[Arch]], the headquarters of the
 army are now established. Working men are trained as evangelists, and
 working women as mission sisters, and are supplied to the clergy. The
 men evangelists have to pass an examination by the arch-deacon of
@@ -51,7 +51,7 @@ obtain situations for themselves and given time to seek for them. There
 are about 120 homes in London and the provinces, and 56% of the inmates
 are found to make these the successful beginning of an honest
 self-supporting life. The Church Army has lodging homes, employment
-bureaus, cheap food depots, old clothes department, dispensary and a
+[[Bureau|bureaus]], cheap food depots, old clothes department, dispensary and a
 number of other social works. Every winter employment is found for a
 great number of the unemployed in special depots, among them being the
 King's Labour Tents and the Queen's Labour Relief Depots. There is also
@@ -62,7 +62,7 @@ the agency of the local clergy. The whole of the work is done in loyal
 subordination to the diocesan and parochial organization of the Church
 of England.
 
-  See Edgar Rowans, _Wilson Carlile and the Church Army_.
+  See [[Edgar]] Rowans, _Wilson Carlile and the Church Army_.
 
 ## See also
 

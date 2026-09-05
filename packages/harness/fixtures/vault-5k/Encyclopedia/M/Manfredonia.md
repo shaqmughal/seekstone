@@ -16,7 +16,7 @@ Arpi, which became a Roman colony in 194 B.C., and was not deserted in
 favour of Manfredonia until the 13th century, having become unhealthy
 owing to the stagnation of the water in the lagoons.
 
-  See A. Beltramelli, _Il Gargano_ (Bergamo, 1907).     (T. As.)
+  See A. Beltramelli, _Il Gargano_ ([[Bergamo]], 1907).     (T. As.)
 
 ## See also
 

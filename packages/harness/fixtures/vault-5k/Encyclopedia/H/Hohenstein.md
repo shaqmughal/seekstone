@@ -12,7 +12,7 @@ Reichenbach-Chemnitz, 12 m. N.E. of Zwickau. Pop. (1905) 13,903.
 Hohenstein possesses two fine Evangelical churches, a town hall,
 restored in 1876, and several monuments to famous men. The principal
 industries are the spinning and weaving of cotton, the manufacture of
-machines, stockings, gloves and woollen and silk fabrics, cotton
+[[Machine|machines]], stockings, [[Glove|gloves]] and woollen and silk fabrics, cotton
 printing and dyeing. Many of the inhabitants are also employed in the
 neighbouring copper and arsenic mines. Not far from Hohenstein there is
 a mineral spring, connected with which there are various kinds of baths.

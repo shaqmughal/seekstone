@@ -17,7 +17,7 @@ or linen, which must not be confused with the crown (see CROWN AND
 CORONET), was bound round his forehead, as a token of regal authority.
 When Europe became Christian, a religious service of benediction was
 added to the older form, which, however, was not abandoned. Derived from
-the Teutons, the Franks continued the _gyratio_, and Clovis, Sigebert,
+the Teutons, the [[Frank|Franks]] continued the _gyratio_, and Clovis, Sigebert,
 Pippin and others were thus elevated to the royal estate. From a
 combination of the old custom with the religious service, the later
 coronation ceremonies were gradually developed. In the ceremonial
@@ -41,7 +41,7 @@ sovereign was generally regarded as, in some degree, possessed of the
 priestly character. By virtue of the unction he had received, the
 emperor was made a canon of St John Lateran and of St Peter at Rome, and
 also of the collegiate church of Aachen, while the king of France was
-_premier chanoine_ of the primatial church of Lyons, and held canonries
+_premier chanoine_ of the primatial church of [[Lyons]], and held canonries
 at Embrun, Le Mans, Montpellier, St Pol-de-Léon, Lodève, and other
 cathedral churches in France. There are, moreover, trustworthy records
 that, on more than one occasion, a king of France, habited in a surplice
@@ -49,7 +49,7 @@ and choir robes, took part with the clergy in the services of some of
 those churches. Martène quotes an order, which directs that at the
 imperial coronation at Rome, the pope ought to sing the mass, the
 emperor read the gospel, and the king of Sicily, or if present the king
-of France, the epistle. Nothing like this was known in England, and a
+of France, the [[Epistle|epistle]]. Nothing like this was known in England, and a
 theory, which has prevailed of late, that the English sovereign is, in a
 personal sense, canon of St David's, is based on a misconception. The
 canonry in question was attached to St Mary's College at St David's
@@ -59,21 +59,21 @@ England is not, and never was personally, a canon of St David's, nor did
 he ever perform any quasi-clerical function.
 
 At first a single anointing on the head was the practice, but afterwards
-other parts of the body, as the breast, arms, shoulders and hands
+other parts of the body, as the [[Breast|breast]], arms, shoulders and hands
 received the unction. From a very early period in the West three kinds
 of oil have been blessed each year on Maundy Thursday, the oil of the
-catechumens, the oil of the sick, and the chrism. The last, a compound
+catechumens, the oil of the sick, and the chrism. The last, a [[Compound|compound]]
 of olive oil and balsam, is only used for the most sacred purposes, and
 the oil of the catechumens was that used for the unction of kings. In
 France, however, a legend gained credence that, as a special sign of
-divine favour, the Holy Dove had miraculously descended from heaven,
+divine favour, the Holy [[Dove]] had miraculously descended from heaven,
 bearing a vessel (afterwards called the Sainte Ampoule), containing holy
 oil, and had placed it on the altar for the coronation of Clovis. A drop
 of oil from the Sainte Ampoule mixed with chrism was afterwards used for
 anointing the kings of France. Similarly the chrism was introduced into
 English coronations, for the first time probably at the coronation of
 Edward II. To rival the French story another miracle was related that
-the Virgin Mary had appeared to Thomas Becket, and had given him a
+the Virgin Mary had appeared to Thomas [[Becket]], and had given him a
 vessel with holy oil, which at some future period was to be used for the
 sacring of the English king. A full account of this miracle, and the
 subsequent finding of the vessel, is contained in a letter written in
@@ -83,9 +83,9 @@ on the head with the chrism. In all other countries the oil of the
 catechumens was alone used. In consequence of the use of chrism the
 kings of England and France were thought to be able to cure scrofula by
 the imposition of their hands, and hence arose the practice in those
-countries of touching for the king's evil, as it was called. In England
+countries of touching for the [[King'S Evil|king's evil]], as it was called. In England
 the chrism disappeared at the Reformation, but touching for the evil was
-continued till the accession of the house of Hanover in 1714.
+continued till the accession of the house of [[Hanover]] in 1714.
 
 The oldest of all existing rituals for the coronation of a king is
 contained in what is known as the Pontifical of Egbert, who was
@@ -93,13 +93,13 @@ archbishop of York in the middle of the 8th century. The coronation
 service in it is entitled _Missa pro rege in die benedictionis ejus_,
 and the coronation ceremony is interpolated in the middle of the mass.
 After the Gospel the officiant recites some prayers of benediction, and
-then pours oil from a horn on the king's head, while the anthem "Zadok
+then pours oil from a [[Horn|horn]] on the king's head, while the anthem "Zadok
 the priest," &c., is sung. After this the assembled bishops and nobles
 place a sceptre in the king's hands, while a form of intercessory
 benediction is recited. Then the staff (_baculus_) is delivered to him,
 and finally a helmet (_galea_) is set upon his head, the whole assembly
 repeating thrice "May King N. live for ever. Amen. Amen. Amen." The
-enthronement follows, with the kisses of homage and of fealty, and the
+enthronement follows, with the kisses of [[Homage|homage]] and of fealty, and the
 mass, with special prayers, is concluded.
 
 Another coronation service of Anglo-Saxon date bearing, but with no good
@@ -114,12 +114,12 @@ been used for the crowning of Harold and of William the Conqueror.
 A third English coronation form, of the 12th century, bears the name of
 Henry I., but also without good reason. The ceremonial is more fully
 developed, and the king is anointed on the head, breast, shoulders and
-elbows. The royal mantle appears for the first time, as does the
+[[Elbow|elbows]]. The royal mantle appears for the first time, as does the
 sceptre. The queen consort is to be crowned _secundum ordinem Romanum_,
 and the whole function precedes the mass.
 
 The fourth and most important of all English coronation services is that
-of the _Liber Regalis_, a manuscript still in the keeping of the dean of
+of the _Liber Regalis_, a [[Manuscript|manuscript]] still in the keeping of the dean of
 Westminster. It was introduced in 1307, and continued in use till the
 Reformation, and, in an English translation and with the Communion
 service substituted for the Latin mass, it was used for the coronation
@@ -133,7 +133,7 @@ Westminster. There he reposed for the night, and was instructed by the
 abbot as to the solemn obligations of the kingly office. Early next
 morning he went to Westminster Hall, and there, among other ceremonies,
 as _rex regnaturus_ was elevated into a richly adorned seat on the
-king's bench, called the Marble Chair. Then a procession with the
+king's [[Bench|bench]], called the Marble Chair. Then a procession with the
 regalia was marshalled, and led into the abbey church, the king wearing
 a cap of estate on his head, and supported by the bishops of Bath and
 Durham. A platform with thrones, &c., having been previously prepared
@@ -147,13 +147,13 @@ oil on his hands, breast, between the shoulders, on the shoulders, on
 the elbows, and on the head; finally he was anointed with the chrism on
 his head. Thus blessed and anointed, the king was vested, first with a
 silk dalmatic, called the _colobium sindonis_, then a long tunic,
-reaching to the ankles and woven with great golden images before and
-behind, was put upon him. He then received the buskins (_caligae_), the
+reaching to the [[Ankle|ankles]] and woven with great golden [[Image|images]] before and
+behind, was put upon him. He then received the [[Buskin|buskins]] (_caligae_), the
 sandals (_sandalia_), and spurs (_calcaria_), then the sword and its
 girdle; after this the stole, and finally the royal mantle, four-square
 in shape and woven throughout with golden eagles. Thus vested, the crown
 of St Edward was set on his head, the ring placed on his wedding finger,
-the gloves drawn over his hands, and the golden sceptre, in form of an
+the [[Glove|gloves]] drawn over his hands, and the golden sceptre, in form of an
 orb and cross, delivered to him. Lastly, the golden rod with the dove at
 the top was placed in the king's left hand. Thus consecrated, vested and
 crowned, the king kissed the bishops who, assisted by the nobles,
@@ -162,7 +162,7 @@ also crowned, that ceremony immediately followed, and the mass with
 special collect, epistle, gospel and preface was said, and during it
 both king and queen received the sacrament in one kind. At the
 conclusion the king retired to a convenient place, surrounded with
-curtains, where the great chamberlain took off certain of the robes, and
+[[Curtain|curtains]], where the great chamberlain took off certain of the robes, and
 substituted others for them, and the archbishop, still wearing his mass
 vestments, set other crowns on the heads of the king and queen, and with
 these they left the church.
@@ -185,24 +185,24 @@ In connexion with the English coronation a number of claims to do
 certain services have sprung up, and before each coronation a court of
 claims is constituted, which investigates and adjudicates on the claims
 that are made. The most striking of all these services is that of the
-challenge made by the king's champion, an office which has been
+challenge made by the king's [[Champion|champion]], an office which has been
 hereditary in the Dymoke family for many centuries. Immediately
 following the service in the church a banquet was held in Westminster
 Hall, during the first course of which the champion entered the hall on
-horseback, armed _cap-à-pie_, with red, white and blue feathers in his
+horseback, armed _cap-à-pie_, with red, white and blue [[Feather|feathers]] in his
 helmet. He was supported by the high constable on his right, and the
 earl marshal on his left, both of whom were also mounted. On his
 appearance in the hall a herald in front of him read the challenge, the
 words of which have not materially varied at any period, as follows: "If
 any person, of what degree soever, high or low, shall deny or gainsay
 our sovereign lord ..., king of the United Kingdom of Great Britain and
-Ireland, defender of the faith (son and), next heir unto our sovereign
+Ireland, [[Defender Of The Faith|defender of the faith]] (son and), next heir unto our sovereign
 lord the last king deceased, to be the right heir to the imperial crown
 of this realm of Great Britain and Ireland, or that he ought not to
 enjoy the same; here is his champion, who saith that he lieth, and is a
 false traitor, being ready in person to combat with him; and in this
 quarrel will adventure his life against him, on what day soever he shall
-be appointed." The champion then threw down the gauntlet. The challenge
+be appointed." The champion then threw down the [[Gauntlet|gauntlet]]. The challenge
 was again made in the centre of the hall, and a third time before the
 high table, at which the king was seated. The king then drank to the
 champion out of a silver-gilt cup, with a cover, which he handed to him
@@ -217,7 +217,7 @@ coronation by the pope at Rome in the year 800. His successors, for
 several centuries, went to Rome, where they received the imperial crown
 in St Peter's from the pope, the crown of Lombardy being conferred in
 the church of St Ambrose (Sant' Ambrogio) at Milan, that of Burgundy at
-Arles, and the German crown, which came to be the most important of all,
+[[Arles]], and the German crown, which came to be the most important of all,
 most commonly at Aix-la-Chapelle. It must suffice to speak of the
 coronations at Rome and Aix-la-Chapelle. From Martène we learn the early
 form of the ceremony at Rome. The emperor was met at the silver door of
@@ -225,7 +225,7 @@ St Peter's, where the first coronation prayer was recited over him by
 the bishop of Albano. He was then conducted within the church, where in
 _medio rotae majoris_, the bishop Of Porto said the second prayer.
 Thence the emperor went to the confessio of St Peter, where the litany
-was said, and there, or before the altar of St Maurice, the bishop of
+was said, and there, or before the altar of St [[Maurice]], the bishop of
 Ostia anointed him on the right arm and between the shoulders. Then he
 ascended to the high altar, where the pope delivered the naked sword to
 him. This he flourished, and then sheathed in its scabbard. The pope
@@ -234,7 +234,7 @@ head. The ceremony was concluded by the coronation mass said by the
 pope. The custom of the emperors going to Rome to be crowned was last
 observed by Frederick III. in 1440, and after that the German coronation
 was alone celebrated. The form followed was mainly thus: the electors
-first met at Frankfort, under the presidency of the elector-archbishop
+first met at [[Frankfort]], under the presidency of the elector-archbishop
 of Mainz, and, the election having been made, the emperor was led to the
 high altar of the cathedral and seated at it. He was then conducted to a
 gallery over the entrance to the choir, where, seating himself with the
@@ -258,7 +258,7 @@ The coronation form in France bore much resemblance, in its general
 features, to the English coronation, and was, it is believed originally
 based on the English form. The unction was given, first on the top of
 the head in the form of a cross, on the breast, between the shoulders,
-and at the bending and joints of both arms. Then, standing up, the king
+and at the bending and [[Joints|joints]] of both arms. Then, standing up, the king
 was vested in the dalmatic, tunic and royal robe, all of purple velvet
 sprinkled with fleurs-de-lys of gold, and representing, it was said, the
 three orders of subdeacon, deacon and priest. Then, kneeling again, he
@@ -312,7 +312,7 @@ the clergy, the priestly theory of his office being recognized. In some
 other European countries the coronation ceremony, as in Austria and
 Hungary, is also performed with much significant ritual. In other
 countries, as Prussia, it is retained in a modified form; but in the
-remaining states such as Denmark, Belgium, Italy, &c., it has been
+remaining states such as Denmark, [[Belgium]], Italy, &c., it has been
 abandoned, or never introduced.
 
   AUTHORITIES.--L. G. Wickham Legg, _English Coronation Records_;

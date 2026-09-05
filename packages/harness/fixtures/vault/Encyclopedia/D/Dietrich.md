@@ -11,7 +11,7 @@ tags: [language, antiquity]
 DIETRICH, CHRISTIAN WILHELM ERNST (1712-1774), German painter, was born
 at Weimar, where he was brought up early to the profession of art by his
 father Johann George, then painter of miniatures to the court of the
-duke. Having been sent to Dresden to perfect himself under the care of
+duke. Having been sent to [[Dresden]] to perfect himself under the care of
 Alexander Thiele, he had the good fortune to finish in two hours, at the
 age of eighteen, a picture which attracted the attention of the king of
 Saxony. Augustus II. was so pleased with Dietrich's readiness of hand
@@ -34,7 +34,7 @@ Dietrich tried every branch of art except portraits, painting Italian
 and Dutch views alternately with Scripture scenes and still life. In
 1741 he was appointed court painter to Augustus III. at Dresden, with an
 annual salary of 400 thalers (£60), conditional on the production of
-four cabinet pictures a year. This condition, no doubt, accounts for the
+four [[Cabinet|cabinet]] pictures a year. This condition, no doubt, accounts for the
 presence of fifty-two of the master's panels and canvases in one of the
 rooms at the Dresden museum. Dietrich, though popular and probably the
 busiest artist of his time, never produced anything of his own; and his

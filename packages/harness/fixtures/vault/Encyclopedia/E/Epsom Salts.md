@@ -6,13 +6,13 @@ water and in most mineral waters, especially in those at Epsom (from
 which place it takes its name), Seidlitz, Saidschutz and Pullna. It also
 occurs in nature in fibrous excrescences, constituting the mineral
 epsomite or hair-salt; and as compact masses (reichardite), as in the
-Stassfurt mines. It is also found associated with limestone, as in the
-Mammoth Caves, Kentucky, and with gypsum, as at Montmartre. Epsom salts
+Stassfurt mines. It is also found associated with [[Limestone|limestone]], as in the
+Mammoth Caves, [[Kentucky]], and with [[Gypsum|gypsum]], as at Montmartre. Epsom salts
 crystallizes in the orthorhombic system, being isomorphous with the
 corresponding zinc and nickel sulphates, and also with magnesium
 chromate. Occasionally monoclinic crystals are obtained by crystallizing
 from a strong solution. It is used in the arts for weighting cotton
-fabrics, as a top-dressing for clover hay in agriculture, and in dyeing.
+fabrics, as a top-dressing for [[Clover|clover]] [[Hay|hay]] in agriculture, and in dyeing.
 In medicine it is frequently employed as a hydragogue purgative,
 specially valuable in febrile diseases, in congestion of the portal
 system, and in the obstinate constipation of painters' colic. In the

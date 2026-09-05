@@ -24,7 +24,7 @@ agricultural produce. Dungarvan was incorporated in the 15th century,
 was represented by two members in the Irish parliament until the Union,
 and returned a member to the Imperial parliament until 1885. It was
 fortified with walls by John when the castle was built. A story is told
-that Cromwell spared the town from bombardment owing to the wit of a
+that [[Cromwell]] spared the town from bombardment owing to the wit of a
 woman who drank his health at the town-gate.
 
 ## References

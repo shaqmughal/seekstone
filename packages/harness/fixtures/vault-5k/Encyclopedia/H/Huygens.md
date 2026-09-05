@@ -7,7 +7,7 @@ topic: geography
 # Huygens
 
 HUYGENS, CHRISTIAAN (1629-1695), Dutch mathematician, mechanician,
-astronomer and physicist, was born at the Hague on the 14th of April
+astronomer and physicist, was born at the [[Hague]] on the 14th of April
 1629. He was the second son of Sir Constantijn Huygens. From his father
 he received the rudiments of his education, which was continued at
 Leiden under A. Vinnius and F. van Schooten, and completed in the
@@ -29,7 +29,7 @@ the advancement of astronomical knowledge. But the difficulties
 interposed by spherical and chromatic aberration had arrested progress
 in that direction until, in 1655, Huygens, working with his brother
 Constantijn, hit upon a new method of grinding and polishing lenses. The
-immediate results of the clearer definition obtained were the detection
+immediate results of the clearer [[Definition|definition]] obtained were the detection
 of a satellite to Saturn (the sixth in order of distance from its
 primary), and the resolution into their true form of the abnormal
 appendages to that planet. Each discovery in turn was, according to the
@@ -52,7 +52,7 @@ requisite mechanism, was published in 1658.
 His reputation now became cosmopolitan. As early as 1655 the university
 of Angers had distinguished him with an honorary degree of doctor of
 laws. In 1663, on the occasion of his second visit to England, he was
-elected a fellow of the Royal Society, and imparted to that body in
+elected a [[Fellow|fellow]] of the Royal Society, and imparted to that body in
 January 1669 a clear and concise statement of the laws governing the
 collision of elastic bodies. Although these conclusions were arrived at
 independently, and, as it would seem, several years previous to their
@@ -98,10 +98,10 @@ connected with the eye-piece by means of a cord, formed what were called
 Society. He also succeeded in constructing an almost perfectly
 achromatic eye-piece, still known by his name. But his researches in
 physical optics constitute his chief title-deed to immortality. Although
-Robert Hooke in 1668 and Ignace Pardies in 1672 had adopted a vibratory
-hypothesis of light, the conception was a mere floating possibility
+Robert [[Hooke]] in 1668 and Ignace Pardies in 1672 had adopted a vibratory
+[[Hypothesis|hypothesis]] of light, the conception was a mere floating possibility
 until Huygens provided it with a sure foundation. His powerful
-scientific imagination enabled him to realize that all the points of a
+scientific [[Imagination|imagination]] enabled him to realize that all the points of a
 wave-front originate partial waves, the aggregate effect of which is to
 reconstitute the primary disturbance at the subsequent stages of its
 advance, thus accomplishing its propagation; so that each primary
@@ -120,7 +120,7 @@ deduced the oblate figure of the earth, estimating its compression,
 however, at little more than one-half its actual amount.
 
 Huygens never married. He died at the Hague on the 8th of June 1695,
-bequeathing his manuscripts to the university of Leiden, and his
+bequeathing his [[Manuscript|manuscripts]] to the university of Leiden, and his
 considerable property to the sons of his younger brother. In character
 he was as estimable as he was brilliant in intellect. Although, like
 most men of strong originative power, he assimilated with difficulty the
@@ -163,7 +163,7 @@ the merits of his competitors.
   _Hist. des mathématiques_ (ii. 84, 412, 549); M. Chasles, _Aperçu
   historique sur l'origine des méthodes en géometrie_, pp. 101-109; E.
   Dühring, _Kritische Geschichte der allgemeinen Principien der
-  Mechanik_, Abschnitt (ii. 120, 163, iii. 227); A. Berry, _A Short
+  Mechanik_, Abschnitt (ii. 120, 163, iii. 227); A. [[Berry]], _A Short
   History of Astronomy_, p. 200; R. Wolf, _Geschichte der Astronomie_,
   passim; Houzeau, _Bibliographie astronomique_ (ii. 169); F. Kaiser,
   _Astr. Nach._ (xxv. 245, 1847); _Tijdschrift voor de Wetenschappen_

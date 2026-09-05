@@ -13,7 +13,7 @@ than translated, twelve Italian comedies into French prose. The first
 volume of the _Comédies facétieuses_ appeared in 1579, and the second in
 1611. Only nine in all were printed.[1] The licence of the manners
 depicted in these plays is matched by the coarseness of the expression.
-Larivey's merit lies in the use of popular language in dialogue, which
+Larivey's merit lies in the use of popular language in [[Dialogue|dialogue]], which
 often rises to real excellence, and was not without influence on Molière
 and Regnard. Molière's _L'Avare_ owes something to the scene in
 Larivey's masterpiece, _Les Esprits_, where Séverin laments the loss of
@@ -31,7 +31,7 @@ FOOTNOTE:
   [1] _Le Laquais_, from the _Ragazzo_ of Ludovico Dolce; _La Veuve_,
     from the _Vedova_ of Nicolo Buonaparte; _Les Esprits_, from the
     _Aridosio_ of Lorenzino de Medicis; _Le Morfondu_, from the _Gelosia_
-    of Antonio Grazzini; _Les Jaloux_, from the _Gelosi_ of Vincent
+    of [[Antonio]] Grazzini; _Les Jaloux_, from the _Gelosi_ of Vincent
     Gabbiani; and _Les Escolliers_, from the _Cecca_ of Girolamo Razzi,
     in the first volume; and in the second, _Constance_, from the
     _Costanza_ of Razzi; _Le Fidèle_, from the _Fedele_ of Luigi

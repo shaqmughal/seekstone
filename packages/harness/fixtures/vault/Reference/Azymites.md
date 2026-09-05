@@ -8,10 +8,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Azymites"
 
 # Azymites
 
-AZYMITES (Gr. [Greek: a-], without; [Greek: zumê], leaven), a name given by
+AZYMITES (Gr. [Greek: a-], without; [Greek: zumê], [[Leaven|leaven]]), a name given by
 the Orthodox Eastern to the Western or Latin Church, because of the
-latter's use of unleavened bread in the Eucharist, a practice which arose
-in the 9th century and is also observed by Armenians and Maronites
+latter's use of unleavened bread in the [[Eucharist]], a practice which arose
+in the 9th century and is also observed by Armenians and [[Maronites]]
 following the Jewish passover custom. The Orthodox Church strenuously
 maintains its point, arguing that the very name bread, the holiness of the
 mystery, and the example of Jesus and the early church alike, testify
@@ -38,12 +38,12 @@ Greek [lambda]; this form apparently arose from writing the Semitic symbol
 upside down. Its form in inscriptions of Melos, Selinus, Syracuse and
 elsewhere in the 6th and 5th centuries suggests the influence of Aramaic
 forms in which the head of the letter is opened, [2]. The Corinthian [3],
-[4] and [5] (also at Corcyra) and the [Two Bs] of Byzantine coins are other
+[4] and [5] (also at Corcyra) and the [Two Bs] of Byzantine [[Coin|coins]] are other
 adaptations of the same symbol. The form [6] which it takes in the
 alphabets of Naxos, Delos and other Ionic islands at the same period is
 difficult to explain. Otherwise its only variation is between pointed and
 rounded loops ([7] and [8]). The sound which the symbol represents is the
-voiced stop made by closing the lips and vibrating the vocal chords (see
+voiced stop made by closing the [[Lip|lips]] and vibrating the vocal chords (see
 PHONETICS). It differs from _p_ by the presence of vibration of the vocal
 chords and from _m_ because the nasal passage as well as the lips is
 closed. When an audible emission of breath attends its production the

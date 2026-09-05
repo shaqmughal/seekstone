@@ -71,7 +71,7 @@ success; but a system which had failed to preserve the unity of the
 Church even when the world was united under the Roman empire could not
 be expected to do so in a world split up into a series of rival states,
 of which many had already reorganized their churches on a national
-basis. "Febronius," indeed, was in favour of a frank recognition of this
+basis. "Febronius," indeed, was in favour of a [[Frank|frank]] recognition of this
 national basis of ecclesiastical organization, and saw in Episcopacy the
 best means of reuniting the dissidents to the Catholic Church, which was
 to consist, as it were, of a free federation of episcopal churches under
@@ -102,7 +102,7 @@ the most important is the Church of England, which has preserved its
 ecclesiastical organization essentially unchanged since its foundation
 by St Augustine, and its daughter churches (see ENGLAND, CHURCH OF, and
 ANGLICAN COMMUNION). The Church of England since the Reformation has
-been the chief champion of the principle of Episcopacy against the papal
+been the chief [[Champion|champion]] of the principle of Episcopacy against the papal
 pretensions on the one hand and Presbyterianism and Congregationalism on
 the other. As to the divine origin of Episcopacy and, consequently, of
 its universal obligation in the Christian Church, Anglican opinion has
@@ -147,7 +147,7 @@ the ecumenical authority, of the general councils of the early Church
 (see LAMBETH CONFERENCES).
 
 Of the reformed Churches of the continent of Europe only the Lutheran
-Churches of Denmark, Iceland, Norway, Sweden and Finland preserve the
+Churches of Denmark, [[Iceland]], Norway, Sweden and Finland preserve the
 episcopal system in anything of its historical sense; and of these only
 the two last can lay claim to the possession of bishops in the unbroken
 line of episcopal succession.[5] The superintendents (variously entitled
@@ -178,14 +178,14 @@ East and West.
 
 In all of these ancient churches episcopacy is regarded as of divine
 origin; and in those of them which reject the papal supremacy the
-bishops are still regarded as the guardians of the tradition of
+bishops are still regarded as the [[Guardian|guardians]] of the tradition of
 apostolic orthodoxy and the stewards of the gifts of the Holy Ghost to
 men (see ORTHODOX EASTERN CHURCH; ARMENIAN CHURCH; COPTS: _Coptic
 Church_, &c). In the West, Gallican and Febronian Episcopacy are
 represented by two ecclesiastical bodies: the Jansenist Church under the
-archbishop of Utrecht (see JANSENISM and UTRECHT), and the Old Catholics
+archbishop of Utrecht (see [[Jansenism|JANSENISM]] and UTRECHT), and the Old Catholics
 (q.v.). Of these the latter, who separated from the Roman communion
-after the promulgation of the dogma of papal infallibility, represent a
+after the promulgation of the dogma of papal [[Infallibility|infallibility]], represent a
 pure revolt of the system of Episcopacy against that of Papalism.
      (W. A. P.)
 
@@ -235,7 +235,7 @@ FOOTNOTES:
     in 1575, from the insufficiency of the documentary evidence of the
     consecration of his consecrator, Paul Justin, bishop of Abo. The
     integrity of the succession has, however, been accepted after
-    searching investigation by men of such learning as Grabe and Routh,
+    searching investigation by men of such learning as [[Grabe]] and Routh,
     and has been formally recognized by the convention of the American
     Episcopal Church. The succession to the daughter church of Finland,
     now independent, stands or falls with that of Sweden.
@@ -246,12 +246,12 @@ FOOTNOTES:
 EPISCOPIUS, SIMON (1583-1643), the Latin form of the name of Simon
 Bischop, Dutch theologian, was born at Amsterdam on the 1st of January
 1583. In 1600 he entered the university of Leiden, where he studied
-theology under Jacobus Arminius, whose teaching he followed. In 1610,
+theology under Jacobus [[Arminius]], whose teaching he followed. In 1610,
 the year in which the Arminians presented the famous Remonstrance to the
 states of Holland, he became pastor at Bleyswick, a small village near
 Rotterdam; in the following year he advocated the cause of the
-Remonstrants (q.v.) at the Hague conference. In 1612 he succeeded
-Francis Gomarus as professor of theology at Leiden, an appointment which
+Remonstrants (q.v.) at the [[Hague]] conference. In 1612 he succeeded
+Francis [[Gomarus]] as professor of theology at Leiden, an appointment which
 awakened the bitter enmity of the Calvinists, and, on account of the
 influence lent by it to the spread of Arminian opinions, was doubtless
 an ultimate cause of the meeting of the synod of Dort in 1618.
@@ -261,12 +261,12 @@ the Remonstrant doctrines were condemned without any explanation or
 defence of them being permitted. At the end of the synod's sittings in
 1619, Episcopius and the other twelve Arminian representatives were
 deprived of their offices and expelled from the country (see DORT, SYNOD
-OF). Episcopius retired to Antwerp and ultimately to France, where he
+OF). Episcopius retired to [[Antwerp]] and ultimately to France, where he
 lived partly at Paris, partly at Rouen. He devoted most of his time to
-writings in support of the Arminian cause; but the attempt of Luke
+writings in support of the Arminian cause; but the attempt of [[Luke]]
 Wadding (1588-1657) to win him over to the Romish faith involved him
 also in a controversy with that famous Jesuit. After the death (1625) of
-Maurice, prince of Orange, the violence of the Arminian controversy
+[[Maurice]], prince of Orange, the violence of the Arminian controversy
 began to abate, and Episcopius was permitted in 1626 to return to his
 own country. He was appointed preacher at the Remonstrant church in
 Rotterdam and afterwards rector of the Remonstrant college in Amsterdam.

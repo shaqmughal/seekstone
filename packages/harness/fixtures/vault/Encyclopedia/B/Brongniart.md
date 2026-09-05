@@ -14,14 +14,14 @@ death in Paris on the 18th of February 1876.
 
 Brongniart was an indefatigable investigator and a prolific writer, so that
 he left behind him, as the fruit of his labours, a large number of books
-and memoirs. As early as 1822 he published a paper on the classification
+and memoirs. As early as 1822 he published a paper on the [[Classification|classification]]
 and distribution of fossil plants (_Mem. Mus. Hist. Nat._ viii.). This was
 followed by several papers chiefly bearing upon the relation between
 extinct and existing forms--a line of research which culminated in the
 publication of the _Histoire des vegetaux fossiles_, which has earned for
 him the title of "father of palaeobotany." This great work was heralded by
 a small but most important "Prodrome" (contributed to the _Grand
-Dictionnaire d'Hist. Nat._, 1828, t. lvii.) which brought order into chaos
+Dictionnaire d'Hist. Nat._, 1828, t. lvii.) which brought order into [[Chaos|chaos]]
 by a classification in which the fossil plants were arranged, with
 remarkably correct insight, along with their nearest living allies, and
 which forms the basis of all subsequent progress in this direction. It is
@@ -40,7 +40,7 @@ but after that only three parts of the second volume appeared. Brongniart,
 no doubt, was overwhelmed with the continually increasing magnitude of the
 task that he had undertaken. Apart from his more comprehensive works, his
 most important palaeontological contributions are perhaps his observations
-on the structure of _Sigillaria_ (_Arch. Mus. Hist. Nat._ i., 1839) and his
+on the structure of _Sigillaria_ (_[[Arch]]. Mus. Hist. Nat._ i., 1839) and his
 researches (almost the last he undertook) on fossil seeds, of which a full
 account was published posthumously in 1880. His activity was by no means
 confined to palaeobotany, but extended into all branches of botany, more
@@ -63,7 +63,7 @@ the discovery of the cuticle is recorded; and, further, the "Recherches sur
 l'organisation des tiges des Cycadees" (_Ann. Sci. Nat._ xvi., 1829),
 giving the results of the first investigation of the anatomy of those
 plants. His systematic work is represented by a large number of papers and
-monographs, many of which relate to the flora of New Caledonia; and by his
+monographs, many of which relate to the flora of New [[Caledonia]]; and by his
 _Enumeration des genres de plantes cultivees au Musee d'Histoire Naturelle
 de Paris_ (1843), which is an interesting landmark in the history of
 classification in that it forms the starting-point of the system, modified
@@ -71,12 +71,12 @@ successively by A. Braun, A.W. Eichler and A. Engler, which is now adopted
 in Germany. In addition to his scientific and professorial labours,
 Brongniart held various important official posts in connexion with the
 department of education, and interested himself greatly in agricultural and
-horticultural matters. With J.V. Audouin and J.B.A. Dumas, his future
+horticultural matters. With J.V. [[Audouin]] and J.B.A. Dumas, his future
 brothers-in-law, he established the _Annales des Sciences Naturelles_ in
 1824; he also founded the Societe Botanique de France in 1854, and was its
 first president.
 
-For accounts of his life and work see _Bull. de la Soc. Geol. de France_,
+For accounts of his life and work see _[[Bull]]. de la Soc. Geol. de France_,
 1876, and _La Nature_, 1876; the _Bulletin de la Soc. Bot. de France_ for
 1876, vol. xxiii., contains a list of his works and the orations pronounced
 at his funeral.

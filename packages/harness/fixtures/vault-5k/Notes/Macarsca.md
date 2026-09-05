@@ -11,10 +11,10 @@ id: 42-4144
 # Macarsca
 
 MACARSCA (Serbo-Croatian, _Makarska_), the chief town of an
-administrative district in Dalmatia, Austria; situated opposite to the
-island of Brazza, about 32 m. S.E. of Spalato. Pop. (1900), of town
-1805; of commune, 11,016, chiefly Serbo-Croatian. Macarsca is a port of
-call for the Austrian Lloyd steamers, and has a brisk trade in wine,
+administrative district in [[Dalmatia]], Austria; situated opposite to the
+island of [[Brazza]], about 32 m. S.E. of Spalato. Pop. (1900), of town
+1805; of [[Commune|commune]], 11,016, chiefly Serbo-Croatian. Macarsca is a port of
+call for the Austrian [[Lloyd]] steamers, and has a brisk trade in wine,
 grain and fruit. Under the name of _Mocrum_, Macarsca was a thriving
 Roman city, and a bishopric until 639, when it was destroyed by the
 Avars. In the 10th century it is mentioned by Constantine

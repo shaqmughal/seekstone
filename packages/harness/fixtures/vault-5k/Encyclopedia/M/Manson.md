@@ -9,7 +9,7 @@ hours water-colours of much delicacy and beauty. In 1871 he devoted
 himself exclusively to painting. His subjects were derived from humble
 Scottish life--especially child-life, varied occasionally by
 portraiture, by landscape, and by views of picturesque architecture. In
-1873 he visited Normandy, Belgium and Holland; in the following year he
+1873 he visited Normandy, [[Belgium]] and Holland; in the following year he
 spent several months in Sark; and in 1875 he resided at St Lô, and in
 Paris, where he mastered the processes of etching. Meanwhile in his
 water-colour work he had been adding more of breadth and power to the

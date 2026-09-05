@@ -10,7 +10,7 @@ Ronsard:--
 He wrote light verse to celebrate the incidents of court life in the
 manner of Desportes, but his verse is more fantastic and fuller of
 conceits than his master's. He early entered the church, and had a share
-in the conversion of Henry IV., a circumstance which assured his career.
+in the [[Conversion|conversion]] of Henry IV., a circumstance which assured his career.
 He was successively councillor of the parlement of Grenoble, secretary
 to the king, almoner to Marie de' Medici, abbot of Aulnay and finally,
 in 1606, bishop of Sees. After his elevation to the bishopric he ceased

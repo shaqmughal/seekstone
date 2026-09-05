@@ -1,7 +1,7 @@
 # Mascaron
 
 MASCARON, JULES (1634-1703), French preacher, was the son of a barrister
-at Aix. Born at Marseilles in 1634, he early entered the French Oratory,
+at Aix. Born at [[Marseilles]] in 1634, he early entered the French Oratory,
 and obtained great reputation as a preacher. Paris confirmed the
 judgment of the provinces; in 1666 he was asked to preach before the
 court, and became a great favourite with Louis XIV., who said that his
@@ -11,7 +11,7 @@ larger diocese of Agen. He still continued, however, to preach regularly
 at court, being especially in request for funeral orations. A panegyric
 on Turenne, delivered in 1675, is considered his masterpiece. His style
 is strongly tinged with _préciosité_; and his chief surviving interest
-is as a glaring example of the evils from which Bossuet delivered the
+is as a glaring example of the evils from which [[Bossuet]] delivered the
 French pulpit. During his later years he devoted himself entirely to his
 pastoral duties at Agen, where he died in 1703.
 

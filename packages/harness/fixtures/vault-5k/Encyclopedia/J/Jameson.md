@@ -9,21 +9,21 @@ tags: [thermodynamics, monarchy]
 
 # Jameson
 
-JAMESON, ANNA BROWNELL (1794-1860), British writer, was born in Dublin
+JAMESON, [[Anna|ANNA]] BROWNELL (1794-1860), British writer, was born in Dublin
 on the 17th of May 1794. Her father, Denis Brownell Murphy (d. 1842), a
 miniature and enamel painter, removed to England in 1798 with his
-family, and eventually settled at Hanwell, near London. At sixteen years
+family, and eventually settled at [[Hanwell]], near London. At sixteen years
 of age Anna became governess in the family of the marquis of Winchester.
 In 1821 she was engaged to Robert Jameson. The engagement was broken
 off, and Anna Murphy accompanied a young pupil to Italy, writing in a
 fictitious character a narrative of what she saw and did. This diary she
-gave to a bookseller on condition of receiving a guitar if he secured
+gave to a bookseller on condition of receiving a [[Guitar|guitar]] if he secured
 any profits. Colburn ultimately published it as _The Diary of an
 Ennuyée_ (1826), which attracted much attention. The author was
 governess to the children of Mr Littleton, afterwards Lord Hatherton,
 from 1821 to 1825, when she married Robert Jameson. The marriage proved
 unhappy; when, in 1829, Jameson was appointed puisne judge in the island
-of Dominica the couple separated without regret, and Mrs Jameson visited
+of [[Dominica]] the couple separated without regret, and Mrs Jameson visited
 the Continent again with her father.
 
 The first work which displayed her powers of original thought was her
@@ -35,9 +35,9 @@ detecting characteristics and defining differences not perceived by the
 ordinary critic and entirely overlooked by the general reader. German
 literature and art had aroused much interest in England, and Mrs Jameson
 paid her first visit to Germany in 1833. The conglomerations of hard
-lines, cold colours and pedantic subjects which decorated Munich under
+lines, cold [[Colours|colours]] and pedantic subjects which decorated Munich under
 the patronage of King Louis of Bavaria, were new to the world, and Mrs
-Jameson's enthusiasm first gave them an English reputation.
+Jameson's [[Enthusiasm|enthusiasm]] first gave them an English reputation.
 
 In 1836 Mrs Jameson was summoned to Canada by her husband, who had been
 appointed chancellor of the province of Toronto. He failed to meet her
@@ -54,7 +54,7 @@ The result appeared in her _Companion to the Private Galleries_ (1842),
 followed in the same year by the _Handbook to the Public Galleries_. She
 edited the _Memoirs of the Early Italian Painters_ in 1845. In the same
 year she visited her friend Ottilie von Goethe. Her friendship with Lady
-Byron dates from about this time and lasted for some seven years; it was
+[[Byron]] dates from about this time and lasted for some seven years; it was
 brought to an end apparently through Lady Byron's unreasonable temper. A
 volume of essays published in 1846 contains one of Mrs Jameson's best
 pieces of work, _The House of Titian_. In 1847 she went to Italy with
@@ -75,7 +75,7 @@ slight technical and historical equipment, Mrs. Jameson produced a book
 which thoroughly deserved its great success.
 
 She also took a keen interest in questions affecting the education,
-occupations and maintenance of her own sex. Her early essay on _The
+occupations and [[Maintenance|maintenance]] of her own sex. Her early essay on _The
 Relative Social Position of Mothers and Governesses_ was the work of one
 who knew both sides; and in no respect does she more clearly prove the
 falseness of the position she describes than in the certainty with which
@@ -85,7 +85,7 @@ mercy and education. In her later years she took up a succession of
 subjects all bearing on the same principles of active benevolence and
 the best ways of carrying them into practice. Sisters of charity,
 hospitals, penitentiaries, prisons and workhouses all claimed her
-interest--all more or less included under those definitions of "the
+interest--all more or less included under those [[Definition|definitions]] of "the
 communion of love and communion of labour" which are inseparably
 connected with her memory. To the clear and temperate forms in which she
 brought the results of her convictions before her friends in the shape

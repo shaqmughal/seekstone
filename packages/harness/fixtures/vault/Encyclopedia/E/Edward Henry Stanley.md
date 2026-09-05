@@ -7,11 +7,11 @@ type: article
 
 # Edward Henry Stanley
 
-EDWARD HENRY STANLEY, 15th earl of Derby (1826-1893), eldest son of the
+EDWARD HENRY STANLEY, 15th earl of [[Derby]] (1826-1893), eldest son of the
 14th earl, was educated at Rugby and Trinity College, Cambridge, where
 he took a high degree and became a member of the society known as the
-Apostles. In March 1848 he unsuccessfully contested the borough of
-Lancaster, and then made a long tour in the West Indies, Canada and the
+[[Apostle|Apostles]]. In March 1848 he unsuccessfully contested the borough of
+[[Lancaster]], and then made a long tour in the West Indies, Canada and the
 United States. During his absence he was elected member for King's Lynn,
 which he represented till October 1869, when he succeeded to the
 peerage. He took his place, as a matter of course, among the
@@ -64,7 +64,7 @@ precise developments of policy which obliged him to resign. He kept
 himself ready to explain in the House of Lords the course he had taken
 if those whom he had left challenged him to do so, but from that course
 they consistently refrained. Already in October 1879 it was clear enough
-that he had thrown in his lot with the Liberal party, but it was not
+that he had thrown in his [[Lot|lot]] with the [[Liberal Party|Liberal party]], but it was not
 till March 1880 that he publicly announced this change of allegiance. He
 did not at first take office in the second Gladstone government, but
 became secretary for the colonies in December 1882, holding this
@@ -72,9 +72,9 @@ position till the fall of that government in the summer of 1885. In 1886
 the old Liberal party was run on the rocks and went to pieces. Lord
 Derby became a Liberal Unionist, and took an active part in the general
 management of that party, leading it in the House of Lords till 1891,
-when Lord Hartington became duke of Devonshire. In 1892 he presided over
+when Lord Hartington became duke of [[Devonshire]]. In 1892 he presided over
 the Labour Commission, but his health never recovered an attack of
-influenza which he had in 1891, and he died at Knowsley on the 21st of
+[[Influenza|influenza]] which he had in 1891, and he died at Knowsley on the 21st of
 April 1893.
 
 During a great part of Lord Derby's life he was deflected from his
@@ -83,17 +83,17 @@ Conservative statesman of the day. From first to last he was at heart a
 moderate Liberal. After making allowance, however, for this deflecting
 agency, it must be admitted that in the highest quality of the
 statesman, "aptness to be right," he was surpassed by none of his
-contemporaries, or--if by anybody--by Sir George Cornewall Lewis alone.
+contemporaries, or--if by anybody--by Sir George Cornewall [[Lewis]] alone.
 He would have been more at home in a state of things which did not
 demand from its leading statesman great popular power; he had none of
-those "isms" and "prisms of fancy" which stood in such good stead some
+those "isms" and "prisms of [[Fancy|fancy]]" which stood in such good stead some
 of his rivals. He had another defect besides the want of popular power.
 He was so anxious to arrive at right conclusions that he sometimes
 turned and turned and turned a subject over till the time for action had
 passed. One of his best lieutenants said of him in a moment of
 impatience: "Lord Derby is like the God of Hegel: 'Er setzt sich, er
 verneint sich, er verneint seine Negation.'" His knowledge, acquired
-both from books and by the ear, was immense, and he took every
+both from books and by the [[Ear|ear]], was immense, and he took every
 opportunity of increasing it. He retained his old university habit of
 taking long walks with a congenial companion, even in London, and
 although he cared but little for what is commonly known as society--the
@@ -101,19 +101,19 @@ society of crowded rooms and fragments of sentences--he very much liked
 conversation. During the many years in which he was a member of "The
 Club" he was one of its most assiduous frequenters, and his loss was
 acknowledged by a formal resolution. His talk was generally grave, but
-every now and then was lit up by dry humour. The late Lord Arthur
+every now and then was lit up by dry [[Humour|humour]]. The late Lord Arthur
 Russell once said to him, after he had been buying some property in
 southern England: "So you still believe in land, Lord Derby." "Hang it,"
-he replied, "a fellow must believe in something!" He did an immense deal
+he replied, "a [[Fellow|fellow]] must believe in something!" He did an immense deal
 of work outside politics. He was lord rector of the University of
-Glasgow from 1868 to 1871, and later held the same office in that of
+[[Glasgow]] from 1868 to 1871, and later held the same office in that of
 Edinburgh. From 1875 to 1893 he was president of the Royal Literary
 Fund, and attended most closely to his duties then. He succeeded Lord
-Granville as chancellor of the University of London in 1891, and
+[[Granville]] as chancellor of the University of London in 1891, and
 remained in that position till his death. He lived much in Lancashire,
 managed his enormous estates with great skill, and did a great amount of
 work as a local magnate. He married in 1870 Maria Catharine, daughter of
-the 5th earl de la Warr, and widow of the 2nd marquess of Salisbury.
+the 5th earl [[De La Warr|de la Warr]], and widow of the 2nd marquess of Salisbury.
 
 The earl left no children and he was succeeded as 16th earl by his
 brother Frederick Arthur Stanley (1841-1908), who had been made a peer
@@ -122,7 +122,7 @@ and for the colonies and president of the board of trade; and was
 governor-general of Canada from 1888 to 1893. He died on the 14th of
 June 1908, when his eldest son, Edward George Villiers Stanley, became
 earl of Derby. As Lord Stanley the latter had been member of parliament
-for the West Houghton division of Lancashire from 1892 to 1906; he was
+for the West [[Houghton]] division of Lancashire from 1892 to 1906; he was
 financial secretary to the War Office from 1900 to 1903, and
 postmaster-general from 1903 to 1905.
 

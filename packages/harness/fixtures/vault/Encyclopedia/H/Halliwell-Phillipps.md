@@ -16,7 +16,7 @@ besides a newly discovered metrical romance of the 15th century
 (_Torrent of Portugal_). He became best known, however, as a
 Shakespearian editor and collector. In 1848 he brought out his _Life of
 Shakespeare_, which passed through several editions; in 1853-1865 a
-sumptuous edition, limited to 150 copies, of Shakespeare in folio, with
+sumptuous edition, limited to 150 copies, of Shakespeare in [[Folio|folio]], with
 full critical notes; in 1863 a _Calendar of the Records at
 Stratford-on-Avon_; in 1864 a _History of New Place_. After 1870 he
 entirely gave up textual criticism, and devoted his attention to
@@ -28,11 +28,11 @@ for the corporation of Stratford-on-Avon, and in the formation there of
 the Shakespeare museum. His publications in all numbered more than sixty
 volumes. He assumed the name of Phillipps in 1872, under the will of the
 grandfather of his first wife, a daughter of Sir Thomas Phillipps the
-antiquary. He took an active interest in the Camden Society, the Percy
+[[Antiquary|antiquary]]. He took an active interest in the Camden Society, the Percy
 Society and the Shakespeare Society, for which he edited many early
 English and Elizabethan works. From 1845 Halliwell was excluded from the
 library of the British Museum on account of the suspicion attaching to
-his possession of some manuscripts which had been removed from the
+his possession of some [[Manuscript|manuscripts]] which had been removed from the
 library of Trinity College, Cambridge. He published privately an
 explanation of the matter in 1845. His house, Hollingbury Copse, near
 Brighton, was full of rare and curious works, and he generously gave

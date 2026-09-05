@@ -7,16 +7,16 @@ type: note
 
 # Bishop Stortford
 
-BISHOP STORTFORD, a market town in the Hertford parliamentary division
+BISHOP STORTFORD, a market town in the [[Hertford]] parliamentary division
 of Hertfordshire, England; 30-1/2 m. N.N.E. from London by the Cambridge
 line of the Great Eastern railway. Pop. of urban district (1901) 7143.
-It lies on the river Stort, close to the county boundary with Essex, and
-has water-communication with London through the Lea and Stort
+It lies on the river Stort, close to the county boundary with [[Essex]], and
+has water-communication with London through the [[Lea]] and Stort
 Navigation. The church of St Michael, standing high above the valley, is
 a fine embattled Perpendicular building with western tower and spire.
 The high school, formerly the grammar school, was founded in the time of
 Elizabeth. Here were educated Sir Henry Chauncy, an early historian of
-Hertfordshire (d. 1719), and Cecil Rhodes, who was born at Bishop
+Hertfordshire (d. 1719), and [[Cecil]] Rhodes, who was born at Bishop
 Stortford in 1853. There are a Nonconformist grammar school, a diocesan
 training college for mistresses, and other educational establishments.
 The industries include brewing and malting, coach-building, lime-burning
@@ -36,7 +36,7 @@ and founding, and there are important horse and cattle markets.
   borough occurs in 1311, in which year the burgesses returned two
   members to parliament. The town was represented from that date until
   1332, and again in 1335-1336, but the privilege was then allowed to
-  lapse and has never been revived.
+  [[Lapse|lapse]] and has never been revived.
 
 ## References
 

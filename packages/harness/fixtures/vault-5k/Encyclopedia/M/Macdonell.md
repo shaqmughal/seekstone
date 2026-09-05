@@ -17,7 +17,7 @@ and at twenty-two he became editor of the _Northern Daily Express_. In
 Telegraph_, which he retained until 1875, being special correspondent in
 France in 1870 and 1871. In 1873 he became a leader-writer on _The
 Times_. He died in London on the 2nd of March 1879. His posthumous
-_France since the First Empire_, though incomplete, gave a clever and
+_France since the First Empire_, though incomplete, gave a [[Clever|clever]] and
 accurate account of the French politics of his time.
 
 ## See also

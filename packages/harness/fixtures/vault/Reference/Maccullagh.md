@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Maccullagh
 
 MACCULLAGH, JAMES (1809-1847), Irish mathematician and physicist, was
 born in 1809, near Strabane, Ireland. After a brilliant career at
-Trinity College, Dublin, he was elected fellow in 1832. From 1832 to
+Trinity College, Dublin, he was elected [[Fellow|fellow]] in 1832. From 1832 to
 1843 he held the chair of mathematics; and during his tenure of this
 post he improved in a most marked manner the position of his university
 as a mathematical centre. In 1843 he was transferred to the chair of

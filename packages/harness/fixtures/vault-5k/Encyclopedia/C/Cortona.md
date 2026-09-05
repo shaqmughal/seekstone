@@ -2,32 +2,32 @@
 
 CORTONA, a town and episcopal see of Italy, in the province of Arezzo,
 18 m. S. by E. from the town of Arezzo by rail. The ancient and modern
-names are identical. Pop. (1901) of town, 3579; commune, 29,296. The
+names are identical. Pop. (1901) of town, 3579; [[Commune|commune]], 29,296. The
 highest point of Cortona, a medieval castle (Fortezza), is situated 2130
 ft. above sea-level on a hill commanding a splendid view, and is
 approached by a winding road. It is surrounded by its ancient Etruscan
 walls, which for the greater part of the circuit are fairly well
-preserved. They are constructed of parallelepipedal blocks of limestone,
+preserved. They are constructed of parallelepipedal blocks of [[Limestone|limestone]],
 finely jointed (though the jointing has often been spoilt by
 weathering), and arranged in regular courses which vary in size in
 different parts of the enceinte. Near the N.W. angle some of the blocks
 are 7 to 8½ ft. long and 2½ ft. high, while on the W. side they are a
 good deal smaller--sometimes only 1 ft. high (see F. Noack in _Römische
 Mitteilungen_, 1897, 184). Within the town are two subterranean vaulted
-buildings in good masonry, of uncertain nature, some other remains under
+buildings in good [[Masonry|masonry]], of uncertain nature, some other remains under
 modern buildings, and a concrete ruin known as the "Bagni di Bacco." The
 museum of the Accademia Etrusca, a learned body founded by Ridolfino
 Venuti in 1726, is situated in the Palazzo Pretorio; it contains some
 Etruscan objects, among which may be specially noted a magnificent
-bronze lamp with 16 lights, of remarkably fine workmanship, found in
+bronze [[Lamp|lamp]] with 16 lights, of remarkably fine workmanship, found in
 1740, at the foot of the hill, two votive hands and a few other bronzes,
-and a little gold jewellery. The library has a good MS. of Dante. The
+and a little gold jewellery. The library has a good MS. of [[Dante]]. The
 cathedral, originally a Tuscan Romanesque building of the 11th-12th
 centuries, is now a fine Renaissance basilica restored in the 18th
 century, containing some paintings by Luca Signorelli, a native of the
 place. Opposite is the baptistery, with three fine pictures by Fra
-Angelico. S. Margherita, just below the Fortezza, is an ugly modern
-building occupying the site of a Gothic church of 1294, and containing a
+[[Angelico]]. S. Margherita, just below the Fortezza, is an ugly modern
+building occupying the site of a [[Gothic]] church of 1294, and containing a
 fine original rose window and reliefs from the tomb of the saint by
 Angelo e Francesco di maestro Pietro d'Assisi. Other works by Signorelli
 are to be seen elsewhere in the town, especially in S. Domenico; Pietro
@@ -44,7 +44,7 @@ in Roman times it is hardly mentioned. Dionysius's statement that it was
 a colony (i. 26) is probably due to confusion.
 
   See G. Dennis, _Cities and Cemeteries of Etruria_ (London, 1883), ii.
-  394 seq.; A. Della Cella, _Cortona Antica_ (Cortona, 1900).
+  394 seq.; A. Della [[Cella]], _Cortona Antica_ (Cortona, 1900).
        (T. AS.)
 
 

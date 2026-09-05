@@ -30,12 +30,12 @@ of light, as well as those which arise from irregularities of any kind
 at surfaces through which it is transmitted, or at which it is
 reflected.
 
-2. _Shadows._--In the infancy of the undulatory theory the objection
+2. _Shadows._--In the [[Infancy|infancy]] of the undulatory theory the objection
 most frequently urged against it was the difficulty of explaining the
 very existence of shadows. Thanks to Fresnel and his followers, this
 department of optics is now precisely the one in which the theory has
 gained its greatest triumphs. The principle employed in these
-investigations is due to C. Huygens, and may be thus formulated. If
+investigations is due to C. [[Huygens]], and may be thus formulated. If
 round the origin of waves an ideal closed surface be drawn, the whole
 action of the waves in the region beyond may be regarded as due to the
 motion continually propagated across the various elements of this
@@ -236,7 +236,7 @@ of the surface, the other elements remaining at rest.
   The general explanation of the formation of shadows may also be
   conveniently based upon Fresnel's zones. If the point under
   consideration be so far away from the geometrical shadow that a large
-  number of the earlier zones are complete, then the illumination,
+  number of the earlier zones are complete, then the [[Illumination|illumination]],
   determined sensibly by the first zone, is the same as if there were no
   obstruction at all. If, on the other hand, the point be well immersed
   in the geometrical shadow, the earlier zones are altogether missing,
@@ -261,8 +261,8 @@ of the surface, the other elements remaining at rest.
   An interesting exception to the general rule that full brightness
   requires the existence of the first zone occurs when the obstacle
   assumes the form of a small circular disk parallel to the plane of the
-  incident waves. In the earlier half of the 18th century R. Delisle
-  found that the centre of the circular shadow was occupied by a bright
+  incident waves. In the earlier half of the 18th century R. [[Delisle]]
+  found that the centre of the circular shadow was occupied by a [[Bright|bright]]
   point of light, but the observation passed into oblivion until S. D.
   Poisson brought forward as an objection to Fresnel's theory that it
   required at the centre of a circular shadow a point as bright as if no
@@ -274,7 +274,7 @@ of the surface, the other elements remaining at rest.
   existing zone, and this is sensibly the same as if there were no
   obstruction.
 
-  When light passes through a small circular or annular aperture, the
+  When light passes through a small circular or [[Annular|annular]] [[Aperture|aperture]], the
   illumination at any point along the axis depends upon the precise
   relation between the aperture and the distance from it at which the
   point is taken. If, as in the last paragraph, we imagine a system of
@@ -312,15 +312,15 @@ of the surface, the other elements remaining at rest.
 
   2x being the diameter of the disk. If 2r = 1000 cm., 2x = 1 cm.,
   [lambda] = 6 × 10^-5 cm., then dx = .0015 cm. Hence, in order that
-  this zone may be perfectly formed, there should be no error in the
+  this zone may be perfectly formed, there should be no [[Error|error]] in the
   circumference of the order of .001 cm. (It is easy to see that the
   radius of the bright spot is of the same order of magnitude.) The
   experiment succeeds in a dark room of the length above mentioned, with
-  a threepenny bit (supported by three threads) as obstacle, the origin
+  a threepenny [[Bit|bit]] (supported by three threads) as obstacle, the origin
   of light being a small needle hole in a plate of tin, through which
   the sun's rays shine horizontally after reflection from an external
-  mirror. In the absence of a heliostat it is more convenient to obtain
-  a point of light with the aid of a lens of short focus.
+  mirror. In the absence of a [[Heliostat|heliostat]] it is more convenient to obtain
+  a point of light with the aid of a lens of short [[Focus|focus]].
 
   The amplitude of the light at any point in the axis, when plane waves
   are incident perpendicularly upon an annular aperture, is, as above,
@@ -340,7 +340,7 @@ of the surface, the other elements remaining at rest.
 
   Although the matter can be fully treated only upon the basis of a
   dynamical theory, it is proper to point out at once that there is an
-  element of assumption in the application of Huygens's principle to the
+  element of [[Assumption|assumption]] in the application of Huygens's principle to the
   calculation of the effects produced by opaque screens of limited
   extent. Properly applied, the principle could not fail; but, as may
   readily be proved in the case of sonorous waves, it is not in
@@ -357,7 +357,7 @@ diffraction is the investigation of the distribution of light over a
 screen upon which impinge divergent or convergent spherical waves after
 passage through various diffracting apertures. When the waves are
 convergent and the recipient screen is placed so as to contain the
-centre of convergency--the image of the original radiant point, the
+centre of convergency--the [[Image|image]] of the original radiant point, the
 calculation assumes a less complicated form. This class of phenomena was
 investigated by J. von Fraunhofer (upon principles laid down by
 Fresnel), and are sometimes called after his name. We may conveniently
@@ -434,11 +434,11 @@ in respect to the theory of optical instruments.
   varies, the composition of the integrals is unaltered, provided [xi]
   and [eta] are taken universely proportional to [lambda]. A diminution
   of [lambda] thus leads to a simple proportional shrinkage of the
-  diffraction pattern, attended by an augmentation of brilliancy in
+  diffraction pattern, attended by an [[Augmentation|augmentation]] of brilliancy in
   proportion to [lambda]^-2.
 
   If the wave-length remains unchanged, similar effects are produced by
-  an increase in the scale of the aperture. The linear dimension of the
+  an increase in the scale of the aperture. The linear [[Dimension|dimension]] of the
   diffraction pattern is inversely as that of the aperture, and the
   brightness at corresponding points is as the _square_ of the area of
   aperture.
@@ -488,7 +488,7 @@ in respect to the theory of optical instruments.
     y = - ( 1 + - + -- + ... ) - -- ---- - -----.
         U  \    U   U²      /    3   15     315
 
-  This equation is to be solved by successive approximation. It will
+  This [[Equation|equation]] is to be solved by successive approximation. It will
   readily be found that
 
                            2         13        146
@@ -584,7 +584,7 @@ in respect to the theory of optical instruments.
   When the difference of phase amounts to [lambda], we may expect the
   resultant illumination to be very much reduced. In the particular case
   of a rectangular aperture the course of things can be readily
-  followed, especially if we conceive f to be infinite. In the direction
+  followed, especially if we conceive f to be [[Infinite|infinite]]. In the direction
   (suppose horizontal) for which [eta] = 0, [xi]/f = sin [theta], the
   phases of the secondary waves range over a complete period when sin
   [theta] = [lambda]/a, and, since all parts of the horizontal aperture
@@ -627,7 +627,7 @@ in respect to the theory of optical instruments.
                               [lambda]²f²
 
   the same law as obtains for a luminous point when horizontal
-  directions are alone considered. The definition of a fine vertical
+  directions are alone considered. The [[Definition|definition]] of a fine vertical
   line, and consequently the resolving power for contiguous vertical
   lines, is thus _independent of the vertical aperture of the
   instrument_, a law of great importance in the theory of the
@@ -673,8 +673,8 @@ in respect to the theory of optical instruments.
 
   The resolving power of a telescope with circular or rectangular
   aperture is easily investigated experimentally. The best object for
-  examination is a grating of fine wires, about fifty to the inch,
-  backed by a sodium flame. The object-glass is provided with diaphragms
+  examination is a grating of fine wires, about fifty to the [[Inch|inch]],
+  backed by a sodium flame. The object-glass is provided with [[Diaphragm|diaphragms]]
   pierced with round holes or slits. One of these, of width equal, say,
   to one-tenth of an inch, is inserted in front of the object-glass, and
   the telescope, carefully focused all the while, is drawn gradually
@@ -958,7 +958,7 @@ case where the form of the aperture is circular.
 
     r/f = .7655 × [lambda]/2R.
 
-  It has been found by Sir William Herschel and others that the
+  It has been found by Sir William [[Herschel]] and others that the
   definition of a telescope is often improved by stopping off a part of
   the central area of the object-glass; but the advantage to be obtained
   in this way is in no case great, and anything like a reduction of the
@@ -1102,7 +1102,7 @@ series of years, the advantage of a large aperture in separating the
 components of close double stars was fully examined by W. R. Dawes.
 
 The resolving power of telescopes was investigated also by J. B. L.
-Foucault, who employed a scale of equal bright and dark alternate parts;
+[[Foucault]], who employed a scale of equal bright and dark alternate parts;
 it was found to be proportional to the aperture and independent of the
 focal length. In telescopes of the best construction and of moderate
 aperture the performance is not sensibly prejudiced by outstanding
@@ -1113,10 +1113,10 @@ visible part of the image of a luminous point was equal to half the
 radius of the first dark ring.
 
 The application, unaccountably long delayed, of this principle to the
-microscope by H. L. F. Helmholtz in 1871 is the foundation of the
+microscope by H. L. F. [[Helmholtz]] in 1871 is the foundation of the
 important doctrine of the _microscopic limit_. It is true that in 1823
 Fraunhofer, inspired by his observations upon gratings, had very nearly
-hit the mark.[3] And a little before Helmholtz, E. Abbe published a
+[[Hit|hit]] the mark.[3] And a little before Helmholtz, E. Abbe published a
 somewhat more complete investigation, also founded upon the phenomena
 presented by gratings. But although the argument from gratings is
 instructive and convenient in some respects, its use has tended to
@@ -1171,7 +1171,7 @@ whether applied to telescopes or microscopes.
   unnecessarily separated.
 
   In the above argument the whole space between the object and the lens
-  is supposed to be occupied by matter of one refractive index, and
+  is supposed to be occupied by matter of one refractive [[Index|index]], and
   [lambda] represents the wave-length _in this medium_ of the kind of
   light employed. If the restriction as to uniformity be violated, what
   we have ultimately to deal with is the wave-length in the medium
@@ -1301,7 +1301,7 @@ or preponderatingly, of one size.
   brightened n times.
 
   In his experiments upon this subject Fraunhofer employed plates of
-  glass dusted over with lycopodium, or studded with small metallic
+  glass dusted over with [[Lycopodium|lycopodium]], or studded with small metallic
   disks of uniform size; and he found that the diameters of the rings
   were proportional to the length of the waves and inversely as the
   diameter of the disks.
@@ -1370,7 +1370,7 @@ exactly the same phase, we see that an aberration nowhere exceeding
 
   As an application of this result, let us investigate what amount of
   temperature disturbance in the tube of a telescope may be expected to
-  impair definition. According to J. B. Biot and F. J. D. Arago, the
+  impair definition. According to J. B. [[Biot]] and F. J. D. Arago, the
   index [mu] for air at t° C. and at atmospheric pressure is given by
 
                 .00029
@@ -1403,7 +1403,7 @@ exactly the same phase, we see that an aberration nowhere exceeding
   caused by a proportionally less difference of temperature. S. P.
   Langley has proposed to obviate such ill-effects by stirring the air
   included within a telescope tube. It has long been known that the
-  definition of a carbon bisulphide prism may be much improved by a
+  definition of a [[Carbon Bisulphide|carbon bisulphide]] prism may be much improved by a
   vigorous shaking.
 
   We will now consider the application of the principle to the formation
@@ -1517,7 +1517,7 @@ exactly the same phase, we see that an aberration nowhere exceeding
   microscope, is of interest. The limiting efficiency of the microscope
   is attained when the angular aperture amounts to 180°; and it is
   evident that a lateral displacement of the point under observation
-  through ½[lambda] entails (at the old image) a phase-discrepancy of a
+  through ½[lambda] [[Entail|entails]] (at the old image) a phase-discrepancy of a
   whole period, one extreme ray being accelerated and the other retarded
   by half that amount. We may infer that the limits of efficiency in the
   two methods are the same when the length of the pointer is equal to
@@ -1596,7 +1596,7 @@ exactly the same phase, we see that an aberration nowhere exceeding
 
     t = [lambda]/[delta][mu]                 (7).
 
-8. _Diffraction Gratings._--Under the heading "Colours of Striated
+8. _Diffraction Gratings._--Under the heading "[[Colours]] of Striated
 Surfaces," Thomas Young (_Phil. Trans._, 1802) in his usual summary
 fashion gave a general explanation of these colours, including the law
 of sines, the striations being supposed to be straight, parallel and
@@ -1783,7 +1783,7 @@ the years 1817-1823, are republished in his _Collected Writings_
 
   From the value of Bm : B0 we see that no lateral spectrum can surpass
   the central image in brightness; but this result depends upon the
-  hypothesis that the ruling acts by opacity, which is generally very
+  [[Hypothesis|hypothesis]] that the ruling acts by opacity, which is generally very
   far from being the case in practice. In an engraved glass grating
   there is no opaque material present by which light could be absorbed,
   and the effect depends upon a difference of retardation in passing the
@@ -1969,7 +1969,7 @@ the years 1817-1823, are republished in his _Collected Writings_
 
     FIG. 13.--xy.   FIG. 14.--x²y.    FIG. 15.--y³.]
 
-  The effect of a gradual increase in the interval (fig. 9) as we pass
+  The effect of a [[Gradual|gradual]] increase in the interval (fig. 9) as we pass
   across the grating has been investigated by M. A. Cornu (_C.R._, 1875,
   80, p. 655), who thus explains an anomaly observed by E. E. N.
   Mascart. The latter found that certain gratings exercised a converging
@@ -1982,7 +1982,7 @@ the years 1817-1823, are republished in his _Collected Writings_
   grating are accelerated in an increasing degree, as we pass from the
   centre outwards, as compared with the phase they would possess were
   the central value of the grating interval maintained throughout. The
-  irregularity of spacing has thus the effect of a convex lens, which
+  irregularity of spacing has thus the effect of a [[Convex|convex]] lens, which
   accelerates the marginal relatively to the central rays. On the other
   side the effect is reversed. This kind of irregularity may clearly be
   present in a degree surpassing the usual limits, without loss of
@@ -2014,7 +2014,7 @@ the years 1817-1823, are republished in his _Collected Writings_
   of ruling giving rise to [alpha] is one in which the intervals
   increase or decrease in _both_ directions from the centre outwards
   (fig. 11), and it may often be compensated by a slight rotation in
-  azimuth of the object-glass of the observing telescope. The term in
+  [[Azimuth|azimuth]] of the object-glass of the observing telescope. The term in
   [gamma] corresponds to a _variation_ of curvature in crossing the
   grating (fig. 12).
 
@@ -2153,7 +2153,7 @@ the years 1817-1823, are republished in his _Collected Writings_
   1/100, and tan [phi]' = 1, mn might be as great as four millions
   before the error of phase would reach ¼[lambda]. If it were desired to
   use an angular aperture so large that the aberration according to (13)
-  would be injurious, Rowland points out that on his machine there would
+  would be injurious, Rowland points out that on his [[Machine|machine]] there would
   be no difficulty in applying a remedy by making [sigma] slightly
   variable towards the edges. Or, retaining [sigma] constant, we might
   attain compensation by so polishing the surface as to bring the
@@ -2220,7 +2220,7 @@ grating reproducing many of the characteristics of the original. It is
 best to commence the electrolytic thickening in a silver acetate bath.
 At the present time excellent reproductions of Rowland's speculum
 gratings are on the market (Thorp, Ives, Wallace), prepared, after a
-suggestion of Sir David Brewster, by coating the original with a
+suggestion of Sir David [[Brewster]], by coating the original with a
 varnish, e.g. of celluloid. Much skill is required to secure that the
 film when stripped shall remain undeformed.
 
@@ -2228,7 +2228,7 @@ A much easier method, applicable to glass originals, is that of
 photographic reproduction by contact printing. In several papers dating
 from 1872, Lord Rayleigh (see _Collected Papers_, i. 157, 160, 199, 504;
 iv. 226) has shown that success may be attained by a variety of
-processes, including bichromated gelatin and the old bitumen process,
+processes, including bichromated [[Gelatin|gelatin]] and the old bitumen process,
 and has investigated the effect of imperfect approximation during the
 exposure between the prepared plate and the original. For many purposes
 the copies, containing lines up to 10,000 to the inch, are not inferior.
@@ -2545,7 +2545,7 @@ through a very small hole perforated in a metal plate, or condensed by a
 lens of short focus. In the absence of a heliostat the latter was the
 more convenient. Following, unknown to himself, in the footsteps of
 Young, he deduced the principle of interference from the circumstance
-that the darkness of the interior bands requires the co-operation of
+that the darkness of the interior bands requires the [[Co-Operation|co-operation]] of
 light from both sides of the obstacle. At first, too, he followed Young
 in the view that the exterior bands are the result of interference
 between the direct light and that reflected from the edge of the
@@ -2854,7 +2854,7 @@ Again, by a known formula,
 
     2ax² - V²[lambda]y² - V²a[lambda]y = 0,
 
-  which represents a hyperbola with vertices at O and A.
+  which represents a [[Hyperbola|hyperbola]] with vertices at O and A.
 
   From (24), (26) we see that the width of the bands is of the order
   [sqrt] {b[lambda](a + b)/a}. From this we may infer the limitation
@@ -2894,7 +2894,7 @@ Again, by a known formula,
   When the functions C and S have once been calculated, the discussion
   of various diffraction problems is much facilitated by the idea, due
   to M. A. Cornu (_Journ. de Phys._, 1874, 3, p. 1; a similar suggestion
-  was made independently by G. F. Fitzgerald), of exhibiting as a curve
+  was made independently by G. F. [[Fitzgerald]]), of exhibiting as a curve
   the relationship between C and S, considered as the rectangular
   co-ordinates (x, y) of a point. Such a curve is shown in fig. 19,
   where, according to the definition (5) of C, S,
@@ -3408,7 +3408,7 @@ Phil. Trans._, 1849) on the basis of the elastic solid theory.
   W. Sommerfeld (_Math. Ann._, 1895, 47, p. 317), with great
   mathematical skill, has solved the problem of the shadow thrown by a
   semi-infinite plane screen. A simplified exposition has been given by
-  Horace Lamb (_Proc. Lond. Math. Soc._, 1906, 4, p. 190). It appears
+  Horace [[Lamb]] (_Proc. Lond. Math. Soc._, 1906, 4, p. 190). It appears
   that Fresnel's results, although based on an imperfect theory, require
   only insignificant corrections. Problems not limited to two
   dimensions, such for example as the shadow of a circular disk, present
@@ -3458,7 +3458,7 @@ FOOTNOTES:
     transcends the separating power of the instrument.
 
   [8] "In the same way we may conclude that in flat gratings any
-    departure from a straight line has the effect of causing the dust in
+    departure from a straight line has the effect of causing the [[Dust|dust]] in
     the slit and the spectrum to have different foci--a fact sometimes
     observed." (Rowland, "On Concave Gratings for Optical Purposes,"
     _Phil. Mag._, September 1883).
@@ -3481,9 +3481,9 @@ FOOTNOTES:
     justifiable only when there is synchronism among the secondary waves
     issuing from the various centres.
 
-  [11] H. Necker (_Phil. Mag._, November 1832); Fox Talbot (_Phil.
+  [11] H. Necker (_Phil. Mag._, November 1832); [[Fox]] Talbot (_Phil.
     Mag._, June 1833). "When the sun is about to emerge ... every branch
-    and leaf is lighted up with a silvery lustre of indescribable
+    and [[Leaf|leaf]] is lighted up with a silvery lustre of indescribable
     beauty.... The birds, as Mr Necker very truly describes, appear like
     flying brilliant sparks." Talbot ascribes the appearance to
     diffraction; and he recommends the use of a telescope.

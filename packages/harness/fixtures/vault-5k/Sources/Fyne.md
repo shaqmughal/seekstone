@@ -9,8 +9,8 @@ tags: [science, mechanics]
 
 # Fyne
 
-FYNE, LOCH, an inlet of the sea, Argyllshire, Scotland. From the head, 6
-m. above Inveraray, to the mouth on the Sound of Bute, it has a
+FYNE, LOCH, an inlet of the sea, [[Argyllshire]], Scotland. From the head, 6
+m. above [[Inveraray]], to the mouth on the Sound of Bute, it has a
 south-westerly and then southerly trend and is 44 m. long, its width
 varying from 1/4 m. to 6 m. It receives the Fyne, Shira, Aray and many
 other streams, and, on the western side, gives off Lochs Shira, Gair,
@@ -25,7 +25,7 @@ Crarae, Furnace, Inveraray, Strachur and elsewhere. The industries
 comprise granite quarrying at Furnace and Crarae, distilling at
 Ardrishaig, gunpowder-making at Furnace and Kilfinan, and, above all,
 fishing. Haddock, whiting and codling are taken, and the famous "Loch
-Fyne herrings" command the highest price in the market.
+Fyne [[Herrings|herrings]]" command the highest price in the market.
 
 ## See also
 

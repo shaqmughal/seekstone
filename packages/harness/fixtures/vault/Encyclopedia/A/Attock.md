@@ -9,7 +9,7 @@ Great, Tamerlane and Nadir Shah are believed to have successively
 crossed the Indus at or about this spot in their respective invasions of
 India. The river runs past Attock in a deep rapid channel about 200 yds.
 broad, but is easily crossed in boats or on inflated skins of oxen. The
-rocky gorges through which it flows, with a distant view of the Hindu
+rocky [[Gorges|gorges]] through which it flows, with a distant view of the Hindu
 Kush, form some of the finest scenery in the world. In 1883 an iron
 girder bridge of five spans was opened, which carries the North-Western
 railway to Peshawar, and has also a subway for wheeled traffic and foot

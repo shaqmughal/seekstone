@@ -8,7 +8,7 @@ and does not become, as in shrubs or trees, woody or permanent, such
 plants are also called "herbaceous." The term "herb" is also used of
 those herbaceous plants, which possess certain properties, and are used
 for medicinal purposes, for flavouring or garnishing in cooking, and
-also for perfumes (see HORTICULTURE and PHARMACOLOGY).
+also for perfumes (see [[Horticulture|HORTICULTURE]] and PHARMACOLOGY).
 
 ## References
 

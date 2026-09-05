@@ -3,7 +3,7 @@
 IODOFORM, CHI3, a valuable antiseptic discovered by G. S. Serullas in
 1822; in 1834 J. B. Dumas showed that it contained hydrogen. It is
 formed by the action of iodine and aqueous potash on ethyl alcohol,
-acetone, acetaldehyde and from most compounds containing the grouping
+acetone, acetaldehyde and from most [[Compound|compounds]] containing the grouping
 CH3.CO.C-. Its formation from alcohol may be represented thus: C2H5OH +
 4I2 + 6KHO = CHI3 + KHCO2 + 5KI + 5H2O. It crystallizes in yellow
 hexagonal plates, melting at 119-120 deg. C., and is readily soluble in
@@ -13,7 +13,7 @@ yields methylene iodide, CH2I2.
 
   More recently, iodoform has been prepared by the electrolysis of a
   solution of potassium iodide in the presence of alcohol or acetone,
-  the electrolytic cell being fitted with a diaphragm, in order to
+  the electrolytic cell being fitted with a [[Diaphragm|diaphragm]], in order to
   prevent the hydrogen which is formed at the same time from reducing
   the iodoform, or from combining with the iodine to form hydriodic
   acid. K. Elbs uses a solution of potassium iodide and sodium carbonate

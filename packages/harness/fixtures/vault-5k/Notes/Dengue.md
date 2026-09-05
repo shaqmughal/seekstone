@@ -7,12 +7,12 @@ type: article
 
 # Dengue
 
-DENGUE (pronounced deng-ga), an infectious fever occurring in warm
+DENGUE (pronounced deng-ga), an infectious [[Fever|fever]] occurring in warm
 climates. The symptoms are a sudden attack of fever, accompanied by
-rheumatic pains in the joints and muscles with severe headache and
+rheumatic pains in the [[Joints|joints]] and muscles with severe headache and
 erythema. After a few days a crisis is reached and an interval of two or
 three days is followed by a slighter return of fever and pain and an
-eruption resembling measles, the most marked characteristic of the
+eruption resembling [[Measles|measles]], the most marked characteristic of the
 disease. The disease is rarely fatal, death occurring only in cases of
 extreme weakness caused by old age, infancy or other illness. Little is
 known of the aetiology of "dengue." The virus is probably similar to
@@ -33,12 +33,12 @@ usually been identified with the Spanish _dengue_, meaning stiff or prim
 behaviour, and adopted in the West Indies as a name suitable to the
 curious cramped movements of a sufferer from the disease, similar to the
 name "dandy-fever" which was given to it by the negroes. According to
-the _New English Dictionary_ (quoting Dr Christie in _The Glasgow
+the _New English Dictionary_ (quoting Dr Christie in _The [[Glasgow]]
 Medical Journal_, September 1881), both "dengue" and "dandy" are
 corruptions of the Swahili word _dinga_ or _denga_, meaning a sudden
 attack of cramp, the Swahili name for the disease being _ka-dinga pepo_.
 
-   See Sir Patrick Manson, _Tropical Diseases; a Manual of Diseases of
+   See Sir Patrick [[Manson]], _Tropical Diseases; a [[Manual]] of Diseases of
    Warm Climates_ (1903).
 
 ## See also

@@ -1,7 +1,7 @@
 # Longomontanus
 
 LONGOMONTANUS (or LONGBERG), CHRISTIAN SEVERIN(1562-1647), Danish
-astronomer, was born at the village of Longberg in Jutland, Denmark, on
+astronomer, was born at the village of Longberg in [[Jutland]], [[Denmark]], on
 the 4th of October 1562. The appellation Longomontanus was a Latinized
 form of the name of his birthplace. His father, a poor labourer called
 Sören, or Severin, died when he was eight years old. An uncle thereupon
@@ -11,12 +11,12 @@ field-work. She agreed, however, to permit him to study during the
 winter months with the clergyman of the parish; and this arrangement
 subsisted until 1577, when the illwill of some of his relatives and his
 own desire for knowledge impelled him to run away to Viborg. There he
-attended the grammar-school, defraying his expenses by manual labour,
-and carried with him to Copenhagen in 1588 a high reputation for
+attended the grammar-school, defraying his expenses by [[Manual|manual]] labour,
+and carried with him to [[Copenhagen]] in 1588 a high reputation for
 learning and ability. Engaged by Tycho Brahe in 1589 as his assistant in
 his great astronomical observatory of Uraniborg, he rendered him
 invaluable services there during eight years. He quitted the island of
-Hveen with his master, but obtained his discharge at Copenhagen on the
+Hveen with his master, but obtained his [[Discharge|discharge]] at Copenhagen on the
 1st of June 1597, for the purpose of studying at some German
 universities. He rejoined Tycho at Prague in January 1600, and having
 completed the Tychonic lunar theory, turned homeward again in August. He
@@ -30,18 +30,18 @@ Copenhagen, and his promotion to the chair of mathematics ensued in
 
 Longomontanus, although an excellent astronomer, was not an advanced
 thinker. He adhered to Tycho's erroneous views about refraction, held
-comets to be messengers of evil and imagined that he had squared the
+[[Comet|comets]] to be messengers of evil and imagined that he had squared the
 circle. He found that the circle whose diameter is 43 has for its
 circumference the square root of 18252--which gives 3.14185... for the
 value of [pi]. John Pell and others vainly endeavoured to convince him
-of his error. He inaugurated, at Copenhagen in 1632, the erection of a
+of his [[Error|error]]. He inaugurated, at Copenhagen in 1632, the erection of a
 stately astronomical tower, but did not live to witness its completion.
 Christian IV. of Denmark, to whom he dedicated his _Astronomia Danica_,
 an exposition of the Tychonic system of the world, conferred upon him
 the canonry of Lunden in Schleswig.
 
   The following is a list of his more important works in mathematics and
-  astronomy: _Systematis Mathematici_, &c. (1611); _Cyclometria e
+  [[Astronomy|astronomy]]: _Systematis Mathematici_, &c. (1611); _Cyclometria e
   Lunulis reciproce demonstrata_, &c. (1612); _Disputatio de Eclipsibus_
   (1616); _Astronomia Danica_, &c. (1622); _Disputationes quatuor
   Astrologicae_ (1622); _Pentas Problematum Philosophiae_ (1623); _De
@@ -61,7 +61,7 @@ the canonry of Lunden in Schleswig.
   Jens Worm, _Forsög til et Lexikon over danske, norske og islandske
   laerde Maend_, p. 617, 1771, &c.; P. Bayle, _Hist. and Crit.
   Dictionary_, iii. 861 (2nd ed. 1736); J. B. J. Delambre, _Hist. de
-  l'astr. moderne_, i. 262; J. S. Bailly, _Hist. de l'astr. moderne_,
+  l'astr. moderne_, i. 262; J. S. [[Bailly]], _Hist. de l'astr. moderne_,
   ii. 141; J. L. E. Dreyer, _Tycho Brahe_, pp. 126, 259, 288, 299; F.
   Hoeffer, _Hist. de l'astronomie_, p. 391; J. Mädler, _Geschichte der
   Himmelskunde_, i. 195; J. F. Weidler, _Hist. Astronomiae_, p. 451.

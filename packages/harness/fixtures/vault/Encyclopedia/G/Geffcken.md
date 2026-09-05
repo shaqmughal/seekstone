@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Geffcken"
 
 # Geffcken
 
-GEFFCKEN, FRIEDRICH HEINRICH (1830-1896), German diplomatist and jurist,
-was born on the 9th of December 1830 at Hamburg, of which city his
-father was senator. After studying law at Bonn, Göttingen and Berlin, he
+GEFFCKEN, [[Friedrich|FRIEDRICH]] HEINRICH (1830-1896), German diplomatist and jurist,
+was born on the 9th of December 1830 at [[Hamburg]], of which city his
+father was senator. After studying law at [[Bonn]], Göttingen and Berlin, he
 was attached in 1854 to the Prussian legation at Paris. For ten years
 (1856-1866) he was the diplomatic representative of Hamburg in Berlin,
 first as chargé d'affaires, and afterwards as minister-resident, being
@@ -37,11 +37,11 @@ Geffcken in the _Deutsche Rundschau_ (Oct. 1888) of extracts from the
 emperor Frederick's private diary during the war of 1870-71, he was, at
 Bismarck's instance, prosecuted for high treason. The Reichsgericht
 (supreme court), however, quashed the indictment, and Geffcken was
-liberated after being under arrest for three months. Publications of
+liberated after being under [[Arrest|arrest]] for three months. Publications of
 various kinds proceeded from his pen. Among these are _Zur Geschichte
 des orientalischen Krieges 1853-1856_ (Berlin, 1881); _Frankreich,
 Russland und der Dreibund_ (Berlin, 1894); and _Staat und Kirche_
-(1875), English translation by E.F. Fairfax (1877). His writings on
+(1875), English translation by E.F. [[Fairfax]] (1877). His writings on
 English history have been translated by S.J. Macmullan and published as
 _The British Empire, with essays on Prince Albert, Palmerston,
 Beaconsfield, Gladstone, and reform of the House of Lords_ (1889).

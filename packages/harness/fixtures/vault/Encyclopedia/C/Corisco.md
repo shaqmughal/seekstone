@@ -7,7 +7,7 @@ inland some 15 m. The bay is much encumbered with sandbanks, which
 impair its value as a harbour. Whereas the Muni river or estuary, which
 enters the bay on its northern side, has a maximum depth of over 100
 ft., vessels entering it have to come by a channel with an average depth
-of six fathoms. The entrance to the southern part of the bay is
+of six [[Fathom|fathoms]]. The entrance to the southern part of the bay is
 obstructed by the Bana Bank, which extends for 9 m., rendering
 navigation dangerous. The bay encloses many small islands and islets,
 some hardly distinguishable from sandbanks and submerged at high water,
@@ -26,9 +26,9 @@ many converts to Roman Catholicism and a few Protestants. Corisco and
 the other islands named are Spanish possessions and are governed as
 dependencies of Fernando Po.
 
-  See Mary H. Kingsley, _Travels in West Africa_, ch. xvii. (London,
+  See Mary H. [[Kingsley]], _Travels in West Africa_, ch. xvii. (London,
   1897); E. L. Perea, "Guinea española: La isla de Corisco," in _Revista
-  de geog. colon. y mercantil_ (Madrid, 1906).
+  de geog. [[Colon|colon]]. y mercantil_ (Madrid, 1906).
 
 ## See also
 

@@ -3,7 +3,7 @@
 BAGOAS, a Persian name (_Bagoi_), a shortened form of names like Bagadata,
 "given by God," often used for eunuchs. The best-known of these ("Bagoses"
 in Josephus) became the confidential minister of Artaxerxes III. He threw
-in his lot with the Rhodian condottiere Mentor, and with his help succeeded
+in his [[Lot|lot]] with the Rhodian [[Condottiere|condottiere]] Mentor, and with his help succeeded
 in subjecting Egypt again to the Persian empire (probably 342 B.C.). Mentor
 became general of the maritime provinces, suppressed the rebels, and sent
 Greek mercenaries to the king, while Bagoas administered the upper
@@ -20,12 +20,12 @@ raised to the throne; two years later he murdered Arses and made Darius
 III. king. When Darius attempted to become independent of the powerful
 vizier ([Greek: chiliarchos]), Bagoas tried to poison him too; but Darius
 was warned and forced him to drink the poison himself (Diod. xvii. 5;
-Johann. Antioch, p. 38, 39 ed. Müller; Arrian ii. 14. 5; Curt. vi. 4. 10).
+Johann. Antioch, p. 38, 39 ed. Müller; [[Arrian]] ii. 14. 5; Curt. vi. 4. 10).
 A later story, that Bagoas was an Egyptian and killed Artaxerxes III.
 because he had killed the sacred Apis (Aelian, _Var. Hist._ vi. 8), is
 without historical value. Bagoas' house in Susa, with rich treasures, was
 presented by Alexander to Parmenio (Plut. _Alex._ 39); his gardens in
-Babylon, with the best species of palms, are mentioned by Theophrastus
+[[Babylon]], with the best species of palms, are mentioned by Theophrastus
 (_Hist. Plant_, ii. 6; Plin. _Nat. Hist._ xiii. 41). Another eunuch,
 Bagoas, was a favourite of Alexander the Great (Dicaearchus in Athen. xiii.
 603b; Plut. _Al._ 67; Aelian, _Var. Hist._ 3. 23; Curt. vi. 5. 23; x. 1. 25

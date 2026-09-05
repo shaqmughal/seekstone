@@ -4,7 +4,7 @@ CROWN POINT, a village of Essex county, New York, U.S.A., in a township
 of the same name, about 90 m. N.E. of Albany and about 10 m. N. of
 Ticonderoga, on the W. shore of Lake Champlain. Pop. of the township
 (1890) 3135; (1900) 2112; (1905) 1890; (1910) 1690; of the village,
-about 1000. The village is served by the Delaware & Hudson Railway and
+about 1000. The village is served by the Delaware & [[Hudson]] Railway and
 by the Champlain Canal. Among the manufactures are lumber and
 woodenware. Graphite has been found in the western part of the township,
 and spar is mined. In 1609 Champlain fought near here the engagement

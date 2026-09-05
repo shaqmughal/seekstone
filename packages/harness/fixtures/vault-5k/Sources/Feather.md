@@ -90,7 +90,7 @@ the body, and are all that can generally be seen. Those which form the
 "flight feathers" of the wing, and the tail feathers, are the most
 perfectly developed. Semiplumes are degenerate contour feathers. The
 down-feathers are generally completely hidden by the contour feathers:
-they form in many birds, such as gulls and ducks, a thick underclothing
+they form in many birds, such as [[Gull|gulls]] and ducks, a thick underclothing
 comparable to the under-fur of mammals such as the seals. In all cases
 they are of a loose, soft, "fluffy" structure, the barbs being of great
 length and slenderness, while the barbules are often long and provided
@@ -106,7 +106,7 @@ hairs, but they always bear a minute vane at the tip. They occur in all
 birds, in clusters of varying number, about the bases of contour
 feathers. In some birds they attain a great length, and may project
 beyond the contour feathers, sometimes forming conspicuous white
-patches, as for example in the necks of cormorants. In their early
+patches, as for example in the necks of [[Cormorant|cormorants]]. In their early
 stages of development they often possess a large aftershaft made up of a
 number of barbs, but these quickly disappear, leaving only the
 degenerate main shaft. The eyelashes and bristles round the mouth found
@@ -117,7 +117,7 @@ secrete a dry, waxy kind of powder. This powder rapidly disintegrates
 and becomes distributed over the plumage, adding thereto a quite
 peculiar bloom. In birds of the heron tribe powder-down feathers have
 reached a high degree of development, forming large patches in the
-breast and thighs, while in some hawks, and in the parrots, these
+[[Breast|breast]] and thighs, while in some [[Hawk|hawks]], and in the parrots, these
 mysterious feathers are scattered singly over the greater part of the
 body.
 
@@ -126,7 +126,7 @@ body.
 
 The nature of the covering of nestling birds is of a more complex
 character than has hitherto been suspected. The majority of young birds,
-as is well known, either emerge from the egg clothed in down-feathers,
+as is well known, either emerge from the [[Egg|egg]] clothed in down-feathers,
 or they develop these within a day or two afterwards. But this covering,
 though superficially similar in all, may, as a matter of fact, differ
 widely in its constitution, even in closely related forms, while only in
@@ -162,7 +162,7 @@ the "protoptyle" or first of these two generations of pre-pennae is
 developed and shed while the chick is yet in the shell, so that at
 hatching the mesoptyle plumage is well developed. But in the majority of
 birds, probably, the mesoptyle plumage only is developed, while the
-earlier, and apparently more degenerate, dress is suppressed. In the
+earlier, and apparently more degenerate, [[Dress|dress]] is suppressed. In the
 penguins both of these nestling plumages are developed, but the
 mesoptyle dress has degenerated so that umbelliform feathers now take
 the place of feathers having a central axis.
@@ -192,12 +192,12 @@ as is known, the only birds which have a nestling plumage composed
 entirely of pre-plumulae.
 
 
-  The colours of feathers.
+  The [[Colours|colours]] of feathers.
 
 In variety and brilliancy the colours of birds are not surpassed by
 those of any other group of animals. Yet the pigments to which these
 colours are due are but few in number, while a large number of the most
-resplendent hues are produced by structural peculiarities of the
+resplendent [[Hue|hues]] are produced by structural peculiarities of the
 colourless horny surface of the feathers, and hence are known as
 subjective or optical colours.
 
@@ -229,9 +229,9 @@ supposed, confined to the feathers of the plantain eaters, since it has
 been obtained from a cuckoo, _Dasylophus superciliosus_.
 
 What effect food may have on colour in birds in a wild state we have no
-means of knowing, but it is significant that flamingoes and linnets in
+means of knowing, but it is significant that [[Flamingo|flamingoes]] and linnets in
 confinement never regain their bright hues after their first moult in
-captivity. If cayenne pepper be mixed with the food of certain strains
+captivity. If [[Cayenne Pepper|cayenne pepper]] be mixed with the food of certain strains
 of canaries, from the time the birds are hatched onwards, the yellow
 colour of the feathers becomes intensified, till it takes on a deep
 orange hue. Bullfinches, if fed on hemp-seed, turn black. According to
@@ -283,7 +283,7 @@ are barred.
 There is also evidence to show that the evolution of brilliant plumage
 began with the males, and has, in many cases, been more or less
 perfectly acquired by the females, and also by the young, as for example
-in the kingfishers, where parents and offspring wear the same livery.
+in the kingfishers, where parents and offspring wear the same [[Livery|livery]].
 Often, where the parents are alike in plumage, the young wear a
 different and duller livery, as in the case of the common starling
 (_Sturnus vulgaris_). But where the female differs from the male in
@@ -324,7 +324,7 @@ never enclosed within an envelope such as that just described. When
 their growth has practically completed, and not till then, the old
 feathers are removed in large patches by the aid of the bird's beak;
 exposing thereby a perfectly developed plumage. In the cassowary, and
-emeu, the old feathers similarly adhere for a time to the tips of the
+[[Emeu|emeu]], the old feathers similarly adhere for a time to the tips of the
 new; but in these birds the feathers are moulted singly as in other
 birds.
 
@@ -335,7 +335,7 @@ only partial, since the quill feathers of the wings and the tail
 feathers are not renewed.
 
 At this spring moult a special "nuptial" plumage is often assumed, as
-for example in many of the Limicolae, e.g. god-wits, knots, dunlin,
+for example in many of the Limicolae, e.g. god-wits, [[Knot|knots]], dunlin,
 ruff.
 
 The sequel to this habit of assuming a nuptial dress is an interesting
@@ -478,13 +478,13 @@ the feather is against the probability of any such change taking place.
   In its simplest form it runs from the throat backwards in the form of
   a median band as far as the base of the neck where it divides, sending
   a branch to each side of the breast. This branch commonly again
-  divides into a short, broad outer branch which lodges the "flank"
+  divides into a short, broad outer branch which [[Lodge|lodges]] the "flank"
   feathers, and a long, narrow, inner branch which runs backwards to
-  join its fellow of the opposite side in front of the cloacal aperture.
+  join its [[Fellow|fellow]] of the opposite side in front of the cloacal [[Aperture|aperture]].
   This branch lodges the abdominal feathers. The median space which
   divides the inner branches of the tract may be continued forwards as
   far as the middle of the neck, or even up to the throat, e.g. plover.
-  Only in a few cases is the neck continuously covered by the fusion of
+  Only in a few cases is the neck continuously covered by the [[Fusion|fusion]] of
   the dorsal and ventral tracts, e.g. flamingo, Anseres, Ciconidae,
   Pygopodes.
 
@@ -532,7 +532,7 @@ the feather is against the probability of any such change taking place.
   crowded close together and attached to the skeleton of the hand. The
   six or seven which rest upon the fused metacarpals II.-III. are known
   as "metacarpals." The next succeeding feather is borne by the phalanx
-  of digit III. and hence is known as the addigital. Phalanx i. of digit
+  of [[Digit|digit]] III. and hence is known as the addigital. Phalanx i. of digit
   II. always supports two quills, the "middigitals," while the remaining
   feathers--one or two--are borne by the last phalanx of digit II. and
   are known as pre-digitals, while the whole series of primaries are
@@ -550,7 +550,7 @@ the feather is against the probability of any such change taking place.
   little, or frequent thickets, the outer primaries are very short,
   giving the wing a rounded appearance. This adaptation to environment
   is commonly lost sight of by taxonomers, who not infrequently use the
-  form of the wing as a factor in classification.
+  form of the wing as a factor in [[Classification|classification]].
 
   The tectrices, or covert feathers of the wing, are arranged in several
   series, decreasing in size from behind forwards. The number of rows on
@@ -692,20 +692,20 @@ the feather is against the probability of any such change taking place.
   an Animal Pigment containing Copper," _Phil. Trans._ clix. (1870), pt.
   ii.; H. Gadow, "The Coloration of Feathers as affected by Structure,"
   _Proc. Zool. Soc._ (1882); Newbegin, _Colour in Nature_ (1898); R.M.
-  Strong, "The Development of Color in the Definitive Feather," _Bull.
+  Strong, "The Development of Color in the Definitive Feather," _[[Bull]].
   Mus. Zool. Harvard College_, vol. xl.
 
-  _On Moulting._--J. Dwight, "The Sequences of Plumage and Moults of the
-  Passerine Birds of New York," _Annals N.Y. Acad. Sci._, vol. xiii.
+  _On Moulting._--J. [[Dwight]], "The Sequences of Plumage and Moults of the
+  Passerine Birds of New York," _[[Annals]] N.Y. Acad. Sci._, vol. xiii.
   (1900); W.E. De Winton, "On the Moulting of the King Penguin," _Proc.
   Zool. Soc._ (1898-1899); W.P. Pycraft, "On some Points in the Anatomy
   of the Emperor and Adelie Penguins," _Report National Antarctic
   Expedition_, vol. ii. (1907).
 
   _On Development of Embryonic, Nestling and Adult Feathers._--T.H.
-  Studer, "Die Entwicklung der Federn," _Inaug.-Diss._ (Bern, 1873);
+  Studer, "Die Entwicklung der Federn," _Inaug.-[[Diss]]._ ([[Bern]], 1873);
   "Beitrage zur Entwickl. der Feder," _Zeitsch. f. wiss. Zool._, Bd.
-  xxx.; J.T. Cunningham, "Observations and Experiments on Japanese
+  xxx.; J.T. [[Cunningham]], "Observations and Experiments on Japanese
   Long-tailed Fowls," _Proc. Zool. Soc._ (1903); H.R. Davies, "Beitrag
   zur Entwicklung der Feder," _Morph. Jahrb._ xiv. (1888), xv. (1889);
   W.P. Pycraft, "A Contribution towards our Knowledge of the Morphology
@@ -739,7 +739,7 @@ ornamental feathers; and (4) miscellaneous uses of feathers.
 _Bed and Upholstery Feathers._--The qualities which render feathers
 available for stuffing beds, cushions, &c., are lightness elasticity,
 freedom from matting and softness. These are combined in the most
-satisfactory degree in the feathers of the goose and of several other
+satisfactory degree in the feathers of the [[Goose|goose]] and of several other
 allied aquatic birds, whose bodies are protected with a warm downy
 covering. Goose feathers and down, when plucked in spring from the
 living bird, are most esteemed, being at once more elastic, cleaner and
@@ -762,12 +762,12 @@ of drying and cleaning, without which they would acquire an offensive
 smell, readily attract damp, and harbour vermin. The drying is generally
 done in highly heated apartments or stoves, and subsequently the
 feathers are smartly beaten with a stick, and shaken in a sieve to
-separate all dust and small debris.
+separate all [[Dust|dust]] and small debris.
 
 _Quills for Writing._--The earliest period at which the use of quill
 feathers for writing purposes is recorded is the 6th century; and from
 that time till the introduction of steel pens in the early part of the
-19th century they formed the principal writing implements of civilized
+19th century they formed the principal writing [[Implement|implements]] of civilized
 communities. It has always been from the goose that quills have been
 chiefly obtained, although the swan, crow, eagle, owl, hawk and turkey
 all have more or less been laid under contribution. Swan quills, indeed
@@ -811,7 +811,7 @@ Ostrich feathers, however, hold, as they have always held, a pre-eminent
 position among ornamental feathers; and the ostrich is the only bird
 which may be said to be reared exclusively for the sake of its feathers.
 Ostrich farming is one of the established industries of South Africa,
-and is also practised in Kordofan and other semi-desert regions of North
+and is also practised in [[Kordofan]] and other semi-desert regions of North
 Africa, in Argentina, and in Arizona and California in North America.
 The feathers are generally plucked from the living animal--a process
 which does not appear to cause any great inconvenience. In the male
@@ -821,7 +821,7 @@ the female are white tinged with a dusky grey, the general body colour
 being the latter hue. The feathers of the male are consequently much
 more valuable than those of the female, and they are separately
 classified in commerce. The art of the plumassier embraces the cleaning,
-bleaching, dyeing, curling and making up of ostrich and other plumes and
+[[Bleaching|bleaching]], dyeing, curling and making up of ostrich and other plumes and
 feathers. White feathers are simply washed in bundles in hot soapy
 water, run through pure warm water, exposed to sulphurous fumes for
 bleaching, thereafter blued with indigo solution, rinsed in pure cold
@@ -839,12 +839,12 @@ fabrication.
 
 In addition to those of the ostrich, the feathers of certain other birds
 form articles of steady commercial demand. Among these are the feathers
-of the South American ostrich, _Rhea americana_, the marabout feathers
+of the South American ostrich, _Rhea americana_, the [[Marabout|marabout]] feathers
 of India obtained from _Leptoptilos argala_ and _L. javanica_, the
 aigrettes of the heron, the feathers of the various species of birds of
 paradise, and of numerous species of humming-birds. Swan-down and the
 skins of various penguins and grebes and of the albatross are used, like
-fur, for muffs and collarettes.
+[[Fur|fur]], for muffs and collarettes.
 
 The Chinese excel in the preparation of artificial flowers and other
 ornaments from bright natural-coloured or dyed feathers; and the French

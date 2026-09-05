@@ -42,13 +42,13 @@ hind-limbs.
 The earliest remains of _Iguanodon_ were found by Dr G. A. Mantell in
 the Wealden formation of Sussex, and a large part of the skeleton,
 lacking the head, was subsequently discovered in a block of ragstone in
-the Lower Greensand near Maidstone, Kent. These fossils, which are now
+the Lower Greensand near [[Maidstone]], Kent. These fossils, which are now
 in the British Museum, were interpreted by Dr Mantell, who made
 comparisons with the skeleton of _Iguana_, on the erroneous supposition
 that the resemblance in the teeth denoted some relationship to this
 existing lizard. Several of the bones, however, could not be understood
 until the much later discoveries of Mr S. H. Beckles in the Wealden
-cliffs near Hastings; and an accurate knowledge of the skeleton was only
+cliffs near [[Hastings]]; and an accurate knowledge of the skeleton was only
 obtained when many complete specimens were disinterred by the Belgian
 government from the Wealden beds at Bernissart, near Mons, during the
 years 1877-1880. These skeletons, which now form the most striking
@@ -62,7 +62,7 @@ skeletons of allied reptiles have been discovered in the Jurassic and
 Cretaceous rocks of North America.
 
   REFERENCES.--G. A. Mantell, _Petrifactions and their Teaching_
-  (London, 1851); L. Dollo, papers in _Bull. Mus. Roy. d'Hist. Nat.
+  (London, 1851); L. Dollo, papers in _[[Bull]]. Mus. Roy. d'Hist. Nat.
   Belg._, vols. i.-iii. (1882-1884).     (A. S. Wo.)
 
 ## See also

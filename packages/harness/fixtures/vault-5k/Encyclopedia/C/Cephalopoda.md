@@ -15,18 +15,18 @@ forward on each side so as to surround the mouth, the two upgrowths
 meeting on the dorsal side of the head--whence the name Cephalopoda. The
 perioral portion of the foot is drawn out into paired arm-like
 processes; these may be beset with sheathed tentacles or with suckers or
-hooks, or both. The epipodia are expanded into a pair of muscular lobes
+hooks, or both. The epipodia are expanded into a pair of muscular [[Lobe|lobes]]
 right and left, which are bent round towards one another so that their
 free margins meet and constitute a short tube--the siphon or funnel. The
 hind-foot is either very small or absent. A distinctive feature of the
 Cephalopoda is their bilateral symmetry and the absence of anything like
 the torsion of the visceral mass seen in the Anisopleurous Gastropoda.
 
-  The anus, although it may be a little displaced from the median line,
+  The [[Anu|anus]], although it may be a little displaced from the median line,
   is approximately median and posterior. The mantle-skirt is deeply
   produced posteriorly, forming a large sub-pallial chamber around the
   anus. By the side of the anus are placed the single or paired
-  apertures of the nephridia, the genital apertures (paired only in
+  [[Aperture|apertures]] of the nephridia, the genital apertures (paired only in
   _Nautilus_, in female Octopoda, female _Ommatostrephes_ and male
   _Eledone_), and the paired ctenidia. The visceral hump or dome is
   elevated, and may be very much elongated in a direction almost at
@@ -44,7 +44,7 @@ the torsion of the visceral mass seen in the Anisopleurous Gastropoda.
   efficient branchial organs (figs. 4, 24),
 
   The vascular system is very highly developed; the heart consists of a
-  pair of auricles and a ventricle (figs. 12, 28). Branchial hearts are
+  pair of [[Auricle|auricles]] and a ventricle (figs. 12, 28). Branchial hearts are
   formed on the afferent vessels of the branchiae. It is not known to
   what extent the minute subdivision of the arteries extends, or whether
   there is a true capillary system.
@@ -81,7 +81,7 @@ the torsion of the visceral mass seen in the Anisopleurous Gastropoda.
   applied to this modification (see figs. 6, 24). Elaborate
   spermatophores or sperm-ropes are formed by all Cephalopoda, and very
   usually the female possesses special capsule-forming and nidamental
-  glands for providing envelopes to the eggs (fig. 4, g.n.). The egg is
+  glands for providing envelopes to the [[Egg|eggs]] (fig. 4, g.n.). The egg is
   large, and the development is much modified by the presence of an
   excessive amount of food-material diffused in the protoplasm of the
   egg-cell. Trochosphere and veliger stages of development are
@@ -90,7 +90,7 @@ the torsion of the visceral mass seen in the Anisopleurous Gastropoda.
 The Cephalopoda are divisible into two orders, Tetrabranchiata and
 Dibranchiata, the names of which (due to Sir R. Owen) describe the
 number of gill-plumes present; but in fact there are several characters,
-of as great importance as those derived from the gills, by which the
+of as great importance as those derived from the [[Gill|gills]], by which the
 members of these two orders are separated from one another.
 
 ORDER 1. TETRABRANCHIATA (= Schizosiphona, Tentaculifera).
@@ -117,7 +117,7 @@ vessels.
 
 [Illustration: FIG. 1.--Lateral view of the female Pearly Nautilus,
 contracted by spirit and lying in its shell, the right half of which is
-cut away (from Gegenbaur, after Owen).
+cut away (from [[Gegenbaur]], after Owen).
 
   a, Visceral hump.
 
@@ -136,7 +136,7 @@ cut away (from Gegenbaur, after Owen).
   o, points to the right eye.
 
   t, is placed near the extremities of the contracted tentacles of the
-  outer or annular lobe of the fore-foot--the jointed tentacles are seen
+  outer or [[Annular|annular]] lobe of the fore-foot--the jointed tentacles are seen
   protruding a little from their long cylindrical sheaths.
 
   v, The dorsal "hood" formed by an enlargement in this region of the
@@ -244,7 +244,7 @@ remaining two to the pedal appendages.
 
   [Illustration: FIG. 2.--Spirit specimen of female Pearly Nautilus,
   removed from its shell, and seen from the antero-dorsal aspect (drawn
-  from nature by A.G. Bourne).
+  from nature by A.G. [[Bourne]]).
 
     m, The dorsal "hood" formed by the enlargement of the outer or
     annular lobe of the fore-foot, and corresponding to the sheaths of
@@ -308,7 +308,7 @@ remaining two to the pedal appendages.
   repetition of organs in a linear series as anything else than an
   instance of metameric segmentation, comparable to the segmentation of
   the ringed worms and Arthropods. The only other example which we have
-  of this metamerism in the Mollusca is presented by the Chitons. There
+  of this metamerism in the Mollusca is presented by the [[Chiton|Chitons]]. There
   we find not two pairs of ctenidia merely, but sixteen pairs (in some
   species more) accompanied by a similar metamerism of the dorsal
   integument, which carries eight shells. In _Chiton_ the renal organs
@@ -379,7 +379,7 @@ remaining two to the pedal appendages.
   The lobes of the fore-foot of _Nautilus_ and of the other Cephalopoda
   require further description. It has been doubted whether these lobes
   were rightly referred (by T.H. Huxley) to the fore-foot, and it has
-  been maintained by some zoologists (H. Grenadier, H. von Jhering)
+  been maintained by some zoologists (H. Grenadier, H. von [[Jhering]])
   that they are truly processes of the head. It appears to be impossible
   to doubt that the lobes in question are the fore-portion of the foot,
   when their development is examined (see fig. 35), further, when the
@@ -432,7 +432,7 @@ remaining two to the pedal appendages.
   seems to the writer impossible to doubt that each tentacle, and its
   sheath on a lobe of the circumoral disk of Nautilus, corresponds to a
   sucker on such a lobe of a Dibranchiate. W. Keferstein follows Sir R.
-  Owen in strongly opposing this identification, and in regarding such
+  Owen in strongly opposing this [[Identification|identification]], and in regarding such
   tentacle as the equivalent of a whole lobe or arm of a Decapod or
   Octopod Dibranch. The details of these structures, especially in the
   facts concerning the hectocotylus and spadix, afford the most
@@ -704,7 +704,7 @@ remaining two to the pedal appendages.
     d, The mantle flap or skirt in the dorsal region where it rests
     against the coil of the shell.
 
-    e, The inferior margin of the mantle-skirt resting on the lip of the
+    e, The inferior margin of the mantle-skirt resting on the [[Lip|lip]] of the
     shell represented by the dotted line.
 
     f, The pallial chamber with two of the four gills.
@@ -886,7 +886,7 @@ remaining two to the pedal appendages.
   of _Nautilus_ is the possession of four instead of two auricles, a
   feature which is simply related to the metamerism of the branchiae. By
   the left side of the heart of _Nautilus_, attached to it by a
-  membrane, and hanging loosely in the viscero-pericardial chamber, is
+  membrane, and [[Hanging|hanging]] loosely in the viscero-pericardial chamber, is
   the pyriform sac of Owen. This has been shown to be the rudimentary
   left oviduct or sperm-duct, as the case may be (E.R. Lankester and
   A.G. Bourne), the functional right ovi-sac and its duct being attached
@@ -946,7 +946,7 @@ remaining two to the pedal appendages.
   excretory product is very rapidly discharged; in _Nautilus_ a
   pink-coloured powder is found accumulated in the renal sacs,
   consisting of calcium phosphate. The presence of this phosphatic
-  calculus by no means proves that such was the sole excretion of the
+  calculus by no means proves that such was the sole [[Excretion|excretion]] of the
   renal glandular tissue. In _Nautilus_ a glandular growth like that
   rising from the wall of the branchial vessel into its corresponding
   renal sac, but larger in size, depends from each branchial afferent
@@ -962,10 +962,10 @@ remaining two to the pedal appendages.
   y' in fig. 29). The external orifices of the renal organs are also
   more prominent in Dibranchs than in _Nautilus_, being raised on
   papillae (np in fig. 29; r in fig. 25). In _Sepia_ the two renal sacs
-  give off each a diverticulum dorsalwards, which unites with its fellow
+  give off each a diverticulum dorsalwards, which unites with its [[Fellow|fellow]]
   and forms a great median renal chamber, lying between the ventral
   portions of the renal organs and the viscero-pericardial chamber. In
-  _Loligo_ the fusion of the two renal organs to form one sac is still
+  _Loligo_ the [[Fusion|fusion]] of the two renal organs to form one sac is still
   more obvious, since the ventral portions are united. In _Octopus_ the
   renal sacs are quite separate.
 
@@ -1089,7 +1089,7 @@ remaining two to the pedal appendages.
   resides in certain processes within the mouth of _Nautilus_ and other
   Cephalopoda.
 
-  The otocysts of _Nautilus_ were discovered by J.D. Macdonald. Each
+  The otocysts of _Nautilus_ were discovered by J.D. [[Macdonald]]. Each
   lies at the side of the head, ventral to the eye, resting on the
   capito-pedal cartilage, and supported by the large auditory nerve
   which apparently arises from the pedal ganglion but originates in the
@@ -1102,7 +1102,7 @@ remaining two to the pedal appendages.
   elaboration of organization has so simple an eye as that of
   _Nautilus_. When looked at from the surface no metallic lustre, no
   transparent coverings, are presented by it. It is simply a slightly
-  projecting hemispherical box like a kettle-drum, half an inch in
+  projecting hemispherical box like a kettle-drum, half an [[Inch|inch]] in
   diameter, its surface looking like that of the surrounding integument,
   whilst in the middle of the drum-membrane is a minute hole (fig. 3,
   u). Sir R. Owen very naturally thought that some membrane had covered
@@ -1111,7 +1111,7 @@ remaining two to the pedal appendages.
   hole is a normal aperture leading into the globe of the eye, which is
   accordingly filled by sea-water during life. There is no dioptric
   apparatus in _Nautilus_, and in place of refracting lens and cornea we
-  have actually here an arrangement for forming an image on the
+  have actually here an arrangement for forming an [[Image|image]] on the
   principle of "the pin-hole camera." There is no other eye known in the
   whole animal kingdom which is so constructed. The wall of the
   eye-globe is tough, and the cavity is lined solely by the naked
@@ -1188,7 +1188,7 @@ remaining two to the pedal appendages.
   fishermen and collectors and by keeping the living adults in
   captivity, but without success.
 
-  _Phylogeny and Classification._--As _Nautilus_ is the only living
+  _Phylogeny and [[Classification]]._--As _Nautilus_ is the only living
   genus of the Tetrabranchiata, our knowledge of all the rest is based
   upon the study of their fossil shells. A vast number of species of
   shell similar in structure to that of _Nautilus_ are known, chiefly
@@ -1362,7 +1362,7 @@ remaining two to the pedal appendages.
     _Bactrites_, Silurian and Devonian.
 
   _Sub-order 2. Ammonitoidea_,--Initial chamber spheroidal; siphuncle
-  narrow and simple; septa convex towards aperture; sutures complex.
+  narrow and simple; septa [[Convex|convex]] towards aperture; sutures complex.
 
   _Tribe 1. Retrosiphonata_.--Siphuncular necks projecting behind the
   septa as in Nautiloidea. Sutures form simple undulations. Occur
@@ -1401,7 +1401,7 @@ remaining two to the pedal appendages.
 
     Fam. 5. _Phylloceratidae_. Shell coiled, the whorls overlapping each
     other, sutures formed of numerous lobes and saddles. _Phytloceras_,
-    Jurassic.
+    [[Jurassic]].
 
     Fam. 6. _Lytoceratidae_. Shell discoid, whorls loosely united or
     uncoiled, sutures deeply indented, but with only three saddles and
@@ -1411,7 +1411,7 @@ remaining two to the pedal appendages.
 
     Fam. 7. _Ammonitidae_. Shell coiled, with narrow whorls which do not
     embrace one another, aperture simple, a horny anaptychus present.
-    _Ammonites_, Jurassic. _Arietites_, Jurassic. _Aegoceras_, Lias.
+    _Ammonites_, Jurassic. _Arietites_, Jurassic. _Aegoceras_, [[Lias]].
 
     Fam. 8. _Harpoceratidae_. Shell discord and flattened, with a
     carinated border, aperture provided with lateral projections, a
@@ -1475,7 +1475,7 @@ branchial afferent blood-vessels (fig. 28, _vc'_, _vi_).
 
   B, _Thysanoteuthis rhombus_, Troschel (from Messina).
 
-  C, _Loligopsis cyclura_, Fér. and d'Orb. (from the Atlantic Ocean).]
+  C, _Loligopsis cyclura_, Fér. and d'Orb. (from the [[Atlantic Ocean]]).]
 
 [Illustration: FIG. 17.--Internal Shells of Cephalopoda.
 
@@ -1584,7 +1584,7 @@ fact that it appears and disappears without closing in _Argonauta_ and
 _Octopus_, was demonstrated by E. Ray Lankester.
 
 [Illustration: FIG. 22.--The Argonaut in life. (After Lacaze-Duthiers)
-Tr. Float: Br.a, anterior arms: Br p, posterior arms: V, the expanded
+Tr. [[Float]]: Br.a, anterior arms: Br p, posterior arms: V, the expanded
 portion of them, once called the sails; B, the beak; C, the shell; En,
 the Funnel.]
 
@@ -1854,14 +1854,14 @@ either side (fig. 22).
   apparently absent in _Nautilus_. They are originally single cells of
   ectodermic origin which sink below the epidermis and become connected
   with radiating muscular fibres. The cells are single but multinuclear.
-  Different cells contain pigments of different colours, yellow, brown,
+  Different cells contain pigments of different [[Colours|colours]], yellow, brown,
   red or blue. Each cell in life is in constant tremulous movement;
   under the influence of nervous excitement the cells are suddenly
   expanded or contracted, producing blushes of colour and pallor. By
   reflex action of which the afferent stimulus acts upon the eyes as in
   fishes, the chromatophores assume a condition which approximates the
   colour of the animal to that of surrounding objects. In the Decapoda
-  there are also reflecting elements which produce iridescent hues.
+  there are also reflecting elements which produce iridescent [[Hue|hues]].
 
   _Aquiferous Cavities._--In addition to the pockets into which the
   tentacular arms of Decapoda are retracted, there are in several
@@ -2166,7 +2166,7 @@ either side (fig. 22).
   there is yet another fold thrown over the eye. The skin surrounding
   the cornea presents a free circular margin, and can be drawn over the
   surface of the cornea by a sphincter muscle. It thus acts as an
-  adjustable diaphragm, exactly similar in movement to the iris of
+  adjustable [[Diaphragm|diaphragm]], exactly similar in movement to the iris of
   Vertebrates. _Sepia_ and allied Decapods have a horizontal lower
   eyelid, that is to say, only one-half of the sphincter-like fold of
   integument is movable. The statocysts are situated ventrally between
@@ -2609,8 +2609,8 @@ either side (fig. 22).
   History of the Pearly Nautilus," A. Willey's _Zoological Results_, pt.
   vi. (1902); Foord, _Cat. Fossil Cephalopoda in British Museum_;
   Alpheus Hyatt, "Fossil Cephalopods of the Museum of Comp. Zoology,"
-  _Bull. Mus. Comp. Zool._ (Cambridge, U.S., 1868); Jalta, "I Cefalopodi
-  viventi nel golfo di Napoli," _Fauna und Flora des Golfes von Neapel_,
+  _[[Bull]]. Mus. Comp. Zool._ (Cambridge, U.S., 1868); Jalta, "I Cefalopodi
+  viventi nel golfo di Napoli," _Fauna und Flora des [[Golf|Golfes]] von Neapel_,
   xxiii. (1896); Joubin, "Céphalopodes de l'atlantique nord," "Céph. de
   la Princesse Alice," _Camp. sci. Albert I^er de Monaco_, ix. (1895),
   xxii. (1900); Paul Pelseneer, "Mollusca," in the _Treatise on

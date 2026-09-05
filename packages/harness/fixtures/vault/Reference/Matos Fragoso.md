@@ -15,7 +15,7 @@ hitting the public taste, and many contemporaries of superior talent
 eagerly sought his aid as a collaborator. The earliest of his printed
 plays is _La Defensa de la fé y principe prodigioso_ (1651), and twelve
 more pieces were published in 1658. But though his popularity continued
-long after his death (January 4, 1689), Matos Fragoso's dramas do not
+long after his death (January 4, 1689), Matos Fragoso's [[Drama|dramas]] do not
 stand the test of reading. His emphatic preciosity and sophistical
 insistence on the "point of honour" are tedious and unconvincing; in _La
 Venganza en el despeño_, in _Á lo que obliga un agravio_, and in other

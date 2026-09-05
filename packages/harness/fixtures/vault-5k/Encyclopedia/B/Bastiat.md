@@ -7,9 +7,9 @@ Educated at the colleges of Saint-Sever and of Soreze, he entered in
 of mercantile life being distasteful to him, in 1825 he retired to a
 property at Mugron, of which he became the owner on the death of his
 grandfather. Here Bastiat occupied himself with farming, his leisure
-being devoted to study and meditation. He welcomed with enthusiasm the
-Revolution of 1830. In 1831 he became a _juge de paix_ of his canton,
-and in 1832 a member of the _conseil general_ of the Landes. In 1834 he
+being devoted to study and meditation. He welcomed with [[Enthusiasm|enthusiasm]] the
+Revolution of 1830. In 1831 he became a _[[Juge|juge]] de paix_ of his canton,
+and in 1832 a member of the _conseil general_ of the [[Landes]]. In 1834 he
 published his first pamphlet, and between 1841 and 1844 three others,
 all on questions of taxation affecting local interests. During this
 period an accidental circumstance led him to become a subscriber to an
@@ -64,7 +64,7 @@ protection, and exposing the delusions on which it rested. Thus within
 the space of two years there appeared _Propriete et Loi, Justice et
 Fraternite, Propriete et Spoliation, L'Etat, Baccalaureat et Socialisme,
 Protectionisme et Communisme, Capital et Rente, Maudit Argent,
-Spoliation et Loi, Gratuite du Credit_, and _Ce qu'on voit et ce qu'on
+Spoliation et Loi, Gratuite du [[Credit]]_, and _Ce qu'on voit et ce qu'on
 ne voit pas_. While thus occupied he was meditating the composition of a
 great constructive work, meant to renovate economical science by basing
 it on the principle that "interests, left to themselves, tend to
@@ -108,7 +108,7 @@ prove antagonistic and anti-social, capital robbing labour, manufactures
 ruining agriculture, the foreigner injuring the native, the consumer the
 producer, &c.; and the chief weakness of the various schools of
 political economy, he believed, he had discovered in their imperfect
-apprehension of the truth that human interests, when left to themselves,
+[[Apprehension|apprehension]] of the truth that human interests, when left to themselves,
 when not arbitrarily and forcibly interfered with, tend to harmonious
 combination, to the general good.
 

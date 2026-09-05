@@ -5,7 +5,7 @@ some payment, share or other benefit; more specifically, one of a
 series of interest certificates or dividend warrants attached to a bond
 running for a number of years. The word coupon (a piece cut off)
 possesses an etymological meaning so comprehensive that, while on the
-Stock Exchange it is only used to denote such an interest certificate or
+Stock [[Exchange]] it is only used to denote such an interest certificate or
 a certificate of stock of a joint-stock company, it may be as suitably,
 and elsewhere is perhaps more frequently, applied to tickets sold by
 tourist agencies and others. The coupons by means of which the interest

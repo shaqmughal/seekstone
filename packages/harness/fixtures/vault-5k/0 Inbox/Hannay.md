@@ -25,10 +25,10 @@ shows loving appreciation of the great satirists of the past, but is
 itself instinct with wit and fine satiric power. The book sparkles with
 epigrams and apposite classical allusions, and contains admirable
 critical estimates of Horace (Hannay's favourite author), Juvenal,
-Erasmus, Sir David Lindsay, George Buchanan, Boileau, Butler, Dryden,
-Swift, Pope, Churchill, Burns, Byron and Moore.
+Erasmus, Sir David Lindsay, George [[Buchanan]], Boileau, Butler, [[Dryden]],
+Swift, Pope, Churchill, [[Burns]], [[Byron]] and Moore.
 
-  Among his other works are _Biscuits and Grog, Claret Cup_, and _Hearts
+  Among his other works are _[[Biscuit|Biscuits]] and Grog, Claret Cup_, and _Hearts
   are Trumps_ (1848); _King Dobbs_ (1849); _Sketches in Ultramarine_
   (1853); an edition of the _Poems_ of Edgar Allan Poe, to which he
   prefixed an essay on the poet's life and genius (1852); _Characters

@@ -1,7 +1,7 @@
 # Lake Geneva
 
 LAKE GENEVA, a city of Walworth county, Wisconsin, U.S.A., 65 m. N.W. of
-Chicago. Pop. (1900) 2585, of whom 468 were foreign-born; (1905) 3449;
+[[Chicago]]. Pop. (1900) 2585, of whom 468 were foreign-born; (1905) 3449;
 (1910) 3079. It is served by the Chicago & Northwestern railway. The
 city is picturesquely situated on the shores of Lake Geneva (9 m. long
 and 1½ to 3 m. wide), a beautiful body of remarkably clear water, fed by

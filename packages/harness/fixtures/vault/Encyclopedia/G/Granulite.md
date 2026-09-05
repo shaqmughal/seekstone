@@ -9,16 +9,16 @@ application has not been accepted generally. To the German petrologists
 "granulite" means a more or less banded fine-grained metamorphic rock,
 consisting mainly of quartz and felspar in very small irregular
 crystals, and containing usually also a fair number of minute rounded
-pale-red garnets. Among English and American geologists the term is
+pale-red [[Garnet|garnets]]. Among English and American geologists the term is
 generally employed in this sense. The granulites are very closely allied
-to the gneisses, as they consist of nearly the same minerals, but they
+to the [[Gneiss|gneisses]], as they consist of nearly the same minerals, but they
 are finer grained, have usually less perfect foliation, are more
 frequently garnetiferous, and have some special features of microscopic
 structure. In the rocks of this group the minerals, as seen in a
 microscopic slide, occur as small rounded grains forming a mosaic
 closely fitted together. The individual crystals have never perfect
 form, and indeed rarely any traces of it. In some granulites they
-interlock, with irregular borders; in others they have been drawn out
+interlock, with irregular [[Borders|borders]]; in others they have been drawn out
 and flattened into tapering lenticles by crushing. In most cases they
 are somewhat rounded with smaller grains between the larger. This is
 especially true of the quartz and felspar which are the predominant
@@ -34,9 +34,9 @@ They usually are filled with enclosed grains of the other minerals.
 
 The felspar of the granulites is mostly orthoclase or cryptoperthite;
 microcline, oligoclase and albite are also common. Basic felspars occur
-only rarely. Among accessory minerals, in addition to apatite, zircon,
-and iron oxides, the following may be mentioned: hornblende (not
-common), riebeckite (rare), epidote and zoisite, calcite, sphene,
+only rarely. Among accessory minerals, in addition to [[Apatite|apatite]], zircon,
+and iron oxides, the following may be mentioned: [[Hornblende|hornblende]] (not
+common), riebeckite (rare), [[Epidote|epidote]] and zoisite, [[Calcite|calcite]], sphene,
 andalusite, sillimanite, kyanite, hercynite (a green spinel), rutile,
 orthite and tourmaline. Though occasionally we may find larger grains of
 felspar, quartz or epidote, it is more characteristic of these rocks
@@ -49,14 +49,14 @@ arisen regarding it, the granulite district of Saxony (around Rosswein,
 Penig, &c.) may be considered the typical region for rocks of this
 group. It should be remembered that though granulites are probably the
 commonest rocks of this country, they are mingled with granites,
-gneisses, gabbros, amphibolites, mica schists and many other
+gneisses, [[Gabbro|gabbros]], amphibolites, mica schists and many other
 petrographical types. All of these rocks show more or less metamorphism
 either of a thermal character or due to pressure and crushing. The
 granites pass into gneiss and granulite; the gabbros into flaser gabbro
 and amphibolite; the slates often contain andalusite or chiastolite, and
 show transitions to mica schists. At one time these rocks were regarded
 as Archean gneisses of a special type. Johannes Georg Lehmann propounded
-the hypothesis that their present state was due principally to crushing
+the [[Hypothesis|hypothesis]] that their present state was due principally to crushing
 acting on them in a solid condition, grinding them down and breaking up
 their minerals, while the pressure to which they were subjected welded
 them together into coherent rock. It is now believed, however, that they
@@ -84,10 +84,10 @@ India, Scotland and other countries there occur dark-coloured basic
 granulites ("trap granulites"). These are fine-grained rocks, not
 usually banded, nearly black in colour with small red spots of garnet.
 Their essential minerals are pyroxene, plagioclase and garnet:
-chemically they resemble the gabbros. Green augite and hypersthene form
+chemically they resemble the gabbros. Green augite and [[Hypersthene|hypersthene]] form
 a considerable part of these rocks, they may contain also biotite,
 hornblende and quartz. Around the garnets there is often a radial
-grouping of small grains of pyroxene and hornblende in a clear matrix of
+grouping of small grains of pyroxene and hornblende in a clear [[Matrix|matrix]] of
 felspar: these "centric" structures are frequent in granulites. The
 rocks of this group accompany gabbro and serpentine, but the exact
 conditions under which they are formed and the significance of their

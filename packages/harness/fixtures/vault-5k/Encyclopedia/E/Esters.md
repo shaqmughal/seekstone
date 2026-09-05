@@ -7,7 +7,7 @@ type: source
 
 # Esters
 
-ESTERS, in organic chemistry, compounds formed by the condensation of an
+ESTERS, in organic [[Chemistry|chemistry]], [[Compound|compounds]] formed by the condensation of an
 alcohol and an acid, with elimination of water; they may also be
 considered as derivatives of alcohols, in which the hydroxylic hydrogen
 has been replaced by an acid radical, or as acids in which the hydrogen
@@ -59,7 +59,7 @@ is obtained.
   the molecule of the acid became more complex, the rate of
   esterification became less. The formation of an ester by the
   interaction of an acid with an alcohol is a "reversible" or "balanced"
-  action, for as M. Berthelot and L. Pean de St Gilles (_Ann. Chim.
+  action, for as M. Berthelot and L. Pean de St [[Gill|Gilles]] (_Ann. Chim.
   Phys._, 1862 (3), 65, p. 385 et seq.) have shown in the case of the
   formation of ethyl acetate from ethyl alcohol and acetic acid, a point
   of equilibrium is reached, beyond which the reacting system cannot
@@ -90,7 +90,7 @@ is obtained.
   salts with bases. _Ethyl hydrogen sulphate_ (sulphovinic acid),
   C2H5.HSO4, is obtained by the action of concentrated sulphuric acid on
   alcohol. The ester is separated from the solution by means of its
-  barium salt, and the salt decomposed by the addition of the calculated
+  [[Barium|barium]] salt, and the salt decomposed by the addition of the calculated
   amount of sulphuric acid. It is a colourless oily liquid of strongly
   acid reaction; its aqueous solution decomposes on standing and on
   heating it forms diethyl sulphate and sulphuric acid. _Dimethyl
@@ -104,7 +104,7 @@ is obtained.
   urea being added to the nitric acid, in order to destroy any nitrous
   acid that might be produced in secondary reactions and which, if not
   removed, would cause explosive decomposition of the ethyl nitrate). It
-  burns with a white flame and is soluble in water. When heated with
+  [[Burns|burns]] with a white flame and is soluble in water. When heated with
   ammonia it yields ethylamine nitrate, and when reduced with tin and
   hydrochloric acid it forms hydroxylamine (q.v.) (W.C. Lossen). _Ethyl
   nitrite_, C2H5.ONO, is a liquid which boils at 18 deg. C.; the crude
@@ -118,17 +118,17 @@ is obtained.
 
 
 ESTHER. The _Book of Esther_, in the Bible, relates how a Jewish maiden,
-Esther, cousin and foster-daughter of Mordecai, was made his queen by
+Esther, [[Cousin|cousin]] and foster-daughter of Mordecai, was made his queen by
 the Persian king Ahasuerus (Xerxes) after he had divorced Vashti; next,
 how Esther and Mordecai frustrated Haman's endeavour to extirpate the
 Jews; how Haman, the grand-vizier, fell, and Mordecai succeeded him; how
 Esther obtained the king's permission for the Jews to destroy all who
-might attack them on the day which Haman had appointed by lot for their
+might attack them on the day which Haman had appointed by [[Lot|lot]] for their
 destruction; and lastly, how the feast of Purim (Lots?) was instituted
 to commemorate their deliverance. Frequent incidental references are
 made to Persian court-usages (explanations are given in i. 13, viii. 8),
 while on the other hand the religious rites of the Jews (except
-fasting), and even Jerusalem and the temple, and the name of Israel,
+[[Fasting|fasting]]), and even Jerusalem and the temple, and the name of Israel,
 are studiously ignored. Even the name of God is not once mentioned,
 perhaps from a dread of its profanation during the Saturnalia of Purim.
 The early popularity of the book is shown by the interpolated passages
@@ -147,7 +147,7 @@ has been taken from the house of her uncle, who is known to be a Jew
 (ii. 11, 19, 20, 22; cf. iv. 4-17). We are further told that the
 grand-vizier was an Agagite or Amalekite (iii. 1, &c.); would the
 nobility of Persia have tolerated this? Or did Haman too keep his
-non-Persian origin secret? Also that Mordecai offered a gross affront to
+non-Persian origin secret? Also that Mordecai offered a [[Gross|gross]] affront to
 Haman, for which no slighter punishment would satisfy Haman than the
 destruction of the whole Jewish race (iii. 2-6). Of this savage design
 eleven months' notice is given (iii. 12-14); and when the danger has
@@ -157,7 +157,7 @@ fellow-subjects (ix. 6-16).
 
 It is urged, on the other hand, that the assembly mentioned in i. 3 may
 be that referred to by Herodotus (vii. 8) as having preceded the
-expedition against Greece. This hypothesis, however, requires us to
+expedition against Greece. This [[Hypothesis|hypothesis]], however, requires us to
 suppose that Xerxes had returned from Sardis to Susa by the tenth month
 of the seventh year of his reign, which is barely credible. In the
 reckoning of 127 provinces (cf. Dan. vi. 1; 1 Esd. iii. 2) satrapies and
@@ -166,7 +166,7 @@ India among the provinces; this is justified, not only by Herodotus
 (iii. 94), but by the inscriptions of Darius at Persepolis and
 Naksh-i-Rustam. Herodotus again (vii. 8) confirms the custom referred to
 in Esth. ii. 12. But what authority can make the conduct of Mordecai
-credible? To-day the harem is impenetrable, while "any one declining to
+credible? To-day the [[Harem|harem]] is impenetrable, while "any one declining to
 stand as the grand-vizier passes is almost beaten to death."[2] This,
 surely, is what a real Mordecai would have suffered from a real Haman.
 Even the capricious Xerxes would never have permitted the entire
@@ -177,7 +177,7 @@ Serious difficulties of another kind remain. Mordecai is represented as
 a fellow-captive of Jeconiah (597 B.C.), and grand-vizier in Xerxes's
 twelfth year (474 B.C.)! This is parallel to the strange statement in
 Tobit xiv. 15. And how can we find room for Esther as queen by the side
-of Amestris (Herod. vii. 14, ix. 112)? How, too, can a Jewess have been
+of Amestris ([[Herod]]. vii. 14, ix. 112)? How, too, can a Jewess have been
 a legal queen (see Herod. iii. 84)? Then take the supposed Persian
 proper names. "Ahasuerus" may no doubt stand, but very few of the rest
 (see Noldeke, _Ency. Bib._ col. 1402). As to the style, the general
@@ -205,7 +205,7 @@ Hebrew text.
 As to the first point. The Second Targum (on Esth. ii. 7) long ago
 declared that Esther was so called "because she was like the planet
 Venus." Recent scholars have expressed the same idea more critically.
-Esther is a modification of Ishtar, the name of the Babylonian goddess
+Esther is a modification of [[Ishtar]], the name of the Babylonian goddess
 of fertility and of the planet Venus, whose myth must have been
 partially known to the Israelites even in pre-exilic times,[3] and after
 the fall of the state must have acquired a still stronger hold on Jewish
@@ -215,7 +215,7 @@ the cities of Samaria are said to have made idols, not of Marduk, but of
 a deity called Succoth-benoth[4] (2 Kings xvii. 30). Nor does the Second
 Targum help us here; it gives a wild explanation of Mordecai as "pure
 myrrh." Still it is plain that the name of the god Marduk (Merodach) was
-known to the Jews, and the Cosmogony in Gen. i. is considered by critics
+known to the Jews, and the [[Cosmogony]] in Gen. i. is considered by critics
 to have ultimately arisen out of the myth of Marduk's conflict with the
 dragon (see COSMOGONY). At any rate the name Mordecai (the vocalization
 is uncertain) looks very much like Marduk, which, with terminations
@@ -226,7 +226,7 @@ Mordecai.[6] The same scholar also accounts for Esther's other name
 Hadassah (Esth. ii. 7); _hadasshatu_ in Babylonian means "bride," which
 may have been a title of Ishtar.
 
-But we cannot stop short here. Unless the mythological key can also
+But we cannot stop short here. Unless the mythological [[Key|key]] can also
 explain Haman and Vashti, it is of no use. Jensen, now followed by
 Zimmern, is equal to the occasion. Haman, he says, is a corruption of
 Hamman or Humman or Uman, the name of the chief deity of the Elamites,
@@ -247,8 +247,8 @@ of Zagmuk, but the summer festival of Ishtar, which is probably the
 Sacaea of Berossus, an orgiastic festival analogous to Purim. (2)
 According to Jensen's theory, Mordecai, and not Esther, ought to be the
 direct cause of Haman's ruin. (3) No such Babylonian account as Jensen
-postulates can be indicated. (4) The identifications of names are
-hazardous. Fancy a descendant of Kish called Marduk, and an "Agagite"
+postulates can be indicated. (4) The [[Identification|identifications]] of names are
+hazardous. Fancy a descendant of [[Kish]] called Marduk, and an "Agagite"
 called Hamman! Elsewhere Mordecai (Ezra ii. 2; Neh. vii. 7) occurs among
 names which are certainly not Persian (Bigvai is no exception), and
 Haman (Tobit xiv. 10) appears as a nephew of Achiachar, which is not a
@@ -272,15 +272,15 @@ certain points in the contents seem to him to show that our Esther is a
 work of the age of the Seleucidae; more precisely he thinks of the time
 of the revolt of Molon under Antiochus III. Of course there was a Book
 of Esther before this, and even in its redacted form our Esther reflects
-the period of three Persian kings, viz. Cyrus, Cambyses and Darius.
-Lastly, Cheyne (_Ency. Bib._ "Purim," S 7), while agreeing with Winckler
+the period of three Persian kings, viz. [[Cyrus]], [[Cambyses]] and Darius.
+Lastly, [[Cheyne]] (_Ency. Bib._ "Purim," S 7), while agreeing with Winckler
 that the book is based on an earlier narrative, holds that that earlier
 text differed more widely from the present in its geographical and
 historical setting than Winckler seems to suppose. The problem of the
 origin of the name Purim, however, can hardly be said to have received a
 final solution.
 
-  BIBLIOGRAPHY.--Kuenen, _History of Israel_, iii. (1875), 148-153;
+  BIBLIOGRAPHY.--[[Kuenen]], _History of Israel_, iii. (1875), 148-153;
   Lagarde, _Purim_ (1887); Zimmern in Stade's _Zeitschrift_, xi. (1891),
   pp. 157-169, and _Keilinschriften und das Alte Testament_^(3), 485,
   515-520, Jensen in Wildeboer's _Esther_ (in Marti's series, 1898), pp.
@@ -291,7 +291,7 @@ final solution.
 
 ADDITIONS TO BOOK OF ESTHER. These "additions" were written originally
 in Greek and subsequently interpolated in the Greek translation of the
-Book of Esther. Here the principle of interpolation has reached its
+Book of Esther. Here the principle of [[Interpolation|interpolation]] has reached its
 maximum. Of 270 verses, 107 are not to be found in the Hebrew text.
 These additions are distributed throughout the book in the Greek, but in
 the Latin Bible they were relegated to the end of the canonical book by
@@ -313,7 +313,7 @@ latter is believed to have been the work of Lucian. Swete, _Old Test. in
 Greek_, ii. 755, has given the former, while Lagarde has published both
 texts with critical annotations in his _Librorum Veteris Testamenti
 Canonicorum_, i. 504-541 (1883), and Scholz in his _Kommentar uber das
-Buch Esther_ (1892).
+[[Buch]] Esther_ (1892).
 
   For an account of the Latin and Syriac versions, the Targums, and the
   later Rabbinic literature connected with this subject, and other
@@ -323,7 +323,7 @@ Buch Esther_ (1892).
   u. Pseud._ i. 193-212; Siegfried in _Jewish Encyc._ v. 237 sqq.;
   Swete, _Introd. to the Old Test. in Greek_, 257 seq.; L.B. Paton, "A
   Text-Critical Apparatus to the Book of Esther" in _O.T. and Semitic
-  Studies in Memory of W.R. Harper_ (Chicago, 1908). (R. H. C.)
+  Studies in Memory of W.R. Harper_ ([[Chicago]], 1908). (R. H. C.)
 
 
 FOOTNOTES:

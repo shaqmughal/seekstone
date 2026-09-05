@@ -34,11 +34,11 @@ It seems to have been St Bernard who, in the 12th century, explicitly
 raised the question of the Immaculate Conception. A feast of the
 Conception of the Blessed Virgin had already begun to be celebrated in
 some churches of the West. St Bernard blames the canons of the
-metropolitan church of Lyons for instituting such a festival without the
+metropolitan church of [[Lyons]] for instituting such a festival without the
 permission of the Holy See. In doing so, he takes occasion to repudiate
 altogether the view that the Conception of Mary was sinless. It is
 doubtful, however, whether he was using the term "Conception" in the
-same sense in which it is used in the definition of Pius IX. In speaking
+same sense in which it is used in the [[Definition|definition]] of Pius IX. In speaking
 of conception one of three things may be meant: (1) the mother's
 co-operation; (2) the formation of the body, or (3) the completion of
 the human being by the infusion of the rational or spiritual soul. In
@@ -57,7 +57,7 @@ Virgin had at one time or other been one of the sinful, she could not
 justly be said to have been redeemed by Christ.[5] St Bonaventura (d.
 1274), second only to St Thomas in his influence on the Christian
 schools of his age, hesitated to accept it for a similar reason.[6] The
-celebrated John Duns Scotus (d. 1308), a Franciscan like St Bonaventura,
+celebrated John [[Duns Scotus]] (d. 1308), a Franciscan like St Bonaventura,
 argued, on the contrary, that from a rational point of view it was
 certainly as little derogatory to the merits of Christ to assert that
 Mary was by him preserved from all taint of sin, as to say that she
@@ -86,7 +86,7 @@ again after 1851, appointed commissions to investigate the whole
 subject, and he was advised that the doctrine was one which could be
 defined and that the time for a definition was opportune. On the 8th of
 December 1854 in a great assembly of bishops, in the basilica of St
-Peter's at Rome, he promulgated the Bull _Ineffabilis Deus_, in which
+Peter's at Rome, he promulgated the [[Bull]] _Ineffabilis Deus_, in which
 the history of the doctrine is summarily traced, and which contains the
 definition as given above.
 
@@ -143,7 +143,7 @@ FOOTNOTES:
 
   [7] _In librum III. sententiarum dist._ 3 quaest. i. n. 4; _Cfr.
     Distinct_. 18 n. 15. Also the _Summa theologia_ of Scotus (compiled
-    by a disciple), part iii., quaest. 27, art. 2.
+    by a [[Disciple|disciple]]), part iii., quaest. 27, art. 2.
 
   [8] Sess. v. _De peccato originale_.
 

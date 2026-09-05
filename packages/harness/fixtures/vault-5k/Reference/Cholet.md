@@ -11,8 +11,8 @@ sub-prefecture, a tribunal of first instance, a chamber of commerce, a
 board of trade-arbitrators, and a communal college. There are granite
 quarries in the vicinity of the town. The chief industry is the
 manufacture of linen and linen handkerchiefs, which is also carried on
-in the neighbouring communes on a large scale. Woollen and cotton
-fabrics are also produced, and bleaching and the manufacture of
+in the neighbouring [[Commune|communes]] on a large scale. Woollen and cotton
+fabrics are also produced, and [[Bleaching|bleaching]] and the manufacture of
 preserved foods are carried on. Cholet is the most important centre in
 France for the sale of fat cattle, sheep and pigs, for which Paris is
 the chief market. Megalithic monuments are numerous in the

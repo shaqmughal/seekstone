@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Haydon"
 
 # Haydon
 
-HAYDON, BENJAMIN ROBERT (1786-1846), English historical painter and
+HAYDON, [[Benjamin|BENJAMIN]] ROBERT (1786-1846), English historical painter and
 writer, was born at Plymouth on the 26th of January 1786. His mother was
 the daughter of the Rev. Benjamin Cobley, rector of Dodbrook, Devon,
 whose son, General Sir Thomas Cobley, signalized himself in the Russian
@@ -17,9 +17,9 @@ and esteemed amongst all classes in Plymouth. Haydon, an only son, at an
 early date gave evidence of his taste for study, which was carefully
 fostered and promoted by his mother. At the age of six he was placed in
 Plymouth grammar school, and at twelve in Plympton St Mary school. He
-completed his education in this institution, where Sir Joshua Reynolds
+completed his education in this institution, where Sir [[Joshua]] Reynolds
 also had acquired all the scholastic training he ever received. On the
-ceiling of the school-room was a sketch by Reynolds in burnt cork, which
+[[Ceiling|ceiling]] of the school-room was a sketch by Reynolds in burnt cork, which
 it used to be Haydon's delight to sit and contemplate. Whilst at school
 he had some thought of adopting the medical profession, but he was so
 shocked at the sight of an operation that he gave up the idea. A perusal
@@ -30,36 +30,36 @@ painting, which from childhood had been the absorbing idea of his mind.
 Sanguine of success, full of energy and vigour, he started from the
 parental roof, on the 14th of May 1804, for London, and entered his name
 as a student of the Royal Academy. He began and prosecuted his studies
-with such unwearied ardour that Fuseli wondered when he ever found time
+with such unwearied ardour that [[Fuseli]] wondered when he ever found time
 to eat. At the age of twenty-one (1807) Haydon exhibited, for the first
 time, at the Royal Academy, "The Repose in Egypt," which was bought by
 Mr Thomas Hope the year after. This was a good start for the young
 artist, who shortly received a commission from Lord Mulgrave and an
 introduction to Sir George Beaumont. In 1809 he finished his well-known
-picture of "Dentatus," which, though it brought him a great increase of
+picture of "[[Dentatus]]," which, though it brought him a great increase of
 fame, involved him in a lifelong quarrel with the Royal Academy, whose
 committee had hung the picture in a small side-room instead of the great
 hall. In 1810 his difficulties began through the stoppage of an
 allowance of L200 a year he had received from his father. His
 disappointment was embittered by the controversies in which he now
 became involved with Sir George Beaumont, for whom he had painted his
-picture of "Macbeth," and Payne Knight, who had denied the beauties as
-well as the money value of the Elgin Marbles. "The Judgment of Solomon,"
+picture of "Macbeth," and Payne [[Knight]], who had denied the beauties as
+well as the money value of the [[Elgin]] [[Marbles]]. "The Judgment of Solomon,"
 his next production, gained him L700, besides L100 voted to him by the
 directors of the British Institution, and the freedom of the borough of
-Plymouth. To recruit his health and escape for a time from the cares of
+Plymouth. To recruit his health and escape for a time from the [[Car|cares]] of
 London life, Haydon joined his intimate friend Wilkie in a trip to
 Paris; he studied at the Louvre; and on his return to England produced
 his "Christ's Entry into Jerusalem," which afterwards formed the nucleus
-of the American Gallery of Painting, erected by his cousin, John
+of the American Gallery of Painting, erected by his [[Cousin|cousin]], John
 Haviland of Philadelphia. Whilst painting another large work, the
-"Resurrection of Lazarus," his pecuniary difficulties increased, and for
+"Resurrection of [[Lazarus]]," his pecuniary difficulties increased, and for
 the first time he was arrested but not imprisoned, the sheriff-officer
 taking his word for his appearance. Amidst all these harassing cares he
 married in October 1821 a beautiful young widow who had some children,
 Mrs Hyman, to whom he was devotedly attached.
 
-In 1823 Haydon was lodged in the King's Bench, where he received
+In 1823 Haydon was lodged in the King's [[Bench]], where he received
 consoling letters from the first men of the day. Whilst a prisoner he
 drew up a petition to parliament in favour of the appointment of "a
 committee to inquire into the state of encouragement of historical
@@ -72,31 +72,31 @@ Haydon's other pictures were--1829, "Eucles" and "Punch"; 1831,
 with the 'Ten Thousand,' first seeing the Sea"; and "Waiting for the
 _Times_," purchased by the marquis of Stafford; 1832, "Falstaff" and
 "Achilles playing the Lyre." In 1834 he completed the "Reform Banquet,"
-for Lord Grey--this painting contained 197 portraits; in 1843, "Curtius
+for Lord Grey--this painting contained 197 portraits; in 1843, "[[Curtius]]
 Leaping into the Gulf," and "Uriel and Satan." There was also the
 "Meeting of the Anti-Slavery Society," energetically treated, now in the
 National Portrait Gallery. When the competition took place at
-Westminster Hall, Haydon sent two cartoons, "The Curse of Adam" and
+Westminster Hall, Haydon sent two [[Cartoon|cartoons]], "The Curse of Adam" and
 "Edward the Black Prince," but, with some unfairness, he was not allowed
-a prize for either. He then painted "The Banishment of Aristides," which
+a prize for either. He then painted "The Banishment of [[Aristides]]," which
 was exhibited with other productions under the same roof where the
 American dwarf Tom Thumb was then making his debut in London. The
 exhibition was unsuccessful; and the artist's difficulties increased to
 such an extent that, whilst employed on his last grand effort, "Alfred
-and the Trial by Jury," overcome by debt, disappointment and
+and the Trial by [[Jury]]," overcome by [[Debt|debt]], disappointment and
 ingratitude, he wrote "Stretch me no longer on this rough world," and
 put an end to his existence with a pistol-shot, on the 22nd of June
 1846, in the sixty-first year of his age. He left a widow and three
 children (various others had died), who, by the generosity of their
 father's friends, were rescued from their pecuniary difficulties and
 comfortably provided for; amongst the foremost of these friends were Sir
-Robert Peel, Count D'Orsay, Mr Justice Talfourd and Lord Carlisle.
+Robert Peel, Count [[D'Orsay]], Mr Justice Talfourd and Lord Carlisle.
 
 Haydon began his first lecture on painting and design in 1835, and
 afterwards visited all the principal towns in England and Scotland. His
 delivery was energetic and imposing, his language powerful, flowing and
-apt, and replete with wit and humour; and to look at the lecturer,
-excited by his subject, one could scarcely fancy him a man overwhelmed
+apt, and replete with wit and [[Humour|humour]]; and to look at the lecturer,
+excited by his subject, one could scarcely [[Fancy|fancy]] him a man overwhelmed
 with difficulties and anxieties. The height of Haydon's ambition was to
 behold the chief buildings of his country adorned with historical
 representations of her glory. He lived to see the acknowledgment of his
@@ -117,7 +117,7 @@ of various and abundant power, and fascinating to the reader. The author
 seems to have daguerreotyped his feelings and sentiments without
 restraint as they rose in his mind, and his portrait stands in these
 volumes limned to the life by his own hand. His love for his art was
-both a passion and a principle. He found patrons difficult to manage;
+both a passion and a principle. He found patrons difficult to [[Manage|manage]];
 and, not having the tact to lead them gently, he tried to drive them
 fiercely. He failed, abused patrons and patronage, and intermingled talk
 of the noblest independence with acts not always dignified. He was
@@ -127,8 +127,8 @@ genuine self-reliance he combined a considerable measure of vanity. To
 the last he believed in his own powers and in the ultimate triumph of
 art. In taste he was deficient, at least as concerned himself. Hence the
 tone of self-assertion which he assumed in his advertisements,
-catalogues and other appeals to the public. He proclaimed himself the
-apostle and martyr of high art, and, not without some justice, he
+[[Catalogue|catalogues]] and other appeals to the public. He proclaimed himself the
+[[Apostle|apostle]] and martyr of high art, and, not without some justice, he
 believed himself to have on that account a claim on the sympathy and
 support of the nation. It must be confessed that he often tested
 severely those whom he called his friends. Every reader of his

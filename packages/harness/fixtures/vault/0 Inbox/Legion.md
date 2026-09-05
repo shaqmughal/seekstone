@@ -1,17 +1,17 @@
 # Legion
 
-LEGION (Lat. _legio_), in early Rome, the levy of citizens marching out
+LEGION (Lat. _legio_), in early Rome, the [[Levy|levy]] of citizens marching out
 _en masse_ to war, like the citizen-army of any other primitive state.
 As Rome came to need more than one army at once and warfare grew more
 complex, _legio_ came to denote a unit of 4000-6000 heavy infantry
 (including, however, at first some light infantry and at various times a
-handful of cavalry) who were by political status Roman citizens and were
+handful of [[Cavalry|cavalry]]) who were by political status Roman citizens and were
 distinct from the "allies," _auxilia_, and other troops of the second
 class. The legionaries were regarded as the best and most characteristic
 Roman soldiers, the most trustworthy and truly Roman; they enjoyed
 better pay and conditions of service than the "auxiliaries." In A.D. 14
 (death of Augustus) there were 25 such legions: later, the number was
-slightly increased; finally about A.D. 290 Diocletian reduced the size
+slightly increased; finally about A.D. 290 [[Diocletian]] reduced the size
 and greatly increased the number of the legions. Throughout, the
 dominant features of the legions were heavy infantry and Roman
 citizenship. They lost their importance when the Barbarian invasions
@@ -19,7 +19,7 @@ altered the character of ancient warfare and made cavalry a more
 important arm than infantry, in the late 3rd and 4th centuries A.D. In
 the middle ages the word "legion" seems not to have been used as a
 technical term. In modern times it has been employed for organizations
-of an unusual or exceptional character, such as a corps of foreign
+of an unusual or exceptional character, such as a [[Corps|corps]] of foreign
 volunteers or mercenaries. See further ROMAN ARMY.     (F. J. H.)
 
   The term legion has been used to designate regiments or corps of all
@@ -40,7 +40,7 @@ volunteers or mercenaries. See further ROMAN ARMY.     (F. J. H.)
 
   The most famous of the corps that have borne the name of legion in
   modern times was the King's German Legion (see Beamish's history of
-  the corps). The electorate of Hanover being in 1805 threatened by the
+  the corps). The electorate of [[Hanover]] being in 1805 threatened by the
   French, and no effective resistance being considered possible, the
   British government wished to take the greater part of the Hanoverian
   army into its service. But the acceptance by the Hanoverian government
@@ -49,21 +49,21 @@ volunteers or mercenaries. See further ROMAN ARMY.     (F. J. H.)
   disbanded that the formation of the "King's German Regiment," as it
   was at first called, was begun in England. This enlisted not only
   ex-Hanoverian soldiers, but other Germans as well, as individuals.
-  Lieut.-Colonel von der Decken and Major Colin Halkett were the
+  Lieut.-Colonel von der Decken and [[Major]] Colin Halkett were the
   officers entrusted with the formation of the new corps, which in
   January 1805 had become a corps of all arms with the title of King's
-  German Legion. It then consisted of a dragoon and a hussar regiment,
-  five batteries, two light and four line battalions and an engineer
+  German Legion. It then consisted of a [[Dragoon|dragoon]] and a hussar regiment,
+  five batteries, two light and four line [[Battalion|battalions]] and an engineer
   section, all these being afterwards increased. Its services included
   the abortive German expedition of November 1805, the expedition to
-  Copenhagen in 1807, the minor sieges and combats in Sicily 1808-14,
+  [[Copenhagen]] in 1807, the minor sieges and combats in Sicily 1808-14,
   the Walcheren expedition of 1809, the expedition to Sweden under Sir
   John Moore in 1808, and the campaign of 1813 in north Germany. But its
   title to fame is its part in the Peninsular War, in which from first
   to last it was an acknowledged _corps d'élite_--its cavalry
   especially, whose services both on reconnaissance and in battle were
   of the highest value. The exploit of the two dragoon regiments of the
-  Legion at Garcia Hernandez after the battle of Salamanca, where they
+  Legion at [[Garcia]] Hernandez after the battle of Salamanca, where they
   charged and broke up two French infantry squares and captured some
   1400 prisoners, is one of the most notable incidents in the history of
   the cavalry arm (see Sir E. Wood's _Achievements of Cavalry)_. A
@@ -82,7 +82,7 @@ volunteers or mercenaries. See further ROMAN ARMY.     (F. J. H.)
   "King's German Legion" was raised by the British government for
   service in the Crimean War. Certain Hanoverian regiments of the German
   army to-day represent the units of the Legion and carry Peninsular
-  battle-honours on their standards and colours.
+  battle-honours on their standards and [[Colours|colours]].
 
 ## See also
 

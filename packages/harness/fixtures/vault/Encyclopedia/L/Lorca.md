@@ -21,7 +21,7 @@ manufactures of woollen stuffs, leather, gunpowder, chemicals and
 porcelain. Silver, sulphur and lead are found in the neighbourhood.
 
 Lorca is the Roman _Eliocroca_ (perhaps also the _Ilorci_ of Pliny,
-_N.H._ iii. 3) and the Moorish _Lurka_. It was the key of Murcia during
+_N.H._ iii. 3) and the Moorish _Lurka_. It was the [[Key|key]] of Murcia during
 the Moorish wars, and was frequently taken and retaken. On the 30th of
 April 1802 it suffered severely by the bursting of the reservoir known
 as the Pantano de Puentes, in which the waters of the Sangonera were

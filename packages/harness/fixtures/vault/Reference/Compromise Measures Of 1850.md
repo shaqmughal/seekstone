@@ -7,10 +7,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Compromise
 
 # Compromise Measures Of 1850
 
-COMPROMISE MEASURES OF 1850, in American history, a series of measures
+[[Compromise|COMPROMISE]] MEASURES OF 1850, in American history, a series of measures
 the object of which was the settlement of five questions in dispute
-between the pro-slavery and anti-slavery factions in the United States.
-Three of these questions grew out of the annexation of Texas and the
+between the pro-slavery and anti-slavery [[Faction|factions]] in the United States.
+Three of these questions grew out of the [[Annexation|annexation]] of Texas and the
 acquisition of western territory as a result of the Mexican War. The
 settlers who had flocked to California after the discovery of gold in
 1848 adopted an anti-slavery state constitution on the 13th of October
@@ -29,7 +29,7 @@ Underlying all of these issues was of course the great moral and
 political problem as to whether slavery was to be confined to the
 south-eastern section of the country or be permitted to spread to the
 Pacific. The two questions not growing out of the Mexican War were in
-regard to the abolition of the slave trade in the District of Columbia,
+regard to the abolition of the slave trade in the District of [[Columbia]],
 and the passage of a new fugitive slave law.
 
 Congress met on the 3rd of December 1849. Neither faction was strong
@@ -39,11 +39,11 @@ Clay presented the famous resolution which constituted the basis of the
 ultimate compromise. His idea was to combine the more conservative
 elements of both sections in favour of a settlement which would concede
 the Southern view on two questions, the Northern view on two, and
-balance the fifth. Daniel Webster supported the plan in his great speech
+[[Balance|balance]] the fifth. [[Daniel]] Webster supported the plan in his great speech
 of the 7th of March, although in doing so he alienated many of his
 former admirers. Opposed to the conservatives were the extremists of the
 North, led by William H. Seward and Salmon P. Chase, and those of the
-South, led by Jefferson Davis. Most of the measures were rejected and
+South, led by [[Jefferson]] Davis. Most of the measures were rejected and
 the whole plan seemed likely to fail, when the situation was changed by
 the death of President Taylor and the accession of Millard Fillmore on
 the 9th of July 1850. The influence of the administration was now thrown

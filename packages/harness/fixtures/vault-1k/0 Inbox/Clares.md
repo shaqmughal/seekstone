@@ -7,7 +7,7 @@ topic: geography
 # Clares
 
 CLARES, POOR, otherwise _Clarisses_, Franciscan nuns, so called from
-their foundress, St Clara (q.v.). She was professed by St Francis in the
+their foundress, St [[Clara]] (q.v.). She was professed by St Francis in the
 Portiuncula in 1212, and two years later she and her first companions
 were established in the convent of St Damian's at Assisi. The nuns
 formed the "Second Order of St Francis," the friars being the "First

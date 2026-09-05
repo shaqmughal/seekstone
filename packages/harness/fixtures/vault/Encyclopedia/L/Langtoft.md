@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Langtoft"
 
 LANGTOFT, PETER (d. c. 1307), English chronicler, took his name from the
 village of Langtoft in Yorkshire, and was a canon of the Augustinian
-priory in Bridlington. His name is also given as Langetoft and
+priory in [[Bridlington]]. His name is also given as Langetoft and
 Langetost. He wrote in French verse a _Chronicle_ dealing with the
 history of England from the earliest times to the death of Edward I. in
 1307. It consists of three parts and contains about 9000 rhyming verses.

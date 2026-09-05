@@ -9,7 +9,7 @@ portions of territory these become "exclaves.") "Enclave" is, however,
 generally used in a looser sense to describe a colony or other territory
 of a state, which, while possessing a seaboard, is entirely surrounded
 landward by the possession of some other power; or, if inland territory,
-nearly though not entirely so enclosed, e.g. the Lado Enclave in
+nearly though not entirely so enclosed, e.g. the [[Lado Enclave]] in
 equatorial Africa.
 
 ## References

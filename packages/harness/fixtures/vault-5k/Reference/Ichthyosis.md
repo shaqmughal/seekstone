@@ -9,7 +9,7 @@ probably congenital. It differs in intensity and in distribution, and is
 generally little amenable to any but palliative remedies, such as the
 regular application of oily substances. Ichthyosis lingualis ("smokers'
 tongue"), a variety common in heavy smokers, occurs in opaque white
-patches on the tongue, gums and roof of the mouth. Cancer occasionally
+patches on the tongue, [[Gum|gums]] and roof of the mouth. [[Cancer]] occasionally
 starts from the patches. The affection is obstinate, but may disappear
 spontaneously.
 
@@ -28,7 +28,7 @@ inhabiting East Anglia before the Roman conquest. But the name does not
 occur in early documents so far east, and it has certainly nothing to do
 with that of the Iceni (Haverfield, _Victoria History of Norfolk_, i.
 286). See further ERMINE STREET. (2) A Roman road which ran through
-Derby, Lichfield, Birmingham and Alcester is sometimes called Icknield
+[[Derby]], Lichfield, [[Birmingham]] and Alcester is sometimes called Icknield
 Street and sometimes Rycknield Street. The origin of this nomenclature
 is very obscure (_Vict. Hist. of Warwick_, i. 239).     (F. J. H.)
 

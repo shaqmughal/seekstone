@@ -3,7 +3,7 @@
 FELIBIEN, ANDRE (1610-1695), sieur des Avaux et de Javercy, French
 architect and historiographer, was born at Chartres in May 1619. At the
 age of fourteen he went to Paris to continue his studies; and in 1647 he
-was sent to Rome in the capacity of secretary of embassy to the Marquis
+was sent to Rome in the capacity of secretary of [[Embassy|embassy]] to the Marquis
 de Marueil. His residence at Rome he turned to good account by diligent
 study of its ancient monuments, by examination of the literary treasures
 of its libraries, and by cultivating the acquaintance of men eminent in
@@ -11,13 +11,13 @@ literature and in art, with whom he was brought into contact through his
 translation of Cardinal Barberini's _Life of Pius V_. Among his friends
 was Nicholas Poussin, whose counsels were of great value to him. On his
 return to France he married, and was ultimately induced, in the hope of
-employment and honours, to settle in Paris. Both Fouquet and Colbert in
+employment and honours, to settle in Paris. Both Fouquet and [[Colbert]] in
 their turn recognized his abilities; and he was one of the first members
 (1663) of the Academy of Inscriptions. Three years later Colbert procured
 him the appointment of historiographer to the king. In 1671 he was named
 secretary to the newly-founded Academy of Architecture, and in 1673
-keeper of the cabinet of antiques in the palace of Brion. To these
-offices was afterwards added by Louvois that of deputy controller-general
+keeper of the [[Cabinet|cabinet]] of antiques in the palace of Brion. To these
+offices was afterwards added by [[Louvois]] that of [[Deputy|deputy]] controller-general
 of roads and bridges. Felibien found time in the midst of his official
 duties for study and research, and produced many literary works. Among
 these the best and the most generally known is the _Entretiens sur les

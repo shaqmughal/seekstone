@@ -16,7 +16,7 @@ after capture. As a substantive, "escape," in law, is the regaining of
 liberty by one in custody contrary to due process of law. Such escape
 may be by force, if out of prison it is generally known as
 "prison-breach" or "prison-breaking," or by the voluntary or negligent
-act of the custodian. Where the escape is caused by the force or fraud
+act of the custodian. Where the escape is caused by the force or [[Fraud|fraud]]
 of others it is termed "rescue" (q.v.). "Escape" is used in botany of a
 cultivated plant found growing wild. The word is also used of a means of
 escape, e.g. "fire-escape," and of a loss or leakage of gas, current of

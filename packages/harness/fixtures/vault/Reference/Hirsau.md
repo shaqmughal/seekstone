@@ -17,7 +17,7 @@ hall are still in good preservation, testify to the pristine grandeur of
 the establishment. It was founded about 830 by Count Erlafried of Calw,
 at the instigation of his son, Bishop Notting of Vercelli, who enriched
 it with, among other treasures, the body of St Aurelius. Its first
-occupants (838) were a colony of fifteen monks from Fulda, disciples of
+occupants (838) were a colony of fifteen monks from [[Fulda]], [[Disciple|disciples]] of
 Hrabanus Maurus and Walafrid Strabo, headed by the abbot Liudebert.
 During about a century and a half, under the fostering care of the
 counts of Calw, it enjoyed great prosperity, and became an important
@@ -41,20 +41,20 @@ very perceptibly on the decline; and it never afterwards again rose into
 importance. In consequence of the Reformation it was secularized in
 1558; in 1692 it was laid in ruins by the French. The _Chronicon
 Hirsaugiense_, or, as in the later edition it is called, _Annales
-Hirsaugienses_ of Abbot Trithemius (Basel, 1559; St Gall, 1690), is,
+Hirsaugienses_ of Abbot Trithemius ([[Basel]], 1559; St [[Gall]], 1690), is,
 although containing much that is merely legendary, an important source
 of information, not only on the affairs of this monastery, but also on
 the early history of Germany. The _Codex Hirsaugiensis_ was edited by A.
-F. Gfrorer and printed at Stuttgart in 1843.
+F. [[Gfrorer]] and printed at Stuttgart in 1843.
 
   See Steck, _Das Kloster Hirschau_ (1844); Helmsdorfer, _Forschungen
   zur Geschichte des Abts Wilhelm von Hirschau_ (Gottingen, 1874);
   Weizsacker, _Fuhrer durch die Geschichte des Klosters Hirschau_
   (Stuttgart, 1898); Sussmann, _Forschungen zur Geschichte des Klosters
-  Hirschau_ (Halle, 1903); Giseke, _Die Hirschauer wahrend des
-  Investiturstreits_ (Gotha, 1883); C. H. Klaiber, _Das Kloster
+  Hirschau_ ([[Halle]], 1903); Giseke, _Die Hirschauer wahrend des
+  Investiturstreits_ ([[Gotha]], 1883); C. H. Klaiber, _Das Kloster
   Hirschau_ (Tubingen, 1886); and Baer, _Die Hirsauer Bauschule_
-  (Freiburg, 1897).
+  ([[Freiburg]], 1897).
 
 ## See also
 

@@ -14,10 +14,10 @@ students and has attracted of late years further attention from the
 circumstance that important discoveries regarding his life have been made.
 Until recently nothing whatever was known about the facts of Barnfield's
 career, whose very existence had been doubted. It was, however, discovered
-by the late Dr A. B. Grosart that the poet was the son of Richard Barnfield
+by the late Dr A. B. [[Grosart]] that the poet was the son of Richard Barnfield
 (or Barnefield) and Maria Skrymsher, his wife, who were married in April
 1572. They resided in the parish of Norbury, in Staffordshire, on the
-borders of Salop, where the poet was baptized on the 13th of June 1574. The
+[[Borders|borders]] of Salop, where the poet was baptized on the 13th of June 1574. The
 mother died in giving birth to a daughter early in 1581, and her unmarried
 sister, Elizabeth Skrymsher, seems to have devoted herself to the care of
 the children. In November 1589 Barnfield matriculated at Brasenose College,
@@ -27,40 +27,40 @@ abruptly, without proceeding to the M.A. It is conjectured that he came up
 to London in 1593, and became acquainted with Watson, Drayton, and perhaps
 with Spenser. The death of Sir Philip Sidney had occurred while Barnfield
 was still a school-boy, but it seems to have strongly affected his
-imagination and to have inspired some of his earliest verses. In November
+[[Imagination|imagination]] and to have inspired some of his earliest verses. In November
 1594, in his twenty-first year, Barnfield published anonymously his first
 work, _The Affectionate Shepherd_, dedicated with familiar devotion to
 Penelope, Lady Rich. This was a sort of florid romance, in two books of
-six-line stanza, in the manner of Lodge and Shakespeare, dealing at large
-with "the complaint of Daphnis for the love of Ganymede." As the author
+six-line stanza, in the manner of [[Lodge]] and Shakespeare, dealing at large
+with "the complaint of [[Daphnis]] for the love of Ganymede." As the author
 expressly admitted later, it was an expansion or paraphrase of Virgil's
 second eclogue--
 
- "Formosum pastor Corydon ardebat Alexin."
+ "Formosum pastor [[Corydon]] ardebat Alexin."
 
 This poem of Barnfield's was the most extraordinary specimen hitherto
 produced in England of the licence introduced from Italy at the
 Renaissance. Although the poem was successful, it did not pass without
 censure from the moral point of view. Into the conventional outlines of
-_The Affectionate Shepherd_ the young poet has poured all his fancy, all
+_The Affectionate Shepherd_ the young poet has poured all his [[Fancy|fancy]], all
 his epithets, and all his coloured touches of nature. If we are not
 repelled by the absurd subject, we have to admit that none of the immediate
 imitators of _Venus and Adonis_ has equalled the juvenile Barnfield in the
-picturesqueness of his "fine ruff-footed doves," his "speckled flower
-call'd sops-in-wine," or his desire "by the bright glimmering of the starry
+picturesqueness of his "fine ruff-footed [[Dove|doves]]," his "speckled [[Flower|flower]]
+call'd sops-in-wine," or his desire "by the [[Bright|bright]] glimmering of the starry
 light, to catch the long-bill'd woodcock." Two months later, in January
 1595, Barnfield published his second volume, _Cynthia, with certain
 Sonnets_, and this time signed the preface, which was dedicated, in terms
 which imply close personal relations, to William Stanley, the new earl of
-Derby. This is a book of extreme interest; it exemplifies the earliest
+[[Derby]]. This is a book of extreme interest; it exemplifies the earliest
 study both of Spenser and Shakespeare. "Cynthia" itself, a panegyric on
 Queen Elizabeth, is written in the Spenserian stanza, of which it is
 probably the earliest example extant outside _The Faerie Queene_. This is
 followed by a sequence of twenty sonnets, which have the extraordinary
 interest that, while preceding the publication of Shakespeare's sonnets by
 fourteen years, they are closer to them in manner than are any others of
-the Elizabethan age. They celebrate, with extravagant ardour, the charms of
-a young man whose initials seem to have been J. U. or J. V., and of whom
+the Elizabethan age. They celebrate, with extravagant ardour, the [[Charm|charms]] of
+a young man whose [[Initials|initials]] seem to have been J. U. or J. V., and of whom
 nothing else seems known. These sonnets, which preceded even the _Amoretti_
 of Spenser, are of unusual merit as poetry, and would rank as high in
 quality as in date of publication if their subject-matter were not so
@@ -78,11 +78,11 @@ published his third volume, _The Encomion of Lady Pecunia_, a poem in
 praise of money, followed by a sort of continuation, in the same six-line
 stanza, called "The Complaint of Poetry for the Death of Liberality." In
 this volume there is already a decline in poetic quality. But an appendix
-of "Poems in diverse Humours" to this volume of 1598 presents some very
+of "Poems in diverse [[Humour|Humours]]" to this volume of 1598 presents some very
 interesting features. Here appears what seems to be the absolutely earliest
 praise of Shakespeare in a piece entitled "A Remembrance of some English
 Poets," in which the still unrecognized author of _Venus and Adonis_ is
-celebrated by the side of Spenser, Daniel and Drayton. Here also are the
+celebrated by the side of Spenser, [[Daniel]] and Drayton. Here also are the
 sonnet, "If Music and sweet Poetry agree," and the beautiful ode beginning
 "As it fell upon a day," which were until recently attributed to
 Shakespeare himself. In the next year, 1599, _The Passionate Pilgrim_ was
@@ -104,13 +104,13 @@ several members of that society are mentioned in the course of the volume
 of 1598. In all probability Barnfield now married and withdrew to his
 estate of Dorlestone (or Darlaston), in the county of Stafford, a house
 romantically situated on the river Trent, where he henceforth resided as a
-country gentleman. In 1605 he reprinted his _Lady Pecunia_, and this was
+country [[Gentleman|gentleman]]. In 1605 he reprinted his _Lady Pecunia_, and this was
 his latest appearance as a man of letters. His son Robert Barnfield and his
-cousin Elinor Skrymsher were his executors when his will was proved at
+[[Cousin|cousin]] Elinor Skrymsher were his executors when his will was proved at
 Lichfield; his wife, therefore, doubtless predeceased him. Barnfield died
 at Dorlestone Hall, and was buried in the neighbouring parish church of St
 Michael's, Stone, on the 6th of March 1627. The labours of Dr Grosart and
-of Professor Arber have thrown much light on the circumstances of
+of Professor [[Arber]] have thrown much light on the circumstances of
 Barnfield's career. He has taken of late years a far more prominent place
 than ever before in the history of English literature. This is due partly
 to the remarkable merit of his graceful, melodious and highly-coloured
@@ -130,7 +130,7 @@ readers as being, in his languid "Italianate" way, a sort of ineffectual
 Meleager in the rich Elizabethan anthology.
 
 Besides the editions already cited, _The Affectionate Shepherd_ was edited
-by Mr J. O. Halliwell-Phillipps for the Percy Society (_Early English
+by Mr J. O. [[Halliwell-Phillipps]] for the Percy Society (_Early English
 Poetry_, vol. xx.); _The Encomion of Pecunia_ and some other poems by J.
 Boswell (Roxburghe Club, 1816); and by J. P. Collier in _Illustrations of
 Old English Literature_ (vol. i., 1866).

@@ -1,6 +1,6 @@
 # Chauncey
 
-CHAUNCEY, ISAAC (1772-1840), American naval commander, was born at Black
+CHAUNCEY, [[Isaac|ISAAC]] (1772-1840), American naval commander, was born at Black
 Rock, Connecticut, on the 20th of February 1772. He was brought up in
 the merchant service, and entered the United States navy as a lieutenant
 in 1798. His first services were rendered against the Barbary pirates.
@@ -36,15 +36,15 @@ his schooners were upset in a squall, with the loss of all hands, and he
 allowed two to be cut off by Yeo. Commodore Chauncey showed a preference
 for relying on his long guns, and a disinclination to come to close
 quarters. He was described as chasing the British squadron all round the
-lake, but his encounters did not go beyond artillery duels at long
+lake, but his encounters did not go beyond artillery [[Duel|duels]] at long
 range, and he allowed his enemy to continue in existence long after he
 might have been destroyed. The winter suspended operations, and both
 sides made exertions to increase their forces. The Americans had the
 advantage of commanding greater resources for shipbuilding. Sir James
 Yeo began by blockading Sackett's Harbor in the early part of 1814, but
 when the American squadron was ready he was compelled to retire by the
-disparity of the forces. The American commodore was now able to blockade
-the British flotilla at Kingston. When the cruising season of the lake
+disparity of the forces. The American commodore was now able to [[Blockade|blockade]]
+the British flotilla at [[Kingston]]. When the cruising season of the lake
 was nearly over he in his turn retired to Sackett's Harbor, and did not
 leave it for the rest of the war. During his later years he served as
 commissioner of the navy, and was president of the board of naval

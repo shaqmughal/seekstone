@@ -18,7 +18,7 @@ at right angles not far from its destination (the Laurentina there
 running S.W. and that to Lavinium S.E.) may for convenience be called
 Lavinatis, though this name does not occur in ancient times. On this
 latter road, beyond Decimo, two milestones, one of Tiberius, the other
-of Maxentius, each bearing the number 11, have been found; and farther
+of [[Maxentius]], each bearing the number 11, have been found; and farther
 on, at Capocotta, traces of ancient buildings, and an important
 sepulchral inscription of a Jewish ruler of a synagogue have come to
 light. That the Via Laurentina was near the Via Ardeatina is clear from
@@ -27,7 +27,7 @@ Laurentum was also accessible by a branch from the Via Ostiensis at the
 eighth mile (at Malafede) leading past Castel Porziano, the royal
 hunting-lodge, which is identical with the ancient Ager Solonius (in
 which, Festus tells us, was situated the Pomonal or sacred grove of
-Pomona) and which later belonged to Marius.
+Pomona) and which later belonged to [[Marius]].
 
   See R. Lanciani in articles quoted under LAVINIUM.     (T. As.)
 

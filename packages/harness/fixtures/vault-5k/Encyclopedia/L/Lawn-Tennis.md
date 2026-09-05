@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lawn-Tenni
 
 # Lawn-Tennis
 
-LAWN-TENNIS, a game played with racquet and ball on a court traversed by
+LAWN-TENNIS, a [[Game|game]] played with racquet and ball on a court traversed by
 a net, but without enclosing walls. It is a modern adaptation of the
 ancient game of tennis (q.v.), with which it is identical as regards the
 scoring of the game and "set." Lawn-tennis is essentially a summer game,
@@ -36,7 +36,7 @@ divisions of the court on each side of the half-court-line are called
 respectively the right-hand and left-hand courts; and the portion of
 these divisions between the service-lines and the net are the right-hand
 service-court and left-hand service-court respectively. The balls, which
-are made of hollow india-rubber, tightly covered with white flannel, are
+are made of hollow india-rubber, tightly covered with white [[Flannel|flannel]], are
 2½ in. in diameter, and from 1(7/8) to 2 oz. in weight. The racquets
 (fig. 3), for which there are no regulation dimensions, are broader and
 lighter than those used in tennis.
@@ -60,14 +60,14 @@ the server in the second game serves in the fourth; the same order being
 preserved till the end of the set; but each pair of partners decide for
 themselves before their first turn of service which of the two shall
 serve first. The server delivers the service from the right- and
-left-hand courts alternately, beginning in each of his service games
+left-hand courts alternately, beginning in each of his service [[Games|games]]
 from the right-hand court, even though odds be given or owed; he must
 stand behind (i.e. farther from the net than) the base-line, and must
 serve the ball so that it drops in the opponent's service-court
 diagonally opposite to the court served from, or upon one of the lines
 enclosing that service-court. If in a serve, otherwise good, the ball
 touches the net, it is a "let" whether the serve be "taken" or not by
-striker-out; a "let" does not annul a previous "fault." (For the meaning
+striker-out; a "let" does not annul a previous "[[Fault|fault]]." (For the meaning
 of "let," "rest," "striker-out" and other technical terms used in the
 game, see TENNIS and RACQUETS.) The serve is a fault (1) if it be not
 delivered by the server from the proper court, and from behind the
@@ -100,7 +100,7 @@ touching it; or if he volley the ball before it has passed the net.
   below the first rank. The service in vogue among the best players in
   America, and from this circumstance known as the "American service,"
   has less pace than the English but is "cut" in such a way that it
-  swerves in the air and "drags" off the ground, the advantage being
+  swerves in the air and "[[Drag|drags]]" off the ground, the advantage being
   that it gives the server more time to "run in" after his serve, so as
   to volley his opponent's return from a position within a yard or two
   of the net. Both in singles and doubles the best players often make it
@@ -180,7 +180,7 @@ touching it; or if he volley the ball before it has passed the net.
   was introduced by which fractional parts of "fifteen" could be
   conceded by way of handicap, in accordance with tables inserted in the
   laws of the game. The system is a development of the tennis
-  handicapping by which a finer graduation of odds may be given.
+  handicapping by which a finer [[Graduation|graduation]] of odds may be given.
   "One-sixth of fifteen" is one stroke given in every six games of a
   set; and similarly two-sixths, three-sixths, four-sixths and
   five-sixths of fifteen, are respectively two, three, four and five
@@ -193,7 +193,7 @@ _History._--Lawn-tennis cannot be said to have existed prior to the year
 time to time improvised by lovers of that game who found themselves out
 of reach of a tennis-court. Lord Arthur Hervey, sometime bishop of Bath
 and Wells, had thus devised a game which he and his friends played on
-the lawn of his rectory in Suffolk; and even so early as the end of the
+the [[Lawn|lawn]] of his rectory in Suffolk; and even so early as the end of the
 18th century "field tennis" was mentioned by the _Sporting Magazine_ as
 a game that rivalled the popularity of cricket. But, however much or
 little this game may have resembled lawn-tennis, it had long ceased to
@@ -201,7 +201,7 @@ exist; and even to be remembered, when in 1874 Major Wingfield took out
 a patent for a game called Sphairistike, which the specification
 described as "a new and improved portable court for playing the ancient
 game of tennis." The court for this game was wider at the base-lines
-than at the net, giving the whole court the shape of an hour-glass; one
+than at the net, giving the whole court the shape of an [[Hour-Glass|hour-glass]]; one
 side of the net only was divided into service-courts, service being
 always delivered from a fixed mark in the centre of the opposite court;
 and from the net-posts side-nets were fixed which tapered down to the
@@ -210,19 +210,19 @@ the courts on each side of the net. The possibilities of Sphairistike
 were quickly perceived; and under the new name of lawn-tennis its
 popularity grew so quickly that in 1875 a meeting of those interested in
 the game was held at Lord's cricket-ground, where a committee of the
-Marylebone Club (M.C.C.) was appointed to draw up a code of rules. The
+Marylebone Club (M.C.C.) was appointed to draw up a [[Code|code]] of rules. The
 hour-glass shape of the court was retained by this code (issued in May
 1875), and the scoring of the game followed in the main the racquets
 instead of the tennis model. It was at the suggestion of J. M.
-Heathcote, the amateur tennis champion, that balls covered with white
+Heathcote, the amateur tennis [[Champion|champion]], that balls covered with white
 flannel were substituted for the uncovered balls used at first. In 1875,
 through the influence of Henry Jones ("Cavendish"), lawn-tennis was
-included in the programme of the All England Croquet Club, which in 1877
+included in the programme of the All England [[Croquet]] Club, which in 1877
 became the All England Croquet and Lawn-Tennis Club, on whose ground at
 Wimbledon the All England championships have been annually played since
 that date. In the same year, in anticipation of the first championship
 meeting, the club appointed a committee consisting of Henry Jones,
-Julian Marshall and C. G. Heathcote to revise the M.C.C. code of rules;
+Julian [[Marshall]] and C. G. Heathcote to revise the M.C.C. code of rules;
 the result of their labours being the introduction of the tennis in
 place of the racquets scoring, the substitution of a rectangular for the
 "hour-glass" court, and the enactment of the modern rule as regards the
@@ -245,7 +245,7 @@ championship, and by the fact that there were forty-five competitors for
 the All England single championship at Wimbledon, won by J. T. Hartley,
 a player who chiefly relied on the accuracy of his return without
 frequent resort to the volley. It was in the autumn of the same year, in
-a tournament at Cheltenham, that W. Renshaw made his first successful
+a tournament at [[Cheltenham]], that W. Renshaw made his first successful
 appearance in public. The year 1880 saw the foundation of the Northern
 Lawn-Tennis Association, whose tournaments have long been regarded as
 inferior in importance only to the championship meetings at Wimbledon
@@ -282,7 +282,7 @@ when eighty-one strokes were played. Among players in the first class
 who were contemporaries of the Renshaws, mention should be made of E. de
 S. Browne, a powerful imitator of the Renshaw style; C. W. Grinstead, R.
 T. Richardson, V. Goold (who played under the _nom de plume_ "St
-Leger"), J. T. Hartley, E. W. Lewis, E. L. Williams, H. Grove and W. J.
+Leger"), J. T. Hartley, E. W. [[Lewis]], E. L. Williams, H. Grove and W. J.
 Hamilton; while among the most prominent lady players of the period were
 Miss M. Langrishe, Miss Bradley, Miss Maud Watson, Miss L. Dod, Miss
 Martin and Miss Bingley (afterwards Mrs Hillyard). In 1888 the
@@ -371,7 +371,7 @@ of the competitors are English visitors.
   1893    Miss Dod         |  1907    Miss M. Sutton
   1894    Mrs Hillyard     |  1908    Mrs Sterry
   1895    Miss C. Cooper   |  1909    Miss D. Boothby
-  1896    Miss C. Cooper   |  1910    Mrs Lambert Chambers
+  1896    Miss C. Cooper   |  1910    Mrs [[Lambert]] Chambers
   1897    Mrs Hillyard     |            (Miss Douglass)
 
 
@@ -379,7 +379,7 @@ of the competitors are English visitors.
 
   1888   E. Renshaw      and Mrs Hillyard
   1889   J. C. Kay        "  Miss Dod
-  1890   J. Baldwin       "  Miss K. Hill
+  1890   J. [[Baldwin]]       "  Miss K. Hill
   1891   J. C. Kay        "  Miss Jackson
   1892   A. Dod           "  Miss Dod
   1893   W. Baddeley      "  Mrs Hillyard.
@@ -402,8 +402,8 @@ of the competitors are English visitors.
   1909   H. Roper Barrett "  Miss Morton
   1910   S. N. Doust      "  Mrs Lambert Chambers
 
-In the United States lawn-tennis was played at Nahant, near Boston,
-within a year of its invention in England, Dr James Dwight and the
+In the United States lawn-tennis was played at Nahant, near [[Boston]],
+within a year of its invention in England, Dr James [[Dwight]] and the
 brothers F. R. and R. D. Sears being mainly instrumental in making it
 known to their countrymen. In 1881 at a meeting in New York of
 representatives of thirty-three clubs the United States National
@@ -422,7 +422,7 @@ Slocum. Other prominent players of the period were the brothers C. M.
 and J. S. Clark, who in 1883 came to England and were decisively beaten
 at Wimbledon by the two Renshaws. To a later generation belong the
 strongest single players, M. D. Whitman, Holcombe Ward, W. A. Larned and
-Karl Behr. Holcombe Ward and Dwight Davis, who have the credit of
+Karl Behr. Holcombe Ward and Dwight Davis, who have the [[Credit|credit]] of
 introducing the peculiar "American twist service," were an exceedingly
 strong pair in doubles; but after winning the American doubles
 championship for three years in succession, they were defeated in 1902
@@ -430,7 +430,7 @@ by the English brothers R. F. and H. L. Doherty. The championship
 singles in 1904 and 1905 was won by H. Ward and B. C. Wright, the latter
 being one of the finest players America has produced; and these two in
 partnership won the doubles for three years in succession, until they
-were displaced by F. B. Alexander and H. H. Hackett, who in their turn
+were displaced by F. B. Alexander and H. H. [[Hackett]], who in their turn
 held the doubles championship for a like period. In 1909 two young
 Californians, Long and McLoughlin, unexpectedly came to the front, and,
 although beaten in the final round for the championship doubles, they
@@ -498,7 +498,7 @@ players.
   Year.    Ladies' Singles.         Year.     Ladies' Singles.
 
   1890   Miss E. C. Roosevelt    |  1901   Miss Elizabeth H. Moore
-  1891   Miss Mabel E. Cahill    |  1902   Miss Marion Jones
+  1891   Miss Mabel E. Cahill    |  1902   Miss [[Marion]] Jones
   1892   Miss Mabel E. Cahill    |  1903   Miss Elizabeth H. Moore
   1893   Miss Aline M. Terry     |  1904   Miss May Sutton
   1894   Miss Helen R. Helwig    |  1905   Miss Elizabeth H. Moore
@@ -523,14 +523,14 @@ players.
   1902   W. C. Grant     "  Miss E. H. Moore
   1903   Harry Allen     "  Miss Chapman
   1904   W. C. Grant     "  Miss E. H. Moore
-  1905   Clarence Hobart "  Mrs Clarence Hobart
+  1905   [[Clarence]] Hobart "  Mrs Clarence Hobart
   1906   E. B. Dewhurst  "  Miss Coffin
   1907   W. F. Johnson   "  Miss Sayres
   1908   N. W. Niles     "  Miss E. Rotch
   1909   W. F. Johnson   "  Miss H. Hotchkiss
   1910   J. R. Carpenter "  Miss H. Hotchkiss
 
-In 1900 an international challenge cup was presented by the American D.
+In 1900 an [[International|international]] challenge cup was presented by the American D.
 F. Davis, to be competed for in the country of the holders. In the
 summer of that year a British team, consisting of A. W. Gore, E. D.
 Black and H. R. Barrett, challenged for the cup but were defeated by the
@@ -539,7 +539,7 @@ representative British team, the two Dohertys and Pim, were again
 defeated by the same representatives of the United States; but in the
 following year the Dohertys brought the Davis cup to England by beating
 Larned and the brothers Wrenn at Longwood. In 1904 the cup was played
-for at Wimbledon, when representatives of Belgium, Austria and France
+for at Wimbledon, when representatives of [[Belgium]], Austria and France
 entered, but failed to defeat the Dohertys and F. L. Riseley, who
 represented Great Britain. In 1905 the entries included France, Austria,
 Australasia, Belgium and the United States; in 1906 the same countries,
@@ -554,7 +554,7 @@ in America. In 1909 England was not represented in the competition, and
 the Australians again retained the cup, beating the Americans McLoughlin
 and Long both in singles and doubles.
 
-  See "The Badminton Library," _Tennis: Lawn-Tennis: Racquets: Fives_,
+  See "The Badminton Library," _Tennis: Lawn-Tennis: Racquets: [[Fives]]_,
   new and revised edition (1903); R. F. and H. L. Doherty, _On
   Lawn-Tennis_ (1903); E. H. Miles, _Lessons in Lawn-Tennis_ (1899); E.
   de Nanteuil, _La Paume et le lawn-tennis_ (1898); J. Dwight, "Form in

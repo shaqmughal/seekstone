@@ -7,7 +7,7 @@ topic: painters
 # Haslingden
 
 HASLINGDEN, a market-town and municipal borough in the Rossendale and
-Heywood parliamentary divisions of Lancashire, England, 19 m. N. by W.
+[[Heywood]] parliamentary divisions of Lancashire, England, 19 m. N. by W.
 from Manchester by the Lancashire & Yorkshire railway. Pop. (1901),
 18,543. It lies in a hilly district on the borders of the forest of
 Rossendale, and is supposed by some to derive its name from the hazel
@@ -16,7 +16,7 @@ on the slope of a hill, but the modern part has extended about its base.
 The parish church of St James was rebuilt in 1780, with the exception of
 the tower, which dates from the time of Henry VIII. The woollen
 manufacture was formerly the staple. The town, however, steadily
-increasing in importance, has cotton, woollen and engineering
+increasing in importance, has cotton, woollen and [[Engineering|engineering]]
 works--coal-mining, quarrying and brickmaking are carried on in the
 neighbourhood. The borough, as incorporated in 1891, comprised several
 townships and parts of townships, but under the Local Government Act of

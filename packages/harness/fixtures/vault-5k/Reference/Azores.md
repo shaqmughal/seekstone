@@ -14,7 +14,7 @@ sq. m. The Azores extend in an oblique line from N.W. to S.E., between 36°
 three widely severed groups, rising from a depth of more than 2½ m. The
 south-eastern group consists of St Michael's (São Miguel) and St Mary
 (Santa Maria), with Formigas; the central, of Fayal (Faial), Pico, St
-George (São Jorge), Terceira and Graciosa; the north-western, of Flores and
+George (São Jorge), Terceira and Graciosa; the north-western, of [[Flores]] and
 Corvo.
 
 [Illustration]
@@ -69,14 +69,14 @@ The weather is often extremely stormy, and the winds from the west and
 south-west render the navigation of the coasts very dangerous.
 
 _Fauna._--The mammalia of the Azores are limited to the rabbit, weasel,
-ferret, rat (brown and black), mouse and bat, in addition to domestic
-animals. The game includes the woodcock, red partridge (introduced in the
+[[Ferret|ferret]], rat (brown and black), mouse and bat, in addition to domestic
+animals. The [[Game|game]] includes the woodcock, red partridge (introduced in the
 16th century), quail and snipe. Owing to the damage inflicted on the crops
 by the multitude of blackbirds, bullfinches, chaffinches and green
 canaries, a reward was formerly paid for the destruction of birds in St
 Michael's, and it is said that over 400,000 were destroyed in several
 successive years between 1875 and 1885. There are valuable fisheries of
-tunny, mullet and bonito. The porpoise, dolphin and whale are also common.
+tunny, mullet and bonito. The porpoise, [[Dolphin|dolphin]] and whale are also common.
 Whale-fishing is a profitable industry, with its headquarters at Fayal,
 whence the sperm-oil is exported. Eels are found in the rivers. The only
 indigenous reptile is the lizard. Fresh-water molluscs are unknown, and
@@ -91,7 +91,7 @@ islands is remarkably rich, especially in grasses, mosses, and ferns,
 heath, juniper, and a variety of shrubs. Of tall-growing trees there was,
 till the 19th century, an almost total lack; but the Bordeaux pine,
 European poplar, African palm-tree, Australian eucalyptus, chestnut,
-tulip-tree, elm, oak, and many others, were then successfully introduced.
+tulip-tree, [[Elm|elm]], oak, and many others, were then successfully introduced.
 The orange, apricot, banana, lemon, citron, Japanese medlar, and
 pomegranate are the common fruits, and various other varieties are more or
 less cultivated. At one time much attention was given to the growing of
@@ -118,7 +118,7 @@ of St Michael's; Angra, or Angra do Heroismo, the capital of Terceira; and
 Horta, the capital of Fayal. St Michael's and St Mary are included in the
 district of Ponta Delgada; Terceira, St George and Graciosa, in that of
 Angra; Pico, Fayal, Flores and Corvo, in that of Horta. Four members are
-returned by Ponta Delgada to the parliament in Lisbon, while each of the
+returned by Ponta Delgada to the parliament in [[Lisbon]], while each of the
 other districts returns two members. Roman Catholicism is the creed of the
 majority, and Angra is an episcopal see. For purposes of military
 administration the islands form two commands, with their respective
@@ -140,8 +140,8 @@ waters and provisions. The trade in pineapples is especially important. No
 fewer than 940,000 pineapples were exported in 1902 and 1903, going in
 almost equal quantities to London and Hamburg. The fruit is raised under
 glass. Pottery, cotton fabrics, spirits, straw hats and tea are produced in
-the district of Ponta Delgada; linen and woollen goods, cheese, butter,
-soap, bricks and tiles, in that of Angra; baskets, mats, and various
+the district of Ponta Delgada; linen and woollen goods, [[Cheese|cheese]], [[Butter|butter]],
+soap, [[Brick|bricks]] and tiles, in that of Angra; baskets, mats, and various
 ornamental articles made from straw, osier, and the pith of dried fig-wood,
 in that of Horta.
 
@@ -158,23 +158,23 @@ discovered in Corvo it has been supposed that the islands must have been
 visited by that adventurous people. The Arabian geographers, Edrisi in the
 12th century, and Ibn-al-Wardi in the 14th, describe, after the Canaries,
 nine other islands in the Western Ocean, which are in all probability the
-Azores. This identification is supported by various considerations. The
+Azores. This [[Identification|identification]] is supported by various considerations. The
 number of islands is the same; the climate under which they are placed by
 the Arabians makes them north of the Canaries; and special mention is made
-of the hawks or buzzards, which were sufficiently numerous at a later
+of the [[Hawk|hawks]] or buzzards, which were sufficiently numerous at a later
 period to [v.03 p.0085] give rise to the present name (Port. _Açor_, a
 hawk). The Arabian writers represent them as having been populous, and as
 having contained cities of some magnitude; but they state that the
 inhabitants had been greatly reduced by intestine warfare. The Azores are
 first found distinctly marked in a map of 1351, the southern group being
-named the Goat Islands (_Cabreras_); the middle group, the Wind or Dove
+named the Goat Islands (_Cabreras_); the middle group, the Wind or [[Dove]]
 Islands (_De Ventura sive de Columbis_); and the western, the Brazil Island
 (_De Brazi_)--the word Brazil at that time being employed for any red
 dye-stuff. In a Catalan map of the year 1375 Corvo is found as _Corvi
-Marini_, and Flores as _Li Conigi_; while St George is already designated
+[[Marini]]_, and Flores as _Li Conigi_; while St George is already designated
 _San Zorze_. It has been conjectured that the discoverers were Genoese, but
 of this there is not sufficient evidence. It is plain, however, that the
-so-called Flemish discovery by van der Berg is only worthy of the name in a
+so-called Flemish discovery by van der [[Berg]] is only worthy of the name in a
 very secondary sense. According to the usual account, he was driven on the
 islands in 1432, and the news excited considerable interest at the court of
 Lisbon. The navigator, Gonzalo Velho Cabral--not to be confounded with his
@@ -183,7 +183,7 @@ discovery. Another version relates that Prince Henry the Navigator of
 Portugal had in his possession a map in which the islands were laid down,
 and that he sent out Cabral through confidence in its accuracy. The map had
 been presented to him by his brother, Dom Pedro, who had travelled as far
-as Babylon. Be this as it may, Cabral reached the island, which he named
+as [[Babylon]]. Be this as it may, Cabral reached the island, which he named
 _Santa Maria_, in 1432, and in 1444 took possession of St Michael's. The
 other islands were all discovered by 1457. Colonization had meanwhile been
 going on prosperously; and in 1466 Fayal was presented by Alphonso V. to
@@ -195,7 +195,7 @@ the fleets on their voyage home from the Indies; and hence they became a
 theatre of that maritime warfare which was carried on by the English under
 Queen Elizabeth against the Peninsular powers. One such expedition, which
 took place in 1591, led to the famous sea-fight off Flores, between the
-English ship "Revenge," commanded by Sir Richard Grenville, and a Spanish
+English ship "Revenge," commanded by Sir Richard [[Grenville]], and a Spanish
 fleet of fifty-three vessels. Under the active administration of the
 marquis de Pombal (1690-1782), considerable efforts were made for the
 improvement of the Azores, but the stupid and bigoted government which
@@ -208,7 +208,7 @@ themselves, and after various struggles, Queen Maria's authority was
 established over all the islands. She resided at Angra from 1830 to 1833.
 
 For a general account of the islands, see _The Azores_, by W. F. Walker
-(London, 1886), and _Madeira and the Canary Islands, with the Azores_, by
+(London, 1886), and _Madeira and the [[Canary Islands]], with the Azores_, by
 A. S. Brown (London, 1901). On the fauna and flora of the islands, the
 following books by H. Drouet are useful:--_Eléments de la faune açoréenne_
 (Paris, 1861); _Mollusques marins des îles Açores_ (1858), _Lettres
@@ -216,9 +216,9 @@ açoréennes_ (1862), and _Catalogue de la flore des îles Açores, précédé d
 l'itinéraire d'une voyage dans cet archipel_ (1866). The progress of
 Azorian commerce is best shown in the British and American consular
 reports. For history, see _La Conquista de las Azores en 1583_, by C.
-Fernandez Duro (Madrid, 1886), and _Histoire de la découverte des îles
+[[Fernandez]] Duro (Madrid, 1886), and _Histoire de la découverte des îles
 Azores et de l'origine de leur dénomination d'îles flamandes_, by J. Mees
-(Ghent, 1901).
+([[Ghent]], 1901).
 
 ## See also
 

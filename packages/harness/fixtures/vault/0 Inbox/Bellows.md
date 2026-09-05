@@ -1,17 +1,17 @@
 # Bellows
 
 BELLOWS, HENRY WHITNEY (1814-1882), American clergyman, was born in
-Boston, Massachusetts, on the 11th of June 1814. He graduated at Harvard
+[[Boston]], Massachusetts, on the 11th of June 1814. He graduated at Harvard
 College in 1832, and at the Harvard Divinity School in 1837, held a
 brief pastorate (1837-1838) at Mobile, Alabama, and in 1839 became
 pastor of the First Congregational (Unitarian) church in New York City
 (afterwards All Souls church), in charge of which he remained until his
 death. Here Bellows acquired a high reputation as a pulpit orator and
-lyceum lecturer, and was a recognized leader in the Unitarian Church in
+[[Lyceum|lyceum]] lecturer, and was a recognized leader in the Unitarian Church in
 America. For many years after 1846 he edited _The Christian Inquirer_, a
 Unitarian weekly paper, and he was also for some time an editor of _The
 Christian Examiner_. In 1857 he delivered a series of lectures in the
-Lowell Institute course, on "The Treatment of Social Diseases." At the
+[[Lowell]] Institute course, on "The Treatment of Social Diseases." At the
 outbreak of the Civil War he planned the United States Sanitary
 Commission, of which he was the first and only president (1861 to 1878).
 He was the first president of the first Civil Service Reform Association
@@ -21,7 +21,7 @@ with his parishioner and friend, Peter Cooper, the establishment of
 Cooper Union. In 1865 he proposed and organized the national conference
 of Unitarian and other Christian churches, and from 1865 to 1880 was
 chairman of its council. He died in New York City on the 30th of January
-1882. A bronze memorial tablet by Augustus Saint Gaudens was unveiled in
+1882. A bronze memorial tablet by Augustus Saint [[Gauden|Gaudens]] was unveiled in
 All Souls church in 1886. His published writings include _Restatements
 of Christian Doctrine in Twenty-Five Sermons_ (1860); _Unconditioned
 Loyalty_ (1863), a strong pro-Union sermon, which was widely circulated
@@ -30,9 +30,9 @@ Europe in 1867-1868_ (2 vols., 1868-1869); _Historical Sketch of the
 Union League Club_ (1879); and _Twenty-Four Sermons in All Souls Church,
 New York, 1865-1881_ (1886).
 
-  See Russell N. Bellows, _Henry Whitney Bellows_ (Keene, N.H., 1897), a
+  See Russell N. Bellows, _Henry Whitney Bellows_ ([[Keene]], N.H., 1897), a
   biographical sketch reprinted from T.B. Peck's _Bellows Family
-  Genealogy_; John White Chadwick, _Henry W. Bellows: His Life and
+  Genealogy_; John White [[Chadwick]], _Henry W. Bellows: His Life and
   Character_ (New York, 1882), a memorial address; and Charles J Stille,
   _History of the United States Sanitary Commission_ (Philadelphia,
   1866).
@@ -40,12 +40,12 @@ New York, 1865-1881_ (1886).
 
 
 
-BELLOWS and BLOWING MACHINES, appliances used for producing currents of
+BELLOWS and BLOWING [[Machine|MACHINES]], appliances used for producing currents of
 air, or for moving volumes of air from one place to another. Formerly
 all such artificially-produced currents of air were used to assist the
-combustion of fires and furnaces, but now this purpose only forms a part
+[[Combustion|combustion]] of fires and furnaces, but now this purpose only forms a part
 of the uses to which they are put. Blowing appliances, among which are
-included bellows, rotary fans, blowing engines, rotary blowers and
+included bellows, rotary [[Fan|fans]], blowing engines, rotary blowers and
 steam-jet blowers, are now also employed for forcing pure air into
 buildings and mines for purposes of ventilation, for withdrawing
 vitiated air for the same reason, and for supplying the air or other gas
@@ -75,7 +75,7 @@ the separation of the boards, by several rings of wire which act like
 the ribs of animals. The lower board has a hole in the centre, covered
 inside by a leather flap or valve which can only open inwards; there is
 also an open outlet, generally in the form of a pipe or nozzle, whose
-aperture is much smaller than that of the valve. When the upper board is
+[[Aperture|aperture]] is much smaller than that of the valve. When the upper board is
 raised air rushes into the cavity through the valve to fill up the
 partial vacuum produced; on again depressing the upper board the valve
 is closed by the air attempting to rush out again, and this air is
@@ -84,7 +84,7 @@ pressure exerted.
 
 The current of air produced is evidently not continuous but intermittent
 or in puffs, because an interval is needed to refill the cavity after
-each discharge. In order to remedy this drawback the _double bellows_
+each [[Discharge|discharge]]. In order to remedy this [[Drawback|drawback]] the _double bellows_
 are used. To understand their action it is only necessary to conceive an
 additional board with valve, like the lower board of the single bellows,
 attached in the same way by leather below this lower board. Thus there
@@ -119,13 +119,13 @@ the movable uppermost board pressed upon by the weight shown. The board
 B is raised by means of a hand lever L, through either a chain or a
 connecting rod, and lowered by a weight. The size of the weight on D
 depends on the air pressure required. For instance, if a blast pressure
-of half a pound per square inch is wanted and the boards are 18 in. in
+of half a pound per square [[Inch|inch]] is wanted and the boards are 18 in. in
 diameter, and therefore have an area of 254 sq. in., on each of the 254
 sq. in. there is to be a pressure of half a pound, so that the weight to
-balance this must be half multiplied by 254, or 127 lb. The diameter of
+[[Balance|balance]] this must be half multiplied by 254, or 127 lb. The diameter of
 the air-pipe can be varied to suit the required conditions. Instead of
 bellows with flexible sides, a sliding arrangement is sometimes used;
-this consists of what are really two boxes fitting into one another with
+this consists of what are really two [[Box|boxes]] fitting into one another with
 the open sides both facing inwards, as if one were acting as a lid to
 the other. By having a valve and outlet pipe fitted as in the bellows
 and sliding them alternately apart and together, an intermittent blast
@@ -135,11 +135,11 @@ be air-tight.
 
 _Blowing Engines._--Where larger quantities of air at higher pressures
 than can conveniently be supplied by bellows are required, as for blast
-furnaces and the Bessemer process of steel-making, what are termed
+furnaces and the [[Bessemer]] process of steel-making, what are termed
 "blowing engines" are used. The mode of action of a blowing engine is
 simple. When a piston, accurately fitting a cylinder which has one end
 closed, is forcibly moved towards the other end, a partial vacuum is
-formed between the piston and the blank end, and if this space be
+formed between the piston and the [[Blank|blank]] end, and if this space be
 allowed to communicate with the outer atmosphere air will flow in to
 fill the vacuum. When the piston has completed its movement or "stroke,"
 the cylinder will have been filled with air. On the return of the
@@ -170,9 +170,9 @@ adopted where the cylinders are placed horizontally, and often in the
 case of vertical engines. The engines are generally built in pairs, with
 two blowing cylinders and one high-pressure and one low-pressure steam
 cylinder, the piston rods terminating in connecting rods which are
-attached to the pins of the two cranks on the shaft. In the centre of
+attached to the pins of the two [[Crank|cranks]] on the shaft. In the centre of
 this shaft, midway between the two engines, there is usually placed a
-heavy flywheel which helps to maintain a uniform speed of turning. Some
+heavy flywheel which [[Helps|helps]] to maintain a uniform speed of turning. Some
 of the largest blowing engines built in Great Britain are arranged as
 beam engines; that is to say, there is a heavy rocking beam of cast iron
 which in its middle position is horizontal. One end of this beam is
@@ -190,7 +190,7 @@ mixture of coal gas and air is used in a gas engine. Since the majority
 of blowing engines are used for providing the air required in iron blast
 furnaces, considerable saving should be effected in this way, because
 the gas which escapes from the top of the furnace is a waste product and
-costs nothing to produce.
+[[Costs|costs]] nothing to produce.
 
 [Illustration: FIG. 3.--Section of Cylinder of Early Blowing Engine
 (1851).]
@@ -272,7 +272,7 @@ springs.
 
 In a large blowing engine built in 1905 by Messrs Davy Bros. of
 Sheffield for the North-Eastern Steel Company at Middlesbrough (see
-_Engineering_, January 6, 1905) the same arrangement was adopted as in
+_[[Engineering]]_, January 6, 1905) the same arrangement was adopted as in
 that just described. The two air cylinders are each 90 in. diameter and
 have a stroke of 72 in. The capacity of this engine is 52,000 cub. ft.
 of air per minute, delivered at a pressure of from 12-1/2 to 15 lb. per
@@ -300,7 +300,7 @@ diameter is 86-1/2 in. and the length of piston stroke 55 in. As to the
 arrangement of the valves, if the piston be moving in the direction
 shown, on the left side of the piston at A air is being discharged, and
 follows the course indicated by the arrows, so as first to pass into the
-annular chamber which forms a continuation of the space A, and thence,
+[[Annular|annular]] chamber which forms a continuation of the space A, and thence,
 through the spring-controlled steel disk valves v', into the discharge
 chamber C, which ultimately leads to the blast pipe. It will be seen
 that the valves v on the other side of the annular chamber are closed.
@@ -308,26 +308,26 @@ At the same time a partial vacuum is being formed in the space B, to be
 filled by the inflow of air through the valves v which are now open, the
 corresponding discharge valves v' being closed. These valves on the
 inside and outside of the annular spaces referred to are arranged so as
-to form a circle round the ends of the barrel of the cylinder. The free
+to form a circle round the ends of the [[Barrel|barrel]] of the cylinder. The free
 air, instead of being drawn into the valves v direct from the air of the
 engine house, is taken from an enclosed annular chamber E, which may be
 in communication with the clean, cool air outside. It will be seen that
 the piston is made deep so as to allow for a long bearing surface in the
 cylinder. Two metal packing rings are provided to render the piston
 air-tight. The horse-power of this engine, which is designed on the
-Cockerell system, is 750.
+[[Cockerell]] system, is 750.
 
 Air valves of other types than those which have been mentioned have been
 tried, such as sliding grid valves, rotatory slide valves and piston
 valves, but it has been found that either flap or disk lift valves are
 more satisfactory for air on account of the grit which is liable to get
 between slide valves and their seatings. In some of the blowing engines
-made by Messrs Fraser & Chalmers (see _Engineer_, June 15, 1906), sheets
+made by Messrs [[Fraser]] & [[Chalmers]] (see _Engineer_, June 15, 1906), sheets
 of flexible bronze act as flap valves both for admission and delivery,
 the part which actually closes the opening being thickened for strength.
 
 The pressure of the air supplied by blowing engines depends upon the
-purposes for which it is to be used. In charcoal furnaces the pressure
+purposes for which it is to be used. In [[Charcoal|charcoal]] furnaces the pressure
 is very low, being less than 1 lb. per sq. in.; for blast furnaces using
 coal an average value of 4 lb. is common; for American blast furnaces
 using coke or anthracite coal the pressure is as high as 10 lb.; while
@@ -350,7 +350,7 @@ cylinder.
 
 Two of the best-known machines of this kind are Roots' and Baker's, both
 American devices. The mode of action of Roots' blower, as made by Messrs
-Thwaites Bros. of Bradford, will be clear from the section shown on fig.
+Thwaites Bros. of [[Bradford]], will be clear from the section shown on fig.
 6. The moving parts work in a closed casing B, which consists of
 half-cylindrical curved plates placed a little more than their own
 radius apart, the ends being enclosed by two plates. Within the casing,
@@ -382,18 +382,18 @@ desired two or more blowers can be worked in series, the air being
 raised in pressure by steps. A blower using 1 H.P. will deliver 350 cub.
 ft. of air per minute and one using 2-3/4 H.P. will deliver 800 cub.
 ft., at a pressure suitable for smiths' fires. At the higher pressure
-required for cupola work--somewhere about 3/4 lb. per sq. in.--6-1/2
+required for [[Cupola|cupola]] work--somewhere about 3/4 lb. per sq. in.--6-1/2
 H.P. will deliver 1300, and 123 H.P. 25,000 cub. ft. per minute. In the
-Baker blower three revolvers are used--a large one which acts as the
-rotating piston and two smaller ones forming air locks or valves.
+[[Baker]] blower three revolvers are used--a large one which acts as the
+rotating piston and two smaller ones forming air [[Lock|locks]] or valves.
 
 _Rotary Fans._--Now that power for driving them is so generally
 available, rotary blowing fans have for many purposes taken the place of
 bellows. They are used for blowing smiths' fires, for supplying the
 blast for iron melting cupolas and furnaces and the forced draught for
-boiler fires, and for any other purpose requiring a strong blast of air.
+[[Boiler|boiler]] fires, and for any other purpose requiring a strong blast of air.
 Their construction will be clear from the two views (figs. 7 and 8) of
-the form made by Messrs Gunther of Oldham, Lancashire. The fan consists
+the form made by Messrs [[Gunther]] of Oldham, Lancashire. The fan consists
 of a circular casing A having the general appearance of a snail shell.
 Within this casing revolves a series of vanes B--in this case
 five--curved as shown, and attached together so as to form a wheel whose
@@ -439,12 +439,12 @@ large volumes of air at pressures which are little above that of the
 atmosphere. Where the pressure of the current produced exceeds a quarter
 of a pound on the square inch the waste of work becomes so great as to
 preclude their use. The fan is not the most economical form of blower,
-but it is simple and inexpensive, both in first cost and in maintenance.
+but it is simple and inexpensive, both in first cost and in [[Maintenance|maintenance]].
 The largest fans are used for ventilating purposes, chiefly in mines,
 their diameters rising to 40 or even 50 ft. The useful effect of some of
 these larger fans, as obtained from experiments, is as high as 75%. In
-the case of the Capell fan, which differs from other forms in that it
-has two series of blades, inner and outer, separated by a curved blank
+the case of the [[Capell]] fan, which differs from other forms in that it
+has two series of [[Blades|blades]], inner and outer, separated by a curved blank
 piece between the inner wings, dipping into the fan inlet, and the outer
 wings, very high efficiencies have been obtained, being as great as 90%
 in some cases. Capell fans are used for ventilating mines, buildings,
@@ -452,19 +452,19 @@ and ships, and for providing induced currents for use in boiler
 furnaces. In the larger fans the casing, instead of having a curved
 section, is more often built of sheet steel and is given a rectangular
 section at right angles to the periphery. The Sirocco blowing fan, of
-Messrs Davidson of Belfast, has a larger number of blades, which are
+Messrs [[Davidson]] of [[Belfast]], has a larger number of blades, which are
 relatively narrow as measured radially, but wide axially. It can be made
 much smaller in diameter than fans of the older designs for the same
 output of air--a great advantage for use in ships or in buildings where
 space is limited--and its useful effect is also said to be superior.
-(See also HYDRAULICS, S 213.)
+(See also [[Hydraulics|HYDRAULICS]], S 213.)
 
 _Helical or screw blowers_, often called "air propellers," are used
 where relatively large volumes of air have to be moved against hardly
 any perceptible difference in pressure, chiefly for purposes of
 ventilation and drying. Most often the propeller is used to move air
 from one room or chamber to another adjoining, and is placed in a light
-circular iron frame which is fixed in a hole in the wall through which
+circular iron [[Frame|frame]] which is fixed in a hole in the wall through which
 the air is to be passed. The propeller itself consists of a series of
 vanes or wings arranged helically on a revolving shaft which is fixed in
 the centre of the opening. The centre line of the shaft is perpendicular
@@ -487,7 +487,7 @@ delivery by 1000 cub. ft. to 9000. At the lower of these speeds the
 horse-power absorbed was 0.6 and at the higher one 1.6.
 
 _Other Appliances for producing Currents of Air._--In its primitive form
-the "trompe" or water-blowing engine adopted in Savoy, Carniola, and
+the "trompe" or water-blowing engine adopted in Savoy, [[Carniola]], and
 some parts of America, consists of a long vertical wooden pipe
 terminating at its lower end in an air chest. Water is allowed to enter
 the top of the pipe through a conical plug and, falling down in
@@ -544,9 +544,9 @@ FOOTNOTE:
     sack or bag, and so the general word for the lower part of the trunk
     in man and animals, the stomach, and another form, probably northern
     in origin, _belu, belw_, became the regular word for the appliance,
-    the plural "bellies" being still used till the 16th century, when
+    the plural "[[Belli|bellies]]" being still used till the 16th century, when
     "bellows" appears, and the word in the singular ceases to be used.
-    The verb "to bellow" of the roar of a bull, or the low of a cow, is
+    The verb "to bellow" of the roar of a [[Bull|bull]], or the low of a cow, is
     from Old English _bellan_, to bell, roar.
 
 ## See also

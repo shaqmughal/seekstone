@@ -21,7 +21,7 @@ chevalier of the French Legion of Honour. He rendered panoramic views
 with a certain ability, though his work was rather topographically
 correct and impressive than artistic in conception and execution. He was
 a member of the National Academy of Design of New York, and is
-represented by two historical paintings, "The Discovery of the Hudson
+represented by two historical paintings, "The Discovery of the [[Hudson]]
 River," and "The Settlement of California," in the Capitol in
 Washington, D.C. He died in New York City on the 18th of February 1902.
 

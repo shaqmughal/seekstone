@@ -1,27 +1,27 @@
 # Dumouriez
 
 DUMOURIEZ, CHARLES FRANÇOIS (1739-1823), French general, was born at
-Cambray in 1739. His father was a commissary of the royal army, and
+Cambray in 1739. His father was a [[Commissary|commissary]] of the royal army, and
 educated his son most carefully in various branches of learning. The boy
 continued his studies at the college of Louis-le-Grand, and in 1757
 began his military career as a volunteer in the campaign of Rossbach. He
 received a commission for good conduct in action, and served in the
 later German campaigns of the Seven Years' War with distinction; but at
 the peace he was retired as a captain, with a small pension and the
-cross of St Louis. Dumouriez then visited Italy and Corsica, Spain and
-Portugal, and his memorials to the duc de Choiseul on Corsican affairs
-led to his re-employment on the staff of the French expeditionary corps
+cross of St Louis. Dumouriez then visited Italy and [[Corsica]], Spain and
+Portugal, and his memorials to the duc de [[Choiseul]] on Corsican affairs
+led to his re-employment on the staff of the French expeditionary [[Corps|corps]]
 sent to the island, for which he gained the rank of lieutenant-colonel.
 After this he became a member of the _Secret du roi_, the secret service
 under Louis XV., where his fertility of diplomatic resource had full
 scope. In 1770 he was sent on a mission into Poland, where in addition
 to his political business he organized a Polish militia. The fall of
 Choiseul brought about his recall, and somewhat later he was imprisoned
-in the Bastille, where he spent six months, occupying himself with
+in the [[Bastille]], where he spent six months, occupying himself with
 literary pursuits. He was then removed to Caen, where he was detained
 until the accession of Louis XVI.
 
-Upon his release in 1774 he married his cousin Mlle de Broissy, but he
+Upon his release in 1774 he married his [[Cousin|cousin]] Mlle de Broissy, but he
 was neglectful and unfaithful, and in 1789 the pair separated, the wife
 taking refuge in a convent. Meanwhile Dumouriez had devoted his
 attention to the internal state of his own country, and amongst the very
@@ -37,7 +37,7 @@ lieutenant-general and commandant of Nantes, his opportunity came after
 the flight to Varennes, when he attracted attention by offering to march
 to the assistance of the Assembly. He now attached himself to the
 Girondist party, and on the 15th of March 1792 was appointed minister of
-foreign affairs. He was mainly responsible for the declaration of war
+foreign affairs. He was mainly responsible for the [[Declaration|declaration]] of war
 against Austria (April 20), and the invasion of the Low Countries was
 planned by him. On the dismissal of Roland, Clavière and Servan (June
 13), he took the latter's post of minister of war, but resigned it two
@@ -51,7 +51,7 @@ subordinate Kellermann repulsed the Prussians at Valmy (September 20,
 (November 6). Returning to Paris, he was received with a popular
 ovation; but he was out of sympathy with the extremists in power, his
 old-fashioned methodical method of conducting war exposed him to the
-criticism of the ardent Jacobins, and a defeat would mean the end of his
+criticism of the ardent [[Jacobins]], and a defeat would mean the end of his
 career. Defeat coming to him at Neerwinden in January 1793, he ventured
 all on a desperate stroke. Arresting the commissaries of the Convention
 sent to inquire into his conduct, he handed them over to the enemy, and
@@ -68,8 +68,8 @@ in connexion with the struggle with Napoleon, though the extent to which
 this went was only known in public many years later. In 1814 and 1815 he
 endeavoured to procure from Louis XVIII. the bâton of a marshal of
 France, but was refused. He died at Turville Park, near
-Henley-on-Thames, on the 14th of March 1823. His memoirs were published
-at Hamburg in 1794. An enlarged edition, _La Vie et les mémoires du
+[[Henley-On-Thames|Henley-on-Thames]], on the 14th of March 1823. His memoirs were published
+at [[Hamburg]] in 1794. An enlarged edition, _La Vie et les mémoires du
 Général Dumouriez_, appeared at Paris in 1823. Dumouriez was also the
 author of a large number of political pamphlets.
 
@@ -79,7 +79,7 @@ author of a large number of political pamphlets.
   Première Invasion, Valmy, La Retraite de Brunswick, Jemappes, La
   Trahison de Dumouriez_ (Paris, 1886-1891); A. Sorel, _L'Europe et la
   Révolution française_ (1885-1892); J. Holland Rose and A.M. Broadley,
-  _Dumouriez and the Defence of England_ (1908); E. Daudet, _La
+  _Dumouriez and the Defence of England_ (1908); E. [[Daudet]], _La
   Conjuration de Pichegru et les complots royalistes du midi et du
   l'est, 1795-1797_ (Paris, 1901).
 
@@ -91,20 +91,20 @@ connected with the word, are the Mid. Dutch _domp_, mist or haze, and
 the Ger. _dumpf_, dull or dazed), a state of wonder, perplexity or
 melancholy. The word thus occurs particularly in the plural, in such
 phrases as "doleful dumps." It was also formerly used for a tune,
-especially one of a mournful kind, a dirge. (2) (Connected with "dumpy,"
+especially one of a mournful kind, a [[Dirge|dirge]]. (2) (Connected with "dumpy,"
 but appearing later than that word, and also of obscure origin),
 something short and thick, and hence used of many objects such as a lead
-counter or medal, of a coin formerly used in Australia, formed by
+counter or medal, of a [[Coin|coin]] formerly used in [[Australia]], formed by
 punching a circular piece out of a Spanish dollar, and of a short thick
 bolt used in shipbuilding. (3) (Probably of Norse origin, cf. Nor.
 _dumpa_, and Dan. _dumpe_, meaning "to fall" suddenly, with a bump), to
 throw down in a heap, and hence particularly applied to the depositing
 of any large quantity of material, to the shooting of rubbish, or
-tilting a load from a cart. It is thus used of the method of disposal of
+tilting a load from a [[Cart|cart]]. It is thus used of the method of disposal of
 the masses of gravel, &c., disintegrated by water in the hydraulic
 method of gold mining. A "dump" or "dumping-ground" is thus the place
 where such waste material is deposited. The use of the term "dumping" in
-the economics of international trade has come into prominence in the
+the economics of [[International|international]] trade has come into prominence in the
 tariff reform controversy in the United Kingdom. It is sometimes used
 loosely of the importing of foreign goods at prices below those ruling
 in the importing country; but strictly the term is applied to the

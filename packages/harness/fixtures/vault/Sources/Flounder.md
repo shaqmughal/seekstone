@@ -11,12 +11,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Flounder"
 FLOUNDER, a common term for flat-fish. The name is also more specially
 given to certain varieties, according to local usage. Thus the
 _Pleuronectes flesus_ is the common flounder of English terminology,
-found along the coasts of northern Europe from the Bristol Channel to
-Iceland. It is particularly partial to fresh water, ascending the Rhine
-as far as Cologne. It rarely exceeds a length of 12 in. or a weight of
+found along the coasts of northern Europe from the [[Bristol]] Channel to
+[[Iceland]]. It is particularly partial to fresh water, ascending the Rhine
+as far as [[Cologne]]. It rarely exceeds a length of 12 in. or a weight of
 1½ lb. In American terminology the principal fish of the name are the
 "summer flounders" or "deep-sea flounders," also known in America as
-"plaice" (_Paralichthys dentatus_), as long as 3 ft. and as heavy as 15
+"plaice" (_Paralichthys [[Dentatus|dentatus]]_), as long as 3 ft. and as heavy as 15
 lb.; the "four-spotted flounders" (_Paralichthys oblongus_); the
 "common" or "winter" flounder (_Pseudopleuronectes americanus_); the
 "diamond flounder" (_Hysopsetta guttulata_); and the "pole flounder"
@@ -25,12 +25,12 @@ lb.; the "four-spotted flounders" (_Paralichthys oblongus_); the
 
 
 
-FLOUR and FLOUR MANUFACTURE. The term "flour" (Fr. _fleur_, flower, i.e.
+FLOUR and FLOUR MANUFACTURE. The term "flour" (Fr. _fleur_, [[Flower|flower]], i.e.
 the best part) is usually applied to the triturated farinaceous
-constituents of the wheat berry (see WHEAT); it is, however, also used
+constituents of the wheat [[Berry|berry]] (see WHEAT); it is, however, also used
 of other cereals and even of leguminoids when ground into a fine powder,
 and of many other substances in a pulverulent state, though in these
-cases it is usual to speak of rye flour, bean flour, &c. The flour
+cases it is usual to speak of rye flour, [[Bean|bean]] flour, &c. The flour
 obtained from oats is generally termed oatmeal. In Great Britain wheaten
 flour was commonly known in the 16th and 17th centuries as meal, and up
 to the beginning of the 19th century, or perhaps later, the term mealing
@@ -52,16 +52,16 @@ was peculiarly the duty of the women) would stand and grind, or rather
 pound, meal. Many such stones, known as Bullan stones, still exist in
 Ireland. Similar remains are found in the Orkneys and Shetlands, and it
 is on record that some of these stones have been used for flour-making
-within historic times. Richard Bennett in his _History of Corn Milling_
+within historic times. Richard [[Bennett]] in his _History of [[Corn]] Milling_
 remarks that the Seneca Indians to this day boil maize and crush it into
 a paste between loose stones. In the same way the Omahas pound this
 cereal in holes in the rocks, while the Oregon Indians parch and pound
-the capsules of the yellow lily, much after the fashion described by
+the [[Capsule|capsules]] of the yellow lily, much after the fashion described by
 Herodotus in his account of the ancient Egyptians. In California the
 Indian squaws make a sort of paste by crushing acorns between a round
 stone or "muller," and a cuplike hollow in the surface of a rock.
 Crushing stones are of different shapes, ranging from the primitive
-ball-like implement to an elongated shape resembling the pestle of a
+ball-like [[Implement|implement]] to an elongated shape resembling the pestle of a
 mortar. Mullers of the latter type are not infrequent among prehistoric
 remains in America, while Dr Schliemann discovered several specimens of
 the globular form on the reputed site of the city of Troy, and also
@@ -79,7 +79,7 @@ saddle-stone, the first true grinding implement, consisted of a stone
 with a more or less concave face on which the grain was spread, and in
 and along this hollow surface it was rubbed and ground into coarse meal.
 Saddle-stones have been discovered in the sand caves of Italy, among the
-lake dwellings of Switzerland, in the dolmens of France, in the pit
+[[Lake Dwellings|lake dwellings]] of Switzerland, in the dolmens of France, in the pit
 dwellings of the British Isles, and among the remains of primitive folk
 all the world over. The Romans of the classical period seem to have
 distinguished the saddle-stone from the quern. We find allusions to the
@@ -90,13 +90,13 @@ primitive parts of the world the saddle-stone is not yet extinct, as for
 instance in Mexico. It is known as the _metata_, and is used both for
 grinding maize and for making the maize cakes known as tortillas. The
 same implement is apparently still in use in some parts of South
-America, notably in Chile.
+America, notably in [[Chile]].
 
 
   Quern.
 
 According to Richard Bennett, the quern, the first complete milling
-machine, originated in Italy and is in all probability not older than
+[[Machine|machine]], originated in Italy and is in all probability not older than
 the 2nd century B.C. This is, however, a controverted point. Querns are
 still used in most primitive countries, nor is it certain that they have
 altogether disappeared from remoter districts of Scotland and Ireland.
@@ -109,7 +109,7 @@ with the idea that the ground flour should be provided with a downward
 flow to enable it to fall from the stones. This type did not, however,
 persist. Gradually the convexity disappeared and the surface of the two
 stones became flat or very nearly so. In the upper stone was a species
-of funnel, through which the grain passed as through a hopper, making
+of [[Funnel|funnel]], through which the grain passed as through a hopper, making
 its way thence, as the stone revolved, into the space between the
 running and the bed stone. The ground meal was discharged at the
 periphery. The runner, or upper stone, was provided with a wooden handle
@@ -131,7 +131,7 @@ continued to be driven by criminals.
 
 The Romans are credited by some authorities with having first applied
 power to the driving of millstones, which they connected with
-water-wheels by a horizontal spindle through the intervention of bevel
+water-wheels by a horizontal spindle through the intervention of [[Bevel|bevel]]
 gearing. But long after millstones had been harnessed to water power
 slave labour was largely employed as a motive force. The watermill of
 the Romans was introduced at a relatively early period into Britain.
@@ -144,9 +144,9 @@ Crusaders, who brought them from the East. Steam power is believed to
 have been first used in a British flour mill towards the close of the
 18th century, when Boulton & Watt installed a steam engine in the Albion
 Flour Mills in London, erected under the care of John Rennie. Another
-great engineer, Sir William Fairbairn, in the early days of the 19th
+great engineer, Sir William [[Fairbairn]], in the early days of the 19th
 century, left the impress of his genius on the mill and all its
-accessories. He was followed by other clever engineers, and in the days
+accessories. He was followed by other [[Clever|clever]] engineers, and in the days
 immediately preceding the roller period many improvements were
 introduced as regards the balancing and driving of millstones. The
 introduction of the blast and exhaust to keep the stones cool was a
@@ -177,12 +177,12 @@ either horizontally, or vertically, or obliquely, for the grinding of
 corn, are said to have been used as far back as the 17th century, but if
 this be so it is certain that they were only used in a tentative manner.
 Towards the middle of the 19th century the firm of E.R. & F. Turner, of
-Ipswich, began to build roller mills for breaking wheat as a preliminary
-to the conversion of the resultant middlings on millstones. The rolls
+[[Ipswich]], began to build roller mills for breaking wheat as a preliminary
+to the [[Conversion|conversion]] of the resultant middlings on millstones. The rolls
 were made of chilled iron and were provided with serrated edges, which
 must have exercised a tearing action on the integuments of the berry.
 These mills were built to the design of a German engineer, of the name
-of G.A. Buchholz, and were exhibited at the London exhibition of 1862,
+of G.A. [[Buchholz]], and were exhibited at the London exhibition of 1862,
 but they never came into general use. It has also been stated that as
 early as 1823 a French engineer, named Collier, of Paris, patented a
 roller mill, while five years later a certain Malar took out another
@@ -196,13 +196,13 @@ Walz-Mühle, founded in 1839 by Count Szechenyi, a Hungarian nobleman,
 which took its name from the roller mills with which it was equipped by
 Sulzberger, was for many years a great success; some of its roller mills
 are said to have been kept at work for upwards of forty years, and one
-at least is preserved in the museum at Budapest.
+at least is preserved in the museum at [[Budapest]].
 
 
   Hungarian practice.
 
 It may be noted that Hungarian wheat is hard and flinty and well adapted
-for treatment by rolls. Moreover, gradual reduction, as now understood,
+for treatment by rolls. Moreover, [[Gradual|gradual]] reduction, as now understood,
 was more or less practised in Hungary, even before the introduction of
 roller milling. Though millstones, and not rolls, were used, yet the
 wheat was not floured at one operation, as in typical low or flat
@@ -267,7 +267,7 @@ feeding beasts.
   Porcelain rolls.
 
 The spread of roller milling on the continent of Europe was undoubtedly
-accelerated by the invention of porcelain rolls, by Friedrich Wegmann, a
+accelerated by the invention of porcelain rolls, by [[Friedrich]] Wegmann, a
 Swiss miller, which were brought into general use in the seventh decade
 of the 19th century, and are still widely employed. They are admirably
 fitted for the reduction of semolina, middlings and dunst into flour;
@@ -277,7 +277,7 @@ were introduced into Great Britain in 1877, or thereabouts, and were
 used for several years, but ultimately they almost disappeared from
 British mills. This was partly due to the fact that as made at that date
 they were rather difficult to work, as it was not easy to keep the rolls
-perfectly parallel. Another drawback was their inadaptability to
+perfectly parallel. Another [[Drawback|drawback]] was their inadaptability to
 over-heavy feeds, to which the British, and perhaps still more the
 American, miller is frequently obliged to resort. However, since the
 beginning of the 20th century some of the most advanced flour mills in
@@ -289,12 +289,12 @@ their reduction process.
 
 The birth of roller milling in Great Britain may be said to date from
 1872, when Oscar Oexle, a German milling engineer, erected a set of
-roller mills in the Tradeston Mills, in Glasgow. This was long before
+roller mills in the Tradeston Mills, in [[Glasgow]]. This was long before
 the introduction of automatic roller mills. But the foundations of the
 millstone system were not seriously disturbed till 1877, when a party of
 leading British and Irish millers visited Vienna and Budapest with the
 object of studying roller milling in its native home. In 1878 J.H.
-Carter installed in the mill of J. Boland, of Dublin, what was probably
+[[Carter]] installed in the mill of J. Boland, of Dublin, what was probably
 the first complete automatic roller plant erected in the United Kingdom,
 and in 1881 a milling exhibition held at the Royal Agricultural Hall,
 London, showed the automatic roller system in complete operation. From
@@ -351,7 +351,7 @@ starch granules which are caught as it were in the minute meshes of a
 net. This network is the gluten, and it may be noted that these meshes
 are not of equal consistency throughout the berry, but are usually finer
 and more dense near the husk than in the interior of the kernel. This
-glutinous portion is of great importance to the baker because on its
+glutinous portion is of great importance to the [[Baker|baker]] because on its
 quantity and quality depends the "strength" or rising power of the
 flour, and the aim of modern roller milling is to retain it as
 completely as possible, a matter of some difficulty owing to its close
@@ -382,7 +382,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   break-rolls will make as little as 15% of "break-flour," which is of
   less value, being contaminated with crease dirt, and also because it
   is weak owing to the absence of the gluten cells which adhere more
-  readily to the middlings. Whole wheaten flour, sometimes called Graham
+  readily to the middlings. Whole wheaten flour, sometimes called [[Graham]]
   flour, consists of the entire grain ground up to a uniform mass.
 
 
@@ -390,9 +390,9 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
 
   Wheat cleaning has been well called the foundation of all good
   milling. In the screen house, as the wheat-cleaning department of the
-  mill is termed, will be found an array of machinery almost equal in
+  mill is termed, will be found an [[Array|array]] of machinery almost equal in
   range and variety to that in the mill itself. The wheat, drawn by an
-  elevator from the barge, or hoisted in sacks, is first treated by a
+  elevator from the [[Barge|barge]], or hoisted in sacks, is first treated by a
   machine known as a warehouse separator. This apparatus accomplishes
   its work by means of flat sieves, some of which will be of much
   coarser mesh than others, and of air currents, the adjustment of which
@@ -426,7 +426,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   or bars covered with brush but leaving intermediate spaces; while the
   cone brush consists of beaters covered with fibre arranged like cones
   around a vertical spindle. The object of all these brushes, the
-  cylinder containing them being fitted with an exhaust fan, is to
+  cylinder containing them being fitted with an exhaust [[Fan|fan]], is to
   polish the wheat and remove adhering impurities which the percussive
   action of the scourer may have failed to eliminate, also to remove the
   beard or fuzzy end and any loose portions of the outer husk. But the
@@ -439,7 +439,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   the head of the wheat spouts, or they may consist of magnetized plates
   set at angles over which the wheat will slide. It is not a bad plan to
   place the magnets just before the first set of break-rolls, where they
-  should ensure the arrest of steel and iron particles, which might
+  should ensure the [[Arrest|arrest]] of steel and iron particles, which might
   otherwise get between the rolls and spoil the edges of their grooves,
   and also do damage to the sifting machines. Mention must also be made
   of the automatic scales which are used to check the milling value of
@@ -451,7 +451,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   other end of the beam, the inlet of grain is automatically cut off and
   the skip is discharged, automatically returning to take another
   charge. Each weighing is automatically recorded on a dial. In this way
-  a record can be kept of the gross weight of the uncleaned wheat
+  a record can be kept of the [[Gross|gross]] weight of the uncleaned wheat
   entering the warehouse and of the net weight of the cleaned wheat. The
   difference between the two weighings will, of course, represent the
   loss by cleaning. The percentage of flour obtained from a given wheat
@@ -480,14 +480,14 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   application of both moisture and heat, wheat of the third class must
   be washed with great circumspection. The object of washing machines is
   to agitate the wheat in water till the adherent foreign matters are
-  washed off and any dirt balls broken up and drained off in the waste
+  washed off and any dirt [[Ball|balls]] broken up and drained off in the waste
   water. To this end some washers are fitted with Archimedean worm
   conveyors set either at an inclined angle or horizontally or
-  vertically; or the washer may consist of a barrel revolving in a tank
+  vertically; or the washer may consist of a [[Barrel|barrel]] revolving in a tank
   partly filled with water. Another function of washing machines is to
   separate stones of the same size which are found in several varieties
   of wheat. This separation is effected by utilizing a current of water
-  as a balance strong enough to carry wheat but not strong enough to
+  as a [[Balance|balance]] strong enough to carry wheat but not strong enough to
   carry stones or bodies of greater specific gravity than wheat. This
   current may be led up an inclined worm or may flow horizontally over a
   revolving tray. The washer is followed by a whizzer, which is an
@@ -503,11 +503,11 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   combination of hot and cold air. The wheat is passed between
   perforated metal plates and subjected to a draught first of hot and
   then of cold air. The perforated plates are usually built in the shape
-  of a column, or leg as it is often called, and this is provided with
+  of a column, or [[Leg|leg]] as it is often called, and this is provided with
   two air chambers, an upper one serving as a reservoir for hot, and the
   lower for cold air. The air from both chambers is discharged by
   pressure through the descending layers of wheat, which should not be
-  more than an inch thick; the air is drawn in by a steel-plate fan,
+  more than an [[Inch|inch]] thick; the air is drawn in by a steel-plate fan,
   which is often provided with a divided casing, one side being used for
   cold, and the other for hot air. Coupled with the hot air side is a
   heater consisting of a series of circulating steam-heated pipes. The
@@ -526,7 +526,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   warm and soften (by the condensation of moisture on the grain), but
   these processes are imperfect substitutes for a full washing and
   conditioning plant. Hard wheats will not be injured by a fairly long
-  immersion in water, always provided the subsequent whizzing and
+  [[Immersion|immersion]] in water, always provided the subsequent whizzing and
   drying are efficiently carried out. The second class of semi-hard
   wheats already mentioned must be run more quickly through the washer
   and freed from the water as rapidly as possible. Still more is this
@@ -545,7 +545,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
 
     Effect of damp.
 
-  Wheats which have been exposed to the action of water during harvest
+  Wheats which have been exposed to the action of water during [[Harvest|harvest]]
   do not necessarily yield unsound flour; the matter is a question of
   the amount of moisture absorbed. But it must be remembered that it is
   not so much the water itself which degrades the constituents of the
@@ -558,7 +558,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   drying damp flour has also good results. Long before the roller
   milling period it was found that only flour which had been dried (in a
   kiln) could safely be taken on long sea voyages, especially when the
-  vessel had to navigate warm latitudes. It may be noted that in the
+  vessel had to navigate warm [[Latitude|latitudes]]. It may be noted that in the
   days of millstone milling it was far more difficult to produce good
   keeping flour. The wheat berry being broken up and triturated in one
   operation, the flour necessarily contained a large proportion of
@@ -590,7 +590,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   the case. The first pair of break-rolls used to be called the
   splitting rolls, because their function was supposed to be to split
   the berry longitudinally down its crease, so as to give the miller an
-  opportunity of removing the dirt between the two lobes of the berry by
+  opportunity of removing the dirt between the two [[Lobe|lobes]] of the berry by
   means of a brush machine. The dirt was in many cases no more than the
   placenta already described, which shrivelling up took, like all
   vegetable fibre, a dark tint. The neat split along the crease was not,
@@ -636,7 +636,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   gentle action. Scalping requires a separating and sifting, not a
   scouring action. The break products are usually separated on a sieve
   covered with wire or perforated zinc plates. Generally speaking, two
-  sieves are in one frame and are run at a slight incline. The throughs
+  sieves are in one [[Frame|frame]] and are run at a slight incline. The throughs
   of the top sieve fall on the sieve below, while the rejections or
   overtails of the first sieve are fed to the next break. The
   "throughs," or what has passed this sieve, are graded by the next
@@ -646,7 +646,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   has come into general use on the continent of Europe, and to a lesser
   extent in Great Britain and America, is known as the plansifter. This
   machine, of Hungarian origin, is simply a collection of superimposed
-  flat sieves in one box, and will scalp or sort out any kind of break
+  flat sieves in one [[Box|box]], and will scalp or sort out any kind of break
   stock very efficiently. A system of grading the tailings, that is, the
   rejections of the scalpers, introduced by James Harrison Carter
   (Carter-Zimmer patent), was known as pneumatic sorting. Its object was
@@ -656,7 +656,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   current of air drawn through the casing of the sorter allowed the
   heaviest and best material to drop down straight, while the lighter
   stuff was deposited in one or other of further compartments formed by
-  obliquely placed adjustable cant boards. So searching was this
+  obliquely placed adjustable [[Cant|cant]] boards. So searching was this
   grading, that from the first sorter of a four-break plant four
   separations would be obtained, the first going to the second break,
   the second joining the first separation from the second sorter and
@@ -683,7 +683,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   current of air is employed to weigh these fragments of the wheat berry
   as in a balance and to separate them while they pass over a
   silk-covered sieve. To this end the semolina or middlings are fed on a
-  sieve vibrated by an eccentric and set at a slight downward angle.
+  sieve vibrated by an [[Eccentric|eccentric]] and set at a slight downward angle.
   This sieve is installed in an air-tight longitudinal wooden chamber
   with glass windows on either side, through which the process of
   purifying can be watched. Upwards through this sieve a fan constantly
@@ -758,7 +758,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   73% of the wheat berry. The residue, with the exception of a very
   small proportion of waste, is offal, which is divided into various
   grades and sold. Profitable markets for British-made bran have been
-  found in Scandinavia, and especially in Denmark. In millstone milling
+  found in Scandinavia, and especially in [[Denmark]]. In millstone milling
   the yield of flour probably averaged 75 to 80%, but a certain
   proportion of this was little more than offal. The length of the flour
   yield taken by British millers varies in different parts of the
@@ -773,7 +773,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   peculiarities of the local trade.
 
 
-    Bleaching of flour.
+    [[Bleaching]] of flour.
 
   Early in the 19th century a French chemist, J.J.E. Poutet, discovered
   that nitrous acid and oxides of nitrogen act on some fluid and
@@ -783,7 +783,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   is considered, is obvious, but it was years before any attempt was
   made to bleach flour. The first attempts at bleaching seem to have
   been made on the wheat itself rather than on the flour. In 1879 a
-  process was patented for bleaching grain by means of chlorine gas, and
+  process was patented for bleaching grain by means of [[Chlorine|chlorine]] gas, and
   about 1891 a suggestion was made for bleaching grain by means of
   electrolysed sea-water. In 1895 a scheme was put forward for treating
   grain with sulphurous acid, and about two years later it was proposed
@@ -793,7 +793,7 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   to employ the Röntgen rays for the same purpose. In 1898 Emile Frichot
   took out a patent for using ozone and ozonized air for
   flour-bleaching. The patent (No. 1661 of 1901) taken out by J. & S.
-  Andrews of Belfast recited that flour is known to improve greatly if
+  Andrews of [[Belfast]] recited that flour is known to improve greatly if
   kept for some time after grinding, and the purpose of the invention it
   covered was to bring about this improvement or conditioning not only
   immediately after grinding, but also to a greater extent than can be
@@ -804,11 +804,11 @@ have, in common with the bran, no nutritive value. (See also WHEAT.)
   having found that chlorine, bromine and other substances capable of
   liberating oxygen were also more or less efficacious. They claimed
   that while exercising no deleterious action their treatment made the
-  flour whiter, improved its baking qualities, and rendered it less
+  flour whiter, improved its [[Baking|baking]] qualities, and rendered it less
   liable to be attacked by mites or other organisms. Under the patent,
-  No. 14006 of 1903, granted to J.N. Alsop of Kentucky the flour was
+  No. 14006 of 1903, granted to J.N. Alsop of [[Kentucky]] the flour was
   treated with atmospheric air which had been subjected to the action of
-  an arc or flaming discharge of electricity, with the purpose of
+  an arc or flaming [[Discharge|discharge]] of electricity, with the purpose of
   purifying it and improving its nutritious properties. The Andrews and
   Alsop patents became the objects of extended litigation in the English
   courts, and it was held that the gaseous medium employed by Alsop was

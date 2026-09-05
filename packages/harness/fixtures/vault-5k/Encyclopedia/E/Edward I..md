@@ -18,11 +18,11 @@ the duchy of Gascony, the earldom of Chester, the king's lands in Wales
 and much else. The provision made was so liberal that Henry's subjects
 declared he was left no better than a mutilated king. In May 1254 Edward
 went to Gascony to take possession of his inheritance. He then crossed
-the Pyrenees, and in October was dubbed knight by Alphonso and married
+the Pyrenees, and in October was dubbed [[Knight|knight]] by Alphonso and married
 to Eleanor at the Cistercian convent of Las Huelgas, near Burgos. He
 remained in Gascony till November 1255, but his father was too jealous
 to allow him a free hand in its administration. After his return, the
-attempts of his agents to establish English laws in his Welsh
+attempts of his agents to establish [[English Law|English laws]] in his Welsh
 possessions brought Edward into hostile relations with the Welsh. Here
 also his father would give him no help, and his first campaign brought
 him little result. Edward became extremely unpopular through his
@@ -37,12 +37,12 @@ remained an enemy of Montfort, though he strove to infuse his father's
 party with a more liberal and national spirit. He was the soul of the
 reconstituted royalist party formed about 1263. In 1264 he took a
 prominent part in the fighting between the king and the barons. At the
-battle of Lewes his rash pursuit of the Londoners contributed to his
+battle of [[Lewes]] his rash pursuit of the Londoners contributed to his
 father's defeat. Two days later Edward surrendered to Leicester as a
 hostage for the good behaviour of his allies. He was forced to give up
 his earldom of Chester to Leicester, but at Whitsuntide 1265 he escaped
 from his custodians, and joined the lords of the Welsh march who were
-still in arms. With their aid he defeated and slew Leicester at Evesham
+still in arms. With their aid he defeated and slew Leicester at [[Evesham]]
 on the 4th of August 1265.
 
 For the rest of Henry III.'s reign Edward controlled his father's policy
@@ -61,9 +61,9 @@ On the 20th of November, the day of Henry's funeral, he was recognized
 as king by the English barons, and from that day his regnal years were
 subsequently computed. Affairs in England were so peaceful that Edward
 did not hurry home. After a slow journey through Italy and France he did
-homage to his cousin Philip III. at Paris, on the 26th of July 1273. He
+[[Homage|homage]] to his [[Cousin|cousin]] Philip III. at Paris, on the 26th of July 1273. He
 then went to Gascony, where he stayed nearly a year. At last he landed
-at Dover on the 2nd of August 1274, and was crowned at Westminster on
+at [[Dover]] on the 2nd of August 1274, and was crowned at Westminster on
 the 18th of the same month.
 
 Edward was thirty-five years old when he became king, and the rude
@@ -71,7 +71,7 @@ schooling of his youth had developed his character and suggested the
 main lines of the policy which he was to carry out as monarch. He was a
 tall, well-proportioned and handsome man, extravagantly devoted to
 military exercises, tournaments and the rougher and more dangerous forms
-of hunting. He had learned to restrain the hot temper of his youth, and
+of [[Hunting|hunting]]. He had learned to restrain the hot temper of his youth, and
 was proud of his love of justice and strict regard to his plighted word.
 His domestic life was unstained, he was devoted to his friends, and
 loyal to his subordinates. Without any great originality either as
@@ -94,7 +94,7 @@ Bath and Wells. Administrative reform soon involved legislation, and
 from 1275 to 1290 nearly every year was marked by an important law. Few
 of these contained anything that was very new or original. They rather
 illustrate that policy which caused Dr Stubbs to describe his reign as a
-"period of definition." Yet the results of his conservative legislation
+"period of [[Definition|definition]]." Yet the results of his conservative legislation
 were almost revolutionary. In particular he left the impress of his
 policy on the land laws of England, notably by the clause _De Donis_ of
 the Westminster statute of 1285, and the statute _Quia Emptores_ of
@@ -149,7 +149,7 @@ Edward crossed the Channel in 1286, to perform homage to his successor,
 Philip the Fair. He remained abroad till 1289, busied in attempts to
 improve the administration of Gascony, and making repeated and finally
 successful efforts to end by his mediation the still continuing struggle
-between the houses of Anjou and Aragon. His long absence threw the
+between the houses of Anjou and [[Aragon]]. His long absence threw the
 government of England into confusion, and on his return in 1289 he was
 compelled to dismiss most of his judges and ministers for corruption. In
 1290 he expelled all Jews from England.
@@ -166,7 +166,7 @@ between them. Edward accepted the position, but insisted that, before he
 acted, the Scots should recognize him as their overlord. The claimants
 set the example of submission, and soon the chief Scots nobles followed.
 Thereupon Edward undertook the arbitration, and in 1292 adjudged the
-throne to John Baliol. The new king did homage to Edward, but his
+throne to John [[Baliol]]. The new king did homage to Edward, but his
 subjects soon began to resent the claims of jurisdiction over Scotland,
 which Edward declared were the natural results of his feudal supremacy.
 At last the Scots deprived John of nearly all his power, repudiated
@@ -199,7 +199,7 @@ and conquered Scotland in 1296. When quiet was restored to Britain, he
 hoped to throw all his energy into the recovery of Gascony, but new
 troubles arose at home which once more diverted him from his supreme
 purpose. Led by Archbishop Winchelsea, Peckham's successor, the clergy
-refused to pay taxes in obedience to the bull of Pope Boniface VIII.,
+refused to pay taxes in obedience to the [[Bull|bull]] of Pope Boniface VIII.,
 called _Clericis Laicos_. Edward declared that if the clergy would not
 contribute to support the state, the state could afford them no
 protection. But the clerical opposition was soon joined by a baronial
@@ -208,7 +208,7 @@ barons declined to join in an expedition to Gascony, and Edward was
 forced to sail to the French war, leaving them behind. Thereupon the
 recalcitrant barons forced upon the regency a fresh confirmation of the
 charters, to which new articles were added, safeguarding the people from
-arbitrary taxation. Edward at Ghent reluctantly accepted this
+arbitrary taxation. Edward at [[Ghent]] reluctantly accepted this
 _Confirmatio Cariarum_, but even his submission did not end the crisis.
 In the same year (1297), all Scotland rose in revolt under the popular
 hero William Wallace, and next year (1298), Edward was forced to
@@ -244,19 +244,19 @@ primus Scottorum malleus hic est. Pactum serva._
 
 By Eleanor of Castile Edward had four sons, his successor Edward II. and
 three who died young, and nine daughters, including Joan, or Joanna
-(1272-1307), the wife of Gilbert de Clare, earl of Gloucester (d. 1295),
+(1272-1307), the wife of Gilbert de [[Clare]], earl of Gloucester (d. 1295),
 and then of Ralph de Monthermer; Margaret (1275-1318), the wife of John
-II., duke of Brabant; and Eleanor (1282-1316), who married John I.,
+II., duke of [[Brabant]]; and Eleanor (1282-1316), who married John I.,
 count of Holland, and then Humphrey Bohun, earl of Hereford (d. 1322).
 By Margaret of France the king had two sons: Thomas of Brotherton, earl
 of Norfolk, and Edmund of Woodstock, earl of Kent.
 
   The principal modern authorities for this reign are: W. Stubbs,
   _Constitutional History of England_, vol. ii. chaps. xiv. and xv.
-  (1896); T.F. Tout, _Edward I._ (1893), and _Political History of
+  (1896); T.F. Tout, _Edward I._ (1893), and _[[Political History]] of
   England, 1216-1377_, pp. 136-235 (1905); R.B. Seeley, _Life and Reign
   of Edward I._ (1872); R. Pauli, _Geschichte von England_, iv. pp.
-  1-198 (Hamburg, 1864-1875); W. Hunt, article on "Edward I." in
+  1-198 (Hamburg, 1864-1875); W. [[Hunt]], article on "Edward I." in
   _Dictionary of National Biography_; J.E. Morris, _Welsh Wars of Edward
   I._ (Oxford, 1901); and C.V. Langlois's _Philippe le Hardi_ (Paris,
   1887).     (T. F. T.)

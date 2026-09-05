@@ -5,7 +5,7 @@ Nansemond and Elizabeth rivers of Virginia, U.S.A., pass (between Old
 Point Comfort to the N. and Sewell's Point to the S.) into Chesapeake
 Bay. It is an important highway of commerce, especially for the cities
 of Norfolk, Portsmouth and Newport News, and is the chief rendezvous of
-the United States navy. For a width of 500 ft. the Federal government
+the United States navy. For a width of 500 ft. the [[Federal Government|Federal government]]
 during 1902-1905 increased its minimum depth at low water from 25-1/2
 ft. to 30 ft. The entrance from Chesapeake Bay is defended by Fortress
 Monroe on Old Point Comfort and by Fort Wood on a small island called

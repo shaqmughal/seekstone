@@ -18,7 +18,7 @@ which brought him in touch with Richelieu, who shortly afterwards
 nominated him _intendant de justice_ in Béarn (1631), and in 1639
 summoned him to Paris with the title of counsellor of state. The
 following year, the question of the intervention of kings in the
-election of bishops having been raised in a pamphlet by Charles Hersent
+election of bishops having been raised in a pamphlet by Charles [[Hersent]]
 (_Optalus Gallus de cavendo schismate_, 1640), Marca defended what were
 then called the liberties of the Gallican Church, in his celebrated
 treatise _De concordia sacerdotii et imperii, seu de libertalibus
@@ -29,13 +29,13 @@ but the pope refused to give his sanction. It was only after Marca had
 formally denied those propositions contained in _De concordia_ which
 were displeasing to Rome that he was proclaimed in the consistory (Jan.
 13, 1648). During this time, and until 1651, he was governor of the
-province of Catalonia, then occupied by the French. After the Treaty of
+province of [[Catalonia]], then occupied by the French. After the Treaty of
 the Pyrenees, he was sent to direct the conference which had been formed
 to fix the limits of Roussillon, which had just been ceded to France
 (1660). Marca now interested himself in the fortunes of Mazarin, and
 remained faithful to him even during the Fronde. As a recompense, he
 was nominated archbishop of Toulouse (May 28, 1652), but had to wait for
-the bulls of investiture till the 23rd of March 1654. It was difficult
+the [[Bull|bulls]] of [[Investiture|investiture]] till the 23rd of March 1654. It was difficult
 for him to please both pope and king. In the struggle against the
 Jansenists he used all the influence he had with the clergy to secure
 the passage of the apostolic constitution of the 31st of March 1653
@@ -43,7 +43,7 @@ the passage of the apostolic constitution of the 31st of March 1653
 évêques au sujet des cinq propositions_, 1657); but in the rebellion
 raised by Retz, archbishop of Paris, against the king, he took the part
 of the king against the pope. Michel Le Tellier having ordered him to
-refute a thesis of the college of Clermont on the infallibility of the
+refute a thesis of the college of Clermont on the [[Infallibility|infallibility]] of the
 pope, Marca wrote a treatise which was most Gallican in its ideas, but
 refused to publish it for fear of drawing down "the indignation of
 Rome." These tactics were successful, and when Retz, weary of a struggle
@@ -52,11 +52,11 @@ successor (Feb. 26, 1662). He did not derive much profit from this new
 favour, as he died on the 29th of June following, without his nomination
 having been sanctioned by the pope.
 
-Marca, clever and covetous, was also an historian of note. When very
+Marca, [[Clever|clever]] and covetous, was also an historian of note. When very
 young he showed his interest in the past history of his native land, and
 in 1617, at the age of twenty-three, he had set to work looking through
 archives, copying charters, and corresponding with the principal men of
-learning of his time, the brothers Dupuy, André Duchesne and Jean Besly,
+learning of his time, the brothers [[Dupuy]], André Duchesne and Jean Besly,
 whom he visited in Poitou. His _Histoire de Béarn_ was published at
 Paris in 1640. It was not so well received as his _De concordia_, but is
 more appreciated by posterity. If Marca's criticism is too often
@@ -67,20 +67,20 @@ end with an interesting collection of charters. It is to be regretted
 that this incomplete work does not go beyond 1300. During his long stay
 in Catalonia he made preparations for a geographical and historical
 description of this province, which was bound to France by so many
-political and literary associations. Baluze, who became his secretary in
+political and literary associations. [[Baluze]], who became his secretary in
 1656, helped him with the work and finished it, adding clever appendices
 and publishing the whole in 1688 under the title _Marca hispanica_.
 
-Marca married Marguerite de Forgues on the 4th of June 1618, and had one
+Marca married [[Marguerite]] de Forgues on the 4th of June 1618, and had one
 son and three daughters. His son, Galactoire, who was president of the
 parlement of Navarre, died on the 10th of February 1689.
 
   Marca's biography was written in Latin by two of his intimate friends,
   Étienne Baluze, his secretary (_Epistola ad Samuelem Sorbierium, de
   vita, gestis et scriptis Petri de Marca_, Paris, 1663), and his
-  cousin, Paul de Faget (at the beginning of a collection of Marca's
+  [[Cousin|cousin]], Paul de Faget (at the beginning of a collection of Marca's
   theological pamphlets, first published by Paul de Faget in 1668). This
-  contained four treatises on the Eucharist, the sacrifice of the Mass,
+  contained four treatises on the [[Eucharist]], the sacrifice of the Mass,
   the erection of the patriarchate of Constantinople (in Latin), and the
   sacrament of the Eucharist (in French). It was supposed to contain
   heretical propositions and caused a good deal of scandal, inciting
@@ -156,7 +156,7 @@ Virgin," thirty-seven of his "Little Passion," on wood, and a number of
 single pieces. According to Vasari, Dürer's indignation over those
 counterfeits was the cause of his journey to Venice, where he is said to
 have lodged a complaint against Marcantonio, and induced the Senate to
-prohibit the counterfeiting of his monogram, at any rate, upon any
+prohibit the [[Counterfeiting|counterfeiting]] of his monogram, at any rate, upon any
 future imitations of the kind. Vasari's account must certainly be
 mistaken, inasmuch as Dürer's journey to Venice took place in 1506, and
 neither of the two series of woodcuts imitated by Marcantonio was
@@ -178,19 +178,19 @@ gained to account in interpreting the work of a master of a quite other
 stamp. Up till the year 1510 Marcantonio had lived entirely at Bologna,
 with the exception, it would appear, of a visit or visits to Venice. (A
 few of his early engravings are from drawings of the school of
-Giorgione.) Very soon afterwards he was attracted, for good and all,
+[[Giorgione]].) Very soon afterwards he was attracted, for good and all,
 into the circle which surrounded Raphael at Rome. Where or when he had
 first made Raphael's acquaintance is uncertain. His passage to Rome by
 way of Florence has been supposed to be marked by an engraving, dated
 1510, and known as "The Climbers," _Les Grimpeurs_ (Bartsch, 487), in
 which he has reproduced a portion of the design of Michelangelo's
-cartoon of the Soldiers surprised bathing, and has added behind the
+[[Cartoon|cartoon]] of the Soldiers surprised bathing, and has added behind the
 figures a landscape imitated from the then young Dutch engraver Lucas of
 Leiden. Contemporary or somewhat earlier than this is a large engraving
 done by him from a design by Baldassare Peruzzi, a Sienese artist drawn
 about the same time into the Raphael circle. The piece in which he is
 recorded to have first tried his hand after Raphael himself is the
-Lucretia (Bartsch 192). From that time until he disappears in the
+[[Lucretia]] (Bartsch 192). From that time until he disappears in the
 catastrophe of 1527, Marcantonio was almost exclusively engaged in
 reproducing by means of engraving the designs of Raphael or of his
 immediate pupils. Raphael, the story goes, was so delighted with the
@@ -217,16 +217,16 @@ them he enters into the genius of his master, and loses little of the
 chastened science and rhythmical purity of Raphael's contours, or of the
 inspired and winning sentiment of his faces; while in the parts where he
 is left to himself--the rounding and shading, the background and
-landscape--he manages his burin with all the skill and freedom which he
+landscape--he [[Manage|manages]] his burin with all the skill and freedom which he
 had gained by the imitation of northern models, but puts away the
 northern emphasis and redundance of detail. His work, however, does not
 long remain at the height marked by pieces like the Lucretia, the Dido,
-the Judgment of Paris, the Poetry, the Philosophy, or the first Massacre
+the Judgment of Paris, the Poetry, the Philosophy, or the first [[Massacre]]
 of the Innocents. Marcantonio's engravings after the works of Raphael's
 later years are cold, ostentatious, and soulless by comparison. Still
 more so, as is natural, were those which he and his pupils produced
 after the designs of the degenerate scholars of Raphael and
-Michelangelo, of a Giulio Romano, a Polidoro, or a Bandinelli.
+Michelangelo, of a [[Giulio Romano]], a Polidoro, or a Bandinelli.
 Marcantonio's association with Giulio Romano was the cause of his first
 great disaster in life. He engraved a series of obscene designs by that
 painter in illustration of the _Sonnetti lussuriosi_ of Pietro Aretino,

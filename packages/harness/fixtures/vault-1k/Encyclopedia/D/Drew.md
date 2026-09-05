@@ -36,7 +36,7 @@ of the _Imperial Magazine_, then newly established, and in 1821 to
 London, the business being then transferred to the capital. Here he
 filled the post of editor till his death, and had also the supervision
 of all works issued from the Caxton Press. He was an unsuccessful
-competitor for the Burnett prize offered in 1811 for an essay on the
+competitor for the [[Burnett]] prize offered in 1811 for an essay on the
 existence and attributes of God. The work which he then wrote, and which
 in his own judgment was his best, was published in 1820, under the title
 of _An Attempt to demonstrate from Reason and Revelation the Necessary

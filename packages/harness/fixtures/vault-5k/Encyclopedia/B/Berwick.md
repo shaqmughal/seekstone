@@ -11,15 +11,15 @@ BERWICK, JAMES FITZJAMES, DUKE OF (1670-1734), marshal of France, was the
 natural son of James, duke of York, afterwards James II. of England, by
 Arabella Churchill (1648-1730), sister of the great duke of Marlborough.
 He was born at Moulins (Bourbonnais) on the 21st of August 1670. He
-received his education in France at the hands of the Jesuits, and at the
+received his education in France at the hands of the [[Jesuits]], and at the
 age of fifteen, his father having succeeded to the throne, he was sent to
 learn the business of a soldier under the famous general of the empire,
-Charles of Lorraine. He served his first campaign in Hungary, and was
+Charles of [[Lorraine]]. He served his first campaign in Hungary, and was
 present at the siege of Buda. He then returned to England, was made a
 colonel of the 8th Foot, and in 1687 created duke of Berwick, earl of
 Teignmouth and Baron Bosworth. He then went out afresh to Hungary and was
 present at the battle of Mohacz. On his return to England he was made
-K.G., colonel of the 3rd troop of horse guards (Royal Horse Guards Blue)
+K.G., colonel of the 3rd troop of horse [[Guards|guards]] (Royal Horse Guards Blue)
 and governor of Portsmouth, but soon afterwards the revolution forced him
 to flee to France. He served under James II. in the campaign in Ireland,
 and was present at the battle of the Boyne. For a short time he was left
@@ -47,7 +47,7 @@ commander-in-chief of the Franco-Spanish armies. On the 25th of April
 Englishman at the head of a French army defeated Ruvigny, earl of Galway,
 a Frenchman at the head of an English army. The victory established
 Philip V. on the throne of Spain. Berwick was made a peer of France by
-Louis XIV., and duke of Liria and of Xereca and lieutenant of Aragon by
+Louis XIV., and duke of Liria and of Xereca and lieutenant of [[Aragon]] by
 Philip. Thenceforward Berwick was recognized as one of the greatest
 generals of his time, and successively commanded in nearly all the
 theatres of war. From 1709 to 1712 he defended the south-east frontier of
@@ -72,7 +72,7 @@ general of the 18th century, not less in his care for the lives of his
 men than in his punctiliousness and rigidity in matters of discipline.
 
   The _Memoires_ of Marshal Berwick, revised, annotated and continued by
-  the Abbe Hooke, were published by the marshal's grandson in 1778.
+  the Abbe [[Hooke]], were published by the marshal's grandson in 1778.
   Montesquieu made many contributions to this.
 
 ## References

@@ -16,7 +16,7 @@ head considerably flattened, the body short and thick, the legs not high
 enough to prevent the body dragging somewhat on the ground, the eyes
 large and almost destitute of eyelids, and the tail short and in some
 cases nearly as thick as the body, the geckoes altogether lack the
-litheness and grace characteristic of most lizards. Their colours also
+litheness and grace characteristic of most lizards. Their [[Colours|colours]] also
 are dull, and to the weird and forbidding aspect thus produced the
 general prejudice against those creatures in the countries where they
 occur, which has led to their being classed with toads and snakes, is no
@@ -25,7 +25,7 @@ their saliva to produce painful cutaneous eruptions; even their touch
 was thought sufficient to convey a dangerous taint. It is needless to
 say that in this instance the popular mind was misled by appearances.
 The geckoes are not only harmless, but are exceedingly useful creatures,
-feeding on insects, which, owing to the great width of their oesophagus,
+feeding on [[Insect|insects]], which, owing to the great width of their oesophagus,
 they are enabled to swallow whole, and in pursuit of which they do not
 hesitate to enter human dwellings, where they are often killed on
 suspicion. The structure of the toes in these lizards forms one of
@@ -37,9 +37,9 @@ Australia.]
 [Illustration: Lower Surface of the Toe of (a) _Gecko_, (b)
 _Hemidactylus_--enlarged.]
 
-Most geckoes have adhesive digits and toes, by means of which they are
+Most geckoes have adhesive [[Digit|digits]] and toes, by means of which they are
 enabled not only to climb absolutely smooth and vertical surfaces, for
-instance a window-pane, but to run along a white-washed ceiling, back
+instance a window-pane, but to run along a white-washed [[Ceiling|ceiling]], back
 downwards. The adhesion is not produced by sticky matter but by numerous
 transverse lamellae, each of which is further beset with tiny hair-like
 excrescences. The arrangement of the lamellae and pads differs much in
@@ -64,7 +64,7 @@ genera, are cosmopolitan within the warmer zones, including New Zealand,
 and even the remotest volcanic islands. This wide distribution is due
 partly to the great age of the suborder (although fossils are unknown),
 partly to their being able to exist for several months without food so
-that, concealed in hollow trunks of trees, they may float about for a
+that, concealed in hollow trunks of trees, they may [[Float|float]] about for a
 very long time. Ships, also, act as distributors. In south Europe occur
 only _Hemidactylus turcicus_, _Tarentola mauritanica (Platydactylus
 facetanus)_ and _Phyllodactylus europaeus_.

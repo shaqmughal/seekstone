@@ -7,10 +7,10 @@ type: note
 
 # Broderip
 
-BRODERIP, WILLIAM JOHN (1789-1859), English naturalist, was born in Bristol
+BRODERIP, WILLIAM JOHN (1789-1859), English naturalist, was born in [[Bristol]]
 on the 21st of November 1789. After graduating at Oxford he was called to
 the bar in 1817, and for some years was engaged in law-reporting. In 1822
-he was appointed a metropolitan police magistrate, and filled that office
+he was appointed a metropolitan police [[Magistrate|magistrate]], and filled that office
 until 1856, first at the Thames police court and then at Westminster. His
 leisure was devoted to natural history, and his writings did much to
 further the study of zoology in England. The zoological articles in the

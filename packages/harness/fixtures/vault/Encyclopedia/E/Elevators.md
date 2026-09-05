@@ -6,7 +6,7 @@ topic: history
 
 # Elevators
 
-ELEVATORS, LIFTS or HOISTS, machines for raising or lowering loads,
+ELEVATORS, LIFTS or HOISTS, [[Machine|machines]] for raising or lowering loads,
 whether of people or material, from one level to another. They are
 operated by steam, hydraulic or electric power, or, when small and
 light, by hand. Their construction varies with the magnitude of the work
@@ -50,7 +50,7 @@ cage generally serves to apply the pressure when raising, and to reduce
 it when lowering the load. The most common form of hydraulic elevator,
 for important work and under usual conditions of operation, as in
 cities, consists of a suspended cage, carried by a tackle, the running
-part of which is connected with a set of pulleys at each end of a frame
+part of which is connected with a set of pulleys at each end of a [[Frame|frame]]
 (fig. 2). The rope is made fast at one end, and its intermediate part is
 carried round first one pulley at the farther end of the frame and then
 round another at the nearer end, and so on as often as is found
@@ -60,7 +60,7 @@ their separation, to haul in on the running part, or, by their
 approximation, to permit the weight of the cage to haul out the rope. By
 this alternate hauling and "rendering" of the rope the cage is raised
 and lowered. The use of a number of parallel and independent sets of
-pulleys and tackles assures safety in case of the breakage of any one,
+pulleys and tackles [[Assur|assures]] safety in case of the breakage of any one,
 each being strong enough alone to hold the load. The movement of the
 pair of pulley shafts is effected by a water-pressure engine, actuating
 the plunger of a pump which is similar to that used in the preceding
@@ -68,14 +68,14 @@ apparatus, but being relatively of short stroke and large diameter, is
 more satisfactory in design and construction as well as in operation.
 Electricity may be applied to elevators of this type by attaching the
 travelling sheaves to a nut in which works a screwed shaft driven by an
-electric motor. In other electric lifts the cables which support the
-cage are wound on a drum which is turned by a motor, the drum being
+electric motor. In other electric lifts the [[Cable|cables]] which support the
+cage are wound on a [[Drum|drum]] which is turned by a motor, the drum being
 connected to the motor-shaft either by a series of pinions or by a
 worm-gear. The drum may also be worked by a steam or gas engine. Where
 the traffic is not very heavy, a form of elevator that requires no
 attendant is convenient. In this any one wishing to use the lift has
 merely to press a button placed by the side of the lift-gate on the
-floor on which he happens to be standing, when the car will come to him;
+floor on which he happens to be standing, when the [[Car|car]] will come to him;
 and having entered it he can cause it to travel to any floor he desires
 by pressing another button inside the car. The motive power in such
 cases may be either electric or hydraulic, but the control of the
@@ -86,7 +86,7 @@ switches or valves that govern the action of the apparatus is electric.
 
 The history of the elevator is chronologically extensive, but only since
 1850 has rapid or important progress been effected. In that year George
-H. Fox & Co. built an elevator operated by the motion of a vertical
+H. [[Fox]] & Co. built an elevator operated by the motion of a vertical
 screw, the nut on which carried the cage. This device was used in a
 number of instances, especially in hotels in the large cities, during
 the succeeding twenty years, and was then generally supplanted by the
@@ -99,9 +99,9 @@ and the best construction of each for its peculiar work. Whatever the
 class, the following are the essentials of design, construction and
 operation: the elevator must be safe, comfortable, speedy and
 convenient, must not be too expensive in either first cost or
-maintenance, and must be absolutely trustworthy. It must not be liable
+[[Maintenance|maintenance]], and must be absolutely trustworthy. It must not be liable
 to fracture of any element of the hoisting gear that will permit either
-the fall of the cage or its projection by an overweighted balance
+the fall of the cage or its projection by an overweighted [[Balance|balance]]
 upwards against the top of its shaft. It must be possible to stop it,
 whether in regular working or in emergency, or when accident occurs,
 with sufficient promptness, yet without endangering life or property, or
@@ -133,9 +133,9 @@ there are four to six for each car and counter-weight, has a tenacity of
 set of rope is assumed to be not over 9500 lb., the remainder of the
 load being taken by the counterbalance. Oil "dash-pots" or buffers, into
 which enter plungers attached to the bottom of the cage, prevent too
-sudden a stop in case of accident, and safety-clutches with friction
+sudden a stop in case of accident, and safety-clutches with [[Friction|friction]]
 adjustments of ample power and fully tested before use give ample
-insurance against a fall even if all the cables should yield at once--an
+[[Insurance|insurance]] against a fall even if all the cables should yield at once--an
 almost inconceivable contingency. The efficiency, i.e. the ratio of work
 performed to power expended in the same time, was in these elevators
 found by test to be between 70 and 75%.
@@ -165,11 +165,11 @@ distance below the third floor, and then carried straight to the bottom.
 An inlet valve admits air freely as the cage rises, and an adjusted
 safety-valve provides against excess pressure. A "car," falling freely
 from the twentieth storey, was checked by this arrangement without
-injury to a basket of eggs placed on its floor. Other safety devices
+injury to a basket of [[Egg|eggs]] placed on its floor. Other safety devices
 consist of catches under the floor of the cage, so arranged that they
 are held out of engagement by the pull on the cables. But if the strain
 is suddenly relieved, as by breakage of a cable or accident to the
-engine or motor, they instantly fly into place and, engaging strong
+engine or motor, they instantly [[Fly|fly]] into place and, engaging strong
 side-struts in the shaft, hold the car until it can be once more lifted
 by its cables. These operate well when the cables part at or near the
 car, but they are apt to fail if the break occurs on the opposite side

@@ -23,7 +23,7 @@ condensation of ortho-diketones with ammonia and aldehydes
                                       R·C - NH /
 
 from thioimidazolones by oxidation with dilute nitric acid (W.
-Marckwald, _Ber._, 1892, 25, p. 2361); by distillation of hydrobenzamide
+Marckwald, _Ber._, 1892, 25, p. 2361); by [[Distillation|distillation]] of hydrobenzamide
 and similarly constituted bodies; and by the action of phosphorus
 pentachloride on symmetrical dimethyloxamide, a methylchlorglyoxaline
 being formed (O. Wallach, _Ann._, 1877, 184, p. 500).
@@ -35,7 +35,7 @@ agents, and acidyl groups are only introduced with difficulty.
   _Imidazole_ (glyoxaline), C3H4N2, crystallizes in thick prisms which
   melt at 88-89° C. and boil at 253° C., and are readily soluble in
   alcohol and in water. It is unaffected by chromic acid, but potassium
-  permanganate oxidizes it to formic acid. It forms salts with acids.
+  permanganate oxidizes it to [[Formic Acid|formic acid]]. It forms salts with acids.
 
   _Lophine_ (triphenylglyoxaline),
 
@@ -44,7 +44,7 @@ agents, and acidyl groups are only introduced with difficulty.
     C6H5·C-NH  /
 
   is formed by the dry distillation of hydrobenzamide, or by saturating
-  an alcoholic solution of benzil and benzaldehyde (at a temperature of
+  an alcoholic solution of benzil and [[Benzaldehyde|benzaldehyde]] (at a temperature of
   40° C.) with ammonia. It crystallizes in needles which melt at 275° C.
   It is a weak base. When heated to 300° C. with hydriodic acid and
   hydrochloric acid, in the presence of some red phosphorus, it yields

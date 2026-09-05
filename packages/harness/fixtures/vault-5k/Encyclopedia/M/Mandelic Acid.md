@@ -10,11 +10,11 @@ tags: [fisheries-studies, republic-theory]
 
 MANDELIC ACID (Phenylglycollic Acid), C8H8O3 or C6H5·CH(OH)·COOH, an
 isomer of the cresotinic and the oxymethylbenzoic acids. Since the
-molecule contains an asymmetric carbon atom, the acid exists in three
+molecule contains an asymmetric [[Carbon|carbon]] atom, the acid exists in three
 forms, one being an inactive "racemic" mixture, and the other two being
 optically active forms. The inactive variety is known as _paramandelic
 acid_. It may be prepared by the action of hydrochloric acid on the
-addition compound of benzaldehyde and hydrocyanic acid:--
+addition [[Compound|compound]] of benzaldehyde and hydrocyanic acid:--
 
   C6H5CHO + HCN + HCl + 2H2O = C6H5·CHOH·COOH + NH4Cl,
 

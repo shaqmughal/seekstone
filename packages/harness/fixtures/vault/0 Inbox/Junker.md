@@ -3,14 +3,14 @@
 JUNKER, WILHELM (1840-1892), German explorer of Africa, was born at
 Moscow on the 6th of April 1840. He studied medicine at Dorpat,
 Göttingen, Berlin and Prague, but did not practise for long. After a
-series of short journeys to Iceland, Tunis and Lower Egypt, he remained
+series of short journeys to [[Iceland]], Tunis and Lower Egypt, he remained
 almost continuously in eastern Equatorial Africa from 1875 to 1886,
-making first Khartum and afterwards Lado the base of his expeditions,
+making first [[Khartum]] and afterwards Lado the base of his expeditions,
 Junker was a leisurely traveller and a careful observer; his main object
 was to study the peoples with whom he came into contact, and to collect
 specimens of plants and animals, and the result of his investigations in
 these particulars is given in his _Reisen in Afrika_ (3 vols., Vienna,
-1889-1891), a work of high merit. An English translation by A. H. Keane
+1889-1891), a work of high merit. An English translation by A. H. [[Keane]]
 was published in 1890-1892. Perhaps the greatest service he rendered to
 geographical science was his investigation of the Nile-Congo watershed,
 when he successfully combated Georg Schweinfurth's hydrographical

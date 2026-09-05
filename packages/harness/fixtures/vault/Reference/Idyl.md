@@ -20,8 +20,8 @@ character of these ten very diverse pieces which leads us to suppose
 that the poet intended them to be regarded as typical. In fact, if he
 had been asked whether a poem was or was not an idyl he would doubtless
 have been unable to comprehend the question. As a matter of fact, the
-first of his poems, the celebrated "Dirge for Daphnis," has become the
-prototype, not of the modern idyl, but of the modern elegy, and the not
+first of his poems, the celebrated "[[Dirge]] for [[Daphnis]]," has become the
+prototype, not of the modern idyl, but of the modern [[Elegy|elegy]], and the not
 less famous "Festival of Adonis" is a realistic mime. It was the six
 little epical romances, if they may be so called, which started the
 conception of the idyl of Theocritus. It must be remembered, however,
@@ -29,7 +29,7 @@ that there is nothing in ancient literature which justifies the notion
 of a form of verse recognized as an "idyl." In the 4th century after
 Christ the word seems to have become accepted in Latin as covering short
 descriptive poems of very diverse characters, for the early MSS. of
-Ausonius contain a section of "Edyllia," which embraces some of the most
+[[Ausonius]] contain a section of "Edyllia," which embraces some of the most
 admirable of the miscellaneous pieces of that writer. But that Ausonius
 himself called his poems "idyls" is highly doubtful. Indeed, it is not
 certain that the heading is not a mistake for "Epyllia." The word was

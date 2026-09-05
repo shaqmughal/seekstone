@@ -5,8 +5,8 @@ word (variously derived from _dahab_, gold, and _dahab_, one of the
 forms of the verb to go) for a native passenger boat used on the Nile.
 The typical form is that of a barge-like house-boat provided with sails,
 resembling the painted galleys represented on the tombs of the Pharaohs.
-Similar state barges were used by the Mahommedan rulers of Egypt, and
-from the circumstance that these vessels were ornamented with gilding is
+Similar state [[Barge|barges]] were used by the Mahommedan rulers of Egypt, and
+from the circumstance that these vessels were ornamented with [[Gilding|gilding]] is
 attributed the usual derivation of the name from gold. Before the
 introduction of steamers dahabeahs were generally used by travellers
 ascending the Nile, and they are still the favourite means of travelling

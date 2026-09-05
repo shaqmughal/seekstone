@@ -12,7 +12,7 @@ covering for the head. Originally it was the name given to a
 head-covering worn in the middle ages, tied like a night-cap under the
 chin, and worn out of doors by both sexes; this was later worn by men as
 a kind of night-cap or skull-cap. The coif was also a close-fitting cap
-of white lawn or silk, worn by English serjeants-at-law as a
+of white [[Lawn|lawn]] or silk, worn by English serjeants-at-law as a
 distinguishing mark of their profession. It became the fashion to wear
 on the top of the white coif a small skull-cap of black silk or velvet;
 and on the introduction of wigs at the end of the 17th century a round
@@ -24,7 +24,7 @@ originally designed to conceal the ecclesiastical tonsure has
 unfortunately been quoted by annotators of Blackstone's _Commentaries_
 as well as by Lord Campbell in his _Lives of the Chief Justices_. It may
 be classed with the curious conceit, recorded in Brand's _Popular
-Antiquities_, that the coif was derived from the child's caul, and was
+Antiquities_, that the coif was derived from the child's [[Caul|caul]], and was
 worn on the advocate's head for luck.
 
 ## See also

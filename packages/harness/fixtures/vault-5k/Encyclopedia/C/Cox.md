@@ -2,7 +2,7 @@
 
 COX, DAVID (1783-1859), English painter, was born on the 29th of April
 1783, in a small house attached to the forge of his father, a
-hardworking master smith, in a mean suburb of Birmingham. Turning his
+hardworking master smith, in a mean suburb of [[Birmingham]]. Turning his
 hand to what he could get to do, Joseph Cox, the father, was both
 blacksmith and whitesmith, and when the war with France began took to
 the making of bayonets and horse shoes, on wholesale commission, and
@@ -11,7 +11,7 @@ the poor elementary school in the neighbourhood, and set to the anvil.
 The attempt to turn the boy to this kind of labour had, however, been
 made too early; it was too heavy for his strength, and he was sent to
 what was called by the cyclops of Birmingham a "toy trade," making
-lacquered buckles, painted lockets, tin snuff-boxes and other "fancy"
+lacquered [[Buckle|buckles]], painted lockets, tin snuff-boxes and other "fancy"
 articles. Here David very soon acquired some power of painting
 miniatures, and his talents might have been misdirected had his master,
 Fieldler by name, not released him from his apprenticeship by dying by
@@ -32,11 +32,11 @@ line of study from the time he began to get the smallest remuneration
 for his pictures to the age of seventy-five, when he painted large in
 oil very much the same class of subjects he had of old produced small in
 water-colours, with the same impressive and unaffectedly noble
-sentiment, only increased by the mastery of almost infinite practice. He
+sentiment, only increased by the mastery of almost [[Infinite|infinite]] practice. He
 was never led astray by fictitious splendour of any kind, except once
 indeed in 1825, when he imitated Turner, and produced a classic subject
 he called "Carthage, Aeneas, and Achates." He never visited Venice or
-Egypt, or crossed the Channel except for a week or two in Belgium and
+Egypt, or crossed the Channel except for a week or two in [[Belgium]] and
 Paris, and never even went to Scotland for painting purposes.
 Bettws-y-Coed and its neighbourhood was everything to him, and
 characteristics most truly English were beloved by him with a sort of
@@ -56,7 +56,7 @@ economy was the rule with him, and to save the trifling cost of new
 strainers or stretching boards, he covered up one picture by another.
 When these works were prepared for re-sale, fifty years afterwards, some
 of them yielded picture after picture, peeled off the boards like the
-waistcoats from the body of the gravedigger in Hamlet!
+waistcoats from the body of the gravedigger in [[Hamlet]]!
 
 While lodging near Astley's Circus he married his landlady's daughter,
 and then took a modest cottage at Dulwich, where he gradually left off
@@ -94,7 +94,7 @@ be difficult to overrate the impressiveness of effect, and high feeling,
 within the narrow range of subject displayed by many of these works. He
 was now surrounded by dealers, and wealth flowed in upon him. Still he
 remained the same, a man with few wants and scarcely any enjoyments
-except those furnished by his brush and his colours. The home at
+except those furnished by his brush and his [[Colours|colours]]. The home at
 Harborne was a pleasant one, but the approach to the front was useless
 as the door was kept fastened up, the only entrance being through the
 garden at the back, and the principal room appropriated as his studio he

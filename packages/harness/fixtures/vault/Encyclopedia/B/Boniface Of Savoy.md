@@ -10,7 +10,7 @@ the lead at the council of Merton (1258) in vindicating the privileges
 of his order. In the barons' war he took the royalist side, but did not
 distinguish himself by great activity.
 
-  See Matthew Paris, _Chronica Majora_; Francois Mugnier, _Les Savoyards
+  See [[Matthew]] Paris, _Chronica Majora_; Francois Mugnier, _Les Savoyards
   en Angleterre_ (Chambery, 1890).
 
 ## See also

@@ -13,10 +13,10 @@ of Louis XIV., was born in a prison at Niort, on the 27th of November
 the famous friend and general of Henry IV., and had been imprisoned as a
 Huguenot malcontent, but her mother, a fervent Catholic, had the child
 baptized in her religion, her sponsors being the duc de la
-Rochefoucauld, father of the author of the _Maxims_, and the comtesse de
+Rochefoucauld, father of the author of the _[[Maxims]]_, and the comtesse de
 Neuillant. In 1639 Constant d'Aubigné was released from prison and took
 all his family with him to Martinique, where he died in 1645, after
-having lost what fortune remained to him at cards. Mme d'Aubigné
+having lost what fortune remained to him at [[Cards|cards]]. Mme d'Aubigné
 returned to France, and from sheer poverty unwillingly yielded her
 daughter to her sister-in-law, Mme de Villette, who made the child very
 happy, but converted or pretended to convert her to Protestantism. When
@@ -26,22 +26,22 @@ her back to Catholicism, but at the last she only yielded on the
 condition that she need not believe that the soul of Mme de Villette was
 lost. Once reconverted, she was neglected and sent home to live with her
 mother, who had only a small pension of 200 livres a year, which ceased
-on her death in 1650. The chevalier de Meré, a man of some literary
+on her death in 1650. The [[Chevalier|chevalier]] de Meré, a man of some literary
 distinction, who had made her acquaintance at Mme de Neuillant's,
 discovered her penniless condition, and introduced his "young Indian,"
 as he called her, to Scarron, the famous wit and comic writer, at whose
 house all the literary society of the day assembled. Scarron took a
-fancy to the friendless girl, and offered either to pay for her
+[[Fancy|fancy]] to the friendless girl, and offered either to pay for her
 admission to a convent, or, though he was deformed and an invalid, to
 marry her himself. She accepted his offer of marriage, and became Mme
 Scarron in 1651. For nine years she was not only his most faithful
 nurse, but an attraction to his house, where she tried to bridle the
 licence of the conversation of the time. On the death of Scarron, in
-1660, Anne of Austria continued his pension to his widow, and even
+1660, [[Anne]] of Austria continued his pension to his widow, and even
 increased it to 2000 livres a year, which enabled her to entertain and
 frequent the literary society her husband had made her acquainted with;
 but on the queen-mother's death in 1666 the king refused to continue her
-pension, and she prepared to leave Paris for Lisbon as lady attendant to
+pension, and she prepared to leave Paris for [[Lisbon]] as lady attendant to
 the queen of Portugal. But before she started she met Mme de Montespan,
 who was already, though not avowedly, the king's mistress, and who took
 such a fancy to her that she obtained the continuance of her pension,
@@ -54,7 +54,7 @@ children at court, and their governess, who had now made sufficient
 fortune to buy the estate of Maintenon, accompanied them. The king had
 now many opportunities of seeing Mme Scarron, and, though at first he
 was prejudiced against her, her even temper contrasted so advantageously
-with the storms of passion and jealousy exhibited by Mme de Montespan,
+with the storms of passion and [[Jealousy|jealousy]] exhibited by Mme de Montespan,
 that she grew steadily in his favour, and had in 1678 the gratification
 of having her estate at Maintenon raised to a marquisate and herself
 entitled Mme de Maintenon by the king. Such favours brought down the
@@ -72,16 +72,16 @@ presence, it is believed, of Père la Chaise, the king's confessor, the
 marquis de Montchevreuil, the chevalier de Forbin, and Bontemps. No
 written proof of the marriage is extant, but that it took place is
 nevertheless certain. Her life during the next thirty years can be fully
-studied in her letters, of which many authentic examples are extant. As
+studied in her letters, of which many [[Authentic|authentic]] examples are extant. As
 a wife she was wholly admirable; she had to entertain a man who would
-not be amused, and had to submit to that terribly strict court etiquette
+not be amused, and had to submit to that terribly strict court [[Etiquette|etiquette]]
 of absolute obedience to the king's inclination, which Saint-Simon so
 vividly describes, and yet be always cheerful and never complain of
 weariness or ill-health. Her political influence has probably been
 exaggerated, but it was supreme in matters of detail. The ministers of
-the day used to discuss and arrange all the business to be done with the
-king beforehand with her, and it was all done in her cabinet and in her
-presence, but the king in more important matters often chose not to
+the day used to [[Discus|discuss]] and arrange all the business to be done with the
+king beforehand with her, and it was all done in her [[Cabinet|cabinet]] and in her
+presence, but the king in more important matters often [[Chose|chose]] not to
 consult her. Such mistakes as, for instance, the replacing of Catinat by
 Villeroi may be attributed to her, but not whole policies--notably,
 according to Saint-Simon, not the policy with regard to the Spanish
@@ -89,9 +89,9 @@ succession. Even the revocation of the edict of Nantes and the
 dragonnades have been laid to her charge, but recent investigations have
 tended to show that in spite of ardent Catholicism, she at least
 opposed, if not very vigorously, the cruelties of the dragonnades,
-although she was pleased with the conversions they procured. She was
+although she was pleased with the [[Conversion|conversions]] they procured. She was
 apparently afraid to imperil her great reputation for devotion, which
-had in 1692 obtained for her from Innocent XII. the right of visitation
+had in 1692 obtained for her from [[Innocent]] XII. the right of visitation
 over all the convents in France. Where she deserves blame is in her use
 of her power for personal patronage, as in compassing the promotions of
 Chamillart and Villeroi, and the frequent assistance given to her
@@ -124,7 +124,7 @@ children of the king and Mme de Montespan, to high dignity between the
 blood royal and the peers of the realm, and it was doubtless under the
 influence of her dislike for the duke of Orleans that the king drew up
 his will, leaving the personal care of his successor to the duke of
-Maine, and hampering the duke of Orleans by a council of regency. On or
+[[Maine]], and hampering the duke of Orleans by a council of regency. On or
 even before her husband's death she retired to St Cyr, and had the
 chagrin of seeing all her plans for the advancement of the duke of Maine
 overthrown by means of the parliament of Paris. However, the regent
@@ -133,7 +133,7 @@ Cyr and continued her pension of 48,000 livres. She spent her last years
 at St Cyr in perfect seclusion, but an object of great interest to all
 visitors to France, who, however, with the exception of Peter the Great,
 found it impossible to get an audience with her. On the 15th of April
-1719 she died, and was buried in the choir at St Cyr, bequeathing her
+1719 she died, and was buried in the [[Choir|choir]] at St Cyr, bequeathing her
 estate at Maintenon to her niece, the only daughter of her brother
 Charles and wife of the maréchal de Noailles, to whose family it still
 belongs.
@@ -141,7 +141,7 @@ belongs.
   L. A. la Beaumelle published the _Lettres de Madame de Maintenon_, but
   much garbled, in 2 vols. in 1752, and on a larger scale in 9 vols. in
   1756. He also, in 1755, published _Mémoires de Madame de Maintenon_,
-  in 6 vols., which caused him to be imprisoned in the Bastille. All
+  in 6 vols., which caused him to be imprisoned in the [[Bastille]]. All
   earlier biographies were superseded by Théophile Lavallée's _Histoire
   de St Cyr_, reviewed in _Causeries du lundi_, vol. viii., and by his
   edition of her _Lettres historiques et édifiantes_, &c., in 7 vols.
@@ -152,8 +152,8 @@ belongs.
   her career is contained in the twelfth volume of Chéruel and Regnier's
   edition of his _Mémoires_. See also Mademoiselle d'Aumale's _Souvenirs
   sur Madame de Maintenon_, published by the Comte d'Haussonville and G.
-  Hanotaux (Paris, 3 vols., 1902-1904); an excellent account by A.
-  Geffroy, _Madame de Maintenon d'après sa correspondance authentique_
+  [[Hanotaux]] (Paris, 3 vols., 1902-1904); an excellent account by A.
+  [[Geffroy]], _Madame de Maintenon d'après sa correspondance authentique_
   (Paris, 2 vols., 1887); P. de Noailles, _Histoire de Madame de
   Maintenon et des principaux évènements du règne de Louis XIV._ (4
   vols., 1848-1858); A. de Boislisle, _Paul Scarron et Françoise

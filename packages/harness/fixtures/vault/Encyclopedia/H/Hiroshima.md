@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hiroshima"
 
 # Hiroshima
 
-HIROSHIMA, a city and seaport of Japan, capital of the government of its
+HIROSHIMA, a city and seaport of [[Japan]], capital of the government of its
 name in central Nippon. Pop. (1903) 113,545. It is very beautifully
 situated on a small plain surrounded by hills, the bay being studded
 with islands. In its general aspect it resembles Osaka, from which it is

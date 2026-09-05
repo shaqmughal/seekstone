@@ -7,7 +7,7 @@ and Utrecht, but his taste for Hebrew, Arabic, Persian, and other
 languages of the East developed into a passion, and he discontinued his
 theological course to devote himself entirely to them. His diligent
 attendance at the Royal Library attracted the attention of the keeper of
-the manuscripts, the Abbe Sallier, whose influence procured for him a
+the [[Manuscript|manuscripts]], the Abbe Sallier, whose influence procured for him a
 small salary as student of the oriental languages. He had lighted on
 some fragments of the _Vendidad Sade_, and formed the project of a
 voyage to India to discover the works of Zoroaster. With this end in
@@ -18,7 +18,7 @@ passage, a seat at the captain's table, and a salary, the amount of
 which was to be fixed by the governor of the French settlement in India.
 After a passage of six months, Anquetil landed, on the 10th of August
 1755, at Pondicherry. Here he remained a short time to master modern
-Persian, and then hastened to Chandernagore to acquire Sanskrit. Just
+Persian, and then hastened to [[Chandernagore]] to acquire Sanskrit. Just
 then war was declared between France and England; Chandernagore was
 taken, and Anquetil returned to Pondicherry by land. He found one of his
 brothers at Pondicherry, and embarked with him for Surat; but, with a
@@ -43,7 +43,7 @@ to him. In 1778 he published at Amsterdam his _Legislation orientate_,
 in which he endeavoured to prove that the nature of oriental despotism
 had been greatly misrepresented. His _Recherches historiques et
 geographiques sur l'Inde_ appeared in 1786, and formed part of
-Thieffenthaler's _Geography of India_. The Revolution seems to have
+Thieffenthaler's _[[Geography]] of India_. The Revolution seems to have
 greatly affected him. During that period he abandoned society, and lived
 in voluntary poverty on a few pence a day. In 1798 he published _L'Inde
 en rapport avec l'Europe_ (Hamburg, 2 vols.), which contained much

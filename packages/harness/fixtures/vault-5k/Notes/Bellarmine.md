@@ -25,7 +25,7 @@ temporis Haereticos_ (3 vols., 1581, 1582, 1593). These volumes, which
 called forth a multitude of answers on the Protestant side, exhaust the
 controversy as it was carried on in those days, and contain a lucid and
 uncompromising statement of Roman Catholic doctrine. For many years
-afterwards, Bellarmine was held by Protestant advocates as the champion
+afterwards, Bellarmine was held by Protestant advocates as the [[Champion|champion]]
 of the papacy, and a vindication of Protestantism generally took the
 form of an answer to his works. In 1589 he was selected by Sixtus V. to
 accompany, in the capacity of theologian, the papal legation sent to
@@ -54,8 +54,8 @@ conduct in this matter has been constantly misrepresented. He had
 followed with interest Galileo's scientific discoveries and a respectful
 admiration grew up between them. Bellarmine did not proscribe the
 Copernican system, as has been maintained by Reusch (_Der Process
-Galilei's und die Jesuiten_, Bonn, 1879, p. 125); all he claimed was
-that it should be presented as an hypothesis until it should receive
+Galilei's und die Jesuiten_, [[Bonn]], 1879, p. 125); all he claimed was
+that it should be presented as an [[Hypothesis|hypothesis]] until it should receive
 scientific demonstration. When Galileo visited Rome in December 1615 he
 was warmly received by Bellarmine, and the high regard in which he was
 held is clearly testified in Bellarmine's letters and in Galileo's

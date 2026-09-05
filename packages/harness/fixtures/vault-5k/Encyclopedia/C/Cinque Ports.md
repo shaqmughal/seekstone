@@ -11,16 +11,16 @@ CINQUE PORTS, the name of an ancient jurisdiction in the south of
 England, which is still maintained with considerable modifications and
 diminished authority. As the name implies, the ports originally
 constituting the body were only five in number--Hastings, Romney, Hythe,
-Dover and Sandwich; but to these were afterwards added the "ancient
+[[Dover]] and Sandwich; but to these were afterwards added the "ancient
 towns" of Winchelsea and Rye with the same privileges, and a good many
 other places, both corporate and non-corporate, which, with the title of
-limb or member, held a subordinate position. To Hastings were attached
+limb or member, held a subordinate position. To [[Hastings]] were attached
 the corporate members of Pevensey and Seaford, and the non-corporate
 members of Bulvarhythe, Petit Iham (Yham or Higham), Hydney, Bekesbourn,
-Northeye and Grenche or Grange; to Romney, Lydd, and Old Romney,
+Northeye and Grenche or Grange; to Romney, [[Lydd]], and Old Romney,
 Dengemarsh, Orwaldstone, and Bromehill or Promehill; to Dover,
-Folkestone and Faversham, and Margate, St John's, Goresend (now
-Birchington), Birchington Wood (now Woodchurch), St Peter's, Kingsdown
+[[Folkestone]] and [[Faversham]], and Margate, St John's, Goresend (now
+Birchington), Birchington Wood (now Woodchurch), St Peter's, [[Kingsdown]]
 and Ringwould; to Sandwich, Fordwich and Deal, and Walmer, Ramsgate,
 Reculver, Stonor (Estanor), Sarre (or Serre) and Brightlingsea (in
 Essex). To Rye was attached the corporate member of Tenterden, and to a
@@ -51,7 +51,7 @@ right to punish shedders of blood and those who were seized in an
 attempt to escape from justice; (5) pillory and tumbrel; (6)
 infangentheof and outfangentheof, or power to imprison and execute
 felons; (7) mundbryce (the breaking into or violation of a man's _mund_
-or property in order to erect banks or dikes as a defence against the
+or property in order to erect banks or [[Dike|dikes]] as a defence against the
 sea); (8) waives and strays, or the right to appropriate lost property
 or cattle not claimed within a year and a day; (9) the right to seize
 all flotsam, jetsam, or ligan, or, in other words, whatever of value was
@@ -113,7 +113,7 @@ antiquarian curiosity, unaffected by statute. It exercises only,
 therefore, such jurisdiction as the high court of admiralty exercised,
 apart from restraining statutes of 1389 and 1391 and enabling statutes
 of 1840 and 1861. Cases of collision have been tried in it (the "Vivid,"
-1 _Asp. Maritime Law Cases_, 601). But salvage cases (the "Clarisse,"
+1 _[[Asp]]. Maritime Law Cases_, 601). But salvage cases (the "Clarisse,"
 _Swabey_, 129; the "Marie," _Law. Rep. 7 P.D._ 203) are the principal
 cases now tried. It has no prize jurisdiction. The one case in which
 jurisdiction has been given to it by statute is to enforce forfeitures
@@ -146,12 +146,12 @@ next principal officer installs him.
 
 The Cinque Ports from the earliest times claimed to be exempt from the
 jurisdiction of the admiral of England. Their early charters do not,
-like those of Bristol and other seaports, express this exemption in
+like those of [[Bristol]] and other seaports, express this exemption in
 terms. It seems to have been derived from the general words of the
 charters which preserve their liberties and privileges.
 
 The lord warden's claim to prize was raised in, but not finally decided
-by, the high court of admiralty in the "Ooster Ems," 1 _C. Rob._ 284,
+by, the high court of admiralty in the "Ooster [[Ems]]," 1 _C. Rob._ 284,
 1783.
 
   See S. Jeake, _Charters of the Cinque Ports_ (1728); Boys, _Sandwich

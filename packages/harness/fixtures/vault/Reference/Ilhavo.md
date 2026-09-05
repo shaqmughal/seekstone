@@ -1,8 +1,8 @@
 # Ilhavo
 
-ILHAVO, a seaport in the district of Aveiro, formerly included in the
-province of Beira, Portugal, 3 m. S.W. of Aveiro (q.v.), on the lagoon
-of Aveiro, an inlet of the Atlantic Ocean. Pop. (1900) 12,617. Ilhavo is
+ILHAVO, a seaport in the district of [[Aveiro]], formerly included in the
+province of [[Beira]], Portugal, 3 m. S.W. of Aveiro (q.v.), on the [[Lagoon|lagoon]]
+of Aveiro, an inlet of the [[Atlantic Ocean]]. Pop. (1900) 12,617. Ilhavo is
 inhabited chiefly by fishermen, but has a celebrated manufactory of
 glass and porcelain, the Vista-Alegre, at which the art of glass-cutting
 has reached a high degree of perfection. Salt is largely exported.

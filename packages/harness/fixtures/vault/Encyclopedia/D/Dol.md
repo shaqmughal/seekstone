@@ -1,11 +1,11 @@
 # Dol
 
 DOL, a town of north-western France, in the department of
-Ille-et-Vilaine, 36 m. N. of Rennes on the Western railway. Pop. (1906)
+[[Ille-Et-Vilaine|Ille-et-Vilaine]], 36 m. N. of Rennes on the Western railway. Pop. (1906)
 3543. Dol is situated to the south-west of the rich agricultural
 district known as the marsh of Dol, where market-gardening is especially
 flourishing. The streets are still rendered picturesque by houses of the
-14th and 15th centuries, which form deep arcades by the projection of
+14th and 15th centuries, which form deep [[Arcade|arcades]] by the projection of
 their upper storeys: and, high above all, rises the grey granite of the
 cathedral, mainly of the 13th century, which in the middle ages ranked
 as the metropolitan church of all Brittany, and still keeps fresh the

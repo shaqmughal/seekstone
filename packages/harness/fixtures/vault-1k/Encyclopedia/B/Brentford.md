@@ -10,7 +10,7 @@ market-gardening, &c. The Grand Junction waterworks are situated here.
 Brentford has been the county-town for elections since 1701.
 
 In 1016 Brentford, or, as it was often called Braynford, was the scene
-of a great defeat inflicted on the Danes by Edmund Ironside. In 1280 a
+of a great defeat inflicted on the [[Dan|Danes]] by Edmund Ironside. In 1280 a
 toll was granted by Edward I., who granted the town a market, for the
 construction of a bridge across the river, and in the reign of Henry VI.
 a hospital of the Nine Orders of Angels was founded near its western

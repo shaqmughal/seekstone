@@ -1,6 +1,6 @@
 # Hermas
 
-HERMAS, SHEPHERD OF, one of the works representing the Apostolic Fathers
+HERMAS, SHEPHERD OF, one of the works representing the [[Apostolic Fathers]]
 (q.v.), a hortatory writing which "holds the mirror up" to the Church in
 Rome during the 3rd Christian generation. This is the period indicated
 by the evidence of the Muratorian Canon, which assigns it to the brother
@@ -11,7 +11,7 @@ extending over a period of years; and, like certain Old Testament
 prophets, he shows us how by his own experiences he became the medium of
 a divine message to his church and to God's "elect" people at large.
 
-In its present form it falls under three heads: _Visions_, _Mandates_,
+In its present form it falls under three heads: _Visions_, _[[Mandate|Mandates]]_,
 _Similitudes_. But these divisions are misleading. The personal and
 preliminary revelation embodied in _Vision_ i. brings the prophet a new
 sense of sin as essentially a matter of the heart, and an awakened
@@ -27,7 +27,7 @@ more symbolic view. _Vision_ ii. records his call proper, through
 revelation of his essential message, to be delivered both to his wife
 and children and to "all the saints who have sinned unto this day" (2.
 4). It contains the assurances of forgiveness even for the gravest sins
-after baptism (save blasphemy of the Name and betrayal of the brethren,
+after baptism (save [[Blasphemy|blasphemy]] of the Name and betrayal of the brethren,
 _Sim._ ix. 19), "if they repent with their whole heart and remove doubts
 from their minds. For the Master hath sworn by His glory ('His Son,'
 below) touching His elect, that if there be more sinning after this day
@@ -42,7 +42,7 @@ to the people in the wilderness."
 Here, in the gist of the "booklet" received from the hand of a female
 figure representing the Church, we have in germ the message of _The
 Shepherd_. But before Hermas announces it to the Roman Church, and
-through "Clement"[1] to the churches abroad, there are added two
+through "[[Clement]]"[1] to the churches abroad, there are added two
 _Visions_ (iii. iv.) tending to heighten its impressiveness. He is shown
 the "holy church" under the similitude of a tower in building, and the
 great and final tribulation (already alluded to as near at hand) under
@@ -62,7 +62,7 @@ _again_ all that thou sawest before, to wit the sum of the things
 profitable for thee. First of all write thou my mandates and
 similitudes; and _the rest_, as I will show thee, so shalt thou write."
 This programme is fulfilled in the xii. _Mandates_--perhaps suggested by
-the _Teaching of the Twelve Apostles_ (see DIDACHE), which Hermas
+the _Teaching of the Twelve [[Apostle|Apostles]]_ (see [[Didache|DIDACHE]]), which Hermas
 knows--and _Similitudes_ i.-viii., while _Simil._ ix. is "the rest" and
 constitutes a distinct "book" (_Sim._ ix. 1. 1, x. 1. 1). In this latter
 the building of the Tower, already shown in outline in _Vis._ iii., is
@@ -125,7 +125,7 @@ specific forms of the Holy Spirit power, without whose indwelling the
 mandates cannot be kept (_Sim._ x. 3; cf. ix. 13. 2, 24. 2).
 
 Thus the "moralism" sometimes traced in Hermas is apparent rather than
-real, for he has a deep sense of the enabling grace of God. His defect
+real, for he has a deep sense of the enabling [[Grace|grace]] of God. His defect
 lies rather in not presenting the historic Christ as the Christian's
 chief inspiration, a fact which connects itself with the strange absence
 of the names "Jesus" and "Christ." He uses rather "the Son of God," in a
@@ -139,7 +139,7 @@ most of the Ante-Nicene period.
   the form of the book as purporting to quote angelic communications.
   This would also explain the absence of explicit scriptural citations
   generally, though knowledge both of the Old Testament and of several
-  New Testament books--including the congenially symbolic Gospel of
+  New Testament books--including the congenially symbolic [[Gospel]] of
   John--is clear (cf. _The New Testament in the Apostolic Fathers_,
   Oxford, 1905, 105 seq.). The one exception is a prophetic writing, the
   apocryphal _Book of Eldad and Modad_, which is cited apparently as
@@ -159,7 +159,7 @@ most of the Ante-Nicene period.
   supererogation, in fulfilment of counsels of perfection, on lines
   already seen in _Did._ vi. 2, cf. i. 4, and reappearing in the two
   types of Christian recognized by Clement and Origen and in later
-  Catholicism. Again his doctrine of fasting is a spiritualizing of a
+  Catholicism. Again his doctrine of [[Fasting|fasting]] is a spiritualizing of a
   current _opus operatum_ conception on Jewish lines as though "keeping
   a watch" (_statio_) in that way atoned for sins (_Sim._ v.). The
   Shepherd enjoins instead, first, as "a perfect fast," a fast "from
@@ -212,7 +212,7 @@ FOOTNOTES:
     "Clement" is possible; but none justifies us in assigning even to
     this _Vision_ a date consistent with that usually given to the
     traditional bishop of this name (see CLEMENT I.). Yet we may have to
-    correct the dubious chronology of the first Roman bishops by this
+    correct the dubious [[Chronology|chronology]] of the first Roman bishops by this
     datum, and prolong his life to about A.D. 110. This is Harnack's date
     for the nucleus of _Vis._ ii., though he places our _Vis._ i.-iii.
     later in Trajan's reign, and thinks _Vis._ iv. later still.
@@ -224,7 +224,7 @@ FOOTNOTES:
   [3] Harnack places "The Shepherd" proper mostly under Hadrian
     (117-138), and the completed work c. 140-145.
 
-  [4] A careful study of practical Christian ethics at Rome as implied
+  [4] A careful study of practical Christian [[Ethics|ethics]] at Rome as implied
     in the _Shepherd_, will be found in E. von Dobschutz, _Christian Life
     in the Primitive Church_ (1904).
 

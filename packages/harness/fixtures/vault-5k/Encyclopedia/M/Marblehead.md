@@ -1,9 +1,9 @@
 # Marblehead
 
 MARBLEHEAD, a township of Essex county, Massachusetts, U.S.A., occupying
-a rocky promontory on Massachusetts Bay, about 16 m. N. of Boston. Pop.
+a rocky promontory on Massachusetts Bay, about 16 m. N. of [[Boston]]. Pop.
 (1890), 8202; (1900), 7582; (1905), 7209; (1910), 7338. Area, about 4
-sq. m. Marblehead is served by the Boston & Maine railroad, and by
+sq. m. Marblehead is served by the Boston & [[Maine]] railroad, and by
 electric railways connecting with Salem, Lynn and Boston. It is a quaint
 old town, with a number of houses dating back to the 17th and 18th
 centuries. Among the older buildings are the Lee mansion (1768), St
@@ -13,7 +13,7 @@ municipal building, also contains the public library and several
 noteworthy paintings, including "The Spirit of '76" or "Yankee Doodle"
 by Archibald M. Willard. The post office and custom-house was completed
 in 1904. There are several parks (Crocker, Fort Sewall, Seaside, and
-Fountain), and an old burying-ground, in which many of the early
+[[Fountain]]), and an old burying-ground, in which many of the early
 settlers and a number of soldiers of the War of Independence (including
 General John Glover) are buried; and a granite monument near the railway
 station commemorates the taking of the British supply and powder ship

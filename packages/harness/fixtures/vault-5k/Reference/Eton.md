@@ -38,10 +38,10 @@ provost of King's College, Cambridge, five representatives nominated
 respectively by the university of Oxford, the university of Cambridge,
 the Royal Society, the lord chief justice and the masters, and four
 representatives chosen by the rest of the governing body. By this body
-the foundation was in 1872 made to consist of a provost and ten fellows
+the foundation was in 1872 made to consist of a provost and ten [[Fellows|fellows]]
 (not priests, but merely the members of the governing body other than
 the provost), a headmaster of the school, and a lower master, at least
-seventy scholars (known as "collegers"), and not more than two chaplains
+seventy scholars (known as "collegers"), and not more than two [[Chaplain|chaplains]]
 or conducts. Originally it was necessary that the scholars should be
 born in England, of lawfully married parents, and be between eight and
 sixteen years of age; but according to the statutes of 1872 the
@@ -61,9 +61,9 @@ hours.
 The school buildings were founded in 1441 and occupied in part by 1443,
 but the whole original structure was not completed till fifty years
 later. The older buildings consist of two quadrangles, built partly of
-freestone but chiefly of brick. The outer quadrangle, or school-yard, is
+freestone but chiefly of [[Brick|brick]]. The outer quadrangle, or school-yard, is
 enclosed by the chapel, upper and lower schools, the original scholars'
-dormitory ("long chamber"), now transformed, and masters' chambers. It
+[[Dormitory|dormitory]] ("long chamber"), now transformed, and masters' chambers. It
 has in its centre a bronze statue of the royal founder. The buildings
 enclosing the inner or lesser quadrangle contain the residence of the
 fellows, the library, hall and various offices. The chapel, on the south
@@ -79,7 +79,7 @@ by John Bacon. A chantry contains the tomb of Roger Lupton (provost
 school-yard and the cloisters to the east; though other parts of his
 building also remain. The space enclosed by two buttresses on the north
 side of the chapel, at the point where steps ascend to the north door,
-is the model of the peculiar form of court for the game of fives which
+is the model of the peculiar form of court for the [[Game|game]] of [[Fives|fives]] which
 takes name from Eton, with its "buttress" (represented by the projecting
 balustrade), the ledges round the walls, and the step dividing the floor
 into two levels. From the foundation of the college the chapel was used
@@ -88,7 +88,7 @@ alteration of the ancient constitution had secularized the foundation,
 was the parish of Eton created into a separate vicarage. The chapel does
 not accommodate the whole school; and a new chapel, from the designs of
 Sir Arthur Blomfield, is used by the lower school. The library contains
-many manuscripts (notably an Oriental and Egyptian collection) and rare
+many [[Manuscript|manuscripts]] (notably an Oriental and Egyptian collection) and rare
 books; and there is also a library for the use of the boys. The college
 in modern times has far outgrown its ancient buildings, and new
 buildings, besides the lower chapel, include the new schools, with an
@@ -107,7 +107,7 @@ Eton occupies a unique position among the public schools, and a large
 proportion of the oarsmen in the annual Oxford and Cambridge boat-race
 are _alumni_ of the school. Another annual celebration is the occasion
 of the contest between collegers and oppidans at a peculiar form of
-football known as the wall game, from the fact that it is played against
+[[Football|football]] known as the wall game, from the fact that it is played against
 a wall bordering the college playing-field. This game takes place on St
 Andrew's Day, the 30th of November. The field game of football commonly
 played at Eton has also peculiar rules. The annual cricket match between
@@ -117,7 +117,7 @@ _Montem_, of unknown origin, but first mentioned in 1561, was observed
 here triennially on Whit-Tuesday. The last celebration took place in
 1844, the ceremony being abolished just before it fell due in 1847. It
 consisted of a procession of the boys in a kind of military order, with
-flags and music, headed by their "captain," to a small mound called Salt
+[[Flag|flags]] and music, headed by their "captain," to a small mound called Salt
 Hill, near the Bath road, where they levied contributions, or "salt,"
 from the passers-by and spectators. The sum collected sometimes exceeded
 £1000--the surplus, after deducting certain expenses, becoming the
@@ -129,7 +129,7 @@ Eton exceeds 1000.
   H.C. Maxwell Lyte, _History of Eton College from 1440 to 1875_ (1875);
   J. Heneage Jesse, _Memoirs of Celebrated Etonians_ (1875); _The Eton
   Portrait Gallery_, by a Barrister of the Inner Temple (1875); A.C.
-  Benson, _Fasti Etonienses_ (1899); L. Cust, _History of Eton College_
+  [[Benson]], _Fasti Etonienses_ (1899); L. Cust, _History of Eton College_
   (1899).
 
 
@@ -137,11 +137,11 @@ Eton exceeds 1000.
 
 ÉTRETAT, a watering-place of France, in the department of
 Seine-Inférieure, on the coast of the English Channel, 16½ m. N. by E.
-of Havre by road. Pop. (1906) 1982. It is situated between fine cliffs
+of [[Havre]] by road. Pop. (1906) 1982. It is situated between fine cliffs
 in which, here and there, the sea has worn archways, pinnacles and other
 curious forms. The small stream traversing the valley, at the extremity
 of which Étretat lies, flows underground for some distance but rises to
-the surface on the beach. A Roman road and aqueduct and other Roman and
+the surface on the [[Beach|beach]]. A Roman road and aqueduct and other Roman and
 Gallic remains have been discovered. The church of Notre-Dame, a
 Romanesque building, with a nave of the 11th century and a central tower
 and choir of the 13th century, is a fine example of the Norman

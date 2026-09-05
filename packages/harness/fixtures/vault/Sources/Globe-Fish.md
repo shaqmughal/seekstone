@@ -3,19 +3,19 @@
 GLOBE-FISH, or SEA-HEDGEHOG, the names by which some sea-fishes are
 known, which have the remarkable faculty of inflating their stomachs
 with air. They belong to the families Diodontidae and Tetrodontidae.
-Their jaws resemble the sharp beak of a parrot, the bones and teeth
+Their jaws resemble the sharp [[Beak|beak]] of a parrot, the [[Bone|bones]] and teeth
 being coalesced into one mass with a sharp edge. In the Diodonts there
 is no mesial division of the jaws, whilst in the Tetrodonts such a
 division exists, so that they appear to have two teeth above and two
 below. By means of these jaws they are able to break off branches of
-corals, and to masticate other hard substances on which they feed.
+[[Coral|corals]], and to masticate other hard substances on which they feed.
 Usually they are of a short, thick, cylindrical shape, with powerful
 fins (fig. 1). Their body is covered with thick skin, without scales,
 but provided with variously formed spines, the size and extent of which
 vary in the different species. When they inflate their capacious
 stomachs with air, they assume a globular form, and the spines protrude,
 forming a more or less formidable defensive armour (fig. 2). A fish thus
-blown out turns over and floats belly upwards, driving before the wind
+blown out turns over and [[Float|floats]] belly upwards, driving before the wind
 and waves. Many of these fishes are highly poisonous when eaten, and
 fatal accidents have occurred from this cause. It appears that they
 acquire poisonous qualities from their food, which frequently consists

@@ -6,7 +6,7 @@ topic: africa
 
 # Diesterweg
 
-DIESTERWEG, FRIEDRICH ADOLF WILHELM (1790-1866), German educationist,
+DIESTERWEG, [[Friedrich|FRIEDRICH]] ADOLF WILHELM (1790-1866), German educationist,
 was born at Siegen on the 29th of October 1790. Educated at Herborn and
 Tübingen universities, he took to the profession of teaching in 1811. In
 1820 he was appointed director of the new school at Mörs, where he put

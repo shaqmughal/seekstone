@@ -18,13 +18,13 @@ has not paid. Most farmers desire a proportion of grass-land on their
 farms--from a third to a half of the area--and even on wholly arable
 farms there are usually certain courses in the rotation of crops devoted
 to grass (or clover). Thus the Norfolk 4-course rotation is corn, roots,
-corn, clover; the Berwick 5-course is corn, roots, corn, grass, grass;
+corn, clover; the [[Berwick]] 5-course is corn, roots, corn, grass, grass;
 the Ulster 8-course, corn, flax, roots, corn, flax, grass, grass, grass;
 and so on, to the point where the grass remains down for 5 years, or is
 left indefinitely.
 
 Permanent grass may be grazed by live-stock and classed as pasture pure
-and simple, or it may be cut for hay. In the latter case it is usually
+and simple, or it may be cut for [[Hay|hay]]. In the latter case it is usually
 classed as "meadow" land, and often forms an alluvial tract alongside a
 stream, but as grass is often grazed and hayed in alternate years, the
 distinction is not a hard and fast one.
@@ -67,7 +67,7 @@ the plants.
 
 In ordinary usage the term grass, pasturage, hay, &c., includes many
 varieties of clover and other members of the natural order _Leguminosae_
-as well as other "herbs of the field," which, though not strictly
+as well as other "[[Herb|herbs]] of the field," which, though not strictly
 "grasses," are always found in a grass field, and are included in
 mixtures of seeds for pasture and meadows. The following is a list of
 the most desirable or valuable agricultural grasses and clovers, which
@@ -110,18 +110,18 @@ grow by draining, liming, manuring, and so on:--
     Carum petroselinum       Field parsley.
     Plantago lanceolata      Plantain.
     Cichorium intybus        Chicory.
-    Poterium officinale      Burnet.
+    Poterium officinale      [[Burnet]].
 
 The predominance of any particular species is largely determined by
 climatic circumstances, the nature of the soil and the treatment it
-receives. In limestone regions sheep's fescue has been found to
+receives. In [[Limestone|limestone]] regions sheep's fescue has been found to
 predominate; on wet clay soil the dog's bent (_Agrostis canina_) is
 common; continuous manuring with nitrogenous manures kills out the
 leguminous plants and stimulates such grasses as cocksfoot; manuring
 with phosphates stimulates the clovers and other legumes; and so on.
 Manuring with basic slag at the rate of from 5 to 10 cwt. per acre has
 been found to give excellent results on poor clays and peaty soils.
-Basic slag is a by-product of the Bessemer steel process, and is rich in
+Basic slag is a by-product of the [[Bessemer]] steel process, and is rich in
 a soluble form of phosphate of lime (tetra-phosphate) which specially
 stimulates the growth of clovers and other legumes, and has renovated
 many inferior pastures.
@@ -250,7 +250,7 @@ indeed on any soil excepting heavy clay frequent rolling is beneficial
 to the grass, as it promotes the capillary action of the soil-particles
 and the consequent ascension of ground-water.
 
-In addition, the grass on the surface helps to keep the moisture from
+In addition, the grass on the surface [[Helps|helps]] to keep the moisture from
 being wasted by the sun's heat.
 
 The graminaceous crops of western Europe generally are similar to those
@@ -258,7 +258,7 @@ enumerated. Elsewhere in Europe are found certain grasses, such as
 Hungarian brome, which are suitable for introduction into the British
 Isles. The grasses of the American prairies also include many plants not
 met with in Great Britain. Some half-dozen species are common to both
-countries: Kentucky "blue-grass" is the British _Poa pratensis_; couch
+countries: [[Kentucky]] "blue-grass" is the British _Poa pratensis_; couch
 grass (_Triticum repens_) grows plentifully without its underground
 runners; bent (_Agrostis vulgaris_) forms the famous "red-top," and so
 on. But the American buffalo-grass, the Canadian buffalo-grass, the

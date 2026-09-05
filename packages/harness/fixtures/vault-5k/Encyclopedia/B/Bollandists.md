@@ -1,6 +1,6 @@
 # Bollandists
 
-BOLLANDISTS, the Belgian Jesuits who publish the _Acta Sanctorum_, the
+BOLLANDISTS, the Belgian [[Jesuits]] who publish the _Acta Sanctorum_, the
 great collection of biographies and legends of the saints, arranged by
 days, in the order of the calendar. The original idea was conceived by a
 Jesuit father, Heribert Rosweyde (see HAGIOLOGY), and was explained by
@@ -10,13 +10,13 @@ His intention was to publish in eighteen volumes the lives of the saints
 compiled from the MSS., at the same time adding sober notes. At the time
 of his death (1629) he had collected a large amount of material, but had
 not been able actually to begin the work. A Jesuit father, John Bolland,
-was appointed to carry on the project, and was sent to Antwerp. He
+was appointed to carry on the project, and was sent to [[Antwerp]]. He
 continued to amass material, and extended the scope of the work. In 1643
 the two volumes for January appeared. The three volumes for February
 appeared in 1658, the three for March in 1668, the three for April in
 1675, and so on. In 1635 Henschenius (Godfried Henschen) was associated
 with Bolland, and collaborated in the work until 1681. From 1659 to 1714
-Papebroch (Daniel van Papenbroeck) collaborated. This was the most
+Papebroch ([[Daniel]] van Papenbroeck) collaborated. This was the most
 brilliant period in the history of the _Acta Sanctorum_. The freedom of
 Papebroch's criticism made him many enemies, and he had often to defend
 himself against their attacks. The work was continued--with some
@@ -34,7 +34,7 @@ were acquired by the Premonstratensians of Tongerloo, who endeavoured to
 continue the work, and in their abbey vol. vi. of October appeared in
 1794.
 
-After the re-establishment of the Society of Jesus in Belgium the work
+After the re-establishment of the Society of Jesus in [[Belgium]] the work
 was again taken up in 1837, at the suggestion of the Academie Royale of
 Belgium and with the support of the Belgian government, and the
 Bollandists were installed at the college of St Michael in Brussels. In
@@ -59,7 +59,7 @@ hagiographiques_, containing criticisms of recent works on hagiographic
 questions. In addition to this review, the Bollandists undertook the
 analysis of the hagiographic MSS. in the principal libraries. Besides
 numerous library catalogues published in the _Analecta_ (e.g. those of
-Chartres, Namur, Ghent, Messina, Venice, etc.), separate volumes were
+Chartres, Namur, [[Ghent]], Messina, Venice, etc.), separate volumes were
 devoted to the Latin MSS. in the Bibliotheque Royale at Brussels (2
 vols., 1886-1889), to the Latin and Greek MSS. in the Bibliotheque
 Nationale at Paris (5 vols., 1889-1896), to the Greek MSS. in the
@@ -83,7 +83,7 @@ addition to these, there is a volume of tables, edited by the abbe
 Rigollot.
 
   See _Acta Sanctorum apologelicis libris ... vindicata_ (Antwerp,
-  1755); L.P. Gachard, _Memoire historique sur les Bollandistes_
+  1755); L.P. [[Gachard]], _Memoire historique sur les Bollandistes_
   (Brussels, 1835); van Hecke, "De ratione operis Bollandiani" (_Acta
   Sanctorum Octobris_, vii.); and Cardinal J.B. Pitra, _Etudes sur la
   collection des Actes des Saints_ (Paris, 1880).     (H. De.)

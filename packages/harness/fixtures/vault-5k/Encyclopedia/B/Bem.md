@@ -8,7 +8,7 @@ tags: [religion, dynasties-theory]
 
 # Bem
 
-BEM, JOSEF (1795-1850), Polish soldier, was born at Tarnow in Galicia,
+BEM, JOSEF (1795-1850), Polish soldier, was born at Tarnow in [[Galicia]],
 and was educated at the military school at Warsaw, where he especially
 distinguished himself in mathematics. Joining a Polish artillery
 regiment in the French service, he took part in the Russian campaign of
@@ -29,8 +29,8 @@ went to Portugal to assist the liberal Dom Pedro against the reactionary
 Dom Miguel, but abandoned the idea when it was found that a Polish
 legion could not be formed. A wider field for his activity presented
 itself in 1848. First he attempted to hold Vienna against the imperial
-troops, and, after the capitulation, hastened to Pressburg to offer his
-services to Kossuth, first defending himself, in a long memorial, from
+troops, and, after the [[Capitulation|capitulation]], hastened to Pressburg to offer his
+services to [[Kossuth]], first defending himself, in a long memorial, from
 the accusations of treachery to the Polish cause and of aristocratic
 tendencies which the more fanatical section of the Polish emigrant
 Radicals repeatedly brought against him. He was entrusted with the

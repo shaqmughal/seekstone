@@ -28,17 +28,17 @@ of which he, however, invariably absented himself. In 1794 he obtained
 the first prize in a competition, the subject of which was "The Tenth of
 August," and, further stimulated by the successes of his rival and
 friend Girodet in the Salons of 1793 and 1794, Gerard (nobly aided by
-Isabey the miniaturist) produced in 1795 his famous "Belisaire." In 1796
+[[Isabey]] the miniaturist) produced in 1795 his famous "Belisaire." In 1796
 a portrait of his generous friend (in the Louvre) obtained undisputed
 success, and the money received from Isabey for these two works enabled
 Gerard to execute in 1797 his "Psyche et l'Amour." At last, in 1799, his
-portrait of Madame Bonaparte established his position as one of the
+portrait of Madame [[Bonaparte]] established his position as one of the
 first portrait-painters of the day. In 1808 as many as eight, in 1810 no
 less than fourteen portraits by him, were exhibited at the Salon, and
 these figures afford only an indication of the enormous numbers which he
 executed yearly; all the leading figures of the empire and of the
 restoration, all the most celebrated men and women of Europe, sat to
-Gerard. This extraordinary vogue was due partly to the charm of his
+Gerard. This extraordinary vogue was due partly to the [[Charm|charm]] of his
 manner and conversation, for his _salon_ was as much frequented as his
 studio; Madame de Stael, Canning, Talleyrand, the duke of Wellington,
 have all borne witness to the attraction of his society. Rich and
@@ -46,18 +46,18 @@ famous, Gerard was stung by remorse for earlier ambitions abandoned; at
 intervals he had indeed striven to prove his strength with Girodet and
 other rivals, and his "Bataille d'Austerlitz" (1810) showed a breadth of
 invention and style which are even more conspicuous in "L'Entree d'Henri
-IV" (Versailles)--the work with which in 1817 he did homage to the
-Bourbons. After this date Gerard declined, watching with impotent grief
+IV" (Versailles)--the work with which in 1817 he did [[Homage|homage]] to the
+[[Bourbon|Bourbons]]. After this date Gerard declined, watching with impotent grief
 the progress of the Romantic school. Loaded with honours--baron of the
-empire, member of the Institute, officer of the legion of honour, first
+empire, member of the Institute, officer of the [[Legion|legion]] of honour, first
 painter to the king--he worked on sad and discouraged; the revolution of
 1830 added to his disquiet; and on the 11th of January 1837, after three
-days of fever, he died. By his portraits Gerard is best remembered; the
+days of [[Fever|fever]], he died. By his portraits Gerard is best remembered; the
 colour of his paintings has suffered, but his drawings show in uninjured
 delicacy the purity of his line; and those of women are specially
 remarkable for a virginal simplicity and frankness of expression.
 
-  M. Ch. Lenormant published in 1846 _Essai de biographie et de critique
+  M. Ch. [[Lenormant]] published in 1846 _Essai de biographie et de critique
   sur Francois Gerard_, a second edition of which appeared in 1847; and
   M. Delecluze devoted several pages to the same subject in his work
   _Louis David, son ecole et son temps_.

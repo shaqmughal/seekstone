@@ -16,9 +16,9 @@ and by holding services out of doors. The principle underlying all these
 changes is systematized in the Institutional Church which, in addition
 to its main building for specifically religious services, provides
 other rooms or buildings which during the week are open for the use of
-members and friends. Lectures, concerts, debates and social gatherings
+members and friends. Lectures, [[Concert|concerts]], debates and social gatherings
 are organized; there are reading rooms, gymnasiums and other recreations
-rooms; various clubs (cycling, cricket, football) are formed. The
+rooms; various clubs (cycling, cricket, [[Football|football]]) are formed. The
 organization of the whole is subdivided into special departments managed
 by committees. By these various means many persons are attracted into
 the atmosphere of the church's work who could not be induced to attend
@@ -31,8 +31,8 @@ example in England is Whitefield's Central Mission in Tottenham Court
 Road, London, a church which, in addition to an elaborate organization
 on the lines above described, has an official journal. In the United
 States the movement may be said to date from about 1880. The name
-"Institutional" was first applied to Berkeley Temple, Boston, by Dr
-William Jewett Tucker, then president of Dartmouth College. The obvious
+"Institutional" was first applied to [[Berkeley]] Temple, [[Boston]], by Dr
+William [[Jewett]] Tucker, then president of [[Dartmouth College]]. The obvious
 criticism that this epithet emphasizes the administrative and secular
 side to the exclusion of the spiritual led to the tentative adoption of
 other titles, e.g. the "Open Church," the "Free Church," the former of
@@ -43,8 +43,8 @@ churches. In connexion with this league was formed the "National
 Federation of Churches and Christian Workers," which held a convention
 in 1905.
 
-  See C. Silvester Horne, _The Institutional Church_ (London, 1906); G.
-  W. Mead, _Modern Methods in Church Work_ (New York, 1897); R. A.
+  See C. Silvester [[Horne]], _The Institutional Church_ (London, 1906); G.
+  W. [[Mead]], _Modern Methods in Church Work_ (New York, 1897); R. A.
   Woods, _English Social Movements_ (New York, 1891).
 
 ## See also

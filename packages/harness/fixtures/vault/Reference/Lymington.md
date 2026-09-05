@@ -1,14 +1,14 @@
 # Lymington
 
 LYMINGTON, a municipal borough and seaport in the New Forest
-parliamentary division of Hampshire, England, 98 m. S.W. from London by
+parliamentary division of [[Hampshire]], England, 98 m. S.W. from London by
 the London & South Western railway. Pop. (1901) 4165. It lies on the
 estuary of the Lymington, which opens into the Solent. The church of St
-Thomas à Becket is an irregular structure, dating from the reign of
-Henry VI., but frequently restored. There is some coasting trade, and
+Thomas à [[Becket]] is an irregular structure, dating from the reign of
+Henry VI., but frequently restored. There is some [[Coasting|coasting]] trade, and
 yacht-building is carried on. Regular passenger steamers serve Yarmouth
 in the Isle of Wight. In summer the town is frequented for sea-bathing.
-It is governed by a mayor, 4 aldermen and 12 councillors. Area, 1515
+It is governed by a [[Mayor|mayor]], 4 aldermen and 12 councillors. Area, 1515
 acres.
 
 There was a Roman camp near Lymington (_Lentune_, _Lementon_), and Roman
@@ -18,7 +18,7 @@ grant of the town to Richard de Redvers, earl of Devon, in the reign of
 Henry I. No charter has been found, but a judgment given under a writ of
 _quo warranto_ in 1578 confirms to the burgesses freedom from toll,
 passage and pontage, the tolls and stallage of the quay and the right to
-hold two fairs--privileges which they claimed under charters of Baldwin
+hold two fairs--privileges which they claimed under charters of [[Baldwin]]
 de Redvers and Isabel de Fortibus, countess of Albemarle, in the 13th
 century, and Edward Courtenay, earl of Devon, in 1405. The town was
 governed by the mayor and burgesses until the corporation was reformed
@@ -69,7 +69,7 @@ _Chemical Constitution of Lymph._--The lymph collected from the thoracic
 duct during hunger is almost water clear and yellowish in colour. Its
 specific gravity varies from 1015 to 1025. It tastes salt and has a
 faint odour. It is alkaline in reaction, but is much less alkaline than
-blood-serum. Like blood it clots, but clots badly, only forming a soft
+blood-serum. Like blood it [[Clot|clots]], but clots badly, only forming a soft
 clot which quickly contracts. The lymph collected from a lymphatic
 before it has passed through a lymph gland contains a few leucocytes,
 and though the number of lymphocytes is greater in the lymph after it
@@ -96,7 +96,7 @@ brought to it by the blood, and are discharged from the blood through
 the capillary wall. They thus come to lie in the tissue spaces between
 the cells, and from this supply of material in a dissolved state the
 cells take up the food they require. In the opposite direction the cell
-discharges its waste products into this same tissue fluid. The removal
+[[Discharge|discharges]] its waste products into this same tissue fluid. The removal
 of material from the tissue fluid may be effected either by its being
 absorbed through the capillary wall into the bloodstream, or by sending
 it into the lymphatic vessels and thus away from the tissue. From this
@@ -125,7 +125,7 @@ tubule at its commencement this does not follow.
 From these considerations we see that in the first instance the whole
 problem of lymph formation is intimately bound up with the study of the
 interchanges of material between the blood and the various tissue cells.
-The exchange of material between blood and tissue cell may possibly be
+The [[Exchange|exchange]] of material between blood and tissue cell may possibly be
 determined in one or both of two ways. Either it may result from changes
 taking place within the tissue cell, or the tissue cell remaining
 passive material may be sent to or withdrawn from it owing to a change
@@ -159,7 +159,7 @@ undoubtedly vary among themselves in the amount of water and other
 materials they take from the blood when thrown into activity, and their
 behaviour in this respect depends upon the work they are called upon to
 perform. We must discriminate between the substance required by and
-consumed by the tissue, the chemical food which on combustion yields the
+consumed by the tissue, the chemical food which on [[Combustion|combustion]] yields the
 energy by which the tissue performs work, and, on the other hand, the
 substance taken from the blood and either with or without further
 elaboration discharged from the tissue (as, for instance, in the process
@@ -249,11 +249,11 @@ higher than the blood is injected. This at first sight seems to be an
 all-sufficient explanation of the results recorded, but difficulties
 arise when we find that the tissues are not equally active in producing
 the effects. Thus it is found that the muscles and skin act as the chief
-water dépôt, while such tissues as the liver, intestines or pancreas
+water dépôt, while such tissues as the [[Liver|liver]], intestines or pancreas
 take a relatively small share in the exchange. Again, when a strong
 sodium chloride solution is injected a considerable part of the sodium
 chloride is soon found to have left the blood, and it has been shown
-that the chloride dépôt is not identical with the water dépôt. The lung,
+that the chloride dépôt is not identical with the water dépôt. The [[Lung|lung]],
 for instance, is found to take up relatively far more of the salt than
 other tissues. Simultaneously with the passage of the salt into the
 tissue an exchange of water from the tissue into the blood can be
@@ -337,13 +337,13 @@ in the amount of the thoracic duct lymph. Lymph is always flowing along
 the thoracic duct, and if the body is at rest, it has been shown that
 this lymph is coming practically entirely from the intestines and liver,
 chiefly, moreover, from the liver. The variations in the amount flowing
-under various conditions has been extensively studied. We will discuss
+under various conditions has been extensively studied. We will [[Discus|discuss]]
 them under the following headings: Changes brought about (a) by altered
 circulatory conditions, (b) by the injection of various substances, and
 (c) as a result of throwing an organ into activity.
 
 Ligature of the portal vein leads to an increased flow of duct lymph.
-Ligature of the inferior vena cava above the diaphragm also leads to a
+Ligature of the inferior vena cava above the [[Diaphragm|diaphragm]] also leads to a
 large increase in the flow of duct lymph. Ligature of the aorta may
 result in either an increased or decreased flow of direct lymph. One
 explanation of these results has been offered from a study of the
@@ -452,7 +452,7 @@ simultaneously excited. The stimulation of the nerve also produces
 dilatation of the blood-vessels and therefore a rise in capillary
 pressure. But that this vascular change is not the factor determining
 the lymph-flow is proved by the administration of a small dose of
-atropine, which arrests the secretion without influencing the vascular
+atropine, which [[Arrest|arrests]] the secretion without influencing the vascular
 reaction following chorda stimulation. After the atropine no lymph-flow
 occurs on stimulating the nerve. Many other instances of a similar kind
 might be adduced. Thus, we have seen that peptone specifically excites
@@ -514,7 +514,7 @@ _Lymph spaces_ are mere spaces in the connective tissue, which usually
 have no special lining, though sometimes there is a layer of endothelial
 cells like those of the lymphatic and blood vessels. Most of these
 spaces are very small, but sometimes, as in the case of the
-_sub-epicranial space_ of the scalp, the _capsule of Tenon_ in the
+_sub-epicranial space_ of the scalp, the _[[Capsule|capsule]] of Tenon_ in the
 orbit, and the _retropharyngeal space_ in the neck, they are large and
 are adaptations to allow free movement. Opening from these spaces, and
 also communicating with the serous membranes by small openings called
@@ -543,7 +543,7 @@ chyli_.
 
 The _lymphatic glands_ are pink bodies situated in the course of the
 lymphatic vessels, to which they act as filters. They are generally oval
-in shape and about the size of a bean, but sometimes, especially in the
+in shape and about the size of a [[Bean|bean]], but sometimes, especially in the
 groin, they form irregular flattened masses 2 in. long, while, at other
 times, they are so small as almost to escape notice. They are usually
 found in groups.
@@ -555,7 +555,7 @@ found in groups.
   close to the trabeculae is a lymph path or sinus, which is only
   crossed by the reticular stroma of the lymphoid tissue, and this
   probably acts as a mechanical sieve, entangling foreign particles; as
-  an example of this the bronchial glands are black from carbon strained
+  an example of this the bronchial glands are black from [[Carbon|carbon]] strained
   off in its passage from the lungs, while the axillary glands in a
   tattooed arm are blue. The blood-vessels enter at one spot, the
   _hilum_, and are distributed along the trabeculae. In addition to
@@ -576,7 +576,7 @@ found in groups.
   surface of the neck; the _submaxillary glands_ (fig. 1, [delta]),
   lying just above the salivary gland of the same name and draining the
   front of the face and scalp; the _submental glands_ (fig. 1,
-  [epsilon]), beneath the chin, draining the lower lip, as well as
+  [epsilon]), beneath the chin, draining the lower [[Lip|lip]], as well as
   sometimes the upper, and the front of the tongue; the _retropharyngeal
   glands_, draining the naso-pharynx and tympanum; the _pretracheal
   glands_, draining the trachea and lower part of the thyroid body; and
@@ -609,10 +609,10 @@ found in groups.
 
   In the thorax are found _intercostal glands_ (fig. 2, I.), near the
   vertebral column draining the back of the thoracic walls and pleura;
-  _internal mammary glands_, draining the front of the same parts as
-  well as the inner part of the breast and the upper part of the
+  _internal [[Mammary Gland|mammary glands]]_, draining the front of the same parts as
+  well as the inner part of the [[Breast|breast]] and the upper part of the
   abdominal wall; _diaphragmatic glands_, draining that structure and
-  the convex surface of the liver; _anterior, middle, posterior and
+  the [[Convex|convex]] surface of the liver; _anterior, middle, posterior and
   superior mediastinal glands_, draining the contents of those cavities.
   The _bronchial glands_, draining the lungs, have already been referred
   to.
@@ -631,13 +631,13 @@ found in groups.
   draining the caecum, one of which is known as the _appendicular_ gland
   and drains the vermiform appendix and right ovary; the _colic glands_
   along the right and middle colic arteries, draining the ascending and
-  transverse colon; the _inferior mesenteric glands_ in the course of
+  transverse [[Colon|colon]]; the _inferior mesenteric glands_ in the course of
   that artery, draining the descending iliac and pelvic colons; the
   _rectal_ glands, behind the rectum, draining its upper part.
 
   Among the parietal glands are the _external iliac glands_, divided
   into a lateral and mesial set (see fig. 2, E.I.), and receiving the
-  inguinal efferent vessels and lymphatics from the bladder, prostate,
+  inguinal efferent vessels and lymphatics from the [[Bladder|bladder]], prostate,
   cervix uteri, upper part of the vagina, glans penis vel clitoridis and
   urethra. The _supra_ and _infra-umbilical glands_ receive the deep
   lymphatics of the abdominal wall, the former communicating with the
@@ -656,14 +656,14 @@ found in groups.
   they are known as _coeliac glands_. The _lateral aortic glands_ drain
   the kidney, adrenal, testis, ovary, fundus of uterus and lateral
   abdominal walls. In the upper extremity a few small glands are
-  sometimes found near the deep arteries of the forearm. At the bend of
-  the elbow are the _ante-cubital_ glands (fig. 1 [lambda]) and just
+  sometimes found near the deep arteries of the forearm. At the [[Bend|bend]] of
+  the [[Elbow|elbow]] are the _ante-cubital_ glands (fig. 1 [lambda]) and just
   above the internal condyle, one or two _supra-trochlear glands_ (fig.
   1, [theta]). The _axillary glands_ (fig. 1, [eta]) are perhaps the
   most practically important in the body. They are divided into four
   sets: (1) _external_, along the axillary vessels, draining the greater
   part of the arm; (2) _anterior_, behind the lower border of the
-  pectoralis major muscle, draining the surface of the thorax including
+  pectoralis [[Major|major]] muscle, draining the surface of the thorax including
   the breast and upper part of the abdomen; (3) _posterior_ along the
   subscapular artery, draining the back and side of the trunk as low as
   the umbilical zone; (4) superior or _infra-clavicular glands_ (fig. 1,
@@ -672,7 +672,7 @@ found in groups.
   superficial lymphatics pass up to the groin, where there are two sets
   of glands arranged like a T. The _superficial femoral_ glands (fig. 1,
   [lambda]) are the vertical ones, and are grouped round the internal
-  saphenous vein; they are very large, drain the surface of the leg, and
+  saphenous vein; they are very large, drain the surface of the [[Leg|leg]], and
   are usually in two parallel rows. The _inguinal glands_ form the
   cross bar of the T (fig. 1, [kappa]), and drain part of the buttock,
   the surface of the abdomen below the umbilicus and the surface of the
@@ -725,7 +725,7 @@ spleen can be removed without ill effects. In man they extend along the
 vertebral column from the coeliac axis to the pelvis, but are specially
 numerous close to the renal arteries.
 
-  T. Lewis suggests that lymphatic and haemolymph glands should be
+  T. [[Lewis]] suggests that lymphatic and haemolymph glands should be
   classified in the following way:--
 
               / Haemal glands.    / Simple.
@@ -739,11 +739,11 @@ numerous close to the renal arteries.
               \ Lymphatic glands.
 
   Details and references will be found in papers by T. Lewis, _J. Anat.
-  & Phys._ vol. xxxviii. p. 312; W. B. Drummond, _Journ. Anat. and
+  & Phys._ vol. xxxviii. p. 312; W. B. [[Drummond]], _Journ. Anat. and
   Phys._ vol. xxxiv. p. 198; A. S. Warthin, _Journ. Med. Research_,
   1901, p. 3, and H. Dayton, _Am. Journ. of Med. Sciences_, 1904, p.
   448. For further details of man's lymphatic system see _The
-  Lymphatics_ by Delamere, Poirier and Cuneo, translated by C. H. Leaf
+  Lymphatics_ by [[Delamere]], Poirier and [[Cuneo]], translated by C. H. [[Leaf]]
   (London, 1903).
 
   _Embryology._--The lymphatic vessels are possibly developed by the
@@ -761,7 +761,7 @@ numerous close to the renal arteries.
   glands result, but if the lymphatic vessels become predominant
   ordinary lymphatic glands are formed. At an early stage in the embryo
   pig two thoracic ducts are formed, one on either side of the aorta,
-  and the incomplete fusion of these may account for the division often
+  and the incomplete [[Fusion|fusion]] of these may account for the division often
   found in man's duct. In the embryo pig too there have been found two
   pairs of lymph hearts for a short period.
 
@@ -770,7 +770,7 @@ numerous close to the renal arteries.
   _Development of the Human Body_, by J. P. McMurrich (London, 1906),
   and Quain's _Anatomy_ (vol. i., London, 1908).
 
-  _Comparative Anatomy._--A lymphatic system is recognized in all the
+  _[[Comparative Anatomy]]._--A lymphatic system is recognized in all the
   Craniata, and in the lower forms (fishes and Amphibia) it consists
   chiefly of lymph spaces and sinuses in communication with the coelom.
   In fishes, for instance, there is a large _subvertebral lymph sinus_
@@ -806,8 +806,8 @@ numerous close to the renal arteries.
   varieties may be distinguished: simple, suppurative and tuberculous.
   The cause is always the absorption of some toxic or infective material
   from the periphery. This may take place in several of the acute
-  infectious diseases, notably in scarlet fever, mumps, diphtheria and
-  German measles, or may be the result of poisoned wounds. The lymphatic
+  infectious diseases, notably in scarlet [[Fever|fever]], mumps, diphtheria and
+  German [[Measles|measles]], or may be the result of poisoned wounds. The lymphatic
   glands are also affected in constitutional diseases such as syphilis.
   Simple lymphadenitis usually subsides of its own accord, but if toxins
   are produced in the inflamed area the enlargement is obvious and
@@ -816,11 +816,11 @@ numerous close to the renal arteries.
 
   _Tuberculous lymphadenitis_ (scrofula) is due to the infection of the
   lymph glands by Koch's tubercle bacillus. This was formerly known as
-  "King's Evil," as it was believed that the touch of the royal hand had
+  "[[King'S Evil|King's Evil]]," as it was believed that the touch of the royal hand had
   power to cure it. It occurs most commonly in children and young adults
   whose surroundings are unhealthy, and who are liable to develop
   tuberculous disease from want of sufficient food and fresh air. Some
-  local focus of irritation is usually present. The ways in which the
+  local [[Focus|focus]] of irritation is usually present. The ways in which the
   tubercle bacillus enters the body are much disputed, but catarrh of
   the mucous membranes is regarded as a predisposing factor, and the
   tonsils as a probable channel of infection. Any lymphoid tissue in the
@@ -874,7 +874,7 @@ numerous close to the renal arteries.
   when the disease starts in the deeper structures the first symptoms
   may be pain in the chest and cough, pain in the abdomen, pain and
   oedema in the legs. The glands may increase until they are as large as
-  eggs, and later may become firmly adherent one to another, forming
+  [[Egg|eggs]], and later may become firmly adherent one to another, forming
   large lobulated tumours. Increase of growth in this manner in the neck
   may cause obstructive dyspnoea and even death. In the majority of
   cases the spleen enlarges, and in rare instances lymphoid tumours may
@@ -888,7 +888,7 @@ numerous close to the renal arteries.
   chronic type of the disease. Early surgical intervention has in some
   cases been followed by success. The application of X-rays is a
   valuable method of treatment, superficial glands undergoing a rapid
-  diminution in size. Of drugs arsenic is of the most service, and
+  diminution in size. Of drugs [[Arsenic|arsenic]] is of the most service, and
   mercurial inunction has been recommended by Dreschfeld. Organic
   extracts have of late been used in the treatment of lymphadenoma.
 
@@ -931,7 +931,7 @@ numerous close to the renal arteries.
   dangerous to these subjects. When an attack of syncope takes place no
   treatment is of any avail.
 
-  Virchow, West and Goodhardt have described a form of asthma in adults
+  Virchow, West and Goodhardt have described a form of [[Asthma|asthma]] in adults
   which they ascribe to a hypertrophied thymus gland and term "thymic
   asthma."
 
@@ -940,8 +940,8 @@ numerous close to the renal arteries.
   most usual pathological condition which gives rise to symptoms is that
   of _wandering spleen_, which may or may not be secondary to a
   wandering left kidney. It may produce symptoms of dragging and
-  discomfort, dyspepsia, vomiting and abdominal pain, and sometimes
-  jaundice (Treves), or the pedicle may become twisted, producing
+  discomfort, [[Dyspepsia|dyspepsia]], vomiting and abdominal pain, and sometimes
+  [[Jaundice|jaundice]] (Treves), or the pedicle may become twisted, producing
   extremely severe symptoms. The treatment is entirely surgical. Abscess
   in the spleen occasionally occurs, usually in association with
   infective endocarditis or with general pyaemia. The spleen may be the
@@ -950,7 +950,7 @@ numerous close to the renal arteries.
   carcinoma. Infection of the spleen plays a prominent part in many
   diseases, such as malaria, typhoid fever, lymphadenoma and leucaemia.
 
-  Diseases of the thyroid gland (see GOITRE) and _Addison's disease_ (of
+  Diseases of the thyroid gland (see [[Goitre|GOITRE]]) and _Addison's disease_ (of
   the suprarenal glands) are treated separately.     (H. L. H.)
 
 

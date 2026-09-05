@@ -17,10 +17,10 @@ Angilbert was the Homer of the emperor's literary circle, and was
 the probable author of an epic, of which the fragment which has been
 preserved describes the life at the palace and the meeting between
 Charlemagne and Leo III. It is a mosaic from Virgil, Ovid, Lucan and
-Fortunatus, composed in the manner of Einhard's use of Suetonius,
+[[Fortunatus]], composed in the manner of Einhard's use of Suetonius,
 and exhibits a true poetic gift. Of the shorter poems, besides the
 greeting to Pippin on his return from the campaign against the Avars
-(796), an epistle to David (Charlemagne) incidentally reveals a
+(796), an [[Epistle|epistle]] to David (Charlemagne) incidentally reveals a
 delightful picture of the poet living with his children in a house
 surrounded by pleasant gardens near the emperor's palace. The
 reference to Bertha, however, is distant and respectful, her name

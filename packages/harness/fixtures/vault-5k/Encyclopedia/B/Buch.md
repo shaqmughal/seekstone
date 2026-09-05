@@ -5,7 +5,7 @@ geographer, a member of an ancient and noble Prussian family, was born at
 Stolpe in Pomerania on the 26th of April 1774. In 1790-1793 he studied at
 the mining school of Freiberg under Werner, one of his fellow-students
 there being Alexander von Humboldt. He afterwards completed his education
-at the universities of Halle and Goettingen. His _Versuch einer
+at the universities of [[Halle]] and Goettingen. His _Versuch einer
 mineralogischen Beschreibung von Landeck_ (Breslau, 1797) was translated
 into French (Paris, 1805), and into English as _Attempt at a Mineralogical
 Description of Landeck_ (Edinburgh, 1810); he also published in 1802
@@ -28,20 +28,20 @@ formation of these rocks. The scientific results of his investigations he
 embodied in his _Geognostische Beobachtungen auf Reisen durch Deutschland
 und Italien_ (Berlin, 1802-1809). From the south of Europe von Buch
 repaired to the north, and spent two years among the Scandinavian islands,
-making many important observations on the geography of plants, on
+making many important observations on the [[Geography|geography]] of plants, on
 climatology and on geology. He showed that many of the erratic blocks on
 the North German plains must have come from Scandinavia. He also
 established the fact that the whole of Sweden is slowly but continuously
 rising above the level of the sea from Frederikshald to Abo. The details of
 these discoveries are given in his _Reise durch Norwegen und Lappland_
-(Berlin, 1810). In 1815 he visited the Canary Islands in company with
+(Berlin, 1810). In 1815 he visited the [[Canary Islands]] in company with
 Christian Smith, the Norwegian botanist. His observations here convinced
 him that these and other islands of the Atlantic owed their existence to
 volcanic action of the most intense kind, and that the groups of islands in
 the South Sea are the remains of a pre-existing continent. The physical
 description of the Canary Islands was published at Berlin in 1825, and this
 work alone is regarded as an enduring monument of his labours. After
-leaving the Canaries von Buch proceeded to the Hebrides and the coasts of
+leaving the Canaries von Buch proceeded to the [[Hebrides]] and the coasts of
 Scotland and Ireland. Palaeontology also claimed his attention, and he
 described in 1831 and later years a number of Cephalopods, Brachiopods and
 Cystidea, and pointed out their stratigraphical importance. In addition to
@@ -49,7 +49,7 @@ the works already mentioned von Buch published in 1832 the magnificent
 _Geological Map of Germany_ (42 sheets, Berlin). His geological excursions
 were continued without interruption till his 78th year. Eight months before
 his death he visited [v.04 p.0659] the mountains of Auvergne; and on
-returning home he read a paper on the Jurassic formation before the Academy
+returning home he read a paper on the [[Jurassic]] formation before the Academy
 of Berlin. He died at Berlin on the 4th of March 1853. Von Buch had
 inherited from his father a fortune more than sufficient for his wants. He
 was never married, and was unembarrassed by family ties. His excursions

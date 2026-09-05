@@ -8,12 +8,12 @@ type: article
 # Lucchesini
 
 LUCCHESINI, GIROLAMO (1751-1825), Prussian diplomatist, was born at
-Lucca on the 7th of May 1751, the eldest son of Marquis Lucchesini. In
+[[Lucca]] on the 7th of May 1751, the eldest son of Marquis Lucchesini. In
 1779 he went to Berlin where Frederick the Great gave him a court
 appointment, making use of him in his literary relations with Italy.
-Frederick William II., who recognized his gifts for diplomacy, sent him
+Frederick William II., who recognized his gifts for [[Diplomacy|diplomacy]], sent him
 in 1787 to Rome to obtain the papal sanction for the appointment of a
-coadjutor to the bishop of Mainz, with a view to strengthening the
+coadjutor to the bishop of [[Mainz]], with a view to strengthening the
 German Fürstenbund. In 1788 he was sent to Warsaw, and brought about a
 rapprochement with Prussia and a diminution of Russian influence at
 Warsaw. He was accredited ambassador to the king and republic of Poland
@@ -40,11 +40,11 @@ authority of Louis XVI. He was opposed alike to the invasion of France
 and the Austrian alliance, but his prepossessions did not interfere with
 his skilful conduct of the negotiations with Kellermann after the allies
 had been forced to retire by Dumouriez's guns at Valmy, nor with his
-success in securing the landgrave of Hesse-Darmstadt's assistance
+success in securing the [[Landgrave|landgrave]] of Hesse-Darmstadt's assistance
 against France. In 1793 he was appointed ambassador to Vienna, with the
 ostensible object of securing financial assistance for the Rhenish
 campaign. He accompanied Frederick William through the Polish campaign
-of 1793-94, and in the autumn returned to Vienna. His anti-Austrian bias
+of 1793-94, and in the autumn returned to Vienna. His anti-Austrian [[Bias|bias]]
 made him extremely unpopular with the Austrian court, which asked in
 vain for his recall in 1795. In 1797, after a visit to Italy in which he
 had an interview with Napoleon at Bologna, these demands were renewed
@@ -55,9 +55,9 @@ the continuance of a neutral policy were intercepted by the first
 consul, who sought his recall, but eventually accepted him as regular
 ambassador (1802). He consistently sought friendly relations between
 France and Prussia, but he warned his government in 1806 of Napoleon's
-intention of restoring Hanover to George III. and of Murat's aggressions
+intention of restoring [[Hanover]] to George III. and of Murat's aggressions
 in Westphalia. He was superseded as ambassador in Paris in September
-just before the outbreak of war. After the disaster of Jena on the 14th
+just before the outbreak of war. After the disaster of [[Jena]] on the 14th
 of October he had an interview with Duroc near Wittenberg to seek terms
 of peace. After two unsuccessful attempts at negotiation, the first
 draft being refused by Napoleon, the second by Frederick William, he

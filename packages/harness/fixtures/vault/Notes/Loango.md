@@ -2,7 +2,7 @@
 
 LOANGO, a region on the west coast of Africa, extending from the mouth
 of the Congo river in 6° S. northwards through about two degrees. At one
-time included in the "kingdom of Congo" (see ANGOLA, _History_), Loango
+time included in the "kingdom of Congo" (see [[Angola|ANGOLA]], _History_), Loango
 became independent about the close of the 16th century, and was still of
 considerable importance in the middle of the 18th century. Buali, the
 capital, was situated on the banks of a small river not far from the
@@ -12,7 +12,7 @@ Portugal and France exercised an intermittent sovereignty over the
 coast. Here the slave trade was longer maintained than anywhere else on
 the West African seaboard; since its extirpation, palm oil and
 india-rubber have been the main objects of commerce. The Loango coast is
-now divided between French Congo and the Portuguese district of Kabinda
+now divided between French Congo and the Portuguese district of [[Kabinda]]
 (see those articles). The natives, mainly members of the Ba-Kongo group
 of Bantu negroes, and often called Ba-Fiot, are in general well-built,
 strongly dolichocephalous and very thick of skull, the skin of various

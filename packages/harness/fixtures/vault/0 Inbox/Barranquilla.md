@@ -24,7 +24,7 @@ goods are transhipped by rail to the latter place, and thence by pack
 animals to Bogotá, or by smaller boats to points farther up the river.
 Barranquilla was originally founded in 1629, but attracted no attention as
 a commercial centre until about the middle of the 19th century, when
-efforts were initiated to secure the trade passing through Cartagena. The
+efforts were initiated to secure the trade passing through [[Cartagena]]. The
 city is built on a low plain, is regularly laid out, and has many fine
 warehouses, public buildings and residences, but its greater part, however,
 consists of mud-walled cabins supported by bamboo (_guadua_) framework and
@@ -32,7 +32,7 @@ thatched with rushes. The water-supply is drawn from the Magdalena, and the
 city is provided with telephone, electric light and tram services. Owing to
 periodical inundations, the surrounding country is but little cultivated,
 and the greater part of the population, which is of the mixed type common
-to the lowlands of Columbia, is engaged in no settled productive
+to the lowlands of [[Columbia]], is engaged in no settled productive
 occupation.
 
 ## See also

@@ -39,7 +39,7 @@ architecture in the north. Its design was that of a Jerusalem cross,
 with two flanking towers at the east end, two at the west end, and one
 in the centre, at the intersection of the roofs of the nave and
 transepts. It measured 282 ft. long from east to west by 120 ft. across
-the transepts, and consisted of the choir, the gable of which was
+the transepts, and consisted of the [[Choir|choir]], the [[Gable|gable]] of which was
 pierced by two tiers of five lancet windows and the Omega rose window;
 the north transept, in which the Dunbars were buried, and the south
 transept, the doorway of which is interesting for its dog's-tooth
@@ -51,7 +51,7 @@ every part. Though the Reformation left it unscathed, it suffered wanton
 violence from time to time. By order of the privy council the lead was
 stripped off the roofs in 1567 and sold to Holland to pay the troops;
 but the ship conveying the spoils foundered in the North Sea. In 1637
-the roof-tree of the choir perished during a gale, and three years later
+the roof-tree of the choir perished during a [[Gale|gale]], and three years later
 the rich timber screen was demolished. The central tower again collapsed
 in 1711, after which the edifice was allowed to go to ruin. Its stones
 were carted away, and the churchyard, overgrown with weeds, became the
@@ -62,7 +62,7 @@ notion of restoring the place to order. Undismayed, he attacked the mass
 of litter and with his own hands removed 3000 barrow-loads. When he died
 in 1841 he had cleared away all the rubbish, disclosed the original
 plan, and collected a quantity of fragments. A tablet, let into the
-wall, contains an epitaph by Lord Cockburn, recording Shanks's services
+wall, contains an epitaph by Lord [[Cockburn]], recording Shanks's services
 to the venerable pile, which has since been entrusted to the custody of
 the commissioners of woods and forests. The chapter-house, to the
 north-east of the main structure, suffered least of all the buildings,
@@ -77,23 +77,23 @@ he endowed the Elgin Institution (commonly known as the Anderson
 Institution) at the east end of High Street, for the education of youth
 and the support of old age. Within the precincts of the cathedral
 grounds stood the bishop's palace (now in ruins), the houses of the dean
-and archdeacon (now North and South Colleges), and the manses of the
+and [[Archdeacon|archdeacon]] (now North and South Colleges), and the [[Manse|manses]] of the
 canons. Other ecclesiastical buildings were the monasteries of
 Blackfriars (1230) and Greyfriars (1410) and the preceptory of
 Maisondieu (1240). They also were permitted to fall into decay, but the
 3rd marquess of Bute undertook the restoration of the Greyfriars'
 chapel. The parish church, in the Greek style, was built in 1828. Gray's
 hospital, at the west end of High Street, was endowed by Dr Alexander
-Gray (1751-1808), and at the east end stands the Institution, already
+[[Gray]] (1751-1808), and at the east end stands the Institution, already
 mentioned, founded by General Andrew Anderson (1746-1822). Other public
 buildings include the assembly rooms, the town-hall, the museum (in
 which the antiquities and natural history of the shire are abundantly
-illustrated), the district asylum, the academy, the county buildings and
+illustrated), the district [[Asylum|asylum]], the academy, the county buildings and
 the court house, the market buildings, the Victoria school of science
 and art, and Lady Gordon-Cumming's children's home. In 1903 Mr G.A.
 Cooper presented his native town with a public park of 42 acres,
 containing lakes representing on a miniature scale the British Isles.
-Grant Lodge, an old mansion of the Grant family, occupying the
+Grant [[Lodge]], an old mansion of the Grant family, occupying the
 south-west corner of the park, was converted into the public library.
 From the top of Ladyhill the view commands the links of the Lossie and
 the surrounding country, and a recreation ground is laid out on Lossie
@@ -102,7 +102,7 @@ Green.
 The industries include distilling and brewing, nursery gardening,
 tanning, saw and flour mills, iron-foundries and manufactures of
 woollens, tweeds and plaiding, and the quarrying of sandstone. Elgin
-combines with Banff, Cullen, Inverurie, Kintore and Peterhead to return
+combines with [[Banff]], [[Cullen]], [[Inverurie]], Kintore and Peterhead to return
 one member to parliament, and the town is controlled by a council with
 provost and bailies.
 
@@ -115,16 +115,16 @@ an Englishman, was buried in its precincts in 1184. In the church is
 preserved an old Celtic altar-bell of hammered iron, known as the
 "Ronnell bell." Such is the odour of sanctity of this venerable church
 that there is an old local saying that "to be thrice prayed for in the
-kirk of Birnie will either mend or end ye." Six miles to the S.W. of
+[[Kirk|kirk]] of Birnie will either mend or end ye." Six miles to the S.W. of
 Elgin, charmingly situated in a secluded valley encircled by fir-clad
 heights, lie the picturesque remains of Pluscarden Priory, a Cistercian
 house founded by Alexander II. in 1230. The ruins, consisting of tower,
 choir, chapter-house, refectory and other apartments, are nearly hidden
 from view by their dense coating of ivy and the fine old trees,
-including many beautiful examples of copper beech, by which they are
+including many beautiful examples of copper [[Beech|beech]], by which they are
 surrounded. Its last prior, Alexander Dunbar, died in 1560. The _Liber
 Pluscardensis_, a valuable authority on early Scots history, was
-compiled in the priory by Maurice Buchanan in 1461. The chronicle comes
+compiled in the priory by [[Maurice]] [[Buchanan]] in 1461. The chronicle comes
 down to the death of James I. The 3rd marquess of Bute acquired the
 ruins in 1897.
 

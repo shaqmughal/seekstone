@@ -25,17 +25,17 @@ topography of the country. In 1888 Gallieni was made an officer of the
 Legion of Honour. In 1891 he attained the rank of colonel, and from 1893
 to 1895 he served in Tongking, commanding the second military division
 of the territory. In 1899 he published his experiences in _Trois
-Colonnes au Tonkin_. In 1896 Madagascar was made a French colony, and
+Colonnes au Tonkin_. In 1896 [[Madagascar]] was made a French colony, and
 Gallieni was appointed resident-general (a title changed in 1897 to
 governor-general) and commander-in-chief. Under the weak administration
 of his predecessor a widespread revolt had broken out against the
 French. By a vigorous military system Gallieni succeeded in completing
 the subjugation of the island. He also turned his attention to the
-destruction of the political supremacy of the Hovas and the restoration
+destruction of the political supremacy of the [[Hova|Hovas]] and the restoration
 of the autonomy of the other tribes. The execution of the queen's uncle,
 Ratsimamanga, and of Rainandrianampandry, the minister of the interior,
 in October 1896, and the exile of Queen Ranavalo III. herself in 1897,
-on the charge of fomenting rebellion, broke up the Hova hegemony, and
+on the charge of fomenting rebellion, broke up the Hova [[Hegemony|hegemony]], and
 made an end of Hova intrigues against French rule. The task of
 government was one of considerable difficulty. The application of the
 French customs and other like measures, disastrous to British and
@@ -47,7 +47,7 @@ liberty. In 1899 he published a _Rapport d'ensemble sur la situation
 generale de Madagascar_. In 1905, when he resigned the governorship,
 Madagascar enjoyed peace and a considerable measure of prosperity. In
 1906 General Gallieni was appointed to command the XIV. army corps and
-military government of Lyons. He reviewed the results of his Madagascar
+military government of [[Lyons]]. He reviewed the results of his Madagascar
 administration in a book entitled _Neuf Ans a Madagascar_ (Paris, 1908).
 
 ## References

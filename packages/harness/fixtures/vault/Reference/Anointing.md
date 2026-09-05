@@ -7,7 +7,7 @@ type: source
 
 # Anointing
 
-ANOINTING, or greasing with oil, fat, or melted butter, a process
+ANOINTING, or greasing with oil, fat, or melted [[Butter|butter]], a process
 employed ritually in all religions and among all races, civilized or
 savage, partly as a mode of ridding persons and things of dangerous
 influences and diseases, especially of the demons (Persian _drug_, Greek
@@ -20,13 +20,13 @@ anointing in consecrations.
 
 The Australian natives believed that the virtues of one killed could be
 transferred to survivors if the latter rubbed themselves with his
-caul-fat. So the Arabs of East Africa anoint themselves with lion's fat
-in order to gain courage and inspire the animals with awe of themselves.
+caul-fat. So the [[Arabs]] of East Africa anoint themselves with lion's fat
+in order to gain courage and inspire the animals with [[Awe|awe]] of themselves.
 Such rites are often associated with the actual eating of the victim
-whose virtues are coveted. Human fat is a powerful charm all over the
+whose virtues are coveted. Human fat is a powerful [[Charm|charm]] all over the
 world; for, as R. Smith points out, after the blood the fat was
 peculiarly the vehicle and seat of life. This is why fat of a victim was
-smeared on a sacred stone, not only in acts of homage paid to it, but in
+smeared on a sacred stone, not only in acts of [[Homage|homage]] paid to it, but in
 the actual consecration thereof. In such cases the influence of the god,
 communicated to the victim, passed with the unguent into the stone. But
 the divinity could by anointing be transferred into men no less than
@@ -43,14 +43,14 @@ downwards from head to foot.
 In the Christian religion, especially where animal sacrifices, together
 with the cult of totem or holy animals, have been given up, it is usual
 to hallow the oil used in ritual anointings with special prayers and
-exorcisms; oil from the lamps lit before the altar has a peculiar virtue
+exorcisms; oil from the [[Lamp|lamps]] lit before the altar has a peculiar virtue
 of its own, perhaps because it can be burned to give light, and
 disappears to heaven in doing so. In any case oil has ever been regarded
 as the aptest symbol and vehicle of the holy and illuminating spirit.
 For this reason the catechumens are anointed with holy oil both before
 and after baptism; the one act (of eastern origin) assists the expulsion
 of the evil spirits, the other (of western origin), taken in conjunction
-with imposition of hands, conveys the spirit and retains it in the
+with [[Imposition|imposition]] of hands, conveys the spirit and retains it in the
 person of the baptized. In the postbaptismal anointing the oil was
 applied to the organs of sense, to the head, heart, and midriff. Such
 ritual use of oil as a [Greek: sfragis] or seal may have been suggested
@@ -59,7 +59,7 @@ amphorae by pouring on a top layer of oil; for the spoiling of wine was
 attributed to the action of demons of corruption, against whom many
 ancient formulae of aversion or exorcism still exist.
 
-The holy oil, chrism, or [Greek: muron], as the Easterns call it, was
+The holy oil, [[Chrism|chrism]], or [Greek: muron], as the Easterns call it, was
 prepared and consecrated on Maundy Thursday, and in the Gelasian
 sacramentary the formula used runs thus: "Send forth, O Lord, we beseech
 thee, thy Holy Spirit the Paraclete from heaven into this fatness of
@@ -78,7 +78,7 @@ dead bodies and live in them. In the Armenian church, as formerly in
 many Greek churches, a cross is not holy until the Spirit has been
 formally led into it by means of prayer and anointing with holy oil. A
 new church is anointed at its four corners, and also the altar round
-which it is built; similarly tombs, church gongs, and all other
+which it is built; similarly tombs, church [[Gong|gongs]], and all other
 instruments and utensils dedicated to cultual uses. In churches of the
 Greek rite a little of the old year's chrism is left in the jar to
 communicate its sanctity to that of the new.     (F. C. C.)

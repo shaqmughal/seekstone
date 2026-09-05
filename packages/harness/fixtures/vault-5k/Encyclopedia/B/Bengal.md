@@ -1,36 +1,36 @@
 # Bengal
 
 BENGAL, a province of British India, bounded on the E. by the province
-of Eastern Bengal and Assam, the boundary line being the Madhumati river
-and the Ganges; on the S. by the Bay of Bengal and Madras; on the W. by
+of [[Eastern Bengal And Assam|Eastern Bengal and Assam]], the boundary line being the Madhumati river
+and the [[Ganges]]; on the S. by the Bay of Bengal and Madras; on the W. by
 the Central Provinces and United Provinces; and on the N. by Nepal and
 Sikkim. It has an area of 141,580 sq. m. and a population of 54,096,806.
-It consists of the provinces of Behar, Orissa and Chota Nagpur, and the
+It consists of the provinces of [[Behar]], Orissa and Chota Nagpur, and the
 western portion of the Ganges valley, but without the provinces of
 Northern and Eastern Bengal; and is divided into the six British
-divisions of the presidency, Bhagalpur, Patna, Burdwan, Chota Nagpur and
+divisions of the presidency, Bhagalpur, Patna, [[Burdwan]], Chota Nagpur and
 Orissa, and various native states. The province was reconstituted in
 1905, when the Chittagong, Dacca and Rajshahi divisions, the district of
-Malda and the state of Hill Tippera were transferred from Bengal to a
+[[Malda]] and the state of Hill Tippera were transferred from Bengal to a
 new province, Eastern Bengal and Assam; the five Hindi-speaking states
 of Chota Nagpur, namely Chang Bhakar, Korea, Sirguja, Udaipur and
-Jashpur, were transferred from Bengal to the Central Provinces; and
+[[Jashpur]], were transferred from Bengal to the Central Provinces; and
 Sambalpur and the five Oriya states of Bamra, Rairakhol, Sonpur, Patna
-and Kalahandi were transferred from the Central Provinces to Bengal. The
+and [[Kalahandi]] were transferred from the Central Provinces to Bengal. The
 province of Bengal, therefore, now consists of the thirty-three British
-districts of Burdwan, Birbhum, Bankura, Midnapore, Hugli, Howrah,
-Twenty-four Parganas, Calcutta, Nadia, Murshidabad, Jessore, Khulna,
+districts of Burdwan, Birbhum, Bankura, Midnapore, Hugli, [[Howrah]],
+Twenty-four Parganas, Calcutta, Nadia, Murshidabad, Jessore, [[Khulna]],
 Patna, Gaya, Shahabad, Saran, Champaran, Muzaffarpur, Darbhanga,
 Monghyr, Bhagalpur, Purnea, Santal Parganas, Cuttack, Balasore, Angul
-and Khondmals, Puri, Hazaribagh, Ranchi, Palamau, Manbhum, Singhbum and
+and Khondmals, Puri, [[Hazaribagh]], Ranchi, Palamau, Manbhum, Singhbum and
 Sambalpur, and the native states of Sikkim and the tributary states of
 Orissa and Chota Nagpur.
 
-The name Bengal is derived from Sanskrit geography, and applies strictly
+The name Bengal is derived from Sanskrit [[Geography|geography]], and applies strictly
 to the country stretching southwards from Bhagalpur to the sea. The
-ancient Banga formed one of the five outlying kingdoms of Aryan India,
+ancient Banga formed one of the five outlying kingdoms of [[Aryan]] India,
 and was practically conterminous with the delta of Bengal. It derived
-its name, according to the etymology of the Pundits, from a prince of
+its name, according to the [[Etymology|etymology]] of the Pundits, from a prince of
 the Mahabharata, to whose portion it fell on the primitive partition of
 the country among the Lunar race of Delhi. But a city called Bangala,
 near Chittagong, which, although now washed away, is supposed to have
@@ -43,20 +43,20 @@ distribution of the country for fiscal purposes, it formed the central
 province of a governorship, with Behar on the north-west, and Orissa on
 the south-west, jointly ruled by one deputy of the Delhi emperor. Under
 the English the name has at different periods borne very different
-significations. Francis Fernandez applies it to the country from the
+significations. Francis [[Fernandez]] applies it to the country from the
 extreme east of Chittagong to Point Palmyras in Orissa, with a coast
 line which Purchas estimates at 600 m., running inland for the same
 distance and watered by the Ganges. This territory would include the
 Mahommedan province of Bengal, with parts of Behar and Orissa. The loose
 idea thus derived from old voyagers became stereotyped in the archives
-of the East India Company. All its north-eastern factories, from
+of the [[East India Company]]. All its north-eastern factories, from
 Balasore, on the Orissa coast, to Patna, in the heart of Behar, belonged
 to the "Bengal Establishment," and as British conquests crept higher up
 the rivers, the term came to be applied to the whole of northern India.
 The presidency of Bengal, in contradistinction to those of Madras and
 Bombay, eventually included all the British territories north of the
 Central Provinces, from the mouths of the Ganges and Brahmaputra to the
-Himalayas and the Punjab. In 1831 the North-Western Provinces were
+[[Himalaya|Himalayas]] and the Punjab. In 1831 the North-Western Provinces were
 created, which are now included with Oudh in the United Provinces; and
 the whole of northern India is now divided into the four
 lieutenant-governorships of the Punjab, the United Provinces, Bengal,
@@ -80,7 +80,7 @@ was given in 1905 to the Central Provinces. The valley of the Ganges,
 which is now divided between Bengal and Eastern Bengal and Assam, is one
 of the most fertile and densely-populated tracts of country in the
 world. It teems with every product of nature. Tea, indigo, turmeric,
-lac, waving white fields of the opium-poppy, wheat and innumerable
+[[Lac|lac]], waving white fields of the opium-poppy, wheat and innumerable
 grains and pulses, pepper, ginger, betel-nut, quinine and many costly
 spices and drugs, oil-seeds of sorts, cotton, the silk mulberry,
 inexhaustible crops of jute and other fibres; timber, from the feathery
@@ -119,7 +119,7 @@ Originally conquered by the fluvial deposits from the sea, it now
 stretches out as a vast dead level, in which the rivers find their
 velocity checked, and their current no longer able to carry along the
 silt which they have brought down from northern India. The streams,
-accordingly, deposit their alluvial burden in their channels and upon
+accordingly, deposit their alluvial [[Burden|burden]] in their channels and upon
 their banks, so that by degrees their beds rise above the level of the
 surrounding country. In this way the rivers in the delta slowly build
 themselves up into canals, which every autumn break through or overflow
@@ -134,17 +134,17 @@ a vast amphibious wilderness of swamp and forest, amid whose solitudes
 their network of channels insensibly merges into the sea. The rivers,
 finally checked by the sea, deposit their remaining silt, which emerges
 as banks or blunted promontories, or, after a year's battling with the
-tide, adds a few feet or it may be a few inches to the foreshore.
+tide, adds a few feet or it may be a few [[Inch|inches]] to the foreshore.
 
 The Ganges gives to the country its peculiar character and aspect. About
 200 m. from its mouth it spreads out into numerous branches, forming a
 large delta, composed, where it borders on the sea, of a labyrinth of
-creeks and rivers, running through the dense forests of the Sundarbans,
+[[Creek|creeks]] and rivers, running through the dense forests of the Sundarbans,
 and exhibiting during the annual inundation the appearance of an immense
 sea. At this time the rice fields to the extent of many hundreds of
 square miles are submerged. The scene presents to a European eye a
 panorama of singular novelty and interest--rice fields covered with
-water to a great depth; the ears of grain floating on the surface; the
+water to a great depth; the [[Ear|ears]] of grain floating on the surface; the
 stupendous embankments, which restrain without altogether preventing the
 excesses of the inundations; and peasants going out to their daily work
 with their cattle in canoes or on rafts. The navigable streams which
@@ -153,7 +153,7 @@ great facilities for internal communication. In many parts boats can
 approach by means of lakes, rivulets and water-courses to the door of
 almost every cottage. The lower region of the Ganges is the richest and
 most productive portion of Bengal, abounding in valuable produce. The
-other principal rivers in Bengal are the Sone, Gogra, Gandak, Kusi,
+other principal rivers in Bengal are the Sone, Gogra, [[Gandak]], Kusi,
 Tista; the Hugli, formed by the junction of the Bhagirathi and Jalangi,
 and farther to the west, the Damodar and Rupnarayan; and in the
 south-west, the Mahanadi or great river of Orissa. In a level country
@@ -166,7 +166,7 @@ into which the river flows is of course so much land lost, while the old
 bed constitutes an accession to the adjacent estates. Thus, one man's
 property is diminished, while that of another is enlarged or improved;
 and a distinct branch of jurisprudence has grown up, the particular
-province of which is the definition and regulation of the alluvial
+province of which is the [[Definition|definition]] and regulation of the alluvial
 rights alike of private property and of the state.
 
 _Geology._--The greater part of Bengal is occupied by the alluvial
@@ -179,7 +179,7 @@ scattered numerous basins of Gondwana beds. Some of these are
 undoubtedly faulted into their present positions, and to this they owe
 their preservation. In the Rajmahal Hills basaltic lava flows are
 interbedded with the Gondwana deposits, and in the Karharbari coalfield
-the Gondwana beds are traversed by dikes of mica-peridotite and basalt,
+the Gondwana beds are traversed by [[Dike|dikes]] of mica-peridotite and basalt,
 which are supposed to be of the same age as the Rajmahal lavas. The
 Gondwana series is economically of great importance. It includes
 numerous seams of coal, many of which are worked on an extensive scale
@@ -193,7 +193,7 @@ different languages and representing far separated eras of civilization.
 The province, in fact, became so unwieldy that this was the chief reason
 for its partition in 1905. The people exhibit every stage of human
 progress, and every type of human enlightenment and superstition from
-the educated classes to primitive hill tribes. On the same bench of a
+the educated classes to primitive hill tribes. On the same [[Bench|bench]] of a
 Calcutta college sit youths trained up in the strictest theism, others
 indoctrinated in the mysteries of the Hindu trinity and pantheon, with
 representatives of every link in the chain of superstition--from the
@@ -205,7 +205,7 @@ officers employ it as a convenient generic to include 42 millions of the
 population of Bengal, comprising elements of transparently distinct
 ethnical origin, and separated from each other by their language,
 customs and religious rites. But Hinduism, understood even in this wide
-sense, represents only one of many creeds and races found within Bengal.
+sense, represents only one of many [[Creeds|creeds]] and races found within Bengal.
 The other great historical cultus, which during the last twelve
 centuries did for the Semitic peoples what Christianity accomplished
 among the European Aryans, has won to itself one-fifth of the population
@@ -224,7 +224,7 @@ central India, piratical devastations on the sea-board, banditti who
 marched about the interior in bodies of 50,000 men, floods which drowned
 the harvests of whole districts, and droughts in which a third of the
 population starved to death, kept alive a sense of human powerlessness
-in the presence of an omnipotent fate. Under the Mahommedans a
+in the presence of an omnipotent [[Fate|fate]]. Under the Mahommedans a
 pestilence turned the capital into a silent wilderness, never again to
 be re-peopled. Under British rule it is estimated that 10 millions
 perished within the Lower Provinces alone in the famine of 1769-1770;
@@ -239,13 +239,13 @@ surpassed elsewhere except in urban areas.
 
 _Language._--Excluding immigrants the languages spoken by the people of
 Bengal belong to one or other of four linguistic families--Aryan,
-Dravidian, Munda and Tibeto-Burman. Of these the languages of the Aryan
+[[Dravidian]], Munda and Tibeto-Burman. Of these the languages of the Aryan
 family are by far the most important, being spoken by no less than 95%
 of the population according to the census of 1901. The Aryan languages
 are spoken in the plains by almost the whole population; the Munda and
 Dravidian in the Chota Nagpur plateau and adjoining tracts; and the
-Tibeto-Burman in Darjeeling, Sikkim and Jalpaiguri. The most important
-Aryan languages are Bengali (q.v.), Bihari, Eastern Hindi and Oriya. On
+Tibeto-Burman in [[Darjeeling]], Sikkim and Jalpaiguri. The most important
+Aryan languages are [[Bengali]] (q.v.), Bihari, Eastern [[Hindi]] and Oriya. On
 the average in the province, before partition, out of every 1000 persons
 528 spoke Bengali, 341 Hindi and Bihari, and 79 Oriya. As a rule Bengali
 is the language of Bengal proper, Hindi of Behar and Chota Nagpur, and
@@ -269,7 +269,7 @@ most valuable crop, but being sown in low lands is liable to be
 destroyed by excessive rainfall. Harvest takes place in December or
 January. _Aus_ rice is generally sown on high ground. The field is
 ploughed when the early rains set in, ten or twelve times over, till the
-soil is reduced nearly to dust, the seed being sown broadcast in April
+soil is reduced nearly to [[Dust|dust]], the seed being sown broadcast in April
 or May. As soon as the young plants reach 6 in. in height, the land is
 harrowed for the purpose of thinning the crop and to clear it of weeds.
 The crop is harvested in August or September. _Boro_, or spring rice, is
@@ -295,7 +295,7 @@ Calcutta. Indigo used to be an important crop carried on with European
 capital in Behar, but of late years the industry has almost been
 destroyed by the invention of artificial indigo. Tea cultivation is the
 other great industry carried on by European capital, but that is chiefly
-confined to Assam, the industry in Darjeeling and the Dwars being on a
+confined to [[Assam]], the industry in Darjeeling and the Dwars being on a
 small scale. Opium is grown in Behar with its head station at Patna. The
 cultivation of the cinchona plant in Bengal was introduced as an
 experiment about 1862, and is grown on government plantations in
@@ -383,7 +383,7 @@ Pataliputra (the Palimbothra of the Greeks), once the capital of India.
 The Delta or southern part of Bengal lay beyond the ancient Sanskrit
 polity, and was governed by a number of local kings belonging to a
 pre-Aryan stock. The Chinese travellers, Fa Hien in the 5th century, and
-Hsuan Tsang in the 7th century, found the Buddhist religion prevailing
+[[Hsuan Tsang]] in the 7th century, found the Buddhist religion prevailing
 throughout Bengal, but already in a fierce struggle with Hinduism--a
 struggle which ended about the 9th or 10th century in the general
 establishment of the latter faith. Until the end of the 12th century
@@ -406,13 +406,13 @@ These settlements were of a purely commercial character. In 1620 one of
 the Company's factors dates from Patna; in 1624-1636 the Company
 established itself, by the favour of the emperor, on the ruins of the
 ancient Portuguese settlement of Pippli, in the north of Orissa; in
-1640-1642 an English surgeon, Gabriel Boughton, obtained establishments
+1640-1642 an English surgeon, Gabriel [[Boughton]], obtained establishments
 at Balasore, also in Orissa, and at Hugli, some miles above Calcutta.
 The vexations and extortions to which the Company's early agents were
 subjected more than once almost induced them to abandon the trade, and
 in 1677-1678 they threatened to withdraw from Bengal altogether. In
 1685, the Bengal factors, driven to extremity by the oppression of the
-Mogul governors, threw down the gauntlet; and after various successes
+Mogul governors, threw down the [[Gauntlet|gauntlet]]; and after various successes
 and hairbreadth escapes, purchased from the grandson of Aurangzeb, in
 1696, the villages which have since grown up into Calcutta, the
 metropolis of India. During the next fifty years the British had a long
@@ -423,7 +423,7 @@ followed by Clive's battle of Plassey and capture of Calcutta, which
 avenged it. That battle, and the subsequent years of confused fighting,
 established British military supremacy in Bengal, and procured the
 treaties of 1765, by which the provinces of Bengal, Behar and Orissa
-passed under British administration. To Warren Hastings (1772-1785)
+passed under British administration. To Warren [[Hastings]] (1772-1785)
 belongs the glory of consolidating the British power, and converting a
 military occupation into a stable civil government. To another member of
 the civil service, John Shore, afterwards Lord Teignmouth (1786-1793),
@@ -437,7 +437,7 @@ quasi-proprietors of the estates entrusted to them by the government. In
 land of Bengal to the previous quasi-proprietors or _zamindars_, on
 condition of the payment of a fixed land tax. This piece of legislation
 is known as the Permanent Settlement of the Land Revenue. But the
-Cornwallis code, while defining the rights of the proprietors, failed to
+Cornwallis [[Code|code]], while defining the rights of the proprietors, failed to
 give adequate recognition to the rights of the undertenants and the
 cultivators. His Regulations formally reserved the latter class of
 rights, but did not legally define them, or enable the husbandmen to
@@ -455,7 +455,7 @@ mutiny burst out in 1857. The transactions of that revolt chiefly took
 place in northern India, and are narrated in the article INDIAN MUTINY.
 In Bengal the rising began at Barrackpore, was communicated to Dacca in
 Eastern Bengal, and for a time raged in Behar, producing the memorable
-defence of the billiard-room at Arrah by a handful of civilians and
+defence of the billiard-room at [[Arrah]] by a handful of civilians and
 Sikhs--one of the most splendid pieces of gallantry in the history of
 the British arms. Since 1858, when the country passed to the crown, the
 history of Bengal has been one of steady progress. Five great lines of
@@ -483,7 +483,7 @@ recorded up to that date.
 
 The earthquake of the 12th of June 1897, which had its centre of
 disturbance in Assam, was felt throughout eastern and northern Bengal.
-In all the large towns the masonry buildings were severely damaged or
+In all the large towns the [[Masonry|masonry]] buildings were severely damaged or
 totally wrecked. The permanent way of the railways also suffered. The
 total number of deaths returned was only 135. Far more destructive to
 life was the cyclone and storm-wave that broke over Chittagong district
@@ -512,8 +512,8 @@ heading (see INDIA: _History_).
   See Parliamentary Papers relating to the reconstitution of the
   provinces of Bengal and Assam (Cd. 2658 and Cd. 2746, 1905); Colonel
   E.T. Dalton, _The Ethnology of Bengal_ (1872); Sir W.W. Hunter,
-  _Annals of Rural Bengal_ (1868), and _Orissa_ (1872); Sir H.H. Risley,
-  _Tribes and Castes of Bengal_ (1891); C.E. Buckland, _Bengal under the
+  _[[Annals]] of Rural Bengal_ (1868), and _Orissa_ (1872); Sir H.H. Risley,
+  _Tribes and [[Caste|Castes]] of Bengal_ (1891); C.E. Buckland, _Bengal under the
   Lieutenant-Governors_ (1901); and Sir James Bourdillon, _The Partition
   of Bengal_ (Society of Arts, 1905).
 

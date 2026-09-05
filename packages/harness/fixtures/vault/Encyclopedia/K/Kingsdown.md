@@ -3,12 +3,12 @@
 KINGSDOWN, THOMAS PEMBERTON LEIGH, BARON (1793-1867), the eldest son of
 Thomas Pemberton, a chancery barrister, was born in London on the 11th
 of February 1793. He was called to the bar at Lincoln's Inn in 1816, and
-at once acquired a lucrative equity practice. He sat in parliament for
+at once acquired a lucrative [[Equity|equity]] practice. He sat in parliament for
 Rye (1831-1832) and for Ripon (1835-1843). He was made a king's counsel
 in 1829. Of a retiring disposition, he seldom took part in parliamentary
-debates, although in 1838 in the case of _Stockdale_ v. _Hansard_ he
+debates, although in 1838 in the case of _Stockdale_ v. _[[Hansard]]_ he
 took a considerable part in upholding the privileges of parliament. In
-1841 he accepted the post of attorney-general for the duchy of Cornwall.
+1841 he accepted the post of [[Attorney-General|attorney-general]] for the duchy of [[Cornwall]].
 In 1842 a relative, Sir Robert H. Leigh, left him a life interest in his
 Wigan estates, amounting to some £15,000 a year; he then assumed the
 additional surname of Leigh. Having accepted the chancellorship of the

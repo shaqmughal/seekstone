@@ -52,7 +52,7 @@ Portugal. The new barony went after him to his two sons. The 3rd baron
 Gladstone, having married Miss Mary Glynne. He did important work in
 educational and poor law reform. He had eight sons, of whom the eldest,
 CHARLES GEORGE (b. 1842), became 5th baron, and in 1889 succeeded, by
-the death of the 3rd duke of Buckingham and Chandos, to the viscounty of
+the death of the 3rd duke of Buckingham and [[Chandos]], to the viscounty of
 Cobham, in which title the barony of Lyttelton is now merged. Other
 distinguished sons were Arthur Temple Lyttelton (d. 1903), warden of
 Selwyn College, Cambridge, and bishop-suffragan of Southampton; Edward

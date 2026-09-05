@@ -8,7 +8,7 @@ type: reference
 # Lobeck
 
 LOBECK, CHRISTIAN AUGUST (1781-1860), German classical scholar, was born
-at Naumburg on the 5th of June 1781. After having studied at Jena and
+at Naumburg on the 5th of June 1781. After having studied at [[Jena]] and
 Leipzig, he settled at Wittenberg in 1802 as privat-docent, and in 1810
 was appointed to a professorship in the university. Four years later, he
 accepted the chair of rhetoric and ancient literature at Königsberg,

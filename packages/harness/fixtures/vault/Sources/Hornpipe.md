@@ -5,7 +5,7 @@ and now the name of an English national dance. The sailors' hornpipe,
 although the most common, is by no means the only form of the dance, for
 there is a pretty tune known as the "College Hornpipe," and other
 specimens of a similar kind might be cited. The composition of hornpipes
-flourished chiefly in the 18th century, and even Handel did not disdain
+flourished chiefly in the 18th century, and even [[Handel]] did not disdain
 to use the characteristic rhythm. The hornpipe may be written in 3/2 or
 in common time, and is always of a lively nature.
 

@@ -1,6 +1,6 @@
 # Chinese Pavillon
 
-CHINESE PAVILLON, TURKISH CRESCENT, TURKISH JINGLE, or JINGLING JOHNNY
+CHINESE PAVILLON, TURKISH [[Crescent|CRESCENT]], TURKISH JINGLE, or JINGLING JOHNNY
 (Fr. _chapeau chinois_; Ger. _türkischer Halbmond, Schellenbaum_; Ital.
 _cappello chinese_), an instrument of percussion of indefinite
 sonorousness, i.e. not producing definite musical tones. The _chapeau
@@ -20,9 +20,9 @@ twice in a bar to punctuate the phrases and add brilliancy to the
 military music. The Turkish crescent or "jingling Johnny," as it was
 familiarly called in the British army bands, was introduced by the
 Janissaries into western Europe. It has fallen into disuse now, having
-been replaced by the glockenspiel or steel harmonica. Edinburgh
+been replaced by the glockenspiel or steel [[Harmonica|harmonica]]. Edinburgh
 University possesses two specimens.[1] In the 18th century at
-Bartholomew Fair one of the chief bands hired was one well known as
+[[Bartholomew Fair]] one of the chief bands hired was one well known as
 playing in London on winter evenings in front of the Spring-Garden
 coffee house and opposite Wigley's. This band consisted of a double
 drum, a Dutch organ (see BARREL-ORGAN), a tambourine, a violin, pipes

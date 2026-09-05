@@ -12,7 +12,7 @@ with the other Latin colonies, but we hear no more of it--mainly, no
 doubt, because it lay off the Via Latina. Livy's description of it as on
 the Via Latina is not strictly accurate, and cannot be used as an
 indication that the former course of the Via Latina was through
-Interamna. The city lay on a hill on the N. bank of the Liris, between
+Interamna. The city lay on a hill on the N. bank of the [[Liri|Liris]], between
 two of its tributaries, thus lacking natural defences on the N. side
 alone. Many inscriptions have been found, and there are considerable
 remains of antiquity. One inscription bears the date A.D. 408, and the

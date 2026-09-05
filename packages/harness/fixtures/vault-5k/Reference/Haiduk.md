@@ -2,7 +2,7 @@
 
 HAIDUK (also written _Hayduk, Heiduc, Heyduke_ and _Heyduque_), a term
 which appears originally to have meant "robber" or "brigand," a sense it
-retains in Servia and some other parts of the Balkan Peninsula. It is
+retains in Servia and some other parts of the [[Balkan Peninsula]]. It is
 probably derived from the Turkish _haidud_, "marauder," but its origin
 is not absolutely certain. Most of the European races with which the
 Turks came into close contact during the 15th and 16th centuries seem to

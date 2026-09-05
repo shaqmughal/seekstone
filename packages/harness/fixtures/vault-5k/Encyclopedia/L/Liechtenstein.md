@@ -12,7 +12,7 @@ Naafkopf or the Rothe Wand (8445 ft.); on its summit the Swiss,
 Vorarlberg, and Liechtenstein frontiers join. In 1901 the population was
 9477 (of whom 4890 were women and 4587 men). The capital is Vaduz (1523
 ft.), with about 1100 inhabitants, and 2 m. S. of the Schaan railway
-station, which is 2 m. from Buchs (Switz.). Even in the 17th century the
+station, which is 2 m. from [[Buch|Buchs]] (Switz.). Even in the 17th century the
 Romonsch language was not extinguished in the state, and many Romonsch
 place-names still linger, e.g. Vaduz, Samina, Gavadura, &c. Now the
 population is German-speaking and Romanist. The constitution of 1862 was
@@ -21,7 +21,7 @@ electors, while the diet consists of 12 members, holding their seats for
 4 years and elected indirectly, together with 3 members nominated by the
 prince. The prince has a lieutenant resident at Vaduz, whence there is
 an appeal to the prince's court at Vienna, with a final appeal (since
-1884) to the supreme district court at Innsbruck. Compulsory military
+1884) to the supreme district court at [[Innsbruck]]. Compulsory military
 service was abolished in 1868, the army having till then been 91 strong.
 The principality forms ecclesiastically part of the diocese of Coire,
 while as regards customs duties it is joined with the Vorarlberg, and as
@@ -44,7 +44,7 @@ German Confederation (1815-1866), having been sovereign 1806-1815 as
 well as since 1866.
 
   See J. Falke's _Geschichte d. fürstlichen Hauses Liechtenstein_ (3
-  vols., Vienna, 1868-1883); J. C. Heer, _Vorarlberg und Liechtenstein_
+  vols., Vienna, 1868-1883); J. C. [[Heer]], _Vorarlberg und Liechtenstein_
   (Feldkirch, 1906); P. Kaiser, _Geschichte d. Fürstenthums
   Liechtenstein_ (Coire, 1847); F. Umlauft, _Das Fürstenthum
   Liechtenstein_ (Vienna, 1891); E. Walder, _Aus den Bergen_ (Zürich,
@@ -54,8 +54,8 @@ well as since 1866.
 
 
 
-LIÉGE, one of the nine provinces of Belgium, touching on the east the
-Dutch province of Limburg and the German district of Rhenish Prussia. To
+LIÉGE, one of the nine provinces of [[Belgium]], touching on the east the
+Dutch province of [[Limburg]] and the German district of Rhenish Prussia. To
 a certain extent it may be assumed to represent the old
 prince-bishopric. Besides the city of Liége it contains the towns of
 Verviers, Dolhain, Seraing, Huy, &c. The Meuse flows through the centre
@@ -77,18 +77,18 @@ Durward_ in making its people talk Flemish. The Liége Walloon is the
 nearest existing approach to the old Romance language. The importance of
 the city to-day arises from its being the chief manufacturing centre in
 Belgium, and owing to its large output of arms it has been called the
-Birmingham of the Netherlands. The productive coal-mines of the Meuse
+[[Birmingham]] of the Netherlands. The productive coal-mines of the Meuse
 valley, extending from its western suburb of Seraing to its northern
 faubourg of Herstal, constitute its chief wealth. At Seraing is
-established the famous manufacturing firm of Cockerill, whose offices
+established the famous manufacturing firm of [[Cockerill]], whose offices
 are in the old summer palace of the prince-bishops.
 
-The great cathedral of St Lambert was destroyed and sacked by the French
+The great cathedral of St [[Lambert]] was destroyed and sacked by the French
 in 1794, and in 1802 the church of St Paul, dating from the 10th century
 but rebuilt in the 13th, was declared the cathedral. The law courts are
 installed in the old palace of the prince-bishops, a building which was
 constructed by Bishop Everard de la Marck between 1508 and 1540. The new
-boulevards are well laid out, especially those flanking the river, and
+[[Boulevard|boulevards]] are well laid out, especially those flanking the river, and
 the views of the city and surrounding country are very fine. The
 university, which has separate schools for mines and arts and
 manufactures, is one of the largest in the country, and enjoys a high
@@ -100,7 +100,7 @@ part. It was then defended only by the citadel and a detached fort on
 the right side of the Meuse, but at a short distance from the river,
 called the Chartreuse. Marlborough captured these forts in 1703 in
 preparation for his advance in the following year into Germany which
-resulted in the victory of Blenheim. The citadel and the Chartreuse were
+resulted in the victory of [[Blenheim]]. The citadel and the Chartreuse were
 still the only defences of Liége in 1888 when, after long discussions,
 the Belgian authorities decided on adequately fortifying the two
 important passages of the Meuse at Liége and Namur. A similar plan was
@@ -131,7 +131,7 @@ _History._--Liége first appears in history about the year 558, at which
 date St Monulph, bishop of Tongres, built a chapel near the confluence
 of the Meuse and the Legia. A century later the town, which had grown up
 round this chapel, became the favourite abode of St Lambert, bishop of
-Tongres, and here he was assassinated. His successor St Hubert raised a
+Tongres, and here he was assassinated. His successor St [[Hubert]] raised a
 splendid church over the tomb of the martyred bishop about 720 and made
 Liége his residence. It was not, however, until about 930 that the title
 bishop of Tongres was abandoned for that of bishop of Liége. The
@@ -143,7 +143,7 @@ successive bishops Liége became famous during the 11th century as a
 centre of learning, but the history of the town for centuries records
 little else than the continuous struggles of the citizens to free
 themselves from the exactions of their episcopal sovereigns; the aid of
-the emperor and of the dukes of Brabant being frequently called in to
+the emperor and of the [[Dukes|dukes]] of [[Brabant]] being frequently called in to
 repress the popular risings. In 1316 the citizens compelled Bishop
 Adolph de la Marck to sign a charter, which made large concessions to
 the popular demands. It was, however, a triumph of short duration, and
@@ -161,11 +161,11 @@ narrated in _Quentin Durward_. The long episcopate of Eberhard de la
 Marck (1505-1538) was a time of good administration and of quiet, during
 which the town regained something of its former prosperity. The outbreak
 of civil war between two factions, named the _Cluroux_ and the
-_Grignoux_, marked the opening of the 17th century. Bishop Maximilian
+_Grignoux_, marked the opening of the 17th century. Bishop [[Maximilian]]
 Henry of Bavaria (1650-1688) at last put an end to the internal strife
 and imposed a regulation (_règlement_) which abolished all the free
 institutions of the citizens and the power of the gilds. Between this
-date and the outbreak of the French Revolution the chief efforts of the
+date and the outbreak of the [[French Revolution]] the chief efforts of the
 prince-bishops were directed to maintaining neutrality in the various
 wars, and preserving their territory from being ravaged by invading
 armies. They were only in part successful. Liége was taken by
@@ -189,7 +189,7 @@ duchy of Bouillon.
   Liége_ (3 vols., Liége, 1725-1732); A. Borgnet, _Histoire de la
   révolution liégeoise_ (2 vols., Liége, 1865); Baron B. C. de Gerlache,
   _Histoire de Liége_ (Brussels, 1843); J. Daris, _Histoire du diocèse
-  et de la principauté de Liége_ (10 vols., Liége, 1868-1885); Ferdinand
+  et de la principauté de Liége_ (10 vols., Liége, 1868-1885); [[Ferdinand]]
   Henaux, _Histoire du pays de Liége_ (2 vols., Liége, 1857); L. Polain,
   _Histoire de l'ancien pays de Liége_ (2 vols., Liége, 1844-1847). For
   full bibliography see Ulysse Chevalier, _Répertoire des sources

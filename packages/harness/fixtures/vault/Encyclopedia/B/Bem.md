@@ -8,15 +8,15 @@ tags: [religion, dynasties-theory]
 
 # Bem
 
-BEM, JOSEF (1795-1850), Polish soldier, was born at Tarnow in Galicia,
+BEM, JOSEF (1795-1850), Polish soldier, was born at Tarnow in [[Galicia]],
 and was educated at the military school at Warsaw, where he especially
 distinguished himself in mathematics. Joining a Polish artillery
 regiment in the French service, he took part in the Russian campaign of
 1812, and subsequently so brilliantly distinguished himself in the
 defence of Danzig (January-November 1813) that he won the cross of the
-Legion of Honour. On returning to Poland he was for a time in the
+[[Legion]] of Honour. On returning to Poland he was for a time in the
 Russian service, but lost his post, and his liberty as well for some
-time, for his outspokenness. In 1825 he migrated to Lemberg, where he
+time, for his outspokenness. In 1825 he migrated to [[Lemberg]], where he
 taught the physical sciences. He was about to write a treatise on the
 steam-engine, when the Polish War of Independence summoned him back to
 Warsaw in November 1830. It was his skill as an artillery officer which
@@ -29,8 +29,8 @@ went to Portugal to assist the liberal Dom Pedro against the reactionary
 Dom Miguel, but abandoned the idea when it was found that a Polish
 legion could not be formed. A wider field for his activity presented
 itself in 1848. First he attempted to hold Vienna against the imperial
-troops, and, after the capitulation, hastened to Pressburg to offer his
-services to Kossuth, first defending himself, in a long memorial, from
+troops, and, after the [[Capitulation|capitulation]], hastened to Pressburg to offer his
+services to [[Kossuth]], first defending himself, in a long memorial, from
 the accusations of treachery to the Polish cause and of aristocratic
 tendencies which the more fanatical section of the Polish emigrant
 Radicals repeatedly brought against him. He was entrusted with the
@@ -60,11 +60,11 @@ honour has been erected at Maros-Vasarhely, but he lives still more
 enduringly in the immortal verses of the patriot poet Sandor Petofi, who
 fell in the fatal action of the 31st of July at Segesvar. As a soldier
 Bem was remarkable for his excellent handling of artillery and the
-rapidity of his marches.
+rapidity of his [[Marches|marches]].
 
-  See Johann Czetz, _Memoiren uber Bems Feldzug_ (Hamburg, 1850); Kalman
+  See Johann Czetz, _Memoiren uber Bems Feldzug_ ([[Hamburg]], 1850); Kalman
   Deresenyi, _General Bem's Winter Campaign in Transylvania, 1848-1849_
-  (Hung.), (Budapest, 1896).     (R. N. B.)
+  (Hung.), ([[Budapest]], 1896).     (R. N. B.)
 
 ## See also
 

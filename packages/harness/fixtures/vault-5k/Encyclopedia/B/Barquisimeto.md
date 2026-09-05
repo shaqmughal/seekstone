@@ -3,7 +3,7 @@
 BARQUISIMETO, a city of western Venezuela, capital of the state of Lara, on
 the Barquisimeto river, 101 m. by rail S.W. of Tucacas, its port on the
 Caribbean coast. Pop. (est. 1899) 40,000. It is built in a small, fertile
-valley of the Merida Cordilleras, 1985 ft. above sea-level, has a
+valley of the Merida [[Cordillera|Cordilleras]], 1985 ft. above sea-level, has a
 temperate, healthy climate with a mean annual temperature of 78° F., and is
 surrounded by a highly productive country from which are exported coffee,
 sugar, cacao and rum. It is also an important distributing centre for

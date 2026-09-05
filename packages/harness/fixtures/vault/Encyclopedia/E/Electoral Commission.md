@@ -3,9 +3,9 @@
 ELECTORAL COMMISSION, in United States history, a commission created to
 settle the disputed presidential election of 1876. In this election
 Samuel J. Tilden, the Democratic candidate, received 184 uncontested
-electoral votes, and Rutherford B. Hayes, the Republican candidate,
-163.[1] The states of Florida, Louisiana, Oregon and South Carolina,
-with a total of 22 votes, each sent in two sets of electoral ballots,[2]
+electoral votes, and Rutherford B. [[Hay|Hayes]], the Republican candidate,
+163.[1] The states of Florida, [[Louisiana]], Oregon and South Carolina,
+with a total of 22 votes, each sent in two sets of electoral [[Ballot|ballots]],[2]
 and from each of these states except Oregon one set gave the whole vote
 to Tilden and the other gave the whole vote to Hayes. From Oregon one
 set of ballots gave the three electoral votes of the state to Hayes; the
@@ -13,7 +13,7 @@ other gave two votes to Hayes and one to Tilden.
 
 The election of a president is a complex proceeding, the method being
 indicated partly in the Constitution, and being partly left to Congress
-and partly to the states. The manner of selecting the electors is left
+and partly to the states. The manner of selecting the [[Electors|electors]] is left
 to state law; the electoral ballots are sent to the president of the
 Senate, who "shall, in the presence of the Senate and House of
 Representatives, open all certificates, and the votes shall then be
@@ -43,19 +43,19 @@ the decisions to stand unless rejected by the two houses separately. The
 commission was composed of five Democratic and five Republican
 Congressmen, two justices of the Supreme Court of either party, and a
 fifth justice chosen by these four. As its members of the commission the
-Senate chose G.F. Edmunds of Vermont, O.P. Morton of Indiana, and F.T.
-Frelinghuysen of New Jersey (Republicans); and A.G. Thurman of Ohio and
-T.F. Bayard of Delaware (Democrats). The House chose Henry B. Payne of
+Senate [[Chose|chose]] G.F. [[Edmunds]] of Vermont, O.P. Morton of [[Indiana]], and F.T.
+Frelinghuysen of New [[Jersey]] (Republicans); and A.G. Thurman of Ohio and
+T.F. Bayard of [[Delaware]] (Democrats). The House chose Henry B. Payne of
 Ohio, Eppa Hunton of Virginia, and Josiah G. Abbott of Massachusetts
-(Democrats); and George F. Hoar of Massachusetts and James A. Garfield
+(Democrats); and George F. [[Hoar]] of Massachusetts and James A. Garfield
 of Ohio (Republicans). The Republican judges were William Strong and
 Samuel F. Miller; the Democratic, Nathan Clifford and Stephen J. Field.
 These four chose as the fifteenth member Justice Joseph P. Bradley, a
 Republican but the only member not selected avowedly as a partisan. As
 counsel for the Democratic candidate there appeared before the
-commission at different times Charles O'Conor of New York, Jeremiah S.
+commission at different times Charles O'Conor of New York, [[Jeremiah]] S.
 Black of Pennsylvania, Lyman Trumbull of Illinois, R.T. Merrick of the
-District of Columbia, Ashbel Green of New Jersey, Matthew H. Carpenter
+District of [[Columbia]], Ashbel Green of New Jersey, [[Matthew]] H. Carpenter
 of Wisconsin, George Hoadley of Ohio, and W.C. Whitney of New York. W.M.
 Evarts and E.W. Stoughton of New York and Samuel Shellabarger and
 Stanley Matthews of Ohio appeared regularly in behalf of Mr Hayes.
@@ -71,7 +71,7 @@ the Republicans declared that the state's action was final, and that to
 go behind the returns would be invading its sovereignty. When this
 matter came before the commission it virtually accepted the Republican
 contention, ruling that it could not go behind the returns except on the
-superficial issues of manifest fraud therein or the eligibility of
+superficial issues of [[Manifest|manifest]] [[Fraud|fraud]] therein or the eligibility of
 electors to their office under the Constitution; that is, it could not
 investigate antecedents of fraud or misconduct of state officials in the
 results certified. All vital questions were settled by the votes of
@@ -112,9 +112,9 @@ action, or by conflicting state action, to decide disputes, votes are
 lost unless both houses concur.
 
   AUTHORITIES.--J.F. Rhodes, _History of the United States_, vol. 7,
-  covering 1872-1877 (New York, 1906); P.L. Haworth, _The Hayes-Tilden
-  disputed Presidential Election of 1876_ (Cleveland, 1906); J.W.
-  Burgess, _Political Science Quarterly_, vol. 3 (1888), pp. 633-653,
+  covering 1872-1877 (New York, 1906); P.L. [[Haworth]], _The Hayes-Tilden
+  disputed Presidential Election of 1876_ ([[Cleveland]], 1906); J.W.
+  [[Burges|Burgess]], _Political Science Quarterly_, vol. 3 (1888), pp. 633-653,
   "The Law of the Electoral Count"; and for the sources. Senate
   Miscellaneous Document No. 5 (vol. 1), and House Miscel. Doc. No. 13
   (vol. 2), 44 Congress, 2 Session,--_Count of the Electoral Vote.

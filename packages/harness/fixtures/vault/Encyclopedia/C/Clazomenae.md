@@ -7,7 +7,7 @@ type: source
 
 # Clazomenae
 
-CLAZOMENAE (mod. _Kelisman_), an ancient town of Ionia and a member of
+CLAZOMENAE (mod. _Kelisman_), an ancient town of [[Ionia]] and a member of
 the Ionian Dodecapolis (Confederation of Twelve Cities), on the Gulf of
 Smyrna, about 20 m. W. of that city. Though not in existence before the
 arrival of the Ionians in Asia, its original founders were largely

@@ -4,7 +4,7 @@ FUAD PASHA (1815-1869), Turkish statesman, was the son of the
 distinguished poet Kecheji-zade Izzet Molla. He was educated at the
 medical school and was at first an army surgeon. About 1836 he entered
 the civil service as an official of the foreign ministry. He became
-secretary of the embassy in London; was employed on special missions in
+secretary of the [[Embassy|embassy]] in London; was employed on special missions in
 the principalities and at St Petersburg (1848), and was sent to Egypt as
 special commissioner in 1851. In that year he became minister for
 foreign affairs, a post to which he was appointed also on four
@@ -20,7 +20,7 @@ for his boldness and promptness of decision, as well as for his ready
 wit and his many bons mots. Generally regarded as the partisan of a
 pro-English policy, he rendered most valuable service to his country by
 his able management of the foreign relations of Turkey, and not least by
-his efficacious settlement of affairs in Syria after the massacres of
+his efficacious settlement of affairs in Syria after the [[Massacre|massacres]] of
 1860.
 
 ## See also

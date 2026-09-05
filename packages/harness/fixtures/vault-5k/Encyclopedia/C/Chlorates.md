@@ -3,13 +3,13 @@
 CHLORATES, the metallic salts of chloric acid; they are all solids,
 soluble in water, the least soluble being the potassium salt. They may
 be prepared by dissolving or suspending a metallic oxide or hydroxide in
-water and saturating the solution with chlorine; by double
+water and saturating the solution with [[Chlorine|chlorine]]; by double
 decomposition; or by neutralizing a solution of chloric acid by a
 metallic oxide, hydroxide or carbonate. They are all decomposed on
 heating, with evolution of oxygen; and in contact with concentrated
 sulphuric acid with liberation of chlorine peroxide. The most important
 is potassium chlorate, KClO3, which was obtained in 1786 by C.L.
-Berthollet by the action of chlorine on caustic potash, and this method
+[[Berthollet]] by the action of chlorine on caustic potash, and this method
 was at first used for its manufacture. The modern process consists in
 the electrolysis of a hot solution of potassium chloride, or,
 preferably, the formation of sodium chlorate by the electrolytic method
@@ -20,7 +20,7 @@ oxygen at about 370° C. According to F.L. Teed (_Proc. Chem. Soc._,
 1886, p. 141), the decomposition of potassium chlorate by heat is not at
 all simple, the quantities of chloride and perchlorate produced
 depending on the temperature. A very gentle heating gives decomposition
-approximating to the equation of 22KClO3 = 14KClO4 + 8KCl + 5O2, whilst
+approximating to the [[Equation|equation]] of 22KClO3 = 14KClO4 + 8KCl + 5O2, whilst
 on a more rapid heating the quantities correspond more nearly to 10KClO3
 = 6KClO4 + 4KCl + 3O2. The decomposition is rendered more easy and
 regular by mixing the salt with powdered manganese dioxide. The salt
@@ -39,7 +39,7 @@ doses--5 to 15 grains--it partly undergoes reduction in the blood and
 tissues, the chloride being formed and oxygen being supplied to the
 body-cells in nascent form. Its special uses are in ulceration of the
 mouth or tongue (_ulcerative stomatitis_), tonsillitis and pharyngitis.
-For these conditions it is administered in the form of a lozenge, but
+For these conditions it is administered in the form of a [[Lozenge|lozenge]], but
 may also be swallowed in solution, as it is excreted by the saliva and
 so reaches the diseased surface. Its remarkable efficacy in healing
 ulcers of the mouth--for which it is the specific--has been ascribed to

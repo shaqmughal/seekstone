@@ -9,14 +9,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Clonmacnoi
 
 CLONMACNOISE, one of the most noteworthy of the numerous early religious
 settlements in Ireland, on the river Shannon, in King's county, 9 m. S.
-of Athlone. An abbey was founded here by St Kieran in 541, which as a
+of [[Athlone]]. An abbey was founded here by St Kieran in 541, which as a
 seat of learning gained a European fame, receiving offerings, for
 example, from Charles the Great, whose companion Alcuin the scholar
 received part of his education from the great teacher Colcu at
-Conmacnoise. Several books of annals were compiled here, and the
+Conmacnoise. Several books of [[Annals|annals]] were compiled here, and the
 foundation became the seat of a bishopric, but it was plundered and
 wasted by the English in 1552, and in 1568 the diocese was united with
-that of Meath. The most remarkable literary monument of Clonmacnoise is
+that of [[Meath]]. The most remarkable literary monument of Clonmacnoise is
 the Book of the Dun Cow, written about 1100, still preserved (but in an
 imperfect form) by the Royal Irish Academy, and containing a large
 number of romances. It is a copy of a much earlier original, which was
@@ -39,7 +39,7 @@ stones dating from the 9th century and after are preserved in the
 churches. There are further remains of the Castle and Episcopal palace,
 a fortified building of the 14th century, and of a nunnery of the 12th
 century. In the neighbourhood are seen striking examples of the glacial
-phenomenon of _eskers_, or gravel ridges.
+phenomenon of _[[Esker|eskers]]_, or gravel ridges.
 
 ## References
 

@@ -10,16 +10,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Benedict_O
 
 BENEDICT OF NURSIA, SAINT (c. 480-c. 544), the patriarch of Western
 monks. Our only authority for the facts of St Benedict's life is bk. ii
-of St Gregory's _Dialogues_. St Gregory declares that he obtained his
-information from four of St Benedict's disciples, whom he names; and
+of St Gregory's _[[Dialogue|Dialogues]]_. St Gregory declares that he obtained his
+information from four of St Benedict's [[Disciple|disciples]], whom he names; and
 there can be no serious reason for doubting that it is possible to
 reconstruct the outlines of St Benedict's career (see Hodgkin, _Italy
-and her Invaders_, iv. 412). A precise chronology and a pedigree have
+and her Invaders_, iv. 412). A precise [[Chronology|chronology]] and a pedigree have
 been supplied for Benedict, according to which he was born in 480, of
 the great family of the Anicii; but all we know is what St Gregory tells
 us, that he was born of good family in Nursia, near Spoleto in Umbria.
 His birth must have occurred within a few years of the date assigned;
-the only fixed chronological point is a visit of the Gothic king Totila
+the only fixed chronological point is a visit of the [[Gothic]] king Totila
 to him in 543, when Benedict was already established at Monte Cassino
 and advanced in years (_Dial_. ii. 14, 15). He was sent by his parents
 to frequent the Roman schools, but shocked by the prevailing
@@ -44,7 +44,7 @@ twelve monks in each, and himself retaining a general control over all.
 In time patricians and senators from Rome entrusted their young sons to
 his care, to be brought up as monks; in this manner came to him his two
 best-known disciples, Maurus and Placidus. Driven from Subiaco by the
-jealousy and molestations of a neighbouring priest, but leaving behind
+[[Jealousy|jealousy]] and molestations of a neighbouring priest, but leaving behind
 him communities in his twelve monasteries, he himself, accompanied by a
 small band of disciples, journeyed south until he came to Cassino, a
 town halfway between Rome and Naples. Climbing the high mountain that
@@ -67,10 +67,10 @@ of his day, is explained in the article MONASTICISM. Here it is enough
 to say that nowadays it is commonly recognized by students that the
 manner of life instituted by St Benedict was not intended to be, and as
 a matter of fact was not, one of any great austerity, when judged by the
-standard of his own day (see E.C. Butler, _Lausiac History of
+standard of his own day (see E.C. [[Butler]], _Lausiac History of
 Palladius_, part i. pp. 251-256). His monks were allowed proper clothes,
 sufficient food, ample sleep. The only bodily austerities were the
-abstinence from flesh meat and the unbroken fast till mid-day or even 3
+abstinence from flesh [[Meat|meat]] and the unbroken fast till mid-day or even 3
 P.M., but neither would appear so onerous in Italy even now, as to us in
 northern climes. Midnight office was no part of St Benedict's Rule: the
 time for rising for the night office varied from 1.30 to 3.0, according
@@ -102,7 +102,7 @@ which he should govern his monastery (2,3); next comes the ascetical
 portion of the Rule, on the chief monastic virtues (4-7); then the
 regulations for the celebration of the canonical office, which St
 Benedict calls "the Work of God" or "the divine work," his monks' first
-duty, "of which nothing is to take precedence" (8-20); faults and
+duty, "of which nothing is to take precedence" (8-20); [[Fault|faults]] and
 punishments (23-30); the cellarer and property of the monastery (31,
 32); community of goods (33, 34); various officials and daily life (21,
 22, 35-57); reception of monks (58-61); miscellaneous (62-73).
@@ -120,18 +120,18 @@ Moreover, he has to govern in accordance with the Rule, and must
 endeavour, while enforcing discipline and implanting virtues, not to
 sadden or "overdrive" his monks, or give them cause for "just
 murmuring." In these chapters pre-eminently appears that element of
-"discretion," as St Gregory calls it, or humanism as it would now be
+"discretion," as St Gregory calls it, or [[Humanism|humanism]] as it would now be
 termed, which without doubt has been a chief cause of the success of the
 Rule. There is as yet no satisfactory text of the Rule, either critical
-or manual; the best manual text is Schmidt's _editio minor_ (Regensburg,
+or [[Manual|manual]]; the best manual text is Schmidt's _editio minor_ (Regensburg,
 1892). Of the many commentaries the most valuable are those of Paulus
 Diaconus (the earliest, c. 800), of Calmet and of Martene (Migne,
 _Patrol. Lat._ lxvi.).
 
   AUTHORITIES.--An old English translation of St Gregory's _Dialogues_
-  is reprinted in the Quarterly Series (Burns & Oates). On St Benedict's
+  is reprinted in the Quarterly Series ([[Burns]] & Oates). On St Benedict's
   life and Rule see Montalembert, _Monks of the West_, bk. iv.; Abbate
-  L. Tosti, _S. Benedetto_ (translated 1896); also Indexes to standard
+  L. Tosti, _S. Benedetto_ (translated 1896); also [[Index|Indexes]] to standard
   general histories of the period; Thomas Hodgkin's _Italy and Her
   Invaders_ and Gregorovius' _History of the City of Rome_ may be
   specially mentioned. But by far the best summaries in English are

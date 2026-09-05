@@ -37,7 +37,7 @@ pneumatolytic product consisting of quartz and tourmaline; it often
 contains white mica and thus passes by all stages into greisen. Both of
 these rocks carry frequently small percentages of tin oxide
 (cassiterite) and may be worked as ores of tin. They are common in
-Cornwall, Saxony, Tasmania and other districts which are centres of
+[[Cornwall]], Saxony, Tasmania and other districts which are centres of
 tin-mining. Many other greisens occur in which no tin is found. The
 analyses show the composition of Cornish granite and greisen. They make
 it clear that there has been an introduction of fluorine and boron and a

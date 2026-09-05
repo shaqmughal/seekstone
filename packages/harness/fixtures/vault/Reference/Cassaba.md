@@ -7,7 +7,7 @@ It has considerable local trade, and exports the products of the
 surrounding district. Cotton is the most important article, and there
 are ginning factories in the town; the silkworm is largely raised and
 exported; and the "melons of Cassaba" are sent not only to Smyrna but to
-Constantinople. There are fragments of marbles built into the houses,
+Constantinople. There are fragments of [[Marbles|marbles]] built into the houses,
 but the modern town does not seem to occupy any ancient site of
 importance.
 

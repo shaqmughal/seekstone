@@ -9,7 +9,7 @@ id: 42-927
 # Carbuncle
 
 CARBUNCLE (Lat. _carbunculus_, diminutive of _carbo_, a glowing coal),
-in mineralogy, a garnet (q.v.) cut with a convex surface. In medicine
+in mineralogy, a garnet (q.v.) cut with a [[Convex|convex]] surface. In medicine
 the name given to an acute local inflammation of the deeper layers of
 the skin, followed by sloughing. It is accompanied by great local
 tension and by constitutional disturbance, and in the early stages the
@@ -23,7 +23,7 @@ Carbuncle is an intense local inflammation caused by septic germs which
 have in some manner found their way to the part. It is particularly apt
 to occur in persons whose health is depressed by mental worries, or by
 such troubles as chronic disease of the kidneys or blood-vessels, or by
-diabetes. The attack ends in mortification of the affected tissue, and,
+[[Diabetes|diabetes]]. The attack ends in mortification of the affected tissue, and,
 after much suffering, the core or mortified part slowly comes away. The
 modern treatment consists in cutting into the inflamed area, scraping
 out the germ-laden core at the earliest possible moment, and applying

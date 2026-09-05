@@ -8,7 +8,7 @@ topic: antiquity-studies
 
 BALUZE, ÉTIENNE (1630-1718), French scholar, was born at Tulle on the 24th
 of November 1630. He was educated at his native town and took minor orders.
-As secretary to Pierre de Marca, archbishop of Toulouse, he won the
+As secretary to Pierre de [[Marca]], archbishop of Toulouse, he won the
 appreciation of that learned prelate to such a degree that at his death
 Marca left him all his papers. Thus it came about that Baluze produced the
 first complete edition of Marca's treatise _De libertatibus Ecclesiae
@@ -62,11 +62,11 @@ continued to work, and in 1717 published a history of his native town,
 _Historiae Tutelensis libri tres_. Before his death he succeeded in
 returning to Paris, where he died unconvinced of his errors on the 28th of
 July 1718. Was he dupe or accomplice? The study of his correspondence with
-the cardinal gives the impression that he was the victim of clever cheats.
+the cardinal gives the impression that he was the victim of [[Clever|clever]] cheats.
 
 The history of the forgeries committed in the interests of the house of
 Bouillon forms a curious and instructive episode in the history of French
-scholarship in the time of Louis XIV. It is to be found in the _Manuel de
+scholarship in the time of Louis XIV. It is to be found in the _[[Manuel]] de
 diplomatique_ by A. Giry; and above all in a note to the _Oeuvres de
 Saint-Simon_ by M. de Boislisle (vol. xiv. pp. 533-558). The bibliography
 of Baluze's researches has been made by M. René Fage (1882, 1884) and his

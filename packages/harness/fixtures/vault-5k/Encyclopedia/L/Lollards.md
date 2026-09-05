@@ -17,7 +17,7 @@ maintained itself on to the Reformation. The name is of uncertain
 origin; some derive it from _lolium_, tares, quoting Chaucer (_C.T._,
 Shipman's Prologue):--
 
-  "This Loller heer wil prechen us somwhat ...
+  "This Loller [[Heer|heer]] wil prechen us somwhat ...
    He wolde sowen som difficultee
    Or springen cokkel in our clene corn";
 
@@ -33,13 +33,13 @@ of Wycliffe because they resembled those offshoots from the great
 Franciscan movement which had disowned the pope's authority and set
 before themselves the ideal of _Evangelical poverty_.
 
-The 14th century, so full of varied religious life, made it manifest
+The 14th century, so full of varied religious life, made it [[Manifest|manifest]]
 that the two different ideas of a life of separation from the world
 which in earlier times had lived on side by side within the medieval
-church were irreconcilable. The church chose to abide by the idea of
-Hildebrand and to reject that of Francis of Assisi; and the revolt of
+church were irreconcilable. The church [[Chose|chose]] to abide by the idea of
+[[Hildebrand]] and to reject that of Francis of [[Assisi]]; and the revolt of
 Ockham and the Franciscans, of the Beghards and other spiritual
-fraternities, of Wycliffe and the Lollards, were all protests against
+[[Fraternities|fraternities]], of Wycliffe and the Lollards, were all protests against
 that decision. Gradually there came to be facing each other a great
 political Christendom, whose rulers were statesmen, with aims and policy
 of a worldly type, and a religious Christendom, full of the ideas of
@@ -64,9 +64,9 @@ Lollardy was most flourishing and most dangerous to the ecclesiastical
 organization of England during the ten years after Wycliffe's death. It
 had spread so rapidly and grown so popular that a hostile chronicler
 could say that almost every second man was a Lollard. Wycliffe left
-three intimate disciples:--Nicolas Hereford, a doctor of theology of
+three intimate [[Disciple|disciples]]:--Nicolas Hereford, a doctor of theology of
 Oxford, who had helped his master to translate the Bible into English;
-John Ashton, also a fellow of an Oxford college; and John Purvey,
+John Ashton, also a [[Fellow|fellow]] of an Oxford college; and John Purvey,
 Wycliffe's colleague at Lutterworth, and a co-translator of the Bible,
 with these were associated more or less intimately, in the first age of
 Lollardy, John Parker, the strange ascetic William Smith, the restless
@@ -87,7 +87,7 @@ university of Oxford, and to drive out of it the leading Wycliffite
 teachers, but he was unable to stifle Oxford sympathies or to prevent
 the banished teachers preaching throughout the country. Many of the
 nobles, like Lords Montacute and Salisbury, supported the poor
-preachers, took them as private chaplains, and protected them against
+preachers, took them as private [[Chaplain|chaplains]], and protected them against
 clerical interference. Country gentlemen like Sir Thomas Latimer of
 Braybrooke and Sir Richard Stury protected them, while merchants and
 burgesses supported them with money. When Richard II. issued an
@@ -99,7 +99,7 @@ London and the west of England became their headquarters.
 The organization must have been strong in numbers, but only those who
 were seized for heresy are known by name, and it is only from the
 indictments of their accusers that their opinions can be gathered. The
-preachers were picturesque figures in long russet dress down to the
+preachers were picturesque figures in long russet [[Dress|dress]] down to the
 heels, who, staff in hand, preached in the mother tongue to the people
 in churches and graveyards, in squares, streets and houses, in gardens
 and pleasure grounds, and then talked privately with those who had been
@@ -125,11 +125,11 @@ clerical arrogance and the cause of indulgences and other abuses in
 pardoning sin; that all wars were against the principles of the New
 Testament, and were but murdering and plundering the poor to win glory
 for kings; that the vows of chastity laid upon nuns led to child murder;
-that many of the trades practised in the commonwealth, such as those of
+that many of the trades practised in the [[Commonwealth|commonwealth]], such as those of
 goldsmiths and armourers, were unnecessary and led to luxury and waste.
 These Conclusions really contain the sum of Wycliffite teaching; and, if
 we add that the principal duty of priests is to preach, and that the
-worship of images, the going on pilgrimages and the use of gold and
+worship of [[Image|images]], the going on pilgrimages and the use of gold and
 silver chalices in divine service are sinful (_The Peasants' Rising and
 the Lollards_, p. 47), they include almost all the heresies charged in
 the indictments against individual Lollards down to the middle of the
@@ -143,12 +143,12 @@ Conclusions, the popular view of their controversy with the church may
 be gathered from the ballads preserved in the _Political Poems and Songs
 relating to English History_, published in 1859 by Thomas Wright for the
 Master of the Rolls series, and in the Piers Ploughman poems. _Piers
-Ploughman's Creed_ (see LANGLAND) was probably written about 1394, when
+Ploughman's Creed_ (see [[Langland|LANGLAND]]) was probably written about 1394, when
 Lollardy was at its greatest strength; the ploughman of the _Creed_ is a
 man gifted with sense enough to see through the tricks of the friars,
 and with such religious knowledge as can be got from the creed, and from
 Wycliffe's version of the Gospels. The poet gives us a "portrait of the
-fat friar with his double chin shaking about as big as a goose's egg,
+fat friar with his double chin shaking about as big as a goose's [[Egg|egg]],
 and the ploughman with his hood full of holes, his mittens made of
 patches, and his poor wife going barefoot on the ice so that her blood
 followed" (_Early English Text Society_, vol. xxx., pref., p. 16); and
@@ -156,10 +156,10 @@ one can easily see why farmers and peasants turned from the friars to
 the poor preachers. The _Ploughman's Complaint_ tells the same tale. It
 paints popes, cardinals, prelates, rectors, monks and friars, who call
 themselves followers of Peter and keepers of the gates of heaven and
-hell, and pale poverty-stricken people, cotless and landless, who have
+[[Hell|hell]], and pale poverty-stricken people, cotless and landless, who have
 to pay the fat clergy for spiritual assistance, and asks if these are
 Peter's priests. "I trowe Peter took no money, for no sinners that he
-sold.... Peter was never so great a fole, to leave his key with such a
+sold.... Peter was never so great a fole, to leave his [[Key|key]] with such a
 losell."
 
 In 1399 the Lancastrian Henry IV. overthrew the Plantagenet Richard II.,
@@ -171,8 +171,8 @@ more successfully. The strength of the anti-clerical party lay in the
 House of Commons, in which the representatives of the shires took the
 leading part. Twice the Commons petitioned the crown to seize the
 temporalities of the church and apply them to such national purposes as
-relief of taxation, maintenance of the poor and the support of new lords
-and knights. Their anti-clerical policy was not continuous, however. The
+relief of taxation, [[Maintenance|maintenance]] of the poor and the support of new lords
+and [[Knight|knights]]. Their anti-clerical policy was not continuous, however. The
 court party and the clergy proposed statutes for the suppression of
 heresy, and twice at least secured the concurrence of the Commons. One
 of these was the well-known statute _De heretico comburendo_ passed in
@@ -196,9 +196,9 @@ peasants towards the Romish clergy. Jak Upland (John Countryman) took
 the place of Piers Ploughman, and upbraided the clergy, and especially
 the friars, for their wealth and luxury. Wycliffe had published the rule
 of St Francis, and had pointed out in a commentary upon the rule how far
-friars had departed from the maxims of their founder, and had persecuted
+friars had departed from the [[Maxims|maxims]] of their founder, and had persecuted
 the _Spirituales_ (the Fratricelli, Beghards, Lollards of the
-Netherlands) for keeping them to the letter (cf. Matthews, _English
+Netherlands) for keeping them to the letter (cf. [[Matthew|Matthews]], _English
 Works of Wyclif hitherto unprinted_, Early Eng. Text Soc., vol. lxxiv.,
 1880). Jak Upland put all this into rude nervous English verse:
 
@@ -207,7 +207,7 @@ Works of Wyclif hitherto unprinted_, Early Eng. Text Soc., vol. lxxiv.,
    Liveth most perfectlie,
    And next followeth the state of the Apostles
    In povertie and pennance:
-   And yet the wisest and greatest clerkes of you
+   And yet the wisest and greatest [[Clerke|clerkes]] of you
    Wend or send or procure to the court of Rome,
    ... and to be assoiled of the vow of povertie."
 
@@ -233,7 +233,7 @@ were the representatives of the shires. The court and clergy had been
 afraid to attack this powerful class. The new king determined to overawe
 them, and to this end selected one who had been a personal friend and
 whose life had been blameless. This was Sir John Oldcastle, in right of
-his wife, Lord Cobham, "the good Lord Cobham" as the common people
+his wife, Lord [[Cobham]], "the good Lord Cobham" as the common people
 called him. Henry first tried personal persuasion, and when that failed
 directed trial for heresy. Oldcastle was convicted, but was imprisoned
 for forty days in the Tower in hope that he might recant. He escaped,
@@ -290,7 +290,7 @@ boys could bless the bread as well as priests.
 From England Lollardy passed into Scotland. Oxford infected St Andrews,
 and we find traces of more than one vigorous search made for Lollards
 among the teaching staff of the Scottish university, while the Lollards
-of Kyle in Ayrshire were claimed by Knox as the forerunners of the
+of Kyle in Ayrshire were claimed by [[Knox]] as the forerunners of the
 Scotch Reformation.
 
   The opinions of the later Lollards can best be gathered from the
@@ -300,7 +300,7 @@ Scotch Reformation.
   in the churches, the going on pilgrimages to the memorial or "mynde
   places" of the saints, the holding of landed possessions by the
   clergy, the various ranks of the hierarchy, the framing of
-  ecclesiastical laws and ordinances by papal and episcopal authority,
+  [[Ecclesiastical Law|ecclesiastical laws]] and ordinances by papal and episcopal authority,
   the institution of religious orders, the costliness of ecclesiastical
   decorations, the ceremonies of the mass and the sacraments, the taking
   of oaths and the maintaining that war and capital punishment are

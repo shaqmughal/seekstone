@@ -14,7 +14,7 @@ Southampton railways. Leaving England about 1837, he was engaged for a
 time in railway work in various parts of Europe, and then returned, as
 engineer-in-chief to the Hamburg-Bergedorf railway, to Hamburg, near
 which city he had received his early education, and to which he was
-destined to stand in much the same relation as Baron Haussmann to Paris.
+destined to stand in much the same relation as Baron [[Haussmann]] to Paris.
 His first achievement was to drain the Hammerbrook marshes, and so add
 some 1400 acres to the available area of the city. His real opportunity,
 however, came with the great fire which broke out on the 5th of May 1842
@@ -44,7 +44,7 @@ Hanseatic towns, Bremen and Lübeck. In 1860 he left Hamburg, and during
 the remaining nineteen years of his professional practice he was
 responsible for many engineering works in various European cities,
 among them being Frankfort-on-the-Main, Warsaw, Pesth, Düsseldorf,
-Galatz and Basel. In Frankfort he constructed sewerage works on the same
+Galatz and Basel. In [[Frankfort]] he constructed sewerage works on the same
 principles as those he followed in Hamburg, and the system was widely
 imitated not only in Europe, but also in America. He was also consulted
 in regard to water-works at Berlin, Kiel, Stralsund, Stettin and

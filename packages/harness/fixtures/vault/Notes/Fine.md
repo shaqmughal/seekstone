@@ -11,7 +11,7 @@ A fine, in the ordinary sense, is a pecuniary penalty inflicted for the
 less serious offences. Fines are necessarily discretionary as to amount;
 but a maximum is generally fixed when the penalty is imposed by statute.
 And it is an old constitutional maxim that fines must not be
-unreasonable. In Magna Carta, c. 111, it is ordained "_Liber homo non
+unreasonable. In [[Magna Carta]], c. 111, it is ordained "_Liber homo non
 amercietur pro parvo delicto nisi secundum modum ipsius delicti, et pro
 magno delicto secundum magnitudinem delicti._"
 
@@ -21,24 +21,24 @@ payments made by a lessee on a renewal of a lease, and to other similar
 payments.
 
 Fine also denotes a fictitious suit at law, which played the part of a
-conveyance of landed property. "A fine," says Blackstone, "may be
+[[Conveyance|conveyance]] of landed property. "A fine," says [[Blackstone]], "may be
 described to be an amicable composition or agreement of a suit, either
 actual or fictitious, by leave of the king or his justices, whereby the
 lands in question become or are acknowledged to be the right of one of
 the parties. In its original it was founded on an actual suit commenced
 at law for the recovery of the possession of land or other
-hereditaments; and the possession thus gained by such composition was
+[[Hereditament|hereditaments]]; and the possession thus gained by such composition was
 found to be so sure and effectual that fictitious actions were and
 continue to be every day commenced for the sake of obtaining the same
-security." Freehold estates could thus be transferred from one person to
+security." [[Freehold]] estates could thus be transferred from one person to
 another without the formal delivery of possession which was generally
-necessary to a feoffment. This is one of the oldest devices of the law.
+necessary to a [[Feoffment|feoffment]]. This is one of the oldest devices of the law.
 A statute of 18 Edward I. describes it as the most solemn and
 satisfactory of securities, and gives a reason for its name--"Qui quidem
 finis sic vocatur, eo quod finis et consummatio omnium placitorum esse
 debet, et hac de causa providebatur." The action was supposed to be
-founded on a breach of covenant: the defendant, owning himself in the
-wrong,[1] makes overtures of compromise, which are authorized by the
+founded on a [[Breach|breach]] of [[Covenant|covenant]]: the [[Defendant|defendant]], owning himself in the
+wrong,[1] makes overtures of [[Compromise|compromise]], which are authorized by the
 _licentia concordandi_; then followed the concord, or the compromise
 itself. These, then were the essential parts of the performance, which
 became efficient as soon as they were complete; the formal parts were
@@ -52,10 +52,10 @@ which was to give publicity to the transaction. Thus by statutes of
 Richard III. and Henry VII. the fine had to be openly read and
 proclaimed in court no less than sixteen times. A statute of Elizabeth
 required a list of fines to be exposed in the court of common pleas and
-at assizes. The reason for these formalities was the high and important
+at [[Assize|assizes]]. The reason for these formalities was the high and important
 nature of the conveyance, which, according to the act of Edward I. above
 mentioned, "precludes not only those which are parties and privies to
-the fine and their heirs, but all other persons in the world who are of
+the fine and their [[Heir|heirs]], but all other persons in the world who are of
 full age, out of prison, of sound memory, and within the four seas, the
 day of the fine levied, unless they put in their claim on the foot of
 the fine within a year and a day." This barring by _non-claim_ was
@@ -71,7 +71,7 @@ fiction of recoveries, were abolished by the Fines and Recoveries Act
 Fines are so generally associated in legal phraseology with recoveries
 that it may not be inconvenient to describe the latter in the present
 place. A recovery was employed as a means for evading the strict law of
-entail. The purchaser or alienee brought an action against the
+[[Entail|entail]]. The purchaser or alienee brought an action against the
 tenant-in-tail, alleging that he had no legal title to the land. The
 tenant-in-tail brought a third person into court, declaring that he had
 warranted his title, and praying that he might be ordered to defend the

@@ -6,12 +6,12 @@ lectures at Owens College, and at eighteen he gained a mathematical
 scholarship at Trinity College, Cambridge, where he graduated in 1871 as
 senior wrangler and first Smith's prizeman, having previously taken the
 degree of D.Sc. at London University and won a Whitworth scholarship.
-Although elected a fellow and tutor of his college, he stayed up at
+Although elected a [[Fellow|fellow]] and tutor of his college, he stayed up at
 Cambridge only for a very short time, preferring to learn practical
-engineering as a pupil in the works in which his father was a partner.
+[[Engineering|engineering]] as a pupil in the works in which his father was a partner.
 But there his stay was equally short, for in 1872 he undertook the
 duties of engineering manager in the glass manufactories of Messrs
-Chance Brothers and Company at Birmingham. Six years later he removed to
+Chance Brothers and Company at [[Birmingham]]. Six years later he removed to
 London, and while continuing to act as scientific adviser to Messrs
 Chance, established a most successful practice as a consulting engineer.
 His work was mainly, though not exclusively, electrical, and his
@@ -46,7 +46,7 @@ the development of the three-wire system and the closed-circuit
 transformer, while electric traction had to thank him for the
 series-parallel method of working motors. During his residence in
 Birmingham, Messrs Chance being makers of glass for use in lighthouse
-lamps, his attention was naturally turned to problems of lighthouse
+[[Lamp|lamps]], his attention was naturally turned to problems of lighthouse
 illumination, and he was able to devise improvements in both the
 catoptric and dioptric methods for concentrating and directing the beam.
 He was a strong advocate of the group-flashing system as a means of

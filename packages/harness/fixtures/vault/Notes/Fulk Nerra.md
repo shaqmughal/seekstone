@@ -7,7 +7,7 @@ type: article
 
 # Fulk Nerra
 
-FULK NERRA (c. 970-1040), count of Anjou, eldest son of Count Geoffrey
+FULK NERRA (c. 970-1040), count of [[Anjou]], eldest son of Count Geoffrey
 I., "Grisegonelle" (Grey Tunic) and Adela of Vermandois, was born about
 970 and succeeded his father in the countship of Anjou on the 21st of
 July 987. He was successful in repelling the attacks of the count of
@@ -15,14 +15,14 @@ Rennes and laying the foundations of the conquest of Touraine (see
 ANJOU). In this connexion he built a great number of strong castles,
 which has led in modern times to his being called "the great builder."
 He also founded several religious houses, among them the abbeys of
-Beaulieu, near Loches (c. 1007), of Saint-Nicholas at Angers (1020) and
+Beaulieu, near [[Loch|Loches]] (c. 1007), of Saint-Nicholas at [[Angers]] (1020) and
 of Ronceray at Angers (1028), and, in order to expiate his crimes of
 violence, made three pilgrimages to the Holy Land (in 1002-1003, c. 1008
 and in 1039). On his return from the third of these journeys he died at
-Metz in Lorraine on the 21st of June 1040. By his first marriage, with
+Metz in [[Lorraine]] on the 21st of June 1040. By his first marriage, with
 Elizabeth, daughter of Bouchard le Venerable, count of Vendome, he had a
 daughter, Adela, who married Boon of Nevers and transmitted to her
-children the countship of Vendome. Elizabeth having died in 1000, Fulk
+children the countship of Vendome. Elizabeth having died in 1000, [[Fulk]]
 married Hildegarde of Lorraine, by whom he had a son, Geoffrey Martel
 (q.v.), and a daughter Ermengarde, who married Geoffrey, count of
 Gatinais, and was the mother of Geoffrey "le Barbu" (the Bearded) and of

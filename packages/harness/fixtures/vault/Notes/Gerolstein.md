@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gerolstein
 # Gerolstein
 
 GEROLSTEIN, a village and climatic health resort of Germany, in the
-Prussian Rhine Province, attractively situated on the Kyll, in the Eifel
+Prussian Rhine Province, attractively situated on the Kyll, in the [[Eifel]]
 range, 1100 ft. above the sea, 58 m. W. of Andernach by rail, and at the
 junction of lines to Treves and St Vith. The castle of Gerolstein, built
 in 1115 and now in ruins, affords a fine view of the Kyllthal.

@@ -5,7 +5,7 @@ the main purpose of "promoting practical holiness" by meetings for
 prayer, discussion and personal intercourse. It has no denominational
 limits, and is largely supported by the "Evangelical" section of the
 Church of England. The convention, started in a private manner by Canon
-Harford-Battersby, then vicar of Keswick, and Mr Robert Wilson in 1874,
+Harford-Battersby, then vicar of [[Keswick]], and Mr Robert Wilson in 1874,
 met first in 1875, and rapidly grew after the first few years, both in
 numbers and influence, in spite of attacks on the alleged
 "perfectionism" of some of its leaders and on the novelty of its

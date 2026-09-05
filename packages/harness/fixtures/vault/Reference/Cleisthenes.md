@@ -7,21 +7,21 @@ Sicyon, of whom the first is far the more important.
 1. CLEISTHENES, the Athenian statesman, was the son of Megacles and
 Agariste, daughter of Cleisthenes of Sicyon. He thus belonged, through
 his father, to the noble family of the Alcmaeonidae (q.v.), who bore
-upon them the curse of the Cylonian massacre, and had been in exile
+upon them the curse of the Cylonian [[Massacre|massacre]], and had been in exile
 during the rule of the Peisistratids. In the hope of washing out the
 stigma, which damaged their prestige, they spent the latter part of
 their exile in carrying out with great splendour the contract given out
-by the Amphictyons for the rebuilding of the temple at Delphi (destroyed
-by fire in 548 B.C.). By building the pronaos of Parian marble instead
-of limestone as specified in the contract, they acquired a high
+by the Amphictyons for the rebuilding of the temple at [[Delphi]] (destroyed
+by fire in 548 B.C.). By building the pronaos of Parian [[Marble|marble]] instead
+of [[Limestone|limestone]] as specified in the contract, they acquired a high
 reputation for piety; the curse was consigned to oblivion, and their
 reinstatement was imposed by the oracle itself upon the Spartan king,
-Cleomenes (q.v.). Cleisthenes, to whom this far-seeing atonement must
+[[Cleomenes]] (q.v.). Cleisthenes, to whom this far-seeing atonement must
 probably be attributed, had also on his side (1) the malcontents in
 Athens who were disgusted with the growing severity of Hippias, and (2)
 the oligarchs of Sparta, partly on religious grounds, and partly owing
 to their hatred of tyranny. Aristotle's _Constitution of Athens_,
-however, treats the alliance of the Peisistratids with Argos, the rival
+however, treats the alliance of the Peisistratids with [[Argos]], the rival
 of Sparta in the Peloponnese, as the chief ground for the action of
 Sparta (_c._ 19). In _c._ 513 B.C. Cleisthenes invaded Attica, but was
 defeated by the tyrant's mercenaries at Leipsydrium (S. of Mt. Parnes).
@@ -54,30 +54,30 @@ the Acropolis, let them go under a safe-conduct, and brought back the
 exiles.
 
 Apart from the reforms which Cleisthenes was now able to establish, the
-period of his ascendancy is a blank, nor are we told when and how it
+period of his ascendancy is a [[Blank|blank]], nor are we told when and how it
 came to an end. It is clear, however--and it is impossible in connexion
 with the Pan-hellenic patriotism to which Athens laid claim, to overrate
 the importance of the fact--that Cleisthenes, hard pressed in the war
-with Boeotia, Euboea and Sparta (Herod, v. 73 and foll.), sent
+with [[Boeotia]], [[Euboea]] and Sparta ([[Herod]], v. 73 and foll.), sent
 ambassadors to ask the help of Persia. The story, as told by Herodotus,
 that the ambassadors of their own accord agreed to give "earth and
 water" (i.e. submission) in return for Persian assistance, and that the
-Ecclesia subsequently disavowed their action as unauthorized, is
+[[Ecclesia]] subsequently disavowed their action as unauthorized, is
 scarcely credible. Cleisthenes (1) was in full control and must have
 instructed the ambassadors; (2) he knew that any help from Persia meant
 submission. It is practically certain, therefore, that he (cf. the
-Alcmaeonids and the story of the shield at Marathon) was the first to
-"medize" (see Curtius, _History of Greece_). Probably he had hoped to
+Alcmaeonids and the story of the shield at [[Marathon]]) was the first to
+"medize" (see [[Curtius]], _History of Greece_). Probably he had hoped to
 persuade the Ecclesia that the agreement was a mere form. Aelian says
 that he himself was a victim to his own device of ostracism (q.v.);
 this, though apparently inconsistent with the _Constitution of Athens_
 (_c._ 22), may perhaps indicate that his political career ended in
-disgrace, a hypothesis which is explicable on the ground of this act of
+disgrace, a [[Hypothesis|hypothesis]] which is explicable on the ground of this act of
 treachery in respect of the attempted Persian alliance. Whether to
 Cleisthenes are due the final success over Boeotia and Euboea, the
 planting of the 4000 cleruchs on the Lelantine Plain, and the policy of
 the Aeginetan War (see AEGINA), in which Athens borrowed ships from
-Corinth, it is impossible to determine. The eclipse of Cleisthenes in
+[[Corinth]], it is impossible to determine. The [[Eclipse|eclipse]] of Cleisthenes in
 all records is one of the most curious facts in Greek history. It is
 also curious that we do not know in what official capacity Cleisthenes
 carried his reforms. Perhaps he was given extraordinary _ad hoc_ powers
@@ -96,7 +96,7 @@ Cleisthenes aimed at being the leader of a self-governing people; in
 other words he aimed at making the democracy actual. He realized that
 the dead-weight which held the democracy down was the influence on
 politics of the local religious unit. Therefore his prime object was to
-dissociate the clans and the phratries from politics, and to give the
+dissociate the [[Clan|clans]] and the phratries from politics, and to give the
 democracy a totally new electoral basis in which old associations and
 vested interests would be split up and become ineffective. It was
 necessary that no man should govern a pocket-constituency merely by
@@ -112,7 +112,7 @@ new tribes, however, though geographically arranged, did not represent
 local interests. Further, the tribe names were taken from legendary
 heroes (Cecropis, Pandionis, Aegeis recalled the storied kings of
 Attica), and, therefore, contributed to the idea of a national unity;
-even Ajax, the eponym of the tribe Aeantis, though not Attic, was famous
+even Ajax, the eponym of the tribe Aeantis, though not [[Attic]], was famous
 as an ally (Herod, v. 66) and ranked as a national hero. Each tribe had
 its shrine and its particular hero-cult, which, however, was free from
 local association and the dominance of particular families. This
@@ -152,8 +152,8 @@ and 4th centuries this was certainly not the case; the number of
 demesmen in some cases was only one hundred or two hundred, whereas the
 deme Acharnae is referred to as a "great part" of the whole state, and
 is known to have furnished three thousand hoplites. The theory is
-fundamentally at fault, inasmuch as it regards the deme as consisting of
-all those _resident within its borders_. In point of fact membership was
+fundamentally at [[Fault|fault]], inasmuch as it regards the deme as consisting of
+all those _resident within its [[Borders|borders]]_. In point of fact membership was
 hereditary, not residential; Demosthenes "of the Paeanian deme" might
 live where he would without severing his deme connexion. Thus the
 increase of population could be no reason for creating new demes. This
@@ -177,7 +177,7 @@ speaks of the Dioscuri as ravaging the demes of Decelea (see R.W. Macan
 _ad loc._) and we hear of opposition between the city and the demes. The
 most logical conclusion perhaps is that Cleisthenes, while he _did_
 create the demes which Athens itself comprised, did not create the
-country demes, but merely gave them definition as political divisions.
+country demes, but merely gave them [[Definition|definition]] as political divisions.
 Thus the city itself had six demes in five different tribes, and the
 other five tribes were represented in the suburbs and the Peiraeus. It
 is clear that in the Cleisthenean system there was one great source of
@@ -190,7 +190,7 @@ Peloponnesian war.
 
   The diapsephismus.
 
-A second problem is the franchise reform of Cleisthenes. Aristotle in
+A second problem is the franchise reform of Cleisthenes. [[Aristotle]] in
 the _Politics_ (iii. 2. 3 = 1275 b) says that Cleisthenes created new
 citizens by enrolling in the tribes "many resident aliens and
 emancipated slaves."[4] But the Aristotelian _Constitution of Athens_
@@ -226,7 +226,7 @@ more democratic than the Solonian Four Hundred. Further, the system of
 ten tribes led in course of time to the construction of boards of ten to
 deal with military and civil affairs, e.g. the Strategi (see STRATEGUS),
 the Apodectae, and others. Of these the former cannot be attributed to
-Cleisthenes, but on the evidence of Androtion it is certain that it was
+Cleisthenes, but on the evidence of [[Androtion]] it is certain that it was
 Cleisthenes who replaced the Colacretae[5] by the Apodectae
 ("receivers"), who were controllers and auditors of the finance
 department, and, before the council in the council-chamber, received the
@@ -256,7 +256,7 @@ principle of liberty duly apportioned and controlled by centralized and
 decentralized administration, which prepared the ground for the rich
 developments of the Golden Age with its triumphs of art and literature,
 politics and philosophy. It was Cleisthenes who organized the structure
-which, for a long time, bore the heavy burden of the Empire against
+which, for a long time, bore the heavy [[Burden|burden]] of the Empire against
 impossible odds, the structure which the very different genius of
 Pericles was able to beautify. He was the first to appreciate the unique
 power in politics, literature and society of an organized public
@@ -265,9 +265,9 @@ opinion.
   AUTHORITIES.--_Ancient:_ Aristotle, _Constitution of Athens_ (ed. J.E.
   Sandys), cc. 20-22, 41; Herodotus v, 63-73, vi. 131; Aristotle,
   _Politics_, iii. 2, 3 (= 1275 b, for franchise reforms). _Modern:_
-  Histories of Greece in general, especially those of Grote and Curtius
+  Histories of Greece in general, especially those of [[Grote]] and Curtius
   (which, of course, lack the information contained in the _Constitution
-  of Athens_), and J.B. Bury. See also E. Meyer, _Geschichte des
+  of Athens_), and J.B. [[Bury]]. See also E. Meyer, _Geschichte des
   Altertums_ (vol. ii.); G. Busolt, _Griech. Gesch._ (2nd ed., 1893
   foll.); Milchhöfer, "Über die Demenordnung des Kleisthenes" in
   appendix to _Abhandlung d. Berl. Akad._ (1892); R. Loeper in _Athen.
@@ -275,7 +275,7 @@ opinion.
   Constitutional History_ (1896); Gilbert, _Greek Constitutional
   Antiquities_ (Eng. trans., 1895); R.W. Macan, _Herodotus iv.-vi._,
   vol. ii. (1895), pp. 127-148; U. von Wilamowitz-Moellendorff, _Arist.
-  und Athen._ See also BOLL[=E]; ECCLESIA; OSTRACISM; NAUCRARY; SOLON.
+  und Athen._ See also [[Boll|BOLL]][=E]; ECCLESIA; OSTRACISM; NAUCRARY; SOLON.
 
 
 2. CLEISTHENES OF SICYON (c. 600-570), grandfather of the above, became
@@ -285,10 +285,10 @@ by giving ridiculous epithets to their tribal units, which from Hylleis,
 Dymanes and Pamphyli become Hyatae ("Swine-men"), Choireatae ("Pig-men")
 and Oneatae ("Ass-men"). He also attacked Dorian Argos, and suppressed
 the Homeric "rhapsodists" who sang the exploits of Dorian heroes. He
-championed the cause of the Delphic oracle against the town of Crisa
+championed the cause of the Delphic oracle against the town of [[Crisa]]
 (Cirrha) in the Sacred War (c. 590). Crisa was destroyed, and Delphi
 became one of the meeting-places of the old amphictyony of Anthela,
-henceforward often called the Delphic amphictyony. The Pythian games,
+henceforward often called the Delphic amphictyony. The Pythian [[Games|games]],
 largely on the initiative of Cleisthenes, were re-established with new
 magnificence, and Cleisthenes won the first chariot race in 582. He
 founded Pythian games at Sicyon, and possibly built a new Sicyonian
@@ -314,7 +314,7 @@ FOOTNOTES:
 
   [2] The explanation given for this step by Herodotus (v. 67) is an
     amusing example of his incapacity as a critical historian. To compare
-    Cleisthenes of Sicyon (see below), bent on humiliating the Dorians of
+    Cleisthenes of Sicyon (see below), bent on humiliating the [[Dorians]] of
     Sicyon by giving opprobrious names to the Dorian tribes, with his
     grandson, whose endeavour was to elevate the very persons whose
     tribal organization he replaced, is clearly absurd.
@@ -326,8 +326,8 @@ FOOTNOTES:
   [4] It should be observed that there are other translations of the
     difficult phrase [Greek: xenous kai doulous metoikous].
 
-  [5] _Colacretae_ were very ancient Athenian magistrates; either (1)
-    those who "cut up the joints" in the Prytaneum ([Greek: kôla,
+  [5] _Colacretae_ were very ancient Athenian [[Magistrate|magistrates]]; either (1)
+    those who "cut up the [[Joints|joints]]" in the Prytaneum ([Greek: kôla,
     keirô]), or (2) those who "collected the joints" ([Greek: kôla,
     ageirô]) which were left over from public sacrifices, and consumed in
     the Prytaneum. These officials were again important in the time of
@@ -338,7 +338,7 @@ FOOTNOTES:
 
   [6] It is, however, more probable that the right reading of the
     passage is [Greek: deka ippeis] instead of [Greek: duo], which would
-    give a cavalry force in early Athens of 480, a reasonable number in
+    give a [[Cavalry|cavalry]] force in early Athens of 480, a reasonable number in
     proportion to the total fighting strength.
 
 ## See also

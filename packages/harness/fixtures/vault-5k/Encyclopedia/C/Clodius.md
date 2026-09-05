@@ -2,7 +2,7 @@
 
 CLODIUS,[1] PUBLIUS (c. 93-52 B.C.), surnamed PULCHER, Roman politician.
 He took part in the third Mithradatic war under his brother-in-law
-Lucius Licinius Lucullus, but considering himself treated with
+[[Lucius]] Licinius Lucullus, but considering himself treated with
 insufficient respect, he stirred up a revolt; another brother-in-law, Q.
 Marcius Rex, governor of Cilicia, gave him the command of his fleet, but
 he was captured by pirates. On his release he repaired to Syria, where
@@ -11,8 +11,8 @@ to Rome in 65, he prosecuted Catiline for extortion, but was bribed by
 him to procure acquittal. There seems no reason to believe that Clodius
 was implicated in the Catilinarian conspiracy; indeed, according to
 Plutarch (_Cicero_, 29), he rendered Cicero every assistance and acted
-as one of his body-guard. The affair of the mysteries of the Bona Dea,
-however, caused a breach between Clodius and Cicero in December 62.
+as one of his body-guard. The affair of the mysteries of the [[Bona]] Dea,
+however, caused a [[Breach|breach]] between Clodius and Cicero in December 62.
 Clodius, dressed as a woman (men were not admitted to the mysteries),
 entered the house of Caesar, where the mysteries were being celebrated,
 in order to carry on an intrigue with Caesar's wife. He was detected and
@@ -26,17 +26,17 @@ calculated to secure him the popular favour. Corn, instead of being sold
 at a low rate, was to be distributed gratuitously once a month; the
 right of taking the omens on a fixed day and (if they were declared
 unfavourable) of preventing the assembly of the comitia, possessed by
-every magistrate by the terms of the Lex Aelia Fufia, was abolished; the
+every [[Magistrate|magistrate]] by the terms of the Lex Aelia Fufia, was abolished; the
 old clubs or gilds of workmen were re-established; the censors were
 forbidden to exclude any citizen from the senate or inflict any
 punishment upon him unless he had been publicly accused and condemned.
 He then contrived to get rid of Cicero (q.v.) and the younger Cato
-(q.v.), who was sent to Cyprus as praetor to take possession of the
+(q.v.), who was sent to [[Cyprus]] as praetor to take possession of the
 island and the royal treasures. Cicero's property was confiscated by
 order of Clodius, his house on the Palatine burned down, and its site
 put up to auction. It was purchased by Clodius himself, who, not wishing
 to appear in the matter, put up some one to bid for him. After the
-departure of Caesar for Gaul, Clodius became practically master of Rome
+departure of Caesar for [[Gaul]], Clodius became practically master of Rome
 with the aid of armed ruffians and a system of secret societies. In 57
 one of the tribunes proposed the recall of Cicero, and Clodius resorted
 to force to prevent the passing of the decree, but was foiled by Titus
@@ -63,7 +63,7 @@ woman of abandoned character.
 
   AUTHORITIES.--Cicero, _Letters_ (ed. Tyrrell and Purser), _Pro Caelio,
   pro Sestio, pro Milone, pro Domo sua, de Haruspicum Responsis, in
-  Pisonem_; Plutarch, _Lucullus, Pompey, Cicero, Caesar_; Dio Cassius
+  Pisonem_; Plutarch, _Lucullus, Pompey, Cicero, Caesar_; Dio [[Cassius]]
   xxxvi. 16, 19, xxxvii. 45, 46, 51, xxxviii. 12-14, xxxix. 6, 11, xl.
   48. See also I. Gentile, _Clodio e Cicerone_ (Milan, 1876); E. S.
   Beesley, "Cicero and Clodius," in _Fortnightly Review_, v.; G.

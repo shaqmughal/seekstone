@@ -14,10 +14,10 @@ the local chapter elected him vicar-general. This office he resigned in
 1813 through his opposition to Napoleon, but assumed it again after the
 battle of Waterloo (1815) until a disagreement with the Prussian
 government in 1820 led to his abdication. He remained in private life
-until 1835, when he was appointed archbishop of Cologne. Here again his
+until 1835, when he was appointed archbishop of [[Cologne]]. Here again his
 zeal for the supremacy of the church led him to break the agreement
 between the state and the Catholic bishops which he had signed at his
-installation, and he was arrested by the Prussian government in November
+[[Installation|installation]], and he was arrested by the Prussian government in November
 1837. A battle of pamphlets raged for some time; Droste was not
 re-installed but was obliged to accept a coadjutor. His chief works
 were: _Über die Religionsfreiheit der Katholiken_ (1817), and _Über den

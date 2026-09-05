@@ -1,7 +1,7 @@
 # Eavesdrip
 
 EAVESDRIP, or EAVESDROP, that width of ground around a house or building
-which receives the rain water dropping from the eaves. By an ancient
+which receives the rain water dropping from the [[Eaves|eaves]]. By an ancient
 Saxon law, a landowner was forbidden to erect any building at less than
 2 ft. from the boundary of his land, and was thus prevented from
 injuring his neighbour's house or property by the dripping of water from

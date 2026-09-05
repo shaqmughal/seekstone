@@ -12,7 +12,7 @@ union, and after the death of her husband and accession of her stepson
 Theophilus Euphrosyne again retired into a convent.
 
 2. EUPHROSYNE, the wife of Alexius III. (q.v.). After securing the
-election of her husband to the throne by wholesale bribery she virtually
+election of her husband to the throne by wholesale [[Bribery|bribery]] she virtually
 took the government into her hands and restored the waning influence of
 the monarchy over the nobles. In spite of her talent for government she
 went far to hasten the empire's downfall by her unbounded extravagance,

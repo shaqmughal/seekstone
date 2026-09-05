@@ -1,9 +1,9 @@
 # Easthampton
 
-EASTHAMPTON, a township of Hampshire county, Mass., U.S.A., in the
+EASTHAMPTON, a township of [[Hampshire]] county, Mass., U.S.A., in the
 Connecticut Valley. Pop. (1900) 5603, of whom 1731 were foreign-born;
-(1905) 6808; (1910) 8524. It is served by the Boston & Maine, and the
-New York, New Haven & Hartford railways, and by interurban electric
+(1905) 6808; (1910) 8524. It is served by the [[Boston]] & [[Maine]], and the
+New York, New Haven & [[Hartford]] railways, and by interurban electric
 railways. The township is generally level, and is surrounded by high
 hills. In Easthampton are a free public library and Williston Seminary;
 the latter, one of the oldest and largest preparatory schools in New

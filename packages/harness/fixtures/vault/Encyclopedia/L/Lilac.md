@@ -9,14 +9,14 @@ type: article
 
 LILAC,[1] or PIPE TREE (_Syringa vulgaris_), a tree of the olive family,
 Oleaceae. The genus contains about ten species of ornamental hardy
-deciduous shrubs native in eastern Europe and temperate Asia. They have
+[[Deciduous|deciduous]] shrubs native in eastern Europe and temperate Asia. They have
 opposite, generally entire leaves and large panicles of small regular
 flowers, with a bell-shaped calyx and a 4-lobed cylindrical corolla,
 with the two stamens characteristic of the order attached at the mouth
 of the tube. The common lilac is said to have come from Persia in the
-16th century, but is doubtfully indigenous in Hungary, the borders of
+16th century, but is doubtfully indigenous in Hungary, the [[Borders|borders]] of
 Moldavia, &c. Two kinds of _Syringa_, viz. _alba_ and _caerulea_, are
-figured and described by Gerard (_Herball_, 1597), which he calls the
+figured and described by [[Gerard]] (_Herball_, 1597), which he calls the
 white and the blue pipe privets. The former is the common privet,
 _Ligustrum vulgare_, which, and the ash tree, _Fraxinus excelsior_, are
 the only members of the family native in Great Britain. The latter is
@@ -34,9 +34,9 @@ still grown in gardens of the northern and middle states.
   native of Persia and Afghanistan, a shrub 4 to 7 ft. high with
   bluish-purple or white flowers. Of other species, _S. Josikaea_, from
   Transylvania, has scentless bluish-purple flowers; _S. Emodi_, a
-  native of the Himalayas, is a handsome shrub with large ovate leaves
+  native of the [[Himalaya|Himalayas]], is a handsome shrub with large ovate leaves
   and dense panicles of purple or white strongly scented flowers. Lilacs
-  grow freely and flower profusely in almost any soil and situation, but
+  grow freely and [[Flower|flower]] profusely in almost any soil and situation, but
   when neglected are apt to become choked with suckers which shoot up in
   great numbers from the base. They are readily propagated by means of
   these suckers.

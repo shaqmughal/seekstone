@@ -1,7 +1,7 @@
 # Bundaberg
 
-BUNDABERG, a municipal town and river port of Cook county, Queensland,
-Australia, 10 m. from the mouth of the river Burnett, and 217 m. by rail N.
+BUNDABERG, a municipal town and river port of [[Cook]] county, Queensland,
+[[Australia]], 10 m. from the mouth of the river [[Burnett]], and 217 m. by rail N.
 by W. of Brisbane. Pop. (1901) 5200. It lies on both sides of the river,
 and connexion between the two ports is maintained by road and railway
 bridges. There are saw-mills, breweries, brickfields and distilleries in

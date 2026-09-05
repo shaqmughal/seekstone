@@ -6,10 +6,10 @@ topic: fortification
 
 # Maret
 
-MARET, HUGUES-BERNARD, DUC DE BASSANO (1763-1839), French statesman and
+MARET, HUGUES-BERNARD, DUC DE [[Bassano|BASSANO]] (1763-1839), French statesman and
 publicist, was born at Dijon. After receiving a sound education, he
 entered the legal profession and became advocate at the King's Council
-at Paris. The ideas of the French Revolution profoundly influenced him,
+at Paris. The ideas of the [[French Revolution]] profoundly influenced him,
 and wholly altered his career. The interest aroused by the debates of
 the first National Assembly suggested to him the idea of publishing
 them, conjointly with Méjean, in the _Bulletin de l'Assemblée_. The
@@ -17,7 +17,7 @@ publicist Charles Joseph Panckoucke (1736-1798), owner of the _Mercure
 de France_ and publisher of the famous _Encyclopédie_ (1781), persuaded
 him to merge this in a larger paper, the _Moniteur universel_, which
 gained a wide repute for correctness and impartiality. He was a member
-of the moderate club, the Feuillants; but after the overthrow of the
+of the moderate club, the [[Feuillants]]; but after the overthrow of the
 monarchy on the 10th of August 1792 he accepted an office in the
 ministry of foreign affairs, where he sometimes exercised a steadying
 influence. On the withdrawal of the British legation from Paris Maret
@@ -30,14 +30,14 @@ precluded the possibility of success attending a second mission of Maret
 to London in January. After a space, in which he held no diplomatic
 post, he became ambassador of the French Republic at Naples; but, while
 repairing thither with De Sémonville he was captured by the Austrians
-and was kept in durance by them for some thirty months, until, at the
+and was kept in [[Durance|durance]] by them for some thirty months, until, at the
 close of 1795, the two were set free in return for the liberation of the
 daughter of Louis XVI. For a time Maret betook himself to journalism;
 but he played a useful part in the negotiations for a peace with Great
 Britain which went on at Lille during the summer of 1797, until the
-victory of the Jacobins at Paris in the _coup d'état_ of Fructidor
+victory of the [[Jacobins]] at Paris in the _coup d'état_ of Fructidor
 (Sept. 1797) frustrated the hopes of Pitt for peace and inflicted on
-Maret another reverse of fortune. On the return of Bonaparte from Egypt
+Maret another reverse of fortune. On the return of [[Bonaparte]] from Egypt
 in 1799 Maret joined the general's party which came to power with the
 _coup d'état_ of Brumaire (Nov. 9-10, 1799).
 
@@ -75,12 +75,12 @@ Caulaincourt, duc de Vicence, who was thought to be more devoted to the
 cause of peace and personally grateful to the emperor Alexander I. of
 Russia. Maret, however, as private secretary of the emperor, remained
 with his master through the campaign of 1814, as also during that of
-1815. After the second restoration of the Bourbons he was exiled, and
+1815. After the second restoration of the [[Bourbon|Bourbons]] he was exiled, and
 retired to Grätz where he occupied himself with literary work. In 1820
 he was allowed to return to France, and after the Revolution of 1830,
 Louis Philippe, king of the French, made him a peer of France; he also
 held two high offices for a few days. He died at Paris in 1839. He
-shares with Daru the honour of being the hardest worker and most devoted
+shares with [[Daru]] the honour of being the hardest worker and most devoted
 supporter in Napoleon's service; but it has generally been considered
 that he carried devotion to the length of servility, and thus often
 compromised the real interests of France. This view has been contested
@@ -90,7 +90,7 @@ biography.
   For Maret's mission to England in 1792 and his work at Lille in 1797,
   see Augustus W. Miles, _Letters on the French Revolution_; J. H. Rose,
   _The Life and Times of William Pitt_, and for other incidents of
-  Maret's career, the memoirs of Bourrienne, Pasquier, Méneval and
+  Maret's career, the memoirs of [[Bourrienne]], Pasquier, Méneval and
   Savary (duc de Rovigo), may be consulted. Thiers's account of Maret is
   in general hostile to him.     (J. Hl. R.)
 

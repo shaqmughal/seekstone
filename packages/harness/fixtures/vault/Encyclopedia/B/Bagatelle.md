@@ -1,16 +1,16 @@
 # Bagatelle
 
 BAGATELLE (French, from Ital. _bagatella_, _bagata_, a trifle), primarily a
-thing of trifling importance. The name, though French, is given to a game
+thing of trifling importance. The name, though French, is given to a [[Game|game]]
 which is probably of English origin, though its connexion with the
 _shovel-board_ of Cotton's _Complete Gamester_ is very doubtful. Strutt
-does not mention it. The game is very likely a modification of billiards,
+does not mention it. The game is very likely a modification of [[Billiards|billiards]],
 and is played on an oblong board or table varying in size from 6 ft. by 1½
 ft. to 10 ft. by 3 ft. The bed of the table is generally made of slate,
 although, in the smaller sizes, wood covered with green cloth is often
 used. The sides are cushioned with india-rubber. The head is semicircular
 and fitted with 9 numbered cups set into the bed, their numbers showing the
-amount scored by putting a ball into them. An ordinary billiard-cue and
+amount scored by putting a [[Ball|ball]] into them. An ordinary billiard-cue and
 nine balls, one black, four red and four white, are used. The black ball is
 placed upon a spot about 9 in. in front of hole 1, and about 18 in. from
 the player's end of the board a line (the baulk) is drawn across it, behind
@@ -39,7 +39,7 @@ a player holes one of his opponent's balls it is scored for his opponent.
 The game is decided by a certain number of rounds, or by points, usually 21
 or 31. In other matters the rules of bagatelle apply.
 
-_The Cannon Game._--This is usually considered the best and most scientific
+_The [[Cannon]] Game._--This is usually considered the best and most scientific
 of bagatelle varieties. Tables without cups are sometimes used. As in
 billiards three balls are required, the white, spot-white and black, the
 last being spotted and the non-striker's ball placed midway between holes 1
@@ -58,11 +58,11 @@ _The Irish Cannon Game._--The rules of the _cannon game_ apply, except that
 in all cases pocketed balls count for the adversary.
 
 _Mississippi._--This variation is played with a bridge pierced with 9 on
-more arches, according to the size of the table, the arches being numbered
+more [[Arches|arches]], according to the size of the table, the arches being numbered
 from 1 upwards. All nine balls are usually played, though the black is
 sometimes omitted, each player having a round, the object being to send the
 balls through the arches. This may not be done directly, but the balls must
-strike a cushion first, the black, if used, counting double the arch made.
+strike a cushion first, the black, if used, counting double the [[Arch|arch]] made.
 If a ball is played through an arch, without first striking a cushion, the
 score goes to the adversary, but another ball, lying in front of the
 bridge, may be sent through by the cue-ball if the latter has struck a

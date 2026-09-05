@@ -12,7 +12,7 @@ tags: [warfare]
 ANI (anc. _Abnicum_), an ancient and ruined Armenian city, in Russian
 Transcaucasia, government Erivan, situated at an altitude of 4390 ft.,
 between the Arpa-chai (_Harpasus_) and a deep ravine. In 961 it became
-the capital of the Bagratid kings of Armenia, and when yielded to the
+the capital of the Bagratid kings of [[Armenia]], and when yielded to the
 Byzantine emperor (1046) it was a populous city, known traditionally
 as the "city with the 1001 churches." It was taken eighteen years
 later by the Seljuk Turks, five times by the Georgians between 1125

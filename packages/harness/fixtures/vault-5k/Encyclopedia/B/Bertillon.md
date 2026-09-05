@@ -19,10 +19,10 @@ He died at Neuilly on the 28th of February 1883.
 His son ALPHONSE BERTILLON, the anthropometrist, was born in Paris in
 1853. He published in 1883 a work _Ethnographie moderne des races
 sauvages_, but his chief claim to distinction lies in the system
-invented by him for the identification of criminals, which is described
+invented by him for the [[Identification|identification]] of criminals, which is described
 by him in his _Photographie judiciaire_, Paris, 1890 (see
 ANTHROPOMETRY). He was officially appointed in 1894 to report on the
-handwriting of the _bordereau_ in the Dreyfus case, and was a witness
+handwriting of the _bordereau_ in the [[Dreyfus]] case, and was a witness
 for the prosecution before the cour de cassation on the 18th of January
 1899.
 

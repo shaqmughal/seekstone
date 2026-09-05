@@ -20,7 +20,7 @@ including the whole range of ancient human activity, from the first
 traceable appearance of man on the earth to the middle ages. It may thus
 be conceived how vast a field archaeology embraces, and how intimately
 it is connected with the sciences of geology (q.v.) and anthropology
-(q.v.), while it naturally includes within its borders the consideration
+(q.v.), while it naturally includes within its [[Borders|borders]] the consideration
 of all the civilizations of ancient times.
 
 In dealing with so vast a subject, it becomes necessary to distinguish.
@@ -47,7 +47,7 @@ illuminating the days before those of documentary history and for
 checking and reinforcing the evidence of the raw material (the
 "unwritten history" of architecture, tombs, art-products, &c.), that
 recent archaeological work has been so notable. The work of the literary
-critic and historian has been amplified by the spade-work of the expert
+critic and historian has been amplified by the spade-work of the [[Expert|expert]]
 excavator and explorer to an extent undreamt of by former generations;
 and ancient remains, instead of being treated merely as interesting
 objects of art, have been forced to give up their secret to the
@@ -93,18 +93,18 @@ Vast quantities of material have been brought forward, and endless
 discussions have taken place, but hitherto without carrying entire
 conviction to the minds of the more serious and cautious students of
 prehistoric archaeology. A chronic difficulty, and one which can never
-be entirely removed, is our ignorance of the precise methods of nature's
+be entirely removed, is our [[Ignorance|ignorance]] of the precise methods of nature's
 working. It is an obvious fact, that natural forces, such as glacial
 action, earthquakes, landslips and the like, must crush and chip flints
 and break up animal remains, grinding and scratching them in masses of
 gravel or sand. If it were possible to determine with precision what'
-were the peculiarities of the flint or bone, thus altered by natural
+were the peculiarities of the flint or [[Bone|bone]], thus altered by natural
 agencies, it would be easy to separate them from others purposely made
 by man to serve some useful end. Our present knowledge, however, does
 not allow us to go so far in dealing with the ruder early attempts of
-man to fabricate weapons or implements. Even the one feature that is
+man to fabricate weapons or [[Implement|implements]]. Even the one feature that is
 commonly held to determine human agency, the "bulb of percussion,"
-cannot be considered satisfactory, without collateral evidence of some
+cannot be considered satisfactory, without [[Collateral|collateral]] evidence of some
 kind. Flint breaks with what is called a conchoidal fracture, as do many
 other substances, such as glass. Thus on the face of a flint flake, at
 the end where the blow was delivered to detach it from the nodule, is
@@ -135,7 +135,7 @@ would seem to be a necessity that he should have passed through an
 earlier stage, before arriving at the precision of workmanship and the
 fixed types found in the old Stone Age deposits known as palaeolithic.
 It is now claimed that this earlier and ruder stage has actually been
-discovered in what are known as the Plateau-gravels of Kent, in Belgium,
+discovered in what are known as the Plateau-gravels of Kent, in [[Belgium]],
 and even in Egypt, and the name of eolithic ([Greek: eos], dawn, [Greek:
 lithos], stone) has been bestowed upon them. The controversy as to the
 human character has been very keen, some alleging that the fractured
@@ -157,7 +157,7 @@ when the physical features of Kent were of a very different character.
 The critics of eoliths have brought forward some facts that at first
 sight would seem to be of a very damaging nature. It was observed that
 in the process of cement manufacture the flints that had passed through
-a rotary machine in which they were violently struck by its teeth or
+a rotary [[Machine|machine]] in which they were violently struck by its teeth or
 knocked against each other, possessed just those features that were
 claimed as indisputable proof of man's handiwork, and that even the
 forms were the same. These statements have, of course, been met by
@@ -182,13 +182,13 @@ abraded in the same way. This in itself suffices to show that the worked
 and unworked flints were deposited in their present stratigraphical
 position at the same time. The remote age of the beds themselves is
 demonstrated by the presence of bones of animals either now extinct or
-found only in far distant latitudes, such as the mammoth, reindeer,
+found only in far distant [[Latitude|latitudes]], such as the mammoth, reindeer,
 rhinoceros, &c., and in some cases these bones are found in such
 relative positions as to prove they were deposited with the flesh still
 adhering to them, and also that the animal was contemporary with the
 makers of the flint implements. Evidence of a somewhat different kind is
 provided for the palaeolithic period by certain caverns that have been
-discovered in England and on the continent. In these limestone caves
+discovered in England and on the continent. In these [[Limestone|limestone]] caves
 palaeolithic man has lived, slept, eaten his food and made his tools and
 weapons. Much of his handiwork has been left, with the bones of animals
 on which he lived, scattered upon the floor of the cave, and has been
@@ -208,27 +208,27 @@ roughly from southern England to St Petersburg all was sea. It was
 during the latter half of the Tertiary period that the continent assumed
 its present general form, though even in Pleistocene (Quaternary) times
 England and Ireland formed part of it. The great change of climate from
-temperate to arctic conditions during the latter half of the Tertiary
+temperate to [[Arctic|arctic]] conditions during the latter half of the Tertiary
 period has been interpreted in various ways, no one of which is yet
 universally accepted. There can be little doubt, however, that no single
 cause was responsible for so complete a change. There may have been some
 alteration in the relative positions of the earth and the sun, which
 would conceivably have produced it; but what is practically certain is
-that the physical geography of northern Europe was affected by
+that the physical [[Geography|geography]] of northern Europe was affected by
 considerable difference in level, and it is clear that the raising of
 mountain ranges and the general elevation of the continent must
 necessarily have reacted on the climatic conditions. If in the later
-Tertiary time we find that the Alps, the Carpathians and the Caucasus
+Tertiary time we find that the Alps, the Carpathians and the [[Caucasus]]
 have come into existence, it is not surprising to find that these huge
 condensers have brought about a humid condition of the continent to such
 an extent that this phase has been called the Pluvial Age. The humidity,
 however, was in some ways only a secondary result of the protrusion of
 high mountain ranges. The primary cause of the physical conditions that
 we now find in the valleys and plains was the formation of glaciers.
-These rivers of ice descending far into the lower levels during the
+These rivers of [[Ice|ice]] descending far into the lower levels during the
 winter months, melted during the summer, causing enormous volumes of
 water to rush through the valleys and over the plains, carrying with it
-masses of mud and boulders which were left stranded sometimes at immense
+masses of mud and [[Boulder|boulders]] which were left stranded sometimes at immense
 distances. The intensity and force of the rivers thus formed would
 depend upon two factors, first the extent of the watershed, and
 secondly, the height of the mountains from which the water was derived.
@@ -288,7 +288,7 @@ evidently been made on the spot, as Smith found that many of the flakes
 could be replaced on the blocks or cores from which they had been struck
 by palaeolithic man; there were also the flint hammers that had been
 used in the operation. Above the floor was a layer of brick-earth, again
-covered by contorted drift, in which also implements occurred, but of a
+covered by contorted [[Drift|drift]], in which also implements occurred, but of a
 very different kind from those found below. In place of being sharp and
 unabraded, and with the refuse flakes accompanying them, they were
 rolled and disfigured, of an ochreous tint, and evidently had been
@@ -339,14 +339,14 @@ discouraged.
 Caves (q.v.) have been at all periods regarded as something uncanny and
 mysterious, with perhaps a tinge of the supernatural. In classical times
 they were associated with semi-divine beings, with oracles, and even
-with the gods themselves, while half the legends of dwarfs and gnomes
+with the gods themselves, while half the legends of dwarfs and [[Gnomes|gnomes]]
 that run through the folk-lore of medieval and modern Europe are
 associated with caves. They have been used as shelters or habitations at
 all times, and in examining them it is fully as necessary to sift the
 evidence of age as it would be in dealing with the river-gravels. Their
 exploration in the first instance may well have been due to chance, but
 it is fairly certain that during the 16th century the search for the
-horn of the unicorn as an antidote to disease, was responsible for the
+[[Horn|horn]] of the unicorn as an antidote to disease, was responsible for the
 opening up of a certain number. Among the finds were no doubt the fossil
 bones of Quaternary animals to which mythical names and imaginary
 properties were attached, and the popular belief in such amulets
@@ -367,7 +367,7 @@ clearly proved to have been contemporary with these extinct beasts. So
 contrary was this contention to the ideas prevalent in the second
 quarter of the 19th century, that the pioneer in this work had died (in
 1841) before the immense importance of his discovery was admitted. To
-Godwin Austen in the first place and to W. Pengelley in the second, with
+Godwin [[Austen]] in the first place and to W. Pengelley in the second, with
 the aid of the British Association, was due the vindication of McEnery's
 veracity and accuracy.
 
@@ -389,7 +389,7 @@ computations have differed by hundreds of thousands of years, according
 to the method adopted, it is scarcely wise to do more than speculate.
 Beneath the black mould, containing what may be called the recent
 remains, was a layer of stalagmite, some feet in thickness; and under
-this at one place was a great quantity of charcoal, which has been with
+this at one place was a great quantity of [[Charcoal|charcoal]], which has been with
 good reason assumed to show the site of fireplaces. A quantity of
 implements of palaeolithic type was found, but the main layer at this
 level consisted of a reddish clay known as cave-earth, and in this
@@ -399,7 +399,7 @@ river-drift type, but some were of types generally confined to
 cave-deposits of this period; while the barbed harpoon heads, and more
 especially a bone needle, were definitely of the cave class, so well
 represented in the caves of Dordogne. Again, below the cave-earth was a
-_breccia_ formed of limestone and sandstone pebbles cemented together by
+_[[Breccia|breccia]]_ formed of limestone and sandstone pebbles cemented together by
 a calcareous paste. In this also were found implements and bones of
 bears.
 
@@ -421,13 +421,13 @@ bring before us a race of artists of first-rate capacity, who for
 accuracy of observation, and for skill in indicating the character and
 peculiarities of the animals around them, have never been surpassed.
 Such a statement sounds like a contradiction in terms. We are dealing
-with human beings whose intellect, to judge by their physical
+with human beings whose [[Intellect|intellect]], to judge by their physical
 characters, should be on a level with that of the Fuegian or the
-Australian black, and far below that of the Maori or the Sandwich
+Australian black, and far below that of the [[Maori]] or the Sandwich
 Islander. Yet none of these gentle and relatively cultured brown races
 produced anything in the nature of art that can in any sense be compared
 with the masterly drawings or sculptures of the cave-men of France. The
-best-known of the engravings, that of the mammoth on a piece of ivory,
+best-known of the engravings, that of the mammoth on a piece of [[Ivory|ivory]],
 is in the Jardin des Plantes in Paris. It is evidently intended to be
 nothing more than a sketch, the lines of the finely curved tusks being
 repeated several times in the desire for accuracy. But the heavy
@@ -438,7 +438,7 @@ represented, but a most complete mastery of the art of translating the
 idea into simple line. This mammoth-drawing is probably the most
 important and monumental of its class, but there are many others that
 possess artistic qualities not less remarkable, while they have in
-addition a grace and beauty of line not less astonishing. One of these,
+addition a [[Grace|grace]] and beauty of line not less astonishing. One of these,
 in the British Museum, the head of an ibex-like creature, is outlined
 with a decision and refinement that can scarcely be surpassed, and many
 other sketches in horn or stone in the same collection show a keen
@@ -456,13 +456,13 @@ much more advanced style than was to be expected among men who are
 always classed in the lower grades of culture. But enough stress has not
 hitherto been laid on the artistic quality of the work, which would be
 considered fine at any time in the world's history. This high artistic
-level was attained by a race of men whom we cannot credit with any great
+level was attained by a race of men whom we cannot [[Credit|credit]] with any great
 intellectual equipment; men, moreover, who were engaged in a daily
 struggle for the barest necessaries of life, in a trying climate and
 surrounded by a fauna whose means of attack and defence were infinitely
 superior to their own. There are many astonishing problems in
 archaeology, but none so badly in need of solution. Had the discovery
-been confined to a single drawing or even to a single site, fraud or a
+been confined to a single drawing or even to a single site, [[Fraud|fraud]] or a
 misreading of the conditions might have been alleged, but the case is
 very different. The drawings and sculptures have been found generally
 enough in France to demonstrate that such artistic power was fairly
@@ -487,12 +487,12 @@ be thrown on the many problems of early man.
 
 In spite of the unquestioned and unquestionable character of
 palaeolithic discoveries in general, it must not be assumed that there
-has been an absence of falsification, forgery, and what the French call
+has been an absence of falsification, [[Forgery|forgery]], and what the French call
 "mystification"; on the contrary, such attempts to meet the demand have
 been common enough. Apart from Edward Simpson, who was notorious as
-"Flint Jack" in the middle of the 19th century, many others, both in
+"Flint [[Jack]]" in the middle of the 19th century, many others, both in
 England and on the continent of Europe, have devoted themselves to this
-peculiar industry. Boucher de Perthes tried to conquer the scepticism of
+peculiar industry. [[Boucher]] de Perthes tried to conquer the scepticism of
 some of his friends who doubted the human origin of the Abbeville
 flints, by unwisely offering his workmen a reward for the discovery of
 human bones in the same beds. The Moulin Quignon jaw was accordingly
@@ -513,7 +513,7 @@ tools and implements were placed on the market. In Italy, too, a lively
 discussion has taken place of late years over the authenticity of
 curiously shaped flint implements from the neighbourhood of Verona;
 while America has provided similar food for discussion in the well-known
-Lenape stone and the Calaveras skull. The former bears drawings of the
+Lenape stone and the [[Calaveras Skull|Calaveras skull]]. The former bears drawings of the
 French cave type, while the latter if genuine would carry back the story
 of man in the American continent before Pliocene times.
 
@@ -522,11 +522,11 @@ of man in the American continent before Pliocene times.
 
 An apparent break in the continuity of man's history in Europe occurs at
 the end of the palaeolithic period. Attempts have been made to bridge
-the gap by means of a "mesolithic" period ([Greek: mesos], middle); but
+the [[Gap|gap]] by means of a "mesolithic" period ([Greek: mesos], middle); but
 it would not seem probable that the missing links will occur at all
 events so far north as Britain. We leave palaeolithic man in a cold
 climate, surrounded by a somewhat mixed fauna that formed his prey. We
-know him as a hunter and artist, but the remains show that he had no
+know him as a [[Hunter|hunter]] and artist, but the remains show that he had no
 knowledge of pottery till towards the close of the period. Among the
 humbler arts he practised at least sewing, and lived in caves or took
 shelter at the base of overhanging rocks; but like the Australian, he
@@ -540,7 +540,7 @@ most important of these are the training of domestic animals,
 agriculture, and the development of pottery. What were the burial rites
 of palaeolithic man we have at present no means of knowing, but for his
 neolithic successor we know that these were matters of great moment. The
-abundance of arrowheads of flint indicate the common use of the bow and
+abundance of arrowheads of flint indicate the common use of the [[Bow|bow]] and
 arrow as a weapon, while the art of weaving marks an immense stride in
 the direction of comfort and civilization. Of the form and construction
 of his dwelling we have only a limited knowledge, derived with some
@@ -554,7 +554,7 @@ causes alone. Much of the evidence is in favour of neolithic man being
 an immigrant, coming into northern and central Europe long after
 palaeolithic man and his characteristic fauna had disappeared. Where did
 the earlier race go and who are its modern representatives, if any? The
-answers to this question are many. W. Boyd Dawkins is of opinion that
+answers to this question are many. W. [[Boyd]] [[Dawkins]] is of opinion that
 the reindeer was followed by man in its journey to the north after the
 retreating glaciers, and that the modern representative of palaeolithic
 man is the Eskimo. His arguments are ingenious but unconvincing; they
@@ -611,7 +611,7 @@ succeeding time, though evidence is being accumulated to show that this
 division is not of universal application. Long barrows are by no means
 of such frequent occurrence in Britain as the round variety; they are
 most common in Wiltshire, Gloucestershire and Dorset, and occur as far
-north as Caithness. Some of them contain within the mound a stone
+north as [[Caithness]]. Some of them contain within the mound a stone
 chamber, at times with a gallery leading to it, and in the chamber the
 interment or interments took place. Similar barrows have been found on
 the continent of Europe, and both in Britain and abroad have one feature
@@ -619,21 +619,21 @@ in common, viz. that no metal, with possibly the exception of gold, has
 ever been found in them. This similarity of burial custom, though it may
 conceivably indicate intercourse, certainly does not prove identity of
 race, as has been sometimes claimed. The type of skulls found in the
-interment is clear evidence against such an assumption.
+interment is clear evidence against such an [[Assumption|assumption]].
 
 In Britain, the burials were at times by inhumation only, and
 occasionally a great number of bodies were interred in the same barrow:
-at others, cremation had preceded burial. Another remarkable feature is
+at others, [[Cremation|cremation]] had preceded burial. Another remarkable feature is
 that in many instances it is certain from the relative position of the
-bones of the unburnt burials that the corpse had been allowed to decay
+bones of the unburnt burials that the [[Corpse|corpse]] had been allowed to decay
 before the burial took place. This curious practice is known among many
 savage tribes of the present day. Its occurrence in Britain has been
-adduced in favour of the prevalence of cannibalism at this time, and not
+adduced in favour of the prevalence of [[Cannibalism|cannibalism]] at this time, and not
 altogether without reason. While metal is entirely absent in the long
 barrows (and in fact relics of any kind are very rarely found), it is
 significant that in the succeeding round barrows also metal occurs but
 seldom, and then always of the types attributed to the earliest part of
-the Bronze Age. When, therefore, the mound pottery is of a class that
+the [[Bronze Age]]. When, therefore, the mound pottery is of a class that
 may well be anterior to metal, and no metal is found with the burial, it
 is not unreasonable to assign such barrows to the Stone Age. A similar
 argument may be applied to the stone implements, but in the opposite
@@ -659,11 +659,11 @@ gallery at the bottom. At Grime's Graves large numbers of deer's horns
 were found, which had evidently been used as picks, as is proved by the
 marks found in the chalk walls; and the horn had been trimmed for the
 purpose. Cups of chalk were also found in the galleries and were
-believed to have been used as lamps. At Cissbury great quantities of
+believed to have been used as [[Lamp|lamps]]. At Cissbury great quantities of
 unfinished and defective implements were found in the work, as well as
 horn tools, as in Norfolk. At such factories the primitive appliances
 correspond very closely with those in use among existing savages. The
-pebble was used as a hammer or an anvil, and the more delicate flaking
+pebble was used as a hammer or an [[Anvil|anvil]], and the more delicate flaking
 was done by pressure with a piece of horn rather than by blows.
 Naturally enough the number of completed implements found in these
 factories is small; the finished tools would be bartered at once and
@@ -714,7 +714,7 @@ surface condition or patina, they would be identical.
   1. Flint and stone implements, England.
   2. Flint arrow-heads, England.
   3. Arrow-heads, Ireland.
-  4. Flint and stone implements, Denmark.
+  4. Flint and stone implements, [[Denmark]].
   5. Flint implements, France.
   6. Flint implements, Egypt.]
 
@@ -729,7 +729,7 @@ before metals, in all countries. The one material requires no special
 treatment before being adapted to man's use, while the other demands
 considerable knowledge, even if reasoning power have but little place in
 the process. Thus the probabilities are here borne out by the facts. In
-the extensive "kitchen-middens" of Japan are found great numbers of
+the extensive "kitchen-middens" of [[Japan]] are found great numbers of
 chert implements mixed with pottery of a primitive type, recalling that
 of European early Bronze Age barrows, while the succeeding periods of
 metal are equally clear. Even in the Far East, therefore, the same
@@ -780,7 +780,7 @@ would no doubt have a direct relation to the age of the implement, if
 only it could be proved that all of them had been equally subjected to
 the conditions that produced the discoloration. But this is clearly
 impossible. Some implements may conceivably have been continuously on
-the surface of the desert from the time they were made, and have been
+the surface of the [[Desert|desert]] from the time they were made, and have been
 acted upon by the sun and air for many thousands of years, while others,
 though of equal age, may have been covered by sand or otherwise
 protected for a large part of the intervening centuries. Patination,
@@ -829,15 +829,15 @@ the American continent, even with the present scanty materials, there
 can be little doubt. Numbers of young and enthusiastic workers have now
 had a good training in exploration in historical lands, and will
 usefully employ their experience on the antiquities of their own
-country. But if once a key be found to the ancient Mexican inscriptions,
+country. But if once a [[Key|key]] be found to the ancient Mexican inscriptions,
 so plentifully scattered through the ancient monuments, it may be that
 enlightenment will come even more suddenly and more surely. The one
 problem that is of the greatest interest still awaits solution, viz.
 whether there is any relation, in culture or more remotely in race,
 between the inhabitants of ancient America and those of Europe or Asia.
-One thing is certain, that if there be any connexion, it is of infinite
+One thing is certain, that if there be any connexion, it is of [[Infinite|infinite]]
 remoteness. But it is at any rate noteworthy that the same designs,
-patterns and even games are found in ancient Mexico and in India or
+patterns and even [[Games|games]] are found in ancient Mexico and in India or
 China; and whether these resemblances arise from relations between the
 peoples using them or from accident, is a problem well worth
 investigation.
@@ -848,7 +848,7 @@ remoteness was left to develop with but little help from the rest of
 Europe up to historical times; the other, protected on so many sides by
 its mountain ranges, seems to have enjoyed a peaceful existence during
 the Stone and Bronze Ages. A community of fishermen and agriculturists,
-they led a calm domestic life on the edges of their many lakes where
+they led a [[Calm|calm]] domestic life on the edges of their many lakes where
 they constructed dwellings on piles with only a gangway to the shore, to
 prevent the attacks of predatory animals. The practice of building
 houses in lakes was a common one not only in Switzerland, but also in
@@ -856,7 +856,7 @@ Britain and in Ireland, as in modern times among the natives of New
 Guinea. Besides securing the safety of the inhabitants, it had the not
 unimportant advantage of being more healthy; all refuse of food and
 other useless matter could at once be thrown into the water where it
-would be harmless. A similar form of dwelling is the Irish "crannog,"
+would be harmless. A similar form of dwelling is the Irish "[[Crannog|crannog]],"
 constructed on an island or shoal in a lake, in some cases artificially
 heightened so as to bring it above water. These crannogs were probably
 inhabited in Ireland up to comparatively recent times, if one may judge
@@ -876,7 +876,7 @@ implements of flint seem to have been chipped only, and it is
 conjectured that the few polished and more highly finished implements
 that have been found in the middens are importations from more cultured
 tribes living inland. Their food was in very great part composed of
-shell-fish, though they evidently caught and ate various kinds of deer,
+shell-fish, though they evidently caught and [[Ate|ate]] various kinds of deer,
 boar and a variety of carnivorous animals. The race which made these
 mounds is believed to have been akin to the Lapps, and their dwellings
 can hardly have been anything more than the rudest protection from the
@@ -895,7 +895,7 @@ metal whatever is found and it is therefore assumed that these are of
 the earlier period. These people cultivated the land, growing wheat and
 barley; they were also hunters and fishermen, capable of manufacturing
 pottery without the aid of the wheel, which had not yet come into use so
-far north; and they wove mats and garments, while ropes and netting are
+far north; and they wove [[Mat|mats]] and garments, while ropes and netting are
 plentiful. Their tools and weapons were made of stone, and to a great
 extent of deer's horn. Human remains are hardly ever found on the sites
 of the lake-dwellings, and it is therefore uncertain what were the
@@ -911,12 +911,12 @@ Among the most notable and obvious relics of prehistoric times, both in
 Britain and in many other countries such as Spain, Portugal, France and
 even India, are gigantic circles and avenues of stone and dolmens (see
 STONE MONUMENTS). These enduring monuments have excited the wonder of
-countless generations, and lent themselves to superstitious practices
+countless generations, and [[Lent|lent]] themselves to superstitious practices
 down to modern times. But the precise purpose for which they were
 erected and even the period to which they belonged, had never been
 definitely settled. They had been called burial places of great chiefs,
 and not unnaturally had been thought by others to have been temples or
-places of primitive worship used by the Druids, who moreover were often
+places of primitive worship used by the [[Druids]], who moreover were often
 credited with their erection. Obviously such a question called for
 settlement, and the British Association in the year 1898 appointed a
 committee to investigate these stone circles with a view to ascertaining
@@ -940,7 +940,7 @@ builders of the monument. In this he was very successful, finding in the
 course of the very limited excavation at the base of the monolith, a
 great number of stone mauls or hammers that corresponded so nearly with
 the bruised surfaces of the monoliths, that there can be no doubt of
-their having been used to dress the standing stones.
+their having been used to [[Dress|dress]] the standing stones.
 
 From a review of all the evidence of an archaeological nature that was
 to be obtained, Gowland came to the conclusion that the construction of
@@ -948,7 +948,7 @@ Stonehenge belonged to the latter part of the neolithic age. No trace of
 a metal implement occurred in any of the debris. This would of itself be
 an interesting fact, but it became infinitely more interesting from
 researches in quite another direction, which brought corroborative
-evidence of a curious kind. For many years Sir Norman Lockyer and Prof.
+evidence of a curious kind. For many years Sir Norman [[Lockyer]] and Prof.
 Penrose were engaged in examining the orientation of temples in Egypt
 and Greece, with a view to determining on what astronomical principle,
 if any, the plans had been laid down. With a rectangular plan, and with
@@ -957,7 +957,7 @@ calculation to determine that the temples had been definitely planned
 with relation to the rising or setting of the sun or of a particular
 star. Having been successful in these investigations they proceeded to
 apply the test to Stonehenge. The experiment was made on the longest day
-in the year 1901. Owing to a gradual change in the obliquity of the
+in the year 1901. Owing to a [[Gradual|gradual]] change in the obliquity of the
 earth's orbit, the point of sunrise on corresponding days of each year
 is not constant; and though the difference is hardly perceptible from
 year to year, in the course of centuries it becomes great enough for use
@@ -981,8 +981,8 @@ metal.
 
 There is reason to believe that the transition from the use of stone to
 that of bronze was not due to the peaceful advance of civilization, but
-rather to the irruption of an Aryan race from the south-east of Europe
-into the countries to the west and north. Of these people the Celts are
+rather to the irruption of an [[Aryan]] race from the south-east of Europe
+into the countries to the west and north. Of these people the [[Celt|Celts]] are
 to some extent the representatives at a somewhat more recent period.
 Here, however, we are dealing with terms the precise meaning of which is
 not yet generally admitted, and which, moreover, have too intimate a
@@ -1008,7 +1008,7 @@ implements, and freely using bone, jet, and at times amber, while gold
 was well known and evidently greatly esteemed. In the early centuries of
 the Bronze Age, swords, spears and shields were apparently quite
 unknown, the principal metallic products being flat axes, simple knives
-or daggers, and small tools or ornaments. In the burial places the
+or [[Dagger|daggers]], and small tools or ornaments. In the burial places the
 bodies, if unburnt, are nearly always found in a crouching position, as
 if in the attitude of sleep; if cremated, the burnt bones are generally
 enshrined in an urn under the tumulus, the burial being sometimes in a
@@ -1024,16 +1024,16 @@ be the case. A common kind of decoration is produced by impressing
 twisted cords in the damp clay, and this is believed with some reason to
 have had its origin in the practice of winding cords round the unbaked
 vessel to prevent distortion before or during the process of firing.
-That operation would of course burn away the cord and leave only its
+That operation would of course [[Burn|burn]] away the cord and leave only its
 impression on the urn. Other forms of ornament are also used, incised
 lines in rudely geometrical designs, impressions of the end of a stick,
-and at times rows of hollows produced by the finger or thumb. The method
+and at times rows of hollows produced by the [[Finger|finger]] or thumb. The method
 of the burial, beyond giving an insight into the art of the period, also
-helps us to realize to some extent the ideas of primitive man. The
+[[Helps|helps]] us to realize to some extent the ideas of primitive man. The
 underlying reason for careful and ceremonial burial is not always
 readily understood, apart from a knowledge of the ritual, such as
 existed in ancient Egypt. But in the Bronze Age in Britain it was the
-custom to bury with the dead not only carefully made vessels which
+custom to [[Bury|bury]] with the dead not only carefully made vessels which
 doubtless contained food for the journey to the lower world, but also
 the ornaments and weapons of the deceased. Often the bonea of a pig have
 been found in the grave, doubtless representing part of the provender
@@ -1081,7 +1081,7 @@ time rendered possible the use of closed moulds.
 There are thus two problems in connexion with the history of the Bronze
 Age. How was the metal discovered? And by whom or where? As to the
 first, it must be remembered that in some parts of the world, e.g. in
-China and in Cornwall, copper and tin are found together, and it may
+China and in [[Cornwall]], copper and tin are found together, and it may
 well be that tin was first accidentally included as an impurity, which,
 had it been noticed, would have been eliminated. Once it was found to
 produce a more useful metal, the blend would be deliberately made, and
@@ -1125,7 +1125,7 @@ nothing but a natural draught. But Gowland holds that even with these
 singularly inadequate appliances, copper could be smelted from the
 surface ores, though the output would naturally be of the most uncertain
 and intermittent character, depending, as it must have done, on the
-wind. And until the discovery of bellows or some other method of
+wind. And until the discovery of [[Bellows|bellows]] or some other method of
 increasing the draught of air, no progress could be made in this
 direction. With regard to the resulting metal, viz. copper, we have
 certain knowledge. From time to time there are found in the earth in
@@ -1135,7 +1135,7 @@ failures in castings. These hoards are assumed to have been gathered
 together by the bronze founders to be recast into perfect and useful
 implements. Now, frequently associated with these hoards are portions of
 cakes of pure copper, originally circular in shape, flat on one face and
-convex on the other, like a lens with one flat face. The form of these
+[[Convex|convex]] on the other, like a lens with one flat face. The form of these
 cakes is in itself a fair proof of the prevalence of the method of
 smelting described above, as it is quite clear that the convex face of
 the cake followed the contour of the hole in the ground above which the
@@ -1156,7 +1156,7 @@ of the finder. Not only have we this conclusive evidence of the methods
 by which Bronze Age man produced his raw material, but the discovery of
 crucibles and moulds takes us a step further towards the finished
 implements. The crucibles are generally simple bowls of thick clay with
-an extension of the lip at one side to pour out the molten metal.
+an extension of the [[Lip|lip]] at one side to pour out the molten metal.
 Several of these, with plentiful traces of metal still remaining in
 them, were found by the brothers Siret in the Bronze Age settlement at
 El Argar in Murcia. In the same place also were found moulds of stone
@@ -1188,7 +1188,7 @@ Isles and elsewhere. Among the continental races it is natural to find
 intercommunication more common, owing to the absence of natural
 barriers. The weapons of the Bronze Age were swords, spears, daggers and
 axes (celts), though the last would be equally well adapted for more
-peaceful purposes. The swords were usually of a narrow leaf shape, cast
+peaceful purposes. The swords were usually of a narrow [[Leaf|leaf]] shape, cast
 with the handle in one piece, the mounting of the grip and the pommel
 being added. For perfection of workmanship the weapons of this period
 have never been surpassed, and the skill of adjustment in the moulds,
@@ -1248,7 +1248,7 @@ to us.
   SEPULCHRAL POTTERY FROM THE CONTINENT OF EUROPE (NEOLITHIC, BRONZE,
   AND IRON AGES).
 
-  STAGES IN THE EVOLUTION OF THE CELT OR IMPLEMENT OF CHISEL FORM.
+  STAGES IN THE EVOLUTION OF THE CELT OR IMPLEMENT OF [[Chisel|CHISEL]] FORM.
 
   (1) From stone to metallic form.
   (2) Growth of the stop ridge to palstave.
@@ -1259,15 +1259,15 @@ to us.
 [Illustration: PLATE VI.
 
   1. Bronze shield with red enamel ornaments, found in the Thames near
-  Battersea; about 31 in. long.
+  [[Battersea]]; about 31 in. long.
 
-  Chariot burial of a Gaulish chief, Somme Bionne, Marne, France.
+  Chariot burial of a Gaulish chief, Somme Bionne, [[Marne]], France.
 
   Bronze mounted wooden bucket found in a pit burial at Aylesford.
 
   Early Iron Age.
 
-  Horned bronze helmet with traces of enamel ornament, found in the
+  Horned bronze [[Helmet|helmet]] with traces of enamel ornament, found in the
   Thames near Waterloo Bridge.
 
   The objects here represented are all in the British Museum.
@@ -1374,7 +1374,7 @@ Age to the end of the Bronze Age, with houses and tombs, besides the
 fortifications rendered necessary, in the later period, by their
 possession of the rare and precious metal, silver. Rare it certainly
 was, for the quantity found was exceedingly small, tiny slender rings
-for the fingers or the ears, and rivets to hold the axe-blade in its
+for the fingers or the [[Ear|ears]], and rivets to hold the axe-blade in its
 handle; but nothing to compare with the lavish richness of the American
 mines. The interesting race who occupied these dwellings and finally
 were laid to rest in the adjoining graves were evidently connected more
@@ -1383,8 +1383,8 @@ Mediterranean.
 
 Recent discoveries in the central Mediterranean area not only furnish
 new and trustworthy (though none the less surprising) dates in ancient
-history, but may also bridge the distance between the Levant and the
-Pillars of Hercules. The results achieved by Arthur Evans and other
+history, but may also bridge the distance between the [[Levant]] and the
+Pillars of [[Hercules]]. The results achieved by Arthur Evans and other
 distinguished explorers in Crete (q.v.) opened a new chapter in the
 history of European civilization, and may fitly be compared with the
 excavation of Troy, Mycenae and Tiryns by Schliemann some thirty years
@@ -1418,11 +1418,11 @@ earth, without a human parentage, and almost without leaving any
 descendants. The evolutionary methods of other branches of science,
 however, were by degrees brought to bear upon the sacred precincts of
 pure Greek art. It was found that the crude products of the second
-millennium B.C., the formless images evolved by the uncultured dwellers
+millennium B.C., the formless [[Image|images]] evolved by the uncultured dwellers
 in the Mediterranean area more than a thousand years before the time of
 Pheidias, were in truth the prototypes of the creations of himself and
 his contemporaries. This step being taken, the rest became easy. The
-most commonplace and ordinary relics were collected with as much avidity
+most [[Commonplace|commonplace]] and ordinary relics were collected with as much avidity
 as they had formerly been rejected, in the belief that their simple
 forms would aid in the elucidation of their more complex and highly
 elaborated descendants. This minute attention, moreover, was not only
@@ -1440,7 +1440,7 @@ found with a preponderance of tall, long-headed skeletons in a district
 where the prevailing type of skeleton is short and brachycephalic
 (short-headed), the observer may reasonably expect a different kind of
 burial-furniture, and suspect an intruding race. In this particular
-respect, archaeology owes a signal debt to physical anthropology and to
+respect, archaeology owes a signal [[Debt|debt]] to physical anthropology and to
 anthropological methods in general. The combination of the two is far
 more likely to lead to a reasonable and satisfactory conclusion than
 would be possible if the one branch of science had been pursued alone.
@@ -1474,13 +1474,13 @@ British Museum, his intention being that the one should elucidate the
 ether. (It is only fair to his memory, however, to state here that, by
 his express wish, the most important of the relics that he had obtained
 from the Dordogne caves were returned to France where they now are. Such
-instances of international courtesy are rare enough to deserve mention.)
+instances of [[International|international]] [[Courtesy|courtesy]] are rare enough to deserve mention.)
 The value and interest of such a series can scarcely be over-rated.
 Almost till the 20th century, the Indians of North America, the
 Australian and Tasmanian natives, as well as those of New Zealand and
 the many archipelagoes of the Pacific, were, if not ignorant of the use
 of metals, at least habitually using stone where civilized man would use
-metal. The Maori made his war club of jade and the pounders for
+metal. The Maori made his war club of [[Jade|jade]] and the pounders for
 preparing his food of stone. The Australian had his stone axe-blade; and
 low as he stands in the culture scale, his spear-heads are chipped with
 an exquisite precision. The Papuan of inland New Guinea is still making
@@ -1541,12 +1541,12 @@ valuable additions being made to the available data.
 
   BIBLIOGRAPHY.--The most useful general works are the
   following:--Salomon Reinach, _Epoque des alluvions et des cavernes_
-  (Musee de St Germain); Hoernes, _Der diluviale Mensch in Europa;_ Sir
+  (Musee de St Germain); Hoernes, _Der diluviale Mensch in [[Europa]];_ Sir
   John Evans, _Stone Implements of Great Britain_, and _Bronze
   Implements of Great Britain;_ Boyd Dawkins, _Cave-hunting_, and _Early
   Man in Britain;_ Greenwell, _British Barrows;_ W.G. Smith, _Man the
-  Primeval Savage;_ James Geikie, _Prehistoric Europe;_ Mortillet, _Le
-  Prehistorique;_ Robert Munro, _Lake Dwellings of Europe;_ Ridgeway,
+  Primeval Savage;_ James [[Geikie]], _Prehistoric Europe;_ Mortillet, _Le
+  Prehistorique;_ Robert Munro, _[[Lake Dwellings]] of Europe;_ Ridgeway,
   _Early Age of Greece;_ Jos. Anderson, _Scotland in Pagan Times;_ the
   works of Oscar Montelius and Sophus Muller; _L'Anthropologie,
   Materiaux pour l'histoire primitive de l'homme;_ Christy and Lartet,
@@ -1559,16 +1559,16 @@ valuable additions being made to the available data.
 
 
 ARCHAEOPTERYX. The name of _Archaeopteryx lithographica_ was based by
-Hermann von Meyer upon a feather (Gr. [Greek: pteryx], wing) found in
+[[Hermann]] von Meyer upon a [[Feather|feather]] (Gr. [Greek: pteryx], wing) found in
 1861 in the lithographic slate quarries of Solenhofen in Bavaria, the
-geological horizon being that of the Kimmeridge clay of the Upper Oolite
-or Jurassic system. In the same year and at the same place was
+geological [[Horizon|horizon]] being that of the Kimmeridge clay of the Upper Oolite
+or [[Jurassic]] system. In the same year and at the same place was
 discovered the specimen (figs. 1 and 3) now in the British Museum,
 named by Andreas Wagner _Griphosaurus._ Sir R. Owen has described it as
 _A. macroura._ Stimulated by the high price paid by the British Museum,
 the quarry owners diligently searched, and in 1872 another, much finer,
 preserved specimen was found. This was bought by K.W. v. Siemens, who
-presented it to the Berlin Museum. The late W. Dames has written an
+presented it to the Berlin Museum. The late W. [[Dame|Dames]] has written an
 excellent monograph on it.
 
 [Illustration: FIG. 1.--The British Museum specimen.]
@@ -1602,10 +1602,10 @@ anything is known of the sternum, and little of the shoulder-girdle,
 except the very stout furcula; scapula typically bird-like. Humerus
 about 2-1/2 in. long, with a strong crista lateralis, which indicates a
 strongly developed great pectoral muscle and hence, by inference, the
-presence of a keel to the sternum. Radius and ulna typically avine, 2.1
+presence of a [[Keel|keel]] to the sternum. Radius and ulna typically avine, 2.1
 in. in length. Carpus with two separate bones. The hand skeleton
 consists of 3 completely separate metacarpals, each carrying a complete,
-likewise free, finger; the shortened thumb with 2, the index with 3, the
+likewise free, finger; the shortened thumb with 2, the [[Index|index]] with 3, the
 third with 4 phalanges; each finger with a curved claw. The whole wing
 is consequently, although essentially avine, still reptilian in the
 unfused state of the metacarpals and the numbers of the phalanges. The
@@ -1626,10 +1626,10 @@ in. in length. Six or seven remiges were attached to the hand, ten to
 the ulna.
 
 It is idle to speculate on the habits of this earliest of known birds.
-That it could fly is certain, and the feet show it to have been well
+That it could [[Fly|fly]] is certain, and the feet show it to have been well
 adapted to arboreal life. The clawed slender fingers did not make
 _Archaeopteryx_ any more quadrupedal or bat-like in its habits than is a
-kestrel hawk, with its equally large, or even larger thumb-claw.
+[[Kestrel|kestrel]] [[Hawk|hawk]], with its equally large, or even larger thumb-claw.
 
   BIBLIOGRAPHY.--H. v. Meyer, _Neues Jahrb.f. Mineralog._ (1861), p.
   679; Sir R. Owen, "On the Archaeopteryx von Meyer..." _Phil. Trans._,

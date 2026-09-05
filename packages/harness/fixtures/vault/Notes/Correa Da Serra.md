@@ -9,7 +9,7 @@ topic: ethnography
 CORREA DA SERRA, JOSÉ FRANCISCO (1750-1823), Portuguese politician and
 man of science, was born at Serpa, in Alemtejo, in 1750. Educated at
 Rome, he took orders under the protection of the duke of Alafoès, uncle
-of Mary I. of Portugal. In 1777 he returned to Lisbon, where he resided
+of Mary I. of Portugal. In 1777 he returned to [[Lisbon]], where he resided
 with his patron, with whose assistance he founded the Portuguese Academy
 of Sciences. Of this institution he was named perpetual secretary, and
 he received the privilege of publishing its transactions without
@@ -19,7 +19,7 @@ France, and remained there till the death of Pedro III., when he again
 took up his residence with Alafoès. But having given a lodging in the
 palace to a French Girondist, he was forced to flee to England, where he
 found a protector in Sir Joseph Banks, and became a member of the Royal
-Society. In 1797 he was appointed secretary to the Portuguese embassy,
+Society. In 1797 he was appointed secretary to the Portuguese [[Embassy|embassy]],
 but a quarrel with the ambassador drove him once more to Paris (1802),
 and in that city he resided till 1813, when he crossed over to New York.
 In 1816 he was made Portuguese minister-plenipotentiary at Washington,

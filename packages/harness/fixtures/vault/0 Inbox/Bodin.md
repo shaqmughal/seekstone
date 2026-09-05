@@ -1,8 +1,8 @@
 # Bodin
 
 BODIN, JEAN (1530-1596), French political philosopher, was born at
-Angers in 1530. Having studied law at Toulouse and lectured there on
-jurisprudence, he settled in Paris as an advocate, but soon applied
+[[Angers]] in 1530. Having studied law at Toulouse and lectured there on
+[[Jurisprudence|jurisprudence]], he settled in Paris as an advocate, but soon applied
 himself to literature. In 1555 he published his first work, a
 translation of Oppian's _Cynegeticon_ into Latin verse, with a
 commentary. The celebrated scholar, Turnebus, complained that some of
@@ -29,7 +29,7 @@ favor of Henry III. and of his brother, the duc d'Alencon; and he was
 appointed king's attorney at Laon in 1576. In this year he married,
 performed his most brilliant service to his country, and completed his
 greatest literary work. Elected by the _tiers etat_ of Vermandois to
-represent it in the states-general of Blois, he contended with skill and
+represent it in the states-general of [[Blois]], he contended with skill and
 boldness in extremely difficult circumstances for freedom of conscience,
 justice and peace. The nobility and clergy favoured the League, and
 urged the king to force his subjects to profess the Catholic religion.
@@ -38,7 +38,7 @@ contrived to get inserted in the petition drawn up by the states the
 clause "without war," which practically rendered nugatory all its other
 clauses. While he thus resisted the clergy and nobility he successfully
 opposed the demand of the king to be allowed to alienate the public
-lands and royal demesnes, although the chief deputies had been won over
+lands and royal [[Demesne|demesnes]], although the chief deputies had been won over
 to assent. This lost him the favour of the king, who wanted money on any
 terms. In 1581 he acted as secretary to the duc d'Alencon when that
 prince came over to England to seek the hand of Queen Elizabeth. Here he
@@ -59,14 +59,14 @@ as an atheist, he denounced all who dared to disbelieve in sorcery, and
 urged the burning of witches and wizards. It might, perhaps, have gone
 hard with him if his counsel had been strictly followed, as he confessed
 to have had from his thirty-seventh year a friendly demon, who, if
-properly invoked, touched his right ear when he purposed doing what was
+properly invoked, touched his right [[Ear|ear]] when he purposed doing what was
 wrong, and his left when he meditated doing good.
 
 His chief work, the _Six livres de la Republique_ (Paris, 1576), which
 passed through several editions in his lifetime, that of 1583 having as
 an appendix _L'Apologie de Rene Herpin_ (Bodin himself), was the first
 modern attempt to construct an elaborate system of political science. It
-is perhaps the most important work of its kind between Aristotle and
+is perhaps the most important work of its kind between [[Aristotle]] and
 modern writers. Though he was much indebted to Aristotle he used the
 material to advantage, adding much from his own experience and
 historical knowledge. In harmony with the conditions of his age, he
@@ -110,9 +110,9 @@ Christianity, subsequently described it as a most valuable production
   _Reformateurs et publicistes de l'Europe_ (Paris, 1864); N.
   Planchenault, _Etudes sur Jean Bodin_ (Angers, 1858); E. de
   Barthelemy, _Etude sur J. Bodin_ (Paris, 1876); for the political
-  philosophy of Bodin, see P. Janet, _Hist. de la science polit._ (3rd
+  philosophy of Bodin, see P. [[Janet]], _Hist. de la science polit._ (3rd
   ed., Paris, 1887); Hancke, _B. Studien uber d. Begriff d.
-  Souveranitat_ (Breslau, 1894), A. Bardoux. _Les Legistes et leur
+  Souveranitat_ (Breslau, 1894), A. [[Bardoux]]. _Les Legistes et leur
   influence sur la soc. francaise_; Fournol, _Bodin predecesseur de
   Montesquieu_ (Paris, 1896); for his political economy, J.K. Ingram,
   _Hist. of Pol. Econ._ (London, 1888); for his ethical teaching, A.

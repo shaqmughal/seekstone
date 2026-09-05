@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Huesca"
 # Huesca
 
 HUESCA, a frontier province of northern Spain, formed in 1833 of
-districts previously belonging to Aragon; and bounded on the N. by
+districts previously belonging to [[Aragon]]; and bounded on the N. by
 France, E. and S.E. by Lerida, S.W. and W. by Saragossa, and N.W. by
 Navarre. Pop. (1900) 244,867; area 5848 sq. m. The entire northern half
 of Huesca belongs to the mountain system of the Pyrenees, which here
@@ -32,18 +32,18 @@ Agriculture, the leading industry of Huesca, is facilitated by a fairly
 complete system of irrigation, by means of which much waste land has
 been reclaimed, although large tracts remain barren. There is good
 summer pasturage on the mountains, where cattle, sheep and swine are
-reared. The mountains are richly clothed with forests of pine, beech,
+reared. The mountains are richly clothed with forests of pine, [[Beech|beech]],
 oak and fir; and the southern regions, wherever cultivation is possible,
 produce abundant crops of wheat and other cereals, vines, mulberries and
 numerous other fruits and vegetables. The mineral resources include
-argentiferous lead, copper, iron and cobalt, with salt, lignite,
-limestone, millstone, gypsum, granite and slate. None of these, however,
+argentiferous lead, copper, iron and [[Cobalt|cobalt]], with salt, lignite,
+[[Limestone|limestone]], millstone, [[Gypsum|gypsum]], granite and slate. None of these, however,
 occurs in large quantities; and in 1903 only salt, lignite and
 fluor-spar were worked, while the total output was worth less than
 L1500. Mineral springs are numerous, and the mining industry was
 formerly much more important; but the difficulties of transport hinder
 the development of this and other resources. Trade is most active with
-France, whither are sent timber, millstones, cattle, leather, brandy and
+France, whither are sent timber, millstones, cattle, leather, [[Brandy|brandy]] and
 wine. Between 1882 and 1892 the wine trade throve greatly, owing to the
 demand for common red wines, suitable for blending with finer French
 vintages; but the exports subsequently declined, owing to the protective
@@ -66,7 +66,7 @@ of Aragon, with a fine 12th century parish church and a ruined Moorish
 citadel. Monzon, long celebrated as the meeting-place of the Aragonese
 and Catalonian parliaments, is a town on the lower Cinca, with the ruins
 of a Roman fortification, and of a 12th century castle, which was owned
-by the Knights Templar. (See also Aragon.)
+by the [[Knight|Knights]] Templar. (See also Aragon.)
 
 ## References
 

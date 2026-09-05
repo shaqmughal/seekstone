@@ -8,23 +8,23 @@ topic: sculpture-theory
 
 E. N. S. - E. N. STOCKLEY.
 Captain, Royal Engineers. Instructor in Construction at the School of
-Military Engineering, Chatham. For some time in charge of the Barracks
+Military [[Engineering]], [[Chatham]]. For some time in charge of the [[Barracks]]
 Design Branch of the War Office.
 
 - Barracks.
 
-E. Pr. - EDGAR PRESTAGE.
+E. Pr. - [[Edgar|EDGAR]] PRESTAGE.
 Special Lecturer in Portuguese Literature in the University of Manchester.
-Commendador, Portuguese Order of S. Thiago. Corresponding Member of Lisbon
+Commendador, Portuguese Order of S. Thiago. Corresponding Member of [[Lisbon]]
 Royal Academy of Sciences and Lisbon Geographical Society.
 
-- Azurara; Barros.
+- [[Azurara]]; [[Barros]].
 
 E. Tn. - REV. ETHELRED LEONARD TAUNTON (d. 1907).
-Author of _The English Black Monks of St Benedict_; _History of the Jesuits
+Author of _The English Black Monks of St Benedict_; _History of the [[Jesuits]]
 in England_.
 
-- Baronius.
+- [[Baronius]].
 
 ## See also
 

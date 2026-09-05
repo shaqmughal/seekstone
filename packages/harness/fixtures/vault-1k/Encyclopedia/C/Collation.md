@@ -14,8 +14,8 @@ comparison, and thus, particularly, the critical examination of the
 texts of documents or MSS. and the result of such comparison. The word
 is also a term in printing and bookbinding for the register of the
 "signatures," the number of quires and leaves in each quire of a book or
-MS. In Roman and Scots law "collation" answers to the English law term
-"hotch-pot" (q.v.). From another meaning of the Latin word, a
+MS. In Roman and Scots law "collation" answers to the [[English Law|English law]] term
+"[[Hotch-Pot|hotch-pot]]" (q.v.). From another meaning of the Latin word, a
 consultation or conference, and so a treatise or homily, comes the title
 of a work of Johannes Cassianus (q.v.), the _Conferences of the Fathers_
 (_Collationes Patrum_). Readings from this and similar works were
@@ -48,7 +48,7 @@ for popular song. In 1739 the Society of the Caveau, which numbered
 among its members Helvétius, Charles Duclos, Pierre Joseph Bernard,
 called Gentil-Bernard, Jean Philippe Rameau, Alexis Piron, and the two
 Crébillons, was dissolved, and was not reconstituted till twenty years
-afterwards. His first and his best comedy, _La Vérité dans le vin_,
+afterwards. His first and his best comedy, _La Vérité [[Dan|dans]] le vin_,
 appeared in 1747. Meanwhile, the Regent Orleans, who was an excellent
 comic actor, particularly in representations of low life, and had been
 looking out for an author to write suitable parts for him, made Collé

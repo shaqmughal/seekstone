@@ -23,7 +23,7 @@ daughter, Mme Feuquières, kneeling before her father's bust" (which bust
 was from the hand of Coysevox) were subjected to the violence by which
 Bouchardon's equestrian monument of Louis XIV. (q.v.) was destroyed. The
 panels only have been preserved. In his busts evidence of his riotous
-and florid imagination to a great extent disappears, and we have a
+and florid [[Imagination|imagination]] to a great extent disappears, and we have a
 remarkable series of important portraits, of which those of women are
 perhaps the best. Among Lemoyne's leading achievements in this class are
 "Fontenelle" (at Versailles), "Voltaire," "Latour" (all of 1748), "Duc

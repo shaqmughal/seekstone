@@ -6,9 +6,9 @@ topic: thermodynamics-studies
 
 # Burghley
 
-BURGHLEY, WILLIAM CECIL, BARON (1521-1508), was born, according to his own
+BURGHLEY, WILLIAM [[Cecil|CECIL]], BARON (1521-1508), was born, according to his own
 statement, on the 13th of September 1521 at the house of his mother's
-father at Bourne, Lincolnshire. Pedigrees, elaborated by Cecil himself with
+father at [[Bourne]], Lincolnshire. Pedigrees, elaborated by Cecil himself with
 the help of Camden, the antiquary, associated him with the Cecils or
 Sitsyllts of Altyrennes in Herefordshire, and traced his descent from an
 Owen of the time of King Harold and a Sitsyllt of the reign of Rufus. The
@@ -22,7 +22,7 @@ the peace for Rutland. His eldest son, Richard, yeoman of the wardrobe (d.
 1554), married Jane, daughter of William Heckington of Bourne, and was
 father of three daughters and Lord Burghley.
 
-William, the only son, was put to school first at Grantham and then at
+William, the only son, was put to school first at [[Grantham]] and then at
 Stamford. In May 1535, at the age of fourteen, he went up to St John's
 College, Cambridge, where he was brought into contact with the foremost
 educationists of the time, Roger Ascham and John Cheke, and acquired an
@@ -61,13 +61,13 @@ the value of a thousand marks. However, he soon ingratiated himself with
 Warwick, and on the 15th of September 1550 he was sworn one of the king's
 two secretaries. He was knighted on the 11th of October 1551, on the eve of
 Somerset's second fall, and was congratulated on his success in escaping
-his benefactor's fate. In April he became chancellor of the order of the
+his benefactor's [[Fate|fate]]. In April he became chancellor of the order of the
 Garter. But service under Northumberland was no bed of roses, and in his
 diary Cecil recorded his release in the phrase _ex misero aulico factus
 liber et mei juris_. His responsibility for Edward's illegal "devise" of
 the crown has been studiously minimized by Cecil himself and by his
 biographers. Years afterwards, he pretended that he had only signed the
-"devise" as a witness, but in his apology to Queen Mary he did not venture
+"devise" as a witness, but in his [[Apology|apology]] to Queen Mary he did not venture
 to allege so flimsy an excuse; he preferred to lay stress on the extent to
 which he succeeded in shifting the responsibility on to the shoulders of
 his brother-in-law, Sir John Cheke, and other friends, and on his intrigues
@@ -90,7 +90,7 @@ in the parliament of 1555--in which he represented Lincolnshire--a bill for
 the confiscation of the estates of the Protestant refugees. But the story,
 even as told by his biographer (Peck, _Desiderata Curiosa_, i. 11), does
 not represent Cecil's conduct as having been very courageous; and it is
-more to his credit that he found no seat in the parliament of 1558, for
+more to his [[Credit|credit]] that he found no seat in the parliament of 1558, for
 which Mary had directed the return of "discreet and good Catholic members."
 
 By that time Cecil had begun to trim his sails to a different breeze. He
@@ -108,7 +108,7 @@ above all things England required time. Like Fabius, he restored the
 fortunes of his country by deliberation. He averted open rupture until
 England was strong enough to stand the shock. There was nothing heroic
 about Cecil or his policy; it involved a callous attitude towards
-struggling Protestants abroad. Huguenots and Dutch Were aided just enough
+struggling Protestants abroad. [[Huguenots]] and Dutch Were aided just enough
 to keep them going in the struggles which warded danger off from England's
 shores. But Cecil never developed that passionate aversion from decided
 measures which became a second nature to his mistress. His intervention in
@@ -155,7 +155,7 @@ Winchester, who had been lord high treasurer under Edward, Mary and
 Elizabeth, died, and Burghley succeeded to his post. It was a signal
 triumph over Leicester; and, although Burghley had still to reckon with
 cabals in the council and at court, his hold over the queen strengthened
-with the lapse of years. Before he died, Robert, his only surviving son by
+with the [[Lapse|lapse]] of years. Before he died, Robert, his only surviving son by
 his second wife, was ready to step into his shoes as the queen's principal
 adviser. Having survived all his rivals, and all his children except Robert
 and the worthless Thomas, Burghley died at his London house on the 4th of
@@ -188,9 +188,9 @@ The sources and authorities for Burghley's life are endless. The most
 important collection of documents is at Hatfield, where there are some ten
 thousand papers covering the period down to Burghley's death; these have
 been calendared in 8 volumes by the Hist. MSS. Comm. At least as many
-others are in the Record Office and British Museum, the Lansdowne MSS.
+others are in the Record Office and British Museum, the [[Lansdowne]] MSS.
 especially containing a vast mass of his correspondence; see the catalogues
-of Cotton, Harleian, Royal, Sloane, Egerton and Additional MSS. in the
+of Cotton, Harleian, Royal, Sloane, [[Egerton]] and Additional MSS. in the
 British Museum, and the Calendars of Domestic, Foreign, Spanish, Venetian,
 Scottish and Irish State Papers.
 
@@ -199,7 +199,7 @@ i.-xxix.); Lords' and Commons' Journals, D'Ewes' Journals, Off. Ret.
 M.P.'s; Rymer's _Foedera_; Collins's _Sydney State Papers_; Nichols's
 _Progresses of Elizabeth_. See also Strype's Works (26 vols.), Parker, Soc.
 Publ. (56 vols.); Camden's _Annales_; Holinshed, Stow and Speed's _Chron._;
-Hayward's _Annals_; Machyn's _Diary_, Leycester Corr., Egerton Papers
+Hayward's _[[Annals]]_; Machyn's _Diary_, Leycester Corr., Egerton Papers
 (Camden Soc.). For Burghley's early life, see Cooper's _Athenae Cantab._;
 Baker's _St John's Coll., Camb._, ed.  Mayor; _Letters and. Papers of Henry
 VIII._; Tytler's _Edward VI._; Nichols's _Lit. Remains of Edward VI._;
@@ -207,7 +207,7 @@ Leadam's _Court of Requests, Chron. of Queen Jane_ (Camden Soc.) and
 throughout Froude's _Hist._ No satisfactory life of Burghley has yet
 appeared; some valuable anonymous notes, probably by Burghley's servant
 Francis Alford, were printed in Peck's _Desiderata Curiosa_ (1732), i.
-1-66; other notes are in Naunton's _Fragmenta Regalia_. Lives by Collins
+1-66; other notes are in Naunton's _Fragmenta Regalia_. Lives by [[Collins]]
 (1732), Charlton and Melvil (1738), were followed by Nares's biography in
 three of the most ponderous volumes (1828-1831) in the language; this
 provoked Macaulay's brilliant but misleading essay. M.A.S. Hume's _Great

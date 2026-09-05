@@ -1,7 +1,7 @@
 # Maurenbrecher
 
 MAURENBRECHER, KARL PETER WILHELM (1838-1892), German historian, was
-born at Bonn on the 21st of December, 1838, and studied in Berlin and
+born at [[Bonn]] on the 21st of December, 1838, and studied in Berlin and
 Munich under Ranke and Von Sybel, being especially influenced by the
 latter historian. After doing some research work at Simancas in Spain,
 he became professor of history at the university of Dorpat in 1867; and

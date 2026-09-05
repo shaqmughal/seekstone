@@ -8,8 +8,8 @@ id: 42-1965
 
 # Maryport
 
-MARYPORT, a market town and seaport in the Cockermouth parliamentary
-division of Cumberland, England, 25 m. W.S.W. of Carlisle, on the
+MARYPORT, a market town and seaport in the [[Cockermouth]] parliamentary
+division of [[Cumberland]], England, 25 m. W.S.W. of Carlisle, on the
 Maryport & Carlisle railway. Pop. of urban district (1901), 11,897. It
 is irregularly built on the shore of the Irish Sea and on the cliffs
 above, at the mouth of the river Ellen. Until 1750 there were only a few

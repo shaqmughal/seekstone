@@ -11,20 +11,20 @@ DECATUR, a city and the county-seat of Macon county, Illinois, U.S.A.,
 in the central part of the state, near the Sangamon river, about 39 m.
 E. of Springfield. Pop. (1890) 16,841; (1900) 20,754, of whom 1939 were
 foreign-born; (1910 census) 31,140. Decatur is served by the Cincinnati,
-Hamilton & Dayton, the Illinois Central, the Wabash (which maintains car
+Hamilton & Dayton, the Illinois Central, the Wabash (which maintains [[Car|car]]
 shops here), and the Vandalia railways, and is connected with Danville,
-Saint Louis, Springfield, Peoria, Bloomington and Champaign by the
+Saint Louis, Springfield, Peoria, [[Bloomington]] and [[Champaign]] by the
 Illinois Traction System (electric). Decatur has three large parks and a
 public library; and S.E. of Fairview Park, with a campus of 35 acres, is
-the James Millikin University (co-educational; Cumberland Presbyterian),
+the James Millikin University (co-educational; [[Cumberland]] Presbyterian),
 founded in 1901 by James Millikin, and opened in 1903. The university
-comprises schools of liberal arts, engineering (mechanical, electrical,
+comprises schools of liberal arts, [[Engineering|engineering]] (mechanical, electrical,
 and civil), domestic economy, fine and applied arts, commerce and
 finance, library science, pedagogy, music, and a preparatory school; in
 1907-1908 it had 936 students, 440 being in the school of music. Among
-the city's manufactures are iron, brass castings, agricultural
-implements, flour, Indian corn products, soda fountains, plumbers'
-supplies, coffins and caskets, bar and store fixtures, gas and electric
+the city's manufactures are iron, [[Brass|brass]] castings, agricultural
+[[Implement|implements]], flour, Indian [[Corn|corn]] products, soda [[Fountain|fountains]], plumbers'
+supplies, coffins and [[Casket|caskets]], bar and store [[Fixtures|fixtures]], gas and electric
 light fixtures, street cars, and car trucks. The value of the city's
 factory products increased from $5,133,677 in 1900 to $8,667,302 in
 1905, or 68.8%. The city is also an important shipping point for

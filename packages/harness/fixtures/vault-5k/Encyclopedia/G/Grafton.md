@@ -12,11 +12,11 @@ born about 1513. He received the freedom of the Grocers' Company in
 1535. Grafton was early brought into touch with the leaders of religious
 reform, and in 1537 he undertook, in conjunction with Edward Whitchurch,
 to produce a modified version of Coverdale's text, generally known as
-Matthew's Bible (Antwerp, 1537). He went to Paris to reprint Coverdale's
+Matthew's Bible ([[Antwerp]], 1537). He went to Paris to reprint Coverdale's
 revised edition (1538). There Whitchurch and he began to print the folio
 known as the Great Bible by special licence obtained by Henry VIII. from
 the French government. Suddenly, however, the work was officially
-stopped and the presses seized. Grafton fled, but Thomas Cromwell
+stopped and the presses seized. Grafton fled, but Thomas [[Cromwell]]
 eventually bought the presses and type, and the printing was completed
 in England. The Great Bible was reprinted several times under his
 direction, the last occasion being 1553. In 1544 Grafton and Whitchurch
@@ -43,7 +43,7 @@ but in some cases he gives detailed accounts of contemporary events. His
 name frequently appears in the records of St Bartholomew's and Christ's
 hospitals, and in 1553 he was treasurer-general of the hospitals of King
 Edward's foundation. In 1553-1554 and 1556-1557 he represented the City
-in Parliament, and in 1562-1563 he sat for Coventry.
+in Parliament, and in 1562-1563 he sat for [[Coventry]].
 
   An elaborate account of Grafton was written in 1901 by Mr J. A.
   Kingdon under the auspices of the Grocers' Company, with the title

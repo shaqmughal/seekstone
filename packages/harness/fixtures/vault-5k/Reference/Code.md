@@ -18,7 +18,7 @@ In jurisprudence the question of the reduction of laws to written codes,
 representing a complete and readily accessible system, is a matter of
 great historical and practical interest. Many collections of laws,
 however, which are commonly known as codes,[1] would not correspond to
-the definition given above. The Code of Justinian (see JUSTINIAN I.;
+the [[Definition|definition]] given above. The Code of Justinian (see JUSTINIAN I.;
 ROMAN LAW), the most celebrated of all, is not in itself a complete and
 exclusive system of law. It is a collection of imperial constitutions,
 just as the Pandects are a collection of the opinions of jurisconsults.
@@ -35,12 +35,12 @@ The same causes which made collections of laws necessary in the time of
 Justinian have led to similar undertakings among modern peoples. The
 actual condition of laws until the period when they are consciously
 remodelled is one of confusion, contradiction, repetition and disorder;
-and to these evils the progress of society adds the burden of
+and to these evils the progress of society adds the [[Burden|burden]] of
 perpetually increasing legislation. Some attempt must be made to
 simplify the task of learning the laws by improving their expression and
 arrangement. This is by no means an easy task in any country, but in
 England it is surrounded with peculiar difficulties. The independent
-character of English law has prevented an attempt to do what has already
+character of [[English Law|English law]] has prevented an attempt to do what has already
 been done for other systems which have the basis of the Roman law to
 fall back upon.
 
@@ -63,7 +63,7 @@ of A. Duranton, R. T. Troplong and J. C. F. Demolombe. The remaining
 French codes are the _Code de procédure civile_, the _Code de commerce_,
 the _Code d'instruction criminelle_ and the _Code pénal_. The merits of
 the French code have entered into the discussion on the general question
-of codification. Austin agrees with Savigny in condemning the ignorance
+of codification. Austin agrees with Savigny in condemning the [[Ignorance|ignorance]]
 and haste with which it was compiled. "It contains," says Austin, "no
 definitions of technical terms (even the most leading), no exposition of
 the _rationale_ of distinctions (even the most leading), no exposition
@@ -106,8 +106,8 @@ that it should be provided for by new legislation." The New York code
 was defective in the important points of definition and arrangement. It
 formed the basis, however, of the present codes of civil and criminal
 procedure in the state of New York. Much interest has attached to the
-Penal Code drawn up by Edward Livingston (q.v.) for the state of
-Louisiana. The system consists of a Code of Crime and Punishments, a
+Penal Code drawn up by Edward [[Livingston]] (q.v.) for the state of
+[[Louisiana]]. The system consists of a Code of Crime and Punishments, a
 Code of Procedure, a Code of Evidence, a Code of Reform and Prison
 Discipline, and a Book of Definitions. "Though the state for which the
 codes were prepared," said Chief Justice Chase, "neglected to avail
@@ -118,13 +118,13 @@ other states in the United States have codes stating the law of pleading
 in civil actions, and such states are often described as code states to
 distinguish them from those adhering to the older forms of action,
 divided between those at law and those at equity. A few states have
-general codes of political and civil rights. The general drift of
+general codes of political and civil rights. The general [[Drift|drift]] of
 legislation and of public sentiment in the United States is towards the
 extension of the principle of codification, but the contrary view has
-been ably maintained (see J. C. Carter, _Provinces of the Written and
+been ably maintained (see J. C. [[Carter]], _Provinces of the Written and
 the Unwritten Law_, New York, 1889).
 
-Since the time of Bentham, the codification of the law of England has
+Since the time of [[Bentham]], the codification of the law of England has
 been the dream of the most enlightened jurists and statesmen. In the
 interval between Bentham and our own time there has been an immense
 advance in the scientific study of law, but it may be doubted whether
@@ -165,7 +165,7 @@ consolidation. No lawyer pretends to know more than a fragment of it.
 Few practical questions can be answered by a lawyer without a search
 into numberless acts of parliament and reported cases. To laymen, of
 course, the whole law is a sealed book. As there are no authoritative
-general principles, it happens that the few legal maxims known to the
+general principles, it happens that the few legal [[Maxims|maxims]] known to the
 public, being apprehended out of relation to their authorities, are as
 often likely to be wrong as to be right. It is hopeless to think of
 making it possible for every man to be his own lawyer, but we can at
@@ -176,7 +176,7 @@ the judges. Bentham's bitter antipathy to judicial legislation is well
 known. Austin's thirty-ninth lecture (_Lectures_, ed. 1869) contains an
 exhaustive criticism of the tenable objections to judiciary law. All
 such law is embedded in decisions on particular cases, from which it
-must be extracted by a tedious and difficult process of induction. Being
+must be extracted by a tedious and difficult process of [[Induction|induction]]. Being
 created for particular cases it is necessarily uncomprehensive,
 imperfect, uncertain and bulky. These are evils which are incident to
 the nature of judiciary laws. The defective form of the existing statute
@@ -316,7 +316,7 @@ Revolution. The point in which their work is comparatively weak is the
 system of hypothec (q.v.), because they did not succeed in steering a
 middle course between two opposite systems, and the law of the 23rd of
 March 1855 (_sur la transcription en matière hypothécaire_) was
-necessary to make good the deficiency. A fault frequently found with the
+necessary to make good the deficiency. A [[Fault|fault]] frequently found with the
 Code Civil is that its general divisions show a lack of logic and
 method, but the division is practically that of the Institutes of
 Justinian, and is about as good as any other: persons, things,
@@ -341,7 +341,7 @@ extra-parliamentary commission was nominated to prepare a revision of
 it, and at once began the work.
 
 The influence of the Code Civil has been very great, not only in France
-but also abroad. Belgium has preserved it, and the Rhine provinces only
+but also abroad. [[Belgium]] has preserved it, and the Rhine provinces only
 ceased to be subject to it on the promulgation of the civil code of the
 German empire. Its ascendancy has been due chiefly to the clearness of
 its provisions, and to the spirit of equity and equality which inspires

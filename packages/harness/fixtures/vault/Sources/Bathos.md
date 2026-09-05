@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bathos"
 
 BATHOS (Gr. [Greek: bathos]), properly depth, the bottom or lowest part
 of anything. The current usage for an anticlimax, a descent "from the
-sublime to the ridiculous," from the elevated to the commonplace in
+sublime to the ridiculous," from the elevated to the [[Commonplace|commonplace]] in
 literature or speech, is due to Pope's satire on _Bathos_
 (_Miscellanies_, 1727-1728), "the art of sinking in poetry." The title
 was a travesty of Longinus's essay, _On the Sublime_, [Greek: Peri
@@ -19,7 +19,7 @@ hupsous].
 
 
 
-BATHS. In the ordinary acceptation of the word a bath is the immersion
+BATHS. In the ordinary acceptation of the word a bath is the [[Immersion|immersion]]
 of the body in a medium different from the ordinary one of atmospheric
 air, which medium is usually common water in some form. In another sense
 it includes the different media that may be used, and the various
@@ -28,11 +28,11 @@ arrangements by which they are applied.
 _Ancient Baths._--Bathing, as serving both for cleanliness and for
 pleasure, has been almost instinctively practised by nearly every
 people. The most ancient records mention bathing in the rivers Nile and
-Ganges. From an early period the Jews bathed in running water, used both
+[[Ganges]]. From an early period the Jews bathed in running water, used both
 hot and cold baths, and employed oils and ointments. So also did the
 Greeks; their earliest and commonest form of bathing was swimming in
 rivers, and bathing in them was practised by both sexes. Warm baths
-were, according to Homer, used after fatigue or exercise. The Athenians
+were, according to [[Homer]], used after fatigue or exercise. The Athenians
 appear for a long time to have had only private baths, but afterwards
 they had public ones: the latter seem to have originated among the
 Lacedaemonians, who invented the hot-air bath, at least the form of it
@@ -41,7 +41,7 @@ not so luxurious as those of some other nations, yet effeminate people
 were accused among them of using warm baths in excess; and the bath
 servants appear to have been rogues and thieves, as in later and larger
 establishments. The Persians must have had handsomely equipped baths,
-for Alexander the Great admired the luxury of the bath of Darius.
+for Alexander the Great admired the luxury of the bath of [[Darius]].
 
 But the baths of the Greeks, and probably of all Eastern nations, were
 on a small scale as compared with those which eventually sprang up among
@@ -49,28 +49,28 @@ the Romans. In early times the Romans used after exercise to throw
 themselves into the Tiber. Next, when ample supplies of water were
 brought into the city, large _piscinae_, or cold swimming baths, were
 constructed, the earliest of which appear to have been the _piscina
-publica_ (312 B.C.), near the Circus Maximus, supplied by the Appian
+publica_ (312 B.C.), near the [[Circus]] [[Maximus]], supplied by the [[Appian]]
 aqueduct, the _lavacrum_ of Agrippina, and a bath at the end of the
 Clivus Capitolinus. Next, small public as well as private baths were
 built; and with the empire more luxurious forms of bathing were
 introduced, and warm became far more popular than cold baths.
 
-Public baths (_balneae_) were first built in Rome after Clodius brought
+Public baths (_balneae_) were first built in Rome after [[Clodius]] brought
 in the supply of water from Praeneste, After that date baths began to be
 common both in Rome and in other Italian cities; and private baths,
 which gradually came into use, were attached to the villas of the
-wealthy citizens. Maecenas was one of the first who built public baths
+wealthy citizens. [[Maecenas]] was one of the first who built public baths
 at his own expense. After his time each emperor, as he wished to
 ingratiate himself with the people, lavished the revenues of the state
 in the construction of enormous buildings, which not only contained
 suites of bathing apartments, but included gymnasia, and sometimes even
 theatres and libraries. Such enormous establishments went by the name of
 _thermae_. The principal thermae were those of Agrippa 21 B.C., of Nero
-65 A.D., of Titus 81, of Domitian 95, of Commodus 185, of Caracalla 217,
-and still later those of Diocletian 302, and of Constantine. The
+65 A.D., of Titus 81, of [[Domitian]] 95, of Commodus 185, of [[Caracalla]] 217,
+and still later those of [[Diocletian]] 302, and of Constantine. The
 technical skill displayed by the Romans in rendering their walls and the
 sides of reservoirs impervious to moisture, in conveying and heating
-water, and in constructing flues for the conveyance of hot air through
+water, and in constructing flues for the [[Conveyance|conveyance]] of hot air through
 the walls, was of the highest order.
 
 The Roman baths contained swimming baths, warm baths, baths of hot air,
@@ -81,7 +81,7 @@ _apodyterium_ or _spoliatorium_, where the bathers undressed; (2) the
 _alipterium_ or _unctuarium_, where oils and ointments were kept
 (although the bathers often brought their own pomades), and where the
 _aliptae_, anointed the bathers; (3) the _frigidarium_, or cool room,
-_cella frigida_, in which usually was the cold bath, the _piscina_ or
+_[[Cella|cella]] frigida_, in which usually was the cold bath, the _piscina_ or
 _baptisterium_; (4) the _tepidarium_, a room moderately heated, in which
 the bathers rested for a time, but which was not meant for bathing; (5)
 the _calidarium_ or heating room, over the _hypocaustum_ or furnace;
@@ -94,13 +94,13 @@ laconicum was probably a separate chamber, a circular domical room with
 recesses in the sides, and a large opening in the top; but there is no
 well-preserved specimen, unless that at Pisa may be so regarded. In the
 drawing of baths from the thermae of Titus (fig. 1), the laconicum is
-represented as a small cupola rising in a corner of the calidarium. It
+represented as a small [[Cupola|cupola]] rising in a corner of the calidarium. It
 is known that the temperature of the laconicum was regulated by drawing
 up or down a metallic plate or _clypeus_. Some think that this clypeus
 was directly over the flames of the hypocaustum, and that when it was
 withdrawn, the flames must have sprung into the laconicum. Others, and
 apparently they have Vitruvius on their side, think that the clypeus was
-drawn up or down only from the aperture in the roof, and that it
+drawn up or down only from the [[Aperture|aperture]] in the roof, and that it
 regulated the temperature simply by giving more or less free exit to the
 hot air. If the laconicum was only one end of the calidarium, it is
 difficult to see how that end of the room was kept so much hotter than
@@ -109,7 +109,7 @@ from the laconicum must have caused smoke and soot, and have been very
 unpleasant. The most usual order in which the rooms were employed seems
 to have been the following, but there does not appear to have been any
 absolute uniformity of practice then, any more than in modern Egyptian
-and Turkish baths. Celsus recommends the bather first to sweat a little
+and Turkish baths. [[Celsus]] recommends the bather first to sweat a little
 in the tepidarium with his clothes on, to be anointed there, and then to
 pass into the calidarium; after he has sweated freely there he is not to
 descend into the solium or cold bath, but to have plenty of water poured
@@ -120,7 +120,7 @@ and anointed.
 
 The warmest of the heated rooms, i.e. the calidarium and laconicum, were
 heated directly from the hypocaustum, over which they were built or
-suspended (_suspensura_); while from the hypocaustum tubes of brass, or
+suspended (_suspensura_); while from the hypocaustum tubes of [[Brass|brass]], or
 lead, or pottery carried the hot air or vapour to the walls of the other
 rooms. The walls were usually hollow, so that the hot air could readily
 circulate.
@@ -133,7 +133,7 @@ receptacle for cold water, or the _frigidarium_, often a plastered
 reservoir. A constant communication was kept up between these vessels,
 so that as fast as hot water was drawn off from the calidarium a supply
 was obtained from the tepidarium, which, being already heated, but
-slightly reduced the temperature of the hotter boiler. The tepidarium,
+slightly reduced the temperature of the hotter [[Boiler|boiler]]. The tepidarium,
 again, was supplied from the frigidarium, and that from an aqueduct. In
 this way the heat which was not taken up by the first boiler passed on
 to the second, and instead of being wasted, helped to heat the second--a
@@ -206,14 +206,14 @@ four sides. A visit to the remains of the baths of Titus, of Diocletian,
 or of Caracalla impresses the mind strongly with a sense of the vast
 scale on which they were erected, and Ammianus's designation of them as
 provinces appears scarcely exaggerated. It is said that the baths of
-Caracalla contained 1600, and those of Diocletian 3200 marble seats for
+Caracalla contained 1600, and those of Diocletian 3200 [[Marble|marble]] seats for
 the use of the bathers. In the largest of the thermae there was a
-stadium for the games of the young men, with raised seats for the
-spectators. There were open colonnades and seats for philosophers and
+stadium for the [[Games|games]] of the young men, with raised seats for the
+spectators. There were open [[Colonnade|colonnades]] and seats for philosophers and
 literary men to sit and discourse or read their productions aloud or for
-others to discuss the latest news. Near the porticoes, in the interior
+others to [[Discus|discuss]] the latest news. Near the porticoes, in the interior
 open space, rows of trees were planted. There was a _sphaeristerium_ or
-place for playing ball, which was often over the apodyterium; but it
+place for playing [[Ball|ball]], which was often over the apodyterium; but it
 must be confessed that the purposes of many portions of these large
 edifices have not been made out in as satisfactory a way as those of
 smaller baths. A more definite idea of the thermae can be best got by an
@@ -249,14 +249,14 @@ lighter shading.
   these probably were the libraries and small theatres.
 
 The piscinae were often of immense size--that of Diocletian being 200
-ft. long--and were adorned with beautiful marbles. The halls were
+ft. long--and were adorned with beautiful [[Marbles|marbles]]. The halls were
 crowded with magnificent columns and were ornamented with the finest
 pieces of statuary. The walls, it has been said, were covered with
 exquisite mosaics that imitated the art of the painter in their elegance
 of design and variety of colour. The Egyptian syenite was encrusted with
 the precious green marbles of Numidia. The rooms contained the works of
 Phidias and Praxiteles. A perpetual stream of water was poured into
-capacious basins through the wide mouths of lions of bright and polished
+capacious basins through the wide mouths of lions of [[Bright|bright]] and polished
 silver, water issued from silver, and was received on silver. "To such a
 pitch of luxury have we reached," says Seneca, "that we are dissatisfied
 if we do not tread on gems in our baths."
@@ -268,7 +268,7 @@ by Orientals. The most important bath utensil was the strigillus, a
 curved instrument made of metal, with which the skin was scraped and all
 sordes removed.
 
-The bath servants assisted in anointing, in using the strigillus and in
+The bath servants assisted in [[Anointing|anointing]], in using the strigillus and in
 various other menial offices. The poorer classes had to use their
 strigils themselves. The various processes of the aliptae seem to have
 been carried on very systematically.
@@ -281,28 +281,28 @@ only one of the later emperors that had them lighted up at night. When
 the hot baths were ready (for, doubtless, the plunge baths were
 available at an earlier hour), a bell or _aes_ was rung for the
 information of the people. Among the Greeks and Romans the eighth hour,
-or 1 o'clock, before their dinner, was the commonest hour for bathing.
+or 1 o'clock, before their [[Dinner|dinner]], was the commonest hour for bathing.
 The bath was supposed to promote appetite, and some voluptuaries had one
 or more baths after dinner, to enable them to begin eating again; but
-such excesses, as Juvenal tells us, occasionally proved fatal. Some of
+such excesses, as [[Juvenal]] tells us, occasionally proved fatal. Some of
 the most effeminate of the emperors are said to have bathed seven or
 eight times in the course of the day. In early times there was delicacy
 of feeling about the sexes bathing together--even a father could not
 bathe with his sons; but latterly, under most of the emperors, men and
 women often used the same baths. There frequently were separate baths
-for the women, as we see at Pompeii or at Badenweiler; but although
+for the women, as we see at Pompeii or at [[Badenweiler]]; but although
 respectable matrons would not go to public baths, promiscuous bathing
 was common during the Empire.
 
 The public baths and thermae were under the more immediate
 superintendence of the aediles. The charge made at a public bath was
-only a quadrans or quarter of an as, about half a farthing. Yet cheap
+only a quadrans or quarter of an as, about half a [[Farthing|farthing]]. Yet cheap
 though this was, the emperors used to ingratiate themselves with the
 populace, by making the baths at times gratuitous.
 
 Wherever the Romans settled, they built public baths; and wherever they
 found hot springs or natural stufae, they made use of them, thus saving
-the expense of heating, as at the _myrteta_ of Baiae or the _Aquae
+the expense of heating, as at the _myrteta_ of Baiae or the _[[Aquae]]
 Sulis_ of Bath. In the cities there appear to have been private baths
 for hire, as well as the public baths; and every rich citizen had a set
 of baths attached to his villa, the fullest account of which is given in
@@ -314,7 +314,7 @@ later time bathing in the open sea became common), yet they chiefly
 practised warm bathing (_calida lavatio_). This is the most luxurious
 kind of bathing, and when indulged in to excess is enervating. The women
 were particularly fond of these baths, and were accused, at all events
-in some provincial cities, of drunkenness in them.
+in some provincial cities, of [[Drunkenness|drunkenness]] in them.
 
 The unbounded license of the public baths, and their connexion with
 modes of amusement that were condemned, led to their being to a
@@ -323,22 +323,22 @@ Fathers wrote that bathing might be practised for the sake of
 cleanliness or of health, but not of pleasure; and Gregory the Great saw
 no objection to baths being used on Sunday. About the 5th century many
 of the large thermae in Rome fell into decay. The cutting off of the
-aqueducts by the Huns, and the gradual decrease of the population,
+aqueducts by the Huns, and the [[Gradual|gradual]] decrease of the population,
 contributed to this. Still it is doubtful whether bathing was ever
 disused to the extent that is usually represented. It was certainly kept
 up in the East in full vigour at Alexandria and at Brusa. Hot bathing,
 and especially hot air and vapour baths, were adopted by the
-Mahommedans; and the Arabs brought them with them into Spain. The Turks,
+Mahommedans; and the [[Arabs]] brought them with them into Spain. The Turks,
 at a later time, carried them high up the Danube, and the Mahommedans
 spread or, it may be more correct to say, revived their use in Persia
 and in Hindustan. The Crusaders also contributed to the spread of baths
 in Europe, and hot vapour baths were specially recommended for the
-leprosy so prevalent in those days. After the commencement of the 13th
+[[Leprosy|leprosy]] so prevalent in those days. After the commencement of the 13th
 century there were few large cities in Europe without hot vapour baths.
 We have full accounts of their regulations--how the Jews were only
 allowed to visit them once a week, and how there were separate baths for
 lepers. In England they were called hothouses. Erasmus, at the date of
-the Reformation, spoke of them as common in France, Germany and Belgium;
+the Reformation, spoke of them as common in France, Germany and [[Belgium]];
 he gives a lively account of the mixture of all classes of people to be
 found in them, and would imply that they were a common adjunct to inns.
 They seem after a time to have become less common, though Montaigne
@@ -347,12 +347,12 @@ revival of baths was at the close of the 17th century, under the Eastern
 name of _Hummums_ or the Italian name of Bagnios. These were avowedly on
 the principle of the Turkish baths described below. But there were
 several considerable epochs in the history of baths, one in the
-commencement of the 18th century, when Floyer and others recalled
+commencement of the 18th century, when [[Floyer]] and others recalled
 attention to cold bathing, of which the virtues had long been
 overlooked. In the middle of the century also, Russell and others
 revived sea-bathing in England, and were followed by others on the
 continent, until the value of sea-bathing became fully appreciated.
-Later in the same century the experiments of James Currie on the action
+Later in the same century the experiments of James [[Currie]] on the action
 of complete or of partial baths on the system in disease attracted
 attention; and though forgotten for a while, they bore abundant fruit in
 more recent times.
@@ -363,7 +363,7 @@ Roman baths, because the principle of vapour baths has been known to
 many nations in a very early period of civilization. Thus the Mexicans
 and Indians were found using small vapour baths. The ancient inhabitants
 of Ireland and of Scotland had some notion of their use, and the large
-vapour baths of Japan, now so extensively employed, are probably of
+vapour baths of [[Japan]], now so extensively employed, are probably of
 independent origin.
 
 The following accounts of Turkish and Russian baths illustrate the
@@ -376,15 +376,15 @@ entering, if he has a watch or purse, gives them in charge to the keeper
 of the bath. The servant of the bath takes off his shoes and supplies
 him with a pair of wooden clogs. The first apartment has generally three
 or four _leewans_ (raised parts of the floor used as couches) cased with
-marble, and a fountain of cold water, which rises from an octagonal
-basement in the centre. One of the leewans, which is meant for the
-higher classes, is furnished with cushions or mats. In warm weather
+marble, and a [[Fountain|fountain]] of cold water, which rises from an octagonal
+[[Basement|basement]] in the centre. One of the leewans, which is meant for the
+higher classes, is furnished with cushions or [[Mat|mats]]. In warm weather
 bathers usually undress in this room; in winter they undress in an inner
 room, called the _beytowwal_ or first chamber, between which and the
 last apartment there is a passage often with two or three latrines off
 it. This is the first of the heated chambers. It generally has two
 raised seats. The bather receives a napkin in which to put his clothes
-and another to put round his waist--this reaches to the knees; a third,
+and another to put round his waist--this reaches to the [[Knee|knees]]; a third,
 if he requires it, is brought him to wind round his head, leaving the
 top of it bare; a fourth to put over his chest; and a fifth to cover his
 back. When the bather has undressed, the attendant opens to him the door
@@ -411,18 +411,18 @@ Those used by ladies are usually encased in thin embossed silver. The
 next operation is rubbing the bather's flesh with a small coarse woollen
 bag, after which the bather dips himself in one of the tanks. He is next
 taken to one of the chambers in the corner, and the operator lathers the
-bather with fibres of the palm tree, soap and water. The soap is then
+bather with [[Fibres|fibres]] of the palm tree, soap and water. The soap is then
 washed off with water, when the bather having finished washing, and
 enveloped himself in dry towels, returns to the beytowwal and reclines.
 Here he generally remains an hour to an hour and a half, sipping coffee
 and smoking, while an attendant rubs the soles of the feet and kneads
-the body and limbs. The bather then dresses and goes out."
+the body and limbs. The bather then [[Dress|dresses]] and goes out."
 
 The following description of a Russian bath is from Kohl's _Russia_
 (1842): "The passage from the door is divided into two behind the
 check-taker's post, one for the male, one for the female guests. We
 first enter an open space, in which a set of men are sitting in a state
-of nudity on benches, those who have already bathed dressing, while
+of nudity on [[Bench|benches]], those who have already bathed dressing, while
 those who are going to undergo the process take off their clothes. Round
 this space or apartment are the doors leading to the vapour-rooms. The
 bather is ushered into them, and finds himself in a room full of vapour,
@@ -445,7 +445,7 @@ once in the snow."
 Turkish baths have, with various modifications, become popular in
 Europe. The Russian baths were introduced into German towns about 1825.
 They had a certain limited amount of popularity, but did not take firm
-root. Another class practically owes its origin to Dr Barter and David
+root. Another class practically owes its origin to Dr [[Barter]] and David
 Urquhart. It professed to be founded on the Turkish bath, but in reality
 it was much more of a hot air bath, i.e. more devoid of vapour than
 either Roman or Turkish baths ever were, for it is doubtful whether in
@@ -468,12 +468,12 @@ Thus in the baths in Vienna, the process begins by immersion in a large
 basin of warm water. Sudation is repeatedly interrupted by cold douches
 at the will of the bathers, and after the bath they are satisfied with a
 short stay in the cooling-room, where they have only a simple sheet
-rolled round them. In Copenhagen and in Stockholm the Oriental baths
+rolled round them. In [[Copenhagen]] and in Stockholm the Oriental baths
 have been considerably modified by their association with hydropathic
 practices.
 
 This leads us to notice the introduction of the curiously misnamed
-system known as hydropathy (q.v.). Although cold baths were in vogue
+system known as [[Hydropathy|hydropathy]] (q.v.). Although cold baths were in vogue
 for a time in Rome, warm baths were always more popular. Floyer, as we
 have seen, did something to revive their use in England; but it was
 nearly a century and a half afterwards that a Silesian peasant,
@@ -504,7 +504,7 @@ temperature by the aid of hot water pipes or of steam. Separate baths
 used to be of wood, painted; they are now most frequently of metal,
 painted or lined with porcelain enamel. The swimming-baths are lined
 with cement, tiles or marble and porcelain slabs; and a good deal of
-ornamentation and painting of the walls and ceiling of the apartments,
+ornamentation and painting of the walls and [[Ceiling|ceiling]] of the apartments,
 in imitation of the ancients, has been attempted.
 
 We have thus traced in outline the history of baths through successive
@@ -521,13 +521,13 @@ and pulverized, and then worked up with water into a pasty consistence,
 of which the temperature can be regulated before the patient immerses
 himself in it.
 
-There are various terms that may be termed _chemical_, in which chlorine
+There are various terms that may be termed _chemical_, in which [[Chlorine|chlorine]]
 or hydrochloric acid is added to the water of the bath, or where fumes
 of sulphur are made to rise and envelop the body.
 
-Of _vegetable_ baths the number is very large. Lees of wine, in a state
+Of _vegetable_ baths the number is very large. [[Lee|Lees]] of wine, in a state
 of fermentation, have been employed. An immense variety of aromatic
-herbs have been used to impregnate water with. At one time fuci or
+[[Herb|herbs]] have been used to impregnate water with. At one time fuci or
 sea-weed were added to baths, under the idea of conveying into the
 system the iodine which they contain; but by far the most popular of all
 vegetable baths are those made with an extract got by distilling certain
@@ -558,7 +558,7 @@ _Douches_ were used by the ancients, and have always been an important
 mode of applying water to a circumscribed portion of the body. They are,
 in fact, spouts of water, varying in size and temperature, applied by a
 hose-pipe with more or less force for a longer or shorter time against
-particular parts. A douche exercises a certain amount of friction, and a
+particular parts. A douche exercises a certain amount of [[Friction|friction]], and a
 continued impulse on the spot to which it is applied, which stimulate
 the skin and the parts beneath it, quickening the capillary circulation.
 The effects of the douche are so powerful that it cannot be applied for
@@ -574,7 +574,7 @@ common.
 
 To all these modes of acting on the cutaneous surface and circulation
 must be added dry rubbing, as practised by the patient with the flesh
-glove, but much more thoroughly by the bath attendants, if properly
+[[Glove|glove]], but much more thoroughly by the bath attendants, if properly
 instructed (see also MASSAGE).
 
 _Action of Baths on the Human System._--The primary operation of baths
@@ -623,7 +623,7 @@ temperature of the skin and of the subjacent tissues; there is a certain
 feeling of shock diffused over the whole surface, and if the cold is
 intense it induces a slight feeling of numbness in the skin. It becomes
 pale and its capillaries contract. The further action of a cold bath
-reaches the central nervous system, the heart and the lungs, as
+reaches the central nervous system, the heart and the [[Lung|lungs]], as
 manifested by the tremor of the limbs it produces, along with a certain
 degree of oppression of the chest and a gasping for air, while the pulse
 becomes small and sinks. After a time reaction takes place, and brings
@@ -667,7 +667,7 @@ can be borne for hours with impunity.
 
 _Warm baths_ from 96 deg. to 104 deg.--In these the action of the heat
 on the peripheral surface is propagated to the central system, and
-causes reaction, which manifests itself in moderately increased flow of
+causes reaction, which [[Manifest|manifests]] itself in moderately increased flow of
 the blood to the surface, and in an increased frequency of pulse.
 
 With a _hot bath_ from 102 deg. up to 110 deg. the central nervous and
@@ -734,7 +734,7 @@ has been esteemed a sign of effeminacy in all ages. Sleepiness, though
 it will not follow the first immersion in a cold bath, is one of the
 effects of protracted cold baths; depression of the temperature of the
 surface becomes dangerous. The risk in cold baths is congestion of the
-internal organs, as often indicated by the lips getting blue. Extremely
+internal organs, as often indicated by the [[Lip|lips]] getting blue. Extremely
 cold baths are always dangerous.
 
 For the medical use of baths see BALNEOTHERAPEUTICS.
@@ -772,11 +772,11 @@ action since 1875. These establishments, according to the return made in
 charge for a second-class cold bath is 1d., for a hot bath 2d. In
 1904-1905 the number of bathers was 6,342,158, of whom 3,064,998 were
 bathers in private baths and 3,277,160 bathers in swimming baths. In
-1896-1897 the gross total had been only 2,000,000. In cases where the
+1896-1897 the [[Gross|gross]] total had been only 2,000,000. In cases where the
 proportion between the sexes has been worked out, it is found that only
 18% of the users of private baths, and 10% of the users of swimming
 baths, are females. In 1898 the School Board was authorized to pay the
-fees for children using the baths if instruction in swimming were
+[[Fee|fees]] for children using the baths if instruction in swimming were
 provided, and in 1907-1908 the privilege was used by 1,556,542 children.
 The cost of this public provision in London--water being supplied by
 measure--is over L80,000 a year. No account can be given of the numbers
@@ -795,8 +795,8 @@ great towns and those of the continent is not in favour of the former.
   For the literature of baths in earlier periods we may refer to the
   _Architecture_ of Vitruvius, and to Lucian's _Hippias_; see art.
   "Bader" in Pauly-Wissowa, _Realencyclopadie_ (1896), by A. Mau;
-  "Balneum" in Daremberg and Saglio, _Dict. des antiquites_ J. Marquardt
-  _Das Privalleben der Romer_ (1886), pp. 269-297; Backer's _Gallus_,
+  "Balneum" in Daremberg and Saglio, _Dict. des antiquites_ J. [[Marquardt]]
+  _Das Privalleben der Romer_ (1886), pp. 269-297; Backer's _[[Gallus]]_,
   and the article "Balneae" by Rich, in Dr Smith's _Dictionary of Greek
   and Roman Antiquities_ (rev. ed. 1890); also the bibliography to
   HYDROPATHY.

@@ -1,35 +1,35 @@
 # Lawrence
 
-LAWRENCE, JOHN LAIRD MAIR LAWRENCE, 1ST BARON (1811-1879), viceroy and
+LAWRENCE, JOHN [[Laird|LAIRD]] MAIR LAWRENCE, 1ST BARON (1811-1879), viceroy and
 governor-general of India, was born at Richmond, Yorkshire, on the 24th
 of March 1811. His father, Colonel Alexander Lawrence, volunteered for
-the forlorn hope at Seringapatam in presence of Baird and of Wellington,
-whose friend he became. His mother, Letitia Knox, was a collateral
+the [[Forlorn Hope|forlorn hope]] at Seringapatam in presence of [[Baird]] and of Wellington,
+whose friend he became. His mother, Letitia [[Knox]], was a [[Collateral|collateral]]
 descendant of John Knox. To this couple were born twelve children, of
 whom three became famous in India, Sir George St Patrick, Sir Henry
 (q.v.) and Lord Lawrence. Irish Protestants, the boys were trained at
-Foyle college, Derry, and at Clifton, and received Indian appointments
-from their mother's cousin, John Hudleston, who had been the friend of
+Foyle college, Derry, and at [[Clifton]], and received Indian appointments
+from their mother's [[Cousin|cousin]], John Hudleston, who had been the friend of
 Schwartz in Tanjore. In 1829, when only seventeen, John Lawrence landed
-at Calcutta as a civilian; he mastered the Persian language at the
-college of Fort William, and was sent to Delhi, on his own application,
+at [[Calcutta]] as a civilian; he mastered the Persian language at the
+college of Fort William, and was sent to [[Delhi]], on his own application,
 as assistant to the collector. The position was the most dangerous and
-difficult to which a Bengal civilian could be appointed at that time.
+difficult to which a [[Bengal]] civilian could be appointed at that time.
 The titular court of the pensioner who represented the Great Mogul was
 the centre of that disaffection and sensuality which found their
 opportunity in 1857. A Mussulman rabble filled the city. The district
-around, stretching from the desert of Rajputana to the Jumna, was slowly
+around, stretching from the [[Desert|desert]] of Rajputana to the [[Jumna]], was slowly
 recovering from the anarchy to which Lord Lake had given the first blow.
 When not administering justice in the city courts or under the village
 tree, John Lawrence was scouring the country after the marauding Meos
 and Mahommedan freebooters. His keen insight and sleepless energy at
-once detected the murderer of his official superior, William Fraser, in
-1835, in the person of Shams-uddin Khan, the nawab of Loharu, whose
+once detected the murderer of his official superior, William [[Fraser]], in
+1835, in the person of Shams-uddin [[Khan]], the nawab of [[Loharu]], whose
 father had been raised to the principality by Lake, and the assassin was
 executed. The first twenty years, from 1829 to 1849, during which John
-Lawrence acted as the magistrate and land revenue collector of the most
+Lawrence acted as the [[Magistrate|magistrate]] and land revenue collector of the most
 turbulent and backward portion of the Indian empire as it then was,
-formed the period of the reforms of Lord William Bentinck. To what
+formed the period of the reforms of Lord William [[Bentinck]]. To what
 became the lieutenant-governorship of the North-Western (now part of the
 United) Provinces Lord Wellesley had promised the same permanent
 settlement of the land-tax which Lord Cornwallis had made with the large
@@ -44,7 +44,7 @@ registered and assessed an area as large as that of Great Britain, with
 a rural population of twenty-three millions. Of that school John
 Lawrence proved the most ardent and the most renowned. Intermitting his
 work at Delhi, he became land revenue settlement officer in the district
-of Etawah, and there began, by buying out or getting rid of the
+of [[Etawah]], and there began, by buying out or getting rid of the
 talukdars, to realize the ideal which he did much to create throughout
 the rest of his career--a country "thickly cultivated by a fat contented
 yeomanry, each man riding his own horse, sitting under his own fig-tree,
@@ -62,19 +62,19 @@ munitions of war which this one man raised and pushed forward, with all
 the influence acquired during fifteen years of an iron yet sympathetic
 rule in the land between the Jumna and the Sutlej. The crowning victory
 of Sobraon was the result, and at thirty-five Lawrence became
-commissioner of the Jullundur Doab, the fertile belt of hill and dale
+commissioner of the Jullundur [[Doab]], the fertile belt of hill and dale
 stretching from the Sutlej north to the Indus. The still youthful
 civilian did for the newly annexed territory what he had long before
 accomplished in and around Delhi. He restored it to order, without one
-regular soldier. By the fascination of his personal influence he
-organized levies of the Sikhs who had just been defeated, led them now
+regular soldier. By the [[Fascination|fascination]] of his personal influence he
+organized [[Levi|levies]] of the Sikhs who had just been defeated, led them now
 against a chief in the upper hills and now to storm the fort of a raja
 in the lower, till he so welded the people into a loyal mass that he was
 ready to repeat the service of 1846 when, three years after, the second
-Sikh War ended in the conversion of the Punjab up to Peshawar into a
+Sikh War ended in the [[Conversion|conversion]] of the Punjab up to Peshawar into a
 British province.
 
-Lord Dalhousie had to devise a government for a warlike population now
+Lord [[Dalhousie]] had to devise a government for a warlike population now
 numbering twenty-three millions, and covering an area little less than
 that of the United Kingdom. The first results were not hopeful; and it
 was not till John Lawrence became chief commissioner, and stood alone
@@ -84,11 +84,11 @@ in the art of civilizing turbulent millions which history presents. The
 province was mapped out into districts, now numbering thirty-two, in
 addition to thirty-six tributary states, small and great. To each the
 thirty years' leases of the north-west settlement were applied, after a
-patient survey and assessment by skilled officials ever in the saddle or
+patient survey and [[Assessment|assessment]] by skilled officials ever in the saddle or
 the tent. The revenue was raised on principles so fair to the peasantry
 that Ranjit Singh's exactions were reduced by a fourth, while
 agricultural improvements were encouraged. For the first time in its
-history since the earliest Aryan settlers had been overwhelmed by
+history since the earliest [[Aryan]] settlers had been overwhelmed by
 successive waves of invaders, the soil of the Punjab came to have a
 marketable value, which every year of British rule has increased. A
 stalwart police was organized; roads were cut through every district,
@@ -107,13 +107,13 @@ the news of the tragedies at Meerut and Delhi reached him at Rawalpindi.
 The position was critical in the last degree, for of 50,000 native
 soldiers 38,000 were Hindustanis of the very class that had mutinied
 elsewhere, and the British troops were few and scattered. For five days
-the fate of the Punjab hung upon a thread, for the question was, "Could
+the [[Fate|fate]] of the Punjab hung upon a thread, for the question was, "Could
 the 12,000 Punjabis be trusted and the 38,000 Hindustanis be disarmed?"
 Not an hour was lost in beginning the disarming at Lahore; and, as one
-by one the Hindustani corps succumbed to the epidemic of mutiny, the
+by one the Hindustani [[Corps|corps]] succumbed to the epidemic of mutiny, the
 sepoys were deported or disappeared, or swelled the military rabble in
 and around the city of Delhi. The remembrance of the ten years' war
-which had closed only in 1849, a bountiful harvest, the old love of
+which had closed only in 1849, a bountiful [[Harvest|harvest]], the old love of
 battle, the offer of good pay, but, above all, the personality of
 Lawrence and his officers, raised the Punjabi force into a new army of
 59,000 men, and induced the non-combatant classes to subscribe to a 6%
@@ -125,7 +125,7 @@ by an improvised militia. At length, when even in the Punjab confidence
 became doubt, and doubt distrust, and that was passing into
 disaffection, John Lawrence was ready to consider whether we should not
 give up the Peshawar valley to the Afghans as a last resource, and send
-its garrison to recruit the force around Delhi. Another week and that
+its [[Garrison|garrison]] to recruit the force around Delhi. Another week and that
 alternative must have been faced. But on the 20th of September the city
 and palace of Delhi were again in British hands, and the chief
 commissioner and his officers united in ascribing "to the Lord our God
@@ -136,7 +136,7 @@ a year in addition to his ordinary pension of £1000, the "saviour of
 India" returned home in 1859. After guarding the interests of India and
 its people as a member of the secretary of state's council, he was sent
 out again in 1864 as viceroy and governor-general on the death of Lord
-Elgin. If no great crisis enabled Lawrence to increase his reputation,
+[[Elgin]]. If no great crisis enabled Lawrence to increase his reputation,
 his five years' administration of the whole Indian empire was worthy of
 the ruler of the Punjab. His foreign policy has become a subject of
 imperial interest, his name being associated with the "close border" as
@@ -146,13 +146,13 @@ masses of the people and of the British soldiers, and a generous
 interest in education, especially in its Christian aspects.
 
 When in 1854 Dost Mahommed, weakened by the antagonism of his brothers
-in Kandahar, and by the interference of Persia, sent his son to Peshawar
+in [[Kandahar]], and by the interference of Persia, sent his son to Peshawar
 to make a treaty, Sir John Lawrence was opposed to any entangling
 relation with the Afghans after the experience of 1838-1842, but he
 obeyed Lord Dalhousie so far as to sign a treaty of perpetual peace and
 friendship. His ruling idea, the fruit of long and sad experience, was
 that _de facto_ powers only should be recognized beyond the frontier.
-When in 1863 Dost Mahommed's death let loose the factions of Afghanistan
+When in 1863 Dost Mahommed's death let loose the [[Faction|factions]] of Afghanistan
 he acted on this policy to such an extent that he recognized both the
 sons, Afzul Khan and Shere Ali, at different times, and the latter fully
 only when he had made himself master of all his father's kingdom. The
@@ -179,7 +179,7 @@ himself to the work of the London school board, of which he was the
 first chairman, and of the Church missionary society. Towards the end
 his eyesight failed, and on the 27th of June 1879 he died at the age of
 sixty-eight. He was buried in the nave of Westminster Abbey, beside
-Clyde, Outram and Livingstone. He had married the daughter of the Rev.
+[[Clyde]], Outram and [[Livingstone]]. He had married the daughter of the Rev.
 Richard Hamilton, Harriette-Katherine, who survived him, and he was
 succeeded as 2nd baron by his eldest son, John Hamilton Lawrence (b.
 1846).

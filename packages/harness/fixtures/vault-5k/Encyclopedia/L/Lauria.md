@@ -1,6 +1,6 @@
 # Lauria
 
-LAURIA (LURIA or LORIA) ROGER DE (d. 1305), admiral of Aragon and
+LAURIA (LURIA or LORIA) ROGER DE (d. 1305), admiral of [[Aragon]] and
 Sicily, was the most prominent figure in the naval war which arose
 directly from the Sicilian Vespers. Nothing is really known of his life
 before he was named admiral in 1283. His father was a supporter of the
@@ -25,7 +25,7 @@ services.
 From this time forward till the peace of Calatabellota in 1303, Roger
 de Lauria was the ever victorious leader of fleets in the service of
 Aragon, both in the waters of southern Italy and on the coast of
-Catalonia. In the year of his appointment he defeated a French naval
+[[Catalonia]]. In the year of his appointment he defeated a French naval
 force in the service of Charles of Anjou, off Malta. The main object
 before him was to repel the efforts of the Angevine party to reconquer
 Sicily and then to carry the war into their dominions in Naples.
@@ -36,9 +36,9 @@ the Sicilian was moulded, was in a state of high and intelligent
 efficiency. Its chiefs relied not on merely boarding, and the use of the
 sword, as the French forces of Charles of Anjou did, but on the use of
 the ram, and of the powerful cross-bows used by the Catalans either by
-hand or, in case of the larger ones, mounted on the bulwarks, with great
+hand or, in case of the larger ones, mounted on the [[Bulwark|bulwarks]], with great
 skill. The conflict was in fact the equivalent on the water of the
-battles between the English bowmen and the disorderly chivalry of France
+battles between the English bowmen and the disorderly [[Chivalry|chivalry]] of France
 in the Hundred Years' War. In 1284 Roger defeated the Angevine fleet in
 the Bay of Naples, taking prisoner the heir to the kingdom, Charles of
 Salerno, who remained a prisoner in the hands of the Aragonese in
@@ -46,7 +46,7 @@ Sicily, and later in Spain, for years. In 1285 he fought on the coast of
 Catalonia one of the most brilliant campaigns in all naval history. The
 French king Philippe le Hardi had invaded Catalonia with a large army to
 which the pope gave the character of crusaders, in order to support his
-cousin of Anjou in his conflict with the Aragonese. The king, Peter
+[[Cousin|cousin]] of Anjou in his conflict with the Aragonese. The king, Peter
 III., had offended his nobles by his vigorous exercise of the royal
 authority, and received little support from them, but the outrages
 perpetrated by the French invaders raised the towns and country against
@@ -68,9 +68,9 @@ and Sicilian squadrons doubled on the end of the enemies' line, and by a
 vigorous employment of the ram, as well as by the destructive shower of
 bolts from the cross-bows, which cleared the decks of the French, gained
 a complete victory. The defeat of the enemy was followed, as usually in
-medieval naval wars, by a wholesale massacre. Roger then made for Rosas,
+medieval naval wars, by a wholesale [[Massacre|massacre]]. Roger then made for Rosas,
 and tempted out the French squadron stationed there by approaching under
-French colours. In the open it was beaten in its turn. The result was
+French [[Colours|colours]]. In the open it was beaten in its turn. The result was
 the capture of the town, and of the stores collected there by King
 Philippe for the support of his army. Within a short time he was forced
 to retreat amid sufferings from hunger, and the incessant attacks of the

@@ -7,14 +7,14 @@ type: reference
 
 # Gadara
 
-GADARA, an ancient town of the Syrian Decapolis, the capital of Peraea,
+GADARA, an ancient town of the Syrian [[Decapolis]], the capital of Peraea,
 and the political centre of the small district of Gadaris. It was a
 Greek city, probably entirely non-Syrian in origin. The earliest
 recorded event in its history is its capture by Antiochus III. of Syria
 in 218 B.C.; how long it may have existed before this date is unknown.
 About twenty years later it was besieged for ten months by Alexander
 Jannaeus. It was restored by Pompey, and in 30 B.C. was presented by
-Augustus to Herod the Great; on Herod's death it was reunited to Syria.
+Augustus to [[Herod]] the Great; on Herod's death it was reunited to Syria.
 The coins of the place bear Greek legends, and such inscriptions as have
 been found on its site are Greek. Its governing and wealthy classes were
 probably Greek, the common people being Hellenized and Judaized
@@ -27,7 +27,7 @@ its hot sulphur baths; the springs still exist and show the remains of
 bath-houses. The temperature of the springs is 110 deg. F. This town was
 the birthplace of Meleager the anthologist. There is a confusion in the
 narrative of the healing of the demoniac between the very similar names
-_Gadara_, _Gerasa_ and _Gergesa_; but the probabilities, both textual
+_Gadara_, _[[Gerasa]]_ and _Gergesa_; but the probabilities, both textual
 and geographical, are in favour of the reading of Mark (_Gerasenes_, ch.
 v. 1, revised version); and that the miracle has nothing to do with
 Gadara, but took place at _Kersa_, on the eastern shore of the Sea of
@@ -53,7 +53,7 @@ and afterwards of Giotto. The dates of birth and death have been given
 as 1239 and about 1312; these are probably too early; he may have been
 born towards 1260, and may have died in or about 1333. He was a painter
 and mosaicist, is said to have executed the great mosaic inside the
-portal of the cathedral of Florence, representing the coronation of the
+portal of the cathedral of Florence, representing the [[Coronation|coronation]] of the
 Virgin, and may with more certainty be credited with the mosaics inside
 the portico of the basilica of S. Maria Maggiore, Rome, relating to the
 legend of the foundation of that church; their date is probably 1308. In
@@ -64,7 +64,7 @@ church of S. Maria Novella, Florence; these works no longer exist. It is
 ordinarily held that no picture (as distinct from mosaics) by Gaddo
 Gaddi is now extant. Messrs Crowe & Cavalcaselle, however, consider that
 the mosaics of S. Maria Maggiore bear so strong a resemblance in style
-to four of the frescoes in the upper church of Assisi, representing
+to four of the frescoes in the upper church of [[Assisi]], representing
 incidents in the life of St Francis (frescoes 2, 3, 4 and especially 5,
 which shows Francis stripping himself, and protected by the bishop),
 that those frescoes likewise may, with considerable confidence, be
@@ -87,7 +87,7 @@ Virgin, from the expulsion of Joachim from the Temple up to the
 Nativity. In the subject of the "Presentation of the Virgin in the
 Temple" are the two heads traditionally accepted as portraits of Gaddo
 Gaddi and Andrea Tafi; they, at any rate, are not likely to be portraits
-of those artists from the life. On the ceiling of the same chapel are
+of those artists from the life. On the [[Ceiling|ceiling]] of the same chapel are
 the "Eight Virtues." In the museum of Berlin is an altarpiece by Taddeo,
 the "Virgin and Child," and some other subjects, dated 1334; in the
 Naples gallery, a triptych, dated 1336, of the "Virgin enthroned along
@@ -124,7 +124,7 @@ well; in middle age he settled down to commercial life in Venice, and he
 added greatly to the family wealth. He died in Florence in October 1396.
 His paintings show much early promise, hardly sustained as he advanced
 in life. One of the earliest, at S. Jacopo tra' Fossi, Florence,
-represents the "Resurrection of Lazarus." Another probably youthful
+represents the "Resurrection of [[Lazarus]]." Another probably youthful
 performance is the series of frescoes of the Pieve di Prato--legends of
 the Virgin and of her Sacred Girdle, bestowed upon St Thomas, and
 brought to Prato in the 11th century by Michele dei Dagomari; the

@@ -2,7 +2,7 @@
 
 GROTESQUE, strictly a form of decorative art, in painting or sculpture,
 consisting of fantastic shapes of human beings, animals and the like,
-joined together by wreaths of flowers, garlands or arabesques. The word
+joined together by wreaths of flowers, garlands or [[Arabesque|arabesques]]. The word
 is also applied to any whimsical design or decorative style, if
 characterized by unnatural distortion, and, generally, to anything
 ludicrous or extravagantly fanciful. "Grotesque" comes through the
@@ -17,7 +17,7 @@ vault, [Greek: kryptein], to hide. Such a term would be applicable both
 to the buried dwellings of ancient Italy, and to a cavern, artificial or
 natural, the ordinary sense of the word. An interesting parallel with
 this origin of the word is found in that of "antic," now meaning a
-freak, a jest, absurd fancy, &c. This word is the same as "antique," and
+freak, a jest, absurd [[Fancy|fancy]], &c. This word is the same as "antique," and
 was, like "grotesque," first applied to the fanciful decorations of
 ancient art.
 

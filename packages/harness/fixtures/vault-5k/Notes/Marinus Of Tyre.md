@@ -1,9 +1,9 @@
 # Marinus Of Tyre
 
 MARINUS OF TYRE, geographer and mathematician, the founder of
-mathematical geography, flourished in the 2nd century A.D. He lived
+mathematical [[Geography|geography]], flourished in the 2nd century A.D. He lived
 before Ptolemy, who acknowledges his great obligations to him. His chief
-merits were that he assigned to each place its proper latitude and
+merits were that he assigned to each place its proper [[Latitude|latitude]] and
 longitude, and introduced improvements in the construction of his maps.
 He also carefully studied the works of his predecessors and the diaries
 of travellers. His geographical treatise is lost.

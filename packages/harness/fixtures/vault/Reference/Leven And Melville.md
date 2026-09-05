@@ -23,18 +23,18 @@ George took refuge in the Netherlands in 1683, but he returned to
 England after the revolution of 1688 and was appointed secretary for
 Scotland by William III. in 1689, being created earl of Melville in the
 following year. He was made president of the Scottish privy council in
-1696, but he was deprived of his office when Anne became queen in 1702,
+1696, but he was deprived of his office when [[Anne]] became queen in 1702,
 and he died on the 20th of May 1707. His son David, 2nd earl of Melville
 (1660-1728), fled to Holland with his father in 1683; after serving in
 the army of the elector of Brandenburg he accompanied William of Orange
 to England in 1688. At the head of a regiment raised by himself he
-fought for William at Killiecrankie and elsewhere, and as
+fought for William at [[Killiecrankie]] and elsewhere, and as
 commander-in-chief of the troops in Scotland he dealt promptly and
 effectively with the attempted Jacobite rising of 1708. In 1712,
 however, his office was taken from him and he died on the 6th of June
 1728.
 
-Alexander Leslie, 1st earl of Leven (q.v.), was succeeded in his earldom
+Alexander [[Leslie]], 1st earl of Leven (q.v.), was succeeded in his earldom
 by his grandson Alexander, who died without sons in July 1664. The
 younger Alexander's two daughters were then in turn countesses of Leven
 in their own right; and after the death of the second of these two
@@ -48,7 +48,7 @@ after he succeeded his father as earl of Melville in May 1707. Since
 David Leslie-Melville (b. 1886) became 12th earl of Leven and 11th earl
 of Melville.
 
-  See Sir W. Fraser, _The Melvilles, Earls of Melville, and the Leslies,
+  See Sir W. [[Fraser]], _The Melvilles, Earls of Melville, and the Leslies,
   Earls of Leven_ (1890); and the _Leven and Melville Papers_, edited by
   the Hon. W. H. Leslie-Melville for the Bannatyne Club (1843).
 

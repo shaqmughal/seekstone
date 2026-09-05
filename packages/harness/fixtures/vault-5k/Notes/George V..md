@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/George_V."
 
 # George V.
 
-GEORGE V., king of Hanover (1819-1878), was the only son of Ernest
+GEORGE V., king of [[Hanover]] (1819-1878), was the only son of Ernest
 Augustus, king of Hanover and duke of Cumberland, and consequently a
 grandson of the English king George III. Born in Berlin on the 27th of
 May 1819, his youth was passed in England and in Berlin until 1837, when
@@ -51,7 +51,7 @@ of Saxe-Altenburg, by whom he left a son and two daughters. His son,
 Ernest Augustus, duke of Cumberland (b. 1845), continued to maintain the
 claim of his house to the kingdom of Hanover.
 
-By the capitulation of 1866 the king was allowed to retain his personal
+By the [[Capitulation|capitulation]] of 1866 the king was allowed to retain his personal
 property, which included money and securities equal to nearly
 L1,500,000, which had been sent to England before the Prussian invasion
 of Hanover. The crown jewels had also been secretly conveyed to England.

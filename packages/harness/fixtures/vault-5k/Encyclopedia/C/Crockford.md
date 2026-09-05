@@ -10,7 +10,7 @@ Crockford's quickly became the rage; every English social celebrity and
 every distinguished foreigner visiting London hastened to become a
 member. Even the duke of Wellington joined, though, it is averred, only
 in order to be able to blackball his son, Lord Douro, should he seek
-election. Hazard was the favourite game, and very large sums changed
+election. Hazard was the favourite [[Game|game]], and very large sums changed
 hands. Crockford retired in 1840, when, in the expressive language of
 Captain R. H. Gronow, he had "won the whole of the ready money of the
 then existing generation." He took, indeed, about L1,200,000 out of the

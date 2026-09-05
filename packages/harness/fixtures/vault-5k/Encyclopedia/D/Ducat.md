@@ -15,7 +15,7 @@ duchy, to thee be it dedicated); hence, it is said, the name. Between
 afterwards as the zecchino or sequin, the ducat becoming merely a money
 of account. The ducat was also current in Holland, Austria, the
 Netherlands, Spain and Denmark (see NUMISMATICS). A gold coin termed a
-ducat was current in Hanover during the reigns of George I. and George
+ducat was current in [[Hanover]] during the reigns of George I. and George
 III. A pattern gold coin was also struck by the English mint in 1887 for
 a proposed decimal coinage. On the reverse was the inscription "one
 ducat" within an oak wreath; above "one hundred pence," and below the

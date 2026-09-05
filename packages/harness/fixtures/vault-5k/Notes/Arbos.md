@@ -1,6 +1,6 @@
 # Arbos
 
-ARBOS, FERNANDEZ (1863-   ), Spanish violinist and composer, was born in
+ARBOS, [[Fernandez|FERNANDEZ]] (1863-   ), Spanish violinist and composer, was born in
 Madrid, and trained at the conservatoire there, and later at Brussels
 and at Berlin under Joachim. He became a professor at Hamburg and then
 at Madrid, becoming famous meanwhile as one of the finest violinists of

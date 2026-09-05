@@ -1,6 +1,6 @@
 # Firdousi
 
-FIRDOUSI, FIRDAUSI or FIRDUSI, Persian poet. Abu 'l Kasim Mansur (or
+FIRDOUSI, FIRDAUSI or FIRDUSI, Persian poet. Abu 'l Kasim [[Mansur]] (or
 Hasan), who took the _nom de plume_ of Firdousi, author of the epic poem
 the _Shahnama_, or "Book of Kings," a complete history of Persia in
 nearly 60,000 verses, was born at Shadab, a suburb of Tus, about the
@@ -8,7 +8,7 @@ year 329 of the Hegira (941 A.D.), or earlier. His father belonged to
 the class of _Dihkans_ (the old native country families and landed
 proprietors of Persia, who had preserved their influence and status
 under the Arab rule), and possessed an estate in the neighbourhood of
-Tus (in Khorasan). Firdousi's own education eminently qualified him for
+Tus (in [[Khorasan]]). Firdousi's own education eminently qualified him for
 the gigantic task which he subsequently undertook, for he was profoundly
 versed in the Arabic language and literature and had also studied deeply
 the Pahlavi or Old Persian, and was conversant with the ancient
@@ -26,7 +26,7 @@ sovereigns, could not fail to leave numerous traces in the memory of so
 imaginative a people as the Persians. As early as the 5th century of the
 Christian era we find mention made of these historical traditions in the
 work of an Armenian author, Moses of Chorene (according to others, he
-lived in the 7th or 8th century). During the reign of Chosroes I.
+lived in the 7th or 8th century). During the reign of [[Chosroes]] I.
 (Anushirvan) the contemporary of Mahomet, and by order of that monarch,
 an attempt had been made to collect, from various parts of the kingdom,
 all the popular tales and legends relating to the ancient kings, and the
@@ -45,7 +45,7 @@ Yakub ibn Laith, founder of the Saffarid dynasty, succeeded in throwing
 off his allegiance to the caliphate, he at once set about continuing the
 work of his illustrious predecessors. His "Book of Kings" was completed
 in the year 260 of the Hegira, and was freely circulated in Khorasan and
-Irak. Yakub's family did not continue long in power; but the Samanid
+[[Irak]]. Yakub's family did not continue long in power; but the Samanid
 princes who succeeded applied themselves zealously to the same work, and
 Prince Nuh II., who came to the throne in 365 A.H. (A.D. 976), entrusted
 it to the court poet Dakiki, a Guebre by religion. Dakiki's labours were
@@ -74,7 +74,7 @@ the Dihkan Danishwer's collection, and at the age of thirty-six
 commenced his great undertaking. Abu Mansur, the governor of Tus,
 patronized him and encouraged him by substantial pecuniary support. When
 Mahmud succeeded to the throne, and evinced such active interest in the
-work, Firdousi was naturally attracted to the court of Ghazni. At first
+work, Firdousi was naturally attracted to the court of [[Ghazni]]. At first
 court jealousies and intrigues prevented Firdousi from being noticed by
 the sultan; but at length one of his friends, Mahek, undertook to
 present to Mahmud his poetic version of one of the well-known episodes
@@ -126,9 +126,9 @@ to the book. The sultan ordered his treasurer, Khojah Hasan Maimandi, to
 pay to Firdousi a thousand gold pieces for every thousand verses; but
 the poet preferred allowing the sum to accumulate till the whole was
 finished, with the object of amassing sufficient capital to construct a
-dike for his native town of Tus, which suffered greatly from defective
+[[Dike|dike]] for his native town of Tus, which suffered greatly from defective
 irrigation, a project which had been the chief dream of his childhood.
-Owing to this resolution, and to the jealousy of Hasan Maimandi, who
+Owing to this resolution, and to the [[Jealousy|jealousy]] of Hasan Maimandi, who
 often refused to advance him sufficient for the necessaries of life,
 Firdousi passed the later portion of his life in great privation, though
 enjoying the royal favour and widely extended fame. Amongst other
@@ -174,14 +174,14 @@ the morning by the gate that led from his own apartments into the
 palace, he met the sultan in his private garden, and succeeded by humble
 apologies in appeasing his wrath. He was, however, far from being
 appeased himself, and determined at once upon quitting Ghazni. Returning
-home he tore up the draughts of some thousands of verses which he had
+home he tore up the [[Draughts|draughts]] of some thousands of verses which he had
 composed and threw them in the fire, and repairing to the grand mosque
 of Ghazni he wrote upon the walls, at the place where the sultan was in
 the habit of praying, the following lines:--
 
   "The auspicious court of Mahmud, king of Zabulistan, is like a sea.
   What a sea! One cannot see its shore. If I have dived therein without
-  finding any pearls it is the fault of my star and not of the sea."
+  finding any pearls it is the [[Fault|fault]] of my star and not of the sea."
 
 He then gave a sealed paper to Ayaz, begging him to hand it to the
 sultan in a leisure moment after 20 days had elapsed, and set off on his
@@ -214,7 +214,7 @@ wife--_Yusuf and Zuleikha_ (edited by H. Ethé, Oxford, 1902; complete
 metrical translation by Schlechta-Wssehrd, Vienna, 1889). This poem,
 though rare and little known, is still in existence--the Royal Asiatic
 Society possessing a copy. But Mahmud had by this time heard of his
-asylum at the court of the caliph, and wrote a letter menacing his liege
+[[Asylum|asylum]] at the court of the caliph, and wrote a letter menacing his liege
 lord, and demanding the surrender of the poet. Firdousi, to avoid
 further troubles, departed for Ahwaz, a province of the Persian Irak,
 and dedicated his _Yusuf and Zuleikha_ to the governor of that district.
@@ -245,7 +245,7 @@ the usual prayers over his tomb, alleging that he was an infidel, and
 had devoted his life to the glorification of fire-worshippers and
 misbelievers. The next night, however, having dreamt that he beheld
 Firdousi in paradise dressed in the sacred colour, green, and wearing an
-emerald crown, he reconsidered his determination; and the poet was
+[[Emerald|emerald]] crown, he reconsidered his determination; and the poet was
 henceforth held to be perfectly orthodox. He died in the year 411 of the
 Hegira (1020 A.D.), aged about eighty, eleven years after the completion
 of his great work. The legend goes that Mahmud had in the meanwhile
@@ -260,7 +260,7 @@ memory, and a large caravanserai built with the surplus.
 
   Much of the traditional life, as given above, which is based upon that
   prefixed to the revised edition of the poem, undertaken by order of
-  Baisingar Khan, grandson of Timur-i-Leng (Timur), is rejected by
+  Baisingar [[Khan]], grandson of Timur-i-Leng (Timur), is rejected by
   modern scholars (see T. Nöldeke, "Das iranische Nationalepos," in W.
   Geiger's _Grundriss der iranischen Philologie_, ii. pp. 150-158).
 
@@ -286,7 +286,7 @@ memory, and a large caravanserai built with the surplus.
   an introduction containing an account of Firdousi and the Shahnama;
   the version by A. Rogers (1907) contains the greater part of the work.
   The episode of Sohrab and Rustam is well known to English readers from
-  Matthew Arnold's poem. The only complete translation is Il Libro dei
+  [[Matthew]] Arnold's poem. The only complete translation is Il Libro dei
   Rei, by I. Pizzi (8 vols., Turin, 1886-1888), also the author of a
   history of Persian poetry.
 

@@ -26,7 +26,7 @@ force at will, and is continually so used, yet it cannot be a primary
 moving force; it can transmit or modify motion already existing, but
 cannot in the first instance cause it. For this some external force, not
 friction, is required. The analogy with stress appears complete; the
-motion of the "driving link" of a machine is communicated to all the
+motion of the "driving link" of a [[Machine|machine]] is communicated to all the
 other parts, modified or unchanged as the case may be, by the stresses
 in those parts; but the actual setting in motion of the driving link
 itself cannot come about by stress, but must have for its production
@@ -36,7 +36,7 @@ be allowed to mislead. Friction resists the motion of one surface upon
 another, but it may and frequently does confer the motion of the one
 upon the other, and in this way causes, instead of resists, the motion
 of the latter. This may be made more clear, perhaps, by an illustration.
-Suppose we have a leather strap A passing over a fixed cylindrical drum
+Suppose we have a leather strap A passing over a fixed cylindrical [[Drum|drum]]
 B, and let a pulling force or effort be applied to the strap. The force
 applied to A can act on B only at the surfaces of contact between them.
 There it becomes an effort tending either to move A upon B, or to move
@@ -74,7 +74,7 @@ A.
 Without entering here on the mathematical treatment of the subject of
 friction, some general conclusions may be pointed out which have been
 arrived at as the results of experiment. The "laws" first enunciated by
-C. A. Coulomb (1781), and afterwards confirmed by A. J. Morin
+C. A. [[Coulomb]] (1781), and afterwards confirmed by A. J. Morin
 (1830-1834), have been found to hold good within very wide limits. These
 are: (1) that the friction is proportional to the normal pressure
 between the surfaces of contact, and therefore independent of the area
@@ -108,9 +108,9 @@ not unreasonable to expect that the influence of time upon friction
 should show itself in a comparison of very slow with very rapid motion,
 as well as in a comparison of starting (i.e. motion after a long time of
 rest) with continued motion. That the friction at the higher velocities
-occurring in engineering practice is much less than at common velocities
+occurring in [[Engineering|engineering]] practice is much less than at common velocities
 has been shown by several modern experiments, such as those of Sir
-Douglas Galton (see _Report Brit. Assoc._, 1878, and _Proc. Inst. Mech.
+Douglas [[Galton]] (see _Report Brit. Assoc._, 1878, and _Proc. Inst. Mech.
 Eng._, 1878, 1879) on the friction between brake-blocks and wheels, and
 between wheels and rails. But no increase in the coefficient of friction
 had been detected at slow speeds, until the experiments of Prof.

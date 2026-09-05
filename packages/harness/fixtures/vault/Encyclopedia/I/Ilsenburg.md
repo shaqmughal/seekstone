@@ -1,11 +1,11 @@
 # Ilsenburg
 
 ILSENBURG, a village and health resort of Germany, in Prussian Saxony,
-romantically situated under the north foot of the Harz Mountains, at the
+romantically situated under the north foot of the [[Harz Mountains]], at the
 entrance to the Ilsethal, 6 m. N.W. from Wernigerode by the railway to
-Goslar. Pop. (1900) 3868. It has an Evangelical church, a modern château
+[[Goslar]]. Pop. (1900) 3868. It has an Evangelical church, a modern château
 of the princes of Stolberg, with pretty grounds, and a high grade
-school, and manufactures metal wares, machines and iron screws and
+school, and manufactures metal wares, [[Machine|machines]] and iron screws and
 bolts.
 
 Owing to its charming surroundings and its central position in the
@@ -24,8 +24,8 @@ above the valley, crowned by an iron cross erected by Count Anton von
 Stolberg-Wernigerode in memory of his friends who fell in the wars of
 1813-1815. Around this rock cluster numerous legends.
 
-  See Jacobs, _Urkundenbuch des Klosters Ilsenburg_ (Halle, 1875);
-  Brandes, _Ilsenburg als Sommeraufenthalt_ (Wernigerode, 1885); and H.
+  See [[Jacobs]], _Urkundenbuch des Klosters Ilsenburg_ ([[Halle]], 1875);
+  [[Brand|Brandes]], _Ilsenburg als Sommeraufenthalt_ (Wernigerode, 1885); and H.
   Herre, _Ilsenburger Annalen_ (Leipzig, 1890).
 
 ## See also

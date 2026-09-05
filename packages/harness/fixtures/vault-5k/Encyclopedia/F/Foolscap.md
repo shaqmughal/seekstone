@@ -17,7 +17,7 @@ to 17 × 13-1/2 in. (see PAPER). The name is derived from the use of a
 from 1479 was exhibited in the Caxton Exhibition (1877). The _New
 English Dictionary_ finds no trustworthy evidence for the introduction
 of the watermark by a German, Sir John Spielmann, at his paper-mill at
-Dartford in 1580, and states that there is no truth in the familiar
+[[Dartford]] in 1580, and states that there is no truth in the familiar
 story that the Rump Parliament substituted a fool's cap for the royal
 arms as a watermark on the paper used for the journals of parliament.
 

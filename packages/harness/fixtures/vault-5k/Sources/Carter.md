@@ -11,16 +11,16 @@ health. She learned Greek and Latin, and Dr Johnson said concerning a
 celebrated scholar that he "understood Greek better than any one whom he
 had ever known except Elizabeth Carter." She learned also Hebrew,
 French, German, Italian, Spanish, Portuguese, and lastly some Arabic.
-She studied astronomy, ancient geography, and ancient and modern
+She studied astronomy, ancient [[Geography|geography]], and ancient and modern
 history. Edward Cave was a friend of Dr Carter, and in 1734 some of
 Elizabeth's verses, signed "Eliza," appeared in the _Gentleman's
 Magazine_, to which she contributed for many years. In 1738 Cave
 published her _Poems upon Particular Occasions_; in 1739 she translated
-from the French an attack on Pope's _Essay on Man_ by J.P. de Crousaz;
+from the French an attack on Pope's _Essay on Man_ by J.P. de [[Crousaz]];
 and in the same year appeared her translation from the Italian of
-Algarotti's _Newtonianismo per le Dame_, under the title of _Sir Isaac
+Algarotti's _Newtonianismo per le Dame_, under the title of _Sir [[Isaac]]
 Newton's Philosophy explained for the use of the Ladies, in six
-Dialogues on Light and Colour_. Her translation of Epictetus (1758) was
+[[Dialogue|Dialogues]] on Light and Colour_. Her translation of Epictetus (1758) was
 undertaken in 1749 to please her friends, Thomas Secker (afterwards
 archbishop of Canterbury) and his niece, Catherine Talbot, to whom the
 translation was sent, sheet by sheet, as it was done. In 1762 Miss

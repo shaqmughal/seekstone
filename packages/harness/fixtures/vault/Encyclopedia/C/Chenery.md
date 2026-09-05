@@ -8,16 +8,16 @@ type: note
 # Chenery
 
 CHENERY, THOMAS (1826-1884), English scholar and editor of _The Times_,
-was born in 1826 at Barbados. He was educated at Eton and Caius College,
+was born in 1826 at Barbados. He was educated at [[Eton]] and Caius College,
 Cambridge. Having been called to the bar, he went out to Constantinople
 as _The Times_ correspondent just before the Crimean War, and it was
 under the influence there of Algernon Smythe (afterwards Lord
 Strangford) that he first turned to those philological studies in which
 he became eminent. After the war he returned to London and wrote
-regularly for _The Times_ for many years, eventually succeeding Delane
+regularly for _The Times_ for many years, eventually succeeding [[Delane]]
 as editor in 1877. He was then an experienced publicist, particularly
 well versed in Oriental affairs, an indefatigable worker, with a rapid
-and comprehensive judgment, though he lacked Delane's intuition for
+and comprehensive judgment, though he lacked Delane's [[Intuition|intuition]] for
 public opinion. It was as an Orientalist, however, that he had meantime
 earned the highest reputation, his knowledge of Arabic and Hebrew being
 almost unrivalled and his gift for languages exceptional. In 1868 he was

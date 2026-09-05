@@ -9,12 +9,12 @@ tags: [biography, inventors]
 # Casamari
 
 CASAMARI, a Cistercian abbey in the province of Rome, 6 m. E.S.E. of
-Veroli. It marks the site of Cereatae, the birthplace of Marius,
+Veroli. It marks the site of Cereatae, the birthplace of [[Marius]],
 afterwards known, as inscriptions attest, as Cereatae Marianae, having
 been separated perhaps by the triumvirs, from the territory of Arpinum.
 We find it under the early empire as an independent community. The abbey
 is a fine example of Burgundian early-Gothic (1203-1217), paralleled in
-Italy by Fossanuova alone (which is almost contemporary with it), and is
+Italy by [[Fossanuova]] alone (which is almost contemporary with it), and is
 very well preserved.
 
   See C. Enlart, "Origines françaises de l'architecture gothique en

@@ -2,7 +2,7 @@
 
 KURDISTAN, in its wider sense, the "country of the Kurds" (Koords),
 including that part of Mount Taurus which buttresses the Armenian
-table-land (see ARMENIA), and is intersected by the Batman Su, the
+table-land (see [[Armenia|ARMENIA]]), and is intersected by the Batman Su, the
 Bohtan Su, and other tributaries of the Tigris; and the wild mountain
 district, watered by the Great and Little Zab, which marks the western
 termination of the great Iranian plateau.
@@ -12,8 +12,8 @@ millions, namely, Turkish Kurds 1,650,000, Persian 800,000, Russian
 50,000, but there are no trustworthy statistics. The great mass of the
 population has its home in Kurdistan. But Kurds are scattered
 irregularly over the country from the river Sakaria on the west to Lake
-Urmia on the east, and from Kars on the north to Jebel Sinjar on the
-south. There is also an isolated settlement in Khorasan. The tribes,
+Urmia on the east, and from [[Kars]] on the north to [[Jebel]] Sinjar on the
+south. There is also an isolated settlement in [[Khorasan]]. The tribes,
 _ashiret_, into which the Kurds are divided, resemble in some respects
 the Highland clans of Scotland. Very few of them number more than 10,000
 souls, and the average is about 3000. The sedentary and pastoral Kurds,
@@ -43,7 +43,7 @@ is not of course favourable to the development of the better qualities
 of human nature. The Kurds are thus wild and lawless; they are much
 given to brigandage; they oppress and frequently maltreat the Christian
 populations with whom they are brought in contact,--these populations
-being the Armenians in Diarbekr, Erzerum and Van, the Jacobites and
+being the Armenians in Diarbekr, Erzerum and Van, the [[Jacobites]] and
 Syrians in the Jebel-Tur, and the Nestorians and Chaldaeans in the
 Hakkari country.
 
@@ -66,7 +66,7 @@ the bey ruled in patriarchal state, surrounded by an hereditary
 nobility, regarded by his clansmen with reverence and affection, and
 attended by a bodyguard of young Kurdish warriors, clad in chain armour,
 with flaunting silken scarfs, and bearing javelin, lance and sword as in
-the time of the crusades.
+the time of the [[Crusades|crusades]].
 
 Though ignorant and unsophisticated the Kurd is not wanting in natural
 intelligence. In recent years educated Kurds have held high office under
@@ -86,7 +86,7 @@ a weird melancholy tone.
 _Antiquities._--Kurdistan abounds in antiquities of the most varied and
 interesting character. But it has been very little opened up to modern
 research. A series of rock-cut cuneiform inscriptions extend from
-Malatia on the west to Miandoab (in Persia) on the east, and from the
+[[Malatia]] on the west to Miandoab (in Persia) on the east, and from the
 banks of the Aras on the north to Rowanduz on the south, which record
 the glories of a Turanian dynasty, who ruled the country of Nairi during
 the 8th and 7th centuries, B.C., contemporaneously with the lower
@@ -128,7 +128,7 @@ on the Turkish frontier to the south.
   Zaza is spoken throughout the western portion of the Dersim country,
   and is said to be unintelligible to the Kermanji-speaking Kurds. It is
   largely intermingled with Armenian, and may contain some trace of the
-  old Cappadocian, but is no doubt of the same Aryan stock as the
+  old Cappadocian, but is no doubt of the same [[Aryan]] stock as the
   standard Kurdish. The Guran dialect again, which is spoken throughout
   Ardelan and Kermanshah[3] chiefly differs from the northern Kurdish in
   being entirely free from any Semitic intermixture. It is thus somewhat
@@ -143,7 +143,7 @@ on the Turkish frontier to the south.
   in 1872. In 1879 there appeared, under the auspices of the imperial
   academy of St Petersburg a French-Kurdish dictionary compiled
   originally by Mons. Jaba, many years Russian consul at Erzerum, but
-  completed by Ferdinand Justi by the help of a rich assortment of
+  completed by [[Ferdinand]] Justi by the help of a rich assortment of
   Kurdish tales and ballads, collected by Socin and Prym in Assyria.
 
   _Religion._--The great body of the nation, in Persia as well as in
@@ -157,7 +157,7 @@ on the Turkish frontier to the south.
   and of which the essential condition is that there must always be upon
   the earth a visible manifestation of the Deity. While paying reverence
   to the supposed incarnations of ancient days, to Moses, David, Christ,
-  Ali and his tutor Salman-ul-Farisi, and several of the Shi'ite imams
+  Ali and his tutor Salman-ul-Farisi, and several of the Shi'ite [[Imam|imams]]
   and saints, they have thus usually some recent local celebrity at
   whose shrine they worship and make vows; and there is, moreover, in
   every community of Ali-Illahis some living personage, not necessarily
@@ -189,8 +189,8 @@ owing to the immigration at this period of history of tribes in
 overwhelming numbers which, from whatever quarter they may have sprung,
 belonged certainly to the Aryan family.
 
-The _Gutu_ or Kurdu were reduced to subjection by Cyrus before he
-descended upon Babylon, and furnished a contingent of fighting men to
+The _Gutu_ or Kurdu were reduced to subjection by [[Cyrus]] before he
+descended upon [[Babylon]], and furnished a contingent of fighting men to
 his successors, being thus mentioned under the names of Saspirians and
 Alarodians in the muster roll of the army of Xerxes which was preserved
 by Herodotus.
@@ -227,7 +227,7 @@ found Kurdistan bristling with castles, held by hereditary tribal chiefs
 of Kurd, Arab, and Armenian descent, who were practically independent,
 and passed their time in tribal warfare or in raiding the agricultural
 population. He divided the territory into sanjaks or districts, and,
-making no attempt to interfere with the principle of heredity, installed
+making no attempt to interfere with the principle of [[Heredity|heredity]], installed
 the local chiefs as governors. He also resettled the rich pastoral
 country between Erzerum and Erivan, which had lain waste since the
 passage of Timur, with Kurds from the Hakkiari and Bohtan districts. The
@@ -239,7 +239,7 @@ westwards over the country as far as Angora. After the war the Kurds
 attempted to free themselves from Turkish control, and in 1834 it became
 necessary to reduce them to subjection. This was done by Reshid Pasha.
 The principal towns were strongly garrisoned, and many of the Kurd beys
-were replaced by Turkish governors. A rising under Bedr Khan Bey in 1843
+were replaced by Turkish governors. A rising under Bedr [[Khan]] Bey in 1843
 was firmly repressed, and after the Crimean War the Turks strengthened
 their hold on the country. The Russo-Turkish War of 1877-78 was followed
 by the attempt of Sheikh Obaidullah, 1880-81, to found an independent
@@ -259,7 +259,7 @@ of the Kurds by raising a body of Kurdish irregular cavalry, which was
 well armed and called Hamidieh after the Sultan. The opportunities thus
 offered for plunder and the gratification of race hatred brought out the
 worst qualities of the Kurds. Minor disturbances constantly occurred,
-and were soon followed by the massacre of Armenians at Sasun and other
+and were soon followed by the [[Massacre|massacre]] of Armenians at Sasun and other
 places, 1894-96, in which the Kurds took an active part.
 
   AUTHORITIES.--Rich, _Narrative of a Residence in Koordistan_ (1836);
@@ -268,13 +268,13 @@ places, 1894-96, in which the Kurds took an active part.
   among the Koords_ (1870); Von Luschan, "Die Wandervolker Kleinasiens,"
   in _V^n. d. G. für Anthropologie_ (Berlin, 1886); Clayton, "The
   Mountains of Kurdistan," in _Alpine Journal_ (1887); Binder, _Au
-  Kurdistan_ (Paris, 1887); Naumann, _Vom Goldnen Horn zu den Quellen
+  Kurdistan_ (Paris, 1887); Naumann, _Vom Goldnen [[Horn]] zu den Quellen
   des Euphrat_ (Munich, 1893); Murray, _Handbook to Asia Minor, &c._
   (1895); Lerch, _Forschungen über die Kurden_ (St Petersburg, 1857-58);
   Jaba, _Dict. Kurde-Français_ (St Petersburg, 1879); Justi, _Kurdische
   Grammatik_ (1880); Prym and Socin, _Kurdische Sammlungen_ (1890);
   Makas, _Kurdische Studien_ (1901); Earl Percy, _Highlands of Asiatic
-  Turkey_ (1901); Lynch, _Armenia_ (1901); A. V. Williams Jackson,
+  Turkey_ (1901); [[Lynch]], _Armenia_ (1901); A. V. Williams Jackson,
   _Persia, Past and Present_ (1906).     (C. W. W.; H. C. R.)
 
 
@@ -291,7 +291,7 @@ FOOTNOTES:
     mountains, modern Zerzas of Ushnu (cuneiform pillars of Kel-i-shin
     and Sidek noticed by author); _Julamerkieh_, modern Julamerik, said
     to be descended from the caliph Merwan-ibn-Hakam; _Hakkarieh_,
-    Hakkari inhabiting _Zuzan_ of Arab geography; _Bokhtieh_, modern
+    Hakkari inhabiting _Zuzan_ of Arab [[Geography|geography]]; _Bokhtieh_, modern
     Bohtan. The _Rowadi_, to whom Saladin belonged, are probably modern
     Rawendi, as they held the fortress of Arbil (Arbela). Some twenty
     other names are mentioned, but the orthography is so doubtful that it
@@ -315,8 +315,8 @@ FOOTNOTES:
     the name is translated in Persian. They are a fine, active and hardy
     race, individually brave, and make excellent soldiers, though in
     appearance very inferior to the tribal Kurds of the northern
-    districts. These latter indeed delight in gay colours, while the
-    Gurans dress in the most homely costume, wearing coarse blue cotton
+    districts. These latter indeed delight in gay [[Colours|colours]], while the
+    Gurans [[Dress|dress]] in the most homely costume, wearing coarse blue cotton
     vests, with felt caps and coats. In a great part of Kurdistan the
     name Guran has become synonymous with an agricultural peasantry, as
     opposed to the migratory shepherds.

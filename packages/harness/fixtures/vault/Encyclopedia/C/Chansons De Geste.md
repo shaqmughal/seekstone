@@ -15,7 +15,7 @@ of which is a series of historical facts or _gesta_. These facts form
 the centre around which are grouped sets of poems, called cycles, and
 hence the two terms have in modern criticism become synonymous for the
 epic family to which the hero of the particular group or cycle belongs.
-The earliest chansons de geste were founded on the fusion of the
+The earliest chansons de geste were founded on the [[Fusion|fusion]] of the
 Teutonic spirit, under a Roman form, into the new Christian and French
 civilization. It seems probable that as early as the 9th century epic
 poems began to be chanted by the itinerant minstrels who are known as
@@ -32,7 +32,7 @@ First Crusade, and the writer lived at or near the sanctuary of Mont
 Saint-Michel. The _Chanson de Roland_ stands at the head of modern
 French literature, and its solidity and grandeur give a dignity to the
 whole class of poetry of which it is the earliest and by far the noblest
-example. But it is in the crowd of looser and later poems, less fully
+example. But it is in the [[Crowd|crowd]] of looser and later poems, less fully
 characterized, less steeped in the individuality of their authors, that
 we can best study the form of the typical chanson de geste. These epics
 sprang from the soil of France; they were national and historical; their
@@ -41,17 +41,17 @@ little regard to the artificial niceties of style. The earlier examples,
 which succeed the _Roland_, are unlike that great work in having no
 plan, no system of composition. They are improvisations which wander on
 at their own pace, whither accident may carry them. This mass of
-medieval literature is monotonous, primitive and superficial. As Leon
-Gautier has said, in the rudimentary psychology of the chansons de
+medieval literature is monotonous, primitive and superficial. As [[Leon]]
+[[Gautier]] has said, in the rudimentary psychology of the chansons de
 geste, man is either entirely good or entirely bad. There are no fine
 shades, no observation of character. The language in which these poems
 are composed is extremely simple, without elaboration, without ornament.
 Everything is sacrificed to the telling of a story by a narrator of
-little skill, who helps himself along by means of a picturesque, but
-almost childish fancy, and a primitive sentiment of rhythm. Two great
+little skill, who [[Helps|helps]] himself along by means of a picturesque, but
+almost childish [[Fancy|fancy]], and a primitive sentiment of rhythm. Two great
 merits, however, all the best of these poems possess, force and
 lucidity; and they celebrate, what they did much to create, that
-unselfish elevation of temper which we call the spirit of chivalry.
+unselfish elevation of temper which we call the spirit of [[Chivalry|chivalry]].
 
 Perhaps the most important cycle of chansons de geste was that which was
 collected around the name of Charlemagne, and was known as the _Geste du
@@ -74,18 +74,18 @@ _Roland_ belongs; there are different minor epics dealing with the
 events of Roncevaux, and independent chansons of _Gui de Bourgogne_,
 _Gaidon_ and _Anseis de Carthage_. The _Geste du Roi_ comprises a sixth
 and last group, proceeding with events up to the death of Charlemagne;
-this contains _Huon de Bordeaux_ and a vast number of poems of minor
+this contains _Huon de [[Bordeaux]]_ and a vast number of poems of minor
 originality and importance.
 
 Another cycle is that of Duke William Shortnose, _La Geste de
-Guillaume_. This includes the very early and interesting _Departure of
+[[Guillaume]]_. This includes the very early and interesting _Departure of
 the Aimeri Children_, _Aliscans_ and _Rainoart_. It is thought that this
 cycle, which used to be called the _Geste de Garin de Monglane_, is less
 artificial than the others; it deals with the heroes of the South who
 remained faithful in their vassalage to the throne. The poems belonging
 to this cycle are extremely numerous, and some of them are among the
 earliest which survive. These chansons find their direct opposites in
-those which form the great cycle of _La Geste de Doon de Mayence_,
+those which form the great cycle of _La Geste de [[Doon De Mayence|Doon de Mayence]]_,
 sometimes called "la faulse geste," because it deals with the feats of
 the traitors, of the rebellious family of Ganelon. This is the geste of
 the Northmen, always hostile to the Carlovingian dynasty. It comprises
@@ -95,9 +95,9 @@ production of a known poet, Raimbert of Paris. From this triple division
 of the main body of the chansons de geste into _La Geste du Roi_, _La
 Geste de Guillaume_ and _La Geste de Doon_, are excluded certain poems
 of minor importance,--some provincial, such as _Amis and Amiles_ and
-_Garin_, some dealing with the Crusades, such as _Antioche_, and some
+_Garin_, some dealing with the [[Crusades]], such as _Antioche_, and some
 which are not connected with any existing cycle, such as _Ciperis de
-Vignevaux_; most of this last category, however, are works of the
+Vignevaux_; most of this last [[Category|category]], however, are works of the
 decadence.
 
 The analysis which is here sketched is founded on the latest theories of
@@ -109,17 +109,17 @@ the 14th century, as has been said, no longer an art but a monomania.
 Needless to add that a very large proportion of the surviving poems have
 never yet been published. All the best of the early chansons de geste
 are written in ten-syllable verse, divided into stanzas or _laisses_ of
-different length, united by a single assonance. Rhyme came in with the
+different length, united by a single [[Assonance|assonance]]. Rhyme came in with the
 13th century, and had the effect in languid bards of weakening the
 narrative; the sing-song of it led at last to the abandonment of verse
 in favour of plain historical prose. The general character of the
 chansons de geste, especially of those of the 12th century, is hard,
 coarse, inflexible, like the march of rough men stiffened by coats of
-mail. There is no art and little grace, but a magnificent display of
+mail. There is no art and little [[Grace|grace]], but a magnificent display of
 force. These poems enshrine the self-sufficiency of a young and powerful
 people; they are full of Gallic pride, they breathe the spirit of an
 indomitable warlike energy. All their figures belong to the same social
-order of things, and all illustrate the same fighting aristocracy. The
+order of things, and all illustrate the same fighting [[Aristocracy|aristocracy]]. The
 moving principle is that of chivalry, and what is presented is,
 invariably, the spectacle of the processional life of a medieval
 soldier. The age described is a disturbed one; the feudal anarchy of

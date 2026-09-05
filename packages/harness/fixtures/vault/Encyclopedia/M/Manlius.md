@@ -4,11 +4,11 @@ MANLIUS, the name of a Roman gens, chiefly patrician, but containing
 plebeian families also.
 
 1. MARCUS MANLIUS CAPITOLINUS, a patrician, consul 392 B.C. According to
-tradition, when in 390 B.C. the besieging Gauls were attempting to scale
+tradition, when in 390 B.C. the besieging [[Gaul|Gauls]] were attempting to scale
 the Capitol, he was roused by the cackling of the sacred geese, rushed
 to the spot and threw down the foremost assailants (Livy v. 47;
 Plutarch, _Camillus_, 27). Several years after, seeing a centurion led
-to prison for debt, he freed him with his own money, and even sold his
+to prison for [[Debt|debt]], he freed him with his own money, and even sold his
 estate to relieve other poor debtors, while he accused the senate of
 embezzling public money. He was charged with aspiring to kingly power,
 and condemned by the comitia, but not until the assembly had adjourned
@@ -21,7 +21,7 @@ his attempt to relieve the debtors a fiction of the times of Cinna.
 
   Livy vi. 14-20; Plutarch, _Camillus_, 36; Cicero, _De domo_, 38.
 
-2. TITUS MANLIUS IMPERIOSUS TORQUATUS, twice dictator (353, 349 B.C.)
+2. TITUS MANLIUS IMPERIOSUS TORQUATUS, twice [[Dictator|dictator]] (353, 349 B.C.)
 and three times consul (347, 344, 340). When his father, L. Manlius
 Imperiosus (dictator 363), was brought to trial by the tribune M.
 Pomponius for abusing his office of dictator, he forced Pomponius to
@@ -31,7 +31,7 @@ stature, in single combat, and took from him a torques (neck-ornament),
 whence his surname. When the Latins demanded an equal share in the
 government of the confederacy, Manlius vowed to kill with his own hand
 the first Latin he saw in the senate-house. The Latins and Campanians
-revolted, and Manlius, consul for the third time, marched into Campania
+revolted, and Manlius, consul for the third time, marched into [[Campania]]
 and gained two great victories, near Vesuvius, where P. Decius Mus
 (q.v.), his colleague, "devoted" himself in order to gain the day, and
 at Trifanum. In this campaign Manlius executed his own son, who had
@@ -44,15 +44,15 @@ of the consuls.
 dictator 208. In his first consulship he subjugated Sardinia, recently
 acquired from the Carthaginians, when the temple of Janus was shut for
 the second time in Roman history (Livy i. 19). In 216 he opposed the
-ransoming of the Romans taken prisoners at Cannae; and in 215 he was
+ransoming of the Romans taken prisoners at [[Cannae]]; and in 215 he was
 sent to Sardinia and defeated a Carthaginian attempt to regain
 possession of the island.
 
   Livy xxiii. 34; Polybius ii. 31.
 
 4. GNAEUS MANLIUS VULSO, praetor 195, consul 189. He was sent to Asia to
-conclude peace with Antiochus III., king of Syria. He marched into
-Pamphylia, defeated the Celts of Galatia on Mt Olympus and drove them
+conclude peace with [[Antiochus]] III., king of Syria. He marched into
+Pamphylia, defeated the [[Celt|Celts]] of Galatia on Mt Olympus and drove them
 back across the Halys. In the winter, assisted by ten delegates sent
 from Rome, he settled the terms of peace with Antiochus, and in 187
 received the honour of a triumph.

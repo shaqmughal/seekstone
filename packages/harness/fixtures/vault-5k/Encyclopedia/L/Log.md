@@ -14,15 +14,15 @@ works in an entirely different manner.
 
 The origin of the "common log" is obscure, but the beginnings of the
 "continuous log" may be traced back to the 16th century. By an invention
-probably due to Humfray Cole and published in 1578 by William Bourne in
+probably due to Humfray Cole and published in 1578 by William [[Bourne]] in
 his _Inventions and Devices_, it was proposed to register a ship's speed
 by means of a "little small close boat," with a wheel, or wheels, and an
 axle-tree to turn clockwork in the little boat, with dials and pointers
-indicating fathoms, leagues, scores of leagues and hundreds of leagues.
-About 1668 Dr R. Hooke showed some members of the Royal Society an
+indicating [[Fathom|fathoms]], leagues, scores of leagues and hundreds of leagues.
+About 1668 Dr R. [[Hooke]] showed some members of the Royal Society an
 instrument for the same purpose, depending on a vane or fly which
-rotated as the vessel progressed (Birch, _History of the Royal Society_,
-iv. 231), and Sir Isaac Newton in 1715 reported unfavourably on the
+rotated as the vessel progressed ([[Birch]], _History of the Royal Society_,
+iv. 231), and Sir [[Isaac]] Newton in 1715 reported unfavourably on the
 "marine surveyor" of Henry de Saumarez, which also depended on a
 rotator. Conradus Mel in his _Antiquarius Sacer_ (1719) described a
 "pantometron nauticum" which he claimed would show without calculation
@@ -43,15 +43,15 @@ a radius of 5 or 6 in., the circumference of which is weighted with lead
 to keep it upright and retard its passage through the water. Two holes
 are made near its lower angles. One end of a short piece of thin line is
 passed through one of these holes, and knotted; the other end has
-spliced to it a hard bone peg which is inserted in the other hole. The
+spliced to it a hard [[Bone|bone]] peg which is inserted in the other hole. The
 holes are so placed that the log-ship will hang square from the span
 thus formed. The log-line is secured to this span and consists of two
 parts. The portion nearest the log-ship is known as the "stray line";
 its length varies from 10 to 20 fathoms, but should be sufficient to
 ensure that the log-ship shall be outside the disturbing element of the
 ship's wake. The point where it joins the other part is marked by a
-piece of bunting, and the line from this point towards its other end is
-marked at known intervals with "knots," which consist of pieces of cord
+piece of [[Bunting|bunting]], and the line from this point towards its other end is
+marked at known intervals with "[[Knot|knots]]," which consist of pieces of cord
 worked in between its strands. A mean degree of the meridian being
 assumed to be 69.09 statute miles of 5280 ft., the nautical mile (1/60
 degree) is taken as 6080 ft., which is a sufficiently close
@@ -103,10 +103,10 @@ making over the ground.
 
 [Illustration: FIG. 3.--The A1 Harpoon Ship Log.]
 
-_Patent Log._--The screw or rotatory log of Edward Massey, invented in
+_Patent Log._--The screw or rotatory log of Edward [[Massey]], invented in
 1802, came into general use in 1836 and continued until 1861. The
 registering wheelwork was contained in a shallow rectangular box (fig.
-2), with a float plate on its upper side, carrying three indicating
+2), with a [[Float|float]] plate on its upper side, carrying three indicating
 dials, recording respectively fractions, units and tens of miles (up to
 a hundred). The rotator was connected to the log by a rope 6 ft. in
 length, actuating a universal joint on the first spindle of the
@@ -115,8 +115,8 @@ fore-end, carrying flat metal vanes set at an angle. Alexander Bain in
 1846 suggested enclosing the wheelwork in the rotator. In Thomas
 Walker's harpoon or frictionless log, introduced in 1861, the wheelwork
 was enclosed in a cylindrical case of the same diameter as the body of
-the rotator or fan, and the latter was brought close up to the register,
-forming a compact machine and avoiding the use of the 6-ft. line. Two
+the rotator or [[Fan|fan]], and the latter was brought close up to the register,
+forming a compact [[Machine|machine]] and avoiding the use of the 6-ft. line. Two
 years later a heart-shaped float plate was attached to the case, and the
 log called the A1 Harpoon ship log (fig. 3). The log should be washed in
 fresh water when practicable, to prevent oxidization of the wheels, and
@@ -132,7 +132,7 @@ consulted from the deck, and from which the distance run under varying
 speeds could be quickly ascertained. To meet this requirement, Walker in
 1878 introduced the Cherub log (fig. 4), a taffrail one, which, however,
 is not as a rule used for speeds over 18 knots. Owing to the increased
-friction produced by a rotator making approximately 900 revolutions per
+[[Friction|friction]] produced by a rotator making approximately 900 revolutions per
 mile, towed at the end of a line varying from 40 fathoms for a 12-knot
 speed to 60 fathoms for 20 knots, the pull of the line and rotator is
 borne by coned rollers, having their outlines tapering to a common point
@@ -142,7 +142,7 @@ secured to the taffrail, and the rotator in the water is hooked to the
 eye of the spindle M by the hook D. The case A contains the registering
 wheelwork and a sounding bell. The half gimbal B pivoting in the socket
 of the base C allows the register to receive the strain in the direct
-line. The bearings and rollers are lubricated with castor oil every
+line. The bearings and rollers are lubricated with [[Castor Oil|castor oil]] every
 twelve hours through holes in the sliding case E, and can be examined by
 unscrewing the case E and the eye M. When not in use, the register is
 removed from the shoe by lifting a small screw button near C. The tow

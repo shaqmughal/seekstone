@@ -31,13 +31,13 @@ of Haakon III., who died shortly before the former's birth in 1204. A
 year later the child was placed under the protection of King Inge, after
 whose death in 1217 he was chosen king; though until 1223 the church
 refused to recognize him, on the ground of illegitimacy, and the Pope's
-dispensation for his coronation was not gained until much later. In the
+[[Dispensation|dispensation]] for his [[Coronation|coronation]] was not gained until much later. In the
 earlier part of his reign much of the royal power was in the hands of
 Earl Skule, who intrigued against the king until 1239, when he proceeded
 to open hostility and was put to death. From this time onward Haakon's
 reign was marked by more peace and prosperity than Norway had known for
 many years, until in 1263 a dispute with the Scottish king concerning
-the Hebrides, a Norwegian possession, induced Haakon to undertake an
+the [[Hebrides]], a Norwegian possession, induced Haakon to undertake an
 expedition to the west of Scotland. A division of his army seems to have
 repulsed a large Scottish force at Largs (though the later Scottish
 accounts claim this battle as a victory), and, having won back the
@@ -45,7 +45,7 @@ Norwegian possessions in Scotland, Haakon was wintering in the Orkneys,
 when he was taken ill and died on the 15th of December 1263. A great
 part of his fleet had been scattered and destroyed by storms. The most
 important event in his reign was the voluntary submission of the
-Icelandic commonwealth. Worn out by internal strife fostered by Haakon's
+Icelandic [[Commonwealth|commonwealth]]. Worn out by internal strife fostered by Haakon's
 emissaries, the Icelandic chiefs acknowledged the Norwegian king as
 overlord in 1262. Their example was followed by the colony of Greenland.
 

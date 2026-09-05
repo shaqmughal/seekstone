@@ -19,21 +19,21 @@ origin in the fact that captains appointed to a ship of twenty guns and
 upwards were included in, or "posted" on, the permanent list of captains
 from among whom the admirals were chosen. The captain of the fleet is an
 officer who acts as chief of the staff to an admiral commanding a large
-force. The position is equivalent to flag rank, but is held by a
+force. The position is equivalent to [[Flag|flag]] rank, but is held by a
 captain. Staff captain is the highest grade of the officers entrusted
 with the nayigation of a ship or fleet.
 
 The military rank of captain (Fr. _capitaine_, Ger. _Hauptmann_, or in
-the cavalry, _Rittmeister_), which was formerly the title of an officer
+the [[Cavalry|cavalry]], _Rittmeister_), which was formerly the title of an officer
 of high rank corresponding to the modern general officer or colonel, has
-with the gradual subdivision and articulation of armies, come to be
-applied to the commanders of companies or squadrons, and in general to
+with the [[Gradual|gradual]] subdivision and articulation of armies, come to be
+applied to the [[Commander|commanders]] of companies or squadrons, and in general to
 officers of the grade equivalent to this command (see OFFICERS).
 
 The title of "captain-general" was formerly used in the general sense of
 a military commander-in-chief, and is still similarly used in Spain. In
 the Spanish army there are eight captains-general, each of whom has
-command of a "region" corresponding to an army corps district. The same
+command of a "region" corresponding to an army [[Corps|corps]] district. The same
 title was formerly given to the Spanish governors of the colonial
 provinces in the New World. The official title of the governor of
 Jamaica is "captain-general and governor-in-chief."

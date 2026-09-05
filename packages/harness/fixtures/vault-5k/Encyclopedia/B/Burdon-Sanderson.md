@@ -37,7 +37,7 @@ utmost bitterness by Sanderson's opponents, the anti-vivisectionists
 including E.A. Freeman, John Ruskin and Bishop Mackarness of Oxford.
 Ultimately the money was granted by 412 to 244 votes. In 1895 Sanderson was
 appointed regius professor of medicine at Oxford, resigning the post in
-1904; in 1899 he was created a baronet. His attainments, both in biology
+1904; in 1899 he was created a baronet. His attainments, both in [[Biology|biology]]
 and medicine, brought him many honours. He was Croonian lecturer to the
 Royal Society in 1867 and 1877 and to the Royal College of Physicians in
 1891; gave the Harveian oration before the College of Physicians in 1878;

@@ -8,12 +8,12 @@ tags: [theology-studies, natural-history]
 # Malonic Acid
 
 MALONIC ACID, C3H4O4 or CH2(COOH)2, occurs in the form of its calcium
-salt in the sugar beet. It was first prepared in 1858 by V. Dessaignes,
+salt in the sugar [[Beet|beet]]. It was first prepared in 1858 by V. Dessaignes,
 who obtained it by oxidizing malic acid (_Ann._, 1858, 107, p. 251). It
 may also be obtained by oxidizing allylene and propylene with cold
 potassium permanganate solution, by the hydrolysis of barbituric acid
 (malonyl urea) with alkalis (A. Baeyer, _Ann._, 1864, 130, p. 143); by
-the hydrolysis of cyanacetic acid (H. Kolbe, _Ann._, 1864, 131, p. 349;
+the hydrolysis of cyanacetic acid (H. [[Kolbe]], _Ann._, 1864, 131, p. 349;
 H. Muller, _Ann._, 1864, 131, p. 352), and by the action of silver oxide
 on [beta]-di-chloracrylic ester at 125° C. (O. Wallach, _Ann._, 1878,
 193, P. 25)
@@ -37,7 +37,7 @@ CO2) R·CH:CH·COOH.
   of malonic acid have been prepared, the most important being the
   _diethyl ester_ (_malonic ester_), CH2(COOC2H5)2, which is obtained by
   dissolving monochloracetic acid in water, neutralizing the solution
-  with potassium carbonate, and then adding potassium cyanide and
+  with potassium carbonate, and then adding potassium [[Cyanide|cyanide]] and
   warming the mixture until the reaction begins. When the reaction has
   finished, the whole is evaporated and heated to about 130°-140° C. and
   then allowed to cool. The mass is then covered with two-thirds of its

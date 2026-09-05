@@ -1,6 +1,6 @@
 # Lake City
 
-LAKE CITY, a town and the county-seat of Columbia county, Florida,
+LAKE CITY, a town and the county-seat of [[Columbia]] county, Florida,
 U.S.A., 59 m. by rail W. by S. of Jacksonville. Pop. (1900) 4013, of
 whom 2159 were negroes; (1905) 6509; (1910) 5032. Lake City is served by
 the Atlantic Coast Line, the Seaboard Air Line and the Georgia Southern

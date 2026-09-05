@@ -10,7 +10,7 @@ tags: [physics-studies, religion]
 GLADBACH, the name of two towns in Germany distinguished as
 Bergisch-Gladbach and Munchen-Gladbach.
 
-1. BERGISCH-GLADBACH is in Rhenish Prussia, 8 m. N.E. of Cologne by
+1. BERGISCH-GLADBACH is in Rhenish Prussia, 8 m. N.E. of [[Cologne]] by
 rail. Pop. (1905) 13,410. It possesses four large paper mills and among
 its other industries are paste-board, powder, percussion caps, nets and
 machinery. Ironstone, peat and lime are found in the vicinity. The town
@@ -24,13 +24,13 @@ on the main line of railway to Aix-la-Chapelle. Pop. (1885) 44,230;
 (1905) 60,714. It is one of the chief manufacturing places in Rhenish
 Prussia, its principal industries being the spinning and weaving of
 cotton, the manufacture of silks, velvet, ribbon and damasks, and dyeing
-and bleaching. There are also tanneries, tobacco manufactories, machine
+and [[Bleaching|bleaching]]. There are also tanneries, tobacco manufactories, [[Machine|machine]]
 works and foundries. The town possesses a fine park and has statues of
 the emperor William I. and of Prince Bismarck. There are ten Roman
 Catholic churches here, among them being the beautiful minster, with a
-Gothic choir dating from 1250, a nave dating from the beginning of the
+[[Gothic]] [[Choir|choir]] dating from 1250, a nave dating from the beginning of the
 13th century and a crypt of the 8th century. The town has two hospitals,
-several schools, and is the headquarters of important insurance
+several schools, and is the headquarters of important [[Insurance|insurance]]
 societies. Gladbach existed before the time of Charlemagne, and a
 Benedictine monastery was founded near it in 793. It was thus called
 Munchen-Gladbach or Monks' Gladbach, to distinguish it from another town

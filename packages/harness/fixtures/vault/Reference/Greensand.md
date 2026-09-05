@@ -10,26 +10,26 @@ id: 42-6016
 
 GREENSAND, in geology, the name that has been applied to no fewer than
 three distinct members of the Cretaceous System, viz. the Upper
-Greensand (see GAULT), the Lower Greensand and the so-called Cambridge
+Greensand (see [[Gault|GAULT]]), the Lower Greensand and the so-called Cambridge
 Greensand, a local phase of the base of the Chalk (q.v.). The term was
 introduced by the early English geologists for certain sandy rocks which
 frequently exhibited a greenish colour on account of the presence of
-minute grains of the green mineral glauconite. Until the fossils of
+minute grains of the green mineral [[Glauconite|glauconite]]. Until the fossils of
 these rocks came to be carefully studied there was much confusion
 between what is now known as the Upper Greensand (Selbornian) and the
 Lower Greensand. Here we shall confine our attention to the latter.
 
-The Lower Greensand was first examined in detail by W. H. Fitton
+The Lower Greensand was first examined in detail by W. H. [[Fitton]]
 (_Q.J.G.S._ iii., 1847), who, in 1845, had proposed the name "Vectine"
 for the formation. The name was revived under the form "Vectian" in 1885
 by A. J. Jukes-Browne, because, although sands and sandstones prevail,
 the green colour has often changed by oxidation of the iron to various
 shades of red and brown, and other lithological types, clays and
-limestones represent this horizon in certain areas. The Lower Greensand
+[[Limestone|limestones]] represent this [[Horizon|horizon]] in certain areas. The Lower Greensand
 is typically developed in the Wealden district, in the Isle of Wight, in
 Dorsetshire about Swanage, and it appears again beneath the northern
 outcrop of the Chalk in Berkshire, Oxfordshire and Bedfordshire, and
-thence it is traceable through Norfolk and Lincolnshire into east
+thence it is traceable through Norfolk and [[Lincolnshire]] into east
 Yorkshire. It rests conformably upon the Wealden formation in the south
 of England, but it is clearly separable from the beds beneath by the
 occurrence of marine fossils, and by the fact that there is a marked
@@ -42,9 +42,9 @@ In the Wealden area the Lower Greensand has been subdivided as follows,
 although the several members are not everywhere recognizable:--
 
                                            Isle of Wight.
-  Folkestone Beds (70-100 ft.)    Carstone and Sand rock series.
+  [[Folkestone]] Beds (70-100 ft.)    Carstone and Sand rock series.
   Sandgate Beds (75-100 ft.)      Ferruginous Sands (Shanklin sands).
-  Hythe Beds (80-300 ft.)         Ferruginous Sands (Walpen sands).
+  [[Hythe]] Beds (80-300 ft.)         Ferruginous Sands (Walpen sands).
   Atherfield Clay (20-90 ft.)     Atherfield Clay.
 
 The Atherfield Clay is usually a sandy clay, fossiliferous. The basal
@@ -59,8 +59,8 @@ frequently contains layers of chert (known as Sevenoaks stone near that
 town). The sandy portions are very variable; the stone is often clayey
 and calcareous and rarely hard enough to make a good building stone;
 locally it is called "hassock" (or Calkstone). The two stones are well
-exposed in the Iguanodon Quarry near Maidstone (so called from the
-discovery of the bones of that reptile). Southwest of Dorking sandstone
+exposed in the [[Iguanodon]] Quarry near [[Maidstone]] (so called from the
+discovery of the [[Bone|bones]] of that reptile). Southwest of [[Dorking]] sandstone
 and grit become more prevalent, and it is known there as "Bargate
 stone," much used around Godalming. Pulborough stone is another local
 sandstone of the Hythe beds. Fuller's earth occurs in parts of this
@@ -78,12 +78,12 @@ but a ferruginous grit, "carstone," occurs in lenticular masses and
 layers, which is used for road metal at Pulborough, Fittleworth, &c.
 
 The Lower Greensand usually forms picturesque, healthy country, as about
-Leith Hill, Hindhead, Midhurst, Petworth, at Woburn, or at Shanklin and
+[[Leith]] Hill, Hindhead, Midhurst, Petworth, at Woburn, or at Shanklin and
 Sandown in the Isle of Wight. Outside the southern area the Lower
-Greensand is represented by the Faringdon sponge-bearing beds in
+Greensand is represented by the [[Faringdon]] sponge-bearing beds in
 Berkshire, the Sandy and Potton beds in Bedfordshire, the Shotover iron
 sands of Oxfordshire, the sands and fuller's earth of Woburn, the
-Leighton Buzzard sands, the brick clays of Snettisham, and perhaps the
+[[Leighton Buzzard]] sands, the [[Brick|brick]] clays of Snettisham, and perhaps the
 Sandringham sands of Norfolk, and the carstone of that county and
 Lincolnshire. The upper ironstone, limestone and clay of the
 Lincolnshire Tealby beds appear to belong to this horizon along with the
@@ -95,7 +95,7 @@ iron ore at Seend.
 
 This formation is continuous across the channel into France, where it is
 well developed in Boulonnais. According to the continental
-classification the Atherfield Clay is equivalent to the Urgonian or
+[[Classification|classification]] the Atherfield Clay is equivalent to the Urgonian or
 Barremian; the Sandgate and Hythe beds belong to the Aptian (q.v.);
 while the upper part of the Folkestone beds would fall within the lower
 Albian (q.v.).

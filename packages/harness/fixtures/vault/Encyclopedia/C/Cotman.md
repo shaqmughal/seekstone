@@ -24,7 +24,7 @@ great figures of the Norwich school. He was a fine draughtsman, and a
 remarkable painter both in oil and water-colour. One of his paintings is
 in the National Gallery. His fine architectural etchings, published in a
 series of volumes, the result of tours in Norfolk and Normandy, are
-valuable records of his interest in archaeology. He married early in
+valuable records of his interest in [[Archaeology|archaeology]]. He married early in
 life, and had five children, his sons, Miles Edmund (1810-1858) and
 Joseph John (1814-1878), both becoming landscape-painters of merit; and
 his younger brother Henry's son, Frederic George Cotman (b. 1850), the

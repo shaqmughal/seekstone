@@ -1,6 +1,6 @@
 # Eyemouth
 
-EYEMOUTH, a police burgh of Berwickshire, Scotland. Pop. (1901) 2436. It
+EYEMOUTH, a police burgh of [[Berwickshire]], Scotland. Pop. (1901) 2436. It
 is situated at the mouth of the Eye, 7½ m. N.N.W. of Berwick-on-Tweed by
 the North British railway via Burnmouth. Its public buildings are the
 town hall, library and masonic hall. The main industry is the fishing

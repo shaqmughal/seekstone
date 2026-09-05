@@ -2,9 +2,9 @@
 
 GILBERT DE LA PORREE, frequently known as Gilbertus Porretanus or
 Pictaviensis (1070-1154); scholastic logician and theologian, was born
-at Poitiers. He was educated under Bernard of Chartres and Anselm of
+at Poitiers. He was educated under [[Bernard]] of Chartres and Anselm of
 Laon. After teaching for about twenty years in Chartres, he lectured on
-dialectics and theology in Paris (from 1137), and in 1141 returned to
+[[Dialectic|dialectics]] and theology in Paris (from 1137), and in 1141 returned to
 Poitiers, being elected bishop in the following year. His heterodox
 opinions regarding the doctrine of the Trinity drew upon his works the
 condemnation of the church. The synod of Reims in 1148 procured papal
@@ -17,9 +17,9 @@ his death on the 4th of September 1154. Gilbert is almost the only
 logician of the 12th century who is quoted by the greater scholastics of
 the succeeding age. His chief logical work, the treatise _De sex
 principiis_, was regarded with a reverence almost equal to that paid to
-Aristotle, and furnished matter for numerous commentators, amongst them
+[[Aristotle]], and furnished matter for numerous commentators, amongst them
 Albertus Magnus. Owing to the fame of this work, he is mentioned by
-Dante as the _Magister sex principiorum_. The treatise itself is a
+[[Dante]] as the _Magister sex principiorum_. The treatise itself is a
 discussion of the Aristotelian categories, specially of the six
 subordinate modes. Gilbert distinguishes in the ten categories two
 classes, one essential, the other derivative. Essential or inhering
@@ -46,11 +46,11 @@ ideas perpetual, God eternal. The pure form of existence, that by which
 God is God, must be distinguished from the three persons who are God by
 participation in this form. The form or essence is one, the persons or
 substances three. It was this distinction between Deitas or Divinitas
-and Deus that led to the condemnation of Gilbert's doctrine.
+and [[Deus]] that led to the condemnation of Gilbert's doctrine.
 
   _De sex principiis_ and commentary on the _De Trinitate_ in Migne,
   _Patrologia Latina_, lxiv. 1255 and clxxxviii. 1257; see also Abbe
-  Berthaud, _Gilbert de la Porree_ (Poitiers, 1892); B. Haureau, _De la
+  Berthaud, _Gilbert de la Porree_ (Poitiers, 1892); B. [[Haureau]], _De la
   philosophie scolastique_, pp. 294-318; R. Schmid's article "Gilbert
   Porretanus" in Herzog-Hauck, _Realencyk. f. protest. Theol._ (vol. 6,
   1899); Prantl, _Geschichte d. Logik_, ii. 215; Bach,

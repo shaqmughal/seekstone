@@ -8,7 +8,7 @@ enjoy the pleasures of the chase. The earliest struggles between the
 king and the people testify to the extent to which this prerogative
 became a public grievance, and the charter by which its exercise was
 bounded (Carta de Foresta) was in substance part of the greatest
-constitutional code imposed by his barons upon King John. At common law
+constitutional [[Code|code]] imposed by his barons upon King John. At common law
 it appears to have been the right of the king to make a forest where he
 pleased, provided that certain legal formalities were observed. The king
 having a continual care for the preservation of the realm, and for the
@@ -37,7 +37,7 @@ justiceable. An offender in a chase is to be punished by the common law;
 an offender in a forest by the forest law. A chase is much the same as a
 park, only the latter is enclosed, and all of them are distinguished
 according to the class of wild beasts to which the privilege extended.
-Thus beasts of forest (the "five wild beasts of venery") were the hart,
+Thus beasts of forest (the "five wild beasts of venery") were the [[Hart|hart]],
 the hind, the hare, the boar and the wolf. The beasts of chase were also
 five, viz. the buck, the doe, the fox, the marten and the roe. The
 beasts and fowls of warren were the hare, the coney, the pheasant and
@@ -56,7 +56,7 @@ laws may be tried, but no judgment or punishment follows. This is
 reserved for the justice-seat, held every third year, to which the rolls
 of offences presented at the court of attachment, and tried at the
 swainmote, are presented by verderers. The justice-seat is the court of
-the chief justice in eyre, who, says Coke, "is commonly a man of greater
+the chief justice in [[Eyre|eyre]], who, says Coke, "is commonly a man of greater
 dignity than knowledge of the laws of the forests; and therefore where
 justice-seats are to be held some other persons whom the king shall
 appoint are associated with him, who together are to determine _omnia
@@ -64,7 +64,7 @@ placita forestae_." There were two chief justices for the forests
 _intra_ and _ultra Trentam_ respectively. The necessary officers of a
 forest are a steward, verderers, foresters, regarders, agisters and
 woodwards. The verderer was a judicial officer chosen in full county by
-the freeholders in the same manner as the coroner. His office was to
+the freeholders in the same manner as the [[Coroner|coroner]]. His office was to
 view and receive the attachments of the foresters, and to mark them on
 his rolls. A forester was "an officer sworn to preserve the vert and
 venison in the forest, and to attend upon the wild beasts within his
@@ -100,7 +100,7 @@ the reign of John. The Great Charter of King John contains clauses
 relating to the forest laws, but no separate charter of the forest. The
 first charter of the forest is that of Henry III., issued in 1217. "As
 an important piece of legislation," said Stubbs,[3] "it must be compared
-with the forest assize of 1184, and with 44th, 47th and 48th clauses of
+with the forest [[Assize|assize]] of 1184, and with 44th, 47th and 48th clauses of
 the charter of John. It is observable that most of the abuses which are
 remedied by it are regarded as having sprung up since the accession of
 Henry II.; but the most offensive afforestations have been made under
@@ -115,7 +115,7 @@ existed only for the owner of the lands; as to all other persons the
 land was forest still, and the king's wild beasts were to "have free
 recourse therein and safe return to the forest, without any hurt or
 destruction other than by the owners of the lands in the purlieu where
-they shall be found, and that only to hunt and chase them back again
+they shall be found, and that only to [[Hunt|hunt]] and chase them back again
 towards the forest without any forestalling" (Manwood, _On the Forest
 Laws_--article "Purlieu").
 
@@ -147,8 +147,8 @@ FOOTNOTES:
 
 
 FORESTS AND FORESTRY. Although most people know what a forest (Lat.
-_foris_, "out of doors") is, a definition of it which suits all cases is
-by no means easy to give. Manwood, in his treatise of the _Lawes of the
+_foris_, "out of doors") is, a [[Definition|definition]] of it which suits all cases is
+by no means easy to give. Manwood, in his treatise of the _[[Lawes]] of the
 Forest_ (1598), defines a forest as "a certain territory of woody
 grounds, fruitful pastures, privileged for wild beasts and fowls of
 forest, chase and warren, to rest and abide in, in the safe protection
@@ -181,27 +181,27 @@ It will readily be understood that the distribution and character of the
 now remaining forests must differ enormously (see PLANTS:
 _Distribution_). Large portions of the earth are still covered with
 dense masses of tall trees, while others contain low scrub or grass
-land, or are desert. As a general rule, natural forests consist of a
+land, or are [[Desert|desert]]. As a general rule, natural forests consist of a
 number of different species intermixed; but in some cases certain
 species, called gregarious, have succeeded in obtaining the upper hand,
 thus forming more or less pure forests of one species only. The number
 of species differs very much. In many tropical forests hundreds of
 species may be found on a comparatively small area, in other cases the
-number is limited. Burma has several thousand species of trees and
+number is limited. [[Burma]] has several thousand species of trees and
 shrubs, Sind has only ten species of trees. Central Europe has about
 forty species, and the greater part of northern Russia, Sweden and
 Norway contains forests consisting of about half a dozen species.
-Elevation above the sea acts similarly to rising latitude, but the
+Elevation above the sea acts similarly to rising [[Latitude|latitude]], but the
 effect is much more rapidly produced. Generally speaking, it may be said
 that the Tropics and adjoining parts of the earth, wherever the climate
 is not modified by considerable elevation, contain broad-leaved species,
 palms, bamboos, &c. Here most of the best and hardest timbers are found,
 such as teak, mahogany and ebony. The northern countries are rich in
 conifers. Taking a section from Central Africa to North Europe, it will
-be found that south and north of the equator there is a large belt of
+be found that south and north of the [[Equator|equator]] there is a large belt of
 dense hardwood forest; then comes the Sahara, then the coast of the
 Mediterranean with forests of cork oak; then Italy with oak, olive,
-chestnut, gradually giving place to ash, sycamore, beech, birch and
+chestnut, gradually giving place to ash, sycamore, beech, [[Birch|birch]] and
 certain species of pine; in Switzerland and Germany silver fir and
 spruce gain ground. Silver fir disappears in central Germany, and the
 countries around the Baltic contain forests consisting chiefly of Scotch
@@ -222,17 +222,17 @@ the sea, of pines, larches, fir, Thujas and Tsugas. In Japan a tropical
 vegetation is found in the south, comprising palms, figs, ebony,
 mangrove and others. This is followed on proceeding north by subtropical
 forests containing evergreen oaks, _Podocarpus_, tree-ferns, and, at
-higher elevations, _Cryptomeria_ and _Chamaecyparis_. Then follow
+higher elevations, _[[Cryptomeria]]_ and _Chamaecyparis_. Then follow
 deciduous broad-leaved forests, and finally firs, spruces and larches.
 In India the character of the forests is governed chiefly by rainfall
 and elevation. Where the former is heavy evergreen forests of
-Guttiferae, Dipterocarpeae, Leguminosae, Euphorbias, figs, palms, ferns,
+Guttiferae, Dipterocarpeae, Leguminosae, [[Euphorbia|Euphorbias]], figs, palms, ferns,
 bamboos and india-rubber trees are found. Under a less copious rainfall
 deciduous forests appear, containing teak and sal (_Shorea robusta_) and
 a great variety of other valuable trees. Under a still smaller rainfall
 the vegetation becomes sparse, containing acacias, _Dalbergia sissoo_
 and Tamarix. Where the rainfall is very light or _nil_, desert appears.
-In the Himalayas, subtropical to arctic conditions are found, the
+In the [[Himalaya|Himalayas]], subtropical to [[Arctic|arctic]] conditions are found, the
 forests containing, according to elevation, pines, firs, deodars, oaks,
 chestnuts, magnolias, laurels, rhododendrons and bamboos. Australia,
 again, has its own particular flora of eucalypts, of which some two
@@ -275,10 +275,10 @@ separating the effect of forests from that of other factors. (4) They
 help to regulate the water supply, produce a more sustained feeding of
 springs, tend to reduce violent floods, and render the flow of water in
 rivers more continuous. (5) They assist in preventing denudation,
-erosion, landslips, avalanches, the silting up of rivers and low lands
+erosion, landslips, [[Avalanche|avalanches]], the silting up of rivers and low lands
 and the formation of sand dunes. (6) They reduce the velocity of
 air-currents, protect adjoining fields against cold or dry winds, and
-afford shelter to cattle, game and useful birds. (7) They may, under
+afford shelter to cattle, [[Game|game]] and useful birds. (7) They may, under
 certain conditions, improve the healthiness of a country, and help in
 its defence. (8) They increase the beauty of a country, and produce a
 healthy aesthetic influence upon the people.
@@ -311,7 +311,7 @@ various industries. The yield of fodder is of the utmost importance in
 countries subject to periodic droughts; in many places field crops could
 not be grown successfully without the leaf-mould and brushwood taken
 from the forests. As regards industries, attention need only be drawn to
-such articles as commercial fibre, tanning materials, dye-stuffs, lac,
+such articles as commercial fibre, tanning materials, dye-stuffs, [[Lac|lac]],
 turpentine, resin, rubber, gutta-percha, &c. Great Britain and Ireland
 alone import every year such materials to the value of L12,000,000, half
 of this being represented by rubber.
@@ -386,7 +386,7 @@ The subjoined table shows the forests of various European states:--
   |   Finland        | 518,000,000 |     40     |     61     |    5.9     |
   | Bosnia and       |             |            |            |            |
   |   Herzegovina    |   6,400,000 |     50     |     78     |    4.0     |
-  | Bulgaria         |   7,600,000 |     30     |     30     |    2.3     |
+  | [[Bulgaria]]         |   7,600,000 |     30     |     30     |    2.3     |
   | Turkey           |  11,200,000 |     20     |     . .    |    1.7     |
   | Servia           |   3,900,000 |     32     |     37     |    1.5     |
   | Rumania          |   6,400,000 |     18     |     40     |    1.3     |
@@ -400,7 +400,7 @@ The subjoined table shows the forests of various European states:--
   | France           |  24,000,000 |     18     |     12     |     .6     |
   | Italy            |  10,400,000 |     15     |      4     |     .3     |
   | Denmark          |     600,000 |      6     |     24     |     .25    |
-  | Belgium          |   1,300,000 |     18     |      5     |     .2     |
+  | [[Belgium]]          |   1,300,000 |     18     |      5     |     .2     |
   | Portugal         |     770,000 |      3.5   |      8     |     .15    |
   | Holland          |     560,000 |      7     |      ?     |     .1     |
   | Great Britain    |   3,000,000 |      4     |      3     |     .07    |
@@ -426,7 +426,7 @@ the government of the country need not, as a rule, trouble itself to
 maintain or acquire forests. Where the reverse conditions exist, and
 especially where the cost of transport over long distances becomes
 prohibitive, a wise administration will take measures to assure the
-maintenance of a suitable proportion of the country under forest. This
+[[Maintenance|maintenance]] of a suitable proportion of the country under forest. This
 can be done either by maintaining or constituting a suitable area of
 state forests, or by exercising a certain amount of control over
 corporation and even private forests. Such measures are more called for
@@ -446,7 +446,7 @@ Portugal, Spain and Italy are all importing countries, as also are Asia
 Minor, Egypt and Algeria. The west coast of Africa exports hardwoods,
 and imports coniferous timber. The Cape and Natal import considerable
 quantities of pine and fir wood. Australasia exports hardwoods and some
-Kauri pine from New Zealand, but imports larger quantities of light pine
+[[Kauri Pine|Kauri pine]] from New Zealand, but imports larger quantities of light pine
 and fir timber. British India and Siam export teak and small quantities
 of fancy woods. The West Indies and South America export hardwoods, and
 import pine and fir wood. The United States of America will not much
@@ -573,7 +573,7 @@ economy was brought to bear upon the subject, so that now forestry has
 become a special science. This is recognized in many countries, amongst
 which Germany stands first, closely followed by France, Austria, Denmark
 and Belgium. Of non-European countries the palm belongs to British
-India, and then follow Ceylon, the Malay States, the Cape of Good Hope
+India, and then follow Ceylon, the [[Malay States]], the Cape of Good Hope
 and Japan. The United States of America have also turned their attention
 to the subject. Most of the British colonies are, in this respect, as
 yet in a backward state, and the matter has still to be fought out in
@@ -605,15 +605,15 @@ birches, beech and oak, are the chief woods met with. Until
 comparatively recent times large quantities of timber derived from these
 forests were floated down the Rhine to Holland and also shipped to
 England. Now the greater part of it is used locally for construction, or
-it is converted into paper pulp. In the grand-duchy of Hesse the
+it is converted into paper pulp. In the grand-duchy of [[Hesse]] the
 Odenwald range of mountains, stretching between the Main and the Neckar,
 contains the chief supply of timber. In the province of Nassau there are
 the large wooded tracts of the Taunus mountain range and the Westerwald.
 
-In Rhenish Prussia valuable forests lie partly in the Eifel, on the
+In Rhenish Prussia valuable forests lie partly in the [[Eifel]], on the
 borders of Belgium, and on the mountains overhanging the Upper Moselle,
 but they do not furnish such stately trees as the Black Forest and the
-Odenwald. The Spessart, near Aschaffenburg in Bavaria, is one of the
+Odenwald. The Spessart, near [[Aschaffenburg]] in Bavaria, is one of the
 most extensive forests of middle Germany, containing large masses of
 fine oak and beech, with plantations of coniferous trees, such as
 spruce, Scotch pine and silver fir. Bavaria possesses other fine forest
@@ -643,7 +643,7 @@ In Baden: at Carlsruhe.
 
 In Hesse: at Giessen.
 
-In the grand-duchy of Saxony: at Eisenach.
+In the grand-duchy of Saxony: at [[Eisenach]].
 
 The schools at Munich, Tubingen and Giessen form part of the
 universities at these places; that at Carlsruhe is attached to the
@@ -658,8 +658,8 @@ the country; hence the net imports of timber amount already to 4,600,000
 tons a year, and they are steadily rising.
 
 _France._--The principal timber tree of France is the oak. The cork oak
-is grown extensively in the south and in Corsica. The beech, ash, elm,
-maple, birch, walnut, chestnut and poplar are all important trees, while
+is grown extensively in the south and in [[Corsica]]. The beech, ash, [[Elm|elm]],
+[[Maple|maple]], birch, walnut, chestnut and poplar are all important trees, while
 the silver fir and spruce form magnificent forests in the Vosges and
 Jura Mountains, and the Aleppo and maritime pines are cultivated in the
 south and south-west. About one-seventh of the entire territory is still
@@ -764,12 +764,12 @@ been formed with the object of supplying timber for the navy, consists
 of oak. The largest forests in Scotland are in Perthshire,
 Inverness-shire and Aberdeenshire. Of these the most notable are the
 earl of Mansfield's near Scone (8000 acres), the duke of Atholl's larch
-plantations near Dunkeld (10,000 acres), and in Strathspey a large
+plantations near [[Dunkeld]] (10,000 acres), and in Strathspey a large
 extent of Scotch pine, partly native, partly planted, belonging to the
 earl of Seafield. In the forests of Mar and Invercauld, the native pine
 attains a great size, and there are also large tracts of indigenous
 birch in various districts. Ireland was at one time richly clothed with
-wood; this is proved by the abundant remains of fallen trees in the bogs
+wood; this is proved by the abundant remains of fallen trees in the [[Bog|bogs]]
 which occupy a large surface of the island. In addition to the causes
 above alluded to as tending to disforest England, the long unsettled
 state of the country also conduced to the diminishing of the woodlands.
@@ -796,7 +796,7 @@ well-arranged working plans, which provide for a regular and sustained
 out-turn of timber year by year, so as to develop a healthy and steady
 market for locally-grown material. Unfortunately the private proprietors
 of the waste lands are in many cases not in a financial position to
-plant. Starting forests demands a certain outlay in cash, and the
+plant. Starting forests demands a certain outlay in [[Cash|cash]], and the
 proprietor must forgo the income, however small, hitherto derived from
 the land until the plantations begin to yield a return. In these
 circumstances the state may well be expected to help in one or all of
@@ -819,7 +819,7 @@ Ireland more than 3,000,000 acres are waiting to be utilized, and it is
 well worth the consideration of the Irish Land Commissioners whether the
 lands remaining on their hands, when buying and breaking up large
 estates, should not be converted into state forests. Such a measure
-might become a useful auxiliary in the peaceful settlement of the Irish
+might become a useful [[Auxiliary|auxiliary]] in the peaceful settlement of the Irish
 land question. No doubt success depends upon the probable financial
 results. There are at present no British statistics to prove such
 success; hence, by way of illustration, it may be stated what the
@@ -876,7 +876,7 @@ made in allowing the forests to be recklessly destroyed. Already in the
 early part of the 19th century sporadic efforts were made to protect the
 forests in various parts of the country, and these continued
 intermittently; but the first organized steps were taken about the year
-1855, when Lord Dalhousie was governor-general. At that time
+1855, when Lord [[Dalhousie]] was governor-general. At that time
 conservators of forests existed in Bombay, Madras and Burma. Soon
 afterwards other appointments followed, and in 1864 an organized state
 department, presided over by the inspector-general of forests, was
@@ -897,23 +897,23 @@ and the determination of their duties and liabilities. The officers who
 administered the department in its infancy were mostly botanists and
 military officers. Some of these became excellent foresters. In order to
 provide a technically trained staff arrangements were made in 1866 by
-Sir Dietrich Brandis, the first inspector-general of forests, for the
+Sir [[Dietrich]] Brandis, the first inspector-general of forests, for the
 training of young Englishmen at the French Forest School at Nancy and at
 similar institutions in Germany. In 1876 the students were concentrated
 at Nancy, and in 1885 an English forest school for India was organized
-in connexion with the Royal Indian Engineering College at Cooper's Hill.
+in connexion with the Royal Indian [[Engineering]] College at Cooper's Hill.
 In 1905 the school was transferred to the university of Oxford. The
 imperial forest staff of India consisted in 1909 of--officers not
 specially trained before entering the department, 17; officers trained
 in France and Germany, 23; officers trained at Cooper's Hill, 143--total
 184.
 
-In 1878 a forest school was started at Dehra Dun, United Provinces, for
+In 1878 a forest school was started at [[Dehra Dun]], United Provinces, for
 the training of natives of India as executive officers on the provincial
 staff. Since then a similar school, though on a smaller scale, has been
 established at Tharrawaddy in Burma. About 500 officers of this class
 have been appointed. In addition, there are about 11,000 subordinates,
-foresters and forest guards, who form the protective staff. The school
+foresters and forest [[Guards|guards]], who form the protective staff. The school
 at Dehra Dun has lately been converted into the Imperial Forest College.
 
 The progress made since 1864 is really astonishing. According to the
@@ -936,7 +936,7 @@ under the inspector-general of forests, was established. This officer
 has since then controlled the preparation and execution of the plans, a
 procedure which has led to most beneficial results. Plans referring to
 about 38,000 sq. m. are now (1909) in operation, and after a reasonable
-lapse of time there should not be a single forest of importance which is
+[[Lapse|lapse]] of time there should not be a single forest of importance which is
 not worked on a well-regulated plan, and on the principle of a sustained
 yield. While the danger of overworking the forests is thus being
 gradually eliminated, their yield capacity is increased by suitable
@@ -961,7 +961,7 @@ serious calamities of a famine--the want of cattle to cultivate the
 land--is thus, if not avoided, at any rate considerably reduced. During
 1907 the government of India established a Research Institute, with six
 members engaged in collecting data regarding silviculture, forest
-botany, forest zoology, forest economics, working plans, and chemistry
+botany, forest zoology, forest economics, working plans, and [[Chemistry|chemistry]]
 in connexion with forest produce and production. The institute is likely
 to lead to further substantial progress in the management of the
 forests.
@@ -987,7 +987,7 @@ The financial results of forest administration in India for the years
   +-----------+--------------+-----------------+
 
 The highest percentage of increase occurred in the period 1880-1885. The
-revenue since 1886 has been considerably increased by the annexation of
+revenue since 1886 has been considerably increased by the [[Annexation|annexation]] of
 Upper Burma.
 
 Apart from the net revenue, large quantities of produce are given free
@@ -998,7 +998,7 @@ total net benefit derived from the state forests during that year of Rs.
 14,562,755, or in round figures one million pounds sterling. The
 out-turn during the same year amounted to 252 million cub. ft. of timber
 and fuel and 215 million bamboos. The receipts from the sale of other
-forest produce came to 9 million rupees, out of a total gross revenue of
+forest produce came to 9 million rupees, out of a total [[Gross|gross]] revenue of
 24 million rupees.
 
 These results are highly creditable to the government of India, which
@@ -1013,7 +1013,7 @@ Canada and Australasia, where an enormous state property is threatened
 by destruction.
 
   LITERATURE.--The following works of special interest may be mentioned:
-  W. Schlich, _A Manual of Forestry_ (London) (vols. i., ii. and iii. by
+  W. Schlich, _A [[Manual]] of Forestry_ (London) (vols. i., ii. and iii. by
   W. Schlich; vols. iv. and v. by W.R. Fisher; 3rd ed. of vol. i., 1906,
   of vol. ii., 1904, of vol. iii., 1905; 2nd ed. of vol. iv., 1907; 2nd
   ed. of vol. v., 1908); Baden-Powell, _Forest Law_ (London, 1893);
@@ -1044,12 +1044,12 @@ The Eastern forest may conveniently be subdivided into three members:
 standing timber, and a comparative immunity, in its virgin condition,
 from fire. The characteristic trees are maples, birches and beech
 (_Fagus atropunicea_), among the hardwoods and white pine (_Pinus
-strobus_), spruce (_Picea rubens_ and _Picea mariana_) and hemlock
+strobus_), spruce (_Picea rubens_ and _Picea [[Mariana|mariana]]_) and hemlock
 (_Tsuga canadensis_) among conifers.
 
 2. The Southern forest is on the whole less dense than the Northern, and
 more frequently burned over. Among its characteristic trees are the
-longleaf (_Pinus palustris_) and other pines, oaks, gums, bald cypress
+longleaf (_Pinus palustris_) and other pines, oaks, [[Gum|gums]], bald [[Cypress|cypress]]
 (_Taxodium distichum_) and white cedar (_Chamaecyparis thyoides_).
 
 3. The Central Hardwood forest, which differs comparatively little from
@@ -1063,7 +1063,7 @@ The Western division has two members:
 the vast accumulations of merchantable timber. Among its characteristic
 species are the redwood (_Sequoia sempervirens_) and the big tree (_S.
 Washingtoniana_), the Douglas fir (_Pseudotsuga taxifolia_), sugar pine
-(_Pinus lambertiana_), western hemlock (_Tsuga heterophylla_), giant
+(_Pinus lambertiana_), western hemlock (_Tsuga heterophylla_), [[Giant|giant]]
 arborvitae (_Thuja plicata_) and Sitka spruce (_Picea sitchensis_).
 
 2. The Rocky Mountain forest, whose characteristic species are the
@@ -1120,10 +1120,10 @@ protection was unimportant. When, however, at the close of the Civil War
 railway building in the United States took on an unparalleled activity,
 the destruction of forests by fire and the axe increased in a
 corresponding ratio, and public sentiment began to take alarm. Action by
-several of the states slightly preceded that of the Federal government,
+several of the states slightly preceded that of the [[Federal Government|Federal government]],
 but in 1876 Congress, acting under the inspiration of a memorial from
 the American Association for the Advancement of Science, authorized the
-appointment of an officer (Dr Franklin B. Hough) under the commissioner
+appointment of an officer (Dr [[Franklin]] B. Hough) under the commissioner
 of agriculture, to collect and distribute information upon forest
 matters. His office became in 1880 the division of forestry in what is
 now the United States Department of Agriculture.
@@ -1153,7 +1153,7 @@ United States since that time could never have been made.
 
 Within a few months after the proclamation of the Cleveland reserves the
 present national forest policy took definite shape. Under this policy
-the national government holds and manages, in the common interest of all
+the national government holds and [[Manage|manages]], in the common interest of all
 users of the forests or its products, such portions of the public lands
 as have been set aside by presidential proclamation in accordance with
 the act of 1891. These lands are held against private acquisition under
@@ -1276,7 +1276,7 @@ president by the act of March 1891 has been repealed for the states of
 Washington, Oregon, Idaho, Montana, Wyoming and Colorado, but for no
 others.
 
-The Forest Service began in earnest the development of all the resources
+The Forest Service began in [[Earnest|earnest]] the development of all the resources
 of the national forests. Mature timber was sold wherever there was a
 demand for it and the permanent welfare of the forests and protection of
 the streams permitted, but always so as to prevent waste, guard against
@@ -1410,7 +1410,7 @@ national forests was their use for grazing. Stock-raising is one of the
 most important industries of the West. Formerly cattle and sheep grazed
 freely on all parts of the public domain. In the early days of the
 national forests the wisdom of permitting any grazing at all upon them
-was sharply questioned. Unrestricted grazing had led to friction between
+was sharply questioned. Unrestricted grazing had led to [[Friction|friction]] between
 individuals, the deterioration of much of the range through
 overstocking, and serious injury to the forests and stream flow. The
 forests of the West, however, are largely of open growth and contain
@@ -1480,7 +1480,7 @@ forests was 165 with a total area of 162,023,190 acres (on April 7,
 acres, besides two in Alaska with 26,761,626 and one in Porto Rico with
 65,950 acres). In charge of each forest is a forest supervisor. Under
 the supervisors are forest rangers and forest guards, whose duties
-include patrol, marking timber and scaling logs, enforcing the
+include patrol, marking timber and scaling [[Log|logs]], enforcing the
 regulations and conducting some of the minor business arising from the
 use of the forests. Guards are temporary employes; rangers are employed
 by the year. The supervisors report directly to and receive instructions
@@ -1515,7 +1515,7 @@ service is performed chiefly through publications, the purpose of which
 is to spread very widely a knowledge of the importance of forestry to
 the nation and of the principles upon which its practice rests. The
 investigations which the service conducts extend from studies of the
-natural distribution and classification of American forests and of their
+natural distribution and [[Classification|classification]] of American forests and of their
 varied silvicultural problems to statistics of lumber production and
 laboratory researches which bear upon the economical utilization of
 forest products. As examples of these researches may be mentioned tests
@@ -1536,9 +1536,9 @@ established a four-years' undergraduate course in forestry. The Biltmore
 Forest School in North Carolina, the oldest of all these schools, offers
 a one-year course in technical forestry. A large number of the
 agricultural colleges give instruction in forestry. Among these are
-Nebraska, Minnesota, Maine, Michigan, Washington and Mississippi
+Nebraska, Minnesota, [[Maine]], Michigan, Washington and Mississippi
 agricultural colleges, the university of Georgia and Iowa State College.
-Berea College, Kentucky, deserves special mention as a college which has
+[[Berea]] College, [[Kentucky]], deserves special mention as a college which has
 done valuable work in teaching forestry without attempting to turn out
 professional foresters.
 
@@ -1586,7 +1586,7 @@ different states, and by the territory of Hawaii:--
 
   Connecticut       1,360 acres
   Hawaii          117,532   "
-  Indiana           2,000   "
+  [[Indiana]]           2,000   "
   Maryland          3,540   "
   Michigan         39,000   "
   Minnesota        42,800   "
@@ -1639,7 +1639,7 @@ These two instances of forestry have been most useful and effective
 among lumbermen and other owners of forest land in the north-east. Among
 those which have followed their example are the Berlin Mills Paper
 Company in northern New Hampshire, the Cleveland Cliffs Iron Company in
-northern Michigan, and the Delaware and Hudson Railroad Company in New
+northern Michigan, and the Delaware and [[Hudson]] Railroad Company in New
 York, all of which have employed professional foresters.
 
 The most notable instance of forestry in the south is on the estate of
@@ -1652,7 +1652,7 @@ Railroad has recently employed a trained forester and several assistants
 and has undertaken systematic forestry on a large scale.
 
 The effect of the work of the forest service in assisting private owners
-is evidenced by the fact that down to the year 1908 670 wood lots and
+is evidenced by the fact that down to the year 1908 670 wood [[Lot|lots]] and
 timber tracts had been examined by agents of the forest service, of
 which 250 were tracts over 400 acres in extent, and planting plans had
 been made for 436 owners covering a total area of 80,000 acres. Expert
@@ -1679,7 +1679,7 @@ methods of lumbering. Rules of marked simplicity, the observance of
 which will yet secure the safety of the forest, must open the way for
 more refined methods in the future. For the present a periodic or
 irregular yield, temporary means of transport, constantly changing
-crews, and an almost total ignorance of the silvics of all but a few of
+crews, and an almost total [[Ignorance|ignorance]] of the silvics of all but a few of
 the most important trees--all combine to enforce the simplest
 silvicultural treatment and the utmost concentration of purpose on the
 two main objects of forestry, which are the production of a net revenue
@@ -1781,7 +1781,7 @@ whose wages were $66,434,000.
 All the operations of the lumber trade in the United States are
 controlled, and to no small degree determined, by the peculiar unit of
 measure which has been adopted. This unit, the board-foot, is generally
-defined as a board one foot long, one foot wide and one inch thick, but
+defined as a board one foot long, one foot wide and one [[Inch|inch]] thick, but
 in reality it is equivalent to 144 cub. in. of manufactured lumber in
 any form. To purchase logs by this measure one must first know about
 what each log will yield in one-inch boards. For this purpose a scale or
@@ -2001,7 +2001,7 @@ each year for railroad ties, telephone and other poles, piles, fence
 posts and fuel, and there is a great amount of waste in the course of
 lumbering and manufacture.
 
-  AUTHORITIES.--Sargent, _Silva of North America_ (Boston, 1891-1897),
+  AUTHORITIES.--Sargent, _Silva of North America_ ([[Boston]], 1891-1897),
   _Manual of Trees of North America_ (Boston, 1903); Lemmon, _Handbook
   of West American Cone-Bearers_ (San Francisco, 1895); Bruncken, _North
   American Forests and Forestry_ (New York, 1900); Fernow, _Economics of
@@ -2031,7 +2031,7 @@ FOOTNOTES:
   [2] Administration transferred to Bureau of Forestry, February 1,
     1905.
 
-  [3] Woods waste includes tops, stumps, cull logs and butts, but does
+  [3] Woods waste includes tops, stumps, cull logs and [[Butt|butts]], but does
     not include defective trees left or trees used for road purposes.
 
   [4] Mill waste includes bark, kerf, slabs and edgings.

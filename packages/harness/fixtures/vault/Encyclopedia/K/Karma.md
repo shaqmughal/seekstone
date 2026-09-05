@@ -4,11 +4,11 @@ KARMA, sometimes written KARMAN, a Sanskrit noun (from the root _kri_,
 to do), meaning deed or action. In addition to this simple meaning it
 has also, both in the philosophical and the colloquial speech of India a
 technical meaning, denoting "a person's deeds as determining his future
-lot." This is not merely in the vague sense that on the whole good will
+[[Lot|lot]]." This is not merely in the vague sense that on the whole good will
 be rewarded and evil punished, but that every single act must work out
 to the uttermost its inevitable consequences, and receive its
 retribution, however many ages the process may require. Every part of
-the material universe--man, woman, insect, tree, stone, or whatever it
+the material universe--man, woman, [[Insect|insect]], tree, stone, or whatever it
 be--is the dwelling of an eternal spirit that is working out its
 destiny, and while receiving reward and punishment for the past is
 laying up reward and punishment for the future. This view of existence
@@ -17,8 +17,8 @@ and unlearned alike as accounting for those inequalities in human life
 which might otherwise lead men to doubt the justice of God. Every act of
 every person has not only a moral value producing merit or demerit, but
 also an inherent power which works out its fitting reward or punishment.
-To the Hindu this does not make heaven and hell unnecessary. These two
-exist in many forms more or less grotesque, and after death the soul
+To the Hindu this does not make heaven and [[Hell|hell]] unnecessary. These two
+exist in many forms more or less [[Grotesque|grotesque]], and after death the soul
 passes to one of them and there receives its due; but that existence too
 is marked by desire and action, and is therefore productive of merit or
 demerit, and as the soul is thus still entangled in the meshes of karma

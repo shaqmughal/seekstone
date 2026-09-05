@@ -23,7 +23,7 @@ army of Sigebert was betrayed from within its own ranks by men of
 Mayence in a battle fought with Radulf on the banks of the Unstrut in
 Thuringia. The chief heroes of the poems which make up the _geste_ of
 Doon de Mayence are Ogier the Dane (q.v.), the four sons of Aymon (see
-RENAUD), and HUON OF BORDEAUX (q.v.). It is probable that Doon himself
+RENAUD), and [[Huon Of Bordeaux|HUON OF BORDEAUX]] (q.v.). It is probable that Doon himself
 was one of the last personages to be clearly defined, and that the
 _chanson de geste_ relating his exploits was drawn up partly with the
 view of supplying a suitable ancestor for the other heroes. The latter

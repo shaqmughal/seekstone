@@ -7,9 +7,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ezzo"
 
 # Ezzo
 
-EZZO, or EHRENFRIED (c. 954-1024), count palatine in Lorraine, was the
-son of a certain Hermann (d. c. 1000), also a count palatine in Lorraine
-who had possessions in the neighbourhood of Bonn. Having married Matilda
+EZZO, or EHRENFRIED (c. 954-1024), count palatine in [[Lorraine]], was the
+son of a certain [[Hermann]] (d. c. 1000), also a count palatine in Lorraine
+who had possessions in the neighbourhood of [[Bonn]]. Having married Matilda
 (d. 1025), a daughter of the emperor Otto II., Ezzo came to the front
 during the reign of his brother-in-law, the emperor Otto III.
 (983-1002); his power was increased owing to the liberal grant of lands
@@ -23,7 +23,7 @@ assistance of Ezzo was purchased by a gift of lands. Henceforward the
 relations between Henry and his vassal appear to have been satisfactory.
 Very little is known about Ezzo's later life, but we are told that he
 died at a great age at Saalfeld on the 21st of March 1024. He left three
-sons, among them being Hermann, who was archbishop of Cologne from 1036
+sons, among them being Hermann, who was archbishop of [[Cologne]] from 1036
 to 1056, and Otto, who was for a short time duke of Swabia; and seven
 daughters, six of whom became abbesses. Ezzo founded a monastery at
 Brauweiler near Cologne, the place where his marriage had been

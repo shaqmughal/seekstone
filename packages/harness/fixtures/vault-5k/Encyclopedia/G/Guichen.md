@@ -13,7 +13,7 @@ entered the navy in 1730 as "garde de la Marine," the first rank in the
 corps of royal officers. His promotion was not rapid. It was not till
 1748 that he became "lieutenant de vaisseau," which was, however, a
 somewhat higher rank than the lieutenant in the British navy, since it
-carried with it the right to command a frigate. He was "capitaine de
+carried with it the right to command a [[Frigate|frigate]]. He was "capitaine de
 vaisseau," or post captain, in 1756. But his reputation must have been
 good, for he was made chevalier de Saint Louis in 1748. In 1775 he was
 appointed to the frigate "Terpsichore," attached to the training
@@ -21,7 +21,7 @@ squadron, in which the duc de Chartres, afterwards notorious as the duc
 d'Orleans and as Philippe Egalite, was entered as volunteer. In the next
 year he was promoted chef d'escadre, or rear-admiral. When France had
 become the ally of the Americans in the War of Independence, he hoisted
-his flag in the Channel fleet, and was present at the battle of Ushant
+his [[Flag|flag]] in the Channel fleet, and was present at the battle of Ushant
 on the 27th of July 1779. In March of the following year he was sent to
 the West Indies with a strong squadron and was there opposed to Sir
 George Rodney. In the first meeting between them on the 17th of April to
@@ -32,7 +32,7 @@ with extreme caution, and by keeping the weather gauge afforded the
 British admiral no chance of bringing him to close action. When the
 hurricane months approached (July to September) he left the West Indies,
 and his squadron, being in a bad state from want of repairs, returned
-home, reaching Brest in September. Throughout all this campaign Guichen
+home, reaching [[Brest]] in September. Throughout all this campaign Guichen
 had shown himself very skilful in handling a fleet, and if he had not
 gained any marked success, he had prevented the British admiral from
 doing any harm to the French islands in the Antilles. In December 1781
@@ -48,10 +48,10 @@ the others into a panic-stricken flight. They returned to port, and the
 mission entrusted to Guichen was entirely defeated. He therefore
 returned to port also. He had no opportunity to gain any
 counterbalancing success during the short remainder of the war, but he
-was present at the final relief of Gibraltar by Lord Howe. His death
+was present at the final relief of [[Gibraltar]] by Lord Howe. His death
 occurred on the 13th of January 1790. The comte de Guichen was, by the
 testimony of his contemporaries, a most accomplished and high-minded
-gentleman. It is probable that he had more scientific knowledge than any
+[[Gentleman|gentleman]]. It is probable that he had more scientific knowledge than any
 of his English contemporaries and opponents. But as a commander in war
 he was notable chiefly for his skill in directing the orderly movements
 of a fleet, and seems to have been satisfied with formal operations,

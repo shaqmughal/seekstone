@@ -1,7 +1,7 @@
 # Edgeworth
 
 EDGEWORTH, MARIA (1767-1849), Irish novelist, second child and eldest
-daughter of Richard Lovell Edgeworth (q.v.) and his first wife, Anna
+daughter of Richard Lovell Edgeworth (q.v.) and his first wife, [[Anna]]
 Maria Elers, was born in the house of her maternal grandparents at Black
 Bourton, Oxfordshire, on the 1st of January 1767. Her early efforts in
 fiction were of a sufficiently melodramatic character; for she
@@ -32,7 +32,7 @@ even though the morals were Mr Edgeworth's. In 1798 Mr Edgeworth's
 fourth marriage threatened the family harmony, but Maria soon became a
 close friend of her stepmother. _Practical Education_ (2 vols., 1798)
 was written in conjunction with her father, who also collaborated with
-her in the _Essay on Irish Bulls_ (1802). Miss Edgeworth's first novel,
+her in the _Essay on Irish [[Bull|Bulls]]_ (1802). Miss Edgeworth's first novel,
 _Castle Rackrent, an Hibernian Tale taken from Facts, and from the
 Manners of the Irish Squires before the year 1782_, was written without
 her father's supervision, and appeared anonymously in 1800. It is the
@@ -55,12 +55,12 @@ preface," in the original edition of _Waverley_, he describes his aim as
 being "in some distant degree to emulate the admirable Irish portraits
 of Miss Edgeworth, so different from the 'Teagues' and 'dear joys' who
 so long, with the most perfect family resemblance to each other,
-occupied the drama and the novel." _Belinda_ (1801) is a society novel,
+occupied the [[Drama|drama]] and the novel." _Belinda_ (1801) is a society novel,
 and one of her best books. Mr Saintsbury thinks that Miss Austen's
 heroines owe something of their naturalness to Belinda, who was one of
 the earliest to break with the tradition of fainting and blushing.
 _Moral Tales for Young People_ (5 vols.) and _Early Lessons_, which
-included "Harry and Lucy," "Rosamond" and "Frank," appeared in 1801.
+included "Harry and Lucy," "Rosamond" and "[[Frank]]," appeared in 1801.
 
 In 1802 the Edgeworths went abroad, first to Brussels and then to Paris.
 They had already connexions in Paris through their kinsman, the abbe
@@ -94,7 +94,7 @@ his _Memoirs_, which were published in 1820. The book was the excuse for
 an attack on Mr Edgeworth's reputation in the July number of the
 _Quarterly Review_, which Miss Edgeworth had the courage to leave
 unread. Her life at Edgeworthstown was varied by visits to London, to
-Lord Lansdowne at Bowood, Wiltshire, to the Misses Sneyd in
+Lord [[Lansdowne]] at Bowood, Wiltshire, to the Misses Sneyd in
 Staffordshire, and to many other friends. In 1820 she was again in
 Paris, and in 1823 she spent a happy fortnight with the Scotts at
 Abbotsford. In 1825 Scott went to Edgeworthstown, and their relations
@@ -107,10 +107,10 @@ published in 1822-1825. _Comic Dramas_ appeared in 1817, and _Helen_ in
 relief of the famine-stricken Irish peasants. She died on the 22nd of
 May 1849.
 
-Miss Edgeworth's novels are distinguished by good sense, humour and an
+Miss Edgeworth's novels are distinguished by good sense, [[Humour|humour]] and an
 easy flowing style. As the construction of a plot is not her strong
 point, she is generally more successful in tales than in lengthy novels.
-The vivacity of her dialogues is extraordinary; and in them her
+The vivacity of her [[Dialogue|dialogues]] is extraordinary; and in them her
 characters reveal themselves in the most natural way possible. Her books
 are character-studies rather than intensely interesting narratives.
 Sobriety of judgment is seen throughout; and passion, romance and poetry
@@ -137,7 +137,7 @@ human nature.
   the title of _The Life and Letters of Maria Edgeworth_ (2 vols.,
   1894). See also _Maria Edgeworth_ (1883), by Helen Zimmern, in the
   "Eminent Women" series; Grace A. Oliver, _A Study of Maria Edgeworth_
-  ... (3rd ed., Boston, U.S.A., 1882); and _Maria Edgeworth_ (1904), by
+  ... (3rd ed., [[Boston]], U.S.A., 1882); and _Maria Edgeworth_ (1904), by
   the Hon. Emily Lawless in the "English Men of Letters" series. Among
   the numerous shorter articles dealing with Maria Edgeworth and the
   family circle at Edgeworthstown may be mentioned a friendly

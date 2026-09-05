@@ -12,11 +12,11 @@ the empire should observe the Edict of Worms (1521), banning Luther and
 his adherents, in such a manner that they should not be afraid to answer
 it before God and the emperor, the reform movement had received such an
 access of strength that the Catholic party felt itself menaced in
-earnest, and in 1529 again passed a resolution at Spires, deigned not
+[[Earnest|earnest]], and in 1529 again passed a resolution at Spires, deigned not
 merely to preclude any further expansion of the Reformation, but even to
 prevent it from maintaining the ground already won. This decision was at
 once challenged, on the 19th of April, by the protest of the Evangelical
-states (whence the name Protestants); and the effect of this disclaimer
+states (whence the name Protestants); and the effect of this [[Disclaimer|disclaimer]]
 was not small. Still, it was devoid of political significance, unless
 backed by the united force of all the princes and states subscribing to
 the Evangelical teaching; and this unity was wanting. The feud which
@@ -24,8 +24,8 @@ raged round the doctrine of the Lord's Supper had already broken out
 before the first diet of Spires, and had aroused great and immediate
 excitement. At a very early period, however, efforts were made to allay
 the dissension. Strassburg pronounced for conciliation: but the most
-powerful and zealous champion of peace was to be found in the landgrave
-Philip of Hesse, who recognized the absolute necessity--from a political
+powerful and zealous [[Champion|champion]] of peace was to be found in the landgrave
+Philip of [[Hesse]], who recognized the absolute necessity--from a political
 standpoint--of the union of all German Protestants. It is probable that
 he had invited Luther to a religious conference as early as the year
 1527; but on that occasion he met with a refusal. True, the impression
@@ -78,11 +78,11 @@ body and blood of Christ are corporeally present in the bread and wine"
 leiblich im brot und wein sey"). Nevertheless, the adherents of each
 doctrine are recommended to display Christian charity to those of the
 other. These articles were signed by the ten official members of the
-colloquy: Luther, Jonas, Melanchthon, Osiander, Agricola, Brenz,
+colloquy: Luther, [[Jonas]], Melanchthon, Osiander, Agricola, Brenz,
 Oecolampadius, Bucer, Hedio and Zwingli. The personal contact between
 Luther and Zwingli led to no mental _rapprochement_ between the two; but
 in the following year the Articles of Marburg did good service as one of
-the preliminaries to the Augsburg Confession, and remain a valuable
+the preliminaries to the [[Augsburg]] Confession, and remain a valuable
 document for the fundamental principles common to the Lutheran and
 Reformed Churches.
 

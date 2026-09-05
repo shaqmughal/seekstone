@@ -14,15 +14,15 @@ the Platonist, but he was probably, like his father, merely an ordinary
 teacher. Stimulated, however, by the perusal of some writings of
 Democritus, he began to formulate a doctrine of his own; and at
 Mitylene, Colophon and Lampsacus, he gradually gathered round him
-several enthusiastic disciples. In 307 he returned to Athens, which had
-just been restored to a nominal independence by Demetrius Poliorcetes,
+several enthusiastic [[Disciple|disciples]]. In 307 he returned to Athens, which had
+just been restored to a nominal independence by [[Demetrius]] Poliorcetes,
 and there he lived for the rest of his life. The scene of his teaching
 was a garden which he bought for about L300 (80 _minae_). There he
 passed his days as the loved and venerated head of a remarkable, and up
 to that time unique, society of men and women. Amongst the number were
 Metrodorus (d. 277), his brother Timocrates, and his wife Leontion
 (formerly a hetaera), Polyaenus, Hermarchus, who succeeded Epicurus as
-chief of the school, Leonteus and his wife Themista, and Idomeneus,
+chief of the school, Leonteus and his wife Themista, and [[Idomeneus]],
 whose wife was a sister of Metrodorus. It is possible that the relations
 between the sexes--in this prototype of Rabelais's Abbey of
 Theleme--were not entirely what is termed Platonic. But there is on the
@@ -41,10 +41,10 @@ many enough to fill whole cities.
 The mode of life in his community was plain. The general drink was
 water and the food barley bread; half a pint of wine was held an ample
 allowance. "Send me," says Epicurus to a correspondent, "send me some
-Cythnian cheese, so that, should I choose, I may fare sumptuously."
+Cythnian [[Cheese|cheese]], so that, should I choose, I may fare sumptuously."
 There was no community of property, which, as Epicurus said, would imply
 distrust of their own and others' good resolutions. The company was held
-in unity by the charms of his personality, and by the free intercourse
+in unity by the [[Charm|charms]] of his personality, and by the free intercourse
 which he inculcated and exemplified. Though he seems to have had a warm
 affection for his countrymen, it was as human beings brought into
 contact with him, and not as members of a political body, that he
@@ -64,7 +64,7 @@ father, mother and brothers, to pay the expenses incurred in celebrating
 his own birthday every year on the 7th of the month Gamelion, and for a
 social gathering of the sect on the 20th of every month in honour of
 himself and Metrodorus. Besides similar tributes in honour of his
-brothers and Polyaenus, he directed the trustees to be guardians of the
+brothers and Polyaenus, he directed the trustees to be [[Guardian|guardians]] of the
 son of Polyaenus and the son of Metrodorus; whilst the daughter of the
 last mentioned was to be married by the guardians to some member of the
 society who should be approved of by Hermarchus. His four slaves, three
@@ -72,7 +72,7 @@ men and one woman, were left their freedom. His books passed to
 Hermarchus.
 
 _Philosophy._--The Epicurean philosophy is traditionally divided into
-the three branches of logic, physics and ethics. It is, however, only as
+the three branches of logic, physics and [[Ethics|ethics]]. It is, however, only as
 a basis of facts and principles for his theory of life that logical and
 physical inquiries find a place at all. Epicurus himself had not
 apparently shared in any large or liberal culture, and his influence was
@@ -80,7 +80,7 @@ certainly thrown on the side of those who depreciated purely scientific
 pursuits as one-sided and misleading. "Steer clear of all culture" was
 his advice to a young disciple. In this aversion to a purely or mainly
 intellectual training may be traced a recoil from the systematic
-metaphysics of Plato and Aristotle, whose tendency was to subordinate
+metaphysics of Plato and [[Aristotle]], whose tendency was to subordinate
 the practical man to the philosopher. Ethics had been based upon logic
 and metaphysics. But experience showed that systematic knowledge of
 truth is not synonymous with right action. Hence, in the second place,
@@ -110,24 +110,24 @@ consists is a question which Epicurus does not raise, and which he would
 no doubt have deemed superfluous quibbling over a matter sufficiently
 settled by common sense. (2) Besides our sensations, we learn truth and
 reality by our preconceptions or ideas ([Greek: prolepseis]). These are
-the fainter images produced by repeated sensations, the "ideas" resulting
+the fainter [[Image|images]] produced by repeated sensations, the "ideas" resulting
 from previous "impressions"--sensations at second-hand as it were, which
 are stored up in memory, and which a general name serves to recall. These
 bear witness to reality, not because we feel anything now, but because we
 felt it once; they are sensations registered in language, and again, if
 need be, translatable into immediate sensations or groups of sensation.
-(3) Lastly, reality is vouched for by the imaginative apprehensions of
+(3) Lastly, reality is vouched for by the imaginative [[Apprehension|apprehensions]] of
 the mind ([Greek: phantastikai epibolai]), immediate feelings of which
 the mind is conscious as produced by some action of its own. This last
 canon, however, was of dubious validity. Epicureanism generally was
 content to affirm that whatever we effectively feel in consciousness is
 real; in which sense they allow reality to the fancies of the insane, the
-dreams of a sleeper, and those feelings by which we imagine the existence
+[[Dream|dreams]] of a sleeper, and those feelings by which we imagine the existence
 of beings of perfect blessedness and endless life. Similarly, just
 because fear, hope and remembrance add to the intensity of consciousness,
 the Epicurean can hold that bodily pain and pleasure is a less durable
 and important thing than pain and pleasure of mind. Whatever we feel to
-affect us does affect us, and is therefore real. Error can arise only
+affect us does affect us, and is therefore real. [[Error]] can arise only
 because we mix up our opinions and suppositions with what we actually
 feel. The Epicurean canon is a rejection of logic; it sticks fast to the
 one point that "sensation is sensation," and there is no more to be made
@@ -145,7 +145,7 @@ already familiar on a small scale. This is what Epicurus calls
 explaining what we do not see by what we do see.
 
 In physics Epicurus founded upon Democritus, and his chief object was to
-abolish the dualism between mind and matter which is so essential a
+abolish the [[Dualism|dualism]] between mind and matter which is so essential a
 point in the systems of Plato and Aristotle. All that exists, says
 Epicurus, is corporeal ([Greek: to pan esti soma]); the intangible is
 non-existent, or empty space. If a thing exists it must be felt, and to
@@ -154,8 +154,8 @@ which our senses are not subtle enough to detect. We must indeed accept
 our feelings; but we must also believe much which is not directly
 testified by sensation, if only it serves to explain phenomena and does
 not contravene our sensations. The fundamental postulates of
-Epicureanism are atoms and the void ([Greek: atoma kai kenon]). Space is
-infinite, and there is an illimitable multitude of indestructible,
+Epicureanism are [[Atom|atoms]] and the void ([Greek: atoma kai kenon]). Space is
+[[Infinite|infinite]], and there is an illimitable multitude of indestructible,
 indivisible and absolutely compact atoms in perpetual motion in this
 illimitable space. These atoms, differing only in size, figure and
 weight, are perpetually moving with equal velocities, but at a rate far
@@ -165,18 +165,18 @@ dissolution, and towards a fresh series of creations. This universe of
 ours is only one section out of the innumerable worlds in infinite
 space; other worlds may present systems very different from that of our
 own. The soul of man is only a finer species of body, spread throughout
-the whole aggregation which we term his bodily frame. Like a warm
+the whole aggregation which we term his bodily [[Frame|frame]]. Like a warm
 breath, it pervades the human structure and works with it; nor could it
 act as it does in perception unless it were corporeal. The various
 processes of sense, notably vision, are explained on the principles of
-materialism. From the surfaces of all objects there are continually
+[[Materialism|materialism]]. From the surfaces of all objects there are continually
 flowing thin filmy images exactly copying the solid body whence they
 originate; and these images by direct impact on the organism produce (we
 need not care to ask how) the phenomena of vision. Epicurus in this way
 explains vision by substituting for the apparent action of a body at a
 distance a direct contact of image and organ. But without following the
 explanation into the details in which it revels, it may be enough to say
-that the whole hypothesis is but an attempt to exclude the occult
+that the whole [[Hypothesis|hypothesis]] is but an attempt to exclude the occult
 conception of action at a distance, and substitute a familiar
 phenomenon.
 
@@ -184,7 +184,7 @@ _The Gods._--This aspect of the Epicurean physics becomes clearer when
 we look at his mode of rendering particular phenomena intelligible. His
 purpose is to eliminate the common idea of divine interference. That
 there are gods Epicurus never dreams of denying. But these gods have not
-on their shoulders the burden of upholding and governing the world. They
+on their shoulders the [[Burden|burden]] of upholding and governing the world. They
 are themselves the products of the order of nature--a higher species
 than humanity, but not the rulers of man, neither the makers nor the
 upholders of the world. Man should worship them, but his worship is the
@@ -193,7 +193,7 @@ inspired either by hope or by fear. To prevent all reference of the more
 potent phenomena of nature to divine action Epicurus rationalizes the
 processes of the cosmos. He imagines all possible plans or hypotheses,
 not actually contradicted by our experience of familiar events, which
-will represent in an intelligible way the processes of astronomy and
+will represent in an intelligible way the processes of [[Astronomy|astronomy]] and
 meteorology. When two or more modes of accounting for a phenomena are
 equally admissible as not directly contradicted by known phenomena, it
 seems to Epicurus almost a return to the old mythological habit of mind
@@ -208,9 +208,9 @@ have been produced, and to go further is to trench on ground beyond the
 limits of human knowledge.
 
 Thus, if Epicurus objects to the doctrine of mythology, he objects no
-less to the doctrine of an inevitable fate, a necessary order of things
+less to the doctrine of an inevitable [[Fate|fate]], a necessary order of things
 unchangeable and supreme over the human will. The Stoic doctrine of
-Fatalism seemed to Epicurus no less deadly a foe of man's true welfare
+[[Fatalism]] seemed to Epicurus no less deadly a foe of man's true welfare
 than popular superstition. Even in the movement of the atoms he
 introduces a sudden change of direction, which is supposed to render
 their aggregation easier, and to break the even law of destiny. So, in
@@ -231,15 +231,15 @@ each is conditioned by every other, and none can be taken in isolation
 and explained apart from the rest, was foreign to his mind. So little
 was the scientific conception of the solar system familiar to Epicurus
 that he could reproach the astronomers, because their account of an
-eclipse represented things otherwise than as they appear to the senses,
+[[Eclipse|eclipse]] represented things otherwise than as they appear to the senses,
 and could declare that the sun and stars were just as large as they
 seemed to us.
 
 _Ethics._--The moral philosophy of Epicurus is a qualified hedonism,
-the heir of the Cyrenaic doctrine that pleasure is the good thing in
+the [[Heir|heir]] of the Cyrenaic doctrine that pleasure is the good thing in
 life. Neither sect, it may be added, advocated sensuality pure and
 unfeigned--the Epicurean least of all. By pleasure Epicurus meant both
-more and less than the Cyrenaics. To the Cyrenaics pleasure was of
+more and less than the [[Cyrenaics]]. To the Cyrenaics pleasure was of
 moments; to Epicurus it extended as a habit of mind through life. To the
 Cyrenaics pleasure was something active and positive; to Epicurus it was
 rather negative--tranquillity more than vigorous enjoyment. The test of
@@ -248,13 +248,13 @@ all that gives pain; it implies freedom from pain of body and from
 trouble of mind. The happiness of the Epicurean was, it might almost
 seem, a grave and solemn pleasure--a quiet unobtrusive ease of heart,
 but not exuberance and excitement. The sage of Epicureanism is a
-rational and reflective seeker for happiness, who balances the claims of
+rational and reflective seeker for happiness, who [[Balance|balances]] the claims of
 each pleasure against the evils that may possibly ensue, and treads the
 path of enjoyment cautiously. Prudence is, therefore, the only real
 guide to happiness; it is thus the chief excellence, and the foundation
 of all the virtues. It is, in fact, says Epicurus--in language which
 contrasts strongly with that of Aristotle on the same topic--"a more
-precious power than philosophy." The reason or intellect is introduced
+precious power than philosophy." The reason or [[Intellect|intellect]] is introduced
 to balance possible pleasures and pains, and to construct a scheme in
 which pleasures are the materials of a happy life. Feeling, which
 Epicurus declared to be the means of determining what is good, is
@@ -268,8 +268,8 @@ tranquillity of mind. (See further ETHICS.)
 
 _The Epicurean School._--Even in the lifetime of Epicurus we hear of the
 vast numbers of his friends, not merely in Greece, but in Asia and
-Egypt. The crowds of Epicureans were a standing enigma to the adherents
-of less popular sects. Cicero pondered over the fact; Arcesilaus
+Egypt. The [[Crowd|crowds]] of Epicureans were a standing [[Enigma|enigma]] to the adherents
+of less popular sects. Cicero pondered over the fact; [[Arcesilaus]]
 explained the secession to the Epicurean camp, compared with the fact
 that no Epicurean was ever known to have abandoned his school, by saying
 that, though it was possible for a man to be turned into a eunuch, no
@@ -282,15 +282,15 @@ scarcely a change or addition. The immediate disciples of Epicurus have
 been already mentioned, with the exception of Colotes of Lampsacus, a
 great favourite of Epicurus, who wrote a work arguing "that it was
 impossible even to live according to the doctrines of the other
-philosophers." In the 2nd and 1st centuries B.C. Apollodorus, nicknamed
+philosophers." In the 2nd and 1st centuries B.C. [[Apollodorus]], nicknamed
 [Greek: kepotyrannos] ("Lord of the Garden"), and Zeno of Sidon (who
-describes Socrates as "the Attic buffoon": Cic. _De nat. deor._ i, 21,
+describes Socrates as "the [[Attic]] buffoon": Cic. _De nat. deor._ i, 21,
 33, 34) taught at Athens. About 150 B.C. Epicureanism established itself
 at Rome. Beginning with C. Amafinius or Amafanius (Cic. _Acad._ i. 2,
 _Tusc._ iv. 3), we find the names of Phaedrus (who became scholarch at
-Athens c. 70 B.C.) and Philodemus (originally of Gadara in Palestine) as
+Athens c. 70 B.C.) and Philodemus (originally of [[Gadara]] in Palestine) as
 distinguished Epicureans in the time of Cicero. But the greatest of its
-Roman names was Lucretius, whose _De rerum natura_ embodies the main
+Roman names was [[Lucretius]], whose _De rerum natura_ embodies the main
 teaching of Epicurus with great exactness, and with a beauty which the
 subject seemed scarcely to allow. Lucretius is a proof, if any were
 needed, that Epicureanism is compatible with nobility of soul. In the
@@ -309,7 +309,7 @@ Renaissance was founded on Epicureanism, and in more recent times a
 great number of prominent thinkers have been Epicureans in a greater or
 less degree. Among these may be mentioned Pierre Gassendi, who revived
 and codified the doctrine in the 17th century; Moliere, the comte de
-Gramont, Rousseau, Fontenelle and Voltaire. All those whose ethical
+[[Gramont]], Rousseau, Fontenelle and Voltaire. All those whose ethical
 theory is in any degree hedonistic are to some extent the intellectual
 descendants of Epicurus (see HEDONISM).
 
@@ -320,24 +320,24 @@ plainness and intelligibility, but his want of order and logical
 precision thwarted his purpose. He pretended to have read little, and to
 be the original architect of his own system, and the claim was no doubt
 on the whole true. But he had read Democritus, and, it is said,
-Anaxagoras and Archelaus. His works, we learn, were full of repetition,
-and critics speak of vulgarities of language and faults of style. None
+Anaxagoras and [[Archelaus]]. His works, we learn, were full of repetition,
+and critics speak of vulgarities of language and [[Fault|faults]] of style. None
 the less his writings were committed to memory and remained the
 text-books of Epicureanism to the last. His chief work was a treatise on
 nature ([Greek: Peri physeos]), in thirty-seven books, of which
 fragments from about nine books have been found in the rolls discovered
 at Herculaneum, along with considerable treatises by several of his
-followers, and most notably Philodemus. An epitome of his doctrine is
+followers, and most notably Philodemus. An [[Epitome|epitome]] of his doctrine is
 contained in three letters preserved by Diogenes.
 
   AUTHORITIES.--The chief ancient accounts of Epicurus are in the tenth
   book of Diogenes Laertius, in Lucretius, and in several treatises of
   Cicero and Plutarch. Gassendi, in his _De vita, moribus, et doctrina
-  Epicuri_ (Lyons, 1647), and his _Syntagma philosophiae Epicuri_,
+  Epicuri_ ([[Lyons]], 1647), and his _Syntagma philosophiae Epicuri_,
   systematized the doctrine. The _Volumina Herculanensia_ (1st and 2nd
   series) contain fragments of treatises by Epicurus and members of his
   school. See also H. Usener, _Epicurea_ (Leipzig, 1887) and _Epicuri
-  recogniti specimen_ (Bonn, 1880); _Epicuri physica et meteorologica_
+  recogniti specimen_ ([[Bonn]], 1880); _Epicuri physica et meteorologica_
   (ed. J.G. Schneider, Leipzig, 1813); Th. Gomperz in his _Herkulanische
   Studien_, and in contributions to the Vienna Academy
   (_Monatsberichte_), has tried to evolve from the fragments more
@@ -348,12 +348,12 @@ contained in three letters preserved by Diogenes.
   _Philosophy of the Stoics, Epicureans and Sceptics_ (Eng. trans. O.J.
   Reichel, 1870; ed. 1880); Sir James Mackintosh, _On the Progress of
   Ethical Philosophy_ (4th ed.); J. Watson, _Hedonistic Theories_
-  (Glasgow, 1895); J. Kreibig, _Epicurus_ (Vienna, 1886); A.
+  ([[Glasgow]], 1895); J. Kreibig, _Epicurus_ (Vienna, 1886); A.
   Goedeckemeyer, _Epikurs Verhaltnis zu Demokrit in der Naturphil._
   (Strassburg, 1897); Paul von Gizycki, _Uber das Leben und die
-  Moralphilos. des Epikur (Halle, 1879), and Einleitende Bemerkungen zu
+  Moralphilos. des Epikur ([[Halle]], 1879), and Einleitende Bemerkungen zu
   einer Untersuchung uber den Werth der Naturphilos. des Epikur_
-  (Berlin, 1884); P. Cassel, _Epikur der Philosoph_ (Berlin, 1892); M.
+  (Berlin, 1884); P. [[Cassel]], _Epikur der Philosoph_ (Berlin, 1892); M.
   Guyau, _La Morale d'Epicure et ses rapports avec les doctrines
   contemporaines_ (Paris, 1878; revised and enlarged, 1881); F. Picavet,
   _De Epicuro novae religionis sectatore_ (Paris, 1889); H. Sidgwick,

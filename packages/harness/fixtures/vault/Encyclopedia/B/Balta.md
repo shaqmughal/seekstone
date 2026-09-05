@@ -6,7 +6,7 @@ topic: history
 
 # Balta
 
-BALTA, a town in the Russian government of Podolia, between the Dniester
+BALTA, a town in the Russian government of Podolia, between the [[Dniester]]
 and the Bug, 131 m. by rail N.N.W. of Odessa. It carries on a large trade
 in cattle, horses and grain, and has two annual fairs, held at Whitsuntide
 and in June. A variety of industries, such as tallow-melting, soap-boiling,

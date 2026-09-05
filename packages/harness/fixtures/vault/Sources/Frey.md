@@ -18,17 +18,17 @@ prosperity. (See TEUTONIC PEOPLES, _ad fin._)
 
 FREYBURG [FREYBURG AN DER UNSTRUT], a town of Germany, in Prussian
 Saxony, in an undulating vine-clad country on the Unstrut, 6 m. N. from
-Naumberg-on-the-Saale, on the railway to Artern. Pop. 3200. It has a
-parish church, a mixture of Gothic and Romanesque architecture, with a
-handsome tower. It is, however, as being the "Mecca" of the German
-gymnastic societies that Freyburg is best known. Here Friedrich Ludwig
-Jahn (1778-1852), the father of German gymnastic exercises, lies buried.
+Naumberg-on-the-Saale, on the railway to [[Artern]]. Pop. 3200. It has a
+parish church, a mixture of [[Gothic]] and Romanesque architecture, with a
+handsome tower. It is, however, as being the "[[Mecca]]" of the German
+gymnastic societies that Freyburg is best known. Here [[Friedrich]] Ludwig
+[[Jahn]] (1778-1852), the father of German gymnastic exercises, lies buried.
 Over his grave is built the Turnhalle, with a statue of the "master,"
 while hard by it the Jahn Museum in Romanesque style, erected in 1903.
 Freyburg produces sparkling wine of good quality and has some other
 small manufactures. On a hill commanding the town is the castle of
 Neuenburg, built originally in 1062 by Louis the Leaper, count in
-Thuringia, but in its present form mainly the work of the dukes of
+Thuringia, but in its present form mainly the work of the [[Dukes|dukes]] of
 Saxe-Weissenfels.
 
 ## See also

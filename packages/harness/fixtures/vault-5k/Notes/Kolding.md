@@ -1,7 +1,7 @@
 # Kolding
 
 KOLDING, a town of Denmark in the _amt_ (county) of Vejle, on the east
-coast of Jutland, on the Koldingfjord, an inlet of the Little Belt, 9
+coast of [[Jutland]], on the Koldingfjord, an inlet of the Little Belt, 9
 m. N. of the German frontier. Pop. (1901), 12,516. It is on the Eastern
 railway of Jutland. The harbour throughout has a depth of over 20 ft. A
 little to the north-west is the splendid remnant of the royal castle

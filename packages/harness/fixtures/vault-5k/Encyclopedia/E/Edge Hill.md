@@ -2,7 +2,7 @@
 
 EDGE HILL, an elevated ridge in Warwickshire, England, near the border
 of Oxfordshire. The north-western face is an abrupt escarpment of the
-lias, and the summit of the ridge is almost level for nearly 2 m., at a
+[[Lias|lias]], and the summit of the ridge is almost level for nearly 2 m., at a
 height somewhat exceeding 700 ft. The escarpment overlooks a rich
 lowland watered by streams tributary to the Avon; the gentle eastern
 slope sends its waters to the Cherwell, and the ridge thus forms part of

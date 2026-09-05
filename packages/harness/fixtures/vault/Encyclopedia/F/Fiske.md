@@ -9,7 +9,7 @@ tags: [history, numismatics-studies]
 # Fiske
 
 FISKE, JOHN (1842-1901), American historical, philosophical and
-scientific writer, was born in Hartford, Connecticut, on the 30th of
+scientific writer, was born in [[Hartford]], Connecticut, on the 30th of
 March 1842, and died at Gloucester, Massachusetts, on the 4th of July
 1901. His name was originally Edmund Fiske Green, but in 1855 he took the
 name of a great-grandfather, John Fiske. His boyhood was spent with a
@@ -18,13 +18,13 @@ he had read widely in English literature and history, had surpassed most
 boys in the extent of his Greek and Latin work, and had studied several
 modern languages. He graduated at Harvard in 1863, continuing to study
 languages and philosophy with zeal; spent two years in the Harvard law
-school, and opened an office in Boston; but soon devoted the greater
+school, and opened an office in [[Boston]]; but soon devoted the greater
 portion of his time to writing for periodicals. With the exception of one
 year, he resided at Cambridge, Massachusetts, from the time of his
-graduation until his death. In 1869 he gave a course of lectures at
+[[Graduation|graduation]] until his death. In 1869 he gave a course of lectures at
 Harvard on the Positive Philosophy; next year he was history tutor; in
 1871 he delivered thirty-five lectures on the Doctrine of Evolution,
-afterwards revised and expanded as _Outlines of Cosmic Philosophy_
+afterwards revised and expanded as _Outlines of [[Cosmic]] Philosophy_
 (1874); and between 1872 and 1879 he was assistant-librarian. After that
 time he devoted himself to literary work and lecturing on history. Nearly
 all of his books were first given to the public in the form of lectures
@@ -32,13 +32,13 @@ or magazine articles, revised and collected under a general title, such
 as _Myths and Myth-Makers_ (1872), _Darwinism and Other Essays_ (1879),
 _Excursions of an Evolutionist_ (1883), and _A Century of Science_
 (1899). He did much, by the thoroughness of his learning and the lucidity
-of his style, to spread a knowledge of Darwin and Spencer in America. His
+of his style, to spread a knowledge of [[Darwin]] and Spencer in America. His
 _Outlines of Cosmic_ _Philosophy_, while Setting forth the Spencerian
 system, made psychological and sociological additions of original matter,
 in some respects anticipating Spencer's later conclusions. Of one part of
 the argument of this work Fiske wrote in the preface of one of his later
 books (_Through Nature to God_, 1899): "The detection of the part played
-by the lengthening of infancy in the genesis of the human race is my own
+by the lengthening of [[Infancy|infancy]] in the [[Genesis|genesis]] of the human race is my own
 especial contribution to the Doctrine of Evolution." In _The Idea of God
 as affected by Modern Knowledge_ (1885) Fiske discusses the theistic
 problem, and declares that the mind of man, as developed, becomes an

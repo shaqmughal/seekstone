@@ -14,7 +14,7 @@ durable bricks, by burning blocks of dried clay, was discovered in this
 corner of Asia. We know at least that well-burnt bricks were made by the
 Babylonians more than 6000 years ago, and that they were extensively used
 in the time of Sargon of Akkad (c. 3800 B.C.). The site of the ancient city
-of Babylon is still marked by huge mounds of bricks, the ruins of its great
+of [[Babylon]] is still marked by huge mounds of bricks, the ruins of its great
 walls, towers and palaces, although it has been the custom for centuries to
 carry away from these heaps the bricks required for the building of the
 modern towns in the surrounding country. The Babylonians and Assyrians
@@ -111,12 +111,12 @@ deposited in geologic basins according to their specific gravity and degree
 of fineness (see CLAY). These deposits have been formed in all geologic
 epochs from the "Recent" to the "Cambrian," and they vary in hardness from
 the soft and plastic "alluvial" clays to the hard and rock-like shales and
-slates of the older formations. The alluvial and drift clays (which were
+slates of the older formations. The alluvial and [[Drift|drift]] clays (which were
 alone used for brickmaking until modern times) are found near the surface,
 are readily worked and require little preparation, whereas the older
 sedimentary deposits are often difficult to work and necessitate the use of
 heavy machinery. These older shales, or rocky clays, may be brought into
-plastic condition by long weathering (_i.e._ by exposure to rain, frost and
+plastic condition by long weathering (_i.e._ by exposure to rain, [[Frost|frost]] and
 sun) or by crushing and grinding in water, and they then resemble ordinary
 alluvial clays in every respect.
 
@@ -125,15 +125,15 @@ two principal types, according to chemical composition: (1) Clays or shales
 containing only a small percentage of carbonate of lime and consisting
 chiefly of hydrated aluminium silicates (the "true clay substance") with
 more or less sand, undecomposed grains of felspar, and oxide or carbonate
-of iron; these clays usually burn to a buff, salmon or red colour; (2)
+of iron; these clays usually burn to a [[Buff|buff]], salmon or red colour; (2)
 Clays containing a considerable percentage of carbonate of lime in addition
 to the substances above mentioned. These latter clay deposits are known as
-"marls,"[1] and may contain as much as 40% of chalk. They burn to a
+"[[Marl|marls]],"[1] and may contain as much as 40% of chalk. They burn to a
 sulphur-yellow colour which is quite distinctive.
 
 Brick clays of class (1) are very widely distributed, and have a more
 extensive geological range than the marls, which are found in connexion
-with chalk or limestone formations only. These ordinary brick clays vary
+with chalk or [[Limestone|limestone]] formations only. These ordinary brick clays vary
 considerably in composition, and many clays, as they are found in nature,
 are unsuitable for brickmaking without the addition of some other kind of
 clay or sand. The strongest brick clays, _i.e._ those possessing the
@@ -155,9 +155,9 @@ of iron will, under ordinary conditions of firing, produce a red brick; but
 if the clay contains 3 to 4% of alkalis, or the brick is fired too hard,
 the colour will be darker and more purple. The actions of the alkalis and
 of increased temperature are probably closely related, for in either case
-the clay is brought nearer to its fusion point, and ferruginous clays
+the clay is brought nearer to its [[Fusion|fusion]] point, and ferruginous clays
 generally become darker in colour as they approach to fusion. Alumina acts
-in the opposite direction, an excess of this compound tending to make the
+in the opposite direction, an excess of this [[Compound|compound]] tending to make the
 colour lighter and brighter. It is impossible to give a typical composition
 for such clays, as the percentages of the different constituents vary
 through such wide ranges. The clay substance may vary from 15 to 80%, the
@@ -178,7 +178,7 @@ scum on the face of the brick in drying, and as the scum becomes
 permanently fixed in burning, such bricks are of little use except for
 common work. This question of "scumming" is very important to the maker of
 high-class facing and moulded bricks, and where a clay containing calcium
-sulphate must be used, a certain percentage of barium carbonate is nowadays
+sulphate must be used, a certain percentage of [[Barium|barium]] carbonate is nowadays
 added to the wet clay. By this means the calcium sulphate is converted into
 calcium carbonate which is insoluble in water, so that it remains
 distributed throughout the mass of the brick instead of being deposited on
@@ -234,7 +234,7 @@ which has a tendency to shatter the brick on exposure to the weather. As
 before stated, these marls (which usually contain from 15 to 30% of calcium
 carbonate) burn to a yellow colour which is quite distinctive, although in
 some cases, where the percentage of limestone is very high, over 40%, the
-colour is grey or a very pale buff. The action of lime in bleaching the
+colour is grey or a very pale buff. The action of lime in [[Bleaching|bleaching]] the
 ferric oxide and producing a yellow instead of a red brick, has not been
 thoroughly investigated, but it seems probable that some compound is
 produced, between the lime and the oxide of iron, or between these two
@@ -250,14 +250,14 @@ action of the weather, and great care must be exercised in burning them at
 a sufficiently high temperature.
 
 _Brickmaking_.--Bricks made of tempered clay may be made by hand or by
-machine, and the machines may be worked by hand or by mechanical power.
+[[Machine|machine]], and the machines may be worked by hand or by mechanical power.
 Bricks made of semi-plastic clay (_i.e._ ground clay or shale sufficiently
 damp to adhere under pressure) are generally machine-made throughout. The
 method of making bricks by hand is the same, with slight variation, the
 world over. The tempered clay is pressed by hand into a wooden or metal
 mould or four-sided case (without top or bottom) which is of the desired
 shape and size, allowance being made for the shrinkage of the brick in
-drying and firing. The moulder stands at the bench or table, dips the mould
+drying and firing. The moulder stands at the [[Bench|bench]] or table, dips the mould
 in water, or water and then sand, to prevent the clay from sticking, takes
 a rudely shaped piece of clay from an assistant, and dashes this into the
 mould which rests on the moulding bench. He then presses the clay into the
@@ -285,7 +285,7 @@ through a grinding-mill before they are exposed to the action of the
 weather, as the disintegration of the hard lumps of shale greatly
 accelerates the "weathering." In the case of ordinary brick-clay, in the
 plastic condition, grinding-mills are only used when pebbles more than a
-quarter of an inch in diameter are present, as otherwise the clay may be
+quarter of an [[Inch|inch]] in diameter are present, as otherwise the clay may be
 passed directly through the pug-mill, a process which may be repeated if
 necessary. The pug-mill consists of a box or trough having a feed hole at
 one end and a delivery hole or nose at the other end, and provided with a
@@ -357,7 +357,7 @@ The drying of bricks, which was formerly done in the open, is now, in most
 cases, conducted in a special shed heated by flues along which the heated
 gases from the kilns pass on their way to the chimney. It is important that
 the atmosphere of the drying-shed should be fairly dry, to which end
-suitable means of ventilation must be arranged (by fans or otherwise). If
+suitable means of ventilation must be arranged (by [[Fan|fans]] or otherwise). If
 the atmosphere is too moist the surface of the brick remains damp for a
 considerable time, and the moisture from the interior passes to the surface
 as water, carrying with it the soluble salts, which are deposited on the
@@ -435,7 +435,7 @@ which is really made up of a number of separate kilns or firing-chambers,
 built in series and connected up to the main flue of the chimney in such a
 manner that the products of combustion from one kiln may be made to pass
 through a number of other kilns before entering the flue. The earliest form
-of continuous kiln was invented by Friedrich Hoffman, and all kilns of this
+of continuous kiln was invented by [[Friedrich]] Hoffman, and all kilns of this
 type are built on the Hoffman principle, although there are a great number
 of modifications of the original Hoffman construction. The great principle
 of "continuous" firing is the utilization of the waste heat from one kiln
@@ -473,7 +473,7 @@ whole manufacture is now being conducted on more scientific lines, to the
 great advantage of the industry.
 
 _Blue Brick_ is a very strong vitreous brick of dark, slaty-blue colour,
-used in engineering works where great strength or impermeability is
+used in [[Engineering|engineering]] works where great strength or impermeability is
 desirable. These bricks are made of clay containing front 7 to 10% of oxide
 of iron, and their manufacture is carried out in the ordinary way until the
 later stages of the firing process, when they are subjected to the strongly
@@ -485,7 +485,7 @@ a fusible ferrous silicate. This fusible "slag" partly combines with the
 other silicates present, and partly fills up the pores, and so produces a
 vitreous impermeable layer varying in thickness according to the duration
 and character of the smoking, the finishing temperature of the kiln and the
-texture of the brick. Particles of carbon penetrate the surface during the
+texture of the brick. Particles of [[Carbon|carbon]] penetrate the surface during the
 early stages of the smoking, and a small quantity of carbon probably enters
 into combination, tending to produce a harder surface and darker colour.
 
@@ -502,7 +502,7 @@ speaking, blocks of artificial stone made in brick moulds. These bricks
 have been made for many years by moulding a mixture of sand and slaked lime
 and allowing the blocks thus made to harden in the air. This hardening is
 brought about partly by evaporation of the water, but chiefly by the
-conversion of the calcium hydrate, or slaked lime, into calcium carbonate
+[[Conversion|conversion]] of the calcium hydrate, or slaked lime, into calcium carbonate
 by the action of the carbonic acid in the atmosphere. A small proportion of
 the lime enters into combination with the silica and water present to form
 hydrated calcium silicate, and probably a little hydrated basic carbonate

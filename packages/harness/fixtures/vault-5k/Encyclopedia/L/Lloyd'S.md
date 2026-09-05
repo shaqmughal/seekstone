@@ -4,7 +4,7 @@ LLOYD'S, an association of merchants, shipowners, underwriters, and ship
 and insurance brokers, having its headquarters in a suite of rooms in
 the north-east corner of the Royal Exchange, London. Originally a mere
 gathering of merchants for business or gossip in a coffee-house kept by
-one Edward Lloyd in Tower Street, London, the earliest notice of which
+one Edward [[Lloyd]] in Tower Street, London, the earliest notice of which
 occurs in the _London Gazette_ of the 18th of February 1688, this
 institution has gradually become one of the greatest organizations in
 the world in connexion with commerce. The establishment existed in Tower

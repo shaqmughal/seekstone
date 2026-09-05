@@ -7,7 +7,7 @@ tags: [engineering-studies, cartography-studies]
 
 # Fox Indians
 
-FOX INDIANS, the name, from one of their clans, of an Algonquian tribe,
+FOX INDIANS, the name, from one of their [[Clan|clans]], of an Algonquian tribe,
 whose former range was central Wisconsin. They call themselves
 Muskwakiuk, "red earth people." Owing to heavy losses in their wars with
 the Ojibways and the French, they allied themselves with the Sauk tribe

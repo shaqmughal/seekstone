@@ -1,7 +1,7 @@
 # Kettle
 
 KETTLE, SIR RUPERT ALFRED (1817-1894), English county court judge, was
-born at Birmingham on the 9th of January 1817. His family had for some
+born at [[Birmingham]] on the 9th of January 1817. His family had for some
 time been connected with the glass-staining business. In 1845 he was
 called to the bar, and in 1859 he was made judge of the Worcestershire
 county courts, becoming also a bencher of the Middle Temple (1882). He
@@ -11,7 +11,7 @@ responsible for the formation of similar boards in other staple trades.
 His name thus became identified with the organization of a system of
 arbitration between employers and employed, and in 1880 he was knighted
 for his services in this capacity. In 1851 he married; one of his sons
-subsequently became a London police magistrate. Kettle died on the 6th
+subsequently became a London police [[Magistrate|magistrate]]. Kettle died on the 6th
 of October 1894 at Wolverhampton.
 
 
@@ -54,9 +54,9 @@ kettledrum is struck at about a quarter of the diameter from the ring.
   there are but two drums--the term "drum" used by musicians always
   denotes the kettledrum--they are generally tuned to the tonic and
   dominant or to the tonic and subdominant, these notes entering into
-  the composition of most of the harmonies of the key. Formerly the
+  the composition of most of the harmonies of the [[Key|key]]. Formerly the
   kettledrums used to be treated as transposing instruments, the
-  notation, as for the horn, being in C, the key to which the
+  notation, as for the [[Horn|horn]], being in C, the key to which the
   kettledrums were to be tuned being indicated in the score. Now
   composers write the real notes.
 
@@ -101,7 +101,7 @@ kettledrum is struck at about a quarter of the diameter from the ring.
   fixed note by a single movement. The first mechanical kettledrums date
   from the beginning of the 19th century. In Holland a system was
   invented by J. C. N. Stumpff[4]; in France by Labbaye in 1827; in
-  Germany Einbigler patented a system in Frankfort-on-Main in 1836[5];
+  Germany Einbigler patented a system in [[Frankfort-On-Main|Frankfort-on-Main]] in 1836[5];
   in England Cornelius Ward in 1837; in Italy C. A. Boracchi of Monza in
   1839.[6]
 
@@ -119,7 +119,7 @@ kettledrum is struck at about a quarter of the diameter from the ring.
   to a dial, on the face of which are twenty-eight numbered notches. By
   means of these the performer is able to tune the drum instantly to any
   note within the compass by remembering the numbers which correspond to
-  each note and pointing the indicator to it on the face of the dial.
+  each note and pointing the [[Indicator|indicator]] to it on the face of the dial.
   Should the cords become slightly stretched, flattening the pitch,
   causing the representative numbers to change, the performer need only
   give his indicator an extra turn to bring his instrument back to
@@ -128,13 +128,13 @@ kettledrum is struck at about a quarter of the diameter from the ring.
   the tone but tends to increase its volume and improve its quality.
 
 The origin of the kettledrum is remote and must be sought in the East.
-Its distinctive characteristic is a hemispherical or convex vessel,
+Its distinctive characteristic is a hemispherical or [[Convex|convex]] vessel,
 closed by means of a single parchment or skin drawn tightly over the
-aperture, whereas other drums consist of a cylinder, having one end or
+[[Aperture|aperture]], whereas other drums consist of a cylinder, having one end or
 both covered by the parchment, as in the side-drum and tambourine
 respectively. The Romans were acquainted with the kettledrum, including
 it among the _tympana_; the _tympanum leve_, like a sieve, was the
-tambourine used in the rites of Bacchus and Cybele.[7] The comparatively
+tambourine used in the rites of Bacchus and [[Cybele]].[7] The comparatively
 heavy tympanum of bronze mentioned by Catullus was probably the small
 kettledrum which appears in pairs on monuments of the middle ages.[8]
 Pliny[9] states that half pearls having one side round and the other
@@ -144,7 +144,7 @@ certain shape because they resembled the kettledrum, this argues that
 the instrument was well known among the Romans. It is doubtful, however,
 if it was adopted by them as a military instrument, since it is not
 mentioned by Vegetius,[10] who defines very clearly the duties of the
-service instruments _buccina_, _tuba_, _cornu_ and _lituus_.
+service instruments _[[Buccina|buccina]]_, _tuba_, _cornu_ and _lituus_.
 
 The Greeks also knew the kettledrum, but as a warlike instrument of
 barbarians. Plutarch[11] mentions that the Parthians, in order to
@@ -153,7 +153,7 @@ but hollow vessels covered with a skin, on which they beat, making a
 terrifying noise with these tympana. Whether the kettledrum penetrated
 into western Europe before the fall of the Roman Empire and continued to
 be included during the middle ages among the tympana has not been
-definitely ascertained. Isidore of Seville gives a somewhat vague
+definitely ascertained. [[Isidore Of Seville|Isidore of Seville]] gives a somewhat vague
 description of tympanum, conveying the impression that his information
 has been obtained second-hand: "Tympanum est pellis vel corium ligno ex
 una parte extentum. Est enim pars media symphoniae in similitudinem
@@ -166,7 +166,7 @@ The names given during the middle ages to the kettledrum are derived
 from the East. We have _attambal_ or _attabal_ in Spain, from the
 Persian _tambal_, whence is derived the modern French _timbales_;
 _nacaire_, _naquaire_ or _nakeres_ (English spelling), from the Arabic
-_nakkarah_ or _noqqarich_ (Bengali, _nagara_), and the German _Pauke_,
+_nakkarah_ or _noqqarich_ ([[Bengali]], _nagara_), and the German _Pauke_,
 M.H.G. _Bûke_ or _Pûke_, which is probably derived from _byk_, the
 Assyrian name of the instrument.
 
@@ -189,7 +189,7 @@ description of the tournament in the _Knight's Tale_ (line 2514):--
    That in the bataille blowen blody sonnes."
 
 The earliest European illustration showing kettledrums is the scene
-depicting Pharaoh's banquet in the fine illuminated MS. book of Genesis
+depicting Pharaoh's banquet in the fine illuminated MS. book of [[Genesis]]
 of the 5th or 6th century, preserved in Vienna. There are two pairs of
 shallow metal bowls on a table, on which a woman is performing with two
 sticks, as an accompaniment to the double pipes.[14] As a companion
@@ -200,8 +200,8 @@ instruments, among which are two kettledrums strapped to the back of a
 Nubian slave. This was the earlier manner of using the instrument
 before it became inseparably associated with the trumpet, sharing its
 position as the service instrument of the cavalry. Jost Amman[15] gives
-a picture of a pair of kettledrums with banners being played by an armed
-knight on horseback.
+a picture of a pair of kettledrums with [[Banners|banners]] being played by an armed
+[[Knight|knight]] on horseback.
 
 [Illustration: (From Härtel u. Wickhoff's "Die Wiener Genesis,"
 _Jahrbuch der kunslhistorischen Sammlungen des allerhöchsten
@@ -219,7 +219,7 @@ German regiment was allowed kettledrums unless they had been captured
 from the enemy, and the _timbalier_ or the _Heerpauker_ on parade, in
 reviews and marches generally, rode at the head of the squadron; in
 battle his position was in the wings. In England, before the
-Restoration, only the Guards were allowed kettledrums, but after the
+Restoration, only the [[Guards]] were allowed kettledrums, but after the
 accession of James II. every regiment of horse was provided with
 them.[17] Before the Royal Regiment of Artillery was established, the
 master-general of ordnance was responsible for the raising of trains of
@@ -227,14 +227,14 @@ artillery. Among his retinue in time of war were a trumpeter and
 kettledrummer. The kettledrums were mounted on a chariot drawn by six
 white horses. They appeared in the field for the first time in a train
 of artillery during the Irish rebellion of 1689, and the charges for
-ordnance include the item, "large kettledrums mounted on a carriage
+ordnance include the [[Item|item]], "large kettledrums mounted on a carriage
 with cloaths marked I.R. and cost £158, 9s."[18] A model of the
 kettledrums with their carriage which accompanied the duke of
 Marlborough to Holland in 1702 is preserved in the Rotunda Museum at
 Woolwich. The kettledrums accompanied the Royal Artillery train in the
 Vigo expedition and during the campaign in Flanders in 1748. Macbean[19]
 states that they were mounted on a triumphal car ornamented and gilt,
-bearing the ordnance flag and drawn by six white horses. The position of
+bearing the ordnance [[Flag|flag]] and drawn by six white horses. The position of
 the car on march was in front of the flag gun, and in camp in front of
 the quarters of the duke of Cumberland with the artillery guns packed
 round them. The kettledrummer had by order "to mount the kettledrum
@@ -243,7 +243,7 @@ fireing." In 1759 the kettledrums ceased to form part of the
 establishment of the Royal Artillery, and they were deposited, together
 with their carriage, in the Tower, at the same time as a pair captured
 at Malplaquet in 1709. These Tower drums were frequently borrowed by
-Handel for performances of his oratorios.
+[[Handel]] for performances of his oratorios.
 
 The kettledrums still form part of the bands of the Life Guards and
 other cavalry regiments.     (K. S.)
@@ -287,7 +287,7 @@ FOOTNOTES:
   [7] Catullus, lxiii. 8-10; Claud. _De cons. Stilich._ iii. 365;
     Lucret. ii. 618; Virg. _Aen._ ix. 619, &c.
 
-  [8] John Carter, _Specimens of Ancient Sculpture_, bas-relief from
+  [8] John [[Carter]], _Specimens of Ancient Sculpture_, bas-relief from
     seats of choir of Worcester cathedral and of collegiate church of St
     Katherine near the Tower of London (plates, vol. i. following p. 53
     and vol. ii. following p. 22).
@@ -296,19 +296,19 @@ FOOTNOTES:
 
   [10] _De re militari_, ii. 22; iii. 5, &c.
 
-  [11] _Crassus_, xxiii. 10. See also Justin xli. 2, and Polydorus,
+  [11] _[[Crassus]]_, xxiii. 10. See also Justin xli. 2, and Polydorus,
     lib. 1, cap. xv.
 
   [12] See Isidore of Seville, _Etymologiarum_, lib. iii. cap. 21, 141;
     Migne, _Patr. curs. completus_, lxxxii. 167.
 
-  [13] _Panthéon littéraire_ (Paris, 1837), J. A. Buchon, vol. i. cap.
+  [13] _Panthéon littéraire_ (Paris, 1837), J. A. [[Buchon]], vol. i. cap.
     322, p. 273.
 
-  [14] Reproduced by Franz Wickhoff, "Die Wiener Genesis," supplement
+  [14] Reproduced by [[Franz]] Wickhoff, "Die Wiener Genesis," supplement
     to the 15th and 16th volumes of the _Jahrb. d. kunsthistorischen
     Sammlungen d. allerhöchsten Kaiserhauses_ (Vienna, 1895); see
-    frontispiece in colours and plate illustration XXXIV.
+    frontispiece in [[Colours|colours]] and plate illustration XXXIV.
 
   [15] _Artliche u. kunstreiche Figuren zu der Reutterey_
     (Frankfort-on-Main, 1584).
@@ -318,7 +318,7 @@ FOOTNOTES:
 
   [17] See Georges Kastner, _op. cit._, pp. 10 and 11; Johann Ernst
     Altenburg, _Versuch einer Anleitung z. heroisch-musikalischen
-    Trompeter u. Paukerkunst_ (Halle, 1795), p. 128; and H. G. Farmer,
+    Trompeter u. Paukerkunst_ ([[Halle]], 1795), p. 128; and H. G. Farmer,
     _Memoirs of the Royal Artillery Band_ p. 23, note 1 (London, 1904).
 
   [18] Miller's _Artillery Regimental History_; see also H. G. Farmer,

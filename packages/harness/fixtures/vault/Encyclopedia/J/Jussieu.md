@@ -12,11 +12,11 @@ notice towards the close of the 16th century, and for a century and a
 half was distinguished for the botanists it produced. The following are
 its more eminent members:--
 
-1. ANTOINE DE JUSSIEU (1686-1758), born at Lyons on the 6th of July
-1686, was the son of Christophe de Jussieu (or Dejussieu), an apothecary
+1. [[Antoine|ANTOINE]] DE JUSSIEU (1686-1758), born at [[Lyons]] on the 6th of July
+1686, was the son of Christophe de Jussieu (or Dejussieu), an [[Apothecary|apothecary]]
 of some repute, who published a _Nouveau traité de la thériaque_ (1708).
 Antoine studied at the university of Montpellier, and travelled with his
-brother Bernard through Spain, Portugal and southern France. He went to
+brother [[Bernard]] through Spain, Portugal and southern France. He went to
 Paris in 1708, J. P. de Tournefort, whom he succeeded at the Jardin des
 Plantes, dying in that year. His own original publications are not of
 marked importance, but he edited an edition of Tournefort's
@@ -32,7 +32,7 @@ he gladly accepted his brother's invitation to Paris in 1722, when he
 succeeded Sébastien Vaillant as sub-demonstrator of plants in the Jardin
 du Roi. In 1725 he brought out a new edition of Tournefort's _Histoire
 des plantes qui naissent aux environs de Paris_, 2 vols., which was
-afterwards translated into English by John Martyn, the original work
+afterwards translated into English by John [[Martyn]], the original work
 being incomplete. In the same year he was admitted into the académie des
 sciences, and communicated several papers to that body. Long before
 Abraham Trembley (1700-1784) published his _Histoire des polypes d'eau
@@ -41,9 +41,9 @@ animals, and not the flowers of marine plants, then the current notion;
 and to confirm his views he made three journeys to the coast of
 Normandy. Singularly modest and retiring, he published very little, but
 in 1759 he arranged the plants in the royal garden of the Trianon at
-Versailles, according to his own scheme of classification. This
+Versailles, according to his own scheme of [[Classification|classification]]. This
 arrangement is printed in his nephew's _Genera_, pp. lxiii.-lxx., and
-formed the basis of that work. He cared little for the credit of
+formed the basis of that work. He cared little for the [[Credit|credit]] of
 enunciating new discoveries, so long as the facts were made public. On
 the death of his brother Antoine, he could not be induced to succeed him
 in his office, but prevailed upon L. G. Lemonnier to assume the higher
@@ -67,10 +67,10 @@ the salient points of subjects under observation, he steadily worked at
 the improvement of that system of plant arrangement which had been
 sketched out by his uncle. In 1789 was issued his _Genera plantarum
 secundum ordines naturales disposita, juxta methodum in horto regio
-Parisiensi exaratam, anno_ MDCCLXXIV. This volume formed the basis of
+Parisiensi exaratam, [[Anno|anno]]_ MDCCLXXIV. This volume formed the basis of
 modern classification; more than this, it is certain that Cuvier derived
 much help in his zoological classification from its perusal. Hardly had
-the last sheet passed through the press, when the French Revolution
+the last sheet passed through the press, when the [[French Revolution]]
 broke out, and the author was installed in charge of the hospitals of
 Paris. The muséum d'histoire naturelle was organized on its present
 footing mainly by him in 1793, and he selected for its library
@@ -98,7 +98,7 @@ brilliant botanical dynasty.
 
 6. LAURENT PIERRE DE JUSSIEU (1792-1866), miscellaneous writer, nephew
 of Antoine Laurent, was born at Villeurbanne on the 7th of February
-1792. His _Simon de Nantua, ou le marchand forain_ (1818), reached
+1792. His _Simon de Nantua, ou le marchand [[Forain|forain]]_ (1818), reached
 fifteen editions, and was translated into seven languages. He also wrote
 _Simples notions de physique et d'histoire naturelle_ (1857), and a few
 geological papers. He died at Passy on the 23rd of February 1866.

@@ -8,22 +8,22 @@ topic: history
 
 ATKINSON, SIR HARRY ALBERT (1831-1892), British colonial statesman,
 prime minister and speaker of the legislative council, New Zealand, was
-born at Chester in 1831, and in 1855 emigrated to Taranaki, New Zealand,
-where he became a farmer. In 1860 the Waitara war broke out, and from
+born at [[Chester]] in 1831, and in 1855 emigrated to Taranaki, New Zealand,
+where he became a [[Farmer|farmer]]. In 1860 the Waitara war broke out, and from
 its outset Atkinson, who had been selected as a captain of the New
 Plymouth Volunteers, distinguished himself by his contempt for
 appearances and tradition, and by the practical skill, energy and
 courage which he showed in leading his Forest Rangers in the tiresome
 and lingering bush warfare of the next five years. For this work he was
-made a major of militia, and thanked by the government. Elected to the
+made a [[Major|major]] of militia, and thanked by the government. Elected to the
 house of representatives in 1863, he joined Sir Frederick Weld's
 ministry at the end of November 1864 as minister of defence, and, during
 eleven months of office, was identified with the well-known
 "self-reliance" policy, a proposal to dispense with imperial regulars,
-and meet the Maori with colonials only. Parliament accepted this
+and meet the [[Maori]] with colonials only. Parliament accepted this
 principle, but turned out the Weld ministry for other reasons. For four
 years Atkinson was out of parliament; in October 1873 he re-entered it,
-and a year later became minister of lands under Sir Julius Vogel. Ten
+and a year later became minister of lands under Sir [[Julius]] Vogel. Ten
 months later he was treasurer, and such was his aptitude for finance
 that, except during six months in 1876, he thenceforth held that post
 whenever his party was in power. From October 1874 to January 1891
@@ -42,7 +42,7 @@ the governor by one-third, and the pay and number of ministers and
 members of parliament. By these resolute steps revenue was increased,
 expenditure checked, and the colony's finance reinstated. Atkinson was
 an advocate of compulsory national assurance, and the leasing as opposed
-to the selling of crown lands. Defeated in the general election of
+to the selling of [[Crown Land|crown lands]]. Defeated in the general election of
 December 1890, he took the appointment of speaker of the legislative
 council. There, while leaving the council chamber after the sitting of
 the 28th of June 1892, he was struck down by heart disease and died in a

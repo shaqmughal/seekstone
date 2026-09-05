@@ -15,7 +15,7 @@ the Munshis the eastern, while the Okpoto still held the south and a
 wedge-shaped district partially dividing the Munshis and Bassas. The Bassas
 are a very remarkable pagan race who permeate the entire protectorate of
 Northern Nigeria, and are to be found in small colonies in almost every
-province. They are clever agriculturists, naturally peaceful and
+province. They are [[Clever|clever]] agriculturists, naturally peaceful and
 industrious. The Munshis, though also good agriculturists, are a warlike
 and most unruly race, as are also the Okpoto.
 
@@ -25,7 +25,7 @@ was confined to the western half with Dekina (in 7° 3' E., 7° 41' N.) for
 its capital. In December of 1903 a disturbance resulting in the murder of
 the British resident led to the despatch of a military expedition, and as a
 result of the operations the frontiers of the districts under control were
-extended to the borders of the Munshi country in about 8° E. The western
+extended to the [[Borders|borders]] of the Munshi country in about 8° E. The western
 portion of the province, occupied by friendly and peaceful tribes upon the
 Niger, has been organized for administration on the same system as the rest
 of the protectorate. Courts of justice are operative and taxes are

@@ -6,16 +6,16 @@ lectures at Owens College, and at eighteen he gained a mathematical
 scholarship at Trinity College, Cambridge, where he graduated in 1871 as
 senior wrangler and first Smith's prizeman, having previously taken the
 degree of D.Sc. at London University and won a Whitworth scholarship.
-Although elected a fellow and tutor of his college, he stayed up at
+Although elected a [[Fellow|fellow]] and tutor of his college, he stayed up at
 Cambridge only for a very short time, preferring to learn practical
-engineering as a pupil in the works in which his father was a partner.
+[[Engineering|engineering]] as a pupil in the works in which his father was a partner.
 But there his stay was equally short, for in 1872 he undertook the
 duties of engineering manager in the glass manufactories of Messrs
-Chance Brothers and Company at Birmingham. Six years later he removed to
+Chance Brothers and Company at [[Birmingham]]. Six years later he removed to
 London, and while continuing to act as scientific adviser to Messrs
 Chance, established a most successful practice as a consulting engineer.
 His work was mainly, though not exclusively, electrical, and his
-services were in great demand as an expert witness in patent cases. In
+services were in great demand as an [[Expert|expert]] witness in patent cases. In
 1890 he was appointed director of the Siemens laboratory at King's
 College, London, with the title of professor of electrical engineering.
 His death occurred prematurely on the 27th of August 1898, when he was
@@ -29,7 +29,7 @@ engineering problems. His original work is contained in more than sixty
 papers, all written with a complete mastery both of style and of
 subject-matter. His name is best known in connexion with electricity and
 magnetism. On the one hand he worked out the general theory of the
-magnetic circuit in the dynamo (in conjunction with his brother Edward),
+magnetic circuit in the [[Dynamo|dynamo]] (in conjunction with his brother Edward),
 and the theory of alternating currents, and conducted a long series of
 observations on the phenomena attending magnetization in iron, nickel
 and the curious alloys of the two which can exist both in a magnetic and
@@ -46,13 +46,13 @@ the development of the three-wire system and the closed-circuit
 transformer, while electric traction had to thank him for the
 series-parallel method of working motors. During his residence in
 Birmingham, Messrs Chance being makers of glass for use in lighthouse
-lamps, his attention was naturally turned to problems of lighthouse
-illumination, and he was able to devise improvements in both the
+[[Lamp|lamps]], his attention was naturally turned to problems of lighthouse
+[[Illumination|illumination]], and he was able to devise improvements in both the
 catoptric and dioptric methods for concentrating and directing the beam.
 He was a strong advocate of the group-flashing system as a means of
 differentiating lights, and invented an arrangement for carrying it into
 effect optically, his plan being first adopted for the catoptric light
-of the _Royal Sovereign_ lightship, in the English Channel off Beachy
+of the _Royal Sovereign_ lightship, in the [[English Channel]] off Beachy
 Head. Moreover, his association with glass manufacture led him to study
 the refractive indices of different kinds of glass; he further undertook
 abstruse researches on electrostatic capacity, the phenomena of the

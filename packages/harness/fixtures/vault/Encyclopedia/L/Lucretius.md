@@ -16,7 +16,7 @@ in his life of Virgil, a work also based on the lost work of Suetonius,
 that Lucretius died on the same day on which Virgil assumed the _toga
 virilis_, that is, in the seventeenth year of Virgil's life, and on the
 very day on which he was born, and adds that the consuls were the same,
-that is Cn. Pompeius Magnus and M. Licinius Crassus, consuls in 70 and
+that is Cn. Pompeius Magnus and M. Licinius [[Crassus]], consuls in 70 and
 again in 55. The statements cannot be perfectly reconciled; but we may
 say with certainty that Lucretius was born between 98 and 95 B.C., and
 died in 55 or 54. A single mention of his poem, the _De rerum natura_
@@ -27,7 +27,7 @@ that of the poet's death. The statements of Jerome have been questioned
 or disbelieved on the ground of their intrinsic improbability. They have
 been regarded as a fiction invented later by the enemies of
 Epicureanism, with the view of discrediting the most powerful work ever
-produced by any disciple of that sect. It is more in conformity with
+produced by any [[Disciple|disciple]] of that sect. It is more in conformity with
 ancient credulity than with modern science to attribute a permanent
 tendency to derangement to the accidental administration of any drug,
 however potent. A work characterized by such strength, consistency and
@@ -36,7 +36,7 @@ intervals of madness" as Jerome says. Donatus, in mentioning the poet's
 death, gives no hint of the act of suicide. The poets of the Augustan
 age, who were deeply interested both in his philosophy and in his
 poetry, are entirely silent about the tragical story of his life.
-Cicero, by his professed antagonism to the doctrines of Epicurus, by his
+Cicero, by his professed antagonism to the doctrines of [[Epicurus]], by his
 inadequate appreciation of Lucretius himself and by the indifference
 which he shows to other contemporary poets, seems to have been neither
 fitted for the task of correcting the unfinished work of a writer whose
@@ -47,7 +47,7 @@ Yet these considerations do not lead to the absolute rejection of the
 story. The evidence afforded by the poem rather leads to the conclusion
 that the tradition contains some germ of fact. It is remarkable that in
 more than one passage of his poem Lucretius writes with extraordinary
-vividness of the impression produced both by dreams and by waking
+vividness of the impression produced both by [[Dream|dreams]] and by waking
 visions. It is true that the philosophy of Epicurus put great stress on
 these, as affording the explanation of the origin of supernatural
 beliefs. But the insistence with which Lucretius returns to the subject,
@@ -93,7 +93,7 @@ The Lucretian gens to which he belonged was one of the oldest of the
 great Roman houses, nor do we hear of the name, as we do of other great
 family names, as being diffused over other parts of Italy, or as
 designating men of obscure or servile origin. It may well be assumed
-that Lucretius was a member of the Roman aristocracy, belonging either
+that Lucretius was a member of the Roman [[Aristocracy|aristocracy]], belonging either
 to a senatorian or to one of the great equestrian families. If the Roman
 aristocracy of his time had lost much of the virtue and of the governing
 qualities of their ancestors, they showed in the last years before the
@@ -105,7 +105,7 @@ settled at Rome at the same time, and lived on terms of intimacy with
 them. The inference that Lucretius belonged to this class is confirmed
 by the tone in which he addresses Gaius Memmius, a man of an eminent
 senatorian family, to whom the poem is dedicated. His tone is quite
-unlike that in which Virgil or even Horace addresses Maecenas. He
+unlike that in which Virgil or even Horace addresses [[Maecenas]]. He
 addresses him as an equal; he expresses sympathy with the prominent part
 he played in public life, and admiration for his varied accomplishments,
 but on his own subject claims to speak to him with authority.
@@ -114,7 +114,7 @@ Although our conception of the poet's life is necessarily vague and
 meagre, yet his personal force is so remarkable and so vividly impressed
 on his poem, that we seem able to form a consistent idea of his
 qualities and characteristics. We know, for example, that the choice of
-a contemplative life was not the result of indifference to the fate of
+a contemplative life was not the result of indifference to the [[Fate|fate]] of
 the world, or of any natural coldness or even calmness of temperament.
 In the opening lines of the second and third books we can mark the
 recoil of a humane and sensitive spirit from the horrors of the reign of
@@ -123,7 +123,7 @@ confusion which prevailed at Rome during his later years. We may also
 infer that he had not been through his whole career so much estranged
 from the social life of his day as he seems to have been in his later
 years. Passages in his poem attest his familiarity with the pomp and
-luxury of city life, with the attractions of the public games and with
+luxury of city life, with the attractions of the public [[Games|games]] and with
 the pageantry of great military spectacles. But much the greater mass of
 the illustrations of his philosophy indicate that, while engaged on his
 poem he must have passed much of his time in the open air, exercising at
@@ -132,17 +132,17 @@ of a poet. He seems to have found a pleasure, more congenial to the
 modern than to the ancient temperament, in ascending mountains or
 wandering among their solitudes (vi. 469, iv. 575). References to
 companionship in these wanderings, and the well-known description of the
-charm of a rustic meal (ii. 29) speak of kindly sociality rather than of
-any austere separation from his fellows.
+[[Charm|charm]] of a rustic meal (ii. 29) speak of kindly sociality rather than of
+any austere separation from his [[Fellows|fellows]].
 
 Other expressions in his poem (e.g. iii. 10, &c.) imply that he was also
 a student of books. Foremost among these were the writings of Epicurus;
 but he had also an intimate knowledge of the philosophical poem of
-Empedocles, and at least an acquaintance with the works of Democritus,
-Anaxagoras, Heraclitus, Plato and the Stoical writers. Of other Greek
-prose writers he knew Thucydides and Hippocrates; while of the poets he
-expresses in more than one passage the highest admiration of Homer, whom
-he imitated in several places. Next to Homer Euripides is most
+[[Empedocles]], and at least an acquaintance with the works of Democritus,
+Anaxagoras, [[Heraclitus]], Plato and the Stoical writers. Of other Greek
+prose writers he knew Thucydides and [[Hippocrates]]; while of the poets he
+expresses in more than one passage the highest admiration of [[Homer]], whom
+he imitated in several places. Next to Homer [[Euripides]] is most
 frequently reproduced by him. But his poetical sympathy was not limited
 to the poets of Greece. For his own countryman Ennius he expresses an
 affectionate admiration; and he imitates his language, his rhythm and
@@ -153,8 +153,8 @@ writers, both Greek and Roman, in whose masculine temperament and
 understanding he recognized an affinity with his own.
 
 His devotion to Epicurus seems at first sight more difficult to explain
-than his enthusiasm for Empedocles or Ennius. Probably he found in his
-calmness of temperament, even in his want of imagination, a sense of
+than his [[Enthusiasm|enthusiasm]] for Empedocles or Ennius. Probably he found in his
+calmness of temperament, even in his want of [[Imagination|imagination]], a sense of
 rest and of exemption from the disturbing influences of life; while in
 his physical philosophy he found both an answer to the questions which
 perplexed him and an inexhaustible stimulus to his intellectual
@@ -186,7 +186,7 @@ speculative motive. As in the case of nearly all the great works of
 Roman literary genius, the form of the poem was borrowed from the
 Greeks. The rise of speculative philosophy in Greece was coincident with
 the beginning of prose composition, and many of the earliest
-philosophers wrote in the prose of the Ionic dialect; others, however,
+philosophers wrote in the prose of the Ionic [[Dialect|dialect]]; others, however,
 and especially the writers of the Greek colonies in Italy and Sicily,
 expounded their systems in continuous poems composed in the epic
 hexameter. Most famous in connexion with this kind of poetry are
@@ -209,7 +209,7 @@ than even the intellectual passion of a thinker. His speculative ideas,
 his moral teaching and his poetical power are indeed interdependent on
 one another, and this interdependence is what mainly constitutes their
 power and interest. But of the three claims which he makes to
-immortality, the importance of his subject, his desire to liberate the
+[[Immortality|immortality]], the importance of his subject, his desire to liberate the
 mind from the bonds of superstition and the charm and lucidity of his
 poetry--that which he himself regarded as supreme was the second. The
 main idea of the poem is the irreconcilable opposition between the truth
@@ -236,21 +236,21 @@ the two earliest books, accordingly, he lays down and largely
 illustrates the first principles of being with the view of showing that
 the world is not governed by capricious agency, but has come into
 existence, continues in existence, and will ultimately pass away in
-accordance with the primary conditions of the elemental atoms which,
+accordance with the primary conditions of the elemental [[Atom|atoms]] which,
 along with empty space, are the only eternal and immutable substances.
-These atoms are themselves infinite in number but limited in their
+These atoms are themselves [[Infinite|infinite]] in number but limited in their
 varieties, and by their ceaseless movement and combinations during
 infinite time and through infinite space the whole process of creation
 is maintained. In the third book he applies the principles of the atomic
 philosophy to explain the nature of the mind and vital principle, with
 the view of showing that the soul perishes with the body. In the fourth
-book he discusses the Epicurean doctrine of the images, which are cast
+book he discusses the Epicurean doctrine of the [[Image|images]], which are cast
 from all bodies, and which act either on the senses or immediately on
 the mind, in dreams or waking visions, as affording the explanation of
 the belief in the continued existence of the spirits of the departed.
 The fifth book, which has the most general interest, professes to
 explain the process by which the earth, the sea, the sky, the sun, moon
-and stars, were formed, the origin of life, and the gradual advance of
+and stars, were formed, the origin of life, and the [[Gradual|gradual]] advance of
 man from the most savage to the most civilized condition. All these
 topics are treated with the view of showing that the world is not itself
 divine nor directed by divine agency. The sixth book is devoted to the
@@ -261,7 +261,7 @@ which are special causes of supernatural terrors.
 The consecutive study of the argument produces on most readers a mixed
 feeling of dissatisfaction and admiration. They are repelled by the
 dryness of much of the matter, the unsuitableness of many of the topics
-discussed for poetic treatment, the arbitrary assumption of premises,
+discussed for poetic treatment, the arbitrary [[Assumption|assumption]] of premises,
 the entire failure to establish the connexion between the concrete
 phenomena which the author professes to explain and these assumptions,
 and the erroneousness of many of the doctrines which are stated with
@@ -322,13 +322,13 @@ as unconcerned with the interest of our world, yet influences are
 supposed to emanate from them which the human heart is capable of
 receiving and assimilating. The effect of unworthy conceptions of the
 divine nature is that they render a man incapable of visiting the
-temples of the gods in a calm spirit, or of receiving the emanations
+temples of the gods in a [[Calm|calm]] spirit, or of receiving the emanations
 that "announce the divine peace" in peaceful tranquillity. The supposed
-"atheism" of Lucretius proceeds from a more deeply reverential spirit
+"[[Atheism|atheism]]" of Lucretius proceeds from a more deeply reverential spirit
 than that of the majority of professed believers in all times.
 
 His moral attitude is also far removed from that of ordinary ancient
-Epicureanism or of modern materialism. Though he acknowledges pleasure
+Epicureanism or of modern [[Materialism|materialism]]. Though he acknowledges pleasure
 to be the law of life, yet he is far from regarding its attainment as
 the end of life. What man needs is not enjoyment, but "peace and a pure
 heart." The victory to be won by man is the triumph over fear, ambition,
@@ -349,10 +349,10 @@ which the hexameter of Lucretius has over that of Ennius and Lucilius.
 And no reader of Lucretius can doubt that he attached the greatest
 importance to artistic execution, and that he took a great pleasure, not
 only in "the long roll of his hexameter," but also in producing the
-effects of alliteration, assonance, &c., which are so marked a
+effects of alliteration, [[Assonance|assonance]], &c., which are so marked a
 peculiarity in the style of Plautus and the earlier Roman poets. He
 allows his taste for these tricks of style to degenerate into mannerism.
-And this is the only drawback to the impression of absolute spontaneity
+And this is the only [[Drawback|drawback]] to the impression of absolute spontaneity
 which his style produces. He was unfortunate in living before the
 natural rudeness of Latin art had been successfully grappled with. His
 only important precursors in serious poetry were Ennius and Lucilius,
@@ -367,8 +367,8 @@ the proper limits of his art is that his best poetry is clogged with a
 great mass of alien matter, which no treatment in the world could have
 made poetically endurable.     (W. Y. S.)
 
-  AUTHORITIES.--The two most ancient manuscripts of Lucretius, O and Q,
-  are both at Leiden, one being a folio (_oblongus_) and the other a
+  AUTHORITIES.--The two most ancient [[Manuscript|manuscripts]] of Lucretius, O and Q,
+  are both at Leiden, one being a [[Folio|folio]] (_oblongus_) and the other a
   quarto (_quadratus_). Upon these alone the modern texts are founded.
   The scientific editing of the text began with C. C. Lachmann (1852)
   whose work still holds the field. The most important commentary is
@@ -390,13 +390,13 @@ made poetically endurable.     (W. Y. S.)
   de Lucrèce_ (4th ed., Paris, 1885) and W. Y. Sellar in chaps. xi. sqq.
   of the _Roman Poets of the Republic_, may be consulted. There are
   useful bibliographies in W. S. Teuffel's _History of Roman Literature_
-  (English trans. by G. C. W. Warr) and Martin v. Schanz's _Geschichte
+  (English trans. by G. C. W. Warr) and [[Martin]] v. Schanz's _Geschichte
   der römischen Litteratur_.
 
   The following translations into English verse are known: T. Creech
-  (1683), J. M. Good (1805), T. Busby (1813), C. F. Johnson (New York,
-  1872), T. C. Baring (1884). There is also a translation by Cyril
-  Bailey (Oxford, 1910).
+  (1683), J. M. Good (1805), T. [[Busby]] (1813), C. F. Johnson (New York,
+  1872), T. C. [[Baring]] (1884). There is also a translation by [[Cyril]]
+  [[Bailey]] (Oxford, 1910).
 
 
 FOOTNOTE:

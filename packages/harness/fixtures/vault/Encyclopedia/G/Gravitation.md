@@ -5,7 +5,7 @@ mutual action between masses of matter by virtue of which every such
 mass tends toward every other with a force varying directly as the
 product of the masses and inversely as the square of their distances
 apart. Although the law was first clearly and rigorously formulated by
-Sir Isaac Newton, the fact of the action indicated by it was more or
+Sir [[Isaac]] Newton, the fact of the action indicated by it was more or
 less clearly seen by others. Even Ptolemy had a vague conception of a
 force tending toward the centre of the earth which not only kept bodies
 upon its surface, but in some way upheld the order of the universe. John
@@ -13,7 +13,7 @@ Kepler inferred that the planets move in their orbits under some
 influence or force exerted by the sun; but the laws of motion were not
 then sufficiently developed, nor were Kepler's ideas of force
 sufficiently clear, to admit of a precise statement of the nature of the
-force. C. Huygens and R. Hooke, contemporaries of Newton, saw that
+force. C. [[Huygens]] and R. [[Hooke]], contemporaries of Newton, saw that
 Kepler's third law implied a force tending toward the sun which, acting
 on the several planets, varied inversely as the square of the distance.
 But two requirements necessary to generalize the theory were still
@@ -68,7 +68,7 @@ exposed to that action. Great masses, as those of the great planets,
 would not be attracted with a force proportional to the mass because of
 the hindrance or other effect of the interposed portions. But not the
 slightest modification due to this cause is shown. The general
-conclusion from everything we see is that a mass of matter in Australia
+conclusion from everything we see is that a mass of matter in [[Australia]]
 attracts a mass in London precisely as it would if the earth were not
 interposed between the two masses.
 
@@ -83,7 +83,7 @@ nothing because, in the case of distances so great, centuries or even
 thousands of years of accurate observation will be required to show any
 action. On the other hand the enigmatical motion of the perihelion of
 Mercury has not yet found any plausible explanation except on the
-hypothesis that the gravitation of the sun diminishes at a rate slightly
+[[Hypothesis|hypothesis]] that the gravitation of the sun diminishes at a rate slightly
 greater than that of the inverse square--the most simple modification
 being to suppose that instead of the exponent of the distance being
 exactly -2, it is -2.000 000 161 2.
@@ -106,7 +106,7 @@ and repeated search for a mass of matter sufficient to produce the
 desired effect has been in vain, affords additional evidence of its
 non-existence. The most obvious test of the reality of the required
 modifications would be afforded by two other bodies, the motions of
-whose pericentres should be similarly affected. These are Mars and the
+whose pericentres should be similarly affected. These are [[Mars]] and the
 moon. Newcomb found an excess of motions in the perihelion of Mars
 amounting to about 5' per century. But the combination of observations
 and theory on which this is based is not sufficient fully to establish
@@ -135,7 +135,7 @@ towards different bodies we obtain the ratios of the masses of those
 different bodies and, in so far as the ratios are consistent, we obtain
 confirmation of the mass part. But we only obtain the ratios of the
 masses to the mass of some one member of the system, say the earth. We
-do not find the mass in terms of grammes or pounds. In fact, astronomy
+do not find the mass in terms of grammes or pounds. In fact, [[Astronomy|astronomy]]
 gives us the product GM, but neither G nor M. For example, the
 acceleration of the earth towards the sun is about 0.6 cm/sec.^2 at a
 distance from it about 15 X 10^12 cm. The acceleration of the moon
@@ -198,7 +198,7 @@ density of the earth, while experiments of the second class in which the
 pull between two known masses is directly measured may be termed
 experiments on the gravitation constant.
 
-We shall, however, adopt a slightly different classification for the
+We shall, however, adopt a slightly different [[Classification|classification]] for the
 purpose of describing methods of experiment, viz:--
 
   1. Comparison of the earth pull on a body with the pull of a natural
@@ -208,15 +208,15 @@ purpose of describing methods of experiment, viz:--
   Cavendish's experiment.
 
   3. Comparison of the earth pull on a body with the pull of an
-  artificial mass as in experiments with the common balance.
+  artificial mass as in experiments with the common [[Balance|balance]].
 
 It is interesting to note that the possibility of gravitation
 experiments of this kind was first considered by Newton, and in both of
 the forms (1) and (2). In the _System of the World_ (3rd ed., 1737, p.
 40) he calculates that the deviation by a hemispherical mountain, of the
 earth's density and with radius 3 m., on a plumb-line at its side will
-be less than 2 minutes. He also calculates (though with an error in his
-arithmetic) the acceleration towards each other of two spheres each a
+be less than 2 minutes. He also calculates (though with an [[Error|error]] in his
+[[Arithmetic|arithmetic]]) the acceleration towards each other of two spheres each a
 foot in diameter and of the earth's density, and comes to the conclusion
 that in either case the effect is too small for measurement. In the
 _Principia_, bk. iii., prop. x., he makes a celebrated estimate that the
@@ -269,7 +269,7 @@ pull of Chimborazo, a mountain about 20,000 ft. high, by the deflection
 of a plumb-line at a station on its south side. Fig. 1 shows the
 principle of the method. Suppose that two stations are fixed, one on the
 side of the mountain due south of the summit, and the other on the same
-latitude but some distance westward, away from the influence of the
+[[Latitude|latitude]] but some distance westward, away from the influence of the
 mountain. Suppose that at the second station a star is observed to pass
 the meridian, for simplicity we will say directly overhead, then a
 plumb-line will hang down exactly parallel to the observing telescope.
@@ -327,12 +327,12 @@ years later (_Phil. Trans._, 1811, p. 347), and the density of the earth
 was given as lying between 4.5588 and 4.867.
 
 Other experiments have been made on the attraction of mountains by
-Francesco Carlini (_Milano Effem. Ast._, 1824, p. 28) on Mt. Blanc in
+Francesco Carlini (_Milano Effem. Ast._, 1824, p. 28) on Mt. [[Blanc]] in
 1821, using the pendulum method after the manner of Bouguer, by Colonel
 Sir Henry James and Captain A. R. Clarke (_Phil. Trans._, 1856, p. 591),
 using the plumb-line deflection at Arthur's Seat, by T. C. Mendenhall
 (_Amer. Jour. of Sci._ xxi. p. 99), using the pendulum method on
-Fujiyama in Japan, and by E. D. Preston (_U.S. Coast and Geod. Survey
+Fujiyama in [[Japan]], and by E. D. Preston (_U.S. Coast and Geod. Survey
 Rep._, 1893, p. 513) in Hawaii, using both methods.
 
 _Airy's Experiment._--In 1854 Sir G. B. Airy (_Phil. Trans._ 1856, p.
@@ -398,7 +398,7 @@ ellipticity and rotation of the earth is [Delta] = 6.565.
 _Von Sterneck's Experiments._--(_Mitth. des K.U.K. Mil. Geog. Inst. zu
 Wien_, ii, 1882, p. 77; 1883, p. 59; vi., 1886, p. 97). R. von Sterneck
 repeated the mine experiment in 1882-1883 at the Adalbert shaft at
-Pribram in Bohemia and in 1885 at the Abraham shaft near Freiberg. He
+Pribram in Bohemia and in 1885 at the Abraham shaft near [[Freiberg]]. He
 used two invariable half-seconds pendulums, one swung at the surface,
 the other below at the same time. The two were at intervals
 interchanged. Von Sterneck introduced a most important improvement by
@@ -425,14 +425,14 @@ II. _Determination of the Attraction between two Artificial Masses._
 
 [Illustration: FIG. 2.--Cavendish's Apparatus.
 
-h h, torsion rod hung by wire l g,; x, x, attracted balls hung from its
+h h, torsion rod hung by wire l g,; x, x, attracted [[Ball|balls]] hung from its
 ends; WW, attracting masses.]
 
 _Cavendish's Experiment_ (_Phil. Trans._, 1798, p. 469).--This
 celebrated experiment was planned by the Rev. John Michell. He completed
 an apparatus for it but did not live to begin work with it. After
 Michell's death the apparatus came into the possession of Henry
-Cavendish, who largely reconstructed it, but still adhered to Michell's
+[[Cavendish]], who largely reconstructed it, but still adhered to Michell's
 plan, and in 1797-1798 he carried out the experiment. The essential
 feature of it consisted in the determination of the attraction of a lead
 sphere 12 in. in diameter on another lead sphere 2 in. in diameter, the
@@ -442,7 +442,7 @@ hh 6 ft. long, tied from its ends to a vertical piece mg, was hung by a
 wire lg. From its ends depended two lead balls xx each 2 in. in
 diameter. The position of the rod was determined by a scale fixed near
 the end of the arm, the arm itself carrying a vernier moving along the
-scale. This was lighted by a lamp and viewed by a telescope T from the
+scale. This was lighted by a [[Lamp|lamp]] and viewed by a telescope T from the
 outside of the room containing the apparatus. The torsion balance was
 enclosed in a case and outside this two lead spheres WW each 12 in. in
 diameter hung from an arm which could turn round an axis Pp in the line
@@ -524,9 +524,9 @@ vibration when the attracting masses were in different positions.
 
 _Baily's Experiment_ (_Memoirs of the Royal Astron. Soc._ xiv.).--In
 1841-1842 Francis Baily made a long series of determinations by
-Cavendish's method and with apparatus nearly of the same dimensions. The
+Cavendish's method and with apparatus nearly of the same [[Dimension|dimensions]]. The
 attracting masses were 12-in. lead spheres and as attracted balls he
-used various masses, lead, zinc, glass, ivory, platinum, hollow brass,
+used various masses, lead, zinc, glass, [[Ivory|ivory]], platinum, hollow [[Brass|brass]],
 and finally the torsion rod alone without balls. The suspension was also
 varied, sometimes consisting of a single wire, sometimes being bifilar.
 There were systematic errors running through Baily's work, which it is
@@ -547,14 +547,14 @@ of these were filled with mercury weighing 12 kgm., the two spheres of
 mercury constituting the attracting masses. When the position of a mass
 was to be changed the mercury was pumped from the sphere on one side to
 that on the other side of a ball. To avoid counting time a method of
-electric registration on a chronograph was adopted. A provisional result
+electric registration on a [[Chronograph|chronograph]] was adopted. A provisional result
 was [Delta] = 5.56.
 
 [Illustration: FIG. 3.--Diagram of a Section of Professor Boys's
 Apparatus.]
 
 _Boys's Experiment_ (_Phil. Trans._, A., 1895, pt. i., p. 1).--Professor
-C. V. Boys having found that it is possible to draw quartz fibres of
+C. V. Boys having found that it is possible to draw quartz [[Fibres|fibres]] of
 practically any degree of fineness, of great strength and true in their
 elasticity, determined to repeat the Cavendish experiment, using his
 newly invented fibres for the suspension of the torsion rod. He began by
@@ -617,7 +617,7 @@ places the same as those obtained by Boys.
 _G. K. Burgess's Experiment_ (_Theses presentees a la faculte des
 sciences de Paris pour obtenir le titre de docteur de l'universite de
 Paris_, 1901).--This was a Cavendish experiment in which the torsion
-system was buoyed up by a float in a mercury bath. The attracted masses
+system was buoyed up by a [[Float|float]] in a mercury bath. The attracted masses
 could thus be made large, and yet the suspending wire could be kept
 fine. The torsion beam was 12 cm. long, and the attracted balls were
 lead spheres each 2 kgm. From the centre of the beam depended a vertical
@@ -654,7 +654,7 @@ Potsdam_, 1887, No. 22, vol. vi. pt. ii.; pt. iii. p. 133).--We may
 perhaps class with the Cavendish type an experiment made by J. Wilsing,
 in which a vertical "double pendulum" was used in place of a horizontal
 torsion system. Two weights each 540 gm. were fixed at the ends of a rod
-1 metre long. A knife edge was fixed on the rod just above its centre of
+1 metre long. A [[Knife|knife]] edge was fixed on the rod just above its centre of
 gravity, and this was supported so that the rod could vibrate about a
 vertical position. Two attracting masses, cast-iron cylinders each 325
 kgm., were placed, say, one in front of the top weight on the pendulum
@@ -669,7 +669,7 @@ restoring couple per radian deflection could be found. The final result
 gave [Delta] = 5.579.
 
 _J. Joly's suggested Experiment_ (_Nature_ xli., 1890, p. 256).--Joly
-has suggested that G might be determined by hanging a simple pendulum in
+has suggested that G might be determined by [[Hanging|hanging]] a simple pendulum in
 a vacuum, and vibrating outside the case two massive pendulums each with
 the same time of swing as the simple pendulum. The simple pendulum would
 be set swinging by the varying attraction and from its amplitude after a
@@ -690,13 +690,13 @@ found when E is known.
 
 _Von Jolly's Experiment_ (_Abhand. der k. bayer. Akad. der Wiss._ 2 Cl.
 xiii. Bd. 1 Abt. p. 157, and xiv. Bd. 2 Abt. p. 3).--In the first of
-these papers Ph. von Jolly described an experiment in which he sought to
+these papers Ph. von [[Jolly]] described an experiment in which he sought to
 determine the decrease in weight with increase of height from the
 earth's surface, an experiment suggested by Bacon (_Nov. Org._ Bk. 2,
 S36), in the form of comparison of rates of two clocks at different
 levels, one driven by a spring, the other by weights. The experiment in
 the form carried out by von Jolly was attempted by H. Power, R. Hooke,
-and others in the early days of the Royal Society (Mackenzie, _The Laws
+and others in the early days of the Royal Society ([[Mackenzie]], _The Laws
 of Gravitation_). Von Jolly fixed a balance at the top of his laboratory
 and from each pan depended a wire supporting another pan 5 metres below.
 Two 1-kgm. weights were first balanced in the upper pans and then one
@@ -791,7 +791,7 @@ Probably [Delta] = 5.53 and G = 6.66 X 10^-8 are correct to 1 in 500.
   gives an account of all work up to the date of publication with a
   bibliography; A. Stanley Mackenzie, _The Laws of Gravitation_ (1899),
   gives annotated extracts from various papers, some historical notes
-  and a bibliography. _A Bibliography of Geodesy, Appendix 8, Report for
+  and a bibliography. _A Bibliography of [[Geodesy]], Appendix 8, Report for
   1902 of the U.S. Coast and Geodetic Survey_ includes a very complete
   bibliography of gravitational work.     (J. H. P.)
 

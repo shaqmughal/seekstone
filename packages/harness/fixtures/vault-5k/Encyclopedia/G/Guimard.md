@@ -19,7 +19,7 @@ Paris, she opened a gorgeous house with a theatre seating five hundred
 spectators in the Chaussee d'Antin. In this Temple of Terpsichore, as
 she named it, the wildest orgies took place. In 1786 she was compelled
 to get rid of the property, and it was disposed of by lottery for her
-benefit for the sum of 300,000 francs. Soon after her retirement in 1789
+benefit for the sum of 300,000 [[Franc|francs]]. Soon after her retirement in 1789
 she married Jean Etienne Despreaux (1748-1820), dancer, song-writer and
 playwright.
 

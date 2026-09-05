@@ -9,7 +9,7 @@ id: 42-6913
 
 # Dynamo
 
-DYNAMO (a shortened form of "dynamo-electric machine," from Gr. [Greek:
+DYNAMO (a shortened form of "dynamo-electric [[Machine|machine]]," from Gr. [Greek:
 dynamis], power), a machine for converting mechanical into electrical
 energy.
 
@@ -17,7 +17,7 @@ The dynamo ranks with the telegraph and telephone as one of the three
 striking applications of electrical and magnetic science to which the
 material progress that marked the second half of the 19th century was in
 no small measure due. Since the discovery of the principle of the dynamo
-by Faraday in 1831 the simple model which he first constructed has been
+by [[Faraday]] in 1831 the simple model which he first constructed has been
 gradually developed into the machines of 5000 horse-power or more which
 are now built to meet the needs of large cities for electric lighting
 and power, while at the same time the numbers of dynamos in use have
@@ -55,7 +55,7 @@ already saw the possibilities.
 
 A dynamo, then, is a machine in which, by means of continuous relative
 motion, an electrical conductor or system of conductors forming part of
-a circuit is caused to cut the lines of a magnetic field or fields; the
+a circuit is caused to cut the lines of a magnetic field or [[Fields|fields]]; the
 cutting of the magnetic flux induces an electromotive force in the
 conductors, and when the circuit is closed a current flows, whereby
 mechanical energy is converted into electrical energy.
@@ -71,7 +71,7 @@ mechanical energy is converted into electrical energy.
   purposes became economically possible. As a converter of energy from
   one form to another it is only surpassed in efficiency by another
   electrical appliance, namely, the transformer (see TRANSFORMERS). In
-  this there is merely conversion of electrical energy at a high
+  this there is merely [[Conversion|conversion]] of electrical energy at a high
   potential into electrical energy at a low potential, or vice versa,
   but in the dynamo the mechanical energy which must be applied to
   maintain the relative movement of magnetic field and conductor is
@@ -96,7 +96,7 @@ mechanical energy is converted into electrical energy.
   disadvantageous situation, the dynamo may almost be said to have added
   another to our available natural resources.
 
-The two essential parts of the dynamo, as required by its definition,
+The two essential parts of the dynamo, as required by its [[Definition|definition]],
 may be illustrated by the original disk machine of Faraday. They are (1)
 the _iron magnet_, between the poles of which a magnetic field exists,
 and (2) the _electrical conductors_, represented by the rotating copper
@@ -107,7 +107,7 @@ its more highly developed form the simple copper disk is elaborated into
 a system of many active wires or bars which form the "winding," and
 which are so interconnected as to add up their several E.M.F.'s. Since
 these active wires are usually mounted on an iron structure, which may
-be likened to the keeper or "armature" of a magnet rotating between its
+be likened to the keeper or "[[Armature|armature]]" of a magnet rotating between its
 poles, the term "armature" has been extended to cover not only the iron
 core, but also the wires on it, and when there is no iron core it is
 even applied to the copper conductors themselves. In the dynamo of
@@ -125,7 +125,7 @@ proportional to the rate at which the lines are cut.[4]
 
 [Illustration: FIG. 2.]
 
-The equation of the _electromotive force_ which is required in order to
+The [[Equation|equation]] of the _electromotive force_ which is required in order to
 render this statement quantitative must contain three factors, namely,
 the density of the flux in the air-gap through which the armature
 conductors move, the active length of these wires, and the speed of
@@ -161,13 +161,13 @@ they induce, a mutual force at once arises between the copper conductors
 and the magnet, and the direction of this force must by Lenz's law be
 opposed to the direction of the movement. Thus as soon as the disk of
 fig. 1 is rotated and its circuit is closed, it experiences a mechanical
-pull or drag which must be overcome by the force applied to turn the
+pull or [[Drag|drag]] which must be overcome by the force applied to turn the
 disk. While the magnet must be firmly held so as to remain stationary,
 the armature must be of such mechanical construction that its wires can
 be forcibly driven through the magnetic field against the mutual pull.
 This law of electrodynamic action may be quantitatively stated in an
 _equation of mechanical force_, analogous to the equation (I.) of
-electromotive force, which states the law of electromagnetic induction.
+electromotive force, which states the law of electromagnetic [[Induction|induction]].
 If a conductor of length L cm., carrying a current C amperes, is
 immersed in a field of uniform density B_g, and the length of the
 conductor is at right angles to the direction of the lines, it is acted
@@ -208,7 +208,7 @@ problem, therefore, in the construction of the dynamo is the disposition
 of the wires and field in such a manner that the three directions of
 field, length of active conductors, and movement are at right angles to
 one another, and so that the relative motion is continuous.
-Reciprocating motion, such as would be obtained by direct attachment of
+Reciprocating motion, such as would be obtained by direct [[Attachment|attachment]] of
 the conductors to the piston of a steam-engine, has been successfully
 employed only in the special case of an "oscillator,"[7] producing a
 small current very rapidly changing in direction. Rotary motion is
@@ -218,7 +218,7 @@ rotation, or (B) it is at right angles to it.
 
 [Illustration: FIG. 3.]
 
-(A) If a conductor is rotated in the gap between the poles of a
+(A) If a conductor is rotated in the [[Gap|gap]] between the poles of a
 horse-shoe magnet, and these poles have plane parallel faces opposing
 one another as in fig. 3, not only is the density of the flux in the
 interpolar gap small, but the direction of movement is not always at
@@ -244,7 +244,7 @@ E.M.F. induced in the active conductor will cause an alternating current
 to flow through conductor and external circuit, and the simplest form of
 "alternator" is obtained. If the field cut by the straight conductor is
 of uniform density, and all the lines pass straight across from one
-pole-face to the other (both of which assumptions are approximately
+pole-face to the other (both of which [[Assumption|assumptions]] are approximately
 correct), a curve connecting the instantaneous values of the E.M.F. as
 ordinates with time or degrees of angular movement as abscissae (as
 shown at the foot of fig. 3), will, if the speed of rotation be uniform,
@@ -280,7 +280,7 @@ E.M.F.'s under N and S poles in the second.
 
 [Illustration: FIG. 6.]
 
-1. The first, or _ring_-winding, was invented by Dr Antonio Pacinotti of
+1. The first, or _ring_-winding, was invented by Dr [[Antonio]] Pacinotti of
 Florence[9] in 1860, and was subsequently and independently reintroduced
 in 1870[10] by the Belgian electrician, Zenobe Theophile Gramme, whence
 it is also frequently called the "Gramme" winding. By this method the
@@ -308,7 +308,7 @@ simply as connectors for joining the external active wires in series.
 
 [Illustration: FIG. 7.]
 
-2. The second or _drum_ method was used in the original "shuttle-wound"
+2. The second or _[[Drum|drum]]_ method was used in the original "shuttle-wound"
 armatures invented by Dr Werner von Siemens in 1856, and is sometimes
 called the "Siemens" winding. The farther end of conductor 1 (fig. 5) is
 joined by a connecting wire to the farther end of another conductor 2'
@@ -488,7 +488,7 @@ extremely small currents circulating through the interior of the
 separate laminations. Each thin iron plate is either coated with an
 insulating varnish or has one of its sides covered with a sheet of very
 thin paper; the thickness of the laminae is usually about one-fortieth
-of an inch, and if this is not exceeded the rate at which energy is
+of an [[Inch|inch]], and if this is not exceeded the rate at which energy is
 dissipated by eddy-currents in the core is so far reduced that it does
 not seriously impair the efficiency of the machine.
 
@@ -498,7 +498,7 @@ to the periphery of the core, or may be embedded in the slots between
 projecting iron teeth (figs. 9 [II.] and 10). Originally employed by
 Antonio Pacinotti in connexion with ring winding, the toothed armature
 was after some considerable use largely discarded in favour of the
-smooth core; it has, however, been reintroduced with a fuller
+smooth core; it has, however, been reintroduced with a [[Fuller|fuller]]
 understanding of the special precautions necessitated in its design, and
 it is now so commonly used that it may be said to have superseded the
 smooth-surface armature.
@@ -552,8 +552,8 @@ smooth-surface armature.
   on the other hand, the process of winding becomes laborious and
   expensive, while the increase in the inductance of the coils owing to
   their being surrounded by a closed iron circuit is prejudicial to
-  sparkless commutation in the continuous-current dynamo and to the
-  regulation of the voltage of the alternator. A compromise is found in
+  sparkless [[Commutation|commutation]] in the continuous-current dynamo and to the
+  regulation of the voltage of the alternator. A [[Compromise|compromise]] is found in
   the half-closed slot, which is not uncommon in alternators, although
   the open slot is more usual in continuous-current dynamos.
 
@@ -684,7 +684,7 @@ E.M.F. differing in phase by 120 deg., is obtained.
   will therefore be 4Z_a(pN/60)t x 10^(-8). But unless each band is
   concentrated within a single slot, there must be some differential
   action as they cross the neutral line between the poles, so that the
-  last expression is virtually the _gross_ average E.M.F. of the loops
+  last expression is virtually the _[[Gross|gross]]_ average E.M.F. of the loops
   on the assumption that the component E.M.F.'s always act in agreement
   round the coil and do not at times partially neutralize one another.
   The _net_ average E.M.F. of the coil as a whole, or the arithmetical
@@ -879,9 +879,9 @@ throughout one or any number of revolutions.
   in early days was the problem of choosing the correct relation of Z_a
   or [tau] for the required output; this, again, was due chiefly to the
   difficulty of predetermining the total flux before the machine was
-  constructed. The general error lay in employing too weak a field and
-  too many turns on the armature, and credit must here be given to the
-  American inventors, E. Weston and T.A. Edison, for their early
+  constructed. The general [[Error|error]] lay in employing too weak a field and
+  too many turns on the armature, and [[Credit|credit]] must here be given to the
+  American inventors, E. Weston and T.A. [[Edison]], for their early
   appreciation of the superiority in practical working of the drum
   armature, with comparatively few active wires rotating in a strong
   field.
@@ -900,13 +900,13 @@ machines are strung directly on the shaft; in larger multipolar
 machines, in which the required radial depth of iron is small relatively
 to the diameter, a central cast iron hub supports the disks. Since the
 driving force is transmitted through the shaft to the disks, they must
-in the former case be securely fixed by keys sunk into the shaft; when a
+in the former case be securely fixed by [[Key|keys]] sunk into the shaft; when a
 central hub is employed (fig. 19) it is keyed to the shaft, and its
 projecting arms engage in notches stamped on the inner circumference of
 the disks, or the latter have dovetailed projections fitting into the
 arms. The disks are then tightly compressed and clamped between stout
 end-plates so as to form a nearly solid iron cylinder of axial length
-slightly exceeding the corresponding dimension of the poles. If the
+slightly exceeding the corresponding [[Dimension|dimension]] of the poles. If the
 armature is more than 4 ft. in diameter, the disks become too large to
 be conveniently handled in one piece, and are therefore made in
 segments, which are built up so as to break joint alternately. Prior to
@@ -939,14 +939,14 @@ and re-wound. Former-wound coils are, on the other hand, economical in
 labour, perfectly symmetrical and interchangeable, and can be thoroughly
 insulated before they are placed in the slots. The shapers employed in
 the forming process are very various, but are usually arranged to give
-to the finished coil a lozenge shape, the two straight active sides
+to the finished coil a [[Lozenge|lozenge]] shape, the two straight active sides
 which fit into the straight slots being joined by V-shaped ends; at each
 apex of the coil the wire is given a twist, so that the two sides fall
 into different levels, an upper and a lower, corresponding to the two
 layers which the coil-sides form on the finished armature. Rectangular
 wire of comparatively small section may be similarly treated, and if
 only one loop is required per section, wide and thin strip can be bent
-into a complete loop, so that the only soldered joints are those at the
+into a complete loop, so that the only soldered [[Joints|joints]] are those at the
 commutator end where the loops are interconnected. But finally with
 massive rectangular conductors, the transition must be made to
 bar-winding, in which each bar is a half-loop, insulated by being taped
@@ -1089,7 +1089,7 @@ Lap-loops]
   thereby.
 
   In appearance the two classes of armatures, lap and wave, may be
-  distinguished in the barrel type of winding by the slope of the upper
+  distinguished in the [[Barrel|barrel]] type of winding by the slope of the upper
   layer of back end-connexions, and that of the front connexions at the
   commutator end being parallel to one another in the latter, and
   oppositely directed in the former.
@@ -1210,7 +1210,7 @@ limbs through the air-gap to the armature core, or vice versa.
 
   As regards the materials of which magnets are made, generally speaking
   there is little difference in the permeability of "wrought iron" or
-  "mild steel forgings" and good "cast steel"; typical (B, H) curves
+  "mild steel [[Forging|forgings]]" and good "cast steel"; typical (B, H) curves
   connecting the magnetizing force required with different
   flux-densities for these materials are given under ELECTROMAGNETISM.
   On the other hand there is a marked inferiority in the case of "cast
@@ -1271,8 +1271,8 @@ limbs through the air-gap to the armature core, or vice versa.
   be drawn in one direction more than in another; but if there is any
   difference between the densities of the several fields, it will cause
   an unbalanced stress on the armature and its shaft, under which it
-  will bend, and as this bending is continually reversed relatively to
-  the fibres of the shaft, they will eventually become weakened and give
+  will [[Bend|bend]], and as this bending is continually reversed relatively to
+  the [[Fibres|fibres]] of the shaft, they will eventually become weakened and give
   way. Especially is this likely to take place in dynamos with short
   air-gaps, wherein any difference in the lengths of the air-gaps
   produces a much greater percentage difference in the flux-density than
@@ -1294,7 +1294,7 @@ greatest economy in materials and exciting energy. The key to the two
 problems is to be found in the concept of a magnetic circuit as
 originated by H.A. Rowland and R.H.M. Bosanquet;[16] and the full
 solution of both may be especially connected with the name of Dr J.
-Hopkinson, from his practical application of the concept in his design
+[[Hopkinson]], from his practical application of the concept in his design
 of the Edison-Hopkinson machine, and in his paper on "Dynamo-Electric
 Machinery."[17] The publication of this paper in 1886 begins the second
 era in the history of the dynamo; it at once raised its design from the
@@ -1308,7 +1308,7 @@ permeability and carry approximately the same total flux; the difference
 of magnetic potential that must exist between the ends of each section
 of the magnet in order that the flux may pass through it is then
 calculated _seriatim_ for the several portions into which the magnetic
-circuit is divided, and the separate items are summed up into one
+circuit is divided, and the separate [[Item|items]] are summed up into one
 magnetomotive force that must be furnished by the exciting coils.
 
 [Illustration: FIG. 29.]
@@ -1431,7 +1431,7 @@ magnetomotive force that must be furnished by the exciting coils.
   through the armature core in opposition to the demagnetizing turns,
   the difference of magnetic potential between the pole-faces must
   include not only X_a, X_t, and X_g, but also an item X_b, in order to
-  balance the "back" ampere-turns of the armature. The amount by which
+  [[Balance|balance]] the "back" ampere-turns of the armature. The amount by which
   the brushes must be shifted forward increases with the armature
   current, and in corresponding proportion the back ampere-turns are
   also increased, their value being c[tau]2[lambda]/360 deg., where c = the
@@ -1494,7 +1494,7 @@ magnetomotive force that must be furnished by the exciting coils.
   the machine which does not form part of the magnetic circuit proper,
   and especially no iron should be brought near the poles, between which
   the difference of magnetic potential practically reaches its maximum
-  value. In default of a machine of the same size or similar type on
+  value. In [[Default|default]] of a machine of the same size or similar type on
   which to experiment, the probable direction of the leakage flux must
   be assumed from the drawing, and the air surrounding the machine must
   be mapped out into areas, between which the permeances are calculated
@@ -1580,7 +1580,7 @@ magnetomotive force that must be furnished by the exciting coils.
   in the external current causes a greater loss of volts in the armature
   and a greater armature reaction, the terminal voltage, which is also
   the exciting voltage, is highest at no load and then diminishes. The
-  fall is at first gradual, but after a certain critical value of the
+  fall is at first [[Gradual|gradual]], but after a certain critical value of the
   armature current is reached, the machine is rapidly demagnetized and
   loses its voltage entirely.
 
@@ -1647,7 +1647,7 @@ indirectly from the prime mover.
 
 In practice, when the normal contact-resistance of the brushes is low
 relatively to the resistance of the coil, as is the case with metal
-brushes of copper or brass gauze, but little benefit can be obtained
+brushes of copper or [[Brass|brass]] gauze, but little benefit can be obtained
 from the action of the varying contact-resistance. It exerts no
 appreciable effect until close towards the end of the period of
 short-circuit, and then only with such a high-current-density at the
@@ -1676,7 +1676,7 @@ reversing E.M.F. is not closely adjusted in proportion to the armature
 current.
 
 On this account metal brushes have been almost entirely superseded by
-carbon moulded into hard blocks. With these, owing to their higher
+[[Carbon|carbon]] moulded into hard blocks. With these, owing to their higher
 specific contact-resistance, a very considerable reversing effect can be
 obtained through the action of unequal current-density, and indeed in
 favourable cases complete sparklessness can be obtained throughout the
@@ -1706,7 +1706,7 @@ resultant field.
   From the moment that a dynamo begins to run with excited field, heat
   is continuously generated by the passage of the current through the
   windings of the field-magnet coils and the armature, as well as by the
-  action of hysteresis and eddy currents in the armature and
+  action of [[Hysteresis|hysteresis]] and eddy currents in the armature and
   pole-pieces. Whether the source of the heat be in the field-magnet or
   in the armature, the mass in which it originates will continue to rise
   in temperature until such a difference of temperature is established
@@ -1722,7 +1722,7 @@ resultant field.
   heat is being generated is easily determined, since it is equal to the
   square of the current passing through them multiplied by their
   resistance. Further, the magnet is usually stationary, and only
-  indirectly affected by draughts of air due to the rotating armature.
+  indirectly affected by [[Draughts|draughts]] of air due to the rotating armature.
   Hence for machines of a given type and of similar proportions, it is
   not difficult to decide upon some method of reckoning the cooling
   surface of the magnet coils S_c, such that the rise of temperature
@@ -1739,7 +1739,7 @@ resultant field.
   any given cooling surface due to the rotation causing convection
   currents in the surrounding air. Only experiment can determine the
   exact effect of this, and even with a given type of armature it is
-  dependent on the number of poles, each of which helps to break up the
+  dependent on the number of poles, each of which [[Helps|helps]] to break up the
   air-currents, and so to dissipate the heat. For example, in two-pole
   machines with drum bar-armatures, if the cooling surface be reckoned
   as equal to the cylindrical exterior plus the area of the two ends,
@@ -1785,7 +1785,7 @@ For the electro-deposition of metals or the electrolytic treatment of
 ores a continuous current is a necessity; but, apart from such use, the
 purposes from which the continuous-current dynamo is well adapted are so
 numerous that they cover nearly the whole field of electrical
-engineering, with one important exception. To meet these various uses,
+[[Engineering|engineering]], with one important exception. To meet these various uses,
 the pressures for which the machine is designed are of equally wide
 range; for the transmission of power over long distances they may be as
 high as 3000 volts, and for electrolytic work as low as five. Each
@@ -1797,8 +1797,8 @@ necessitating the use of two commutators, one at either end of the
 armature, in order to collect the current without excessive heating of
 the sectors and brushes. The field-magnets are invariably shunt-wound,
 in order to avoid reversal of the current through polarization at the
-electrodes of the bath. For incandescent lighting by glow lamps, the
-requirements of small isolated installations and of central stations for
+electrodes of the bath. For incandescent lighting by glow [[Lamp|lamps]], the
+requirements of small isolated [[Installation|installations]] and of central stations for
 the distribution of electrical energy over large areas must be
 distinguished. For the lighting of a private house or small factory, the
 dynamo giving from 5 to 100 kilo-watts of output is commonly wound for a
@@ -1988,7 +1988,7 @@ corresponding output. The support of the armature core when of large
 diameter is therefore a more difficult problem, since, apart from any
 magnetic strains to which it may be subjected, its own weight tends to
 deform it. The segmental core-disks are usually secured to the internal
-circumference of a circular cast iron frame; the latter has a box
+circumference of a circular cast iron [[Frame|frame]]; the latter has a [[Box|box]]
 section of considerable radial depth to give stiffness to it, and the
 disks are tightly clamped between internal flanges, one being a fixed
 part of the frame and the other loose, with transverse bolts passing
@@ -2017,7 +2017,7 @@ flexible micanite. The end-connexions of each group of coils of one
 phase project straight out from the slots or are bent upwards
 alternately with those of the other phases, so that they may clear one
 another (fig. 37). A wooden wedge driven into a groove at the top of
-each slot is often used to lock the coil in place. With slots nearly
+each slot is often used to [[Lock|lock]] the coil in place. With slots nearly
 closed at the top, the coils are formed by hand by threading the wire
 through tubes of micanite or specially prepared paper lining the slots;
 or with single-turn loops, stout bars of copper of [U]-shape can be
@@ -2028,7 +2028,7 @@ end.
     Shape of E.M.F. curve.
 
   The first experimental determination of the shape of the E.M.F. curve
-  of an alternator was made by J. Joubert in 1880. A revolving
+  of an alternator was made by J. [[Joubert]] in 1880. A revolving
   contact-maker charged a condenser with the E.M.F. produced by the
   armature at a particular instant during each period. The condenser was
   discharged through a ballistic galvanometer, and from the measured
@@ -2083,7 +2083,7 @@ end.
 
   Since an alternating current cannot be used for exciting the
   field-magnet, recourse must be had to some source of a direct current.
-  This is usually obtained from a small auxiliary continuous-current
+  This is usually obtained from a small [[Auxiliary|auxiliary]] continuous-current
   dynamo, called an _exciter_, which may be an entirely separate
   machine, separately driven and used for exciting several alternators,
   or may be driven from the alternator itself; in the latter case the
@@ -2180,7 +2180,7 @@ end.
   equal, and the total output in watts will be W = 3Ce = 3CE/[root]3 =
   1.732 EC, or 1.732 times the product of the effective voltage between
   the lines and the current in any single line. Next, if the three coils
-  are closed upon themselves in a mesh or _delta_ fashion (fig. 42), the
+  are closed upon themselves in a mesh or _[[Delta|delta]]_ fashion (fig. 42), the
   three transmitting wires may be connected to the junctions of the
   coils (by means of collecting rings if the armature rotates). The
   voltage E between any pair of wires is evidently that generated by
@@ -2307,7 +2307,7 @@ to the introduction of better means for economizing the weight of copper
 in the mains, the alternating current again came into favour, as
 rendering it possible to place the central station in some convenient
 site far away from the district which it was to serve. The pioneer
-central station in this direction was the Deptford station of the London
+central station in this direction was the [[Deptford]] station of the London
 Electric Supply Corporation, which furnished current to the heart of
 London from a distance of 7 m. In this case, however, the alternators
 were single-phase and gave the high pressure of 10,000 volts
@@ -2334,9 +2334,9 @@ continuous-current form.
   Machinery_ (1905, London); G. Kapp, _Dynamos, Alternators and
   Transformers_ (London, 1893); _Id., Electric Transmission of Energy_
   (London, 1894); Id., _Dynamo Construction; Electrical and Mechanical_
-  (London, 1899); H.F. Parshall and H.M. Hobart, _Electric Generators_
-  (London, 1900); C.C. Hawkins and F. Wallis, _The Dynamo_ (London,
-  1903); E. Arnold, _Konstruktionstafeln fuer den Dynamobau_ (Stuttgart,
+  (London, 1899); H.F. Parshall and H.M. [[Hobart]], _Electric Generators_
+  (London, 1900); C.C. [[Hawkins]] and F. Wallis, _The Dynamo_ (London,
+  1903); E. [[Arnold]], _Konstruktionstafeln fuer den Dynamobau_ (Stuttgart,
   1902); C.P. Steinmetz, _Elements of Electrical Engineering_ (New York,
   1901).
 
@@ -2345,8 +2345,8 @@ continuous-current form.
   1902); F. Niethammer, _Berechnung und Konstruktion der
   Gleichstrommaschinen und Gleichstrommotoren_ (Stuttgart, 1904).
 
-  _Alternators_: D.C. Jackson and J.P. Jackson, _Alternating Currents
-  and Alternating Current Machinery_ (New York, 1903); J.A. Fleming,
+  _Alternators_: D.C. [[Jackson]] and J.P. Jackson, _Alternating Currents
+  and Alternating Current Machinery_ (New York, 1903); J.A. [[Fleming]],
   _The Alternate Current Transformer_ (London, 1899); C.P. Steinmetz,
   _Alternating Current Phenomena_ (New York, 1900); E. Arnold, _Die
   Wechselstromtechnik_ (Berlin, 1904); S.P. Thompson, _Polyphase
@@ -2393,14 +2393,14 @@ FOOTNOTES:
     were used, and the arrangement was not so simple as the split-ring
     described above, although the result was the same. J. Saxton's
     machine (1833) and E.M. Clarke's machine (1835, see Sturgeon's
-    _Annals of Electricity_, i. 145) were similar to one another in that
+    _[[Annals]] of Electricity_, i. 145) were similar to one another in that
     a unidirected current was obtained by utilizing every alternate
     half-wave of E.M.F., but the former still employed mercury collecting
     cups, while the latter employed metal brushes. W. Sturgeon in 1835
     followed Pixii in utilizing the entire wave of E.M.F., and abandoned
     the mercury cups in favour of metal brushes pressing on four
     semicircular disks (_Scientific Researches_, p. 252). The simple
-    split-ring is described by Sir C. Wheatstone and Sir W.F. Cooke in
+    split-ring is described by Sir C. Wheatstone and Sir W.F. [[Cooke]] in
     their Patent No. 8345 (1840).
 
   [13] By the "leading" side of the tooth or of an armature coil or
@@ -2432,7 +2432,7 @@ FOOTNOTES:
     Cooke patented the use of "voltaic" magnets in place of permanent
     magnets (No. 10,655).
 
-  [19] Between Moutiers and Lyons, a distance of 115 m., energy is
+  [19] Between Moutiers and [[Lyons]], a distance of 115 m., energy is
     transmitted on the Thury direct-current system at a maximum pressure
     of 60,000 volts. Four groups of machines in series are employed, each
     group consisting of four machines in series; the rated output of each
@@ -2456,7 +2456,7 @@ FOOTNOTES:
     p. 417.
 
   [21] As in the historical transmission of energy from Lauffen to
-    Frankfort (1891).
+    [[Frankfort]] (1891).
 
   [22] In the pioneer three-phase transmission between Laufen and
     Frankfort (_Electrician_, vol. xxvi. p. 637, and xxvii. p. 548), the

@@ -1,17 +1,17 @@
 # Drachmann
 
 DRACHMANN, HOLGER HENRIK HERBOLDT (1846-1908), Danish poet and
-dramatist, son of Dr A. G. Drachmann, a physician of Copenhagen, whose
+dramatist, son of Dr A. G. Drachmann, a physician of [[Copenhagen]], whose
 family was of German extraction, was born in Copenhagen on the 9th of
 October 1846. Owing to the early death of his mother, who was a Dane,
 the child was left much to his own devices. He soon developed a fondness
 for semi-poetical performances, and loved to organize among his
-companions heroic games, in which he himself took such parts as those of
+companions heroic [[Games|games]], in which he himself took such parts as those of
 Tordenskjold and Niels Juul. His studies were belated, and he did not
 enter the university until 1865, leaving it in 1866 to become a student
-in the Academy of Fine Arts. From 1866 to 1870 he was learning, under
+in the Academy of [[Fine Arts]]. From 1866 to 1870 he was learning, under
 Professor Sörensen, to become a marine painter, and not without success.
-But about the latter date he came under the influence of Georg Brandes,
+But about the latter date he came under the influence of Georg [[Brand|Brandes]],
 and, without abandoning art, he began to give himself more and more to
 literature. At various periods he travelled very extensively in England,
 Scotland, France, Spain and Italy, and his literary career began by his
@@ -23,13 +23,13 @@ the banner of Brandes. Drachmann was unsettled, and still doubted
 whether his real strength lay in the pencil or in the pen. By this time
 he had enjoyed a surprising experience of life, especially among
 sailors, fishermen, students and artists, and the issues of the
-Franco-German War and the French Commune had persuaded him that a new
+[[Franco-German War]] and the French [[Commune]] had persuaded him that a new
 and glorious era was at hand. His volume of lyrics, _Daempede Melodier_
 ("Muffled Melodies," 1875), proved that Drachmann was a poet with a real
 vocation, and he began to produce books in prose and verse with great
 rapidity. _Ungt Blod_ ("Young Blood," 1876) contained three realistic
 stories of contemporary life. But he returned to his true field in his
-magnificent _Sange ved Havet; Venezia_ ("Songs of the Sea; Venice,"
+magnificent _Sange ved [[Havet]]; Venezia_ ("Songs of the Sea; Venice,"
 1877), and won the passionate admiration of his countrymen by his prose
 work, with interludes in verse, called _Derovre fra Graensen_ ("Over the
 Frontier there," 1877), a series of impressions made on Drachmann by a
@@ -43,10 +43,10 @@ advance in technical art. To the same period belongs _Paa Sömands Tro og
 Love_ ("On the Faith and Honour of a Sailor," 1878), a volume of short
 stories in prose. It was about this time that Drachmann broke with
 Brandes and the Radicals, and set himself at the head of a sort of
-"nationalist" or popular-Conservative party in Denmark. He continued to
+"nationalist" or popular-Conservative party in [[Denmark]]. He continued to
 celebrate the life of the fishermen and sailors in books, whether in
 prose or verse, which were the most popular of their day. _Paul og
-Virginie_ and _Lars Kruse_ (both 1879); _Östen for Sol og vesten for
+Virginie_ and _[[Lar|Lars]] Kruse_ (both 1879); _Östen for Sol og vesten for
 Maone_ ("East of the Sun and Moon," 1880); _Puppe og Sommerfugl_
 ("Chrysalis and Butterfly," 1882); and _Strandby Folk_ (1883) were among
 these. In 1882 Drachmann published his fine translation, or paraphrase,
@@ -63,7 +63,7 @@ surroundings. With this novel is closely connected _Den hellige Ild_
 ("The Sacred Fire," 1899), in which Drachmann speaks in his own person.
 There is practically no story in this autobiographical volume, which
 abounds in lyrical passages. In 1899 he produced his romantic play
-called _Gurre_; in 1900 a brilliant lyrical drama, _Hallfred
+called _Gurre_; in 1900 a brilliant lyrical [[Drama|drama]], _Hallfred
 Vandraadeskjald_; and in 1903, _Det grönne Haab_. He died in Copenhagen
 on the 14th of January 1908.
 

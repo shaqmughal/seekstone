@@ -11,32 +11,32 @@ KING-BIRD, the _Lanius tyrannus_ of Linnaeus, and the _Tyrannus
 carolinensis_ or _T. pipiri_ of most later writers, a common and
 characteristic inhabitant of North America, ranging as high as 57° N.
 lat. or farther, and westward to the Rocky Mountains, beyond which it is
-found in Oregon, in Washington (State), and in British Columbia, though
+found in Oregon, in Washington (State), and in [[British Columbia]], though
 apparently not occurring in California. In Canada and the northern
 states of the Union it is a summer visitor, wintering in the south, but
-also reaching Cuba; and, passing through Central America, it has been
+also reaching Cuba; and, passing through [[Central America]], it has been
 found in Bolivia and eastern Peru. Both the scientific and common names
-of this species are taken from the way in which the cock will at times
+of this species are taken from the way in which the [[Cock|cock]] will at times
 assume despotic authority over other birds, attacking them furiously as
-they fly, and forcing them to divert or altogether desist from their
+they [[Fly|fly]], and forcing them to divert or altogether desist from their
 course. Yet it is love of his mate or his young that prompts this
 bellicose behaviour, for it is only in the breeding season that he
 indulges in it; but then almost every large bird that approaches his
-nest, from an eagle downwards, is assaulted, and those alone that
+nest, from an [[Eagle|eagle]] downwards, is assaulted, and those alone that
 possess greater command of flight can escape from his repeated charges,
 which are accompanied by loud and shrill cries. On these occasions it
-may be that the king-bird displays the emblem of his dignity, which is
+may be that the king-bird displays the [[Emblem|emblem]] of his dignity, which is
 commonly concealed; for, being otherwise rather plainly
-coloured--dark-ashy grey above and white beneath--the erectile feathers
+coloured--dark-ashy grey above and white beneath--the erectile [[Feather|feathers]]
 of the crown of the head, on being parted, form as it were a deep
-furrow, and reveal their base, which is of a bright golden-orange in
+furrow, and reveal their base, which is of a [[Bright|bright]] golden-orange in
 front, deepening into scarlet, and then passing into silvery white. This
-species seems to live entirely on insects, which it captures on the
+species seems to live entirely on [[Insect|insects]], which it captures on the
 wing; it is in bad repute with bee-keepers,[1] though, according to Dr
-E. Coues, it "destroys a thousand noxious insects for every bee it
+E. Coues, it "destroys a thousand noxious insects for every [[Bee|bee]] it
 eats." It builds, often in an exposed situation, a rather large nest,
 coarsely constructed outside, but neatly lined with fine roots or
-grasses, and lays five or six eggs of a pale salmon colour, beautifully
+[[Grasses|grasses]], and lays five or six [[Egg|eggs]] of a pale salmon colour, beautifully
 marked with blotches and spots of purple, brown and orange, generally
 disposed in a zone near the larger end.
 
@@ -59,7 +59,7 @@ distinct sections of the great Passerine order; and, while the former is
 a comparatively homogeneous group, much diversity of form and habits is
 found among the latter. Similarly many of the smaller _Tyrannidae_ bear
 some analogy to certain _Muscicapidae_, with which they were at one time
-confounded (see FLYCATCHER), but the difference between them is deep
+confounded (see [[Flycatcher|FLYCATCHER]]), but the difference between them is deep
 seated.[2] Nor is this all, for out of the seventy genera, or
 thereabouts, into which the _Tyrannidae_ have been divided,
 comprehending perhaps three hundred and fifty species, all of which are
@@ -88,7 +88,7 @@ FOOTNOTES:
     scales in front only; while in the _Tyrannidae_ there are ten
     primaries, and the tarsal scales extend the whole way round. The more
     recondite distinction in the structure of the trachea seems to have
-    been first detected by Macgillivray, who wrote the anatomical
+    been first detected by [[Macgillivray]], who wrote the anatomical
     descriptions published in 1839 by Audubon (_Orn. Biography_, v. 421,
     422); but its value was not appreciated till the publication of
     Johannes Müller's classical treatise on the vocal organs of Passerine

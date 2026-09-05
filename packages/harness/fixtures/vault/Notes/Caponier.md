@@ -13,7 +13,7 @@ fortification, a work constructed in the ditch of a fort. Its fire
 and prevents an enemy from establishing himself in it. The term is used
 in a military sense as early as in the late 17th century. In various
 bastioned systems of fortification a caponier served merely as a covered
-means of access to outworks, the bastion trace providing for the defence
+means of access to outworks, the [[Bastion|bastion]] trace providing for the defence
 of the ditch by fire from the main parapet.
 
 ## See also

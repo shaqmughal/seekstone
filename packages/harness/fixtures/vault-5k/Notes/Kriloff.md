@@ -40,14 +40,14 @@ Sciences admitted him a member in 1811, and bestowed upon him its gold
 medal; in 1838 a great festival was held under imperial sanction to
 celebrate the jubilee of his first appearance as an author; and the
 emperor assigned him a handsome pension. Before his death about 77,000
-copies of his Fables had found sale in Russia; and his wisdom and humour
+copies of his Fables had found sale in Russia; and his wisdom and [[Humour|humour]]
 had become the common possession of the many. He was at once poet and
 sage. His fables for the most part struck root in some actual event, and
 they told at once by their grip and by their beauty. Though he began as
 a translator and imitator he soon showed himself a master of invention,
 who found abundant material in the life of his native land. To the
-Russian ear his verse is of matchless quality; while word and phrase are
-direct, simple and eminently idiomatic, colour and cadence vary with the
+Russian [[Ear|ear]] his verse is of matchless quality; while word and phrase are
+direct, simple and eminently idiomatic, colour and [[Cadence|cadence]] vary with the
 theme.
 
   A collected edition of Kriloff's works appeared at St Petersburg,

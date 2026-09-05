@@ -126,7 +126,7 @@ cures) has greatly lost its former importance and can now only submit
 proposals to the Consistory. The Christian Catholic Church is also
 "established" at Geneva (since 1873) and is governed by the _conseil
 supérieur_, composed of 25 lay members and 5 clerics. No other religious
-denominations are "established" at Geneva. But the Romanists (who form
+[[Denomination|denominations]] are "established" at Geneva. But the Romanists (who form
 13% of the electors) are steadily growing in numbers and in influence,
 while the Christian Catholics are losing ground rapidly, the highest
 number of votes received by a candidate for the _conseil supérieur_
@@ -157,7 +157,7 @@ regulations as to the trade were issued. In 1685 there were in Geneva
 100 master watchmakers, employing 300 work-people, who turned out 5000
 pieces a year, while in 1760 this trade employed 4000 work-people. Of
 recent years its prosperity has diminished greatly, so that the
-watchmaking and jewelry trades in 1902 numbered respectively but 38 and
+watchmaking and [[Jewelry|jewelry]] trades in 1902 numbered respectively but 38 and
 32 of the 394 establishments in Geneva which were subject to the factory
 laws. Lately, huge establishments have been constructed for the
 utilization of the power contained in the Rhone. The local commerce of
@@ -174,7 +174,7 @@ Considering the small size of Geneva, till recently, it is surprising
 how many celebrated persons have been connected with it as natives or as
 residents. Here are a few of the principal, special articles being
 devoted to many of them in this work. In the 16th century, besides
-Calvin and Bonivard, we have Isaac Casaubon, the scholar; Robert and
+Calvin and Bonivard, we have [[Isaac]] Casaubon, the scholar; Robert and
 Henri Estienne, the printers, and, from 1572 to 1574, Joseph Scaliger
 himself, though but for a short time. J.J. Rousseau is, of course, the
 great Genevese of the 18th century. At that period, and in the 19th
@@ -185,7 +185,7 @@ botanists; Alphonse Favre and Necker, the geologists; Marignac, the
 chemist; Deluc, the physicist, and Plantamour, the astronomer. Charles
 Bonnet was both a scientific man and a philosopher, while Amiel belonged
 to the latter class only. Pradier and Chaponnière, the sculptors;
-Arlaud, Diday and Calame, the artists; Mallet, who revealed Scandinavia
+Arlaud, Diday and Calame, the artists; [[Mallet]], who revealed Scandinavia
 to the literary world; Necker, the minister; Sismondi, the historian of
 the Italian republics; General Dufour, author of the great survey which
 bears the name of the "Dufour Map," have each a niche in the Temple of
@@ -277,7 +277,7 @@ Among other remarkable sights of the city may be mentioned the great
 hydraulic establishment (built 1882-1899) of the _Forces Motrices du
 Rhône_ (turbines), the singular monument set up to the memory of the
 late duke of Brunswick who left his fortune to the city in 1873, and the
-Île Jean-Jacques Rousseau now connected with the Pont des Bergues. The
+Île Jean-Jacques Rousseau now connected with the Pont des [[Bergues]]. The
 house occupied by Rousseau is No. 40 in the Grand' Rue, while No. 13 in
 the same street is on the site of Calvin's house, though not the actual
 dwelling inhabited by him.
@@ -692,7 +692,7 @@ of Church and State.
   Genève à l'époque de l'Escalade, 1598-1603_ (Geneva, 1902), and _Les
   Constitutions de la République de Genève_ (to 1847) (Geneva, 1890);
   J.B.G. Galiffe, _Genève historique et archéologique_ (2 vols., Geneva,
-  1869-1872); J.A. Gautier, _Histoire de Genève_ (to 1691) (6 vols.,
+  1869-1872); J.A. [[Gautier]], _Histoire de Genève_ (to 1691) (6 vols.,
   1896-1903); F. Gribble and J.H. and M.H. Lewis, _Geneva_ (London,
   1908); J. Jullien, Histoire de Genève (new ed.; Geneva, 1889); C.
   Martin, _La Maison de Ville de Genève_ (Geneva, 1906); _Mémoires et

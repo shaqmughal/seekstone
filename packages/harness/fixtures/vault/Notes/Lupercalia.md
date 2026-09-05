@@ -13,7 +13,7 @@ February 15th, contains no reference to the Romulus legend, which is
 probably later in origin, though earlier than the grecizing Evander
 legend. The festival began with the sacrifice by the Luperci (or the
 flamen dialis) of goats and a dog; after which two of the Luperci were
-led to the altar, their foreheads were touched with a bloody knife, and
+led to the altar, their foreheads were touched with a bloody [[Knife|knife]], and
 the blood wiped off with wool dipped in milk; then the ritual required
 that the two young men should laugh. The smearing of the forehead with
 blood probably refers to human sacrifice originally practised at the
@@ -31,18 +31,18 @@ had fallen into a state of decay, was rebuilt by Augustus; the
 celebration of the festival had been maintained, as we know from the
 famous occurrence of it in 44 B.C. It survived until A.D. 494, when it
 was changed by Gelasius into the feast of the Purification. Lupercus, in
-whose honour the festival was held, is identified with Faunus or Inuus,
+whose honour the festival was held, is identified with [[Faunus]] or Inuus,
 Evander ([Greek: Euandros]), in the Greek legend being a translation of
 Faunus (the "kindly"). The Luperci were divided into two _collegia_,
 called Quinctiliani (or Quinctiales) and Fabiani, from the gens
 Quinctilia (or Quinctia)[2] and Fabia; at the head of each of these
 colleges was a magister. In 44 B.C. a third college, Luperci Julii, was
-instituted in honour of Julius Caesar, the first magister of which was
+instituted in honour of [[Julius]] [[Caesar]], the first magister of which was
 Mark Antony. In imperial times the members were usually of equestrian
 standing.
 
-  See Marquardt, _Römische Staatsverwaltung_, iii. (1885) p. 438; W.
-  Warde Fowler, _Roman Festivals_ (1899), p. 390 foll., and article in
+  See [[Marquardt]], _Römische Staatsverwaltung_, iii. (1885) p. 438; W.
+  Warde [[Fowler]], _Roman Festivals_ (1899), p. 390 foll., and article in
   Smith's _Dictionary of Greek and Roman Antiquities_ (3rd ed. 1891).
 
 

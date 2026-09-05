@@ -10,8 +10,8 @@ army. Various legends were told about him by the Greeks, one of the most
 famous being that of Solon's visit to him with the lesson it conveyed
 of the divine nemesis which waits upon overmuch prosperity (Hdt. i. 29
 seq.; but see SOLON). After the overthrow of the Median empire (549
-B.C.) Croesus found himself confronted by the rising power of Cyrus, and
-along with Nabonidos of Babylon took measures to resist it. A coalition
+B.C.) Croesus found himself confronted by the rising power of [[Cyrus]], and
+along with Nabonidos of [[Babylon]] took measures to resist it. A coalition
 was formed between the Lydian and Babylonian kings, Egypt promised
 troops and Sparta its fleet. But the coalition was defeated by the rapid
 movements of Cyrus and the treachery of Eurybatus of Ephesus, who fled
@@ -37,15 +37,15 @@ them a dedication by Croesus in Greek.
 
   See R. Schubert, _De Croeso et Solone fabula_ (1868); M. G. Radet, _La
   Lydie et le monde grec au temps des Mermnades_ (1892-1893); A. S.
-  Murray, _Journ. Hell. Studies_, x. pp. 1-10 (1889); for the
+  Murray, _Journ. [[Hell]]. Studies_, x. pp. 1-10 (1889); for the
   supposition that Croesus did actually perish on his own pyre see G. B.
-  Grundy, _Great Persian War_, p. 28; Grote, _Hist. of Greece_ (ed.
+  [[Grundy]], _Great Persian War_, p. 28; Grote, _Hist. of Greece_ (ed.
   1907), p. 104. Cf. CYRUS; LYDIA.
 
 
 FOOTNOTE:
 
-  [1] This is probably a Greek legend (cf. the Attic vase of about 500
+  [1] This is probably a Greek legend (cf. the [[Attic]] vase of about 500
     B.C. in _Journ. of Hell. Stud._, 1898, p. 268).
 
 ## See also

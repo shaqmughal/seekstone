@@ -8,8 +8,8 @@ id: 42-5638
 
 # Apurimac
 
-APURIMAC, a river of central Peru, rising in the Laguna de Villafra in
-the western Cordilleras, 7 m. from Caylloma, a village in the department
+APURIMAC, a river of central Peru, rising in the [[Laguna]] de Villafra in
+the western [[Cordillera|Cordilleras]], 7 m. from Caylloma, a village in the department
 of Arequipa, and less than 100 m. from the Pacific coast. It flows first
 north-easterly, then north-westerly past Cuzco to the mouth of the
 Perene tributary, thence east and north to its junction with the Ucayali

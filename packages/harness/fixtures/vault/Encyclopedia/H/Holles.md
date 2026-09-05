@@ -1,7 +1,7 @@
 # Holles
 
 HOLLES, DENZIL HOLLES, BARON (1599-1680), English statesman and writer,
-second son of John Holles, 1st earl of Clare (c. 1564-1637), by Anne,
+second son of John Holles, 1st earl of [[Clare]] (c. 1564-1637), by [[Anne]],
 daughter of Sir Thomas Stanhope, was born on the 31st of October 1599.
 The favourite son of his father and endowed with great natural
 abilities, Denzil Holles grew up under advantageous circumstances.
@@ -11,27 +11,27 @@ playmate and intimate companion. The earl of Clare was, however, no
 friend to the Stuart administration, being especially hostile to the
 duke of Buckingham; and on the accession of Charles to the throne the
 king's offers of favour were rejected. In 1624 Holles was returned to
-parliament for Mitchell in Cornwall, and in 1628 for Dorchester. He had
+parliament for Mitchell in [[Cornwall]], and in 1628 for [[Dorchester]]. He had
 from the first a keen sense of the humiliations which attended the
 foreign policy of the Stuart kings. Writing to Strafford, his
 brother-in-law, on the 29th of November 1627, he severely censures
 Buckingham's conduct of the expedition to the Isle of Rhe; "since
 England was England," the declared, "it received not so dishonourable a
-blow"; and he joined in the demand for Buckingham's impeachment in 1628.
+blow"; and he joined in the demand for Buckingham's [[Impeachment|impeachment]] in 1628.
 To these discontents were now added the abuses arising from the king's
-arbitrary administration. On the 2nd of March 1629, when Sir John Finch,
+arbitrary administration. On the 2nd of March 1629, when Sir John [[Finch]],
 the speaker, refused to put Sir John Eliot's Protestations and was about
 to adjourn the House by the king's command, Holles with another member
 thrust him back into the chair and swore "he should sit still till it
-pleased them to rise." Meanwhile Eliot, on the refusal of the speaker to
+pleased them to rise." Meanwhile [[Eliot]], on the refusal of the speaker to
 read the Protestations, had himself thrown them into the fire; the usher
 of the black rod was knocking at the door for admittance, and the king
 had sent for the guard. But Holles, declaring that he could not render
 the king or his country better service, put the Protestations to the
 House from memory, all the members rising to their feet and applauding.
-In consequence a warrant was issued for his arrest with others on the
+In consequence a warrant was issued for his [[Arrest|arrest]] with others on the
 following day. They were prosecuted first in the Star Chamber and
-subsequently in the King's Bench. When brought upon his _habeas corpus_
+subsequently in the King's [[Bench]]. When brought upon his _[[Habeas Corpus|habeas corpus]]_
 before the latter court Holles offered with the rest to give bail, but
 refused sureties for good behaviour, and argued that the court had no
 jurisdiction over offences supposed to have been committed in
@@ -50,28 +50,28 @@ the security demanded for his good behaviour, he was liberated early in
 1630, and on the 30th of October was allowed bail. Being still banished
 from London he retired to the country, paying his fine in 1637 or 1638.
 The fine was repaid by the parliament in July 1644, and the judgment was
-revised on a writ of error in 1668. In 1638 we find him, notwithstanding
+revised on a writ of [[Error|error]] in 1668. In 1638 we find him, notwithstanding
 his recent experiences, one of the chief leaders in his county of the
 resistance to ship money, though it would appear that he subsequently
 made submission.
 
 Holles was a member of the Short and Long Parliaments assembled in 1640.
-According to Laud he was now "one of the great leading men in the House
+According to [[Laud]] he was now "one of the great leading men in the House
 of Commons," and in Clarendon's opinion he was "a man of more
 accomplished parts than any of his party" and of most authority. He was
 not, however, in the confidence of the republican party. Though he was
 at first named one of the managers for the impeachment of Strafford,
 Holles had little share in his prosecution. According to Laud he held
 out to Strafford hopes of saving his life if he would use his influence
-with the king to abolish episcopacy, but the earl refused, and Holles
+with the king to abolish [[Episcopacy|episcopacy]], but the earl refused, and Holles
 advised Charles that Strafford should demand a short respite, of which
-he would take advantage to procure a commutation of the death sentence.
-In the debate on the attainder he spoke on behalf of Strafford's family,
+he would take advantage to procure a [[Commutation|commutation]] of the death sentence.
+In the debate on the [[Attainder|attainder]] he spoke on behalf of Strafford's family,
 and later obtained some favours from the parliament for his eldest son.
 In all other matters in parliament Holles took a principal part. He was
 one of the chief movers of the Protestation of the 3rd of May 1641,
 which he carried up to the Lords, urging them to give it their approval.
-Although, according to Clarendon, he did not wish to change the
+Although, according to [[Clarendon]], he did not wish to change the
 government of the church, he showed himself at this time decidedly
 hostile to the bishops. He took up the impeachment of Laud to the House
 of Peers, supported the Londoners' petition for the abolition of
@@ -86,12 +86,12 @@ royal family and urging the necessity of supporting the Protestant
 religion everywhere. Together with Pym, Holles drew up the Grand
 Remonstrance, and made a vigorous speech in its support on the 22nd of
 November 1641, in which he argued for the right of one House to make a
-declaration, and asserted: "If kings are misled by their counsellors we
+[[Declaration|declaration]], and asserted: "If kings are misled by their counsellors we
 may, we must tell them of it." On the 15th of December he was a teller
 in the division in favour of printing it. On the great subject of the
 militia he also showed activity. He supported Hesilriges' Militia Bill
 of the 7th of December 1641, and on the 31st of December he took up to
-the king the Commons' demand for a guard under the command of Essex.
+the king the Commons' demand for a guard under the command of [[Essex]].
 "Holles's force and reputation," said Sir Ralph Verney, "are the two
 things that give the success to all actions." After the failure of the
 attempt by the court to gain over Holles and others by offering them
@@ -110,13 +110,13 @@ he carried up the impeachment of the nine Lords who had deserted the
 parliament; and he was one of the committee of safety appointed on the
 4th of July.
 
-On the outbreak of the Civil War (see GREAT REBELLION) Holles, who had
-been made lieutenant of Bristol, was sent with Bedford to the west
-against the marquess of Hertford, and took part in the unsuccessful
+On the outbreak of the Civil War (see [[Great Rebellion|GREAT REBELLION]]) Holles, who had
+been made lieutenant of [[Bristol]], was sent with [[Bedford]] to the west
+against the marquess of [[Hertford]], and took part in the unsuccessful
 siege of the latter at Sherborne Castle. He was present at Edgehill,
 where his regiment of Puritans recruited in London was one of the few
 which stood firm and saved the day for the parliament. On the 13th of
-November his men were surprised at Brentford during his absence, and
+November his men were surprised at [[Brentford]] during his absence, and
 routed after a stout resistance. In December he was proposed for the
 command of the forces in the west, an appointment which he appears to
 have refused. Notwithstanding his activity in the field for the cause of
@@ -135,13 +135,13 @@ and a settlement of the disputes by concessions on both sides; a
 proposal full of danger because impracticable, and one therefore which
 could only weaken the parliamentary resistance and prolong the struggle.
 He warmly supported the peace negotiations on the 21st of November and
-the 22nd of December, and his attitude led to a breach with Pym and the
+the 22nd of December, and his attitude led to a [[Breach|breach]] with Pym and the
 more determined party. In June 1643 he was accused of complicity in
 Waller's plot, but swore to his innocency; and his arrest with others of
 the peace party was even proposed in August, when Holles applied for a
 pass to leave the country. The king's successes, however, for the moment
 put a stop to all hopes of peace; and in April 1644 Holles addressed the
-citizens of London at the Guildhall, calling upon them "to join with
+citizens of London at the [[Guildhall]], calling upon them "to join with
 their purses, their persons, and their prayers together" to support the
 army of Essex. In November Holles and Whitelocke headed the commission
 appointed to treat with the king at Oxford. He endeavoured to convince
@@ -154,9 +154,9 @@ parliament, and though doubtless their motives were thoroughly
 patriotic, their action was scarcely compatible with their position as
 trustees of the parliamentary cause. Holles was also appointed a
 commissioner at Uxbridge in January 1645 and endeavoured to overcome the
-crucial difficulty of the militia by postponing its discussion
+[[Crucial|crucial]] difficulty of the militia by postponing its discussion
 altogether. As leader of the moderate (or Presbyterian) party Holles now
-came into violent antagonism with Cromwell and the army faction. "They
+came into violent antagonism with [[Cromwell]] and the army [[Faction|faction]]. "They
 hated one another equally"; and Holles would not allow any merit in
 Cromwell, accusing him of cowardice and attributing his successes to
 chance and good fortune. With the support of Essex and the Scottish
@@ -164,13 +164,13 @@ commissioners Holles endeavoured in December 1644 to procure Cromwell's
 impeachment as an incendiary between the two nations, and "passionately"
 opposed the self-denying ordinance. In return Holles was charged with
 having held secret communications with the king at Oxford and with a
-correspondence with Lord Digby; but after a long examination by the
-House he was pronounced innocent on the 19th of July 1645. Determined on
+correspondence with Lord [[Digby]]; but after a long examination by the
+House he was pronounced [[Innocent|innocent]] on the 19th of July 1645. Determined on
 Cromwell's destruction, he refused to listen to the prudent counsels of
-Sir Anthony Ashley Cooper, who urged that Cromwell was too strong to be
+Sir [[Anthony]] [[Ashley]] Cooper, who urged that Cromwell was too strong to be
 resisted or provoked, and on the 29th of March 1647 drew up in
 parliament a hasty proclamation declaring the promoters of the army
-petition enemies to the state; in April challenging Ireton to a duel.
+petition enemies to the state; in April challenging [[Ireton]] to a [[Duel|duel]].
 
 The army party was now thoroughly exasperated against Holles. "They were
 resolved one way or other to be rid of him," says Clarendon. On the 16th
@@ -223,7 +223,7 @@ against him and the sequestration of his estates were repealed, and on
 the 7th he was made custos rotulorum for Dorsetshire. He took a leading
 part in bringing about the Restoration, was chairman of the committee of
 seven appointed to prepare an answer to the king's letter, and as one of
-the deputed Lords and Commons he delivered at the Hague the invitation
+the deputed Lords and Commons he delivered at the [[Hague]] the invitation
 to Charles to return. He preceded Charles to England to prepare for his
 reception, and was sworn of the privy council on the 5th of June. He was
 one of the thirty-four commissioners appointed to try the regicides in
@@ -275,13 +275,13 @@ for publishing another pamphlet written by Holles entitled _The Grand
 Question concerning the Prorogation of this Parliament_ (otherwise _The
 Long Parliament dissolved_) the corrector of the proof sheets was
 committed to the Tower and fined L1000. In order to bring about the
-downfall of Danby (afterwards duke of Leeds) and the disbanding of the
+downfall of Danby (afterwards duke of [[Leeds]]) and the disbanding of the
 army, which he believed to be intended for the suppression of the
 national liberties, Holles at this time (1677-1679) engaged, as did many
 others, in a dangerous intrigue with Courtin and Barillon, the French
 envoys, and Louis XIV.; he refused, however, the latter's presents on
 the ground that he was a member of the council, having been appointed to
-Sir William Temple's new modelled cabinet in 1679. Barillon described
+Sir William Temple's new modelled [[Cabinet|cabinet]] in 1679. Barillon described
 him as at this period in his old age "the man of all England for whom
 the different cabals have the most consideration," and as firmly opposed
 to the arbitrary designs of the court. He showed moderation in the
@@ -289,7 +289,7 @@ Popish Plot, and on the question of the exclusion followed Halifax
 rather than Shaftesbury. His long and eventful career closed by his
 death on the 17th of February 1680.
 
-The character of Holles has been drawn by Burnet, with whom he was on
+The character of Holles has been drawn by [[Burnet]], with whom he was on
 terms of friendship. "Hollis was a man of great courage and of as great
 pride.... He was faithful and firm to his side and never changed through
 the whole course of his life.... He argued well but too vehemently; for
@@ -306,8 +306,8 @@ transference of political power from the governing families to the
 parliament and the constitution, and besides the pamphlets already
 mentioned was the author of _The Case Stated concerning the Judicature
 of the House of Peers in the Point of Appeals_ (1675); _The Case Stated
-of the Jurisdiction of the House of Lords in the point of Impositions_
-(1676); _Letter of a Gentleman to his Friend showing that the Bishops
+of the Jurisdiction of the House of Lords in the point of [[Imposition|Impositions]]_
+(1676); _Letter of a [[Gentleman]] to his Friend showing that the Bishops
 are not to be judges in Parliament in Cases Capital_ (1679); _Lord
 Holles his Remains, being a 2nd letter to a Friend concerning the
 judicature of the Bishops in Parliament..._.[4] He also published _A
@@ -342,7 +342,7 @@ of Newcastle.
   Holles's Life has been written by C. H. Firth in the _Dictionary of
   National Biography_; by Horace Walpole in _Royal and Noble Authors_,
   ii. 28; by Guizot in _Monk's Contemporaries_ (Eng. trans., 1851); and
-  by A. Collins in _Historical Collections of Noble Families_ (1752),
+  by A. [[Collins]] in _Historical Collections of Noble Families_ (1752),
   and in the _Biographia Britannica_. See also S. R. Gardiner, _History
   of England_ (1883-1884), and _History of the Great Civil War_ (1893);
   Lord Clarendon, _History of the Rebellion_, edited by W. D. Macray; G.
@@ -352,15 +352,15 @@ of Newcastle.
 
 FOOTNOTES:
 
-  [1] _Hist. MSS. Comm., MSS. of Earl Cowper_, i. 422.
+  [1] _Hist. MSS. Comm., MSS. of Earl [[Cowper]]_, i. 422.
 
   [2] The speech of January 5 attributed to him and printed in
-    _Thomason Tracts_, E 199 (55), is a forgery.
+    _Thomason Tracts_, E 199 (55), is a [[Forgery|forgery]].
 
   [3] Burnet's _History of His Own Times_, vi. 257, 268.
 
   [4] The rough draft, apparently in Holles's handwriting, is in
-    _Egerton MSS._ ff. 136-149.
+    _[[Egerton]] MSS._ ff. 136-149.
 
 ## See also
 

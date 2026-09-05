@@ -28,7 +28,7 @@ century. It is to Hsuan-tsang, the Chinese Buddhist pilgrim, that we are
 indebted for the first account of Issyk-kul based on personal
 observation. In the beginning of the 14th century Nestorian Christians
 reached the lake and founded a monastery on the northern shore,
-indicated on the Catalan map of 1374. It was not till 1856 that the
+indicated on the Catalan [[Map|map]] of 1374. It was not till 1856 that the
 Russians made acquaintance with the district.
 
 ## References

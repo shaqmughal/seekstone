@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bechuana"
 
 BECHUANA, a South African people, forming a branch of the great
 Bantu-Negroid family. They occupy not only Bechuanaland, to which they
-have given their name, and Basutoland, but are the most numerous native
+have given their name, and [[Basutoland]], but are the most numerous native
 race in the Orange River Colony and in the western and northern
 districts of the Transvaal. It seems certain that they reached their
 present home later than the Zulu-Xosa [Kaffir] peoples who came down the
@@ -18,30 +18,30 @@ their southward journey before the latter. It would appear that the
 forerunners of the movement were the Bakalahari and Balala, who were
 subsequently reduced to the condition of serfs by the later arrivals,
 and who by intermingling to a certain extent with the aborigines gave
-rise to the "Kalahari Bushmen" (see KALAHARI DESERT). The Bechuana
+rise to the "Kalahari Bushmen" (see KALAHARI [[Desert|DESERT]]). The Bechuana
 family may be classed in two great divisions, the western or Bechuana
 proper, and the eastern or Basuto. The Bechuana proper consist of a
 large number of tribes, whose early history is extremely confused and
 involved owing to continual inter-tribal wars and migrations, during
 which many tribes were practically annihilated. Further confusion was
-produced by subsequent marauding expeditions by the coast "Kaffirs." An
+produced by subsequent marauding expeditions by the coast "[[Kaffirs]]." An
 ingenious attempt to disentangle the highly complicated tribal movements
 which took place in the early 19th century may be found in Stow's
 _Native Races of South Africa_. One migration of particular interest
 calls for mention. In the early part of the 19th century a number of
 Basuto, led by the chief Sebituane, crossed the Zambezi near the
 Victoria Falls, and, under the name Makololo, established a supremacy
-over the Barotse and neighbouring tribes on the upper portion of the
+over the [[Barotse]] and neighbouring tribes on the upper portion of the
 river, imposing their language on the conquered peoples. After the death
 of Sekeletu, Sebituane's successor, the vassal tribes arose and
 exterminated their conquerors. Only a few escaped, whom Sekeletu had
-sent with David Livingstone to the coast. These established themselves
+sent with David [[Livingstone]] to the coast. These established themselves
 to the south of Lake Nyasa, where they are still to be found. Sesuto
 speech, however, still prevails in Barotseland. The chief Bechuana
 tribes were the Batlapin and Barolong (the last including the Baratlou,
 Bataung, Barapulana and Baseleka), together with the great Bakuena or
 Bakone people (including the Bahurutsi, Batlaru, Bamangwato, Batauana,
-Bangwaketse and Bakuena). The clans representing the southern Bakuena
+Bangwaketse and Bakuena). The [[Clan|clans]] representing the southern Bakuena
 were in comparatively recent times welded together to form the Basuto
 nation, of which the founder was the chief Moshesh (see BASUTOLAND). The
 Basuto have been not only influenced in certain cultural details (e.g.
@@ -61,14 +61,14 @@ eat, and the killing of which, if necessary, must be accompanied by
 profuse apologies and followed by subsequent purification. Many of the
 tribes take their name from their _siboko_, as the animal in question is
 called; e.g. the Batlapin, "they of the fish"; Bakuena, "they of the
-crocodile." The _siboko_ of the Barolong, who as a tribe are
+[[Crocodile|crocodile]]." The _siboko_ of the Barolong, who as a tribe are
 accomplished smiths, is not an animal but the metal iron; other tribes
-have adopted as their particular emblem respectively the sun, rain, dew,
+have adopted as their particular [[Emblem|emblem]] respectively the sun, rain, dew,
 &c. Certain ceremonies are performed in honour of the tribal emblem,
 hence an inquiry as to the tribe of an individual is put in the form
 "What do you dance?" In certain tribes the old and feeble and the sickly
 children were killed, and albinos and the deaf and dumb exposed; those
-born blind were strangled, and if a mother died in childbirth the infant
+born blind were strangled, and if a mother died in childbirth the [[Infant|infant]]
 was buried alive in the same grave. With the extension of British
 authority these practices were prohibited. Circumcision is universally
 practised, though there is no fixed age for it. It is performed at
@@ -88,12 +88,12 @@ subjects which each speaker has either supported or condemned, not
 forgetting to clear his own character of any imputation. These public
 assemblies are now, except in Basutoland, of very rare occurrence. The
 clothing of the men consists of a leather bandage; the women wear a skin
-apron, reaching to the knee, under which is a fringed girdle. Skin
-cloaks (_kaross_) are worn by both sexes, with the difference that the
+[[Apron|apron]], reaching to the [[Knee|knee]], under which is a fringed girdle. Skin
+cloaks (_[[Kaross|kaross]]_) are worn by both sexes, with the difference that the
 male garment is distinguished by a collar. The hair is kept short for
 the most part; women shave the head, leaving a tuft on the crown which
-is plastered with fat and earth, and adorned with beads. Beads are worn,
-and various bracelets of iron, copper and brass.
+is plastered with fat and earth, and adorned with [[Bead|beads]]. Beads are worn,
+and various bracelets of iron, copper and [[Brass|brass]].
 
 The Bechuana are mainly an agricultural people, the Bangwaketse and
 Bakuena excelling as cultivators. Cattle they possess, but these are
@@ -101,7 +101,7 @@ used chiefly for the purpose of purchasing wives, especially among the
 Basuto. At the same time they are excellent craftsmen, and show no
 little skill in smelting and working iron and copper and the preparation
 of hides and pottery vessels. The most efficient smiths are the Barolong
-and Bamangwato (the latter were spared by the Matabele chief Umsilikazi
+and Bamangwato (the latter were spared by the [[Matabele]] chief Umsilikazi
 on this account); the Bangwaketse excel as potters; the Barolong as wood
 carvers, and the Bakuena as hut builders. The huts, with the exception
 of those of the Basuto who have adopted the Kaffir model, are
@@ -109,17 +109,17 @@ cylindrical, with clay-plastered walls and a conical roof of thatch. In
 spite of the constant tribal feuds dating from the beginning of the 19th
 century, the Bechuana cannot be classed as a warlike people, especially
 when they are compared with the Zulu. Their weapons consist of the
-throwing assegai, usually barbed, axes, daggers in carved sheaths, and,
-occasionally, bows and arrows, the last sometimes poisoned. Hide shields
-of a peculiar shape, resembling a depressed hour-glass, are found except
-among the Basuto, who use a somewhat different pattern. Hunting usually
-takes the form of great drives organized in concert, and the game is
+throwing assegai, usually barbed, axes, [[Dagger|daggers]] in carved sheaths, and,
+occasionally, [[Bow|bows]] and arrows, the last sometimes poisoned. Hide shields
+of a peculiar shape, resembling a depressed [[Hour-Glass|hour-glass]], are found except
+among the Basuto, who use a somewhat different pattern. [[Hunting]] usually
+takes the form of great drives organized in [[Concert|concert]], and the [[Game|game]] is
 driven by means of converging fences to a large pitfall or series of
 pits. Their religious beliefs are very vague; they appear to recognize a
 somewhat indeterminate spirit of, mainly, evil tendencies, called
-_Morimo_. The plural form of this word, _Barimo_, is used of the _manes_
+_Morimo_. The plural form of this word, _Barimo_, is used of the _[[Manes|manes]]_
 of dead ancestors, to whom a varying amount of reverence is paid. There
-is universal belief in charms and witchcraft, and divination by means of
+is universal belief in [[Charm|charms]] and witchcraft, and [[Divination|divination]] by means of
 dice is common. Witchdoctors, who are supposed to counteract evil magic,
 play a not insignificant part, and the magician who claims the power of
 making rain occupies a very important position, as might be expected
@@ -140,11 +140,11 @@ Bechuana other articles are included, many of which become the property
 of the girl herself. The wives live in separate huts, and the first is
 given priority over those purchased subsequently. Chastity after
 marriage is the rule, and adultery and rape are severely punished, as
-offences against property. Cannibalism is found, but is rare and
+offences against property. [[Cannibalism]] is found, but is rare and
 confined to certain tribes.
 
 The Bechuana language, which belongs to the Bantu linguistic family, is
-copious, with but few slight dialectic differences, and is free from the
+copious, with but few slight [[Dialectic|dialectic]] differences, and is free from the
 Hottentot elements found in the Kaffir and Zulu tongues. The richness of
 the language may be judged from the fact that, though only oral until
 reduced to writing by the missionaries, it has sufficed for the

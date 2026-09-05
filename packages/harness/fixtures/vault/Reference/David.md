@@ -5,8 +5,8 @@ DAVID (a Hebrew name meaning probably _beloved_[1]),
 
   Source.
 
-in the Bible, the son of Jesse, king of Judah and Israel, and founder of
-the royal Judaean dynasty at Jerusalem. The chronology of his period is
+in the Bible, the son of Jesse, king of [[Judah]] and Israel, and founder of
+the royal Judaean dynasty at Jerusalem. The [[Chronology|chronology]] of his period is
 uncertain: the usual date, 1055-1015 B.C., is probably thirty years to
 half a century too early. The books of Samuel (strictly, 1 Sam. xvi.-1
 Kings ii.), which are our principal source for the history of David,
@@ -42,7 +42,7 @@ Samuel it is important for textual and other critical problems, but it
 omits narratives in which it is not interested (David's youth,
 persecution by Saul, Absalom's revolt, &c.), and adds long passages
 (David's arrangements for the temple, &c.) which reflect the views of a
-much later age than David's. The lists of officers, &c., are fuller than
+much later age than David's. The lists of officers, &c., are [[Fuller|fuller]] than
 those in Samuel, and here and there contain notices of value. A
 comparison of the two records, however, is especially important for its
 illustration of the later tendency to idealize the figure of David, and
@@ -60,8 +60,8 @@ nobles of Judah through Boaz and the Moabitess Ruth, but the tendency to
 furnish a noble ancestry for a noble figure--especially one of obscure
 birth--is widespread (cf. GENEALOGY). He was the youngest of eight
 sons,[2] and spent his youth in an occupation which the Hebrews as well
-as the Arabs seem to have held in low esteem. He kept his father's sheep
-in the desert steppes of Judah, and there developed the strength,
+as the [[Arabs]] seem to have held in low esteem. He kept his father's sheep
+in the [[Desert|desert]] steppes of Judah, and there developed the strength,
 agility, endurance and courage which distinguished him throughout life
 (cf. 1 Sam. xvii. 34, xxiv. 2; 2 Sam. xvii. 9). There, too, he acquired
 that skill in music which led to his first introduction to Saul (1 Sam.
@@ -78,13 +78,13 @@ indeed, a flat contradiction between the two accounts, but a family of
 Greek MSS. represented by the Vatican text omit xvii. 12-31, xvii.
 55-xviii. 5, and thus the difficulty is greatly lessened. Characteristic
 of the omitted portions are the friendship which sprang up between
-Jonathan and David and the latter's appointment to a command in the
+[[Jonathan]] and David and the latter's appointment to a command in the
 army. A further difficulty is caused by 2 Sam. xxi. 19, which makes
 Elhanan the slayer of Goliath. David's exploit is not referred to in 1
 Sam. xxi. 10-15, xxix., and on this and other grounds the simpler
 tradition in 2 Sam. is usually preferred. (See GOLIATH.) But it must
 have been by some valiant deed that Saul was led to notice him (cf. xiv.
-52), and David soon became both a popular hero and an object of jealousy
+52), and David soon became both a popular hero and an object of [[Jealousy|jealousy]]
 to Saul. According to the Hebrew text of 1 Sam. xviii., Saul's jealousy
 leaped at once to the conclusion that David's ambition would not stop
 short of the kingship. Such a suspicion would be intelligible if we
@@ -116,7 +116,7 @@ on the proposed marriage of David with Saul's eldest daughter Merab
 promise, Merab was given to Adriel of Abel-Meholah (perhaps an
 Aramaean). What is said of this affair interrupts the original context
 of chap. xviii., to which the insertion has been clumsily fitted by an
-interpolation in the second half of ver. 21 (LXX omits). We have here,
+[[Interpolation|interpolation]] in the second half of ver. 21 (LXX omits). We have here,
 therefore, a notice drawn from a distinct source which connects itself
 with the other omitted passage, xvii. 12-31, where Saul had promised his
 daughter to the one who should overthrow Goliath (ver. 25). Since Merab
@@ -129,8 +129,8 @@ became chief of the bodyguard, as Ewald rightly interprets 1 Sam. xxii.
 constantly exasperated by personal contact with him. On at least one
 occasion the king's frenzy broke out in an attempt to murder David with
 his own hand.[6] At another time Saul actually gave commands to
-assassinate his son-in-law, but the breach was made up by Jonathan,
-whose chivalrous spirit had united him to David in a covenant of closest
+assassinate his son-in-law, but the [[Breach|breach]] was made up by Jonathan,
+whose chivalrous spirit had united him to David in a [[Covenant|covenant]] of closest
 friendship (xix. 1-7). The circumstances of the final outburst of Saul's
 hatred, which drove David into exile, are not easily disentangled. The
 narrative of 1 Sam. xx., which is the principal account of the matter,
@@ -170,26 +170,26 @@ episode now stands in another connexion, where it is certainly out of
 place. It might, however, fit into the break that plainly exists in the
 history at xxi. 10 after the affair at Nob. Deprived of the protection
 of religion as well as of justice, David tried his fortune among the
-Philistines at Gath. Recognized and suspected as a redoubtable foe, he
+Philistines at [[Gath]]. Recognized and suspected as a redoubtable foe, he
 made his escape by feigning madness, which in the East has inviolable
 privileges (xxi. 11-16).[10] The passage anticipates chap. xxvii., and
 it is hardly probable that the slayer of Goliath or of any other
-Philistine giant fled to the Philistines with their dead hero's sword.
+Philistine [[Giant|giant]] fled to the Philistines with their dead hero's sword.
 He returned to the wilds of Judah, and was joined at Adullam[11] by his
 father's house and by a small band of outlaws, of which he became the
 head. Placing his parents under the charge of the king of Moab, he took
 up the life of a guerilla captain, cultivating friendly relations with
 the townships of Judah (xxx. 26), which were glad to have on their
 frontiers a protector so valiant as David, even at the expense of the
-blackmail which he levied in return. A clear conception of his life at
+[[Blackmail|blackmail]] which he levied in return. A clear conception of his life at
 this time, and of the respect which he inspired by the discipline in
 which he held his men, and of the generosity which tempered his fiery
 nature, is given in chap. xxv. His force gradually swelled, and he was
 joined by the prophet Gad (note his message xxii. 5) and by the priest
-Abiathar, the only survivor of a terrible massacre by which Saul took
+Abiathar, the only survivor of a terrible [[Massacre|massacre]] by which Saul took
 revenge for the favours which David had received at the sanctuary of
 Nob. He was even able to strike at the Philistines, and to rescue Keilah
-(south of Adullam and to the east of Beit Jibrin) from their attack
+(south of Adullam and to the east of [[Beit]] Jibrin) from their attack
 (xxiii. 1-13). Forced to flee by the treachery of the very men whom he
 had succoured, he lived for a time in constant fear of being captured by
 Saul, and at length took refuge with Achish king of Gath and established
@@ -198,7 +198,7 @@ escape from Saul, told of that king's continual pursuit of the outlaw,
 of the attempt of the men of Ziph (S.E. of Hebron) to betray him, of
 David's magnanimity displayed on two occasions, and of Jonathan's visit
 to console his bosom friend (xxiv.-xxvi.).[12] The situation was one
-which lent itself to the imagination.
+which [[Lent|lent]] itself to the [[Imagination|imagination]].
 
 The site of Ziklag is unknown. It hardly lay near Gath (probably Tell
 es-Safi, 12 m. E. of Ashdod), but rather to the south of Judah (Josh.
@@ -213,7 +213,7 @@ subsequently acquiesced in David's sovereignty in Hebron, it is not easy
 to see what interest they had in embroiling him with the men of Judah.
 At length, in the second year, he was called to join his master in a
 great campaign against Saul. The Philistines for once directed their
-forces towards the plain of Jezreel (Esdraelon) in the north; and Saul,
+forces towards the plain of [[Jezreel]] (Esdraelon) in the north; and Saul,
 forsaken by Yahweh, already gave himself up for lost. David accompanied
 the army as a matter of course. But his presence was not observed until
 they reached their destination, when the jealousy of the Philistines
@@ -227,9 +227,9 @@ men of the towns in the south country.[13]
   King at Hebron.
 
 Meantime Saul had fallen in battle, and northern Israel was in a state
-of chaos. The Philistines took possession of the fertile lowlands of
+of [[Chaos|chaos]]. The Philistines took possession of the fertile lowlands of
 Jezreel and the Jordan, and the shattered forces of Israel were slowly
-rallied by Abner in the remote city of Mahanaim in Gilead, under the
+rallied by Abner in the remote city of Mahanaim in [[Gilead]], under the
 nominal sovereignty of Saul's son Ishbaal. David now took the first
 great step to the throne. He was no longer an outlaw with a band of
 wandering companions, but a petty chieftain, head of a small colony of
@@ -239,15 +239,15 @@ oracle he was bidden to move northwards to Judah and successfully
 occupied it with Hebron as his capital. Here he was anointed king, the
 first ruler of the southern kingdom. If the chronological notice may be
 trusted, he was then thirty years of age, and he reigned there for seven
-and a half years (2. Sam. ii. 1-4a, 11, v. 4 sq.). The noble elegy on
-the death of Saul and Jonathan, quoted from the Book of Jashar (2 Sam.
+and a half years (2. Sam. ii. 1-4a, 11, v. 4 sq.). The noble [[Elegy|elegy]] on
+the death of Saul and Jonathan, quoted from the Book of [[Jashar]] (2 Sam.
 i.), is marked by the absence both of religious feeling and of allusions
 to his earlier experiences with Saul which David might have been
 expected to make. It was deemed only natural that he should sympathize
 deeply with the disasters of the northern kingdom. His vengeance on the
-Amalekite who slew Saul--the account is a doublet of 1 Sam. xxxi.--is
+Amalekite who slew Saul--the account is a [[Doublet|doublet]] of 1 Sam. xxxi.--is
 consistent with his generous treatment of his late adversary in his
-outlaw life, and with this agrees his embassy of thanks to the men of
+outlaw life, and with this agrees his [[Embassy|embassy]] of thanks to the men of
 Jabesh-Gilead for their chivalrous rescue of the bodies of the fallen
 heroes (2 Sam. ii. 4b-7). The embassy threw out a hint,--their lord was
 dead and David himself had been anointed king over Judah; but the
@@ -257,11 +257,11 @@ when Saul's son was installed at the not distant Mahanaim. The interest
 of the narratives is now directed away from the Philistines to the
 decaying fortunes of Saul's house. (See ABNER and SAUL.) Abner had taken
 Saul's son Ishbaal and his authority was gradually consolidated in the
-north. War broke out between the two parties at Gibeon a few miles north
+north. War broke out between the two parties at [[Gibeon]] a few miles north
 of Jerusalem. A sham contest was changed into a fatal fray by the
 treachery of Ishbaal's men; and in the battle which ensued Abner was not
 only defeated, but, by slaying Asahel, drew upon himself a blood-feud
-with Joab. The war continued. Ishbaal's party became weaker and weaker;
+with [[Joab]]. The war continued. Ishbaal's party became weaker and weaker;
 and at length Abner quarrelled with his nominal master and offered the
 kingdom to David. The king seized the opportunity to demand the return
 of Michal, his wife. The passage (iii. 12-16) is not free from
@@ -302,12 +302,12 @@ Hebron.
   an interval of no less than five and a half years, and nowhere do the
   events of these years appear to be recorded. But David's position in
   the south of Judah is clear. He is related by marriage with south
-  Judaean clans of Caleb, Jezreel, and probably Geshur. (See ABSALOM.)
+  Judaean [[Clan|clans]] of Caleb, Jezreel, and probably Geshur. (See ABSALOM.)
   He was at the head of a small colony (1 Sam. xxvii. 3), and on
   friendly terms with the sheikhs south of Hebron (xxx. 26-31).[14] His
   step forward to Hebron is in every way intelligible and is the natural
   outcome of his policy. It is less easy to trace his previous moves.
-  There are gaps in the narratives, and the further back we proceed the
+  There are [[Gap|gaps]] in the narratives, and the further back we proceed the
   more serious do their difficulties become. These chapters bring him
   farther north, and they commence by depicting David as a man of
   Bethlehem, high in the court of Saul, the king's son-in-law, and a
@@ -321,10 +321,10 @@ Hebron.
   impossible that some traditions did not bring them together. If
   Jerusalem and its immediate neighbourhood were first conquered by
   David (2 Sam. v.), it is probable that Beeroth and Gibeon (2 Sam. iv.
-  2, xxi. 2), Shaalbim, Har-heres and Aijalon (Judg. i. 35), Gezer (ib.
+  2, xxi. 2), Shaalbim, Har-heres and Aijalon (Judg. i. 35), [[Gezer]] (ib.
   i. 29), Chephirah and Kirjath-jearim (Josh. ix. 17) had remained
   Canaanite. The evidence has obviously some bearing upon the history of
-  Saul, as also upon the intercourse between Judah and Benjamin which
+  Saul, as also upon the intercourse between Judah and [[Benjamin]] which
   David's early history implies. It has been conjectured, therefore,
   that David's original home lay in the south. Since the early
   historical narrative (1 Sam. xxv. 2) finds him in Maon, Winckler has
@@ -351,8 +351,8 @@ brother of Joab, and the men took an oath that David should no more go
 to battle lest he "quench the light of Israel." On another occasion,
 Elhanan of Bethlehem slew the giant Goliath of Gath, and David's own
 brother Shimei (or Shammah) overthrew a monster who could boast of
-twenty-four fingers and toes. In yet another incident the Philistines
-maintained a garrison in Bethlehem, and David expressed a wish for a
+twenty-four [[Finger|fingers]] and toes. In yet another incident the Philistines
+maintained a [[Garrison|garrison]] in Bethlehem, and David expressed a wish for a
 drink from its well. The wish was gratified at the risk of the lives of
 three brave men, and he recognized the solemnity of the occasion by
 pouring out the water as an offering unto Yahweh.
@@ -395,12 +395,12 @@ Jerusalem (viii. 16-18, xx. 23-26), which was not without a splendour
 hitherto unknown in Israel. Royal pensioners, of whom Jonathan's son
 Mephibosheth was one, were gathered round a princely table. The art of
 music was not neglected (xix. 35). A more dangerous piece of
-magnificence was the harem. Another innovation was the census; it was
+magnificence was the [[Harem|harem]]. Another innovation was the census; it was
 undertaken despite the protests of Joab, and was checked by the rebukes
 of the prophet Gad and the visitation of a pestilence (xxiv.). Striking,
 too, is the conception of the national God who incites the king to do an
 act for which he was to be punished.[17] To us, the proposal to number
-the people seems innocent and laudable, and the latest sources of the
+the people seems [[Innocent|innocent]] and laudable, and the latest sources of the
 Pentateuch contain several such lists. This new procedure, we may
 imagine, was resented by the northern Hebrews as an encroachment upon
 their liberties. We learn that the destroying angel was stayed at the
@@ -427,12 +427,12 @@ from Saul (1 Sam. xxii. 3 sqq.), and what led to the war is unknown. The
 severity with which the land was treated may pass for a gentle reprisal
 if the Moabites of that day were not more humane than their descendants
 in the days of King Mesha.[19] A deadly conflict with the Ammonites was
-provoked by a gross insult to friendly ambassadors of Israel;[20] and
+provoked by a [[Gross|gross]] insult to friendly ambassadors of Israel;[20] and
 this war, of which we have pretty full details in 2 Sam. x. i-xi. 1,
-xii. 26-31, assumed unexpected dimensions when the Ammonites procured
+xii. 26-31, assumed unexpected [[Dimension|dimensions]] when the Ammonites procured
 the aid of their Aramean neighbours. The defeat of Hadadezer brought
 about the submission of other lesser kings. The glory of this victory
-was increased by the complete subjugation of Edom in a war conducted by
+was increased by the complete subjugation of [[Edom]] in a war conducted by
 Joab with characteristic severity (2 Sam. viii. 13; 1 Kings xi. 15-17;
 Ps. lx., title). The fall of Rabbah concludes David's war-like exploits;
 he carried off the jewelled crown of their god (Milcom), and subjected
@@ -445,9 +445,9 @@ the people, not to torture (1 Chron. xx. 3), but to severe menial labour
   it was here, too, that the Danites found a settlement (Judg. xviii.
   28); the migration has perhaps been ante-dated. (See DAN, TRIBE.) The
   account of David's wars is remarkable for the inclusion of the Syrians
-  of Damascus and beyond the Euphrates; some exaggeration has been
+  of [[Damascus]] and beyond the [[Euphrates]]; some exaggeration has been
   suspected (cf. 2 Sam. viii. 5 with x. 16). Some misunderstanding has
-  been caused by the confusion of Edom ([Hebrew: Edom]) and Aram
+  been caused by the confusion of Edom ([Hebrew: Edom]) and [[Aram]]
   ([Hebrew: Aram]) in viii. 13. A more moderate idea of David's power
   has been found in Ps. lx. 6-12, or, preferably, in the description of
   the boundaries (2 Sam. xxiv. 5 sqq.). To the east of the Jordan he
@@ -470,7 +470,7 @@ half of his reign at Jerusalem, and the tributary nations thus do not
 seem to have attempted any revolt during his lifetime (see 1 Kings xi.
 14 sqq. and 25). It was only when the nation was no longer knit
 together by the fear of danger from without that the internal
-difficulties of the new kingdom became more manifest. Such at least is
+difficulties of the new kingdom became more [[Manifest|manifest]]. Such at least is
 the impression which the narratives convey.[22] So, after David had
 completed a series of conquests which made Palestine the greatest of the
 petty states of the age, troubles arose with the Israelites, who in
@@ -490,9 +490,9 @@ was satisfied by the death of the rebel, and no further steps were taken
 (xx.).[23] This policy of leniency towards Israel is characteristic of
 David, and may well have become a popular theme in the tales of
 succeeding generations. This same magnanimity towards the survivors of
-Saul's house has left its mark upon many of the narratives, and helps to
+Saul's house has left its mark upon many of the narratives, and [[Helps|helps]] to
 a truer understanding of the stories of his early life. Thus it was
-quite in keeping with the romantic attachment between David and Saul's
+quite in keeping with the romantic [[Attachment|attachment]] between David and Saul's
 son Jonathan that when he became king of Israel he took Jonathan's son
 Meribbaal under his care (ix.).[24] The deed was not merely generous, it
 was politic to have Saul's grandson under his eyes. The hope of
@@ -503,16 +503,16 @@ was consulted the reply came that there was "blood upon Saul and upon
 his house because he put the Gibeonites to death." The unavenged blood
 was the cause of divine anger, and retribution must be made. This David
 recognized, and, summoning the injured clan, inquired what expiation
-could be made. Bloodshed could only be atoned by blood-money or by
+could be made. Bloodshed could only be atoned by [[Blood-Money|blood-money]] or by
 shedding the blood of the offender or of his family. The Gibeonites
 demanded the latter, and five sons of Merab (the text by a mistake reads
 Michal) and two sons of Saul's concubine were sacrificed. The awful deed
-took place at the beginning of harvest (April-May), and the bodies
+took place at the beginning of [[Harvest|harvest]] (April-May), and the bodies
 remained suspended until, with the advent of the autumn rains, Yahweh
 was once more reconciled to his land (xxi. 1-14). The incident is a
 valuable picture of crude ideas of Yahweh, and, if nothing else were
 needed, it was sufficient to involve David in a feud with the
-Benjamites.[25] Here, too, we learn of the tardy burial of the bones of
+Benjamites.[25] Here, too, we learn of the tardy burial of the [[Bone|bones]] of
 Saul and Jonathan which had remained in Jabesh-Gilead since the battle
 of Gilboa;--the history of David's dealings with the family of Saul has
 been obscured. That he took over his harem is only in accordance with
@@ -664,7 +664,7 @@ for failing to subdue the sensuality which is the chief stain on his
 character, but should rather be judged by his habitual recognition of a
 generous standard of conduct, by the undoubted purity and lofty justice
 of an administration which was never stained by selfish considerations
-or motives of personal rancour,[30] and finally by the calm courage
+or motives of personal rancour,[30] and finally by the [[Calm|calm]] courage
 which enabled him to hold an even and noble course in the face of
 dangers and treachery. His great sin in the matter of Uriah would have
 been forgotten but for his repentance: the things at which modern ideas
@@ -674,21 +674,21 @@ appears particularly in relation to the practice of blood revenge; to
 put an end to this deep-rooted custom would have been an impossibility.
 But it is clear from 2 Sam. iii. 28 sqq., xiv. 1-10, that his sympathies
 were against the barbarous usage. Nor is it just to accuse him of
-cruelty in his treatment of enemies. As it was impossible to establish a
-military cordon along the borders of Canaan, it was necessary absolutely
+[[Cruelty|cruelty]] in his treatment of enemies. As it was impossible to establish a
+military cordon along the [[Borders|borders]] of [[Canaan]], it was necessary absolutely
 to cripple the adjoining tribes. From the lust of conquest for its own
 sake David appears to have been wholly free.
 
 The generous elevation of David's character is seen most clearly in
 those parts of his life where an inferior nature would have been most at
-fault,--in his conduct towards Saul, in the blameless reputation of
+[[Fault|fault]],--in his conduct towards Saul, in the blameless reputation of
 himself and his band of outlaws in the wilderness of Judah, in his
 repentance under the rebuke of Nathan and in his noble bearing on the
 revolt of Absalom. His touching love for his worthless son is one of the
 most beautiful descriptions of paternal affection. His unfailing insight
 into character, and his power of winning men's hearts and touching their
 better impulses, appear in innumerable traits (e.g. 2 Sam. xiv. 18-20,
-iii. 31-37, xxiii. 15-17), and here, as elsewhere, the charm which the
+iii. 31-37, xxiii. 15-17), and here, as elsewhere, the [[Charm|charm]] which the
 life of David has upon its readers is entirely unaffected by technical
 questions of literary and historical criticism.
 
@@ -742,10 +742,10 @@ historical value. See further CHRONICLES, PSALMS.
   number of points of evidence there appears to have been a group of
   traditions of a movement from the south (probably Kadesh, Num. xiii.
   26) associated with Caleb, David and the Levites. If the clans of
-  Moses' kin which moved into Judah bore the ark (Num. x. 29 sqq.; see
-  Kenites), and if Abiathar carried it before David (1 Kings ii. 26),
+  Moses' [[Kin|kin]] which moved into Judah bore the ark (Num. x. 29 sqq.; see
+  [[Kenites]]), and if Abiathar carried it before David (1 Kings ii. 26),
   there were traditions of the ark distinct from those which associate
-  it with Joshua and Shiloh (cf. 2 Sam. vii. 6). But the stories of
+  it with [[Joshua]] and Shiloh (cf. 2 Sam. vii. 6). But the stories of
   conflicts in a much larger area than the few cities in the immediate
   neighbourhood of Jerusalem (see above) can scarcely be read with the
   numerous narratives which recount or imply relations between the young
@@ -753,7 +753,7 @@ historical value. See further CHRONICLES, PSALMS.
   therefore, that one early account of David was that of an entrance
   into the land of Judah, and that round him have gathered traditions
   partly individual and partly tribal or national. See further S. A.
-  Cook, _Critical Notes on O.T. History_, pp. 122 sqq., and art. JEWS
+  [[Cook]], _Critical Notes on O.T. History_, pp. 122 sqq., and art. JEWS
   (_History_), SS 6-8.
 
   LITERATURE.--Robertson Smith's later views subsequent to 1877 (when he
@@ -762,12 +762,12 @@ historical value. See further CHRONICLES, PSALMS.
   and partly in the article on the Books of Samuel in the _Ency. Brit._
   (9th ed.); on David's character see especially his criticism of Renan,
   _Eng. Hist. Rev._, 1888, pp. 134 sqq. Mention may be made of
-  Stahelin's _Leben Davids_ (Basel, 1866), still valuable for the
+  Stahelin's _Leben Davids_ ([[Basel]], 1866), still valuable for the
   numerous parallels adduced from oriental history; Cheyne's _Aids to
   Devout Study of Criticism_ (1892), a criticism of David's history in
-  its bearing upon religion; Marcel Dieulafoy, _David the King_ (1902),
+  its bearing upon religion; [[Marcel]] Dieulafoy, _David the King_ (1902),
   full, but not critical; H. A. White, Hastings' _Dict._ art. "David";
-  Cheyne, _Ency. Bib._ art. "David"; and (on the romantic element in the
+  [[Cheyne]], _Ency. Bib._ art. "David"; and (on the romantic element in the
   narratives) Luther in Ed. Meyer, _Israeliten und ihre Nachbarstamme_
   (1906), pp. 181 sqq.     (W. R. S.; S. A. C.)
 
@@ -811,7 +811,7 @@ FOOTNOTES:
     _Semit. Kriegsalterthumer_, p. 60 sqq.
 
   [10] Interesting parallels in Barhebraeus _Chron._, ed. Brun and
-    Kirsch, p. 222, and Ewald, _Hist. Israel_, iii. p. 84.
+    [[Kirsch]], p. 222, and Ewald, _Hist. Israel_, iii. p. 84.
 
   [11] The cave of Adullam has been traditionally placed (since the
     12th century) at Khareitun, two hours' journey south of Bethlehem.
@@ -831,7 +831,7 @@ FOOTNOTES:
     explicit statement, see W. R. Smith, _Old Test. in Jewish Church_(^2),
     386 sq.
 
-  [14] Bethel (ver. 27) is probably the Bethuel near Ziklag (1 Chron.
+  [14] [[Bethel]] (ver. 27) is probably the Bethuel near Ziklag (1 Chron.
     iv. 30). David's friendly relations with the Philistines find a
     parallel in Isaac's covenant with Abimelech (q.v.). In Ps. xxxiv. the
     latter name actually appears in place of Achish.
@@ -853,7 +853,7 @@ FOOTNOTES:
     fighting men (2 Sam. viii. 2); Mesha destroys the inhabitants of the
     captured cities in honour of his god Chemosh.
 
-  [20] It finds a parallel in the fate of the heralds of Orchomenus
+  [20] It finds a parallel in the [[Fate|fate]] of the heralds of Orchomenus
     (Frazer, _Pausan_. v. 135) and in an Arabian story (Ibn Athir, viii.
     360; Noldeke in Budde, _Hand-Commentar, ad loc._); cf. also Ewald,
     iii. 152.
@@ -892,7 +892,7 @@ FOOTNOTES:
 
   [28] See HEBREW RELIGION, MESSIAH, PROPHET.
 
-  [29] Kuenen, "The Critical Method," _Modern Review_, 1880, p. 701
+  [29] [[Kuenen]], "The Critical Method," _Modern Review_, 1880, p. 701
     (_Gesammelte Abhandlungen_, Germ. ed. by Budde, p. 33).
 
   [30] His charges to Solomon in 1 Kings ii. 5-9 do not arise

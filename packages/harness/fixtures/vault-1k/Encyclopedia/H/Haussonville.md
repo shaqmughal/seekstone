@@ -21,7 +21,7 @@ anti-imperial paper at Brussels, _Le Bulletin francais_, and in 1863 he
 actively supported the candidature of Prevost Paradol. He was elected to
 the French Academy in 1869, in recognition of his historical writings,
 _Histoire de la politique exterieure du gouvernement francais de 1830 a
-1848_ (2 vols., 1850), _Histoire de la reunion de la Lorraine a la
+1848_ (2 vols., 1850), _Histoire de la reunion de la [[Lorraine]] a la
 France_ (4 vols., 1854-1859), _L'Eglise romaine et le premier empire
 1800-1814_ (5 vols., 1864-1879). In 1870 he published a pamphlet
 directed against the Prussian treatment of France, _La France et la
@@ -61,7 +61,7 @@ d'Haussonville published:--_C. A. Sainte-Beuve, sa vie et ses oeuvres_
 _Le Salon de Mme Necker_ (1882, 2 vols.), _Madame de La Fayette_ (1891),
 _Madame Ackermann_ (1892), _Le Comte de Paris, souvenirs personnels_
 (1895), _La Duchesse de Bourgogne et l'alliance savoyarde_ (1898-1903),
-_Salaire et miseres de femme_ (1900), and, with G. Hanotaux, _Souvenirs
+_Salaire et miseres de femme_ (1900), and, with G. [[Hanotaux]], _Souvenirs
 sur Madame de Maintenon_ (3 vols., 1902-1904).
 
 ## References

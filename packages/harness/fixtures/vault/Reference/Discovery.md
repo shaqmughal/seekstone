@@ -3,7 +3,7 @@
 DISCOVERY, in law, the revealing or disclosing of any matter. The
 English common law courts were originally unable to compel a litigant
 before a trial to disclose the facts and documents on which he relied.
-In equity, however, a different rule prevailed, there being an absolute
+In [[Equity|equity]], however, a different rule prevailed, there being an absolute
 right to discovery of all material facts on which a case was founded.
 Now the practice is regulated by the Rules of the Supreme Court, 1883,
 Order 31. Discovery is of two kinds, namely, by interrogatories and by

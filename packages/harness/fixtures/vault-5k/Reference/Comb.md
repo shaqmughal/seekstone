@@ -13,10 +13,10 @@ toilet used for cleaning and arranging the hair, and also for holding it
 in place after it has been arranged; the word is also applied, from
 resemblance in form or in use, to various appliances employed for
 dressing wool and other fibrous substances, to the indented fleshy crest
-of a cock, and to the ridged series of cells of wax filled with honey in
+of a [[Cock|cock]], and to the ridged series of cells of wax filled with honey in
 a beehive. Hair combs are of great antiquity, and specimens made of
-wood, bone and horn have been found in Swiss lake-dwellings. Among the
-Greeks and Romans they were made of boxwood, and in Egypt also of ivory.
+wood, [[Bone|bone]] and [[Horn|horn]] have been found in Swiss lake-dwellings. Among the
+Greeks and Romans they were made of boxwood, and in Egypt also of [[Ivory|ivory]].
 For modern combs the same materials are used, together with others such
 as tortoise-shell, metal, india-rubber and celluloid. There are two
 chief methods of manufacture. A plate of the selected material is taken
@@ -26,7 +26,7 @@ circular saw. This method involves the loss of the material cut out
 between the teeth. The second method, known as "twinning" or "parting,"
 avoids this loss and is also more rapid. The plate of material is rather
 wider than before, and is formed into two combs simultaneously, by the
-aid of a twinning machine. Two pairs of chisels, the cutting edges of
+aid of a twinning [[Machine|machine]]. Two pairs of chisels, the cutting edges of
 which are as long as the teeth are required to be and are set at an
 angle converging towards the sides of the plate, are brought down
 alternately in such a way that the wedges removed from one comb form the

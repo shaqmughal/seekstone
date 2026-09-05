@@ -8,9 +8,9 @@ tags: [religion, literature]
 # Hoffding
 
 HOFFDING, HARALD (1843-   ), Danish philosopher, was born and educated in
-Copenhagen. He became a schoolmaster, and ultimately in 1883 professor
+[[Copenhagen]]. He became a schoolmaster, and ultimately in 1883 professor
 in the university of Copenhagen. He was much influenced by Soren
-Kierkegaard in the early development of his thought, but later became a
+[[Kierkegaard]] in the early development of his thought, but later became a
 positivist, retaining, however, and combining with it the spirit and
 method of practical psychology and the critical school. His best-known
 work is perhaps his _Den nyere Filosofis Historie_ (1894), translated
@@ -24,7 +24,7 @@ Religion_ (1906) also have appeared in English.
   translated into German, are: _Den engelske Filosofi i vor Tid_ (1874);
   _Etik_ (1876; ed. 1879); _Psychologi i Omrids paa Grundlag of
   Erfaring_ (ed. 1892); _Psykologiske Undersogelser_ (1889); _Charles
-  Darwin_ (1889); _Kontinuiteten i Kants filosofiske Udviklingsgang_
+  [[Darwin]]_ (1889); _Kontinuiteten i [[Kant|Kants]] filosofiske Udviklingsgang_
   (1893); _Det psykologiske Grundlag for logiske Domme_ (1899);
   _Rousseau und seine Philosophie_ (1901); _Mindre Arbejder_ (1899).
 

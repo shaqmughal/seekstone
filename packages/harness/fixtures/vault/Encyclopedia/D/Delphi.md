@@ -1,18 +1,18 @@
 # Delphi
 
-DELPHI (the Pytho of Homer and Herodotus; in Boeotian inscriptions
-[Greek: Belphoi], on coins [Greek: Dalphoi]), a place in ancient Greece
+DELPHI (the Pytho of [[Homer]] and Herodotus; in Boeotian inscriptions
+[Greek: Belphoi], on [[Coin|coins]] [Greek: Dalphoi]), a place in ancient Greece
 in the territory of Phocis, famous as the seat of the most important
-temple and oracle of Apollo. It was situated about 6 m. inland from the
+temple and oracle of [[Apollo]]. It was situated about 6 m. inland from the
 shores of the Corinthian Gulf, in a rugged and romantic glen, closed on
 the N. by the steep wall-like under-cliffs of Mount Parnassus known as
 the Phaedriades or Shining Rocks, on the E. and W. by two minor ridges
 or spurs, and on the S. by the irregular heights of Mount Cirphis.
 Between the two mountains the Pleistus flowed from east to west, and
-opposite the town received the brooklet of the Castalian fountain, which
+opposite the town received the brooklet of the Castalian [[Fountain|fountain]], which
 rose in a deep gorge in the centre of the Parnassian cliff. About 7 m.
 to the north, on the side of Mount Parnassus, was the famous Corycian
-cave, a large grotto in the limestone rock, which afforded the people of
+cave, a large grotto in the [[Limestone|limestone]] rock, which afforded the people of
 Delphi a refuge during the Persian invasion. It is now called in the
 district the Sarant' Aulai or Forty Courts, and is said to be capable of
 holding 3000 people.
@@ -45,7 +45,7 @@ zigzags of the Sacred Way.
 
 In describing the monuments discovered by the French excavators, the
 simplest plan is to follow the route of Pausanias. Outside the entrance
-is a large paved court of Roman date, flanked by a colonnade. On the
+is a large paved court of Roman date, flanked by a [[Colonnade|colonnade]]. On the
 north side of the Sacred Way, close to the main entrance, stood the
 offering dedicated by the Lacedaemonians after the battle of
 Aegospotami. It was a large quadrangular building of conglomerate, with
@@ -53,12 +53,12 @@ a back wall faced with stucco, and stood open to the road. On a stepped
 pedestal facing the open stood the statues of the gods and the admirals,
 perhaps in rows above one another.
 
-The statues of the Epigoni stood on a semicircular basis on the south
+The statues of the [[Epigoni]] stood on a semicircular basis on the south
 side of the way. Opposite them stood another semicircular basis which
 carried the statues of the Argive kings, whose names are cut on the
 pedestal in archaic characters, reading from right to left. Farther west
 was the Sicyonian treasury on the south of the way. It was in the form
-of a small Doric temple _in antis_, and had its entrance on the east.
+of a small Doric temple _in [[Anti|antis]]_, and had its entrance on the east.
 The present foundations are built of architectural fragments, probably
 from an earlier building of circular form on the same site. The
 sculptures from this treasury are in the museum, as are the other
@@ -77,20 +77,20 @@ treasury of Siphnos, but further evidence led them to change their
 opinion. The treasury was raised on a quadrangular structure, supported
 on its south side by the Hellenico, and built of tufa. The lower courses
 are left rough and were most likely hidden. A small Ionic temple of
-marble with two caryatids between antae stood on this substructure. The
+[[Marble|marble]] with two caryatids between antae stood on this substructure. The
 sculpture from this treasury, which ornamented its frieze and pediment,
 is of great interest in the history of the development of the art, and
 the fragments of architectural mouldings are of great delicacy and
 beauty. The whole work is perhaps the most perfect example we possess of
 the transitional style of the early 5th century. Standing back somewhat
-from the path just as it bends round up the hill is the Theban treasury.
+from the path just as it [[Bend|bends]] round up the hill is the Theban treasury.
 Farther north, where the path turns again, is the Athenian treasury.
 This structure, which was in the form of a small Doric temple _in
 antis_, appears to have suffered from the building above it having been
 shaken down by an earthquake. It has now been rebuilt with the original
 blocks. There can be no doubt about the identity of the building, for
 the basis on which it stands bears the remains of the dedicatory
-inscription, stating that it was erected from the spoils of Marathon.
+inscription, stating that it was erected from the spoils of [[Marathon]].
 Almost all the sculptured metopes are in the museum, and are of the
 highest interest to the student of archaic art. The famous inscriptions
 with hymns to Apollo accompanied by musical notation were found on
@@ -100,13 +100,13 @@ Above the Athenian treasury is an open space, in which is a rock which
 has been identified as the Sybil's rock. It has steps hewn in it, and
 has a cleft. The ground round it has been left rough like the space on
 the Acropolis at Athens identified as the ancient altar of Athena. Here
-too was placed the curious column, with many flutes and an Ionic
+too was placed the curious column, with many [[Flute|flutes]] and an Ionic
 capital, on which stood the colossal sphinx, dedicated by the Naxians,
 that has been pieced together and placed in the museum.
 
 A little farther on, but below the Sacred Way, is another open space, of
 circular form, which is perhaps the [Greek: halos] or sacred
-threshing-floor on which the drama of the slaying of the Python by
+threshing-floor on which the [[Drama|drama]] of the slaying of the Python by
 Apollo was periodically performed. Opposite this space, and backed
 against the beautifully jointed polygonal wall which has for some time
 been known, and which supports the terrace on which the temple stands,
@@ -129,7 +129,7 @@ remains of successive structures. Of that built by the Alcmaeonids in
 the 6th century B.C. considerable remains have been found, some in the
 foundations of the later temple and some lying where they were thrown by
 the earthquake. The sculptures found have been assigned to this
-building, probably to the gables, as they are archaic in character, and
+building, probably to the [[Gable|gables]], as they are archaic in character, and
 show a remarkable resemblance to the sculptures from the pediment of the
 early temple of Athena at Athens. The existing foundations are these of
 the temple built in the 4th century. They give no certain information as
@@ -180,7 +180,7 @@ influence and history of the oracle see ORACLE.
 
 Delphi also contained the "Omphalos," a sacred stone bound with fillets,
 supposed to mark the centre of the earth. It was said Zeus had started
-two eagles from the opposite extremities and they met there. Other tales
+two [[Eagle|eagles]] from the opposite extremities and they met there. Other tales
 said the stone was the one given by Rhea to Cronus as a substitute for
 Zeus.
 
@@ -194,22 +194,22 @@ earliest stone temple was said to have been built by Trophonius and
 Agamedes. This was destroyed by fire in 548 B.C., and the contract for
 rebuilding was undertaken by the exiled Alcmaeonidae from Athens, who
 generously substituted marble on the eastern front for the poros
-specified (see CLEISTHENES, _ad init._). Portions of the pediments of
+specified (see [[Cleisthenes|CLEISTHENES]], _ad init._). Portions of the pediments of
 this temple have been found in the excavations; but no sign has been
 found of the pediments mentioned by Pausanias, representing on the east
-Apollo and the Muses, and on the west Dionysus and the Thyiades
+Apollo and the Muses, and on the west [[Dionysus]] and the Thyiades
 (Bacchantes), and designed by Praxias, the pupil of Calanias. The temple
 which was seen by Pausanias, and of which the foundations were found by
 the excavators, was the one of which the building is recorded in
 inscriptions of the 4th century. A raid on Delphi attempted by the
 Persians in 480 B.C. was said to have been frustrated by the god
 himself, by means of a storm or earthquake which hurled rocks down on
-the invaders; a similar tale is told of the raid of the Gauls in 279
+the invaders; a similar tale is told of the raid of the [[Gaul|Gauls]] in 279
 B.C. But the sacrilege thus escaped at the hands of foreign invaders was
 inflicted by the Phocian defenders of Delphi during the Sacred War,
 356-346 B.C., when many of the precious votive offerings were melted
 down. The Phocians were condemned to replace their value to the amount
-of 10,000 talents, which they paid in instalments. In 86 B.C. the
+of 10,000 talents, which they paid in [[Instalment|instalments]]. In 86 B.C. the
 sanctuary and its treasures were put under contribution by L. Cornelius
 Sulla for the payment of his soldiers; Nero removed no fewer than 500
 bronze statues from the sacred precincts; Constantine the Great enriched
@@ -217,15 +217,15 @@ his new city by the sacred tripod and its support of intertwined snakes
 dedicated by the Greek cities after the battle of Plataea. This still
 exists, with its inscription, in the Hippodrome at Constantinople.
 Julian afterwards sent Oribasius to restore the temple; but the oracle
-responded to the emperor's enthusiasm with nothing but a wail over the
+responded to the emperor's [[Enthusiasm|enthusiasm]] with nothing but a wail over the
 glory that had departed.
 
   Provisional accounts of the excavations have appeared during the
   excavations in the _Bulletin de correspondance hellenique_. A summary
   is given in J. G. Frazer, _Pausanias_, vol. v. The official account is
-  entitled _Fouilles de Delphes_. For history see Hiller von Gartringen
+  entitled _Fouilles de Delphes_. For history see [[Hiller]] von Gartringen
   in Pauly-Wissowa, _Realencyclopadie, s.v._ "Delphi." For cult see L.
-  R. Farnell, _Cults of the Creek States_, iv. 179-218. For the works of
+  R. Farnell, _Cults of the [[Creek]] States_, iv. 179-218. For the works of
   art discovered see GREEK ART.     (E. Gr.)
 
 ## See also

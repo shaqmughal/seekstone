@@ -5,7 +5,7 @@ in Berlin on the 25th of March 1800, and was educated in the university
 in that city. He subsequently studied mining in Bochum and Essen, and
 was in 1820 placed in the mining department of the Prussian state,
 serving on the staff until 1864, and becoming director in 1841 when he
-was stationed at Bonn. In early years he made journeys to study the
+was stationed at [[Bonn]]. In early years he made journeys to study the
 mining systems of other countries, and with this object he visited
 England and Scotland in company with Karl von Oeynhausen (1797-1865). In
 the course of his work he paid special attention to the coal-formation

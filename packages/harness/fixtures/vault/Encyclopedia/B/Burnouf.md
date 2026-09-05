@@ -5,14 +5,14 @@ BURNOUF, EUGENE (1801-1852), French orientalist, was born in Paris on the
 classical scholar of high reputation, and the author, among other works, of
 an excellent translation of Tacitus (6 vols., 1827-1833). Eugene Burnouf
 published in 1826 an _Essai sur le Pali ..._, written in collaboration with
-Christian Lassen; and in the following year _Observations grammaticales sur
+Christian [[Lassen]]; and in the following year _Observations grammaticales sur
 quelques passages de l'essai sur le Pali_. The next great work he undertook
-was the deciphering of the Zend manuscripts brought to France by Anquetil
+was the deciphering of the Zend [[Manuscript|manuscripts]] brought to France by [[Anquetil]]
 du Perron. By his labours a knowledge of the Zend language was first
 brought into the scientific world of Europe. He caused the _Vendidad Sade_,
 part of one of the books bearing the name of Zoroaster, to be lithographed
 with the utmost care from the Zend MS. in the Bibliotheque Nationale, and
-published it in folio parts, 1829-1843. From 1833 to 1835 he published his
+published it in [[Folio|folio]] parts, 1829-1843. From 1833 to 1835 he published his
 _Commentaire sur le Yacna, l'un des livres liturgiques des Parses_; he also
 published the Sanskrit text and French translation of the _Bhagavata Purana
 ou histoire poetique de Krichna_ in three folio volumes (1840-1847). His

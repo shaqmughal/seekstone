@@ -65,8 +65,8 @@ subject--the Adam and Eve at Hampton Court, or its feebler replica at
 Berlin--we observe more nudity, combined with realism of the commonest
 type. Happily, Mabuse was capable of higher efforts. His St Luke
 painting the portrait of the Virgin in Sanct Veit at Prague, a variety
-of the same subject in the Belvedere at Vienna, the Madonna of the
-Baring collection in London, or the numerous repetitions of Christ and
+of the same subject in the [[Belvedere]] at Vienna, the Madonna of the
+[[Baring]] collection in London, or the numerous repetitions of Christ and
 the scoffers (Ghent and Antwerp), all prove that travel had left many of
 Mabuse's fundamental peculiarities unaltered. His figures still retain
 the character of stone; his architecture is as rich and varied, his

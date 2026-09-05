@@ -9,11 +9,11 @@ topic: horticulture-studies
 FUSIBLE METAL, a term applied to certain alloys, generally composed of
 bismuth, lead and tin, which possess the property of melting at
 comparatively low temperatures. Newton's fusible metal (named after Sir
-Isaac Newton) contains 50 parts of bismuth, 31.25 of lead and 18.75 of
+[[Isaac]] Newton) contains 50 parts of bismuth, 31.25 of lead and 18.75 of
 tin; that of Jean Darcet (1725-1801), 50 parts of bismuth with 25 each
 of lead and tin; and that of Valentin Rose the elder, 50 of bismuth with
 28.1 of lead and 24.1 of tin. These melt between 91 deg. and 95 deg. C.
-The addition of cadmium gives still greater fusibility; in Wood's metal,
+The addition of [[Cadmium|cadmium]] gives still greater fusibility; in Wood's metal,
 for instance, which is Darcet's metal with half the tin replaced by
 cadmium, the melting point is lowered to 66 deg.-71 deg. C.; while
 another described by Lipowitz and containing 15 parts of bismuth, 8 of

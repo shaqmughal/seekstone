@@ -13,7 +13,7 @@ for "agreement." It was frequently used along with _pactum_, also a
 general term, but applied especially to agreements to settle a question
 without carrying it before the courts of law.
 
-The word "covenant" has been used in a variety of senses in English law.
+The word "covenant" has been used in a variety of senses in [[English Law|English law]].
 
 1. In its strict sense, covenant means an agreement _under seal_, that
 something has or has not already been done, or shall or shall not be
@@ -46,8 +46,8 @@ _Covenants_, p. 40). Thus, the word "demise," used in a lease of deed,
 raises the implication of a covenant both for "quiet enjoyment" and for
 title to let; and it has been judicially suggested that a covenant for
 quiet enjoyment may be implied from any word or words of like import
-(_Budd-Scott_ v. _Daniell_, 1902, 2 K.B. p. 359). The Conveyancing Act
-1881 provides (S 7) that in a conveyance for valuable consideration,
+(_Budd-Scott_ v. _Daniell_, 1902, 2 K.B. p. 359). The [[Conveyancing]] Act
+1881 provides (S 7) that in a [[Conveyance|conveyance]] for valuable consideration,
 other than a mortgage, there shall be implied, as against the person who
 conveys and is expressed to convey as "beneficial owner," certain
 _qualified_ covenants--i.e. covenants extending only to the acts or
@@ -91,7 +91,7 @@ explanation.
   United States. In New York, Michigan, Minnesota, Oregon, Wisconsin and
   Wyoming the implication of covenants for title has been, with certain
   exceptions, prohibited by statute. In Alabama, Arkansas, Delaware,
-  Illinois, Indiana, Mississippi, Missouri, Montana, Nevada, New Mexico,
+  Illinois, [[Indiana]], Mississippi, Missouri, Montana, Nevada, New Mexico,
   Pennsylvania and Texas the words _grant_, _bargain_ and _sell_, in
   conveyances in fee, unless specially restricted, amount to qualified
   covenants that the grantor was seised in fee, free from incumbrances,
@@ -108,7 +108,7 @@ covenant_. But this remedy had fallen into disuse before 1830 (see Platt
 on _Covenants_, p. 543), and was abolished by the Common Law Procedure
 Acts. Since the Judicature Acts, an action on a covenant follows the
 same course as, and is indistinguishable from, any ordinary action for
-breach of contract. The remedy is by damages, decree of specific
+[[Breach|breach]] of contract. The remedy is by damages, decree of specific
 performance or injunction to prevent the breach.
 
   The term "covenant" is unknown to Scots law. But its place is filled
@@ -124,7 +124,7 @@ performance or injunction to prevent the breach.
   1906); C. Foa, _Landlord and Tenant_ (3rd ed., London, 1901);
   Hamilton, _Law of Covenants_ (London); Fawcett, _Law of Landlord and
   Tenant_ (3rd ed., London, 1905). _American Law: Rawle, Law of
-  Covenants for Title_ (Boston, 1887); _Encyclopaedia of American Law_
+  Covenants for Title_ ([[Boston]], 1887); _Encyclopaedia of American Law_
   (3rd ed., 1890), vol. viii., tit. "Covenants."     (A. W. R.)
 
 ## See also

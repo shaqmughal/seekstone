@@ -5,10 +5,10 @@ departments of Santander and Cundinamarca on the N., W. and S., and the
 republic of Venezuela on the E., and having an area of 33,321 sq. m.,
 including the Casanare territory. Pop. (1899, estimate) 508,940. The
 department is very mountainous, heavily forested and rich in minerals.
-The famous Muso emerald mines are located in the western part of Boyaca.
+The famous Muso [[Emerald|emerald]] mines are located in the western part of Boyaca.
 The capital, Tunja (pop. 1902, 10,000), is situated in the Eastern
-Cordilleras, 9054 ft. above sea-level, and has a cool, temperate
-climate, though only 5-1/2 deg. N. of the equator. It was an important
+[[Cordillera|Cordilleras]], 9054 ft. above sea-level, and has a cool, temperate
+climate, though only 5-1/2 deg. N. of the [[Equator|equator]]. It was an important
 place in colonial times, and occupies the site of one of the Indian
 towns of this region (Hunsa), which had acquired a considerable degree
 of civilization before the discovery of America. Other towns of note in

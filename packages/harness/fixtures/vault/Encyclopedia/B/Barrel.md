@@ -11,7 +11,7 @@ forms, as in the Gaelic _baraill_, are derived from the English), a vessel
 of cylindrical shape, made of staves bound together by hoops, a cask; also
 a dry and liquid measure of capacity, varying with the commodity which it
 contains (see WEIGHTS AND MEASURES). The term is applied to many
-cylindrical objects, as to the drum round which the chain is wound in a
+cylindrical objects, as to the [[Drum|drum]] round which the chain is wound in a
 crane, a capstan or a watch; to the cylinder studded with pins in a
 barrel-organ or musical-box; to the hollow shaft in which the piston of a
 pump works; or to the tube of a gun. The "barrel" of a horse is that part

@@ -41,15 +41,15 @@ department of his action that requires to be most fully dealt with here.
 He found the law of the Roman empire in a state of great confusion. It
 consisted of two masses, which were usually distinguished as old law
 (_jus vetus_) and new law (_jus novum_). The first of these comprised:
-(i.) all such of the statutes (_leges_) passed under the republic and
-early empire as had not become obsolete; (ii.) the decrees of the senate
+(i.) all such of the statutes (_[[Leg|leges]]_) passed under the republic and
+early empire as had not become obsolete; (ii.) the [[Decree|decrees]] of the senate
 (_senatus consulta_) passed at the end of the republic and during the
 first two centuries of the empire; (iii.) the writings of the jurists of
 the later republic and of the empire, and more particularly of those
 jurists to whom the right of declaring the law with authority (_jus
 respondendi_) had been committed by the emperors. As these jurists had
 in their commentaries upon the _leges_, _senatus consulta_ and edicts of
-the magistrates practically incorporated all that was of importance in
+the [[Magistrate|magistrates]] practically incorporated all that was of importance in
 those documents, the books of the jurists may substantially be taken as
 including (i.) and (ii.). These writings were of course very numerous,
 and formed a vast mass of literature. Many of them had become
@@ -162,7 +162,7 @@ several committees, presented their selection of extracts to the emperor
 in 533, and he published it as an imperial statute on December 16th of
 that year, with two prefatory constitutions (those known as _Omnem
 reipublicae_ and _Dedit nobis_). It is the Latin volume which we now
-call the _Digest_ (_Digesta_) or _Pandects_ ([Greek: Pandektai]) and
+call the _[[Digest]]_ (_Digesta_) or _Pandects_ ([Greek: Pandektai]) and
 which is by far the most precious monument of the legal genius of the
 Romans, and indeed, whether one regards the intrinsic merits of its
 substance or the prodigious influence it has exerted and still exerts,
@@ -194,10 +194,10 @@ made of it, but directed this translation to be exactly literal.
 These two great enterprises had substantially despatched Justinian's
 work; however, he, or rather Tribonian, who seems to have acted both as
 his adviser and as his chief executive officer in all legal affairs,
-conceived that a third book was needed, viz. an elementary manual for
+conceived that a third book was needed, viz. an elementary [[Manual|manual]] for
 beginners which should present an outline of the law in a clear and
 simple form. The little work of Gaius, most of which we now possess
-under the title of _Commentarii institutionum_, had served this purpose
+under the title of _[[Commentarii]] institutionum_, had served this purpose
 for nearly four centuries; but much of it had, owing to changes in the
 law, become inapplicable, so that a new manual seemed to be required.
 Justinian accordingly directed Tribonian, with two coadjutors,
@@ -246,7 +246,7 @@ of the earlier edition having disappeared.
   belongs, i.e. the so-called classical period of Roman law down to the
   time of Alexander Severus (244); but the great majority are later, and
   belong to one or other of the four great eras of imperial legislation,
-  the eras of Diocletian, of Constantine, of Theodosius II., and of
+  the eras of [[Diocletian]], of Constantine, of Theodosius II., and of
   Justinian himself. Although this _Codex_ is said to have the same
   general order as that of the _Digest_, viz. the order of the Perpetual
   Edict, there are considerable differences of arrangement between the
@@ -279,7 +279,7 @@ of the earlier edition having disappeared.
   we even know how many such constitutions were promulgated. One of the
   three contains 168 (together with 13 Edicts), but some of these are by
   the emperors Justin II. and Tiberius II. Another, the so-called
-  _Epitome of Julian_, contains 125 Novels in Latin; and the third, the
+  _[[Epitome]] of Julian_, contains 125 Novels in Latin; and the third, the
   _Liber authenticarum_ or _vulgata versio_, has 134, also in Latin.
   This last was the collection first known and chiefly used in the West
   during the middle ages; and of its 134 only 97 have been written on by
@@ -296,7 +296,7 @@ of the earlier edition having disappeared.
   more interesting, as supplying materials for the history of the time,
   social, economical and ecclesiastical, than in respect of any purely
   legal merits. They may be found printed in any edition of the _Corpus
-  juris civilis_.
+  juris [[Civilis|civilis]]_.
 
   This _Corpus juris_, which bears and immortalizes Justinian's name,
   consists of the four books described above: (1) The authorized
@@ -322,7 +322,7 @@ words, and merely cutting out repetitions, removing contradictions,
 retrenching superfluities, so as immensely to reduce the bulk of the
 whole. And he made not one set of such extracts but two, one for the
 jurist law, the other for the statute law. He gave to posterity not one
-code but two digests or collections of extracts, which are new only to
+[[Code|code]] but two digests or collections of extracts, which are new only to
 this extent that they are arranged in a new order, having been
 previously altogether unconnected with one another, and that here and
 there their words have been modified in order to bring one extract into
@@ -332,7 +332,7 @@ expression as well as in substance.
 Thus regarded, even without remarking that the _Novels_, never having
 been officially collected, much less incorporated with the _Codex_, mar
 the symmetry of the structure, Justinian's work may appear to entitle
-him and Tribonian to much less credit than they have usually received
+him and Tribonian to much less [[Credit|credit]] than they have usually received
 for it. But let it be observed, first, that to reduce the huge and
 confused mass of pre-existing law into the compass of these two
 collections was an immense practical benefit to the empire; secondly,
@@ -345,7 +345,7 @@ luminaries given in their own admirably lucid, philosophical and concise
 language, while in the extracts of which the _Codex_ is composed we
 find valuable historical evidence bearing on the administration and
 social condition of the later Pagan and earlier Christian empire;
-fourthly, that Justinian's age, that is to say, the intellect of the men
+fourthly, that Justinian's age, that is to say, the [[Intellect|intellect]] of the men
 whose services he commanded, was quite unequal to so vast an undertaking
 as the fusing upon scientific principles into one new organic whole of
 the entire law of the empire. With sufficient time and labour the work
@@ -386,7 +386,7 @@ doing so.
   additions in the ordinances of succeeding emperors, the chief law-book
   of the Roman world till the time of the Macedonian dynasty when,
   towards the end of the 9th century, a new system was prepared and
-  issued by those sovereigns, which we know as the _Basilica_. It is of
+  issued by those sovereigns, which we know as the _[[Basilica]]_. It is of
   course written in Greek, and consists of parts of the substance of the
   _Codex_ and the _Digest_, thrown together and often altered in
   expression, together with some matter from the _Novels_ and imperial
@@ -405,7 +405,7 @@ unwearied activity and inordinate vanity led him to undertake a great
 many costly public works, many of them, such as the erection of palaces
 and churches, unremunerative. The money needed for these, for his wars,
 and for buying off the barbarians who threatened the frontiers, had to
-be obtained by increasing the burdens of the people. They suffered, not
+be obtained by increasing the [[Burden|burdens]] of the people. They suffered, not
 only from the regular taxes, which were seldom remitted even after bad
 seasons, but also from monopolies; and Procopius goes so far as to
 allege that the emperor made a practice of further recruiting his
@@ -440,7 +440,7 @@ thoroughly upright officials; possibly they would not have been most
 serviceable in carrying out the imperial will, and especially in
 replenishing the imperial treasury. Even the great Tribonian labours
 under the reproach of corruption, while the fact that Justinian
-maintained John of Cappadocia in power long after his greed, his
+maintained John of [[Cappadocia]] in power long after his greed, his
 unscrupulousness, and the excesses of his private life had excited the
 anger of the whole empire, reflects little credit on his own principles
 of government and sense of duty to his subjects. The department of
@@ -499,12 +499,12 @@ schismatics, that a great step would have been taken towards
 reconciliation if a condemnation of these teachers, or rather of such of
 their books as were complained of, could be brought about, since then
 the Chalcedonian party would be purged from any appearance of sympathy
-with the errors of Nestorius. Not stopping to reflect that in the angry
+with the [[Error|errors]] of Nestorius. Not stopping to reflect that in the angry
 and suspicious state of men's minds he was sure to lose as much in one
 direction as he would gain in the other, Justinian entered into the
 idea, and put forth an edict exposing and denouncing the errors
 contained in the writings of Theodore generally, in the treatise of
-Theodoret against Cyril of Alexandria, and in a letter of Bishop Ibas (a
+Theodoret against [[Cyril]] of Alexandria, and in a letter of Bishop Ibas (a
 letter whose authenticity was doubted, but which passed under his name)
 to the Persian bishop Maris. This edict was circulated through the
 Christian world to be subscribed by the bishops. The four Eastern
@@ -529,13 +529,13 @@ controversy known as that of the Three Chapters (_Tria capitula_,
 condemnations contained in Justinian's original edict, one relating to
 Theodore's writings and person, the second to the incriminated treatise
 of Theodoret (whose person was not attacked), the third to the letter
-(if genuine) of Ibas (see Hefele, _Conciliengeschichte_, ii. 777).
+(if genuine) of Ibas (see [[Hefele]], _Conciliengeschichte_, ii. 777).
 
 At the very end of his long career of theological discussion, Justinian
 himself lapsed into heresy, by accepting the doctrine that the earthly
 body of Christ was incorruptible, insensible to the weaknesses of the
 flesh, a doctrine which had been advanced by Julian, bishop of
-Halicarnassus, and went by the name of Aphthartodocetism. According to
+[[Halicarnassus]], and went by the name of Aphthartodocetism. According to
 his usual practice, he issued an edict enforcing this view, and
 requiring all patriarchs, metropolitans, and bishops to subscribe to it.
 Some, who not unnaturally held that it was rank Monophysitism, refused
@@ -552,7 +552,7 @@ against both these classes. The former embraced a large part of the
 rural population in certain secluded districts, such as parts of Asia
 Minor and Peloponnesus; and we are told that the efforts directed
 against them resulted in the forcible baptism of 70,000 persons in Asia
-Minor alone. Paganism, however, survived; we find it in Laconia in the
+Minor alone. Paganism, however, survived; we find it in [[Laconia]] in the
 end of the 9th century, and in northern Syria it has lasted till our own
 times. There were also a good many crypto-pagans among the educated
 population of the capital. Procopius, for instance, if he was not
@@ -567,7 +567,7 @@ Christianity and of the speculative metaphysics of the East than of the
 old Olympian religion. Justinian, partly from religious motives, partly
 because he discountenanced all rivals to the imperial university of
 Constantinople, closed these Athenian schools (529). The professors
-sought refuge at the court of Chosroes, king of Persia, but were soon so
+sought refuge at the court of [[Chosroes]], king of Persia, but were soon so
 much disgusted by the ideas and practices of the fire-worshippers that
 they returned to the empire, Chosroes having magnanimously obtained from
 Justinian a promise that they should be suffered to pass the rest of
@@ -575,7 +575,7 @@ their days unmolested. Heresy proved more obstinate. The severities
 directed against the Montanists of Phrygia led to a furious war, in
 which most of the sectaries perished, while the doctrine was not
 extinguished. Harsh laws provoked the Samaritans to a revolt, from whose
-effects Palestine had not recovered when conquered by the Arabs in the
+effects Palestine had not recovered when conquered by the [[Arabs]] in the
 following century. The Nestorians and the Eutychian Monophysites were
 not threatened with such severe civil penalties, although their worship
 was interdicted, and their bishops were sometimes banished; but this
@@ -585,16 +585,16 @@ alienation of the bulk of the Egyptian and a large part of the Syrian
 population which dates from Justinian's persecutions.
 
 4. Justinian was engaged in three great foreign wars, two of them of his
-own seeking, the third a legacy which nearly every emperor had come into
+own seeking, the third a [[Legacy|legacy]] which nearly every emperor had come into
 for three centuries, the secular strife of Rome and Persia. The Sassanid
 kings of Persia ruled a dominion which extended from the confines of
-Syria to those of India, and from the straits of Oman to the Caucasus.
-The martial character of their population made them formidable enemies
+Syria to those of India, and from the straits of Oman to the [[Caucasus]].
+The [[Martial|martial]] character of their population made them formidable enemies
 to the Romans, whose troops were at this epoch mainly barbarians, the
 settled and civilized subjects of the empire being as a rule averse from
 war. When Justinian came to the throne, his troops were maintaining an
-unequal struggle on the Euphrates against the armies of Kavadh I.
-(q.v.). After some campaigns, in which the skill of Belisarius obtained
+unequal struggle on the [[Euphrates]] against the armies of [[Kavadh]] I.
+(q.v.). After some campaigns, in which the skill of [[Belisarius]] obtained
 considerable successes, a peace was concluded in 533 with Chosroes I.
 (q.v.). This lasted till 539, when Chosroes declared war, alleging that
 Justinian had been secretly intriguing against him with the Hephthalite
@@ -606,7 +606,7 @@ then the greatest city in Asia, carrying off its inhabitants into
 captivity. The war continued with varying fortunes for four years more
 in this quarter; while in the meantime an even fiercer struggle had
 begun in the mountainous region inhabited by the Lazi at the
-south-eastern corner of the Black Sea (see COLCHIS). When after
+south-eastern corner of the [[Black Sea]] (see COLCHIS). When after
 two-and-twenty years of fighting no substantial advantage had been
 gained by either party, Chosroes agreed in 562 to a peace which left
 Lazica to the Romans, but under the dishonourable condition of their
@@ -621,23 +621,23 @@ These enterprises had begun in 533 with an attack on the Vandals, who
 were then reigning in Africa. Belisarius, despatched from Constantinople
 with a large fleet and army, landed without opposition, and destroyed
 the barbarian power in two engagements. North Africa from beyond the
-straits of Gibraltar to the Syrtes became again a Roman province,
+straits of [[Gibraltar]] to the Syrtes became again a Roman province,
 although the Moorish tribes of the interior maintained a species of
 independence; and part of southern Spain was also recovered for the
 empire. The ease with which so important a conquest had been effected
 encouraged Justinian to attack the Ostrogoths of Italy, whose kingdom,
-though vast in extent, for it included part of south-eastern Gaul,
-Raetia, Dalmatia and part of Pannonia, as well as Italy, Sicily,
-Sardinia and Corsica, had been grievously weakened by the death first of
-the great Theodoric, and some years later of his grandson Athalaric, so
-that the Gothic nation was practically without a head. Justinian began
+though vast in extent, for it included part of south-eastern [[Gaul]],
+Raetia, [[Dalmatia]] and part of Pannonia, as well as Italy, Sicily,
+Sardinia and [[Corsica]], had been grievously weakened by the death first of
+the great Theodoric, and some years later of his grandson [[Athalaric]], so
+that the [[Gothic]] nation was practically without a head. Justinian began
 the war in 535, taking as his pretext the murder of Queen Amalasuntha,
 daughter of Theodoric, who had placed herself under his protection, and
 alleging that the Ostrogothic kingdom had always owned a species of
 allegiance to the emperor at Constantinople. There was some foundation
 for this claim, although of course it could not have been made effective
 against Theodoric, who was more powerful than his supposed suzerain.
-Belisarius, who had been made commander of the Italian expedition,
+Belisarius, who had been made [[Commander|commander]] of the Italian expedition,
 overran Sicily, reduced southern Italy, and in 536 occupied Rome. Here
 he was attacked in the following year by Vitiges, who had been chosen
 king by the Goths, with a greatly superior force. After a siege of over
@@ -646,7 +646,7 @@ which was preying on the Gothic troops, obliged Vitiges to retire.
 Belisarius pursued his diminished army northwards, shut him up in
 Ravenna, and ultimately received the surrender of that impregnable city.
 Vitiges was sent prisoner to Constantinople, where Justinian treated
-him, as he had previously treated the captive Vandal king, with
+him, as he had previously treated the [[Captive|captive]] Vandal king, with
 clemency. The imperial administration was established through Italy, but
 its rapacity soon began to excite discontent, and the kernel of the
 Gothic nation had not submitted. After two short and unfortunate reigns,
@@ -659,7 +659,7 @@ gates to Totila, till only Ravenna, Otranto and Ancona remained.
 Justinian was occupied by the ecclesiastical controversy of the Three
 Chapters, and had not the money to fit out a proper army and fleet;
 indeed, it may be doubted whether he would ever have roused himself to
-the necessary exertions but for the presence at Constantinople of a knot
+the necessary exertions but for the presence at Constantinople of a [[Knot|knot]]
 of Roman exiles, who kept urging him to reconquer Italy, representing
 that with their help and the sympathy of the people it would not be a
 difficult enterprise. The emperor at last complied, and in 552 a
@@ -667,9 +667,9 @@ powerful army was despatched under Narses, an Armenian eunuch now
 advanced in life, but reputed the most skilful general of the age, as
 Belisarius was the hottest soldier. He marched along the coast of the
 Gulf of Venice, and encountered the army of Totila at Taginae not far
-from Cesena. Totila was slain, and the Gothic cause irretrievably lost.
+from [[Cesena]]. Totila was slain, and the Gothic cause irretrievably lost.
 The valiant remains of the nation made another stand under Teias on the
-Lactarian Hill in Campania; after that they disappear from history.
+Lactarian Hill in [[Campania]]; after that they disappear from history.
 Italy was recovered for the empire, but it was an Italy terribly
 impoverished and depopulated, whose possession carried little strength
 with it. Justinian's policy both in the Vandalic and in the Gothic War
@@ -691,10 +691,10 @@ frontier, where the various Slavonic and Hunnish tribes who were
 established along the lower Danube and on the north coast of the Black
 Sea made frequent marauding expeditions into Thrace and Macedonia,
 sometimes penetrating as far as the walls of Constantinople in one
-direction and the Isthmus of Corinth in another. Immense damage was
+direction and the Isthmus of [[Corinth]] in another. Immense damage was
 inflicted by these marauders on the subjects of the empire, who seem to
 have been mostly too peaceable to defend themselves, and whom the
-emperor could not spare troops enough to protect. Fields were laid
+emperor could not spare troops enough to protect. [[Fields]] were laid
 waste, villages burnt, large numbers of people carried into captivity;
 and on one occasion the capital was itself in danger.
 
@@ -702,10 +702,10 @@ and on one occasion the capital was itself in danger.
 character and capacities, with regard to which a great diversity of
 opinion has existed among historians. The civilians, looking on him as a
 patriarch of their science, have as a rule extolled his wisdom and
-virtues; while ecclesiastics of the Roman Church, from Cardinal Baronius
+virtues; while ecclesiastics of the Roman Church, from Cardinal [[Baronius]]
 downwards, have been offended by his arbitrary conduct towards the
-popes, and by his last lapse into heresy, and have therefore been
-disposed to accept the stories which ascribe to him perfidy, cruelty,
+popes, and by his last [[Lapse|lapse]] into heresy, and have therefore been
+disposed to accept the stories which ascribe to him perfidy, [[Cruelty|cruelty]],
 rapacity and extravagance. The difficulty of arriving at a fair
 conclusion is increased by the fact that Procopius, who is our chief
 authority for the events of his reign, speaks with a very different
@@ -746,7 +746,7 @@ a pleasant address; nor does he seem to have been, like his wife, either
 cruel or revengeful. We hear several times of his sparing those who had
 conspired against him. But he was not scrupulous in the means he
 employed, and he was willing to maintain in power detestable ministers
-if only they served him efficiently and filled his coffers. His chief
+if only they served him efficiently and filled his [[Coffer|coffers]]. His chief
 passion, after that for his own fame and glory, seems to have been for
 theology and religion; it was in this field that his literary powers
 exerted themselves (for he wrote controversial treatises and hymns), and
@@ -758,8 +758,8 @@ knowledge, or the share which he took in those reforms. In person he was
 somewhat above the middle height, well-shaped, with plenty of fresh
 colour in his cheeks, and an extraordinary power of doing without food
 and sleep. He spent most of the night in reading or writing, and would
-sometimes go for a day with no food but a few green herbs. Two mosaic
-figures of him exist at Ravenna, one in the apse of the church of S.
+sometimes go for a day with no food but a few green [[Herb|herbs]]. Two mosaic
+figures of him exist at Ravenna, one in the [[Apse|apse]] of the church of S.
 Vitale, the other in the church of S. Apollinare in Urbe; but of course
 one cannot be sure how far in such a material the portrait fairly
 represents the original. He had no children by his marriage with
@@ -773,7 +773,7 @@ II.
   of value. Occasional reference must be made to the writings of
   Jordanes and Marcellinus, and even to the late compilations of
   Cedrenus and Zonaras. The _Vita Justiniani_ of Ludewig or Ludwig
-  (Halle, 1731), a work of patient research, is frequently referred to
+  ([[Halle]], 1731), a work of patient research, is frequently referred to
   by Gibbon in his important chapters relating to the reign of
   Justinian, in the _Decline and Fall_ (see Bury's edition, 1900). There
   is a _Vie de Justinien_ by Isambert (2 vols., Paris, 1856). See also
@@ -796,7 +796,7 @@ FOOTNOTES:
     the constitution _Haec quae_, prefixed to the revised _Codex_ in the
     _Corpus juris civilis_.
 
-  [4] See the constitution _Deo auctore_ (_Cod._ i. 17, 1).
+  [4] See the constitution _Deo auctore_ (_[[Cod]]._ i. 17, 1).
 
   [5] In the middle ages people used to cite passages by the initial
     words; and the Germans do so still, giving, however, the number of

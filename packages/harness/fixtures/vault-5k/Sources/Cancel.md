@@ -1,7 +1,7 @@
 # Cancel
 
-CANCEL (from the Lat. _cancelli_, a plural diminutive of _cancer_, a
-grating or lattice, from which are also derived "chancel" and
+CANCEL (from the Lat. _cancelli_, a plural diminutive of _[[Cancer|cancer]]_, a
+grating or lattice, from which are also derived "[[Chancel|chancel]]" and
 "chancellor"), a word meaning to cross out, from the crossed latticed
 lines drawn across a legal document to annul it, hence to delete or
 destroy.

@@ -3,7 +3,7 @@
 ARGUMENT, a word meaning "proof," "evidence," corresponding in English
 to the Latin word _argumentum_, from which it is derived; the
 originating Latin verb _arguere_, to make clear, from which comes the
-English "argue," is from a root meaning bright, appearing in Greek
+English "argue," is from a root meaning [[Bright|bright]], appearing in Greek
 [Greek: argaes], white. From its primary sense are derived such
 applications of the word as a chain of reasoning, a fact or reason given
 to support a proposition, a discussion of the evidence or reasons for or
@@ -16,9 +16,9 @@ special meanings; in mathematical tables the "argument" is the quantity
 upon which the other quantities in the table are made to depend; in the
 theory of complex variables, e.g. such as a + ib where i = [root](-1),
 the "argument" (or "amplitude") is the angle [theta] given by tan
-[theta] = b/a. In astronomy, the term is used in connexion with the
+[theta] = b/a. In [[Astronomy|astronomy]], the term is used in connexion with the
 Ptolemaic theory to denote the angular distance on the epicycle of a
-planet from the true apogee of the epicycle; and the "equation to the
+planet from the true apogee of the epicycle; and the "[[Equation|equation]] to the
 argument" is the angle subtended at the earth by the distance of a
 planet from the centre of the epicycle.
 

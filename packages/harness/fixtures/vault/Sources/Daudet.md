@@ -4,10 +4,10 @@ DAUDET, ALPHONSE (1840-1897), French novelist, was born at Nimes on the
 13th of May 1840. His family, on both sides, belonged to the
 _bourgeoisie_. The father, Vincent Daudet, was a silk manufacturer--a
 man dogged through life by misfortune and failure. The lad, amid much
-truancy, had but a depressing boyhood. In 1856 he left Lyons, where his
+truancy, had but a depressing boyhood. In 1856 he left [[Lyons]], where his
 schooldays had been mainly spent, and began life as an usher at Alais,
-in the south. The position proved to be intolerable. As Dickens declared
-that all through his prosperous career he was haunted in dreams by the
+in the south. The position proved to be intolerable. As [[Dickens]] declared
+that all through his prosperous career he was haunted in [[Dream|dreams]] by the
 miseries of his apprenticeship to the blacking business, so Daudet says
 that for months after leaving Alais he would wake with horror thinking
 he was still among his unruly pupils. On the 1st of November 1857 he
@@ -25,9 +25,9 @@ Morny's death in 1865,--and showed him no small kindness. He had put his
 foot on the road to fortune.
 
 In 1866 appeared _Lettres de mon moulin_, which won the attention of
-many readers. The first of his longer books, _Le petit chose_ (1868),
+many readers. The first of his longer books, _Le petit [[Chose|chose]]_ (1868),
 did not, however, produce any very popular sensation. It is, in its main
-feature, the story of his own earlier years told with much grace and
+feature, the story of his own earlier years told with much [[Grace|grace]] and
 pathos. The year 1872 produced the famous _Aventures prodigieuses de
 Tartarin de Tarascon_, and the three-act piece _L'Arlesienne_. But
 _Fromont jeune et Risler aine_ (1874) at once took the world by storm.
@@ -37,7 +37,7 @@ laughter and tears, a writer not only sensible to pathos and sorrow, but
 also to moral beauty. He could create too. His characters were real and
 also typical; the _rates_, the men who in life's battle had flashed in
 the pan, were touched with a master hand. The book was alive. It gave
-the illusion of a real world. _Jack_, the story of an illegitimate
+the illusion of a real world. _[[Jack]]_, the story of an illegitimate
 child, a martyr to his mother's selfishness, which followed in 1876,
 served only to deepen the same impression. Henceforward his career was
 that of a very successful man of letters,--publishing novel on novel,
@@ -45,7 +45,7 @@ _Le Nabab_ (1877), _Les Rois en exil_ (1879), _Numa Roumestan_ (1881),
 _Sapho_ (1884), _L'Immortel_ (1888),--and writing for the stage at
 frequent intervals,--giving to the world his reminiscences in _Trente
 ans de Paris_ (1887), and _Souvenirs d'un homme de lettres_ (1888).
-These, with the three _Tartarins_,--Tartarin the mighty hunter, Tartarin
+These, with the three _Tartarins_,--Tartarin the mighty [[Hunter|hunter]], Tartarin
 the mountaineer, Tartarin the colonist,--and the admirable short
 stories, written for the most part before he had acquired fame and
 fortune, constitute his life work.
@@ -56,9 +56,9 @@ and manner were quite unsought. What, however, was purely his own was
 his style. It is a style that may rightly be called "_impressionist_,"
 full of light and colour, not descriptive after the old fashion, but
 flashing its intended effect by a masterly juxtaposition of words that
-are like pigments. Nor does it convey, like the style of the Goncourts,
+are like pigments. Nor does it convey, like the style of the [[Goncourt|Goncourts]],
 for example, a constant feeling of effort. It is full of felicity and
-charm,--_un charmeur_ Zola has called him. An intimate friend of Edmond
+[[Charm|charm]],--_un charmeur_ Zola has called him. An intimate friend of Edmond
 de Goncourt (who died in his house), of Flaubert, of Zola, Daudet
 belonged essentially to the naturalist school of fiction. His own
 experiences, his surroundings, the men with whom he had been brought
@@ -75,7 +75,7 @@ singularly happy. There was perfect intellectual harmony, and Madame
 Daudet herself possessed much of his literary gift; she is known by her
 _Impressions de nature et d'art_ (1879), _L'Enfance d'une Parisienne_
 (1883), and by some literary studies written under the pseudonym of Karl
-Steen. In his later years Daudet suffered from insomnia, failure of
+Steen. In his later years Daudet suffered from [[Insomnia|insomnia]], failure of
 health and consequent use of chloral. He died in Paris on the 17th of
 December 1897.
 
@@ -87,7 +87,7 @@ December 1897.
   _Alphonse Daudet_ (1898), and biographical and critical essays by R.
   H. Sherard (1894); by A. Gerstmann (1883); by B. Diederich (1900); by
   A. Hermant (1903), and a bibliography by J. Brivois (1895); also _The
-  Works of Alphonse Daudet_, translated by L. Ensor, H. Frith, E. Bartow
+  Works of Alphonse Daudet_, translated by L. Ensor, H. [[Frith]], E. Bartow
   (1902, etc.). Criticism of Daudet is also to be found in F.
   Brunetiere, _Le Roman naturaliste_ (new ed., 1897); J. Lemaitre, _Les
   Contemporains_ (vols. ii. and iv.); G. Pellissier, _Le Mouvement

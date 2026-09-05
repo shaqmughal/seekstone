@@ -10,19 +10,19 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Beverley"
 
 BEVERLEY, a market town and municipal borough in the Holderness
 parliamentary division of the East Riding of Yorkshire, England, 8 m.
-N.N.W. of Hull by a branch of the North-Eastern railway. Pop. (1901)
+N.N.W. of [[Hull]] by a branch of the North-Eastern railway. Pop. (1901)
 13,183. It lies in a level country east of the line of slight elevations
 known as the Wolds, near the river Hull, and has communication by canal
 with Hull. The church of St John the Evangelist, commonly called
 Beverley Minster, is a magnificent building, exceeding in size and
 splendour some of the English cathedrals. A monastery was founded here
 by John of Beverley (c. 640-721), a native of the East Riding, who was
-bishop successively of Hexham and of York, and was canonized in 1037. A
+bishop successively of [[Hexham]] and of York, and was canonized in 1037. A
 college of secular canons followed in the 10th century, the provostship
 of which subsequently became an office of high dignity, and was held by
-Thomas Becket, afterwards archbishop of Canterbury. Of the existing
+Thomas [[Becket]], afterwards archbishop of Canterbury. Of the existing
 building, the easternmost bay of the nave, the transepts with east and
-west aisles, the choir with aisles and short transepts, and the Lady
+west aisles, the [[Choir|choir]] with aisles and short transepts, and the Lady
 chapel, are Early English, a superb example of the finest development of
 that style. The remainder of the nave is Decorated, excepting the
 westernmost bay which is Perpendicular, as is the ornate west front with
@@ -39,7 +39,7 @@ walled, and one gate of the 15th century remains; there are also some
 picturesque old houses. The industries are tanning, iron-founding,
 brewing and the manufacture of chemicals; and there is a large
 agricultural trade. Beverley is the seat of a suffragan bishop in the
-diocese of York. The municipal borough is under a mayor, 6 aldermen and
+diocese of York. The municipal borough is under a [[Mayor|mayor]], 6 aldermen and
 18 councillors, and has an area of 2404 acres, including a large extent
 of common pasture land.
 

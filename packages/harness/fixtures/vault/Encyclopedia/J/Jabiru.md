@@ -13,7 +13,7 @@ storks, _Ciconiidae_, which occurs from Mexico southwards to the
 territory of the Argentine Republic. It stands between 4 and 5 ft. in
 height, and is conspicuous for its massive bill, slightly upturned, and
 its entirely white plumage; but the head and neck are bare and black,
-except for about the lower third part of the latter, which is bright red
+except for about the lower third part of the latter, which is [[Bright|bright]] red
 in the living bird. Very nearly allied to _Mycteria_, and also commonly
 called jabirus, are the birds of the genera _Xenorhynchus_ and
 _Ephippiorhynchus_--the former containing one or (in the opinion of some)
@@ -21,7 +21,7 @@ two species, _X. australis_ and _X. indicus_, and the latter one only,
 _E. senegalensis_. These belong to the countries indicated by their
 names, and differ chiefly by their feathered head and neck, while the
 last is sometimes termed the saddle-billed stork from the very singular
-shape of its beak. Somewhat more distantly related are the gigantic birds
+shape of its [[Beak|beak]]. Somewhat more distantly related are the gigantic birds
 known to Europeans in India and elsewhere as adjutant birds, belonging to
 the genus _Leptoptilus_, distinguished by their sad-coloured plumage,
 their black scabrous head, and their enormous tawny pouch, which depends
@@ -34,11 +34,11 @@ discovery of offal, though frogs and fishes also form part of its diet.
 It familiarly enters the large towns, in many of which an account of its
 services it is strictly protected from injury, and, having satisfied its
 appetite, seeks the repose it has earned, sitting with its feet extended
-in front in a most grotesque attitude. A second and smaller species, _L.
+in front in a most [[Grotesque|grotesque]] attitude. A second and smaller species, _L.
 javanicus_, has a more southern and eastern range; while a third, _L.
 crumenifer_, of African origin, and often known as the marabou-stork,
-gives its name to the beautifully soft feathers so called, which are the
-under-tail-coverts; the "marabout" feathers of the plume-trade are mostly
+gives its name to the beautifully soft [[Feather|feathers]] so called, which are the
+under-tail-coverts; the "[[Marabout|marabout]]" feathers of the plume-trade are mostly
 supplied by other birds, the term being apparently applied to any downy
 feathers.     (A. N.)
 

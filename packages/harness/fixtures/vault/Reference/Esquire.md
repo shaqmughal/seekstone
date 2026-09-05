@@ -10,27 +10,27 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Esquire"
 
 ESQUIRE (O. Fr. _escuyer_, Mod. Fr. _ecuyer_, derived through the form
 _escudier_ from Med. Lat. _scutarius_, "shield-bearer"), originally the
-attendant on a knight, whose helm, shield and lance he carried at the
+attendant on a [[Knight|knight]], whose helm, shield and [[Lance|lance]] he carried at the
 tournament or in the field of battle. The esquire ranked immediately
 below the knight bachelor, and his office was regarded as the apprentice
 stage of knighthood. The title was regarded as one of function, not of
 birth, and was not hereditary. In time, however, its original
 significance was lost sight of, and it came to be a title of honour,
-implying a rank between that of knight and valet or gentleman, as it
+implying a rank between that of knight and valet or [[Gentleman|gentleman]], as it
 technically still remains. Thus in the later middle ages esquire
-(_armiger_) was the customary description of holders of knight's fees
+(_armiger_) was the customary description of holders of knight's [[Fee|fees]]
 who had not taken up their knighthood, whence the surviving custom of
 entitling the principal landowner in a parish "the squire" (see SQUIRE).
 Camden, at the close of the 16th century, distinguished four classes
 entitled to bear the style: (1) The eldest sons of knights, and their
 eldest sons, in perpetual succession; (2) the eldest sons of the younger
 sons of peers, and their eldest sons, in like perpetual succession; (3)
-esquires created by royal letters patent or other investiture, and their
+esquires created by royal letters patent or other [[Investiture|investiture]], and their
 eldest sons; (4) esquires by office, e.g. justices of the peace and
 others who bear any office of trust under the crown. To these the
 writer in the 3rd edition of the _Encyclopaedia Britannica_ (1797) added
 Irish peers and the eldest sons of British peers, who, though they bear
-courtesy titles, have in law only the right to be styled esquires.
+[[Courtesy|courtesy]] titles, have in law only the right to be styled esquires.
 Officers of the king's courts, and of the royal household, counsellors
 at law and justices of the peace he described as esquires only "by
 reputation"; and justices of the peace have the title only as long as
@@ -66,13 +66,13 @@ younger sons, and their eldest sons for ever. (2) Noblemen of all other
 nations. (3) The eldest sons of baronets and knights. (4) Persons
 bearing arms and the title of esquire by letters patent. (5) Esquires of
 the Bath and their eldest sons. (6) Barristers-at-law. (7) Justices of
-the peace and mayors while in commission or office. (8) The holders of
+the peace and [[Mayor|mayors]] while in commission or office. (8) The holders of
 any superior office under the crown. (9) Persons styled esquires by the
 sovereign in their patents, commissions or appointments.[1] (10)
 Attorneys in colonies where the functions of counsel and attorney are
 united (in England solicitors are "gentlemen," not "esquires").
 
-In practice, however, the title of esquire, now to all intents and
+In practice, however, the title of esquire, now to all [[Intent|intents]] and
 purposes meaningless, is given to any one who "can bear the port, charge
 and countenance of a gentleman." The word has followed the same course
 as that of "gentleman" (q.v.), and for very similar reasons. It is still

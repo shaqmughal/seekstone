@@ -2,9 +2,9 @@
 
 CREMA, a town and episcopal see of Lombardy, Italy, in the province of
 Cremona, 26 m. N.E. by rail from the town of Cremona. Pop. (1901) town,
-8027; commune, 9609. It is situated on the right bank of the Serio, 240
+8027; [[Commune|commune]], 9609. It is situated on the right bank of the Serio, 240
 ft. above sea-level, in the centre of a rich agricultural district. The
-cathedral has a fine Lombard Gothic facade of the second half of the
+cathedral has a fine Lombard [[Gothic]] facade of the second half of the
 14th century; the campanile belongs to the same period; the rest of the
 church has been restored in the baroque style. The clock tower opposite
 dates from the period of Venetian dominion in the 16th and 17th

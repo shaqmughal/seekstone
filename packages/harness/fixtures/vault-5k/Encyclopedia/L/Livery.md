@@ -11,12 +11,12 @@ clothing the word is applied to a uniform worn by the retainers and
 servants of a household. In the 15th century in England a badge, collar
 or other insignia, the "livery," was worn by all those who pledged
 themselves to support one of the great barons in return for his promise
-of "maintenance," i.e. of protection against enemies; thus arose the
+of "[[Maintenance|maintenance]]," i.e. of protection against enemies; thus arose the
 custom of "livery and maintenance," suppressed by Henry VII. The members
 of the London city companies wore a distinctive costume or "livery,"
-whence the term "livery companies." In law, the term "livery" means
+whence the term "[[Livery Companies|livery companies]]." In law, the term "livery" means
 "delivery," the legal handing of property into the possession of
-another; for "livery of seisin" see FEOFFMENT.
+another; for "livery of seisin" see [[Feoffment|FEOFFMENT]].
 
 ## See also
 

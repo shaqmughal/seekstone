@@ -12,8 +12,8 @@ m. from the sea was well placed for Levantine trade. Hence Argos was
 perhaps the earliest town of importance in Greece; the legends indicate
 its high antiquity and its early intercourse with foreign countries
 (Egypt, Lycia, &c.). Though eclipsed in the Homeric age, when it appears
-as the seat of Diomedes, by the later foundation of Mycenae, it regained
-its predominance after the invasion of the Dorians (q.v.), who seem to
+as the seat of [[Diomedes]], by the later foundation of Mycenae, it regained
+its predominance after the invasion of the [[Dorians]] (q.v.), who seem to
 have occupied this site in considerable force. In accordance with the
 tradition which assigned the portion to the eldest-born of the Heracleid
 conquerors, Argos was for some centuries the leading power in
@@ -29,17 +29,17 @@ into three Dorian tribes (and one containing other elements), with a
 class of Perioeci (neighbouring dependents) and of serfs, the Argives
 had no more constant foe than their Lacedaemonian kinsmen. In a
 protracted struggle for the possession of the eastern seaboard of
-Laconia in spite of the victory at Hysiae (apparently in 669), they were
+[[Laconia]] in spite of the victory at Hysiae (apparently in 669), they were
 gradually driven back, until by 550 they had lost the whole coast strip
 of Cynuria. A later attempt to retrieve this loss resulted in a crushing
-defeat near Tiryns at the hands of King Cleomenes I. (probably in 495),
+defeat near Tiryns at the hands of King [[Cleomenes]] I. (probably in 495),
 which so weakened the Argives that they had to open the franchise to
 their Perioeci. By this time they had also lost control over the other
 cities of Argolis, which they never succeeded in recovering. Partly in
-consequence of its defeat, partly out of jealousy against Sparta, Argos
+consequence of its defeat, partly out of [[Jealousy|jealousy]] against Sparta, Argos
 took no part in the war against Xerxes. Indeed on this, as on later
 occasions, its relations with Persia seem to have been friendly. About
-470 the conflict with Sparta was renewed in concert with the Arcadians,
+470 the conflict with Sparta was renewed in [[Concert|concert]] with the Arcadians,
 but all that the Argives could achieve was to destroy their revolted
 dependencies of Mycenae and Tiryns (468 or 464). In 461 they contracted
 an alliance with Athens, thus renewing a connexion established by
@@ -53,20 +53,20 @@ democratic institutions.
 During the early Peloponnesian War Argos remained neutral; after the
 break-up of the Spartan confederacy consequent upon the peace of Nicias
 the alliance of this state, with its unimpaired resources and
-flourishing commerce, was courted on all sides. By throwing in her lot
+flourishing commerce, was courted on all sides. By throwing in her [[Lot|lot]]
 with the Peloponnesian democracies and Athens, Argos seriously
 endangered Sparta's supremacy, but the defeat of Mantineia (418) and a
 successful rising of the Argive oligarchs spoilt this chance. The
 speedily restored democracy put little heart into the conflict, and
-beyond sending mercenary detachments, lent Athens no further help in the
+beyond sending mercenary detachments, [[Lent|lent]] Athens no further help in the
 war (see PELOPONNESIAN WAR).
 
 At the outset of the 4th century, Argos, with a population and resources
 equalling those of Athens, took a prominent part in the Corinthian
-League against Sparta. In 394 the Argives helped to garrison Corinth,
+League against Sparta. In 394 the Argives helped to [[Garrison|garrison]] [[Corinth]],
 and the latter state seems for a while to have been annexed by them. But
 the peace of Antalcidas (q.v.) dissolved this connexion, and barred
-Argive pretensions to control all Argolis. After the battle of Leuctra
+Argive pretensions to control all Argolis. After the battle of [[Leuctra]]
 Argos experienced a political crisis; the oligarchs attempted a
 revolution, but were put down by their opponents with such
 vindictiveness that 1200 of them are said to have been executed (370).
@@ -76,11 +76,11 @@ Mantineia (362). When pressed in turn by their old foes the Argives were
 among the first to call in Philip of Macedon, who reinstated them in
 Cynuria after becoming master of Greece. In the Lamian War Argos was
 induced to side with the patriots against Macedonia; after its capture
-by Cassander from Polyperchon (317) it fell in 303 into the hands of
-Demetrius Poliorcetes. In 272 the Argives joined Sparta in resisting the
+by [[Cassander]] from Polyperchon (317) it fell in 303 into the hands of
+[[Demetrius]] Poliorcetes. In 272 the Argives joined Sparta in resisting the
 ambition of King Pyrrhus of Epirus, whose death ensued in an
 unsuccessful night attack upon the city. They passed instead into the
-power of Antigonus Gonatas of Macedonia, who maintained his control by
+power of [[Antigonus Gonatas]] of Macedonia, who maintained his control by
 means of tyrants. After several unavailing attempts Aratus (q.v.)
 contrived to win Argos for the Achaean League (229), in which it
 remained save during a brief occupation by the Spartans Cleomenes III.
@@ -91,27 +91,27 @@ removing the trade competition of Corinth. Under the Empire, Argos was
 the headquarters of the Achaean synod, and continued to be a resort of
 Roman merchants. Though plundered by the Goths in A.D. 267 and 395 it
 retained some of its commerce and culture in Byzantine days. The town
-was captured by the Franks in 1210; after 1246 it was held in fief by
+was captured by the [[Franks]] in 1210; after 1246 it was held in fief by
 the rulers of Athens. In later centuries it became the scene of frequent
 conflicts between the Venetians and the Turks, and on two occasions
 (1397 and 1500) its population was massacred by the latter. Repeopled
 with Albanian settlers, Argos was chosen as seat of the Greek national
 assembly in the wars of independence. Its citadel was courageously
 defended by the patriots (1822); in 1825 the city was burnt to the
-ground by Ibrahim Pasha. The present town of 10,000 inhabitants is a
+ground by [[Ibrahim Pasha]]. The present town of 10,000 inhabitants is a
 purely agricultural settlement. The Argive plain, though not yet
-sufficiently reclaimed, yields good crops of corn, rice and tobacco.
+sufficiently reclaimed, yields good crops of [[Corn|corn]], rice and tobacco.
 
 In the early days of Greece the Argives enjoyed high repute for their
 musical talent. Their school of bronze sculpture, whose first famous
 exponent was Ageladas (Hagelaidas), the reputed master of Pheidias,
-reached its climax towards the end of the 5th century in the atelier of
+reached its [[Climax|climax]] towards the end of the 5th century in the atelier of
 Polyclitus (q.v.) and his pupils. To this period also belongs the new
 Heraeum (see below), one of the most splendid temples of Greece.
 
 Remains of the early city are still visible on the Larissa acropolis,
 which towers 900 ft. high to the north-west of the town. A few courses
-of the ancient ramparts appear under the double enceinte of the
+of the ancient ramparts appear under the double [[Enceinte|enceinte]] of the
 surviving medieval fortress. An aqueduct of Greek times is represented
 by some fragments on the south-western edge. In the slope above the town
 was hewn a theatre equalling that of Athens in size. The Aspis or
@@ -120,9 +120,9 @@ Mycenaean settlement; the Deiras or ridge connecting the two heights
 contains a prehistoric cemetery.
 
   AUTHORITIES.--Herodotus, Thucydides, Xenophon; Plutarch, _Pyrrhus_,
-  30-34; Strabo pp. 373-374; Pausanias ii. 15-24; W.M. Leake, _Travels
-  in the Morea_ (London, 1835), ii. chs. 19-22; E. Curtius,
-  _Peloponnesos_ (Gotha, 1851), ii. 350-364; H.F. Tozer, _Geography of
+  30-34; Strabo pp. 373-374; Pausanias ii. 15-24; W.M. [[Leake]], _Travels
+  in the Morea_ (London, 1835), ii. chs. 19-22; E. [[Curtius]],
+  _Peloponnesos_ ([[Gotha]], 1851), ii. 350-364; H.F. Tozer, _[[Geography]] of
   Greece_ (London, 1873), pp. 292-294; J.K. Kophiniotis, [Greek:
   Historia ton Argous] (Athens, 1892-1893); W. Vollgraff in _Bulletin de
   Correspondance Hellenique_ (1904, pp. 364-399; 1906, pp. 1-45; 1907,
@@ -130,8 +130,8 @@ contains a prehistoric cemetery.
 
 _The Argive Heraeum._--Since 1892 investigation has added considerably
 to our knowledge concerning the Argive Heraeum or Heraion, the temple of
-Hera, which stood, according to Pausanias, "on one of the lower slopes
-of Euboea." The term Euboea did not designate the eminence upon which
+[[Hera]], which stood, according to Pausanias, "on one of the lower slopes
+of [[Euboea]]." The term Euboea did not designate the [[Eminence|eminence]] upon which
 the Heraeum is placed, or the mountain-top behind the Heraeum only, but,
 as Pausanias distinctly indicates, the group of foothills of the hilly
 district adjoining the mountain. When once we admit that this designated
@@ -146,7 +146,7 @@ little more than 3 m., while the distance from Argos is 45 stadia, or a
 little more than 5 m. The distance from the Heraeum to the ancient Midea
 is slightly greater than to Mycenae, while that from the Heraeum to
 Tiryns is about 6 m. The Argive Heraeum was the most important centre of
-Hera and Juno worship in the ancient world; it always remained the chief
+Hera and [[Juno]] worship in the ancient world; it always remained the chief
 sanctuary of the Argive district, and was in all probability the
 earliest site of civilized life in the country inhabited by the Argive
 people. In fact, whereas the site of Hissarlik, the ancient Troy, is not
@@ -176,7 +176,7 @@ Troy. In the period of Dorian supremacy, in spite of the new cults which
 were introduced by these people, the Heraeum maintained its supreme
 importance: it was here that the tablets recording the succession of
 priestesses were kept which served as a chronological standard for the
-Argive people, and even far beyond their borders; and it was here that
+Argive people, and even far beyond their [[Borders|borders]]; and it was here that
 Pheidon deposited the [Greek: obeliskoi] when he introduced coinage into
 Greece.
 
@@ -187,7 +187,7 @@ political centre of the district, while the Heraeum remains the
 religious centre. And when in the year 423 B.C., through the negligence
 of the priestess Chryseis, the old temple was burnt down, the Argives
 erected a splendid new temple, built by Eupolemos, in which was placed
-the great gold and ivory statue of Hera, by the sculptor Polyclitus, the
+the great gold and [[Ivory|ivory]] statue of Hera, by the sculptor Polyclitus, the
 contemporary and rival of Pheidias, which was one of the most perfect
 works of sculpture in antiquity. Pausanias describes the temple and its
 contents (ii. 17), and in his time he still saw the ruins of the older
@@ -225,7 +225,7 @@ layer of ashes and charred wood, below which were found numerous objects
 of earliest date, together with some remains of the walls resting on a
 polygonal platform--all forming part of the earliest temple. Immediately
 adjoining the Cyclopean wall and below it were found traces of small
-houses of the rudest, earliest masonry which are pre-Mycenaean, if not
+houses of the rudest, earliest [[Masonry|masonry]] which are pre-Mycenaean, if not
 pre-Cyclopean.
 
 We then descend to the second terrace, in the centre of which the
@@ -234,7 +234,7 @@ much of the walls, as well as the several architectural members forming
 the superstructure, that it has been possible for E.L. Tilton to design
 a complete restoration of the temple. On the northern side of this
 terrace, between the second temple and the Cyclopean supporting wall, a
-long stoa or colonnade runs from east to west abutting at the west end
+long stoa or [[Colonnade|colonnade]] runs from east to west abutting at the west end
 in structures which evidently contained a well-house and waterworks;
 while at the eastern end of this stoa a number of chambers were erected
 against the hill, in front of which were placed statues and
@@ -292,7 +292,7 @@ Bearing out the evidence of tradition as well as architecture, the
 numerous finds of individual objects in terra-cotta figurines, vases,
 bronzes, engraved stones, &c., point to organized civilized life on this
 site many generations before Mycenae was built, _a fortiori_ before the
-life as depicted by Homer flourished--nay, before, as tradition has it,
+life as depicted by [[Homer]] flourished--nay, before, as tradition has it,
 under Proetus the walls of Tiryns were erected. We are aided in forming
 some estimate of the chronological sequence preceding the Mycenaean age,
 as suggested by the finds of the Heraeum, in the new distribution which
@@ -312,7 +312,7 @@ art of the 5th century B.C. under the great sculptor Polyclitus. Though
 the excavations in the second temple have clearly revealed the outlines
 of the base upon which the great gold and ivory statue of Hera stood, it
 is needless to say that no trace of the statue itself has been found.
-From Pausanias we learn that "the image of Hera is seated and is of
+From Pausanias we learn that "the [[Image|image]] of Hera is seated and is of
 colossal size: it is made of gold and ivory, and is the work of
 Polyclitus." Based on the computations made by the architect of the
 American excavations, E.L. Tilton, on the ground of the height of the
@@ -322,20 +322,20 @@ herself about 18 ft. It is probable that the face, neck, arms and feet
 were of ivory, while the rest of the figure was draped in gold. Like the
 Olympian Zeus of Pheidias, Hera was seated on an elaborately decorated
 throne, holding in her left hand the sceptre, surmounted in her case by
-the cuckoo (as that of Zeus had an eagle), and in her right, instead of
+the [[Cuckoo|cuckoo]] (as that of Zeus had an [[Eagle|eagle]]), and in her right, instead of
 an elaborate figure of Victory (such as the Athena Parthenos and the
 Olympian Zeus held), simply a pomegranate. The crown was adorned with
-figures of Graces and the Seasons. A Roman imperial coin of Antoninus
+figures of [[Graces]] and the Seasons. A Roman imperial [[Coin|coin]] of Antoninus
 Pius shows us on a reduced scale the general composition of the figure;
 while contemporary Argive coins of the 5th century give a fairly
 adequate rendering of the head. A further attempt has been made to
-identify the head in a beautiful marble bust in the British Museum
+identify the head in a beautiful [[Marble|marble]] bust in the British Museum
 hitherto known as Bacchus (Waldstein, _Journal of Hellenic Studies_,
 vol. xxi., 1901, pp. 30 seq.)
 
 We also learn from Pausanias that the temple was decorated with
 "sculptures over the columns, representing some the birth of Zeus and
-the battle of the gods and giants, others the Trojan War and the taking
+the battle of the gods and [[Giant|giants]], others the Trojan War and the taking
 of Ilium." It was formerly supposed that the phrase "over the columns"
 pointed to the existence of sculptured metopes, but no pedimental
 groups. Finds made in the excavations, however, have shown that the
@@ -347,12 +347,12 @@ pediments, have been discovered. Of the metopes also a great number of
 fragments have been found, together with two almost complete metopes,
 the one containing the torso of a nude warrior in perfect preservation,
 as well as ten well-preserved heads. These statues bear the same
-relation to the sculptor Polyclitus which the Parthenon marbles hold to
+relation to the sculptor Polyclitus which the Parthenon [[Marbles|marbles]] hold to
 Pheidias; and the excavations have thus yielded most important material
 for the illustration of the Argive art of Polyclitus in the 5th century
 B.C.
 
-  See Waldstein, _The Argive Heraeum_ (vol. i., Boston and New York,
+  See Waldstein, _The Argive Heraeum_ (vol. i., [[Boston]] and New York,
   1902; vol. ii., the Vases by J.C. Hoppin, the Bronzes by H.F. de
   Cosa, 1905); _Excavations of the American School of Athens at the
   Heraion of Argos_ (1892); and numerous reports and articles in the

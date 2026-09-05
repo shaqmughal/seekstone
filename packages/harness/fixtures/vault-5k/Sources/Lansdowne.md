@@ -15,7 +15,7 @@ Church, Oxford, in 1755, he had both "everything to learn and everything
 to unlearn." From a tutor whom he describes as "narrow-minded" he
 received advantageous guidance in his studies, but he attributes his
 improvement in manners and in knowledge of the world chiefly to the fact
-that, as was his "fate through life," he fell in "with clever but
+that, as was his "[[Fate|fate]] through life," he fell in "with [[Clever|clever]] but
 unpopular connexions." Shortly after leaving the university he served in
 Wolfe's regiment during the Seven Years' War, and so distinguished
 himself at Minden and Kloster-Kampen that he was raised to the rank of
@@ -29,7 +29,7 @@ peerage, and Baron Wycombe in the peerage of Great Britain (created
 negotiations to induce C. J. Fox to gain the consent of the Commons to
 the peace of 1763. Fox affirmed that he had been duped, and, although
 Shelburne always asserted that he had acted in thorough good faith, Bute
-spoke of the affair as a "pious fraud." Shelburne joined the Grenville
+spoke of the affair as a "pious [[Fraud|fraud]]." Shelburne joined the [[Grenville]]
 ministry in 1763 as president of the Board of Trade, but, failing in his
 efforts to replace Pitt in the cabinet, he in a few months resigned
 office. Having moreover on account of his support of Pitt on the
@@ -60,7 +60,7 @@ possessed more enlightened political views, while his friendship with
 those of his contemporaries eminent in science and literature must be
 allowed considerable weight in qualifying our estimate of the moral
 defects with which he has been credited. He was twice married, first to
-Lady Sophia (1745-1771), daughter of John Carteret, Earl Granville,
+Lady Sophia (1745-1771), daughter of John Carteret, Earl [[Granville]],
 through whom he obtained the Lansdowne estates near Bath, and secondly
 to Lady Louisa (1755-1789), daughter of John Fitzpatrick, 1st earl of
 Upper Ossory. John Henry Petty Fitzmaurice (1765-1809), his son by the
@@ -71,7 +71,7 @@ HENRY PETTY FITZMAURICE, 3rd marquess of Lansdowne (1780-1863), son of
 the 1st marquess by his second marriage, was born on the 2nd of July
 1780 and educated at Edinburgh University and at Trinity College,
 Cambridge. He entered the House of Commons in 1802 as member for the
-family borough of Calne and quickly showed his mettle as a politician.
+family borough of [[Calne]] and quickly showed his mettle as a politician.
 In February 1806, as Lord Henry Petty, he became chancellor of the
 exchequer in the ministry of "All the Talents," being at this time
 member for the university of Cambridge; but he lost both his seat and
@@ -81,7 +81,7 @@ of the Whig leaders. His chief interest was perhaps in the question of
 Roman Catholic emancipation, a cause which he consistently championed,
 but he sympathized also with the advocates of the abolition of the
 slave-trade and with the cause of popular education. Lansdowne, who had
-succeeded his cousin, Francis Thomas Fitzmaurice, as 4th earl of Kerry
+succeeded his [[Cousin|cousin]], Francis Thomas Fitzmaurice, as 4th earl of Kerry
 in 1818, took office with Canning in May 1827 and was secretary for home
 affairs from July of that year until January 1828; he was lord president
 of the council under Earl Grey and then under Lord Melbourne from
@@ -99,7 +99,7 @@ experience made his counsel invaluable to his party. He married Louisa
 his son Henry, the 4th marquess (1816-1866). The latter, who was member
 of parliament for Calne for twenty years and chairman of the Great
 Western railway, married for his second wife Emily (1819-1895), daughter
-of the comte de Flahaut de la Billarderie, a lady who became Baroness
+of the comte de [[Flahaut De La Billarderie|Flahaut de la Billarderie]], a lady who became Baroness
 Nairne in her own right in 1867. By her he had two sons, the 5th
 marquess and Lord Edmond Fitzmaurice (Baron Fitzmaurice of Leigh).
 

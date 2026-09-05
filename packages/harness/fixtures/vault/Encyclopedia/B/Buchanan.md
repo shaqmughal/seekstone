@@ -10,7 +10,7 @@ BUCHANAN, GEORGE (1506-1582), Scottish humanist, was born in February 1506.
 His father, a younger son of an old family, was the possessor of the farm
 of Moss, in the parish of Killearn, Stirlingshire, but he died at an early
 age, leaving his widow and children in poverty. His mother, Agnes Heriot,
-was of the family of the Heriots of Trabroun, Haddingtonshire, of which
+was of the family of the Heriots of Trabroun, [[Haddingtonshire]], of which
 George Heriot, founder of Heriot's hospital, was also a member. Buchanan is
 said to have attended Killearn school, but not much is known of his early
 education. In 1520 he was sent by his uncle, James Heriot, to the
@@ -39,7 +39,7 @@ but considered himself free to criticize its practice. Though he listened
 with interest to the arguments of the Reformers, he did not join their
 ranks before 1553. His first production in Scotland, when he was in Lord
 Cassilis's household in the west country, was the poem _Somnium_, a
-satirical attack upon the Franciscan friars and monastic life generally.
+satirical attack upon the Franciscan [[Friar|friars]] and monastic life generally.
 This assault on the monks was not displeasing to James V., who engaged
 Buchanan as tutor to one of his natural [v.04 p.0660] sons, Lord James
 Stewart (not the son who was afterwards the regent Murray), and encouraged
@@ -52,16 +52,16 @@ persecution of the Lutherans, and Buchanan among others was arrested. He
 managed to effect his escape and with considerable difficulty made his way
 to London and thence to Paris. In Paris, however, he found his enemy,
 Cardinal David Beaton, who was there as an ambassador, and on the
-invitation of Andre de Gouvea, proceeded to Bordeaux. Gouvea was then
-principal of the newly founded college of Guienne at Bordeaux, and by his
+invitation of Andre de Gouvea, proceeded to [[Bordeaux]]. Gouvea was then
+principal of the newly founded college of [[Guienne]] at Bordeaux, and by his
 exertions Buchanan was appointed professor of Latin. During his residence
 here several of his best works, the translations of _Medea_ and _Alcestis_,
-and the two dramas, _Jephthes (sive Votum)_ and _Baptistes (sive
+and the two [[Drama|dramas]], _Jephthes (sive Votum)_ and _[[Baptiste|Baptistes]] (sive
 Calumnia)_, were completed. Montaigne was Buchanan's pupil at Bordeaux and
 acted in his tragedies. In the essay _Of Presumption_ he classes Buchanan
-with Aurat, Beza, de L'Hopital, Montdore and Turnebus, as one of the
+with Aurat, [[Beza]], de L'Hopital, Montdore and Turnebus, as one of the
 foremost Latin poets of his time. Here also Buchanan formed a lasting
-friendship with Julius Caesar Scaliger; in later life he won the admiration
+friendship with [[Julius]] [[Caesar]] Scaliger; in later life he won the admiration
 of Joseph Scaliger, who wrote an epigram on Buchanan which contains the
 couplet, famous in its day:--
 
@@ -83,18 +83,18 @@ and formerly head of Sainte-Barbe. It is probable that before Andre's death
 at the end of 1547 Diogo had urged the Inquisition to attack him and his
 staff; up to 1906, when the records of the trial were first published in
 full, Buchanan's biographers generally attributed the attack to the
-influence of Cardinal Beaton, the Franciscans, or the Jesuits, and the
+influence of Cardinal Beaton, the Franciscans, or the [[Jesuits]], and the
 whole history of Buchanan's residence in Portugal was extremely obscure.
 
 A commission of inquiry was appointed in October 1549 and reported in June
-1550. Buchanan and two Portuguese, Diogo de Teive and Jo[=a]o da Costa (who
+1550. Buchanan and two Portuguese, Diogo de Teive and Jo[=a]o da [[Costa]] (who
 had succeeded to the rectorship), were committed for trial. Teive and Costa
 were found guilty of various offences against public order, and the
 evidence shows that there was ample reason for a judicial inquiry. Buchanan
 was accused of Lutheran and Judaistic practices. He defended himself with
 conspicuous ability, courage and frankness, admitting that some of the
-charges were true. About June 1551 he was sentenced to abjure his errors,
-and to be imprisoned in the monastery of S[=a]o Bento in Lisbon. Here he
+charges were true. About June 1551 he was sentenced to abjure his [[Error|errors]],
+and to be imprisoned in the monastery of S[=a]o Bento in [[Lisbon]]. Here he
 was compelled to listen to edifying discourses from the monks, whom he
 found "not unkind but ignorant." In his leisure he began to translate the
 Psalms into Latin verse. After seven months he was released, on condition
@@ -102,7 +102,7 @@ that he remained in Lisbon; and on the 28th of February 1552 this
 restriction was annulled. Buchanan at once sailed for England, but soon
 made his way to Paris, where in 1553 he was appointed regent in the college
 of Boncourt. He remained in that post for two years, and then accepted the
-office of tutor to the son of the Marechal de Brissac. It was almost
+office of tutor to the son of the Marechal de [[Brissac]]. It was almost
 certainly during this last stay in France, where Protestantism was being
 repressed with great severity by Francis I., that Buchanan ranged himself
 on the side of the Calvinists.
@@ -130,7 +130,7 @@ some years, at least till 1579. He died on the 28th of September 1582.
 
 His last years had been occupied with two of his most important works. The
 first was the treatise _De Jure Regni apud Scotos_, published in 1579. In
-this famous work, composed in the form of a dialogue, and evidently
+this famous work, composed in the form of a [[Dialogue|dialogue]], and evidently
 intended to instil sound political principles into the mind of his pupil,
 Buchanan lays down the doctrine that the source of all political power is
 the people, that the king is bound by those conditions under which the
@@ -144,7 +144,7 @@ Scoticarum Historia_, completed shortly before his death (1579), and
 published in 1582. It is of great value for the period personally known to
 the author, which occupies the greater portion of the book. The earlier
 part is based, to a considerable extent, on the legendary history of Boece.
-Buchanan's purpose was to "purge" the national history "of sum Inglis lyis
+Buchanan's purpose was to "purge" the national history "of sum [[Inglis]] lyis
 and Scottis vanite" (_Letter to Randolph_), but he exaggerated his freedom
 from partisanship and unconsciously criticized his work when he said that
 it would "content few and displease many."
@@ -177,13 +177,13 @@ edited by Ruddiman (Edinburgh, Freebairn, 1715); (b) edited by Burman, 4to,
 _Chamaeleon_ (_u.s._), a tract on the Reformation of St Andrews University,
 _Ane Admonitioun to the Trew Lordis_, and two letters, were edited for the
 Scottish Text Society by P. Hume Brown. The principal biographies
-are:--David Irving, _Memoirs of the Life and Writings of George Buchanan_
+are:--David [[Irving]], _Memoirs of the Life and Writings of George Buchanan_
 (Edinburgh,1807 and 1817); P. Hume Brown, _George Buchanan, Humanist and
 Reformer_ (Edinburgh, 1890), _George Buchanan and his Times_ (Edinburgh,
 1906); Rev. D. Macmillan, _George Buchanan, a Biography_ (Edinburgh, 1906).
 Buchanan's quatercentenary was celebrated at different centres in Scotland
 in 1906, and was the occasion of several encomia and studies. The most
-important of these are: _George Buchanan: Glasgow Quatercentenary Studies_
+important of these are: _George Buchanan: [[Glasgow]] Quatercentenary Studies_
 (Glasgow, 1906), and _George Buchanan, a Memoir_, edited by D.A. Millar (St
 Andrews, 1907). A verse translation of the _Baptistes_, entitled
 _Tyrannicall-Government Anatomized_ (1642), has been attributed to Milton;

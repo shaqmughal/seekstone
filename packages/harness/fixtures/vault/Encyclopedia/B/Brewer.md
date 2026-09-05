@@ -11,16 +11,16 @@ id: 42-602
 BREWER, JOHN SHERREN (1810-1879), English historian, was born in Norwich in
 1810, the son of a Baptist schoolmaster. He was educated at Queen's
 College, Oxford, was ordained in the Church of England in 1837, and became
-chaplain to a central London workhouse. In 1839 he was appointed lecturer
+[[Chaplain|chaplain]] to a central London workhouse. In 1839 he was appointed lecturer
 in classical literature at King's College, London, and in 1855 he became
 professor of English language and literature and lecturer in modern
-history, succeeding F.D. Maurice. Meanwhile from 1854 onwards he was also
+history, succeeding F.D. [[Maurice]]. Meanwhile from 1854 onwards he was also
 engaged in journalistic work on the _Morning Herald_, _Morning Post_ and
-_Standard_. In 1856 he was commissioned by the master of the rolls to
+_Standard_. In 1856 he was commissioned by the [[Master Of The Rolls|master of the rolls]] to
 prepare a calendar of the state papers of Henry VIII., a work demanding a
 vast amount of research. He was also made reader at the Rolls, and
 subsequently preacher. In 1877 Disraeli secured for him the crown living of
-Toppesfield, Essex. There he had time to continue his task of preparing his
+Toppesfield, [[Essex]]. There he had time to continue his task of preparing his
 _Letters and Papers of the Reign of King Henry VIII_., the Introductions to
 which (published separately, under the title _The Reign of Henry VIII_., in
 1884) form a scholarly and authoritative history of Henry VIII.'s reign.
@@ -30,16 +30,16 @@ Brewer's direction. He died at Toppesfield in February 1879.
 [v.04 p.0506] BREWING, in the modern acceptation of the term, a series of
 operations the object of which is to prepare an alcoholic beverage of a
 certain kind--to wit, beer--mainly from cereals (chiefly malted barley),
-hops and water. Although the art of preparing beer (_q.v._) or ale is a
+[[Hop|hops]] and water. Although the art of preparing [[Beer|beer]] (_q.v._) or ale is a
 very ancient one, there is very little information in the literature of the
 subject as to the apparatus and methods employed in early times. It seems
 fairly certain, however, that up to the 18th century these were of the most
 primitive kind. With regard to _materials_, we know that prior to the
 general introduction of the hop (see ALE) as a preservative and astringent,
 a number of other bitter and aromatic plants had been employed with this
-end in view. Thus J.L. Baker (_The Brewing Industry_) points out that the
+end in view. Thus J.L. [[Baker]] (_The Brewing Industry_) points out that the
 Cimbri used the _Tamarix germanica_, the Scandinavians the fruit of the
-sweet gale (_Myrica gale_), the Cauchi the fruit and the twigs of the
+sweet [[Gale|gale]] (_Myrica gale_), the Cauchi the fruit and the twigs of the
 chaste tree (_Vitex agrius castus_), and the Icelanders the yarrow
 (_Achillea millefolium_).
 
@@ -56,11 +56,11 @@ wealthier classes preparing their own beer, but it then became gradually
 apparent to the latter (owing no doubt to improved methods of brewing, and
 for others reasons) that it was more economical and less troublesome to
 have their beer brewed for them at a regular brewery. The usual charge was
-30s. per barrel for bitter ale, and 8s. or so for small beer. This tendency
+30s. per [[Barrel|barrel]] for bitter ale, and 8s. or so for small beer. This tendency
 to centralize brewing operations became more and more marked with each
 succeeding decade. Thus during 1895-1905 the number of private brewers
 declined from 17,041 to 9930. Of the private brewers still existing, about
-four-fifths were in the class exempted from beer duty, _i.e._ farmers
+four-fifths were in the class exempted from beer duty, _i.e._ [[Farmer|farmers]]
 occupying houses not exceeding L10 annual value who brew for their
 labourers, and other persons occupying houses not exceeding L15 annual
 value. The private houses subject to both beer and licence duty produced
@@ -70,7 +70,7 @@ L8 annual value; but taking everything into consideration it is probable
 that more than 99% of the beer produced in the United Kingdom is brewed by
 public brewers (brewers for sale). The disappearance of the smaller public
 brewers or their absorption by the larger concerns has gone hand-in-hand
-with the gradual extinction of the private brewer. In the year 1894-1895
+with the [[Gradual|gradual]] extinction of the private brewer. In the year 1894-1895
 8863 licences were issued to brewers for sale, and by 1904-1905 this number
 had been reduced to 5164. There are numerous reasons for these changes in
 the constitution of the brewing industry, chief among them being (a) the
@@ -79,12 +79,12 @@ administration, and partly to the competition of the great breweries, of
 obtaining an adequate outlet for retail sale in the shape of licensed
 houses; and (b) the fact that brewing has continuously become a more
 scientific and specialized industry, requiring costly and complicated plant
-and expert manipulation. It is only by employing the most up-to-date
+and [[Expert|expert]] manipulation. It is only by employing the most up-to-date
 machinery and expert knowledge that the modern brewer can hope to produce
 good beer in the short time which competition and high taxation, &c., have
 forced upon him. Under these conditions the small brewer tends to
 extinction, and the public are ultimately the gainers. The relatively
-non-alcoholic, lightly hopped and bright modern beers, which the small
+non-alcoholic, lightly hopped and [[Bright|bright]] modern beers, which the small
 brewer has not the means of producing, are a great advance on the muddy,
 highly hopped and alcoholized beverages to which our ancestors were
 accustomed.
@@ -103,7 +103,7 @@ one firm, namely, Messrs Guinness, owning the largest brewery in the world,
 brewed upwards of two million barrels, paying a sum of, roughly, one
 million sterling to the revenue. Three other firms brewed close on a
 million barrels or upwards. The quantity of malt used was 51,818,697
-bushels; of unmalted corn, 125,671 bushels; of rice, flaked maize and
+[[Bushel|bushels]]; of unmalted [[Corn|corn]], 125,671 bushels; of rice, flaked maize and
 similar materials, 1,348,558 cwt.; of sugar, 2,746,615 cwt.; of hops,
 62,360,817 lb; and of hop substitutes, 49,202 lb. The average specific
 gravity of the beer produced in 1905-1906 was 1053.24. The quantity of beer
@@ -113,7 +113,7 @@ stationary for the last thirty years. By far the greater part of the beer
 brewed is consumed in England. Thus of the total quantity retained for
 consumption in 1905-1906, 28,590,563 barrels were consumed in England,
 1,648,463 in Scotland, and 3,265,084 in Ireland. In 1871 it was calculated
-by Professor Leone Levi that the capital invested in the liquor trade in
+by Professor Leone [[Levi]] that the capital invested in the liquor trade in
 the United Kingdom was L117,000,000. In 1908 this figure might be safely
 doubled. A writer in the _Brewers' Almanack_ for 1906 placed the capital
 invested in limited liability breweries alone at L185,000,000. If we allow
@@ -156,7 +156,7 @@ varied from this figure up to 6s. 6d. in 1854, and in 1874, when the
 general duty on sugar was repealed, it was raised to 11s. 6d., at which
 rate it remained until 1880, when it was repealed simultaneously with the
 malt duty. In 1901 a general sugar tax of 4s. 2d. and under (according to
-the percentage of actual sugar contained) was imposed, but no drawback was
+the percentage of actual sugar contained) was imposed, but no [[Drawback|drawback]] was
 allowed to brewers using sugar, and therefore--and this obtains at the
 present day--sugar used in brewing pays the general tax and also the beer
 duty.
@@ -173,7 +173,7 @@ unrestricted as to the description of malt or corn and sugar, or other
 description of saccharine substitutes (other than deleterious articles or
 drugs), which he might use in the manufacture or colouring of beer. This
 freedom in the choice of materials has continued down to the present time,
-except that the use of "saccharin" (a product derived from coal-tar) was
+except that the use of "saccharin" (a product derived from [[Coal-Tar|coal-tar]]) was
 prohibited in 1888, the reason being that this substance gives an apparent
 palate-fulness to beer equal to roughly 4 deg. in excess of its real gravity,
 the revenue suffering thereby. In 1889 the duty on beer was increased by a
@@ -228,7 +228,7 @@ Union
 ---- Bavaria                  Malt tax      3s. 5d. to 4s. 8d.,
                                                 according to
                                              quantity produced
-Belgium                       Malt tax            2s. 9d.
+[[Belgium]]                       Malt tax            2s. 9d.
 France                         On Wort            4s. 1d.
 Holland                       On cubic      About 1s. 9d. to 3s.
                              contents of     3d., according to
@@ -247,7 +247,7 @@ extent with organic matter, cannot be used at all in brewing, as they give
 rise to unsatisfactory fermentation, cloudiness and abnormal flavour.
 Others again, although suited to the production of one type of beer, are
 quite unfit for the brewing of another. For black beers a soft water is a
-desideratum, for ales of the Burton type a hard water is a necessity. For
+desideratum, for ales of the [[Burton]] type a hard water is a necessity. For
 the brewing of mild ales, again, a water containing a certain proportion of
 chlorides is required. The presence or absence of certain mineral
 substances as such in the finished beer is not, apparently, a matter of any
@@ -298,7 +298,7 @@ Our knowledge of the essential chemical constituents of brewing waters
 enables brewers in many cases to treat an unsatisfactory supply
 artificially in such a manner as to modify its character in a favourable
 sense. Thus, if a soft water only is to hand, and it is desired to brew a
-bitter ale, all that is necessary is to add a sufficiency of gypsum,
+bitter ale, all that is necessary is to add a sufficiency of [[Gypsum|gypsum]],
 magnesium sulphate and calcium chloride. If it is desired to convert a soft
 water lacking in chlorides into a satisfactory mild ale liquor, the
 addition of 30-40 grains of sodium chloride will be necessary. On the other
@@ -340,7 +340,7 @@ the United Kingdom are of a somewhat complex nature. In the first place, it
 was not until the malt tax was repealed that the brewer was able to avail
 himself of the surplus diastatic energy present in malt, for the purpose of
 transforming starch (other than that in malted grain) into sugar. The
-diastatic enzyme or ferment (see below, under _Mashing_) of malted barley
+diastatic [[Enzyme|enzyme]] or ferment (see below, under _Mashing_) of malted barley
 is present in that material in great excess, and a part of this surplus
 energy may be usefully employed in converting the starch of unmalted grain
 into sugar. The brewer has found also that brewing operations are
@@ -350,7 +350,7 @@ turn-over, _i.e._ he can make more beer in a given time from the same
 plant. Certain classes of substitutes, too, are somewhat cheaper than malt,
 and in view of the keenness of modern competition it is not to be wondered
 at that the brewer should resort to every legitimate means at his disposal
-to keep down costs. It has been contended, and apparently with much reason,
+to keep down [[Costs|costs]]. It has been contended, and apparently with much reason,
 that if the use of substitutes were prohibited this would not lead to an
 increased use of domestic barley, inasmuch as the supply of home barley
 suitable for malting purposes is of a limited nature. A return to the
@@ -362,7 +362,7 @@ than the latter. At the same time, it is an undoubted fact that an
 excessive use of substitutes leads to the production of beer of poor
 quality. The better class of brewer rarely uses more than 15-20%, knowing
 that beyond that point the loss of flavour and quality will in the long run
-become a more serious item than any increased profits which he might
+become a more serious [[Item|item]] than any increased profits which he might
 temporarily gain.
 
 With regard to the nature of the substitutes or adjuncts for barley malt
@@ -383,8 +383,8 @@ latter commonly known as "saccharum." Cane sugar is mostly used for the
 preparation of heavy mild ales and stouts, as it gives a peculiarly sweet
 and full flavour to the beer, to which, no doubt, the popularity of this
 class of beverage is largely due. _Invert sugar_ is prepared by the action
-either of acid or of yeast on cane sugar. The chemical equation
-representing the conversion (or inversion) of cane sugar is:--
+either of acid or of yeast on cane sugar. The chemical [[Equation|equation]]
+representing the [[Conversion|conversion]] (or [[Inversion|inversion]]) of cane sugar is:--
 
   C12H22O11  +  H2O  =  C6H12O6   +  C6H12O6.
   cane sugar   water    glucose      fructose
@@ -408,7 +408,7 @@ one of the constituents of invert sugar, is largely used by itself in
 brewing. It is, however, never prepared from invert sugar for this purpose,
 but directly from starch by means of acid. By the action of dilute boiling
 acid on starch the latter is rapidly converted first into a mixture of
-dextrine and maltose and then into glucose. The proportions of glucose,
+[[Dextrine|dextrine]] and maltose and then into glucose. The proportions of glucose,
 dextrine and maltose present in a commercial glucose depend very much on
 the duration of the boiling, the strength of the acid, and the extent of
 the pressure at which the starch is converted. In England the materials
@@ -417,7 +417,7 @@ maize. In Germany potatoes form the most common raw material, and in
 America purified Indian corn is ordinarily employed.
 
 _Hop substitutes_, as a rule, are very little used. They mostly consist of
-quassia, gentian and camomile, and these substitutes are quite harmless
+quassia, [[Gentian|gentian]] and camomile, and these substitutes are quite harmless
 _per se_, but impart an unpleasantly rough and bitter taste to the beer.
 
 _Preservatives_.--These are generally, in fact almost universally, employed
@@ -432,7 +432,7 @@ quantities, are generally held to be harmless.
 
 BREWING OPERATIONS.--The general scheme of operations in an English brewery
 will be readily understood if reference be made to fig. 1, which represents
-an 8-quarter brewery on the _gravitation system_, the principle of which is
+an 8-quarter brewery on the _[[Gravitation|gravitation]] system_, the principle of which is
 that all materials to be employed are pumped or hoisted to the highest
 point required, to start with, and that subsequently no further pumping or
 hoisting is required, the materials (in the shape of water, malt, wort or
@@ -442,7 +442,7 @@ gravity.
 The malt, which is hoisted to the top floor, after cleaning and grading is
 conveyed to the _Malt Mill_, where it is crushed. Thence the ground malt,
 or "grist" as it is now called, passes to the _Grist Hopper_, and from the
-latter to the _Mashing Machine_, in which it is intimately mixed with hot
+latter to the _Mashing [[Machine]]_, in which it is intimately mixed with hot
 water from the _Hot Liquor Vessel_. From the mashing machine the mixed
 grist and "liquor" pass to the _Mash-Tun_, where the starch of the malt is
 rendered soluble. From the mash-tun the clear wort passes to the _Copper_,
@@ -460,7 +460,7 @@ Boiling; (4) Cooling; (5) Fermenting; (6) Cleansing; (7) Racking and
 Storing.
 
 _Grinding_.--In most modern breweries the malt passes, on its way [v.04
-p.0509] from the bins to the mill, through a cleaning and grading
+p.0509] from the [[Bin|bins]] to the mill, through a cleaning and grading
 apparatus, and then through an automatic measuring machine. The mills,
 which exist in a variety of designs, are of the smooth roller type, and are
 so arranged that the malt is _crushed_ rather than ground. If the malt is
@@ -577,7 +577,7 @@ the "converter" entirely.
 
 _The Filter Press Process._--The ordinary mash-tun process, as described
 above, possesses the disadvantage that only coarse grists can be employed.
-This entails loss of extract in several ways. To begin with, the sparging
+This [[Entail|entails]] loss of extract in several ways. To begin with, the sparging
 process is at best a somewhat inefficient method for washing out the last
 portions of the wort, and again, when the malt is at all hard or "steely,"
 starch conversion is by no means complete. These disadvantages are overcome
@@ -691,8 +691,8 @@ the main fermentation in the "round" or "square," and is then dropped down
 into a second vessel or vessels, in which fermentation and cleansing are
 completed. The _ponto_ system of dropping, which is now somewhat
 old-fashioned, consists in discharging the beer into a series of vat-like
-vessels, fitted with a peculiarly-shaped overflow lip. The yeast works its
-way out of the vessel over the lip, and then flows into a gutter and is
+vessels, fitted with a peculiarly-shaped overflow [[Lip|lip]]. The yeast works its
+way out of the vessel over the lip, and then flows into a [[Gutter|gutter]] and is
 collected. The pontos are kept filled with beer by means of a vessel placed
 at a higher level. In the _ordinary_ dropping system the partly fermented
 beer is let down from the "squares" and "rounds" into large vessels, termed
@@ -702,7 +702,7 @@ skimming system. As a rule the parachute covers the whole width of the
 back. (c) The _Burton Union System_ is really an improved ponto system. A
 series of casks, supplied with beer at the cleansing stage from a feed
 vessel, are mounted so that they may rotate axially. Each cask is fitted
-with an attemperator, a pipe and cock at the base for the removal of the
+with an attemperator, a pipe and [[Cock|cock]] at the base for the removal of the
 finished beer and "bottoms," and lastly with a swan neck fitting through a
 bung-hole and commanding a common gutter. This system yields excellent
 results for certain classes of beers, and many Burton brewers think it is
@@ -732,7 +732,7 @@ so produces "condition."
 _Fining_.--As a very light article is desired nowadays, and this has to be
 provided in a short time, artificial means must be resorted to, in order to
 replace the natural fining or brightening which storage brings about.
-_Finings_ generally consist of a solution or semi-solution of isinglass in
+_Finings_ generally consist of a solution or semi-solution of [[Isinglass|isinglass]] in
 sour beer, or in a solution of tartaric acid or of sulphurous acid. After
 the finings are added to the beer and the barrels have been well rolled,
 the finings slowly precipitate (or work out through the bung-hole) and
@@ -750,7 +750,7 @@ temperature. As a result, there is an immediate deposition of much matter
 which otherwise would require prolonged time to settle. The beer is then
 filtered and so rendered quite bright, and finally, in order to produce
 immediate "condition," is "carbonated," _i.e._ impregnated under pressure
-with carbon dioxide (carbonic acid gas).
+with [[Carbon|carbon]] dioxide (carbonic acid gas).
 
 FOREIGN BREWING AND BEERS.--The system of brewing which differs most widely
 from the English _infusion_ and _top fermentation_ method is the
@@ -799,7 +799,7 @@ storing temperatures, is retained for a comparatively long time and keeps
 the beer in condition. On the other hand, infusion beers are of a more
 stable and stimulating character. It is impossible to keep "lager" beer on
 draught in the ordinary sense of the term in England. It will not keep
-unless placed on ice, and, as a matter of fact, the "condition" of lager is
+unless placed on [[Ice|ice]], and, as a matter of fact, the "condition" of lager is
 dependent to a far greater extent on the methods of distribution and
 storage than is the case with infusion beers. If a cask is opened it must
 be rapidly consumed; indeed it becomes undrinkable within a very few hours.
@@ -875,12 +875,12 @@ is _Weissbier_. This, which is largely produced in Berlin (and in some
 respects resembles the _wheat-beer_ produced in parts of England), is
 generally prepared from a mash of three parts of wheat malt and one part of
 barley malt. The fermentation is of a symbiotic nature, two organisms,
-namely a yeast and a fission fungus (the _lactic acid bacillus_) taking
+namely a yeast and a fission fungus (the _[[Lactic Acid|lactic acid]] bacillus_) taking
 part in it. The preparation of this peculiar double ferment is assisted by
 the addition of a certain quantity of white wine to the yeast prior to
 fermentation.
 
-BREWING CHEMISTRY.--The principles of brewing technology belong for the
+BREWING [[Chemistry|CHEMISTRY]].--The principles of brewing technology belong for the
 most part to physiological chemistry, whilst those of the cognate industry,
 malting, are governed exclusively by that branch of knowledge. Alike in
 following the growth of barley in field, its harvesting, maturing and
@@ -916,11 +916,11 @@ Brown and Morris were led to believe that a large number of these
 substances existed in malt wort. They proposed for these substances the
 generic name "amyloins." Although according to their view they were
 compounds of maltose and dextrin, they had the properties of mixtures of
-these two substances. On the assumption of the existence of these
+these two substances. On the [[Assumption|assumption]] of the existence of these
 compounds, Brown and his colleagues formulated what is known as the
-maltodextrin or amyloin hypothesis of starch degradation. C.J. Lintner, in
+maltodextrin or amyloin [[Hypothesis|hypothesis]] of starch degradation. C.J. Lintner, in
 1891, claimed to have separated a sugar, isomeric with maltose, which is
-termed isomaltose, from the products of starch hydrolysis. A.R. Ling and
+termed isomaltose, from the products of starch hydrolysis. A.R. [[Ling]] and
 J.L. Baker, as well as Brown and Morris, in 1895, proved that this
 isomaltose was not a homogeneous substance, and evidence tending to the
 same conclusion was subsequently brought forward by continental workers.

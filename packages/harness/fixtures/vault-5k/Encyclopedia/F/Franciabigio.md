@@ -31,7 +31,7 @@ a mason's hammer, he struck at the head of the Virgin, and some other
 heads; and the fresco, which would otherwise be his masterpiece in that
 method, remains thus mutilated. At the Scalzo, in another series of
 frescoes on which Andrea was likewise employed, he executed in 1518-1519
-the "Departure of John the Baptist for the Desert," and the "Meeting of
+the "Departure of John the Baptist for the [[Desert]]," and the "Meeting of
 the Baptist with Jesus"; and, at the Medici palace at Poggio a Caiano,
 in 1521, the "Triumph of Cicero." Various works which have been ascribed
 to Raphael are now known or reasonably deemed to be by Franciabigio.
@@ -44,7 +44,7 @@ others which bear this painter's recognized monogram. The series of
 portraits, taken collectively, placed beyond dispute the eminent and
 idiosyncratic genius of the master. Two other works of his, of some
 celebrity, are the "Calumny of Apelles," in the Pitti, and the "Bath of
-Bathsheba" (painted in 1523), in the Dresden gallery.
+Bathsheba" (painted in 1523), in the [[Dresden]] gallery.
 
 ## References
 

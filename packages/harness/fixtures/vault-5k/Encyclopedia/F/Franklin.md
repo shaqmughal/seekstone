@@ -9,7 +9,7 @@ type: reference
 
 FRANKLIN, BENJAMIN (1706-1790), American diplomat, statesman and
 scientist, was born on the 17th of January 1706 in a house in Milk
-Street, opposite the Old South church, Boston, Massachusetts. He was the
+Street, opposite the Old South church, [[Boston]], Massachusetts. He was the
 tenth son of Josiah Franklin, and the eighth child and youngest son of
 ten children borne by Abiah Folger, his father's second wife. The elder
 Franklin was born at Ecton in Northamptonshire, England, where the
@@ -29,7 +29,7 @@ America.
 Benjamin's tastes had at first been for the sea rather than the pulpit;
 now they inclined rather to intellectual than to other pleasures. At an
 early age he had made himself familiar with _The Pilgrim's Progress_,
-with Locke, _On the Human Understanding_, and with a volume of _The
+with [[Locke]], _On the Human Understanding_, and with a volume of _The
 Spectator_. Thanks to his father's excellent advice, he gave up writing
 doggerel verse (much of which had been printed by his brother and sold
 on the streets) and turned to prose composition. His success in
@@ -46,7 +46,7 @@ previously signed "Mistress Silence Dogood," gave promise of "Poor
 Richard." But Benjamin's management of the paper, and particularly his
 free-thinking, displeased the authorities; the relations of the two
 brothers gradually grew unfriendly, possibly, as Benjamin thought,
-because of his brother's jealousy of his superior ability; and Benjamin
+because of his brother's [[Jealousy|jealousy]] of his superior ability; and Benjamin
 determined to quit his brother's employ and to leave New England. He
 made his way first to New York City, and then (October 1723) to
 Philadelphia, where he got employment with a printer named Samuel
@@ -59,7 +59,7 @@ for himself, and when Franklin had unsuccessfully appealed to his father
 for the means to do so, Keith promised to furnish him with what he
 needed for the equipment of a new printing office and sent him to
 England to buy the materials. Keith had repeatedly promised to send a
-letter of credit by the ship on which Franklin sailed, but when the
+letter of [[Credit|credit]] by the ship on which Franklin sailed, but when the
 Channel was reached and the ship's mails were examined no such letter
 was found. Franklin reached London in December 1724, and found
 employment first at Palmer's, a famous printing house in Bartholomew
@@ -89,7 +89,7 @@ _The Pennsylvania Gazette_, a weekly newspaper which Keimer had started
 nine months before to defeat a similar project of Franklin's, and which
 Franklin conducted until 1765. Franklin's superior management of the
 paper, his new type, "some spirited remarks" on the controversy between
-the Massachusetts assembly and Governor Burnet, brought his paper into
+the Massachusetts assembly and Governor [[Burnet]], brought his paper into
 immediate notice, and his success both as a printer and as a journalist
 was assured and complete. In 1731 he established in Philadelphia one of
 the earliest circulating libraries in America (often said to have been
@@ -126,7 +126,7 @@ between New York and Philadelphia from once to three times a week in
 summer, and from twice a month to once a week in winter. When war with
 France appeared imminent in 1754, Franklin was sent to the Albany
 Convention, where he submitted his plan for colonial union (see ALBANY,
-N.Y.). When the home government sent over General Edward Braddock[2]
+N.Y.). When the home government sent over General Edward [[Braddock]][2]
 with two regiments of British troops, Franklin undertook to secure the
 requisite number of horses and waggons for the march against Ft.
 Duquesne, and became personally responsible for payment to the
@@ -147,7 +147,7 @@ only with the privileges of the people, but with the service of the
 crown, resolv'd to petition the king against them," and appointed
 Franklin as their agent to present the petition. He arrived in London on
 the 27th of July 1757, and shortly afterwards, when, at a conference
-with Earl Granville, president of the council, the latter declared that
+with Earl [[Granville]], president of the council, the latter declared that
 "the King is the legislator of the colonies," Franklin in reply declared
 that the laws of the colonies were to be made by their assemblies, to be
 passed upon by the king, and when once approved were no longer subject
@@ -192,7 +192,7 @@ considerable weight in determining the ministry to retain Canada.
 Franklin sailed again for America in August 1762, hoping to be able to
 settle down in quiet and devote the remainder of his life to experiments
 in physics. This quiet was interrupted, however, by the "Paxton
-Massacre" (Dec. 14, 1763)--the slaughter of a score of Indians
+[[Massacre]]" (Dec. 14, 1763)--the slaughter of a score of Indians
 (children, women and old men) at Lancaster, Pennsylvania, by some young
 rowdies from the town of Paxton, who then marched upon Philadelphia to
 kill a few Christian Indians there. Franklin, appealed to by the
@@ -209,8 +209,8 @@ agent to take charge of another petition for a change of government,
 which, however, came to nothing. Matters of much greater consequence
 soon demanded Franklin's attention.
 
-Early in 1764 Lord Grenville had informed the London agents of the
-American colonies that he proposed to lay a portion of the burden left
+Early in 1764 Lord [[Grenville]] had informed the London agents of the
+American colonies that he proposed to lay a portion of the [[Burden|burden]] left
 by the war with France upon the shoulders of the colonists by means of a
 stamp duty, unless some other tax equally productive and less
 inconvenient were proposed. The natural objection of the colonies, as
@@ -370,8 +370,8 @@ gazettes of Europe, for the latter half of the 18th century, a greater
 number of panegyrical paragraphs upon _le grand Franklin_ would appear,
 it is believed, than upon any other man that ever lived." "Franklin's
 appearance in the French salons, even before he began to negotiate,"
-says Friedrich Christoph Schlosser, "was an event of great importance to
-the whole of Europe.... His dress, the simplicity of his external
+says [[Friedrich]] Christoph Schlosser, "was an event of great importance to
+the whole of Europe.... His [[Dress|dress]], the simplicity of his external
 appearance, the friendly meekness of the old man, and the apparent
 humility of the Quaker, procured for Freedom a mass of votaries among
 the court circles who used to be alarmed at its coarseness and
@@ -404,12 +404,12 @@ American naval agent for the many successful privateers who harried the
 English Channel, and for whom he skilfully got every bit of assistance
 possible, open and covert, from the French government, he was
 continually called upon for funds in these ventures. Of the vessels to
-be sent to Paris with American cargoes which were to be sold for the
-liquidation of French loans to the colonies made through Beaumarchais,
+be sent to Paris with American [[Cargo|cargoes]] which were to be sold for the
+liquidation of French loans to the colonies made through [[Beaumarchais]],
 few arrived; those that did come did not cover Beaumarchais's advances,
 and hardly a vessel came from America without word of fresh drafts on
 Franklin. After bold and repeated overtures for an exchange of
-prisoners--an important matter, both because the American frigates had
+prisoners--an important matter, both because the American [[Frigate|frigates]] had
 no place in which to stow away their prisoners, and because of the
 maltreatment of American captives in such prisons as Dartmoor--exchanges
 began at the end of March 1779, although there were annoying delays, and
@@ -425,7 +425,7 @@ loans to the colonies, France, largely because of Franklin's appeals,
 expended, by loan or gift to the colonies, or in sustenance of the
 French arms in America, a sum estimated at $60,000,000.
 
-In 1781 Franklin, with John Adams, John Jay, Jefferson, who remained in
+In 1781 Franklin, with John Adams, John Jay, [[Jefferson]], who remained in
 America, and Henry Laurens, then a prisoner in England, was appointed on
 a commission to make peace with Great Britain. In the spring of 1782
 Franklin had been informally negotiating with Shelburne, secretary of
@@ -472,11 +472,11 @@ petition to Congress (12th February 1790) for immediate abolition of
 slavery, and six weeks later in his most brilliant manner parodied the
 attack on the petition made by James Jackson (1757-1806) of Georgia,
 taking off Jackson's quotations of Scripture with pretended texts from
-the Koran cited by a member of the Divan of Algiers in opposition to a
+the Koran cited by a member of the [[Divan]] of Algiers in opposition to a
 petition asking for the prohibition of holding Christians in slavery.
 These were his last public acts. His last days were marked by a fine
 serenity and calm; he died in his own house in Philadelphia on the 17th
-of April 1790, the immediate cause being an abscess in the lungs. He was
+of April 1790, the immediate cause being an abscess in the [[Lung|lungs]]. He was
 buried with his wife in the graveyard (Fifth and Arch Streets) of Christ
 Church, Philadelphia.
 
@@ -496,7 +496,7 @@ in fresh air, taking a cold air bath regularly in the morning, when he
 sat naked in his bedroom beguiling himself with a book or with writing
 for a half-hour or more. He insisted that fresh, cold air was not the
 cause of colds, and preached zealously the "gospel of ventilation." He
-was a charming talker, with a gay humour and a quiet sarcasm and a
+was a charming talker, with a gay [[Humour|humour]] and a quiet sarcasm and a
 telling use of anecdote for argument. Henri Martin, the French
 historian, speaks of him as "of a mind altogether French in its grace
 and elasticity." In 1730 he married Deborah Read, in whose father's
@@ -531,8 +531,8 @@ French and tried to bring him safely into the Roman Catholic Church.
 With him in France were his grandsons, William Temple Franklin, William
 Franklin's natural son, who acted as private secretary to his
 grandfather, and Benjamin Franklin Bache (1769-1798), Sarah's son, whom
-he sent to Geneva to be educated, for whom he later asked public office
-of Washington, and who became editor of the _Aurora_, one of the leading
+he sent to [[Geneva]] to be educated, for whom he later asked public office
+of Washington, and who became editor of the _[[Aurora]]_, one of the leading
 journals in the Republican attacks on Washington.
 
 Franklin early rebelled against New England Puritanism and spent his
@@ -558,7 +558,7 @@ the thirteen virtues and the seven days of the week, "determined to give
 a week's strict attention to each of the virtues successively ...
 [going] thro' a course compleate in thirteen weeks and four courses in a
 year," marking for each day a record of his adherence to each of the
-precepts. "And conceiving God to be the fountain of wisdom," he "thought
+precepts. "And conceiving God to be the [[Fountain|fountain]] of wisdom," he "thought
 it right and necessary to solicit His assistance for obtaining it," and
 drew up the following prayer for daily use: "O powerful Goodness!
 bountiful Father! merciful Guide! Increase in me that wisdom which
@@ -566,7 +566,7 @@ discovers my truest interest. Strengthen my resolution to perform what
 that wisdom dictates. Accept my kind offices to Thy other children, as
 the only return in my power for Thy continual favours to me." He was by
 no means prone to overmuch introspection, his great interest in the
-conduct of others being shown in the wise maxims of Poor Richard, which
+conduct of others being shown in the wise [[Maxims|maxims]] of Poor Richard, which
 were possibly too utilitarian but were wonderfully successful in
 instructing American morals. His _Art of Virtue_ on which he worked for
 years was never completed or published in any form.
@@ -586,15 +586,15 @@ printed in America was a version by James Logan (1674-1751) of Cato's
 _Moral Distichs_ (1735). In 1744 he published another translation of
 Logan's, Cicero _On Old Age_, which Franklin thought typographically the
 finest book he had ever printed. In 1733 he had established a press in
-Charleston, South Carolina, and soon after did the same in Lancaster,
-Pa., in New Haven, Conn., in New York, in Antigua, in Kingston, Jamaica,
+[[Charleston]], South Carolina, and soon after did the same in Lancaster,
+Pa., in New Haven, Conn., in New York, in [[Antigua]], in [[Kingston]], Jamaica,
 and in other places. Personally he had little connexion with the
 Philadelphia printing office after 1748, when David Hall became his
 partner and took charge of it. But in 1753 he was eagerly engaged in
 having several of his improvements incorporated in a new press, and more
 than twenty years after was actively interested in John Walter's scheme
 of "logography." In France he had a private press in his house in Passy,
-on which he printed "bagatelles." Franklin's work as a publisher is for
+on which he printed "[[Bagatelle|bagatelles]]." Franklin's work as a publisher is for
 the most part closely connected with his work in issuing the _Gazette_
 and _Poor Richard's Almanack_ (a summary of the proverbs from which
 appeared in the number for 1758, and has often been reprinted--under
@@ -610,7 +610,7 @@ third volume of the _Spectator_; and not the least to his own careful
 study of word usage. From Xenophon's _Memorabilia_ he learned when a boy
 the Socratic method of argument. Swift he resembled in the occasional
 broadness of his humour, in his brilliantly successful use of sarcasm
-and irony,[10] and in his mastery of the hoax. Balzac said of him that
+and [[Irony|irony]],[10] and in his mastery of the hoax. Balzac said of him that
 he "invented the lightning-rod, the hoax ('le canard') and the
 republic." Among his more famous hoaxes were the "Edict of the King of
 Prussia" (1773), already described; the fictitious supplement to the
@@ -648,10 +648,10 @@ Wealth_ (1769) shows that he was greatly influenced by the French
 physiocrats after his visit to France in 1767. His _Wail of a Protected
 Manufacturer_ voices a protest against protection as raising the cost of
 living; and he held that free trade was based on a natural right. He
-knew Kames, Hume and Adam Smith, and corresponded with Mirabeau, "the
+knew [[Kame|Kames]], Hume and Adam Smith, and corresponded with Mirabeau, "the
 friend of Man." Some of the more important of his economic theses, as
 summarized by W. A. Wetzel, are: that money as coin may have more than
-its bullion value; that natural interest is determined by the rent of
+its [[Bullion|bullion]] value; that natural interest is determined by the rent of
 land valued at the sum of money loaned--an anticipation of Turgot; that
 high wages are not inconsistent with a large foreign trade; that the
 value of an article is determined by the amount of labour necessary to
@@ -678,20 +678,20 @@ same principle as the hot-air furnace; the stove was never patented by
 Franklin, but was described in his pamphlet dated 1744. He was much
 engaged at the same time in remedying smoking chimneys, and as late as
 1785 wrote to Jan Ingenhousz, physician to the emperor of Austria, on
-chimneys and draughts; smoking street lamps he remedied by a simple
+chimneys and [[Draughts|draughts]]; smoking street [[Lamp|lamps]] he remedied by a simple
 contrivance. The study of electricity he took up in 1746 when he first
 saw a Leyden jar, in the manipulation of which he became expert and
 which he improved by the use of granulated lead in the place of water
 for the interior armatures; he recognized that condensation is due to
-the dielectric and not to the metal coatings. A note in his diary, dated
+the [[Dielectric|dielectric]] and not to the metal coatings. A note in his diary, dated
 the 7th of November 1749, shows that he had then conjectured that
 thunder and lightning were electrical manifestations; in the same year
 he planned the lightning-rod (long known as "Franklin's rod"), which he
-described and recommended to the public in 1753, when the Copley medal
+described and recommended to the public in 1753, when the [[Copley]] medal
 of the Royal Society was awarded him for his discoveries. The famous
 experiment with the kite, proving lightning an electrical phenomenon,
 was performed by Franklin in June 1752. He overthrew entirely the
-"friction" theory of electricity and conceived the idea of plus and
+"[[Friction|friction]]" theory of electricity and conceived the idea of plus and
 minus charges (1753); he thought the sea the source of electricity. On
 light Franklin wrote to David Rittenhouse in June 1784; the sum of his
 own conjectures was that the corpuscular theory of Newton was wrong, and
@@ -704,7 +704,7 @@ with oil on stormy waters. As a mathematician he devised various
 elaborate magic squares and novel magic circles, of which he speaks
 apologetically, because they are of no practical use. Always much
 interested in agriculture, he made an especial effort (like Robert R.
-Livingston) to promote the use of plaster of Paris as a fertiliser. He
+[[Livingston]]) to promote the use of plaster of Paris as a fertiliser. He
 took a prominent part in aeronautic experiments during his stay in
 France. He made an excellent clock, which because of a slight
 improvement introduced by James Ferguson in 1757 was long known as
@@ -742,7 +742,7 @@ honours enthusiastically given him by the _savants_ of Europe.
   Frankliniana, about 13,000 papers, in the possession of the American
   Philosophical Society, to which they were conveyed by the son of
   Temple Franklin's executor, George Fox. Other papers which had been
-  left to Fox lay for years in barrels in a stable garret; they were
+  left to Fox lay for years in [[Barrel|barrels]] in a stable garret; they were
   finally cleared out, their owner, Mary Fox, intending to send them to
   a paper mill. One barrel went to the mill. The others, it was found,
   contained papers belonging to Franklin, and this important collection
@@ -756,7 +756,7 @@ honours enthusiastically given him by the _savants_ of Europe.
   of Independence, and in 1783 came into the possession of Abel James,
   who restored them to Franklin and urged him to complete the sketch. He
   wrote a little in 1784, more in 1788, when he furnished a copy to his
-  friend le Veillard, and a little more in 1790. The original manuscript
+  friend le Veillard, and a little more in 1790. The original [[Manuscript|manuscript]]
   was long in the possession of Temple Franklin, who spent years
   rearranging the matter in it and making over into politer English his
   grandfather's plain-spokenness. So long was the publication delayed
@@ -770,7 +770,7 @@ honours enthusiastically given him by the _savants_ of Europe.
   addition), and from the copy published (London, 1817) an edition
   supposed to be authentic and complete. The complete autograph of the
   biography, acquired by John Bigelow in 1867 from its French owners,
-  upon collation with Temple Franklin's edition showed that the latter
+  upon [[Collation|collation]] with Temple Franklin's edition showed that the latter
   contained 1200 emasculations and that it omitted entirely what had
   been written in 1790. Bigelow published the complete _Autobiography_
   with additions from Franklin's correspondence and other writings in
@@ -804,7 +804,7 @@ FOOTNOTES:
     long square beard and for keeping the seventh day. Keimer settled in
     the Barbadoes about 1730; and in 1731 began to publish at Bridgetown
     the semi-weekly _Barbadoes Gazette_. Selections from it called
-    _Caribbeana_ (1741) and _A Brand Plucked from the Burning,
+    _Caribbeana_ (1741) and _A [[Brand]] Plucked from the Burning,
     Exemplified in the Unparalleled Case of Samuel Keimer_ (1718) are
     from his pen. He died about 1738.
 
@@ -827,7 +827,7 @@ FOOTNOTES:
   [7] William Franklin served on the Canadian frontier with
     Pennsylvania troops, becoming captain in 1750; was in the post-office
     in 1754-1756; went to England with his father in 1758; was admitted
-    to legal practice in 1758; in 1763, recommended by Lord Fairfax,
+    to legal practice in 1758; in 1763, recommended by Lord [[Fairfax]],
     became governor of New Jersey; he left the Whig for the Tory party;
     and in the War of Independence was a faithful loyalist, much to the
     pain and regret of his father, who, however, was reconciled to him in
@@ -835,10 +835,10 @@ FOOTNOTES:
     1778; and lived four years in New York, and during the remainder of
     his life in England with an annual pension of L800 from the crown.
 
-  [8] For the prevention of counterfeiting continental paper money
+  [8] For the prevention of [[Counterfeiting|counterfeiting]] continental paper money
     Franklin long afterwards suggested the use on the different
-    denominations of different leaves, having noted the infinite variety
-    of leaf venation.
+    [[Denomination|denominations]] of different leaves, having noted the [[Infinite|infinite]] variety
+    of [[Leaf|leaf]] venation.
 
   [9] "Seventy-five editions of it have been printed in English,
     fifty-six in French, eleven in German and nine in Italian. It has
@@ -853,12 +853,12 @@ FOOTNOTES:
 
   [11] Another hoax was Franklin's parable against religious
     persecution thrown into Scriptural form and quoted by him as the
-    fifty-first chapter of Genesis. In a paper on a "Proposed New Version
+    fifty-first chapter of [[Genesis]]. In a paper on a "Proposed New Version
     of the Bible" he paraphrased a few verses of the first chapter of
     Job, making them a satiric attack on royal government; but the
     version may well rank with these hoaxes, and even modern writers have
     been taken in by it, regarding it as a serious proposal for a
-    "modernized" version and decrying it as poor taste. Matthew Arnold,
+    "modernized" version and decrying it as poor taste. [[Matthew]] Arnold,
     for example, declared this an instance in which Franklin was lacking
     in his "imperturbable common sense"; and J. B. McMaster, though
     devoting several pages to its discussion, very ingenuously declares

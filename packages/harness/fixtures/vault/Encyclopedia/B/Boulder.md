@@ -7,17 +7,17 @@ topic: religion
 # Boulder
 
 BOULDER, a city and the county-seat of Boulder county, Colorado, U.S.A.,
-about 30 m. N.W. of Denver. Pop. (1890) 3330; (1900) 6150 (693
+about 30 m. N.W. of [[Denver]]. Pop. (1890) 3330; (1900) 6150 (693
 foreign-born); (1910) 9539. It is served by the Union Pacific, the
 Colorado & Southern, and the Denver, Boulder & Western railways; the
 last connects with the neighbouring mining camps, and affords fine views
 of mountain scenery. Boulder lies about 5300 ft. above the sea on Middle
-Boulder Creek, a branch of the St Vrain river about 30 m. from its
+Boulder [[Creek]], a branch of the St Vrain river about 30 m. from its
 confluence with the Platte, and has a beautiful situation in the valley
 at the foot of the mountains. The state university of Colorado,
 established at Boulder by an act of 1861, was opened in 1877; it
 includes a college of liberal arts, school of medicine (1883), school of
-law (1892), college of engineering (1893), graduate school, college of
+law (1892), college of [[Engineering|engineering]] (1893), graduate school, college of
 commerce (1906), college of education (1908), and a summer school
 (1904), and has a library of about 42,000 volumes. There are a fine park
 of 2840 acres, the property of the city, and three beautiful canons near

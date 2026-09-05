@@ -9,7 +9,7 @@ type: source
 
 JAKOB, LUDWIG HEINRICH VON (1759-1827), German economist, was born at
 Wettin on the 26th of February 1759. In 1777 he entered the university
-of Halle. In 1780 he was appointed teacher at the gymnasium, and in 1791
+of [[Halle]]. In 1780 he was appointed teacher at the gymnasium, and in 1791
 professor of philosophy at the university. The suppression of the
 university of Halle having been decreed by Napoleon, Jakob betook
 himself to Russia, where in 1807 he was appointed professor of political

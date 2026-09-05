@@ -8,7 +8,7 @@ topic: history
 
 BAROCCHIO (or BAROZZI), GIACOMO, called DA VIGNOLA (1507-1573), Italian
 architect, was born at Vignola in the Modenese territory on the 1st of
-October 1507. His early work was conducted at Bologna, Piacenza, Assisi and
+October 1507. His early work was conducted at Bologna, Piacenza, [[Assisi]] and
 Perugia, until he was summoned to Rome as papal architect under Pope Julius
 III. In 1564 he succeeded Michelangelo as the architect of St Peter's, and
 executed various portions of that fabric, besides a variety of works in
@@ -23,7 +23,7 @@ was corrupting the architecture of Italy. The term _baroque_ owes its
 origin to the Spanish word _barrueco_ or _berrueco_, an imperfectly round
 pearl, and is not derived from the architect Barocchio, whose name so much
 resembles it. Yet it is curious that it was much used to describe a debased
-form of architecture encouraged by the Jesuits whose church in Rome was
+form of architecture encouraged by the [[Jesuits]] whose church in Rome was
 built by Barocchio.
 
 ## References

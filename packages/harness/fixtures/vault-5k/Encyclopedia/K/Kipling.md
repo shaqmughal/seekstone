@@ -9,9 +9,9 @@ topic: genealogy
 KIPLING, RUDYARD (1865-   ), British author, was born in Bombay on the
 30th of December 1865. His father, John Lockwood Kipling (1837-1911), an
 artist of considerable ability, was from 1875 to 1893 curator of the
-Lahore museum in India. His mother was Miss Alice Macdonald of
-Birmingham, two of whose sisters were married respectively to Sir E.
-Burne-Jones and Sir Edward Poynter. He was educated at the United
+Lahore museum in India. His mother was Miss Alice [[Macdonald]] of
+[[Birmingham]], two of whose sisters were married respectively to Sir E.
+[[Burne-Jones]] and Sir Edward Poynter. He was educated at the United
 Services College, Westward Ho, North Devon, of which a somewhat lurid
 account is given in his story _Stalky and Co._ On his return to India he
 became at the age of seventeen the sub-editor of the Lahore _Civil and
@@ -28,14 +28,14 @@ continuation of the _Plain Tales_. This series of tales, all written
 before the author was twenty-four, revealed a new master of fiction. A
 few, but those the best, he afterwards said that his father gave him.
 The rest were the harvest of his own powers of observation vitalized by
-imagination. In method they owed something to Bret Harte; in matter and
+[[Imagination|imagination]]. In method they owed something to Bret Harte; in matter and
 spirit they were absolutely original. They were unequal, as his books
 continued to be throughout; the sketches of Anglo-Indian social life
 being generally inferior to the rest. The style was to some extent
 disfigured by jerkiness and mannered tricks. But Mr Kipling possessed
 the supreme spell of the story-teller to entrance and transport. The
 freshness of the invention, the variety of character, the vigour of
-narrative, the raciness of dialogue, the magic of atmosphere, were alike
+narrative, the raciness of [[Dialogue|dialogue]], the magic of atmosphere, were alike
 remarkable. The soldier-stories, especially the exuberant vitality of
 the cycle which contains the immortal Mulvaney, established the author's
 fame throughout the world. The child-stories and tales of the British
@@ -70,7 +70,7 @@ a book in 1892, together with the fine ballad of "East and West" and
 other poems, won for their author a second fame, wider than he had
 attained as a story-teller. In this volume the Ballads of the "Bolivar"
 and of the "Clampherdown," introducing Mr Kipling's poetry of the ocean
-and the engine-room, and "The Flag of England," finding a voice for the
+and the engine-room, and "The [[Flag]] of England," finding a voice for the
 Imperial sentiment, which--largely under the influence of Mr Kipling's
 own writings--had been rapidly gaining force in England, gave the
 key-note of much of his later verse. In 1898 Mr Kipling paid the first
@@ -102,7 +102,7 @@ Pook's Hill_ (stories), 1906; _Actions and Reactions_ (stories), 1909.
 Of these _Kim_ was notable as far the most successful of Mr Kipling's
 longer narratives, though it is itself rather in the nature of a string
 of episodes. But everything he wrote, even to a farcical extravaganza
-inspired by his enthusiasm for the motor-car, breathed the meteoric
+inspired by his [[Enthusiasm|enthusiasm]] for the motor-car, breathed the meteoric
 energy that was the nature of the man. A vigorous and unconventional
 poet, a pioneer in the modern phase of literary Imperialism, and one of
 the rare masters in English prose of the art of the short story, Mr
@@ -112,9 +112,9 @@ position in English literature was recognized in 1907 by the award to
 him of the Nobel prize.
 
   See Rudyard Kipling's chapter in _My First Book_ (Chatto, 1894); "A
-  Bibliography of Rudyard Kipling," by John Lane, in _Rudyard Kipling: a
+  Bibliography of Rudyard Kipling," by John [[Lane]], in _Rudyard Kipling: a
   Criticism_, by Richard de Gallienne; "Mr Kipling's Short Stories" in
-  _Questions at Issue_, by Edmund Gosse (1893); "Mr Kipling's Stories"
+  _Questions at Issue_, by Edmund [[Gosse]] (1893); "Mr Kipling's Stories"
   in _Essays in Little_, by Andrew Lang; "Mr Kipling's Stories," by J.
   M. Barrie in the _Contemporary Review_ (March 1891); articles in the
   _Quarterly Review_ (July 1892) and _Edinburgh Review_ (Jan. 1898); and

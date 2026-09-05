@@ -23,13 +23,13 @@ boats, which they take to the pearl banks on the Arabian coast. The
 water supply is scanty and there is little vegetation, but sufficient
 for sustaining some flocks of sheep and goats and some cattle. Near the
 centre of the north coast are the ruins of the old city, now known as
-Harira, with remains of a mosque, with octagonal columns, masonry,
+Harira, with remains of a mosque, with octagonal columns, [[Masonry|masonry]],
 water-cisterns (two 150 ft. long, 40 ft. broad, 24 ft. deep) and a fine
 underground canal, or aqueduct, half a mile long and cut in the solid
 rock 20 ft. below the surface. Fragments of glazed tiles and brown and
 blue pottery, of thin white and blue Chinese porcelain, of green céladon
 (some with white scroll-work or figures in relief), glass beads,
-bangles, &c., are abundant. Kish is the Kataia of Arrian; Chisi and Quis
+bangles, &c., are abundant. Kish is the Kataia of [[Arrian]]; Chisi and Quis
 of Marco Polo; Quixi, Queis, Caez, Cais, &c., of Portuguese writers; and
 Khenn, or Kenn, of English.
 

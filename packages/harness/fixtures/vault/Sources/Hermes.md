@@ -10,14 +10,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hermes"
 
 HERMES, a Greek god, identified by the Romans with Mercury. The
 derivation of his name and his primitive character are very uncertain.
-The earliest centres of his cult were Arcadia, where Mt. Cyllene was
-reputed to be his birthplace, the islands of Lemnos, Imbros and
-Samothrace, in which he was associated with the Cabeiri and Attica. In
+The earliest centres of his cult were [[Arcadia]], where Mt. [[Cyllene]] was
+reputed to be his birthplace, the islands of [[Lemnos]], [[Imbros]] and
+Samothrace, in which he was associated with the [[Cabeiri]] and Attica. In
 Arcadia he was specially worshipped as the god of fertility, and his
-images were ithyphallic, as also were the "Hermae" at Athens. Herodotus
+[[Image|images]] were ithyphallic, as also were the "Hermae" at Athens. Herodotus
 (ii. 51) states that the Athenians borrowed this type from the
 Pelasgians, thus testifying to the great antiquity of the phallic
-Hermes. At Cyllene in Elis a mere phallus served as his emblem, and was
+Hermes. At Cyllene in [[Eli|Elis]] a mere phallus served as his [[Emblem|emblem]], and was
 highly venerated in the time of Pausanias (vi. 26. 3). Both in
 literature and cult Hermes was constantly associated with the protection
 of cattle and sheep; at Tanagra and elsewhere his title was [Greek:
@@ -33,11 +33,11 @@ naturally a chthonian god; at Athens there was a festival in honour of
 Hermes and the souls of the dead, and Aeschylus (_Persae_, 628) invokes
 Hermes, with Earth and Hades, in summoning a spirit from the underworld.
 The function of a messenger-god may have originated the conception of
-Hermes as a dream-god; he is called the "conductor of dreams" ([Greek:
+Hermes as a dream-god; he is called the "conductor of [[Dream|dreams]]" ([Greek:
 hegetor oneiron]), and the Greeks offered to him the last libation
 before sleep. As a messenger he may also have become the god of roads
 and doorways; he was the protector of travellers and his images were
-used for boundary-marks (see HERMAE). It was a custom to make a cairn of
+used for boundary-marks (see HERMAE). It was a custom to make a [[Cairn|cairn]] of
 stones near the wayside statues of Hermes, each passer-by adding a
 stone; the significance of the practice, which is found in many
 countries, is discussed by Frazer (_Golden Bough_, 2nd ed., iii. 10 f.)
@@ -46,39 +46,39 @@ and Hartland (_Legend of Perseus_, ii. 228). Treasure found in the road
 was attributed to him; but it may be doubted whether his patronage of
 luck in general was developed from his function as a god of roads. As
 the giver of luck he became a deity of gain and commerce ([Greek:
-kerdoos, agoraios]), an aspect which caused his identification with
+kerdoos, agoraios]), an aspect which caused his [[Identification|identification]] with
 Mercury, the Roman god of trade. From this conception his thievish
 character may have been evolved. The trickery and cunning of Hermes is a
-prominent theme in literature from Homer downwards, although it is very
+prominent theme in literature from [[Homer]] downwards, although it is very
 rarely recognized in official cult.[1] In the hymn to Hermes the god
 figures as a precocious child (a type familiar in folk-lore), who when a
-new-born babe steals the cows of Apollo. In addition to these
+new-born babe steals the cows of [[Apollo]]. In addition to these
 characteristics various other functions were assigned to Hermes, who
 developed, perhaps, into the most complete type of the versatile Greek.
 In many respects he was a counterpart of Apollo, less dignified and
 powerful, but more human than his greater brother. Hermes was a patron
-of music, like Apollo, and invented the cithara; he presided over the
-games, with Apollo and Heracles, and his statues were common in the
+of music, like Apollo, and invented the [[Cithara|cithara]]; he presided over the
+[[Games|games]], with Apollo and Heracles, and his statues were common in the
 stadia and gymnasia. He became, in fact, the ideal Greek youth, equally
 proficient in the "musical" and "gymnastic" branches of Greek education.
 On the "musical" side he was the special patron of eloquence ([Greek:
-logios]); in gymnastic, he was the giver of grace rather than of
+logios]); in gymnastic, he was the giver of [[Grace|grace]] rather than of
 strength, which was the province of Heracles. Though athletic, he was
 one of the least militant of the gods; a title [Greek: promachos], the
 Defender, is found only in connexion with a victory of young men
 ("ephebes") in a battle at Tanagra. A further point of contact between
 Hermes and Apollo may here be noted: both had prophetic powers, although
 Hermes held a place far inferior to that of the Pythian god, and
-possessed no famous oracle. Certain forms of popular divination were,
+possessed no famous oracle. Certain forms of popular [[Divination|divination]] were,
 however, under his patronage, notably the world-wide process of
 divination by pebbles ([Greek: thriai]). The "Homeric" Hymn to Hermes
 explains these minor gifts of prophecy as delegated by Apollo, who alone
 knew the mind of Zeus. Only a single oracle is recorded for Hermes, in
 the market-place of Pharae in Achaea, and here the procedure was akin to
-popular divination. An altar, furnished with lamps, was placed before
-the statue; the inquirer, after lighting the lamps and offering incense,
-placed a coin in the right hand of the god; he then whispered his
-question into the ear of the statue, and, stopping his own ears, left
+popular divination. An altar, furnished with [[Lamp|lamps]], was placed before
+the statue; the inquirer, after lighting the lamps and offering [[Incense|incense]],
+placed a [[Coin|coin]] in the right hand of the god; he then whispered his
+question into the [[Ear|ear]] of the statue, and, stopping his own ears, left
 the market place. The first sound which he heard outside was an omen.
 
 From the foregoing account it will be seen that it is difficult to
@@ -89,15 +89,15 @@ which value would now be attached. The Arcadian or "Pelasgic" Hermes may
 have been an earth-deity, as his connexion with fertility suggests; but
 his symbol at Cyllene rather points to a mere personification of
 reproductive powers. According to Plutarch the ancients "set Hermes by
-the side of Aphrodite," i.e. the male and female principles of
-generation; and the two deities were worshipped together in Argos and
+the side of [[Aphrodite]]," i.e. the male and female principles of
+generation; and the two deities were worshipped together in [[Argos]] and
 elsewhere. But this phallic character does not explain other aspects of
 Hermes, as the messenger-god, the master-thief or the ideal Greek
 ephebe. It is impossible to adopt the view that the Homeric poets turned
 the rude shepherd-god of Arcadia into a messenger, in order to provide
 him with a place in the Olympian circle. To their Achaean audience
 Hermes must have been more than a phallic god. It is more probable that
-the Olympian Hermes represents the fusion of several distinct deities.
+the Olympian Hermes represents the [[Fusion|fusion]] of several distinct deities.
 Some scholars hold that the various functions of Hermes may have
 originated from the idea of good luck which is so closely bound up with
 his character. As a pastoral god he would give luck to the flocks and
@@ -112,7 +112,7 @@ the gods ([Greek: Dios ouros]), and that it was often thought to promote
 fertility in crops and cattle. Thus the two aspects of Hermes which seem
 most discordant are referred to a single origin. The Homeric epithet
 [Greek: Argeiphontes], which the Greeks interpreted as "the slayer of
-Argus," inventing a myth to account for Argus, is explained as
+[[Argus]]," inventing a myth to account for Argus, is explained as
 originally an epithet of the wind ([Greek: argestes]), which clears away
 the mists ([Greek: argos, phaino]). The uncertainty of the wind might
 well suggest the trickery of a thief, and its whistling might contain
@@ -133,7 +133,7 @@ the sculptor of a herm at Athens, a copy of which, dating from Roman
 times, was discovered at Pergamum in 1903. But side by side with the
 Hermae there grew up a more anthropomorphic conception of the god. In
 archaic art he was portrayed as a full-grown and bearded man, clothed in
-a long chiton, and often wearing a cap ([Greek: kyne]) or a
+a long [[Chiton|chiton]], and often wearing a cap ([Greek: kyne]) or a
 broad-brimmed hat ([Greek: petasos]), and winged boots. Sometimes he was
 represented in his pastoral character, as when he bears a sheep on his
 shoulders; at other times he appears as the messenger or herald of the

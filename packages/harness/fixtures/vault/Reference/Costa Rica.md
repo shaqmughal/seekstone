@@ -1,12 +1,12 @@
 # Costa Rica
 
-COSTA RICA, a republic of Central America, bounded on the N. by
+COSTA RICA, a republic of [[Central America]], bounded on the N. by
 Nicaragua, E. by the Caribbean Sea, S.E. and S. by Panama, S.W., W. and
-N.W. by the Pacific Ocean. (For map, see CENTRAL AMERICA.) The territory
+N.W. by the Pacific Ocean. (For [[Map|map]], see CENTRAL AMERICA.) The territory
 thus enclosed has an area of about 18,500 sq. m., and may be roughly
 described as an elevated tableland, intersected by lofty mountain
 ranges, with their main axis trending from N.W. to S.E. It is fringed,
-along the coasts, by low-lying marshes and lagoons, alternating with
+along the coasts, by low-lying marshes and [[Lagoon|lagoons]], alternating with
 tracts of rich soil and wastes of sand.
 
 _Physical Description._--The northern frontier, drawn 2 m. S. of the
@@ -23,8 +23,8 @@ shallow landlocked inlet, containing a whole archipelago of
 richly-wooded islets, derives its name from Nicoya, an Indian chief who,
 with his tribe, was here converted to Christianity in the 16th century.
 It is famous for its purple-yielding murex, pearls and mother-of-pearl.
-The Golfo Dulce has an average depth of 100 fathoms and contains no
-islands. Two volcanic _Cordilleras_ or mountain chains, separated from
+The Golfo Dulce has an average depth of 100 [[Fathom|fathoms]] and contains no
+islands. Two volcanic _[[Cordillera|Cordilleras]]_ or mountain chains, separated from
 one another by the central plateau of San José and Cartago, traverse the
 interior of Costa Rica, and form a single watershed, often precipitous
 on its Pacific slope, but descending more gradually towards the
@@ -42,22 +42,22 @@ Vieja (4500), Miravalles (4698) and Tenorio (6800). In this region it is
 known as the Sierra de Tilaran. Then succeed the Cerros de los Guatusos,
 a highland stretching for more than 50 m. without a single volcano. Poas
 (8895), the scene of a violent eruption in 1834, begins a fresh series
-of igneous peaks, some with flooded craters, some with a constant escape
+of igneous peaks, some with flooded [[Crater|craters]], some with a constant escape
 of smoke and vapour. From Irazú (11,200), the culminating point of the
 range, both oceans and the whole of Costa Rica are visible; its altitude
-exceeds that of Aneto, the highest point in the Pyrenees, but so gradual
+exceeds that of Aneto, the highest point in the Pyrenees, but so [[Gradual|gradual]]
 is its acclivity that the summit can easily be reached by a man on
 horseback. Turialba (10,910), adjoining Irazú on the east, was in
 eruption in 1866. Its name, though probably of Indian origin, is
 sometimes written Turrialba, and connected with the Latin _Turris Alba_,
-"White Tower." The more southerly of the two Costa Rican ranges, known
+"White Tower." The more southerly of the two [[Costa]] Rican ranges, known
 as the Cordillera de Talamanca, rises south of the Gulf of Nicoya, and
 extends midway between the two oceans towards the south-east. It follows
 exactly the curve of the mainland, and is continued into Panama, under
 the name of the Cordillera de Chiriqui. Its chief summits are Chirripo
 Grande (11,485), the loftiest in the whole country, Buena Vista
 (10,820), Ujum (8695), Pico Blanco (9645) and Rovalo (7050), on the
-borders of Panama. Throughout the volcanic area earthquakes and
+[[Borders|borders]] of Panama. Throughout the volcanic area earthquakes and
 landslides are of frequent occurrence.
 
 The narrowness of the level ground between the mountains and the sea
@@ -72,7 +72,7 @@ central plateau to the Caribbean Sea; despite the shortness of its
 valley, its volume is considerable, owing to the prevalence of moist
 trade-winds near its sources. Six small streams and one large river, the
 Rio Frio, flow across the northern frontier into Lake Nicaragua. On the
-Pacific coast all the rivers are rapid and liable to sudden floods. None
+Pacific coast all the rivers are rapid and liable to sudden [[Flood|floods]]. None
 is large, although three bear the prefix _Rio Grande_, "great river."
 The Tempisque enters the Pacific at the head of the Gulf of Nicoya, and
 tends to silt up that already shallow inlet (5-10 fathoms) with its
@@ -95,18 +95,18 @@ entire country, it is possible to distinguish three climatic
 zones--tropical, temperate and cold. These generally succeed one another
 as the altitude increases, although the heat is greater at the same
 elevation on the Pacific than on the Atlantic coast. It is, however,
-less oppressive, as cool breezes prevail and damp is comparatively rare.
+less oppressive, as cool [[Breeze|breezes]] prevail and damp is comparatively rare.
 The tropical zone comprises the coast and the foothills, and ranges, in
 its mean annual temperature, from 72° F. to 82°. In the San José plateau
 (3000-5000 ft.), which is the most densely populated portion of the
 temperate zone, the average is 68°, with an average variation for all
-seasons of only 5°. Above 7500 ft. frosts are frequent, but snow rarely
+seasons of only 5°. Above 7500 ft. [[Frost|frosts]] are frequent, but snow rarely
 falls. The wet season, lasting during the prevalence of the south-west
 monsoon, from April to December, is clearly defined on the Pacific
 slope. It is curiously interrupted by a fortnight of dry weather, known
 as the _Veranillo de San Juan_, in June. Towards the Atlantic the
 trade-winds may bring rain in any month. Winter lasts from December to
-February. The normal rainfall is about 80 in., but as cloud-bursts are
+February. The normal rainfall is about 80 in., but as [[Cloud-Burst|cloud-bursts]] are
 common, it may rise to 150 in. or even more. Rheumatism on the Atlantic
 seaboard, and malaria on both coasts, are the commonest forms of
 disease; but, as a whole, Costa Rica is one of the healthiest of
@@ -114,7 +114,7 @@ tropical lands.
 
 _Population._--In 1904, according to the official returns, the total
 population numbered 331,340; having increased by more than one-fourth in
-a decade. Spanish, with various modifications of dialect, and the
+a decade. Spanish, with various modifications of [[Dialect|dialect]], and the
 introduction of many Indian words, is the principal language; and the
 majority of the inhabitants claim descent from the Spanish
 colonists--chiefly Galicians--who came hither during the 16th and
@@ -131,7 +131,7 @@ known as Prazos or Guatusos, in the Talamanca country and elsewhere.
 Their numbers may be estimated at 4000. They are a quiet and inoffensive
 folk, who dwell in stockaded encampments, and preserve their ancestral
 language and customs. For an account of early Indian civilization in
-Costa Rica, see CENTRAL AMERICA: Archaeology. The Mosquito Indians come
+Costa Rica, see CENTRAL AMERICA: [[Archaeology]]. The Mosquito Indians come
 every summer to fish for turtle off the Atlantic coast. As only 200
 negroes were settled in Costa Rica when slavery was abolished in 1824,
 and no important increase ever took place through immigration, the black
@@ -162,9 +162,9 @@ telegraphic services are also somewhat inadequate.
 _Agriculture and Industries._--The name "Costa Rica," meaning "rich
 coast," is well deserved; for, owing to the combination of ample
 sunshine and moisture with a wonderfully fertile soil, almost any kind
-of fruit or flower can be successfully cultivated; while the vast tracts
+of fruit or [[Flower|flower]] can be successfully cultivated; while the vast tracts
 of virgin forest, which remain along the Atlantic slopes, contain an
-abundance of cedar, mahogany, rosewood, rubber and ebony, with fustic
+abundance of cedar, mahogany, rosewood, rubber and ebony, with [[Fustic|fustic]]
 and other precious dye-woods. The country is essentially agricultural,
 and owes its political stability to the presence of a large class of
 peasant proprietors, who number more than two-thirds of the population.
@@ -173,18 +173,18 @@ José. The special adaptability of this region to its growth is
 attributed to the nature of the soil, which consists of layers of black
 or dark-brown volcanic ash, varying in depth from 1 to 6 yds. Bananas
 are grown over a large and increasing area; rice, maize, barley,
-potatoes and beans are cultivated to some extent in the interior; cocoa,
+potatoes and [[Bean|beans]] are cultivated to some extent in the interior; [[Cocoa|cocoa]],
 vanilla, sugar-cane, cotton and indigo are products of the warm
 coast-lands, but are hardly raised in sufficient quantities to meet the
 local demand. Stock-farming, a relatively undeveloped industry, tends to
 become more important, owing to the assistance which the state renders
 by the importation of horses, cattle, sheep and swine, from Europe and
 the United States, in order to improve the native breeds. In the
-south-east farmers are often compelled to retire with their flocks and
+south-east [[Farmer|farmers]] are often compelled to retire with their flocks and
 herds before the thousands of huge, migratory vampires, which descend
 suddenly on the pastures and are able in one night to bleed the
 strongest animal to death. The manufactures are insignificant; and
-although silver, copper, iron, zinc, lead and marble are said to exist
+although silver, copper, iron, zinc, lead and [[Marble|marble]] are said to exist
 in considerable quantities, the only ores that have been worked are
 gold, silver and copper. At the beginning of the 20th century the silver
 and copper mines had been abandoned. The goldfields are exploited with
@@ -200,7 +200,7 @@ almost equal value. Nearly 85% of the coffee, or more than 20,000,000
 lb., were sent to Great Britain. The development of the banana trade
 dates from 1881, when 3500 bunches of fruit were exported to New
 Orleans. This total increased very rapidly, and in 1902 a monthly
-service of steamers was established from Limon to Bristol and
+service of steamers was established from Limon to [[Bristol]] and
 Manchester. The service to England soon became a weekly one, while there
 are at least three weekly sailings to the United States. In 1904 the
 number of bunches sent abroad exceeded 6,000,000. So important is this
@@ -212,14 +212,14 @@ foreign trade passes through Limon and Puntarenas. In 1904, exclusive of
 banana steamers, there were regular steamship services weekly from Limon
 to the United States and Germany, fortnightly to Great Britain, and
 monthly to France, Italy and Spain; while at Puntarenas four American
-liners called monthly on the voyage between San Francisco and Panama.
+[[Liner|liners]] called monthly on the voyage between San Francisco and Panama.
 
 _Finance._--The valuable resources of the republic, and its comparative
 immunity from revolution, formerly attracted the attention of European
 and American investors, who supplied the capital for internal
 development. In 1871 the government contracted a loan of £1,000,000 in
 London, and in 1872 it borrowed an additional £2,400,000 for railway
-construction. The outstanding foreign debt amounted in 1887 to
+construction. The outstanding foreign [[Debt|debt]] amounted in 1887 to
 £2,691,300, while the arrears of interest were no less than £2,119,500.
 An arrangement with the creditors was concluded in 1888; but in 1895 the
 republic again became bankrupt, and a fresh arrangement was sanctioned
@@ -235,16 +235,16 @@ revenue was £503,000, the expenditure £390,000. Education, internal
 development and the service of the internal debt were the chief sources
 of expenditure.
 
-_Money and Credit._--There are three important banks, the Anglo-Costa
+_Money and [[Credit]]._--There are three important banks, the Anglo-Costa
 Rican Bank, with a capital of £120,000, the Bank of Costa Rica
 (£200,000), and the Commercial Bank of Costa Rica (£100,000), founded in
 1905. On the 25th of April 1900 a law was enacted for the regulation of
 the constitution, capital, note emission and metallic reserves of banks.
 On the 24th of October 1896 an act was passed for the adoption of a gold
 coinage, and the execution of this act was decreed on the 17th of April
-1900. The monetary unit is the gold colon weighing .778 gramme, .900
+1900. The monetary unit is the gold [[Colon|colon]] weighing .778 gramme, .900
 fine, and thus worth about 23d. It is legally equivalent to the silver
-peso, which continues in circulation. The gold coins of the United
+peso, which continues in circulation. The gold [[Coin|coins]] of the United
 States, Great Britain, France and Germany are legally current. The
 metric system of weights and measures was introduced by law in 1884, but
 the old Spanish system is still in use.
@@ -257,7 +257,7 @@ Representatives, consisting of about 30 to 40 deputies, or one for every
 local electoral colleges, whose members are returned by the votes of all
 self-supporting citizens. One-half of the chamber retires automatically
 every two years. The president and three vice-presidents constitute the
-executive. They are assisted by a cabinet of four ministers,
+executive. They are assisted by a [[Cabinet|cabinet]] of four ministers,
 representing the departments of the interior, police and public works;
 foreign affairs, justice, religion and education; finance and commerce;
 war and marine. For purposes of local administration the state is
@@ -273,7 +273,7 @@ supplemented by various inferior tribunals.
 _Religion and Education._--The Roman Catholic Church is supported by the
 state, and the vast majority of the people accept its doctrines; but
 complete religious liberty is guaranteed by the constitution. The
-Jesuits, who formerly exercised widespread influence, were expelled in
+[[Jesuits]], who formerly exercised widespread influence, were expelled in
 1884. Of the other religious communities, the most important are the
 Protestants, numbering 3000, and the Buddhists, about 250. Primary
 education is free and compulsory; the standard of attendance is high and
@@ -309,7 +309,7 @@ remarked by their conquerors. He quotes evidence to show that this name
 was known to 16th-century cartographers.
 
 With the rest of Central America, Costa Rica remained a province of the
-Spanish captaincy-general of Guatemala until 1821. Its conquest was
+Spanish captaincy-general of [[Guatemala]] until 1821. Its conquest was
 completed by 1530, and ten years later it was made a separate province,
 the limits of which were fixed, by order of Philip II., between 1560 and
 1573. This task was principally executed by Juan Vazquez de Coronado (or
@@ -318,7 +318,7 @@ whose civilizing work was undone by the almost uninterrupted
 maladministration of his fifty-eight successors. The Indians were
 enslaved, and their welfare was wholly subordinated to the quest for
 gold. From 1666 onwards both coasts were ravaged by pirates, who
-completed the ruin of the country. Diego de la Haya y Fernandez,
+completed the ruin of the country. Diego de la Haya y [[Fernandez]],
 governor in 1718, reported to the crown that no province of Spanish
 America was in so wretched a condition. Cocoa-beans were the current
 coinage. Tomás de Acosta, governor from 1797 to 1809, confirmed this
@@ -332,7 +332,7 @@ dynasty of Iturbide; but this subjection never became popular, and, on
 the establishment of a Mexican republic in 1823, hostilities broke out
 between the Conservatives, who desired to maintain the union, and the
 Liberals, who wished to set up an independent republic. The opposing
-factions met near the Ochomogo Pass; the republicans were victorious,
+[[Faction|factions]] met near the Ochomogo Pass; the republicans were victorious,
 and the seat of government was transferred from Cartago, the old
 capital, to San José, the Liberal headquarters. From 1824 to 1839 Costa
 Rica joined the newly formed Republic of the United States of Central
@@ -350,7 +350,7 @@ America failed in 1885, and had little influence on Costa Rican affairs.
 In 1897 the state joined the Greater Republic of Central America,
 established in 1895 by Honduras, Nicaragua and Salvador, but dissolved
 in 1898. The boundary question between Costa Rica and Nicaragua was
-referred to the arbitration of the president of the United States, who
+referred to the [[Arbitration|arbitration]] of the president of the United States, who
 gave his award in 1888, confirming a treaty of 1858; further
 difficulties arising from the work of demarcation were settled by treaty
 in 1896. The boundary between Costa Rica and Panama (then a province of
@@ -368,13 +368,13 @@ accordance with these awards have already been described.
   her Future_ (Washington, 1889); M. M. de Peralta, _Costa Rica_
   (London, 1873). For an account of immigration, commerce and other
   mainly statistical matters, see J. Schroeder, _Costa Rica State
-  Immigration_ (San José, 1894); _Bulletins_ of the Bureau of American
+  Immigration_ (San José, 1894); _Bulletins_ of the [[Bureau]] of American
   Republics (Washington); British _Diplomatic and Consular Reports_
   (London); U.S.A. _Consular Reports_ (Washington); _Reports of the
   Ministries_ (San José). For the history of Costa Rica, see L. Z.
   Baron, _Compendio de la historia de Costa Rica_ (San José, 1894); F.
   M. Barrantes, _Elementos de historia de Costa Rica_ (San José, 1892);
-  J. B. Calvo, _The Republic of Costa Rica_ (Chicago, 1890), gives a
+  J. B. Calvo, _The Republic of Costa Rica_ ([[Chicago]], 1890), gives a
   partisan account of local politics, trade and finance, authorized by
   the government. Frontier questions are discussed fully in Col. G. E.
   Church's "Costa Rica," a very valuable paper in vol. x. of the

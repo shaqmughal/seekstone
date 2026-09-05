@@ -33,7 +33,7 @@ to independent motion, whereby the interior of each rises and flows
 centrifugally towards the edges. As the spaces between them are always
 filled with water, these masses are prevented from coalescing. The
 softer parts of the lake constantly evolve gas, which is stated to
-consist largely of carbon dioxide and sulphuretted hydrogen, and the
+consist largely of [[Carbon|carbon]] dioxide and sulphuretted hydrogen, and the
 pitch, which is honeycombed with gas-cavities, continues to exhibit this
 action for some time after its removal from the lake. The working of the
 deposit is in the hands of the New Trinidad Asphalt Company, who hold
@@ -48,11 +48,11 @@ and if the average depth be taken at 20 ft. this would give a total of
 3,168,000 tons; but in 1908, though 1,885,600 tons had been removed in
 the previous thirty-five years, there was but little evidence of
 reduction in the quantity. The Venezuelan deposit already referred to is
-in the state of Bermudez, and the area of it is reported to be more than
+in the state of [[Bermudez]], and the area of it is reported to be more than
 1000 acres. The asphalt of Cuba is a well-known article of commerce, of
 which 7252 tons was exported to the United States in 1902. The principal
 deposits are near the harbour of Cardenas (70 ft. thick), in the Pinar
-del Rio, near Havana (18 ft. thick), at Canas Tomasita (105 ft. thick);
+del Rio, near Havana (18 ft. thick), at [[Cana|Canas]] Tomasita (105 ft. thick);
 and a specially pure variety near Vuelta.
 
 The comparative composition of Trinidad and Cuba asphalt is given in the
@@ -88,7 +88,7 @@ asphalt:--
                                                 Refined    Refined
                                                Trinidad.  Bermudez.
   Specific gravity at 60 deg. F.                 1.373      1.071
-  Bitumen soluble in carbon bisulphide.         61.507 %    92.22  %
+  Bitumen soluble in [[Carbon Bisulphide|carbon bisulphide]].         61.507 %    92.22  %
   Mineral matter (ash).                         34.51  "     1.50  "
   Non-bituminous organic matter.                 3.983 "     1.28  "
   Portion of total bitumen soluble in alcohol.   8.24  "    11.66  "
@@ -107,17 +107,17 @@ employed in building as a "damp-course" and as a water-excluding coating
 for concrete floors, as well as in the manufacture of roofing-felt. It
 also enters largely into the composition of black varnish. The material
 chiefly used in the construction of asphalt roadways is an asphaltic or
-bituminous limestone found in the Val de Travers, canton of Neuchatel;
+bituminous [[Limestone|limestone]] found in the Val de Travers, canton of Neuchatel;
 in the neighbourhood of Seyssel, department of Ain; at Limmer, near the
-city of Hanover; and elsewhere. The proportion of bitumen present in
+city of [[Hanover]]; and elsewhere. The proportion of bitumen present in
 asphalt rock usually ranges from 7 to 20%, but it is found that rock
 containing more than 11% cannot be satisfactorily used for street
 pavements, and it is accordingly customary to mix the richer and poorer
 varieties in fine powder in such respective quantities that the
 proportion of bitumen present is from 9 to 10%. The richer rock is
-utilized as a source of asphalt "mastic," which is employed for
+utilized as a source of asphalt "[[Mastic|mastic]]," which is employed for
 footpaths, floors, roofs, &c. Excellent foundations for steam-hammers,
-dynamos and high-speed engines are made of asphaltic concrete.
+[[Dynamo|dynamos]] and high-speed engines are made of asphaltic concrete.
      (B. R.)
 
 ## See also

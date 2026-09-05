@@ -10,10 +10,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Isyllus"
 ISYLLUS, a Greek poet, whose name was rediscovered in the course of
 excavations on the site of the temple of Asclepius at Epidaurus. An
 inscription was found engraved on stone, consisting of 72 lines of verse
-(trochaic tetrameters, hexameters, ionics), mainly in the Doric dialect.
+(trochaic tetrameters, hexameters, ionics), mainly in the Doric [[Dialect|dialect]].
 It is preceded by two lines of prose stating that the author was
 Isyllus, an Epidaurian, and that it was dedicated to Asclepius and
-Apollo of Malea. It contains a few political remarks, showing general
+[[Apollo]] of Malea. It contains a few political remarks, showing general
 sympathy with an aristocratic form of government; a self-congratulatory
 notice of the resolution, passed at the poet's instigation, to arrange a
 solemn procession in honour of the two gods; a paean (no doubt for use

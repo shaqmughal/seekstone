@@ -7,7 +7,7 @@ id: 42-5276
 
 # Aubade
 
-AUBADE (a French word from _aube_, the dawn), the dawn-song of the
+AUBADE (a French word from _[[Aube|aube]]_, the dawn), the dawn-song of the
 troubadours of Provence, developed by the Minnesingers (q.v.) of Germany
 into the _Tagelied_, the song of the parting at dawn of lovers at the
 warning of the watchman. In France in modern times the term is applied

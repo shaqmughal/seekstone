@@ -66,7 +66,7 @@ who would otherwise have engaged in public affairs to addict themselves
 to literary pursuits. These causes came into full operation during the
 Alexandrian era, in which we find every description of epigrammatic
 composition perfectly developed. About 60 B.C., the sophist and poet,
-Meleager of Gadara, undertook to combine the choicest effusions of his
+Meleager of [[Gadara]], undertook to combine the choicest effusions of his
 predecessors into a single body of fugitive poetry. Collections of
 monumental inscriptions, or of poems on particular subjects, had
 previously been formed by Polemon Periegetes and others; but Meleager
@@ -106,7 +106,7 @@ of the 10th century. He appears to have merely made excerpts from the
 existing anthologies, with the addition of selections from Lucillius,
 Palladas, and other epigrammatists, whose compositions had been
 published separately. His arrangement, to which we shall have to recur,
-is founded on a principle of classification, and nearly corresponds to
+is founded on a principle of [[Classification|classification]], and nearly corresponds to
 that adopted by Agathias. His principle of selection is unknown; it is
 only certain that while he omitted much that he should have retained, he
 has preserved much that would otherwise have perished. The extent of our
@@ -128,13 +128,13 @@ transcript of Cephalas.
   Brunck's _Analecta Veterum Poetarum Graecorum_. The MS. itself had
   frequently changed its quarters. In 1623, having been taken in the
   sack of Heidelberg in the Thirty Years' War, it was sent with the rest
-  of the Palatine Library to Rome as a present from Maximilian I. of
+  of the Palatine Library to Rome as a present from [[Maximilian]] I. of
   Bavaria to Gregory XV., who had it divided into two parts, the first
   of which was by far the larger; thence it was taken to Paris in 1797.
   In 1816 it went back to Heidelberg, but in an incomplete state, the
   second part remaining at Paris. It is now represented at Heidelberg by
   a photographic facsimile. Brunck's edition was superseded by the
-  standard one of Friedrich Jacobs (1794-1814, 13 vols.), the text of
+  standard one of [[Friedrich]] [[Jacob|Jacobs]] (1794-1814, 13 vols.), the text of
   which was reprinted in a more convenient form in 1813-1817, and
   occupies three pocket volumes in the Tauchnitz series of the classics.
   The best edition for general purposes is perhaps that of Dubner in
@@ -143,7 +143,7 @@ transcript of Cephalas.
   the former, an appendix of pieces derived from other sources, copious
   notes selected from all quarters, a literal Latin prose translation by
   Boissonade, Bothe, and Lapaume and the metrical Latin versions of Hugo
-  Grotius. A third volume, edited by E. Cougny, was published in 1890.
+  [[Grotius]]. A third volume, edited by E. Cougny, was published in 1890.
   The best edition of the Planudean Anthology is the splendid one by van
   Bosch and van Lennep (1795-1822). There is also a complete edition of
   the text by Stadlmuller in the Teubner series.
@@ -151,7 +151,7 @@ transcript of Cephalas.
 _Arrangement._--The Palatine MS., the archetype of the present text, was
 transcribed by different persons at different times, and the actual
 arrangement of the collection does not correspond with that signalized
-in the index. It is as follows: Book 1. Christian epigrams; 2.
+in the [[Index|index]]. It is as follows: Book 1. Christian epigrams; 2.
 Christodorus's description of certain statues; 3. Inscriptions in the
 temple at Cyzicus; 4. The prefaces of Meleager, Philippus, and Agathias
 to their respective collections; 5. Amatory epigrams; 6. Votive
@@ -180,13 +180,13 @@ each stratum of soil enshrines the vestiges of a distinct epoch, but
 where all epochs, nevertheless, combine to constitute an organic whole,
 and the transition from one to the other is hardly perceptible. Four
 stages may be indicated:--1. The Hellenic proper, of which Simonides of
-Ceos (c. 556-469 B.C.), the author of most of the sepulchral
+[[Ceos]] (c. 556-469 B.C.), the author of most of the sepulchral
 inscriptions on those who fell in the Persian wars, is the
 characteristic representative. This is characterized by a simple dignity
 of phrase, which to a modern taste almost verges upon baldness, by a
 crystalline transparency of diction, and by an absolute fidelity to the
 original conception of the epigram. Nearly all the pieces of this era
-are actual _bona fide_ inscriptions or addresses to real personages,
+are actual _[[Bona|bona]] fide_ inscriptions or addresses to real personages,
 whether living or deceased; narratives, literary exercises, and sports
 of fancy are exceedingly rare. 2. The epigram received a great
 development in its second or Alexandrian era, when its range was so
@@ -202,7 +202,7 @@ the transformation of political life, but may be said to commence with
 and to find its best representative in the playful and elegant Leonidas
 of Tarentum, a contemporary of Pyrrhus, and to close with Antipater of
 Sidon, about 140 B.C. (or later). It should be noticed, however, that
-Callimachus, one of the most distinguished of the Alexandrian poets,
+[[Callimachus]], one of the most distinguished of the Alexandrian poets,
 affects the sternest simplicity in his epigrams, and copies the
 austerity of Simonides with as much success as an imitator can expect.
 3. By a slight additional modification in the same direction, the
@@ -223,7 +223,7 @@ philosophy. His gaiety and licentiousness are imitated and exaggerated
 by his somewhat later contemporary, the Epicurean Philodemus, perhaps
 the liveliest of all the epigrammatists; his fancy reappears with
 diminished brilliancy in Philodemus's contemporary, Zonas, in
-Crinagoras, who wrote under Augustus, and in Marcus Argentarius, of
+[[Crinagoras]], who wrote under Augustus, and in Marcus Argentarius, of
 uncertain date; his peculiar gorgeousness of colouring remains entirely
 his own. At a later period of the empire another _genre_, hitherto
 comparatively in abeyance, was developed, the satirical. Lucillius, who
@@ -233,8 +233,8 @@ frequently embodying moral reflexions of great cogency, often lashing
 vice and folly with signal effect, but not seldom indulging in mere
 trivialities, or deformed by scoffs at personal blemishes. This style of
 composition is not properly Greek, but Roman; it answers to the modern
-definition of epigram, and has hence attained a celebrity in excess of
-its deserts. It is remarkable, however, as an almost solitary example of
+[[Definition|definition]] of epigram, and has hence attained a celebrity in excess of
+its [[Desert|deserts]]. It is remarkable, however, as an almost solitary example of
 direct Latin influence on Greek literature. The same style obtains with
 Palladas, an Alexandrian grammarian of the 4th century, the last of the
 strictly classical epigrammatists, and the first to be guilty of
@@ -283,7 +283,7 @@ accuracy upon the undisciplined luxuriance of modern genius.
   They have not been printed separately, but will be found in Bosch and
   Lennep's edition of the Planudean _Anthology_, in the Didot edition,
   and in Dr Wellesley's _Anthologia Polyglotta_. The number of more or
-  less professed imitations in modern languages is infinite, that of
+  less professed imitations in modern languages is [[Infinite|infinite]], that of
   actual translations less considerable. French and Italian, indeed, are
   ill adapted to this purpose, from their incapacity of approximating to
   the form of the original, and their poets have usually contented
@@ -300,30 +300,30 @@ accuracy upon the undisciplined luxuriance of modern genius.
   chiefly attributed to the extremely low standard of fidelity and
   brevity observed by them. Bland, Merivale, and their associates
   (1806-1813), are often intolerably diffuse and feeble, from want, not
-  of ability, but of taking pains. Archdeacon Wrangham's too rare
+  of ability, but of taking pains. [[Archdeacon]] Wrangham's too rare
   versions are much more spirited; and John Sterling's translations of
   the inscriptions of Simonides deserve high praise. Professor Wilson
   (_Blackwood's Magazine_, 1833-1835) collected and commented upon the
   labours of these and other translators, with his accustomed critical
   insight and exuberant geniality, but damaged his essay by burdening it
-  with the indifferent attempts of William Hay. In 1849 Dr Wellesley,
+  with the indifferent attempts of William [[Hay]]. In 1849 Dr Wellesley,
   principal of New Inn Hall, Oxford, published his _Anthologia
   Polyglotta_, a most valuable collection of the best translations and
   imitations in all languages, with the original text. In this appeared
   some admirable versions by Goldwin Smith and Dean Merivale, which,
   with the other English renderings extant at the time, will be found
   accompanying the literal prose translation of the _Public School
-  Selections_, executed by the Rev. George Burges for Bohn's Classical
+  Selections_, executed by the Rev. George [[Burges]] for Bohn's Classical
   Library (1854). This is a useful volume, but the editor's notes are
   worthless. In 1864 Major R.G. Macgregor published an almost complete
   translation of the Anthology, a work whose stupendous industry and
   fidelity almost redeem the general mediocrity of the execution.
-  _Idylls and Epigrams_, by R. Garnett (1869, reprinted 1892 in the
+  _Idylls and Epigrams_, by R. [[Garnett]] (1869, reprinted 1892 in the
   Cameo series), includes about 140 translations or imitations, with
   some original compositions in the same style. Recent translations
   (selections) are: J.W. Mackail, _Select Epigrams from the Greek
   Anthology_ (with text, introduction, notes, and prose translation),
-  1890, revised 1906, a most charming volume; Graham R. Tomson (Mrs
+  1890, revised 1906, a most charming volume; [[Graham]] R. Tomson (Mrs
   Marriott Watson), _Selections from the Greek Anthology_ (1889); W.H.D.
   Rouse, _Echo of Greek Song_ (1899); L.C. Perry, _From the Garden of
   Hellas_ (New York, 1891); W.R. Paton, _Love Epigrams_ (1898). An
@@ -340,7 +340,7 @@ accuracy upon the undisciplined luxuriance of modern genius.
 
 _Latin Anthology._--The _Latin Anthology_ is the appellation bestowed
 upon a collection of fugitive Latin verse, from the age of Ennius to
-about A.D. 1000, formed by Peter Burmann the Younger. Nothing
+about A.D. 1000, formed by Peter [[Burmann]] the Younger. Nothing
 corresponding to the Greek anthology is known to have existed among the
 Romans, though professional epigrammatists like Martial published their
 volumes on their own account, and detached sayings were excerpted from
@@ -363,15 +363,15 @@ appeared in 1869-1870, a second edition of the first part in 1894, and
 the second volume, _Carmina Epigraphica_ (in two parts), in 1895-1897,
 edited by F. Bucheler. An _Anthologiae Latinae Supplementa_, in the same
 series, followed. Having been formed by scholars actuated by no
-aesthetic principles of selection, but solely intent on preserving
+aesthetic principles of selection, but solely [[Intent|intent]] on preserving
 everything they could find, the Latin anthology is much more
 heterogeneous than the Greek, and unspeakably inferior. The really
-beautiful poems of Petronius and Apuleius are more properly inserted in
+beautiful poems of Petronius and [[Apuleius]] are more properly inserted in
 the collected editions of their writings, and more than half the
 remainder consists of the frigid conceits of pedantic professional
 exercises of grammarians of a very late period of the empire, relieved
 by an occasional gem, such as the apostrophe of the dying Hadrian to his
-spirit, or the epithalamium of Gallienus. The collection is also, for
+spirit, or the epithalamium of [[Gallienus]]. The collection is also, for
 the most part, too recent in date, and too exclusively literary in
 character, to add much to our knowledge of classical antiquity. The
 epitaphs are interesting, but the genuineness of many of them is very

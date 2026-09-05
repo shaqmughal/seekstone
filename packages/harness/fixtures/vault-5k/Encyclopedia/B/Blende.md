@@ -46,7 +46,7 @@ transparent; usually, however, the mineral is yellow, brown or black,
 and often opaque, the depth of colour and degree of transparency
 depending on the amount of iron present. The streak, or colour of the
 powder, is brownish or light yellow, rarely white. The lustre is
-resinous to adamantine, and the index of refraction high (2.369 for
+resinous to adamantine, and the [[Index|index]] of refraction high (2.369 for
 sodium light). The substance is usually optically isotropic, though
 sometimes it exhibits anomalous double refraction; fibrous zinc sulphide
 which is doubly refracting is to be referred to the hexagonal species
@@ -72,12 +72,12 @@ is known in Germany as _Schalenblende_ or _Leberblende_.
 
 A few varieties of blende are distinguished by special names, these
 varieties depending on differences in colour and chemical composition. A
-pure white blende from Franklin in New Jersey is known as cleiophane;
+pure white blende from [[Franklin]] in New Jersey is known as cleiophane;
 snow-white crystals are also found at Nordmark in Vermland, Sweden.
 Black blende containing ferrous sulphide, in amounts up to 15 or 20%
 isomorphously replacing zinc sulphide, is known as marmatite (from
 Marmato near Guayabal in Colombia, South America) and christophite (from
-St Christophe mine at Breitenbrunn near Eibenstock in Saxony).
+St Christophe mine at Breitenbrunn near [[Eibenstock]] in Saxony).
 Transparent blende of a red or reddish-brown colour, such as that found
 near Holywell in Flintshire, is known as "ruby-blende" or "ruby-zinc."
 Pribramite is the name given to a cadmiferous blende from Pribram in
@@ -85,26 +85,26 @@ Bohemia. Other varieties contain small amounts of mercury, tin,
 manganese or thallium. The elements gallium and indium were discovered
 in blende.
 
-Blende occurs in metalliferous veins, often in association with galena,
-also with chalcopyrite, barytes, fluorspar, &c. In ore-deposits
+Blende occurs in metalliferous veins, often in association with [[Galena|galena]],
+also with chalcopyrite, [[Barytes|barytes]], fluorspar, &c. In ore-deposits
 containing both lead and zinc, such as those filling cavities in the
-limestones of the north of England and of Missouri, the galena is
+[[Limestone|limestones]] of the north of England and of Missouri, the galena is
 usually found in the upper part of the deposit, the blende not being
 reached until the deeper parts are worked. Blende is also found
 sporadically in sedimentary rocks; for example, in nodules of
-clay-ironstone in the Coal Measures, in the cement-doggers of the Lias,
+clay-ironstone in the Coal Measures, in the cement-doggers of the [[Lias]],
 and in the casts of fossil shells. It has occasionally been found on the
 old timbers of mines. In these cases the zinc sulphide has probably
 arisen from the reduction of sulphate by organic matter.
 
 Localities for fine crystallized specimens are numerous. Mention may be
 made of the brilliant black crystals from Alston Moor in Cumberland, St
-Agnes in Cornwall and Derbyshire. Yellow crystals are found at
+Agnes in [[Cornwall]] and Derbyshire. Yellow crystals are found at
 Kapnik-Banya, near Nagy-Banya in Hungary. Transparent yellow cleavage
 masses of large size occur in limestone in the zinc mines at Picos de
-Europa in the province of Santander, Spain. Beautiful isolated
+[[Europa]] in the province of Santander, Spain. Beautiful isolated
 tetrahedra of transparent yellow blende are found in the snow-white
-crystalline dolomite of the Binnenthal in the Valais, Switzerland.
+crystalline [[Dolomite|dolomite]] of the Binnenthal in the Valais, Switzerland.
      (L. J. S.)
 
 ## See also

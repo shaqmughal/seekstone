@@ -1,12 +1,12 @@
 # Defoe
 
-DEFOE, DANIEL (c. 1659-1731), English author, was born in the parish of
-St Giles, Cripplegate, London, in the latter part of 1659 or early in
+DEFOE, [[Daniel|DANIEL]] (c. 1659-1731), English author, was born in the parish of
+St [[Giles]], Cripplegate, London, in the latter part of 1659 or early in
 1660, of a nonconformist family. His grandfather, Daniel Foe, lived at
 Etton, Northamptonshire, apparently in comfortable circumstances, for he
 is said to have kept a pack of hounds. As to the variation of name,
 Defoe or Foe, its owner signed either indifferently till late in life,
-and where his initials occur they are sometimes D. F. and sometimes D.
+and where his [[Initials|initials]] occur they are sometimes D. F. and sometimes D.
 D. F. Three autograph letters of his are extant, all addressed in 1705
 to the same person, and signed respectively D. Foe, de Foe and Daniel
 Defoe. His father, James Foe, was a butcher and a citizen of London.
@@ -25,7 +25,7 @@ from the clutches of the king's troops and the law, to his being a
 Londoner, and therefore a stranger in the west country. On the 26th of
 January 1688 he was admitted a liveryman of the city of London, having
 claimed his freedom by birth. Before his western escapade he had taken
-up the business of hosiery factor. At the entry of William and Mary into
+up the business of [[Hosiery|hosiery]] factor. At the entry of William and Mary into
 London he is said to have served as a volunteer trooper "gallantly
 mounted and richly accoutred." In these days he lived at Tooting, and
 was instrumental in forming a dissenting congregation there. His
@@ -33,7 +33,7 @@ business operations at this period appear to have been extensive and
 various. He seems to have been a sort of commission merchant, especially
 in Spanish and Portuguese goods, and at some time to have visited Spain
 on business. In 1692 he failed for L17,000. His misfortunes made him
-write both feelingly and forcibly on the bankruptcy laws; and although
+write both feelingly and forcibly on the [[Bankruptcy|bankruptcy]] laws; and although
 his creditors accepted a composition, he afterwards honourably paid them
 in full, a fact attested by independent and not very friendly witnesses.
 Subsequently, he undertook first the secretaryship and then the
@@ -49,7 +49,7 @@ the "glorious and immortal" king, and in 1695 he was appointed
 accountant to the commissioners of the glass duty, an office which he
 held for four years. During this time he produced his _Essay on
 Projects_ (1698), containing suggestions on banks, road-management,
-friendly and insurance societies of various kinds, idiot asylums,
+friendly and insurance societies of various kinds, idiot [[Asylum|asylums]],
 bankruptcy, academies, military colleges, high schools for women, &c. It
 displays Defoe's lively and lucid style in full vigour, and abounds with
 ingenious thoughts and apt illustrations, though it illustrates also the
@@ -63,7 +63,7 @@ things, yet he denounced the impropriety of requiring tests at all. In
 support of the government he published, in 1698, _An Argument for a
 Standing Army_, followed in 1700 by a defence of William's war policy
 called _The Two Great Questions considered_, and a set of pamphlets on
-the Partition Treaty. Thus in political matters he had the same fate as
+the Partition Treaty. Thus in political matters he had the same [[Fate|fate]] as
 in ecclesiastical; for the Whigs were no more prepared than the Tories
 to support William through thick and thin. He also dealt with the
 questions of stock-jobbing and of electioneering corruption. But his
@@ -102,7 +102,7 @@ forcible terms of the extreme "high-flying" position, which some high
 churchmen were unwary enough to endorse, without any suspicion of the
 writer's ironical intention. The author was soon discovered; and, as he
 absconded, an advertisement was issued offering a reward for his
-apprehension, and giving the only personal description we possess of
+[[Apprehension|apprehension]], and giving the only personal description we possess of
 him, as "a middle-sized spare man about forty years old, of a brown
 complexion and dark brown-coloured hair, but wears a wig; a hooked nose,
 a sharp chin, grey eyes, and a large mole near his mouth." In this
@@ -113,13 +113,13 @@ rate he was fined 200 marks, and condemned to be pilloried three times,
 to be imprisoned indefinitely, and to find sureties for his good
 behaviour during seven years. It was in reference to this incident that
 Pope, whose Catholic rearing made him detest the abettor of the
-Revolution and the champion of William of Orange, wrote in the
+Revolution and the [[Champion|champion]] of William of Orange, wrote in the
 _Dunciad_--
 
   "Earless on high stands unabash'd Defoe"
 
 --though he knew that the sentence to the pillory had long ceased to
-entail the loss of ears. Defoe's exposure in the pillory (July 29, 30,
+[[Entail|entail]] the loss of [[Ear|ears]]. Defoe's exposure in the pillory (July 29, 30,
 31) was, however, rather a triumph than a punishment, for the populace
 took his side; and his _Hymn to the Pillory_, which he soon after
 published, is one of the best of his poetical works. Unluckily for him
@@ -155,7 +155,7 @@ complete copy of the work is known to exist, and that is in the British
 Museum. It is probable that if bulk, rapidity of production, variety of
 matter, originality of design, and excellence of style be taken
 together, hardly any author can show a work of equal magnitude. After
-his release Defoe went to Bury St Edmunds, though he did not interrupt
+his release Defoe went to [[Bury]] St Edmunds, though he did not interrupt
 either his _Review_ or his occasional pamphlets. One of these, _Giving
 Alms no Charity, and Employing the Poor a Grievance to the Nation_
 (1704), is extraordinarily far-sighted. It denounces both indiscriminate
@@ -168,7 +168,7 @@ have given some hints for Swift's _Gulliver's Travels_; and at the end
 of the year Defoe performed a secret mission, the first of several of
 the kind, for Harley. In 1706 appeared the _True Relation of the
 Apparition of one Mrs Veal_, long supposed to have been written for a
-bookseller to help off an unsaleable translation of Drelincourt, _On
+bookseller to help off an unsaleable translation of [[Drelincourt]], _On
 Death_, but considerable doubt has been cast upon this by William Lee.
 Defoe's next work was _Jure divino_, a long poetical argument in (bad)
 verse; and soon afterwards (1706) he began to be much employed in
@@ -214,7 +214,7 @@ that in 1718 at least Defoe was doing not only political work, but that
 it was of a somewhat equivocal kind--that he was, in fact, sub-editing
 the Jacobite _Mist's Journal_, under a secret agreement with the
 government that he should tone down the sentiments and omit
-objectionable items. He had, in fact, been released on condition of
+objectionable [[Item|items]]. He had, in fact, been released on condition of
 becoming a government agent. He seems to have performed the same not
 very honourable office in the case of two other journals--_Dormer's
 Letter_ and the _Mercurius Politicus_; and to have written in these and
@@ -239,11 +239,11 @@ _feuilleton_ in _Heathcote's Intelligencer_, perhaps the earliest
 instance of the appearance of such a work in such a form. The story was
 founded on Dempier's _Voyage round the World_ (1697), and still more on
 Alexander Selkirk's adventures, as communicated by Selkirk himself at a
-meeting with Defoe at the house of Mrs Damaris Daniel at Bristol.
+meeting with Defoe at the house of Mrs Damaris Daniel at [[Bristol]].
 Selkirk afterwards told Mrs Daniel that he had handed over his papers to
 Defoe. _Robinson Crusoe_ was immediately popular, and a wild story was
 set afloat of its having been written by Lord Oxford in the Tower. A
-curious idea, at one time revived by Henry Kingsley, is that the
+curious idea, at one time revived by Henry [[Kingsley]], is that the
 adventures of Robinson are allegorical and relate to Defoe's own life.
 This idea was certainly entertained to some extent at the time, and
 derives some colour of justification from words of Defoe's, but there
@@ -252,14 +252,14 @@ the story part, with the philosophical and religious moralizings largely
 cut out) is one of the world's classics in fiction. Crusoe's shipwreck
 and adventures, his finding the footprint in the sand, his man
 "Friday,"--the whole atmosphere of romance which surrounds the position
-of the civilized man fending for himself on a desert island--these have
+of the civilized man fending for himself on a [[Desert|desert]] island--these have
 made Defoe's great work an imperishable part of English literature.
 Contemporaneously appeared _The Dumb Philosopher_, or _Dickory Cronke_,
 who gains the power of speech at the end of his life and uses it to
 predict the course of European affairs.
 
 In 1720 came _The Life and Adventures of Mr Duncan Campbell_. This was
-not entirely a work of imagination, its hero, the fortune-teller, being
+not entirely a work of [[Imagination|imagination]], its hero, the fortune-teller, being
 a real person. There are amusing passages in the story, but it is too
 desultory to rank with Defoe's best. In the same year appeared two
 wholly or partially fictitious histories, each of which might have made
@@ -283,7 +283,7 @@ expeditions is a most life-like character. There is also a Quaker who
 plays a very creditable part in _Roxana_ (1724), and Defoe seems to have
 been well affected to the Friends. In estimating this wonderful
 productiveness on the part of a man sixty years old, it should be
-remembered that it was a habit of Defoe's to keep his work in manuscript
+remembered that it was a habit of Defoe's to keep his work in [[Manuscript|manuscript]]
 sometimes for long periods.
 
 In 1721 nothing of importance was produced, but in the next twelvemonth
@@ -293,7 +293,7 @@ Colonel Jack_. _Moll Flanders_ and _The Fortunate Mistress_ (Roxana),
 which followed in 1724, have subjects of a rather more than questionable
 character, but both display the remarkable art with which Defoe handles
 such subjects. It is not true, as is sometimes said, that the difference
-between the two is that between gross and polished vice. The real
+between the two is that between [[Gross|gross]] and polished vice. The real
 difference is much more one of morals than of manners. Moll is by no
 means of the lowest class. Notwithstanding the greater degradation into
 which she falls, and her originally dependent position, she has been
@@ -344,7 +344,7 @@ must necessarily have been dexterous compilation. In 1725 appeared _A
 New Voyage round the World_, apparently entirely due to the author's own
 fertile imagination and extensive reading. It is full of his peculiar
 verisimilitude and has all the interest of Anson's or Dampier's voyages,
-with a charm of style superior even to that of the latter.
+with a [[Charm|charm]] of style superior even to that of the latter.
 
 In 1726 Defoe published a curious and amusing little pamphlet entitled
 _Everybody's Business is Nobody's Business, or Private Abuses Public
@@ -358,7 +358,7 @@ its second volume followed two years afterwards. This book has been
 variously judged. It is generally and traditionally praised, but those
 who have read it will be more disposed to agree with Charles Lamb, who
 considers it "of a vile and debasing tendency," and thinks it "almost
-impossible to suppose the author in earnest." The intolerable meanness
+impossible to suppose the author in [[Earnest|earnest]]." The intolerable meanness
 advocated for the sake of the paltriest gains, the entire ignoring of
 any pursuit in life except money-getting, and the representation of the
 whole duty of man as consisting first in the attainment of a competent
@@ -376,14 +376,14 @@ his treatment is on the whole rational and sensible; but in _The History
 of the Devil_ he is somewhat hampered by an insufficiently worked-out
 theory as to the nature and personal existence of his hero, and the
 manner in which he handles the subject is an odd and not altogether
-satisfactory mixture of irony and earnestness. _A Plan of English
+satisfactory mixture of [[Irony|irony]] and earnestness. _A Plan of English
 Commerce_, containing very enlightened views on export trade, appeared
 in 1728.
 
 During the years from 1715 to 1728 Defoe had issued pamphlets and minor
 works too numerous to mention. The only one of them perhaps which
 requires notice is _Religious Courtship_ (1722), a curious series of
-dialogues displaying Defoe's unaffected religiosity, and at the same
+[[Dialogue|dialogues]] displaying Defoe's unaffected religiosity, and at the same
 time the rather meddling intrusiveness with which he applied his
 religious notions. This was more flagrantly illustrated in one of his
 latest works, _The Treatise Concerning the Use and Abuse of the Marriage
@@ -500,7 +500,7 @@ follow Harley's fallen fortunes. His very anomalous position in regard
 to Mist is also indicative of a rather blunt moral perception. One of
 the most affecting things in his novels is the heroic constancy and
 fidelity of the maid Amy to her exemplary mistress Roxana. But Amy,
-scarcely by her own fault, is drawn into certain breaches of definite
+scarcely by her own [[Fault|fault]], is drawn into certain [[Breach|breaches]] of definite
 moral laws which Defoe did understand, and she is therefore condemned,
 with hardly a word of pity, to a miserable end. Nothing heroic or
 romantic was within Defoe's view; he could not understand passionate
@@ -523,10 +523,10 @@ The morality of these is almost amusing in its downright positive
 character. With all the Puritan eagerness to push a clear,
 uncompromising, Scripture-based distinction of right and wrong into the
 affairs of every-day life, he has a thoroughly English horror of
-casuistry, and his clumsy canons consequently make wild work with the
-infinite intricacies of human nature. He is, in fact, an instance of the
+[[Casuistry|casuistry]], and his clumsy canons consequently make wild work with the
+[[Infinite|infinite]] intricacies of human nature. He is, in fact, an instance of the
 tendency, which has so often been remarked by other nations in the
-English, to drag in moral distinctions at every turn, and to confound
+English, to [[Drag|drag]] in moral distinctions at every turn, and to confound
 everything which is novel to the experience, unpleasant to the taste,
 and incomprehensible to the understanding, under the general epithets of
 wrong, wicked and shocking. His works of this class therefore are now
@@ -540,7 +540,7 @@ the least valuable, though not the least curious, of his books.
   citations from works both of Defoe and of others, which are
   practically inaccessible to the general reader, is invaluable. In 1859
   appeared a life of Defoe by William Chadwick, an extraordinary
-  rhapsody in a style which is half Cobbett and half Carlyle, but
+  rhapsody in a style which is half [[Cobbett]] and half Carlyle, but
   amusing, and by no means devoid of acuteness. In 1864 the discovery of
   the six letters stirred up William Lee to a new investigation, and the
   results of this were published (London, 1869) in three large volumes.
@@ -552,7 +552,7 @@ the least valuable, though not the least curious, of his books.
   in most cases agree that Defoe may very likely have written them, it
   cannot positively be stated that he did. There is also a _Life_ by
   Thomas Wright (1894). The _Earlier Life and Chief Earlier Works_ of
-  Defoe (1890) was included by Henry Morley in the "Carisbrooke
+  Defoe (1890) was included by Henry Morley in the "[[Carisbrooke]]
   Library." Charles Lamb's criticisms were made in three short pieces,
   two of which were written for Wilson's book, and the third for _The
   Reflector_. The volume on _Defoe_ (1879) in the "English Men of
@@ -560,19 +560,19 @@ the least valuable, though not the least curious, of his books.
 
   There is considerable uncertainty about many of Defoe's writings; and
   even if all contested works be excluded, the number is still enormous.
-  Besides the list in Bohn's _Lowndes_, which is somewhat of an _omnium
+  Besides the list in Bohn's _[[Lowndes]]_, which is somewhat of an _omnium
   gatherum_, three lists drawn with more or less care were compiled in
   the 19th century. Wilson's contains 210 distinct works, three or four
   only of which are marked as doubtful; Hazlitt's enumerates 183
   "genuine" and 52 "attributed" pieces, with notes on most of them;
   Lee's extends to 254, of which 64 claim to be new additions. The
-  reprint (3 vols.) edited for the "Pulteney Library" by Hazlitt in
+  reprint (3 vols.) edited for the "Pulteney Library" by [[Hazlitt]] in
   1840-1843 contains a good and full life mainly derived from Wilson,
   the whole of the novels (including the _Serious Reflections_ now
   hardly ever published with _Robinson Crusoe_), _Jure Divino_, _The Use
   and Abuse of Marriage_, and many of the more important tracts and
   smaller works. There is also an edition, often called Scott's, but
-  really edited by Sir G. C. Lewis, in twenty volumes (London,
+  really edited by Sir G. C. [[Lewis]], in twenty volumes (London,
   1840-1841). This contains the _Complete Tradesman_, _Religious
   Courtship_, _The Consolidator_ and other works not comprised in
   Hazlitt's. Scott had previously in 1809 edited for Ballantyne some of
@@ -605,10 +605,10 @@ the least valuable, though not the least curious, of his books.
   Forster, _Historical and Biographical Essays_ (1858); G. Saintsbury,
   "Introduction" to Defoe's _Minor Novels_; and valuable notes by G. A.
   Aitken in _The Contemporary Review_ (February 1890), and _The
-  Athenaeum_ (April 30, 1889; August 31, 1890). A facsimile reprint
-  (1883) of _Robinson Crusoe_ has an introduction by Mr Austin Dobson.
+  [[Athenaeum]]_ (April 30, 1889; August 31, 1890). A facsimile reprint
+  (1883) of _Robinson Crusoe_ has an introduction by Mr Austin [[Dobson]].
   Dr Karl T. Bulbring edited two unpublished works of Defoe, _The
-  Compleat English Gentleman_ (London, 1890) and _Of Royall Educacion_
+  Compleat English [[Gentleman]]_ (London, 1890) and _Of Royall Educacion_
   (London, 1905), from British Museum Add. MS. 32,555. Further light was
   thrown on Defoe's work as a political agent by the discovery (1906) of
   an unpublished paper of his in the British Museum by G. F. Warner.

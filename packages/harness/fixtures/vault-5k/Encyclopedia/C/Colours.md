@@ -7,8 +7,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Colours"
 
 # Colours
 
-COLOURS, MILITARY, the flags carried by infantry regiments and
-battalions, sometimes also by troops of other arms. Cavalry regiments
+COLOURS, MILITARY, the [[Flag|flags]] carried by infantry regiments and
+[[Battalion|battalions]], sometimes also by troops of other arms. Cavalry regiments
 and other units have as a rule standards and guidons (see FLAG). Colours
 are generally embroidered with mottoes, symbols, and above all with the
 names of battles.
@@ -20,7 +20,7 @@ corps and an indication of position for the higher leaders and the men
 of other formed bodies. In the Roman army the eagle, the _vexillum_, &c.
 had all the moral and sentimental importance of the colours of to-day.
 During the dark and the middle ages, however, the basis of military
-force being the individual knight or lord, the banner, or other flag
+force being the individual [[Knight|knight]] or lord, the banner, or other flag
 bearing his arms, replaced the regimental colour which had signified the
 corporate body and claimed the devotion of each individual soldier in
 the ranks, though the original meaning of the colour as a corps, not a
@@ -36,10 +36,10 @@ only from the 16th century. It has been suggested that, as the
 professional captain gradually ousted the nobleman from the command of
 the drilled and organized companies of foot--the man of gentle birth, of
 course, maintained his ascendancy in the cavalry far longer--the leaders
-of such bodies, no longer possessing coat-armour and individual banners,
+of such bodies, no longer possessing coat-armour and individual [[Banners|banners]],
 had recourse to small flags of distinctive colour instead. "Colour" is
 in the 16th century a common name in England and middle Europe for the
-unit of infantry; in German the _Fähnlein_ (colour) of landsknechts was
+unit of infantry; in German the _Fähnlein_ (colour) of [[Landsknecht|landsknechts]] was
 a strong company of more than 300 foot. The ceremonial observances and
 honours paid nowadays to the colours of infantry were in fact founded
 for the most part by the landsknechts, for whom the flag (carried by
@@ -58,13 +58,13 @@ of battle, and the capture or the loss of a colour has always been
 considered a special event, glorious or the reverse, in the history of a
 regiment, the importance of this being chiefly sentimental, but having
 as a very real background the fact that, if its colour was lost, a
-regiment was to all intents and purposes dissolved and dispersed.
+regiment was to all [[Intent|intents]] and purposes dissolved and dispersed.
 Frederick the Great and Napoleon always attached the highest importance
-to the maintenance at all costs of the regimental colours. Even over
+to the [[Maintenance|maintenance]] at all costs of the regimental colours. Even over
 young troops the influence of the colour has been extraordinary, and
 many generals have steadied their men in the heat of battle by taking a
 regimental colour themselves to lead the advance or to form up the
-troops. Thus in the first battle of Bull Run (1861) the raw Confederate
+troops. Thus in the first battle of [[Bull]] Run (1861) the raw Confederate
 troops were rallied under a heavy fire by General Joseph Johnston, their
 commander-in-chief, who stood with a colour in his hand until the men
 gathered quickly in rank and file. The archduke Charles at Aspern (1809)
@@ -72,7 +72,7 @@ led his young troops to the last assault with a colour in his hand.
 Marshal Schwerin was killed at the battle of Prague while carrying a
 regimental colour.
 
-In the British army colours are carried by guards and line (except
+In the British army colours are carried by [[Guards|guards]] and line (except
 rifle) battalions, each battalion having two colours, the king's and the
 regimental. The size of the colour is 3 ft. 9 in. by 3 ft., and the
 length of the stave 8 ft. 7 in. The colour has a gold fringe and gold
@@ -128,7 +128,7 @@ colour, and other commemorative names and dates. The oath taken by each
 recruit on joining is sworn on the colour (_Fahneneid_).
 
 The practice in the British army of leaving the colours behind on taking
-the field dates from the battle of Isandhlwana (22nd January 1879), in
+the field dates from the battle of [[Isandhlwana]] (22nd January 1879), in
 which Lieutenants Melvill and Coghill lost their lives in endeavouring
 to save the colours of the 24th regiment. In savage warfare, in which
 the British regular army is more usually engaged, it is true that no
@@ -137,7 +137,7 @@ field. It is questionable, however, whether this holds good in civilized
 warfare. Colours were carried in action by both the Russians and the
 Japanese in the war of 1904-5, and they were supplemented on both sides
 by smaller flags or camp colours. The conception of the colour as the
-emblem of union, the rallying-point, of the regiment has been mentioned
+[[Emblem|emblem]] of union, the rallying-point, of the regiment has been mentioned
 above. Many hold that such a rallying-point is more than ever required
 in the modern _guerre de masses_, when a national short-service army is
 collected in all possible strength on the decisive battle-field, and
@@ -166,7 +166,7 @@ advantages it formerly possessed, but would also provide the simplest
 means for ensuring the vitally necessary co-operation of infantry and
 artillery in the decisive assault. The duty of carrying the colours was
 always one of special danger, and sometimes, in the old short-range
-battles, every officer who carried a flag was shot. That this fate would
+battles, every officer who carried a flag was shot. That this [[Fate|fate]] would
 necessarily overtake the bearer under modern conditions is far from
 certain, and in any case the few men on the enemy's side who would be
 brave enough to shoot accurately under heavy shell fire would, however

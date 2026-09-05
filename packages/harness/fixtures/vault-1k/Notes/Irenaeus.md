@@ -8,7 +8,7 @@ probably at or near Smyrna; for he himself tells us (_Adv. haer._ iii.
 preaching of Polycarp, the aged bishop of Smyrna (d. February 22, 156).
 But we do not know when this was. He can hardly have been born very long
 after 130, for later on he frequently mentions having met certain
-Christian presbyters who had actually seen John, the disciple of our
+Christian presbyters who had actually seen John, the [[Disciple|disciple]] of our
 Lord. The circumstances under which he came into the West are also
 unknown to us; the only thing which is certain is that at the time of
 the persecution of the Gallic Church under Marcus Aurelius (177) he was
@@ -24,7 +24,7 @@ converting all Lyons to Christianity, is probably exaggerated, from him
 at any rate dates the wide spread of Christianity in Lyons and its
 neighbourhood. He devoted particular attention to trying to reconcile
 the numerous sects which menaced the existence of the church (see
-below). In the dispute on the question of Easter, which for a long time
+below). In the dispute on the question of [[Easter]], which for a long time
 disturbed the Christian Church both in West and East, he endeavoured by
 means of many letters to effect a compromise, and in particular to
 exercise a moderating influence on Victor, the bishop of Rome, and his
@@ -123,7 +123,7 @@ theoretically, but also to preach it to laymen.
   and 1734, reprinted in Migne, _Cursus patrologiae_, Series Graeca,
   vol. v., Paris, 1857) long continued to be the standard one, till it
   was superseded by the editions of Adolph Stieren (2 vols., Leipzig,
-  1848-1853) and of W. Wigan Harvey (2 vols., Cambridge, 1857), the
+  1848-1853) and of W. Wigan [[Harvey]] (2 vols., Cambridge, 1857), the
   latter being the only edition which contains the Syriac fragments. For
   an English translation see the _Ante-Nicene Library_. Of modern
   monographs consult H. Ziegler, _Irenaeus, der Bischof von Lyon_

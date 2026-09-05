@@ -17,7 +17,7 @@ experiences and of contemporary morality. The first part of his chronicle,
 covering only the reign of Peter the Cruel, was printed at Seville in 1495;
 the first complete edition was printed in 1779-1780 in the collection of
 _Crónicas Españolas_, under the auspices of the Spanish Royal Academy of
-History. Ayala died at Calahorra in 1407.
+History. Ayala died at [[Calahorra]] in 1407.
 
 See Rafael Floranes, "Vida literaria de Pedro Lopez de Ayala," in the
 _Documentos inéditos para la historia de España_, vols. xix. and xx.; F. W.

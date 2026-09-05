@@ -13,7 +13,7 @@ conductivity, thermal expansion, &c.; the chemist, on the other hand,
 investigates changes in composition, such as may be effected by an
 electric current, by heat, or when two or more substances are mixed. A
 further differentiation of the provinces of chemistry and physics is
-shown by the classifications of matter. To the physicist matter is
+shown by the [[Classification|classifications]] of matter. To the physicist matter is
 presented in three leading forms--solids, liquids and gases; and
 although further subdivisions have been rendered necessary with the
 growth of knowledge the same principle is retained, namely, a
@@ -21,7 +21,7 @@ classification based on properties having no relation to composition.
 The fundamental chemical classification of matter, on the other hand,
 recognizes two groups of substances, namely, _elements_, which are
 substances not admitting of analysis into other substances, and
-_compounds_, which do admit of analysis into simpler substances and also
+_[[Compound|compounds]]_, which do admit of analysis into simpler substances and also
 of synthesis from simpler substances. Chemistry and physics, however,
 meet on common ground in a well-defined branch of science, named
 physical chemistry, which is primarily concerned with the correlation of
@@ -37,12 +37,12 @@ the elucidation of natural phenomena on the molecular theory.
   theory. The history of the alchemical period is treated in more detail
   in the article ALCHEMY, and of the iatrochemical in the article
   MEDICINE. The evolution of the notion of elements is treated under
-  ELEMENT; the molecular hypothesis of matter under MOLECULE; and the
-  genesis of, and deductions from, the atomic theory of Dalton receive
+  ELEMENT; the molecular [[Hypothesis|hypothesis]] of matter under MOLECULE; and the
+  [[Genesis|genesis]] of, and deductions from, the atomic theory of Dalton receive
   detailed analysis in the article ATOM.
 
   II. _Principles._--This section treats of such subjects as
-  nomenclature, formulae, chemical equations, chemical change and
+  nomenclature, formulae, chemical [[Equation|equations]], chemical change and
   similar subjects. It is intended to provide an introduction,
   necessarily brief, to the terminology and machinery of the chemist.
 
@@ -143,10 +143,10 @@ authorship, and moreover are often so vague and mystical that they are
 of doubtful scientific value, beyond reflecting the tendencies of the
 age. The retaining of alchemists at various courts shows the high
 opinion which the doctrines had gained. It is really not extraordinary
-that Isaac Hollandus was able to indicate the method of the preparation
+that [[Isaac]] Hollandus was able to indicate the method of the preparation
 of the "philosopher's stone" from "adamic" or "virgin" earth, and its
 action when medicinally employed; that in the writings assigned to Roger
-Bacon, Raimon Lull, Basil Valentine and others are to be found the exact
+Bacon, Raimon [[Lull]], Basil Valentine and others are to be found the exact
 quantities of it to be used in transmutation; and that George Ripley, in
 the 15th century, had grounds for regarding its action as similar to
 that of a ferment.
@@ -164,7 +164,7 @@ iron, lead and tin, were regarded in the light of lepers that required
 to be healed.
 
 
-  Iatrochemistry.
+  [[Iatrochemistry]].
 
 Notwithstanding the false idea which prompted the researches of the
 alchemists, many advances were made in descriptive chemistry, the metals
@@ -174,7 +174,7 @@ alchemists to achieve their cherished purpose, and the general increase
 of medical knowledge, caused attention to be given to the utilization of
 chemical preparations as medicines. As early as the 15th century the
 alchemist Basil Valentine had suggested this application, but the great
-exponent of this doctrine was Paracelsus, who set up a new definition:
+exponent of this doctrine was Paracelsus, who set up a new [[Definition|definition]]:
 "The true use of chemistry is not to make gold but to prepare
 medicines." This relation of chemistry to medicine prevailed until the
 17th century, and what in the history of chemistry is termed the
@@ -192,7 +192,7 @@ Agricola and Carlo Biringuiccio; ceramics was studied by Bernard
 Palissy, who is also to be remembered as an early worker in agricultural
 chemistry, having made experiments on the effect of manures on soils and
 crops; while general technical chemistry was enriched by Johann Rudolf
-Glauber.[1]
+[[Glauber]].[1]
 
 
   Boyle.
@@ -246,7 +246,7 @@ completeness of combustion was proportional to the amount of phlogiston
 present. Combustion meant the liberation of phlogiston. Metals on
 calcination gave calces from which the metals could be recovered by
 adding phlogiston, and experiment showed that this could generally be
-effected by the action of coal or carbon, which was therefore regarded
+effected by the action of coal or [[Carbon|carbon]], which was therefore regarded
 as practically pure phlogiston; the other constituent being regarded as
 an acid. At the hands of Stahl and his school, the phlogistic theory, by
 exhibiting a fundamental similarity between all processes of combustion
@@ -259,7 +259,7 @@ change of _qualities_ being regarded as the only matter of importance.
 It is remarkable that this theory should have gained the esteem of the
 notable chemists who flourished in the 18th century. Henry Cavendish, a
 careful and accurate experimenter, was a phlogistonist, as were J.
-Black, K. W. Scheele, A. S. Marggraf, J. Priestley and many others who
+Black, K. W. Scheele, A. S. [[Marggraf]], J. Priestley and many others who
 might be mentioned.
 
 
@@ -276,18 +276,18 @@ principle has weight, and sometimes it has not; sometimes it is free
 fire and sometimes it is fire combined with the earthy element;
 sometimes it passes through the pores of vessels, sometimes these are
 impervious to it; it explains both causticity and non-causticity,
-transparency and opacity, colours and their absence; it is a veritable
+transparency and opacity, [[Colours|colours]] and their absence; it is a veritable
 Proteus changing in form at each instant." Lavoisier may be justly
 regarded as the founder of modern or quantitative chemistry. First and
-foremost, he demanded that the balance must be used in all
+foremost, he demanded that the [[Balance|balance]] must be used in all
 investigations into chemical changes. He established as fundamental that
 combustion and calcination were attended by an increase of weight, and
-concluded, as did Jean Rey and John Mayow in the 17th century, that the
+concluded, as did Jean Rey and John [[Mayow]] in the 17th century, that the
 increase was due to the combination of the metal with the air. The
 problem could obviously be completely solved only when the composition
 of the air, and the parts played by its components, had been determined.
 At all times the air had received attention, especially since van
-Helmont made his far-reaching investigations on gases. Mayow had
+[[Helmont]] made his far-reaching investigations on gases. Mayow had
 suggested the existence of two components, a _spiritus nitroaerus_ which
 supported combustion, and a _spiritus nitri acidi_ which extinguished
 fire; J. Priestley and K. W. Scheele, although they isolated oxygen,
@@ -355,13 +355,13 @@ and he used the word "affinity" as had been previously done by Stahl and
 others. The modern sense of the word, viz. the force which holds
 chemically dissimilar substances together (and also _similar_ substances
 as is seen in di-, tri-, and poly-atomic molecules), was introduced by
-Hermann Boerhaave, and made more precise by Sir Isaac Newton. The laws
+[[Hermann]] Boerhaave, and made more precise by Sir Isaac Newton. The laws
 of chemical combination were solved, in a measure, by John Dalton, and
 the solution expressed as Dalton's "atomic theory." Lavoisier appears to
 have assumed that the composition of every chemical compound was
 constant, and the same opinion was the basis of much experimental
 inquiry at the hands of Joseph Louis Proust during 1801 to 1809, who
-vigorously combated the doctrine of Claude Louis Berthollet (_Essai de
+vigorously combated the doctrine of Claude Louis [[Berthollet]] (_Essai de
 statique chimique_, 1803), viz. that fixed proportions of elements and
 compounds combine only under exceptional conditions, the general rule
 being that the composition of a compound may vary continuously between
@@ -402,7 +402,7 @@ and that the volume of the product had a simple ratio to the volumes of
 the reacting gases. For example, one volume of oxygen combined with two
 of hydrogen to form two volumes of steam, three volumes of hydrogen
 combined with one of nitrogen to give two volumes of ammonia, one volume
-of hydrogen combined with one of chlorine to give two volumes of
+of hydrogen combined with one of [[Chlorine|chlorine]] to give two volumes of
 hydrochloric acid. An immediate inference was that the Daltonian "atom"
 must have parts which enter into combination with parts of other atoms;
 in other words, there must exist two orders of particles, viz. (1)
@@ -433,7 +433,7 @@ on relative atomic or equivalent weights. This may be due in some
 measure to the small number of gaseous and easily volatile substances
 then known, to the attention which the study of the organic compounds
 received, and especially to the energetic investigations of J. J.
-Berzelius, who, fired with enthusiasm by the original theory of Dalton
+Berzelius, who, fired with [[Enthusiasm|enthusiasm]] by the original theory of Dalton
 and the law of multiple proportions, determined the equivalents of
 combining ratios of many elements in an enormous number of compounds.[5]
 He prosecuted his labours in this field for thirty years; as proof of
@@ -458,7 +458,7 @@ substances.
   the imperfect metals of the silver class, had the symbols of Jupiter
   [*], and Saturn [*]; while mercury, the imperfect metal of both the
   gold and silver class, had the symbol of the planet, [*]. Torbern Olof
-  Bergman used an elaborate system in his _Opuscula physica et chemica_
+  [[Bergman]] used an elaborate system in his _Opuscula physica et chemica_
   (1783); the elements received symbols composed of circles, arcs of
   circles, and lines, while certain class symbols, such as [*] for
   metals, [*] for acids, [*] for alkalies, [*] for salts, [*] for
@@ -503,7 +503,7 @@ substances.
   before the symbols; for example, copper oxide was Cu+O, sulphur
   trioxide S+3O. If two compounds combined, the + signs of the free
   compounds were discarded, and the number of atoms denoted by an Arabic
-  index placed after the elements, and from these modified symbols the
+  [[Index|index]] placed after the elements, and from these modified symbols the
   symbol of the new compound was derived in the same manner as simple
   compounds were built up from their elements. Thus copper sulphate was
   CuO + SO³, potassium sulphate 2SO³ + PoO² (the symbol Po for potassium
@@ -589,7 +589,7 @@ controversy was ranging over the constitution of compounds, more
 particularly over the carbon or organic compounds. This subject is
 discussed in section IV., _Organic Chemistry_.The gradual accumulation
 of data referring to organic compounds brought in its train a revival of
-the discussion of atoms and molecules. A. Laurent and C.F. Gerhardt
+the discussion of atoms and molecules. A. Laurent and C.F. [[Gerhardt]]
 attempted a solution by investigating chemical reactions. They assumed
 the atom to be the smallest part of matter which can exist in
 combination, and the molecule to be the smallest part which can enter
@@ -615,7 +615,7 @@ paper written by Stanislas Cannizzaro in 1858 wherein was found the
 final link required for the determination of atomic weights. This link
 was the full extension of Avogadro's theory to all substances,
 Cannizzaro showing that chemical reactions in themselves would not
-suffice. He chose as his unit of reference the weight of an atom of
+suffice. He [[Chose|chose]] as his unit of reference the weight of an atom of
 hydrogen, i.e. the weight contained in a molecule of hydrochloric acid,
 thus differing from Avogadro who chose the weight of a hydrogen
 molecule. From a study of the free elements Cannizzaro showed that an
@@ -636,12 +636,12 @@ From the results obtained by Laurent and Gerhardt and their predecessors
 it immediately followed that, while an element could have but one atomic
 weight, it could have several equivalent weights. From a detailed study
 of organic compounds Gerhardt had promulgated a "theory of types" which
-represented a fusion of the older radical and type theories. This theory
+represented a [[Fusion|fusion]] of the older radical and type theories. This theory
 brought together, as it were, the most varied compounds, and stimulated
 inquiry into many fields. According to this theory, an element in a
 compound had a definite saturation capacity, an idea very old in itself,
 being framed in the law of multiple proportions. These saturation
-capacities were assiduously studied by Sir Edward Frankland, who from
+capacities were assiduously studied by Sir Edward [[Frankland]], who from
 the investigation, not of simple inorganic compounds, but of the
 organo-metallic derivatives, determined the kernel of the theory of
 valency. Frankland showed that any particular element preferentially
@@ -652,7 +652,7 @@ combination with one of oxygen. If an element or radical combined with
 one atom of hydrogen, it was termed monovalent; if with two (or with one
 atom of oxygen, which is equivalent to two atoms of hydrogen) it was
 divalent, and so on. The same views were expressed by Cannizzaro, and
-also by A.W. von Hofmann, who materially helped the acceptance of the
+also by A.W. von [[Hofmann]], who materially helped the acceptance of the
 doctrine by the lucid exposition in his _Introduction to Modern
 Chemistry_, 1865.
 
@@ -667,13 +667,13 @@ molecule," but denied that any such structure could give information as
 to the orientation of the atoms in space. He regarded the chemical
 properties of a substance as due to (1) the chemical atoms composing it,
 and (2) the structure, and he asserted that while different compounds
-might have the same components (isomerism), yet only one compound could
+might have the same components ([[Isomerism|isomerism]]), yet only one compound could
 have a particular structure. Identity in properties necessitated
 identity in structure.
 
 While the principle of varying valency laid down by Frankland is still
 retained, Butlerow's view that structure had no spatial significance has
-been modified. The researches of L. Pasteur, J.A. Le Bel, J.
+been modified. The researches of L. Pasteur, J.A. Le [[Bel]], J.
 Wislicenus, van't Hoff and others showed that substances having the same
 graphic formulae vary in properties and reactions, and consequently the
 formulae need modification in order to exhibit these differences. Such
@@ -738,7 +738,7 @@ in general they constitute a body of working hypotheses of inestimable
 value.
 
 _Chemical Education._--It is remarkable that systematic instruction in
-the theory and practice of chemistry only received earnest attention in
+the theory and practice of chemistry only received [[Earnest|earnest]] attention in
 our academic institutions during the opening decades of the 19th
 century. Although for a long time lecturers and professors had been
 attached to universities, generally their duties had also included the
@@ -749,9 +749,9 @@ in the shops of apothecaries. The necessity for experimental
 demonstration and practical instruction, in addition to academic
 lectures, appears to have been urged by the French chemists L.N.
 Vauquelin, Gay Lussac, Thénard, and more especially by A.F. Fourcroy and
-G.F. Rouelle, while in England Humphry Davy expounded the same idea in
+G.F. Rouelle, while in England [[Humphry]] Davy expounded the same idea in
 the experimental demonstrations which gave his lectures their brilliant
-charm. But the real founder of systematic instruction in our science was
+[[Charm|charm]]. But the real founder of systematic instruction in our science was
 Justus von Liebig, who, having accepted the professorship at Giessen in
 1824, made his chemical laboratory and course of instruction the model
 of all others. He emphasized that the practical training should include
@@ -759,15 +759,15 @@ of all others. He emphasized that the practical training should include
 preparation of substances according to established methods, (3) original
 research--a course which has been generally adopted. The pattern set by
 Liebig at Giessen was adopted by F. Wöhler at Göttingen in 1836, by R.W.
-Bunsen at Marburg in 1840, and by O.L. Erdmann at Leipzig in 1843; and
+Bunsen at [[Marburg]] in 1840, and by O.L. Erdmann at Leipzig in 1843; and
 during the 'fifties and 'sixties many other laboratories were founded. A
-new era followed the erection of the laboratories at Bonn and Berlin
+new era followed the erection of the laboratories at [[Bonn]] and Berlin
 according to the plans of A.W. von Hofmann in 1867, and of that at
-Leipzig, designed by Kolbe in 1868. We may also mention the famous
+Leipzig, designed by [[Kolbe]] in 1868. We may also mention the famous
 laboratory at Munich designed by A. von Baeyer in 1875.
 
 In Great Britain the first public laboratory appears to have been opened
-in 1817 by Thomas Thomson at Glasgow. But the first important step in
+in 1817 by Thomas Thomson at [[Glasgow]]. But the first important step in
 providing means whereby students could systematically study chemistry
 was the foundation of the College of Chemistry in 1845. This institution
 was taken over by the Government in 1853, becoming the Royal College of
@@ -787,7 +787,7 @@ numbering among its professors Sir W.H. Perkin and Sir Henry Roscoe.
 
 In America public laboratory instruction was first instituted at Yale
 College during the professorship of Benjamin Silliman. To the great
-progress made in recent years F.W. Clarke, W. Gibbs, E.W. Morley, Ira
+progress made in recent years F.W. Clarke, W. [[Gibbs]], E.W. Morley, Ira
 Remsen, and T.W. Richards have especially contributed.
 
 In France the subject was almost entirely neglected until late in the
@@ -807,9 +807,9 @@ and lecture theatres.
   Berzelius' _Lehrbuch der Chemie_ in 1808-1818, has been enormous.
   These two works, and especially the latter, were the models followed
   by Thénard, Liebig, Strecker, Wöhler and many others, including Thomas
-  Graham, upon whose _Elements of Chemistry_ was founded Otto's famous
+  [[Graham]], upon whose _Elements of Chemistry_ was founded Otto's famous
   _Lehrbuch der Chemie_, to which H. Kopp contributed the general
-  theoretical part, Kolbe the organic, and Buff and Zamminer the
+  theoretical part, Kolbe the organic, and [[Buff]] and Zamminer the
   physico-chemical. Organic chemistry was especially developed by the
   publication of Gerhardt's _Traité de chimie organique_ in 1853-1856,
   and of Kekulé's _Lehrbuch der organischen Chemie_ in 1861-1882.
@@ -864,29 +864,29 @@ described.
 _Elements._--The following table gives the names, symbols and atomic
 weights of the perfectly characterized elements:--
 
-  _International Atomic Weights_, 1910.
+  _[[International]] Atomic Weights_, 1910.
 
                          Atomic                           Atomic
     Name.     Symbol.   Weights.      Name.     Symbol.   Weights.
                           O=16.                            O=16.
   Aluminium      Al      27.1        Mercury        Hg     200.0
   Antimony       Sb     120.2        Molybdenum     Mo      96.0
-  Argon          A       39.9        Neodymium      Nd     144.3
+  [[Argon]]          A       39.9        Neodymium      Nd     144.3
   Arsenic        As      74.96       Neon           Ne      20
-  Barium         Ba     137.37       Nickel         Ni      58.68
-  Beryllium or   Be}      9.1        Nitrogen       N       14.01
-    Glucinum     Gl}                 Osmium         Os     190.9
+  [[Barium]]         Ba     137.37       Nickel         Ni      58.68
+  [[Beryllium]] or   Be}      9.1        Nitrogen       N       14.01
+    [[Glucinum]]     Gl}                 Osmium         Os     190.9
   Bismuth        Bi     208.0        Oxygen         O       16.00
   Boron          B       11.0        Palladium      Pd     106.7
   Bromine        Br      79.92       Phosphorus     P       31.0
-  Cadmium        Cd     112.40       Platinum       Pt     195.0
-  Caesium        Cs     132.81       Potassium      K       39.10
+  [[Cadmium]]        Cd     112.40       Platinum       Pt     195.0
+  [[Caesium]]        Cs     132.81       Potassium      K       39.10
   Calcium        Ca      40.09       Praseodymium   Pr     140.6
   Carbon         C       12.0        Radium         Ra     226.4
   Cerium         Ce     140.25       Rhodium        Rh     102.9
   Chlorine       Cl      35.46       Rubidium       Rb      85.45
   Chromium       Cr      52.0        Ruthenium      Ru     101.7
-  Cobalt         Co      58.97       Samarium       Sa     150.4
+  [[Cobalt]]         Co      58.97       Samarium       Sa     150.4
   Columbium      Cb}     93.5        Scandium       Sc      44.1
     or Niobium   Nb}                 Selenium       Se      79.2
   Copper         Cu      63.57       Silicon        Si      28.3
@@ -894,11 +894,11 @@ weights of the perfectly characterized elements:--
   Erbium         Er     167.4        Sodium         Na      23.0
   Europium       Eu     152.0        Strontium      Sr       87.62
   Fluorine       F       19.0        Sulphur        S        32.07
-  Gadolinium     Gd     157.3        Tantalum       Ta      181.0
+  [[Gadolinium]]     Gd     157.3        Tantalum       Ta      181.0
   Gallium        Ga      69.9        Tellurium      Te      127.5
   Germanium      Ge      72.5        Terbium        Tb      159.2
   Gold           Au     197.2        Thallium       Tl      204.0
-  Helium         He       4.0        Thorium        Th      232.42
+  [[Helium]]         He       4.0        Thorium        Th      232.42
   Hydrogen       H        1.008      Thulium        Tm      168.5
   Indium         In     114.8        Tin            Sn      119.0
   Iodine         I      126.92       Titanium       Ti       48.1
@@ -1081,9 +1081,9 @@ according to the number of replaceable hydrogen atoms; thus HNO3 is
 monobasic, sulphuric acid H2SO4 dibasic, phosphoric acid H3PO4 tribasic.
 
 An acid terminating in -_ous_ forms a salt ending in -_ite_, and an
-oxyacid ending in -_ic_ forms a salt ending in -_ate_. Thus the chlorine
+oxyacid ending in -_ic_ forms a salt ending in -_[[Ate|ate]]_. Thus the chlorine
 oxyacids enumerated above form salts named respectively hypochlorites,
-chlorites, chlorates and perchlorates. Salts formed from hydracids
+chlorites, [[Chlorates|chlorates]] and perchlorates. Salts formed from hydracids
 terminate in -_ide_, following the rule for binary compounds. An _acid_
 salt is one in which the whole amount of hydrogen has not been replaced
 by metal; a _normal_ salt is one in which all the hydrogen has been
@@ -1499,7 +1499,7 @@ solid iodine--
   H2 + I2 = HI + HI,
 
 so much energy is expended in the decomposition of the hydrogen and
-iodine molecules and in the conversion of the iodine into the gaseous
+iodine molecules and in the [[Conversion|conversion]] of the iodine into the gaseous
 condition, that the heat which it may be supposed is developed by the
 combination of the hydrogen and iodine atoms is insufficient to balance
 the expenditure, and the final result is therefore negative; hence it
@@ -1605,7 +1605,7 @@ white lead, cinnabar, verdigris and red oxide of iron; and the
 preparation of coloured glasses and enamels testifies to the uses to
 which these and other substances were put. Salts of ammonium were also
 known; while alum was used as a mordant in dyeing. Many substances were
-employed in ancient medicine: galena was the basis of a valuable
+employed in ancient medicine: [[Galena|galena]] was the basis of a valuable
 Egyptian cosmetic and drug; the arsenic sulphides, realgar and orpiment,
 litharge, alum, saltpetre, iron rust were also used. Among the Arabian
 and later alchemists we find attempts made to collate compounds by
@@ -1652,12 +1652,12 @@ the form of improving and developing the methods of the alchemists; few
 new fields were opened, and apart from a more complete knowledge of the
 nature of salts, no valuable generalizations were attained.
 
-The discovery of phosphorus by Brand, a Hamburg alchemist, in 1669
+The discovery of phosphorus by [[Brand]], a Hamburg alchemist, in 1669
 excited chemists to an unwonted degree; it was also independently
 prepared by Robert Boyle and J. Kunckel, Brand having kept his process
 secret. Towards the middle of the 18th century two new elements were
 isolated: cobalt by G. Brandt in 1742, and nickel by A.F. Cronstedt in
-1750. These discoveries were followed by Daniel Rutherford's isolation
+1750. These discoveries were followed by [[Daniel]] Rutherford's isolation
 of nitrogen in 1772, and by K. Scheele's isolation of chlorine and
 oxygen in 1774 (J. Priestley discovered oxygen independently at about
 the same time), and his investigation of molybdic and tungstic acids in
@@ -1682,7 +1682,7 @@ substances--argon, krypton, neon and xenon (see ARGON).
 
 The 18th century witnessed striking developments in pneumatic chemistry,
 or the chemistry of gases, which had been begun by van Helmont, Mayow,
-Hales and Boyle. Gases formerly considered to be identical came to be
+[[Hales]] and Boyle. Gases formerly considered to be identical came to be
 clearly distinguished, and many new ones were discovered. Atmospheric
 air was carefully investigated by Cavendish, who showed that it
 consisted of two elementary constituents: nitrogen, which was isolated
@@ -1719,8 +1719,8 @@ accepted explanations of various celestial phenomena--the source of
 solar energy and the appearances of the tails of comets--may require
 recasting.
 
-In the same year as Klaproth detected uranium, he also isolated zirconia
-or zirconium oxide from the mineral variously known as zircon, hyacinth,
+In the same year as [[Klaproth]] detected uranium, he also isolated zirconia
+or zirconium oxide from the mineral variously known as zircon, [[Hyacinth|hyacinth]],
 jacynth and jargoon; but he failed to obtain the metal, this being first
 accomplished some years later by Berzelius, who decomposed the double
 potassium zirconium fluoride with potassium. In the following year,
@@ -1732,7 +1732,7 @@ Passing over the discovery of carbon disulphide by W.A. Lampadius in
 1796, of chromium by L.N. Vauquelin in 1797, and Klaproth's
 investigation of tellurium in 1798, the next important series of
 observations was concerned with platinum and the allied metals. Platinum
-had been described by Antonio de Ulloa in 1748, and subsequently
+had been described by [[Antonio]] de Ulloa in 1748, and subsequently
 discussed by H.T. Scheffer in 1752. In 1803 W.H. Wollaston discovered
 palladium, especially interesting for its striking property of absorbing
 ("occluding") as much as 376 volumes of hydrogen at ordinary
@@ -1791,7 +1791,7 @@ consisted in heating metallic chlorides with potassium, and was first
 applied to aluminium, which was isolated in 1827; in the following year,
 beryllium chloride was analysed by the same method, beryllium oxide
 (berylla or glucina) having been known since 1798, when it was detected
-by L. N. Vauquelin in the gem-stone beryl.
+by L. N. Vauquelin in the gem-stone [[Beryl|beryl]].
 
 In 1812 B. Courtois isolated the element iodine from "kelp," the burnt
 ashes of marine plants. The chemical analogy of this substance to
@@ -1859,12 +1859,12 @@ was in reality an oxide) and provided science with an admirable account
 of this element and its compounds. B.W. Gerland contributed to our
 knowledge of vanadyl salts and the vanadic acids. Chemically related to
 vanadium are the two elements tantalum and columbium or niobium. These
-elements occur in the minerals columbite and tantalite, and their
+elements occur in the minerals [[Columbite|columbite]] and tantalite, and their
 compounds became known in the early part of the 19th century by the
 labours of C. Hatchett, A.G. Ekeberg, W.H. Wollaston and Berzelius. But
 the knowledge was very imperfect; neither was it much clarified by H.
 Rose, who regarded niobium oxide as the element. The subject was revived
-in 1866 by C.W. Blomstrand and J.C. Marignac, to whom is due the credit
+in 1866 by C.W. Blomstrand and J.C. Marignac, to whom is due the [[Credit|credit]]
 of first showing the true chemical relations of these elements.
 Subsequent researches by Sainte Claire Deville and L.J. Troost, and by
 A.G. Krüss and L.E. Nilson, and subsequently (1904) by Hall, rendered
@@ -1940,7 +1940,7 @@ oxide, sulphide and iodide; arsenic trioxide; titanium dioxide and
 silicon dioxide may be cited as examples.
 
 The joint discovery in 1859 of the powerful method of spectrum analysis
-(see SPECTROSCOPY) by G.R. Kirchhoff and R.W. Bunsen, and its
+(see SPECTROSCOPY) by G.R. [[Kirchhoff]] and R.W. Bunsen, and its
 application to the detection and the characterization of elements when
 in a state of incandescence, rapidly led to the discovery of many
 hitherto unknown elements. Within two years of the invention the authors
@@ -1954,7 +1954,7 @@ of this element, on the one hand approximating to the metals of the
 alkalis, and on the other hand to lead, were mainly established by C.A.
 Lamy. Of other metals first detected by the spectroscope mention is to
 be made of indium, determined by F. Reich and H.T. Richter in 1863, and
-of gallium, detected in certain zinc blendes by Lecoq de Boisbaudran in
+of gallium, detected in certain zinc [[Blende|blendes]] by Lecoq de Boisbaudran in
 1875. The spectroscope has played an all-important part in the
 characterization of the elements, which, in combination with oxygen,
 constitute the group of substances collectively named the "rare earths."
@@ -2015,7 +2015,7 @@ didymia, from crude yttria, and two years later he announced the
 determination of two fresh constituents of the same earth, naming them
 erbia and terbia. Lanthanum has retained its elementary character, but
 recent attempts at separating it from didymia have led to the view that
-didymium is a mixture of two elements, praseodymium and neodymium (see
+[[Didymium|didymium]] is a mixture of two elements, praseodymium and neodymium (see
 DIDYMIUM). Mosander's erbia has been shown to contain various other
 oxides--thulia, holmia, &c.--but this has not yet been perfectly worked
 out. In 1878 Marignac, having subjected Mosander's erbia, obtained from
@@ -2057,7 +2057,7 @@ the alchemists for the philosopher's stone, and the almost general
 adherence of the iatrochemists to the study of the medicinal characters
 and preparation of metallic compounds, stultified in some measure the
 investigation of vegetable and animal products. It is true that by the
-distillation of many herbs, resins and similar substances, several
+distillation of many [[Herb|herbs]], resins and similar substances, several
 organic compounds had been prepared, and in a few cases employed as
 medicines; but the prevailing classification of substances by physical
 and superficial properties led to the correlation of organic and
@@ -2068,7 +2068,7 @@ reflected in the classification of substances expounded by Nicolas
 Lémery, in 1675, in his _Cours de chymie_. Taking as a basis the nature
 of the source of compounds, he framed three classes: "mineral,"
 comprising the metals, minerals, earths and stones; "vegetable,"
-comprising plants, resins, gums, juices, &c.; and "animal," comprising
+comprising plants, resins, [[Gum|gums]], juices, &c.; and "animal," comprising
 animals, their different parts and excreta. Notwithstanding the
 inconsistency of his allocation of substances to the different groups
 (for instance, acetic acid was placed in the vegetable class, while the
@@ -2102,7 +2102,7 @@ developed the radical theory initiated by Guyton de Morveau, formulated
 the hypothesis that vegetable and animal substances were oxides of
 radicals composed of carbon and hydrogen; moreover, since simple
 radicals (the elements) can form more than one oxide, he attributed the
-same character to his hydrocarbon radicals: he considered, for instance,
+same character to his [[Hydrocarbon|hydrocarbon]] radicals: he considered, for instance,
 sugar to be a neutral oxide and oxalic acid a higher oxide of a certain
 radical, for, when oxidized by nitric acid, sugar yields oxalic acid. At
 the same time, however, he adhered to the classification of Lémery; and
@@ -2167,7 +2167,7 @@ discovery of the isomerism of silver fulminate and silver cyanate by
 Justus von Liebig in 1823, and to M. Faraday's discovery of butylene,
 isomeric with ethylene, in 1825.
 
-The classical investigation of Liebig and Friedrich Wohler on the
+The classical investigation of Liebig and [[Friedrich]] Wohler on the
 radical of benzoic acid ("Über das Radikal der Benzoë-säure," _Ann.
 Chem._, 1832, 3, p. 249) is to be regarded as a most important
 contribution to the radical theory, for it was shown that a radical
@@ -2415,13 +2415,13 @@ each atom in methane being successively replaced by the nitro-group.
   form CI_{a}H_{b}H_{c}H_{d}. This readily gave with silver nitrite a
   nitromethane in which we may suppose the nitro-group to replace the a
   iodine atom, i.e. C(NO2)_{a}H_{b}H_{c}H_{d}. The same methyl iodide
-  gave with potassium cyanide, acetonitril, which was hydrolysed to
+  gave with potassium [[Cyanide|cyanide]], acetonitril, which was hydrolysed to
   acetic acid; this must be C(COOH)_{a}H_{b}H_{c}H_{d}. Chlorination of
   this substance gave a monochloracetic acid; we will assume the
   chlorine atom to replace the b hydrogen atom. This acid with silver
   nitrite gave nitroacetic acid, which readily gave the second
   nitromethane, CH_{a}(NO2)_{b}H_{c}H_d identical with the first
-  nitromethane. From the nitroacetic acid obtained above, malonic acid
+  nitromethane. From the nitroacetic acid obtained above, [[Malonic Acid|malonic acid]]
   was prepared, and from this a monochlormalonic acid was obtained; we
   assume the chlorine atom to replace the c hydrogen atom. This acid
   gives with silver nitrite the corresponding nitromalonic acid, which
@@ -2549,7 +2549,7 @@ radical, either aliphatic or cyclic in nature.
   way as the alcohols are regarded as hydroxides. In fact, the analogy
   between the alkyl groups and metallic elements forms a convenient
   basis from which to consider many derivatives. Thus from ethyl alcohol
-  there can be prepared compounds, termed _esters_ (q.v.), or ethereal
+  there can be prepared compounds, termed _[[Esters|esters]]_ (q.v.), or ethereal
   salts, exactly comparable in structure with corresponding salts of,
   say, potassium; by the action of the phosphorus haloids, the hydroxyl
   group is replaced by a halogen atom with the formation of derivatives
@@ -2568,7 +2568,7 @@ radical, either aliphatic or cyclic in nature.
   with a molecule of alkyl iodide to form salts of quaternary ammonium
   bases, e.g. R4N·I. It is worthy of note that phosphorus and arsenic
   bases analogous to the amines are known (see PHOSPHORUS and ARSENIC).
-  From the primary amines are derived the diazo compounds (q.v.) and azo
+  From the primary amines are derived the [[Diazo Compounds|diazo compounds]] (q.v.) and [[Azo|azo]]
   compounds (q.v.); closely related are the hydrazines (q.v.). Secondary
   amines yield nitrosamines, R2N·NO, with nitrous acid. By the action of
   hydroxylamine or phenylhydrazine on aldehydes or ketones, condensation
@@ -2677,7 +2677,7 @@ himself contributed largely to our knowledge of such compounds; penta-
 and hexa-methylene derivatives have also received considerable attention
 (see POLYMETHYLENES).
 
-A. von Baeyer has sought to explain the variations in stability manifest
+A. von Baeyer has sought to explain the variations in stability [[Manifest|manifest]]
 in the various polymethylene rings by a purely mechanical hypothesis,
 the "strain" or _Spannungs_ theory (_Ber._, 1885, p. 2277). Assuming the
 four valencies of the carbon atom to be directed from the centre of a
@@ -2711,7 +2711,7 @@ six-carbon rings into five-carbon rings have been recorded (see below,
 _Decompositions of the Benzene Ring_). Similar considerations will apply
 to rings containing other elements besides carbon. As an illustration it
 may be pointed out that in the case of the two known types of
-lactones--the [gamma]-lactones, which contain four carbon atoms and one
+lactones--the [gamma]-[[Lactones|lactones]], which contain four carbon atoms and one
 oxygen atom in the ring, are more readily formed and more stable (less
 readily hydrolysed) than the [delta]-lactones, which contain one oxygen
 and five carbon atoms in the ring. That the number of atoms which can be
@@ -2796,7 +2796,7 @@ C6H4·CH3·NO2, and toluene sulphonic acids, C6H4·CH3·SO3H; chlorination
 may result in the formation of derivatives substituted either in the
 aromatic nucleus or in the side chain; the former substitution occurs
 most readily, chlor-toluenes, C6H4·CH3·Cl, being formed, while the
-latter, which needs an elevation in temperature or other auxiliary,
+latter, which needs an elevation in temperature or other [[Auxiliary|auxiliary]],
 yields benzyl chloride, C6H5·CH2Cl, and benzal chloride, C6H5·CHCl2. In
 general, the aliphatic residues in such mixed compounds retain the
 characters of their class, while the aromatic residues retain the
@@ -3000,7 +3000,7 @@ general rule chiefly the meta-compounds, and this is independent of the
 nature of the second group introduced; on the other hand, benzene
 haloids, amino-, homologous-, and hydroxy-benzenes yield principally a
 mixture of the ortho- and para-compounds. These facts are embodied in
-the "Rule of Crum Brown and J. Gibson" (_Jour. Chem. Soc._ 61, p. 367):
+the "Rule of Crum Brown and J. [[Gibson]]" (_Jour. Chem. Soc._ 61, p. 367):
 If the hydrogen compound of the substituent already in the benzene
 nucleus can be directly oxidized to the corresponding hydroxyl compound,
 then meta-derivatives predominate on further substitution, if not, then
@@ -3052,7 +3052,7 @@ of one class into the other especially interesting.
   between carbonyl (CO) and methylene (CH2) groups. A historic example is
   that of the condensation of three molecules of acetone, CH3·CO·CH3, in
   the presence of sulphuric acid, to s-trimethylbenzene or mesitylene,
-  C6H3(CH3)3, first observed in 1837 by R. Kane; methylethyl ketone and
+  C6H3(CH3)3, first observed in 1837 by R. [[Kane]]; methylethyl ketone and
   methyl-n-propyl ketone suffer similar condensations to s-triethylbenzene
   and s-tri-n-propylbenzene respectively. Somewhat similar condensations
   are: of geranial or citral, (CH3)2CH·CH2·CH:CH·C(CH3):CH·CHO, to
@@ -3188,7 +3188,7 @@ acids.
   trichlorpyroracemic acid (isotrichlorglyceric acid), CCl3·C(OH)2·CO2H,
   a substance also obtained from trichloracetonitrile, CCl3·CO·CN, by
   hydrolysis. We may also notice the conversion of picric acid,
-  ([2.4.6]-trinitrophenol) into chloropicrin, CCl3NO2, by bleaching lime
+  ([2.4.6]-trinitrophenol) into chloropicrin, CCl3NO2, by [[Bleaching|bleaching]] lime
   (calcium hypochlorite), and into bromopicrin, CBr3NO2, by bromine
   water.
 
@@ -3285,7 +3285,7 @@ acids.
   (3), which alcoholic potash converts into perchloracroylacrylic acid
   (4). This substance, and also the preceding compound, is converted by
   aqueous caustic soda into dichlormaleic acid, trichlorethylene, and
-  hydrochloric acid (5) (Th. Zincke and O. Fuchs, _Ann._, 1892, 267, p.
+  hydrochloric acid (5) (Th. Zincke and O. [[Fuchs]], _Ann._, 1892, 267, p.
   1).
 
      OH           O               COOH          CO2H            CO2H
@@ -3374,7 +3374,7 @@ attaching a hydrogen atom to each carbon atom; being left with the
 fourth carbon valencies, he mutually saturated these in pairs, thus
 obtaining the symbol I (see below). The value of this ringed structure
 was readily perceived, but objections were raised with respect to
-Kekulé's disposal of the fourth valencies. In 1866 Sir James Dewar
+Kekulé's disposal of the fourth valencies. In 1866 Sir James [[Dewar]]
 proposed an unsymmetrical form (II); while in 1867, A. Claus
 (_Theoretische Betrachtungen und deren Anwendung zur Systematik der
 organischen Chemie_) proposed his diagonal formula (III), and two years
@@ -3723,7 +3723,7 @@ enantiomorphic tri-substitution derivatives.
   hexamethylene.
 
   We may also notice the model devised by H. Sachse (_Ber._, 1888, 21,
-  2530; _Zeit. fur phys. Chem._, II, p. 214; 23, p. 2062). Two parallel
+  2530; _Zeit. [[Fur|fur]] phys. Chem._, II, p. 214; 23, p. 2062). Two parallel
   triangular faces are removed from a cardboard model of a regular
   octahedron, and on the remaining six faces tetrahedra are then placed;
   the hydrogen atoms are at the free angles. This configuration is,
@@ -4253,7 +4253,7 @@ the white precipitates formed with calcium chloride and silver nitrate
 respectively; ammonia by the white cloud formed with the vapours of
 nitric or hydrochloric acids; and copper by the deep blue solution
 formed by a solution of ammonia. Of great importance is his introduction
-of vegetable juices (the so-called _indicators_, q.v.) to detect acids
+of vegetable juices (the so-called _[[Indicator|indicators]]_, q.v.) to detect acids
 and bases. During the phlogistic period, the detection of the
 constituents of compounds was considerably developed. Of the principal
 workers in this field we may notice Friedrich Hoffmann, Andreas
@@ -4273,8 +4273,8 @@ _Praktische Anleitung zur prüfenden und zurlegenden Chemie_ (1802).
 The introduction of the blowpipe into dry qualitative analysis by Axel
 Fredrik Cronstedt marks an important innovation. The rapidity of the
 method, and the accurate results which it gave in the hands of a
-practised experimenter, led to its systematization by Jöns Jakob
-Berzelius and Johann Friedrich Ludwig Hausmann, and in more recent times
+practised experimenter, led to its systematization by Jöns [[Jakob]]
+Berzelius and Johann Friedrich Ludwig [[Hausmann]], and in more recent times
 by K.F. Plattner, whose treatise _Die Probirkunst mit dem Löthrohr_ is a
 standard work on the subject. Another type of dry reaction, namely, the
 _flame coloration_, had been the subject of isolated notices, as, for
@@ -4329,7 +4329,7 @@ however, notice Heinrich Rose[15] and Friedrich Wohler,[16] who, having
 worked up the results of their teacher Berzelius, and combined them with
 their own valuable observations, exerted great influence on the progress
 of analytical chemistry by publishing works which contained admirable
-accounts of the then known methods of analysis. To K.R. Fresenius, the
+accounts of the then known methods of analysis. To K.R. [[Fresenius]], the
 founder of the _Zeitschrift für analytische Chemie_ (1862), we are
 particularly indebted for perfecting and systematizing the various
 methods of analytical chemistry. By strengthening the older methods, and
@@ -4540,7 +4540,7 @@ platinum wire in the oxidizing flame.
   tin may be present. If silica be present, it gives the iron bead when
   heated with a little ferric oxide; if tin is present there is no
   change. Certain substances, such as the precious metals, are quite
-  insoluble in the bead, but float about in it.
+  insoluble in the bead, but [[Float|float]] about in it.
 
 4. Hold a small portion of the substance moistened with hydrochloric
 acid on a clean platinum wire in the fusion zone of the Bunsen burner,
@@ -4719,7 +4719,7 @@ _tared_ filter, or incinerated and ignited either in air or in any other
 gas, and then weighed.
 
   (1) Accurate weighing is all-important: for details of the various
-  appliances and methods see WEIGHING MACHINES. (2) No general
+  appliances and methods see WEIGHING [[Machine|MACHINES]]. (2) No general
   directions can be given as to the method of precipitation. Sometimes
   it is necessary to allow the solution to stand for a considerable time
   either in the warm or cold or in the light or dark; to work with cold
@@ -4880,7 +4880,7 @@ determination of these elements.
   which condenses on the tube, when the substance is heated with copper
   oxide. Nitrogen may be detected by the evolution of ammonia when the
   substance is heated with soda-lime. A more delicate method is that due
-  to J. L. Lassaigne and improved by O. Jacobsen and C. Graebe. The
+  to J. L. Lassaigne and improved by O. [[Jacobsen]] and C. Graebe. The
   substance is heated with metallic sodium or potassium (in excess if
   sulphur be present) to redness, the residue treated with water,
   filtered, and ferrous sulphate, ferric chloride and hydrochloric acid
@@ -5016,7 +5016,7 @@ determination of these elements.
 
   _Dumas' Method._--In this method the operation is carried out in a
   hard glass tube sealed at one end and packed as shown in fig. 5. The
-  magnesite (a) serves for the generation of carbon dioxide which clears
+  [[Magnesite|magnesite]] (a) serves for the generation of carbon dioxide which clears
   the tube of air before the compound (mixed with fine copper oxide (b))
   is burned, and afterwards sweeps the liberated nitrogen into the
   receiving vessel (e), which contains a strong potash solution; c is
@@ -5044,7 +5044,7 @@ determination of these elements.
   _Kjeldahl's Method._--This method rapidly came into favour on account
   of its simplicity, both of operation and apparatus. Various substances
   other than potassium permanganate have been suggested for facilitating
-  the operation; J.W. Gunning (_Z. anal. Chem._, 1889, p. 189) uses
+  the operation; J.W. [[Gunning]] (_Z. anal. Chem._, 1889, p. 189) uses
   potassium sulphate; Lassar-Cohn uses mercuric oxide. The applicability
   of the process has been examined by F.W. Dafert (_Z. anal. Chem._,
   1888, p. 224), who has divided nitrogenous bodies into two classes
@@ -5055,7 +5055,7 @@ determination of these elements.
   comprises, with few exceptions, the nitro-, nitroso-, azo-, diazo- and
   amidoazo-compounds, hydrazines, derivatives of nitric and nitrous
   acids, and probably cyanogen compounds. Other improvements have been
-  suggested by Dyer (_J.C.S. Trans._ 67, p. 811). For an experimental
+  suggested by [[Dyer]] (_J.C.S. Trans._ 67, p. 811). For an experimental
   comparison of the accuracy of the Dumas, Will-Varrentrapp and Kjeldahl
   processes see L. L'Hôte, _C.R._ 1889, p. 817. Debordeaux (_C.R._ 1904,
   p. 905) has obtained good results by distilling the substance with a
@@ -5075,7 +5075,7 @@ determination of these elements.
   a mixture of sodium carbonate and potassium nitrate be used. With
   iodine compounds, iodic acid is likely to be formed, and hence the
   solution must be reduced with sulphurous acid before precipitation
-  with silver nitrate. C. Zulkowsky (_Ber._ 18, R. 648) burns the
+  with silver nitrate. C. Zulkowsky (_Ber._ 18, R. 648) [[Burns|burns]] the
   substance in oxygen, conducts the gases over platinized sand, and
   collects the products in suitable receivers. The oxidation with nitric
   acid in sealed tubes at a temperature of 150° to 200° for aliphatic
@@ -5128,7 +5128,7 @@ physical chemistry. This branch receives treatment below. Of
 considerable importance, also, are the properties of solids, liquids and
 gases in solution. This subject has occupied a dominant position in
 physico-chemical research since the investigations of van't Hoff and
-Arrhenius. This subject is treated in the article SOLUTION; for the
+[[Arrhenius]]. This subject is treated in the article SOLUTION; for the
 properties of liquid mixtures reference should also be made to the
 article DISTILLATION.
 
@@ -5848,8 +5848,8 @@ employed, since it was by no means a constant which depended only on the
 actual composition of the substance and was independent of its physical
 condition. A more accurate expression (n²-1)/(n²+2)d was suggested in
 1880 independently and almost simultaneously by L.V. Lorenz of
-Copenhagen and H.A. Lorentz of Leiden, from considerations based on the
-Clausius-Mossotti theory of dielectrics.
+[[Copenhagen]] and H.A. Lorentz of Leiden, from considerations based on the
+Clausius-Mossotti theory of [[Dielectric|dielectrics]].
 
   Assuming that the molecules are spherical, R.J.E. Clausius and O.F.
   Mossotti found a relation between the dielectric constant and the
@@ -5857,7 +5857,7 @@ Clausius-Mossotti theory of dielectrics.
   or a = (K - 1)/(K + 2), where K is the dielectric constant and a the
   fraction of the total volume actually occupied by matter. According to
   the electromagnetic theory of light K = N², where N is the refractive
-  index for rays of infinite wave-length. Making this substitution, and
+  index for rays of [[Infinite|infinite]] wave-length. Making this substitution, and
   dividing by d, the density of the substance, we obtain a/d = (N² -
   1)/(N² + 2 )d. Since a/d is the real specific volume of the molecule,
   it is therefore a constant; hence (N² - 1)/(N² + 2)d is also a
@@ -6090,7 +6090,7 @@ coloured substances.
   Auxochromic groups generally aid one another, i.e. the tint deepens as
   the number of auxochromes increases. Also the relative position of the
   auxochrome to the chromophore influences colour, the ortho-position
-  being generally the most powerful. Kauffmann (_Ber._, 1906, 39, p.
+  being generally the most powerful. [[Kauffmann]] (_Ber._, 1906, 39, p.
   1959) attempted an evaluation of the effects of auxochromic groups by
   means of the magnetic optical constants. The method is based on the
   supposition that the magnetic rotation measures the strain produced in
@@ -6314,7 +6314,7 @@ the property with constitution.
   corpuscles, has been proposed by J. de Kowalski (_Compt. rend._ 1907,
   144, p. 266). We may notice that ethyl oxalosuccinonitrile is the
   first case of a fluorescent aliphatic compound (see W. Wislicenus and
-  P. Berg, _Ber._, 1908, 41, p. 3757).
+  P. [[Berg]], _Ber._, 1908, 41, p. 3757).
 
 _Capillarity and Surface Tension._--Reference should be made to the
 article CAPILLARY ACTION for the general discussion of this phenomenon
@@ -6541,7 +6541,7 @@ side by side.
   exist in metastable forms at higher and lower temperatures
   respectively; the rhombic form may be cooled down to ordinary
   temperature without changing, the transformation, however, being
-  readily induced by a trace of the red modification, or by friction.
+  readily induced by a trace of the red modification, or by [[Friction|friction]].
   The density and specific heat of the tetragonal form are greater than
   those of the yellow.
 
@@ -6576,7 +6576,7 @@ other ions may modify the form obtained. In the case of sodium
 dihydrogen phosphate, NaH2PO4·H2O, a stable rhombic form is obtained
 from warm solutions, while a different, unstable, rhombic form is
 obtained from cold solutions. Calcium carbonate separates as hexagonal
-calcite from cold solutions (below 30°), and as rhombic aragonite from
+[[Calcite|calcite]] from cold solutions (below 30°), and as rhombic [[Aragonite|aragonite]] from
 solutions at higher temperatures; lead and strontium carbonates,
 however, induce the separation of aragonite at lower temperatures. From
 supersaturated solutions the form unstable at the temperature of the
@@ -6806,7 +6806,7 @@ sufficient to establish true isomorphism. If a substance deposits itself
 on the faces of a crystal of another substance of similar crystal form,
 the substances are probably isomorphous. Such parallel overgrowths,
 termed episomorphs, are very common among the potassium and sodium
-felspars; and K. von Hauer has investigated a number of cases in which
+felspars; and K. von [[Hauer]] has investigated a number of cases in which
 salts exhibiting episomorphism have different colours, thereby clearly
 demonstrating this property of isomorphism. For example, episomorphs of
 white potash alum and violet chrome alum, of white magnesium sulphate
@@ -6924,7 +6924,7 @@ same series (see W. Nernst, _Theoretical Chemistry_).
   Richter, _Lexikon der Kohlenstoffverbindungen_ (these are primarily
   works of reference); V. Meyer and P.H. Jacobson, _Lehrbuch der
   organischen Chemie_; Richter-Anschutz, _Organische Chemie_ (11th ed.,
-  vol. i., 1909, Eng. trans.); G.K. Schmidt, _Kurzes Lehrbuch der
+  vol. i., 1909, Eng. trans.); G.K. Schmidt, _[[Kurz|Kurzes]] Lehrbuch der
   organischen Chemie_; A. Bernthsen, _Organische Chemie_ (Eng. trans.).
   Practical methods are treated in Lassar-Cohn, _Arbeitsmethoden für
   organisch-chemische Laboratorien_ (4th ed., 1906-1907). Select

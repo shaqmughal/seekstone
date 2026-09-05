@@ -10,10 +10,10 @@ BANNERS, FEAST OF (Jap. _Nobori-no-Sekku_), a Japanese festival in honour
 of male children held on the 5th of May. Every householder who has sons
 fastens a bamboo pole over his door and hangs from it gaily-coloured paper
 fishes, one for each of his boys. These fishes are made to represent carp,
-which are in Japanese folklore symbolical of health and longevity. The day
+which are in Japanese folklore symbolical of health and [[Longevity|longevity]]. The day
 is recognized as a national holiday.
 
-For banners in general see FLAG.
+For banners in general see [[Flag|FLAG]].
 
 ## See also
 

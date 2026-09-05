@@ -15,9 +15,9 @@ Giovanni Cambiasi. He took to drawing at a very early age, imitating his
 father, and developed great aptitude for foreshortening. At the age of
 fifteen he painted, along with his father, some subjects from Ovid's
 _Metamorphoses_ on the front of a house in Genoa, and afterwards, in
-conjunction with Marcantonio Calvi, a ceiling showing great daring of
-execution in the Palazzo Doria. He also formed an early friendship with
-Giambattista Castello; both artists painted together, with so much
+conjunction with Marcantonio [[Calvi]], a [[Ceiling|ceiling]] showing great daring of
+execution in the Palazzo [[Doria]]. He also formed an early friendship with
+Giambattista [[Castello]]; both artists painted together, with so much
 similarity of style that their works could hardly be told apart; from
 this friend Cambiasi learned much in the way of perspective and
 architecture. Luchetto's best artistic period lasted for twelve years
@@ -25,19 +25,19 @@ after his first successes; from that time he declined in power, though
 not at once in reputation, owing to the agitations and vexations brought
 upon him by a passion which he conceived for his sister-in-law. His wife
 having died, and the sister-in-law having taken charge of his house and
-children, he endeavoured to procure a papal dispensation for marrying
+children, he endeavoured to procure a papal [[Dispensation|dispensation]] for marrying
 her; but in this he was disappointed. In 1583 he accepted an invitation
 from Philip II. to continue in the Escorial a series of frescoes which
 had been begun by Castello, now deceased; and it is said that one
 principal reason for his closing with this offer was that he hoped to
 bring the royal influence to bear upon the pope, but in this again he
 failed. Worn out with his disquietudes, he died in the Escorial in the
-second year of his sojourn. Cambiasi had an ardent fancy, and was a bold
+second year of his sojourn. Cambiasi had an ardent [[Fancy|fancy]], and was a bold
 designer in a Raphaelesque mode. His extreme facility astonished the
 Spanish painters; and it is said that Philip II., watching one day with
 pleasure the offhand zest with which Luchetto was painting a head of a
 laughing child, was allowed the further surprise of seeing the laugh
-changed, by a touch or two upon the lips, into a weeping expression. The
+changed, by a touch or two upon the [[Lip|lips]], into a weeping expression. The
 artist painted sometimes with a brush in each hand, and with a certainty
 equalling or transcending that even of Tintoret. He made a vast number
 of drawings, and was also something of a sculptor, executing in this
@@ -53,7 +53,7 @@ son Orazio became likewise a painter, studying under Luchetto.
   (according to tradition) that of his beloved sister-in-law. In the
   Escorial he executed several pictures; one is a Paradise on the
   vaulting of the church, with a multitude of figures. For this picture
-  he received 12,000 ducats, probably the largest sum that had, up to
+  he received 12,000 [[Ducat|ducats]], probably the largest sum that had, up to
   that time, ever been given for a single work.
 
 
@@ -61,26 +61,26 @@ son Orazio became likewise a painter, studying under Luchetto.
 
 CAMBODIA[1] (called by the inhabitants _Sroc Khmer_ and by the French
 _Cambodge_), a country of south-eastern Asia and a protectorate of
-France, forming part of French Indo-China.
+France, forming part of French [[Indo-China]].
 
-_Geography_.--It is bounded N. by Siam and Laos, E. by Annam, S.E. and
+_[[Geography]]_.--It is bounded N. by Siam and [[Laos]], E. by [[Annam]], S.E. and
 S. by Cochin-China, S.W. by the Gulf of Siam, and W. by Siam. Its area
 is estimated at approximately 65,000 sq. m.; its population at
 1,500,000, of whom some three-quarters are Cambodians, the rest Chinese,
 Annamese, Chams, Malays, and aboriginal natives. The whole of Cambodia
 lies in the basin of the lower Mekong, which, entering this territory on
 the north, flows south for some distance, then inclines south-west as
-far as Pnom-penh, where it spreads into a delta and resumes a southerly
+far as Pnom-penh, where it spreads into a [[Delta|delta]] and resumes a southerly
 course. The salient feature of Cambodian geography is the large lake
 Tonlé-Sap, in a depression 68 m. long from south-east to north-west and
 15 m. wide. It is fed by several rivers and innumerable torrents, and
 at flood-time serves as a reservoir for the Mekong, with which it is
-connected by a channel some 70 m. long, known as the Bras du Lac and
+connected by a channel some 70 m. long, known as the Bras du [[Lac]] and
 joining the river at Pnom-Penh. In June the waters of the Mekong,
 swollen by the rains and the melting of the Tibetan snows, rise to a
 height of 40 to 45 ft. and flow through the Bras du Lac towards the
 lake, which then covers an area of 770 sq. m., and like the river
-inundates the marshes and forests on its borders. During the dry season
+inundates the marshes and forests on its [[Borders|borders]]. During the dry season
 the current reverses and the depression empties so that the lake shrinks
 to an area of 100 sq. m., and its depth falls from 45-48 ft. to a
 maximum of 5 ft. Tonlé-Sap probably represents the chief wealth of
@@ -98,25 +98,25 @@ the Mekong at Stung-treng. Small islands, inhabited by a fishing
 population, fringe the west coast.
 
 _Climate, Fauna and Flora._--The climate of Cambodia, like that of
-Cochin China, which it closely resembles, varies with the monsoons.
+[[Cochin]] China, which it closely resembles, varies with the monsoons.
 During the north-east monsoon, from the middle of October to the middle
 of April, dry weather prevails and the thermometer averages from 77° to
 80° F. During the south-west monsoon, from the middle of April to the
 middle of October, rain falls daily and the temperature varies between
-85° and 95°. The wild animals of Cambodia include the elephant, which is
-also domesticated, the rhinoceros, buffalo and some species of wild ox;
-also the tiger, panther, leopard and honey-bear. Wild boars, monkeys and
-rats abound and are the chief enemies of the cultivator. The crocodile
+85° and 95°. The wild animals of Cambodia include the [[Elephant|elephant]], which is
+also domesticated, the rhinoceros, [[Buffalo|buffalo]] and some species of wild ox;
+also the tiger, panther, [[Leopard|leopard]] and honey-bear. Wild boars, monkeys and
+rats abound and are the chief enemies of the cultivator. The [[Crocodile|crocodile]]
 is found in the Mekong, and there are many varieties of reptiles, some
 of them venomous. The horse of Cambodia is only from 11 to 12 hands in
 height, but is strong and capable of great endurance; the buffalo is the
 chief draught animal. Swine are reared in large numbers. Nux vomica,
-gamboge, caoutchouc, cardamoms, teak and other valuable woods and gums
+gamboge, caoutchouc, cardamoms, teak and other valuable woods and [[Gum|gums]]
 are among the natural products.
 
 _People_.--The Cambodians have a far more marked affinity with their
 Siamese than with their Annamese neighbours. The race is probably the
-result of a fusion of the Malay aborigines of Indo-China with the Aryan
+result of a [[Fusion|fusion]] of the Malay aborigines of Indo-China with the [[Aryan]]
 and Mongolian invaders of the country. The men are taller and more
 muscular than the Siamese and Annamese, while the women are small and
 inclined to stoutness. The face is flat and wide, the nose short, the
@@ -130,19 +130,19 @@ superstitious, and given to drinking and gambling, the Cambodians are at
 the same time clean, fairly intelligent, proud and courageous. The wife
 enjoys a respected position and divorce may be demanded by either party.
 Polygamy is almost confined to the richer classes. Though disinclined to
-work, the Cambodians make good hunters and woodsmen. Many of them live on
+work, the Cambodians make good [[Hunter|hunters]] and woodsmen. Many of them live on
 the borders of the Mekong and the great lake, in huts built upon piles or
 floating rafts. The religion of Cambodia is Buddhism, and involves great
 respect towards the dead; the worship of spirits or local genii is also
 wide-spread, and Brahmanism is still maintained at the court. Monks or
 _bonzes_ are very numerous; they live by alms and in return they teach
-the young to read, and superintend coronations, marriages, funerals and
+the young to read, and superintend [[Coronation|coronations]], marriages, funerals and
 the other ceremonials which play a large part in the lives of the
 Cambodians. As in the rest of Indo-China, there is no hereditary
-nobility, but there exist castes founded on blood-relationship--the
+nobility, but there exist [[Caste|castes]] founded on blood-relationship--the
 members of the royal family within the fifth degree (the _Brah-Vansa_)
 those beyond the fifth degree (_Brah-Van_), and the _Bakou_, who, as
-descendants of the ancient Brahmans, exercise certain official functions
+descendants of the ancient [[Brahman|Brahmans]], exercise certain official functions
 at the court. These castes, as well as the mandarins, who form a class by
 themselves, are exempt from tax or forced service. The mandarins are
 nominated by the king and their children have a position at court, and
@@ -153,28 +153,28 @@ influence. Under French rule, which has modified the old usages in many
 respects, local government of the Annamese type tends to supplant this
 feudal system. Slavery was abolished by a royal ordinance of 1897.
 
-Cambodian idiom bears a likeness to some of the aboriginal dialects of
+Cambodian [[Idiom|idiom]] bears a likeness to some of the aboriginal [[Dialect|dialects]] of
 south Indo-China; it is agglutinate in character and rich in
 vowel-sounds. The king's language and the royal writing, and also
 religious words are, however, apparently of Aryan origin and akin to
 Pali. Cambodian writing is syllabic and complicated. The books
-(manuscripts) are generally formed of palm-leaves upon which the
+([[Manuscript|manuscripts]]) are generally formed of palm-leaves upon which the
 characters are traced by means of a style.
 
 _Industry and Commerce._--Iron, worked by the tribe of the Kouis, is
 found in the mountainous region. The Cambodians show skill in working
-gold and silver; earthenware, bricks, mats, fans and silk and cotton
+gold and silver; earthenware, [[Brick|bricks]], [[Mat|mats]], [[Fan|fans]] and silk and cotton
 fabrics, are also produced to some small extent, but fishing and the
 cultivation of rice and in a minor degree of tobacco, coffee, cotton,
 pepper, indigo, maize, tea and sugar are the only industries worthy of
 the name. Factories exist near Pnom-Penh for the shelling of
 cotton-seeds. The Cambodian is his own artificer and self-sufficing so
-far as his own needs are concerned. Rice, dried fish, beans, pepper and
+far as his own needs are concerned. Rice, dried fish, [[Bean|beans]], pepper and
 oxen are the chief elements in the export trade of the country, which is
 in the hands of Chinese. The native plays little or no part in commerce.
 
 Trade is carried on chiefly through Saigon in Cochin-China, Kampot, the
-only port of Cambodia, being accessible solely to coasting vessels. With
+only port of Cambodia, being accessible solely to [[Coasting|coasting]] vessels. With
 the exception of the highway from Pnom-Penh (q.v.) the capital, to
 Kampot, the roads of Cambodia are not suited for vehicles. Pnom-Penh
 communicates regularly by the steamers of the "Messageries Fluviales" by
@@ -243,7 +243,7 @@ into two portions ruled over by two sovereigns. Unity appears to have
 been re-established about the beginning of the 9th century, when with
 Jayavarman III. there begins a dynasty which embraces the zenith of
 Khmer greatness and the era during which the great Brahman monuments
-were built. The royal city of Angkor-Thorn (see ANGKOR) was completed
+were built. The royal city of Angkor-Thorn (see [[Angkor|ANGKOR]]) was completed
 under Yasovarman about A.D. 900. In the 10th century Buddhism, which had
 existed for centuries in Cambodia, began to become powerful and to rival
 Brahmanism, the official religion. The construction of the temple of
@@ -258,7 +258,7 @@ War was also carried on against the western neighbours of Cambodia, and
 the exhaustion consequent upon all these efforts seems to have been the
 immediate cause of the decadence which now set in. From the last decade
 of the 13th century there dates a valuable description of Tchin-la[2]
-written by a member of a Chinese embassy thereto. The same period
+written by a member of a Chinese [[Embassy|embassy]] thereto. The same period
 probably also witnessed the liberation of the Thais or inhabitants of
 Siam from the yoke of the Khmers, to whom they had for long been
 subject, and the expulsion of the now declining race from the basin of
@@ -279,7 +279,7 @@ rulers of southern Annam, began to encroach on the territory of
 Cochin-China, and in the course of that and the 18th century, Cambodia,
 governed by two kings supported respectively by Siam and Annam, became a
 field for the conflicts of its two powerful neighbours. At the end of
-the 18th century the provinces of Battambang and Siem-reap were annexed
+the 18th century the provinces of [[Battambang]] and Siem-reap were annexed
 by Siam. The rivalries of the two powers were concluded after a last and
 indecisive war by the treaty of 1846, as a result of which Ang-Duong,
 the protégé of Siam, was placed on the throne at the capital of Oudong,
@@ -305,7 +305,7 @@ Sisowath.
 
   See E. Aymonier, _Le Cambodge_ (3 vols., Paris, 1900-1904); L. Moura,
   _Le royaume de Cambodge_ (2 vols., Paris, 1883); A. Leclère, _Les
-  codes cambodgiens_ (2 vols., Paris, 1898), and other works on
+  [[Code|codes]] cambodgiens_ (2 vols., Paris, 1898), and other works on
   Cambodian law; Francis Gamier, _Voyage d'exploration en Indo-Chine_
   (Paris, 1873).
 
@@ -314,7 +314,7 @@ FOOTNOTES:
 
   [1] See also INDO-CHINA, FRENCH
 
-  [2] Translated by Abel Rémusat, _Noveaux Mélanges Asiatiques_ (1829).
+  [2] Translated by Abel Rémusat, _Noveaux Mé[[Lange|langes]] Asiatiques_ (1829).
 
 ## See also
 

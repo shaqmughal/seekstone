@@ -14,7 +14,7 @@ _Annales de Chimie et de Physique_ (1835 and 1837). His astronomical
 vocation, like that of Kepler, came from without. The place of teacher
 of that science at the École Polytechnique falling vacant in 1837, it
 was offered to and accepted by Leverrier, who, "docile to circumstance,"
-instantly abandoned chemistry, and directed the whole of his powers to
+instantly abandoned [[Chemistry|chemistry]], and directed the whole of his powers to
 celestial mechanics. The first fruits of his labours were contained in
 two memoirs presented to the Academy, September 16 and October 14, 1839.
 Pursuing the investigations of Laplace, he demonstrated with greater
@@ -23,7 +23,7 @@ within which the eccentricities and inclinations of the planetary orbits
 vary. This remarkable début excited much attention, and, on the
 recommendation of François Arago, he took in hand the theory of Mercury,
 producing, in 1843, vastly improved tables of that planet. The
-perturbations of the comets discovered, the one by H. A. E. A. Faye in
+perturbations of the [[Comet|comets]] discovered, the one by H. A. E. A. Faye in
 November 1843, the other by Francesco de Vico a year later, were
 minutely investigated by Leverrier, with the result of disproving the
 supposed identity of the first with Lexell's lost comet of 1770, and of
@@ -35,17 +35,17 @@ Uranus. Step by step, with sagacious and patient accuracy, he advanced
 to the great discovery which has immortalized his name. Carefully
 sifting all the known causes of disturbance, he showed that one
 previously unknown had to be reckoned with, and on the 23rd of September
-1846 the planet Neptune was discerned by J. G. Galle (d. 1910) at
+1846 the planet Neptune was discerned by J. G. [[Galle]] (d. 1910) at
 Berlin, within one degree of the spot Leverrier had indicated (see
 NEPTUNE).
 
 This memorable achievement was greeted with an outburst of public
-enthusiasm. Academies vied with each other in enrolling Leverrier among
-their members; the Royal Society awarded him the Copley medal; the king
-of Denmark sent him the order of the Dannebrog; he was named officer in
-the Legion of Honour, and preceptor to the comte de Paris; a chair of
-astronomy was created for his benefit at the Faculty of Sciences; he was
-appointed adjunct astronomer to the Bureau of Longitudes. Returned to
+[[Enthusiasm|enthusiasm]]. Academies vied with each other in enrolling Leverrier among
+their members; the Royal Society awarded him the [[Copley]] medal; the king
+of [[Denmark]] sent him the order of the Dannebrog; he was named officer in
+the [[Legion]] of Honour, and preceptor to the comte de Paris; a chair of
+[[Astronomy|astronomy]] was created for his benefit at the Faculty of Sciences; he was
+appointed adjunct astronomer to the [[Bureau]] of Longitudes. Returned to
 the Legislative Assembly in 1849 by his native department of Manche, he
 voted with the anti-republican party, but devoted his principal
 attention to subjects connected with science and education. After the
@@ -57,15 +57,15 @@ latter capacity would alone have strained the energies of an ordinary
 man. The institution had fallen into a state of lamentable inefficiency.
 Leverrier placed it on a totally new footing, freed it from the control
 of the Bureau of Longitudes, and raised it to its due rank among the
-observatories of Europe. He did not escape the common lot of reformers.
+observatories of Europe. He did not escape the common [[Lot|lot]] of reformers.
 His uncompromising measures and unconciliatory manner of enforcing them
 raised a storm only appeased by his removal on the 5th of February 1870.
-On the death of his successor Charles Eugène Delaunay (1816-1872), he
+On the death of his successor Charles Eugène [[Delaunay]] (1816-1872), he
 was reinstated by Thiers, but with authority restricted by the
 supervision of a council. In the midst of these disquietudes, he
 executed a task of gigantic proportions. This was nothing less than the
 complete revision cf the planetary theories, followed by a laborious
-comparison of results with the most authentic observations, and the
+comparison of results with the most [[Authentic|authentic]] observations, and the
 construction of tables representing the movements thus corrected. It
 required all his indomitable perseverance to carry through a purpose
 which failing health continually menaced with frustration. He had,
@@ -81,7 +81,7 @@ month, he left a son and daughter.
   larger aim, for the accomplishment of which forty years of unremitting
   industry barely sufficed. He nevertheless found time to organize the
   meteorological service in France and to promote the present system of
-  international weather-warnings. He founded the Association
+  [[International|international]] weather-warnings. He founded the Association
   Scientifique, and was active in introducing a practical scientific
   element into public education. His inference of the existence, between
   Mercury and the sun, of an appreciable quantity of circulating matter

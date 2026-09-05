@@ -1,12 +1,12 @@
 # Marquetry
 
 MARQUETRY (Fr. _marqueterie_, from _marqueter_, to inlay, literally to
-mark, _marquer_), an inlay of ornamental woods, ivory, bone, brass and
+mark, _marquer_), an inlay of ornamental woods, [[Ivory|ivory]], [[Bone|bone]], brass and
 other metals, tortoise-shell, mother-of-pearl, &c., in which shaped
 pieces of different materials or tints are combined to form a design. It
 is a later development of the ornamental inlays of wood known by the
 name of Intarsia, and though in the main the latter was a true inlay of
-one or more colours upon a darker or lighter ground, while marquetry is
+one or more [[Colours|colours]] upon a darker or lighter ground, while marquetry is
 composed of pieces of quite thin wood or other material of equal
 thickness laid down upon a matrix with glue, there are examples of
 Intarsia in which this mode of manufacture was evidently followed. For
@@ -21,7 +21,7 @@ by the use of actual colour, but the result is usually hardly
 commensurate with the labour expended. A combination of tortoise-shell
 and metal, the one forming the ground and the other the pattern upon it,
 which may be classed as marquetry also appears in the 17th century. The
-subjects of the _intarsiatori_ are generally arabesques or panels with
+subjects of the _intarsiatori_ are generally [[Arabesque|arabesques]] or panels with
 elaborate perspectives, either of buildings or cupboards with different
 articles upon the shelves seen through half-open doors, which themselves
 are frequently of lattice-work delineated with extraordinary perfection,
@@ -33,8 +33,8 @@ the examples in England are importations, either from Holland (in which
 country very fine work was produced during the latter half of the 16th
 and 17th centuries) or from France. The reputation of the Dutch
 _marqueteurs_ was so great that Colbert engaged two, named Pierre Gole
-and Vordt, for the Gobelins at the beginning of the 17th century. Jean
-Macé of Blois, the first Frenchman known to have practised the art, who
+and Vordt, for the [[Gobelin|Gobelins]] at the beginning of the 17th century. Jean
+Macé of [[Blois]], the first Frenchman known to have practised the art, who
 was at work in Paris from 1644 (when he was lodged in the Louvre), or
 earlier, till 1672, as a sculptor and painter, learnt it in the
 Netherlands. His title was "menuisier et faiseur de cabinets et tableaux

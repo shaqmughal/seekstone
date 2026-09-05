@@ -20,7 +20,7 @@ municipality owns and operates its water-works. Gallipolis was settled
 in 1790 by colonists from France, who had received worthless deeds to
 lands in Ohio from the Scioto Land Company, founded by Col. William Duer
 (1747-1799) and others in 1787 and officially organized in 1789 as the
-Compagnie du Scioto in Paris by Joel Barlow, the agent of Duer and his
+Compagnie du Scioto in Paris by Joel [[Barlow]], the agent of Duer and his
 associates abroad, William Playfair, an Englishman, and six Frenchmen.
 This company had arranged with the Ohio Company in 1787 for the use of
 about 4,000,000 acres, N. of the Ohio and E. of the Scioto, on which the
@@ -35,12 +35,12 @@ Alexandria, Virginia, arrived on the site of Gallipolis, where rude huts
 had been built for them. This land, however, fell within the limits of
 the tract bought outright by the Ohio Company, which sold it to the
 Scioto Company, and to which it reverted on the failure of the Scioto
-Company to pay. In 1794 William Bradford, attorney-general of the United
+Company to pay. In 1794 William [[Bradford]], [[Attorney-General|attorney-general]] of the United
 States, decided that all rights in the 4,000,000 acres, on which the
 Ohio Company had secured an option for the Scioto Company, were legally
 vested in the Ohio Company. In 1795 the Ohio Company sold to the French
 settlers for $1.25 an acre the land they occupied and adjacent improved
-lots, and the United States government granted to them 24,000 acres in
+[[Lot|lots]], and the United States government granted to them 24,000 acres in
 the southern part of what is now Scioto County in 1795; little of this
 land (still known as the "French Grant"), however, was ever occupied by
 them. Gallipolis was incorporated as a village in 1842, and was first

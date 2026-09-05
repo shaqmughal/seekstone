@@ -12,10 +12,10 @@ fertile plain on the right bank of the Nogat, a channel of the Vistula,
 here spanned by a handsome railway bridge and by a bridge of boats. Pop.
 (1905), 13,095. Marienburg contains large chemical wool-cleaning works
 and several other factories, carries on a considerable trade in grain,
-wood, linen, feathers and brushes, and is the seat of important cattle,
+wood, linen, [[Feather|feathers]] and brushes, and is the seat of important cattle,
 horse and wool markets. Its educational institutions include a gymnasium
 and a Protestant normal school. In the old market-place, many of the
-houses in which are built with arcades, stands a Gothic town-hall,
+houses in which are built with [[Arcade|arcades]], stands a [[Gothic]] town-hall,
 dating from the end of the 14th century. The town is also embellished
 with a fine statue of Frederick the Great, who added this district to
 Prussia, and a monument commemorating the war of 1870-71. Marienburg is
@@ -31,7 +31,7 @@ Poles, by whom it was allowed to fall into neglect and decay. It came
 into the possession of Prussia in 1772, and was carefully restored at
 the beginning of the 19th century. This interesting and curious building
 consists of three parts, the Alt- or Hochschloss, the Mittelschloss, and
-the Vorburg. It is built of brick, in a style of architecture peculiar
+the Vorburg. It is built of [[Brick|brick]], in a style of architecture peculiar
 to the Baltic provinces, and is undoubtedly one of the most important
 secular buildings of the middle ages in Germany.
 

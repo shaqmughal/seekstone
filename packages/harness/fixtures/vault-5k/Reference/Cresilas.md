@@ -13,7 +13,7 @@ amazons at Ephesus (see GREEK ART) about 450 B.C. As his amazon was
 wounded (_volnerata_; Pliny, _Nat. Hist._ xxxiv. 75), we may safely
 identify it with the figure, of which several copies are extant, who is
 carefully removing her blood-stained garment from a wound under the
-right breast. Another work of Cresilas of which copies survive is the
+right [[Breast|breast]]. Another work of Cresilas of which copies survive is the
 portrait of Pericles, the earliest Greek portrait which has been with
 certainty identified, and which fully confirms the statement of ancient
 critics that Cresilas was an artist who idealized and added nobility to
@@ -28,7 +28,7 @@ cresols are found in the tar obtained in the destructive distillation of
 coal, beech-wood and pine. The crude cresol obtained from tar cannot be
 separated into its different constituents by fractional distillation,
 since the boiling points of the three isomers are very close together.
-The pure substances are best obtained by fusion of the corresponding
+The pure substances are best obtained by [[Fusion|fusion]] of the corresponding
 toluene sulphonic acids with potash.
 
 Ortho-cresol, CH3(1).C6H4.OH(2), occurs as sulphate in the urine of the
@@ -44,7 +44,7 @@ Propylene is liberated during the reaction, and the phosphoric acid
 ester of meta-cresol which is formed is then fused with potash. It can
 also be prepared by distilling meta-oxyuvitic acid with lime, or by the
 action of air on boiling toluene in the presence of aluminium chloride
-(C. Friedel and J. M. Crafts, _Ann. Chim. Phys._, 1888 [6], 14, p. 436).
+(C. [[Friedel]] and J. M. Crafts, _Ann. Chim. Phys._, 1888 [6], 14, p. 436).
 It solidifies in a freezing mixture, on the addition of a crystal of
 phenol, and then melts at 3 deg.-4 deg. C. It boils at 202 deg..8 C. Its
 aqueous solution is coloured bluish-violet by ferric chloride.

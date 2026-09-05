@@ -8,7 +8,7 @@ type: reference
 # Go
 
 GO, or GO-BANG (Jap. _Go-ban_, board for playing _Go_), a popular table
-game. It is of great antiquity, having been invented in Japan, according
+[[Game|game]]. It is of great antiquity, having been invented in [[Japan]], according
 to tradition, by the emperor Yao, 2350 B.C., but it is probably of
 Chinese origin. According to Falkener the first historical mention of it
 was made about the year 300 B.C., but there is abundant evidence that it
@@ -30,8 +30,8 @@ of the game, as the word _go_ means five. Except in Japan it is often
 played on an ordinary draughts-board, and the winner is he who first
 gets five men into line, either vertically, horizontally or diagonally.
 
-  See _Go-Bang_, by A. Howard Cady, in Spalding's Home Library (New
-  York, 1896); _Games Ancient and Oriental_, by Edward Falkener (London,
+  See _Go-Bang_, by A. [[Howard]] Cady, in Spalding's Home Library (New
+  York, 1896); _[[Games]] Ancient and Oriental_, by Edward Falkener (London,
   1892); _Das japan.-chinesische Spiel Go_, by O. Korschelt (Yokohama,
   1881); _Das Nationalspiel der Japanesen_, by G. Schurig (Leipzig,
   1888).

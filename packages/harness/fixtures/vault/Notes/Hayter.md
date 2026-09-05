@@ -11,7 +11,7 @@ popular drawing-master and teacher of perspective who published a
 well-known introduction to perspective and other works. He was born in
 London, and in his early youth went to sea. He afterwards studied in the
 Royal Academy, became a miniature-painter, and was appointed in 1816
-miniature-painter to the princess Charlotte. He passed some years in
+miniature-painter to the princess [[Charlotte]]. He passed some years in
 Italy, more especially in Rome, between 1816 and 1831, returned to
 London in the last-named year, resumed portrait-painting, now chiefly in
 oil-colour, executed many likenesses of the royal family, and attained
@@ -21,7 +21,7 @@ drawing to the princesses. In 1842 he was knighted. He painted various
 works on a large scale of a public and semi-historical character, but
 essentially works of portraiture; such as "The Trial of Queen Caroline"
 (189 likenesses), "The Meeting of the First Reformed Parliament," now in
-the National Portrait Gallery, "Queen Victoria taking the Coronation
+the National Portrait Gallery, "Queen Victoria taking the [[Coronation]]
 Oath" (accounted his finest production), "The Marriage of the Queen,"
 and the "Trial of Lord William Russell." The artistic merits of Hayter's
 works are not, however, such as to preserve to him with posterity an

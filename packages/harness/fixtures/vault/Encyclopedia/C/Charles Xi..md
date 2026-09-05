@@ -20,7 +20,7 @@ upright and God-fearing; if he had neglected his studies it was to
 devote himself to manly sports and exercises; and in the pursuit of his
 favourite pastime, bear-hunting, he had already given proofs of the most
 splendid courage. It was the general disaster produced by the
-speculative policy of his former guardians which first called forth his
+speculative policy of his former [[Guardian|guardians]] which first called forth his
 sterling qualities and hardened him into a premature manhood. With
 indefatigable energy he at once attempted to grapple with the
 difficulties of the situation, waging an almost desperate struggle with
@@ -31,12 +31,12 @@ Scania (Skane) to arm the nation for its mortal struggle. The victory of
 Fyllebro (Aug. 17, 1676), when Charles and his commander-in-chief S.G.
 Helmfeld routed a Danish division, was the first gleam of good luck, and
 on the 4th of December, on the tableland of Helgonaback, near Lund, the
-young Swedish monarch defeated Christian V. of Denmark, who also
+young Swedish monarch defeated Christian V. of [[Denmark]], who also
 commanded his army in person. After a ferocious contest, the Danes were
 practically annihilated. The battle of Lund was, relatively to the
 number engaged, one of the bloodiest engagements of modern times. More
 than half the combatants (8357, of whom 3000 were Swedes) actually
-perished on the battle-field. All the Swedish commanders showed
+perished on the battle-field. All the Swedish [[Commander|commanders]] showed
 remarkable ability, but the chief glory of the day indisputably belongs
 to Charles XI. This great victory restored to the Swedes their
 self-confidence and prestige. In the following year, Charles with 9000
@@ -48,7 +48,7 @@ bitterly resented "the insufferable tutelage" of the French king, was
 forced at last to acquiesce in a peace which at least left his empire
 practically intact. Charles devoted the rest of his life to the gigantic
 task of rehabilitating Sweden by means of a _reduktion_, or recovery of
-alienated crown lands, a process which involved the examination of every
+alienated [[Crown Land|crown lands]], a process which involved the examination of every
 title deed in the kingdom, and resulted in the complete readjustment of
 the finances. But vast as it was, the _reduktion_ represents only a
 tithe of Charles XI.'s immense activity. The constructive part of his
@@ -72,12 +72,12 @@ ruins, and devoted his whole life to laying the solid foundations of a
 new order of things which, in its essential features, has endured to the
 present day.
 
-  See Martin Veibull, _Sveriges Storhedstid_ (Stockholm, 1881);
-  Frederick Ferdinand Carlson, _Sveriges Historia under Konungarne af
+  See [[Martin]] Veibull, _Sveriges Storhedstid_ (Stockholm, 1881);
+  Frederick [[Ferdinand]] Carlson, _Sveriges Historia under Konungarne af
   Pfalziska Huset_ (Stockholm, 1883-1885); Robert Nisbet Bain,
   _Scandinavia_ (Cambridge, 1905); O. Sjogren, _Karl den Elfte och
-  Svenska Folket_ (Stockholm, 1897); S. Jacobsen, _Den nordiske Kriegs
-  Kronicke, 1675-1679_ (Copenhagen, 1897); J.A. de Mesmes d'Avaux,
+  Svenska Folket_ (Stockholm, 1897); S. [[Jacobsen]], _Den nordiske Kriegs
+  Kronicke, 1675-1679_ ([[Copenhagen]], 1897); J.A. de Mesmes d'Avaux,
   _Negociations du comte d'Avaux, 1693, 1697, 1698_ (Utrecht, 1882,
   &c.).     (R. N. B.)
 

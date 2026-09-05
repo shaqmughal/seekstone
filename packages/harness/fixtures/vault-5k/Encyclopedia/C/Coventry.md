@@ -7,7 +7,7 @@ age of fourteen. Owing to the outbreak of the Civil War he was obliged
 to quit his studies, but according to Sir John Bramston "he had a good
 tutor who made him a scholar, and he travelled and got the French
 language in good perfection." "He was young whilst the war continued,"
-wrote Clarendon, "yet he had put himself before the end of it into the
+wrote [[Clarendon]], "yet he had put himself before the end of it into the
 army and had the command of a foot company and shortly after travelled
 into France." Here he remained till all hopes of obtaining foreign
 assistance and of raising a new army had to be laid aside, when he
@@ -44,10 +44,10 @@ Coventry is the man and nothing done till he comes," and on his removal
 in 1669 the duke of Albemarle, no friendly or partial critic, declares
 that "nothing now would be well done." His appointment, however, came
 too late to ward off the naval disaster at Chatham the same year and the
-national bankruptcy in 1672.
+national [[Bankruptcy|bankruptcy]] in 1672.
 
 Meanwhile Coventry's rising influence had been from the first the cause
-of increasing jealousy to the old chancellor Clarendon, who especially
+of increasing [[Jealousy|jealousy]] to the old chancellor Clarendon, who especially
 disliked and discouraged the younger generation. Coventry resented this
 repression and thought ill of the conduct of the administration. He
 became the chief mover in the successful attack made upon Clarendon, but
@@ -72,19 +72,19 @@ challenge reached the authorities through the duke's second, and Sir
 William was imprisoned in the Tower on the 3rd of March and subsequently
 expelled from the privy council. He was superseded in the treasury on
 the 11th of March by Buckingham's favourite, Sir Thomas Osborne,
-afterwards earl of Danby and duke of Leeds, and was at last released
+afterwards earl of Danby and duke of [[Leeds]], and was at last released
 from the Tower on the 21st in disgrace. The real cause of his dismissal
 was clearly the final adoption by Charles of the policy of subservience
-to France and desertion of Holland and Protestant interests. Six weeks
+to France and [[Desertion|desertion]] of Holland and Protestant interests. Six weeks
 before Coventry's fall, the conference between Charles, James,
-Arlington, Clifford and Arundel had taken place, which resulted a year
-and a half later in the disgraceful treaty of Dover. To such schemes Sir
+[[Arlington]], Clifford and Arundel had taken place, which resulted a year
+and a half later in the disgraceful treaty of [[Dover]]. To such schemes Sir
 William, with his steady hostility to France and active devotion to
 Protestantism, was doubtless a formidable opponent. He now withdrew
 definitely from official life, still retaining, however, his ascendancy
 in the House of Commons, and leading the party which condemned and
 criticized the reactionary and fatal policy of the government, his
-credit and reputation being rather enhanced than diminished by his
+[[Credit|credit]] and reputation being rather enhanced than diminished by his
 dismissal.[3]
 
 In 1673 was published a pamphlet which went through five editions the
@@ -156,7 +156,7 @@ settlement, and continued to be an essential condition of English
 political growth and progress.
 
 Besides the tract already mentioned Coventry was the author of _A Letter
-to Dr Burnet giving an Account of Cardinal Pool's Secret Powers ..._
+to Dr [[Burnet]] giving an Account of Cardinal Pool's Secret Powers ..._
 (1685). _The Character of a Trimmer_, often ascribed to him, is now
 known to have been written by Lord Halifax. "Notes concerning the Poor,"
 and an essay "concerning the decay of rents and the remedy," are among
@@ -171,7 +171,7 @@ his library (233(a)).
   abilities is to be found in the several passages relating to him in
   the _Life of George Savile, Marquis of Halifax_, by Miss A. C.
   Foxcroft (1898); see also _Hist. MSS. Comm._ 3 and 4 Rep. (Longleat
-  Collection), 5 Rep. (_Malet Collection_ and see Index) now in the
+  Collection), 5 Rep. (_Malet Collection_ and see [[Index]]) now in the
   Brit. Mus. add. Cal. (1882-1887), Some of his papers being also at
   Devonshire House; _MSS. of Marquis of Ormond_, iii. of _J. M.
   Heathcote and Miscellaneous Collections_; Clarendon's _Life and

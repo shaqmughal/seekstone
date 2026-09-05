@@ -17,19 +17,19 @@ the central authority was thus weakened, the Philistines advanced
 against Israel, and gained a complete victory in the great battle of
 Ebenezer, where the ark was taken, and Hophni and Phinehas slain. On
 hearing the news Eli fell from his seat and died. In a passage not
-unlike the account of the birth of Benjamin (Gen. xxxv. 16 sqq.), it is
+unlike the account of the birth of [[Benjamin]] (Gen. xxxv. 16 sqq.), it is
 added that the wife of Phinehas, overwhelmed at the loss of the ark and
 of her husband, died in child-birth, naming the babe Ichabod (1 Sam.
-iv. 19 sqq.). This name, which popular etymology explained by the words
+iv. 19 sqq.). This name, which popular [[Etymology|etymology]] explained by the words
 "the glory is removed (or, stronger, 'banished') from Israel" (cf. Hos.
 x. 5), should perhaps be altered from _I-kabod_ (as though "not glory")
 to Jochebed (_Yokebed_, a slight change in the original), the name which
 tradition also gave to the mother of Moses (q.v.). After these events
 the sanctuary of Shiloh appears to have been destroyed (cf. Jer. vii.
-12, xxvi. 6, 9), and the descendants of Eli with the whole of their clan
+12, xxvi. 6, 9), and the descendants of Eli with the whole of their [[Clan|clan]]
 or "father's house" subsequently appear as settled at Nob (1 Sam. xxi.
 1, xxii. 11 sqq., cp. xiv. 3), perhaps in the immediate neighbourhood of
-Jerusalem (Is. x. 32). In the massacre of the clan by Saul, and the
+Jerusalem (Is. x. 32). In the [[Massacre|massacre]] of the clan by Saul, and the
 subsequent substitution of the survivor Abiathar by Zadok (1 Kings ii.
 27, 35), later writers saw the fulfilment of the prophecies of judgment
 which was said to have been uttered in the days of Eli against his

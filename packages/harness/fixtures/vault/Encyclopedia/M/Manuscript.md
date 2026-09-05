@@ -3,7 +3,7 @@
 MANUSCRIPT, a term applied to any document written by the human hand
 (Lat. _manû scriptum_) with the aid of pen, pencil or other instrument
 which can be used with cursive facility, as distinguished from an
-inscription engraved with chisel or graver, worked laboriously. By usage
+inscription engraved with [[Chisel|chisel]] or graver, worked laboriously. By usage
 the word has come to be employed in a special sense to indicate a
 written work of the ancient world or of the middle ages; collections of
 such "ancient manuscripts" being highly prized and being stored for
@@ -23,14 +23,14 @@ is dealt with in the article BOOK (q.v.).
   dispose, in the first place, of the harder materials that have been
   put under requisition, we find metals both referred to by writers and
   actually represented by surviving examples. Thin leaves of gold or
-  silver were recommended for the inscription of charms in particular.
-  Leaden plates were in common use for incantations; the material was
+  silver were recommended for the inscription of [[Charm|charms]] in particular.
+  Leaden plates were in common use for [[Incantation|incantations]]; the material was
   cheap and was supposed to be durable. On such plates were scratched
   the _dirae_ or solemn devotions of obnoxious persons to the infernal
   deities; many examples have survived. As an instance of the use of
   soft substance afterwards hardened may be cited the practice by the
   Babylonians and Assyrians of writing, or rather of puncturing, their
-  cuneiform characters on clay tablets while moist, which were
+  [[Cuneiform|cuneiform]] characters on clay tablets while moist, which were
   afterwards dried in the heat of the sun or baked in the oven.
   Potsherds, or _ostraka_, were employed for all kinds of temporary
   purposes. Thousands of them have been found in Egypt inscribed with
@@ -100,7 +100,7 @@ is dealt with in the article BOOK (q.v.).
   success of the new material in ousting the time-honoured papyrus from
   its high position. The common story, as told by Pliny, that Eumenes
   II. of Pergamum (197-158 B.C.), seeking to extend the library of his
-  capital, was opposed by the jealousy of the Ptolemies, who forbade the
+  capital, was opposed by the [[Jealousy|jealousy]] of the Ptolemies, who forbade the
   export of papyrus, hoping thus to check the growth of a rival library,
   and that he was thus compelled to have recourse to skins as a writing
   material, at all events points to Pergamum as the chief centre of
@@ -186,7 +186,7 @@ moderate-sized rolls, must have come into vogue at a very early period.
 It was the practice to write on one side only of the papyrus; to write
 on both front and back of a roll would obviously be a clumsy and
 irritating method. Works intended for the market were never
-_opisthograph_. Of course the blank backs of written rolls which had
+_opisthograph_. Of course the [[Blank|blank]] backs of written rolls which had
 become obsolete might be turned to account for personal or temporary
 purposes, as we learn not only from references in classical authors but
 also from actual examples. The most interesting extant case of an
@@ -196,11 +196,11 @@ accounts, of the end of the 1st century--but only for private use. It
 being the rule, then, to confine the writing to one side of the
 material, that is, to the inner surface of the made-up roll, that
 surface was more carefully prepared and smoothed than the other; and,
-further, the joints of the several sheets were so well made that they
+further, the [[Joints|joints]] of the several sheets were so well made that they
 offered no obstacle to the action of the pen. Still further, care was
 taken that this, the _recto_ surface of the material, should be that in
 which the shreds of papyrus of which it was composed lay horizontally,
-so that the pen might move freely along the fibres; the shreds of the
+so that the pen might move freely along the [[Fibres|fibres]]; the shreds of the
 _verso_ side, on the other hand, being in vertical position. This point
 is of some importance, as, in cases where two different handwritings are
 found on the two sides of a papyrus, it may be usually assumed that the
@@ -210,7 +210,7 @@ The text was written in columns, [Greek: selides], _paginae_, the width
 of which seems not to have been prescribed, but which for calligraphic
 effect were by preference made narrow, sufficient margins being left at
 head and foot. The average width of the columns in the best extant
-papyri ranges from two to three-and-a-half inches. The written lines
+papyri ranges from two to three-and-a-half [[Inch|inches]]. The written lines
 were parallel with the length of the roll, so that the columns stood, so
 to say, with the height of the rolled-up roll, and were disclosed
 consecutively as the roll was unwound. Ruling with lead to guide the
@@ -230,7 +230,7 @@ was therefore sometimes written at the head of the text. It appears also
 that at an early period it was inscribed on the outside of the roll, so
 as to be visible as the roll lay in a chest or on the shelf. But a more
 general practice was to attach to the top edge of the roll a label or
-ticket, [Greek: sillubos], or [Greek: sittubos], _titulus_, _index_,
+ticket, [Greek: sillubos], or [Greek: sittubos], _titulus_, _[[Index|index]]_,
 which hung down if the roll lay on the shelf, or was conveniently read
 if the roll stood along with others in the ordinary cylindrical
 roll-box, [Greek: kistê], [Greek: kibotos], _cista_, _capsa_. One such
@@ -250,7 +250,7 @@ must be taken to apply to the more expensive productions of the book
 trade, corresponding with the full-bound volumes of our days. In
 practice, a large proportion of working copies and ordinary editions
 must have been dealt with more simply. Firstly, the roll should be
-rolled up round a central stick, of wood or bone, called the [Greek:
+rolled up round a central stick, of wood or [[Bone|bone]], called the [Greek:
 omphalos], _umbilicus_, to which the last sheet of the papyrus may or
 may not have been attached. But as a matter of fact no rolling-sticks
 have been found in company with extant papyri, and it has therefore been
@@ -262,7 +262,7 @@ it had been rolled up, were shorn and were rubbed smooth with pumice,
 and they were sometimes coloured. A valuable roll might be protected
 with a vellum wrapper, [Greek: phainolês], _paenula_, stained with
 colour; and, further, it might be secured with ornamental thongs. The
-central stick might also be adorned with knobs or "horns," plain or
+central stick might also be adorned with knobs or "[[Horn|horns]]," plain or
 coloured. This seems to be the natural explanation of the [Greek:
 kerata], or _cornua_, mentioned by the ancient writers. Finally, the
 title-label described above was attached to the completed roll, now
@@ -291,9 +291,9 @@ its precursor in the book-form.
   The Waxen Tablet.
 
 The ordinary waxen tablet in use among the Greeks and Romans was a small
-oblong slab of wood, beech, fir, and especially box, the surface of
+oblong slab of wood, [[Beech|beech]], fir, and especially [[Box|box]], the surface of
 which on one or both sides, with the exception of the surrounding
-margins which were left intact in order to form a frame, was sunk to a
+margins which were left intact in order to form a [[Frame|frame]], was sunk to a
 slight depth and was therein coated with a thin layer of wax, usually
 black. The tablet thus presented the appearance of a child's
 school-slate of the present day. Such tablets were single, double,
@@ -314,14 +314,14 @@ writing incised with the stilus could be easily obliterated by smoothing
 the wax, and the _tabula rasa_ was thus rendered available for a fresh
 inscription. But tablets were also employed for official purposes, when
 documents had to be protected from unauthorized scrutiny or from injury.
-Thus they were the receptacles for wills, conveyances, and other legal
+Thus they were the receptacles for wills, [[Conveyance|conveyances]], and other legal
 transactions; and in such cases they were closed against inspection by
 being bound round with threads which were covered by the witnesses'
 seals.
 
 Small tablets, _codicilli_, _pugillares_, often of more valuable
-material, such as ivory, served for correspondence among other purposes;
-very small specimens are mentioned as _vitelliani_, for the exchange of
+material, such as [[Ivory|ivory]], served for correspondence among other purposes;
+very small specimens are mentioned as _vitelliani_, for the [[Exchange|exchange]] of
 love-letters.
 
 A certain number of Greek waxen tablets have been recovered, chiefly
@@ -335,7 +335,7 @@ Of Latin tablets we are fortunate in having a fairly large number of
 examples. Exclusive of a few isolated specimens, they are the result of
 two important finds. Twenty-four tablets containing the records of a
 burial club, A.D. 131-167, were recovered between 1786 and 1855 from
-some ancient mining works in Dacia. In 1875 as many as 127 tablets,
+some ancient mining works in [[Dacia]]. In 1875 as many as 127 tablets,
 containing deeds connected with sales by auction and payment of taxes,
 A.D. 15-62, were found in the ruins of Pompeii. These specimens have
 afforded the means of ascertaining the mechanical arrangement of waxen
@@ -345,14 +345,14 @@ to some variations, the triptych was usually arranged as follows. Of the
 six sides or pages of the codex, pages 1 and 6 (the outside pages) were
 of plain wood; pages 2, 3, 5 were waxed; and page 4, which had a groove
 cut across the middle was sometimes of plain wood, sometimes waxed. The
-authentic deed was inscribed with the stilus on the waxed pages 2 and 3;
+[[Authentic|authentic]] deed was inscribed with the stilus on the waxed pages 2 and 3;
 and the first two leaves were then bound round with three twisted
 threads which passed down the groove so as to close the deed from
 inspection. On page 4 the witnesses' names were then inscribed (in ink
 if the page was plain; with the stilus if waxed), and their seals were
 impressed in the groove, thus securing the threads. In addition to the
 protection afforded to the seals from casual injury by their position in
-the groove, the third leaf acted as a cover to them. On page 5 an
+the groove, the third [[Leaf|leaf]] acted as a cover to them. On page 5 an
 abstract or duplicate of the deed, as required by law, was inscribed.
 The arrangement of the Dacian tablets differed in this respect, that
 page 4 was waxed, and that the duplicate copy was begun on that page in
@@ -361,13 +361,13 @@ for the names of the witnesses. In the case of one of the Pompeian
 tablets the threads and seals still remain.
 
 The survival of the use of tablets to a late time should be noted. St
-Augustine refers to his tablets, and St Hilary of Arles also mentions
+Augustine refers to his tablets, and St Hilary of [[Arles]] also mentions
 their employment for the purpose of correspondence; there is a record of
 a letter written _in tabellâ_ as late as A.D. 1148. They were very
 commonly used throughout the middle ages in all the west of Europe.
 Specimens inscribed with money accounts of the 13th and 14th centuries
 have survived in France, and similar documents of the 14th and 15th
-centuries are to be found in several of the municipal archives of
+centuries are to be found in several of the municipal [[Archive|archives]] of
 Germany. Reference to their use in England occurs in literature, and
 specimens of the 14th or 15th century are said to have been dug up in
 Ireland. In Italy their employment is both recorded and proved by actual
@@ -393,7 +393,7 @@ pressed into the service of literature and used in the preparation of
 books for the market must remain uncertain. But in the first three
 centuries of our era it may be assumed that vellum codices were not
 numerous. The papyrus roll still held its position as the _liber_ or
-book of literature. Yet we learn from the poems of Martial that in his
+book of literature. Yet we learn from the poems of [[Martial]] that in his
 day the works of some of the best classical authors were to be had on
 vellum. From the way in which, in his _Apophoreta_, he has contrasted as
 exchangeable gifts certain works written respectively on papyrus and on
@@ -609,10 +609,10 @@ possible into sentences and paragraphs in accordance with its sense.
   Punctuation.
 
 From the earliest times an elementary system of punctuation by points is
-found in papyri. Thus the papyrus of the _Curse of Artemisia_, at
+found in papyri. Thus the papyrus of the _Curse of [[Artemisia]]_, at
 Vienna, which is at least as early as the 3rd century B.C., and in one
 or two other ancient examples, a double point, resembling the modern
-colon, separates sentences. But more commonly a single point, placed
+[[Colon|colon]], separates sentences. But more commonly a single point, placed
 high in the line of writing, is employed. This single punctuation was
 reduced to a system by the Alexandrian grammarians, its invention being
 ascribed to Aristophanes of Byzantium, 260 B.C. The point placed high on
@@ -662,7 +662,7 @@ broken up into short clauses or sense-lines, apparently with the view of
 assisting reading aloud. Instances of MSS. so written are still extant.
 This system, to which the name of "colometry" has been given, is the
 arrangement by _cola_ and _commata_ referred to by St Jerome in his
-preface to Isaiah. It will be found more fully explained under the
+preface to [[Isaiah]]. It will be found more fully explained under the
 heading of STICHOMETRY; where also is described the mechanical
 computation of the length of a text by measured lines, for the purpose
 of calculating the pay of the scribe.
@@ -703,7 +703,7 @@ written in a different style from the text of the commentary itself.
   of Bacchylides of the 1st century B.C. In the less well-written papyri
   they are fewer in number; and papyri written in non-literary hands are
   practically devoid of them. Accents have been frequently added to the
-  ancient texts of Homer, as in the Harris and Bankes papyri, but
+  ancient texts of [[Homer]], as in the [[Harris]] and Bankes papyri, but
   apparently long after the date of the writing. They were not used in
   the early uncial MSS. Breathings also appear occasionally in the
   papyri. The rough and the smooth breathings are found in the form of
@@ -729,7 +729,7 @@ written in a different style from the text of the commentary itself.
   surface of the material the sponge was used in ancient times. While
   the writing was still fresh, the scribe could easily wash off the ink
   by this means; and for a fragile material, such as papyrus, he could
-  well use no other. On vellum he might use sponge or knife. But after a
+  well use no other. On vellum he might use sponge or [[Knife|knife]]. But after a
   MS. had left his hands it would undergo revision at the hands of a
   corrector, who had to deal with the text in a different manner. He
   could no longer conveniently apply the sponge. On hard material he
@@ -796,7 +796,7 @@ written in a different style from the text of the commentary itself.
   centuries B.C. the ordinary method of abbreviation was to omit the
   termination or latter portion of the word and to mark the omission by
   a short horizontal stroke or dash; or the letter which immediately
-  preceded the omission was written above the line as a key to the
+  preceded the omission was written above the line as a [[Key|key]] to the
   reading, as [Greek: te^l] for [Greek: télos]. Such a system obviously
   might be extended indefinitely at the discretion of the writer. But in
   addition, at quite an early period, symbols and monogrammatic forms
@@ -863,7 +863,7 @@ written in a different style from the text of the commentary itself.
   in cursive characters such abbreviation was allowed more freely than
   in carefully written literary works. The early system of representing
   words by their initial letters has already been referred to. It was in
-  common use, as we know, in the inscriptions on coins and monuments,
+  common use, as we know, in the inscriptions on [[Coin|coins]] and monuments,
   and to some extent in the texts of Roman writers. But the ambiguity
   which must have always accompanied such a system of single-letter
   abbreviations, or _sigla_, naturally induced an improvement by
@@ -872,7 +872,7 @@ written in a different style from the text of the commentary itself.
   letters of the several syllables were written, as EG = _ergo_, HR =
   _heres_, ST = _satis_. At a later time Christian writers secured
   greater exactness by expressing the final letter of a contracted word,
-  as _ds_ = _deus_, _do_ = _deo_, _scs_ = _sanctus_. Further, certain
+  as _ds_ = _[[Deus|deus]]_, _do_ = _deo_, _scs_ = _sanctus_. Further, certain
   marks and signs, many derived from shorthand symbols, came into use to
   indicate inflections and terminations; or the terminating letter or a
   leading letter to indicate the termination might be written above the
@@ -886,7 +886,7 @@ written in a different style from the text of the commentary itself.
 
   In Latin Biblical uncial MSS. the same restrictions on abbreviations
   were exercised as in the Greek. The sacred names and titles DS =
-  _deus_, DMS, DNS = _dominus_, SCS = _sanctus_, SPS = _spiritus_, and
+  _deus_, DMS, DNS = _[[Dominus|dominus]]_, SCS = _sanctus_, SPS = _spiritus_, and
   others appear in the oldest codices. The contracted terminations Q· =
   _que_, B· = _bus_, and the omission of final _m_, or (more rarely)
   final _n_, are common to all Latin MSS. of the earliest period. There
@@ -904,7 +904,7 @@ written in a different style from the text of the commentary itself.
   letters and syllables from the middle as well as the end of words, as
   oio, _omnino_, prb, _presbyter_; and then from the practice of writing
   above the line a leading letter of an omitted syllable, as int^a =
-  _intra_, t^r = _tur_, conventional signs, with special significations,
+  _[[Intra|intra]]_, t^r = _tur_, conventional signs, with special significations,
   were also gradually developed. Such growths are well illustrated in
   the change undergone by the semicolon, which was attached to the end
   of a word to indicate the omission of the termination, as b; = _bus_,
@@ -941,7 +941,7 @@ written in a different style from the text of the commentary itself.
   The ornamentation of MSS. is fully dealt with under the headings
   ILLUMINATED MSS., and MINIATURES.
 
-  _Writing Implements._--In conclusion, a few words may be added
+  _Writing [[Implement|Implements]]._--In conclusion, a few words may be added
   respecting the writing implements employed in the production of MSS.
   The reed, [Greek: kalamos], _calamus_, was adapted for tracing
   characters either on papyrus or vellum. By the ancient Egyptians, and
@@ -950,7 +950,7 @@ written in a different style from the text of the commentary itself.
   Greek and Roman scribes used the reed cut to a point and slit like the
   quill-pen; and it survived as a writing implement into the middle
   ages. For scratching letters on the waxen tablet the sharp pointed
-  bodkin, [Greek: stylos], [Greek: grapheion], _stilus_, _graphium_, was
+  [[Bodkin|bodkin]], [Greek: stylos], [Greek: grapheion], _stilus_, _graphium_, was
   necessary, made of iron, bronze, ivory, or other suitable material,
   with a knobbed or flattened butt-end wherewith corrections could be
   made by smoothening the wax surface (hence _vertere stilum_, to
@@ -969,7 +969,7 @@ written in a different style from the text of the commentary itself.
   glyphanon], [Greek: smilê], _scalprum_; the erasing-knife, _rasorium_,
   _novacula_.
 
-  _Inks._--Inks of various colours were employed from early times. The
+  _Inks._--Inks of various [[Colours|colours]] were employed from early times. The
   ink of the early papyri is a deep glossy black; in the Byzantine
   period it deteriorates. In the middle ages black ink is generally of
   excellent quality; it tends to deteriorate from the 14th century. But
@@ -989,7 +989,7 @@ written in a different style from the text of the commentary itself.
   Buchrolle in der Kunst_ (1907); W. Wattenbach, _Das Schriftwesen im
   Mittelalter_ (1896); K. Dziatzko, _Untersuchungen über ausgewählte
   Kapitel des antiken Buchwesens_ (1900); J. W. Clark, _The Care of
-  Books_ (1901); W. Schubart, _Das Buch bei den Griechen und Römern_
+  Books_ (1901); W. Schubart, _Das [[Buch]] bei den Griechen und Römern_
   (1907); and generally the authorities quoted in the article
   PALAEOGRAPHY. See also TEXTUAL CRITICISM.     (E. M. T.)
 

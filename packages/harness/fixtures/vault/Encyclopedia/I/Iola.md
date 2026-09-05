@@ -8,20 +8,20 @@ type: note
 # Iola
 
 IOLA, a city and the county-seat of Allen county, Kansas, U.S.A., on the
-Neosho river, about 100 m. S. by W. of Kansas City. Pop. (1890) 1706;
+Neosho river, about 100 m. S. by W. of [[Kansas City]]. Pop. (1890) 1706;
 (1900) 5791, of whom 237 were foreign-born and 207 were negroes; (1905)
-10,287; (1910) 9032. It is served by the Atchison, Topeka & Santa Fe,
+10,287; (1910) 9032. It is served by the [[Atchison]], Topeka & Santa Fe,
 the Missouri Pacific and the Missouri, Kansas & Texas railways. It is
 pleasantly situated in a level valley where there is a great abundance
 of natural gas and some fine building stone. The city has large zinc
-smelters and zinc rolling-mills, a foundry, machine shops, and
-manufactories of cement, sulphuric acid and brick. The municipality owns
+smelters and zinc rolling-mills, a foundry, [[Machine|machine]] shops, and
+manufactories of cement, sulphuric acid and [[Brick|brick]]. The municipality owns
 and operates its waterworks, gas plant and electric-lighting plant. Iola
 was founded in 1859 by a company whose members were dissatisfied with
-the location of the county-seat at Humboldt. It became the county-seat
+the location of the county-seat at [[Humboldt]]. It became the county-seat
 in 1865, was chartered as a city of the third class in 1870 and became a
 city of the second class in 1898. The rapid growth of the city dates
-from the discovery of natural gas here, on Christmas Day 1893.
+from the discovery of natural gas here, on [[Christmas]] Day 1893.
 
 ## See also
 

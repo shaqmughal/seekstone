@@ -8,7 +8,7 @@ tags: [architecture, art]
 # Kwei-Chow
 
 KWEI-CHOW, a south-western province of China, bounded N. by Sze-ch'uen,
-E. by Hu-nan, S. by Kwang-si, and W. by Yun-nan. It contains 67,000 sq.
+E. by Hu-nan, S. by [[Kwang-Si|Kwang-si]], and W. by Yun-nan. It contains 67,000 sq.
 m., and has a population of about 8,000,000. Kwei-yang Fu is the
 provincial capital, and besides this there are eleven prefectural cities
 in the province. With the exception of plains in the neighbourhood of

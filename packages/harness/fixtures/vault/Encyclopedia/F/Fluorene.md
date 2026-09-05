@@ -8,15 +8,15 @@ id: 42-5100
 # Fluorene
 
 FLUORENE ([alpha]-diphenylene methane), C13H10 or (C6H4)2CH2, a
-hydrocarbon found in coal-tar. It is obtained from the higher boiling
+[[Hydrocarbon|hydrocarbon]] found in [[Coal-Tar|coal-tar]]. It is obtained from the higher boiling
 fractions, after separation of naphthalene and anthracene, by fractional
-distillation, the portion boiling between 290-340° C. being taken. The
+[[Distillation|distillation]], the portion boiling between 290-340° C. being taken. The
 fluorene is separated from this by placing it in a freezing mixture, and
 is then redistilled or crystallized from glacial acetic acid, or
 purified by means of its picrate. It may be prepared by distilling
-diphenylene ketone over zinc dust, or by heating it with hydriodic acid
+diphenylene ketone over zinc [[Dust|dust]], or by heating it with hydriodic acid
 and phosphorus to 150-160° C.; and also by passing the vapour of
-diphenyl methane through a red hot tube. It crystallizes in colourless
+[[Diphenyl|diphenyl]] methane through a red hot tube. It crystallizes in colourless
 plates, possessing a violet fluorescence, melting at 112-113° and
 boiling at 293-295° C. By oxidation with chromic acid in glacial acetic
 acid solution, it is converted into diphenylene ketone (C6H4)2·CO;

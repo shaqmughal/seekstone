@@ -41,7 +41,7 @@ English public school. A museum is attached to it. Mineral waters are
 manufactured. At MALVERN WELLS, 2½ m. S., are the principal medicinal
 springs, also the celebrated Holy Well, the water of which is of perfect
 purity. There are extensive fishponds and hatcheries; and golf-links.
-The Great Western railway has a station, and the Midland one at Hanley
+The Great Western railway has a station, and the Midland one at [[Hanley]]
 Road. LITTLE MALVERN lies at the foot of the Herefordshire Beacon, which
 is crowned by a British camp, 1½ m. S. of Malvern Wells. There was a
 Benedictine priory here, of which traces remain in the church. MALVERN

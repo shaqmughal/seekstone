@@ -1,10 +1,10 @@
 # Glycols
 
-GLYCOLS, in organic chemistry, the generic name given to the aliphatic
+GLYCOLS, in organic [[Chemistry|chemistry]], the generic name given to the aliphatic
 dihydric alcohols. These compounds may be obtained by heating the
 alkylen iodides or bromides (e.g. ethylene dibromide) with silver
-acetate or with potassium acetate and alcohol, the esters so produced
-being then hydrolysed with caustic alkalis, thus:
+acetate or with potassium acetate and alcohol, the [[Esters|esters]] so produced
+being then hydrolysed with [[Caustic|caustic]] alkalis, thus:
 
   C2H4Br2 + 2 C2H3O2.Ag --> C2H4(O.C2H3O)2 --> C2H4(OH)2 + 2 K.C2H3O2;
 
@@ -22,7 +22,7 @@ alcoholic potash on aldehydes, thus:
   3(CH3)2CH.CHO + KHO = (CH3)2CHCO2K + (CH3)2CH.CH(OH).CH(OH).CH(CH3)2.
 
 The tertiary glycols are known as _pinacones_ and are formed on the
-reduction of ketones with sodium amalgam.
+reduction of [[Ketones|ketones]] with sodium amalgam.
 
 The glycols are somewhat thick liquids, of high boiling point, the
 pinacones only being crystalline solids; they are readily soluble in
@@ -31,13 +31,13 @@ dehydrating agents they are converted into aldehydes or ketones. In
 their general behaviour towards oxidizing agents the primary glycols
 behave very similarly to the ordinary primary alcohols (q.v.), but the
 secondary and tertiary glycols break down, yielding compounds with a
-smaller carbon content.
+smaller [[Carbon|carbon]] content.
 
   Ethylene glycol, C2H4(OH)2, was first prepared by A. Wurtz (_Ann.
   chim._, 1859 [3], 55, p. 400) from ethylene dibromide and silver
   acetate. It is a somewhat pleasant smelling liquid, boiling at 197
   deg. to 197.5 deg. C. and having a specific gravity of 1.125 (0 deg.).
-  On fusion with solid potash at 250 deg. C. it completely decomposes,
+  On [[Fusion|fusion]] with solid potash at 250 deg. C. it completely decomposes,
   giving potassium oxalate and hydrogen,
 
     C2H6O2 + 2 KHO = K2C2O4 + 4H2.

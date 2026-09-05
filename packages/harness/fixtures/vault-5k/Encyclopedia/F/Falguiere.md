@@ -24,16 +24,16 @@ should be added his monuments to "Cardinal Lavigerie" and "General de La
 Fayette" (the latter in Washington), and his statues of "Lamartine"
 (1876) and "St Vincent de Paul" (1879), as well as the "Balzac," which
 he executed for the _Societe des gens de lettres_ on the rejection of
-that by Rodin; and the busts of "Carolus-Duran" and "Coquelin cadet"
+that by Rodin; and the busts of "Carolus-Duran" and "Coquelin [[Cadet|cadet]]"
 (1896).
 
 Falguiere was a painter as well as a sculptor, but somewhat inferior in
 merit. He displays a fine sense of colour and tone, added to the
 qualities of life and vigour that he instils into his plastic work. His
-"Wrestlers" (1875) and "Fan and Dagger" (1882; a defiant Spanish woman)
+"Wrestlers" (1875) and "[[Fan]] and [[Dagger]]" (1882; a defiant Spanish woman)
 are in the Luxembourg, and other pictures of importance are "The
 Beheading of St John the Baptist" (1877), "The Sphinx" (1883), "Acis and
-Galatea" (1885), "Old Woman and Child" (1886) and "In the Bull
+Galatea" (1885), "Old Woman and Child" (1886) and "In the [[Bull]]
 Slaughter-House." He became a member of the Institute (Academie des
 Beaux-Arts) in 1882. He died in 1900.
 

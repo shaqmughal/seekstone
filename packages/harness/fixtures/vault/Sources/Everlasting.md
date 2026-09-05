@@ -1,7 +1,7 @@
 # Everlasting
 
 EVERLASTING, or IMMORTELLE, a plant belonging to the division
-_Tubuliflorae_ of the natural order Compositae, known botanically as
+_Tubuliflorae_ of the natural order [[Compositae]], known botanically as
 _Helichrysum orientale_. It is a native of North Africa, Crete, and the
 parts of Asia bordering on the Mediterranean; and it is cultivated in
 many parts of Europe. It first became known in Europe about the year
@@ -14,7 +14,7 @@ from lower Provence, where it is cultivated in large quantities on the
 ground sloping to the Mediterranean, in positions well exposed to the
 sun, and usually in plots surrounded by dry stone walls. The finest
 flowers are grown on the slopes of Bandols and Ciotat, where the plant
-begins to flower in June. It requires a light sandy or stony soil, and
+begins to [[Flower|flower]] in June. It requires a light sandy or stony soil, and
 is very readily injured by rain or heavy dews. It can be propagated in
 quantity by means of offsets from the older stems. The flowering stems
 are gathered in June, when the bracts are fully developed, all the
@@ -33,15 +33,15 @@ purposes.
 Other species of _Helichrysum_ and species of allied genera with
 scarious heads of flowers are also known as "everlastings." One of the
 best known is the Australian species _H. bracteatum_, with several
-varieties, including double forms, of different colours; _H. vestitum_
+varieties, including double forms, of different [[Colours|colours]]; _H. vestitum_
 (Cape of Good Hope) has white satiny heads. Others are species of
-_Helipterum_ (West Australia and South Africa), _Ammobium_ and _Waitzia_
+_Helipterum_ (West [[Australia]] and South Africa), _Ammobium_ and _Waitzia_
 (Australia) and _Xeranthemum_ (south Europe). Several members of the
 natural order Amarantaceae have also "everlasting" flowers; such are
 _Gomphrena globosa_, with rounded or oval heads of white, orange, rose
 or violet, scarious bracts, and _Celosia pyramidalis_, with its elegant,
 loose, pyramidal inflorescences. Frequently these everlastings are mixed
-with bleached grasses, as _Lagurus ovatus_, _Briza maxima_, _Bromus
+with bleached [[Grasses|grasses]], as _Lagurus ovatus_, _Briza maxima_, _Bromus
 brizaeformis_, or with the leaves of the Cape silver tree (_Leucadendron
 argenteum_), to form bouquets or ornamental groups.
 

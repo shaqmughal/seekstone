@@ -9,7 +9,7 @@ topic: language
 BESTIA, the name of a family in ancient Rome, of which the following
 were the most distinguished.
 
-1. LUCIUS CALPURNIUS BESTIA, Roman tribune of the people in 121 B.C.,
+1. [[Lucius|LUCIUS]] CALPURNIUS BESTIA, Roman tribune of the people in 121 B.C.,
 consul in 111. Having been appointed to the command of the operations
 against Jugurtha, he at first carried on the campaign energetically, but
 soon, having been heavily bribed, concluded a disgraceful peace. On his

@@ -8,15 +8,15 @@ id: 42-6995
 
 # Manduria
 
-MANDURIA, a city of Apulia, Italy, in the province of Lecce, from which
+MANDURIA, a city of Apulia, Italy, in the province of [[Lecce]], from which
 it is 27 m. W. by road (22 m. E. of Taranto), 270 ft. above sea-level,
-and 8 m. N. of the coast. Pop. (1901), 12,199 (town); 13,190 (commune).
+and 8 m. N. of the coast. Pop. (1901), 12,199 (town); 13,190 ([[Commune|commune]]).
 It is close to the site of the ancient Manduria, considerable remains of
 the defences of which can still be seen; they consisted of a double line
 of wall built of rectangular blocks of stone, without mortar, and with a
 broad ditch in front. Some tombs with gold ornaments were found in 1886
 (L. Viola in _Notizie degli Scavi_, 1886, 100). It was an important
-stronghold of the Messapii against Tarentum, and Archidamus III., king
+stronghold of the Messapii against Tarentum, and [[Archidamus]] III., king
 of Sparta, fell beneath its walls in 338 B.C., while leading the army of
 the latter (Plut., _Agis_, 3, calls the place Mandonion: see s.v.
 ARCHIDAMUS). It revolted to Hannibal, but was stormed by the Romans in

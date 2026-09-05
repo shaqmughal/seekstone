@@ -10,7 +10,7 @@ narrow. The cathedral occupies the highest point in the town; it was not
 founded till the 13th century, taking the place of the so-called temple
 of Concord. The campanile still preserves portions of its original
 architecture, but the interior has been modernized. In the chapter-house
-a famous sarcophagus, with scenes illustrating the myth of Hippolytus,
+a famous sarcophagus, with scenes illustrating the myth of [[Hippolytus]],
 is preserved. There are other scattered remains of 13th-century
 architecture in the town, while, in the centre of the ancient city,
 close to the so-called oratory of Phalaris, is the Norman church of S.

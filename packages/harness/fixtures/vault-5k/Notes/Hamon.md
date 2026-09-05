@@ -13,7 +13,7 @@ HAMON, JEAN LOUIS (1821-1874), French painter, was born at Plouha on the
 placed under the care of the brothers Lamennais, but his strong desire
 to become a painter finally triumphed over family opposition, and in
 1840 he courageously left Plouha for Paris--his sole resources being a
-pension of five hundred francs, granted him for one year only by the
+pension of five hundred [[Franc|francs]], granted him for one year only by the
 municipality of his native town. At Paris Hamon received valuable
 counsels and encouragement from Delaroche and Gleyre, and in 1848 he
 made his appearance at the Salon with "Le Tombeau du Christ" (Musee de
@@ -22,7 +22,7 @@ exhibited in 1849--"Une Affiche romaine," "L'Egalite au serail," and
 "Perroquet jasant avec deux jeunes filles"--obtained no marked success.
 Hamon was therefore content to accept a place in the manufactory of
 Sevres, but an enamelled casket by his hand having attracted notice at
-the London International Exhibition of 1851, he received a medal, and,
+the London [[International]] Exhibition of 1851, he received a medal, and,
 reinspired by success, left his post to try his chances again at the
 Salon of 1852. "La Comedie humaine," which he then exhibited, turned the
 tide of his fortune, and "Ma soeur n'y est pas" (purchased by the
@@ -35,9 +35,9 @@ the ribbon of the legion of honour. In the following year he was absent
 in the East, but in 1857 he reappeared with "Boutique a quatre sous,"
 "Papillon enchaine," "Cantharide esclave," "Devideuses," &c., in all ten
 pictures; "L'Amour en visite" was contributed to the Salon of 1859, and
-"Vierge de Lesbos," "Tutelle," "La Voliere," "L'Escamoteur" and "La
+"Vierge de [[Lesbos]]," "Tutelle," "La Voliere," "L'Escamoteur" and "La
 Soeur ainee" were all seen in 1861. Hamon now spent some time in Italy,
-chiefly at Capri, whence in 1864 he sent to Paris "L'Aurore" and "Un
+chiefly at [[Capri]], whence in 1864 he sent to Paris "L'Aurore" and "Un
 Jour de fiancailles." The influence of Italy was also evident in "Les
 Muses a Pompei," his sole contribution to the Salon of 1866, a work
 which enjoyed great popularity and was re-exhibited at the International

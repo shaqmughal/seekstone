@@ -6,25 +6,25 @@ and physician, a member of a noble family, was born at Brussels in
 one science to another and finding satisfaction in none, turned to
 medicine, in which he took his doctor's degree in 1599. The next few
 years he spent in travelling through Switzerland, Italy, France and
-England. Returning to his own country he was at Antwerp at the time of
+England. Returning to his own country he was at [[Antwerp]] at the time of
 the great plague in 1605, and having contracted a rich marriage settled
 in 1609 at Vilvorde, near Brussels, where he occupied himself with
 chemical experiments and medical practice until his death on the 30th of
 December 1644. Van Helmont presents curious contradictions. On the one
-hand he was a disciple of Paracelsus (though he scornfully repudiates
+hand he was a [[Disciple|disciple]] of Paracelsus (though he scornfully repudiates
 his errors was well as those of most other contemporary authorities), a
 mystic with strong leanings to the supernatural, an alchemist who
 believed that with a small piece of the philosopher's stone he had
 transmuted 2000 times as much mercury into gold; on the other hand he
-was touched with the new learning that was producing men like Harvey,
+was touched with the new learning that was producing men like [[Harvey]],
 Galileo and Bacon, a careful observer of nature, and an exact
 experimenter who in some cases realized that matter can neither be
 created nor destroyed. As a chemist he deserves to be regarded as the
-founder of pneumatic chemistry, even though it made no substantial
+founder of pneumatic [[Chemistry|chemistry]], even though it made no substantial
 progress for a century after his time, and he was the first to
 understand that there are gases distinct in kind from atmospheric air.
 The very word "gas" he claims as his own invention, and he perceived
-that his "gas sylvestre" (our carbon dioxide) given off by burning
+that his "gas sylvestre" (our [[Carbon|carbon]] dioxide) given off by burning
 charcoal is the same as that produced by fermenting must and that which
 sometimes renders the air of caves irrespirable. For him air and water
 are the two primitive elements of things. Fire he explicitly denies to
@@ -67,7 +67,7 @@ Catholic, but incurred the suspicion of the Church by his tract _De
 magnetica vulnerum curatione_ (1621), which was thought to derogate from
 some of the miracles. His works were collected and published at
 Amsterdam as _Ortus medicinae, vel opera et opuscula omnia_ in 1668 by
-his son Franz Mercurius (b. 1618 at Vilvorde, d. 1699 at Berlin), in
+his son [[Franz]] Mercurius (b. 1618 at Vilvorde, d. 1699 at Berlin), in
 whose own writings, e.g. _Cabbalah Denudata_ (1677) and _Opuscula
 philosophica_ (1690), mystical theosophy and alchemy appear in still
 wilder confusion.
@@ -84,7 +84,7 @@ wilder confusion.
 FOOTNOTE:
 
   [1] An alternative date for his birth is 1579 and for his death 1635
-    (see _Bull. Roy. Acad. Belg._, 1907, 7, p. 732).
+    (see _[[Bull]]. Roy. Acad. Belg._, 1907, 7, p. 732).
 
 ## References
 

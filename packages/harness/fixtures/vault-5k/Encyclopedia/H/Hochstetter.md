@@ -7,8 +7,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hochstette
 
 # Hochstetter
 
-HOCHSTETTER, FERDINAND CHRISTIAN VON, BARON (1829-1884), Austrian
-geologist, was born at Esslingen, Wurtemberg, on the 30th of April 1829.
+HOCHSTETTER, [[Ferdinand|FERDINAND]] CHRISTIAN VON, BARON (1829-1884), Austrian
+geologist, was born at [[Esslingen]], Wurtemberg, on the 30th of April 1829.
 He was the son of Christian Ferdinand Hochstetter (1787-1860), a
 clergyman and professor at Brunn, who was also a botanist and
 mineralogist. Having received his early education at the evangelical
@@ -32,7 +32,7 @@ died at Vienna on the 18th of July 1884.
 
   PUBLICATIONS.--_Karlsbad, seine geognostischen Verhaltnisse und seine
   Quellen_ (1858); _Neu-Seeland_ (1863); _Geological and Topographical
-  Atlas of New Zealand_ (1864); _Leitfaden der Mineralogie und Geologie_
+  [[Atlas]] of New Zealand_ (1864); _Leitfaden der Mineralogie und Geologie_
   (with A. Bisching) (1876, ed. 8, 1890).
 
 ## See also

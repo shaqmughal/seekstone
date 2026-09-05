@@ -15,7 +15,7 @@ reason or will. The word is thus used of the supposed paralysing
 attraction exercised by some reptiles on their victims. It is also
 applied to a particular hypnotic condition, marked by muscular
 contraction, but with consciousness and power of remembrance left. In a
-quite general sense, fascination means the exercise of any charm or
+quite general sense, fascination means the exercise of any [[Charm|charm]] or
 strong attraction.
 
 ## See also

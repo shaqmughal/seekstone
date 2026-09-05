@@ -3,8 +3,8 @@
 BRONCHITIS, the name given to inflammation of the mucous membrane of the
 bronchial tubes (see RESPIRATORY SYSTEM: _Pathology_). Two main varieties
 are described, specific and non-specific bronchitis. The bronchitis which
-occurs in infectious or specific disorders, as diphtheria, influenza,
-measles, pneumonia, &c., due to the micro-organisms observed in these
+occurs in infectious or specific disorders, as diphtheria, [[Influenza|influenza]],
+[[Measles|measles]], pneumonia, &c., due to the micro-organisms observed in these
 diseases, is known as specific; whereas that which results from extension
 from above, or from chemical or mechanical irritation, is known as
 non-specific. It is convenient to describe it, however, under the chemical
@@ -15,15 +15,15 @@ generally arises as the result of exposure to cold, particularly if
 accompanied with damp, or of sudden change from a heated to a cool
 atmosphere. The symptoms vary according to the severity of the attack, and
 more especially according to the extent to which the inflammatory action
-spreads in the bronchial tubes. The disease usually manifests itself at
+spreads in the bronchial tubes. The disease usually [[Manifest|manifests]] itself at
 first in the form of a catarrh, or common cold; but the accompanying
 feverishness and general constitutional disturbance proclaim the attack to
 be something more severe, and symptoms denoting the onset of bronchitis
 soon present themselves. A short, painful, dry cough, accompanied with
 rapid and wheezing respiration, a feeling of rawness and pain in the throat
-and behind the breast bone, and of oppression or tightness throughout the
+and behind the [[Breast|breast]] [[Bone|bone]], and of oppression or tightness throughout the
 chest, mark the early stages of the disease. In some cases, from the first,
-symptoms of the form of asthma (_q.v._) known as the _bronchitic_ are
+symptoms of the form of [[Asthma|asthma]] (_q.v._) known as the _bronchitic_ are
 superadded, and greatly aggravate the patient's suffering.
 
 [v.04 p.0635] After a few days expectoration begins to come with the cough,
@@ -35,7 +35,7 @@ in the majority of instances convalescence advances, and the patient is
 ultimately restored to health, although there is not unfrequently left a
 tendency to a recurrence of the disease on exposure to its exciting causes.
 
-When the ear or the stethoscope is applied to the chest of a person
+When the [[Ear|ear]] or the stethoscope is applied to the chest of a person
 suffering from such an attack as that now described, there are heard in the
 earlier stages snoring or cooing sounds, mixed up with others of wheezing
 or fine whistling quality, accompanying respiration. These are denominated
@@ -51,7 +51,7 @@ together with the presence of a tough secretion closely adhering to it,
 tends to diminish the calibre of the tubes. The respired air as it passes
 over this surface gives rise to the dry or sonorous breath sounds, the
 coarser being generated in the large, and the finer or wheezing sounds in
-the small divisions of the bronchi. Before long, however, the discharge
+the small divisions of the bronchi. Before long, however, the [[Discharge|discharge]]
 from the bronchial mucous membrane becomes more abundant and less
 glutinous, and accumulates in the tubes till dislodged by coughing. The
 respired air, as it passes through this fluid, causes the moist rales above
@@ -63,7 +63,7 @@ Such are briefly the main characteristics presented by an ordinary attack
 of acute bronchitis running a favourable course. The case is, however, very
 different when the inflammation spreads into, or when it primarily affects,
 the minute ramifications of the bronchial tubes which are in immediate
-relation to the air-cells of the lungs, giving rise to that form of the
+relation to the air-cells of the [[Lung|lungs]], giving rise to that form of the
 disease known as _capillary bronchitis_ or _broncho-pneumonia_ (see
 RESPIRATORY SYSTEM: _Pathology_; and PNEUMONIA). When this takes place all
 the symptoms already detailed become greatly intensified, and the patient's
@@ -72,11 +72,11 @@ entrance of air into the lungs, and thus to the due aeration of the blood.
 The feverishness and restlessness increase, the cough becomes incessant,
 the respiration extremely rapid and laboured, the nostrils dilating with
 each effort, and evidence of impending suffocation appears. The surface of
-the body is pale or dusky, the lips are livid, while breathing becomes
+the body is pale or dusky, the [[Lip|lips]] are livid, while breathing becomes
 increasingly difficult, and is attended with suffocative paroxysms which
 render the recumbent posture impossible. Unless speedy relief is obtained
 by successful efforts to clear the chest by coughing and expectoration, the
-patient's strength gives way, somnolence and delirium set in and death
+patient's strength gives way, somnolence and [[Delirium|delirium]] set in and death
 ensues. All this may be brought about in the space of a few days, and such
 cases, particularly among the very young, sometimes prove fatal within
 forty-eight hours.
@@ -87,7 +87,7 @@ occurrence is a matter of special anxiety to the physician. It is
 pre-eminently dangerous at the extremes of life, and mortality statistics
 show it to be one of the most fatal of the diseases of those periods. This
 is to be explained not only by the well-recognized fact that all acute
-diseases tell with great severity on the feeble frames alike of infants and
+diseases tell with great severity on the feeble [[Frame|frames]] alike of [[Infant|infants]] and
 aged people, but more particularly by the tendency which bronchitis
 undoubtedly has in attacking them to assume the capillary form, and when it
 does so to prove quickly fatal. The importance, therefore, of early
@@ -121,7 +121,7 @@ which are more of the nature of a simple catarrh, little else will be found
 necessary than confinement in a warm room, or in bed, for a few days, and
 the use of light diet, together with warm diluent drinks. Additional
 measures are however called for when the disease is more markedly
-developed. Medicines to allay fever and promote perspiration are highly
+developed. Medicines to allay [[Fever|fever]] and promote perspiration are highly
 serviceable in the earlier stages. Later, with the view of soothing the
 pain of the cough, and favouring expectoration, mixtures of tolu, with the
 addition of some opiate, such as the ordinary paregorics, may be
@@ -134,16 +134,16 @@ to children, and caution is necessary in using them.
 
 From the outset of the attack the employment of fomentations, or especially
 a turpentine stupe, gives great relief, and occasionally in the
-non-specific form this treatment, combined with a good dose of calomel and
+non-specific form this treatment, combined with a good dose of [[Calomel|calomel]] and
 salts, may render the attack abortive. Some relief is always obtained by
 inhalations, and theoretically, an acute specific bronchitis should be
 successfully treated by inhalation of antiseptic and soothing remedies. In
 practice, however, it is found that the strength cannot be sufficiently
 strong to destroy the bacteria in the bronchial tubes. However, much relief
 is obtained from the use of steam atomizers filled with an aqueous solution
-of compound tincture of benzoin, creosote or guaiacol. A still more
+of compound tincture of [[Benzoin|benzoin]], creosote or guaiacol. A still more
 practicable means of introducing volatile antiseptic oils is the globe
-nebulizer, which throws oleaginous solutions in the form of a fine fog,
+nebulizer, which throws oleaginous solutions in the form of a fine [[Fog|fog]],
 that can be deeply inhaled. Menthol, eucalyptol and white pine extract are
 some of the remedies that may be tried dissolved in benzoinol, to which
 cocaine or opium may be added if the cough is troublesome.
@@ -182,15 +182,15 @@ bronchial tubes, their mucous membrane becoming thickened or even
 ulcerated, while occasionally permanent dilatation of the bronchi takes
 place, often accompanied with profuse foetid expectoration. In
 long-standing cases of chronic bronchitis the nutrition of the lungs
-becomes impaired, and dilatation of the air-tubes (_emphysema_) and other
+becomes impaired, and dilatation of the air-tubes (_[[Emphysema|emphysema]]_) and other
 complications result, giving rise to more or less constant breathlessness.
 
 Chronic bronchitis may arise secondarily to some other ailment. This is
-especially the case in Bright's disease of the kidneys and in heart
+especially the case in [[Bright'S Disease|Bright's disease]] of the kidneys and in heart
 disease, of both of which maladies it often proves a serious complication,
 also in gout and syphilis. The influence of occupation is seen in the
 frequency in which persons following certain employments suffer from
-chronic bronchitis. Hirt has shown that the inhalation of vegetable dust is
+chronic bronchitis. Hirt has shown that the inhalation of vegetable [[Dust|dust]] is
 very liable to produce bronchitis through the irritation produced by the
 dust particles and the growth of organisms carried in with the dust.
 Consequently, millers and grain-shovellers are especially liable to it,
@@ -200,7 +200,7 @@ The treatment to be adopted in chronic bronchitis depends upon the severity
 of the case, the age of the patient and the presence or absence of
 complications. Attention to the general health is a matter of prime
 importance in all cases of the disease, more particularly among persons
-whose avocations entail exposure, and tonics with cod-liver oil will be
+whose avocations [[Entail|entail]] exposure, and tonics with cod-liver oil will be
 found highly advantageous. The use of a respirator in very cold or damp
 weather is a valuable means of protection. In those aggravated forms of
 chronic bronchitis, where the slightest exposure to cold air brings on

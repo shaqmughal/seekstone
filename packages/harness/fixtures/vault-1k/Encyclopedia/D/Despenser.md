@@ -40,7 +40,7 @@ government of the country, which they attempted to rule in a moderate
 and constitutional fashion. But their next enemy, Queen Isabella, was
 more formidable, or more fortunate, than Lancaster. Returning to England
 after a sojourn in France in 1326 the queen directed her arms against
-her husband's favourites. The elder Despenser was seized at Bristol,
+her husband's favourites. The elder Despenser was seized at [[Bristol]],
 where he was hanged on the 27th of October 1326, and the younger was
 taken with the king at Llantrisant and hanged at Hereford on the 24th of
 November following. The attainder against the Despensers was reversed in
@@ -83,7 +83,7 @@ Lollards, whose leader, John Wycliffe, had fiercely denounced his
 crusade in Flanders.
 
 The barony of Despenser, called out of abeyance in 1604, was held by the
-Fanes, earls of Westmorland, from 1626 to 1762; by the notorious Sir
+[[Fan|Fanes]], earls of Westmorland, from 1626 to 1762; by the notorious Sir
 Francis Dashwood from 1763 to 1781; and by the Stapletons from 1788 to
 1891. In 1891 it was inherited, through his mother, by the 7th Viscount
 Falmouth.

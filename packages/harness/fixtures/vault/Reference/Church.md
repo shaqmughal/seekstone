@@ -2,11 +2,11 @@
 
 CHURCH (according to most authorities derived from the Gr. [Greek:
 kyriakon [doma]], "the Lord's [house]," and common to many Teutonic,
-Slavonic and other languages under various forms--Scottish _kirk_, Ger.
-_Kirche_, Swed. _kirka_, Dan. _kirke_, Russ. _tserkov_, Bulg. _cerkova_,
+Slavonic and other languages under various forms--Scottish _[[Kirk|kirk]]_, Ger.
+_Kirche_, Swed. _kirka_, Dan. _[[Kirke|kirke]]_, Russ. _tserkov_, Bulg. _cerkova_,
 Czech _cirkev_, Finn, _kirkko_, &c), a word originally applied to the
 building used for Christian worship, and subsequently extended to the
-Christian community (_ecclesia_) itself. Similarly the Greek word
+Christian community (_[[Ecclesia|ecclesia]]_) itself. Similarly the Greek word
 _ecclesia_ ([Greek: ekklêsia]), "assembly," was very early transferred
 from the community to the building, and is used in both senses,
 especially in the modern Romance and Celtic languages (e.g. Fr.
@@ -16,7 +16,7 @@ _église_, Welsh _eglwys_, &c).
 view the subject of church building, including the development of the
 various styles and the essential features of the construction and
 arrangement of churches, is dealt with elsewhere (see ARCHITECTURE;
-ABBEY; BASILICA). It is, however, impossible to understand the
+ABBEY; [[Basilica|BASILICA]]). It is, however, impossible to understand the
 development of church architecture without realizing its intimate
 connexion with that of the doctrine, organization and ritual of the
 Christian Church as a religious community, and a brief sketch of this
@@ -49,9 +49,9 @@ into imperial favour, and established as part of the organization of the
 Roman empire, simply adopted that type of secular official building
 which she found convenient for her purposes. The clergy, now Roman
 officials, vested in the robes of the civil dignitaries (see VESTMENTS),
-took their seats in the apse of the basilica where the magistrates were
+took their seats in the [[Apse|apse]] of the basilica where the [[Magistrate|magistrates]] were
 wont to sit, in front of them the holy table, facing the congregation.
-The _cancelli_, the lattice or bar, which in the civil tribunal had
+The _[[Cancelli|cancelli]]_, the lattice or bar, which in the civil tribunal had
 divided the court from the litigants and the public, now served to
 separate clergy and laity. This arrangement still survives in some of
 the ancient churches of Rome; it has been revived in many Protestant
@@ -65,11 +65,11 @@ into the _iconostasis_, the screen of holy pictures, behind the closed
 doors of which the supreme act of the eucharistic mystery is hidden from
 the lay people. In the West the high altar was moved to the east end
 (the _presbyterium_) with a space before it for the assisting deacons
-andsubdeacons (the chancel proper) railed off as a spot peculiarly holy
+andsubdeacons (the [[Chancel|chancel]] proper) railed off as a spot peculiarly holy
 (now usually called the sanctuary); between this and the nave, where the
-laity were, was the choir, with seats for the clergy on either side. The
+laity were, was the [[Choir|choir]], with seats for the clergy on either side. The
 whole of this space (sanctuary and choir) came to be known as the
-"chancel." This was divided from the nave, sometimes by an arch forming
+"chancel." This was divided from the nave, sometimes by an [[Arch|arch]] forming
 part of the structure of the building, sometimes by a screen, or by
 steps, sometimes by all three (see CHANCEL). The division of churches
 into chancel and nave, the outcome of the sacramental and sacerdotal
@@ -92,17 +92,17 @@ The Romanesque churches, still reminiscent of antique models, had
 preserved all the simplicity of the ancient basilicas with much more
 than their grandeur; but the taste for religious symbolism which
 culminated in the 13th century, and the imaginative genius of the
-northern peoples, transformed them into the marvellous dreams in stone
-of the "Gothic" period. Churches now became, in form and decoration,
-epitomes of the Christian scheme of salvation as the middle ages
+northern peoples, transformed them into the marvellous [[Dream|dreams]] in stone
+of the "[[Gothic]]" period. Churches now became, in form and decoration,
+[[Epitome|epitomes]] of the Christian scheme of salvation as the middle ages
 understood it. In the plan of the buildings and their decoration
 everything still remained subordinate to the high altar; but though on
 this and its surroundings ornament was most lavishly expended, the
 churches--wherever wealth permitted--were covered within and without
 with sculpture or painting: scenes from the Old and New Testaments, from
 the lives of saints, even from every-day life; figures of the Almighty,
-of Christ, of the Virgin Mother, of apostles, saints, confessors;
-pictures of the joys of heaven and the torments of hell; and outside,
+of Christ, of the Virgin Mother, of [[Apostle|apostles]], saints, confessors;
+pictures of the joys of heaven and the torments of [[Hell|hell]]; and outside,
 grimacing from every angle, demons and goblins, amusing enough to us but
 terrible to the age that set them there, visible embodiments of the evil
 spirits driven from within the sacred building by the efficacy of the
@@ -138,7 +138,7 @@ worst of blasphemies to the re-discoverers of the Old Testament. Save in
 some parts of Germany, where the influence of Luther saved the churches
 from wreck, an iconoclastic wave spread over the greater part of Western
 Europe, wherever the "new religion" prevailed; everywhere churches were
-cleared of images and reduced to the state of those described by William
+cleared of [[Image|images]] and reduced to the state of those described by William
 Harrison in his _Description of England_ (1570), only the "pictures in
 glass" being suffered in some cases to survive for a while "by reason of
 the extreme cost of replacing them." The structures of the churches,
@@ -175,7 +175,7 @@ of the numerous separate organizations into which Christendom is divided
 Evangelical [Lutheran] Church)--these are dealt with under their several
 headings--and in a comprehensive sense (with which we are now concerned)
 to the general body of all those "who profess and call themselves
-Christians." Religion, according to the old definition, is the bond
+Christians." Religion, according to the old [[Definition|definition]], is the bond
 which binds the soul of man to God.[1] It begins as the relation of a
 tribe to its God. Personal religious conviction grows out of the tribal
 (corporate) religious bond. But the social instinct is strong. Men
@@ -186,10 +186,10 @@ case men have found the need alike of a teacher and of fellowship. Thus
 the idea of a church as "the pillar and ground of the truth" (1 Tim.
 iii. 15) corresponds to some of the primary needs of man. Even at
 Stonehenge, the oldest relic of prehistoric religion in England, where
-we picture in imagination the worship of the rising sun, nature worship
+we picture in [[Imagination|imagination]] the worship of the rising sun, nature worship
 degraded to a horrible depth by human sacrifice, we find struggling for
 expression the idea of a corporate religious life. From all the lower
-levels where superstition and cruelty reign, from the depths of fear
+levels where superstition and [[Cruelty|cruelty]] reign, from the depths of fear
 inspired by fetichism, we look on to the higher level of Judaism as the
 progressive religion of the old world. This does not mean that we shut
 our eyes to the ideals of Greek philosophers, with whom morality was
@@ -197,7 +197,7 @@ constantly outgrowing religion. "The vision of an ideal state which the
 master-mind of Plato contemplated, but thought too good ever to become
 true in actual realization, is full of aspirations which the Christian
 Church claims to satisfy. The problems of the relations of the life of
-the State and the life of the individual, which Aristotle ever suggests
+the State and the life of the individual, which [[Aristotle]] ever suggests
 and never solves, are problems with which the Christian Church has at
 least attempted to deal."[2]
 
@@ -209,18 +209,18 @@ of a ruler representing God. As time went on and even the dynasty of
 David failed in the persons of unworthy representatives to maintain this
 ideal, both psalmists and prophets taught the people to look beyond the
 earthly kingdom to the spiritual kingdom of which it was a type. But
-even Isaiah tended to think of the spiritual life and worship of the
+even [[Isaiah]] tended to think of the spiritual life and worship of the
 nation as a department of political organization only, controlled by the
-king and his princes. It was reserved for Jeremiah, in the darkest days
+king and his princes. It was reserved for [[Jeremiah]], in the darkest days
 of his life, to build up the ideal of a spiritual society which should
-weld Israel together, to proclaim a new covenant (xxxi. 31-34) which
-Jehovah would make with Israel when representatives of the previously
-exiled ten tribes should return with the exiles of Judah. This prophecy
+weld Israel together, to proclaim a new [[Covenant|covenant]] (xxxi. 31-34) which
+[[Jehovah]] would make with Israel when representatives of the previously
+exiled ten tribes should return with the exiles of [[Judah]]. This prophecy
 is instinct with the growing sense of the personal responsibility of
 individual men brought into communion with God. The religion of Israel
 from this time of the captivity ceased to be a merely national religion
 connected with particular forms of sacrifice in a particular land. The
-synagogues which traced their origin to the time of Ezekiel, when the
+synagogues which traced their origin to the time of [[Ezekiel]], when the
 sacrificial cultus was impossible, extended this ideal yet further.
 During the centuries preceding the birth of Christ there grew up an
 apocalyptic literature which regarded as a primary truth the conception
@@ -230,12 +230,12 @@ his generation, though the sternness of the repentance which he set
 forth as the necessary preparation for entrance into the new kingdom of
 heaven, which was to be made visible on earth, was not less repugnant to
 the men of his day than of later times. Christ's own teaching and that
-of his disciples began with the proclamation of the kingdom of God (or
-of heaven) (Luke iv. 43, viii. 1, ix. 2; Matt. x. 7). That he intended
+of his [[Disciple|disciples]] began with the proclamation of the kingdom of God (or
+of heaven) ([[Luke]] iv. 43, viii. 1, ix. 2; Matt. x. 7). That he intended
 it to find outward expression in a visible society appears from the
 careful way in which he trained the apostles to become leaders
 hereafter, crowning that work by the institution of the sacraments of
-baptism and the Eucharist. "It was not from accident or for convenience
+baptism and the [[Eucharist]]. "It was not from accident or for convenience
 that Christ formed a society."[3] His parables even more than his
 sermons reveal the principles of his endeavour. But he seldom used the
 word _ecclesia_, church, which became the universal designation of his
@@ -272,7 +272,7 @@ conception was enlarged to include all "of the way" (Acts ix. 2) in the
 Holy Land. A new epoch began from the return of St Paul and St Barnabas
 to Antioch after their first missionary journey, when they called
 together the church and narrated their experiences, and told how "God
-had opened to the Gentiles the door of faith" (Acts xiv. 27). Hitherto
+had opened to the [[Gentile|Gentiles]] the door of faith" (Acts xiv. 27). Hitherto
 the term Church had been "ideally conterminous" with the Jewish Church.
 Now it was to contain members who had never in any sense belonged to the
 Jewish Church. Thus the way was opened for new developments and for
@@ -281,7 +281,7 @@ illimitable extension. St Paul, in his address to the elders at Ephesus
 congregation, which thou hast purchased of old," claiming for the
 Christian _ecclesia_ the title of God's ancient _ecclesia_. But he
 never, however fiercely opposed by Judaizers, set a new _ecclesia_ of
-Christ in opposition to the old. We wait, however, for the Epistles of
+Christ in opposition to the old. We wait, however, for the [[Epistle|Epistles]] of
 his captivity at Rome to find the full meaning of the idea of the church
 dawning upon his imagination. "Here at least, for the first time in the
 Acts and Epistles, we have the _ecclesia_ spoken of in the sense of the
@@ -297,7 +297,7 @@ the universal church as invisible.
 But the mere history of the word _ecclesia_ does not exhaust the
 subject. We must take into account not only the idea of the visible
 _actual_ church, but also the ideal pictured by St Paul in the metaphors
-of the Body (Rom. xii. 5), the Temple (1 Cor. iii. 10-15) and the Bride
+of the Body (Rom. xii. 5), the Temple (1 Cor. iii. 10-15) and the [[Bride]]
 of Christ (2 Cor. xi. 2). The actual church is always falling short of
 its profession; but its successive reformations witness to the strength
 of its longing after the beauty of holiness.
@@ -315,7 +315,7 @@ hands (Heb. vi. 2), in the rite called in later times confirmation,
 followed baptism (Acts viii. 17). In the modern Greek Church it is
 administered by priests with oil which has been consecrated by the
 bishop, in the Roman Church by the bishop himself. Such use of the
-chrism can be traced from the 2nd century. The Anglican Church retains
+[[Chrism|chrism]] can be traced from the 2nd century. The Anglican Church retains
 only the Biblical symbolism of "the blessing of the hand." Presbyterians
 and other Protestant churches have abandoned the use, except the
 Lutherans. We need not here trace the history of Christian worship, in
@@ -354,11 +354,11 @@ where Christ sitteth at the right hand of God."[7]
 (c) Thirdly, there is no question that the Lord intended the one
 fellowship of his saints to be _a visible fellowship_. The idea of an
 invisible church has only commended itself in dark hours when men
-despaired of unity even as an ideal. The view of Zwingli and Calvin in
+despaired of unity even as an ideal. The view of Zwingli and [[Calvin]] in
 the 16th century was not by any means acceptable to other reformers.
 Luther distinguished between the Spiritual Church, which he identified
 with the Communion of Saints, and the Corporeal Church, the outward
-marks of which are Baptism, Sacrament and Gospel. But he regarded them
+marks of which are Baptism, Sacrament and [[Gospel]]. But he regarded them
 as different aspects of the same church, and Melanchthon was even more
 explicit.[8] As the saint purified in heaven is he who struggled with
 his sins on earth, so is the church triumphant one with the church
@@ -366,16 +366,16 @@ militant. In Dr Lindsay's words, "it is one of the privileges of faith,
 when strengthened by hope and by love, to see the glorious ideal in the
 somewhat poor material reality. It was thus that St Paul saw the
 universal Church of Christ made visible in the Christian community of
-Corinth."[9]
+[[Corinth]]."[9]
 
 But it is at this point that we come to the dividing line which has been
 drawn by different conceptions of catholicity. Dr Lindsay goes on to
 argue that all insistence on the principle of historical continuity,
 whether urged by members of the Anglican or the Roman Catholic Church,
-as upholders of episcopacy, is a deliberate return to the principle of
+as upholders of [[Episcopacy|episcopacy]], is a deliberate return to the principle of
 Judaism, which declared that no one who was outside the circle of the
 "circumcised," no matter how strong his faith nor how the fruits of the
-Spirit were manifest in his life and deeds, could plead "the security of
+Spirit were [[Manifest|manifest]] in his life and deeds, could plead "the security of
 the Divine Covenant." Without entering into controversy it must suffice
 to point out that, from the point of view of all episcopal churches, the
 ministry of the bishops succeeding the ministry of the apostles, however
@@ -394,7 +394,7 @@ begins.
 in the statement that the Christian democracy is also a theocracy, that
 Christ is the source of all authority. There are three passages in the
 Gospel which claim notice: (i.) the promise to St Peter (Matt. xvi.
-18f), as spokesman for the apostles, of the key of the household of God,
+18f), as spokesman for the apostles, of the [[Key|key]] of the household of God,
 of power to admit and exclude; (ii.) the promise (Matt. xviii. 15-20)
 probably given to the Twelve, regarding offences against the peace of
 the society, advocating exclusion only when brotherly appeals had
@@ -421,7 +421,7 @@ very well, "It is not only in things to which we commonly confine the
 word miracle that the Divine appears. It may appear not less in the
 whole tone and spirit of the Church's life, in the varied Christian
 virtues of her members, in the general character of their Christian
-work, and in the grace received by them in the Christian sacraments.
+work, and in the [[Grace|grace]] received by them in the Christian sacraments.
 When that life is exhibited, as it ought to be, in its distinctively
 heavenly character, it bears witness to the presence of a power in
 Christian men which no mere recollection of a past example, however
@@ -436,7 +436,7 @@ is noble and of good report in art and literature, keenly interested in
 all the discoveries of science, active in all movements of social
 progress. It cannot, however, be denied that to live such a life, divine
 in its powers and human in its sympathies, demands daily and hourly
-self-sacrifice. As the author of the _Imitation of Christ_ put it long
+self-sacrifice. As the author of the _[[Imitation Of Christ|Imitation of Christ]]_ put it long
 ago, "There is no living in love without pain." The thought of
 self-sacrifice has been emphasized from the earliest times in the
 liturgies. By a true instinct the early Christian writers called widows
@@ -469,7 +469,7 @@ harmony of truth.
 FOOTNOTES:
 
   [1] Lactantius, _Inst. Div._ iv. 28 "Vinculo pietatis obstricti, Deo
-    religati sumus unde ipsa religio nomen accepit." The etymology may
+    religati sumus unde ipsa religio nomen accepit." The [[Etymology|etymology]] may
     be wrong, but this is the popular sense of the word.
 
   [2] Darwell Stone, _The Christian Church_, p. 18.

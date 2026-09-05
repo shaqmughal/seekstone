@@ -1,8 +1,8 @@
 # Bouterwek
 
-BOUTERWEK, FRIEDRICH (1766-1828), German philosopher and critic, was
-born at Oker, near Goslar in Lower Saxony, and studied law at Gottingen.
-From 1790, however, he became a disciple of Kant, published _Aphorismen
+BOUTERWEK, [[Friedrich|FRIEDRICH]] (1766-1828), German philosopher and critic, was
+born at Oker, near [[Goslar]] in Lower Saxony, and studied law at Gottingen.
+From 1790, however, he became a [[Disciple|disciple]] of [[Kant]], published _Aphorismen
 nach Kants Lehre vorgelegt_ (1793), and became professor of philosophy
 at Gottingen (1802), where he died on the 9th of August 1828. As a
 philosopher, he is interesting for his criticism of the theory of the
@@ -11,14 +11,14 @@ the _Kritik_, the "thing-in-itself" can be only an inconceivable
 "something-in-general"; any statement about it involves the predication
 of Reality, Unity and Plurality, which belong not to the absolute thing
 but to phenomena. On the other hand, the subject is known by the fact of
-will, and the object by that of resistance; the cognizance of willing is
+will, and the object by that of resistance; the [[Cognizance|cognizance]] of willing is
 the assertion of absolute reality in the domain of relative knowledge.
 This doctrine has since been described as absolute Virtualism. Following
 this train of thought, Bouterwek left the Kantian position through his
 opposition to its formalism. In later life he inclined to the views of
-F.H. Jacobi, whose letters to him (published at Gottingen, 1868) shed
+F.H. [[Jacobi]], whose letters to him (published at Gottingen, 1868) shed
 much light on the development of his thought. His chief philosophical
-works are _Ideen zu einer allgemeinen Apodiktik_ (Gottingen and Halle,
+works are _Ideen zu einer allgemeinen Apodiktik_ (Gottingen and [[Halle]],
 1799); _Aesthetik_ (Leipzig, 1806; Gottingen, 1815 and 1824); _Lehrbuch
 der philos. Vorkenntnisse_ (Gottingen, 1810 and 1820); _Lehrbuch der
 philos. Wissenschaften_ (Gottingen, 1813 and 1820). In these works he

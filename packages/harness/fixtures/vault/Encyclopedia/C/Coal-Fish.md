@@ -6,17 +6,17 @@ topic: science
 
 # Coal-Fish
 
-COAL-FISH (_Gadus virens_), also called green cod, black pollack, saith
+COAL-FISH (_Gadus virens_), also called green [[Cod|cod]], black pollack, saith
 and sillock, a fish of the family _Gadidae_. It has a very wide range,
 which nearly coincides with that of the cod, although of a somewhat more
 southern character, as it extends to both east and west coasts of the
 North Atlantic, and is occasionally found in the Mediterranean. It is
 especially common in the north, though rarely entering the Baltic; it
-becomes rare south of the English Channel. Unlike the cod and haddock,
+becomes rare south of the [[English Channel]]. Unlike the cod and haddock,
 the coal-fish is, to a great extent, a surface-swimming fish,
 congregating together in large schools, and moving from place to place
 in search of food; large specimens (3 to 3½ ft. long), however, prefer
-deep water, down to 70 fathoms. The flesh is not so highly valued as
+deep water, down to 70 [[Fathom|fathoms]]. The flesh is not so highly valued as
 that of the cod and haddock. The lower jaw projects more or less beyond
 the upper, the mental barble is small, sometimes rudimentary, the vent
 is below the posterior half of the first dorsal fin, and there is a dark
@@ -56,16 +56,16 @@ because sheltered waters, in the seas where Hughes and Suffren strove
 for naval supremacy, were few and far between. A sailing man-of-war
 usually carried from five to six months' provisions and water for 100 to
 120 days. Other needs required to be met, and during the wars of the
-French Revolution it was usual, when possible, to allow ships engaged in
-blockade to return to port every five or six weeks "to refresh." For a
+[[French Revolution]] it was usual, when possible, to allow ships engaged in
+[[Blockade|blockade]] to return to port every five or six weeks "to refresh." For a
 sailing fleet acting on the offensive, a port from which it could easily
 get to sea was a great advantage. Thus Raleigh protested against the use
 of closely landlocked harbours. "Certain it is," he wrote, "that these
-ships are purposely to serve His Majesty and to defend the kingdom from
+ships are purposely to serve His [[Majesty]] and to defend the kingdom from
 danger, and not to be so penned up from casualitie as that they should
 be less able or serviceable in times of need." Nelson for this reason
 made great use of Maddalena Bay, in Sardinia, and was not greatly
-impressed with the strategic value of Malta in spite of its fine natural
+impressed with the strategic value of [[Malta]] in spite of its fine natural
 harbour. The introduction of steam gave rise to a new naval
 requirement--coal--which soon became vital. Commerce under steam quickly
 settled down upon fixed routes, and depots of coal were established to
@@ -87,21 +87,21 @@ the naval conditions of those days to some extent determined the choice
 of islands and harbours for occupation. There does not, however, appear
 to have been any careful study of relative strategic values. Treaties
 were occasionally drafted by persons whose geographical knowledge was at
-fault, and positions were, in some cases, abandoned which ought to have
+[[Fault|fault]], and positions were, in some cases, abandoned which ought to have
 been retained, or tenaciously held when they might have been abandoned.
 It was left to the personal exertions of Sir Stamford Raffles to secure
 such a supremely important roadstead as that of Singapore for the empire.
 Although, therefore, the relative values of positions was not always
-recognized, Great Britain obtained as a legacy from sailing days a large
+recognized, Great Britain obtained as a [[Legacy|legacy]] from sailing days a large
 number of harbours admirably adapted for use as coaling stations. Since
 the dawn of the era of steam, she has acquired Aden, Perim, Hong-Kong,
-North Borneo, Fiji, part of New Guinea, Fanning Island, and many other
-islands in the Pacific, while the striking development of Australia and
+North Borneo, [[Fiji]], part of New Guinea, Fanning Island, and many other
+islands in the Pacific, while the striking development of [[Australia]] and
 New Zealand has added to the long roll of British ports. The coaling
 stations, actual and potential, of the empire are unrivalled in number,
 in convenience of geographical distribution, and in resources. Of the
 numerous British ports abroad which contained coal stores, only the four
-so-called "fortresses"--Gibraltar, Malta, Halifax and Bermuda--were at
+so-called "fortresses"--[[Gibraltar]], Malta, Halifax and Bermuda--were at
 first fortified as naval stations after the introduction of rifled
 ordnance. The term fortress is a misnomer in every case except Gibraltar,
 which, being a peninsula separated only by a neck of neutral ground from
@@ -151,11 +151,11 @@ defence, the able reports were a distinct gain. Some principles were at
 last formulated by authority, and the information collected, if it had
 been rendered accessible to the public, would have exercised a
 beneficial influence upon opinion. Moreover, the commissioners,
-overstepping the bounds of their charter, delivered a wise and
+overstepping the [[Bounds|bounds]] of their charter, delivered a wise and
 statesmanlike warning as to the position of the navy.
 
 Meanwhile, the impulse of the fears of 1878 caused indifferent armaments
-to be sent to Cape Town, Singapore and Hong-Kong, there to be mounted
+to be sent to [[Cape Town]], Singapore and Hong-Kong, there to be mounted
 after much delay in roughly designed works. At the same time, the great
 colonies of Australasia began to set about the defence of their ports
 with commendable earnestness. There is no machinery for giving effect to
@@ -171,9 +171,9 @@ obsolete.
 
 The fortification of the coaling stations for the British empire is
 still proceeding on a scale which, in some cases, cannot easily be
-reconciled with the principles laid down by the president of the cabinet
-committee of defence. At the Guildhall, London, on the 3rd of December
-1896, the duke of Devonshire stated that "The maintenance of sea
+reconciled with the principles laid down by the president of the [[Cabinet|cabinet]]
+committee of defence. At the [[Guildhall]], London, on the 3rd of December
+1896, the duke of [[Devonshire]] stated that "The [[Maintenance|maintenance]] of sea
 supremacy has been assumed as the basis of the system of imperial
 defence against attack from over the sea. This is the determining factor
 in fixing the whole defensive policy of the empire." It was, however, he
@@ -194,7 +194,7 @@ men, and kept in full readiness, will amply suffice.
 
 If the command of the sea is lost, large expeditionary forces can be
 brought to bear upon coaling stations, and their security will thus
-depend upon their mobile garrisons, not upon their passive defences. In
+depend upon their mobile [[Garrison|garrisons]], not upon their passive defences. In
 any case, where coal is stored on shore, it cannot be destroyed by the
 fire of a ship, and it can only be appropriated by landing men. A small
 force, well armed and well handled, can effectually prevent a raid of
@@ -203,7 +203,7 @@ possession of secure coal stores in distant ports may be a great
 advantage, but it will rarely suffice for the needs of a fleet engaged
 in offensive operations, and requiring to be accompanied or met at
 prearranged rendezvous by colliers from which coal can be transferred in
-any sheltered waters. In the British naval manoeuvres of 1892, Admiral
+any sheltered waters. In the British naval [[Manoeuvres|manoeuvres]] of 1892, Admiral
 Sir Michael Seymour succeeded in coaling his squadron at sea, and by the
 aid of mechanical appliances this is frequently possible. In the
 Spanish-American War of 1898 some coaling was thus accomplished; but
@@ -214,7 +214,7 @@ as coaling. As, however, it is certainty of coaling in a given time that
 is of primary importance, the utilization of sheltered waters as
 improvised coaling stations is sure to be a marked feature of future
 naval wars. Although coaling stations are now eagerly sought for by all
-powers which cherish naval ambitions, the annexation of the Hawaiian
+powers which cherish naval ambitions, the [[Annexation|annexation]] of the Hawaiian
 Islands by the United States being a case in point, it is probable that
 they will play a somewhat less important part than has been assumed. A
 fleet which is able to assert and to maintain the command of the sea,
@@ -226,7 +226,7 @@ assistance of workshops to maintain her continuous efficiency, and
 unless docked at intervals suffers a material reduction of speed.
 Prolonged operations in waters far distant from home bases will
 therefore be greatly facilitated in the case of the Power which
-possesses local docks and means of executing repairs. Injuries received
+possesses local [[Dock|docks]] and means of executing repairs. Injuries received
 in action, which might otherwise disable a ship during a campaign, may
 thus be remedied. During the hostilities between France and China in
 1884, the French ship "La Galissonnière" was struck by a shell from one
@@ -237,7 +237,7 @@ again to take the sea. Local stores of reserve ammunition and of spare
 armaments confer evident advantages. Thus, independently of the question
 of coal supply, modern fleets employed at great distances from their
 bases require the assistance of ports furnished with special resources,
-and a power like Japan with well-equipped naval bases in the China Sea,
+and a power like [[Japan]] with well-equipped naval bases in the China Sea,
 and possessing large sources of coal, occupies, for that reason, a
 favoured position in regard to naval operations in the Far East. As the
 term "coaling station" refers only to a naval need which can often be
@@ -246,11 +246,11 @@ modern conditions than "secondary base." Secondary bases, or coaling
 stations, when associated with a powerful mobile navy, are sources of
 maritime strength in proportion to the services they can render, and to
 their convenience of geographical position. In the hands of an inferior
-naval power, they may be used, as was Mauritius in 1809-1810, as points
+naval power, they may be used, as was [[Mauritius]] in 1809-1810, as points
 from which to carry on operations against commerce; but unless situated
 near to trade routes, which must be followed in war, they are probably
 less useful for this purpose than in sailing days, since convoys can now
-be more effectively protected, and steamers have considerable latitude
+be more effectively protected, and steamers have considerable [[Latitude|latitude]]
 of courses. Isolated ports dependent on sea-borne resources, and without
 strong bodies of organized fighting men at their backs are now, as
 always, hostages offered to the power which obtains command of the sea.

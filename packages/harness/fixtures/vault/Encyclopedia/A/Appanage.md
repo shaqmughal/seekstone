@@ -19,9 +19,9 @@ children of reigning or mediatized houses in Germany and Austria, which
 reverts to the state or to the head of the family on the extinction of
 the line of the original grantee. In English history the system of
 appanages never played any great part, and the term is now properly
-applied only to the appanages of the crown: the duchy of Cornwall,
+applied only to the appanages of the crown: the duchy of [[Cornwall]],
 assigned to the king's eldest son at birth, or on his father's accession
-to the crown, and the duchy of Lancaster. In the history of France,
+to the crown, and the duchy of [[Lancaster]]. In the history of France,
 however, the appanage was a very important factor. The word denotes in
 very early French law the portion of lands or money given by fathers and
 mothers to their sons or daughters on marriage, and usually connotes a
@@ -47,9 +47,9 @@ appanaged nobles. The old law, however, never abolished this
 institution. The edict of Moulins (1566) maintained it, as one of the
 exceptions to the inalienability of the crown-lands; only it was then
 decided that daughters of France should be appanaged in money, or that
-if, in default of coin, lands were assigned to them, these lands should
+if, in [[Default|default]] of [[Coin|coin]], lands were assigned to them, these lands should
 be redeemable by the crown in perpetuity. The efforts of the kings to
-minimize this evil, and of the old jurisprudence to deal with the
+minimize this evil, and of the old [[Jurisprudence|jurisprudence]] to deal with the
 matter, resulted in two expedients: (1) the reversion of the appanage to
 the crown was secured as far as possible, being declared inalienable and
 transmissible only to male descendants in the male line of the person

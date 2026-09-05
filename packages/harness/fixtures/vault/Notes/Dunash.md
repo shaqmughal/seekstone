@@ -10,8 +10,8 @@ tags: [history, economics]
 
 DUNASH, the name of two Jewish scholars of the 10th century.
 
-1. DUNASH BEN LABRAT, grammarian and poet, belonged to the brilliant
-circle attracted to Cordova by Hasdai, and took a large share in
+1. DUNASH [[Ben|BEN]] LABRAT, grammarian and poet, belonged to the brilliant
+circle attracted to [[Cordova]] by Hasdai, and took a large share in
 promoting the Jewish "Golden Age" under the Moors in Andalusia. Dunash
 not only helped in the foundation of a school of scientific philology,
 but adapted Arabian metres to Hebrew verse, and thereby gave an impulse

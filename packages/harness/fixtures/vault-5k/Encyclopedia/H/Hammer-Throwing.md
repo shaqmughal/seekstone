@@ -5,9 +5,9 @@ to the greatest possible distance an instrument with a heavy head and
 slender handle called the hammer. Throwing the hammer is in all
 probability of Keltic origin, as it has been popular in Ireland and
 Scotland for many centuries. The missile was, however, not a hammer, but
-the wheel of a chariot attached to a fixed axle, by which it was whirled
+the wheel of a chariot attached to a fixed [[Axle|axle]], by which it was whirled
 round the head and cast for distance. Such a sport was undoubtedly
-cultivated in the old Irish games, a large stone being substituted for
+cultivated in the old Irish [[Games|games]], a large stone being substituted for
 the wheel at the beginning of the Christian era. In the Scottish
 highlands the missile took the form of a smith's sledgehammer, and in
 this form the sport became popular in England in early days. Edward II.
@@ -47,9 +47,9 @@ still further modified the handle, which now consists of steel wire with
 two skeleton loops for the hands, the wire being joined to the head by
 means of a ball-bearing swivel. Thus the greatest mechanical advantage,
 that of having the entire weight of the missile at the end, as well as
-the least friction, is obtained. In England the Amateur Athletic
+the least [[Friction|friction]], is obtained. In England the Amateur Athletic
 Association in 1908 enacted that "the head and handle may be of any
-size, shape and material, provided that the complete implement shall not
+size, shape and material, provided that the complete [[Implement|implement]] shall not
 be more than 4 ft. and its weight not less than 16 lb. The competitor
 may assume any position he chooses, and use either one or both hands.
 All throws shall be made from a circle 7 ft. in diameter." The modern
@@ -67,7 +67,7 @@ control over the hammer and has thus rendered the sport much less
 dangerous than it once was.
 
   With a wooden handle the longest throw made in Great Britain from a
-  9-ft. circle was that of W. J. M. Barry in 1892, who won the
+  9-ft. circle was that of W. J. M. [[Barry]] in 1892, who won the
   championship in that year with 133 ft. 3 in. With the flexible handle,
   "unlimited run and follow" being permitted, the record was held in
   1909 by M. J. McGrath with 175 ft. 8 in., made in 1907; a Scottish

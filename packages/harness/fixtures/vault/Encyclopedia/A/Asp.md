@@ -16,9 +16,9 @@ scales, shields being absent, and in having the snout somewhat turned
 up. The term "Asp" [Greek: aspis] seems to have been employed by Greek
 and Roman writers, and by writers generally down to comparatively recent
 times, to designate more than one species of serpent; thus the asp, by
-means of which Cleopatra is said to have ended her life, and so avoided
-the disgrace of entering Rome a captive, is now generally supposed to
-have been the cerastes, or horned viper (_Cerastes cornutus_), of
+means of which [[Cleopatra]] is said to have ended her life, and so avoided
+the disgrace of entering Rome a [[Captive|captive]], is now generally supposed to
+have been the cerastes, or horned viper (_Cerastes [[Cornutus|cornutus]]_), of
 northern Africa and Arabia, a snake about 15 in. long, exceedingly
 venomous, and provided with curious horn-like protuberances over each
 eye, which give it a decidedly sinister appearance. The snake, however,

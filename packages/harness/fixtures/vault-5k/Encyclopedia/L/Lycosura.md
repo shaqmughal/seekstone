@@ -18,7 +18,7 @@ dates varying from the 4th century B.C. to the age of Hadrian. But it
 has now been shown that he lived in the 2nd century B.C. Remains of a
 portico, altars and other structures have also been found.
 
-  See [Greek: Praktika tes Arch. Hetairias] (1896); G. Dickens, _Annual
+  See [Greek: Praktika tes Arch. Hetairias] (1896); G. [[Dickens]], _Annual
   of British School_ at Athens, xii. and xiii.
 
 ## See also

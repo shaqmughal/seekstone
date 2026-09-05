@@ -23,8 +23,8 @@ Hall, 3 m. S., where (in a former mansion) some of the conspirators in
 the Gunpowder Plot defied search for eight days (1605); and Westwood, a
 fine hall of Elizabethan and Carolean date on the site of a Benedictine
 nunnery, a mile west of Droitwich, which offered a retreat to many
-Royalist cavaliers and churchmen during the Commonwealth. Droitwich is
-governed by a mayor, 4 aldermen and 12 councillors. Area, 1856 acres.
+Royalist cavaliers and churchmen during the [[Commonwealth]]. Droitwich is
+governed by a [[Mayor|mayor]], 4 aldermen and 12 councillors. Area, 1856 acres.
 
 A Roman villa, with various relics, has been discovered here, but it is
 doubtful how far the Romans made use of the brine springs. Droitwich
@@ -47,7 +47,7 @@ in the 18th century. In medieval times Droitwich was governed by two
 bailiffs and twelve jurats, the former being elected every year by the
 burgesses; Queen Mary granted the incorporation charter in 1554 under
 the name of the bailiffs and burgesses. James I. in 1625 granted another
-and fuller charter, which remained the governing charter until the
+and [[Fuller|fuller]] charter, which remained the governing charter until the
 Municipal Reform Act. King John's charter granted the burgesses a fair
 on the feast of SS. Andrew and Nicholas lasting for eight days, but
 Edward III. in 1330 granted instead two fairs on the vigil and day of St
@@ -59,9 +59,9 @@ Monday to Friday.
 
 
 DRÔME, a department in the south-east of France, formed of parts of
-Dauphiné and Provence, and bounded W. by the Rhone, which separates it
+[[Dauphin]]é and Provence, and bounded W. by the Rhone, which separates it
 from Ardèche, N. and N.E. by Isère, E. by Hautes-Alpes, S.E. by
-Basses-Alpes, and S. by Vaucluse; area 2533 sq. m.; pop. (1906) 297,270.
+[[Basses-Alpes]], and S. by Vaucluse; area 2533 sq. m.; pop. (1906) 297,270.
 Drôme is traversed from east to west by numerous rivers of the Rhone
 basin, chief among which are the Isère in the north, the Drôme in the
 centre and the Aygues in the south. The left bank of the Rhone is
@@ -90,8 +90,8 @@ of mulberries and walnuts is more widely spread. In the rearing of
 silkworms Drôme ranks high in importance among French departments. The
 Montélimar district is noted for its truffles, which are also found
 elsewhere in the department. The mineral products of Drôme include
-lignite, blende, galena, calamine, freestone, lime, cement, potter's
-clay and kaolin. Brick and tile works, potteries and porcelain
+lignite, [[Blende|blende]], [[Galena|galena]], calamine, freestone, lime, cement, potter's
+clay and [[Kaolin|kaolin]]. [[Brick]] and tile works, potteries and porcelain
 manufactories exist in several localities. The industries comprise
 flour-milling, distilling, wood-sawing, turnery and dyeing. The chief
 textile industry is the preparation and weaving of silk, which is
@@ -99,16 +99,16 @@ carried on in a number of towns. Woollen and cotton goods are also
 manufactured. Leather working and boot-making, which are carried on on a
 large scale at Romans, are important, and the manufacture of machinery,
 hats, confectionery and paper employs much labour. Drôme exports fruit,
-oil, cheese, wine, wool, live stock and its manufactured articles; the
+oil, [[Cheese|cheese]], wine, wool, live stock and its manufactured articles; the
 chief import is coal. It is served by the Paris-Lyon railway, and the
 Rhone and Isère furnish over 100 m. of navigable waterway. The canal de
-la Bourne, the only one in the department, is used for purposes of
-irrigation only. Drôme is divided into the arrondissements of Valence,
-Die, Montélimar and Nyons, comprising 29 cantons and 379 communes. The
+la [[Bourne]], the only one in the department, is used for purposes of
+irrigation only. Drôme is divided into the [[Arrondissement|arrondissements]] of Valence,
+Die, Montélimar and Nyons, comprising 29 cantons and 379 [[Commune|communes]]. The
 capital is Valence, which is the seat of a bishopric of the province of
-Avignon. The department forms part of the académie (educational
-division) of Grenoble, where its court of appeal is also located, and of
-the region of the XIV. army corps.
+[[Avignon]]. The department forms part of the académie (educational
+division) of [[Grenoble]], where its court of appeal is also located, and of
+the region of the XIV. army [[Corps|corps]].
 
 Besides Valence, the chief towns of the department are Die, Montélimar,
 Crest and Romans (qq.v.). Nyons is a small industrial town with a

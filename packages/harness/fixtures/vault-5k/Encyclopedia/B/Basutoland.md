@@ -10,8 +10,8 @@ type: article
 BASUTOLAND (officially "The Territory of Basutoland"), an inland state
 and British crown colony of S.E. Africa, situated between 28 deg. 35'
 and 30 deg. 30' S. and 27 deg. and 29 deg. 25' E. It has an area of
-10,293 sq. m., being somewhat smaller than Belgium, and is bounded S.,
-S.E., and N.E. by the Drakensberg, N. and N.W. by the Caledon river,
+10,293 sq. m., being somewhat smaller than [[Belgium]], and is bounded S.,
+S.E., and N.E. by the [[Drakensberg]], N. and N.W. by the [[Caledon]] river,
 S.W. by a range of low hills extending from the Caledon above Wepener to
 the Orange river, and south of the Orange by the Telle or Tees river to
 its source in the Drakensberg. Its greatest length S.W. to N.E. is 145
@@ -70,9 +70,9 @@ that these spurs represent the sites of vents or fissures of eruption.
 The upper part of the Maluti range consists of flows of melaphyres and
 diabases belonging to the volcanic beds. Among these lavas is the "pipe"
 amygdaloid of which many blocks have been transported great distances
-down the Vaal river. The amygdales are three or four inches long and
+down the Vaal river. The amygdales are three or four [[Inch|inches]] long and
 about three-eighths of an inch in diameter. Heulandite, with thomsonite,
-stilbite, scolecite, calcite and chalcedony, occur as infilling
+stilbite, scolecite, [[Calcite|calcite]] and chalcedony, occur as infilling
 minerals.
 
 _Climate._--The climate is excellent, invigorating alike for Europeans
@@ -81,7 +81,7 @@ seasons are distinctly marked, a rarity in South Africa, where the
 transition from summer to winter is generally very rapid. The heat of
 summer (December-March, which is the rainy season) is tempered by cool
 breezes; winter (May-September, inclusive) is dry, cold and bracing, and
-frost prevails for prolonged periods. The average annual rainfall is
+[[Frost|frost]] prevails for prolonged periods. The average annual rainfall is
 about 30 in. The general health conditions are good. Malaria is almost
 unknown and chest complaints are rare. Epidemics of smallpox and typhoid
 occur; and leprosy, imported from the Orange River and Cape Colonies,
@@ -93,10 +93,10 @@ none. Along the upper courses of the rivers are willows and wild olive
 trees; round the chief settlements the eucalyptus and the pine have been
 planted. Heaths, generally somewhat rare in South Africa outside the
 Cape peninsula, are abundant in Basutoland. The Alpine flora is very
-beautiful. There are few wild animals; but the eland, hartebeest and
+beautiful. There are few wild animals; but the [[Eland|eland]], hartebeest and
 smaller antelopes are found, as well as the leopard and the jackal.
 Mountain hares, partridges and quails afford good sport; baboons and
-great hawks live in the mountains. The few fish include the barbel.
+great [[Hawk|hawks]] live in the mountains. The few fish include the barbel.
 Swarms of locusts occasionally visit the country; the locusts are eaten
 by the Basuto.
 
@@ -107,7 +107,7 @@ females outnumber the males by about 20,000, which is, however, about
 the number of adult males away from the country at any given period. The
 majority live in the district between the Maluti mountains and the
 Caledon river. The great bulk of the people are Basuto, but there are
-some thousands of Barolong and other Kaffirs. The Basuto proper are a
+some thousands of Barolong and other [[Kaffirs]]. The Basuto proper are a
 branch of the Bechuana family of Bantu-Negroids. The white inhabitants
 in 1904 numbered 895, and there were 222 coloured persons other than
 natives. The seat of government is Maseru, on the left bank of the
@@ -119,7 +119,7 @@ the Paris Society about 1833. Three miles from Morija is Matsieng, the
 kraal of the paramount chief Lerothodi (who died in August 1905). There
 are numerous mission stations throughout Basutoland, to several of which
 Biblical names have been given, such as Shiloh, Hermon, Cana, Bethesda,
-Berea.
+[[Berea]].
 
 _Agriculture and Trade._--Basutoland is one of the greatest
 grain-growing countries of South Africa. The richest tract of land is
@@ -155,8 +155,8 @@ Bloemfontein and Ladysmith. This railway follows, N.E. of Maseru, the
 right bank of the Caledon, and affords a ready means of transport for
 the cereals raised on the left or Basuto side of the river. Highroads,
 maintained by the government, traverse every part of the country, and
-bridges have been built across the Caledon. The usual mode of conveyance
-is by ox-waggon or light cart. Several passes through the Drakensberg
+bridges have been built across the Caledon. The usual mode of [[Conveyance|conveyance]]
+is by ox-waggon or light [[Cart|cart]]. Several passes through the Drakensberg
 into Griqualand East and Natal exist, but are little used. There is a
 complete postal and telegraphic service and a telephone line connects
 all government stations.
@@ -194,7 +194,7 @@ of European descent. There are over 200 schools, with an average
 attendance exceeding 10,000. Nine-tenths of the scholars are in the
 schools of the French Protestant Mission, which are conducted by
 English, or English-speaking, missionaries. A government grant is made
-towards the cost of upkeep. A government industrial school (opened in
+towards the cost of upkeep. A government [[Industrial School|industrial school]] (opened in
 1906) is maintained at Maseru, and the Paris Society has an industrial
 school at Leloaleng. The social condition of the people is higher than
 that of the majority of South African natives. Many Basuto profess
@@ -249,7 +249,7 @@ with Waterboer, the Griqua chief (see GRIQUALAND), creating Basutoland a
 native state under British protection.
 
 
-  Annexation to Great Britain.
+  [[Annexation]] to Great Britain.
 
 To the quarrels between Basuto and Boers were added interminable
 disputes between the Basuto and other Bechuana tribes, which continued
@@ -292,7 +292,7 @@ subject of the Free State. Seeing that the struggle against the Boers
 was hopeless, no fewer than 2000 Basuto warriors having been killed,
 Moshesh again appealed for protection to the British authorities,
 saying: "Let me and my people rest and live under the large folds of the
-flag of England before I am no more." In response to this request, the
+[[Flag|flag]] of England before I am no more." In response to this request, the
 British authorities decided to take over Basutoland, and a proclamation
 of annexation was issued on the 12th of March 1868. At the same time the
 Boer commandoes were requested to leave the country. The Free State
@@ -308,7 +308,7 @@ Moshesh, who for nearly fifty years had led his people so skilfully and
 well, died in 1870. He was one of the rare instances among the Kaffirs
 of a leader endowed with intellectual gifts which placed him on a level
 with Europeans, and his life-work has left a permanent mark on South
-African history. In diplomacy he proved fully the equal of all--white or
+African history. In [[Diplomacy|diplomacy]] he proved fully the equal of all--white or
 black--with whom he had to deal, while he ruled with a rare combination
 of vigour and moderation over the nation which he had created.
 
@@ -331,7 +331,7 @@ successfully among some of the Kaffir tribes on the Cape eastern
 frontier. Its execution in Basutoland, however, proved an extremely
 difficult task, and was never entirely accomplished. Desultory warfare
 was carried on between the colonial troops and the Basuto until 1881,
-when the intervention of the high commissioner, Sir Hercules Robinson
+when the intervention of the high commissioner, Sir [[Hercules]] Robinson
 (afterward Lord Rosmead), was asked for. Peace in Basutoland was not
 announced until the end of 1882. In the following year a form of
 self-government was established, but was once more followed by internal
@@ -353,7 +353,7 @@ Moshesh family--was maintained. Moshesh had been succeeded as paramount
 chief by his son, Letsie, and he in turn was succeeded in 1891 by
 Lerothodi (c. 1837-1905). These chieftains acted in concert with the
 British representative in the country, to whom was given the title of
-resident commissioner. The first commissioner was Sir Marshall Clarke,
+resident commissioner. The first commissioner was Sir [[Marshall]] Clarke,
 to whose tact and ability the country owed much. The period of warfare
 over, the Basuto turned their attention more and more to agricultural
 pursuits and also showed themselves very receptive of missionary
@@ -369,7 +369,7 @@ presence of the resident commissioner, gave a further protestation of
 their loyalty to Her Majesty. They remained passive throughout the War
 and the neutrality of the country was respected by both armies. One
 chief alone sought to take advantage of the situation by disloyal
-action, and his offence was met by a year's imprisonment. The conversion
+action, and his offence was met by a year's imprisonment. The [[Conversion|conversion]]
 of Basutoland into a crown colony contributed alike to the prosperity of
 the Basuto, the security of the property of neighbouring colonists and a
 peaceful condition among the natives of South Africa generally. In
@@ -393,7 +393,7 @@ quiet.
   AUTHORITIES.--_The Basutos_ (2 vols., London, 1909), a standard
   history, and "Basutoland and the Basutos" in _Jnl. Ryl. Col. Inst._
   1901, both by Sir G. Lagden, resident-commissioner, 1893-1901; E.
-  Jacottet, "Moeurs, coutumes et superstitions des Ba-Souts," in _Bull.
+  Jacottet, "Moeurs, coutumes et superstitions des Ba-Souts," in _[[Bull]].
   Soc. neuchateloise Geog._, vol. ix. pp. 107-151, 1897; G.M. Theal,
   _Basutoland Records_ (Cape Town, 1883); E. Casalis, _Les Bassutos_
   (Paris, 1859), a description of exploration, manners and customs, the

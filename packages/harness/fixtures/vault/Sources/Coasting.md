@@ -15,7 +15,7 @@ Indian toboggans, but no sled without runners was known in the United
 States before 1870, except to the woodsmen of the Canadian border.
 American laws have greatly restricted, and in most places prohibited,
 the practice, once common, of coasting on the highways; and the sport is
-mainly confined to open hills and artificial inclines or chutes. Two
+mainly confined to open hills and artificial inclines or [[Chute|chutes]]. Two
 forms of hand-sled are usual in America, the original "clipper" type,
 built low with long, pointed sides, originally shod with iron but since
 1850 with round steel runners; and the light, short "girls' sled," with
@@ -27,14 +27,14 @@ four to ten persons.
 In Scandinavia several kinds of sled are common, but that of the
 fishermen, by means of which they transport their catch over the frozen
 fjords, is the one used in coasting, a sport especially popular in the
-neighbourhood of Christiania, where there are courses nearly 3 m. in
+neighbourhood of [[Christiania]], where there are courses nearly 3 m. in
 length. This sled is from 4 to 6 ft. long, with skeleton sides about 7
 in. high, and generally holds three persons. It is steered by two long
-sticks trailing behind. On the ice the fisherman propels his sled by
+sticks trailing behind. On the [[Ice|ice]] the fisherman propels his sled by
 means of two short picks. The general Norwegian name for sledge is
 _skijälker_, the primitive form being a kind of toboggan provided with
 broad wooden runners resembling the ski (q.v.). In northern Sweden and
-Finland the commonest form of single sled is the _Sparkstottinger_,
+[[Finland]] the commonest form of single sled is the _Sparkstottinger_,
 built high at the back, the coaster standing up and steering by means of
 two handles projecting from the sides.
 
@@ -42,7 +42,7 @@ Coasting in its highest development may be seen in Switzerland, at the
 fashionable winter resorts of the Engadine, where it is called
 tobogganing. The first regular races there were organized by John
 Addington Symonds, who instituted an annual contest for a challenge cup,
-open to all comers, over the steep post-road from Davos to Klosters, the
+open to all comers, over the steep post-road from [[Davos]] to Klosters, the
 finest natural coast in Switzerland, the sled used being the primitive
 native _Schlittli_ or _Handschlitten_, a miniature copy of the ancient
 horse-sledge. Soon afterwards followed the construction of great
@@ -63,7 +63,7 @@ hands. The "double-runner" has also been introduced into Switzerland
 under the name of "bob-sleigh."
 
   See _Ice Sports_, in the Isthmian Library, London (1901); _Tobogganing
-  at St Moritz_, by T. A. Cook (London, 1896).
+  at St Moritz_, by T. A. [[Cook]] (London, 1896).
 
 ## See also
 

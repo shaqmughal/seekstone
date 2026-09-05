@@ -7,7 +7,7 @@ type: note
 
 # Faust
 
-FAUST, or FAUSTUS, the name of a magician and charlatan of the 16th
+FAUST, or FAUSTUS, the name of a magician and [[Charlatan|charlatan]] of the 16th
 century, famous in legend and in literature. The historical Faust forms
 little more than the nucleus round which a great mass of legendary and
 imaginative material gradually accumulated. That such a person existed
@@ -19,11 +19,11 @@ apparently written about him. Trithemius, himself reputed a magician,
 and the author of a mystical work (published at Darmstadt in 1621 under
 the title of _Steganographica_ and burnt by order of the Spanish
 Inquisition), speaks contemptuously of Faust, who called himself
-Magister Georgius Sabellicus Faustus Junior, as a fool rather than a
+Magister Georgius Sabellicus Faustus Junior, as a [[Fool|fool]] rather than a
 philosopher (_fatuum non philosophum_), a vain babbler, vagabond and
 mountebank who ought to be whipped, and who had fled from the city
 rather than confront him. The insane conceit of the man was proved by
-his boast that, were all the works of Aristotle and Plato blotted from
+his boast that, were all the works of [[Aristotle]] and Plato blotted from
 the memory of men, he could restore them with greater elegance, and that
 Christ's miracles were nothing to marvel at, since he could do the like
 whenever and as often as he pleased; his debased character by the fact
@@ -33,11 +33,11 @@ unflattering estimate is contained in the second extant notice of Faust,
 in a letter of the jurist and canon Konrad Mudt (Mutianus Rufus), of the
 3rd of October 1513, to Heinrich Urbanus. Mudt, like Trithemius, simply
 regards Faust as a charlatan. Similar is the judgment of another
-contemporary, Philipp Begardi, who in the fourth chapter of his _Index
+contemporary, Philipp Begardi, who in the fourth chapter of his _[[Index]]
 sanitatis_ (Worms, 1539) ranks Faust, with Theophrastus Paracelsus,
-among the "wicked, cheating, useless and unlearned doctors."
+among the "wicked, [[Cheating|cheating]], useless and unlearned doctors."
 
-It was Johann Gast (d. 1572), a worthy Protestant pastor of Basel, who
+It was Johann Gast (d. 1572), a worthy Protestant pastor of [[Basel]], who
 like Mudt claims to have come into personal contact with Faust, who in
 his _Sermones convivales_ (Basel, 1543) first credited the magician with
 genuine supernatural qualities. Gast, a man of some learning and much
@@ -45,8 +45,8 @@ superstition, believed Faust to be in league with the devil, by whom
 about 1525 he was ultimately carried off, and declared the performing
 horse and dog by which the necromancer was accompanied to be familiar
 and evil spirits. Further information was given to the world by Johann
-Mannel or Manlius (d. 1560), councillor and historian to the emperor
-Maximilian II., in his _Locorum communium collectanea_ (Basel, undated).
+Mannel or [[Manlius]] (d. 1560), councillor and historian to the emperor
+[[Maximilian]] II., in his _Locorum communium collectanea_ (Basel, undated).
 Manlius reports a conversation of Melanchthon, which there is no reason
 to suspect of being other than genuine, in which the Reformer speaks of
 Faust as "a disgraceful beast and sewer of many devils," as having been
@@ -64,8 +64,8 @@ with his sorceries had sought to put upon him. The passage, with the
 omission of Faust's name, occurs word for word in Luther's Table-talk
 (ed. C.E. Forstemann, vol. i. p. 50). It is not improbable, then, that
 Widmann, in supplying the name of the necromancer omitted in the
-Table-talk, may be giving a fuller account of the conversation.
-Bullinger also, in his _Theatrum de beneficiis_ (Frankf., 1569) mentions
+Table-talk, may be giving a [[Fuller|fuller]] account of the conversation.
+[[Bullinger]] also, in his _Theatrum de beneficiis_ (Frankf., 1569) mentions
 Faust as one of those "of whom the Scriptures speak, in various places,
 calling them _magi_." Lastly Johann Weiher, Wierus or Piscinarius
 (1515-1588)--a pupil of Cornelius Agrippa, body physician to the duke of
@@ -76,9 +76,9 @@ Faust as a drunken vagabond who had studied magic at Cracow, and before
 with unspeakable deceit, many lies and great effect." He goes on to tell
 how the magician had revenged himself on an unhappy parish priest, who
 had refused to supply him any longer with drink, by giving him a
-depilatory which removed not only the beard but the skin, and further,
+[[Depilatory|depilatory]] which removed not only the beard but the skin, and further,
 how he had insulted a poor wretch, for no better reason than that he had
-a black beard, by greeting him as his cousin the devil. Of his
+a black beard, by greeting him as his [[Cousin|cousin]] the devil. Of his
 superhuman powers Weiher evidently believes nothing, but he tells the
 tale of his being found dead with his neck wrung, after the whole house
 had been shaken by a terrific din.
@@ -103,25 +103,25 @@ The origin of the main elements of the legend must be sought far back in
 the middle ages and beyond. The idea of a compact with the devil, for
 the purpose of obtaining superhuman power or knowledge, is of Jewish
 origin, dating from the centuries immediately before and after the
-Christian era which produced the Talmud, the Kabbalah and such magical
-books as that of Enoch. In the mystical rites--in which blood, as the
-seat of life, played a great part--that accompanied the incantations
+Christian era which produced the Talmud, the [[Kabbalah]] and such magical
+books as that of [[Enoch]]. In the mystical rites--in which blood, as the
+seat of life, played a great part--that accompanied the [[Incantation|incantations]]
 with which the Jewish magicians evoked the Satanim--the lowest grade of
 those elemental spirits (shedim) who have their existence beyond the
-dimensions of time and space--we have the prototypes and originals of
+[[Dimension|dimensions]] of time and space--we have the prototypes and originals of
 all the ceremonies which occupy the books of magic down to the various
 versions of the _Hollenzwang_ ascribed to Faust. The other principle
 underlying the Faust legend, the belief in the essentially evil
 character of purely human learning, has existed ever since the triumph
 of Christianity set divine revelation above human science. The legend of
-Theophilus--a Cilician archdeacon of the 6th century, who sold his soul
+Theophilus--a Cilician [[Archdeacon|archdeacon]] of the 6th century, who sold his soul
 to Satan for no better reason than to clear himself of a false charge
 brought against him by his bishop--was immensely popular throughout the
 middle ages, and in the 8th century formed the theme of a poem in Latin
 hexameters by the nun Hroswitha of Gandersheim, who, especially in her
 description of the ritual of Satan's court, displays a sufficiently
-lively and original imagination. Equally widespread were the legends
-which gathered round the great name of Gerbert (Pope Silvester II.).
+lively and original [[Imagination|imagination]]. Equally widespread were the legends
+which gathered round the great name of [[Gerbert]] (Pope Silvester II.).
 Gerbert's vast erudition, like Roger Bacon's so far in advance of his
 age, naturally cast upon him the suspicion of traffic with the infernal
 powers; and in due course the suspicion developed into the tale,
@@ -135,21 +135,21 @@ notorious wizard who was himself at no pains to deny their essential
 truth. The Faust legend, however, owes something of its peculiar
 significance also to the special conditions of the age which gave it
 birth: the age of the Renaissance and the Reformation. The opinion that
-the religious reformers were the champions of liberty of thought against
+the religious reformers were the [[Champion|champions]] of liberty of thought against
 the obscurantism of Rome is the outgrowth of later experience. To
 themselves they were the protagonists of "the pure Word of God" against
 the corruptions of a church defiled by the world and the devil, and the
-sceptical spirit of Italian humanism was as abhorrent to them as to the
+sceptical spirit of Italian [[Humanism|humanism]] was as abhorrent to them as to the
 Catholic reactionaries by whom it was again trampled under foot. If
-then, in Goethe's drama, Faust ultimately develops into the type of the
-unsatisfied yearning of the human intellect for "more than earthly meat
+then, in Goethe's [[Drama|drama]], Faust ultimately develops into the type of the
+unsatisfied yearning of the human [[Intellect|intellect]] for "more than earthly [[Meat|meat]]
 and drink," this was because the great German humanist deliberately
 infused into the old story a spirit absolutely opposed to that by which
 it had originally been inspired. The Faust of the early Faust-books, of
 the ballads, the dramas and the puppet-plays innumerable which grew out
 of them, is irrevocably damned because he deliberately prefers human to
 "divine" knowledge; "he laid the Holy Scriptures behind the door and
-under the bench, refused to be called doctor of Theology, but preferred
+under the [[Bench|bench]], refused to be called doctor of Theology, but preferred
 to be styled doctor of Medicine." The orthodox moral of the earliest
 versions is preserved to the last in the puppet-plays. The Voice to the
 right cries: "Faust! Faust! desist from this proposal! Go on with the
@@ -157,7 +157,7 @@ study of Theology, and you will be the happiest of mortals." The Voice
 to the left answers: "Faust! Faust! leave the study of Theology. Betake
 you to Necromancy, and you will be the happiest of mortals!" The Faust
 legend was, in fact, the creation of orthodox Protestantism; its moral,
-the inevitable doom which follows the wilful revolt of the intellect
+the inevitable [[Doom|doom]] which follows the wilful revolt of the intellect
 against divine authority as represented by the Holy Scriptures and its
 accredited interpreters. Faust, the contemner of Holy Writ, is set up as
 a foil to Luther, the champion of the new orthodoxy, who with
@@ -167,7 +167,7 @@ sacred work of rendering the Bible into the vulgar tongue.
 It was doubtless this orthodox and Protestant character of the Faust
 story which contributed to its immense and immediate popularity in the
 Protestant countries. The first edition of the _Historia von D. Johann
-Fausten_, by an unknown compiler, published by Johann Spies at Frankfort
+Fausten_, by an unknown compiler, published by Johann Spies at [[Frankfort]]
 in 1587, sold out at once. Though only placed on the market in the
 autumn, before the year was out it had been reprinted in four pirated
 editions. In the following year a rhymed version was printed at
@@ -201,15 +201,15 @@ Besides the popular histories of Faust, all more or less founded on the
 original edition of Spies, numerous ballads on the same subject were
 also soon in circulation. Of these the most interesting for the English
 reader is A _Ballad of the life and death of Dr Faustus the great
-congerer_, published in 1588 with the imprimatur of the learned Aylmer,
+congerer_, published in 1588 with the imprimatur of the learned [[Aylmer]],
 bishop of London. This ballad is supposed to have preceded the English
 version of Spies's Faust-book, mentioned above, on which Marlowe's drama
 was founded.
 
-To Christopher Marlowe, it would appear, belongs the honour of first
+To [[Christopher]] [[Marlowe]], it would appear, belongs the honour of first
 realizing the great dramatic possibilities of the Faust legend. _The
 Tragicall History of D. Faustus as it hath bene acted by the Right
-Honourable the Earle of Nottingham his servants_ was first published by
+[[Honourable]] the Earle of Nottingham his servants_ was first published by
 Thomas Bushall at London in 1604. As Marlowe died in 1593, the play must
 have been written shortly after the appearance of the English version of
 the Faust story on which it was based. The first recorded performance
@@ -221,20 +221,20 @@ Marlowe's work it is, indeed, very unequal. At certain moments the poet
 seems to realize the great possibilities of the story, only to sacrifice
 them to the necessity for humouring the prevailing public taste of the
 age. Faustus, who in one scene turns disillusioned from the ordinary
-fountains of knowledge, or flies in a dragon-drawn chariot through the
+[[Fountain|fountains]] of knowledge, or flies in a dragon-drawn chariot through the
 Empyrean to search out the mysteries of the heavens, in another is made
 to use his superhuman powers to satisfy the taste of the groundlings for
 senseless buffoonery, to swindle a horse-dealer, or cheat an ale-wife of
 her score; while Protestant orthodoxy is conciliated by irrelevant
-insults to the Roman Church and by the final catastrophe, when Faustus
+insults to the Roman Church and by the final [[Catastrophe|catastrophe]], when Faustus
 pays for his revolt against the Word of God by the forfeit of his soul.
 This conception, which followed that of the popular Faust histories,
 underlay all further developments of the Faust drama for nearly two
 hundred years. Of the serious stage plays founded on this theme,
-Marlowe's _Faustus_ remains the sole authentic example until near the
+Marlowe's _Faustus_ remains the sole [[Authentic|authentic]] example until near the
 end of the 18th century; but there is plenty of evidence to prove that
 in Germany the _Comedy of Dr Faust_, in one form or another, was and
-continued to be a popular item in the repertories of theatrical
+continued to be a popular [[Item|item]] in the repertories of theatrical
 companies until far into the 18th century. It is supposed, with good
 reason, that the German versions were based on those introduced into the
 country by English strolling players early in the 17th century. However
@@ -242,7 +242,7 @@ this may be, the dramatic versions of the Faust legend followed much the
 same course as the prose histories. Just as these gradually degenerated
 into chap-books hawked at fairs, so the dramas were replaced by
 puppet-plays, handed down by tradition through generations of showmen,
-retaining their original broad characteristics, but subject to infinite
+retaining their original broad characteristics, but subject to [[Infinite|infinite]]
 modification in detail. In this way, in the puppet-shows, the
 traditional Faust story retained its popularity until far into the 19th
 century, long after, in the sphere of literature, Goethe had for ever
@@ -251,7 +251,7 @@ raised it to quite another plane.
 It was natural that during the literary revival in Germany in the 18th
 century, when German writers were eagerly on the look-out for subjects
 to form the material of a truly national literature, the Faust legend
-should have attracted their attention. Lessing was the first to point
+should have attracted their attention. [[Lessing]] was the first to point
 out its great possibilities;[3] and he himself wrote a Faust drama, of
 which unfortunately only a fragment remains, the MS. of the completed
 work having been lost in the author's lifetime. None the less, to
@@ -263,13 +263,13 @@ mitigating elements which the middle ages had permitted had been
 banished by the stern logic of the theologians of the New Religion.
 Theophilus had been saved in the end by the intervention of the Blessed
 Virgin; Pope Silvester, according to one version of the legend, had
-likewise been snatched from the jaws of hell at the last moment. Faust
+likewise been snatched from the jaws of [[Hell|hell]] at the last moment. Faust
 was irrevocably damned, since the attractions of the _studium
-theologicum_ proved insufficient to counteract the fascinations of the
+theologicum_ proved insufficient to counteract the [[Fascination|fascinations]] of the
 classic Helen. But if he was to become, in the 18th century, the type of
 the human intellect face to face with the deep problems of human life,
 it was intolerable that his struggles should issue in eternal
-reprobation. Error and heresy had ceased to be regarded as crimes; and
+reprobation. [[Error]] and heresy had ceased to be regarded as crimes; and
 stereotyped orthodoxy, to the age of the Encyclopaedists, represented
 nothing more than the atrophy of the human intellect. _Es irrt der
 Mensch so lang er strebt_, which sums up in one pregnant line the spirit
@@ -277,21 +277,21 @@ of Goethe's _Faust_, sums up also the spirit of the age which killed
 with ridicule the last efforts of persecuting piety, and saw the birth
 of modern science. Lessing, in short, proclaimed that the final end of
 Faust must be, not his damnation, but his salvation. This revolutionary
-conception is the measure of Goethe's debt to Lessing. The essential
+conception is the measure of Goethe's [[Debt|debt]] to Lessing. The essential
 change which Goethe himself introduced into the story is in the nature
 of the pact between Faust and Mephistopheles, and in the character of
 Mephistopheles himself. The Mephistopheles of Marlowe, as of the old
 Faust-books, for all his brave buffoonery, is a melancholy devil, with a
 soul above the unsavoury hell in which he is forced to pass a hopeless
 existence. "Tell me," says Faust, in the puppet-play, to Mephistopheles,
-"what would you do if you could attain to everlasting salvation?" And
+"what would you do if you could attain to [[Everlasting|everlasting]] salvation?" And
 the devil answers, "Hear and despair! Were I able to attain everlasting
-salvation, I would mount to heaven on a ladder, though every rung were a
+salvation, I would mount to heaven on a [[Ladder|ladder]], though every rung were a
 razor edge!" Goethe's Mephistopheles would have made no such reply.
 There is nothing of the fallen angel about him; he is perfectly content
 with his past, his present and his future; and he appears before the
-throne of God with the same easy insolence as he exhibits in Dame
-Martha's back-garden. He is, in fact, according to his own definition,
+throne of God with the same easy insolence as he exhibits in [[Dame]]
+Martha's back-garden. He is, in fact, according to his own [[Definition|definition]],
 the Spirit of Denial, the impersonation of that utter scepticism which
 can see no distinction between high and low, between good and bad, and
 is therefore without aspiration because it knows no "divine discontent."
@@ -313,7 +313,7 @@ can purvey him.
      Until self-pleased myself I see,
    Canst thou with pleasure mock and fool me,
      Let that hour be the last for me!
-   When thus I hail the moment flying:
+   When thus I [[Hail|hail]] the moment flying:
      'Ah, still delay, thou art so fair!'
    Then bind me in thy chains undying,
      My final ruin then declare!"[4]
@@ -321,7 +321,7 @@ can purvey him.
 It is because Mephistopheles fails to give him this self-satisfaction
 or to absorb his being in the pleasures he provides, that the compact
 comes to nothing. When, at last, Faust cries to the passing moment to
-remain, it is because he has forgotten self in enthusiasm for a great
+remain, it is because he has forgotten self in [[Enthusiasm|enthusiasm]] for a great
 and beneficent work, in a state of mind the very antithesis of all that
 Mephistopheles represents. In the old Faust-books, Faust had been given
 plenty of opportunity for repentance, but the inducements had been no
@@ -345,7 +345,7 @@ This idea, which inspired also the kindred theme of Browning's
 _Paracelsus_, is the main development introduced by Goethe into the
 Faust legend. The episode of Gretchen, for all its tragic interest, does
 not belong to the legend at all; and it is difficult to deny the
-pertinency of Charles Lamb's criticism, "What has Margaret to do with
+pertinency of Charles Lamb's criticism, "What has [[Margaret]] to do with
 Faust?" Yet in spite of all that may be said of the irrelevancies, and
 of the discussions of themes of merely ephemeral interest, with which
 Goethe overloaded especially the second part of the poem, his _Faust_
@@ -354,12 +354,12 @@ it grew, the magnificent expression of the broad humanism which, even in
 spheres accounted orthodox, has tended to replace the peculiar _studium
 theologicum_ which inspired the early Faust-books.
 
-  See Karl Engel, _Zusammenstellung der Faust-Schriften vom 16.
+  See Karl [[Engel]], _Zusammenstellung der Faust-Schriften vom 16.
   Jahrhundert bis Mitte 1884_--a second edition of the _Bibliotheca
   Faustiana_ (1874)--(Oldenburg, 1885), a complete bibliography of all
   published matter concerned, even somewhat remotely, with Faust;
   Goethe's _Faust_, with introduction and notes by K.J. Schroer (2nd
-  ed., Heilbronn, 1886); Carl Kiesewetter, _Faust in der Geschichte und
+  ed., [[Heilbronn]], 1886); Carl Kiesewetter, _Faust in der Geschichte und
   Tradition_ (Leipzig, 1893). The last book, besides being a critical
   study of the material for the historical and legendary story of Faust,
   aims at estimating the relation of the Faust-legend to the whole

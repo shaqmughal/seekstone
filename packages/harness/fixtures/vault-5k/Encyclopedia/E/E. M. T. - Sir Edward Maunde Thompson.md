@@ -8,7 +8,7 @@ type: reference
 # E. M. T. - Sir Edward Maunde Thompson
 
 E. M. T. - SIR EDWARD MAUNDE THOMPSON, G.C.B., D.C.L., LL.D., LITT.D.
-Director and Principal Librarian, British Museum, 1888-1909. Fellow of the
+Director and Principal Librarian, British Museum, 1888-1909. [[Fellow]] of the
 British Academy. Corresponding Member of the Institute of France and of the
 Royal Prussian Academy of Sciences. Author of _Handbook of Greek and Latin
 Palaeography_. Editor of the _Chronicon Angliae_, &c. Joint-editor of

@@ -9,7 +9,7 @@ id: 42-3058
 
 # Crown Debt
 
-CROWN DEBT, in English law, a debt due to the crown. By various
+CROWN DEBT, in [[English Law|English law]], a debt due to the crown. By various
 statutes--the first dating from the reign of Henry VIII. (1541)--the
 crown has priority for its debts before all other creditors. At common
 law the crown always had a lien on the lands and goods of debtors by

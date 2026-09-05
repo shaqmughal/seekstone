@@ -9,7 +9,7 @@ tags: [history, mathematics]
 # Dolphin
 
 DOLPHIN, a name properly belonging to the common cetacean mammal known
-as _Delphinus delphis_, but also applied to a number of more or less
+as _Delphinus [[Delphi|delphis]]_, but also applied to a number of more or less
 nearly allied species. The dolphins, bottle-noses, or, as they are more
 commonly called, "porpoises," are found in abundance in all seas, while
 some species are inhabitants of large rivers, as the Amazon. They are
@@ -19,7 +19,7 @@ long narrow beaks, armed with numerous sharp-pointed teeth, are well
 adapted, but some also devour crustaceans and molluscs. They are mostly
 gregarious, and the agility and grace of their movements in the water
 are themes of admiration to the spectators when a "school of porpoises"
-is playing round the bows of a vessel at sea.
+is playing round the [[Bow|bows]] of a vessel at sea.
 
 [Illustration: The Common Dolphin (_Delphinus delphis_).]
 
@@ -31,7 +31,7 @@ forehead descends abruptly to the base of the slightly flattened beak,
 which is about 6 in. long, and is separated from the forehead by a
 transverse depression. The mouth is armed with sharp, slightly curved
 teeth, of uniform size, varying in number from forty to fifty on each
-side of both jaws. The aperture of the ear is exceedingly minute; the
+side of both jaws. The [[Aperture|aperture]] of the [[Ear|ear]] is exceedingly minute; the
 eyes are of moderate size and the blow-hole is crescent-shaped. The
 colour of the upper surface is black, becoming lighter on the flanks,
 and perfectly white below. Dolphins are gregarious, and large herds
@@ -47,7 +47,7 @@ the south coast of England it lives chiefly on pilchard and mackerel,
 and when in pursuit of these is often taken in the nets. The female
 brings forth a single young one, which she nurses most carefully. Her
 milk is abundant and rich, and during the operation of suckling, the
-mother floats in a slightly sidelong position, so as to allow of the
+mother [[Float|floats]] in a slightly sidelong position, so as to allow of the
 necessary respiration in herself and her young. The dolphin was formerly
 supposed to be a fish, and allowed to be eaten by Roman Catholics when
 the use of flesh was prohibited, and it seems to have been esteemed as a
@@ -55,7 +55,7 @@ delicacy by the French. Among the seafaring population of Britain the
 name "dolphin" is most usually given to the beautifully coloured fish
 _Coryphaena hippuris_--the dorado of the Portuguese, and it is to the
 latter the poet is alluding when he speaks of "the dying dolphin's
-changing hues."
+changing [[Hue|hues]]."
 
 Many other allied genera, such as _Prodelphinus_, _Steno_,
 _Lagenorhynchus_, &c., are also included in the family _Delphinidae_,
@@ -64,14 +64,14 @@ some of which live wholly in rivers.
 Beside these there is another group of largely freshwater species,
 constituting the family _Platanistidae_, and typified by the susu
 (_Platanista gangetica_), extensively distributed throughout nearly the
-whole of the river-systems of the Ganges, Brahmaputra and Indus,
+whole of the river-systems of the [[Ganges]], Brahmaputra and Indus,
 ascending as high as there is water enough to swim in, but never passing
 out to sea. It is about 8 ft. long, blind and feeds on small fish and
 crustaceans for which it gropes with its long snout in the muddy waters
 at the bottom. _Inia geoffroyensis_, the single species of its genus,
 frequents the Amazon, and reaches an extreme length of 8 ft. It is
 wholly pink or flesh-coloured, or entirely black, or black above and
-pink beneath. A third is the La Plata dolphin, _Stenodelphis
+pink beneath. A third is the [[La Plata]] dolphin, _Stenodelphis
 blainvillei_, a species about 5 ft. in length. Its colour is palish
 brown, which harmonizes with the brown-coloured water of the estuary of
 the Rio de la Plata. See CETACEA.     (R. L.*)
@@ -98,7 +98,7 @@ civiles_. His works have been translated into English. Domat died in
 Paris on the 14th of March 1696.
 
   In the _Journal des savants_ for 1843 are several papers on Domat by
-  Victor Cousin, giving much information not otherwise accessible.
+  Victor [[Cousin]], giving much information not otherwise accessible.
 
 ## References
 

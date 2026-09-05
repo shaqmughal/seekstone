@@ -16,7 +16,7 @@ Grazing is the principal industry, but sugar-cane, tobacco and fruit are
 cultivated. There are valuable forests in the mountainous districts, a
 part of which has been set aside for preservation under the name of the
 Luquillo forest reserve. Humacao was incorporated as a city in 1899. It
-suffered severely in the hurricane of 1898, the damage not having been
+suffered severely in the [[Hurricane|hurricane]] of 1898, the damage not having been
 fully repaired as late as 1906.
 
 ## See also

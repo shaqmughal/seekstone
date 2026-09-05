@@ -19,7 +19,7 @@ the _De laudibus Dei_ or _De Deo_ in three books, wrongly attributed by
 MS. tradition to St Augustine. The account of the creation, which
 occupies the greater part of the first book, was at an early date edited
 separately under the title of _Hexaëmeron_, and it was not till 1791
-that the three books were edited by Cardinal Arevalo. The apology
+that the three books were edited by Cardinal Arevalo. The [[Apology|apology]]
 (_Satisfactio_) consists of 158 elegiac couplets; it is generally
 supposed that the king addressed is Gunthamund (484-496). The _Carmina
 minora_, nearly all in hexameter verse, consist of school exercises and

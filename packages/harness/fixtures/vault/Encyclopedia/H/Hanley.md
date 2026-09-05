@@ -18,7 +18,7 @@ the west, originated in the Ridge House pottery works of Josiah Wedgwood
 and Thomas Bentley, who founded them in 1769, naming them after the
 country of the Etruscans in Italy. Etruria Hall was the scene of
 Wedgwood's experiments. The parliamentary borough of Hanley returns one
-member. The town was governed by a mayor, 6 aldermen, and 18 councillors
+member. The town was governed by a [[Mayor|mayor]], 6 aldermen, and 18 councillors
 until under the "Potteries federation" scheme (1908) it became part of
 the borough of Stoke-on-Trent (q.v.) in 1910.
 

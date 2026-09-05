@@ -1,18 +1,18 @@
 # Aventinus
 
 AVENTINUS (1477-1534), the name taken by JOHANN TURMAIR, author of the
-_Annales Boiorum_, or _Annals of Bavaria_, from Aventinum, the Latin name
+_Annales Boiorum_, or _[[Annals]] of Bavaria_, from Aventinum, the Latin name
 of the town of Abensberg, where he was born on the 4th of July 1477. Having
 studied at Ingolstadt, Vienna, Cracow and Paris, he returned to Ingolstadt
 in 1507, and in 1509 was appointed tutor to Louis and Ernest, the two
 younger sons of Albert the Wise, the late duke of Bavaria-Munich. He
-retained this position until 1517, wrote a Latin grammar, and other manuals
+retained this position until 1517, wrote a Latin grammar, and other [[Manual|manuals]]
 for the use of his pupils, and in 1515 travelled in Italy with Ernest.
 Encouraged by William IV., duke of Bavaria, he began to write the _Annales
 Boiorum_, about 1517, and finishing this book in 1521, undertook a German
 version of it, entitled _Bayersche Chronik_, which he completed some years
 later. He assisted to found the _Sodalitas litteraria Angilostadensis_,
-under the auspices of which several old manuscripts were brought to light.
+under the auspices of which several old [[Manuscript|manuscripts]] were brought to light.
 Although Aventinus did not definitely adopt the reformed faith, he
 sympathized with the reformers and their teaching, and showed a strong
 dislike for the monks. On this account he.was imprisoned in 1528, but his

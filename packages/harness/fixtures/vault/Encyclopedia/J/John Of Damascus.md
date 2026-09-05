@@ -1,16 +1,16 @@
 # John Of Damascus
 
 JOHN OF DAMASCUS (JOHANNES DAMASCENUS) (d. before 754), an eminent
-theologian of the Eastern Church, derives his surname from Damascus,
+theologian of the Eastern Church, derives his surname from [[Damascus]],
 where he was born about the close of the 7th century. His Arabic name
-was Mansur (the victor), and he received the epithet Chrysorrhoas
+was [[Mansur]] (the victor), and he received the epithet Chrysorrhoas
 (gold-pouring) on account of his eloquence. The principal account of his
 life is contained in a narrative of the 10th century, much of which is
 obviously legendary. His father Sergius was a Christian, but
 notwithstanding held a high office under the Saracen caliph, in which he
 was succeeded by his son. John is said to have owed his education in
-philosophy, mathematics and theology to an Italian monk named Cosmas,
-whom Sergius had redeemed from a band of captive slaves. About the year
+philosophy, mathematics and theology to an Italian monk named [[Cosmas]],
+whom Sergius had redeemed from a band of [[Captive|captive]] slaves. About the year
 730 he wrote several treatises in defence of image-worship, which the
 emperor, Leo the Isaurian, was making strenuous efforts to suppress.
 
@@ -37,11 +37,11 @@ festival being observed in the former on the 29th of November and on the
   teaching of his theological predecessors. Several treatises attributed
   to him are probably spurious, but his undoubted works are numerous and
   embrace a wide range. The most important contains three parts under
-  the general title [Greek: Pêgê gnôseôs] ("The Fountain of Knowledge").
+  the general title [Greek: Pêgê gnôseôs] ("The [[Fountain]] of Knowledge").
   The first part, entitled [Greek: Kephàlaia philosophika], is an
-  exposition and application of theology of Aristotle's Dialectic. The
+  exposition and application of theology of Aristotle's [[Dialectic]]. The
   second, entitled [Greek: Peri aireseôn] ("Of Heresies"), is a
-  reproduction of the earlier work of Epiphanius, with a continuation
+  reproduction of the earlier work of [[Epiphanius]], with a continuation
   giving an account of the heresies that arose after the time of that
   writer. The third part, entitled [Greek: Hekdosis akribês tês
   orthodoxou pisteos] ("An Accurate Exposition of the Orthodox Faith"),
@@ -49,7 +49,7 @@ festival being observed in the former on the 29th of November and on the
   theology founded on the teaching of the fathers and church councils,
   from the 4th to the 7th century. It thus embodies the finished result
   of the theological thought of the early Greek Church. Through a Latin
-  translation made by Burgundio of Pisa in the 12th century, it was well
+  translation made by [[Burgundio]] of Pisa in the 12th century, it was well
   known to Peter Lombard and Aquinas, and in this way it influenced the
   scholastic theology of the West. Another well-known work is the _Sacra
   parallela_, a collection of biblical passages followed by
@@ -78,9 +78,9 @@ festival being observed in the former on the 29th of November and on the
   interchange of the divine and human attributes, a communication of the
   former which deifies the receptive and passive human nature. In Christ
   the human will has become the organ of the divine will. Thus while
-  John is an adherent of Chalcedon and a dyothelite, the drift of his
+  John is an adherent of Chalcedon and a dyothelite, the [[Drift|drift]] of his
   teaching is in the monophysite direction. "The Chalcedonian
-  _Definition_ is victorious, but Apollinaris is not overcome"; what
+  _[[Definition]]_ is victorious, but [[Apollinaris]] is not overcome"; what
   John gives with the one hand he takes away with the other. On the
   question of the Atonement he regards the death of Christ as a
   sacrifice offered to God and not a ransom paid to the devil.
@@ -89,7 +89,7 @@ festival being observed in the former on the 29th of November and on the
   patriarch of Jerusalem in the 10th century (Migne, _Patrol. Graec._,
   xciv. 429-489). The works were edited by Le Quien (2 vols., fol.,
   Paris, 1712) and form vols. 94 to 96 in Migne's Greek series. A
-  monograph by J. Langen was published in 1879. A. Harnack's _History of
+  monograph by J. [[Langen]] was published in 1879. A. Harnack's _History of
   Dogma_ is very full (see especially vols. iii. and iv.; on the
   image-worship controversy, iv. 322 seq.), and so are the similar works
   of F. Loofs-Seeberg and A. Dorner. See also O. Bardenhewer's

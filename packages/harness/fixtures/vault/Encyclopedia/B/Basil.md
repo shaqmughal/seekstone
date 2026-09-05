@@ -15,7 +15,7 @@ Macrina, was celebrated for her saintly life; his second brother was the
 famous Gregory of Nyssa; his youngest was Peter, bishop of Sebaste; and his
 eldest brother was the famous Christian jurist Naucratius. There was in the
 whole family a tendency to ecstatic emotion and enthusiastic piety, and it
-is worth noting that Cappadocia had already given to the Church men like
+is worth noting that [[Cappadocia]] had already given to the Church men like
 Firmilian and Gregory Thaumaturgus. Basil was born about 330 at Caesarea in
 Cappadocia. While he was still a child, the family removed to Pontus; but
 he soon returned to Cappadocia to live with his mother's relations, and
@@ -29,13 +29,13 @@ resolved to seek out the most famous hermit saints in Syria and Arabia, in
 order to learn from them how to attain to that enthusiastic piety in [v.03
 p.0467] which he delighted, and how to keep his body under by maceration
 and other ascetic devices. After this we find him at the head of a convent
-near Arnesi in Pontus, in which his mother Emilia, now a widow, his sister
+near Arnesi in Pontus, in which his mother [[Emilia]], now a widow, his sister
 Macrina and several other ladies, gave themselves to a pious life of prayer
 and charitable works. He was not ordained presbyter until 365, and his
 ordination was probably the result of the entreaties of his ecclesiastical
 superiors, who wished to use his talents against the Arians, who were
 numerous in that part of the country and were favoured by the Arian
-emperor, Valens, who then reigned in Constantinople. In 370 Eusebius,
+emperor, Valens, who then reigned in Constantinople. In 370 [[Eusebius]],
 bishop of Caesarea, died, and Basil was chosen to succeed him. It was then
 that his great powers were called into action. Caesarea was an important
 diocese, and its bishop was, _ex officio_, exarch of the great diocese of
@@ -47,19 +47,19 @@ sacrifice of truth." He died in 379.
 
 The principal theological writings of Basil are his _De Spiritu Sancto_, a
 lucid and edifying appeal to Scripture and early Christian tradition, and
-his three books against Eunomius, the chief exponent of Anomoian Arianism.
+his three books against [[Eunomius]], the chief exponent of Anomoian Arianism.
 He was a famous preacher, and many of his homilies, including a series of
 lenten lectures on the _Hexaëmeron_, and an exposition of the psalter, have
 been preserved. His ascetic tendencies are exhibited in the _Moralia_ and
-_Regulae_, ethical manuals for use in the world and the cloister
+_Regulae_, ethical [[Manuals|manuals]] for use in the world and the cloister
 respectively. His three hundred letters reveal a rich and observant nature,
 which, despite the troubles of ill-health and ecclesiastical unrest,
 remained optimistic, tender and even playful. His principal efforts as a
 reformer were directed towards the improvement of the liturgy, and the
-reformation of the monastic orders of the East. (See BASILIAN MONKS.)
+reformation of the monastic orders of the East. (See [[Basilian Monks|BASILIAN MONKS]].)
 
-BIBLIOGRAPHY.--Editions of his works appeared at Basel (1532); Paris, by J.
-Garnier and P. Maranus (1721-1730), and by L. de Sinner (1839). Migne's
+BIBLIOGRAPHY.--Editions of his works appeared at [[Basel]] (1532); Paris, by J.
+[[Garnier]] and P. Maranus (1721-1730), and by L. de Sinner (1839). Migne's
 _Patrol. ser. graec._ 29-32; _De Spiritu Sancto_, ed. C. F. H. Johnston
 (Oxford, 1892); _Liturgia_, ed. A. Robertson (London, 1894). See also the
 patrologies, _e.g._ that of O. Bardenhewer, and the histories of dogma,

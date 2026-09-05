@@ -8,8 +8,8 @@ type: source
 # Benedetti
 
 BENEDETTI, VINCENT, COUNT (1817-1900), French diplomatist, was born at
-Bastia, in the island of Corsica, on the 29th of April 1817. In the year
-1840 he entered the service of the French foreign office, and was
+Bastia, in the island of [[Corsica]], on the 29th of April 1817. In the year
+1840 he entered the service of the French [[Foreign Office|foreign office]], and was
 appointed to a post under the marquis de la Valette, who was
 consul-general at Cairo. He spent eight years in Egypt, being appointed
 consul in 1845; in 1848 he was made consul at Palermo, and in 1851 he
@@ -36,18 +36,18 @@ him fully informed as to the course of French policy. In 1866, during
 the critical weeks which followed the attempt of Napoleon to intervene
 between Prussia and Austria, he accompanied the Prussian headquarters in
 the advance on Vienna, and during a visit to Vienna he helped to arrange
-the preliminaries of the armistice signed at Nikolsburg. It was after
+the preliminaries of the [[Armistice|armistice]] signed at Nikolsburg. It was after
 this that he was instructed to present to Bismarck French demands for
 "compensation," and in August, after his return to Berlin, as a result
 of his discussions with Bismarck a draft treaty was drawn up, in which
-Prussia promised France her support in the annexation of Belgium. This
+Prussia promised France her support in the [[Annexation|annexation]] of [[Belgium]]. This
 treaty was never concluded, but the draft, which was in Benedetti's
 handwriting, was kept by Bismarck and, in 1870, a few days after the
 outbreak of the war, was published by him in _The Times_. During 1867
 Benedetti was much occupied with the affair of Luxemburg. In July 1870,
 when the candidature of the prince of Hohenzollern for the throne of
-Spain became known, Benedetti was instructed by the duc de Gramont to
-present to the king of Prussia, who was then at Ems, the French demands,
+Spain became known, Benedetti was instructed by the duc de [[Gramont]] to
+present to the king of Prussia, who was then at [[Ems]], the French demands,
 that the king should order the prince to withdraw, and afterwards that
 the king should promise that the candidature would never be renewed.
 This last demand Benedetti submitted to the king in an informal meeting
@@ -57,7 +57,7 @@ followed, for the Germans were led to believe that Benedetti had
 insulted the king, and the French that the king had insulted the
 ambassador. Benedetti was severely attacked in his own country for his
 conduct as ambassador, and the duc de Gramont attempted to throw upon
-him the blame for the failures of French diplomacy. He answered the
+him the blame for the failures of French [[Diplomacy|diplomacy]]. He answered the
 charges brought against him in a book, _Ma Mission en Prusse_ (Paris,
 1871), which still remains one of the most valuable authorities for the
 study of Bismarck's diplomacy. In this Benedetti successfully defends

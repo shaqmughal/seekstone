@@ -44,16 +44,16 @@ The North Esk, formed by the confluence of the Lee and Mark at
 Invermark, after a south-easterly course of 28 m. enters the North Sea 3
 m. N. of Montrose. On the right bank it receives the West Water and
 Cruick and on the left the Tarf and Luther. It gives the title of earl
-of Northesk to a branch of the Carnegie family. The South Esk rises in
+of Northesk to a branch of the [[Carnegie]] family. The South Esk rises in
 the Grampians near Mount Fafernie and not far from its source forms the
-Falls of Bachnagairn; after flowing towards the south-east, it bends
+Falls of Bachnagairn; after flowing towards the south-east, it [[Bend|bends]]
 eastwards near Tannadice and reaches the North Sea at Montrose, the
 length of its course being 48 m. Its principal affluents are the Prosen
 on the right and the Noran on the left. It supplies the title of earl of
 Southesk to another branch of the Carnegies. The lakes are small, the
 two largest being the Loch of Forfar and the mountain-girt Loch Lee (1
 m. long by 1/4 m. wide). Lintrathen (circular in shape and about 3/4 m.
-across), to the north of Airlie Castle, supplies Dundee with drinking
+across), to the north of Airlie Castle, supplies [[Dundee]] with drinking
 water. The glens of the Forfarshire Grampians are remarkable for their
 beauty, and several of them for the wealth of their botanical specimens.
 The largest and finest of them are Glen Isla, in which are the ruins of
@@ -64,15 +64,15 @@ Glen Prosen.
 
   _Geology._--A great earth fracture traverses this county from near
   Edzell on the N.E. to Lintrathen Loch on the S.W. Between Cortachy and
-  the south-western boundary this fault runs in Old Red Sandstone, but
+  the south-western boundary this [[Fault|fault]] runs in Old Red Sandstone, but
   north-east of that place it forms the junction line of Silurian and
   Old Red; and in a general way we may say that on the N.W. side of the
   fault the metamorphosed Silurian rocks are found, while the remainder
   of the county is occupied by the Old Red Sandstone. On the margin of
   the disturbance the Silurian rocks are little-altered grey and green
   clay slates with bands of pebbly grit; farther towards the N.W. we
-  find the same rocks metamorphosed into mica schists and gneisses with
-  pebbly quartzites. Rising up through the schists between Carn Bannock
+  find the same rocks metamorphosed into mica schists and [[Gneiss|gneisses]] with
+  pebbly quartzites. Rising up through the schists between Carn [[Bannock]]
   and Mount Battock is a great mass of granite. The Old Red Sandstone
   extends from this county into Perthshire and Kincardineshire; here
   some 20,000 ft. of these deposits are seen; an important part being
@@ -86,15 +86,15 @@ Glen Prosen.
   Strathmore, and between Longforgan and Montrose the northern extension
   of the Sidlaw Hills is an anticlinal fold. Two fish-bearing beds occur
   in the county; from the lower one many large _Eurypterids_ have been
-  obtained. The well-known paving flags of Arbroath belong to the lower
+  obtained. The well-known paving [[Flag|flags]] of Arbroath belong to the lower
   part of the formation. The Upper Old Red Sandstone is found only in
-  one spot about a mile north of Arbroath. During the Glacial period the
+  one spot about a mile north of Arbroath. During the [[Glacial Period|Glacial period]] the
   ice travelled south-eastward across Strathmore and over the Sidlaw
   Hills; abundant evidence of this transporting agent is to be seen in
   the form of morainic deposits, the most striking of which is the great
   transverse barrier of Glenairn in the valley of the S. Esk, half a
   mile in length and about 200 ft. high. Relics of the same period are
-  found round the coast in the form of raised beaches at 100, 50 and 25
+  found round the coast in the form of raised [[Beach|beaches]] at 100, 50 and 25
   ft. above the present sea-level.
 
 _Climate and Agriculture._--On the whole the climate is healthy and
@@ -133,7 +133,7 @@ the mouth of the North Esk is also a profitable pursuit.
 Two railway companies serve the county. The North British, entering from
 the south by the Tay Bridge, follows the coast north-eastwards, sending
 off at Montrose a branch to Bervie. The Caledonian runs up Strathmore to
-Forfar, whence it diverges due east to Guthrie, where it again resumes
+Forfar, whence it diverges due east to [[Guthrie]], where it again resumes
 its north-easterly course to Dubton and Marykirk; it reaches Dundee from
 Perth by the shore of the estuary of the Tay, and sends branches from
 Dundee to Kirriemuir via Monikie and Forfar and to Alyth Junction via
@@ -142,7 +142,7 @@ Newtyle, while a short line from Dubton gives it touch with Montrose.
 _Population and Government._--The population was 277,735 in 1891, and
 284,083 in 1901, when 1303 spoke Gaelic and English, and 13 Gaelic only.
 The chief towns are Arbroath (pop. in 1901, 22,398), Brechin (8941),
-Broughty Ferry (10,484), Carnoustie (5204), Dundee (161,173), Forfar
+Broughty Ferry (10,484), [[Carnoustie]] (5204), Dundee (161,173), Forfar
 (11,397), Kirriemuir (4096), Monifieth (2134) and Montrose (12,427).
 Forfarshire returns one member to Parliament. It is a sheriffdom and
 there is a resident sheriff-substitute at Dundee and another at Forfar,
@@ -155,7 +155,7 @@ councils expend the "residue" grant in subsidizing science and art and
 technical schools and classes, including University College, the textile
 school, the technical institute, the navigation school, and the workshop
 schools at Dundee, the technical school at Arbroath, besides cookery,
-dairy, dress-cutting, laundry, plumbing and veterinary science classes
+dairy, dress-cutting, [[Laundry|laundry]], plumbing and veterinary science classes
 at different places.
 
 _History._--In the time of the Romans the country now known as
@@ -198,7 +198,7 @@ and gateway of the castle of Craig.
   (Edinburgh, 1879); Earl of Crawford, _Lives of the_ _Lindsays_
   (London, 1835); Sir W. Fraser, _History of the Carnegies_ (Edinburgh,
   1867); A.H. Millar, _Historical Castles and Mansions_ (Paisley, 1890);
-  G. Hay, _History of Arbroath_ (Arbroath, 1876); D.D. Black, _History
+  G. [[Hay]], _History of Arbroath_ (Arbroath, 1876); D.D. Black, _History
   of Brechin_ (Edinburgh, 1867).
 
 ## See also

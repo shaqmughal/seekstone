@@ -15,7 +15,7 @@ in military importance," dates from the reign of Henry III. or Edward I.
 Of the original building nothing remains, and of a later building only a
 tall and slender fragment. It was the head of the lordship of Miskin, a
 great part of which was in the hands of native owners, until the last of
-them, Howel ap Meredith, was expelled by Richard de Clare (1229-1262).
+them, Howel ap Meredith, was expelled by Richard de [[Clare]] (1229-1262).
 Since then it has always been in the hands of the lord of Glamorgan. It
 was in the near neighbourhood of the town that Edward II. was captured
 in 1327. In 1426 the then lord of Glamorgan, Richard, 5th earl of

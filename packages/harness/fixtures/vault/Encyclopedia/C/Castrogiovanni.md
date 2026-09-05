@@ -1,14 +1,14 @@
 # Castrogiovanni
 
 CASTROGIOVANNI (Arab. _Kasr-Yani_, a corruption of _Castrum Ennae_), a
-town and episcopal see of the province of Caltanisetta, Sicily, 95 m. by
-rail S.E. of Palermo, and 56 m. W. of Catania, situated 2605 ft. above
+town and episcopal see of the province of [[Caltanisetta]], Sicily, 95 m. by
+rail S.E. of Palermo, and 56 m. W. of [[Catania]], situated 2605 ft. above
 sea-level, almost in the centre of the island, and commanding a
 magnificent view of the interior. Pop. (1901) 25,826. Enna was one of
 the cities of the Sicels, and the statement of Stephanus Byzantinus that
 it was colonized by Syracuse in 664 B.C. is improbable. The question is
 discussed by E. Pais, _Atakta_ (Pisa, 1891), 63. It does not appear in
-history before the time of Dionysius I. of Syracuse, who, after
+history before the time of [[Dionysius]] I. of Syracuse, who, after
 unsuccessful attempts, finally acquired possession of it by treachery
 about 397 B.C. Its natural position rendered it a fortress of great
 importance, and it is frequently mentioned in subsequent history. In

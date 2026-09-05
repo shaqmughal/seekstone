@@ -15,7 +15,7 @@ Domenichino became soon afterwards pupils in the same academy. With
 Albani Guido was very intimate up to the earlier period of manhood, but
 they afterwards became rivals, both as painters and as heads of
 ateliers, with a good deal of asperity on Albani's part; Domenichino was
-also pitted against Reni by the policy of Annibale Caracci. Guido was
+also pitted against Reni by the policy of Annibale [[Caracci]]. Guido was
 still in the academy of Calvart when he began frequenting the opposition
 school kept by Lodovico Caracci, whose style, far in advance of that of
 the Flemish painter, he dallied with. This exasperated Calvart. Him
@@ -23,7 +23,7 @@ Guido, not yet twenty years of age, cheerfully quitted, transferring
 himself openly to the Caracci academy, in which he soon became
 prominent, being equally skilful and ambitious. He had not been a year
 with the Caracci when a work of his excited the wonder of Agostino and
-the jealousy of Annibale. Lodovico cherished him, and frequently painted
+the [[Jealousy|jealousy]] of Annibale. Lodovico cherished him, and frequently painted
 him as an angel, for the youthful Reni was extremely handsome. After a
 while, however, Lodovico also felt himself nettled, and he patronized
 the competing talents of Giovanni Barbiere. On one occasion Guido had
@@ -42,17 +42,17 @@ Lodovico Caracci; he studied with much zest after Albert Durer; he
 adopted the massive, sombre and partly uncouth manner of Caravaggio. One
 day Annibale Caracci made the remark that a style might be formed
 reversing that of Caravaggio in such matters as the ponderous shadows
-and the gross common forms; this observation germinated in Guido's mind,
+and the [[Gross|gross]] common forms; this observation germinated in Guido's mind,
 and he endeavoured after some such style, aiming constantly at suavity.
 Towards 1602 he went to Rome with Albani, and Rome remained his
 headquarters for twenty years. Here, in the pontificate of Paul V.
-(Borghese), he was greatly noted and distinguished. In the garden-house
+([[Borghese]]), he was greatly noted and distinguished. In the garden-house
 of the Rospigliosi Palace he painted the vast fresco which is justly
-regarded as his masterpiece--"Phoebus and the Hours preceded by Aurora."
+regarded as his masterpiece--"Phoebus and the Hours preceded by [[Aurora]]."
 This exhibits his second manner, in which he had deviated far indeed
 from the promptings of Caravaggio. He founded now chiefly upon the
 antique, more especially the Niobe group and the "Venus de' Medici,"
-modified by suggestions from Raphael, Correggio, Parmigiano and Paul
+modified by suggestions from Raphael, [[Correggio]], Parmigiano and Paul
 Veronese. Of this last painter, although on the whole he did not get
 much from him, Guido was a particular admirer; he used to say that he
 would rather have been Paul Veronese than any other master--Paul was
@@ -70,13 +70,13 @@ paint the chapel of S. Gennaro. The notorious cabal of three painters
 resident in Naples--Corenzio, Caracciolo and Ribera--offered, however,
 as stiff an opposition to Guido as to some other interlopers who
 preceded and succeeded him. They gave his servant a beating by the hands
-of two unknown bullies, and sent by him a message to his master to
+of two unknown [[Bulli|bullies]], and sent by him a message to his master to
 depart or prepare for death; Guido waited for no second warning, and
 departed. He now returned to Rome; but he finally left that city
 abruptly, in the pontificate of Urban VIII., in consequence of an
 offensive reprimand administered to him by Cardinal Spinola. He had
 received an advance of 400 scudi on account of an altarpiece for St
-Peter's, but after some lapse of years had made no beginning with the
+Peter's, but after some [[Lapse|lapse]] of years had made no beginning with the
 work. A broad reminder from the cardinal put Reni on his mettle; he
 returned the 400 scudi, quitted Rome within a few days, and steadily
 resisted all attempts at recall. He now resettled in Bologna. He had
@@ -104,26 +104,26 @@ fortunes. It grew upon him, and in a couple of evenings he lost the
 enormous sum of 14,400 scudi. The vice told still more ruinously on his
 art than on his character. In his decline he sold his time at so much
 per hour to certain picture dealers; one of them, the Shylock of his
-craft, would stand by, watch in hand, and see him work.
+[[Craft|craft]], would stand by, watch in hand, and see him work.
 Half-heartedness, half-performance, blighted his product:
 self-repetition and mere mannerism, with affectation for sentiment and
 vapidity for beauty, became the art of Guido. Some of these trade-works,
 heads or half-figures, were turned out in three hours or even less. It
 is said that, tardily wise, Reni left off gambling for nearly two
 years; at last he relapsed, and his relapse was followed not long
-afterwards by his death, caused by malignant fever. This event took
-place in Bologna on the 18th of August 1642; he died in debt, but was
+afterwards by his death, caused by malignant [[Fever|fever]]. This event took
+place in Bologna on the 18th of August 1642; he died in [[Debt|debt]], but was
 buried with great pomp in the church of S. Domenico.
 
   Guido was personally modest, although he valued himself on his
   position in the art, and would tolerate no slight in that relation; he
   was extremely upright, temperate in diet, nice in his person and his
-  dress. He was fond of stately houses, but could feel also the charm of
+  [[Dress|dress]]. He was fond of stately houses, but could feel also the [[Charm|charm]] of
   solitude. In his temper there was a large amount of suspiciousness;
   and the jealousy which his abilities and his successes excited, now
   from the Caracci, now from Albani, now from the monopolizing league of
   Neapolitan painters, may naturally have kept this feeling in active
-  exercise. Of his numerous scholars, Simone Cantarini, named II
+  exercise. Of his numerous scholars, Simone [[Cantarini]], named II
   Pesarese, counts as the most distinguished; he painted an admirable
   head of Reni, now in the Bolognese Gallery. The portrait in the Uffizi
   Gallery of Florence is from Reni's own hand. Two other good scholars
@@ -139,10 +139,10 @@ buried with great pomp in the church of S. Domenico.
   painted, it is averred, a Magdalene of demonstrative charms from a
   vulgar-looking colour-grinder. His best works have beauty, great
   amenity, artistic feeling and high accomplishment of manner, all
-  alloyed by a certain core of commonplace; in the worst pictures the
+  alloyed by a certain core of [[Commonplace|commonplace]]; in the worst pictures the
   commonplace swamps everything, and Guido has flooded European
   galleries with trashy and empty pretentiousness, all the more noxious
-  in that its apparent grace of sentiment and form misleads the unwary
+  in that its apparent [[Grace|grace]] of sentiment and form misleads the unwary
   into approval, and the dilettante dabbler into cheap raptures. Both in
   Rome and wherever else he worked he introduced increased softness of
   style, which was then designated as the modern method. His pictures
@@ -150,7 +150,7 @@ buried with great pomp in the church of S. Domenico.
   three hundred of them are to be found in various European
   collections--more than a hundred of these containing life-sized
   figures. The portraits which he executed are few--those of Sixtus V.,
-  Cardinal Spada and the so-called Beatrice Cenci being among the most
+  Cardinal Spada and the so-called [[Beatrice]] [[Cenci]] being among the most
   noticeable. The identity of the last-named portrait is very dubious;
   it certainly cannot have been painted direct from Beatrice, who had
   been executed in Rome before Guido ever resided there. Many etchings
@@ -160,13 +160,13 @@ buried with great pomp in the church of S. Domenico.
   Of other works not already noticed, the following should be named:--in
   Rome (the Vatican), the "Crucifixion of St Peter," an example of the
   painter's earlier manner; in S. Lorenzo in Lucina, "Christ Crucified";
-  in Forli, the "Conception"; in Bologna, the "Alms of St Roch" (early),
-  the "Massacre of the Innocents," and the "Pieta, or Lament over the
+  in [[Forli]], the "Conception"; in Bologna, the "Alms of St Roch" (early),
+  the "[[Massacre]] of the [[Innocent|Innocents]]," and the "Pieta, or Lament over the
   Body of Christ" (in the church of the Mendicanti), which is by many
-  regarded as Guido's prime executive work; in the Dresden Gallery, an
+  regarded as Guido's prime executive work; in the [[Dresden]] Gallery, an
   "Ecce Homo"; in Milan (Brera Gallery), "Saints Peter and Paul"; in
-  Genoa (church of S. Ambrogio), the "Assumption of the Virgin"; in
-  Berlin, "St Paul the Hermit and St Anthony in the Wilderness." The
+  Genoa (church of S. Ambrogio), the "[[Assumption]] of the Virgin"; in
+  Berlin, "St Paul the Hermit and St [[Anthony]] in the Wilderness." The
   celebrated picture of "Fortune" (in the Capitol) is one of Reni's
   finest treatments of female form; as a specimen of male form, the
   "Samson Drinking from the Jawbone of an Ass" might be named beside it.
@@ -174,13 +174,13 @@ buried with great pomp in the church of S. Domenico.
   the Gallery of the Capitol. The Louvre contains twenty of his
   pictures, the National Gallery of London seven, and others were once
   there, now removed to other public collections. The most interesting
-  of the seven is the small "Coronation of the Virgin," painted on
+  of the seven is the small "[[Coronation]] of the Virgin," painted on
   copper, an elegantly finished work, more pretty than beautiful. It was
   probably painted before the master quitted Bologna for Rome.
 
   For the life and works of Guido Reni, see Bolognini, _Vita di Guido
   Reni_ (1839); Passeri, _Vite de' pittori_; and Malvasia, _Felsina
-  Pittrice_; also Lanzi, _Storia pitiorica_.     (W. M. R.)
+  Pittrice_; also [[Lanzi]], _Storia pitiorica_.     (W. M. R.)
 
 ## References
 

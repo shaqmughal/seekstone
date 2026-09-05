@@ -16,7 +16,7 @@ reputation for unhealthiness.
 
 The DISTRICT OF CUDDAPAH has an area of 8723 sq. m. It is in shape an
 irregular parallelogram, divided into two nearly equal parts by the
-range of the Eastern Ghats, which intersects it throughout its entire
+range of the Eastern [[Ghats]], which intersects it throughout its entire
 length. The two tracts thus formed possess totally different features.
 The first, which constitutes the north, east and south-east of the
 district, is a low-lying plain; while the other, which comprises the
@@ -32,7 +32,7 @@ is supposed to have been built by the Golconda sultans; it stands on a
 hill 500 ft. high, three sides of which consist of almost perpendicular
 precipices. According to a local legend the name Gurramkonda, meaning
 "horse hill," was derived from the fact that a horse was supposed to be
-guardian of the fort and that the place was impregnable so long as the
+[[Guardian|guardian]] of the fort and that the place was impregnable so long as the
 horse remained there. The story goes that a Mahratta chief at length
 succeeded in scaling the precipice and in carrying off the horse, and
 although the thief was captured before reaching the base of the hill,

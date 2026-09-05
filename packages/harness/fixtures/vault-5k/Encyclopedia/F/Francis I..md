@@ -16,11 +16,11 @@ passionate tenderness. On the accession of Louis XII. in 1498, Francis
 became heir-presumptive. Louis invested him with the duchy of Valois,
 and gave him as tutor Marshal de Gie, and, after Gie's disgrace in 1503,
 the sieur de Boisy, Artus Gouffier. Francois de Rochefort, abbot of St
-Mesmin, instructed Francis and his sister Marguerite in Latin and
+Mesmin, instructed Francis and his sister [[Marguerite]] in Latin and
 history; Louise herself taught them Italian and Spanish; and the library
 of the chateau at Amboise was well stocked with romances of the Round
-Table, which exalted the lad's imagination. Francis showed an even
-greater love for violent exercises, such as hunting, which was his
+Table, which exalted the lad's [[Imagination|imagination]]. Francis showed an even
+greater love for violent exercises, such as [[Hunting|hunting]], which was his
 ruling passion, and tennis, and for tournaments, masquerades and
 amusements of all kinds. His earliest gallantries are described by his
 sister in the 25th and 42nd stories of the _Heptameron_. In 1507 Francis
@@ -29,20 +29,20 @@ to court. In 1512 he gained his first military experience in Guienne,
 and in the following year he commanded the army of Picardy. He married
 Claude on the 18th of May 1514, and succeeded Louis XII. on the 1st of
 January 1515. Of noble bearing, and, in spite of a very long and large
-nose, extremely handsome, he was a sturdy and valiant knight, affable,
+nose, extremely handsome, he was a sturdy and valiant [[Knight|knight]], affable,
 courteous, a brilliant talker and a facile poet. He had a sprightly wit,
 some delicacy of feeling, and some generous impulses which made him
 amiable. These brilliant qualities, however, were all on the surface. At
 bottom the man was frivolous, profoundly selfish, unstable, and utterly
 incapable of consistency or application. The ambassadors remarked his
-negligence, and his ministers complained of it. Hunting, tennis, jewelry
+negligence, and his ministers complained of it. Hunting, tennis, [[Jewelry|jewelry]]
 and his gallantry were the chief preoccupations of his life.
 
 His character was at once authoritative and weak. He was determined to
 be master and to decide everything himself, but he allowed himself to be
 dominated and easily persuaded. Favourites, too, without governing
 entirely for him, played an important part in his reign. His capricious
-humour elevated and deposed them with the same disconcerting suddenness.
+[[Humour|humour]] elevated and deposed them with the same disconcerting suddenness.
 In the early years of his reign the conduct of affairs was chiefly in
 the hands of Louise of Savoy, Chancellor Antoine Duprat, Secretary
 Florimond Robertet, and the two Gouffiers, Boisy and Bonnivet. The royal
@@ -51,9 +51,9 @@ the last years of the reign Marshal d'Annebaud and Cardinal de Tournon.
 Women too had always a great influence over Francis--his sister,
 Marguerite d'Angouleme, and his mistresses. Whatever the number of
 these, he had only two titular mistresses--at the beginning of the reign
-Francoise de Chateaubriant, and from about 1526 to his death Anne de
+Francoise de [[Chateaubriant]], and from about 1526 to his death Anne de
 Pisseleu, whom he created duchesse d'Etampes and who entirely dominated
-him. It has not been proved that he was the lover of Diane de Poitiers,
+him. It has not been proved that he was the lover of [[Diane De Poitiers|Diane de Poitiers]],
 nor does the story of "La belle Ferronniere" appear to rest on any
 historical foundation.[1]
 
@@ -70,7 +70,7 @@ accentuated still further the light and chivalrous temper of the king
 and the cold and politic character of the emperor. Francis's personal
 intervention in this struggle was seldom happy. He did not succeed in
 gaining the support of Henry VIII. of England at the interview of the
-Field of the Cloth of Gold in 1520; his want of tact goaded the
+[[Field Of The Cloth Of Gold|Field of the Cloth of Gold]] in 1520; his want of tact goaded the
 Constable de Bourbon to extreme measures in 1522-1523; and in the
 Italian campaign of 1525 he proved himself a mediocre, vacillating and
 foolhardy leader, and by his blundering led the army to the disaster of
@@ -107,7 +107,7 @@ that time, in spite of occasional indulgences shown to the Reformers,
 due to his desire to conciliate the Protestant powers, Francis gave a
 free hand to the party of repression, of which the most active and most
 pitiless member was Cardinal de Tournon; and the end of the reign was
-sullied by the massacre of the Waldenses (1545).
+sullied by the [[Massacre|massacre]] of the Waldenses (1545).
 
 Francis introduced new methods into government. In his reign the
 monarchical authority became more imperious and more absolute. His was
@@ -133,7 +133,7 @@ Francis owes the greater measure of his glory to the artists and men of
 letters who vied in celebrating his praises. He was pre-eminently the
 king of the Renaissance. Of a quick and cultivated intelligence, he had
 a sincere love of letters and art. He holds a high place in the history
-of humanism by the foundation of the College de France; he did not found
+of [[Humanism|humanism]] by the foundation of the College de France; he did not found
 an actual college, but after much hesitation instituted in 1530, at the
 instance of Guillaume Bude (Budaeus), _Lecteurs royaux_, who in spite of
 the opposition of the Sorbonne were granted full liberty to teach
@@ -142,14 +142,14 @@ and Pierre Duchatel were the king's intimates, and Clement Marot was his
 favourite poet. Francis sent to Italy for artists and for works of art,
 but he protected his own countrymen also. Here, too, he showed his
 customary indecision, wavering between the two schools. At his court he
-installed Benvenuto Cellini, Francesco Primaticcio and Rosso del Rosso,
+installed Benvenuto [[Cellini]], Francesco Primaticcio and Rosso del Rosso,
 but in the buildings at Chambord, St Germain, Villers-Cotterets and
-Fontainebleau the French tradition triumphed over the Italian.
+[[Fontainebleau]] the French tradition triumphed over the Italian.
 
 Francis died on the 31st of March 1547, of a disease of the urinary
 ducts according to some accounts, of syphilis according to others. By
 his first wife Claude (d. 1524) he had three sons and four daughters:
-Louise, who died in infancy; Charlotte, who died at the age of eight;
+Louise, who died in infancy; [[Charlotte]], who died at the age of eight;
 Francis (d. 1536); Henry, who came to the throne as Henry II.;
 Madeleine, who became queen of Scotland; Charles (d. 1545); and
 Margaret, duchess of Savoy. In 1530 he married Eleanor, the sister of
@@ -163,7 +163,7 @@ the emperor Charles V.
   _Meslanges historiques_ ... (Troyes, 1619); G. Ribier, _Lettres et
   memoires d'estat_ (Paris, 1666); _Letters de Marguerite d'Angouleme_,
   ed. by F. Genin (Paris, 1841 and 1842); the _Correspondence of
-  Castillon and Marillac_ (ed. by Kaulek, Paris, 1885), of _Odet de
+  Castillon and [[Marillac]]_ (ed. by Kaulek, Paris, 1885), of _Odet de
   Selve_ (ed. by Lefevre-Pontalis, Paris, 1888), and of _Guillaume
   Pellicier_ (ed. by Tausserat-Radel, Paris, 1900); _Captivite du roi
   Francois I^er_, and _Poesies de Francois I^er_ (both ed. by
@@ -174,7 +174,7 @@ the emperor Charles V.
   Barillon_, ed. by de Vaissiere (Paris, 1897-1899); _Journal d'un
   bourgeois de Paris_, ed. by Lalanne (Paris, 1854); _Cronique du roy
   Francois I^er_, ed. by Guiffrey (Paris, 1868); and the memoirs of
-  Fleuranges, Montluc, Tavannes, Vieilleville, Brantome and especially
+  Fleuranges, Montluc, Tavannes, Vieilleville, [[Brantome]] and especially
   Martin du Bellay (coll. Michaud and Poujoulat). Of the innumerable
   secondary authorities, see especially Paulin Paris, _Etudes sur le
   regne de Francois I^er_ (Paris, 1885), in which the apologetic
@@ -183,7 +183,7 @@ the emperor Charles V.
   principal secondary authorities. There is a more complete
   bibliographical study by V.L. Bourrilly in the _Revue d'histoire
   moderne et contemporaine_, vol. iv. (1902-1903). The printed sources
-  have been catalogued by H. Hauser, _Les Sources de l'histoire de
+  have been catalogued by H. [[Hauser]], _Les Sources de l'histoire de
   France, XVI^e siecle_, tome ii. (Paris, 1907).     (J. I.)
 
 

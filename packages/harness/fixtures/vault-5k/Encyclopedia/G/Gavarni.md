@@ -31,7 +31,7 @@ passed, always elevating and refining itself, are well worth being
 noted. At first he confined himself to the study of Parisian manners,
 more especially those of the Parisian youth. To this vein belong _Les
 Lorettes_, _Les Actrices_, _Les Coulisses_, _Les Fashionables_, _Les
-Gentilshommes bourgeois_, _Les Artistes_, _Les Débardeurs_, _Clichy_,
+Gentilshommes bourgeois_, _Les Artistes_, _Les Débardeurs_, _[[Clichy]]_,
 _Les Étudiants de Paris_, _Les Baliverneries parisiennes_, _Les Plaisirs
 champêtres_, _Les Bals masqués_, _Le Carnaval_, _Les Souvenirs du
 carnaval_, _Les Souvenirs du bal Chicard_, _La Vie des jeunes hommes_,
@@ -46,13 +46,13 @@ collective edition of Balzac's works (Paris, Houssiaux, 1850, 20 vols.
 par eux-mêmes_ (1840-1843, 9 vols. 8vo), the collection of
 _Physiologies_ published by Aubert in 38 vols. 18mo (1840-1842),--all
 owed a great part of their success at the time, and are still sought
-for, on account of the clever and telling sketches contributed by
+for, on account of the [[Clever|clever]] and telling sketches contributed by
 Gavarni. A single frontispiece or vignette was sometimes enough to
 secure the sale of a new book. Always desiring to enlarge the field of
 his observations, Gavarni soon abandoned his once favourite topics. He
 no longer limited himself to such types as the _lorette_ and the
 Parisian student, or to the description of the noisy and popular
-pleasures of the capital, but turned his mirror to the grotesque sides
+pleasures of the capital, but turned his mirror to the [[Grotesque|grotesque]] sides
 of family life and of humanity at large. _Les Enfants terribles_, _Les
 Parents terribles_, _Les Fourberies des femmes_, _La Politique des
 femmes_, _Les Maris vengés_, _Les Nuances du sentiment_, _Les Rêves_,
@@ -60,7 +60,7 @@ _Les Petits Jeux de société_, _Les Petits Malheurs du bonheur_, _Les
 Impressions de menage_, _Les Interjections_, _Les Traductions en langue
 vulgaire_, _Les Propos de Thomas Vireloque_, &c., were composed at this
 time, and are his most elevated productions. But whilst showing the same
-power of irony as his former works, enhanced by a deeper insight into
+power of [[Irony|irony]] as his former works, enhanced by a deeper insight into
 human nature, they generally bear the stamp of a bitter and even
 sometimes gloomy philosophy. This tendency was still more strengthened
 by a visit to England in 1849. He returned from London deeply impressed
@@ -89,10 +89,10 @@ balloons; but it seems that he was not so successful in this line as his
 fellow-artist, the caricaturist and photographer, Nadar.
 
   Gavarni's _Oeuvres choisies_ were edited in 1845 (4 vols. 4to) with
-  letterpress by J. Janin, Th. Gautier and Balzac, followed in 1850 by
+  letterpress by J. Janin, Th. [[Gautier]] and Balzac, followed in 1850 by
   two other volumes named _Perles et parures_; and some essays in prose
   and in verse written by him were collected by one of his biographers,
-  Ch. Yriarte, and published in 1869. See also E. and J. de Goncourt,
+  Ch. Yriarte, and published in 1869. See also E. and J. de [[Goncourt]],
   _Gavarni, l'homme et l'oeuvre_ (1873, 8vo). J. Claretie has also
   devoted to the great French caricaturist a curious and interesting
   essay. A catalogue _raisonné_ of Gavarni's works was published by J.

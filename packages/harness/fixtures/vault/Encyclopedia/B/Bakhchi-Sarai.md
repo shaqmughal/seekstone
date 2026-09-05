@@ -1,16 +1,16 @@
 # Bakhchi-Sarai
 
 BAKHCHI-SARAI (Turk. for "garden-palace"), a town of Russia, in the
-government of Taurida, situated in a narrow gorge in the Crimea, 20 m. by
+government of Taurida, situated in a narrow gorge in the [[Crimea]], 20 m. by
 rail S.S.W. of Simferopol. From the close of the 15th century down to 1783
-it was the residence of the Tatar khans of the Crimea; and its streets wear
+it was the residence of the Tatar [[Khan|khans]] of the Crimea; and its streets wear
 a decidedly oriental look. The principal building, the palace, or
 _Khan-sarai_, was originally erected in 1519 by Abdul-Sahal-Ghirai,
 destroyed in 1736, and restored at Potemkin's command for the reception of
-Catherine II. Attached to it is a mausoleum, which contains the tombs of
+Catherine II. Attached to it is a [[Mausoleum|mausoleum]], which contains the tombs of
 many of the khans. There are in the place no fewer then thirty-six mosques.
 The population consists for the most part of Tatars. Bakhchi-sarai
-manufactures morocco, sheepskin cloaks, agricultural implements, sabres and
+manufactures morocco, sheepskin cloaks, agricultural [[Implement|implements]], sabres and
 cutlery. Pop. (1897) 12,955. Two and a half miles to the east is
 Chufut-Kaleh (or Jews' city), formerly the chief seat of the Karaite Jews
 of the Crimea, situated on lofty and almost inaccessible cliffs; it is now

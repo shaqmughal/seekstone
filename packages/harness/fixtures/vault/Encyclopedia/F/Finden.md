@@ -14,14 +14,14 @@ that ultimately a company of assistants was engaged, and plates were
 produced in increasing numbers, their quality as works of art declining
 as their quantity rose. The largest plate executed by William Finden was
 the portrait of King George IV. seated on a sofa, after the painting by
-Sir Thomas Lawrence. For this work he received two thousand guineas, a
+Sir Thomas [[Lawrence]]. For this work he received two thousand guineas, a
 sum larger than had ever before been paid for an engraved portrait.
 Finden's next and happiest works on a large scale were the "Highlander's
 Return" and the "Village Festival," after Wilkie. Later in life he
-undertook, in co-operation with his brother, aided by their numerous
+undertook, in [[Co-Operation|co-operation]] with his brother, aided by their numerous
 staff, the publication as well as the production of various galleries of
 engravings. The first of these, a series of landscape and portrait
-illustrations to the life and works of Byron, appeared in 1833 and
+illustrations to the life and works of [[Byron]], appeared in 1833 and
 following years, and was very successful. But by his _Gallery of British
 Art_ (in fifteen parts, 1838-1840), the most costly and best of these
 ventures, he lost the fruits of all his former success. Finden's last

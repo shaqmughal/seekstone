@@ -49,7 +49,7 @@ certain analytical processes. The quantity of sugar passed may vary from
 a few ounces to two or more pounds per diem, and it is found to be
 markedly increased after saccharine or starchy food has been taken.
 Sugar may also be found in the blood, saliva, tears, and in almost all
-the excretions of persons suffering from this disease. One of the most
+the [[Excretion|excretions]] of persons suffering from this disease. One of the most
 distressing symptoms is intense thirst, which the patient is constantly
 seeking to allay, the quantity of liquid consumed being in general
 enormous, and there is usually, but not invariably, a voracious
@@ -111,7 +111,7 @@ that the various methods of treatment proposed aim at the elimination as
 far as possible of these constituents from the diet. Hence it is
 recommended that such articles as bread, potatoes and all farinaceous
 foods, turnips, carrots, parsnips and most fruits should be avoided;
-while animal food and soups, green vegetables, cream, cheese, eggs,
+while animal food and soups, green vegetables, cream, cheese, [[Egg|eggs]],
 butter, and tea and coffee without sugar, may be taken with advantage.
 As a substitute for ordinary bread, which most persons find it difficult
 to do without for any length of time, bran bread, gluten bread and

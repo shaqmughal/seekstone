@@ -23,9 +23,9 @@ smell and hearing, is that of "continuous expanse composed of positions
 separated and connected by distances" (Stout); to this the term
 "extension" is applied. The perception of separate objects involves
 position and distance, but these taken together are not extension, which
-necessarily implies continuity. To move one's finger along the keys of a
+necessarily implies continuity. To move one's [[Finger|finger]] along the [[Key|keys]] of a
 piano gives both the position and the distance of the keys; to move it
-along the frame gives the idea of extension. By expanding this idea we
+along the [[Frame|frame]] gives the idea of extension. By expanding this idea we
 obtain the conception of all space as an extended whole. To this
 perception are necessary both form and material. It should be observed
 the actual quality of a stimulus (rough, smooth, dry, &c.) has nothing
@@ -71,7 +71,7 @@ to crimes, to describe cases in which, though an offence has been
 committed without legal justification or excuse, its gravity, from the
 point of view of punishment or moral opprobrium, is mitigated or reduced
 by reason of the facts leading up to or attending the commission of the
-offence. According to English procedure, the jury has no power to
+offence. According to English procedure, the [[Jury|jury]] has no power to
 determine the punishment to be awarded for an offence. The sentence,
 with certain exceptions in capital cases, is within the sole discretion
 of the judge, subject to the statutory prescriptions as to the kind and
@@ -87,7 +87,7 @@ the jury, the judge is entitled to take into account matters proved
 during the trial, or laid before him after verdict, as a guide to him in
 determining the quantum of punishment.
 
-Under the French law (_Code d'instruction criminelle_, art. 345), it is
+Under the French law (_[[Code]] d'instruction criminelle_, art. 345), it is
 the sole right and the duty of a jury in a criminal case to pronounce
 whether or not the commission of the offence was attended by extenuating
 circumstances (_circonstances atténuantes_). They are not bound to say

@@ -1,6 +1,6 @@
 # Mansel
 
-MANSEL, HENRY LONGUEVILLE (1820-1871), English philosopher, was born at
+MANSEL, HENRY [[Longueville|LONGUEVILLE]] (1820-1871), English philosopher, was born at
 Cosgrove, Northamptonshire (where his father, also Henry Longueville
 Mansel, fourth son of General John Mansel, was rector), on the 6th of
 October 1820. He was educated at Merchant Taylors' School and St John's
@@ -13,7 +13,7 @@ Stanley as professor of ecclesiastical history, and in 1868 he was
 appointed dean of St Paul's. He died on the 31st of July 1871.
 
 The philosophy of Mansel, like that of Sir William Hamilton, was mainly
-due to Aristotle, Kant and Reid. Like Hamilton, Mansel maintained the
+due to Aristotle, [[Kant]] and Reid. Like Hamilton, Mansel maintained the
 purely formal character of logic, the duality of consciousness as
 testifying to both self and the external world, and the limitation of
 knowledge to the finite and "conditioned." His doctrines were developed
@@ -43,10 +43,10 @@ Carnarvon). He wrote a commentary on the first two gospels in the
 _Speaker's Commentary_.
 
   See J. W. Burgon, _Lives of Twelve Good Men_ (1888-1889); James
-  Martineau, _Essays, Reviews and Addresses_ (London, 1891), iii. 117
+  [[Martineau]], _Essays, Reviews and Addresses_ (London, 1891), iii. 117
   seq.; A. W. Benn, _History of Rationalism_ (1906), ii. 100-112;
   Masson, _Recent British Philosophy_ (3rd ed., London, 1877), pp. 252
-  seq.; Sir Leslie Stephen in _Dict. Nat. Biog._
+  seq.; Sir [[Leslie]] Stephen in _Dict. Nat. Biog._
 
 ## See also
 

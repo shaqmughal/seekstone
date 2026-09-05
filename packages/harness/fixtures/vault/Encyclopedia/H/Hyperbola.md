@@ -8,21 +8,21 @@ topic: history
 
 HYPERBOLA, a conic section, consisting of two open branches, each
 extending to infinity. It may be defined in several ways. The _in
-solido_ definition as the section of a cone by a plane at a less
+solido_ [[Definition|definition]] as the section of a cone by a plane at a less
 inclination to the axis than the generator brings out the existence of
-the two infinite branches if we imagine the cone to be double and to
+the two [[Infinite|infinite]] branches if we imagine the cone to be double and to
 extend to infinity. The _in plano_ definition, i.e. as the conic having
 an eccentricity greater than unity, is a convenient starting-point for
 the Euclidian investigation. In projective geometry it may be defined as
 the conic which intersects the line at infinity in two real points, or
 to which it is possible to draw two real tangents from the centre.
-Analytically, it is defined by an equation of the second degree, of
+Analytically, it is defined by an [[Equation|equation]] of the second degree, of
 which the highest terms have real roots (see CONIC SECTION).
 
   While resembling the parabola in extending to infinity, the curve has
   closest affinities to the ellipse. Thus it has a real centre, two
   foci, two directrices and two vertices; the transverse axis, joining
-  the vertices, corresponds to the major axis of the ellipse, and the
+  the vertices, corresponds to the [[Major|major]] axis of the ellipse, and the
   line through the centre and perpendicular to this axis is called the
   conjugate axis, and corresponds to the minor axis of the ellipse;
   about these axes the curve is symmetrical. The curve does not appear

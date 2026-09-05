@@ -1,8 +1,8 @@
 # Darly
 
-DARLY, MATTHIAS, 18th-century English caricaturist, designer and
+DARLY, [[Matthias|MATTHIAS]], 18th-century English caricaturist, designer and
 engraver. This extremely versatile artist not only issued political
-caricatures, but designed ceilings, chimney-pieces, mirror frames,
+caricatures, but designed [[Ceiling|ceilings]], chimney-pieces, mirror [[Frame|frames]],
 girandoles, decorative panels and other mobiliary accessories, made many
 engravings for Thomas Chippendale, and sold his own productions over the
 counter. He was apparently an architect by profession. The first
@@ -15,7 +15,7 @@ _Director_ of Thomas Chippendale. He published from many addresses, most
 of them in the Strand or its immediate neighbourhood, and his shop was
 for a long period perhaps the most important of its kind in London. In
 his book _Nollekens and his Times_, J. T. Smith, writing of Richard
-Cosway, says:--"So ridiculously foppish did he become that Matth. Darly,
+[[Cosway]], says:--"So ridiculously foppish did he become that Matth. Darly,
 the famous caricature print seller, introduced an etching of him in his
 window in the Strand as the 'Macaroni Miniature Painter.'" Darly was for
 many years in partnership with a man named Edwards, and together they
@@ -33,7 +33,7 @@ Compleat Body of Architecture, embellished with a great Variety of
 Ornaments_. He also issued _Sixty Vases by English, French and Italian
 Masters_ (1767). In addition to his immense mass of other productions
 Darly executed many book plates, illustrated various books and
-cabinet-makers' catalogues, and gave lessons in etching. His skill as a
+cabinet-makers' [[Catalogue|catalogues]], and gave lessons in etching. His skill as a
 caricaturist brought him into close personal relations with the
 politicians of his time, and in 1763 he was instrumental in saving John
 Wilkes, whose partisan he was, from death at the hands of James Dunn,

@@ -1,6 +1,6 @@
 # Bosc
 
-BOSC, LOUIS AUGUSTIN GUILLAUME (1759-1828), French naturalist, was born
+BOSC, LOUIS AUGUSTIN [[Guillaume|GUILLAUME]] (1759-1828), French naturalist, was born
 at Paris on the 29th of January 1759. He was educated at the college of
 Dijon, where he showed a taste for botany, and he followed up his
 studies in Paris at the Jardin des Plantes, where he made the
@@ -13,12 +13,12 @@ For some months he lay concealed at Sainte-Radegonde, in the forest of
 Montmorency, barely subsisting on roots and vegetables. He was enabled
 to return to Paris on the fall of Robespierre, and under the title
 _Appel a l'impartiale posterite par la citoyenne Roland_ published a
-manuscript Mme Roland had entrusted to him before her execution. Soon
+[[Manuscript|manuscript]] Mme Roland had entrusted to him before her execution. Soon
 afterwards he set out for America, resolving to explore the natural
 riches of that country. The immense materials he gathered were never
 published in a complete form, but much went to enrich the works of
 B.G.E. de Lacepede, P.A. Latreille and others. After his return, on the
-establishment of the Directory, he was reinstated in his old office. Of
+establishment of the [[Directory]], he was reinstated in his old office. Of
 this he was again deprived by the _coup d'etat_ of 1799, and for a time
 he was in great destitution; but by his copious contributions to
 scientific literature he contrived to support himself and to lay the

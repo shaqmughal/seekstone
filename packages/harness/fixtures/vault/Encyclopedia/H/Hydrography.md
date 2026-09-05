@@ -9,7 +9,7 @@ topic: philosophy
 HYDROGRAPHY (Gr. [Greek: hydôr], water, and [Greek: graphein], to
 write), the science dealing with all the waters of the earth's surface,
 including the description of their physical features and conditions; the
-preparation of charts and maps showing the position of lakes, rivers,
+preparation of charts and [[Map|maps]] showing the position of lakes, rivers,
 seas and oceans, the contour of the sea-bottom, the position of
 shallows, deeps, reefs and the direction and volume of currents; a
 scientific description of the position, volume, configuration, motion

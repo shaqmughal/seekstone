@@ -25,10 +25,10 @@ only the passenger traffic, but also a large general trade are carried
 on. The fisheries are important. Among institutions may be mentioned the
 grammar school, founded in 1674, the public library and museum, and a
 number of hospitals and sanatoria. The discontinued Harveian Institution
-for young men was named after William Harvey, discoverer of the
+for young men was named after William [[Harvey]], discoverer of the
 circulation of the blood, a native of Folkestone (1578), who is also
 commemorated by a tercentenary memorial on the Lees. Folkestone is a
-member of the Cinque Port of Dover. It is governed by a mayor, 7
+member of the Cinque Port of [[Dover]]. It is governed by a mayor, 7
 aldermen and 21 councillors. Area, 2522 acres. To the west of
 Folkestone, close to Shorncliffe camp, is the populous suburb of
 Cheriton (an urban district, pop. 7091).
@@ -38,7 +38,7 @@ called upon to supply him with ships when he was exiled from England; at
 the time of the Domesday Survey it belonged to Odo, bishop of Bayeux.
 From early times it was a member of the Cinque Port of Dover, and had to
 find one out of the twenty-one ships furnished by that port for the
-royal service. It shared the privileges of the Cinque Ports, whose
+royal service. It shared the privileges of the [[Cinque Ports]], whose
 liberties were exemplified at the request of the barons of Folkestone by
 Edward III. in 1330. The corporation, which was prescriptive, was
 entitled the mayor, jurats and commonalty of Folkestone. The history of

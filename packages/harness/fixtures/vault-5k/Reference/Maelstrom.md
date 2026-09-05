@@ -15,7 +15,7 @@ as the Moskenstrom. Though dangerous in certain states of wind and tide,
 the tales of ships being swallowed in this whirlpool are fables. The
 word is probably of Dutch origin, from _malen_, to grind or whirl, and
 _strom_ or _stroom_, a stream or current. It appears on Mercator's
-_Atlas_ of 1595.
+_[[Atlas]]_ of 1595.
 
 ## References
 

@@ -10,12 +10,12 @@ tags: [politics, meteorology]
 # Battle Creek
 
 BATTLE CREEK, a city of Calhoun county, Michigan, U.S.A., at the
-confluence of the Kalamazoo river with Battle Creek, about 48 m. S. of
-Grand Rapids. Pop. (1890) 13,197; (1900) 18,563, of whom 1844 were
+confluence of the [[Kalamazoo]] river with Battle Creek, about 48 m. S. of
+[[Grand Rapids]]. Pop. (1890) 13,197; (1900) 18,563, of whom 1844 were
 foreign-born; (1910, census) 25,267. It is served by the Michigan
 Central and the Grand Trunk railways, and by interurban electric lines.
 Here are the hospital and laboratories of the American Medical
-Missionary College (of Chicago) and the Battle Creek Sanitarium,
+Missionary College (of [[Chicago]]) and the Battle Creek Sanitarium,
 established in 1866, which was a pioneer in dietetic reform, and did
 much to make Battle Creek important in the manufacture of health foods,
 and in the publication of diet-reform literature. Among the principal
@@ -26,9 +26,9 @@ district by which it is surrounded, has good water-power, and is an
 important manufacturing centre, its chief manufactured products being
 cereal health foods, for which it has a wide reputation, and the
 manufacture of which grew out of the dietetic experiments made in the
-laboratories of the sanitarium; and threshing machines and other
-agricultural implements, paper cartons and boxes, flour, boilers,
-engines and pumps. Extensive locomotive and car shops of the Grand Trunk
+laboratories of the sanitarium; and threshing [[Machine|machines]] and other
+agricultural [[Implement|implements]], paper cartons and [[Box|boxes]], flour, [[Boiler|boilers]],
+engines and pumps. Extensive locomotive and [[Car|car]] shops of the Grand Trunk
 railway are here. In 1904 the total factory product of Battle Creek was
 valued at $12,298,244, an increase of 95% over that for 1900; and of the
 total in 1904 $5,191,655 was the value of food preparations, which was

@@ -11,7 +11,7 @@ second. In the winter of 1814 the family moved from Portsea in the snow,
 as he remembered, to London, and lodged for a time near the Middlesex
 hospital. The country of the novelist's childhood, however, was the
 kingdom of Kent, where the family was established in proximity to the
-dockyard at Chatham from 1816 to 1821. He looked upon himself in later
+dockyard at [[Chatham]] from 1816 to 1821. He looked upon himself in later
 years as a man of Kent, and his capital abode as that in Ordnance
 Terrace, or 18 St Mary's Place, Chatham, amid surroundings classified in
 Mr Pickwick's notes as "appearing" to be soldiers, sailors, Jews, chalk,
@@ -25,8 +25,8 @@ him Charles was made to sit on a tall chair and warble popular ballads,
 or even to tell stories and anecdotes for the benefit of fellow-clerks
 in the office. John Dickens, however, had a small collection of books
 which were kept in a little room upstairs that led out of Charles's own,
-and in this attic the boy found his true literary instructors in
-_Roderick Random_, _Peregrine Pickle_, _Humphry Clinker_, _Tom Jones_,
+and in this [[Attic|attic]] the boy found his true literary instructors in
+_Roderick Random_, _Peregrine Pickle_, _[[Humphry]] Clinker_, _Tom Jones_,
 _The Vicar of Wakefield_, _Don Quixote_, _Gil Blas_ and _Robinson
 Crusoe_. The story of how he played at the characters in these books and
 sustained his idea of Roderick Random for a month at a stretch is
@@ -34,22 +34,22 @@ picturesquely told in _David Copperfield_. Here as well as in his first
 and last books and in what many regard as his best, _Great
 Expectations_, Dickens returns with unabated fondness and mastery to the
 surroundings of his childhood. From seven to nine years he was at a
-school kept in Clover Lane, Chatham, by a Baptist minister named William
-Giles, who gave him Goldsmith's _Bee_ as a keepsake when the call to
+school kept in [[Clover]] [[Lane]], Chatham, by a Baptist minister named William
+[[Giles]], who gave him Goldsmith's _[[Bee]]_ as a keepsake when the call to
 Somerset House necessitated the removal of the family from Rochester to
 a shabby house in Bayham Street, Camden Town. At the very moment when a
 consciousness of capacity was beginning to plump his youthful ambitions,
-the whole flattering dream vanished and left not a rack behind.
+the whole flattering [[Dream|dream]] vanished and left not a rack behind.
 Happiness and Chatham had been left behind together, and Charles was
 about to enter a school far sterner and also far more instructive than
 that in Clover Lane. The family income had been first decreased and then
 mortgaged; the creditors of the "prodigal father" would not give him
 time; John Dickens was consigned to the Marshalsea; Mrs Dickens started
-an "Educational Establishment" as a forlorn hope in Upper Gower Street;
+an "Educational Establishment" as a [[Forlorn Hope|forlorn hope]] in Upper [[Gower]] Street;
 and Charles, who had helped his mother with the children, blacked the
 boots, carried things to the pawnshop and done other menial work, was
 now sent out to earn his own living as a young hand in a blacking
-warehouse, at Old Hungerford Stairs, on a salary of six shillings a
+warehouse, at Old [[Hungerford]] Stairs, on a salary of six shillings a
 week. He tied, trimmed and labelled blacking pots for over a year,
 dining off a saveloy and a slice of pudding, consorting with two very
 rough boys, Bob Fagin and Pol Green, and sleeping in an attic in Little
@@ -62,22 +62,22 @@ Already consumed by ambition, proud, sensitive and on his dignity to an
 extent not uncommon among boys of talent, he felt his position keenly,
 and in later years worked himself up into a passion of self-pity in
 connexion with the "degradation" and "humiliation" of this episode. The
-two years of childish hardship which ate like iron into his soul were
+two years of childish hardship which [[Ate|ate]] like iron into his soul were
 obviously of supreme importance in the growth of the novelist.
 Recollections of the streets and the prison and its purlieus supplied
 him with a store of literary material upon which he drew through all the
 years of his best activity. And the bitterness of such an experience was
 not prolonged sufficiently to become sour. From 1824 to 1826, having
 been rescued by a family quarrel and by a windfall in the shape of a
-legacy to his father, from the warehouse, he spent two years at an
-academy known as Wellington House, at the corner of Granby Street and
+[[Legacy|legacy]] to his father, from the warehouse, he spent two years at an
+academy known as Wellington House, at the corner of [[Granby]] Street and
 the Hampstead Road (the lighter traits of which are reproduced in Salem
 House), and was there known as a merry and rather mischievous boy.
-Fortunately he learned nothing there to compromise the results of
+Fortunately he learned nothing there to [[Compromise|compromise]] the results of
 previous instruction. His father had now emerged from the Marshalsea and
 was seeking employment as a parliamentary reporter. A Gray's Inn
-solicitor with whom he had had dealings was attracted by the bright,
-clever look of Charles, and took him into his office as a boy at a
+solicitor with whom he had had dealings was attracted by the [[Bright|bright]],
+[[Clever|clever]] look of Charles, and took him into his office as a boy at a
 salary of thirteen and sixpence (rising to fifteen shillings) a week. He
 remained in Mr Blackmore's office from May 1827 to November 1828, but he
 had lost none of his eager thirst for distinction, and spent all his
@@ -89,7 +89,7 @@ absent from the man who was shortly to take his place at the head of it
 as if to the manner born. Lowten and Guppy, and Swiveller had been
 observed from this office lad's stool; he was now greatly to widen his
 area of study as a reporter in Doctors' Commons and various police
-courts, including Bow Street, working all day at law and much of the
+courts, including [[Bow]] Street, working all day at law and much of the
 night at shorthand. Some one asked John Dickens, during the first eager
 period of curiosity as to the man behind "Pickwick," where his son
 Charles was educated. "Well really," said the prodigal father, "he may
@@ -122,7 +122,7 @@ By the following August, when the signature "Boz" was first given, five
 of these sketches had appeared. By the end of 1834 we find him settled
 in rooms in Furnival's Inn, and a little later his salary on the
 _Morning Chronicle_ was raised, owing to the intervention of one of its
-chiefs, George Hogarth, the father of (in addition to six sons) eight
+chiefs, George [[Hogarth]], the father of (in addition to six sons) eight
 charming daughters, to one of whom, Catherine, Charles was engaged to be
 married before the year was out. Clearly as his career now seemed
 designated, he was at this time or a little before it coquetting very
@@ -133,8 +133,8 @@ Life and Everyday People_. The book came from a prentice hand, but like
 the little tract on the Puritan abuse of the Sabbath entitled "Sunday
 under three Heads" which appeared a few months later, it contains in
 germ all, or almost all, the future Dickens. Glance at the headings of
-the pages. Here we have the Beadle and all connected with him, London
-streets, theatres, shows, the pawnshop, Doctors' Commons, Christmas,
+the pages. Here we have the [[Beadle]] and all connected with him, London
+streets, theatres, shows, the pawnshop, Doctors' Commons, [[Christmas]],
 Newgate, coaching, the river. Here comes a satirical picture of
 parliament, fun made of cheap snobbery, a rap on the knuckles of
 sectarianism. And what could be more prophetic than the title of the
@@ -154,21 +154,21 @@ the _Sketches_, the first part of _The Posthumous Papers of the Pickwick
 Club_ was announced. One of the chief vogues of the day was the issue of
 humorous, sporting or anecdotal novels in parts, with plates, and some
 of the best talent of the day, represented by Ainsworth, Bulwer,
-Marryat, Maxwell, Egan, Hook and Surtees, had been pressed into this
+Marryat, [[Maxwell]], Egan, Hook and Surtees, had been pressed into this
 kind of enterprise. The publishers of the day had not been slow to
 perceive Dickens's aptitude for this species of "letterpress." A member
 of the firm of Chapman & Hall called upon him at Furnival's Inn in
 December 1835 with a proposal that he should write about a Nimrod Club
 of amateur sportsmen, foredoomed to perpetual ignominies, while the
 comic illustrations were to be etched by Seymour, a well-known rival of
-Cruikshank (the illustrator of _Boz_). The offer was too tempting for
-Dickens to refuse, but he changed the idea from a club of Cockney
-sportsmen to that of a club of eccentric peripatetics, on the sensible
+[[Cruikshank]] (the illustrator of _Boz_). The offer was too tempting for
+Dickens to refuse, but he changed the idea from a club of [[Cockney]]
+sportsmen to that of a club of [[Eccentric|eccentric]] peripatetics, on the sensible
 grounds, first that sporting sketches were stale, and, secondly, that he
 knew nothing worth speaking of about sport. The first seven pictures
 appeared with the signature of Seymour and the letterpress of Dickens.
 Before the eighth picture appeared Seymour had blown his brains out.
-After a brief interval of Buss, Dickens obtained the services of Hablot
+After a brief interval of [[Buss]], Dickens obtained the services of Hablot
 K. Browne, known to all as "Phiz." Author and illustrator were as well
 suited to one another and to the common creation of a unique thing as
 Gilbert and Sullivan. Having early got rid of the sporting element,
@@ -178,7 +178,7 @@ modern book is so incalculable. We commence laughing heartily at
 Pickwick and his troupe. The laugh becomes kindlier. We are led on
 through a tangle of adventure, never dreaming what is before us. The
 landscape changes: Pickwick becomes the symbol of kindheartedness,
-simplicity and innocent levity. Suddenly in the Fleet Prison a deeper
+simplicity and [[Innocent|innocent]] levity. Suddenly in the Fleet Prison a deeper
 note is struck. The medley of human relationships, the loneliness, the
 mystery and sadness of human destinies are fathomed. The tragedy of
 human life is revealed to us amid its most farcical elements. The droll
@@ -188,7 +188,7 @@ gaiters. By defying accepted rules, Dickens had transcended the limited
 sphere hitherto allotted to his art: he had produced a book to be
 enshrined henceforth in the inmost hearts of all sorts and conditions of
 his countrymen, and had definitely enlarged the boundaries of English
-humour and English fiction. As for Mr Pickwick, he is a fairy like Puck
+[[Humour|humour]] and English fiction. As for Mr Pickwick, he is a fairy like Puck
 or Santa Claus, while his creator is "the last of the mythologists and
 perhaps the greatest."
 
@@ -203,10 +203,10 @@ six months from the appearance of the first number, as the _Quarterly
 Review_ almost ruefully admits, the whole reading world was talking
 about the Pickwickians. The names of Winkle, Wardle, Weller, Jingle,
 Snodgrass, Dodson & Fogg, were as familiar as household words. Pickwick
-chintzes figured in the linendrapers' windows, and Pickwick cigars in
-every tobacconist's; Weller corduroys became the stock-in-trade of every
-breeches-maker; Boz cabs might be seen rattling through the streets, and
-the portrait of the author of _Pelham_ and _Crichton_ was scraped down
+[[Chintz|chintzes]] figured in the linendrapers' windows, and Pickwick [[Cigar|cigars]] in
+every tobacconist's; Weller [[Corduroy|corduroys]] became the stock-in-trade of every
+breeches-maker; Boz [[Cab|cabs]] might be seen rattling through the streets, and
+the portrait of the author of _Pelham_ and _[[Crichton]]_ was scraped down
 to make way for that of the new popular favourite on the omnibuses. A
 new and original genius had suddenly sprung up, there was no denying it,
 even though, as the _Quarterly_ concluded, "it required no gift of
@@ -216,11 +216,11 @@ prophecy indeed to foretell that Dickens's reputation would have gone on
 rising until at the present day (after one sharp fall, which reached an
 extreme about 1887) it stands higher than it has ever stood before.
 
-Dickens's assumption of the literary purple was as amazing as anything
-else about him. Accepting the homage of the luminaries of the literary,
+Dickens's [[Assumption|assumption]] of the literary purple was as amazing as anything
+else about him. Accepting the [[Homage|homage]] of the luminaries of the literary,
 artistic and polite worlds as if it had been his natural due, he
-arranges for the settlement of his family, decrees, like another Edmund
-Kean, that his son is to go to Eton, carries on the most complicated
+arranges for the settlement of his family, [[Decree|decrees]], like another Edmund
+Kean, that his son is to go to [[Eton]], carries on the most complicated
 negotiations with his publishers and editors, presides and orates with
 incomparable force at innumerable banquets, public and private, arranges
 elaborate villegiatures in the country, at the seaside, in France or in
@@ -240,17 +240,17 @@ everything that happens, and writes it with such gusto, such mirth, such
 strokes of fine picturing, as appear in no other private letters ever
 given to the public. Naturally buoyant in all circumstances, a holiday
 gave him the exhilaration of a schoolboy. See how he writes from
-Cornwall, when on a trip with two or three friends, in 1843. "Heavens!
+[[Cornwall]], when on a trip with two or three friends, in 1843. "Heavens!
 if you could have seen the necks of bottles, distracting in their
 immense variety of shape, peering out of the carriage pockets! If you
-could have witnessed the deep devotion of the post-boys, the maniac glee
+could have witnessed the deep devotion of the post-boys, the maniac [[Glee|glee]]
 of the waiters! If you could have followed us into the earthy old
 churches we visited, and into the strange caverns on the gloomy
 seashore, and down into the depths of mines, and up to the tops of giddy
 heights, where the unspeakably green water was roaring, I don't know how
 many hundred feet below.... I never laughed in my life as I did on this
 journey. It would have done you good to hear me. I was choking and
-gasping and bursting the buckles off the back of my stock, all the way.
+gasping and bursting the [[Buckle|buckles]] off the back of my stock, all the way.
 And Stanfield"--the painter--"got into such apoplectic entanglements
 that we were obliged to beat him on the back with portmanteaus before we
 could recover him."
@@ -261,9 +261,9 @@ him the centre and pivot of every society he was in. The keenness and
 vivacity of his eye combined with his inordinate appetite for life to
 give the unique quality to all that he wrote. His instrument is that of
 the direct, sinewy English of Smollett, combined with much of the
-humorous grace of Goldsmith (his two favourite authors), but modernized
-to a certain extent under the influence of Washington Irving, Sydney
-Smith, Jeffrey, Lamb, and other writers of the _London Magazine_. He
+humorous [[Grace|grace]] of Goldsmith (his two favourite authors), but modernized
+to a certain extent under the influence of Washington [[Irving]], Sydney
+Smith, [[Jeffrey]], [[Lamb]], and other writers of the _London Magazine_. He
 taught himself to speak French and Italian, but he could have read
 little in any language. His ideas were those of the inchoate and insular
 liberalism of the 'thirties. His unique force in literature he was to
@@ -277,9 +277,9 @@ revelation of a new world and one far better than their own. And his
 influence went further than this in the direction of revolution or
 revival. It gave what were then universally referred to as "the lower
 orders" a new sense of self-respect, a new feeling of citizenship. Like
-the defiance of another Luther, or the Declaration of a new
+the defiance of another Luther, or the [[Declaration]] of a new
 Independence, it emitted a fresh ray of hope across the firmament. He
-did for the whole English-speaking race what Burns had done for
+did for the whole English-speaking race what [[Burns]] had done for
 Scotland--he gave it a new conceit of itself. He knew what a people
 wanted and he told what he knew. He could do this better than anybody
 else because his mind was theirs. He shared many of their "great useless
@@ -293,18 +293,18 @@ also help us to make the necessary allowances for the man. Dickens, even
 the Dickens of legend that we know, is far from perfect. The Dickens of
 reality to which Time may furnish a nearer approximation is far less
 perfect. But when we consider the corroding influence of adulation, and
-the intoxication of unbridled success, we cannot but wonder at the
+the [[Intoxication|intoxication]] of unbridled success, we cannot but wonder at the
 relatively high level of moderation and self-control that Dickens almost
-invariably observed. Mr G. K. Chesterton remarks suggestively that
-Dickens had all his life the faults of the little boy who is kept up too
+invariably observed. Mr G. K. [[Chesterton]] remarks suggestively that
+Dickens had all his life the [[Fault|faults]] of the little boy who is kept up too
 late at night. He is overwrought by happiness to the verge of
 exasperation, and yet as a matter of fact he does keep on the right side
 of the breaking point. The specific and curative in his case was the
 work in which he took such anxious pride, and such unmitigated delight.
-He revelled in punctual and regular work; at his desk he was often in
+He revelled in punctual and regular work; at his [[Desk|desk]] he was often in
 the highest spirits. Behold how he pictured himself, one day at
-Broadstairs, where he was writing _Chuzzlewit_. "In a bay-window in a
-one-pair sits, from nine o'clock to one, a gentleman with rather long
+[[Broadstairs]], where he was writing _Chuzzlewit_. "In a bay-window in a
+one-pair sits, from nine o'clock to one, a [[Gentleman|gentleman]] with rather long
 hair and no neckcloth, who writes and grins, as if he thought he was
 very funny indeed. At one he disappears, presently emerges from a
 bathing-machine, and may be seen, a kind of salmon-colour porpoise,
@@ -313,8 +313,8 @@ bay-window on the ground-floor eating a strong lunch; and after that,
 walking a dozen miles or so, or lying on his back on the sand reading a
 book. Nobody bothers him, unless they know he is disposed to be talked
 to, and I am told he is very comfortable indeed. He's as brown as a
-berry, and they do say he is as good as a small fortune to the
-innkeeper, who sells beer and cold punch." Here is the secret of such
+[[Berry|berry]], and they do say he is as good as a small fortune to the
+innkeeper, who sells [[Beer|beer]] and cold punch." Here is the secret of such
 work as that of Dickens; it is done with delight--done (in a sense)
 easily, done with the mechanism of mind and body in splendid order. Even
 so did Scott write; though more rapidly and with less conscious care:
@@ -329,12 +329,12 @@ scenes of _Oliver Twist_, the story of a parish orphan, the nucleus of
 which had already seen the light in his _Sketches_. The early scenes are
 of a harrowing reality, despite the germ of forced pathos which the
 observant reader may detect in the pitiful parting between Oliver and
-little Dick; but what will strike every reader at once in this book is
+little [[Dick]]; but what will strike every reader at once in this book is
 the directness and power of the English style, so nervous and unadorned:
 from its unmistakable clearness and vigour Dickens was to travel far as
 time went on. But the full effect of the old simplicity is felt in such
 masterpieces of description as the drive of Oliver and Sikes to
-Chertsey, the condemned-cell ecstasy of Fagin, or the unforgettable
+[[Chertsey]], the condemned-cell [[Ecstasy|ecstasy]] of Fagin, or the unforgettable
 first encounter between Oliver and the Artful Dodger. Before November
 1837 had ended, Charles Dickens entered on an engagement to write a
 successor to _Pickwick_ on similar lines of publication. _Oliver Twist_
@@ -365,14 +365,14 @@ achieved in _The Old Curiosity Shop_ surpassed anything he had attempted
 in this difficult vein, while the rich humour of Dick Swiveller and the
 Marchioness, and the vivid portraiture of the wandering Bohemians,
 attain the very highest level of Dickensian drollery; but in the
-lamentable tale of Little Nell (though Landor and Jeffrey thought the
-character-drawing of this infant comparable with that of Cordelia), it
+lamentable tale of Little Nell (though [[Landor]] and Jeffrey thought the
+character-drawing of this [[Infant|infant]] comparable with that of Cordelia), it
 is generally admitted that he committed an indecent assault upon the
 emotions by exhibiting a veritable monster of piety and long-suffering
 in a child of tender years. In _Barnaby Rudge_ he was manifestly
 affected by the influence of Scott, whose achievements he always
 regarded with a touching veneration. The plot, again, is of the utmost
-complexity, and Edgar Allan Poe (who predicted the conclusion) must be
+complexity, and [[Edgar]] Allan Poe (who predicted the conclusion) must be
 one of the few persons who ever really mastered it. But few of Dickens's
 books are written in a more admirable style.
 
@@ -380,17 +380,17 @@ _Master Humphrey's Clock_ concluded, Dickens started in 1842 on his
 first visit to America--an episode hitherto without parallel in English
 literary history, for he was received everywhere with popular
 acclamation as the representative of a grand triumph of the English
-language and imagination, without regard to distinctions of nationality.
-He offended the American public grievously by a few words of frank
+language and [[Imagination|imagination]], without regard to distinctions of nationality.
+He offended the American public grievously by a few words of [[Frank|frank]]
 description and a few quotations of the advertisement columns of
 American papers illustrating the essential barbarity of the old slave
 system (_American Notes_). Dickens was soon pining for home--no English
 writer is more essentially and insularly English in inspiration and
 aspiration than he is. He still brooded over the perverseness of America
-on the copyright question, and in his next book he took the opportunity
+on the [[Copyright|copyright]] question, and in his next book he took the opportunity
 of uttering a few of his impressions about the objectionable sides of
 American democracy, the result being that "all Yankee-doodle-dom blazed
-up like one universal soda bottle," as Carlyle said. _Martin Chuzzlewit_
+up like one universal soda bottle," as Carlyle said. _[[Martin]] Chuzzlewit_
 (1843-1844) is important as closing his great character period. His
 _sève originale_, as the French would say, was by this time to a
 considerable extent exhausted, and he had to depend more upon artistic
@@ -403,10 +403,10 @@ his later career.
 
 After these two masterpieces and the three wonderful books with which he
 made his début, we are inclined to rank _Chuzzlewit_. Nothing in Dickens
-is more admirably seen and presented than Todgers's, a bit of London
-particular cut out with a knife. Mr Pecksniff and Mrs Gamp, Betsy Prig
-and "Mrs Harris" have passed into the national language and life. The
-coach journey, the windy autumn night, the stealthy trail of Jonas, the
+is more admirably seen and presented than Todgers's, a [[Bit|bit]] of London
+particular cut out with a [[Knife|knife]]. Mr Pecksniff and Mrs Gamp, Betsy Prig
+and "Mrs [[Harris]]" have passed into the national language and life. The
+coach journey, the windy autumn night, the stealthy trail of [[Jonas]], the
 undertone of tragedy in the Charity and Mercy and Chuffey episodes
 suggest a blending of imaginative vision and physical penetration hardly
 seen elsewhere. Two things are specially notable about this novel--the
@@ -414,20 +414,20 @@ exceptional care taken over it (as shown by the interlineations in the
 MS.) and the caprice or nonchalance of the purchasing public, its sales
 being far lower than those of any of its monthly predecessors.
 
-At the close of 1843, to pay outstanding debts of his now lavish
+At the close of 1843, to pay outstanding [[Debt|debts]] of his now lavish
 housekeeping, he wrote that pioneer of Christmas numbers, that national
-benefit as Thackeray called it, _A Christmas Carol_. It failed to
+benefit as Thackeray called it, _A Christmas [[Carol]]_. It failed to
 realize his pecuniary anticipations, and Dickens resolved upon a drastic
 policy of retrenchment and reform. He would save expense by living
 abroad and would punish his publishers by withdrawing his custom from
 them, at least for a time. Like everything else upon which he ever
 determined, this resolution was carried out with the greatest possible
-precision and despatch. In June 1844 he set out for Marseilles with his
+precision and despatch. In June 1844 he set out for [[Marseilles]] with his
 now rapidly increasing family (the journey cost him £200). In a villa on
-the outskirts of Genoa he wrote _The Chimes_, which, during a brief
+the outskirts of Genoa he wrote _The [[Chime|Chimes]]_, which, during a brief
 excursion to London before Christmas, he read to a select circle of
 friends (the germ of his subsequent lecture-audiences), including
-Forster, Carlyle, Stanfield, Dyce, Maclise and Jerrold. He was again in
+Forster, Carlyle, Stanfield, Dyce, [[Maclise]] and Jerrold. He was again in
 London in 1845, enjoying his favourite diversion of private theatricals;
 and in January 1846 he experimented briefly as the editor of a London
 morning paper--the _Daily News_. By early spring he was back at
@@ -436,11 +436,11 @@ usual for London streets, commencing _Dombey and Son_, and walking his
 fourteen miles daily. The success of _Dombey and Son_ completely
 rehabilitated the master's finances, enabled him to return to England,
 send his son to Eton and to begin to save money. Artistically it is less
-satisfactory; it contains some of Dickens's prime curios, such as
+satisfactory; it contains some of Dickens's prime [[Curio|curios]], such as
 Cuttle, Bunsby, Toots, Blimber, Pipchin, Mrs MacStinger and young Biler;
 it contains also that masterpiece of sentimentality which trembles upon
 the borderland of the sublime and the ridiculous, the death of Paul
-Dombey ("that sweet Paul," as Jeffrey, the "critic laureate," called
+Dombey ("that sweet Paul," as Jeffrey, the "critic [[Laureate|laureate]]," called
 him), and some grievous and unquestionable blemishes. As a narrative,
 moreover, it tails off into a highly complicated and exacting plot. It
 was followed by a long rest at Broadstairs before Dickens returned to
@@ -466,9 +466,9 @@ _Household Words_, which Dickens planned to form a direct means of
 communication between himself and his readers, and as a means of
 collecting around him and encouraging the talents of the younger
 generation. No one was better qualified than he for this work, whether
-we consider his complete freedom from literary jealousy or his magical
+we consider his complete freedom from literary [[Jealousy|jealousy]] or his magical
 gift of inspiring young authors. Following the somewhat dreary and
-incoherent _Bleak House_ of 1852, _Hard Times_ (1854)--an
+incoherent _[[Bleak]] House_ of 1852, _Hard Times_ (1854)--an
 anti-Manchester School tract, which Ruskin regarded as Dickens's best
 work--was the first long story written for _Household Words_. About this
 time Dickens made his final home at Gad's Hill, near Rochester, and put
@@ -503,8 +503,8 @@ to be a god indeed, says Mr Swinburne, among the creators of deathless
 men. Pumblechook is actually better and droller and truer to imaginative
 life than Pecksniff; Joe Gargery is worthy to have been praised and
 loved at once by Fielding and by Sterne: Mr Jaggers and his clients, Mr
-Wemmick and his parent and his bride, are such figures as Shakespeare,
-when dropping out of poetry, might have created, if his lot had been
+Wemmick and his parent and his [[Bride|bride]], are such figures as Shakespeare,
+when dropping out of poetry, might have created, if his [[Lot|lot]] had been
 cast in a later century. "Can as much be said," Mr Swinburne boldly
 asks, "for the creatures of any other man or god?"
 
@@ -512,7 +512,7 @@ In November 1867 Dickens made a second expedition to America, leaving
 all the writing that he was ever to complete behind him. He was to make
 a round sum of money, enough to free him from all embarrassments, by a
 long series of exhausting readings, commencing at the Tremont Temple,
-Boston, on the 2nd of December. The strain of Dickens's ordinary life
+[[Boston]], on the 2nd of December. The strain of Dickens's ordinary life
 was so tense and so continuous that it is, perhaps, rash to assume that
 he broke down eventually under this particular stress; for other
 reasons, however, his persistence in these readings, subsequent to his
@@ -526,7 +526,7 @@ St James's Hall. He then vanished from "those garish lights," as he
 called them, "for evermore." Of the three brief months that remained to
 him, his last book, _The Mystery of Edwin Drood_, was the chief
 occupation. It hardly promised to become a masterpiece (Longfellow's
-opinion) as did Thackeray's _Denis Duval_, but contained much fine
+opinion) as did Thackeray's _Denis [[Duval]]_, but contained much fine
 descriptive technique, grouped round a scene of which Dickens had an
 unrivalled sympathetic knowledge.
 
@@ -538,17 +538,17 @@ in the Highlands_ with the inscription "From one of the humblest of
 authors to one of the greatest"; and who now begged him on his
 persistent refusal of any other title to accept the nominal distinction
 of a privy councillor. He took for four months the Milner Gibsons' house
-at 5 Hyde Park Place, opposite the Marble Arch, where he gave a
+at 5 [[Hyde Park]] Place, opposite the [[Marble]] [[Arch]], where he gave a
 brilliant reception on the 7th of April. His last public appearance was
 made at the Royal Academy banquet early in May. He returned to his
 regular methodical routine of work at Gad's Hill on the 30th of May, and
-one of the last instalments he wrote of _Edwin Drood_ contained an
+one of the last [[Instalment|instalments]] he wrote of _Edwin Drood_ contained an
 ominous speculation as to the next two people to die at Cloisterham:
 "Curious to make a guess at the two, or say at one of the two." Two
 letters bearing the well-known superscription "Gad's Hill Place, Higham
 by Rochester, Kent" are dated the 8th of June, and, on the same
 Thursday, after a long spell of writing in the Châlet where he
-habitually wrote, he collapsed suddenly at dinner. Startled by the
+habitually wrote, he collapsed suddenly at [[Dinner|dinner]]. Startled by the
 sudden change in the colour and expression of his face, his
 sister-in-law (Miss Hogarth) asked him if he was ill; he said "Yes, very
 ill," but added that he would finish dinner and go on afterwards to
@@ -557,7 +557,7 @@ said, very distinctly; these were the last words he spoke, and he slid
 from her arms and fell upon the floor. He died at 6-10 P.M. on Friday,
 the 9th of June, and was buried privately in Poets' Corner, Westminster
 Abbey, in the early morning of the 14th of June. One of the most
-appealing memorials was the drawing by his "new illustrator" Luke Fildes
+appealing memorials was the drawing by his "new illustrator" [[Luke]] [[Fildes]]
 in the _Graphic_ of "The Empty Chair; Gad's Hill: ninth of June, 1870."
 "Statesmen, men of science, philanthropists, the acknowledged
 benefactors of their race, might pass away, and yet not leave the void
@@ -568,22 +568,22 @@ this proud provision, "I rest my claim to the remembrance of my country
 on my published works."
 
 Dickens had no artistic ideals worth speaking about. The sympathy of his
-readers was the one thing he cared about and, like Cobbett, he went
+readers was the one thing he cared about and, like [[Cobbett]], he went
 straight for it through the avenue of the emotions. In personality,
 intensity and range of creative genius he can hardly be said to have any
 modern rival. His creations live, move and have their being about us
-constantly, like those of Homer, Virgil, Chaucer, Rabelais, Cervantes,
+constantly, like those of [[Homer]], Virgil, [[Chaucer]], Rabelais, Cervantes,
 Shakespeare, Bunyan, Molière and Sir Walter Scott. As to the books
 themselves, the backgrounds on which these mighty figures are projected,
 they are manifestly too vast, too chaotic and too unequal ever to become
 classics. Like most of the novels constructed upon the unreformed model
 of Smollett and Fielding, those of Dickens are enormous stock-pots into
 which the author casts every kind of autobiographical experience,
-emotion, pleasantry, anecdote, adage or apophthegm. The fusion is
+emotion, pleasantry, anecdote, adage or apophthegm. The [[Fusion|fusion]] is
 necessarily very incomplete and the hotch-potch is bound to fall to
 pieces with time. Dickens's plots, it must be admitted, are strangely
 unintelligible, the repetitions and stylistic decorations of his work
-exceed all bounds, the form is unmanageable and insignificant. The
+exceed all [[Bounds|bounds]], the form is unmanageable and insignificant. The
 diffuseness of the English novel, in short, and its extravagant
 didacticism cannot fail to be most prejudicial to its perpetuation. In
 these circumstances there is very little fiction that will stand
@@ -602,28 +602,28 @@ As regards formal excellence it is plain that Dickens labours under the
 double disadvantage of writing in the least disciplined of all literary
 genres in the most lawless literary milieu of the modern world, that of
 Victorian England. In spite of these defects, which are those of masters
-such as Rabelais, Hugo and Tolstoy, the work of Dickens is more and more
+such as Rabelais, [[Hugo]] and Tolstoy, the work of Dickens is more and more
 instinctively felt to be true, original and ennobling. It is already
 beginning to undergo a process of automatic sifting, segregation and
 crystallization, at the conclusion of which it will probably occupy a
 larger segment in the literary consciousness of the English-spoken race
 than ever before.
 
-Portraits of Dickens, from the gay and alert "Boz" of Samuel Lawrence,
+Portraits of Dickens, from the gay and alert "Boz" of Samuel [[Lawrence]],
 and the self-conscious, rather foppish portrait by Maclise which served
-as frontispiece to _Nicholas Nickleby_, to the sketch of him as Bobadil
-by C. R. Leslie, the Drummond and Ary Scheffer portraits of middle age
+as [[Frontispiece|frontispiece]] to _Nicholas Nickleby_, to the sketch of him as Bobadil
+by C. R. [[Leslie]], the [[Drummond]] and Ary Scheffer portraits of middle age
 and the haggard and drawn representations of him from photographs after
 his shattering experiences as a public entertainer from 1856 (the year
 of his separation from his wife) onwards, are reproduced in Kitton, in
 Forster and Gissing and in the other biographies. Sketches are also
 given in most of the books of his successive dwelling places at Ordnance
 Terrace and 18 St Mary's Place, Chatham; Bayham Street, Camden Town; 15
-Furnival's Inn; 48 Doughty Street; 1 Devonshire Terrace, Regent's Park;
-Tavistock House, Tavistock Square; and Gad's Hill Place. The manuscripts
+Furnival's Inn; 48 Doughty Street; 1 [[Devonshire]] Terrace, Regent's Park;
+Tavistock House, Tavistock Square; and Gad's Hill Place. The [[Manuscript|manuscripts]]
 of all the novels, with the exception of the _Tale of Two Cities_ and
 _Edwin Drood_, were given to Forster, and are now preserved in the Dyce
-and Forster Museum at South Kensington. The work of Dickens was a prize
+and Forster Museum at South [[Kensington]]. The work of Dickens was a prize
 for which publishers naturally contended both before and after his
 death. The first collective edition of his works was begun in April
 1847, and their number is now very great. The most complete is still
@@ -632,7 +632,7 @@ others of special interest are the Harrap edition, originally edited by
 F. G. Kitton; Macmillan's edition with original illustrations and
 introduction by Charles Dickens the younger; and the edition in the
 World's Classics with introductions by G.K. Chesterton. Of the
-translations the best known is that done into French by Lorain, Pichot
+translations the best known is that done into French by [[Lorain]], Pichot
 and others, with B.H. Gausseron's excellent _Pages Choisies_ (1903).
 
   BIBLIOGRAPHY.--During his lifetime Dickens's biographer was clearly
@@ -640,7 +640,7 @@ and others, with B.H. Gausseron's excellent _Pages Choisies_ (1903).
   known the novelist intimately since the days of his first triumph with
   _Pickwick_, who had constituted himself a veritable encyclopaedia of
   information about Dickens, and had clung to his subject (in spite of
-  many rebuffs which his peremptory temper found it hard to digest) as
+  many rebuffs which his peremptory temper found it hard to [[Digest|digest]]) as
   tightly as ever Boswell had enveloped Johnson. Two volumes of
   Forster's _Life of Charles Dickens_ appeared in 1872 and a third in
   1874. He relied much on Dickens's letters to himself and produced what
@@ -685,12 +685,12 @@ and others, with B.H. Gausseron's excellent _Pages Choisies_ (1903).
   Friends_ (1904 and 1909); B. W. Matz, _Story of Dickens's Life and
   Work_ (1904), and review of solutions to _Edwin Drood_ in _The
   Bookman_ for March 1908; the recollections of Edmund Yates, Trollope,
-  James Payn, Lehmann, R. H. Horne, Lockwood and many others. _The
+  James Payn, Lehmann, R. H. [[Horne]], Lockwood and many others. _The
   Dickensian_, a magazine devoted to Dickensian subjects, was started in
   1905; it is the organ of the Dickens Fellowship, and in a sense of the
   Boz Club. _A Dickens Dictionary_ (by G. A. Pierce) appeared in 1872
   and 1878; another (by A. J. Philip) in 1909; and a _Dickens
-  Concordance_ by Mary Williams in 1907.     (T. SE.)
+  [[Concordance]]_ by Mary Williams in 1907.     (T. SE.)
 
 ## References
 

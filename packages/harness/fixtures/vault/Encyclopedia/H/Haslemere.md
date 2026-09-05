@@ -21,7 +21,7 @@ invigorating air has combined with scenic attraction to make the
 district a favourite place of residence. Professor Tyndall built a house
 on the top of Hindhead, setting an example followed by many others. On
 Blackdown, closely screened by plantations, is Aldworth, built for
-Alfred, Lord Tennyson, who died here in 1892. George Eliot stayed for a
+Alfred, Lord Tennyson, who died here in 1892. George [[Eliot]] stayed for a
 considerable period at Shottermill, a neighbouring village. Pop. of
 Haslemere (1901), 2614; of Hindhead, 666.
 

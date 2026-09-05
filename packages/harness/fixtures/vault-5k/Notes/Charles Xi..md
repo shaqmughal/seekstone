@@ -19,7 +19,7 @@ upright and God-fearing; if he had neglected his studies it was to
 devote himself to manly sports and exercises; and in the pursuit of his
 favourite pastime, bear-hunting, he had already given proofs of the most
 splendid courage. It was the general disaster produced by the
-speculative policy of his former guardians which first called forth his
+speculative policy of his former [[Guardian|guardians]] which first called forth his
 sterling qualities and hardened him into a premature manhood. With
 indefatigable energy he at once attempted to grapple with the
 difficulties of the situation, waging an almost desperate struggle with
@@ -72,11 +72,11 @@ new order of things which, in its essential features, has endured to the
 present day.
 
   See Martin Veibull, _Sveriges Storhedstid_ (Stockholm, 1881);
-  Frederick Ferdinand Carlson, _Sveriges Historia under Konungarne af
+  Frederick [[Ferdinand]] Carlson, _Sveriges Historia under Konungarne af
   Pfalziska Huset_ (Stockholm, 1883-1885); Robert Nisbet Bain,
   _Scandinavia_ (Cambridge, 1905); O. Sjogren, _Karl den Elfte och
-  Svenska Folket_ (Stockholm, 1897); S. Jacobsen, _Den nordiske Kriegs
-  Kronicke, 1675-1679_ (Copenhagen, 1897); J.A. de Mesmes d'Avaux,
+  Svenska Folket_ (Stockholm, 1897); S. [[Jacobsen]], _Den nordiske Kriegs
+  Kronicke, 1675-1679_ ([[Copenhagen]], 1897); J.A. de Mesmes d'Avaux,
   _Negociations du comte d'Avaux, 1693, 1697, 1698_ (Utrecht, 1882,
   &c.).     (R. N. B.)
 

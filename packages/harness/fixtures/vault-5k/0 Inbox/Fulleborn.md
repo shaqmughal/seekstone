@@ -9,7 +9,7 @@ topic: politics
 FULLEBORN, GEORG GUSTAV (1769-1803), German philosopher, philologist and
 miscellaneous writer, was born at Glogau, Silesia, on the 2nd of March
 1769, and died at Breslau on the 6th of February 1803. He was educated
-at the University of Halle, and was made doctor of philosophy in
+at the University of [[Halle]], and was made doctor of philosophy in
 recognition of his thesis _De Xenophane, Zenone et Gorgia_. He took
 diaconal orders in 1791, but almost immediately became professor of
 classics at Breslau. His philosophical works include annotations to
@@ -23,7 +23,7 @@ der Rhetorik_ (1802); and an annotated edition of the _Satires_ of
 Persius. Under the pseudonym "Edelwald Justus" he published several
 collections of popular tales--_Bunte Blatter_ (1795); _Kleine Schriften
 zur Unterhaltung_ (1798); _Nebenstunden_ (1799). After his death were
-published _Taschenbuch fur Brunnengaste_ (1806) and _Kanzelreden_
+published _Taschenbuch [[Fur|fur]] Brunnengaste_ (1806) and _Kanzelreden_
 (1807). He was a frequent contributor to the press, where his writings
 were very popular.
 

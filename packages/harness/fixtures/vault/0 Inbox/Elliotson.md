@@ -30,7 +30,7 @@ Physiologicae_ (1817); _Cases of the Hydrocyanic or Prussic Acid_
 Practice of Medicine_ (1839); _Human Physiology_ (1840); and _Surgical
 Operations in the Mesmeric State without Pain_ (1843). He was the author
 of numerous papers in the _Transactions_ of the Medico-Chirurgical
-Society, of which he was at one time president; and he was also a fellow
+Society, of which he was at one time president; and he was also a [[Fellow|fellow]]
 both of the Royal College of Physicians and Royal Society, and founder
 and president of the Phrenological Society. W.M. Thackeray's _Pendennis_
 was dedicated to him.

@@ -1,6 +1,6 @@
 # Bahia Blanca
 
-BAHIA BLANCA, a city and port of Argentina, on the Naposta river, 3 m. from
+BAHIA BLANCA, a city and port of [[Argentina]], on the Naposta river, 3 m. from
 its outlet into a deep, well-sheltered bay of the same name. Pop. (est.
 1903) 11,600. It is situated in the extreme southern part of the province
 of Buenos Aires and is 447 m. by rail S.W. of the national capital. The
@@ -24,7 +24,7 @@ the city is low and swampy, its water is brackish, and it has been
 decidedly unhealthy; but a water supply from the Sauce Grande, 50 m.
 distant, was projected in 1906, and this, with better drainage and street
 paving, was expected to improve matters. The mean annual temperature is
-60°, and the average annual rainfall is 19 in. The city has street cars,
+60°, and the average annual rainfall is 19 in. The city has street [[Car|cars]],
 electric-lights and telephone service, and the port has a shipping pier
 1640 ft. long, with spacious warehouses and several miles of railway
 sidings.

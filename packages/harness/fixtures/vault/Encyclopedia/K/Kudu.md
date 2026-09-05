@@ -7,8 +7,8 @@ type: source
 
 # Kudu
 
-KUDU (_koodoo_), the native name for a large species of African antelope
-(q.v.), with large corkscrew-like horns in the male, and the body marked
+KUDU (_koodoo_), the native name for a large species of African [[Antelope|antelope]]
+(q.v.), with large corkscrew-like [[Horn|horns]] in the male, and the body marked
 with narrow vertical white lines in both sexes. The female is hornless.
 _Strepsiceros capensis_ (or _S. strepsiceros_) is the scientific name of
 the true kudu, which ranges from the Cape to Somaliland; but there is

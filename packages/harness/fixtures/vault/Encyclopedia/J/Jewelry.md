@@ -3,25 +3,25 @@
 JEWELRY (O. Fr. _jouel_, Fr. _joyau_, perhaps from _joie_, joy; Lat.
 _gaudium_; retranslated into Low Lat. _jocale_, a toy, from _jocus_, by
 misapprehension of the origin of the word), a collective term for
-jewels, or the art connected with them--jewels being personal ornaments,
+[[Jewel|jewels]], or the art connected with them--jewels being personal ornaments,
 usually made of gems, precious stones, &c., with a setting of precious
 metal; in a restricted sense it is also common to speak of a gem-stone
 itself as a jewel, when utilized in this way. Personal ornaments appear
 to have been among the very first objects on which the invention and
 ingenuity of man were exercised; and there is no record of any people so
 rude as not to employ some kind of personal decoration. Natural objects,
-such as small shells, dried berries, small perforated stones, feathers
-of variegated colours, were combined by stringing or tying together to
-ornament the head, neck, arms and legs, the fingers, and even the toes,
-whilst the cartilages of the nose and ears were frequently perforated
+such as small shells, dried berries, small perforated stones, [[Feather|feathers]]
+of variegated [[Colours|colours]], were combined by stringing or tying together to
+ornament the head, neck, arms and [[Leg|legs]], the [[Finger|fingers]], and even the toes,
+whilst the cartilages of the nose and [[Ear|ears]] were frequently perforated
 for the more ready suspension of suitable ornaments.
 
 Amongst modern Oriental nations we find almost every kind of personal
-decoration, from the simple caste mark on the forehead of the Hindu to
+decoration, from the simple [[Caste|caste]] mark on the forehead of the Hindu to
 the gorgeous examples of beaten gold and silver work of the various
 cities and provinces of India. Nor are such decorations mere ornaments
 without use or meaning. The hook with its corresponding perforation or
-eye, the clasp, the buckle, the button, grew step by step into a special
+eye, the clasp, the [[Buckle|buckle]], the button, grew step by step into a special
 ornament, according to the rank, means, taste and wants of the wearer,
 or became an evidence of the dignity of office. Nor was the jewel deemed
 to have served its purpose with the death of its owner, for it is to the
@@ -47,10 +47,10 @@ Khnumit.
   decorative instinct and sobriety in design, and by the serviceable
   nature of the jewels for actual wear. All forms of work are
   represented--including chiselling, soldering, inlaying with coloured
-  stones, moulding and working with twisted wires and filigree. Here
+  stones, moulding and working with twisted wires and [[Filigree|filigree]]. Here
   also occurs the earliest instance of granulated work, with small
   grains of gold, soldered on a flat surface (fig. 1). The principal
-  items in this dazzling group are the following: Three gold pectorals
+  [[Item|items]] in this dazzling group are the following: Three gold pectorals
   (fig. 2 and Plate I. figs. 35, 36) worked _à jour_ (with the
   interstices left open); on the front side they are inlaid with
   coloured stones, the fine _cloisons_ being the only portion of the
@@ -60,7 +60,7 @@ Khnumit.
   (fig. 32) is of a formal design, of gold, inlaid (the plume, Plate I.
   fig 33, was attached to it); the other (fig. 34) has a multitude of
   star-like flowers, embodied in a filigree of daintily twisted wires. A
-  dagger with inlaid patterns on the handle shows extraordinary
+  [[Dagger|dagger]] with inlaid patterns on the handle shows extraordinary
   perfection of finish.
 
 [Illustration: FIG. 2.]
@@ -84,7 +84,7 @@ are all present, and the handicraft is complete in every respect.
 
   A diadem of gold and enamel, found at the back of the head of the
   mummy of the queen (fig. 3), was fixed in the back hair, showing the
-  cartouche in front. The box holding this cartouche has on the upper
+  [[Cartouche|cartouche]] in front. The [[Box|box]] holding this cartouche has on the upper
   surface the titles of the king, "the son of the sun, Aahmes, living
   for ever and ever," in gold on a ground of lapis lazuli, with a
   chequered ornament in blue and red pastes, and a sphinx couchant on
@@ -112,7 +112,7 @@ permission of the Society of Antiquaries of London.]
 That the Assyrians used personal decorations of a very distinct
 character, and no doubt made of precious materials, is proved by the
 bas-reliefs from which a considerable collection of jewels could be
-gathered, such as bracelets, ear-rings and necklaces. Thus, for example,
+gathered, such as bracelets, [[Ear-Ring|ear-rings]] and necklaces. Thus, for example,
 in the British Museum we have representations of Assur-nazir-pal, king
 of Assyria (c. 885-860 B.C.), wearing a cross (fig. 8) very similar to
 the Maltese cross of modern times. It happens, however, that the
@@ -120,13 +120,13 @@ excavations have not hitherto been fertile in actual remains of gold
 work from Assyria. Chance also has so far ordained that the excavations
 in Crete should not be particularly rich in ornaments of gold. A few
 isolated objects have been found, such as a duck and other pendants, and
-also several necklaces with beads of the Argonaut shell-fish pattern.
+also several necklaces with [[Bead|beads]] of the Argonaut shell-fish pattern.
 More striking than these is a short bronze sword. The handle has an
 agate pommel, and is covered with gold plates, engraved with spirited
 scenes of lions and wild goats (fig. 9, A. J. Evans in _Archaeologia_,
 59, 447). In general, however, the gold jewelry of the later Minoan
 periods is more brilliantly represented by the finds made on the
-mainland of Greece and at Enkomi in Cyprus. Among the former the gold
+mainland of Greece and at Enkomi in [[Cyprus]]. Among the former the gold
 ornaments found by Heinrich Schliemann in the graves of Mycenae are
 pre-eminent.
 
@@ -141,30 +141,30 @@ pre-eminent.
   The objects found ranged over most of the personal ornaments still in
   use; necklaces with gold beads and pendants, butterflies (fig. 10),
   cuttlefish (fig. 11), single and concentric circles, rosettes and
-  leafage, with perforations for attachment to clothing, crosses and
+  leafage, with perforations for [[Attachment|attachment]] to clothing, crosses and
   stars formed of combined crosses, with crosses in the centre forming
   spikes--all elaborately ornamented in detail. The spiral forms an
   incessant decoration from its facile production and repetition by
-  means of twisted gold wire. Grasshoppers or tree crickets in gold
+  means of twisted gold wire. [[Grasshopper|Grasshoppers]] or tree crickets in gold
   repoussé suspended by chains and probably used for the decoration of
-  the hair, and a griffin (fig. 12), having the upper part of the body
-  of an eagle and the lower parts of a lion, with wings decorated with
+  the hair, and a [[Griffin|griffin]] (fig. 12), having the upper part of the body
+  of an [[Eagle|eagle]] and the lower parts of a lion, with wings decorated with
   spirals, are among the more remarkable examples of perforated
   ornaments for attachment to the clothing. There are also perforated
   ornaments belonging to necklaces, with intaglio engravings of such
-  subjects as a contest of a man and lion, and a duel of two warriors,
+  subjects as a contest of a man and lion, and a [[Duel|duel]] of two warriors,
   one of whom stabs his antagonist in the throat. There are also
   pinheads and brooches formed of two stags lying down (fig. 13), the
-  bodies and necks crossing each other, and the horns meeting
+  bodies and necks crossing each other, and the [[Horn|horns]] meeting
   symmetrically above the heads, forming a finial. The heads of these
-  ornaments were of gold, with silver blades or pointed pins inserted
+  ornaments were of gold, with silver [[Blades|blades]] or pointed pins inserted
   for use. The bodies of the two stags rest on fronds of the date-palm
   growing out of the stem which receives the pin. Another remarkable
-  series is composed of figures of women with doves. Some have one dove
+  series is composed of figures of women with [[Dove|doves]]. Some have one dove
   resting on the head; others have three doves, one on the head and the
   others resting on arms. The arms in both instances are extended to the
-  elbow, the hands being placed on the breasts. These ornaments are also
-  perforated, and were evidently sewed on the dresses, although there is
+  [[Elbow|elbow]], the hands being placed on the [[Breast|breasts]]. These ornaments are also
+  perforated, and were evidently sewed on the [[Dress|dresses]], although there is
   some evidence that an example with three doves has been fastened with
   a pin.
 
@@ -182,8 +182,8 @@ pre-eminent.
   [Illustration: FIG. 14.]
 
   The admirable inlaid daggers of the IVth grave at Mycenae are unique
-  in their kind, with their subjects of a lion hunt, of a lion chasing a
-  herd of antelopes, of running lions, of cats hunting wild duck, of
+  in their kind, with their subjects of a lion [[Hunt|hunt]], of a lion [[Chasing|chasing]] a
+  herd of [[Antelope|antelopes]], of running lions, of cats [[Hunting|hunting]] wild duck, of
   inlaid lilies, and of geometric patterns. The subjects are inlaid in
   gold of various tints, and silver, in bronze plates which are inserted
   in the flat surfaces of the dagger-blades. In part also the subjects
@@ -241,7 +241,7 @@ inherited by Greek art, such as the sphinx and the gryphon.
                            40). Later, the same general form is retained,
                            but decorative patterns (figs. 41, 46) take
                            the place of the bull's head.
-   "   42         "      Pin, probably connected by a chain with a fellow,
+   "   42         "      Pin, probably connected by a chain with a [[Fellow|fellow]],
                            to be used as a cloak fastening.
    "   43         "      Pomegranate pendant, with fine granulated work.
    "   44, 45     "      Pins as No. 42. The heads are of vitreous paste.
@@ -266,12 +266,12 @@ Mycenaean gold patterns.
                            grooves.
    "    52        "      Pendant ornament, repoussé, and originally
                            inlaid with pieces of cut glass-paste.
-   "    53        "      Pendant ornament, with dogs and apes, modified
+   "    53        "      Pendant ornament, with [[Dogs|dogs]] and [[Ape|apes]], modified
                            from Egyptian forms.
 
 For the beginnings of Greek art proper, the most striking series of
 personal jewels is the great deposit of ornaments which was found in
-1905 by D. G. Hogarth in the soil beneath the central basis of the
+1905 by D. G. [[Hogarth]] in the soil beneath the central basis of the
 archaic temple of Artemis of Ephesus. The gold ornaments in question
 (amounting in all to about 1000 pieces) were mingled with the closely
 packed earth, and must necessarily, it would seem, have been in the
@@ -282,12 +282,12 @@ Constantinople, but a portion was assigned to the British Museum, which
 had undertaken the excavations.
 
   Figs. 54-58 (Plate II.) Examples of the Ephesus hoard.
-   "      54       "      Electrum pin, with pomegranate head.
-   "      55       "      Hawk ornament.
+   "      54       "      [[Electrum]] pin, with pomegranate head.
+   "      55       "      [[Hawk]] ornament.
    "      56       "      Electrum pin.
    "      57, 58   "      Electrum ornaments for sewing on drapery.
 
-The cemeteries of Cyprus have yielded a rich harvest of jewelry of
+The cemeteries of Cyprus have yielded a rich [[Harvest|harvest]] of jewelry of
 Graeco-Phoenician style of the 7th and following centuries B.C. Figs. 16
 and 17 are typical examples of a ring and ear-ring from Cyprus.
 
@@ -299,7 +299,7 @@ Greek, Etruscan and Roman ornaments partake of very similar
 characteristics. Of course there is variety in design and sometimes in
 treatment, but it does not rise to any special individuality. Fretwork
 is a distinguishing feature of all, together with the wave ornament, the
-guilloche, and the occasional use of the human figure. The workmanship
+[[Guilloche|guilloche]], and the occasional use of the human figure. The workmanship
 is often of a character which modern gold-workers can only rival with
 their best skill, and can never surpass.
 
@@ -327,7 +327,7 @@ The Greek jewelry of the best period is of extraordinary delicacy and
 beauty. Fine examples are shown in the British Museum from Melos and
 elsewhere. Undoubtedly, however, the most brilliant collection of such
 ornaments is that of the Hermitage, which was derived from the tombs of
-Kerch and the Crimea. It contains examples of the purest Greek work,
+[[Kerch]] and the [[Crimea]]. It contains examples of the purest Greek work,
 together with objects which must have been of local origin, as is shown
 by the themes which the artist has chosen for his reliefs. Fig. 18
 illustrates the jewelry of the Hermitage (see also Ear-Ring).
@@ -350,7 +350,7 @@ The ear-rings (figs. 20, 21) are also characteristic.
                             Erotes.
    "    61        "       Small bracelet.
    "    62-63     "       Small gold reel with repoussé figures of Nereid
-                            with helmet of Achilles, and Eros. From
+                            with [[Helmet|helmet]] of Achilles, and [[Eros]]. From
                             Cameiros (Rhodes).
    "    64        "       Filigree ornament (ear-ring?) with Eros in
                             centre. From Syria.
@@ -358,7 +358,7 @@ The ear-rings (figs. 20, 21) are also characteristic.
                             Dionysos and filigree work. (Blacas coll.)
    "    66        "       Stud, with filigree work.
    "    67-68     "       Pair of ear-rings, of gold, with filigree and
-                            enamel, from Eretria.
+                            enamel, from [[Eretria]].
    "    69        "       Diadem, with filigree, and enamel scales, from
                             Tarquinii.
    "    70        "       Necklace pendants.
@@ -376,8 +376,8 @@ Exhibition of 1872 (see FILIGREE).
   Figs. 71-77 (Plate II.) are well-marked examples of Etruscan work, in
                             the British Museum.
    "    71        "       Pair of sirens, repoussé, forming a hook and
-                            eye fastening. From Chiusi (?).
-   "    72        "       Early fibula. Horse and chimaera. (Blacas
+                            eye fastening. From [[Chiusi]] (?).
+   "    72        "       Early fibula. Horse and [[Chimaera|chimaera]]. (Blacas
                             coll.)
    "    74        "       Medallion-shaped fibula, of fine granulated
                             work, with figures of sirens in relief, and
@@ -388,7 +388,7 @@ Exhibition of 1872 (see FILIGREE).
 
 The jewels of the Roman empire are marked by a greater use of large cut
 stones in combination with the gold, and by larger surfaces of plain and
-undecorated metal. The adaptation of imperial gold coins to the purposes
+undecorated metal. The adaptation of imperial gold [[Coin|coins]] to the purposes
 of the jeweller is also not uncommon.
 
   Figs. 78-82 (Plate II.) Late Roman imperial jewelry, in the British
@@ -397,10 +397,10 @@ of the jeweller is also not uncommon.
                             pearls. From Tunis, 4th century.
    "    79        "       Pierced-work pendant, set with a coin of the
                             emperor Philip.
-   "    80        "       Ear-ring, roughly set with garnets.
+   "    80        "       Ear-ring, roughly set with [[Garnet|garnets]].
    "    81        "       Bracelet, with a winged cornucopia as central
                             ornament, set with plasmas, and with
-                            filigree and leaf work.
+                            filigree and [[Leaf|leaf]] work.
    "    82        "       Bracelet, roughly set with pearls and stones.
                             From Tunis, 4th century.
 
@@ -443,7 +443,7 @@ plates of gold, decorated with thin slabs of garnet, set in walls of
 gold soldered vertically like the lines of cloisonné enamel, with the
 addition of very decorative details of filigree work, beading and
 twisted gold. The typical group are the contents of the tomb of King
-Childeric (A.D. 481) now in the Bibliothèque Nationale at Paris. In
+[[Childeric]] (A.D. 481) now in the Bibliothèque Nationale at Paris. In
 Figs. 22 and 23 we have examples of Anglo-Saxon fibulae, the first being
 decorated with a species of cloisonné, in which garnets are inserted,
 while the other is in hammered work in relief. A pendant (fig. 24) is
@@ -452,7 +452,7 @@ characteristic examples, and very elegant in design. A girdle ornament
 in gold, set with garnets (fig. 28), is an example of Carolingian design
 of a high class. Another remarkable group of barbaric jewelry, dated by
 coins as of the beginning of the 7th century, was excavated at Castel
-Trosino near the Picenian Ascoli, and is attributed to the Lombards. See
+Trosino near the Picenian [[Ascoli]], and is attributed to the [[Lombards]]. See
 _Monumenti antichi_ (_Accademia dei Lincei_), xii. 145.
 
 We turn now to the Celtic group of jewelled ornaments, which has an
@@ -468,7 +468,7 @@ central thickenings which give a quasi-naturalistic effect; a skilful
 use of inlaid enamels, and the chased line. After the introduction of
 Christianity, a continuous tradition combined the old system with the
 interlaced winding scrolls and other new forms of decoration, and so led
-up to the extreme complexity of early Irish illumination and metal work.
+up to the extreme complexity of early Irish [[Illumination|illumination]] and metal work.
 
 A remarkable group of gold ornaments of the pre-Christian time (probably
 of the 1st century) was discovered about 1896, in the north-west of
@@ -487,7 +487,7 @@ to the 13th century. They are generally massive and simple. Through the
 16th century a variety of changes arose; in the traditions and designs
 of the _cinquecento_ we have plenty of evidence that the workmen used
 their own designs, and the results culminated in the triumphs of Albert
-Dürer, Benvenuto Cellini and Hans Holbein. The goldsmiths of the Italian
+Dürer, Benvenuto [[Cellini]] and Hans [[Holbein]]. The goldsmiths of the Italian
 republics must have produced works of surpassing excellence in
 workmanship, and reaching the highest point in design as applied to
 handicrafts of any kind. The use of enamels, precious stones, niello
@@ -502,8 +502,8 @@ direction is not likely to approach, still less to rival.
   enamelled gold (a) is German work of the 16th century. The pendant
   reliquary (b), enamelled and jewelled, is of 16th century Italian
   work, and so probably is the jewel (c) of gold set with diamonds and
-  rubies. The Darnley or Lennox jewel (d), now in the possession of the
-  king, was made about 1576-1577 for Lady Margaret Douglas, countess of
+  rubies. The Darnley or [[Lennox]] jewel (d), now in the possession of the
+  king, was made about 1576-1577 for Lady [[Margaret]] Douglas, countess of
   Lennox, the mother of Henry Darnley. It is a pendant golden heart set
   with a heart-shaped sapphire, richly jewelled and enamelled with
   emblematic figures and devices. It also has Scottish mottoes around
@@ -519,7 +519,7 @@ direction is not likely to approach, still less to rival.
   bosses and ridged ornaments of crystal. The ear-ring (j) is French of
   17th century, also of gold open work set with crystals. A small
   pendant locket (k) is of rock crystal, with the cross of Santiago in
-  gold and translucent crimson enamel; it is 16th or 17th century
+  gold and translucent [[Crimson|crimson]] enamel; it is 16th or 17th century
   Spanish work. A pretty ear-ring of gold open scroll work (m), set with
   minute diamonds and three pendant pearls, is Portuguese of 17th
   century, and another ear-ring (n) of gold circular open work, set also
@@ -534,7 +534,7 @@ so well, but now simply living on traditional forms, often combined in a
 most incongruous fashion. Gorgeous effects were aimed at by massing the
 gold, and introducing stones elaborately cut in themselves or clustered
 in groups. Thus diamonds were clustered in rosettes and bouquets;
-rubies, pearls, emeralds and other coloured special stones were brought
+rubies, pearls, [[Emerald|emeralds]] and other coloured special stones were brought
 together for little other purpose than to get them into a given space in
 conjunction with a certain quantity of gold. The question was not of
 design in its relation to use as personal decoration, but of the value
@@ -544,7 +544,7 @@ effect.
 The traditions of Oriental design as they had come down through the
 various periods quoted, were comparatively lost in the wretched results
 of the _rococo_ of Louis XIV. and the inanities of what modern
-revivalists of the Anglo-Dutch call "Queen Anne." In the London
+revivalists of the Anglo-Dutch call "Queen [[Anne]]." In the London
 exhibition of 1851, the extravagances of modern jewelry had to stand
 comparison with the Oriental examples contributed from India. Since then
 we have learnt more about these works, and have been compelled to
@@ -553,7 +553,7 @@ workmanship, how completely the Oriental jeweller understood his work,
 and with what singular simplicity of method he carried it out. The
 combinations are always harmonious, the result aimed at is always
 achieved; and if in attempting to work to European ideas the jeweller
-failed, this was rather the fault of the forms he had to follow, than
+failed, this was rather the [[Fault|fault]] of the forms he had to follow, than
 due to any want of skill in making the most of a subject in which half
 the thought and the intended use were foreign to his experience.
 
@@ -564,7 +564,7 @@ ornaments of a wide range of peoples in Europe. This collection, and the
 additions made to it since its acquisition by the nation, show the forms
 in which these objects existed over several generations among the
 peasantry of France (chiefly Normandy), Spain, Portugal, Holland,
-Denmark, Germany and Switzerland, and also show how the forms popular in
+[[Denmark]], Germany and Switzerland, and also show how the forms popular in
 one country are followed and adopted in another, almost invariably
 because of their perfect adaptation to the purpose for which they were
 designed.
@@ -574,7 +574,7 @@ Apart from these humbler branches of the subject, in the middle of the
 not as a commercial and anonymous industry, was almost extinct. Its
 revival must be associated with the artistic movement which marked the
 close of that century, and which found emphatic expression in the Paris
-international exhibition of 1900. For many years before 1895 this
+[[International|international]] exhibition of 1900. For many years before 1895 this
 industry, though prosperous from the commercial point of view, and
 always remarkable from that of technical finish, remained stationary as
 an art. French jewelry rested on its reputation. The traditions were
@@ -582,15 +582,15 @@ maintained of either the 17th and 18th centuries or the style affected
 at the close of the second empire--light pierced work and design
 borrowed from natural flowers. The last type, introduced by Massin, had
 exercised, indeed, a revolutionary influence on the treatment of
-jewelry. This clever artist, not less skilful as a craftsman, produced a
-new _genre_ by copying the grace and lightness of living blossoms, thus
+jewelry. This [[Clever|clever]] artist, not less skilful as a craftsman, produced a
+new _genre_ by copying the [[Grace|grace]] and lightness of living blossoms, thus
 introducing a perfectly fresh element into the limited variety of
 traditional style, and by the use of filigree gold work altering its
 character and giving it greater elegance. Massin still held the first
 rank in the exhibition of 1878; he had a marked influence on his
 contemporaries, and his name will be remembered in the history of the
 goldsmith's art to designate a style and a period. Throughout these
-years the craft was exclusively devoted to perfection of workmanship.
+years the [[Craft|craft]] was exclusively devoted to perfection of workmanship.
 The utmost finish was aimed at in the mounting and setting of gems;
 jewelry was, in fact, not so much an art as a high-class industry;
 individual effort and purpose were absent.
@@ -616,12 +616,12 @@ exhibition of 1900. What specially stamps the works of Lalique is their
 striking originality. His work may be considered from the point of view
 of design and from that of execution. As an artist he has completely
 reconstructed from the foundation the scheme of design which had fed the
-poverty-stricken imagination of the last generation of goldsmiths. He
+poverty-stricken [[Imagination|imagination]] of the last generation of goldsmiths. He
 had recourse to the art of the past, but to the spirit rather than the
 letter, and to nature for many new elements of design--free double
 curves, suave or soft; opalescent harmonies of colouring; reminiscences,
 with quite a new feeling, of Egypt, Chaldea, Greece and the East, or of
-the art of the Renaissance; and infinite variety of floral forms even of
+the art of the Renaissance; and [[Infinite|infinite]] variety of floral forms even of
 the humblest. He introduces also the female nude in the form of sirens
 and sphinxes. As a craftsman he has effected a radical change, breaking
 through old routine, combining all the processes of the goldsmith, the
@@ -633,14 +633,14 @@ has any value beyond the characteristic expression he lends it as a
 means to his end. Thus, while he sometimes uses diamonds, rubies,
 sapphires or emeralds as a background, he will, on the other hand, give
 a conspicuous position to common stones--carnelian, agate, malachite,
-jasper, coral, and even materials of no intrinsic value, such as horn.
+[[Jasper|jasper]], [[Coral|coral]], and even materials of no intrinsic value, such as horn.
 One of his favourite stones is the opal, which lends itself to his
 arrangements of colour, and which has in consequence become a
 fashionable stone in French jewelry.
 
 In criticism of the art of Lalique and his school it should be observed
 that the works of the school are apt to be unsuited to the wear and tear
-of actual use, and inconveniently eccentric in their details. Moreover,
+of actual use, and inconveniently [[Eccentric|eccentric]] in their details. Moreover,
 the preciousness of the material is an almost inevitable consideration
 in the jeweller's craft, and cannot be set at naught by the artist
 without violating the canons of his art.
@@ -650,8 +650,8 @@ countries. In England the movement conveniently described as the "arts
 and crafts movement" affected the design of jewelry. A group of
 designers has aimed at purging the jeweller's craft of its character of
 mere gem-mounting in conventional forms (of which the more
-unimaginative, representing stars, bows, flowers and the like, are
-varied by such absurdities as insects, birds, animals, figures of men
+unimaginative, representing stars, [[Bow|bows]], flowers and the like, are
+varied by such absurdities as [[Insect|insects]], birds, animals, figures of men
 and objects made up simply of stones clustered together). Their work is
 often excellently and fancifully designed, but it lacks that exquisite
 perfection of execution achieved by the incomparable craftsmen of
@@ -664,7 +664,7 @@ and in the mayoral chain for Preston. Symbolism here enters into the
 design, which has not only an ornamental but a didactic purpose.
 
 The movement was represented in other countries also. In the United
-States it was led by L. C. Tiffany, in Belgium by Philippe Wolfers, who
+States it was led by L. C. Tiffany, in [[Belgium]] by Philippe Wolfers, who
 occupies in Belgium the position which in France is held by René
 Lalique. If his design is a little heavier, it is not less beautiful in
 imagination or less masterly in execution. Graceful, ingenious,
@@ -682,7 +682,7 @@ _Modern Jewelry._--So far we have gone over the progress and results of
 the jeweller's art. We have now to speak of the production of jewelry as
 a modern art industry, in which large numbers of men and women are
 employed in the larger cities of Europe. Paris, Vienna, London and
-Birmingham are the most important centres. An illustration of the
+[[Birmingham]] are the most important centres. An illustration of the
 manufacture as carried on in London and Birmingham will be sufficient to
 give an insight into the technique and artistic manipulation of this
 branch of art industry; but, by way of contrast, it may be interesting
@@ -716,11 +716,11 @@ It is impossible to find any date at which the systematic production of
 jewelry was introduced into England. Probably the Clerkenwell trade
 dates its origin from the revocation of the edict of Nantes, as the
 skilled artisans in the jewelry, clock and watch, and trinket trades
-appear to have been descendants of the emigrant Huguenots. The
+appear to have been descendants of the emigrant [[Huguenots]]. The
 Birmingham trade would appear to have had its origin in the skill to
 which the workers in fine steel had attained towards the middle and end
 of the 18th century, a branch of industry which collapsed after the
-French Revolution.
+[[French Revolution]].
 
   Modern jewelry may be classified under three heads: (1) objects in
   which gems and stones form the principal portions, and in which the
@@ -769,7 +769,7 @@ French Revolution.
   and then it is passed though the fire to anneal or soften it. In the
   case of elaborate examples of repoussé, after the general forms are
   beaten up, the interior is filled with a resinous compound, pitch
-  mixed with fire-brick dust; and this, forming a solid but pliable body
+  mixed with fire-brick [[Dust|dust]]; and this, forming a solid but pliable body
   underneath the metal, allows of the finished details being wrought out
   on the front of the design, and being finally completed by chasing.
   When stones are to be set, or when they form the principal portions of
@@ -788,7 +788,7 @@ French Revolution.
   (say) shall be set, in order that the light shall penetrate at the
   proper point to bring out the "spark" or "flash," is a subject of
   grave consideration to the setter. Stones set in a haphazard, slovenly
-  manner, however brilliant in themselves, will look commonplace by the
+  manner, however brilliant in themselves, will look [[Commonplace|commonplace]] by the
   side of skilfully set gems of much less fine quality and water.
   Enamelling (see ENAMEL) has of late years largely taken the place of
   "paste" or false stones.
@@ -820,7 +820,7 @@ French Revolution.
   gold coin of the realm is 22 carat; that is, it contains one-twelfth
   of alloy to harden it to stand wear and tear. Thus 18 carat gold has
   one-fourth of alloy, and so on with lower qualities down to 12, which
-  is in reality only gold by courtesy. It must be remembered that the
+  is in reality only gold by [[Courtesy|courtesy]]. It must be remembered that the
   alloys are made by weight, and as gold is nearly twice as heavy as the
   metal it is mixed with, it only forms a third of the bulk of a 12
   carat mixture.
@@ -836,7 +836,7 @@ French Revolution.
   metal the portion represented by each die. It is in these steel dies
   that the skill of the artist die-sinker is manifested. Brooches,
   ear-rings, pinheads, bracelets, lockets, pendants, &c., are struck out
-  by the gross. This is more especially the case in silver and in plated
+  by the [[Gross|gross]]. This is more especially the case in silver and in plated
   work--that is, imitation jewelry--the base of which is an alloy,
   afterwards gilt by electro-plating. With these ornaments imitation
   stones in paste and glass, pearls, &c., are used, and it is remarkable
@@ -850,7 +850,7 @@ French Revolution.
   whole class of plated goods.
 
   It is the retailer who, if he is unprincipled, takes advantage of the
-  ignorance of the buyer and sells for gold that which is in reality an
+  [[Ignorance|ignorance]] of the buyer and sells for gold that which is in reality an
   imitation, and which he bought as such. The imitations of old styles
   of jewelry which are largely sold in curiosity shops at foreign places
   of fashionable resort are said to be made in Germany, especially at
@@ -859,7 +859,7 @@ French Revolution.
   BIBLIOGRAPHY.--For the Dahshur jewels, see J. de Morgan and others;
   _Fouilles à Dahchour, Mars-Juin 1894_ (Vienna, 1895) and _Fouilles à
   Dahchour en 1894-1895_ (Vienna, 1903). For the Aah-hotep jewels, see
-  Mariette, _Album de Musée de Boulaq_, pls. 29-31; Birch, _Facsimiles
+  Mariette, _Album de Musée de Boulaq_, pls. 29-31; [[Birch]], _Facsimiles
   of the Egyptian Relics discovered in the Tomb of Queen Aah-hotep_
   (1863). For Cretan excavations, see A. J. Evans, in _Annual of the
   British School at Athens_, Nos. 7 to 11; _Archaeologia_, vol. lix. For
@@ -869,13 +869,13 @@ French Revolution.
   _Histoire de l'Art_, vi. For the Greek Island treasure, see A. J.
   Evans, _Journal of Hellenic Studies_, xiii. For Ephesus gold treasure,
   see D. G. Hogarth, _British Museum Excavations at Ephesus_; _The
-  Archaic Artemisia_. For the Hermitage Collection from South Russia,
-  see Gillé, _Antiquités du Bosphore Cimmérien_ (reissued by S.
+  Archaic [[Artemisia]]_. For the Hermitage Collection from South Russia,
+  see [[Gill]]é, _Antiquités du Bosphore Cimmérien_ (reissued by S.
   Reinach), and the _Comptes rendus_ of the Russian Archaeological
   Commission (St Petersburg). For later jewelry, Pollak,
   _Goldschmiedearbeit_. For Treasure of Pétrossa, A. Odobesco, _Le
   Trésor de Pétrossa_. For the European and west Asiatic barbaric
-  jewelry, see O. M. Dalton, in _Archaeologia_, lviii. 237, and the
+  jewelry, see O. M. [[Dalton]], in _Archaeologia_, lviii. 237, and the
   _Treasure of the Oxus_ (British Museum, 1905). For the whole history,
   G. Fontenay, _Les Bijoux anciens et modernes_ (Paris [Quantin], 1887).
   For the recent movement, Léonce Bénédite, "La Bijouterie et la

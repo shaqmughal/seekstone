@@ -22,17 +22,17 @@ and photographs were circulated far and wide to local police forces.
 Officers, police and prison wardens were despatched in person to give
 evidence of identity at distant courts. Mis-identification was by no
 means rare. Many remarkable cases may be quoted. One of the most notable
-was that of the Frenchman Lesurques, in the days of the Directory, who
-was positively identified as having robbed the Lyons mail and suffered
+was that of the Frenchman Lesurques, in the days of the [[Directory]], who
+was positively identified as having robbed the [[Lyons]] mail and suffered
 death, protesting his innocence of the crime, which was afterwards
-brought home to another man, Duboscq, and this terrible judicial error
+brought home to another man, Duboscq, and this terrible judicial [[Error|error]]
 proved to be the result of the extraordinary likeness between the two
 men. Another curious case is to be found in American records, when a man
-was indicted for bigamy as James Hoag, who averred that he was really
+was indicted for [[Bigamy|bigamy]] as James Hoag, who averred that he was really
 Thomas Parker. There was a marvellous conflict of testimony, even wives
 and families and personal friends being misled, and there was a narrow
 escape of mis-identification. The leading modern case in England is that
-of Adolf Beck (1905). Beck (who eventually died at the end of 1909) was
+of Adolf [[Beck]] (1905). Beck (who eventually died at the end of 1909) was
 arrested on the complaint of a number of women who positively swore to
 his identity as Smith, a man who had defrauded them. An ex-policeman who
 had originally arrested Smith also swore that Beck was the same man.
@@ -45,10 +45,10 @@ based on personal impressions is perhaps of all classes of evidence the
 least to be relied upon.
 
 Such elements of uncertainty cannot easily be eliminated from any system
-of jurisprudence, but some improvements in the methods of identification
+of [[Jurisprudence|jurisprudence]], but some improvements in the methods of identification
 have been introduced in recent years. The first was in the adoption of
 anthropometry (q.v.), which was invented by the French savant, A.
-Bertillon. The reasons that led to its general supersession may be
+[[Bertillon]]. The reasons that led to its general supersession may be
 summed up in its costliness, the demand for superior skill in
 subordinate agents and the liability to errors not easy to trace and
 correct. A still more potent reason remained, the comparative failure of
@@ -56,8 +56,8 @@ results. It was found in the first four years of its use in England and
 Wales that an almost inappreciable number of identifications were
 effected by the anthropometric system; namely, 152 in 1898, 243 in 1899,
 462 in 1900, and 503 in 1901, the year in which it was supplemented by
-the use of "finger prints" (q.v.). The figures soon increased by leaps
-and bounds. In 1902 the total number of searches among the records were
+the use of "[[Finger|finger]] prints" (q.v.). The figures soon increased by leaps
+and [[Bounds|bounds]]. In 1902 the total number of searches among the records were
 6826 and the identifications 1722 for London and the provinces; in 1903
 the searches were 11,919, the identifications 3642; for the first half
 of 1904 the searches were 6697 and the identifications 2335. In India
@@ -70,7 +70,7 @@ extending to Germany, Austria-Hungary and other parts of Europe.
 
 The record of finger prints in England and Wales is kept by the
 Metropolitan police at New Scotland Yard. They were at first limited to
-persons convicted at courts at quarter sessions and assizes and to all
+persons convicted at courts at quarter sessions and [[Assize|assizes]] and to all
 persons sentenced at minor courts to more than a month without option of
 fine for serious offences. The finger prints when taken by prison
 warders are forwarded to London for registration and reference on
@@ -84,10 +84,10 @@ Yard, their antecedents are established beyond all hesitation.
 In past times identification of criminals who had passed through the
 hands of the law was compassed by branding, imprinting by a hot iron, or
 tattooing with an indelible sign, such as a crown, fleur de lys or
-initials upon the shoulder or other part of the body. This practice,
+[[Initials|initials]] upon the shoulder or other part of the body. This practice,
 long since abandoned, was in a measure continued in the British army,
 when offenders against military law were ordered by sentence of
-court-martial to be marked with "D" for deserter and "B.C." bad
+[[Court-Martial|court-martial]] to be marked with "D" for deserter and "B.C." bad
 character; this ensured their recognition and prevented re-enlistment;
 but all such penalties have now disappeared.     (A. G.)
 

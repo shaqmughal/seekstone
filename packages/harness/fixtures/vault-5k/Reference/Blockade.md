@@ -13,10 +13,10 @@ besieged place. Even from the first, however, differences would begin to
 grow up in the conditions arising out of the operations on land and on
 sea. Thus whereas conveying merchandise across military lines would be a
 deliberate act of hostility against the investing force, a neutral ship
-which had sailed in ignorance of the blockade for the blockaded place
+which had sailed in [[Ignorance|ignorance]] of the blockade for the blockaded place
 might in good faith cross the blockade line without committing a hostile
 act against the investing force. With the development of recognition of
-neutral rights the involuntary character of the breach would be taken
+neutral rights the involuntary character of the [[Breach|breach]] would be taken
 into account, and notice to neutral states and to approaching vessels
 would come into use. With the employment in warfare of larger vessels in
 the place of the more numerous small ones of an earlier age, notice,
@@ -27,12 +27,12 @@ of belligerent tactics before the blockade could be actually carried
 out. Out of these circumstances grew up the abuse of "paper blockades."
 
 The climax was reached in the "Continental Blockade" decreed by Napoleon
-in 1806, which continued till it was abolished by international
+in 1806, which continued till it was abolished by [[International|international]]
 agreement in 1812. This blockade forbade all countries under French
 dominion or allied with France to have any communication with Great
 Britain. Great Britain replied in 1807 by a similar measure. The first
 nation to protest against these fictitious blockades was the United
-States. Already in 1800 John Marshall, secretary of state, wrote to the
+States. Already in 1800 John [[Marshall]], secretary of state, wrote to the
 American minister in Great Britain pointing out objections which have
 since been universally admitted. In the following interesting passage he
 said:--
@@ -60,7 +60,7 @@ said:--
   during such temporary absence the commerce to the neutrals to the
   place should be free."[1]
 
-  Again in 1803 James Madison wrote to the then American minister in
+  Again in 1803 James [[Madison]] wrote to the then American minister in
   London:--
 
   "The law of nations requires to constitute a blockade that there
@@ -99,15 +99,15 @@ Italy in 1902-1903.
 The points upon which controversy still arises are as to what
 constitutes an "effective" blockade and what a sufficient notice of
 blockade to warrant the penalties of violation, viz. confiscation of the
-ship and of the cargo unless the evidence demonstrates the innocence of
+ship and of the [[Cargo|cargo]] unless the evidence demonstrates the innocence of
 the cargo owners. A blockade to be effective must be maintained by a
 sufficient force to prevent the entrance of neutral vessels into the
 blockaded port or ports, and it must be duly proclaimed. Subject to
-these principles being complied with, "the question of the legitimacy
+these principles being complied with, "the question of the [[Legitimacy|legitimacy]]
 and effectiveness of a blockade is one of fact to be determined in each
 case upon the evidence presented" (Thomas F. Bayard, American secretary
 of state, to Messrs Kamer & Co., 19th of February 1889). The British
-manual of naval prize law sums up the cases in which a blockade, validly
+[[Manual|manual]] of naval prize law sums up the cases in which a blockade, validly
 instituted, ceases to be effectively maintained, as follows:--(1) If the
 blockading force abandons its position, unless the abandonment be merely
 temporary or caused by stress of weather, or (2) if it be driven away by
@@ -135,7 +135,7 @@ blockading officers in June 1898:--
   "Vessels appearing before a blockaded port, having sailed without
   notification, are entitled to actual notice by a blockading vessel.
   They should be boarded by an officer, who should enter in the ship's
-  log the fact of such notice, such entry to include the name of the
+  [[Log|log]] the fact of such notice, such entry to include the name of the
   blockading vessel giving notice, the extent of the blockade, the date
   and place, verified by his official signature. The vessel is then to
   be set free; and should she again attempt to enter the same or any
@@ -150,7 +150,7 @@ The passages in italics are not in accordance with the views held by
 other states, which do not recognize the binding character of a
 diplomatic notification or of constructive notice from notoriety.
 
-The subject was brought up at the second Hague Conference (1907). The
+The subject was brought up at the second [[Hague]] Conference (1907). The
 Italian and Mexican delegations submitted projects, but after a
 declaration by the British delegate in charge of the subject (Sir E.
 Satow) that blockade not having been included in the Russian programme,

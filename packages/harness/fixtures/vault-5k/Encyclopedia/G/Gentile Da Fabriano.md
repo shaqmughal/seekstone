@@ -9,9 +9,9 @@ tags: [anthropology-theory, metallurgy]
 # Gentile Da Fabriano
 
 GENTILE DA FABRIANO (c. 1370-c. 1450), Italian painter, was born at
-Fabriano about 1370. He is said to have been a pupil of Allegretto di
+[[Fabriano]] about 1370. He is said to have been a pupil of Allegretto di
 Nuzio, and has been supposed to have received most of his early
-instruction from Fra Angelico, to whose manner his bears in some
+instruction from Fra [[Angelico]], to whose manner his bears in some
 respects a close similarity. About 1411 he went to Venice, where by
 order of the doge and senate he was engaged to adorn the great hall of
 the ducal palace with frescoes from the life of Barbarossa. He executed

@@ -9,12 +9,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hazara"
 
 HAZARA, a district of British India, in the Peshawar division of the
 North-West Frontier Province, with an area of 3391 sq. m. It is bounded
-on the N. by the Black Mountain, the Swat country, Kohistan and Chilas;
+on the N. by the [[Black Mountain]], the Swat country, Kohistan and Chilas;
 on the E. by the native state of Kashmir; on the S. by Rawalpindi
 district; and on the W. by the river Indus. On the creation of the
 North-West Frontier Province in 1901 the district was reconstituted, the
-Tahsil of Attock being transferred to Rawalpindi. The district forms a
-wedge of territory extending far into the heart of the outer Himalayas,
+Tahsil of [[Attock]] being transferred to Rawalpindi. The district forms a
+wedge of territory extending far into the heart of the outer [[Himalaya|Himalayas]],
 and consisting of a long narrow valley, shut in on both sides by lofty
 mountains, whose peaks rise to a height of 17,000 ft. above sea level.
 Towards the centre of the district the vale of Kagan is bounded by
@@ -40,11 +40,11 @@ assert its independence, so that the utmost anarchy prevailed until
 Hazara attracted the attention of the rising Sikh monarchy. Ranjit Singh
 first obtained a footing here in 1818, and, after eight years of
 constant aggression, became master of the whole country. During the
-minority of the young maharaja Dhuleep Singh, the Sikh kingdom fell into
+minority of the young maharaja [[Dhuleep Singh]], the Sikh kingdom fell into
 a state of complete disorganization; the people seized the opportunity
 for recovering their independence, and rose in 1845 in rebellion. They
 stormed the Sikh forts, laid siege to Haripur, and drove the governor
-across the borders. After the first Sikh War it was proposed to transfer
+across the [[Borders|borders]]. After the first Sikh War it was proposed to transfer
 Hazara with Kashmir to Gulab Singh, but it remained under the Lahore
 government in charge of James Abbott, who pacified it in less than a
 year and held it single-handed throughout the troubles of the second
@@ -52,7 +52,7 @@ Sikh War. It was also undisturbed during the Mutiny. The population in
 1901 was 560,288, showing an increase of 8.52% in the decade. The
 headquarters are at Abbotabad; pop. (1901) 7764. Through the Kagan
 valley and over the Babusar pass at its head lies the most direct route
-from the Punjab to Chilas and Gilgit.
+from the Punjab to Chilas and [[Gilgit]].
 
 ## See also
 

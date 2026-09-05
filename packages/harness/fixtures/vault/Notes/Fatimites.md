@@ -14,10 +14,10 @@ Ali, son of Abu Talib, they claimed descent. The dynasty is also called
 title which it shares with other dynasties claiming the same ancestry.
 For a list of sovereigns see EGYPT, section _History_ (Mahommedan
 period); three, however, must be prefixed who reigned in north-western
-Africa before the annexation of Egypt: al-Mahdi 'Obaidallah 297 (909);
+Africa before the [[Annexation|annexation]] of Egypt: al-Mahdi 'Obaidallah 297 (909);
 al-Qa'im Mahommed 322 (934); al-Mansur Isma'il 334 (945).
 
-The dynasty owed its rise to the attachment to the family of the prophet
+The dynasty owed its rise to the [[Attachment|attachment]] to the family of the prophet
 which was widespread in the Moslem world, and the belief that the
 sovereignty was the right of one of its members. Owing, however, to the
 absence of the principle of primogeniture there was difference of
@@ -39,7 +39,7 @@ demonstrate the falsity of the claim, and a considerable literature,
 both official and unofficial, rose in consequence. The founder of the
 dynasty was made out to be a scion of a family of heretics from whom the
 terrible Carmathian sect had originated: later on (perhaps owing to the
-role played by Jacob, son of Killis, in bringing the Fatimites to
+role played by [[Jacob]], son of Killis, in bringing the Fatimites to
 Egypt), the founder was made out to have been a Jew, either as having
 been adopted by the heretic supposed to be his father, or as having been
 made to personate the real 'Obaidallah, who had been killed in
@@ -59,14 +59,14 @@ been on pilgrimage to the grave of Hosain (Husain). Such visitors
 received directions and orders such as are usual in secret societies.
 One of these agents, Abu Abdallah al-Hosain called al-Shi'i, said to
 have filled the office of censor (_muhtasib_) at Basra, received orders
-to carry on a mission in Arabia, and at Mecca is said to have made the
-acquaintance of some members of the Berber tribe Kutama, south of the
-bay of Bougie. These persons persuaded him to travel home with them in
+to carry on a mission in Arabia, and at [[Mecca]] is said to have made the
+acquaintance of some members of the [[Berber]] tribe Kutama, south of the
+bay of [[Bougie]]. These persons persuaded him to travel home with them in
 the character of teacher of the Koran, but according to some authorities
 the ground had already been prepared there for a political mission. He
 arrived in the Kutama country in June 893, and appears very soon to have
 been made chief, thereby exciting the suspicion of the Aghlabite ruler
-of Kairawan, Ibrahim b. Ahmad, which, however, was soon allayed. His
+of [[Kairawan]], Ibrahim b. Ahmad, which, however, was soon allayed. His
 success provoked a civil war among the Berbers, but he was protected by
 a chief named Hasan b. Harun, and displayed sufficient military ability
 to win respect. Nine years after his arrival he made use of the unrest
@@ -80,10 +80,10 @@ usurped the throne, and put to death.
 At some time after his first successes al-Shi'i sent a messenger
 (apparently his brother) to the head of his sect at Salamia, bidding him
 come to the Kutama country, and place himself at the head of affairs,
-since al-Shi'i's followers had been taught to pay homage to a Mahdi who
+since al-Shi'i's followers had been taught to pay [[Homage|homage]] to a Mahdi who
 would at some time be shown them. It is said that 'Obaidallah, who now
 held this post, was known to the court at Bagdad, and that on the news
-of his departure orders were sent to the governor of Egypt to arrest
+of his departure orders were sent to the governor of Egypt to [[Arrest|arrest]]
 him; but by skilful simulation 'Obaidallah succeeded in escaping this
 danger, and with his escort reached Tripoli safely. Instructions had by
 this time reached the Aghlabite Ziyadatallah to be on the watch for the
@@ -97,7 +97,7 @@ Ziyadatallah had sent a powerful army to oppose al-Shi'i, which, making
 Constantine its headquarters, had driven al-Shi'i into the mountains:
 after six months al-Shi'i secured an opportunity for attacking it, and
 won a complete victory. Early in 906 another army was sent to deal with
-al-Shi'i, and an earnest appeal came from the caliph Muqtafi (Moktafi),
+al-Shi'i, and an [[Earnest|earnest]] appeal came from the caliph Muqtafi (Moktafi),
 addressed to all the Moslems of Africa, to aid Ziyadatallah against the
 usurper. The operations of the Aghlabite prince were unproductive of any
 decided result, and by September 906 al-Shi'i had got possession of the
@@ -114,10 +114,10 @@ al-Shi'i's hands, and he was soon able to threaten Raqqada itself.
 
 By March 909 Raqqada had become untenable, and Ziyadatallah resolved to
 flee from his kingdom; taking with him his chief possessions, he made
-for Egypt, and thence to 'Irak: his final fate is uncertain. The cities
+for Egypt, and thence to '[[Irak]]: his final [[Fate|fate]] is uncertain. The cities
 Raqqada and Kairawan were immediately occupied by Al-Shi'i, who
 proceeded to send governors to the other places of importance in what
-had been the Aghlabite kingdom, and to strike new coins, which, however,
+had been the Aghlabite kingdom, and to strike new [[Coin|coins]], which, however,
 bore no sovereign's name. Orders were given that the Shi'ite
 peculiarities should be introduced into public worship.
 
@@ -127,7 +127,7 @@ governor of his own: he thence proceeded to Sijilmasa where 'Obaidallah
 lay imprisoned, with the intention of releasing him and placing him on
 the throne. After a brief attempt at resistance, the governor fled, and
 al-Shi'i entered the city, released 'Obaidallah and presented him to the
-army as the long-promised Imam. The day is given as the 26th of August
+army as the long-promised [[Imam]]. The day is given as the 26th of August
 909. 'Obaidallah had been in prison more than three years. Whether his
 identity with the Mahdi for whom al-Shi'i had been fighting was known to
 the governor of Sijilmasa is uncertain. If it was, the governor and his
@@ -135,10 +135,10 @@ master the Aghlabite sovereign might have been expected to make use of
 their knowledge and outwit al-Shi'i by putting his Mahdi to death.
 Opponents of the Fatimites assert that this was actually done, and that
 the Mahdi presented to the army was not the real 'Obaidallah, but (as
-usual) a Jewish captive, who had been suborned to play the role.
+usual) a Jewish [[Captive|captive]], who had been suborned to play the role.
 
 The chief command was now assumed by 'Obaidallah, who took the title
-"al-Mahdi, Commander of the Faithful," thereby claiming the headship of
+"al-Mahdi, [[Commander]] of the Faithful," thereby claiming the headship of
 the whole Moslem world: Raqqada was at the first made the seat of the
 court, and the Shi'ite doctrines were enforced on the inhabitants, not
 without encountering some opposition. Revolts which arose in different
@@ -154,7 +154,7 @@ organized a conspiracy with that end. The conspiracy was betrayed to
 procedure which had characterized the accession of the 'Abbasid dynasty
 was repeated. It has been conjectured that these assassinations lost the
 Fatimites the support of the organization that continued to exist in the
-East, whence the Carmathians figure as an independent and even hostile
+East, whence the [[Carmathians]] figure as an independent and even hostile
 community, though they appear to have been amenable to the influence of
 the African caliph.
 
@@ -169,15 +169,15 @@ to Raqqada. Other opponents were got rid of by 'Obaidallah by ruthless
 executions. By the middle of the year 913 by his own and his son's
 efforts he had brought his kingdom into order. After the style of most
 founders of dynasties he then selected a site for a new capital, to be
-called after his title Mahdia (q.v.), on a peninsula called Hamma (Cape
+called after his title [[Mahdia]] (q.v.), on a peninsula called Hamma (Cape
 Africa) S.S.E. of Kairawan. Eight years were spent in fortifying this
 place, which in 921 was made the capital of the empire.
 
 After defeating internal enemies 'Obaidallah turned his attention to the
 remaining 'Abbasid possessions in Africa, and his general Habasah b.
 Yusuf in the year 913 advanced along the northern coast, taking various
-places, including the important town of Barca, his progress, it is said,
-being marked by great cruelty. He then advanced towards Egypt, and
+places, including the important town of [[Barca]], his progress, it is said,
+being marked by great [[Cruelty|cruelty]]. He then advanced towards Egypt, and
 towards the end of July 914, being reinforced by Abu'l-Qasim, afterwards
 al-Qa'im, entered Alexandria. The danger led to measures of unusual
 energy being taken by the Bagdad caliph Moqtadir, an army being sent to
@@ -212,14 +212,14 @@ Abu'l-Qasim, who took the title al-Qa'im biamr allah. He immediately
 after his accession occupied himself with the reconquest of Fez and
 Nekor, which had revolted during the last years of the former caliph. He
 also despatched a fleet under Ya'qub b. Ishaq, which ravaged the coast
-of France, took Genoa, and plundered the coast of Calabria before
+of France, took Genoa, and plundered the coast of [[Calabria]] before
 returning to Africa. A third attempt made by him to take Egypt resulted
 in a disastrous defeat at Dhat al-Human, after which the remains of the
 expedition retreated in disorder to Barca.
 
 The later years of the reign of Qa'im were troubled by the uprising of
 Abu Yazid Makhlad al-Zenati, a leader who during the former reign had
-acquired a following among the tribes inhabiting the Jebel Aures,
+acquired a following among the tribes inhabiting the [[Jebel]] Aures,
 including adherents of the 'Ibadi sect. After having fled for a time to
 Mecca, this person returned in 937 to Tauzar (Touzer), the original seat
 of his operations, and was imprisoned by Qa'im's order. His sons, aided
@@ -227,7 +227,7 @@ by the powerful tribe Zenata, succeeded in forcing the prison, and
 releasing their father, who continued to organize a conspiracy on a vast
 scale, and by the end of 943 was strong enough to take the field against
 the Fatimite sovereign, whom he drove out of Kairawan. Abu Yazid
-proclaimed himself a champion of Sunni doctrine against the Shi'is, and
+proclaimed himself a [[Champion|champion]] of Sunni doctrine against the Shi'is, and
 ordered the legal system of Malik to be restored in place of that
 introduced by the Fatimites. Apparently the doctrines of the latter has
 as yet won little popularity, and Abu Yazid won an enormous following,
@@ -248,8 +248,8 @@ in Susa which he began to besiege, and attempted to take by storm.
 
 On the 18th of May 945, while Abu Yazid was besieging Susa, the caliph
 al-Qa'im died at Mahdia, and was succeeded by his son Isma'il, who took
-the title Mansur. He almost immediately relieved Susa by sending a
-fleet, which joining with the garrison inflicted a severe defeat on Abu
+the title [[Mansur]]. He almost immediately relieved Susa by sending a
+fleet, which joining with the [[Garrison|garrison]] inflicted a severe defeat on Abu
 Yazid, who had to evacuate Kairawan also; but though the cities were
 mainly in the hands of Fatimite prefects, Abu Yazid was able to maintain
 the field for more than two years longer, while his followers were
@@ -278,7 +278,7 @@ repudiated, and after a successful expedition advanced as far as the
 Atlantic. As early as 966 the plan of attempting a fresh invasion of
 Egypt was conceived, and preparations made for its execution; but it was
 delayed, it is said at the request of the caliph's mother, who wished to
-make a pilgrimage to Mecca first; and her honourable treatment by Kafur
+make a pilgrimage to Mecca first; and her [[Honourable|honourable]] treatment by Kafur
 when she passed through Egypt induced the caliph to postpone the
 invasion till that sovereign's death.
 

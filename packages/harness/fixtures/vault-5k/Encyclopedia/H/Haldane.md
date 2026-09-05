@@ -2,7 +2,7 @@
 
 HALDANE, JAMES ALEXANDER (1768-1851), Scottish divine, the younger son
 of Captain James Haldane of Airthrey House, Stirlingshire, was born at
-Dundee on the 14th of July 1768. Educated first at Dundee and afterwards
+[[Dundee]] on the 14th of July 1768. Educated first at Dundee and afterwards
 at the high school and university of Edinburgh, at the age of seventeen
 he joined the "Duke of Montrose" East Indiaman as a midshipman. After
 four voyages to India he was nominated to the command of the "Melville
@@ -29,13 +29,13 @@ Edinburgh. This was the first congregational church known by that name
 in Scotland. In 1801 a permanent building replaced the circus in which
 the congregation had at first met. To this church he continued to
 minister gratuitously for more than fifty years. In 1808 he made public
-avowal of his conversion to Baptist views. As advancing years compelled
+avowal of his [[Conversion|conversion]] to Baptist views. As advancing years compelled
 him to withdraw from the more exhausting labours of itineracy and
 open-air preaching, he sought more and more to influence the discussion
 of current religious and theological questions by means of the press. He
 died on the 8th of February 1851.
 
-His son, DANIEL RUTHERFORD HALDANE (1824-1887), by his second wife, a
+His son, [[Daniel|DANIEL]] RUTHERFORD HALDANE (1824-1887), by his second wife, a
 daughter of Professor Daniel Rutherford, was a prominent Scottish
 physician, who became president of the Edinburgh College of Physicians.
 
@@ -47,12 +47,12 @@ physician, who became president of the Edinburgh College of Physicians.
   Atonement of Jesus Christ_. His _Observations on Universal Pardon_,
   &c., was a contribution to the controversy regarding the views of
   Thomas Erskine of Linlathen and Campbell of Row; _Man's
-  Responsibility_ (1842) is a reply to Howard Hinton on the nature and
+  Responsibility_ (1842) is a reply to [[Howard]] Hinton on the nature and
   extent of the Atonement. He also published: _Journal of a Tour in the
   North_; _Early Instruction Commended_ (1801); _Views of the Social
   Worship of the First Churches_ (1805); _The Doctrine and Duty of
   Self-Examination_ (1806); _The Doctrine of the Atonement_ (1845);
-  _Exposition of the Epistle to the Galatians_ (1848).
+  _Exposition of the [[Epistle]] to the Galatians_ (1848).
 
 ## See also
 

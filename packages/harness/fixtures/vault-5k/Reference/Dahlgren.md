@@ -28,7 +28,7 @@ he was qualified to keep the post by special act of Congress. He became
 post-captain in 1862 and rear-admiral in 1863. He commanded the
 Washington navy yard when he died on the 12th of July 1870.
 
-  A memoir of Admiral Dahlgren by his widow was published at Boston in
+  A memoir of Admiral Dahlgren by his widow was published at [[Boston]] in
   1882.     (D. H.)
 
 ## See also

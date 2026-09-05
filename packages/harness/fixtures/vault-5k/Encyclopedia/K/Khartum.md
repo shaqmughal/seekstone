@@ -14,7 +14,7 @@ S.W. of Port Sudan, on the Red Sea, and 1345 m. S. of Cairo by rail and
 steamer. Pop. (1907) with suburbs, but excluding Omdurman, 69,349.
 
 The city, laid out on a plan drawn up by Lord Kitchener in 1898, has a
-picturesque aspect with its numerous handsome stone and brick buildings
+picturesque aspect with its numerous handsome stone and [[Brick|brick]] buildings
 surrounded by gardens and its groves of palms and other trees. The river
 esplanade, 2 m. long, contains the chief buildings. Parallel with it is
 Khedive Avenue, of equal length. The rest of the city is in squares, the
@@ -49,7 +49,7 @@ tribes of the Sudan having its own settlement) in which the dwellings
 are built after the tribal fashion. Adjacent are the parade ground and
 racecourse and the golf-links. A line of fortifications extends south of
 the city from the Blue to the White Nile. The buildings are used as
-barracks. Barracks for British troops occupy the end of the line facing
+[[Barracks|barracks]]. Barracks for British troops occupy the end of the line facing
 the Blue Nile.
 
 On the right (northern) bank of the Blue Nile is the suburb of Khartum
@@ -68,7 +68,7 @@ commercial and political centre. It is the great entrepôt for the trade
 of the Anglo-Egyptian Sudan. By the Nile waterways there is easy
 transport from the southern and western equatorial provinces and from
 Sennar and other eastern districts. Through Omdurman come the exports of
-Kordofan and Darfur, while by the Red Sea railway there is ready access
+[[Kordofan]] and Darfur, while by the Red Sea railway there is ready access
 to the markets of the world. The only important manufacture is the
 making of bricks.
 
@@ -116,7 +116,7 @@ FOOTNOTE:
     foundation of Khartum, is 4 m. to the N., on the eastern bank of the
     Nile. From the 15th century up to 1821 it was the capital of a small
     state, tributary to Sennar, regarded as a continuation of the
-    Christian kingdom of Aloa (see DONGOLA).
+    Christian kingdom of Aloa (see [[Dongola|DONGOLA]]).
 
 ## References
 

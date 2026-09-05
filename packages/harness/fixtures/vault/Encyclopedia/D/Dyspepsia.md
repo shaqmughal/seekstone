@@ -7,7 +7,7 @@ topic: science
 # Dyspepsia
 
 DYSPEPSIA (from the Gr. prefix [Greek: dys-], hard, ill, and [Greek:
-peptein], to digest), or indigestion, a term vaguely given to a group of
+peptein], to [[Digest|digest]]), or indigestion, a term vaguely given to a group of
 pathological symptoms. There are comparatively few diseases of any
 moment where some of the phenomena of dyspepsia are not present as
 associated symptoms, and not infrequently these exist to such a degree
@@ -34,8 +34,8 @@ digestion,[1] and this only too often fails, either owing to haste over
 meals or because of painful or deficient teeth. Again, the quality of
 the food is of importance, some kinds of flesh being harder and more
 difficult of mastication than others. This is especially the case with
-meat that has been smoked or salted, and with that cooked too soon after
-the death of the animal. Drinks are a common source of dyspepsia. Beer
+[[Meat|meat]] that has been smoked or salted, and with that cooked too soon after
+the death of the animal. Drinks are a common source of dyspepsia. [[Beer]]
 when new and its fermentation not completed is especially bad. Vinegar
 and acid wines, if taken in large quantities, tend to produce gastric
 catarrh, and tea is a very fruitful source of this trouble. Even too
@@ -61,7 +61,7 @@ twenty years of age, it may be the earliest sign of a gouty diathesis,
 or even of a more serious condition still--incipient phthisis. Chronic
 dyspepsia, by weakening the organism, renders it more liable to fall a
 prey to the attacks of the tubercle bacillus, but, on the other hand,
-the tuberculous lesion in the lung is often accompanied by a most
+the tuberculous [[Lesion|lesion]] in the [[Lung|lung]] is often accompanied by a most
 intractable form of dyspepsia. From this it is clear that any condition
 which lessens the general well-being of the organism as a whole, apart
 from its producing any permanent morbid condition in the stomach, may
@@ -79,7 +79,7 @@ nausea and vomiting, oppression in the chest, pain, flatulence and
 distension, acidity, pyrosis and constipation or diarrhoea are a few of
 the commonest symptoms.
 
-When the attack is dependent on some error in diet, and the dyspepsia
+When the attack is dependent on some [[Error|error]] in diet, and the dyspepsia
 consequently more of an acute character, there is often pain followed
 with sickness and vomiting of the offensive matters, after which the
 patient soon regains his former healthy state. What are commonly known
@@ -99,7 +99,7 @@ from the stomach. Temporary relief may be obtained when another meal is
 taken, but soon the uncomfortable sensations return as before. The
 appetite may be craving or deficient, or desirous of abnormal kinds of
 food. The tongue registers the gastric condition with great delicacy;--a
-pasty white fur on the tongue is considered a sign of weakness or atony
+pasty white [[Fur|fur]] on the tongue is considered a sign of weakness or atony
 of the digestive tract; a clean pointed tongue with large papillae, and
 rather red at the edges and tip, is a sign of gastric irritation; and a
 pale flabby tongue suggests the need of stimulating treatment.
@@ -126,7 +126,7 @@ are in general required for this purpose. Long fasts, however, are
 nearly as hurtful as too frequent meals. Of no less importance is the
 kind of food taken, and on this point those who suffer from indigestion
 must ever exercise the greatest care. It must be borne in mind that
-idiosyncrasy often plays an important part in digestion, some persons
+[[Idiosyncrasy|idiosyncrasy]] often plays an important part in digestion, some persons
 being unable to partake without injury of substances which are generally
 regarded as wholesome and digestible. In most cases it is found very
 helpful to separate the protein from the farinaceous food, and the more
@@ -142,7 +142,7 @@ mastication, Sir Andrew Clark's rule is a very good one, and is more
 easily followed than the ideal theory laid down by Horace Fletcher,
 according to whom any food is digestible if properly treated while still
 in the mouth. Clark's rule is that as the mouth normally contains
-thirty-two teeth, thirty-two bites should be given before the food is
+thirty-two teeth, thirty-two [[Bit|bites]] should be given before the food is
 swallowed. This, of course, is a practical doctor's concession to human
 weakness. Mr Fletcher would train every one to "chew" till the contents
 of the mouth were swallowed by reflex action without deliberate act; and
@@ -150,10 +150,10 @@ he applies this theory of mastication and salivation also to drinks
 (except water). Again, a lack of warmth being a source of dyspepsia,
 this should be attended to, the back of the neck, the front of the
 abdomen and the feet being the parts that require special attention. The
-feet should be raised on a stool, the ankles protected with warm
-stockings and a woollen "cummerbund" wound two or three times round the
+feet should be raised on a stool, the [[Ankle|ankles]] protected with warm
+stockings and a woollen "[[Cummerbund|cummerbund]]" wound two or three times round the
 body. Experience has shown that in this complaint no particular kind of
-food or avoidance of food is absolutely to be relied on, but that in
+food or [[Avoidance|avoidance]] of food is absolutely to be relied on, but that in
 general the best diet is one of a mixed animal and vegetable kind,
 simply but well cooked. The partaking of many dishes, of highly-seasoned
 or salted meats, raw vegetables, newly-baked bread, pastry and
@@ -180,8 +180,8 @@ open air, early rising and the cold bath are to be strongly recommended.
 The medicinal treatment of dyspepsia can only be undertaken by a
 physician, but the following is a very brief resume of the drugs he
 depends on to-day. Bicarbonate of soda with some bitter, as quassia,
-gentian or columba, is much in vogue as a direct gastric stimulant. In
-irritable dyspepsia some form of bismuth in solution or powder; and, to
+[[Gentian|gentian]] or columba, is much in vogue as a direct gastric stimulant. In
+irritable dyspepsia some form of [[Bismuth|bismuth]] in solution or powder; and, to
 assist digestion through the nervous system, nux vomica and strychnine
 can be relied on. To give directly digestive material, hydrochloric
 acid, pepsin and rennet are prescribed in many forms, but where there is
@@ -190,14 +190,14 @@ food is badly borne, diastase is helpful, given either before or with
 the meal. To prevent fermentation, phenol, creasote and sulpho-carbolate
 of soda are all extremely useful in skilled hands; and for intestinal
 decomposition and flatulent distension, bismuth salicylate with salol or
-ss-naphthol is much used. Cyllin, and charcoal in many forms, may be
+ss-naphthol is much used. Cyllin, and [[Charcoal|charcoal]] in many forms, may be
 taken both for gastric and intestinal flatulence. But all these drugs,
 of proved value though they are, must be modified and combined to suit
 the special idiosyncrasy of the patient, and are therefore often worse
 than useless in inexperienced hands. The condition of the bowels must
 always have due attention.
 
-  See also DIGESTIVE ORGANS; NUTRITION and DIETETICS.
+  See also DIGESTIVE ORGANS; NUTRITION and [[Dietetics|DIETETICS]].
 
 
 FOOTNOTE:

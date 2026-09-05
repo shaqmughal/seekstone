@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Massillon"
 
 # Massillon
 
-MASSILLON, JEAN BAPTISTE (1663-1742), French bishop and preacher, was
+MASSILLON, JEAN [[Baptiste|BAPTISTE]] (1663-1742), French bishop and preacher, was
 born at Hyères on the 24th of June 1663, his father being a royal notary
 of that town. At the age of eighteen he joined the Congregation of the
 Oratory and taught for a time in the colleges of his order at Pézenas,
@@ -21,20 +21,20 @@ was placed at the head of the famous seminary of Saint Magloire. He soon
 gained a wide reputation as a preacher and was selected to be the Advent
 preacher at the court of Versailles in 1699. He was made bishop of
 Clermont in 1717, and two years later was elected a member of the French
-Academy. The last years of his life were spent in the faithful discharge
+Academy. The last years of his life were spent in the faithful [[Discharge|discharge]]
 of his episcopal duties; his death took place at Clermont on the 18th of
 September 1742. Massillon enjoyed in the 18th century a reputation equal
-to that of Bossuet and of Bourdaloue, and has been much praised by
+to that of [[Bossuet]] and of Bourdaloue, and has been much praised by
 Voltaire, D'Alembert and kindred spirits among the _Encyclopaedists_.
 His popularity was probably due to the fact that in his sermons he lays
 little stress on dogmatic questions, but treats generally of moral
 subjects, in which the secrets of the human heart and the processes of
 man's reason are described with poetical feeling. He has usually been
-contrasted with his predecessor Bourdaloue, the latter having the credit
+contrasted with his predecessor Bourdaloue, the latter having the [[Credit|credit]]
 of vigorous denunciation, Massillon that of gentle persuasiveness.
-Besides the _Petit Carême_, a sermon which he delivered before the young
+Besides the _Petit [[Car]]ême_, a sermon which he delivered before the young
 king Louis XV. in 1718, his sermons on the Prodigal Son, on the small
-number of the elect, on death, for Christmas Day, and for the Fourth
+number of the elect, on death, for [[Christmas]] Day, and for the Fourth
 Sunday in Advent, may be perhaps cited as his masterpieces. His funeral
 oration on Louis XIV. is only noted now for the opening sentence: "Dieu
 seul est grand." But in truth Massillon is singularly free from

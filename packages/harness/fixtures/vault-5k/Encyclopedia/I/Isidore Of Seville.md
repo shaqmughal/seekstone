@@ -8,7 +8,7 @@ topic: history
 
 ISIDORE OF SEVILLE, or ISIDORUS HISPALENSIS (c. 560-636), Spanish
 encyclopaedist and historian, was the son of Severianus, a distinguished
-native of Cartagena, who came to Seville about the time of the birth of
+native of [[Cartagena]], who came to Seville about the time of the birth of
 Isidore. Leander, bishop of Seville, was his elder brother. Left an
 orphan while still young, Isidore was educated in a monastery, and soon
 distinguished himself in controversies with the Arians. In 599, on the
@@ -29,7 +29,7 @@ their inadequate way they served to keep alive throughout the dark ages
 some little knowledge of the antique culture and learning. The most
 elaborate of his writings is the _Originum sive etymologiarum libri XX_.
 It was the last of his works, written between 622 and 633, and was
-corrected by his friend and disciple Braulion. It is an encyclopaedia of
+corrected by his friend and [[Disciple|disciple]] Braulion. It is an encyclopaedia of
 all the sciences, under the form of an explanation of the terms proper
 to each of them. It was one of the capital books of the middle ages.
 

@@ -1,7 +1,7 @@
 # Corrosive Sublimate
 
 CORROSIVE SUBLIMATE, MERCURIC CHLORIDE, PERCHLORIDE OF MERCURY (HgCl2),
-a white solid obtained by the action of chlorine on mercury or calomel,
+a white solid obtained by the action of [[Chlorine|chlorine]] on mercury or [[Calomel|calomel]],
 by the addition of hydrochloric acid to a hot, strong solution of
 mercurous nitrate, Hg2(NO3)2 + 4HCl = 2HgCl2 + 2H2O + 2NO2, and,
 commercially, by heating a mixture of mercuric sulphate and common salt,
@@ -15,7 +15,7 @@ alembroth_, 2NH4Cl·HgCl2·H2O, is the compound with ammonium chloride. It
 absorbs ammonia to form HgCl2·NH3, which may be distilled without
 decomposition. Various oxychlorides are formed by digesting corrosive
 sublimate with mercuric oxide. Corrosive sublimate has important
-applications in medicine--as an astringent, stimulant, caustic and
+applications in medicine--as an astringent, stimulant, [[Caustic|caustic]] and
 antiseptic (see MERCURY).
 
 ## References

@@ -14,15 +14,15 @@ by analogy for any system of rules or doctrine; also for an arrangement
 in telegraphy, signalling, &c., by which communications may be made
 according to rules adopted for brevity or secrecy.
 
-In jurisprudence the question of the reduction of laws to written codes,
+In [[Jurisprudence|jurisprudence]] the question of the reduction of laws to written codes,
 representing a complete and readily accessible system, is a matter of
 great historical and practical interest. Many collections of laws,
 however, which are commonly known as codes,[1] would not correspond to
-the definition given above. The Code of Justinian (see JUSTINIAN I.;
+the [[Definition|definition]] given above. The Code of Justinian (see JUSTINIAN I.;
 ROMAN LAW), the most celebrated of all, is not in itself a complete and
 exclusive system of law. It is a collection of imperial constitutions,
 just as the Pandects are a collection of the opinions of jurisconsults.
-The Code and the Pandects together being, as Austin says, "digests of
+The Code and the Pandects together being, as Austin says, "[[Digest|digests]] of
 Roman law in force at the time of their conception," would, if properly
 arranged, constitute a code. Codification in this sense is merely a
 question of the _form_ of the laws, and has nothing to do with their
@@ -35,12 +35,12 @@ The same causes which made collections of laws necessary in the time of
 Justinian have led to similar undertakings among modern peoples. The
 actual condition of laws until the period when they are consciously
 remodelled is one of confusion, contradiction, repetition and disorder;
-and to these evils the progress of society adds the burden of
+and to these evils the progress of society adds the [[Burden|burden]] of
 perpetually increasing legislation. Some attempt must be made to
 simplify the task of learning the laws by improving their expression and
 arrangement. This is by no means an easy task in any country, but in
 England it is surrounded with peculiar difficulties. The independent
-character of English law has prevented an attempt to do what has already
+character of [[English Law|English law]] has prevented an attempt to do what has already
 been done for other systems which have the basis of the Roman law to
 fall back upon.
 
@@ -63,7 +63,7 @@ of A. Duranton, R. T. Troplong and J. C. F. Demolombe. The remaining
 French codes are the _Code de procédure civile_, the _Code de commerce_,
 the _Code d'instruction criminelle_ and the _Code pénal_. The merits of
 the French code have entered into the discussion on the general question
-of codification. Austin agrees with Savigny in condemning the ignorance
+of codification. Austin agrees with Savigny in condemning the [[Ignorance|ignorance]]
 and haste with which it was compiled. "It contains," says Austin, "no
 definitions of technical terms (even the most leading), no exposition of
 the _rationale_ of distinctions (even the most leading), no exposition
@@ -81,7 +81,7 @@ destroy the power of the advocates, whom he hoped to render useless.
 This, with other systems of law existing in Germany, has been replaced
 by the Civil Code of 1900 (see GERMANY).
 
-The object of all these codes has been to frame a common system to take
+The object of all these codes has been to [[Frame|frame]] a common system to take
 the place of several systems of law, rather than to restate in an exact
 and exhaustive form the whole laws of a nation, which is the problem of
 English codification. The French and Prussian codes, although they have
@@ -106,8 +106,8 @@ that it should be provided for by new legislation." The New York code
 was defective in the important points of definition and arrangement. It
 formed the basis, however, of the present codes of civil and criminal
 procedure in the state of New York. Much interest has attached to the
-Penal Code drawn up by Edward Livingston (q.v.) for the state of
-Louisiana. The system consists of a Code of Crime and Punishments, a
+Penal Code drawn up by Edward [[Livingston]] (q.v.) for the state of
+[[Louisiana]]. The system consists of a Code of Crime and Punishments, a
 Code of Procedure, a Code of Evidence, a Code of Reform and Prison
 Discipline, and a Book of Definitions. "Though the state for which the
 codes were prepared," said Chief Justice Chase, "neglected to avail
@@ -117,15 +117,15 @@ which many states are indebted for useful legislation." Most of the
 other states in the United States have codes stating the law of pleading
 in civil actions, and such states are often described as code states to
 distinguish them from those adhering to the older forms of action,
-divided between those at law and those at equity. A few states have
-general codes of political and civil rights. The general drift of
+divided between those at law and those at [[Equity|equity]]. A few states have
+general codes of political and civil rights. The general [[Drift|drift]] of
 legislation and of public sentiment in the United States is towards the
 extension of the principle of codification, but the contrary view has
-been ably maintained (see J. C. Carter, _Provinces of the Written and
+been ably maintained (see J. C. [[Carter]], _Provinces of the Written and
 the Unwritten Law_, New York, 1889).
 
-Since the time of Bentham, the codification of the law of England has
-been the dream of the most enlightened jurists and statesmen. In the
+Since the time of [[Bentham]], the codification of the law of England has
+been the [[Dream|dream]] of the most enlightened jurists and statesmen. In the
 interval between Bentham and our own time there has been an immense
 advance in the scientific study of law, but it may be doubted whether
 the problem of codification is at all nearer solution. Interest has
@@ -159,13 +159,13 @@ language which has never been fixed by a controlling authority, and
 which has swayed about with every change of time, place and
 circumstance. It has no definitions, no rational distinctions, no
 connexion of parts. Until the passing of the Judicature Act of 1873 it
-was pervaded throughout its entire sphere by the flagrant antinomy of
+was pervaded throughout its entire sphere by the flagrant [[Antinomy|antinomy]] of
 law and equity, and that act has only ordered, not executed, its
 consolidation. No lawyer pretends to know more than a fragment of it.
 Few practical questions can be answered by a lawyer without a search
-into numberless acts of parliament and reported cases. To laymen, of
+into numberless acts of parliament and reported cases. To [[Laymen|laymen]], of
 course, the whole law is a sealed book. As there are no authoritative
-general principles, it happens that the few legal maxims known to the
+general principles, it happens that the few legal [[Maxims|maxims]] known to the
 public, being apprehended out of relation to their authorities, are as
 often likely to be wrong as to be right. It is hopeless to think of
 making it possible for every man to be his own lawyer, but we can at
@@ -176,7 +176,7 @@ the judges. Bentham's bitter antipathy to judicial legislation is well
 known. Austin's thirty-ninth lecture (_Lectures_, ed. 1869) contains an
 exhaustive criticism of the tenable objections to judiciary law. All
 such law is embedded in decisions on particular cases, from which it
-must be extracted by a tedious and difficult process of induction. Being
+must be extracted by a tedious and difficult process of [[Induction|induction]]. Being
 created for particular cases it is necessarily uncomprehensive,
 imperfect, uncertain and bulky. These are evils which are incident to
 the nature of judiciary laws. The defective form of the existing statute
@@ -187,7 +187,7 @@ completely integrated therewith. The mode of framing acts of parliament,
 and especially the practice of legislating by reference to previous
 acts, likewise produce much uncertainty and disorder. Some progress has,
 however, been made by the passing from time to time of various acts
-codifying branches of law, such as the Bills of Exchange Act 1882, the
+codifying branches of law, such as the Bills of [[Exchange]] Act 1882, the
 Partnership Act 1890, the Trusts Act 1893, and the Interpretation Act
 1889.
 
@@ -204,7 +204,7 @@ any statute or part of a statute. The lawyer, therefore, cannot rely on
 the revised edition of the statutes alone, and it is still necessary for
 him to consult the complete act as it was originally enacted.
 
-The process of gradual codification adopted in India has been
+The process of [[Gradual|gradual]] codification adopted in India has been
 recommended for imitation in England by those who have had some
 experience of its working. The first of the Indian codes was the Penal
 Code (see CRIMINAL LAW), and there are also codes of civil and criminal
@@ -231,7 +231,7 @@ French system ordered the judges, under a penalty, to give a decision on
 all cases, whether contemplated or not by the code, and referred them
 generally to the following sources:--(1) Équité naturelle, loi
 naturelle; (2) loi romain; (3) loi coutumier; (4) usages, exemples,
-jugements, jurisprudence; (5) droit commun; (6) principes généraux,
+jugements, jurisprudence; (5) [[Droit|droit]] commun; (6) principes généraux,
 maximes, doctrine, science. The Prussian code, on the other hand,
 required the judges to report new cases to the head of the judicial
 department, and they were decided by the legislative commission. No
@@ -255,12 +255,12 @@ FOOTNOTE:
 
 
 
-CODE NAPOLÉON, the first code of the French civil law, known at first as
+CODE NAPOLÉON, the first code of the French [[Civil Law|civil law]], known at first as
 the _Code civil des Français_, was promulgated in its entirety by a law
 of the 30th Ventose in the year XII. (31st of March 1804). On the 3rd of
 September 1807 it received the official name of Code Napoléon, although
 the part that Napoleon took in framing it was not very important. A law
-of 1818 restored to it its former name, but a decree of the 27th of
+of 1818 restored to it its former name, but a [[Decree|decree]] of the 27th of
 March 1852 re-established the title of Code Napoléon. Since the 4th of
 September 1870 the laws have quoted it only under the name of the Code
 Civil.
@@ -279,14 +279,14 @@ name of "common customary law"; on the other hand, the Roman law current
 in France had in like manner undergone a process of simplification in
 numerous works, the chief of which was that of Domat; while certain
 parts had already been codified in the _Grandes Ordonnances_, which were
-the work of d'Aguesseau. This legacy from the past, which it was desired
+the work of d'Aguesseau. This [[Legacy|legacy]] from the past, which it was desired
 to preserve within reason, had to be combined and blended with the laws
 of the Revolution, which had wrought radical reforms in the conditions
 affecting the individual, the tenure of real property, the order of
 inheritance and the system of mortgages. Cambacérès, as the
 representative of a commission of the Convention, brought forward two
 successive schemes for the Code Civil. As a member of one of the
-councils, he drew up a third under the Directory, and these projected
+councils, he drew up a third under the [[Directory]], and these projected
 forms came in turn nearer and nearer to what was to be the ultimate form
 of the code. So great was the interest centred in this work, that the
 law of the 19th Brumaire, year VIII., which, in ratification of the
@@ -302,7 +302,7 @@ of state, which was so well recruited that it easily furnished qualified
 men, mostly veterans of the revolution, to prepare the final scheme. The
 council of state naturally possessed in its legislative section and its
 general assembly bodies both competent and sufficiently limited to
-discuss the texts efficiently. The _corps législatif_ had not the right
+[[Discus|discuss]] the texts efficiently. The _[[Corps|corps]] législatif_ had not the right
 of amendment, so could not disturb the harmony of the scheme. It was in
 the discussions of the general assembly of the council of state that
 Napoleon took part, in 97 cases out of 102 in the capacity of chairman,
@@ -313,10 +313,10 @@ Those responsible for the scheme have in the main been very successful
 in their work; they have generally succeeded in fusing the two elements
 which they had to deal with, namely ancient French law, and that of the
 Revolution. The point in which their work is comparatively weak is the
-system of hypothec (q.v.), because they did not succeed in steering a
+system of [[Hypothec|hypothec]] (q.v.), because they did not succeed in steering a
 middle course between two opposite systems, and the law of the 23rd of
 March 1855 (_sur la transcription en matière hypothécaire_) was
-necessary to make good the deficiency. A fault frequently found with the
+necessary to make good the deficiency. A [[Fault|fault]] frequently found with the
 Code Civil is that its general divisions show a lack of logic and
 method, but the division is practically that of the Institutes of
 Justinian, and is about as good as any other: persons, things,
@@ -331,7 +331,7 @@ have been pointed out in the Code; it has not given to personal property
 the importance which it has acquired in the course of the 19th century;
 it makes no provision for dealing with the legal relations between
 employers and employed which modern complex undertakings involve; it
-does not treat of life insurance, &c. But this only proves that it could
+does not treat of life [[Insurance|insurance]], &c. But this only proves that it could
 not foretell the future, for most of these questions are concerned with
 economic phenomena and social relations which did not exist at the time
 when it was framed. The Code needed revising and completing, and this
@@ -341,7 +341,7 @@ extra-parliamentary commission was nominated to prepare a revision of
 it, and at once began the work.
 
 The influence of the Code Civil has been very great, not only in France
-but also abroad. Belgium has preserved it, and the Rhine provinces only
+but also abroad. [[Belgium]] has preserved it, and the Rhine provinces only
 ceased to be subject to it on the promulgation of the civil code of the
 German empire. Its ascendancy has been due chiefly to the clearness of
 its provisions, and to the spirit of equity and equality which inspires

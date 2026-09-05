@@ -6,14 +6,14 @@ the name given by their neighbours, though not used by themselves, to
 the inhabitants of the eastern shores of the Baltic. It is probably the
 same word as the Fenni of Tacitus and [Greek: Phinnoi] of Ptolemy,
 though it is not certain that those races were Finns in the modern
-sense. It possibly means people of the fens or marshes, and corresponds
+sense. It possibly means people of the [[Fens|fens]] or marshes, and corresponds
 to the native word _Suomi_, which appears to be derived from _suo_, a
-marsh. Finn and Finnish are used not only of the inhabitants of Finland
+marsh. Finn and Finnish are used not only of the inhabitants of [[Finland]]
 but also in a more extended sense of similar tribes found in Russia and
 sometimes called Baltic Finns and Volga Finns. In this sense the
 Esthonian tribes (Baltic), the Laps, the Cheremis and Mordvins (Volga),
 and the Permian tribes are all Finns. The name is not, however, extended
-to the Ostiaks, Voguls and Magyars, who, though allied, form a separate
+to the Ostiaks, Voguls and [[Magyars]], who, though allied, form a separate
 subdivision called Ugrian, a name derived from Yura or Ugra, the country
 on either side of the Ural Mountains, and first used by Castrén in a
 scientific sense.
@@ -42,7 +42,7 @@ Great Russians and the purer Slavs such as the Little Russians is partly
 due to an infusion of Finnish blood.
 
 Physically the Finno-Ugric races are as a rule solidly built and, though
-there is considerable variation in height and the cephalic index, are
+there is considerable variation in height and the [[Cephalic Index|cephalic index]], are
 mostly of small or medium stature, somewhat squat, and brachy- or
 mesocephalic. As a rule the skin is greyish or olive coloured, the eyes
 grey or blue, the hair light, the beard scanty. Most of them seem
@@ -63,7 +63,7 @@ Hungarians.
   Voguls.
 
 The _Ostiaks_ (Ostyaks or Ostjaks) are a tribe of nomadic fishermen and
-hunters inhabiting at present the government of Tobolsk and the banks of
+[[Hunter|hunters]] inhabiting at present the government of Tobolsk and the banks of
 the Obi. They formerly extended into the government of Perm on the
 European side of the Ural Mountains. The so-called Ostiaks of the
 Yenisei appear to be a different race and not to belong to the
@@ -71,7 +71,7 @@ Finno-Ugrian group. The Ostiaks are still partially pagan and worship
 the River Obi. Allied to them are the _Voguls_, a similar nomadic tribe
 found on both sides of the Urals, and formerly extending at least as far
 as the government of Vologda. The languages of the Ostiaks and Voguls
-are allied, though not mere dialects of one another, and form a small
+are allied, though not mere [[Dialect|dialects]] of one another, and form a small
 group separated from the languages of the Finns both Western and
 Eastern. For further details of these and other tribes see under the
 separate headings.
@@ -88,10 +88,10 @@ tribes of mixed descent comprising both Turkish and Finno-Ugrian
 elements. The language is indisputably Finno-Ugrian, but the name
 Hungarian seems to lead back to the form Un-ugur, and to suggest Turkish
 connexions which are confirmed by the warlike habits of the Huns and
-Magyars. The same name possibly occurs in the form Hiung-nu as far east
+Magyars. The same name possibly occurs in the form [[Hiung-Nu|Hiung-nu]] as far east
 as the frontiers of China, but recent authorities are of opinion that
 the tribes from whom the present Hungarians are descended were formed
-originally in the Terek-Kuban country to the north of the Caucasus,
+originally in the Terek-Kuban country to the north of the [[Caucasus]],
 where a mixture of Turkish and Ugrian blood took place, a Ugrian
 language but Turkish mode of life predominating. They were also
 influenced by Iranians and the various tribes of the Caucasus. Both Huns
@@ -100,7 +100,7 @@ century and made no permanent settlement in spite of the devastation
 they caused, whereas the Magyars remained for some centuries near the
 banks of the Don. According to tradition they were compelled to leave a
 country called Lebedia under the pressure of nomadic tribes, and moved
-westward under the leadership of seven dukes. They conquered Hungary in
+westward under the leadership of seven [[Dukes|dukes]]. They conquered Hungary in
 the years 884-895, and the first king of their new dominions was called
 Árpád. For the chequered and often tragic history of the country see
 HUNGARY. The Magyars were converted to Christianity in the 11th century
@@ -122,7 +122,7 @@ governments of Perm, Vologda and Archangel, but there are a few
 Syryenians on the Siberian side of the Urals. The Syryenian headquarters
 are at the town of Ishma on the Pechora, whereas the name Permian is
 more correctly restricted to the inhabitants of the right bank of the
-upper Kama. Both probably extended much farther to the west in former
+upper [[Kama]]. Both probably extended much farther to the west in former
 times. The Syryenians are said to be more intelligent and active than
 most Finnish tribes and to make considerable journeys for trading
 purposes. They are possibly a mixed race.
@@ -152,8 +152,8 @@ being driven northwards by the Mordvins and then southwards by the
 Russians. There is some discrepancy between their language and their
 physical characteristics. The former shows affinities to both Mordvinian
 and the Permian group, but their crania are said to be mainly
-dolichocephalic, and it has been suggested that they are connected with
-the neolithic dolichocephalic population of Lake Ladoga. They are gentle
+[[Dolichocephalic|dolichocephalic]], and it has been suggested that they are connected with
+the neolithic dolichocephalic population of Lake [[Ladoga]]. They are gentle
 and honest, but neither active nor intelligent.
 
 
@@ -180,14 +180,14 @@ The _Lapps_ are found in Norway, Sweden and Finland. They call
 themselves Sabme, but are called Finns by the Norwegians. They are the
 shortest and most brachycephalic race in Europe. The majority are nomads
 who live by pasturing reindeer, and are known as Mountain Lapps, but
-others have become more or less settled and live by hunting or fishing.
+others have become more or less settled and live by [[Hunting|hunting]] or fishing.
 From ancient times the Lapps have had a great reputation among the Finns
 and other neighbouring nations for skill in sorcery.
 
 
   Esthonians.
 
-The _Esthonians_ are the peasantry of the Russian province Esthonia and
+The _Esthonians_ are the peasantry of the Russian province [[Esthonia]] and
 the neighbouring districts. They were serfs until 1817 when they were
 liberated, but their condition remained unsatisfactory and led to a
 serious rebellion in 1859. They are practically a branch of the Finns,
@@ -254,9 +254,9 @@ attempt has been made to Russify the country. The Finns have much the
 same mental and moral characteristics as the other allied tribes, but
 have reached a far higher intellectual and literary stage. Several
 collections of their popular and mythological poetry have been made, the
-most celebrated of which is the _Kalewala_, compiled by Lönnrot about
+most celebrated of which is the _[[Kalewala]]_, compiled by Lönnrot about
 1835, and there is a copious modern literature. The study of the
-national languages and antiquities is prosecuted in Helsingfors and
+national languages and antiquities is prosecuted in [[Helsingfors]] and
 other towns with much energy: several learned societies have been formed
 and considerable results published, partly in Finnish. It is clear that
 this scientific activity, though animated by a patriotic Finnish spirit,
@@ -280,8 +280,8 @@ persevering and tenacious. They number about 260,000, of whom about
 63,000 live in Olonetz and 195,000 in Tver and Novgorod, but in the
 southern districts are less distinguished from the Russian population.
 They belong to the Russian Church, whereas the Finns of the grand duchy
-are Protestants. There also appear to be authentic traces of a Karelian
-population in Kaluga, Yaroslavl, Vladimir, Vologda and Tambov. It was
+are Protestants. There also appear to be [[Authentic|authentic]] traces of a Karelian
+population in [[Kaluga]], Yaroslavl, Vladimir, Vologda and Tambov. It was
 among them that the _Kalewala_ was collected, chiefly in East Finland
 and Olonetz.
 
@@ -301,23 +301,23 @@ reason for separating them.
   Other inclusions.
 
 Various other peoples have been referred to the Finno-Ugrian group, but
-some doubt must remain as to the propriety of the classification, either
+some doubt must remain as to the propriety of the [[Classification|classification]], either
 because they are now extinct, or because they are suspected of having
 changed their language.
 
 The original Bulgarians, who had their home on the Volga before they
 invaded the country which now bears their name, were probably a tribe
 similar to the Magyars, though all record of their language is lost. It
-has been disputed whether the Khazars, who in the middle ages occupied
+has been disputed whether the [[Khazars]], who in the middle ages occupied
 parts of south Russia and the shores of the Caspian, were Finno-Ugrians
 or Turks, and there is the same doubt about the Avars and Pechenegs,
 which without linguistic evidence remains insoluble. Nor is the
-difference ethnographically important. The formation of hordes of
+difference ethnographically important. The formation of [[Horde|hordes]] of
 warlike bodies, half tribes, half armies, composed of different races,
 was a characteristic of Central Asia, and it was probably often a matter
 of chance what language was adopted as the common speech.
 
-At the present day the Bashkirs, Meshchers and Tepters, who speak Tatar
+At the present day the [[Bashkirs]], Meshchers and Tepters, who speak Tatar
 languages, are thought to be Finnish in origin, as are also the
 Chuvashes, whose language is Tatar strongly modified by Finnish
 influence. The little known Soyots of the head-waters of the Yenisei are
@@ -339,9 +339,9 @@ agglutination, or the addition of suffixes, is the only method of
 word-formation, prefixes and significant change of vowels being unknown,
 as is also gender. This suggests an affinity with many other languages,
 such as the ancient Accadian or Sumerian, and Japanese. A connexion
-between the Finno-Ugric and Dravidian languages has also been suggested.
+between the Finno-Ugric and [[Dravidian]] languages has also been suggested.
 On the other hand, the more highly developed agglutinative languages,
-such as Finnish, approach the inflected Aryan type, so that the Aryan
+such as Finnish, approach the inflected [[Aryan]] type, so that the Aryan
 languages may have been developed from an ancestor not unlike the
 Ural-Altaic group.
 
@@ -378,7 +378,7 @@ indicates an ancient separation. But the similarity in the process of
 word-building and of the elements used, even if they have not the same
 sense, as well as analogies in the general construction of sentences and
 in some details (e.g. the use of the infinitive or verbal substantive),
-seem to justify the hypothesis of an original relationship with the
+seem to justify the [[Hypothesis|hypothesis]] of an original relationship with the
 Turkish languages, which in their turn have connexions with the other
 groups.
 
@@ -433,7 +433,7 @@ the Finnish languages and more thoroughly agglutinative in the strict
 sense. In vocabulary, e.g. the numerals, they show resemblances to the
 Ugrian division. Syryenian has older literary remains than any
 Finno-Ugrian language except Hungarian. In the latter part of the 14th
-century Russian missionaries composed in it various manuals and
+century Russian missionaries composed in it various [[Manuals|manuals]] and
 translations, using a special alphabet for the purpose.
 
 Unlike the Finnish and Esthonian branch, the languages of the Volga
@@ -501,7 +501,7 @@ The various forms of nouns and verbs are not merely roots with a string
 of obvious suffixes attached, but the termination forms a whole with the
 root as in Greek and Latin inflections; the adjective is declined and
 compared and agrees with its substantive; compound tenses are formed
-with the aid of the auxiliary verb, and there is a full supply of
+with the aid of the [[Auxiliary|auxiliary]] verb, and there is a full supply of
 relative pronouns and particles.
 
 Finnish and Hungarian together with Turkish are interesting examples of
@@ -524,10 +524,10 @@ traces of ancient conditions which survive sporadically but are nowhere
 universal. Few except the Hungarians have shown themselves warlike,
 though we read of conflicts with the Russians in the middle ages as they
 advanced among this older population. But most Finno-Ugrians are astute
-and persevering hunters, and the Ostiaks still shoot game with a bow.
-The tribes are divided into numerous small clans which are exogamous.
+and persevering hunters, and the Ostiaks still shoot [[Game|game]] with a [[Bow|bow]].
+The tribes are divided into numerous small [[Clan|clans]] which are exogamous.
 Marriage by capture is said to survive among the Cheremiss, who are
-still polygamous in some districts, but purchase of the bride is the
+still polygamous in some districts, but purchase of the [[Bride|bride]] is the
 more general form. Women are treated as servants and often excluded
 from pagan religious ceremonies. The most primitive form of house
 consists of poles inclined towards one another and covered with skins or
@@ -543,28 +543,28 @@ Cheremiss are still unbaptized, and much paganism lingers among the
 nominal Christians, and in poetry such as the _Kalewala_. The deities
 are chiefly nature spirits and the importance of the several gods varies
 as the tribes are hunters, fishermen, &c. Sun or sky worship is found
-among the Samoyedes and _Jumala_, the Finnish word for god, seems
+among the Samoyedes and _[[Jumala]]_, the Finnish word for god, seems
 originally to mean sky. The Ostiaks worship a water-spirit of the river
 Obi and also a thunder-god. We hear of a forest-god among the Finns,
 Lapps and Cheremiss. There are also clan gods worshipped by each clan
 with special ceremonies. Traces of ancestor-worship are also found. The
 Samoyedes and Ostiaks are said to sacrifice to ghosts, and the Ostiaks
-to make images of the more important dead, which are tended and
+to make [[Image|images]] of the more important dead, which are tended and
 honoured, as if alive, for some years. Images are found in the tombs and
 barrows of most tribes, and the Samoyedes, Ostiaks and Voguls still use
-idols, generally of wood. Animal sacrifices are offered, and the lips of
+idols, generally of wood. Animal sacrifices are offered, and the [[Lip|lips]] of
 the idol sometimes smeared with blood. Quaint combinations of
 Christianity and paganism occur; thus the Cheremiss are said to
 sacrifice to the Virgin Mary. The idea that disease is due to possession
 by an evil spirit, and can be both caused and cured by spells, seems to
 prevail among all tribes, and in general extraordinary power is supposed
-to reside in incantations and magical formulae. This belief is
+to reside in [[Incantation|incantations]] and magical formulae. This belief is
 conspicuous in the _Kalewala_, and almost every tribe has its own
-collection of prayers, healing charms and spells to be used on the most
+collection of prayers, healing [[Charm|charms]] and spells to be used on the most
 varied occasions. A knowledge of these formulae is possessed by wizards
 (Finnish noita) corresponding to the Shamans of the Altaic peoples. They
-are exorcists and also mediums who can ascertain the will of the gods; a
-magic drum plays a great part in their invocations, and their office is
+are [[Exorcist|exorcists]] and also mediums who can ascertain the will of the gods; a
+magic [[Drum|drum]] plays a great part in their invocations, and their office is
 generally hereditary. The non-Buddhist elements of Chinese and Japanese
 religion present the same features as are found among the
 Finno-Ugrians--nature-worship, ancestor-worship and exorcism--but in a
@@ -637,7 +637,7 @@ of the adoption of a Tatar language, in others (Mordvin, Cheremis and
 Votiak) a large number of Tatar words were borrowed. We also know that
 there were considerable settlements of these tribes, perhaps amounting
 to states, on the Volga and in south-eastern Russia. Such was Great
-Bulgaria, which continued until destroyed by the Mongols in 1238. The
+[[Bulgaria]], which continued until destroyed by the Mongols in 1238. The
 pressure of tribes farther east acting on these settlements dislodged
 sections of them from time to time and created the series of invasions
 which devastated the East Roman empire from the 5th century onwards. But
@@ -651,9 +651,9 @@ Hun and Hungarian may possibly be the same as Hiung-nu, but we cannot
 assume that this tribe passed across Asia unchanged in language and
 physique. The Hungarians entered on their present phase at the end of
 the 9th century of this era, when they crossed the Carpathians and
-conquered the old Pannonia and Dacia. For half a century or so before
+conquered the old Pannonia and [[Dacia]]. For half a century or so before
 this invasion they are said to have inhabited Atelkuzu, probably a
-district between the Dnieper and the Danube. The isolated groups of
+district between the [[Dnieper]] and the Danube. The isolated groups of
 Hungarians now found in Transylvania and called Szeklers are considered
 the purest descendants of the invading Magyars. Those who settled in the
 plains of Hungary probably mingled there with remnants of Huns, Avars
@@ -661,10 +661,10 @@ and earlier invaders, and also with subsequent invaders, such as
 Pechenegs and Kumans.
 
   BIBLIOGRAPHY.--Among the older writers may be mentioned Strahlenberg
-  (_Das nord- und östliche Theil von Europa und Asia_, 1730), Johann
+  (_Das nord- und östliche Theil von [[Europa]] und Asia_, 1730), Johann
   Gottlieb Georgi (_Description de toutes les nations de l'empire de la
   Russie_, French tr., St Petersburg, 1777); but especially the various
-  works of Matthias A. Castrén (1852-1853) and W. Schott (1858). Modern
+  works of [[Matthias]] A. Castrén (1852-1853) and W. Schott (1858). Modern
   scientific knowledge of the Finno-Ugrians and their languages was
   founded by these two authors. Among newer works some of the most
   important separate publications are: J.R. Aspelin, _Antiquités du nord
@@ -678,9 +678,9 @@ Pechenegs and Kumans.
   are several: _Journal de la Société Finno-ougrienne_ (Helsingfors)
   (_Suomalais-Ugrilaisen Seuran Aikakauskirja_); _Finnisch-Ugrische
   Forschungen_ (Helsingfors and Leipzig); _Mitteilungen der
-  archäologischen, historischen und ethnographischen Gesellschaft der
+  [[Arch|arch]]äologischen, historischen und ethnographischen Gesellschaft der
   Kais. Universität zu Kasan; Keleti Szemle or Revue orientale pour les
-  études ouralo-altaïques_ (Budapest). In all of these will be found
+  études ouralo-altaïques_ ([[Budapest]]). In all of these will be found
   numerous valuable articles by such authors as Ahlqvist, Halévy,
   Heikel, Krohn, Muncácsi, Paasonen, Setälä, Smurnow, Thomsen and
   Vambéry.
@@ -689,7 +689,7 @@ Pechenegs and Kumans.
   headings of the different languages. For general linguistic questions
   may be consulted the works of Castrén, Schott and Otto Donner, also
   such parts of the following as treat of Finno-Ugric languages: Byrne,
-  _Principles of the Structure of Language_, vol. i. (1892); Friedrich
+  _Principles of the Structure of Language_, vol. i. (1892); [[Friedrich]]
   Müller, _Grundriss der Sprachwissenschaft II._, Band ii., Abth. 1882;
   Steinthal and Misleli, _Abriss der Sprachwissenschaft_ (1893).
        (C. El.)

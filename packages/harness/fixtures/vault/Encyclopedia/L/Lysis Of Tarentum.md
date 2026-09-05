@@ -2,7 +2,7 @@
 
 LYSIS OF TARENTUM (d. c. 390 B.C.), Greek philosopher. His life is
 obscure, but it is generally accepted, that in the persecution of the
-Pythagoreans at Crotona and Metapontum he escaped and went to Thebes,
+Pythagoreans at [[Crotona]] and Metapontum he escaped and went to Thebes,
 where he came under the influence of Philolaus. The friend and companion
 of Pythagoras, he has been credited with many of the works usually
 attributed to Pythagoras himself. Diogenes Laertius viii. 6 gives him

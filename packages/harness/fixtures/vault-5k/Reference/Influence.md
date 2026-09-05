@@ -11,7 +11,7 @@ tags: [history]
 INFLUENCE (Late Lat. _influentia_, from _influere_, to flow in), a word
 whose principal modern meaning is that of power, control or action
 affecting others, exercised either covertly or without visible means or
-direct physical agency. It is one of those numerous terms of astrology
+direct physical agency. It is one of those numerous terms of [[Astrology|astrology]]
 (q.v.) which have established themselves in current language. From the
 stars was supposed to flow an ethereal stream which affected the course
 of events on the earth and the fortunes and characters of men. For the

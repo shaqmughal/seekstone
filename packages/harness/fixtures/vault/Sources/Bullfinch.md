@@ -8,14 +8,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bullfinch"
 # Bullfinch
 
 BULLFINCH (_Pyrrhula vulgaris_), the ancient English name  given to a bird
-belonging to the family _Fringillidae_ (see FINCH), of a bluish-grey and
-black colour above, and generally of a bright tile-red beneath, the female
+belonging to the family _Fringillidae_ (see [[Finch|FINCH]]), of a bluish-grey and
+black colour above, and generally of a [[Bright|bright]] tile-red beneath, the female
 differing chiefly in having its under-parts chocolate-brown. It is a shy
 bird, not associating with other species, and frequents well-wooded
 districts, being very rarely seen on moors or other waste lands. It builds
 a shallow nest composed of twigs lined with fibrous roots, on low trees or
 thick underwood, only a few feet from the ground, and lays four or five
-eggs of a bluish-white colour speckled and streaked with purple. The young
+[[Egg|eggs]] of a bluish-white colour speckled and streaked with purple. The young
 remain with their parents during autumn and winter, and pair in spring, not
 building their nests, however, till May. In spring and summer they feed on
 the buds of trees and bushes, choosing, it is said, such only as contain
@@ -33,7 +33,7 @@ northern countries of Europe, occurring in Italy and other southern parts
 only as a winter visitor. White and black varieties are occasionally met
 with; the latter are often produced by feeding the bullfinch exclusively on
 hempseed, when its plumage gradually changes to black. It rarely breeds in
-confinement, and hybrids between it and the canary have been produced on
+confinement, and hybrids between it and the [[Canary|canary]] have been produced on
 but few occasions.
 
 ## See also

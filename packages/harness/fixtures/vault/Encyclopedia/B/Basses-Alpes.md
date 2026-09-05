@@ -2,23 +2,23 @@
 
 BASSES-ALPES, a department of south-eastern France, formed in 1790 out of
 the northern portion of Provence. It is bounded N. by the department of the
-Hautes Alpes, E. by Italy and the department of the Alpes Maritimes, S. by
+[[Hautes Alpes]], E. by Italy and the department of the Alpes Maritimes, S. by
 that of the Var, and W. by those of Vaucluse and the Drôme. Its area is
 about 2698 sq. m., while its greatest length is 89½ m. and its greatest
-breadth 56 m. Pop. (1906) 113,126. The river Durance passes through the
+breadth 56 m. Pop. (1906) 113,126. The river [[Durance]] passes through the
 western part of this department, receiving (left), as affluents, the Ubaye,
 the Bléone and the Asse (the entire course of each of these rivers is
 included within the department) as well as the Verdon, the upper course of
 which is within the department, while the lower course forms its southern
 limit. It is a poor and hilly district, the highest summits (the loftiest
 is the Aiguille de Chambeyron, 11,155 ft.) rising round the head waters of
-the Ubaye. The department is divided into five arrondissements (Digne,
-Barcelonnette, Castellane, Forcalquier, and Sisteron), 30 cantons and 250
-communes. It forms the bishopric of Digne, formerly in the ecclesiastical
-province of Embrun, but since 1802 in that of Aix-en-Provence. Its chief
+the Ubaye. The department is divided into five [[Arrondissement|arrondissements]] ([[Digne]],
+[[Barcelonnette]], Castellane, Forcalquier, and Sisteron), 30 cantons and 250
+[[Commune|communes]]. It forms the bishopric of Digne, formerly in the ecclesiastical
+province of [[Embrun]], but since 1802 in that of Aix-en-Provence. Its chief
 towns are Digne, Barcelonnette, Castellane, Forcalquier, and Sisteron. It
 is poorly supplied with railways (total length 109½ m.), the main line from
-Grenoble to Avignon running through it from Sisteron to Manosque, and
+[[Grenoble]] to [[Avignon]] running through it from Sisteron to Manosque, and
 sending off two short branch lines to Digne (14 m.) and to Forcalquier (9
 m.). It is a poor department from the material point of view, being very
 mountainous and containing many mountain pastures. But these pastures have
@@ -27,7 +27,7 @@ while the forests have been very much thinned (though extensive
 reafforestments are now being carried out) so that the soil is very dry and
 made drier by exposure to the southern sun. From near the head of the Ubaye
 valley the pass of the Col de l'Argentière (6545 ft.) leads over from
-Barcelonnette to Cuneo, in Italy; it was perhaps traversed by Hannibal, and
+Barcelonnette to [[Cuneo]], in Italy; it was perhaps traversed by Hannibal, and
 certainly in 1515 by Francis I.
 
 See C. J. J. M. Féraud, _Histoire, géographie et statistique du Département
@@ -36,12 +36,12 @@ des Basses-Alpes_ (Digne, 1861).
 (W. A. B. C.)
 
 BASSES-PYRÉNÉES, a department of south-western France, at the angle of the
-Bay of Biscay, formed in 1790, two-thirds of it from Béarn and the rest
+Bay of [[Biscay]], formed in 1790, two-thirds of it from Béarn and the rest
 from three districts of Gascony--Basse-Navarre, Soule and Labourd. The
-latter constitute the Basque region of France (see BASQUES) and cover the
-west of the department. Basses-Pyrénées is bounded N. by Landes and Gers,
-E. by Hautes-Pyrénées (which has two enclaves forming five communes within
-this department), S. by Spain, and W. by the Atlantic Ocean. Pop. (1906)
+latter constitute the Basque region of France (see [[Basques|BASQUES]]) and cover the
+west of the department. Basses-Pyrénées is bounded N. by [[Landes]] and [[Gers]],
+E. by Hautes-Pyrénées (which has two [[Enclave|enclaves]] forming five communes within
+this department), S. by Spain, and W. by the [[Atlantic Ocean]]. Pop. (1906)
 426,817. Area, 2977 sq. m. The whole of the south of the department is
 occupied by the western and lower summits of the Pyrenees. The remainder
 consists of a region of heaths and plateaus to the northeast of the Gave de
@@ -100,7 +100,7 @@ very small proportion of which belong to the government, the rest to the
 communes and private individuals.
 
 The department furnishes salt, building-stone, and other quarry products.
-There are mineral springs at Eaux-Bonnes, Eaux-Chaudes, Cambo-les-Bains
+There are mineral springs at [[Eaux-Bonnes]], Eaux-Chaudes, Cambo-les-Bains
 (resorted to by the Basques on St John's Eve), St Christau, and Salies. At
 Le Boucau, 3 m. from Bayonne, there are large metallurgical works, the
 _Forges de l'Adour_, and chemical works. The manufactures of the department
@@ -111,22 +111,22 @@ population at Bayonne and St Jean-de-Luz. Bayonne is the principal port.
 Exports consist chiefly of timber, mine-props, minerals, wine, salt and
 resinous products. Coal, minerals, phosphates, grain and wool are leading
 imports. The interior commerce of the department is, however, of greater
-importance to its inhabitants; it takes the form of exchange of products
+importance to its inhabitants; it takes the form of [[Exchange|exchange]] of products
 between the regions of mountain and plain. The railway lines of
 Basses-Pyrénées, the chief of which is that from Bayonne to Toulouse via
 Orthez and Pau, belong to the Southern Company. The Adour, the Nive and the
 Bidouze are navigable on their lower courses. The department has five
 arrondissements--Pau, Bayonne, Oloron, Orthez and Mauléon, divided into 41
 cantons and 559 communes. It constitutes the diocese of Bayonne, comes
-within the educational circumscription (_académie_) of Bordeaux and belongs
-to the district of the XVIII. army corps. Pau, the capital and seat of a
+within the educational circumscription (_académie_) of [[Bordeaux]] and belongs
+to the district of the XVIII. army [[Corps|corps]]. Pau, the capital and seat of a
 court of appeal, Bayonne, Oloron, Biarritz, Orthez, Eaux-Bonnes, and St
 Jean-de-Luz are the principal towns. The following places are also of
 interest:--Lescar, which has a church of the 12th and 16th century, once a
 cathedral; Montaner, with a stronghold built in 1380 by Gaston Phoebus,
-count of Foix and viscount, of Béarn; and Sauveterre, a town finely
+count of [[Foix]] and viscount, of Béarn; and Sauveterre, a town finely
 situated on the Gave d'Oloron, with an old bridge, remains of a feudal
-castle, and a church in the Romanesque and Gothic styles.
+castle, and a church in the Romanesque and [[Gothic]] styles.
 
 ## See also
 

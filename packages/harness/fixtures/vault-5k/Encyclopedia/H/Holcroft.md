@@ -21,7 +21,7 @@ after marrying in 1765, he became a teacher in a small school in
 Liverpool. He failed in an attempt to set up a private school, and
 became prompter in a Dublin theatre. He acted in various strolling
 companies until 1778, when he produced _The Crisis; or, Love and
-Famine_, at Drury Lane. _Duplicity_ followed in 1781. Two years later he
+Famine_, at Drury [[Lane]]. _Duplicity_ followed in 1781. Two years later he
 went to Paris as correspondent of the _Morning Herald_. Here he attended
 the performances of Beaumarchais's _Mariage de Figaro_ until he had
 memorized the whole. The translation of it, with the title _The Follies
@@ -37,7 +37,7 @@ Westphalia, Holland and the Netherlands to Paris_, of some volumes of
 verse and of translations from the French and German.
 
   His _Memoirs written by Himself and continued down to the Time of his
-  Death, from his Diary, Notes and other Papers_, by William Hazlitt,
+  Death, from his Diary, Notes and other Papers_, by William [[Hazlitt]],
   appeared in 1816, and was reprinted, in a slightly abridged form, in
   1852.
 

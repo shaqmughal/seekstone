@@ -24,7 +24,7 @@ Camden Place was built by William Camden, the antiquary, in 1609, and in
 1765 gave the title of Baron Camden to Lord Chancellor Pratt. The house
 was the residence not only of Napoleon III., but of the empress Eugénie
 and of the prince imperial, who is commemorated by a memorial cross on
-Chislehurst Common. The house and grounds are now occupied by a golf
+Chislehurst Common. The house and grounds are now occupied by a [[Golf|golf]]
 club. There are many villa residences in the neighbourhood of
 Chislehurst.
 

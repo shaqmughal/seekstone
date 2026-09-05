@@ -1,7 +1,7 @@
 # Hybla
 
 HYBLA, the name of several cities In Sicily. The best known
-historically, though its exact site is uncertain, is Hybla Major, near
+historically, though its exact site is uncertain, is Hybla [[Major]], near
 (or by some supposed to be identical with) Megara Hyblaea (q.v.):
 another Hybla, known as Hybla Minor or Galeatis, is represented by the
 modern Paternò; while the site of Hybla Heraea is to be sought near
@@ -34,18 +34,18 @@ nature, and was due to the fact that hybrids are often found to present
 characters somewhat different from those of either parent. The leading
 facts have been known in the case of the horse and ass from time
 immemorial. The earliest recorded observation of a hybrid plant is by J.
-G. Gmelin towards the end of the 17th century; the next is that of Thomas
+G. [[Gmelin]] towards the end of the 17th century; the next is that of Thomas
 Fairchild, who in the second decade of the 18th century, produced the
 cross which is still grown in gardens under the name of "Fairchild's
 Sweet William." Linnaeus made many experiments in the cross-fertilization
 of plants and produced several hybrids, but Joseph Gottlieb Kölreuter
 (1733-1806) laid the first real foundation of our scientific knowledge of
-the subject. Later on Thomas Andrew Knight, a celebrated English
+the subject. Later on Thomas Andrew [[Knight]], a celebrated English
 horticulturist, devoted much successful labour to the improvement of
 fruit trees and vegetables by crossing. In the second quarter of the 19th
 century C. F. Gärtner made and published the results of a number of
 experiments that had not been equalled by any earlier worker. Next came
-Charles Darwin, who first in the _Origin of Species_, and later in _Cross
+Charles [[Darwin]], who first in the _Origin of Species_, and later in _Cross
 and Self-Fertilization of Plants_, subjected the whole question to a
 critical examination, reviewed the known facts and added many to them.
 
@@ -70,7 +70,7 @@ critical examination, reviewed the known facts and added many to them.
   sterility up to complete fertility. Thus, to take the case of plants,
   "when pollen from a plant of one family is placed on the stigma of a
   plant of a distinct family, it exerts no more influence than so much
-  inorganic dust. From this absolute zero of fertility, the pollen of
+  inorganic [[Dust|dust]]. From this absolute zero of fertility, the pollen of
   different species, applied to the stigma of some one species of the
   same genus, yields a perfect gradation in the number of seeds
   produced, up to nearly complete, or even quite complete, fertility;
@@ -78,7 +78,7 @@ critical examination, reviewed the known facts and added many to them.
   and probably never would produce, even with the pollen of the pure
   parents, a single fertile seed; but in some of these cases a first
   trace of fertility may be detected, by the pollen of one of the pure
-  parent species causing the flower of the hybrid to wither earlier than
+  parent species causing the [[Flower|flower]] of the hybrid to wither earlier than
   it otherwise would have done; and the early withering of the flower is
   well known to be a sign of incipient fertilization. From this extreme
   degree of sterility we have self-fertilized hybrids producing a
@@ -108,7 +108,7 @@ critical examination, reviewed the known facts and added many to them.
   extreme difficulty, whilst other species, widely different from each
   other, can be crossed with perfect facility. Nor does the difficulty
   depend on ordinary constitutional differences; for annual and
-  perennial plants, deciduous and evergreen trees, plants flowering at
+  perennial plants, [[Deciduous|deciduous]] and evergreen trees, plants flowering at
   different seasons, inhabiting different stations, and naturally living
   under the most opposite climates, can often be crossed with ease. The
   difficulty or facility apparently depends exclusively on the sexual
@@ -118,7 +118,7 @@ critical examination, reviewed the known facts and added many to them.
 There are many new records as to the production of hybrids.
 Horticulturists have been extremely active and successful in their
 attempts to produce new flowers or new varieties of vegetables by
-seminal or graft-hybrids, and any florist's catalogue or the account of
+seminal or graft-hybrids, and any florist's [[Catalogue|catalogue]] or the account of
 any special plant, such as is to be found in Foster-Melliar's _Book of
 the Rose_, is in great part a history of successful hybridization. Much
 special experimental work has been done by botanists, notably by de
@@ -128,16 +128,16 @@ matter of taking sufficient trouble, and the successful crossing of
 genera is not infrequent.
 
   Focke, for instance, cites cases where hybrids were obtained between
-  _Brassica_ and _Raphanus_, _Galium_ and _Asperula_, _Campanula_ and
+  _Brassica_ and _Raphanus_, _Galium_ and _Asperula_, _[[Campanula]]_ and
   _Phyteuma_, _Verbascum_ and _Celsia_. Among animals, new records and
   new experiments are almost equally numerous. Boveri has crossed
   _Echinus microtuberculatus_ with _Sphaerechinus granularis_. Thomas
-  Hunt Morgan even obtained hybrids between Asterias, a starfish, and
+  [[Hunt]] Morgan even obtained hybrids between Asterias, a starfish, and
   _Arbacia_, a sea-urchin, a cross as remote as would be that between a
-  fish and a mammal. Vernon got many hybrids by fertilizing the eggs of
+  fish and a mammal. Vernon got many hybrids by fertilizing the [[Egg|eggs]] of
   _Strongylocentrotus lividus_ with the sperm of _Sphaerechinus
   granularis_. Standfuss has carried on an enormous series of
-  experiments with Lepidopterous insects, and has obtained a very large
+  experiments with Lepidopterous [[Insect|insects]], and has obtained a very large
   series of hybrids, of which he has kept careful record. Lepidopterists
   generally begin to suspect that many curious forms offered by dealers
   as new species are products got by crossing known species. Apellö has
@@ -148,11 +148,11 @@ genera is not infrequent.
   striking are that of the hybrid between _Colaptes cafer_ and _C.
   auratus_, which occurs over a very wide area of North America and is
   known as _C. hybridus_, and the hybrid between _Euplocamus lineatus_
-  and _E. horsfieldi_, which appears to be common in Assam. St M.
+  and _E. horsfieldi_, which appears to be common in [[Assam]]. St M.
   Podmore has produced successful crosses between the wood-pigeon
   (_Columba palumbus_) and a domesticated variety of the rock pigeon
   (_C. livia_). Among mammals noteworthy results have been obtained by
-  Professor Cossar Ewart, who has bred nine zebra hybrids by crossing
+  Professor Cossar [[Ewart]], who has bred nine zebra hybrids by crossing
   mares of various sizes with a zebra stallion, and who has studied in
   addition three hybrids out of zebra mares, one sired by a donkey, the
   others by ponies. Crosses have been made between the common rabbit
@@ -160,20 +160,20 @@ genera is not infrequent.
   of the results have been exhibited in the Zoological Gardens of
   Sydney, New South Wales. The Carnivora generally are very easy to
   hybridize, and many successful experiments have been made with animals
-  in captivity. Karl Hagenbeck of Hamburg has produced crosses between
+  in captivity. Karl [[Hagenbeck]] of [[Hamburg]] has produced crosses between
   the lion (_Felis leo_) and the tiger (_F. tigris_). What was probably
-  a "tri-hybrid" in which lion, leopard and jaguar were mingled was
+  a "tri-hybrid" in which lion, [[Leopard|leopard]] and [[Jaguar|jaguar]] were mingled was
   exhibited by a London showman in 1908. Crosses between various species
   of the smaller cats have been fertile on many occasions. The black
   bear (_Ursus americanus_) and the European brown bear (_U. arctos_)
   bred in the London Zoological Gardens in 1859, but the three cubs did
   not reach maturity. Hybrids between the brown bear and the
-  grizzly-bear (_U. horribilis_) have been produced in Cologne, whilst
-  at Halle since 1874 a series of successful matings of polar (_U.
+  grizzly-bear (_U. horribilis_) have been produced in [[Cologne]], whilst
+  at [[Halle]] since 1874 a series of successful matings of polar (_U.
   maritimus_) and brown bears have been made. Examples of these hybrid
   bears have been exhibited by the London Zoological Society. The London
   Zoological Society has also successfully mated several species of
-  antelopes, for instance, the water-bucks _Kobus ellipsiprymnus_ and
+  [[Antelope|antelopes]], for instance, the water-bucks _Kobus ellipsiprymnus_ and
   _K. unctuosus_, and Selous's antelope _Limnotragus selousi_ with _L.
   gratus_.
 
@@ -184,7 +184,7 @@ zoological affinity, and in many cases hybrids are not naturally
 produced simply from absence of the stimulus to sexual mating, or
 because of preferential mating within the species or variety. In
 addition to differences of habit, temperament, time of maturity, and so
-forth, gross structural differences may make mating impossible. Thus
+forth, [[Gross|gross]] structural differences may make mating impossible. Thus
 Escherick contends that among insects the peculiar structure of the
 genital appendages makes cross-impregnation impossible, and there is
 reason to believe that the specific peculiarities of the modified sexual
@@ -230,7 +230,7 @@ certainly infertile, others appear to be indefinitely fertile.
   there seems no reason to doubt that many plant hybrids are quite
   fertile. In the case of animals the evidence is rather against
   fertility. Standfuss, who has made experiments lasting over many
-  years, and who has dealt with many genera of Lepidoptera, obtained no
+  years, and who has dealt with many genera of [[Lepidoptera]], obtained no
   fertile hybrid females, although he found that hybrid males paired
   readily and successfully with pure-bred females of the parent races.
   Elliot, dealing with birds, concluded that no hybrids were
@@ -256,7 +256,7 @@ certainly infertile, others appear to be indefinitely fertile.
   Cornevin and Lesbre state that in 1873 an Arab mule was fertilized in
   Africa by a stallion, and gave birth to female offspring which she
   suckled. All three were brought to the Jardin d'Acclimatation in
-  Paris, and there the mule had a second female colt to the same father,
+  Paris, and there the mule had a second female [[Colt|colt]] to the same father,
   and subsequently two male colts in succession to an ass and to a
   stallion. The female progeny were fertilized, but their offspring were
   feeble and died at birth. Cossar Ewart gives an account of a recent
@@ -304,15 +304,15 @@ parent of the older species being prepotent. In reciprocal pairing, he
 found that the male was able to transmit the characters of the parents
 in a higher degree. Cossar Ewart, in relation to zebra hybrids, has
 discussed the matter of resemblance to parents in very great detail, and
-fuller information must be sought in his writings. He shows that the
+[[Fuller|fuller]] information must be sought in his writings. He shows that the
 wild parent is not necessarily prepotent, although many writers have
 urged that view. He described three hybrids bred out of a zebra mare by
 different horses, and found in all cases that the resemblance to the
 male or horse parent was more profound. Similarly, zebra-donkey hybrids
-out of zebra mares bred in France and in Australia were in characters
+out of zebra mares bred in France and in [[Australia]] were in characters
 and disposition far more like the donkey parents. The results which he
 obtained in the hybrids which he bred from a zebra stallion and
-different mothers were more variable, but there was rather a balance in
+different mothers were more variable, but there was rather a [[Balance|balance]] in
 favour of zebra disposition and against zebra shape and marking.
 
   "Of the nine zebra-horse hybrids I have bred," he says, "only two in
@@ -321,7 +321,7 @@ favour of zebra disposition and against zebra shape and marking.
   of their markings from the zebra, while in their ground colour they
   take after their respective dams or the ancestors of their dams far
   more than after the zebra--the hybrid out of the yellow and white
-  Iceland pony, e.g. instead of being light in colour, as I anticipated,
+  [[Iceland]] pony, e.g. instead of being light in colour, as I anticipated,
   is for the most part of a dark dun colour, with but indistinct
   stripes. The hoofs, mane and tail of the hybrids are at the most
   intermediate, but this is perhaps partly owing to reversion towards
@@ -357,7 +357,7 @@ identical.
 The cases of alleged graft-hybridism are exceedingly few, considering
 the enormous number of grafts that are made every year by
 horticulturists, and have been so made for centuries. Of these cases the
-most celebrated are those of Adam's laburnum (_Cytisus Adami_) and the
+most celebrated are those of Adam's [[Laburnum|laburnum]] (_Cytisus Adami_) and the
 bizzarria orange. Adam's laburnum is now flourishing in numerous places
 throughout Europe, all the trees having been raised as cuttings from the
 original graft, which was made by inserting a bud of the purple laburnum
@@ -383,7 +383,7 @@ which now occur blended in the triple hybrid.
 
 The other instances of alleged graft-hybridism are too numerous to be
 here noticed in detail; they refer to jessamine, ash, hazel, vine,
-hyacinth, potato, beet and rose. Of these the cases of the vine, beet
+[[Hyacinth|hyacinth]], potato, [[Beet|beet]] and rose. Of these the cases of the vine, beet
 and rose are the strongest as evidence of graft-hybridization, from the
 fact that some of them were produced as the result of careful
 experiments made by very competent experimentalists. On the whole, the
@@ -394,7 +394,7 @@ of this kind, negative evidence, however great in amount, may be
 logically dissipated by a single positive result.
 
 _Theory of Hybridism._--Charles Darwin was interested in hybridism as an
-experimental side of biology, but still more from the bearing of the
+experimental side of [[Biology|biology]], but still more from the bearing of the
 facts on the theory of the origin of species. It is obvious that
 although hybridism is occasionally possible as an exception to the
 general infertility of species inter se, the exception is still more
@@ -490,14 +490,14 @@ observers returned to the work of Mendel (see MENDELISM), and made it
 the foundation of much experimental work and still more theory. It is
 still too soon to decide if the confident predictions of the Mendelians
 are justified, but it seems clear that a combination of Mendel's
-numerical results with Weismann's (see HEREDITY) conception of the
+numerical results with Weismann's (see [[Heredity|HEREDITY]]) conception of the
 particulate character of the germ-plasm, or hereditary material, is at
 the root of the phenomena of hybridism, and that Darwin was justified in
 supposing it to lie outside the sphere of natural selection and to be a
 fundamental fact of living matter.
 
   AUTHORITIES.--Apellö, "Über einige Resultate der Kreuzbefruchtung bei
-  Knochenfischen," _Bergens mus. aarbog_ (1894); Bateson, "Hybridization
+  Knochenfischen," _[[Bergen|Bergens]] mus. aarbog_ (1894); Bateson, "Hybridization
   and Cross-breeding," _Journal of the Royal Horticultural Society_
   (1900); J. L. Bonhote, "Hybrid Ducks," _Proc. Zool. Soc. of London_
   (1905), p. 147; Boveri, article "Befruchtung," in _Ergebnisse der
@@ -521,7 +521,7 @@ fundamental fact of living matter.
   _Jour. Linn. Soc._ xix. 337; H. Scherren, "Notes on Hybrid Bears,"
   _Proc. Zool. Soc. of London_ (1907), p. 431; Saunders, _Proc. Roy.
   Soc._ (1897), lxii. 11; Standfuss, "Études de zoologie expérimentale,"
-  _Arch. Sci. Nat._ vi. 495; Suchetet, "Les Oiseaux hybrides rencontrés
+  _[[Arch]]. Sci. Nat._ vi. 495; Suchetet, "Les Oiseaux hybrides rencontrés
   à l'état sauvage," _Mém. Soc. Zool._ v. 253-525, and vi. 26-45;
   Vernon, "The Relation between the Hybrid and Parent Forms of Echinoid
   Larvae," _Proc. Roy. Soc._ lxv. 350; Wallace, _Darwinism_ (1889);

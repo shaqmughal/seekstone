@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Eubulides"
 EUBULIDES, a native of Miletus, Greek philosopher and successor of
 Eucleides as head of the Megarian school. Nothing is known of the events
 of his life. Indirect evidence shows that he was a contemporary of
-Aristotle, whom he attacked with great bitterness. There was also a
+[[Aristotle]], whom he attacked with great bitterness. There was also a
 tradition that Demosthenes was one of his pupils. His name has been
 preserved chiefly by some celebrated, though false and captious,
 syllogisms of which he was the reputed author. Though mainly examples of

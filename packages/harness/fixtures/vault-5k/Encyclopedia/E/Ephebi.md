@@ -23,10 +23,10 @@ hat), made up their equipment. In their second year they were
 transferred to other garrisons in Attica, patrolled the frontiers, and
 on occasion took an active part in war. During these two years they were
 free from taxation, and were not allowed (except in certain cases) to
-appear in the law courts as plaintiffs or defendants. The ephebi took
+appear in the law courts as plaintiffs or [[Defendant|defendants]]. The ephebi took
 part in some of the most important Athenian festivals. Thus during the
 Eleusinia they were told off to fetch the sacred objects from Eleusis
-and to escort the image of Iacchus on the sacred way. They also
+and to escort the [[Image|image]] of Iacchus on the sacred way. They also
 performed police duty at the meetings of the ecclesia.
 
 After the end of the 4th century B.C. the institution underwent a
@@ -38,7 +38,7 @@ was mainly due to the weakening of the military spirit and the progress
 of intellectual culture. The military element was no longer
 all-important, and the ephebia became a sort of university for
 well-to-do young men of good family, whose social position has been
-compared with that of the Athenian "knights" of earlier times. The
+compared with that of the Athenian "[[Knight|knights]]" of earlier times. The
 institution lasted till the end of the 3rd century A.D.
 
 It is probable that the ephebia was in existence in the 5th century

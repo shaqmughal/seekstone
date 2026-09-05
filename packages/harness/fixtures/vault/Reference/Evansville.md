@@ -6,7 +6,7 @@ topic: biography
 
 # Evansville
 
-EVANSVILLE, a city and the county-seat of Vanderburg county, Indiana,
+EVANSVILLE, a city and the county-seat of Vanderburg county, [[Indiana]],
 U.S.A., and a port of entry, on the N. bank of the Ohio river, 200 m.
 below Louisville, Kentucky--measuring by the windings of the river,
 which double the direct distance. Pop. (1890) 50,756; (1900) 59,007;
@@ -16,7 +16,7 @@ from England), and 17,419 were of foreign parentage (both parents
 foreign-born), and of these 13,910 were of German parentage. Evansville
 is served by the Evansville & Terre Haute, the Evansville &
 Indianapolis, the Illinois Central, the Louisville & Nashville, the
-Louisville, Henderson & St Louis, and the Southern railways, by several
+Louisville, [[Henderson]] & St Louis, and the Southern railways, by several
 interurban electric lines, and by river steamboats. The city is situated
 on a plateau above the river, and has a number of fine business and
 public buildings, including the court house and city hall, the Southern
@@ -28,11 +28,11 @@ on the Ohio river, which is navigable nearly all the year, combine to
 make it the principal commercial and manufacturing centre of Southern
 Indiana. It is in a tobacco-growing region, is one of the largest
 hardwood lumber markets in the country, and has an important shipping
-trade in pork, agricultural products, dried fruits, lime and limestone,
+trade in pork, agricultural products, dried fruits, lime and [[Limestone|limestone]],
 flour and tobacco. Among its manufactures in 1905 were flour and grist
 mill products (value, $2,638,914), furniture ($1,655,246), lumber and
-timber products ($1,229,533), railway cars ($1,118,376), packed meats
-($998,428), woollen and cotton goods, cigars and cigarettes, malt
+timber products ($1,229,533), railway [[Car|cars]] ($1,118,376), packed [[Meat|meats]]
+($998,428), woollen and cotton goods, [[Cigar|cigars]] and cigarettes, malt
 liquors, carriages and wagons, leather and canned goods. The value of
 the factory products increased from $12,167,524 in 1900 to $19,201,716
 in 1905, or 57.8%, and in the latter year Evansville ranked third among

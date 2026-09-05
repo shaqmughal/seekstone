@@ -1,17 +1,17 @@
 # Cakchiquel
 
 CAKCHIQUEL, a tribe of Central American Indians of Mayan stock, inhabiting
-parts of Guatemala. Their name is said to be that of a native tree. At the
+parts of [[Guatemala]]. Their name is said to be that of a native tree. At the
 conquest they were found to be in a much civilized condition.
 
-See D.G. Brinton, _Annals of the Cakchiquels_.
+See D.G. Brinton, _[[Annals]] of the Cakchiquels_.
 
 [v.04 p.0962] CALABAR (or OLD CALABAR), a seaport of West Africa in the
 British protectorate of Southern Nigeria, on the left bank of the Calabar
 river in 4 deg. 56' N., 8 deg. 18' E., 5 m. above the point where the river falls
 into the Calabar estuary of the Gulf of Guinea. Pop. about 15,000. It is
 the capital of the eastern province of the protectorate, and is in regular
-steamship and telegraphic communication with Europe. From the beach, where
+steamship and telegraphic communication with Europe. From the [[Beach|beach]], where
 are the business houses and customs office, rise cliffs of moderate
 elevation, and on the sides or summits of the hills are the principal
 buildings, such as Government House, the European hospital and the church
@@ -32,7 +32,7 @@ arrival, when as yet the present inhabitants were unknown in the district.
 It was not till the early part of the 18th century that the Efik, owing to
 civil war with their kindred and the Ibibio, migrated from the
 neighbourhood of the Niger to the shores of the river Calabar, and
-established themselves at Ikoritungko or Creek Town, a spot 4 m. higher up
+established themselves at Ikoritungko or [[Creek]] Town, a spot 4 m. higher up
 the river. To get a better share in the European trade at the mouth of the
 river a body of colonists migrated further down and built Obutoeng or Old
 Town, and shortly afterwards a rival colony established itself at Aqua Akpa
@@ -42,7 +42,7 @@ been for several generations the middle men between the white traders on
 the coast and the inland tribes of the Cross river and Calabar district.
 Christian missions have been at work among the Efiks since the middle of
 the 19th century. Many of the natives are well educated, profess
-Christianity and dress in European fashion. A powerful bond of union among
+Christianity and [[Dress|dress]] in European fashion. A powerful bond of union among
 the Efik, and one that gives them considerable influence over other tribes,
 is the secret society known as the Egbo (_q.v._). The chiefs of Duke Town
 and other places in the neighbourhood placed themselves in 1884 under

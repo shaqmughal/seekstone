@@ -1,9 +1,9 @@
 # Grosseteste
 
 GROSSETESTE, ROBERT (c. 1175-1253), English statesman, theologian and
-bishop of Lincoln, was born of humble parents at Stradbrook in Suffolk.
+bishop of [[Lincoln]], was born of humble parents at Stradbrook in Suffolk.
 He received his education at Oxford where he became proficient in law,
-medicine and the natural sciences. Giraldus Cambrensis, whose
+medicine and the natural sciences. [[Giraldus Cambrensis]], whose
 acquaintance he had made, introduced him, before 1199, to William de
 Vere, bishop of Hereford. Grosseteste aspired to a post in the bishop's
 household, but being deprived by death of this patron betook himself to
@@ -14,11 +14,11 @@ gained considerable distinction as a lecturer, and was the first rector
 of the school which the Franciscans established in Oxford about 1224.
 Grosseteste's learning is highly praised by Roger Bacon, who was a
 severe critic. According to Bacon, Grosseteste knew little Greek or
-Hebrew and paid slight attention to the works of Aristotle, but was
+Hebrew and paid slight attention to the works of [[Aristotle]], but was
 pre-eminent among his contemporaries for his knowledge of the natural
 sciences. Between 1214 and 1231 Grosseteste held in succession the
-archdeaconries of Chester, Northampton and Leicester. In 1232, after a
-severe illness, he resigned all his benefices and preferments except one
+archdeaconries of [[Chester]], Northampton and Leicester. In 1232, after a
+severe illness, he resigned all his [[Benefice|benefices]] and preferments except one
 prebend which he held at Lincoln. His intention was to spend the rest of
 his life in contemplative piety. But he retained the office of
 chancellor, and in 1235 accepted the bishopric of Lincoln. He undertook
@@ -30,8 +30,8 @@ visitation over their community. The dispute raged hotly from 1239 to
 1245. It was conducted on both sides with unseemly violence, and those
 who most approved of Grosseteste's main purpose thought it needful to
 warn him against the mistake of over-zeal. But in 1245, by a personal
-visit to the papal court at Lyons, he secured a favourable verdict. In
-ecclesiastical politics the bishop belonged to the school of Becket. His
+visit to the papal court at [[Lyons]], he secured a favourable verdict. In
+ecclesiastical politics the bishop belonged to the school of [[Becket]]. His
 zeal for reform led him to advance, on behalf of the courts-Christian,
 pretensions which it was impossible that the secular power should admit.
 He twice incurred a well-merited rebuke from Henry III. upon this
@@ -58,7 +58,7 @@ separate the clergy from the baronage. "It is written," the bishop said,
 It was, however, soon made clear that the king and pope were in alliance
 to crush the independence of the English clergy; and from 1250 onwards
 Grosseteste openly criticized the new financial expedients to which
-Innocent IV. had been driven by his desperate conflict with the Empire.
+[[Innocent]] IV. had been driven by his desperate conflict with the Empire.
 In the course of a visit which he made to Innocent in this year, the
 bishop laid before the pope and cardinals a written memorial in which he
 ascribed all the evils of the Church to the malignant influence of the
@@ -66,7 +66,7 @@ Curia. It produced no effect, although the cardinals felt that
 Grosseteste was too influential to be punished for his audacity. Much
 discouraged by his failure the bishop thought of resigning. In the end,
 however, he decided to continue the unequal struggle. In 1251 he
-protested against a papal mandate enjoining the English clergy to pay
+protested against a papal [[Mandate|mandate]] enjoining the English clergy to pay
 Henry III. one-tenth of their revenues for a crusade; and called
 attention to the fact that, under the system of provisions, a sum of
 70,000 marks was annually drawn from England by the alien nominees of
@@ -74,12 +74,12 @@ Rome. In 1253, upon being commanded to provide in his own diocese for a
 papal nephew, he wrote a letter of expostulation and refusal, not to the
 pope himself but to the commissioner, Master Innocent, through whom he
 received the mandate. The text of the remonstrance, as given in the
-_Burton Annals_ and in Matthew Paris, has possibly been altered by a
+_[[Burton]] [[Annals]]_ and in [[Matthew]] Paris, has possibly been altered by a
 forger who had less respect than Grosseteste for the papacy. The
 language is more violent than that which the bishop elsewhere employs.
 But the general argument, that the papacy may command obedience only so
 far as its commands are consonant with the teaching of Christ and the
-apostles, is only what should be expected from an ecclesiastical
+[[Apostle|apostles]], is only what should be expected from an ecclesiastical
 reformer of Grosseteste's time. There is much more reason for suspecting
 the letter addressed "to the nobles of England, the citizens of London,
 and the community of the whole realm," in which Grosseteste is
@@ -91,7 +91,7 @@ Grosseteste numbered among his most intimate friends the Franciscan
 teacher, Adam Marsh (q.v.). Through Adam he came into close relations
 with Simon de Montfort. From the Franciscan's letters it appears that
 the earl had studied a political tract by Grosseteste on the difference
-between a monarchy and a tyranny; and that he embraced with enthusiasm
+between a monarchy and a tyranny; and that he embraced with [[Enthusiasm|enthusiasm]]
 the bishop's projects of ecclesiastical reform. Their alliance began as
 early as 1239, when Grosseteste exerted himself to bring about a
 reconciliation between the king and the earl. But there is no reason to
@@ -117,7 +117,7 @@ defects of temper and discretion. But they see in him the pioneer of a
 literary and scientific movement; not merely a great ecclesiastic who
 patronized learning in his leisure hours, but the first mathematician
 and physicist of his age. It is certainly true that he anticipated, in
-these fields of thought, some of the most striking ideas to which Roger
+these [[Fields|fields]] of thought, some of the most striking ideas to which Roger
 Bacon subsequently gave a wider currency.
 
   See the _Epistolae Roberti Grosseteste_ (Rolls Series, 1861) edited
@@ -128,7 +128,7 @@ Bacon subsequently gave a wider currency.
   1503, A French poem, _Le Chastel d'amour_, sometimes attributed to
   him, has been printed by the Caxton Society. Two curious tracts, the
   "De moribus pueri ad mensam" (printed by Wynkyn de Worde) and the
-  "Statuta familiae Roberti Grosseteste" (printed by J. S. Brewer in
+  "Statuta familiae Roberti Grosseteste" (printed by J. S. [[Brewer]] in
   _Monumenta Franciscana_, i. 582), may be from his pen; but the editor
   of the latter work ascribes it to Adam de Marsh. There is less doubt
   respecting the _Reules Seynt Robert_, a tract giving advice for the

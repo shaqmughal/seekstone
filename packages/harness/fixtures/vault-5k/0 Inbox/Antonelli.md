@@ -2,7 +2,7 @@
 
 ANTONELLI, GIACOMO (1806-1876), Italian cardinal, was born at Sonnino on
 the 2nd of April 1806. He was educated for the priesthood, but, after
-taking minor orders, gave up the idea of becoming a priest, and chose an
+taking minor orders, gave up the idea of becoming a priest, and [[Chose|chose]] an
 administrative career. Created secular prelate, he was sent as apostolic
 delegate to Viterbo, where he early manifested his reactionary
 tendencies in an attempt to stamp out Liberalism. Recalled to Rome in

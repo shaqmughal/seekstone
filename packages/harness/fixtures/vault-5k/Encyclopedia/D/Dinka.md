@@ -16,9 +16,9 @@ free owing to the vast extent of their country, estimated to cover
 race with skins of almost blue black. The men wear practically no
 clothes, married women having a short apron, and unmarried girls a
 fringe of iron cones round the waist. They tattoo themselves with tribal
-marks, and extract the lower incisors; they also pierce the ears and lip
-for the attachment of ornaments, and wear a variety of feather, iron,
-ivory and brass ornaments. Nearly all shave the head, but some give the
+marks, and extract the lower incisors; they also pierce the [[Ear|ears]] and [[Lip|lip]]
+for the attachment of ornaments, and wear a variety of [[Feather|feather]], iron,
+[[Ivory|ivory]] and brass ornaments. Nearly all shave the head, but some give the
 hair a reddish colour by moistening it with animal matter. Polygamy is
 general; some headmen have as many as thirty or more wives; but six is
 the average number. They are great cattle and sheep breeders; the men
@@ -47,16 +47,16 @@ It is an interesting medieval town, still surrounded by old walls and
 towers, and has an Evangelical and two Roman Catholic churches. Notable
 is the so-called _Deutsches Haus_, the ancestral home of the counts of
 Drechsel-Deufstetten, a fine specimen of the German renaissance style of
-wooden architecture. There are a Latin and industrial school, several
+wooden architecture. There are a Latin and [[Industrial School|industrial school]], several
 benevolent institutions, and a monument to Christoph von Schmid
 (1768-1854), a writer of stories for the young. The inhabitants carry on
-the manufacture of brushes, gloves, stockings and gingerbread, and deal
+the manufacture of brushes, [[Glove|gloves]], stockings and gingerbread, and deal
 largely in cattle.
 
 Fortified by the emperor Henry I., Dinkelsbühl received in 1305 the same
 municipal rights as Ulm, and obtained in 1351 the position of a free
 imperial city, which it retained till 1802, when it passed to Bavaria.
-Its municipal code, the _Dinkelsbuhler Recht_, published in 1536, and
+Its municipal [[Code|code]], the _Dinkelsbuhler Recht_, published in 1536, and
 revised in 1738, contained a very extensive collection of public and
 private laws.
 

@@ -11,7 +11,7 @@ century A.D. He was the author of a Greek translation of a Latin
 grammar, intended to assist the Greek-speaking inhabitants of the empire
 in learning Latin. The translation, at first word for word, becomes less
 frequent, and finally is discontinued altogether. The Latin grammar used
-was based on the same authorities as those of Charisius and Diomedes,
+was based on the same authorities as those of [[Charisius]] and [[Diomedes]],
 which accounts for the many points of similarity. Dositheus contributed
 very little of his own. Some Greek-Latin exercises by an unknown writer
 of the 3rd century, to be learnt by heart and translated, were added to
@@ -29,7 +29,7 @@ manumissionibus_).
   separately (1871); _Hermeneumata_ by G. Götz (1892) (in G. Löwe's
   _Corpus glossariorum Latinorum_, iii.) and E. Böcking (1832), which
   contains the appendix (including the legal fragment); see also C.
-  Lachmann, _Versuch über Dositheus_ (1837); H. Hagen, _De Dosithei
+  Lachmann, _Versuch über Dositheus_ (1837); H. [[Hagen]], _De Dosithei
   magistri quae feruntur glossis_ (1877).
 
 ## See also

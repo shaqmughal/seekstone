@@ -11,7 +11,7 @@ hands of his lord, uttered words to this effect: "I become your man from
 this day forth, of life and limb, and will hold faith to you for the
 lands I claim to hold of you." The oath of fealty, which could be
 received by proxy, followed the act of homage; then came the ceremony of
-investiture, either directly on the ground or by the delivery of a turf,
+[[Investiture|investiture]], either directly on the ground or by the delivery of a turf,
 a handful of earth, a stone, or some other symbolical object. Homage was
 done not only by the vassal to whom feudal lands were first granted but
 by every one in turn by whom they were inherited, since they were not
@@ -27,7 +27,7 @@ resembled the obligations undertaken towards a Teutonic chief by the
 members of his "comitatus" or "gefolge," one of the institutions from
 which feudalism directly sprang. Besides _homagium ligeum_, there was a
 kind of homage which imposed no feudal duty; this was _homagium per
-paragium_, such as the dukes of Normandy rendered to the kings of
+paragium_, such as the [[Dukes|dukes]] of Normandy rendered to the kings of
 France, and as the dukes of Normandy received from the dukes of
 Brittany. The act of liege homage to a particular lord did not interfere
 with the vassal's allegiance as a subject to his sovereign, or with his

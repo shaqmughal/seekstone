@@ -2,10 +2,10 @@
 
 CANACHUS, a sculptor of Sicyon in Achaea, of the latter part of the 6th
 century B.C. He was especially noted as the author of two great statues
-of Apollo, one in bronze made for the temple at Miletus, and one in
-cedar wood made for Thebes. The coins of Miletus furnish us with copies
+of [[Apollo]], one in bronze made for the temple at Miletus, and one in
+cedar wood made for Thebes. The [[Coin|coins]] of Miletus furnish us with copies
 of the former and show the god to have held a stag in, one hand and a
-bow in the other. The rigidity of these works naturally impressed later
+[[Bow|bow]] in the other. The rigidity of these works naturally impressed later
 critics.
 
 
@@ -15,36 +15,36 @@ CANADA. The Dominion of Canada comprises the northern half of the
 continent of North America and its adjacent islands, excepting Alaska,
 which belongs to the United States, and Newfoundland, still a separate
 colony of the British empire. Its boundary on the south is the parallel
-of latitude 49 deg., between the Pacific Ocean and Lake-of-the-Woods,
+of [[Latitude|latitude]] 49 deg., between the Pacific Ocean and Lake-of-the-Woods,
 then a chain of small lakes and rivers eastward to the mouth of Pigeon
 river on the north-west side of Lake Superior, and the Great Lakes with
-their connecting rivers to Cornwall, on the St Lawrence. From this
-eastward to the state of Maine the boundary is an artificial line nearly
+their connecting rivers to [[Cornwall]], on the St [[Lawrence]]. From this
+eastward to the state of [[Maine]] the boundary is an artificial line nearly
 corresponding to lat. 45 deg.; then an irregular line partly determined
 by watersheds and rivers divides Canada from Maine, coming out on the
 Bay of Fundy. The western boundary is the Pacific on the south, an
 irregular line a few miles inland from the coast along the "pan handle"
-of Alaska to Mount St Elias, and the meridian of 141 deg. to the Arctic
+of Alaska to Mount St Elias, and the meridian of 141 deg. to the [[Arctic]]
 Ocean. A somewhat similar relationship cuts off Canada from the Atlantic
 on the east, the north-eastern coast of Labrador belonging to
 Newfoundland.
 
-_Physical Geography._--In spite of these restrictions of its natural
+_Physical [[Geography]]._--In spite of these restrictions of its natural
 coast line on both the Atlantic and the Pacific, Canada is admirably
 provided with harbours on both oceans. The Gulf of St Lawrence with its
 much indented shores and the coast of Nova Scotia and New Brunswick
-supply endless harbours, the northern ones closed by ice in the winter,
+supply endless harbours, the northern ones closed by [[Ice|ice]] in the winter,
 but the southern ones open all the year round; and on the Pacific
-British Columbia is deeply fringed with islands and fjords with
+[[British Columbia]] is deeply fringed with islands and fjords with
 well-sheltered harbours everywhere, in strong contrast with the unbroken
 shore of the United States to the south. The long stretches of sheltered
-navigation from the Straits of Belle Isle north of Newfoundland to
+navigation from the Straits of [[Belle Isle]] north of Newfoundland to
 Quebec, and for 600 m. on the British Columbian coast, are of great
-advantage for the coasting trade. The greatly varied Arctic coast line
+advantage for the [[Coasting|coasting]] trade. The greatly varied Arctic coast line
 of Canada with its large islands, inlets and channels is too much
-clogged with ice to be of much practical use, but Hudson Bay, a
+clogged with ice to be of much practical use, but [[Hudson Bay]], a
 mediterranean sea 850 m. long from north to south and 600 m. wide, with
-its outlet Hudson Strait, has long been navigated by trading ships and
+its outlet [[Hudson]] Strait, has long been navigated by trading ships and
 whalers, and may become a great outlet for the wheat of western Canada,
 though closed by ice except for four months in the summer. Of the nine
 provinces of Canada only three have no coast line on salt water,
@@ -66,7 +66,7 @@ south-east and south-west. In the main it is a broad trough, wider
 towards the north than towards the south, and unsymmetrical, Hudson Bay
 occupying much of its north-eastern part, while to the west broad plains
 rise gradually to the foot-hills of the Rocky Mountains, the eastern
-member of the Cordillera which follows the Pacific coast of America. The
+member of the [[Cordillera]] which follows the Pacific coast of America. The
 physical geography of Canada is so closely bound up with its geology
 that at least an outline of the geological factors involved in its
 history is necessary to understand the present physiography. The
@@ -95,12 +95,12 @@ the south coinciding with the Rocky Mountains proper, but to the
 northward falling back to ranges situated further west in the same
 mountain region. The great central area of Canada is drained towards
 Hudson Bay, but its two largest rivers have separate watersheds, the
-Mackenzie flowing north-west to the Arctic Ocean and the St Lawrence
+[[Mackenzie]] flowing north-west to the Arctic Ocean and the St Lawrence
 north-east towards the Atlantic, the one to the south-west and the other
 to the south-east of the Archean protaxis. While these ancient events
 shaped the topography in a broad way, its final development was
-comparatively recent, during the glacial period, when the loose
-materials were scoured from some regions and spread out as boulder clay,
+comparatively recent, during the [[Glacial Period|glacial period]], when the loose
+materials were scoured from some regions and spread out as [[Boulder Clay|boulder clay]],
 or piled up as moraines in others; and the original water-ways were
 blocked in many places. The retreat of the ice left Canada much in its
 present condition except for certain post-glacial changes of level which
@@ -117,9 +117,9 @@ shapes, from bodies of water hundreds of miles long and a thousand feet
 deep to ponds lost to sight in the forest. Thousands of these lakes have
 been mapped more or less carefully, and every new survey brings to light
 small lakes hitherto unknown to the white man. For numbers they can be
-compared only with those of Finland and Scandinavia in Europe, and for
+compared only with those of [[Finland]] and Scandinavia in Europe, and for
 size with those of eastern Africa; but for the great extent of
-lake-filled country there is no comparison. From the map it will be
+lake-filled country there is no comparison. From the [[Map|map]] it will be
 noticed that the largest and most thickly strewn lakes occur within five
 hundred or a thousand miles of Hudson Bay, and belong to the Archean
 protaxis or project beyond its edges into the Palaeozoic sedimentary
@@ -133,7 +133,7 @@ most varied shapes, since they represent merely portions of the
 irregular surface inundated by some morainic dam at the lowest point.
 Comparatively few have simple outlines and an unbroken surface of water,
 the great majority running into long irregular bays and containing many
-islands, sometimes even thousands in number, as in Georgian Bay and
+islands, sometimes even thousands in number, as in [[Georgian Bay]] and
 Lake-of-the-Woods. In the Cordilleran region on the other hand the lakes
 are long, narrow and deep, in reality sections of mountain valleys
 occupied by fresh water, just as the fjords of the adjoining coast are
@@ -142,7 +142,7 @@ the same features as the nearest sea coasts but on a smaller scale. The
 majority of the lakes have rocky shores and islands and great variety of
 depth, many of the smaller ones, however, are rimmed with marshes and
 are slowly filling up with vegetable matter, ultimately becoming peat
-bogs, the _muskegs_ of the Indian. Most of Canada is so well watered
+[[Bog|bogs]], the _muskegs_ of the Indian. Most of Canada is so well watered
 that the lakes have outlets and are kept fresh, but there are a few
 small lakes in southern Saskatchewan, e.g. the Quill and Old Wives
 lakes, in regions arid enough to require no outlets. In such cases the
@@ -155,7 +155,7 @@ above it. In many cases the lakes of Canada simply spill over at the
 lowest point from one basin into the next below, making chains of lakes
 with no long or well-defined channels between, since in so young a
 country there has not yet been time for the rivers to have carved wide
-valleys. Thus canoe navigation may be carried on for hundreds of miles,
+valleys. Thus [[Canoe|canoe]] navigation may be carried on for hundreds of miles,
 with here and there a waterfall or a rapid requiring a portage of a few
 hundred yards or at most a mile or two. The river systems are therefore
 in many cases complex and tortuous, and very often the successive
@@ -198,7 +198,7 @@ streams going south to the Missouri, though a few small tributaries of
 the latter river begin on Canadian territory.
 
 The northern part of Alberta and Saskatchewan and much of northern
-British Columbia are drained through the Athabasca and Peace rivers,
+British Columbia are drained through the [[Athabasca]] and Peace rivers,
 first north-eastwards towards Athabasca Lake, then north through Slave
 river to Great Slave Lake, and finally north-west through Mackenzie
 river to the Arctic Ocean. If measured to the head of Peace river the
@@ -206,8 +206,8 @@ Mackenzie has a length of more than 2000 m., and it provides more than
 1000 m. of navigation for stern-wheel steamers. Unfortunately, like
 other northward-flowing rivers, it does not lead down to a frequented
 sea, and so bears little traffic except for the northern fur-trading
-posts. The Mackenzie forms a large but little-known delta in lat. 69
-deg., and in its flood season the head-waters pour down their torrents
+posts. The Mackenzie forms a large but little-known [[Delta|delta]] in lat. 69
+deg., and in its [[Flood|flood]] season the head-waters pour down their torrents
 before the thick ice of the lower part with its severer climate has yet
 given way, piling up the ice in great barriers and giving rise to
 widespread floods along the lower reaches. Similar flooding takes place
@@ -224,10 +224,10 @@ traffic connected with the rich Klondike gold-fields passes over its
 waters. The rest of the rivers flowing into the Pacific pass through
 British Columbia and are much shorter, though the two southern ones
 carry a great volume of water owing to the heavy precipitation of snow
-and rain in the Cordilleran region. The Columbia is the largest, but
+and rain in the Cordilleran region. The [[Columbia]] is the largest, but
 after flowing north-west and then south for about 400 m., it passes into
 the United States. With its expansions, the narrow and deep Arrow lakes,
-it is an important waterway in the Kootenay region. The Fraser, next in
+it is an important waterway in the Kootenay region. The [[Fraser]], next in
 size but farther north, follows a similar course, entering the sea at
 Vancouver; while the Skeena and Stikine in northern British Columbia are
 much shorter and smaller, owing to the encroachments of Peace and Liard
@@ -235,10 +235,10 @@ rivers, tributaries of the Nelson, on the Cordilleran territory. All of
 these rivers are waterways of some importance in their lower course, and
 are navigated by powerful stern-wheel boats supplying the posts and
 mining camps of the interior with their requirements. In most cases they
-reach the coast through deep valleys or profound canyons, and the
+reach the coast through deep valleys or profound [[Canyon|canyons]], and the
 transcontinental railways find their way beside them, the Canadian
 Pacific following at first tributaries of the Columbia near its great
-bend, and afterwards Thompson river and the Fraser; while the Grand
+[[Bend|bend]], and afterwards Thompson river and the Fraser; while the Grand
 Trunk Pacific makes use of the valley of the Skeena and its tributaries.
 The divide between the rivers flowing west and those flowing east and
 north is very sharp in the southern Rocky Mountains, but there are two
@@ -276,8 +276,8 @@ and the western boundary runs from Lake-of-the-Woods north-west to the
 Arctic Ocean near the mouth of Mackenzie river. The southern parts of
 the Arctic islands, especially Banksland, belong to it also. This vast
 area, shaped like a broad-limbed V or U, with Hudson Bay in the centre,
-is made up chiefly of monotonous and barren Laurentian gneiss and
-granite; but scattered through it are important stretches of Keewatin
+is made up chiefly of monotonous and barren Laurentian [[Gneiss|gneiss]] and
+granite; but scattered through it are important stretches of [[Keewatin]]
 and Huronian rocks intricately folded as synclines in the gneiss, as
 suggested earlier, the bases of ancient mountain ranges. The Keewatin
 and Huronian, consisting of greenstones, schists and more or less
@@ -295,7 +295,7 @@ case of schists forming narrow ridges, while the softer parts form
 valleys generally floored with lakes. From the summit of any of the
 higher hills one sees that the region is really a somewhat dissected
 plain, for all the hills rise to about the same level with a uniform
-skyline at the horizon. The Archean protaxis is sometimes spoken of as
+skyline at the [[Horizon|horizon]]. The Archean protaxis is sometimes spoken of as
 a plateau, but probably half of it falls below 1000 ft. The lowland part
 includes from 100 to 500 m. all round the shore of Hudson Bay, and
 extends south-west to the edge of the Palaeozoic rocks on Lake Winnipeg.
@@ -308,7 +308,7 @@ Quebec and Ontario just north of the divide. The edges of the protaxis
 are in general its highest parts, and the rivers flowing outwards often
 have a descent of several hundred feet in a few miles towards the Great
 Lakes, the St Lawrence or the Atlantic, and in some cases they have cut
-back deep gorges or canyons into the tableland. The waterfalls are
+back deep [[Gorges|gorges]] or canyons into the tableland. The waterfalls are
 utilized at a few points to work up into wood pulp the forests of spruce
 which cover much of Labrador, Quebec and Ontario. Most of the pine that
 formerly grew on the Archean at the northern fringe of the settlements
@@ -326,7 +326,7 @@ some of the larger islands to the north of Hudson Bay and Straits are
 partially covered with glaciers on their higher points. Unless by its
 mineral resources, of which scarcely anything is known, the barren
 grounds can never support a white population and have little to tempt
-even the Indian or Eskimo, who visit it occasionally in summer to hunt
+even the Indian or Eskimo, who visit it occasionally in summer to [[Hunt|hunt]]
 the deer in their migrations.
 
 _The Acadian Region._--The "maritime provinces" of eastern Canada,
@@ -339,10 +339,10 @@ extended coast-line on the Gulf of St Lawrence and the Atlantic, may be
 regarded as a northern continuation of the Appalachian mountain system
 that runs parallel to the Atlantic coast of the United States. The rocks
 underlying it have been subjected to successive foldings and crumplings
-by forces acting chiefly from the direction of the Atlantic Ocean, with
+by forces acting chiefly from the direction of the [[Atlantic Ocean]], with
 alternating prolonged periods of waste and denudation. The main axis of
 disturbance and the highest remaining land runs through the
-south-eastern part of Quebec, forming the Notre Dame Mountains, and
+south-eastern part of Quebec, forming the Notre [[Dame]] Mountains, and
 terminates in the Gaspe peninsula as the Shickshock Mountains. The
 first-named seldom exceed 1500 ft. in height, but the Shickshocks rise
 above 3000 ft. The province of New Brunswick exhibits approximately
@@ -398,23 +398,23 @@ far more extensive farm lands of the west. For many years this southern
 projection of the northern wilderness was spanned by only one railway,
 and offered a serious hindrance to the development of the regions
 beyond; but settlements are now spreading to the north and rapidly
-filling up the gap between east and west.
+filling up the [[Gap|gap]] between east and west.
 
 _The Interior Continental Plain._--Passing westward by rail from the
 forest-covered Archean with its rugged granite hills, the flat prairie
-of Manitoba with its rich grasses and multitude of flowers comes as a
+of Manitoba with its rich [[Grasses|grasses]] and multitude of flowers comes as a
 very striking contrast, introducing the Interior Continental plain in
 its most typical development. This great plain runs north-westward
 between the border of the Archean protaxis and the line of the Rocky
 Mountains, including most of Manitoba, the southern part of Saskatchewan
-and most of Alberta. At the international boundary in lat. 49 deg. it is
+and most of Alberta. At the [[International|international]] boundary in lat. 49 deg. it is
 800 m. wide, but in lat. 56 deg. it has narrowed to 400 m. in width, and
 to the north of lat. 62 deg. it is still narrower and somewhat
 interrupted, but preserves its main physical features to the Arctic
 Ocean about the mouth of the Mackenzie. This interior plain of the
 continent represents the area of the ancient sea by which it was
 occupied in Mesozoic times, with a more ancient margin towards the
-north-west against the Archean, where undisturbed limestones and other
+north-west against the Archean, where undisturbed [[Limestone|limestones]] and other
 rocks of the Silurian and Devonian rest upon the downward slope of the
 Laurentian Shield. Most of the plains are underlain by Cretaceous and
 early Tertiary shales and sandstones lying nearly unaltered and
@@ -482,12 +482,12 @@ border of the coast range of British Columbia is ragged with fjords and
 channels, where large steamers may go 50 or 100 m. inland between
 mountainous walls as on the coast of Norway; and there is also a
 bordering mountain system partly submerged forming Vancouver Island and
-the Queen Charlotte Islands. The highest mountains of the Cordillera in
+the Queen [[Charlotte]] Islands. The highest mountains of the Cordillera in
 Canada are near the southern end of the boundary separating Alaska from
 the Yukon Territory, the meridian of 141 deg., and they include Mount
 Logan (19,540 ft.) and Mount St Elias (18,000 ft.), while the highest
 peak in North America, Mount McKinley (20,000 ft.), is not far to the
-north-west in Alaska. This knot of very lofty mountains, with Mount
+north-west in Alaska. This [[Knot|knot]] of very lofty mountains, with Mount
 Fairweather and some others, all snowy and glacier-clad for almost their
 whole height, are quite isolated from the highest points of the Rocky
 Mountains proper, which are 1000 m. to the south-east. Near the height
@@ -507,7 +507,7 @@ thousands of feet lower down the valley. The timber line is at about
 7500 ft. in southern British Columbia and 4000 ft. in the interior of
 the Yukon Territory. On the westward slopes, especially of the Selkirks
 and Coast Ranges, vegetation is almost tropical in its density and
-luxuriance, the giant cedar and the Douglas fir sometimes having
+luxuriance, the [[Giant|giant]] cedar and the Douglas fir sometimes having
 diameters of 10 ft. or more and rising to the height of 150 ft. On the
 eastern flanks of the ranges the forest is much thinner, and on the
 interior plateau and in many of the valleys largely gives way to open
@@ -515,14 +515,14 @@ grass land. The several ranges of the Cordillera show very different
 types of structure and were formed at different ages, the Selkirks with
 their core of pre-Cambrian granite, gneiss and schists coming first,
 then the Coast Ranges, which seem to have been elevated in Cretaceous
-times, formed mainly by a great upwelling of granite and diorite as
+times, formed mainly by a great upwelling of granite and [[Diorite|diorite]] as
 batholiths along the margin of the continent and sedimentary rocks lying
 as remnants on their flanks; and finally the Rocky Mountains in the
 Laramie or early Eocene, after the close of the Cretaceous. This latest
 and also highest range was formed by tremendous thrusts from the Pacific
 side, crumpling and folding the ancient sedimentary rocks, which run
 from the Cambrian to the Cretaceous, and faulting them along overturned
-folds. The outer ranges in Alberta have usually the form of tilted
+[[Fold|folds]]. The outer ranges in Alberta have usually the form of tilted
 blocks with a steep cliff towards the north-east and a gentler slope,
 corresponding to the dip of the beds, towards the south-west. Near the
 centre of the range there are broader foldings, carved into castle and
@@ -532,7 +532,7 @@ proper no eruptive rocks have broken through, so that no ore deposits of
 importance are known from them, but in the Cretaceous synclines which
 they enclose valuable coal basins exist. Coal of a bituminous and also
 semi-anthracite kind is produced, the best mined on the Pacific slope of
-the continent, the coking coals of the Fernie region supplying the fuel
+the continent, the coking coals of the [[Fernie]] region supplying the [[Fuel|fuel]]
 of the great metal mining districts of the Kootenays in British
 Columbia, and of Montana and other states to the south. The Selkirks and
 Gold Ranges west of the Rockies, with their great areas of eruptive
@@ -573,7 +573,7 @@ especially in summer when in the western half of the country they run
 nearly north-west and south-east; so that the average temperature of 55
 deg. is found about on the Arctic circle in the Mackenzie river valley,
 in lat. 50 deg. near the Lake-of-the-Woods, in lat. 55 deg. at the
-northern end of James Bay, and in lat. 49 deg. on Anticosti in the Gulf
+northern end of James Bay, and in lat. 49 deg. on [[Anticosti]] in the Gulf
 of St Lawrence. The proximity of the sea or of great lakes, the
 elevation and the direction of mountain chains, the usual path of storms
 and of prevalent winds, and the relative length of day and amount of
@@ -583,7 +583,7 @@ like Ontario or British Columbia, as a unit, as it varies so greatly in
 different parts. Details should therefore be sought in articles on the
 separate provinces. In eastern Canada Ungava and Labrador are very chill
 and inhospitable, owing largely to the iceberg-laden current sweeping
-down the coast from Davis Strait, bringing fogs and long snowy winters
+down the coast from Davis Strait, bringing [[Fog|fogs]] and long snowy winters
 and a temperature for the year much below the freezing-point. South of
 the Gulf of St Lawrence, however, the maritime provinces have much more
 genial temperatures, averaging 40 deg. F. for the year and over 60 deg.
@@ -605,7 +605,7 @@ other two prairie provinces, most of this, however, coming opportunely
 from May to August, the months when the growing grain most requires
 moisture. There is a much lighter snowfall in winter than in northern
 Ontario and Quebec, with somewhat lower temperatures. The snow and the
-frost in the ground are considered useful as furnishing moisture to
+[[Frost|frost]] in the ground are considered useful as furnishing moisture to
 start the wheat in spring. The precipitation in southern Saskatchewan
 and Alberta is much more variable than farther east and north, so that
 in some seasons crops have been a failure through drought, but large
@@ -626,7 +626,7 @@ twenty-four in June, are almost the same as for hundreds of miles to
 the south, so that most kinds of grain and vegetables ripen far to the
 north in the Peace river valley. Though the climate of the plains is one
 of extremes and often of rather sudden changes, it is brisk and
-invigorating and of particular value for persons affected with lung
+invigorating and of particular value for persons affected with [[Lung|lung]]
 troubles.
 
 The climate of the Cordilleran region presents even more variety than
@@ -645,7 +645,7 @@ side. The Rocky Mountains have the same relationships but the whole
 precipitation is much less than in the Selkirks. The temperature depends
 largely, of course, on altitude, so that one may quickly pass from
 perpetual snow above 8000 ft. in the mountains to the mild, moist
-climate of Vancouver or Victoria, which is like that of Devonshire. In
+climate of Vancouver or Victoria, which is like that of [[Devonshire]]. In
 the far north of the territories of Yukon, Mackenzie and Ungava the
 climate has been little studied, as the region is uninhabited by white
 men except at a few fur-trading posts. North-west and north-east of
@@ -667,7 +667,7 @@ Eastern Ontario is much the same, except that in Nova Scotia a number of
 species are found common also to Newfoundland that are not apparent
 inland. Professor Macoun gives us a few notable species--_Calluna
 vulgaris_, Salisb., _Alchemilla vulgaris_, L., _Rhododendron maximum_,
-L., _Ilex glabia_, Gray, _Hudsonia ericoides_, L., _Gaylussacia dumosa_,
+L., _Ilex glabia_, [[Gray]], _Hudsonia ericoides_, L., _Gaylussacia dumosa_,
 F. and G., and _Schezaea pusilla_, Pursh. In New Brunswick the western
 flora begins to appear as well as immigrants from the south, while in
 the next eastern province, Quebec, the flora varies considerably. In the
@@ -679,7 +679,7 @@ caespitosa_, L. and S. have been gathered, and on the Shickshock
 Mountains of Eastern Canada _Silene acaulis_, L., _Lychnis alpina_, L.,
 _Cassiope hypnoides_, Don., _Rhododendron laponicum_, Wahl, and many
 others. On the summit of these hills (4000 ft.) have been collected
-_Aspidium aculeatum_, Swartz var., _Scopulinum_, D.C. Eaton, _Pellaea
+_Aspidium aculeatum_, Swartz var., _Scopulinum_, D.C. [[Eaton]], _Pellaea
 densa_, Hook, _Gallium kamtschaticum_, Sletten. From the city of Quebec
 westwards there is a constantly increasing ratio of southern forms, and
 when the mountain (so called) at Montreal is reached the representative
@@ -700,7 +700,7 @@ localities. Northwards, in the Saskatchewan country, the flora of the
 forest and that of the prairies intermingle. On the prairies and the
 foot-hills of the Rocky Mountains a great variety of grasses are found,
 several years' collection resulting in 42 genera and 156 species. Of the
-best hay and pasture grasses, _Agropyrum Elymus, Stipa, Bromus,
+best [[Hay|hay]] and pasture grasses, _Agropyrum Elymus, Stipa, Bromus,
 Agrostis, Calamagrostes_ and _Poa_, there are 59 species. Besides the
 grasses there are leguminous plants valuable for pasture--_Astragalus,
 Vicia_ (wild vetch), _Lathyrus_ (wild pea) of which there are many
@@ -720,9 +720,9 @@ and the northern prairies. On the western slope of the mountains, that
 is, the Selkirk and Coast ranges as distinguished from the eastern or
 Rocky Mountains range, the flora differs, the climate being damp instead
 of dry. In some of the valleys having an outlet to the south the flora
-is partly peculiar to the American desert, and such species as _Purshia
-tridentata_, D.C., and _Artemisia tridentata_, Nutt., and species of
-_Gilia, Aster_ and _Erigonum_ are found that are not met with elsewhere.
+is partly peculiar to the American [[Desert|desert]], and such species as _Purshia
+tridentata_, D.C., and _[[Artemisia]] tridentata_, Nutt., and species of
+_Gilia, [[Aster]]_ and _Erigonum_ are found that are not met with elsewhere.
 Above Yale, in the drier part of the Fraser valley, the absence of rain
 results in the same character of flora, while in the rainy districts of
 the lower Fraser the vegetation is so luxuriant that it resembles that
@@ -740,8 +740,8 @@ Island; the moose, with an equally wide range in the wooded country; the
 Virginia deer, in one or other of its varietal forms, common to all the
 southern parts; the black-tailed deer or mule deer and allied forms, on
 the western edge of the plains and in British Columbia; the pronghorn
-antelope on the plains, and a small remnant of the once plentiful bison
-found in northern Alberta and Mackenzie, now called "wood buffalo." The
+[[Antelope|antelope]] on the plains, and a small remnant of the once plentiful bison
+found in northern Alberta and Mackenzie, now called "wood [[Buffalo|buffalo]]." The
 wapiti or American elk at one time abounded from Quebec to the Pacific,
 and as far north as the Peace river, but is now found only in small
 numbers from Manitoba westwards. In the mountains of the west are the
@@ -749,11 +749,11 @@ grizzly bear, black bear and cinnamon bear. The black bear is also
 common to most other parts of Canada; the polar bear everywhere along
 the Arctic littoral. The large or timber wolf is found in the wooded
 districts of all the provinces, and on the plains there is also a
-smaller wolf called the coyote. In British Columbia the puma or cougar,
+smaller wolf called the [[Coyote|coyote]]. In British Columbia the puma or cougar,
 sometimes called the panther and the American lion, still frequently
-occurs; and in all parts the common fox and the silver fox, the lynx,
+occurs; and in all parts the common [[Fox|fox]] and the silver fox, the [[Lynx|lynx]],
 beaver, otter, marten, fisher, wolverene, mink, skunk and other
-fur-bearing animals. Mountain and plain and Arctic hares and rabbits are
+fur-bearing animals. Mountain and plain and Arctic [[Hare|hares]] and rabbits are
 plentiful or scarce in localities, according to seasons or other
 circumstances. In the mountains of British Columbia are the bighorn or
 Rocky Mountain sheep and the Rocky Mountain goat, while the saddleback
@@ -763,11 +763,11 @@ common to the northern and central states of the United States. The
 wildfowl are, particularly in the west, in great numbers; their
 breeding-grounds extending from Manitoba and the western prairies up to
 Hudson Bay, the barren lands and Arctic coasts. The several kinds of
-geese--including the Canada goose, the Arctic goose or wavey, the
-laughing goose, the brant and others--all breed in the northern regions,
+geese--including the Canada [[Goose|goose]], the Arctic goose or wavey, the
+laughing goose, the [[Brant|brant]] and others--all breed in the northern regions,
 but are found in great numbers throughout the several provinces, passing
 north in the spring and south in the autumn. There are several varieties
-of grouse, the largest of which is the grouse of British Columbia and
+of [[Grouse|grouse]], the largest of which is the grouse of British Columbia and
 the pennated grouse and the prairie chicken of Manitoba and the plains,
 besides the so-called partridge and willow partridge, both of which are
 grouse. While the pennated grouse (called the prairie chicken in Canada)
@@ -777,20 +777,20 @@ Illinois and the south as settlement and accompanying wheatfields
 extended north. In certain parts of Ontario the wild turkey is
 occasionally found and the ordinary quail, but in British Columbia is
 found the California quail, and a larger bird much resembling it called
-the mountain partridge. The golden eagle, bald-headed eagle, osprey and
-a large variety of hawks are common in Canada, as are the snowy owl, the
+the mountain partridge. The golden [[Eagle|eagle]], bald-headed eagle, osprey and
+a large variety of [[Hawks|hawks]] are common in Canada, as are the snowy owl, the
 horned owl and others inhabiting northern climates. The raven frequently
 remains even in the colder parts throughout the winter; these, with the
-Canada jay, waxwing, grosbeak and snow bunting, being the principal
+Canada [[Jay|jay]], waxwing, [[Grosbeak|grosbeak]] and snow [[Bunting|bunting]], being the principal
 birds seen in Manitoba and northern districts in that season. The rook
 is not found, but the common crow and one or two other kinds are there
 during the summer. Song-birds are plentiful, especially in wooded
 regions, and include the American robin, oriole, thrushes, the cat-bird
 and various sparrows; while the English sparrow, introduced years ago,
 has multiplied excessively and become a nuisance in the towns. The
-smallest of the birds, the ruby throat humming-bird, is found
+smallest of the birds, the ruby throat [[Humming-Bird|humming-bird]], is found
 everywhere, even up to timber line in the mountains. The sea-birds
-include a great variety of gulls, guillemots, cormorants, albatrosses
+include a great variety of [[Gull|gulls]], guillemots, [[Cormorant|cormorants]], albatrosses
 (four species), fulmars and petrels, and in the Gulf of St Lawrence the
 gannet is very abundant. Nearly all the sea-birds of Great Britain are
 found in Canadian waters or are represented by closely allied species.
@@ -809,7 +809,7 @@ estimated area of each.
   |   Ontario              |   260,862   |  1,926,922 | 2,182,947   | Toronto       |
   |   Quebec               |   351,873   |  1,359,027 | 1,648,898   | Quebec        |
   |   Nova Scotia          |    21,428   |    440,572 |   459,574   | Halifax       |
-  |   New Brunswick        |    27,985   |    321,233 |   331,120   | Fredericton   |
+  |   New Brunswick        |    27,985   |    321,233 |   331,120   | [[Fredericton]]   |
   |   Manitoba             |    73,732   |     62,260 |   255,211[1]| Winnipeg      |
   |   British Columbia     |   372,630   |     49,459 |   178,657   | Victoria      |
   |   Prince Edward Island |     2,184   |    108,891 |   103,259   | Charlottetown |
@@ -818,10 +818,10 @@ estimated area of each.
   |                        |             |            |             |               |
   | Districts--            |             |            |             |               |
   |   Keewatin             |   516,571   | \          |     8,800   |      . .      |
-  |   Yukon                |   196,976   |  |         |    27,219   | Dawson City   |
+  |   Yukon                |   196,976   |  |         |    27,219   | [[Dawson City]]   |
   |   Mackenzie            |   562,182   |   > 30,931 |     5,216   |      . .      |
   |   Ungava               |   354,961   |  |         |     5,113   |      . .      |
-  |   Franklin             |   500,000   | /          |             |      . .      |
+  |   [[Franklin]]             |   500,000   | /          |             |      . .      |
   +------------------------+-------------+------------+-------------+---------------+
   |   The Dominion         | 3,745,574[2]|  4,324,810 | 5,371,315   | Ottawa        |
   +------------------------+-------------+------------+-------------+---------------+
@@ -839,13 +839,13 @@ North America, excepting Newfoundland, with its dependency, the Labrador
 coast, and the Bermuda islands, were annexed to Canada. West of the
 province of Ontario, then inaccurately defined, the provinces of
 Manitoba and British Columbia were the only organized divisions of the
-western territory, but in 1882 the provisional districts of Assiniboia,
+western territory, but in 1882 the provisional districts of [[Assiniboia]],
 Athabasca, Alberta and Saskatchewan were formed, leaving the remainder
 of the north-west as unorganized territories, a certain portion of the
 north-east, called Keewatin, having previously been placed under the
 lieutenant-governor of Manitoba. In 1905 these four districts were
 formed into the two provinces of Alberta and Saskatchewan, and Keewatin
-was placed directly under the federal government. In 1898, owing to the
+was placed directly under the [[Federal Government|federal government]]. In 1898, owing to the
 influx of miners, the Yukon territory was constituted and granted a
 limited measure of self-government. The unorganized territories are
 sparsely inhabited by Indians, the people of the Hudson's Bay Company's
@@ -904,8 +904,8 @@ The birth-rate is high, especially in Quebec, where families of twelve
 to twenty are not infrequent, but is decreasing in Ontario. In spite of
 the growth of manufactures since 1878, there are few large cities, and
 the proportion of the urban population to the rural is small. Herein it
-differs noticeably from Australia. Between 1891 and 1901 the number of
-farmers in Ontario, Quebec and the Maritime provinces decreased, and
+differs noticeably from [[Australia]]. Between 1891 and 1901 the number of
+[[Farmer|farmers]] in Ontario, Quebec and the Maritime provinces decreased, and
 there seemed a prospect of the country being divided into a
 manufacturing east and an agricultural west, but latterly large tracts
 in northern Ontario and Quebec have proved suitable for cultivation and
@@ -918,7 +918,7 @@ Catholic church ever since the British conquest. In that province about
 others also, embracing over two-fifths of the population of the
 Dominion. The Protestants have shown a tendency to subdivision, and many
 curious and ephemeral sects have sprung up; of late years, however, the
-various sections of Presbyterians, Methodists and Baptists have united,
+various sections of Presbyterians, Methodists and [[Baptists]] have united,
 and a working alliance has been formed between Presbyterians, Methodists
 and Congregationalists. The Methodists are the strongest, and in Ontario
 form over 30% of the population. Next come the Presbyterians, the
@@ -931,7 +931,7 @@ _Indians_.--The Indian population numbers over 100,000 and has slightly
 increased since 1881. Except in British Columbia and the unorganized
 territories, nearly all of these are on reservations, where they are
 under government supervision, receiving an annuity in money and a
-certain amount of provisions; and where, by means of industrial schools
+certain amount of provisions; and where, by means of [[Industrial School|industrial schools]]
 and other methods, civilized habits are slowly superseding their former
 mode of life. British Columbia has about 25,000, most of whom are along
 the coast, though one of the important tribes, the Shuswaps, is in the
@@ -941,13 +941,13 @@ than those of the west, many of them being good farmers. In all the
 provinces they are under the control of the federal government which
 acts as their trustee, investing the money which they derive chiefly
 from the sale of lands and timber, and making a large annual
-appropriation for the payment of their annuities, schools and other
+[[Appropriation|appropriation]] for the payment of their annuities, schools and other
 expenses. While unable to alienate their reservations, save to the
 federal government, they are not confined to them, but wander at
 pleasure. As they progress towards a settled mode of life, they are
 given the franchise; this process is especially far advanced in Ontario.
 A certain number are found in all the provinces. They make incomparable
-guides for fishing, hunting and surveying parties, on which they will
+guides for fishing, [[Hunting|hunting]] and surveying parties, on which they will
 cheerfully undergo the greatest hardships, though tending to shrink from
 regular employment in cities or on farms.
 
@@ -967,11 +967,11 @@ consists of a limited number of notes issued by the federal government,
 and the notes of the chartered banks, together with gold, silver and
 copper coin. Previous to 1906 this coin was minted in England, but in
 that year a branch of the royal mint was established at Ottawa. Though
-the whole financial system rests on the maintenance of the gold
+the whole financial system rests on the [[Maintenance|maintenance]] of the gold
 standard, gold coin plays a much smaller part in daily business than in
 England, France or Germany. United States' notes and silver are usually
 received at par; those of other nations are subject to a varying rate of
-exchange.
+[[Exchange|exchange]].
 
 The banking system, which retains many features of the Scotch system, on
 which it was originally modelled, combines security for the note-holders
@@ -990,8 +990,8 @@ there were 34 chartered banks, of which the branches had grown from 619
 in 1900 to 1565 in 1906, and the number since then has rapidly
 increased. The banks are required by law to furnish to the finance
 minister detailed monthly statements which are published in the official
-gazette. Once in every ten years the banking act is revised and
-weaknesses amended. Clearing-houses have been established in the chief
+[[Gazette|gazette]]. Once in every ten years the banking act is revised and
+weaknesses amended. [[Clearing-House|Clearing-houses]] have been established in the chief
 commercial centres. In October 1906 the chartered banks had an aggregate
 paid-up capital of over $94,000,000 with a note circulation of
 $83,000,000 and deposits of over $553,000,000.
@@ -1014,13 +1014,13 @@ The federal revenue is derived mainly from customs and excise duties,
 with subsidiary amounts from mining licences, timber dues, post-office,
 &c. Both the revenue and the expenditure have in recent years increased
 greatly, the revenue rising from $46,743,103 in 1899 to $71,186,073 in
-1905 and the expenditure keeping pace with it. The debt of the Dominion
+1905 and the expenditure keeping pace with it. The [[Debt|debt]] of the Dominion
 in 1873 and in 1905 was:--
 
   +------------+--------------+--------------+
   |            |      1873.   |     1905.    |
   +------------+--------------+--------------+
-  | Gross debt | $129,743,432 | $377,678,580 |
+  | [[Gross]] debt | $129,743,432 | $377,678,580 |
   | Assets     |   30,894,970 |  111,454,413 |
   | Net debt   |   98,848,462 |  266,224,413 |
   +------------+--------------+--------------+
@@ -1032,7 +1032,7 @@ and of the increasing revenue derived from assets. Whereas in 1867 the
 rate of interest was over 4%, and interest was being paid on former
 provincial loans of over 6%, Canada could in 1906 borrow at 3%.
 
-The greater part of the debt arises from the assumption of the debts of
+The greater part of the debt arises from the [[Assumption|assumption]] of the debts of
 the provinces as they entered federation, expenditure on canals and
 assistance given to railways. It does not include the debts incurred by
 certain provinces since federation, a matter which concerns themselves
@@ -1043,13 +1043,13 @@ licences, succession duties, corporation taxes, &c. British Columbia has
 a direct tax on property and on income. The cities, towns and
 municipalities resort to it to supply their local needs, and there is a
 tendency, especially pronounced in Ontario on account of the excellence
-of her municipal system, to devolve the burden of educational payments,
+of her municipal system, to devolve the [[Burden|burden]] of educational payments,
 and others more properly provincial, upon the municipal authorities on
 the plea of decentralization.
 
 _Commerce and Manufactures._--Since 1867 the opening up of the fertile
 lands in the north-west, the increase of population, the discovery of
-new mineral fields, the construction of railways and the great
+new mineral [[Fields|fields]], the construction of railways and the great
 improvement of the canal system have changed the conditions, methods and
 channels of trade. The great extension during the same period of the use
 of water-power has been of immense importance to Canada, most of the
@@ -1069,7 +1069,7 @@ treaties relating to Canada rests with the government of Great Britain,
 but in most cases the official consent of Canada is required, and for
 many years no treaty repugnant to her interests has been signed. The
 denunciation by the British government in 1897 of commercial treaties
-with Belgium and Germany, at the request of Canada, was a striking proof
+with [[Belgium]] and Germany, at the request of Canada, was a striking proof
 of her increasing importance, and attempts have at various times been
 made to obtain the full treaty-making power for the federal government.
 The great proportion of the foreign trade of the Dominion is with the
@@ -1080,7 +1080,7 @@ export, and with the extension of this industry in the north-west
 provinces and in northern Ontario will probably continue to be so. Gold,
 silver, copper and other minerals are largely exported, chiefly in an
 unrefined state and almost entirely to the United States. The exports of
-lumber are about equally divided between the two. Formerly, the logs
+lumber are about equally divided between the two. Formerly, the [[Log|logs]]
 were shipped as square timber, but now almost always in the form of
 deals, planks or laths; such square timber as is still shipped goes
 almost entirely to Great Britain. Wood pulp for the manufacture of paper
@@ -1106,20 +1106,20 @@ uninhabited harbour, but was being rapidly developed into a flourishing
 city. Though Halifax and St John are open in winter, much of the winter
 trade eastwards is done through American harbours, especially Portland,
 Maine, owing to the shorter railway journey. Esquimalt, Halifax,
-Kingston (Ont.) and Quebec have well-equipped graving-docks. The coast,
+[[Kingston]] (Ont.) and Quebec have well-equipped graving-docks. The coast,
 both of the ocean and of the Great Lakes, is well lighted and protected.
 The decay of the wooden shipbuilding industry has lessened the
 comparative importance of the mercantile marine, but there has been a
 great increase in the tonnage employed in the coasting trade and upon
 inland waters. Numerous steamship lines ply between Canada and Great
 Britain; direct communication exists with France, and the steamers of
-the Canadian Pacific railway run regularly to Japan and to Australia.
+the Canadian Pacific railway run regularly to [[Japan]] and to Australia.
 
 _Internal Communications_.--Her splendid lakes and rivers, the
 development of her canal system, and the growth of railways have made
 the interprovincial traffic of Canada far greater than her foreign, and
 the portfolio of railways and canals is one of the most important in the
-cabinet. There are, nominally, about 200 railways, but about one-half of
+[[Cabinet|cabinet]]. There are, nominally, about 200 railways, but about one-half of
 these, comprising five-sixths of the mileage, have been amalgamated into
 four great systems: the Grand Trunk, the Canadian Pacific, the Canadian
 Northern and the Intercolonial; most of the others have been more or
@@ -1195,7 +1195,7 @@ still valuable, show a lessening production. Sudbury, in Ontario, is the
 centre of the nickel production of the world, the mines being chiefly in
 American hands, and the product exported to the United States. Of the
 less important minerals, Canada is the world's chief producer of
-asbestos and corundum. Copper, lead, silver and all the important metals
+asbestos and [[Corundum|corundum]]. Copper, lead, silver and all the important metals
 are mined in the Rocky Mountain district. From Quebec westwards, vast
 regions are still partly, or completely, unexplored.
 
@@ -1213,13 +1213,13 @@ also taken place in Ontario and the eastern provinces, through the use
 of spruce and other trees, long considered comparatively useless, in the
 manufacture of wood-pulp for paper-making.
 
-_Crown Lands_.--Large areas of unoccupied land remain in all the
+_[[Crown Land|Crown Lands]]_.--Large areas of unoccupied land remain in all the
 provinces (except Prince Edward Island). In Manitoba, Saskatchewan,
 Alberta, the so-called railway belt of British Columbia and the
 territories, these crown lands are chiefly owned by the federal
 parliament; in the other provinces, by the local legislatures. So great
 is their extent that, in spite of the immigration of recent years, the
-Dominion government gives a freehold of 160 acres to every _bona fide_
+Dominion government gives a [[Freehold|freehold]] of 160 acres to every _[[Bona Fide|bona fide]]_
 settler, subject to certain conditions of residence and the erection of
 buildings during the first three years. Mining and timber lands are sold
 or leased at moderate rates. All crown lands controlled by the provinces
@@ -1229,13 +1229,13 @@ railway controls large land areas in the two new provinces; and large
 tracts in these provinces are owned by land companies. Both the Dominion
 and the provincial governments have set apart certain areas to be
 preserved, largely in their wild state, as national parks. Of these the
-most extensive are the Rocky Mountains Park at Banff, Alberta, owned by
+most extensive are the Rocky Mountains Park at [[Banff]], Alberta, owned by
 the Dominion government, and the "Algonquin National Park," north-east
 of Lake Simcoe, the property of Ontario.
 
-_Fisheries_.--The principal fisheries are those on the Atlantic coast,
+_[[Fisheries]]_.--The principal fisheries are those on the Atlantic coast,
 carried on by the inhabitants of Nova Scotia, New Brunswick, Prince
-Edward Island, and the eastern section of Quebec. Cod, herring, mackerel
+Edward Island, and the eastern section of Quebec. [[Cod]], herring, [[Mackerel|mackerel]]
 and lobsters are the fish chiefly caught, though halibut, salmon,
 anchovies and so-called sardines are also exported. Bounties to
 encourage deep-sea fishing have been given by the federal government
@@ -1249,7 +1249,7 @@ majority of the Indians of British Columbia.
 The business of fur-seal catching is carried on to some extent in the
 North Pacific and in Bering Sea by sealers from Victoria, but the
 returns show it to be a decreasing industry, as well as one causing
-friction with the United States. Indeed, no department of national life
+[[Friction|friction]] with the United States. Indeed, no department of national life
 has caused more continual trouble between the two peoples than the
 fisheries, owing to different laws regarding fish protection, and the
 constant invasion by each of the territorial waters of the other.
@@ -1264,7 +1264,7 @@ sustained, though certain concessions were made to the Roman Catholic
 dissentients. Subsequently a similar difficulty arose in Manitoba, where
 the legislature in 1890 abolished the system of separate schools which
 had been established in 1871. After years of bitter controversy, in
-which a federal ministry was overthrown, a compromise was arranged in
+which a federal ministry was overthrown, a [[Compromise|compromise]] was arranged in
 1897, in which the Roman Catholic leaders have never fully acquiesced.
 In the provinces of Alberta and Saskatchewan, formed in 1905, certain
 educational privileges, (though not amounting to a separate school
@@ -1276,7 +1276,7 @@ and 86% of those over five years of age. These percentages have
 gradually risen ever since federation, especially in the province of
 Quebec, which was long in a backward state. The school systems of all
 the provinces are, in spite of certain imperfections, efficient and
-well-equipped, that of Ontario being especially celebrated. A fuller
+well-equipped, that of Ontario being especially celebrated. A [[Fuller|fuller]]
 account of their special features will be found under the articles on
 the different provinces.
 
@@ -1289,7 +1289,7 @@ Higher education was originally organized by the various religious
 bodies, each of which retains at least one university in more or less
 integral connexion with itself. New Brunswick, Ontario and Manitoba
 support provincial universities at Fredericton, Toronto and Winnipeg.
-Those of most importance[4] are:--Dalhousie University, Halifax, N.S.
+Those of most importance[4] are:--[[Dalhousie]] University, Halifax, N.S.
 (1818); the University of New Brunswick, Fredericton, N.B. (1800);
 McGill University, Montreal, Que. (1821); Laval University, Quebec, and
 Montreal, Que. (1852); Queen's University, Kingston, Ont. (1841); the
@@ -1320,14 +1320,14 @@ harbours of Halifax (N.S.) and Esquimalt (B.C.) were till 1905
 maintained and garrisoned by the imperial government, but have since
 been taken over by Canada. This has entailed the increase of the
 permanent force to about 5000 men. Previously, it had numbered about
-1000 (artillery, dragoons, infantry) quartered in various schools,
+1000 (artillery, [[Dragoon|dragoons]], infantry) quartered in various schools,
 chiefly to aid in the training of the militia. In this all able-bodied
 citizens between the ages of 18 and 60 are nominally enrolled, but the
 active militia consists of about 45,000 men of all ranks, in a varying
 state of efficiency. These cannot be compelled to serve outside the
-Dominion, though special corps may be enlisted for this purpose, as was
+Dominion, though special [[Corps|corps]] may be enlisted for this purpose, as was
 done during the war in South Africa (1899-1902). At Quebec is a Dominion
-arsenal, rifle and ammunition factories. Cadet corps flourish in most of
+arsenal, rifle and ammunition factories. [[Cadet]] corps flourish in most of
 the city schools. At Kingston (Ont.) is the Royal Military College, to
 the successful graduates of which a certain number of commissions in the
 British service is annually awarded.
@@ -1335,38 +1335,38 @@ British service is annually awarded.
 _Justice and Crime_.--Justice is well administered throughout the
 country, and even in the remotest mining camps there has been little of
 the lawlessness seen in similar districts of Australia and the United
-States. For this great credit is due to the "North-west mounted police,"
+States. For this great [[Credit|credit]] is due to the "North-west mounted police,"
 the "Riders of the Plains," a highly efficient body of about seven
 hundred men, under the control of the federal government. Judges are
 appointed for life by the Dominion parliament, and cannot be removed
-save by impeachment before that body, an elaborate process never
+save by [[Impeachment|impeachment]] before that body, an elaborate process never
 attempted since federation, though more than once threatened. From the
 decisions of the supreme court of Canada appeal may be made to the
 judicial committee of the imperial privy council.
 
   AUTHORITIES.--The Canadian Geological Survey has published (Ottawa,
   since 1845) a series of reports covering a great number of subjects.
-  Several provinces have bureaus or departments of mines, also issuing
+  Several provinces have [[Bureau|bureaus]] or departments of mines, also issuing
   reports. The various departments of the federal and the provincial
   governments publish annual reports and frequent special reports, such
   as the decennial report on the census, from which a vast quantity of
   information may be obtained. Most of this is summed up in the annual
   _Statistical Year Book of Canada_ and in the _Official Handbook of the
   Dominion of Canada_, issued at frequent intervals by the Department of
-  the Interior. See also J.W. White (the Dominion geographer), _Atlas of
-  Canada_ (1906); J. Castell Hopkins, _Canada: an Encyclopaedia_ (6
+  the Interior. See also J.W. White (the Dominion geographer), _[[Atlas]] of
+  Canada_ (1906); J. Castell [[Hopkins]], _Canada: an Encyclopaedia_ (6
   vols., 1898-1900); _The Canadian Annual Review_ (yearly since 1902),
   replacing H.J. Morgan's _Canadian Annual Register_ (1878-1886); Sir
-  J.W. Dawson, _Handbook of Canadian Geology_ (1889); George Johnson,
+  J.W. [[Dawson]], _Handbook of Canadian Geology_ (1889); George Johnson,
   _Alphabet of First Things in Canada_ (3rd ed., 1898); A.G. Bradley,
   _Canada in the Twentieth Century_ (1903); _Transactions of the Royal
   Society of Canada_ (yearly since 1883); R.C. Breckenridge, _The
   Canadian Banking System_ (1895); A. Shortt, _History of Canadian
-  Banking_ (1902-1906); Sir S. Fleming, _The Intercolonial_ (1876); John
-  Davidson, "Financial Relations of Canada and the Provinces" (_Economic
+  Banking_ (1902-1906); Sir S. [[Fleming]], _The Intercolonial_ (1876); John
+  [[Davidson]], "Financial Relations of Canada and the Provinces" (_Economic
   Journal_, June 1905); _Transactions of the Royal Society of Canada,
   passim_, for valuable papers by H.M. Ami, A.P. Coleman, G.M. Dawson,
-  W.F. Ganong, B.J. Harrington and others; also articles in _Canadian
+  W.F. Ganong, B.J. [[Harrington]] and others; also articles in _Canadian
   Economics_ and in the _Handbook of Canada_, published on the occasion
   of visits of the British Association.     (W. L. G.)
 
@@ -1377,10 +1377,10 @@ Canada is pre-eminently an agricultural country. Of the total population
 (estimated in 1907 at 6,440,000) over 50% are directly engaged in
 practical agriculture. In addition large numbers are engaged in
 industries arising out of agriculture; among these are manufacturers of
-agricultural implements, millers of flour and oatmeal, curers and
-packers of meat, makers of cheese and butter, and persons occupied in
+agricultural [[Implement|implements]], millers of flour and oatmeal, curers and
+packers of [[Meat|meat]], makers of [[Cheese|cheese]] and [[Butter|butter]], and persons occupied in
 the transportation and commerce of grain, hay, live stock, meats,
-butter, cheese, milk, eggs, fruit and various other products. The
+butter, cheese, milk, [[Egg|eggs]], fruit and various other products. The
 country is splendidly formed for the production of food. Across the
 continent there is a zone about 3500 m. long and as wide as or wider
 than France, with (over a large part of this area) a climate adapted to
@@ -1402,7 +1402,7 @@ and Saskatchewan produce wheat of the finest quality. Horse and cattle
 ranching is practised in Alberta, where the milder winters allow of the
 outdoor wintering of live stock to a greater degree than is possible in
 the colder parts of Canada. The freezing of the soil in winter, which at
-first sight seems a drawback, retains the soluble nitrates which might
+first sight seems a [[Drawback|drawback]], retains the soluble nitrates which might
 otherwise be drained out. The copious snowfall protects vegetation,
 supplies moisture, and contributes nitrogen to the soil. The
 geographical position of Canada, its railway systems and steamship
@@ -1422,7 +1422,7 @@ transportation of agricultural produce.
 
 Of _wheat_ many varieties are grown. The methods of cultivation do not
 involve the application of so much hand labour per acre as in Europe.
-The average yield of wheat for the whole of Canada is nearly 20 bushels
+The average yield of wheat for the whole of Canada is nearly 20 [[Bushel|bushels]]
 per acre. In 1901 the total production of wheat in Canada was 55-1/2
 million bushels. In 1906 the estimated total production was 136 million
 bushels. The total wheat acreage, which at the census of 1901 was
@@ -1473,9 +1473,9 @@ so that weed seeds are removed before the wheat is ground. This gives
 Canadian wheat excellent milling properties, and enables the millers to
 turn out flour uniform in quality and of high grade as to keeping
 properties. Canadian flour has a high reputation in European markets. It
-is known as flour from which bakers can make the best quality of bread,
-and also the largest quantity per barrel, the quantity of albuminoids
-being greater in Canadian flour than in the best brands of European.
+is known as flour from which [[Baker|bakers]] can make the best quality of bread,
+and also the largest quantity per [[Barrel|barrel]], the quantity of albuminoids
+being greater in Canadian flour than in the best [[Brand|brands]] of European.
 Owing to its possession of this characteristic of what millers term
 "strength," i.e. the relative capacity of flour to make large loaves of
 good quality, Canadian flour is largely in demand for blending with the
@@ -1526,17 +1526,17 @@ produce without loss from impoverishment of the soil. The preparation of
 pearl or pot barley is an incidental industry.
 
 Rye is cultivated successfully, but is seldom used for human food. Flour
-from wheat, meal from oats, and meal from Indian corn are preferred.
+from wheat, meal from oats, and meal from Indian [[Corn|corn]] are preferred.
 
-Buckwheat flour is used in considerable quantities in some districts for
-the making of buckwheat cakes, eaten with maple syrup. These two make an
+[[Buckwheat]] flour is used in considerable quantities in some districts for
+the making of buckwheat cakes, eaten with [[Maple|maple]] syrup. These two make an
 excellent breakfast dish, characteristic of Canada and some of the New
 England states. There are also numerous forms of preparations from
 cereals, sold as breakfast foods, which, owing to the high quality of
 the grains grown in Canada and the care exercised in their manufacture,
 compare favourably with similar products in other countries.
 
-Peas in large areas are grown free from serious trouble with insect
+Peas in large areas are grown free from serious trouble with [[Insect|insect]]
 pests. Split peas for soup, green peas as vegetables and sweet peas for
 canning are obtained of good quality.
 
@@ -1544,15 +1544,15 @@ Vegetables are grown everywhere, and form a large part of the diet of
 the people. There is a comparatively small export, except in the case of
 turnips and potatoes and of vegetables which have been canned or dried.
 Besides potatoes, which thrive well and yield large quantities of
-excellent quality, there are turnips, carrots, parsnips and beets. The
+excellent quality, there are turnips, carrots, parsnips and [[Beets|beets]]. The
 cultivation of sugar beets for the manufacture of sugar has been
 established in Ontario and in southern Alberta, where in 1906 an acreage
 under this crop of 3344 yielded 27,211 tons, an average of 8.13 tons per
 acre. Among the common vegetables used in the green state are peas,
-beans, cabbage, cauliflowers, asparagus, Indian corn, onions, leeks,
-tomatoes, lettuce, radish, celery, parsley, cucumbers, pumpkins, squash
+[[Bean|beans]], cabbage, cauliflowers, [[Asparagus|asparagus]], Indian corn, onions, [[Leek|leeks]],
+tomatoes, [[Lettuce|lettuce]], radish, [[Celery|celery]], parsley, cucumbers, pumpkins, squash
 and rhubarb. Hay, of good quality of timothy (_Phleum pratense_), and
-also of timothy and clover, is grown over extensive areas. For export it
+also of timothy and [[Clover|clover]], is grown over extensive areas. For export it
 is put up in bales of about 150 lb each. Since 1899 a new form of
 pressing has been employed, whereby the hay is compressed to stow in
 about 70 cub. ft. per ton. This has been a means of reducing the ocean
@@ -1571,11 +1571,11 @@ at one time anticipated. Heavy draught horses are reared in Ontario, and
 to a less but increasing extent in the North-West Provinces, the breeds
 being mainly the Clydesdale and the Shire. Percherons are also bred in
 different parts of Canada, and a few Belgian draught horses have been
-introduced. Good horses suitable for general work on farms and for cabs,
+introduced. Good horses suitable for general work on farms and for [[Cab|cabs]],
 omnibuses, and grocery and delivery wagons, are plentiful for local
 markets and for export. Thoroughbred and pure bred hackney stallions are
 maintained in private studs and by agricultural associations throughout
-the Dominion, and animals for cavalry and mounted infantry remounts are
+the Dominion, and animals for [[Cavalry|cavalry]] and mounted infantry remounts are
 produced in all the provinces including those of the North-West. Useful
 carriage horses and saddle horses are bred in many localities. Horse
 ranching is practised largely in Alberta. There are no government stud
@@ -1590,12 +1590,12 @@ while the cool evenings and nights give the plants a robustness of
 quality which is not to be found in tropical regions, and also make life
 for the various domestic animals wholesome and comfortable. In the
 North-West Provinces there are vast areas of prairie land, over which
-cattle pasture, and from which thousands of fat bullocks are shipped
+cattle pasture, and from which thousands of fat [[Bullock|bullocks]] are shipped
 annually. Throughout other parts bullocks are fed on pasture land, and
 also in stables on nourishing and succulent feed such as hay, Indian
 corn fodder, Indian corn silage, turnips, carrots, mangels, ground oats,
 barley, peas, Indian corn, rye, bran and linseed oil cake. The breeding
-of cattle, adapted for the production of prime beef and of dairy cows
+of cattle, adapted for the production of prime [[Beef|beef]] and of dairy cows
 for the production of milk, butter and cheese, has received much
 attention. There is government control of the spaces on the steamships
 in which the cattle are carried, and veterinary inspection prevents the
@@ -1612,8 +1612,8 @@ is a considerable trade in "lunch tongues."
 
 The cattle breeds are principally those of British origin. For beef,
 shorthorns, Herefords, Galloways and Aberdeen-Angus cattle are bred
-largely, whilst for dairying purposes, shorthorns, Ayrshires, Jerseys,
-Guernseys and Holstein-Friesians prevail. The French-Canadian cattle are
+largely, whilst for dairying purposes, shorthorns, Ayrshires, [[Jersey|Jerseys]],
+[[Guernsey|Guernseys]] and Holstein-Friesians prevail. The French-Canadian cattle are
 highly esteemed in eastern Canada, especially by the farmers of the
 French provinces. They are a distinct breed of Jersey and Brittany type,
 and are stated to be descended from animals imported from France by the
@@ -1627,13 +1627,13 @@ of agriculture, including wheat-growing and dairying, have in several of
 the provinces contributed to prevent that attention to this branch which
 its importance deserves, though there are large areas of rolling, rugged
 yet nutritious pastures well suited to sheep-farming. In the maritime
-provinces and in Prince Edward Island sheep and lambs are reared in
+provinces and in Prince Edward Island sheep and [[Lamb|lambs]] are reared in
 large numbers. In Ontario sheep breeding has reached a high degree of
 perfection, and other parts of the American continent draw their
 supplies of pure bred stock largely from this province. All the leading
 British varieties are reared, the Shropshire, Oxford Down, Leicester and
 Cotswold breeds being most numerous. There are also excellent flocks of
-Lincolns and Southdowns. The number of sheep and lambs in Canada was
+[[Lincoln|Lincolns]] and Southdowns. The number of sheep and lambs in Canada was
 estimated for the year 1907 at 2,830,785, as compared with 2,465,565 in
 1901.
 
@@ -1652,7 +1652,7 @@ houses. The use of mechanical refrigerating plants for chilling the pork
 has made it practicable to cure the bacon with the use of a small
 percentage of salt, leaving it mild in flavour when delivered in
 European markets. Regular supplies are exported during every week of the
-year. Large quantities of lard, brawn and pigs' feet are exported. In
+year. Large quantities of [[Lard|lard]], brawn and pigs' feet are exported. In
 1907 the number of pigs in Canada was estimated at 3,530,060, an
 increase of 1,237,385 over the census record of 1901. Turkeys thrive
 well, grow to a fine size and have flesh of tender quality. Chickens are
@@ -1676,7 +1676,7 @@ pasture, with abundance of pure air and water, and with a plentiful
 supply of ice, the conditions in Canada are ideal for the dairying
 industry. Large quantities of condensed milk, put up in hermetically
 sealed tins, are sold for use in mining camps and on board steamships.
-The cheese is chiefly of the variety known as "Canadian Cheddar." It is
+The cheese is chiefly of the variety known as "Canadian [[Cheddar]]." It is
 essentially a food cheese rather than a mere condiment, and 1 lb of it
 will furnish as much nourishing material as 2-1/4 lb of the best beefsteak.
 The industry is largely carried on by co-operative associations of
@@ -1699,8 +1699,8 @@ Butter for export is made in creameries, where the milk, cream and
 butter are handled by skilled makers. The creameries are provided with
 special cold storage rooms, into which the butter is placed on the same
 day in which it is made. From them it is carried in refrigerator railway
-cars and in cold storage chambers on steamships to its ultimate
-destination. For the export trade it is packed in square boxes made of
+[[Car|cars]] and in cold storage chambers on steamships to its ultimate
+destination. For the export trade it is packed in square [[Box|boxes]] made of
 spruce or some other odourless wood. These are lined with parchment
 paper, and contain each 56 lb net of butter. The total export of butter
 from Canada in 1906 was 34,031,525 lb., of the value of $7,075,539.
@@ -1712,7 +1712,7 @@ $32,402,265.
   Fruits.
 
 There are large districts lying eastward of the Great Lakes and westward
-of the Rocky Mountains, where apples of fine quality can be grown; and
+of the Rocky Mountains, where [[Apple|apples]] of fine quality can be grown; and
 there are other smaller areas in which pears, peaches and grapes are
 grown in quantities in the open air. The climate is favourable to the
 growth of plums, cherries, strawberries, raspberries, currants,
@@ -1742,11 +1742,11 @@ high quality and fine colour have been greatly appreciated.
 
 Wine is made in considerable quantities in the principal vine-growing
 districts, and in several localities large vineyards have been planted
-for this purpose. An abundance of cider is also made in all the large
+for this purpose. An abundance of [[Cider|cider]] is also made in all the large
 apple-growing districts.
 
 Honey is one of the minor food-products of Canada, and in many
-localities bees have abundance of pasturage. Canadian honey for colour,
+localities [[Bee|bees]] have abundance of pasturage. Canadian honey for colour,
 flavour and substance is unsurpassed. Maple sugar and syrup are made in
 those areas of the country where the sugar-maple tree flourishes. The
 syrup is used chiefly as a substitute for jam or preserved fruits, and
@@ -1779,15 +1779,15 @@ the number of horses destroyed and the amount of compensation paid. A
 disease of cattle in Nova Scotia, known as the Pictou cattle disease,
 long treated as contagious, has now been demonstrated by the veterinary
 officers of the department to be due to the ingestion of a weed, the
-ragwort, _Senecio Jacobea_. Hog cholera or swine fever has been almost
+ragwort, _Senecio Jacobea_. Hog cholera or swine [[Fever|fever]] has been almost
 eradicated. A laboratory is maintained for bacteriological and
 pathological researches and for the preparation of preventive vaccines.
 Canada is entirely free from rinderpest, pleuro-pneumonia and
-foot-and-mouth disease.
+[[Foot-And-Mouth Disease|foot-and-mouth disease]].
 
 The work of the live-stock branch is directed towards the improvement of
 the stock-raising industry, and is carried on through the agencies of
-expert teachers and stock judges, the systematic distribution of
+[[Expert|expert]] teachers and stock judges, the systematic distribution of
 pure-bred breeding stock, the yearly testing of pure-bred dairy herds,
 the supervision of the accuracy of the registration of pure-bred animals
 and the nationalization of live-stock records. The last two objects are
@@ -1795,7 +1795,7 @@ secured by act of the Dominion parliament passed in 1905. Under this act
 a record committee, appointed annually by the pedigree stud, herd and
 flock book associations of Canada, perform the duties of accepting the
 entries of pure-bred animals for the respective pedigree registers, and
-are provided with an office and with stationery and franking privileges
+are provided with an office and with stationery and [[Franking|franking]] privileges
 by the government. Pedigree certificates are certified as correct by an
 officer of the department of agriculture, so that in Canada there exist
 national registration and government authority for the accuracy of
@@ -1926,7 +1926,7 @@ maintained at Truro, Nova Scotia, and Winnipeg, Manitoba. In most of the
 provinces are dairy schools where practical instruction and training are
 given. Since the beginning of the 20th century agricultural education
 and rural training in Canada have been greatly stimulated by the
-munificence of Sir William C. Macdonald of Montreal. A donation by him
+munificence of Sir William C. [[Macdonald]] of Montreal. A donation by him
 of $10,000, distributed to boys and girls on Canadian farms for prizes
 in a competition for the selection of seed grain, as recommended by
 Professor J.W. Robertson, led to the Macdonald-Robertson Seed Growers'
@@ -1936,9 +1936,9 @@ of agriculture mentioned above, has done much to raise to a uniform
 standard of excellence the grain grown over large areas of the Canadian
 wheat-fields. The Macdonald Institute at Guelph, Ontario, the buildings
 and equipment of which Sir William provided at a cost of $182,500, and
-the Macdonald College at Ste Anne de Bellevue, 20 m. west of Montreal,
+the Macdonald College at Ste [[Anne]] de Bellevue, 20 m. west of Montreal,
 have been established to promote the cause of rural education upon the
-lines of nature study, with school gardens, manual training domestic
+lines of nature study, with school gardens, [[Manual|manual]] training domestic
 science, &c., which on both sides of the Atlantic are now being found so
 effective in the hands of properly trained and enthusiastic teachers.
 The property of the Macdonald College at Ste Anne de Bellevue comprises
@@ -1964,14 +1964,14 @@ HISTORY
 About A.D. 1000 Leif Ericsson, a Norseman, led an expedition from
 Greenland to the shores probably of what is now Canada, but the first
 effective contact of Europeans with Canada was not until the end of the
-15th century. John Cabot (q.v.), sailing from Bristol, reached the
+15th century. John Cabot (q.v.), sailing from [[Bristol]], reached the
 shores of Canada in 1497. Soon after fishermen from Europe began to go
 in considerable numbers to the Newfoundland banks, and in time to the
 coasts of the mainland of America. In 1534 a French expedition under
 Jacques Cartier, a seaman of St Malo, sent out by Francis I., entered
 the Gulf of St Lawrence. In the following year Cartier sailed up the
 river as far as the Lachine Rapids, to the spot where Montreal now
-stands. During the next sixty years the fisheries and the fur trade
+stands. During the next sixty years the fisheries and the [[Fur|fur]] trade
 received some attention, but no colonization was undertaken.
 
 
@@ -2011,13 +2011,13 @@ New France.
 It was an era of missionary zeal in the Roman Catholic church, and
 Canada became the favourite mission. The Society of Jesus was only one
 of several orders--Franciscans (Recollets), Sulpicians, Ursulines,
-&c.--who worked in New France. The Jesuits have attracted chief
+&c.--who worked in New France. The [[Jesuits]] have attracted chief
 attention, not merely on account of their superior zeal and numbers, but
-also because of the tragic fate of some of their missionaries in Canada.
+also because of the tragic [[Fate|fate]] of some of their missionaries in Canada.
 In the voluminous _Relations_ of their doings the story has been
 preserved. Among the Huron Indians, whose settlements bordered on the
 lake of that name, they secured a great influence. But there was
-relentless war between the Hurons and the Iroquois occupying the
+relentless war between the Hurons and the [[Iroquois]] occupying the
 southern shore of Lake Ontario, and when in 1649 the Iroquois ruined and
 almost completely destroyed the Hurons, the Jesuit missionaries also
 fell victims to the conquerors' rage. Missionaries to the Iroquois
@@ -2026,8 +2026,8 @@ life also languished. The company planned by Richelieu was not a
 success. It did little to colonize New France, and in 1660, after more
 than thirty years of its monopoly, there were not more than 2000 French
 in the whole country. In 1663 the charter of the company was revoked. No
-longer was a trading company to discharge the duties of a sovereign. New
-France now became a royal province, with governor, intendant, &c., on
+longer was a trading company to [[Discharge|discharge]] the duties of a sovereign. New
+France now became a royal province, with governor, [[Intendant|intendant]], &c., on
 the model of the provinces of France.
 
 In 1664 a new "Company of the West Indies" (_Compagnie des Indes
@@ -2046,14 +2046,14 @@ mystery of the interior. By 1659 two Frenchmen, Radisson and
 Groseillers, had penetrated beyond the great lakes to the prairies of
 the far West; they were probably the first Europeans to see the
 Mississippi. By 1666 a French mission was established on the shores of
-Lake Superior, and in 1673 Joliet and Marquette, explorers from Canada,
+Lake Superior, and in 1673 [[Joliet]] and Marquette, explorers from Canada,
 reached and for some distance descended the Mississippi. Five years
-later Cavelier de la Salle was making his toilsome way westward from
+later Cavelier de [[La Salle|la Salle]] was making his toilsome way westward from
 Quebec to discover the true character of the great river and to perform
 the feat, perilous in view of the probable hostility of the natives, of
 descending it to the sea. In 1682 he accomplished his task, took
 possession of the valley of the Mississippi in the name of Louis XIV.
-and called it Louisiana. Thus from Canada as her basis was France
+and called it [[Louisiana]]. Thus from Canada as her basis was France
 reaching out to grasp a continent.
 
 There was a keen rivalry between church and state for dominance in this
@@ -2064,7 +2064,7 @@ austerities, he was determined that Canada should be ruled by the
 church, and he desired for New France a Puritanism as strict as that of
 New England. His especial zeal was directed towards the welfare of the
 Indians. These people showed, to their own ruin, a reckless liking for
-the brandy of the white man. Laval insisted that the traders should not
+the [[Brandy|brandy]] of the white man. Laval insisted that the traders should not
 supply brandy to the natives. He declared excommunicate any one who did
 so and for a time he triumphed. More than once he drove from Canada
 governors who tried to thwart him. In 1663 he was actually invited to
@@ -2090,10 +2090,10 @@ great empire in America was now taking shape and there, as in Europe, a
 deadly struggle with England was inevitable. Frontenac planned attacks
 upon New England and encouraged a ruthless border warfare that involved
 many horrors. Him, in return, the English attacked. Sir William Phips
-sailed from Boston in 1690, conquered Acadia, now Nova Scotia, and then
+sailed from [[Boston]] in 1690, conquered Acadia, now Nova Scotia, and then
 hazarded the greater task of leading a fleet up the St Lawrence against
 Quebec. On the 16th of October 1690 thirty-four English ships, some of
-them only fishing craft, appeared in its basin and demanded the
+them only fishing [[Craft|craft]], appeared in its basin and demanded the
 surrender of the town. When Frontenac answered defiantly, Phips attacked
 the place; but he was repulsed and in the end sailed away unsuccessful.
 
@@ -2117,7 +2117,7 @@ between the English and the French. The peace of Ryswick proved but a
 truce, and when in 1701, on the death of the exiled James II., Louis
 XIV. flouted the claims of William III. to the throne of England by
 proclaiming as king James's son, renewed war was inevitable. In Europe
-it saw the brilliant victories of Marlborough; in America it was less
+it saw the brilliant victories of [[Marlborough]]; in America it was less
 decisive, but France lost heavily. Though the English, led by Sir
 Hovenden Walker, made in 1711 an effort to take Quebec which proved
 abortive, they seized Nova Scotia; and when the treaty of Utrecht was
@@ -2198,7 +2198,7 @@ Under this act the western territory which France had claimed, extending
 as far as the Mississippi and south to the Ohio, was included with
 Canada in what was called the Province of Quebec. This vast territory
 was to be governed despotically from Quebec; the Roman Catholic church
-was given its old privileges in Canada; and the French civil law was
+was given its old privileges in Canada; and the French [[Civil Law|civil law]] was
 established permanently side by side with the English criminal law. The
 act linked the land-owning class in Canada and the church by ties of
 self-interest to the British cause. The _habitant_, placed again under
@@ -2208,7 +2208,7 @@ In 1775 began the American Revolution. Its leaders tried to make the
 revolt continental, and invaded Canada, hoping that the French would
 join them. They took Montreal and besieged Quebec during the winter of
 1775-1776; but the prudent leadership of Sir Guy Carleton, afterwards
-Lord Dorchester, saved Quebec and in 1776 the revolutionary army
+Lord [[Dorchester]], saved Quebec and in 1776 the revolutionary army
 withdrew unsuccessful from Canada. Since that time any prospect of
 Canada's union to the United States has been very remote.
 
@@ -2223,7 +2223,7 @@ Revolution. This meant that the American type of colonial life would be
 reproduced in Canada; but it meant also bitter hostility on the part of
 these colonists to the United States, which refused in any way to
 compensate the loyalists for their confiscated property. Great Britain
-did something; the loyalists received liberal grants of land and cash
+did something; the loyalists received liberal grants of land and [[Cash|cash]]
 compensation amounting to nearly L4,000,000.
 
 A prevailingly French type of government was now no longer adequate in
@@ -2248,7 +2248,7 @@ the United States in 1812 from causes due chiefly to Napoleon's
 continental policy. The war seemed to furnish a renewed opportunity to
 annex Canada to the American Union, and Canada became the chief theatre
 of conflict. The struggle was most vigorous on the Niagara frontier. But
-in the end the American invasion failed and the treaty made at Ghent in
+in the end the American invasion failed and the treaty made at [[Ghent]] in
 1814 left the previous status unaltered.
 
 
@@ -2287,7 +2287,7 @@ influence, and the complete self-government for which the "Reformers" in
 English-speaking Canada had clamoured was not yet conceded by the
 colonial office. But rapidly it became obvious that the provinces united
 had become too important to be held in leading strings. The issue was
-finally settled in 1849 when the earl of Elgin was governor and the
+finally settled in 1849 when the earl of [[Elgin]] was governor and the
 Canadian legislature, sitting at Montreal, passed by a large majority
 the Rebellion Losses Bill, compensating citizens, some of them French,
 in Lower Canada, for losses incurred at the hands of the loyal party
@@ -2369,11 +2369,11 @@ advocates of repeal swept the province at the Dominion election. Out of
 minister responsible for carrying the Act of Union, alone among the
 supporters of federation securing a seat. The local assembly, in which
 36 out of 38 members were committed to repeal, passed an address to Her
-Majesty praying her not to "reduce this free, happy and hitherto
+[[Majesty]] praying her not to "reduce this free, happy and hitherto
 self-governed province to the degraded condition of a servile dependency
 of Canada," and sent Howe with a delegation to London to lay the
 petition at the foot of the throne. Howe enlisted the support of John
-Bright and other members of parliament, but the imperial government was
+[[Bright]] and other members of parliament, but the imperial government was
 firm, and the duke of Buckingham, as colonial secretary, soon informed
 the governor-general in a despatch that consent could not be given for
 the withdrawal of Nova Scotia from the Dominion. Meanwhile Howe,
@@ -2479,7 +2479,7 @@ not be respected. A population largely Roman Catholic in creed, and
 partly French in origin and language, feared that an influx of new
 settlers would overthrow cherished traditions. Some were afraid of
 increased taxation. A group of immigrants from the United States
-fomented disturbance in the hope that it would lead to annexation. Louis
+fomented disturbance in the hope that it would lead to [[Annexation|annexation]]. Louis
 Riel, a fanatical half-breed, placed himself at the head of the
 movement. His followers established what they called a "provisional
 government" of which he was chosen president, and when the newly
@@ -2494,7 +2494,7 @@ and the Orange body, particularly, to which Scott belonged, demanded the
 immediate punishment of his murderer and the suppression of the
 rebellion. An armed force, composed partly of British regulars and
 partly of Canadian volunteers, was made ready and placed under the
-command of Colonel Garnet Wolseley, afterwards Lord Wolseley. As a
+command of Colonel [[Garnet]] Wolseley, afterwards Lord Wolseley. As a
 military force could not pass through the United States, the expedition
 was compelled to take the route up Lake Superior, and from the head of
 that lake through 500 m. of unbroken and difficult wilderness. In August
@@ -2518,7 +2518,7 @@ Provision was made in the British North America Act to receive new
 provinces into the Dominion. Manitoba was the first to be constituted;
 in 1871 British Columbia, which had hitherto held aloof, determined,
 under the persuasion of a sympathetic governor, Mr (later Sir) Antony
-Musgrave, to throw in its lot with the Dominion. Popular feeling in
+Musgrave, to throw in its [[Lot|lot]] with the Dominion. Popular feeling in
 British Columbia itself was not strongly in favour of union, and the
 terms under which the new province was to be received were the subject
 of much negotiation with the provincial authorities, and were keenly
@@ -2539,14 +2539,14 @@ The construction of the Canadian Pacific railway, thus inaugurated,
 became for several years the chief subject of political contention
 between opposing parties.
 
-Anticipating the order of chronology slightly, it may be mentioned here
+Anticipating the order of [[Chronology|chronology]] slightly, it may be mentioned here
 that in 1873 Prince Edward Island (q.v.), which had in 1865 decisively
 rejected proposals of the Quebec conference and had in the following
 year repeated its rejection of federation by a resolution of the
 legislature affirming that no terms Canada could offer would be
 acceptable, now decided to throw in its lot with the Dominion. The
 island had become involved in heavy railway expenditure, and financial
-necessities led the electors to take a broader view of the question. In
+necessities led the [[Electors|electors]] to take a broader view of the question. In
 the end the federal government assumed the railway debt, arrangements
 were made for extinguishing certain proprietary rights which had long
 been a source of discontent, and on the 1st of July 1873 the Dominion
@@ -2601,7 +2601,7 @@ international disputes. The commission assembled at the American capital
 in February 1871, and after discussions extending over several weeks
 signed what is known as the treaty of Washington. By the terms of this
 treaty the "Alabama" claims and the San Juan boundary were referred to
-arbitration; the free navigation of the St Lawrence was granted to the
+[[Arbitration|arbitration]]; the free navigation of the St Lawrence was granted to the
 United States in return for the free use of Lake Michigan and certain
 Alaskan rivers; and it was settled that a further commission should
 decide the excess of value of the Canadian fisheries thrown open to the
@@ -2618,7 +2618,7 @@ parliament, which, in spite of much violent opposition, ratified them by
 a large majority. Under the "Alabama" arbitration Great Britain paid to
 the United States damages to the amount of $15,500,000, while the German
 Emperor decided the San Juan boundary in favour of the United States.
-The Fishery Commission, on the other hand, which sat in Halifax, awarded
+The [[Fishery]] Commission, on the other hand, which sat in Halifax, awarded
 Canada $5,500,000 as the excess value of its fisheries for twelve years,
 and after much hesitation this sum was paid by the United States into
 the Canadian treasury. An imperial guarantee of a loan for the
@@ -2669,7 +2669,7 @@ administration which, on appealing to the constituencies, was supported
 by an overwhelming majority, and held power for the five following
 years.
 
-On the accession to power of the Liberal party, a new policy was adopted
+On the accession to power of the [[Liberal Party|Liberal party]], a new policy was adopted
 for the construction of the trans-continental railway. It was proposed
 to lessen the cost of construction by utilizing the water stretches
 along the route, while, on the ground that the contract made was
@@ -2678,7 +2678,7 @@ indefinitely. Meanwhile the surveys and construction were carried
 forward not by a company, but as a government work. Under this
 arrangement British Columbia became exceedingly restive, holding the
 Dominion to the engagement by which it had been induced to enter the
-union. A representative of the government, Mr (later Sir James) Edgar,
+union. A representative of the government, Mr (later Sir James) [[Edgar]],
 sent out to conciliate the province by some new agreement, failed to
 accomplish his object, and all the influence of the governor-general,
 Lord Dufferin, who paid a visit at this time to the Pacific coast, was
@@ -2714,8 +2714,8 @@ power. The new system was laid before parliament in 1879 by the finance
 minister, Sir Leonard Tilley; and the tariff then agreed upon, although
 it received considerable modification from time to time, remained, under
 both Conservative and Liberal administrations, the basis of Canadian
-finance, and, as Canadians generally believed, the bulwark of their
-industry. It had almost immediately the effect of lessening the exodus
+finance, and, as Canadians generally believed, the [[Bulwark|bulwark]] of their
+industry. It had almost immediately the effect of lessening the [[Exodus|exodus]]
 of artisans to the United States, and of improving the revenue and so
 restoring the national credit.
 
@@ -2749,7 +2749,7 @@ period of completion, on the 7th of November 1886, the last spike was
 driven by Mr Donald A. Smith (Lord Strathcona), whose fortune had been
 largely pledged to the undertaking, along with those of other prominent
 Canadian business men, especially Mr George Stephen (Lord Mountstephen),
-Mr Duncan McIntyre, and Mr R.B. Angus. Under the energetic management of
+Mr [[Duncan]] McIntyre, and Mr R.B. [[Angus]]. Under the energetic management of
 Mr (later Sir) W.C. Van Home, who was appointed president of the company
 in 1888, the new railway soon became the most prominent feature in the
 development of the country; lines of steamships were established on the
@@ -2790,16 +2790,16 @@ led the expedition. Several minor engagements with half-breeds or
 Indians preceded the final struggle at Batoche, where Gabriel Dumont,
 Riel's military lieutenant, had skilfully entrenched his forces. After a
 cautious advance the eagerness of the troops finally overcame the
-hesitation of the commander in exposing his men, the rifle pits were
+hesitation of the [[Commander|commander]] in exposing his men, the rifle pits were
 carried with a rush, and the rebellion crushed at a single stroke.
 Dumont succeeded in escaping across the United States boundary; Riel was
 captured, imprisoned, and in due course tried for treason. This second
 rebellion carried on under his leadership had lasted about three months,
 had cost the country many valuable lives, and in money about five
-millions of dollars. Clear as was his guilt, Riel's trial, condemnation
+millions of dollars. Clear as was his [[Guilt|guilt]], Riel's trial, condemnation
 and execution on the 16th of November 1885, provoked a violent political
 storm which at one time threatened to overthrow the Conservative
-government. The balance of power between parties in parliament was held
+government. The [[Balance Of Power|balance of power]] between parties in parliament was held
 by the province of Quebec, and there racial and religious feeling evoked
 no slight sympathy for Riel. But while a section of Quebec was eager to
 secure the rebel's pardon, Ontario was equally bent on the execution of
@@ -2807,7 +2807,7 @@ justice, so that in the final vote on the question in parliament the
 defection of French Conservatives was compensated for by the support of
 Ontario Liberals. In the end 25 out of 53 French members voted in
 justification of Kiel's punishment. With him were executed several
-Indian chiefs who had been concerned in a massacre of whites. Painful as
+Indian chiefs who had been concerned in a [[Massacre|massacre]] of whites. Painful as
 were the circumstances connected with this rebellion, it is certain that
 the united action of the different provinces in suppressing it tended to
 consolidate Canadian sentiment, and the short military campaign had the
@@ -2865,18 +2865,18 @@ in the administration of the department of public works, which led to
 the expulsion of one member of parliament, involved also the resignation
 from the cabinet of Sir Hector Langevin, leader of the French
 Conservatives, against whom carelessness at least in administration had
-been established. The brief premiership of Sir Mackenzie Bowell, between
+been established. The brief premiership of Sir Mackenzie [[Bowell]], between
 1894 and 1896, was marked by much dissension in the Conservative ranks,
 ending finally in a reconstruction of the government in 1896 under Sir
 Charles Tupper. Breaks had been made in the Liberal ranks also by the
 death in 1892 of the Hon. Alexander Mackenzie and the withdrawal of the
-Hon. Edward Blake from Canadian politics to accept a seat in the British
+Hon. Edward [[Blake]] from Canadian politics to accept a seat in the British
 parliament as a member of the Home Rule party. But the appeal made to
 the electors in 1896 resulted in a decisive victory for the Liberal
 party, and marked the beginning of a long period of Liberal rule.
 
 
-  Laurier.
+  [[Laurier]].
 
 Sir Wilfrid Laurier (q.v.) became prime minister, and strengthened the
 cabinet which he formed by drawing into it from provincial politics the
@@ -2898,7 +2898,7 @@ supplemented by a regiment of Canadian horse raised and equipped at the
 sole expense of Lord Strathcona, the high commissioner of the Dominion
 in London. The same spirit was illustrated in other ways. In bringing
 about a system of penny postage throughout the empire; in forwarding the
-construction of the Pacific cable to secure close and safe imperial
+construction of the Pacific [[Cable|cable]] to secure close and safe imperial
 telegraphic connexion; in creating rapid and efficient lines of
 steamship communication with the motherland and all the colonies; in
 granting tariff preference to British goods and in striving for
@@ -2935,7 +2935,7 @@ Rockies, and with water and rail connexions reaching eastward to Quebec,
 began to transform itself into a complete transcontinental system, with
 an extension to the Hudson Bay. That this line owed its inception and
 construction chiefly to the joint enterprise of two private individuals,
-Messrs Mackenzie and Mann, was a striking proof of the industrial
+Messrs Mackenzie and [[Mann]], was a striking proof of the industrial
 capacities of the country. To a still more ambitious line, the Grand
 Trunk Pacific, extending from the Atlantic to the Pacific, aiming at
 extensive steamship connexion on both oceans, and closely associated
@@ -2953,7 +2953,7 @@ extremely rich gold mines on the head-waters of the Yukon, in a region
 previously considered well-nigh worthless for human habitation; of
 extensive areas of gold, copper and silver ores in the mountain regions
 of British Columbia; of immense coal deposits in the Crow's Nest Pass of
-the same province and on the prairies; of veins of silver and cobalt of
+the same province and on the prairies; of veins of silver and [[Cobalt|cobalt]] of
 extraordinary richness in northern Ontario--all deeply affected the
 industrial condition of the country and illustrated the vastness of its
 undeveloped resources. The use of wood-pulp in the manufacture of paper
@@ -2983,16 +2983,16 @@ After 1885 Canada was therefore compelled to fall back upon the treaty
 of 1818 as the guarantee of her fishing rights. It became necessary to
 enforce the terms of that convention, under which the fishermen of the
 United States could not pursue their avocations within the three miles'
-limit, tranship cargoes of fish in Canadian ports, or enter them except
+limit, tranship [[Cargo|cargoes]] of fish in Canadian ports, or enter them except
 for shelter, water, wood or repairs. On account of infractions of the
 treaty many vessels were seized and some were condemned. In 1887 a
 special commission was appointed to deal with the question. On this
-commission Mr Joseph Chamberlain, Sir Sackville West and Sir Charles
+commission Mr Joseph [[Chamberlain]], Sir Sackville West and Sir Charles
 Tupper represented British and Canadian interests; Secretary T.F.
-Bayard, Mr W. le B. Putnam and Mr James B. Angell acted for the United
+Bayard, Mr W. le B. Putnam and Mr James B. [[Angell]] acted for the United
 States. The commission succeeded in agreeing to the terms of a treaty,
-which was recommended to Congress by President Cleveland as supplying "a
-satisfactory, practical and final adjustment, upon a basis honourable
+which was recommended to Congress by President [[Cleveland]] as supplying "a
+satisfactory, practical and final adjustment, upon a basis [[Honourable|honourable]]
 and just to both parties, of the difficult and vexed questions to which
 it relates." This agreement, known as the Chamberlain-Bayard treaty, was
 rejected by the Senate, and as a consequence it became necessary to
@@ -3004,7 +3004,7 @@ In that year several schooners, fitted out in British Columbia for the
 capture of seals in the North Pacific, were seized by a United States
 cutter at a distance of 60 m. from the nearest land, the officers were
 imprisoned and fined, and the vessels themselves subjected to
-forfeiture. The British government at once protested against this
+[[Forfeiture|forfeiture]]. The British government at once protested against this
 infraction of international right, and through long and troublesome
 negotiations firmly upheld Canada's claims in the matter. The dispute
 was finally referred to a court of arbitration, on which Sir John
@@ -3044,7 +3044,7 @@ Russia and England, should be submitted to a commission consisting of
 British commissioners appointed were: Lord Alverstone, lord chief
 justice of England; Sir Louis Jette, K.C., of Quebec; and A.B.
 Aylesworth, K.C., of Toronto. On the American side were appointed: the
-Hon. Henry C. Lodge, senator for Massachusetts; the Hon. Elihu Root,
+Hon. Henry C. [[Lodge]], senator for Massachusetts; the Hon. Elihu Root,
 secretary of war for the United States government; and Senator George
 Turner. Canadians could not be persuaded that the American members
 fulfilled the condition of being "impartial jurists," and protest was
@@ -3158,7 +3158,7 @@ have represented the crown since the federation of the provinces, with
 the year of their appointment: Viscount Monck, 1867; Sir John Young
 (afterwards Baron Lisgar), 1868; the earl of Dufferin, 1872; the
 marquess of Lome (afterwards duke of Argyll), 1878; the marquess of
-Lansdowne, 1883; Lord Stanley of Preston (afterwards earl of Derby),
+[[Lansdowne]], 1883; Lord Stanley of Preston (afterwards earl of [[Derby]]),
 1888; the earl of Aberdeen, 1893; the earl of Minto, 1898; Earl Grey,
 1904. The upper house, or Senate, is composed of members who hold office
 for life and are nominated by the governor-general in council. It
@@ -3174,7 +3174,7 @@ its population as the number 65 bears to the population of Quebec at
 each census. In 1908 the number of members was 218.
 
 Members of the Senate and of the House of Commons receive an annual
-indemnity of $2500, with a travelling allowance. Legislation brought
+[[Indemnity|indemnity]] of $2500, with a travelling allowance. Legislation brought
 forward in 1906 introduced an innovation in assigning a salary of $7000
 to the recognized leader of the Opposition, and pensions amounting to
 half their official income to ex-cabinet ministers who have occupied
@@ -3243,11 +3243,11 @@ The first few decades of the period of British rule were lean years
 indeed so far as native literature is concerned. This period of unrest
 gave birth to little beyond a flood of political pamphlets, of no
 present value save as material for the historian. We may perhaps except
-the able though thoroughly partisan writings of Sir John Beverley
+the able though thoroughly partisan writings of Sir John [[Beverley]]
 Robinson and Bishop Strachan on the one side, and Robert Fleming Gourlay
 and William Lyon Mackenzie on the other. In the far West, however, a
 little group of adventurous fur-traders, of whom Sir Alexander
-Mackenzie, David Thompson, Alexander Henry and Daniel Williams Harmon
+Mackenzie, David Thompson, Alexander Henry and [[Daniel]] Williams Harmon
 may be taken as conspicuous types, were unfolding the vast expanse of
 the future dominion. They were men of action, not of words, and had no
 thought of literary fame, but their absorbingly interesting journals
@@ -3266,9 +3266,9 @@ down like Christie's to the Union of 1841, but goes back to the very
 beginnings of Canadian history. In the main it is impartial and
 accurate, but the style is heavy and sometimes slovenly. J.C. Dent's
 (1841-1888) _Last Forty Years_ (1880) is practically a continuation of
-Kingsford. Dent also wrote an interesting though one-sided account of
+[[Kingsford]]. Dent also wrote an interesting though one-sided account of
 the rebellion of 1837. Histories of the maritime provinces have been
-written by Thomas Chandler Haliburton, Beamish Murdoch and James Hannay.
+written by Thomas Chandler Haliburton, Beamish Murdoch and James [[Hannay]].
 Haliburton's is much the best of the three. The brief but stirring
 history of western Canada has been told by Alexander Begg (1840-1898);
 and George Bryce (b. 1844) and Beckles Willson (b. 1869) have written
@@ -3286,7 +3286,7 @@ works, as is also Bourinot's _Parliamentary Procedure and Practice_
 Biography has been devoted mainly to political subjects. The best of
 these are Joseph Pope's _Memoirs of Sir John Macdonald_ (1894), W.D. le
 Sueur's _Frontenac_ (1906), Sir John Bourinot's _Lord Elgin_ (1905),
-Jean McIlwraith's _Sir Frederick Haldimand_ (1904), D.C. Scott's _John
+Jean McIlwraith's _Sir Frederick [[Haldimand]]_ (1904), D.C. Scott's _John
 Graves Simcoe_ (1905), A.D. de Celles' _Papineau and Cartier_ (1904),
 Charles Lindsey's _William Lyon Mackenzie_ (1862), J.W. Longley's
 _Joseph Howe_ (1905) and J.S. Willison's _Sir Wilfrid Laurier_ (1903).
@@ -3301,7 +3301,7 @@ for poetry in Canada, a few writers have risen to a higher level. The
 conditions of Canadian life have not been favourable to the birth of
 great poets, but within the limits of their song such men as Archibald
 Lampman (1861-1891), William Wilfred Campbell (b. 1861), Charles
-Roberts, Bliss Carman (b. 1861) and George Frederick Cameron have
+Roberts, Bliss Carman (b. 1861) and George Frederick [[Cameron]] have
 written lines that are well worth remembering. Lampman's poetry is the
 most finished and musical. He fell short of being a truly great poet,
 inasmuch as great poetry must, which his does not, touch life at many
@@ -3311,15 +3311,15 @@ certain lack of compression, is full of dramatic vigour: Roberts has put
 some of his best work into sonnets and short lyrics, while Carman has
 been very successful with the ballad, the untrammelled swing and sweep
 of which he has finely caught; the simplicity and severity of Cameron's
-style won the commendation of even so exacting a critic as Matthew
-Arnold. One remarkable drama--Charles Heavysege's (1816-1876) _Saul_
+style won the [[Commendation|commendation]] of even so exacting a critic as [[Matthew]]
+[[Arnold]]. One remarkable drama--Charles Heavysege's (1816-1876) _Saul_
 (1857)--belongs to Canadian literature. Though unequal in execution, it
 contains passages of exceptional beauty and power. The sweetness and
-maturity of Isabella Valency Crawford's (1851-1887) verse are also very
-worthy of remembrance. The _habitant_ poems of Dr W.H. Drummond
+maturity of [[Isabella]] Valency Crawford's (1851-1887) verse are also very
+worthy of remembrance. The _habitant_ poems of Dr W.H. [[Drummond]]
 (1854-1907) stand in a class by themselves, between English and French
 Canadian literature, presenting the simple life of the _habitant_ with
-unique humour and picturesqueness.
+unique [[Humour|humour]] and picturesqueness.
 
 The first distinctively Canadian novel was John Richardson's (1796-1852)
 _Wacousta_ (1832), a stirring tale of the war of 1812. Richardson
@@ -3333,15 +3333,15 @@ pirated edition. Twenty years later the first authorized edition was
 published. James de Mille (1833-1880) was the author of some thirty
 novels, the best of which is _Helena's Household_ (1868), a story of
 Rome in the 1st century. _The Dodge Club_ (1869), a humorous book of
-travel, appeared, curiously enough, a few months before _Innocents
-Abroad_. De Mille's posthumous novel, _A Strange Manuscript found in a
+travel, appeared, curiously enough, a few months before _[[Innocent|Innocents]]
+Abroad_. De Mille's posthumous novel, _A Strange [[Manuscript]] found in a
 Copper Cylinder_ (1888), describes a singular race whose cardinal
 doctrine is that poverty is honourable and wealth the reverse. Sir
 Gilbert Parker (b. 1862) stands first among contemporary Canadian
 novelists. He has made admirable use in many of his novels of the
 inexhaustible stores of romantic and dramatic material that lie buried
 in forgotten pages of Canadian history. Of later Canadian novelists
-mention may be made of Sara Jeannette Duncan (Mrs Everard Cotes, b.
+mention may be made of Sara [[Jeannette]] Duncan (Mrs Everard [[Cotes]], b.
 1862), Ralph Connor (Charles W. Gordon, b. 1866), Agnes C. Laut (b.
 1872), W.A. Fraser (b. 1859) and Ernest Thompson Seton (b. 1860). Thomas
 Chandler Haliburton (q.v.) stands in a class by himself. In many
@@ -3375,13 +3375,13 @@ are mirrors of colonial life and character.
   Horning's and L.J. Burpee's _Bibliography of Canadian Fiction_ (1904);
   S.E. Dawson's _Prose Writers of Canada_ (1901); "Canadian Poetry," by
   J.A. Cooper, in _The National_, 29, p. 364; "Recent Canadian Fiction,"
-  by L.J. Burpee, in _The Forum_, August 1899. For individual authors,
+  by L.J. Burpee, in _The [[Forum]]_, August 1899. For individual authors,
   see Haliburton's _A Centenary Chaplet_ (1897), with a bibliography;
   "Haliburton," by F. Blake Crofton, in _Canada: an Encyclopaedia of the
   Country_; C.H. Farnham's _Life of Francis Parkman_ and H.D. Sedgwick's
   _Francis Parkman_ (1901); and articles on "Parkman," by E.L. Godkin,
   in _The Nation_, 71, p. 441; by Justin Winsor in _The Atlantic_, 73,
-  p. 660; by W.D. Howells, _The Atlantic_, 34, p. 602; by John Fiske,
+  p. 660; by W.D. [[Howells]], _The Atlantic_, 34, p. 602; by John [[Fiske]],
   _The Atlantic_, 73, p. 664; by J.B. Gilder in _The Critic_, 23, p.
   322; "Goldwin Smith as a Critic," by H. Spencer, _Contemp. Review_,
   41, p. 519; "Goldwin Smith's Historical Works," by C.E. Norton, _North
@@ -3405,7 +3405,7 @@ sentiment only found expression in the traditional songs and tales which
 their forefathers of the 17th century had brought over from the _mere
 patrie_. Folk-lore has always been the most essentially French of all
 imaginative influences in Canadian life; and the songs are the
-quintessence of the lore. Not that the folk-songs have no local
+quintessence of the [[Lore|lore]]. Not that the folk-songs have no local
 variants. Indian words, like _moccasin_ and _toboggan_, are often
 introduced. French forms are freely turned into pure Canadianisms, like
 _cageux_, raftsman, _boucane_, brushwood smoke, _portage_, &c. New
@@ -3413,12 +3413,12 @@ characters, which appeal more directly to the local audience, sometimes
 supplant old ones, like the _quatre vieux sauvages_ who have ousted the
 time-honoured _quatre-z-officiers_ from the Canadian version of
 _Malbrouk_. There are even a few entire songs of transatlantic origin.
-But all these variants together are mere stray curios among the crowding
+But all these variants together are mere stray [[Curio|curios]] among the crowding
 souvenirs of the old home over sea. No other bridge can rival _le Pont
-d'Avignon_. "_Ici_" in _C'est le ban vin qui danse ici_ can be nowhere
+d'Avignon_. "_Ici_" in _C'est le [[Ban|ban]] vin qui danse ici_ can be nowhere
 else but in old France--_le ban vin_ alone proves this. And the Canadian
 folk-singer, though in a land of myriad springs, still goes _a la claire
-fontaine_ of his ancestral fancy; while the lullabies his mother sang
+fontaine_ of his ancestral [[Fancy|fancy]]; while the lullabies his mother sang
 him, like the love-songs with which he serenades his _blonde_, were
 nearly all sung throughout the Normandy of _le Grand Monarque_. The
 _habitant_ was separated from old-world changes two centuries ago by
@@ -3435,7 +3435,7 @@ populaires du Canada_, started by Ernest Gagnon (1st ed. 1865).
 
 Race-patriotism is the distinguishing characteristic of French-Canadian
 literature, which is so deeply rooted in national politics that L.J.
-Papineau, the most insistent demagogue of 1837, must certainly be named
+Papineau, the most insistent [[Demagogue|demagogue]] of 1837, must certainly be named
 among the founders, for the sake of speeches which came before written
 works both in point of time and popular esteem. Only 360 volumes had
 been published during 80 years, when, in 1845, the first famous book
@@ -3459,15 +3459,15 @@ government. But his fame rests on _Jean Rivard_ (1874), the prose
 bucolic of the _habitant_. The hero, left at the head of a fatherless
 family of twelve when nearly through college, turns from the glut of
 graduates swarming round the prospects of professional city-bred
-careers, steadfastly wrests a home from the wilderness, helps his
-brothers and sisters, marries a _habitante_ fit for the wife of a
+careers, steadfastly wrests a home from the wilderness, [[Helps|helps]] his
+brothers and sisters, [[Marri|marries]] a _habitante_ fit for the wife of a
 pioneer, brings up a large family, and founds a settlement which grows
 into several parishes and finally becomes the centre of the electoral
 district of "Rivardville," which returns him to parliament. These simple
-and earnest _Scenes de la vie reelle_ are an appealing revelation of
+and [[Earnest|earnest]] _Scenes de la vie reelle_ are an appealing revelation of
 that eternal secret of the soil which every people wishing to have a
 country of its own must early lay to heart; and _Jean Rivard, le
-defricheur_, will always remain the eponym of the new _colons_ of the
+defricheur_, will always remain the eponym of the new _[[Colon|colons]]_ of the
 19th century.
 
 Philippe de Gaspe's historical novel, _Les Anciens Canadiens_ (1863), is
@@ -3480,7 +3480,7 @@ all his _censitaires_, a keen observer of many changing systems, down to
 the final Confederation of 1867, and a man who had felt both extremes of
 fortune (_Memoires_, 1866). The story rambles rather far from its
 well-worn plot. But these very digressions give the book its intimate
-and abiding charm; for they keep the reader in close personal touch with
+and abiding [[Charm|charm]]; for they keep the reader in close personal touch with
 every side of Canadian life, with songs and tales and homely forms of
 speech, with the best features of seigniorial times and the strong
 guidance of an ardent church, with _voyageurs, coureurs de bois_,
@@ -3488,7 +3488,7 @@ Indians, soldiers, sailors and all the strenuous adventurers of a wild,
 new, giant world. The poet of this little band of authors was Octave
 Cremazie, a Quebec bookseller, who failed in business and spent his last
 years as a penniless exile in France. He is usually rather too
-derivative, he lacks the saving grace of style, and even his best
+derivative, he lacks the saving [[Grace|grace]] of style, and even his best
 Canadian poems hardly rise above fervent occasional verse. Yet he became
 a national poet, because he was the first to celebrate occasions of
 deeply felt popular emotion in acceptable rhyme, and he will always
@@ -3497,7 +3497,7 @@ race. He sings what Garneau recounts--the love of mother country, mother
 church and Canada. The _Guerre de Crimee, Guerre d'ltalie_, even
 _Castel-fidardo_, are duly chronicled. An ode on _Mgr. de
 Montmorency-Laval_, first bishop of Quebec, brings him nearer to his
-proper themes, which are found in full perfection in the _Chant du vieux
+proper themes, which are found in full perfection in the _[[Chant]] du vieux
 soldat canadien_, composed in 1856 to honour the first French man-of-war
 that visited British Quebec, and _Le Drapeau de Carillon_ (1858), a
 centennial paean for Montcalm's Canadians at Ticonderoga. Much of the
@@ -3514,11 +3514,11 @@ history; but, though an able advocate, he spoilt a really good case by
 trying to prove too much. His _Pelerinage au pays d'Evangeline_ (1888)
 is a splendid defence of the unfortunate Acadians; and all his books
 attract the reader by their charm of style and personality. But his
-_Montcalm et Levis_ (1891) and other works on the conquest, are all
-warped by a strong bias against both Wolfe and Montcalm, and in favour
+_Montcalm et [[Levi|Levis]]_ (1891) and other works on the conquest, are all
+warped by a strong [[Bias|bias]] against both Wolfe and Montcalm, and in favour
 of Vandreuil, the Canadian-born governor; while they show an inadequate
 grasp of military problems, and practically ignore the vast determining
-factor of sea-power altogether. Benjamin Sulte's comprehensive _Histoire
+factor of sea-power altogether. [[Benjamin]] Sulte's comprehensive _Histoire
 des Canadiens-francais_ (1882) is a well-written, many-sided work.
 Thomas Chapais' monographs are as firmly grounded as they are finely
 expressed; his _Jean Talon_ (1904) is of prime importance; and his
@@ -3535,7 +3535,7 @@ more complex questions, taking a higher point of view, and expressing
 himself with a much apter flexibility of style.
 
 Among later poets may be mentioned Pierre Chauveau (1820-1890), Louis
-Fiset, (b. 1827), and Adolphe Poisson (b. 1849). Louis Frechette
+Fiset, (b. 1827), and Adolphe Poisson (b. 1849). Louis [[Frechette]]
 (1830-1908) has, however, long been the only poet with a reputation
 outside of Canada. In 1879 _Les Fleurs boreales_ won the Prix Monthyon
 from the French Academy. In 1887 _La Legende d'un peuple_ became the
@@ -3547,7 +3547,7 @@ real originality of conception, individual distinction of style, deep
 insight into the soul of his people, and, still more, the glow of
 warm-blooded life pulsing through the whole poem, all combine to give
 him the greatest place at home and an important one in the world at
-large. _Les Vengeances_ (1875), by Leon Pamphile Le May, and _Les
+large. _Les Vengeances_ (1875), by [[Leon]] Pamphile Le May, and _Les
 Aspirations_ (1904), by W. Chapman, worthily represent the older and
 younger contemporaries. Dr Neree Beauchemin keeps within somewhat narrow
 limits in _Les Floraisons matutinales_ (1897); but within them he shows
@@ -3556,11 +3556,11 @@ _curiosa felicitas_ of epithet and phrase, and so sure an eye for local
 colour that a stranger could choose no better guide to the imaginative
 life of Canada.
 
-A Canadian drama hardly exists; among its best works are the pleasantly
+A Canadian [[Drama|drama]] hardly exists; among its best works are the pleasantly
 epigrammatic plays of F.G. Marchand. Novels are not yet much in vogue;
 though Madame Conan's _L'Oublie_ (1902) has been crowned by the Academy;
 while Dr Choquette's _Les Ribaud_ (1898) is a good dramatic story, and
-his _Claude Paysan_ (1899) is an admirably simple idyllic tale of the
+his _[[Claude]] Paysan_ (1899) is an admirably simple idyllic tale of the
 hopeless love of a soil-bound _habitant_, told with intense natural
 feeling and fine artistic reserve. Chief-Justice Routhier, a most
 accomplished occasional writer, is very French-Canadian when arraigning

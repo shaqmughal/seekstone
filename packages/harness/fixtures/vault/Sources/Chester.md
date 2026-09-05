@@ -34,11 +34,11 @@ side the Row is formed at the same elevation as in the other three
 principal streets. In these streets are several examples of old timbered
 houses and some good modern imitations of them,--all combining to give a
 picturesque and individual character to the city. Among the most
-interesting of the ancient houses are Derby House, bearing the date
-1591, Bishop Lloyd's house, and God's Providence House in Watergate
+interesting of the ancient houses are [[Derby]] House, bearing the date
+1591, Bishop [[Lloyd'S|Lloyd's]] house, and God's Providence House in Watergate
 Street, and the Bear and Billet in Lower Bridge Street; the three last
 date from the 17th century. There is also a chamber with stone groined
-roof of the 14th century in the basement of a house in Eastgate Street,
+roof of the 14th century in the [[Basement|basement]] of a house in Eastgate Street,
 and another of a similar character in Watergate Street. A mortuary
 chapel of the early part of the 13th century exists in the basement of a
 house in Bridge Street.
@@ -49,23 +49,23 @@ rebuilt at various dates; the north and east gates on the site of the
 Roman gates. The Grosvenor bridge, a single span of stone 200 ft. in
 length, said to be the largest save one in Europe, carries the road to
 Wrexham and Shrewsbury over the Dee on the south-west; while the old
-bridge of seven arches is interesting on account of its antiquity and
+bridge of seven [[Arches|arches]] is interesting on account of its antiquity and
 picturesqueness. The castle, with the exception of "Caesar's Tower," and
 a round tower with adjacent buildings, in the upper ward, was taken down
 towards the end of the 18th century, and replaced by a gateway,
-barracks, county hall, gaol and assize courts.
+[[Barracks|barracks]], county hall, gaol and [[Assize|assize]] courts.
 
 The cathedral church of Christ and the Virgin Mary, which stands towards
 the north of the city within the walls, rose on the site of a church of
-extreme antiquity. It appears that the dedication of this church was
+extreme antiquity. It appears that the [[Dedication|dedication]] of this church was
 altered, perhaps in the reign of Athelstan, from St. Peter and St Paul
 to St Werburgh and St Oswald, St Werburgh being a niece of St Etheldreda
-of Ely. In 1093 Hugh Lupus, earl of Chester, richly endowed the
+of [[Ely]]. In 1093 Hugh [[Lupus]], earl of Chester, richly endowed the
 foundation as a Benedictine monastery. The bishops of Mercia had
 apparently a seat at Chester, but the city had ceased to be episcopal,
 until in 1075 Peter, bishop of Lichfield, removed his seat thence to
 Chester, having for his cathedral the collegiate church of St John. The
-seat of the see, however, was quickly removed again to Coventry (1102),
+seat of the see, however, was quickly removed again to [[Coventry]] (1102),
 but Cheshire continued subject to Lichfield until in 1541 Chester was
 erected into a bishopric by Henry VIII., the church of the dissolved
 abbey of St Werburgh becoming the cathedral. The diocese covers nearly
@@ -75,7 +75,7 @@ English churches, but possesses certain details of the highest interest,
 and gains in beauty from the tones of its red sandstone walls and the
 picturesque close in which it stands. It is cruciform with a central
 tower 127 ft. high. The south transept is larger than the north. The
-nave is short (145 ft.), being of six bays; the southern arcade is
+nave is short (145 ft.), being of six bays; the southern [[Arcade|arcade]] is
 Decorated, while the northern, which differs in detail, is of uncertain
 date. The basement of the north-western tower--all that remains of it,
 now used as a baptistery--is Norman, and formed part of Hugh Lupus'
@@ -84,7 +84,7 @@ north transept also retains Norman work, and its size shows the original
 plan, as the existence of the conventual buildings to the north probably
 rendered its extension undesirable. The south transept has aisles, with
 Decorated and Perpendicular windows. The fine organ stands on a screen
-across the north transept; but some of its pipes are upon the choir
+across the north transept; but some of its pipes are upon the [[Choir|choir]]
 screen, both screens being the work of Sir Gilbert Scott. The style of
 the choir is transitional from Early English to Decorated, and its
 length is 125 ft. It is a fine example, and its beauty is enhanced by
@@ -114,9 +114,9 @@ duke of Westminster, of red sandstone, with a fine spire' and peal of
 bells.
 
 Among the chief secular buildings, the town hall replaced in 1869 the
-old exchange, which had been burnt down in 1862. The Grosvenor Museum
+old [[Exchange|exchange]], which had been burnt down in 1862. The Grosvenor Museum
 and School of Art, the foundation of which was suggested by Charles
-Kingsley the novelist, when canon of Chester cathedral, contains many
+[[Kingsley]] the novelist, when canon of Chester cathedral, contains many
 local antiquities, along with a fine collection of the fauna of Cheshire
 and the neighbourhood. The King's school was founded by Henry VIII.
 (1541), who provided that twenty-four poor scholars should be taught
@@ -140,16 +140,16 @@ walls, where there are lead, shot and paint works, leather and tobacco
 factories, and iron foundries. The trade gilds number twenty-four. There
 is a considerable amount of shipping on the Dee, the navigation having
 been much improved in modern times. The parliamentary borough returns
-one member. The municipal council consists of a mayor, 10 aldermen and
+one member. The municipal council consists of a [[Mayor|mayor]], 10 aldermen and
 30 councillors. Area, 2862 acres.
 
 _History._--Setting aside the numerous legends with regard to the
 existence of a British city on the site now occupied by Chester, the
-earliest authentic information relating to its history is furnished by
-the works of Ptolemy and Antoninus. As the Roman station of Deva it was
+earliest [[Authentic|authentic]] information relating to its history is furnished by
+the works of Ptolemy and Antoninus. As the Roman station of [[Deva]] it was
 probably founded about A.D. 48 by Ostorius Scapula, and from its
-advantageous position, both as the key to communication with Ireland and
-as a bulwark against the hostile tribes of the north, it became a
+advantageous position, both as the [[Key|key]] to communication with Ireland and
+as a [[Bulwark|bulwark]] against the hostile tribes of the north, it became a
 military and commercial centre of considerable importance. In A.D. 78-79
 it was the winter-quarters of Agricola, and later became illustrious as
 the permanent headquarters of Legio XX. Valeria Victrix. Many
@@ -168,7 +168,7 @@ seat of government of the palatine earls. The Domesday account of the
 city includes a description of the Saxon laws under which it had been
 governed in the time of Edward the Confessor. All the land, except the
 bishop's borough, was held of the earl, and assessed at fifty hides.
-There were seven mint-masters and twelve magistrates, and the city paid
+There were seven mint-masters and twelve [[Magistrate|magistrates]], and the city paid
 a fee-farm rent of £45. It had been much devastated since the time of
 Edward the Confessor, and the number of houses reduced by 205.
 
@@ -179,10 +179,10 @@ privileges granted by successive earls and later sovereigns. One from
 Ralph or Ranulf de Blundevill, granted between 1190 and 1211, confirms
 to the citizens a gild merchant and all liberties and free customs, and
 three from John protect their privilege of trading with Ireland. Edward
-I. empowered the citizens to elect coroners and to hold courts of
+I. empowered the citizens to elect [[Coroner|coroners]] and to hold courts of
 justice, and granted them the fee-farm of the city at a yearly rent of
 £100. In the 14th century Chester began to lose its standing as a port
-through the gradual silting up of the estuary of the Dee, and the city
+through the [[Gradual|gradual]] silting up of the estuary of the Dee, and the city
 was further impoverished by the inroads of the Welsh and by the
 necessity of rebuilding the Dee bridge, which had been swept away by an
 unusually high tide. In consideration of these misfortunes Richard II.
@@ -204,7 +204,7 @@ monks to hold their fairs and markets before the abbey gates. A charter
 of John the Scot, earl of Chester, mentions fairs at the feasts of the
 Nativity of St John Baptist and St Michael. For many centuries the
 rights claimed by the abbot in connexion with the fairs gave rise to
-constant friction with the civic authorities, which lasted until, in the
+constant [[Friction|friction]] with the civic authorities, which lasted until, in the
 reign of Henry VIII., it was decreed that the right of holding fairs was
 vested exclusively in the citizens. Charles II. in 1685 granted a
 cattle-fair to be held on the first Thursday in February.

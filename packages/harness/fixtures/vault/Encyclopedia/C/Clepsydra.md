@@ -25,14 +25,14 @@ the volume of that discharged being noted. Plato is said to have
 invented a complicated clepsydra to indicate the hours of the night as
 well as of the day. In the clepsydra or hydraulic clock of Ctesibius of
 Alexandria, made about 135 B.C., the movement of water-wheels caused the
-gradual rise of a little figure, which pointed out the hours with a
-little stick on an index attached to the machine. The clepsydra is said
+[[Gradual|gradual]] rise of a little figure, which pointed out the hours with a
+little stick on an [[Index|index]] attached to the [[Machine|machine]]. The clepsydra is said
 to have been known to the Egyptians. There was one in the Tower of the
 Winds at Athens; and the turret on the south side of the tower is
 supposed to have contained the cistern which supplied the water.
 
-  See Marquardt, _Das Privatleben der Römer_, i. (2nd ed., 1886), p.
-  792; G. Bilfinger, _Die Zeitmesser der antiken Völker_ (1886), and
+  See [[Marquardt]], _Das Privatleben der Römer_, i. (2nd ed., 1886), p.
+  792; G. [[Bilfinger]], _Die Zeitmesser der antiken Völker_ (1886), and
   _Die antiken Stundenangaben_ (1888).
 
 ## See also

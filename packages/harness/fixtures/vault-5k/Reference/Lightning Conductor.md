@@ -1,6 +1,6 @@
 # Lightning Conductor
 
-LIGHTNING CONDUCTOR, or LIGHTNING ROD (Franklin), the name usually given
+LIGHTNING CONDUCTOR, or LIGHTNING ROD ([[Franklin]]), the name usually given
 to apparatus designed to protect buildings or ships from the destructive
 effects of lightning (Fr. _paratonnerre_, Ger. _Blitzableiter_). The
 upper regions of the atmosphere being at a different electrical
@@ -8,7 +8,7 @@ potential from the earth, the thick dense clouds which are the usual
 prelude to a thunder storm serve to conduct the electricity of the upper
 air down towards the earth, and an electrical discharge takes place
 across the air space when the pressure is sufficient. Lightning
-discharges were distinguished by Sir Oliver Lodge into two distinct
+discharges were distinguished by Sir Oliver [[Lodge]] into two distinct
 types--the _A_ and the _B_ flashes. The _A_ flash is of the simple type
 which arises when an electrically charged cloud approaches the earth
 without an intermediate cloud intervening. In the second type _B_, where
@@ -39,7 +39,7 @@ avoid damage to the structure this must also be connected to the
 conductors. A single air terminal is of no more use than an inscribed
 sign-board; besides multiplying the number of points, numerous paths, as
 well as interconnexions between the conductors, must be arranged to lead
-the discharge to the earth. The system of pipes and gutters on a roof
+the discharge to the earth. The system of pipes and [[Gutter|gutters]] on a roof
 must be imitated; although a single rain-water pipe would be sufficient
 to deal with a summer shower, in practice pipes are used in sufficient
 number to carry off the greatest storm.
@@ -106,7 +106,7 @@ follows the contour of the building and causes side flash. A building
 with a long roof should also be fitted with a horizontal conductor along
 the ridge, and to this aigrettes (fig. 3) should be attached; a simpler
 method is to support the cable by holdfasts armed with a spike (fig. 4).
-Joints must be held together mechanically as well as electrically, and
+[[Joints]] must be held together mechanically as well as electrically, and
 should be protected from the action of the air. At Westminster Abbey the
 cables are spliced and inserted in a box which is filled with lead run
 in when molten.
@@ -116,7 +116,7 @@ in when molten.
 _Earth Connexion._--A copper plate not less than 3 sq. ft. in area may
 be used as an earth connexion if buried in permanently damp ground.
 Instead of a plate there are advantages in using the tubular earth shown
-in fig. 5. The cable packed in carbon descends to the bottom of the
+in fig. 5. The cable packed in [[Carbon|carbon]] descends to the bottom of the
 perforated tube which is driven into the ground, a connexion being made
 to the nearest rain-water pipe to secure the necessary moisture. No
 further attention is required. Plate earths should be tested every year.
@@ -148,7 +148,7 @@ the conductors so that they surround it like a bird cage.
   experiments) of protecting a building from the effects of lightning by
   surrounding it with a sort of cage of rods or stout wire. It was not,
   however, until the Bath meeting of the British Association in 1888
-  that the subject was fully discussed by the physical and engineering
+  that the subject was fully discussed by the physical and [[Engineering|engineering]]
   sections. Sir Oliver Lodge showed the futility of single conductors,
   and advised the interconnexion of all the metal work on a building to
   a number of conductors buried in the earth. The action of lightning

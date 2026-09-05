@@ -7,8 +7,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gotter"
 
 # Gotter
 
-GOTTER, FRIEDRICH WILHELM (1746-1797), German poet and dramatist, was
-born on the 3rd of September 1746, at Gotha. After the completion of his
+GOTTER, [[Friedrich|FRIEDRICH]] WILHELM (1746-1797), German poet and dramatist, was
+born on the 3rd of September 1746, at [[Gotha]]. After the completion of his
 university career at Gottingen, he was appointed second director of the
 Archive of his native town, and subsequently went to Wetzlar, the seat
 of the imperial law courts, as secretary to the Saxe-Coburg-Gotha
@@ -23,10 +23,10 @@ in great measure free from the trivialities of the Anacreontic lyric of
 the earlier generation of imitators of French literature; but he was
 lacking in the imaginative depth that characterizes the German poetic
 temperament. His plays, of which _Merope_ (1774), an adaptation in
-admirable blank verse of the tragedies of Maffei and Voltaire, and
+admirable [[Blank|blank]] verse of the tragedies of Maffei and Voltaire, and
 _Medea_ (1775), a _melodrame_, are best known, were mostly based on
 French originals and had considerable influence in counteracting the
-formlessness and irregularity of the _Sturm und Drang_ drama.
+formlessness and irregularity of the _Sturm und Drang_ [[Drama|drama]].
 
   Gutter's collected _Gedichte_ appeared in 2 vols. in 1787 and 1788; a
   third volume (1802) contains his _Literarischer Nachlass_. See B.

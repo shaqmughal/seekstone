@@ -10,8 +10,8 @@ type: reference
 JOAN OF ARC, more properly JEANNETON DARC, afterwards known in France as
 JEANNE D'ARC[1] (1411-1431), the "Maid of Orleans," was born between
 1410 and 1412, the daughter of Jacques Darc, peasant proprietor, of
-Domremy, a small village in the Vosges, partly in Champagne and partly
-in Lorraine, and of his wife Isabeau, of the village of Vouthon, who
+Domremy, a small village in the Vosges, partly in [[Champagne]] and partly
+in [[Lorraine]], and of his wife Isabeau, of the village of Vouthon, who
 from having made a pilgrimage to Rome had received the usual surname of
 Romée. Although her parents were in easy circumstances, Joan never
 learned to read or write, and received her sole religious instruction
@@ -24,7 +24,7 @@ Rouen. In her childhood she was noted for her abounding physical energy;
 but her vivacity, so far from being tainted by any coarse or unfeminine
 trait, was the direct outcome of an abnormally sensitive nervous
 temperament. Towards her parents her conduct was uniformly exemplary,
-and the charm of her unselfish kindness made her a favourite in the
+and the [[Charm|charm]] of her unselfish kindness made her a favourite in the
 village. As she grew to womanhood she became inclined to silence, and
 spent much of her time in solitude and prayer. She repelled all attempts
 of the young men of her acquaintance to win her favour; and while active
@@ -34,14 +34,14 @@ the circle of her daily concerns.
 
 At this time, through the alliance and support of Philip of Burgundy,
 the English had extended their conquest over the whole of France north
-of the Loire in addition to their possession of Guienne; and while the
-infant Henry VI. of England had in 1422 been proclaimed king of France
-at his father's grave at St Denis, Charles the dauphin (still uncrowned)
-was forced to watch the slow dismemberment of his kingdom. Isabella, the
+of the Loire in addition to their possession of [[Guienne]]; and while the
+[[Infant|infant]] Henry VI. of England had in 1422 been proclaimed king of France
+at his father's grave at St Denis, Charles the [[Dauphin|dauphin]] (still uncrowned)
+was forced to watch the slow dismemberment of his kingdom. [[Isabella]], the
 dauphin's mother, had favoured Henry V. of England, the husband of her
 daughter Catherine; and under Charles VI. a visionary named Marie
 d'Avignon declared that France was being ruined by a woman and would be
-restored by an armed virgin from the marches of Lorraine. To what extent
+restored by an armed virgin from the [[Marches|marches]] of Lorraine. To what extent
 this idea worked in Joan's mind is doubtful. In Geoffrey of Monmouth's
 tract, _De prophetiis Merlini_, there is a reference to an ancient
 prophecy of the enchanter Merlin concerning a virgin _ex nemore canuto_,
@@ -50,24 +50,24 @@ folk-lore with the oak wood of Domremy. Joan's knowledge of the prophecy
 does not, however, appear till 1429; and already before that, from 1424,
 according to her account at her trial, she had become imbued with a
 sense of having a mission to free France from the English. She heard the
-voices of St Michael, St Catherine and St Margaret urging her on. In May
+voices of St Michael, St Catherine and St [[Margaret]] urging her on. In May
 1428 she tried to obtain from Robert de Baudricourt, governor of
 Vaucouleurs, an introduction to the dauphin, saying that God would send
 him aid, but she was rebuffed. When, however, in September the English
-(under the earl of Salisbury) invested Orleans, the key to the south of
+(under the earl of Salisbury) invested Orleans, the [[Key|key]] to the south of
 France, she renewed her efforts with Baudricourt, her mission being to
 relieve Orleans and crown the dauphin at Reims. By persistent
 importunity, the effect of which was increased by the simplicity of her
-demeanour and her calm assurance of success, she at last prevailed on
+demeanour and her [[Calm|calm]] assurance of success, she at last prevailed on
 the governor to grant her request; and in February 1429, accompanied by
 six men-at-arms, she set out on her perilous journey to the court of the
-dauphin at Chinon. At first Charles refused to see her, but popular
+dauphin at [[Chinon]]. At first Charles refused to see her, but popular
 feeling in her favour induced his advisers to persuade him after three
 days to grant her an interview. She is said to have persuaded him of the
 divine character of her commission by discovering him though disguised
-in the crowd of his courtiers, and by reassuring him regarding his
-secret doubts as to his legitimacy. And Charles was impressed by her
-knowledge of a secret prayer, which (he told Dunois) could only be known
+in the [[Crowd|crowd]] of his courtiers, and by reassuring him regarding his
+secret doubts as to his [[Legitimacy|legitimacy]]. And Charles was impressed by her
+knowledge of a secret prayer, which (he told [[Dunois]]) could only be known
 to God and himself. Accordingly, after a commission of doctors had
 reported that they had found in her nothing of evil or contrary to the
 Catholic faith, and a council of matrons had reported on her chastity,
@@ -78,19 +78,19 @@ Charles Martel had vanquished the Saracens, the hiding-place of which,
 under the altar of the parish church of the village of Ste Catherine de
 Fierbois, the "voices" had revealed to her; she carried a white standard
 of her own design embroidered with lilies, and having on the one side
-the image of God seated on the clouds and holding the world in His hand,
+the [[Image|image]] of God seated on the clouds and holding the world in His hand,
 and on the other a representation of the Annunciation. Joan succeeded in
 entering Orleans on the 29th of April 1429, and through the vigorous and
 unremitting sallies of the French the English gradually became so
 discouraged that on the 8th of May they raised the siege. It is admitted
 that her extraordinary pluck and sense of leadership were responsible
 for this result. In a single week (June 12 to 19), by the capture of
-Jargeau and Beaugency, followed by the great victory of Patay, where
+Jargeau and [[Beaugency]], followed by the great victory of Patay, where
 Talbot was taken prisoner, the English were driven beyond the Loire.
 With some difficulty the dauphin was then persuaded to set out towards
 Reims, which he entered with an army of 12,000 men on the 16th of July,
 Troyes having yielded on the way. On the following day, holding the
-sacred banner, Joan stood beside Charles at his coronation in the
+sacred banner, Joan stood beside Charles at his [[Coronation|coronation]] in the
 cathedral.
 
 The king then entered into negotiations with a view to detaching
@@ -106,7 +106,7 @@ the 24th of May she led an unsuccessful sortie against the besiegers,
 when she was surrounded and taken prisoner. Charles, partly perhaps on
 account of his natural indolence, partly on account of the intrigues at
 the court, made no effort to effect her ransom, and never showed any
-sign of interest in her fate. By means of negotiations instigated and
+sign of interest in her [[Fate|fate]]. By means of negotiations instigated and
 prosecuted with great perseverance by the university of Paris and the
 Inquisition, and through the persistent scheming of Pierre Cauchon, the
 bishop of Beauvais--a Burgundian partisan, who, chased from his own see,
@@ -135,10 +135,10 @@ party, which desired to advertise, in the person of this national
 heroine, the intimate union between patriotism and the Catholic faith,
 and for this purpose ardently desired her enrolment among the Saints. On
 the 27th of January 1894 solemn approval was given by Pope Leo XIII.,
-and in February 1903 a formal proposal was entered for her canonization.
+and in February 1903 a formal proposal was entered for her [[Canonization|canonization]].
 The Feast of the Epiphany (Jan. 6), 1904 was made the occasion for a
-public declaration by Pope Pius X. that she was entitled to the
-designation Venerable. On the 13th of December 1908 the decree of
+public [[Declaration|declaration]] by Pope Pius X. that she was entitled to the
+designation Venerable. On the 13th of December 1908 the [[Decree|decree]] of
 beatification was published in the Consistory Hall of the Vatican.
 
 As an historical figure, it is impossible to dogmatize concerning the
@@ -147,7 +147,7 @@ provoked what appears, in Anatole France's learned account, ably
 presented as it is, to be a retaliation, in regarding her as a clerical
 tool in her own day. But her character was in any case exceptional. She
 undoubtedly nerved the French at a critical time, and inspired an army
-of laggards and pillagers with a fanatical enthusiasm, comparable with
+of laggards and pillagers with a fanatical [[Enthusiasm|enthusiasm]], comparable with
 that of Cromwell's Puritans. Moreover, as regards her genuine military
 qualities we have the testimony of Dunois and d'Alençon; and Captain
 Marin, in his _Jeanne d'Arc, tacticien et stratégiste_ (1891), takes a
@@ -187,16 +187,16 @@ xi.
   the canonization of Joan of Arc led the Catholic party in France to
   publish lives (such as Sepet's, 1869) in support of their claims.
   Excellent works worth special mention are: Siméon Luce, _Jeanne d'Arc
-  à Domremy_; L. Jarry, _L'Armée anglaise au siège d'Orleans_ (1892);
+  à Domremy_; L. [[Jarry]], _L'Armée anglaise au siège d'Orleans_ (1892);
   J. J. Bourassé, _Miracles de Madame Sainte Kathérine de Fierbois_
-  (1858, trans. by A. Lang); Boucher de Molandon and A. de Beaucorps,
+  (1858, trans. by A. Lang); [[Boucher]] de Molandon and A. de Beaucorps,
   _L'Armée anglaise vaincue par Jeanne d'Arc_ (1892); R. P. Agroles,
   S.J., _La Vraie Jeanne d'Arc_. For the "false Pucelle" see A. Lang's
-  article in his _Valet's Tragedy_ (1903). Of the numerous dramas and
+  article in his _Valet's Tragedy_ (1903). Of the numerous [[Drama|dramas]] and
   poems of which Joan of Arc has been the subject, mention can only be
-  made of _Die Jungfrau von Orleans_ of Schiller, and of the _Joan of
+  made of _Die [[Jungfrau]] von Orleans_ of Schiller, and of the _Joan of
   Arc_ of Southey. A drama in verse by Jules Barbier was set to music by
-  C. Gounod (1873).     (J. T. S.*; H. Ch.)
+  C. [[Gounod]] (1873).     (J. T. S.*; H. Ch.)
 
 
 FOOTNOTES:

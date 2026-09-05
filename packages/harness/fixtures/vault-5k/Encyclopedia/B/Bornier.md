@@ -1,13 +1,13 @@
 # Bornier
 
 BORNIER, HENRI, VICOMTE DE (1825-1901) French poet and dramatist, was
-born at Lunel (Herault) on the 25th of December 1825. He came to Paris
+born at Lunel ([[Herault]]) on the 25th of December 1825. He came to Paris
 in 1845 With the object of studying law, but in that year he published a
 volume of verse, _Les Premieres Feuilles_, and the Comedie Francaise
 accepted a play of his entitled _Le Mariage de Luther_. He was given a
 post in the library of the Arsenal, where he served for half a century,
 becoming director in 1889. In 1875 was produced at the Theatre Francais
-his heroic drama in verse, _La Fille de Roland_. The action of the play
+his heroic [[Drama|drama]] in verse, _La Fille de Roland_. The action of the play
 turns on the love of Gerald, son of the traitor Ganelon, for the
 daughter of Roland. The patriotic subject and the nobility of the
 character of Gerald, who renounces Berthe when he learns his real

@@ -2,7 +2,7 @@
 
 CHLOROFORM (trichlor-methane), CHCl3, a valuable anaesthetic, a
 colourless liquid, possessing an agreeable smell and a pleasant taste.
-It may be prepared by the action of bleaching powder on many carbon
+It may be prepared by the action of [[Bleaching|bleaching]] powder on many [[Carbon|carbon]]
 compounds, such, for example, as ethyl alcohol and acetone (E.
 Soubeiran, _Ann. chim. phys._, 1831 [2], 48, p. 131; J.v. Liebig,
 _Ann._, 1832, I, p. 199), by heating chloral with alkalis (Liebig),
@@ -22,12 +22,12 @@ COCl2). It reacts with sodium ethylate to form ortho-formic ester,
 CH(OC2H5)3, and when heated with aqueous ammonia for some hours at
 200-220° C. gives carbon monoxide and ammonium formate, 2CHCl3 + 7NH3 +
 3H2O = NH4·HCO2 + CO + 6NH4Cl (G. André, _Jahresb._, 1886, p. 627). When
-digested with phenols and caustic soda it forms oxyaldehydes (K. Reimer,
+digested with phenols and [[Caustic|caustic]] soda it forms oxyaldehydes (K. Reimer,
 _Ber._, 1876, 9, p. 423); and when heated with alcoholic potash it is
 converted into potassium formate, CHCl3 + 4KHO = KHCO2 + 3KCl + 2H2O. It
 combines with acetoacetic ester to form the aromatic compound
 meta-oxyuvitic acid, C6H2·CH3·OH·(COOH)2. A hydrate, of composition
-CHCl3·18H2O, has been described (G. Chancel, _Fresenius Zeitschrift f.
+CHCl3·18H2O, has been described (G. [[Chancel]], _[[Fresenius]] Zeitschrift f.
 anal. Chemie_, 1886, 25, p. 118); it forms hexagonal crystals which melt
 at 1.6° C.
 
@@ -44,7 +44,7 @@ The _British Pharmacopoeia_ contains a watery solution--the _Aqua
 Chloroformi_--which is useful in disguising the taste of nauseous drugs;
 a liniment which consists of equal parts of camphor liniment and
 chloroform, and is a useful counter-irritant; the _Spiritus Chloroformi_
-(erroneously known as "chloric ether"), which is a useful anodyne in
+(erroneously known as "chloric ether"), which is a useful [[Anodyne|anodyne]] in
 doses of from five to forty drops; and the _Tinctura Chloroformi et
 Morphinae Composita_, which is the equivalent of a proprietary drug
 called chlorodyne. This tincture contains chloroform, morphine and

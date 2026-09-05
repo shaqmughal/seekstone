@@ -7,7 +7,7 @@ both entitled _Dramma per Musica_, but showing no more essential connexion
 with the stage than Handel's _Acis and Galatea_.
 
 7 solo and 7 choral cantatas, of which latter three were almost entirely
-absorbed into the Christmas oratorio and the B minor mass. Of the solo
+absorbed into the [[Christmas]] oratorio and the B minor mass. Of the solo
 cantatas two are Italian (one of these being Bach's only developed work for
 voice and clavier) and two are burlesque.
 

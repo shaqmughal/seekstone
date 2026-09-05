@@ -2,10 +2,10 @@
 
 DALTON-IN-FURNESS, a market town in the North Lonsdale parliamentary
 division of Lancashire, England, 4 m. N.E. by N. of Barrow-in-Furness by
-the Furness railway. Pop. of urban district (1901) 13,020. The church of
+the [[Furness]] railway. Pop. of urban district (1901) 13,020. The church of
 St Mary is in the main a modern reconstruction, but retains ancient
 fragments and a font believed to have belonged to Furness Abbey. This
-fine ruin lies 3 m. south of Dalton (see FURNESS). St Mary's churchyard
+fine ruin lies 3 m. south of [[Dalton]] (see FURNESS). St Mary's churchyard
 contains the tomb of the painter George Romney, a native of the town. Of
 Dalton Castle there remains a square tower, showing decorated windows.
 Here was held the manorial court of Furness Abbey. There are numerous

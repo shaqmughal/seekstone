@@ -1,25 +1,25 @@
 # Hor
 
 HOR, MOUNT ([Hebrew: hor]), the scene in the Bible of Aaron's death,
-situated "in the edge of the land of Edom" (Num. xxxiii. 37). Since the
-time of Josephus it has been identified with the _Jebel Nebi Harun_
+situated "in the edge of the land of [[Edom]]" (Num. xxxiii. 37). Since the
+time of Josephus it has been identified with the _[[Jebel]] Nebi Harun_
 ("Mountain of the Prophet Aaron"), a twin-peaked mountain 4780 ft. above
 the sea-level (6072 ft. above the Dead Sea) in the Edomite Mountains on
 the east side of the Jordan-Arabah valley. On the summit is a shrine
 said to cover the grave of Aaron. Some modern investigators dissent from
-this identification: H. Clay Trumbull prefers the Jebel Madara, a peak
+this [[Identification|identification]]: H. Clay Trumbull prefers the Jebel Madara, a peak
 north-west of 'Ain Kadis. Another Mount Hor is mentioned in Num. xxxiv.
 7, 8, as on the northern boundary of the prospective conquests of the
 Israelites. It is perhaps to be identified with Hermon. It has been
 doubtfully suggested that for _Hor_ we should here read _Hadrach_, the
-name of a northern country near Damascus, mentioned only once in the
+name of a northern country near [[Damascus]], mentioned only once in the
 Bible (Zech. ix. 1).     (R. A. S. M.)
 
 
 
 
 HORACE [QUINTUS HORATIUS FLACCUS] (65-8 B.C.), the famous Roman poet,
-was born on the 8th of December 65 B.C. at Venusia, on the borders of
+was born on the 8th of December 65 B.C. at Venusia, on the [[Borders|borders]] of
 Lucania and Apulia (_Sat._ ii. 1. 34). The town, originally a colony of
 veterans, appears to have long maintained its military traditions, and
 Horace was early imbued with a profound respect for the indomitable
@@ -39,7 +39,7 @@ the training and example of his father, of whose worth, affectionate
 solicitude and homely wisdom Horace has given a most pleasing and
 life-like picture (_Sat._ i. 6. 70, &c.). He was a freedman by position;
 and it is supposed that he had been originally a slave of the town of
-Venusia, and on his emancipation had received the gentile name of
+Venusia, and on his emancipation had received the [[Gentile|gentile]] name of
 Horatius from the Horatian tribe in which the inhabitants of Venusia
 were enrolled. After his emancipation he acquired by the occupation of
 "coactor" (a collector of the payments made at public auctions, or,
@@ -52,7 +52,7 @@ later life to take his place among the best men of Rome, but also his
 immunity from the baser forms of moral evil (_Sat._ i. 6. 68. &c.). To
 his practical teaching he attributes also his tendency to moralize and
 to observe character (_Sat._ i. 4. 105, &c.)--the tendency which enabled
-him to become the most truthful painter of social life and manners which
+him to become the most truthful painter of social life and [[Manners|manners]] which
 the ancient world produced.
 
 In one of his latest writings (_Epist._ ii. 2. 42, &c.) Horace gives a
@@ -79,7 +79,7 @@ encountered the danger of shipwreck, which he mentions among the perils
 from which his life had been protected by supernatural aid (_Carm._ iii.
 4. 28). He procured in some way the post of a clerkship in the
 quaestor's office, and about three years after the battle of Philippi,
-he was introduced by Virgil and Varius to Maecenas. This was the
+he was introduced by Virgil and Varius to [[Maecenas]]. This was the
 turning-point of his fortunes. He owed his friendship with the greatest
 of literary patrons to his personal merits rather than to his poetic
 fame; for he was on intimate terms with Maecenas before the first book
@@ -97,7 +97,7 @@ he tells us, written under the instigation of poverty; and they alone
 betray any trace of the bitterness of spirit which the defeat of his
 hopes and the hardships which he had to encounter on his first return to
 Rome may have temporarily produced on him. Some of the _Epodes_, of the
-nature of personal and licentious lampoons, and the second _Satire_ of
+nature of personal and licentious [[Lampoon|lampoons]], and the second _Satire_ of
 book i., in which there is some trace of an angry republican feeling,
 belong to these early compositions. But by the time the first book of
 _Satires_ was completed and published (35 B.C.) his temper had recovered
@@ -112,7 +112,7 @@ modern Tivoli. This secured him pecuniary independence; it satisfied the
 love of nature which had been implanted in him during the early years
 spent on the Venusian farm; and it afforded him a welcome escape from
 the distractions of city life and the dangers of a Roman autumn. Many
-passages in the _Satires_, _Odes_ and _Epistles_ express the happiness
+passages in the _Satires_, _Odes_ and _[[Epistle|Epistles]]_ express the happiness
 and pride with which the thought of his own valley filled him, and the
 interest which he took in the simple and homely ways of his country
 neighbours. The inspiration of the _Satires_ came from the heart of
@@ -127,7 +127,7 @@ The second book of _Satires_ was published in 29 B.C.; the _Epodes_
 though many of them are, as regards the date of their composition, to be
 ranked among the earliest extant writings of Horace. In one of his
 _Epistles_ (i. 19. 25) he rests his first claim to originality on his
-having introduced into Latium the metres and spirit of Archilochus of
+having introduced into [[Latium]] the metres and spirit of [[Archilochus]] of
 Paros. He may have naturalized some special form of metre employed by
 that poet, and it may be (as Th. Plusz has suggested) that we should see
 in the _Epodes_ a tone of mockery and parody. But his personal lampoons
@@ -142,13 +142,13 @@ art and inspiration of the first three books of the _Odes_, which were
 published together about the end of 24 or the beginning of 23 B.C.[1]
 The composition of these _Odes_ extended over several years, but all the
 most important among them belong to the years between the battle of
-Actium and 24 B.C. His lyrical poetry is thus, not, like that of
+Actium and 24 B.C. His [[Lyrical Poetry|lyrical poetry]] is thus, not, like that of
 Catullus, the ardent utterance of his youth, but the mature and finished
 workmanship of his manhood. The state of public affairs was more
 favourable than it had been since the outbreak of the civil war between
-Caesar and Pompey for the appearance of lyrical poetry. Peace, order and
+[[Caesar]] and Pompey for the appearance of lyrical poetry. Peace, order and
 national unity had been secured by the triumph of Augustus, and the
-enthusiasm in favour of the new government had not yet been chilled by
+[[Enthusiasm|enthusiasm]] in favour of the new government had not yet been chilled by
 experience of its repressing influence. The poet's circumstances were,
 at the same time, most favourable for the exercise of his lyrical gift
 during these years. He lived partly at Rome, partly at his Sabine farm,
@@ -176,10 +176,10 @@ intimacies, especially with younger men engaged in public affairs or
 animated by literary ambition. After the death of Virgil he was
 recognized as pre-eminently the greatest living poet, and was
 accordingly called upon by Augustus to compose the sacred hymn for the
-celebration of the secular games in 17 B.C. About four years later he
+celebration of the secular [[Games|games]] in 17 B.C. About four years later he
 published the fourth book of _Odes_ (about 13 B.C.) having been called
 upon to do so by the emperor, in order that the victories of his
-stepsons Drusus and Tiberius over the Rhaeti and Vindelici might be
+stepsons [[Drusus]] and Tiberius over the Rhaeti and Vindelici might be
 worthily celebrated. He lived about five years longer, and during these
 years published the second book of _Epistles_, and the _Epistle to the
 Pisos_, more generally known as the "_Ars poetica_." These later
@@ -193,7 +193,7 @@ that of a right life. But his critical _Epistles_ are chiefly devoted to
 a controversial attack on the older writers and to the exposition of the
 laws of dramatic poetry, on which his own powers had never been
 exercised, and for which either the genius or circumstances of the
-Romans were unsuited. The same subordination of imagination and
+Romans were unsuited. The same subordination of [[Imagination|imagination]] and
 enthusiasm to good sense and sober judgment characterizes his opinions
 on poetry as on morals.
 
@@ -210,9 +210,9 @@ rather that of being the first of those whose works have reached us who
 establishes a personal relation with his reader, speaks to him as a
 familiar friend, gives him good advice, tells him the story of his life,
 and shares with him his private tastes and pleasures--and all this
-without any loss of self-respect, any want of modesty or breach of good
+without any loss of self-respect, any want of modesty or [[Breach|breach]] of good
 manners, and in a style so lively and natural that each new generation
-of readers might fancy that he was addressing them personally and
+of readers might [[Fancy|fancy]] that he was addressing them personally and
 speaking to them on subjects of every day modern interest. In his
 self-portraiture, far from wishing to make himself out better or greater
 than he was, he seems to write under the influence of an ironical
@@ -232,14 +232,14 @@ society, he claims to have acted in all his relations to others in
 accordance with the standard recognized among men of honour in every
 age, to have been charitably indulgent to the weakness of his friends,
 and to have been exempt from petty jealousies and the spirit of
-detraction. If ever he deviates from his ordinary vein of irony and
-quiet sense into earnest indignation, it is in denouncing conduct
+detraction. If ever he deviates from his ordinary vein of [[Irony|irony]] and
+quiet sense into [[Earnest|earnest]] indignation, it is in denouncing conduct
 involving treachery or malice in the relations of friends (_Sat._ i. 4.
 81, &c.).
 
 He claims to be and evidently aims at being independent of fortune,
-superior to luxury, exempt both from the sordid cares of avarice and the
-coarser forms of profligacy. At the same time he makes a frank
+superior to luxury, exempt both from the sordid [[Car|cares]] of avarice and the
+coarser forms of profligacy. At the same time he makes a [[Frank|frank]]
 confession of indolence and of occasional failure in the pursuit of his
 ideal self-mastery. He admits his irascibility, his love of pleasure,
 his sensitiveness to opinion, and some touch of vanity or at least of
@@ -251,7 +251,7 @@ his attitude of independence, by declining the office of private
 secretary which the emperor wished to force upon him; and he did so with
 such tact as neither to give offence nor to forfeit the regard of his
 superior. His feeling towards Maecenas is more like that of Pope towards
-Bolingbroke than that which a client in ancient or modern times
+[[Bolingbroke]] than that which a client in ancient or modern times
 entertains towards his patron. He felt pride in his protection and in
 the intellectual sympathy which united him with one whose personal
 qualities had enabled him to play so prominent and beneficent a part in
@@ -280,12 +280,12 @@ extinct fires than the utterance of recent passion. In his friendships
 he had not the self-forgetful devotion which is the most attractive side
 of the character of Catullus; but he studied how to gain and keep the
 regard of those whose society he valued, and he repaid this regard by a
-fine courtesy and by a delicate appreciation of their higher gifts and
+fine [[Courtesy|courtesy]] and by a delicate appreciation of their higher gifts and
 qualities, whether proved in literature, or war, or affairs of state or
 the ordinary dealings of men. He enjoyed the great world, and it treated
 him well; but he resolutely maintained his personal independence and the
 equipoise of his feelings and judgment. If it is thought that in
-attributing a divine function to Augustus he has gone beyond the bounds
+attributing a divine function to Augustus he has gone beyond the [[Bounds|bounds]]
 of a sincere and temperate admiration, a comparison of the _Odes_ in
 which this occurs with the first _Epistle_ of the second book shows that
 he certainly recognized in the emperor a great and successful
@@ -302,11 +302,11 @@ constantly inculcates. His philosophy is thus a mode of practical
 Epicureanism combined with other elements which have more affinity with
 Stoicism. In his early life he professed his adherence to the former
 system, and several expressions in his first published work show the
-influences of the study of Lucretius. At the time when the first book of
+influences of the study of [[Lucretius]]. At the time when the first book of
 the _Epistles_ was published he professes to assume the position of an
 eclectic rather than that of an adherent of either school (_Epist._ i.
 1. 13-19). We note in the passage here referred to, as in other
-passages, that he mentions Aristippus of Cyrene, rather than Epicurus
+passages, that he mentions Aristippus of Cyrene, rather than [[Epicurus]]
 himself, as the master under whose influence he from time to time
 insensibly lapsed. Yet the dominant tone of his teaching is that of a
 refined Epicureanism, not so elevated or purely contemplative as that
@@ -322,7 +322,7 @@ its ease and enjoyment. In some of the stronger utterances of his
 _Odes_, where he expresses sympathy with the manlier qualities of
 character, we recognize the resistent attitude of Stoicism rather than
 the passive acquiescence of Epicureanism. The concluding stanzas of the
-address to Lollius (_Ode_ iv. 9) exhibit the Epicurean and Stoical view
+address to [[Lollius]] (_Ode_ iv. 9) exhibit the Epicurean and Stoical view
 of life so combined as to be more worthy of human dignity than the
 genial worldly wisdom of the former school, more in harmony with human
 experience than the formal precepts of the latter.
@@ -333,7 +333,7 @@ paradoxes of Stoicism in the two books of the _Satires_ to the appeal
 which he makes in some of the _Odes_ of the third book to the strongest
 Roman instincts of fortitude and self-sacrifice. A similar modification
 of his religious and political attitude may be noticed between his early
-declaration of Epicurean unbelief and the sympathy which he shows with
+[[Declaration|declaration]] of Epicurean unbelief and the sympathy which he shows with
 the religious reaction fostered by Augustus; and again between the
 Epicurean indifference to national affairs and the strong support which
 he gives to the national policy of the emperor in the first six _Odes_
@@ -347,7 +347,7 @@ a natural piety, thankful for the blessing bestowed on purity and
 simplicity of life, and acknowledging a higher and more majestic law
 governing nations through their voluntary obedience. On the other hand,
 his allusions to a future life, as in the "domus exilis Plutonia," and
-the "furvae regna Proserpinae," are shadowy and artificial. The image of
+the "furvae regna Proserpinae," are shadowy and artificial. The [[Image|image]] of
 death is constantly obtruded in his poems to enhance the sense of
 present enjoyment. In the true spirit of paganism he associates all
 thoughts of love and wine, of the meeting of friends, or of the changes
@@ -397,15 +397,15 @@ pleasures--
   severity of a censor; and the greater urbanity of his age or of his
   disposition restrained in him the direct personality of satire. The
   names introduced by him to mark types of character such as Nomentanus,
-  Maenius, Pantolabus, &c., are reproduced from the writings of the
+  [[Maenius]], Pantolabus, &c., are reproduced from the writings of the
   older poet. Horace also followed Lucilius in the variety of forms
   which his satire assumes, and especially in the frequent adoption of
-  the form of dialogue, derived from the "dramatic medley" which was the
+  the form of [[Dialogue|dialogue]], derived from the "dramatic medley" which was the
   original character of the Roman _Satura_. This form suited the spirit
   in which Horace regarded the world, and also the dramatic quality of
   his genius, just as the direct denunciation and elaborate painting of
   character suited the "saeva indignatio" and the oratorical genius of
-  Juvenal.
+  [[Juvenal]].
 
   Horace's satire is accordingly to a great extent a reproduction in
   form, manner, substance and tone of the satire of Lucilius; or rather
@@ -418,7 +418,7 @@ pleasures--
   management of the more natural trochaic metre, he has shown much
   greater ease and simplicity. It is one great triumph of Horace's
   genius that he was the first and indeed the only Latin writer who
-  could bend the stately hexameter to the uses of natural and easy, and
+  could [[Bend|bend]] the stately hexameter to the uses of natural and easy, and
   at the same time terse and happy, conversational style. Catullus, in
   his hendecasyllabics, had shown the vivacity with which that light and
   graceful metre could be employed in telling some short story or
@@ -435,7 +435,7 @@ pleasures--
   composition may have been suggested by that of some of the satires of
   Lucilius, which were composed as letters to his personal friends. But
   letter-writing in prose, and occasionally also in verse, had been
-  common among the Romans from the time of the siege of Corinth; and a
+  common among the Romans from the time of the siege of [[Corinth]]; and a
   practice originating in the wants and convenience of friends
   temporarily separated from one another by the public service was
   ultimately cultivated as a literary accomplishment. It was a happy
@@ -445,7 +445,7 @@ pleasures--
   his age. It suited his circumstances in the latter years of his life,
   when his tastes inclined him more to retirement and study, while he
   yet wished to retain his hold on society and to extend his relations
-  with younger men who were rising into eminence. It suited the class
+  with younger men who were rising into [[Eminence|eminence]]. It suited the class
   who cared for literature--a limited circle of educated men, intimate
   with one another, and sharing the same tastes and pursuits. While
   giving expression to lessons applicable to all men, he in this way
@@ -454,7 +454,7 @@ pleasures--
   _Epistles_ are more ethical and meditative than the _Satires_. Like
   the _Odes_ they exhibit the twofold aspects of his philosophy, that of
   temperate Epicureanism and that of more serious and elevated
-  conviction. In the actual maxims which he lays down, in his apparent
+  conviction. In the actual [[Maxims|maxims]] which he lays down, in his apparent
   belief in the efficacy of addressing philosophical texts to the mind,
   he exemplifies the triteness and limitation of all Roman thought. But
   the spirit and sentiment of his practical philosophy is quite genuine
@@ -519,7 +519,7 @@ pleasures--
   perfection that the art perished with him. A great proof of his
   mastery over rhythm is the skill with which he has varied his metres
   according to the sentiment which he wishes to express. Thus his great
-  metre, the Alcaic, has a character of stateliness and majesty in
+  metre, the Alcaic, has a character of stateliness and [[Majesty|majesty]] in
   addition to the energy and impetus originally imparted to it by
   Alcaeus. The Sapphic metre he employs with a peculiar lightness and
   vivacity which harmonize admirably with his gayer moods.
@@ -544,12 +544,12 @@ pleasures--
   of view, was intended not merely to give refined pleasure to a few,
   but above all things, to be "utilis urbi." Yet he is saved, in his
   practice, from the abuse of this theory by his admirable sense, his
-  ironical humour, his intolerance of pretension and pedantry. Opinions
+  ironical [[Humour|humour]], his intolerance of pretension and pedantry. Opinions
   will differ as to whether he or Catullus is to be regarded as the
   greater lyrical poet. Those who assign the palm to Horace will do so,
   certainly not because they recognize in him richer or equally rich
   gifts of feeling, conception and expression, but because the subjects
-  to which his art has been devoted have a fuller, more varied, more
+  to which his art has been devoted have a [[Fuller|fuller]], more varied, more
   mature and permanent interest for the world.
 
   AUTHORITIES.--For the life of Horace the chief authorities are his own
@@ -560,7 +560,7 @@ pleasures--
   largest collection of variants and emendations to the text and of the
   _testimonia_ of ancient writers.
 
-  What might have proved the most important manuscript of Horace, the
+  What might have proved the most important [[Manuscript|manuscript]] of Horace, the
   so-called _vetustissimus Blandinius_, is now lost, and we know it only
   from the account of J. Cruquius who saw it in 1565. The relations of
   the extant MSS. to each other and the presumed archetype present an
@@ -573,7 +573,7 @@ pleasures--
   grammarian. These scholia also have been collected and edited--the
   Porphyrio scholia by A. Holder (1902) and the "Acronian" (or
   pseudo-Acronian) by O. Keller (1902-1904). R. Bentley's epoch-making
-  edition (1711) has been reprinted with an index by Zangemeister
+  edition (1711) has been reprinted with an [[Index|index]] by Zangemeister
   (1869). Of the modern commentaries the most useful are those of J. C.
   Orelli (4th ed., revised by O. Hirschfelder and J. Mewes, 1886-1890,
   with _index verborum_), and of A. Kiessling (revised by R. Heinze,
@@ -582,7 +582,7 @@ pleasures--
   1874-1896). Other editions with English notes are those of T. E. Page
   (_Odes_, 1883), A. Palmer (_Satires_, 1883), A. S. Wilkins
   (_Epistles_, 1885), J. Gow (_Odes_ and _Epodes_, 1896, _Satires_, i.,
-  1901), P. Shorey (_Odes_ and _Epodes_, 1898, Boston, U.S.A.). L.
+  1901), P. Shorey (_Odes_ and _Epodes_, 1898, [[Boston]], U.S.A.). L.
   Muller's elaborate edition of the _Odes_ and _Epodes_ was published
   posthumously (1900). Of the critical editions Keller and Holder's
   still holds the field: to this Keller's _Epilegomena zu Horaz_ (1879)

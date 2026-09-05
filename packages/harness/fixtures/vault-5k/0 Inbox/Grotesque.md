@@ -10,7 +10,7 @@ tags: [history, art]
 
 GROTESQUE, strictly a form of decorative art, in painting or sculpture,
 consisting of fantastic shapes of human beings, animals and the like,
-joined together by wreaths of flowers, garlands or arabesques. The word
+joined together by wreaths of flowers, garlands or [[Arabesque|arabesques]]. The word
 is also applied to any whimsical design or decorative style, if
 characterized by unnatural distortion, and, generally, to anything
 ludicrous or extravagantly fanciful. "Grotesque" comes through the

@@ -8,24 +8,24 @@ type: article
 # Franzen
 
 FRANZEN, FRANS MIKAEL (1772-1847), Swedish poet, was born at Uleaborg in
-Finland on the 9th of February 1772. At thirteen he entered the
+[[Finland]] on the 9th of February 1772. At thirteen he entered the
 university of Abo, where he attended the lectures of H. G. Porthan
 (1739-1804), a pioneer in the study of Finnish history and legend. He
 graduated in 1789, and became "_eloquentiae docens_" in 1792. Three
-years later he started on a tour through Denmark, Germany, France and
+years later he started on a tour through [[Denmark]], Germany, France and
 England, returning in 1796 to accept the office of university librarian
-at Abo. In 1801 he became professor of history and ethics, and in 1808
+at Abo. In 1801 he became professor of history and [[Ethics|ethics]], and in 1808
 was elected a member of the Swedish Academy. On the cession of Finland
 to Russia, Franzen removed to Sweden, where he was successively
 appointed parish priest of Kumla in the diocese of Strengnaes (1810),
-minister of the Clara Church in Stockholm (1824) and bishop of Hernoesand
+minister of the [[Clara]] Church in Stockholm (1824) and bishop of Hernoesand
 (1831). He died at Saebra parsonage on the 14th of August 1847. From the
 autumn of 1793, when his _Till en ung Flicka_ and _Menniskans anlete_
-were inserted by Kellgren in the _Stockholmspost_, Franzen grew in
+were inserted by [[Kellgren]] in the _Stockholmspost_, Franzen grew in
 popular favour by means of many minor poems of singular simplicity and
 truth, as _Till Selma_, _Den gamle knekten_, _Riddar St Goeran_, _De Sma
 blommorna_, _Modren vid vaggan_, _Nyarsmorgonen_ and _Stjernhimmelen_.
-His songs _Goda gosse glaset toem_, _Soerj ej den gryende dagen foerut_,
+His songs _Goda [[Gosse|gosse]] glaset toem_, _Soerj ej den gryende dagen foerut_,
 _Champagnevinet_ and _Bevaeringssang_ were widely sung, and in 1797 he
 won the prize of the Swedish Academy by his _Sang oefver grefve Filip
 Creutz_. Henceforth his muse, touched with the academic spirit, grew
@@ -46,7 +46,7 @@ inferior to his shorter pieces.
   Malmstroem, in the _Handlingar_ of the Swedish Academy (1852, new
   series 1887), vol. ii.; S. A. Hollander, _Minne af F. M. Franzen_
   (Oerebro, 1868); F. Cygnaeus, _Teckningar ur F. M. Franzens lefnad_
-  (Helsingfors, 1872); and Gustaf Ljunggren, _Svenska vitterhetens
+  ([[Helsingfors]], 1872); and Gustaf [[Ljunggren]], _Svenska vitterhetens
   haefder efter Gustaf III.'s doed_, vol. ii. (1876).
 
 ## References

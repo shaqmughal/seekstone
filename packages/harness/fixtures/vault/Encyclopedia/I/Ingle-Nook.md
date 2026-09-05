@@ -5,7 +5,7 @@ seat by the fireside, within the chimney-breast. The open Tudor or
 Jacobean fire-place was often wide enough to admit of a wooden settle
 being placed at each end of the embrasure of which it occupied the
 centre, and yet far enough away not to be inconveniently hot. This was
-one of the means by which the builder sought to avoid the draughts which
+one of the means by which the builder sought to avoid the [[Draughts|draughts]] which
 must have been extremely frequent in old houses. English literature is
 full of references, appreciatory or regretful, to the cosy ingle-nook
 that was killed by the adoption of small grates. Modern English and

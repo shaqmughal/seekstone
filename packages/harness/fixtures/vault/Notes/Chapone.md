@@ -1,12 +1,12 @@
 # Chapone
 
 CHAPONE, HESTER (1727-1801), English essayist, daughter of Thomas Mulso,
-a country gentleman, was born at Twywell, Northamptonshire, on the 27th
+a country [[Gentleman|gentleman]], was born at Twywell, Northamptonshire, on the 27th
 of October 1727. She was a precocious child, and at the age of nine
 wrote a romance entitled _The Loves of Amoret and Melissa_. Hecky Mulso,
 as she was familiarly called, developed a beautiful voice, which earned
 her the name of "the linnet." While on a visit to Canterbury she made
-the acquaintance of the learned Mrs Elizabeth Carter, and soon became
+the acquaintance of the learned Mrs Elizabeth [[Carter]], and soon became
 one of the admirers of the novelist Samuel Richardson. She was one of
 the little court of women who gathered at North End, Fulham; and in Miss
 Susannah Highmore's sketch of the novelist reading _Sir Charles

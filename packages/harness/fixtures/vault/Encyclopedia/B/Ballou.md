@@ -8,13 +8,13 @@ id: 42-832
 # Ballou
 
 BALLOU, HOSEA (1771-1852), American Universalist clergyman, was born in
-Richmond, New Hampshire, on the 30th of April 1771. He was a son of Maturin
+Richmond, New [[Hampshire]], on the 30th of April 1771. He was a son of [[Maturin]]
 Ballou, a Baptist minister, was self-educated, early devoted himself to the
 ministry, became a convert to Universalism in 1789, and in 1794 became a
-pastor of a congregation at Dana, Massachusetts. He preached at Barnard,
+pastor of a congregation at [[Dana]], Massachusetts. He preached at [[Barnard]],
 Vermont, and the surrounding towns in 1801-1807; at Portsmouth, New
 Hampshire, in 1807-1815; at Salem, Massachusetts, in 1815-1817; and as
-pastor of the Second Universalist Church in Boston from December 1817 until
+pastor of the Second Universalist Church in [[Boston]] from December 1817 until
 his death there on the 7th of June 1852. He founded and edited _The
 Universalist Magazine_ (1819; later called _The Trumpet_) and _The
 Universalist Expositor_ (1831; later _The Universalist Quarterly Review_);
@@ -30,7 +30,7 @@ of Calvinism and opposed legalism and trinitarian views.
 
 Consult the biography by Thomas Whittemore (4 vols., Boston, 1854-1855) and
 that by Oscar F. Safford (Boston, 1889); and J. C. Adams, _Hosea Ballou and
-the Gospel Renaissance_ (Boston, 1904).
+the [[Gospel]] Renaissance_ (Boston, 1904).
 
 His grand-nephew, HOSEA BALLOU (1796-1861), born in Halifax, Vermont, on
 the 18th of October 1796, preached to Universalists in Stafford,
@@ -42,7 +42,7 @@ was the first (1847) to urge the necessity of a Universalist denominational
 college, and this did much towards the establishment of Tufts. He was
 associated with the elder Hosea Ballou in editing _The Universalist
 Quarterly Review_; edited an edition of Sismondi's _History of the
-Crusades_ (1833); and wrote the _Ancient History of Universalism_, down to
+[[Crusades]]_ (1833); and wrote the _Ancient History of Universalism_, down to
 A.D. 553 (1829; 2nd ed., 1842).
 
 ## See also

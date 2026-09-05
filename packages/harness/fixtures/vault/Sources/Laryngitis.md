@@ -12,7 +12,7 @@ most common. Excessive use of the voice either in speaking or singing
 sometimes gives rise to it. The inhalation of irritating particles,
 vapours, &c., and swallowing very hot fluids or corrosive poisons are
 well-recognized causes. It may also occur in connexion with diseases,
-notably measles and influenza. As a result of the inflammation there is
+notably [[Measles|measles]] and [[Influenza|influenza]]. As a result of the inflammation there is
 a general swelling of the parts about the larynx and the epiglottis, the
 result being a narrowing of the channel for the entrance of the air, and
 to this the chief dangers are due. The symptoms vary with the intensity
@@ -32,7 +32,7 @@ however, it is more difficult, and the question of diphtheria must not
 be lost sight of. The treatment is, first and foremost, rest; no talking
 must be allowed. The patient should be kept in bed, in a room at an even
 temperature, and the air saturated with moisture. An ice-bag round the
-throat gives much relief, while internally diaphoretics may be given,
+throat gives much relief, while internally [[Diaphoretics|diaphoretics]] may be given,
 and a full dose of Dover's powder if there be much pain or cough.
 
 _Chronic Laryngitis_ usually occurs as a result of repeated attacks of
@@ -55,14 +55,14 @@ paroxysm of coughing.
 _Oedematous Laryngitis_ is a very fatal condition, which may occur,
 though rarely, as a sequence of acute laryngitis. It is far more
 commonly seen in syphilitic and tubercular conditions of the larynx, in
-kidney disease, in certain fevers, and in cases of cellulitis of the
+kidney disease, in certain [[Fever|fevers]], and in cases of cellulitis of the
 neck. The larynx is also one of the sites of _Angeioneurotic oedema_. In
 this form of laryngitis there are all the symptoms of acute laryngitis,
 but on a very much exaggerated scale. The dyspnoea, accompanied by
 marked stridor, may arise and reach a dangerous condition within the
 space of an hour, and demand the most prompt treatment. On examination
 the mucous membrane round the epiglottis is seen to be enormously
-swollen. The treatment is ice round the throat and internally,
+swollen. The treatment is [[Ice|ice]] round the throat and internally,
 scarification of the swollen parts, and should that not relieve the
 asphyxial symptoms, tracheotomy must be performed immediately.
 
@@ -75,7 +75,7 @@ cough is, as a rule, a late symptom. A sudden oedema may bring about a
 rapid fatal termination. The general treatment is the same as that
 advised for phthisis; locally, the affected parts may be removed by one
 or a series of operations, generally under local anaesthesia, or they
-may be treated with some destructive agent such as lactic acid. The pain
+may be treated with some destructive agent such as [[Lactic Acid|lactic acid]]. The pain
 on swallowing can be best alleviated by painting with a weak solution of
 cocaine. The condition is a very grave one; the prognosis depends
 largely on the associated pulmonary infection--if that be extensive, a
@@ -95,7 +95,7 @@ treatment consists of administering constitutional remedies, local
 treatment being of comparatively slight importance.
 
 _Paroxysmal Laryngitis_, or _Laryngismus stridulus_, is a nervous
-affection of the larynx that occurs in infants. It appears to be
+affection of the larynx that occurs in [[Infant|infants]]. It appears to be
 associated with adenoids. The disease consists of a reflex spasm of the
 glottis, which causes a complete blocking of the air-passages. The
 attacks, which are recurrent, cause acute asphyxiation. They may cease
@@ -107,15 +107,15 @@ should be made, and the adenoids, if present, removed by operation.
 
 
 
-LA SABLIÈRE, MARGUERITE DE (c. 1640-1693), friend and patron of La
-Fontaine, was the wife of Antoine Rambouillet, sieur de la Sablière
+LA SABLIÈRE, [[Marguerite|MARGUERITE]] DE (c. 1640-1693), friend and patron of La
+Fontaine, was the wife of [[Antoine]] Rambouillet, sieur de la Sablière
 (1624-1679), a Protestant financier entrusted with the administration of
 the royal estates, her maiden name being Marguerite Hessein. She
 received an excellent education in Latin, mathematics, physics and
 anatomy from the best scholars of her time, and her house became a
 meeting-place for poets, scientists and men of letters, no less than for
 brilliant members of the court of Louis XIV. About 1673 Mme de la
-Sablière received into her house La Fontaine, whom for twenty years she
+Sablière received into her house [[La Fontaine]], whom for twenty years she
 relieved of every kind of material anxiety. Another friend and inmate of
 the house was the traveller and physician François Bernier, whose
 abridgment of the works of Gassendi was written for Mme de la Sablière.

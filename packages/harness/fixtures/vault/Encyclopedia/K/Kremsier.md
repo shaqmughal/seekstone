@@ -8,7 +8,7 @@ the bishop of Olmütz, whose palace, surrounded by a fine park and
 gardens, and containing a picture gallery, library and various
 collections, forms the chief object of interest. Its industries include
 the manufacture of machinery and iron-founding, brewing and
-corn-milling, and there is a considerable trade in corn, cattle, fruit
+corn-milling, and there is a considerable trade in [[Corn|corn]], cattle, fruit
 and manufactures. In 1131 Kremsier was the seat of a bishopric. It
 suffered considerably during the Hussite war; and in 1643 it was taken
 and burned by the Swedes. After the rising of 1848 the Austrian

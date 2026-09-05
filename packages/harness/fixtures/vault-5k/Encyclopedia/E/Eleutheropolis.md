@@ -9,7 +9,7 @@ tags: [science, mineralogy]
 
 ELEUTHEROPOLIS (Gr. [Greek: Eleuthera polis], "free city"), an ancient
 city of Palestine, 25 m. from Jerusalem on the road to Gaza, identified
-by E. Robinson with the modern Beit Jibrin. This identification is
+by E. Robinson with the modern [[Beit]] Jibrin. This [[Identification|identification]] is
 confirmed by Roman milestones in the neighbourhood. It represents the
 Biblical Mareshah, the ruins of which exist at Tell Sandahannah close
 by. As Betogabra it is mentioned by Ptolemy; the name Eleutheropolis

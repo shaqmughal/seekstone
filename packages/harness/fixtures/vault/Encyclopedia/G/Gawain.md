@@ -37,23 +37,23 @@ and later on says
   Et plus doner qu'il ne pramist (10. 106-109).
 
 The English Arthurian poems regard him as the type and model of
-chivalrous courtesy, "the fine father of nurture," and as Professor
+chivalrous [[Courtesy|courtesy]], "the fine father of nurture," and as Professor
 Maynadier has well remarked, "previous to the appearance of Malory's
 compilation it was Gawain rather than Arthur, who was the typical
 English hero." It is thus rather surprising to find that in the earliest
 preserved MSS. of Arthurian romance, i.e. in the poems of Chrétien de
-Troyes, Gawain, though generally placed first in the list of knights, is
+Troyes, Gawain, though generally placed first in the list of [[Knight|knights]], is
 by no means the hero _par excellence_. The latter part of the _Perceval_
 is indeed devoted to the recital of his adventures at the _Chastel
 Merveilleus_, but of none of Chrétien's poems is he the protagonist. The
-anonymous author of the _Chevalier à l'epée_ indeed makes this apparent
+anonymous author of the _[[Chevalier]] à l'epée_ indeed makes this apparent
 neglect of Gawain a ground of reproach against Chrétien. At the same
 time the majority of the short episodic poems connected with the cycle
 have Gawain for their hero. In the earlier form of the prose romances,
 e.g. in the _Merlin_ proper, Gawain is a dominant personality, his feats
 rivalling in importance those ascribed to Arthur, but in the later forms
 such as the _Merlin_ continuations, the _Tristan_, and the final
-_Lancelot_ compilation, his character and position have undergone a
+_[[Lancelot]]_ compilation, his character and position have undergone a
 complete change, he is represented as cruel, cowardly and treacherous,
 and of indifferent moral character. Most unfortunately our English
 version of the romances, Malory's _Morte Arthur_, being derived from
@@ -64,7 +64,7 @@ Arthurian story through the medium of Malory, has, by exaggeration,
 largely contributed to this misunderstanding. Morris, in _The Defence of
 Guinevere_, speaks of "gloomy Gawain"; perhaps the most absurdly
 misleading epithet which could possibly have been applied to the "gay,
-gratious, and gude" knight of early English tradition.
+gratious, and [[Gude|gude]]" knight of early English tradition.
 
 The truth appears to be that Gawain, the Celtic and mythic origin of
 whose character was frankly admitted by the late M. Gaston Paris,
@@ -77,11 +77,11 @@ Gawain is figured in the architrave of the north doorway of Modena
 cathedral, a 12th-century building. Recent discoveries have made it
 practically certain that there existed, prior to the extant romances, a
 collection of short episodic poems, devoted to the glorification of
-Arthur's famous nephew and his immediate kin (his brother Ghaeris, or
+Arthur's famous nephew and his immediate [[Kin|kin]] (his brother Ghaeris, or
 Gareth, and his son Guinglain), the authorship of which was attributed
 to a Welshman, Bleheris; fragments of this collection have been
 preserved to us alike in the first continuation of Chrétien de Troyes
-_Perceval_, due to Wauchier de Denain, and in our vernacular _Gawain_
+_Perceval_, due to Wauchier de [[Denain]], and in our vernacular _Gawain_
 poems. Among these "Bleheris" poems was one dealing with Gawain's
 adventures at the Grail castle, where the Grail is represented as
 non-Christian, and presents features strongly reminiscent of the ancient
@@ -100,7 +100,7 @@ Escalibur (which, as a rule, is represented as belonging to Gawain, not
 to Arthur)--all traits of a sun-hero--he certainly has much in common
 with the primitive Irish hero Cuchullin. The famous head-cutting
 challenge, so admirably told in _Syr Gawayne and the Grene Knighte_, was
-originally connected with the Irish champion. Nor was the lady of
+originally connected with the Irish [[Champion|champion]]. Nor was the lady of
 Gawain's love a mortal maiden, but the queen of the other-world. In
 Irish tradition the other-world is often represented as an island,
 inhabited by women only; and it is this "Isle of Maidens" that Gawain
@@ -118,10 +118,10 @@ Lancelot, the hero of an illicit connexion maintained under
 circumstances of falsehood and treachery. Gawain, however, belonged to
 the pre-Christian stage of Grail tradition, and it is not surprising
 that writers, bent on spiritual edification, found him somewhat of a
-stumbling-block. Chaucer, when he spoke of Gawain coming "again out of
+stumbling-block. [[Chaucer]], when he spoke of Gawain coming "again out of
 faërie," spoke better than he knew; the home of that very gallant and
 courteous knight is indeed Fairy-land, and the true Gawain-tradition is
-informed with fairy glamour and grace.
+informed with fairy glamour and [[Grace|grace]].
 
   See _Syr Gawayne_, the English poems relative to that hero, edited by
   Sir Frederick Madden for the Bannatyne Club, 1839 (out of print and

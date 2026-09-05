@@ -3,7 +3,7 @@
 ARMORICA (AREMORICA), the Roman name, derived from two Celtic words
 meaning the "seaside" (_ar_, on, and _mor_, sea), for the land of the
 Armorici, roughly the peninsula of Brittany. At the time of the Roman
-advance on Gaul there were five principal tribes in Armorica, the
+advance on [[Gaul]] there were five principal tribes in Armorica, the
 Namneti, the Veneti, the Osismii, the Curiosolitae and the Redones. It
 was subdued by Caesar, who entirely destroyed the seafaring tribe of its
 south coast, the Veneti. Under the Empire it formed part of the province

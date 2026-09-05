@@ -14,11 +14,11 @@ or more feet, usually divested of branches along the lower part of the
 trunk and crowned with a conical head. The narrow, pointed leaves are
 spirally arranged and persist for four or five years; the cones are
 small, globose and borne at the ends of the branchlets, the scales are
-thickened at the extremity and divided into sharply pointed lobes, three
+thickened at the extremity and divided into sharply pointed [[Lobe|lobes]], three
 to five seeds are borne on each scale. _Cryptomeria_ is extensively used
 in Japan for reafforesting denuded lands, as it is a valuable timber
 tree; it is also planted to form avenues along the public roads. In
-Veitch's _Manual of Coniferae_ (ed. 2, 1900, p. 265) reference is made
+Veitch's _[[Manual]] of Coniferae_ (ed. 2, 1900, p. 265) reference is made
 to "an avenue of Cryptomerias 7 m. in extent near Lake Hakone" in which
 "the trees are more than 100 ft. high, with perfectly straight trunks
 crowned with conical heads of foliage." Professor C. S. Sargent, in his

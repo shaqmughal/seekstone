@@ -1,15 +1,15 @@
 # Bombardon
 
 BOMBARDON, or BASS TUBA, the name given to the bass and contrabass of
-the brass wind in military bands, called in the orchestra bass tuba.
+the [[Brass|brass]] wind in military bands, called in the orchestra bass tuba.
 
 The name of bombardon is unquestionably derived from _bombardone_, the
-Italian for contrabass pommer (bombard), which, before the invention of
+Italian for contrabass pommer ([[Bombard|bombard]]), which, before the invention of
 the fagotto, formed the bass of medieval orchestras; it is also used for
 a bass reed stop of 16 ft. tone on the organ. The bombardon was the very
 first bass wind instrument fitted with valves, and it was at first known
-as the _corno basso_, _clavicor_ or _bass horn_ (not to be confounded
-with the bass horn with keys, which on being perfected became the
+as the _corno basso_, _clavicor_ or _bass [[Horn|horn]]_ (not to be confounded
+with the bass horn with [[Key|keys]], which on being perfected became the
 ophicleide). The name was attached more to the position of the wind
 instruments as bass than to the individual instrument. The original
 corno basso was a brass instrument of narrow bore with the pistons set
@@ -18,12 +18,12 @@ and three vertical pistons, but it was only a "half instrument,"
 measuring about 12 ft. A. Kalkbrenner, in his life of W. Wieprecht
 (1882), states that in the Jager military bands of Prussia the corno
 basso (keyed bass horn) was introduced as bass in 1829, and the
-bombardon (or valve-ophicleide) in 1831; in the Guards these instruments
+bombardon (or valve-ophicleide) in 1831; in the [[Guards]] these instruments
 were superseded in 1835 by the bass tuba invented by Wieprecht and J.G.
 Moritz.
 
 The modern bombardon is made in two forms: the upright model, used in
-stationary band music; and the circular model, known as the helicon,
+stationary band music; and the circular model, known as the [[Helicon|helicon]],
 worn round the body with the large bell resting on the left shoulder,
 after the style of the Roman _cornu_ (see HORN), which is a more
 convenient way of carrying this heavy instrument when marching. The
@@ -34,7 +34,7 @@ tubas (including the bombardon) is that the latter have a sufficiently
 wide conical bore to allow of the production of fundamental sounds in a
 rich, full quality of immense power. This difference, first recognized
 in Germany and Austria, has given rise in those countries to the
-classification of the brass wind as "half" and "whole" instruments
+[[Classification|classification]] of the brass wind as "half" and "whole" instruments
 (_Halbe_ and _Ganze Instrumente_). When the brass wind instruments with
 conical bore and cup-shaped mouthpiece first came into use, it was a
 well-understood principle that the tube of each instrument must
@@ -57,7 +57,7 @@ instruments," because only half the length of the instrument is of
 practical utility, while the tubas with wide bore are styled "whole
 instruments." [1] Bombardons are made in E flat and F of the 16 ft.
 octave, corresponding to the orchestral bass tuba, double bass in
-strings, and pedal clarinet and contrafagotto in the wood wind. The
+strings, and pedal [[Clarinet|clarinet]] and contrafagotto in the wood wind. The
 bombardon in B flat or C, an octave lower than the euphonium,
 corresponds to the contrabass tuba in the orchestra.
 
@@ -69,14 +69,14 @@ corresponds to the contrabass tuba in the orchestra.
   [Illustration: HARMONIC SERIES OF THE CONTRABASS BOMBARDON IN C.]
 
   The lowest notes produced by the valves are very difficult to obtain,
-  for the lips seldom have sufficient power to set in vibration a column
+  for the [[Lip|lips]] seldom have sufficient power to set in vibration a column
   of air of such immense length, at a rate of vibration slow enough to
   synchronize with that of notes of such deep pitch.[2] Even when they
   are played, the lowest valve notes can hardly be heard unless doubled
   an octave higher by another bombardon.
 
   Bombardons are generally treated as non-transposing instruments, the
-  music being written as sounded, except in France and Belgium, where
+  music being written as sounded, except in France and [[Belgium]], where
   transposition is usual. The intervening notes are obtained by means of
   pistons or valves, which, on being depressed, either admit the wind
   into additional lengths of tubing to lower the pitch, or cut off a
@@ -86,8 +86,8 @@ corresponds to the contrabass tuba in the orchestra.
   system, disposal of the tubing and shape and position of the bell
   differ considerably in the various models of well-known makers. In
   Germany and Austria[3] what is known as the cylinder action is largely
-  used; for the piston or pump is substituted a four-way brass cock
-  operated by means of a key and a series of cranks.
+  used; for the piston or pump is substituted a four-way brass [[Cock|cock]]
+  operated by means of a key and a series of [[Crank|cranks]].
 
   In order to obtain a complete chromatic scale throughout the compass,
   there must be, as on the slide-trombone, seven different positions or
@@ -106,7 +106,7 @@ corresponds to the contrabass tuba in the orchestra.
   piston invented by D.J. Blaikley, and V. Mahillon's automatic
   regulating pistons. More recently the Besson enharmonic valve system,
   with six independent tuning slides and three pistons, and Rudall,
-  Carte & Company's new (Klussmann's patent) bore, conical throughout
+  [[Carte]] & Company's new (Klussmann's patent) bore, conical throughout
   the open tube and additional lengths, have produced instruments which
   leave nothing to be desired as to intonation. (See VALVES and TUBA.)
        (K. S.)

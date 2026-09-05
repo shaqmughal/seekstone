@@ -9,21 +9,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Holbein"
 # Holbein
 
 HOLBEIN, HANS, the younger (1497-1543), German painter, favourite son of
-Hans Holbein the elder, was probably born at Augsburg about the year
-1497. Though Sandrart and Van Mander declare that they do not know who
+Hans Holbein the elder, was probably born at [[Augsburg]] about the year
+1497. Though Sandrart and Van [[Mander]] declare that they do not know who
 gave him the first lessons, he doubtless received an artist's education
 from his father. About 1515 he left Augsburg with Ambrose, his elder
-brother, to seek employment as an illustrator of books at Basel. His
+brother, to seek employment as an illustrator of books at [[Basel]]. His
 first patron is said to have been Erasmus, for whom, shortly after his
 arrival, he illustrated with pen-and-ink sketches an edition of the
 _Encomium Moriae_, now in the museum of Basel. But his chief occupation
-was that of drawing titlepage-blocks and initials for new editions of
+was that of drawing titlepage-blocks and [[Initials|initials]] for new editions of
 the Bible and classics issued from the presses of Froben and other
 publishers. His leisure hours, it is supposed, were devoted to the
 production of rough painter's work, a schoolmaster's sign in the Basel
 collection, a table with pictures of St Nobody in the library of the
 university at Zurich. In contrast with these coarse productions, the
-portraits of Jacob Meyer and his wife in the Basel museum, one of which
+portraits of [[Jacob]] Meyer and his wife in the Basel museum, one of which
 purports to have been finished in 1516, are miracles of workmanship. It
 has always seemed difficult indeed to ascribe such excellent creations
 to Holbein's nineteenth year; and it is hardly credible that he should
@@ -72,23 +72,23 @@ handling, are portrait-drawings such as the likenesses of Jacob Meyer,
 and his wife, which are finished with German delicacy, and with a power
 and subtlety of hand seldom rivalled in any school. Curiously enough,
 the same contrast may be observed between painted compositions and
-painted portraits. The "Bonifacius Amerbach" of 1519 at Basel is
+painted portraits. The "[[Bonifacius]] Amerbach" of 1519 at Basel is
 acknowledged to be one of the most complete examples of smooth and
 transparent handling that Holbein ever executed. His versatility at this
-period is shown by a dead Christ (1521), a corpse in profile on a
+period is shown by a dead Christ (1521), a [[Corpse|corpse]] in profile on a
 dissecting table, and a set of figures in couples; the "Madonna and St
 Pantalus," and "Kaiser Henry with the Empress Kunigunde" (1522),
 originally composed for the organ loft of the Basel cathedral, now in
 the Basel museum. Equally remarkable, but more attractive, though
 injured, is the "Virgin and Child between St Ursus and St Nicholas" (not
-St Martin) giving alms to a beggar, in the gallery of Solothurn. This
+St [[Martin]]) giving alms to a beggar, in the gallery of Solothurn. This
 remarkable picture is dated 1522, and seems to have been ordered for an
 altar in the minster of St Ursus of Solothurn by Nicholas Conrad, a
 captain and statesman of the 16th century, whose family allowed the
-precious heirloom to fall into decay in a chapel of the neighbouring
+precious [[Heirloom|heirloom]] to fall into decay in a chapel of the neighbouring
 village of Grenchen. Numerous drawings in the spirit of this picture,
 and probably of the same period in his career, might have led Holbein's
-contemporaries to believe that he would make his mark in the annals of
+contemporaries to believe that he would make his mark in the [[Annals|annals]] of
 Basel as a model for painters of altarpieces as well as a model for
 pictorial composition and portrait. The promise which he gave at this
 time was immense. He was gaining a freedom in draughtsmanship that gave
@@ -99,26 +99,26 @@ evil times, as the next few years undoubtedly showed. Amongst the
 portraits which he executed in these years are those of Froben, the
 publisher, known only by copies at Basel and Hampton Court, and Erasmus,
 who sat in 1523, as he likewise did in 1530, in various positions,
-showing his face threequarters as at Longford, Basel, Turin, Parma, the
-Hague and Vienna, and in profile as in the Louvre or at Hampton Court.
+showing his face threequarters as at [[Longford]], Basel, Turin, Parma, the
+[[Hague]] and Vienna, and in profile as in the Louvre or at Hampton Court.
 Besides these, Holbein made designs for glass windows, and for woodcuts,
 including subjects of every sort, from the Virgin and Child with saints
-of the old time to the Dance of Death, from gospel incidents extracted
+of the old time to the Dance of Death, from [[Gospel|gospel]] incidents extracted
 from Luther's Bible to satirical pieces illustrating the sale of
 indulgences and other abuses denounced by Reformers. Holbein, in this
 way, was carried irresistibly with the stream of the Reformation, in
 which, it must now be admitted, the old traditions of religious painting
 were wrecked, leaving nothing behind but unpictorial elements which
-Cranach and his school vainly used for pictorial purposes.
+[[Cranach]] and his school vainly used for pictorial purposes.
 
 Once only, after 1526, and after he had produced the "Lais" and "Venus
 and Amor," did Holbein with impartial spirit give his services and
 pencil to the Roman Catholic cause. The burgomaster Meyer, whose
 patronage he had already enjoyed, now asked him to represent himself and
 his wives and children in prayer before the Virgin; and Holbein produced
-the celebrated altarpiece now in the palace of Prince William of Hesse
+the celebrated altarpiece now in the palace of Prince William of [[Hesse]]
 at Darmstadt, the shape and composition of which are known to all the
-world by its copy in the Dresden museum. The drawings for this
+world by its copy in the [[Dresden]] museum. The drawings for this
 masterpiece are amongst the most precious relics in the museum of Basel.
 The time now came when art began to suffer from unavoidable depression
 in all countries north of the Alps. Holbein, at Basel, was reduced to
@@ -137,12 +137,12 @@ his head is at Windsor. A pen-and-ink sketch, in which we see More
 surrounded by all the members of his family, is now in the gallery of
 Basel, and numerous copies of a picture from it prove how popular the
 lost original must once have been. At the same period were executed the
-portraits of Warham (Lambeth and Louvre), Wyatt (Louvre), Sir Henry
+portraits of Warham ([[Lambeth]] and Louvre), Wyatt (Louvre), Sir Henry
 Guildford and his wife (Windsor), all finished in 1527, the astronomer
 Nicholas Kratzer (Louvre), Thomas Godsalve (Dresden), and Sir Bryan Tuke
 (Munich) in 1528. In this year, 1528, Holbein returned to Basel, taking
 to Erasmus the sketch of More's family. With money which he brought from
-London he purchased a house at Basel wherein to lodge his wife and
+London he purchased a house at Basel wherein to [[Lodge|lodge]] his wife and
 children, whose portraits he now painted with all the care of a husband
 and father (1528). He then witnessed the flight of Erasmus and the fury
 of the iconoclasts, who destroyed in one day almost all the religious
@@ -151,13 +151,13 @@ again from the depression caused by evil times, asked him to finish the
 frescoes of the town-hall, and the sketches from these lost pictures are
 still before us to show that he had not lost the spirit of his earlier
 days, and was still capable as a composer. His "Rehoboam receiving the
-Israelite Envoys," and "Saul at the Head of his Array meeting Samuel,"
+Israelite Envoys," and "Saul at the Head of his [[Array]] meeting Samuel,"
 testify to Holbein's power and his will, also proved at a later period
 by the "Triumphs of Riches and Poverty," executed for the Steelyard in
 London (but now lost), to prefer the fame of a painter of history to
 that of a painter of portraits. But the reforming times still remained
 unfavourable to art. With the exception of a portrait of Melanchthon
-(Hanover) which he now completed, Holbein found little to do at Basel.
+([[Hanover]]) which he now completed, Holbein found little to do at Basel.
 The year 1530, therefore, saw him again on the move, and he landed in
 England for the second time with the prospect of bettering his fortunes.
 Here indeed political changes had robbed him of his earlier patrons. The
@@ -167,30 +167,30 @@ important series of portraits that lie scattered throughout the
 galleries and collections of England and the Continent, and bear date
 after 1532. Then came again the chance of practice in more fashionable
 circles. In 1533 the "Ambassadors" (National Gallery), and the "Triumphs
-of Wealth and Poverty" were executed, then the portraits of Leland and
-Wyatt (Longford), and (1534) the portrait of Thomas Cromwell. Through
+of Wealth and Poverty" were executed, then the portraits of [[Leland]] and
+Wyatt (Longford), and (1534) the portrait of Thomas [[Cromwell]]. Through
 Cromwell Holbein probably became attached to the court, in the pay of
 which he appears permanently after 1537. From that time onwards he was
 connected with all that was highest in the society of London. Henry
 VIII. invited him to make a family picture of himself, his father and
 family, which obtained a post of honour at Whitehall. The beautiful
-cartoon of a part of this fine piece at Hardwicke Hall enables us to
-gauge its beauty before the fire which destroyed it in the 17th century.
+[[Cartoon|cartoon]] of a part of this fine piece at Hardwicke Hall enables us to
+[[Gauge|gauge]] its beauty before the fire which destroyed it in the 17th century.
 Then Holbein painted Jane Seymour in state (Vienna), employing some
 English hand perhaps to make the replicas at the Hague, Sion House and
 Woburn; he finished the Southwell of the Uffizi (copy at the Louvre),
 the jeweller Morett at Dresden, and last, not least, Christine of
-Denmark, who gave sittings at Brussels in 1538. During the journey which
+[[Denmark]], who gave sittings at Brussels in 1538. During the journey which
 this work involved Holbein took the opportunity of revisiting Basel,
 where he made his appearance in silk and satin, and _pro forma_ only
 accepted the office of town painter. He had been living long and
 continuously away from home, not indeed observing due fidelity to his
 wife, who still resided at Basel, but fairly performing the duties of
 keeping her in comfort. His return to London in autumn enabled him to do
-homage to the king in the way familiar to artists. He presented to Henry
-at Christmas a portrait of Prince Edward. Again abroad in the summer of
-1539, he painted with great fidelity the princess Anne of Cleves, at
-Duren near Cologne, whose form we still see depicted in the great
+[[Homage|homage]] to the king in the way familiar to artists. He presented to Henry
+at [[Christmas]] a portrait of Prince Edward. Again abroad in the summer of
+1539, he painted with great fidelity the princess [[Anne Of Cleves|Anne of Cleves]], at
+Duren near [[Cologne]], whose form we still see depicted in the great
 picture of the Louvre. That he could render the features of his sitter
 without flattery is plain from this one example. Indeed, habitual
 flattery was contrary to his habits. His portraits up to this time all
@@ -210,7 +210,7 @@ school.
 Amongst the more important creations of Holbein's later time we should
 note his "Duke of Norfolk" at Windsor, the hands of which are so
 perfectly preserved as to compensate for the shrivel that now disfigures
-the head. Two other portraits of 1541 (Berlin and Vienna), the Falconer
+the head. Two other portraits of 1541 (Berlin and Vienna), the [[Falconer]]
 at the Hague, and John Chambers at Vienna (1542), are noble specimens of
 portrait art; most interesting and of the same year are the likenesses
 of Holbein himself, of which several examples are extant--one
@@ -219,11 +219,11 @@ Riga, and another at the Uffizi in Florence. Here Holbein appears to us
 as a man of regular features, with hair just turning grey, but healthy
 in colour and shape, and evidently well to do in the world. Yet a few
 months only separated him then from his death-bed. He was busy painting
-a picture of Henry the VIII. confirming the Privileges of the Barber
-Surgeons (Lincoln's Inn Fields), when he sickened of the plague and died
+a picture of Henry the VIII. confirming the Privileges of the [[Barber]]
+Surgeons (Lincoln's Inn [[Fields]]), when he sickened of the plague and died
 after making a will about November 1543. His loss must have been
 seriously felt in England. Had he lived his last years in Germany, he
-would not have changed the current which decided the fate of painting in
+would not have changed the current which decided the [[Fate|fate]] of painting in
 that country; he would but have shared the fate of Durer and others who
 merely prolonged the agony of art amidst the troubles of the
 Reformation.     (J. A. C.)

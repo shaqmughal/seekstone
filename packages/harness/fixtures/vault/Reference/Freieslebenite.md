@@ -4,11 +4,11 @@ FREIESLEBENITE, a rare mineral consisting of sulphantimonite of silver
 and lead, (Pb, Ag2)5Sb4S11. The monoclinic crystals are prismatic in
 habit, with deeply striated prism and dome faces. The colour is
 steel-grey, and the lustre metallic; hardness 21/2, specific gravity 6.2.
-It occurs with argentite, chalybite and galena in the silver veins of
-the Himmelsfuerst mine at Freiberg, Saxony, where it has been known since
+It occurs with argentite, [[Chalybite|chalybite]] and [[Galena|galena]] in the silver veins of
+the Himmelsfuerst mine at [[Freiberg]], Saxony, where it has been known since
 1720. The species was named after J. K. Freiesleben, who had earlier
 called it _Schilf-Glaserz_. Other localities are Hiendelaencina near
-Guadalajara in Spain, Kapnik-Banya in Hungary, and Guanajuato in Mexico.
+[[Guadalajara]] in Spain, Kapnik-Banya in Hungary, and Guanajuato in Mexico.
 A species separated from freieslebenite by V. von Zepharovich in 1871,
 because of differences in crystalline form, is known as diaphorite (from
 [Greek: diaphora], "difference"); it is very similar to freieslebenite

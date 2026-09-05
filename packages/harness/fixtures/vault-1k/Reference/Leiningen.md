@@ -8,7 +8,7 @@ type: reference
 # Leiningen
 
 LEININGEN, the name of an old German family, whose lands lay principally
-in Alsace and Lorraine. The first count of Leiningen about whom anything
+in Alsace and [[Lorraine]]. The first count of Leiningen about whom anything
 certain is known was a certain Emicho (d. 1117), whose family became
 extinct in the male line when Count Frederick, a Minnesinger, died about
 1220. Frederick's sister, Liutgarde, married Simon, count of

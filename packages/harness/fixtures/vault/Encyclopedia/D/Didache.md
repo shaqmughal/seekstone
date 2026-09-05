@@ -1,9 +1,9 @@
 # Didache
 
-DIDACHE, THE, or _Teaching of the (twelve) Apostles_,--the most
+DIDACHE, THE, or _Teaching of the (twelve) [[Apostle|Apostles]]_,--the most
 important of the recent recoveries in the region of early Christian
 literature (see APOCRYPHAL LITERATURE). It was previously known by name
-from lists of canonical and extra-canonical books compiled by Eusebius
+from lists of canonical and extra-canonical books compiled by [[Eusebius]]
 and other writers. Moreover, it had come to be suspected by several
 scholars that a lost book, variously entitled _The Two Ways_ or _The
 Judgment of Peter_, had been freely used in a number of works, of which
@@ -11,12 +11,12 @@ mention must presently be made. In 1882 a critical reconstruction of
 this book was made by Adam Krawutzcky with marvellous accuracy, as was
 shown when in the very next year the Greek bishop and metropolitan,
 Philotheus Bryennius, published _The Teaching of the Twelve Apostles_
-from the same manuscript from which he had previously published the
-complete form of the Epistle of Clement.[1]
+from the same [[Manuscript|manuscript]] from which he had previously published the
+complete form of the [[Epistle]] of [[Clement]].[1]
 
 _The Didach[=e]_, as we now have it in the Greek, falls into two marked
 divisions: (a) a book of moral precepts, opening with the words, "There
-are two ways"; (b) a manual of church ordinances, linked on to the
+are two ways"; (b) a [[Manual|manual]] of church ordinances, linked on to the
 foregoing by the words, "Having first said all these things, baptize,
 &c." Each of these must be considered separately before we approach the
 question of the locality and date of the whole book in its present form.
@@ -24,7 +24,7 @@ question of the locality and date of the whole book in its present form.
 1. _The Two Ways._--The author of the complete work, as we now have it,
 has modified the original _Two Ways_ by inserting near the beginning a
 considerable section containing, among other matter, passages from the
-Sermon on the Mount, in which the language of St Matthew's Gospel is
+Sermon on the Mount, in which the language of St Matthew's [[Gospel]] is
 blended with that of St Luke's. He has also added at the close a few
 sentences, beginning, "If thou canst not bear (the whole yoke of the
 Lord), bear what thou canst" (vi. 2); and among minor changes he has
@@ -48,16 +48,16 @@ it has the appearance of being a Jewish manual which has been carried
 over into the use of the Christian church. This is of course only a
 probable inference; there is no prototype extant in Jewish literature,
 and, comparing the moral (non-doctrinal) instruction for Christian
-catechumens in Hermas, _Shepherd_ (_Mand._ i.-ix.), no real need to
-assume one. There was a danger of admitting Gentile converts to the
+catechumens in [[Hermas]], _Shepherd_ (_Mand._ i.-ix.), no real need to
+assume one. There was a danger of admitting [[Gentile]] converts to the
 church on too easy moral terms; hence the need of such insistence on the
-ideal as in The Two Ways and the _Mandates_. The recent recovery of the
+ideal as in The Two Ways and the _[[Mandate|Mandates]]_. The recent recovery of the
 Latin version is of singular interest, as showing that, even without the
-distinctively Christian additions and interpolations which our full form
+distinctively Christian additions and [[Interpolation|interpolations]] which our full form
 of the _Teaching_ presents, it was circulating under the title _Doctrina
 apostolorum_.[2]
 
-2. The second part of our _Teaching_ might be called a church directory.
+2. The second part of our _Teaching_ might be called a church [[Directory|directory]].
 It consists of precepts relating to church life, which are couched in
 the second person plural; whereas _The Two Ways_ uses throughout the
 second person singular. It appears to be a composite work. First (vii.
@@ -67,23 +67,23 @@ distinctive order or clergy. This section was probably added to _The Two
 Ways_ before the addition of the remainder. It orders baptism in the
 threefold name, making a distinction as to waters which has Jewish
 parallels, and permitting a threefold pouring on the head, if sufficient
-water for immersion cannot be had. It prescribes a fast before baptism
+water for [[Immersion|immersion]] cannot be had. It prescribes a fast before baptism
 for the baptizer as well as the candidate. Fasts are to be kept on
 Wednesday and Friday, not Monday and Thursday, which are the fast days
 of "the hypocrites," i.e. by a perversion of the Lord's words, the Jews.
 "Neither pray ye as the hypocrites; but as the Lord commanded in His
 Gospel." Then follows the Lord's Prayer, almost exactly as in St
-Matthew, with a brief doxology--"for Thine is the power and the glory
+[[Matthew]], with a brief doxology--"for Thine is the power and the glory
 forever." This is to be said three times a day. Next come three
 eucharistic prayers, the language of which is clearly marked off from
 that of the rest of the book, and shows parallels with the diction of St
 John's Gospel. They are probably founded on Jewish thanksgivings, and it
-is of interest to note that a portion of them is prescribed as a grace
-before meat in (pseudo-) Athanasius' _De virginitate_. A trace of them
+is of interest to note that a portion of them is prescribed as a [[Grace|grace]]
+before [[Meat|meat]] in (pseudo-) Athanasius' _De virginitate_. A trace of them
 is found in one of the liturgical prayers of Serapion, bishop of Thmui,
 in Egypt, but they have left little mark on the liturgies of the church.
-As in Ignatius and other early writers, the eucharist, a real meal (x.
-1) of a family character, is regarded as producing immortality (cf.
+As in [[Ignatius]] and other early writers, the [[Eucharist|eucharist]], a real meal (x.
+1) of a family character, is regarded as producing [[Immortality|immortality]] (cf.
 "spiritual food and drink and eternal life"). None are to partake of it
 save those who have been "baptized in the name of the Lord" (an
 expression which is of interest in a document which prescribes the
@@ -116,7 +116,7 @@ believer who clings to the less formal régime (and whose protest was
 voiced in the Montanist movement), that there will be no spiritual loss
 under the new system. The book closes (chap. xvi.) with exhortations to
 steadfastness in the last days, and to the coming of the
-"world-deceiver" or Antichrist, which will precede the coming of the
+"world-deceiver" or [[Antichrist]], which will precede the coming of the
 Lord. This section is perhaps the actual utterance of a Christian
 prophet, and may be of earlier origin than the two preceding sections.
 
@@ -136,7 +136,7 @@ prayers. The allusions of early writers seem to point to Egypt, but
 their references are mostly to the first part, so that we must be
 careful how we argue from them as to the provenance of the book as a
 whole. Against Egypt has been urged the allusion in one of the
-eucharistic prayers to "corn upon the mountains." This is found in the
+eucharistic prayers to "[[Corn|corn]] upon the mountains." This is found in the
 Prayer-book of Serapion (c. 350) but omitted in a later Egyptian
 prayer; the form as we have it in _The Didach[=e]_ may have passed into
 Egypt with the authority of tradition which was afterwards weakened. The
@@ -152,7 +152,7 @@ the Syrian claim. But all that we can safely say as to locality is that
 the community here represented seems to have been isolated, and out of
 touch with the larger centres of Christian life.
 
-This last consideration helps us in discussing the question of date. For
+This last consideration [[Helps|helps]] us in discussing the question of date. For
 such an isolated community may have preserved primitive customs for some
 time after they had generally disappeared. Certainly the stage of
 development is an early one, as is shown, e.g., by the prominence of
@@ -162,7 +162,7 @@ moreover, there is no reference to a canon of Scripture (though the
 written Gospel is expressly mentioned) or to a creed. On the other hand
 the "apostles" of the second part are obviously not "the twelve
 apostles" of the title; and the prophets seem in some instances to have
-proved unworthy of their high position. The ministry of enthusiasm which
+proved unworthy of their high position. The ministry of [[Enthusiasm|enthusiasm]] which
 they represent is about to give way to the ministry of office, a
 transition which is reflected in the New Testament in the 3rd Epistle of
 John. Three of the Gospels have clearly been for some time in
@@ -180,14 +180,14 @@ and there are passages which may well be later.
   indispensable to the student; and his discussions in _Altchristl.
   Litteratur_ and _Chronologie_ give clear summaries of his work. Other
   editions of the text are those of F. X. Funk, _Patres Apostolici_,
-  vol. i. (Tübingen, 1901); H. Lietzmann (Bonn, 1903; with Latin
+  vol. i. (Tübingen, 1901); H. Lietzmann ([[Bonn]], 1903; with Latin
   version). Dr J. E. Odgers has published an English translation with
   introduction and notes (London, 1906). Dr C. Taylor in 1886 drew
   attention to some important parallels in Jewish literature; his
-  edition contains an English translation. Dr Rendel Harris published in
+  edition contains an English translation. Dr Rendel [[Harris]] published in
   1887 a complete facsimile, and gathered a great store of patristic
   illustration. Text and translation will also be found in Lightfoot's
-  _Apostolic Fathers_ (ed. min.) The fullest critical treatment in
+  _[[Apostolic Fathers]]_ (ed. min.) The fullest critical treatment in
   English is by Dr Vernon Bartlet in the extra volume of Hastings's
   _Dictionary of the Bible_; the most complete commentary on the text is
   by P. Drews in Hennecke's _Handbuch zu den N.T. Apocryphen_ (1904).

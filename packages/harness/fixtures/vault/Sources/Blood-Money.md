@@ -8,7 +8,7 @@ system was common among the Scandinavian and Teutonic races previous to
 the introduction of Christianity, and a scale of payments, graduated
 according to the heinousness of the crime, was fixed by laws, which
 further settled who could exact the blood-money, and who were entitled
-to share it. Homicide was not the only crime thus expiable: blood-money
+to share it. [[Homicide]] was not the only crime thus expiable: blood-money
 could be exacted for all crimes of violence. Some acts, such as killing
 any one in a church or while asleep, or within the precincts of the
 royal palace, were "bot-less"; and the death penalty was inflicted. Such

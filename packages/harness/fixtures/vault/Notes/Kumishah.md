@@ -1,6 +1,6 @@
 # Kumishah
 
-KUMISHAH, a district and town in the province of Isfahan, Persia. The
+KUMISHAH, a district and town in the province of [[Isfahan]], Persia. The
 district, which has a length of 50 and a breadth of 16 m., and contains
 about 40 villages, produces much grain. The town is situated on the high
 road from Isfahan to Shiraz, 52 m. S. of the former. It was a

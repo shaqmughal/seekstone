@@ -14,10 +14,10 @@ addition to the absence of prehensile power in their tails,
 douroucoulis, also known as night-apes, are distinguished by their large
 eyes, the sockets of which occupy nearly the whole front of the upper
 part of the skull, the partition between the nostrils being in
-consequence narrower than usual. The ears are short, and the hair round
+consequence narrower than usual. The [[Ear|ears]] are short, and the hair round
 the eyes forms a disk. Douroucoulis live in parties, and are purely
 nocturnal, sleeping during the day in hollow trees, and coming out at
-night to feed on insects and fruits, when they utter piercing cat-like
+night to feed on [[Insect|insects]] and fruits, when they utter piercing cat-like
 screams.
 
 ## See also

@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gerstacker
 
 # Gerstacker
 
-GERSTACKER, FRIEDRICH (1816-1872), German novelist and writer of
+GERSTACKER, [[Friedrich|FRIEDRICH]] (1816-1872), German novelist and writer of
 travels, was born at Hamburg on the 10th of May 1816, the son of
 Friedrich Gerstacker (1790-1825), a celebrated opera singer. After being
 apprenticed to a commercial house he learnt farming in Saxony. In 1837,
@@ -30,17 +30,17 @@ reporting on the possibility of diverting the stream of German
 emigration in this direction. The result of his observations and
 experiences he recorded in _Achtzehn Monate in Sudamerika_ (1862). In
 1862 he accompanied Duke Ernest of Saxe-Coburg-Gotha to Egypt and
-Abyssinia, and on his return settled at Coburg, where he wrote a number
+Abyssinia, and on his return settled at [[Coburg]], where he wrote a number
 of novels descriptive of the scenes he had visited. In 1867-1868
 Gerstacker again undertook a long journey, visiting North America,
-Venezuela and the West Indies, and on his return lived first at Dresden
+Venezuela and the West Indies, and on his return lived first at [[Dresden]]
 and then at Brunswick, where he died on the 31st of May 1872. His genial
 and straightforward character made him personally beloved; and his
 works, dealing as they did with the great world hitherto hidden from the
 narrow "parochialism" of German life, obtained an immense popularity.
 This was not due to any graces of style, in which they are singularly
 lacking; but the unstudied freshness of the author's descriptions, and
-his sturdy humour, appealed to the wholesome instincts of the public.
+his sturdy [[Humour|humour]], appealed to the wholesome instincts of the public.
 Many of his books were translated into foreign languages, notably into
 English, and became widely known on both sides of the Atlantic. His best
 works, from a literary point of view, are, besides the above-mentioned

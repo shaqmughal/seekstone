@@ -29,7 +29,7 @@ comprehension of the universe impossible of attainment before our time.
 
 The field we have defined is divisible into at least two parts, that of
 Astronomy proper, or "Astrometry," which treats of the motions, mutual
-relations and dimensions of the heavenly bodies; and that of
+relations and [[Dimension|dimensions]] of the heavenly bodies; and that of
 Astrophysics (q.v.), which treats of their physical constitution. While
 it is true that the instruments and methods of research in these two
 branches are quite different in their details, there is so much in
@@ -80,7 +80,7 @@ to us only when in the neighbourhood of an incandescent body; and even
 then, unless its mass or its dimensions are considerable, it will evade
 all the scrutiny of our science. The question of the possible number and
 magnitude of such bodies is therefore one that does not admit of
-accurate investigation. We can do no more than balance vague estimates
+accurate investigation. We can do no more than [[Balance|balance]] vague estimates
 of probability. What we do know is that these bodies vary widely in
 size. Those known to be revolving round certain of the stars are far
 larger in proportion to their central bodies than our planets are in
@@ -96,16 +96,16 @@ be gained by reflecting that the average distance between any two
 neighbouring stars is several thousand times the extent of the solar
 system. Between the orbit of Neptune and the nearest star known to us is
 an immense void in which no bodies are yet known to exist, except
-comets. But although these sometimes wander to distances considerably
+[[Comet|comets]]. But although these sometimes wander to distances considerably
 beyond the orbit of Neptune, it is probable that the extent of the void
 which separates our system from the nearest star is hundreds of times
 the distance of the farthest point to which a comet ever recedes.
 
 We may conclude this brief characterization of astronomy with a
-statement and classification of the principal lines on which
+statement and [[Classification|classification]] of the principal lines on which
 astronomical researches are now pursued. The most comprehensive problem
 before the investigator is that of the constitution of the universe. It
-is known that, while infinite diversity is found among the bodies of the
+is known that, while [[Infinite|infinite]] diversity is found among the bodies of the
 universe, there are also common characteristics throughout its whole
 extent. In a certain sense we may say that the universe now presents
 itself to the thinking astronomer, not as a heterogeneous collection of
@@ -121,7 +121,7 @@ motions of innumerable individual stars, as determined by generations of
 astronomical observers. The development of this new branch requires
 great additions to this mass, the product of perhaps centuries of work
 on the older lines of the science. To the statistician of the stars,
-catalogues of spectra, magnitude, position and proper motions are of the
+[[Catalogue|catalogues]] of spectra, magnitude, position and proper motions are of the
 same importance that census tables are to the student of humanity. The
 measurement of the speed with which the individual stars are moving
 towards or from our system is a work of such magnitude that what has yet
@@ -181,7 +181,7 @@ and motions of the heavenly bodies by combining mathematical theory with
 observation. Modern theoretical astronomy, taken in the most limited
 sense, is based upon _Celestial Mechanics_, the science by which, using
 purely deductive mechanical methods, the laws of motion of the heavenly
-bodies are derived by deductive methods from their mutual gravitation
+bodies are derived by deductive methods from their mutual [[Gravitation|gravitation]]
 towards each other.
 
 _Practical Astronomy_, which comprises a description of the instruments
@@ -234,14 +234,14 @@ the system.
   (1) When a point on the earth's surface is taken as the origin, the
   fundamental axis may be the direction of gravity at that point. This
   direction defines the vertical line. The fundamental plane which it
-  determines is horizontal and is termed the plane of the horizon. Such
+  determines is horizontal and is termed the plane of the [[Horizon|horizon]]. Such
   a plane is realized in the surface of a liquid, a basin of
   quicksilver, for example.
 
   (2) When the centre of the earth is taken as origin, the most natural
   fundamental axis is that of the earth's rotation. This axis cuts the
   earth's surface at the North and South Poles. The fundamental plane
-  perpendicular to it is the plane of the equator. This plane intersects
+  perpendicular to it is the plane of the [[Equator|equator]]. This plane intersects
   the earth's surface in the terrestrial equator. Co-ordinates referred
   to this system are termed equatorial. A system of equatorial
   co-ordinates may also be used when the origin is on the earth's
@@ -251,7 +251,7 @@ the system.
   equator.
 
   (3) In the system of heliocentric co-ordinates, the plane in which the
-  earth moves round the sun, which is the plane of the ecliptic, is
+  earth moves round the sun, which is the plane of the [[Ecliptic|ecliptic]], is
   taken as the fundamental one. The axis of the ecliptic is a line
   perpendicular to this plane.
 
@@ -281,7 +281,7 @@ the system.
 
   (2) The angle XOQ which the projection of the radius vector upon the
   fundamental plane makes with the initial line OX. This angle is called
-  the Longitude, Right Ascension or Azimuth of the body, in the various
+  the Longitude, Right Ascension or [[Azimuth]] of the body, in the various
   systems of co-ordinates. We may term it in a general way the
   longitudinal co-ordinate.
 
@@ -298,11 +298,11 @@ the system.
   One of the systems of co-ordinates is familiar to every one, and may
   be used as a general illustration of the method. It is our system of
   defining the position of a point on the earth's surface by its
-  latitude and longitude. Regarding O (fig. 1) as the centre of the
+  [[Latitude|latitude]] and longitude. Regarding O (fig. 1) as the centre of the
   earth, and P as a point on the earth's surface, a city for example, it
   will be seen that OZ being the earth's axis, the circle MN will be the
   equator. The initial line OX then passes through the foot of the
-  perpendicular dropped from Greenwich upon the plane of the equator,
+  perpendicular dropped from [[Greenwich]] upon the plane of the equator,
   and meets the surface at N. The angle QOP is the latitude of the place
   and the angle NOQ its longitude. The longitudes and latitudes thus
   defined are geocentric, and the latitude is slightly different from
@@ -389,7 +389,7 @@ the system.
 
       EQUATORIAL SYSTEM.
 
-    Latitudinal Co-ordinate; Declination or Polar Distance.
+    Latitudinal Co-ordinate; [[Declination]] or Polar Distance.
     Longitudinal    "                    Right Ascension.
 
       ECLIPTIC SYSTEM.
@@ -445,16 +445,16 @@ developments and modifications to apply them to the numberless problems
 of astronomy, which we may place in either class.
 
   Among the problems of theoretical astronomy we may assign the first
-  place to the determination of orbits (q.v.), which is auxiliary to the
+  place to the determination of orbits (q.v.), which is [[Auxiliary|auxiliary]] to the
   prediction of the apparent motions of a planet, satellite or star. The
   computations involved in the process, while simple in some cases, are
   extremely complex in others. The orbit of a newly-discovered planet or
   comet may be computed from three complete observations by well-known
   methods in a single day. From the resulting elements of the orbit the
   positions of the body from day to day may be computed and tabulated in
-  an ephemeris for the use of observers. But when definitive results as
+  an [[Ephemeris|ephemeris]] for the use of observers. But when definitive results as
   to the orbits are required, it is necessary to compute the
-  perturbations produced by such of the major planets as have affected
+  perturbations produced by such of the [[Major|major]] planets as have affected
   the motions of the body. With this complicated process is associated
   that of combining numerous observations with a view of obtaining the
   best definitive result. Speaking in a general way, we may say that
@@ -472,10 +472,10 @@ Celestial Mechanics is, strictly speaking, that branch of applied
 mathematics which, by deductive processes, derives the laws of motion of
 the heavenly bodies from their gravitation towards each other, or from
 the mutual action of the parts which form them. The science had its
-origin in the demonstration by Sir Isaac Newton that Kepler's three laws
+origin in the demonstration by Sir [[Isaac]] Newton that Kepler's three laws
 of planetary motion, and the law of gravitation, in the case of two
 bodies, could be mutually derived from each other. A body can move round
-the sun in an elliptic orbit having the sun in its focus, and describing
+the sun in an elliptic orbit having the sun in its [[Focus|focus]], and describing
 equal areas in equal times, only under the influence of a force directed
 towards the sun, and varying inversely as the square of the distance
 from it. Conversely, assuming this law of attraction, it can be shown
@@ -483,9 +483,9 @@ that the planets will move according to Kepler's laws.
 
 Thus celestial mechanics may be said to have begun with Newton's
 _Principia_. The development of the science by the successors of Newton,
-especially Laplace and Lagrange, may be classed among the most striking
-achievements of the human intellect. The precision with which the path
-of an eclipse is laid down years in advance cannot but imbue the minds
+especially Laplace and [[Lagrange]], may be classed among the most striking
+achievements of the human [[Intellect|intellect]]. The precision with which the path
+of an [[Eclipse|eclipse]] is laid down years in advance cannot but imbue the minds
 of men with a high sense of the perfection reached by astronomical
 theories; and the discovery, by purely mathematical processes, of the
 changes which the orbits and motions of the planets are to undergo
@@ -505,7 +505,7 @@ which conclusions relating to it are drawn. The non-mathematical reader
 may possibly be able to gain some general idea, though vague, of the
 significance of the subject.
 
-  The fundamental hypothesis of the science assumes a system of bodies
+  The fundamental [[Hypothesis|hypothesis]] of the science assumes a system of bodies
   in motion, of which the sun and planets may be taken as examples, and
   of which each separate body is attracted toward all the others
   according to the law of Newton. The motion of each body is then
@@ -516,7 +516,7 @@ significance of the subject.
   the problem, which is reduced to one of pure kinematics. At the
   outset, the position of each body, considered as a material particle,
   is defined by reference to a system of co-ordinate axes, and not by
-  any verbal description. Differential equations which express the
+  any verbal description. Differential [[Equation|equations]] which express the
   changes of the co-ordinates are then constructed. The process of
   discovering the laws of motion of the particle then consists in the
   integration of these equations. Such equations can be formed for a
@@ -659,7 +659,7 @@ significance of the subject.
   more interesting of which will now be enunciated.
 
   (1) The motion of such a planet may take place not only in an ellipse
-  but in any curve of the second order; an ellipse, hyperbola, or
+  but in any curve of the second order; an ellipse, [[Hyperbola|hyperbola]], or
   parabola, the latter being the bounding curve between the other two. A
   body moving in a parabola or hyperbola would recede indefinitely from
   its centre of motion and never return to it. The ellipse is therefore
@@ -885,7 +885,7 @@ significance of the subject.
   approximation to the truth. In theory these successive approximations
   may be carried as far as we please, but in practice the labour of
   executing each approximation is so great that we are obliged to stop
-  when the solution is so near the truth that the outstanding error is
+  when the solution is so near the truth that the outstanding [[Error|error]] is
   less than that of the best observations. Even this degree of precision
   may be impracticable in the more complex cases.
 
@@ -1210,7 +1210,7 @@ significance of the subject.
   variation of elements is developed in his _Mecanique analytique_. The
   practical methods of computing perturbations of the planets and
   satellites were first exhaustively developed by Pierre Simon Laplace
-  in his _Mecanique celeste_. The only attempt since the publication of
+  in his _Mecanique [[Celeste|celeste]]_. The only attempt since the publication of
   this great work to develop the various theories involved on a uniform
   plan and mould them into a consistent whole is that of de Pontecoulant
   in _Theorie analytique du systeme du monde_ (1829-46, Paris). An
@@ -1315,7 +1315,7 @@ middle of the 19th century.
   focus at a point F lying in the focal plane of the telescope. In this
   plane are a pair of cross threads or spider lines which, as the
   observer looks into the telescope, are seen as AB and CD (fig. 8). If
-  the telescope is so pointed that the image of the star is seen in
+  the telescope is so pointed that the [[Image|image]] of the star is seen in
   coincidence with the cross threads, as represented in fig. 8, then we
   know that the star is exactly in the line of sight of the telescope,
   defined as the line joining the centre of the object glass, and the
@@ -1462,12 +1462,12 @@ middle of the 19th century.
   The field of practical astronomy includes an extension which may be
   regarded as making astronomical science in a certain sense universal.
   The science is concerned with the heavenly bodies. The earth on which
-  we live is, to all intents and purposes, one of these bodies, and, so
+  we live is, to all [[Intent|intents]] and purposes, one of these bodies, and, so
   far as its relations to the heavens are concerned, must be included in
   astronomy. The processes of measuring great portions of the earth, and
   of determining geographical positions, require both astronomical
   observations proper, and determinations made with instruments similar
-  to those of astronomy. Hence geodesy may be regarded as a branch of
+  to those of astronomy. Hence [[Geodesy|geodesy]] may be regarded as a branch of
   practical astronomy.     (S. N.)
 
 
@@ -1480,13 +1480,13 @@ to the conduct of human life. Hence it is most widely diffused among
 uncivilized peoples, whose existence depends upon immediate and
 unvarying submission to the dictates of external nature. Having no
 clocks, they regard instead the face of the sky; the stars serve them
-for almanacs; they hunt and fish, they sow and reap in correspondence
+for almanacs; they [[Hunt|hunt]] and fish, they sow and reap in correspondence
 with the recurrent order of celestial appearances. But these, to the
-untutored imagination, present a mystical, as well as a mechanical
+untutored [[Imagination|imagination]], present a mystical, as well as a mechanical
 aspect; and barbaric familiarity with the heavens developed at an early
 age, through the promptings of superstition, into a fixed system of
 observation. In China, Egypt and Babylonia, strength and continuity were
-lent to this native tendency by the influence of a centralized
+[[Lent|lent]] to this native tendency by the influence of a centralized
 authority; considerable proficiency was attained in the arts of
 observation; and from millennial stores of accumulated data, empirical
 rules were deduced by which the scope of prediction was widened and its
@@ -1502,7 +1502,7 @@ the orders promulgated by the emperor Yao about 2300 B.C., as recorded
 in the _Shu Chung_, a collection of documents antique in the time of
 Confucius (550-478 B.C.). And Yao was merely the renovator of a system
 long previously established. The _Shu Chung_ further relates the tragic
-fate of the official astronomers, Hsi and Ho, put to death for
+[[Fate|fate]] of the official astronomers, Hsi and Ho, put to death for
 neglecting to perform the rites customary during an eclipse of the sun,
 identified by Professor S.E. Russell[1] with a partial obscuration
 visible in northern China 2136 B.C. The date cannot be far wrong, and it
@@ -1537,7 +1537,7 @@ Jesuit missionaries from Europe.
 
 Astrolatry was, in Egypt, the prelude to astronomy. The stars were
 observed that they might be duly worshipped. The importance of their
-heliacal risings, or first visible appearances at dawn, for the purposes
+[[Heliacal|heliacal]] risings, or first visible appearances at dawn, for the purposes
 both of practical life and of ritual observance, caused them to be
 systematically noted; the length of the year was accurately fixed in
 connexion with the annually recurring Nile-flood; while the curiously
@@ -1559,9 +1559,9 @@ of the "Saros." This is a cycle of 18 years 11 days, or 223 lunations,
 discovered at an unknown epoch in Chaldaea, at the end of which the moon
 very nearly returns to her original position with regard as well to the
 sun as to her own nodes and perigee. There is no getting back to the
-beginning of astronomy by the shores of the Euphrates. Records dating
+beginning of astronomy by the shores of the [[Euphrates]]. Records dating
 from the reign of Sargon of Akkad (3800 B.C.) imply that even then the
-varying aspects of the sky had been long under expert observation. Thus
+varying aspects of the sky had been long under [[Expert|expert]] observation. Thus
 early, there is reason to suppose, the star-groups with which we are now
 familiar began to be formed. They took shape most likely, not through
 one stroke of invention, but incidentally, as legends developed and
@@ -1569,12 +1569,12 @@ astrological persuasions became defined.[4] The zodiacal series in
 particular seem to have been reformed and reconstructed at wide
 intervals of time (see ZODIAC). Virgo, for example, is referred by P.
 Jensen, on the ground of its harvesting associations, to the fourth
-millennium B.C., while Aries (according to F.K. Ginzel) was interpolated
+millennium B.C., while [[Aries]] (according to F.K. Ginzel) was interpolated
 at a comparatively recent time. In the main, however, the constellations
 transmitted to the West from Babylonia by Aratus and Eudoxus must have
 been arranged very much in their present order about 2800 B.C. E.W.
 Maunder's argument to this effect is unanswerable.[5] For the space of
-the southern sky left blank of stellar emblazonments was necessarily
+the southern sky left [[Blank|blank]] of stellar emblazonments was necessarily
 centred on the pole; and since the pole shifts among the stars through
 the effects of precession by a known annual amount, the ascertainment of
 any former place for it virtually fixes the epoch. It may then be taken
@@ -1584,8 +1584,8 @@ latitude 40 deg.
 
 In the course of ages, Babylonian astronomy, purified from the
 astrological taint, adapted itself to meet the most refined needs of
-civil life. The decipherment and interpretation by the learned Jesuits,
-Fathers Epping and Strassmeier, of a number of clay tablets preserved in
+civil life. The decipherment and interpretation by the learned [[Jesuits]],
+Fathers [[Epping]] and Strassmeier, of a number of clay tablets preserved in
 the British Museum, have supplied detailed knowledge of the methods
 practised in Mesopotamia in the 2nd century B.C.[6] They show no trace
 of Greek influence, and were doubtless the improved outcome of an
@@ -1594,12 +1594,12 @@ estimated from the length of the revolutionary cycles found for the
 planets. The Babylonian computers were not only aware that Venus returns
 in almost exactly eight years to a given starting-point in the sky, but
 they had established similar periodic relations in 46, 59, 70 and 83
-years severally for Mercury, Saturn, Mars and Jupiter. They were
+years severally for Mercury, Saturn, [[Mars]] and Jupiter. They were
 accordingly able to fix in advance the approximate positions of these
 objects with reference to ecliptical stars which served as fiducial
 points for their determination. In the Ephemerides published year by
 year, the times of new moon were given, together with the calculated
-intervals to the first visibility of the crescent, from which the
+intervals to the first visibility of the [[Crescent|crescent]], from which the
 beginning of each month was reckoned; the dates and circumstances of
 solar and lunar eclipses were predicted; and due information was
 supplied as to the forthcoming heliacal risings and settings,
@@ -1610,7 +1610,7 @@ they kept the ecliptic stationary among the stars, making no allowance
 for the shifting of the equinoxes. The striking discovery, on the other
 hand, has been made by the Rev. F.X. Kugler[8] that the various periods
 underlying their lunar predictions were identical with those heretofore
-believed to have been independently arrived at by Hipparchus, who
+believed to have been independently arrived at by [[Hipparchus]], who
 accordingly must be held to have borrowed from Chaldaea the lengths of
 the synodic, sidereal, anomalistic and draconitic months.
 
@@ -1622,7 +1622,7 @@ the synodic, sidereal, anomalistic and draconitic months.
   Heraclides.
 
 A steady flow of knowledge from East to West began in the 7th century
-B.C. A Babylonian sage named Berossus founded a school about 640 B.C. in
+B.C. A Babylonian sage named [[Berossus]] founded a school about 640 B.C. in
 the island of Cos, and perhaps counted Thales of Miletus (c. 639-548)
 among his pupils. The famous "eclipse of Thales" in 585 B.C. has not, it
 is true, been authenticated by modern research;[9] yet the story told by
@@ -1632,14 +1632,14 @@ sage. Pythagoras of Samos (fl. 540-510 B.C.) learned on his travels in
 Egypt and the East to identify the morning and evening stars, to
 recognize the obliquity of the ecliptic, and to regard the earth as a
 sphere freely poised in space. The tenet of its axial movement was held
-by many of his followers--in an obscure form by Philolaus of Crotona
+by many of his followers--in an obscure form by Philolaus of [[Crotona]]
 after the middle of the 5th century B.C., and more explicitly by
 Ecphantus and Hicetas of Syracuse (4th century B.C.), and by Heraclides
-of Pontus. Heraclides, who became a disciple of Plato in 360 B.C.,
+of Pontus. Heraclides, who became a [[Disciple|disciple]] of Plato in 360 B.C.,
 taught in addition that the sun, while circulating round the earth, was
 the centre of revolution to Venus and Mercury.[10] A genuine
-heliocentric system, developed by Aristarchus of Samos (fl. 280-264
-B.C.), was described by Archimedes in his _Arenarius_, only to be set
+heliocentric system, developed by [[Aristarchus]] of Samos (fl. 280-264
+B.C.), was described by [[Archimedes]] in his _Arenarius_, only to be set
 aside with disapproval. The long-lived conception of a series of
 crystal spheres, acting as the vehicles of the heavenly bodies, and
 attuned to divine harmonies, seems to have originated with Pythagoras
@@ -1649,14 +1649,14 @@ himself.
   Eudoxus.
 
 The first mathematical theory of celestial appearances was devised by
-Eudoxus of Cnidus (408-355 B.C.).[11] The problem he attempted to solve
+Eudoxus of [[Cnidus]] (408-355 B.C.).[11] The problem he attempted to solve
 was so to combine uniform circular movements as to produce the resultant
 effects actually observed. The sun and moon and the five planets were,
 with this end in view, accommodated each with a set of variously
 revolving spheres, to the total number of 27. The Eudoxian or
 "homocentric" system, after it had been further elaborated by Callippus
-and Aristotle, was modified by Apollonius of Perga (fl. 250-220 B.C.)
-into the hypothesis of deferents and epicycles, which held the field for
+and [[Aristotle]], was modified by Apollonius of Perga (fl. 250-220 B.C.)
+into the hypothesis of [[Deferent|deferents]] and epicycles, which held the field for
 1800 years as the characteristic embodiment of Greek ideas in astronomy.
 Eudoxus further wrote two works descriptive of the heavens, the
 _Enoptron_ and _Phaenomena_, which, substantially preserved in the
@@ -1678,7 +1678,7 @@ treatise on the magnitudes and distances of the sun and moon, edited by
 John Wallis in 1688, describes a theoretically valid method for
 determining the relative distances of the sun and moon by measuring the
 angle between their centres when half the lunar disk is illuminated; but
-the time of dichotomy being widely indeterminate, no useful result was
+the time of [[Dichotomy|dichotomy]] being widely indeterminate, no useful result was
 thus obtainable. Aristarchus in fact concluded the sun to be not more
 than twenty times, while it is really four hundred times farther off
 than our satellite. His general conception of the universe was
@@ -1690,7 +1690,7 @@ comprehensive beyond that of any of his predecessors.
 Eratosthenes (276-196 B.C.), a native of Cyrene, was summoned from
 Athens to Alexandria by Ptolemy Euergetes to take charge of the royal
 library. He invented, or improved armillary spheres, the chief
-implements of ancient astrometry, determined the obliquity of the
+[[Implement|implements]] of ancient astrometry, determined the obliquity of the
 ecliptic at 23 deg. 51' (a value 5' too great), and introduced an
 effective mode of arc-measurement. Knowing Alexandria and Syene to be
 situated 5000 stadia apart on the same meridian, he found the sun to be
@@ -1721,14 +1721,14 @@ together with his invention of the planisphere, enabled him to solve a
 number of elementary problems; and he was thus led to bestow especial
 attention upon the position of the equinox, as being the common point of
 origin for measures both in right ascension and longitude. Its steady
-retrogression among the stars became manifest to him in 130 B.C., on
+retrogression among the stars became [[Manifest|manifest]] to him in 130 B.C., on
 comparing his own observations with those made by Timocharis a century
 and a half earlier; and he estimated at not less than 36" (the true
 value being 50") the annual amount of "precession."
 
 The choice made by Hipparchus of the geocentric theory of the universe
 decided the future of Greek astronomy. He further elaborated it by the
-introduction of "eccentrics," which accounted for the changes in orbital
+introduction of "[[Eccentric|eccentrics]]," which accounted for the changes in orbital
 velocity of the sun and moon by a displacement of the earth, to a
 corresponding extent, from the centre of the circles they were assumed
 to describe. This gave the elliptic inequality known as the "equation of
@@ -1769,7 +1769,7 @@ banks of the Tigris. The first Arabic translation of the _Almagest_ was
 made by order of Harun al-Rashid about the year 800; others followed,
 and the Caliph al-Mamun built in 829 a grand observatory at Bagdad. Here
 Albumazar (805-885) watched the skies and cast horoscopes; here Tobit
-ben Korra (836-901) developed his long unquestioned, yet misleading
+[[Ben|ben]] Korra (836-901) developed his long unquestioned, yet misleading
 theory of the "trepidation" of the equinoxes; Abd-ar-rahman al-Suf
 (903-986) revised at first hand the catalogue of Ptolemy;[13] and
 Abulwefa (939-998), like al-Sufi, a native of Persia, made continuous
@@ -1782,7 +1782,7 @@ eclipses which, as being the first recorded with scientific
 accuracy,[14] were made available in fixing the amount of lunar
 acceleration. Nasir ud-din (1201-1274) drew up the Ilkhanic Tables, and
 determined the constant of precession at 51". He directed an observatory
-established by Hulagu Khan (d. 1265) at Maraga in Persia, and equipped
+established by Hulagu [[Khan]] (d. 1265) at Maraga in Persia, and equipped
 with a mural quadrant of 12 ft. radius, besides altitude and azimuth
 instruments. Ulugh Beg (1394-1449), a grandson of Tamerlane, was the
 illustrious personification of Tatar astronomy. He founded about 1420 a
@@ -1800,7 +1800,7 @@ two centuries.[15]
   Walther.
 
 Arab astronomy, transported by the Moors to Spain, flourished
-temporarily at Cordova and Toledo. From the latter city the Toletan
+temporarily at [[Cordova]] and Toledo. From the latter city the Toletan
 Tables, drawn up by Arzachel in 1080, took their name; and there also
 the Alfonsine Tables, published in 1252, were prepared under the
 authority of Alphonso X. of Castile. Their appearance signalized the
@@ -1811,9 +1811,9 @@ immense vogue, perpetuated by the printing-press in fifty-nine editions.
 In Germany, during the 15th century, a brilliant attempt was made to
 patch up the flaws in Ptolemaic doctrine. George Purbach (1423-1461)
 introduced into Europe the method of determining time by altitudes
-employed by Ibn Junis. He lectured with applause at Vienna from 1450;
+employed by Ibn Junis. He lectured with [[Applause|applause]] at Vienna from 1450;
 was joined there in 1452 by Regiomontanus (q.v.); and was on the point
-of starting for Rome to inspect a manuscript of the _Almagest_ when he
+of starting for Rome to inspect a [[Manuscript|manuscript]] of the _Almagest_ when he
 died suddenly at the age of thirty-eight. His teachings bore fruit in
 the work of Regiomontanus, and of Bernhard Walther of Nuremberg
 (1430-1504), who fitted up an observatory with clocks driven by weights,
@@ -1857,7 +1857,7 @@ heliocentric theory, while admired as a daring speculation, won its way
 slowly to acceptance as a truth.
 
 
-  Observatory of Cassel.
+  Observatory of [[Cassel]].
 
 The _Tabulae Prutenicae_, calculated on Copernican principles by Erasmus
 Reinhold (1511-1553), appeared in 1551. Although they represented
@@ -1865,7 +1865,7 @@ celestial movements far better than the Alfonsine Tables, large
 discrepancies were still apparent, and the desirability of testing the
 novel hypothesis upon which they were based by more refined observations
 prompted a reform of methods, undertaken almost simultaneously by the
-landgrave William IV. of Hesse-Cassel (1532-1592), and by Tycho Brahe.
+[[Landgrave|landgrave]] William IV. of [[Hesse-Cassel]] (1532-1592), and by Tycho Brahe.
 The landgrave built at Cassel in 1561 the first observatory with a
 revolving dome, and worked for some years at a star-catalogue finally
 left incomplete. Christoph Rothmann and Joost Burgi (1552-1632) became
@@ -1880,11 +1880,11 @@ believed to have made its first appearance in Europe.[16]
 Tycho's labours were both more strenuous and more effective. He
 perfected the art of pre-telescopic observation. His instruments were on
 a scale and of a type unknown since the days of Nasir ud-din. At
-Augsburg, in 1569, he ordered the construction of a 19-ft. quadrant, and
+[[Augsburg]], in 1569, he ordered the construction of a 19-ft. quadrant, and
 of a celestial globe 5 ft. in diameter; he substituted equatorial for
 zodiacal armillae, thus definitively establishing the system of
 measurements in right ascension and declination; and improved the
-graduation of circular arcs by adopting the method of "transversals." By
+[[Graduation|graduation]] of circular arcs by adopting the method of "transversals." By
 these means, employed with consummate skill, he attained an
 unprecedented degree of accuracy, and as an incidental though valuable
 result, demonstrated the unreality of the supposed trepidation of the
@@ -1904,7 +1904,7 @@ embodied in his ground-plan of the solar system to revive the ephemeral
 theory of Heraclides failed to influence the development of thought.
 Kepler, on the contrary, was endowed with unlimited powers of
 speculation, but had no mechanical faculty. He found in Tycho's ample
-legacy of first-class data precisely what enabled him to try, by the
+[[Legacy|legacy]] of first-class data precisely what enabled him to try, by the
 touchstone of fact, the successive hypotheses that he imagined; and his
 untiring patience in comparing and calculating the observations at his
 disposal was rewarded by a series of unique discoveries. He long adhered
@@ -1940,7 +1940,7 @@ nature. He supposed their tails to result from the action of solar rays,
 which, in traversing their mass, bore off with them some of their
 subtler particles to form trains directed away from the sun. And through
 the process of waste thus set on foot, they finally dissolved into the
-aether, and expired "like spinning insects." (_De Cometis; Opera_, ed.
+aether, and expired "like spinning [[Insect|insects]]." (_De Cometis; Opera_, ed.
 Frisch, t. vii. p. 110.) This remarkable anticipation of the modern
 theory of light-pressure was suggested to him by his observations of the
 great comets of 1618.
@@ -1950,13 +1950,13 @@ at finding out the cause as well as the mode of the planetary
 revolutions; and his demonstration that the planes in which they are
 described all pass through the sun was an important preliminary to a
 physical explanation of them. But his efforts to supply such an
-explanation were rendered futile by his imperfect apprehension of what
+explanation were rendered futile by his imperfect [[Apprehension|apprehension]] of what
 motion is in itself. He had, it is true, a distinct conception of a
 force analogous to that of gravity, by which cognate bodies tended
 towards union. Misled, however, into identifying it with magnetism, he
 imagined circulation in the solar system to be maintained through the
 material compulsion of fibrous emanations from the sun, carried round by
-his axial rotation. Ignorance regarding the inertia of matter drove him
+his axial rotation. [[Ignorance]] regarding the inertia of matter drove him
 to this expedient. The persistence of movement seemed to him to imply
 the persistence of a moving power. He did not recognize that motion and
 rest are equally natural, in the sense of requiring force for their
@@ -1968,9 +1968,9 @@ extension to the earth of the lunar sphere of influence.
 Galileo Galilei, Kepler's most eminent contemporary, took a foremost
 part in dissipating the obscurity that still hung over the very
 foundations of mechanical science. He had, indeed, precursors and
-co-operators. Michel Varo of Geneva wrote correctly in 1584 on the
+co-operators. Michel Varo of [[Geneva]] wrote correctly in 1584 on the
 composition of forces; Simon Stevin of Bruges (1548-1620) independently
-demonstrated the principle; and G.B. Benedetti expounded in his
+demonstrated the principle; and G.B. [[Benedetti]] expounded in his
 _Speculationum Liber_ (Turin, 1585) perfectly clear ideas as to the
 nature of accelerated motion, some years in advance of Galileo's
 dramatic experiments at Pisa. Yet they were never assimilated by Kepler;
@@ -1980,7 +1980,7 @@ remained for some time apart. Had they at once been made to coalesce,
 the true nature of the force controlling celestial movements should have
 been quickly recognized. As it was, the importance of Kepler's
 generalizations was not fully appreciated until Sir Isaac Newton made
-them the corner-stone of his new cosmic edifice.
+them the corner-stone of his new [[Cosmic|cosmic]] edifice.
 
 
   Galileo.
@@ -1990,19 +1990,19 @@ Kepler's. They were easily intelligible to the general public: in a
 sense, they were obvious, since they could be verified by every
 possessor of one of the Dutch perspective-instruments, just then in
 course of wide and rapid distribution. And similar results to his were
-in fact independently obtained in various parts of Europe by Christopher
-Scheiner at Ingolstadt, by Johann Fabricius at Osteel in Friesland, and
+in fact independently obtained in various parts of Europe by [[Christopher]]
+Scheiner at Ingolstadt, by Johann [[Fabricius]] at Osteel in [[Friesland]], and
 by Thomas Harriot at Syon House, Isleworth. Galileo was nevertheless by
 far the ablest and most versatile of these early telescopic observers.
 His gifts of exposition were on a par with his gifts of discernment.
 What he saw, he rendered conspicuous to the world. His sagacity was
-indeed sometimes at fault. He maintained with full conviction to the end
+indeed sometimes at [[Fault|fault]]. He maintained with full conviction to the end
 of his life a grossly erroneous hypothesis of the tides, early adopted
 from Andrea Caesalpino; the "triplicate" appearance of Saturn always
-remained an enigma to him; and in regarding comets as atmospheric
+remained an [[Enigma|enigma]] to him; and in regarding comets as atmospheric
 emanations he lagged far behind Tycho Brahe. Yet he unquestionably ranks
 as the true founder of descriptive astronomy; while his splendid
-presentment of the laws of projectiles in his dialogue of the "New
+presentment of the laws of projectiles in his [[Dialogue|dialogue]] of the "New
 Sciences" (Leiden, 1638) lent potent aid to the solid establishment of
 celestial mechanics.
 
@@ -2015,11 +2015,11 @@ celestial mechanics.
 
   Newton.
 
-  Euler, Clairault, D'Alembert.
+  [[Euler]], [[Clairault]], D'Alembert.
 
 The accumulation of facts does not in itself constitute science.
 Empirical knowledge scarcely deserves the name. _Vere scire est per
-causas scire._ Francis Bacon's prescient dream, however, of a living
+causas scire._ Francis Bacon's prescient [[Dream|dream]], however, of a living
 astronomy by which the physical laws governing terrestrial relations
 should be extended the highest heavens, had long to wait for
 realization. Kepler divined its possibility; but his thoughts, derailed
@@ -2034,18 +2034,18 @@ The invention of logarithms, the rise of analytical geometry, and the
 evolution of B. Cavalieri's "indivisibles" into the infinitesimal
 calculus, all accomplished during the 17th century, immeasurably widened
 the scope of exact astronomy. Gradually, too, the nature of the problem
-awaiting solution came to be apprehended. Jeremiah Horrocks had some
-intuition, previously to 1639, that the motion of the moon was
+awaiting solution came to be apprehended. [[Jeremiah]] [[Horrocks]] had some
+[[Intuition|intuition]], previously to 1639, that the motion of the moon was
 controlled by the earth's gravity, and disturbed by the action of the
 sun. Ismael Bouillaud (1605-1694) stated in 1645 the fact of planetary
 circulation under the sway of a sun-force decreasing as the inverse
 square of the distance; and the inevitableness of this same "duplicate
-ratio" was separately perceived by Robert Hooke, Edmund Halley and Sir
+ratio" was separately perceived by Robert [[Hooke]], Edmund Halley and Sir
 Christopher Wren before Newton's discovery had yet been made public. He
 was the only man of his generation who both recognized the law, and had
 power to demonstrate its validity. And this was only a beginning. His
 complete achievement had a twofold aspect. It consisted, first, in the
-identification, by strict numerical comparisons, of terrestrial gravity
+[[Identification|identification]], by strict numerical comparisons, of terrestrial gravity
 with the mutual attraction of the heavenly bodies; secondly, in the
 following out of its mechanical consequences throughout the solar
 system. Gravitation was thus shown to be the sole influence governing
@@ -2124,7 +2124,7 @@ Saturn in 1784, and of the "secular acceleration" of the moon in 1787.
 Both irregularities had been noted, a century earlier, by Edmund Halley;
 both had, since that time, vainly exercised the ingenuity of the ablest
 mathematicians; both now almost simultaneously yielded their secret to
-the same fortunate inquirer. Johann Heinrich Lambert pointed out in 1773
+the same fortunate inquirer. Johann Heinrich [[Lambert]] pointed out in 1773
 that the motion of Saturn, from being retarded, had become accelerated.
 A periodic character was thus indicated for the disturbance; and Laplace
 assigned its true cause in the near approach to commensurability in the
@@ -2141,14 +2141,14 @@ value of the acceleration deducible from them; and served to conceal a
 discrepancy with observation which has since given occasion to much
 profound research (see MOON).
 
-The _Mecanique celeste_, in which Laplace welded into a whole the items
+The _Mecanique celeste_, in which Laplace welded into a whole the [[Item|items]]
 of knowledge accumulated by the labours of a century, has been termed
-the "Almagest of the 18th century" (Fourier). But imposing and complete
+the "Almagest of the 18th century" ([[Fourier]]). But imposing and complete
 though the monument appeared, it did not long hold possession of the
 field. Further developments ensued. The "method of least squares," by
 which the most probable result can be educed from a body of
 observational data, was published by Adrien Marie Legendre in 1806, by
-Carl Friedrich Gauss in his _Theoria Motus_ (1809), which described also
+Carl [[Friedrich]] [[Gauss]] in his _Theoria Motus_ (1809), which described also
 a mode of calculating the orbit of a planet from three complete
 observations, afterwards turned to important account for the recapture
 of Ceres, the first discovered asteroid (see PLANETS, MINOR). Researches
@@ -2164,8 +2164,8 @@ by choosing time as the sole variable, the orbital elements remaining
 constant. A.L. Cauchy published in 1842-1845 a method similarly
 conceived, though otherwise developed; and the scope of analysis in
 determining the movements of the heavenly bodies has since been
-perseveringly widened by the labours of Urbain J.J. Leverrier, J.C.
-Adams, S. Newcomb, G.W. Hill, E.W. Brown, H. Gylden, Charles Delaunay,
+perseveringly widened by the labours of Urbain J.J. [[Leverrier]], J.C.
+Adams, S. Newcomb, G.W. Hill, E.W. Brown, H. Gylden, Charles [[Delaunay]],
 F. Tisserand, H. Poincare and others too numerous to mention. Nor were
 these abstract investigations unaccompanied by concrete results. Sir
 George Airy detected in 1831 an inequality, periodic in 240 years,
@@ -2191,9 +2191,9 @@ made the starting-point instead of the goal of research.
 
   Horrocks.
 
-  Huygens.
+  [[Huygens]].
 
-  Gascoigne.
+  [[Gascoigne]].
 
   Hevelius.
 
@@ -2205,7 +2205,7 @@ relations of mutual helpfulness, with practical astronomy, or
 "astrometry." Meanwhile, the elementary requirement of making visual
 acquaintance with the stellar heavens was met, as regards the unknown
 southern skies, when Johann Bayer published at Nuremberg in 1603 a
-celestial atlas depicting twelve new constellations formed from the rude
+celestial [[Atlas|atlas]] depicting twelve new constellations formed from the rude
 observations of navigators across the line. In the same work, the
 current mode of star-nomenclature by the letters of the Greek alphabet
 made its appearance. On the 7th of November 1631 Pierre Gassendi watched
@@ -2218,9 +2218,9 @@ the sixth Saturnian moon, of the true shape of the Saturnian appendages,
 and of the multiple character of the "trapezium" of stars in the Orion
 nebula. William Gascoigne's invention of the filar micrometer and of the
 adaptation of telescopes to graduated instruments remained submerged for
-a quarter of a century in consequence of his untimely death at Marston
+a quarter of a century in consequence of his untimely death at [[Marston]]
 Moor (1644). The latter combination had also been ineffectually proposed
-in 1634 by Jean Baptiste Morin (1583-1656); and both devices were
+in 1634 by Jean [[Baptiste]] Morin (1583-1656); and both devices were
 recontrived at Paris about 1667, the micrometer by Adrien Auzout (d.
 1691), telescopic sights (so-called) by Jean Picard (1620-1682), who
 simultaneously introduced the astronomical use of pendulum-clocks,
@@ -2244,25 +2244,25 @@ The establishment, in 1671 and 1676 respectively, of the French and
 English national observatories at once typified and stimulated progress.
 The Paris institution, it is true, lacked unity of direction. No
 authoritative chief was assigned to it until 1771. G.D. Cassini, his son
-and his grandson were only _primi inter pares_. Claude Perrault's
+and his grandson were only _primi inter pares_. [[Claude]] Perrault's
 stately edifice was equally accessible to all the more eminent members
 of the Academy of Sciences; and researches were, more or less
 independently, carried on there by (among others) Philippe de la Hire
 (1640-1718), G.F. Maraldi (1665-1729), and his nephew, J.D. Maraldi,
-Jean Picard, Huygens, Olaus Romer and Nicolas de Lacaille. Some of the
+Jean Picard, Huygens, Olaus Romer and Nicolas de [[Lacaille]]. Some of the
 best instruments then extant were mounted at the Paris observatory. G.D.
 Cassini brought from Rome a 17-ft. telescope by G. Campani, with which
-he discovered in 1671 Iapetus, the ninth in distance of Saturn's family
+he discovered in 1671 [[Iapetus]], the ninth in distance of Saturn's family
 of satellites; Rhea was detected in 1672 with a glass by the same maker
 of 34-ft. focus; the duplicity of the ring showed in 1675; and, in 1684,
 two additional satellites were disclosed by a Campani telescope of 100
 ft. Cassini, moreover, set up an altazimuth in 1678, and employed from
-about 1682 a "parallactic machine," provided with clockwork to enable it
+about 1682 a "parallactic [[Machine|machine]]," provided with clockwork to enable it
 to follow the diurnal motion. Both inventions have been ascribed to
 Olaus Romer, who used but did not claim them, and must have become
 familiar with their principles during the nine years (1672-1681) spent
 by him at the Paris observatory. Romer, on the other hand, deserves full
-credit for originating the transit-circle and the prime vertical
+[[Credit|credit]] for originating the transit-circle and the prime vertical
 instrument; and he earned undying fame by his discovery of the finite
 velocity of light, made at Paris in 1675 by comparing his observations
 of the eclipses of Jupiter's satellites at the conjunctions and
@@ -2324,7 +2324,7 @@ Edmund Halley, the second astronomer royal, devoted most of his official
 attention to the moon. But his plan of attack was not happily chosen; he
 carried it out with deficient instrumental means; and his administration
 (1720-1742) remained comparatively barren. That of his successor, though
-shorter, was vastly more productive. James Bradley chose the most
+shorter, was vastly more productive. James Bradley [[Chose|chose]] the most
 appropriate tasks, and executed them supremely well, with the
 indispensable aid of John Bird (1700-1776), who constructed for him an
 8-ft. quadrant of unsurpassed quality. Bradley's store of observations
@@ -2338,7 +2338,7 @@ Nathaniel Bliss, provided in two years a sequel of some value to
 Bradley's performance. Nevil Maskelyne, who succeeded him in 1764, set
 on foot, in 1767, the publication of the _Nautical Almanac_, and about
 the same time had an achromatic telescope fitted to the Greenwich mural
-quadrant. The invention, perfected by John Dollond in 1757, was long
+quadrant. The invention, perfected by John [[Dollond]] in 1757, was long
 debarred from becoming effective by difficulties in the manufacture of
 glass, aggravated in England by a heavy excise duty levied until 1845.
 More immediately efficacious was the innovation made by John Pond
@@ -2351,7 +2351,7 @@ of the royal observatory were promoted with increased vigour, while the
 scope of research was at the same time memorably widened. Magnetic,
 meteorological, and spectroscopic departments were added to the
 establishment; electricity was employed, through the medium of the
-chronograph, for the registration of transits; and photography was
+[[Chronograph|chronograph]], for the registration of transits; and photography was
 resorted to for the daily automatic record of the sun's condition.
 
 
@@ -2359,9 +2359,9 @@ resorted to for the daily automatic record of the sun's condition.
 
   Lacaille.
 
-  Tobias Mayer.
+  Tobias [[Mayer]].
 
-  Lalande.
+  [[Lalande]].
 
 Meanwhile, advances were being made in various parts of the continent of
 Europe. Peter Wargentin (1717-1783), secretary to the Swedish Academy of
@@ -2397,7 +2397,7 @@ he had a German counterpart in J.E. Bode.
 
 Between the time of Aristarchus and the opposition of Mars in 1672, no
 serious attempt was made to solve the problem of the sun's distance. In
-that year, however, Jean Richer at Cayenne and G.D. Cassini at Paris
+that year, however, Jean Richer at [[Cayenne]] and G.D. Cassini at Paris
 made combined observations of the planet, which yielded a parallax for
 the sun of 9.5", corresponding to a mean radius for the terrestrial
 orbit of 87,000,000 m. This result, though widely inaccurate, came much
@@ -2406,14 +2406,14 @@ illustrated the feasibility of concerted astronomical operations at
 distant parts of the earth. The way was thus prepared for availing to
 the full of the opportunities for a celestial survey offered by the
 transits of Venus in 1761 and 1769. They had been signalized by E.
-Halley in 1716; they were later insisted upon by Lalande; an enthusiasm
-for co-operation was evoked, and the globe, from Siberia to Otaheite,
+Halley in 1716; they were later insisted upon by Lalande; an [[Enthusiasm|enthusiasm]]
+for [[Co-Operation|co-operation]] was evoked, and the globe, from Siberia to Otaheite,
 was studded with observing parties. The outcome, nevertheless,
 disappointed expectation. The instants of contact between the limbs of
 the sun and planet defied precise determination. Optical complications
 fatally impeded sharpness of vision, and the phenomena took place in a
 debateable borderland of uncertainty. J.F. Encke, it is true, derived
-from them in 1822-1824 what seemed an authentic parallax of 8.57",
+from them in 1822-1824 what seemed an [[Authentic|authentic]] parallax of 8.57",
 implying a distance of 95,370,000 m.; but the confidence it inspired was
 finally overthrown in 1854 by P.A. Hansen's announcement of its
 incompatibility with lunar theory. An appeal then lay to the 19th
@@ -2434,17 +2434,17 @@ elaborate set of experiments by Professor Newcomb in 1880-1882; and the
 result, taken in connexion with the aberration-constant as determined at
 Pulkowa, yielded a solar parallax of 8.79", or a distance (in round
 numbers) of 93,000,000 m. But the direct or geometrical mode of attack
-has still the preference over any of the indirect plans. Sir David Gill
+has still the preference over any of the indirect plans. Sir David [[Gill]]
 derived a highly satisfactory value of 8.78" for the long-sought
 constant from the opposition of Mars in 1877, and from combined
-heliometer observations at five observatories in 1888-1889 of the minor
+[[Heliometer|heliometer]] observations at five observatories in 1888-1889 of the minor
 planets Iris, Victoria and Sappho, the apparently definitive value of
 8.80" (equivalent distance, 92,874,000 m.). But an unlooked-for fresh
 opportunity was afforded by the discovery in 1898 of the singularly
-circumstanced minor planet Eros, which occasionally approaches the earth
+circumstanced minor planet [[Eros]], which occasionally approaches the earth
 more nearly than any other heavenly body except the moon. The opposition
 of November 1900, though only moderately favourable, could not be
-neglected; an international photographic campaign was organized at Paris
+neglected; an [[International|international]] photographic campaign was organized at Paris
 with the aid of 58 observatories; and the voluminous collected data
 imply, so far as they have been discussed, a parallax for the sun a
 little greater than 8.8". (See also PARALLAX.)
@@ -2452,7 +2452,7 @@ little greater than 8.8". (See also PARALLAX.)
 
   Reflecting telescopes.
 
-  William Herschel.
+  William [[Herschel]].
 
   Sir John Herschel.
 
@@ -2466,9 +2466,9 @@ unfolded, in the ensuing century, some of its capabilities, which the
 labours of William Herschel enormously enhanced. Between 1774 and 1789
 he built scores of specula of continually augmented size, up to a
 diameter of 4 ft., the optical excellence of which approved itself by a
-crowd of discoveries. Uranus (q.v.) was recognized by its disk on the
+[[Crowd|crowd]] of discoveries. Uranus (q.v.) was recognized by its disk on the
 13th of March 1781; two of its satellites, Oberon and Titania, disclosed
-themselves on the 11th of January 1787; while with the giant 48-in.
+themselves on the 11th of January 1787; while with the [[Giant|giant]] 48-in.
 mirror, used on the "front-view" plan, Mimas and Enceladus, the
 innermost Saturnian moons, were brought to view on the 28th of August
 and the 17th of September 1789. These were incidental trophies;
@@ -2483,7 +2483,7 @@ he originated experimental inquiries into the construction of the
 heavens by systematically collecting and sifting stellar statistics. He,
 moreover, definitively established, in 1783, the fact and general
 direction of the sun's movement in space, and thus introduced an element
-of order into the maze of stellar proper motions. Sir John Herschel
+of order into the [[Maze|maze]] of stellar proper motions. Sir John Herschel
 continued in the northern, and extended to the southern hemisphere, his
 father's work. The third earl of Rosse mounted, at Parsonstown in 1845,
 a speculum 6 ft. in diameter, which afforded the first indications of
@@ -2517,7 +2517,7 @@ counted by the score.
 
   Hall.
 
-  Barnard.
+  [[Barnard]].
 
   Perrine.
 
@@ -2528,7 +2528,7 @@ Neptune, on the 23rd of September 1846, to the company of known planets;
 but William Lassell's discovery of its satellite, on the 10th of October
 following, was a consequence of the perfect figure and high polish of
 his 2-ft. speculum. With the same instrument, he further detected, on
-the 19th of September 1848, Hyperion, the seventh of Saturn's
+the 19th of September 1848, [[Hyperion]], the seventh of Saturn's
 attendants, and, on the 24th of October 1851, Ariel and Umbriel, the
 interior moons of Uranus. Simultaneously with Lassell, on the opposite
 shore of the Atlantic, W.C. Bond identified Hyperion; and he perceived,
@@ -2546,7 +2546,7 @@ in 1904-1905, and the third at Greenwich in 1908; and a pair of
 Saturnian moons, designated Phoebe and Themis, were tracked out by
 Professor W.H. Pickering, in 1898 and 1905 respectively, amid the
 thicket of stars imprinted on negatives taken at Arequipa with the Bruce
-24-in. doublet lens. This raises to 26 the number of discovered
+24-in. [[Doublet|doublet]] lens. This raises to 26 the number of discovered
 satellites in the solar system.
 
 
@@ -2570,7 +2570,7 @@ however, in the recent history of cometary astronomy was its
 assimilation to that of meteors, which took unquestionable cosmical rank
 as a consequence of the Leonid tempest of November 1833. The affinity of
 the two classes of objects became known in 1866 through G.V.
-Schiaparelli's announcement that the orbit of the bright comet of 1862
+Schiaparelli's announcement that the orbit of the [[Bright|bright]] comet of 1862
 agreed strictly with the elliptic ring formed by the circulating Perseid
 meteors; and three other cases of close coincidence were soon afterwards
 brought to light. Tebbutt's comet in 1881 was the first to be
@@ -2599,7 +2599,7 @@ about 7600 stars was issued by Giuseppe Piazzi in 1814; Stephen
 Groombridge determined 4239 at Blackheath in 1806-1816; while through
 the joint and successive work of F.W. Bessel and W.A. Argelander, exact
 acquaintance was made with 90,000, a more general acquaintance with the
-324,000 stars recorded in the _Bonn Durchmusterung_ (1859-1862). The
+324,000 stars recorded in the _[[Bonn]] Durchmusterung_ (1859-1862). The
 southern hemisphere was subsequently reviewed on a similar duplicate
 plan by E. Schonfeld (1828-1891) at Bonn, by B.A. Gould and J.M. Thome
 at Cordoba. Moreover, the imposing catalogue set on foot in 1865 at
@@ -2609,18 +2609,18 @@ provided in the publications of the royal observatories at Greenwich and
 the Cape of Good Hope, and of national, imperial and private
 establishments in the United States and on the continent of Europe. But
 in the execution of these protracted undertakings, the human eye has
-been, to a large and increasing extent, superseded by the camera.
+been, to a large and increasing extent, superseded by the [[Camera|camera]].
 Photographic star-charting was begun by Sir David Gill in 1885, and the
 third and concluding volume of the _Cape Photographic Durchmusterung_
 appeared in 1900. It gives the co-ordinates of above 450,000 stars,
-measured by Professor J.C. Kapteyn at Groningen on plates taken by C.
+measured by Professor J.C. Kapteyn at [[Groningen]] on plates taken by C.
 Ray Woods at the Cape observatory. And this comprehensive work was
 merely preparatory to the International Catalogue and Chart, the
 production of which was initiated by the resolutions of the Paris
 Photographic Congress of 1887. Eighteen observatories scattered north
 and south of the equator divided the sky among them; and the outcome of
 their combined operations aimed at the production of a catalogue of at
-least 2,000,000 strictly determined stars, together with a colossal map
+least 2,000,000 strictly determined stars, together with a colossal [[Map|map]]
 in 22,000 sheets, showing stars to the fourteenth magnitude, in numbers
 difficult to estimate. (Sea PHOTOGRAPHY, CELESTIAL.)
 
@@ -2657,7 +2657,7 @@ data collected by them was a combined result of their skill, and of the
 vast improvement in refracting telescopes due to the genius of Joseph
 Fraunhofer (1787-1826). Among the inheritors of his renown were Alvan
 Clark and Alvan G. Clark of Cambridgeport, Massachusetts; and the superb
-definition of their great achromatics rendered practicable the division
+[[Definition|definition]] of their great achromatics rendered practicable the division
 of what might have been deemed impossibly close star-pairs. These
 facilities were remarkably illustrated by Professor S.W. Burnham's
 record of discovery, which roused fresh enthusiasm for this line of
@@ -2671,7 +2671,7 @@ spectroscope have ratified and extended this conclusion.
 Only spurious star-parallaxes had claimed the attention of astronomers
 until F.W. Bessel announced, in December 1838, the perspective yearly
 shifting of 61 Cygni in an ellipse with a mean radius of about one-third
-of a second. Thomas Henderson (1798-1844) had indeed measured the larger
+of a second. Thomas [[Henderson]] (1798-1844) had indeed measured the larger
 displacements of [alpha] Centauri at the Cape in 1832-1833, but delayed
 until 1839 to publish his result. Out of several hundred stars since
 then examined, seventy or eighty have yielded fairly accurate, though
@@ -2704,7 +2704,7 @@ thirteen stars; and he took into account those of only six in his second
 solution of the problem in 1805. But in 1837 Argelander employed 390
 proper motions as materials for the treatment of the same subject; and
 L. Struve had at his disposal, in 1887, no less than 2800. From the
-re-observation of Lalande's stars, after the lapse of not far from a
+re-observation of Lalande's stars, after the [[Lapse|lapse]] of not far from a
 century, J. Bossert was enabled to deduce 2675 proper motions, published
 at Paris in four successive memoirs, 1887-1902; and the sum-total of
 those ascertained probably now exceeds 6000. Yet this number, although
@@ -2739,7 +2739,7 @@ entirely different. The positions of the heavenly bodies in space, and
 the changes of those positions with time, constitute the primary subject
 of investigation by the elder school; while the new astronomy concerns
 itself chiefly with the individual peculiarities of suns and planets,
-with their chemistry, physical habitudes and modes of luminosity. Its
+with their [[Chemistry|chemistry]], physical habitudes and modes of luminosity. Its
 distinctive method is spectrum analysis, the invention and development
 of which in the 19th century have fundamentally altered the purpose and
 prospects of celestial inquiries.
@@ -2749,18 +2749,18 @@ prospects of celestial inquiries.
 
   Fraunhofer.
 
-  Kirchhoff.
+  [[Kirchhoff]].
 
   Chemistry of the sun.
 
 A beam of sunlight admitted into a darkened room through a narrow
-aperture, and there dispersed into a vario-tinted band by the
+[[Aperture|aperture]], and there dispersed into a vario-tinted band by the
 interposition of a prism, is not absolutely continuous. Dr W.H.
 Wollaston made the experiment in 1802, and perceived the spaces of
-colour to be interrupted by seven obscure gaps, which took the shape of
+colour to be interrupted by seven obscure [[Gap|gaps]], which took the shape of
 lines owing to his use of rectangular slit. He thus caught a preliminary
 glimpse of the "Fraunhofer lines," so called because Joseph Fraunhofer
-brought them into prominent notice by the diligence and insight of his
+brought them into prominent notice by the [[Diligence|diligence]] and insight of his
 labours upon them in 1814-1815. He mapped 324, chose out nine, which he
 designated by the letters of the alphabet, to be standards of
 measurement for the rest, and ascertained the coincidence in position
@@ -2769,7 +2769,7 @@ and the pair of dark lines named by him "D" in the solar spectrum. There
 ensued forty-five years of groping for a law which should clear up the
 enigma of the solar reversals. Partial anticipations abounded. The vital
 heart of the matter was barely missed by W.A. Miller in 1845, by L.
-Foucault in 1849, by A.J. Angstrom in 1853, by Balfour Stewart in 1858;
+[[Foucault]] in 1849, by A.J. Angstrom in 1853, by Balfour Stewart in 1858;
 while Sir George Stokes held the solution of the problem in the hollow
 of his hand from 1852 onward. But it was the synthetic genius of Gustav
 Kirchhoff which first gave unity to the scattered phenomena, and finally
@@ -2809,11 +2809,11 @@ by it were such as to excite startled attention. Their investigation has
 since been diligently prosecuted. The corona was photographed at
 Konigsberg during the totality of the 28th of July 1851; similar records
 of the red prominences, successively obtained by Father Angelo Secchi
-and Warren de la Rue, as the shadow-track crossed Spain on the 18th of
+and Warren [[De La Rue|de la Rue]], as the shadow-track crossed Spain on the 18th of
 July 1860, finally demonstrated their solar status. The Indian eclipse
 of the 18th of August 1868 supplied knowledge of their spectrum, found
-to include the yellow ray of an exotic gas named by Sir Norman Lockyer
-"helium." It further suggested, to Lockyer and P. Janssen separately,
+to include the yellow ray of an [[Exotic|exotic]] gas named by Sir Norman [[Lockyer]]
+"[[Helium|helium]]." It further suggested, to Lockyer and P. Janssen separately,
 the spectroscopic method of observing these objects in daylight. Under
 cover of an eclipse visible in North America on the 7th of August 1869,
 the bright green line of the corona was discerned; and Professor C.A.
@@ -2839,7 +2839,7 @@ amply verified at subsequent eclipses.
 
 The photography of prominences was, after some preliminary trials by
 C.A. Young and others, fully realized in 1891 by Professor George E.
-Hale at Chicago, and independently by Henri Deslandres at Paris. The
+[[Hale]] at [[Chicago]], and independently by Henri Deslandres at Paris. The
 pictures were taken, in both cases, with only one quality of light; the
 violet ray of calcium, the remaining superfluous beams being eliminated
 by the agency of a double slit. The last-named expedient had been
@@ -2859,13 +2859,13 @@ Fraunhofer was the pioneer in this branch. He observed, in 1823, dark
 lines in stellar spectra which Kirchhoff's discovery supplied the means
 of interpreting. The task, attempted by G.B. Donati in 1860, was
 effectively taken in hand, two years later, by Angelo Secchi, William
-Huggins and Lewis M. Rutherfurd. There ensued a general classification
+Huggins and [[Lewis]] M. Rutherfurd. There ensued a general classification
 of the stars by Secchi into four leading types, distinguished by
 diversities of spectral pattern; and the recognition by Huggins of a
 considerable number of terrestrial elements as present in stellar
 atmospheres. Nebular chemistry was initiated by the same investigator
 when, on the 29th of August 1864, he observed the bright-line spectrum
-of a planetary nebula in Draco. About seventy analogous objects,
+of a planetary nebula in [[Draco]]. About seventy analogous objects,
 including that in the Sword of Orion, were found by him to give light of
 the same quality; and thus after seventy-three years, verification was
 brought to William Herschel's hypothesis of a "shining fluid" diffused
@@ -2875,7 +2875,7 @@ diversities, and gave it organic meaning by connecting spectral
 differences with advance in "age." And in 1895, he set apart, as in the
 earliest stage of growth, a new class of "helium stars," supposed to
 develop successively into Sirian, solar, Antarian, or alternatively into
-carbon stars.
+[[Carbon|carbon]] stars.
 
 
   Spectra of comets.
@@ -2909,7 +2909,7 @@ chief traits of absorption were the rhythmical series of hydrogen-lines,
 then memorably discovered. Again by Sir William Huggins, the spectrum of
 the Orion nebula was photographed on the 7th of March 1882; and the
 method has gradually become nearly exclusive in the study of nebular
-emanations. The "Draper Catalogue" of 10,351 stellar spectra was
+emanations. The "[[Draper]] Catalogue" of 10,351 stellar spectra was
 published by Professor E.C. Pickering in 1890. The materials for it were
 rapidly accumulated by the use of an objective prism, that is, of a
 prism placed in front of, instead of behind the object-lens, by which
@@ -2917,7 +2917,7 @@ means the spectra of all the stars in the field, to the number often of
 many score, imprinted themselves simultaneously on the sensitive plate.
 The progress of this survey was marked by a number of important
 discoveries of "new" and variable stars and of spectroscopic binaries,
-mainly through the acumen of Mrs Williamina Paton Fleming of Harvard
+mainly through the acumen of Mrs Williamina Paton [[Fleming]] of Harvard
 College in scrutinizing the negatives forming the data for the great
 catalogue.
 
@@ -2942,7 +2942,7 @@ shifted, to a certain definite extent, into visibility, and so produce
 accurate chromatic compensation. Integrated light, accordingly, tells
 nothing about velocity; but analysed light does, when it includes bright
 or dark rays the normal positions of which are known. The distinction
-was pointed out by Hippolyte Fizeau in 1848. By comparison with their
+was pointed out by Hippolyte [[Fizeau]] in 1848. By comparison with their
 analogues in the laboratory it can be determined whether, in which
 direction, and how much, lines of recognized origin are displaced in the
 spectra of the heavenly bodies. This subtle mode of research was made
@@ -2978,14 +2978,14 @@ the new astronomies meet and join forces.
   Cornewall Lewis, _An Historical Survey of the Astronomy of the
   Ancients_ (1862); J.B.J. Delambre, _Hist. de l'astr. ancienne; Hist.
   de l'astr. au moyen age; Hist. de l'astr. moderne; Hist, de l'astr. au
-  XVIII^e siecle_; J.S. Bailly, _Histoire de l'astronomie_ (5 vols.,
+  XVIII^e siecle_; J.S. [[Bailly]], _Histoire de l'astronomie_ (5 vols.,
   1775-1787); J.F. Weidler, _Historia Astronomiae_ (1741); J.H. Madler,
   _Geschichte der Himmelskunde_ (1873); R. Wolf, _Geschichte der
   Astronomie_ (1876); _Handbuch der Astronomie_ (1890-1892); W. Whewell,
-  _Hist. of the Inductive Sciences_; A.M. Clerke, _Hist. of Astronomy
-  during the 19th Century_ (4th ed., 1903); A. Berry, _Hist. of
+  _Hist. of the Inductive Sciences_; A.M. [[Clerke]], _Hist. of Astronomy
+  during the 19th Century_ (4th ed., 1903); A. [[Berry]], _Hist. of
   Astronomy_ (1898); J.K. Schaubach, _Geschichte der griechischen
-  Astronomie bis auf Eratosthenes_ (1802); Th. H. Martin, "Memoire sur
+  Astronomie bis auf Eratosthenes_ (1802); Th. H. [[Martin]], "Memoire sur
   l'histoire des hypotheses astronomiques," _Memoires de l'lnstitut_, t.
   xxx. (Paris, 1881); P. Tannery, _Recherches sur l'histoire de
   l'astronomie ancienne_ (1893); O. Gruppe, _Die kosmischen Systeme der
@@ -2993,7 +2993,7 @@ the new astronomies meet and join forces.
   (1873); _Le Sfere Omocentriche di Eudosso_ (1875); P. Jensen,
   _Kosmologie der Babylonier_ (1890); F.X. Kugler, _Die babylonische
   Mondrechnung_ (1900); J. Epping and J.N. Strassmeier, _Astronomisches
-  aus Babylon_ (1889); F.K. Ginzel, _Die astronomischen Kenntnisse der
+  aus [[Babylon]]_ (1889); F.K. Ginzel, _Die astronomischen Kenntnisse der
   Babylonier_ (1901); C.L. Ideler, _Historische Untersuchungen uber die
   astronomischen Beobachtungen der Alten_ (1806); _Handbuch der math.
   Chronologie_ (2 vols., 1825-1826); _Untersuchungen uber den Ursprung
@@ -3008,7 +3008,7 @@ FOOTNOTES:
 
   [1] _The Observatory_, Nos. 231-234, 1895.
 
-  [2] _Observations of Comets_, translated from the Chinese _Annals_ by
+  [2] _Observations of Comets_, translated from the Chinese _[[Annals]]_ by
    John Williams, F.S.A. (1871).
 
   [3] J.L.E. Dreyer, _Proc. Roy. Irish Acad._ vol. iii. No. 7 (December
@@ -3019,13 +3019,13 @@ FOOTNOTES:
 
   [5] _Knowledge and Scientific News_, vol. i. pp. 2, 228.
 
-  [6] _Astronomisches aus Babylon_ (Freiburg im Breisgau, 1889).
+  [6] _Astronomisches aus Babylon_ ([[Freiburg]] im [[Breisgau]], 1889).
 
   [7] Ginzel, loc. cit. Heft ii. p. 204.
 
   [8] _Die babylonische Mondrechnung_, p. 50 (1900).
 
-  [9] S. Newcomb, _Astr. Nach._ No. 3682; P.H. Cowell, _Month. Notices
+  [9] S. Newcomb, _Astr. Nach._ No. 3682; P.H. [[Cowell]], _Month. Notices
     Roy. Astr. Soc._ lxv. 867.
 
   [10] G.V. Schiaparelli, _I Precursori del Copernico_, pp. 23-28,

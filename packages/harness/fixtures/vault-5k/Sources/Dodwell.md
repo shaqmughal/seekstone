@@ -12,19 +12,19 @@ writer, was born at Dublin in October, 1641. His father, having lost his
 property in Connaught during the rebellion, settled at York in 1648.
 Here Henry received his preliminary education at the free school. In
 1654 he was sent by his uncle to Trinity College, Dublin, of which he
-subsequently became scholar and fellow. Having conscientious objections
+subsequently became scholar and [[Fellow|fellow]]. Having conscientious objections
 to taking orders he relinquished his fellowship in 1666, but in 1688 he
 was elected Camden professor of history at Oxford. In 1691 he was
 deprived of his professorship for refusing to take the oath of
 allegiance to William and Mary. Retiring to Shottesbrooke in Berkshire,
 and living on the produce of a small estate in Ireland, he devoted
-himself to the study of chronology and ecclesiastical polity. Gibbon
+himself to the study of [[Chronology|chronology]] and ecclesiastical polity. Gibbon
 speaks of his learning as "immense," and says that his "skill in
 employing facts is equal to his learning," although he severely
 criticizes his method and style. Dodwell's works on ecclesiastical
 polity are more numerous and of much less value than those on
 chronology, his judgment being far inferior to his power of research. In
-his earlier writings he was regarded as one of the greatest champions of
+his earlier writings he was regarded as one of the greatest [[Champion|champions]] of
 the non-jurors; but the doctrine which he afterwards promulgated, that
 the soul is naturally mortal, and that immortality could be enjoyed only
 by those who had received baptism from the hands of one set of regularly

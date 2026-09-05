@@ -1,14 +1,14 @@
 # Lamarck
 
-LAMARCK, JEAN BAPTISTE PIERRE ANTOINE DE MONET, CHEVALIER DE
+LAMARCK, JEAN [[Baptiste|BAPTISTE]] PIERRE [[Antoine|ANTOINE]] DE MONET, [[Chevalier|CHEVALIER]] DE
 (1744-1829), French naturalist, was born on the 1st of August 1744, at
 Bazantin, a village of Picardy. He was an eleventh child; and his
 father, lord of the manor and of old family, but of limited means,
 having placed three sons in the army, destined this one for the church,
-and sent him to the Jesuits at Amiens, where he continued till his
+and sent him to the [[Jesuits]] at Amiens, where he continued till his
 father's death. After this he would remain with the Jesuits no longer,
 and, not yet seventeen years of age, started for the seat of war at
-Bergen-op-Zoom, before which place one of his brothers had already been
+[[Bergen-Op-Zoom|Bergen-op-Zoom]], before which place one of his brothers had already been
 killed. Mounted on an old horse, with a boy from the village as
 attendant, and furnished by a lady with a letter of introduction to a
 colonel, he reached his destination on the evening before a battle. Next
@@ -38,7 +38,7 @@ through several editions and long kept the field, gained for its author
 immediate popularity as well as admission to the Academy of Sciences.
 
 In 1781 and 1782, under the title of botanist to the king, an
-appointment obtained for him by Buffon, whose son accompanied him, he
+appointment obtained for him by [[Buffon]], whose son accompanied him, he
 travelled through various countries of Europe, extending his knowledge
 of natural history; and on his return he began those elaborate
 contributions to botany on which his reputation in that science
@@ -52,7 +52,7 @@ _Insecta_ and _Vermes_ of Linnaeus, the animals for which he introduced
 the term _Invertebrata_. Thus driven, comparatively late in life, to
 devote his principal attention to zoology instead of botany, he had the
 misfortune soon after to suffer from impaired vision; and the malady
-resulted subsequently in total blindness. Yet his greatest zoological
+resulted subsequently in total [[Blindness|blindness]]. Yet his greatest zoological
 work, the _Histoire naturelle des animaux sans vertèbres_, was published
 from 1815 to 1822, with the assistance, in the last two volumes, of his
 eldest daughter and of P. A. Latreille (1762-1833). A volume of plates
@@ -68,7 +68,7 @@ into both the distinctive features and the resemblances of forms. That
 part of his zoological work which constitutes his solid claim to the
 highest honour as a zoologist is to be found in his extensive and
 detailed labours in the departments of living and fossil _Invertebrata_.
-His endeavours at classification of the great groups were necessarily
+His endeavours at [[Classification|classification]] of the great groups were necessarily
 defective on account of the imperfect knowledge possessed in his time in
 regard to many of them, e.g. echinoderms, ascidians and intestinal
 worms; yet they are not without interest, particularly on account of the
@@ -77,11 +77,11 @@ those groups that appeared to present a segmented construction.
 Moreover, Lamarck was the first to distinguish vertebrate from
 invertebrate animals by the presence of a vertebral column, and among
 the Invertebrata to found the groups _Crustacea_, _Arachnida_ and
-_Annelida_. In 1785 (_Hist. del' Acad._) he evinced his appreciation of
+_[[Annelida]]_. In 1785 (_Hist. del' Acad._) he evinced his appreciation of
 the necessity of natural orders in botany by an attempt at the
 classification of plants, interesting, though crude and falling
 immeasurably short of the system which grew in the hands of his intimate
-friend A. L. de Jussieu. The problem of taxonomy has never been put more
+friend A. L. de [[Jussieu]]. The problem of taxonomy has never been put more
 philosophically than he subsequently put it in his _Animaux sans
 vertèbres_: "What arrangement must be given to the general distribution
 of animals to make it conformable to the order of nature in the
@@ -91,7 +91,7 @@ The most prominent defect in Lamarck must be admitted to have been want
 of control in speculation. Doubtless the speculative tendency furnished
 a powerful incentive to work, but it outran the legitimate deductions
 from observation, and led him into the production of volumes of
-worthless chemistry without experimental basis, as well as into spending
+worthless [[Chemistry|chemistry]] without experimental basis, as well as into spending
 much time on fruitless meteorological predictions. His _Annuaires
 Météorologiques_ were published yearly from 1800 to 1810, and were not
 discontinued until after an unnecessarily public and brutal tirade from
@@ -128,16 +128,16 @@ his _Histoire naturelle des animaux sans vertèbres_, 1815):--
   by generation and transmitted to the new individuals which proceed
   from those which have undergone those changes."
 
-The second law is often referred to as Lamarck's hypothesis of the
+The second law is often referred to as Lamarck's [[Hypothesis|hypothesis]] of the
 evolution of organs in animals by appetence or longing, although he does
 not teach that the animal's desires affect its conformation directly,
 but that altered wants lead to altered habits, which result in the
 formation of new organs as well as in modification, growth or dwindling
 of those previously existing. Thus, he suggests that, ruminants being
-pursued by carnivora, their legs have grown slender; and, their legs
+pursued by carnivora, their [[Leg|legs]] have grown slender; and, their legs
 being only fit for support, while their jaws are weak, they have made
 attack with the crown of the head, and the determination of fluids
-thither has led to the growth of horns. So also the stretching of the
+thither has led to the growth of [[Horn|horns]]. So also the stretching of the
 giraffe's neck to reach the foliage he supposes to have led to its
 elongation; and the kangaroo, sitting upright to support the young in
 its pouch, he imagines to have had its fore-limbs dwarfed by disuse, and

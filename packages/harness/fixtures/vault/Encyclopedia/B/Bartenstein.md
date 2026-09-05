@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bartenstei
 
 BARTENSTEIN, a town of Germany, in the kingdom of Prussia, on the Alle, 34
 m. S. of Königsberg by rail. Pop. (1900) 6805. It has a considerable trade
-in corn and live stock, and its industries comprise founding and
+in [[Corn|corn]] and live stock, and its industries comprise founding and
 carriage-building, tanneries, breweries and potteries. Bartenstein is
 celebrated for the treaty concluded here on the 26th of April 1807, between
 Prussia and Russia.

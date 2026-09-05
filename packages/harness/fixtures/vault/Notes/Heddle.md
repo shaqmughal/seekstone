@@ -1,10 +1,10 @@
 # Heddle
 
-HEDDLE, MATTHEW FORSTER (1828-1897), Scottish mineralogist, was born at
+HEDDLE, [[Matthew|MATTHEW]] FORSTER (1828-1897), Scottish mineralogist, was born at
 Hoy in Orkney on the 28th of April 1828. After receiving his early
 education at the Edinburgh academy, he entered as a medical student at
-the university in that city, and subsequently studied chemistry and
-mineralogy at Klausthal and Freiburg. In 1851 he took his degree of M.D.
+the university in that city, and subsequently studied [[Chemistry|chemistry]] and
+mineralogy at Klausthal and [[Freiburg]]. In 1851 he took his degree of M.D.
 at Edinburgh, and for about five years practised there. Medical work,
 however, possessed for him little attraction; he became assistant to
 Prof. Connell, who held the chair of chemistry at St Andrews, and in

@@ -1,9 +1,9 @@
 # Germanium
 
 GERMANIUM (symbol Ge, atomic weight 72.5); one of the metallic elements
-included in the same natural family as carbon, silicon, tin and lead. It
-was discovered in 1886 by C. Winkler in argyrodite, a mineral found at
-Freiberg in Saxony. On examination of the metal and its salts it was
+included in the same natural family as [[Carbon|carbon]], silicon, tin and lead. It
+was discovered in 1886 by C. Winkler in [[Argyrodite|argyrodite]], a mineral found at
+[[Freiberg]] in Saxony. On examination of the metal and its salts it was
 shown to be identical with the hypothetical element _ekasilicon_, whose
 properties had been predicted by D. Mendeleeff many years previously.
 The element is of extremely rare occurrence, being met with only in
@@ -11,25 +11,25 @@ argyrodite and, to a very small extent, in euxenite. It may be obtained
 from argyrodite by heating the mineral in a current of hydrogen; or by
 heating the dioxide to redness with carbon. It forms grey coloured
 octahedra of specific gravity 5.496 at 20 deg. C., melting at 900 deg.
-C.; it burns at a red heat, is insoluble in hydrochloric acid, but
+C.; it [[Burns|burns]] at a red heat, is insoluble in hydrochloric acid, but
 dissolves in _aqua regia_, and is also soluble in molten alkalis. Two
 oxides of germanium are known, the _dioxide_, GeO2, being obtained by
 roasting the sulphide and treatment with nitric acid. It is a white
 powder, very slightly soluble in water, and possesses acid properties.
 By heating with a small quantity of magnesium it is converted into
-_germanious oxide_, GeO. By heating the metal with chlorine, _germanic
+_germanious oxide_, GeO. By heating the metal with [[Chlorine|chlorine]], _germanic
 chloride_, GeCl4, is obtained as a colourless fuming liquid boiling at
 86-87 deg. C., it is decomposed by water forming a hydrated germanium
-dioxide. _Germanium dichloride_, GeCl2, and _germanium chloroform_,
+dioxide. _Germanium dichloride_, GeCl2, and _germanium [[Chloroform|chloroform]]_,
 GeHCl3, have also been described.
 
-Germanium compounds on fusion with alkaline carbonates and sulphur form
+Germanium compounds on [[Fusion|fusion]] with alkaline carbonates and sulphur form
 salts known as _thiogermanates_. If excess of a mineral acid be added to
 a solution of an alkaline thiogermanate a white precipitate of
 _germanium disulphide_, GeS2, is obtained. It can also be obtained by
 passing sulphuretted hydrogen through a solution of the dioxide in
 hydrochloric acid. It is appreciably soluble in water, and also in
-solutions of the caustic alkalis and alkaline sulphides. By heating the
+solutions of the [[Caustic|caustic]] alkalis and alkaline sulphides. By heating the
 disulphide in a current of hydrogen, _germanious sulphide_, GeS, is
 formed. It sublimes in thin plates of a dark colour and metallic lustre,
 and is soluble in solutions of the caustic alkalis. Alkyl compounds of
@@ -47,11 +47,11 @@ spark spectrum of the element, deduced the value 72.3.
 
 GERMAN LANGUAGE. Together with English and Frisian, the German language
 forms part of the West Germanic group of languages. To this group
-belongs also Langobardian, a dialect which died out in the 9th or 10th
+belongs also Langobardian, a [[Dialect|dialect]] which died out in the 9th or 10th
 century, while Burgundian, traces of which are not met with later than
 the 5th century, is usually classed with the East Germanic group. Both
 these tongues were at an early stage crushed out by Romance dialects, a
-fate which also overtook the idiom of the Western Franks, who, in the
+[[Fate|fate]] which also overtook the [[Idiom|idiom]] of the Western [[Franks]], who, in the
 so-called _Strassburg Oaths_[1] of 842, use the Romance tongue, and are
 addressed in that tongue by Louis the German.
 
@@ -59,8 +59,8 @@ Leaving English and Frisian aside, we understand by _Deutsche_
 _Sprache_ the language of those West Germanic tribes, who, at their
 earliest appearance in history, spoke a Germanic tongue, and still speak
 it at the present day. The chief of these tribes are: the Saxons, the
-Franks (but with the restriction noted above), the Chatti (Hessians),
-Thuringians, Alemannians and Bavarians. This definition naturally
+Franks (but with the restriction noted above), the [[Chatti]] (Hessians),
+Thuringians, Alemannians and Bavarians. This [[Definition|definition]] naturally
 includes the languages spoken in the Low Countries, Flemish and Dutch,
 which are offsprings of the Low Franconian dialect, mixed with Frisian
 and Saxon elements; but, as the literary development of these languages
@@ -69,29 +69,29 @@ language, they are excluded from the present survey.
 
 The German language, which is spoken by about seventy-one millions, and
 consequently occupies in this respect the third place among European
-languages, borders, in the west and south, on Romance languages (French,
+languages, [[Borders|borders]], in the west and south, on Romance languages (French,
 Italian), and also to some extent on Slavonic. On Italian and Slovenian
 territory there are several German-speaking "islands," notably the Sette
-and Tredici Communi, east and north-east of the Lake of Garda, and the
-"Gottschee Landchen" to the south of Laibach. The former of these is,
+and Tredici Communi, east and north-east of the Lake of [[Garda]], and the
+"Gottschee Landchen" to the south of [[Laibach]]. The former of these is,
 however, on the point of dying out. Neighbours on the east, where the
 boundary line runs by no means as straight as on the west or south, are
-the Magyars and again Slavonic races. Here, too, there are numerous
-"islands" on Hungarian and Slavonic territory. Danes and Frisians join
+the [[Magyars]] and again Slavonic races. Here, too, there are numerous
+"islands" on Hungarian and Slavonic territory. Danes and [[Frisians]] join
 hands with the Germans in the north.[2]
 
 In the west and south the German language has, compared with its status
 in earlier periods, undoubtedly lost ground, having been encroached upon
-by Romance tongues. This is the case in French Flanders, in Alsace and
-Lorraine, at any rate before the war of 1870, in the valleys south of
+by Romance tongues. This is the case in French [[Flanders]], in Alsace and
+[[Lorraine]], at any rate before the war of 1870, in the valleys south of
 Monte Rosa and in southern Tirol; in Styria and Carinthia the
 encroachment is less marked, but quite perceptible. On the east, on the
 other hand, German steadily spread from the days of Charles the Great
 down to recent times, when it has again lost considerable ground in
 Bohemia, Moravia and Livonia. At the time of Charles the Great the
-eastern frontier extended very little beyond the lower Elbe, following
-this river beyond Magdeburg, whence it passed over to the Saale, the
-Bohemian forest and the river Enns (cf. the map in F. Dahn,
+eastern frontier extended very little beyond the lower [[Elbe]], following
+this river beyond [[Magdeburg]], whence it passed over to the Saale, the
+Bohemian forest and the river Enns (cf. the [[Map|map]] in F. Dahn,
 _Urgeschichte der germanischen und romanischen Volker_, vol. iii.).
 Partly as a result of victories gained by the Germans over the Avars and
 Slavs, partly owing to peaceful colonization, the eastern boundary was
@@ -99,7 +99,7 @@ pushed forward in subsequent centuries; Bohemia was in this way won for
 the German tongue by German colonists in the 13th century, Silesia even
 a little earlier; in Livonia German gained the upper hand during the
 13th century, while about the same time the country of the Prussians was
-conquered and colonized by the knights of the Teutonic order. The
+conquered and colonized by the [[Knight|knights]] of the Teutonic order. The
 dialect which these colonists and knights introduced bore the Middle
 German character; and this, in various modifications, combined with Low
 German and even Dutch elements, formed the German spoken in these
@@ -114,7 +114,7 @@ in the Latin form _theotiscus_, _lingua theotisca_, _teutisca_, in
 certain Latin writings of the 8th and 9th centuries, whereas the
 original Old High German word _thiudisc_, _tiutisc_ (from _thiot_,
 _diot_, "people," and the suffix _-isc_) signified only "appertaining to
-the people," "in the manner of the people." Cf. also Gothic
+the people," "in the manner of the people." Cf. also [[Gothic]]
 _[thorn]iudisko_ as a translation of [Greek: ethnikos] (Gal. ii. 14).
 It, therefore, seems probable that if the application of the word to the
 language (_lingua theotisca_) was not exactly an invention of Latin
@@ -127,7 +127,7 @@ written language in the dialects of Old High German and Old Low German.
 Of an "Urdeutsch" or primitive German, i.e. the common language from
 which these sharply distinguished dialects of the earliest historical
 period must have developed, we have no record; we can only infer its
-character--and it was itself certainly not free from dialectic
+character--and it was itself certainly not free from [[Dialectic|dialectic]]
 variations--by a study of the above-named and other Germanic dialects. It
 is usual to divide the history of the German language from this earliest
 period, when it appears only in the form of proper names and isolated
@@ -249,15 +249,15 @@ spoken throughout the German-speaking area.
   and High German, the so-called _Benrather Linie_, may roughly be
   indicated by the following place-names, on the understanding, however,
   that the Ripuarian dialect (see below) is to be classed with High
-  German: Montjoie (French border-town), Eupen, Aachen, Benrath,
-  Dusseldorf, north of Siegen, Cassel, Heiligenstadt, Harzgerode, to the
+  German: Montjoie (French border-town), [[Eupen]], Aachen, Benrath,
+  Dusseldorf, north of Siegen, [[Cassel]], Heiligenstadt, Harzgerode, to the
   Elbe south of Magdeburg; this river forms the boundary as far as
   Wittenberg, whence the line passes to Lubben on the Spree, Furstenwald
   on the Oder and Birnbaum near the river Warthe. Beyond this point the
   Low Germans have Slavs as their neighbours. Compared with the
   conditions in the 13th century, it appears that Low German has lost
   ground; down to the 14th and 15th centuries several towns, such as
-  Mansfeld, Eisleben, Merseburg, Halle, Dessau and Wittenberg, spoke Low
+  Mansfeld, Eisleben, Merseburg, [[Halle]], [[Dessau]] and Wittenberg, spoke Low
   German.
 
   Low German falls into two divisions, a western division, namely, Low
@@ -267,14 +267,14 @@ spoken throughout the German-speaking area.
   is to be sought in the ending of the first and third person plural of
   the present indicative of verbs, this being in the former case _-en_,
   in the latter _-et_. Inasmuch as the south-eastern part of Low
-  Franconian--inclusive of Gelderland and Cleves--shifts final _k_ to
+  Franconian--inclusive of [[Gelderland]] and Cleves--shifts final _k_ to
   _ch_ (e.g. _ich_, _mich_, _auch_, _-lich_), it must obviously be
   separated from the rest, and in this respect be grouped with High
   German. Low Saxon is usually divided into Westphalian (to the west of
   the Weser) and Low Saxon proper, between Weser and Elbe. The
   south-eastern part of the latter has the verbal ending -en and further
   shows the peculiarity that the personal pronoun has the same form in
-  the dative and accusative (_mik_, _dick_), whereas the remainder, as
+  the [[Dative|dative]] and accusative (_mik_, _[[Dick|dick]]_), whereas the remainder, as
   well as the Westphalian, has _mi_, _di_ in the dative, and _mi_, _di_
   or _mik_, _dik_ in the accusative. To these Low German dialects must
   also be added those spoken east of the Elbe on what was originally
@@ -285,27 +285,27 @@ spoken throughout the German-speaking area.
   B. THE HIGH GERMAN DIALECTS
 
   1. _The Middle German Group._--This group, which comprises the
-  dialects of the Middle Rhine, of Hesse, Thuringia, Upper Saxony
+  dialects of the Middle Rhine, of [[Hesse]], Thuringia, Upper Saxony
   (Meissen), Silesia and East Prussia to the east of the lower Vistula
-  between Bischofswerder, Marienburg, Elbing, Wormditt and Wartenberg--a
+  between Bischofswerder, [[Marienburg]], [[Elbing]], Wormditt and Wartenberg--a
   district originally colonized from Silesia--may be most conveniently
   divided into an East and a West Middle German group. A common
   characteristic of all these dialects is the diminutive suffix _-chen_,
-  as compared with the Low German form _-ken_ and the Upper German
+  as compared with the Low German form _-[[Ken|ken]]_ and the Upper German
   _-lein_ (O.H.G. _lin_). East Middle German consists of Silesian, Upper
   Saxon and Thuringian,[9] together with the linguistic colony in East
   Prussia. While these dialects have shifted initial Germanic _p_ to
   _ph_, or even to _f_ (_fert_ = _Pferd_), the West Middle German
   dialects (roughly speaking to the west of the watershed of Werra and
-  Fulda) have retained it. If, following a convincing article in the
-  _Zeitschrift fur deutsches Altertum_ (37, 288 ff.) by F. Wrede, we
+  [[Fulda]]) have retained it. If, following a convincing article in the
+  _Zeitschrift [[Fur|fur]] deutsches Altertum_ (37, 288 ff.) by F. Wrede, we
   class East and South Franconian--both together may be called High
   Franconian--with the Upper German dialects, there only remain in the
   West Middle German group:[10] (a) Middle Franconian and (b) Rhenish
   Franconian. The former of these,[11] which with its _dat_, _wat_,
   _allet_, &c. (cf. above) and its retention of the voiced spirant _b_
   (written _v_) represents a kind of transition dialect to Low German,
-  is itself divided into ([alpha]) Ripuarian or Low Rhenish with Cologne
+  is itself divided into ([alpha]) Ripuarian or Low Rhenish with [[Cologne]]
   and Aachen (Aix-la-Chapelle) as centres, and ([beta]) Moselle
   Franconian[12] with Trier (Treves) as principal town. The latter is
   distinguished by the fact that in the Middle High German period it
@@ -340,15 +340,15 @@ spoken throughout the German-speaking area.
   Upper German dialects employ the _lenis_.
 
   The Alemannic dialect which, roughly speaking, is separated from
-  Bavarian by the Lech and borders on Italian territory in the south and
+  Bavarian by the [[Lech]] and borders on Italian territory in the south and
   on French in the west, is subdivided into: (a) Swabian, the dialect of
   the kingdom of Wurttemberg and the north-western part of Tirol (cf. H.
   Fischer, _Geographie der schwabischen Mundart_, 1895); (b) High
   Alemannic (Swiss), including the German dialects of Switzerland, of
-  the southern part of the Black Forest (the Basel-Breisgau dialect),
+  the southern part of the [[Black Forest]] (the Basel-Breisgau dialect),
   and that of Vorarlberg; (c) Low Alemannic, comprising the dialects of
   Alsace and part of Baden (to the north of the Feldberg and south of
-  Rastatt), also, at the present day, the town of Basel. Only Swabian
+  Rastatt), also, at the present day, the town of [[Basel]]. Only Swabian
   has taken part in the change of _i_ to _ei_, &c., mentioned above,
   while initial Germanic _k_ has been shifted to _ch_ ([chi]) only in
   High Alemannic (cf. _chalt_, _chind_, _chorn_, for _kalt_, _kind_,
@@ -403,7 +403,7 @@ spoken throughout the German-speaking area.
   southwards to Middle and Upper Germany where, however, certain
   consonants seem to have protected the stem syllable from the influence
   of _i_ in a following syllable. Cf., for instance, Modern High German
-  _drucken_ and _drucken_; _glauben_, _kaufen_, _Haupt_, words which in
+  _drucken_ and _drucken_; _glauben_, _kaufen_, _[[Haupt]]_, words which in
   Middle German dialects show mutation. Orthographically, however, this
   process is, during the first period, only to be seen in the change of
   _a_ to _e_; from the 10th century onwards there are, it is true, some
@@ -434,13 +434,13 @@ spoken throughout the German-speaking area.
   in the literature of the first period. But this literature, the chief
   monuments of which are Otfrid's _Evangelienbuch_ (in South
   Franconian), the Old Saxon _Heliand_ (a life of Christ in alliterative
-  verse), the translation of Tatian's _Gospel Harmony_ (East Franconian)
-  and that of a theological tract by Bishop Isidore of Seville and of
+  verse), the translation of Tatian's _[[Gospel]] Harmony_ (East Franconian)
+  and that of a theological tract by Bishop [[Isidore Of Seville|Isidore of Seville]] and of
   parts of the Bible (Rhenish Franconian), is almost exclusively
   theological and didactic in character. One is consequently inclined to
   attach more value to the scanty remains of the _Hildebrandslied_ and
-  some interesting and ancient charms. The didactic spirit again
-  pervades the translations and commentaries of Notker of St Gall in the
+  some interesting and ancient [[Charm|charms]]. The didactic spirit again
+  pervades the translations and commentaries of Notker of St [[Gall]] in the
   early part of the 11th century, as well as a paraphrase of the _Song
   of Songs_ by an abbot Williram of Ebersberg a little later. Latin,
   however, reigned supreme throughout this period, it being the language
@@ -487,10 +487,10 @@ spoken throughout the German-speaking area.
   great importance for the formation of the Modern German literary
   language. This is the lengthening of originally short vowels in open
   syllables,[17] for example, in Modern High German _Tages_, _Weges_,
-  _lobe_ (Middle High German _tages_, _weges_, _lobe_). In Austria, on
+  _[[Lobe|lobe]]_ (Middle High German _tages_, _weges_, _lobe_). In Austria, on
   the other hand, there began as far back as the first half of the 12th
   century another movement of equal importance for Modern High German,
-  namely, the conversion of the long vowels, _i_, _u_, _u_, into _ei_
+  namely, the [[Conversion|conversion]] of the long vowels, _i_, _u_, _u_, into _ei_
   (_ou_), _au_, _eu_ (_au_).[18] It is, therefore, in MSS. written in
   the south-east that we find forms like _zeit_, _lauter_ (_loter_),
   _heute_, &c., for the first time. With the exception of Low German and
@@ -528,9 +528,9 @@ spoken throughout the German-speaking area.
   substantives belonging to other classes; there is, for instance, an
   increase in the number of neuter nouns taking _-er_ (_-ir_) in the
   plural, and of those which show mutation in the plural on the model of
-  the _i-_ stems (O.H.G. _gast_, pl. _gesti_; cf. forms like _ban_,
-  _benne_; _hals_, _helse_; _wald_, _welde_). Of changes in syntax the
-  gradual decay in the use of the genitive case dependent on a noun or
+  the _i-_ stems (O.H.G. _gast_, pl. _gesti_; cf. forms like _[[Ban|ban]]_,
+  _benne_; _[[Hals|hals]]_, _helse_; _wald_, _welde_). Of changes in syntax the
+  [[Gradual|gradual]] decay in the use of the genitive case dependent on a noun or
   governed by a verb (cf. constructions like _eine brunne rotes goldes_,
   or _des todes wunschen_) towards the end of the period, and also the
   disappearance of the Old High German sequence of tenses ought at least
@@ -541,11 +541,11 @@ spoken throughout the German-speaking area.
   literary expression; its power of expression was increased and it
   acquired a beauty of style hitherto unknown. This was the period of
   the _Minnesang_ and the great popular and court epics, of Walther von
-  der Vogelweide, Hartmann von Aue, Wolfram von Eschenbach and Gottfried
+  der Vogelweide, Hartmann von [[Aue]], Wolfram von Eschenbach and Gottfried
   von Strassburg; it was a period when literature enjoyed the fostering
   care of the courts and the nobility. At the same time German prose
   celebrated its first triumphs in the sermons of Berthold von
-  Regensburg, and in the mystic writings and sermons of Meister Eckhart,
+  Regensburg, and in the mystic writings and sermons of Meister [[Eckhart]],
   Tauler and others. History (Eike von Repkow's _Weltchronik_) and law
   (_Sachsenspiegel_, _Schwabenspiegel_) no longer despised the
   vernacular, and from about the middle of the 13th century German
@@ -557,7 +557,7 @@ spoken throughout the German-speaking area.
   literary language.[21] About the year 1200 there was undoubtedly a
   marked tendency towards a unification of the literary language on the
   part of the more careful poets like Walther von der Vogelweide,
-  Hartmann von Aue and Gottfried von Strassburg; they avoid, more
+  Hartmann von Aue and [[Gottfried Von Strassburg|Gottfried von Strassburg]]; they avoid, more
   particularly in their rhymes, dialectic peculiarities, such as the
   Bavarian dual forms _es_ and _enk_, or the long vowels in unstressed
   syllables, retained in Alemannic, and they do not make use of archaic
@@ -594,14 +594,14 @@ spoken throughout the German-speaking area.
   used officially by the various chanceries (_Kanzleien_), and more
   especially the imperial chancery. Since the days of Charles IV.
   (1347-1378) the latter had striven after a certain uniform language in
-  the documents it issued, and by the time of Maximilian I. (1493-1519)
+  the documents it issued, and by the time of [[Maximilian]] I. (1493-1519)
   all its official documents were characterized by pretty much the same
   phonology, forms and vocabulary, in whatever part of Germany they
   originated. And under Maximilian's successor, Charles V., the
   conditions remained pretty much the same. The fact that the seat of
   the imperial chancery had for a long time been in Prague, led to a
   mingling of Upper and Middle German sounds and inflections; but when
-  the crown came with Frederick III. (1440-1493) to the Habsburgs, the
+  the crown came with Frederick III. (1440-1493) to the [[Habsburg|Habsburgs]], the
   Upper German elements were considerably increased. The chancery of the
   Saxon electorate, whose territory was exclusively Middle German, had
   to some extent, under the influence of the imperial chancery, allowed
@@ -617,7 +617,7 @@ spoken throughout the German-speaking area.
 
   In the midst of this development arose the imposing figure of Luther,
   who, although by no means the originator of a common High German
-  speech, helped very materially to establish it. He deliberately chose
+  speech, helped very materially to establish it. He deliberately [[Chose|chose]]
   (cf. the often quoted passage in his _Tischreden_, ch. 69) the
   language of the Saxon chancery as the vehicle of his Bible translation
   and subsequently of his own writings. The differences between Luther's
@@ -655,10 +655,10 @@ spoken throughout the German-speaking area.
   of the Middle German district (Thuringia and Silesia), and it did not
   find any great difficulty in penetrating into Low Germany, at least
   into the towns and districts lying to the east of the Saale and Elbe
-  (Magdeburg, Hamburg). One may say that about the middle of the 16th
+  (Magdeburg, [[Hamburg]]). One may say that about the middle of the 16th
   century Luther's High German was the language of the chanceries, about
   1600 the language of the pulpit (the last Bible in Low German was
-  printed at Goslar in 1621) and the printing presses. Thus the
+  printed at [[Goslar]] in 1621) and the printing presses. Thus the
   aspirations of Low Germany to have a literary language of its own were
   at an early stage crushed. Protestant Switzerland, on the other hand,
   resisted the "uncommon new German" until well into the 17th century.
@@ -668,7 +668,7 @@ spoken throughout the German-speaking area.
   hand to Protestant ideas. At the same time, geographical and political
   conditions, as well as the pronounced character of the Upper German
   dialects, formed an important obstacle to a speedy unification. South
-  German grammarians of the 16th century, such as Laurentius Albertus,
+  German grammarians of the 16th century, such as [[Laurentius]] Albertus,
   raise a warning voice against those who, although far distant from the
   proper use of words and the true pronunciation, venture to teach _nos
   puriores Germanos_, namely, the Upper Germans.
@@ -676,17 +676,17 @@ spoken throughout the German-speaking area.
   In 1593 J. Helber, a Swiss schoolmaster and notary, spoke of three
   separate dialects as being in use by the printing presses:[22] (1)
   _Mitteldeutsch_ (the language of the printers in Leipzig, Erfurt,
-  Nuremberg, Wurzburg, Frankfort, Mainz, Spires, Strassburg and Cologne;
+  Nuremberg, Wurzburg, [[Frankfort]], [[Mainz]], Spires, Strassburg and Cologne;
   at the last mentioned place in the event of their attempting to print
   _Ober-Teutsch_); (2) _Donauisch_ (the printers' language in South
   Germany, but limited to Bavaria and Swabia proper--here more
-  particularly the Augsburg idiom, which was considered to be
-  particularly _zierlich_);[23] (3) _Hochst Reinisch_, which corresponds
+  particularly the [[Augsburg]] idiom, which was considered to be
+  particularly _zierlich_);[23] (3) _[[Hochst]] Reinisch_, which corresponds
   to Swiss German. Thus in the 16th century Germany was still far from
   real unity in its language; but to judge from the number and the
   geographical position of the towns which printed in _Mitteldeutsch_ it
   is pretty clear which idiom would ultimately predominate. During the
-  17th century men like M. Opitz (_Buch von der deutschen Poeterey_) and
+  17th century men like M. Opitz (_[[Buch]] von der deutschen Poeterey_) and
   J.G. Schottelius (_Teutsche Sprachkunst_, 1641, and _Von der teutschen
   Sprachkunst_, 1663), together with linguistic societies like the
   _Fruchtbringende Gesellschaft_ and the Nuremberg _Pegnitzorden_, did a
@@ -707,12 +707,12 @@ spoken throughout the German-speaking area.
   become the rule as a plural sign (Vater, Baume). How difficult, even
   in the first half of the 18th century, it was for a Swiss to write the
   literary language which Luther had established is to be seen from the
-  often quoted words of Haller (1708-1777): "I am a Swiss, the German
+  often quoted words of [[Haller]] (1708-1777): "I am a Swiss, the German
   language is strange to me, and its choice of words was almost unknown
   to me." The Catholic south clung firmly to its own literary language,
   based on the idiom of the imperial chancery, which was still an
   influential force in the 17th century or on local dialects. This is
-  apparent in the writings of Abraham a Sancta Clara,[25] who died in
+  apparent in the writings of Abraham a Sancta [[Clara]],[25] who died in
   1709, or in the attacks of the Benedictine monk, Augustin Dornbluth,
   on the _Meissner Schriftsprache_ in 1755.
 
@@ -741,8 +741,8 @@ spoken throughout the German-speaking area.
   German literary style underwent a similar rejuvenation, for we are on
   the threshold of the second classical period of German literature. It
   had strengthened Gottsched's hand as a linguistic reformer that the
-  earlier leaders of German literature, such as Gellert, Klopstock and
-  Lessing, were Middle Germans; now Wieland's influence, which was
+  earlier leaders of German literature, such as [[Gellert]], [[Klopstock]] and
+  [[Lessing]], were Middle Germans; now Wieland's influence, which was
   particularly strong in South Germany, helped materially towards the
   establishment of one accepted literary language throughout all
   German-speaking countries; and the movement reaches its culmination
@@ -799,7 +799,7 @@ spoken throughout the German-speaking area.
   1898); K. von Raumer, _Geschichte der germanischen Philologie_
   (Munich, 1870); J. Grimm, _Deutsche Grammatik_ (4 vols., vols. i.-iii.
   in new edition, 1870-1890); Dieter, _Laut- und Formenlehre der
-  altgermanischen Dialekte_ (2 vols., Leipzig, 1898-1900); F. Kauffmann,
+  altgermanischen Dialekte_ (2 vols., Leipzig, 1898-1900); F. [[Kauffmann]],
   _Deutsche Grammatik_ (2nd ed., 1895); W. Wilmanns, _Deutsche
   Grammatik_, so far, vols, i., ii. and iii., 1 (Strassburg, 1893-1906,
   vol. i., 2nd ed., 1897); O. Brenner, _Grundzuge der geschichtlichen
@@ -813,7 +813,7 @@ spoken throughout the German-speaking area.
   _Untersuchungen zur Geschichte der altsachsichen Sprache_, i.
   (Gottingen, 1892); O. Schade, _Altdeutsches Worterbuch_ (2nd ed.,
   Halle, 1872-1882); G.E. Graff, _Althochdeutscher Sprachschatz_ (6
-  vols., Berlin, 1834-1842) (Index by Massmann, 1846); E. Steinmeyer and
+  vols., Berlin, 1834-1842) ([[Index]] by Massmann, 1846); E. Steinmeyer and
   E. Sievers, _Althochdeutsche Glossen_ (4 vols., Berlin, 1879-1898);
   J.A. Schmeller, _Glossarium Saxonicum_ (Munich, 1840); K. Weinhold,
   _Mittelhochdeutsche Grammatik_ (3rd ed., Paderborn, 1892); H. Paul,
@@ -835,7 +835,7 @@ spoken throughout the German-speaking area.
   kursachsischen Kanzleisprache" (in the _Zeitschrift des Vereins fur
   kursachsische Geschichte_, ix. p. 349); the same, "Luthers Stellung
   zur kursachsischen Kanzleisprache" (in _Germania_, xxviii. pp. 191
-  ff.); P. Pietsch, _Martin Luther und die hochdeutsche Schriftsprache_
+  ff.); P. Pietsch, _[[Martin]] Luther und die hochdeutsche Schriftsprache_
   (Breslau, 1883); K. Burdach, _Die Einigung der neuhochdeutschen
   Schriftsprache_, (1883); E. Opitz, _Die Sprache Luthers_ (Halle,
   1869); J. Luther, _Die Sprache Luthers in der Septemberbibel_ (Halle,
@@ -847,7 +847,7 @@ spoken throughout the German-speaking area.
   Bahder, _Grundlagen des neuhochdeutschen Lautsystems_ (Strassburg,
   1890); R. Meyer, _Einfuhrung in das altere Neuhochdeutsche_ (Leipzig,
   1894); W. Scheel, _Beitrage zur Geschichte der neuhochdeutschen
-  Gemeinsprache in Koln_ (Marburg, 1892); R. Brandstetter, _Die
+  Gemeinsprache in Koln_ ([[Marburg]], 1892); R. Brandstetter, _Die
   Rezeption der neuhochdeutschen Schriftsprache in Stadt und Landschaft
   Luzern_ (1892); K. Burdach, "Zur Geschichte der neuhochdeutschen
   Schriftsprache" (_Forschungen zur deutschen Philologie_, 1894); the
@@ -856,7 +856,7 @@ spoken throughout the German-speaking area.
   jungen Schiller_ (Dissertation, 1900); F. Kluge, "Uber die Entstehung
   unserer Schriftsprache" (Beihefte zur _Zeitschrift des allgemeinen
   Sprachvereins_, Heft 6, 1894); A. Waag, _Bedeutungsentwickelung
-  unseres Wortschatzes_ (Lahr, 1901).
+  unseres Wortschatzes_ ([[Lahr]], 1901).
 
   Mention must also be made of the work of the German commission of the
   Royal Prussian Academy, which in 1904 drew up plans for making an
@@ -896,9 +896,9 @@ FOOTNOTES:
     Mountains.
 
   [5] Of writers who have made extensive use of dialects, it must
-    suffice to mention here the names of J.H. Voss, Hebel, Klaus Groth,
-    Fritz Reuter, Usteri, G.D. Arnold, Holtei, Castelli, J.G. Seidl and
-    Anzengruber, and in our own days G. Hauptmann.
+    suffice to mention here the names of J.H. Voss, [[Hebel]], Klaus Groth,
+    Fritz Reuter, Usteri, G.D. [[Arnold]], [[Holtei]], [[Castelli]], J.G. Seidl and
+    [[Anzengruber]], and in our own days G. Hauptmann.
 
   [6] Cf. F. Staub and L. Tobler, _Schweizerisches Idiotikon_ (1881
     ff.); E. Martin and F. Lienhart, _Worterbuch der elsassischen
@@ -906,8 +906,8 @@ FOOTNOTES:
     Worterbuch_ (Tubingen, 1901 ff.). Earlier works, which are already
     completed, are J.A. Schmeller, _Bayrisches Worterbuch_ (2nd ed., 2
     vols., Munich, 1872-1877); J.B. Schopf, _Tiroler Idiotikon_
-    (Innsbruck, 1886); M. Lexer, _Karntisches Worterbuch_ (1862); H.
-    Gradl, _Egerlander Worterbuch_, i. (Eger, 1883); A.F.C. Vilmar,
+    ([[Innsbruck]], 1886); M. Lexer, _Karntisches Worterbuch_ (1862); H.
+    Gradl, _Egerlander Worterbuch_, i. ([[Eger]], 1883); A.F.C. Vilmar,
     _Idiotikon von Kurhessen_ (Marburg, 1883) (with supplements by H. von
     Pfister); W. Crecelius, _Oberhessisches Worterbuch_ (Darmstadt,
     1890-1898). Professor J. Franck is responsible for a _Rheinisches
@@ -965,7 +965,7 @@ FOOTNOTES:
     Lessiak, "Die Mundart von Pernegg in Karnten" (Paul and Braune,
     _Beitrage_, vol. xxviii.).
 
-  [16] Cf., for a hypothesis of two _Umlautsperioden_ during the Old
+  [16] Cf., for a [[Hypothesis|hypothesis]] of two _Umlautsperioden_ during the Old
     High German time, F. Kauffmann, _Geschichte der schwabischen Mundart_
     (Strassburg, 1890), S. 152.
 
@@ -985,7 +985,7 @@ FOOTNOTES:
     eine mhd. Schriftsprache?_ (Halle, 1873); O. Behaghel, _Zur Frage
     nach einer mhd. Schriftsprache_ (Basel, 1886) (Cf. Paul and Braune's
     _Beitrage_, xiii. p. 464 ff.); A. Socin, _Schriftsprache und
-    Dialekte_ (Heilbronn, 1888); H. Fischer, _Zur Geschichte des
+    Dialekte_ ([[Heilbronn]], 1888); H. Fischer, _Zur Geschichte des
     Mittelhochdeutschen_ (Tubingen, 1889); O. Behaghel, _Schriftsprache
     und Mundart_ (Giessen, 1896); K. Zwierzina, _Beobachtungen zum
     Reimgebrauch Hartmanns und Wolframs_ (Haile, 1898); S. Singer, _Die
@@ -1002,7 +1002,7 @@ FOOTNOTES:
     pp. 15 ff.
 
   [23] A German _Priamel_ mentions as an essential quality in a
-    beautiful woman: "die red dort her von Swaben."
+    beautiful woman: "die red [[Dort|dort]] her von Swaben."
 
   [24] Cf. for a detailed discussion of the noun declension, K.
     Boiunga, _Die Entwicklung der mhd. Substantivflexion_ (Leipzig,
@@ -1010,7 +1010,7 @@ FOOTNOTES:
     articles by H. Molz, "Die Substantivflexion seit mhd. Zeit," in Paul
     and Braune's _Beitrage_, xxvii. p. 209 ff. and xxxi. 277 ff. For the
     changes in the gender of nouns, A. Polzin, _Geschlechtswandel der
-    Substantiva im Deutschen_ (Hildesheim, 1903).
+    Substantiva im Deutschen_ ([[Hildesheim]], 1903).
 
   [25] Cf. C. Blanckenburg, _Studien uber die Sprache Abrahams a S.
     Clara_ (Halle, 1897); H. Strigl, "Einiges uber die Sprache des P.
@@ -1047,7 +1047,7 @@ course; it falls into more or less isolated groups, separated from each
 other by periods which in intellectual darkness and ineptitude are
 virtually without a parallel in other European lands. The explanation of
 this irregularity of development is to be sought less in the chequered
-political history of the German people--although this was often reason
+[[Political History|political history]] of the German people--although this was often reason
 enough--than in the strongly marked, one might almost say, provocative
 character of the national mind as expressed in literature. The Germans
 were not able, like their partially latinized English cousins--or even
@@ -1059,7 +1059,7 @@ outside forces, even when the latter--like the influence of English
 literature in the 18th century and of Scandinavian at the close of the
 19th--were hailed as friendly and not hostile. It is a peculiarity of
 German literature that in those ages when, owing to its own poverty and
-impotence, it was reduced to borrowing its ideas and its poetic forms
+[[Impotence|impotence]], it was reduced to borrowing its ideas and its poetic forms
 from other lands, it sank to the most servile imitation; while the first
 sign of returning health has invariably been the repudiation of foreign
 influence and the assertion of the right of genius to untrammelled
@@ -1069,7 +1069,7 @@ the Renaissance, passed over her without producing a single great poet.
 
 This chequered course, however, renders the grouping of German
 literature and the task of the historian the easier. The first and
-simplest classification is that afforded by the various stages of
+simplest [[Classification|classification]] is that afforded by the various stages of
 linguistic development. In accordance with the three divisions in the
 history of the High German language, there is an Old High German, a
 Middle High German and a New High German or Modern High German literary
@@ -1118,7 +1118,7 @@ monasteries; and this, with very few exceptions, Old High German
 literature remained. Translations of the liturgy, of Tatian's _Gospel
 Harmony_ (c. 835), of fragments of sermons, form a large proportion of
 it. Occasionally, as in the so-called _Monsee Fragments_, and at the end
-of the period, in the prose of Notker Labeo (d. 1022), this
+of the period, in the prose of Notker [[Labeo]] (d. 1022), this
 ecclesiastical literature attains a surprising maturity of style and
 expression. But it had no vitality of its own; it virtually sprang into
 existence at the command of Charlemagne, whose policy with regard to the
@@ -1140,14 +1140,14 @@ In fact, for the only genuine poetry of this epoch we have to look, not
 to the High German but to the Low German races. They alone seemed able
 to give literary expression to the memories handed down in oral
 tradition from the 5th century; to Saxon tradition we owe the earliest
-extant fragment of a national saga, the _Lay of Hildebrand_
+extant fragment of a national saga, the _Lay of [[Hildebrand]]_
 (_Hildebrandslied_, c. 800), and a Saxon poet was the author of a
 vigorous alliterative version of the Gospel story, the _Heliand_ (c.
-830), and also of part of the Old Testament (_Genesis_). This
+830), and also of part of the Old Testament (_[[Genesis]]_). This
 alliterative epic--for epic it may be called--is the one poem of this
 age in which the Christian tradition has been adapted to German poetic
 needs. Of the existence of a lyric poetry we only know by hearsay; and
-the drama had nowhere in Europe yet emerged from its earliest purely
+the [[Drama|drama]] had nowhere in Europe yet emerged from its earliest purely
 liturgic condition. Such as it was, the vernacular literature of the Old
 High German period enjoyed but a brief existence, and in the 10th and
 11th centuries darkness again closed over it. The dominant "German"
@@ -1173,7 +1173,7 @@ alone. The Church had no helping hand to offer poetry, as in the more
 liberal epoch of the great Charles; for, at the middle of the 11th
 century, when the linguistic change from Old to Middle High German was
 taking place, a movement of religious asceticism, originating in the
-Burgundian monastery of Cluny, spread across Europe, and before long all
+Burgundian monastery of [[Cluny]], spread across Europe, and before long all
 the German peoples fell under its influence. For a century there was no
 room for any literature that did not place itself unreservedly at the
 service of the Church, a service which meant the complete abnegation of
@@ -1183,10 +1183,10 @@ commentary on the creed by a monk Hartmann (c. 1120), and a poem on "the
 remembrance of death" (_Von des todes gehugede_) by Heinreich von Melk
 (c. 1150); only rarely, as in a few narrative Poems on Old Testament
 subjects, are the poets of this time able to forget for a time their
-lugubrious faith. In the _Ezzolied_ (c. 1060), a spirited lay by a monk
+lugubrious faith. In the _[[Ezzolied]]_ (c. 1060), a spirited lay by a monk
 of Bamberg on the life, miracles and death of Christ, and in the
-_Annolied_ (c. 1080), a poem in praise of the archbishop Anno of
-Cologne, we find, however, some traces of a higher poetic imagination.
+_Annolied_ (c. 1080), a poem in praise of the archbishop [[Anno]] of
+Cologne, we find, however, some traces of a higher poetic [[Imagination|imagination]].
 
 The transition from this rigid ecclesiastic spirit to a freer, more
 imaginative literature is to be seen in the lyric poetry inspired by the
@@ -1205,13 +1205,13 @@ innovators; to them we owe the romance of _Konig Rother_ (c. 1160), and
 the kindred stories of _Orendel_, _Oswald_ and _Salomon und Markolf_
 (_Salman und Morolf_). All these poems bear witness to a new element,
 which in these years kindled the German imagination and helped to
-counteract the austerity of the religious faith--the Crusades. With what
+counteract the austerity of the religious faith--the [[Crusades]]. With what
 alacrity the Germans revelled in the wonderland of the East is to be
-seen especially in the _Alexanderlied_ (c. 1130), and in _Herzog Ernst_
+seen especially in the _Alexanderlied_ (c. 1130), and in _[[Herzog]] Ernst_
 (c. 1180), romances which point out the way to another important
 development of German medieval literature, the Court epic. The latter
 type of romance was the immediate product of the social conditions
-created by chivalry and, like chivalry itself, was determined and
+created by [[Chivalry|chivalry]] and, like chivalry itself, was determined and
 influenced by its French origin; so also was the version of the _Chanson
 de Roland_ (_Rolandslied_, c. 1135), which we owe to another priest,
 Konrad of Regensburg, who, with considerable probability, has been
@@ -1225,7 +1225,7 @@ equally early origin is a knightly romance of _Floris und Blancheflur_,
 another of the favourite love stories of the middle ages. In these
 years, too, the Beast epic, which had been represented by the Latin
 _Ecbasis captivi_, was reintroduced into Germany by an Alsatian monk,
-Heinrich der Glichezaere, who based his _Reinhart Fuchs_ (c. 1180) on the
+Heinrich der Glichezaere, who based his _Reinhart [[Fuchs]]_ (c. 1180) on the
 French _Roman de Renart_. Lastly, we have to consider the beginning of
 the _Minnesang_, or lyric, which in the last decades of the 12th century
 burst out with extraordinary vigour in Austria and South Germany. The
@@ -1257,7 +1257,7 @@ they found themselves in the position of being able to dictate to the
 world of chivalry. In the same way, the German poets, who, in the 12th
 century, had been little better than clumsy translators of French
 romances, were able, at the beginning of the 13th, to substitute for
-French _chansons de geste_ epics based on national sagas, to put a
+French _[[Chansons De Geste|chansons de geste]]_ epics based on national sagas, to put a
 completely German imprint on the French Arthurian romance, and to sing
 German songs before which even the lyric of Provence paled. National
 epic, Court epic and Minnesang--these three types of medieval German
@@ -1270,29 +1270,29 @@ The first place among the National or Popular epics belongs to the
 _Nibelungenlied_, which received its present form in Austria about the
 turn of the 12th and 13th centuries. Combining, as it does, elements
 from various cycles of sagas--the lower Rhenish legend of Siegfried, the
-Burgundian saga of Gunther and Hagen, the Gothic saga of Dietrich and
+Burgundian saga of [[Gunther]] and [[Hagen]], the Gothic saga of [[Dietrich]] and
 Etzel--it stands out as the most representative epic of German medieval
 life. And in literary power, dramatic intensity and singleness of
-purpose its eminence is no less unique. The vestiges of gradual
+purpose its [[Eminence|eminence]] is no less unique. The vestiges of gradual
 growth--of irreconcilable elements imperfectly welded together--may not
 have been entirely effaced, but they in no way lessen the impression of
 unity which the poem leaves behind it; whoever the welder of the sagas
 may have been, he was clearly a poet of lofty imagination and high epic
 gifts (see NIBELUNGENLIED). Less imposing as a whole, but in parts no
 less powerful in its appeal to the modern mind, is the second of the
-German national epics, _Gudrun_, which was written early in the 13th
+German national epics, _[[Gudrun]]_, which was written early in the 13th
 century. This poem, as it has come down to us, is the work of an
 Austrian, but the subject belongs to a cycle of sagas which have their
 home on the shores of the North Sea. It seems almost a freak of chance
 that Siegfried, the hero of the Rhineland, should occupy so prominent a
-position in the _Nibelungenlied_, whereas Dietrich von Bern (i.e. of
+position in the _Nibelungenlied_, whereas Dietrich von [[Bern]] (i.e. of
 Verona), the name under which Theodoric the Great had been looked up to
 for centuries by the German people as their national hero, should have
 left the stamp of his personality on no single epic of the intrinsic
 worth of the _Nibelungenlied_. He appears, however, more or less in the
 background of a number of romances--_Die Rabenschlacht_, _Dietrichs
 Flucht_, _Alpharts Tod_, _Biterolf und Dietlieb_, _Laurin_, &c.--which
-make up what is usually called the _Heldenbuch_. It is tempting, indeed,
+make up what is usually called the _[[Heldenbuch]]_. It is tempting, indeed,
 to see in this very unequal collection the basis for what, under more
 favourable circumstances, might have developed into an epic even more
 completely representative of the German nation than the
@@ -1305,7 +1305,7 @@ group of German medieval poetry, the Court epic. The poet who, following
 Eilhart von Oberge's tentative beginnings, established the Court epic in
 Germany was Heinrich von Veldeke, a native of the district of the lower
 Rhine; his _Eneit_, written between 1173 and 1186, is based on a French
-original. Other poets of the time, such as Herbort von Fritzlar, the
+original. Other poets of the time, such as Herbort von [[Fritzlar]], the
 author of a _Liet von Troye_, followed Heinrich's example, and selected
 French models for German poems on antique themes; while Albrecht von
 Halberstadt translated about the year 1210 the _Metamorphoses_ of Ovid
@@ -1322,7 +1322,7 @@ age with its best models; he had, of all the medieval court poets, the
 most delicate sense for the formal beauty of poetry, for language, verse
 and style. Wolfram and Gottfried, on the other hand, represent two
 extremes of poetic temperament. Wolfram's _Parzival_ is filled with
-mysticism and obscure spiritual significance; its flashes of humour
+mysticism and obscure spiritual significance; its flashes of [[Humour|humour]]
 irradiate, although they can hardly be said to illumine, the gloom; its
 hero is, unconsciously, a symbol and allegory of much which to the poet
 himself must have been mysterious and inexplicable; in other words,
@@ -1348,13 +1348,13 @@ Ulrich von Zatzikhoven, the author of a _Lanzelet_ (c. 1195); Wirnt von
 Gravenberg, a Bavarian, whose _Wigalois_ (c. 1205) shows considerable
 imaginative power; the versatile Spielmann, known as "Der Stricker"; and
 Heinrich von dem Turlin, author of an unwieldy epic, _Die Krone_ ("the
-crown of all adventures," c. 1220). The fascination of Wolfram's
+crown of all adventures," c. 1220). The [[Fascination|fascination]] of Wolfram's
 mysticism is to be seen in _Der jungere Titurel_ of a Bavarian poet,
 Albrecht von Scharfenberg (c. 1270), and in the still later _Lohengrin_
 of an unknown poet; whereas Gottfried von Strassburg dominates the
 _Flore und Blanscheflur_ of Konrad Fleck (c. 1220) and the voluminous
 romances of the two chief poets of the later 13th century, Rudolf von
-Ems, who died in 1254, and Konrad von Wurzburg, who lived till 1287. Of
+[[Ems]], who died in 1254, and Konrad von Wurzburg, who lived till 1287. Of
 these, Konrad alone carried on worthily the traditions of the great age,
 and even his art, which excels within the narrow limits of romances like
 _Die Herzemoere_ and _Engelhard_, becomes diffuse and wearisome on the
@@ -1378,7 +1378,7 @@ the _Nibelungenlied_, Walther von der Vogelweide summed up in himself
 all that was best in the group of poetic literature with which he was
 associated--the Minnesang. The early Austrian singers already mentioned,
 poets like Heinrich von Veldeke, who in his lyrics, as in his epic,
-introduced the French conception of _Minne_, or like the manly Friedrich
+introduced the French conception of _Minne_, or like the manly [[Friedrich]]
 von Hausen, and the Swiss imitator of Provencal measures, Rudolf von
 Fenis appear only in the light of forerunners. Even more original
 poets, like Heinrich von Morungen and Walther's own master, Reinmar von
@@ -1408,12 +1408,12 @@ his influence is easily summed up. Contemporaries had been impressed by
 the dual character of Walther's lyric; they distinguished a higher
 courtly lyric, and a lower more outspoken form of song, free from the
 constraint of social or literary conventions. The later Minnesang
-emphasized this dualism. Amongst Walther's immediate contemporaries,
+emphasized this [[Dualism|dualism]]. Amongst Walther's immediate contemporaries,
 high-born poets, whose lives were passed at courts, naturally cultivated
 the higher lyric; but the more gifted and original singers of the time
 rejoiced in the freedom of Walther's poetry of _niedere Minne_. It was,
 in fact, in accordance with the spirit of the age that the latter should
-have been Walther's most valuable legacy to his successors; and the
+have been Walther's most valuable [[Legacy|legacy]] to his successors; and the
 greatest of these, Neidhart von Reuental (c. 1180-c. 1250), certainly
 did not allow himself to be hampered by aristocratic prejudices.
 Neidhart sought the themes of his _hofische Dorfpoesie_ in the village,
@@ -1438,28 +1438,28 @@ moral and didactic applications of literature favoured the development
 of this form of verse. The confusion of didactic purpose with the lyric
 is common to all the later poetry, to that of the learned Marner, of
 Boppe, Rumezland and Heinrich von Meissen, who was known to later
-generations as "Frauenlob." The _Spruchdichtung_, in fact, was one of
+generations as "[[Frauenlob]]." The _Spruchdichtung_, in fact, was one of
 the connecting links between the Minnesang of the 13th and the lyric and
 satiric poetry of the 15th and 16th centuries.
 
 The disturbing and disintegrating element in the literature of the 13th
 century was thus the substitution of a utilitarian didacticism for the
-idealism of chivalry. In the early decades of that century, poems like
+[[Idealism|idealism]] of chivalry. In the early decades of that century, poems like
 _Der Winsbeke_, by a Bavarian, and _Der welsche Gast_, written in
-1215-1216 by Thomasin von Zirclaere (Zirclaria), a native of Friuli,
+1215-1216 by Thomasin von Zirclaere (Zirclaria), a native of [[Friuli]],
 still teach with uncompromising idealism the duties and virtues of the
 knightly life. But in the _Bescheidenheit_ (c. 1215-1230) of a wandering
-singer, who called himself Freidank, we find for the first time an
-active antagonism to the unworldly code of chivalry and an unmistakable
+singer, who called himself [[Freidank]], we find for the first time an
+active antagonism to the unworldly [[Code|code]] of chivalry and an unmistakable
 reflection of the changing social order, brought about by the rise of
 what we should now call the middle class. Freidank is the spokesman of
 the _Burger_, and in his terse, witty verses may be traced the germs of
 German intellectual and literary development in the coming
 centuries--even of the Reformation itself. From the advent of Freidank
-onwards, the satiric and didactic poetry went the way of the epic; what
+onwards, the satiric and [[Didactic Poetry|didactic poetry]] went the way of the epic; what
 it gained in quantity it lost in quality and concentration. The satires
 associated with the name of Seifried Helbling, an Austrian who wrote in
-the last fifteen years of the 13th century, and _Der Renner_ by Hugo von
+the last fifteen years of the 13th century, and _Der Renner_ by [[Hugo]] von
 Trimberg, written at the very end of the century, may be taken as
 characteristic of the later period, where terseness and incisive wit
 have given place to diffuse moralizing and allegory.
@@ -1507,7 +1507,7 @@ von hurnen Seyfried_, the _Heldenbuch_ was recast in _Knittelvers_ or
 doggerel (1472), and even the Arthurian epic was parodied. A no less
 marked symptom of decadence is to be seen in a large body of allegorical
 poetry analogous to the _Roman de la rose_ in France; Heinzelein of
-Constance, at the end of the 13th, and Hadamar von Laber and Hermann von
+Constance, at the end of the 13th, and Hadamar von Laber and [[Hermann]] von
 Sachsenheim, about the middle of the 15th century, were representatives
 of this movement. As time went on, prose versions of the old stories
 became more general, and out of these developed the _Volksbucher_, such
@@ -1541,7 +1541,7 @@ High German period in the 14th and 15th centuries. Turning now to the
 more positive side of the literary movement, we have to note a revival
 of a popular lyric poetry--the Volkslied--which made the futility and
 artificiality of the Meistergesang more apparent. Never before or since
-has Germany been able to point to such a rich harvest of popular poetry
+has Germany been able to point to such a rich [[Harvest|harvest]] of popular poetry
 as is to be seen in the Volkslieder of these two centuries. Every form
 of popular poetry is to be found here--songs of love and war, hymns and
 drinking-songs, songs of spring and winter, historical ballads, as well
@@ -1558,15 +1558,15 @@ dominate in large measure the literature of the 15th and 16th centuries;
 they are the literary descendants of the medieval _Pfaffe Amis_,
 _Markolf_ and _Reinhart Fuchs_. An important development of this type of
 popular literature is to be seen in the _Narrenschiff_ of Sebastian
-Brant (1457-1521), where the humorous anecdote became a vehicle of the
+[[Brant]] (1457-1521), where the humorous anecdote became a vehicle of the
 bitterest satire; Brant's own contempt for the vulgarity of the
 ignorant, and the deep, unsatisfied craving of all strata of society for
-a wider intellectual horizon and a more humane and dignified life, to
+a wider intellectual [[Horizon|horizon]] and a more humane and dignified life, to
 which Brant gave voice, make the _Narrenschiff_, which appeared in 1494,
 a landmark on the way that led to the Reformation. Another form--the
 Beast fable and Beast epic--which is but sparingly represented in
 earlier times, appealed with peculiar force to the new generation. At
-the very close of the Middle High German period, Ulrich Boner had
+the very close of the Middle High German period, Ulrich [[Boner]] had
 revived the Aesopic fable in his _Edelstein_ (1349), translations of
 Aesop in the following century added to the popularity of the fable
 (q.v.), and in the century of the Reformation it became, in the hands of
@@ -1576,7 +1576,7 @@ polemic. A still more attractive form of the Beast fable was the epic of
 _Reinke de Vos_, which had been cultivated by Flemish poets in the 13th
 and 14th centuries and has come down to us in a Low Saxon translation,
 published at Lubeck in 1498. This, too, like Brant's poem, is a powerful
-satire on human folly, and is also, like the _Narrenschiff_, a harbinger
+satire on human folly, and is also, like the _Narrenschiff_, a [[Harbinger|harbinger]]
 of the coming Reformation.
 
 A complete innovation was the drama (q.v.), which, as we have seen, had
@@ -1596,7 +1596,7 @@ Alsatian, Dietrich Schernberg, in 1480. Meanwhile, in the 15th century,
 a beginning had been made of a drama entirely independent of the church.
 The mimic representations--originally allegorical in character--with
 which the people amused themselves at the great festivals of the year,
-and more especially in spring, were interspersed with dialogue, and
+and more especially in spring, were interspersed with [[Dialogue|dialogue]], and
 performed on an improvised stage. This was the beginning of the
 _Fastnachtsspiel_ or Shrovetide-play, the subject of which was a comic
 anecdote similar to those of the many collections of _Schwanke_. Amongst
@@ -1608,7 +1608,7 @@ with Nuremberg.
 beginnings of the 15th century, the real significance of the period in
 Germany's intellectual history is to be sought outside literature,
 namely, in two forces which immediately prepared the way for the
-Reformation--mysticism and humanism. The former of these had been a more
+Reformation--mysticism and [[Humanism|humanism]]. The former of these had been a more
 or less constant factor in German religious thought throughout the
 middle ages, but with Meister Eckhart (? 1260-1327), the most powerful
 and original of all the German mystics, with Heinrich Seuse or Suso (c.
@@ -1626,13 +1626,13 @@ Prague in 1348, and it made even greater strides than mysticism. Its
 immediate influence, however, was restricted to the educated classes;
 the pre-Reformation humanists despised the vernacular and wrote and
 thought only in Latin. Thus although neither Johann Reuchlin of
-Pforzheim (1455-1522), nor even the patriotic Alsatian, Jakob Wimpfeling
+Pforzheim (1455-1522), nor even the patriotic Alsatian, [[Jakob]] Wimpfeling
 (or Wimpheling) (1450-1528)--not to mention the great Dutch humanist
 Erasmus of Rotterdam (1466-1536)--has a place in the history of German
 literature, their battle for liberalism in thought and scholarship
 against the narrow orthodoxy of the Church cleared the way for a healthy
 national literature among the German-speaking peoples. The incisive wit
-and irony of humanistic satire--we need only instance the _Epistolae
+and [[Irony|irony]] of humanistic satire--we need only instance the _Epistolae
 obscurorum virorum_ (1515-1517)--prevented the German satirists of the
 Reformation age from sinking entirely into that coarse brutality to
 which they were only too prone. To the influence of the humanists we
@@ -1676,16 +1676,16 @@ point until the following century.
 The most powerful and virile literature of this age was the satire with
 which the losing side retaliated on the Protestant leaders. Amongst
 Luther's henchmen, Philipp Melanchthon (1497-1560), the "praeceptor
-Germaniae," and Ulrich von Hutten (1488-1523) were powerful allies in
+Germaniae," and Ulrich von [[Hutten]] (1488-1523) were powerful allies in
 the cause, but their intellectual sympathies were with the Latin
 humanists; and with the exception of some vigorous German prose and
 still more vigorous German verse by Hutten, both wrote in Latin. The
-satirical dramas of Niklas Manuel, a Swiss writer and the polemical
+satirical dramas of Niklas [[Manuel]], a Swiss writer and the polemical
 fables of Erasmus Alberus (c. 1500-1553), on the other hand, were
 insignificant compared with the fierce assault on Protestantism by the
 Alsatian monk, Thomas Murner (1475-1537). The most unscrupulous of all
 German satirists, Murner shrank from no extremes of scurrility, his
-attacks on Luther reaching their culmination in the gross personalities
+attacks on Luther reaching their culmination in the [[Gross|gross]] personalities
 of _Von dem lutherischen Narren_ (1522). It was not until the following
 generation that the Protestant party could point to a satirist who in
 genius and power was at all comparable to Murner, namely, to Johann
@@ -1715,7 +1715,7 @@ was founded by J. Wimpfeling with his _Stylpho_ (1470) and by J.
 Reuchlin with his witty adaptation of _Maitre Patelin_ in his _Henno_
 (1498). In the 16th century the chief writers of Latin dramas were
 Thomas Kirchmair or Naogeorgus (1511-1563), Caspar Brulow (1585-1627),
-and Nikodemus Frischlin (1547-1590), who also wrote dramas in the
+and Nikodemus [[Frischlin]] (1547-1590), who also wrote dramas in the
 vernacular. The work of these men bears testimony in its form and its
 choice of subjects to the close relationship between Latin and German
 drama in the 16th century. One of the earliest focusses for a German
@@ -1737,7 +1737,7 @@ legacy, embracing every form of popular literature from _Spruch_ and
 _Schwank_ to complicated _Meistergesang_ and lengthy drama. He laid
 under contribution the rich Renaissance literature with which the
 humanistic translators had flooded Germany, and he became himself an
-ardent champion of the "Wittembergisch Nachtigall" Luther. But in the
+ardent [[Champion|champion]] of the "Wittembergisch Nachtigall" Luther. But in the
 progressive movement of the German drama he played an even smaller role
 than his Swiss and Saxon contemporaries; for his tragedies and comedies
 are deficient in all dramatic qualities; they are only stories in
@@ -1749,7 +1749,7 @@ century the influence of the English drama--brought to Germany by
 English actors--introduced the deficient dramatic and theatrical force
 into the humanistic and "narrative" drama which has just been
 considered. This is to be seen in the work of Jakob Ayrer (d. 1605) and
-Duke Henry Julius of Brunswick (1564-1613). But unfortunately these
+Duke Henry [[Julius]] of Brunswick (1564-1613). But unfortunately these
 beginnings had hardly made themselves felt when the full current of the
 Renaissance was diverted across Germany, bringing in its train the
 Senecan tragedy. Then came the Thirty Years' War, which completely
@@ -1773,7 +1773,7 @@ Reformation age in Germany that we have to regard the old _Volksbucher_
 as its equivalent; and it is significant that of all the prose writings
 of this age, the book which affords the best insight into the temper and
 spirit of the Reformation was just one of these crude _Volksbucher_,
-namely, the famous story of the magician _Doctor Johann Faust_, published
+namely, the famous story of the magician _Doctor Johann [[Faust]]_, published
 at Frankfort in 1587.
 
 
@@ -1802,12 +1802,12 @@ Romance literatures on a people of a purely Germanic stock.
 There were, however, some branches of German poetry which escaped this
 foreign influence. The church hymn, continuing the great Lutheran
 traditions, rose in the 17th century to extraordinary richness both in
-quality and quantity. Paul Gerhardt (1607-1676), the greatest German
+quality and quantity. Paul [[Gerhardt]] (1607-1676), the greatest German
 hymn-writer, was only one of many Lutheran pastors who in this age
 contributed to the German hymnal. On the Catholic side, Angelus
 Silesius, or Johann Scheffler (1624-1677) showed what a wealth of poetry
-lay in the mystic speculations of Jakob Boehme, the gifted shoemaker of
-Gorlitz (1575-1624), and author of the famous _Aurora, oder Morgenrote
+lay in the mystic speculations of Jakob [[Boehme]], the gifted shoemaker of
+[[Gorlitz]] (1575-1624), and author of the famous _[[Aurora]], oder Morgenrote
 im Aufgang_ (1612); while Friedrich von Spee (1591-1635), another
 leading Catholic poet of the century, cultivated the pastoral allegory
 of the Renaissance. The revival of mysticism associated with Boehme
@@ -1817,16 +1817,16 @@ form of pietism, it became, at the close of the period, a force of
 moment in the literary revival. Besides the hymn, the Volkslied, which
 amidst the struggles and confusion of the great war bore witness to a
 steadily growing sense of patriotism, lay outside the domain of the
-literary theorists and dictators, and developed in its own way. But all
+literary theorists and [[Dictator|dictators]], and developed in its own way. But all
 else--if we except certain forms of fiction, which towards the end of
 the 17th century rose into prominence--stood completely under the sway
 of the Latin Renaissance.
 
-The first focus of the movement was Heidelberg, which had been a centre
+The first [[Focus|focus]] of the movement was Heidelberg, which had been a centre
 of humanistic learning in the sixteenth century. Here, under the
 leadership of J.W. Zincgref (1591-1635), a number of scholarly writers
 carried into practice that interest in the vernacular which had been
-shown a little earlier by the German translator of Marot, Paul Schede or
+shown a little earlier by the German translator of [[Marot]], Paul Schede or
 Melissus, librarian in Heidelberg. The most important forerunner of
 Opitz was G.R. Weckherlin (1584-1653), a native of Wurttemberg who had
 spent the best part of his life in England; his _Oden und Gesange_
@@ -1836,7 +1836,7 @@ the greatest, or at least the most influential, was Martin Opitz
 (1597-1639). He was a native of Silesia and, as a student in Heidelberg,
 came into touch with Zincgref's circle; subsequently, in the course of a
 visit to Holland, a more definite trend was given to his ideas by the
-example of the Dutch poet and scholar, Daniel Heinsius. As a poet, Opitz
+example of the Dutch poet and scholar, [[Daniel]] Heinsius. As a poet, Opitz
 experimented with every form of recognized Renaissance poetry from ode
 and epic to pastoral romance and Senecan drama; but his poetry is for
 the most part devoid of inspiration; and his extraordinary fame among
@@ -1856,7 +1856,7 @@ _Elbschwanenorden_ in Hamburg and the _Gekronter Blumenorden an der
 Pegnitz or Gesellschaft der Pegnitzschafer_ in Nuremberg, were the
 centres of literary activity during the unsettled years of the war.
 Although they produced much that was trivial--such as the extraordinary
-_Nurnberger Trichter_ (1647-1653) by G.P. Harsdorffer (1607-1658), a
+_Nurnberger Trichter_ (1647-1653) by G.P. [[Harsdorffer]] (1607-1658), a
 treatise which professed to turn out a fully equipped German poet in the
 space of six hours--these societies also did German letters an
 invaluable service by their attention to the language, one of their
@@ -1867,16 +1867,16 @@ the objects of the _Fruchtbringende Gesellschaft_. Meanwhile the poetic
 centre of gravity in Germany had shifted from Heidelberg to the extreme
 north-east, to Konigsberg, where a group of academic poets gave
 practical expression to the Opitzian theory. Chief among them was Simon
-Dach (1605-1659), a gentle, elegiac writer on whom the laws of the _Buch
+[[Dach]] (1605-1659), a gentle, elegiac writer on whom the laws of the _Buch
 von der deutschen Poeterey_ did not lie too heavily. He, like his more
-manly and vigorous contemporary Paul Fleming (1609-1640), showed, one
+manly and vigorous contemporary Paul [[Fleming]] (1609-1640), showed, one
 might say, that it was possible to write good and sincere poetry
 notwithstanding Opitz's mechanical rules.
 
 In the previous century the most advanced form of literature had been
 satire, and under the new conditions the satiric vein still proved most
 productive; but it was no longer the full-blooded satire of the
-Reformation, or even the rich and luxuriant satiric fancy of Fischart,
+Reformation, or even the rich and luxuriant satiric [[Fancy|fancy]] of Fischart,
 which found expression in the 17th century. Satire pure and simple was
 virtually only cultivated by two Low German poets, J. Lauremberg
 (1590-1658) and J. Rachel (1618-1669), of whom at least the latter was
@@ -1887,8 +1887,8 @@ monk Abraham a Sancta Clara (1644-1709), who had inherited some of his
 predecessor Murner's intellectual gifts. Best of all are the epigrams of
 the most gifted of all the Silesian group of writers, Friedrich von
 Logau (1604-1655). Logau's three thousand epigrams (_Deutsche
-Sinngedichte_, 1654) afford a key to the intellectual temper of the 17th
-century; they are the epitome of their age. Here are to be seen
+Sinngedichte_, 1654) afford a [[Key|key]] to the intellectual temper of the 17th
+century; they are the [[Epitome|epitome]] of their age. Here are to be seen
 reflected the vices of the time, its aping of French customs and its
 contempt for what was national and German; Logau held up to ridicule the
 vain bloodshed of the war in the interest of Christianity, and, although
@@ -1902,17 +1902,17 @@ Sophocles and Seneca, and Johann Rist (1607-1667) in Hamburg, one of the
 few contemporary dramatists, had written plays more in the manner of
 Duke Heinrich Julius of Brunswick than of Opitz. It was not until after
 the latter's death that the chief dramatist of the Renaissance movement
-came forward in the person of Andreas Gryphius (1616-1664). Like Opitz,
+came forward in the person of Andreas [[Gryphius]] (1616-1664). Like Opitz,
 Gryphius also was a Silesian, and a poet of no mean ability, as is to be
 seen from his lyric poetry; but his tragedies, modelled on the stiff
 Senecan pattern, suffered from the lack of a theatre, and from his
-ignorance of the existence of a more highly developed drama in France,
+[[Ignorance|ignorance]] of the existence of a more highly developed drama in France,
 not to speak of England. As it was, he was content with Dutch models. In
 the field of comedy, where he was less hampered by theories of dramatic
 propriety, he allowed himself to benefit by the freedom of the Dutch
-farce and the comic effects of the English actors in Germany; in his
+[[Farce|farce]] and the comic effects of the English actors in Germany; in his
 _Horribilicribrifax_ and _Herr Peter Squentz_--the latter an adaptation
-of the comic scenes of the _Midsummer Night's Dream_--Gryphius has
+of the comic scenes of the _Midsummer Night's [[Dream]]_--Gryphius has
 produced the best German plays of the 17th century.
 
 The German novel of the 17th century was, as has been already indicated,
@@ -1925,13 +1925,13 @@ Moscherosch (1601-1669) in his _Gesichte Philanders von Sittewald_
 (1642-1643) made the _Suenos_ of Quevedo the basis for vivid pictures of
 the life of the time, interspersed with satire. The best German novel of
 the 17th century, _Der abenteurliche Simplicissimus_ (1669) by H.J.
-Christoffel von Grimmelshausen (c. 1625-1676), is a picaresque novel,
+Christoffel von [[Grimmelshausen]] (c. 1625-1676), is a picaresque novel,
 but one that owed little more than its form to the Spaniards. It is in
 great measure the autobiography of its author, and describes with
 uncompromising realism the social disintegration and the horrors of the
 Thirty Years' War. But this remarkable book stands alone;
 Grimmelshausen's other writings are but further contributions to the
-same theme, and he left no disciples worthy of carrying on the tradition
+same theme, and he left no [[Disciple|disciples]] worthy of carrying on the tradition
 he had created. Christian Weise (1642-1708), rector of the Zittau
 gymnasium, wrote a few satirical novels, but his realism and satire are
 too obviously didactic. He is seen to better advantage in his dramas, of
@@ -1939,7 +1939,7 @@ which he wrote more than fifty for performance by his scholars.
 
 The real successor of _Simplicissimus_ in Germany was the English
 _Robinson Crusoe_, a novel which, on its appearance, was immediately
-translated into German (1721); it called forth an extraordinary flood of
+translated into German (1721); it called forth an extraordinary [[Flood|flood]] of
 imitations, the so-called "Robinsonaden," the vogue of which is even
 still kept alive by _Der schweizerische Robinson_ of J.R. Wyss (1812
 ff.). With the exception of J.G. Schnabel's _Insel Felsenburg_
@@ -1950,12 +1950,12 @@ the Renaissance movement, and cultivated by writers like Philipp von
 Zesen (1619-1689), Duke Anton Ulrich of Brunswick (1633-1714), A.H.
 Buchholtz (1607-1671), H.A. von Ziegler (1653-1697)--author of the
 famous _Asiatische Banise_ (1688)--and D.C. von Lohenstein (1635-1683),
-whose _Arminius_ (1689-1690) is on the whole the most promising novel of
-this group. The last mentioned writer and Christian Hofmann von
+whose _[[Arminius]]_ (1689-1690) is on the whole the most promising novel of
+this group. The last mentioned writer and Christian [[Hofmann]] von
 Hofmannswaldau (1617-1679) are sometimes regarded as the leaders of a
 "second Silesian school," as opposed to the first school of Opitz. As
 the cultivators of the bombastic and Euphuistic style of the Italians
-Guarini and Marini, and of the Spanish writer Gongora, Lohenstein and
+Guarini and [[Marini]], and of the Spanish writer Gongora, Lohenstein and
 Hofmannswaldau touched the lowest point to which German poetry ever
 sank.
 
@@ -1975,8 +1975,8 @@ improvement in literary taste, and this is seen in the first instance in
 a substitution for the bombast and conceits of Lohehstein and
 Hofmannswaldau, of poetry on the stricter and soberer lines laid down by
 Boileau. The so-called "court poets" who opposed the second Silesian
-school, men like Rudolf von Canitz (1654-1699), Johann von Besser
-(1654-1729) and Benjamin Neukirch (1665-1729), were not inspired, but
+school, men like Rudolf von [[Canitz]] (1654-1699), Johann von Besser
+(1654-1729) and [[Benjamin]] Neukirch (1665-1729), were not inspired, but
 they had at least a certain "correctness" of taste; and from their midst
 sprang one gifted lyric genius, Johann Christian Gunther (1695-1723),
 who wrote love-songs such as had not been heard in Germany since the
@@ -1984,12 +1984,12 @@ days of the Minnesang. The methods of Hofmannswaldau had obtained
 considerable vogue in Hamburg, where the Italian opera kept the decadent
 Renaissance poetry alive. Here, however, the incisive wit of Christian
 Wernigke's (1661-1725) epigrams was an effective antidote, and Barthold
-Heinrich Brockes (1680-1747), a native of Hamburg, who had been deeply
+Heinrich [[Brockes]] (1680-1747), a native of Hamburg, who had been deeply
 impressed by the appreciation of nature in English poetry, gave the
 artificialities of the Silesians their death-blow. But the influence of
 English literature was not merely destructive in these years; in the
 translations and imitations of the English _Spectator_, _Tatler_ and
-_Guardian_--the so-called _moralische Wochenschriften_--it helped to
+_[[Guardian]]_--the so-called _moralische Wochenschriften_--it helped to
 regenerate literary taste, and to implant healthy moral ideas in the
 German middle classes.
 
@@ -2039,7 +2039,7 @@ to the skill with which they presented their arguments, but to the fact
 that literature itself was in need of greater freedom. It was in fact a
 triumph, not of personalities or of leaders, but of ideas. The effects
 of the controversy are to be seen in a group of Leipzig writers of
-Gottsched's own school, the _Bremer Beitrager_ as they were called after
+Gottsched's own school, the _[[Bremer]] Beitrager_ as they were called after
 their literary organ. These men--C.F. Gellert (1715-1769), the author of
 graceful fables and tales in verse, G.W. Rabener (1714-1771), the mild
 satirist of Saxon provinciality, the dramatist J. Elias Schlegel
@@ -2047,20 +2047,20 @@ satirist of Saxon provinciality, the dramatist J. Elias Schlegel
 number of minor writers--did not set themselves up in active opposition
 to their master, but they tacitly adopted many of the principles which
 the Swiss had advocated. And in the _Bremer Beitrage_ there appeared in
-1748 the first instalment of an epic by F.G. Klopstock (1724-1803), _Der
+1748 the first [[Instalment|instalment]] of an epic by F.G. Klopstock (1724-1803), _Der
 Messias_, which was the best illustration of that lawlessness against
 which Gottsched had protested. More effectively than Bodmer's dry and
 uninspired theorizing, Klopstock's _Messias_, and in a still higher
 degree, his _Odes_, laid the foundations of modern German literature in
 the 18th century. His immediate followers, it is true, did not help to
-advance matters; Bodmer and J.K. Lavater (1741-1801), whose
+advance matters; Bodmer and J.K. [[Lavater]] (1741-1801), whose
 "physiognomic" investigations interested Goethe at a later date, wrote
 dreary and now long forgotten epics on religious themes. Klopstock's
 rhapsodic dramas, together with Macpherson's _Ossian_, which in the
-'sixties awakened a widespread enthusiasm throughout Germany, were
+'sixties awakened a widespread [[Enthusiasm|enthusiasm]] throughout Germany, were
 responsible for the so-called "bardic" movement; but the noisy
 rhapsodies of the leaders of this movement, the "bards" H.W. von
-Gerstenberg (1737-1823), K.F. Kretschmann (1738-1809) and Michael Denis
+[[Gerstenberg]] (1737-1823), K.F. Kretschmann (1738-1809) and Michael Denis
 (1729-1800), had little of the poetic inspiration of Klopstock's _Odes_.
 
 The indirect influence of Klopstock as the first inspired poet of modern
@@ -2070,14 +2070,14 @@ of French culture, had little sympathy for unregulated displays of
 feeling, neither Klopstock nor his imitators were in favour in Berlin,
 but at the university of Halle considerable interest was taken in the
 movement inaugurated by Bodmer. Here, before Klopstock's name was known
-at all, two young poets, J.I. Pyra (1715-1744) and S.G. Lange
+at all, two young poets, J.I. Pyra (1715-1744) and S.G. [[Lange]]
 (1711-1781), wrote _Freundschaftliche Lieder_ (1737), which were direct
 forerunners of Klopstock's rhymeless lyric poetry; and although the
 later Prussian poets, J.W.L. Gleim (1719-1803), J.P. Uz (1720-1796) and
-J.N. Gotz (1721-1781), who were associated with Halle, and K.W. Ramler
+J.N. [[Gotz]] (1721-1781), who were associated with Halle, and K.W. Ramler
 (1725-1798) in Berlin, cultivated mainly the Anacreontic and the
 Horatian ode--artificial forms, which kept strictly within the classic
-canon--yet Friedrich von Hagedorn (1708-1754) in Hamburg showed to what
+canon--yet Friedrich von [[Hagedorn]] (1708-1754) in Hamburg showed to what
 perfection even the Anacreontic and the lighter _vers de societe_ could
 be brought. The Swiss physiologist Albrecht von Haller (1708-1777) was
 the first German poet to give expression to the beauty and sublimity of
@@ -2091,7 +2091,7 @@ under consideration--Lessing and Wieland.
 
 As Klopstock had been the first of modern Germany's inspired poets, so
 Gotthold Ephraim Lessing (1729-1781) was the first critic who brought
-credit to the German name throughout Europe. He was the most
+[[Credit|credit]] to the German name throughout Europe. He was the most
 liberal-minded exponent of 18th-century rationalism. Like his
 predecessor Gottsched, whom he vanquished more effectually than Bodmer
 had done, he had unwavering faith in the classic canon, but "classic"
@@ -2105,11 +2105,11 @@ French classic writers. He looked to England and not to France for the
 regeneration of the German theatre, and his own dramas were pioneer-work
 in this direction. _Miss Sara Sampson_ (1755) is a _burgerliche
 Tragodie_ on the lines of Lillo's _Merchant of London, Minna von
-Barnhelm_ (1767), a comedy in the spirit of Farquhar; in _Emilia
+Barnhelm_ (1767), a comedy in the spirit of Farquhar; in _[[Emilia]]
 Galotti_ (1772), again with English models in view, he remoulded the
 "tragedy of common life" in a form acceptable to the _Sturm und Drang_;
 and finally in _Nathan der Weise_ (1779) he won acceptance for iambic
-blank verse as the medium of the higher drama. His two most promising
+[[Blank|blank]] verse as the medium of the higher drama. His two most promising
 disciples--J.F. von Cronegk (1731-1758), and J.W. von Brawe
 (1738-1758)--unfortunately died young, and C.F. Weisse (1726-1804) was
 not gifted enough to advance the drama in its literary aspects.
@@ -2144,27 +2144,27 @@ popular comic epic of the time, _Die Jobsiade_ (1784), was but little
 influenced by Wieland. The German novel owed much to the example of
 _Agathon_, but the groundwork and form were borrowed from English
 models; Gellert had begun by imitating Richardson in his _Schwedische
-Grafin_ (1747-1748), and he was followed by J.T. Hermes (1738-1821), by
-Wieland's friend Sophie von Laroche (1730-1807), by A. von Knigge
+Grafin_ (1747-1748), and he was followed by J.T. [[Hermes]] (1738-1821), by
+Wieland's friend Sophie von Laroche (1730-1807), by A. von [[Knigge]]
 (1752-1796) and J.K.A. Musaus (1735-1787), the last mentioned being,
 however, best known as the author of a collection of _Volksmarchen_
 (1782-1786). Meanwhile a rationalism, less materialistic and strict than
 that of Wolff, was spreading rapidly through educated middle-class
 society in Germany. Men like Knigge, Moses Mendelssohn, J.G. Zimmermann
 (1728-1795), T.G. von Hippel (1741-1796), Christian Garve (1742-1798),
-J.J. Engel (1741-1802), as well as the educational theorists J.B.
-Basedow (1723-1790) and J.H. Pestalozzi (1746-1827), wrote books and
+J.J. [[Engel]] (1741-1802), as well as the educational theorists J.B.
+[[Basedow]] (1723-1790) and J.H. Pestalozzi (1746-1827), wrote books and
 essays on "popular philosophy" which were as eagerly read as the
 _moralische Wochenschriften_ of the preceding epoch; and with this group
 of writers must also be associated the most brilliant of German
-18th-century satirists, G.C. Lichtenberg (1742-1799).
+18th-century satirists, G.C. [[Lichtenberg]] (1742-1799).
 
 Such was the _milieu_ from which sprang the most advanced pioneer of the
 classical epoch of modern German literature, J.G. Herder (1744-1803).
 The transition from the popular philosophers of the _Aufklarung_ to
 Herder was due in the first instance to the influence of Rousseau; and
 in Germany itself that transition is represented by men like Thomas Abbt
-(1738-1766) and J.G. Hamann (1730-1788). The revolutionary nature of
+(1738-1766) and J.G. [[Hamann]] (1730-1788). The revolutionary nature of
 Herder's thought lay in that writer's antipathy to hard and fast
 systems, to laws imposed upon genius; he grasped, as no thinker before
 him, the idea of historical evolution. By regarding the human race as
@@ -2217,7 +2217,7 @@ the historian Justus Moser (1720-1794) also contributed, may be regarded
 as the manifesto of the _Sturm und Drang_. The effect on Goethe of the
 new ideas was instantaneous; they seemed at once to set his genius free,
 and from 1771 to 1775 he was extraordinarily fertile in poetic ideas and
-creations. His _Gotz von Berlichingen_ (1771-1773), the first drama of
+creations. His _Gotz von [[Berlichingen]]_ (1771-1773), the first drama of
 the _Sturm und Drang_, was followed within a year by the first novel of
 the movement, _Werthers Leiden_ (1774); he dashed off _Clavigo_ and
 _Stella_ in a few weeks in 1774 and 1775, and wrote a large number of
@@ -2230,7 +2230,7 @@ In all forms of literature he set the fashion to his time; the
 Shakespearian restlessness of _Gotz von Berlichingen_ found enthusiastic
 imitators in J.M.R. Lenz (1751-1792), whose _Anmerkungen ubers Theater_
 (1774) formulated theoretically the laws, or defiance of laws, of the
-new drama, in F.M. von Klinger (1752-1831), J.A. Leisewitz (1752-1806),
+new drama, in F.M. von [[Klinger]] (1752-1831), J.A. Leisewitz (1752-1806),
 H.L. Wagner (1747-1779) and Friedrich Muller, better known as Maler
 Muller (1749-1825): The dramatic literature of the _Sturm und Drang_ was
 its most characteristic product--indeed, the very name of the movement
@@ -2240,7 +2240,7 @@ of Shakespearian grandeur impelled and tortured by gigantic passions,
 all considerations of plot, construction and form being regarded as
 subordinate to the development of character. The fiction of the _Sturm
 und Drang_, again, was in its earlier stages dominated by _Werthers
-Leiden_, as may be seen in the novels of F.H. Jacobi (1743-1819) and
+Leiden_, as may be seen in the novels of F.H. [[Jacobi]] (1743-1819) and
 J.M. Miller, who has been already mentioned. Later, in the hands of
 J.J.W. Heinse (1749-1803), author of _Ardinghello_ (1787), Klinger, K.
 Ph. Moritz (1757-1793), whose _Anton Reiser_ (1785) clearly foreshadows
@@ -2256,12 +2256,12 @@ _Kabale und Liebe_, were also admirable stage-plays, and in _Don Carlos_
 (1787) he abandoned prose for the iambic blank verse which Lessing had
 made acceptable in _Nathan der Weise_. The "practical" character of the
 new drama is also to be seen in the work of Schiller's contemporary, O.
-von Gemmingen (1755-1836), the imitator of Diderot, in the excellent
+von Gemmingen (1755-1836), the imitator of [[Diderot]], in the excellent
 domestic dramas of the actors F.L. Schroder (1744-1816) and A.W. Iffland
 (1759-1814), and even in the popular medieval plays, the so-called
 _Ritterdramen_ of which _Gotz von Berlichingen_ was the model. Germany
 owes to the _Sturm und Drang_ her national theatre; permanent theatres
-were established in these years at Hamburg, Mannheim, Gotha, and even at
+were established in these years at Hamburg, [[Mannheim]], [[Gotha]], and even at
 Vienna, which, as may be seen from the dramas of C.H. von Ayrenhoff
 (1733-1819), had hardly then advanced beyond Gottsched's ideal of a
 national literature. The Hofburgtheater of Vienna, the greatest of all
@@ -2299,7 +2299,7 @@ the practical conduct of life.
 Long before _Wilhelm Meister_ appeared, however, German thought and
 literature had arrived at that stability and self-confidence which are
 the most essential elements in a great literary period. In the year of
-Lessing's death, 1781, Immanuel Kant (1724-1804), the great philosopher,
+Lessing's death, 1781, Immanuel [[Kant]] (1724-1804), the great philosopher,
 had published his _Kritik der reinen Vernunft_, and this, together with
 the two later treatises, _Kritik der praktischen Vernunft_ (1788) and
 _Kritik der Urteilskraft_ (1790), placed the Germans in the front rank
@@ -2309,18 +2309,18 @@ aesthetics. His philosophic lyrics, his treatises on _Anmut und Wurde_,
 on the _Asthetische Erziehung des Menschen_ (1795), and _Uber naive und
 sentimentalische Dichtung_ (1795) show, on the philosophic and the
 critical side, the movement of the century from the irresponsible
-subjectivity of _Sturm und Drang_ to the calm idealism of classic
+subjectivity of _Sturm und Drang_ to the [[Calm|calm]] idealism of classic
 attainment. In the same way, German historical writing had in these
 years, under the leadership of men like Justus Moser, Thomas Abbt, I.
 Iselin, F.C. Schlosser, Schiller himself and, greatest of all, Johannes
 von Muller (1752-1809), advanced from disconnected, unsystematic
 chronicling to a clearly thought-out philosophic and scientific method.
-J.G.A. Forster (1754-1794), who had accompanied Cook round the world,
-and Alexander von Humboldt (1769-1859), gave Germany models of clear and
+J.G.A. Forster (1754-1794), who had accompanied [[Cook]] round the world,
+and Alexander von [[Humboldt]] (1769-1859), gave Germany models of clear and
 lucid descriptive writing. In practical politics and economics, when
 once the unbalanced vagaries of undiluted Rousseauism had fallen into
 discredit, Germany produced much wise and temperate thinking which
-prevented the spread of the French Revolution to Germany, and provided a
+prevented the spread of the [[French Revolution]] to Germany, and provided a
 practical basis on which the social and political fabric could be built
 up anew, after the Revolution had made the old regime impossible in
 Europe. Men like Wilhelm von Humboldt (1767-1835) and the philosopher
@@ -2339,7 +2339,7 @@ director of the ducal theatre, could to a great extent control dramatic
 production in Germany. Under his encouragement, Schiller turned from
 philosophy to poetry and wrote the splendid series of classic dramas
 beginning with the trilogy of _Wallenstein_ and closing with _Wilhelm
-Tell_ and the fragment of _Demetrius_; while to Goethe we owe, above
+Tell_ and the fragment of _[[Demetrius]]_; while to Goethe we owe, above
 all, the epic of _Hermann und Dorothea_. Less important were the
 latter's severely classical plays _Die naturliche Tochter_ and
 _Pandora_; but it must not be forgotten that it was chiefly owing to
@@ -2354,12 +2354,12 @@ literature associated with both _Sturm und Drang_ and rationalism was at
 this period palpably decadent; no comparison could be made between the
 magnificent achievements of Goethe and Schiller, or even of Herder and
 Wieland with the "family" dramas of Iffland, still less with the
-extraordinarily popular plays of A. von Kotzebue (1761-1819), or with
+extraordinarily popular plays of A. von [[Kotzebue]] (1761-1819), or with
 those bustling medieval _Ritterdramen_, which were especially cultivated
-in south Germany. There is a wide gap between Moritz's _Anton Reiser_ or
+in south Germany. There is a wide [[Gap|gap]] between Moritz's _Anton Reiser_ or
 the philosophic novels which Klinger wrote in his later years, and
 Goethe's _Meister_; nor can the once so fervently admired novels of Jean
-Paul Richter (1763-1825) take a very high place. Neither the fantastic
+Paul Richter (1763-1825) take a very [[High Place|high place]]. Neither the fantastic
 humour nor the penetrating thoughts with which Richter's books are
 strewn make up for their lack of artistic form and interest; they are
 essentially products of _Sturm und Drang_. Lastly, in the province of
@@ -2413,7 +2413,7 @@ reconciliation of poetry with other provinces of social and intellectual
 life; the hard and fast boundaries which the older critics had set up as
 to what poetry might and might not do, were put aside, and the domain of
 literature was regarded as co-extensive with life itself; painting and
-music, philosophy and ethics, were all accepted as constituent elements
+music, philosophy and [[Ethics|ethics]], were all accepted as constituent elements
 of or aids to Romantic poetry. Fichte, and to a much greater extent,
 F.W.J. von Schelling (1775-1854) were the exponents of the Romantic
 doctrine in philosophy, while the theologian F.E.D. Schleiermacher
@@ -2422,19 +2422,19 @@ religious thought.
 
 The Romantic school, whose chief members were the brothers Schlegel,
 Tieck, Wackenroder and Novalis, was virtually founded in 1798, when the
-Schlegels began to publish their journal the _Athenaeum_; but the actual
+Schlegels began to publish their journal the _[[Athenaeum]]_; but the actual
 existence of the school was of very short duration. Wackenroder and
 Novalis died young, and by the year 1804 the other members were widely
 separated. Two years later, however, another phase of Romanticism became
 associated with the town of Heidelberg. The leaders of this second or
-younger Romantic school were K. Brentano (1778-1842), L.A. von Arnim
+younger Romantic school were K. [[Brentano]] (1778-1842), L.A. von [[Arnim]]
 (1781-1831) and J.J. von Gorres (1776-1848), their organ, corresponding
 to the _Athenaeum_, was the _Zeitung fur Einsiedler_, or
 _Trost-Einsamkeit_, and their most characteristic production the
 collection of _Volkslieder_, published under the title _Des Knaben
 Wunderhorn_ (1805-1808). Compared with the earlier school the Heidelberg
 writers were more practical and realistic, more faithful to nature and
-the commonplace life of everyday. They, too, were interested in the
+the [[Commonplace|commonplace]] life of everyday. They, too, were interested in the
 German past and in the middle ages, but they put aside the idealizing
 glasses of their predecessors and kept to historic truth; they wrote
 historical novels, not stories of an imaginary medieval world as Novalis
@@ -2449,7 +2449,7 @@ Wilhelm Grimm (1785-1863 and 1786-1859) having been in touch with this
 circle in their early days. Again, the Heidelberg poets strengthened the
 national and patriotic spirit of their people; they prepared the way
 for the rising against Napoleon, which culminated in the year 1813, and
-produced that outburst of patriotic song, associated with E.M. Arndt
+produced that outburst of patriotic song, associated with E.M. [[Arndt]]
 (1769-1860), K. Th. Korner (1791-1813) and M. von Schenkendorf
 (1783-1817).
 
@@ -2471,7 +2471,7 @@ favourable soil for the development of Romantic ideas, and the circle of
 poets which gathered round Arnim and Brentano there, either themselves
 demonstrated the decadence of these ideas, or their work contained
 elements which in subsequent years hastened the downfall of the
-movement. Friedrich de la Motte Fouque (1777-1843), for instance, shows
+movement. Friedrich de [[La Motte|la Motte]] Fouque (1777-1843), for instance, shows
 how easy it was for the medieval tastes of the Romanticists to
 degenerate into mediocre novels and plays, hardly richer in genuine
 poetry than were the productions of the later _Sturm und Drang_; and
@@ -2480,7 +2480,7 @@ with preference in his stories, a morbid super-naturalism, which was
 only a decadent form of the early Romantic delight in the world of
 fairies and spirits. The lyric was less sensitive to baleful influences,
 but even here the north German Romantic circle could only point to one
-lyric poet of the first rank, J. von Eichendorff (1788-1857); while in
+lyric poet of the first rank, J. von [[Eichendorff]] (1788-1857); while in
 the poetry of A. von Chamisso (1781-1838) the volatile Romantic
 spirituality is too often wanting. Others again, like Friedrich Ruckert
 (1788-1866), sought the inspiration which Romanticism was no longer able
@@ -2498,7 +2498,7 @@ from Burger, Schiller and Goethe. But, as was the case with so many
 other disciples of the Heidelberg Romanticists, Uhland's interest in the
 German past was the serious interest of the scholar rather than the
 purely poetic interest of the earlier Romantic poets. The merit of the
-Swabian circle, the chief members of which were J. Kerner (1786-1862),
+Swabian circle, the chief members of which were J. [[Kerner]] (1786-1862),
 G. Schwab (1792-1850), W. Waiblinger (1804-1830), W. Hauff (1802-1827)
 and, most gifted of all, E. Morike (1804-1875) was that these writers
 preserved the Romantic traditions from the disintegrating influences to
@@ -2522,7 +2522,7 @@ keenly alive to the new--and for the most part "unclassical"--development
 of literature in England, France and Italy; and his own published work,
 above all, the first part of _Faust_ (1808), _Die Wahlverwandtschaften_
 (1809), _Dichtung und Wahrheit_ (1811-1814, a final volume in 1833),
-_Westostlicher Divan_ (1819), _Wilhelm Meisters Wanderjahre_ (1821-1829)
+_Westostlicher [[Divan]]_ (1819), _Wilhelm Meisters Wanderjahre_ (1821-1829)
 and the second part of _Faust_ (published in 1832 after the poet's
 death), stood in no antagonism to the Romantic ideas of their time. One
 might rather say that Goethe was the bond between the two fundamental
@@ -2546,10 +2546,10 @@ Romantic ideas to the domain of practical religion and politics had
 proved reactionary in its effects; Romanticism became the cloak for a
 kind of Neo-catholicism, and Romantic politics, as enunciated by men
 like F. von Gentz (1764-1832) and Adam Muller (1779-1829), served as an
-apology for the Metternich regime in Austria. Only at the
+[[Apology|apology]] for the Metternich regime in Austria. Only at the
 universities--in Gottingen, Heidelberg and Berlin--did the movement
 continue, in the best sense, to be productive; German philology, German
-historical science and German jurisprudence benefited by Romantic ideas,
+historical science and German [[Jurisprudence|jurisprudence]] benefited by Romantic ideas,
 long after Romantic poetry had fallen into decay. The day of Romanticism
 was clearly over; but a return to the classic and humanitarian spirit of
 the 18th century was impossible. The social condition of Europe had been
@@ -2565,9 +2565,9 @@ his death.
 "Young Germany" did not form a school in the sense in which the word was
 used by the early Romanticists; the bond of union was rather the
 consequence of political persecution. In December 1835 the German "Bund"
-issued a decree suppressing the writings of the "literary school" known
-as "Young Germany," and mentioned by name Heinrich Heine, Karl Gutzkow,
-Ludolf Wienbarg, Theodor Mundt and Heinrich Laube. Of these men, Heine
+issued a [[Decree|decree]] suppressing the writings of the "literary school" known
+as "Young Germany," and mentioned by name Heinrich [[Heine]], Karl [[Gutzkow]],
+Ludolf Wienbarg, Theodor Mundt and Heinrich [[Laube]]. Of these men, Heine
 (1797-1856) was by far the most famous. He had made his reputation in
 1826 and 1827 with _Die Harzreise_ and _Das Buch der Lieder_, both of
 which books show how deeply he was immersed in the Romantic traditions.
@@ -2613,8 +2613,8 @@ present generation are hardly even names. In the domain of scholarship
 and learning the "Young German" movement was associated with the
 supremacy of Hegelianism, the leading spirits being D.F. Strauss
 (1808-1874), author of the _Leben Jesu_ (1835), the historians G.G.
-Gervinus (1805-1871) and W. Menzel (1798-1873), and the philosopher L.A.
-Feuerbach (1804-1872), who, although a disciple of Hegel, ultimately
+[[Gervinus]] (1805-1871) and W. Menzel (1798-1873), and the philosopher L.A.
+[[Feuerbach]] (1804-1872), who, although a disciple of Hegel, ultimately
 helped to destroy the latter's influence.
 
 Outside the immediate circle of "Young Germany," other tentative efforts
@@ -2634,16 +2634,16 @@ Immermann (1796-1840), or with too much, like E. von Raupach
 (1774-1829)--the last named being the chief representative of the
 so-called _Schicksalstragodie_. In those years the Germans were more
 seriously interested in their opera, which, under C.M. Weber, H.A.
-Marschner, A. Lortzing and O. Nicolai, remained faithful to the Romantic
+Marschner, A. [[Lortzing]] and O. Nicolai, remained faithful to the Romantic
 spirit. In Austria, however, the drama followed lines of its own; here,
-at the very beginning of the century, H.J. von Collin (1771-1811)
+at the very beginning of the century, H.J. von [[Collin]] (1771-1811)
 attempted in _Regulus_ and other works to substitute for the lifeless
 pseudo-classic tragedy of Ayrenhoff the classic style of Schiller. His
 attempt is the more interesting, as the long development that had taken
 place in Germany between Gottsched and Schiller was virtually
 unrepresented in Austrian literature. M. von Collin (1779-1824), a
 younger brother of H.J. von Collin, did a similar service for the
-Romantic drama. Franz Grillparzer (1791-1872), Austria's greatest poet,
+Romantic drama. [[Franz]] Grillparzer (1791-1872), Austria's greatest poet,
 began in the school of Mullner with a "fate drama," but soon won an
 independent place for himself; more successfully than any other
 dramatist of the century, he carried out that task which Kleist had
@@ -2657,7 +2657,7 @@ Munch-Bellinghausen (1806-1871), his most promising contemporary, once
 so popular under the pseudonym of Friedrich Halm, soon fell back into
 the trivial sentimentality of the later Romanticists. In other forms of
 dramatic literature Austria could point to many distinguished writers,
-notably the comedy-writer, E. von Bauernfeld (1802-1890), while a host
+notably the comedy-writer, E. von [[Bauernfeld]] (1802-1890), while a host
 of playwrights, chief of whom were F. Raimund (1790-1836) and J. Nestroy
 (1801-1862), cultivated the popular Viennese farce and fairy-play. Thus,
 in spite of Metternich's censorship of the drama, the Viennese theatre
@@ -2674,7 +2674,7 @@ his novels, however, _Die Epigonen_ (1836) and _Munchhausen_
 (1838-1839), Immermann was the spokesman of his time. He looked
 backwards rather than forwards; he saw himself as the belated follower
 of a great literary age rather than as the pioneer of a new one. The
-bankruptcy of Romanticism and the poetically arid era of "Young Germany"
+[[Bankruptcy|bankruptcy]] of Romanticism and the poetically arid era of "Young Germany"
 left him little confidence in the future. Platen, on the other hand,
 went his own way; he, too, was the antagonist both of Romanticism and
 "Young Germany," and with Immermann himself he came into sharp conflict.
@@ -2694,10 +2694,10 @@ literature marked by an extraordinary outburst of political poetry,
 which may be aptly compared with the national and patriotic lyric evoked
 by the year 1813. The principles which triumphed in France at the
 revolution of 1848 were, to a great extent, fought out by the German
-singers of 1841 and 1842. Begun by mediocre talents like N. Becker
+singers of 1841 and 1842. Begun by mediocre talents like N. [[Becker]]
 (1809-1845) and R.E. Prutz (1816-1872), the movement found a vigorous
 champion in Georg Herwegh (1817-1875), who in his turn succeeded in
-winning Ferdinand Freiligrath (1810-1876) for the revolutionary cause.
+winning [[Ferdinand]] Freiligrath (1810-1876) for the revolutionary cause.
 Others joined in the cry for freedom--F. Dingelstedt (1814-1881), A.H.
 Hoffmann von Fallersleben (1798-1874), and a number of Austrians, who
 had even more reason for rebellion and discontent than the north
@@ -2713,7 +2713,7 @@ age, was only temporarily interested in the political movement, and his
 best work is of a purely lyric character. M. von Strachwitz's
 (1822-1847) promising talent did not flourish in the political
 atmosphere; Annette von Droste-Hulshoff (1797-1848), and the Austrian,
-Nikolaus Lenau (1802-1850), both stand far removed from the world of
+Nikolaus [[Lenau]] (1802-1850), both stand far removed from the world of
 politics; they are imbued with that pessimistic resignation which is,
 more or less, characteristic of all German literature between 1850 and
 1870.
@@ -2730,7 +2730,7 @@ half of the 19th century in his ban, was still all-powerful in the
 universities, but his power was on the wane in literature and public
 life. The so-called "Hegelian Left" had advanced so far as to have
 become incompatible with the original Hegelianism; the new social and
-economic theories did not fit into the scheme of Hegelian collectivism;
+economic theories did not fit into the scheme of Hegelian [[Collectivism|collectivism]];
 the interest in natural science--fostered by the popular books of J.
 Moleschott (1822-1893), Karl Vogt (1817-1895) and Ludwig Buchner
 (1824-1899)--created a healthy antidote to the Hegelian metaphysics. In
@@ -2769,18 +2769,18 @@ Novels_. But Alexis had no successor, and the historical novel soon made
 way for a type of fiction in which the accurate reproduction of remote
 conditions was held of more account than poetic inspiration or artistic
 power. Such are the "antiquarian" novels of ancient Egyptian life by
-Georg Ebers (1837-1898), and those from primitive German history by
-Felix Dahn (born 1834). The vogue of historical fiction was also
+Georg [[Eber|Ebers]] (1837-1898), and those from primitive German history by
+[[Felix]] Dahn (born 1834). The vogue of historical fiction was also
 transferred to some extent, as in English literature, to novels of
 American life and adventure, of which the chief German cultivators were
 K.A. Postl, who wrote under the pseudonym of Charles Sealsfield
-(1793-1864) and Friedrich Gerstacker (1816-1872).
+(1793-1864) and Friedrich [[Gerstacker]] (1816-1872).
 
 Of greater importance was the fiction which owed its inspiration to the
 Romantic traditions that survived the "Young German" age. To this group
 belongs the novel of peasant and provincial life, of which Immermann had
 given an excellent example in _Der Oberhof_, a story included in the
-arabesque of _Munchhausen_. A Swiss pastor, Albrecht Bitzius, better
+[[Arabesque|arabesque]] of _Munchhausen_. A Swiss pastor, Albrecht Bitzius, better
 known by his pseudonym "Jeremias Gotthelf" (1797-1854), was, however,
 the real founder of this class of romance; and his simple, unvarnished
 and naively didactic stories of the Swiss peasant were followed not long
@@ -2801,7 +2801,7 @@ interest in dialect and peasant life; it is to the credit of Fritz
 Reuter (1810-1874) that he brought honour to the Plattdeutsch of the
 north, the dialects of which had played a fitful, but by no means
 negligible role in the earlier history of German letters. His
-Mecklenburg novels, especially _Ut de Franzosentid_ (1860), _Ut mine
+[[Mecklenburg]] novels, especially _Ut de Franzosentid_ (1860), _Ut mine
 Festungstid_ (1863) and _Ut mine Stromtid_ (1862-1864), are a faithful
 reflection of Mecklenburg life and temperament, and hold their place
 beside the best German fiction of the period. What Reuter did for
@@ -2823,8 +2823,8 @@ In the dramatic literature of these decades, at least as it was
 reflected in the repertories of the German theatres, there was little
 promise. French influence was, in general, predominant; French
 translations formed the mainstay of the theatre-directors, while
-successful German playwrights, such as R. Benedix (1811-1873) and
-Charlotte Birch-Pfeiffer (1800-1868), have little claim to consideration
+successful German playwrights, such as R. [[Benedix]] (1811-1873) and
+[[Charlotte]] [[Birch-Pfeiffer]] (1800-1868), have little claim to consideration
 in a literary survey. Gustav Freytag's admirable comedy, _Die
 Journalisten_ (1852), was one of the rare exceptions. But the German
 drama of this epoch is not to be judged solely by the theatres. At the
@@ -2840,8 +2840,8 @@ German dramatist of the 19th century. Unlike his contemporary
 Grillparzer, whose aim had been to reconcile the "classic" and the
 "romantic" drama with the help of Spanish models, Hebbel laid the
 foundations of a psychological and social drama, of which the most
-modern interpreter has been Henrik Ibsen. Hebbel's first tragedy,
-_Judith_, appeared in 1840, his masterpieces, _Herodes und Marianne_,
+modern interpreter has been Henrik [[Ibsen]]. Hebbel's first tragedy,
+_Judith_, appeared in 1840, his masterpieces, _[[Herod|Herodes]] und Marianne_,
 _Agnes Bernauer_, _Gyges und sein Ring_, and the trilogy of _Die
 Nibelungen_ between 1850 and 1862.
 
@@ -2851,21 +2851,21 @@ although the designation must be regarded rather as an outward accident
 of union than as implying conformity of aims. This is the group which
 Maximilian II. of Bavaria gathered round him in Munich between 1852 and
 1860. A leading spirit of the group was Emanuel Geibel, who, as we have
-seen, set a model to the German lyric in this age; F. von Bodenstedt
+seen, set a model to the German lyric in this age; F. von [[Bodenstedt]]
 (1819-1892), the popular author of _Mirza Schaffy_; and J.V. von
 Scheffel (1826-1886), who, in his verse-romance, _Der Trompeter von
-Sackingen_ (1854), broke a lance for a type of literature which had been
+Sackingen_ (1854), broke a [[Lance|lance]] for a type of literature which had been
 cultivated somewhat earlier, but with no very conspicuous success, by
 men like O. von Redwitz (1823-1891) and G. Kinkel (1815-1882). The
 romance was, in fact, one of the favourite vehicles of poetic expression
 of the Munich school, its most successful exponents being J. Wolff (b.
-1834) and R. Baumbach (1840-1905); while others, such as H. Lingg
-(1820-1905) and R. Hamerling (1830-1889) devoted themselves to the more
+1834) and R. [[Baumbach]] (1840-1905); while others, such as H. Lingg
+(1820-1905) and R. [[Hamerling]] (1830-1889) devoted themselves to the more
 ambitious epic. The general tone of the literary movement was
 pessimistic, the hopelessness of the spiritual outlook being most deeply
 engrained in the verse of H. Lorm (pseudonym for Heinrich Landesmann,
 1821-1902) and H. Leuthold (1827-1879). On the whole, the most important
-member of the Munich group is Paul Heyse (b. 1830), who, as a writer of
+member of the Munich group is Paul [[Heyse]] (b. 1830), who, as a writer of
 "Novellen" or short stories, may be classed with Storm and Keller. An
 essentially Latin genius, Heyse excels in stories of Italian life, where
 his lightness of touch and sense of form are shown to best advantage;
@@ -2876,7 +2876,7 @@ Geiste_, _Problematische Naturen_ and _Soll und Haben_ were
 characteristic of the periods which produced them.
 
 (c) _German Literature after 1870._--In the years immediately following
-the Franco-German War, the prevailing conditions were unfavourable to
+the [[Franco-German War]], the prevailing conditions were unfavourable to
 literary production in Germany, and the re-establishment of the empire
 left comparatively little trace on the national literature. All minds
 were for a time engrossed by the _Kulturkampf_, by the financial
@@ -2889,7 +2889,7 @@ wanting, the general tone of German intellectual life at that time was
 not buoyant enough to inspire a vigorous literary revival. The influence
 of Hegel was still strong, and the "historical" method, as enunciated in
 _Der alte und der neue Glaube_ (1872) by the Hegelian D.F. Strauss, was
-generally accepted at the German universities. To many the compromise
+generally accepted at the German universities. To many the [[Compromise|compromise]]
 which H. Lotze (1817-1881) had attempted to establish between science
 and metaphysics, came as a relief from the Hegelian tradition, but in
 literature and art the dominant force was still, as before the war, the
@@ -2941,7 +2941,7 @@ progress in the dramatic history of this period was the marked
 improvement of the German stage, an improvement due, on the one hand, to
 the artistic reforms introduced by the duke of Meiningen in the Court
 theatre at Meiningen, and, on the other hand, to the ideals of a
-national theatre realized at Bayreuth by Richard Wagner (1813-1883). The
+national theatre realized at [[Bayreuth]] by Richard Wagner (1813-1883). The
 greatest composer of the later 19th century is also one of Germany's
 leading dramatists; and the first performance of the trilogy _Der Ring
 der Nibelungen_ at Bayreuth in the summer of 1876 may be said to have
@@ -2993,9 +2993,9 @@ be regarded as the most important imaginative work of its epoch.
 
 Nietzschean individualism was only one of many factors which contributed
 to the new literary development. The realistic movement, as it had
-manifested itself in France under Flaubert, the Goncourts, Zola and
-Maupassant, in Russia under Dostoievsky and Tolstoi, and in Norway under
-Ibsen and Bjornson, was, for a time, the dominant force in Germany, and
+manifested itself in France under Flaubert, the [[Goncourt|Goncourts]], Zola and
+Maupassant, in Russia under [[Dostoievsky]] and Tolstoi, and in Norway under
+Ibsen and [[Bjornson]], was, for a time, the dominant force in Germany, and
 the younger generation of critics hailed it with undisguised
 satisfaction; most characteristic and significant of all, the centre of
 this revival was Berlin, which, since it had become the imperial
@@ -3014,12 +3014,12 @@ mentioned as a dramatist, has shown, since about 1890, a remarkable
 power of adapting himself, if not to the style and artistic methods of
 the younger school, at least to the ideas by which it was agitated; F.
 Spielhagen's attitude towards the realistic movement has been invariably
-sympathetic, while a still older writer, Theodor Fontane (1819-1898),
+sympathetic, while a still older writer, Theodor [[Fontane]] (1819-1898),
 wrote between 1880 and 1898 a series of works in which the finer
 elements of French realism were grafted on the German novel. To the
 older school belong Wilhelm Jensen (b. 1837), and that fine humorist,
 Wilhelm Raabe (b. 1831), with whom may be associated as other humorists
-of this period, H. Seidel (1842-1906) and W. Busch (1832-1908). Some of
+of this period, H. Seidel (1842-1906) and W. [[Busch]] (1832-1908). Some of
 the most interesting examples of recent German fiction come, however,
 from Austria and Switzerland. The two most eminent Austrian authors,
 Marie von Ebner-Eschenbach (b. 1830), and Ferdinand, von Saar
@@ -3064,7 +3064,7 @@ Emil Strauss (b. 1866), Rudolf Huch (b. 1862) and Friedrich Huch (b.
 the traditional form of German fiction, the _Bildungsroman_, had come
 into its ancient rights again. Mention ought also to be made of J.J.
 David (1859-1907), E. von Keyserling (b. 1858), W. Hegeler (b. 1870), G.
-von Ompteda (b. 1863), J. Wassermann (b. 1873), Heinrich Mann (b. 1871)
+von Ompteda (b. 1863), J. Wassermann (b. 1873), Heinrich [[Mann]] (b. 1871)
 and Thomas Mann (b. 1875). _Buddenbrooks_ (1902) by the last mentioned
 is one of the outstanding novels of the period. Some of the best fiction
 of the most recent period is the work of women, the most distinguished
@@ -3079,7 +3079,7 @@ at least a protest against the decadent tendencies of naturalism.
 At no period of German letters were literature and the theatre in closer
 touch than at the end of the 19th and the beginning of the 20th
 centuries; more than at any previous time has the theatre become the
-arena in which the literary battles of the day are fought out. The
+[[Arena|arena]] in which the literary battles of the day are fought out. The
 general improvement in the artistic, technical and economic conditions
 of the German stage have already been indicated; but it was not until
 1889 that the effects of these improvements became apparent in dramatic
@@ -3091,7 +3091,7 @@ patriotism and a Schillerian pathos; nor did the talent of Richard Voss
 1889, however, Gerhart Hauptmann's play, _Vor Sonnenaufgang_, was
 produced on the then recently founded _Freie Buhne_ in Berlin; and a
 month later, _Die Ehre_ by Hermann Sudermann met with a more
-enthusiastic reception in Berlin than had fallen to the lot of any
+enthusiastic reception in Berlin than had fallen to the [[Lot|lot]] of any
 German play for more than a generation.
 
 Hauptmann (b. 1862), the most original of contemporary German writers,
@@ -3099,12 +3099,12 @@ stands, more or less, alone. His early plays, the most powerful of which
 is _Die Weber_ (1892), were written under the influence either of an
 uncompromising realism, or of that modified form of realism introduced
 from Scandinavia; but in _Hanneles Himmelfahrt_ (1893) he combined
-realism with the poetic mysticism of a child's dream, in _Florian Geyer_
+realism with the poetic mysticism of a child's dream, in _[[Florian]] Geyer_
 (1895) he adapted the methods of realism to an historical subject, and
 in the year 1896 he, to all appearance, abandoned realism to write an
 allegorical dramatic poem, _Die versunkene Glocke_. Hauptmann's
 subsequent work has oscillated between the extremes marked out by these
-works--from the frank naturalism of _Fuhrmann Henschel_ (1898) and _Rose
+works--from the [[Frank|frank]] naturalism of _Fuhrmann Henschel_ (1898) and _Rose
 Berndt_ (1903), to the fantastic mysticism of _Der arme Heinrich_ (1902)
 and _Und Pippa tanzt!_ (1906).
 
@@ -3133,28 +3133,28 @@ are Max Halbe (b. 1865), O.E. Hartleben (1864-1905), G. Hirschfeld (b.
 b. 1862) and Frank Wedekind (b. 1864). In Austria, notwithstanding the
 preponderant influence of Berlin, the drama has retained its national
 characteristics, and writers like Arthur Schnitzler (b. 1862), Hermann
-Bahr (b. 1863), Hugo von Hofmannsthal (b. 1874) and R. Beer-Hofmann (b.
+[[Bahr]] (b. 1863), Hugo von Hofmannsthal (b. 1874) and R. Beer-Hofmann (b.
 1866) have introduced symbolistic elements and peculiarly Austrian
 problems, which are foreign to the theatre of north Germany.
 
 The German lyric of recent years shows a remarkable variety of new tones
 and pregnant poetic ideas; it has, as is natural, been more influenced
 by the optimism of Nietzsche--himself a lyric poet of considerable
-gifts--than has either novel or drama. Detlev von Liliencron (1844-1909)
+gifts--than has either novel or drama. Detlev von [[Liliencron]] (1844-1909)
 was one of the first to break with the traditions of the lyric as handed
 down from the Romantic epoch and cultivated with such facility by the
 Munich poets. An anthology of specifically modern lyrics, _Moderne
 Dichtercharaktere_ (1885) by W. Arent (b. 1864), may be regarded as the
 manifesto of the movement in lyric poetry corresponding to the period of
 realism in fiction and the drama. Representative poets of this movement
-are Richard Dehmel (b. 1863), K. Henckell (b. 1864), J.H. Mackay (b.
+are Richard Dehmel (b. 1863), K. Henckell (b. 1864), J.H. [[Mackay]] (b.
 1864 at Greenock), G. Falke (b. 1853), F. Avenarius (b. 1856), F. Evers
 (b. 1871), F. Dormann (b. 1870) and K. Busse (b. 1872). A later
 development of the lyric--a return to mysticism and symbolism--is to be
 seen in the poetry of Hofmannsthal, already mentioned as a dramatist,
 and especially in Stefan George (b. 1868). Epic poetry, although little
 in harmony with the spirit of a realistic age, has not been altogether
-neglected. Heinrich Hart (1855-1906), one of the leading critics of the
+neglected. Heinrich [[Hart]] (1855-1906), one of the leading critics of the
 most advanced school, is also the author of an ambitious _Lied der
 Menschheit_ (vols. 1-3, 1888-1896); more conservative, on the other
 hand, is _Robespierre_ (1894), an epic in the style of Hamerling by an
@@ -3185,16 +3185,16 @@ and herein lies the best promise for the future.
   by E. Martin, 1879-1894); K. Goedeke, _Grundriss zur Geschichte der
   deutschen Dichtung_ (3 vols., 1857-1881; 2nd ed. by E. Goetze and
   others, in 9 vols., 1884 ff.); W. Menzel, _Deutsche Dichtung von der
-  altesten bis auf die neueste Zeit_ (1858-1859); H. Kurz, _Geschichte
+  altesten bis auf die neueste Zeit_ (1858-1859); H. [[Kurz]], _Geschichte
   der deutschen Literatur mit ausgewahlten Stucken_ (3 vols., 1857-1859;
   7th ed., 4 vols., 1876-1882); O. Roquette, _Geschichte der deutschen
   Dichtung_ (2 vols., 1862; 3rd ed., 1878-1879); W. Scherer, _Geschichte
   der deutschen Literatur_ (1883; 10th ed., 1905). English translation
-  by Mrs F.C. Conybeare (2 vols., 1885; new ed., 1906); Kuno Francke,
+  by Mrs F.C. [[Conybeare]] (2 vols., 1885; new ed., 1906); Kuno Francke,
   _German Literature as determined by Social Forces_ (1896; 6th ed.,
   1903); F. Vogt and M. Koch, _Geschichte der deutschen Literatur_
   (1897; 2nd ed., 2 vols., 1903); J.G. Robertson, _History of German
-  Literature_ (1902); A. Bartels, _Geschichte der deutschen Literatur_
+  Literature_ (1902); A. [[Bartels]], _Geschichte der deutschen Literatur_
   (2 vols., 1901-1902), with the accompanying bibliographical summary,
   _Handbuch zur Geschichte der deutschen Literatur_ (1906). There are
   also histories of the literature of separate countries and districts,
@@ -3228,7 +3228,7 @@ and herein lies the best promise for the future.
   1874-1875); O. Lyon, _Minne- und Meistersang_ (1882). There are
   numerous series of editions of medieval texts: K. Mullenhoff and W.
   Scherer, _Denkmaler deutscher Poesie und Prosa aus den 8.-12.
-  Jahrhundert_ (2 vols., 3rd ed., 1892); M. Heyne, _Bibliothek der
+  Jahrhundert_ (2 vols., 3rd ed., 1892); M. [[Heyne]], _Bibliothek der
   altesten deutschen Literaturdenkmaler_ (14 vols., begun 1858); F.
   Pfeiffer, _Deutsche Klassiker des Mittelalters_ (12 vols., begun
   1865), with the supplementary _Deutsche Dichtungen des Mittelalters_,
@@ -3247,7 +3247,7 @@ and herein lies the best promise for the future.
   _Geschichte der deutschen Literatur seit dem Ausgang des Mittelalters_
   (in Kurschner's _Deutsche Nationalliteratur_, vol. 163, ii., 1898); H.
   Palm, _Beitrage zur Geschichte der deutschen Literatur des 16. und 17.
-  Jahrhunderts_ (1877); C.H. Herford, _Studies in the Literary Relations
+  Jahrhunderts_ (1877); C.H. [[Herford]], _Studies in the Literary Relations
   of England and Germany in the Sixteenth Century_ (1886); C. Lemcke,
   _Von Opitz bis Klopstock_, i. (1871; 2nd ed. 1882); M. von Waldberg,
   _Deutsche Renaissance-Lyrik_ (1888), and _Die galante Lyrik_ (1885);
@@ -3261,18 +3261,18 @@ and herein lies the best promise for the future.
   (begun 1882); K. Goedeke and J. Tittmann, _Deutsche Dichter des 16.
   Jahrhunderts_ (18 vols., 1867 ff.), and _Deutsche Dichter des 17.
   Jahrhunderts_ (15 vols., 1869 ff.). A valuable anthology is K.
-  Goedeke's _Elf Bucher deutscher Dichtung von Sebastian Brant bis auf
+  Goedeke's _[[Elf]] [[Bucher]] deutscher Dichtung von Sebastian Brant bis auf
   die Gegenwart_ (2 vols., 1849). Since 1890 the _Jahresberichte fur
   neuere deutsche Literaturgeschichte_ have provided an exhaustive
   survey of all publications dealing with modern German literature. A
   useful practical bibliography for English readers, covering this and
-  the succeeding periods, is J.S. Nollen, _A Chronology and Practical
+  the succeeding periods, is J.S. Nollen, _A [[Chronology]] and Practical
   Bibliography of Modern German Literature_ (1903).
 
   iii. _The Eighteenth Century._--J. Schmidt, _Geschichte der deutschen
   Literatur von Leibniz bis auf unsere Zeit_ (4 vols., 1862-1867; 2nd
-  ed. 1886-1890); J. Hillebrand, _Die deutsche Nationalliteratur im 18.
-  und 19. Jahrhundert_ (3 vols., 1845-1846; 3rd ed. 1875); H. Hettner,
+  ed. 1886-1890); J. [[Hillebrand]], _Die deutsche Nationalliteratur im 18.
+  und 19. Jahrhundert_ (3 vols., 1845-1846; 3rd ed. 1875); H. [[Hettner]],
   _Geschichte der deutschen Literatur im 18. Jahrhundert_ (4 vols.,
   1862-1870; 4th ed. by O. Harnack, 1893-1895); J.W. Schafer,
   _Geschichte der deutschen Literatur des 18. Jahrhunderts_ (1855-1860;
@@ -3284,19 +3284,19 @@ and herein lies the best promise for the future.
   Ritterdrama des 18. Jahrhunderts_ (1880), &c. Of collections of the
   literature of this and the following century, reference need only be
   made to the _Bibliothek der deutschen Nationalliteratur des 18. und
-  19. Jahrhunderts_, published by Brockhaus (44 vols., 1868-1891), and
+  19. Jahrhunderts_, published by [[Brockhaus]] (44 vols., 1868-1891), and
   _Deutsche Literaturdenkmale des 18. und 19. Jahrhunderts_, edited
   first by B. Seuffert (1882-1894), and subsequently by A. Sauer.
 
   iv. _The Nineteenth Century._--Th. Ziegler, _Die geistigen und
   sozialen Stromungen des neunzehnten Jahrhunderts_ (1899; 2nd ed.
-  1901); R. von Gottschall, _Die deutsche Nationalliteratur des 19.
+  1901); R. von [[Gottschall]], _Die deutsche Nationalliteratur des 19.
   Jahrhunderts_ (1854; 7th ed., 4 vols., 1900-1902); R.M. Meyer, _Die
   deutsche Literatur des 19. Jahrhunderts_ (1899; 4th ed. 1910); R.M.
   Meyer, _Grundriss der neueren deutschen Literaturgeschichte_ (1902);
   C. Busse, _Geschichte der deutschen Dichtung im neunzehnten
   Jahrhundert_ (1901); R. Haym, _Die romantische Schule_ (1870; 2nd ed.
-  1906); G. Brandes, "Den romantiske Skole i Tyskland" (1873), and "Det
+  1906); G. [[Brand|Brandes]], "Den romantiske Skole i Tyskland" (1873), and "Det
   unge Tyskland" (1890), in _Hovedstromninger i det 19de Aarhundredes
   Litteratur_, vols. ii. and vi. (German translations, 1887 and 1891;
   several subsequent editions, Danish and German; English translations,
@@ -3308,7 +3308,7 @@ and herein lies the best promise for the future.
   _Studies in German Literature in the Nineteenth Century_ (1903); Ch.
   Petzet, _Die Blutezeit der deutschen politischen Lyrik_ (1903); H.
   Mielke, _Der deutsche Roman des 19. Jahrhunderts_ (4th ed., 1900); S.
-  Friedmann, _Das deutsche Drama des 19. Jahrhunderts_ (2 vols.,
+  [[Friedmann]], _Das deutsche Drama des 19. Jahrhunderts_ (2 vols.,
   1900-1903); B. Litzmann, _Das deutsche Drama in den literarischen
   Bewegungen der Gegenwart_ (4th ed., 1898).     (J. G. R.)
 
@@ -3319,14 +3319,14 @@ GERMAN REED ENTERTAINMENT. The dramatic and musical entertainment which
 for many years was known in London by the title of "German Reed" was a
 form of theatrical enterprise deserving of commemoration in connexion
 with those who made it successful. Mr THOMAS GERMAN REED (born in
-Bristol in 1817, died 1888) married in 1844 Miss PRISCILLA HORTON
+[[Bristol]] in 1817, died 1888) married in 1844 Miss PRISCILLA [[Horton|HORTON]]
 (1818-1895), and in 1855 they started their entertainment at the
 "Gallery of Illustration," in Waterloo Place, London. From 1860 to 1877
 they were assisted by JOHN ORLANDO PARRY (1810-1879), an accomplished
 pianoforte player, mimic, parodist and humorous singer; and the latter
 created a new type of musical and dramatic monologue which became very
 popular. His tradition was carried on after 1870 by MR CORNEY GRAIN
-(1844-1895), who, as a clever, refined, and yet highly humorous society
+(1844-1895), who, as a [[Clever|clever]], refined, and yet highly humorous society
 entertainer (originally a barrister), was one of the best-known figures
 of his day. After the retirement of the elder German Reeds, their son,
 ALFRED GERMAN REED (1846-1895), himself a capital actor, carried on the
@@ -3345,12 +3345,12 @@ theatre, ended its career.
 GERMAN SILVER or NICKEL SILVER, an alloy of copper, nickel and zinc,
 prepared either by melting the copper and nickel together in a crucible,
 and adding piece by piece the previously heated zinc, or by heating the
-finely divided metals under a layer of charcoal. To destroy its
+finely divided metals under a layer of [[Charcoal|charcoal]]. To destroy its
 crystalline structure and so render it fit for working, it is heated to
 dull redness, and then allowed to cool. German silver is harder than
 silver; it resembles that metal in colour, but is of a greyer tinge.
 Exposed to the air it tarnishes slightly yellow, and with vinegar
-affords a crust of verdigris. At a bright red heat it melts, losing its
+affords a crust of verdigris. At a [[Bright|bright]] red heat it melts, losing its
 zinc by oxidation unless protected from the atmosphere. At a heat above
 dull redness it becomes exceedingly brittle. German silver in various
 modifications of composition is much used in the arts. Alloys, of which
@@ -3373,7 +3373,7 @@ also largely increases the resistance.
 
 
 GERMAN SOUTH-WEST AFRICA. This German possession is bounded W. by the
-Atlantic, N. by Angola, S. by the Cape province, E. by Bechuanaland and
+Atlantic, N. by [[Angola]], S. by the Cape province, E. by Bechuanaland and
 Rhodesia, and is the only German dependency in Africa suited to white
 colonization. It has an area of about 322,450 sq. m., and a population
 of Bantu Negroes and Hottentots estimated in 1903 at 200,000.[1] The
@@ -3382,23 +3382,23 @@ European inhabitants, in addition to the military, numbered 7110 in
 
   _Area and Boundaries._--The boundary separating the German
   protectorate from the Portuguese possessions of Angola is the lower
-  Kunene, from its mouth in 17 deg. 18' S., 11 deg. 40' E. to the limit
+  [[Kunene]], from its mouth in 17 deg. 18' S., 11 deg. 40' E. to the limit
   of navigability from the sea, thence in a direct line, corresponding
   roughly to the lat. of 17 deg. 20' S., to the river Okavango, which it
   follows eastwards until the stream turns abruptly south (towards Lake
   Ngami). From this point a strip of German territory 300 m. long and
   about 50 m. broad, projects eastward until it reaches the Zambezi a
   little above the Victoria Falls. On the south this narrow strip of
-  land (known as the Caprivi enclave) is separated from southern
-  Rhodesia by the Kwando or Chobe river. On the east the frontier
+  land (known as the Caprivi [[Enclave|enclave]]) is separated from southern
+  Rhodesia by the Kwando or [[Chobe]] river. On the east the frontier
   between British and German territory is in its northern half the 21st
   degree of E. longitude, in its southern half the 20th degree. This
-  frontier is drawn through desert country. The southern frontier is the
+  frontier is drawn through [[Desert|desert]] country. The southern frontier is the
   Orange river from its mouth to the 20 deg. E. The coast-line between
   the Kunene and Orange rivers is not wholly German. Just north of the
   tropic of Capricorn is the British enclave of Walfish Bay (q.v.). The
   northern part of the protectorate is known as Ovampoland, the central
-  portion as Damara (or Herero) land; the southern regions as Great
+  portion as Damara (or [[Herero]]) land; the southern regions as Great
   Namaqualand. These names are derived from those of the dominant native
   races inhabiting the country.
 
@@ -3416,8 +3416,8 @@ European inhabitants, in addition to the military, numbered 7110 in
   ft.), in about 21 deg. 15' S., 16 deg. 40' E. N. E. of Omatako is the
   Omboroko range, otherwise known as the Waterberg. South of Omboroko,
   occupying the centre of the country, the range attains its highest
-  average altitude. The following massifs with their highest points may
-  be distinguished: Gans (7664 ft.), Nu-uibeb (7480 ft.), Onyati (7201
+  average altitude. The following [[Massif|massifs]] with their highest points may
+  be distinguished: [[Gans]] (7664 ft.), Nu-uibeb (7480 ft.), Onyati (7201
   ft.), Awas (6988 ft.), Komas (5331 ft.) and Ganab (4002 ft.). In the
   S.E. are the Karas mountains, which attain an elevation of 6570 ft.
   The mountains for the main part form the escarpment of the great
@@ -3468,26 +3468,26 @@ European inhabitants, in addition to the military, numbered 7110 in
   than the rainy season. There are also many cold springs, and wells
   which contain water all the year.
 
-  _Geology._--Gneiss and schist, with intrusive granites and porphyries,
+  _Geology._--[[Gneiss]] and schist, with intrusive granites and porphyries,
   overlain to a great extent by sand and lateritic deposits, occupy the
-  coast belt, coast mountains and the plateau of Damaraland. In the Huib
+  coast belt, coast mountains and the plateau of [[Damaraland]]. In the Huib
   and Han-ami plateaus of Great Namaqualand the crystalline rocks are
-  overlain by sandstones, slates, quartzites and jasper rocks, and these
-  in turn by dolomites. They are probably equivalent to the Transvaal
+  overlain by sandstones, slates, quartzites and [[Jasper|jasper]] rocks, and these
+  in turn by [[Dolomite|dolomites]]. They are probably equivalent to the Transvaal
   and Pretoria series (see TRANSVAAL: _Geology_). The next oldest rocks
   are of recent geological date. The Kalahari Kalk, which extends over
   large areas to the south-east of Ovampoland, may be of Miocene age,
   but it has not yielded fossils. Extensive tracts of alluvium occur in
-  the basin of the Ovampo, while the dunes and sand-tracts of the
+  the basin of the Ovampo, while the [[Dunes|dunes]] and sand-tracts of the
   Kalahari occupy the eastern regions.
 
   _Climate._--On the coast the mean temperature is low, and there is
-  little rainfall. Moisture is supplied by dense fogs, which rise almost
+  little rainfall. Moisture is supplied by dense [[Fog|fogs]], which rise almost
   daily. South-west winds prevail. Inland the climate is temperate
   rather than tropical, with bracing, clear atmosphere. There are
   considerable differences of temperature between day and night, and two
   well-marked seasons, one cold and dry from May to September, the other
-  hot and rainy from October to April. In winter ice frequently forms
+  hot and rainy from October to April. In winter [[Ice|ice]] frequently forms
   during the night on open water on the plateau, but it never remains
   all day. The yearly rainfall is about 20 in. in the Damara Hills;
   there is more rain in the north than in the south, and in the east
@@ -3500,7 +3500,7 @@ European inhabitants, in addition to the military, numbered 7110 in
   _Sarcocaula_, _Aloe dichotoma_, _Aristida subacaulis_ and the
   wonderful _Welwitschia_. Farther inland are plants which spring up and
   disappear with the rain, and others whose roots reach permanent water.
-  The former are chiefly grasses, the latter exist almost solely in or
+  The former are chiefly [[Grasses|grasses]], the latter exist almost solely in or
   near river-beds. Amongst the fine trees often seen here, the ana tree
   (_Acacia albida_) is the most noteworthy, its seeds being favourite
   fodder for all domestic animals. _Acacia giraffae_, _Ac. horrida_,
@@ -3511,13 +3511,13 @@ European inhabitants, in addition to the military, numbered 7110 in
   vegetation spreads over the sand-dunes of the coast plain, which are
   covered with grasses.
 
-  Large game, formerly abundant, especially pachyderms, is scarce. Of
-  antelopes the following species are plentiful in parts: springbok,
-  steenbok, kudu, rietbok, pallah; of monkeys, the _Cynocephalus
+  Large [[Game|game]], formerly abundant, especially pachyderms, is scarce. Of
+  [[Antelope|antelopes]] the following species are plentiful in parts: springbok,
+  steenbok, [[Kudu|kudu]], rietbok, pallah; of monkeys, the _Cynocephalus
   porcarius_ is frequent. Various kinds of hyenas and jackals with fine
-  fur (_Canis mesomelas_), also _Felis caracal_, abound. The spring-hare
+  fur (_Canis mesomelas_), also _Felis [[Caracal|caracal]]_, abound. The spring-hare
   (_Pedestea caffer_) and rock-rabbit (_Hyrax capensis_) may often be
-  observed. Of birds there are 728 species. Crocodiles, turtles and
+  observed. Of birds there are 728 species. [[Crocodile|Crocodiles]], turtles and
   snakes are numerous.
 
 _Inhabitants._--Among the natives of German South-West Africa three
@@ -3552,7 +3552,7 @@ ways.
   of Walfish Bay). The harbour is partially protected by a breakwater.
   There are also settlements at Luderitz Bay (white pop. 1909, over
   1000) and at Sandwich Harbour. Swakopmund is connected by a narrow
-  gauge railway with Windhoek, the administrative capital of the colony,
+  [[Gauge|gauge]] railway with Windhoek, the administrative capital of the colony,
   situated in a hilly district 180 m. due east of the port, but 237 m.
   by the railway. Karibib is the only place of consequence on the line.
   Otyimbingue is a government station 70 m. W.N.W. of Windhoek, and
@@ -3560,14 +3560,14 @@ ways.
   government post in Ovampoland. In the S.E. corner of the colony, 30 m.
   N. of the Orange river, is the town of Warmbad. Keetmanshoop, 100 m.
   N. of Warmbad and 180 m. E. of Luderitz Bay, is the centre of a small
-  mining industry. Gibeon is a government station and missionary
+  mining industry. [[Gibeon]] is a government station and missionary
   settlement about midway between Keetmanshoop and Windhoek. Besides
   these places there are numbers of small native towns at which live a
   few white traders and missionaries. The missionaries have given
-  Biblical names to several of their stations, such as Bethany and
+  Biblical names to several of their stations, such as [[Bethany]] and
   Beersheba in Namaqualand, and Rehoboth in Damaraland. In the Caprivi
   enclave are a German residency and the site of the town of Linyante,
-  once the capital of the Makololo dynasty of Barotseland (see BAROTSE).
+  once the capital of the Makololo dynasty of Barotseland (see [[Barotse|BAROTSE]]).
 
   _Industries._--Agriculture is followed by the natives in the northern
   districts, but the chief industry is stock-raising. The scarcity of
@@ -3596,7 +3596,7 @@ ways.
   little smith-work and grass-plaiting. The external trade of the
   country was of slow growth. The exports, previous to the opening up of
   the Otavi mines, consisted chiefly of live stock--sent mainly to Cape
-  Colony--guano, ivory, horns, hides and ostrich feathers. The chief
+  Colony--guano, [[Ivory|ivory]], [[Horn|horns]], hides and ostrich [[Feather|feathers]]. The chief
   imports are food stuffs, textiles and metals, and hardware. In 1903
   the value of the exports was L168,560, that of the imports L388,210.
   The war which followed (see below, _History_) led to a great shrinking
@@ -3622,12 +3622,12 @@ ways.
   Across the Awas Mountains, separating Windhoek from the central
   plateau, a wide road has been cut. In 1903 the colony was placed in
   telegraphic communication with Europe and Cape Colony by the laying of
-  submarine cables having their terminus at Swakopmund. There is a
+  submarine [[Cable|cables]] having their terminus at Swakopmund. There is a
   fairly complete inland telegraphic service.
 
   There is regular steamship communication between Hamburg and
   Swakopmund, Walfish Bay and Luderitz Bay. Regular communication is
-  also maintained between Cape Town and the ports of the colony.
+  also maintained between [[Cape Town]] and the ports of the colony.
 
   _Administration._--At the head of the administration is an imperial
   governor, responsible to the colonial office in Berlin, who is
@@ -3652,13 +3652,13 @@ ways.
   subject to a licence.
 
 _History._--The coast of south-west Africa was discovered by Bartholomew
-Diaz in 1487, whilst endeavouring to find his way to the Indies. He
+[[Diaz]] in 1487, whilst endeavouring to find his way to the Indies. He
 anchored in a bay which by reason of its smallness he named Angra
 Pequena. Portugal, however, took no steps to acquire possession of this
 inhospitable region, which remained almost unvisited by Europeans until
 the early years of the 19th century. At this time the country was
 devastated by a Hottentot chief known as Afrikander, who had fled
-thither with a band of outlaws after murdering his master, a Boer farmer
+thither with a band of outlaws after murdering his master, a Boer [[Farmer|farmer]]
 by whom he had been ill-treated, in 1796. In 1805 some missionaries (of
 German nationality) went into Namaqualand in the service of the London
 Missionary Society, which society subsequently transferred its missions
@@ -3668,7 +3668,7 @@ Hottentot settlement renamed Bethany (1820), a place 125 m. E. by Angra
 Pequena. The missionaries had the satisfaction of stopping Afrikander's
 career of bloodshed. He became a convert, a great friend of the mission,
 and took the name of Christian. The proximity of Great Namaqualand to
-Cape Colony led to visits from British and Dutch farmers and hunters, a
+Cape Colony led to visits from British and Dutch farmers and [[Hunter|hunters]], a
 few of whom settled in the country, which thus became in some sense a
 dependency of the Cape.
 
@@ -3682,7 +3682,7 @@ subjugated by Jonker Afrikander, a son of Christian Afrikander, who
 followed the early footsteps of his sire and had renounced Christianity,
 but in 1865 they had recovered their independence. The Rhenish
 missionaries appealed (1868) to the British government for protection,
-and asked for the annexation of the country. This request, although
+and asked for the [[Annexation|annexation]] of the country. This request, although
 supported by the Prussian government, was refused. In 1876, however, a
 special commissioner (W. Coates Palgrave) was sent by the Cape
 government "to the tribes north of the Orange river." The commissioner
@@ -3741,10 +3741,10 @@ attacked the Herero in their stronghold, the Waterberg, about 200 m. N.
 of Windhoek, and inflicted upon them a severe defeat. The main body of
 the enemy escaped, however, from the encircling columns of the Germans,
 and thereafter the Herero, who were under the leadership of Samuel
-Maherero, maintained a guerrilla warfare, rendering the whole
+Maherero, maintained a [[Guerrilla|guerrilla]] warfare, rendering the whole
 countryside unsafe. The Germans found pursuit almost hopeless, being
 crippled by the lack of water and the absence of means of transport. To
-add to their troubles a Herero bastard named Morenga, with a following
+add to their troubles a Herero [[Bastard|bastard]] named Morenga, with a following
 of Hottentots, had, in July, recommenced hostilities in the south. On
 the 2nd of October 1904 von Trotha, exasperated at his want of success
 in crushing the enemy, issued a proclamation in which he said: "Within
@@ -3760,7 +3760,7 @@ numbers succeeded in passing to British territory near Ngami.
 
 On the day following the issue of von Trotha's proclamation to the
 Herero, i.e. on the 3rd of October 1904, Hendrik Witboi sent a formal
-declaration of war to the Germans. Hendrik had helped to suppress the
+[[Declaration|declaration]] of war to the Germans. Hendrik had helped to suppress the
 Bondelzwarts rising, and had received a German decoration for his
 services, and his hostility is said to have been kindled by the
 supersession of Colonel Leutwein, for whom he entertained a great
@@ -3813,7 +3813,7 @@ the number who had perished may be estimated at between 20,000 and
 
 In Namaqualand von Lindequist found an enemy still unbroken. On the 3rd
 of November, however, Hendrik Witboi died, aged seventy-five, and his
-son and successor Samuel Isaac Witboi shortly afterwards surrendered,
+son and successor Samuel [[Isaac]] Witboi shortly afterwards surrendered,
 and the hostility of the tribe ceased. Morenga now became the chief of
 the rebel Hottentots, and "drives" against him were organized. Early in
 May 1906 an encounter between Morenga and a German column was fought
@@ -3823,7 +3823,7 @@ fled, was pursued across the frontier, and wounded, but escaped. On the
 Hottentot chiefs continued the conflict, greatly aided by the immense
 difficulty the Germans had in transporting supplies; to remedy which
 defect the building of a railway from Luderitz Bay to Kubub was begun
-early in 1906. A camel transport corps was also organized, and Boer
+early in 1906. A camel transport [[Corps|corps]] was also organized, and Boer
 auxiliaries engaged. Throughout the later half of 1906 the Hottentots
 maintained the struggle, the Karas mountains forming a stronghold from
 which their dislodgment was extremely difficult. Many of their leaders
@@ -3840,10 +3840,10 @@ In August 1907 renewed alarm was created by the escape of Morenga from
 British territory. The Cape government, regarding the chief as a
 political refugee, had refused to extradite him and he had been assigned
 a residence near Upington. This place he left early in August and,
-eluding the frontier guards, re-entered German territory. In September,
+eluding the frontier [[Guards|guards]], re-entered German territory. In September,
 however, he was again on the British side of the border. Meantime a
-force of the Cape Mounted Police under Major F.A.H. Eliott had been
-organized to effect his arrest. Summoned to surrender, Morenga fled into
+force of the Cape Mounted Police under [[Major]] F.A.H. Eliott had been
+organized to effect his [[Arrest|arrest]]. Summoned to surrender, Morenga fled into
 the Kalahari Desert. Eliott's force of sixty men pursued him through a
 waterless country, covering 80 m. in 24 hours. When overtaken (September
 21st), Morenga, with ten followers, was holding a kopje and fired on the
@@ -3870,7 +3870,7 @@ companies were formed to exploit the diamondiferous area. The first
 considerable packet of diamonds from the colony reached Germany in April
 1909. The output for the year was valued at over L1,000,000.
 
-  AUTHORITIES.--Karl Dove, _Deutsch-Sudwestafrika_ (Berlin, 1903); W.
+  AUTHORITIES.--Karl [[Dove]], _Deutsch-Sudwestafrika_ (Berlin, 1903); W.
   Kulz, _Deutsch-Sudafrika_ ... (Berlin, 1909); T. Leutwein, _Elf Jahre
   Gouverneur in Deutsch-Sudwestafrika_ (Berlin, 1908), an authoritative
   work, largely historical; P. Rohrbach, _Deutsche Kolonialwirtschaft_,
@@ -3896,11 +3896,11 @@ considerable packet of diamonds from the colony reached Germany in April
   Entwicklung Sudafrikas (mit Karte)," _Peterm. Mitt._ (1888); Stromer
   von Reichenbach, _Die Geologie der deutschen Schutzgebiete in Afrika_
   (Munich and Leipzig, 1896). Of early books of travel the most valuable
-  are: F. Galton, _Tropical South Africa_ (1853; new ed. 1889); Charles
+  are: F. [[Galton]], _Tropical South Africa_ (1853; new ed. 1889); Charles
   J. Andersson, _Lake Ngami_ (1856), _The Okavango River_ (1861) and
   _Notes of Travel_ (1875). See also Sir J.E. Alexander, _An Expedition
   of Discovery into the Interior of Africa_ (London, 1838). Reports on
-  the German colonies are published by the British foreign office. The
+  the German colonies are published by the British [[Foreign Office|foreign office]]. The
   _Kriegskarte von Deutsch-Sudwestafrika_ (Berlin, 1904), in nine sheets
   on a scale of 1 : 800,000, will be found useful.     (F. R. C.)
 

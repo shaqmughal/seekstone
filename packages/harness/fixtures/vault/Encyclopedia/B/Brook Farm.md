@@ -7,7 +7,7 @@ manifestations of the spirit of "Transcendentalism," in New England, though
 many of the more prominent transcendentalists took no direct part in it.
 The project was originated by George Ripley, who also virtually directed it
 throughout. In his words it was intended "to insure a more natural union
-between intellectual and manual labour than now exists; to combine the
+between intellectual and [[Manual|manual]] labour than now exists; to combine the
 thinker and the worker, as far as possible, in the same individual; to
 guarantee the highest mental freedom by providing all with labour adapted
 to their tastes and talents, and securing to them the fruits of their
@@ -20,35 +20,35 @@ was to bring about the best conditions for an ideal civilization, reducing
 to a minimum the labour necessary for mere existence, and by this and by
 the simplicity of its social machinery saving the maximum of time for
 mental and spiritual education and development. At a time when Ralph Waldo
-Emerson could write to Thomas Carlyle, "We are all a little wild here with
+[[Emerson]] could write to Thomas Carlyle, "We are all a little wild here with
 numberless projects of social reform; not a reading man but has a draft of
 a new community in his waistcoat pocket,"--the Brook Farm project certainly
 did not appear as impossible a scheme as many others that were in the air.
-At all events it enlisted the co-operation of men whose subsequent careers
+At all events it enlisted the [[Co-Operation|co-operation]] of men whose subsequent careers
 show them to have been something more than visionaries. The association
-bought a tract of land about 10 m. from Boston, and in the summer of 1841
+bought a tract of land about 10 m. from [[Boston]], and in the summer of 1841
 began its enterprise with about twenty members. In September the "Brook
 Farm Institute of Agriculture and Education" was formally organized, the
-members [v.04 p.0646] signing the Articles of Association and forming an
+members [v.04 p.0646] signing the [[Articles Of Association|Articles of Association]] and forming an
 unincorporated joint-stock company. The farm was assiduously, if not very
 skilfully, cultivated, and other industries were established--most of the
 members paying by labour for their board--but nearly all of the income, and
 sometimes all of it, was derived from the school, which deservedly took
 high rank and attracted many pupils. Among these were included George
-William Curtis and his brother James Burrill Curtis, Father Isaac Thomas
-Hecker (1819-1888), General Francis C. Barlow (1834-1896), who as
-attorney-general of New York in 1871-1873 took a leading part in the
+William Curtis and his brother James Burrill Curtis, Father [[Isaac]] Thomas
+Hecker (1819-1888), General Francis C. [[Barlow]] (1834-1896), who as
+[[Attorney-General|attorney-general]] of New York in 1871-1873 took a leading part in the
 prosecution of the "Tweed Ring." For three years the undertaking went on
 quietly and simply, subject to few outward troubles other than financial,
 the number of associates increasing to seventy or eighty. It was during
-this period that Nathaniel Hawthorne had his short experience of Brook
+this period that Nathaniel [[Hawthorne]] had his short experience of Brook
 Farm, of which so many suggestions appear in the _Blithedale Romance_,
 though his preface to later editions effectually disposed of the
 idea--which gave him great pain--that he had either drawn his characters
 from persons there, or had meant to give any actual description of the
 colony. Emerson refused, in a kind and characteristic letter, to join the
 undertaking, and though he afterwards wrote of Brook Farm with not
-uncharitable humour as "a perpetual picnic, a French Revolution in small,
+uncharitable [[Humour|humour]] as "a perpetual picnic, a [[French Revolution]] in small,
 an age of reason in a patty-pan," among its founders were many of his near
 friends. In 1844 the growing need of a more scientific organization, and
 the influence which F.M.C. Fourier's doctrines, as modified by Albert
@@ -57,10 +57,10 @@ associates, combined to change the whole plan of the community. It was
 transformed, with the strong approval of all its chief members and the
 consent of the rest, into a Fourierist "phalanx" in 1845. There was an
 accession of new members, a momentary increase of prosperity, a brilliant
-new undertaking in the publication of a weekly journal, the _Harbinger_, in
-which Ripley, Charles A. Dana, Francis G. Shaw and John S. Dwight were the
-chief writers, and to which James Russell Lowell, J.G. Whittier, George
-William Curtis, Parke Godwin, T.W. Higginson, Horace Greeley and many more
+new undertaking in the publication of a weekly journal, the _[[Harbinger]]_, in
+which Ripley, Charles A. [[Dana]], Francis G. Shaw and John S. [[Dwight]] were the
+chief writers, and to which James Russell [[Lowell]], J.G. Whittier, George
+William Curtis, Parke Godwin, T.W. [[Higginson]], Horace Greeley and many more
 now and then contributed. But the individuality of the old Brook Farm was
 gone. The association was not rescued even from financial troubles by the
 change. With increasing difficulty it kept on till the spring of 1846, when
@@ -68,16 +68,16 @@ a fire which destroyed its nearly completed "phalanstery" brought losses
 which caused, or certainly gave the final ostensible reason for, its
 dissolution. The experiment was abandoned in the autumn of 1847. Besides
 Ripley and Hawthorne, the principal members of the community were Charles
-A. Dana, John S. Dwight, Minot Pratt (c. 1805-1878), the head farmer, who,
-like George Partridge Bradford (1808-1890), left in 1845, and Warren Burton
+A. Dana, John S. Dwight, Minot Pratt (c. 1805-1878), the head [[Farmer|farmer]], who,
+like George Partridge [[Bradford]] (1808-1890), left in 1845, and Warren [[Burton]]
 (1810-1866) a preacher and, later, a writer on educational subjects.
 Indirectly connected with the experiment, also, as visitors for longer or
 shorter periods but never as regular members, were Emerson, Amos Bronson
-Alcott, Orestes A. Brownson, Theodore Parker and William Henry Channing,
-Margaret Fuller and Elizabeth Palmer Peabody. The estate itself, after
+Alcott, Orestes A. Brownson, Theodore Parker and William Henry [[Channing]],
+[[Margaret]] [[Fuller]] and Elizabeth Palmer Peabody. The estate itself, after
 passing through various hands, came in 1870 into the possession of the
 "Association of the Evangelical Lutheran Church for Works of Mercy," which
-established here an orphanage, known as the "Martin Luther Orphan Home."
+established here an orphanage, known as the "[[Martin]] Luther Orphan Home."
 
 The best account of Brook Farm is Lindsay Swift's _Brook Farm, Its Members,
 Scholars and Visitors_ (New York, 1900). _Brook Farm: Historic and Personal
@@ -94,7 +94,7 @@ States_ (New York, 1903).
 [Illustration: FIG. 2.--_Pellia epiphylla_. Group of plants bearing mature
 sporogonia.
 
-From Cooke, _Handbook of British Hepaticae_.]
+From [[Cooke]], _Handbook of British Hepaticae_.]
 
 [Illustration: FIG. 3.--_Pellia epiphylla_.
 
@@ -102,7 +102,7 @@ A, Longitudinal section of thallus at the time of fertilization. an,
 Antheridia; ar, archegonia; in, involucre.
 
 B, Longitudinal section of almost mature sporogonium attached to the
-thallus. in, Involucre; cal, calyptra; f, foot; s, seta; caps, capsule
+thallus. in, Involucre; cal, calyptra; f, foot; s, seta; caps, [[Capsule|capsule]]
 (semi-diagrammatic).]
 
 [Illustration: FIG. 2.--_Pellia epiphylla_. Group of plants bearing mature
@@ -112,7 +112,7 @@ From Cooke, _Handbook of British Hepaticae_.]
 
 _Pellia epiphylla_ (fig. 2) can be found at any season growing in large
 patches on the damp soil of woods, banks, &c. The broad flat thallus is
-green and may be a couple of inches long. It is sparingly branched, the
+green and may be a couple of [[Inch|inches]] long. It is sparingly branched, the
 branching being apparently dichotomous; the growing point is situated in a
 depression at the anterior end of each branch. The wing-like lateral
 portions of the thallus gradually thin out from the midrib; from the
@@ -159,7 +159,7 @@ first are unicellular; but in _Pellia_, which in this respect is
 exceptional, they commence their further development within the capsule,
 and thus consist of several cells when shed. [v.04 p.0647] The cells of the
 capsule wall have incomplete, brown, thickened rings on their walls, and
-the capsule opens by splitting into four valves, which bend away from one
+the capsule opens by splitting into four valves, which [[Bend|bend]] away from one
 another, allowing the loose spores to be readily dispersed by the wind,
 assisted by the hygroscopic movements of the elaters. On falling upon damp
 soil the spores germinate, growing into a thallus, which gradually attains
@@ -195,7 +195,7 @@ and seta is present, and sterile cells or elaters occur with the spores.
 The lower members of the Jungermanniales are also thalloid, but the thallus
 never has the complicated structure characteristic of the Marchantiales,
 and progress is in the direction of the differentiation of the plant into
-stem and leaf. Indications of how this may have come about are afforded by
+stem and [[Leaf|leaf]]. Indications of how this may have come about are afforded by
 the lower group of the Anacrogynous Jungermanniaceae, and throughout the
 Acrogynous Jungermanniacae the plant has well-marked stem and leaves. The
 sporogonium even in the simplest forms has a sterile foot, but in this
@@ -249,7 +249,7 @@ prevention of loss of water from the plant. The large surface presented by
 the leafy forms facilitates the retention and absorption of water. The
 importance of prolonging the moistened condition as long as possible is
 further shown by special adaptations to retain water either between the
-appressed lobes of the leaves or in special pitcher-like sacs. In thalloid
+appressed [[Lobe|lobes]] of the leaves or in special pitcher-like sacs. In thalloid
 forms fimbriate or lobed margins or outgrowths from the surface lead to the
 same result. Sometimes adaptations to protect the plant during seasons of
 drought, such as the rolling up of the thallus in many xerophytic
@@ -328,10 +328,10 @@ and shows a lower region composed of cells containing little chlorophyll
 and an upper stratum specialized for assimilation and transpiration. The
 lower region usually forms a more or less clearly marked midrib, and
 consists of parenchymatous cells, some of which may contain oil-bodies or
-be differentiated as mucilage cells or sclerenchyma fibres. Behind the
+be differentiated as mucilage cells or sclerenchyma [[Fibres|fibres]]. Behind the
 apex, which has a number of initial cells, a series of amphigastria or
 ventral scales is formed. These consist of a single layer of cells, and
-their terminal appendages often fold over the apex and protect it. Usually
+their terminal appendages often [[Fold|fold]] over the apex and protect it. Usually
 they stand in two rows, but sometimes accessory rows occur, and in _Riccia_
 only a single median row is present. The thallus bears two sorts of
 rhizoids, wider ones with smooth walls which grow directly down into the
@@ -405,7 +405,7 @@ germ-tube, in the terminal cell of which the apical cell is established,
 but the direction of growth of the young thallus is usually not in the same
 straight line as the germ-tube. The Marchantiales are divided into a number
 of groups which represent distinct lines of advance from forms like the
-Ricciaceae, but the details of their classification cannot be entered upon
+Ricciaceae, but the details of their [[Classification|classification]] cannot be entered upon
 here. The general nature of the progression exhibited by the group as a
 whole will, however, be evident from the above account.
 
@@ -429,7 +429,7 @@ From Strasburger's _Text-book of Botany_.]
 _Jungermanniaceae Anacrogynae._--The great range of form in the sexual
 plant is well illustrated by the nine genera of this group [v.04 p.0649]
 which occur in Britain. One thalloid form has already been described in
-_Pellia_ (fig. 2). _Sphaerocarpus_, which occurs rarely in stubble fields,
+_Pellia_ (fig. 2). _Sphaerocarpus_, which occurs rarely in stubble [[Fields|fields]],
 is in many respects one of the simplest of the liverworts. The small
 thallus bears the antheridia and archegonia, each of which is surrounded by
 a tubular involucre, on the upper surface of distinct individuals. The
@@ -463,10 +463,10 @@ species, the plant consists of a flattened stem creeping on muddy soil and
 bearing two rows of large obliquely-placed leaves. The sexual organs are
 borne on the upper surface of the midrib, and the sporogonium is surrounded
 by a bell-shaped involucre which grows up after fertilization. _Treubia_,
-which grows on rotting wood in the mountain forests of Java, is similarly
+which grows on rotting wood in the mountain forests of [[Java]], is similarly
 differentiated into stem and leaf, and is the largest liverwort known,
 reaching a length of thirty centimetres. Lastly _Haplomitrium_, a rare
-British genus, forms with the exotic _Calobryum_, an isolated group which
+British genus, forms with the [[Exotic|exotic]] _Calobryum_, an isolated group which
 is most naturally placed among the anacrogynous forms although the
 archegonia are in terminal groups. The erect branches bear three rows of
 leaves, and spring from a creeping axis from which root-like branches
@@ -766,7 +766,7 @@ The social growth of the plants characteristic of many mosses is a result
 of the formation of numerous plants on the original protonema and on
 developments from the rhizoids. Besides this, gemmae may be formed on the
 protonema, on the leaves or at the apex, and some mosses have specialized
-shoots for their better protection or distribution. Thus in _Georgia_ the
+shoots for their better protection or distribution. Thus in _[[Georgia]]_ the
 stalked, multicellular gemmae are borne at the ends of shoots surrounded by
 a rosette of larger leaves, and in _Aulacomnium androgynum_ they are raised
 on an elongated leafless region of the shoot. In other cases detached
@@ -795,11 +795,11 @@ operculum.]
 _Sphagnales._--The single genus _Sphagnum_ occupies a very distinct and
 isolated position among mosses. The numerous species, which are familiar as
 the bog-mosses, are so similar that minute structural characters have to be
-relied on in their identification. The plants occur in large patches of a
+relied on in their [[Identification|identification]]. The plants occur in large patches of a
 pale green or reddish colour on moors, and, when filling up small lakes or
 pools, may attain a length of some feet. Their growth has played a large
 part in the formation of peat. The species are distributed in temperate and
-arctic climates, but in the tropics only occur at high levels. The
+[[Arctic|arctic]] climates, but in the tropics only occur at high levels. The
 protonema forms a flat, lobed, thalloid structure attached to the soil by
 rhizoids, and the plants arise from marginal cells. The main shoot bears
 numerous branches which appear to stand in whorls; some of them bend down
@@ -874,7 +874,7 @@ and in some of the simplest forms is long-lived, while the small plants
 borne on it serve mainly to protect the sexual organs and sporogonia. This
 is the case in _Ephemerum_, which grows on the damp soil of clayey fields,
 and the plants are even more simply constructed in _Buxbaumia_, which
-occurs on soil rich in humus and is possibly partially saprophytic. In this
+occurs on soil rich in [[Humus|humus]] and is possibly partially saprophytic. In this
 moss the filamentous protonema is capable of assimilation, but the leaves
 of the small plants are destitute of chlorophyll, so that they are
 dependent on the protonema. The male plant has no definite stem, and
@@ -953,7 +953,7 @@ capsule. A distinct operculum is usually detached by the help of the
 annulus, and its removal may leave the mouth of the capsule widely open.
 More usually there is a peristome, consisting of one or two series of
 teeth, which serves to narrow the opening and in various ways to ensure the
-gradual shedding of the spores in dry weather. In most mosses the teeth are
+[[Gradual|gradual]] shedding of the spores in dry weather. In most mosses the teeth are
 portions of thickened cell-walls but in the Polytrichaceae they are formed
 of a number of sclerenchymatous cells. In _Polytrichum_ a membranous
 epiphragm stretches across the wide mouth of the capsule between the tips
@@ -1032,8 +1032,8 @@ comparison in their alternation of generations with _Riccia_, have shown
 that the body resulting from the segmentation of the fertilized ovum is not
 so strictly comparable in the two cases as had been supposed. The series of
 increasingly complex sporogonia among Bryophytes appears to be most
-naturally explained on an hypothesis of progressive sterilization of
-sporogenous tissue, such as has been advanced by Bower. On the other hand
+naturally explained on an [[Hypothesis|hypothesis]] of progressive sterilization of
+sporogenous tissue, such as has been advanced by [[Bower]]. On the other hand
 there are not wanting indications of reduction in the Bryophyte sporogonium
 which make an alternative view of its origin at least possible. With regard
 to the relationship of the Bryophyta and Pteridophyta the article on the
@@ -1057,7 +1057,7 @@ For further information consult: Campbell, _Mosses and Ferns_ (London,
 Full references to the literature of the subject will be found in these
 works. For the identification of the British species of liverworts and
 mosses the following recent works will be of use: Pearson, _The Hepaticae
-of the British Isles_ (London, 1902); Dixon and Jameson, _The Student's
+of the British Isles_ (London, 1902); Dixon and [[Jameson]], _The Student's
 Handbook of British Mosses_ (London, 1896); Braithwaite, _British Moss
 Flora_ (London, 1887-1905).
 

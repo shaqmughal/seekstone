@@ -19,7 +19,7 @@ There does not seem to have been any cult of Fama among the Romans, by
 whom she was regarded merely as "a figure of poetical religion." The
 Temple of Fame and Omen (Pheme and Cledon) mentioned by Plutarch
 (_Moralia_, p. 319) is due to a confusion with Aius Locutius, the
-divinity who warned the Romans of the coming attack of the Gauls. There
+divinity who warned the Romans of the coming attack of the [[Gaul|Gauls]]. There
 are well-known descriptions of Fame in Virgil (_Aeneid_, iv. 173) and
 Ovid (_Metam._ xii. 39); see also Valerius Flaccus (ii. 116), Statius
 (_Thebais_, iii. 425). An unfavourable idea gradually became attached to

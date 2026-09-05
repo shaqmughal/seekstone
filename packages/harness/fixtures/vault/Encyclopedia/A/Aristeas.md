@@ -11,7 +11,7 @@ tags: [history]
 ARISTEAS, the pseudonymous author of a famous _Letter_ in which is
 described, in legendary form, the origin of the Greek translation of the
 Old Testament known as the Septuagint (q.v.). Aristeas represents
-himself as a Gentile Greek, but was really an Alexandrian Jew who lived
+himself as a [[Gentile]] Greek, but was really an Alexandrian Jew who lived
 under one of the later Ptolemies. Though the _Letter_ is unauthentic, it
 is now recognized as a useful source of information concerning both
 Egyptian and Palestinian affairs in the 2nd and possibly in the 3rd
@@ -26,12 +26,12 @@ century B.C.
 
 
 
-ARISTIDES [[Greek: Aristeides]] (c. 530-468 B.C.), Athenian statesman,
-called "the Just," was the son of Lysimachus, and a member of a family
+[[Aristides|ARISTIDES]] [[Greek: Aristeides]] (c. 530-468 B.C.), Athenian statesman,
+called "the Just," was the son of [[Lysimachus]], and a member of a family
 of moderate fortune. Of his early life we are told merely that he became
-a follower of the statesman Cleisthenes and sided with the aristocratic
+a follower of the statesman [[Cleisthenes]] and sided with the aristocratic
 party in Athenian politics. He first comes into notice as strategus in
-command of his native tribe Antiochis at Marathon, and it was no doubt
+command of his native tribe Antiochis at [[Marathon]], and it was no doubt
 in consequence of the distinction which he then achieved that he was
 elected chief archon for the ensuing year (489-488). In pursuance of his
 conservative policy which aimed at maintaining Athens as a land power,
@@ -44,14 +44,14 @@ Aristides. The latter asked if Aristides had wronged him. "No," was the
 reply, "and I do not even know him, but it irritates me to hear him
 everywhere called _the just_."
 
-Early in 480 Aristides profited by the decree recalling the
+Early in 480 Aristides profited by the [[Decree|decree]] recalling the
 post-Marathonian exiles to help in the defence of Athens against the
 Persian invaders, and was elected strategus for the year 480-479. In the
 campaign of Salamis he rendered loyal support to Themistocles, and
 crowned the victory by landing Athenian infantry on the island of
-Psyttaleia and annihilating the Persian garrison stationed there (see
+Psyttaleia and annihilating the Persian [[Garrison|garrison]] stationed there (see
 SALAMIS). In 479 he was re-elected strategus, and invested with special
-powers as commander of the Athenian contingent at Plataea; he is also
+powers as [[Commander|commander]] of the Athenian contingent at Plataea; he is also
 said to have judiciously suppressed a conspiracy among some oligarchic
 malcontents in the army, and to have played a prominent part in
 arranging for the celebration of the victory. In 478 or 477 Aristides
@@ -59,7 +59,7 @@ was in command of the Athenian squadron off Byzantium, and so far won
 the confidence of the Ionian allies that, after revolting from the
 Spartan admiral Pausanias, they offered him the chief command and left
 him with absolute discretion in fixing the contributions of the newly
-formed confederacy (see DELIAN LEAGUE). His assessment was universally
+formed confederacy (see [[Delian League|DELIAN LEAGUE]]). His [[Assessment|assessment]] was universally
 accepted as equitable, and continued as the basis of taxation for the
 greater part of the league's duration; it was probably from this that he
 won the title of "the Just." Aristides soon left the command of the

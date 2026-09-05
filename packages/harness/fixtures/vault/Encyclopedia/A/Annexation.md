@@ -8,19 +8,19 @@ id: 42-4406
 
 # Annexation
 
-ANNEXATION (Lat. _ad_, to, and _nexus_, joining), in international law,
+ANNEXATION (Lat. _ad_, to, and _nexus_, joining), in [[International|international]] law,
 the act by which a state adds territory to its dominions; the term is
-also used generally as a synonym for acquisition. The assumption of a
+also used generally as a synonym for acquisition. The [[Assumption|assumption]] of a
 protectorate over another state, or of a sphere of influence, is not
 strictly annexation, the latter implying the complete displacement in
 the annexed territory of the government or state by which it was
 previously ruled. Annexation may be the consequence of a voluntary
-cession from one state to another, or of conversion from a protectorate
+cession from one state to another, or of [[Conversion|conversion]] from a protectorate
 or sphere of influence, or of mere occupation in uncivilized regions, or
 of conquest. The cession of Alsace-Lorraine to Germany by France,
 although brought about by the war of 1870, was for the purposes of
 international law a voluntary cession. Under the treaty of the 17th of
-December 1885, between the French republic and the queen of Madagascar,
+December 1885, between the French republic and the queen of [[Madagascar]],
 a French protectorate was established over this island. In 1896 this
 protectorate was converted by France into an annexation, and Madagascar
 then became "French territory." The formal annexation of
@@ -50,14 +50,14 @@ repudiated these sales as having been made by a government which the
 British government had already displaced. The question of at what point,
 in a war of conquest, the state succession becomes operative is one of
 great delicacy. As early as the 6th of January 1900, the high
-commissioner at Cape Town issued a proclamation giving notice that H.M.
-government would "not recognize as valid or effectual" any conveyance,
+commissioner at [[Cape Town]] issued a proclamation giving notice that H.M.
+government would "not recognize as valid or effectual" any [[Conveyance|conveyance]],
 transfer or transmission of any property made by the government of the
 Transvaal republic or Orange Free State subsequently to the 10th of
 October 1899, the date of the commencement of the war. A proclamation
 forbidding transactions with a state which might still be capable of
 maintaining its independence could obviously bind only those subject to
-the authority of the state issuing it. Like paper blockades (see
+the authority of the state issuing it. Like paper [[Blockade|blockades]] (see
 BLOCKADE) and fictitious occupations of territory, such premature
 proclamations are viewed by international jurists as not being _jure
 gentium_. The proclamation was succeeded, on the 9th of March 1900, by
@@ -71,11 +71,11 @@ difficulty which arose out of the transfer of the South African Railway
 shares held by the Transvaal government was satisfactorily terminated by
 the purchase by the British government of the total capital of the
 company from the different groups of shareholders (see on this case, Sir
-Thomas Barclay, _Law Quarterly Review_, July 1905; and Professor
+Thomas [[Barclay]], _Law Quarterly Review_, July 1905; and Professor
 Westlake, in the same _Review_, October 1905).
 
 In a judgment of the judicial committee of the privy council in 1899
-(_Coote_ v. _Sprigg_, A.C. 572), Lord Chancellor Halsbury made an
+(_[[Coote]]_ v. _Sprigg_, A.C. 572), Lord Chancellor [[Halsbury]] made an
 important distinction as regards the obligations of state succession.
 The case in question was a claim of title against the crown, represented
 by the government of Cape Colony. It was made by persons holding a
@@ -133,7 +133,7 @@ acquired from Spain under the treaty of Paris (December 10, 1898) has
 given rise to minute discussion.
 
   See Carman F. Randolph, _Law and Policy of Annexation_ (New York and
-  London, 1901); Charles Henry Butler, _Treaty-making Power of the
+  London, 1901); Charles Henry [[Butler]], _Treaty-making Power of the
   United States_ (New York, 1902), vol. i. p. 79 et seq.     (T. Ba.)
 
 ## See also

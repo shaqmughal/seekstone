@@ -11,7 +11,7 @@ territory are Venezuelan (formerly Spanish) Guiana, lying on both sides
 of the Orinoco and extending S. and S.W. to the Rio Negro and Brazilian
 settlements; British Guiana, extending from Venezuela to the left bank
 of the Corentyn river; Dutch Guiana (or Surinam), from the Corentyn to
-the Maroni river; French Guiana (or Cayenne), from the Maroni to the
+the Maroni river; French Guiana (or [[Cayenne]]), from the Maroni to the
 Oyapock river;[2] Brazilian (formerly Portuguese) Guiana, extending from
 the southern boundaries of French, Dutch, British and part of Venezuelan
 Guiana, to the Amazon and the Negro. Of these divisions the first and
@@ -19,9 +19,9 @@ last are now included in Venezuela and Brazil respectively; British,
 Dutch and French Guiana are described in order below, and are alone
 considered here.
 
-[Illiustration: Map of Guiana.]
+[Illiustration: [[Map]] of Guiana.]
 
-In their physical geography the three Guianas present certain common
+In their physical [[Geography|geography]] the three Guianas present certain common
 characteristics. In each the principal features are the rivers and their
 branch streams. In each colony the northern portion consists of a
 fluviomarine deposit extending inland and gradually rising to a height
@@ -36,12 +36,12 @@ rising in places to as much as 2000 ft. The greater part of this belt of
 country, in which the auriferous districts principally occur, is covered
 with a dense growth of jungle and high forest, but savannahs, growing
 only a long wiry grass and poor shrubs, intrude here and there, being in
-the S.E. much nearer to the coast than in the N.W. The hinterlands
+the S.E. much nearer to the coast than in the N.W. The [[Hinterland|hinterlands]]
 consist of undulating open savannahs rising into hills and mountains,
 some grass-covered, some in dense forest.
 
-  _Geology_[3].--Guiana is formed almost entirely of gneiss and
-  crystalline schists penetrated by numerous dikes of diorite, diabase,
+  _Geology_[3].--Guiana is formed almost entirely of [[Gneiss|gneiss]] and
+  crystalline schists penetrated by numerous [[Dike|dikes]] of [[Diorite|diorite]], diabase,
   &c. The gold of the placer deposits appears to be derived, not from
   quartz reefs, but from the schists and intrusive rocks, the selvages
   of the diabase dikes sometimes containing as much as 5 oz. of gold to
@@ -61,7 +61,7 @@ some grass-covered, some in dense forest.
 _History._--The coast of Guiana was sighted by Columbus in 1498 when he
 discovered the island of Trinidad and the peninsula of Paria, and in the
 following year by Alonzo de Ojeda and Amerigo Vespucci; and in 1500
-Vincente Yanez Pinzon ventured south of the equator, and sailing
+Vincente Yanez Pinzon ventured south of the [[Equator|equator]], and sailing
 north-west along the coast discovered the Amazon; he is believed to have
 also entered some of the other rivers of Guiana, one of which, now
 called Oyapock, is marked on early maps as Rio Pinzon. Little, however,
@@ -69,7 +69,7 @@ was known of Guiana until the fame of the fabled golden city Manoa or El
 Dorado tempted adventurers to explore its rivers and forests. From
 letters of these explorers found in captured ships, Sir Walter Raleigh
 was induced to ascend the Orinoco in search of El Dorado in 1595, to
-send Lawrence Keymis on the same quest in the following year, and in
+send [[Lawrence]] Keymis on the same quest in the following year, and in
 1617 to try once again, with the same intrepid lieutenant, an expedition
 fraught with disaster for both of them. As early as 1580 the Dutch had
 established a systematic trade with the Spanish main, but so far as is
@@ -82,7 +82,7 @@ Essequibo and Demerara, English and French traders were endeavouring to
 form settlements on the Oyapock river, in Cayenne and in Surinam, and by
 1652 the English had large interests in the latter and the French in
 Cayenne. In 1663 Charles II. issued letters patent to Lord Willoughby of
-Parham and Lawrence Hyde, second son of the earl of Clarendon, granting
+Parham and Lawrence Hyde, second son of the earl of [[Clarendon]], granting
 them the district between the Copenam and Maroni rivers, a province
 described as extending from E. to W. some 120 m. This colony was,
 however, formally ceded to the Netherlands in 1667 by the peace of
@@ -137,7 +137,7 @@ in 1803, in which year the history proper of British Guiana began.
 I. BRITISH GUIANA, the only British possession in S. America, was
 formally ceded in 1814-1815. The three colonies were in 1831
 consolidated into one colony divided into three counties, Berbice
-extending from the Corentyn river to the Abary creek, Demerara from the
+extending from the Corentyn river to the Abary [[Creek|creek]], Demerara from the
 Abary to the Boerasirie creek, Essequibo from the Boerasirie to the
 Venezuelan frontier. This boundary-line between British Guiana and
 Venezuela was for many years the subject of dispute. The Dutch, while
@@ -154,7 +154,7 @@ line, and for some years Guianese police and Venezuelan soldiers faced
 one another across the Amacura creek in the Orinoco mouth and at Yuruan
 up the Cuyuni river. In 1897 the dispute formed the subject of a message
 to congress from the president of the United States, and in consequence
-of this intervention the matter was submitted to an international
+of this intervention the matter was submitted to an [[International|international]]
 commission, whose award was issued at Paris in 1899 (see VENEZUELA). By
 this decision neither party gained its extreme claim, the line laid down
 differing but little from the original Schomburgk line. The demarcation
@@ -166,15 +166,15 @@ Wenamu creek and the summit of Mt. Roraima, and the boundary
 commissioners suggested a deviation to follow the watersheds of the
 Caroni, Cuyuni and Mazaruni rivers, a suggestion accepted by the two
 governments. In 1902 the delimitation of the boundary between British
-Guiana and Brazil was referred to the arbitration of the king of Italy,
+Guiana and Brazil was referred to the [[Arbitration|arbitration]] of the king of Italy,
 and by his reward, issued in June 1904, the substantial area in dispute
 was conceded to British Guiana. The work of demarcation has since been
 carried out.
 
-_Towns, &c._--The capital of British Guiana is Georgetown, at the mouth
+_Towns, &c._--The capital of British Guiana is [[Georgetown]], at the mouth
 of the Demerara river, on its right bank, with a population of about
 50,000. New Amsterdam, on the right bank of the Berbice river, has a
-population of about 7500. Each possesses a mayor and town council, with
+population of about 7500. Each possesses a [[Mayor|mayor]] and town council, with
 statutory powers to impose rates. There are nineteen incorporated
 villages, and ten other locally governed areas known as country
 districts, the affairs of which are controlled by local authorities,
@@ -185,7 +185,7 @@ as 278,328. There was no census taken in 1901. By official estimates the
 population at the end of 1904 was 301,923. Of these some 120,000 were
 negroes and 124,000 East Indians; 4300 were Europeans, other than
 Portuguese, estimated at about 11,600, and some 30,000 of mixed race.
-The aborigines--Arawaks, Caribs, Wapisianas, Warraws, &c.--who numbered
+The aborigines--Arawaks, [[Caribs]], Wapisianas, Warraws, &c.--who numbered
 about 10,000 in 1891, are now estimated at about 6500. In 1904 the
 birth-rate for the whole colony was 30.3 per 1000 and the death-rate
 28.8.
@@ -210,14 +210,14 @@ birth-rate for the whole colony was 30.3 per 1000 and the death-rate
   residua of igneous rocks decomposed _in situ_, which form an extensive
   undulating region rising to 150 ft. above the sea and stretching back
   to the forest-covered hills. Roughly parallel to the existing
-  coast-line are narrow reefs of sand and sea-shells, which are dunes
+  coast-line are narrow reefs of sand and sea-shells, which are [[Dunes|dunes]]
   indicating the trend of former limits of the sea, and still farther
   back are the higher "sand hills," hills of granite or diabase with a
   thick stratum of coarse white sand superimposed. From the coast-line
   seawards the ocean deepens very gradually, and at low tide extensive
   flats of sand and of mixed clay and sand (called locally "caddy") are
   left bare, these flats being at times covered with a deposit of thin
-  drift mud.
+  [[Drift|drift]] mud.
 
   Two great parallel mountain systems cross the colony from W. to E.,
   the greater being that of the Pacaraima and Merume Mts., and the
@@ -243,11 +243,11 @@ birth-rate for the whole colony was 30.3 per 1000 and the death-rate
   Roraima and Kukenaam). The sandstone formation can be traced from the
   northern Pacaraima range on the N.W. to the Corentyn in the S.E. It is
   traversed in places by dikes and sills of diabase or dolerite, while
-  bosses of more or less altered gabbro rise through it. The surface of
+  bosses of more or less altered [[Gabbro|gabbro]] rise through it. The surface of
   a large part of the colony is composed of gneiss, and of gneissose
   granite, which is seen in large water-worn bosses in the river beds.
   Intrusive granite is of somewhat rare occurrence; where found, it
-  gives rise to long low rolls of hilly country and to cataracts in the
+  gives rise to long low rolls of hilly country and to [[Cataract|cataracts]] in the
   rivers. Extensive areas of the country consist of quartz-porphyry,
   porphyrites and felstone, and of more or less schistose rocks derived
   from them. These rocks are closely connected with the gneissose
@@ -268,11 +268,11 @@ birth-rate for the whole colony was 30.3 per 1000 and the death-rate
   Essequibo, and its tributaries the Mazaruni and Cuyuni, the Demerara,
   the Berbice and the Corentyn. The Essequibo rises in the Acarai Mts.,
   in 0 deg. 41' N. and about 850 ft. above the sea, and flows northwards
-  for about 600 m. until it discharges itself into the ocean by an
+  for about 600 m. until it [[Discharge|discharges]] itself into the ocean by an
   estuary nearly 15 m. in width. In this estuary are several large and
   fertile islands, on four of which sugar used to be grown. Now but one,
   Wakenaam, can boast of a factory. The Essequibo can be entered only by
-  craft drawing less than 20 ft. and is navigable for these vessels for
+  [[Craft|craft]] drawing less than 20 ft. and is navigable for these vessels for
   not more than 50 m., its subsequent course upwards being frequently
   broken by cataracts and rapids. Some 7 m. below the first series of
   rapids it is joined by the Mazaruni, itself joined by the Cuyuni some
@@ -289,7 +289,7 @@ birth-rate for the whole colony was 30.3 per 1000 and the death-rate
   American rivers with one another. Another large tributary of the
   Essequibo is the Potaro, on which, at 1130 ft. above sea-level and in
   5 deg. 8' N. and 59 deg. 19' W., is the celebrated Kaieteur fall,
-  discovered in 1870 by Mr C. Barrington Brown while engaged on a
+  discovered in 1870 by Mr C. [[Barrington]] Brown while engaged on a
   geological survey. This fall is produced by the river flowing from a
   tableland of sandstone and conglomerate into a deep valley 822 ft.
   below. For the first 741 ft. the water falls as a perpendicular
@@ -329,17 +329,17 @@ birth-rate for the whole colony was 30.3 per 1000 and the death-rate
   colour.
 
   _Climate._--The climate is, as tropical countries go, not unhealthy.
-  Malarial fevers are common but preventible; and phthisis is prevalent,
+  Malarial [[Fever|fevers]] are common but preventible; and phthisis is prevalent,
   not because the climate is unsuitable to sufferers from pulmonary
-  complaints, but because of the ignorance of the common people of the
-  elementary principles of hygiene, an ignorance which the state is
+  complaints, but because of the [[Ignorance|ignorance]] of the common people of the
+  elementary principles of [[Hygiene|hygiene]], an ignorance which the state is
   endeavouring to lessen by including the teaching of hygiene in the
   syllabus of the primary schools. The temperature is uniform on the
   coast for the ten months from October to July, the regular N.E. trade
   winds keeping it down to an average of 80 deg. F. In August and
   September the trades die away and the heat becomes oppressive. In the
-  interior the nights are cold and damp. Hurricanes, indeed even strong
-  gales, are unknown; a tidal wave is an impossibility; and the nature
+  interior the nights are cold and damp. [[Hurricane|Hurricanes]], indeed even strong
+  [[Gale|gales]], are unknown; a tidal wave is an impossibility; and the nature
   of the soil of the coast lands renders earthquakes practically
   harmless. Occasionally there are severe droughts, and the rains are
   sometimes unduly prolonged, but usually the year is clearly divided
@@ -352,57 +352,57 @@ birth-rate for the whole colony was 30.3 per 1000 and the death-rate
 
   _Flora._--The vegetation is most luxuriant and its growth perpetual.
   Indigenous trees and plants abound in the utmost variety, while many
-  exotics have readily adapted themselves to local conditions. Along the
+  [[Exotic|exotics]] have readily adapted themselves to local conditions. Along the
   coast is a belt of courida and mangrove--the bark of the latter being
   used for tanning--forming a natural barrier to the inroads of the sea,
   but one which--very unwisely--has been in parts almost ruined to allow
   of direct drainage. The vast forests afford an almost inexhaustible
-  supply of valuable timbers; greenheart and mora, largely used in
-  shipbuilding and for wharves and dock and lock gates; silverbally,
-  yielding magnificent planks for all kinds of boats; and cabinet woods,
+  supply of valuable timbers; [[Greenheart|greenheart]] and mora, largely used in
+  shipbuilding and for wharves and [[Dock|dock]] and [[Lock|lock]] gates; silverbally,
+  yielding magnificent planks for all kinds of boats; and [[Cabinet|cabinet]] woods,
   such as cedar and crabwood. There may be seen great trees, struggling
   for life one with the other, covered with orchids--some of great
-  beauty and value--and draped with falling _lianas_ and vines. Giant
+  beauty and value--and draped with falling _lianas_ and vines. [[Giant]]
   palms fringe the river-banks and break the monotony of the mass of
-  smaller foliage. Many of the trees yield gums, oils and febrifuges,
-  the bullet tree being bled extensively for _balata_, a gum used
+  smaller foliage. Many of the trees yield [[Gum|gums]], oils and febrifuges,
+  the [[Bullet|bullet]] tree being bled extensively for _balata_, a gum used
   largely in the manufacture of belting. Valuable varieties of rubber
   have also been found in several districts, and since early in 1905
-  have attracted the attention of experts from abroad. On the coast
+  have attracted the attention of [[Expert|experts]] from abroad. On the coast
   plantains, bananas and mangoes grow readily and are largely used for
   food, while several districts are admirably adapted to the growth of
   limes. Oranges, pineapples, star-apples, granadillas, guavas are among
-  the fruits; Indian corn, cassava, yams, eddoes, tannias, sweet
+  the fruits; Indian [[Corn|corn]], [[Cassava|cassava]], yams, eddoes, tannias, sweet
   potatoes and ochroes are among the vegetables, while innumerable
   varieties of peppers are grown and used in large quantities by all
-  classes. The dainty avocado pear, purple and green, grows readily. In
-  the lagoons and trenches many varieties of water-lilies grow wild, the
+  classes. The dainty [[Avocado Pear|avocado pear]], purple and green, grows readily. In
+  the [[Lagoon|lagoons]] and trenches many varieties of water-lilies grow wild, the
   largest being the famous _Victoria regia_.
 
-  _Fauna._--Guiana is full of wild animals, birds, insects and reptiles.
+  _Fauna._--Guiana is full of wild animals, birds, [[Insect|insects]] and reptiles.
   Among the wild animals, one and all nocturnal, are the mipourrie or
   tapir, manatee, acouri and labba (both excellent eating), sloth,
-  ant-eater, armadillo, several kinds of deer, baboons, monkeys and the
-  puma and jaguar. The last is seen frequently down on the coast,
+  ant-eater, [[Armadillo|armadillo]], several kinds of deer, baboons, monkeys and the
+  puma and [[Jaguar|jaguar]]. The last is seen frequently down on the coast,
   attracted from the forest by the cattle grazing on the front and back
   pasture lands of the estates. Among the birds may be mentioned the
   carrion crow (an invaluable scavenger), vicissi and muscovy ducks,
   snipe, teal, plover, pigeon, the ubiquitous kiskadee or _qu'est que
   dit_, a species of shrike--his name derived from his shrill call--the
-  canary and the twa-twa, both charming whistlers. These are all found
+  [[Canary|canary]] and the twa-twa, both charming whistlers. These are all found
   on the coast. In the forest are maam (partridge), maroudi (wild
-  turkey), the beautiful bell-bird with note like a silver gong, the
+  turkey), the beautiful bell-bird with note like a silver [[Gong|gong]], the
   quadrille bird with its tuneful oft-repeated bar, great flocks of
-  macaws and parrots, and other birds of plumage of almost indescribable
+  [[Macaw|macaws]] and parrots, and other birds of plumage of almost indescribable
   richness and variety. On the coast the trenches and canals are full of
   alligators, but the great cayman is found only in the rivers of the
   interior. Among the many varieties of snakes are huge constricting
   camoudies, deadly bushmasters, labarrias and rattlesnakes. Among other
-  reptiles are the two large lizards, the salumpenta (an active enemy of
+  reptiles are the two large [[Lizard|lizards]], the salumpenta (an active enemy of
   the barn-door fowl), and the iguana, whose flesh when cooked resembles
   tender chicken. The rivers, streams and trenches abound with fishes,
-  crabs and shrimps, the amount of the latter consumed being enormous,
-  running into tons weekly as the coolies use them in their curries and
+  [[Crab|crabs]] and shrimps, the amount of the latter consumed being enormous,
+  running into tons weekly as the [[Coolie|coolies]] use them in their [[Currie|curries]] and
   the blacks in their foo-foo.
 
 _Government and Administration._--Executive power is vested in a
@@ -436,12 +436,12 @@ allowed the use of all revenues due to the crown in return for a civil
 list voted for a term now fixed at three years. English is the official
 and common language. The Roman-Dutch law, modified by orders-in-council
 and local statutes, governs actions in the civil courts, but the
-criminal law is founded on that of England. Magistrates have in civil
+criminal law is founded on that of England. [[Magistrate|Magistrates]] have in civil
 cases jurisdiction up to L20, while an appeal lies from their decisions
 in any criminal or civil case. The supreme court consists of a chief
 justice and two puisne judges, and has various jurisdictions. The full
 court, consisting of the three judges or any two of them, has
-jurisdiction over all civil matters, but an appeal lies to His Majesty
+jurisdiction over all civil matters, but an appeal lies to His [[Majesty]]
 in privy council in cases involving L500 and upwards. A single judge
 sits in insolvency, in actions involving not over L520, and in appeals
 from magistrates' decisions. The appeal full court, consisting of three
@@ -454,11 +454,11 @@ There are no imperial troops now stationed in British Guiana, but there
 is a semi-military police force, a small militia and two companies of
 volunteers. The Church of England and the Church of Scotland are both
 established, and grants-in-aid are also given to the Roman Catholic and
-Wesleyan churches and to several other denominations.
+Wesleyan churches and to several other [[Denomination|denominations]].
 
   The revenue and expenditure now each amount annually to an average of
   a little over L500,000. About one-half of the revenue is produced by
-  import duties, and about L90,000 by excise. The public debt on the
+  import duties, and about L90,000 by excise. The public [[Debt|debt]] on the
   31st of March 1905 stood at L989,620.
 
   The system of primary education is denominational and is mainly
@@ -467,7 +467,7 @@ Wesleyan churches and to several other denominations.
   scholar being a little over L1. These grants are calculated on the
   results of examinations held annually, an allowance varying from 4s.
   4-1/2d. to 1s. 0-1/2d. being made for each pass in reading, writing,
-  arithmetic, school-garden work, nature study, singing and drill,
+  [[Arithmetic|arithmetic]], school-garden work, nature study, singing and drill,
   English, geography, elementary hygiene and sewing. Secondary education
   is provided in Georgetown at some private establishments, and for boys
   at Queen's College, an undenominational government institution where
@@ -503,7 +503,7 @@ Wesleyan churches and to several other denominations.
   remains, in spite of numerous fluctuations, the staple industry. The
   provision of a trustworthy labour supply for the estates is of great
   importance, and local scarcity has made it necessary since 1840 to
-  import it under a system of indenture. In that year and until 1867,
+  import it under a system of [[Indenture|indenture]]. In that year and until 1867,
   liberated Africans were brought from Rio de Janeiro, Havana, Sierra
   Leone and St Helena, and in 1845 systematic immigration from India
   commenced and has since been carried on annually--save in 1849-1850.
@@ -524,13 +524,13 @@ Wesleyan churches and to several other denominations.
   Portuguese possessions. The lands on the coast and on the river banks
   up to the sand hills are of marked fertility, and can produce almost
   any tropical vegetable or fruit. Cultivation, however, save on the
-  sugar, coffee and cocoa estates, and by a few exceptional small
-  farmers, is carried on in a haphazard and half-hearted manner, and the
+  sugar, coffee and [[Cocoa|cocoa]] estates, and by a few exceptional small
+  [[Farmer|farmers]], is carried on in a haphazard and half-hearted manner, and the
   problem of agricultural development is one of great difficulty for the
   government. Much of the privately-owned land is not beneficially
   occupied, and in many cases it is not possible even to learn to whom
   it belongs, and though there are vast tracts of uncultivated crown
-  land where a large farm or a small homestead can be easily and cheaply
+  land where a large farm or a small [[Homestead|homestead]] can be easily and cheaply
   acquired, the difficulties involved in clearing, draining, and in some
   cases of protecting it by dams, are prohibitive to all but the
   exceptionally determined.
@@ -560,22 +560,22 @@ Wesleyan churches and to several other denominations.
   quantities, and since 1900 efforts have been made to extend the
   output, nearly 11,000 carats weight of diamonds being exported in
   1904. But though the small stones found were of good water, the cost
-  of transport to the diamond fields, on the Mazaruni river, was heavy,
+  of transport to the diamond [[Fields|fields]], on the Mazaruni river, was heavy,
   and after 1904 the industry declined. Laws dealing with gold and
   precious stones passed in 1880, 1886 and 1887, and regulations in
   1899, were codified in 1902 and amended in 1905.
 
-  Timber is cut, and balata and rubber collected, from crown lands by
+  Timber is cut, and balata and rubber collected, from [[Crown Land|crown lands]] by
   licences issued from the department of Lands and Mines. Wood-cutting,
   save on concessions held by a local company owning an up-country line
   of railway connecting the Demerara and Essequibo rivers, is limited to
   those parts of the forest which are close to the lower stretches of
-  the rivers and creeks, the overland haulage of the heavy logs being
+  the rivers and creeks, the overland haulage of the heavy [[Log|logs]] being
   both difficult and costly, while transport through the upper reaches
   of the rivers is impossible on account of the many cataracts and
   rapids. The average annual value of imports is L1,500,000, of which
   about two-thirds are from Great Britain and British possessions. Of
-  the vessels trading with the colony, most are under the British flag,
+  the vessels trading with the colony, most are under the British [[Flag|flag]],
   the remainder being principally American and Norwegian.
 
   The money of account is dollars and cents, but, with the exception of
@@ -590,9 +590,9 @@ Wesleyan churches and to several other denominations.
   railway 60-1/2 m. in length runs from Georgetown to Rosignol on the
   left bank of the Berbice river opposite New Amsterdam; and another
   line 15 m. long starts from Vreed-en-hoop, on the left bank of the
-  Demerara river opposite Georgetown, and runs to Greenwich Park on the
+  Demerara river opposite Georgetown, and runs to [[Greenwich]] Park on the
   right bank of the Essequibo river some 3 m. from its mouth. A light
-  railway, metre gauge, 18-1/2 m. in length, connects Wismar (on the
+  railway, metre [[Gauge|gauge]], 18-1/2 m. in length, connects Wismar (on the
   left bank of the Demerara river some 70 m. from its mouth) with
   Rockstone (on the right bank of the Essequibo, and above the first
   series of cataracts in that river). Steamers run daily to and from
@@ -605,7 +605,7 @@ Wesleyan churches and to several other denominations.
   diamond fields. Steamers also run from Georgetown to New Amsterdam and
   up the Berbice river for about 100 m. Above the termini of these
   steamer routes all travelling is done in keelless _bateaux_, propelled
-  by paddlers and steered when coming through the rapids at both bow and
+  by paddlers and steered when coming through the rapids at both [[Bow|bow]] and
   stern by certificated bowmen and steersmen. Owing to the extreme
   dangers of this inland travelling, stringent regulations have been
   framed as to the loading of boats, supply of ropes and qualifications
@@ -617,14 +617,14 @@ Wesleyan churches and to several other denominations.
 
   From England British Guiana is reached in sixteen days by the steamers
   of the Royal Mail Steam Packet Company, and in nineteen days by those
-  of the direct line from London and Glasgow. There are also regular
+  of the direct line from London and [[Glasgow]]. There are also regular
   services from Canada, the United States, France and Holland.
 
 _History._--When taken over in 1803 the prospects of three British
 colonies were by no means promising, and during the next decade the
 situation became very critical. Owing to the increased output of sugar
 by conquered Dutch and French colonies the English market was glutted
-and the markets of the continent of Europe were not available, Bonaparte
+and the markets of the continent of Europe were not available, [[Bonaparte]]
 having closed the ports. The years 1811 and 1812 were peculiarly
 disastrous, especially to those engaged in the manufacture of sugar, and
 at a public meeting held in Georgetown early in the latter year it was
@@ -651,7 +651,7 @@ demanding their freedom, attacked the houses of several managers, and
 although at most points these attacks were repulsed with but little loss
 on either side, the situation was so serious as to necessitate the
 calling out of the military. The ringleaders were arrested and promptly
-and vigorously dealt with, while a special court-martial was appointed
+and vigorously dealt with, while a special [[Court-Martial|court-martial]] was appointed
 to try the Rev. John Smith, of the London Missionary Society, who it was
 alleged had fostered the rising by his teachings to the slave
 congregation at his chapel in Le Ressouvenir. This trial was stigmatized
@@ -667,7 +667,7 @@ to have been strictly veracious. He was found guilty and sentenced to be
 hanged. It is obvious that it was never intended to carry out this
 sentence, and on the 29th of November the governor announced that he
 felt it imperative on him to transmit the findings of the court for His
-Majesty's consideration. The question of Smith's guilt or innocence
+Majesty's consideration. The question of Smith's [[Guilt|guilt]] or innocence
 created a great deal of feeling in England, the anti-slavery and
 missionary societies making it a basis for increased agitation in favour
 of the slaves; but the imperial government evidently agreed with the
@@ -680,7 +680,7 @@ April 1824, but Mr Smith had died in the city jail on the 6th of
 February of a pulmonary complaint from which he had been suffering for
 some time.
 
-Sir Benjamin d'Urban was governor from April 1824 to May 1833, the
+Sir [[Benjamin]] [[D'Urban|d'Urban]] was governor from April 1824 to May 1833, the
 principal event of his administration being the consolidation in 1831 of
 the three colonies into one colony divided into three counties, Berbice,
 Demerara and Essequibo.
@@ -762,8 +762,8 @@ Venezuelan soldiers faced one another across the Amacura creek in the
 Orinoco mouth and at Yuruan up the Cuyuni river. Guianese officers were,
 however, presumably instructed not actively to oppose acts of aggression
 by the Venezuelan government, for in January 1895 Venezuelan soldiers
-arrested Messrs D. D. Barnes and A. H. Baker, inspectors of police in
-charge at Yuruan station, conveyed them through Venezuela to Caracas,
+arrested Messrs D. D. [[Barnes]] and A. H. [[Baker]], inspectors of police in
+charge at Yuruan station, conveyed them through Venezuela to [[Caracas]],
 eventually allowing them to take steamer to Trinidad. For this act
 compensation was demanded and was eventually paid by Venezuela. The
 diplomatic question as to the boundary--the results of which are stated
@@ -773,7 +773,7 @@ arbitration under VENEZUELA.
 The last two months of 1905 were marked by serious disturbances in
 Georgetown, and in a lesser degree on the east and west banks of the
 Demerara river. On the 29th of November the dock labourers employed on
-the wharves in Georgetown struck for higher wages, and large crowds
+the wharves in Georgetown struck for higher wages, and large [[Crowd|crowds]]
 invaded the principal stores in the city, compelling men willing to work
 to desist and in some cases assaulting those who opposed them. By the
 evening of the 30th of November they had got so far out of hand as to
@@ -792,7 +792,7 @@ police had got the upper hand, and the arrival that night of H.M.S.
 "Sappho" and on Sunday of H.M.S. "Diamond" gave the government complete
 control of the situation. Threatened troubles on the sugar estates on
 the west bank were suppressed by the prompt action of the governor, and
-the arrest of large numbers of the rioters and their immediate trial by
+the [[Arrest|arrest]] of large numbers of the rioters and their immediate trial by
 special courts restored thorough order.
 
   AUTHORITIES.--See Raleigh's _Voyages for the Discovery of Guiana
@@ -801,10 +801,10 @@ special courts restored thorough order.
   Schomburgk, _Description of British Guiana_ (London, 1840); C.
   Waterton, _Wanderings in South America, 1812-1825_ (London, 1828); J.
   Rodway, _History of British Guiana_ (Georgetown, 1891-1894); H. G.
-  Dalton, History of British Guiana (London, 1855); J. W. Boddam
-  Whetham, _Roraima and British Guiana_ (London, 1879); C. P. Lucas,
+  [[Dalton]], History of British Guiana (London, 1855); J. W. Boddam
+  Whetham, _Roraima and British Guiana_ (London, 1879); C. P. [[Lucas]],
   _Historical Geography of British Colonies_; E. F. im Thurn, _Among the
-  Indians of Guiana_ (London, 1883); _British Guiana Directory_
+  Indians of Guiana_ (London, 1883); _British Guiana [[Directory]]_
   (Georgetown, 1906); G. D. Bayley, _Handbook of British Guiana_
   (Georgetown, 1909).     (A. G. B.*)
 
@@ -812,13 +812,13 @@ special courts restored thorough order.
   Dutch Guiana.
 
 II. DUTCH GUIANA, or _Surinam_, has an area of about 57,900 sq. m.
-British Guiana bounds it on the west and French on the east (the long
+British Guiana [[Bounds|bounds]] it on the west and French on the east (the long
 unsettled question of the French boundary is dealt with in section III.,
 FRENCH GUIANA). The various peoples inhabiting Surinam are distributed
 according to the soil and the products. The Indians (Caribs, Arawaks,
 Warrous) live on the savannahs, or on the upper Nickerie, Coppename and
 Maroni, far from the plantations, cultivating their fields of manioc or
-cassava, and for the rest living by fishing and hunting. They number
+cassava, and for the rest living by fishing and [[Hunting|hunting]]. They number
 about 2000. The bush negroes (Marrons) dwell between 3 deg. and 4 deg.
 N., near the isles and cataracts. They are estimated at 10,000, and are
 employed in the transport of men and goods to the goldfields, the
@@ -829,7 +829,7 @@ paganism retained curious traces of their former connexion with
 Christianity. Their chief god was Gran Gado (grand-god), his wife Maria,
 and his son Jesi Kist. Various minor deities were also worshipped,
 Ampuka the bush-god, Toni the water-god, &c. Their language was based on
-a bastard English, mingled with many Dutch, Portuguese and native
+a [[Bastard|bastard]] English, mingled with many Dutch, Portuguese and native
 elements. Their chiefs are called _gramman_ or grand man; but the
 authority of these men, and the peculiarities of language and religion,
 have in great measure died out owing to modern intercourse with the
@@ -852,7 +852,7 @@ sea, which they enter on the Dutch seaboard, between the Corentyn and
 the Maroni (Dutch _Corantijn_ and _Marowijne_), which form the
 boundaries with British and French territories respectively. Between the
 rivers of Dutch Guiana there are remarkable cross channels available
-during the floods at least. As the Maroni communicates with the Cottica,
+during the [[Flood|floods]] at least. As the Maroni communicates with the Cottica,
 which is in turn a tributary of the Commewyne, a boat can pass from the
 Maroni to Paramaribo; thence by the Sommelsdijk canal it can reach the
 Saramacca; and from the Saramacca it can proceed up the Coppename, and
@@ -861,14 +861,14 @@ not navigable inland to any considerable extent, as their courses are
 interrupted by rapids. The interior of the country consists for the most
 part of low hills, though an extreme height of 3800 ft. is known in the
 Wilhelmina Kette, in the west of the colony, about 3 deg. 50' to 4 deg.
-N. The hinterland south of this latitude, and that part of the Tumuc
+N. The hinterland south of this [[Latitude|latitude]], and that part of the Tumuc
 Humac range along which the Dutch frontier runs, are, however,
 practically unexplored. Like the other territories of Guiana the Dutch
 colony is divided physically into a low coast-land, savannahs and almost
 impenetrable forest.
 
 Meteorological observations have been carried on at five stations
-(Paramaribo, Coronie, Sommelsdijk, Nieuw-Nickerie and Groningen). The
+(Paramaribo, Coronie, Sommelsdijk, Nieuw-Nickerie and [[Groningen]]). The
 mean range of temperature for the day, month and year shows little
 variation, being respectively 77.54 deg.-88.38 deg. F., 76.1 deg.-78.62
 deg. F. and 70.52 deg.-90.14 deg. F. The north-east trade winds prevail
@@ -902,7 +902,7 @@ dry season, and a period of heavy and of slight rainfall.
   _Administration._--The colony is under a governor, who is president of
   an executive council, which also includes a vice-president and three
   members nominated by the crown. The legislative body is the states,
-  the members of which are elected for six years by electors, of whom
+  the members of which are elected for six years by [[Electors|electors]], of whom
   there is one for every 200 holders of the franchise. The colony is
   divided into sixteen districts. For the administration of justice
   there are three cantonal courts, two district courts, and the supreme
@@ -912,7 +912,7 @@ dry season, and a period of heavy and of slight rainfall.
   considerably, and a varying subvention is necessary from the home
   government (L16,000 in 1902, L60,400 in 1906; the annual average is
   about L37,000). There are a civic guard of about 1800 men and a
-  militia of 500, with a small garrison.
+  militia of 500, with a small [[Garrison|garrison]].
 
 _History._--The history of the Dutch in Guiana, and the compression of
 their influence within its present limits, belongs to the general
@@ -922,7 +922,7 @@ residing at Paramaribo, but in 1845 they were separated. Slavery was
 abolished in 1863. Labour then became difficult to obtain, and in 1870 a
 convention was signed between Holland and England for the regulation of
 the coolie traffic, and a Dutch government agent for Surinam was
-appointed at Calcutta. The problem was never satisfactorily solved, but
+appointed at [[Calcutta]]. The problem was never satisfactorily solved, but
 the interest of the mother-country in the colony greatly increased
 during the last twenty years of the 19th century, as shown by the
 establishment of the Surinam Association, of the Steam Navigation
@@ -931,7 +931,7 @@ garden for experimental culture at that town, as also by geological and
 other scientific expeditions, and the exhibition at Haarlem in 1898.
 
   AUTHORITIES.--Among the older works on Surinam the first rank is held
-  by Jan Jacob Hartsinck's masterly _Beschryving van Guiana, of de Wilde
+  by Jan [[Jacob]] Hartsinck's masterly _Beschryving van Guiana, of de Wilde
   Kust, in Zuid Amerika_ (2 vols., Amsterdam, 1770). Extracts from this
   work, selected for their bearing upon British boundary questions, were
   translated and annotated by J. A. J. de Villiers (London, 1897). A
@@ -941,9 +941,9 @@ other scientific expeditions, and the exhibition at Haarlem in 1898.
   Suriname_ (Amsterdam, 1861). See further W. G. Palgrave, _Dutch
   Guiana_ (London, 1876); A. Kappler, _Surinam, sein Land, &c._
   (Stuttgart, 1887); Prince Roland Bonaparte, _Les Habitants de Surinam_
-  (Paris, 1884); K. Martin, "Bericht uber eine Reise ins Gebiet des
+  (Paris, 1884); K. [[Martin]], "Bericht uber eine Reise ins Gebiet des
   Oberen-Surinam," _Bijdragen v. h. Inst. voor Taal Land en
-  Volkenkunde_, i. 1. (The Hague); Westerouen van Meeteren, _La Guyane
+  Volkenkunde_, i. 1. (The [[Hague]]); Westerouen van Meeteren, _La Guyane
   neerlandaise_ (Leiden, 1884); H. Ten Kate, "Een en ander over
   Suriname," _Gids_ (1888); G. Verschuur, "Voyages aux trois Guyanes,"
   _Tour du monde_ (1893). pp. 1, 49, 65; W. L. Loth, _Beknopte
@@ -955,7 +955,7 @@ other scientific expeditions, and the exhibition at Haarlem in 1898.
   _Guide a travers la section des Indes neerlandaises_, p. 323
   (Amsterdam, 1899); _Surinaamsche Almanak_ (Paramaribo, annually). For
   the language of the bush-negroes see Wullschlaegel, _Kurzgefasste
-  neger-englische Grammatik_ (Bautzen, 1854), and _Deutsch
+  neger-englische Grammatik_ ([[Bautzen]], 1854), and _Deutsch
   neger-englisches Worterbuch_ (Lobau, 1865).
 
 
@@ -981,7 +981,7 @@ watershed on the Tumuc Humac mountains, thus awarding to France about
 3000 of the 100,000 sq. m. which she claimed. This dispute was of
 earlier origin than that with the Dutch; dissensions between the French
 and the Portuguese relative to territory north of the Amazon occurred in
-the 17th century. In 1700 the Treaty of Lisbon made the contested area
+the 17th century. In 1700 the Treaty of [[Lisbon]] made the contested area
 (known as the Terres du Cap du Nord) neutral ground. The treaty of
 Utrecht in 1713 indicated as the French boundary a river which the
 French afterwards claimed to be the Araguary, but the Portuguese
@@ -993,7 +993,7 @@ preliminary to the settlement, was signed at Rio de Janeiro in 1897.
 French Guiana, according to official estimate, has an area of about
 51,000 sq. m. The population is estimated at about 30,000; its movement
 is not rapid. Of this total 12,350 live at Cayenne, 10,100 were in the
-communes, 5700 formed the penal population, 1500 were native Indians
+[[Commune|communes]], 5700 formed the penal population, 1500 were native Indians
 (Galibi, Emerillon, Oyampi) and 500 near Maroni were negroes. Apart from
 Cayenne, which was rebuilt after the great fire of 1888, the centres of
 population are unimportant: Sinnamarie with 1500 inhabitants, Mana with
@@ -1001,7 +1001,7 @@ population are unimportant: Sinnamarie with 1500 inhabitants, Mana with
 was divided into fourteen communes, exclusive of the Maroni district.
 Belonging to the colony are also the three Safety Islands (Royale,
 Joseph and Du Diable--the last notable as the island where Captain
-Dreyfus was imprisoned), the Enfant Perdu Island and the five Remire
+[[Dreyfus]] was imprisoned), the Enfant Perdu Island and the five Remire
 Islands.
 
   A considerable portion of the low coast land is occupied by marshes,
@@ -1067,7 +1067,7 @@ Islands.
   Franco-Brazilian dispute. But wages are high and transport is costly,
   and the amount of gold declared at Cayenne did not average more than
   130,550 oz. annually in 1900-1905. Silver and iron have been found in
-  various districts; kaolin is extracted in the plains of Montsinery;
+  various districts; [[Kaolin|kaolin]] is extracted in the plains of Montsinery;
   and phosphates have been discovered at several places. Besides
   gold-workings, the industrial establishments comprise saw-mills,
   distilleries, brick-works and sugar-works.
@@ -1078,19 +1078,19 @@ Islands.
   increased in value only to L418,720, exports had risen to L493,213.
   The imports consist of wines, flour, clothes, &c.; the chief are gold,
   phosphates, timber, cocoa and rosewood essence. Cayenne is the only
-  considerable port. One of the drawbacks to the development of the
+  considerable port. One of the [[Drawback|drawbacks]] to the development of the
   colony is the lack of labour. Native labour is most difficult to
   obtain, and attempts to utilize convict labour have not proved very
   successful. Efforts to supply the need by immigration have not done so
   completely. The land routes are not numerous. The most important are
   that from Cayenne to Mana by way of Kourou, Sinnamarie and Iracoubo,
-  and that from Cayenne along the coast to Kaw and the mouth of the
+  and that from Cayenne along the coast to [[Kaw]] and the mouth of the
   Approuague. Towards the interior there are only foot-paths, badly
   made. By water, Cayenne is in regular communication with the Safety
   Islands (35 m.), and the mouth of the Maroni (80 m.), with Fort de
   France in the island of Martinique, where travellers meet the mail
-  packet for France, and with Boston (U.S.A.). There is a French cable
-  between Cayenne and Brest.
+  packet for France, and with [[Boston]] (U.S.A.). There is a French [[Cable|cable]]
+  between Cayenne and [[Brest]].
 
   _Administration._--The colony is administered by a
   commissioner-general assisted by a privy council, including the
@@ -1106,10 +1106,10 @@ Islands.
   L116,450. Instruction is given in the college of Cayenne and in six
   primary schools. At the head of the clergy is an apostolic prefect.
   The armed force consists of two companies of marine infantry, half a
-  battery of artillery, and a detachment of gendarmerie, and comprises
-  about 380 men. The penal settlement was established by a decree of
+  battery of artillery, and a detachment of [[Gendarmerie|gendarmerie]], and comprises
+  about 380 men. The penal settlement was established by a [[Decree|decree]] of
   1852. From that year until 1867, 18,000 exiles had been sent to
-  Guiana, but for the next twenty years New Caledonia became the chief
+  Guiana, but for the next twenty years New [[Caledonia]] became the chief
   penal settlement in the French colonies. But in 1885-1887 French
   Guiana was appointed as a place of banishment for confirmed criminals
   and for convicts sentenced to more than eight years' hard labour. A
@@ -1121,7 +1121,7 @@ reconnoitre the country, brought back a favourable report; but the death
 of the king put a stop to the projects of formal colonization. In 1626 a
 small body of traders from Rouen settled on the Sinnamary, and in 1635 a
 similar band founded Cayenne. The Compagnie du Cap Nord, founded by the
-people of Rouen in 1643 and conducted by Poncet de Bretigny, the
+people of Rouen in 1643 and conducted by Poncet de [[Bretigny]], the
 Compagnie de la France Equinoxiale, established in 1645, and the second
 Compagnie de la France Equinoxiale, or Compagnie des Douze Seigneurs,
 established in 1652, were failures, the result of incompetence,
@@ -1130,14 +1130,14 @@ few years. The French Compagnie des Indes Occidentales, chartered in
 1664 with a monopoly of Guiana commerce for forty years, proved hardly
 more successful than its predecessors; but in 1674 the colony passed
 under the direct control of the crown, and the able administration of
-Colbert began to tell favourably on its progress, although in 1686 an
+[[Colbert]] began to tell favourably on its progress, although in 1686 an
 unsuccessful expedition against the Dutch in Surinam set back the
 advance of the French colony until the close of the century.
 
-The year 1763 was marked by a terrible disaster. Choiseul, the prime
-minister, having obtained for himself and his cousin Praslin a
+The year 1763 was marked by a terrible disaster. [[Choiseul]], the prime
+minister, having obtained for himself and his [[Cousin|cousin]] Praslin a
 concession of the country between the Kourou and the Maroni, sent out
-about 12,000 volunteer colonists, mainly from Alsace and Lorraine. They
+about 12,000 volunteer colonists, mainly from Alsace and [[Lorraine]]. They
 were landed at the mouth of the Kourou, where no preparation had been
 made for their reception, and where even water was not to be obtained.
 Mismanagement was complete; there was (for example) a shop for skates,
@@ -1148,7 +1148,7 @@ imprisonment of the incompetent leaders of the expedition. Several minor
 attempts at colonization in Guiana were made in the latter part of the
 century; but they all seemed to suffer from the same fatal prestige of
 failure. During the revolution band after band of political prisoners
-were transported to Guiana. The fate of the royalists, nearly 600 in
+were transported to Guiana. The [[Fate|fate]] of the royalists, nearly 600 in
 number, who were exiled on the 18th Fructidor (1797), was especially
 sad. Landed on the Sinnamary without shelter or food, two-thirds of them
 perished miserably. In 1800 Victor Hugues was appointed governor, and he
@@ -1175,7 +1175,7 @@ country.
   Guyane_, issued on the occasion of the Paris Exhibition (1900);
   _Publications de la societe d'etudes pour la colonisation de la Guyane
   francaise_ (Paris, 1843-1844); H. A. Coudreau, _La France equinoxiale_
-  (1887), _Dialectes indiens de Guyane_ (1891), _Dix ans de Guyane_
+  (1887), _[[Dialect|Dialectes]] indiens de Guyane_ (1891), _Dix ans de Guyane_
   (1892), and _Chez nos Indiens_ (1893), all at Paris; G. Brousseau,
   _Les Richesses de la Guyane francaise_ (Paris, 1901); L. F. Viala,
   _Les Trois Guyanes_ (Montpellier, 1893).
@@ -1199,7 +1199,7 @@ FOOTNOTES:
     of numerous rivers, not only throughout Guayana but all over the
     Orinoco and Amazon valleys. For instance, Paymary Indians called the
     portion of the Purus river which they occupied the _Waini_. It simply
-    means water, or a fountain of water, or a river. The alternative
+    means water, or a [[Fountain|fountain]] of water, or a river. The alternative
     suggestion that Guayana is an Indian word signifying 'wild coast,' I
     also think untenable. This term, applied to the north-east frontage
     of South America between the Orinoco and the Amazon, is found on the
@@ -1216,7 +1216,7 @@ FOOTNOTES:
     British, French and Dutch Guayanas. According to the map of Nicolas
     de Fer, 1719, a tribe of Guayazis (Guyanas) occupied the south side
     of the Amazon river, front of the island of Tupinambara, east of the
-    mouth of the Madeira. Aristides Rojas, an eminent Venezuelan scholar,
+    mouth of the Madeira. [[Aristides]] Rojas, an eminent Venezuelan scholar,
     says that the Mariches Indians, near Caracas, inhabited a site called
     Guayana long before the discovery of South America by the Spaniards.
     Coudreau in his _Chez nos Indiens_ mentions that the _Roucouyennes_
@@ -1235,7 +1235,7 @@ FOOTNOTES:
     called by the early writers _Guianas_, _Goyana_, _Guayana_, _Goana_
     and, plural, _Goaynazes_, _Goayanazes_ and _Guayanazes_. They were
     constantly at feud with the _Tamoyos_ and with their neighbours on
-    the south, the _Carijos_, as well as with the vast Tapuya hordes of
+    the south, the _Carijos_, as well as with the vast Tapuya [[Horde|hordes]] of
     the Sertao of the interior. Long before the discovery, they had been
     forced to abandon their beautiful lands, but had recuperated their
     strength, returned and reconquered their ancient habitat. Meanwhile,
@@ -1243,7 +1243,7 @@ FOOTNOTES:
     _Sertao_ back of Bahia and Pernambuco, others on the middle Amazon
     and in the valley of the Orinoco, but a large number had crossed the
     lower Amazon and occupied an extensive area of country to the north
-    of it, about the size of Belgium, along the Tumuchumac range of
+    of it, about the size of [[Belgium]], along the Tumuchumac range of
     highlands, and the upper Paron and Maroni rivers, as well as a large
     district on the northern slope of the above-named range. In their new
     home they became known as _Roucouyennes_, because, like the
@@ -1270,7 +1270,7 @@ FOOTNOTES:
     Descriptive and Economic Geology of British Guiana_ (London, 1875);
     C. Velain, "Esquisse geologique de la Guyane francaise et des bassins
     du Parou et du Yari (affluents de l'Amazone) d'apres les explorations
-    du Dr Crevaux," _Bull. Soc. Geogr._ ser. 7, vol. vi. (Paris, 1885),
+    du Dr Crevaux," _[[Bull]]. Soc. Geogr._ ser. 7, vol. vi. (Paris, 1885),
     pp. 453-492 (with geological map); E. Martin, _Geologische Studien
     uber Niederlandisch-West-Indien, auf Grund eigener
     Untersuchungsreisen_ (Leiden, 1888); W. Bergt, "Zur Geologie des

@@ -9,7 +9,7 @@ south; being situated on a branch railway between Dorohoi and on the
 main line from Czernowitz to Galatz. It has extensive starch and flour
 mills; and Botoshani flour is highly prized in Rumania, besides being
 largely exported to Turkey and the United Kingdom. Botoshani owes its
-name to a Tatar chief, Batus or Batu Khan, grandson of Jenghiz Khan, who
+name to a Tatar chief, Batus or Batu [[Khan]], grandson of Jenghiz Khan, who
 occupied the country in the 13th century. There are large colonies of
 Armenians and Jews.
 

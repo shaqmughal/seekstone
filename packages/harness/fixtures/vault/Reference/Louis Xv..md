@@ -19,10 +19,10 @@ presidency; but with the help of the parlement of Paris the arrangement
 was at once set aside, and the duke was declared regent with full
 traditional powers. The duke had capacity, but his life was so
 licentious that what influence he had upon the king was for evil.
-Fleury, bishop of Fréjus, was appointed his tutor, and the little king
+[[Fleury]], bishop of Fréjus, was appointed his tutor, and the little king
 was sincerely attached to him. The king attained his legal majority at
 the age of thirteen, shortly before the death of the duke of Orleans.
-His first minister was the incapable duke of Bourbon, who in 1725
+His first minister was the incapable duke of [[Bourbon]], who in 1725
 procured the repudiation of the Spanish princess, to whom the king had
 been betrothed, and his marriage to Maria Leszczynska, daughter of the
 exiled king of Poland, then resident in Alsace. In 1726 the duke of
@@ -32,18 +32,18 @@ interest in affairs of state. His administration was successful and
 peaceful until the year 1734, when a disputed succession in Poland
 brought about the interference of France on behalf of the queen's
 father. France was unsuccessful in her immediate object, but at the
-peace of Vienna (1735) secured the possession of Lorraine. Up to this
+peace of Vienna (1735) secured the possession of [[Lorraine]]. Up to this
 point the reign had been prosperous; but from this time on it is a
 record of declining national strength, which was not compensated by some
 days of military glory. Fleury's great age (he died still in office at
 the age of ninety) prevented him from really controlling the policy of
 France and of Europe. In 1740 the war of the Austrian Succession broke
 out and France drifted into it as an ally of Frederick of Prussia and
-the enemy of England, and of Maria Theresa of Austria.
+the enemy of England, and of [[Maria Theresa]] of Austria.
 
 On Fleury's death in 1743 no one took his place, and the king professed
 to adopt the example of Louis XIV. and to establish a personal
-autocracy. But he was not strong enough in will or intellect to give
+autocracy. But he was not strong enough in will or [[Intellect|intellect]] to give
 unity to the administration. The marquis d'Argenson writes that at the
 council table Louis "opened his mouth, said little and thought not at
 all," and again that "under the appearance of personal monarchy it was
@@ -54,22 +54,22 @@ hear of the royal mistresses. The first to acquire notoriety was the
 duchess of Châteauroux, the third sister of one family who held this
 position. She was at least in part the cause of the only moment of
 popularity which the king enjoyed. She urged him to take part personally
-in the war. France had just received a humiliating check at Dettingen,
+in the war. France had just received a humiliating check at [[Dettingen]],
 and the invasion of the north-eastern frontier was feared. The king went
 to Metz in 1744, and his presence there did something to ward off the
 danger. While the nation felt genuine gratitude for his energy and its
 success, he was reported to have fallen dangerously ill. The king, of
-whom it was said that the fear of hell was the only part of religion
+whom it was said that the fear of [[Hell|hell]] was the only part of religion
 which had any reality for him, now dismissed the duchess of Châteauroux
 and promised amendment. Prayers were offered everywhere for his
-recovery, and the country was swept by a delirium of loyal enthusiasm,
+recovery, and the country was swept by a [[Delirium|delirium]] of loyal [[Enthusiasm|enthusiasm]],
 which conferred on him the title of _Louis le bien aimé_. But his future
 life disappointed all these hopes. The duchess of Châteauroux died in
 the same year, but her place was taken in 1745 by Madame de Pompadour.
 This woman had philanthropic impulses and some real interest in art and
 letters; but her influence on public affairs was a fatal one. She had
 many rivals during her lifetime and on her death in 1764 she was
-succeeded by Madame du Barry (q.v.). But the mention of these three
+succeeded by Madame [[Du Barry|du Barry]] (q.v.). But the mention of these three
 women gives no idea of the degradation of the king's life. There has
 doubtless been exaggeration as to certain details, and the story of his
 seraglio at the _Parc aux cerfs_ is largely apocryphal. But it would be
@@ -101,11 +101,11 @@ monarchy and its methods. Military success had given it its strength;
 and its prestige was ruined by military failure. In the parlements,
 provincial and Parisian; in religion and in literature, a note of
 opposition is struck which was never to die until the monarchy was
-overthrown. France annexed Corsica in 1768, but this was felt to be the
-work of the minister Chauvelin, and reflected no credit on the king. He
+overthrown. France annexed [[Corsica]] in 1768, but this was felt to be the
+work of the minister Chauvelin, and reflected no [[Credit|credit]] on the king. He
 died in 1774 of smallpox. If the reign of his predecessor shows us
 almost the ideal of personal monarchy we may see in that of Louis XV.
-all the vices and errors exemplified which lie in wait for absolute
+all the vices and [[Error|errors]] exemplified which lie in wait for absolute
 hereditary rule which has survived the period of its usefulness.
 
   For the king's life generally see the memoirs of Saint-Simon,
@@ -115,7 +115,7 @@ hereditary rule which has survived the period of its usefulness.
   Maîtresses de Louis XV._; and Fleury, _Louis XV. intimes et les
   petites maîtresses_ (1909).
 
-  For the system of secret diplomacy and organized espionage, known as
+  For the system of secret [[Diplomacy|diplomacy]] and organized espionage, known as
   the _Secret du roi_, carried on under the auspices of Louis XV., see
   Albert duc de Broglie, _Le Secret du roi. Correspondance secrète de
   Louis XV. avec ses agents diplomatiques 1752-1774_ (Paris, 1878); and

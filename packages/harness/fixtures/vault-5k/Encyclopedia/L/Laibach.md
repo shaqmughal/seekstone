@@ -1,7 +1,7 @@
 # Laibach
 
 LAIBACH (Slovenian, _Ljubljana_), capital of the Austrian duchy of
-Carniola, 237 m. S.S.W. of Vienna by rail. Pop. (1900) 36,547, mostly
+[[Carniola]], 237 m. S.S.W. of Vienna by rail. Pop. (1900) 36,547, mostly
 Slovene. It is situated on the Laibach, near its influx into the Save,
 and consists of the town proper and eight suburbs. Laibach is an
 episcopal see, and possesses a cathedral in the Italian style, several
@@ -12,13 +12,13 @@ movement, and it contains a Slovene theatre and several societies for
 the promotion of science and literature in the native tongue. The
 Slovenian language is in general official use, and the municipal
 administration is purely Slovenian. The industries include manufactures
-of pottery, bricks, oil, linen and woollen cloth, fire-hose and paper.
+of pottery, [[Brick|bricks]], oil, linen and woollen cloth, fire-hose and paper.
 
   Laibach is supposed to occupy the site of the ancient Emona or Aemona,
   founded by the emperor Augustus in 34 B.C. It was besieged by Alaric
   in 400, and in 451 it was desolated by the Huns. In 900 Laibach
   suffered much from the Magyars, who were, however, defeated there in
-  914. In the 12th century the town passed into the hands of the dukes
+  914. In the 12th century the town passed into the hands of the [[Dukes|dukes]]
   of Carinthia; in 1270 it was taken by Ottocar of Bohemia; and in 1277
   it came under the Habsburgs. In the early part of the 15th century the
   town was several times besieged by the Turks. The bishopric was
@@ -59,10 +59,10 @@ ground that she had no immediate interest in the Italian question, was
 represented only by Lord Stewart, the ambassador at Vienna, who was not
 armed with full powers, his mission being to watch the proceedings and
 to see that nothing was done beyond or in violation of the treaties. Of
-the Italian princes, Ferdinand of Naples and the duke of Modena came in
+the Italian princes, [[Ferdinand]] of Naples and the duke of Modena came in
 person; the rest were represented by plenipotentiaries.
 
-It was soon clear that a more or less open breach between Great Britain
+It was soon clear that a more or less open [[Breach|breach]] between Great Britain
 and the other powers was inevitable, Metternich was anxious to secure an
 apparent unanimity of the powers to back the Austrian intervention in
 Naples, and every device was used to entrap the English representative

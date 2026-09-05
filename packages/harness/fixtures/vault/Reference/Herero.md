@@ -1,7 +1,7 @@
 # Herero
 
 HERERO, or OVAHERERO ("merry people"), a Bantu people of German
-South-West Africa, living in the region known as Damaraland or
+South-West Africa, living in the region known as [[Damaraland]] or
 Hereroland. They call themselves Ovaherero and their language
 Otshi-herero. Sometimes they are described as Cattle Damara or "Damara
 of the Plains" in distinction from the Hill Damara who are of mixed

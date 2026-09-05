@@ -1,13 +1,13 @@
 # Livius Andronicus
 
 LIVIUS ANDRONICUS (c. 284-204 B.C.), the founder of Roman epic poetry
-and drama. His name, in which the Greek [Greek: Andronikos] is combined
-with the gentile name of one of the great Roman houses, while indicative
+and [[Drama|drama]]. His name, in which the Greek [Greek: Andronikos] is combined
+with the [[Gentile|gentile]] name of one of the great Roman houses, while indicative
 of his own position as a manumitted slave, is also significant of the
 influences by which Roman literature was fostered, viz. the culture of
 men who were either Greeks or "semi-Graeci" by birth and education, and
 the protection and favour bestowed upon them by the more enlightened
-members of the Roman aristocracy. He is supposed to have been a native
+members of the Roman [[Aristocracy|aristocracy]]. He is supposed to have been a native
 of Tarentum, and to have been brought, while still a boy, after the
 capture of that town in 272, as a slave to Rome. He lived in the
 household of a member of the gens Livia, probably M. Livius Salinator.
@@ -33,7 +33,7 @@ witnessing representations of Greek comedies and tragedies. The Romans
 and Italians had an indigenous drama of their own, known by the name of
 _Satura_, which prepared them for the reception of the more regular
 Greek drama. The distinction between this _Satura_ and the plays of
-Euripides or Menander was that it had no regular plot. This the Latin
+[[Euripides]] or Menander was that it had no regular plot. This the Latin
 drama first received from Livius Andronicus; but it did so at the cost
 of its originality. In 240, the year after the end of the first Punic
 War, he produced at the ludi Romani a translation of a Greek play (it is
@@ -51,7 +51,7 @@ _Equus Trojanus_, _Hermione_, _Tereus_--are all suggestive of subjects
 which were treated by the later tragic poets of Rome. In the year 207,
 when he must have been of a great age, he was appointed to compose a
 hymn of thanksgiving, sung by maidens, for the victory of the Metaurus
-and an intercessory hymn to the Aventine Juno. As a further tribute of
+and an intercessory hymn to the Aventine [[Juno]]. As a further tribute of
 national recognition the "college" or "gild" of poets and actors was
 granted a place of meeting in the temple of Minerva on the Aventine.
 

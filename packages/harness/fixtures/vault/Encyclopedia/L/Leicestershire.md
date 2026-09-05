@@ -7,10 +7,10 @@ topic: religion-theory
 # Leicestershire
 
 LEICESTERSHIRE, a midland county of England, bounded N. by
-Nottinghamshire, E. by Lincolnshire and Rutland, S.E. by
+Nottinghamshire, E. by [[Lincolnshire]] and Rutland, S.E. by
 Northamptonshire, S.W. by Warwickshire, and N.W. by Derbyshire, also
 touching Staffordshire on the W. The area is 823.6 sq. m. The surface of
-the county is an undulating tableland, the highest eminences being the
+the county is an undulating tableland, the highest [[Eminence|eminences]] being the
 rugged hills of Charnwood Forest (q.v.) in the north-west, one of which,
 Bardon Hill, has an elevation of 912 ft. The county belongs chiefly to
 the basin of the Trent, which forms for a short distance its boundary
@@ -19,7 +19,7 @@ is the Soar, from whose old designation the _Leire_ the county is said
 to derive its name, and which rises near Hinckley in the S.E., and forms
 the boundary with Nottinghamshire for some distance above its junction
 with the Trent. The Wreak, which, under the name of the Eye, rises on
-the borders of Rutland, flows S.W. to the Soar. Besides the Soar the
+the [[Borders|borders]] of Rutland, flows S.W. to the Soar. Besides the Soar the
 other tributaries of the Trent are the Anker, touching the boundary with
 Warwickshire, the Devon and the Mease. A portion of the county in the S.
 drains to the Avon, which forms part of the boundary with
@@ -29,24 +29,24 @@ distance the boundary with Northamptonshire.
   _Geology._--The oldest rocks in the county belong to the Charnian
   System, a Pre-Cambrian series of volcanic ashes, grits and slates,
   into which porphyroid and syenite were afterwards intruded. These
-  rocks emerge from the plain formed by the Keuper Marls of the Triassic
+  rocks emerge from the plain formed by the Keuper [[Marl|Marls]] of the Triassic
   System as a group of isolated hills and peaks (known as Charnwood
   Forest); these are the tops of an old mountain-range, the lower slopes
   of which are still buried under the surrounding Keuper Marls. West of
   this district lies the Leicestershire coalfield, where the poor state
-  of development of the Carboniferous Limestone shows that the Charnian
+  of development of the Carboniferous [[Limestone]] shows that the Charnian
   rocks formed shoals or islands in the Carboniferous Limestone sea. The
   Millstone Grit just enters the county to the north of the same region,
   while the Coal Measures occupy a considerable area round
-  Ashby-de-la-Zouch and contain valuable coal-seams. The rest of the
+  [[Ashby-De-La-Zouch|Ashby-de-la-Zouch]] and contain valuable coal-seams. The rest of the
   county is almost equally divided between the red Keuper Marls of the
-  Trias on the west and the grey limestones and shales of the Lias on
-  the east. The former were deposited in lagoons into which the land was
-  gradually lowered after a prolonged period of desert conditions. The
+  Trias on the west and the grey limestones and shales of the [[Lias]] on
+  the east. The former were deposited in [[Lagoon|lagoons]] into which the land was
+  gradually lowered after a prolonged period of [[Desert|desert]] conditions. The
   Rhaetic beds which follow the Keuper mark the incoming of the sea and
   introduce the fossiliferous Liassic deposits. On the eastern margin of
   the county a few small outliers of the Inferior Oolite sands and
-  limestones are present. The Glacial Period has left boulder-clay,
+  limestones are present. The [[Glacial Period]] has left boulder-clay,
   gravel and erratic blocks scattered over the surface, while later
   gravels, with remains of mammoth, reindeer, &c., border some of the
   present streams.
@@ -59,50 +59,50 @@ distance the boundary with Northamptonshire.
   position of the county, and the absence of any very high elevations,
   the rainfall is very moderate. The soil is of a loamy character, the
   richest district being that east of the Soar, which is occupied by
-  pasture, while the corn crops are grown chiefly on a lighter soil
+  pasture, while the [[Corn|corn]] crops are grown chiefly on a lighter soil
   resting above the Red Sandstone formation. About nine-tenths of the
   total area is under cultivation. The proportion of pasture land is
   large and increasing. It is especially rich along the river-banks.
-  Dairy-farming is extensively carried on, the famous Stilton cheese
+  Dairy-farming is extensively carried on, the famous Stilton [[Cheese|cheese]]
   being produced near Melton Mowbray. Cattle are reared in large
   numbers, while of sheep the New Leicester breed is well known. It was
-  introduced by Robert Bakewell the agriculturist, who was born near
+  introduced by Robert [[Bakewell]] the agriculturist, who was born near
   Loughborough in 1725. He also improved the breed of horses by the
-  importation of mares from Flanders.
+  importation of mares from [[Flanders]].
 
   The county is especially famed for fox-hunting, Leicester and Melton
-  Mowbray being favourite centres, while the kennels of the Quorn hunt
+  Mowbray being favourite centres, while the [[Kennel|kennels]] of the Quorn [[Hunt|hunt]]
   are located at Quorndon near Mount Sorrel. For this reason
   Leicestershire is rich in good riding horses.
 
   _Other Industries._--Coal is worked in the districts about Moira,
-  Coleorton and Coalville. Limestone is worked in various parts,
-  freestone is plentiful, gypsum is found, and a kind of granite,
+  Coleorton and [[Coalville]]. Limestone is worked in various parts,
+  freestone is plentiful, [[Gypsum|gypsum]] is found, and a kind of granite,
   extensively used for paving, is obtained in the Charnwood district, as
   at Bardon and Mount Sorrel, and at Sapcote and Stoney Stanton in the
   south-west. Apart from the mining industries, the staple manufacture
-  of Leicestershire is hosiery, for which the wool is obtained
+  of Leicestershire is [[Hosiery|hosiery]], for which the wool is obtained
   principally from home-bred sheep. Its principal seats are Leicester,
-  Loughborough, Hinckley and Castle Donington. Cotton hose are likewise
+  Loughborough, Hinckley and [[Castle Donington]]. Cotton hose are likewise
   made, and other industries include the manufacture of boots and shoes,
-  as at Market Harborough, elastic webbing, and bricks, also iron
+  as at [[Market Harborough]], elastic webbing, and [[Brick|bricks]], also iron
   founding. Melton Mowbray gives name to a well-known manufacture of
   pork pies.
 
   _Communications._--The main line of the Midland railway serves Market
   Harborough, Leicester, and Loughborough, having an important junction
-  at Trent (on that river) for Derby and Nottingham. Branches radiate
+  at Trent (on that river) for [[Derby]] and Nottingham. Branches radiate
   from Leicester to Melton Mowbray, to Coalville, Ashby-de-la-Zouch,
-  Moira and Burton-upon-Trent, with others through the mining district
+  Moira and [[Burton-Upon-Trent|Burton-upon-Trent]], with others through the mining district
   of the N.W., which is also served by the branch of the London &
-  North-Western railway from Nuneaton to Market Bosworth, Coalville and
+  North-Western railway from Nuneaton to [[Market Bosworth]], Coalville and
   Loughborough. This company serves Market Harborough from Rugby, and
   branches of the Great Northern serve Market Harborough, Leicester and
   Melton Mowbray. The main line of the Great Central railway passes
   through Lutterworth, Leicester and Loughborough. The principal canals
   are the Union and Grand Union, with which various branches are
   connected with the Grand Junction, and the Ashby-de-la-Zouch canal,
-  which joins the Coventry canal at Nuneaton. The Loughborough canal
+  which joins the [[Coventry]] canal at Nuneaton. The Loughborough canal
   serves that town, connecting with the river Soar.
 
   _Population and Administration._--The area of the ancient county is
@@ -150,7 +150,7 @@ the hundreds have undergone little change. Until 1566 Leicestershire and
 Warwickshire had a common sheriff, the shire-court for the former being
 held at Leicester.
 
-Leicestershire constituted an archdeaconry within the diocese of Lincoln
+Leicestershire constituted an archdeaconry within the diocese of [[Lincoln]]
 from 1092 until its transference to Peterborough in 1837. In 1291 it
 comprised the deaneries of Akeley, Leicester (now Christianity),
 Framland, Gartree, Goscote, Guthlaxton and Sparkenhoe. The deaneries
@@ -166,9 +166,9 @@ the earl of Leicester; the surrender of Leicester to Prince Edward in
 the Roses Leicester was a great Lancastrian stronghold. In 1485 the
 battle of Bosworth was fought in the county. In the Civil War of the
 17th century the greater part of the county favoured the parliament,
-though the mayor and some members of the corporation of Leicester sided
+though the [[Mayor|mayor]] and some members of the corporation of Leicester sided
 with the king, and in 1642 the citizens of Leicester on a summons from
-Prince Rupert lent Charles £500. In 1645 Leicester was twice captured by
+Prince Rupert [[Lent|lent]] Charles £500. In 1645 Leicester was twice captured by
 the Royalist forces.
 
 Before the Conquest large estates in Leicestershire were held by Earls
@@ -181,11 +181,11 @@ whose fief was afterwards annexed the vast holding of Hugh de
 Grantmesnil, lord high steward of England. Robert de Toeni, another
 Domesday tenant, founded Belvoir Castle and Priory. The fief of Robert
 de Buci was bestowed on Richard Basset, founder of Laund Abbey, in the
-reign of Henry I. Loughborough was an ancient seat of the Despenser
+reign of Henry I. Loughborough was an ancient seat of the [[Despenser]]
 family, and Brookesby was the seat of the Villiers and the birthplace of
 George Villiers, the famous duke of Buckingham. Melton Mowbray was named
 from its former lords, the Mowbrays, descendants of Nigel de Albini, the
-founder of Axholme Priory. Lady Jane Grey was born at Bradgate near
+founder of [[Axholme]] Priory. Lady Jane Grey was born at Bradgate near
 Leicester, and Bishop Latimer was born at Thurcaston.
 
 The woollen industry flourished in Leicestershire in Norman times, and
@@ -197,8 +197,8 @@ quarry at Barrow-on-Soar is also of very ancient repute, the monks of
 the abbey of St Mary de Pré formerly enjoying the tithe of its produce.
 The staple manufacture of the county, that of hosiery, originated in the
 17th century, the chief centres being Leicester, Hinckley and
-Loughborough, and before the development of steam-driven frames in the
-19th century hand framework knitting of hose and gloves was carried on
+Loughborough, and before the development of steam-driven [[Frame|frames]] in the
+19th century hand framework [[Knitting|knitting]] of hose and [[Glove|gloves]] was carried on
 in about a hundred villages. Wool-carding was also an extensive industry
 before 1840.
 
@@ -216,14 +216,14 @@ members in four divisions.
   noteworthy churches are found in the towns, as at Ashby-de-la-Zouch,
   Hinckley, Leicester, Loughborough, Lutterworth, Market Bosworth,
   Market Harborough, and Melton Mowbray (qq.v.). The principal old
-  castle is that of Ashby-de-la-Zouch, while at Kirby Muxloe there is a
+  castle is that of Ashby-de-la-Zouch, while at [[Kirby]] Muxloe there is a
   picturesque fortified mansion of Tudor date. There are several good
   Elizabethan mansions, as that at Laund in the E. of the county. Among
-  modern mansions that of the dukes of Rutland, Belvoir Castle in the
+  modern mansions that of the [[Dukes|dukes]] of Rutland, Belvoir Castle in the
   extreme N.E., is a massive mansion of the early 19th century, finely
   placed on the summit of a hill.
 
-  See _Victoria County History, Leicestershire_; W. Burton, _Description
+  See _Victoria County History, Leicestershire_; W. [[Burton]], _Description
   of Leicestershire_ (London, 1622; 2nd ed., Lynn, 1777); John Nicholls,
   _History and Antiquities of The County of Leicester_ (4 vols., London,
   1795-1815); John Curtis, _A Topographical History of the County of
@@ -232,12 +232,12 @@ members in four divisions.
 
 
 
-LEIDEN or LEYDEN, a city in the province of South Holland, the kingdom
+LEIDEN or [[Leyden|LEYDEN]], a city in the province of South Holland, the kingdom
 of the Netherlands, on the Old Rhine, and a junction station 18 m. by
 rail S.S.W. of Haarlem. It is connected by steam tramway with Haarlem
-and The Hague respectively, and with the seaside resorts of Katwyk and
+and The [[Hague]] respectively, and with the seaside resorts of Katwyk and
 Noordwyk. There is also regular steamboat connexion with Katwyk,
-Noordwyk, Amsterdam and Gouda. The population of Leiden which, it is
+Noordwyk, Amsterdam and [[Gouda]]. The population of Leiden which, it is
 estimated, reached 100,000 in 1640, had sunk to 30,000 between 1796 and
 1811, and in 1904 was 56,044. The two branches of the Rhine which enter
 Leiden on the east unite in the centre of the town, which is further
@@ -248,7 +248,7 @@ space, the Van der Werf Park, named after the burgomaster, Pieter
 Andriaanszoon van der Werf, who defended the town against the Spaniards
 in 1574. This open space was formed by the accidental explosion of a
 powdership in 1807, hundreds of houses being demolished, including that
-of the Elzevir family of printers. At the junction of the two arms of
+of the [[Elzevir]] family of printers. At the junction of the two arms of
 the Rhine stands the old castle (De Burcht), a circular tower built on
 an earthen mound. Its origin is unknown, but some connect it with Roman
 days and others with the Saxon Hengist. Of Leiden's old gateways only
@@ -262,7 +262,7 @@ famous scholars. The most interesting buildings are the town hall
 Gemeenlandshuis van Rynland (1596, restored 1878); the weight-house
 built by Pieter Post (1658); the former court-house, now a military
 storehouse; and the ancient gymnasium (1599) and the so-called city
-timber-house (Stads Timmerhuis) (1612), both built by Lieven de Key (c.
+timber-house (Stads Timmerhuis) (1612), both built by Lieven de [[Key]] (c.
 1560-1627).
 
 In spite of a certain industrial activity and the periodical bustle of
@@ -275,11 +275,11 @@ Originally located in the convent of St Barbara, the university was
 removed in 1581 to the convent of the White Nuns, the site of which it
 still occupies, though that building was destroyed in 1616. The presence
 within half a century of the date of its foundation of such scholars as
-Justus Lipsius, Joseph Scaliger, Francis Gomarus, Hugo Grotius, Jacobus
-Arminius, Daniel Heinsius and Guardas Johannes Vossius at once raised
+Justus Lipsius, Joseph Scaliger, Francis [[Gomarus]], [[Hugo]] [[Grotius]], Jacobus
+[[Arminius]], [[Daniel]] Heinsius and Guardas Johannes Vossius at once raised
 Leiden university to the highest European fame, a position which the
-learning and reputation of Jacobus Gronovius, Hermann Boerhaave,
-Tiberius Hemsterhuis and David Ruhnken, among others, enabled it to
+learning and reputation of Jacobus Gronovius, [[Hermann]] Boerhaave,
+Tiberius [[Hemsterhuis]] and David Ruhnken, among others, enabled it to
 maintain down to the end of the 18th century. The portraits of many
 famous professors since the earliest days hang in the university _aula_,
 one of the most memorable places, as Niebuhr called it, in the history
@@ -287,9 +287,9 @@ of science. The university library contains upwards of 190,000 volumes
 and 6000 MSS. and pamphlet portfolios, and is very rich in Oriental and
 Greek MSS. and old Dutch travels. Among the institutions connected with
 the university are the national institution for East Indian languages,
-ethnology and geography; the fine botanical gardens, founded in 1587;
+ethnology and [[Geography|geography]]; the fine botanical gardens, founded in 1587;
 the observatory (1860); the natural history museum, with a very complete
-anatomical cabinet; the museum of antiquities (Museum van Oudheden),
+anatomical [[Cabinet|cabinet]]; the museum of antiquities (Museum van Oudheden),
 with specially valuable Egyptian and Indian departments; a museum of
 Dutch antiquities from the earliest times; and three ethnographical
 museums, of which the nucleus was P. F. von Siebold's Japanese
@@ -302,9 +302,9 @@ students.
 The municipal museum, founded in 1869 and located in the old cloth-hall
 (Laeckenhalle) (1640), contains a varied collection of antiquities
 connected with Leiden, as well as some paintings including works by the
-elder van Swanenburgh, Cornelius Engelbrechtszoon, Lucas van Leiden and
+elder van Swanenburgh, Cornelius Engelbrechtszoon, [[Lucas]] van Leiden and
 Jan Steen, who were all natives of Leiden. Jan van Goyen, Gabriel Metsu,
-Gerard Dou and Rembrandt were also natives of this town. There is also a
+[[Gerard]] Dou and Rembrandt were also natives of this town. There is also a
 small collection of paintings in the Meermansburg. The Thysian library
 occupies an old Renaissance building of the year 1655, and is especially
 rich in legal works and native chronicles. Noteworthy also are the
@@ -318,18 +318,18 @@ seminary, transferred hither from Amsterdam in 1873; the two hospitals
   1420 by burgraves, the representatives of the courts of Holland. The
   most celebrated event in its history is its siege by the Spaniards in
   1574. Besieged from May until October, it was at length relieved by
-  the cutting of the dikes, thus enabling ships to carry provisions to
+  the cutting of the [[Dike|dikes]], thus enabling ships to carry provisions to
   the inhabitants of the flooded town. The weaving establishments
   (mainly broadcloth) of Leiden at the close of the 15th century were
   very important, and after the expulsion of the Spaniards Leiden cloth,
-  Leiden baize and Leiden camlet were familiar terms. These industries
+  Leiden [[Baize|baize]] and Leiden camlet were familiar terms. These industries
   afterwards declined, and in the beginning of the 19th century the
   baize manufacture was altogether given up. Linen and woollen
   manufactures are now the most important industries, while there is a
-  considerable transit trade in butter and cheese.
+  considerable transit trade in [[Butter|butter]] and cheese.
 
   Katwyk, or Katwijk, 6 m. N.W. of Leiden, is a popular seaside resort
-  and fishing village. Close by are the great locks constructed in 1807
+  and fishing village. Close by are the great [[Lock|locks]] constructed in 1807
   by the engineer, F. W. Conrad (d. 1808), through which the Rhine (here
   called the Katwyk canal) is admitted into the sea at low tide. The
   shore and the entrance to the canal are strengthened by huge dikes. In

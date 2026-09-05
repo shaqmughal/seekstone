@@ -12,11 +12,11 @@ the empire should observe the Edict of Worms (1521), banning Luther and
 his adherents, in such a manner that they should not be afraid to answer
 it before God and the emperor, the reform movement had received such an
 access of strength that the Catholic party felt itself menaced in
-earnest, and in 1529 again passed a resolution at Spires, deigned not
+[[Earnest|earnest]], and in 1529 again passed a resolution at Spires, deigned not
 merely to preclude any further expansion of the Reformation, but even to
 prevent it from maintaining the ground already won. This decision was at
 once challenged, on the 19th of April, by the protest of the Evangelical
-states (whence the name Protestants); and the effect of this disclaimer
+states (whence the name Protestants); and the effect of this [[Disclaimer|disclaimer]]
 was not small. Still, it was devoid of political significance, unless
 backed by the united force of all the princes and states subscribing to
 the Evangelical teaching; and this unity was wanting. The feud which
@@ -24,8 +24,8 @@ raged round the doctrine of the Lord's Supper had already broken out
 before the first diet of Spires, and had aroused great and immediate
 excitement. At a very early period, however, efforts were made to allay
 the dissension. Strassburg pronounced for conciliation: but the most
-powerful and zealous champion of peace was to be found in the landgrave
-Philip of Hesse, who recognized the absolute necessity--from a political
+powerful and zealous [[Champion|champion]] of peace was to be found in the [[Landgrave|landgrave]]
+Philip of [[Hesse]], who recognized the absolute necessity--from a political
 standpoint--of the union of all German Protestants. It is probable that
 he had invited Luther to a religious conference as early as the year
 1527; but on that occasion he met with a refusal. True, the impression
@@ -33,7 +33,7 @@ conveyed by the attitude of the Catholic party at the second Diet of
 Spires had served to awaken the feeling for solidarity among the
 Evangelicals there assembled; and on the 22nd of April they had even
 secured the basis for a provisional alliance in the shape of a formula
-drawn up by Bucer and dealing with the Lord's Supper. But it was obvious
+drawn up by [[Bucer]] and dealing with the Lord's Supper. But it was obvious
 that a permanent coalition could not be expected unless some definite
 understanding on the debated point could be attained; and on the very
 same day the landgrave despatched to Zwingli an invitation to a
@@ -46,7 +46,7 @@ October (1529) saw the colloquy opened in the castle at Marburg. With
 Zwingli, who had arrived on the 27th of September, he had several
 interviews of considerable political importance before the Wittenberg
 divines made their appearance. These interviews settled the
-preliminaries of an alliance; but they rested on the assumption that the
+preliminaries of an alliance; but they rested on the [[Assumption|assumption]] that the
 theological feud between Wittenberg and Zürich could be removed, or its
 violence at least abated.
 
@@ -67,7 +67,7 @@ few alterations were introduced to meet the wishes of the Swiss
 deputies. The _Articles of Marburg_, which thus came into being, contain
 the doctrine of the Trinity, of the personality of Christ, of faith and
 justification, of the Scriptures, of baptism, of good works, of
-confession, of government, of tradition, and of infant baptism. The
+confession, of government, of tradition, and of [[Infant|infant]] baptism. The
 fifteenth article, treating of the Lord's Supper, defines the ground
 common to both parties even in this debateable region, recognizing the
 necessity of participation in both kinds, and rejecting the sacrifice of
@@ -78,11 +78,11 @@ body and blood of Christ are corporeally present in the bread and wine"
 leiblich im brot und wein sey"). Nevertheless, the adherents of each
 doctrine are recommended to display Christian charity to those of the
 other. These articles were signed by the ten official members of the
-colloquy: Luther, Jonas, Melanchthon, Osiander, Agricola, Brenz,
+colloquy: Luther, [[Jonas]], Melanchthon, Osiander, Agricola, [[Brenz]],
 Oecolampadius, Bucer, Hedio and Zwingli. The personal contact between
 Luther and Zwingli led to no mental _rapprochement_ between the two; but
 in the following year the Articles of Marburg did good service as one of
-the preliminaries to the Augsburg Confession, and remain a valuable
+the preliminaries to the [[Augsburg]] Confession, and remain a valuable
 document for the fundamental principles common to the Lutheran and
 Reformed Churches.
 

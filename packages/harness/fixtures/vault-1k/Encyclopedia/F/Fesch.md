@@ -16,7 +16,7 @@ protector and patron of the family. In the year 1789, when the French
 Revolution broke out, he was archdeacon of Ajaccio, and, like the
 majority of the Corsicans, he felt repugnance for many of the acts of
 the French government during that period; in particular he protested
-against the application to Corsica of the act known as the "Civil
+against the application to [[Corsica]] of the act known as the "Civil
 Constitution of the Clergy" (July 1790). As provost of the "chapter" in
 that city he directly felt the pressure of events; for on the
 suppression of religious orders and corporations, he was constrained to
@@ -48,7 +48,7 @@ ambassador at Rome, Fesch received that important appointment. He was
 assisted by Châteaubriand, but soon sharply differed with him on many
 questions. Towards the close of the year 1804 Napoleon entrusted to
 Fesch the difficult task of securing the presence of Pope Pius VII. at
-the forthcoming coronation of the emperor at Notre Dame, Paris (Dec.
+the forthcoming [[Coronation|coronation]] of the emperor at Notre Dame, Paris (Dec.
 2nd, 1804). His tact in overcoming the reluctance of the pope to be
 present at the coronation (it was only eight months after the execution
 of the duc d'Enghien) received further recognition. He received the
@@ -86,7 +86,7 @@ preside over their deliberations. Here again, however, he failed to
 satisfy the inflexible emperor and was dismissed to his diocese. The
 friction between uncle and nephew became more acute in the following
 year. In June 1812, Pius VII. was brought from his first place of
-detention, Savona, to Fontainebleau, where he was kept under
+detention, Savona, to [[Fontainebleau]], where he was kept under
 surveillance in the hope that he would give way in certain matters
 relating to the Concordat and in other clerical affairs. Fesch ventured
 to write to the aged pontiff a letter which came into the hands of the

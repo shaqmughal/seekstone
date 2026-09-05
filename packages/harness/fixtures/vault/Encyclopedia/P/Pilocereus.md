@@ -9,7 +9,7 @@ topic: numismatics-theory
 PILOCEREUS, the old man cactus, forms a small genus with tallish erect,
 fleshy, angulate stems, on which, with the tufts of spines, are developed
 hair-like bodies, which, though rather coarse, bear some resemblance to the
-hoary locks of an old man. The plants are nearly allied to _Cereus_,
+hoary [[Lock|locks]] of an old man. The plants are nearly allied to _Cereus_,
 differing chiefly in the floriferous portion developing these longer and
 more attenuated hair-like spines, which surround the base of the flowers
 and form a dense woolly head or cephalium. The most familiar species is _P.
@@ -22,7 +22,7 @@ from _Cereus_. They are dwarf, ribbed, globose or cylindrical plants; and
 the flowers, which are produced from the side instead of the apex of the
 stem, are large, and in some cases very beautiful, being remarkable for the
 length of the tube, which is more or less covered with bristly hairs. They
-are natives of Brazil, Bolivia and Chile.
+are natives of Brazil, Bolivia and [[Chile]].
 
 [Illustration: FIG. 3.--Branch of _Phyllocactus_ much reduced; the flowers
 are 6 in. or more in diameter.]

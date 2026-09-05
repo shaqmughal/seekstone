@@ -6,7 +6,7 @@ for some time established at Norbury, Cheshire, was born on the 18th of
 February 1609. He entered Magdalen Hall, Oxford, in 1622 (having been
 refused a demyship at Magdalen College), and graduated B.A. in 1626.
 Intended originally for holy orders, the death of two elder brothers
-made him his father's heir, and in 1625 he entered the Middle Temple. At
+made him his father's [[Heir|heir]], and in 1625 he entered the Middle Temple. At
 the university his abilities were more conspicuous than his industry,
 and at the bar his time was devoted more to general reading and to the
 society of eminent scholars and writers than to the study of law
@@ -15,13 +15,13 @@ without its advantages. In later years Clarendon declared "next the
 immediate blessing and providence of God Almighty" that he "owed all the
 little he knew and the little good that was in him to the friendships
 and conversation ... of the most excellent men in their several kinds
-that lived in that age."[1] These included Ben Jonson, Selden, Waller,
-Hales, and especially Lord Falkland; and from their influence and the
+that lived in that age."[1] These included [[Ben]] [[Jonson]], Selden, Waller,
+[[Hales]], and especially Lord Falkland; and from their influence and the
 wide reading in which he indulged, he doubtless drew the solid learning
 and literary talent which afterwards distinguished him.
 
-In 1629 he married his first wife, Anne, daughter of Sir George Ayliffe,
-who died six months afterwards; and secondly, in 1634, Frances, daughter
+In 1629 he married his first wife, [[Anne]], daughter of Sir George Ayliffe,
+who died six months afterwards; and secondly, in 1634, [[Franc|Frances]], daughter
 of Sir Thomas Aylesbury, Master of Requests. In 1633 he was called to
 the bar, and obtained quickly a good position and practice. His
 marriages had gained for him influential friends, and in December 1634
@@ -40,13 +40,13 @@ for Saltash, renewed his attacks and practically effected its
 suppression. In 1641 he served on the committees for inquiring into the
 status of the councils of Wales and of the North, distinguished himself
 by a speech against the latter, and took an important part in the
-proceedings against the judges. He supported Stafford's impeachment, and
-did not vote against the attainder, subsequently making an unsuccessful
-attempt through Essex to avert the capital penalty.[2] Hyde's
+proceedings against the judges. He supported Stafford's [[Impeachment|impeachment]], and
+did not vote against the [[Attainder|attainder]], subsequently making an unsuccessful
+attempt through [[Essex]] to avert the capital penalty.[2] Hyde's
 allegiance, however, to the church of England was as staunch as his
 support of the law, and was soon to separate him from the popular
-faction. In February 1641 he opposed the reception of the London
-petition against episcopacy, and in May the project for unity of
+[[Faction|faction]]. In February 1641 he opposed the reception of the London
+petition against [[Episcopacy|episcopacy]], and in May the project for unity of
 religion with the Scots, and the bill for the exclusion of the clergy
 from secular office. He showed special energy in his opposition to the
 Root and Branch Bill, and, though made chairman of the committee on the
@@ -61,30 +61,30 @@ choose the king's ministers, and also the Grand Remonstrance, to which
 he wrote a reply published by the king.
 
 He now definitely though not openly joined the royal cause, and refused
-office in January 1642 with Colepeper and Falkland in order to serve the
+office in January 1642 with [[Colepeper]] and Falkland in order to serve the
 king's interests more effectually. Charles undertook to do nothing in
 the Commons without their advice. Nevertheless a few days afterwards,
-without their knowledge and by the advice of Lord Digby, he attempted
-the arrest of the five members, a resort to force which reduced Hyde to
+without their knowledge and by the advice of Lord [[Digby]], he attempted
+the [[Arrest|arrest]] of the five members, a resort to force which reduced Hyde to
 despair, and which indeed seemed to show that things had gone too far
 for an appeal to the law. He persevered, nevertheless, in his legal
 policy, to which Charles after the failure of his project again
 returned, joined the king openly in June, and continued to compose the
-king's answers and declarations in which he appealed to the "known Laws
+king's answers and [[Declaration|declarations]] in which he appealed to the "known Laws
 of the land" against the arbitrary and illegal acts of a seditious
 majority in the parliament, his advice to the king being "to shelter
 himself wholly under the law, ... presuming that the king and the law
 together would have been strong enough for any encounter." Hyde's appeal
 had great influence, and gained for the king's cause half the nation. It
 by no means, however, met with universal support among the royalists,
-Hobbes jeering at Hyde's love for "mixed monarchy," and the courtiers
+[[Hobbes]] jeering at Hyde's love for "mixed monarchy," and the courtiers
 expressing their disapproval of the "spirit of accommodation" which
 "wounded the regality." It was destined to failure owing principally to
 the invincible distrust of Charles created in the parliament leaders,
 and to the fact that Charles was simultaneously carrying on another and
 an inconsistent policy, listening to very different advisers, such as
 the queen and Digby, and resolving on measures (such as the attempt on
-Hull) without Hyde's knowledge or approval.
+[[Hull]]) without Hyde's knowledge or approval.
 
 War, accordingly, in spite of his efforts, broke out. He was expelled
 the House of Commons on the 11th of August 1642, and was one of those
@@ -94,7 +94,7 @@ the king to Oxford, residing at All Souls College from October 1642 till
 March 1645. On the 22nd of February he was made a privy councillor and
 knighted, and on the 3rd of March appointed chancellor of the exchequer.
 He was an influential member of the "Junto" which met every week to
-discuss business before it was laid before the council. His aim was to
+[[Discus|discuss]] business before it was laid before the council. His aim was to
 gain over some of the leading Parliamentarians by personal influence and
 personal considerations, and at the Uxbridge negotiations in January
 1645, where he acted as principal manager on the king's side, while
@@ -106,20 +106,20 @@ Parliament. Hyde's policy and measures, however, all failed. They had
 been weakly and irregularly supported by the king, and were fiercely
 opposed by the military party, who were jealous of the civil influence,
 and were urging Charles to trust to force and arms alone and eschew all
-compromise and concessions. Charles fell now under the influence of
+[[Compromise|compromise]] and concessions. Charles fell now under the influence of
 persons devoid of all legal and constitutional scruples, sending to
 Glamorgan in Ireland "those strange powers and instructions inexcusable
 to justice, piety and prudence."[3]
 
 Hyde's influence was much diminished, and on the 4th of March 1645 he
-left the king for Bristol as one of the guardians of the prince of Wales
+left the king for [[Bristol]] as one of the [[Guardian|guardians]] of the prince of Wales
 and governors of the west. Here the disputes between the council and the
 army paralysed the proceedings, and lost, according to Hyde, the finest
 opportunity since the outbreak of the war of raising a strong force and
 gaining substantial victories in that part of the country. After
 Hopton's defeat on the 16th of February 1646, at Torrington, Hyde
 accompanied the prince, on the 4th of March, to Scilly, and on the 17th
-of April, for greater security, to Jersey. He strongly disapproved of
+of April, for greater security, to [[Jersey]]. He strongly disapproved of
 the prince's removal to France by the queen's order and of the schemes
 of assistance from abroad, refused to accompany him, and signed a bond
 to prevent the sale of Jersey to the French supported by Jermyn. He
@@ -143,7 +143,7 @@ On the outbreak of the second Civil War Hyde left Jersey (26th of June
 from that port to Dunkirk, and thence followed the prince to the Thames,
 where Charles had met the fleet, but was captured and robbed by a
 privateer, and only joined the prince in September after the latter's
-return to the Hague. He strongly disapproved of the king's concessions
+return to the [[Hague]]. He strongly disapproved of the king's concessions
 at Newport. When the army broke off the treaty and brought Charles to
 trial he endeavoured to save his life, and after the execution drew up a
 letter to the several European sovereigns invoking their assistance to
@@ -152,15 +152,15 @@ the Covenanters, the alliance with the Scots, and the Scottish
 expedition, desiring to accomplish whatever was possible there through
 Montrose and the royalists, and inclined rather to an attempt in
 Ireland. His advice was not followed, and he gladly accepted a mission
-with Cottington to Spain to obtain money from the Roman Catholic powers,
+with [[Cottington]] to Spain to obtain money from the Roman Catholic powers,
 and to arrange an alliance between Owen O'Neill and Ormonde for the
 recovery of Ireland, arriving at Madrid on the 26th of November 1649.
 The defeat, however, of Charles at Dunbar, and the confirmation of
 Cromwell's ascendancy, influenced the Spanish government against them,
-and they were ordered to leave in December 1650. Hyde arrived at Antwerp
+and they were ordered to leave in December 1650. Hyde arrived at [[Antwerp]]
 in January 1651, and in December rejoined Charles at Paris after the
 latter's escape from Worcester. He now became one of his chief advisers,
-accompanying him in his change of residence to Cologne in October 1654
+accompanying him in his change of residence to [[Cologne]] in October 1654
 and to Bruges in 1658, and was appointed lord chancellor on the 13th of
 January 1658. His influence was henceforth maintained in spite of the
 intrigues of both Romanists and Presbyterians, as well as the violent
@@ -174,7 +174,7 @@ do him hurt and to expect some blessed conjuncture."[5] In 1656, during
 the war between England and Spain, Charles received offers of help from
 the latter power provided he could gain a port in England, but Hyde
 discouraged small isolated attempts. He expected much from Cromwell's
-death. The same year he made an alliance with the Levellers, and was
+death. The same year he made an alliance with the [[Levellers]], and was
 informed of their plots to assassinate the protector, without apparently
 expressing any disapproval.[6] He was well supplied with information
 from England,[7] and guided the action of the royalists with great
@@ -198,7 +198,7 @@ proprietorship of forfeited lands.
 Hyde entered London with the king, all attempts at effecting his fall
 having failed, and immediately obtained the chief place in the
 government, retaining the chancellorship of the exchequer till the 13th
-of May 1661, when he surrendered it to Lord Ashley. He took his seat as
+of May 1661, when he surrendered it to Lord [[Ashley]]. He took his seat as
 speaker of the House of Lords and in the court of chancery on the 1st of
 June 1660. On the 3rd of November 1660 he was made Baron Hyde of Hindon,
 and on the 20th of April 1661 Viscount Cornbury and earl of Clarendon,
@@ -226,10 +226,10 @@ prayer-book and ritual, which was subsequently thrown out by parliament,
 and he appears to have anticipated some kind of settlement from the
 Savoy Conference which sat in April 1661. The failure of the latter
 proved perhaps that the differences were too great for compromise, and
-widened the breach. The parliament immediately proceeded to pass the
-series of narrow and tyrannical measures against the dissenters known as
-the Clarendon Code. The Corporations Act, obliging members of
-corporations to denounce the Covenant and take the sacrament according
+widened the [[Breach|breach]]. The parliament immediately proceeded to pass the
+series of narrow and tyrannical measures against the [[Dissenter|dissenters]] known as
+the Clarendon [[Code]]. The Corporations Act, obliging members of
+corporations to denounce the [[Covenant]] and take the sacrament according
 to the Anglican usage, became law on the 20th of December 1661, the Act
 of Uniformity enforcing the use of the prayer-book on ministers, as well
 as a declaration that it was unlawful to bear arms against the
@@ -265,12 +265,12 @@ more completely with the intolerant measures of the House of Commons.
 Though not the originator of the Conventicle Act or of the Five-Mile
 Act, he has recorded his approval,[11] and he ended by taking alarm at
 plots and rumours and by regarding the great party of nonconformists,
-through whose co-operation the monarchy had been restored, as a danger
+through whose [[Co-Operation|co-operation]] the monarchy had been restored, as a danger
 to the state whose "faction was their religion."[12]
 
 Meanwhile Clarendon's influence and direction had been predominant in
 nearly all departments of state. He supported the exception of the
-actual regicides from the Indemnity, but only ten out of the twenty-six
+actual regicides from the [[Indemnity]], but only ten out of the twenty-six
 condemned were executed, and Clarendon, with the king's support,
 prevented the passing of a bill in 1661 for the execution of thirteen
 more. He upheld the Act of Indemnity against all the attempts of the
@@ -300,7 +300,7 @@ allowed full freedom of religion. He was a member of the council for
 foreign plantations, and one of the eight lords proprietors of Carolina
 in 1663; and in 1664 sent a commission to settle disputes in New
 England. In the department of foreign affairs he had less influence. His
-policy was limited to the maintenance of peace "necessary for the
+policy was limited to the [[Maintenance|maintenance]] of peace "necessary for the
 reducing [the king's] own dominions into that temper of subjection and
 obedience as they ought to be in."[13] In 1664 he demanded, on behalf of
 Charles, French support, and a loan of £50,000 against disturbance at
@@ -324,9 +324,9 @@ account he initiated the policy of the Triple Alliance,[15] but it seems
 clear that his inclination towards France continued in spite of the
 intervention of the latter state in favour of Holland; and he took part
 in the negotiations for ending the war by an undertaking with Louis XIV.
-implying a neutrality, while the latter seized Flanders. The crisis in
+implying a neutrality, while the latter seized [[Flanders]]. The crisis in
 this feeble foreign policy and in the general official mismanagement was
-reached in June 1667, when the Dutch burnt several ships at Chatham and
+reached in June 1667, when the Dutch burnt several ships at [[Chatham]] and
 when "the roar of foreign guns were heard for the first and last time by
 the citizens of London."[16]
 
@@ -336,20 +336,20 @@ shoulders of Clarendon, though it must be admitted that the disjointed
 state of the administration and want of control over foreign policy were
 largely the causes of the disaster, and for these Clarendon's influence
 and obstruction of official reforms were to some extent answerable.
-According to Sir William Coventry, whose opinion has weight and who
+According to Sir William [[Coventry]], whose opinion has weight and who
 acknowledges the chancellor's fidelity to the king, while Clarendon "was
 so great at the council board and in the administration of matters, there
 was no room for anybody to propose any remedy to what was remiss ... he
 managing all things with that greatness which will now be removed."[17] He
 disapproved of the system of boards and committees instituted during the
-Commonwealth, as giving too much power to the parliament, and regarded the
+[[Commonwealth]], as giving too much power to the parliament, and regarded the
 administration by the great officers of state, to the exclusion of pure
 men of business, as the only method compatible with the dignity and
 security of the monarchy. The lowering of the prestige of the privy
 council, and its subordination first to the parliament and afterwards to
 the military faction, he considered as one of the chief causes of the fall
 of Charles I. He aroused a strong feeling of hostility in the Commons by
-his opposition to the appropriation of supplies in 1665, and to the audit
+his opposition to the [[Appropriation|appropriation]] of supplies in 1665, and to the audit
 of the war accounts in 1666, as "an introduction to a commonwealth" and as
 "a new encroachment," and by his high tone of prerogative and authority,
 while by his advice to Charles to prorogue parliament he incurred their
@@ -367,7 +367,7 @@ magnificent house in St James's was nicknamed "Dunkirk House," while on
 the day of the Dutch attack on Chatham the mob set up a gibbet at his gate
 and broke his windows. He had always been exceedingly unpopular at court,
 and kept severely aloof from the revels and licence which reigned there.
-Evelyn names "the buffoons and the misses to whom he was an eyesore."[19]
+[[Evelyn]] names "the buffoons and the misses to whom he was an eyesore."[19]
 He was intensely disliked by the royal mistresses, whose favour he did not
 condescend to seek, and whose presence and influence were often the
 subject of his reproaches.[20] A party of younger men of the king's own
@@ -376,7 +376,7 @@ chancellor from power and to succeed him in office, had for some time been
 endeavouring to undermine his influence by ridicule and intrigue.
 Surrounded by such general and violent animosity, Clarendon's only hope
 could be in the support of the king. But the chancellor had early and
-accurately gauged the nature and extent of the king's attachment to him,
+accurately gauged the nature and extent of the king's [[Attachment|attachment]] to him,
 which proceeded neither from affection nor gratitude but "from his
 aversion to be troubled with the intricacies of his affairs," and in 1661
 he had resisted the importunities of Ormonde to resign the great seal for
@@ -389,7 +389,7 @@ Frances Stuart (la Belle Stuart) for his seraglio, a disappointment which
 he attributed to Clarendon, and was now alarmed by the hostility which his
 administration had excited. He did not scruple to sacrifice at once the
 old adherent of his house and fortunes. "The truth is," he wrote Ormonde,
-"his behaviour and humour was grown so insupportable to myself and all the
+"his behaviour and [[Humour|humour]] was grown so insupportable to myself and all the
 world else that I could no longer endure it, and it was impossible for me
 to live with it and do these things with the Parliament that must be done,
 or the government will be lost."[22] By the direction of Charles, James
@@ -408,7 +408,7 @@ charge. Clarendon wrote humbly to the king asking for pardon, and that the
 prosecution might be prevented, but Charles had openly taken part against
 him, and, though desiring his escape, would not order or assist his
 departure for fear of the Commons. Through the bishop of Hereford,
-however, on the 29th of November he pressed Clarendon to fly, promising
+however, on the 29th of November he pressed Clarendon to [[Fly|fly]], promising
 that he should not during his absence suffer in his honour or fortune.
 Clarendon embarked the same night for Calais, where he arrived on the 2nd
 of December. The Lords immediately passed an act for his banishment and
@@ -416,7 +416,7 @@ ordered the petition forwarded by him to parliament to be burnt.
 
 The rest of Clarendon's life was passed in exile. He left Calais for
 Rouen on the 25th of December, returning on the 21st of January 1668,
-visiting the baths of Bourbon in April, thence to Avignon in June,
+visiting the baths of [[Bourbon]] in April, thence to [[Avignon]] in June,
 residing from July 1668 till June 1671 at Montpellier, whence he
 proceeded to Moulins and to Rouen again in May 1674. His sudden
 banishment entailed great personal hardships. His health at the time of
@@ -431,7 +431,7 @@ the point of despatching him when he was rescued by the guard. For some
 time he was not allowed to see any of his children; even correspondence
 with him was rendered treasonable by the Act of Banishment; and it was
 not apparently till 1671, 1673 and 1674 that he received visits from his
-sons, the younger, Lawrence Hyde, being present with him at his death.
+sons, the younger, [[Lawrence]] Hyde, being present with him at his death.
 
 Clarendon bore his troubles with great dignity and fortitude. He found
 consolation in religious duties, and devoted a portion of every day to
@@ -449,9 +449,9 @@ former urging "You cannot be without zeal for the Church to which your
 blessed father made himself a sacrifice," adding that such a change
 would bring a great storm against the Romanists. He entertained to the
 last hopes of obtaining leave to return to England. He asked for
-permission in June 1671 and in August 1674. In the dedication of his
-_Brief View of Mr Hobbes's Book Leviathan_ he repeats "the hope which
-sustains my weak, decayed spirits that your Majesty will at some time
+permission in June 1671 and in August 1674. In the [[Dedication|dedication]] of his
+_Brief View of Mr Hobbes's Book [[Leviathan]]_ he repeats "the hope which
+sustains my weak, decayed spirits that your [[Majesty]] will at some time
 call to your remembrance my long and incorrupted fidelity to your person
 and your service"; but his petitions were not even answered or noticed.
 He died at Rouen on the 9th of December 1674. He was buried in
@@ -479,7 +479,7 @@ maintained his self-respect and personal dignity regardless of
 consequences, and in an age of almost universal corruption and
 self-seeking he preserved a noble integrity and patriotism. At the
 Restoration he showed great moderation in accepting rewards. He refused
-a grant of 10,000 acres in the Fens from the king on the ground that it
+a grant of 10,000 acres in the [[Fens]] from the king on the ground that it
 would create an evil precedent, and amused Charles and James by his
 indignation at the offer of a present of £10,000 from the French
 minister Fouquet, the only present he accepted from Louis XIV. being a
@@ -490,7 +490,7 @@ should carry the external marks of greatness. The house built by him in
 St James's was one of the most magnificent ever seen in England, and was
 filled with a collection of portraits, chiefly those of contemporary
 statesmen and men of letters. It cost Clarendon £50,000, involved him
-deeply in debt and was considered one of the chief causes of the "gust
+deeply in [[Debt|debt]] and was considered one of the chief causes of the "gust
 of envy" that caused his fall.[25] He is described as "a fair, ruddy,
 fat, middle-statured, handsome man," and his appearance was stately and
 dignified. He expected deference from his inferiors, and one of the
@@ -504,18 +504,18 @@ his successors. As lord chancellor Clarendon made no great impression in
 the court of chancery. His early legal training had long been
 interrupted, and his political preoccupations probably rendered
 necessary the delegation of many of his judicial duties to others.
-According to Speaker Onslow his decrees were always made with the aid of
-two judges. Burnet praises him, however, as "a very good chancellor,
+According to Speaker Onslow his [[Decree|decrees]] were always made with the aid of
+two judges. [[Burnet]] praises him, however, as "a very good chancellor,
 only a little too rough but very impartial in the administration of
 justice," and Pepys, who saw him presiding in his court, perceived him
 to be "a most able and ready man."[26] According to Evelyn, "though no
 considerable lawyer" he was "one who kept up the fame and substance of
 things in the nation with ... solemnity." He made good appointments to
-the bench and issued some important orders for the reform of abuses in
+the [[Bench|bench]] and issued some important orders for the reform of abuses in
 his court.[27] As chancellor of Oxford University, to which office he
 was elected on the 27th of October 1660, Clarendon promoted the
 restoration of order and various educational reforms. In 1753 his
-manuscripts were left to the university by his great-grandson Lord
+[[Manuscript|manuscripts]] were left to the university by his great-grandson Lord
 Cornbury, and in 1868 the money gained by publication was spent in
 erecting the Clarendon Laboratory, the profits of the _History_ having
 provided in 1713 a building for the university press adjoining the
@@ -527,15 +527,15 @@ oratorical gifts. His eloquence was greatly admired by Evelyn and
 Pepys, though Burnet criticises it as too copious. He was a great lover
 of books and collected a large library, was well read in the Roman and
 in the contemporary histories both foreign and English, and could
-appreciate Carew, Ben Jonson and Cowley. As a writer and historian
-Clarendon occupies a high place in English literature. His great work,
+appreciate Carew, Ben Jonson and [[Cowley]]. As a writer and historian
+Clarendon occupies a [[High Place|high place]] in English literature. His great work,
 the _History of the Rebellion_, is composed in the grand style. A
 characteristic feature is the wonderful series of well-known portraits,
 drawn with great skill and liveliness and especially praised by Evelyn
 and by Macaulay. The long digressions, the lengthy sentences, and the
 numerous parentheses do not accord with modern taste and usage, but it
 may be observed that these often follow more closely the natural
-involutions of the thought, and express the argument more clearly, than
+[[Involution|involutions]] of the thought, and express the argument more clearly, than
 the short disconnected sentences, now generally employed, while in
 rhythm and dignity Clarendon's style is immeasurably superior. The
 composition, however, of the work as a whole is totally wanting in
@@ -572,7 +572,7 @@ motives of the Presbyterian party. The work was first published in
 with a few unimportant alterations, and was the object of a violent
 attack by John Oldmixon for supposed changes and omissions in _Clarendon
 and Whitelocke compared_ (1727) and again in a preface to his _History
-of England_ (1730), repelled and refuted by John Burton in the
+of England_ (1730), repelled and refuted by John [[Burton]] in the
 _Genuineness of Lord Clarendon's History Vindicated_ (1744). The history
 was first published from the original in 1826; the best edition being
 that of 1888 edited by W.D. Macray and issued by the Clarendon Press.
@@ -595,13 +595,13 @@ the Estate and Condition of George, duke of Buckingham and Robert, earl
 of Essex_, a youthful production vindicating Buckingham, printed in
 _Reliquiae Wottonianae_ (1672), i. 184; _Animadversions on a Book
 entitled Fanaticism_ (1673); _A Brief View ... of the dangerous ...
-errors in ... Mr Hobbes's book entitled "Leviathan"_ (1676); _The
+[[Error|errors]] in ... Mr Hobbes's book entitled "Leviathan"_ (1676); _The
 History of the Rebellion and Civil War in Ireland_ (1719); _A Collection
 of Several Pieces of Edward, earl of Clarendon_, containing reprints of
 speeches from the journals of the House of Lords and of the History of
 the Rebellion in Ireland (1727); _A Collection of Several Tracts_
 containing his _Vindication_ in answer to his impeachment, _Reflections
-upon several Christian Duties, Two Dialogues on Education and on the
+upon several Christian Duties, Two [[Dialogue|Dialogues]] on Education and on the
 want of Respect due to age_, and _Contemplations on the Psalms_ (1727);
 _Religion and Policy_ (1811); _Essays moral and entertaining on the
 various faculties and passions of the human mind_ (1815, and in _British
@@ -610,7 +610,7 @@ Prose Writers_, 1819, vol. i.); _Speeches_ in _Rushworth's Collections_
 (Clarendon being the author of nearly all on the king's side between
 March 1642 and March 1645, the first being the answer to the Grand
 Remonstrance in January 1642, but not of the answer to the XIX.
-Propositions or the apology for the King's attack upon Brentford) in the
+Propositions or the [[Apology|apology]] for the King's attack upon [[Brentford]]) in the
 published _History_, Rushworth's _Collections_, E. Husband's
 _Collections of Ordinances and Declarations_ (1646), _Old Parliamentary
 History_ (1751-1762), _Somers Tracts, State Tracts, Harleian Miscellany,
@@ -621,7 +621,7 @@ from a True and Lawful Member of Parliament ... to one of the Lords of
 his Highness's Council_ (1656), and _Two Speeches made in the House of
 Peers on Monday 19th Dec._ [1642] ... (_Somers Tracts_, Scott, vi. 576);
 _Second Thoughts_ (n.d., in favour of a limited toleration) is ascribed
-to him in the Catalogue in the British Museum; _A Letter ... to one of
+to him in the [[Catalogue]] in the British Museum; _A Letter ... to one of
 the Chief Ministers of the Nonconforming Party_ ... (Saumur, 7th May
 1674) has been attributed to him on insufficient evidence.
 
@@ -650,17 +650,17 @@ pt. vi. pp. 193-216, and in the _Harleian Miscellany_.
   Foss's _Judges_, supply no further information. In _Historical
   Inquiries respecting the Character of Edward Hyde, earl of Clarendon_,
   various charges against Clarendon were collected by G.A. Ellis (1827)
-  and answered by Lister, vol. ii. 529, and by Lady Th. Lewis in _Lives
+  and answered by Lister, vol. ii. 529, and by Lady Th. [[Lewis]] in _Lives
   of the Contemporaries of Lord Clarendon_ (1852), i. preface pt. i. For
   criticisms of the _History_ see Gardiner's _Civil Wars_ (1893), iii.
   121; Ranke's _Hist. of England_, vi. 3-29; _Die Politik Karls des
-  Ersten_ ... _und Lord Clarendon's Darstellung_, by A. Buff (1868);
+  Ersten_ ... _und Lord Clarendon's Darstellung_, by A. [[Buff]] (1868);
   article in the _Dict. of Nat. Biog._ by C.H. Firth, and especially a
   series of admirable articles by the same author in the _Eng. Hist.
   Review_ (1904). For description of the MS., Macray's edition of the
   _History_ (1888), Lady Th. Lewis's _Lives from the Clarendon Gallery_,
   i. introd. pt. ii.; for list of earlier editions, _Ath. Oxon._ (Bliss)
-  iii. 1017. Lord Lansdowne defends Sir R. Granville against Clarendon's
+  iii. 1017. Lord [[Lansdowne]] defends Sir R. [[Granville]] against Clarendon's
   strictures in the _Vindication (Genuine Works of G. Granville, Lord
   Lansdowne, i. 503 [1732])_, and Lord Ashburnham defends John
   Ashburnham in _A Narrative by John Ashburnham_ (1830). See also _Notes
@@ -668,7 +668,7 @@ pt. vi. pp. 193-216, and in the _Harleian Miscellany_.
   Clarendon_ (Roxburghe Club. 1896); _General Orders of the High Court
   of Chancery_, by J. Beames (1815), 147-221; S.R. Gardiner's _Hist. of
   England, of the Civil War and of the Commonwealth; Lord Clarendon_, by
-  A. Chassant (account of the assault at Evreux) (1891); _Annals of the
+  A. Chassant (account of the assault at Evreux) (1891); _[[Annals]] of the
   Bodleian Library_, by W.D. Macray (1868); Masson's _Life of Milton_;
   _Life of Sir G. Savile_, by H.C. Foxcroft (1898); _Cal. of St. Pap.
   Dom._, esp. 1667-1668, 58, 354, 370; _Hist. MSS. Comm. Series, MSS. of
@@ -700,7 +700,7 @@ FOOTNOTES:
 
   [8] Anne Hyde (1637-1671), eldest daughter of the chancellor, was the
     mother by James of Queen Mary and Queen Anne, besides six other
-    children, including four sons who all died in infancy. She became a
+    children, including four sons who all died in [[Infancy|infancy]]. She became a
     Roman Catholic in 1670 shortly before her death, and was buried in
     the vault of Mary, queen of Scots, in Henry VII.'s chapel in
     Westminster Abbey.

@@ -5,8 +5,8 @@ October 1838, was the son of Philipp Eduard Devrient. He joined the
 stage in 1856 at Karlsruhe, and acted successively in Stuttgart, Berlin
 and Leipzig, until he received a fixed appointment at Karlsruhe, in
 1863. In 1873 he became stage manager at Weimar, where he gained great
-praise for his _mise en scène_ of Goethe's _Faust_. After being manager
-of the theatres in Mannheim and Frankfort he retired to Jena, where in
+praise for his _mise en scène_ of Goethe's _[[Faust]]_. After being manager
+of the theatres in [[Mannheim]] and [[Frankfort]] he retired to [[Jena]], where in
 1883 he was given the honorary degree of doctor of philosophy. In 1884
 he was appointed director of the court theatre in Oldenburg, and in
 1889 director of dramatic plays in Berlin. He died at Stettin on the
@@ -21,10 +21,10 @@ vapour of the atmosphere; formed after a hot day, during or towards
 night and plentiful in the early morning." Huxley in his _Physiography_
 makes the addition "without production of mist." The formation of mist
 is not necessary for the formation of dew, nor does it necessarily
-prevent it. If the deposit of moisture is in the form of ice instead of
+prevent it. If the deposit of moisture is in the form of [[Ice|ice]] instead of
 water it is called hoarfrost. The researches of Aitken suggest that the
 words "by condensation of the vapour in the atmosphere" might be omitted
-from the definition. He has given reasons for believing that the large
+from the [[Definition|definition]]. He has given reasons for believing that the large
 dewdrops on the leaves of plants, the most characteristic of all the
 phenomena of dew, are to be accounted for, in large measure at least, by
 the exuding of drops of water from the plant through the pores of the
@@ -32,7 +32,7 @@ leaves themselves. The formation of dewdrops in such cases is the
 continuation of the irrigation process of the plant for supplying the
 leaves with water from the soil. The process is set up in full vigour in
 the daytime to maintain tolerable thermal conditions at the surface of
-the leaf in the hot sun, and continued after the sun has gone.
+the [[Leaf|leaf]] in the hot sun, and continued after the sun has gone.
 
 On the other hand, the most typical physical experiment illustrating the
 formation of dew is the production of a deposit of moisture, in minute
@@ -71,14 +71,14 @@ dew-point begins to approach the normal temperature of the human body
 the atmosphere becomes insupportable.
 
 The physical explanation of the formation of dew consists practically in
-determining the process or processes by which leaves, blades of grass,
+determining the process or processes by which leaves, [[Blades|blades]] of grass,
 stones, and other objects in the open air upon which dew may be
 observed, become cooled "below the dew-point."
 
-Formerly, from the time of Aristotle at least, dew was supposed to
+Formerly, from the time of [[Aristotle]] at least, dew was supposed to
 "fall." That view of the process was not extinct at the time of
 Wordsworth and poets might even now use the figure without reproach. To
-Dr Charles Wells of London belongs the credit of bringing to a focus the
+Dr Charles Wells of London belongs the [[Credit|credit]] of bringing to a [[Focus|focus]] the
 ideas which originated with the study of radiation at the beginning of
 the 19th century, and which are expressed by saying that the cooling
 necessary to produce dew on exposed surfaces is to be attributed to the
@@ -98,7 +98,7 @@ atmosphere.
 
 The question was very fully studied by Melloni and others, but little
 more was added to the explanation given by Wells until 1885, when John
-Aitken of Falkirk called attention to the question whether the water of
+Aitken of [[Falkirk]] called attention to the question whether the water of
 dewdrops on plants or stones came from the air or the earth, and
 described a number of experiments to show that under the conditions of
 observation in Scotland, it was the earth from which the moisture was
@@ -128,10 +128,10 @@ hardly be maintained that no dew could form unless there were a supply
 of water by evaporation from warm ground, but, when such a supply is
 forthcoming, it is evident that in place of the limited process of
 condensation which deprives the air of its moisture and is therefore
-soon terminable, we have the process of distillation which goes on as
+soon terminable, we have the process of [[Distillation|distillation]] which goes on as
 long as conditions are maintained. This distinction is of some practical
 importance for it indicates the protecting power of wet soil in favour
-of young plants as against night frost. If distillation between the
+of young plants as against night [[Frost|frost]]. If distillation between the
 ground and the leaves is set up, the temperature of the leaves cannot
 fall much below the original dew-point because the supply of water for
 condensation is kept up; but if the compensation for loss of heat by
@@ -142,7 +142,7 @@ go on.
 
 In these questions we have to deal with comparatively large changes
 taking place within a small range of level. It is with the layer a few
-inches thick on either side of the surface that we are principally
+[[Inch|inches]] thick on either side of the surface that we are principally
 concerned, and for an adequate comprehension of the conditions close
 consideration is required. To illustrate this point reference may be
 made to figs. 1 and 2, which represent the condition of affairs at 10.40
@@ -187,29 +187,29 @@ copious a condensation from the atmosphere as actually to make the air
 drier at the surface than up above. In diagram 1, for soil, the effect
 on air temperature and moisture is shown; the two lines converge to cut
 at the surface where a dew deposit will be formed. Along the underground
-line there must be a gradual creeping of heat and moisture towards the
+line there must be a [[Gradual|gradual]] creeping of heat and moisture towards the
 surface by distillation, the more rapid the greater the temperature
 gradient.
 
 The amount of dew deposited is considerable, and, in tropical countries,
-is sometimes sufficiently heavy to be collected by gutters and spouts,
+is sometimes sufficiently heavy to be collected by [[Gutter|gutters]] and spouts,
 but it is not generally regarded as a large percentage of the total
 rainfall. Loesche estimates the amount of dew for a single night on the
-Loango coast at 3 mm., but the estimate seems a high one. Measurements
+[[Loango]] coast at 3 mm., but the estimate seems a high one. Measurements
 go to show that the depth of water corresponding with the aggregate
 annual deposit of dew is 1 in. to 1.5 in. near London (G. Dines), 1.2
 in. at Munich (Wollny), 0.3 in. at Montpellier (Crova), 1.6 in. at
 Tenbury, Worcestershire (Badgley).
 
 With the question of the amount of water collected as dew, that of the
-maintenance of "dew ponds" is intimately associated. The name is given
-to certain isolated ponds on the upper levels of the chalk downs of the
+[[Maintenance|maintenance]] of "dew ponds" is intimately associated. The name is given
+to certain isolated ponds on the upper levels of the chalk [[Downs|downs]] of the
 south of England and elsewhere. Some of these ponds are very ancient, as
 the title of a work on _Neolithic Dewponds_ by A. J. and G. Hubbard
-indicates. Their name seems to imply the hypothesis that they depend
+indicates. Their name seems to imply the [[Hypothesis|hypothesis]] that they depend
 upon dew and not entirely upon rain for their maintenance as a source of
 water supply for cattle, for which they are used. The question has been
-discussed a good deal, but not settled; the balance of evidence seems to
+discussed a good deal, but not settled; the [[Balance|balance]] of evidence seems to
 be against the view that dew deposits make any important contribution to
 the supply of water. The construction of dew ponds is, however, still
 practised on traditional lines, and it is said that a new dew pond has
@@ -233,21 +233,21 @@ gradual accumulation of water in an impervious basin.
   _Soc. R. des sciences d'Upsal_ (1876); review in _Met. Zeit._ xii.
   (1877), p. 105.
 
-  For _Dew Ponds_, see Stephen Hales, _Statical Essays_, vol. i.,
+  For _Dew Ponds_, see Stephen [[Hales]], _Statical Essays_, vol. i.,
   experiment xix., pp. 52-57 (2nd ed., London, 1731); Gilbert White,
   _Natural History and Antiquities of Selborne_, letter xxix. (London,
   1789); Dr C. Wells, _An Essay on Dew_ (London, 1818, 1821 and 1866);
   Rev. J. C. Clutterbuck, "Prize Essay on Water Supply," _Journ. Roy.
   Agric. Soc._, 2nd series, vol. i. pp. 271-287 (1865); Field and
   Symons, "Evaporation from the Surface of Water," _Brit. Assoc. Rep._
-  (1869), sect., pp. 25, 26; J. Lucas, "Hydrogeology: One of the
+  (1869), sect., pp. 25, 26; J. [[Lucas]], "Hydrogeology: One of the
   Developments of Modern Practical Geology," _Trans. Inst. Surveyors_,
   vol. ix. pp. 153-232 (1877); H. P. Slade, "A Short Practical Treatise
-  on Dew Ponds" (London, 1877); Clement Reid, "The Natural History of
+  on Dew Ponds" (London, 1877); [[Clement]] Reid, "The Natural History of
   Isolated Ponds," _Trans. Norfolk and Norwich Naturalists' Society_,
   vol. v. pp. 272-286 (1892); Professor G. S. Brady, _On the Nature and
   Origin of Freshwater Faunas_ (1899); Professor L. C. Miall, "Dew
-  Ponds," _Reports of the British Association_ (Bradford Meeting, 1900),
+  Ponds," _Reports of the British Association_ ([[Bradford]] Meeting, 1900),
   pp. 579-585; A. J. and G. Hubbard, "Neolithic Dewponds and
   Cattle-Ways" (London, 1904, 1907).                         (W. N. S.)
 
@@ -256,7 +256,7 @@ DEWAN or DIWAN, an Oriental term for finance minister. The word is
 derived from the Arabian _diwan_, and is commonly used in India to
 denote a minister of the Mogul government, or in modern days the prime
 minister of a native state. It was in the former sense that the grant of
-the _dewanny_ to the East India Company in 1765 became the foundation of
+the _dewanny_ to the [[East India Company]] in 1765 became the foundation of
 the British empire in India.
 
 ## See also

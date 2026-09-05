@@ -12,9 +12,9 @@ Rebellion, was the son of John Massey of Coddington, Cheshire. Little is
 known of his early life, but it is said that he served in the Dutch army
 against the Spaniards. In 1639 he appears as a captain of pioneers in
 the army raised by Charles I. to fight against the Scots. At the
-outbreak of the Great Rebellion he was with the king at York, but he
+outbreak of the [[Great Rebellion]] he was with the king at York, but he
 soon joined the Parliamentary army. As lieutenant-colonel under the earl
-of Stamford he became deputy governor of Gloucester, where he remained
+of Stamford he became [[Deputy|deputy]] governor of Gloucester, where he remained
 till towards the end of the first Civil War, becoming governor early in
 1643. He conducted minor operations against numerous small bodies of
 Royalists, and conducted the defence of Gloucester against the king's
@@ -23,10 +23,10 @@ the thanks of parliament and a grant of £1000 for his services. In 1644
 Massey continued to keep the field and to disperse the local Royalists,
 and on several occasions he measured swords with Prince Rupert. In May
 1644 he was made general of the forces of the Western Association. In
-1645 he took the offensive against Lord Goring and the western
+1645 he took the offensive against Lord [[Goring]] and the western
 Royalists, advanced to the relief of Taunton, and in the autumn
-co-operated effectively with Sir Thomas Fairfax and the New Model army
-in the Langport campaign. After taking part in the desultory operations
+co-operated effectively with Sir Thomas [[Fairfax]] and the New Model army
+in the [[Langport]] campaign. After taking part in the desultory operations
 which closed the first war, he took his seat in the House of Commons as
 member for Gloucester. He then began to take an active part in politics
 on the Presbyterian side, and was one of the generals who was impeached
@@ -36,7 +36,7 @@ War in the Presbyterian interests. Massey fled from England in June
 excluded by Pride's Purge, and after a short imprisonment escaped to
 Holland. Thence, taking the side of the king openly and definitely like
 many other Presbyterians, he accompanied Charles II. to Scotland. He
-fought against Cromwell at the bridge of Stirling and Inverkeithing, and
+fought against [[Cromwell]] at the bridge of Stirling and Inverkeithing, and
 commanded the advanced guard of the Royalist army in the invasion of
 England in 1651. It was hoped that Massey's influence would win over the
 towns of the Severn valley to the cause of the king, and the march of

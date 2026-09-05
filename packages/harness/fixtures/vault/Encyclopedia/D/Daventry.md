@@ -15,7 +15,7 @@ On the adjacent Borough Hill are extensive earthworks, and the discovery
 of remains here and at Burnt Walls, immediately south, proves the
 existence of a considerable Roman station. The chief industry of the
 town is the manufacture of boots and shoes. The borough is under a
-mayor, four aldermen and twelve councillors. Area, 3633 acres.
+[[Mayor|mayor]], four aldermen and twelve councillors. Area, 3633 acres.
 
 In spite of the Roman remains on Borough Hill, nothing is known of the
 town itself until the time of the Domesday Survey, when the manor
@@ -31,7 +31,7 @@ charter. The "quo warranto" rolls show that a market every Wednesday and
 a fair on St Augustine's day were granted to Simon son of Walter by King
 John. The charter of 1576 confirms this market and fair to the
 burgesses, and grants them two new fairs each continuing for two days,
-on Tuesday after Easter and on the feast of St Matthew the Apostle.
+on Tuesday after [[Easter]] and on the feast of St [[Matthew]] the [[Apostle]].
 Wednesday is still the market day. The town was an important coaching
 centre, and there was a large local industry in the manufacture of
 whips. During the civil wars Daventry was the headquarters of Charles I.

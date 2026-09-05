@@ -14,7 +14,7 @@ vocabulary being partly archaic and partly provincial; but, despite its
 eccentric mannerisms, it is a vivid record of picturesque scenes and
 local customs. Estebanez Calderon is also the author of an unfinished
 history, _De la conquista y perdida de Portugal_ (1883), issued
-posthumously under the editorship of his nephew, Antonio Canovas del
+posthumously under the editorship of his nephew, [[Antonio]] [[Canova|Canovas]] del
 Castillo.
 
 ## See also

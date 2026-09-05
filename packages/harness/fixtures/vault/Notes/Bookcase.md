@@ -3,8 +3,8 @@
 BOOKCASE, an article of furniture, forming a shelved receptacle, usually
 perpendicular or horizontal, for the storage of books. When books, being
 written by hand, were excessively scarce, they were kept in small
-coffers which the great carried about with them on their journeys. As
-manuscript volumes accumulated in the religious houses or in regal
+[[Coffer|coffers]] which the great carried about with them on their journeys. As
+[[Manuscript|manuscript]] volumes accumulated in the religious houses or in regal
 palaces, they were stored upon shelves or in cupboards, and it is from
 these cupboards that the bookcase of to-day directly descends. At a
 somewhat later date the doors were, for convenience' sake, discarded,
@@ -29,25 +29,25 @@ hands of the great English cabinet-makers of the second half of the 18th
 century.
 
 Both Chippendale and Sheraton made or designed great numbers of
-bookcases, mostly glazed with little lozenges encased in fret-work
-frames often of great charm and elegance. The alluring grace of some of
+bookcases, mostly glazed with little [[Lozenge|lozenges]] encased in fret-work
+[[Frame|frames]] often of great [[Charm|charm]] and elegance. The alluring [[Grace|grace]] of some of
 Sheraton's satinwood bookcases has very rarely indeed been equalled. The
 French cabinet-makers of the same period were also highly successful
 with small ornamental cases. Mahogany, rosewood, satinwood and even
-choicer exotic timbers were used; they were often inlaid with
+choicer [[Exotic|exotic]] timbers were used; they were often inlaid with
 marqueterie and mounted with chased and gilded bronze. Dwarf bookcases
-were frequently finished with a slab of choice marble at the top. In the
+were frequently finished with a slab of choice [[Marble|marble]] at the top. In the
 great public libraries of the 20th century the bookcases are often of
 iron, as in the British Museum where the shelves are covered with
 cowhide, of steel, as in the library of Congress at Washington, or of
-slate, as in the Fitzwilliam library at Cambridge. There are three
+slate, as in the [[Fitzwilliam]] library at Cambridge. There are three
 systems of arranging bookcases--flat against the wall; in "stacks" or
 ranges parallel to each other with merely enough space between to allow
 of the passage of a librarian; or in bays or alcoves where cases jut out
 into the room at right angles to the wall-cases. The stack system is
 suitable only for public libraries where economy of space is essential;
 the bay system is not only handsome but utilizes the space to great
-advantage. The library of the city of London at the Guildhall is a
+advantage. The library of the city of London at the [[Guildhall]] is a
 peculiarly effective example of the bay arrangement.
 
   The whole question of the construction and arrangement of bookcases

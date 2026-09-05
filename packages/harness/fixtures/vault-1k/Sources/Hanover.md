@@ -26,7 +26,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   of the Elbe and near the North Sea, where, as in Holland, rich meadows
   are preserved from encroachment of the sea by broad dikes and deep
   ditches, kept in repair at great expense. The main feature of the
-  northern plain is the so-called _Luneburger Heide_, a vast expanse of
+  northern plain is the so-called _Luneburger [[Heide]]_, a vast expanse of
   moor and fen, mainly covered with low brushwood (though here and there
   are oases of fine beech and oak woods) and intersected by shallow
   valleys, and extending almost due north from the city of Hanover to
@@ -38,7 +38,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   The whole of Hanover dips from the Harz Mountains to the north, and
   the rivers consequently flow in that direction. The three chief rivers
   of the province are the Elbe in the north-east, where it mainly forms
-  the boundary and receives the navigable tributaries Jeetze, Ilmenau,
+  the boundary and receives the navigable tributaries Jeetze, [[Ilmenau]],
   Seve, Este, Luhe, Schwinge and Medem; the Weser in the centre, with
   its important tributary the Aller (navigable from Celle downwards);
   and in the west the Ems, with its tributaries the Aa and the Leda.
@@ -70,7 +70,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   female. The density of the population is 175 to the sq. m. (English),
   and the proportion of urban to rural population, roughly, as 1 to 3 of
   the inhabitants. The province is divided into the six
-  _Regierungsbezirke_ (or departments) of Hanover, Hildesheim, Luneburg,
+  _Regierungsbezirke_ (or departments) of Hanover, [[Hildesheim]], Luneburg,
   Stade, Osnabruck and Aurich, and these again into Kreise (circles, or
   local government districts)--76 in all. The chief towns--containing
   more than 10,000 inhabitants--are Hanover, Linden, Osnabruck,
@@ -92,7 +92,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   in Hanover, an academy of forestry in Munden, a mining college in
   Clausthal, a military school and a veterinary college (both in
   Hanover), 26 gymnasia (classical schools), 18 semi-classical, and 14
-  commercial schools. There are also two naval academies, asylums for
+  commercial schools. There are also two naval academies, [[Asylum|asylums]] for
   the deaf and dumb, and numerous charitable institutions.
 
   _Agriculture._--Though agriculture constitutes the most important
@@ -107,7 +107,7 @@ arsenal of Wilhelmshaven. The area of the province is 14,870 sq. m.
   generally grown for bread. Flax, for which much of the soil is
   admirably adapted, is extensively cultivated, and forms an important
   article of export, chiefly, however, in the form of yarn. Potatoes,
-  hemp, turnips, hops, tobacco and beet are also extensively grown, the
+  hemp, turnips, hops, tobacco and [[Beet|beet]] are also extensively grown, the
   latter, in connexion with the sugar industry, showing each year a
   larger return. Apples, pears, plums and cherries are the principal
   kinds of fruit cultivated, while the wild red cranberries from the
@@ -195,7 +195,7 @@ family. Casting lots to determine this question, the lot fell upon the
 sixth brother, George (1582-1641), who was a prominent soldier during
 the period of the Thirty Years' War and saw service in almost all parts
 of Europe, fighting successively for Christian IV. of Denmark, the
-emperor Ferdinand II., and for the Swedes both before and after the
+emperor [[Ferdinand]] II., and for the Swedes both before and after the
 death of Gustavus Adolphus. In 1617 he aided his brother, Duke
 Christian, to add Grubenhagen to Luneburg, and after the extinction of
 the family of Brunswick-Wolfenbuttel in 1634, he obtained Calenberg for
@@ -372,7 +372,7 @@ Refusing to join the Prussian _Zollverein_, Hanover had become a member
 of the rival commercial union, the _Steuerverein_, three years before
 Ernest's accession; but as this union was not a great success the
 _Zollverein_ was joined in 1851. In 1849, after the failure of the
-German parliament at Frankfort, the king had joined with the sovereigns
+German parliament at [[Frankfort]], the king had joined with the sovereigns
 of Prussia and Saxony to form the "three kings' alliance"; but this
 union with Prussia was unreal, and with the king of Saxony he soon
 transferred his support to Austria and became a member of the "four
@@ -405,7 +405,7 @@ once Prussia requested Hanover to remain unarmed and neutral during the
 war, and with equal promptness King George refused to assent to these
 demands. Prussian troops then crossed his frontier and took possession
 of his capital. The Hanoverians, however, were victorious at the battle
-of Langensalza on the 27th of June 1866, but the advance of fresh bodies
+of [[Langensalza]] on the 27th of June 1866, but the advance of fresh bodies
 of the enemy compelled them to capitulate two days later. By the terms
 of this surrender the king was not to reside in Hanover, his officers
 were to take no further part in the war, and his ammunition and stores

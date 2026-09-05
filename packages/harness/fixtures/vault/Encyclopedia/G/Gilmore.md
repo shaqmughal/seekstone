@@ -3,7 +3,7 @@
 GILMORE, PATRICK SARSFIELD (1829-1892), American bandmaster, was born in
 Ireland, and settled in America about 1850. He had been in the band of
 an Irish regiment, and he had great success as leader of a military band
-at Salem, Massachusetts, and subsequently (1859) in Boston. He increased
+at Salem, Massachusetts, and subsequently (1859) in [[Boston]]. He increased
 his reputation during the Civil War, particularly by organizing a
 monster orchestra of massed bands for a festival at New Orleans in 1864;
 and at Boston in 1869 and 1872 he gave similar performances. He was

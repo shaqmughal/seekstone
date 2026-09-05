@@ -11,9 +11,9 @@ BOX (Gr. [Greek: puxos], Lat. _buxus_, box-wood; cf. [Greek: puxis], a
 pyx), the most varied of all receptacles. A box may be square, oblong,
 round or oval, or of an even less normal shape; it usually opens by
 raising, sliding or removing the lid, which may be fastened by a catch,
-hasp or lock. Whatever its shape or purpose or the material of which it
+hasp or [[Lock|lock]]. Whatever its shape or purpose or the material of which it
 is fashioned, it is the direct descendant of the chest, one of the most
-ancient articles of domestic furniture. Its uses are infinite, and the
+ancient articles of domestic furniture. Its uses are [[Infinite|infinite]], and the
 name, preceded by a qualifying adjective, has been given to many objects
 of artistic or antiquarian interest.
 
@@ -22,7 +22,7 @@ purpose the feminine work-box is the commonest. It is usually fitted
 with a tray divided into many small compartments, for needles, reels of
 silk and cotton and other necessaries of stitchery. The date of its
 introduction is in considerable doubt, but 17th-century examples have
-come down to us, with covers of silk, stitched with beads and adorned
+come down to us, with covers of silk, stitched with [[Bead|beads]] and adorned
 with embroidery. In the 18th century no lady was without her work-box,
 and, especially in the second half of that period, much taste and
 elaborate pains were expended upon the case, which was often exceedingly
@@ -38,9 +38,9 @@ use until nearly the middle of the 19th century. The jeweller, the
 enameller and the artist bestowed infinite pains upon what was quite as
 often a delicate bijou as a piece of utility; fops and great personages
 possessed numbers of snuff-boxes, rich and more ordinary, their
-selection being regulated by their dress and by the relative splendour
+selection being regulated by their [[Dress|dress]] and by the relative splendour
 of the occasion. From the cheapest wood that was suitable--at one time
-potato-pulp was extensively used--to a frame of gold encased with
+potato-pulp was extensively used--to a [[Frame|frame]] of gold encased with
 diamonds, a great variety of materials was employed. Tortoise-shell was
 a favourite, and owing to its limpid lustre it was exceedingly
 effective. Mother-of-pearl was also used, together with silver, in its
@@ -56,8 +56,8 @@ and other intermediaries, who could not well be honoured in any other
 way. It is, indeed, to the cessation of the habit of snuff-taking that
 we may trace much of modern lavishness in the distribution of
 decorations. To be invited to take a pinch from a monarch's snuff-box
-was a distinction almost equivalent to having one's ear pulled by
-Napoleon. At the coronation of George IV. of England, Messrs Rundell &
+was a distinction almost equivalent to having one's [[Ear|ear]] pulled by
+Napoleon. At the [[Coronation|coronation]] of George IV. of England, Messrs Rundell &
 Bridge, the court jewellers, were paid L8205 for snuff-boxes for foreign
 ministers. Now that the snuff-box is no longer used it is collected by
 wealthy amateurs or deposited in museums, and especially artistic
@@ -67,7 +67,7 @@ auction after his death for L2000.
 
 A jewel-box is a receptacle for trinkets. It may take a very modest
 form, covered in leather and lined with satin, or it may reach the
-monumental proportions of the jewel cabinets which were made for Marie
+monumental proportions of the [[Jewel|jewel]] [[Cabinet|cabinets]] which were made for Marie
 Antoinette, one of which is at Windsor, and another at Versailles, the
 work of Schwerdfeger as cabinet-maker, Degault as miniature-painter, and
 Thomire as chaser.
@@ -100,7 +100,7 @@ ancestor of the puff-box of the modern dressing-table.
 
 The _etui_ is a cylindrical box or case of very various materials, often
 of pleasing shape or adornment, for holding sewing materials or small
-articles of feminine use. It was worn on the chatelaine.
+articles of feminine use. It was worn on the [[Chatelaine|chatelaine]].
 
 ## See also
 

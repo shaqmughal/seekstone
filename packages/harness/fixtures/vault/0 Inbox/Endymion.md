@@ -1,15 +1,15 @@
 # Endymion
 
-ENDYMION, in Greek mythology, son of Aëthlius and king of Elis. He was
+ENDYMION, in Greek mythology, son of Aëthlius and king of [[Eli|Elis]]. He was
 loved by Selene, goddess of the moon, by whom he had fifty daughters,
 supposed to represent the fifty moons of the Olympian festal cycle. In
-other versions, Endymion was a beautiful youth, a shepherd or hunter
+other versions, Endymion was a beautiful youth, a shepherd or [[Hunter|hunter]]
 whom Selene visited every night while he lay asleep in a cave on Mount
 Latmus in Caria (Pausanias v. 1; Ovid, _Ars am._ iii. 83). Zeus left him
-free to choose anything he might desire, and he chose an everlasting
-sleep, in which he might remain youthful for ever (Apollodorus i. 7).
+free to choose anything he might desire, and he [[Chose|chose]] an [[Everlasting|everlasting]]
+sleep, in which he might remain youthful for ever ([[Apollodorus]] i. 7).
 According to others, Endymion's eternal sleep was a punishment inflicted
-by Zeus upon him because he ventured to fall in love with Hera, when he
+by Zeus upon him because he ventured to fall in love with [[Hera]], when he
 was admitted to the society of the Olympian gods (Schol. Theocritus iii.
 49). The usual form of the legend, however, represents Endymion as
 having been put to sleep by Selene herself in order that she might enjoy
@@ -17,7 +17,7 @@ his society undisturbed (Cicero, _Tusc. disp._ i. 38). Some see in
 Endymion the sun, setting opposite to the rising moon, the Latmian cave
 being the cave of forgetfulness, into which the sun plunges beneath the
 sea; others regard him as the personification of sleep or death (see
-Mayor on Juvenal x. 318).
+[[Mayor]] on [[Juvenal]] x. 318).
 
 
 
@@ -45,7 +45,7 @@ of calorimetry, and taught that heat is a substance that can be
 transferred from one body to another, but cannot be created or
 destroyed, though it may become latent. So long as this idea maintained
 itself, there was no possible compensation for the destruction of
-mechanical power by friction; it appeared that mechanical effect had
+mechanical power by [[Friction|friction]]; it appeared that mechanical effect had
 there definitely been lost. The idea that heat is itself convertible
 into power, and is in fact energy of motion of the minute invisible
 parts of bodies, had been held by Newton and in a vaguer sense by Bacon,
@@ -55,19 +55,19 @@ other anticipations of subsequent discovery, in the system of Natural
 Philosophy of Thomas Young (1804); and the discrepancies attending
 current explanations on the caloric theory were insisted on, about the
 same time, by Count Rumford and Sir H. Davy. But it was not till the
-actual experiments of Joule verified the same exact equivalence between
+actual experiments of [[Joule]] verified the same exact equivalence between
 heat produced and mechanical energy destroyed, by whatever process that
 was accomplished, that the idea of caloric had to be definitely
-abandoned. Some time previously R. Mayer, physician, of Heilbronn, had
+abandoned. Some time previously R. [[Mayer]], physician, of [[Heilbronn]], had
 founded a weighty theoretical argument on the production of mechanical
 power in the animal system from the food consumed; he had, moreover,
 even calculated the value of a unit of heat, in terms of its equivalent
 in power, from the data afforded by Regnault's determinations of the
 specific heats of air at constant pressure and at constant volume, the
-former being the greater on Mayer's hypothesis (of which his calculation
+former being the greater on Mayer's [[Hypothesis|hypothesis]] (of which his calculation
 in fact constituted the verification) solely on account of the power
 required for the work of expansion of the gas against the surrounding
-constant pressure. About the same time Helmholtz, in his early memoir on
+constant pressure. About the same time [[Helmholtz]], in his early memoir on
 the Conservation of Energy, constructed a cumulative argument by tracing
 the ramifications of the principle of conservation of energy throughout
 the whole range of physical science.
@@ -78,7 +78,7 @@ material system, must be a function of its physical state and chemical
 constitution and of its temperature. The change in this amount, arising
 from a given transformation in the system, is usually measured by
 degrading the energy that leaves the system into heat; for it is always
-possible to do this, while the conversion of heat back again into other
+possible to do this, while the [[Conversion|conversion]] of heat back again into other
 forms of energy is impossible without assistance, taking the form of
 compensating degradation elsewhere. We may adopt the provisional view
 which is the basis of abstract physics, that all these other forms of
@@ -95,11 +95,11 @@ _Historical: Abstract Dynamics._--Even in the case of a purely
 mechanical system, capable only of a finite number of definite types of
 disturbance, the principle of the conservation of energy is very far
 from giving a complete account of its motions; it forms only one among
-the equations that are required to determine their course. In its
-application to the kinetics of invariable systems, after the time of
+the [[Equation|equations]] that are required to determine their course. In its
+application to the [[Kinetics|kinetics]] of invariable systems, after the time of
 Newton, the principle was emphasized as fundamental by Leibnitz, was
-then improved and generalized by the Bernoullis and by Euler, and was
-ultimately expressed in its widest form by Lagrange. It is recorded by
+then improved and generalized by the Bernoullis and by [[Euler]], and was
+ultimately expressed in its widest form by [[Lagrange]]. It is recorded by
 Helmholtz that it was largely his acquaintance in early years with the
 works of those mathematical physicists of the previous century, who had
 formulated and generalized the principle as a help towards the
@@ -178,8 +178,8 @@ _Carnot's Principle: Entropy._--The whole subject is involved in the new
 principle contributed to theoretical physics by Sadi Carnot in 1824, in
 which the far-reaching modern conception of cyclic processes was first
 scientifically developed. It was shown by Carnot, on the basis of certain
-axioms, whose theoretical foundations were subsequently corrected and
-strengthened by Clausius and Lord Kelvin, that a reversible mechanical
+[[Axiom|axioms]], whose theoretical foundations were subsequently corrected and
+strengthened by [[Clausius]] and Lord [[Kelvin]], that a reversible mechanical
 process, working in a cycle by means of thermal transfers, which takes
 heat, say H1, into the material system at a given temperature T1, and
 delivers the part of it not utilized, say H2, at a lower given
@@ -231,7 +231,7 @@ involving independent variation of all its finite co-ordinates, along
 which the system can pass, can depend only on the terminal states. The
 entropy belonging to a given state is therefore a function of that state
 alone, irrespective of the manner in which it has been reached; and this
-is the justification of the assignment to it of a special name, connoting
+is the justification of the [[Assignment|assignment]] to it of a special name, connoting
 a property of the system depending on its actual condition and not on its
 previous history. Every reversible change in an isolated system thus
 maintains the entropy of that system unaltered; no possible spontaneous
@@ -285,7 +285,7 @@ of volume v and under extraneous pressure p, while W is potential energy
 arising from physical forces such as those of gravity, capillarity, &c.
 The variables m1, m2, ... m_n may not be all independent; for example,
 if the system were chloride of ammonium gas existing along with its
-gaseous products of dissociation, hydrochloric acid and ammonia, only
+gaseous products of [[Dissociation|dissociation]], hydrochloric acid and ammonia, only
 one of the three masses would be independently variable. The sufficient
 number of these variables (independent components) together with two
 other variables, which may be v and T, or v and [phi], specifies and
@@ -335,7 +335,7 @@ heat from its environment may thus have several states of stable
 equilibrium corresponding to different minima of the function here
 considered, just as there may be several minima of elevation on a
 landscape, one at the bottom of each depression; in fact, this analogy,
-when extended to space of n dimensions, exactly fits the case. If the
+when extended to space of n [[Dimension|dimensions]], exactly fits the case. If the
 system is sufficiently disturbed, for example, by electric shock, it may
 pass over (explosively) from a higher to a lower minimum, but never
 (without compensation from outside) in the opposite direction. The
@@ -393,7 +393,7 @@ only partially appropriate, that has been employed to express the
 fundamental principles by different investigators and at different
 stages of the development. Attentive examination will show, what is
 indeed hardly surprising, that the principles of the theory of free
-energy of Gibbs and Helmholtz had been already grasped and exemplified
+energy of [[Gibbs]] and Helmholtz had been already grasped and exemplified
 by Lord Kelvin in the very early days of the subject (see the paper "On
 the Thermoelastic and Thermomagnetic Properties of Matter, Part I."
 _Quarterly Journal of Mathematics_, No. 1, April 1855; reprinted in
@@ -459,7 +459,7 @@ criterion as was reached above. Reference may also be made to H.A.
 Lorentz's _Collected Scientific Papers_, part i.
 
 A striking anticipation, almost contemporaneous, of Gibbs's
-thermodynamic potential theory (_infra_) was made by Clerk Maxwell in
+thermodynamic potential theory (_infra_) was made by Clerk [[Maxwell]] in
 connexion with the discussion of Andrews's experiments on the critical
 temperature of mixed gases, in a letter published in Sir G.G. Stokes's
 _Scientific Correspondence_ (vol. ii. p. 34).
@@ -468,7 +468,7 @@ _Available Energy._--The same quantity [phi], which Clausius named the
 entropy, arose in various ways in the early development of the subject,
 in the train of ideas of Rankine and Kelvin relating to the expression
 of the _available energy_ A of the material system. Suppose there were
-accessible an auxiliary system containing an _unlimited_ quantity of
+accessible an [[Auxiliary|auxiliary]] system containing an _unlimited_ quantity of
 heat at absolute temperature T0, forming a condenser into which heat can
 be discharged from the working system, or from which it may be recovered
 at that temperature: we proceed to find how much of the heat of our
@@ -506,7 +506,7 @@ reversible process between the same initial and final states. The name
 _motivity_ of a system was proposed by Lord Kelvin in 1879 for this
 conception of available energy. It is here specified as relative to a
 condenser of unlimited capacity at an assigned temperature T0: some such
-specification is necessary to the definition; in fact, if T0 were the
+specification is necessary to the [[Definition|definition]]; in fact, if T0 were the
 absolute zero, all the energy would be mechanically available.
 
 But we can obtain an intrinsically different and self-contained
@@ -596,7 +596,7 @@ as also the effects of pressure in the case of gas batteries. The free
 energy does not sensibly depend on whether the substance is solid or
 fused--for the two states are in equilibrium at the temperature of
 fusion--though the total energy differs in these two cases by the heat
-of fusion; for this reason, as Gibbs pointed out, voltaic
+of [[Fusion|fusion]]; for this reason, as Gibbs pointed out, voltaic
 potential-differences are the same for the fused as for the solid state
 of the substances concerned.
 
@@ -679,7 +679,7 @@ constitutive freedom cannot be negative; therefore the number of
 possible phases that can coexist alongside each other cannot exceed m +
 2. If m + 2 phases actually coexist, there is no variable quantity in
 the system, thus the temperature and pressure and constitutions of the
-phases are all determined; such is the triple point at which ice, water
+phases are all determined; such is the triple point at which [[Ice|ice]], water
 and vapour exist in presence of each other. If there are m + 1
 coexistent phases, the system can vary in one respect only; for example,
 at any temperature of water-substance different from the triple point
@@ -720,7 +720,7 @@ Andrews' results as to the range of coexistent phases in carbonic acid.
 Gibbs's earliest thermodynamic surface had for its co-ordinates volume,
 entropy and energy; it was constructed to scale by Maxwell for
 water-substance, and is fully explained in later editions of the _Theory
-of Heat_ (1875); it forms a relief map which, by simple inspection,
+of Heat_ (1875); it forms a relief [[Map|map]] which, by simple inspection,
 reveals the course of the transformations of water, with the
 corresponding mechanical and thermal changes, in its three coexistent
 states of solid, liquid and gas. In the general case, when the substance
@@ -728,7 +728,7 @@ has more than one independently variable constituent, there are more
 than three variables to be represented; but Gibbs has shown the utility
 of surfaces representing, for instance, the entropy in terms of the
 constitutive variables when temperature and pressure are maintained
-constant. Such graphical methods are now of fundamental importance in
+constant. Such [[Graphical Methods|graphical methods]] are now of fundamental importance in
 connexion with the phase rule, for the experimental exploration of the
 trend of the changes of constitution of complex mixtures with
 interacting components, which arise as the physical conditions are
@@ -759,8 +759,8 @@ very dilute solutions.
   total potential of each component m_r, which is m_r dµ_r/dm_r, shall be
   finite, say k_r, in the limit when m_r is null. Thus for very small
   concentrations the potential µ_r of a dilute component must be of the
-  form k_r log m_r/v, being proportional to the logarithm of the density
-  of that component; it thus tends logarithmically to an infinite value
+  form k_r [[Log|log]] m_r/v, being proportional to the logarithm of the density
+  of that component; it thus tends logarithmically to an [[Infinite|infinite]] value
   at evanescent concentrations, showing that removal of the last traces
   of any impurity would demand infinite proportionate expenditure of
   available energy, and is therefore practically impossible with finite
@@ -1052,7 +1052,7 @@ the numerical density of the distribution of molecules; thus R. Eötvös
 has shown that a law of proportionality exists for wide classes of
 substances between the temperature-gradient of the surface tension and
 the density of the molecules over the surface layer, which varies as the
-two-thirds power of the number per unit volume (see CHEMISTRY:
+two-thirds power of the number per unit volume (see [[Chemistry|CHEMISTRY]]:
 _Physical_). This takes us into the sphere of molecular science, where
 at present we have only such indications largely derived from
 experiment, if we except the mere notion of inter-atomic forces of
@@ -1066,7 +1066,7 @@ characteristic equation, and correlate their remaining relations by
 means of its consequences. Part of the experimental knowledge required
 for this purpose is the values of the gas-constants, which prove to be
 the same for all nearly perfect gases. The doctrine of energetics by
-itself can give no clue as to why this should be so; it can only
+itself can give no [[Clue|clue]] as to why this should be so; it can only
 construct a scheme for each simple or complex medium on the basis of its
 own experimentally determined characteristic equation. The explanation
 of uniformities in the intrinsic constitutions of various media belongs
@@ -1079,10 +1079,10 @@ _supra_) is intensely stimulated. But except in respects such as these
 the doctrine of energetics gives a complete synthesis of the course and
 relations of the chemical reactions of matter in bulk, from which we can
 eliminate atomism altogether by restating the merely numerical atomic
-theory of Dalton as a principle of equivalent combining proportions. Of
+theory of [[Dalton]] as a principle of equivalent combining proportions. Of
 recent years there has been a considerable school of chemists who insist
 on this procedure as a purification of their science from the
-hypothetical ideas as to atoms and molecules, in terms of which its
+hypothetical ideas as to [[Atom|atoms]] and molecules, in terms of which its
 experimental facts have come to be expressed. A complete system of
 doctrine can be developed in this manner, but its scope will be limited.
 It makes use of one principle of correlation, the doctrine of available
@@ -1116,7 +1116,7 @@ more difficult and less definite, is an indispensable part of the
 framework of science; and even experimental chemistry now leans more and
 more on new physical methods and instruments. Without molecular theory
 the clue which has developed into spectrum analysis, bringing with it
-stellar chemistry and a new physical astronomy, would not have been
+stellar chemistry and a new physical [[Astronomy|astronomy]], would not have been
 available; nor would the laws of diffusion and conduction in gases have
 attained more than an empirical form; nor would it have been possible to
 weave the phenomena of electrodynamics and radiation into an entirely
@@ -1124,7 +1124,7 @@ rational theory.
 
 The doctrine of available energy, as the expression of thermodynamic
 theory, is directly implied in Carnot's Essai of 1824, and constitutes,
-in fact, its main theme; it took a fresh start, in the light of fuller
+in fact, its main theme; it took a fresh start, in the light of [[Fuller|fuller]]
 experimental knowledge regarding the nature of heat, in the early
 memoirs of Rankine and Lord Kelvin, which may be found in their
 Collected Scientific Papers; a subsequent exposition occurs in Maxwell's
@@ -1170,7 +1170,7 @@ on Theoretical and Physical Chemistry_.
 
 The theory of energetics, which puts a diminishing limit on the amount
 of energy available for mechanical purposes, is closely implicated in
-the discovery of natural radioactive substances by H. Becquerel, and
+the discovery of natural radioactive substances by H. [[Becquerel]], and
 their isolation in the very potent form of radium salts by M. and Mme
 Curie. The slow degradation of radium has been found by the latter to be
 concomitant with an evolution of heat, in amount enormous compared with
@@ -1202,7 +1202,7 @@ Helmholtz and Kelvin to be an ample source for all the activities of our
 cosmical system, and to be itself far greater than the energy of any
 ordinary chemical rearrangements consequent on a fall of temperature: a
 circumstance that makes the existence and properties of this substance
-under settled cosmic conditions still more anomalous (see
+under settled [[Cosmic|cosmic]] conditions still more anomalous (see
 RADIOACTIVITY). Theoretically it is possible to obtain unlimited
 concentration of availability of energy at the expense of an equivalent
 amount of degradation spread over a wider field; the potency of electric

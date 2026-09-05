@@ -48,7 +48,7 @@ important of the later forms are Bodeltown, Botheltun-le-Moors,
 Bowelton, Boltune, Bolton-super-Moras, Bolton-in-ye-Moors,
 Bolton-le-Moors. The manor was granted by William I. to Roger de
 Poictou, and passed through the families of Ferrers and Pilkington to
-the Harringtons of Hornby Castle, who lost it with their other estates
+the Harringtons of [[Hornby]] Castle, who lost it with their other estates
 for their adherence to Richard III. In 1485 Henry VII. granted it to the
 first earl of Derby. The manor is now held by different lords, but the
 earls of Derby still have a fourth part. The manor of Little Bolton

@@ -130,7 +130,7 @@ from responding only by earthquake and the Helot revolt. But this is
 both unproved and improbable. Sparta had so far no quarrel with Athens.
 Athens thus became mistress of the Aegean, while the synod at Delos had
 become practically, if not theoretically, powerless. It was at this time
-that Cimon (q.v.), who had striven to maintain a balance between Sparta,
+that Cimon (q.v.), who had striven to maintain a [[Balance|balance]] between Sparta,
 the chief military, and Athens, the chief naval power, was successfully
 attacked by Ephialtes and Pericles. During the ensuing years, apart from
 a brief return to the Cimonian policy, the resources of the league, or,
@@ -256,7 +256,7 @@ among scholars regarding the attitude of imperial Athens towards her
 allies. Grote maintained that on the whole the allies had little ground
 for complaint; but in so doing he rather seems to leave out of account
 the Greek's dislike of external discipline. The very fact that the
-hegemony had become an empire was enough to make the new system highly
+[[Hegemony|hegemony]] had become an empire was enough to make the new system highly
 offensive to the allies. No very strong argument can be based on the
 paucity of actual revolts. The indolent Ionians had seen the result of
 secession at Naxos and rebellion at Thasos; the Athenian fleet was
@@ -285,7 +285,7 @@ peculiarly galling to the self-respect of the allies and inconvenient to
 individuals to be compelled to carry cases to Athens and Athenian
 juries. Furthermore we gather from the Aristoteles inscription and from
 the 4th-century orators that Athens imposed democratic constitutions on
-her allies; indeed Isocrates (_Paneg._, 106) takes credit for Athens on
+her allies; indeed Isocrates (_Paneg._, 106) takes [[Credit|credit]] for Athens on
 this ground, and the charter of Erythrae confirms the view (cf. Arist.
 _Polit._, viii., vi. 9 1307 b 20; Thuc. viii. 21, 48, 64, 65). Even
 though we admit that Chios, Lesbos and Samos (up to 440) retained their
@@ -314,7 +314,7 @@ Athens had shown that there could be no safety for the smaller states
 save in combination.
 
 There can be no reasonable doubt that as soon as the Athenians began to
-recover from the paralysing effect of the victory of Lysander and the
+recover from the paralysing effect of the victory of [[Lysander]] and the
 internal troubles in which they were involved by the government of the
 Thirty, their thoughts turned to the possibility of recovering their
 lost empire. The first step in the direction was the recovery of their
@@ -351,7 +351,7 @@ the mainland of Asia with the islands of Cyprus and Clazomenae were
 recognized as Persian, all other cities except Imbros, Lemnos and Scyros
 as autonomous. Directly, this arrangement prevented an Athenian empire;
 indirectly, it caused the sacrificed cities and their kinsmen on the
-islands to look upon Athens as their protector. The gross selfishness of
+islands to look upon Athens as their protector. The [[Gros|gross]] selfishness of
 the Spartans, herein exemplified, was emphasized by their capture of the
 Theban citadel, and, after their expulsion, by the raid upon Attica in
 time of peace by the Spartan Sphodrias, and his immunity from punishment

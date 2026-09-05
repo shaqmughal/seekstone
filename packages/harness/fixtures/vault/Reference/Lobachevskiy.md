@@ -25,7 +25,7 @@ _Pangéométrie_, in which he summarized the results of his geometrical
 studies. This work was translated into German by H. Liebmann in 1902. He
 died at Kazan on the 24th of February (N.S.) 1856. Lobachevskiy was one
 of the first thinkers to apply a critical treatment to the fundamental
-axioms of geometry, and he thus became a pioneer of the modern
+[[Axiom|axioms]] of geometry, and he thus became a pioneer of the modern
 geometries which deal with space other than as treated by Euclid. His
 first contribution to non-Euclidian geometry is believed to have been
 given in a lecture at Kazan in 1826, but the subject is treated in many
@@ -48,7 +48,7 @@ last, he studied architecture, with such effect, it is said, that he was
 able to carry out the plans at a cost considerably below the original
 estimates.
 
-  See F. Engel, _N. I. Lobatchewsky_ (Leipzig, 1899).
+  See F. [[Engel]], _N. I. Lobatchewsky_ (Leipzig, 1899).
 
 ## See also
 

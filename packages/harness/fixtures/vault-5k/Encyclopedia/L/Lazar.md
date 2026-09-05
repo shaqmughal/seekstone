@@ -1,7 +1,7 @@
 # Lazar
 
 LAZAR, one afflicted with the disease of leprosy (q.v.). The term is an
-adaptation in medieval Latin of the name of Lazarus (q.v.), in Luke xvi.
+adaptation in medieval Latin of the name of [[Lazarus]] (q.v.), in [[Luke]] xvi.
 20, who was supposed to be a leper. The word was not confined to persons
 suffering from leprosy; thus Caxton (_The Life of Charles the Great_,
 37), "there atte laste were guarysshed and heled viij lazars of the

@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Crimea"
 
 CRIMEA (ancient _Tauris_ or Tauric Chersonese, called by the Russians by
 the Tatar name _Krym_ or _Crim_), a peninsula on the north side of the
-Black Sea, forming part of the Russian government of Taurida, with the
+[[Black Sea]], forming part of the Russian government of Taurida, with the
 mainland of which it is connected by the Isthmus of Perekop (3-4 m.
 across). It is rudely rhomboid in shape, the angles being directed
 towards the cardinal points, and measures 200 m. between 44 deg. 23' and
@@ -17,13 +17,13 @@ towards the cardinal points, and measures 200 m. between 44 deg. 23' and
 area is 9700 sq. m.
 
 Its coasts are washed by the Black Sea, except on the north-east, where
-is the Sivash or Putrid Sea, a shallow lagoon separated from the Sea of
-Azov by the Arabat spit of sand. The shores are broken by several bays
+is the Sivash or Putrid Sea, a shallow [[Lagoon|lagoon]] separated from the Sea of
+[[Azov]] by the Arabat spit of sand. The shores are broken by several bays
 and harbours--on the west side of the Isthmus of Perekop by the Bay of
 Karkinit; on the south-west by the open Bay of Kalamita, on the shores
 of which the allies landed in 1854, with the ports of Eupatoria,
 Sevastopol and Balaklava; by the Bay of Arabat on the north side of the
-Isthmus of Yenikale or Kerch; and by the Bay of Kaffa or Feodosiya
+Isthmus of Yenikale or [[Kerch]]; and by the Bay of [[Kaffa]] or Feodosiya
 (Theodosia), with the port of that name, on the south side of the same.
 The south-east coast is flanked at a distance of 5 to 8 m. from the sea
 by a parallel range of mountains, the Yaila-dagh, or Alpine Meadow
@@ -35,7 +35,7 @@ mountains shoots up with extraordinary abruptness from the deep floor of
 the Black Sea to an altitude of 2000 to 2500 ft., beginning at the
 south-west extremity of the peninsula, Cape Fiolente (anc.
 _Parthenium_), supposed to have been crowned by the temple of Artemis in
-which Iphigeneia officiated as priestess. On the higher parts of this
+which [[Iphigeneia]] officiated as priestess. On the higher parts of this
 range are numerous flat mountain pastures (Turk, _yailas_), which,
 except for their scantier vegetation, are analogous to the _almen_ of
 the Swiss Alps, and are crossed by various passes (_bogaz_), of which
@@ -46,7 +46,7 @@ second parallel range, which reaches altitudes of 1500 to 1900 ft.,
 likewise presents steep crags to the south-east and a gentle slope
 towards the north-west. In the former slope are thousands of small
 caverns, probably inhabited in prehistoric times; and several rivers
-pierce the range in picturesque gorges. A valley, 10 to 12 m. wide,
+pierce the range in picturesque [[Gorges|gorges]]. A valley, 10 to 12 m. wide,
 separates this range from the main range, while another valley 2 to 3 m.
 across separates it from the third parallel range, which reaches
 altitudes of only 500 to 850 ft. Evidences of a fourth and still lower
@@ -59,18 +59,18 @@ affluent, the Kara-su, to the Sivash lagoon.
 
 In point of climate and vegetation there exist marked differences
 between the open steppes and the south-eastern littoral, with the slopes
-of the Yaila-dagh behind it. The former, although grasses and Liliaceae
+of the Yaila-dagh behind it. The former, although [[Grasses|grasses]] and Liliaceae
 grow on them in great variety and luxuriance in the early spring, become
 completely parched up by July and August, while the air is then filled
-with clouds of dust. There also high winds prevail, and snowstorms,
-hailstorms and frost are of common occurrence. Nevertheless this region
+with clouds of [[Dust|dust]]. There also high winds prevail, and snowstorms,
+hailstorms and [[Frost|frost]] are of common occurrence. Nevertheless this region
 produces wheat and barley, rye and oats, and supports numbers of cattle,
 sheep and horses. Parts of the steppes are, however, impregnated with
 salt, or studded with saline lakes; there nothing grows except the usual
-species of _Artemisia_ and _Salsola_. As a rule water can only be
+species of _[[Artemisia]]_ and _Salsola_. As a rule water can only be
 obtained from wells sunk 200 to 300 ft. deep, and artesian wells are now
 being bored in considerable numbers. All over the steppes are scattered
-numerous _kurgans_ or burial-mounds of the ancient Scythians. The
+numerous _[[Kurgan|kurgans]]_ or burial-mounds of the ancient Scythians. The
 picture which lies behind the sheltering screen of the Yaila-dagh is of
 an altogether different character. Here the narrow strip of coast and
 the slopes of the mountains are smothered with greenery. This Russian
@@ -81,21 +81,21 @@ Numerous Tatar villages, mosques, monasteries, palaces of the Russian
 imperial family and Russian nobles, and picturesque ruins of ancient
 Greek and medieval fortresses and other buildings cling to the
 acclivities and nestle amongst the underwoods of hazel and other nuts,
-the groves of bays, cypresses, mulberries, figs, olives and
+the groves of bays, [[Cypress|cypresses]], mulberries, figs, olives and
 pomegranates, amongst the vineyards, the tobacco plantations, and
 gardens gay with all sorts of flowers; while the higher slopes of the
-mountains are thickly clothed with forests of oak, beech, elm, pines,
+mountains are thickly clothed with forests of oak, [[Beech|beech]], [[Elm|elm]], pines,
 firs and other Coniferae. Here have become acclimatized, and grow in the
 open air, such plants as magnolias, oleanders, tulip trees, bignonias,
 myrtles, camellias, mimosas and many tender fruit-trees. Vineyards cover
 over 19,000 acres, and the wine they yield (3-1/2 million gallons
 annually) enjoys a high reputation. Fruits of all kinds are produced in
 abundance. In some winters the tops of the mountains are covered with
-snow, but snow seldom falls to the south of them, and ice, too, is
+snow, but snow seldom falls to the south of them, and [[Ice|ice]], too, is
 rarely seen in the same districts. The heat of summer is moderated by
-breezes off the sea, and the nights are cool and serene; the winters are
-mild and healthy. Fever and ague prevail in the lower-lying districts
-for a few weeks in autumn. Dense fogs occur sometimes in March, April
+[[Breeze|breezes]] off the sea, and the nights are cool and serene; the winters are
+mild and healthy. [[Fever]] and ague prevail in the lower-lying districts
+for a few weeks in autumn. Dense [[Fog|fogs]] occur sometimes in March, April
 and May, but seldom penetrate inland. The difference of climate between
 the different parts of the Crimea is illustrated by the following data:
 annual mean, at Melitopol, on the steppe N. of Perekop, 48 deg. Fahr.;
@@ -108,9 +108,9 @@ It varies greatly, however, from year to year; thus at Simferopol it
 ranges between the extremes of 7.5 and 26.4 in.
 
 Other products of the Crimea, besides those already mentioned, are salt,
-porphyry and limestone, and ironstone has recently been brought to light
+porphyry and [[Limestone|limestone]], and ironstone has recently been brought to light
 at Kerch. Fish abound all round the coast, such as red and grey mullet,
-herring, mackerel, turbot, soles, plaice, whiting, bream, haddock,
+herring, [[Mackerel|mackerel]], turbot, soles, plaice, whiting, bream, haddock,
 pilchard, a species of pike, whitebait, eels, salmon and sturgeon.
 Manufacturing industries are represented by shipbuilding, flour-mills,
 ironworks, jam and pickle factories, soap-works and tanneries. The
@@ -127,11 +127,11 @@ only 150,000 lived in the towns. Simferopol is the chief town; others of
 note, in addition to those already named, are Eupatoria and
 Bakhchisarai, the old Tatar capital.
 
-_History._--The earliest inhabitants of whom we have any authentic
+_History._--The earliest inhabitants of whom we have any [[Authentic|authentic]]
 traces were the Celtic Cimmerians, who were expelled by the Scythians
 during the 7th century B.C. A remnant, who took refuge in the mountains,
 became known subsequently as the Tauri. In that same century Greek
-colonists began to settle on the coasts, e.g. Dorians from Heraclea at
+colonists began to settle on the coasts, e.g. [[Dorians]] from Heraclea at
 Chersonesus, and Ionians from Miletus at Theodosia and Panticapaeum
 (also called Bosporus). Two centuries later (438 B.C.) the archon or
 ruler of the last-named assumed the title of king of Bosporus, a state
@@ -145,7 +145,7 @@ Pompey with the kingdom of Bosporus. In 15 B.C. it was once more
 restored to the king of Pontus, but henceforward ranked as a tributary
 state of Rome. During the succeeding centuries the Crimea was overrun or
 occupied successively by the Goths (A.D. 250), the Huns (376), the
-Khazars (8th century), the Byzantine Greeks (1016), the Kipchaks (1050),
+[[Khazars]] (8th century), the Byzantine Greeks (1016), the Kipchaks (1050),
 and the Mongols (1237). In the 13th century the Genoese destroyed or
 seized the settlements which their rivals the Venetians had made on the
 Crimean coasts, and established themselves at Eupatoria, Cembalo
@@ -153,11 +153,11 @@ Crimean coasts, and established themselves at Eupatoria, Cembalo
 towns, which existed down to the conquest of the peninsula by the
 Ottoman Turks in 1475. Meanwhile the Tatars had got a firm footing in
 the northern and central parts of the peninsula as early as the 13th
-century, and after the destruction of the Golden Horde by Tamerlane they
-founded an independent khanate under a descendant of Jenghiz Khan, who
+century, and after the destruction of the [[Golden Horde]] by Tamerlane they
+founded an independent khanate under a descendant of Jenghiz [[Khan]], who
 is known as Hadji Ghirai. He and his successors reigned first at Solkhat
 (Eski-krym), and from the beginning of the 15th century at
-Bakhchi-sarai. But from 1478 they ruled as tributary princes of the
+[[Bakhchi-Sarai|Bakhchi-sarai]]. But from 1478 they ruled as tributary princes of the
 Ottoman empire down to 1777, when having been defeated by Suvarov they
 became dependent upon Russia, and finally in 1783 the whole of the
 Crimea was annexed to the Russian empire. Since that date the only
@@ -173,12 +173,12 @@ numbers to the Ottoman empire.
   colonies italiennes en Gazarie_ (St Petersburg, 1866); J. B. Telfer,
   _The Crimea and Transcaucasia_ (2 vols., London, 2nd ed., 1877); F.
   Remy, _Die Krim in ethnographischer, landschaftlicher und hygienischer
-  Beziehung_ (Leipzig, 1872); Joseph, Baron von Hammer-Purgstall,
+  Beziehung_ (Leipzig, 1872); Joseph, Baron von [[Hammer-Purgstall]],
   _Geschichte der Chane der Krim unter osmanischer Herrschaft_ (Vienna,
-  1856); M. G. Canale, _Della Crimea e dei suoi dominatori dalle sue
+  1856); M. G. Canale, _Della Crimea e dei suoi dominatori [[Dalle|dalle]] sue
   origini fino al trattato di Parigi_ (3 vols., Genoa, 1855-1856); and
-  Sir Evelyn Wood, _The Crimea in 1854 and 1894_ (London, 1895). (See
-  also BOSPORUS CIMMERIUS.)     (P. A. K.; J. T. BE.)
+  Sir [[Evelyn]] Wood, _The Crimea in 1854 and 1894_ (London, 1895). (See
+  also [[Bosporus Cimmerius|BOSPORUS CIMMERIUS]].)     (P. A. K.; J. T. BE.)
 
 
 
@@ -195,8 +195,8 @@ Britain and France by the destruction of the Turkish fleet at Sinope
 the 27th of January 1854 they declared war on the tsar, and prepared to
 carry their armaments to the Danube. In this, the main, theatre of war,
 the Turks had hitherto proved quite capable of holding their own. The
-Russian commander, Prince Michael Gorchakov, had crossed the Pruth with
-two corps early in July 1853, and had overrun Moldavia and Wallachia
+Russian [[Commander|commander]], Prince Michael Gorchakov, had crossed the Pruth with
+two [[Corps|corps]] early in July 1853, and had overrun Moldavia and Wallachia
 without difficulty. Omar Pasha, however, disposing of superior forces,
 was able to check any further advance. During October, November and
 December the Turks won a succession of actions, of which that at
@@ -205,7 +205,7 @@ Gorchakov found himself compelled to fight at Cetatea (Tchetati) before
 reinforcements could come up. The defeat he sustained was for the time
 being decisive (6th Jan. 1854). Three months later, the Russians, now
 under command of the veteran Prince Paskievich, took the offensive in
-great force. Crossing the Danube near its mouth at Galatz and Braila,
+great force. Crossing the Danube near its mouth at [[Galatz]] and [[Braila]],
 they advanced through the Dobrudja and closed upon the fortress of
 Silistria, which offered a strong and steady resistance, with an effect
 all the greater as the Turks from the side of Shumla, now supported by
@@ -214,7 +214,7 @@ investment. The Turks, however, avoided a decisive encounter, and the
 stormers stood ready in the trenches before Silistria, when the siege
 was suddenly raised. The decision had passed into other hands. The tsar
 had learned that the Austrian army of observation in Transylvania,
-50,000 strong under Feldzeugmeister Hess, was about to enforce the
+50,000 strong under Feldzeugmeister [[Hess]], was about to enforce the
 wishes of the "Four Powers." The Russian offensive was at an end, the
 army hastily fell back, and on the 2nd of August 1854 the last man
 recrossed the Pruth. The principalities were at once occupied by Hess.
@@ -228,8 +228,8 @@ enemy who was certain to employ them at the next opportunity. The two
 nations felt that Sevastopol, the home of the Black Sea fleet, the port
 whence Admiral Nachimov had sailed for Sinope, must be crippled for some
 years at least, and as early as June 29th Lord Raglan and Marshal Saint
-Arnaud, the allied commanders of England and France, had received
-instructions to "concert measures for the siege of Sevastopol." Dynastic
+[[Arnaud]], the allied commanders of England and France, had received
+instructions to "[[Concert|concert]] measures for the siege of Sevastopol." Dynastic
 considerations reinforced the arguments of policy and popular opinion in
 the case of France; in Great Britain soldier and civilian alike saw the
 menace of a Russian Mediterranean fleet in the unfinished forts and busy
@@ -238,7 +238,7 @@ responsible leaders. Yet there is no sign that either the commanders on
 the spot or their governments realized the magnitude of the undertaking.
 Few but the most urgently necessary preparations were made, and cholera,
 breaking out virulently amongst the French at this time, reduced the
-army at Varna, and even the fleet at sea, to impotence. The troops were
+army at Varna, and even the fleet at sea, to [[Impotence|impotence]]. The troops were
 so weakened that, even in September, the five-mile march from camp to
 transport exhausted most of the men. Heavy weather still further delayed
 the start, and it was not until the 7th of September that the expedition
@@ -248,7 +248,7 @@ fighting fleet, crossed without incident and drew up on the Crimean
 coast on September 13th. Tactical considerations prevailed in the choice
 of place. The landlocked harbours south of Sevastopol were for the time
 being neglected, and a spot known as Old Fort preferred, because the
-long beach, the heavy metal of the ships' broadsides, and a line of
+long [[Beach|beach]], the heavy metal of the ships' [[Broadside|broadsides]], and a line of
 lagoons covering the front offered singularly favourable conditions for
 the delicate operation of disembarkation. Still, on this side of
 Sevastopol there was no good harbour, and it is quite open to question
@@ -257,7 +257,7 @@ neglected in favour of purely tactical and temporary advantages. As a
 matter of fact no opposition was offered to the landing, but the weather
 prevented the disembarkation being completed until the 18th. St Arnaud
 and Raglan had at this time under their orders 51,000 British, French
-and Turkish infantry, 1000 British cavalry, and 128 guns, and on the
+and Turkish infantry, 1000 British [[Cavalry|cavalry]], and 128 guns, and on the
 19th this force (less some detachments) began the southward march in
 order of battle, the British (who alone had their cavalry present) on
 the exposed left flank, the French next the sea, the fleet moving in the
@@ -276,7 +276,7 @@ right in order to cover the Simferopol road. From this it followed
 naturally that the brunt of the attack fell upon the British divisions,
 whilst the French, nearer the sea, struck to some extent _dans le vide_.
 The two commanders, after a reconnaissance, decided upon their plan. The
-French divisions in echelon from the right were to cross the river and
+French divisions in [[Echelon|echelon]] from the right were to cross the river and
 force Menshikov inwards, whilst the British were to move straight to
 their front against the strongest part of the Russian line.
 Substantially this plan was carried out on the 20th of September. Owing
@@ -296,7 +296,7 @@ outposts. It was now that the necessary consequences of the choice of
 Old Fort as the landing-place presented themselves as a problem for
 instant solution. Whatever chance there had been of assaulting the north
 side of Sevastopol was now gone. Menshikov had sacrificed some ships in
-order to seal up the harbour mouth, and naval co-operation in attack was
+order to seal up the harbour mouth, and naval [[Co-Operation|co-operation]] in attack was
 now impossible, while the other Russian ships could in safety aid the
 defenders with their heavy guns. A siege, based on the beach of Old Fort
 or the open roads of Kacha, was out of the question, as was
@@ -331,23 +331,23 @@ the allies on the north. For the town itself and the Karabelnaya suburb
 the trace of the works had been laid down for years. The Malakoff, a
 great tower of stone, covered the suburb, flanked on either side by the
 Redan and the Little Redan. The town was covered by a line of works
-marked by the Flagstaff and central bastions, and separated from the
+marked by the Flagstaff and central [[Bastion|bastions]], and separated from the
 Redan by the inner harbour. Lieut.-Col. Todleben, the Russian chief
 engineer, had very early begun work on these sites, and daily
 re-creating, rearming and improving the fortifications, finally
-connected them by a continuous enceinte. Yet Sevastopol was not, early
+connected them by a continuous [[Enceinte|enceinte]]. Yet Sevastopol was not, early
 in October 1854, the towering fortress it afterwards became, and
 Todleben himself maintained that, had the allies immediately assaulted,
 they would have succeeded in taking the place. There were, however, many
 reasons against so decided a course, and it was not until the 17th of
 October that the first attack took place. All that day a tremendous
-artillery duel raged. The French siege corps lost heavily and its guns
+artillery [[Duel|duel]] raged. The French siege corps lost heavily and its guns
 were overpowered. The fleet engaged the harbour batteries close inshore,
 and suffered a loss of 500 men, besides severe damage to the ships. On
 the other hand the British siege batteries silenced the Malakoff and its
 annexes, and, if failure had not occurred at the other points of attack,
 an assault might have succeeded. As it was, Todleben, by daybreak, had
-repaired and improved the damaged works. Meanwhile General Canrobert had
+repaired and improved the damaged works. Meanwhile General [[Canrobert]] had
 succeeded St Arnaud (who died on the 29th of September) in the joint
 leadership of the allies. It was not long before Menshikov and the now
 augmented field army from Bakhchiserai appeared on the Chernaya and
@@ -371,7 +371,7 @@ hitherto remained inactive, even when the Russians, broken by the
 now received orders to prevent the withdrawal of the guns taken by
 Liprandi. The aide-de-camp who carried the order was killed by the first
 shell, and the whole question of responsibility for what followed is
-wrapped in obscurity. Lord Cardigan led the Light Brigade straight at
+wrapped in obscurity. Lord [[Cardigan]] led the Light Brigade straight at
 the Russian field batteries, behind which the enemy's squadrons had
 re-formed. From the guns in front, on the Fedukhin heights, and on the
 captured ridge to their right, the advancing squadrons at once met a
@@ -386,7 +386,7 @@ the "Light Brigade" made their way back. Two-thirds of its numbers were
 left on the field, and the day closed with the Russians still in
 possession of the Vorontsov ridge.
 
-_Inkerman._--If the heights lost in this action were not absolutely
+_[[Inkerman]]._--If the heights lost in this action were not absolutely
 essential to the safety of the allies, the point selected for the next
 attempt at relief was of vital importance. The junction of the covering
 army and the siege corps near Inkerman was the scene of a slight action
@@ -397,7 +397,7 @@ bastion, and the British batteries daily maintained their superiority
 over the Malakoff. On the 5th there was to have been a meeting of
 generals to fix the details of an assault, but at dawn the Russian army,
 now heavily reinforced from Odessa, was attacking with the utmost fury
-the British divisions guarding the angle between Bosquet and the siege
+the British divisions guarding the angle between [[Bosquet]] and the siege
 corps. The battle of Inkerman defies description; every regiment, every
 group of men bore its own separate part in the confused and doubtful
 struggle, save when leaders on either side obtained a momentary control
@@ -417,7 +417,7 @@ Raglan was promoted to be field marshal after the battle.
 _The Winter of 1854-1855._--It was now obvious that the army must
 winter in the Crimea, and preparations in view of this were begun
 betimes. But on the night of November 14th a violent storm arose which
-wrecked nearly thirty vessels with their precious cargoes of treasure,
+wrecked nearly thirty vessels with their precious [[Cargo|cargoes]] of treasure,
 medical comforts, forage, clothing and other necessaries. After so grave
 a calamity it was to be expected that the troops would be called upon to
 undergo great hardships. But the direct cause of sufferings that have
@@ -434,7 +434,7 @@ men. The British hospital returns showed eight thousand sick at the end
 of November. Even the French, whose base of Kamiesh had escaped the
 storm, were not unhurt by the severity of the winter, but Napoleon III.
 sent freely all the men his general asked, while the Russians in
-Sevastopol, who had made long painful marches from the interior, were
+Sevastopol, who had made long painful [[Marches|marches]] from the interior, were
 the survivors of the fittest. Canrobert took over the lines before the
 Malakoff to relieve the British. He had at the end of January 1855
 78,000 men for duty; Raglan could barely muster 12,000. But, with the
@@ -449,7 +449,7 @@ progress, and the fortress grew day by day under the skilful direction
 of Todleben. Rifle-pits pushed out in front of the defenders' lines were
 connected so as to form a veritable envelope. Beyond the left wing a new
 line, the "White Works," sprang up in a single night, and the hill of
-the Mamelon was suddenly crowned with a lunette to cover the still
+the Mamelon was suddenly crowned with a [[Lunette|lunette]] to cover the still
 defiant Malakoff. But the absence of bomb-proof cover exposed the huge
 working parties necessary for these defences to an almost incessant _feu
 d'enfer_, by which the Russians every week suffered the losses of a
@@ -459,8 +459,8 @@ from the Vorontsov ridge, and Omar Pasha, with a detachment of the
 troops he had led at Oltenitza and Cetatea, repulsed a Russian attack on
 Eupatoria (Feb. 17th). The besiegers steadily approached the White
 Works, Mamelon, Redan and Flagstaff bastion, and as spring arrived the
-logistic and material advantages of the allies returned. On Easter
-Sunday (April 8th, 1855) another terrific bombardment began, which
+logistic and material advantages of the allies returned. On [[Easter]]
+Sunday (April 8th, 1855) another terrific [[Bombardment|bombardment]] began, which
 lasted almost uninterruptedly for ten days. The White Works and the
 Mamelon were practically destroyed, and the Russians, drawn up in
 momentary expectation of assault, lost between six and seven thousand
@@ -480,7 +480,7 @@ hard school of Algerian warfare, and endowed, as was soon evident, with
 the most inflexible resolution of character. He did not hesitate to take
 up and maintain a position of decided opposition to his sovereign's
 views; and the capture of Kerch (24th May 1855), carried out by a joint
-expedition, was the first earnest of new vigour in the operations. This
+expedition, was the first [[Earnest|earnest]] of new vigour in the operations. This
 success served all the purposes of a complete investment of Sevastopol,
 the want of which had greatly troubled the allied generals. The line of
 communication and supply between Sevastopol and the interior was cut,
@@ -539,7 +539,7 @@ vanished the last chance of saving Sevastopol. On the same day (Aug.
 dependencies to impotence, and it was with absolute confidence in the
 result that Pelissier planned the final assault. On the 8th of September
 1855 at noon, the whole of Bosquet's corps suddenly swarmed up to the
-Malakoff. The fighting was of the most desperate kind. Every casemate,
+Malakoff. The fighting was of the most desperate kind. Every [[Casemate|casemate]],
 every traverse, was taken and retaken time after time, but the French
 maintained the prize, and though the British attack on the Redan once
 more failed, the Russians crowded in that work became at once the
@@ -554,16 +554,16 @@ over 10,000 men, to the Russians 13,000. No less than nineteen generals
 had fallen on that day. But the crisis was surmounted. With the capture
 of Sevastopol the war loses its absorbing interest. No serious
 operations were undertaken against Gorchakov, who with the field army
-and the remnant of the garrison held the heights at Mackenzie's Farm.
+and the remnant of the [[Garrison|garrison]] held the heights at Mackenzie's Farm.
 But Kinburn was attacked by sea, and from the naval point of view the
 attack is interesting as being the first instance of the employment of
-ironclads. An armistice was agreed upon on the 26th of February and the
+ironclads. An [[Armistice|armistice]] was agreed upon on the 26th of February and the
 definitive peace of Paris was signed on the 30th of March 1856.
 
 _Decisive Importance of the Victory._--The importance of the siege of
 Sevastopol, from the strategical point of view, lies beneath the
 surface. It may well be asked, why did the fall of a place, at first
-almost unfortified, bring the master of the Russian empire to his knees?
+almost unfortified, bring the master of the Russian empire to his [[Knee|knees]]?
 At first sight Russia would seem to be almost invulnerable to a sea
 power, and no first success, however crushing, could have humbled
 Nicholas I. Indeed the capture of Sevastopol in October 1854 would have
@@ -571,8 +571,8 @@ been far from decisive of the war, but once the tsar had decided to
 defend to the last this arsenal, the necessity for which he was in the
 best position to appreciate, the factor of unlimited resources operated
 in the allies' favour. The sea brought to the invaders whatever they
-needed, whilst the desert tracks of southern Russia were marked at every
-step with the corpses of men and horses who had fallen on the way to
+needed, whilst the [[Desert|desert]] tracks of southern Russia were marked at every
+step with the [[Corpse|corpses]] of men and horses who had fallen on the way to
 Sevastopol. The hasty nature, too, of the fortifications, which, daily
 crushed by the fire of a thousand guns, had to be re-created every
 night, made huge and therefore unprotected working parties necessary,
@@ -593,10 +593,10 @@ the Turks and the Russians. Hindered at first by Shamyl and his
 Caucasian mountaineers, the Russians stood on the defensive during 1853,
 but next year they took the offensive, and, while their coast column won
 an action on the 16th of June at the river Churuk, another force from
-Erivan gained an important success on the Araxes and took Bayazid, and
-General Bebutov completely defeated a Turkish column from Kars at Kuruk
+Erivan gained an important success on the Araxes and took [[Bayazid]], and
+General Bebutov completely defeated a Turkish column from [[Kars]] at Kuruk
 Dere (July 31st, 1854). Next year Count Muraviev completely isolated the
-garrison of Kars, which made a magnificent defence, inspired by Fenwick
+garrison of Kars, which made a magnificent defence, inspired by [[Fenwick]]
 Williams Pasha and other British officers. In one assault alone 7000
 Russians were killed and wounded, and it was not until the 26th of
 November 1855 that the fortress was forced to surrender. The naval
@@ -622,7 +622,7 @@ to Great Britain, L93,000,000 to France, L142,000,000 to Russia.
 
   AUTHORITIES.--Of the many works on the Crimean War those of the
   greatest value are the following. English: the official work on the
-  _Siege of Sebastopol_; A. W. Kinglake, _The Invasion of the Crimea_
+  _Siege of Sebastopol_; A. W. [[Kinglake]], _The Invasion of the Crimea_
   (London, 1863; "Student's edition" by Sir G. S. Clarke); Sir E. B.
   Hamley, _The War in the Crimea_ (London, 1891); (Sir) W. H. Russell,
   _The War in the Crimea_ (London, 1855-1856); Sir Evelyn Wood, _The
@@ -631,8 +631,8 @@ to Great Britain, L93,000,000 to France, L142,000,000 to Russia.
   Defence of Kars_ (London, 1857). French: Official, _Guerre de
   l'Orient, Hist. de l'artillerie_ (Paris, 1859); (Marshal Niel), _Siege
   de Sebastopol_ (official account of engineer operations, Paris, 1858),
-  and _Atlas historique et topographique de la guerre de Crimee_ (see
-  also the map of Russia by the French staff, sheets 56 and 57); Baron
+  and _[[Atlas]] historique et topographique de la guerre de Crimee_ (see
+  also the [[Map|map]] of Russia by the French staff, sheets 56 and 57); Baron
   C. de Bazancourt, _L'Expedition de Crimee_ (Paris, 1856); C. Rousset,
   _Histoire de la guerre de Crimee_ (Paris, 1877). Russian: the work of
   Todleben, _Die Vertheidigung von Sevastopol_ (St. Petersburg, 1864);
@@ -648,9 +648,9 @@ to Great Britain, L93,000,000 to France, L142,000,000 to Russia.
 
 
 CRIMINAL LAW. By criminal, or penal, law is now understood the law as to
-the definition, trial and punishment of crimes, i.e. of acts or
+the [[Definition|definition]], trial and punishment of crimes, i.e. of acts or
 omissions forbidden by law which affect injuriously public rights, or
-constitute a breach of duties due to the whole community. The sovereign
+constitute a [[Breach|breach]] of duties due to the whole community. The sovereign
 is taken to be the person injured by the crime, as he represents the
 whole community, and prosecutions are in his name. Criminal law includes
 the rules as to the prevention, the investigation, prosecution and
@@ -663,7 +663,7 @@ of punishment should be imposed for the various offences which come up
 for trial. Finally, it regulates the constitution of the tribunals
 established for the trial of offences according to the gravity of the
 infraction of law, and deals with the organization of the police and the
-proper management of prisons, and the maintenance of prison discipline.
+proper management of prisons, and the [[Maintenance|maintenance]] of prison discipline.
 (See EVIDENCE; PRISON; POLICE.)
 
 Many acts or omissions, which are technically criminal and classified as
@@ -673,19 +673,19 @@ conception of crime. To this class belong such matters as stopping up a
 highway under claim of right, or failing to repair it, or allowing a
 chimney to emit black smoke in excessive quantities, or to catch fire
 from being unswept, or breach of building by-laws, or driving a motor
-car on a highway at a speed in excess of the legal limit. Such breaches
+[[Car|car]] on a highway at a speed in excess of the legal limit. Such breaches
 of law are under the French law described as _contraventions_. In
 England most of them are described as petty misdemeanours or offences
 punishable on summary conviction, or less happily as "summary offences,"
 and some writers speak of them as _mala prohibita_ as distinguished from
 _mala in se_, i.e. as not involving any breach of ordinary morality
 other than a breach of positive regulations. Continental jurists at
-times speak of crimes _de droit commun_ (i.e. offences common to all
+times speak of crimes _de [[Droit|droit]] commun_ (i.e. offences common to all
 systems of law as distinguished from offences which are crimes only by a
 particular municipal law). To this class of crimes _de droit commun_
-belong most of the offences included in extradition treaties.
+belong most of the offences included in [[Extradition|extradition]] treaties.
 
-Criminal and civil law overlap, and many acts or omissions are not only
+Criminal and [[Civil Law|civil law]] overlap, and many acts or omissions are not only
 "wrongs" for which the person injured is entitled to recover
 compensation for his own personal injury or damage, but also "offences"
 for which the offender may be prosecuted and punished in the interest of
@@ -694,31 +694,31 @@ civil remedies from being extinguished by punishment: it is quite usual
 for the civil and criminal remedies to be pursued concurrently, the
 individual appearing as _partie civile_ and receiving an award of
 compensation by the judgment which determines the punishment to be
-inflicted for the offence against the state. Under English law it is now
+inflicted for the offence against the state. Under [[English Law|English law]] it is now
 exceptional to allow civil and criminal remedies to be pursued
 concurrently or in the same proceeding, or to award compensation to the
 injured party in criminal proceedings, and he is usually left to seek
 his remedy by action. Among the exceptions are the restitution of stolen
 goods on conviction of the thief if the prosecution has been at the
-instance or with the aid of the owner of the goods (Larceny Act 1861, S
+instance or with the aid of the owner of the goods ([[Larceny]] Act 1861, S
 100), and the award of compensation to persons who have suffered injury
-to property by felony (Forfeiture Act 1870).
+to property by felony ([[Forfeiture]] Act 1870).
 
 
   Development of modern criminal law.
 
-As Sir Henry Maine says (_Ancient Law_, ed. 1906, p. 381), "All
+As Sir Henry [[Maine]] says (_Ancient Law_, ed. 1906, p. 381), "All
 civilized systems of law agree in drawing a distinction between offences
 against the state or community (crimes or _crimina_) and offences
 against the individual (wrongs, _torts_ or _delicta_)." But the process
 of historical development by which this distinction has been ultimately
 established has given great occasion for study of early laws and
 institutions by eminent men, whose researches have disclosed the
-extremely gradual evolution of the modern notion of criminal law
+extremely [[Gradual|gradual]] evolution of the modern notion of criminal law
 enforced by the state from the primitive conceptions and customs of
-barbarous or semi-civilized communities. Of the oldest codes or digests
+barbarous or semi-civilized communities. Of the oldest [[Code|codes]] or [[Digest|digests]]
 of customs which are available to the student it has been said the more
-archaic a code the fuller and minuter is its penal legislation: but this
+archaic a code the [[Fuller|fuller]] and minuter is its penal legislation: but this
 penal legislation is not true criminal law; it is the law, not of
 crimes, but of wrongs. The intervention of the community or tribe is in
 the first instance to persuade or compel the wronged person or his
@@ -730,7 +730,7 @@ or vengeance which he was recognized to be entitled to exact, and the
 scales of punishment or compensation are fixed from this point of view.
 
 
-  Babylon.
+  [[Babylon]].
 
 The laws of Khammurabi (2285-2242), the oldest extant code, contain
 definite schemes and scales of offences and punishments, and indicate
@@ -747,11 +747,11 @@ further BABYLONIAN LAW).
   Greece.
 
 Of the early criminal laws of Greece only fragments survive, e.g. those
-of Solon and Draco. In Athens in early times crime was dealt with in the
+of Solon and [[Draco]]. In Athens in early times crime was dealt with in the
 Areopagus from the point of view of religion and by the archons from the
 point of view of compensation: and it was only when the state interests
 were directly affected that proceedings by way of [Greek: eisangelia] or
-impeachment were taken. In classical times crimes fell to be tried by
+[[Impeachment|impeachment]] were taken. In classical times crimes fell to be tried by
 panels of jurors or judges drawn from the assembly and described as
 [Greek: dikasteria].
 
@@ -760,7 +760,7 @@ panels of jurors or judges drawn from the assembly and described as
 
 The earliest materials for ascertaining the criminal law of Rome are to
 be found in the Twelve Tables, Table VIII. The criminal law of imperial
-Rome is collected in books 47 and 48 of the Digest. The classification
+Rome is collected in books 47 and 48 of the Digest. The [[Classification|classification]]
 of crimes therein is capricious and anomalous. "In the early Roman law
 the idea of legislative power was so fully grasped and that of judicial
 power so little understood that the criminal jurisdiction arose in the
@@ -786,7 +786,7 @@ The multiplicity of tribunals under the republic was replaced under the
 empire by a complete organization of the judiciary throughout the
 districts (dioceses) under the supervision of the emperor in his privy
 council (see Maine, _Ancient Law_, ed. 1906, p. 393). Public prosecution
-under the empire began by arrest of the accused, who was taken before an
+under the empire began by [[Arrest|arrest]] of the accused, who was taken before an
 _eirenarcha_, who examined him (by torture in the case of a slave or
 parricide) and sent him on for trial before the _praeses_ of the diocese
 ([Greek: dioikesis]). Private prosecution followed, a procedure closely
@@ -801,7 +801,7 @@ imperfectly established.
 The early laws of the Celtic races are preserved as to Wales in the laws
 of Hywel Dda, and as to Ireland in the Book of Aicill and other Brehon
 law tracts, which are professional collections of precedents and
-formulae made by the hereditary law caste (Brehons), whose business it
+formulae made by the hereditary law [[Caste|caste]] (Brehons), whose business it
 was "to pass sentence from precedents and commentaries." (See BREHON
 LAWS.) The development of Celtic law was arrested by the Saxon and
 Anglo-Norman conquest: but the materials preserved indicate an origin
@@ -814,7 +814,7 @@ called, were:--
 legislative or judicial authority existed to alter or enforce it.
 
 2. All crimes were treated as wrongs, for which compensation was made by
-assessment of damages by a consensual tribunal whose power to make
+[[Assessment|assessment]] of damages by a consensual tribunal whose power to make
 awards depended on submission of the parties and the ultimate sanction
 of public opinion or custom. A customary tariff for compensation existed
 for all offences from wilful murder downwards. No crime was unamendable.
@@ -828,7 +828,7 @@ equivalent to the Saxon _wite_, or fine to the chief.
 
 The laws of the Germanic tribes, so far as preserved in the _Germania_
 of Tacitus, and in the compilations of customs known as the Salic and
-Ripuarian laws, the Leges Barbarorum, the Dooms of AEthelberht and the
+Ripuarian laws, the [[Leg|Leges]] Barbarorum, the [[Doom|Dooms]] of AEthelberht and the
 collections of Anglo-Saxon law and custom (to be found in Thorpe's
 _Ancient Laws and Institutes of England_), do not indicate any adequate
 or definite division between crimes and causes of civil action, but,
@@ -843,7 +843,7 @@ other than Germanic, mainly consisting in an infusion more or less great
 of ideas derived from Roman law. In England under Alfred some part of
 the Levitical law (Exod. xxi. 12-15) was incorporated, just as in 1567
 the criminal law as to incest in Scotland was taken bodily from
-Leviticus xviii.
+[[Leviticus]] xviii.
 
 
   Anglo-Saxon law.
@@ -862,7 +862,7 @@ may have him exposed to the vengeance of those whom he has wronged; it
 may suffer him to make atonement; it may inflict on him a determinate
 punishment, death, mutilation or the like." The _wite_ or sum paid to
 the king or lord is now thought to have been originally not a penalty
-but a fee for time and trouble taken in hearing and determining a
+but a [[Fee|fee]] for time and trouble taken in hearing and determining a
 controversy. But at an early stage fines for breach of peace were
 imposed. An evil result from the public point of view followed from the
 system of atoning for crime by pecuniary mulct. "Criminal jurisdiction
@@ -875,7 +875,7 @@ Peterborough, and the rights of some boroughs, e.g. Nottingham, to
 forfeitures). Outlawry soon ceased to be a mode of punishment, and
 became, as it still is, a process to compel submission to justice (Crown
 Office Rules, 1906, rules 88-110). Certain crimes, such as murder, rape,
-arson and burglary, became unamendable or bootless, i.e. placed the
+[[Arson|arson]] and burglary, became unamendable or bootless, i.e. placed the
 offender's life, limb, lands and goods at the king's mercy. These crimes
 came to be generally described by the name felony (q.v.). Other crimes
 became punishable by fines which took the place of _wites_. These were
@@ -943,8 +943,8 @@ authority.
 4. Offences against the person (life, health, liberty and reputation),
 and conjugal and parental rights and duties.
 
-5. Offences relating to property and contracts (including theft, fraud,
-forgery and malicious damage).
+5. Offences relating to property and contracts (including theft, [[Fraud|fraud]],
+[[Forgery|forgery]] and malicious damage).
 
 The terminology by which crimes are described by reference to their
 comparative gravity varies considerably. In many continental codes
@@ -978,11 +978,11 @@ competent age, sanity and some degree of freedom from coercion, are
 assumed to be essential to criminality; and it is also generally
 recognized that an act does not fall within the sanction of the criminal
 law if done by pure accident or in an honest and reasonable belief in
-circumstances which if true would make it innocent; e.g. when a married
-person marries again in the honest and reasonable but mistaken belief
+circumstances which if true would make it [[Innocent|innocent]]; e.g. when a married
+person [[Marri|marries]] again in the honest and reasonable but mistaken belief
 that the former spouse is dead. Honest and reasonable mistake of fact
 stands on the same footing as absence of the reasoning faculty, as in
-infants, or perversion of that faculty, as in lunatics.
+[[Infant|infants]], or perversion of that faculty, as in lunatics.
 
 Besides the elements essential to constitute crime generally, particular
 mental elements, which may differ widely, are involved in the definition
@@ -999,16 +999,16 @@ presumed to be incapable of crime up to seven years of age; and from
 seven to fourteen the presumption is against the capacity, but is not
 absolute.
 
-Under the common law, insanity was an absolute answer to an accusation
+Under the common law, [[Insanity|insanity]] was an absolute answer to an accusation
 of crime. Since 1883, where insanity is proved to have existed at the
 date of the commission of the incriminated acts, the accused is found
 guilty of the acts but insane when he did them, and is relegated to a
-criminal lunatic asylum. There was also at common law a presumption that
+criminal lunatic [[Asylum|asylum]]. There was also at common law a presumption that
 a married woman committing certain crimes in the presence of her husband
 did so under his coercion. But under modern decisions and practice the
 presumption has become feeble almost to inanition (_R_. v. _Mary
 Baines_, 1900, 69 L.J. Q.B. 681). Distinctions are also drawn between
-degrees of guilt or complicity.
+degrees of [[Guilt|guilt]] or complicity.
 
 English criminal law punishes attempts to commit crime if the attempt
 passes from the stage of resolution or intention to the stage of action,
@@ -1035,7 +1035,7 @@ agreement. The exact nature of this form of crime and the propriety of
 abolishing it or limiting its scope have been the subject of much
 controversy, especially with reference to combinations by trade unions.
 
-The English law does not, but most European laws do, allow the jury to
+The English law does not, but most European laws do, allow the [[Jury|jury]] to
 reduce the penalty of an offence by finding in their verdict that the
 commission of the offence was attended by extenuating circumstances; but
 when the jury recommend to mercy a person whom they find guilty the
@@ -1060,14 +1060,14 @@ of acts or omissions which are prima facie criminal, (2) the definitions
 of many offences, e.g. murder, assault, theft, forgery, perjury, libel,
 riot, (3) parts of the law relating to procedure. The law is very rich
 in principles and rules embodied in judicial decisions and is extremely
-detailed and explicit, leaving to the judges very little latitude of
+detailed and explicit, leaving to the judges very little [[Latitude|latitude]] of
 interpretation or expression. So far as the legislature is concerned
 there is an absence of systematic arrangement. The definitions of
 particular crimes are still to be sought in the common law and the
 decisions of the judges. The Consolidation Acts of 1861 for the most
 part leave definitions as they stood, e.g. the Larceny Act 1861 does not
 define the crime of larceny. The consequence is that exact definitions
-are very difficult to frame, and the technical view of a crime sometimes
+are very difficult to [[Frame|frame]], and the technical view of a crime sometimes
 includes more, sometimes less, than it ought. Thus the crime of murder,
 as settled by the existing law, would include offences of such very
 different moral gravity as killing a man deliberately for the sake of
@@ -1085,11 +1085,11 @@ exercised only as to acts done within the territory or territorial
 waters, or on the ships of the law-giver. _Extra territorium jus dicenti
 impune non paretur._ No state will enforce the penal laws of another nor
 permit the officer of another state to execute its laws outside its own
-territory. But international law recognizes the competence of a state to
+territory. But [[International|international]] law recognizes the competence of a state to
 make its criminal law binding on its own subjects wherever they are, and
 perhaps even to punish foreigners who outside its territory do acts
 which menace its internal or external security, e.g. by dynamite plots
-or falsification of coin. Apart from extradition arrangements the
+or falsification of [[Coin|coin]]. Apart from extradition arrangements the
 national law cannot reach such persons, be they citizens or aliens,
 until they come within the territory of the state whose law has been
 broken.
@@ -1108,7 +1108,7 @@ dealt with, tried, determined and punished" only in the particular
 territorial division of England in which it was committed, which was and
 is known as the venue (q.v.). Each township was responsible for crimes
 within its boundaries, a responsibility made effective by the "view of
-frankpledge," now obsolete, and the guilt or innocence of every man had
+[[Frankpledge|frankpledge]]," now obsolete, and the guilt or innocence of every man had
 to be determined by his neighbours. This rule excluded from trial by the
 courts of common law, treasons, &c. committed by Englishmen abroad and
 piracy; and it was not till Henry VIII.'s reign (1536, 1544) that the
@@ -1157,7 +1157,7 @@ civil law, they could not be convicted unless either they confessed or
 they or the witnesses were submitted to torture, and that therefore it
 was expedient to try the offences according to the course of the common
 law. Under that act a special commission of oyer and terminer was issued
-to try these offences at the Old Bailey, and English law was satisfied
+to try these offences at the Old [[Bailey]], and English law was satisfied
 by permitting the indictment to state that the offence was committed on
 board a ship on the high seas, to wit in the county of Middlesex. Since
 1861 these special commissions have been rendered unnecessary by the
@@ -1167,15 +1167,15 @@ if they had been committed in England. As regards offences on land, it
 was found necessary as early as the reign of Henry VIII. (1544) to
 provide for the trial in England of treasons and murders committed on
 land outside England. This was largely due to the constant presence in
-France of the king and many of his nobles and knights, but the aid of
-this statute had to be invoked in 1903 in the case of Lynch, tried for
+France of the king and many of his nobles and [[Knight|knights]], but the aid of
+this statute had to be invoked in 1903 in the case of [[Lynch]], tried for
 treason in South Africa. The latest legislation on the subject was in
 1861 (Offences against the Person Act, S 9), and any murder or
-manslaughter committed on land out of the United Kingdom, whether within
+[[Manslaughter|manslaughter]] committed on land out of the United Kingdom, whether within
 the king's dominions or without, and whether the person killed were a
-subject of His Majesty or not, may be dealt with in all respects as if
+subject of His [[Majesty]] or not, may be dealt with in all respects as if
 it were committed in England. The jurisdiction has been extended to a
-few other cases such as slave trade, bigamy, perjury, committed with
+few other cases such as slave trade, [[Bigamy|bigamy]], perjury, committed with
 reference to proceedings in an English court, and offences connected
 with explosives. But these offences must be committed on land and not on
 board a foreign ship, because if a man takes service on board a foreign
@@ -1187,9 +1187,9 @@ governor or an inferior officer of a colony, if appointed by the British
 government, may be prosecuted for any misdemeanour committed by him by
 virtue of his office in the colony; and cases have occurred where
 governors have been so prosecuted, such as that of General Picton at the
-beginning of the 19th century, and of Governor Eyre of Jamaica in 1865,
+beginning of the 19th century, and of Governor [[Eyre]] of Jamaica in 1865,
 and the attempt to prosecute Governor MacCallum of Natal in 1906. As a
-corollary to the system of "capitulations" applied to certain
+corollary to the system of "[[Capitulation|capitulations]]" applied to certain
 non-Christian states in Asia and Africa, it has been necessary to take
 powers for punishing under English law offences by British subjects in
 those states, which would otherwise go unpunished either by the law of
@@ -1210,8 +1210,8 @@ In England until early in the 19th century, punishments for crime were
 ferocious. The severity of the law was tempered by the rule as to
 benefit of clergy and by the rigid adherence of the judges (_in favorem
 vitae_) to the rules of correct pleading and proof, whereby the
-slightest error on the part of the prosecution led to an acquittal.
-Bentham pointed out that certainty of punishment was more effective than
+slightest [[Error|error]] on the part of the prosecution led to an acquittal.
+[[Bentham]] pointed out that certainty of punishment was more effective than
 severity, that severe punishments induced juries to acquit criminals,
 and that thus the certainty of punishment was diminished. But his
 arguments and the eloquence of Sir Samuel Romilly produced no effect
@@ -1220,18 +1220,18 @@ statutes were passed abolishing the death sentence for all felonies
 where benefit of clergy existed. The severity of capital sentences had
 already been modified by the pardoning power of the crown, which
 pardoned convicts under sentence of death on their consenting to be
-transported to convict settlements in the colonies. (See DEPORTATION.)
+transported to convict settlements in the colonies. (See [[Deportation|DEPORTATION]].)
 For some years this was only done by the consent of the convict, who
 agreed to be transported if his death sentence was remitted, but in
 1824, when a convict refused to give this consent, parliament authorized
 the crown to substitute transportation for a death sentence, and the
 same course was adopted in Ireland in 1851 when some treason-felony
-prisoners refused commutation of their sentence to transportation.
+prisoners refused [[Commutation|commutation]] of their sentence to transportation.
 
 The punishments now in use under the English law for indictable offences
 are:--
 
-1. Death, inflicted by hanging, with a provision that other modes of
+1. Death, inflicted by [[Hanging|hanging]], with a provision that other modes of
 execution may be authorized by royal warrant in cases of high treason.
 
 2. Penal servitude, which in 1853 was substituted for transportation to
@@ -1256,19 +1256,19 @@ of Crimes Act, c. 112, SS 8, 20.
 never imposed for a felony except under statutory authority, e.g.
 manslaughter (Offences against the Person Act, S 5). The amount of the
 fine is in the discretion of the judge, subject to the directions of
-Magna Carta and the Bill of Rights and of any statute limiting the
+[[Magna Carta]] and the Bill of Rights and of any statute limiting the
 maximum for a particular offence.
 
 6. Whipping was a common law punishment for misdemeanants of either sex.
 Under the present law the whipping of females is prohibited, and the
 punishment is not inflicted on males except under statutory authority,
 which is given in the case of certain assaults on the sovereign, of
-certain forms of robbery with violence or assaults with intent to commit
+certain forms of robbery with violence or assaults with [[Intent|intent]] to commit
 felony (Garrotters Act 1863), of incorrigible rogues, larceny and
 malicious damage, and certain other offences by youthful offenders.
 
 7. Recognizances (caution) to keep peace and be of good behaviour, i.e.
-a bond with or without sureties creating a debt to the crown not
+a bond with or without sureties creating a [[Debt|debt]] to the crown not
 enforceable unless the conditions as to conduct therein made are broken.
 This bond may be taken from any misdemeanant, and, under statutory
 authority, from persons convicted of any felony (except murder) falling
@@ -1324,11 +1324,11 @@ infamantes_, including death, _travaux forces a perpetuite ou a temps_,
 _deportation_, _detention_, _reclusion_; (2) _infamantes_, viz.
 banishment and civil degradation; (3) _peines en matiere
 correctionnelle_, viz. imprisonment in a house of correction (six days
-to five years), interdiction from certain civic rights, and fine. The
+to five years), [[Interdiction|interdiction]] from certain civic rights, and fine. The
 punishments in no case have any effect to extinguish the civil claims of
 individuals who have suffered by the offence (arts. 6 and 55). Special
 provisions are made for _recidivistes_, police supervision and first
-offenders (_Loi Berenger_).
+offenders (_Loi [[Berenger]]_).
 
 In the German code of 1872 the legal punishments are: (1) death; (2)
 penal servitude for life or for a term not exceeding fifteen years nor
@@ -1350,7 +1350,7 @@ _ergastolo_ (for life); (2) _reclusione_ (from three days to twenty-four
 years), which involves hard labour and cellular confinement; (3)
 _detenzione_ (like term), which involves labour and at night separate
 confinement; (4) _confino_ (one month to three years), a form of
-banishment from the commune of origin or residence of the offender; (5a)
+banishment from the [[Commune|commune]] of origin or residence of the offender; (5a)
 fine (_multa_), from ten to ten thousand lire; (5b) _amende_, from one
 to two thousand lire; (6) arrest (one day to two years); (7)
 interdiction from public office; (8) suspension from professional
@@ -1366,7 +1366,7 @@ arrest, public censure and suspension from the exercise of certain offices
 or callings. The slight punishments are minor arrest and private censure.
 Offenders in any of the three classes may also be fined or put under
 recognizance (_caucion_). The accessory punishments include payment of
-costs, degradation, civil interdiction.
+[[Costs|costs]], degradation, civil interdiction.
 
 In England indictable offences (i.e. offences which must be tried by a
 judge and jury) are thus dealt with:--
@@ -1374,7 +1374,7 @@ judge and jury) are thus dealt with:--
 
   Tribunals.
 
-1. Courts of assize (sitting under old commissions known as commissions
+1. Courts of [[Assize|assize]] (sitting under old commissions known as commissions
 of assize, oyer and terminer, and general gaol delivery) are held twice
 or oftener in every year in each county and also in some large cities
 and boroughs. They are the lineal successors of the justices _in
@@ -1390,7 +1390,7 @@ sits monthly.
 quarterly or oftener under the commission of the peace to try the minor
 indictable offences. (See QUARTER SESSIONS, COURT OF.)
 
-4. The High Court of Justice in the king's bench division tries a few
+4. The High Court of Justice in the king's [[Bench|bench]] division tries a few
 special offences in its original jurisdiction, and where justice
 requires may transfer indictments from other courts for trial before
 itself.
@@ -1412,7 +1412,7 @@ There are in England no courts of a special character, such as exist in
 some foreign countries, for the determination of disputes between the
 governing classes themselves or with the governed classes, whether of a
 civil or criminal character. There are a few exceptional courts with
-criminal jurisdiction. The court of chivalry, which used to punish
+criminal jurisdiction. The court of [[Chivalry|chivalry]], which used to punish
 offences committed within military lines outside the kingdom, is
 obsolete. Special tribunals exist for trying naval or military offences
 committed by members of the navy and army, but those members are not
@@ -1422,11 +1422,11 @@ held only on board a ship, and can as a general rule try only persons
 entered on the books of a king's ship. The military courts can only try
 persons who are actually members of the army at the time, and their
 authority is annually renewed by parliament, in consequence of the
-jealousy still felt against the trial of any man except by the ordinary
+[[Jealousy|jealousy]] still felt against the trial of any man except by the ordinary
 courts of law. Military and naval courts can try in any part of the
 world, and whenever the forces are in active service can try followers
 of the camp as if they were actual members of the forces. (See MILITARY
-LAW; MARTIAL LAW.)
+LAW; [[Martial|MARTIAL]] LAW.)
 
 
   Ecclesiastical courts.
@@ -1434,12 +1434,12 @@ LAW; MARTIAL LAW.)
 The ecclesiastical courts, which were formerly very powerful in England,
 and punished persons for various offences, such as perjury, swearing,
 and sexual offences, have now almost fallen into disuse. Their authority
-over Protestant dissenters from the established church was taken away by
+over Protestant [[Dissenter|dissenters]] from the established church was taken away by
 statute; their authority over lay members of the Church of England has
 disappeared by disuse. Occasionally suits are instituted in them against
 the clergy for offences either against morality or against doctrine or
 ritual. In these cases their sentences are enforced by penalties, such
-as suspension, or deprivation of benefice, or by imprisonment; which has
+as suspension, or deprivation of [[Benefice|benefice]], or by imprisonment; which has
 replaced the old punishment of excommunication.
 
 
@@ -1451,7 +1451,7 @@ power or by custom and the action of the courts. Both at Rome and in
 England it was through usage and by the courts themselves that the
 earlier system was slowly moulded: both at Rome and in England it was
 direct legislation that established the later system. (See Bryce,
-_Studies in History and Jurisprudence_, 1901, ii. 334.)
+_Studies in History and [[Jurisprudence]]_, 1901, ii. 334.)
 
 The characteristics of English criminal procedure which most
 distinguish it from the procedure of other countries are as follows:--
@@ -1474,12 +1474,12 @@ made in 1851. (See INDICTMENT.)
 
 3. Criminal prosecutions are ordinarily undertaken by the individuals
 who have suffered by a crime. There is not in England, as in Scotland
-and all European countries, a public department concerned to deal with
+and all [[European Countries|European countries]], a public department concerned to deal with
 all prosecutions for crime. The result is that the prosecution of most
 ordinary crime is left to individual enterprise or the action of the
 local police force or the justices' clerk.
 
-The attorney-general has always represented the crown in criminal
+The [[Attorney-General|attorney-general]] has always represented the crown in criminal
 matters, and in state prosecutions appears in person on behalf of the
 crown, and when he so appears has certain privileges as respects the
 reply to the prisoner's defence and the mode of trial. In the
@@ -1504,7 +1504,7 @@ whether there is such a prima facie case against him that he ought to be
 tried. If they think that there is, they commit him to prison to wait
 his trial, or require him to give security, with or without sureties, to
 the amount named by them, for appearing to take his trial. If they think
-the charge unsubstantial they discharge the accused at once. The
+the charge unsubstantial they [[Discharge|discharge]] the accused at once. The
 prosecutor in cases of felony may if he likes go before the grand jury
 whether the case has or has not been the subject of a preliminary
 inquiry, but in the case of many misdemeanours it is obligatory first to
@@ -1515,7 +1515,7 @@ indictments.
   The grand jury.
 
 Whether there has or has not been a preliminary inquiry before a
-magistrate, no person can be tried for any of the graver crimes, treason
+[[Magistrate|magistrate]], no person can be tried for any of the graver crimes, treason
 or felony, except upon indictment found by a grand jury of the county or
 place where the offence is said to have been committed or is by statute
 made cognizable. In olden days, and even now in theory, the grand jury
@@ -1549,7 +1549,7 @@ extent, as great injustice may be caused to a man by removing him from
 his neighbours and trying him at a distance from his friends, and from
 the witnesses whom he might call for his defence. In Ireland, for
 instance, the greatest injustice might be done by removing an Orangeman
-from Belfast and trying him in a Roman Catholic county or vice versa.
+from [[Belfast]] and trying him in a Roman Catholic county or vice versa.
 But it has its evils where the area from which the jurors are drawn is
 small, such as a town of a few thousand inhabitants. In that case a man
 charged, say, with fraud, may be protected by his friends from being
@@ -1573,11 +1573,11 @@ If a coroner's jury, on inquiring into any sudden death, finds that
 murder or manslaughter has been committed, that finding has the same
 effect as an indictment by a grand jury, and the man charged may be
 tried by the petty jury accordingly. The law and procedure of the
-coroner's courts are now regulated by the Coroners Act 1887. When there
+coroner's courts are now regulated by the [[Coroner|Coroners]] Act 1887. When there
 is a dead body of a person lying within the area of his jurisdiction,
 and there is reasonable cause to suspect that such person died a violent
 or unnatural death, or a sudden death of which the cause is unknown, or
-has died in prison, the coroner is entitled to hold an inquest, and if
+has died in prison, the coroner is entitled to hold an [[Inquest|inquest]], and if
 the verdict or inquisition finds murder or manslaughter, it is followed
 by trial in the same way as if the person accused had been indicted.
 
@@ -1595,7 +1595,7 @@ crimes by a jury of twelve, native to English law, has been in modern
 times transplanted to European countries. It was not the original form
 of trial, for it was preceded by wager of battle (which was not finally
 abolished till 1819); and by ordeal, which was suppressed as to criminal
-trials in 1219 in consequence of the decree of the Lateran Council
+trials in 1219 in consequence of the [[Decree|decree]] of the Lateran Council
 (1216). The first was allowed only on an appeal by an individual
 accuser; the second was resorted to on an accusation by public fame,
 which the accused was allowed to meet by submitting to the ordeal. It
@@ -1697,7 +1697,7 @@ In English law until 1907, where a criminal case had been tried by a
 jury the verdict of the jury of guilt or innocence was final and there
 was no appeal on the facts. Any considerable defect or informality in
 the procedure might be the subject of a writ of error. And if any
-question of law arose at the trial, the judge might, if he chose,
+question of law arose at the trial, the judge might, if he [[Chose|chose]],
 reserve it for the opinion of the court for the consideration of crown
 cases reserved, by whom the conviction might be either quashed or
 confirmed.
@@ -1807,7 +1807,7 @@ punishment whatever time may have elapsed since the committal of the
 offence. On the continent of Europe the limitation of a judgment and
 sentence for a crime is twenty years; five years for a _delit_, and for
 a contravention two years. No proceedings can be taken as regards a
-crime after a lapse of ten years, whilst as regards a _delit_ the limit
+crime after a [[Lapse|lapse]] of ten years, whilst as regards a _delit_ the limit
 is three years, and two years for a contravention.
 
 There are three main differences between English criminal procedure and
@@ -1839,7 +1839,7 @@ that all legal proceedings, civil or criminal, should be oral and
 public, and that the accusatory system in criminal cases should be
 adopted. Germany followed this example. Italy, Holland. Switzerland and
 Spain have followed Austria and Germany as regards the preliminary
-investigation; Italy and Belgium have surrounded the accused with
+investigation; Italy and [[Belgium]] have surrounded the accused with
 guarantees against arbitrary confinement before trial; Holland has
 conferred upon the accused the right of seeing the adverse testimony and
 of being confronted with the witnesses, and, further, has formally
@@ -1849,7 +1849,7 @@ countries still remain on the old lines. But everywhere, whether reform
 has actually been accomplished or not, there is a demand for even-handed
 justice, and a growing conviction that the accused should have all his
 rights, now that society is no longer in danger from undiscovered
-criminals and unpunished crime. Even in France, the champion of the
+criminals and unpunished crime. Even in France, the [[Champion|champion]] of the
 inquisitorial system, a change is being made. Up to 1897 secrecy was
 imposed invariably in the preliminary investigation of crime, and was
 held necessary for the discovery and punishment of the offender. The
@@ -1886,7 +1886,7 @@ supreme court. Under him there are procureurs-generaux attached to each
 of the courts of appeal, of which in France there are twenty-six, and
 under each of these subordinate procureurs there are procureurs
 (prosecutors) of a lesser degree. The next stage to the parquet is the
-_juge d'instruction_, who corresponds to the English magistrate, and is
+_[[Juge|juge]] d'instruction_, who corresponds to the English magistrate, and is
 the most formidable personage in the whole system of French criminal
 law. He can detain and accuse a person in prison, can send for him at
 any time and ask him such questions as he pleases.
@@ -1946,14 +1946,14 @@ required, and the indictments are filed by the public officer.
 The criminal law of England forms the basis of the criminal law of all
 British possessions abroad, with a few exceptions, e.g. the Channel
 Islands (still subject to the custom of Normandy) and the anomalous case
-of Cyprus, where Mahommedan law is to some extent in force. As to India,
+of [[Cyprus]], where Mahommedan law is to some extent in force. As to India,
 see INFRA.
 
 In many British colonies the criminal law has been codified or at the
 least consolidated. Criminal codes have been passed in Canada, New
-Zealand (1893), Queensland (1899) and W. Australia (1901). Many crown
+Zealand (1893), Queensland (1899) and W. [[Australia]] (1901). Many crown
 colonies have codes framed on the model prepared by the late Sir R. S.
-Wright for Jamaica and revised in 1901, and in British Guiana
+Wright for Jamaica and revised in 1901, and in British [[Guiana]]
 opportunity was taken (in 1893) to abolish the remnants of Roman-Dutch
 criminal law.
 
@@ -1964,7 +1964,7 @@ are in force, drawn mainly from the common and statute law of the Cape
 Colony with the addition of provisions borrowed from English and
 colonial legislation.
 
-In Mauritius the criminal law is comprised in a penal code of 1838 and a
+In [[Mauritius]] the criminal law is comprised in a penal code of 1838 and a
 procedure code of 1853, which, with the incorporated amendments, are to
 be found in the _Revised Laws of Mauritius_ (1903-1904), ii. 466 et
 seq. The penal code is based on the Code Napoleon.
@@ -1974,7 +1974,7 @@ seq. The penal code is based on the Code Napoleon.
 
 "Criminal law has everywhere grown out of custom, and has in all
 civilized states been largely dealt with by direct legislation. In most
-civilized states (including Japan) it has been codified by statute, to
+civilized states (including [[Japan]]) it has been codified by statute, to
 the general satisfaction of the people; and the conspicuous success of
 the Indian penal code shows that English criminal law is susceptible of
 being so treated" (Bryce, _Studies_, ii. 34).
@@ -2006,7 +2006,7 @@ code, and led to the formation of the Statute Law Committee, which has
 relieved the statute book of much dead matter. On his return from India,
 impressed by the success of the Indian penal code, Sir J. Stephen made a
 strong effort to obtain codification. In 1878, at the instance of Lord
-Cairns, he prepared a draft code (based on his well-known _Digest of the
+[[Cairns]], he prepared a draft code (based on his well-known _Digest of the
 Criminal Law_), which was laid before parliament and then submitted to
 judicial criticism and revision. As a result of this revision a code
 bill was introduced in 1880; but a dissolution intervened and no serious
@@ -2020,7 +2020,7 @@ the work itself, and its unwillingness to trust the work to other hands.
 The Indian penal code and criminal procedure code, by their history,
 their form, and the extent and diversity of the races and peoples to
 which they apply, are perhaps the most important codes in the whole
-world. While the East India Company was merely a trading company holding
+world. While the [[East India Company]] was merely a trading company holding
 certain forts and trading ports in India and elsewhere, such criminal
 justice as was administered under its auspices was in the main based on
 the English criminal law, said to have been introduced to some extent by
@@ -2028,7 +2028,7 @@ the company's charter of 1661, but reintroduced into the presidency laws
 by later charters of 1726, 1753 and 1774. (See _Nuncomar and Impey_, by
 Sir J. Stephen.) From 1771 until 1860 the criminal law administered was
 the Mahommedan law. When in 1771 the East Indian Company determined to
-stand forth as diwan, Warren Hastings required the courts of the
+stand forth as diwan, Warren [[Hastings]] required the courts of the
 mofussil (provinces), as distinct from those of the presidency town of
 Fort William, to be guided in the administration of criminal justice by
 Mahommedan law, which under the Moguls had been used in criminal cases
@@ -2042,7 +2042,7 @@ organization.
 Between 1834 and 1837 Macaulay with three other commissioners, Macleod,
 Anderson and Millet, prepared a draft penal code for India, for which
 they drew not only upon English and Indian laws and regulations but also
-upon Livingstone's Louisiana code and the Code Napoleon. Little or
+upon Livingstone's [[Louisiana]] code and the Code Napoleon. Little or
 nothing was taken from the Mahommedan law. A revised draft of the penal
 code by Sir B. Peacock, Sir J. W. Colville and others was completed in
 1856. In framing it the reports of the English criminal law
@@ -2103,7 +2103,7 @@ longest term provided for the offence had it been carried out.
   instance, as illustration of the offence of an attempt to commit an
   offence the following examples are given:--
 
-  I. "A. makes an attempt to steal some jewels by breaking open a box,
+  I. "A. makes an attempt to steal some [[Jewel|jewels]] by breaking open a [[Box|box]],
   and finds on opening the box there is no jewel in it. He has done an
   act towards the commission of theft, and therefore is guilty under
   this section.
@@ -2162,7 +2162,7 @@ with a power of revision, which is maintained automatically by the
 periodical transmission to the High Courts of calendars and statements
 of all cases tried by the inferior courts; and at the same time,
 whenever the High Court thinks fit, it can call for the record of any
-trial and pass such orders as it deems right. All sentences of death
+trial and pass such orders as it [[Deems|deems]] right. All sentences of death
 must be confirmed by the High Court. No appeal lies against an acquittal
 in any criminal case. This system of appeal, superintendence and
 revision would be totally inapplicable to England, but it has proved
@@ -2186,7 +2186,7 @@ Austria made further codes in 1768 (_Constitutio Criminalis Theresiana_)
 and 1787 (Emperor Joseph's code). A new code was framed in 1803, and
 amended in 1852 by reference to the Code Napoleon; and in 1906 a
 completely new code existed in draft. The Hungarian penal code dates
-from 1880. The Bavarian code of 1768 of Maximilian, revised in 1861,
+from 1880. The Bavarian code of 1768 of [[Maximilian]], revised in 1861,
 and the Prussian code of 1780, have been superseded by the German penal
 code of 1872.
 
@@ -2215,7 +2215,7 @@ FOOTNOTES:
 
   [1] "It is founded," said Sir J. Fitzjames Stephen, writing in 1863,
     "on a set of loose definitions and descriptions of crimes, the most
-    important of which are as old as Bracton. Upon this foundation there
+    important of which are as old as [[Bracton]]. Upon this foundation there
     was built, principally in the course of the 18th century, an entire
     and irregular superstructure of acts of parliament, the enactments of
     which were for the most part intended to supply the deficiencies of

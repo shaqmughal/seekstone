@@ -8,8 +8,8 @@ type: reference
 # Flaminia
 
 FLAMINIA, VIA, an ancient high road of Italy, constructed by C.
-Flaminius during his censorship (220 B.C.). It led from Rome to
-Ariminum, and was the most important route to the north. We hear of
+[[Flaminius]] during his censorship (220 B.C.). It led from Rome to
+[[Ariminum]], and was the most important route to the north. We hear of
 frequent improvements being made in it during the imperial period.
 Augustus, when he instituted a general restoration of the roads of
 Italy, which he assigned for the purpose among various senators,
@@ -29,7 +29,7 @@ crossed the Nar by a splendid four-arched bridge to which Martial
 alludes (_Epigr._ vii. 93, 8), one arch of which and all the piers are
 still standing; and went on, followed at first by the modern road to
 Sangemini which passes over two finely preserved ancient bridges, past
-Carsulae to Mevania, and thence to Forum Flaminii. Later on a more
+Carsulae to Mevania, and thence to [[Forum]] Flaminii. Later on a more
 circuitous route from Narnia to Forum Flaminii was adopted, passing by
 Interamna, Spoletium and Fulginium (from which a branch diverged to
 Perusia), and increasing the distance by 12 m. The road thence went on

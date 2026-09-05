@@ -9,22 +9,22 @@ seems to be first found in the _Musaeum Tradescantianum_, published in
 been accepted and commonly understood; and its earliest use, as yet
 traced, is by Thomas Morton (d. 1646), a disreputable lawyer who had a
 curiously adventurous career in New England, in the _New English
-Canaan_, printed in 1637--a rare work giving an interesting description
+[[Canaan]]_, printed in 1637--a rare work giving an interesting description
 of the natural scenery and social life in New England in the 17th
 century, and reproduced by Peter Force in his _Historical Tracts_ (vol.
 ii., Washington, 1838). Andre Thevet, in his _Singularitez de la France
-antarctique_ (Antwerp, 1558, fol. 92), has been more than once cited as
+antarctique_ ([[Antwerp]], 1558, fol. 92), has been more than once cited as
 the earliest author to mention humming-birds, which he did under the
 name of _Gouambuch_; but it is quite certain that Oviedo, whose
 _Hystoria general de las Indias_ was published at Toledo in 1525,
 preceded him by more than thirty years, with an account of the "paxaro
 mosquito" of Hispaniola, of which island "the first chronicler of the
 Indies" was governor.[1] This name, though now apparently disused in
-Spanish, must have been current about that time, for we find Gesner in
+Spanish, must have been current about that time, for we find [[Gesner]] in
 1555 (_De avium natura_, iii. 629) translating it literally into Latin
 as _Passer muscatus_, owing, as he says, his knowledge of the bird to
 Cardan, the celebrated mathematician, astrologer and physician, from
-whom we learn (_Comment. in Ptolem. de astr. judiciis_, Basel, 1554, p.
+whom we learn (_Comment. in Ptolem. de astr. judiciis_, [[Basel]], 1554, p.
 472) that, on his return to Milan from professionally attending
 Archbishop Hamilton at Edinburgh, he visited Gesner at Zurich, about the
 end of the year 1552.[2] The name still survives in the French
@@ -50,7 +50,7 @@ The relations of the _Trochilidae_ to other birds were for a long while
 very imperfectly understood. Nitzsch first drew attention to their
 agreement in many essential characters with the swifts, _Cypselidae_, and
 placed the two families in one group, which he called _Macrochires_, from
-the great length of their manual bones, or those forming the extremity of
+the great length of their [[Manual|manual]] [[Bone|bones]], or those forming the extremity of
 the wing. The name was perhaps not very happily chosen, for it is not the
 distal portion that is so much out of ordinary proportion to the size of
 the bird, but the proximal and median portions, which in both families
@@ -71,14 +71,14 @@ known.[4] Huxley takes these two families, together with the goatsuckers
 into which he separated his larger group _Aegithognathae_. However, the
 most noticeable portion of the humming-bird's skeleton is the _sternum_,
 which in proportion to the size of the bird is enormously developed both
-longitudinally and vertically, its deep keel and posterior protraction
+longitudinally and vertically, its deep [[Keel|keel]] and posterior protraction
 affording abundant space for the powerful muscles which drive the wings
 in their rapid vibrations as the little creature poises itself over the
 flowers where it finds its food.[5]
 
 So far as is known, all humming-birds possess a protrusible tongue, in
 conformation peculiar among the class _Aves_, though to some extent
-similar to that member in the woodpeckers (_Picidae_)[6]--the "horns" of
+similar to that member in the woodpeckers (_Picidae_)[6]--the "[[Horn|horns]]" of
 the hyoid apparatus upon which it is seated being greatly elongated,
 passing round and over the back part of the head, near the top of which
 they meet, and thence proceed forward, lodged in a broad and deep
@@ -88,7 +88,7 @@ cylindrical tubes, tapering towards the point, and forming two sheaths
 which contain the extensile portion, and are capable of separation,
 thereby facilitating the extraction of honey from the nectaries of
 flowers, and with it, what is of far greater importance for the bird's
-sustenance, the small insects that have been attracted to feed upon the
+sustenance, the small [[Insect|insects]] that have been attracted to feed upon the
 honey.[7] These, on the tongue being withdrawn into the bill, are caught
 by the mandibles (furnished in the males of many species with fine,
 horny, saw like teeth[8]), and swallowed in the usual way. The stomach
@@ -100,13 +100,13 @@ wanting, as in all other _Cypselomorphae_.[9]
 Humming-birds comprehend the smallest members of the class Aves. The
 largest among them measures no more than 8(1/2) and the least 2(3/8) in.
 in length, for it is now admitted generally that Sloane must have been
-in error when he described (_Voyage_, ii. 308) the "least humming-bird
+in [[Error|error]] when he described (_Voyage_, ii. 308) the "least humming-bird
 of Jamaica" as "about 1(1/4) in. long from the end of the bill to that
 of the tail"--unless, indeed, he meant the proximal end of each. There
 are, however, several species in which the tail is very much elongated,
 such as the _Aithurus polytmus_ (fig. 1) of Jamaica, and the remarkable
 _Loddigesia mirabilis_ of Chachapoyas in Peru, which last was for some
-time only known from a unique specimen (_Ibis_, 1880, p. 152); but
+time only known from a unique specimen (_[[Ibis]]_, 1880, p. 152); but
 "trochilidists" in giving their measurements do not take these
 extraordinary developments into account. Next to their generally small
 size, the best-known characteristic of the _Trochilidae_ is the
@@ -127,7 +127,7 @@ FIG. 1.--_Aithurus polytmus._]
   amount of modification, within certain limits, presented by the
   various forms is surprising and even bewildering to the uninitiated.
   But the features that are ordinarily chosen by systematic
-  ornithologists in drawing up their schemes of classification are found
+  ornithologists in drawing up their schemes of [[Classification|classification]] are found
   by the "trochilidists," or special students of the _Trochilidae_,
   insufficient for the purpose of arranging these birds in groups, and
   characters on which genera can be founded have to be sought in the
@@ -154,7 +154,7 @@ FIG. 1.--_Aithurus polytmus._]
   the distinction between which was that in the one the bill was arched
   and in the other straight, since that difference has been insisted on
   in many works. This was especially the view taken by Brisson and
-  Buffon, who termed the birds having the arched bill "colibris," and
+  [[Buffon]], who termed the birds having the arched bill "colibris," and
   those having it straight "oiseaux-mouches." The distinction wholly
   breaks down, not merely because there are _Trochilidae_ which possess
   almost every gradation of decurvation of the bill, but some which have
@@ -172,25 +172,25 @@ FIG. 1.--_Aithurus polytmus._]
   adequately designate metallic, from their resemblance to burnished
   gold, bronze, copper or steel, but such similitudes wholly fail when
   he has to do with the _Trochilidae_, and there is hardly a precious
-  stone--ruby, amethyst, sapphire, emerald or topaz--the name of which
+  stone--ruby, amethyst, sapphire, [[Emerald|emerald]] or topaz--the name of which
   may not fitly, and without any exaggeration, be employed in regard to
   humming-birds. In some cases this radiance beams from the brow, in
   some it glows from the throat, in others it shines from the
   tail-coverts, in others it sparkles from the tip only of elongated
-  feathers that crest the head or surround the neck as with a frill,
+  [[Feather|feathers]] that crest the head or surround the neck as with a frill,
   while again in others it may appear as a luminous streak across the
   cheek or auriculars. The feathers that cover the upper parts of the
   body very frequently have a metallic lustre of golden-green, which in
   other birds would be thought sufficiently beautiful, but in the
   _Trochilidae_ its sheen is overpowered by the almost dazzling
-  splendour that radiates from the spots where Nature's lapidary has set
-  her jewels. The flight feathers are almost invariably dusky--the
+  splendour that radiates from the spots where Nature's [[Lapidary|lapidary]] has set
+  her [[Jewel|jewels]]. The flight feathers are almost invariably dusky--the
   rapidity of their movement would, perhaps, render any display of
   colour ineffective: while, on the contrary, the feathers of the tail,
   which, as the bird hovers over its food-bearing flowers, is almost
   always expanded, and is therefore comparatively motionless, often
   exhibit a rich translucency, as of stained glass, but iridescent in a
-  manner that no stained glass ever is--cinnamon merging into crimson,
+  manner that no stained glass ever is--cinnamon merging into [[Crimson|crimson]],
   crimson changing to purple, purple to violet, and so to indigo and
   bottle-green. But this part of the humming-bird is subject to quite as
   much modification in form as in colour, though always consisting of
@@ -214,7 +214,7 @@ FIG. 1.--_Aithurus polytmus._]
   middle in a manner almost unique among birds. The feet again,
   diminutive as they are, are very diversified in form. In most the
   tarsus is bare, but in some groups, as _Eriocnemis_, it is clothed
-  with tufts of the most delicate down, sometimes black, sometimes buff,
+  with tufts of the most delicate down, sometimes black, sometimes [[Buff|buff]],
   but more often of a snowy whiteness. In some the toes are weak, nearly
   equal in length, and furnished with small rounded nails; in others
   they are largely developed, and armed with long and sharp claws.
@@ -259,9 +259,9 @@ FIG. 1.--_Aithurus polytmus._]
   generally called the "humming-bird hawk-moth." But though confined to
   the New World the _Trochilidae_ pervade almost every part of it. In
   the south _Eustephanus galeritus_ has been seen flitting about the
-  fuchsias of Tierra del Fuego in a snow-storm, and in the north-west
+  [[Fuchsia|fuchsias]] of Tierra del Fuego in a snow-storm, and in the north-west
   _Selatophorus rufus_ in summer visits the ribes-blossoms of Sitka,
-  while in the north-east _Trochilus colubris_ charms the vision of
+  while in the north-east _Trochilus colubris_ [[Charm|charms]] the vision of
   Canadians as it poises itself over the althaea-bushes in their
   gardens, and extends its range at least so far as lat. 57 deg. N. Nor
   is the distribution of humming-birds limited to a horizontal direction
@@ -272,18 +272,18 @@ FIG. 1.--_Aithurus polytmus._]
   and rain, and-feeding on the insects which resort to the indigenous
   flowering plants, while other peaks, only inferior to these in height,
   are no less frequented by one or more species. Peru and Bolivia
-  produce some of the most splendid of the family--the genera _Cometes_,
+  produce some of the most splendid of the family--the genera _[[Comet|Cometes]]_,
   _Diphlogaena_ and _Thaumastura_, whose very names indicate the glories
   of their bearers. The comparatively gigantic _Patagona_ inhabits the
   west coast of South America, while the isolated rocks of Juan
-  Fernandez not only afford a home to the _Eustephanus_ but also to two
+  [[Fernandez]] not only afford a home to the _Eustephanus_ but also to two
   other species of the same genus which are not found elsewhere. The
   slopes of the Northern Andes and the hill country of Colombia furnish
   perhaps the greatest number of forms, and some of the most beautiful,
   but leaving that great range, we part company with the largest and
   most gorgeously arrayed species, and their number dwindles as we
   approach the eastern coast. Still there are many brilliant
-  humming-birds common enough in the Brazils, Guiana and Venezuela. The
+  humming-birds common enough in the Brazils, [[Guiana]] and Venezuela. The
   _Chrysolampis mosquitus_ is perhaps the most plentiful. Thousands of
   its skins are annually sent to Europe to be used in the manufacture of
   ornaments, its rich ruby-and-topaz glow rendering it one of the most
@@ -292,7 +292,7 @@ FIG. 1.--_Aithurus polytmus._]
   _Phaethornis_--the "hermits"; but the great wooded basin of the
   Amazons seems to be particularly unfavourable to the _Trochilidae_,
   and from Para to Ega there are scarcely a dozen species to be met
-  with. There is no island of the Antilles but is inhabited by one or
+  with. There is no island of the [[Antilles]] but is inhabited by one or
   more humming-birds, and there are some very remarkable singularities
   of geographical distribution to be found. Northwards from Panama the
   highlands present many genera whose names it would be useless here to
@@ -304,7 +304,7 @@ FIG. 1.--_Aithurus polytmus._]
   line.
 
   The habits of humming-birds have been ably treated by writers like
-  Waterton, Wilson and Audubon, to say nothing of P. H. Gosse, A. R.
+  Waterton, Wilson and Audubon, to say nothing of P. H. [[Gosse]], A. R.
   Wallace, H. W. Bates and others. But there is no one appreciative of
   the beauties of nature who will not recall to memory with delight the
   time when a live humming-bird first met his gaze. The suddenness of
@@ -314,10 +314,10 @@ FIG. 1.--_Aithurus polytmus._]
   above and below by fine black threads, in form of a St Andrew's
   cross,--the effect on the observer's retina of the instantaneous
   reversal of the motion of the wing at each beat--the strokes being so
-  rapid as to leave no more distinct image. Consequently an adequate
+  rapid as to leave no more distinct [[Image|image]]. Consequently an adequate
   representation of the bird on the wing cannot be produced by the
   draughtsman. Humming-birds show to the greatest advantage when engaged
-  in contest with another, for rival cocks fight fiercely, and, as may
+  in contest with another, for rival [[Cock|cocks]] fight fiercely, and, as may
   be expected, it is then that their plumage flashes with the most
   glowing tints. But these are quite invisible to the ordinary spectator
   except when very near at hand, though doubtless efficient enough for
@@ -340,7 +340,7 @@ FIG. 1.--_Aithurus polytmus._]
   alimentary canal entirely filled with insects, and very rarely a trace
   of honey. It is this fact doubtless that has hindered almost all
   attempts at keeping them in confinement for any length of time--nearly
-  every one making the experiment having fed his captives only with
+  every one making the experiment having fed his [[Captive|captives]] only with
   syrup, which, without the addition of some animal food, is
   insufficient as sustenance, and seeing therefore the wretched
   creatures gradually sink into inanition and die of hunger. With better
@@ -358,12 +358,12 @@ FIG. 1.--_Aithurus polytmus._]
   original intention. They are mostly cup-shaped, and the singular fact
   is on record (_Zool. Journal_, v. p. 1) that in one instance as the
   young grew in size the walls were heightened by the parents, until at
-  last the nest was more than twice as big as when the eggs were laid
+  last the nest was more than twice as big as when the [[Egg|eggs]] were laid
   and hatched. Some species, however, suspend their nests from the stem
   or tendril of a climbing plant, and more than one case has been known
-  in which it has been attached to a hanging rope. These pensile nests
+  in which it has been attached to a [[Hanging|hanging]] rope. These pensile nests
   are said to have been found loaded on one side with a small stone or
-  bits of earth to ensure their safe balance, though how the
+  [[Bit|bits]] of earth to ensure their safe [[Balance|balance]], though how the
   compensatory process is applied no one can say. Other species, and
   especially those belonging to the "hermit" group, weave a frail
   structure round the side of a drooping palm-leaf. The eggs are never
@@ -377,9 +377,9 @@ FOOTNOTES:
 
   [1] In the edition of Oviedo's work published at Salamanca in 1547,
     the account (_lib._ xiv. cap. 4) runs thus: "Ay assi mismo enesta
-    ysla vnos paxaricos tan negros como vn terciopelo negro muy bueno &
+    ysla vnos paxaricos tan negros [[Como|como]] vn terciopelo negro muy bueno &
     son tan pequenos que ningunos he yo visto en Indias menores excepto
-    el que aca se llama paxaro mosquito. El qual es tan pequeno que el
+    el que aca se [[Llama|llama]] paxaro mosquito. El qual es tan pequeno que el
     bulto del es menor harto o assaz que le cabeca del dedo pulgar de la
     mano. Este no le he visto enesta Ysla pero dizen me que aqui los ay:
     & por esso dexo de hablar enel pa lo dezir dode los he visto que es
@@ -396,7 +396,7 @@ FOOTNOTES:
     ancient Greeks to the smaller plovers, and was not improperly applied
     by Herodotus (ii. 68) to the species that feeds in the open mouth of
     the crocodile--the _Pluvianus aegyptius_ of modern ornithologists--in
-    which sense Aristotle (_Hist. animalium_, ix. 6) also uses it. But
+    which sense [[Aristotle]] (_Hist. animalium_, ix. 6) also uses it. But
     the received text of Aristotle has two other passages (ix. 1 and 11)
     wherein the word appears in a wholly different connexion, and can
     there be only taken to mean the wren--the usual Greek name of which
@@ -405,7 +405,7 @@ FOOTNOTES:
     suggested the possibility of such a thing, one can hardly help
     suspecting that in these passages some early copyist has substituted
     [Greek: trochilos] for [Greek: orchilos], and so laid the foundation
-    of a curious error. It may be remarked that the crocodile of Santo
+    of a curious error. It may be remarked that the [[Crocodile|crocodile]] of Santo
     Domingo is said to have the like office done for it by some kind of
     bird, which is called by Descourtilz (_Voyage_, iii. 26), a "Todier,"
     but, as Geoffr. St Hilaire observes (_Descr. de l'Egypte_, ed. 2,
@@ -420,7 +420,7 @@ FOOTNOTES:
     to place, seem to flap their wings with comparatively slow but not
     less powerful strokes. The difference was especially observed with
     respect to the largest of all humming-birds, _Patagona gigas_, by
-    Darwin.
+    [[Darwin]].
 
   [6] The resemblance, so far as it exists, must be merely the result
     of analogical function, and certainly indicates no affinity between

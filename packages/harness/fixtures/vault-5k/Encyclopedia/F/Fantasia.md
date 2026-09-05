@@ -18,7 +18,7 @@ the "Great Fantasia and Fugue" in A minor, and the "Fantasia cromatica"
 in D minor. Brahms used the name for his shorter piano pieces. It is
 also applied to orchestral compositions "not long enough to be called
 symphonic poems and not formal enough to be called overtures" (Sir C.
-Hubert Parry, in Grove's _Dictionary of Music_, ed. 1906). The Italian
+[[Hubert]] Parry, in Grove's _Dictionary of Music_, ed. 1906). The Italian
 word is still used in Tunis, Algeria and Morocco, with the meaning of
 "showing off," for an acrobatic exhibition of horsemanship by the
 Arabs. The riders fire their guns, throw them and their lances into the

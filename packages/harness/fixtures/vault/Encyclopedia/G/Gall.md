@@ -8,12 +8,12 @@ id: 42-4228
 
 # Gall
 
-GALL, FRANZ JOSEPH (1758-1828), anatomist, physiologist, and founder of
+GALL, [[Franz|FRANZ]] JOSEPH (1758-1828), anatomist, physiologist, and founder of
 phrenology (q.v.), was born at Tiefenbrunn near Pforzheim, Baden, on the
 9th of March 1758. After completing the usual literary course at Baden
-and Bruchsal, he began the study of medicine under J. Hermann
+and Bruchsal, he began the study of medicine under J. [[Hermann]]
 (1738-1800) at Strassburg, whence, attracted by the names of Gerhard van
-Swieten (1700-1772) and Maximilian Stoll (1742-1788), he removed to
+Swieten (1700-1772) and [[Maximilian]] Stoll (1742-1788), he removed to
 Vienna in 1781. Having received his diploma, he began to practise as a
 physician there in 1785; but his energies were mainly devoted to the
 scientific investigation of problems which had occupied his attention
@@ -42,7 +42,7 @@ celebrity.
 
 In March 1805 he finally left Vienna in company with his friend and
 associate J.C. Spurzheim, and made a tour through Germany, in the course
-of which he lectured in Berlin, Dresden, Magdeburg and several of the
+of which he lectured in Berlin, [[Dresden]], [[Magdeburg]] and several of the
 university towns. His expositions, which he knew how to make popular and
 attractive, were much resorted to by the public, and excited
 considerable controversy in the scientific world. He had almost reached
@@ -52,7 +52,7 @@ continuing his activity as a lecturer and writer. In 1808 appeared his
 _Introduction au cours de physiologie du cerveau_, which was followed in
 1809 by the _Recherches sur le systeme nerveux en general, et sur celui
 du cerveau en particulier_ (originally laid before the Institute of
-France in March 1808), and in 1810 by the first instalment of the
+France in March 1808), and in 1810 by the first [[Instalment|instalment]] of the
 _Anatomie et physiologie du systeme nerveux en general, et du cerveau en
 particulier, avec des observations sur la possibilite de reconnaitre
 plusieurs dispositions intellectuelles et morales de l'homme et des
@@ -60,12 +60,12 @@ animaux par la configuration de leurs tetes._ The _Recherches_ and the
 first two volumes of the _Anatomie_ bear the conjoint names of Gall and
 Spurzheim. The latter work was completed in 1819, and appeared in a
 second edition of six volumes in 1822-1825. In 1811 he replied to a
-charge of Spinozism or atheism, which had been strongly urged against
+charge of Spinozism or [[Atheism|atheism]], which had been strongly urged against
 him, by a treatise entitled _Des dispositions innees de l'ame et de
 l'esprit_, which he afterwards incorporated with his greater work. In
 1819 he became a naturalized French subject, but his efforts two years
 afterwards to obtain admission to the Academy of Sciences, although
-supported by E. Geoffroy Saint-Hilaire, were unsuccessful. In 1823 he
+supported by E. [[Geoffroy Saint-Hilaire]], were unsuccessful. In 1823 he
 visited London with the intention of giving a series of phrenological
 lectures, but his reception was not what he had anticipated, and he
 speedily abandoned his plans. He continued to lecture and practise in

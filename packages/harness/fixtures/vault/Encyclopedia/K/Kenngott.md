@@ -2,7 +2,7 @@
 
 KENNGOTT, GUSTAV ADOLPH (1818-1897), German mineralogist, was born at
 Breslau on the 6th of January 1818. After being employed in the
-Hofmineralien Cabinet at Vienna, he became professor of mineralogy in
+Hofmineralien [[Cabinet]] at Vienna, he became professor of mineralogy in
 the university of Zürich. He was distinguished for his researches on
 mineralogy, crystallography and petrology. He died at Lugano, on the 7th
 of March 1897.

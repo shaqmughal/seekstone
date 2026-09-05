@@ -10,7 +10,7 @@ period belong also his oratorio _La Passione_, a grand Mass for four
 voices, a _Dixit Dominus_, and three symphonies. The opera _Il Carcere
 d'Ildegonda_ was composed in 1828 for the Teatro Nuovo, and in 1829
 Costa wrote his _Malvina_ for Barbaja, the impresario of San Carlo. In
-this latter year he visited Birmingham to conduct Zingarelli's _Cantata
+this latter year he visited [[Birmingham]] to conduct Zingarelli's _Cantata
 Sacra_, a setting of some verses from Isaiah ch. xii. Instead, however,
 of conducting, he sang the tenor part. In 1830 he settled in London,
 having a connexion with the King's theatre. His ballet _Kenilworth_ was
@@ -25,8 +25,8 @@ till 1846, when he seceded to the Italian Opera at Covent Garden; he was
 conductor of the Philharmonic Society from 1846 to 1854, of the Sacred
 Harmonic Society from 1848, and of the Birmingham festival from 1849. In
 1855 Costa wrote _Eli_, and in 1864 _Naaman_, both for Birmingham.
-Meanwhile he had conducted the Bradford (1853) and Handel festivals
-(1857-1880), and the Leeds festivals from 1874 to 1880. On the 29th of
+Meanwhile he had conducted the [[Bradford]] (1853) and [[Handel]] festivals
+(1857-1880), and the [[Leeds]] festivals from 1874 to 1880. On the 29th of
 April 1884 he died at Brighton. Costa was the great conductor of his
 day, but both his musical and his human sympathies were somewhat
 limited; his compositions have passed into oblivion, with the exception

@@ -14,7 +14,7 @@ blending, tempering, from [Greek: sygkerannusthai], to put together,
 compound, mix), a physical or mental condition peculiar to an individual
 usually taking the form of a special susceptibility to particular
 stimuli; thus it is an idiosyncrasy of one individual that abnormal
-sensations of discomfort should be excited by certain odours or colours,
+sensations of discomfort should be excited by certain odours or [[Colours|colours]],
 by the presence in the room of a cat, &c.; similarly certain persons are
 found to be peculiarly responsive or irresponsive to the action of
 particular drugs. The word is also used, generally, of any eccentricity

@@ -1,6 +1,6 @@
 # Hemimerus
 
-HEMIMERUS, an Orthopterous or Dermapterous insect, the sole
+HEMIMERUS, an Orthopterous or Dermapterous [[Insect|insect]], the sole
 representative of the family _Hemimeridae_, which has affinities with
 both the _Forficulidae_ (earwigs) and the _Blattidae_ (cockroaches).
 Only two species have been discovered, both from West Africa. The better

@@ -22,7 +22,7 @@ distinctions, however, were won in the realms of anthropology by his
 researches into the lives of the cave-dwellers of prehistoric times,
 labours which have borne fruit in his books _Cave-hunting_ (1874);
 _Early Man in Britain_ (1880); _British Pleistocene Mammalia_
-(1866-1887). He became a Fellow of the Royal Society in 1867, and acted
+(1866-1887). He became a [[Fellow]] of the Royal Society in 1867, and acted
 as president of the anthropological section of the British Association
 in 1882 and of the geological section in 1888.
 

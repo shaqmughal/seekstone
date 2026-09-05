@@ -1,7 +1,7 @@
 # Index
 
 INDEX, a word that may be understood either specially as a table of
-references to a book or, more generally, as an indicator of the position
+references to a book or, more generally, as an [[Indicator|indicator]] of the position
 of required information on any given subject. According to classical
 usage, the Latin word _index_ denoted a discoverer, discloser or
 informer; a catalogue or list; an inscription; the title of a book; and
@@ -13,7 +13,7 @@ i. 3):--
 
   "And in such indexes, although small pricks
    To their subsequent volumes, there is seen
-   The baby figure of the giant mass."
+   The baby figure of the [[Giant|giant]] mass."
 
 Table was the usual English word, and index was not thoroughly
 naturalized until the beginning of the 17th century, and even then it
@@ -32,12 +32,12 @@ ones. A good index has sometimes kept a dull book alive by reason of the
 value or amusing character of its contents. Carlyle referred to Prynne's
 _Histrio-Mastix_ as "a book still extant, but never more to be read by
 mortal"; but the index must have given amusement to many from the
-curious character of its entries, and Attorney-General Noy particularly
+curious character of its entries, and [[Attorney-General]] Noy particularly
 alluded to it in his speech at Prynne's trial. Indexes have sometimes
 been used as vehicles of satire, and the witty Dr William King was the
 first to use them as a weapon of attack. His earliest essay in this
 field was the index added to the second edition of the Hon. Charles
-Boyle's attack upon Bentley's _Dissertation on the Epistles of Phalaris_
+Boyle's attack upon Bentley's _Dissertation on the [[Epistle|Epistles]] of Phalaris_
 (1698).
 
 To serve its purpose well, an index to a book must be compiled with

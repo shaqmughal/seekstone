@@ -22,7 +22,7 @@ is situated in a deep valley in the Hungarian Ore Mountains region.
 Among its principal buildings are the castle, several Roman Catholic
 (from the 13th and 14th centuries) and Lutheran churches, a Franciscan
 monastery (founded 1634), the town-hall, and the mint where the
-celebrated Kremnitz gold ducats were formerly struck. The bulk of the
+celebrated Kremnitz gold [[Ducat|ducats]] were formerly struck. The bulk of the
 inhabitants find employment in connexion with the gold and silver mines.
 By means of a tunnel 9 m. in length, constructed in 1851-1852, the water
 is drained off from the mines into the river Gran. According to
@@ -34,11 +34,11 @@ in 1328, being therefore one of the oldest free towns in Hungary.
 
 
 KÖRNER, KARL THEODOR (1791-1813), German poet and patriot, often called
-the German "Tyrtaeus," was born at Dresden on the 23rd of September
+the German "Tyrtaeus," was born at [[Dresden]] on the 23rd of September
 1791. His father, Christian Gottfried Körner (1756-1831), a
 distinguished Saxon jurist, was Schiller's most intimate friend. He was
 educated at the Kreuzschule in Dresden and entered at the age of
-seventeen the mining academy at Freiburg in Saxony, where he remained
+seventeen the mining academy at [[Freiburg]] in Saxony, where he remained
 two years. Here he occupied himself less with science than with verse, a
 collection of which appeared under the title _Knospen_ in 1810. In this
 year he went to the university of Leipzig, in order to study law; but he

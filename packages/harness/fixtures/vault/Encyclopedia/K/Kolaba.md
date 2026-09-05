@@ -10,13 +10,13 @@ tags: [history]
 KOLABA (or COLABA), a district of British India, in the southern
 division of Bombay. Area, 2131 sq. m.; pop. (1901), 605,566, showing an
 increase of 2% in the decade. The headquarters are at Alibagh. Lying
-between the Western Ghats and the sea, Kolaba district abounds in hills,
+between the Western [[Ghats]] and the sea, Kolaba district abounds in hills,
 some being spurs running at right angles to the main range, while others
 are isolated peaks or lofty detached ridges. The sea frontage, of about
 20 m., is throughout the greater part of its length fringed by a belt of
 coco-nut and betel-nut palms. Behind this belt lies a stretch of flat
 country devoted to rice cultivation. In many places along the banks of
-the salt-water creeks there are extensive tracts of salt marshland, some
+the salt-water [[Creek|creeks]] there are extensive tracts of salt marshland, some
 of them reclaimed, some still subject to tidal inundation, and others
 set apart for the manufacture of salt. The district is traversed by a
 few small streams. Tidal inlets, of which the principal are the Nagothna
@@ -34,8 +34,8 @@ takes its name from a little island off Alibagh, which was one of the
 strongholds of Angria, the Mahratta pirate of the 18th century. The same
 island has given its name to Kolaba Point, the spur of Bombay Island
 running south that protects the entrance to the harbour. On Kolaba Point
-are the terminus of the Bombay & Baroda railway, barracks for a European
-regiment, lunatic asylum and observatory.
+are the terminus of the Bombay & Baroda railway, [[Barracks|barracks]] for a European
+regiment, lunatic [[Asylum|asylum]] and observatory.
 
 ## See also
 

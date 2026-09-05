@@ -43,7 +43,7 @@ entered the service of Pontius Pilate as page, and during this period
 committed the first two of the crimes which had been expressly foretold.
 Learning the secret of his birth, he, full of remorse, sought the
 prophet who, he had heard, had power on earth to forgive sins. He was
-accepted as a disciple and promoted to a position of trust, where
+accepted as a [[Disciple|disciple]] and promoted to a position of trust, where
 avarice, the only vice in which he had hitherto been unpractised,
 gradually took possession of his soul, and led to the complete
 fulfilment of his evil destiny. This Judas legend, as given by Jacobus
@@ -63,7 +63,7 @@ various shapes in every important literature of Europe.
 
   The popular hatred of Judas has found strange symbolical expression in
   various parts of Christendom. In Corfu, for instance, the people at a
-  given signal on Easter Eve throw vast quantities of crockery from
+  given signal on [[Easter]] Eve throw vast quantities of crockery from
   their windows and roofs into the streets, and thus execute an
   imaginary stoning of Judas (see Kirkwall, _Ionian Islands_, ii. 47).
   At one time (according to Mustoxidi, _Delle cose corciresi_) the

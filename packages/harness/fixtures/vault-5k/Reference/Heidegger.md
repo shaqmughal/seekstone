@@ -2,7 +2,7 @@
 
 HEIDEGGER, JOHANN HEINRICH (1633-1698), Swiss theologian, was born at
 Barentschweil, in the canton of Zurich, Switzerland, on the 1st of July
-1633. He studied at Marburg and at Heidelberg, where he became the
+1633. He studied at [[Marburg]] and at Heidelberg, where he became the
 friend of J. L. Fabricius (1632-1696), and was appointed _professor
 extraordinarius_ of Hebrew and later of philosophy. In 1659 he was
 called to Steinfurt to fill the chair of dogmatics and ecclesiastical

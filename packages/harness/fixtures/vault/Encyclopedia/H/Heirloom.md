@@ -8,7 +8,7 @@ tags: [history, politics]
 
 # Heirloom
 
-HEIRLOOM, strictly so called in English law, a chattel ("loom" meaning
+HEIRLOOM, strictly so called in [[English Law|English law]], a [[Chattel|chattel]] ("[[Loom|loom]]" meaning
 originally a tool) which by immemorial usage is regarded as annexed by
 inheritance to a family estate. Any owner of such heirloom may dispose
 of it during his lifetime, but he cannot bequeath it by will away from

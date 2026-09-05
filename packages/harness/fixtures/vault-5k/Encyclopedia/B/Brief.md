@@ -52,7 +52,7 @@ points of law or fact to be discussed. This form of brief, it may be added,
 is also adopted for use at the trial in certain states of the Union which
 require printed briefs to be delivered to the court.
 
-In English ecclesiastical law a brief meant letters patent issued out of
+In English [[Ecclesiastical Law|ecclesiastical law]] a brief meant letters patent issued out of
 chancery to churchwardens or other officers for the collection of money for
 church purposes. Such briefs were regulated by a statute of 1704, but are
 now obsolete, though they are still to be found named in one of the rubrics
@@ -68,8 +68,8 @@ distributed among rising juniors of their acquaintance, whose bundles of
 briefs were getting inconveniently large to be carried in their hands.
 These perquisites were abolished in 1830. English brief-bags are now either
 blue or red. Blue bags are those with which barristers provide themselves
-when first called, and it is a breach of etiquette to let this bag be
-visible in court. The only brief-bag allowed to be placed on the desks is
+when first called, and it is a [[Breach|breach]] of etiquette to let this bag be
+visible in court. The only brief-bag allowed to be placed on the [[Desk|desks]] is
 the red bag, which by English legal etiquette is given by a leading counsel
 to a junior who has been useful to him in some important case.
 

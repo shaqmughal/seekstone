@@ -19,7 +19,7 @@ Main, the northern horizon formed by the soft outlines of the Taunus
 range, is one of great natural beauty, the surrounding country being
 richly clad with orchard and forest.
 
-Frankfort is one of the most interesting, as it is also one of the
+[[Frankfort]] is one of the most interesting, as it is also one of the
 wealthiest, of German cities. Apart from its commercial importance, its
 position, close to the fashionable watering-places of Homburg, Nauheim
 and Wiesbaden, has rendered it "cosmopolitan" in the best sense of the
@@ -61,12 +61,12 @@ the Friedberger Anlage to the Rossmarkt and thence continued, by the
 Kaiserstrasse, through the fine new quarter built after 1872, to the
 magnificent principal railway station; and the Steinweg and
 Goethestrasse, which lead by the Bockenheimer Tor to the Bockenheimer
-Landstrasse, a broad boulevard intersecting the fashionable residential
+Landstrasse, a broad [[Boulevard|boulevard]] intersecting the fashionable residential
 suburb to the N.W.
 
 _Churches._--The principal ecclesiastical building in Frankfort is the
 cathedral (Dom). Built of red sandstone, with a massive tower
-terminating in a richly ornamented cupola and 300 ft. in height, it is
+terminating in a richly ornamented [[Cupola|cupola]] and 300 ft. in height, it is
 the most conspicuous object in the city. This building, in which the
 Roman emperors were formerly elected and, since 1562, crowned, was
 founded in 852 by King Louis the German, and was later known as the
@@ -82,7 +82,7 @@ hand, and the whole work was finished in 1881, including the completion
 of the tower, according to the plans of the 15th century architect, Hans
 von Ingelheim. In the interior is the tomb of the German king Guenther of
 Schwarzburg, who died in Frankfort in 1349, and that of Rudolph, the
-last knight of Sachsenhausen, who died in 1371. Among the other Roman
+last [[Knight|knight]] of Sachsenhausen, who died in 1371. Among the other Roman
 Catholic churches are the Leonhardskirche, the Liebfrauenkirche (church
 of Our Lady) and the Deutschordenskirche (14th century) in
 Sachsenhausen. The Leonhardskirche (restored in 1882) was begun in 1219,
@@ -104,7 +104,7 @@ Protestant sermon was preached in 1522. Among the more noteworthy of the
 newer Protestant churches are the Peterskirche (1892-1895) in the North
 German Renaissance style, with a tower 256 ft. high, standing north from
 the Zeil, the Christuskirche (1883) and the Lutherkirche (1889-1893). An
-English church, in Early English Gothic style, situated adjacent to the
+English church, in Early English [[Gothic]] style, situated adjacent to the
 Bockenheimer Landstrasse, was completed and consecrated in 1906.
 
 Of the five synagogues, the chief (or Hauptsynagoge), lying in the
@@ -120,9 +120,9 @@ and has since, from time to time, been enlarged by the purchase of
 adjoining patrician houses, forming a complex of buildings of various
 styles and dates surmounted by a clock tower. The facade was rebuilt
 (1896-1898) in late Gothic style. It was here, in the Wahlzimmer (or
-election-chamber) that the electors or their plenipotentiaries chose the
+election-chamber) that the electors or their plenipotentiaries [[Chose|chose]] the
 German kings, and here in the Kaisersaal (emperors' hall) that the
-coronation festival was held, at which the new king or emperor dined
+[[Coronation|coronation]] festival was held, at which the new king or emperor dined
 with the electors after having shown himself from the balcony to the
 people. The Kaisersaal retained its antique appearance until 1843, when,
 as also again in 1904, it was restored and redecorated; it is now
@@ -163,11 +163,11 @@ their service. The opera-house, erected near the Bockenheimer Tor in
 1873-1880, is a magnificent edifice in the style of the Italian
 Renaissance and ranks among the finest theatres in Europe. There are
 also a theatre (_Schauspielhaus_) in modern Renaissance style
-(1899-1902), devoted especially to drama, a splendid concert hall
+(1899-1902), devoted especially to [[Drama|drama]], a splendid concert hall
 (_Saalbau_), opened in 1861, and numerous minor places of theatrical
 entertainment. The public picture gallery in the Saalhof possesses works
 by Hans Holbein, Gruenewald, Van Dyck, Teniers, Van der Neer, Hans von
-Kulmbach, Lucas Cranach and other masters. The Staedel Art Institute
+Kulmbach, Lucas [[Cranach]] and other masters. The Staedel Art Institute
 (Staedel'sches Kunstinstitut) in Sachsenhausen, founded by the banker J.
 F. Staedel in 1816, contains a picture gallery and a cabinet of
 engravings extremely rich in works of German art. The municipal library,
@@ -178,7 +178,7 @@ with woodcuts by Hans Schaeufelein, and numerous valuable autographs. It
 also contains a fine collection of coins. The Bethmann Museum owes its
 celebrity principally to Dannecker's "Ariadne," but it also possesses
 the original plaster model of Thorwaldsen's "Entrance of Alexander the
-Great into Babylon." There may also be mentioned the Industrial Art
+Great into [[Babylon]]." There may also be mentioned the Industrial Art
 Exhibition of the Polytechnic Association and two conservatories of
 music. Among the scientific institutions the first place belongs to the
 _Senckenberg'sches naturhistorische Museum_, containing valuable
@@ -200,7 +200,7 @@ _Bridges._--Seven bridges (of which two are railway) cross the Main. The
 most interesting of these is the Alte Mainbruecke, a red sandstone
 structure of fourteen arches, 815 ft. long, dating from the 14th
 century. On it are a mill, a statue of Charlemagne and an iron crucifix
-surmounted by a gilded cock. The latter commemorates, according to
+surmounted by a gilded [[Cock|cock]]. The latter commemorates, according to
 tradition, the fowl which was the first living being to cross the bridge
 and thus fell a prey to the devil, who in hope of a nobler victim had
 sold his assistance to the architect. Antiquaries, however, assert that
@@ -230,10 +230,10 @@ west of the central terminus.
 Frankfort lies at the junction of lines of railway connecting it
 directly with all the important cities of south and central Germany.
 Here cross and unite the lines from Berlin to Basel, from Cologne to
-Wuerzburg and Vienna, from Hamburg and Cassel, and from Dresden and
+Wuerzburg and Vienna, from Hamburg and Cassel, and from [[Dresden]] and
 Leipzig to France and Switzerland. The river Main has been dredged so as
 to afford heavy barge traffic with the towns of the upper Main and with
-the Rhine, and cargo boats load and unload alongside its busy quays. A
+the Rhine, and [[Cargo|cargo]] boats load and unload alongside its busy quays. A
 well-devised system of electric tramways provides for local
 communication within the city and with the outlying suburbs.
 
@@ -246,12 +246,12 @@ considerable industrial activity, especially in publishing and printing,
 brewing and the manufacture of quinine. Other sources of employment are
 the cutting of hair for making hats, the production of fancy goods,
 type, machinery, soap and perfumery, ready-made clothing, chemicals,
-electro-technical apparatus, jewelry and metal wares. Market gardening
-is extensively carried on in the neighbourhood and cider largely
+electro-technical apparatus, [[Jewelry|jewelry]] and metal wares. Market gardening
+is extensively carried on in the neighbourhood and [[Cider|cider]] largely
 manufactured. There are two great fairs held in the town,--the
 Ostermesse, or spring fair, and the Herbstmesse, or autumn fair. The
 former, which was the original nucleus of all the commercial prosperity
-of the city, begins on the second Wednesday before Easter; and the
+of the city, begins on the second Wednesday before [[Easter]]; and the
 latter on the second Wednesday before the 8th of September. They last
 three weeks, and the last day save one, called the _Nickelchestag_, is
 distinguished by the influx of people from the neighbouring country. The
@@ -287,12 +287,12 @@ telegraph. In the Opernplatz is an equestrian statue of the emperor
 Wilhelm I. by Buscher.
 
 _Cemeteries._--The new cemetery (opened in 1828) contains the graves of
-Arthur Schopenhauer and Feuerbach, of Passavant the biographer of
+Arthur Schopenhauer and [[Feuerbach]], of Passavant the biographer of
 Raphael, Ballenberger the artist, Hessemer the architect, Soemmerring,
-and Johann Friedrich Boehmer the historian. The Bethmann vault attracts
+and Johann [[Friedrich]] Boehmer the historian. The Bethmann vault attracts
 attention by three bas-reliefs from the chisel of Thorwaldsen; and the
 Reichenbach mausoleum is a vast pile designed by Hessemer at the command
-of William II. of Hesse, and adorned with sculptures by Zwerger and von
+of William II. of [[Hesse]], and adorned with sculptures by Zwerger and von
 der Lausitz. In the Jewish section, which is walled off from the rest of
 the burying-ground, the most remarkable tombs are those of the
 Rothschild family.
@@ -399,7 +399,7 @@ Schwarzburg thought it more prudent to abdicate in his favour. Charles
 granted the city a full amnesty, and confirmed its liberties and
 privileges.
 
-By the famous Golden Bull of 1356 Frankfort was declared the seat of the
+By the famous Golden [[Bull]] of 1356 Frankfort was declared the seat of the
 imperial elections, and it still preserves an official contemporaneous
 copy of the original document as the most precious of the eight imperial
 bulls in its possession. From the date of the bull to the close of the
@@ -417,7 +417,7 @@ instituted imperial chamber, or "_Reichskammergericht_," and it was not
 till 1527 that the chamber was removed to Spires. At the Reformation
 Frankfort heartily joined the Protestant party, and in consequence it
 was hardly treated both by the emperor Charles V. and by the archbishop
-of Mainz. It refused to subscribe the Augsburg Recess, but at the same
+of Mainz. It refused to subscribe the [[Augsburg]] Recess, but at the same
 time it was not till 1536 that it was persuaded to join the League of
 Schmalkalden. On the failure of this confederation it opened its gates
 to the imperial general Bueren on the 29th of December 1546, although he
@@ -429,7 +429,7 @@ of from 8000 to 10,000 soldiers. This resulted in a pestilence which not
 only lessened the population, but threatened to give the death-blow to
 the great annual fairs; and at the close of the war it was found that it
 had cost the city no less than 228,931 gulden. In 1552 Frankfort was
-invested for three weeks by Maurice of Saxony, who was still in arms
+invested for three weeks by [[Maurice]] of Saxony, who was still in arms
 against the emperor Charles V., but it continued to hold out till peace
 was concluded between the principal combatants. Between 1612 and 1616
 occurred the great Fettmilch insurrection, perhaps the most remarkable
@@ -441,7 +441,7 @@ ordinary citizens were roused to assert their rights, and they found a
 leader in Vincenz Fettmilch, who carried the contest to dangerous
 excesses, but lacked ability to bring it to a successful issue. An
 imperial commission was ultimately appointed, and the three principal
-culprits and several of their associates were executed in 1616. It was
+[[Culprit|culprits]] and several of their associates were executed in 1616. It was
 not till 1801 that the last mouldering head of the Fettmilch company
 dropped unnoticed from the Rententurm, the old tower near the bridge. In
 the words of Dr Kriegk, _Geschichte von Frankfurt_, (1871), the
@@ -457,12 +457,12 @@ During the Thirty Years' War Frankfort did not escape. In 1631 Gustavus
 Adolphus garrisoned it with 600 men, who remained in possession till
 they were expelled four years later by the imperial general Lamboy. In
 1792 the citizens had to pay 2,000,000 gulden to the French general
-Custine; and in 1796 Kleber exacted 8,000,000 francs. The independence
+Custine; and in 1796 Kleber exacted 8,000,000 [[Franc|francs]]. The independence
 of Frankfort was brought to an end in 1806, on the formation of the
 Confederation of the Rhine; and in 1810 it was made the capital of the
 grand-duchy of Frankfort, which had an area of 3215 sq. m. with 302,100
 inhabitants, and was divided into the four districts of Frankfort,
-Aschaffenburg, Fulda and Hanau. On the reconstitution of Germany in 1815
+[[Aschaffenburg]], Fulda and Hanau. On the reconstitution of Germany in 1815
 it again became a free city, and in the following year it was declared
 the seat of the German Confederation. In April 1833 occurred what is
 known as the Frankfort Insurrection (Frankfurter Attentat), in which a
@@ -479,9 +479,9 @@ treaty which concluded the Franco-German War was signed in the Swan
 Hotel by Prince Bismarck and Jules Favre, and it is consequently known
 as the peace of Frankfort.
 
-  AUTHORITIES.--F. Rittweger, _Frankfurt im Jahre 1848_ (1898); R. Jung,
-  _Das historische Archiv der Stadt Frankfurt_ (1897); A. Horne,
-  _Geschichte von Frankfurt_ (4th ed., 1903); H. Grotefend, _Quellen zur
+  AUTHORITIES.--F. Rittweger, _Frankfurt im Jahre 1848_ (1898); R. [[Jung]],
+  _Das historische Archiv der Stadt Frankfurt_ (1897); A. [[Horne]],
+  _Geschichte von Frankfurt_ (4th ed., 1903); H. [[Grotefend]], _Quellen zur
   Frankfuerter Geschichte_ (Frankfort, 1884-1888); J. C. von Fichard,
   _Die Entstehung der Reichsstadt Frankfurt_ (Frankfort, 1819); G. L.
   Kriegk, _Geschichte von Frankfurt_ (Frankfort, 1871); J. F. Boehmer,

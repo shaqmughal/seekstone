@@ -8,18 +8,18 @@ far from the main river. Its appearance is almost wholly modern, but
 there is a fine old parish church dedicated to St Cuthbert. It is
 cruciform, and in style mainly transitional Norman. It has a central
 tower surmounted by a spire of the 14th century, which necessitated the
-building of a massive stone screen across the chancel arch to support
+building of a massive stone screen across the [[Chancel|chancel]] [[Arch|arch]] to support
 the piers. Traces of an earlier church were discovered in the course of
 restoration. Educational establishments include an Elizabethan grammar
 school, a training college for school-mistresses (British and Foreign
 School Society), and a technical school. There is a park of forty-four
 acres. The industries of Darlington are large and varied. They include
 worsted spinning mills; collieries, ironstone mines, quarries and
-brickworks; the manufacture of iron and steel, both in the rough and in
+[[Brickwork|brickworks]]; the manufacture of iron and steel, both in the rough and in
 the form of finished articles, as locomotives, bridge castings, ships'
 engines, gun castings and shells, &c. The parliamentary borough returns
 one member. The town was incorporated in 1867, and the corporation
-consists of a mayor, six aldermen and eighteen councillors. Area, 3956
+consists of a [[Mayor|mayor]], six aldermen and eighteen councillors. Area, 3956
 acres.
 
 Not long after the bishop and monks of Lindisfarne had settled at Durham
@@ -28,11 +28,11 @@ in 995, Styr the son of Ulf gave them the vill of Darlington
 probably owing to its situation on the road from Watling Street to the
 mouth of the Tees. Bishop William of St Carileph in that year changed
 the church to a collegiate church, and placed there certain canons whom
-he removed from Durham. Bishop Hugh de Puiset rebuilt the church and
+he removed from Durham. Bishop [[Hugh De Puiset|Hugh de Puiset]] rebuilt the church and
 built a manor house which was for many years the occasional residence of
 the bishops of Durham. Boldon Book, dated 1183, contains the first
 mention of Darlington as a borough, rated at L5, while half a mark was
-due from the dyers of cloth. The next account of the town is in Bishop
+due from the [[Dyer|dyers]] of cloth. The next account of the town is in Bishop
 Hatfield's Survey (c. 1380), which states that "Ingelram Gentill and his
 partners hold the borough of Derlyngton with the profits of the mills
 and dye houses and other profits pertaining to the borough rendering
@@ -50,10 +50,10 @@ of the enterprise. As part of the palatinate of Durham, Darlington sent
 no members to parliament until 1862, when it was allowed to return one
 member. The fairs and markets in Darlington were formerly held by the
 bishop and were in existence as early as the 11th century. According to
-Leland, Darlington was in his time the best market town in the bishopric
+[[Leland]], Darlington was in his time the best market town in the bishopric
 with the exception of Durham. In 1664 the bishop, finding that the
 inhabitants of the town had set up a market "in the season of the year
-unaccustomed," i.e. from the fortnight before Christmas to Whit Monday,
+unaccustomed," i.e. from the fortnight before [[Christmas]] to Whit Monday,
 prohibited them from continuing it. The markets and fairs were finally
 in 1854 purchased by the local authority, and now belong to the
 corporation.

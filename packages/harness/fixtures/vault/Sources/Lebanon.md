@@ -2,15 +2,15 @@
 
 LEBANON (from Semitic _laban_, "to be white," or "whitish," probably
 referring not to snow, but to the bare white walls of chalk or
-limestone which form the characteristic feature of the whole range), in
+[[Limestone|limestone]] which form the characteristic feature of the whole range), in
 its widest sense is the central mountain mass of Syria, extending for
 about 100 m. from N.N.E. to S.S.W. It is bounded W. by the sea, N. by
 the plain Jun Akkar, beyond which rise the mountains of the Ansarieh,
 and E. by the inland plateau of Syria, mainly steppe-land. To the south
-Lebanon ends about the point where the river Litany bends westward, and
+Lebanon ends about the point where the river Litany [[Bend|bends]] westward, and
 at Banias. A valley narrowing towards its southern end, and now called
 the Buka'a, divides the mountainous mass into two great parts. That
-lying to the west is still called Jebel Libnan; the greater part of the
+lying to the west is still called [[Jebel]] Libnan; the greater part of the
 eastern mass now bears the name of the Eastern Mountain (Jebel
 el-Sharki). In Greek the western range was called Libanos, the eastern
 Antilibanos. The southern extension of the latter, Mount Hermon (q.v.),
@@ -25,8 +25,8 @@ especially when viewed from a distance; when seen close at hand only a
 few valleys with perennial streams offer pictures of landscape beauty,
 their rich green contrasting pleasantly with the bare brown and yellow
 mountain sides. The finest scenery is found in N. Lebanon, in the
-Maronite districts of Kesrawan and Bsherreh, where the gorges are
-veritable canyons, and the villages are often very picturesquely
+Maronite districts of Kesrawan and Bsherreh, where the [[Gorges|gorges]] are
+veritable [[Canyon|canyons]], and the villages are often very picturesquely
 situated. The south of the chain is more open and undulating.
 Anti-Lebanon is the barest and most inhospitable part of the system.
 
@@ -64,7 +64,7 @@ Anti-Lebanon is the barest and most inhospitable part of the system.
   Jebel el-Abiad, beneath the main ridge, which as a rule falls away
   suddenly towards the east, occur several small elevated terraces
   having a southward slope; among these are the Wadi en-Nusur ("vale of
-  eagles"), and the basin of the lake Yammuna, with its intermittent
+  [[Eagle|eagles]]"), and the basin of the lake Yammuna, with its intermittent
   spring Neb'a el-Arba'in. Of the streams which descend into the Buka'a,
   the Berdani rises in Jebel Sunnin, and enters the plain by a deep and
   picturesque mountain cleft at Zahleh.
@@ -77,13 +77,13 @@ Anti-Lebanon is the barest and most inhospitable part of the system.
   sea are Kam Sauda or Timarun, Fumm el-Mizab and Zahr el-Kandil. The
   height of Zahr el-Kazib, by barometric measurement, is 10,018 ft.;
   that of the others does not reach 10,000 ft. South from them is the
-  pass (8351 ft.) which leads from Baalbek to Tripoli; the great
+  pass (8351 ft.) which leads from [[Baalbek]] to Tripoli; the great
   mountain amphitheatre on the west side of its summit is remarkable.
   Farther south is a second group of lofty summits--the snow-capped
   Sunnin, visible from Beirut; its height is 8482 ft. Between this
   group and the more southerly Jebel Keniseh (about 6700 ft.) lies the
   pass (4700 ft.) traversed by the French post road between Beirut and
-  Damascus. Among the bare summits still farther south are the long
+  [[Damascus]]. Among the bare summits still farther south are the long
   ridge of Jebel el-Baruk (about 7000 ft.), the Jebel Niha, with the
   Tau'amat Niha (about 6100 ft.), near which is a pass to Sidon, and the
   Jebel Rihan (about 5400 ft.).
@@ -178,7 +178,7 @@ Anti-Lebanon is the barest and most inhospitable part of the system.
   _Arbutus Andrachne_. Higher up, between 3700 and 4200 ft., a tall
   pine, _Pinus Brutia_, is characteristic. Between 4200 and 6200 ft. is
   the region of the two most interesting forest trees of Lebanon, the
-  cypress and the cedar. The former still grows thickly, especially in
+  [[Cypress|cypress]] and the cedar. The former still grows thickly, especially in
   the valley of the Kadisha; the horizontal is the prevailing variety.
   In the upper Kadisha valley there is a cedar grove of about three
   hundred trees, amongst which five are of gigantic size. (See also
@@ -190,10 +190,10 @@ Anti-Lebanon is the barest and most inhospitable part of the system.
   sometimes attaining the size of trees (_Juniperus excelsa_, _J.
   rufescens_ and, with fruit as large as plums, _J. drupacea_). But the
   chief ornament of Lebanon is the _Rhododendron ponticum_, with its
-  brilliant purple flower clusters; a peculiar evergreen, _Vinca
+  brilliant purple [[Flower|flower]] clusters; a peculiar evergreen, _Vinca
   libanotica_, also adds beauty to this zone. (3) Into the alpine region
   (6200 to 10,400 ft.) penetrate a few very stunted oaks (_Quercus
-  subalpina_), the junipers already mentioned and a barberry (_Berberis
+  subalpina_), the junipers already mentioned and a [[Barberry|barberry]] (_Berberis
   cretica_), which sometimes spreads into close thickets. Then follow
   the low, dense, prone, pillow-like dwarf bushes, thorny and grey,
   common to the Oriental highlands--_Astragalus_ and the peculiar
@@ -204,23 +204,23 @@ Anti-Lebanon is the barest and most inhospitable part of the system.
   is noticeable, and also a vetch (_Vicia canescens_) excellent for
   sheep. The spring vegetation, which lasts until July, appears to be
   rich, especially as regards showy plants, such as _Corydalis_,
-  _Gagea_, _Colchicum_, _Puschkinia_, _Geranium_, _Ornithogalum_, &c.
+  _Gagea_, _[[Colchicum]]_, _Puschkinia_, _Geranium_, _Ornithogalum_, &c.
   The flora of the highest ridges, along the edges of the snow patches,
   exhibits no forms related to the northern alpine flora, but
   suggestions of it are found in a _Draba_, an _Androsace_, an _Alsine_
   and a violet, occurring, however, only in local species. Upon the
   highest summits are found _Saponaria Pumilio_ (resembling our _Silene
-  acaulis_) and varieties of _Galium_, _Euphorbia_, _Astragalus_,
+  acaulis_) and varieties of _Galium_, _[[Euphorbia]]_, _Astragalus_,
   _Veronica_, _Jurinea_, _Festuca_, _Scrophularia_, _Geranium_,
   _Asphodeline_, _Allium_, _Asperula_; and, on the margins of the snow
-  fields, a _Taraxacum_ and _Ranunculus demissus_. The alpine flora of
+  [[Fields|fields]], a _Taraxacum_ and _Ranunculus demissus_. The alpine flora of
   Lebanon thus connects itself directly with the Oriental flora of lower
   altitudes, and is unrelated to the glacial flora of Europe and
   northern Asia.
 
   _Zoology._--There is nothing of special interest about the fauna of
   Lebanon. Bears are no longer numerous; the panther and the ounce are
-  met with; the wild hog, hyaena, wolf and fox are by no means rare;
+  met with; the wild hog, hyaena, wolf and [[Fox|fox]] are by no means rare;
   jackals and gazelles are very common. The polecat and hedgehog also
   occur. As a rule there are not many birds, but the eagle and the
   vulture may occasionally be seen; of eatable kinds partridges and wild
@@ -240,7 +240,7 @@ is consequently much emigration, the Christian surplus going mainly to
 Egypt, and to America, the Druses to the latter country and to the
 Hauran. The emigrants to America, however, usually return after making
 money, build new houses and settle down. The singularly complex
-population is composed of Christians, Maronites, and Orthodox Eastern
+population is composed of Christians, [[Maronites]], and Orthodox Eastern
 and Uniate; of Moslems, both Sunni and Shiah (Metawali); and of Druses.
 
   (a) _Maronites_ (q.v.) form about three-fifths of the whole and have
@@ -249,7 +249,7 @@ and Uniate; of Moslems, both Sunni and Shiah (Metawali); and of Druses.
   practically extinct among them and with the decline of the Druses, and
   the great stake they have acquired in agriculture, they have laid
   aside much of their warlike habit together with their arms. Even their
-  instinct of nationality is being sensibly impaired by their gradual
+  instinct of nationality is being sensibly impaired by their [[Gradual|gradual]]
   assimilation to the Papal Church, whose agents exercise from Beirut an
   increasing influence on their ecclesiastical elections and church
   government. They are strong also in the Buka'a, and have colonies in
@@ -298,12 +298,12 @@ and Uniate; of Moslems, both Sunni and Shiah (Metawali); and of Druses.
   have lost the Ottoman support which used to compensate for their
   numerical inferiority as compared with the Christians; and they are
   fast losing also their old habits and distinctiveness. No longer armed
-  or wearing their former singular dress, the remnant of them in Lebanon
+  or wearing their former singular [[Dress|dress]], the remnant of them in Lebanon
   seems likely ere long to be assimilated to the "Osmanli" Moslems.
   Their feud with the Maronites, whose accentuation in the middle of the
   19th century was largely due to the tergiversations of the ruling
   Shehab family, now reduced to low estate, is dying away, but they
-  retain something of their old clan feeling and feudal organization,
+  retain something of their old [[Clan|clan]] feeling and feudal organization,
   especially in Shuf.
 
 The mixed population, as a whole, displays the usual characteristics of
@@ -324,14 +324,14 @@ to the coast; but olive-oil is made, together with various wines, of
 which the most famous is the _vino d'oro_, a sweet liqueur-like
 beverage. This wine is not exported in any quantity, as it will not bear
 a voyage well and is not made to keep. Bee-keeping is general, and there
-is an export of eggs to Egypt.
+is an export of [[Egg|eggs]] to Egypt.
 
 _History._--The inhabitants of Lebanon have at no time played a
 conspicuous part in history. There are remains of prehistoric
 occupation, but we do not even know what races dwelt there in the
 historical period of antiquity. Probably they belonged chiefly to the
-Aramaean group of nationalities; the Bible mentions Hivites (Judges iii.
-3) and Giblites (Joshua xiii. 5). Lebanon was included within the ideal
+Aramaean group of nationalities; the Bible mentions [[Hivites]] (Judges iii.
+3) and Giblites ([[Joshua]] xiii. 5). Lebanon was included within the ideal
 boundaries of the land of Israel, and the whole region was well known to
 the Hebrews, by whose poets its many excellences are often praised. How
 far the Phoenicians had any effective control over it is unknown; the
@@ -340,14 +340,14 @@ apparently did the Greek Seleucid kingdom have much to do with the
 Mountain. In the Roman period the district of _Phoenice_ extended to
 Lebanon. In the 2nd century, with the inland districts, it constituted a
 subdivision of the province of Syria, having Emesa (Homs) for its
-capital. From the time of Diocletian there was a _Phoenice ad Libanum_,
+capital. From the time of [[Diocletian]] there was a _Phoenice ad Libanum_,
 with Emesa as capital, as well as a _Phoenice Maritima_ of which Tyre
 was the chief city. Remains of the Roman period occur throughout
 Lebanon. By the 6th century it was evidently virtually independent
 again; its Christianization had begun with the immigration of
 Monothelite sectaries, flying from persecution in the Antioch district
 and Orontes valley. At all times Lebanon has been a place of refuge for
-unpopular creeds. Large part of the mountaineers took up Monothelism and
+unpopular [[Creeds|creeds]]. Large part of the mountaineers took up Monothelism and
 initiated the national distinction of the Maronites, which begins to
 emerge in the history of the 7th century. The sectaries, after helping
 Justinian II. against the caliph Abdalmalik, turned on the emperor and
@@ -361,12 +361,12 @@ Cairo by Ismael Darazi and other emissaries of the caliph Hakim and his
 vizier Hamza. The subsequent history of Lebanon to the middle of the
 19th century will be found under Druses and Maronites, and it need only
 be stated here that Latin influence began to be felt in N. Lebanon
-during the Frank period of Antioch and Palestine, the Maronites being
+during the [[Frank]] period of Antioch and Palestine, the Maronites being
 inclined to take the part of the crusading princes against the Druses
 and Moslems; but they were still regarded as heretic Monothelites by
 Abulfaragius (Bar-Hebraeus) at the end of the 13th century; nor is their
 effectual reconciliation to Rome much older than 1736, the date of the
-mission sent by the pope Clement XII., which fixed the actual status of
+mission sent by the pope [[Clement]] XII., which fixed the actual status of
 their church. An informal French protection had, however, been exercised
 over them for some time previously, and with it began the feud of
 Maronites and Druses, the latter incited and spasmodically supported by
@@ -397,7 +397,7 @@ Druses, and locally called _amir_.
   under a military governor (_mushir_) who must be a Christian in the
   service of the sultan, approved by the powers, and has, so far, been
   chosen from the Roman Catholics owing to the great preponderance of
-  Latin Christians in the province. He resides at Deir al-Kamar, an old
+  Latin Christians in the province. He resides at [[Deir]] al-Kamar, an old
   seat of the Druse amirs. At first appointed for three years, then for
   ten, his term has been fixed since 1892 at five years, the longer term
   having aroused the fear of the Porte, lest a personal domination
@@ -421,7 +421,7 @@ Druses, and locally called _amir_.
   directly, and must meet the needs of the province, before any sum is
   remitted to the Imperial Treasury. The latter has to make deficits
   good. Ecclesiastical jurisdiction is exercised only over the clergy,
-  and all rights of asylum are abolished.
+  and all rights of [[Asylum|asylum]] are abolished.
 
   This constitution has worked well on the whole, the only serious
   hitches having been due to the tendency of governors-general and
@@ -441,7 +441,7 @@ Druses, and locally called _amir_.
 
   See DRUSES. Also V. Cuinet, _Syrie, Liban et Palestine_ (1896); N.
   Verney and G. Dambmann, _Puissances étrangères en Syrie_, &c. (1900);
-  G. Young, _Corps de droit ottoman_, vol. i. (1905); G. E. Post, _Flora
+  G. Young, _[[Corps]] de [[Droit|droit]] ottoman_, vol. i. (1905); G. E. Post, _Flora
   of Syria_, &c. (1896); M. von Oppenheim, _Vom Mittelmeer_, &c. (1899).
        (A. So.; D. G. H.)
 

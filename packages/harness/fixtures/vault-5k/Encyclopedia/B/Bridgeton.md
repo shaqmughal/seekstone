@@ -1,7 +1,7 @@
 # Bridgeton
 
 BRIDGETON, a city, port of entry, and the county-seat of Cumberland county,
-New Jersey, U.S.A., in the south part of the state, on Cohansey creek, 38
+New Jersey, U.S.A., in the south part of the state, on Cohansey [[Creek|creek]], 38
 m. S. of Philadelphia. Pop. (1890) 11,424; (1900) 13,913, of whom 653 were
 foreign-born and 701 were negroes; (1905) 13,624; (1910) 14,209. It is
 served by the West Jersey & Sea Shore and the Central of New Jersey

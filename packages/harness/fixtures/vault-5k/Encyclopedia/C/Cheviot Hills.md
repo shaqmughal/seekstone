@@ -9,12 +9,12 @@ northward tendency at the eastern end, where the ridge culminates in the
 Cheviot, 2676 ft. Its chief elevations from this point south-westward
 fall abruptly to 2034 ft. in Windygate Hill, and then more gradually to
 about 1600 ft. above the pass, followed by a high road from Redesdale.
-Beyond this are Carter Fell (1815) and Peel Fell (1964), after which two
+Beyond this are [[Carter]] Fell (1815) and Peel Fell (1964), after which two
 lines of lesser elevation branch westward and southward to enclose
 Liddesdale. The hills are finely grouped, of conical and high-arched
 forms, and generally grass-covered. Their flanks are scored with deep
 narrow glens in every direction, carrying the headwaters of the Till,
-Coquet and North Tyne on the south, and tributaries of the Tweed on the
+[[Coquet]] and North Tyne on the south, and tributaries of the Tweed on the
 north. The range is famous for a valuable breed of sheep, which find
 abundant pasture on its smooth declivities. In earlier days it was the
 scene of many episodes of border warfare, and its name is inseparably
@@ -33,7 +33,7 @@ in this district.
   covered towards the north by the Old Red Sandstone volcanic series and
   on the south by Carboniferous strata. Another area is traversed by the
   Jed Water and the Edgerston Burn and is surrounded by rocks of Old Red
-  Sandstone age. The strata consist of greywackes, flags and shales with
+  Sandstone age. The strata consist of [[Greywacke|greywackes]], [[Flag|flags]] and shales with
   seams and zones of graptolite shale which yield fossils sparingly.
 
   On the upturned and denuded edges of the Silurian strata a great pile
@@ -62,7 +62,7 @@ in this district.
   On the northern slopes of the western part of the Cheviots the
   representatives of the Cementstone group of the Carboniferous system
   come to the surface, where they consist of shales, clays, mudstones,
-  sandstones with cementstones and occasional bands of marine limestone.
+  sandstones with cementstones and occasional bands of marine [[Limestone|limestone]].
   These are followed in normal order by the Fell Sandstone group,
   comprising a succession of sandstones with intercalations of red and
   green clays and impure cementstone bands. They form the higher part of

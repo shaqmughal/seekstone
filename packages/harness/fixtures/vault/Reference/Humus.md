@@ -8,7 +8,7 @@ tags: [history]
 # Humus
 
 HUMUS (a Latin word meaning the ground), a product of decomposing
-organic matter. It is especially present in peat bogs, and also occurs
+organic matter. It is especially present in peat [[Bog|bogs]], and also occurs
 in surface soils, to which it imparts a brown or black colour. It is one
 of the most important soil-constituents from the agricultural point of
 view; it is the chief source of nitrogenous food for plants, and

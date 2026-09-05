@@ -3,7 +3,7 @@
 CHODKIEWICZ, JAN KAROL (1560-1621), Polish general, was the son of
 Hieronymus Chodkiewicz, castellan of Wilna. After being educated at the
 Wilna academy he went abroad to learn the science of war, fighting in
-the Spanish service under Alva, and also under Maurice of Nassau. In
+the Spanish service under Alva, and also under [[Maurice]] of Nassau. In
 1593 he married the wealthy Sophia Mielecka, by whom he had one son who
 predeceased him. His first military service at home was against the
 Cossack rising of Nalewajko as lieutenant to Zolkiewski, and he
@@ -15,7 +15,7 @@ brilliantly distinguished himself, capturing fortress after fortress and
 repulsing the duke of Sudermania, afterwards Charles IX, from Riga. In
 1604 he captured Dorpat, twice defeated the Swedish generals at Bialy
 Kamien, and was rewarded with the grand bâton of Lithuania. Criminally
-neglected by the diet, which from sheer niggardliness turned a deaf ear
+neglected by the diet, which from sheer niggardliness turned a deaf [[Ear|ear]]
 to all his requests for reinforcements and for supplies and money to pay
 his soldiers, Chodkiewicz nevertheless more than held his own against
 the Swedes. His crowning achievement was the great victory of Kirkholm
@@ -36,7 +36,7 @@ relieved Riga besides capturing Pernau. Meanwhile the war with Muscovy
 broke out, and Chodkiewicz was sent against Moscow with an army of 2000
 men--though if there had been a spark of true patriotism in Poland he
 could easily have marshalled 100,000. Moreover, the diet neglected to
-pay for the maintenance even of this paltry 2000, with the result that
+pay for the [[Maintenance|maintenance]] even of this paltry 2000, with the result that
 they mutinied and compelled their leader to retreat through the heart of
 Muscovy to Smolensk. Not till the crown prince Wladislaus arrived with
 tardy reinforcements did the war assume a different character,
@@ -44,10 +44,10 @@ Chodkiewicz opening a new career of victory by taking the fortress of
 Drohobu in 1617. The Muscovite war had no sooner been ended by the
 treaty of Deulina than Chodkiewicz was hastily despatched southwards to
 defend the southern frontier against the Turks, who after the
-catastrophe of Cecora (see ZOLKIEWSKI) had high hopes of conquering
+[[Catastrophe|catastrophe]] of Cecora (see ZOLKIEWSKI) had high hopes of conquering
 Poland altogether. An army of 160,000 Turkish veterans led by Sultan
 Osman in person advanced from Adrianople towards the Polish frontier,
-but Chodkiewicz crossed the Dnieper in September 1621 and entrenched
+but Chodkiewicz crossed the [[Dnieper]] in September 1621 and entrenched
 himself in the fortress of Khotin right in the path of the Ottoman
 advance. Here for a whole month the Polish hero held the sultan at bay,
 till the first fall of autumn snow compelled Osman to withdraw his

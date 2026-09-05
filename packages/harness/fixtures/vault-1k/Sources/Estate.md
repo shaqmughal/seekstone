@@ -24,7 +24,7 @@ meaning of "an estate" is an interest in lands, and this conception lies
 at the root of the English theory of property in land. "The first thing
 that the student has to do," says Joshua Williams (_Law of Real
 Property_), "is to get rid of the idea of absolute ownership. Such an
-idea is quite unknown to the English law. No man is in law the absolute
+idea is quite unknown to the [[English Law|English law]]. No man is in law the absolute
 owner of lands. He can only hold an estate in them." That is, the notion
 of tenure, of holding by a tenant from a lord, prevails. The last lord
 of all from whom all land was ultimately held was the king. Persons
@@ -131,7 +131,7 @@ The conception of the "three estates of the realm" as the great
 divisions of legislative authority led in England to the coining of the
 phrase "fourth estate," to indicate some power of corresponding
 magnitude in the state distinct from them. Fielding thus spoke of "the
-mob," and Hazlitt of Cobbett; but the phrase is now usually applied to
+mob," and [[Hazlitt]] of [[Cobbett]]; but the phrase is now usually applied to
 the press, a usage originating in a speech by Burke (Carlyle,
 _Hero-worship_, Lect. v.).
 

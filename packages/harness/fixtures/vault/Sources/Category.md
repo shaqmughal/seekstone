@@ -13,7 +13,7 @@ ordinary language and in philosophy with the general significance of
 "class" or "group." In popular language it is used for any large group
 of similar things, and still more generally as a mere synonym for the
 word "class." The word was introduced into philosophy as a technical
-term by Aristotle, who, however, several times used it in its original
+term by [[Aristotle]], who, however, several times used it in its original
 sense of "accusation." He also used the verb [Greek: kategorein], to
 accuse, in the specific logical sense, to predicate; [Greek: tho
 kategoroumenon] becomes the predicate; and [Greek: kategorikhe protasis]
@@ -21,7 +21,7 @@ may be translated as affirmative proposition. But though the word thus
 received a new signification from Aristotle, it is not on that account
 certain that the thing it was taken to signify was equally a novelty in
 philosophy. In fact we find in the records of Oriental and early Greek
-thought something corresponding to the Aristotelian classification.
+thought something corresponding to the Aristotelian [[Classification|classification]].
 
 
     Hindu philosophy.
@@ -40,7 +40,7 @@ thought something corresponding to the Aristotelian classification.
   Aristotelian doctrine, the categories of which may with truth be
   described as significations of simple terms, [Greek: tha katha
   medemian sueplokhen legomena]. The six categories of Kanada are
-  Substance, Quality, Action, Genus, Individuality, and Concretion or
+  Substance, Quality, Action, Genus, Individuality, and [[Concretion]] or
   Co-inherence. To these is added Non-Existence, Privation or Negation.
   _Substance_ is the permanent substance in which _Qualities_ exist.
   _Action_, belonging to or inhering in substances, is that which
@@ -58,7 +58,7 @@ thought something corresponding to the Aristotelian classification.
   Within Greek philosophy itself there were foreshadowings of the
   Aristotelian doctrine, but nothing so important as to warrant the
   conclusion that Aristotle was directly influenced by it. Doubtless the
-  One and Many, Being and Non-Being, of the Eleatic dialectic, with
+  One and Many, Being and Non-Being, of the Eleatic [[Dialectic|dialectic]], with
   their subordinate oppositions, may be called categories, but they are
   not so in the Aristotelian sense, and have little or nothing in common
   with the later system. Their starting-point and results are wholly
@@ -73,19 +73,19 @@ thought something corresponding to the Aristotelian classification.
 
     Plato.
 
-  One naturally turns to Plato when endeavouring to discover the genesis
+  One naturally turns to Plato when endeavouring to discover the [[Genesis|genesis]]
   of any Aristotelian doctrine, and undoubtedly there are in the
   Platonic writings many detached discussions in which the matter of the
   categories is touched upon. Special terms also are anticipated at
   various times, e.g. [Greek: poiotes] in the _Theaetetus_, [Greek:
-  poiein] and [Greek: paschein] in the _Gorgias_, and [Greek: pros ti]
+  poiein] and [Greek: paschein] in the _[[Gorgias]]_, and [Greek: pros ti]
   in the _Sophist._[3] But there does not seem to be anything in Plato
   which one could say gave occasion directly and of itself to the
   Aristotelian doctrine; and even when we take a more comprehensive view
   of the Platonic system and inquire what in it corresponds to the
-  widest definition of categories, say as ultimate elements of thought
+  widest [[Definition|definition]] of categories, say as ultimate elements of thought
   and existence, we receive no very definite answer. The Platonic
-  dialectic never worked out into system, and only in two dialogues do
+  dialectic never worked out into system, and only in two [[Dialogue|dialogues]] do
   we get anything like a list of ultimate or root-notions. In the
   _Sophist_, Being, Rest and Motion ([Greek: tho on autho kahi stasis
   kahi kinesis]) are laid down as [Greek: megista ton genon].[4] To
@@ -95,7 +95,7 @@ thought something corresponding to the Aristotelian classification.
   same dialogue (262 seq.) is found the important distinction of [Greek:
   onoma] and [Greek: rhema], noun and verb. The _Philebus_ presents us
   with a totally distinct classification into four elements--the
-  Infinite, the Finite, the Mixture or Unity of both and the Cause of
+  [[Infinite]], the Finite, the Mixture or Unity of both and the Cause of
   this unity ([Greek: tho apeiron, tho peras, he summixis, he aitia]).
   It is at once apparent that, however these classifications are related
   to one another and to the Platonic system, they lie in a different
@@ -110,7 +110,7 @@ thought something corresponding to the Aristotelian classification.
   among the books of the _Organon_. The authenticity of the treatise was
   doubted in early times by some of the commentators, and the doubts
   have been revived by such scholars as L. Spengel and Carl Prantl. On
-  the other hand, C.A. Brandis, H. Bonitz, and Ed. Zeller are of opinion
+  the other hand, C.A. [[Brandis]], H. Bonitz, and Ed. Zeller are of opinion
   that the tract is substantially Aristotle's. The matter is hardly one
   that can be decided either _pro_ or _con_ with anything like
   certainty; but this is of little moment, for the doctrine of the
@@ -119,7 +119,7 @@ thought something corresponding to the Aristotelian classification.
 
   It is surprising that there should yet be so much uncertainty as to
   the real significance of the categories, and that we should be in
-  nearly complete ignorance as to the process of thought by which,
+  nearly complete [[Ignorance|ignorance]] as to the process of thought by which,
   Aristotle was led to the doctrine. On both points It is difficult to
   extract from the matter before us anything approaching a satisfactory
   solution. The terms employed to denote the categories have been
@@ -144,7 +144,7 @@ thought something corresponding to the Aristotelian classification.
   predicate at all.
 
   In the [Greek: Kategoriai] Aristotle prefixes to his enumeration a
-  grammatico-logical disquisition on homonyms and synonyms, and on the
+  grammatico-logical disquisition on [[Homonym|homonyms]] and synonyms, and on the
   elements of the proposition, i.e. subject and predicate. He draws
   attention to the fact that things are spoken of either in the
   connexion known as the proposition, e.g. "a man runs," or apart from
@@ -186,7 +186,7 @@ thought something corresponding to the Aristotelian classification.
   bears all the marks of an early and preliminary study. For true
   understanding we must turn to the _Metaphysics_, where the doctrine is
   handled at large. The discussion of Being in that work starts with a
-  distinction that at once gives us a clue. [Greek: tho on] is spoken of
+  distinction that at once gives us a [[Clue|clue]]. [Greek: tho on] is spoken of
   in many ways; of these four are classified--[Greek: tho on katha
   sumbebekos, tho om hos alethes, tho on dunamei kai energeia], and
   [Greek: tho on kata ta schemata ton kategorion]. It is evident from
@@ -243,14 +243,14 @@ thought something corresponding to the Aristotelian classification.
   Zeller will be sufficient.
 
   Aristotle has also left us in doubt on another point. Why should there
-  be only _ten_ categories? and why should these be the ten? Kant and
+  be only _ten_ categories? and why should these be the ten? [[Kant]] and
   Hegel, it is well known, signalize as the great defect in the
   Aristotelian categories the want of a principle, and yet some of
   Aristotle's expressions would warrant the inference that he _had_ a
   principle, and that he thought his arrangement exhaustive. The leading
   idea of all later attempts at reduction to unity of principle, the
   division into substance and accident, was undoubtedly not overlooked
-  by Aristotle, and Fr. Brentano[7] has collected with great diligence
+  by Aristotle, and Fr. [[Brentano]][7] has collected with great [[Diligence|diligence]]
   passages which indicate how the complete list might have been deduced
   from this primary distinction. His tabular arrangements (pp. 175, 177)
   are particularly deserving of attention. The results, however, are
@@ -265,7 +265,7 @@ thought something corresponding to the Aristotelian classification.
   Stoics adopted a fivefold arrangement of highest classes, [Greek:
   genikotata]. [Greek: to on] or [Greek: ti], Being, or somewhat in
   general, was subdivided into [Greek: hypokeimena] or subjects, [Greek:
-  poia] or qualities in general, which give definiteness to the blank
+  poia] or qualities in general, which give definiteness to the [[Blank|blank]]
   subject, [Greek: pos echonta], modes which further determine the
   subject, and [Greek: pros ti pos echonta], definite relative modes.
   These categories are so related that each involves the existence of
@@ -301,7 +301,7 @@ thought something corresponding to the Aristotelian classification.
   can hardly be classed among the categories; nor does Leibnitz's chance
   suggestion of a fivefold arrangement into Substance, Quantity,
   Quality, Action and Passion, and Relations, demand any particular
-  notice. Locke, too, has a classification into Substances, Modes and
+  notice. [[Locke]], too, has a classification into Substances, Modes and
   Relations, but in it he has manifestly no intention of drawing up a
   table of categories. What in his system corresponds most nearly to the
   modern view of these elements is the division of kinds of real
@@ -329,14 +329,14 @@ thought something corresponding to the Aristotelian classification.
   Aristotelian doctrine. To Kant knowledge was only possible as the
   synthesis of the material or a posteriori with the formal or a priori.
   The material to which a priori forms of the understanding were applied
-  was the sensuous content of the pure intuitions, Time and Space. This
+  was the sensuous content of the pure [[Intuition|intuitions]], Time and Space. This
   content could not be _known_ by sense, but only by intellectual
   function. But the understanding in the process of knowledge makes use
   of the universal form of synthesis, the judgment; intellectual
   function is essentially of the nature of judgment or the reduction of
   a manifold to unity through a conception. The specific or type forms
   of such function will, therefore, be expressed in judgments; and a
-  complete classification of the forms of judgments is the key by which
+  complete classification of the forms of judgments is the [[Key|key]] by which
   one may hope to discover the system of categories. Such a list of
   judgments Kant thought he found in ordinary logic, and from it he drew
   up his well-known scheme of the twelve categories. These forms are the
@@ -366,7 +366,7 @@ thought something corresponding to the Aristotelian classification.
 
     Problematical  \       IV.        / Possibility and Impossibility.
     Assertoric      >  Of Modality   <  Existence and Non-Existence.
-    Apodictic      /                  \ Necessity and Contingency.
+    [[Apodictic]]      /                  \ Necessity and Contingency.
 
 
     Fichte.
@@ -383,7 +383,7 @@ thought something corresponding to the Aristotelian classification.
   that in the categories, or pure conceptions, are contained all the
   modes of a priori synthesis. Further, his principle has so far the
   unity he claimed for it, the unity of a single function, but the
-  specific forms in which such unity manifests itself are not themselves
+  specific forms in which such unity [[Manifest|manifests]] itself are not themselves
   accounted for by this principle. Kant himself hints more than once at
   the possibility of a completely rational system of the categories, at
   an evolution from one single movement of thought, and in his _Remarks
@@ -395,7 +395,7 @@ thought something corresponding to the Aristotelian classification.
   they apply only to sensuous and consequently subjective material.
   Outside of and beyond them lies the thing-in-itself, which to Kant
   represented the ultimately real. This subjectivism was a distinct
-  hiatus in the Kantian system, and against it principally Fichte and
+  [[Hiatus|hiatus]] in the Kantian system, and against it principally Fichte and
   Hegel directed criticism. It was manifest that at the root of the
   whole system of categories there lay the synthetizing unity of
   self-consciousness, and it was upon this unity that Fichte fixed as
@@ -441,7 +441,7 @@ thought something corresponding to the Aristotelian classification.
   _Wissenschaftslehre_ contains the only real advance in the treatment
   of the categories from the time of Kant to that of Hegel.[9] This, of
   course, does not imply that there were not certain elements in
-  Schelling, particularly in the _Transcendental Idealism_, that are of
+  Schelling, particularly in the _Transcendental [[Idealism]]_, that are of
   value in the transition to the later system; but on the whole it is
   only in Hegel that the whole matter of the Kantian categories has been
   assimilated and carried to a higher stage. The Hegelian philosophy, in
@@ -454,7 +454,7 @@ thought something corresponding to the Aristotelian classification.
   which they were inapplicable. Self-consciousness, which was, even with
   Kant, the _nodus_ or kernel whence the categories sprang, was nothing
   but a logical centre,--the reality was concealed. There was thus a
-  dualism, to overcome which is the first step in the Hegelian system.
+  [[Dualism|dualism]], to overcome which is the first step in the Hegelian system.
   The principle, if there is to be one, must be universally applicable,
   all-comprehensive. Self-consciousness is precisely the principle
   wanted; it is a unity, an identity, containing in itself a
@@ -518,7 +518,7 @@ thought something corresponding to the Aristotelian classification.
 
     Ulrici.
 
-  Hermann Ulrici works out a system of the categories from a
+  [[Hermann]] Ulrici works out a system of the categories from a
   psychological or logical point of view. To him the fundamental fact of
   philosophy is the distinguishing activity (_unterscheidende
   Tatigkeit_) of thought. Thought is only possible by distinction,
@@ -536,10 +536,10 @@ thought something corresponding to the Aristotelian classification.
   (2nd ed., 1872); it is in many points well deserving of attention.
 
 
-    Renouvier, Cousin, Hamilton, Mill.
+    Renouvier, [[Cousin]], Hamilton, Mill.
 
   The definition of the categories by the able French logician Charles
-  Bernard Renouvier in some respects resembles that of Ulrici. To him
+  [[Bernard]] Renouvier in some respects resembles that of Ulrici. To him
   the primitive fact is Relation, of which all the categories are but
   forms. "The categories," he says, "are the primary and irreducible
   laws of knowledge, the fundamental relations which determine its form
@@ -566,7 +566,7 @@ thought something corresponding to the Aristotelian classification.
     Modern psychologists.
 
   By modern psychologists the subject has been closely investigated.
-  Professor G.F. Stout (_Manual of Psychology_, vol. ii. pp. 312 foll.)
+  Professor G.F. Stout (_[[Manual]] of Psychology_, vol. ii. pp. 312 foll.)
   defines categories as "forms of cognitive consciousness, universal
   principles or relations presupposed either in all cognition or in all
   cognition of a certain kind." He then treats External (or Physical)
@@ -576,12 +576,12 @@ thought something corresponding to the Aristotelian classification.
   As contrasted with the ideational, the perceptual consciousness is
   concerned with practice. Perception tells the child of things as
   separate entities, not in their ultimate relations as parts of a
-  coherent whole. G.T. Ladd (_Psychology Descriptive and Explanatory_,
+  coherent whole. G.T. [[Ladd]] (_Psychology Descriptive and Explanatory_,
   ch. xxi., on "Space, Time and Causality") defines the categories from
   the psychological standpoint as "those highly abstract conceptions
-  which the mind frames by reflection upon its own most general modes of
-  behaviour. They are our own notions resulting from co-operation of
-  imagination and judgment, concerning the ultimate and unanalyzable
+  which the mind [[Frame|frames]] by reflection upon its own most general modes of
+  behaviour. They are our own notions resulting from [[Co-Operation|co-operation]] of
+  [[Imagination|imagination]] and judgment, concerning the ultimate and unanalyzable
   forms of our own existence and development." In other words, the
   categories are highly abstract, have no content, and are realized as a
   kind of thinking which has for its object all the other mental
@@ -597,7 +597,7 @@ thought something corresponding to the Aristotelian classification.
   Kategorien_ (Tubingen, 1900); R. Eisler, _Worterbuch der
   philospphischen Begriffe_ (Berlin, 1899), pp. 400-409; S. Joda,
   _Studio critico su le categorie_ (Naples, 1881); H. Vaihinger, _Die
-  transcendentale Deduktion der Kategorien_ (Halle, 1902); H.W.B.
+  transcendentale Deduktion der Kategorien_ ([[Halle]], 1902); H.W.B.
   Joseph, _Introduction to Logic_ (Oxford, 1906), ch. iii.; F.H.
   Bradley, _Principles of Logic_ (1883); B. Bosanquet's _Knowledge and
   Reality_ (1885, 2nd ed. 1892); histories of philosophy. For further
@@ -609,16 +609,16 @@ thought something corresponding to the Aristotelian classification.
 FOOTNOTES:
 
   [1] For details of this and other Hindu systems see H. T. Colebrooke,
-    _Miscellaneous Essays_ (1837; new ed., E. B. Cowell, 1873); H. H.
+    _Miscellaneous Essays_ (1837; new ed., E. B. [[Cowell]], 1873); H. H.
     Wilson, _Essays and Lectures on the Religions of the Hindus_
     (1861-1862); Monier Williams, _Indian Wisdom_ (4th ed., 1893); A. E.
-    Gough's _Vaiseshika-Sutras_ (Benares, 1873), and _Philosophy of the
+    Gough's _Vaiseshika-Sutras_ ([[Benares]], 1873), and _Philosophy of the
     Upanishads_ (London, 1882, 1891); Max Muller, _Sanskrit Literature_,
     and particularly his appendix to Thomson's _Laws of Thought_.
 
   [2] The supposed origin of that theory in the treatise [Greek: perhi
     tou pantos], ascribed to Archytas (q.v.), has been proved to be an
-    error. The treatise itself dates in all probability from the
+    [[Error|error]]. The treatise itself dates in all probability from the
     Neo-Pythagorean schools of the 2nd century A.D.
 
   [3] Prantl, _Ges. der Logik_, i. 74-75; F.A. Trendelenburg,
@@ -645,8 +645,8 @@ FOOTNOTES:
     Vernunft_), or by Schopenhauer, who desired to reduce all the
     categories to one--that of Causality. We should require a new
     philosophical vocabulary even to translate the extraordinary
-    compounds in which K.C.F. Krause expounds his theory of the
-    categories. Notices of the changes introduced by Antonio
+    compounds in which K.C.F. [[Krause]] expounds his theory of the
+    categories. Notices of the changes introduced by [[Antonio]]
     Rosmini-Serbati, and of Vincenzo Gioberti's remarkable theory, will
     be found in Ragnisco's work referred to below.
 
@@ -659,7 +659,7 @@ FOOTNOTES:
 
   [13] _Discussions_, p. 577.
 
-  [14] _Logic_, i. 83; cf. Bain, _Ded. Log._, App. C.
+  [14] _Logic_, i. 83; cf. Bain, _Ded. [[Log]]._, App. C.
 
 ## See also
 

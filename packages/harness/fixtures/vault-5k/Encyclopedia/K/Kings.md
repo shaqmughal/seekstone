@@ -41,7 +41,7 @@ histories. They have at least one source in common, and a single
 editorial hand was at work on both. From an historical point of view,
 however, the division which makes the beginning of Solomon's reign the
 beginning of a new book is very convenient. The conquest of Palestine by
-the Israelite tribes, recounted in the book of Joshua, leads up to the
+the Israelite tribes, recounted in the book of [[Joshua]], leads up to the
 era of the "judges" (Judg. ii. 6-23; iii. sqq.), and the books of Samuel
 follow with the institution of the monarchy and the first kings. The
 books of Kings bring to a close the life of David (c. 975 B.C.), which
@@ -94,7 +94,7 @@ stage, as Ewald long ago recognized.
   rearrangement of details by later scribes.
 
   (a) The continued efforts of successive redactors can be traced in the
-  chronology of the book. The chronological method of the narrative
+  [[Chronology|chronology]] of the book. The chronological method of the narrative
   appears most clearly in the history after Solomon, where the events of
   each king's reign are thrown into a kind of stereotyped framework on
   this type: "In the twentieth year of Jeroboam, king of Israel, Asa
@@ -109,7 +109,7 @@ stage, as Ewald long ago recognized.
   elaborate synchronisms between contemporary monarchs of the north and
   south give an aspect of great precision to the chronology. But in
   reality the data for Judah and Israel do not agree, and remarkable
-  deviations are sometimes found. The key to the chronology is 1 Kings
+  deviations are sometimes found. The [[Key|key]] to the chronology is 1 Kings
   vi. 1, which, as Wellhausen has shown, was not found in the original
   Septuagint, and contains internal evidence of post-Chaldean date. In
   fact the system as a whole is necessarily later than 535 B.C., the
@@ -126,7 +126,7 @@ stage, as Ewald long ago recognized.
   unfavourable judgment upon all its rulers, not merely to the effect
   that they did evil in the sight of Yahweh but that they followed in
   the way of Jeroboam. But his opinion was manifestly not shared by
-  Elijah or Elisha, nor by the original narrator of the lives of these
+  Elijah or [[Elisha]], nor by the original narrator of the lives of these
   prophets. Moreover, the redactor in 1 Kings iii. 2 seq. regards
   worship at the high places as sinful after the building of the Temple,
   although even the best kings before Hezekiah made no attempt to
@@ -176,7 +176,7 @@ historical importance are treated with extreme brevity (Omri, Jeroboam
 (2), Uzziah), and similar meagreness of historical information is
 apparent when the editorial details and the religious judgments are
 eliminated from the accounts of Nadab, Baasha, and the successors of
-Jeroboam (2) in Israel or of Abijam and Manasseh in Judah.
+Jeroboam (2) in Israel or of Abijam and [[Manasseh]] in Judah.
 
 
   Solomon.
@@ -341,12 +341,12 @@ This is due to the inclusion of a number of narratives which are partly
 of a political character, and partly are interested in the work of
 contemporary prophets. The climax is reached in the overthrow of Omri's
 dynasty by the usurper Jehu, when, after a period of close intercourse
-between Israel and Judah, its two kings perished. The annals of each
+between Israel and Judah, its two kings perished. The [[Annals|annals]] of each
 kingdom would naturally deal independently with these events, but the
 present literary structure of 1 Kings xvii.-2 Kings xi. is extremely
 complicated by the presence of the narratives referred to. First as
 regards the framework, the epitome of Ahab is preserved in xvi. 29-34
-and xxii. 39; it contains some unknown references (his ivory house and
+and xxii. 39; it contains some unknown references (his [[Ivory|ivory]] house and
 cities), and a stern religious judgment upon his Phoenician alliance, on
 which the intervening chapters throw more light. The colourless summary
 of his son Ahaziah (xxii. 51-53)[6] finds its conclusion in 2 Kings i.
@@ -354,7 +354,7 @@ of his son Ahaziah (xxii. 51-53)[6] finds its conclusion in 2 Kings i.
 (v. 17b). Jehoram is again introduced in iii. 1-3 (note the variant
 synchronism), but the usual conclusion is wanting. In Judah, Jehoshaphat
 was succeeded by his son Jehoram, who had married Athaliah the daughter
-of Ahab and Jezebel (viii. 16-24); to the annalistic details (vv. 20-22)
+of Ahab and [[Jezebel]] (viii. 16-24); to the annalistic details (vv. 20-22)
 2 Chron. xxi. 11 sqq. adds a novel narrative. His son Ahaziah (viii. 25
 sqq.) is similarly denounced for his relations with Israel. He is again
 introduced in the isolated ix. 29, while Lucian's recension adds after
@@ -395,7 +395,7 @@ features of the narratives of Elijah and Elisha.
   The episode of Elijah and Ahaziah (2 Kings i.) is marked by the
   revelation through an angel. The prophet's name appears in an unusual
   form (viz. _eliyyah_, not -_yahu_), especially in vv. 2-8. The
-  prediction of Ahaziah's fate finds a parallel in 2 Chron. xxi. 12-15;
+  prediction of Ahaziah's [[Fate|fate]] finds a parallel in 2 Chron. xxi. 12-15;
   the more supernatural additions have been compared with the late story
   in 1 Sam. xix. 18-24. The ascension of Elijah (2 Kings ii.) is related
   as the introduction to the work of Elisha, which apparently begins
@@ -417,7 +417,7 @@ features of the narratives of Elijah and Elisha.
   the complete cessation of hostilities in vi. 23) compare the general
   style of 1 Kings xx., xxii.; with the famine in Samaria, vi. 25; cf.
   ibid. xvii.; with the victory, cf. ibid. xx. The account of Elisha and
-  Hazael (viii. 7-15) implies friendly relations with Damascus (in v. 12
+  Hazael (viii. 7-15) implies friendly relations with [[Damascus]] (in v. 12
   the terrors of war are in the future), but the description of Jehu's
   accession (ix.) is in the midst of hostilities. Ch. ix. 7-10a are a
   Deuteronomic insertion amplifying the message in vv. 3-6 (cf. 1 Kings
@@ -573,7 +573,7 @@ promulgates the reforms themselves.[9]
   correct position and ignores 2 Kings xxiii. 24-27 (see however the
   Septuagint). For the last four kings of Judah, the references to the
   worship at the high places (presumably abolished by Josiah) are
-  wanting, and the literary source is only cited for Jehoiakim; xxiv. 3
+  wanting, and the literary source is only cited for [[Jehoiakim]]; xxiv. 3
   seq. (and probably v. 2), which treat the fall of Judah as the
   punishment for Manasseh's sins, are a Deuteronomistic insertion (2
   Chron. xxxvi. 6 sqq. differs widely; see, however, the Septuagint); v.
@@ -635,10 +635,10 @@ the annalistic excerpts found in Kings by other passages, or uses new
 narratives which at times are clearly based upon older sources. Next (b)
 the Septuagint proves that Kings did not reach its present form until a
 very late date; "each represents a stage and not always the same stage
-in the long protracted labours of the redactors" (Kuenen).[11] In
+in the long protracted labours of the redactors" ([[Kuenen]]).[11] In
 agreement with this are the unambiguous indications of the post-exilic
 age (especially in the Judaean history) consisting of complete
-passages, obvious interpolations, and also sporadic phrases in
+passages, obvious [[Interpolation|interpolations]], and also sporadic phrases in
 narratives whose pre-exilic origin is sometimes clear and sometimes only
 to be presumed. Further (c), the Septuagint supports the independent
 conclusion that the elaborate synchronisms belong to a late stage in the
@@ -655,7 +655,7 @@ detailed narratives will bear upon the question, as also the relation of
 lengths of the reigns of the Judaean kings form an integral part of the
 framework, and their total, with fifty years of exile, allows four
 hundred and eighty years from the beginning of the Temple to the return
-from Babylon.[12] This round number (cf. again 1 Kings vi. 1) points to
+from [[Babylon]].[12] This round number (cf. again 1 Kings vi. 1) points to
 a date subsequent to 537, and Robertson Smith has observed that almost
 all events dated by the years of the kings of Jerusalem have reference
 to the affairs of the Temple. This suggests a connexion between the
@@ -705,7 +705,7 @@ that which has been (intentionally?) left most obscure: the chronicler's
 history of the Judaean monarchy (Chron.--Ezra--Nehemiah), as any
 comparison will show, has its own representation of the course of
 events, and has virtually superseded both Kings and Jeremiah, which have
-now an abrupt conclusion. (See further S. A. Cook, _Jew. Quart. Rev._
+now an abrupt conclusion. (See further S. A. [[Cook]], _Jew. Quart. Rev._
 (1907), pp. 158 sqq.; and the articles JEWS: _History_, §§ 20, 22;
 PALESTINE: _History_).
 
@@ -713,7 +713,7 @@ PALESTINE: _History_).
   Hexateuch_, pp. 266-302; H. Winckler, _Alttest. Untersuchungen_
   (1892); and B. Stade, _Akademische Reden_ (1899; on 1 Kings v.-vii.; 2
   Kings x.-xiv.; xv.-xxi.); S. R. Driver, _Lit. of O. T._ (1909); see
-  also C. Holzhey, _Das Buch. d. Könige_ (1899); the commentaries of
+  also C. Holzhey, _Das [[Buch]]. d. Könige_ (1899); the commentaries of
   Benzinger (1899) and Kittel (1900), and especially F. C. Kent,
   _Israel's Hist. and Biog. Narr._ (1905). The article by W. R. Smith,
   _Ency. Brit._, 9th ed. (partly retained here), is revised and
@@ -790,7 +790,7 @@ FOOTNOTES:
     of Israel_, p. 147. seq.; and K. Marti, _Ency. Bib._ art.
     "Chronology."
 
-  [13] Against earlier doubts by Havet (1878), Vernes (1887) and Horst
+  [13] Against earlier doubts by [[Havet]] (1878), Vernes (1887) and [[Horst]]
     (1888), see W. E. Addis, _Documents of Hexateuch_, ii. 2 sqq.; but
     the whole question has been reopened by E. Day (loc. cit. above) and
     R. H. Kennett (_Journ. Theol. Stud._, July 1906, 481 sqq.).

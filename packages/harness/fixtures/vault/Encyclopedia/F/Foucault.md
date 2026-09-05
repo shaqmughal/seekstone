@@ -1,19 +1,19 @@
 # Foucault
 
-FOUCAULT, JEAN BERNARD LEON (1819-1868), French physicist, was the son
+FOUCAULT, JEAN [[Bernard|BERNARD]] [[Leon|LEON]] (1819-1868), French physicist, was the son
 of a publisher at Paris, where he was born on the 18th of September
 1819. After an education received chiefly at home, he studied medicine,
 which, however, he speedily abandoned for physical science, the
 improvement of L.J.M. Daguerre's photographic processes being the object
 to which he first directed his attention. During three years he was
 experimental assistant to Alfred Donne (1801-1878) in his course of
-lectures on microscopic anatomy. With A.H.L. Fizeau he carried on a
+lectures on microscopic anatomy. With A.H.L. [[Fizeau]] he carried on a
 series of investigations on the intensity of the light of the sun, as
-compared with that of carbon in the electric arc, and of lime in the
-flame of the oxyhydrogen blowpipe; on the interference of heat rays, and
+compared with that of [[Carbon|carbon]] in the electric arc, and of lime in the
+flame of the oxyhydrogen [[Blowpipe|blowpipe]]; on the interference of heat rays, and
 of light rays differing greatly in lengths of path; and on the chromatic
 polarization of light. In 1849 he contributed to the _Comptes Rendus_ a
-description of an electromagnetic regulator for the electric arc lamp,
+description of an electromagnetic regulator for the electric arc [[Lamp|lamp]],
 and, in conjunction with H.V. Regnault, a paper on binocular vision. By
 the use of a revolving mirror similar to that used by Sir Charles
 Wheatstone for measuring the rapidity of electric currents, he was
@@ -24,7 +24,7 @@ demonstration in 1851 of the diurnal motion of the earth by the rotation
 of the plane of oscillation of a freely suspended, long and heavy
 pendulum exhibited by him at the Pantheon in Paris, and again in the
 following year by means of his invention the gyroscope, he received the
-Copley medal of the Royal Society in 1855, and in the same year he was
+[[Copley]] medal of the Royal Society in 1855, and in the same year he was
 made physical assistant in the imperial observatory at Paris. In
 September of that year he discovered that the force required for the
 rotation of a copper disk becomes greater when it is made to rotate
@@ -36,8 +36,8 @@ telescopes the form of a spheroid or a paraboloid of revolution. With
 Wheatstone's revolving mirror he in 1862 determined the absolute
 velocity of light to be 298,000 kilometres (about 185,000 m.) a second,
 or 10,000 kilom. less than that obtained by previous experimenters. He
-was created in that year a member of the Bureau des Longitudes and an
-officer of the Legion of Honour, in 1864 a foreign member of the Royal
+was created in that year a member of the [[Bureau]] des Longitudes and an
+officer of the [[Legion]] of Honour, in 1864 a foreign member of the Royal
 Society of London, and next year a member of the mechanical section of
 the Institute. In 1865 appeared his papers on a modification of Watt's
 governor, upon which he had for some time been experimenting with a view

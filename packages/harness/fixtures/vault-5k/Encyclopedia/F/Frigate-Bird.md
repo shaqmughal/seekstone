@@ -3,9 +3,9 @@
 FRIGATE-BIRD, the name commonly given by English sailors, on account of
 the swiftness of its flight, its habit of cruising about near other
 species and of daringly pursuing them, to a large sea-bird[1]--the
-_Fregata aquila_ of most ornithologists--the _Fregatte_ of French and
+_Fregata [[Aquila|aquila]]_ of most ornithologists--the _Fregatte_ of French and
 the _Rabihorcado_ of Spanish mariners. It was placed by Linnaeus in the
-genus _Pelecanus_, and its assignment to the family _Pelecanidae_ had
+genus _Pelecanus_, and its [[Assignment|assignment]] to the family _Pelecanidae_ had
 hardly ever been doubted till Professor St George Mivart declared
 (_Trans. Zool. Soc._ x. p. 364) that, as regards the postcranial part of
 its axial skeleton, he could not detect sufficiently good characters to
@@ -32,7 +32,7 @@ Two species of _Fregata_ are considered to exist, though they differ in
 little but size and geographical distribution. The larger, _F. aquila_,
 has a wide range all round the world within the tropics and at times
 passes their limits. The smaller, _F. minor_, appears to be confined to
-the eastern seas, from Madagascar to the Moluccas, and southward to
+the eastern seas, from [[Madagascar]] to the Moluccas, and southward to
 Australia, being particularly abundant in Torres Strait,--the other
 species, however, being found there as well. Having a spread of wing
 equal to a swan's and a very small body, the buoyancy of these birds is
@@ -53,9 +53,9 @@ to portend a hurricane.[2] Generally seen singly or in pairs, except
 when the prospect of prey induces them to congregate, they breed in
 large companies, and O. Salvin has graphically described (_Ibis_, 1864,
 p. 375) one of their settlements off the coast of British Honduras,
-which he visited in May 1862. Here they chose the highest
+which he visited in May 1862. Here they [[Chose|chose]] the highest
 mangrove-trees[3] on which to build their frail nests, and seemed to
-prefer the leeward side. The single egg laid in each nest has a white
+prefer the leeward side. The single [[Egg|egg]] laid in each nest has a white
 and chalky shell very like that of a cormorant's. The nestlings are
 clothed in pure white down, and so thickly as to resemble puff-balls.
 When fledged, the beak, head, neck and belly are white, the legs and
@@ -81,7 +81,7 @@ FOOTNOTES:
     species is occasionally known.
 
   [3] Captain Taylor, however, found their nests as well on low bushes
-    of the same tree in the Bay of Fonseca (_Ibis_, 1859, pp. 150-152).
+    of the same tree in the Bay of [[Fonseca]] (_Ibis_, 1859, pp. 150-152).
 
 ## References
 

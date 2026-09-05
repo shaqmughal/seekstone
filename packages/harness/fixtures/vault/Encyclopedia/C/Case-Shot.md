@@ -1,7 +1,7 @@
 # Case-Shot
 
 CASE-SHOT, a projectile used in ordnance for fighting at close quarters.
-It consists of a thin metal case containing a large number of bullets or
+It consists of a thin metal case containing a large number of [[Bullet|bullets]] or
 other small projectiles (see AMMUNITION). Case-shot was formerly called
 "canister," though the term now used occurs as early as 1625.
 

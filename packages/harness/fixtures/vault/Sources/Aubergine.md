@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Aubergine"
 # Aubergine
 
 AUBERGINE (diminutive of Fr. _auberge_, a variant of _alberge_, a kind
-of peach), or EGG PLANT (_Solanum melongena_, var. _ovigerum_), a tender
+of peach), or [[Egg|EGG]] PLANT (_Solanum melongena_, var. _ovigerum_), a tender
 annual widely cultivated in the warmer parts of the earth, and in France
 and Italy, for the sake of its fruits, which are eaten as a vegetable.
 The seed should be sown early in February in a warm pit, where the

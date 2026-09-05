@@ -2,7 +2,7 @@
 
 FLYING BUTTRESS, in architecture, the term given to a structural feature
 employed to transmit the thrust of a vault across an intervening space,
-such as an aisle, chapel or cloister, to a buttress built outside the
+such as an aisle, chapel or cloister, to a [[Buttress|buttress]] built outside the
 latter. This was done by throwing a semi-arch across to the vertical
 buttress. Though employed by the Romans and in early Romanesque work, it
 was generally masked by other constructions or hidden under a roof, but
@@ -14,7 +14,7 @@ above the other, and there are cases where the thrust was transmitted to
 two or even three buttresses across intervening spaces. As a vertical
 buttress, placed at a distance, possesses greater power of resistance to
 thrust than if attached to the wall carrying the vault, vertical
-buttresses as at Lincoln and Westminster Abbey were built outside the
+buttresses as at [[Lincoln]] and Westminster Abbey were built outside the
 chapterhouse to receive the thrust. All vertical buttresses are, as a
 rule, in addition weighted with pinnacles to give them greater power of
 resistance.

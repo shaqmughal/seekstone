@@ -9,7 +9,7 @@ type: source
 
 GABLONZ (Czech, _Jablonec_), a town of Bohemia, Austria, 94 m. N.E. of
 Prague by rail. Pop. (1900) 21,086, mostly German. It is the chief seat
-of the glass pearl and imitation jewelry manufacture, and has also an
+of the glass pearl and imitation [[Jewelry|jewelry]] manufacture, and has also an
 important textile industry, and produces large quantities of hardware,
 papier mache and other paper goods.
 

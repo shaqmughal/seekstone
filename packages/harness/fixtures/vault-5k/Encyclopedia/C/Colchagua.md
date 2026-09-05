@@ -1,6 +1,6 @@
 # Colchagua
 
-COLCHAGUA, a province of central Chile, bounded N. by Santiago and
+COLCHAGUA, a province of central [[Chile]], bounded N. by Santiago and
 O'Higgins, E. by Argentina, S. by Curicó, and W. by the Pacific. Its
 area is officially estimated at 3856 sq. m.; pop. (1895) 157,566.
 Extending across the great central valley of Chile, the province has a

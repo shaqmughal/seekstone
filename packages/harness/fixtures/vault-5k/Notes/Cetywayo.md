@@ -29,7 +29,7 @@ strengthened, but he had a feud with the Transvaal Boers as to the
 possession of the territory between the Buffalo and Pongola rivers, and
 encouraged the chief Sikukuni (Secocoeni) in his struggle against the
 Boers. This feud with the Boers was inherited by the British government
-on the annexation of the Transvaal in 1877. Cetywayo's attitude became
+on the [[Annexation|annexation]] of the Transvaal in 1877. Cetywayo's attitude became
 menacing; he allowed a minor chief to make raids into the Transvaal, and
 seized natives within the Natal border.
 
@@ -37,8 +37,8 @@ Sir Bartle Frere, who became high commissioner of South Africa in March
 1877, found evidence which convinced him that the Kaffir revolt of that
 year on the eastern border of Cape Colony was part of a design or desire
 "for a general and simultaneous rising of Kaffirdom against white
-civilization"; and the Kaffirs undoubtedly looked to Cetywayo and the
-Zulus as the most redoubtable of their champions. In December 1878 Frere
+civilization"; and the [[Kaffirs]] undoubtedly looked to Cetywayo and the
+Zulus as the most redoubtable of their [[Champion|champions]]. In December 1878 Frere
 sent the Zulu king an ultimatum, which, while awarding him the territory
 he claimed from the Boers, required him to make reparation for the
 outrages committed within the British borders, to receive a British
@@ -47,7 +47,7 @@ without the necessity of having first "washed their spears." Cetywayo,
 who had found a defender in Bishop Colenso, vouchsafed no reply, and
 Lord Chelmsford entered Zululand, at the head of 13,000 troops, on the
 11th of January 1879 to enforce the British demands. The disaster of
-Isandhlwana and the defence of Rorke's Drift signalized the commencement
+[[Isandhlwana]] and the defence of Rorke's [[Drift]] signalized the commencement
 of the campaign, but on the 4th of July the Zulus were utterly routed at
 Ulundi. Cetywayo became a fugitive, but was captured on the 28th of
 August. His kingdom was divided among thirteen chiefs and he himself
@@ -71,7 +71,7 @@ to St Helena, permitted to return (1898), and granted the position of a
 chief. In December 1907 Dinizulu was imprisoned at Maritzburg, being
 suspected of complicity in the revolt which had occurred in Zululand the
 previous year. He was kept many months waiting trial, there being
-considerable friction between the colonial government and the British
+considerable [[Friction|friction]] between the colonial government and the British
 government over the incident. He was eventually brought to trial in
 November 1908 before a special court, his defence (to the cost of which
 the British government contributed L2000) being undertaken by Mr W.P.
@@ -79,7 +79,7 @@ Schreiner. The trial was not concluded until March 1909. The charge of
 high treason was not proved, but Dinizulu was convicted of harbouring
 rebels and was sentenced to four years' imprisonment.
 
-  _The Life of Sir Bartle Frere_, by John Martineau, vol. ii. chaps. 18
+  _The Life of Sir Bartle Frere_, by John [[Martineau]], vol. ii. chaps. 18
   to 21, contains much information concerning Cetywayo.
 
 ## See also

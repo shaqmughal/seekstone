@@ -17,7 +17,7 @@ des galeopitheques_, illustrated by sixty-two folio plates, drawn and
 engraved by himself. The colouring in these plates was unusually
 beautiful, and was applied by a method devised by himself. Audebert died
 in Paris in 1800, leaving complete materials for another great work,
-_Histoire des colibris, des oiseaux-mouches, des jacamars et des
+_Histoire des colibris, des oiseaux-mouches, des [[Jacamar|jacamars]] et des
 promerops_, which was published in 1802. Two hundred copies were printed
 in folio, one hundred in large quarto, and fifteen were printed with the
 whole text in letters of gold. Another work, left unfinished, was also

@@ -8,14 +8,14 @@ not perform this function satisfactorily, but cloths made with
 huckaback, as well as those made with the honeycomb and similar weaves,
 are particularly well adapted for this purpose. The body or foundation
 of the cloth is plain and therefore sound in structure (see designs A
-and B in figure), but at fixed intervals some of the warp threads float
+and B in figure), but at fixed intervals some of the warp threads [[Float|float]]
 on the surface of the cloth, while at the same time a number of weft
 threads float on the back. Thus the cloth has a somewhat similar
 appearance on both sides. Weave A is the ordinary and most used huck or
 huckaback, while weave B, which is usually woven with double weft, is
 termed the Devon or medical huck. The cloths made by the use of these
 weaves were originally all linen, but are too often adulterated with
-inferior fibres.
+inferior [[Fibres|fibres]].
 
 [Illustration]
 

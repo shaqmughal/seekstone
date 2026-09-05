@@ -8,9 +8,9 @@ type: source
 # Lampertheim
 
 LAMPERTHEIM, a town in the grand-duchy of Hesse-Darmstadt, 8 m. N. from
-Mannheim by the railway to Frankfort-on-Main via Biblis, and at the
+[[Mannheim]] by the railway to [[Frankfort-On-Main|Frankfort-on-Main]] via Biblis, and at the
 junction of lines to Worms and Weinheim. It contains a Roman Catholic
-church and a fine Evangelical church, and has chemical and cigar
+church and a fine Evangelical church, and has chemical and [[Cigar|cigar]]
 factories. Pop. (1900) 8020.
 
 ## See also

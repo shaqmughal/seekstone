@@ -2,7 +2,7 @@
 
 CARACCI, LODOVICO, AGOSTINO, and ANNIBALE, three celebrated Italian
 painters, were born at Bologna in 1555, 1557, and 1560 respectively.
-Lodovico, the eldest, son of a butcher, was uncle to the two younger,
+Lodovico, the eldest, son of a [[Butcher|butcher]], was uncle to the two younger,
 Agostino and Annibale, sons of a tailor, and had nearly finished his
 professional studies before the others had begun their education. From
 being a reputed dunce, while studying under Tintoretto in Venice, he
@@ -16,8 +16,8 @@ their handicrafts (Agostino being a goldsmith, and Annibale a tailor)
 for the profession of painting. Agostino he first placed under the care
 of Fontana, retaining Annibale in his own studio; but he afterwards sent
 both to Venice and Parma to copy the works of Titian, Tintoretto and
-Correggio, on which his own taste had been formed. On their return, the
-three relatives, assisted by an eminent anatomist, Anthony de la Tour,
+[[Correggio]], on which his own taste had been formed. On their return, the
+three relatives, assisted by an eminent anatomist, [[Anthony]] de [[La Tour|la Tour]],
 opened, in 1589, an academy of painting under the name of the
 Incamminati (or, as we might paraphrase it, the Right Road), provided
 with numerous casts, books and bassi-rilievi, which Lodovico had
@@ -27,7 +27,7 @@ their academy rose rapidly in popular estimation, and soon every other
 school of art in Bologna was deserted and closed. They continued
 together till, at the invitation of Cardinal Farnese, Annibale and
 Agostino went to Rome in 1600 to paint the gallery of the cardinal's
-palace. The superior praises awarded to Agostino inflamed the jealousy
+palace. The superior praises awarded to Agostino inflamed the [[Jealousy|jealousy]]
 of Annibale, already kindled by the brilliant reception given by the
 pupils of the Incamminati to Agostino's still highly celebrated picture
 of the "Communion of St Jerome," and the latter was dismissed to Parma
@@ -36,15 +36,15 @@ the eve of finishing his renowned painting of "Celestial, Terrestrial
 and Venal Love." Annibale continued to work alone at the Farnese gallery
 till the designs were completed; but, disappointed at the miserable
 remuneration offered by the cardinal, he retired to Naples, where an
-unsuccessful contest for a great work in the church of the Jesuits threw
-him into a fever, of which he died in 1609. Lodovico always remained at
-his academy in Bologna (excepting for a short visit to his cousin at
+unsuccessful contest for a great work in the church of the [[Jesuits]] threw
+him into a [[Fever|fever]], of which he died in 1609. Lodovico always remained at
+his academy in Bologna (excepting for a short visit to his [[Cousin|cousin]] at
 Rome), though invited to execute paintings in all parts of the country.
 He died in 1619, and was interred in the church of Santa Maria
 Maddalena. The works of Lodovico are numerous in the chapels of Bologna.
 The most famous are--The "Madonna standing on the moon, with St Francis
 and St Jerome beside her, attended by a retinue of angels"; "John the
-Baptist," "St Jerome," "St Benedict" and "St Cecilia"; and the "Limbo of
+Baptist," "St Jerome," "St Benedict" and "St [[Cecilia]]"; and the "Limbo of
 the Fathers." He was by far the most amiable of the three painters,
 rising superior to all feelings of jealousy towards his rivals, and
 though he received large sums for his productions, yet, from his almost
@@ -57,8 +57,8 @@ introduced into some of his engravings. The works of Annibale are more
 diversified in style than those of the others, and comprise specimens of
 painting after the manner of Correggio, Titian, Paolo Veronese, Raphael
 and Michelangelo. The most distinguished are the "Dead Christ in the lap
-of the Madonna"; the "Infant and St John"; "St Catherine"; "St Roch
-distributing alms" (now in the Dresden gallery); and the "Saviour wailed
+of the Madonna"; the "[[Infant]] and St John"; "St Catherine"; "St Roch
+distributing alms" (now in the [[Dresden]] gallery); and the "Saviour wailed
 over by the Maries," at present in possession of the earl of Carlisle.
 He frequently gave great importance to the landscape in his
 compositions. The reputation of Annibale is tarnished by his jealousy

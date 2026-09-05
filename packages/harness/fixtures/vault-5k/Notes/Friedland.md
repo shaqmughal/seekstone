@@ -25,7 +25,7 @@ the meantime was fighting hard to hold Bennigsen, for Napoleon feared
 that the Russians meant to evade him again. Actually, by 6 A.M.
 Bennigsen had nearly 50,000 men across the river and forming up west of
 Friedland. His infantry, in two lines, with artillery, extended between
-the Heinrichsdorf-Friedland road and the upper bends of the river.
+the Heinrichsdorf-Friedland road and the upper [[Bend|bends]] of the river.
 Beyond the right of the infantry, cavalry and Cossacks extended the line
 to the wood N.E. of Heinrichsdorf, and small bodies of Cossacks
 penetrated even to Schwonau. The left wing also had some cavalry and,
@@ -60,7 +60,7 @@ in June and on firm ground the old mobility of the French reasserted its
 value. The infantry division of Dupont advanced rapidly from Posthenen,
 the cavalry divisions drove back the Russian squadrons into the now
 congested masses of foot on the river bank, and finally the artillery
-general Senarmont advanced a mass of guns to case-shot range. It was the
+general Senarmont advanced a mass of guns to [[Case-Shot|case-shot]] range. It was the
 first example of the terrible artillery preparations of modern warfare,
 and the Russian defence collapsed in a few minutes. Ney's exhausted
 infantry were able to pursue the broken regiments of Bennigsen's left

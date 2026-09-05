@@ -7,7 +7,7 @@ topic: empires
 # Kalyan
 
 KALYAN, a town of British India, in the Thana district of Bombay,
-situated 33 m. N.E. of Bombay city, where the two main lines of the
+situated 33 m. N.E. of [[Bombay City|Bombay city]], where the two main lines of the
 Great Indian Peninsula railway diverge. Pop. (1901), 10,749. There is a
 considerable industry of rice-husking. Kalyan is known to have been the
 capital of a kingdom and a centre of sea-borne commerce in the early

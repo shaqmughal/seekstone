@@ -15,7 +15,7 @@ any subject. The early meaning of the word in English, at the end of the
 16th century, was that of a religious hypocrite. The origin is obscure;
 it appears in French, in the forms _bigot_ or _bigos_, in the 12th
 century romance of Girard of Roussillon, where it is applied to certain
-tribes of southern Gaul, and in the _Roman du Rou_ of Wace (d. 1175?) as
+tribes of southern [[Gaul]], and in the _Roman du Rou_ of Wace (d. 1175?) as
 an abusive name given by the French to the Normans:
 
   "Moult on Franchois Normans laidis
@@ -26,11 +26,11 @@ an abusive name given by the French to the Normans:
 To this use has been attached the absurd origin from "_ne se, bi god_,"
 the words in which, according to the 12th century chronicle, Rollo, duke
 of the Normans, refused to kiss the foot of Charles III., the Simple,
-king of the West Franks. The word may have some connexion with a
+king of the West [[Franks]]. The word may have some connexion with a
 corruption of Visigoth, a suggestion to which the use in the Girard
 romance lends colour. The meaning changed in French to that of
 "religious hypocrite" through the application, in the feminine _bigote_,
-to the members of the religious sisterhoods called Beguines (q.v.).
+to the members of the religious sisterhoods called [[Beguines]] (q.v.).
 
 ## References
 

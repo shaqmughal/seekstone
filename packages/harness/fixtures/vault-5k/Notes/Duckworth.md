@@ -1,10 +1,10 @@
 # Duckworth
 
 DUCKWORTH, SIR JOHN THOMAS (1748-1817), British admiral, was born at
-Leatherhead, in Surrey, on the 28th of February 1748. He entered the
+[[Leatherhead]], in Surrey, on the 28th of February 1748. He entered the
 navy in 1759, and obtained his commission as lieutenant in June 1770,
 when he was appointed to the "Princess Royal," the flagship of Admiral
-Byron, in which he sailed to the West Indies. While serving on board
+[[Byron]], in which he sailed to the West Indies. While serving on board
 this vessel he took part in the engagement with the French fleet under
 Count D'Estaing. In July 1779 he became commander, and was appointed to
 the "Rover" sloop; in June of the following year he attained the rank of
@@ -13,7 +13,7 @@ convoy. The outbreak of the war with France gave him his first
 opportunity of obtaining marked distinction. Appointed first to the
 "Orion" and then to the "Queen" in the Channel Fleet, under the command
 of Lord Howe, he took part in the three days' naval engagement with the
-Brest fleet, which terminated in a glorious victory on the 1st of June
+[[Brest]] fleet, which terminated in a glorious victory on the 1st of June
 1794. For his conduct on this occasion he received a gold medal and the
 thanks of parliament. He next proceeded to the West Indies, where he was
 stationed for some time at St Domingo. In 1798 he commanded the

@@ -13,11 +13,11 @@ disputes that have arisen as to what is "the true guaco" are to be
 attributed mainly to the fact that the names of the American Indians for
 all natural objects are generic, and their genera not always in
 coincidence with those of naturalists. Thus any twining plant with a
-heart-shaped leaf, white and green above and purple beneath, is called
+heart-shaped [[Leaf|leaf]], white and green above and purple beneath, is called
 by them guaco (R. Spruce, in Howard's _Neueva Quinologia_, "Cinchona
 succirubra," p. 22, note). What is most commonly recognized in Colombia
 as guaco, or _Vejuco del guaco_, would appear to be _Mikania Guaco_
-(Humboldt and Bonpland, _Pl. equinox_, ii. 84, pl. 105, 1809), a
+(Humboldt and [[Bonpland]], _Pl. equinox_, ii. 84, pl. 105, 1809), a
 climbing Composite plant of the tribe _Eupatoriaceae_, affecting moist
 and shady situations, and having a much-branched and deep-growing root,
 variegated, serrate, opposite leaves and dull-white flowers, in axillary

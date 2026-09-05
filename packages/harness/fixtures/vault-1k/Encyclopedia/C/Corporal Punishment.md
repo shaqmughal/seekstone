@@ -19,14 +19,14 @@ defence of self or others needs no comment, except that, like all other
 acts done in defence, its justification depends on whether or not it was
 reasonably necessary for the protection of the person attacked. Among
 persons invested with punitive authority, mention must first be made of
-parents and guardians, and of teachers, who have, by implied delegation
+parents and [[Guardian|guardians]], and of teachers, who have, by implied delegation
 from the parents, and as incidental to the relation of master and pupil,
 powers of reasonable corporal punishment. Such powers are not limited to
 offences committed by the pupil upon the premises of the school, but
 extend to acts done on the way to and from school and during what may be
 properly regarded as school hours (_Cleary_ v. _Booth_, 1893, 1 Q.B.
 465). The rights of parents, guardians and teachers, in regard to the
-chastisement of children, were expressly recognized in English law by
+chastisement of children, were expressly recognized in [[English Law|English law]] by
 the Prevention of Cruelty to Children Act 1904 (§ 28). Poor law
 authorities and managers of reformatories are in the same position in
 this respect as teachers. The punitive authority of elementary school
@@ -52,7 +52,7 @@ exercised in British India (Wilson, _Digest of Anglo-Mahommedan Law_,
 may whip boys playing in church" during divine service. But while the
 right to remove such offenders is undoubted, the right of castigation
 could not now safely be exercised. At common law the master of a ship is
-entitled to inflict reasonable chastisement on a seaman for gross breach
+entitled to inflict reasonable chastisement on a seaman for [[Gros|gross]] [[Breach|breach]]
 of duty. But such offences are now specially provided for by the
 Merchant Shipping Act 1894 (§§ 220-238); and where the provisions of
 that statute are available, corporal punishment would probably be

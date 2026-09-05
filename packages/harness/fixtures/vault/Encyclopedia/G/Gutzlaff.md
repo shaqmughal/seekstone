@@ -1,17 +1,17 @@
 # Gutzlaff
 
-GUTZLAFF, KARL FRIEDRICH AUGUST (1803-1851), German missionary to China,
+GUTZLAFF, KARL [[Friedrich|FRIEDRICH]] AUGUST (1803-1851), German missionary to China,
 was born at Pyritz in Pomerania on the 8th of July 1803. When still
 apprenticed to a saddler in Stettin, he made known his missionary
 inclinations to the king of Prussia, through whom he went to the
-Padagogium at Halle, and afterwards to the mission institute of Janike
+Padagogium at [[Halle]], and afterwards to the mission institute of Janike
 in Berlin. In 1826, under the auspices of the Netherlands Missionary
-Society, he went to Java, where he was able to learn Chinese. Leaving
+Society, he went to [[Java]], where he was able to learn Chinese. Leaving
 the society in 1828, he went to Singapore, and in August of the same
 year removed to Bangkok, where he translated the Bible into Siamese. In
 1829 he married an English lady, who aided him in the preparation of a
-dictionary of Cochin Chinese, but she died in August 1831 before its
-completion. Shortly after her death he sailed to Macao in China, where,
+dictionary of [[Cochin]] Chinese, but she died in August 1831 before its
+completion. Shortly after her death he sailed to [[Macao]] in China, where,
 and subsequently at Hong Kong, he worked at a translation of the Bible
 into Chinese, published a Chinese monthly magazine, and wrote in Chinese
 various books on subjects of useful knowledge. In 1834 he published at

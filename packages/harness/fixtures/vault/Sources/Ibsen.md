@@ -8,31 +8,31 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ibsen"
 # Ibsen
 
 IBSEN, HENRIK (1828-1906), Norwegian dramatic and lyric poet, eldest son
-of Knud Henriksen Ibsen, a merchant, and of his wife Marichen Cornelia
+of Knud Henriksen Ibsen, a merchant, and of his wife Marichen [[Cornelia]]
 Altenburg, was born at Skien on the 20th of March 1828. For five
 generations the family had consisted on the father's side of a blending
 of the Danish, German and Scottish races, with no intermixture of pure
 Norwegian. In 1836 Knud Ibsen became insolvent, and the family withdrew,
 in great poverty, to a cottage in the outskirts of the town. After brief
 schooling at Skien, Ibsen was, towards the close of 1843, apprenticed to
-an apothecary in Grimstad; here he remained through seven dreary years
+an [[Apothecary|apothecary]] in Grimstad; here he remained through seven dreary years
 of drudgery, which set their mark upon his spirit. In 1847, in his
 nineteenth year, he began to write poetry. He made a gloomy and almost
 sinister impression upon persons who met him at this time, and one of
 his associates of those days has recorded that Ibsen "walked about
 Grimstad like a mystery sealed with seven seals." He had continued, by
 assiduous reading, his self-education, and in 1850 he contrived to come
-up as a student to Christiania. In the same year he published his first
+up as a student to [[Christiania]]. In the same year he published his first
 work, the blank-verse tragedy of _Catilina_, under the pseudonym
-Brynjolf Bjarme. A second drama, _The Viking's Barrow_, was acted (but
+Brynjolf Bjarme. A second [[Drama|drama]], _The Viking's Barrow_, was acted (but
 not printed) a few months later; Ibsen was at this time entirely under
 the influence of the Danish poet Oehlenschläger. During the next year or
 two he made a very precarious livelihood in Christiania as a journalist,
 but in November 1851 he had the good fortune to be appointed
-"stage-poet" at the little theatre of Bergen, with a small but regular
+"stage-poet" at the little theatre of [[Bergen]], with a small but regular
 salary. He was practically manager at this house, and he also received a
 travelling stipend. In 1852, therefore, he went for five months to study
-the stage, to Copenhagen and to Dresden. Among many dramatic experiments
+the stage, to [[Copenhagen]] and to [[Dresden]]. Among many dramatic experiments
 which Ibsen made in Bergen, the most considerable and most satisfactory
 is the saga-drama of _Mistress Inger at Östraat_, which was produced in
 1855; and printed at Christiania in 1857; here are already perceptible
@@ -40,7 +40,7 @@ some qualities of his mature character. Much less significant, although
 at the time more successful, is _The Feast at Solhaug_, a tragedy
 produced in Bergen in 1856; here for a moment Ibsen abandoned his own
 nascent manner for an imitation of the popular romantic dramatist of
-Denmark, Henrik Hertz. It is noticeable that Ibsen, by far the most
+[[Denmark]], Henrik Hertz. It is noticeable that Ibsen, by far the most
 original of modern writers for the stage, was remarkably slow in
 discovering the true bent of his genius. His next dramatic work was the
 romantic tragedy of _Olaf Liljekrans_, performed in 1857, but unprinted
@@ -82,7 +82,7 @@ refused to do the same for Ibsen. His cup was full of disillusion and
 bitterness, and in April 1864 he started, by Berlin and Trieste,
 ultimately to settle in Rome. His anger and scorn gave point to the
 satirical arrows which he shot back to his thankless fatherland from
-Italy in the splendid poem of _Brand_, published in Copenhagen in 1866,
+Italy in the splendid poem of _[[Brand]]_, published in Copenhagen in 1866,
 a fierce attack on the Laodicean state of religious and moral sentiment
 in the Norway of that day; the central figure, the stern priest Brand,
 who attempts to live like Christ and is snubbed and hounded away by his
@@ -91,7 +91,7 @@ poet. Ibsen had scarcely closed _Brand_ before he started a third
 lyrico-dramatic satire. _Peer Gynt_ (1867), which remains, in a
 technical sense, the most highly finished of all his metrical works. In
 _Brand_ the hero had denounced certain weaknesses which Ibsen saw in the
-Norwegian character, but these and other faults are personified in the
+Norwegian character, but these and other [[Fault|faults]] are personified in the
 hero of _Peer Gynt_; or rather, in this figure the poet pictured, in a
 type, the Norwegian nation in all the egotism, vacillation, and
 lukewarmness which he believed to be characteristic of it. Ibsen,
@@ -101,7 +101,7 @@ magnificent work modern Norwegian literature first rises to a level with
 the finest European poetry of the century. In 1869 Ibsen wrote the
 earliest of his prose dramas, the political comedy, _The Young Men's
 League_, in which for the first time he exercised his extraordinary gift
-for perfectly natural and yet pregnant dialogue. Ibsen was in Egypt, in
+for perfectly natural and yet pregnant [[Dialogue|dialogue]]. Ibsen was in Egypt, in
 October 1869, when his comedy was put on the stage in Christiania, amid
 violent expressions of hostility; on hearing the news, he wrote his
 brilliant little poem of defiance, called _At Port Saïd_. By this time,
@@ -126,7 +126,7 @@ the world against the rising tide of Christianity. The work is of an
 experimental kind, and takes its place between the early poetry and the
 later prose of the author. Compared with the series of plays which Ibsen
 had already inaugurated with _The Young Men's League_, _Emperor and
-Galilean_ preserves a colour of idealism and even of mysticism which was
+Galilean_ preserves a colour of [[Idealism|idealism]] and even of mysticism which was
 for many years to be absent from Ibsen's writings, but to reappear in
 his old age with _The Master-builder_. There is some foundation for the
 charge that Ibsen has made his romantic Greek emperor needlessly
@@ -135,7 +135,7 @@ made him a sympathetic exponent of Hellenism. Ibsen was now greatly
 occupied by the political spectacle of Germany at war first in Denmark,
 then in France, and he believed that all things were conspiring to start
 a new epoch of individualism. He was therefore deeply disgusted by the
-Paris commune, and disappointed by the conservative reaction which
+Paris [[Commune|commune]], and disappointed by the conservative reaction which
 succeeded it. This disillusion in political matters had a very direct
 influence upon Ibsen's literary work. It persuaded him that nothing
 could be expected in the way of reform from democracies, from large
@@ -149,7 +149,7 @@ artificial prose. Now, in spite of the surprising achievements of his
 poetry, he determined to abandon versification, and to write only in the
 language of everyday conversation. In the first drama of this his new
 period, _The Pillars of Society_ (1877), he dealt with the problem of
-hypocrisy in a small commercial centre of industry, and he drew in the
+[[Hypocrisy|hypocrisy]] in a small commercial centre of industry, and he drew in the
 Bernick family a marvellous picture of social egotism in a prosperous
 seaport town. There was a certain similarity between this piece and _A
 Doll's House_ (1879), although the latter was much the more successful
@@ -194,14 +194,14 @@ pre-eminence of being the meanest scoundrel in all drama. _The Wild
 Duck_ is the darkest, the least relieved, of Ibsen's studies of social
 life, and his object in composing it is not obvious. With _Rosmersholm_
 (1886) he rose to the height of his genius again; this is a mournful,
-but neither a pessimistic nor a cynical play. The fates which hang round
+but neither a pessimistic nor a cynical play. The [[Fate|fates]] which hang round
 the contrasted lives of Rosmer and Rebecca, the weak-willed scrupulous
 man and the strong-willed unshrinking woman, the old culture and the
 new, the sickly conscience and the robust one, create a splendid
 dramatic antithesis. Ibsen then began to compose a series of dramas, of
 a more and more symbolical and poetic character; the earliest of these
-was the mystical _The Lady from the Sea_ (1888). At Christmas 1890 he
-brought out _Hedda Gabler_; two years later _The Master-builder_
+was the mystical _The Lady from the Sea_ (1888). At [[Christmas]] 1890 he
+brought out _Hedda [[Gabler]]_; two years later _The Master-builder_
 (_Bygmester Solnaes_), in which many critics see the highest attainment
 of his genius; at the close of 1894 _Little Eyolf_; in 1896 _John
 Gabriel Borkman_; and in 1900 _When We Dead Awaken_. On the occasion of
@@ -226,7 +226,7 @@ called upon as a poet to suggest a remedy for the diseases of society,
 but to diagnose them. In this he was diametrically opposed to Tolstoi,
 who admitted that he wrote his books for the healing of the nations. If
 the subjects which Ibsen treats, or some of them, are open to
-controversy, we are at least on firm ground in doing homage to the
+controversy, we are at least on firm ground in doing [[Homage|homage]] to the
 splendour of his art as a playwright. He reintroduced into modern
 dramatic literature something of the velocity and inevitability of Greek
 tragic intrigue. It is very rarely that any technical fault can be found
@@ -242,11 +242,11 @@ among intelligent playgoers.
   included in the _Samlede Vaerker_, with a bibliography by J. B.
   Halvorsen, published in Copenhagen, in 10 vols. (1898-1902). They have
   been translated into the principal European languages, and into
-  Japanese. The study of Ibsen in English was begun by Mr Gosse in 1872,
-  and continued by Mr William Archer, whose version of Ibsen's prose
+  Japanese. The study of Ibsen in English was begun by Mr [[Gosse]] in 1872,
+  and continued by Mr William [[Archer]], whose version of Ibsen's prose
   dramas appeared in 5 vols. (1890, 1891; new and revised edition,
-  1906). Other translators have been Mr C. Herford, Mr R. A.
-  Streatfield, Miss Frances Lord and Mr Adie. His _Correspondence_ was
+  1906). Other translators have been Mr C. [[Herford]], Mr R. A.
+  Streatfield, Miss [[Franc|Frances]] Lord and Mr Adie. His _Correspondence_ was
   edited, in 2 vols., under the supervision of his son, Sigurd Ibsen, in
   1904 (Eng. trans., 1905). Critical studies on the writings and
   position of Ibsen are innumerable, and only those which were
@@ -254,11 +254,11 @@ among intelligent playgoers.
   in the various countries, can be mentioned here: Georg Brandes
   _Ästhetiske Studier_ (Copenhagen, 1868); Les Quesnel, _Poésie
   scandinave_ (Paris 1874); Valfrid Valsenius, _Henrik Ibsen_
-  (Helsingfors, 1879); Edmund Gosse, _Studies in Northern Literature_
+  ([[Helsingfors]], 1879); Edmund Gosse, _Studies in Northern Literature_
   (London, 1879); L. Passarge, _Henrik Ibsen_ (Leipzig, 1883); G.
   Brandes, _Björnson och Ibsen_ (Stockholm, 1882); Henrik Jaeger,
   _Henrik Ibsen 1828-1888_ (Copenhagen, 1888; Eng. trans., 1890); T.
-  Terwey, _Henrik Ibsen_ (Amsterdam, 1882); G. Bernard Shaw, _The
+  Terwey, _Henrik Ibsen_ (Amsterdam, 1882); G. [[Bernard]] Shaw, _The
   Quintessence of Ibsen_ (London, 1892). In France Count Moritz Prozor
   carried on an ardent propaganda in favour of Ibsen from 1885, and
   Jules Lemaître's articles in his _Les Contemporains_ and _Impressions

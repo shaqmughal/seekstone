@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Brockhaus"
 
 # Brockhaus
 
-BROCKHAUS, FRIEDRICH ARNOLD (1772-1823), German publisher, was born at
+BROCKHAUS, [[Friedrich|FRIEDRICH]] ARNOLD (1772-1823), German publisher, was born at
 Dortmund, on the 4th of May 1772. He was educated at the gymnasium of his
 native place, and from 1788 to 1793 served an apprenticeship in a
 mercantile house at Duesseldorf. He then devoted two years at Leipzig to the
@@ -44,7 +44,7 @@ Briefen und andern Aufzeichnungen_ (3 vols., Leipzig, 1872-1881); also by
 the same author, _Die Firma F. A. Brockhaus von der Begrundung bis zum
 hundertjahrigen Jubilaum_ (1805-1905, Leipzig, 1905).
 
-Another of Friedrich's sons, HERMANN BROCKHAUS (1806-1877), German
+Another of Friedrich's sons, [[Hermann|HERMANN]] BROCKHAUS (1806-1877), German
 Orientalist, was born at Amsterdam on the 28th of January 1806. While his
 two brothers carried on the business he devoted himself to an academic
 career. He was appointed extraordinary professor in Jena in 1838, and in

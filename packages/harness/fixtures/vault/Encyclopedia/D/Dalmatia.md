@@ -9,7 +9,7 @@ tags: [history, biography]
 
 DALMATIA (Ger. _Dalmatien_; Ital. _Dalmazia_; Serbo-Croatian,
 _Dalmacija_), a kingdom and crownland of the Austro-Hungarian empire, in
-the north-west of the Balkan Peninsula, and on the Adriatic Sea.
+the north-west of the [[Balkan Peninsula]], and on the Adriatic Sea.
 Dalmatia is bounded, on the landward side, by Croatia and Bosnia, in the
 N. and N.E.; and by Herzegovina and Montenegro, in the S.E. and S. Its
 area amounts to 4923 sq. m.; its greatest length, from north-west to
@@ -26,15 +26,15 @@ large enough to support several thousand inhabitants, while others are
 mere reefs, swept bare by the sea, or tenanted only by rabbits and
 seabirds. This Dalmatian archipelago, separated from the Istrian by the
 Gulf of Quarnerolo, forms two island groups, the northern or Liburnian,
-and the southern; with open water intervening, off Point Planca. In calm
+and the southern; with open water intervening, off Point Planca. In [[Calm|calm]]
 weather the channels between the islands and the mainland resemble a
 chain of landlocked lakes, brilliantly clear to a depth of several
-fathoms. As a rule, the surrounding hills are rugged, bleached almost
+[[Fathom|fathoms]]. As a rule, the surrounding hills are rugged, bleached almost
 white or pale russet, and destitute of verdure; but their monotony is
 relieved by the half-ruined castles and monasteries clinging to the
-rocks, or by the beauty of such cities as Ragusa, or Arbe, with its
-fantastic row of steeples overlooking the beach. The principal islands,
-Arbe, Brazza, Curzola, Lacroma, Lesina, Lissa and Meleda, are described
+rocks, or by the beauty of such cities as Ragusa, or [[Arbe]], with its
+fantastic row of steeples overlooking the [[Beach|beach]]. The principal islands,
+Arbe, [[Brazza]], [[Curzola]], Lacroma, [[Lesina]], [[Lissa]] and Meleda, are described
 under separate headings. The promontory of Sabbioncello, or Punta di
 Stagno, which juts out for 41 m. into the sea, between Curzola and
 Lesina, is almost another island; for its breadth, which nowhere exceeds
@@ -53,19 +53,19 @@ frontier between Dalmatia and Bosnia; Dinara (6007 ft.), which gives its
 name to the whole chain, and Troglav (6276 ft.), being the highest
 Dalmatian summits. North-west of Sinj rise the Svilaja and Mosec
 Planinas; the ridges of Mosor and Biokovo, with Sveto Juraj (5781 ft.),
-follow the windings of the coast from Spalato to Macarsca; Orjen marks
+follow the windings of the coast from Spalato to [[Macarsca]]; Orjen marks
 the meeting-place of the Herzegovinian, Montenegrin and Dalmatian
 frontiers, and the Sutorman range appears in the extreme south. The
-barren dry limestone of the Dalmatian highlands has been aptly compared
+barren dry [[Limestone|limestone]] of the Dalmatian highlands has been aptly compared
 with a petrified sponge; for it is honeycombed with underground caverns
 and water-courses, into which the rainfall is at once filtered. Thus
 arises a complete system of subterranean rivers, with waterfalls, lakes
-and regular seasons of flood. Even the few surface rivers vanish and
+and regular seasons of [[Flood|flood]]. Even the few surface rivers vanish and
 emerge again at intervals. The Trebinjcica, for instance, disappearing
 in Herzegovina, supplies both the broad and swift estuary of Ombla, near
 Ragusa, and the fresh-water spring of Doli, which issues from the bottom
 of the sea. Apart from the Ombla, and the Narenta (Serbo-Croatian,
-_Neretva_; Roman, _Naro_), which creates a broad marshy delta between
+_Neretva_; Roman, _Naro_), which creates a broad marshy [[Delta|delta]] between
 Metkovic and the sea, Dalmatia has only three rivers more than 25 m.
 long; the Zermagna (_Zrmanja_, _Tedanium_), Kerka, (_Krka_, _Titius_),
 and Cetina (_Cetina_; _Narona_ or _Tilurus_). The Zermagna skirts the
@@ -82,7 +82,7 @@ mountains fill with water after heavy rain, and sometimes cause
 disastrous floods. But most parts of the country suffer from drought.
 
 For an account of the chief geological formations see BALKAN PENINSULA.
-Small quantities of iron, lignite, asphalt and bay salt are the only
+Small quantities of iron, lignite, [[Asphalt|asphalt]] and bay salt are the only
 minerals of commercial importance.
 
 The climate is warm and healthy, the mean temperature at Zara being 57
@@ -92,23 +92,23 @@ season of the year. The average annual rainfall is about 28 in., but a
 dry and a wet year usually alternate.
 
 _Fauna._--Bears, badgers and wild cats, with a larger number of wolves
-and foxes, find shelter in the Dinaric Alps and on the heights of
+and [[Foxe|foxes]], find shelter in the Dinaric Alps and on the heights of
 Svilaja, Mosor and Biokovo; while jackals exist on Curzola and
 Sabbioncello, almost their last refuges in Europe. Roedeer are uncommon,
-and the wild boar, chamois, red-deer and beaver are extinct; but hares
+and the wild boar, chamois, red-deer and beaver are extinct; but [[Hare|hares]]
 and rabbits abound. The game-laws are not strict, and are often evaded
-by the Morlachs; but moderate sport may be obtained in the fens formed
-by the Cetina about Sinj, and the lagoons of the Narenta estuary; both
+by the Morlachs; but moderate sport may be obtained in the [[Fens|fens]] formed
+by the Cetina about Sinj, and the [[Lagoon|lagoons]] of the Narenta estuary; both
 regions being frequented by wild swans, geese, duck, snipe and other
 aquatic birds. Among land-birds, the commonest are quails, woodcock,
 partridges, and especially the so-called "stone-fowl" (_Steinhuhn_,
-_Perdix Graeca_). Tortoises are numerous; snakes, lizards, scorpions and
+_Perdix Graeca_). Tortoises are numerous; snakes, [[Lizard|lizards]], scorpions and
 innumerable sand-flies infest the dry hillsides; and the limestone
 caverns are peopled by sightless bats, reptiles, fish, flies, beetles,
 spiders, crustacea and molluscs.
 
-_Fisheries._--No region of Europe is richer in its marine fauna and
-flora. Sponge and coral fisheries afford a valuable source of income to
+_[[Fisheries]]._--No region of Europe is richer in its marine fauna and
+flora. Sponge and [[Coral|coral]] fisheries afford a valuable source of income to
 the peasantry, many of whom also go northward for the sardine and tunny
 fisheries of the Istrian coast, while salmon, trout and eels are caught
 in the Dalmatian rivers.
@@ -124,7 +124,7 @@ country changes entirely. Patches of thin grass, heather, juniper,
 thyme, tamarisks and mountain roses hardly relieve the bareness and
 aridity of the seaward slopes.
 
-_Forests._--Oaks, pines and beeches still, in a few parts, clothe the
+_Forests._--Oaks, pines and [[Beech|beeches]] still, in a few parts, clothe the
 landward slopes, but, as a rule, the forests for which Dalmatia was once
 famous were cut down for the Venetian shipyards or burned by pirates;
 while every attempt at replanting is frustrated by the shallowness of
@@ -134,12 +134,12 @@ young trees.
 _Agriculture._--Little more than one-tenth of the whole surface is under
 the plough; the rest, where it is not altogether sterile, being chiefly
 mountain pasture, vineyards and garden land. Asses are the favourite
-beasts of burden; goats are strikingly numerous; and sheep are kept for
+beasts of [[Burden|burden]]; goats are strikingly numerous; and sheep are kept for
 the sake of their mutton, which is almost the only animal food freely
 consumed by the peasantry. Cattle-breeding, bee-keeping, and the
 cultivation of fruit and vegetables, especially potatoes and beetroot,
 are among the principal resources of the people, while wheat, rye,
-barley, oats, Indian corn, hemp and millet are also grown. Viticulture
+barley, oats, Indian [[Corn|corn]], hemp and millet are also grown. Viticulture
 is carried on with great and increasing success (see WINE).
 
 _Land-tenure._--Individual proprietorship of the soil is rare, for,
@@ -149,10 +149,10 @@ appertain to the family as a whole. There are a few large estates, but
 most of the land is parcelled out in small holdings.
 
 _Industries._--Besides fishing, farming and such allied trades as
-shipbuilding, wine and oil pressing, and the distillation of spirits,
+shipbuilding, wine and oil pressing, and the [[Distillation|distillation]] of spirits,
 notably _maraschino_, a few other industries are practised, such as
 tile-burning and the manufacture of soap; but these are of minor
-importance. Certain crafts are also carried on by the country-folk, in
+importance. Certain [[Craft|crafts]] are also carried on by the country-folk, in
 their own homes; thus the peasant is sometimes his own mason, carpenter,
 weaver and miller. Manufactured goods and foodstuffs are imported, in
 return for asphalt, lignite, bay salt, wine, spirits, oil, honey, wax
@@ -195,7 +195,7 @@ nomadic shepherds, cattle-drovers or muleteers. In the 14th century they
 emigrated from central Illyria into northern Dalmatia and maritime
 Croatia; and these regions were thenceforward known as _Morlacchia_,
 until the 18th century. Gradually, however, the Mavrovlachi became
-identified with the Slavs, whose language and manners they adopted, and
+identified with the Slavs, whose language and [[Manners|manners]] they adopted, and
 to whom they gave their own name. In northern Dalmatia the Slavs of the
 interior are still called _Morlacchi_; in the south this name expresses
 contempt. Of the Vlachs, properly so called, very few are left in the
@@ -203,9 +203,9 @@ country; although the name Vlachs (q.v.) is frequently used by the Slavs
 to designate the Italians and the town-dwellers generally. The literary
 languages of Dalmatia are Italian and Serbo-Croatian; the spoken
 language is, in each case, modified by the introduction of various
-dialect forms.
+[[Dialect|dialect]] forms.
 
-The Morlachs wear a picturesque and brightly-coloured costume,
+The Morlachs wear a picturesque and brightly-coloured [[Costume|costume]],
 resembling that of the Serbs (see SERVIA). In appearance they are
 sometimes blond, with blue or grey eyes, like the Shumadian peasantry of
 Servia; more often, olive-skinned, with dark hair and eyes, like the
@@ -227,7 +227,7 @@ official title of the Croatian king, i.e. the emperor. The political
 system is based on a law of the 26th of February 1861. The provincial
 diet is composed of 43 members, comprising the Roman Catholic
 archbishop, the Orthodox bishop of Zara and representatives of the chief
-taxpayers, the towns and the communes. Benkovac, on the main road from
+taxpayers, the towns and the [[Commune|communes]]. Benkovac, on the main road from
 Zara to Spalato, Cattaro, Curzola, Imotski, 21 m. N. by E. of Macarsca,
 Knin, Lesina, Macarsca, Ragusa, Sebenico, Sinj, Spalato and Zara, give
 names to the twelve administrative districts, of which they are the
@@ -249,7 +249,7 @@ much controversy during the first years of the 20th century. There was
 considerable danger that the Latin liturgies would be altogether
 superseded by the Glagolitic, especially among the northern islands and
 in rural communes, where the Slavonic element is all-powerful. In 1904
-the Vatican forbade the use of Glagolitic at the festival of SS. Cyril
+the Vatican forbade the use of Glagolitic at the festival of SS. [[Cyril]]
 and Methodius, as likely to impair the unity of Catholicism. A few
 years previously the Slavonic archbishop Rajcevic of Zara, in discussing
 the "Glagolitic controversy," had denounced the movement as "an
@@ -260,7 +260,7 @@ of the Roman Catholics in Dalmatia.
 
 _Education._--Education progressed slowly between 1860 and 1900,
 attendance at school being often a hardship in the poor and widely
-scattered hamlets of the interior. In 1890 more than 80% of the
+scattered [[Hamlet|hamlets]] of the interior. In 1890 more than 80% of the
 population could neither read nor write, although schools are maintained
 by every commune. In 1893 the country possessed 5 intermediate and 337
 elementary schools, 6 theological seminaries, 6 gymnasia, and about 40
@@ -280,10 +280,10 @@ work which mark the sites of Salona, near Spalato, and of many other
 ancient cities, are of slight antiquarian interest and slighter artistic
 value. Among the monuments of the Roman period, by far the most
 noteworthy in Dalmatia, and, indeed, in the whole Balkan Peninsula, is
-the Palace of Diocletian at Spalato (q.v.). Dalmatian architecture was
+the Palace of [[Diocletian]] at Spalato (q.v.). Dalmatian architecture was
 Byzantine in its general character from the 6th century until the close
 of the 10th. The oldest memorials of this period are the vestiges of
-three basilicas, excavated in Salona, and dating from the first half of
+three [[Basilica|basilicas]], excavated in Salona, and dating from the first half of
 the 7th century at latest. Byzantine art, in the latter half of this
 period and the two succeeding centuries, continued to flourish in those
 cities which, like Zara, gave their allegiance to Venice; just as, in
@@ -294,9 +294,9 @@ At Arbe there is a beautiful Romanesque campanile which also belongs to
 the 12th century; but the finest example in this style is the cathedral
 of Trau. The 14th century Dominican and Franciscan convents in Ragusa
 are also noteworthy. Romanesque lingered on in Dalmatia until it was
-displaced by Venetian Gothic in the early years of the 15th century. The
+displaced by Venetian [[Gothic]] in the early years of the 15th century. The
 influence of Venice was then at its height. Even in the hostile republic
-of Ragusa the Romanesque of the custom-house and Rectors' palace is
+of Ragusa the Romanesque of the [[Custom-House|custom-house]] and Rectors' palace is
 combined with Venetian Gothic, while the graceful balconies and ogee
 windows of the Prijeki closely follow their Venetian models. Gothic,
 however, which had been adopted very late, was abandoned very early; for
@@ -348,7 +348,7 @@ civilization in the literature of Ragusa. To such a division of
 population may be attributed the two dominant characteristics of local
 history--the total absence of national as distinguished from civic life,
 and the remarkable development of art, science and literature. Bosnia,
-Servia and Bulgaria had each its period of national greatness, but
+Servia and [[Bulgaria]] had each its period of national greatness, but
 remained intellectually backward; Dalmatia failed ever to attain
 political or racial unity, but the Dalmatian city-states, isolated and
 compelled to look to Italy for support, shared perforce in the march of
@@ -374,7 +374,7 @@ consolidating their own power in the purely Slavonic towns, such as Nona
 or Belgrad (Zaravecchia). The Church was involved in the general
 confusion; for the synod of Spalato, in 1059, had forbidden the use of
 any but Greek or Latin liturgies, and so had accentuated the differences
-between Latin and Slav. A raid of Norman corsairs in 1073 was hardly
+between Latin and Slav. A raid of Norman [[Corsair|corsairs]] in 1073 was hardly
 defeated with the help of a Venetian fleet.
 
 _Rivalry of Venice and Hungary in Dalmatia_, 1102-1420.--Unable amid
@@ -388,9 +388,9 @@ but only such a supremacy as might prevent the development of any
 dangerous political or commercial competitor on the eastern Adriatic.
 Hungary had also its partisans; for in the Dalmatian city-states, like
 those of Greece and Italy, there were almost invariably two jealous
-political factions, each ready to oppose any measure advocated by its
+political [[Faction|factions]], each ready to oppose any measure advocated by its
 antagonist. The origin of this division seems here to have been
-economic. The farmers and the merchants who traded in the interior
+economic. The [[Farmer|farmers]] and the merchants who traded in the interior
 naturally favoured Hungary, their most powerful neighbour on land; while
 the seafaring community looked to Venice as mistress of the Adriatic. In
 return for protection, the cities often furnished a contingent to the
@@ -398,8 +398,8 @@ army or navy of their suzerain, and sometimes paid tribute either in
 money or in kind. Arbe, for example, annually paid ten pounds of silk or
 five pounds of gold to Venice. The citizens clung to their municipal
 privileges, which were reaffirmed after the conquest of Dalmatia in
-1102-1105 by Coloman of Hungary. Subject to the royal assent they might
-elect their own chief magistrate, bishop and judges. Their Roman law
+1102-1105 by [[Coloman]] of Hungary. Subject to the royal assent they might
+elect their own chief [[Magistrate|magistrate]], bishop and judges. Their Roman law
 remained valid. They were even permitted to conclude separate alliances.
 No alien, not even a Hungarian, could reside in a city where he was
 unwelcome; and the man who disliked Hungarian dominion could emigrate
@@ -407,7 +407,7 @@ with all his household and property. In lieu of tribute, the revenue
 from customs was in some cases shared equally by the king, chief
 magistrate, bishop and municipality. These rights and the analogous
 privileges granted by Venice were, however, too frequently infringed,
-Hungarian garrisons being quartered on unwilling towns, while Venice
+Hungarian [[Garrison|garrisons]] being quartered on unwilling towns, while Venice
 interfered with trade, with the appointment of bishops, or with the
 tenure of communal domains. Consequently the Dalmatians remained loyal
 only while it suited their interests, and insurrections frequently
@@ -423,7 +423,7 @@ assistance rendered to Venice by the armies of the Fourth Crusade in
 1202; and the Tartar invasion of Dalmatia forty years later (see Trau).
 The Slavs were no longer regarded as a hostile race, but the power of
 certain Croatian magnates, notably the counts of Bribir, was from time
-to time supreme in the northern districts (see CROATIA-SLAVONIA); and
+to time supreme in the northern districts (see [[Croatia-Slavonia|CROATIA-SLAVONIA]]); and
 Stephen Tvrtko, the founder of the Bosnian kingdom, was able in 1389 to
 annex the whole Adriatic littoral between Cattaro and Fiume, except
 Venetian Zara and his own independent ally, Ragusa (see BOSNIA AND
@@ -439,7 +439,7 @@ but meanwhile the Turkish advance continued. Constantinople fell in
 1453, Servia in 1459, Bosnia in 1463 and Herzegovina in 1483. Thus the
 Venetian and Ottoman frontiers met; border wars were incessant; Ragusa
 sought safety in friendship with the invaders. In 1508 the hostile
-league of Cambrai compelled Venice to withdraw its garrison for home
+league of [[Cambrai]] compelled Venice to withdraw its garrison for home
 service, and after the overthrow of Hungary at Mohacs in 1526 the Turks
 were able easily to conquer the greater part of Dalmatia. The peace of
 1540 left only the maritime cities to Venice, the interior forming a
@@ -454,8 +454,8 @@ exploits contributed to a renewal of war between Venice and Turkey
 presented by the Venetian agents,[4] whose reports on this war resemble
 some knightly chronicle of the middle ages, full of single combats,
 tournaments and other chivalrous adventures. They also show clearly that
-the Dalmatian levies far surpassed the Italian mercenaries in skill and
-courage. Many of these troops served abroad; at Lepanto, for example, in
+the Dalmatian [[Levi|levies]] far surpassed the Italian mercenaries in skill and
+courage. Many of these troops served abroad; at [[Lepanto]], for example, in
 1571, a Dalmatian squadron assisted the allied fleets of Spain, Venice,
 Austria and the Papal States to crush the Turkish navy. A fresh war
 broke out in 1645, lasting intermittently until 1699, when the peace of
@@ -510,7 +510,7 @@ the Bocche di Cattaro and induced the Montenegrins to render aid.
 Poglizza was deprived of its independence by Napoleon in 1807, Ragusa
 in 1808. In 1809 the French troops were withdrawn, but in the same year
 Dalmatia was restored to France and united to the Illyrian kingdom by
-the treaty of Vienna. A British naval force under Captain Hoste, after a
+the treaty of Vienna. A British naval force under Captain [[Hoste]], after a
 successful engagement with a small French squadron off Lissa, occupied
 the islands of Curzola, Lesina and Lagosta from 1812 to 1815, and
 established a considerable overland trade through Dalmatia, Austria and
@@ -525,7 +525,7 @@ CROATIA-SLAVONIA.
 
   BIBLIOGRAPHY.--A minute and accurate account of Dalmatian history, art
   (especially architecture), antiquities and topography, is given by T.
-  G. Jackson, in _Dalmatia, the Quarnero and Istria_ (Oxford, 1887), (3
+  G. [[Jackson]], in _Dalmatia, the Quarnero and [[Istria]]_ (Oxford, 1887), (3
   vols. illustrated). E. A. Freeman, _Subject and Neighbour Lands of
   Venice_ (London, 1881), and G. Modrich, _La Dalmazia_ (Turin, 1892),
   describe the chief towns, their history and antiquities. Much
@@ -535,7 +535,7 @@ CROATIA-SLAVONIA.
   (London, 1849); Sir J. G. Wilkinson, _Dalmatia and Montenegro_
   (London, 1840); A. Fortis, _Travels into Dalmatia_ (London, 1778); and
   the periodicals, _Rivista Dalmatica_ (Zara, 1899, &c.), and _Annuario
-  Dalmatico_ (Zara, 1884, &c.). The best maps are those of the Austrian
+  Dalmatico_ (Zara, 1884, &c.). The best [[Map|maps]] are those of the Austrian
   General Staff and Vincenzo de Haardt's _Zemljovid Kraljevine
   Dalmacije_ (Zara, 1892). See also for trade, the Annual British
   Consular Reports; for sport, "Snaffle," _In the Land of the Bora_
@@ -544,7 +544,7 @@ CROATIA-SLAVONIA.
   mentioned above, and those by Farlatus, Makushev, Miklosich, Theiner,
   Shafarik, Orbini and du Cange, which are quoted under BOSNIA AND
   HERZEGOVINA, the chief authority for Dalmatian history is G. Lucio
-  (Lucius of Trau), _De regno Dalmatiae et Croatiae, a gentis origine ad
+  ([[Lucius]] of Trau), _De regno Dalmatiae et Croatiae, a gentis origine ad
   annum 1480_ (Amsterdam, 1666). To this edition are appended the works
   of the Presbyter Diocleas, Thomas of Spalato and other native
   chroniclers from the 12th century onwards. An Italian translation,
@@ -578,7 +578,7 @@ FOOTNOTES:
     identified, by modern archaeologists, with Almissa, on the coast,
     Dalen, in the Herzegovina, Duvno, near Sinj, and Gardun, in the same
     locality. It was evidently a stronghold of considerable size and
-    importance, and Appian (_De bellis Illyricis_) alludes to its almost
+    importance, and [[Appian]] (_De [[Belli|bellis]] Illyricis_) alludes to its almost
     impregnable fortifications.
 
   [4] Long extracts from these reports or diaries are published by

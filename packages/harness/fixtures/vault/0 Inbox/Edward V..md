@@ -14,7 +14,7 @@ temporary exile, in the sanctuary of Westminster Abbey on the 2nd of
 November 1470. In June 1471 he was created prince of Wales. When Edward
 IV. died in April 1483 a struggle for power took place between the young
 king's paternal uncle, Richard, duke of Gloucester, who had been
-appointed as his guardian by Edward IV., and his maternal uncle, Richard
+appointed as his [[Guardian|guardian]] by Edward IV., and his maternal uncle, Richard
 Woodville, Earl Rivers. Gloucester obtained possession of the king's
 person, and, having arrested Rivers and some of his supporters, assumed
 the crown himself after a very slight and feigned reluctance, on the
@@ -27,7 +27,7 @@ the general conviction that they had been murdered, it was twenty years
 before the manner of this deed was discovered. According to the
 narrative of Sir Thomas More, Sir Robert Brackenbury, the constable of
 the Tower, refused to obey Richard's command to put the young princes to
-death; but he complied with a warrant ordering him to give up his keys
+death; but he complied with a warrant ordering him to give up his [[Key|keys]]
 for one night to Sir James Tyrell, who had arranged for the
 assassination. Two men, Miles Forest and John Dighton, then smothered
 the youths under pillows while they were asleep. The murder was

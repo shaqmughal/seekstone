@@ -15,7 +15,7 @@ forward on each side so as to surround the mouth, the two upgrowths
 meeting on the dorsal side of the head--whence the name Cephalopoda. The
 perioral portion of the foot is drawn out into paired arm-like
 processes; these may be beset with sheathed tentacles or with suckers or
-hooks, or both. The epipodia are expanded into a pair of muscular lobes
+hooks, or both. The epipodia are expanded into a pair of muscular [[Lobe|lobes]]
 right and left, which are bent round towards one another so that their
 free margins meet and constitute a short tube--the siphon or funnel. The
 hind-foot is either very small or absent. A distinctive feature of the
@@ -44,7 +44,7 @@ the torsion of the visceral mass seen in the Anisopleurous Gastropoda.
   efficient branchial organs (figs. 4, 24),
 
   The vascular system is very highly developed; the heart consists of a
-  pair of auricles and a ventricle (figs. 12, 28). Branchial hearts are
+  pair of [[Auricle|auricles]] and a ventricle (figs. 12, 28). Branchial hearts are
   formed on the afferent vessels of the branchiae. It is not known to
   what extent the minute subdivision of the arteries extends, or whether
   there is a true capillary system.
@@ -81,7 +81,7 @@ the torsion of the visceral mass seen in the Anisopleurous Gastropoda.
   applied to this modification (see figs. 6, 24). Elaborate
   spermatophores or sperm-ropes are formed by all Cephalopoda, and very
   usually the female possesses special capsule-forming and nidamental
-  glands for providing envelopes to the eggs (fig. 4, g.n.). The egg is
+  glands for providing envelopes to the [[Egg|eggs]] (fig. 4, g.n.). The egg is
   large, and the development is much modified by the presence of an
   excessive amount of food-material diffused in the protoplasm of the
   egg-cell. Trochosphere and veliger stages of development are
@@ -90,7 +90,7 @@ the torsion of the visceral mass seen in the Anisopleurous Gastropoda.
 The Cephalopoda are divisible into two orders, Tetrabranchiata and
 Dibranchiata, the names of which (due to Sir R. Owen) describe the
 number of gill-plumes present; but in fact there are several characters,
-of as great importance as those derived from the gills, by which the
+of as great importance as those derived from the [[Gill|gills]], by which the
 members of these two orders are separated from one another.
 
 ORDER 1. TETRABRANCHIATA (= Schizosiphona, Tentaculifera).
@@ -244,7 +244,7 @@ remaining two to the pedal appendages.
 
   [Illustration: FIG. 2.--Spirit specimen of female Pearly Nautilus,
   removed from its shell, and seen from the antero-dorsal aspect (drawn
-  from nature by A.G. Bourne).
+  from nature by A.G. [[Bourne]]).
 
     m, The dorsal "hood" formed by the enlargement of the outer or
     annular lobe of the fore-foot, and corresponding to the sheaths of
@@ -946,7 +946,7 @@ remaining two to the pedal appendages.
   excretory product is very rapidly discharged; in _Nautilus_ a
   pink-coloured powder is found accumulated in the renal sacs,
   consisting of calcium phosphate. The presence of this phosphatic
-  calculus by no means proves that such was the sole excretion of the
+  calculus by no means proves that such was the sole [[Excretion|excretion]] of the
   renal glandular tissue. In _Nautilus_ a glandular growth like that
   rising from the wall of the branchial vessel into its corresponding
   renal sac, but larger in size, depends from each branchial afferent
@@ -1089,7 +1089,7 @@ remaining two to the pedal appendages.
   resides in certain processes within the mouth of _Nautilus_ and other
   Cephalopoda.
 
-  The otocysts of _Nautilus_ were discovered by J.D. Macdonald. Each
+  The otocysts of _Nautilus_ were discovered by J.D. [[Macdonald]]. Each
   lies at the side of the head, ventral to the eye, resting on the
   capito-pedal cartilage, and supported by the large auditory nerve
   which apparently arises from the pedal ganglion but originates in the
@@ -1411,7 +1411,7 @@ remaining two to the pedal appendages.
 
     Fam. 7. _Ammonitidae_. Shell coiled, with narrow whorls which do not
     embrace one another, aperture simple, a horny anaptychus present.
-    _Ammonites_, Jurassic. _Arietites_, Jurassic. _Aegoceras_, Lias.
+    _Ammonites_, Jurassic. _Arietites_, Jurassic. _Aegoceras_, [[Lias]].
 
     Fam. 8. _Harpoceratidae_. Shell discord and flattened, with a
     carinated border, aperture provided with lateral projections, a
@@ -1854,7 +1854,7 @@ either side (fig. 22).
   apparently absent in _Nautilus_. They are originally single cells of
   ectodermic origin which sink below the epidermis and become connected
   with radiating muscular fibres. The cells are single but multinuclear.
-  Different cells contain pigments of different colours, yellow, brown,
+  Different cells contain pigments of different [[Colours|colours]], yellow, brown,
   red or blue. Each cell in life is in constant tremulous movement;
   under the influence of nervous excitement the cells are suddenly
   expanded or contracted, producing blushes of colour and pallor. By
@@ -2609,7 +2609,7 @@ either side (fig. 22).
   History of the Pearly Nautilus," A. Willey's _Zoological Results_, pt.
   vi. (1902); Foord, _Cat. Fossil Cephalopoda in British Museum_;
   Alpheus Hyatt, "Fossil Cephalopods of the Museum of Comp. Zoology,"
-  _Bull. Mus. Comp. Zool._ (Cambridge, U.S., 1868); Jalta, "I Cefalopodi
+  _[[Bull]]. Mus. Comp. Zool._ (Cambridge, U.S., 1868); Jalta, "I Cefalopodi
   viventi nel golfo di Napoli," _Fauna und Flora des Golfes von Neapel_,
   xxiii. (1896); Joubin, "Céphalopodes de l'atlantique nord," "Céph. de
   la Princesse Alice," _Camp. sci. Albert I^er de Monaco_, ix. (1895),

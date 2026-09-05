@@ -9,7 +9,7 @@ and female (below) flowers. The familiar brown spike is a dense mass of
 minute one-seeded fruits, each on a long hair-like stalk and covered with
 long downy hairs, which render the fruits very light and readily carried by
 the wind. The name bulrush is more correctly applied to _Scirpus
-lacustris_, a member of a different family (Cyperaceae), a common plant in
+lacustris_, a member of a different family ([[Cyperaceae]]), a common plant in
 wet places, with tall spongy, usually leafless stems, bearing a tuft of
 many-flowered spikelets. The stems are used for matting, &c. The bulrush of
 Scripture, associated with the hiding of Moses, was the _Papyrus_ (_q.v._),

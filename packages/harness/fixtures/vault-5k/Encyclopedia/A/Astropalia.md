@@ -14,7 +14,7 @@ and buildings are known from numerous inscriptions. The Roman emperors
 recognized it as a free state, and in the middle ages it was called
 _Stampalia_, and belonged to the noble Venetian family of Quirini. It
 was taken by the Turks in the 16th century, and is now noted for its
-sponges. The customs and dress of the people, who speak a patois of
+sponges. The customs and [[Dress|dress]] of the people, who speak a patois of
 romaic origin, are interesting.
 
 ## References

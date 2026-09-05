@@ -15,7 +15,7 @@ most physical, astronomical, nautical and surveying instruments.
 The art was first practised by clockmakers for cutting the teeth of
 their wheels at regular intervals; but so long as it was confined to
 them no particular delicacy or accurate nicety in its performance was
-required. This only arose when astronomy began to be seriously studied,
+required. This only arose when [[Astronomy|astronomy]] began to be seriously studied,
 and the exact position of the heavenly bodies to be determined, which
 created the necessity for strictly accurate means of measuring linear
 and angular magnitudes. Then it was seen that graduation was an art
@@ -31,7 +31,7 @@ divisions, or a screw or a divided plate; but, once in the possession of
 one such divided instrument, it was a comparatively easy matter to
 employ it as a standard. Hence graduation divides itself into two
 distinct branches, _original graduation_ and _copying_, which latter may
-be done either by the hand or by a machine called a dividing engine.
+be done either by the hand or by a [[Machine|machine]] called a dividing engine.
 Graduation may therefore be treated under the three heads of _original
 graduation_, _copying_ and _machine graduation_.
 
@@ -45,7 +45,7 @@ which belonged to Napier of Merchiston, and which only read to
 minutes--a result, according to Thomson and Tait (_Nat. Phil._), "giving
 no greater accuracy than is now attainable by the pocket sextants of
 Troughton and Simms, the radius of whose arc is little more than an
-inch."
+[[Inch|inch]]."
 
   The original graduation of a straight line is done either by the
   method of continual bisection or by stepping. In continual bisection
@@ -61,7 +61,7 @@ inch."
   stepping the smallest division required is first taken, as accurately
   as possible, by spring dividers, and that distance is then laid off,
   by successive steps, from one end of the line. In this method, any
-  error at starting will be multiplied at each division by the number of
+  [[Error|error]] at starting will be multiplied at each division by the number of
   that division. Errors so made are usually adjusted by the dots being
   put either back or forward a little by means of the dividing punch
   guided by a magnifying glass. This is an extremely tedious process, as
@@ -72,7 +72,7 @@ The division of circular arcs is essentially the same in principle as
 the graduation of straight lines.
 
   The first example of note is the 8-ft. mural circle which was
-  graduated by George Graham (1673-1751) for Greenwich Observatory in
+  graduated by George [[Graham]] (1673-1751) for [[Greenwich]] Observatory in
   1725. In this two concentric arcs of radii 96.85 and 95.8 in.
   respectively were first described by the beam-compass. On the inner of
   these the arc of 90 deg. was to be divided into degrees and 12th parts
@@ -98,7 +98,7 @@ the graduation of straight lines.
   constructed by which the readings of the one arc could be converted
   into those of the other. After the dots indicating the required
   divisions were obtained, either straight strokes all directed towards
-  the centre were drawn through them by the dividing knife, or sometimes
+  the centre were drawn through them by the dividing [[Knife|knife]], or sometimes
   small arcs were drawn through them by the beam-compass having its
   fixed point somewhere on the line which was a tangent to the
   quadrantal arc at the point where a division was to be marked.
@@ -160,7 +160,7 @@ the graduation of straight lines.
   frictional contact, on the outer edge. The roller was also, after
   having been properly adjusted as to size, divided as accurately as
   possible into 16 equal parts by lines parallel to its axis. While the
-  frame carrying the roller was moved once round along the circle, the
+  [[Frame|frame]] carrying the roller was moved once round along the circle, the
   points of contact of the roller-divisions with the circle were
   accurately observed by two microscopes attached to the frame, one of
   which (which we shall call H) commanded the ring on the circle near
@@ -211,7 +211,7 @@ the graduation of straight lines.
   the mean interval between any two dots is 360 deg./256 = 5' X 16-7/8,
   and hence, in the final division, this interval must be divided into
   16-7/8 equal parts. To accomplish this a small instrument, called a
-  subdividing sector, was provided. It was formed of thin brass and had
+  subdividing sector, was provided. It was formed of thin [[Brass|brass]] and had
   a radius about four times that of the roller, but made adjustable as
   to length. The sector was placed concentrically on the axis, and
   rested on the upper end of the roller. It turned by frictional
@@ -284,7 +284,7 @@ In copying circles use is made of the dividing plate. This is a circular
 plate of brass, of 36 in. or more in diameter, carefully graduated near
 its outer edge. It is turned quite flat, and has a steel pin fixed in
 its centre, and at right angles to its plane. For guiding the dividing
-knife an instrument called an index is employed. This is a straight bar
+knife an instrument called an [[Index|index]] is employed. This is a straight bar
 of thin steel of length equal to the radius of the plate. A piece of
 metal, having a V notch with its angle a right angle, is riveted to one
 end of the bar in such a position that the vertex of the notch is
@@ -320,7 +320,7 @@ all succeeding engines for dividing circles.
   direction, it carried the tangent screw with it, and so turned the
   plate, but when it moved in the opposite direction, it left the
   tangent screw, and with it the plate, stationary. Round the spiral
-  groove of the cylinder a catgut band was wound, one end of which was
+  groove of the cylinder a [[Catgut|catgut]] band was wound, one end of which was
   attached to a treadle and the other to a counterpoise weight. When the
   treadle was depressed the tangent screw turned round, and when the
   pressure was removed it returned, in obedience to the weight, to its
@@ -395,15 +395,15 @@ permission.
   can be altogether removed from contact with the plate. The edge of the
   plate is ratched by 4320 teeth which were cut opposite the original
   division by a circular cutter attached to the screw frame. H is the
-  spiral barrel round which the catgut band is wound, one end of which
-  is attached to the crank L on the end of the axis J and the other to a
+  spiral [[Barrel|barrel]] round which the catgut band is wound, one end of which
+  is attached to the [[Crank|crank]] L on the end of the axis J and the other to a
   counterpoise weight not seen. On the other end of J is another crank
   inclined to L and carrying a band and counterpoise weight seen at K.
-  The object of this weight is to balance the former and give steadiness
+  The object of this weight is to [[Balance|balance]] the former and give steadiness
   to the motion. On the axis J is seen a pair of bevelled wheels which
   move the rod I, which, by another pair of bevelled wheels attached to
-  the box N, gives motion to the axis M, on the end of which is an
-  eccentric for moving the bent lever O, which actuates the bar carrying
+  the [[Box|box]] N, gives motion to the axis M, on the end of which is an
+  [[Eccentric|eccentric]] for moving the bent lever O, which actuates the bar carrying
   the cutter. Between the eccentric and the point of the screw P is an
   undulating plate by which long divisions can be cut. The cutting
   apparatus is supported upon the two parallel rails which can be

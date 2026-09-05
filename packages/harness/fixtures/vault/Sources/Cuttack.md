@@ -1,18 +1,18 @@
 # Cuttack
 
 CUTTACK, a city and district of British India in the Orissa division of
-Bengal. The city is situated at the head of the delta of the Mahanadi.
+[[Bengal]]. The city is situated at the head of the [[Delta|delta]] of the [[Mahanadi]].
 Pop. (1901) 51,364. It is the centre of the Orissa canal system, and an
-important station on the East Coast railway from Madras to Calcutta. It
+important station on the East Coast railway from Madras to [[Calcutta]]. It
 contains the government college, named after Mr Ravenshaw, a former
 commissioner; a high school, a training school, a survey school, a
 medical school and a law school. The city formed one of the five royal
 strongholds of ancient Orissa and was founded by a warlike Hindu prince,
 Makar Kesari, who reigned from 953 to 961. Native kings protected it
-from the rivers by a masonry embankment several miles long, built of
+from the rivers by a [[Masonry|masonry]] [[Embankment|embankment]] several miles long, built of
 enormous blocks of hewn stone, and in some places 25 ft. high. A
 fortress defended the north-west corner of the town, and was captured by
-the English from the Mahrattas in October 1803. It is now abandoned as a
+the English from the [[Mahrattas]] in October 1803. It is now abandoned as a
 place of defence.
 
 The DISTRICT OF CUTTACK lies in the centre of Orissa, occupying the
@@ -23,35 +23,35 @@ second, an intermediate stretch of rice plains; third, a broken hilly
 region, which forms the western boundary of the district. The marshy
 strip along the coast is covered with swamps and malaria-breeding
 jungles. Towards the sea the solid land gives place to a vast network of
-streams and creeks, whose sluggish waters are constantly depositing
+streams and [[Creek|creeks]], whose sluggish waters are constantly depositing
 silt, and forming morasses or quicksands. Cultivation does not begin
 till the limits of this dismal region are passed. The intermediate rice
 plains stretch inland for about 40 m. and occupy the older part of the
 delta between the sea-coast strip and the hilly frontier. They are
 intersected by three large rivers, the Baitarani, Brahmani and Mahanadi.
-These issue in magnificent streams through three gorges in the frontier
+These issue in magnificent streams through three [[Gorges|gorges]] in the frontier
 hills. The Cuttack delta is divided into two great valleys, one of them
 lying between the Baitarani and the Brahmani, the other between the
 Brahmani and the Mahanadi. The rivers having, by the silt of ages,
-gradually raised their beds, now run along high levels. During floods
+gradually raised their beds, now run along high levels. During [[Flood|floods]]
 they pour over their banks upon the surrounding valleys, by a thousand
 channels which interlace and establish communication between the main
 streams. After numerous bifurcations they find their way into the sea by
 three principal mouths. Silt-banks and surf-washed bars render the
 entrance to these rivers perilous. The best harbour in Cuttack district
-is at False Point, on the north of the Mahanadi estuary. It consists of
+is at [[False Point]], on the north of the Mahanadi estuary. It consists of
 an anchorage, land-locked by islands or sand-banks, and with two fair
 channels navigable towards the land. The famine commissioners in 1867
-reported it to be the best harbour on the coast of India from the Hugli
+reported it to be the best harbour on the coast of India from the [[Hugli]]
 to Bombay.
 
 The intermediate tract is a region of rich cultivation, dotted with
-great banyan trees, thickets of bamboos, exquisite palm foliage and
+great [[Banyan|banyan]] trees, thickets of bamboos, exquisite palm foliage and
 mango groves. The hilly frontier separates the delta of British Orissa
 from the semi-independent tributary states. It consists of a series of
 ranges, 10 to 15 m. in length, running nearly due east and west, with
 densely-wooded slopes and lovely valleys between. The timber, however,
-is small, and is of little value except as fuel. The political character
+is small, and is of little value except as [[Fuel|fuel]]. The political character
 of these three tracts is as distinct as are their natural features. The
 first and third are still occupied by feudal chiefs, and have never been
 subjected to a regular land-settlement, by either the Mussulman or the
@@ -64,7 +64,7 @@ highest hills within the district in the western or frontier tract do
 not exceed 2500 ft. They are steep, and covered with jungle, but can be
 climbed by men. The most interesting of them are the Assa range, with
 its sandal trees and Buddhist remains; Udayagiri (Sunrise-hill), with
-its colossal image of Buddha, sacred reservoir, and ruins; and Assagiri,
+its colossal [[Image|image]] of Buddha, sacred reservoir, and ruins; and Assagiri,
 with its mosque of 1719. The Mahavinayaka peak, visible from Cuttack,
 has been consecrated for ages to Siva-worship by ascetics and pilgrims.
 
@@ -81,9 +81,9 @@ Hindus. They occupy, in fact, an intermediate stage of degradation
 between the comparatively well-to-do tribes in the tributary states
 (the stronghold and home of the race), and the Pans, Bauris, Kandras and
 other semi-aboriginal peoples on the lowlands, who rank as the basest
-castes of the Hindu community. The great bulk of the Indo-Aryan or Hindu
-population consists of Uriyas, with a residue of immigrant Bengalis,
-Lala Kayets from Behar and northern India, Telingas from the Madras
+[[Caste|castes]] of the Hindu community. The great bulk of the Indo-Aryan or Hindu
+population consists of Uriyas, with a residue of immigrant [[Bengali|Bengalis]],
+Lala Kayets from [[Behar]] and northern India, Telingas from the Madras
 coast, Mahrattas from central and western India, a few Sikhs from the
 Punjab and Marwaris from Rajputana. The Mahommedans are chiefly the
 descendants of the Pathans who took refuge in Orissa after the
@@ -94,8 +94,8 @@ are _biali_ or early rice, _sarad_ or winter rice, and _dalua_ or spring
 rice. The other cereal crops consist of _mandua_ (a grass-like plant
 producing a coarse grain resembling rice), wheat, barley, and _china_, a
 rice-like cereal. _Suan_, another rice-like cereal, not cultivated,
-grows spontaneously in the paddy fields. Pulses of different sorts,
-oilseeds, fibres, sugar-cane, tobacco, spices and vegetables also form
+grows spontaneously in the paddy [[Fields|fields]]. Pulses of different sorts,
+oilseeds, [[Fibres|fibres]], sugar-cane, tobacco, spices and vegetables also form
 crops of the district. The cultivators consist of two classes--the
 resident husbandmen (_thani_) and the non-resident or migratory
 husbandmen (_pahe_).
@@ -110,7 +110,7 @@ rivers along the coast.
 
 
 CUTTLE-FISH. The more familiar and conspicuous types of the molluscan
-class Cephalopoda (q.v.) are popularly known in English as cuttle-fish,
+class [[Cephalopoda]] (q.v.) are popularly known in English as cuttle-fish,
 squid, octopus and nautilus. The first of these names (from the A.S.
 _cudele_) is applied more particularly to the common _Sepia_ (fig. 1),
 characterized by its internal calcareous shell, sometimes known as
@@ -129,8 +129,8 @@ term cuttle-fishes is sometimes extended to include all the Cephalopoda,
 but as the peculiarities of the remarkable shell of the true nautilus,
 and those of the shell-less Octopoda are widely known, we shall consider
 the name here as applying only to those forms which have ten arms, an
-ink-sac, an internal shell-rudiment, and only one pair of gills in the
-mantle cavity. Technically these form the sub-order Decapoda, of the
+ink-sac, an internal shell-rudiment, and only one pair of [[Gill|gills]] in the
+[[Mantle|mantle]] cavity. Technically these form the sub-order Decapoda, of the
 order Dibranchia.
 
 The cuttle-fishes are characteristically swimming animals, in contrast
@@ -143,7 +143,7 @@ and furnished with suckers on their oral surface, and between the third
 and fourth of these arms on each side is a much longer tentacular arm,
 which is usually kept entirely withdrawn into a pocket of the skin. The
 mantle cavity is on the posterior side of the body, which is the lower
-side in the swimming position, and the funnel is a tube open at both
+side in the swimming position, and the [[Funnel|funnel]] is a tube open at both
 ends and connected with the body within the mouth of the mantle cavity.
 The mantle during life performs regular respiratory movements by which
 water is drawn into the cavity, passing between mantle and funnel, and
@@ -163,9 +163,9 @@ arms; e, the eyes.]
 The _Sepia_ feeds principally on Crustacea, and in aquaria has been
 observed to pursue and capture prawns. The method in which it secures
 its prey has been carefully observed and described by the present
-writer, who studied the living animal in the aquarium of the biological
+writer, who studied the living animal in the [[Aquarium|aquarium]] of the biological
 laboratory at Plymouth. The prawns support themselves on their long
-slender legs on convenient points of the rockwork, and the _Sepia_
+slender [[Leg|legs]] on convenient points of the rockwork, and the _Sepia_
 stalks them with great caution and determination, the rapid play of its
 chromatophores giving evidence of its excitement. When it has arrived
 within striking distance, the two tentacular arms are shot out with
@@ -177,11 +177,11 @@ aim.
 Two species of _Sepia_ occur in British and European waters, including
 the Mediterranean, namely, _S. elegans_ and _S. officinalis_. The usual
 length of the body is about 9 or 10 in. They live mostly between ten and
-forty fathoms, coming into shallower water in July and August to deposit
-their eggs, which are about as large as black currants and of somewhat
+forty [[Fathom|fathoms]], coming into shallower water in July and August to deposit
+their [[Egg|eggs]], which are about as large as black currants and of somewhat
 similar colour, and are connected by elongated stalks into a cluster
 attached to the sea-bottom. Other species occur in various parts of the
-world, e.g. _S. cultrata_, which is common on the coasts of Australia.
+world, e.g. _S. cultrata_, which is common on the coasts of [[Australia]].
 The _Sepiidae_ form the only family of cuttle-fishes in which the shell
 is calcified. They belong to the tribe Myopsida, characterized by the
 complete closure of the external corneal covering of the eye outside the
@@ -212,7 +212,7 @@ is elongated and conical, and reaches about a foot in length. The squid
 is gregarious, and forms a favourite food of the larger fishes,
 especially of conger. All the Myopsida are more or less littoral in
 habit, and the British forms are familiar in consequence of their
-frequent capture in the nets of fishermen. The shell, or "bone" as it is
+frequent capture in the nets of fishermen. The shell, or "[[Bone|bone]]" as it is
 commonly called, of the common _Sepia_ frequently occurs in abundance on
 the shore among the sea-weed and other refuse left by the tide.
 
@@ -232,13 +232,13 @@ of the body. The shell is similar to that of _Loligo_, but ends
 aborally in a little hollow cone. The suckers bear chitinous rings which
 are toothed along the outer edge. The tentacular arms are rather short
 and thick. Two specimens of allied species have been taken on British
-coasts, one of which, captured off Salcombe in Devonshire in 1892, had a
+coasts, one of which, captured off Salcombe in [[Devonshire]] in 1892, had a
 body 66 cm. (22 in.) long, and tentacular arms 64 cm. long, or nearly
 the same length as the body. Most of the species of _Ommatostrephes_ are
 naturally gregarious and oceanic, and occur in the open seas in all
-latitudes, swimming near the surface and often leaping out of the water.
+[[Latitude|latitudes]], swimming near the surface and often leaping out of the water.
 They are largely devoured by albatrosses and other marine birds, and by
-Cetacea. They are used as bait in the Newfoundland cod fishery.
+[[Cetacea]]. They are used as bait in the Newfoundland [[Cod|cod]] [[Fishery|fishery]].
 
 Some of the oceanic cuttle-fishes reach a very large size, and the
 stories of these ocean monsters which are narrated by the older writers,
@@ -246,7 +246,7 @@ though to some extent exaggerated, are now known to be founded on fact.
 The figure given by one author of a gigantic Cephalopod rising from the
 surface of the ocean and embracing with its arms a full-rigged ship does
 not accurately represent an actual occurrence, but on the other hand
-there are authentic instances on record of fishermen in small boats on
+there are [[Authentic|authentic]] instances on record of fishermen in small boats on
 the banks of Newfoundland being in great peril in consequence of large
 squids throwing their arms across their boats. In November 1874 a
 specimen was brought ashore at St John's, Newfoundland, which had been
@@ -257,14 +257,14 @@ length of the body and tentacles together varying from 30 to 52 ft., and
 the estimated weight of one of them being 1000 lb.
 
 In April 1875 one of these large squids occurred off Boffin's Island on
-the Irish coast. The crew of a curragh rowed out to it and attacked it,
+the Irish coast. The crew of a [[Curragh|curragh]] rowed out to it and attacked it,
 cutting off two of its arms and its head. The shorter arms measured 8
 ft. in length and 15 in. in circumference; the tentacular arms are said
 to have been 30 ft. long. In the Natural History Museum in London there
 is one of the shorter arms of a specimen; this arm is 9 ft. in length
 and 11 in. in circumference, and the total length of the specimen,
 including body and tentacles, is stated to have been 40 ft. The maximum
-known length of these giant squids is stated to be 18 metres or about
+known length of these [[Giant|giant]] squids is stated to be 18 metres or about
 58(1/2) ft. All these gigantic specimens belong, so far as at present
 known, to one genus called _Architeuthis_, referred to the same family
 as _Ommatostrephes_. They are the largest known invertebrates.
@@ -278,11 +278,11 @@ Alice" was fortunate enough to be able to make a very complete
 scientific investigation in the case of one specimen of the cachalot,
 which not only confirmed the most important of Mr Bullen's statements,
 but added considerably to our knowledge of oceanic cuttle-fishes. Off
-the Azores in July 1895 the prince in his yacht witnessed the killing of
+the [[Azores]] in July 1895 the prince in his yacht witnessed the killing of
 a cachalot 13.70 metres long (about 45 ft. 8 in.) by the crew of a
 whaler. The animal in its death-agony vomited the contents of its
 stomach, most of which were carefully collected and preserved, and
-afterwards examined by Professor Joubin. On the lips of the whale were
+afterwards examined by Professor Joubin. On the [[Lip|lips]] of the whale were
 found impressions several centimetres wide which corresponded exactly to
 the toothed suckers of the largest cuttle-fish arms obtained from its
 stomach. The contents of the stomach consisted entirely of cuttle-fish
@@ -346,7 +346,7 @@ concealment which usually prevent its capture, and that it was secured
 on this occasion only by the capture of the fish which had swallowed it.
 The fact that the shells are washed ashore in such large numbers is not
 fully explained. Possibly when freed from the animal the air in the
-chambers of the shell causes it to float, and in that case it would
+chambers of the shell causes it to [[Float|float]], and in that case it would
 naturally be sooner or later washed ashore.     (J. T. C.)
 
 ## See also

@@ -9,7 +9,7 @@ of German in the Prague University. In 1901 he was made a member of the
 Austrian house of peers. In philosophy he began with a strong
 predilection for the physical side of psychology, and at an early age he
 came to the conclusion that all existence is sensation, and, after a
-lapse into noümenalism under the influence of Fechner's _Psychophysics_,
+[[Lapse|lapse]] into noümenalism under the influence of Fechner's _Psychophysics_,
 finally adopted a universal physical phenomenalism. The Ego he considers
 not an entity sharply distinguished from the Non-ego, but merely, as it
 were, a medium of continuity of sensory impressions. His whole theory

@@ -1,6 +1,6 @@
 # Cocoa
 
-COCOA,[1] more properly CACAO, a valuable dietary substance yielded by
+COCOA,[1] more properly CACAO, a valuable [[Dietary|dietary]] substance yielded by
 the seeds of several small trees belonging to the genus _Theobroma_, of
 the natural order Sterculiaceae. The whole genus, which comprises twelve
 species, belongs to the tropical parts of the American continent; and
@@ -26,7 +26,7 @@ purplish-yellow colour, externally rough and marked with ten very
 distinct longitudinal ribs or elevations. The interior of the fruit has
 five cells, in each of which is a row of from 5 to 12 seeds embedded in
 a soft delicately pink acid pulp. Each fruit thus contains from 20 to 50
-or more seeds, which constitute the raw cacao or "cacao beans" of
+or more seeds, which constitute the raw cacao or "cacao [[Bean|beans]]" of
 commerce.
 
 [Illustration: Branch of Cocoa Tree, with Fruit in section, much
@@ -35,9 +35,9 @@ reduced.]
 The tree appears to have been originally a native of the coast lands of
 the Gulf of Mexico and tropical South America as far south as the basin
 of the Amazon; but it can be cultivated in suitable situations within
-the 25th parallels of latitude. It flourishes best within the 15th
+the 25th parallels of [[Latitude|latitude]]. It flourishes best within the 15th
 parallels, at elevations ranging from near the sea-level up to about
-2000 ft. in height. It is now cultivated in Mexico, Honduras, Guatemala,
+2000 ft. in height. It is now cultivated in Mexico, Honduras, [[Guatemala]],
 Nicaragua, Brazil, Peru, Ecuador, New Granada, Venezuela, Surinam,
 Guiana, and in many of the West Indian islands, particularly in
 Trinidad, San Domingo, Grenada, Cuba, Porto Rico and Jamaica. Away from
@@ -65,9 +65,9 @@ _Theobroma Cacao_, are recognized in cultivation. According to Dr P.
 Preuss, who has travelled extensively in the cacao producing countries
 of the world studying this crop, it is impossible to embody in a single
 table the characteristics of the world's varieties. A separate
-classification is needed for almost each country. In 1882 the Trinidad
+[[Classification|classification]] is needed for almost each country. In 1882 the Trinidad
 forms were classified by Sir D. Morris. This table was later revised by
-Mr J. H. Hart, and more recently Mr R. H. Lock studied the Ceylon
+Mr J. H. [[Hart]], and more recently Mr R. H. [[Lock]] studied the Ceylon
 varieties. As the Ceylon cacaos were obtained mainly from Trinidad, and
 as Mr Lock's results agree substantially with those of Sir D. Morris,
 they serve to illustrate the distinguishing characteristics of the West
@@ -131,7 +131,7 @@ and main branches. The pods are carefully picked when ripe, broken open,
 and the slimy mass of contained seeds and their enveloping mucilaginous
 pulp extracted. The "beans" are next fermented or "sweated," often in
 special houses constructed for the purpose, or by placing them in heaps
-and covering with leaves or earth, or in baskets, barrels, &c., lined
+and covering with leaves or earth, or in baskets, [[Barrel|barrels]], &c., lined
 with banana leaves. During fermentation the beans should be stirred once
 daily or oftener. The time of fermentation varies from one to twelve or
 even more days. Pale-coloured beans usually require less time than the
@@ -148,7 +148,7 @@ After the fermentation is completed the beans may or may not be washed,
 opinion as to the desirability of this process varying in different
 countries. In any case, however, they have to be dried and cured. When
 climatic conditions are favourable this is commonly done by spreading
-the beans in thin layers on barbecues, or stone drying floors, or
+the beans in thin layers on [[Barbecue|barbecues]], or stone drying floors, or
 otherwise exposing them to the sun. Sliding roofs or other means of
 rapidly affording shelter are desirable in case of showers, excessive
 heat, and also for protection at night. Artificial drying is now often
@@ -159,9 +159,9 @@ slight coating of red earth or clay being added. Polishing the beans
 also gives them a brighter appearance, removes mildew, and remnants of
 dried mucilage, &c. This may be done by "dancing the cacao," i.e.
 treading a heap with the bare feet, or by the use of special polishing
-machines. The cacao is now ready for shipment, and is usually packed in
+[[Machine|machines]]. The cacao is now ready for shipment, and is usually packed in
 bags. Hamburg is the chief port in the world for cacao. Until quite
-recently, however, this position was held by Havre, which is now second
+recently, however, this position was held by [[Havre]], which is now second
 in Europe. New York imports about the same amount as Havre. London
 follows next in importance.
 
@@ -187,7 +187,7 @@ rapid development in West Africa.
   Jamaica                               1,484       1,350
   French West Indies                    1,200         825
   St. Lucia                               700         765
-  Dominica                                597         ..
+  [[Dominica]]                                597         ..
                                       -------     -------
   Total, America                      103,114      82,541
 
@@ -195,7 +195,7 @@ rapid development in West Africa.
     _Africa._
                                     1905 (tons).  1901 (tons).
   San Thomé                            25,379      16,983
-  Gold Coast and Lagos                  5,666         997
+  [[Gold Coast]] and Lagos                  5,666         997
   Cameroons                             1,185         528
   Congo Free State                        195         ..
                                       -------     -------
@@ -242,7 +242,7 @@ which also contain approximately: albuminoids (6%), alkaloids (2%), fat
 composition of the kernels, according to Payen, is:--
 
                                 Per cent.
-  Fat (cacao butter)               50
+  Fat (cacao [[Butter|butter]])               50
   Starch                           10
   Albuminoids                      20
   Water                            12
@@ -314,7 +314,7 @@ _Der Gordian_.
   Holland                        19,295
   Spain                           6,102
   Switzerland                     5,218
-  Belgium                         3,019
+  [[Belgium]]                         3,019
   Austria Hungary                 2,668
   Russia                          2,230
   Denmark                         1,125

@@ -31,7 +31,7 @@ in 1901 (_Denkmaler Persischer Baukunst_; 65 large folio plates).
 European and Chinese merchants resided at Ardebil in the middle ages,
 and for a long time the city was a great emporium for central Asian and
 Indian merchandise, which was forwarded to Europe via Tabriz, Trebizond
-and the Black Sea, and also by way of the Caucasus and the Volga. Since
+and the [[Black Sea]], and also by way of the Caucasus and the Volga. Since
 the beginning of the 16th century, when Persia fell under the sway of
 the Safavis, the place has been much frequented by pilgrims who come to
 pay their devotions at the shrine of Shaikh Safi. This shrine is a
@@ -43,7 +43,7 @@ grand carpet which had covered the floor of one of the mosques for three
 centuries was purchased by a traveller about 1890 for 100 pounds, and
 was finally acquired by the South Kensington Museum for many thousands.
 This beautiful carpet measures 34 ft. by 17 ft. 6 in., and contains 380
-hand-tied knots in the square inch, which gives over 32,500,000 knots to
+hand-tied [[Knot|knots]] in the square [[Inch|inch]], which gives over 32,500,000 knots to
 the whole carpet (W. Griggs, _Asian Carpet Designs_). (A. H. S.)
 
 ## References

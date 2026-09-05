@@ -11,22 +11,22 @@ the forces of Saladin being in the vicinity, the army moved in such a
 formation as to be able to give battle at any moment. Richard thus moved
 slowly, but in such compact order as to arouse the admiration even of
 the enemy. The right column of baggage and supplies, guarded by
-infantry, was nearest the sea, the various corps of heavy cavalry, one
+infantry, was nearest the sea, the various [[Corps|corps]] of heavy [[Cavalry|cavalry]], one
 behind the other, formed the central column, and on the exposed left
 flank was the infantry, well closed up, and "level and firm as a wall,"
 according to the testimony of Saracen authors. The columns were united
-into a narrow rectangle by the advanced and rear guards. The whole march
+into a narrow rectangle by the advanced and rear [[Guards|guards]]. The whole march
 was a running fight between untiring horse-archers and steady infantry.
 Only once did the column open out, and the opportunity was swiftly
 seized by the Saracens, yet so rapid was the rally of the crusaders that
 little damage was done (August 25). The latter maintained for many days
 an absolutely passive defence, and could not be tempted to fight;
-Richard and his knights made occasional charges, but quickly withdrew,
+Richard and his [[Knight|knights]] made occasional charges, but quickly withdrew,
 and on the 7th of September this irregular skirmishing, in which the
 crusaders had scarcely suffered at all, culminated in the battle of
 Arsuf. Saladin had by now decided that the only hope of success lay in
 compelling the rear of the Christians' column to halt--and thus opening
-a gap, should the van be still on the move. Richard, on the other hand,
+a [[Gap|gap]], should the van be still on the move. Richard, on the other hand,
 had prepared for action by closing up still more, and as the crusaders
 were now formed a simple left turn brought them into two lines of
 battle, infantry in first line, cavalry in second line. Near Arsuf the

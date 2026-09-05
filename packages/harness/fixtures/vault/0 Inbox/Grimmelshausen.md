@@ -1,11 +1,11 @@
 # Grimmelshausen
 
-GRIMMELSHAUSEN, HANS JAKOB CHRISTOFFEL VON (c. 1625-1676), German
+GRIMMELSHAUSEN, HANS [[Jakob|JAKOB]] CHRISTOFFEL VON (c. 1625-1676), German
 author, was born at Gelnhausen in or about 1625. At the age of ten he
 was kidnapped by Hessian soldiery, and in their midst tasted the
 adventures of military life in the Thirty Years' War. At its close,
-Grimmelshausen entered the service of Franz Egon von Furstenberg, bishop
-of Strassburg and in 1665 was made _Schultheiss_ (magistrate) at Renchen
+Grimmelshausen entered the service of [[Franz]] Egon von [[Furstenberg]], bishop
+of Strassburg and in 1665 was made _Schultheiss_ ([[Magistrate|magistrate]]) at Renchen
 in Baden. On obtaining this appointment, he devoted himself to literary
 pursuits, and in 1669 published _Der abenteuerliche Simplicissimus,
 Teutsch, d.h. die Beschreibung des Lebens eines seltsamen Vaganten,
@@ -28,11 +28,11 @@ Renchen on the 17th of August 1676, where a monument was erected to him
 in 1879.
 
   Editions of _Simplicissimus_ and the _Simplicianische Schriften_ have
-  been published by A. von Keller (1854), H. Kurz (1863-1864), J.
+  been published by A. von Keller (1854), H. [[Kurz]] (1863-1864), J.
   Tittmann (1877) and F. Bobertag (1882). A reprint of the first edition
   of the novel was edited by R. Kogel for the series of _Neudrucke des
   16. und 17. Jahrhunderts_ (1880). See the introductions to these
-  editions; also F. Antoine, _Etude sur le Simplicissimus de
+  editions; also F. [[Antoine]], _Etude sur le Simplicissimus de
   Grimmelshausen_ (1882) and E. Schmidt in his _Charakteristiken_, vol.
   i. (1886).
 

@@ -13,9 +13,9 @@ the campaigns of 1866 and 1870-71, in both of which he was wounded. He
 retired with the rank of captain and spent some time in America,
 afterwards settling at Kellinghusen in Holstein, where he remained till
 1887. After some time at Munich, he settled in Altona and then at
-Altrahistedt, near Hamburg. He died in July 1909. He first attracted
+Altrahistedt, near [[Hamburg]]. He died in July 1909. He first attracted
 attention by the volume of poems, _Adjutantenritte und andere Gedichte_
-(1883), which was followed by several unsuccessful dramas, a volume of
+(1883), which was followed by several unsuccessful [[Drama|dramas]], a volume of
 short stories, _Eine Sommerschlacht_ (1886), and a novel _Breide
 Hummelsbüttel_ (1887). Other collections of short stories appeared under
 the titles _Unter flatternden Fahnen_ (1888). _Der Mäcen_ (1889), _Krieg

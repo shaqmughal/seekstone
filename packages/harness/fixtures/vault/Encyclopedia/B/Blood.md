@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Blood"
 
 BLOOD, the circulating fluid in the veins and arteries of animals. The
 word itself is common to Teutonic languages; the O. Eng. is _blod_, cf.
-Gothic _bloth_, Dutch _bloed_, Ger. _Blut_. It is probably ultimately
+[[Gothic]] _bloth_, Dutch _bloed_, Ger. _Blut_. It is probably ultimately
 connected with the root which appears in "blow," "bloom," meaning
 flourishing or vigorous. The Gr. word for blood, [Greek: aima], appears
 as a prefix _haemo-_ in many compound words. As that on which the life
@@ -30,7 +30,7 @@ the expression is not quite clear, but it is certainly merely an
 application of the adjective formed from "blood." The _New English
 Dictionary_ suggests that it refers to the use of "blood" for a young
 rowdy of aristocratic birth, which was common at the end of the 17th
-century, and later became synonymous with "dandy," "buck," &c.; "bloody
+century, and later became synonymous with "dandy," "[[Buck|buck]]," &c.; "bloody
 drunk" meant therefore "drunk as a blood," "drunk as a lord." The
 expression came into common colloquial use as a mere intensive, and was
 so used till the middle of the 18th century. There can be little doubt
@@ -55,7 +55,7 @@ lie on a surface whence such materials can be directly discharged to the
 exterior. Hence the main number of the cells of the organism must depend
 upon some mechanism by which the waste products can be carried away from
 them to that group of cells whose duty it is to modify them, or
-discharge them from the body. These two ends are attained by the aid of
+[[Discharge|discharge]] them from the body. These two ends are attained by the aid of
 a circulating fluid, a fluid which is constantly flowing past every cell
 of the body. From it the cells extract the food materials they require
 for their sustenance, and into it they discharge the waste materials
@@ -86,7 +86,7 @@ i.e. of setting to a solid or stiff jelly by means of which the orifices
 of the torn vessels become plugged and the bleeding stayed.
 
 The performance of these essential functions depends upon the
-maintenance of a continuous flow past all tissue cells, and this is
+[[Maintenance|maintenance]] of a continuous flow past all tissue cells, and this is
 attained by the circulatory mechanism, consisting of a central pump, the
 heart, and a system of ramifying tubes, the arteries, through which the
 blood is forced from the heart to every tissue (see VASCULAR SYSTEM). A
@@ -126,7 +126,7 @@ and the greater the amount of work it can perform within a given time.
 The rate of supply is of much less importance in the case of the other
 food substances because they are far more soluble in water, so that the
 supply in sufficient quantity can easily be met by a relatively slow
-blood flow. Hence we find that the gradual evolution of the animal
+blood flow. Hence we find that the [[Gradual|gradual]] evolution of the animal
 kingdom goes hand in hand with the gradual development of a greater
 oxygen-carrying capacity of the blood and an increase in the rate of its
 flow.
@@ -159,8 +159,8 @@ organisms such an absorption would in many instances rapidly prove
 fatal, and special provision is made to prevent such an accident. These,
 therefore, are made to travel along the lymphatic channels, and so,
 before gaining access to the blood stream and thus to the body
-generally, have to run the gauntlet of the protective mechanism provided
-by the lymphatic glands, where in the major number of cases they are
+generally, have to run the [[Gauntlet|gauntlet]] of the protective mechanism provided
+by the lymphatic glands, where in the [[Major|major]] number of cases they are
 readily destroyed.
 
 Hence we see that first and foremost we have to regard the blood as a
@@ -187,25 +187,25 @@ reacting in these ways the body has become capable of withstanding the
 attacks of many different varieties of micro-organisms, of both animal
 and vegetable origin.
 
-_General Properties._--Blood is an opaque, viscid liquid of bright red
+_General Properties._--Blood is an opaque, viscid liquid of [[Bright|bright]] red
 colour possessing a distinct and characteristic odour, especially when
 warm. Its opacity is due to the presence of a very large number of solid
-particles, the blood corpuscles, having a higher refractive index than
-that of the liquid in which they float. The specific gravity in man
+particles, the blood corpuscles, having a higher refractive [[Index|index]] than
+that of the liquid in which they [[Float|float]]. The specific gravity in man
 averages about 1.055. The specific gravity of the liquid portion, the
 plasma (Gr. [Greek: plasma], something formed or moulded, [Greek:
 plassein], to mould), is about 1.027, whilst that of the corpuscles
-amounts to 1.088. To litmus it reacts as a weak alkali.
+amounts to 1.088. To [[Litmus|litmus]] it reacts as a weak alkali.
 
 _Blood Plasma._--The plasma is a solution in water of a varied number of
 substances, and as a solvent it confers on the blood its power of acting
-as a carrier of food stuffs and waste products. One important food
+as a [[Carrier|carrier]] of food stuffs and waste products. One important food
 substance, oxygen, is, however, only partly carried in solution, being
 mainly combined with haemoglobin in the red corpuscles. The food stuffs
-carried by the plasma are proteins, carbohydrates, salts and water. The
+carried by the plasma are proteins, [[Carbohydrate|carbohydrates]], salts and water. The
 main waste products dissolved in it are ammonium carbonate, urea,
 urates, xanthin bases, creatin and small amounts of other nitrogenous
-bodies, carbonic acid as carbonates, other carbon compounds such as
+bodies, carbonic acid as carbonates, other [[Carbon|carbon]] compounds such as
 cholesterin, lecithin and a number of other substances. Thus, if we take
 mammalian blood as a type, the plasma would have the following
 approximate composition:--
@@ -213,10 +213,10 @@ approximate composition:--
   In 1000 grms. plasma--
     Water                                            901.51
     Substances not vaporizing at 120 deg. C.--
-      Fibrin                                  8.06
+      [[Fibrin]]                                  8.06
       Other proteins and organic substances  81.92
       Inorganic substances--
-        Chlorine                     3.536
+        [[Chlorine]]                     3.536
         Sulphuric acid               0.129
         Phosphoric acid              0.145
         Potassium                    0.314
@@ -233,7 +233,7 @@ _Proteins._--The proteins of the blood plasma belong to the two classes
 of the albumins and the globulins. The globulins present are named
 fibrinogen and serum-globulin; as its name implies, the chief
 physiological property of fibrinogen is that it can give rise to fibrin,
-the solid substance formed when blood clots. It possesses the typical
+the solid substance formed when blood [[Clot|clots]]. It possesses the typical
 properties of a globulin, i.e. it coagulates on heating (in this
 instance at a temperature of 56 deg.C.), and is precipitated by half
 saturating its solution with ammonium sulphate. It differs from other
@@ -249,7 +249,7 @@ and adding a small amount of acetic acid a precipitate is formed which
 in some respects differs from the remainder of the globulin present.
 Whether in these two instances we are dealing with approximately pure
 substances is extremely doubtful. A further important point in connexion
-with the chemistry of the globulins is that dextrose may be found among
+with the [[Chemistry|chemistry]] of the globulins is that dextrose may be found among
 their decomposition products, i.e. that a part of it, or possibly the
 whole, possesses a glucoside character.
 
@@ -272,7 +272,7 @@ other, fibrinoglobulin, possesses all the typical characteristics of the
 globulins and coagulates at 64 deg. C.
 
 _Carbohydrates._--Three several carbohydrates are described as occurring
-in plasma, viz. glycogen, animal gum and dextrose. If glycogen is
+in plasma, viz. glycogen, animal [[Gum|gum]] and dextrose. If glycogen is
 present in solution in the plasma it is there in very small quantities
 only, and has probably arisen from the destruction of the white blood
 corpuscles, since some leucocytes undoubtedly contain glycogen. A small
@@ -283,9 +283,9 @@ is present to the approximate amount of 0.15% in arterial blood. The
 amount may be much greater in the blood of the portal vein during
 carbohydrate absorption, and according to some observers there is less
 in venous than in arterial blood, but the difference is small and falls
-within the error of observation. The statement that when no absorption
+within the [[Error|error]] of observation. The statement that when no absorption
 is taking place the blood of the hepatic vein is richer in dextrose than
-that of the portal vein (Bernard) is denied by Pavy.
+that of the portal vein ([[Bernard]]) is denied by Pavy.
 
 _Fats._--Plasma or serum is as a rule quite clear, but after a meal rich
 in fats it may become quite milky owing to the presence of neutral fats
@@ -299,20 +299,20 @@ some uncertainty. It is possibly present as a soap or even as a neutral
 fat, since a little can be dissolved in plasma, the solvent substance
 being probably protein or cholesterin. Fatty acids also appear to be
 present to some extent combined with cholesterin forming cholesterin
-esters (about 0.06%).
+[[Esters|esters]] (about 0.06%).
 
 _Other Organic Compounds._--In addition to the substances above
 described, belonging to the three main classes of food stuffs, there are
 still other organic bodies present in plasma in small amounts, which for
 convenience we may classify as non-nitrogenous and nitrogenous. Among
-the former may be mentioned lactic acid, glycerin, a lipochrome, and
+the former may be mentioned [[Lactic Acid|lactic acid]], glycerin, a lipochrome, and
 probably many other substances of a similar type whose separation has
 not yet been effected.
 
 The non-protein nitrogenous constituents consist of the following:
 ammonia as carbonate or carbamate (0.2 to 0.6%), urea (0.02 to 0.05%),
 creatine, creatinine, uric acid, xanthine, hypoxanthine and occasionally
-hippuric acid. Three ferments are also described as being present: (1) a
+[[Hippuric Acid|hippuric acid]]. Three ferments are also described as being present: (1) a
 glycolytic ferment exerting an action upon dextrose; (2) a lipase or
 fat-splitting ferment; and (3) a diastase capable of converting starch
 into sugar.
@@ -326,7 +326,7 @@ to about 0.02%. Sulphuric acid is always present if the blood has been
 calcined for the purposes of the analysis, and may then be present to
 about 0.013%. This is, however, probably produced during the destruction
 of the protein, since it has been shown that no sulphate can be removed
-from normal plasma by dialysis. The amount of potassium present (0.03%)
+from normal plasma by [[Dialysis|dialysis]]. The amount of potassium present (0.03%)
 is less than one-tenth of that of the sodium, and the quantities of
 calcium and magnesium are even less.
 
@@ -356,7 +356,7 @@ following table which gives their diameters:--
 
 The coloured corpuscles of amphibia as well as of nearly all vertebrates
 below mammals are biconvex and elliptical. The following are the
-dimensions of some of the more common:--
+[[Dimension|dimensions]] of some of the more common:--
 
   Pigeon      0.0147 mm. long by 0.0065 mm. wide.
   Frog        0.0223  "     "    0.0157  "    "
@@ -390,7 +390,7 @@ carrier, for it possesses the power of combining chemically with oxygen
 and of yielding up that same oxygen whenever there is a decrease in the
 concentration of the oxygen in the solvent. Thus in a given solution of
 haemoglobin the amount of it which is combined with oxygen depends
-absolutely on the oxygen concentration. The greatest dissociation of
+absolutely on the oxygen concentration. The greatest [[Dissociation|dissociation]] of
 oxyhaemoglobin occurs as the oxygen tension falls from about 40 to 20
 mm. of mercury. That the oxygen forms a definite compound with the
 haemoglobin is proved by the fact that haemoglobin thoroughly saturated
@@ -402,7 +402,7 @@ colour, whereas haemoglobin is dark purple. A further striking
 characteristic of haemoglobin is that it contains iron in its molecule.
 The amount present, though small bears a perfectly definite quantitative
 relation to the amount of oxygen with which the haemoglobin is capable
-of combining (two atoms of oxygen to one of iron). One gram of
+of combining (two [[Atom|atoms]] of oxygen to one of iron). One gram of
 haemoglobin crystals can combine with 1.34 cc. of oxygen. On destruction
 with an acid or alkali, haemoglobin yields a pigment portion, haematin,
 and a protein portion, globin, the latter belonging to the group of the
@@ -413,7 +413,7 @@ further decomposed.
 
 _Destruction and Formation._--In the performance of their work the
 corpuscles gradually deteriorate. They are then destroyed, chiefly in
-the liver, but whether the whole of this process is effected by the
+the [[Liver|liver]], but whether the whole of this process is effected by the
 liver alone is not decided. It is proved, however, that the destruction
 of the haemoglobin is entirely effected there. It was for a long time
 considered to be one of the functions of the spleen to examine the red
@@ -530,7 +530,7 @@ a nucleus so that they are not cells. In the bird they are larger,
 ellipsoidal in shape and have a large nucleus in the centre of the cell.
 In reptiles and amphibia the red corpuscles are also nucleated, but the
 _stroma_ portion containing the haemoglobin is arranged in a thickened
-annular part encircling the nucleus. When seen from the flat they are
+[[Annular|annular]] part encircling the nucleus. When seen from the flat they are
 oval in section. In fishes the corpuscles show very much the same
 structure. A further very significant difference to be observed between
 the bloods of different vertebrates is in the amount of haemoglobin they
@@ -547,7 +547,7 @@ of the blood rises. This increase was a natural preliminary condition
 for the progress of evolution. In order that a more active animal might
 be developed the main essential was that the chemical processes of the
 cell should be carried out more rapidly, and as these processes are
-fundamentally oxidative, increased activity entails an increased rate
+fundamentally oxidative, increased activity [[Entail|entails]] an increased rate
 of supply of oxygen. This latter has been brought about in the animal
 kingdom in two ways, first by an increase in the concentration of the
 haemoglobin of the blood effected by an increase both in the number of
@@ -658,14 +658,14 @@ The object of the clotting of the blood is quite clear. It is to
 prevent, as far as possible, any loss of blood when there is an injury
 to an animal's vessels. The shed blood becomes converted into a solid,
 and this, extending into the interior of the ruptured vessel, forms a
-plug and thus arrests the bleeding. It is found that clotting is
+plug and thus [[Arrest|arrests]] the bleeding. It is found that clotting is
 especially accelerated whenever the blood touches a foreign tissue, for
 instance, the outer layers of a torn blood-vessel wall, muscle tissue,
 &c., i.e. in exactly those conditions in which rapid clotting becomes
 of the greatest importance. Yet another very pregnant fact in connexion
 with clotting is that if an animal be bled rapidly and the blood
 collected in successive samples it is found that those collected last
-clot most quickly. Hence the more excessive the haemorrhage in any case,
+clot most quickly. Hence the more excessive the [[Haemorrhage|haemorrhage]] in any case,
 the greater becomes the onset of the natural cure for the bleeding, viz.
 clotting.
 
@@ -717,7 +717,7 @@ the origin of prothrombin. Experiment has shown that in its turn
 prothrombin arises from yet another precursor, which is named
 thrombogen, and that thrombogen also is not to be found in circulating
 blood but only makes its appearance after the blood is shed. The
-conversion of thrombogen into prothrombin has been proved to be due to
+[[Conversion|conversion]] of thrombogen into prothrombin has been proved to be due to
 the action of a second ferment which has been named thrombokinase, and
 this latter is again absent from living blood. Hence the question
 arises, whence are derived thrombogen and thrombokinase? In the study of
@@ -806,7 +806,7 @@ any obvious microscopical or chemical alterations.
 The phenomena of immunity to the attacks of bacteria or their toxins, of
 agglutinative action, of opsonic action, of the precipitin tests, and of
 haemolysis, are all largely dependent on the inherent or acquired
-characters of the blood serum. It is a commonplace that different people
+characters of the blood serum. It is a [[Commonplace|commonplace]] that different people
 vary in their susceptibility to the attacks of different organisms, and
 different species of animals also vary greatly. This "natural immunity"
 is due partly to the power possessed by the leucocytes or white blood
@@ -817,10 +817,10 @@ whose presence enables the phagocytes to deal more easily with the
 organisms. This natural immunity can be heightened when it exists, or an
 artificial immunity can be produced in various ways. Doses of organisms
 or their toxins can be injected on one or several occasions, and
-provided that the lethal dose be not reached, in most cases an increased
+provided that the [[Lethal|lethal]] dose be not reached, in most cases an increased
 power of resistance is produced. The organisms may be injected alive in
 a virulent condition, or with their virulence lessened by heat or cold,
-by antiseptics, by cultivation in the presence of oxygen, or by passage
+by [[Antiseptics|antiseptics]], by cultivation in the presence of oxygen, or by passage
 through other animals, or they may first be killed, or their toxins
 alone injected. The method chosen in each case depends on the organism
 dealt with. The result of this treatment is that in the animal treated
@@ -874,8 +874,8 @@ case become gathered together into clumps. In all probability several
 different bodies are concerned in this process. This reaction, in its
 practical applications at least, may be regarded as a reaction of
 infection rather than of immunization as ordinarily understood, for it
-is found that the blood serum of patients suffering from typhoid, Malta
-fever, cholera, and many other bacterial diseases, agglutinates the
+is found that the blood serum of patients suffering from typhoid, [[Malta]]
+[[Fever|fever]], cholera, and many other bacterial diseases, agglutinates the
 corresponding organisms. This fact has come to be of great importance in
 diagnosis.
 
@@ -885,7 +885,7 @@ different species, a "precipitin" appears in the serum of the animal
 treated, which causes a precipitate when added to the serum of the first
 animal. The special importance of this fact is that it can be utilized
 as a method of distinguishing between human blood and that of animals,
-which is often of importance in medical jurisprudence.
+which is often of importance in medical [[Jurisprudence|jurisprudence]].
 
 In this summary the facts adduced are practically all biological, and
 are due to the extraordinary activity with which the study of
@@ -903,7 +903,7 @@ and of blood films made upon cover-glasses, fixed and stained. In
 special cases the alkalinity and the rapidity of coagulation may be
 ascertained, or the blood may be examined bacteriologically. We have no
 universally accepted means of estimating, during life, the total amount
-of blood in the body, though the method of J.S. Haldane and J. Lorrain
+of blood in the body, though the method of J.S. [[Haldane]] and J. Lorrain
 Smith, in which the total oxygen capacity of the blood is estimated, and
 its total volume worked out from that datum, has seemed to promise
 important results (_Journ. of Physiol_. vol. xxv. p. 331, 1900). After
@@ -932,7 +932,7 @@ cause has as yet been discovered; the secondary, those whose cause is
 known. Among the former are usually included chlorosis, pernicious
 anaemia, and sometimes the leucocythaemias; among the latter, the
 anaemias due to such agencies as malignant disease, malaria, chronic
-metallic poisoning, chronic haemorrhage, tubercle, Bright's disease,
+metallic poisoning, chronic haemorrhage, tubercle, [[Bright'S Disease|Bright's disease]],
 infective processes, intestinal parasites, &c. As our knowledge
 advances, however, this distinction will probably be given up, for the
 causes of several of the primary anaemias have been discovered. For
@@ -946,7 +946,7 @@ pathological anatomy. The general symptoms are pallor of the skin and
 mucous membranes, weakness and lassitude, shortness of breath,
 palpitation, a tendency to fainting, and usually also gastro-intestinal
 disturbance, headache and neuralgia. The heart is often dilated, and on
-auscultation the systolic murmurs associated with that condition are
+[[Auscultation|auscultation]] the systolic murmurs associated with that condition are
 heard. In fatal cases the internal organs are found to be pale, and very
 often their cells contain an excessive amount of fat. In many anaemias
 there is a special tendency to haemorrhage. Most of the above symptoms
@@ -981,7 +981,7 @@ into the blood-stream. The blood possesses a great power of recovery, if
 time be given it, because the organ (bone-marrow) which forms so many of
 its elements never, in health, works at high pressure. Only a part of
 the marrow, the so-called red marrow, is normally occupied by
-erythroblastic tissue, the rest of the medullary cavity of the bones
+erythroblastic tissue, the rest of the medullary cavity of the [[Bone|bones]]
 being taken up by fat. If any long-continued demand for red corpuscles
 is made, the fat is absorbed, and its place gradually taken by red
 marrow. This compensatory change is found in all chronic anaemias, no
@@ -992,7 +992,7 @@ It is often very difficult, especially in "secondary" anaemias, to say
 which of the above processes is mainly at work. In acute anaemias, such
 as those associated with septicaemia, there is no doubt that blood
 destruction plays the principal part. But if the cause of anaemia is a
-chronic one, a gastric cancer, for instance, though there may possibly
+chronic one, a gastric [[Cancer|cancer]], for instance, though there may possibly
 be an increased amount of destruction of corpuscles in some cases, and
 though there is often loss by haemorrhage, the cancer interferes with
 nutrition, the blood is impoverished and does not nourish the
@@ -1003,7 +1003,7 @@ important to remember that the state of the blood in these conditions
 gives the measure, not of the amount of destruction which is taking
 place so much as of the amount of regeneration of which the organism is
 capable. The evidence of destruction has often to be sought for in other
-organs, or in secretions or excretions.
+organs, or in secretions or [[Excretion|excretions]].
 
 Of the so-called primary anaemias the most common is _chlorosis_, an
 anaemia which occurs only in the female sex, between the ages of fifteen
@@ -1013,12 +1013,12 @@ amenable to treatment with iron preparations, its subjects very
 frequently suffer from relapses at varying intervals after the first
 attack. Its causation is probably complex. Bad hygienic conditions,
 over-fatigue, want of proper food, especially of the iron-containing
-proteids of meat, the strain put upon the blood and blood-forming organs
+proteids of [[Meat|meat]], the strain put upon the blood and blood-forming organs
 by the accession of puberty and the occurrence of menstruation, all
 probably play a part in it. It has also been suggested that internal
 secretions may be concerned in stimulating the bone-marrow, and that in
 the female sex in particular the genital organs may act in this way.
-Imperfect assumption of function by these organs at puberty, caused
+Imperfect [[Assumption|assumption]] of function by these organs at puberty, caused
 perhaps by some of the above-mentioned conditions, might lead to
 sluggishness in the bone-marrow, and to the supply to the blood of the
 poorly-formed corpuscles deficient in haemoglobin which are
@@ -1111,7 +1111,7 @@ after violent exercise, and abnormally after haemorrhage, in the course
 of inflammations and many infective diseases, in malignant disease, in
 such toxic states as uraemia, and after the ingestion of nuclein and
 other substances. It does not occur in some infective diseases, the most
-important of which are typhoid fever, malaria, influenza, measles and
+important of which are typhoid fever, malaria, [[Influenza|influenza]], [[Measles|measles]] and
 uncomplicated tuberculosis. In all cases where it is sufficiently severe
 and long continued, the reserve space in the bone-marrow is filled up by
 the active proliferation of the leucocytes normally found there, and is
@@ -1122,7 +1122,7 @@ relation between the severity of the attack and the power of resistance.
 There may be an increase in the proportions present in the blood of
 lymphocytes (_lymphocytosis_), and of eosinophile cells
 (_eosinophilia_). This latter change is associated specially with some
-forms of asthma, with certain skin diseases, and with the presence of
+forms of [[Asthma|asthma]], with certain skin diseases, and with the presence of
 animal parasites in the body, such as ankylostoma and filaria.
 
 
@@ -1199,17 +1199,17 @@ fail to stop the subsequent haemorrhage, a little powdered alum or other
 styptic may be inserted in the wound. The following are the main
 indications for their use, though in some cases they are better replaced
 by venesection, (1) For stagnation of blood on the right side of the
-heart with constant dyspnoea, cyanosis, &c. In acute lung disease, the
+heart with constant dyspnoea, cyanosis, &c. In acute [[Lung|lung]] disease, the
 sudden obstruction to the passage of blood through the lungs throws such
 an increased strain on the right ventricle that it may dilate to the
 verge of paralysis; but by lessening the total volume of blood, the
 heart's work is lightened for a time, and the danger at the moment tided
 over. This is a condition frequently met with in the early stages of
-acute pneumonia, pleurisy and bronchitis, when the obstruction is in the
+acute pneumonia, pleurisy and [[Bronchitis|bronchitis]], when the obstruction is in the
 lungs, the heart being normal. But the same result is also met with as a
 result of failure of compensation with back pressure in certain forms of
 heart disease (q.v.). (2) To lower arterial tension. In the early stages
-of cerebral haemorrhage (before coma has supervened), when the heart is
+of cerebral haemorrhage (before [[Coma|coma]] has supervened), when the heart is
 working vigorously and the tension of the pulse is high, a timely
 venesection may lead to arrest of the haemorrhage by lowering the blood
 pressure and so giving the blood in the ruptured vessel an opportunity

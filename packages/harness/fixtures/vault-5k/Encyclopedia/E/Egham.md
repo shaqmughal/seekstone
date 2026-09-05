@@ -13,7 +13,7 @@ railway. Pop. (1901) 11,895. The church of St John the Baptist is a
 reconstruction of 1817; it contains monuments by John Flaxman. Above the
 right bank of the river a low elevation, Cooper's Hill, commands fine
 views over the valley, and over Windsor Great Park to the west. On the
-hill was the Royal Indian Civil Engineering College, commonly called
+hill was the Royal Indian Civil [[Engineering]] College, commonly called
 Cooper's Hill College, of which Sir George Tomkyns Chesney was the
 originator and first president (1871). It educated men for the public
 works, accounts, railways and telegraph departments of India, and

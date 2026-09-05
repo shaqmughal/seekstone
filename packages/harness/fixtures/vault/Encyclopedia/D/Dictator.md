@@ -6,12 +6,12 @@ extraordinary and extra-constitutional power. The etymological sense of
 one who "dictates"--i.e. one whose word (_dictum_) is law (from which
 that of one who "dictates," i.e. speaks for some writer to record, is to
 be distinguished)--has been assisted by the historical use of the term,
-in ancient times, for an extraordinary magistrate in the Roman
-commonwealth. It is unknown precisely how the Roman word came into use,
+in ancient times, for an extraordinary [[Magistrate|magistrate]] in the Roman
+[[Commonwealth|commonwealth]]. It is unknown precisely how the Roman word came into use,
 though an explanation of the earlier official title, magister populi,
 throws some light on the subject. That designation may mean "head of the
 (infantry) host" as opposed to his subordinate, the magister equitum,
-who was "head of the cavalry." If this explanation be accepted, emphasis
+who was "head of the [[Cavalry|cavalry]]." If this explanation be accepted, emphasis
 was thus laid in early times on the military aspect of the dictatorship,
 and in fact the office seems to have been instituted for the purpose of
 meeting a military crisis such as might have proved too serious for the
@@ -29,7 +29,7 @@ meet the dangers of war, sedition or crime was technically described as
 "the administrative dictator" (_rei gerundae causa_). Minor, or merely
 formal, needs of the state might lead to the creation of other types of
 this office. Thus we find dictators destined to hold the elections, to
-make out the list of the senate, to celebrate games, to establish
+make out the list of the senate, to celebrate [[Games|games]], to establish
 festivals, and to drive the nail into the temple of Jupiter--an act of
 natural magic which was believed to avert pestilence. These dictators
 appointed for minor purposes were expected to retire from office as soon
@@ -47,14 +47,14 @@ city. But during his tenure of power all the magistrates of the people
 were regarded as his subordinates; and it was even held that the right
 of assistance (_auxilium_), furnished by the tribunes of the plebs to
 members of the citizen body, should not be effectively exercised when
-the state was under this type of martial law. The dictator was nominated
+the state was under this type of [[Martial|martial]] law. The dictator was nominated
 by one of the consuls. But here as elsewhere the senate asserted its
 authority over the magistrates, and the view was finally held that the
 senate should not only suggest the need of nomination but also the name
 of the nominee. After the nomination, the imperium of the dictator was
 confirmed by a _lex curiata_ (see COMITIA). To emphasize the superiority
 of this imperium over that of the consuls, the dictator might be
-preceded by twenty-four lictors, not by the usual twelve; and, at least
+preceded by twenty-four [[Lictors|lictors]], not by the usual twelve; and, at least
 in the earlier period of the office, these lictors bore the axes, the
 symbols of life and death, within the city walls.
 
@@ -65,12 +65,12 @@ dictators belongs to the year 216 B.C. It was an office that was
 incompatible both with the growing spirit of constitutionalism and with
 the greater security of the city; and the epoch of the Second Punic War
 was marked by experiments with the office, such as the election of Q.
-Fabius Maximus by the people, and the co-dictatorship of M. Minucius
+[[Fabius]] [[Maximus]] by the people, and the co-dictatorship of M. Minucius
 with Fabius, which heralded its disuse (see PUNIC WARS). The emergency
 office of the early and middle Republic has few points of contact,
 except those of the extraordinary position and almost unfettered
 authority of its holder, with the dictatorship as revised by Sulla and
-by Caesar. Sulla's dictatorship was the form taken by a provisional
+by [[Caesar]]. Sulla's dictatorship was the form taken by a provisional
 government. He was created "for the establishment of the Republic." It
 is less certain whether the dictatorships held by Caesar were of a
 consciously provisional character. Since the office represented the only
@@ -80,10 +80,10 @@ for such a purpose, M. Antonius in 44 B.C. carried a law abolishing the
 dictatorship as a part of the constitution.
 
   BIBLIOGRAPHY.--Mommsen, _Römisches Staatsrecht_, ii. 141 foll. (3rd
-  ed., Leipzig, 1887); Herzog, _Geschichte und System der römischen
+  ed., Leipzig, 1887); [[Herzog]], _Geschichte und System der römischen
   Staatsverfassung_, i. 718 foll. (Leipzig, 1884); Pauly-Wissowa,
   _Realencyclopädie_, v. 370 foll. (new edition, Stuttgart. 1893, &c.);
-  Lange, _Römische Alterthümer_, i. 542 foll. (Berlin, 1856, &c.);
+  [[Lange]], _Römische Alterthümer_, i. 542 foll. (Berlin, 1856, &c.);
   Daremberg-Saglio, _Dictionnaire des antiquités grecques et romaines_,
   ii. 161 foll. (1875, &c.); Haverfield, "The Abolition of the
   Dictatorship," in _Classical Review_, iii. 77.     (A. H. J. G.)
@@ -93,10 +93,10 @@ dictatorship as a part of the constitution.
 
 DICTIONARY.
 
-  Definition and history.
+  [[Definition]] and history.
 
 In its proper and most usual meaning a dictionary is a book containing a
-collection of the words of a language, dialect or subject, arranged
+collection of the words of a language, [[Dialect|dialect]] or subject, arranged
 alphabetically or in some other definite order, and with explanations in
 the same or some other language. When the words are few in number, being
 only a small part of those belonging to the subject, or when they are
@@ -105,17 +105,17 @@ explanations are partial, the work is called a _vocabulary_; and when
 there is merely a list of explanations of the technical words and
 expressions in some particular subject, a _glossary_. An alphabetical
 arrangement of the words of some book or author with references to the
-places where they occur is called an index (q.v.). When under each word
+places where they occur is called an [[Index|index]] (q.v.). When under each word
 the phrases containing it are added to the references, the work is
-called a _concordance_. Sometimes, however, these names are given to
+called a _[[Concordance|concordance]]_. Sometimes, however, these names are given to
 true dictionaries; thus the great Italian dictionary of the _Accademia
-della Crusca_, in six volumes folio, is called _Vocabolario_, and
+della Crusca_, in six volumes [[Folio|folio]], is called _Vocabolario_, and
 Ernesti's dictionary to Cicero is called _Index_. When the words are
-arranged according to a definite system of classification under heads
+arranged according to a definite system of [[Classification|classification]] under heads
 and subdivisions, according to their nature or their meaning, the book
 is usually called a classed vocabulary; but when sufficient explanations
 are given it is often accepted as a dictionary, like the _Onomasticon_
-of Julius Pollux, or the native dictionaries of Sanskrit, Manchu and
+of [[Julius]] Pollux, or the native dictionaries of Sanskrit, Manchu and
 many other languages.
 
 Dictionaries were originally books of reference explaining the words of
@@ -131,18 +131,18 @@ fictitious, general and special, relating to men of all countries,
 characters and professions; the English _Dictionary of National
 Biography_ (see BIOGRAPHY) is a great instance of one form of these;
 dictionaries of bibliography, relating to all books, or to those of some
-particular kind or country; dictionaries of geography (sometimes called
+particular kind or country; dictionaries of [[Geography|geography]] (sometimes called
 _gazetteers_) of the whole world, of particular countries, or of small
 districts, of towns and of villages, of castles, monasteries and other
 buildings. There are dictionaries of philosophy; of the Bible; of
 mathematics; of natural history, zoology, botany; of birds, trees,
-plants and flowers; of chemistry, geology and mineralogy; of
+plants and flowers; of [[Chemistry|chemistry]], geology and mineralogy; of
 architecture, painting and music; of medicine, surgery, anatomy,
-pathology and physiology; of diplomacy; of law, canon, civil, statutory
+pathology and physiology; of [[Diplomacy|diplomacy]]; of law, canon, civil, statutory
 and criminal; of political and social sciences; of agriculture, rural
-economy and gardening; of commerce, navigation, horsemanship and the
-military arts; of mechanics, machines and the manual arts. There are
-dictionaries of antiquities, of chronology, of dates, of genealogy, of
+economy and gardening; of commerce, navigation, [[Horsemanship|horsemanship]] and the
+military arts; of mechanics, [[Machine|machines]] and the [[Manual|manual]] arts. There are
+dictionaries of antiquities, of [[Chronology|chronology]], of dates, of genealogy, of
 heraldry, of diplomatics, of abbreviations, of useful receipts, of
 monograms, of adulterations and of very many other subjects. These works
 are separately referred to in the bibliographies attached to the
@@ -178,7 +178,7 @@ without composition. Many other names have been given to dictionaries,
 as _thesaurus_, _Sprachschatz_, _cornucopia_, _gazophylacium_,
 _comprehensorium_, _catholicon_, to indicate their completeness;
 _manipulus predicantium_, _promptorium puerorum_, _liber memorialis_,
-_hortus vocabulorum_, _ionia_ (a violet bed), _alveary_ (a beehive),
+_hortus vocabulorum_, _[[Ionia|ionia]]_ (a violet bed), _alveary_ (a beehive),
 _kamoos_ (the sea), _haft kulzum_ (the seven seas), _tsze tien_ (a
 standard of character), _onomasticon_, _nomenclator_, _bibliotheca_,
 _elucidario_, _Mundart-sammlung_, _clavis_, _scala_, _pharetra_,[2] _La
@@ -208,15 +208,15 @@ equivalents of each word in the other languages, but the explanation in
 French. Pauthier's _Annamese Dictionary_ is polyglot in a peculiar way.
 It gives the Chinese characters with their pronunciation in Chinese and
 Annamese. Special dictionaries are of many kinds. There are technical
-dictionaries of etymology, foreign words, dialects, secret languages,
-slang, neology, barbarous words, faults of expression, choice words,
+dictionaries of [[Etymology|etymology]], foreign words, dialects, secret languages,
+slang, neology, barbarous words, [[Fault|faults]] of expression, choice words,
 prosody, pronunciation, spelling, orators, poets, law, music, proper
 names, particular authors, nouns, verbs, participles, particles, double
 forms, difficulties and many others. Fick's dictionary (Göttingen, 1868,
 8vo; 1874-1876, 8vo, 4 vols.) is a remarkable attempt to ascertain the
 common language of the Indo-European nations before each of their great
 separations. In the second edition of his _Etymologische Forschungen_
-(Lemgo and Detmoldt, 1859-1873, 8vo, 7217 pages) Pott gives a
+([[Lemgo]] and Detmoldt, 1859-1873, 8vo, 7217 pages) Pott gives a
 comparative lexicon of Indo-European roots, 2226 in number, occupying
 5140 pages.
 
@@ -275,7 +275,7 @@ commend themselves to his judgment or otherwise.... _He is an historian
 of_ [the language], _not a critic._" That is, for the literary view of
 the chief end of the general dictionary should be substituted the
 philological or scientific. In Germany this substitution had already
-been effected by Jacob and Wilhelm Grimm in their dictionary of the
+been effected by [[Jacob]] and Wilhelm Grimm in their dictionary of the
 German language, the first volume of which appeared in 1854. In brief,
 then, the modern view is that the general dictionary of a language
 should be a record of all the words--current or obsolete--of that
@@ -347,7 +347,7 @@ be a waste of labour and space.
 
 The adoption of the historical principle involves a further noteworthy
 modification of older methods, namely, an important extension of the use
-of quotations. To Dr Johnson belongs the credit of showing how useful,
+of quotations. To Dr Johnson belongs the [[Credit|credit]] of showing how useful,
 when properly chosen, they may be, not only in corroborating the
 lexicographer's statements, but also in revealing special shades of
 meaning or variations of use which his definitions cannot well express.
@@ -375,7 +375,7 @@ should be exhibited by means of them. The earliest instance of use that
 can be found, and (if the word or sense is obsolete) the latest, are as
 a rule to be given; while in the case of an important word or sense,
 instances taken from successive periods of its currency also should be
-cited. Moreover, a quotation which contains an important bit of
+cited. Moreover, a quotation which contains an important [[Bit|bit]] of
 historical evidence must be used, whether its source is "good," from the
 literary point of view, or not--whether it is a classic of the language
 or from a daily newspaper; though where choice is possible, preference
@@ -419,7 +419,7 @@ became a part of the language, and is, in a measure, an extension of the
 history of the development of the word in the language. Moreover, it is
 the only means by which the exact relations of allied words can be
 ascertained, and the separation of words of the same form but of diverse
-origin (homonyms) can be effected, and is thus, for the dictionary, the
+origin ([[Homonym|homonyms]]) can be effected, and is thus, for the dictionary, the
 foundation of all _family history_ and correct _genealogy_. In fact, the
 attention that has been paid to these two points in the best recent
 lexicography is one of its distinguishing and most important
@@ -493,7 +493,7 @@ newspapers, and so on which must thus be searched will be numbered by
 thousands, and the quotations selected may (as in the case of the Oxford
 _New English Dictionary_) be counted by millions. This task is beyond
 the powers of any one man, even though he be a Johnson, or a Littré or a
-Grimm, and it is now assigned to a corps of readers whose number is
+Grimm, and it is now assigned to a [[Corps|corps]] of readers whose number is
 limited only by the ability of the editor to obtain such assistance. The
 modern method of editing the material thus accumulated--the actual work
 of compilation--also is characterized by the application of the
@@ -505,12 +505,12 @@ longer possible, not merely because of the vast labour and philological
 research necessitated by modern aims, but more especially because the
 immense development of the vocabulary of the special sciences renders
 indispensable the assistance, in the work of definition, of persons who
-are expert in those sciences. The tendency, accordingly, has been to
+are [[Expert|expert]] in those sciences. The tendency, accordingly, has been to
 enlarge greatly the editorial staff of the dictionary, scores of
 sub-editors and contributors being now employed where a dozen or fewer
 were formerly deemed sufficient. In other words, the making of a
 "complete" dictionary has become a co-operative enterprise, to the
-success of which workers in all the fields of literature and science
+success of which workers in all the [[Fields|fields]] of literature and science
 contribute.
 
 The most complete exemplification of these principles and methods is the
@@ -555,7 +555,7 @@ neglected unnecessarily. Other special features of the book are the
 completeness with which variations of pronunciation and orthography
 (with dates) are given; the fulness and scientific excellence of the
 etymologies, which abound in new information and corrections of old
-errors; the phonetic precision with which the present (British)
+[[Error|errors]]; the phonetic precision with which the present (British)
 pronunciation is indicated; and the elaborate subdivision of meanings.
 The definitions as a whole are marked by a high degree of accuracy,
 though in a certain number of cases (not explicable by the date of the
@@ -570,7 +570,7 @@ and led them to contribute to the perfecting of it their knowledge and
 time. The long list of names of such helpers in Sir J. A. H. Murray's
 preface is in curious contrast with their absence from Dr Johnson's and
 the few which are given in that of Littré. The editor's principal
-assistants were Dr Henry Bradley and Dr W. A. Craigie. Of the dictionary
+assistants were Dr Henry Bradley and Dr W. A. [[Craigie]]. Of the dictionary
 as a whole it may be said that it is one of the greatest achievements,
 whether in literature or science, of modern English scholarship and
 research.
@@ -675,7 +675,7 @@ quotations are for the most part provided with references, but they are
 not dated. Even when compared with the much larger _New English
 Dictionary_, the _Century's_ great merit is the excellent enumeration of
 meanings, and the accuracy of its explanations; in this respect it is
-often better and fuller than the _New English_. In the application of
+often better and [[Fuller|fuller]] than the _New English_. In the application of
 the encyclopaedic method this dictionary is conservative, excluding,
 with a few exceptions, proper names, and restricting, for the most part,
 the encyclopaedic matter to descriptive and other details which may
@@ -720,7 +720,7 @@ Accadian is placed after Assyrian among the Semitic languages, and
 Maltese as a dialect of Arabic; while the Ethiopic is among African
 languages as it seemed undesirable to separate it from the other
 Abyssinian languages, or these from their neighbours to the north and
-south. Circassian and Ossetic are joined to the first group of Aryan
+south. Circassian and Ossetic are joined to the first group of [[Aryan]]
 languages lying to the north-west of Persia, and containing Armenian,
 Georgian and Kurd. The following is the order of the groups, some of the
 more important languages, that is, of those best provided with
@@ -733,16 +733,16 @@ ASIA: Semitic, Armenian, Persian, Sanskrit, Indian, Indo-Chinese, Malay
 Archipelago, Philippines, Chinese, Japanese, Northern and Central Asia.
 
 AFRICA: Egypt and Abyssinia, Eastern Africa, Southern, Western, Central,
-Berber.
+[[Berber]].
 
-AUSTRALIA AND POLYNESIA.
+[[Australia|AUSTRALIA]] AND POLYNESIA.
 
 AMERICA: North, Central (with Mexico), South.
 
 
 EUROPE
 
- Greek.---Athenaeus quotes 35 writers of works, known or supposed to be
+ Greek.---[[Athenaeus]] quotes 35 writers of works, known or supposed to be
   dictionaries, for, as they are all lost, it is often difficult to
   decide on their nature. Of these, Anticlides, who lived after the
   reign of Alexander the Great, wrote [Greek: Exêgêtikos], which seems
@@ -758,29 +758,29 @@ EUROPE
   titles, should be dictionaries, but a fragment of his [Greek: Lexeis]
   printed by Boissonade, in his edition of Herodian (London, 1869, 8vo,
   pp. 181-189), is not alphabetical. Artemidorus, a pupil of
-  Aristophanes, wrote a dictionary of technical terms used in cookery.
-  Nicander Colophonius, hereditary priest of Apollo Clarius, born at
+  Aristophanes, wrote a dictionary of technical terms used in [[Cookery|cookery]].
+  Nicander Colophonius, hereditary priest of [[Apollo]] Clarius, born at
   Claros, near Colophon in Ionia, in reputation for 50 years, from 181
   to 135, wrote [Greek: Glôssai] in at least three books. Parthenius, a
-  pupil of the Alexandrian grammarian Dionysius (who lived in the 1st
+  pupil of the Alexandrian grammarian [[Dionysius]] (who lived in the 1st
   century before Christ), wrote on choice words used by historians.
-  Didymus, called [Greek: chalkenteros], who, according to Athenaeus,
+  [[Didymus]], called [Greek: chalkenteros], who, according to Athenaeus,
   wrote 3500 books, and, according to Seneca, 4000, wrote lexicons of
   the tragic poets (of which book 28 is quoted), of the comic poets, of
-  ambiguous words and of corrupt expressions. Glossaries of Attic words
-  were written by Crates, Philemon, Philetas and Theodorus; of Cretan,
+  ambiguous words and of corrupt expressions. Glossaries of [[Attic]] words
+  were written by [[Crates]], Philemon, Philetas and Theodorus; of Cretan,
   by Hermon or Hermonax; of Phrygian, by Neoptolemus; of Rhodian, by
   Moschus; of Italian, by Diodorus of Tarsus; of foreign words, by
   Silenus; of synonyms, by Simaristus; of cookery, by Heracleon; and of
-  drinking vessels, by Apollodorus of Cyrene. According to Suidas, the
+  drinking vessels, by [[Apollodorus]] of Cyrene. According to Suidas, the
   most ancient Greek lexicographer was Apollonius the sophist, son of
   Archibius. According to the common opinion, he lived in the time of
-  Augustus at Alexandria. He composed a lexicon of words used by Homer,
+  Augustus at Alexandria. He composed a lexicon of words used by [[Homer]],
   [Greek: Lexeis Homêrikai], a very valuable and useful work, though
   much interpolated, edited by Villoison, from a MS. of the 10th
   century, Paris, 1773, 4to, 2 vols.; and by Tollius, Leiden, 1788, 8vo;
   ed. Bekker, Berlin, 1833, 8vo. Erotian or Herodian, physician to Nero,
-  wrote a lexicon on Hippocrates, arranged in alphabetical order,
+  wrote a lexicon on [[Hippocrates]], arranged in alphabetical order,
   probably by some copyist, whom Klein calls "homo sciolus." It was
   first published in Greek in H. Stephani _Dictionarium Medicum_, Paris,
   1564, 8vo; ed. Klein, Lipsiae, 1865, 8vo, with additional fragments.
@@ -788,7 +788,7 @@ EUROPE
   century, wrote a very short lexicon to Plato, which, though much
   interpolated, is of great value, 1st ed. Ruhnken, Leiden, 1754; ed.
   locupletior, Lugd. Bat. 1789, 8vo. Aelius Moeris, called the Atticist,
-  lived about 190 A.D., and wrote an Attic lexicon, 1st ed. Hudson,
+  lived about 190 A.D., and wrote an Attic lexicon, 1st ed. [[Hudson]],
   Oxf. 1712, Bekker, 1833. Julius Pollux ([Greek: Ioulios Polydeukês])
   of Naucratis, in Egypt, died, aged fifty-eight, in the reign of
   Commodus (180-192), who made him professor of rhetoric at Athens. He
@@ -797,18 +797,18 @@ EUROPE
   subject with the usage of the best authors. It is of the greatest
   value for the knowledge both of language and of antiquities. First
   printed by Aldus, Venice, 1500, fol.; often afterwards; ed. Lederlinus
-  and Hemsterhuis, Amst. 1706, 2 vols.; Dindorf, 1824, 5 vols., Bethe
-  (1900 f.). Harpocration of Alexandria, probably of the 2nd century,
+  and [[Hemsterhuis]], Amst. 1706, 2 vols.; Dindorf, 1824, 5 vols., Bethe
+  (1900 f.). [[Harpocration]] of Alexandria, probably of the 2nd century,
   wrote a lexicon on the ten Attic orators, first printed by Aldus, Ven.
   1503, fol.; ed. Dindorf, Oxford, 1853, 8vo, 2 vols. from 14 MSS.
   Orion, a grammarian of Thebes, in Egypt, who lived between 390 and
   460, wrote an etymological dictionary, printed by Sturz, Leipzig,
   1820, 4to. Helladius a priest of Jupiter at Alexandria, when the
-  heathen temples there were destroyed by Theophilus in 389 or 391
+  [[Heathen|heathen]] temples there were destroyed by Theophilus in 389 or 391
   escaped to Constantinople, where he was living in 408. He wrote an
   alphabetical lexicon, now lost, chiefly of prose, called by Photius
   the largest ([Greek: polystichôtaton]) which he knew. Ammonius,
-  professor of grammar at Alexandria, and priest of the Egyptian ape,
+  professor of grammar at Alexandria, and priest of the Egyptian [[Ape|ape]],
   fled to Constantinople with Helladius, and wrote a dictionary of words
   similar in sound but different in meaning, which has been often
   printed in Greek lexicons, as Aldus, 1497, Stephanus, and separately
@@ -817,34 +817,34 @@ EUROPE
   with this may be compared the work of Vincentio Caralucci, _Lexicon
   vocum quae a brutis animalibus emittuntur_, Perusia, 1779, 12mo.
   Hesychius of Alexandria wrote a lexicon, important for the knowledge
-  of the language and literature, containing many dialectic and local
+  of the language and literature, containing many [[Dialectic|dialectic]] and local
   expressions and quotations from other authors, 1st ed. Aldus, Ven.
   1514, fol.; the best is Alberti and Ruhnken, Lugd. Bat. 1746-1766,
   fol. 2 vols.; collated with the MS. in St Mark's library, Venice, the
   only MS. existing, by Niels Iversen Schow, Leipzig, 1792, 8vo; ed.
-  Schmidt, Jena, 1867, 8vo. The foundation of this lexicon is supposed
+  Schmidt, [[Jena]], 1867, 8vo. The foundation of this lexicon is supposed
   to have been that of Pamphilus, an Alexandrian grammarian, quoted by
   Athenaeus, which, according to Suidas, was in 95 books from [Epsilon]
   to [Omega]; [Alpha] to [Delta] had been compiled by Zopirion. Photius,
   consecrated patriarch of Constantinople, 25th December 857, living in
-  886, left a lexicon, partly extant, and printed with Zonaras, Lips.
+  886, left a lexicon, partly extant, and printed with Zonaras, [[Lip|Lips]].
   1808, 4to, 3 vols., being vol. iii.; ed. Naber, Leidae, 1864-1865,
   8vo, 2 vols. The most celebrated of the Greek glossaries is that of
   Suidas, of whom nothing is known. He probably lived in the 10th
   century. His lexicon is an alphabetical dictionary of words including
   the names of persons and places--a compilation of extracts from Greek
   writers, grammarians, scholiasts and lexicographers, very carelessly
-  and unequally executed. It was first printed by Demetrius
-  Chalcondylas, Milan, 1499, fol.; the best edition, Bernhardy, Halle,
+  and unequally executed. It was first printed by [[Demetrius]]
+  Chalcondylas, Milan, 1499, fol.; the best edition, [[Bernhardy]], [[Halle]],
   1853, 4to, 2 vols. John Zonaras, a celebrated Byzantine historian and
   theologian, who lived in the 12th century, compiled a lexicon, first
   printed by Tittmann, Lips. 1808. 4to, 2 vols. An anonymous Greek
   glossary, entitled [Greek: Etymologikon mega], _Etymologicum magnum_,
   has been frequently printed. The first edition is by Musurus, Venitia,
-  1499, fol.; the best by Gaisford, Oxonii, 1848, fol. It contains many
+  1499, fol.; the best by [[Gaisford]], Oxonii, 1848, fol. It contains many
   grammatical remarks by famous authorities, many passages of authors,
   and mythological and historical notices. The MSS. vary so much that
-  they look like the works of different authors. To Eudocia Augusta of
+  they look like the works of different authors. To [[Eudocia Augusta]] of
   Makrembolis, wife of the emperors Constantine XI. and Romanus IV.
   (1059 to 1071), was ascribed a dictionary of history and mythology,
   [Greek: Iônia] (bed of violets), first printed by D'Ansse de
@@ -858,7 +858,7 @@ EUROPE
   at Milan, 1478, fol.: Aldus, Venetiis, 1497, fol.: Guarino, born about
   1450 at Favora, near Camarino, who called himself both Phavorinus and
   Camers, published his _Thesaurus_ in 1504. These three lexicons were
-  frequently reprinted. Estienne, _Thesaurus_, Genevae, 1572, fol., 4
+  frequently reprinted. [[Estienne]], _Thesaurus_, Genevae, 1572, fol., 4
   vols.; ed. Valpy, Lond. 1816-1826, 6 vols. fol.; Paris, 1831-1865, 9
   vols. fol., 9902 pages: [Greek: Kibôtos], the ark, was intended to
   give the whole language, ancient and modern, but vol. i.,
@@ -878,31 +878,31 @@ EUROPE
   Orators_: Reiske, Oxon. 1828, 8vo, 2 vols. _Doric_: Portus, Franckof.
   1605, 8vo. _Ionic_: Id. ib. 1603, 8vo; 1817; 1825. PROSODY.--Morell,
   Etonae, 1762, 4to; ed. Maltby, Lond. 1830, 4to: Brasse, Lond. 1850,
-  8vo. RHETORIC.--Ernesti, Lips. 1795, 8vo. MUSIC.--Drieberg, Berlin,
-  1855. ETYMOLOGY.--Curtius, Leipzig, 1858-1862: Lancelot, Paris, 1863,
-  8vo. SYNONYMS.--Peucer, Dresden, 1766, 8vo: Pillon, Paris, 1847, 8vo.
+  8vo. RHETORIC.--[[Ernesti]], Lips. 1795, 8vo. MUSIC.--Drieberg, Berlin,
+  1855. ETYMOLOGY.--[[Curtius]], Leipzig, 1858-1862: [[Lancelot]], Paris, 1863,
+  8vo. SYNONYMS.--Peucer, [[Dresden]], 1766, 8vo: Pillon, Paris, 1847, 8vo.
   PROPER NAMES.--Pape, ed. Sengebusch, 1866, 8vo, 969 pages.
   VERBS.--Veitch, 2nd ed. Oxf. 1866. TERMINATIONS.--Hoogeveen, Cantab.
   1810, 4to: Pape, Berlin, 1836, 8vo. PARTICULAR AUTHORS.--_Aeschylus_:
   Wellauer, 2 vols. Lips. 1830-1831, 8vo. _Aristophanes_: Caravella,
   Oxonii, 1822, 8vo. _Demosthenes_: Reiske, Lips. 1775, 8vo.
-  _Euripides_: Beck, Cantab. 1829, 8vo. _Herodotus_: Schweighäuser,
+  _[[Euripides]]_: [[Beck]], Cantab. 1829, 8vo. _Herodotus_: Schweighäuser,
   Strassburg, 1824, 8vo, 2 vols. _Hesiod_: Osoruis, Neapol. 1791, 8vo.
   _Homer_: Apollonius Sophista, ed. Tollius, Lugd. Bat., 1788, 8vo:
-  Schaufelberger, Zürich, 1761-1768, 8vo, 8 vols.: Crusius, Hanover,
-  1836, 8vo: Wittich, London, 1843, 8vo: Döderlein, Erlangen, 8vo, 3
+  Schaufelberger, Zürich, 1761-1768, 8vo, 8 vols.: Crusius, [[Hanover]],
+  1836, 8vo: Wittich, London, 1843, 8vo: Döderlein, [[Erlangen]], 8vo, 3
   vols.: Eberling, Lipsiae, 1875, 8vo: Autenrieth, Leipzig, 1873, 8vo;
-  London, 1877, 8vo. _Isocrates_: Mitchell, Oxon. 1828, 8vo. _Pindar_:
+  London, 1877, 8vo. _[[Isocrates]]_: Mitchell, Oxon. 1828, 8vo. _Pindar_:
   Portus, Hanov. 1606, 8vo. _Plato_: Timaeus, ed. Koch, Lips. 1828, 8vo:
   Mitchell, Oxon. 1832, 8vo: Ast, Lips. 1835-1838, 8vo, 3 vols.
   _Plutarch_: Wyttenbach, Lips. 1835, 8vo, 2 vols. _Sophocles_: Ellendt,
   Regiomonti, 1834-1835, 8vo ed.; Genthe, Berlin, 1872, 8vo.
-  _Thucydides_: Bétant, Geneva, 1843-1847, 8vo, 2 vols. _Xenophon_:
+  _Thucydides_: Bétant, [[Geneva]], 1843-1847, 8vo, 2 vols. _Xenophon_:
   Sturtz, Lips. 1801-1804, 8vo, 4 vols.: Cannesin (Anabasis,
   Gr.-Finnish), Helsirgissä, 1868, 8vo: Sauppe, Lipsiae, 1869, 8vo.
-  _Septuagint_: Hutter, Noribergae, 1598, 4to: Biel, Hagae, 1779-1780,
-  8vo. _New Testament_: Lithocomus, Colon, 1552, 8vo: Parkhurst, ed.
-  Major, London, 1845, 8vo: Schleusner (juxta ed. Lips. quartam),
+  _Septuagint_: [[Hutter]], Noribergae, 1598, 4to: Biel, Hagae, 1779-1780,
+  8vo. _New Testament_: Lithocomus, [[Colon]], 1552, 8vo: Parkhurst, ed.
+  [[Major]], London, 1845, 8vo: Schleusner (juxta ed. Lips. quartam),
   Glasguae, 1824, 4to.
 
 
@@ -924,7 +924,7 @@ EUROPE
   printed Moguntiæ 1460, fol.; Venice, 1487; and about 20 editions
   before 1500: Johannes, _Comprehensorium_, Valentia, 1475, fol.: Nestor
   Dionysius, _Onomasticon_, Milan, 1477, fol.: Stephanus, Paris, 1531,
-  fol., 2 vols.: Gesner, Lips. 1749, fol., 4 vols.: Forcellini, Patavii,
+  fol., 2 vols.: [[Gesner]], Lips. 1749, fol., 4 vols.: Forcellini, Patavii,
   1771, fol., 4 vols. POLYGLOT.--Calepinus, Reggio, 1502, fol. (Aldus
   printed 16 editions, with the Greek equivalents of the Latin words;
   Venetiis, 1575, fol., added Italian, French and Spanish; Basileae,
@@ -942,10 +942,10 @@ EUROPE
   _Bibliotheca Eliotae_, ed. Cooper, ib. 1545, fol.: Huloet,
   _Abecedarium_, London, 1552, fol.; _Dictionarie_, 1572, fol.: Cooper,
   London, 1565, fol.; 4th edition, 1584, fol.: Baret, _Alvearie_, ib.
-  1575, fol.; 1580, fol.: Fleming, ib. 1583, fol.: Ainsworth, London,
+  1575, fol.; 1580, fol.: [[Fleming]], ib. 1583, fol.: Ainsworth, London,
   1736, 4to; ed. Morell, London, 1796, 4to, 2 vols.; ed. Beatson and
   Ellis, ib. 1860, 8vo: Scheller, translated by Riddle, Oxford, 1835,
-  fol.: Smith, London, 1855, 8vo; 1870: Lewis and Short, Oxford, 1879.
+  fol.: Smith, London, 1855, 8vo; 1870: [[Lewis]] and Short, Oxford, 1879.
   ENG.-LATIN.--Levins, _Manipulus puerorum_, Lond. 1570, 4to: Riddle,
   ib. 1838, 8vo: Smith, ib. 1855, 8vo. FRENCH.--_Catholicon parvum_,
   Geneva, 1487: Estienne, _Dictionnaire_, Paris, 1539, fol. 675 pages;
@@ -955,11 +955,11 @@ EUROPE
   Paris, 1544, 4to; the copy in the British Museum has the autograph of
   Queen Catherine Parr: Thierry (Fr.-Lat.), Paris, 1564, fol.: Danet, Ad
   usum Delphini, Paris, 1700, 4to, 2 vols.; and frequently: Quicherat,
-  9th ed. Paris, 1857, 8vo: Theil, 3rd ed. Paris, 1863, 8vo: Freund, ib.
+  9th ed. Paris, 1857, 8vo: Theil, 3rd ed. Paris, 1863, 8vo: [[Freund]], ib.
   1835-1865, 4to, 3 vols. GERMAN.--Joh. Melber, of Gerolzhofen,
   _Vocabularius praedicantium_, of which 26 editions are described by
   Hain (_Repertorium_, No. 11,022, &c.), 15 undated, 7 dated 1480-1495,
-  4to, and 3 after 1504: _Vocabularius gemma gemmarum_, Antwerp, 1484,
+  4to, and 3 after 1504: _Vocabularius gemma gemmarum_, [[Antwerp]], 1484,
   4to; 1487; 12 editions, 1505-1518: Herman Torentinus, _Elucidarius
   carminum_, Daventri, 1501, 4to; 22 editions, 1504-1536: Binnart, Ant.
   1649, 8vo: Id., _Biglotton_, ib. 1661; 4th ed. 1688: Faber, ed.
@@ -968,11 +968,11 @@ EUROPE
   linguae Latinae_, Leipzig, 1900: Walde, _Lateinisches etymologisches
   Wörterbuch_, 1906. ITALIAN.--Seebar (Sicilian translation of Lebrixa),
   Venet. 1525, 8vo: Venuti, 1589, 8vo: Galesini, Venez. 1605, 8vo:
-  Bazzarini and Bellini, Torino, 1864, 4to, 2 vols. 3100 pages.
-  SPANISH.--Salmanticae, 1494, fol.; Antonio de Lebrixa, Nebrissenis,
+  Bazzarini and [[Bellini]], Torino, 1864, 4to, 2 vols. 3100 pages.
+  SPANISH.--Salmanticae, 1494, fol.; [[Antonio]] de Lebrixa, Nebrissenis,
   Compluti, 1520, fol., 2 vols.: Sanchez de la Ballesta, Salamanca,
-  1587, 4to: Valbuena, Madrid, 1826, fol. PORTUGUESE.--Bluteau, Lisbon,
-  1712-1728, fol., 10 vols: Fonseca, ib. 1771, fol.: Ferreira, Paris,
+  1587, 4to: Valbuena, Madrid, 1826, fol. PORTUGUESE.--Bluteau, [[Lisbon]],
+  1712-1728, fol., 10 vols: [[Fonseca]], ib. 1771, fol.: Ferreira, Paris,
   1834, 4to; 1852. ROMANSCH.--_Promptuario di voci volgari_, Valgrisii,
   1565, 4to. VLACH.--Divalitu, Bucuresci, 1852, 8vo.
   SWEDISH.--_Vocabula_, Rostock, 1574, 8vo; Stockholm, 1579: Lindblom,
@@ -999,7 +999,7 @@ EUROPE
   1873, 8vo: Vani[vc]ek, Leipz. 1874, 8vo. BARBAROUS.--Marchellus,
   Mediol. 1753, 4to; Krebs, Frankf. a. M. 1834, 8vo; 1837. PARTICULAR
   AUTHORS.--_Caesar_: Crusius, Hanov. 1838, 8vo. _Cicero_: Nizzoli,
-  Brescia, 1535, fol.; ed. Facciolati, Patavii, 1734, fol.; London,
+  [[Brescia]], 1535, fol.; ed. Facciolati, Patavii, 1734, fol.; London,
   1820, 8vo, 3 vols.: Ernesti, Lips. 1739, 8vo; Halle, 1831. _Cornelius
   Nepos_: Schmieder, Halle, 1798, 8vo; 1816: Billerbeck, Hanover, 1825,
   8vo. _Curtius Rufus_: Crusius, Hanov. 1844, 8vo. _Horace_: Ernesti,
@@ -1014,10 +1014,10 @@ EUROPE
   _Sallust_: Schneider, Leipz. 1834, 8vo: Crusius, Hanover, 1840, 8vo.
   _Tacitus_: Bötticher, Berlin, 1830, 8vo. _Velleius Paterculus_: Koch,
   Leipz. 1857, 8vo. _Virgil_: _Clavis_, London, 1742, 8vo: Braunhard,
-  Coburg, 1834, 8vo. _Vitruvius_: Rode, Leipz. 1679, 4to, 2 vols.:
+  [[Coburg]], 1834, 8vo. _Vitruvius_: Rode, Leipz. 1679, 4to, 2 vols.:
   Orsini, Perugia, 1801, 8vo.
 
-  OLD ITALIAN LANGUAGES.--Fabretti, Torini, 1858, 4to. _Umbrian_:
+  OLD ITALIAN LANGUAGES.--[[Fabretti]], Torini, 1858, 4to. _Umbrian_:
   Huschke, Leipz. 1860, 8vo. _Oscan and Sabellian_: Id. Elberfeld, 1856,
   8vo.
 
@@ -1025,7 +1025,7 @@ EUROPE
   vols.; Carpentier, Suppl., Paris, 1766, fol., 4 vols.; ed. Adelung,
   Halae, 1772-1784, 8vo, 6 vols.; ed. Henschel, Paris, 1840-1850, 4to, 7
   vols. (vol. vii. contains a glossary of Old French): Brinckmeier,
-  Gotha, 1850-1863, 8vo, 2 vols.: Hildebrand (_Glossarium saec. ix._),
+  [[Gotha]], 1850-1863, 8vo, 2 vols.: [[Hildebrand]] (_Glossarium saec. ix._),
   Götting. 1854, 4to: Diefenbach, _Glossarium_, Frankf. 1857, 4to: Id.
   _Gloss. novum_, ib. 1867, 4to. ECCLESIASTICAL.--Magri, Messina, 1644,
   4to; 8th ed. Venezia, 1732; Latin translation, _Magri Hierolexicon_,
@@ -1034,7 +1034,7 @@ EUROPE
 
 _Romance Languages. _
 
- Romance Languages generally.--Diez, Bonn, 1853, 8vo; 2nd ed. ib.
+ Romance Languages generally.--[[Diez]], [[Bonn]], 1853, 8vo; 2nd ed. ib.
   1861-1862, 8vo, 2 vols.; 3rd ed. ib. 1869-1870, 8vo, 2 vols.; transl.
   by Donkin, 1864, 8vo.
 
@@ -1052,9 +1052,9 @@ _Romance Languages. _
   that for eighty years all the best writers belonged to their body, and
   they could not be expected to cite each other. Their design was to
   raise the language to its last perfection, and to open a road to reach
-  the highest eloquence. Antoine Furetière, one of their members,
+  the highest eloquence. [[Antoine]] Furetière, one of their members,
   compiled a dictionary which he says cost him forty years' labour for
-  ten hours a day, and the manuscript filled fifteen chests. He gave
+  ten hours a day, and the [[Manuscript|manuscript]] filled fifteen chests. He gave
   words of all kinds, especially technical, names of persons and places,
   and phrases. As a specimen, he published his _Essai_, Paris, 1684,
   4to; Amst. 1685, 12mo. The Academy charged him with using the
@@ -1062,10 +1062,10 @@ _Romance Languages. _
   the 22nd of January 1685, for plagiarism. He died on the 14th of May
   1688, in the midst of the consequent controversy and law suit. His
   complete work was published, with a preface by Bayle, La Haye and
-  Rotterdam, 1690, fol., 3 vols.; again edited by Basnage de Beauval,
+  Rotterdam, 1690, fol., 3 vols.; again edited by [[Basnage]] de Beauval,
   1701; La Haye, 1707, fol., 4 vols. From the edition of 1701 the very
   popular so-called _Dictionnaire de Trevoux_, Trevoux, 1704, fol., 2
-  vols., was made by the Jesuits, who excluded everything that seemed to
+  vols., was made by the [[Jesuits]], who excluded everything that seemed to
   favour the Calvinism of Basnage. The last of its many editions is
   Paris, 1771, fol., 8 vols. The Academy's dictionary was first printed
   Paris, 1694, fol., 2 vols. They began the revision in 1700; second
@@ -1078,20 +1078,20 @@ _Romance Languages. _
   1835; 12th ed. ib. 1854, 4to, 2 vols.: Littré, Paris, 1863-1873, 4to,
   4 vols. 7118 pages: Supplément, Paris, 1877, 4to: Godefroy (with
   dialects from 9th to 15th cent.), Paris, 1881-1895, and _Complément_:
-  Hatzfield, Darmesteter, and Thomas, Paris, 1890-1900: Larive and
-  Fleury, (_mots et choses, illustré_), Paris, 1884-1891.
+  Hatzfield, [[Darmesteter]], and Thomas, Paris, 1890-1900: Larive and
+  [[Fleury]], (_mots et [[Chose|choses]], illustré_), Paris, 1884-1891.
   ENGLISH.--Palsgrave, _Lesclaircissement de la langue francoyse_,
   London, 1530, 4to, 2 parts; 1852: Hollyband, London, 1533, 4to:
-  Cotgrave, ib. 1611, fol.: Boyer, La Haye, 1702, 4to, 2 vols.; 37th ed.
+  [[Cotgrave]], ib. 1611, fol.: [[Boyer]], La Haye, 1702, 4to, 2 vols.; 37th ed.
   Paris, 1851, 8vo, 2 vols.: Fleming and Tibbins, Paris, 1846-1849, 4to,
   2 vols.; ib. 1854, 4to, 2 vols.; ib. 1870-1872, 4to, 2 vols.: Tarver,
-  London, 1853-1854, 8vo, 2 vols.; 1867-1872: Bellows, Gloucester, 1873,
+  London, 1853-1854, 8vo, 2 vols.; 1867-1872: [[Bellows]], Gloucester, 1873,
   16mo; ib. 1876. IDEOLOGICAL, OR ANALOGICAL.--Robertson, Paris, 1859,
   8vo: Boissière, Paris, 1862, 8vo. ETYMOLOGY.--Lebon, Paris, 1571, 8vo:
   Ménage, ib. 1650, 4to. Pougens projected a _Trésor des origines_, his
   extracts for which, filling nearly 100 volumes folio, are in the
   library of the Institut. He published a specimen, Paris, 1819, 4to.
-  After his death, _Archéologie française_, Paris, 1821, 8vo, 2 vols.,
+  After his death, _[[Arch]]éologie française_, Paris, 1821, 8vo, 2 vols.,
   was compiled from his MSS., which were much used by Littré: Scheler,
   Bruxelles, 1862, 8vo; 1873: Brachet, 2nd ed. Paris, 1870, 12mo;
   English trans. Kitchin, Oxf. 1866, 8vo. GREEK WORDS.--Trippault,
@@ -1099,9 +1099,9 @@ _Romance Languages. _
   Cöthen, 1867, 8vo. ORIENTAL WORDS.--Pihan, Paris, 1847, 8vo; 1866:
   Devic, ib. 1876, 8vo. NEOLOGY.--Desfontaines, 3rd ed. Amst. 1728,
   12mo: Mercier, Paris, 1801, 8vo, 2 vols.: Richard, ib. 1842, 8vo; 2nd
-  ed. 1845. POETIC.--_Dict. des rimes_ (by La Noue), Geneve, 1596, 8vo;
+  ed. 1845. POETIC.--_Dict. des rimes_ (by [[La Noue]]), Geneve, 1596, 8vo;
   Cologny, 1624, 8vo: Carpentier, _Le Gradus français_, Paris, 1825,
-  8vo, 2 vols. EROTIC.--De Landes, Bruxelles, 1861, 12mo.
+  8vo, 2 vols. EROTIC.--[[De Land|De Landes]], Bruxelles, 1861, 12mo.
   ORATORY.--Demandre and Fontenai, Paris, 1802, 8vo: Planche, ib.
   1819-1820, 8vo, 3 vols. PRONUNCIATION.--Féline, ib. 1857, 8vo. DOUBLE
   FORMS.--Brachet, ib. 1871, 8vo. EPITHETS.--Daire, ib. 1817, 8vo.
@@ -1114,16 +1114,16 @@ _Romance Languages. _
   pages. IMITATIVE WORDS.--Nodier, _Onomatopées_, ib. 1828, 8vo.
   TECHNOLOGY.--D'Hautel, ib. 1808, 8vo, 2 vols.: Desgranges, ib. 1821,
   8vo: Tolhausen (Fr., Eng., Germ.), Leipz. 1873, 8vo, 3 vols. FAULTS OF
-  EXPRESSION.--Roland, Gap, 1823, 8vo: Blondin, Paris, 1823, 8vo.
+  EXPRESSION.--Roland, [[Gap]], 1823, 8vo: [[Blondin]], Paris, 1823, 8vo.
   PARTICULAR AUTHORS.--_Corneille_: Godefroy, ib. 1862, 8vo, 2 vols.:
-  Marty-Laveaux, ib. 1868, 8vo, 2 vols. _La Fontaine_: Lorin, ib. 1852,
+  Marty-Laveaux, ib. 1868, 8vo, 2 vols. _[[La Fontaine]]_: Lorin, ib. 1852,
   8vo. _Malherbe_: Regnier, ib. 1869, 8vo. _Molière_: Genin, ib. 1846,
   8vo: Marty-Laveaux, ib. 8vo. _Racine_: Marty-Laveaux, ib. 1873, 8vo, 2
   vols. _M^me de Sévigné_: Sommer, ib. 1867, 8vo, 2 vols. OLD
   FRENCH.--La Curne de St Palaye prepared a dictionary, of which he only
   published _Projet d'un glossaire_, Paris, 1756, 4to. His MSS. in many
   volumes are in the National Library, and were much used by Littré.
-  They were printed by L. Favre, and fasciculi 21-30 (tom. iii.), Niort,
+  They were printed by L. [[Favre]], and fasciculi 21-30 (tom. iii.), Niort,
   4to, 484 pages, were published in February 1877. Lacombe (vieux
   langage), Paris, 1766, 2 vols. 4to: Kelham (Norman and Old French),
   London, 1779, 8vo: Roquefort (langue romane), Paris, 1808, 8vo;
@@ -1132,85 +1132,85 @@ _Romance Languages. _
   émaux ... du Louvre_, part ii.), Paris, 1853, 8vo, 564 pages:[3]
   Gachet (rhymed chronicles), Bruxelles, 1859, 4to: Le Héricher (Norman,
   English and French), Paris, 1862, 3 vols. 8vo: Hippeau (12th and 13th
-  centuries), Paris, 1875, 8vo. DIALECTS.--Jaubert (central), Paris,
+  centuries), Paris, 1875, 8vo. DIALECTS.--[[Jaubert]] (central), Paris,
   1856-1857, 8vo, 2 vols.: Baumgarten (north and centre), Coblentz,
-  1870, 8vo: Azais, _Idiomes romans du midi_, Montpellier, 1877.
+  1870, 8vo: Azais, _[[Idiom|Idiomes]] romans du midi_, Montpellier, 1877.
   _Austrasian_: François. Metz, 1773, 8vo. _Auvergne_: Mège, Riom, 1861,
-  12mo. _Bearn_: Lespi, Pau, 1858, 8vo. _Beaucaire_: Bonnet (Bouguirén),
-  Nismes, 1840, 8vo. _Pays de Bray_: Decorde, Neufchâtel, 1852, 8vo.
-  _Burgundy_: Mignard, Dijon, 1870, 8vo. _Pays de Castres_: Couzinié,
-  Castres, 1850, 4to. _Dauphiné_: Champollion-Figeac, Paris, 1809, 8vo:
+  12mo. _[[Bearn]]_: Lespi, Pau, 1858, 8vo. _[[Beaucaire]]_: Bonnet (Bouguirén),
+  Nismes, 1840, 8vo. _Pays de [[Bray]]_: Decorde, Neufchâtel, 1852, 8vo.
+  _Burgundy_: Mignard, Dijon, 1870, 8vo. _Pays de [[Castres]]_: Couzinié,
+  Castres, 1850, 4to. _[[Dauphin]]é_: [[Champollion-Figeac]], Paris, 1809, 8vo:
   Jules, Valence, 1835, 8vo; Paris, 1840, 4to. _Dep. of Doubs_: Tissot
   (Patois des Fourg, arr. de Pontarlier) Besançon, 1865, 8vo. _Forez_:
   Gras, Paris, 1864, 8vo; Neolas, Lyon, 1865, 8vo. _Franche Comté_:
   Maisonforte, 2nd ed. Besançon, 1753, 8vo. _Gascony_: Desgrouais
   (Gasconismes corrigés), Toulouse, 1766, 8vo; 1769; 1812, 12mo, 2
-  vols.; 1825, 8vo, 2 vols. _Dep. of Gers_: Cenac-Montaut, Paris, 1863,
-  8vo. _Geneva_: Humbert, Geneve, 1820, 8vo. _Languedoc_: Odde, Tolose,
+  vols.; 1825, 8vo, 2 vols. _Dep. of [[Gers]]_: Cenac-Montaut, Paris, 1863,
+  8vo. _Geneva_: [[Humbert]], Geneve, 1820, 8vo. _[[Languedoc]]_: Odde, Tolose,
   1578, 8vo: Doujat, Toulouse, 1638, 8vo: De S.[auvages], Nismes, 1756,
   2 vols.; 1785; Alais, 1820: Azais, Beziers, 1876, &c., 8vo: Hombres,
   Alais, 1872, 4to: Thomas (_Greek words_) Montpellier, 1843, 4to.
   _Liége_: Forir, Liége, 1866, 8vo, vol i. 455 pages. _Lille_: Vermesse,
-  Lille, 1861, 12mo: Debuire du Buc ib., 1867, 8vo. _Limousin_: Beronie,
+  Lille, 1861, 12mo: Debuire du Buc ib., 1867, 8vo. _[[Limousin]]_: Beronie,
   ed. Vialle (Corrèze), Tulle, 1823, 4to. _Lyonnais, Forez,
-  Beaujolais_: Onofrio, Lyon, 1864, 8vo. _Haut Maine_: R[aoul] de
+  Beaujolais_: Onofrio, Lyon, 1864, 8vo. _Haut [[Maine]]_: R[aoul] de
   M.[ontesson], Paris, 1857; 1859, 503 pages. _Mentone_: Andrews, Nice,
   1877, 12mo. _Dep. de la Meuse_: Cordier, Paris, 1853, 8vo. _Norman_:
-  Edélestand and Alfred Duméril, Caen, 1849, 8vo: Dubois, ib. 1857, 8vo:
+  Edélestand and Alfred Duméril, Caen, 1849, 8vo: [[Dubois]], ib. 1857, 8vo:
   Le Héricher (_Philologie topographique_), Caen, 1863, 4to: Id.
-  (éléments scandinaves), Avranches, 1861, 12mo: Metivier (Guernsey),
+  (éléments scandinaves), Avranches, 1861, 12mo: Metivier ([[Guernsey]]),
   London, 1870, 8vo: Vasnier (arrond de Pont Audemer), Rouen, 1861, 8vo:
-  Delboulle (Vallée d'Yères), Le Havre, 1876. _Picardy_: Corblet,
+  Delboulle (Vallée d'Yères), Le [[Havre]], 1876. _Picardy_: Corblet,
   Amiens, 1851, 8vo. _Poitou, Saintonge, Aunis_: Favre, Niort, 1867,
   8vo. _Poitou_: Beauchet-Filleau, Paris, 1864, 8vo: Levrier, Niort,
   1867, 8vo: Lalanne, Poitiers, 1868, 8vo. _Saintonge_: Boucherie,
   Angoulême, 1865, 8vo: Jonain, Royan, 1867, 8vo. _Savoy_: Pont
   (Terratzu de la Tarantaise), Chambery, 1869, 8vo. _La Suisse Romande_:
   Bridel, Lausanne, 1866, 8vo. _Dep. of Tarn_: Gary, Castre, 1845, 8vo.
-  _Dep. of Vaucluse_: Barjavel, Carpentras, 1849, 8vo. _Walloon
+  _Dep. of Vaucluse_: Barjavel, [[Carpentras]], 1849, 8vo. _Walloon
   (Rouchi)_: Cambresier, Liége, 1787, 8vo: Grandgagnage, ib. 1845-1850,
   8vo. 2 vols.: Chavée, Paris, 1857, 18mo: Vermesse, Doudi, 1867, 8vo.
   Sigart (_Montois_), Bruxelles, 1870, 8vo. SLANG.--Oudin, _Curiositez
   Françaises_, Paris, 1640, 8vo: Baudeau de Saumaise (Précieuses, Langue
   de Ruelles), Paris, 1660, 12mo; ed. Livet, ib. 1856: Le Roux, _Dict.
-  Comique_, Amst. 1788, and 6 other editions: Carême Prenant [i.e.
+  Comique_, Amst. 1788, and 6 other editions: [[Car]]ême Prenant [i.e.
   Taumaise], (argot réforme), Paris, 1829, 8vo: Larchey (excentricitées
   du langage), Paris, 1860, 12mo; 5th ed. 1865: Delvau (langue verte,
   Parisian), Paris, 1867, 8vo: Larchey, Paris, 1873, 4to, 236 pages.
 
 
- Provençal.--Pallas, Avignon, 1723, 4to: Bastero, _La Crusca
+ Provençal.--Pallas, [[Avignon]], 1723, 4to: Bastero, _La Crusca
   Provenzale_, Roma, 1724, fol. vol. i. only: Raynouard, Paris,
   1836-1844, 8vo, 6 vols.: Garcin, Draguignand, 1841, 8vo, 2 vols.:
-  Honnorat, Digne, 1846-1849, 4to, 4 vols. 107,201 words: Id., _Vocab.
+  Honnorat, [[Digne]], 1846-1849, 4to, 4 vols. 107,201 words: Id., _Vocab.
   fr. prov._, ib. 1848, 12mo, 1174 pages.
 
 
  Spanish.--Covarruvias Orosco, Madrid, 1611, fol.: ib. 1673-1674, fol.
   2 vols.; Academia Española, Madrid, 1726-1739, fol. 6 vols.; 8th ed.
-  1837: Caballero, Madrid, 1849, fol.; 8th ed. ib. 1860, 4to, 2 vols.:
-  Cuesta, ib. 1872, fol. 2 vols.: Campano, Paris, 1876, 18mo, 1015
+  1837: [[Caballero]], Madrid, 1849, fol.; 8th ed. ib. 1860, 4to, 2 vols.:
+  [[Cuesta]], ib. 1872, fol. 2 vols.: Campano, Paris, 1876, 18mo, 1015
   pages. Cuervo, 1886-1894; Monlau, 1881; Zerola, Toro y Gomes, and
   Isaza, 1895; Serrano (encyclopaedic) 1876-1881. ENGLISH.--Percivall,
   London, 1591, 4to: Pineda, London, 1740, fol.: Connelly and Higgins,
-  Madrid, 1797-1798, 4to, 4 vols.: Neuman and Baretti, 9th ed. London,
+  Madrid, 1797-1798, 4to, 4 vols.: Neuman and [[Baretti]], 9th ed. London,
   1831, 8vo, 2 vols.; 1874. FRENCH.--Oudin, Paris, 1607, 4to, 1660;
   Gattel, Lyon, 1803, 4to, 2 vols.: Dominguez, Madrid, 1846, 8vo, 6
-  vols.: Blanc, Paris, 1862, 8vo, 2 vols. GERMAN.--Wagener, Hamb.
+  vols.: [[Blanc]], Paris, 1862, 8vo, 2 vols. GERMAN.--Wagener, Hamb.
   1801-1805, 8vo, 4 vols.: Seckendorp, ib. 1823, 8vo, 3 vols.:
   Franceson, 3rd ed. Leipzig, 1862, 8vo, 2 vols. ITALIAN.--Franciosini,
-  Venezia, 1735, 8vo, 2 vols.; Cormon y Manni, Leon, 1843, 16mo, 2
+  Venezia, 1735, 8vo, 2 vols.; Cormon y Manni, [[Leon]], 1843, 16mo, 2
   vols.: Romero, Madrid, 1844, 4to. SYNONYMS.--_Diccionario de
   Sinonimos_, Paris, 1853, 4to. ETYMOLOGY.--Aldrete, Madrid, 1682, fol.:
   Monlau y Roca, ib. 1856, 12mo; Barcia, 1881-1883. ARABIC
   WORDS.--Hammer Purgstall, Wien, 1855, 8vo: Dozy and Engelmann, 2d ed.
   Leiden, 1869, 8vo. ANCIENT.--Sanchez, Paris, 1842, 8vo.
-  RHYMING.--Garcia de Rengifo (consonancias) Salmantica, 1592, 4to;
-  1876. DON QUIXOTE.--Beneke (German), Leipzig, 1800, 16mo; 4th ed.
+  RHYMING.--[[Garcia]] de Rengifo (consonancias) Salmantica, 1592, 4to;
+  1876. DON QUIXOTE.--[[Beneke]] (German), Leipzig, 1800, 16mo; 4th ed.
   Berlin, 1841, 16mo. DIALECTS.--_Aragonese_: Peralta, Zaragoza, 1836,
   8vo: Borao, ib. 1859, 4to. _Catalan_: Rocha de Girona (Latin),
   Barcinone, 1561, fol.: _Dictionari Catala_ (Lat. Fr. Span.),
-  Barcelona, 1642, 8vo: Lacavalleria (Cat.-Lat.), ib. 1696, fol.:
+  [[Barcelona]], 1642, 8vo: Lacavalleria (Cat.-Lat.), ib. 1696, fol.:
   Esteve, ed. Belvitges, &c. (Catal.-Sp. Lat.), Barcelona, 1805-1835,
   fol. 2 vols.: Saura (Cat.-Span.), ib. 1851, 16mo; 2nd ed.(Span.-Cat.),
   ib. 1854; 3rd ed. (id.) ib. 1862, 8vo: Labernia, ib. 1844-1848, 8vo, 2
@@ -1223,7 +1223,7 @@ _Romance Languages. _
   1849, 8vo; 3rd ed. ib. 1862, 8vo; Madrid, 1860, 4to.
 
 
- Portuguese.--Lima, Lisbon, 1783, 4to: Moraes da Silva, ib. 1789, 4to,
+ Portuguese.--[[Lima]], Lisbon, 1783, 4to: Moraes da Silva, ib. 1789, 4to,
   2 vols.; 6th ed. 1858: Academia real das Sciencas, ib. 1793, tom. i.,
   ccvi. and 544 pages (A to Azurrar); Faria, ib. 1849, fol. 2 vols.; 3rd
   ed. ib. 1850-1857, fol. 2 vols. 2220 pages. ENGLISH.--Vieyra, London,
@@ -1232,7 +1232,7 @@ _Romance Languages. _
   1841, 8vo, 2 vols.; 4th ed. 1860: Marques, Lisbonne, 1875, fol. 2
   vols.: Souza Pinto, Paris, 1877, 32mo, 1024 pages. GERMAN.--Wagener,
   Leipzig, 1811-1812, 8vo, 2 vols.: Wollheim, ib. 1844, 12mo, 2 vols.:
-  Bösche, Hamburg, 1858, 8vo, 2 vols. 1660 pages. ITALIAN.--Costa e Sá,
+  Bösche, [[Hamburg]], 1858, 8vo, 2 vols. 1660 pages. ITALIAN.--[[Costa]] e Sá,
   Lisboa, 1773-1774, fol. 2 vols. 1652 pages: Prefumo, Lisboa, 1853,
   8vo, 1162 pages. ANCIENT.--Joaquim de Sancta Rosa de Viterbo, ib.
   1798, fol. 2 vols.; 1824, 8vo. ARABIC WORDS.--Souza, ib. 1789, 4to;
@@ -1244,17 +1244,17 @@ _Romance Languages. _
   1842, fol. POETIC.--Luzitano (i.e. Freire), ib. 1765, 8vo, 2 vols.;
   3rd ed. ib. 1820, 4to, 2 vols. RHYMING.--Couto Guerreiro, Lisboa,
   1763, 4to. NAVAL.--Tiberghien, Rio de Janeiro, 1870, 8vo.
-  CEYLON-PORTUGUESE.--Fox, Colombo, 1819, 8vo: Callaway, ib. 1823, 8vo.
+  CEYLON-PORTUGUESE.--[[Fox]], Colombo, 1819, 8vo: Callaway, ib. 1823, 8vo.
 
 
- Italian.--Accarigi, _Vocabulario_, Cento, 1543, 4to: Alunno, _La_
+ Italian.--Accarigi, _Vocabulario_, [[Cento]], 1543, 4to: Alunno, _La_
   _fabrica del mundo_, Vinezia, 1548, fol.: Porccachi, Venetia, 1588,
   fol.: Accademici della Crusca, _Vocabulario_, Venez. 1612, fol.; 4th
   ed. Firenze, 1729-1738, fol. 6 vols.: Costa and Cardinali, Bologna,
   1819-1826, 4to, 7 vols.: Tommaseo and Bellini, Torino, 1861, &c., 4to,
   4 vols.: Petrocchi, 1884-1891. ENGLISH.--Thomas, London, 1598, 4to:
-  Florio, London, 1598, 4to, 1611: Baretti, London, 1794, 2 vols.: 1854,
-  8vo, 2 vols.: Petronj and Davenport, Londra, 1828, 8vo, 3 vols.:
+  [[Florio]], London, 1598, 4to, 1611: Baretti, London, 1794, 2 vols.: 1854,
+  8vo, 2 vols.: Petronj and [[Davenport]], Londra, 1828, 8vo, 3 vols.:
   Grassi, Leipz. 1854, 12mo: Millhouse, Lond., 1868, 8vo, 2 vols. 1348
   pages. FRENCH.--Alberti, Paris, 1771, 4to, 2 vols.; Milan, 1862:
   Barberi, Paris, 1838, 4to, 2 vols.: Renzi, Paris, 1850, 8vo.
@@ -1272,27 +1272,27 @@ _Romance Languages. _
   Venetia, 1563, 8vo; 1827: Stigliani, Roma, 1658, 8vo: Rosasco, Padova,
   1763, 4to; Palermo, 1840, 8vo. TECHNICAL.--Bonavilla-Aquilino, Mil.
   1819-1821, 8vo, 5 vols.; 2nd ed. 1829-1831, 4to, 2 vols.: Vogtberg
-  (Germ.), Wein, 1831, 8vo. PARTICULAR AUTHORS.--_Boccaccio_: Aluno, _Le
-  ricchezze della lingua volgare_, Vinegia, 1543. fol. _Dante_: Blanc,
-  Leipzig, 1852, 8vo; Firenze, 1859, 8vo. DIALECTS.--_Bergamo_:
+  (Germ.), Wein, 1831, 8vo. PARTICULAR AUTHORS.--_[[Boccaccio]]_: Aluno, _Le
+  ricchezze della lingua volgare_, Vinegia, 1543. fol. _[[Dante]]_: Blanc,
+  Leipzig, 1852, 8vo; Firenze, 1859, 8vo. DIALECTS.--_[[Bergamo]]_:
   Gasparini, Mediol. 1565: Zappetini, Bergamo, 1859, 8vo: Tiraboschi
   (anc. and mod.), Turin, 1873, 8vo. _Bologna_: Bumaldi, Bologna, 1660,
-  12mo: Ferrari, ib. 1820, 8vo; 1838, 4to. _Brescia_: Gagliardi,
+  12mo: [[Ferrari]], ib. 1820, 8vo; 1838, 4to. _Brescia_: Gagliardi,
   Brescia, 1759, 8vo: Melchiori, ib. 1817-1820, 8vo: _Vocabularietto_,
-  ib. 1872, 4to. _Como_: Monti, Milano, 1845, 8vo. _Ferrara_: Manini,
-  Ferrara, 1805, 8vo: Azzi, ib. 1857, 8vo. _Friuli_: Scala, Pordenone,
+  ib. 1872, 4to. _[[Como]]_: Monti, Milano, 1845, 8vo. _Ferrara_: Manini,
+  Ferrara, 1805, 8vo: Azzi, ib. 1857, 8vo. _[[Friuli]]_: Scala, Pordenone,
   1870, 8vo. _Genoa_: Casaccia, Gen. 1842-1851, 8vo; 1873, &c.:
   Paganini, ib. 1857, 8vo. _Lombardy_: Margharini, Tuderti, 1870, 8vo.
   _Mantua_: Cherubini, Milano, 1827, 4to. _Milan_: Varon, ib. 1606, 8vo:
   Cherubini, ib. 1814, 8vo, 2 vols.; 1841-1844, 8vo, 4 vols.; 1851-1861,
-  8vo, 5 vols.: Banfi, ib. 1857, 8vo: 1870, 8vo. _Modena_: Galvani,
-  Modena, 1868, 8vo. _Naples_: Galiani, Napoli, 1789, 12mo, 2 vols.
+  8vo, 5 vols.: Banfi, ib. 1857, 8vo: 1870, 8vo. _Modena_: [[Galvani]],
+  Modena, 1868, 8vo. _Naples_: [[Galiani]], Napoli, 1789, 12mo, 2 vols.
   _Parma_: Peschieri, Parma, 1828-1831, 8vo, 3 vols. 1840; Malespina,
   ib. 1856, 8vo, 2 vols. _Pavia_: _Dizionario domestico pavese_, Pavia,
   1829, 8vo: Gambini, ib. 1850, 4to, 346 pages. _Piacenza_: Nicolli,
   Piacenza, 1832: Foresti, ib. 1837-1838, 8vo, 2 pts. _Piedmont_: Pino,
   Torino, 1784, 4to: Capello (Fr.), Turin, 1814, 8vo, 2 pts.: Zalli
-  (Ital. Lat. Fr.), Carmagnola, 1815, 8vo, 2 vols: Sant' Albino, Torino,
+  (Ital. Lat. Fr.), [[Carmagnola]], 1815, 8vo, 2 vols: Sant' Albino, Torino,
   1860, 4to. _Reggio_: _Vocabulario Reggiano_, 1832. _Romagna_: Morri,
   Fienza, 1840. _Rome_: _Raccolto di voci Romani e Marchiani_, Osimo,
   1769, 8vo. _Roveretano and Trentino_: Azzolini, Venezia, 1856, 8vo.
@@ -1335,7 +1335,7 @@ TEUTONIC: (1) _Scandinavian._
   Danish), ib. 1814, 4to, 2 vols. ENGLISH.--Cleasby-Vigfusson, Oxford,
   1874, 4to. GERMAN.--Dieterich, Stockholm, 1844, 8vo: Möbius, Leipzig,
   1866, 8vo. DANISH.--Jonssen, Kjöbenhavn, 1863, 8vo. NORWEGIAN.--Kraft,
-  Christiania, 1863, 8vo: Fritzner, Kristiania, 1867, 8vo.
+  [[Christiania]], 1863, 8vo: Fritzner, Kristiania, 1867, 8vo.
   POETIC.--Egilsson (Latin), Hafniae, 1860, 8vo; 1864.
 
 
@@ -1352,7 +1352,7 @@ TEUTONIC: (1) _Scandinavian._
   Stockholm, 1745, 4to: Björkengren, ib. 1795, 2 vols.: Nordforss, ib.
   1805, 8vo, 2 vols.: 2nd ed. Örebro, 1827, 12mo: West, Stockh. 1807,
   8vo: Dalin, ib. 1842-1843, 4to, 2 vols.; 1872. GERMAN.--Dähnert,
-  Holmiae, 1746, 4to: Heinrich, Christiansund, 1814, 4to, 2 vols.; 4th
+  Holmiae, 1746, 4to: Heinrich, [[Christiansund]], 1814, 4to, 2 vols.; 4th
   ed. Örebro, 1841, 12mo: Helms, Leipzig, 1858, 8vo; 1872.
   DANISH.--Höst, Kjöbenhavn, 1799, 4to: Welander, Stockholm, 1844, 8vo:
   Dalin, ib. 1869, 16mo: Kaper, Kjöbenhavn, 1876, 16mo.
@@ -1363,14 +1363,14 @@ TEUTONIC: (1) _Scandinavian._
   ib. 1866, 8vo. TECHNICAL.--Jungberg, ib. 1873, 8vo. DIALECTS.--Ihre,
   Upsala, 1766, 4to: Rietz, Lund, 1862-1867, 4to, 859 pages. _Bohuslän_:
   _Idioticon Bohusiense_, Götaborg, 1776, 4to. _Dalecarlia_: Arborelius,
-  Upsala, 1813, 4to. _Gothland_: Hof (Sven), Stockholmiae, 1772, 8vo:
+  Upsala, 1813, 4to. _Gothland_: [[Hof]] (Sven), Stockholmiae, 1772, 8vo:
   Rääf (Ydre), Örebro, 1859, 8vo. _Halland_: Möller, Lund, 158, 8vo.
   _Helsingland_: Lenström, ib. 1841, 8vo: Fornminnessällskap,
   Hudikswall, 1870, 8vo.
 
 
- Norwegian.--Jenssen, Kjöbenhavn, 1646, 8vo: Pontoppidan, Bergen, 1749,
-  8vo: Hanson (German), Christiania, 1840, 8vo: Aasen, ib. 1873, 8vo,
+ Norwegian.--Jenssen, Kjöbenhavn, 1646, 8vo: Pontoppidan, [[Bergen]], 1749,
+  8vo: [[Hanson]] (German), Christiania, 1840, 8vo: Aasen, ib. 1873, 8vo,
   992 pages.
 
 
@@ -1379,7 +1379,7 @@ TEUTONIC: (1) _Scandinavian._
   Videnskabernes Selskab, ib. 1793-1865, Kalkar. ENGLISH.--Berthelson
   (Eng. Dan.), 1754, 4to: Wolff, London, 1779, 4to. Bay, ib. 1807, 8vo,
   2 vols.; 1824, 8vo: Hornbeck, ib. 1863, 8vo: Ferrall and Repp, ib.
-  1814, 16mo; 1873, 8vo: Rosing, Copenhagen, 1869, 8vo: Ancker, ib.
+  1814, 16mo; 1873, 8vo: Rosing, [[Copenhagen]], 1869, 8vo: Ancker, ib.
   1874, 8vo. FRENCH.--Aphelen, 1754, 8vo: Id., ib. 1759, 4to, 2 vols.;
   2nd ed. 1772-1777, vol. i. ii. GERMAN.--Id., ib. 1764, 4to, 2 vols.:
   Grönberg, 2nd ed. Kopenh. 1836-1839, 12mo, 2 vols.; 1851, Helms,
@@ -1387,7 +1387,7 @@ TEUTONIC: (1) _Scandinavian._
   WORDS.--Hansen, Christiania, 1842, 12mo. NAVAL.--Wilsoet, Copenhagen,
   1830, 8vo: Fisker (French), Kjöbenhavn, 1839, 8vo. OLD
   DANISH.--Molbech, ib. 1857-1868, 8vo, 2 vols. DIALECTS.--Id., ib.
-  1841, 8vo. _Bornholm_: Adler, _ib._ 1856, 8vo. _South Jutland_: Kok,
+  1841, 8vo. _Bornholm_: Adler, _ib._ 1856, 8vo. _South [[Jutland]]_: Kok,
   1867, 8vo. SLANG.--Kristiansen (Gadesproget), ib. 1866, 8vo. p. 452.
 
 
@@ -1397,44 +1397,44 @@ TEUTONIC: (1) _Scandinavian._
   1836, 8vo.
 
 
- Gothic.--Junius, Dortrecht, 1665, 4to: 1671; 1684, Diefenbach
+ [[Gothic]].--Junius, Dortrecht, 1665, 4to: 1671; 1684, Diefenbach
   (comparative), Franckf. a. M. 1846-1851, 2 vols. 8vo: Schulze,
-  Magdeburg, 1848, 4to: 1867, 8vo: Skeat, London, 1868, 4to: Balg
+  [[Magdeburg]], 1848, 4to: 1867, 8vo: Skeat, London, 1868, 4to: Balg
   (_Comparative Glossary_), Magvike, Wisconsin, 1887-1889. ULPHILAS
   (editions with dictionaries).--Castilionaeus, Mediol, 1829, 4to:
   Gabelentz and Löbe, Altenburg, 1836-1843, 4to, 2 vols.: Gaugengigl,
-  Passau, 1848, 8vo: Stamm, Paderborn, 1857: Stamm and Heyne, ib. 1866,
+  Passau, 1848, 8vo: Stamm, Paderborn, 1857: Stamm and [[Heyne]], ib. 1866,
   8vo.
 
 
- Anglo-Saxon.--LATIN.--Somner (Lat. Eng.), Oxonii, 1659, fol.: Benson,
-  ib. 1701, 8vo: Lye (A.-S. and Gothic), London, 1772, fol. 2 vols.:
+ Anglo-Saxon.--LATIN.--Somner (Lat. Eng.), Oxonii, 1659, fol.: [[Benson]],
+  ib. 1701, 8vo: [[Lye]] (A.-S. and Gothic), London, 1772, fol. 2 vols.:
   Ettmüller, Quedlinburg, 1851, 8vo. 838 pages. ENGLISH.--Bosworth,
   London, 1838, 8vo, 721 pages: Id. (_Compendious_), 1848, 278 pages.
-  Corson (A.-S. and Early English), New York, 1871, 8vo, 587 pages;
-  Toller (based on Bosworth), Oxford, 1882-1898. GERMAN.--Bouterwek,
+  [[Corson]] (A.-S. and Early English), New York, 1871, 8vo, 587 pages;
+  Toller (based on Bosworth), Oxford, 1882-1898. GERMAN.--[[Bouterwek]],
   Gütersloh, 1850, 8vo, 418 pages: Grein (Poets), Göttingen, 1861-1863,
   8vo, 2 vols.: Leo, Halle, 1872, 8vo.
 
 
- English.--Cockeram, London, 1623, 8vo: 9th ed. 1650: Blount, ib. 1656,
-  8vo: Philips, The new World of Words, London, 1658, fol.: Bailey,
+ English.--Cockeram, London, 1623, 8vo: 9th ed. 1650: [[Blount]], ib. 1656,
+  8vo: Philips, The new World of Words, London, 1658, fol.: [[Bailey]],
   London, 1721, 8vo; 2nd ed. ib. 1736, fol.; 24th ed. ib. 1782, 8vo:
   Johnson, ib. 1755, fol. 2 vols.; ed. Todd, London, 1818, 4to, 4 vols.;
   ib. 1827. 4to, 3 vols.; ed. Latham, ib. 1866-1874, 4to, 4 vols. (2 in
-  4 parts): Barclay, London, 1774, 4to; ed. Woodward, ib. 1848:
+  4 parts): [[Barclay]], London, 1774, 4to; ed. Woodward, ib. 1848:
   Sheridan, ib. 1780, 4to, 2 vols.: Webster, New York, 1828, 4to, 2
-  vols.; London, 1832, 4to, 2 vols.; ed. Goodrich and Porter, 1865, 4to:
+  vols.; London, 1832, 4to, 2 vols.; ed. [[Goodrich]] and Porter, 1865, 4to:
   Richardson, ib. 1836, 4to, 2 vols.; Supplement, 1856: Ogilvie,
-  _Imperial Dictionary_, Glasgow, 1850-1855, 8vo, 3 vols. (the new
+  _Imperial Dictionary_, [[Glasgow]], 1850-1855, 8vo, 3 vols. (the new
   edition of Ogilvie by Charles Annandale, 4 vols., 1882, was an
   encyclopaedic dictionary, which served to some extent as the
   foundation of the _Century Dictionary_); Boag, _Do._, Edinburgh,
-  1852-1853, 8vo, 2 vols.: Craik, ib. 1856, 8vo: Worcester, Boston,
+  1852-1853, 8vo, 2 vols.: [[Craik]], ib. 1856, 8vo: Worcester, [[Boston]],
   1863, 4to. Stormouth and Bayne, 1885; Murray and Bradley, _The Oxford
   English Dictionary_, 1884- ; Whitney, _The Century Dict._, New York,
   1889-1891; Porter, _Webster's Internat. Dict._, Springfield,
-  Massachusetts, 1890; Funk, _Standard Dict._, New York, 1894; Hunter,
+  Massachusetts, 1890; Funk, _Standard Dict._, New York, 1894; [[Hunter]],
   _The Encyclopaedic Dict._, 1879-1888. ETYMOLOGY.--Skinner, Londini,
   1671, fol.: Junius, Oxonii, 1743, fol.: Wedgewood, London, 1859-1865,
   3 vols.; ib. 1872, 8vo. Skeat, Oxford, 1881; Fennell (Anglicized
@@ -1442,7 +1442,7 @@ TEUTONIC: (1) _Scandinavian._
   2nd ed. ib. 1846, 8vo. PRONOUNCING IN GERMAN.--Hausner, Frankf. 1793,
   8vo; 3rd ed. 1807; Winkelmann, Berlin, 1818, 8vo: Voigtmann, Coburg,
   1835, 8vo: Albert, Leipz. 1839, 8vo: Bassler, ib. 1840, 16mo.
-  ANALYTICAL.--Booth, Bath, 1836, 4to: Roget, _Thesaurus_, London, 1852,
+  ANALYTICAL.--[[Booth]], Bath, 1836, 4to: Roget, _Thesaurus_, London, 1852,
   8vo; 6th ed. 1857; Boston, 1874. SYNONYMS.--Piozzi, London, 1794, 8vo,
   2 vols.: L. [abarthe], Paris, 1803, 8vo, 2 vols.: Crabb, London,
   1823, 8vo; 11th ed. 1859: C. J. Smith, ib. 1871, 8vo, 610 pages.
@@ -1459,38 +1459,38 @@ TEUTONIC: (1) _Scandinavian._
   Oxford, 1891; Matzner and Bieling, Berlin, 1878- . OLD AND
   PROVINCIAL.--Halliwell, London, 1844-1846, 8vo; 2nd ed. ib. 1850, 2
   vols.: 6th ed. 1904: Wright, ib. 1857, 8vo, 2 vols.; 1862.
-  DIALECTS.--Ray, ib. 1674, 12mo: Grose, ib. 1787, 8vo; 1790: Holloway,
-  Lewes, 1840, 8vo; Wright, _Eng. Dialect Dict._, London, 1898-1905, 28
+  DIALECTS.--Ray, ib. 1674, 12mo: [[Grose]], ib. 1787, 8vo; 1790: [[Holloway]],
+  [[Lewes]], 1840, 8vo; Wright, _Eng. Dialect Dict._, London, 1898-1905, 28
   vols. _Scotch_: Jamieson, Edin. 1806, 4to, 2 vols.; Supplement, 1826,
   2 vols.; abridged by Johnstone, ib. 1846, 8vo: Brown, Edin, 1845, 8vo:
   Motherby (German), Königsberg, 1826-1828, 8vo: (_Shetland and
   Orkney_), Edmonston, London, 1866, 8vo: (_Banffshire_), Gregor, ib.
   1866, 8vo. _North Country_: Brockett, London, 1839, 8vo, 2 vols.
   _Berkshire_: [Lousley] ib. 1852, 8vo, _Cheshire_: Wilbraham, ib. 1817,
-  4to; 1826, 12mo: Leigh, Chester, 1877, 8vo. _Cumberland_: _Glossary_,
+  4to; 1826, 12mo: Leigh, [[Chester]], 1877, 8vo. _[[Cumberland]]_: _Glossary_,
   ib. 1851, 12mo: Dickenson, Whitehaven, 1854, 12mo; Supplement, 1867:
   Ferguson (Scandinavian Words), London, 1856, 8vo. _Derbyshire_: Hooson
   (mining), Wrexham, 1747, 8vo: Sleigh, London, 1865, 8vo. _Dorset_:
-  Barnes, Berlin, 1863, 8vo. _Durham_: [Dinsdale] (Teesdale), London,
+  [[Barnes]], Berlin, 1863, 8vo. _Durham_: [Dinsdale] (Teesdale), London,
   1849, 12mo. _Gloucestershire_: Huntley (Cotswold), ib. 1868, 8vo.
   _Herefordshire_: [Sir George Cornewall Lewis,] London, 1839, 12mo.
   _Lancashire_: Nodal and Milner, Manchester Literary Club, 1875, 8vo,
-  Morris (Furness), London, 1869, 8vo: R. B. Peacock (Lonsdale, North
-  and South of the Sands), ib. 1869, 8vo. _Leicestershire_: A. B. Evans,
-  ib. 1848, 8vo. _Lincolnshire_: Brogden, ib. 1866, 12mo: Peacock
+  Morris ([[Furness]]), London, 1869, 8vo: R. B. Peacock (Lonsdale, North
+  and South of the Sands), ib. 1869, 8vo. _[[Leicestershire]]_: A. B. Evans,
+  ib. 1848, 8vo. _[[Lincolnshire]]_: Brogden, ib. 1866, 12mo: Peacock
   (Manley & Corringham), ib. 1877, 8vo. _Norfolk and Suffolk_; Forby,
   London, 1830, 8vo, 2 vols. _Northamptonshire_: Sternberg, ib. 1851,
-  8vo: Miss Anne E. Baker, ib. 1866, 8vo, 2 vols. 868 pages.
+  8vo: Miss [[Anne]] E. [[Baker]], ib. 1866, 8vo, 2 vols. 868 pages.
   _Somersetshire_: Jennings, ib. 1869, 8vo: W. P. Williams and W. A.
   Jones, Taunton, 1873, 8vo. _Suffolk_: Moor, Woodbridge, 1823, 12mo:
-  Bowditch (Surnames), Boston, U.S., 1851, 8vo; 1858; 3rd ed. London,
+  [[Bowditch]] (Surnames), Boston, U.S., 1851, 8vo; 1858; 3rd ed. London,
   1861, 8vo, 784 pages. _Sussex_: Cooper, Brighton, 1836, 8vo: Parish,
   Farncombe, 1875, 8vo. _Wiltshire_: Akerman, London, 1842, 12mo.
-  _Yorkshire (North and East)_, Toone, ib. 1832, 8vo: (_Craven_), Carr,
-  2nd ed. London, 1828, 8vo, 2 vols.: (_Swaledale_), Harland, ib. 1873,
-  8vo: (_Cleveland_), Atkinson, ib. 1868, 4to, 653 pages: (_Whitby_) [F.
+  _Yorkshire (North and East)_, Toone, ib. 1832, 8vo: (_[[Craven]]_), Carr,
+  2nd ed. London, 1828, 8vo, 2 vols.: (_Swaledale_), [[Harland]], ib. 1873,
+  8vo: (_[[Cleveland]]_), [[Atkinson]], ib. 1868, 4to, 653 pages: (_Whitby_) [F.
   K. Robinson], ib. 1876, 8vo: (_Mid-Yorkshire and Lower Niddersdale_),
-  C. Clough Robinson, ib. 1876, 8vo: (_Leeds_), Id., ib. 1861, 12mo:
+  C. Clough Robinson, ib. 1876, 8vo: (_[[Leeds]]_), Id., ib. 1861, 12mo:
   (_Wakefield_), Banks, ib. 1865, 16mo: (_Hallamshire_), Hunter, London,
   1829, 8vo. _Ireland: (Forth and Bargy, Co. Wexford)_, Poole, London,
   1867, 8vo. _America_: Pickering, Boston, 1816, 8vo: Bartlett, New
@@ -1499,10 +1499,10 @@ TEUTONIC: (1) _Scandinavian._
   Elwyn, Philadelphia, 1859. 8vo. _Negro English_: Kingos, St Croix,
   1770, 8vo: Focke (Dutch), Leiden, 1855, 8vo: Wullschlaegel, Löbau,
   1856, 8vo. 350 pages. SLANG.--Grose, London, 1785, 8vo; 1796: Hotten,
-  ib. 1864, 8vo; 1866; Farmer & Henley (7 vols., 1890-1904).
+  ib. 1864, 8vo; 1866; [[Farmer]] & Henley (7 vols., 1890-1904).
 
 
- Frisic.--Wassenbergh, Leeuwarden, 1802, 8vo: Franeker, 1806, 8vo:
+ Frisic.--Wassenbergh, [[Leeuwarden]], 1802, 8vo: [[Franeker]], 1806, 8vo:
   Outzen, Kopenh. 1837, 4to: Hettema (Dutch), Leuwarden, 1832, 8vo;
   1874, 8vo, 607 pages: Winkler (Nederdeutsch en Friesch Dialectikon),
   's Gravenhage, 1874, 8vo, 2 vols. 1025 pages. OLD FRISIC.--Wiarda
@@ -1515,28 +1515,28 @@ TEUTONIC: (1) _Scandinavian._
  Dutch.--Kok, 2nd ed. Amst. 1785-1798, 8vo, 38 vols.: Weiland, Amst.
   1790-1811, 8vo, 11 vols.: Harrebomée, Utrecht, 1857, 4to; 1862-1870,
   8vo, 3 vols.: De Vries and Te Winkel, Gravenh. 1864, &c., 4to (new ed.
-  1882- ); Dale, ib. 4th ed. 1898; ENGLISH.--Hexham, ed. Manley,
+  1882- ); Dale, ib. 4th ed. 1898; ENGLISH.--[[Hexham]], ed. Manley,
   Rotterdam, 1675-1678, 4to: Holtrop, Dortrecht, 1823-1824, 8vo, 2
   vols.: Bomhoff, Nimeguen, 1859, 8vo, 2 vols. 2323 pages: Jaeger,
-  Gouda, 1862, 16mo: Calisch, Tiel, 1871, &c., 8vo. FRENCH.--Halma,
+  [[Gouda]], 1862, 16mo: Calisch, Tiel, 1871, &c., 8vo. FRENCH.--[[Halma]],
   Amst. 1710, 4to; 4th ed. 1761: Marin, ib. 1793, 4to, 2 vols.:
   Winkelman, ib. 1793, 4to, 2 vols.: Mook, Zutphen, 1824-1825, 8vo, 4
   vols.; Gouda, 1857, 8vo, 2 vols. 2818 pages: Kramers, ib. 1859-1862, 2
   vols. 16mo. GERMAN.--Kramer, Nürnb. 1719, fol.; 1759, 4to, 2 vols.;
   ed. Titius, 1784, Weiland, Haag, 1812, 8vo: Terwen, Amst. 1844, 8vo.
   ETYMOLOGY.--Franck, 1884-1892. ORIENTAL WORDS.--Dozy, 's Gravenhage,
-  1867, 8vo. GENDERS OF NOUNS.--Bilderdijk, Amst. 1822, 8vo, 2 vols.
+  1867, 8vo. GENDERS OF NOUNS.--[[Bilderdijk]], Amst. 1822, 8vo, 2 vols.
   SPELLING.--Id., 's Gravenhage, 1829, 8vo. FREQUENTATIVES.--De Jager,
-  Gouda, 1875, 8vo, vol. i. OLD DUTCH.--Suringer, Leyden, 1865, 8vo.
+  Gouda, 1875, 8vo, vol. i. OLD DUTCH.--Suringer, [[Leyden]], 1865, 8vo.
   MIDDLE DUTCH.--De Vries, 's Gravenhage, 1864, &c., 4to. Verwijs and
   Verdam, ib. 1885- .
 
 
- Flemish.--Kilian, Antw. 1511, 8vo; ed. Hasselt, Utrecht, 1777, 4to, 2
+ Flemish.--[[Kilian]], Antw. 1511, 8vo; ed. [[Hasselt]], Utrecht, 1777, 4to, 2
   vols. FRENCH.--Berlemont, Anvers, 1511, 4to: Meurier, ib. 1557, 8vo:
   Rouxell and Halma, Amst. 1708, 4to; 6th ed. 1821: Van de Velde and
   Sleeckx, Brux. 1848-1851, 8vo, 2440 pages; ib. 1860, 8vo, 2 vols.
-  ANCIENT NAMES OF PLACES.--Grandgagnage (East Belgium), Bruxelles,
+  ANCIENT NAMES OF PLACES.--Grandgagnage (East [[Belgium]]), Bruxelles,
   1859, 8vo.
 
 
@@ -1546,13 +1546,13 @@ TEUTONIC: (1) _Scandinavian._
   vols.: Grimm, Leipzig, 1854, &c., 4to: Sanders, ib. 1860-1865, 4to, 3
   vols. 1885: Diefenbach and Wülcker (High and Low German, to supplement
   Grimm), Frankf. a. M. 1874, 1885, 8vo.; Kluge, Strassburg, 1883;
-  Heine, Leipzig, 1890-1895; Weigand, Giessen, 1873. ENGLISH.--Adelung,
+  [[Heine]], Leipzig, 1890-1895; Weigand, Giessen, 1873. ENGLISH.--Adelung,
   1783-1796, 8vo, 3 vols.: Hilpert, Karlsruhe, 1828-1829, 8vo, 2 vols.;
   1845-1846, 4to, 2 vols.: Flügel, Leipz. 1830, 8vo, 2 vols.; London,
   1857, 8vo; Leipzig, 1870: Müller, Cöthen, 1867, 8vo, 2 vols.
   FRENCH.--Laveaux, Strassburg, 1812, 4to: Mozin, Stuttgard, 1811-1812,
   4to, 4 vols.; 1842-1846, 8vo, 4 vols., 3rd ed. 1850-1851, 8vo:
-  Schuster, Strasb. 1859, 8vo: Daniel, Paris, 1877, 16mo. OLD HIGH
+  Schuster, Strasb. 1859, 8vo: [[Daniel]], Paris, 1877, 16mo. OLD HIGH
   GERMAN.--Haltaeus, Lipsiae, 1758, fol. 2 vols.: Graff, Berlin,
   1834-1846, 4to, 7 vols.: Brinckmeier, Gotha, 1850-1863, 4to, 2 vols.:
   Kehrein (from Latin records), Nordhausen, 1863, 8vo. Schade, Halle,
@@ -1562,37 +1562,37 @@ TEUTONIC: (1) _Scandinavian._
   1872, &c., 8vo, in progress. LOW GERMAN.--Vollbeding, Zerbst, 1806,
   8vo: Kosegarten, Griefswald, 1839, 4to; 1856, &c., 4to.
   ETYMOLOGY.--Helvigius, Hanov. 1620, 8vo: Wachter, Lipsiae, 1737, fol.
-  2 vols.: Kaindl, Salzbach, 1815-1830, 8vo, 7 vols.: Heyse, Magdeburg,
+  2 vols.: Kaindl, Salzbach, 1815-1830, 8vo, 7 vols.: [[Heyse]], Magdeburg,
   1843-1849, 8vo, 3 vols.: Kehrein, Wiesbaden, 1847-1852, 2 vols.
-  SYNONYMS.--Eberhard, Maas, and Grüber, 4th ed. Leipzig, 1852-1863,
-  8vo, 4 vols.: Aue (Engl.), Edinb. 1836, 8vo: Eberhard, 11th ed.
+  SYNONYMS.--[[Eberhard]], Maas, and Grüber, 4th ed. Leipzig, 1852-1863,
+  8vo, 4 vols.: [[Aue]] (Engl.), Edinb. 1836, 8vo: Eberhard, 11th ed.
   Berlin, 1854, 12mo: Sanders, Hamburg, 1872, 8vo, 743 pages. FOREIGN
   WORDS.--Campe, Braunschweig, 1813, 4to: Heyse, _Fremdwörterbuch_,
   Hannover, 1848, 8vo. NAMES.--Pott. Leipz. 1853, 8vo: Michaelis
   (Taufnamen), Berlin, 1856, 8vo: Förstemann (Old Germ.) Nordhausen,
   1856-1859, 4to, 2 vols. 1573 pages, 12,000 names: Steub
   (Oberdeutschen), München, 1871, 8vo. LUTHER.--Dietz, Leipzig,
-  1869-1872, 8vo, 2 vols. DIALECTS.--Popowitsch, Wien, 1780, 8vo: Fulda,
+  1869-1872, 8vo, 2 vols. DIALECTS.--Popowitsch, Wien, 1780, 8vo: [[Fulda]],
   Berlin, 1788, 8vo: Klein, Frankf. 1792, 8vo, 2 vols.: Kaltschmidt,
   Nordlingen, 1851, 4to; 1854, 5th ed. 1865. _Aix-la-Chapelle_, Müller
-  and Weitz, Aachen, 1836, 12mo. _Appenzell_: Tobler, Zürich, 1837, 8vo.
-  _Austria_: Höfer, Linz, 1815, 8vo; Castelli, Wien, 1847, 12mo:
+  and Weitz, Aachen, 1836, 12mo. _[[Appenzell]]_: Tobler, Zürich, 1837, 8vo.
+  _Austria_: Höfer, [[Linz]], 1815, 8vo; [[Castelli]], Wien, 1847, 12mo:
   Scheuchenstül (mining), ib. 1856, 8vo. _Bavaria_: Zaupser, München,
   1789, 8vo: Deling, ib. 1820, 2 vols.: Schmeller, Stuttg. 1827-1837,
   8vo, 4 vols.; 2nd ed. München, 1872, 4to, vol. i. 1799 pages.
   _Berlin_: Trachsel. Berlin, 1873, 8vo. _Bremen_: Bremisch Deutsch
   Gesellschaft, Bremen, 1767-1771, 1869, 8vo, 6 vols. Oelrich (anc.
   statutes), Frankf. a. M. 1767, 8vo. _Carinthia_: Ueberfelder,
-  Klagenfurt, 1862, 8vo: Lexe, Leipzig, 1862, 8vo. _Cleves_: De
+  [[Klagenfurt]], 1862, 8vo: Lexe, Leipzig, 1862, 8vo. _Cleves_: De
   Schueren, _Teuthonista_, Colon, 1477, fol.; Leiden, 1804, 4to.
   _Göttingen_: Schambach, Hannover, 1838, 8vo. _Hamburg_: Richey, Hamb.
   1873, 4to; 1755, 8vo. _Henneberg_: Reinwold, Berlin and Stettin, 1793,
-  1801, 8vo, 2 vols.: Brückner, Meiningen, 1843, 4to. _Hesse_: Vilmar,
-  Marburg, 1868, 8vo, 488 pages. _Holstein_: Schütz Hamb. 1800-1806,
+  1801, 8vo, 2 vols.: Brückner, Meiningen, 1843, 4to. _[[Hesse]]_: Vilmar,
+  [[Marburg]], 1868, 8vo, 488 pages. _Holstein_: Schütz Hamb. 1800-1806,
   8vo, 4 vols. _Hungary_: Schoer, Wien, 1858. _Livonia_: Bergmann,
   Salisburg, 1785, 8vo: Gutzeit, Riga, 1859-1864, 8vo, 2 parts. _Upper
-  Lusatia_: Anton, Görlitz, 1825-1839, 13 parts. _Luxembourg_: Gangler,
-  Lux. 1847, 8vo, 406 pages. _Mecklenburg and Western Pomerania_: M.,
+  [[Lusatia]]_: Anton, Görlitz, 1825-1839, 13 parts. _Luxembourg_: Gangler,
+  Lux. 1847, 8vo, 406 pages. _[[Mecklenburg]] and Western Pomerania_: M.,
   Leipzig, 1876, 8vo, 114 pages. _Nassau_: Kehrein, Weilburg, 1860, 8vo.
   _Osnaburg_: Strodtmann, Leipz. 1756, 8vo. _Pomerania and Rügen_:
   Dähnert, Stralsund, 1781, 4to. _Posen_: Bernd, Bonn, 1820, 8vo.
@@ -1603,9 +1603,9 @@ TEUTONIC: (1) _Scandinavian._
   _Thuringia_: Keller, Jena, 1819, 8vo. _Transylvania_: Schuller, Prag,
   1865, 8vo. _Tirol_: Schöpf, Innspruck, 1866, 8vo. _Venetian Alps_:
   Schmeller, Wien, 1854, 8vo. _Vienna_: Hugel, ib. 1873, 8vo.
-  HUNTING.--_Westerwald_: Schmidt, Hadamar, 1800, 8vo; Kehrein,
+  [[Hunting|HUNTING]].--_Westerwald_: Schmidt, Hadamar, 1800, 8vo; Kehrein,
   Wiesbaden, 1871, 12mo. SLANG.--_Gauner Sprache_: Schott, Erlangen,
-  1821, 8vo: Grolmann, Giessen, 1822, 8vo: Train, Meissen, 1833, 8vo:
+  1821, 8vo: [[Grolmann]], Giessen, 1822, 8vo: Train, Meissen, 1833, 8vo:
   Anton, 2nd ed. Magdeburg, 1843, 8vo; 1859: Avé-Lallemant, _Das
   Deutsche Gaunerthun_, Leipzig, 1858-1862, 8vo, vol. iv. pp. 515-628.
   _Student Slang_: Vollmann (Burschicoses), Ragaz, 1846, 16mo, 562
@@ -1615,22 +1615,22 @@ TEUTONIC: (1) _Scandinavian._
 _Celtic._
 
  Celtic generally.--Lluyd, Archaeologia Britannica, Oxford, 1707,
-  folio: Bullet, Besançon, 1754-1860, fol. 2 vols.
+  folio: [[Bullet]], Besançon, 1754-1860, fol. 2 vols.
 
 
  Irish.--Cormac, bishop of Cashel, born 831, slain in battle 903, wrote
   a Glossary, _Sanas Cormaic_, printed by Dr Whitley Stokes, London,
   1862, 8vo, with another, finished in 1569, by O'Davoren, a
-  schoolmaster at Burren Castle, Co. Clare: O'Clery, Lovanii, 1643, 8vo:
+  schoolmaster at Burren Castle, Co. [[Clare]]: O'Clery, Lovanii, 1643, 8vo:
   MacCuirtin (Eng.-Irish), Paris, 1732, 4to: O'Brien, ib. 1768, 4to;
   Dublin, 1832, 8vo: O'Reilly, 1817, 4to: 1821; ed. O'Donovan, ib. 1864,
-  4to, 725 pages: Foley (Eng.-Irish), ib. 1855, 8vo: Connellan (do.),
+  4to, 725 pages: [[Foley]] (Eng.-Irish), ib. 1855, 8vo: Connellan (do.),
   1863, 8vo.
 
 
- Gaelic.--Macdonald, Edin. 1741, 8vo: Shaw, London, 1780, 4to, 2 vols.:
+ Gaelic.--[[Macdonald]], Edin. 1741, 8vo: Shaw, London, 1780, 4to, 2 vols.:
   Allan, Edin. 1804, 4to: Armstrong, London, 1825, 4to: Highland
-  Society, ib. 1828, 4to, 2 vols.: Macleod and Dewar, Glasgow, 1853,
+  Society, ib. 1828, 4to, 2 vols.: Macleod and [[Dewar]], Glasgow, 1853,
   8vo.
 
 
@@ -1639,24 +1639,24 @@ _Celtic._
 
  Welsh.--LATIN.--Davies, London, 1632, fol.: Boxhornius, Amstelodami,
   1654, 4to. ENGLISH.--Salesbury, London, 1547, 4to: 1551: Richards,
-  Bristol, 1759, 8vo: Owen (W.), London, 1793-1794, 8vo, 2 vols.; 1803,
+  [[Bristol]], 1759, 8vo: Owen (W.), London, 1793-1794, 8vo, 2 vols.; 1803,
   4to, 3 vols.: Walters, ib. 1794, 4to: Owen-Pughe, Denbigh, 1832, 8vo;
   3rd ed. Pryse, ib. 1866, 8vo: D. S. Evans (Eng.-Welsh), ib. 1852-1853,
   8vo; 1887.
 
 
  Cornish.--Pryce, _Archaeologia_, Sherborne, 1770, 4to: Williams,
-  Llandovery, 1862-1865, 4to. NAMES.--Bannister (20,000), Truro,
+  [[Llandovery]], 1862-1865, 4to. NAMES.--Bannister (20,000), Truro,
   1869-1871, 8vo.
 
 
  Breton.--Legadeuc, _Le Catholicon breton_, finished 1464, printed at
   Lantrequier, 1499, fol. 210 pages; 1501, 4to; L'Orient, 1868, 8vo:
   Quicquer de Roskoff, Morlaix, 1633, 8vo: Rostrenen, Rennes, 1732, 4to,
-  978 pages; ed. Jolivet, Guingamps, 1834, 8vo, 2 vols.: l'A.[rmerie],
+  978 pages; ed. Jolivet, [[Guingamp|Guingamps]], 1834, 8vo, 2 vols.: l'A.[rmerie],
   Leyde, 1744, 8vo; La Haye, 1756: Lepelletier, Paris, 1752, fol.:
   Legonidec, Angouleme, 1821, 8vo; St Brieuc, 1847-1850, 4to, 924 pages.
-  DIALECT OF LÉON.--Troude (Fr.-Bret.), Brest, 1870, 8vo; Id.
+  DIALECT OF LÉON.--Troude (Fr.-Bret.), [[Brest]], 1870, 8vo; Id.
   (Bret.-Fr.), ib. 1876, 8vo, 845 pages. DIOCESE OF VANNES.--Armerie,
   Leyde, 1774, 8vo.
 
@@ -1664,7 +1664,7 @@ _Celtic._
 _Basque._
 
  Basque.--Larramendi, St Sebastian, 1745, fol. 2 vols.; ed. Zuazua, ib.
-  1854, fol.; Chaho, Bayonne, 1856, 4to, 1867: Fabre, ib. 1870, 8vo: Van
+  1854, fol.; Chaho, Bayonne, 1856, 4to, 1867: [[Fabre]], ib. 1870, 8vo: Van
   Eys, Paris, 1873, 8vo: Egúren, Madrid, 1877.
 
 
@@ -1705,20 +1705,20 @@ _Slavonic_.
   LATIN.--Holterhof, Moskva, 1778, 8vo, 2 vols.; 3rd ed. 1853-1855, 8vo,
   2 vols.: Weismann, ib. 1731, 4to; 1782, and frequently. FRENCH,
   GERMAN.--Nordstet, ib. 1780-1782, 4to, 2 vols.: Heym, Moskau,
-  1796-1805, 4to, 4 vols.: Booch-Arkossi and Frey, Leipzig, 1871, &c.,
+  1796-1805, 4to, 4 vols.: Booch-Arkossi and [[Frey]], Leipzig, 1871, &c.,
   8vo. ENGLISH.--Nordstet, London, 1780, 4to: Grammatin and Parenogo,
   Moskva, 1808-1817, 4to, 4 vols. FRENCH.--Tatischeff, 2nd ed. St
   Petersb. 1798, 8vo, 2 vols.; Moskau, 1816, 4to, 2 vols.: Reiff, St
   Petersb. 1835-1836, 8vo, 2 vols.: Makaroff, ib. 1872, 8vo, 2 vols,
   1110 pages; 1873-1874, 12mo, 2 vols. GERMAN.--Pawlowski, Riga, 1859,
-  8vo: Lenström, Mitau, 1871, 8vo. SWEDISH.--Geitlin, Helsingfors, 1833,
+  8vo: Lenström, Mitau, 1871, 8vo. SWEDISH.--Geitlin, [[Helsingfors]], 1833,
   12mo: Meurmann, ib. 1846, 8vo. POLISH.--Jakubowicz, Warszawa,
   1825-1828, 8vo, 2 vols.: Amszejewicz, ib. 1866, 8vo: Szlezigier, ib.
   1867, 8vo. TECHNICAL.--Grakov (Germ.), St Petersb. 1872, 8vo.
   NAVAL.--Butakov, ib. 1837. DIALECTS.--_North-west Russia_:
   Gorbachevski (old language, in Russian), Vilna, 1874, 8vo, 418 pages.
   _White Russia_: Nosovich (Russian), St Petersburg, 1870, 4to, 760
-  pages. _Red Russia_: Patritzkii (German), Lemberg, 1867, 8vo, 2 vols.
+  pages. _Red Russia_: Patritzkii (German), [[Lemberg]], 1867, 8vo, 2 vols.
   842 pages. _Ukraine_: Piskanov (Russian), Odessa, 1873, 4to, 156
   pages.
 
@@ -1737,7 +1737,7 @@ _Slavonic_.
   RUSSIAN.--Potocki, Lipsk, 1873, &c., 12mo.
 
 
- Wendish.--Matthäi, Budissen, 1721, 8vo: Bose, Grimma, 1840, 8vo:
+ Wendish.--Matthäi, Budissen, 1721, 8vo: Bose, [[Grimma]], 1840, 8vo:
   Pfuhl, w Budzsinje, 1866, 8vo, 1210 pages. UPPER LUSATIAN.--Pfuhl and
   Jordan, Leipz. 1844, 8vo. LOWER LUSATIAN.--Zwahr, Spremberg, 1847,
   8vo.
@@ -1757,10 +1757,10 @@ _Slavonic_.
   SERVIAN.--Karajic (Germ. Lat.), ib. 1818, 8vo; 1852: Lavrovski
   (Russian), St Petersb. 1870, 8vo, 814 pages. BOSNIAN.--Micalia,
   Laureti, 1649, 8vo. SLOVAK.--Bernolak (Lat. Germ. Hung.), Budae,
-  1825-1827, 8vo, 6 vols.: Loos (Hung. and Germ.), Pest, 1869, &c., 3
+  1825-1827, 8vo, 6 vols.: [[Loo|Loos]] (Hung. and Germ.), Pest, 1869, &c., 3
   vols. SLOVENE.--Gutsmann, Klagenfurt, 1789, 4to: Relkovich, Wien,
   1796, 4to, 2 vols.: Murko, Grätz, 1838, 8vo, 2 vols.: Janezic,
-  Klagenfurt, 1851, 12mo. DALMATIAN.--Ardelio della Bella, Venezia,
+  Klagenfurt, 1851, 12mo. DALMATIAN.--Ardelio [[Della Bella|della Bella]], Venezia,
   1728, 8vo; 2nd ed. Ragusae, 1785, 4to: Stulli, ib. 1801-1810, 4to, 2
   vols. CROATIAN.--Habdelich, Grätz, 1670, 8vo: Sulek, Agram, 1854-1860,
   8vo, 2 vols. 1716 pages. CARINTHIAN.--Lexer, Leipzig, 1862, 8vo. OLD
@@ -1775,7 +1775,7 @@ _Slavonic_.
 _Ugrian._
 
  Ugrian, Comparative.--Donner, Helsingfors, 1874, 8vo, in progress:
-  Budenz (Ugrian-Magyar), Budapest, 1872-1875, 8vo.
+  Budenz (Ugrian-Magyar), [[Budapest]], 1872-1875, 8vo.
 
 
  Lappish.--_Manuale_, Holmiae, 1648, 8vo: Fjellström, ib. 1738, 8vo:
@@ -1838,21 +1838,21 @@ _Ugrian._
   Mallouf, ib. 1863-1867, 8vo, 2 vols. FRENCH AND GERMAN.--Zenker (Arab.
   Pers.), Leipz, 1862-1876, 4to, 2 vols, 982 pages. GERMAN.--Korabinsky,
   Pressburg, 1788, 8vo: Vambéry, Constantinople, 1858, 8vo.
-  ITALIAN.--Molina, Roma, 1641, 8vo: Masais, Firenze, 1677, 8vo:
+  ITALIAN.--Molina, Roma, 1641, 8vo: [[Masai|Masais]], Firenze, 1677, 8vo:
   Ciadyrgy, Milano, 1832-1834, 4to, 2 vols. RUSSIAN.--Budagov
   (Comparative lexicon of the Turkish-Tartar dialects), St Petersburg,
   1869, 8vo, 2 vols.
 
 
- Gipsy.--Bischoff, Ilmenau, 1827, 8vo: Truxillo, Madrid, 1844, 8vo:
-  Jimenes, Sevilla, 1846, 16mo: Baudrimont, Bordeaux, 1862, 8vo:
+ Gipsy.--Bischoff, [[Ilmenau]], 1827, 8vo: Truxillo, Madrid, 1844, 8vo:
+  Jimenes, Sevilla, 1846, 16mo: Baudrimont, [[Bordeaux]], 1862, 8vo:
   Vaillant, Paris, 1868, 8vo: Paspati; Constantinople, 1870, 4to:
   Borrow, _Romany Lavo Lil_, London, 1874, 8vo: Smart and Crofton,
   London, 1875, 8vo.
 
 
  Albanian.--Blanchus, Romae, 1635, 8vo: Kaballioti (Romaic, Wallach.
-  Alb.), Venice, 1770, 8vo: Xylander, Frankfurt a. M. 1835, 8vo: Hahn,
+  Alb.), Venice, 1770, 8vo: Xylander, Frankfurt a. M. 1835, 8vo: [[Hahn]],
   Jena, 1854, 4to: Rossi da Montalto, Roma, 1866, 8vo.
 
 
@@ -1869,12 +1869,12 @@ ASIA
 
  Hebrew.--About 875, Zemah, head of the school of Pumbeditha, wrote a
   Talmudical dictionary of words and things, arranged in alphabetical
-  order, which is lost. About 880, Jehudah ben 'Alan, of Tiberias, and
+  order, which is lost. About 880, Jehudah [[Ben|ben]] 'Alan, of Tiberias, and
   Jehudah ibn Koreish, of Tahurt, in Morocco wrote Hebrew dictionaries.
   Saadia ben Joseph (born 892, died 942), of Fayum, in Upper Egypt,
   wrote [Hebrew: Kefer Igaron], probably a Hebrew-Arabic dictionary.
   Menahem ben Jacob Ibn Sar[=u]q (born 910, died about 970), of Tortosa
-  and Cordova, wrote a copious Hebrew dictionary, first printed by
+  and [[Cordova]], wrote a copious Hebrew dictionary, first printed by
   Herschell F. Filipowski, Edinburgh, 1855, 8vo, from five MSS. David
   ben Abraham, of F[=a]s, wrote, in Arabic, a large Hebrew dictionary,
   the MS. of which, a quarto of 313 leaves on cotton paper, was found
@@ -1886,7 +1886,7 @@ ASIA
   Pumbeditha, wrote a Hebrew dictionary in Arabic, called _al H[=a]vi_
   (The Gathering), arranged alphabetically in the order of the last
   radical letter. This dictionary is lost, as well as that of the
-  Spaniard Isaac ben Saul, of Lucena. Iona ibn Ganah, of Cordova, born
+  Spaniard [[Isaac]] ben Saul, of [[Lucena]]. Iona ibn Ganah, of Cordova, born
   about 985, wrote a Hebrew dictionary in Arabic called _Kit[=a]b al
   Azul_ (Book of Roots). This, as well as a Hebrew translation by Samuel
   ibn Tab[=o]n, is extant in MS., and was used by Gesenius in his
@@ -1894,21 +1894,21 @@ ASIA
   lexicon of roots, called [Hebrew: Shorashim], was printed at Naples
   1490, fol.; Constantinople, 1513, fol.; Naples, 1491, 8vo; Venice,
   1552; Berolini, 1838, 4to. _Tishbi_ (The Tishbite), by Elijah ben
-  Asher, the Levite, so called because it contained 712 roots, was
+  [[Asher]], the Levite, so called because it contained 712 roots, was
   printed at Isny 1541, 8vo and 4to, and often afterwards.
   LATIN.--Münster, Basileae, 1523, 8vo; 5 editions to 1564: Zamora,
   Compluti, 1526, fol.: Pellicanus, Argentorati, 1540, fol.: Reuchlin,
-  Basil, 1556, fol.: Avenarius, Wittebergae, 1568, fol.; auctus, 1589:
-  Pagnini, Lugd. Bat. 1575, fol.; 1577; Genevae, 1614; Buxtorf, Basil.
+  [[Basil]], 1556, fol.: Avenarius, Wittebergae, 1568, fol.; auctus, 1589:
+  Pagnini, Lugd. Bat. 1575, fol.; 1577; Genevae, 1614; [[Buxtorf]], Basil.
   1607, 8vo; 1615, and many other editions: Frey (Lat.-Eng.), 2nd ed.
   London, 1815, 8vo: Gesenius, _Thesaurus_, Leipz. 1829-1858, 4to, 3
   vols. ENGLISH.--Bale, London, 1767, 4to: Parkhurst, ib. 1792, 4to:
-  Lee, ib. 1840, 8vo: Gesenius, translated by Robinson, ib. 1844, 8vo;
-  by Tregelles, ib. 1846, 4to: Fuerst, 4th ed. transl. by Davidson, ib.
+  [[Lee]], ib. 1840, 8vo: Gesenius, translated by Robinson, ib. 1844, 8vo;
+  by Tregelles, ib. 1846, 4to: Fuerst, 4th ed. transl. by [[Davidson]], ib.
   1866, 8vo: 1871, 8vo, 1547 pages. FRENCH.--Leigh, Amst. 1703, 4to:
   Glaire, Paris, 1830, 8vo; 1843. GERMAN.--Gesenius, Leipzig, 1810-1812,
   8vo, 2 vols.: Fuerst, ib. 1842, 16mo: ib. 1876, 8vo, 2 vols.
-  ITALIAN.--Modena, Venetia, 1612, 4to; 1640; Coen, Reggio, 1811, 8vo:
+  ITALIAN.--Modena, Venetia, 1612, 4to; 1640; [[Coen]], Reggio, 1811, 8vo:
   Fontanella, Venezia, 1824, 8vo. DUTCH.--Waterman, Rotterdam, 1859,
   &c., 8vo. HUNGARIAN.--Ehrentheil (Pentateuch), Pest, 1868, 8vo.
   ROMAIC.--Loundes, Melité. 1845, 8vo, 987 pages.
@@ -1917,19 +1917,19 @@ ASIA
  Rabbinical and Chaldee.--Nathan ben Yehiel of Rome wrote in the
   beginning of the 12th century a Talmudic dictionary, _Aruch_, printed
   1480 (?), s. l., fol.; Pesaro, 1517, fol.; Venice, 1531; and often:
-  Isaiah ben Loeb, Berlin, wrote a supplement to _Aruch_, vol. i.
+  [[Isaiah]] ben Loeb, Berlin, wrote a supplement to _Aruch_, vol. i.
   Breslau, 1830, 8vo; vol. ii. ([Hebrew: L] to [Hebrew: T]), Wien, 1859,
   8vo: Münster, Basil. 1527, 4to, 1530, fol.: Elijah ben Asher, the
   Levite, transl. by Fagius, Isnae, 1541, fol.; Venet. 1560: David ben
   Isaac de Pomis, _Zamah David_, Venet. 1587, fol.: Buxtorf,
   Basileae, 1639, fol.: ed. Fischer, Leipz. 1866-1875, 4to: Otho,
   Geneva, 1675, 8vo; Altona, 1757, 8vo: Zanolini, Patavii, 1747, 8vo:
-  Hornheim, Halle, 1807, 8vo: Landau, Prag, 1819-1824, 8vo, 5 vols.:
+  Hornheim, Halle, 1807, 8vo: [[Landau]], Prag, 1819-1824, 8vo, 5 vols.:
   Dessauer, Erlangen, 1838, 8vo: Nork (i.e. Korn), Grimma, 1842, 4to:
-  Schönhak, Warschau, 1858, 8vo, 2 vols. TARGUMS.--Levy, Leipzig,
+  Schönhak, Warschau, 1858, 8vo, 2 vols. TARGUMS.--[[Levy]], Leipzig,
   1866-68 4to, 2 vols.; 1875: Id. (Eng.), London, 1869, 8vo, 2 vols.
   TALMUD.--Löwy (in Heb.), Wien, 1863, 8vo: Levy, Leipzig, 1876, &c.,
-  4to. PRAYER-BOOK.--Hecht, Kreuznach, 1860, 8vo: Nathan, Berlin, 1854,
+  4to. PRAYER-BOOK.--Hecht, [[Kreuznach]], 1860, 8vo: Nathan, Berlin, 1854,
   12mo. SYNONYMS.--Pantavitius, Lodevae, 1640, fol. FOREIGN
   WORDS.--Rabeini, Lemberg, 1857, 8vo, &c. JEWISH-GERMAN.--Callenberg,
   Halle, 1736, 8vo: Vollbeding, Hamburg, 1808, 8vo: Stern, München,
@@ -1951,10 +1951,10 @@ ASIA
   Paris, 1861, 8vo.
 
 
- Accadian.--Lenormant, Paris, 1875, 8vo.
+ Accadian.--[[Lenormant]], Paris, 1875, 8vo.
 
 
- Syriac.--Joshua ben Ali, a physician, who lived about 885, made a
+ Syriac.--[[Joshua]] ben Ali, a physician, who lived about 885, made a
   Syro-Arabic lexicon, of which there is a MS. in the Vatican. Hoffmann
   printed this lexicon from Alif to Mim, from a Gotha MS., Kiel, 1874,
   4to. Joshua bar Bahlul, living 963, wrote another, great part of which
@@ -1964,7 +1964,7 @@ ASIA
   Arabic lexicon, entitled _Kit[=a]b [=u]t Tarjuman fi Taalem Loghat es
   S[=u]ri[=a]n_ (Book called the Interpreter for teaching the Language
   of the Syrians), of which there is a MS. in the British Museum. It was
-  translated into Latin by Thomas à Novaria, a Minorite friar, edited by
+  translated into Latin by Thomas à Novaria, a Minorite [[Friar|friar]], edited by
   Germanus, and published at Rome by Obicinus, 1636, 8vo. It is a
   classified vocabulary, divided in 30 chapters, each containing several
   sections. Crinesius, Wittebergae, 1612, 4to: Buxforf, Basileae, 1622,
@@ -1977,7 +1977,7 @@ ASIA
 
 
  Arabic.--The native lexicons are very many, voluminous and copious. In
-  the preface to his great Arabic-English lexicon, Lane describes 33,
+  the preface to his great Arabic-English lexicon, [[Lane]] describes 33,
   the most remarkable of which are-the _'Ain_, so called from the letter
   which begins its alphabet, commonly ascribed to al Khalil (who died
   before A.H. 175 [A.D. 791], aged seventy-four): the _Sihah_ of Jauhari
@@ -1990,7 +1990,7 @@ ASIA
   816 [1413]),: the _Taj el Arus_, by Murtada Ez Zebadi (born A.D. 1732,
   died 1791)--the copy made for Lane is in 24 vols. thick 4to. The
   _Sihah_ was printed Hardervici Getorum, 1774, 4to; Bulak, 1865, fol. 2
-  vols.: _Kamus_, Calcutta, 1817, fol. 2 vols.; Bombay, 1855, fol. 920
+  vols.: _Kamus_, [[Calcutta]], 1817, fol. 2 vols.; Bombay, 1855, fol. 920
   pages: _Sirr el Lagal_, by Farish esh Shidiac, Tunis, fol. 609 pages:
   _Muh[=i]t al Muh[=i]t_, by Beitrus Al Bustani Beirut, 1867-1870, 2
   vols. 4to, 2358 pages (abridged as _Katr Al Muhit_, ib. 1867-1869, 2
@@ -2005,7 +2005,7 @@ ASIA
   translated by Al Vani, Constantinople, 1728, fol. 2 vols.: 1755-1756;
   Scutari, 1802, fol. 2 vols. LATIN.--Raphelengius, Leiden, 1613, fol.:
   Giggeius, Mediolani, 1632, fol. 4 vols.: Golius Lugd. Bat. 1653, fol.
-  (the best before Lane's): Jahn, Vindobonae, 1802, 8vo: Freytag, Halle,
+  (the best before Lane's): [[Jahn]], Vindobonae, 1802, 8vo: Freytag, Halle,
   1830-1838, 4 vols. 4to; abridged, ib. 1837, 4to. ENGLISH.--Catafago
   (Arab.-Eng. and Eng.-Arab.), London, 1858, 8vo, 2 vols.; 2nd ed. 1873,
   8vo: Lane, London, 1863-1893 (edited after Lane's death, from 1876, by
@@ -2024,10 +2024,10 @@ ASIA
   Fr.-Ar.), Alger, 1835, 16mo: Id., 1836, 8vo; 1839: Berggren (Fr.-vulg.
   Ar., Syria and Egypt.), Upsala, 1844, 4to: Farhat (Germanos), revu par
   Rochaid ed Dahdah, Marseille, 1849, 4to: Biberstein Kasimirski, Paris,
-  1846, 8vo, 2 vols.; 1853-1856; 1860, 2 vols. 3032 pages: Marcel
+  1846, 8vo, 2 vols.; 1853-1856; 1860, 2 vols. 3032 pages: [[Marcel]]
   (vulgar dialects of Africa), Paris, 1830; 1835, 8vo; 1837; enlarged,
   1869, 8vo; Paulmier (Algeria), 2nd ed. Paris, 1860, 8vo, 931 pages;
-  1872: Bernard (Egypt), Lyon, 1864, 18mo: Cuche, Beirut, 1862, 8vo;
+  1872: [[Bernard]] (Egypt), Lyon, 1864, 18mo: Cuche, Beirut, 1862, 8vo;
   1867: Nar Bey (A. Calfa), 2nd ed. Paris, 1872, 12mo, 1042 pages:
   Cherbonneau (written language), Paris, 1876, 2 vols. 8vo: Id.
   (Fr.-Ar.), Paris, 1872, 8vo: Beausier (Algiers, Tunis, legal,
@@ -2042,14 +2042,14 @@ ASIA
   Gholam Kadir, Calcutta, 1853-1862, 4to, 1593 pages. MEDICAL
   TERMS.--Pharaon and Bertherand, Paris, 1860, 12mo. MATERIA
   MEDICA.--Muhammed Abd Allah Shirazi, _Ulfaz Udwiyeh_, translated by
-  Gladwin (Eng. Pers. Hindi), Calcutta, 1793, 4to, 1441 words. NOMS DES
+  Gladwin (Eng. Pers. [[Hindi]]), Calcutta, 1793, 4to, 1441 words. NOMS DES
   VÊTEMENTS.--Dozy, Amst. 1845, 8vo. WÖRTER IN ENTGEGENGESETZTEN
   BEDEUTUNGEN.--Redslob, Göttingen, 1873, 8vo. KORAN.--Willmet (also in
   Haririum et vitam Timuri), Lugd. Bat. 1784, 4to; Amst. 1790: Fluegel,
   _Concordantia_, Leipz. 1842, 4to: Penrice, _Dictionary and Glossary_,
   London, 1873, 4to. EL TABRIZI'S LOGIC.--Mir Abufeth (French), Bulak,
   1842, 8vo. MALTESE.--Vassali, Romae, 1796, 4to: Falzon (Malt. Ital.
-  Eng.), Malta, _s.a._ 8vo: Vella, Livorno, 1843, 8vo.
+  Eng.), [[Malta]], _s.a._ 8vo: Vella, Livorno, 1843, 8vo.
 
 
  Armenian.--Mechitar, Venice, 1749-1769, 4to, 2 vols.: Avedichiam,
@@ -2067,7 +2067,7 @@ ASIA
   1841, 8vo, 2 vols. MODERN WORDS.--Riggs, Smyrna, 1847, 8vo.
 
 
- Georgian.--Paolini (Ital.), Roma, 1629, 4to: Klaproth (Fr.), Paris,
+ Georgian.--Paolini (Ital.), Roma, 1629, 4to: [[Klaproth]] (Fr.), Paris,
   1827, 8vo: Tshubinov (Russian, French), St Petersburg, 1840, 4to;
   1846, 8vo, 2 vols. 1187 pages.
 
@@ -2090,10 +2090,10 @@ ASIA
   Shu'uri_, ib. 1742, fol. 2 vols. 22,530 words, and 22,450 poetical
   quotations: _Burhan Kati_, by Ibn Kalif, translated by Ahmed Asin
   Aintabi, ib. 1799, fol.; Bulak, 1836, fol.: Hayret Effendi, ib. 1826,
-  8vo. ARMENIAN.--Douzean, Constantinople, 1826, fol. BENGALI.--Jay
+  8vo. ARMENIAN.--Douzean, Constantinople, 1826, fol. [[Bengali|BENGALI]].--[[Jay]]
   Gopal, Serampore, 1818, 8vo. LATIN.--Vullers (Zend appendix), Bonnae
   ad Rhen, 1855-1868, 4to, 2 vols. 2544 pages; Supplement of Roots,
-  1867, 142 pages. ENGLISH.--Gladwin, Malda in Bengal, 1780, 4to;
+  1867, 142 pages. ENGLISH.--Gladwin, [[Malda]] in [[Bengal]], 1780, 4to;
   Calcutta, 1797: Kirkpatrick, London, 1785, 4to: Moises, Newcastle,
   1794, 4to: Rousseau, London, 1802, 8vo; 1810: Richardson (Arab, and
   Pers.), ib. 1780-1800, fol. 2 vols.; ed. Wilkins, ib. 1806-1810, 4to,
@@ -2101,13 +2101,13 @@ ASIA
   1831: Tucker (Eng.-Pers.), London, 1850, 4to: Johnson (Pers. and
   Arab.), ib. 1852, 4to: Palmer, ib. 1876, 8vo, 726 pages.
   FRENCH.--Handjeri (Pers. Arab. and Turkish), Moscou, 1841, 4to, 3
-  vols. 2764 pages: Bergé, Leipzig, 1869, 12mo. GERMAN.--Richardson,
+  vols. 2764 pages: [[Berg]]é, Leipzig, 1869, 12mo. GERMAN.--Richardson,
   translated by Wahl as _Orientalische Bibliotheque_, Lemg, 1788-1792,
   8vo, 3 vols. ITALIAN.--Angelus a S. Josepho [i.e. Labrosse] (Ital.
   Lat. Fr.), Amst. 1684, fol.
 
 
- Old Persian.--(Cuneiform), Benfey (German), Leipzig, 1847, 8vo:
+ Old Persian.--([[Cuneiform]]), Benfey (German), Leipzig, 1847, 8vo:
   Spiegel (id.), ib. 1862, 8vo: Kossovich (Latin), Petropoli, 1872, 8vo.
 
 
@@ -2130,8 +2130,8 @@ ASIA
  Sanskrit.--Amarasimha (lived before A.D. 1000), _Amarakosha_ Calcutta,
   1807, 8vo; ib. 1834, 4to; Bombay, 1860, 4to; Lucknow, 1863, 4to;
   Madras, 1870, 8vo, in Grantha characters; Cottayam, 1873, 8vo, in
-  Malaylim characters; Benares, 1867, fol. with _Amaraviveka_, a
-  commentary by Mahesvara: Rajah Radhakanta Deva, _Sabdakalpadruma_,
+  Malaylim characters; [[Benares]], 1867, fol. with _Amaraviveka_, a
+  commentary by Mahesvara: Rajah Radhakanta [[Deva]], _Sabdakalpadruma_,
   Calcutta, 1821-1857, 4to, 8 vols. 8730 pages: 2nd ed. 1874, &c.:
   Bhattachdrya, _Sabdastoma Mahanidhi_, Calcutta, 1869-1870, 8vo, parts
   i.-vii. 528 pages: _Abhidhanaratnamala_, by Halayudha, ed. Aufrecht,
@@ -2139,7 +2139,7 @@ ASIA
   Calcutta, 1873, &c., 4to (parts i.-vii., 1680 pages).
   BENGALI.--_Sabdasindhu_, Calcutta, 1808: _Amarakosa_, translated by
   Ramodoyu Bidjalunker, Calcutta, 1831, 4to: Mathurana Tarkaratna,
-  _Sabdasandarbhasindhu_, Calcutta, 1863, 4to. MARATHI.--Ananta Sastri
+  _Sabdasandarbhasindhu_, Calcutta, 1863, 4to. [[Marathi|MARATHI]].--Ananta Sastri
   Talekar, Poona, 1853, 8vo, 495 pages: Madhava Chandora, Bombay, 1870,
   4to, 695 pages. TELUGU.--_Amarakosha_, Madras, 1861, ed. Kala, with
   _Gurubalala prabodhika_, a commentary, ib. 1861, 4to; with the same,
@@ -2150,7 +2150,7 @@ ASIA
   1064 pages. TIBETAN AND MONGOL.--Schiefner, _Buddhistische Triglotte_,
   St Petersburg, 1859, fol., the _Vyupatti_ or _Mahavyupatti_ from the
   _Tanguir_, vol. 123 of the Sutra. LATIN.--Paulinus a Sancto
-  Bartholomeo, Amarasinha, sectio i. de coelo, Romae, 1798, 4to: Bopp.
+  Bartholomeo, Amarasinha, sectio i. de coelo, Romae, 1798, 4to: [[Bopp]].
   Berlin, 1828-1830, 4to; 2nd ed. 1840-1844; 3rd, 1866, 4to.
   ENGLISH.--_Amarakosha_, trans. by Colebrooke, Serampore, 1808, 4to;
   1845, 8vo: Rousseau, London, 1812, 4to: Wilson, Calcutta, 1819, 4to;
@@ -2158,10 +2158,10 @@ ASIA
   parts: Yates, Calcutta, 1846, 4to: Benfey, London, 1865, 8vo: Ram
   Jasen, Benares, 1871, 8vo, 713 pages: Williams, Oxford, 1872, 4to.
   ENGLISH-SANSKRIT.--Williams, London, 1851, 4to. FRENCH.--Amarakosha,
-  transl. by Loiseleur Deslongchamps, Paris, 1839-1845, 8vo, 2 vols. 796
-  pages: Burnouf and Leupol, Nancy, 1863-1864, 8vo. GERMAN.--Böhtlingk
+  transl. by Loiseleur [[Deslongchamps]], Paris, 1839-1845, 8vo, 2 vols. 796
+  pages: [[Burnouf]] and Leupol, Nancy, 1863-1864, 8vo. GERMAN.--Böhtlingk
   and Roth, St Petersb. 1853, &c., 4to, 7 vols. to 1875.
-  ITALIAN.--Gubernatis, Torino, 1856, &c. 8vo, unfinished, 2 parts.
+  ITALIAN.--[[Gubernatis]], Torino, 1856, &c. 8vo, unfinished, 2 parts.
   RUSSIAN.--Kossovich, St Petersburg, 1859, 8vo. ROOTS.--Wilkins,
   London, 1815, 4to: Rosen, Berolini, 1827, 8vo: Westergaard, Bonnae,
   1840-1841, 8vo: Vishnu Parasurama Sastri Pandita (Sans. and Marathi),
@@ -2178,10 +2178,10 @@ ASIA
 
 
  Bengali.--Manoel, Lisboa, 1743, 8vo: Forster, Calcutta, 1799-1802,
-  4to, 2 vols. 893 pages: Carey, Serampore, 1815-1825, 4to, 2 vols.; ed.
+  4to, 2 vols. 893 pages: [[Carey]], Serampore, 1815-1825, 4to, 2 vols.; ed.
   Marshman, ib. 1827-1828, 8vo, 2 vols.; 3rd ed. ib. 1864-1867, 8vo;
   abridged by Marshman, ib. 1865, 8vo; ib. 1871, 8vo, 2 vols. 936 pages:
-  Morton, Calcutta, 1828, 8vo: Houghton, London, 1833, 4to: Adea,
+  Morton, Calcutta, 1828, 8vo: [[Houghton]], London, 1833, 4to: Adea,
   _Shabdabudhi_, Calcutta, 1854, 604 pages. ENGLISH.--Ram Comul Sen, ib.
   1834, 4to, 2 vols.; London, 1835, 4to: D'Rozario, Calcutta, 1837, 8vo:
   Adea, _Abhidan_, Calcutta, 1854, 761 pages. ENGLISH LAT.--Ramkissen
@@ -2214,7 +2214,7 @@ ASIA
   8vo; ed. Hunter, Edinb. 1810; Lond. 1825: Taylor, Calcutta, 1808, 4to,
   2 vols.: Gladwin (Persian and Hind.), Calcutta, 1809, 8vo, 2 vols.:
   Shakespeare, London, 1817, 4to; 1820; 1834; 1849: Forbes, London,
-  1847, 8vo; 1857: Bertrand (French), Paris, 1858, 8vo: Brice, London,
+  1847, 8vo; 1857: [[Bertrand]] (French), Paris, 1858, 8vo: Brice, London,
   1864, 12mo: Fallon, Banaras, 1876, &c., to be in about 25 parts and
   1200 pages. ENGLISH.--Gilchrist, 1787-1780, 4to, 2 parts: Thompson,
   Serampore, 1838, 8vo.
@@ -2226,7 +2226,7 @@ ASIA
  Khassia.--Roberts, Calcutta, 1875, 12mo.
 
 
- Malayalim.--Fabricius and Breithaupt, Weperg, 1779, 4to: Bailey,
+ Malayalim.--[[Fabricius]] and Breithaupt, Weperg, 1779, 4to: Bailey,
   Cottayam, 1846, 8vo: Gundert, Mangalore, 1871, 8vo, 1171 pages.
 
 
@@ -2238,18 +2238,18 @@ ASIA
   Bombay, 1847, 4to.
 
 
- Oriya.--Mohunpersaud Takoor, Serampore, 1811, 8vo: Sutton, Cuttack,
+ Oriya.--Mohunpersaud Takoor, Serampore, 1811, 8vo: Sutton, [[Cuttack]],
   1841-1848, 8vo, 3 vols. 856 pages.
 
 
  Pali.--Clough, Colombo, 1824, 8vo: Moggallana Thero (a Sinhalese
   priest of the 12th century), _Abhidhanappika_ (Pali, Eng. Sinhalese),
-  ed. Waskeduwe Subheti, Colombo, 1865, 8vo: Childers, London,
+  ed. Waskeduwe Subheti, Colombo, 1865, 8vo: [[Childers]], London,
   1872-1875, 8vo, 658 pages. ROOTS.--Silavansa, _Dhatumanjusa_ (Pali
   Sing. and Eng.), Colombo, 1872, 8vo.
 
 
- Prakrit.--Delius, _Radices_, Bonnae ad Rh., 1839, 8vo.
+ Prakrit.--[[Delius]], _Radices_, Bonnae ad Rh., 1839, 8vo.
 
 
  Punjabi.--Starkey, 1850, 8vo; Lodiana Mission, Lodiana, 1854-1860, 444
@@ -2274,7 +2274,7 @@ ASIA
   written by Beschi in 1732, Madras, 1827, fol.; Pondicherry, 1875, 8vo:
   Blin (French), Paris, 1834, 8vo: Rottler, Madras, 1834-1841, 4to, 4
   vols.: Jaffna Book Society (Tamil), Jaffna, 1842, 8vo, about 58,500
-  words: Knight and Spaulding (Eng. Tam.), ib. 1844, 8vo; _Dictionary_,
+  words: [[Knight]] and Spaulding (Eng. Tam.), ib. 1844, 8vo; _Dictionary_,
   ib. 1852, 4to: Pope, 2nd ed. ib. 1859, 8vo: Winslow, Madras, 1862,
   4to, 992 pages, 67,452 words.
 
@@ -2294,17 +2294,17 @@ ASIA
   Ann.-Fr. Lat.), Paris, 1867, &c., 8vo. _Assamese_: Mrs Cutter, Saipur,
   1840, 12 mo; Bronson, London, 1876, 8vo, 617 pages. _Burmese_: Hough
   (Eng.-Burm.), Serampore, 1825, Moulmain, 1845, 8vo, 2 vols. 955 pages:
-  Judson, Calcutta, 1826, 8vo; (Eng. Burm.), Moulmain, 1849, 4to; (Burm.
+  [[Judson]], Calcutta, 1826, 8vo; (Eng. Burm.), Moulmain, 1849, 4to; (Burm.
   Eng.), ib. 1852, 8vo; 2nd ed., Rangoon, 1866, 8vo, 2 vols. 968 pages:
   Lane, Calcutta, 1841, 4to. _Cambodian_: Aymonier (Fr.-Camb.), Saigon,
-  1874, 4to; Id. (Camb.-Fr.), ib. 1875, fol. _Karen_: Sau-kau Too
+  1874, 4to; Id. (Camb.-Fr.), ib. 1875, fol. _[[Karen]]_: Sau-kau Too
   (Karen), Tavoy, 1847, 12mo, 4 vols.: Mason, Tavoy, 1840, 4to.
   _Sgau-Karen_: Wade, ib. 1849, 8vo. _Siamese (Thai)_: Pallegoix (Lat.
   French, Eng.), Paris, 1854, 4to: _Dictionarium Latinum Thai_, Bangkok,
   1850, 4to, 498 pages.
 
 
- Malay.--LATIN.--Haex, Romae, 1631, 4to; Batavia, 1707.
+ Malay.--LATIN.--Haex, Romae, 1631, 4to; [[Batavia]], 1707.
   DUTCH.--Houtmann (Malay and Malagasy), Amst. 1603, 4to; 1673; 1680;
   1687; 1703; Batavia, 1707: Wiltens and Dankaarts, Gravenhage, 1623,
   4to; Amst. 1650; 1677; Batavia, 1708, 4to: Heurnius, Amst. 1640, 4to:
@@ -2315,7 +2315,7 @@ ASIA
   12mo: Pijnappel, Amst. 1863, 8vo: Badings, Schoonhoven, 1873, 8vo.
   ENGLISH.--Houtmann (Malay and Malagasy), translated by A. Spaulding,
   London, 1614, 4to: Bowrey, ib. 1701, 4to: Howison, ib. 1801, 4to:
-  Marsden, ib. 1812, 4to: Thomsen, Malacca, 1820, 8vo; 1827: Crawford,
+  Marsden, ib. 1812, 4to: Thomsen, [[Malacca]], 1820, 8vo; 1827: Crawford,
   London, 1851, 8vo, 2 vols. FRENCH.--Boze, Paris, 1825, 16mo: Elout
   (Dutch-Malay and French-Malay), Harlem, 1826, 4to: Bougourd, Le Havre,
   1856, 8vo: Richard, Paris, 1873, 8vo, 2 vols.: Favre, Vienna, 1875,
@@ -2323,7 +2323,7 @@ ASIA
 
 
  Malay Archipelago.--_Batak_: Van der Tuuk, Amsterdam, 1861, 8vo, 564
-  pages. _Bugis_: Mathes, Gravenh. 1874, 8vo, 1188 pages: Thomsen
+  pages. _[[Bugis]]_: Mathes, Gravenh. 1874, 8vo, 1188 pages: Thomsen
   (Eng.-Bugis and Malay), Singapore, 1833, 8vo. _Dyak_: Hardeland
   (German), Amst. 1859, 8vo, 646 pages. _Javanese_: Senerpont Domis,
   Samarang, 1827, 4to, 2 vols.: Roorda van Eysinga, Kampen, 1834-1835,
@@ -2337,7 +2337,7 @@ ASIA
 
 
  Philippines.--_Bicol_: Marcos, Sampaloc, 1754, fol. _Bisaya_: Sanchez,
-  Manila, 1711, fol.: Bergaño, ib. 1735, fol.: Noceda, ib. 1841:
+  [[Manila]], 1711, fol.: Bergaño, ib. 1735, fol.: Noceda, ib. 1841:
   Mentrida (also Hiliguena and Haraya) ib. 1637, 4to; 1841, fol. 827
   pages: Felis de la Encarnacion, ib. 1851, 4to, 2 vols. 1217 pages.
   _Ibanac_: Bugarin, ib. 1854, 4to. _Ilocana_, Carro, ib. 1849, fol.
@@ -2352,7 +2352,7 @@ ASIA
   number, arranged under 540 radicals, published 150 B.C., usually in 12
   vols.: _Yu pien_, by Ku Ye Wang, published A.D. 530, arranged under
   542 radicals, is the basis of the Chinese Japanese Dictionaries used
-  in Japan: _Ping tseu loui pien_, Peking, 1726, 8vo, 130 vols.: _Pei
+  in [[Japan]]: _Ping tseu loui pien_, Peking, 1726, 8vo, 130 vols.: _Pei
   wan yün fu_ (Thesaurus of Literary Phrases), 1711, 131 vols. 8vo,
   prepared by 66 doctors of the Han lin Academy in seven years. It
   contains 10,362 characters, and countless combinations of two, three
@@ -2366,32 +2366,32 @@ ASIA
   characters, arranged under the 214 radicals. It is generally in 12
   vols., and is universally used in China, being the standard authority
   among native scholars for the readings as well as the meanings of
-  characters. LATIN.--De Guignes (French, Lat.), Paris, 1813, fol.;
+  characters. LATIN.--De [[Guignes]] (French, Lat.), Paris, 1813, fol.;
   Klaproth, Supplément, 1819; ed. Bazil (Latin), Hong-Kong, 1853, 4to:
-  Gonçalves (Lat.-Chin.), Macao, 1841, fol.: Callery, _Systema
+  Gonçalves (Lat.-Chin.), [[Macao]], 1841, fol.: Callery, _Systema
   phoneticum_, Macao, 1841, 8vo: Schott, _Vocabularium_, Berlin, 1844,
   4to. ENGLISH.--Raper, London, 1807, fol. 4 vols.: Morrison, Macao,
   1815-1823, 4to, 3 parts in 6 vols.: Medhurst, Batavia, 1842-1843, 8vo,
   2 vols.: Thom, Canton, 1843, 8vo: Lobscheid, Hong-Kong, 1871, 4to:
   Williams, Shanghai, 1874, 4to. ENG. CHINESE.--Morrison, part iii.:
   Williams, Macao, 1844, 8vo: Medhurst, Shanghai, 1847-1848, 8vo, 2
-  vols.: Hung Maou, _Tung yung fan hwa_ (Common words of the Red-haired
+  vols.: Hung Maou, _Tung yung [[Fan|fan]] hwa_ (Common words of the Red-haired
   Foreigners), 1850, 8vo. Doolittle, Foochow, 1872, 4to, vol. i. 550
   pages. FRENCH,--Callery, _Dict. encyclopédique_, Macao and Paris, 1845
   (radicals 1-20 only): M. A. H., 1876, 8vo, autographié, 1730 pages.
   FRENCH-CHIN.--Perny (Fr.-Latin, Spoken Mandarin), Paris, 1869, 4to;
   Appendice, 1770; Lemaire and Giguel, Shanghai, 1874, 16mo.
   PORTUGUESE.--Gonçalves (Port.-Chin.), Macao, 1830, 8vo, 2 vols.: Id.
-  (Chin.-Port.), ib. 1833, 8vo. IDIOMS.--Giles, Shanghai, 1873, 4to.
+  (Chin.-Port.), ib. 1833, 8vo. IDIOMS.--[[Giles]], Shanghai, 1873, 4to.
   PHRASES.--Yaou Pei-keen, _Luy yih_, 1742-1765, 8vo, 55 vols.: Tseen
   Ta-hin, _Shing luy_, 1853, 8vo, 4 vols. CLASSICAL EXPRESSIONS.--Keang
   Yang and 30 others, _Sze Shoo teen Lin_, 1795, 8vo, 30 vols. ELEGANT
-  EXPRESSIONS.--Chang ting yuh, _Fun luy tsze kin_, 1722, 8vo, 64 vols.
+  EXPRESSIONS.--Chang ting yuh, _Fun luy tsze [[Kin|kin]]_, 1722, 8vo, 64 vols.
   PHRASES OF THREE WORDS.--Julien (Latin), Paris, 1864, 8vo.
   POETICAL.--_Pei wan she yun_, 1800, 8vo, 5 vols. PROPER NAMES.--F.
-  Porter Smith (China, Japan, Corea, Annam, &c., Chinese-Eng.),
+  Porter Smith (China, Japan, Corea, [[Annam]], &c., Chinese-Eng.),
   Shanghai, 1870, 8vo. TOPOGRAPHY.--Williams, Canton, 1841, 8vo. NAMES
-  OF TOWNS.--Biot, Paris, 1842, 8vo. ANCIENT CHARACTERS.--Foo
+  OF TOWNS.--[[Biot]], Paris, 1842, 8vo. ANCIENT CHARACTERS.--Foo
   Lwantseang, _Luh shoo fun luy_, 1800, 8vo, 12 vols. SEAL
   CHARACTER.--Heu Shin, _Shwo wan_, ed. Seu Heuen, 1527, 8vo, 12 vols.
   RUNNING HAND.--St Aulaire and Groeneveld (Square Characters, Running
@@ -2402,11 +2402,11 @@ ASIA
   ke-shih, _Keang hoo chih tuh fun yun tso yaou ho tseih_, Canton, 1772,
   8vo, 4 vols.; 1803, 8vo, 4 vols.; Fuh-shan, 1833, 8vo, 4 vols.:
   Morrison, Macao, 1828, 8vo: Wan ke shih, Canton, 1856, 8vo: Williams
-  (tonic, Eng.-Chinese), Canton, 1856, 8vo: Chalmers, Hong-Kong, 1859,
+  (tonic, Eng.-Chinese), Canton, 1856, 8vo: [[Chalmers]], Hong-Kong, 1859,
   12mo; 3rd ed. 1873, 8vo. _Changchow in Fuhkeen_: Seay Sew-lin, _Ya suh
   tung shih woo yin_, 1818, 8vo, 8 vols.; 1820. _Foo-chow_: Tseih (a
   Japanese general) and Lin Peih shan, _Pa yin ho ting_, ed. Tsin Gan,
-  1841, 8vo: Maclay and Baldwin, Foochow, 1870, 8vo, 1123 pages.
+  1841, 8vo: Maclay and [[Baldwin]], Foochow, 1870, 8vo, 1123 pages.
   _Hok-keen_: Medhurst, Macao, 1832, 4to: _Peking_, Stent, Shanghai,
   1871, 8vo.
 
@@ -2416,7 +2416,7 @@ ASIA
   Petersburg, 1874, 12mo, 746 pages.
 
 
- Japanese.--_Sio Ken Zi Ko_ (Examination of Words and Characters),
+ Japanese.--_Sio [[Ken]] Zi Ko_ (Examination of Words and Characters),
   1608, 8vo, 10 vols.: _Wa Kan Won Se Ki Sio Gen Zi Ko_, lithographed by
   Siebold, Lugd. Bat., 1835, fol. JAP.-CHINESE.--_Faga biki set yo siu_.
   CHINESE-JAP.--_Kanghi Tse Tein_, 30 vols. 12mo: _Zi rin gioku ben_.
@@ -2470,7 +2470,7 @@ ASIA
   4to. _Tibetan_: _Minggi djamtoo_ (Tibet-Mongol): _Bodschi dajig togpar
   lama_: _Kad shi schand scharwi melonggi jige_
   (Manchu-Mongol-Tibetan-Chinese), Kanghi's Dictionary with the Tibetan
-  added in the reign of Khian lung (1736-1795); Csoma de Körös (Eng.),
+  added in the reign of Khian [[Lung|lung]] (1736-1795); Csoma de Körös (Eng.),
   Calcutta, 1834, 4to: I. J. Schmidt (German), St Petersburg, 1841, 4to:
   Id. (Russian), ib. 1843, 4to: Jaeschke (Eng.), London, 1870, 8vo, 160
   pages: Id. (Germ.), Gnadau, 1871, 658 pages: (Bhotanta), Schroeter,
@@ -2482,7 +2482,7 @@ ASIA
 AFRICA
 
  Egyptian.--Young (enchorial), London, 1830-1831, 8vo: Sharpe, London,
-  1837, 4to: Birch, London. 1838, 4to: Champollion (died March 4, 1832),
+  1837, 4to: [[Birch]], London. 1838, 4to: [[Champollion]] (died March 4, 1832),
   _Dictionnaire égyptien_, Paris, 1841, 4to: Brugsch,
   _Hieroglyphisch-Demotisches Wörterbuch_, Leipzig, 1867-1868, 4to, 4
   vols. 1775 pages, nearly 4700 words, arranged according to the
@@ -2505,7 +2505,7 @@ AFRICA
   1863-1865, 4to, 828 pages.
 
 
- Amharic.--Ludolphus, Franc. ad Maenum, 1698, fol.: Isenberg, London,
+ Amharic.--Ludolphus, [[Franc]]. ad Maenum, 1698, fol.: Isenberg, London,
   1841, 4to, 442 pages. _Tigré_: Munzinger, Leipzig, 1865, 8vo:
   Beurmann, ib. 1868, 8vo.
 
@@ -2520,28 +2520,28 @@ AFRICA
 
  Malagasy.--Houtmann (Malaysche en Madagask Talen), Amst. 1603, 2nd ed.
   Matthysz, ib. 1680, 8vo: Huet de Froberville, Isle de France, fol. 2
-  vols.: Flacourt, Paris, 1658, 8vo: Challand (Southern), Isle de
+  vols.: [[Flacourt]], Paris, 1658, 8vo: Challand (Southern), Isle de
   France, 1773, 4to: Freeman and Johns, London, 1835, 8vo, 2 vols.:
   Dalmont (Malgache, Salalave, et Betsimara), 1842, 8vo: Kessler,
   London, 1870, 8vo.
 
 
  Southern Africa.--Bleek, _The Languages of Mozambique_, London, 1856,
-  8vo. _Kaffre_: Bennie, Lovedale, 1826, 16mo: Ayliffe, Graham's Town,
+  8vo. _Kaffre_: Bennie, Lovedale, 1826, 16mo: Ayliffe, [[Graham'S Town|Graham's Town]],
   1846, 12mo: Appleyard, 1850, 8vo: Bleek, Bonn, 1853, 4to, 646 pages.
   _Zulu-Kaffre_: Perrin (Kaffre-Eng.), London, 1855, 24mo, 172 pages:
   Id. (Eng.-Kaffre), Pietermaritzburg, 1855, 24mo, 227 pages: Id.
-  (Eng.-Zulu), ib. 1865, 12mo, 226 pages: Dohne, Cape Town, 1857, 8vo,
-  428 pages: Colenso, Pietermaritzburg, 1861, 8vo, 560 pages, about 8000
+  (Eng.-Zulu), ib. 1865, 12mo, 226 pages: Dohne, [[Cape Town]], 1857, 8vo,
+  428 pages: [[Colenso]], Pietermaritzburg, 1861, 8vo, 560 pages, about 8000
   words. _Hottentot_: Bleek, Cape Town, 1857, 4to, 261 pages. _Namaqua_:
-  Tindall, ib. 1852, 8vo: _Vocabulary_, Barmen, 1854, 8vo: Hahn,
-  Leipzig, 1870, 12mo. Sechuana: Casalis, Paris, 1841, 8vo. _Herero_:
+  Tindall, ib. 1852, 8vo: _Vocabulary_, [[Barmen]], 1854, 8vo: Hahn,
+  Leipzig, 1870, 12mo. Sechuana: Casalis, Paris, 1841, 8vo. _[[Herero]]_:
   Hahn, Berlin, 1857, 8vo, 207 pages, 4300 words.
 
 
  Western Africa.--_Akra_ or _Ga_: Zimmermann, Stuttgart, 1858, 8vo, 690
-  pages. _Ashantee_: Christaller (also Akra), Basel, 1874, 8vo, 299
-  pages. _Bullom_: Nylander, London, 1814, 12mo. _Bunda or Angola_:
+  pages. _Ashantee_: Christaller (also Akra), [[Basel]], 1874, 8vo, 299
+  pages. _Bullom_: Nylander, London, 1814, 12mo. _Bunda or [[Angola]]_:
   Cannecatim, Lisboa, 1804, 4to, 722 pages. _Dualla Grammatical
   Elements_, &c., Cameroons, 1855, 8vo. _Efik_ or _Old Calabar_:
   Waddell, Old Calabar, 1846, 16mo, 126 pages; Edinb, 1849, 8vo, 95
@@ -2553,15 +2553,15 @@ AFRICA
   1839, 42 pages. _Susu_: Brunton, Edinburgh, 1802, 8vo, 145 pages.
   _Vei_: Koelle, London, 1854, 8vo, 266 pages. _Wolof and Bambarra_:
   Dard, Paris, 1825, 8vo. _Wolof_: Roger, ib. 1829, 8vo: Missionnaires
-  de S. Esprit, Dakar, 1855, &c. 16mo. Faidherbe (French-Wolof, Poula
-  and Soninke), St Louis, Senegambia, 1860, 12mo. _Yoruba_: Crowther,
+  de S. Esprit, Dakar, 1855, &c. 16mo. [[Faidherbe]] (French-Wolof, Poula
+  and Soninke), St Louis, Senegambia, 1860, 12mo. _Yoruba_: [[Crowther]],
   London, 1843, 8vo; 1852, 298 pages: Vidal, ib. 1852, 8vo: Bowen,
   Washington, 1858, 4to.
 
 
- Central Africa.--Barth, _Vocabularies_. Gotha, 1862-1866, 4to. _Bari_:
-  Mitterreutzner, Brixen, 1867, 8vo: Reinisch, Vienna, 1874, 8vo.
-  _Dinka_: Mitterreutzner, Brixen, 1866, 8vo. _Haussa_: Schön (Eng.),
+ Central Africa.--[[Barth]], _Vocabularies_. Gotha, 1862-1866, 4to. _[[Bari]]_:
+  Mitterreutzner, [[Brixen]], 1867, 8vo: Reinisch, Vienna, 1874, 8vo.
+  _[[Dinka]]_: Mitterreutzner, Brixen, 1866, 8vo. _Haussa_: Schön (Eng.),
   London, 1843, 8vo.
 
 
@@ -2584,25 +2584,25 @@ AUSTRALIA AND POLYNESIA
   _Tasmania_: Millegan, Tasmania, 1857.
 
 
- Polynesia.--Hale, _Grammars and Vocabularies of all the Polynesian
-  Languages_, Philadelphia, 1846, 4to. _Marquesas, Sandwich Gambier_:
+ Polynesia.--[[Hale]], _Grammars and Vocabularies of all the Polynesian
+  Languages_, Philadelphia, 1846, 4to. _Marquesas, Sandwich [[Gambier]]_:
   Mosblech, Paris, 1843, 8vo. _Hawaiian_: Andrews, _Vocabulary_,
   Lahainaluna, 1636, 8vo: Id., _Dictionary_, Honolulu, 1865, 8vo, 575
-  pages, about 15,500 words. _Marquesas_: Pierquin, de Gembloux,
-  Bourges, 1843, 8vo: Buschmann, Berlin, 1843, 8vo. _Samoan_:
+  pages, about 15,500 words. _Marquesas_: Pierquin, de [[Gembloux]],
+  [[Bourges]], 1843, 8vo: Buschmann, Berlin, 1843, 8vo. _Samoan_:
   _Dictionary_, Samoa, 1862, 8vo. _Tahitian_: _A Tahitian and English
   Dictionary_, Tahiti, 1851, 8vo, 314 pages. _Tonga_: Rabone, Vavau,
   1845, 8vo. _Fijian_: Hazlewood (Fiji-Eng.), Vewa. 1850, 12mo: Id.
-  (Eng.-Fiji), ib. 1852, 12mo: Id., London, 1872, 8vo. _Maori_: Kendall,
+  (Eng.-[[Fiji]]), ib. 1852, 12mo: Id., London, 1872, 8vo. _[[Maori]]_: Kendall,
   1820, 12mo: Williams, Paihia, 1844, 8vo; 3rd ed. London, 1871, 8vo:
-  Taylor, Auckland, 1870, 12mo.
+  Taylor, [[Auckland]], 1870, 12mo.
 
 
 AMERICA
 
  North America.--_Eskimo_: Washington, London, 1850, 8vo: Petitot
-  (Mackenzie and Anderson Rivers), Paris, 1876, 4to. _Kinai_: Radloff,
-  St Petersburg, 1874, 4to. _Greenland_: Egede (Gr. Dan. Lat., 3 parts),
+  ([[Mackenzie]] and Anderson Rivers), Paris, 1876, 4to. _Kinai_: Radloff,
+  St Petersburg, 1874, 4to. _Greenland_: [[Egede]] (Gr. Dan. Lat., 3 parts),
   Hafn, 1750, 8vo; 1760, Fabricius, Kjöbenhavn, 1804, 4to. _Hudson's Bay
   Indians_: Bowrey, London, 1701, fol. _Abnaki_: Rasles, Cambridge,
   U.S., 1833, 4to. _Chippewa_: Baraga, Cincinnati, 1853, 12mo, 622
@@ -2611,42 +2611,42 @@ AMERICA
   (French-Onon.), from a MS. (of 17th century), London, 1860, 4to, 109
   pages. _Dacota_: Riggs, New York, 1851, 4to, 424 pages: Williamson
   (Eng. Dac.), Santos Agency, Nebraska, 12mo, 139 pages. _Mohawk_:
-  Bruyas, New York, 1863, 8vo. _Hidatsa (Minnetarees, Gros Ventres of
-  the Missouri)_: Matthews, ib. 1874, 8vo. _Choctaw_: Byington, ib.
-  1852, 16mo. _Clallam and Lummi_: Gibbs, ib. 1863, 8vo. _Yakama_:
+  Bruyas, New York, 1863, 8vo. _Hidatsa (Minnetarees, [[Gros]] Ventres of
+  the Missouri)_: [[Matthew|Matthews]], ib. 1874, 8vo. _Choctaw_: Byington, ib.
+  1852, 16mo. _Clallam and Lummi_: [[Gibbs]], ib. 1863, 8vo. _Yakama_:
   Pandosy, translated by Gibbs and Shea, ib. 1862, 8vo. _Chinook_:
-  Gibbs, New York, 1863, 4to. _Chinook Jargon, the trade language of
+  Gibbs, New York, 1863, 4to. _Chinook [[Jargon]], the trade language of
   Oregon_: Id., ib. 1863, 8vo. _Tatche_ or _Telamé_: Sitjar, ib. 1841,
   8vo.
 
 
- Mexico and Central America.--_Tepehuan_: Rinaldini, Mexico, 1743, 4to.
+ Mexico and [[Central America]].--_Tepehuan_: Rinaldini, Mexico, 1743, 4to.
   _Cora_: Ortega, Mexico, 1732, 4to. _Tarahumara_: Steffel, Brünn, 1791,
   8vo. _Otomi_: Carochi, Mexico, 1645, 4to: Neve y Molina, ib. 1767,
   8vo: Yepes, ib. 1826, 4to: Piccolomini, Roma, 1841, 8vo. _Mexican_ or
-  _Aztec_: Molina, Mexico, 1555, 4to; 1571, fol. 2 vols.: Arenas, ib.
+  _Aztec_: Molina, Mexico, 1555, 4to; 1571, fol. 2 vols.: [[Arena|Arenas]], ib.
   1583; 1611, 8vo; 1683; 1725; 1793, 12mo: Biondelli, Milan, 1869, fol.
   _Mexican, Tontonacan, and Huastecan_: Olmos, Mexico, 1555-1560, 4to, 2
   vols. _Huastecan_: Tapia Zenteno, ib. 1767, 4to, 128 pages. _Opata_ or
-  _Tequima_: Lombardo, ib. 1702, 4to. _Tarasca_: Gilberti, ib. 1559,
-  4to: Lagunas, ib. 1574, 8vo. _Mixtecan_: Alvarado, Mexico, 1593, 4to.
+  _Tequima_: [[Lombardo]], ib. 1702, 4to. _Tarasca_: Gilberti, ib. 1559,
+  4to: [[Laguna|Lagunas]], ib. 1574, 8vo. _Mixtecan_: Alvarado, Mexico, 1593, 4to.
   _Zapoteca_: Cordova, ib. 1578, 4to. _Maya_: Beltran de Santa Rosa
   Maria, ib. 1746, 4to; Merida de Yucatan, 1859, 4to, 250 pages:
   Brasseur de Bourbourg, Paris, 1874, 8vo, 745 pages. _Quiché_: Id.
-  (also Cakchiquel and Trutuhil dialects), ib. 1862, 8vo.
+  (also [[Cakchiquel]] and Trutuhil dialects), ib. 1862, 8vo.
 
 
  South America.--_Chibcha_: Uricoechea, Paris, 1871, 8vo. _Chayma_:
-  Tauste, Madrid, 1680, 4to: Yanguas, Burgos, 1683, 4to. _Carib_:
+  Tauste, Madrid, 1680, 4to: Yanguas, [[Burgos]], 1683, 4to. _Carib_:
   Raymond, Auxerre, 1665-1666, 8vo. _Galibi_: D.[e]. L.[a] S.[auvage],
   Paris, 1763, 8vo. _Tupi_: Costa Rubim, Rio de Janeiro, 1853, 8vo:
-  Silva Guimaräes, Bahia, 1854, 8vo: Diaz, Lipsia, 1858, 16mo.
+  Silva Guimaräes, Bahia, 1854, 8vo: [[Diaz]], Lipsia, 1858, 16mo.
   _Guarani_: Ruiz de Montoyo, Madrid, 1639, 4to; 1640; 1722, 4to; ed.
   Platzmann, Leipzig, 1876, &c., 8vo, to be in 4 vols. 1850 pages.
   _Moxa_: Marban, Lima, 1701, 8vo. _Lule_: Machoni de Corderia, Madrid,
   1732, 12mo. _Quichua_: Santo Thomas, Ciudad de los Reyes, 1586, 8vo:
   Torres Rubio, Sevilla, 1603, 8vo; Lima, 1609, 8vo; ed. Figueredo,
-  Lima, 1754, 8vo; Holguin, Ciudad de los Reyes, 1608, 8vo: Tschudi,
+  Lima, 1754, 8vo; [[Holguin]], Ciudad de los Reyes, 1608, 8vo: Tschudi,
   Wien, 1853, 8vo, 2 vols.: Markham, London, 1864, 8vo: Lopez, _Les
   Races Aryennes de Perou_, Paris, 1871, 8vo, comparative vocabulary,
   pp. 345-421. _Aymara_: Bertonio, Chicuyto, 1612, 4to, 2 vols.
@@ -2655,8 +2655,8 @@ AMERICA
   vols. _Tsonecan_ (Patagonian): Schmid, Bristol, 1860, 12mo.
 
 The above article incorporates the salient features of the 9th-edition
-article by the Rev. Ponsonby A. Lyons, and the 10th-edition article by
-Benjamin E. Smith.
+article by the Rev. Ponsonby A. [[Lyons]], and the 10th-edition article by
+[[Benjamin]] E. Smith.
 
 
 FOOTNOTES:

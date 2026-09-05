@@ -10,9 +10,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Mary_I."
 MARY I., queen of England (1516-1558), unpleasantly remembered as "the
 Bloody Mary" on account of the religious persecutions which prevailed
 during her reign, was the daughter of Henry VIII. and Catherine of
-Aragon, born in the earlier years of their married life, when as yet no
+[[Aragon]], born in the earlier years of their married life, when as yet no
 cloud had darkened the prospect of Henry's reign. Her birth occurred at
-Greenwich, on Monday, the 18th February 1516, and she was baptized on
+[[Greenwich]], on Monday, the 18th February 1516, and she was baptized on
 the following Wednesday, Cardinal Wolsey standing as her godfather. She
 seems to have been a singularly precocious child, and is reported in
 July 1520, when scarcely four and a half years old, as entertaining some
@@ -23,7 +23,7 @@ the same language "with as much assurance and facility as if she had
 been twelve years old" (Gayangos, iii. pt. 1, 82). Her father was proud
 of her achievements. About the same time that she replied to the
 commissioners in Latin he was arranging that she should learn Spanish,
-Italian and French. A great part, however, of the credit of her early
+Italian and French. A great part, however, of the [[Credit|credit]] of her early
 education was undoubtedly due to her mother, who not only consulted the
 Spanish scholar Vives upon the subject, but was herself Mary's first
 teacher in Latin. She was also well instructed in music, and among her
@@ -35,11 +35,11 @@ those days that her prospects in life were made a matter of sordid
 bargaining from the first. Mary was little more than two years old when
 she was proposed in marriage to the dauphin, son of Francis I. Three
 years afterwards the French alliance was broken off, and in 1522 she was
-affianced to her cousin the young emperor Charles V. by the Treaty of
+affianced to her [[Cousin|cousin]] the young emperor Charles V. by the Treaty of
 Windsor. No one, perhaps, seriously expected either of these
 arrangements to endure; and, though we read in grave state papers of
 some curious compliments and love tokens (really the mere counters of
-diplomacy) professedly sent by the girl of nine to her powerful cousin,
+[[Diplomacy|diplomacy]]) professedly sent by the girl of nine to her powerful cousin,
 not many years passed away before Charles released himself from this
 engagement and made a more convenient match. In 1526 a rearrangement was
 made of the royal household, and it was thought right to give Mary an
@@ -56,7 +56,7 @@ free in the end to marry the emperor's sister.
 
 It was during this negotiation, as Henry afterwards pretended, that the
 question was first raised whether Henry's own marriage with Catherine
-was a lawful one. Grammont, bishop of Tarbes, who was one of the
+was a lawful one. [[Grammont]], bishop of Tarbes, who was one of the
 ambassadors sent over by Francis to ask the princess in marriage, had,
 it was said, started an objection that she might possibly be considered
 illegitimate on account of her mother having been once the wife of her
@@ -87,13 +87,13 @@ to Hatfield to act as lady-in-waiting to her own infant half-sister. Nor
 was even this the worst of her trials; her very life was in danger from
 the hatred of Anne Boleyn. Her health, moreover, was indifferent, and
 even when she was seriously ill, although Henry sent his own physician,
-Dr Buttes, to attend her, he declined to let her mother visit her. So
+Dr [[Butt|Buttes]], to attend her, he declined to let her mother visit her. So
 also at her mother's death, in January 1536, she was forbidden to take a
 last farewell of her. But in May following another change occurred. Anne
 Boleyn, the real cause of all her miseries, fell under the king's
 displeasure and was put to death. Mary was then urged to make a humble
 submission to her father as the means of recovering his favour, and
-after a good deal of correspondence with the king's secretary, Cromwell,
+after a good deal of correspondence with the king's secretary, [[Cromwell]],
 she actually did so. The terms exacted of her were bitter in the
 extreme, but there was no chance of making life tolerable otherwise, if
 indeed she was permitted to live at all; and the poor friendless girl,
@@ -115,7 +115,7 @@ number of new marriage projects taken up and abandoned successively, one
 of which, to the count palatine Philip, duke of Bavaria, was specially
 repugnant to her in the matter of religion. Her privy purse expenses for
 nearly the whole of this period have been published, and show that
-Hatfield, Beaulieu or Newhall in Essex, Richmond and Hunsdon were among
+Hatfield, Beaulieu or Newhall in Essex, Richmond and [[Hunsdon]] were among
 her principal places of residence. Although she was still treated as of
 illegitimate birth, it was believed that the king, having obtained from
 parliament the extraordinary power to dispose of the crown by will,
@@ -145,7 +145,7 @@ threatening war with England if her religious liberty was interfered
 with. But Edward's court was composed of factions of which the most
 violent eventually carried the day. Lord Seymour, the admiral, was
 attainted of treason and beheaded in 1549. His brother, the Protector
-Somerset, met with the same fate in 1552. Dudley, duke of
+Somerset, met with the same [[Fate|fate]] in 1552. [[Dudley]], duke of
 Northumberland, then became paramount in the privy council, and easily
 obtained the sanction of the young king to those schemes for altering
 the succession which led immediately after his death to the usurpation
@@ -186,7 +186,7 @@ objections peculiar to itself; but the marriage was the most unpopular
 of all. A restoration of the old religion threatened to deprive the new
 owners of abbey lands of their easy and comfortable acquisitions; and it
 was only with an express reservation of their interests that the thing
-was actually accomplished. A declaration of her own legitimacy
+was actually accomplished. A declaration of her own [[Legitimacy|legitimacy]]
 necessarily cast a slur on that of her sister Elizabeth, and cut her off
 from the succession. But the marriage promised to throw England into the
 arms of Spain and place the resources of the kingdom at the command of
@@ -195,7 +195,7 @@ would not marry a foreigner, and when her resolution was known
 insurrections broke out in different parts of the country. Suffolk,
 whose first rebellion had been pardoned, proclaimed Lady Jane Grey again
 in Leicestershire, while young Wyatt raised the county of Kent and,
-though denied access by London Bridge, led his men round by Kingston to
+though denied access by London Bridge, led his men round by [[Kingston]] to
 the very gates of London before he was repulsed. In the midst of the
 danger Mary showed great intrepidity, and the rebellion was presently
 quelled; after which, unhappily, she got leave to pursue her own course
@@ -229,7 +229,7 @@ war with France that occasioned the final calamity of the loss of
 Calais, which sank so deeply into Mary's heart some time before she
 died.
 
-The cruel persecution of the Protestants, which has cast so much infamy
+The cruel persecution of the Protestants, which has cast so much [[Infamy|infamy]]
 upon her reign, was not due, as commonly supposed, to inhumanity on her
 part. When the kingdom was reconciled to Rome and absolved by Cardinal
 Pole, it followed, almost as a matter of necessity, that the old heresy
@@ -244,7 +244,7 @@ would only have encouraged the irreverence which it was intended to
 check. No doubt there were milder men among the heretics, but as a class
 their stern fanaticism and ill-will to the old religion made them
 dangerous, even to the public peace. Rogers, the first of the martyrs,
-was burnt on the 4th of February 1555. Hooper, bishop of Gloucester, had
+was burnt on the 4th of February 1555. [[Hooper]], bishop of Gloucester, had
 been condemned six days before, and suffered the same fate upon the 9th.
 From this time the persecution went on uninterrupted for three years and
 three quarters, numbering among its victims Ridley, Latimer and Cranmer.
@@ -262,7 +262,7 @@ thanksgiving services were ordered throughout the diocese of London in
 November 1554. The same delusion recurred in March 1558, when though she
 did not make her expectation public, she drew up a will in anticipation
 of the dangers of childbirth, constituting her husband regent during the
-minority of her prospective heir. To this she added a codicil on the
+minority of her prospective heir. To this she added a [[Codicil|codicil]] on the
 28th of October following, when the illness that was to be her last had
 set in, showing that she had ceased to have much expectation of
 maternity, and earnestly entreating her "next heir and successor by the

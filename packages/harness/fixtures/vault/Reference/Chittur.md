@@ -1,8 +1,8 @@
 # Chittur
 
-CHITTUR, a town of British India, in the North Arcot district of Madras,
+CHITTUR, a town of British India, in the North [[Arcot]] district of Madras,
 with a station on the South Indian railway. Pop. (1901) 10,893. Formerly
-a military cantonment, it is now only the civil headquarters of the
+a military [[Cantonment|cantonment]], it is now only the civil headquarters of the
 district. It has an English church, mission chapel, and Roman Catholic
 chapel, a high school, and several literary institutes.
 

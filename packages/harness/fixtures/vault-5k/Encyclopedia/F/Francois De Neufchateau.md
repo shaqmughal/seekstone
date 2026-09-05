@@ -8,7 +8,7 @@ type: source
 # Francois De Neufchateau
 
 FRANCOIS DE NEUFCHATEAU, NICOLAS LOUIS, COUNT (1750-1828), French
-statesman and poet, was born at Saffais near Rozieres in Lorraine on the
+statesman and poet, was born at Saffais near Rozieres in [[Lorraine]] on the
 17th of April 1750, the son of a school-teacher. He studied at the
 Jesuit college of Neufchateau in the Vosges, and at the age of fourteen
 published a volume of poetry which obtained the approbation of Rousseau
@@ -22,7 +22,7 @@ Revolution he was elected deputy _suppleant_ to the National Assembly,
 was charged with the organization of the Department of the Vosges, and
 was elected later to the Legislative Assembly, of which he first became
 secretary and then president. In 1793 he was imprisoned on account of
-the political sentiments, in reality very innocent, of his drama _Pamela
+the political sentiments, in reality very innocent, of his [[Drama|drama]] _Pamela
 ou la vertu recompensee_ (Theatre de la Nation, 1st August 1793), but
 was set free a few days afterwards at the revolution of the 9th
 Thermidor. In 1797 he became minister of the interior, in which office

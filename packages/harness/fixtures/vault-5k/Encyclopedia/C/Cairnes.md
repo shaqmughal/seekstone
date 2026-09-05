@@ -1,8 +1,8 @@
 # Cairnes
 
-CAIRNES, JOHN ELLIOTT (1823-1875), British political economist, was born at
+CAIRNES, JOHN [[Elliott|ELLIOTT]] (1823-1875), British political economist, was born at
 Castle Bellingham, Ireland, in 1823. After leaving school he spent some
-years in the counting-house of his father, a brewer. His tastes, however,
+years in the counting-house of his father, a [[Brewer|brewer]]. His tastes, however,
 lay altogether in the direction of study, and he was permitted to enter
 Trinity College, Dublin, where he took the degree of B.A. in 1848, and six
 years later that of M.A. After passing through the curriculum of arts he
@@ -79,17 +79,17 @@ similar nature. The _Essays in Political Economy, Theoretical and Applied_,
 which appeared in the same year, contain the essays towards a solution of
 the gold question, brought up to date and tested by comparison with
 statistics of prices. Among the other articles in the volume the more
-important are the criticisms on Bastiat and Comte, and the essays on
+important are the criticisms on [[Bastiat]] and Comte, and the essays on
 _Political Economy and Land_, and on _Political Economy and Laissez-Faire_,
 which have been referred to above. In 1874 appeared his largest work, _Some
 Leading Principles of Political Economy, newly Expounded_, which is beyond
 doubt a worthy successor to the great treatises of Smith, Malthus, Ricardo
 and Mill. It does not expound a completed system of political economy; many
 important doctrines are left untouched; and in general the treatment of
-problems is not such as would be suited for a systematic manual. The work
+problems is not such as would be suited for a systematic [[Manual|manual]]. The work
 is essentially a commentary on some of the principal doctrines of the
 English school of economists, such as value, cost of production, wages,
-labour and capital, and international values, and is replete with keen
+labour and capital, and [[International|international]] values, and is replete with keen
 criticism and lucid illustration. While in fundamental harmony with Mill,
 especially as regards the general conception of the science, Cairnes
 differs from him to a greater or less extent on nearly all the cardinal
@@ -151,7 +151,7 @@ when the exchange is confined to the members of one class, among whom there
 is free competition. In exchange between classes or non-competing
 industrial groups, the normal value is simply a case of international
 value, and depends upon reciprocal demand, that is to say, is such as will
-satisfy the equation of demand. This theory is a substantial contribution
+satisfy the [[Equation|equation]] of demand. This theory is a substantial contribution
 to economical science and throws great light upon the general problem of
 value. At the same time, it may be thought that Cairnes overlooked a point
 brought forward prominently by Senior, who also had called attention to the

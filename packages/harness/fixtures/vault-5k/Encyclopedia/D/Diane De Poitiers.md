@@ -43,7 +43,7 @@ now in the Louvre.
 
   See G. Guiffrey, _Lettres inédites de Diane de Poytiers_ (Paris, 1866)
   and _Procès criminel de Jehan de Poytiers_ (Paris, 1867); Capefigue,
-  _Diane de Poitiers_ (Paris, 1860); Hay, _Madame Dianne de Poytiers_
+  _Diane de Poitiers_ (Paris, 1860); [[Hay]], _Madame Dianne de Poytiers_
   (London, 1900).
 
 ## See also

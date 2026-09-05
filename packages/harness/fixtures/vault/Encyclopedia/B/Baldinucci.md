@@ -15,7 +15,7 @@ the attempt to derive all Italian art from the schools of Florence. A good
 edition is that by Ranalli (5 vols. 8vo, Florence, 1845-1847). Baldinucci's
 whole works were published in fourteen vols. at Milan, 1808-1812.
 
-BALDNESS[1] (technically _alopecia_, from [Greek: alôpex], a fox, foxes
+BALDNESS[1] (technically _alopecia_, from [Greek: alôpex], a [[Fox|fox]], [[Foxe|foxes]]
 often having bald patches on their coats), the result of loss of hair,
 particularly on the human scalp. So far as remediable alopecia is
 concerned, two forms may be distinguished: one the premature baldness so
@@ -53,19 +53,19 @@ difficult clinically, the use of the microscope leaves no room for doubt.
 It must be remembered that for patients under forty years of age, time
 alone will generally bring about the desired end, though treatment
 undoubtedly hastens recovery. After forty every year added to the patient's
-age makes the prognosis less good. The general hygiene and mode of life of
+age makes the prognosis less good. The general [[Hygiene|hygiene]] and mode of life of
 the sufferer must be very carefully attended to, and any weakness suitably
 treated. The following lotion should be applied daily to the affected
 parts, at first cautiously, later more vigorously, and in stronger
 solution:--[Rx.] Acidi lactici [dr.] i-[oz.] i; Ol. ricini [dr.] ii; Spt.
 vini ad [oz.] iv.
 
-The loss of hair following acute fevers must be treated by keeping the hair
+The loss of hair following acute [[Fever|fevers]] must be treated by keeping the hair
 short, applying stimulating lotions to the scalp, and attending to the
 general hygiene of the patient.
 
 [1] The adjective "bald" M. E. "balled" is usually explained as literally
-"round and smooth like a ball," but it may be connected with a stem _bal_,
+"round and smooth like a [[Ball|ball]]," but it may be connected with a stem _bal_,
 white or shining. The Greek [Greek: phalakros] certainly suggests some such
 derivation.
 

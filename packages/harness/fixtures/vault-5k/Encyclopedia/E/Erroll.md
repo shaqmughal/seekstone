@@ -6,7 +6,7 @@ topic: inventors
 
 # Erroll
 
-ERROLL (or ERROL), FRANCIS HAY, 9TH EARL OF (d. 1631), Scottish
+ERROLL (or ERROL), FRANCIS [[Hay|HAY]], 9TH EARL OF (d. 1631), Scottish
 nobleman, was the son of Andrew, 8th earl, and of Lady Jean Hay,
 daughter of William, 6th earl. The date of his birth is unrecorded, but
 he succeeded to the earldom (cr. 1453) in 1585, was early converted to
@@ -24,7 +24,7 @@ prohibition, Lady Elizabeth Douglas, daughter of the earl of Morton. He
 was imprisoned on suspicion of complicity in the attempt made by Gray
 and Bothwell to surprise the king at Falkland in June 1592; and though
 he obtained his release, he was again proclaimed a rebel on account of
-the discovery of his signature to two of the "Spanish Blanks," unwritten
+the discovery of his signature to two of the "Spanish [[Blank|Blanks]]," unwritten
 sheets subscribed with the names of the chief conspirators in a plot for
 a Spanish invasion of Scotland, to be filled up later with the terms of
 the projected treaty. After a failure to apprehend him in March 1593,
@@ -39,7 +39,7 @@ He returned to Scotland secretly in 1596, and on the 20th of June 1597
 abjured Romanism and made his peace with the Kirk. He enjoyed the favour
 of the king, and in 1602 was appointed a commissioner to negotiate the
 union with England. His relations with the Kirk, however, were not so
-amicable. The reality of his conversion was disputed, and on the 21st of
+amicable. The reality of his [[Conversion|conversion]] was disputed, and on the 21st of
 May 1608 he was confined to the city of Perth "for the better resolution
 of his doubts," being subsequently declared an obstinate "papist,"
 excommunicated, deprived of his estate, and imprisoned at Dumbarton; and

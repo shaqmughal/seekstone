@@ -15,7 +15,7 @@ princely residence, with extensive grounds, an Evangelical and two Roman
 Catholic churches, and the buildings of a former monastery. There are
 also many Roman remains, notable among them the "Neptune" sculpture, now
 embedded in the wall of the town-hall. Its chief manufactures are
-paper-making, spinning, weaving and machine building. The cultivation of
+paper-making, spinning, weaving and [[Machine|machine]] building. The cultivation of
 wine and fruit is also largely carried on, and in these products
 considerable trade is done.
 
@@ -35,7 +35,7 @@ at Gersdorf near Löbau, in Saxony, on the 5th of October 1802. He was
 privately educated by his father, the Protestant pastor of the village,
 entered the gymnasium at Zittau in 1816 and studied from 1823 to 1826 at
 the university of Leipzig. After a period of about two years during
-which he was partly abroad and partly at Gersdorf, he proceeded to Jena,
+which he was partly abroad and partly at Gersdorf, he proceeded to [[Jena]],
 where in 1830 he delivered, under the auspices of the university, a
 course of lectures on the old Norse poets. Three years later he was
 called to occupy the mastership of German language and literature at the
@@ -58,7 +58,7 @@ popularized a great deal of literary information in his _Herbstabende
 und Winternächte: Gespräche über Dichtungen und Dichter_ (1865-1867).
 The alliterative versification which he admired in the old German poems
 he himself employed in his _Deutsche Stammkönige_ (1844) and _Das
-verhängnissvolle Zahnweh, oder Karl der Grosse und der Heilige Goar_
+verhängnissvolle Zahnweh, oder Karl der [[Grosse]] und der Heilige Goar_
 (1852).
 
 

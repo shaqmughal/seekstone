@@ -29,10 +29,10 @@ France, and was sent to India in 1886 on a mission to collect the
 popular songs of the Afghans, a translation of which, with a valuable
 essay on the Afghan language and literature, he published on his return.
 His impressions of English dominion in India were conveyed in _Lettres
-sur l'Inde_ (1888). England interested him deeply; and his attachment to
+sur l'Inde_ (1888). England interested him deeply; and his [[Attachment|attachment]] to
 the gifted English writer, A. Mary F. Robinson, whom he shortly
 afterwards married (and who in 1901 became the wife of Professor E.
-Duclaux, director of the Pasteur Institute at Paris), led him to
+[[Duclaux]], director of the Pasteur Institute at Paris), led him to
 translate her poems into French in 1888. Two years after his death a
 collection of excellent essays on English subjects was published in
 English. He also wrote _Le Mahdi depuis les origines de l'Islam jusqu'a

@@ -10,7 +10,7 @@ type: reference
 LUCILIUS JUNIOR, a friend and correspondent of the younger Seneca,
 probably the author of _Aetna_, a poem on the origin of volcanic
 activity, variously attributed to Virgil, Cornelius Severus (epic poet
-of the Augustan age) and Manilius. Its composition has been placed as
+of the Augustan age) and [[Manilius]]. Its composition has been placed as
 far back as 44 B.C., on the ground that certain works of art, known to
 have been removed to Rome about that date, are referred to as being at a
 distance from the city. But as the author appears to have known and made
@@ -25,14 +25,14 @@ objected that in the 79th letter of Seneca, which is the chief authority
 on the question, he apparently asks that Lucilius should introduce the
 hackneyed theme of Aetna merely as an episode in his contemplated poem,
 not make it the subject of separate treatment. The sources of the Aetna
-are Posidonius of Apamea, and perhaps the pseudo-Aristotelian _De
-Mundo_, while there are many reminiscences of Lucretius. It has come
+are Posidonius of [[Apamea]], and perhaps the pseudo-Aristotelian _De
+Mundo_, while there are many reminiscences of [[Lucretius]]. It has come
 down in a very corrupt state, and its difficulties are increased by the
 unpoetical nature of the subject, the straining after conciseness, and
 the obtrusive use of metaphor.
 
-  Editions by J. Scaliger (1595), F. Jacob (1826), H. A. J. Munro
-  (1867), M. Haupt (in his edition of Virgil, 1873), E. Bährens (in
+  Editions by J. Scaliger (1595), F. [[Jacob]] (1826), H. A. J. Munro
+  (1867), M. [[Haupt]] (in his edition of Virgil, 1873), E. Bährens (in
   _Poetae latini minores_, ii), S. Sudhaus (1898), R. Ellis (1901,
   containing a bibliography of the subject); see also M. Haupt's
   _Opuscula_, i. 40, ii. 27, 162, iii. 437 (notes, chiefly critical); R.

@@ -11,12 +11,12 @@ tags: [biography, biology]
 
 ISFAHAN (older form _Ispahan_), the name of a Persian province and town.
 The province is situated in the centre of the country, and bounded S. by
-Fars, E. by Yezd, N. by Kashan, Natanz and Irak, and W. by the Bakhtiari
+[[Fars]], E. by Yezd, N. by Kashan, Natanz and [[Irak]], and W. by the Bakhtiari
 district and Arabistan. It pays a yearly revenue of about L100,000, and
 its population exceeds 500,000. It is divided into twenty-five
 districts, its capital, the town of Isfahan, forming one of them. These
 twenty-five districts, some very small and consisting of only a little
-township and a few hamlets, are Isfahan, Jai, Barkhar, Kahab, Kararaj,
+township and a few [[Hamlet|hamlets]], are Isfahan, Jai, Barkhar, Kahab, Kararaj,
 Baraan, Rudasht, Marbin, Lenjan, Kerven, Rar, Kiar, Mizdej, Ganduman,
 Somairam, Jarkuyeh, Ardistan, Kuhpayeh, Najafabad, Komisheh, Chadugan,
 Varzek, Tokhmaklu, Gurji, Chinarud. Most of these districts are very
@@ -59,14 +59,14 @@ standing in fairly good repair the two palaces named respectively Chehel
 Situn, "the forty pillars," and Hasht Behesht, "the eight paradises,"
 the former constructed by Shah Abbas I. (1587-1629), the latter by Shah
 Soliman in 1670, and restored and renovated by Fath Ali Shah
-(1797-1834). They are ornamented with gilding and mirrors in every
-possible variety of Arabesque decoration, and large and brilliant
+(1797-1834). They are ornamented with [[Gilding|gilding]] and mirrors in every
+possible variety of [[Arabesque]] decoration, and large and brilliant
 pictures, representing scenes of Persian history, cover the walls of
 their principal apartments and have been ascribed in many instances to
 Italian and Dutch artists who are known to have been in the service of
 the Sefavis. Attached to these palaces were many other buildings such as
 the Imaretino built by Amin ed-Dowleh (or Addaula) for Fath Ali Shah,
-the Imaret i Ashref built by Ashref Khan, the Afghan usurper, the Talar
+the Imaret i Ashref built by Ashref [[Khan]], the Afghan usurper, the Talar
 Tavileh, Guldasteh, Sarpushideh, &c., erected in the early part of the
 19th century by wealthy courtiers for the convenience of the sovereign
 and often occupied as residences of European ministers travelling
@@ -80,17 +80,17 @@ and other elegant buildings in the Hazar jerib (1000 acre) garden. All
 these palaces and buildings on both sides of the river were surrounded
 by extensive gardens, traversed by avenues of tall trees, principally
 planes, and intersected by paved canals of running water with tanks and
-fountains. Since Fath Ali Shah's death, palaces and gardens have been
+[[Fountain|fountains]]. Since Fath Ali Shah's death, palaces and gardens have been
 neglected. In 1902 an official was sent from Teheran to inspect the
 crown buildings, to report on their condition, and repair and renovate
 some, &c. The result was that all the above-mentioned buildings,
 excepting the Chehel Situn and Hasht Behesht, were demolished and their
-timber, bricks, stone, &c., sold to local builders. The gardens are
+timber, [[Brick|bricks]], stone, &c., sold to local builders. The gardens are
 wildernesses. The garden of the Chehel Situn palace opens out through
 the Ala Kapu ("highest gate, sublime porte") to the Maidan-i-Shah, which
 is one of the most imposing piazzas in the world, a parallelogram of 560
 yds. (N.-S.) by 174 yds. (E.-W.) surrounded by brick buildings divided
-into two storeys of recessed arches, or arcades, one above the other. In
+into two storeys of recessed [[Arches|arches]], or [[Arcade|arcades]], one above the other. In
 front of these arcades grow a few stunted planes and poplars. On the
 south side of the maidan is the famous Masjed i Shah (the shah's mosque)
 erected by Shah Abbas I. in 1612-1613. It is covered with glazed tiles
@@ -104,7 +104,7 @@ Ala Kapu, a lofty building in the form of an archway overlooking the
 maidan and crowned in the fore part by an immense open throne-room
 supported by wooden columns, while the hinder part is elevated three
 storeys higher. On the north side of the maidan is the entrance gate to
-the main bazaar surmounted by the Nekkareh-Khaneh, or drumhouse, where
+the main [[Bazaar|bazaar]] surmounted by the Nekkareh-Khaneh, or drumhouse, where
 is blared forth the appalling music saluting the rising and setting sun,
 said to have been instituted by Jamshid many thousand years ago. West of
 the Chehel Situn palace and conducting N.-S. from the centre of the city
@@ -118,8 +118,8 @@ capital.
   sights of Isfahan, this in its present state is the most pathetic in
   the utter and pitiless decay of its beauty. Let me indicate what it
   was and what it is. At the upper extremity a two-storeyed pavilion,[2]
-  connected by a corridor with the Seraglio of the palace, so as to
-  enable the ladies of the harem to gaze unobserved upon the merry scene
+  connected by a [[Corridor|corridor]] with the Seraglio of the palace, so as to
+  enable the ladies of the [[Harem|harem]] to gaze unobserved upon the merry scene
   below, looked out upon the centre of the avenue. Water, conducted in
   stone channels, ran down the centre, falling in miniature cascades
   from terrace to terrace, and was occasionally collected in great
@@ -127,39 +127,39 @@ capital.
   side of the central channel was a row of oriental planes and a paved
   pathway for pedestrians. Then occurred a succession of open parterres,
   usually planted or sown. Next on either side was a second row of
-  planes, between which and the flanking walls was a raised causeway for
+  planes, between which and the flanking walls was a raised [[Causeway|causeway]] for
   horsemen. The total breadth is now fifty-two yards. At intervals
   corresponding with the successive terraces and basins, arched doorways
   with recessed open chambers overhead conducted through these walls
   into the various royal or noble gardens that stretched on either side,
   and were known as the Gardens of the Throne, of the Nightingale, of
-  Vines, of Mulberries, Dervishes, &c. Some of these pavilions were
+  Vines, of Mulberries, [[Dervish|Dervishes]], &c. Some of these pavilions were
   places of public resort and were used as coffee-houses, where when the
   business of the day was over, the good burghers of Isfahan assembled
   to sip that beverage and inhale their _kalians_ the while; as Fryer
   puts it: 'Night drawing on, all the pride of Spahaun was met in the
-  Chaurbaug and the Grandees were Airing themselves, prancing about with
+  Chaurbaug and the [[Grandee|Grandees]] were Airing themselves, prancing about with
   their numerous Trains, striving to outvie each other in Pomp and
   Generosity.' At the bottom, quays lined the banks of the river, and
   were bordered with the mansions of the nobility."
 
   Such was the Chahar Bagh in the plenitude of its fame. But now what a
-  tragical contrast! The channels are empty, their stone borders
+  tragical contrast! The channels are empty, their stone [[Borders|borders]]
   crumbled and shattered, the terraces are broken down, the parterres
   are unsightly bare patches, the trees, all lopped and pollarded, have
-  been chipped and hollowed out or cut down for fuel by the soldiery of
+  been chipped and hollowed out or cut down for [[Fuel|fuel]] by the soldiery of
   the Zil, the side pavilions are abandoned and tumbling to pieces and
   the gardens are wildernesses. Two centuries of decay could never make
   the Champs Elysees in Paris, the Unter den Linden in Berlin, or
   Rotten Row in London, look one half as miserable as does the ruined
-  avenue of Shah Abbas. It is in itself an epitome of modern Iran."
+  avenue of Shah Abbas. It is in itself an [[Epitome|epitome]] of modern [[Iran]]."
 
 Towards the upper end of the avenue on its eastern side stands the
 medresseh (college) which Shah Hosain built in 1710. It still has a few
 students, but is very much out of repair; Lord Curzon spoke of it in
 1888 as "one of the stateliest ruins that he saw in Persia." South of
 this college the avenue is altogether without trees, and the gardens on
-both sides have been turned into barley fields. Among the other notable
+both sides have been turned into barley [[Fields|fields]]. Among the other notable
 buildings of Isfahan must be reckoned its five bridges, all fine
 structures, and one of them, the bridge of Allah Verdi Kahn, 388 yds. in
 length with a paved roadway of 30 ft. in breadth, is one of the
@@ -192,16 +192,16 @@ Armenian suburb of Julfa, at any rate, which contained a population of
 30,000 souls in the 17th century, has now only 4000, and the Christian
 churches, which numbered thirteen and were maintained with splendour,
 are now reduced to half a dozen edifices with bare walls and empty
-benches. Much improvement has recently taken place in the education of
+[[Bench|benches]]. Much improvement has recently taken place in the education of
 the young and also in their religious teaching, the wealthy Armenians of
-India and Java having liberally contributed to the national schools, and
+India and [[Java]] having liberally contributed to the national schools, and
 the Church Missionary Society of London having a church, schools and
 hospitals there since 1869.
 
 The people of Isfahan have a very poor reputation in Persia either for
-courage or morals. They are regarded as a clever but at the same time
+courage or morals. They are regarded as a [[Clever|clever]] but at the same time
 dissolute and disorderly community, whose government requires a strong
-hand. The _lutis_ (hooligans) of Isfahan are proverbial as the most
+hand. The _lutis_ ([[Hooligan|hooligans]]) of Isfahan are proverbial as the most
 turbulent and rowdy set of vagabonds in Persia. The priesthood of
 Isfahan are much respected for their learning and high character, and
 the merchants are a very respectable class. The commerce of Isfahan has
@@ -211,7 +211,7 @@ doubtful whether the trade of former days can ever be restored.
 
   _History._--The natural advantages of Isfahan--a genial climate, a
   fertile soil and abundance of water for irrigation--must have always
-  made it a place of importance. In the most ancient cuneiform
+  made it a place of importance. In the most ancient [[Cuneiform|cuneiform]]
   documents, referring to a period between 3000 and 2000 B.C., the
   province of _Anshan_, which certainly included Isfahan, was the limit
   of the geographical knowledge of the Babylonians, typifying the
@@ -225,7 +225,7 @@ doubtful whether the trade of former days can ever be restored.
   Anshan, however, ethnic changes were probably in extensive operation
   during this interval of twenty centuries. The western Iranians, for
   instance, after separating from their eastern brethren on the Oxus, as
-  early perhaps as 3000 B.C., must have followed the line of the Elburz
+  early perhaps as 3000 B.C., must have followed the line of the [[Elburz]]
   mountains, and then bifurcating into two branches must have scattered,
   westward into Media and southward towards Persia. The first
   substantial settlement of the southern branch would seem then to have
@@ -245,9 +245,9 @@ doubtful whether the trade of former days can ever be restored.
   that native legend represented the Persian race to have been held in
   bondage for a thousand years, after the reign of Jem, by the foreign
   usurper _Zohak_ or _Biverasp_, a period which may well represent the
-  duration of Elymaean supremacy over the Aryans of Anshan. At the
+  duration of Elymaean supremacy over the [[Aryan|Aryans]] of Anshan. At the
   commencement of the 7th century B.C. Persia and Ansan are still found
-  in the annals of Sennacherib amongst the tributaries of Elymais,
+  in the [[Annals|annals]] of Sennacherib amongst the tributaries of Elymais,
   confederated against Assyria; but shortly afterwards the great Susian
   monarchy, which had lasted for full 2000 years, crumbled away under
   continued pressure from the west, and the Aryans of Anshan recovered
@@ -258,7 +258,7 @@ doubtful whether the trade of former days can ever be restored.
   The royal city of Gabae was known as a foundation of the Achaemenidae
   as late as the time of Strabo, and the inscriptions show that
   Achaemenes and his successors did actually rule at Anshan until the
-  great Cyrus set out on his career of western victory. Whether the
+  great [[Cyrus]] set out on his career of western victory. Whether the
   _Kabi_ or _Kavi_ of tradition, the blacksmith of Isfahan, who is said
   to have headed the revolt against Zohak, took his name from the town
   of Gabae may be open to question; but it is at any rate remarkable
@@ -297,7 +297,7 @@ doubtful whether the trade of former days can ever be restored.
   natural advantages, gradually recovered from the effects of this
   terrible visitation, and when the Safavid dynasty, who succeeded to
   power in the 16th century, transferred their place of residence to it
-  from Kazvin, it rose rapidly in populousness and wealth. It was under
+  from [[Kazvin]], it rose rapidly in populousness and wealth. It was under
   Shah Abbas the first, the most illustrious sovereign of this house,
   that Isfahan attained its greatest prosperity. This monarch adopted
   every possible expedient, by stimulating commerce, encouraging arts
@@ -317,7 +317,7 @@ doubtful whether the trade of former days can ever be restored.
   left a detailed and most interesting account of the statistics of the
   city at that period. He himself estimated the population at 600,000,
   though in popular belief the number exceeded a million. There were
-  1500 flourishing villages in the immediate neighbourhood; the enceinte
+  1500 flourishing villages in the immediate neighbourhood; the [[Enceinte|enceinte]]
   of the city and suburbs was reckoned at 24 m., while the mud walls
   surrounding the city itself, probably nearly following the lines of
   the Buyid enclosure, measured 20,000 paces. In the interior were
@@ -325,7 +325,7 @@ doubtful whether the trade of former days can ever be restored.
   and 12 cemeteries. The adjoining suburb of Julfa was also a most
   flourishing place. Originally founded by Shah Abbas the Great, who
   transported to this locality 3400 Armenian families from the town of
-  Julfa on the Arras, the colony increased rapidly under his fostering
+  Julfa on the [[Arras]], the colony increased rapidly under his fostering
   care, both in wealth and in numbers, the Christian population being
   estimated in 1685 at 30,000 souls. The first blow to the prosperity of
   modern Isfahan was given by the Afghan invasion at the beginning of
@@ -374,7 +374,7 @@ FOOTNOTES:
     from the 3rd century A.D. as is shown by a notice in the Armenian
     history of Moses of Chorene, lib. iii. cap. 35. The name _Isfahan_
     has been generally compared with the Aspadana of Ptolemy in the
-    extreme north of Persis, and the identification is probably correct.
+    extreme north of Persis, and the [[Identification|identification]] is probably correct.
     At any rate the title is of great antiquity being found in the
     Bundahish, and being derived in all likelihood from the family name
     of the race of _Feridun_, the _Athviyan_ of romance, who were

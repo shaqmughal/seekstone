@@ -6,15 +6,15 @@ topic: commerce
 
 # Chimere
 
-CHIMERE (Lat. _chimera, chimaera_; O. Fr. _chamarre_, Mod. Fr.
+CHIMERE (Lat. _chimera, [[Chimaera|chimaera]]_; O. Fr. _chamarre_, Mod. Fr.
 _simarre_; Ital. _zimarra_; cf. Span. _zamarra_, a sheepskin coat;
 possibly derived ultimately from Gr. [Greek: cheimerios], "wintry," i.e.
 a winter overcoat), in modern English use the name of a garment worn as
-part of the ceremonial dress of Anglican bishops. It is a long
+part of the ceremonial [[Dress|dress]] of Anglican bishops. It is a long
 sleeveless gown of silk or satin, open down the front, gathered in at
 the back between the shoulders, and with slits for the arms. It is worn
 over the rochet (q.v.), and its colour is either black or scarlet
-(convocation robes). By a late abuse the sleeves of the rochet were,
+([[Convocation|convocation]] robes). By a late abuse the sleeves of the rochet were,
 from motives of convenience, sometimes attached to the chimere. The
 origin of the chimere has been the subject of much debate; but the view
 that it is a modification of the cope (q.v.) is now discarded, and it is
@@ -25,14 +25,14 @@ origin with certain academic robes (see ROBES, § _Academic dress_).
 
 The word "chimere," which first appears in England in the 14th century,
 was sometimes applied not only to the tabard worn over the rochet, but
-to the sleeved cassock worn under it. Thus Archbishop Scrope is
+to the sleeved [[Cassock|cassock]] worn under it. Thus Archbishop Scrope is
 described as wearing when on his way to execution (1405) a blue chimere
 with sleeves. But the word properly applies to the sleeveless tabard
 which tended to supersede, from the 15th century onwards, the
 inconvenient _cappa clausa_ (a long closed cloak with a slit in front
 for the arms) as the out-of-doors upper garment of bishops. These
-chimeres, the colours of which (murrey, scarlet, green, &c.) may
-possibly have denoted academical rank, were part of the civil costume of
+chimeres, the [[Colours|colours]] of which (murrey, scarlet, green, &c.) may
+possibly have denoted academical rank, were part of the civil [[Costume|costume]] of
 prelates. Thus in the inventory of Walter Skirlawe, bishop of Durham
 (1405-1406), eight chimeres of various colours are mentioned, including
 two for riding (_pro equitatura_). The chimere was, moreover, a cold
@@ -44,8 +44,8 @@ consecrated prelate, hitherto vested in rochet, is directed to put on
 become in the Church of England symbolical of the episcopal office, and
 is in effect a liturgical vestment. The rubric containing this direction
 was added to the Book of Common Prayer in 1662; and there is proof that
-the development of the chimere into at least a choir vestment was
-subsequent to the Reformation. Foxe, indeed, mentions that Hooper at his
+the development of the chimere into at least a [[Choir|choir]] vestment was
+subsequent to the Reformation. [[Foxe]], indeed, mentions that [[Hooper]] at his
 consecration wore "a long scarlet chymere down to the foot" (_Acts and
 Mon._, ed. 1563, p. 1051), a source of trouble to himself and of scandal
 to other extreme reformers; but that this was no more than the full
@@ -72,7 +72,7 @@ or at court) is still rochet and chimere.
   uppermost garment of the clergy, worn over the _soutane_ (_toga_)
   instead of the _mantellum_ (_vestis suprema clericorum loco pallii_),
   with a cross-reference to _Tabardum_, the "usual" upper garment
-  (_pallium usuale_); and this definition is repeated in the 8th edition
+  (_pallium usuale_); and this [[Definition|definition]] is repeated in the 8th edition
   of the work (1732). From this it appears that so late as the middle of
   the 18th century the _zimarra_ was still in common use as an
   out-of-doors overcoat. But, according to Moroni, by the latter half of
@@ -107,7 +107,7 @@ or at court) is still rochet and chimere.
   the Rev. N.F. Robinson, "The black chimere of Anglican Prelates: a
   plea for its retention and proper use," in _Transactions of the St
   Paul's Ecclesiological Soc._ vol. iv. pp. 181-220 (London, 1898);
-  Herbert Druitt, _Costume on Brasses_ (London, 1906); G. Moroni,
+  Herbert Druitt, _Costume on [[Brasses]]_ (London, 1906); G. Moroni,
   _Dizionario dell' erudizione storico-ecclesiastica_ (Venice, 1861),
   vol. 103, s.v. "Zimarra": X. Barbier de Montault, _Traité pratique de
   la construction, &c., des églises_, ii. 538 (Paris, 1878).    (W. A. P.)

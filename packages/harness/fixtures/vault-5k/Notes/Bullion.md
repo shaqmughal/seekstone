@@ -20,7 +20,7 @@ should approximate in all nations to a common degree of fineness; and
 though this is not uniform even in coins, yet the proportion of alloy in
 silver, and of carats alloy to carats fine in gold, has been reduced to
 infinitesimal differences in the bullion of commerce, and is a prime
-element of value even in gold and silver plate, jewelry, and other articles
+element of value even in gold and silver plate, [[Jewelry|jewelry]], and other articles
 of manufacture. Bullion, whether in the form of coins, or of bars and
 ingots stamped, is subject, as a general rule of the London market, not
 only to weight but to assay, and receives a corresponding value.

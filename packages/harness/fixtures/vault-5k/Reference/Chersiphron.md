@@ -13,7 +13,7 @@ Greeks in the 6th century. Some remains of this temple were found by
 J.T. Wood and brought to the British Museum. In connexion with the
 pillars, which are adorned with archaic reliefs, a fragmentary
 inscription has been found, recording that they were presented by King
-Croesus, as indeed Herodotus informs us. This temple was burned on the
+[[Croesus]], as indeed Herodotus informs us. This temple was burned on the
 day on which Alexander the Great was born.
 
 ## References

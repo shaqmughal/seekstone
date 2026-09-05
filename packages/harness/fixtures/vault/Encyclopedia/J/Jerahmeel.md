@@ -1,15 +1,15 @@
 # Jerahmeel
 
-JERAHMEEL, (Heb. "May God pity"), in the Bible, a clan which with Caleb,
-the Kenites and others, occupied the southern steppes of Palestine,
+JERAHMEEL, (Heb. "May God pity"), in the Bible, a [[Clan|clan]] which with Caleb,
+the [[Kenites]] and others, occupied the southern steppes of Palestine,
 probably in the district around Arad, about 17 m. S. of Hebron. It was
 on friendly terms with David during his residence at Ziklag (1 Sam. xxx.
 29), and it was apparently in his reign that the various elements of the
 south were united and were reckoned to Israel. This is expressed in the
 chronicler's genealogies which make Jerahmeel and Caleb descendants of
-Judah (see DAVID; JUDAH).
+[[Judah]] (see DAVID; JUDAH).
 
-  On the names in 1 Chron. ii. see S. A. Cook, _Ency. Bib._, col. 2363
+  On the names in 1 Chron. ii. see S. A. [[Cook]], _Ency. Bib._, col. 2363
   seq. Peleth (v. 33) may be the origin of the Pelethites (2 Sam. viii.
   18; xv. 18; xx. 7), and since the name occurs in the revolt of Korah
   (Num. xvi. 1), it is possible that Jerahmeel, like Caleb and the

@@ -18,7 +18,7 @@ Zenana (strictly _zanana_, from Persian _zan_, woman, allied with Gr.
 [Greek: gyne]), used specifically of Hindu harems; Andarun (or
 Anderoon), the Persian word for the "inner part" (_sc._ of a house). The
 Indian harem system is also commonly known as _pardah_ or _purdah_,
-literally the name of the thick curtains or blinds which are used
+literally the name of the thick [[Curtain|curtains]] or blinds which are used
 instead of doors to separate the women's quarters from the rest of the
 house. A male doctor attending a zenana lady would put his hand between
 the _purdah_ to feel her pulse.
@@ -32,10 +32,10 @@ Persian, &c.) that kings and wealthy nobles devoted a special part of
 the palace to their womankind. Though in comparatively early times there
 were not wanting men who regarded polygamy as wrong (e.g. the prophets
 of Israel), nevertheless in the East generally there has never been any
-real movement against the conception of woman as a chattel of her male
+real movement against the conception of woman as a [[Chattel|chattel]] of her male
 relatives. A man may have as many wives and concubines as he can
 support, but each of these women must be his exclusive property. The
-object of this insistence upon female chastity is partly the maintenance
+object of this insistence upon female chastity is partly the [[Maintenance|maintenance]]
 of the purity of the family with special reference to property, and
 partly to protect women from marauders, as was the case with the people
 of India when the Mahommedans invaded the country and sought for women
@@ -51,13 +51,13 @@ that, especially in the less civilized parts of the Moslem world, no one
 would think of questioning a man's right to mutilate or kill a
 disobedient wife or concubine.
 
-_Turkish Harems._--A good deal of misapprehension, due to ignorance
+_Turkish Harems._--A good deal of misapprehension, due to [[Ignorance|ignorance]]
 combined with strong prejudice against the whole system, exists in
 regard to the system in Turkey. It is often assumed, for example, that
 the sultan's seraglio is typical, though on a uniquely large scale, of
 all Turkish households, and as a consequence that every Turk is a
 polygamist. This is far from being the case, for though the Koran
-permits four wives, and etiquette allows the sultan seven, the man of
+permits four wives, and [[Etiquette|etiquette]] allows the sultan seven, the man of
 average possessions is perforce content with one, and a small number of
 female servants. It is, therefore, necessary to take the imperial
 seraglio separately.
@@ -77,7 +77,7 @@ number of pupil-slaves (_alaiks_), whom she trains to succeed her if
 need be, and from whom the service is recruited. After the sultana
 valide (who frequently enjoys considerable political power and is a
 mistress of intrigue) ranks the mother of the heir-apparent; she is
-called the _Bash Kadin Effendi_ ("Her excellency the Chief Lady"), and
+called the _Bash Kadin Effendi_ ("Her [[Excellency|excellency]] the Chief Lady"), and
 also _hasseki_ or _kasseky_, and is distinguished from the other three
 chief wives who only bear the title _Kadin Effendi_. Next come the
 ladies who have borne the younger children of the sultan, the _Hanum
@@ -122,13 +122,13 @@ possessions, and even the vizier cannot enter the royal apartments
 without his permission. The black eunuchs have the right of entering the
 gardens and chambers of the harem. Their chief, usually called the
 _kislar aghasi_ ("master of the maidens"), though his true title is
-_darus skadet aga_ ("chief of the abode of felicity"), is an official of
+_[[Daru|darus]] skadet aga_ ("chief of the abode of felicity"), is an official of
 high importance. His appointment is for life. If he is deprived of his
 post he receives his freedom; and if he resigns of his own accord he is
-generally sent to Egypt with a pension of 100 francs a day. His
+generally sent to Egypt with a pension of 100 [[Franc|francs]] a day. His
 secretary keeps count of the revenues of the mosques built by the
 sultans. He is usually succeeded by the second eunuch, who bears the
-title of treasurer, and has charge of the jewels, &c., of the women. The
+title of treasurer, and has charge of the [[Jewel|jewels]], &c., of the women. The
 number of eunuchs is always a large one. The sultana valide and the
 sultana hasseki have each fifty at their service, and others are
 assigned to the kadins and the favourite odalisks.
@@ -142,10 +142,10 @@ on and slightly overhanging the street; it has a separate entrance,
 courtyard and garden. The windows are guarded by lattices pierced with
 circular holes through which the women may watch without being seen.
 Communication with the _haremlik_ is effected by a locked door, of which
-the Effendi keeps the key and also by a sort of revolving cupboard
-(_dutap_) for the conveyance of meals. The furniture, of the
-old-fashioned harems at least, is confined to divans, rugs, carpets and
-mirrors. For heating purposes the old brass tray of charcoal and wood
+the Effendi keeps the [[Key|key]] and also by a sort of revolving cupboard
+(_dutap_) for the [[Conveyance|conveyance]] of meals. The furniture, of the
+old-fashioned harems at least, is confined to [[Divan|divans]], rugs, [[Carpet|carpets]] and
+mirrors. For heating purposes the old [[Brass|brass]] tray of [[Charcoal|charcoal]] and wood
 ash is giving way to American stoves, and there is a tendency to import
 French furniture and decoration without regard to their suitability.
 
@@ -185,14 +185,14 @@ age at which girls are secluded, the dulness of their surroundings, and
 the low moral standard which the system produces react unfavourably not
 only upon their moral and intellectual growth but also upon their
 capacity for motherhood and their general physique. A harem woman is
-soon passee, and the lot of a woman past her youth, if she is divorced
+soon passee, and the [[Lot|lot]] of a woman past her youth, if she is divorced
 or a widow, is monotonous and empty. This is true especially of
 child-widows.
 
 Since the middle of the 19th century familiarity with European customs
 and the direct influence of European administrators has brought about a
 certain change in the attitude of Orientals to the harem system. This
-movement is, however, only in its infancy, and the impression is still
+movement is, however, only in its [[Infancy|infancy]], and the impression is still
 strong that the time is not ripe for reform. The Oriental women are in
 general so accustomed to their condition that few have any inclination
 to change it, while men as a rule are emphatically opposed to any
@@ -206,14 +206,14 @@ other, as well as by private individuals, to improve the lot of the
 zenana women. Zenana schools and hospitals have been founded, and a few
 women have been trained as doctors and lawyers for the special purposes
 of protecting the women against their own ignorance and inertia. Thus in
-1905 a Parsee Christian lady, Cornelia Sorabjee, was appointed by the
-Bengal government as legal adviser to the court of wards, so that she
+1905 a Parsee Christian lady, [[Cornelia]] Sorabjee, was appointed by the
+[[Bengal]] government as legal adviser to the court of wards, so that she
 might give advice to the widowed mothers of minors within the harem
 walls. Similarly trained medical women are introduced into zenanas and
 harems by the Lady Dufferin Association for medical aid to Indian women.
 Gradually native Christian churches are making provision for the
 attendance of women at their services, though the sexes are rigorously
-kept apart. In India, as in Turkey, the introduction of Western dress
+kept apart. In India, as in Turkey, the introduction of Western [[Dress|dress]]
 and education has begun to create new ideas and ambitions, and not a few
 Eastern women have induced English women to enter the harems as
 companions, nurses and governesses. But training and environment are
@@ -227,7 +227,7 @@ to the zenana system are the Church of England Zenana Missionary Society
 and the Zenana Bible and Medical Mission. Much information as to the
 medical, industrial and educational work done by these societies will be
 found in their annual reports and other publications. Among these are J.
-K. H. Denny's _Toward the Uprising_; Irene H. Barnes, _Behind the
+K. H. Denny's _Toward the Uprising_; [[Irene]] H. [[Barnes]], _Behind the
 Pardah_ (1897), an account of the former society's work; the general
 condition of Indian women is described in Mrs Marcus B. Fuller's _Wrongs
 of Indian Womanhood_ (1900), and Maud Dover's _The Englishwoman in
@@ -244,12 +244,12 @@ India_ (1909); see also article MISSIONS.
   "Harem" in Hughes, _Dictionary of Islam_; Mrs S. Harvey's _Turkish
   Harems and Circassian Homes_ (1871); for Mahomet's regulations, see
   R. Bosworth Smith's _Mohammed and Mohammedanism_ (1889); for Egypt,
-  Lane, _Manners and Customs of the Modern Egyptians_ (1837); and E.
+  [[Lane]], _[[Manners]] and Customs of the Modern Egyptians_ (1837); and E.
   Lott, _Harem Life in Egypt and Constantinople_ (1869); for the
   sultan's household in the 18th century, Lady Wortley Montagu's
   _Letters_, with which may be compared S. Lane-Poole, _Turkey_ (ed.
   1909); G. Dorys, _La Femme turque_ (1902); especially Lucy M. J.
-  Garnett (with J. S. Stuart-Glennie), _The Women of Turkey_ (London,
+  [[Garnett]] (with J. S. Stuart-Glennie), _The Women of Turkey_ (London,
   1901), and _The Turkish People_ (London, 1909). For the attempts which
   have been made to modify and improve the Indian zenana system, see
   e.g. the reports of the Dufferin Association and other official
@@ -257,7 +257,7 @@ India_ (1909); see also article MISSIONS.
   Ersch and Gruber's _Encyclopadie_; Flandin in _Revue des deux mondes_
   (1852) on the harem of the Persian prince Malik Kasim Mirza; the count
   de Beauvoir, in _Voyage round the World_ (1870), on Javanese and
-  Siamese harems; Hantzsche in _Zeitschrift fur allgemeine Erdkunde_
+  Siamese harems; Hantzsche in _Zeitschrift [[Fur|fur]] allgemeine Erdkunde_
   (Berlin, 1864).     (J. M. M.)
 
 
@@ -265,7 +265,7 @@ FOOTNOTE:
 
   [1] In Africa also, among the non-Mahommedan negroes of the west
     coast and the Bahima of the Victoria Nyanza, the seclusion of women
-    of the upper classes has been practised in states (e.g. Ashanti and
+    of the upper classes has been practised in states (e.g. [[Ashanti]] and
     Buganda) possessing a considerable degree of civilization.
 
 ## See also

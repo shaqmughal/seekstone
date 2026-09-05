@@ -7,15 +7,15 @@ tags: [biology, literature]
 
 # Cutler
 
-CUTLER, MANASSEH (1742-1823), American clergyman, was born in Killingly,
+CUTLER, [[Manasseh|MANASSEH]] (1742-1823), American clergyman, was born in Killingly,
 Connecticut, on the 13th of May 1742. He graduated at Yale College in
 1765, and after being a school teacher and a merchant, and occasionally
 appearing in the courts as a lawyer, he decided to enter the ministry,
 and from 1771 until his death was pastor of the Congregational church at
 what is now Hamilton, but until 1793 was a parish of Ipswich,
 Massachusetts. During the War of Independence he was for several months
-in 1776 chaplain to the regiment of Colonel Ebenezer Francis, raised for
-the defence of Boston; and in 1778, as chaplain to the brigade of
+in 1776 [[Chaplain|chaplain]] to the regiment of Colonel Ebenezer Francis, raised for
+the defence of [[Boston]]; and in 1778, as chaplain to the brigade of
 General Jonathan Titcomb (1728-1817), he took part in General John
 Sullivan's expedition to Rhode Island. Soon after his return from this
 expedition he fitted himself for the practice of medicine, in order to

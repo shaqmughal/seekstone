@@ -7,7 +7,7 @@ id: 42-5334
 
 # Buying In
 
-BUYING IN, on the English stock exchange, a transaction by which, if a
+BUYING IN, on the English stock [[Exchange|exchange]], a transaction by which, if a
 member has sold securities which he fails to deliver on settling day, or
 any of the succeeding ten days following the settlement, the buyer may give
 instructions to a stock exchange official to "buy in" the stock required.

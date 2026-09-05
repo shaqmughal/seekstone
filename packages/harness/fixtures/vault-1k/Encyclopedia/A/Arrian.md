@@ -18,7 +18,7 @@ Greek. Arrian spent a considerable portion of his time at Athens, where
 he was archon 147-148. With his retirement or recall from Cappadocia his
 official career came to an end. In his declining years, he retired to
 his native place, where he devoted himself to literary work. He died
-about 180. His biography, by Dio Cassius, is lost.
+about 180. His biography, by Dio [[Cassius]], is lost.
 
 When young, Arrian was the pupil and friend of Epictetus, who had
 probably withdrawn to Nicopolis, when Domitian expelled all philosophers

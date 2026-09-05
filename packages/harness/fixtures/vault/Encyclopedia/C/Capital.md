@@ -22,7 +22,7 @@ profit. This quality, apparent enough in the beginnings of capital,
 applies equally to all its forms and stages; because whether a
 capitalist stocks his warehouse with goods and produce, improves land,
 lends on mortgage or other security, builds a factory, opens a mine, or
-orders the construction of machines or ships, there is the element of
+orders the construction of [[Machine|machines]] or ships, there is the element of
 self-deprival for the present, with the risk of ultimate loss of what is
 his own, and what, instead of saving and embodying income productive
 form, he might choose to consume. On this ground rests the justification
@@ -35,7 +35,7 @@ accumulation of resources, or in other words, the formation of capital,
 is indispensable. The primitive cultivators of the soil, whether those
 of ancient times or the pioneers who formed settlements in the forests
 of the New World, soon discovered that their labour would be rendered
-more effective by implements and auxiliary powers of various kinds, and
+more effective by [[Implement|implements]] and [[Auxiliary|auxiliary]] powers of various kinds, and
 that until the produce from existing means of cultivation exceeded what
 was necessary for their subsistence, there could be neither labour on
 their part to produce such implements and auxiliaries, nor means to
@@ -43,7 +43,7 @@ purchase them. Every branch of industry has thus had a demand for
 capital within its own circles from the earliest times. The flint
 arrow-heads, the stone and bronze utensils of fossiliferous origin, and
 the rude implements of agriculture, war and navigation, of which we read
-in Homer, were the forerunners of that rich and wonderful display of
+in [[Homer]], were the forerunners of that rich and wonderful display of
 tools, machines, engines, furnaces and countless ingenious and costly
 appliances, which represent so large a portion of the capital of
 civilized countries, and without the pre-existing capital could not have
@@ -90,13 +90,13 @@ drainage and other land improvements. When the natural forests have been
 consumed and the landowners begin to plant trees on the bare places, the
 plantations while growing are a source of health, shelter and
 embellishment--they are not without a material profit throughout their
-various stages to maturity--and when, at the lapse of twenty or more
+various stages to maturity--and when, at the [[Lapse|lapse]] of twenty or more
 years, they are ready to be cut down, and the timber is sold for useful
-purposes, there is a harvest of the original capital expended as
+purposes, there is a [[Harvest|harvest]] of the original capital expended as
 essentially as in the case of the more rapid yearly crops of wheat or
 oats. The chief distinction would appear to rest in the element of time
 elapsing between the outlay of capital and its return. Capital may be
-employed in short loans or bills of exchange at two or three months, in
+employed in short loans or bills of [[Exchange|exchange]] at two or three months, in
 paying wages of labour for which there may be return in a day or not in
 less than a year or more, or in operations involving within themselves
 every form of capital expenditure, and requiring a few years or
@@ -124,9 +124,9 @@ community.
   of it at any length would embrace the whole field of economics. The
   subject will be found fully dealt with in every important economic
   work, but the following may be specially consulted:--J.S. Mill,
-  _Principles of Political Economy_; J.E. Cairns, _Some Leading
+  _Principles of Political Economy_; J.E. [[Cairns]], _Some Leading
   Principles of Political Economy_; F.A. Walker, _Political Economy_; A.
-  Marshall, _Principles of Economics_; E. Bohm v. Bawerk, _Capital and
+  [[Marshall]], _Principles of Economics_; E. Bohm v. Bawerk, _Capital and
   Interest_; K. Marx, _Capital_; J.B. Clark, _Capital and its Earnings_;
   see also the economic works of W.H. Mallock (_Critical Examination of
   Socialism_, 1908, &c.) for an insistence on the importance of
@@ -141,12 +141,12 @@ penalty of death for crime under the sentence of some properly
 constituted authority, as distinguished from killing the offender as a
 matter of self-defence or private vengeance, or under the order of some
 self-constituted or irregular tribunal unknown to the law, such as that
-of the Vigilantes of California, or of lynch law (q.v.). In the early
+of the Vigilantes of California, or of [[Lynch|lynch]] law (q.v.). In the early
 stages of society a man-slayer was killed by the "avenger of blood" on
 behalf of the family of the man killed, and not as representing the
 authority of the state (Pollock and Maitland, _Hist. Eng. Law_, ii.
-447.) This mode of dealing with homicide survives in the vendetta of
-Corsica and of the Mainotes in Greece, and in certain of the southern
+447.) This mode of dealing with [[Homicide|homicide]] survives in the vendetta of
+[[Corsica]] and of the Mainotes in Greece, and in certain of the southern
 states of North America. The obligation or inclination to take vengeance
 depends on the fact of homicide, and not on the circumstances in which
 it was committed, i.e. it is a part of the _lex talionis_. The mischief
@@ -160,20 +160,20 @@ i.e. a payment in proportion to the rank of the slain, and the king
 received the blood-wite for the loss of his man. But even under this
 system certain crimes were in Anglo-Saxon law bot-less, i.e. no
 compensation could be paid, and the offender must suffer the penalty of
-death. In the laws of Khammurabi, king of Babylon (2285-2242 B.C.), the
+death. In the laws of Khammurabi, king of [[Babylon]] (2285-2242 B.C.), the
 death penalty is imposed for many offences. The modes for executing it
-specially named are burning, drowning and impalement (_Oldest Code of
+specially named are burning, drowning and impalement (_Oldest [[Code]] of
 Laws_, by C.H.W. Johns, 1903). Under the Roman law, "capital" punishment
 also included punishments which deprived the offender of the status of
 Roman citizen (_capitis deminutio, capitis amissio_), e.g. condemnation
-to servitude in the mines or to deportation to an island (_Dig._ 48.
+to servitude in the mines or to [[Deportation|deportation]] to an island (_Dig._ 48.
 19).
 
 
   British and foreign laws and methods.
 
 _United Kingdom._--The modes of capital punishment in England under the
-Saxon and Danish kings were various: hanging, beheading, burning,
+Saxon and Danish kings were various: [[Hanging|hanging]], beheading, burning,
 drowning, stoning, and precipitation from rocks. The principle on which
 this variety depended was that where an offence was such as to entitle
 the king to outlaw the offender, he forfeited all, life and limb, lands
@@ -183,17 +183,17 @@ executed by hanging and substituted mutilation; but his successors
 varied somewhat in their policy as to capital punishment, and by the
 13th century the penalty of death became by usage (without legislation)
 the usual punishment for high and petty treason and for all felonies
-(except mayhem and petty larceny, i.e. theft of property worth less than
+(except [[Mayhem|mayhem]] and petty [[Larceny|larceny]], i.e. theft of property worth less than
 1s.); see Stephen, _Hist. Cr. Law_, vol. i. 458; Pollock and Maitland,
 _Hist. Eng. Law_, vol. ii. 459. It therefore included all the more
 serious forms of crime against person or property, such as murder,
-manslaughter, arson, highway robbery, burglary (or hamesucken) and
+[[Manslaughter|manslaughter]], [[Arson|arson]], highway robbery, burglary (or hamesucken) and
 larceny; and when statutory felonies were created they were also
 punishable by death unless the statute otherwise provided. The death
 penalty was also extended to heretics under the writ _de heretico
 comburendo_, which was lawfully issuable under statute from 1382 (5 Ric.
 II. stat. 5) until 1677 (29 Chas. II. c. 9). For this purpose the
-legislature had adopted the civil law of the Roman Empire, which was not
+legislature had adopted the [[Civil Law|civil law]] of the Roman Empire, which was not
 a part of the English common law (Stephen, _Hist. Cr. Law_, vol. ii.
 438-469).
 
@@ -206,7 +206,7 @@ _Wilkinson v. Utah_, 1889, 136 U.S. 436, 446).
 
 The severity of barbarian and feudal laws was mitigated, so far as
 common-law offences were concerned, by the influence of the Church as
-the inheritor of Christian traditions and Roman jurisprudence. The Roman
+the inheritor of Christian traditions and Roman [[Jurisprudence|jurisprudence]]. The Roman
 law under the empire did not allow the execution of citizens except
 under the _Lex Porcia_. But the right of the emperors to legislate _per
 rescriptum principis_ enabled them to disregard the ordinary law when so
@@ -219,7 +219,7 @@ given by imperial legislation in the Eastern Empire was utilized by the
 Papacy to claim privilege of clergy, i.e. that clerks must be remitted
 to the bishop for canonical punishment, and not subjected to civil
 condemnation at all. The history of benefit of clergy is given in
-Pollock and Maitland, _Hist. English Law_, vol. i. pp. 424-440, and
+Pollock and Maitland, _Hist. [[English Law]]_, vol. i. pp. 424-440, and
 Stephen, _Hist. Cr. Law_, vol. iii. 459, 463. By degrees the privilege
 was extended not only to persons who could prove ordination or show a
 genuine tonsure, but all persons who had sufficient learning to be able
@@ -238,8 +238,8 @@ i.e. to all clerks whether secular or religious (25 Edw. III. stat. 3);
 and it was allowed only in case of a first conviction, except in the
 case of clerks who could produce their letters of orders or a
 certificate of ordination. To prevent a second claim it was the practice
-to brand murderers with the letter M, and other felons with the Tyburn
-T, and Ben Jonson was in 1598 so marked for manslaughter.
+to [[Brand|brand]] murderers with the letter M, and other felons with the Tyburn
+T, and [[Ben]] [[Jonson]] was in 1598 so marked for manslaughter.
 
 The reign of Henry VIII. was marked by extreme severity in the execution
 of criminals--as during this time 72,000 persons are said to have been
@@ -248,10 +248,10 @@ severity of the law was mitigated by the practice of reprieving persons
 sentenced to death on condition of their consenting to be transported to
 the American colonies, and to enter into bond service there. The
 practice seems to have been borrowed from Spain, and to have been begun
-in 1597 (39 Eliz. c. 4). It was applied by Cromwell after his campaign
+in 1597 (39 Eliz. c. 4). It was applied by [[Cromwell]] after his campaign
 in Ireland, and was in full force immediately after the Restoration, and
-is recognized in the Habeas Corpus Act 1677, and was used for the
-Cameronians during Claverhouse's campaign in south-west Scotland. In the
+is recognized in the [[Habeas Corpus]] Act 1677, and was used for the
+[[Cameronians]] during Claverhouse's campaign in south-west Scotland. In the
 18th century the courts were empowered to sentence felons to
 transportation (see DEPORTATION) instead of to execution, and this state
 of the law continued until 1857 (6 _Law Quarterly Review_, p. 388). This
@@ -277,15 +277,15 @@ self-defence to cut off that man who has shown a disregard for the life
 of another. Against such all nature rises in arms; but it is not so
 against him who steals my property." He adds later: "When by
 indiscriminate penal laws the nation beholds the same punishment affixed
-to dissimilar degrees of guilt, the people are led to lose all sense of
-distinction in the crime, and this distinction is the bulwark of all
+to dissimilar degrees of [[Guilt|guilt]], the people are led to lose all sense of
+distinction in the crime, and this distinction is the [[Bulwark|bulwark]] of all
 morality."
 
-The opinion expressed by Goldsmith was strongly supported by Bentham,
-Romilly, Basil Montaguand Mackintosh in England, and resulted in
+The opinion expressed by Goldsmith was strongly supported by [[Bentham]],
+Romilly, [[Basil]] Montaguand Mackintosh in England, and resulted in
 considerable mitigation of the severity of the law. In 1800 over 200 and
 in 1819 about 180 crimes were capital. As the result of the labour of
-these eminent men and their disciples, and of Sir Robert Peel, there are
+these eminent men and their [[Disciple|disciples]], and of Sir Robert Peel, there are
 now only four crimes (other than offences against military law or naval
 discipline) capitally punishable in England--high treason, murder,
 piracy with violence, and destruction of public arsenals and dockyards
@@ -323,7 +323,7 @@ servitude for life.
 
 In Scotland capital punishment can be imposed only for treason, murder
 and offences against 10 Geo. IV. c. 38, i.e., wilful shooting, stabbing,
-strangling or throwing corrosives with intent to murder, maim,
+strangling or throwing corrosives with [[Intent|intent]] to murder, maim,
 disfigure, disable, or do grievous bodily harm, in all cases where if
 death had ensued the offence would have been murder. Prior to 1887 rape,
 robbery, wilful fire-raising and incest, and many other crimes, were
@@ -342,11 +342,11 @@ sentences are rarely if ever passed where an ordinary court is within
 reach, or except in time of war. The offences extend from traitorous
 communication with the enemy and cowardice on the field to falling
 asleep while acting as a sentinel on active service. It is for the
-authority confirming a sentence of death by court-martial to direct the
+authority confirming a sentence of death by [[Court-Martial|court-martial]] to direct the
 mode of execution, which both in the British and United States armies is
 usually by shooting or hanging. During the Indian Mutiny some mutineers
-were executed by being blown from the mouth of cannon. As to the history
-of military punishments see Clode, _Military and Martial Law_.
+were executed by being blown from the mouth of [[Cannon|cannon]]. As to the history
+of military punishments see Clode, _Military and [[Martial]] Law_.
 
 _British Colonies and Possessions_.--Under the Indian Penal Code
 sentence of death may be passed for waging war against the king (s. 121)
@@ -363,7 +363,7 @@ Code of 1899.
 
 Under the Canadian Criminal Code of 1892 the death sentence may be
 imposed for treason (s. 657), murder (s. 231), rape (s. 267), piracy
-with violence (s. 127), and upon subjects of a friendly power who levy
+with violence (s. 127), and upon subjects of a friendly power who [[Levy|levy]]
 war on the king in Canada (s. 68). But the judge is bound by statute to
 report on all death sentences, and the date of execution is fixed so as
 to give time for considering the report. The sentence is executed by
@@ -371,14 +371,14 @@ hanging. In South Africa the criminal law is based on the Roman-Dutch
 law, under which capital punishment is liable for treason (_crimen
 perduellionis_ or _laesae majestatis_), murder and rape (van Lecuwen, c.
 36). In the Cape Colony rape is still capital (_R. v. Nonosi_, 1885; 1
-Buchanan, 1898). In Natal rape may be punished by hanging (act no. 22,
+[[Buchanan]], 1898). In Natal rape may be punished by hanging (act no. 22,
 1898). Though the Roman-Dutch modes of executing the sentence by
 decapitation or breaking on the wheel have not been formally abolished,
 in practice the sentence in the Cape Colony is executed by hanging. In
 the Transvaal hanging is now the sole mode of executing capital
 punishment (Criminal Procedure Code, 1903, s. 244). The Roman-Dutch law
 as to crime and punishments has been superseded in Ceylon and British
-Guiana by ordinance.
+[[Guiana]] by ordinance.
 
 _Austria-Hungary_.--In Austria capital punishment was in 1787 for a time
 abolished, but was reintroduced in 1795 for high treason, and in 1803
@@ -404,17 +404,17 @@ graver cases of murder. The sentence is executed by hanging.
   |   (explosives law, s. 4)    |           |          |           |          |           |          |
   +-----------------------------+-----------+----------+-----------+----------+-----------+----------+
 
-_Belgium_.--Under the Belgian Penal Code of 1867 the death penalty is
+_[[Belgium]]_.--Under the Belgian Penal Code of 1867 the death penalty is
 retained for certain forms of high treason, and for assassination and
 parricide by poisoning. It may not be pronounced on a person under
-eighteen. The sentence is executed publicly by the guillotine. No
+eighteen. The sentence is executed publicly by the [[Guillotine|guillotine]]. No
 execution seems to have taken place since 1863.
 
-_Denmark_.--Sentence of death may be imposed for most forms of high
+_[[Denmark]]_.--Sentence of death may be imposed for most forms of high
 treason, aggravated cases of murder, rape and piracy. It is executed
 publicly by the axe. Offenders under eighteen are not liable.
 
-_Finland_.--In Finland the death penalty is alleged not to have been
+_[[Finland]]_.--In Finland the death penalty is alleged not to have been
 inflicted since 1824. It may be imposed for the assassination of the
 grand duke or grand duchess or the head of a friendly state, and wilful
 murder of other persons.
@@ -433,12 +433,12 @@ defeating the capital sentence by finding extenuating circumstances in
 more than seven-eighths of the cases, which compels the court to reduce
 the punishment by one or more degrees, i.e. below the penalty of death.
 And in recent times the prerogative of mercy has been continually
-exercised by the president, even in gross cases where public opinion
+exercised by the president, even in [[Gross|gross]] cases where public opinion
 demanded the extreme penalty. The sentence is executed in public by the
 guillotine.
 
 _Germany_.--In many of the states of Germany capital punishment had been
-abolished (Brunswick, Coburg, Nassau, Oldenburg in 1849; Saxe-Meiningen,
+abolished (Brunswick, [[Coburg]], Nassau, Oldenburg in 1849; Saxe-Meiningen,
 Saxe-Weimar, 1862; Baden, 1863; Saxony, 1868). But it has been restored
 by the Imperial Criminal Code of 1872, in the case of attempts on the
 life of the emperor, or of the sovereign of any federal state in which
@@ -453,13 +453,13 @@ in the Penal Code of 1886.
 
 _Italy_.--Capital punishment was abolished in Tuscany as far back as
 1786, and from Italy has come the chief opposition to the death penalty,
-originated by Beccaria, and supported by many eminent jurists. Under the
+originated by [[Beccaria]], and supported by many eminent jurists. Under the
 Penal Code of 1888 the death penalty was abrogated for all crimes, even
 for regicide. The cases of homicide in Italy are very numerous compared
 with those in England, amounting in 1905 to 105 per million as compared
 with 27 per million in the United Kingdom.
 
-_Japan_.--The penalty of death is executed by hanging within a prison.
+_[[Japan]]_.--The penalty of death is executed by hanging within a prison.
 It may be imposed for executing or contriving acts of violence against
 the mikado or certain of his family, and for seditious violence with the
 object of seizing the territory or subverting the government or laws of
@@ -469,7 +469,7 @@ wilful murder in the first degree.
 
 _Norway_.--Under Norwegian law, up to 1905, sentence of death might be
 passed for murder with premeditation, but the court might as an
-alternative decree penal servitude for life. Sentence of death had also
+alternative [[Decree|decree]] penal servitude for life. Sentence of death had also
 to be passed in cases where a person under sentence of penal servitude
 for life committed murder or culpable homicide, or caused bodily
 injuries in circumstances warranting a sentence of penal servitude for
@@ -487,7 +487,7 @@ _Russia_.--In 1750, under the empress Elizabeth, capital punishment was
 abolished; but it was restored later and was freely inflicted, the
 sentence being executed by shooting, beheading or hanging. According to
 a Home Office Return in England in 1907 the death penalty is abolished,
-except in cases where the lives of the emperor, empress or heir to the
+except in cases where the lives of the emperor, empress or [[Heir|heir]] to the
 throne are concerned.
 
 _Spain_.--Under the Spanish Penal Code of 1870 the following crimes are
@@ -510,13 +510,13 @@ parliament.
 _Switzerland_.--Capital punishment was abolished in Switzerland in 1874
 by Federal legislation; but in 1879, in consequence of a plebiscite,
 each canton was empowered to restore the death penalty for offences in
-its territory. The Federal government was unwilling to take this course,
+its territory. The [[Federal Government|Federal government]] was unwilling to take this course,
 but was impelled to it by the fact that, between 1874 and 1879, cases of
 premeditated murder had considerably increased. Seven of the cantons out
 of twenty-two have exercised the power given to restore capital
 punishment. But there do not seem to have been any cases in which the
 death penalty has been inflicted; and on the assassination of the
-empress of Austria at Geneva in 1898 it was found that the laws of the
+empress of Austria at [[Geneva]] in 1898 it was found that the laws of the
 canton did not permit the execution of the assassin. The canton of Zug
 imposes the lowest minimum penalty known, i.e. three years' imprisonment
 for wilful homicide, the maximum being imprisonment for life.
@@ -528,30 +528,30 @@ punishment of crime is regulated by the laws of the constituent states
 of the Union.
 
 The death penalty was abolished in Michigan in 1846 except for treason,
-and wholly in Wisconsin in 1853. In Maine it was abolished in 1876,
+and wholly in Wisconsin in 1853. In [[Maine]] it was abolished in 1876,
 re-enacted in 1883, and again abolished in 1887. In Rhode Island it was
 abolished in 1852, but restored in 1882, only in case of murder
 committed by a person under sentence of imprisonment for life (Laws,
 1896, c. 277, s. 2). In all the other states the death penalty may still
-be inflicted: in Alabama, Delaware, Georgia, Maryland, and West
+be inflicted: in Alabama, [[Delaware]], [[Georgia]], Maryland, and West
 Virginia, for treason, murder, arson and rape; in Alaska, Arizona,
-Kansas, New Jersey, Mississippi, Montana, New York, North Dakota,
+Kansas, New [[Jersey]], Mississippi, Montana, New York, North Dakota,
 Oregon, and South Dakota, for treason and murder; in Colorado, Idaho,
-Illinois, Iowa, Massachusetts, Minnesota, Nebraska, New Hampshire, New
+Illinois, Iowa, Massachusetts, Minnesota, Nebraska, New [[Hampshire]], New
 Mexico, Nevada, Ohio, Oklahoma, Pennsylvania, Utah and Wyoming, for
-murder only; in Kentucky and Virginia, for treason, murder and rape; in
-Vermont, for treason, murder and arson; in Indiana, for treason, murder,
+murder only; in [[Kentucky]] and Virginia, for treason, murder and rape; in
+Vermont, for treason, murder and arson; in [[Indiana]], for treason, murder,
 and for arson if death result; in California, for treason, murder and
 train-wrecking; in North Carolina, for murder, rape, arson and burglary;
 in Florida, Missouri, South Carolina, Tennessee and Texas, for murder
-and rape; in Arkansas and Louisiana, for treason, murder, rape, and
+and rape; in Arkansas and [[Louisiana]], for treason, murder, rape, and
 administering poison or use of dangerous weapons with intent to murder.
-Louisiana is cited by Girardin (_le droit de punir_) as a state in which
+Louisiana is cited by Girardin (_le [[Droit|droit]] de punir_) as a state in which
 the death penalty was abolished in 1830. Under the influence of the
-eminent jurist, E. Livingston, who framed the state codes, the
+eminent jurist, E. [[Livingston]], who framed the state codes, the
 legislature certainly passed a resolution against capital punishment.
 But since as early as 1846 it has been there lawful, subject to a power
-given to the jury, to bring in a verdict of guilty, "but no capital
+given to the [[Jury|jury]], to bring in a verdict of guilty, "but no capital
 punishment," which had the effect of imposing a sentence of hard labour
 for life. In certain states the jury has, under local legislation, the
 right to award the sentence. The constitutionality of such legislation
@@ -595,7 +595,7 @@ for the comparatively small number of convictions for murder seem to be:
 (1) that court and jury in a capital case lean _in favorem vitae_, and
 if the offence falls short of the full gravity of murder, conviction for
 manslaughter only results; (2) that in the absence of a statutory
-classification of the degrees of murder, the prerogative of mercy is
+[[Classification|classification]] of the degrees of murder, the prerogative of mercy is
 exercised in cases falling short of the highest degree of gravity
 recognized by lawyers and by public opinion; (3) that where the
 conviction rests on circumstantial evidence the sentence is not executed
@@ -608,12 +608,12 @@ recklessly free in returning inquisitions of murder without any evidence
 which would warrant the conviction of the person accused.
 
 The medical doctrine, and that of Lombroso with respect to criminal
-atavism and irresponsibility, have probably tended to incline the public
+[[Atavism|atavism]] and irresponsibility, have probably tended to incline the public
 mind in favour of capital punishment, and Sir James Stephen and other
 eminent jurists have even been thereby tempted to advocate the execution
 of habitual criminals. It certainly seems strange that the community
 should feel bound carefully to preserve and tend a class of dangerous
-lunatics, and to give them, as Charles Kingsley says, "the finest air in
+lunatics, and to give them, as Charles [[Kingsley]] says, "the finest air in
 England and the right to kill two gaolers a week."
 
 The whole question of capital punishment in the United Kingdom was
@@ -641,7 +641,7 @@ abolition--since carried out--of public executions.
   _History of Crime_; Sir J.F. Stephen, _History of Crime in England_;
   S. Walpole, _History of England_, vol. i. p. 191; vol. iv. p. 74;
   Andrews' _Old Time Punishments; A Century of Law Reform_ (London,
-  1901); Lecture ii. by Sir H.B. Poland; Howard Association
+  1901); Lecture ii. by Sir H.B. Poland; [[Howard]] Association
   Publications.     (W. F. C.)
 
 
@@ -652,17 +652,17 @@ was born of humble parentage at Hagenau in Alsace. He was educated for
 the medical profession, but also studied law, and applied himself so
 earnestly to theology that he received the doctorate in that faculty
 also, and, having joined the Benedictines, taught for some time at
-Freiburg. He acted for three years as pastor in Bruchsal, and was then
-called to the cathedral church of Basel (1515). Here he made the
+[[Freiburg]]. He acted for three years as pastor in Bruchsal, and was then
+called to the cathedral church of [[Basel]] (1515). Here he made the
 acquaintance of Zwingli and began to correspond with Luther. In 1519 he
-removed to Mainz at the request of Albrecht, archbishop of that city,
+removed to [[Mainz]] at the request of Albrecht, archbishop of that city,
 who soon made him his chancellor. In 1523 he settled at Strassburg,
 where he remained till his death in November 1541. He had found it
 increasingly difficult to reconcile the new religion with the old, and
 from 1524 was one of the leaders of the reformed faith in Strassburg. He
 took a prominent part in the earlier ecclesiastical transactions of the
 16th century, was present at the second conference of Zurich and at the
-conference of Marburg, and along with Martin Bucer drew up the
+conference of [[Marburg]], and along with [[Martin]] [[Bucer]] drew up the
 _Confessio Tetrapolitana_. Capito was always more concerned for the
 "unity of the spirit" than for dogmatic formularies, and from his
 endeavours to conciliate the Lutheran and Zwinglian parties in regard to

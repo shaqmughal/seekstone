@@ -23,13 +23,13 @@ afterwards respited till the judgment day (Koran vii. 13).
 
 
 IBN 'ABD RABBIHI [Abu 'Umar Ahmad ibn Mahommed ibn 'Abd Rabbihi]
-(860-940), Arabian poet, was born in Cordova and descended from a freed
+(860-940), Arabian poet, was born in [[Cordova]] and descended from a freed
 slave of Hisham, the second Spanish Omayyad caliph. He enjoyed a great
 reputation for learning and eloquence. No diwan of his is extant, but
 many selections from his poems are given in the _Yatimat ud-Dahr_, i.
-412-436 (Damascus, 1887). More widely known than his poetry is his great
+412-436 ([[Damascus]], 1887). More widely known than his poetry is his great
 anthology, the _'Iqd ul-Farid_ ("The Precious Necklace"), a work divided
-into twenty-five sections, the thirteenth being named the middle jewel
+into twenty-five sections, the thirteenth being named the middle [[Jewel|jewel]]
 of the necklace, the chapters on either side of this being named after
 other jewels. It is an _adab_ book (see ARABIA: _Literature_, section
 "Belles Lettres") resembling Ibn Qutaiba's _'Uyun ul-Akhbar_, from which
@@ -51,7 +51,7 @@ God himself. Of his numerous works about 150 still exist. The most
 extensive is the twelve-volume _Futuhat ul-Makkiyat_ ("Meccan
 Revelations"), a general encyclopaedia of Sufic beliefs and doctrines.
 Numerous extracts from this work are contained in Sha'rani's (d. 1565)
-manual of Sufic dogma (_Yawaqit_) published several times in Cairo. A
+[[Manual|manual]] of Sufic dogma (_Yawaqit_) published several times in Cairo. A
 short account of these works is given in A. von Kremer's _Geschichte der
 herrschenden Ideen des Islams_, pp. 102-109 (Leipzig, 1868). Another
 characteristic and more accessible work of Ibn 'Arabi is the _Fusus
@@ -63,7 +63,7 @@ _Journal of German Oriental Society_, lii. 516-525.
   Of some 289 works said to have been written by Ibn 'Arabi 150 are
   mentioned in C. Brockelmann's _Gesch. der arabischen Litteratur_, vol.
   i. (Weimar, 1898), pp. 441-448. See also R. A. Nicholson, _A Literary
-  History of the Arabs_, pp. 399-404 (London, 1907).     (G. W. T.)
+  History of the [[Arabs]]_, pp. 399-404 (London, 1907).     (G. W. T.)
 
 ## References
 

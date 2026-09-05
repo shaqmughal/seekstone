@@ -6,14 +6,14 @@ at the Ecole Polytechnique, Paris, and, after a period of mental
 struggle which he has described in _Souvenirs de ma jeunesse_, he was
 ordained priest in 1832. After a stay at Strassburg as professor of the
 Petit Seminaire, he was appointed director of the College Stanislas in
-Paris in 1842 and, in 1847, chaplain of the Ecole Normale Superieure. He
-became vicar-general of Orleans in 1861, professor of ethics at the
+Paris in 1842 and, in 1847, [[Chaplain|chaplain]] of the Ecole Normale Superieure. He
+became vicar-general of Orleans in 1861, professor of [[Ethics|ethics]] at the
 Sorbonne in 1862, and, on the death of Barante, a member of the French
 Academy in 1867, where he occupied the seat formerly held by Voltaire.
 Together with M. Petetot, _cure_ of Saint Roch, he reconstituted the
-Oratory of the Immaculate Conception, a society of priests mainly
+Oratory of the [[Immaculate Conception]], a society of priests mainly
 devoted to education. Gratry was one of the principal opponents of the
-definition of the dogma of papal infallibility, but in this respect he
+[[Definition|definition]] of the dogma of papal [[Infallibility|infallibility]], but in this respect he
 submitted to the authority of the Vatican Council. He died at Montreux
 in Switzerland on the 6th of February 1872.
 
@@ -24,7 +24,7 @@ in Switzerland on the 6th of February 1872.
   lettres a M. Renan_ (1864); _Les Sophistes et la critique_ (in
   controversy with E. Vacherot) (1864); _La Morale et la loi de
   l'histoire_, setting forth his social views (1868); _Mgr. l'eveque
-  d'Orleans et Mgr. l'archeveque de Malines_ (1869), containing a clear
+  d'Orleans et Mgr. l'archeveque de [[Malines]]_ (1869), containing a clear
   exposition of the historical arguments against the doctrine of papal
   infallibility. There is a selection of Gratry's writings and
   appreciation of his style by the Abbe Pichot, in _Pages choisies des
@@ -32,7 +32,7 @@ in Switzerland on the 6th of February 1872.
   the critical study by the oratorian A. Chauvin, _L'Abbe Gratry_
   (1901); _Le Pere Gratry_ (1900), and _Les Derniers Jours du Pere
   Gratry et son testament spirituel_, (1872), by Cardinal Adolphe
-  Perraud, Gratry's friend and disciple.
+  Perraud, Gratry's friend and [[Disciple|disciple]].
 
 ## See also
 

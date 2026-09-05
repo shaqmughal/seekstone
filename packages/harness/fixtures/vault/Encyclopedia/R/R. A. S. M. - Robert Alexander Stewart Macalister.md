@@ -4,7 +4,7 @@ R. A. S. M. - ROBERT ALEXANDER STEWART MACALISTER, M.A., F.S.A.
 St John's College, Cambridge. Director of Excavations for the Palestine
 Exploration Fund. Joint author of _Excavations in Palestine, 1898-1900._
 
-- Bashan; Bethlehem.
+- [[Bashan]]; Bethlehem.
 
 ## See also
 

@@ -10,11 +10,11 @@ KOSCIUSZKO, TADEUSZ ANDRZEJ BONAWENTURA (1746-1817), Polish soldier and
 statesman, the son of Ludwik Kosciuszko, sword-bearer of the palatinate
 of Brzesc, and Tekla Ratomska, was born in the village of
 Mereczowszczyno. After being educated at home he entered the corps of
-cadets at Warsaw, where his unusual ability and energy attracted the
+[[Cadet|cadets]] at Warsaw, where his unusual ability and energy attracted the
 notice of Prince Adam Casimir Czartoryski, by whose influence in 1769 he
 was sent abroad at the expense of the state to complete his military
 education. In Germany, Italy and France he studied diligently,
-completing his course at Brest, where he learnt fortification and naval
+completing his course at [[Brest]], where he learnt fortification and naval
 tactics, returning to Poland in 1774 with the rank of captain of
 artillery. While engaged in teaching the daughters of the Grand Hetman,
 Sosnowski of Sosnowica, drawing and mathematics, he fell in love with
@@ -31,7 +31,7 @@ in the New World. In 1776 he entered the army of the United States as a
 volunteer, and brilliantly distinguished himself, especially during the
 operations about New York and at Yorktown. Washington promoted
 Kosciuszko to the rank of a colonel of artillery and made him his
-adjutant. His humanity and charm of manner made him moreover one the
+adjutant. His humanity and [[Charm|charm]] of manner made him moreover one the
 most popular of the American officers. In 1783 Kosciuszko was rewarded
 for his services and his devotion to the cause of American independence
 with the thanks of Congress, the privilege of American citizenship, a
@@ -53,7 +53,7 @@ introduction from the French agent Perandier, Kosciuszko went on a
 political mission to Paris to induce the revolutionary government to
 espouse the cause of Poland. In return for assistance he promised to
 make the future government of Poland as close a copy of the French
-government as possible; but the Jacobins, already intent on detaching
+government as possible; but the [[Jacobins]], already [[Intent|intent]] on detaching
 Prussia from the anti-French coalition, had no serious intention of
 fighting Poland's battles. The fact that Kosciuszko's visit synchronized
 with the execution of Louis XVI. subsequently gave the enemies of Poland
@@ -89,14 +89,14 @@ Kosciuszko remained at Cracow organizing his forces. On the 3rd of April
 at Raclawice, with 4000 regulars, and 2000 peasants armed only with
 scythes and pikes, and next to no artillery, he defeated the Russians,
 who had 5000 veterans and 30 guns. This victory had an immense moral
-effect, and brought into the Polish camp crowds of waverers to what had
+effect, and brought into the Polish camp [[Crowd|crowds]] of waverers to what had
 at first seemed a desperate cause. For the next two months Kosciuszko
 remained on the defensive near Sandomir. He durst not risk another
 engagement with the only army which Poland so far possessed, and he had
 neither money, officers nor artillery. The country, harried incessantly
 during the last two years, was in a pitiable condition. There was
 nothing to feed the troops in the very provinces they occupied, and
-provisions had to be imported from Galicia. Money could only be obtained
+provisions had to be imported from [[Galicia]]. Money could only be obtained
 by such desperate expedients as the melting of the plate of the churches
 and monasteries, which was brought in to Kosciuszko's camp at Pinczow
 and subsequently coined at Warsaw, minus the royal effigy, with the
@@ -108,7 +108,7 @@ to depend on the valour of his scythemen. But in the month of April the
 whole situation improved. On the 17th of that month the 2000 Polish
 troops in Warsaw expelled the Russian garrison after days of street
 fighting, chiefly through the ability of General Mokronowski, and a
-provisional government was formed. Five days later Jakob Jasinski drove
+provisional government was formed. Five days later [[Jakob]] Jasinski drove
 the Russians from Wilna.
 
 By this time Kosciuszko's forces had risen to 14,000, of whom 10,000
@@ -133,7 +133,7 @@ were seriously wounded. A week later another Polish division was
 defeated at Kholm; Cracow was taken by the Prussians on the 22nd of
 June; and the mob at Warsaw broke upon the gaols and murdered the
 political prisoners in cold blood. Kosciuszko summarily punished the
-ringleaders of the massacres and had 10,000 of the rank and file drafted
+ringleaders of the [[Massacre|massacres]] and had 10,000 of the rank and file drafted
 into his camp, which measures had a quieting effect. But now dissensions
 broke out among the members of the Polish government, and it required
 all the tact of Kosciuszko to restore order amidst this chaos of
@@ -145,14 +145,14 @@ men and 74 guns, while a third force of 11,000 occupied the right bank
 of the Vistula. Kosciuszko for the defence of the city and its outlying
 fortifications could dispose of 35,000 men, of whom 10,000 were
 regulars. But the position, defended by 200 inferior guns, was a strong
-one, and the valour of the Poles and the engineering skill of
+one, and the valour of the Poles and the [[Engineering|engineering]] skill of
 Kosciuszko, who was now in his element, frustrated all the efforts of
 the enemy. Two unsuccessful assaults were made upon the Polish positions
 on the 26th of August and the 1st of September, and on the 6th the
 Prussians, alarmed by the progress of the Polish arms in Great Poland,
 where Jan Henryk Dabrowski captured the Prussian fortress of Bydogoszcz
 and compelled General Schwerin with his 20,000 men to retire upon
-Kalisz, raised the siege. Elsewhere, indeed, after a brief triumph the
+[[Kalisz]], raised the siege. Elsewhere, indeed, after a brief triumph the
 Poles were everywhere worsted, and Suvarov, after driving them before
 him out of Lithuania was advancing by forced marches upon Warsaw. Even
 now, however, the situation was not desperate, for the Polish forces
@@ -181,13 +181,13 @@ At the Congress of Vienna his importunities on behalf of Poland finally
 wearied Alexander, who preferred to follow the counsels of Czartoryski;
 and Kosciuszko retired to Solothurn, where he lived with his friend
 Zeltner. Shortly before his death, on the 2nd of April 1817, he
-emancipated his serfs, insisting only on the maintenance of schools on
+emancipated his serfs, insisting only on the [[Maintenance|maintenance]] of schools on
 the liberated estates. His remains were carried to Cracow and buried in
 the cathedral; while the people, reviving an ancient custom, raised a
 huge mound to his memory near the city.
 
 Kosciuszko was essentially a democrat, but a democrat of the school of
-Jefferson and Lafayette. He maintained that the republic could only be
+[[Jefferson]] and Lafayette. He maintained that the republic could only be
 regenerated on the basis of absolute liberty and equality before the
 law; but in this respect he was far in advance of his age, and the
 aristocratic prejudices of his countrymen compelled him to resort to
@@ -197,7 +197,7 @@ Raczynski's _Sketch of the Poles and Poland_ (Posen, 1843).
 
   See Jozef Zajaczek, _History of the Revolution of_ 1794 (Pol.)
   (Lemberg, 1881); Leonard Jakob Borejko Chodzko, _Biographie du général
-  Kosciuszko_ (Fontainebleau, 1837); Karol Falkenstein, _Thaddäus
+  Kosciuszko_ ([[Fontainebleau]], 1837); Karol Falkenstein, _Thaddäus
   Kosciuszko_ (2nd ed., Leipzig, 1834; French ed., Paris, 1839); Antoni
   Choloniewski, _Tadeusz Kosciuszko_ (Pol.) (Lemberg, 1902); Franciszek
   Rychlicki, _T. Kosciuszko and the Partition of Poland_ (Pol.) (Cracow,
@@ -207,7 +207,7 @@ Raczynski's _Sketch of the Poles and Poland_ (Posen, 1843).
 
 
 KÖSEN, a village and summer resort of Germany, in the Prussian province
-of Saxony, 33 m. by rail S. by W. of Halle, on the Saale. Pop. (1905),
+of Saxony, 33 m. by rail S. by W. of [[Halle]], on the Saale. Pop. (1905),
 2990. The town has a mineral spring, which is used for bathing, being
 efficacious for rheumatism and other complaints. Kösen, which became a
 town in 1869, has large mill-works; it has a trade in wood and wine. On

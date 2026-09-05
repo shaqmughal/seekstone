@@ -2,7 +2,7 @@
 
 JUGGERNAUT, a corruption of Sans. JAGANNATHA, "Lord of the World," the
 name under which the Hindu god Vishnu is worshipped at Puri in Orissa.
-The legend runs that the sacred blue-stone image of Jagannatha was
+The legend runs that the sacred blue-stone [[Image|image]] of Jagannatha was
 worshipped in the solitude of the jungle by an outcast, a Savara
 mountaineer, called Basu. The king of Malwa, Indradyumna, had despatched
 Brahmans to all quarters of the peninsula, and at last discovered Basu.
@@ -12,13 +12,13 @@ sterling. The site had been associated for centuries before and after
 the Christian era with Buddhism, and the famous Car festival is probably
 based on the Tooth festival of the Buddhists, of which the Chinese
 pilgrim Fa-Hien gives an account. The present temple is a pyramidal
-building, 192 ft. high, crowned with the mystic wheel and flag of
+building, 192 ft. high, crowned with the mystic wheel and [[Flag|flag]] of
 Vishnu. Its inner enclosure, nearly 400 ft. by 300 ft., contains a
 number of small temples and shrines. The main temple has four main
 rooms--the hall of offerings, the dancing hall, the audience chamber,
 and the shrine itself--the two latter being each 80 ft. square. The
 three principal images are those of Vishnu, his brother and his sister,
-grotesque wooden figures roughly hewn. Elaborate services are daily
+[[Grotesque|grotesque]] wooden figures roughly hewn. Elaborate services are daily
 celebrated all the year round, the images are dressed and redressed, and
 four meals a day are served to them. The attendants on the god are
 divided into 36 orders and 97 classes. Special servants are assigned the

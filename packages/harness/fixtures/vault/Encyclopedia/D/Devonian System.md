@@ -13,7 +13,7 @@ period, that is, in the interval of time between the close of the
 Silurian period and the beginning of the Carboniferous; it includes the
 marine Devonian and an estuarine Old Red Sandstone series of strata. The
 name "Devonian" was introduced in 1829 by Sir R. Murchison and A.
-Sedgwick to describe the older rocks of Cornwall and Devon which W.
+Sedgwick to describe the older rocks of [[Cornwall]] and Devon which W.
 Lonsdale had shown, from an examination of the fossils, to be
 intermediate between the Silurian and Carboniferous. The same two
 workers also carried on further researches upon the same rocks of the
@@ -22,43 +22,43 @@ were endeavouring to elucidate the succession of strata in this portion
 of the "Transition Series." The labours of these earlier workers,
 including in addition to those already mentioned, the brothers F. and G.
 von Sandberger, A. Dumont, J. Gosselet, E. J. A. d'Archiac, E. P. de
-Verneuil and H. von Dechen, although somewhat modified by later
-students, formed the foundation upon which the modern classification of
+Verneuil and H. von [[Dechen]], although somewhat modified by later
+students, formed the foundation upon which the modern [[Classification|classification]] of
 the Devonian rocks is based.
 
 [Illustration: Distribution of Devonian Rocks]
 
                    _Stratigraphy of the Devonian Facies._
 
-  Notwithstanding the fact that it was in Devonshire and Cornwall that
+  Notwithstanding the fact that it was in [[Devonshire]] and Cornwall that
   the Devonian rocks were first distinguished, it is in central Europe
   that the succession of strata is most clearly made out, and here, too,
   their geological position was first indicated by the founders of the
   system, Sedgwick and Murchison.
 
   _Continental Europe._--Devonian rocks occupy a large area in the
-  centre of Europe, extending from the Ardennes through the south of
-  Belgium across Rhenish Prussia to Darmstadt. They are best known from
-  the picturesque gorges which have been cut through them by the Rhine
+  centre of Europe, extending from the [[Ardennes]] through the south of
+  [[Belgium]] across Rhenish Prussia to Darmstadt. They are best known from
+  the picturesque [[Gorges|gorges]] which have been cut through them by the Rhine
   below Bingen and by the Moselle below Treves. They reappear from under
   younger formations in Brittany, in the Harz and Thuringia, and are
   exposed in Franconia, Saxony, Silesia, North Moravia and eastern
-  Galicia. The principal subdivisions of the system in the more typical
+  [[Galicia]]. The principal subdivisions of the system in the more typical
   areas are indicated in Table I.
 
   This threefold subdivision, with a central mass of calcareous strata,
   is traceable westwards through Belgium (where the Calcaire de Givet
-  represents the _Stringocephalus_ limestone of the Eifel) and eastwards
+  represents the _Stringocephalus_ [[Limestone|limestone]] of the [[Eifel]]) and eastwards
   into the Harz. The rocks reappear with local petrographical
   modifications, but with a remarkable persistence of general
   palaeontological characters, in Eastern Thuringia, Franconia, Saxony,
   Silesia, the north of Moravia and East Galicia. Devonian rocks have
   been detected among the crumpled rocks of the Styrian Alps by means of
-  the evidence of abundant corals, cephalopods, gasteropods,
+  the evidence of abundant [[Coral|corals]], cephalopods, gasteropods,
   lamellibranchs and other organic remains. Perhaps in other tracts of
   the Alps, as well as in the Carpathian range, similar shales,
-  limestones and dolomites, though as yet unfossiliferous, but
-  containing ores of silver, lead, mercury, zinc, cobalt and other
+  limestones and [[Dolomite|dolomites]], though as yet unfossiliferous, but
+  containing ores of silver, lead, mercury, zinc, [[Cobalt|cobalt]] and other
   metals, may be referable to the Devonian system.
 
   In the centre of Europe, therefore, the Devonian rocks consist of a
@@ -76,7 +76,7 @@ the Devonian rocks is based.
   especially in the Eifel, but seldom in such a state of preservation as
   to warrant their being assigned to any definite place in the
   zoological scale. Subsequently, however, E. Beyrich has described from
-  Gerolstein in the Eifel an undoubted species of _Pterichthys_, which,
+  [[Gerolstein]] in the Eifel an undoubted species of _Pterichthys_, which,
   as it cannot be certainly identified with any known form, he names _P.
   Rhenanus_. A _Coccosteus_ has been described by F. A. Roemer from the
   Harz, and still later one has been cited from Bicken near Herborn by
@@ -104,7 +104,7 @@ the Devonian rocks is based.
   of the strata. Like the Silurian formations described elsewhere, they
   remain to this day nearly as flat and unaltered as they were
   originally laid down. Judged by mere vertical depth, they present but
-  a meagre representative of the massive Devonian greywacke and
+  a meagre representative of the massive Devonian [[Greywacke|greywacke]] and
   limestone of Germany, or of the Old Red Sandstone of Britain. Yet vast
   though the area is over which they form the surface rock, it is
   probably only a small portion of their total extent; for they are
@@ -132,15 +132,15 @@ the Devonian rocks is based.
  D /   +-------------+-------------------+------------------------------+--------------+-----------------+-----------------+
  E \   |             | Slates of         | Adorf limestone of Waldeck   | Limestone of |                 | Iberg limestone |
  V  |  |             |  Matagne.         |  and shales with Goniatites  |  Cop-Choux   |                 |  and Winterberg |
- O  |  | Frasnien    | Limestones, marls |  (Eifel and Aix) =           |  and green   |                 |  limestone;     |
+ O  |  | Frasnien    | Limestones, [[Marl|marls]] |  (Eifel and Aix) =           |  and green   |                 |  limestone;     |
  N  |  |(Intumesce-  |  and shale of     |  Budesheimer shales.         |  slates of   |                 |  also Adorf     |
  I  |  | cens beds). |  Frasne, and      | Marls, limestone and dolomite|  Travuliors. |                 |  limestone and  |
- A  |  |             |  red marble of    |  with Rhynchonella cuboides  |              |                 |  shales         |
- N  |  |             |  Flanders.        |  (Flinz in part).            |              |                 |  (Budesheim).   |
+ A  |  |             |  red [[Marble|marble]] of    |  with Rhynchonella cuboides  |              |                 |  shales         |
+ N  |  |             |  [[Flanders]].        |  (Flinz in part).            |              |                 |  (Budesheim).   |
  .  |  |             |                   | Iberg limestone of Dillmulde.|              |                 |                 |
      \ +-------------+-------------------+------------------------------+--------------+-----------------+-----------------+
      / |             | Limestone of      | Stringocephalus limestone,   |Limestones    | H_{2} (of       | Stringocephalus |
- M  |  |             |  Givet.           |  ironstone of Brilon and     | of Chalonnes,|  Barrande) dark |  shales with    |
+ M  |  |             |  Givet.           |  ironstone of Brilon and     | of Chalonnes,|  [[Barrande]]) dark |  shales with    |
  I  |  |  Givérien   |                   |  Lahnmulde.                  | Montjean and |  plant-bearing  |  Flaser and     |
  D  |  |(Stringocep- |                   | Upper Lenne shales, crinoidal| l'Ecochère.  |  shales.        |  Knollenkalk.   |
  D  |  | halus beds).|                   |  limestone of Eifel, red     |              |                 | Wissenbach      |
@@ -158,7 +158,7 @@ the Devonian rocks is based.
  .  |  |             |                   |  Ballersbach limestone.      |              |  mottled Mnenian|                 |
      \ |             |                   |                              |              |  limestone.     |                 |
        +-------------+-------------------+------------------------------+--------------+-----------------+-----------------+
-     / | Coblentzien |Greywacke of       | Upper Coblentz slates.       | Limestones   |                 | Haupt quartzite |
+     / | Coblentzien |Greywacke of       | Upper Coblentz slates.       | Limestones   |                 | [[Haupt]] quartzite |
  L  |  |             |  Hierges.         | Red sandstone of Eifel,      |  of Erbray,  |                 |  (of Lossen) =  |
  O  |  |             |Shales and conglom-|  Coblentz quartzite, lower   |  Brulon, Viré|                 |  Rammelsberg    |
  W  |  |             | erate of Burnot   |  Coblentz slates.            |  and Néhou,  |                 |  slates, Schal- |
@@ -169,7 +169,7 @@ the Devonian rocks is based.
  E /   |             | of Montigny,      |                              |              |  Barrande.      |  and lime-      |
  V \   |             | sandstone of Anor.|                              |              | White Konjeprus |  stones.        |
  O  |  +-------------+-------------------+------------------------------+--------------+  Limestone with |                 |
- N  |  | Gédinnien   |Slates of St Hubert| Slates of Gédinne.           | Slates and   |  Hercynian      |                 |
+ N  |  | Gédinnien   |Slates of St [[Hubert]]| Slates of Gédinne.           | Slates and   |  Hercynian      |                 |
  I  |  |             | and Fooz, slates  |                              |  quartzites  |  fauna.         |                 |
  A  |  |             | of Mondrepuits,   |                              |  of Plou-    |                 |                 |
  N  |  |             | arkose of Weis-   |                              |  gastel.     |                 |                 |
@@ -194,7 +194,7 @@ the Devonian rocks is based.
   White Sea, the strata consist of sands and marls, and contain only
   fish remains. Traced through the Baltic provinces, they are found to
   pass into red and green marls, clays, thin limestones and sandstones,
-  with beds of gypsum. In some of the calcareous bands such fossils
+  with beds of [[Gypsum|gypsum]]. In some of the calcareous bands such fossils
   occur as _Orthis striatula_, _Spiriferina prisca_, _Leptaena
   productoides_, _Spirifer calcaratus_, _Spirorbis omphaloides_ and
   _Orthoceras subfusiforme_. In the higher beds _Holoptychius_ and other
@@ -242,7 +242,7 @@ the Devonian rocks is based.
   been a source of prolonged discussion among continental geologists. A
   similar fauna appears in Lower Devonian of Bohemia, in Brittany
   (limestone of Erbray) and in the Urals. The Upper Devonian of the Harz
-  passes up into the Culm.
+  passes up into the [[Culm]].
 
   In the eastern Thuringian Fichtelgebirge the upper division is
   represented by _Clymenia_ limestone and _Cypridina_ slates with Adorf
@@ -261,7 +261,7 @@ the Devonian rocks is based.
   upwards, in the sandy beds near the base Old Red Sandstone fishes
   (_Coccosteus_, &c.) are found. In France Devonian rocks are found well
   developed in Brittany, as indicated in the table, also in Normandy and
-  Maine; in the Boulonnais district only the middle and upper divisions
+  [[Maine]]; in the Boulonnais district only the middle and upper divisions
   are known. In south France in the neighbourhood of Cabrières, about
   Montpellier and in the Montagne Noire, all three divisions are found
   in a highly calcareous condition. Devonian rocks are recognized,
@@ -278,9 +278,9 @@ the Devonian rocks is based.
   possessing Hercynian features. The same features are observed in the
   Devonian of the Kougnetsk basin, and in Turkestan. Well-developed
   quartzites with slates and diabases are found south of Yarkand and
-  Khotan. Middle and Upper Devonian strata are widespread in China.
+  [[Khotan]]. Middle and Upper Devonian strata are widespread in China.
   Upper Devonian rocks are recorded from Persia, and from the Hindu Kush
-  on the right bank of the Chitral river.
+  on the right bank of the [[Chitral]] river.
 
   _England._--In England the original Devonian rocks are developed in
   Devon and Cornwall and west Somerset. In north Devonshire these rocks
@@ -297,7 +297,7 @@ the Devonian rocks is based.
           |    North Devon and West     |                               |
           |          Somerset.          |         South Devon.          |
           +-----------------------------+-------------------------------+
-        / | Pilton group. Grits, slates | Ashburton slates.             |
+        / | Pilton group. Grits, slates | [[Ashburton]] slates.             |
    U   |  |  and thin limestones.       | Livaton slates.               |
    P   |  | Baggy group. Sandstones     | Red and green Entomis slates  |
    P  <   |  and slates.                |  (Famennien).                 |
@@ -308,7 +308,7 @@ the Devonian rocks is based.
    M      +-----------------------------+-------------------------------+
    I    / | Ilfracombe slates with      | Torquay and Plymouth          |
    D   |  |  lenticles of limestone.    |  limestones and Ashprington   |
-   D  <   | Combe Martin grits and      |  volcanic series. (Givétien   |
+   D  <   | Combe [[Martin]] grits and      |  volcanic series. (Givétien   |
    L   |  |  slates.                    |  and Eifélien.)               |
    E   |  |                             | Slates and limestones of      |
    .    \ |                             |  Hope's Nose.                 |
@@ -316,7 +316,7 @@ the Devonian rocks is based.
    L    / | Hangman grits and slates.   | Looe beds (Cornwall).         |
    O   |  | Lynton group, grits and     | Meadfoot, Cockington and      |
    W  <   |  calcareous slates.         |  Warberry series of slates    |
-   E   |  | Foreland grits and slates.  |  and greywackes. (Coblentzien |
+   E   |  | [[Foreland]] grits and slates.  |  and greywackes. (Coblentzien |
    R   |  |                             |  and Gédinnien.)              |
    .    \ +-----------------------------+-------------------------------+
 
@@ -333,8 +333,8 @@ the Devonian rocks is based.
   where Devonian rocks have been recognized, but everywhere the broad
   threefold division seems to obtain. In Maryland the following
   arrangement has been adopted--(1) Helderberg = Coeymans; (2) Oriskany;
-  (3) Romney = Erian; (4) Jennings = Genesee and Portage; (5) Hampshire
-  = Catskill in part. In the interior the Helderbergian is missing and
+  (3) Romney = Erian; (4) Jennings = Genesee and Portage; (5) [[Hampshire]]
+  = [[Catskill]] in part. In the interior the Helderbergian is missing and
   the system commences with (1) Oriskany, (2) Onondaga, (3) Hamilton,
   (4) Portage (and Genesee), (5) Chemung.
 
@@ -357,7 +357,7 @@ the Devonian rocks is based.
   extensive. The Erian series is often described as the Hamilton series
   outside the New York district, where the _Marcellus_ shales are
   grouped together with the Hamilton shales, and numerous local
-  subdivisions are included, as in Ohio, Kentucky and Tennessee. The
+  subdivisions are included, as in Ohio, [[Kentucky]] and Tennessee. The
   rocks are mostly shales or slates, but limestones predominate in the
   western development. In Pennsylvania the Hamilton series is from 1500
   ft. to 5000 ft. thick, but in the more calcareous western extension it
@@ -386,7 +386,7 @@ the Devonian rocks is based.
        / | Chautauquan.  | Chemung beds with Catskill    | Famennien.  |
   U   |  |               |  as a local facies.           |             |
   P   |  |               |                               |             |
-  P  <   |             ( | Portage beds (Naples, Ithaca  | Frasnien.   |
+  P  <   |             ( | Portage beds (Naples, [[Ithaca]]  | Frasnien.   |
   E   |  |             ( |  and Oneonta shales as local  |             |
   R   |  | Senecan.    < |  facies).                     |             |
   .   |  |             ( | Genesee shales.               |             |
@@ -402,7 +402,7 @@ the Devonian rocks is based.
          +---------------+-------------------------------+-------------+
   L    / | Oriskanian.   | Oriskany sandstone.           | Coblentzien.|
   O   |  |               |                               |             |
-  W   |  |             ( | Kingston beds.                | Gédinnien.  |
+  W   |  |             ( | [[Kingston]] beds.                | Gédinnien.  |
   E  <   |Helderbe-    ( | Becraft limestone.            |             |
   R   |  |   rgian.    < | New Scotland beds.            |             |
   .   |  |             ( | Coeymans limestone.           |             |
@@ -415,20 +415,20 @@ the Devonian rocks is based.
   Utah, Nevada, Wyoming, Montana, California and Arizona; Devonian rocks
   occur between the Sierras and the Rocky Mountains, in the Arbuckle
   Mountains of Oklahoma and in Texas. In the western interior limestones
-  predominate; 6000 ft. of limestone are found at Eureka, Nevada,
+  predominate; 6000 ft. of limestone are found at [[Eureka]], Nevada,
   beneath 2000 ft. of shale. On the Pacific coast metamorphism of the
   rocks is common, and lava-flows and tuffs occur in them.
 
   In Canada, besides the occurrences previously mentioned in the eastern
   region, Devonian strata are found in considerable force along the
-  course of the Mackenzie river and the Canadian Rockies, whence they
+  course of the [[Mackenzie]] river and the Canadian Rockies, whence they
   stretch out into Alaska. It is probable, however, that much that is
   now classed as Devonian in Canada will prove on fossil evidence to be
   Carboniferous.
 
-  _South America, Africa, Australia, &c._--In South America the Devonian
-  is well developed; in Argentina, Bolivia, Brazil, Peru and the
-  Falkland Islands, the palaeontological horizon is about the junction
+  _South America, Africa, [[Australia]], &c._--In South America the Devonian
+  is well developed; in [[Argentina]], Bolivia, Brazil, Peru and the
+  [[Falkland Islands]], the palaeontological [[Horizon|horizon]] is about the junction
   of the Lower and Middle divisions, and the fauna has affinities with
   the Hamilton shales of North America. Nearly allied to the South
   American Devonian is that of South Africa, where they are represented
@@ -442,25 +442,25 @@ the Devonian rocks is based.
 
            _Stratigraphy of the Old Red Sandstone Facies._
 
-  The Old Red Sandstone of Britain, according to Sir Archibald Geikie,
+  The Old Red Sandstone of Britain, according to Sir Archibald [[Geikie]],
   "consists of two subdivisions, the lower of which passes down
   conformably into the Upper Silurian deposits, the upper shading off
   in the same manner into the base of the Carboniferous system, while
   they are separated from each other by an unconformability." The Old
   Red strata appear to have been deposited in a number of elongated
-  lakes or lagoons, approximately parallel to one another, with a
+  lakes or [[Lagoon|lagoons]], approximately parallel to one another, with a
   general alignment in a N.E.-S.W. direction. To these areas of deposit
   Sir A. Geikie has assigned convenient distinctive names.
 
   In Scotland the two divisions of the system are sharply separated by a
   pronounced unconformability which is probably indicative of a
   prolonged interval of erosion. In the central valley between the base
-  of the Highlands and the southern uplands lay "Lake Caledonia." Here
+  of the Highlands and the southern uplands lay "Lake [[Caledonia]]." Here
   the lower division is made up of some 20,000 ft. of shallow-water
   deposits, reddish-brown, yellow and grey sandstones and conglomerates,
   with occasional "cornstones," and thin limestones. The grey flagstones
-  with shales are almost confined to Forfarshire, and are known as the
-  "Arbroath flags." Interbedded volcanic rocks, andesites, dacites,
+  with shales are almost confined to [[Forfarshire]], and are known as the
+  "Arbroath [[Flag|flags]]." Interbedded volcanic rocks, andesites, dacites,
   diabases, with agglomerates and tuffs constitute an important feature,
   and attain a thickness of 6000 ft. in the Pentland and Ochil hills. A
   line of old volcanic vents may be traced in a direction roughly
@@ -468,7 +468,7 @@ the Devonian rocks is based.
   side of the Highlands was "Lake Orcadie," presumably much larger than
   the foregoing lake, though its boundaries are not determinable. It lay
   over Moray Firth and the east of Ross and Sutherland, and extended
-  from Caithness to the Orkney Islands and S. Shetlands. It may even
+  from [[Caithness]] to the Orkney Islands and S. Shetlands. It may even
   have stretched across to Norway, where similar rocks are found in
   Sognefjord and Dalsfjord, and may have had communications with some
   parts of northern Russia. Very characteristic of this area are the
@@ -477,7 +477,7 @@ the Devonian rocks is based.
   thickness of 16,000 ft. The somewhat peculiar fauna of this series led
   Murchison to class the flags as Middle Devonian. In the Shetland
   Islands contemporaneous volcanic rocks have been observed. Over the
-  west of Argyllshire lay "Lake Lorne"; here the volcanic rocks
+  west of [[Argyllshire]] lay "Lake Lorne"; here the volcanic rocks
   predominate, they are intercalated with shallow-water deposits. A
   similar set of rocks occupy the Cheviot district.
 
@@ -489,17 +489,17 @@ the Devonian rocks is based.
   the earlier period. They are well developed in central Scotland over
   the lowlands bordering the Moray Firth. Interbedded lavas and tuffs
   are found in the island of Hoy. An interesting feature of this series
-  is the occurrence of great crowds of fossil fishes in some localities,
-  notably at Dura Den in Fife. In the north of England this series rests
+  is the occurrence of great [[Crowd|crowds]] of fossil fishes in some localities,
+  notably at Dura Den in [[Fife]]. In the north of England this series rests
   unconformably upon the Lower Old Red and the Silurian.
 
-  Flanking the Silurian high ground of Cumberland and Westmorland, and
-  also in the Lammermuir hills and in Flint and Anglesey, a brecciated
+  Flanking the Silurian high ground of [[Cumberland]] and Westmorland, and
+  also in the Lammermuir hills and in Flint and [[Anglesey]], a brecciated
   conglomerate, presenting many of the characters of a glacial deposit
   in places, has often been classed with the Old Red Sandstone, but in
   parts, at least, it is more likely to belong to the base of the
   Carboniferous system. In Ireland the lower division appears to be
-  represented by the Dingle beds and Glengariff grits, while the Kerry
+  represented by the [[Dingle]] beds and Glengariff grits, while the Kerry
   rocks and the Kiltorcan beds of Cork are the equivalents of the upper
   division. Rocks of Old Red type, both lower and upper, are found in
   Spitzbergen and in Bear Island. In New Brunswick and Nova Scotia the
@@ -542,9 +542,9 @@ the Devonian rocks is based.
   builders. A well-known fossil is _Receptaculites_, a genus to which it
   has been difficult to assign a definite place; it has been thought to
   be a sponge, it may be a calcareous alga, or a curious representative
-  of the foraminifera.
+  of the [[Foraminifera|foraminifera]].
 
-  In the Devonian period the brachiopods reached the climax of their
+  In the Devonian period the brachiopods reached the [[Climax|climax]] of their
   development: they compose three-quarters of the known fauna, and more
   than 1100 species have been described. Changes were taking place from
   the beginning of the period in the relative importance of genera;
@@ -613,7 +613,7 @@ the Devonian rocks is based.
   a length of nearly 6 ft.; _Eurypterus_, _Slimonia_, _Stylonurus_ were
   other genera.
 
-  Insects appear well developed, including both orthopterous and
+  [[Insect|Insects]] appear well developed, including both orthopterous and
   neuropterous forms, in the New Brunswick rocks. Mr Scudder believed he
   had obtained a specimen of Orthoptera in which a stridulating organ
   was present. A species of _Ephemera_, allied to the modern may-fly,
@@ -621,7 +621,7 @@ the Devonian rocks is based.
   Sandstone myriapods, _Kampecaris_ and _Archidesmus_, have been
   described; they are somewhat simpler than more recent forms, each
   segment being separate, and supplied with only one pair of walking
-  legs. Spiders and scorpions also lived upon the land.
+  [[Leg|legs]]. Spiders and scorpions also lived upon the land.
 
   The great number of fish remains in the Devonian and Old Red strata,
   coupled with the truly remarkable characters possessed by some of the
@@ -653,15 +653,15 @@ the Devonian rocks is based.
   head in a vertical plane. These comprise the wide-ranging _Coccosteus_
   with _Homosteus_ and _Dinichthys_, the largest fish of the period. The
   latter probably reached 20 ft. in length; it was armed with
-  exceedingly powerful jaws provided with turtle-like beaks. Sharks were
-  fairly prominent denizens of the sea; some were armed with cutting
+  exceedingly powerful jaws provided with turtle-like [[Beak|beaks]]. Sharks were
+  fairly prominent [[Denizen|denizens]] of the sea; some were armed with cutting
   teeth, others with crushing dental plates; and although they were on
   the whole marine fishes, they were evidently able to live in fresher
   waters, like some of their modern representatives, for their remains,
   mostly teeth and large dermal spines, are found both in the Devonian
   and Old Red rocks. _Mesacanthus_, _Diplacanthus_, _Climatius_,
   _Cheiracanthus_ are characteristic genera. The crossopterygians,
-  ganoids with a scaly lobe in the centre of the fins, were represented
+  ganoids with a scaly [[Lobe|lobe]] in the centre of the fins, were represented
   by _Holoptychius_ and _Glyptopomus_ in the Upper Old Red, and by such
   genera as _Diplopterus_, _Osteolepis_, _Gyroptychius_ in the lower
   division. The _Polypterus_ of the Nile and _Calamoichthys_ of South
@@ -694,7 +694,7 @@ the Devonian rocks is based.
 
 _Physical Conditions, &c._--Perhaps the most striking fact that is
 brought out by a study of the Devonian rocks and their fossils is the
-gradual transgression of the sea over the land, which took place quietly
+[[Gradual|gradual]] transgression of the sea over the land, which took place quietly
 in every quarter of the globe shortly after the beginning of the period.
 While in most places the Lower Devonian sediments succeed the Silurian
 formations in a perfectly conformable manner, the Middle and Upper
@@ -745,7 +745,7 @@ uniformity of conditions. Thus we find identical species of brachiopods
 inhabiting the Devonian seas of England, France, Belgium, Germany,
 Russia, southern Asia and China; such are, _Hypothyris_ (_Rhynchonella_)
 _cuboides_, _Spirifer disjunctus_ and others. The fauna of the
-_Calceola_ shales can be traced from western Europe to Armenia and
+_Calceola_ shales can be traced from western Europe to [[Armenia]] and
 Siberia; the _Stringocephalus_ limestones are represented in Belgium,
 England, the Urals and Canada; and the (_Gephyroceras_) _intumescens_
 shales are found in western Europe and in Manitoba.
@@ -772,7 +772,7 @@ be some.
 There is little evidence as to the climate of this period, but it is
 interesting to observe that local glacial conditions _may_ have existed
 in places, as is suggested by the coarse conglomerate with striated
-boulders in the upper Old Red of Scotland. On the other hand, the
+[[Boulder|boulders]] in the upper Old Red of Scotland. On the other hand, the
 prevalence of reef-building corals points to moderately warm
 temperatures in the Middle Devonian seas.
 
@@ -789,7 +789,7 @@ brick-making.
   REFERENCES.--The literature of the Devonian rocks and fossils is very
   extensive; important papers have been contributed by the following
   geologists: J. Barrande, C. Barrois, F. Béclard, E. W. Benecke, L.
-  Beushausen, A. Champernowne, J. M. Clarke, Sir J. W. Dawson, A.
+  Beushausen, A. Champernowne, J. M. Clarke, Sir J. W. [[Dawson]], A.
   Denckmann, J. S. Diller, E. Dupont, F. Frech, J. Fournet, Sir A.
   Geikie, G. Gürich, R. Hoernes, E. Kayser, C. and M. Koch, A. von
   Koenen, Hugh Miller, D. P. Oehlert, C. S. Prosser, P. de Rouville, C.
@@ -800,7 +800,7 @@ brick-making.
   found in Sir A. Geikie's _Text-Book of Geology_ (vol. ii., 4th ed.,
   1903), in E. Kayser's _Lehrbuch der Geologie_ (vol. ii., 2nd ed.,
   1902), and, for North America, in Chamberlin and Salisbury's _Geology_
-  (vol. ii., 1906). See the _Index to the Geological Magazine_
+  (vol. ii., 1906). See the _[[Index]] to the Geological Magazine_
   (1864-1903), and in subsequent annual volumes; _Geological Literature
   added to the Geological Society's Library_ (London), annually since
   1893; and the _Neues Jahrbuch für Min., Geologie und Paläontologie_

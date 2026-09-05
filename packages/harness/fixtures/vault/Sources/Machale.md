@@ -13,9 +13,9 @@ graduating in 1814 he was ordained priest and appointed lecturer in
 theology, succeeding to the professoriate in 1820. In 1825 he became
 coadjutor bishop of Killala, and in July 1834 archbishop of Tuam and
 metropolitan. He visited Rome in 1831, and was there again at the
-proclamation of the dogma of the Immaculate Conception of the Virgin
+proclamation of the dogma of the [[Immaculate Conception]] of the Virgin
 (Dec. 1854) and in 1869-1870 at the Vatican council. Though he did not
-favour the dogma of Papal Infallibility he submitted as soon as it was
+favour the dogma of Papal [[Infallibility]] he submitted as soon as it was
 defined. Machale was an intensely patriotic Irishman, who fought hard
 for Catholic Emancipation, for separate Roman Catholic schools, and
 against the Queen's Colleges. He translated part of the _Iliad_ (Dublin,

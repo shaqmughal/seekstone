@@ -13,7 +13,7 @@ he became private secretary to Count Okuma, minister of state for
 foreign affairs. Subsequently he served as director of a bureau in the
 finance department, and from 1894 to 1899 he represented his country at
 the court of St James. He received the portfolio of foreign affairs in
-the fourth Ito cabinet (1900-1901), which remained in office only a few
+the fourth [[Ito]] cabinet (1900-1901), which remained in office only a few
 months. Appointed again to the same position in the Saionji cabinet
 (1906), he resigned after a brief interval, being opposed to the
 nationalization of the private railways, which measure the cabinet

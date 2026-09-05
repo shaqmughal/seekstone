@@ -14,16 +14,16 @@ badge, various classes of people have come to be known as "blue" or
 Covenanters having adopted blue as their colour as opposed to red, the
 royal colour; similarly, in the navy, there was in the 18th century a
 "Blue Squadron," Nelson being at one time "Rear-Admiral of the Blue";
-again, in 1690, the Royal Horse Guards were called the "Blues" from
+again, in 1690, the Royal Horse [[Guards]] were called the "Blues" from
 their blue uniforms, or, from their leader, the earl of Oxford, the
-"Oxford Blues"; also, from the blue ribbon worn by the knights of the
+"Oxford Blues"; also, from the blue ribbon worn by the [[Knight|knights]] of the
 Garter comes the use of the phrase as the highest mark of distinction
 that can be worn, especially applied on the turf to the winning of the
-Derby. The "blue Peter" is a rectangular blue flag, with a white square
+[[Derby]]. The "blue Peter" is a rectangular blue [[Flag|flag]], with a white square
 in the centre, hoisted at the top of the foremast as a signal that a
 vessel is about to leave port. At Oxford and Cambridge a man who
 represents his university in certain athletic sports is called a "blue"
-from the "colours" he is then entitled to wear, dark blue for Oxford and
+from the "[[Colours|colours]]" he is then entitled to wear, dark blue for Oxford and
 light blue for Cambridge.
 
 ## References

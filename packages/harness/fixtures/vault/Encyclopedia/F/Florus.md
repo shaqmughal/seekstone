@@ -8,10 +8,10 @@ topic: history
 
 FLORUS, PUBLIUS ANNIUS, Roman poet and rhetorician, identified by some
 authorities with the historian Florus (q.v.). The introduction to a
-dialogue called _Virgilius orator an poëta_ is extant, in which the
+[[Dialogue|dialogue]] called _Virgilius orator an poëta_ is extant, in which the
 author (whose name is given as Publius Annius Florus) states that he was
 born in Africa, and at an early age took part in the literary contests
-on the Capitol instituted by Domitian. Having been refused a prize owing
+on the Capitol instituted by [[Domitian]]. Having been refused a prize owing
 to the prejudice against African provincials, he left Rome in disgust,
 and after travelling for some time set up at Tarraco as a teacher of
 rhetoric. Here he was persuaded by an acquaintance to return to Rome,
@@ -28,7 +28,7 @@ special characteristic was the use of lighter and graceful metres
 favour.
 
   The little poems will be found in E. Bährens, _Poëtae Latini minores_
-  (1879-1883); for an unlikely identification of Florus with the author
+  (1879-1883); for an unlikely [[Identification|identification]] of Florus with the author
   of the _Pervigilium Veneris_ (q.v.) see E.H.O. Müller, _De P. Annio
   Floro poëta et de Pervigilio Veneris_ (1855), and, for the poet's
   relations with Hadrian, F. Eyssenhardt, _Hadrian und Florus_ (1882);

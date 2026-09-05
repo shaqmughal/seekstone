@@ -9,8 +9,8 @@ id: 42-5316
 # Die
 
 DIE (Fr. _dé_, from Lat. _datum_, given), a word used in various senses,
-for a small cube of ivory, &c. (see DICE), for the engraved stamps used
-in coining money, &c., and various mechanical appliances in engineering.
+for a small cube of [[Ivory|ivory]], &c. (see DICE), for the engraved stamps used
+in coining money, &c., and various mechanical appliances in [[Engineering|engineering]].
 In architecture a "die" is the term used for the square base of a
 column, and it is applied also to the vertical face of a pedestal or
 podium.
@@ -24,7 +24,7 @@ those explained in connexion with the ground and the figure of damasks.
 The same weaves are used in both damasks and dices, but simpler weaves
 are generally employed for the commoner classes of the latter. The
 effect is, in every case, obtained by what are technically called warp
-and weft float weaves. The illustration B shows the two double damask
+and weft [[Float|float]] weaves. The illustration B shows the two double damask
 weaves arranged to form a dice pattern, while A shows a similar pattern
 made from two four-thread twill weaves. C and D represent respectively
 the disposition of the threads in A and B with the first pick, and the

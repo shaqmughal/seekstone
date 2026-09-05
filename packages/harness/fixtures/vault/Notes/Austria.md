@@ -45,9 +45,9 @@ total area is arable land, the soil is only of moderate fertility and does
 not satisfy the wants of this thickly-populated province. Woods occupy
 34.2%, gardens and meadows 13.1% and pastures 3.2%. Vineyards occupy 2% of
 the total area and produce a good wine, specially those on the sunny slopes
-of the Wiener Wald. Cattle-rearing is not well developed, but game and fish
+of the Wiener Wald. Cattle-rearing is not well developed, but [[Game|game]] and fish
 are plentiful. Mining is only of slight importance, small quantities of
-coal and iron-ore being extracted in the Alpine foothill region; graphite
+coal and iron-ore being extracted in the Alpine foothill region; [[Graphite|graphite]]
 is found near Mühldorf. From an industrial point of view, Lower Austria
 stands, together with Bohemia and Moravia, in the front rank amongst the
 Austrian provinces. The centre of its great industrial activity is the
@@ -75,19 +75,19 @@ administrative purposes, the province is divided into 22 districts and
 three towns with autonomous municipalities: Vienna (1,662,269), the capital
 (since 1905 including Floridsdorf, 36,599), Wiener-Neustadt (28,438) and
 Waidhofen on the Ybbs (4447). Other principal towns are: Baden (12,447),
-Bruck on the Leitha (5134), Schwechat (8241), Korneuburg (8298), Stokerau
+Bruck on the Leitha (5134), Schwechat (8241), [[Korneuburg]] (8298), Stokerau
 (10,213), Krems (12,657), Mödling (15,304), Reichenau (7457), Neunkirchen
-(10,831), St Pölten (14,510) and Klosterneuburg (11,595).
+(10,831), St Pölten (14,510) and [[Klosterneuburg]] (11,595).
 
 The original archduchy, which included Upper Austria, is the nucleus of the
-Austrian empire, and the oldest possession of the house of Habsburg in its
+Austrian empire, and the oldest possession of the house of [[Habsburg]] in its
 present dominions.
 
 See F. Umlauft, _Das Erzherzogtum Österreich unter der Enns_, vol. i. of
 the collection _Die Lander Österreich-Ungarns in Wort und Bild_ (Vienna,
 1881-1889, 15 vols.); _Die österreichisch-ungarische Monarchie in Wort und
 Bild_, vol. 4. (Vienna. 1886-1902, 24 vols.); M. Vansca, _Gesch. Nieder- u.
-Ober-Österreichs_ (in Heeren's _Staatengesch._, Gotha, 1905).
+Ober-Österreichs_ (in Heeren's _Staatengesch._, [[Gotha]], 1905).
 
 ## See also
 

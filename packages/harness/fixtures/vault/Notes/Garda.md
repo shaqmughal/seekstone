@@ -2,10 +2,10 @@
 
 GARDA, LAKE OF (the _Lacus Benacus_ of the Romans), the most easterly
 and the most extensive of the great Lombard lakes, being only surpassed
-in the Alpine region by those of Geneva and Constance. Save the extreme
+in the Alpine region by those of [[Geneva]] and Constance. Save the extreme
 northern extremity (Riva, which was secured from Venice by Tirol in
 1517), the whole lake is Italian, being divided between the provinces of
-Verona and Brescia. Its broad basin orographically represents the
+Verona and [[Brescia]]. Its broad basin orographically represents the
 southern portion of the valley of the Adige, though that river now flows
 through a narrow trench which is separated from the lake by the long
 narrow ridge of the Monte Baldo (7277 ft.). Nowadays the lake is fed by
@@ -23,14 +23,14 @@ conformation the lake is much exposed to sudden and violent winds, which
 Virgil alludes to in his well-known line (_Georg_. ii. line 160):
 _fluctibus et fremitu assurgens, Benace, marino_. The most dangerous of
 these winds is the _Borea_ or _Suer_, that sweeps down from the north as
-through a funnel. In the southern portion of the lake the _Vinessa_, an
+through a [[Funnel|funnel]]. In the southern portion of the lake the _Vinessa_, an
 E.S.E. wind, is most dreaded. The _Ora_ is a regular wind coming from
 the east which, on reaching the lake, blows from S. to N. The steep
-grey limestone crags of Monte Baldo, on the eastern side of the lake,
+grey [[Limestone|limestone]] crags of Monte Baldo, on the eastern side of the lake,
 contrast strongly with the rich vegetation on the western and southern
 shores. The portion of the western shore that extends from Gargnano to
 Salo is the most sheltered and warmest part of the region, so that not
-merely does it resemble one continuous garden (producing lemons, figs,
+merely does it resemble one continuous garden (producing [[Lemon|lemons]], figs,
 mulberries, olives, &c.), but is frequented in winter, and has been
 given the name of the _Riviera Benacense_. The lovely promontory of
 Sermione, at the southern end of the lake, has also an extremely

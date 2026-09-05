@@ -1,16 +1,16 @@
 # Cursor
 
-CURSOR, LUCIUS PAPIRIUS, Roman general, five times consul and twice
-dictator. In 325 he was appointed dictator to carry on the second
-Samnite War. His quarrel with Q. Fabius Maximus Rullianus, his _magister
+CURSOR, [[Lucius|LUCIUS]] PAPIRIUS, Roman general, five times consul and twice
+[[Dictator|dictator]]. In 325 he was appointed dictator to carry on the second
+Samnite War. His quarrel with Q. [[Fabius]] [[Maximus]] Rullianus, his _magister
 equitum_, is well known. The latter had engaged the enemy against the
 orders of Cursor, by whom he was condemned to death, and only the
 intercession of his father, the senate and the people, saved his life.
 Cursor treated his soldiers with such harshness that they allowed
 themselves to be defeated; but after he had regained their good-will by
 more lenient treatment and lavish promises of booty, they fought with
-enthusiasm and gained a complete victory. After the disaster of the
-Caudine Forks, Cursor to some extent wiped out the disgrace by
+[[Enthusiasm|enthusiasm]] and gained a complete victory. After the disaster of the
+[[Caudine Forks]], Cursor to some extent wiped out the disgrace by
 compelling Luceria (which had revolted) to surrender. He delivered the
 Roman hostages who were held in captivity in the town, recovered the
 standards lost at Caudium, and made 7000 of the enemy pass under the

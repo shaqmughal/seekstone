@@ -1,6 +1,6 @@
 # Le Caron
 
-LE CARON, HENRI (whose real name was THOMAS MILLER BEACH) (1841-1894),
+LE CARON, HENRI (whose real name was THOMAS MILLER [[Beach|BEACH]]) (1841-1894),
 British secret service agent, was born at Colchester, on the 26th of
 September 1841. He was of an adventurous character, and when nineteen
 years old went to Paris, where he found employment in business connected

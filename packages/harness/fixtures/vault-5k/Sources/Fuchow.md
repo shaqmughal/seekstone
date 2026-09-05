@@ -1,7 +1,7 @@
 # Fuchow
 
 FUCHOW, FU-CHAU, FOOCHOW, a city of China, capital of the province of
-Fu-kien, and one of the principal ports open to foreign commerce. In the
+[[Fu-Kien|Fu-kien]], and one of the principal ports open to foreign commerce. In the
 local dialect it is called Hokchiu. It is situated on the river Min,
 about 35 m. from the sea, in 26 deg. 5' N. and 119 deg. 20' E., 140 m.
 N. of Amoy and 280 S. of Hang-chow. The city proper, lying nearly 3 m.
@@ -25,7 +25,7 @@ allowed to stand idle and go to decay. On the 1st of August 1895 an
 attack was made on the English mission near the city of Ku-chang, 120 m.
 west of Fuchow, on which occasion nine missionaries, of whom eight were
 ladies, were massacred. The port was opened to European commerce in
-1842; and in 1853 the firm of Russell and Co. shipped the first cargoes
+1842; and in 1853 the firm of Russell and Co. shipped the first [[Cargo|cargoes]]
 of tea from Fuchow to Europe and America. The total trade in foreign
 vessels in 1876 was imports to the value of L1,531,617, and exports to
 the value of L3,330,489. In 1904 the imports amounted to L1,440,351, and
@@ -37,7 +37,7 @@ paper, woollen and cotton goods, oranges and olives; but the foreign
 houses mainly confine themselves to opium and tea. Commercial
 intercourse with Australia and New Zealand is on the increase. The
 principal imports, besides opium, are shirtings, T-cloths, lead and tin,
-medicines, rice, tobacco, and beans and peas. Two steamboat lines afford
+medicines, rice, tobacco, and [[Bean|beans]] and peas. Two steamboat lines afford
 regular communication with Hong-Kong twice a month. The town is the seat
 of several important missions, of which the first was founded in 1846.
 That supported by the American board had in 1876 issued 1,3000,000

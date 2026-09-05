@@ -1,6 +1,6 @@
 # Cicisbeo
 
-CICISBEO (Ital.; of uncertain origin; perhaps an inversion of _bel
+CICISBEO (Ital.; of uncertain origin; perhaps an inversion of _[[Bel|bel]]
 cece_, "beautiful chick (pea)," or from Fr. _chiche beau_, with same
 meaning), the term in Italy from the 17th century onwards for a dangler
 about women. The cicisbeo was the professed gallant of a married woman,

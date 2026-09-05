@@ -14,7 +14,7 @@ Staffordshire, is principally Early English, and has fine stained glass.
 Several bishops of Lichfield are buried here, as Eccleshall Castle was
 the episcopal residence from the 13th century until 1867. Of this the
 ancient remains include a picturesque tower and bridge. To the west on
-the borders of Shropshire is Blore Heath, the scene of a defeat of the
+the [[Borders|borders]] of Shropshire is Blore Heath, the scene of a defeat of the
 Lancastrians by the Yorkists in 1459.
 
 ## References

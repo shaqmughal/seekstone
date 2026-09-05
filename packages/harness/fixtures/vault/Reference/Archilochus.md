@@ -8,7 +8,7 @@ id: 42-6144
 
 # Archilochus
 
-ARCHILOCHUS, Greek lyric poet and writer of lampoons, was born at Paros,
+ARCHILOCHUS, Greek lyric poet and writer of [[Lampoon|lampoons]], was born at Paros,
 one of the Cyclades islands. The date of his birth is uncertain, but he
 probably flourished about 650 B.C.; according to some, about forty years
 earlier but certainly not before the reign of Gyges (687-652), whom he
@@ -35,14 +35,14 @@ which he congratulates himself on having saved his life, and says he can
 easily procure another shield. After leaving Thasos, he is said to have
 visited Sparta, but to have been at once banished from that city on
 account of his cowardice and the licentious character of his works
-(Valerius Maximus vi. 3, _externa_ 1). He next visited Siris, in lower
+(Valerius [[Maximus]] vi. 3, _externa_ 1). He next visited Siris, in lower
 Italy, a city of which he speaks very favourably. He then returned to
 his native place, and was slain in a battle against the Naxians by one
 Calondas or Corax, who was cursed by the oracle for having slain a
 servant of the Muses.
 
 The writings of Archilochus consisted of elegies, hymns--one of which
-used to be sung by the victors in the Olympic games (Pindar, _Olympia_,
+used to be sung by the victors in the Olympic [[Games|games]] (Pindar, _Olympia_,
 ix. i)--and of poems in the iambic and trochaic measures. To him
 certainly we owe the invention of iambic poetry and its application to
 the purposes of satire. The only previous measures in Greek poetry had
@@ -54,17 +54,17 @@ known as the iambic trimeter and the trochaic tetrameter. The trochaic
 metre he generally used for subjects of a serious nature; the iambic for
 satires. He was also the first to make use of the arrangement of verses
 called the epode. Horace in his metres to a great extent follows
-Archilochus (_Epistles_, i. 19. 23-35). All ancient authorities unite in
+Archilochus (_[[Epistle|Epistles]]_, i. 19. 23-35). All ancient authorities unite in
 praising the poems of Archilochus, in terms which appear exaggerated
-(Longinus xiii. 3; Dio Chrysostom, _Orationes_, xxxiii.; Quintilian x.
+([[Longinus]] xiii. 3; [[Dio Chrysostom]], _Orationes_, xxxiii.; Quintilian x.
 i. 60; Cicero, _Orator_, i.). His verses seem certainly to have
 possessed strength, flexibility, nervous vigour, and, beyond everything
 else, impetuous vehemence and energy. Horace (_Ars Poetica_, 79) speaks
 of the "rage" of Archilochus, and Hadrian calls his verses "raging
-iambics." By his countrymen he was reverenced as the equal of Homer, and
+iambics." By his countrymen he was reverenced as the equal of [[Homer]], and
 statues of these two poets were dedicated on the same day.
 
-  His poems were written in the old Ionic dialect. Fragments in Bergk,
+  His poems were written in the old Ionic [[Dialect|dialect]]. Fragments in Bergk,
   _Poetae Lyrici Graeci_; Liebel, _Archilochi Reliquiae_ (1818); A.
   Hauvette-Besnault, _Archiloque, sa vie et ses poesies_ (1905).
 

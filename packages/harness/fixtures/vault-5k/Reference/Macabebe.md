@@ -9,7 +9,7 @@ type: source
 
 MACABEBE, a town of the province of Pampanga, island of Luzon,
 Philippine Islands, on the Pampanga Grande river, about 10 m. above its
-mouth and about 25 m. N.W. of Manila. Pop. (1903), after the annexation
+mouth and about 25 m. N.W. of [[Manila]]. Pop. (1903), after the [[Annexation|annexation]]
 of San Miguel, 21,481. The language is Pampango. Many of the male
 inhabitants serve in the U.S. Army as scouts. Macabebe's principal
 industries are the cultivation of rice and sugar cane, the distilling of

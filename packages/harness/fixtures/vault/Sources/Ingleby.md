@@ -1,7 +1,7 @@
 # Ingleby
 
-INGLEBY, CLEMENT MANSFIELD (1823-1886), English Shakespearian scholar,
-was born at Edgbaston, Birmingham, on the 29th of October 1823, the son
+INGLEBY, [[Clement|CLEMENT]] [[Mansfield|MANSFIELD]] (1823-1886), English Shakespearian scholar,
+was born at Edgbaston, [[Birmingham]], on the 29th of October 1823, the son
 of a solicitor. After taking his degree at Trinity College, Cambridge,
 he entered his father's office, eventually becoming a partner. In 1859
 he abandoned the law and left Birmingham to live near London. He
@@ -16,11 +16,11 @@ difficulties of Shakespeare's text were explained. In the same year
 (1875) he published the _Centurie of Prayse_, a collection of references
 to Shakespeare and his works between 1592 and 1692. His _Shakespeare:
 the Man and the Book_ was published in 1877-1881; he also wrote
-_Shakespeare's Bones_ (1882), in which he suggested the disinterment of
+_Shakespeare's [[Bone|Bones]]_ (1882), in which he suggested the disinterment of
 Shakespeare's bones and an examination of his skull. This suggestion,
 though not due to vulgar curiosity, was regarded, however, by public
 opinion as sacrilegious. He died on the 26th of September 1886, at
-Ilford, Essex. Although Ingleby's reputation now rests solely on his
+Ilford, [[Essex]]. Although Ingleby's reputation now rests solely on his
 works on Shakespeare, he wrote on many other subjects. He was the author
 of hand-books on metaphysic and logic, and made some contributions to
 the study of natural science. He was at one time vice-president of the

@@ -1,7 +1,7 @@
 # Loo
 
 LOO (formerly called "Lanterloo," Fr. _lanturlu_, the refrain of a
-popular 17th-century song), a round game of cards, played by any number
+popular 17th-century song), a round [[Game|game]] of cards, played by any number
 of persons; from five to seven makes the best game. "Three-card loo" is
 the game usually played. An ordinary pack of fifty-two cards is used and
 the deal passes after each round. Each player must have the same number

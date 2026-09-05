@@ -12,9 +12,9 @@ FOWLER, SIR JOHN (1817-1898), English civil engineer, was born on the
 a land-surveyor. At the age of sixteen he became a pupil of John
 Towlerton Leather, the engineer of the Sheffield water-works. The
 latter's uncle, George Leather, was engineer of the Great Aire and
-Calder Navigation Company, of the Goole Docks, and other similar works,
+Calder Navigation Company, of the Goole [[Dock|Docks]], and other similar works,
 and Fowler passed occasionally into his employment, in which he acquired
-a thorough knowledge of hydraulic engineering. The era of railway
+a thorough knowledge of hydraulic [[Engineering|engineering]]. The era of railway
 construction soon swept both Fowler and his employers into its service,
 and one of his first employments was to oppose the route of the Midland
 railway, chosen by the Stephensons, which left Sheffield on a branch
@@ -56,12 +56,12 @@ opposed to the project of a Channel tunnel to France, and in 1872 he
 endeavoured to obtain the consent of parliament to a Channel ferry
 scheme, whereby trains were to be transported across the strait in large
 ferry steamers. The proposal involved the making of enlarged harbours at
-Dover and Audresselles on the French coast, and the bill, after passing
+[[Dover]] and Audresselles on the French coast, and the bill, after passing
 the Commons, was thrown out by the casting vote of the chairman of a
 committee of the House of Lords. In 1875 he was enabled to render, in
 his private capacity, a signal service to the Italian government, which
 was much embarrassed by impracticable proposals pressed on it by
-Garibaldi for a rectification of the course of the Tiber and other
+[[Garibaldi]] for a rectification of the course of the Tiber and other
 engineering works. He had several interviews with the Italian patriot,
 and persuaded him of the impracticable nature of his plan, thereby
 obtaining for the government leisure to devise a more reasonable scheme.

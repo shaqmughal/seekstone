@@ -37,13 +37,13 @@ De Wette has been described by Julius Wellhausen as "the epoch-making
 opener of the historical criticism of the Pentateuch." He prepared the
 way for the Supplement-theory. But he also made valuable contributions
 to other branches of theology. He had, moreover, considerable poetic
-faculty, and wrote a drama in three acts, entitled _Die Entsagung_
+faculty, and wrote a [[Drama|drama]] in three acts, entitled _Die Entsagung_
 (Berlin, 1823). He had an intelligent interest in art, and studied
 ecclesiastical music and architecture. As a Biblical critic he is
 sometimes classed with the destructive school, but, as Otto Pfleiderer
 says (_Development of Theology_, p. 102), he "occupied as free a
 position as the Rationalists with regard to the literal authority of the
-creeds of the church, but that he sought to give their due value to the
+[[Creeds|creeds]] of the church, but that he sought to give their due value to the
 religious feelings, which the Rationalists had not done, and, with a
 more unfettered mind towards history, to maintain the connexion of the
 present life of the church with the past." His works are marked by
@@ -71,7 +71,7 @@ of criticism.
   unsere Zeit_ (1849). Rudolf Stähelin, _De Wette nach seiner theol.
   Wirksamkeit und Bedeutung_ (1880); F. Lichtenberger, _History of
   German Theology in the Nineteenth Century_ (1889); Otto Pfleiderer,
-  _Development of Theology_ (1890), pp. 97 ff.; T. K. Cheyne, _Founders
+  _Development of Theology_ (1890), pp. 97 ff.; T. K. [[Cheyne]], _Founders
   of the Old Testament Criticism_, pp. 31 ff.
 
 ## See also

@@ -18,7 +18,7 @@ the general sense given above the word conveyance is now used in three
 special senses: (1) a carriage or other means of transport, (2) in law,
 the transference of property by deed or writing between living persons,
 and (3) the written instrument by which such transference is effected.
-(See CONVEYANCING.)
+(See [[Conveyancing|CONVEYANCING]].)
 
 ## See also
 

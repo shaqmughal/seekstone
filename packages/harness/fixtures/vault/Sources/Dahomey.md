@@ -18,13 +18,13 @@ deg. 38' E. to 2 deg. 46' 55" E.), the area of the colony is about
 40,000 sq. m., and the population over 1,000,000. As far as 9 deg. N.
 the width of the colony is no greater than the coast-line. From this
 point, the colony broadens out both eastward and westward, attaining a
-maximum width of 200 m. It includes the western part of Borgu (q.v.),
+maximum width of 200 m. It includes the western part of [[Borgu]] (q.v.),
 and reaches the Niger at a spot a little above Illo. Its greatest length
 N. to S. is 430 m.
 
 _Physical Features._--The littoral, part of the old Slave Coast (see
 GUINEA,), is very low, sandy and obstructed by a bar. Behind the
-seashore is a line of lagoons, where small steamers can ply; east to
+seashore is a line of [[Lagoon|lagoons]], where small steamers can ply; east to
 west they are those of Porto Novo (or Lake Nokue), Whydah and Grand
 Popo. The Weme (300 m. long), known in its upper course as the Ofe, the
 most important river running south, drains the colony from the Bariba
@@ -45,14 +45,14 @@ the high plateau falling again to the basin of the Niger. In the
 north-west a range of hills known as the Atacora forms a watershed
 between the basins of the Weme, the Niger and the Volta. A large part of
 the interior consists of undulating country, rather barren, with
-occasional patches of forest. The forests contain the baobab, the
+occasional patches of forest. The forests contain the [[Baobab|baobab]], the
 coco-nut palm and the oil palm. The fauna resembles that of other parts
-of the West Coast, but the larger wild animals, such as the elephant and
-hippopotamus, are rare. The lion is found in the regions bordering the
-Niger. Some kinds of antelopes are common; the buffalo has disappeared.
+of the West Coast, but the larger wild animals, such as the [[Elephant|elephant]] and
+[[Hippopotamus|hippopotamus]], are rare. The lion is found in the regions bordering the
+Niger. Some kinds of [[Antelope|antelopes]] are common; the [[Buffalo|buffalo]] has disappeared.
 
 _Climate._--The climate of the coast regions is very hot and moist. Four
-seasons are well marked: the harmattan or long dry season, from the 1st
+seasons are well marked: the [[Harmattan|harmattan]] or long dry season, from the 1st
 December to the 15th March; the season of the great rains, from the 15th
 March to the 15th July; the short dry season, from the 15th July to the
 15th September; and the "little rains," from the 15th September to the
@@ -65,22 +65,22 @@ peels, and all woodwork is liable to warp and crack with a loud report.
 Tornadoes occur occasionally. During nine months of the year the climate
 is tempered by a sea-breeze, which is felt as far inland as Abomey (60
 m.). It generally begins in the morning, and in the summer it often
-increases to a stiff gale at sundown. In the interior there are but two
+increases to a stiff [[Gale|gale]] at sundown. In the interior there are but two
 seasons: the dry season (November to May) and the rainy season (June to
 October). The rains are more scanty and diminish considerably in the
 northern regions.
 
 _Inhabitants._--The inhabitants of the coast region are of pure negro
 stock. The Dahomeyans (Dahomi), who inhabit the central part of the
-colony, form one of eighteen closely-allied clans occupying the country
+colony, form one of eighteen closely-allied [[Clan|clans]] occupying the country
 between the Volta and Porto Novo, and from their common tongue known as
 the Ewe-speaking tribes. In their own tongue Dahomeyans are called Fon
 or Fawin. They are tall and well-formed, proud, reserved in demeanour,
 polite in their intercourse with strangers, war-like and keen traders.
 The Mina, who occupy the district of the Popos, are noted for their
-skill as surf-men, which has gained for them the title of the Krumen of
+skill as surf-men, which has gained for them the title of the [[Krumen]] of
 Dahomey. Porto Novo is inhabited by a tribe called Nago, which has an
-admixture of Yoruba blood and speaks a Yoruba dialect. The Nago are a
+admixture of Yoruba blood and speaks a Yoruba [[Dialect|dialect]]. The Nago are a
 peaceful tribe and even keener traders than the Dahomi. In Whydah and
 other coast towns are many mulattos, speaking Portuguese and bearing
 high-sounding Portuguese names. In the north the inhabitants--Mahi,
@@ -95,7 +95,7 @@ well beyond the surf, affords facilities for shipping. Kotonu was
 originally a small village which served as the seaport of Porto Novo and
 was burnt to the ground in 1890. It has consequently the advantage of
 being a town laid out by Europeans on a definite plan. Situated on the
-beach between the sea and the lagoon of Porto Novo, the soil consists of
+[[Beach|beach]] between the sea and the lagoon of Porto Novo, the soil consists of
 heavy sand. Good hard roads have been made. Owing to an almost
 continuous, cool, westerly sea-breeze, Kotonu is, in comparison with the
 other coast towns, decidedly healthy for white men. Porto Novo (pop.
@@ -117,7 +117,7 @@ which adorn it, Whydah is called "the garden of Dahomey." West of
 Whydah, on the coast and near the frontier of Togoland, is the trading
 town of Grand Popo. Inland in Dahomey proper are Abomey (q.v.), the
 ancient capital, Allada, Kana (formerly the country residence and
-burial-place of the kings of Dahomey) and Dogba. In the hinterland are
+burial-place of the kings of Dahomey) and Dogba. In the [[Hinterland|hinterland]] are
 Carnotville (a town of French creation), Nikki and Paraku, Borgu towns,
 and Garu, on the right bank of the Niger near the British frontier, the
 terminus of the railway from the coast.
@@ -132,8 +132,8 @@ product is palm-oil, which is made in large quantities throughout the
 country. The district of Toffo is particularly noted for its oil-palm
 orchards. Palm-wine is also made, but the manufacture is discouraged as
 the process destroys the tree. Next to palm-oil the principal vegetable
-products are maize, guinea-corn, cassava, yams, sweet potatoes,
-plantains, coco-nuts, oranges, limes and the African apple, which grows
+products are maize, guinea-corn, [[Cassava|cassava]], yams, sweet potatoes,
+plantains, coco-nuts, oranges, limes and the African [[Apple|apple]], which grows
 almost wild. The country also produces ground-nuts, kola-nuts,
 pine-apples, guavas, spices of all kinds, ginger, okros (_Hibiscus_),
 sugar-cane, onions, tomatoes and papaws. Plantations of rubber trees and
@@ -144,12 +144,12 @@ but agriculture is in a backward condition. In the grassy uplands of the
 interior cattle and horses thrive, and cotton of a fairly good quality
 is grown by the inhabitants for their own use. The prosperity of the
 country depends chiefly on the export of palm-oil and palm-kernels.
-Copra, kola-nuts, rubber and dried fish are also exported, the fish
+[[Copra]], kola-nuts, rubber and dried fish are also exported, the fish
 going to Lagos. The adulteration of the palm-kernels by the natives,
 which became a serious menace to trade, was partially checked
 (1900-1903) by measures taken to ensure the inspection of the kernels
 before shipment. Trade is mainly with Germany and Great Britain, a large
-proportion of the cargo passing through the British port of Lagos. Only
+proportion of the [[Cargo|cargo]] passing through the British port of Lagos. Only
 some 25% of the commerce is with France. Cotton goods (chiefly from
 Great Britain), machinery and metals, alcohol (from Germany) and tobacco
 are the chief imports. The volume of trade, which had increased from
@@ -157,12 +157,12 @@ L701,000 in 1898 to L1,230,000 in 1902, declined in 1903 to L826,000 in
 consequence of the failure of rain, this causing a decrease in the
 production of palm-oil and kernels. In 1904 the total rose to L873,399.
 In 1905 the figure was L734,667, and in 1907 L853,051. By the
-Anglo-French Convention of 1898 the imposition of differential duties on
+Anglo-French Convention of 1898 the [[Imposition|imposition]] of differential duties on
 goods of British origin was forbidden for a period of thirty years from
 that date.
 
 _Communications._--The Dahomey railway from Kotonu to the Niger is of
-metre gauge (3.28 ft.). Work was begun in 1900, and in 1902 the main
+metre [[Gauge|gauge]] (3.28 ft.). Work was begun in 1900, and in 1902 the main
 line was completed to Toffo, a distance of 55 m. Some difficulty was
 then encountered in crossing the Lama Marsh, but by the end of 1905 the
 railway had been carried through Abomey to Pauignan, 120 m. from Kotonu.
@@ -192,7 +192,7 @@ same as that for all the colonies of French West Africa (q.v.). The
 chief source of revenue is the customs, while the capitation tax
 contributes most to the local budget.
 
-_History._--The kingdom of Dahomey, like those of Benin and Ashanti, is
+_History._--The kingdom of Dahomey, like those of Benin and [[Ashanti]], is
 an instance of a purely negro and pagan state, endowed with a highly
 organized government, and possessing a certain amount of indigenous
 civilization and culture. Its history begins about the commencement of
@@ -207,7 +207,7 @@ east and formed a state known under the name of Porto Novo; while the
 third brother, Takudonu, travelled northwards, and after some
 vicissitudes established the kingdom of Dahomey. The word Dahomey means
 "in Danh's belly," and is explained by the following legend which, says
-Sir Richard Burton, "is known (1864) to everybody in the kingdom."
+Sir Richard [[Burton]], "is known (1864) to everybody in the kingdom."
 Takudonu having settled in a town called Uhwawe encroached on the land
 of a neighbouring chief named Danh (the snake). Takudonu wearied Danh by
 perpetual demands for land, and the chief one day exclaimed in anger
@@ -220,7 +220,7 @@ recover their freedom, but without success; while on the other hand the
 Dahomeyans failed in all their expeditions against Grand Popo, a town
 founded by refugee Whydahs on a lagoon to the west. It is related that
 the repulses they met with in that quarter led to the order that no
-Dahomeyan warrior was to enter a canoe. Porto Novo at the beginning of
+Dahomeyan warrior was to enter a [[Canoe|canoe]]. Porto Novo at the beginning of
 the 19th century became tributary to Dahomey.
 
 Such was the state of affairs at the accession of King Gezo about the
@@ -251,12 +251,12 @@ with France. It was, said Earl Russell, foreign secretary, to check "the
 aggressive spirit of the king of Dahomey" that England in 1861 annexed
 the island of Lagos. Nevertheless in the following year Glegle captured
 Ishagga and in 1864 unsuccessfully attacked Abeokuta, both towns in the
-Lagos hinterland. In 1863 Commander Wilmot, R.N., and in 1864 Sir
+Lagos hinterland. In 1863 [[Commander]] Wilmot, R.N., and in 1864 Sir
 Richard Burton (the explorer and orientalist) were sent on missions to
 the king, but their efforts to induce the Dahomeyans to give up human
 sacrifices, slave-trading, &c. met with no success. In 1863, however, a
 step was taken by France which was the counterpart of the British
-annexation of Lagos. In that year the kingdom of Porto Novo accepted a
+[[Annexation|annexation]] of Lagos. In that year the kingdom of Porto Novo accepted a
 French protectorate, and an Anglo-French agreement of 1864 fixed its
 boundaries. This protectorate was soon afterwards abandoned by Napoleon
 III., but was re-established in 1882. At this period the rivalry of
@@ -267,7 +267,7 @@ Togo, save for the town of Little Popo at the western end of the lagoon
 of Grand Popo. In January 1886 Portugal--in virtue of her ancient rights
 at Whydah--announced that she had assumed a protectorate over the
 Dahomeyan coast, but she was induced by France to withdraw her
-protectorate in December 1887. Finally, the last international
+protectorate in December 1887. Finally, the last [[International|international]]
 difficulty in the way of France was removed by the Anglo-French
 agreement of 1889, whereby Kotonu was surrendered by Great Britain.
 France claimed rights at Kotonu in virtue of treaties concluded with
@@ -291,7 +291,7 @@ conspicuous part. In October 1890 a treaty was signed which secured to
 France Porto Novo and Kotonu, and to the king of Dahomey an annual
 pension of L800. It was unlikely that peace on such terms would prove
 lasting, and Behanzin's slave-raiding expeditions led in 1892 to a new
-war with France. General A. A. Dodds was placed in command of a strong
+war with France. General A. A. [[Dodd|Dodds]] was placed in command of a strong
 force of Europeans and Senegalese, and after a sharp campaign during
 September and October completely defeated the Dahomeyan troops. Behanzin
 set fire to Abomey (entered by the French troops on the 17th of
@@ -304,7 +304,7 @@ Thus ended the independent existence of Dahomey. The French divided the
 kingdom in two--Abomey and Allada--placing on the throne of Abomey a
 brother of the exiled monarch. Chief among the causes which led to the
 collapse of the Dahomeyan kingdom was the system which devoted the
-flower of its womanhood to the profession of arms.
+[[Flower|flower]] of its womanhood to the profession of arms.
 
 Whydah and the adjacent territory was annexed to France by General Dodds
 on the 3rd of December 1892, and the rest of Dahomey placed under a
@@ -338,7 +338,7 @@ _The "Customs."_--Reference has already been made to the Dahomey
 appear to date from the middle of the 17th century, and were of two
 kinds: the grand Customs performed on the death of a king; and the minor
 Customs, held twice a year. The horrors of these saturnalia of bloodshed
-were attributable not to a love of cruelty but to filial piety. Upon the
+were attributable not to a love of [[Cruelty|cruelty]] but to filial piety. Upon the
 death of a king human victims were sacrificed at his grave to supply him
 with wives, attendants, &c. in the spirit world. The grand Customs
 surpassed the annual rites in splendour and bloodshed. At those held in
@@ -350,31 +350,31 @@ the departed monarch with fresh attendants in the shadowy world." The
 actual slaughter was preluded by dancing, feasting, speechmaking and
 elaborate ceremonial. The victims, chiefly prisoners of war, were
 dressed in calico shirts decorated round the neck and down the sleeves
-with red bindings, and with a crimson patch on the left breast, and wore
+with red bindings, and with a [[Crimson|crimson]] patch on the left [[Breast|breast]], and wore
 long white night-caps with spirals of blue ribbon sewn on. Some of them,
 tied in baskets, were at one stage of the proceedings taken to the top
-of a high platform, together with an alligator, a cat and a hawk in
+of a high platform, together with an alligator, a cat and a [[Hawk|hawk]] in
 similar baskets, and paraded on the heads of the Amazons. The king then
 made a speech explaining that the victims were sent to testify to his
 greatness in spirit-land, the men and the animals each to their kind.
-They were then hurled down into the middle of a surging crowd of
+They were then hurled down into the middle of a surging [[Crowd|crowd]] of
 natives, and butchered. At another stage of the festival human
 sacrifices were offered at the shrine of the king's ancestors, and the
 blood was sprinkled on their graves. This was known as _Zan Nyanyana_ or
 "evil night," the king going in procession with his wives and officials
-and himself executing the doomed. These semi-public massacres formed
+and himself executing the doomed. These semi-public [[Massacre|massacres]] formed
 only a part of the slaughter, for many women, eunuchs and others within
 the palace were done to death privately. The skulls were used to adorn
 the palace walls, and the king's sleeping-chamber was paved with the
 heads of his enemies. The skulls of the conquered kings were turned into
-royal drinking cups, their conversion to this use being esteemed an
+royal drinking cups, their [[Conversion|conversion]] to this use being esteemed an
 honour. Sir Richard Burton insists (_A Mission to Gelele, King of
 Dahome_) that the horrors of these rites were greatly exaggerated. For
 instance, the story that the king floated a canoe in a tank of human
 blood was, he writes, quite untrue. He denies, too, that the victims
 were tortured, and affirms that on the contrary they were treated
-humanely, and, in many cases, even acquiesced in their fate. It seems
-that cannibalism was a sequel of the Customs, the bodies of the
+humanely, and, in many cases, even acquiesced in their [[Fate|fate]]. It seems
+that [[Cannibalism|cannibalism]] was a sequel of the Customs, the bodies of the
 slaughtered being roasted and devoured smoking hot. On the death of the
 king the wives, after the most extravagant demonstrations of grief,
 broke and destroyed everything within their reach, and attacked and
@@ -387,16 +387,16 @@ population were said to be "married to the fetich," many even before
 their birth, and the remainder were entirely at the disposal of the
 king. The most favoured were selected as his own wives or enlisted into
 the regiments of Amazons, and then the chief men were liberally
-supplied. Of the female captives the most promising were drafted into
+supplied. Of the female [[Captive|captives]] the most promising were drafted into
 the ranks as soldiers, and the rest became Amazonian camp followers and
-slaves in the royal households. These female levies formed the flower of
+slaves in the royal households. These female [[Levi|levies]] formed the flower of
 the Dahomeyan army. They were marshalled in regiments, each with its
 distinctive uniform and badges, and they took the post of honour in all
 battles. Their number has been variously stated. Sir R. F. Burton, in
 1862, who saw the army marching out of Kana on an expedition, computed
 the whole force of female troops at 2500, of whom one-third were unarmed
-or only half-armed. Their weapons were blunderbusses, flint muskets, and
-bows and arrows. A later writer estimated the number of Amazons at 1000,
+or only half-armed. Their weapons were [[Blunderbuss|blunderbusses]], flint muskets, and
+[[Bow|bows]] and arrows. A later writer estimated the number of Amazons at 1000,
 and the male soldiers at 10,000. The system of warfare was one of
 surprise. The army marched out, and, when within a few days' journey of
 the town to be attacked, silence was enjoined and no fires permitted.
@@ -407,7 +407,7 @@ possible; none were killed except in self-defence, as the first object
 was to capture, not to kill. The season usually selected for expeditions
 was from January to March, or immediately after the annual "Customs."
 The Amazons were carefully trained, and the king was in the habit of
-holding "autumn manoeuvres" for the benefit of foreigners. Many
+holding "autumn [[Manoeuvres|manoeuvres]]" for the benefit of foreigners. Many
 Europeans have witnessed a mimic assault, and agree in ascribing a
 marvellous power of endurance to the women. Lines of thorny acacia were
 piled up one behind the other to represent defences, and at a given
@@ -434,7 +434,7 @@ captive bound with a rope.
   and French Colonial Offices may be consulted, and the _Bibliographie
   raisonnee des ouvrages concernant le Dahomey_, by A. Pawlowski (Paris,
   1895), is a useful guide to the literature of the country to that
-  date. A _Carte du Dahomey_, by A. Meunier, (3 sheets, scale
+  date. A _[[Carte]] du Dahomey_, by A. Meunier, (3 sheets, scale
   1:500,000), was published in Paris, 1907.
 
 ## See also

@@ -7,7 +7,7 @@ type: source
 
 # Martha'S Vineyard
 
-MARTHA'S VINEYARD, an island including the greater part of Dukes county,
+MARTHA'S VINEYARD, an island including the greater part of [[Dukes]] county,
 Massachusetts, U.S.A., lying about 3 m. off the southern coast of that
 state. Its extreme length (east to west) is about 20 m., and its extreme
 width (north to south) about 9½ m. Along its north-west and a portion of
@@ -17,13 +17,13 @@ the island; and, on the eastern coast, Edgartown Harbor and Katama Bay,
 both formed by the juxtaposition of Chappaquiddick Island. The surface
 is mainly flat, excepting a strip about 2 m. broad along the
 north-western coast, and the two western townships (Chilmark and Gay
-Head), which are hilly, with several eminences of 200 to 300 ft.--the
+Head), which are hilly, with several [[Eminence|eminences]] of 200 to 300 ft.--the
 highest, Prospect Peak, in Chilmark township, 308 ft. Gay Head Light, a
 beacon near the western extremity, stands among picturesque cliffs, 145
 ft. above the sea. Along the southern coast are many ponds, all shut off
 from the ocean by a narrow strip of land, excepting Tisbury Great Pond,
 which has a small outlet to the sea. Others are Sengekontacket Pond on
-the eastern coast; Lagoon Pond, which is practically an arm of Vineyard
+the eastern coast; [[Lagoon]] Pond, which is practically an arm of Vineyard
 Haven Harbor; and, about a mile east of the Harbor, Chappaquonsett Pond.
 Martha's Vineyard is divided into the following townships (from east to
 west): Edgartown (in the south-eastern part of the island), pop. (1910),
@@ -32,7 +32,7 @@ west): Edgartown (in the south-eastern part of the island), pop. (1910),
 sq. m.; West Tisbury, pop. (1910), 437; area, 30.5 sq. m.; Chilmark,
 pop. (1910), 282; area, 19.4 sq. m.; and Gay Head, pop. (1910), 162;
 area 5.2 sq. m. The population of the county, including the Elizabeth
-Ids. (Gosnold town, pop. 152), N. W. of Martha's Vineyard;
+Ids. ([[Gosnold]] town, pop. 152), N. W. of Martha's Vineyard;
 Chappaquiddick Island (Edgartown township), and No Man's Land (a small
 island south-west of Martha's Vineyard), was 4561 in 1900 (of whom 645
 were foreign-born, including 79 Portuguese and 72 English-Canadians, and
@@ -45,7 +45,7 @@ south of Gay Head. It is about 1½ m. long (east and west) and about 1 m.
 wide, is composed of treeless swamps, and is used mainly for
 sheep-grazing; the neighbouring waters are excellent fishing ground.
 Martha's Vineyard is served by steamship lines from Wood's Hole and New
-Bedford to Vineyard Haven, Oak Bluffs, and Edgartown. The Martha's
+[[Bedford]] to Vineyard Haven, Oak Bluffs, and Edgartown. The Martha's
 Vineyard railway (from Oak Bluffs to the south-east extremity of the
 island, by way of Edgartown), opened in 1874, was not a financial
 success, and had been practically abandoned in 1909, but an electric
@@ -73,7 +73,7 @@ important counties of the state in this industry.
 Martha's Vineyard was discovered in 1602 by Captain Bartholomew Gosnold,
 who landed (May 21) on the island now called No Man's Land, and named it
 Martha's Vineyard,[1] which name was subsequently applied to the larger
-island. Captain Gosnold rounded Gay Head, which he named Dover Cliff,
+island. Captain Gosnold rounded Gay Head, which he named [[Dover]] Cliff,
 and established on what is now Cuttyhunk Island, which he called
 Elizabeth Island, the first (though, as it proved, a temporary) English
 settlement in New England. The entire line of sixteen islands, of which
@@ -84,10 +84,10 @@ and Vineyard Sound, and in 1864 were incorporated as Gosnold township
 
 The territory within the jurisdiction of the Council for New England was
 parcelled in 1635 among the patentees in such terms--owing to
-insufficient knowledge of the geography of the coast--that both William
-Alexander, earl of Stirling, and Sir Ferdinando Gorges, proprietor of
-Maine, claimed Martha's Vineyard. In 1641 Stirling's agent, Forrett,
-sold to Thomas Mayhew (1592-1682),[2] of Watertown, Massachusetts, for
+insufficient knowledge of the [[Geography|geography]] of the coast--that both William
+Alexander, earl of Stirling, and Sir Ferdinando [[Gorges]], proprietor of
+[[Maine]], claimed Martha's Vineyard. In 1641 Stirling's agent, Forrett,
+sold to Thomas [[Mayhew]] (1592-1682),[2] of Watertown, Massachusetts, for
 $200, the island of Nantucket, with several smaller neighbouring
 islands, and also Martha's Vineyard. It seems probable that Forrett
 acted without authority, and his successor, Forrester, was arrested by
@@ -100,9 +100,9 @@ decade managed their own affairs. Meanwhile Mayhew had recognized the
 jurisdiction of Maine;[3] and though the officials of that province
 showed no disposition to press their claim, it seems that this technical
 suzerainty continued until 1664, when the Duke of York received from his
-brother, Charles II., the charter for governing New York, New Jersey,
+brother, Charles II., the charter for governing New York, New [[Jersey]],
 and other territory, including Martha's Vineyard. In 1671 Governor
-Francis Lovelace, of New York, appointed Mayhew governor for life of
+Francis [[Lovelace]], of New York, appointed Mayhew governor for life of
 Martha's Vineyard; in 1683, the island, with Nantucket, the Elizabeth
 Islands, No Man's Land, and Chappaquiddick Island were erected into
 Dukes county, and in 1695 the county was re-incorporated by
@@ -122,13 +122,13 @@ Harbor," but soon after Mayhew was appointed governor of the island it
 was named Edgartown, probably in honour of the only surviving son of the
 Duke of York. The younger Mayhew, soon after removing to Martha's
 Vineyard, devoted himself to missionary work among the Indians, his work
-beginning at about the same time as that of John Eliot; he was lost at
+beginning at about the same time as that of John [[Eliot]]; he was lost at
 sea in 1657 while on his way to secure financial assistance in England,
 and his work was continued successfully by his father.[4] The township
 of Edgartown was incorporated in 1671, and is the county-seat of Dukes
 county. In 1783 several Edgartown families joined the association made
 up of Martha's Vineyard, Nantucket, Providence and Newport whalers, who
-founded Hudson, on the Hudson river, in Columbia county, New York. Oak
+founded [[Hudson]], on the Hudson river, in [[Columbia]] county, New York. Oak
 Bluffs had its origin as a settlement in the camp meetings, which were
 begun here in 1835, and by 1860 had grown to large proportions. As the
 village expanded it took the name of Cottage City. In 1880 the township
@@ -146,7 +146,7 @@ incorporated in 1870.
   1908); Charles E. Banks, "Martha's Vineyard and the Province of Maine"
   in _Collections and Proceedings_ of the Maine Historical Society, 2nd
   series, vol. ix. p. 123 (Portland, Maine, 1898); and Walter S. Tower,
-  _A History of the American Whale Fishery_ (Philadelphia, 1907).
+  _A History of the American Whale [[Fishery]]_ (Philadelphia, 1907).
        (G. G.*)
 
 
@@ -154,8 +154,8 @@ FOOTNOTES:
 
   [1] In the 17th century both "Martha's Vineyard" and "Martin's
     Vineyard" were used, and the latter appears in a book as early as
-    1638 and in another as late as 1699, and on a map as late as 1670. It
-    seems probable that the original form was _Martin_ the name of one of
+    1638 and in another as late as 1699, and on a [[Map|map]] as late as 1670. It
+    seems probable that the original form was _[[Martin]]_ the name of one of
     Gosnold's crew; according to some authorities the name Martha's
     Vineyard was adopted by Mayhew in honour of his wife or daughter.
 
@@ -166,17 +166,17 @@ FOOTNOTES:
     Vineyard.
 
   [3] It appears from a letter from Mayhew to Governor Andros in 1675
-    that about 1641 Mayhew obtained a conveyance to Martha's Vineyard
+    that about 1641 Mayhew obtained a [[Conveyance|conveyance]] to Martha's Vineyard
     from Richard Vines, agent of Gorges. See F. B. Hough, _Papers
     Relating to the Island of Nantucket, with Documents Relating to the
     Original Settlement of that Island, Martha's Vineyard, &c._ (Albany,
     N.Y., 1856).
 
-  [4] In 1901, a boulder memorial was erected to the younger Mayhew on
+  [4] In 1901, a [[Boulder|boulder]] memorial was erected to the younger Mayhew on
     the West Tisbury road, between the village of that name and
     Edgartown, marking the spot where the missionary bade farewell to
     several hundred Indians. The Martha's Vineyard Indians were subject
-    to the Wampanoag tribe, on the mainland, were expert watermen, and
+    to the Wampanoag tribe, on the mainland, were [[Expert|expert]] watermen, and
     were very numerous when the whites first came. Nearly all of them
     were converted to Christianity by the Mayhews, and they were friendly
     to the settlers during King Philip's war. By 1698 their numbers had
@@ -197,10 +197,10 @@ Martí joined the Valencian _Academia de los nocturnos_, under the name
 of "Atrevimiento," but is best known by another pseudonym, Mateo Luján
 de Sayavedra, under which he issued an apocryphal continuation (1602) of
 Alemán's _Guzmán de Alfarache_ (1599). Marti obtained access to Alemán's
-unfinished manuscript, and stole some of his ideas; this dishonesty
+unfinished [[Manuscript|manuscript]], and stole some of his ideas; this dishonesty
 lends point to the sarcastic congratulations which Alemán, in the
 genuine sequel (1604) pays to his rival's sallies: "I greatly envy them,
-and should be proud that they were mine." Martí's book is clever, but
+and should be proud that they were mine." Martí's book is [[Clever|clever]], but
 the circumstances in which it was produced account for its cold
 reception and afford presumption that the best scenes are not original.
 

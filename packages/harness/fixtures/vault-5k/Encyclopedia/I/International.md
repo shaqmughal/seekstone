@@ -19,7 +19,7 @@ further interchange of ideas expressed. Nothing decisive was done till
 at St Martin's Hall, London, and a provisional committee was appointed
 to draft the constitution of the new association.
 
-The first four congresses of the International, held at Geneva
+The first four congresses of the International, held at [[Geneva]]
 (September 1866), Lausanne (1867), Brussels (1868), and Basel (1869),
 marked the rapid development of the association. It gained its first
 triumph in the effectual support of the bronze-workers at Paris during
@@ -39,7 +39,7 @@ contributing support. At the successive congresses its socialistic
 tendencies became more and more pronounced; it declared its opposition
 to private property not only in railways but in mines and the soil,
 holding that these should revert to the community. Even the principle of
-inheritance was saved only by a narrow majority. In 1869 M. Bakunin, the
+inheritance was saved only by a narrow majority. In 1869 M. [[Bakunin]], the
 Russian socialist or nihilist, with his party joined the association,
 and at once asserted his character as the "apostle of universal
 destruction."
@@ -49,17 +49,17 @@ spring of 1871 has been the subject of much dispute. It is now agreed
 that the International as such had no part either in originating or
 conducting it; some of its French members joined it, but only on their
 individual responsibility. Its complicity after the event is equally
-clear. After the fall of the commune the general council of London, Karl
+clear. After the fall of the [[Commune|commune]] the general council of London, Karl
 Marx included, issued a long and trenchant manifesto, approving its
 action and extolling the "glorious vanquished." From this point the
 decline and fall of the association is to be dated. The English
-unionists, intent on more practical concerns at home, never took a deep
+unionists, [[Intent|intent]] on more practical concerns at home, never took a deep
 interest in its proceedings; the German socialists were hindered by law
 from corporate action; America was too remote. But it found its worst
 enemies amongst its own friends; the views of Marx and his school were
 too moderate for the universally subversive principles of M. Bakunin and
 the radical Swiss federation of the Jura. It came to a rupture at the
-congress of 1872, held at the Hague, when Bakunin, being outvoted and
+congress of 1872, held at the [[Hague]], when Bakunin, being outvoted and
 "excommunicated" by the Marx party, formed a rival International, which
 found its chief support in Spain and Italy. Wearied of its European
 contentions and desirous to form a basis of operation in America, the

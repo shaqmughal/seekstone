@@ -12,7 +12,7 @@ IMMACULATE CONCEPTION, THE. This dogma of the Roman Catholic Church was
 defined, as "of faith" by Pope Pius IX. on the 8th of December 1854 in
 the following terms: "The doctrine which holds that the Blessed Virgin
 Mary, from the first instant of her conception, was, by a most singular
-grace and privilege of Almighty God, in view of the merits of Jesus
+[[Grace|grace]] and privilege of Almighty God, in view of the merits of Jesus
 Christ, the Redeemer of the human race, preserved from all stain of
 Original Sin, is a doctrine revealed, by God, and therefore to be firmly
 and steadfastly believed by all the faithful."[1] These words presuppose
@@ -38,17 +38,17 @@ depravity may be overcome by the grace of God, and he adds that he does
 not know but that Mary may have had sufficient grace to overcome sin "of
 every sort" (_omni ex parte_).
 
-It seems to have been St Bernard who, in the 12th century, explicitly
+It seems to have been St [[Bernard]] who, in the 12th century, explicitly
 raised the question of the Immaculate Conception. A feast of the
 Conception of the Blessed Virgin had already begun to be celebrated in
 some churches of the West. St Bernard blames the canons of the
-metropolitan church of Lyons for instituting such a festival without the
+metropolitan church of [[Lyons]] for instituting such a festival without the
 permission of the Holy See. In doing so, he takes occasion to repudiate
 altogether the view that the Conception of Mary was sinless. It is
 doubtful, however, whether he was using the term "Conception" in the
-same sense in which it is used in the definition of Pius IX. In speaking
+same sense in which it is used in the [[Definition|definition]] of Pius IX. In speaking
 of conception one of three things may be meant: (1) the mother's
-co-operation; (2) the formation of the body, or (3) the completion of
+[[Co-Operation|co-operation]]; (2) the formation of the body, or (3) the completion of
 the human being by the infusion of the rational or spiritual soul. In
 early times conception was very commonly used in the first
 sense--"active" conception as it was called. But it is in the second, or
@@ -62,10 +62,10 @@ speaking of the mother and not of the child.[4]
 St Thomas Aquinas, the greatest of the medieval scholastics, refused to
 admit the Immaculate Conception, on the ground that, unless the Blessed
 Virgin had at one time or other been one of the sinful, she could not
-justly be said to have been redeemed by Christ.[5] St Bonaventura (d.
+justly be said to have been redeemed by Christ.[5] St [[Bonaventura]] (d.
 1274), second only to St Thomas in his influence on the Christian
 schools of his age, hesitated to accept it for a similar reason.[6] The
-celebrated John Duns Scotus (d. 1308), a Franciscan like St Bonaventura,
+celebrated John [[Duns Scotus]] (d. 1308), a Franciscan like St Bonaventura,
 argued, on the contrary, that from a rational point of view it was
 certainly as little derogatory to the merits of Christ to assert that
 Mary was by him preserved from all taint of sin, as to say that she
@@ -77,14 +77,14 @@ Sixtus IV., who had already (1476) emphatically approved of the feast of
 the Conception, condemned those who ventured to assert that the doctrine
 of the Immaculate Conception was heretical, and forbade either side to
 claim a decisive victory until further action on the part of the Holy
-See. The council of Trent, after declaring that in its decrees on the
+See. The council of Trent, after declaring that in its [[Decree|decrees]] on the
 subject of original sin it did not include "the blessed and immaculate
 Virgin Mary, Mother of God," renewed this prohibition.[8] Pope Paul V.
 (d. 1651) ordered that no one, under severe penalties, should dare to
 assent in public "acts" or disputations that the Blessed Virgin was
 conceived in original sin. Pope Gregory XV., shortly afterwards,
 extended this prohibition to private discussions, allowing, however, the
-Dominicans to argue on the subjects among themselves. Clement XI., in
+Dominicans to argue on the subjects among themselves. [[Clement]] XI., in
 1708, extended the feast of the Conception to the whole Church as a holy
 day of obligation. Long before the middle of the 19th century the
 doctrine was universally taught in the Roman Catholic Church. During the
@@ -93,8 +93,8 @@ for a definition. Pius IX., at the beginning of his pontificate, and
 again after 1851, appointed commissions to investigate the whole
 subject, and he was advised that the doctrine was one which could be
 defined and that the time for a definition was opportune. On the 8th of
-December 1854 in a great assembly of bishops, in the basilica of St
-Peter's at Rome, he promulgated the Bull _Ineffabilis Deus_, in which
+December 1854 in a great assembly of bishops, in the [[Basilica|basilica]] of St
+Peter's at Rome, he promulgated the [[Bull]] _Ineffabilis [[Deus]]_, in which
 the history of the doctrine is summarily traced, and which contains the
 definition as given above.
 
@@ -129,7 +129,7 @@ have always kept it one day later.
   For English readers the doctrine, and the history of its definition,
   is clearly stated by Archbishop Ullathorne in _The Immaculate
   Conception of the Mother of God_ (2nd ed., London, 1904). Dr F. G.
-  Lee, in _The Sinless Conception of the Mother of God; a Theological
+  [[Lee]], in _The Sinless Conception of the Mother of God; a Theological
   Essay_ (London, 1891) argued that the doctrine of the Immaculate
   Conception is a legitimate development of early church teaching.
        (+J. C. H.)
@@ -151,7 +151,7 @@ FOOTNOTES:
 
   [7] _In librum III. sententiarum dist._ 3 quaest. i. n. 4; _Cfr.
     Distinct_. 18 n. 15. Also the _Summa theologia_ of Scotus (compiled
-    by a disciple), part iii., quaest. 27, art. 2.
+    by a [[Disciple|disciple]]), part iii., quaest. 27, art. 2.
 
   [8] Sess. v. _De peccato originale_.
 

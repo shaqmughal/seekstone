@@ -11,7 +11,7 @@ parliamentary borough of Essex, England, on an acclivity rising from the
 south side of the Blackwater, 43 m. E.N.E. from London by a branch from
 Witham of the Great Eastern railway. Pop. (1901), 5565. There are east
 and west railway stations. The church of All Saints, dating from 1056,
-but, as it stands, Early English and later, consists of chancel, nave
+but, as it stands, Early English and later, consists of [[Chancel|chancel]], nave
 and aisles, with a triangular Early English tower (a unique form) at the
 west end surmounted by a hexagonal spire. The tower of St Mary's Church
 shows Norman work with Roman materials. The other public buildings are

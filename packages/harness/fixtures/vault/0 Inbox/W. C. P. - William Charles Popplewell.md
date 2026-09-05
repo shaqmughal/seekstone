@@ -8,10 +8,10 @@ id: 42-8650
 # W. C. P. - William Charles Popplewell
 
 W. C. P. - WILLIAM CHARLES POPPLEWELL, M.SC., A.M.I.C.E.
-Lecturer in Engineering in Manchester School of Technology (University of
+Lecturer in [[Engineering]] in Manchester School of Technology (University of
 Manchester). Author of _Compressed Air_; _Heat Engines_; &c.
 
-- Bellows and Blowing Machines.
+- [[Bellows]] and Blowing [[Machine|Machines]].
 
 ## References
 

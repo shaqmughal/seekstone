@@ -13,7 +13,7 @@ a life apart from the surrounding Hindu population, and still preserve a
 certain ethnical identity, scarcely justified by any indications given
 by their physique. They make a living as jugglers, dancers,
 basket-weavers and fortune-tellers; and in true European gipsy fashion
-each clan has its king.
+each [[Clan|clan]] has its king.
 
 ## References
 

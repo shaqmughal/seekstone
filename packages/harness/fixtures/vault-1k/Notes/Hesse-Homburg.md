@@ -25,7 +25,7 @@ the latter state was compelled to recognize the independence of
 Hesse-Homburg, which was increased by the addition of Meisenheim.
 Frederick V. joined the German confederation as a sovereign prince in
 1817, and after his death his five sons in succession filled the throne.
-The last of these, Ferdinand, who succeeded in 1848, granted a liberal
+The last of these, [[Ferdinand]], who succeeded in 1848, granted a liberal
 constitution to his people, but cancelled it during the reaction of 1852.
 When he died on the 24th of March 1866, Hesse-Homburg was inherited by
 Louis III., grand-duke of Hesse-Darmstadt, while Meisenheim fell to

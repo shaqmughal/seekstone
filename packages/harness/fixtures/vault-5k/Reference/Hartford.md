@@ -41,12 +41,12 @@ the Colt revolver; in the S.W. is Pope Park (about 90 acres); in the W.
 is Elizabeth (100 acres); in the E., along the Connecticut river front,
 is Riverside (about 80 acres); and in the extreme N. is Keney Park (680
 acres), the gift of Henry Keney, and, next to the Metropolitan
-Reservations near Boston, the largest park in the New England states.
+Reservations near [[Boston]], the largest park in the New England states.
 Near the centre of the city are the Capitol Grounds (27 acres; until
-1872 the campus of Trinity College) and Bushnell Park (41 acres),
+1872 the campus of Trinity College) and [[Bushnell]] Park (41 acres),
 adjoining Capitol Park. Bushnell Park, named in honour of Horace
-Bushnell, contains the Corning Memorial Fountain, erected in 1899 and
-designed by J. Massey Rhind, and three bronze statues, one, by J. Q. A.
+Bushnell, contains the Corning Memorial [[Fountain]], erected in 1899 and
+designed by J. [[Massey]] Rhind, and three bronze statues, one, by J. Q. A.
 Ward, of General Israel Putnam; one, by Truman H. Bartlett, of Dr Horace
 Wells (1815-1848), the discoverer of anaesthesia; and one, by E. S.
 Woods, of Colonel Thomas Knowlton (1749-1776), a patriot soldier of the
@@ -55,9 +55,9 @@ Capitol Grounds is the state capitol (Richard M. Upjohn, architect), a
 magnificent white marble building, which was completed in 1880 at a cost
 of $2,534,000. Its exterior is adorned with statues and busts of
 Connecticut statesmen and carvings of scenes in the history of the
-state. Within the building are regimental flags of the Civil War, a
+state. Within the building are regimental [[Flag|flags]] of the Civil War, a
 bronze statue by Olin L. Warner of Governor William A. Buckingham, a
-bronze statue by Karl Gerhardt of Nathan Hale, a bronze tablet (also by
+bronze statue by Karl [[Gerhardt]] of Nathan Hale, a bronze tablet (also by
 Karl Gerhardt) in memory of John Fitch (1743-1798), the inventor; a
 portrait of Washington, purchased by the state in 1800 from the artist,
 Gilbert Stuart; and a series of oil portraits of the colonial and state
@@ -94,7 +94,7 @@ are the Hartford public library (containing 90,000 volumes in 1908), the
 Watkinson library of reference (70,000 volumes in 1908), the library of
 the Connecticut historical society (25,000 volumes in 1908) and a public
 art gallery. Other institutions of importance in Hartford are the
-American school for the deaf (formerly the American asylum for the deaf
+American school for the deaf (formerly the American [[Asylum|asylum]] for the deaf
 and dumb), founded in 1816 by Thomas H. Gallaudet; the retreat for the
 insane (opened for patients in 1824); the Hartford hospital; St Francis
 hospital; St Thomas's seminary (Roman Catholic); La Salette Missionary
@@ -121,9 +121,9 @@ value of the "factory" product was $25,975,651. The principal industries
 are the manufacture of small arms (by the Colt's Patent Fire-Arms
 Manufacturing Co., makers of the Colt revolver and the Gatling gun),
 typewriters (Royal and Underwood), automobiles, bicycles, cyclometers,
-carriages and wagons, belting, cigars, harness, machinists' tools and
+carriages and wagons, belting, [[Cigar|cigars]], [[Harness|harness]], machinists' tools and
 instruments of precision, coil-piping, church organs, horse-shoe nails,
-electric equipment, machine screws, drop forgings, hydrants and valves,
+electric equipment, [[Machine|machine]] screws, drop forgings, hydrants and valves,
 and engines and boilers. In 1788 the first woollen mill in New England
 was opened in Hartford; and here, too, about 1846, the Rogers process of
 electro-silver plating was invented. The city is one of the most
@@ -159,7 +159,7 @@ by sixty immigrants, mostly from New Town (now Cambridge),
 Massachusetts; but the main immigration was in 1636, when practically
 all the New Town congregation led by Thomas Hooker and Samuel Stone
 joined those who had preceded them. Their settlement was called Newtown
-until 1637, when the present name was adopted from Hertford, England,
+until 1637, when the present name was adopted from [[Hertford]], England,
 the birthplace of Stone. In 1636 Hartford was the meeting-place of the
 first general court of the Connecticut colony; the Fundamental Orders,
 the first written constitution, were adopted at Hartford in 1639; and
@@ -176,12 +176,12 @@ Hopkins, John Trumbull, Joel Barlow and David Humphreys, the leading
 members of a group of authors known as the "Hartford Wits"; and in
 1814-1815 the city was the meeting-place of the famous Hartford
 Convention, an event of great importance in the history of the
-Federalist party. The War of 1812, with the Embargo Acts (1807-1813),
+Federalist party. The War of 1812, with the [[Embargo]] Acts (1807-1813),
 which were so destructive of New England's commerce, thoroughly aroused
 the Federalist leaders in this part of the country against the National
 government as administered by the Democrats, and in 1814, when the
 British were not only threatening a general invasion of their territory
-but had actually occupied a part of the Maine coast, and the National
+but had actually occupied a part of the [[Maine]] coast, and the National
 government promised no protection, the legislature of Massachusetts
 invited the other New England states to join with her in sending
 delegates to a convention which should meet at Hartford to consider
@@ -189,13 +189,13 @@ their grievances, means of preserving their resources, measures of
 protection against the British, and the advisability of taking measures
 to bring about a convention of delegates from all the United States for
 the purpose of revising the Federal constitution. The legislatures of
-Connecticut and Rhode Island, and town meetings in Cheshire and Grafton
+Connecticut and Rhode Island, and town meetings in Cheshire and [[Grafton]]
 counties (New Hampshire) and in Windham county (Vermont) accepted the
 invitation, and the convention, composed of 12 delegates from
 Massachusetts, 7 from Connecticut, 4 from Rhode Island, 2 from New
 Hampshire and 1 from Vermont, all Federalists, met on the 15th of
-December 1814, chose George Cabot of Massachusetts president and
-Theodore Dwight of Connecticut secretary, and remained in secret session
+December 1814, [[Chose|chose]] George Cabot of Massachusetts president and
+Theodore [[Dwight]] of Connecticut secretary, and remained in secret session
 until the 5th of January 1815, when it adjourned _sine die_. At the
 conclusion of its work it recommended greater military control for each
 of the several states and that the Federal constitution be so amended
@@ -236,9 +236,9 @@ attacked throughout the country.
 
 Hartford was the birthplace of Noah Webster, who here published his
 _Grammatical Institute of the English Language_ (1783-1785), and of
-Henry Barnard, John Fiske and Frederick Law Olmsted, and has been the
-home of Samuel P. Goodrich (Peter Parley), George D. Prentice, Harriet
-Beecher Stowe, Charles Dudley Warner, Samuel L. Clemens (Mark Twain) and
+Henry [[Barnard]], John [[Fiske]] and Frederick Law Olmsted, and has been the
+home of Samuel P. [[Goodrich]] (Peter Parley), George D. Prentice, Harriet
+Beecher Stowe, Charles [[Dudley]] Warner, Samuel L. Clemens (Mark Twain) and
 Horace Bushnell. More than 100 periodicals have been established in
 Hartford, of which the oldest is the _Hartford Courant_ (1764), the
 oldest newspaper in the United States. This paper was very influential
@@ -254,7 +254,7 @@ _Congregationalist_ (afterwards published in Boston) and the _Churchman_
   (Hartford, 1853), edited by W. M. B. Hartley; and J. H. Trumbull,
   _Memorial History of Hartford County_ (Boston, 1886). For the Hartford
   Convention see _History of the Hartford Convention_ (Boston, 1833),
-  published by its secretary, Theodore Dwight; H. C. Lodge, _Life and
+  published by its secretary, Theodore Dwight; H. C. [[Lodge]], _Life and
   Letters of George Cabot_ (Boston, 1877); and Henry Adams, _Documents
   Relating to New England Federalism_ (Boston, 1877).
 

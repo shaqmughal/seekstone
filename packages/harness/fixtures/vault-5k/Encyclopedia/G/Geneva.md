@@ -27,7 +27,7 @@ where it borders on the Swiss canton of Vaud. The Rhone flows through it
 from east to west, and then along its south-west edge, the total length
 of the river in or within the canton being about 13 m., as it is very
 sinuous. The turbid Arve is by far its largest tributary (left), and
-flows from the snows of the chain of Mont Blanc, the only other affluent
+flows from the snows of the chain of Mont [[Blanc]], the only other affluent
 of any size being the London (right). Market gardens, orchards, and
 vineyards occupy a large proportion of the soil (outside the city), the
 apparent fertility of which is largely due to the unremitting industry
@@ -36,15 +36,15 @@ swine and 2048 bee-hives in the canton. Besides building materials, such
 as sandstone, slate, &c., the only mineral to be found within the canton
 is bituminous shale, the products of which can be used for petroleum and
 asphalt. The broad-gauge railways in the canton have a length of 18¾ m.,
-and include bits of the main lines towards Paris and Lausanne (for Bern
+and include bits of the main lines towards Paris and Lausanne (for [[Bern]]
 or the Simplon), while there are also 72¾ m. of electric tramways. The
 canton was admitted into the Swiss Confederation in 1815 only, and ranks
 as the junior of the 22 cantons. In 1815-1816 it was created by adding
 to the old territory belonging to the city (just around it, with the
-outlying districts of Jussy, Genthod, Satigny and Cartigny) 16 communes
+outlying districts of Jussy, Genthod, Satigny and Cartigny) 16 [[Commune|communes]]
 (to the south and east, including Carouge and Chêne) ceded by Savoy, and
 6 communes (to the north, including Versoix), cut off from the French
-district of Gex.
+district of [[Gex]].
 
 
   Statistics of canton and city.
@@ -124,7 +124,7 @@ cures) has greatly lost its former importance and can now only submit
 proposals to the Consistory. The Christian Catholic Church is also
 "established" at Geneva (since 1873) and is governed by the _conseil
 supérieur_, composed of 25 lay members and 5 clerics. No other religious
-denominations are "established" at Geneva. But the Romanists (who form
+[[Denomination|denominations]] are "established" at Geneva. But the Romanists (who form
 13% of the electors) are steadily growing in numbers and in influence,
 while the Christian Catholics are losing ground rapidly, the highest
 number of votes received by a candidate for the _conseil supérieur_
@@ -139,7 +139,7 @@ _Kulturkampf_.
 The fairs of Geneva (held 4 times a year) are mentioned as early as
 1262, and attained the height of their prosperity about 1450, but
 declined after Louis XI.'s grants of 1462-1463 in favour of the fairs of
-Lyons. Among the chief articles brought to these fairs (which were
+[[Lyons]]. Among the chief articles brought to these fairs (which were
 largely frequented by Italian, French and Swiss merchants) were cloth,
 silk, armour, groceries, wine, timber and salt, this last coming mainly
 from Provence. The manufacturers of Geneva formed in 1487 no fewer than
@@ -148,14 +148,14 @@ saddle-makers, furriers, shoe-makers, painters on glass, &c. Goldsmiths
 are mentioned as early as 1290. Printing was introduced in 1478 by
 Steinschaber of Schweinfurth, and flourished much in the 16th century,
 though the rigorous supervision exercised by the Consistory greatly
-hampered the Estiennes (Stephanus) in their enterprises. Nowadays the
+hampered the [[Estienne|Estiennes]] (Stephanus) in their enterprises. Nowadays the
 best known industry at Geneva is that of watchmaking, which was
 introduced in 1587 by Charles Cusin of Autun, and two years later
 regulations as to the trade were issued. In 1685 there were in Geneva
 100 master watchmakers, employing 300 work-people, who turned out 5000
 pieces a year, while in 1760 this trade employed 4000 work-people. Of
 recent years its prosperity has diminished greatly, so that the
-watchmaking and jewelry trades in 1902 numbered respectively but 38 and
+watchmaking and [[Jewelry|jewelry]] trades in 1902 numbered respectively but 38 and
 32 of the 394 establishments in Geneva which were subject to the factory
 laws. Lately, huge establishments have been constructed for the
 utilization of the power contained in the Rhone. The local commerce of
@@ -172,22 +172,22 @@ Considering the small size of Geneva, till recently, it is surprising
 how many celebrated persons have been connected with it as natives or as
 residents. Here are a few of the principal, special articles being
 devoted to many of them in this work. In the 16th century, besides
-Calvin and Bonivard, we have Isaac Casaubon, the scholar; Robert and
+Calvin and Bonivard, we have [[Isaac]] [[Casaubon]], the scholar; Robert and
 Henri Estienne, the printers, and, from 1572 to 1574, Joseph Scaliger
 himself, though but for a short time. J.J. Rousseau is, of course, the
 great Genevese of the 18th century. At that period, and in the 19th
 century, Geneva was a centre of light, especially in the case of various
 of the physical sciences. Among the scientific celebrities were de
-Saussure, the most many-sided of all; de Candolle and Boissier, the
+Saussure, the most many-sided of all; de [[Candolle]] and Boissier, the
 botanists; Alphonse Favre and Necker, the geologists; Marignac, the
 chemist; Deluc, the physicist, and Plantamour, the astronomer. Charles
 Bonnet was both a scientific man and a philosopher, while Amiel belonged
 to the latter class only. Pradier and Chaponnière, the sculptors;
-Arlaud, Diday and Calame, the artists; Mallet, who revealed Scandinavia
+Arlaud, Diday and Calame, the artists; [[Mallet]], who revealed Scandinavia
 to the literary world; Necker, the minister; Sismondi, the historian of
 the Italian republics; General Dufour, author of the great survey which
 bears the name of the "Dufour Map," have each a niche in the Temple of
-Fame. Of a less severe type were Cherbuliez, the novelist; Töpffer, who
+Fame. Of a less severe type were [[Cherbuliez]], the novelist; Töpffer, who
 spread a taste for pedestrianism among Swiss youth; Duchosal, the poet;
 Marc Monnier, the littérateur; not to mention the names of any persons
 still living, or of politicians of any date.
@@ -234,7 +234,7 @@ newer and larger one which bears the same name. More interesting than
 the church itself is the adjoining chapel of the Maccabees, built in the
 15th century, and recently restored. Near the cathedral are the arsenal
 (now housing the historical museum, in which are preserved many relics
-of the "Escalade" of 1602, including the famous ladders), and the maison
+of the "Escalade" of 1602, including the famous [[Ladder|ladders]]), and the maison
 de ville or town hall. The latter building is first mentioned in 1448,
 but most of the present building dates from far later times, though the
 quaint paved spiral pathway (taking the place of a staircase in the
@@ -266,7 +266,7 @@ art collections), left, with a fine park, in 1890 to the city by a rich
 citizen, Gustave Revilliod. The public library is in the university
 buildings and contains many valuable MSS. and printed books. Geneva
 boasts also of a fine observatory and of a number of technical schools
-(watchmaking, chemistry, medicine, commerce, fine arts, &c.), some of
+(watchmaking, [[Chemistry|chemistry]], medicine, commerce, [[Fine Arts|fine arts]], &c.), some of
 which are really annexes of the university, which in June 1906 was
 attended by 1158 matriculated students, of whom 903 were non-Swiss, the
 Russians (475 in number) forming the majority of the foreign students.
@@ -275,7 +275,7 @@ Among other remarkable sights of the city may be mentioned the great
 hydraulic establishment (built 1882-1899) of the _Forces Motrices du
 Rhône_ (turbines), the singular monument set up to the memory of the
 late duke of Brunswick who left his fortune to the city in 1873, and the
-Île Jean-Jacques Rousseau now connected with the Pont des Bergues. The
+Île Jean-Jacques Rousseau now connected with the Pont des [[Bergues]]. The
 house occupied by Rousseau is No. 40 in the Grand' Rue, while No. 13 in
 the same street is on the site of Calvin's house, though not the actual
 dwelling inhabited by him.
@@ -312,7 +312,7 @@ confusion, as that saint belongs to Genoa and not to Geneva.
 About the middle of the 5th century A.D. it came into the possession of
 the Burgundians, who held it as late as 527 (thus leaving no room for
 any occupation by the Ostrogoths), and in 534 passed into the hands of
-the Franks. The Burgundian kings seem to have made Geneva one of their
+the [[Frank|Franks]]. The Burgundian kings seem to have made Geneva one of their
 principal residences, and the _Notitia_ (above named) tells us that the
 city was _restaurata_ by King Gundibald (d. 516) which is generally
 supposed to mean that he first surrounded it with a wall, the city then
@@ -335,7 +335,7 @@ reason why, apart from some passing allusions (for instance, Charles the
 Great held a council of war there in 773, on his first journey to
 Italy), we hear very little about it.
 
-In 1032, with the rest of the kingdom of Burgundy or Arles, it reverted
+In 1032, with the rest of the kingdom of Burgundy or [[Arles]], it reverted
 to the emperor Conrad II., who was crowned king at Payerne in 1033, and
 in 1034 was recognized as such at Geneva by a great assembly of nobles
 from Germany, Burgundy and Italy, this rather unwilling surrender
@@ -348,14 +348,14 @@ the pope himself.
 Like many other prince-bishops, the ruler of Geneva had to defend his
 rights: without against powerful neighbours, and within against the
 rising power of the citizens. These struggles constitute the entire
-political history of Geneva up to about 1535, when a new epoch of unrest
+[[Political History|political history]] of Geneva up to about 1535, when a new epoch of unrest
 opens with the adoption of Protestantism. The first foe without was the
 family of the counts of the Genevois (the region south of the city and
 in the neighbourhood of Annecy), who were also "protectors" (_advocati_)
 of the church of Geneva, and are first heard of in the 11th and 12th
 centuries. Their influence was probably never stronger than during the
 rule as bishop (1118-1119) of Guy, the brother of the reigning count.
-But his successor, Humbert de Grammont, resumed the grants made to the
+But his successor, Humbert de [[Grammont]], resumed the grants made to the
 count, and in 1125 by the Accord of Seyssel, the count fully
 acknowledged the suzerainty of the bishop. A fresh struggle under Bishop
 Ardutius (1135-1185) ended in the confirmation by Frederick Barbarossa,
@@ -392,11 +392,11 @@ Geneva. In 1401 Amadeus VIII. of Savoy bought the county of the
 Genevois, as the dynasty of its rulers had become extinct. Geneva was
 now surrounded on all sides by the dominions of the house of Savoy.
 
-Amadeus did homage, in 1405, to the bishop for those of the newly
+Amadeus did [[Homage|homage]], in 1405, to the bishop for those of the newly
 acquired lands which he held from the bishop. But, after his power had
 been strengthened by his elevation (1417) by the emperor to the rank of
 a duke, and by his succession to the principality of Piedmont (1418,
-long held by a cadet branch of his house), Amadeus tried to purchase
+long held by a [[Cadet|cadet]] branch of his house), Amadeus tried to purchase
 Geneva from its bishop, John of Pierre-Scisé or Rochetaillée
 (1418-1422). This offer was refused both by the bishop and by the
 citizens, while in 1420 the emperor Sigismund declared that he alone was
@@ -430,7 +430,7 @@ Louis XI., as well as on the bishop of Geneva, her brother-in-law. But,
 after this payment, the bishop made an alliance with the Swiss. A
 prolonged attempt was made (1517-1530) by the reigning duke of Savoy,
 Charles III. (1504-1553), to secure Geneva for his family, at first with
-the help of his bastard cousin John (1513-1522), the last of his house
+the help of his bastard [[Cousin|cousin]] John (1513-1522), the last of his house
 to hold the see. In this struggle the syndic, Philibert Berthelier,
 succeeded in concluding (1519) an alliance with Fribourg, which,
 however, had to be given up almost immediately. It split the citizens
@@ -448,7 +448,7 @@ Swiss for help. They sent (October 1530) a considerable army to save the
 city. This armed intervention compelled the duke to sign the treaty of
 St Julien (19th October) by which he engaged not to trouble the Genevese
 any more, agreeing that if he did so the two towns of Fribourg and Bern
-should have the right to occupy his barony of Vaud. The two towns also,
+should have the right to occupy his [[Barony|barony]] of Vaud. The two towns also,
 by the decision given as arbitrators at Payerne (30th December 1530),
 upheld their alliance with Geneva, condemned the duke to pay all the
 expenses of the war, and confirmed the clause as to their right to
@@ -571,7 +571,7 @@ partially successful. But the last half of the 18th century marks the
 most brilliant period in the literary history of Geneva, whether as
 regards natives or resident foreigners, while in the succeeding half
 century the number of Genevese scientific celebrities is remarkable. In
-1794 the effects of the French Revolution were shown in the more liberal
+1794 the effects of the [[French Revolution]] were shown in the more liberal
 constitution granted by the city government. But in 1798 the city was
 annexed to France and became the capital of the French department of
 Léman (to be carefully distinguished from the Swiss _canton_ of Léman,
@@ -590,7 +590,7 @@ the constitution of 1842. From 1535 to 1798 public worship according to
 the Romanist form had been strictly forbidden. In 1799 already the first
 attempts were made to reestablish it, and in 1803 the church of St
 Germain was handed over to the Romanists. The constitution of 1814,
-looking forward to the annexation of Romanist districts to the city
+looking forward to the [[Annexation|annexation]] of Romanist districts to the city
 territory to form the new canton, guaranteed to that body the freedom of
 worship, at any rate in these newly gained districts. In 1819 the canton
 (the new portions of which were inhabited mainly by Romanists) was
@@ -598,7 +598,7 @@ annexed to the bishopric of Lausanne, the bishop in 1821 being
 authorized to add "and of Geneva" to his episcopal style. After the
 adventure of the "Escalade" the fortifications were once more
 strengthened and extended, these works being completed about 1726. But,
-in 1822, some of the bastions were converted into promenades, while in
+in 1822, some of the [[Bastion|bastions]] were converted into promenades, while in
 1849 the rest of the fortifications were pulled down so as to allow the
 city to expand and gradually assume its present aspect.
 
@@ -674,7 +674,7 @@ of Church and State.
   jours_ (2 vols., Geneva, 1872-1874); Fr. Bonivard, _Chroniques de
   Genève_ (Reprint) (2 vols., Geneva, 1867); F. Borel, _Les Foires de
   Genève au XV^e siècle_ (Geneva, 1892); Ch. Borgeaud, _Histoire de
-  l'université de Genève, 1559-1798_ (Geneva, 1900); E. Choisy, _La
+  l'université de Genève, 1559-1798_ (Geneva, 1900); E. [[Choisy]], _La
   Théocratie à Genève au temps de Calvin_ (Geneva, 1898), and _L'État
   chrétien Calviniste à Genève au temps de Théodore de Bèze_ (Geneva,
   1902); F. de Crue, _La Guerre féodale de Genève et l'établissement de
@@ -690,9 +690,9 @@ of Church and State.
   Genève à l'époque de l'Escalade, 1598-1603_ (Geneva, 1902), and _Les
   Constitutions de la République de Genève_ (to 1847) (Geneva, 1890);
   J.B.G. Galiffe, _Genève historique et archéologique_ (2 vols., Geneva,
-  1869-1872); J.A. Gautier, _Histoire de Genève_ (to 1691) (6 vols.,
-  1896-1903); F. Gribble and J.H. and M.H. Lewis, _Geneva_ (London,
-  1908); J. Jullien, Histoire de Genève (new ed.; Geneva, 1889); C.
+  1869-1872); J.A. [[Gautier]], _Histoire de Genève_ (to 1691) (6 vols.,
+  1896-1903); F. Gribble and J.H. and M.H. [[Lewis]], _Geneva_ (London,
+  1908); J. [[Jullien]], Histoire de Genève (new ed.; Geneva, 1889); C.
   Martin, _La Maison de Ville de Genève_ (Geneva, 1906); _Mémoires et
   documents_ (publ. by the local Historical Society since 1821); F.
   Mugnier, _Les Évêques de Genève-Annecy, 1535-1870_ (Paris, 1888);

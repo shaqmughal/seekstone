@@ -7,7 +7,7 @@ type: reference
 
 # Kirkee
 
-KIRKEE (or KIRKI), a town and military cantonment of British India in
+KIRKEE (or KIRKI), a town and military [[Cantonment|cantonment]] of British India in
 Poona district, Bombay, 4 m. N.W. of Poona city. Pop. (1901), 10,797. It
 is the principal artillery station in the Bombay presidency, and has a
 large ammunition factory. It was the scene of a victory over Baji Rao,

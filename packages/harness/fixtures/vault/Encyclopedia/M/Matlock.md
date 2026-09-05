@@ -1,12 +1,12 @@
 # Matlock
 
 MATLOCK, a market town in the western parliamentary division of
-Derbyshire, England, on the river Derwent, 17 m. N. by W. of Derby on
+Derbyshire, England, on the river [[Derwent]], 17 m. N. by W. of [[Derby]] on
 the Midland railway. Pop. (1901), of urban district of Matlock, 5979; of
 Matlock Bath and Scarthin Nick, 1819. The entire township includes the
 old village of Matlock, the commercial and manufacturing district of
 Matlock Bridge, and the fashionable health resorts of Matlock Bath and
-Matlock Bank. The town possesses cotton, corn and paper mills, while in
+Matlock Bank. The town possesses cotton, [[Corn|corn]] and paper mills, while in
 the vicinity there are stone-quarries and lead mines. A peculiar local
 industry is the manufacture of so-called "petrified" birds' nests,
 plants, and other objects. These are steeped in water from the mineral
@@ -27,7 +27,7 @@ neighbourhood there are several fine stalactite caverns.
 Sheltered under the high moorlands of Darley, MATLOCK BANK has grown up
 about a mile north-east of the old village, and has become celebrated
 for the number and excellence of its hydropathic establishments. A
-tramway, worked by a single cable, over a gradient said to be the
+tramway, worked by a single [[Cable|cable]], over a gradient said to be the
 steepest in the world, affords easy communication with Matlock Bridge.
 
 ## See also

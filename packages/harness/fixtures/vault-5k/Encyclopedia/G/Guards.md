@@ -8,7 +8,7 @@ type: note
 # Guards
 
 GUARDS, AND HOUSEHOLD TROOPS. The word _guard_ is an adaptation of the
-Fr. _guarde_, mod. _garde_, O. Ger. _ward_; see GUARDIAN. The practice
+Fr. _guarde_, mod. _garde_, O. Ger. _ward_; see [[Guardian|GUARDIAN]]. The practice
 of maintaining bodyguards is of great antiquity, and may indeed be
 considered the beginning of organized armies. Thus there is often no
 clear distinction between the inner ring of personal defenders and the
@@ -53,7 +53,7 @@ holder (who is always a peer) vacating it on the resignation of the
 government of which he is a member. The corps consists at present of
 captain, lieutenant, standard bearer, clerk of the cheque (adjutant),
 sub-officer and 39 gentlemen-at-arms. The uniform consists of a scarlet
-swallow-tailed coat and blue overalls, with gold epaulettes, brass
+swallow-tailed coat and blue overalls, with gold [[Epaulette|epaulettes]], brass
 dragoon helmet with drooping white plume and brass box-spurs, these last
 contrasting rather forcibly with the partizan, an essentially infantry
 weapon, that they carry.
@@ -98,11 +98,11 @@ weapon, that they carry.
   former name, that of "The King's Body Guard for Scotland," and
   presented to the captain-general a gold stick, thus constituting the
   company part of the royal household. In virtue of this stick the
-  captain-general of the Royal Company takes his place at a coronation
+  captain-general of the Royal Company takes his place at a [[Coronation|coronation]]
   or similar pageant immediately behind the gold stick of England. The
   lieutenants-general of the company have silver sticks; and the
   council, which is the executive body of the company, possess seven
-  ebony ones. George IV. further appointed a full dress uniform to be
+  ebony ones. George IV. further appointed a full [[Dress|dress]] uniform to be
   worn by members of the company at court, when not on duty as guards,
   in which latter case the ordinary field dress is used. The court dress
   is green with green velvet facings, gold epaulettes and lace, crimson
@@ -112,7 +112,7 @@ weapon, that they carry.
   of a dark-green tunic, shoulder-wings and gauntleted cuffs and
   trousers trimmed with black and crimson; a bow-case worn as a sash, of
   the same colour as the coat, black waistbelt with sword, and Balmoral
-  bonnet with thistle ornament and eagle's feather. The officers of the
+  bonnet with thistle ornament and eagle's [[Feather|feather]]. The officers of the
   company are the captain-general, 4 captains, 4 lieutenants, 4 ensigns,
   12 brigadiers and adjutant.
 
@@ -151,7 +151,7 @@ Horse Guards blue tunics with scarlet collars and cuffs. All three wear
 steel cuirasses on state occasions and on guard duty. The head-dress is
 a steel helmet with drooping horse-hair plume (white for Life Guards,
 red for Horse Guards). In full dress white buckskin pantaloons and long
-knee boots are worn. Amongst the peculiarities of these _corps d'elite_
+[[Knee|knee]] boots are worn. Amongst the peculiarities of these _corps d'elite_
 is the survival of the old custom of calling non-commissioned officers
 "corporal of horse" instead of sergeant, and corporal-major instead of
 sergeant-major, the wearing by trumpeters and bandsmen in full dress of
@@ -163,7 +163,7 @@ for the 1st and blue for the 2nd.
 
 The Foot Guards comprise the Grenadier Guards, the Coldstream Guards,
 the Scots Guards and the Irish Guards, each (except the last) of three
-battalions. The Grenadiers, originally the First Foot Guards, represent
+[[Battalion|battalions]]. The Grenadiers, originally the First Foot Guards, represent
 a royalist infantry regiment which served with the exiled princes in the
 Spanish army and returned at the Restoration in 1660. The Coldstream
 Guards are a New Model regiment, and were originally called the Lord
@@ -253,8 +253,8 @@ in S. Africa.
   disbanded. The Swiss Guards, however, being foreigners, and therefore
   unaffected by civil troubles, retained their exact discipline and
   devotion to the court to the day on which they were sacrificed by
-  their master to the bullets of the Marseillais and the pikes of the
-  mob (August 10, 1792). Their tragic fate is commemorated by the
+  their master to the [[Bullet|bullets]] of the Marseillais and the pikes of the
+  mob (August 10, 1792). Their tragic [[Fate|fate]] is commemorated by the
   well-known monument called the "Lion of Lucerne," the work of
   Thorvaldsen, erected near Lucerne in 1821. The "Constitutional,"
   "Revolutionary" and other guards that were created after the abolition
@@ -315,12 +315,12 @@ in S. Africa.
   the functions of the heavy cavalry regiments of the Guard preserve to
   some extent the name and character of a body guard (_Gardes du
   Corps_). The senior foot guard regiment is also personally connected
-  with the royal family. The conversion of a palace-guard to a combatant
+  with the royal family. The [[Conversion|conversion]] of a palace-guard to a combatant
   force is due chiefly to Frederick William I., to whom drill was a
   ruling passion, and who substituted effective regiments for the
   ornamental "Trabant Guards" of his father. A further move was made by
   Frederick the Great in substituting for Frederick William's expensive
-  "giant" regiment of guards a larger number of ordinary soldiers, whom
+  "[[Giant|giant]]" regiment of guards a larger number of ordinary soldiers, whom
   he subjected to the same rigorous training and made a _corps d'elite_.
   Frederick the Great also formed the Body Guard alluded to above.
   Nevertheless in 1806 the Guard still consisted only of two cavalry
@@ -328,10 +328,10 @@ in S. Africa.
   Napoleon's imperial guard which converted this force into a corps of
   all arms. In 1813 its strength was that of a weak division, but in
   1860 by slight but frequent augmentations it had come to consist of an
-  army corps, complete with all auxiliary services. A few guard
+  army corps, complete with all [[Auxiliary|auxiliary]] services. A few guard
   regiments belonging to the minor sovereigns are counted in the line
   of the German army. In war the Guard is employed as a unit, like other
-  army corps. It is recruited by the assignment of selected young men of
+  army corps. It is recruited by the [[Assignment|assignment]] of selected young men of
   each annual contingent, and is thus free from the reproach of the
   French Imperial Guard, which took the best-trained soldiers from the
   regiments of the line.

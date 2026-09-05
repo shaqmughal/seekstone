@@ -12,17 +12,17 @@ as _Cricetus frumentarius_ (or _C. cricetus_), and belonging to the
 mouse tribe, _Muridae_, in which it typifies the sub-family
 _Cricetinae_. The essential characteristic of the Cricetines is to be
 found in the upper cheek-teeth, which (as shown in the figure of those
-of _Cricetus_ in the article RODENTIA) have their cusps arranged in two
+of _Cricetus_ in the article RODENTIA) have their [[Cusp|cusps]] arranged in two
 longitudinal rows separated by a groove. The hamsters, of which there
 are several kinds, are short-tailed rodents, with large cheek-pouches,
 of which the largest is the common _C. frumentarius_. Their geographical
 distribution comprises a large portion of Europe and Asia north of the
-Himalaya. All the European hamsters show more or less black on the
+[[Himalaya]]. All the European hamsters show more or less black on the
 under-parts, but the small species from Central Asia, which constitute
 distinct subgenera, are uniformly grey. The common species is specially
 interesting on account of its habits. It constructs elaborate burrows
 containing several chambers, one of which is employed as a granary, and
-filled with corn, frequently of several kinds, for winter use. As a
+filled with [[Corn|corn]], frequently of several kinds, for winter use. As a
 rule, the males, females, and young of the first year occupy separate
 burrows. During the winter these animals retire to their burrows,
 sleeping the greater part of the time, but awakening about February or
@@ -35,10 +35,10 @@ depth, while that of the adult descends 4 or 5 ft. beneath the surface.
 On retiring for the winter the hamster closes the various entrances to
 its burrow, and becomes torpid during the coldest period. Although
 feeding chiefly on roots, fruits and grain, it is also to some extent
-carnivorous, attacking and eating small quadrupeds, lizards and birds.
+carnivorous, attacking and eating small quadrupeds, [[Lizard|lizards]] and birds.
 It is exceedingly fierce and pugnacious, the males especially fighting
 with each other for possession of the females. The numbers of these
-destructive rodents are kept in check by foxes, dogs, cats and
+destructive rodents are kept in check by [[Foxe|foxes]], [[Dogs|dogs]], cats and
 pole-cats, which feed upon them. The skin of the hamster is of some
 value, and its flesh is used as food. Its burrows are sought after in
 the countries where it abounds, both for capturing the animal and for

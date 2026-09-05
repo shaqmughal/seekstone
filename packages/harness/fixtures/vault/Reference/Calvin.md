@@ -4,8 +4,8 @@ CALVIN, JOHN (1500-1564), Swiss divine and reformer, was born at Noyon,
 in Picardy, on the 10th of July 1509. His father, Gérard Cauvin or
 Calvin,[1] was a notary-apostolic and procurator-fiscal for the lordship
 of Noyon, besides holding certain ecclesiastical offices in connexion
-with that diocese. The name of his mother was Jeanne le Franc; she was
-the daughter of an innkeeper at Cambrai, who afterwards came to reside
+with that diocese. The name of his mother was Jeanne le [[Franc]]; she was
+the daughter of an innkeeper at [[Cambrai]], who afterwards came to reside
 at Noyon. Gérard Cauvin was esteemed as a man of considerable sagacity
 and prudence, and his wife was a godly and attractive lady. She bore him
 five sons, of whom John was the second. By a second wife there were two
@@ -20,12 +20,12 @@ duties of the office were in such cases carried out by ordained and
 older men for a fraction of the stipend. The plague having visited
 Noyon, the young Hangests were sent to Paris in August 1523, and Calvin
 accompanied them, being enabled to do so by the income received from his
-benefice. He lived with his uncle and attended as an out-student the
-Collège de la Marche, at that time under the regency of Mathurin
+[[Benefice|benefice]]. He lived with his uncle and attended as an out-student the
+Collège de la [[Marche]], at that time under the regency of Mathurin
 Cordier, a man of character, learning and repute as a teacher, who in
 later days followed his pupil to Switzerland, taught at Neuchâtel, and
-died in Geneva in 1564. In dedicating to him his _Commentary on the
-First Epistle to the Thessalonians,_ as "eximiae pietatis et doctrinae
+died in [[Geneva]] in 1564. In dedicating to him his _Commentary on the
+First [[Epistle]] to the Thessalonians,_ as "eximiae pietatis et doctrinae
 viro," he declares that so had he been aided by his instruction that
 whatever subsequent progress he had made he only regarded as received
 from him, and "this," he adds, "I wish to testify to posterity that if
@@ -34,17 +34,17 @@ having in part flowed from thee." From the Collège de la Marche he
 removed to the Collège de Montaigu,[2] where the atmosphere was more
 ecclesiastical and where he had for instructor a Spaniard who is
 described as a man of learning and to whom Calvin was indebted for some
-sound training in dialectics and the scholastic philosophy. He speedily
+sound training in [[Dialectic|dialectics]] and the scholastic philosophy. He speedily
 outstripped all his competitors in grammatical studies, and by his skill
 and acumen as a student of philosophy, and in the college disputations
 gave fruitful promise of that consummate excellence as a reasoner in the
 department of speculative truth which he afterwards displayed. Among his
-friends were the Hangests (especially Claude), Nicolas and Michel Cop,
+friends were the Hangests (especially [[Claude]]), Nicolas and Michel Cop,
 sons of the king's Swiss physician, and his own kinsman Pierre Robert,
 better known as Olivétan. Such friendships testify both to the worth and
 the attractiveness of his character, and contradict the old legend that
 he was an unsociable misanthrope. Pleased with his success, the canons
-at Noyon gave him the curacy of St Martin de Marteville in September
+at Noyon gave him the curacy of St [[Martin]] de Marteville in September
 1527. After holding this preferment for nearly two years, he exchanged
 it in July 1529 for the cure of Pont L'Évêque, a village near to Noyon,
 and the place to which his father originally belonged. He appears to
@@ -68,16 +68,16 @@ and such was his progress in legal knowledge that he was frequently
 called upon to lecture, in the absence of one or other of the regular
 staff. Other studies, however, besides those of law occupied him while
 in this city, and moved by the humanistic spirit of the age he eagerly
-developed his classical knowledge. "By protracted vigils," says Beza,
+developed his classical knowledge. "By protracted vigils," says [[Beza]],
 "he secured indeed a solid erudition and an excellent memory; but it is
-probable he at the same time sowed the seeds of that disease (dyspepsia)
+probable he at the same time sowed the seeds of that disease ([[Dyspepsia|dyspepsia]])
 which occasioned him various illnesses in after life, and at last
 brought upon him premature death."[4] His friends here were Melchior
 Wolmar, a German schoolmaster and a man of exemplary scholarship and
-character, François Daniel, Francois de Connam and Nicolas Duchemin; to
+character, François [[Daniel]], Francois de Connam and Nicolas Duchemin; to
 these his earliest letters were written.
 
-From Orleans Calvin went to Bourges in the autumn of 1529 to continue
+From Orleans Calvin went to [[Bourges]] in the autumn of 1529 to continue
 his studies under the brilliant Italian, Andrea Alciati (1492-1550),
 whom Francis I. had invited into France and settled as a professor of
 law in that university. His friend Daniel went with him, and Wolmar
@@ -96,7 +96,7 @@ better preaching and by a return to the primitive and uncorrupted faith.
 Though we cannot with Beza regard Calvin at this time as a centre of
 Protestant activity, he may well have preached at Lignières as a
 reformatory Catholic of the school of Erasmus. Calvin's own record of
-his "conversion" is so scanty and devoid of chronological data that it
+his "[[Conversion|conversion]]" is so scanty and devoid of chronological data that it
 is extremely difficult to trace his religious development with any
 certainty. But it seems probable that at least up to 1532 he was far
 more concerned about classical scholarship than about religion.
@@ -122,7 +122,7 @@ October of the same year was settled again in Paris. Here and now his
 destiny became certain. The conservative theology was becoming
 discredited, and humanists like Jacques Lefèvre of Étaples (Faber
 Stapulensis) and Gérard Roussel were favoured by the court under the
-influence of Margaret of Angoulême, queen of Navarre and sister of
+influence of [[Margaret]] of Angoulême, queen of Navarre and sister of
 Francis I. Calvin's old friend, Nicolas Cop, had just been elected
 rector of the university and had to deliver an oration according to
 custom in the church of the Mathurins, on the feast of All Saints. The
@@ -142,7 +142,7 @@ hiding-place and means of withdrawal from people." This indeed was
 forced upon him, for Cop's address was more than the conservative party
 could bear, and Cop, being summoned to appear before the parlement of
 Paris, found it necessary, as he failed to secure the support either of
-the king, or of the university, to make his escape to Basel. An attempt
+the king, or of the university, to make his escape to [[Basel]]. An attempt
 was at the same time made to seize Calvin, but, being forewarned of the
 design by his friends, he also made his escape. His room in the Collège
 Fortet, however, was searched, and his books and papers seized, to the
@@ -210,7 +210,7 @@ borrowing ten crowns from their other servant that they were enabled to
 get to Strassburg, and thence to Basel. Here Calvin was welcomed by the
 band of scholars and theologians who had conspired to make that city the
 Athens of Switzerland, and especially by Oswald Myconius, the chief
-pastor, Pierre Viret and Heinrich Bullinger. Under the aupices and
+pastor, Pierre Viret and Heinrich [[Bullinger]]. Under the aupices and
 guidance of Sebastian Münster, Calvin now gave himself to the study of
 Hebrew.
 
@@ -233,14 +233,14 @@ time much agitated, whether the book appeared first in French or in
 Latin. The earliest French edition known is that of 1540, and this was
 after the work had been much enlarged, and several Latin editions had
 appeared. In its first form the work consisted of only six chapters, and
-was intended merely as a brief manual of Christian doctrine. The
+was intended merely as a brief [[Manual|manual]] of Christian doctrine. The
 chapters follow a traditional scheme of religious teaching: (1) The Law,
 (as in the Ten Words), (2) Faith (as in the Apostles' Creed) (3) Prayer,
 (4) the Sacraments; to these were added (5) False Sacraments, (6)
 Christian liberty, ecclesiastical power and civil administration. The
 closing chapters of the work are more polemical than the earlier ones.
 His indebtedness to Luther is of course great, but his spiritual kinship
-with Martin Bucer of Strassburg is even more marked. Something also he
+with Martin [[Bucer]] of Strassburg is even more marked. Something also he
 owed to Scotus and other medieval schoolmen. The book appeared
 anonymously, the author having, as he himself says, nothing in view
 beyond furnishing a statement of the faith of the persecuted
@@ -260,17 +260,17 @@ a prodigious influence upon the opinions and practices both of
 contemporaries and of posterity.
 
 After a short visit (April 1536) to the court of Renée, duchess of
-Ferrara (cousin to Margaret of Navarre), which at that time afforded an
-asylum to several learned and pious fugitives from persecution, Calvin
+Ferrara ([[Cousin|cousin]] to Margaret of Navarre), which at that time afforded an
+[[Asylum|asylum]] to several learned and pious fugitives from persecution, Calvin
 returned through Basel to France to arrange his affairs before finally
 taking farewell of his native country. His intention was to settle at
 Strassburg or Basel, and to devote himself to study. But being unable,
 in consequence of the war between Francis I. and Charles V., to reach
-Strassburg by the ordinary route, he with his younger brother Antoine
-and his half-sister Marie journeyed to Lyons and so to Geneva, making
+Strassburg by the ordinary route, he with his younger brother [[Antoine]]
+and his half-sister Marie journeyed to [[Lyons]] and so to Geneva, making
 for Basel. In Geneva his progress was arrested, and his resolution to
 pursue the quiet path of studious research was dispelled by what he
-calls the "formidable obtestation" of Guillaume Farel.[8] After many
+calls the "formidable obtestation" of [[Guillaume]] [[Farel]].[8] After many
 struggles and no small suffering, this energetic spirit had succeeded in
 planting the evangelical standard at Geneva; and anxious to secure the
 aid of such a man as Calvin, he entreated him on his arrival to
@@ -278,11 +278,11 @@ relinquish his design of going farther, and to devote himself to the
 work in that city. Calvin at first declined, alleging as an excuse his
 need of securing more time for personal improvement, but ultimately,
 believing that he was divinely called to this task and that "God had
-stretched forth His hand upon me from on high to arrest me," he
+stretched forth His hand upon me from on high to [[Arrest|arrest]] me," he
 consented to remain at Geneva. He hurried to Basel, transacted some
 business, and returned to Geneva in August 1536. He at once began to
 expound the epistles of St Paul in the church of St Pierre, and after
-about a year was also elected preacher by the magistrates with the
+about a year was also elected preacher by the [[Magistrate|magistrates]] with the
 consent of the people, an office which he would not accept until it had
 been repeatedly pressed upon him. His services seem to have been
 rendered for some time gratuitously, for in February 1537 there is an
@@ -324,7 +324,7 @@ work interrupted by Pierre Caroli, another native of northern France,
 who, though a man of loose principle and belief, had been appointed
 chief pastor at Lausanne and was discrediting the good work done by
 Pierre Viret in that city. Calvin went to Viret's aid and brought Caroli
-before the commissioners of Bern on a charge of advocating prayers for
+before the commissioners of [[Bern]] on a charge of advocating prayers for
 the dead as a means of their earlier resurrection. Caroli brought a
 counter-charge against the Geneva divines of Sabellianism and Arianism,
 because they would not enforce the Athanasian creed, and had not used
@@ -337,7 +337,7 @@ favour of the Geneva divines, and Caroli deposed from his office and
 banished. He returned to France, rejoined the Roman communion and spent
 the rest of his life in passing to and from the old faith and the new.
 Thus ended an affair which seems to have occasioned Calvin much more
-uneasiness than the character of his assailant, and the manifest
+uneasiness than the character of his assailant, and the [[Manifest|manifest]]
 falsehood of the charge brought against him, would seem to justify. Two
 brief anti-Romanist tracts, one entitled _De fugiendis impiorum sacris,_
 the other _De sacerdotio papali abjiciendo,_ were also published early
@@ -347,13 +347,13 @@ Hardly was the affair of Caroli settled, when new and severer trials
 came upon the Genevan Reformers. The austere simplicity of the ritual
 which Farel had introduced, and to which Calvin had conformed; the
 strictness with which the ministers sought to enforce not only the laws
-of morality, but certain sumptuary regulations respecting the dress and
+of morality, but certain sumptuary regulations respecting the [[Dress|dress]] and
 mode of living of the citizens; and their determination in spiritual
 matters and ecclesiastical ceremonies not to submit to the least
 dictation from the civil power, led to violent dissensions. Amidst much
 party strife Calvin perhaps showed more youthful impetuosity than
 experienced skill. He and his colleagues refused to administer the
-sacrament in the Bernese form, i.e. with unleavened bread, and on Easter
+sacrament in the Bernese form, i.e. with unleavened bread, and on [[Easter]]
 Sunday, 1538, declined to do so at all because of the popular tumult.
 For this they were banished from the city. They went first to Bern, and
 soon after to Zürich, where a synod of the Swiss pastors had been
@@ -361,14 +361,14 @@ convened. Before this assembly they pleaded their cause, and stated what
 were the points on which they were prepared to insist as needful for the
 proper discipline of the church. They declared that they would yield in
 the matter of ceremonies so far as to employ unleavened bread in the
-eucharist, to use fonts in baptism, and to allow festival days, provided
+[[Eucharist|eucharist]], to use fonts in baptism, and to allow festival days, provided
 the people might pursue their ordinary avocations after public service.
 These Calvin regarded as matters of indifference, provided the
 magistrates did not make them of importance, by seeking to enforce them;
 and he was the more willing to concede them, because he hoped thereby to
 meet the wishes of the Bernese brethren whose ritual was less simple
 than that established by Farel at Geneva. But he and his colleagues
-insisted, on the other hand that for the proper maintenance of
+insisted, on the other hand that for the proper [[Maintenance|maintenance]] of
 discipline, there should be a division of parishes--that
 excommunications should be permitted, and should be under the power of
 elders chosen by the council, in conjunction with the clergy--that
@@ -390,7 +390,7 @@ occupying himself partly in literary exertions, partly as a preacher and
 especially an organizer in the French church, and partly as a lecturer
 on theology. These years were not the least valuable in his experience.
 In 1539 he attended Charles V.'s conference on Christian reunion at
-Frankfort as the companion of Bucer, and in the following year he
+[[Frankfort]] as the companion of Bucer, and in the following year he
 appeared at Hagenau and Worms, as the delegate from the city of
 Strassburg. He was present also at the diet at Regensburg, where he
 deepened his acquaintance with Melanchthon, and formed with him a
@@ -410,7 +410,7 @@ never ceased to mourn her loss. Their only child Jacques, born on the
 
 During Calvin's absence disorder and irreligion had prevailed in Geneva.
 An attempt was made by Cardinal Jacopo Sadoleto (1477-1547), bishop of
-Carpentras, to take advantage of this so as to restore the papal
+[[Carpentras]], to take advantage of this so as to restore the papal
 supremacy in that district; but this design Calvin, at the request of
 the Bernese authorities, who had been consulted by those of Geneva,
 completely frustrated, by writing such a reply to the letter which the
@@ -427,7 +427,7 @@ and corrected by him from the version of Olivétan. Meanwhile the way was
 opening for his return. Those who had driven him from the city gradually
 lost power and office. Farel worked unceasingly for his recall. After
 much hesitation, for Strassburg had strong claims, he yielded and
-returned to Geneva, where he was received with the utmost enthusiasm
+returned to Geneva, where he was received with the utmost [[Enthusiasm|enthusiasm]]
 (September 13, 1541). He entered upon his work with a firm determination
 to carry out those reforms which he had originally purposed, and to set
 up in all its integrity that form of church polity which he had
@@ -460,9 +460,9 @@ subject. Calvin replied to him in a work published in 1543, in which he
 defends his own opinions at length, both by general reasonings and by an
 appeal to both Scripture and the Fathers, especially Augustine. So
 potent were his reasonings that Pighius, though owing nothing to the
-gentleness or courtesy of Calvin, was led to embrace his views. A still
+gentleness or [[Courtesy|courtesy]] of Calvin, was led to embrace his views. A still
 more vexatious and protracted controversy on the same subject arose in
-1551. Jerome Hermes Bolsec, a Carmelite friar, having renounced
+1551. Jerome [[Hermes]] Bolsec, a Carmelite [[Friar|friar]], having renounced
 Romanism, had fled from France to Veigy, a village near Geneva, where he
 practised as a physician. Being a zealous opponent of predestinarian
 views, he expressed his criticisms of Calvin's teaching on the subject
@@ -482,7 +482,7 @@ Another painful controversy was that with Sébastien Castellio
 distinction. He wished to enter the preaching ministry but was excluded
 by Calvin's influence because he had criticized the inspiration of the
 Song of Solomon and the Genevan interpretation of the clause "he
-descended into hell." The bitterness thus aroused developed into
+descended into [[Hell|hell]]." The bitterness thus aroused developed into
 life-long enmity. During all this time also the less strict party in the
 city and in the council did not cease to harry the reformer.
 
@@ -492,7 +492,7 @@ engaged was that into which he was brought in 1553 with Michael Servetus
 for heresy at Vienne, whence he was fortunate enough to make his escape,
 Servetus arrived in August 1553 at Geneva on his way to Naples. He was
 recognized in church and soon after, at Calvin's instigation, arrested.
-The charge of blasphemy was founded on certain statements in a book
+The charge of [[Blasphemy|blasphemy]] was founded on certain statements in a book
 published by him in 1553, entitled _Christianismi Restitutio_, in which
 he animadverted on the Catholic doctrine of the Trinity, and advanced
 sentiments strongly savouring of Pantheism. The story of his trial is
@@ -502,10 +502,10 @@ was taken up by Calvin's Genevan foes headed by Philibert Berthelier,
 and became a test of the relative strength of the rival forces and of
 the permanence of Calvin's control. That Calvin was actuated by personal
 spite and animosity against Servetus himself may be open to discussion;
-we have his own express declaration that, after Servetus was convicted,
+we have his own express [[Declaration|declaration]] that, after Servetus was convicted,
 he used no urgency that he should be put to death, and at their last
 interview he told Servetus that he never had avenged private injuries,
-and assured him that if he would repent it would not be his fault if all
+and assured him that if he would repent it would not be his [[Fault|fault]] if all
 the pious did not give him their hands.[10] There is the fact also that
 Calvin used his endeavour to have the sentence which had been pronounced
 against Servetus mitigated, death by burning being regarded by him as an
@@ -519,10 +519,10 @@ of the Swiss state governments was that Servetus deserved to die; that
 the general voice of Christendom was in favour of this; that even such a
 man as Melanchthon affirmed the justice of the sentence;[12] that an
 eminent English divine of the next age should declare the process
-against him "just and honourable,"[13] and that only a few voices here
+against him "just and [[Honourable|honourable]],"[13] and that only a few voices here
 and there were at the time raised against it, many will be ready to
 accept the judgment of Coleridge, that the death of Servetus was not
-"Calvin's guilt especially, but the common opprobrium of all European
+"Calvin's [[Guilt|guilt]] especially, but the common opprobrium of all European
 Christendom."[14]
 
 Calvin was also involved in a protracted and somewhat vexing dispute
@@ -567,13 +567,13 @@ admiration of all visitors; and in him she reverences the founder of her
 university. This institution was in a sense Calvin's crowning work. It
 added religious education to the evangelical preaching and the thorough
 discipline already established, and so completed the reformer's ideal of
-a Christian commonwealth.
+a Christian [[Commonwealth|commonwealth]].
 
-Amidst these multitudinous cares and occupations, Calvin found time to
+Amidst these multitudinous [[Car|cares]] and occupations, Calvin found time to
 write a number of works besides those provoked by the various
 controversies in which he was engaged. The most numerous of these were
 of an exegetical character. Including discourses taken down from his
-lips by faithful auditors, we have from him expository comments or
+[[Lip|lips]] by faithful auditors, we have from him expository comments or
 homilies on nearly all the books of Scripture, written partly in Latin
 and partly in French. Though naturally knowing nothing of the modern
 idea of a progressive revelation, his judiciousness, penetration, and
@@ -581,14 +581,14 @@ tact in eliciting his author's meaning, his precision, condensation, and
 concinnity as an expositor, the accuracy of his learning, the closeness
 of his reasoning, and the elegance of his style, all unite to confer a
 high value on his exegetical works. The series began with _Romans_ in
-1540 and ended with _Joshua_ in 1564. In 1558-1559 also, though in very
+1540 and ended with _[[Joshua]]_ in 1564. In 1558-1559 also, though in very
 ill health, he finally perfected the Institutes.
 
 The incessant and exhausting labours to which Calvin gave himself could
 not but tell on his fragile constitution. Amid many sufferings, however,
 and frequent attacks of sickness, he manfully pursued his course; nor
 was it till his frail body, torn by many and painful diseases--fever,
-asthma, stone, and gout, the fruits for the most part of his sedentary
+[[Asthma|asthma]], stone, and gout, the fruits for the most part of his sedentary
 habits and unceasing activity--had, as it were, fallen to pieces around
 him, that his indomitable spirit relinquished the conflict. In the early
 part of the year 1564 his sufferings became so severe that it was
@@ -597,7 +597,7 @@ of February of that year he preached his last sermon, having with great
 difficulty found breath enough to carry him through it. He was several
 times after this carried to church, but never again was able to take any
 part in the service. With his usual disinterestedness he refused to
-receive his stipend, now that he was no longer able to discharge the
+receive his stipend, now that he was no longer able to [[Discharge|discharge]] the
 duties of his office. In the midst of his sufferings, however, his zeal
 and energy kept him in continual occupation; when expostulated with for
 such unseasonable toil, he replied, "Would you that the Lord should find
@@ -627,7 +627,7 @@ scrupulously just, truthful, and steadfast; he never deserted a friend
 or took an unfair advantage of an antagonist; and on befitting occasions
 he could be cheerful and even facetious among his intimates. "God gave
 him," said the Little Council after his death, "a character of great
-majesty." "I have been a witness of him for sixteen years," says Beza,
+[[Majesty|majesty]]." "I have been a witness of him for sixteen years," says Beza,
 "and I think I am fully entitled to say that in this man there was
 exhibited to all an example of the life and death of the Christian,
 such as it will not be easy to depreciate, such as it will be difficult
@@ -639,13 +639,13 @@ to emulate."
   of the new religion. The following may be regarded as his
   characteristic tenets, though not all are peculiar to him.
 
-  The dominant thought is the infinite and transcendent sovereignty of
+  The dominant thought is the [[Infinite|infinite]] and transcendent sovereignty of
   God, to know whom is the supreme end of human endeavour. God is made
   known to man especially by the Scriptures, whose writers were "sure
-  and authentic amanuenses of the Holy Spirit." To the Spirit speaking
+  and [[Authentic|authentic]] amanuenses of the Holy Spirit." To the Spirit speaking
   therein the Spirit-illumined soul of man makes response. While God is
   the source of all good, man as a sinner is guilty and corrupt. The
-  first man was made in the image and likeness of God, which not only
+  first man was made in the [[Image|image]] and likeness of God, which not only
   implies man's superiority to all other creatures, but indicates his
   original purity, integrity and sanctity. From this state Adam fell,
   and in his fall involved the whole human race descended from him.
@@ -658,12 +658,12 @@ to emulate."
   accepted save righteousness innocence, and purity. Nor is that a being
   bound for another's offence; for when it is said that we through
   Adam's sin have become obnoxious to the divine judgment, it is not to
-  be taken as if we, being ourselves innocent and blameless, bear the
+  be taken as if we, being ourselves [[Innocent|innocent]] and blameless, bear the
   fault of his offence, but that, we having been brought under a curse
   through his transgression, he is said to have bound us. From him,
   however, not only has punishment overtaken us, but a pestilence
   instilled from him resides in us, to which punishment is justly due.
-  Thus even infants, whilst they bring their own condemnation with them
+  Thus even [[Infant|infants]], whilst they bring their own condemnation with them
   from their mother's womb, are bound not by another's but by their own
   fault. For though they have not yet brought forth the fruits of their
   iniquity, they have the seed shut up in them; nay, their whole nature
@@ -677,7 +677,7 @@ to emulate."
   and king, and by His humiliation, obedience and suffering unto death,
   followed by His resurrection and ascension to heaven, He has perfected
   His work and fulfilled all that was required in a redeemer of men, so
-  that it is truly affirmed that He has merited for man the grace of
+  that it is truly affirmed that He has merited for man the [[Grace|grace]] of
   salvation (bk. ii. ch. 13-17). But until a man is in some way really
   united to Christ so as to partake of Him, the benefits of Christ's
   work cannot be attained by him. Now it is by the secret and special
@@ -693,7 +693,7 @@ to emulate."
   promises, the certitude of which the Spirit had before impressed on
   the mind, sealed by the same Spirit on the heart (bk. iii. ch. 33-36).
   From faith proceeds repentance, which is the turning of our life to
-  God, proceeding from a sincere and earnest fear of God, and consisting
+  God, proceeding from a sincere and [[Earnest|earnest]] fear of God, and consisting
   in the mortification of the flesh and the old man within us and a
   vivification of the Spirit. Through faith also the believer receives
   justification, his sins are forgiven, he is accepted of God, and is
@@ -737,9 +737,9 @@ to emulate."
   serves both for the confirmation of faith and as a confession before
   men. The Lord's Supper is a spiritual feast where Christ attests that
   He is the life-giving bread, by which our souls are fed unto true and
-  blessed immortality. That sacred communication of His flesh and blood
+  blessed [[Immortality|immortality]]. That sacred communication of His flesh and blood
   whereby Christ transfuses into us His life, even as if it penetrated
-  into our bones and marrow, He in the Supper attests and seals; and
+  into our [[Bone|bones]] and marrow, He in the Supper attests and seals; and
   that not by a vain or empty sign set before us but there He puts forth
   the efficacy of His Spirit whereby He fulfils what He promises. In the
   mystery of the Supper Christ is truly exhibited to us by the symbols
@@ -750,7 +750,7 @@ to emulate."
   circumscribed; but whatever can express the true and substantial
   communication of the body and blood of the Lord, which is exhibited to
   believers under the said symbols of the Supper, is to be received, and
-  that not as perceived by the imagination only or mental intelligence,
+  that not as perceived by the [[Imagination|imagination]] only or mental intelligence,
   but as enjoyed for the aliment of the eternal life (bk. iv. ch. 15,
   17).
 
@@ -770,7 +770,7 @@ to emulate."
   called Calvinist.
 
   BIBLIOGRAPHY.--The standard edition of Calvin's works is that
-  undertaken by the Strassburg scholars, J.W. Bauin, E. Cunitz, E.
+  undertaken by the Strassburg scholars, J.W. Bauin, E. [[Cunitz]], E.
   Reuss, P. Lobstein, A. Erichson (59 vols., 1863-1900). The last of
   these contains an elaborate bibliography which was also published
   separately at Berlin in 1900. The bulk of the writings was published
@@ -778,24 +778,24 @@ to emulate."
   1843-1855); the _Institutes_ have often been translated. The early
   lives by Beza and Collodon are given in the collected editions. Among
   modern biographies are those by P. Henry, _Das Leben J. Calvins_ (3
-  vols., Hamburg, 1835-1844; Eng. trans, by H. Stebbing, London and New
+  vols., [[Hamburg]], 1835-1844; Eng. trans, by H. Stebbing, London and New
   York, 1849); V. Audin, _Histoire de la vie, des ouvrages, et des
   doctrines de Calvin_ (2 vols., Paris, 1841; Eng. trans, by J. McGill,
-  London, 1843 and 1850) unfairly antagonistic; T.H. Dyer, _Life of John
+  London, 1843 and 1850) unfairly antagonistic; T.H. [[Dyer]], _Life of John
   Calvin_ (London, 1850); E. Stähelin,_ Joh. Calvin, Leben und
   ausgewählte Schriften_ (2 vols., Elberfeld, 1863); F.W. Kampschulte,
   _Joh. Calvin, seine Kirche und sein Staat in Genf_ (2 vols., 1869,
   1899, unfinished); Abel Lefranc, _La Jeunesse de Calvin_ (Paris,
-  1888); E. Choisy, _La Théocratie à Genève au temps de Calvin_ (Geneva,
-  1897); E. Doumergue, _Jean Calvin; les hommes et les choses de son
-  temps_ (5 vols., 1899-1908). See also A.M. Fairbairn, "Calvin and the
+  1888); E. [[Choisy]], _La Théocratie à Genève au temps de Calvin_ (Geneva,
+  1897); E. Doumergue, _Jean Calvin; les hommes et les [[Chose|choses]] de son
+  temps_ (5 vols., 1899-1908). See also A.M. [[Fairbairn]], "Calvin and the
   Reformed Church" in the _Cambridge Modern History_, vol. ii. (1904);
   P. Schaff's, _History of the Christian Church_, vol. vii. (1892), and
   R. Stähelin's article in Hauck-Herzog's _Real-encyk. für prot.
   Theologie und Kirche._ Each of these contains a useful bibliography,
   as also does the excellent life by Professor Williston Walker, _John
   Calvin, the Organizer of Reformed Protestantism_, "Heroes of the
-  Reformation" series (1906). See also C.S. Horne in _Mansfield Coll.
+  Reformation" series (1906). See also C.S. [[Horne]] in _[[Mansfield]] Coll.
   Essays_ (1909).     (W. L. A.; A. J. G.)
 
 
@@ -803,7 +803,7 @@ FOOTNOTES:
 
   [1] The family name of Calvin seems to have been written
     indifferently Cauvin, Chauve, Chauvin, Calvus, Calvinus. In the
-    contemporary notices of Gerard and his family, in the capitular
+    contemporary notices of [[Gerard]] and his family, in the capitular
     registers of the cathedral at Noyon, the name is always spelt Cauuin.
     The anagram of Calvin is Alcuin, and this in its Latinized form
     Alcuinus appears in two editions of his _Instltutio_ as that of the
@@ -814,7 +814,7 @@ FOOTNOTES:
     reason is not known.
 
   [2] Pierre de Montaigu refounded this institution in 1388. Erasmus
-    and Ignatius Loyola also studied here.
+    and [[Ignatius]] [[Loyola]] also studied here.
 
   [3] Calv. _Praef. ad Comment. in Psalmos._
 
@@ -823,7 +823,7 @@ FOOTNOTES:
   [5] _Epist. Ded., Comment in Ep. II. ad Corinthios praefix._
 
   [6] This edition forms a small 8vo of 514 pages, and 6 pages of
-    index. It appeared at Basel from the press of Thomas Platter and
+    [[Index|index]]. It appeared at Basel from the press of Thomas Platter and
     Balthasar Lasius in March 1536, and was published by Johann Oporin.
     The dedicatory preface is dated 23rd August 1535. It is a masterpiece
     of apologetic literature. See W. Walker, _John Calvin,_ 132 f., and

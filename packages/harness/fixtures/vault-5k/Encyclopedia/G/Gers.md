@@ -12,11 +12,11 @@ parts of certain districts of Gascony, viz. Armagnac, Astarac, Fezensac,
 Pardiac, Pays de Gaure, Lomagne, Comminges, Condomois and of a small
 portion of Agenais. It is bounded N. by the department of
 Lot-et-Garonne, N.E. by Tarn-et-Garonne, E. and S.E. by Haute-Garonne,
-S. by Hautes-Pyrenees, S.W. by Basses-Pyrenees and W. by Landes. Pop.
+S. by Hautes-Pyrenees, S.W. by Basses-Pyrenees and W. by [[Landes]]. Pop.
 (1906) 231,088. Area, 2428 sq. m. The department consists of a plateau
 sloping from south to north and traversed by numerous rivers, most of
 them having their source close together in the Plateau de Lannemezan
-(Hautes-Pyrenees), from which point they diverge in the shape of a fan
+(Hautes-Pyrenees), from which point they diverge in the shape of a [[Fan|fan]]
 to the north-west, north and north-east. In the south several summits
 exceed 1100 ft. in height. Thence the descent towards the north is
 gradual till on the northern limit of the department the lowest point
@@ -29,13 +29,13 @@ the latter, the Arros, Midou and Douze, the last two uniting and taking
 the name of Midouze before joining the Adour. The climate is temperate;
 its drawbacks are the unwholesome south-east wind and the destructive
 hail-storms which sometimes occur in spring. There is seldom any snow or
-frost. Over the greater portion of the department the annual rainfall
+[[Frost|frost]]. Over the greater portion of the department the annual rainfall
 varies between 28 and 32 in. Gers is primarily agricultural. The
 south-western district is the most productive, but the valleys generally
 are fertile and the grain produced is more than sufficient for local
 consumption. Wheat, maize and oats are the principal cereals. About
 one-third of the wine produced is used for home consumption, and the
-remainder is chiefly manufactured into brandy, known by the name of
+remainder is chiefly manufactured into [[Brandy|brandy]], known by the name of
 Armagnac, second only to Cognac in reputation. The natural pastures are
 supplemented chiefly by crops of sainfoin and clover; horses, cattle,
 sheep and swine are reared in considerable numbers; turkeys, geese and
@@ -46,7 +46,7 @@ obtained. Flour-mills, saw-mills, tanneries, brickworks and cask-works
 are the chief industrial establishments.
 
 Gers is divided into the arrondissements of Auch, Lectoure, Mirande,
-Condom and Lombez, with 29 cantons and 466 communes. The chief town is
+Condom and Lombez, with 29 cantons and 466 [[Commune|communes]]. The chief town is
 Auch, the seat of an archbishopric. The department falls within the
 circumscription of the appeal-court of Agen, and the region of the XVII.
 army corps. It forms part of the academie (educational circumscription)

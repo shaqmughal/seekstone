@@ -6,7 +6,7 @@ of eastern Franconia, where he began his labours towards the end of the
 dates back to the 9th century (_Bibliotheca hagiographica latina_, Nos.
 4660-4663). The oldest texts which refer to him are an 8th century
 necrology at Würzburg and the notice by Hrabanus Maurus in his
-martyrology. According to Maurus, Kilian was a native of Ireland, whence
+[[Martyrology|martyrology]]. According to Maurus, Kilian was a native of Ireland, whence
 with his companions he went to eastern Franconia. After having preached
 the gospel in Würzburg, the whole party were put to death by the orders
 of an unjust judge named Gozbert. It is difficult to fix the period with

@@ -10,15 +10,15 @@ id: 42-4417
 
 FOUCHE, JOSEPH, DUKE OF OTRANTO (1763-1820), French statesman, was born
 in a small village near Nantes on the 21st of May 1763. His father, a
-seafaring man, destined him for the sea; but the weakness of his frame
+seafaring man, destined him for the sea; but the weakness of his [[Frame|frame]]
 and the precocity of his talents soon caused this idea to be given up.
 He was educated at the college of the Oratorians at Nantes, and showed
 marked aptitude for studies both literary and scientific. Desiring to
 enter the teaching profession he was sent to an institution kept by
 brethren of the same order at Paris. There also he made rapid progress,
 and soon entered upon tutorial duties at the colleges of Niort, Saumur,
-Vendome, Juilly and Arras. At Arras he had some dealings with
-Robespierre at the time of the beginning of the French Revolution
+Vendome, Juilly and [[Arras]]. At Arras he had some dealings with
+Robespierre at the time of the beginning of the [[French Revolution]]
 (1789).
 
 In October 1790 he was transferred by the Oratorians to their college at
@@ -28,21 +28,21 @@ abilities and the zeal with which he espoused the most subversive
 notions brought him into favour with the populace at Nantes; he became a
 leading member of the local Jacobin club; and on the dissolution of the
 college of the Oratorians at Nantes in May 1792, Fouche gave up all
-connexion with the church, whose major vows he had not taken. After the
+connexion with the church, whose [[Major|major]] vows he had not taken. After the
 downfall of the monarchy on the 10th of August 1792, he was elected as
-deputy for the department of the Lower Loire to the National Convention
+[[Deputy|deputy]] for the department of the Lower Loire to the National Convention
 which met at the autumnal equinox and proclaimed the republic. The
 literary and pedagogic sympathies of Fouche at first brought him into
-touch with Condorcet and the party, or group, of the Girondists; but
+touch with [[Condorcet]] and the party, or group, of the [[Girondists]]; but
 their vacillation at the time of the trial and execution of Louis XVI.
 (December 1792-January 21, 1793) led him to espouse the cause of the
-Jacobins, the less scrupulous and more thoroughgoing champions of
+[[Jacobins]], the less scrupulous and more thoroughgoing [[Champion|champions]] of
 revolutionary doctrine. On the question of the execution of the king,
 Fouche, after some preliminary hesitations, expressed himself with the
 utmost vigour in favour of immediate execution, and denounced those who
 "wavered before the shadow of a king."
 
-The crisis which resulted from the declaration of war by the Convention
+The crisis which resulted from the [[Declaration|declaration]] of war by the Convention
 against England and Holland (Feb. 1, 1793), and a little later against
 Spain, brought Fouche into notoriety as one of the fiercest of the
 Jacobinical fanatics who then held power at Paris. While the armies of
@@ -60,14 +60,14 @@ ransacked the churches, sent their spoils to the treasury and
 established the cult of the goddess of Reason. Over the cemeteries, he
 ordered these words to be inscribed: "Death is an eternal sleep." He
 also waged war against luxury and wealth, and desired to abolish the use
-of money. The new cult was inaugurated at Paris at Notre Dame by the
+of money. The new cult was inaugurated at Paris at Notre [[Dame]] by the
 strange orgy known as "The Festival of Reason" (November 10, 1793).
 
-Fouche then proceeded to Lyons to execute the vengeance of the
+Fouche then proceeded to [[Lyons]] to execute the vengeance of the
 Convention on that city, which had revolted against the new Jacobin
 tyranny. Preluding his work by a festival remarkable for its obscene
 parody of religious rites, he then, along with his colleague, Collot
-d'Herbois, set the guillotine and cannon to work with a rigour which
+d'Herbois, set the [[Guillotine|guillotine]] and [[Cannon|cannon]] to work with a rigour which
 made his name odious. Modern research, however, proves that at the close
 of those horrors Fouche exercised a moderating influence. Outwardly his
 conduct was marked by the utmost rigour, and on his return to Paris
@@ -80,7 +80,7 @@ revival which Robespierre then inaugurated. Sharp passages of arms took
 place between them, and Robespierre procured the ejection of Fouche from
 the Jacobin Club (July 14, 1794). Fouche, however, was working with his
 customary skill and energy, and along with Tallien and others, managed
-to effect the overthrow of the theistic dictator on Thermidor 10 (July
+to effect the overthrow of the theistic [[Dictator|dictator]] on Thermidor 10 (July
 28), 1794. The ensuing reaction in favour of more merciful methods of
 government threatened to sweep away the group of Terrorists who had been
 mainly instrumental in carrying through the _coup d'etat_ of Thermidor;
@@ -89,15 +89,15 @@ a time to keep at the head of affairs. Discords, however, crept in which
 left him for a time almost isolated, and it needed all his ability to
 withstand the attacks of the moderates. A vigorous attack on him by
 Boissy d'Anglas, on the 9th of August 1795, caused him to be arrested,
-but the troubles which ensued in Vendemiaire averted the doom that
+but the troubles which ensued in Vendemiaire averted the [[Doom|doom]] that
 seemed to be pending; and he owed his release to the amnesty which was
 passed on the proclamation of the new constitution of the year 1795.
 
-In the ensuing period, known as that of the Directory (1795-1799),
+In the ensuing period, known as that of the [[Directory]] (1795-1799),
 Fouche remained at first in obscurity, but the relations which he had
 with the communists, once headed by Chaumette and now by Francois N.
 ("Gracchus") Babeuf (q.v.), helped him to rise once more. He is said to
-have betrayed to the director Barras the secret of the strange plot
+have betrayed to the director [[Barras]] the secret of the strange plot
 which Babeuf and a few accomplices hatched in the year 1796; but recent
 research has tended to throw doubt on the assertion. His rise from
 poverty was slow, but in 1797 he gained an appointment for the supply of
@@ -112,17 +112,17 @@ actions were disavowed and he himself was removed; but in the confused
 state in which matters then were, he was able for a time to hold his own
 and to intrigue successfully against his successor. Early in 1799 he
 returned to Paris, and after a brief tenure of office as ambassador at
-The Hague, he became minister of police at Paris (July 20, 1799). The
+The [[Hague]], he became minister of police at Paris (July 20, 1799). The
 newly elected director, Sieyes (q.v.), was then in the ascendant and
 desired to curb the excesses of the Jacobins, who had recently reopened
 their club. Fouche, casting consistency to the winds, closed the
-Jacobins club in a manner at once daring and clever. Thereupon he hunted
+Jacobins club in a manner at once daring and [[Clever|clever]]. Thereupon he hunted
 down the pamphleteers and editors, whether Jacobins or royalists, who
 were obnoxious to the government, so that at the time of the return of
-Bonaparte from Egypt (October 1799) the ex-Jacobin was one of the most
+[[Bonaparte]] from Egypt (October 1799) the ex-Jacobin was one of the most
 powerful men in France.
 
-Knowing well the unpopularity of the directors, Fouche lent himself to
+Knowing well the unpopularity of the directors, Fouche [[Lent|lent]] himself to
 the schemes of Bonaparte and Sieyes for their overthrow. His activity in
 furthering the _coup d'etat_ of Brumaire 18-19 (November 9-10), 1799,
 procured him the favour of Bonaparte, who kept him in office (v.
@@ -139,7 +139,7 @@ Arena-Ceracchi plot, in which the _agents provocateurs_ of the police
 were believed to have played a sinister part. The chief "conspirators"
 were easily ensnared and were executed when the affair of Nivose
 (December 1800) enabled Bonaparte to act with rigour. This far more
-serious attempt (in which royalist conspirators exploded a bomb near the
+serious attempt (in which royalist conspirators exploded a [[Bomb|bomb]] near the
 First Consul's carriage with results disastrous to the bystanders) was
 soon seen by Fouche to be the work of royalists; and when the First
 Consul, eager to entrap the still formidable Jacobins, sought to fasten
@@ -168,9 +168,9 @@ entrusted to him that of the interior. His work was no less important
 than at the time of the Consulate. His police agents were ubiquitous,
 and the terror which Napoleon and Fouche inspired, owing to their proven
 ability to benefit by plots, partly accounts for the absence of
-conspiracies after 1804. After Austerlitz (December 1805) Fouche uttered
+conspiracies after 1804. After [[Austerlitz]] (December 1805) Fouche uttered
 the _mot_ of the occasion: "Sire, Austerlitz has shattered the old
-aristocracy; the boulevard St Germain no longer conspires."
+[[Aristocracy|aristocracy]]; the [[Boulevard|boulevard]] St Germain no longer conspires."
 
 That Napoleon retained some feeling of distrust, or even of fear, of
 Fouche was proved by his conduct in the early days of 1808. While
@@ -180,15 +180,15 @@ which Murat, king of Naples, was concerned. At once the sensitive
 autocrat hurried to Paris, but found nothing to incriminate Fouche. In
 that year Fouche received the title of duke of Otranto. During the
 absence of Napoleon in Austria in the campaign of 1809, the British
-Walcheren expedition threatened for a time the safety of Antwerp.
+Walcheren expedition threatened for a time the safety of [[Antwerp]].
 Fouche thereupon issued an order to the prefects of the northern
 departments of the empire for the mobilization of 60,000 National
-Guards. He added to the order a statement in which occurred the words:
+[[Guards]]. He added to the order a statement in which occurred the words:
 "Let us prove to Europe that although the genius of Napoleon can throw
 lustre on France, his presence is not necessary to enable us to repulse
 the enemy." The emperor's approval of the measure was no less marked
 than his disapproval of the words just quoted. The next months brought
-further causes of friction between emperor and minister. The latter,
+further causes of [[Friction|friction]] between emperor and minister. The latter,
 knowing the desire of his master for peace at the close of the year
 1809, undertook on his own account to make secret overtures to the
 British ministry. A little later Napoleon opened negotiations and found
@@ -233,14 +233,14 @@ remained unmolested.
 
 This was far from satisfying him, and when he found that there were no
 hopes of advancement, he entered into relations with conspirators who
-sought the overthrow of the Bourbons. Lafayette and Davout were
+sought the overthrow of the [[Bourbon|Bourbons]]. Lafayette and Davout were
 concerned in the affair, but their refusal to take the course desired by
 Fouche and other bold spirits led to nothing being done. Soon Napoleon
 escaped from Elba and made his way in triumph to Paris. Shortly before
 his arrival at Paris (March 19, 1815) Louis XVIII. sent to Fouche an
 offer of the ministry of police, which he declined, saying, "It is too
 late; the only plan to adopt is to retreat." He then foiled an attempt
-of the royalists to arrest him, and on the arrival of Napoleon he
+of the royalists to [[Arrest|arrest]] him, and on the arrival of Napoleon he
 received for the third time the portfolio of police. That, however, did
 not prevent him from entering into secret relations with Metternich at
 Vienna, his aim being then, as always, to prepare for all eventualities.
@@ -253,21 +253,21 @@ the emperor to be imminent, took measures to expedite it and secure his
 own interests. On the 22nd of June Napoleon abdicated for the second
 time, and Fouche was next day elected president of the commission which
 provisionally governed France. Already he was in touch with Louis
-XVIII., then at Ghent, and now secretly received the overtures of his
+XVIII., then at [[Ghent]], and now secretly received the overtures of his
 agent at Paris. While ostensibly working for the recognition of Napoleon
 II., he facilitated the success of the Bourbon cause, and thus procured
 for himself a place in the ministry of Louis XVIII. Even his skill,
 however, was unequal to the task of conciliating hot-headed royalists
 who remembered his vote as regicide and his fanaticism as terrorist. He
 resigned office, and after acting for a brief space as ambassador at
-Dresden, he retired to Prague. Finally he settled at Trieste, where he
+[[Dresden]], he retired to Prague. Finally he settled at Trieste, where he
 died on the 25th of December 1820. He had accumulated great wealth.
 
 Marked at the outset by fanaticism, which, though cruel, was at least
 conscientious, Fouche's character deteriorated in and after the year
 1794 into one of calculating cunning. The transition represented all
 that was worst in the life of France during the period of the Revolution
-and Empire. In Fouche the enthusiasm of the earlier period appeared as a
+and Empire. In Fouche the [[Enthusiasm|enthusiasm]] of the earlier period appeared as a
 cold, selfish and remorseless fanaticism; in him the bureaucracy of the
 period 1795-1799 and the autocracy of Napoleon found their ablest
 instrument. Yet his intellectual pride prevented him sinking to the
@@ -283,7 +283,7 @@ to be imminent. Yet, while appearing to be the servant of the victors,
 present or prospective, he never gave himself to any one party. In this
 versatility he resembles Talleyrand, of whom he was a coarse replica.
 Both professed, under all their shifts and turns, to be desirous of
-serving France. Talleyrand certainly did so in the sphere of diplomacy;
+serving France. Talleyrand certainly did so in the sphere of [[Diplomacy|diplomacy]];
 Fouche may occasionally have done so in the sphere of intrigue.
 
   BIBLIOGRAPHY.--Fouche wrote some political pamphlets and reports, the
@@ -299,8 +299,8 @@ Fouche may occasionally have done so in the sphere of intrigue.
   their account of events (e.g. of the negotiations of 1809-1810) is not
   seldom untrustworthy. For those negotiations see Coquelle, _Napoleon
   et l'Angleterre_ (Paris, 1903, Eng. trans., London, 1904). For the
-  plots with which Fouche had to deal see E. Daudet, _La Police et les
-  Chouans sous le Consulat et l'Empire_ (Paris, 1895); P.M.C. Desmarest,
+  plots with which Fouche had to deal see E. [[Daudet]], _La Police et les
+  [[Chouans]] sous le Consulat et l'Empire_ (Paris, 1895); P.M.C. Desmarest,
   _Temoignages historiques, ou quinze ans de haute police_ (Paris, 1833,
   2nd ed., 1900); E. Picard, _Bonaparte et Moreau_ (Paris, 1905); G.A.
   Thierry, _Conspirateurs et gens de police_; _le complot de libelles_

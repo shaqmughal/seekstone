@@ -19,14 +19,14 @@ conferred the Roman patriciate on his family, and created his nephew
 Agostino prince of Farnese and duke of Ariccia, and the emperor Leopold
 I. created the latter _Reichsfürst_ (prince of the Holy Roman Empire) in
 1659. In 1712 the family received the dignity of hereditary marshals of
-the Church and guardians of the conclaves, which gave them a very great
+the Church and [[Guardian|guardians]] of the conclaves, which gave them a very great
 importance on the death of every pope. On the marriage in 1735 of
 another Agostino Chigi (1710-1769) with Giulia Albani, heiress of the
 Albani, a Venetian patrician family, said to be of Albanian origin, her
 name was added to that of Chigi. The family owns large estates at Siena.
 
   See A. von Reumont, _Geschichte der Stadt Rom_, vol. iii. (Berlin,
-  1868); _Almanach de Gotha_.
+  1868); _Almanach de [[Gotha]]_.
 
 ## References
 

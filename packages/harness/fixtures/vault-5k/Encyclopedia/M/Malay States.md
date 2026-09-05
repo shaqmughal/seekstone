@@ -8,7 +8,7 @@ id: 42-950
 
 # Malay States
 
-MALAY STATES (BRITISH). The native states of the Malay Peninsula under
+MALAY STATES (BRITISH). The native states of the [[Malay Peninsula]] under
 British protection are divided into two groups: (1) federated, and (2)
 non-federated.
 
@@ -90,7 +90,7 @@ Straits Settlements for the time being.
   administration coupled with a courageous and energetic policy of
   expenditure upon public works. Throughout, not one penny of debt has
   been incurred, the roads, railways, &c., being constructed entirely
-  from current balances. This of course has only been rendered possible
+  from current [[Balance|balances]]. This of course has only been rendered possible
   by the extraordinary mineral wealth which the states on the western
   seaboard have developed in the hands of Chinese miners amid the peace
   and security which British rule has brought to these once lawless
@@ -152,9 +152,9 @@ area of the country is estimated at about 10,000 sq. m.
   Mr Leonard Wray, curator of the Perak museum, writes as follows on the
   subject of the geological formation of the state: "There are really
   only four formations represented--firstly, the granitic rocks;
-  secondly, a large series of beds of gneiss, quartzite, schist and
+  secondly, a large series of beds of [[Gneiss|gneiss]], quartzite, schist and
   sandstone, overlaid in many places by thick beds of crystalline
-  limestone; thirdly, small sheets of trap rock; and fourthly,
+  [[Limestone|limestone]]; thirdly, small sheets of trap rock; and fourthly,
   river-gravels and other Quaternary deposits. The granites are of many
   varieties, and also, in all probability, of several different
   geological periods. The series of quartzites, schists, and limestone
@@ -195,7 +195,7 @@ area of the country is estimated at about 10,000 sq. m.
   is also made by almost every ruling family in the peninsula, the
   tradition is not worthy of any special attention. What is more certain
   is the tradition that Perak was twice invaded by the Achinese, and its
-  rulers carried off into captivity, one of them, Sultan Mansur Shah,
+  rulers carried off into captivity, one of them, Sultan [[Mansur]] Shah,
   subsequently becoming the ruler of Achin. The first European
   settlement in Perak was made by the Dutch in 1650, under a treaty
   entered into with the Achinese, but the natives of the country rose
@@ -208,7 +208,7 @@ area of the country is estimated at about 10,000 sq. m.
   Abdullah applied to the then governor of the Straits Settlements, Sir
   Andrew Clarke, for the assistance of a British Resident. The treaty of
   Pangkor was concluded on the 20th of January 1874, and the first
-  resident, Mr J. W. W. Birch, was murdered on the 2nd of November 1875.
+  resident, Mr J. W. W. [[Birch]], was murdered on the 2nd of November 1875.
   A punitive expedition became necessary; sultan Abdullah and the other
   chiefs concerned in the murder were banished, the actual murderers
   were hanged, and Raja Muda Jusuf was declared regent. He died in 1888,
@@ -216,7 +216,7 @@ area of the country is estimated at about 10,000 sq. m.
   enlightened ruler, who was from the first a strong and intelligent
   advocate of British methods of administration. Sir Hugh Low was
   appointed resident, a position which he held until 1889, when he was
-  succeeded by Sir Frank Swettenham. Since then the history of Perak has
+  succeeded by Sir [[Frank]] Swettenham. Since then the history of Perak has
   been one of continuous peace and growing prosperity and wealth.
   Although the federal capital is Kuala Lumpor in Selangor, Perak still
   enjoys the honour of being the senior and leading state of the
@@ -258,13 +258,13 @@ area of the country is estimated at about 10,000 sq. m.
   yet to come--but to the uncertainty of the labour supply. The mining
   population is recruited exclusively from the districts of southern
   China, and during certain years an increased demand for labourers in
-  China itself, in French Indo-China, in the Dutch colonies, and in
+  China itself, in French [[Indo-China]], in the Dutch colonies, and in
   South Africa temporarily and adversely affected immigration to the
   Straits of Malacca. The output has, moreover, been affected from time
   to time by the price of tin, which was $32.20 per pikul in 1896, rose
   to $42.96 in 1898, to $74.15 in 1900, and averaged $80.60 in 1905.
   Exclusive of tin, the principal exports were $108,000 worth of Para
-  rubber, $181,000 of copra, $54,000 of hides, $48,000 of patchouli, and
+  rubber, $181,000 of [[Copra|copra]], $54,000 of hides, $48,000 of patchouli, and
   considerable quantities of timber, rattans and other jungle produce.
   The agricultural development of the state is still in its infancy, but
   rubber is cultivated in rapidly increasing areas, and the known
@@ -335,7 +335,7 @@ breadth about 48 m., total area estimated at about 3000 sq. m.
     History.
 
   According to native tradition, the ruling house of Selangor is
-  descended from a Bugis raja, who, with two of his brothers, settled in
+  descended from a [[Bugis]] raja, who, with two of his brothers, settled in
   the state in 1718, the son of the youngest brother eventually becoming
   ruler of the country. In 1783 the then sultan of Selangor joined with
   the Iang-di-per-Tuan Muda of Riau in an unsuccessful attack upon the
@@ -357,7 +357,7 @@ breadth about 48 m., total area estimated at about 3000 sq. m.
   Langat River led to the governor, Sir Andrew Clarke, appointing, at
   the request of the sultan, a British Resident to aid him in the
   administration of his kingdom. Since that date there has been no
-  further breach of the peace, and the prosperity of Selangor has
+  further [[Breach|breach]] of the peace, and the prosperity of Selangor has
   increased annually.
 
   By the census taken on the 5th of April 1891 the population of
@@ -381,7 +381,7 @@ breadth about 48 m., total area estimated at about 3000 sq. m.
   other part of the colony or Malay States. The development of planting
   enterprise in Selangor, and more especially the cultivation of rubber,
   has led during recent years to the immigration of a considerable
-  number of Tamil coolies, but the Tamil population is still
+  number of Tamil [[Coolie|coolies]], but the Tamil population is still
   insignificant as compared with the Chinese.
 
 
@@ -487,7 +487,7 @@ results.
   Andrew Clarke sent a military force to that state, put an end to the
   disturbances, and placed the country under the control of a British
   Resident. Jelebu was taken under British protection in 1886, and was
-  thenceforth managed by a magistrate under the orders of the Resident
+  thenceforth managed by a [[Magistrate|magistrate]] under the orders of the Resident
   of Sungei Ujong. In 1896, when the federation of all the Malayan
   states under British control was effected, Sungei Ujong and Jelebu
   were reunited to the confederation of small states from which they had
@@ -515,7 +515,7 @@ results.
   public works. The trade returns for 1905, which are not, however,
   complete, show an aggregate value of about $13,000,000. The value of
   the tin exported during 1905 exceeded $6,900,000, and the value of the
-  agricultural produce, of which gambier represented $211,000 and damar
+  agricultural produce, of which [[Gambier|gambier]] represented $211,000 and damar
   $80,000, amounted to $407,990.
 
 
@@ -581,7 +581,7 @@ are impossible of access except at high tides.
   vast forest, but in the Lipis valley, which formerly was thickly
   populated, there is a considerable expanse of open grass plain unlike
   anything to be seen on the western seaboard. The coast is for the most
-  part a sandy beach fringed with _casuarina_ trees and there are only a
+  part a sandy [[Beach|beach]] fringed with _casuarina_ trees and there are only a
   few patches of mangrove-swamp throughout its entire length.
 
 
@@ -630,7 +630,7 @@ are impossible of access except at high tides.
   The rebel chiefs were banished to Siam, and no further breach of the
   peace has troubled the tranquillity of Pahang since that time. Pahang
   joined the Federated Malay States by a treaty signed in 1895, and the
-  sultan and his principal chiefs were present at the federal durbar
+  sultan and his principal chiefs were present at the federal [[Durbar|durbar]]
   held at Kuala Kangsar in Perak in 1897.
 
 
@@ -767,7 +767,7 @@ uncultivated.
   buildings have been erected. The town is the commercial as well as the
   administrative centre of the state. Tumpat and Tabar on the coast,
   with population 4000 and 3000 respectively, are the places next in
-  importance after Kota Bharu. A network of creeks render communication
+  importance after Kota Bharu. A network of [[Creek|creeks]] render communication
   easy in the northern districts, the river and its tributaries afford
   means of access to all parts of the south; 20 miles of road have been
   made in the neighbourhood of Kota Bharu. Kelantan is connected by
@@ -779,7 +779,7 @@ uncultivated.
   misrule prevented mining enterprise in Kelantan until, in 1900, a
   large concession was given to an Englishman and the country was opened
   to foreigners. In 1909 three mining syndicates were at work, and
-  several others were in process of formation. Gold, tin and galena have
+  several others were in process of formation. Gold, tin and [[Galena|galena]] have
   been found in several localities and during the years 1906-1909 28,000
   ounces of gold were dredged from the Kelantan River. The Kelantanese
   are expert fishermen, some 30,000 finding employment in fishing and
@@ -801,7 +801,7 @@ uncultivated.
   is rare. The state revenue, which was practically nothing in 1902,
   amounted to $320,000 in 1907. Islamism was adopted about 300 years ago
   but the old animistic superstitions are still strong. The state is
-  divided into _mukim_ or parishes, but the _imam_ no longer exercise
+  divided into _mukim_ or parishes, but the _[[Imam|imam]]_ no longer exercise
   temporal authority. There are three schools at Kota Bharu, education
   in the interior being in the hands of the imam assisted with
   government grants.
@@ -809,7 +809,7 @@ uncultivated.
   No historical records of Kelantan exist, and the state was not noticed
   by the European merchants of the 16th and 17th centuries. Consequently
   little is known of its early history beyond what is to be gathered
-  from brief references in the Malay annals and the old chronicles of
+  from brief references in the Malay [[Annals|annals]] and the old chronicles of
   Siam. The sites of ancient towns and the remains of former gold
   diggings are visible here and there, but all knowledge of the men who
   made these marks has been lost. The present ruling family dates from
@@ -965,7 +965,7 @@ forming a district of the state.
   and burnt by the Europeans. The ruler and his people were converted to
   Islam in the 15th century. In 1768, the Siamese kingdom being
   disorganized, the sultan of Kedah entered into direct political
-  relations with the Hon. East India Company, leasing the island of
+  relations with the Hon. [[East India Company]], leasing the island of
   Penang to the latter. Further treaties followed in 1791 and 1802, but
   in 1821 Siam reasserted her control, expelling the rebellious sultan
   after a sanguinary war. The sultan made several fruitless efforts to
@@ -976,7 +976,7 @@ forming a district of the state.
   governed well, but in 1895 he began to contract debts and to leave the
   government to his minions. The result was chaos, and in 1905 the
   Siamese government had to intervene to avert a condition of
-  bankruptcy, adjusting the finances and reorganizing the general
+  [[Bankruptcy|bankruptcy]], adjusting the finances and reorganizing the general
   administration to such effect that when, four years later, the state
   became a British dependency, a government was found established on a
   sound basis and requiring nothing but the presence of a firm and
@@ -1003,11 +1003,11 @@ only round the mouth of the river.
   immediate needs of government.
 
   Authorities.--Norman, _The Far East_ (London, 1895); H. Clifford, in
-  the _Geographical Journal_ (London, 1896); Carter, _The Kingdom of
-  Siam_ (London, 1904); Graham, _Reports on Kelantan_ (Bangkok,
+  the _Geographical Journal_ (London, 1896); [[Carter]], _The Kingdom of
+  Siam_ (London, 1904); [[Graham]], _Reports on Kelantan_ (Bangkok,
   1905-1909); Skeat and Blagden, _Pagan Races of the Malay Peninsula_
-  (London, 1906); Hart, _Reports on Kedah_ (Calcutta, 1907-1909);
-  Graham, _Kelantan, a Handbook_ (Glasgow, 1907).     (W. A. G.)
+  (London, 1906); [[Hart]], _Reports on Kedah_ (Calcutta, 1907-1909);
+  Graham, _Kelantan, a Handbook_ ([[Glasgow]], 1907).     (W. A. G.)
 
 ## See also
 

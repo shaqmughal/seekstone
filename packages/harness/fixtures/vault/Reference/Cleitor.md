@@ -8,12 +8,12 @@ id: 42-6133
 
 # Cleitor
 
-CLEITOR, or CLITOR, a town of ancient Greece, in that part of Arcadia
+CLEITOR, or CLITOR, a town of ancient Greece, in that part of [[Arcadia]]
 which corresponds to the modern eparchy of Kalavryta in the nomos of
-Elis and Achaea. It stood in a fertile plain to the south of Mt Chelmos,
+[[Eli|Elis]] and Achaea. It stood in a fertile plain to the south of Mt Chelmos,
 the highest peak of the Aroanian Mountains, and not far from a stream
 of its own name, which joined the Aroanius, or Katzana. In the
-neighbourhood was a fountain, the waters of which were said to deprive
+neighbourhood was a [[Fountain|fountain]], the waters of which were said to deprive
 those who drank them of the taste for wine. The town was a place of
 considerable importance in Arcadia, and its inhabitants were noted for
 their love of liberty. It extended its territory over several

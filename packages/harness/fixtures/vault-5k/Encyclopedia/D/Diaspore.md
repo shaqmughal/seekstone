@@ -20,8 +20,8 @@ The specific gravity is 3.4. When heated before the blowpipe it
 decrepitates violently, breaking up into white pearly scales; it was
 because of this property that the mineral was named diaspore by R. J.
 Hauy in 1801, from [Greek: diaspeirein], "to scatter." The mineral
-occurs as an alteration product of corundum or emery, and is found in
-granular limestone and other crystalline rocks. Well-developed crystals
+occurs as an alteration product of [[Corundum|corundum]] or emery, and is found in
+granular [[Limestone|limestone]] and other crystalline rocks. Well-developed crystals
 are found in the emery deposits of the Urals and at Chester,
 Massachusetts, and in kaolin at Schemnitz in Hungary. If obtainable in
 large quantity it would be of economic importance as a source of

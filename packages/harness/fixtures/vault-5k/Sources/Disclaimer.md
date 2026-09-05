@@ -8,8 +8,8 @@ written, but in such case it must be something more than a mere
 renunciation of the tenant's title, or it may be an act which is wholly
 inconsistent with the existence of such relation, as the setting up by
 the tenant of a distinct title either in himself or some third party.
-(2) In the law of bankruptcy, where any part of the property of a
-bankrupt consists of land of any tenure burdened with onerous covenants,
+(2) In the law of [[Bankruptcy|bankruptcy]], where any part of the property of a
+bankrupt consists of land of any tenure burdened with onerous [[Covenant|covenants]],
 of stocks or shares in companies, of unprofitable contracts, or of any
 property that is unsaleable, or not readily saleable, by reason of its
 binding the possessor to the performance of any onerous act, the
@@ -23,7 +23,7 @@ duties of a trustee. It is an undisputed rule that no one is compellable
 to undertake a trust, so that as soon as a person knows he has been
 appointed a trustee under some instrument, he should determine whether
 he will accept the office or not. Disclaimer of trust should be by deed,
-as admitting of no ambiguity, but it may be by conveyance to other
+as admitting of no ambiguity, but it may be by [[Conveyance|conveyance]] to other
 accepting trustees, or orally, or by written declaration, or even by
 conduct. (4) In the law of patents, disclaimer is the renunciation, by
 amendment of specifications, of the portion of an inventor's claim to
@@ -35,7 +35,7 @@ protection.
 DISCOUNT. (1) A money-market term for the price paid in order to obtain
 immediate realization of a bill not yet due. If a bill for £100 due six
 months hence is discounted at the rate of 3% per annum, its holder will
-obtain £98, 10s. in cash for it. (2) A Stock-Exchange term applied to a
+obtain £98, 10s. in [[Cash|cash]] for it. (2) A Stock-Exchange term applied to a
 security, not fully paid, which has fallen below its issue price, and so
 is said to stand at so much discount. See PREMIUM.
 

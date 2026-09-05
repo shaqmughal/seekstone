@@ -19,8 +19,8 @@ disease of the respiratory organs (see RESPIRATORY SYSTEM: _Pathology_).
 The attacks occur quite suddenly, and in some patients at regular, in
 others at irregular intervals. They are characterized by extreme
 difficulty both in inspiration and expiration, but especially in the
-latter, the chest becoming distended and the diaphragm immobile. In the
-case of "pure," "idiopathic" or "nervous" asthma, there is no fever or
+latter, the chest becoming distended and the [[Diaphragm|diaphragm]] immobile. In the
+case of "pure," "idiopathic" or "nervous" asthma, there is no [[Fever|fever]] or
 other sign of inflammation. But where the asthma is secondary to disease
 of some organ of the body, the symptoms will depend largely on that
 organ and the disease present. Such secondary forms may be bronchitic,
@@ -47,7 +47,7 @@ condition, not becoming acute for some hour or more. But in others the
 attack is so sudden, so severe, that the patient springs from his bed
 and makes his way at once to an open window, apparently struggling for
 breath. Most asthmatics have some favourite attitude which best enables
-them to use all the auxiliary muscles of respiration in their struggle
+them to use all the [[Auxiliary|auxiliary]] muscles of respiration in their struggle
 for breath, and this attitude they immediately assume, and guard fixedly
 until the attack begins to subside. The picture is characteristic and a
 very painful one to watch. The face is pale, anxious, and it may be
@@ -67,8 +67,8 @@ attacks, asthma is not one of the diseases that shorten life.
 In the child, asthma is usually periodic in its recurrence, but as he
 ages it tends to become more erratic in both its manifestations and time
 of appearance. Also, though at first it may be strictly "pure" asthma,
-later in life it becomes attended by chronic bronchitis, which in its
-turn gives rise to emphysema.
+later in life it becomes attended by chronic [[Bronchitis|bronchitis]], which in its
+turn gives rise to [[Emphysema|emphysema]].
 
 As to the underlying cause of the disease, one has only to read the many
 utterly different theories put forward to account for it, to see how
@@ -81,14 +81,14 @@ the nasal passages, and that the nose comparatively rarely supplies the
 immediate exciting cause of the asthmatic attack. Paroxysmal sneezing is
 another form in which asthma may show itself, and, curiously enough,
 this form occurs more frequently in women, asthma of the more recognized
-type in men. In infants and young children paroxysmal bronchitis is
+type in men. In [[Infant|infants]] and young children paroxysmal bronchitis is
 another form of the same disease. Dr James Goodhart notes the connexion
 between asthma and certain skin troubles, giving cases of the
-alternation of asthma and psoriasis, and also of asthma and eczema. The
+alternation of asthma and psoriasis, and also of asthma and [[Eczema|eczema]]. The
 disease occurs in families with a well-marked neurotic inheritance, and
 twice as frequently in men as in women. The immediate cause of an attack
 may be anything or nothing. Dr Hyde Salter notes that 80% of cases in
-the young date from an attack of whooping cough, bronchitis or measles.
+the young date from an attack of whooping cough, bronchitis or [[Measles|measles]].
 
 In the general treatment of asthma there are two methods of dealing with
 the patient, either that of hardening the individual, widening his range
@@ -104,7 +104,7 @@ performed as follows:--"After painting one side of the septum nasi with
 a few drops of cocaine and resorcin, I draw a line with a
 galvano-cautery point from a spot opposite the middle turbinated body,
 forwards and slightly downwards for a distance of rather less than half
-an inch. In about one week's time I repeat the operation on the other
+an [[Inch|inch]]. In about one week's time I repeat the operation on the other
 side." In his monograph on the subject, he classifies a large number of
 cases treated in this manner, most of which resulted in complete relief,
 some in very great improvement, and a very few in slight or no relief.

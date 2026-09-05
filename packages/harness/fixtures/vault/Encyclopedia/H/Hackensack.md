@@ -6,8 +6,8 @@ topic: cartography
 
 # Hackensack
 
-HACKENSACK, a town and the county-seat of Bergen county, New Jersey,
-U.S.A., on the Hackensack river, 13 m. N. of Jersey City. Pop. (1890),
+HACKENSACK, a town and the county-seat of [[Bergen]] county, New [[Jersey]],
+U.S.A., on the Hackensack river, 13 m. N. of [[Jersey City]]. Pop. (1890),
 6004; (1900), 9443, of whom 2009 were foreign-born and 515 were negroes;
 (1905) 11,098; (1910) 14,050. It is served by the New York, Susquehanna
 & Western, and the New Jersey & New York railways, both being controlled
@@ -21,13 +21,13 @@ establishments in and near it. Silk and silk goods and wall-paper are
 the principal manufactures. In 1905 the value of the town's factory
 product was $1,488,358, an increase of 90.3% since 1900. There are an
 historic mansion-house and an interesting old Dutch church, both erected
-during the 18th century; and a monument marks the grave of General Enoch
+during the 18th century; and a monument marks the grave of General [[Enoch]]
 Poor (1736-1780), an officer in the War of Independence, who was born at
-Andover, Mass., entered the Continental Army from New Hampshire, and
+Andover, Mass., entered the Continental Army from New [[Hampshire]], and
 took part in the campaign against Burgoyne, in the battle of Monmouth
-and in General Sullivan's expedition against the Iroquois. Hackensack
+and in General Sullivan's expedition against the [[Iroquois]]. Hackensack
 was settled by the Dutch about 1640, and was named after the Hackensack
-Indians, a division of the Unami Delawares, who lived in the valleys of
+Indians, a division of the Unami [[Delaware|Delawares]], who lived in the valleys of
 the Hackensack and Passaic rivers, and whose best-known chief was
 Oritany, a friend of the whites. Hackensack is coextensive with the
 township of New Barbadoes, first incorporated with considerably larger

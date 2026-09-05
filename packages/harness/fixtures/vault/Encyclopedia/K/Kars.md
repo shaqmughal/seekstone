@@ -26,20 +26,20 @@ corner joins the Aras. The Kura rises within the province not far from
 the Kysyr-dagh and flows across it westwards, then eastwards and
 north-eastwards, quitting it in the north-east. The winters are very
 severe. The towns of Kaghyshman (4620 ft.) and Sarykamish (7800 ft.)
-have a winter temperature like that of Finland, and at the latter place,
+have a winter temperature like that of [[Finland]], and at the latter place,
 with an annual mean (35 deg. F.) equal to that of Hammerfest in the
 extreme north of Norway, the thermometer goes down in winter to 40 deg.
 below zero and rises in summer to 99 deg. The annual mean temperature at
 Kars is 40.5 deg. and at Ardahan, farther north, 37 deg. The Alpine
 meadows (_yailas_) reach up to 1000 ft. and afford excellent pasturage
 in spring and summer. The province is almost everywhere heavily
-forested. Firs and birches flourish as high as 7000 ft., and the vine up
+forested. Firs and [[Birch|birches]] flourish as high as 7000 ft., and the vine up
 to above 3000 ft. Cereals ripen well, and barley and maize grow up to
 considerable altitudes. Large numbers of cattle and sheep are bred.
 Extensive deposits of salt occur at Kaghyshman and Olty. The population
 was 167,610 in 1883 and 292,863 in 1897. The estimated population in
 1906 was 349,100. It is mixed. In remote antiquity the province was
-inhabited by Armenians, the ruins of whose capital, Ani, attest the
+inhabited by Armenians, the ruins of whose capital, [[Ani]], attest the
 ancient prosperity of the country. To the Armenians succeeded the Turks,
 while Kurds invaded the Alpine pasturages above the valley of the Aras;
 and after them Kabardians, Circassians, Ossetes and Kara-papaks

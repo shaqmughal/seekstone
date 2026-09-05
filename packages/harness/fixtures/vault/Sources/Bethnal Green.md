@@ -16,20 +16,20 @@ other industries; but was formerly largely devoted to silk-weaving,
 which spread over the district from its centre in Spitalfields (see
 STEPNEY). This industry is still maintained. The Bethnal Green museum
 was opened in 1872. It contains exhibits of food and animal products,
-formerly at South Kensington, entomological collections, &c.; and
+formerly at South [[Kensington]], entomological collections, &c.; and
 various loan exhibitions are held from time to time. The Museum also
-housed the Wallace collection until the opening of Hertford House, and
+housed the Wallace collection until the opening of [[Hertford]] House, and
 the pictures now in the National Portrait Gallery. It stands in public
 gardens; there are several other small open spaces; and some 70 out of
 the 217 acres of Victoria Park are within the borough. Close by the park
 there stood, until the 19th century, a house believed to have belonged
-to the notorious Bishop Bonner, the persecutor of Protestants in the
+to the notorious Bishop [[Bonner]], the persecutor of Protestants in the
 reign of Mary; his name is still attached to a street here. Among
 institutions are the missionary settlement of the Oxford House, founded
 in 1884, with its women's branch, St Margaret's House; the North-Eastern
-hospital for children, the Craft school und the Leather Trade school.
+hospital for children, the [[Craft]] school und the Leather Trade school.
 The parliamentary borough of Bethnal Green has two divisions, each
-returning one member. The borough council consists of a mayor, 5
+returning one member. The borough council consists of a [[Mayor|mayor]], 5
 aldermen and 30 councillors. Area, 759.3 acres.
 
 ## See also

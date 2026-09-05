@@ -13,7 +13,7 @@ JODELLE, ÉTIENNE, seigneur de Limodin (1532-1573), French dramatist and
 poet, was born in Paris of a noble family. He attached himself to the
 poetic circle of the Pléiade (see DAURAT) and proceeded to apply the
 principles of the reformers to dramatic composition. Jodelle aimed at
-creating a classical drama that should be in every respect different
+creating a classical [[Drama|drama]] that should be in every respect different
 from the moralities and _soties_ that then occupied the French stage.
 His first play, _Cléopâtre captive_, was represented before the court at
 Reims in 1552. Jodelle himself took the title rôle, and the cast

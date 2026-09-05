@@ -31,7 +31,7 @@ to seek its food, which is solely vegetable in kind, and consists of the
 twigs, leaves, seeds and fruits of trees, grass and fern roots--some
 observers say mosses also. It sometimes climbs trees, but generally
 remains on the ground, only using its comparatively short wings to
-balance itself in running or to break its fall when it drops from a
+[[Balance|balance]] itself in running or to break its fall when it drops from a
 tree--though not always then--being apparently incapable of real flight.
 It thus becomes an easy prey to the marauding creatures--cats, rats and
 so forth--which European colonists have, by accident or design, let

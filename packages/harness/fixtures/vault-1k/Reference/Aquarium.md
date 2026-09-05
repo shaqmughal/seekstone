@@ -28,7 +28,7 @@ serve to show the methods and aims, and the complex and expensive
 equipment, of a modern aquarium:--
 
 "The zoological station at Naples is an institution for the advancement
-of biological science--that is, of comparative anatomy, zoology, botany,
+of biological science--that is, of [[Comparative Anatomy|comparative anatomy]], zoology, botany,
 physiology. It serves this end by providing the biologist with the
 various objects of his study and the necessary appliances; it is not a
 teaching institution. The station was founded by Dr Anton Dohrn, and
@@ -128,7 +128,7 @@ organisms of the Mediterranean. One is _Fauna und Flora des Golfes van
 Neapel_, the other _Mittheilungen aus der zoologischen Station zu
 Neapel_. The former consists of monographs in which special groups of
 animals and plants are most exhaustively treated and the Mediterranean
-species portrayed according to life in natural colours; up to the
+species portrayed according to life in natural [[Colours|colours]]; up to the
 present time twenty-one zoological and five botanical monographs have
 appeared, making altogether 1200 4to sheets with about 400 plates. Of
 the Mittheilungen, which contain smaller articles on organisms of the
@@ -207,7 +207,7 @@ of water in circulation; if practicable, they should be excavated in
 rock, and lined with the best cement. Thera is no reason why they should
 not be shallow, exposed to light and air, and cultivated as rock-pools
 by the introduction of seaweeds and small animals, but they must then be
-screened from rain, cold and dust. The pumps used in circulation will be
+screened from rain, cold and [[Dust|dust]]. The pumps used in circulation will be
 less likely to kill minute animals if of the plunger or ram type, rather
 than rotary, and should be of gun-metal or one of the new bronze-alloys
 which take a patina in salt water. For the circulating pipes many
@@ -226,7 +226,7 @@ purposes. If intended for show-tanks for popular admiration, or for the
 study of large animals, they must be large with a plate-glass front; for
 ordinary scientific work small tanks with all sides opaque are
 preferable from every point of view. According to their character, size
-and position, fixed tanks may be of brickwork, masonry or rock, coated
+and position, fixed tanks may be of brickwork, [[Masonry|masonry]] or rock, coated
 in each case with cement; asphalting the sides offers no particular
 advantages, and often gives rise to great trouble and expense. All
 materials, and especially the cements, must be of the finest quality

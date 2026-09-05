@@ -21,14 +21,14 @@ that they required to be sworn and admitted to the freedom of the
 Highgate before being allowed to pass the gate, the fine of admission
 being a bottle of wine. Not a few famous names occur among the former
 residents of Highgate. Bacon died here in 1626; Coleridge and Andrew
-Marvell, the poets, were residents. Cromwell House, now a convalescent
+[[Marvell]], the poets, were residents. [[Cromwell]] House, now a convalescent
 home, was presented by Oliver Cromwell to his eldest daughter Bridget on
 her marriage with Henry Ireton (January 15, 1646/7). Lauderdale House,
 now attached to the public grounds of Waterlow Park, belonged to the
 Duke of Lauderdale, one of the "Cabal" of Charles II. Among various
 institutions may be mentioned Whittington's almshouses, near Whittington
 Stone, at the foot of Highgate Hill, on which the future mayor of London
-is reputed to have been resting when he heard the peal of Bow bells and
+is reputed to have been resting when he heard the peal of [[Bow]] bells and
 "turned again." Highgate grammar school was founded (1562-1565) by Sir
 Roger Cholmley, chief-justice. St Joseph's Retreat is the mother-house
 of the Passionist Fathers in England. There is an extensive and

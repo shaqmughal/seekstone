@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Histology"
 # Histology
 
 HISTOLOGY (Gr. [Greek: histos], web, tissue, properly the web-beam of
-the loom, from [Greek: histanai], to make to stand), the science which
+the [[Loom|loom]], from [Greek: histanai], to make to stand), the science which
 deals with the structure of the tissues of plants and animals (see
-CYTOLOGY).
+[[Cytology|CYTOLOGY]]).
 
 
 
@@ -37,7 +37,7 @@ universe, and every part of it, has its history. The discovery of ether
 brought with it a reconstruction of our ideas of the physical universe,
 transferring the emphasis from the mathematical expression of static
 relationships to a dynamic conception of a universe in constant
-transformation; matter in equipoise became energy in gradual
+transformation; matter in equipoise became energy in [[Gradual|gradual]]
 readjustment. Solids are solids no longer. The universe is in motion in
 every particle of every part; rock and metal merely a transition stage
 between crystallization and dissolution. This idea of universal activity
@@ -66,7 +66,7 @@ applies the standards of the author's own environment. We no longer
 condemn Shakespeare for having violated the ancient dramatic laws, nor
 Voltaire for having objected to the violations. Each age has its own
 expression, and in judging each we enter the field of history. In
-ethics, again, the revolt against absolute standards limits us to the
+[[Ethics|ethics]], again, the revolt against absolute standards limits us to the
 relative, and morals are investigated on the basis of history, as
 largely conditioned by economic environment and the growth of
 intellectual freedom. Revelation no longer appeals to scientific minds
@@ -78,7 +78,7 @@ destruction. Internationalism has gained ground in Europe in recent
 years; and Socialism itself, which is based upon a distinct
 interpretation of history, is regarded by its followers as merely a
 stage in human progress, like those which have gone before it. It is
-evident that Freeman's definition of history as "past politics" is
+evident that Freeman's [[Definition|definition]] of history as "past politics" is
 miserably inadequate. Political events are mere externals. History
 enters into every phase of activity, and the economic forces which urge
 society along are as much its subject as the political result.
@@ -103,7 +103,7 @@ Herodotus himself was as much a scientific explorer as a reciter of
 narrative, and his life-long investigation was _historie_ in his Ionian
 speech. Yet it was Herodotus himself who first hinted at the new use of
 the word, applied merely to the details accumulated during a long search
-for knowledge. It is not until Aristotle, however, that we have it
+for knowledge. It is not until [[Aristotle]], however, that we have it
 definitely applied to the literary product instead of the inquiry which
 precedes it. From Aristotle to modern times, history (Lat. _historia_)
 has been a form of literature. It is only in the scientific environment
@@ -113,7 +113,7 @@ one of which, investigation, is in the field of science, while the
 other, the literary presentation, is in the field of art.
 
 The history of history itself is therefore two-fold. History as art
-flourishes with the arts. It calls upon the imagination and the literary
+flourishes with the arts. It calls upon the [[Imagination|imagination]] and the literary
 gifts of expression. Its history does not run parallel with the
 scientific side, but rather varies in inverse ratio with scientific
 activity. Those periods which have been dominated by the great masters
@@ -128,11 +128,11 @@ Here the product of the age of Pericles remains unsurpassed still; the
 works of Herodotus and Thucydides standing along with those of Pheidias
 as models for all time. On the other hand, history the science has
 developed so that it has not only gained recognition among historians as
-a distinct subject, but it has raised with it a group of auxiliary
+a distinct subject, but it has raised with it a group of [[Auxiliary|auxiliary]]
 sciences which serve either as tools for investigation or as a basis for
 testing the results. The advance in this branch of history in the 19th
 century was one of its greatest achievements. The vast gulf which lies
-between the history of Egypt by Herodotus and that by Flinders Petrie is
+between the history of Egypt by Herodotus and that by [[Flinders]] Petrie is
 the measure of its achievement. By the mechanism now at his disposal the
 scientific explorer can read more history from the dust-heaps of Abydos
 than the greatest traveller of antiquity could gather from the priests
@@ -142,7 +142,7 @@ mind the double aspect.
 History itself, this double subject, the science and the art combined,
 begins with the dawn of memory and the invention of speech. It is wrong
 to term those ages _pre-historic_ whose history has not come down to us,
-including in one category the pre-literary age and the literary whose
+including in one [[Category|category]] the pre-literary age and the literary whose
 traces have been lost. Even the pre-literary had its history, first in
 myth and then in saga. The saga, or epos, was a great advance upon the
 myth, for in it the deeds of men replace or tend to replace the deeds of
@@ -158,11 +158,11 @@ The earliest prose origins of history are the inscriptions. Their
 inadequacy is evident from two standpoints. Their permanence depends not
 upon their importance, but upon the durability of the substance on which
 they are inscribed. A note for a wedding ring baked into the clay of
-Babylon has been preserved, while the history of the greatest events has
+[[Babylon]] has been preserved, while the history of the greatest events has
 perished. In the second place they are sealed to all but those who know
 how to read them, and so they lie forgotten for centuries while oral
 tradition flourishes,--being within the reach of every man. It is only
-recently that archaeology, turning from the field of art, has undertaken
+recently that [[Archaeology|archaeology]], turning from the field of art, has undertaken
 to interpret for us this first written history. The process by which the
 modern fits together all the obtainable remains of an antiquity, and
 reconstructs even that past which left no written record, lies outside
@@ -174,27 +174,27 @@ to decipher.
 Next to the inscriptions,--sometimes identical with them,--are the early
 chronicles. These are of various kinds. Family chronicles preserved the
 memory of heroic ancestors whose deeds in the earliest age would have
-passed into the keeping of the bards. Such family archives were perhaps
+passed into the keeping of the bards. Such family [[Archive|archives]] were perhaps
 the main source for Roman historians. But they are not confined to Rome
 or Greece. Genealogies also pass from the bald verse, which was the
 vehicle for oral transmission, to such elaborate tables as those in
 which Manetho has preserved the dynasties of Egyptian Pharaohs.
 
 In this field the priest succeeds the poet. The temple itself became the
-chief repository of records. There were simple religious annals, votive
+chief repository of records. There were simple religious [[Annals|annals]], votive
 tablets recording miracles accomplished at a shrine, lists of priests
 and priestesses, accounts of benefactions, of prodigies and portents. In
 some cases, as in Rome, the pontiffs kept a kind of register, not merely
 of religious history, but of important political events as well. Down to
-the time of the Gracchi (131 B.C.) the Pontifex Maximus inscribed the
+the time of the Gracchi (131 B.C.) the Pontifex [[Maximus]] inscribed the
 year's events upon annual tablets of wood which were preserved in the
-Regia, the official residence of the pontiff in the Forum. These
+Regia, the official residence of the pontiff in the [[Forum]]. These
 pontifical "annals" thus came to be a sort of civic history. Chronicles
 of the Greek cities were commonly ascribed to mythical authors, as for
 instance that of Miletus, the oldest, to Cadmus the inventor of letters.
 But they were continued and edited by men in whom the critical spirit
 was awakening, as when the chroniclers of Ionian towns began the
-criticism of Homer.
+criticism of [[Homer]].
 
 The first historians were the logographi of these Ionian cities; men who
 carried their inquiry (_historie_) beyond both written record and oral
@@ -209,7 +209,7 @@ history of thought. They are the introduction to historical criticism
 and scientific investigation. Whatever the actual achievement of
 Hecataeus may have been, from his time onward the scientific movement
 was set going. Herodotus of Heraclea struggled to rationalize mythology,
-and established chronology on a solid basis. And finally Herodotus, a
+and established [[Chronology|chronology]] on a solid basis. And finally Herodotus, a
 professional story-teller, rose to the height of genuine scientific
 investigation. Herodotus' inquiry was not simply that of an idle
 tourist. He was a critical observer, who tested his evidence. It is easy
@@ -226,17 +226,17 @@ around the story of the war between the east and west, the Greeks and
 the Persians. He is first and foremost a story-teller; his theme is like
 that of the bards, a heroic event. His story is a vast prose epos, in
 which science is to this extent subordinated to art. "This is the
-showing forth of the Inquiry of Herodotus of Halicarnassus, to the end
-that neither the deeds of men may be forgotten by lapse of time, nor the
+showing forth of the Inquiry of Herodotus of [[Halicarnassus]], to the end
+that neither the deeds of men may be forgotten by [[Lapse|lapse]] of time, nor the
 works, great and marvellous, which have been produced, some by Hellenes,
 some by Barbarians, may lose their renown, and especially that the
 causes may be remembered for which these waged war with one another"
 (i.e. the Persian war).
 
 In Thucydides a higher art than that of Herodotus was combined with a
-higher science. He scorned the story-teller "who seeks to please the ear
+higher science. He scorned the story-teller "who seeks to please the [[Ear|ear]]
 rather than to speak the truth," and yet his rhetoric is the culmination
-of Greek historical prose. He withdrew from vulgar applause, conscious
+of Greek historical prose. He withdrew from vulgar [[Applause|applause]], conscious
 that his narrative would be considered "disappointing to the ear," yet
 he recast the materials out of which he constructed it in order to lift
 that narrative into the realm of pure literature. Speeches, letters and
@@ -245,11 +245,11 @@ his art, in fact, which really created the Peloponnesian war out of its
 separate parts. And yet this art was merely the language of a scientist.
 The "laborious task" of which he speaks is that of consulting all
 possible evidence, and weighing conflicting accounts. It is this which
-makes his rhetoric worth while, "an everlasting possession, not a prize
+makes his rhetoric worth while, "an [[Everlasting|everlasting]] possession, not a prize
 competition which is heard and forgotten."
 
 From the sublimity of Thucydides, and Xenophon's straight-forward story,
-history passed with Theopompus and Ephorus into the field of rhetoric. A
+history passed with Theopompus and [[Ephorus]] into the field of rhetoric. A
 revival of the scientific instinct of investigation is discernable in
 Timaeus the Sicilian, at the end of the 4th century, but his attack upon
 his predecessors was the text of a more crushing attack upon himself by
@@ -263,16 +263,16 @@ enemies and blame friends. For as a living creature is rendered useless
 if deprived of its eyes, so if you take truth from History, what is left
 but an improfitable tale" (bk. xii. 14). These are the words of a Ranke.
 Unfortunately Polybius, like most modern scientific historians, was no
-artist. His style is the very opposite of that of Isocrates and the
+artist. His style is the very opposite of that of [[Isocrates]] and the
 rhetoricians. It is often only clear in the light of inscriptions, so
 closely does it keep to the sources. The style found no imitator;
 history passed from Greece to Rome in the guise of rhetoric. In
-Dionysius of Halicarnassus the rhetoric was combined with an extensive
+[[Dionysius]] of Halicarnassus the rhetoric was combined with an extensive
 study of the sources; but the influence of the Greek rhetoricians upon
 Roman prose was deplorable from the standpoint of science. Cicero,
 although he said that the duty of the historian is to conceal nothing
 true, to say nothing false, would in practice have written the kind of
-history that Polybius denounced. He finds fault with those who are _non
+history that Polybius denounced. He finds [[Fault|fault]] with those who are _non
 exornatores rerum sed tantum narratores_. History for him is the mine
 from which to draw argument in oratory and example in education. It is
 not the subject of a scientific curiosity.
@@ -282,7 +282,7 @@ Hellenism the subject of historians expanded as well. Universal history
 was begun by Ephorus, the rhetorician, and formed the theme of Polybius
 and Deodorus. Exiled Greeks were the first to write histories of Rome
 worthy of the name. The Alexandrian Eratosthenes placed chronology upon
-the scientific basis of astronomy, and Apollodorus drew up the most
+the scientific basis of [[Astronomy|astronomy]], and [[Apollodorus]] drew up the most
 important _chronica_ of antiquity.
 
 History-writing in Rome,--except for the Greek writers resident
@@ -298,36 +298,36 @@ style ranges from the brilliancy of his youth to the sternness and
 sombre gravity of age, passing almost to poetic expression in its
 epigrammatic terseness. Yet in spite of his searching study of
 authorities, his keen judgment of men, and his perception of underlying
-principles of moral law, his view was warped by the heat of faction,
+principles of moral law, his view was warped by the heat of [[Faction|faction]],
 which glows beneath his external objectivity. After him Roman
-history-writing speedily degenerated. Suetonius' _Lives of the Caesars_
+history-writing speedily degenerated. Suetonius' _Lives of the [[Caesar|Caesars]]_
 is but a superior kind of journalism. But his gossip of the court became
 the model for historians, whose works, now lost, furnish the main source
 for the _Historia Augusta_. The importance to us of this uncritical
 collection of biographies is sufficient comment on the decline of
 history-writing in the latter empire. Finally, from the 4th century the
-epitomes of Eutropius and Festus served to satisfy the lessening
+[[Epitome|epitomes]] of Eutropius and Festus served to satisfy the lessening
 curiosity in the past and became the handbooks for the middle ages. The
 single figure of Ammianus Marcellinus stands out of this age like a
-belated disciple of Tacitus. But the world was changing from antique to
+belated [[Disciple|disciple]] of Tacitus. But the world was changing from antique to
 Christian ideals just as he was writing, and with him we leave this
 outline of ancient history.
 
 The 4th and 5th centuries saw a great revolution in the history of
 history. The story of the pagan past slipped out of mind, and in its
-place was set, by the genius of Eusebius, the story of the world force
+place was set, by the genius of [[Eusebius]], the story of the world force
 which had superseded it, Christianity, and of that small fraction of
 antiquity from which it sprang,--the Jews. Christianity from the first
 had forced thinking men to reconstruct their philosophy of history, but
 it was only after the Church's triumph that its point of view became
 dominant in historiography. Three centuries more passed before the pagan
 models were quite lost to sight. But from the 7th century to the
-17th--from Isidore of Seville and the English Bede for a thousand
+17th--from [[Isidore Of Seville|Isidore of Seville]] and the English [[Bede]] for a thousand
 years,--mankind was to look back along the line of Jewish priests and
 kings to the Creation. Egypt was of interest only as it came into
 Israelite history, Babylon and Nineveh were to illustrate the judgments
 of Yahweh, Tyre and Sidon to reflect the glory of Solomon. The process
-by which the "gentiles" have been robbed of their legitimate history was
+by which the "[[Gentile|gentiles]]" have been robbed of their legitimate history was
 the inevitable result of a religion whose sacred books make them lay
 figures for the history of the Jews. Rejected by the Yahweh who became
 the Christian God, they have remained to the present day, in Sunday
@@ -339,19 +339,19 @@ the pale of inquiry nearly all antiquity. But it must be remembered that
 that antiquity was one in which the German nations had no personal
 interest. Scipio and the Gracchi were essentially unreal to them. The
 one living organization with which they came into touch was the Church.
-So Cicero and Pompey paled before Joshua and Paul. Diocletian, the
+So Cicero and Pompey paled before [[Joshua]] and Paul. [[Diocletian]], the
 organizing genius, became a bloodthirsty monster, and Constantine, the
 murderer, a saint.
 
 Christian history begins with the triumph of the Church. With Eusebius
 of Caesarea the apologetic pamphlets of the age of persecutions gave way
-to a calm review of three centuries of Christian progress. Eusebius'
+to a [[Calm|calm]] review of three centuries of Christian progress. Eusebius'
 biography of Constantine shows what distortion of fact the father of
 Church history permitted himself, but the Ecclesiastical History was
 fortunately written for those who wanted to know what really happened,
 and remains to-day an invaluable repository of Christian antiquities.
 With the continuations of Socrates, Sozomen and Theodoret, and the Latin
-manual which Cassiodorus had woven from them (the _Historia
+[[Manual|manual]] which Cassiodorus had woven from them (the _Historia
 tripartita_), it formed the body of Church history during all the middle
 ages. An even greater influence, however, was exercised by Eusebius'
 _Chronica_. Through Jerome's translation and additions, this scheme of
@@ -361,7 +361,7 @@ the Creation to the birth of Christ,--fitting the Old Testament story
 into that of ancient history. Henceforth the Jewish past,--that one path
 back to the beginning of the world,--was marked out by the absolute laws
 of mathematics and revelation. Jerome had marked it out; Sulpicius
-Severus, the biographer of St Martin, in his _Historia sacra_, adorned
+Severus, the biographer of St [[Martin]], in his _Historia sacra_, adorned
 it with the attractions of romance. Sulpicius was admirably fitted to
 interpret the miraculous Bible story to the middle ages. But there were
 few who could write like him, and Jerome's _Chronicle_ itself, or rather
@@ -374,7 +374,7 @@ From the first, Christianity had a philosophy of history. Its earliest
 apologists sought to show how the world had followed a divine plan in
 its long preparation for the life of Christ. From this central fact of
 all history, mankind should continue through war and suffering until the
-divine plan was completed at the judgment day. The fate of nations is in
+divine plan was completed at the judgment day. The [[Fate|fate]] of nations is in
 God's hands; history is the revelation of His wisdom and power. Whether
 He intervenes directly by miracle, or merely sets His laws in operation,
 He is master of men's fate. This idea, which has underlain all Christian
@@ -401,9 +401,9 @@ Medes in the same year in which the history of Rome began. From the
 first year of Ninus' reign until the rebuilding of Babylon by Semiramis
 there were sixty-four years; the same between the first of Procas and
 the building of Rome. Eleven hundred and sixty-four years after each
-city was built, it was taken,--Babylon by Cyrus, Rome by Alaric, and
+city was built, it was taken,--Babylon by [[Cyrus]], Rome by Alaric, and
 Cyrus' conquest took place just when Rome began the Republic. But before
-Rome becomes a world empire, Macedon and Carthage intervene, guardians
+Rome becomes a world empire, Macedon and Carthage intervene, [[Guardian|guardians]]
 of Rome's youth (_tutor curatorque_). This scheme of the four
 world-monarchies, which was to prevail through all the middle ages, was
 developed through seven books filled with the story of war and
@@ -417,7 +417,7 @@ of the German invasions one may look forward to Christendom,--and its
 peace.
 
 The commonest form of medieval historical writing was the chronicle,
-which reaches all the way from monastic annals, mere notes on Easter
+which reaches all the way from monastic annals, mere notes on [[Easter]]
 tables, to the dignity of national monuments. Utterly lacking in
 perspective, and dominated by the idea of the miraculous, they are for
 the most part a record of the trivial or the marvellous. Individual
@@ -427,9 +427,9 @@ the past. Contradictions are often copied down without the writer
 noticing them; and since the middle ages forged and falsified so many
 documents,--monasteries, towns and corporations gaining privileges or
 titles of possession by the bold use of them,--the narrative of medieval
-writers cannot be relied upon unless we can verify it by collateral
+writers cannot be relied upon unless we can verify it by [[Collateral|collateral]]
 evidence. Some historians, like Otto of Freising, Guibert of Nogent or
-Bernard Gui, would have been scientific if they had had our appliances
+[[Bernard]] Gui, would have been scientific if they had had our appliances
 for comparison. But even men like Roger Bacon, who deplored the
 inaccuracy of texts, had worked out no general method to apply in their
 restoration. Toward the close of the middle ages the vernacular
@@ -443,17 +443,17 @@ They did not altogether succeed; antiquity to them meant largely Plato
 and Cicero. Their interests were literary, and the un-Ciceronian
 centuries were generally ignored. Those in which the foundations of
 modern Europe were laid, which produced parliaments, cathedrals, cities,
-Dante and Chaucer, were grouped alike on one dismal level and christened
+[[Dante]] and [[Chaucer]], were grouped alike on one dismal level and christened
 the middle ages. The perspective of the humanists was only one degree
 better than that of the middle ages. History became the servant to
 literature, an adjunct to the classics. Thus it passed into the schools,
 where text-books still in use devote 200 pages to the Peloponnesian war
 and two to the Athens of Pericles.
 
-But if the literary side of humanism has been a barrier to the progress
+But if the literary side of [[Humanism|humanism]] has been a barrier to the progress
 of scientific history, the discovery and elucidation of texts first made
-that progress possible. Historical criticism soon awoke. Laurentius
-Valla's brilliant attack on the "Donation of Constantine" (1440), and
+that progress possible. Historical criticism soon awoke. [[Laurentius]]
+Valla's brilliant attack on the "[[Donation Of Constantine|Donation of Constantine]]" (1440), and
 Ulrich von Hutten's rehabilitation of Henry IV. from monkish tales mark
 the rise of the new science. One sees at a glance what an engine of
 controversy it was to be; yet for a while it remained but a phase of
@@ -461,8 +461,8 @@ humanism. It was north of the Alps that it parted company with the
 grammarians. Classical antiquity was an Italian past, the German
 scholars turned back to the sources of their national history. Aeneas
 Sylvius Piccolomini (Pius II.) had discovered Otto of Freising and
-Jordanes. Maximilian I. encouraged the search for manuscripts, and
-Vienna became a great humanistic centre. Conrad Celtes left his
+Jordanes. [[Maximilian]] I. encouraged the search for [[Manuscript|manuscripts]], and
+Vienna became a great humanistic centre. Conrad [[Celtes]] left his
 _Germania illustrata_ unfinished, but he had found the works of
 Hroswitha. Conrad Peutinger gathered all sorts of Chronicles in his room
 in Vienna, and published several,--among them Gregory of Tours. This
@@ -476,16 +476,16 @@ brought out scientific methods of historical investigation. It not only
 sobered the humanist tendency to sacrifice truth for aesthetic effect,
 it called for the documents of the Church and subjected them to the most
 hostile criticism. Luther himself challenged them. Then in the
-_Magdeburg Centuries_ (1559-1574) Protestantism tried to make good its
+_[[Magdeburg]] Centuries_ (1559-1574) Protestantism tried to make good its
 attack on the medieval Church by a great collection of sources
 accompanied with much destructive criticism. This gigantic work is the
 first monument of modern historical research. The reply of Cardinal
-Baronius (_Annales ecclesiastici_, 1588-1697) was a still greater
+[[Baronius]] (_Annales ecclesiastici_, 1588-1697) was a still greater
 collection, drawn from archives which till then had not been used for
 scientific history. Baronius' criticism and texts are faulty, though far
 surpassing anything before his day, and his collection is the basis for
 most subsequent ones,--in spite of J. J. Scaliger's refutation, which
-was to contain an equal number of volumes of the errors in Baronius.
+was to contain an equal number of volumes of the [[Error|errors]] in Baronius.
 
 The movement back to the sources in Germany until the Thirty Years' War
 was a notable one. Collections were made by Simon Schard (1535-1573),
@@ -502,7 +502,7 @@ among the greatest historians of all time.
 France had not paralleled the activity of Maximilian's Renaissance
 historians. The father of modern French history, or at least of
 historical research, was Andre Duchesne (1584-1640), whose splendid
-collections of sources are still in use. Jean Bodin wrote the first
+collections of sources are still in use. Jean [[Bodin]] wrote the first
 treatise on scientific history (_Methodus ad facilem historiarum
 cognitionem_, 1566), but he did not apply his own principles of
 criticism; and it was left for the Benedictine monks of the Congregation
@@ -516,11 +516,11 @@ wiser. But when Luc d'Achery turned from exegetics to patristics and the
 lives of the saints, as a sort of Christian humanist, he led the way to
 that vast work of collection and comparison of texts which developed
 through Mabillon, Montfaucon, Ruinart, Martene, Bouquet and their
-associates, into the indispensable implements of modern historians.
+associates, into the indispensable [[Implement|implements]] of modern historians.
 Here, as in the Reformation, controversy called out the richest product.
 Jean Mabillon's treatise, _De re diplomatica_ (1681), was due to the
-criticisms of that group of Belgian Jesuits whose _Acta Sanctorum
-quotquot toto orbe coluntur_ (1643, &c., see BOLLANDISTS) was destined
+criticisms of that group of Belgian [[Jesuits]] whose _Acta Sanctorum
+quotquot toto orbe coluntur_ (1643, &c., see [[Bollandists|BOLLANDISTS]]) was destined
 to grow into the greatest repository of legend and biography the world
 has seen. In reply to D. Papebroch's criticisms of the chronicle of St
 Denis, Mabillon prepared this manual for the testing of medieval
@@ -529,8 +529,8 @@ science of diplomatic (q.v.), the touchstone of truth for medieval
 research. Henceforth even the mediocre scholar had a body of technical
 rules by which to sort out the vast mass of apocrypha in medieval
 documentary sources. Scientific history depends upon implements.
-Without manuals, dictionaries, and easy access to texts, we should go as
-far astray as any medieval chronicler. The France of the Maurists
+Without [[Manuals|manuals]], dictionaries, and easy access to texts, we should go as
+far astray as any medieval chronicler. The France of the [[Maurists]]
 supplied the most essential of these instruments. The great "glossary"
 of Ducange is still in enlarged editions the indispensable encyclopaedia
 of the middle ages. Chronology and palaeography were placed on a new
@@ -539,7 +539,7 @@ the monumental _Art de verifier les dates_ (3rd ed., 1818-1831, in 38
 vols.), and the _Nouveau Traite de diplomatique_ (1750-1765) of Dom
 Tassin and Dom Toustain. The collections of texts which the Maurists
 published are too many and too vast to be enumerated here (see C.
-Langlois, _Manuel de bibliographie historique_, pp. 293 ff.). Dom
+Langlois, _[[Manuel]] de bibliographie historique_, pp. 293 ff.). Dom
 Bouquet's _Historiens de la Gaule et de la France_--the national
 repertory for French historians--is but one of a dozen tasks of similar
 magnitude. During the 18th century this deep under-work of scientific
@@ -558,14 +558,14 @@ isolated worker in the whole history of historiography. The same haste,
 but much less care, marked the work of J. D. Mansi (d. 1769), the
 compiler of the fullest collection of the Councils. Spain, stifled by
 the Inquisition, produced no national collection of sources during the
-17th and 18th centuries, although Nicolas Antonio (d. 1684) produced a
+17th and 18th centuries, although Nicolas [[Antonio]] (d. 1684) produced a
 national literary history of the first rank.
 
 England in the 16th century kept pace with Continental historiography.
-Henry VIII.'s chaplain, John Leland, is the father of English
+Henry VIII.'s [[Chaplain|chaplain]], John [[Leland]], is the father of English
 antiquaries. Three of the most precious collections of medieval
 manuscripts still in existence were then begun by Thomas Bodley (the
-Bodleian at Oxford), Archbishop Matthew Parker (Corpus Christi at
+Bodleian at Oxford), Archbishop [[Matthew]] Parker (Corpus Christi at
 Cambridge), and Robert Cotton (the Cottonian collection of the British
 Museum). In Elizabeth's reign a serious effort was made to arrange the
 national records, but until the end of the 18th century they were
@@ -580,7 +580,7 @@ In the 19th century the science of history underwent a sort of
 industrial revolution. The machinery of research, invented by the genius
 of men like Mabillon, was perfected and set going in all the archives of
 Europe. Isolated workers or groups of workers grew into national or
-international associations, producing from archives vast collections of
+[[International|international]] associations, producing from archives vast collections of
 material to be worked up into the artistic form of history. The result
 of this movement has been to revolutionize the whole subject. These men
 of the factory--devoting their lives to the cataloguing of archives and
@@ -612,13 +612,13 @@ character of historical research in the later 19th century.
 Every science which deals with human phenomena is in a way an implement
 in this great factory system, in which the past is welded together
 again. Psychology has been drawn upon to interpret the movements of
-revolutions or religions, anthropology and ethnology furnish a clue to
-problems to which the key of documents has been lost. Genealogy,
+revolutions or religions, anthropology and ethnology furnish a [[Clue|clue]] to
+problems to which the [[Key|key]] of documents has been lost. Genealogy,
 heraldry and chronology run parallel with the wider subject. But the
 real auxiliary sciences to history are those which deal with those
 traces of the past that still exist, the science of language
 (philology), of writing (palaeography), of documents (diplomatic), of
-seals (sphragistics), of coins (numismatics), of weights and measures,
+seals (sphragistics), of [[Coin|coins]] (numismatics), of weights and measures,
 and archaeology in the widest sense of the word. These sciences underlie
 the whole development of scientific history. Dictionaries and manuals
 are the instruments of this industrial revolution. Without them the
@@ -636,7 +636,7 @@ high culture Hebrew sources bore unwilling testimony. Biblical criticism
 is a part of the historic process. The Jewish texts, once the infallible
 basis of history, are now tested by the libraries of Babylon, from which
 they were partly drawn, and Hebrew history sinks into its proper place
-in the wide horizon of antiquity. The finding of the Rosetta stone left
+in the wide [[Horizon|horizon]] of antiquity. The finding of the Rosetta stone left
 us no longer dependent upon Greek, Latin or Hebrew sources, and now
 fifty centuries of Egyptian history lie before us. The scientific
 historian of antiquity works on the hills of Crete, rather than in the
@@ -658,13 +658,13 @@ evidence, and a clearer sense of what constitutes a primary source has
 discredited much of what had been currently accepted as true. This is
 true not only of ancient history, where last year's book may be a
 thousand years out of date, but of the whole field. Hardly an "old
-master" remains an authoritative book of reference. Gibbon, Grote,
-Giesebrecht, Guizot stand to-day by reason of other virtues than their
+master" remains an authoritative book of reference. Gibbon, [[Grote]],
+[[Giesebrecht]], Guizot stand to-day by reason of other virtues than their
 truth. Old landmarks drop out of sight--e.g. the fall of the Western
 Empire in 476, the coming of the Greeks to Italy in 1450, dates which
 once enclosed the middle ages. The perspective changes--the Renaissance
 grows less and the middle ages more; the Protestant Revolution becomes
-a complex of economics and politics and religion; the French Revolution
+a complex of economics and politics and religion; the [[French Revolution]]
 a vast social reform in which the Terror was an incident, &c., &c. The
 result has been a complete transformation of history since the middle of
 the 19th century.
@@ -677,7 +677,7 @@ of science. But while there are foreshadowings of the evolutionary
 theory in this work, neither the _philosophe_ historians nor Hume nor
 Gibbon arrived at a constructive principle in history which could take
 the place of the Providence they rejected. Religion, though false, might
-be a real historic force. History became the tragic spectacle of a game
+be a real historic force. History became the tragic spectacle of a [[Game|game]]
 of dupes--the real movers being priests, kings or warriors. The pawns
 slowly acquired reason, and then would be able to regulate the moves
 themselves. But all this failed to give a satisfactory explanation of
@@ -693,14 +693,14 @@ of the century (apart from the scientific activity of Pertz, Guizot,
 &c.) was largely dominated by the romanticists, with their exaggeration
 of the individual. Carlyle's "great man theory of history" is logically
 connected with the age of Scott. It was a philosophy of history which
-lent itself to magnificent dramatic creations; but it explained nothing.
+[[Lent|lent]] itself to magnificent dramatic creations; but it explained nothing.
 It substituted the work of the genius for the miraculous intervention of
 Providence, but, apart from certain abstract formulae such as Truth and
 Right, knew nothing of why or how. It is but dealing in words to say
 that the meaning of it all is God's revelation of Himself. Granting
 that, what is the process? Why does it so slowly reveal the Right of the
 middle ages (as in slavery for instance) to be the Wrong to-day? Carlyle
-stands to Bossuet as the sage to the myth. Hegel got no closer to
+stands to [[Bossuet]] as the sage to the myth. Hegel got no closer to
 realities. His idealistic scheme of history, which makes religion the
 keynote of progress, and describes the function of each--Judaism to
 typify duty, Confucianism order, Mahommedanism justice, Buddhism
@@ -713,7 +713,7 @@ cause, or both combined.
 In the middle of the century two men sought to incorporate in their
 philosophy the physical basis which Hegel had ignored in his
 spiritism--recognizing that life is conditioned by an environment and
-not an abstraction for metaphysics. H. T. Buckle, in his _History of
+not an abstraction for metaphysics. H. T. [[Buckle]], in his _History of
 Civilization in England_ (1857), was the first to work out the
 influences of the material world upon history, developing through a
 wealth of illustration the importance of food, soil and the general
@@ -743,7 +743,7 @@ which bases its militant philosophy upon this interpretation of history.
 But the truth or falseness of socialism does not affect the theory of
 history. In 1845 Marx wrote of the Young-Hegelians that to separate
 history from natural science and industry was like separating the soul
-from the body, and "finding the birthplace of history, not in the gross
+from the body, and "finding the birthplace of history, not in the [[Gross|gross]]
 material production on earth, but in the misty cloud formation of
 heaven" (_Die heilige Familie_, p. 238). In his _Misere de la
 philosophie_ (1847) he lays down the principle that social relationships
@@ -768,20 +768,20 @@ sociological history gained ground. Histories of commerce and cities now
 rank beside those on war and kings, although there are readers still who
 prefer to follow the pennants of robber barons rather than to watch the
 slow evolution of modern conditions. The drum-and-trumpet history has
-its place like that of art, jurisprudence, science or philosophy. Only
+its place like that of art, [[Jurisprudence|jurisprudence]], science or philosophy. Only
 now we know that no one of these is more than a single glimpse at a vast
-complex of phenomena, most of which lie for ever beyond our ken.
+complex of phenomena, most of which lie for ever beyond our [[Ken|ken]].
 
 This expansion of interest has intensified specialization. Historians no
 longer attempt to write world histories; they form associations of
 specialists for the purpose. Each historian chooses his own epoch or
 century and his own subject, and spends his life mastering such traces
 of it as he can find. His work there enables him to judge of the methods
-of his fellows, but his own remains restricted by the very wealth of
+of his [[Fellows|fellows]], but his own remains restricted by the very wealth of
 material which has been accumulated on the single subject before him.
 Thus the great enterprises of to-day are co-operative--the _Cambridge
 Modern History_, Lavisse and Rambaud's _Histoire generale_, or Lavisse's
-_Histoire de France_, like Hunt and Poole's _Political History of
+_Histoire de France_, like [[Hunt]] and Poole's _[[Political History]] of
 England_, and Oncken's _Allgemeine Geschichte in Einzeldarstellungen_.
 But even these vast sets cover but the merest fraction of their
 subjects. The Cambridge history passes for the most part along the

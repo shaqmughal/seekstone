@@ -9,13 +9,13 @@ topic: geography
 GLAUBER'S SALT, decahydrated sodium sulphate, Na2SO4, 10H2O. It is said
 by J. Kunkel to have been known as an _arcanum_ or secret medicine to
 the electoral house of Saxony in the middle of the 16th century, but it
-was first described by J. R. Glauber (_De natura salium_, 1658), who
+was first described by J. R. [[Glauber]] (_De natura salium_, 1658), who
 prepared it by the action of oil of vitriol or sulphuric acid on common
 salt, and, ascribing to it many medicinal virtues, termed it _sal
 mirabile Glauberi_. As the mineral thenardite or mirabilite, which
 crystallizes in the rhombic system, it occurs in many parts of the
 world, as in Spain, the western states of North America and the Russian
-Caucasus; in the last-named region, about 25 m. E. of Tiflis, there is a
+[[Caucasus]]; in the last-named region, about 25 m. E. of Tiflis, there is a
 thick bed of the pure salt about 5 ft. below the surface, and at
 Balalpashinsk there are lakes or ponds the waters of which are an almost
 pure solution. The substance is the active principle of many mineral

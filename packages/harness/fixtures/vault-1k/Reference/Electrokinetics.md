@@ -484,7 +484,7 @@ circuits together. If, however, the currents are in opposite directions
 then the lateral pressure of the similarly contracted lines of force
 between them pushes the conductors apart. Practical application of
 Ampère's discoveries was made by W.E. Weber in inventing the
-electrodynamometer, and later Lord Kelvin devised ampere balances for
+electrodynamometer, and later Lord Kelvin devised ampere [[Balance|balances]] for
 the measurement of electric currents based on the attraction between
 coils conveying electric currents.
 

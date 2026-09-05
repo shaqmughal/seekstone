@@ -8,7 +8,7 @@ type: reference
 # La Chaise-Dieu
 
 LA CHAISE-DIEU, a town of central France, in the department of Haute
-Loire, 29 m. N.N.W. of Le Puy by rail. Pop. (1906) 1203. The town, which
+Loire, 29 m. N.N.W. of [[Le Puy]] by rail. Pop. (1906) 1203. The town, which
 is situated among fir and pine woods, 3500 ft. above the sea, preserves
 remains of its ramparts and some houses of the 14th and 15th centuries,
 but owes its celebrity to a church, which, after the cathedral of

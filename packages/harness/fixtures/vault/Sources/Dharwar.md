@@ -13,7 +13,7 @@ DHARWAR, a town and district of British India, in the southern division
 of Bombay. The town has a station on the Southern Mahratta railway. The
 population in 1901 was 31,279. It has several ginning factories and a
 cotton-mill; two high schools, one maintained by the Government and the
-other by the Basel German Mission.
+other by the [[Basel]] German Mission.
 
 The DISTRICT OF DHARWAR has an area of 4602 sq. m. In the north and
 north-east are great plains of black soil, favourable to cotton-growing;
@@ -22,12 +22,12 @@ fertile valleys between them. The whole district lies high and has no
 large rivers.
 
 In 1901 the population was 1,113,298, showing an increase of 6% in the
-decade. The most influential classes of the community are Brahmans and
-Lingayats. The Lingayats number 436,968, or 46% of the Hindu population;
+decade. The most influential classes of the community are [[Brahman|Brahmans]] and
+[[Lingayat|Lingayats]]. The Lingayats number 436,968, or 46% of the Hindu population;
 they worship the symbol of Siva, and males and females both carry this
-emblem about their person in a silver case. The principal crops are
-millets, pulse and cotton. The centres of the cotton trade are Hubli and
-Gadag, junctions on the Southern Mahratta railway, which traverses the
+[[Emblem|emblem]] about their person in a silver case. The principal crops are
+millets, pulse and cotton. The centres of the cotton trade are [[Hubli]] and
+[[Gadag]], junctions on the Southern Mahratta railway, which traverses the
 district in several directions.
 
 The early history of the territory comprised within the district of
@@ -43,12 +43,12 @@ the fort at Dharwar town in 1403. After the defeat of the king of
 Vijayanagar at Talikot (1565), Dharwar was for a few years practically
 independent under its Hindu governor; but in 1573 the fort was captured
 by the sultan of Bijapur, and Dharwar was annexed to his dominions. In
-1685 the fort was taken by the emperor Aurangzeb, and Dharwar, on the
+1685 the fort was taken by the emperor [[Aurangzeb]], and Dharwar, on the
 break-up of the Mogul empire, fell under the sway of the peshwa of
-Poona. In 1764 the province was overrun by Hyder Ali of Mysore, who in
+Poona. In 1764 the province was overrun by [[Hyder Ali]] of Mysore, who in
 1778 captured the fort of Dharwar. This was retaken in 1791 by the
-Mahrattas. On the final overthrow of the peshwa in 1817, Dharwar was
-incorporated with the territory of the East India Company.
+[[Mahrattas]]. On the final overthrow of the peshwa in 1817, Dharwar was
+incorporated with the territory of the [[East India Company]].
 
 ## See also
 

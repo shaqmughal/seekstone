@@ -8,7 +8,7 @@ diamond-washing was once carried on), and partly on the level plain
 above. The town is roughly but substantially built, with broad streets
 and large squares. It is the seat of a bishopric, with an episcopal
 seminary, and has many churches. Its public buildings are inconspicuous;
-they include a theatre, military barracks, hospitals, a lunatic asylum
+they include a theatre, military [[Barracks|barracks]], hospitals, a lunatic [[Asylum|asylum]]
 and a secondary school. There are several small manufactures, including
 cotton-weaving, and diamond-cutting is carried on. The surrounding
 region, lying on the eastern slopes of one of the lateral ranges of the
@@ -23,7 +23,7 @@ circumference and 8 to 16 leagues in diameter. Gold-mining was forbidden
 within its limits and diamond-washing was placed under severe
 restrictions. There are no trustworthy returns of the value of the
 output, but in 1849 the total was estimated up to that date at
-300,000,000 francs (see DIAMOND). The present name of the town was
+300,000,000 [[Franc|francs]] (see DIAMOND). The present name of the town was
 assumed (instead of Tejuco) in 1838, when it was made a _cidade_.
 
 ## See also

@@ -31,7 +31,7 @@ law with his father. In 1872 he went to Texas for his health, but was
 forced to return, and he secured an engagement as first flute in the
 Peabody concerts at Baltimore (December 1873). He wrote a guide-book to
 Florida (1876), and tales for boys from Froissart, Malory, the
-Mabinogion and Percy's _Reliques_ (1878-1882). He now made congenial
+[[Mabinogion]] and Percy's _Reliques_ (1878-1882). He now made congenial
 friends, such as Bayard Taylor, his reputation gradually increased, and
 he was enabled to study music and literature, especially Anglo-Saxon
 poetry. In 1876 he wrote his ambitious cantata for the Centennial
@@ -57,7 +57,7 @@ one of the most original and most talented of modern American poets. He
 is considered the leading writer of the New South, the greatest Southern
 poet since Poe, and a man of heroic and exquisite character.
 
-  See a "Memorial," by William Hayes Ward, prefixed to the _Poems_
+  See a "Memorial," by William [[Hay|Hayes]] Ward, prefixed to the _Poems_
   (1884); _Letters of Sidney Lanier 1866-1881_ (1899), edited by H. W.
   Lanier and Mrs Sidney Lanier; E. Mims, _Sidney Lanier_ (1905). There
   is a bibliography of Lanier's scattered writings in _Select Poems_

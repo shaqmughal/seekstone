@@ -9,7 +9,7 @@ type: reference
 
 BUTADES, of Sicyon, wrongly called DIBUTADES, the first Greek modeller in
 clay. The story is that his daughter, smitten with love for a youth at
-Corinth where they lived, drew upon the wall the outline of his shadow, and
+[[Corinth]] where they lived, drew upon the wall the outline of his shadow, and
 that upon this outline her father modelled a face of the youth in clay, and
 baked the model along with the clay tiles which it was his trade to make.
 This model was preserved in Corinth till Mummius sacked that town. This

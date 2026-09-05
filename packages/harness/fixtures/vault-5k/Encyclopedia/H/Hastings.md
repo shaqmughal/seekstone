@@ -7,7 +7,7 @@ topic: navigation
 # Hastings
 
 HASTINGS, WARREN (1732-1818), the first governor-general of British
-India, was born on the 6th of December 1732 in the little hamlet of
+India, was born on the 6th of December 1732 in the little [[Hamlet|hamlet]] of
 Churchill in Oxfordshire. He came of a family which had been settled for
 many generations in the adjoining village of Daylesford; but his
 great-grandfather had sold the ancestral manor-house, and his
@@ -17,15 +17,15 @@ father, Pynaston Hastings, drifted away to perish obscurely in the West
 Indies. Thus unfortunate in his birth, young Hastings received the
 elements of education at a charity school in his native village. At the
 age of eight he was taken in charge by an elder brother of his father,
-Howard Hastings, who held a post in the customs. After spending two
-years at a private school at Newington Butts, he was moved to
+[[Howard]] Hastings, who held a post in the customs. After spending two
+years at a private school at Newington [[Butt|Butts]], he was moved to
 Westminster, where among his contemporaries occur the names of Lord
 Thurlow and Lord Shelburne, Sir Elijah Impey, and the poets Cowper and
 Churchill. In 1749, when his headmaster Dr Nichols was already
 anticipating for him a successful career at the university, his uncle
 died, leaving him to the care of a distant kinsman, Mr Creswicke, who
-was afterwards in the direction of the East India Company; and he
-determined to send his ward to seek his fortune as a "writer" in Bengal.
+was afterwards in the direction of the [[East India Company]]; and he
+determined to send his ward to seek his fortune as a "writer" in [[Bengal]].
 
 When Hastings landed at Calcutta in October 1750 the affairs of the East
 India Company were at a low ebb. Throughout the entire south of the
@@ -33,11 +33,11 @@ peninsula French influence was predominant. The settlement of Fort St
 George or Madras, captured by force of arms, had only recently been
 restored in accordance with a clause of the peace of Aix-la-Chapelle.
 The organizing genius of Dupleix everywhere overshadowed the native
-imagination, and the star of Clive had scarcely yet risen above the
+[[Imagination|imagination]], and the star of [[Clive]] had scarcely yet risen above the
 horizon. The rivalry between the English and the French, which had
 already convulsed the south, did not penetrate to Bengal. That province
-was under the able government of Ali Vardi Khan, who peremptorily
-forbade the foreign settlers at Calcutta and Chandernagore to introduce
+was under the able government of Ali Vardi [[Khan]], who peremptorily
+forbade the foreign settlers at Calcutta and [[Chandernagore]] to introduce
 feuds from Europe. The duties of a young "writer" were then such as are
 implied in the name. At an early date Hastings was placed in charge of
 an _aurang_ or factory in the interior, where his duties would be to
@@ -54,15 +54,15 @@ resident, and made use of his position at Murshidabad to open
 negotiations with the English fugitives at Falta, the site of a Dutch
 factory near the mouth of the Hugli. In later days he used to refer with
 pride to his services on this occasion, when he was first initiated into
-the wiles of Oriental diplomacy. After a while he found it necessary to
+the wiles of Oriental [[Diplomacy|diplomacy]]. After a while he found it necessary to
 fly from the Mahommedan court and join the main body of the English at
 Falta. When the relieving force arrived from Madras under Colonel Clive
 and Admiral Watson, Hastings enrolled himself as a volunteer, and took
 part in the action which led to the recovery of Calcutta. Clive showed
 his appreciation of Hastings's merits by appointing him in 1758 to the
 important post of resident at the court of Murshidabad. It was there
-that he first came into collision with the Bengali Brahman, Nuncomar,
-whose subsequent fate has supplied more material for controversy than
+that he first came into collision with the [[Bengali]] Brahman, Nuncomar,
+whose subsequent [[Fate|fate]] has supplied more material for controversy than
 any other episode in his career. During his three years of office as
 resident he was able to render not a few valuable services to the
 Company; but it is more important to observe that his name nowhere
@@ -94,7 +94,7 @@ Company." An altercation ensued. Batson gave him the lie and struck him
 in the council chamber. When war was actually begun, Hastings officially
 recorded his previous resolution to have resigned, in order to repudiate
 responsibility for measures which he had always opposed. Waiting only
-for the decisive victory of Buxar over the allied forces of Bengal and
+for the decisive victory of [[Buxar]] over the allied forces of Bengal and
 Oudh, he resigned his seat and sailed for England in November 1764.
 
 After fourteen years' residence in Bengal Hastings did not return home a
@@ -104,14 +104,14 @@ trade. At a later date he was charged by Burke with having taken up
 profitable contracts for supplying bullocks for the use of the Company's
 troops. It is admitted that he conducted by means of agents a large
 business in timber in the Gangetic Sundarbans. When at Falta he had
-married Mrs Buchanan, the widow of an officer. She bore him two
+married Mrs [[Buchanan]], the widow of an officer. She bore him two
 children, of whom one died in infancy at Murshidabad, and was shortly
 followed to the grave by her mother. Their common gravestone is in
 existence at the present day, bearing date July 11, 1759. The other
 child, a son, was sent to England, and also died shortly before his
 father's return. While at home Hastings is said to have attached himself
 to literary society; and it may be inferred from his own letters that he
-now made the personal acquaintance of Samuel Johnson and Lord Mansfield.
+now made the personal acquaintance of Samuel Johnson and Lord [[Mansfield]].
 In 1766 he was called upon to give evidence before a committee of the
 House of Commons upon the affairs of Bengal. The good sense and
 clearness of the views which he expressed caused attention to be paid to
@@ -122,7 +122,7 @@ exercised on his behalf. At last, in the winter of 1768, he received the
 appointment of second in council at Madras. Among his companions on his
 voyage round the Cape were the Baron Imhoff, a speculative
 portrait-painter, and his wife, a lady of some personal attractions and
-great social charm, who was destined henceforth to be Hastings's
+great social [[Charm|charm]], who was destined henceforth to be Hastings's
 lifelong companion. Of his two years' work at Madras it is needless to
 speak in detail. He won the good-will of his employers by devoting
 himself to the improvement of their manufacturing business, and he kept
@@ -169,7 +169,7 @@ expressly enjoined by the court of directors, in a despatch dated six
 months before he took up office. His pecuniary bargains with
 Shuja-ud-Dowlah, the nawab wazir of Oudh, stand on a different basis.
 Hastings himself always regarded them as incidents in his general scheme
-of foreign policy. The Mahrattas at this time had got possession of the
+of foreign policy. The [[Mahrattas]] at this time had got possession of the
 person of the Mogul emperor, Shah Alam, from whom Clive obtained the
 grant of Bengal in 1765, and to whom he assigned in return the districts
 of Allahabad and Kora and a tribute of L300,000. With the emperor in
@@ -183,9 +183,9 @@ bethought him that he had a good opportunity for satisfying an old
 quarrel against the adjoining tribe of Rohillas, who had played fast and
 loose with him while the Mahratta army was at hand. The Rohillas were a
 race of Afghan origin, who had established themselves for some
-generations in a fertile tract west of Oudh, between the Himalayas and
-the Ganges, which still bears the name of Rohilkhand. They were not so
-much the occupiers of the soil as a dominant caste of warriors and
+generations in a fertile tract west of Oudh, between the [[Himalaya|Himalayas]] and
+the [[Ganges]], which still bears the name of Rohilkhand. They were not so
+much the occupiers of the soil as a dominant [[Caste|caste]] of warriors and
 freebooters. But in those troubled days their title was as good as any
 to be found in India. After not a little hesitation, Hastings consented
 to allow the Company's troops to be used to further the ambitious
@@ -225,14 +225,14 @@ their commission, the majority of the council (for Barwell uniformly
 sided with Hastings) forthwith proceeded to pass in review the recent
 measures of the governor-general. All that he had done they condemned;
 all that they could they reversed. Hastings was reduced to the position
-of a cipher at their meetings. After a time they lent a ready ear to
+of a [[Cipher|cipher]] at their meetings. After a time they lent a ready [[Ear|ear]] to
 detailed allegations of corruption brought against him by his old enemy
 Nuncomar. To charges from such a source, and brought in such a manner,
 Hastings disdained to reply, and referred his accuser to the supreme
 court. The majority of the council, in their executive capacity,
 resolved that the governor-general had been guilty of peculation, and
 ordered him to refund. A few days later Nuncomar was thrown into prison
-on a charge of forgery preferred by a private prosecutor, tried before
+on a charge of [[Forgery|forgery]] preferred by a private prosecutor, tried before
 the supreme court sitting in bar, found guilty by a jury of Englishmen
 and sentenced to be hanged. Hastings always maintained that he did not
 cause the charge to be instituted, and the legality of Nuncomar's trial
@@ -252,7 +252,7 @@ when Clavering attempted to seize on the governor-generalship, he
 judiciously obtained an opinion from the judges of the supreme court in
 his favour. From that time forth, though he could not always command an
 absolute majority in council, Hastings was never again subjected to
-gross insult, and his general policy was able to prevail.
+[[Gross|gross]] insult, and his general policy was able to prevail.
 
 A crisis was now approaching in foreign affairs which demanded all the
 experience and all the genius of Hastings for its solution. Bengal was
@@ -264,13 +264,13 @@ subdue her rebellious colonists in America. Hastings did not hesitate to
 take upon his own shoulders the whole responsibility of military
 affairs. All the French settlements in India were promptly occupied. On
 the part of Bombay, the Mahratta war was conducted with procrastination
-and disgrace. But Hastings amply avenged the capitulation of Wargaon by
+and disgrace. But Hastings amply avenged the [[Capitulation|capitulation]] of Wargaon by
 the complete success of his own plan of operations. Colonel Goddard with
 a Bengal army marched across the breadth of the peninsula from the
 valley of the Ganges to the western sea, and achieved almost without a
 blow the conquest of Gujarat. Captain Popham, with a small detachment,
-stormed the rock fortress of Gwalior, then deemed impregnable and the
-key of central India; and by this feat held in check Sindhia, the most
+stormed the rock fortress of [[Gwalior]], then deemed impregnable and the
+[[Key|key]] of central India; and by this feat held in check Sindhia, the most
 formidable of the Mahratta chiefs. The Bhonsla Mahratta raja of Nagpur,
 whose dominions bordered on Bengal, was won over by the diplomacy of an
 emissary of Hastings. But while these events were taking place, a new
@@ -308,10 +308,10 @@ Mahrattas. A second time the genius of Hastings saved the British empire
 in the east. On the arrival of the news that Hyder had descended from
 the highlands of Mysore, cut to pieces the only British army in the
 field, and swept the Carnatic up to the gates of Madras, he at once
-adopted a policy of extraordinary boldness. He signed a blank treaty of
+adopted a policy of extraordinary boldness. He signed a [[Blank|blank]] treaty of
 peace with the Mahrattas, who were still in arms, reversed the action of
 the Madras government towards the nizam, and concentrated all the
-resources of Bengal against Hyder Ali. Sir Eyre Coote, a general of
+resources of Bengal against [[Hyder Ali]]. Sir [[Eyre]] Coote, a general of
 renown in former Carnatic wars, was sent by sea to Madras with all the
 troops and treasure that could be got together; and a strong body of
 reinforcements subsequently marched southwards under Colonel Pearse
@@ -329,12 +329,12 @@ The government monopolies of opium and salt were then for the first time
 placed upon a remunerative basis. But these reforms were of necessity
 slow in their beneficial operation. The pressing demands of the military
 chest had to be satisfied by loans, and in at least one case from the
-private purse of the governor-general. Ready cash could alone fill up
+private purse of the governor-general. Ready [[Cash|cash]] could alone fill up
 the void; and it was to the hoards of native princes that Hastings's
 fertile mind at once turned. Chait Sing, raja of Benares, the greatest
 of the vassal chiefs who had grown rich under the protection of the
 British rule, lay under the suspicion of disloyalty. The wazir of Oudh
-had fallen into arrears in the payment due for the maintenance of the
+had fallen into arrears in the payment due for the [[Maintenance|maintenance]] of the
 Company's garrison posted in his dominions, and his administration was
 in great disorder. In his case the ancestral hoards were under the
 control of his mother, the begum of Oudh, into whose hands they had been
@@ -388,7 +388,7 @@ ambition pointed to some responsible office at home. Pitt had never
 taken a side against him, while Lord Chancellor Thurlow was his
 pronounced friend. But he was now destined to learn that his enemy
 Francis, whom he had discomfited in the council chamber at Calcutta, was
-more than his match in the parliamentary arena. Edmund Burke had taken
+more than his match in the parliamentary [[Arena|arena]]. Edmund Burke had taken
 the subject races of India under the protection of his eloquence.
 Francis, who had been the early friend of Burke, supplied him with the
 personal animus against Hastings, and with the knowledge of detail,
@@ -404,13 +404,13 @@ subsidized a swarm of pamphleteers. The impeachment was decided upon in
 years Hastings was upon his defence on the charge of "high crimes and
 misdemeanours." During this anxious period he appears to have borne
 himself with characteristic dignity, such as is consistent with no other
-hypothesis than the consciousness of innocence. At last, in 1795, the
+[[Hypothesis|hypothesis]] than the consciousness of innocence. At last, in 1795, the
 House of Lords gave a verdict of not guilty on all charges laid against
 him; and he left the bar at which he had so frequently appeared, with
 his reputation clear, but ruined in fortune. However large the wealth he
 brought back from India, all was swallowed up in defraying the expenses
 of his trial. Continuing the line of conduct which in most other men
-would be called hypocrisy, he forwarded a petition to Pitt praying that
+would be called [[Hypocrisy|hypocrisy]], he forwarded a petition to Pitt praying that
 he might be reimbursed his costs from the public funds. This petition,
 of course, was rejected. At last, when he was reduced to actual
 destitution, it was arranged that the East India Company should grant
@@ -426,7 +426,7 @@ exceptional marks of respect. The university of Oxford conferred on him
 the honorary degree of D.C.L.; and in the following year he was sworn of
 the privy council, and took a prominent part in the reception given to
 the duke of Wellington and the allied sovereigns. He died on the 22nd of
-August 1818, in his 86th year, and lies buried behind the chancel of the
+August 1818, in his 86th year, and lies buried behind the [[Chancel|chancel]] of the
 parish church, which he had recently restored at his own charges.
 
 In physical appearance, Hastings "looked like a great man, and not like
@@ -442,7 +442,7 @@ expenditure than by carefulness of acquisition. A classical education
 and the instincts of family pride saved him from both the greed and the
 vulgar display which marked the typical "nabob," the self-made man of
 those days. He could support the position of a governor-general and of a
-country gentleman with equal credit. Concerning his second marriage, it
+country [[Gentleman|gentleman]] with equal [[Credit|credit]]. Concerning his second marriage, it
 suffices to say that the Baroness Imhoff was nearly forty years of age,
 with a family of grown-up children, when the complaisant law of her
 native land allowed her to become Mrs Hastings. She survived her

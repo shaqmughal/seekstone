@@ -2,8 +2,8 @@
 
 LINTON, WILLIAM JAMES (1812-1897), English wood-engraver, republican and
 author, was born in London. He was educated at Stratford, and in his
-sixteenth year was apprenticed to the wood-engraver G. W. Bonner. His
-earliest known work is to be found in Martin and Westall's _Pictorial
+sixteenth year was apprenticed to the wood-engraver G. W. [[Bonner]]. His
+earliest known work is to be found in [[Martin]] and Westall's _Pictorial
 Illustrations of the Bible_ (1833). He rapidly rose to a place amongst
 the foremost wood-engravers of the time. After working as a journeyman
 engraver with two or three firms, losing his money over a cheap
@@ -23,10 +23,10 @@ congratulatory address of English workmen to the French Provisional
 Government in 1848. He edited a twopenny weekly paper, _The Cause of the
 People_, published in the Isle of Man, and he wrote political verses for
 the Dublin _Nation_, signed "Spartacus." He helped to found the
-"International League" of patriots, and, in 1850, with G. H. Lewes and
-Thornton Hunt, started _The Leader_, an organ which, however, did not
+"[[International]] League" of patriots, and, in 1850, with G. H. [[Lewes]] and
+Thornton [[Hunt]], started _The Leader_, an organ which, however, did not
 satisfy his advanced republicanism, and from which he soon withdrew. The
-same year he wrote a series of articles propounding the views of Mazzini
+same year he wrote a series of articles propounding the views of [[Mazzini]]
 in _The Red Republican_. In 1852 he took up his residence at Brantwood,
 which he afterwards sold to John Ruskin, and from there issued _The
 English Republic_, first in the form of weekly tracts and afterwards as
@@ -46,12 +46,12 @@ however, he always corresponded affectionately. With his children he
 settled at Appledore, New Haven, Connecticut, where he set up a
 printing-press. Here he wrote _Practical Hints on Wood-Engraving_
 (1879), _James Watson, a Memoir of Chartist Times_ (1879), _A History of
-Wood-Engraving in America_ (1882), _Wood-Engraving, a Manual of
+Wood-Engraving in America_ (1882), _Wood-Engraving, a [[Manual]] of
 Instruction_ (1884), _The Masters of Wood-Engraving_, for which he made
 two journeys to England (1890), _The Life of Whittier_ (1893), and
 _Memories_, an autobiography (1895). He died at New Haven on the 29th of
 December 1897. Linton was a singularly gifted man, who, in the words of
-his wife, if he had not bitten the Dead Sea apple of impracticable
+his wife, if he had not bitten the Dead Sea [[Apple|apple]] of impracticable
 politics, would have risen higher in the world of both art and letters.
 As an engraver on wood he reached the highest point of execution in his
 own line. He carried on the tradition of Bewick, fought for intelligent

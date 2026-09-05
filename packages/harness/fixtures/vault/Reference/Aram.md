@@ -9,14 +9,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Aram"
 # Aram
 
 ARAM, EUGENE (1704-1759), English scholar, but more famous as the
-murderer celebrated by Hood in his ballad, the _Dream of Eugene Aram_,
-and by Bulwer Lytton in his romance of _Eugene Aram_, was born of humble
+murderer celebrated by Hood in his ballad, the _[[Dream]] of Eugene Aram_,
+and by Bulwer [[Lytton]] in his romance of _Eugene Aram_, was born of humble
 parents at Ramsgill, Yorkshire, in 1704. He received little education at
 school, but manifested an intense desire for learning. While still
 young, he married and settled as a schoolmaster at Netherdale, and
 during the years he spent there, he taught himself both Latin and Greek.
 In 1734 he removed to Knaresborough, where he remained as schoolmaster
-till 1745. In that year a man named Daniel Clark, an intimate friend of
+till 1745. In that year a man named [[Daniel]] Clark, an intimate friend of
 Aram, after obtaining a considerable quantity of goods from some of the
 tradesmen in the town, suddenly disappeared. Suspicions of being
 concerned in this swindling transaction fell upon Aram. His garden was
@@ -26,7 +26,7 @@ soon after set out for London, leaving his wife behind. For several
 years he travelled through parts of England, acting as usher in a number
 of schools, and settled finally at Lynn, in Norfolk. During his travels
 he had amassed considerable materials for a work he had projected on
-etymology, to be entitled a _Comparative Lexicon of the English, Latin,
+[[Etymology|etymology]], to be entitled a _Comparative Lexicon of the English, Latin,
 Greek, Hebrew and Celtic Languages_. He was undoubtedly an original
 philologist, who realized, what was then not yet admitted by scholars,
 the affinity of the Celtic language to the other languages of Europe,
@@ -39,7 +39,7 @@ history as the pioneer of a new philology. In February 1758 a skeleton
 was dug up at Knaresborough, and some suspicion arose that it might be
 Clark's. Aram's wife had more than once hinted that her husband and a
 man named Houseman knew the secret of Clark's disappearance. Houseman
-was at once arrested and confronted with the bones that had been found.
+was at once arrested and confronted with the [[Bone|bones]] that had been found.
 He affirmed his innocence, and, taking up one of the bones, said, "This
 is no more Dan Clark's bone than it is mine." His manner in saying this
 roused suspicion that he knew more of Clark's disappearance than he was
@@ -58,7 +58,7 @@ been found in caves, and tried to show that the bones found in St
 Robert's Cave were probably those of some hermit who had taken up his
 abode there. He was found guilty, and condemned to be executed on the
 6th of August 1759, three days after his trial. While in his cell he
-confessed his guilt, and threw some light on the motives for his crime,
+confessed his [[Guilt|guilt]], and threw some light on the motives for his crime,
 by asserting that he had discovered a criminal intimacy between Clark
 and his own wife. On the night before his execution he made an
 unsuccessful attempt at suicide by opening the veins in his arm.

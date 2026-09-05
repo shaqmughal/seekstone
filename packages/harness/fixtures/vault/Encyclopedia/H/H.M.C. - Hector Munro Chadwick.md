@@ -1,6 +1,6 @@
 # H.M.C. - Hector Munro Chadwick
 
-H.M.C. - HECTOR MUNRO CHADWICK, M.A. Fellow and Librarian of Clare
+H.M.C. - HECTOR MUNRO [[Chadwick|CHADWICK]], M.A. [[Fellow]] and Librarian of [[Clare]]
 College, Cambridge. Author of _Studies on Anglo-Saxon Institutions_.
 
 - ANGLI; ANGLO-SAXONS

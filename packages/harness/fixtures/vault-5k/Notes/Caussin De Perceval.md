@@ -12,7 +12,7 @@ born in Paris on the 13th of January 1795. His father, Jean Jacques
 Antoine Caussin de Perceval (1759-1835), was professor of Arabic in the
 College de France. In 1814 he went to Constantinople as a student
 interpreter, and afterwards travelled in Asiatic Turkey, spending a year
-with the Maronites in the Lebanon, and finally becoming dragoman at
+with the [[Maronites]] in the Lebanon, and finally becoming dragoman at
 Aleppo. Returning to Paris, he became professor of vulgar Arabic in the
 school of living Oriental languages in 1821, and also professor of
 Arabic in the College de France in 1833. In 1849 he was elected to the

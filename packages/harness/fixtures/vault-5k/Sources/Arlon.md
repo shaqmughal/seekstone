@@ -15,7 +15,7 @@ Roman wall, the foundations of which were practically intact. In the
 local museum are many Roman antiquities collected on the spot, including
 several large sculptural stones similar to the celebrated monument at
 Igel near Treves. In the middle ages Arlon was the seat of a powerful
-countship (later marquisate), held after 1235 by the dukes of Luxemburg.
+countship (later marquisate), held after 1235 by the [[Dukes|dukes]] of Luxemburg.
 As an important strategic position it was several times seized by the
 French, e.g. in 1647 and 1651.
 

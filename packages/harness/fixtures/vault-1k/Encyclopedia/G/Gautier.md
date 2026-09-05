@@ -132,7 +132,7 @@ exposed. As time goes on it may be predicted that, though Gautier may
 not be widely read, yet his writings will never cease to be full of
 indescribable charm and of very definite instruction to men of letters.
 Besides those of his works which have been already cited, we may notice
-_Une Larme du diable_ (1839), a charming mixture of humour and
+_Une Larme du diable_ (1839), a charming mixture of [[Humour|humour]] and
 tenderness; _Les Grotesques_ (1844), a volume of early criticisms on
 some oddities of 17th-century literature; _Caprices et zigzags_ (1845),
 miscellanies dealing in part with English life; _Voyage en Espagne_

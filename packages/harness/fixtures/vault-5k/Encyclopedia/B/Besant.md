@@ -19,26 +19,26 @@ enjoyed remarkable popularity. His first stories were written in
 collaboration with James Rice (q.v.). Two at least of these, _The Golden
 Butterfly_ (1876) and _Ready-Money Mortiboy_ (1872), are among the most
 vigorous and most characteristic of his works. Though not without
-exaggeration and eccentricity, attributable to the influence of Dickens,
-they are full of rich humour, shrewd observation and sound common-sense,
+exaggeration and eccentricity, attributable to the influence of [[Dickens]],
+they are full of rich [[Humour|humour]], shrewd observation and sound common-sense,
 and contain characters which have taken their place in the long gallery
 of British fiction. After Rice's death, Sir Walter Besant wrote alone,
 and in _All Sorts and Conditions of Men_ (1882) produced a stirring
 story of East End life in London, which set on foot the movement that
 culminated in the establishment of the People's Palace in the Mile End
-Road. Though not himself a pioneer in the effort made by Canon Barnett
+Road. Though not himself a pioneer in the effort made by Canon [[Barnett]]
 and others to alleviate the social evils of the East End by the personal
 contact of educated men and women of a superior social class, his books
 rendered immense service to the movement by popularizing it. His
 sympathy with the poor was shown in another attempt to stir public
 opinion, this time against the evils of the sweating system, in _The
-Children of Gibeon_ (1886).
+Children of [[Gibeon]]_ (1886).
 
 Other popular novels by him were _Dorothy Forster_ (1884), _Armorel of
 Lyonesse_ (1890), and _Beyond the Dreams of Avarice_ (1895). He also
 wrote critical and biographical works, including _The French Humorists_
 (1873), _Rabelais_ (1879), and lives of Coligny, Whittington, Captain
-Cook and Richard Jefferies. Besant undertook a series of important
+[[Cook]] and Richard [[Jefferies]]. Besant undertook a series of important
 historical and archaeological volumes, dealing with the associations and
 development of the various districts of London--of which the most
 important was _A Survey of London_, unfortunately left unfinished, which

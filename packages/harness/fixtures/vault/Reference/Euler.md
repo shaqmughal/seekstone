@@ -7,15 +7,15 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Euler"
 
 # Euler
 
-EULER, LEONHARD (1707-1783), Swiss mathematician, was born at Basel on
+EULER, LEONHARD (1707-1783), Swiss mathematician, was born at [[Basel]] on
 the 15th of April 1707, his father Paul Euler, who had considerable
 attainments as a mathematician, being Calvinistic pastor of the
 neighbouring village of Riechen. After receiving preliminary
 instructions in mathematics from his father, he was sent to the
 university of Basel, where geometry soon became his favourite study. His
-mathematical genius gained for him a high place in the esteem of Jean
+mathematical genius gained for him a [[High Place|high place]] in the esteem of Jean
 Bernoulli, who was at that time one of the first mathematicians in
-Europe, as well as of his sons Daniel and Nicolas Bernoulli. Having
+Europe, as well as of his sons [[Daniel]] and Nicolas Bernoulli. Having
 taken his degree as master of arts in 1723, Euler applied himself, at
 his father's desire, to the study of theology and the Oriental languages
 with the view of entering the church, but, with his father's consent, he
@@ -41,24 +41,24 @@ the calculation of sines, reduced analytical operations to a greater
 simplicity, and threw new light on nearly all parts of pure mathematics.
 In 1735 a problem proposed by the academy, for the solution of which
 several eminent mathematicians had demanded the space of some months,
-was solved by Euler in three days, but the effort threw him into a fever
+was solved by Euler in three days, but the effort threw him into a [[Fever|fever]]
 which endangered his life and deprived him of the use of his right eye.
 The Academy of Sciences at Paris in 1738 adjudged the prize to his
 memoir on the nature and properties of fire, and in 1740 his treatise on
-the tides shared the prize with those of Colin Maclaurin and Daniel
+the tides shared the prize with those of Colin [[Maclaurin]] and Daniel
 Bernoulli--a higher honour than if he had carried it away from inferior
 rivals.
 
 In 1741 Euler accepted the invitation of Frederick the Great to Berlin,
 where he was made a member of the Academy of Sciences and professor of
-mathematics. He enriched the last volume of the _Mélanges_ or
+mathematics. He enriched the last volume of the _Mé[[Lange|langes]]_ or
 Miscellanies of Berlin with five memoirs, and these were followed, with
 an astonishing rapidity, by a great number of important researches,
 which are scattered throughout the annual memoirs of the Prussian
 Academy. At the same time he continued his philosophical contributions
 to the Academy of St Petersburg, which granted him a pension in 1742.
 The respect in which he was held by the Russians was strikingly shown in
-1760, when a farm he occupied near Charlottenburg happened to be
+1760, when a farm he occupied near [[Charlottenburg]] happened to be
 pillaged by the invading Russian army. On its being ascertained that the
 farm belonged to Euler, the general immediately ordered compensation to
 be paid, and the empress Elizabeth sent an additional sum of four
@@ -67,7 +67,7 @@ thousand crowns.
 In 1766 Euler with difficulty obtained permission from the king of
 Prussia to return to St Petersburg, to which he had been originally
 invited by Catherine II. Soon after his return to St Petersburg a
-cataract formed in his left eye, which ultimately deprived him almost
+[[Cataract|cataract]] formed in his left eye, which ultimately deprived him almost
 entirely of sight. It was in these circumstances that he dictated to his
 servant, a tailor's apprentice, who was absolutely devoid of
 mathematical knowledge, his _Anleitung zur Algebra_ (1770), a work
@@ -78,7 +78,7 @@ Petersburg was the preparation of his _Lettres à une princesse
 d'Allemagne sur quelques sujets de physique et de philosophie_ (3 vols.,
 1768-1772). They were written at the request of the princess of
 Anhalt-Dessau, and contain an admirably clear exposition of the
-principal facts of mechanics, optics, acoustics and physical astronomy.
+principal facts of mechanics, optics, acoustics and physical [[Astronomy|astronomy]].
 Theory, however, is frequently unsoundly applied in it, and it is to be
 observed generally that Euler's strength lay rather in pure than in
 applied mathematics.
@@ -97,7 +97,7 @@ employed had engaged him. He afterwards reviewed his whole theory with
 the assistance of his son and W.L. Krafft and A.J. Lexell, and pursued
 his researches until he had constructed the new tables, which appeared
 in his _Theoria motuum lunae_ (1772). Instead of confining himself, as
-before, to the fruitless integration of three differential equations of
+before, to the fruitless integration of three differential [[Equation|equations]] of
 the second degree, which are furnished by mathematical principles, he
 reduced them to the three co-ordinates which determine the place of the
 moon; and he divided into classes all the inequalities of that planet,
@@ -107,7 +107,7 @@ orbit. The inherent difficulties of this task were immensely enhanced by
 the fact that Euler was virtually blind, and had to carry all the
 elaborate computations it involved in his memory. A further difficulty
 arose from the burning of his house and the destruction of the greater
-part of his property in 1771. His manuscripts were fortunately
+part of his property in 1771. His [[Manuscript|manuscripts]] were fortunately
 preserved. His own life was only saved by the courage of a native of
 Basel, Peter Grimmon, who carried him out of the burning house.
 
@@ -135,7 +135,7 @@ edition which he used. Euler's constitution was uncommonly vigorous, and
 his general health was always good. He was enabled to continue his
 labours to the very close of his life. His last subject of investigation
 was the motion of balloons, and the last subject on which he conversed
-was the newly discovered planet Herschel (Uranus). He died of apoplexy
+was the newly discovered planet [[Herschel]] (Uranus). He died of apoplexy
 on the 18th of September 1783, whilst he was amusing himself at tea with
 one of his grandchildren.
 
@@ -145,7 +145,7 @@ volumes. He was simple and upright in his character, and had a strong
 religious faith. He was twice married, his second wife being a
 half-sister of his first, and he had a numerous family, several of whom
 attained to distinction. His _éloge_ was written for the French Academy
-by the marquis de Condorcet, and an account of his life, with a list of
+by the marquis de [[Condorcet]], and an account of his life, with a list of
 his works, was written by Von Fuss, the secretary to the Imperial
 Academy of St Petersburg.
 
@@ -157,9 +157,9 @@ Academy of St Petersburg.
   _Methodus inveniendi lineas curvas, maximi minimive proprietate
   gaudentes_ (Lausanne, 1744, in 4to); _Theoria motuum planetarum et
   cometarum_ (Berlin, 1744, in 4to); _Beantwortung_, &c., or Answers to
-  Different Questions respecting Comets (ibid., 1744, in 8vo); _Neue
+  Different Questions respecting [[Comet|Comets]] (ibid., 1744, in 8vo); _Neue
   Grundsatze_, &c., or New Principles of Artillery, translated from the
-  English of Benjamin Robins, with notes and illustrations (ibid., 1745,
+  English of [[Benjamin]] Robins, with notes and illustrations (ibid., 1745,
   in 8vo); _Opuscula varii argumenti_ (ibid., 1746-1751, in 3 vols.
   4to); _Novae et correctae tabulae ad loca lunae computanda_ (ibid.,
   1746, in 4to); _Tabulae astronomicae solis et lunae_ (ibid., 4to);

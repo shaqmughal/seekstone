@@ -10,7 +10,7 @@ its streets are broad and the general appearance of its edifices is
 good. Among its public buildings is a handsome parish church and a
 national normal school. The productions of the neighbourhood are chiefly
 pastoral, and its exports include cattle, hides, wool and oranges. Goya
-had an export of crudely-made cheese long before the modern cheese
+had an export of crudely-made [[Cheese|cheese]] long before the modern cheese
 factories of the Argentine Republic came into existence. The place dates
 from 1807, and had its origin, it is said, in the trade established
 there by a ship captain and his wife Gregoria or Goya, who supplied

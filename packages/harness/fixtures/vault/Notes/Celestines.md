@@ -8,8 +8,8 @@ tags: [science, biography]
 # Celestines
 
 CELESTINES, a religious order founded about 1260 by Peter of Morrone,
-afterwards Pope Celestine V. (1294). It was an attempt to unite the
-eremitical and cenobitical modes of life. Peter's first disciples lived
+afterwards Pope [[Celestine]] V. (1294). It was an attempt to unite the
+eremitical and cenobitical modes of life. Peter's first [[Disciple|disciples]] lived
 as hermits on Mount Majella in the Abruzzi. The Benedictine rule was
 taken as the basis of the life, but was supplemented by regulations
 notably increasing the austerities practised. The form of government was
@@ -25,7 +25,7 @@ abandoned. During the founder's lifetime the order spread rapidly, and
 eventually there were about 150 monasteries in Italy, and others in
 France, Bohemia and the Netherlands. The French houses, twenty-one in
 number, formed a separate congregation, the head-house being in Paris.
-The French Revolution and those of the 19th century destroyed their
+The [[French Revolution]] and those of the 19th century destroyed their
 houses, and the Celestine order seems no longer to exist.
 
 Peter of Morrone was in close contact with the Franciscan Spirituals of

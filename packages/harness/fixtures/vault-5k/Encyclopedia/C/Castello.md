@@ -8,7 +8,7 @@ type: article
 # Castello
 
 CASTELLO, GIOVANNI BATTISTA (1500?-1569?), Italian historical painter,
-was born near Bergamo in 1500 or perhaps 1509, and is hence ordinarily
+was born near [[Bergamo]] in 1500 or perhaps 1509, and is hence ordinarily
 termed Il Bergamasco. He belongs, however, to the school of Genoa, but
 does not appear to have had any family relationship with the other two
 painters named Castello, also noticed here. He was employed to decorate

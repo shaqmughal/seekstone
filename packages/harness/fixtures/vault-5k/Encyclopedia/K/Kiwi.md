@@ -18,11 +18,11 @@ bird was unknown till George Shaw described and figured it in 1813
 (_Nat. Miscellany_, pls. 1057, 1058) from a specimen brought to him from
 the southern coast of that country by Captain Barcley of the ship
 "Providence." At Shaw's death, in the same year, it passed into the
-possession of Lord Stanley, afterwards 13th earl of Derby, and president
+possession of Lord Stanley, afterwards 13th earl of [[Derby]], and president
 of the Zoological Society, and it is now with the rest of his collection
 in the Liverpool Museum. Considering the state of systematic ornithology
-at the time, Shaw's assignment of a position to this new and strange
-bird, of which he had but the skin, does him great credit, for he said
+at the time, Shaw's [[Assignment|assignment]] of a position to this new and strange
+bird, of which he had but the skin, does him great [[Credit|credit]], for he said
 it seemed "to approach more nearly to the Struthious and Gallinaceous
 tribes than to any other." And his credit is still greater when we find
 the venerable John Latham, who is said to have examined the specimen
@@ -41,11 +41,11 @@ it a separate family "Nullipennes." At that time no second example was
 known, and some doubt was felt, especially on the Continent, as to the
 very existence of such a bird [1]--though Lesson had himself when in the
 Bay of Islands in April 1824 (_Voy. "Coquille," ut supra_) heard of it;
-and a few years later J. S. C. Dumont d'Urville had seen its skin, which
+and a few years later J. S. C. [[Dumont D'Urville|Dumont d'Urville]] had seen its skin, which
 the naturalists of his expedition procured, worn as a tippet by a Maori
 chief at Tolaga Bay (Houa-houa),[2] and in 1830 gave what proves to be
 on the whole very accurate information concerning it (_Voy.
-"Astrolabe,"_ ii. 107). To put all suspicion at rest, Lord Derby sent
+"[[Astrolabe]],"_ ii. 107). To put all suspicion at rest, Lord Derby sent
 his unique specimen for exhibition at a meeting of the Zoological
 Society, on the 12th of February 1833 (_Proc. Zool. Society_, 1833, p.
 24), and a few months later (_tom. cit._, p. 80) William Yarrell
@@ -81,7 +81,7 @@ was not confirmed, a second species was really soon after made known by
 John Gould (_tom. cit._, p. 93; _Transactions_, vol. iii, p. 379, pl.
 57) under the name of _Apteryx oweni_--a just tribute to the great
 master who had so minutely explained the anatomy of the group. Three
-years later A. D. Bartlett drew attention to the manifest difference
+years later A. D. Bartlett drew attention to the [[Manifest|manifest]] difference
 existing among certain examples, all of which had hitherto been regarded
 as specimens of _A. australis_, and the examination of a large series
 led him to conclude that under that name two distinct species were
@@ -90,7 +90,7 @@ his views), he gave the name of _A. mantelli_ (_Proceedings_, 1850, p.
 274), and it soon turned out that to this new form the majority of the
 specimens already obtained belonged. In 1851 the first kiwi known to
 have reached England alive was presented to the Zoological Society by
-Eyre, then lieutenant-governor of New Zealand. This was found to belong
+[[Eyre]], then lieutenant-governor of New Zealand. This was found to belong
 to the newly described _A. mantelli_, and some careful observations on
 its habits in captivity were published by John Wolley and another
 (_Zoologist_, pp. 3409, 3605).[4] Subsequently the society has received
@@ -105,7 +105,7 @@ particulars from any of the other existing forms of Ratite birds. The
 most obvious feature the _Apteryges_ afford is the presence of a back
 toe, while the extremely aborted condition of the wings, the position of
 the nostrils--almost at the tip of the maxilla--and the absence of an
-after-shaft in the feathers, are characters nearly as manifest, and
+after-shaft in the [[Feather|feathers]], are characters nearly as manifest, and
 others not less determinative, though more recondite, will be found on
 examination. The kiwis are peculiar to New Zealand, and it is believed
 that _A. mantelli_ is the representative in the North Island of the
@@ -127,10 +127,10 @@ captivity they will eat flesh suitably minced. Sir Walter Buller writes
   generally assumes a perfectly rotund appearance; and it sometimes, but
   only rarely, supports itself by resting the point of its bill on the
   ground. It often yawns when disturbed in the daytime, gaping its
-  mandibles in a very grotesque manner. When provoked it erects the
-  body, and, raising the foot to the breast, strikes downwards with
+  mandibles in a very [[Grotesque|grotesque]] manner. When provoked it erects the
+  body, and, raising the foot to the [[Breast|breast]], strikes downwards with
   considerable force and rapidity, thus using its sharp and powerful
-  claws as weapons of defence.... While hunting for its food the bird
+  claws as weapons of defence.... While [[Hunting|hunting]] for its food the bird
   makes a continual sniffing sound through the nostrils, which are
   placed at the extremity of the upper mandible. Whether it is guided as
   much by touch as by smell I cannot safely say; but it appears to me
@@ -165,7 +165,7 @@ FOOTNOTES:
     to it in a footnote (i. 498).
 
   [2] Cruise in 1822 (_Journ. Residence in New Zealand_, p. 313) had
-    spoken of an "emeu" found in that island, which must of course have
+    spoken of an "[[Emeu|emeu]]" found in that island, which must of course have
     been an _Apteryx_.
 
   [3] In 1842, according to Broderip (_Penny Cyclopaedia_, xxiii. 146),
@@ -176,7 +176,7 @@ FOOTNOTES:
     Academy of Natural Sciences at Philadelphia, includes a single
     specimen--probably the first taken to America.
 
-  [4] This bird in 1859 laid an egg, and afterwards continued to lay
+  [4] This bird in 1859 laid an [[Egg|egg]], and afterwards continued to lay
     one or two more every year. In 1865 a male of the same species was
     introduced, but though a strong disposition to breed was shown on the
     part of both, and the eggs, after the custom of the _Ratitae_, were

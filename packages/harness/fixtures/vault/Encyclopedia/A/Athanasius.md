@@ -9,24 +9,24 @@ house by Bishop Alexander, who recognized the validity of this
 proceeding. It is certain that Athanasius was young when he took orders,
 and that he must soon have entered into close relations with his bishop,
 whom, after the outbreak of the Arian controversy, he accompanied as
-archdeacon to the council of Nicaea. In the sessions and discussions of
+[[Archdeacon|archdeacon]] to the council of Nicaea. In the sessions and discussions of
 the council he could take no part; but in unofficial conferences he took
 sides vigorously, according to his own evidence, against the Arians, and
 was certainly not without influence. He had already, before the opening
 of the Council, defined his personal attitude towards the dogmatic
-problem in two essays, _Against the Gentiles_ and _On the Incarnation_,
+problem in two essays, _Against the [[Gentile|Gentiles]]_ and _On the Incarnation_,
 without, however, any special relation to the Arian controversy.
 
 The essay _On the Incarnation_ is the _locus classicus_ for the
 presentation of the teaching of the ancient church on the subject of
 salvation. In this the great idea that God himself had entered into
-humanity becomes dominant. The doom of death under which mankind had
+humanity becomes dominant. The [[Doom|doom]] of death under which mankind had
 sighed since Adam's fall could only then be averted, when the immortal
 Word of God ([Greek: Logos]) assumed a mortal body, and, by yielding
 this to death for the sake of all, abrogated once for all the law of
 death, of which the power had been spent on the body of the Lord. Thus
 was rendered possible the leading back of mankind to God, of which the
-sure pledge lies in the grace of the resurrection of Christ. Athanasius
+sure pledge lies in the [[Grace|grace]] of the resurrection of Christ. Athanasius
 would hear of no questioning of this religious mystery. In the catchword
 _Homousios_, which had been added to the creed at Nicaea, he too
 recognized the best formula for the expression of the mystery, although
@@ -35,8 +35,8 @@ concerned with the formula than with the content. Arians and Semi-Arians
 seemed to him to be pagans, who worship the creature, instead of the God
 who created all things, since they teach two gods, one having no
 beginning, the other having a beginning in Time and therefore of the
-same nature as the heathen gods, since, like them, he is a creature.
-Athanasius has no terms for the definition of the Persons in the one
+same nature as the [[Heathen|heathen]] gods, since, like them, he is a creature.
+Athanasius has no terms for the [[Definition|definition]] of the Persons in the one
 "Divine" ([Greek: to theion]), which are in their substance one; and yet
 he is certain that this "Divine" is not mere abstraction, but something
 truly personal: "They are One," so he wrote later in his _Discourses
@@ -47,7 +47,7 @@ own Son, as the heretic Sabellius imagined. But they are two, for the
 Father is Father, and the Son is not the same, but, again, the Son is
 Son, and not the Father himself. But their Nature ([Greek: physis]) is
 one, for the Begotten is not dissimilar ([Greek: anomoios]) to the
-Begetter, but his image, and everything that is the Father's is also the
+Begetter, but his [[Image|image]], and everything that is the Father's is also the
 Son's."
 
 Five months after the return from the council of Nicaea Bishop Alexander
@@ -56,12 +56,12 @@ thirty-three, became his successor. The first years of his episcopate
 were tranquil; then the storms in which the remainder of his life was
 passed began to gather round him. The council had by no means composed
 the divisions in the Church which the Arian controversy had provoked.
-Arius himself still lived, and his friend Eusebius of Nicomedia rapidly
+[[Arius]] himself still lived, and his friend [[Eusebius]] of Nicomedia rapidly
 regained influence over the emperor Constantine. The result was a demand
 made by the emperor that Arius should be readmitted to communion.
 Athanasius stood firm, but many accusers soon rose up against one who
 was known to be under the frown of the imperial displeasure. He was
-charged with cruelty, even with sorcery and murder. It was reported that
+charged with [[Cruelty|cruelty]], even with sorcery and murder. It was reported that
 a bishop of the Meletian party (see MELETIUS) in the Thebaid, of the
 name of Arsenius, had been unlawfully put to death by him. He was easily
 able to clear himself of these charges; but the hatred of his enemies
@@ -81,17 +81,17 @@ Alexandrian corn-ships bound for Constantinople. It is very difficult to
 understand how far there was truth in the persistent accusations made
 against the prince-bishop of Alexandria. Probably there was in the very
 greatness of his character and the extent of his popular influence a
-certain species of dominance which lent a colour of truth to some of the
+certain species of dominance which [[Lent|lent]] a colour of truth to some of the
 things said against him. On the present occasion his accusers succeeded
-at once in arousing the imperial jealousy. Without obtaining a hearing,
-he was banished at the end of 335 to Treves in Gaul. This was the first
+at once in arousing the imperial [[Jealousy|jealousy]]. Without obtaining a hearing,
+he was banished at the end of 335 to Treves in [[Gaul]]. This was the first
 banishment of Athanasius, which lasted about one year and a half. It was
 brought to a close by the death of Constantine, and the accession as
 emperor of the West of Constantine II., who, in June 337, allowed
 Athanasius to return to Alexandria.
 
 He reached his see on the 23rd of November 337, and, as he himself has
-told us, "the people ran in crowds to see his face; the churches were
+told us, "the people ran in [[Crowd|crowds]] to see his face; the churches were
 full of rejoicing; thanksgivings were everywhere offered up; the
 ministers and clergy thought the day the happiest in their lives." But
 this period of happiness was destined to be short-lived. His position as
@@ -127,7 +127,7 @@ like "another Nile" to meet him afar off as he approached the city.
 
 The six years of his residence in the West had given Athanasius the
 opportunity of displaying a momentous activity. He made long journeys in
-Italy, in Gaul, and as far as Belgium. Everywhere he laboured for the
+Italy, in Gaul, and as far as [[Belgium]]. Everywhere he laboured for the
 Nicene faith, and the impression made by his personality was so great
 that to hold fast the orthodox faith and to defend Athanasius were for
 many people one and the same thing. This was shown when, after the death
@@ -139,7 +139,7 @@ he hoped to persuade all the bishops to accept. As his efforts remained
 for years fruitless, he used force. "My will is your guiding-line," he
 exclaimed in the summer of 355 to the bishops who had assembled at Milan
 in response to his orders. A series of his most defiant opponents had to
-go into banishment, Liberius of Rome, Hilarius of Poitiers and Hosius of
+go into banishment, [[Liberius]] of Rome, Hilarius of Poitiers and Hosius of
 Corduba, the last-named once the confidant of Constantine and the actual
 originator of the _Homousios_, and now nearly a hundred years old. At
 length came the turn of Athanasius, now almost the sole upholder of the
@@ -156,7 +156,7 @@ the town and finding a hiding-place in the country. The solitudes of
 Upper Egypt, where numerous monasteries and hermitages had been planted,
 seem at this time to have been his chief shelter. In this case, benefit
 was repayed by benefit, for Athanasius during his episcopate had been a
-zealous promoter of asceticism and monachism. With Anthony the hermit
+zealous promoter of asceticism and monachism. With [[Anthony]] the hermit
 and Pachomius the founder of monasteries, he had maintained personal
 relations, and the former he had commemorated in his _Life of Anthony_.
 During his exile his time was occupied in writing on behalf of his
@@ -165,7 +165,7 @@ all the great _Orations or Discourses against the Arians_, which furnish
 the best exposition of his theological principles.
 
 During his absence the see of Alexandria was left without a pastor. It
-is true that George of Cappadocia had taken his place; but he could only
+is true that George of [[Cappadocia]] had taken his place; but he could only
 maintain himself for a short while (February 357-October 358). The great
 majority of the population remained faithful to the exile. At length, in
 November 361, the way was opened to him for his return to his see by the
@@ -176,7 +176,7 @@ others, Athanasius availed himself of this permission, and in February
 362 once more seated himself upon his throne, amid the rejoicings of
 the people. He had begun his episcopal labours with renewed ardour, and
 assembled his bishops in Alexandria to decide various important
-questions, when an imperial mandate again--for the fourth time--drove
+questions, when an imperial [[Mandate|mandate]] again--for the fourth time--drove
 him from his place of power. The faithful gathered around him weeping.
 "Be of good heart," he said, "it is but a cloud: it will pass." His
 forecast proved true; for within a few months Julian had closed his
@@ -195,7 +195,7 @@ quietly in his own house.
 
 Athanasius was a man of action, but he also knew how to use his pen for
 the furtherance of his cause. He left a large number of writings, which
-cannot of course be compared with those of an Origen, a Basil, or a
+cannot of course be compared with those of an Origen, a [[Basil]], or a
 Gregory of Nyssa. Athanasius was no systematic theologian. All his
 treatises are occasional pieces, born of controversy and intended for
 controversial ends. The interest in abstract exposition of clearly
@@ -206,7 +206,7 @@ words that he was contending. Even those who do not sympathize with the
 cause which Athanasius steadfastly defended cannot but admire his
 magnanimous and heroic character. If he was imperious in temper and
 inflexible in his conception of the Christian faith, he possessed a
-great heart and a great intellect, inspired with an enthusiastic
+great heart and a great [[Intellect|intellect]], inspired with an enthusiastic
 devotion to Christ. As a theologian, his main distinction was his
 zealous advocacy of the essential divinity of Christ. Christianity in
 its Arian conception would have evaporated in a new polytheism. To have
@@ -216,7 +216,7 @@ history. It is with good reason that the Church honours him as the
 "Great," and as the "Father of Orthodoxy."
 
   The best edition of the works of Athanasius is the so-called Maurine
-  edition of Bernard de Montfaucon in 3 vols. (Paris, 1698); this was
+  edition of [[Bernard]] de Montfaucon in 3 vols. (Paris, 1698); this was
   enlarged in the 3rd edition by Giustiniani (4 vols., Padua, 1777), and
   is printed in this form in Migne's _Patrologia_, vols. xxv.-xxviii. An
   English translation of selections, with excellent introductions to the
@@ -234,8 +234,8 @@ history. It is with good reason that the Church honours him as the
   l'histoire ecclesiastique des six premiers siecles_, vols. vi. and
   viii., are still a mine of material for the historian. Of the newer
   literature the following deserve to be read:--Johann Adam Mohler,
-  _Athanasius der Grosse und die Kirche seiner Zeit_, 2 vols. (2nd ed.,
-  Mainz, 1844); and Fr. Boehringer, "Arius und Athanasius," _Die Kirche
+  _Athanasius der [[Grosse]] und die Kirche seiner Zeit_, 2 vols. (2nd ed.,
+  [[Mainz]], 1844); and Fr. Boehringer, "Arius und Athanasius," _Die Kirche
   Christi und ihre Zeugen_, vol. i. part 2 (2nd ed., Stuttgart, 1874).
        (G. K.)
 

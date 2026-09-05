@@ -1,26 +1,26 @@
 # Massawa
 
 MASSAWA, or MASSOWAH, a fortified town on the African coast of the Red
-Sea, chief port of the Italian colony of Eritrea, in 15° 36´ N. and 39°
+Sea, chief port of the Italian colony of [[Eritrea]], in 15° 36´ N. and 39°
 28´ E. Pop. about 10,000. The town stands at the north end of the bay of
-Massawa and is built partly on a coral island of the same name--where
+Massawa and is built partly on a [[Coral|coral]] island of the same name--where
 was the original settlement--and partly on the islets of Tautlub and
 Sheik Said, and the neighbouring mainland. Massawa Island is from 20 to
 25 ft. above the sea, its length does not exceed ½ m. and its breadth is
 about ¼ m. The harbour is formed by the channel between the island and
-the mainland. It affords good anchorage in from 5 to 9 fathoms. The town
+the mainland. It affords good anchorage in from 5 to 9 [[Fathom|fathoms]]. The town
 possesses several good public buildings, chiefly built of coral, as are
 the houses of the principal European and Arab merchants. Landward the
 town is guarded by forts erected by the Italians since 1885. Water was
 formerly scarce; but in 1872 an ancient aqueduct from Mokullu (5 m.
-distant westward) was restored and continued by an embankment to the
-town. A railway connects Massawa with Asmara, the capital of the colony.
-Besides the Abyssinians, who speak a Tigré dialect corrupted with
+distant westward) was restored and continued by an [[Embankment|embankment]] to the
+town. A railway connects Massawa with [[Asmara]], the capital of the colony.
+Besides the Abyssinians, who speak a Tigré [[Dialect|dialect]] corrupted with
 Arabic, the inhabitants comprise Italian officials and traders, Greeks,
-Indians, Arabs from Yemen and Hadramut, Gallas and Somalis. Massawa is
+Indians, [[Arabs]] from Yemen and [[Hadramut]], [[Gallas]] and Somalis. Massawa is
 the natural port for northern Abyssinia but commerce is undeveloped
 owing to the lack of rapid means of communication. The trade done
-consists mainly in exporting hides, butter, Abyssinian coffee and civet,
+consists mainly in exporting hides, [[Butter|butter]], Abyssinian coffee and [[Civet|civet]],
 and importing European and Indian cotton goods and silks. It increased
 in value from about £65,000 per annum in 1865 (the last year of Turkish
 control) to from £240,000 to £280,000 between 1879 and 1881, when under
@@ -31,7 +31,7 @@ of £1,800,000, about two-thirds being imports.
 The island of Massawa has probably been inhabited from a very early
 date. It appears to have formed part of the Abyssinian dominions for
 many centuries. It was at Massawa (Matzua, as it is called by the
-Portuguese chroniclers) that Christopher da Gama and his comrades landed
+Portuguese chroniclers) that [[Christopher]] da Gama and his comrades landed
 in July 1541 on their way to aid the Abyssinians against the Moslem
 invaders. Captured by the Turks in 1557, the island remained a Turkish
 possession over two hundred years. A military colony of Bosnians settled
@@ -39,11 +39,11 @@ at Arkiko (a port on the bay 4 m. south of Massawa Island) was appointed
 not only to defend it in case of attack from the mainland, but to keep
 it supplied with water in return for $1400 per month from the town's
 customs. For some time at the close of the 18th century Massawa was held
-by the sherif of Mecca, and it afterwards passed to Mehemet Ali of
+by the sherif of [[Mecca]], and it afterwards passed to Mehemet Ali of
 Egypt. The Turks were reinstated about 1850, but in 1865 they handed the
 island back to Egypt for an annual tribute of 2½ million piastres. In
 February 1885 Massawa was occupied by an Italian force, the Egyptian
-garrison stationed there being withdrawn in the November following (see
+[[Garrison|garrison]] stationed there being withdrawn in the November following (see
 EGYPT; ITALY; ABYSSINIA). The port was the capital of the Italian colony
 until 1900 when the seat of administration was removed to Asmara (see
 ERITREA).
@@ -65,7 +65,7 @@ Royal-Italien regiment. He quickly rose to be under-officer-adjutant;
 but, finding his birth would prevent his ever getting a commission, he
 left the army in 1789, retired to his native city, and married. At the
 sound of war, however, and the word republic, his desire to see service
-increased, and he once more left Italy, and joined the 3rd battalion of
+increased, and he once more left Italy, and joined the 3rd [[Battalion|battalion]] of
 the volunteers of the Var in 1791. In those days when men elected their
 officers, and many of the old commissioned officers had emigrated,
 promotion to a man with a knowledge of his drill was rapid, and by
@@ -81,12 +81,12 @@ won by Schérer over the Austrians and Sardinians. In Bonaparte's great
 campaign of 1796-97 Masséna was his most trusted general of division; in
 each battle he won fresh laurels, up to the crowning victory of Rivoli,
 from which he afterwards took his title. It was during this campaign
-that Bonaparte gave him the title of _enfant gâté de la victoire_, which
+that [[Bonaparte]] gave him the title of _enfant gâté de la victoire_, which
 he was to justify till he met the English in 1810. In 1798 he commanded
 the army of Rome for a short time, but was displaced by the intrigues of
-his subordinate Berthier. Masséna's next important service was in
+his subordinate [[Berthier]]. Masséna's next important service was in
 command of the army in Switzerland, which united the army in Germany
-under Moreau, and that in Italy under Joubert. There he proved himself a
+under Moreau, and that in Italy under [[Joubert]]. There he proved himself a
 great captain, as he had already proved himself a great lieutenant; the
 archduke Charles and Suvarov had each been successful in Germany and in
 Italy, and now turned upon Masséna in Switzerland. That general held his
@@ -101,12 +101,12 @@ money to spend. Bonaparte, now First Consul, sent him to Genoa to
 command the débris of the army of Italy, and he nobly defended Genoa
 from February to June to the very last extremity, giving time for
 Bonaparte to strike his great blow at Marengo. He now went to Paris,
-where he sat in the Corps Législatif in 1803, and actually defended
+where he sat in the [[Corps]] Législatif in 1803, and actually defended
 Moreau without drawing upon himself the ill-will of Napoleon, who well
 knew his honesty and lack of ambition.
 
 In 1804 he was made one of the first marshals of France of the new
-régime, and in 1805 was decorated with the Grand Eagle of the Legion of
+régime, and in 1805 was decorated with the Grand [[Eagle]] of the [[Legion]] of
 Honour. In that year Napoleon needed an able general to keep in check
 the archduke Charles in Italy, while he advanced through Germany with
 the grand army. Masséna was chosen; he kept the archduke occupied till
@@ -120,7 +120,7 @@ principles. In 1808 he was made duke of Rivoli. In 1808 he was
 accidentally wounded by his old enemy Berthier when both were in
 attendance on the emperor at a shooting party, and he lost the sight of
 one eye. In the campaign in 1809 he covered himself with glory at
-Landshut and at Eckmühl, and finally at the battle of Aspern-Essling his
+[[Landshut]] and at Eckmühl, and finally at the battle of Aspern-Essling his
 magnificent leadership made what would without him have been an
 appalling disaster into a mere reverse of which the enemy could make no
 use. On the field of Wagram Masséna, though too ill to ride, directed
@@ -130,7 +130,7 @@ of Thouars. He was then ordered to Spain to "drive the English into the
 sea." (For the campaigns of 1810 and 1811, the advance to and the
 retreat from Torres Vedras see PENINSULAR WAR.) Masséna himself, with
 some justice, ascribed his failure to the frequent disobedience of his
-subordinates Ney, Reynier and Junot, and public opinion attributed this
+subordinates Ney, Reynier and [[Junot]], and public opinion attributed this
 disobedience to the presence with the army of Masséna's mistress, and to
 the resentment thereat felt by the wives of the three generals. Still,
 unsuccessful as he was, Masséna displayed the determination of the
@@ -148,15 +148,15 @@ find his prestige gone. The old marshal felt he had a right to complain
 of Ney and of Napoleon himself, and, it is said, opened communications
 with Fouché and the remnant of the republican party. Whether this be
 true or not, Napoleon gave his greatest marshal no more employment in
-the field, but made him merely a territorial commandant at Marseilles.
+the field, but made him merely a territorial commandant at [[Marseilles]].
 This command he still held at the restoration, when Louis XVIII.
-confirmed him in it, and with true Bourbon stupidity gave him letters of
+confirmed him in it, and with true [[Bourbon]] stupidity gave him letters of
 naturalization, as if the great leader of the French armies had not
 ceased to be an Italian. When Napoleon returned from Elba, Masséna,
 probably by the advice of Fouché, kept Marseilles quiet to await events,
 the greatest service he could do the royalists, but afterwards imputed
-to him as a fault. After the second restoration Masséna was summoned to
-sit on the court-martial which tried Marshal Ney, but, though he had
+to him as a [[Fault|fault]]. After the second restoration Masséna was summoned to
+sit on the [[Court-Martial|court-martial]] which tried Marshal Ney, but, though he had
 been on bad terms with that general, and attributed his own disgrace to
 him, the old soldier would not be his comrade's judge. This refusal was
 used by the royalists to attack the marshal, against whom they raked up
@@ -166,7 +166,7 @@ Père-la-Chaise, with only the word "Masséna" upon his tombstone.
 
 In private life indolent, greedy, rapacious, ill-educated and morose, in
 war Masséna was, like Napoleon, the incarnation of battle. Only his
-indolence and his consequent lack of far-ranging imagination prevented
+indolence and his consequent lack of far-ranging [[Imagination|imagination]] prevented
 him being as great in strategy as in tactics. His genius needed the
 presence of the enemy to stimulate it, but once it sprang to life
 Masséna became an ideal leader, absolutely brave, resourceful,

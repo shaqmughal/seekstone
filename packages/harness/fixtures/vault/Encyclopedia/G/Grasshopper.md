@@ -7,10 +7,10 @@ topic: language
 # Grasshopper
 
 GRASSHOPPER (Fr. _sauterelle_, Ital. _grillo_, Ger. _Grashupfer_,
-_Heuschrecke_, Swed. _Grashoppa_), names applied to orthopterous insects
+_Heuschrecke_, Swed. _Grashoppa_), names applied to orthopterous [[Insect|insects]]
 belonging to the families _Locustidae_ and _Acridiidae_. They are
 especially remarkable for their saltatory powers, due to the great
-development of the hind legs, which are much longer than the others and
+development of the hind [[Leg|legs]], which are much longer than the others and
 have stout and powerful thighs, and also for their stridulation, which
 is not always an attribute of the male only. The distinctions between
 the two families may be briefly stated as follows:--The _Locustidae_
@@ -30,12 +30,12 @@ _Tettix_, the latter remarkable for the great extension of the pronotum,
 which often reaches beyond the extremity of the body. All are vegetable
 feeders, and, as in all orthopterous insects, have an incomplete
 metamorphosis, so that their destructive powers are continuous from the
-moment of emergence from the egg till death. The migratory locust
+moment of emergence from the [[Egg|egg]] till death. The migratory locust
 (_Pachytylus cinerascens_) may be considered only an exaggerated
 grasshopper, and the Rocky Mountain locust (_Caloptenus spretus_) is
 still more entitled to the name. In Britain the species are not of
 sufficient size, nor of sufficient numerical importance, to do any great
-damage. The colours of many of them assimilate greatly to those of their
+damage. The [[Colours|colours]] of many of them assimilate greatly to those of their
 habitats; the green of the _Locusta viridissima_ is wonderfully similar
 to that of the herbage amongst which it lives, and those species that
 frequent more arid spots are protected in the same manner. Yet many
@@ -48,8 +48,8 @@ ground, but others deposit them in fissures in trees and low plants, in
 which the female is aided by a long flattened ovipositor, or process at
 the extremity of the abdomen, whereas in the _Acridiidae_ there is only
 an apparatus of valves. The stridulation or "song" in the latter is
-produced by friction of the hind legs against portions of the wings or
-wing-covers. To a practised ear it is perhaps possible to distinguish
+produced by [[Friction|friction]] of the hind legs against portions of the wings or
+wing-covers. To a practised [[Ear|ear]] it is perhaps possible to distinguish
 the "song" of even closely allied species, and some are said to produce
 a sound differing by day and night.
 

@@ -1,7 +1,7 @@
 # Launceston
 
 LAUNCESTON, a market town and municipal borough in the Launceston
-parliamentary division of Cornwall, England, 35½ m. N.W. of Plymouth, on
+parliamentary division of [[Cornwall]], England, 35½ m. N.W. of Plymouth, on
 branches of the Great Western and the London & South-Western railways.
 Pop. (1901) 4053. It lies in a hilly district by and above the river
 Kensey, an affluent of the Tamar, the houses standing picturesquely on
@@ -9,10 +9,10 @@ the southern slope of the narrow valley, with the keep of the ancient
 castle crowning the summit. On the northern slope lies the parish of St
 Stephen. The castle, the ruins of which are in part of Norman date, was
 the seat of the earls of Cornwall, and was frequently besieged during
-the civil wars of the 17th century. In 1656 George Fox the Quaker was
+the civil wars of the 17th century. In 1656 George [[Fox]] the Quaker was
 imprisoned in the north-east tower for disturbing the peace at St Ives
 by distributing tracts. Fragments of the old town walls and the south
-gateway, of the Decorated period, are standing. The church of St Mary
+gateway, of the [[Decorated Period|Decorated period]], are standing. The church of St Mary
 Magdalen, built of granite, and richly ornamented without, was erected
 early in the 16th century, but possesses a detached tower dated 1380. A
 fine Norman doorway, now appearing as the entrance to a hotel, is
@@ -20,7 +20,7 @@ preserved from an Augustinian priory founded in the reign of Henry I.
 The parish church of St Stephen is Early English, and later, with a
 Perpendicular tower. The trade of Launceston is chiefly agricultural,
 but there are tanneries and iron foundries. The borough is under a
-mayor, 4 aldermen and 12 councillors. Area, 2189 acres.
+[[Mayor|mayor]], 4 aldermen and 12 councillors. Area, 2189 acres.
 
 A silver penny of Æthelred II. witnesses to the fact that the privilege
 of coining money was exercised by Launceston (Dunheved, Lanscaveton,
@@ -52,13 +52,13 @@ provisions the borough was governed until 1835. The parliamentary
 franchise which had been conferred in 1294 was confined to the
 corporation and a number of free burgesses. In 1832 Launceston was shorn
 of one of its members, and in 1885 merged in the county. Separated from
-it by a small bridge over the Kensey lies the hamlet of Newport which,
+it by a small bridge over the Kensey lies the [[Hamlet|hamlet]] of Newport which,
 from 1547 until 1832, also returned two members. These were swept away
-when the Reform Bill became law. Launceston was the assize town until
+when the Reform Bill became law. Launceston was the [[Assize|assize]] town until
 Earl Richard, having built a palace at Restormel, removed the assize to
-Lostwithiel. In 1386 Launceston regained the privilege by royal charter.
+[[Lostwithiel]]. In 1386 Launceston regained the privilege by royal charter.
 From 1715 until 1837, eleven years only excepted, the assize was held
-alternately here and at Bodmin. Since that time Bodmin has enjoyed the
+alternately here and at [[Bodmin]]. Since that time Bodmin has enjoyed the
 distinction. Launceston has never had a staple industry. The manufacture
 of serge was considerable early in the 19th century. Its market on
 Saturdays is well attended, and an ancient fair on the Feast of St

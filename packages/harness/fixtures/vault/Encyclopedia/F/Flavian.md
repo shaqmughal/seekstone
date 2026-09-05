@@ -10,7 +10,7 @@ id: 42-3976
 
 FLAVIAN (d. 449), bishop of Constantinople, and an adherent of the
 Antiochene school, succeeded Proclus in 447. He presided at the council
-which deposed Eutyches (q.v.) in 448, but in the following year he was
+which deposed [[Eutyches]] (q.v.) in 448, but in the following year he was
 deposed by the council of Ephesus (the "robber synod"), which reinstated
 Eutyches in his office. Flavian's death shortly afterwards was
 attributed, by a pious fiction, to ill treatment at the hands of his

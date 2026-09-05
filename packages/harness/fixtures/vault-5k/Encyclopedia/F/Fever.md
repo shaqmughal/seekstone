@@ -37,7 +37,7 @@ with the nervous system rarely occurs, but it can readily be produced in
 the lower animals by stimulating certain parts of the great brain, e.g.
 the anterior portion of the corpus striatum. This leads to a rise of
 temperature with increased heat production. The high temperature seems
-to cause disintegration of cell protoplasm and increased excretion of
+to cause disintegration of cell protoplasm and increased [[Excretion|excretion]] of
 nitrogen and of carbonic acid. Possibly some of the cases of high
 temperature recorded after injuries to the nervous system may be caused
 in this way; but some may also be due to stimulation of vaso-constrictor
@@ -61,7 +61,7 @@ this is by no means a necessary accompaniment, its occurrence is so
 general that the term _Fever_ has been applied to the general reaction
 of the organism to the microbial poison. Toxins which cause a marked
 rise of temperature in men may cause a fall in other animals. It is not
-the alteration of temperature which is the great index of the severity
+the alteration of temperature which is the great [[Index|index]] of the severity
 of the struggle between the host and the parasite, but the death and
 removal to a greater or lesser extent of the protoplasm of the host. In
 this respect fever resembles poisoning with phosphorus and arsenic and
@@ -83,7 +83,7 @@ of the microbial products. In the beginning of a fever the activity of
 the metabolism is not increased to any marked extent, and any increase
 is necessarily largely due to the greater activity of the muscles of the
 heart and respiratory mechanism, and to the muscular contractions which
-produce the initial rigors. Thus the excretion of carbon dioxide--the
+produce the initial rigors. Thus the excretion of [[Carbon|carbon]] dioxide--the
 great measure of the _activity of metabolism_--is not usually increased,
 and there is no evidence of an increased combustion. In the later stages
 the increased temperature may bring about an acceleration in the rate of
@@ -133,7 +133,7 @@ sometimes more than tenfold, while it is altogether absent in enteric
 fever.
 
 An interesting general modification in the metabolism is the enormous
-fall in the excretion of chlorine, a fall far in excess of what could be
+fall in the excretion of [[Chlorine|chlorine]], a fall far in excess of what could be
 accounted for by inanition, and out of all proportion to the fall in the
 sodium and potassium with which the chlorine is usually combined in the
 urine. The fevered animal in fact stores chlorine in its tissues, though

@@ -9,7 +9,7 @@ tags: [renaissance-studies, history]
 # Donjon
 
 DONJON (from a Late Lat. accusative form _domnionem_, connected with
-_domnus_ or _dominus_, a lord), the French term for the keep of a
+_domnus_ or _[[Dominus|dominus]]_, a lord), the French term for the keep of a
 medieval castle, used now in distinction to "dungeon" (q.v.), the
 prison, which is only an anglicized spelling (see also KEEP).
 

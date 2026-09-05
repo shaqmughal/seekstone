@@ -1,8 +1,8 @@
 # Brinton
 
-BRINTON, DANIEL GARRISON (1837-1899), American archaeologist and
+BRINTON, [[Daniel|DANIEL]] [[Garrison|GARRISON]] (1837-1899), American archaeologist and
 ethnologist, was born at Thornbury, Pennsylvania, on the 13th of May 1837.
-He graduated at Yale in 1858, studied for two years in the Jefferson
+He graduated at Yale in 1858, studied for two years in the [[Jefferson]]
 Medical College, and then for one year travelled in Europe and continued
 his studies at Paris and Heidelberg. From 1862 to 1865, during the Civil
 War in America, he was a surgeon in the Union army, acting for one year,
@@ -10,7 +10,7 @@ War in America, he was a surgeon in the Union army, acting for one year,
 Quincy, Illinois. After the war he practised medicine at Westchester,
 Pennsylvania, for several years; was the editor of a weekly periodical, the
 _Medical and Surgical Reporter_, in Philadelphia, from 1874 to 1887; became
-professor of ethnology and archaeology in the Academy of Natural Sciences
+professor of ethnology and [[Archaeology|archaeology]] in the Academy of Natural Sciences
 in Philadelphia in 1884, and was professor of American linguistics and
 archaeology in the university of Pennsylvania from 1886 until his death at
 Philadelphia on the 31st of July 1899. [v.04 p.0572] He was a member of
@@ -30,7 +30,7 @@ American Race_ (1891); _The Pursuit of Happiness_ (1893); and _Religions of
 Primitive People_ (1897). In addition, he edited and published a _Library
 of American Aboriginal Literature_ (8 vols. 1882-1890), a valuable
 contribution to the science of anthropology in America. Of the eight
-volumes, six were edited by Brinton himself, one by Horatio Hale and one by
+volumes, six were edited by Brinton himself, one by Horatio [[Hale]] and one by
 A.S. Gatschet.
 
 ## See also

@@ -31,9 +31,9 @@ was on the 3rd of September delivered over to the fury of the populace,
 after which her head was placed on a pike and carried before the windows
 of the queen.
 
-  See George Bertin, _Madame de Lamballe_ (Paris, 1888); Austin Dobson,
+  See George Bertin, _Madame de Lamballe_ (Paris, 1888); Austin [[Dobson]],
   _Four Frenchwomen_ (1890); B. C. Hardy, _Princesse de Lamballe_
-  (1908); Comte de Lescure, _La Princesse de Lamballe ... d'après des
+  (1908); Comte de [[Lescure]], _La Princesse de Lamballe ... d'après des
   documents inédits_ (1864); some letters of the princess published by
   Ch. Schmidt in _La Révolution française_ (vol. xxxix., 1900); L.
   Lambeau, _Essais sur la mort de madame la princesse de Lamballe_

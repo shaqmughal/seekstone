@@ -7,23 +7,23 @@ topic: art
 # Hestia
 
 HESTIA, in Greek mythology, the "fire-goddess," daughter of Cronus and
-Rhea, the goddess of hearth and home. She is not mentioned in Homer,
+Rhea, the goddess of hearth and home. She is not mentioned in [[Homer]],
 although the hearth is recognized as a place of refuge for suppliants;
 this seems to show that her worship was not universally acknowledged at
 the time of the Homeric poems. In post-Homeric religion she is one of
 the twelve Olympian deities, but, as the abiding goddess of the
-household, she never leaves Olympus. When Apollo and Poseidon became
+household, she never leaves Olympus. When [[Apollo]] and Poseidon became
 suitors for her hand, she swore to remain a maiden for ever; whereupon
 Zeus bestowed upon her the honour of presiding over all sacrifices. To
 her the opening sacrifice was offered; to her at the sacrificial meal
 the first and last libations were poured. The fire of Hestia was always
 kept burning, and, if by any accident it became extinct, only sacred
-fire produced by friction, or by burning glasses drawing fire from the
+fire produced by [[Friction|friction]], or by burning glasses drawing fire from the
 sun, might be used to rekindle it. Hestia is the goddess of the family
 union, the personification of the idea of home; and as the city union is
 only the family union on a large scale, she was regarded as the goddess
 of the state. In this character her special sanctuary was in the
-prytaneum, where the common hearth-fire round which the magistrates meet
+prytaneum, where the common hearth-fire round which the [[Magistrate|magistrates]] meet
 is ever burning, and where the sacred rites that sanctify the concord of
 city life are performed. From this fire, as the representative of the
 life of the city, intending colonists took the fire which was to be
@@ -31,12 +31,12 @@ kindled on the hearth of the new colony. Hestia was closely connected
 with Zeus, the god of the family both in its external relation of
 hospitality and its internal unity round its own hearth; in the
 _Odyssey_ a form of oath is by Zeus, the table and the hearth. Again,
-Hestia is often associated with Hermes, the two representing home and
+Hestia is often associated with [[Hermes]], the two representing home and
 domestic life on the one hand, and business and outdoor life on the
 other; or, according to others, the association is local--that of the
 god of boundaries with the goddess of the house. In later philosophy
 Hestia became the hearth of the universe--the personification of the
-earth as the centre of the universe, identified with Cybele and Demeter.
+earth as the centre of the universe, identified with [[Cybele]] and Demeter.
 As Hestia had her home in the prytaneum, special temples dedicated to
 her are of rare occurrence. She is seldom represented in works of art,
 and plays no important part in legend. It is not certain that any really

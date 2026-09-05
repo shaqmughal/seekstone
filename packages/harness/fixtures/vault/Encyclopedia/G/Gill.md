@@ -8,7 +8,7 @@ type: note
 # Gill
 
 GILL, JOHN (1697-1771), English Nonconformist divine, was born at
-Kettering, Northamptonshire. His parents were poor and he owed his
+[[Kettering]], Northamptonshire. His parents were poor and he owed his
 education chiefly to his own perseverance. In November 1716 he was
 baptized and began to preach at Higham Ferrers and Kettering, until the
 beginning of 1719, when he became pastor of the Baptist congregation at
@@ -39,16 +39,16 @@ fishes and other animals that live in the water. The word is also
 applied to the _branchiae_ of some kinds of worm and arachnids, and by
 transference to objects resembling the _branchiae_ of fishes, such as
 the wattles of a fowl, or the radiating films on the under side of
-fungi. The word is of obscure origin. Danish has _giaelle_, and Swedish
+[[Fungi|fungi]]. The word is of obscure origin. Danish has _giaelle_, and Swedish
 _gal_ with the same meaning. The root which appears in "yawn," "chasm,"
 has been suggested. If this be correct, the word will be in origin the
 same as "gill," often spelled "ghyll," meaning a glen or ravine, common
-in northern English dialects and also in Kent and Surrey. The _g_ in
+in northern English [[Dialect|dialects]] and also in Kent and Surrey. The _g_ in
 both these words is hard. (2) A liquid measure usually holding
 one-fourth of a pint. The word comes through the O. Fr. _gelle_, from
 Low Lat. _gello_ or _gillo_, a measure for wine. It is thus connected
 with "gallon." The _g_ is soft. (3) An abbreviation of the feminine name
-Gillian, also often spelled Jill, as it is pronounced. Like Jack for a
+Gillian, also often spelled Jill, as it is pronounced. Like [[Jack]] for a
 boy, with which it is often coupled, as in the nursery rhyme, it is used
 as a homely generic name for a girl.
 

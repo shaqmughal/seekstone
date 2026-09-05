@@ -12,7 +12,7 @@ family forms five linguistic groups: the Anlo or Anglawa on the Gold
 Coast frontier, the Krepi of Anfueh speech, the Jeji, the Dahomeyans and
 the Mahi.
 
-  See further Dahomey, and A.B. Ellis, _The Ewe-Speaking Peoples of the
+  See further [[Dahomey]], and A.B. Ellis, _The Ewe-Speaking Peoples of the
   Slave Coast_ ... (London, 1890).
 
 ## See also

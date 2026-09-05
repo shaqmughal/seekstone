@@ -12,7 +12,7 @@ id: 42-6851
 HAYASHI, TADASU, COUNT (1850-   ), Japanese statesman, was born in Tokyo
 (then Yedo), and was one of the first batch of students sent by the
 Tokugawa government to study in England. He returned on the eve of the
-abolition of the Shogunate, and followed Enomoto (q.v.) when the latter,
+abolition of the Shogunate, and followed [[Enomoto]] (q.v.) when the latter,
 sailing with the Tokugawa fleet to Yezo, attempted to establish a
 republic there in defiance of the newly organized government of the
 emperor. Thrown into prison on account of this affair, Hayashi did not
@@ -25,7 +25,7 @@ received the title of viscount. He remained in London throughout the
 Russo-Japanese War, and was the first Japanese ambassador at the court
 of St James after the war. Returning to Tokyo in 1906 to take the
 portfolio of foreign affairs, he remained in office until the
-resignation of the Saionji cabinet in 1908. He was raised to the rank of
+resignation of the Saionji [[Cabinet|cabinet]] in 1908. He was raised to the rank of
 count for eminent services performed during the war between his country
 and Russia, and in connexion with the second Anglo-Japanese Alliance of
 1905.

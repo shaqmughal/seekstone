@@ -3,7 +3,7 @@
 HAPARANDA (Finnish _Haaparanta_, "Aspen Shore"), a town of Sweden in the
 district (_lan_) of Norbotten, at the head of the Gulf of Bothnia. Pop.
 (1900) 1568. It lies about 1-1/2 m. from the mouth of the Torne river,
-on the frontier with Russia (Finland), opposite the town of Tornea which
+on the frontier with Russia ([[Finland]]), opposite the town of Tornea which
 has belonged to Russia since 1809. The towns are divided by a marshy
 channel, formerly the bed of the Torne, but the main stream is now east
 of the Russian town. Haparanda was founded in 1812, and at first bore

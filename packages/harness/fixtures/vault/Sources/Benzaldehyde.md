@@ -17,11 +17,11 @@ from this substance by hydrolysis with dilute acids:
 
   C20H27NO11 + 2H2O = HCN + 2C6H12O6 + C6H5CHO.
 
-It occurs free in bitter almonds, being formed by an enzyme
+It occurs free in bitter almonds, being formed by an [[Enzyme|enzyme]]
 decomposition of amygdalin (q.v.). It may also be prepared by oxidizing
 benzyl alcohol with concentrated nitric acid; by distilling a mixture of
 calcium benzoate and calcium formate; by the condensation of
-chlor-oxalic ester with benzene in the presence of aluminium chloride,
+chlor-oxalic ester with [[Benzene|benzene]] in the presence of aluminium chloride,
 the ester of the ketonic acid formed being then hydrolysed and the
 resulting acid distilled:
 
@@ -36,7 +36,7 @@ benzene, an aldime being formed as an intermediate product:
 
   C6H5CH : NH.HCl + H2O = NH4Cl + C6H5CHO;
 
-and by the action of chromium oxychloride on toluene dissolved in carbon
+and by the action of chromium oxychloride on toluene dissolved in [[Carbon|carbon]]
 bisulphide (A. Etard, _Berichte_, 1884, 17, pp. 1462, 1700).
 
 Technically it is prepared from toluene, by converting it into benzyl
@@ -44,12 +44,12 @@ chloride, which is then heated with lead nitrate:
 
   C6H5CH2Cl + Pb(NO3)2 = 2NO2 + PbCl.OH + C6H5CHO,
 
-or, by conversion into benzal chloride, which is heated with milk of
+or, by [[Conversion|conversion]] into benzal chloride, which is heated with milk of
 lime under pressure.
 
   C6H5CHCl2 + CaO = CaCL2 + C6H5CHO.
 
-E. Jacobsen has also obtained benzaldehyde by heating benzal chloride
+E. [[Jacobsen]] has also obtained benzaldehyde by heating benzal chloride
 with glacial acetic acid:
 
   C6H5CHCl2 + CH3COOH = CH3COCl + HCl + C6H5CHO.
@@ -65,8 +65,8 @@ hand, it differs from the aliphatic aldehydes in many respects; it does
 not form an addition product with ammonia but condenses to
 hydrobenzamide (C6H5CH)3N2; on shaking with alcoholic potash it
 undergoes simultaneous oxidation and reduction, giving benzoic acid and
-benzyl alcohol (S. Cannizzaro); and on warming with alcoholic potassium
-cyanide it condenses to benzoin (q.v.).
+benzyl alcohol (S. [[Cannizzaro]]); and on warming with alcoholic potassium
+[[Cyanide|cyanide]] it condenses to [[Benzoin|benzoin]] (q.v.).
 
 The oxidation of benzaldehyde to benzoic acid when exposed to air is not
 one of ordinary oxidation, for it has been observed in the case of many
@@ -80,29 +80,29 @@ hydrogen peroxide C6H5.CO.O.OH is formed as an intermediate product and
 that this oxidizes the indigo compound, being itself reduced to benzoic
 acid; they have also shown that this peroxide is soluble in benzaldehyde
 with production of benzoic acid, and it must be assumed that the
-oxidation of benzaldehyde proceeds as shown in the equations:
+oxidation of benzaldehyde proceeds as shown in the [[Equation|equations]]:
 
   C6H5CHO + O2 = C6H5.CO.O.OH,
   C6H5CO.O.OH + C6H5CHO = 2C6H5COOH.
 
   Further see G. Bodlander, _Ahrens Sammlung_, 1899, iii. 470; W.P.
-  Jorissen, _Zeit. fur phys. Chem._, 1897, 22, p. 56; C. Engler and W.
+  Jorissen, _Zeit. [[Fur|fur]] phys. Chem._, 1897, 22, p. 56; C. Engler and W.
   Wild, _Berichte_, 1897, 30, p. 1669.
 
 The oxime of benzaldehyde (C6H5CH:N.OH), formed by the addition of
-hydroxylamine to the aldehyde, exhibits a characteristic behaviour when
+[[Hydroxylamine|hydroxylamine]] to the aldehyde, exhibits a characteristic behaviour when
 hydrochloric acid gas is passed into its ethereal solution, a second
 modification being produced. The former (known as the [alpha] or
 benz-anti-aldoxime) melts at 34-35 deg. C.; the latter ([beta] or
 benz-syn-aldoxime) melts at 130 deg. C. and is slowly transformed into
 the [alpha] form. The difference between the two forms has been
 explained by A. Hantzsch and A. Werner (_Berichte_, 1890, 23, p. 11) by
-the assumption of the different spatial arrangement of the atoms (see
+the [[Assumption|assumption]] of the different spatial arrangement of the [[Atom|atoms]] (see
 STEREO-ISOMERISM). On account of the readiness with which it condenses
 with various compounds, benzaldehyde is an important synthetic reagent.
 With aniline it forms benzylidine aniline C6H5CH:N.C6H5, and with
 acetone, benzal acetone C6H5CH : CH.CO.CH3. Heated with anhydrous sodium
-acetate and acetic anhydride it gives cinnamic acid (q.v.); with ethyl
+acetate and acetic anhydride it gives [[Cinnamic Acid|cinnamic acid]] (q.v.); with ethyl
 bromide and sodium it forms triphenyl-carbinol (C6H5)3C.OH; with
 dimethylaniline and anhydrous zinc chloride it forms leuco-malachite
 green C6H5CH[C6H4N(CH3)2]2; and with dimethylaniline and concentrated
@@ -113,7 +113,7 @@ stilbene:
   2C7H6O + S = C6H5COOH + C6H6CHS,
   2C6H5CHS = 2S + C14H12.
 
-Its addition compound with hydrocyanic acid gives mandelic acid
+Its addition compound with hydrocyanic acid gives [[Mandelic Acid|mandelic acid]]
 C6H5CH(OH).COOH on hydrolysis; when heated with sodium succinate and
 acetic anhydride, phenyl-iso-crotonic acid C6H5CH : CH.CH2COOH is
 produced, which on boiling is converted into [alpha]-naphthol C10H7OH.
@@ -133,7 +133,7 @@ oxidizing ortho-nitrocinnamic acid with alkaline potassium permanganate
 in the presence of benzene; or from ortho-nitrobenzyl chloride by
 condensing it with aniline, oxidizing the product so obtained to
 ortho-nitrobenzylidine aniline, and then hydrolysing this compound with
-an acid (_Farben fabrik d. Meister, Lucius und Bruning_). It
+an acid (_Farben fabrik d. Meister, [[Lucius]] und Bruning_). It
 crystallizes in yellowish needles, which are volatile in steam and melt
 at 46 deg. C. It is used in the artificial production of indigo (see
 _German Patent_ 19768).

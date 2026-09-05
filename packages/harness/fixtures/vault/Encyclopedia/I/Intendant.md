@@ -5,7 +5,7 @@ the mind to, to watch over; cf. "superintendent"), the name used in
 early times in France to designate a functionary invested by the king
 with an important and durable commission.[1] As early as the 14th
 century the title of _intendentes_ or _superintendentes financiarum_ was
-given to the commissaries appointed by the king to levy the _aides_, or
+given to the commissaries appointed by the king to [[Levy|levy]] the _aides_, or
 temporary subsidies. In the 16th century Francis I. created the
 _intendants des finances_, permanent functionaries who formed the
 central and superior administration in financial matters. They took the
@@ -63,11 +63,11 @@ and so complete was their triumph that in the 18th century governors of
 provinces could not enter upon their duties without formal _lettres de
 residence_.
 
-The intendants had wide powers in the drawing by lot of the militia and
+The intendants had wide powers in the drawing by [[Lot|lot]] of the militia and
 in the royal _corvees_ for the making and repair of the high roads, and
 were largely concerned with the administration of the _taille_, in which
 they effected useful reforms. They were the sole administrators of the
-principal direct and indirect imposts created in the second half of the
+principal direct and indirect [[Impost|imposts]] created in the second half of the
 17th century and in the 18th century, and had full powers to settle
 disputes arising out of these taxes. Owing to the vast size of the
 districts allotted to the intendants (there were no more than thirty-two
@@ -78,9 +78,9 @@ mandatories of the intendant. Decisions of the intendant could be
 carried to the king's council, and those of the _sub-delegue_ to the
 intendant.
 
-  See Gabriel Hanotaux, _Origines de l'institution des intendants des
+  See Gabriel [[Hanotaux]], _Origines de l'institution des intendants des
   provinces_ (1884); D'Arbois de Jubainville, _L'Administration des
-  intendants d'apres les archives de l'Aube_ (1880); P. Ardascheff,
+  intendants d'apres les [[Archive|archives]] de l'Aube_ (1880); P. Ardascheff,
   _Provintzalnaya administratsiya vo Frantsii ve poshednoyo porou
   starago poryadka: provintsialny Intendanty_ (St Petersburg,
   1900-1906).     (J. P. E.)

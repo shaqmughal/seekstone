@@ -15,7 +15,7 @@ part of the state. Pop. (1900) 692; (1910) 1101. It is served by the
 Southern railway. In colonial days cattle were rounded up and branded
 here--whence the name. Seven miles N. of the town is the field of the
 battle of Cowpens, fought on the 17th of January 1781, during the War of
-American Independence, between the Americans under Gen. Daniel Morgan
+American Independence, between the Americans under Gen. [[Daniel]] Morgan
 and the British under Gen. Banastre Tarleton, the British being
 defeated. A monument was erected on the battlefield in 1859, but was
 much defaced during the Civil War. The town of Cowpens was founded in

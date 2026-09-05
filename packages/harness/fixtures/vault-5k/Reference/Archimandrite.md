@@ -16,7 +16,7 @@ in a letter to Epiphanius, prefixed to his _Panarium_ (c. 375), but the
 _Lausiac History_ of Palladius may be evidence that it was in common use
 in the 4th century as applied to Pachomius (q.v.). In Russia the bishops
 are commonly selected from the archimandrites. The word occurs in the
-_Regula Columbani_ (c. 7), and du Cange gives a few other cases of its
+_Regula [[Columbani]]_ (c. 7), and du Cange gives a few other cases of its
 use in Latin documents, but it never came into vogue in the West. Owing
 to intercourse with Greek and Slavonic Christianity, the title is
 sometimes to be met with in southern Italy and Sicily, and in Hungary

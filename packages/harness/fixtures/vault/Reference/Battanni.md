@@ -8,7 +8,7 @@ topic: history
 
 BATTANNI, or BHITANI, a small tribe on the Waziri border of the
 North-West Frontier Province of India. The Battannis hold the hills on
-the borders of Tank and Bannu in the Dera Ismail Khan district, from the
+the [[Borders|borders]] of Tank and [[Bannu]] in the [[Dera Ismail Khan]] district, from the
 Gabar mountain on the north to the Gomal valley on the south. They are
 only 3000 fighting men strong, and are generally regarded as the jackals
 of the Waziris. Their chief importance arises from the fact that no

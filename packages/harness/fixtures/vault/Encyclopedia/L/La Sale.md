@@ -6,14 +6,14 @@ topic: numismatics-studies
 
 # La Sale
 
-LA SALE (or LA SALLE), ANTOINE DE (c. 1388-1462?), French writer, was
-born in Provence, probably at Arles. He was a natural son of Bernard de
+LA SALE (or [[La Salle|LA SALLE]]), [[Antoine|ANTOINE]] DE (c. 1388-1462?), French writer, was
+born in Provence, probably at [[Arles]]. He was a natural son of [[Bernard]] de
 la Salle,[1] a famous soldier of fortune, who served many masters, among
-others the Angevin dukes. In 1402 Antoine entered the court of Anjou,
+others the Angevin [[Dukes|dukes]]. In 1402 Antoine entered the court of [[Anjou]],
 probably as a page, and in 1407 he was at Messina with Duke Louis II.,
 who had gone there to enforce his claim to the kingdom of Sicily. The
-next years he perhaps spent in Brabant, for he was present at two
-tournaments given at Brussels and Ghent. With other gentlemen from
+next years he perhaps spent in [[Brabant]], for he was present at two
+tournaments given at Brussels and [[Ghent]]. With other gentlemen from
 Brabant, whose names he has preserved, he took part in the expedition of
 1415 against the Moors, organized by John I. of Portugal. In 1420 he
 accompanied Louis III. on another expedition to Naples, making in that
@@ -21,32 +21,32 @@ year an excursion from Norcia to the Monte della Sibilla, and the
 neighbouring Lake of Pilate. The story of his adventures on this
 occasion, and an account, with some sceptical comments, of the local
 legends regarding Pilate, and the Sibyl's grotto,[2] form the most
-interesting chapter of _La Salade_, which is further adorned with a map
+interesting chapter of _La Salade_, which is further adorned with a [[Map|map]]
 of the ascent from Montemonaco. La Sale probably returned with Louis
 III. of Anjou, who was also comte de Provence, in 1426 to Provence,
-where he was acting as _viguier_ of Aries in 1429. In 1434 René, Louis's
+where he was acting as _viguier_ of [[Aries]] in 1429. In 1434 René, Louis's
 successor, made La Sale tutor to his son Jean d'Anjou, duc de Calabre,
 to whom he dedicated, between the years 1438 and 1447, his _La Salade_,
 which is a text-book of the studies necessary for a prince. The primary
 intention of the title is no doubt the play on his own name, but he
 explains it on the ground of the miscellaneous character of the book--a
-salad is composed "of many good herbs." In 1439 he was again in Italy in
-charge of the castle of Capua, with the duc de Calabre and his young
-wife, Marie de Bourbon, when the place was besieged by the king of
-Aragon. René abandoned Naples in 1442, and Antoine no doubt returned to
+salad is composed "of many good [[Herb|herbs]]." In 1439 he was again in Italy in
+charge of the castle of [[Capua]], with the duc de Calabre and his young
+wife, Marie de [[Bourbon]], when the place was besieged by the king of
+[[Aragon]]. René abandoned Naples in 1442, and Antoine no doubt returned to
 France about the same time. His advice was sought at the tournaments
-which celebrated the marriage of the unfortunate Margaret of Anjou at
+which celebrated the marriage of the unfortunate [[Margaret Of Anjou|Margaret of Anjou]] at
 Nancy in 1445; and in 1446, at a similar display at Saumur, he was one
 of the umpires. La Sale's pupil was now twenty years of age, and, after
 forty years' service of the house of Anjou, La Sale left it to become
 tutor to the sons of Louis de Luxembourg, comte de Saint Pol, who took
-him to Flanders and presented him at the court of Philippe le Bon, duke
+him to [[Flanders]] and presented him at the court of Philippe [[Le Bon|le Bon]], duke
 of Burgundy. For his new pupils he wrote at Châtelet-sur-Oise, in 1451,
 a moral work entitled _La Salle_.
 
 He was nearly seventy years of age when he wrote the work that has made
 him famous, _L'Hystoire et plaisante cronicque du petit Jehan de Saintré
-et de la jeune dame des Belles-Cousines, Sans autre nom nommer_,
+et de la jeune [[Dame|dame]] des Belles-Cousines, Sans autre nom nommer_,
 dedicated to his former pupil, Jean de Calabre. An _envoi_ in MS. 10,057
 (nouv. acq. fr.) in the Bibliothèque Nationale, Paris, states that it
 was completed at Châtelet on the 6th of March 1455 (i.e. 1456). La Sale
@@ -55,15 +55,15 @@ romance of _Paris et Vienne_. The MSS. of _Petit Jehan de Saintré_
 usually contain in addition _Floridam et Elvide_, translated by Rasse de
 Brunhamel from the Latin of Nicolas de Clamange, and dedicated to La
 Sale; also _Addiction extraite des Cronicques de Flandres_, of which
-only a few lines are original. Brunhamel says in his dedication that La
-Sale had delighted to write honourable histories from the time of his
+only a few lines are original. Brunhamel says in his [[Dedication|dedication]] that La
+Sale had delighted to write [[Honourable|honourable]] histories from the time of his
 "florie jeunesse," which confirms a reasonable inference from the style
 of _Petit Jehan de Saintré_ that its author was no novice in the art of
 romance-writing. The _Réconfort à Madame de Neufville_, a consolatory
-epistle including two stories of parental fortitude, was written at
+[[Epistle|epistle]] including two stories of parental fortitude, was written at
 Vendeuil-sur-Oise about 1458, and in 1459 La Sale produced his treatise
 _Des anciens tournois et faictz d'armes_ and the _Journée d'Onneur et de
-Prouesse_. He followed his patron to Genappe in Brabant when the Dauphin
+Prouesse_. He followed his patron to Genappe in Brabant when the [[Dauphin]]
 (afterwards Louis XI.) took refuge at the Burgundian court.
 
 La Sale is generally accepted as the author of one of the most famous
@@ -79,11 +79,11 @@ Burgundy at Dijon in 1462. If then La Sale was the author, he probably
 was still living; otherwise the last mention of him is in 1461.
 
   _Petit Jehan de Saintré_ gives, at the point when the traditions of
-  chivalry were fast disappearing, an account of the education of an
-  ideal knight and rules for his conduct under many different
+  [[Chivalry|chivalry]] were fast disappearing, an account of the education of an
+  ideal [[Knight|knight]] and rules for his conduct under many different
   circumstances. When Petit Jehan, aged thirteen, is persuaded by the
   Dame des Belles-Cousines to accept her as his lady, she gives him
-  systematic instruction in religion, courtesy, chivalry and the arts of
+  systematic instruction in religion, [[Courtesy|courtesy]], chivalry and the arts of
   success. She materially advances his career until Saintré becomes an
   accomplished knight, the fame of whose prowess spreads throughout
   Europe. This section of the romance--apparently didactic in
@@ -106,7 +106,7 @@ was still living; otherwise the last mention of him is in 1461.
   there is little difficulty in accepting him as the author of the
   _Quinze Joyes de mariage_ and the _Cent Nouvelles Nouvelles._--Both
   these are masterpieces in their way and exhibit a much greater
-  dramatic power and grasp of dialogue than does _Petit Jehan_. Some
+  dramatic power and grasp of [[Dialogue|dialogue]] than does _Petit Jehan_. Some
   light is thrown on the romance by the circumstances of the duc de
   Calabre, to whom it was dedicated. His wife, Marie de Bourbon, was one
   of the "Belles-Cousines" who contended for the favour of Jacques or
@@ -117,8 +117,8 @@ was still living; otherwise the last mention of him is in 1461.
   construction. The hero is not imaginary. Jehan de Saintré flourished
   in the Hundred Years' War, was taken prisoner after Poitiers, with the
   elder Boucicaut, and was employed in negotiating the treaty of
-  Bretigny. Froissart mentioned him as "le meilleur et le plus vaillant
-  chevalier de France." His exploits as related in the romance are,
+  [[Bretigny]]. Froissart mentioned him as "le meilleur et le plus vaillant
+  [[Chevalier|chevalier]] de France." His exploits as related in the romance are,
   however, founded on those of Jacques de Lalaing (c. 1422-1453), who
   was brought up at the Burgundian court, and became such a famous
   knight that he excited the rivalry of the "Belles-Cousines," Marie de
@@ -154,7 +154,7 @@ was still living; otherwise the last mention of him is in 1461.
   methods of the writers of the _fabliaux_.
 
   In the _Cent Nouvelles Nouvelles_ the Italian _novella_ is naturalized
-  in France. The book is modelled on the _Decameron_ of Boccaccio, and
+  in France. The book is modelled on the _Decameron_ of [[Boccaccio]], and
   owes something to the Latin _Facetiae_ of the contemporary scholar
   Poggio; but the stories are rarely borrowed, and in cases where the
   _Nouvelles_ have Italian parallels they appear to be independent
@@ -165,10 +165,10 @@ was still living; otherwise the last mention of him is in 1461.
   story of Floridam et Elvide already mentioned.
 
   Not content with allowing these achievements to La Sale, some critics
-  have proposed to ascribe to him also the farce of _Maître Pathelin_.
+  have proposed to ascribe to him also the [[Farce|farce]] of _Maître Pathelin_.
 
   The best editions of La Sale's undoubted and reputed works
-  are:--_Petit Jehan de Saintré_ by J. M. Guichard (1843); _Les Cent
+  are:--_Petit Jehan de Saintré_ by J. M. [[Guichard]] (1843); _Les Cent
   Nouvelles Nouvelles_ by Thomas Wright (Bibl. elzévérienne, 1858); _Les
   Quinze Joyes de mariage_ by P. Jannet (Bibl. elzév., 1857). _La
   Salade_ was printed more than once during the 16th century. _La Salle_

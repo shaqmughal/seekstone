@@ -11,8 +11,8 @@ BOSTON, the capital of the state of Massachusetts, U.S.A., in Suffolk
 county; lat. 42 deg. 21' 27.6" N., long. 71 deg. 3' 30" W. Pop. (1900)
 560,892, (197,129 being foreign born); (1905, state census) 595,580;
 (1910), 670,585. Boston is the terminus of the Boston & Albany (New York
-Central), the Old Colony system of the New York, New Haven & Hartford,
-and the Boston & Maine railway systems, each of which controls several
+Central), the Old Colony system of the New York, New Haven & [[Hartford]],
+and the Boston & [[Maine]] railway systems, each of which controls several
 minor roads once independent. The city lies on Massachusetts bay, on
 what was once a pear-shaped peninsula attached to the mainland by a
 narrow, marshy neck, often swept by the spray and water. On the north is
@@ -27,14 +27,14 @@ of any other American city. The area of the original Boston was only 783
 acres, but by the filling in of tidal flats (since 1804) this was
 increased to 1829 acres; while the larger corporate Boston of the
 present day--including the annexed territories of South Boston (1804),
-Roxbury (1868), Charlestown, Dorchester, Brighton and West Roxbury
+Roxbury (1868), Charlestown, [[Dorchester]], Brighton and West Roxbury
 (1874)--comprehends almost 43 sq. m. The beautiful Public Garden and the
 finest residential quarter of the city--the Back Bay, so called from
 that inner harbour from whose waters it was reclaimed (1856-1886)--stand
 on what was once the narrowest, but to-day is the widest and fairest
 portion of the original site. Whole forests, vast quarries of granite,
 and hills of gravel were used in fringing the water margins,
-constructing wharves, piers and causeways, redeeming flats, and
+constructing wharves, piers and [[Causeway|causeways]], redeeming flats, and
 furnishing piling and solid foundations for buildings. At the edge of
 the Common, which is now well within the city, the British troops in
 1775 took their boats on the eve of the battle of Lexington; and the
@@ -81,10 +81,10 @@ neighbouring islands, constitute permanent harbour defences. The broad
 watercourses around the peninsula are spanned by causeways and bridges,
 East Boston only, that the harbours may be open to the navy-yard at
 Charlestown, being reached by ferry (1870), and by the electric subway
-under the harbour. At the Charlestown navy-yard (1800) there are docks,
+under the harbour. At the Charlestown navy-yard (1800) there are [[Dock|docks]],
 manufactories, foundries, machine-shops, ordnance stores, rope-walks,
 furnaces, casting-pits, timber sheds, ordnance-parks, ship-houses, &c.
-The famous frigate "Independence" was launched here in 1814, the more
+The famous [[Frigate|frigate]] "Independence" was launched here in 1814, the more
 famous "Constitution" having been launched while the yard was still
 private in 1797. The first bridge over the Charles, to Charlestown, was
 opened in 1786. The bridge of chief artistic merit is the Cambridge
@@ -96,7 +96,7 @@ Comparatively few relics of the early town have been spared by time and
 the improvements of the modern city. Three cemeteries remain
 intact--King's chapel burying ground, with the graves of John Winthrop
 and John Cotton; the Old Granary burial ground in the heart of the city,
-where Samuel Sewall, the parents of Franklin, John Hancock, James Otis
+where Samuel Sewall, the parents of [[Franklin]], John Hancock, James Otis
 and Samuel Adams are buried; and Copp's Hill burial ground, containing
 the tombs of the Mathers. Christ church (1723) is the oldest church of
 the city; in its tower the signal lanterns were displayed for Paul
@@ -108,7 +108,7 @@ was the seat of the royal government of Massachusetts during the
 provincial period, and within its walls from 1760 to 1775 the questions
 of colonial dependence or independence probably first came into evident
 conflict. The Old South church has many associations; it was, for
-instance, the meeting-place of the people after the "Boston Massacre" of
+instance, the meeting-place of the people after the "Boston [[Massacre]]" of
 1770, when they demanded the removal of the British troops from the
 city; and here, too, were held the meetings that led up to the "Boston
 Tea Party" of 1773. Faneuil Hall (the original hall of the name was
@@ -133,15 +133,15 @@ the United States government building (1871-1878, cost about
 $6,000,000); the county court-house (1887-1893, $2,250,000); the
 custom-house (1837-1848); and the chamber of commerce (1892).
 
-Copley Square, in the Back Bay, is finely distinguished by a group of
-exceptional buildings: Trinity church, the old Museum of Fine Arts, the
+[[Copley]] Square, in the Back Bay, is finely distinguished by a group of
+exceptional buildings: Trinity church, the old Museum of [[Fine Arts]], the
 public library and the new Old South church. Trinity (1877, cost
 $800,000), in yellowish granite with dark sandstone trimmings, the
 masterpiece of H.H. Richardson, is built in the Romanesque style of
 southern France; it is a Latin cross surmounted by a massive central
 tower, with smaller towers and an adjacent chapel reached by open
-cloisters that distribute the balance (see ARCHITECTURE, Plate XVI. fig.
-137). It has windows by La Farge, William Morris, Burne-Jones and
+cloisters that distribute the [[Balance|balance]] (see ARCHITECTURE, Plate XVI. fig.
+137). It has windows by La Farge, William Morris, [[Burne-Jones]] and
 others.
 
 The library (1888-1895; cost $2,486,000, exclusive of the site, given
@@ -150,23 +150,23 @@ pinkish-grey stone, built in the style of the Italian Renaissance,
 suggesting a Florentine palace. It has an imposing exterior (see
 ARCHITECTURE, Plate XVI. fig. 135), a beautiful inner court, and notable
 decorative features and embellishments, including bronze doors by D.C.
-French, a statue of Sir Henry Vane by Macmonnies, a fine staircase in
+French, a statue of Sir Henry Vane by [[Macmonnies]], a fine staircase in
 Siena marble, some characteristic decorative panels by Puvis de
 Chavannes (illustrating the history of science and literature), and
 other notable decorative paintings by John S. Sargent (on the history of
 religion), Edwin A. Abbey (on the quest of the Holy Grail). The old
-Museum of Fine Arts (1876) is a red brick edifice in modern Gothic
+Museum of Fine Arts (1876) is a red [[Brick|brick]] edifice in modern [[Gothic]]
 style, with trimmings of light stone and terra-cotta. The new Old South
 (the successor of the Old South, which is now a museum) is a handsome
 structure of Italian Gothic style, with a fine campanile. The dignified
 buildings of the Massachusetts Institute of Technology are near. In
-Huntington Avenue, at its junction with Massachusetts Avenue, is another
+[[Huntington]] Avenue, at its junction with Massachusetts Avenue, is another
 group of handsome new buildings, including Horticultural Hall, Symphony
 Hall (1900) and the New England Conservatory of Music. In the Back Bay
 Fens, reclaimed swamps laid out by F.L. Olmsted, still other groups
 have formed--among others those of the marble buildings of the Harvard
 medical school; Fenway Court, a building in the style, internally, of a
-Venetian palace, that houses the art treasures of Mrs. J.L. Gardner,
+Venetian palace, that houses the art treasures of Mrs. J.L. [[Gardner]],
 and Simmons College. Here, too, is the new building (1908) of the Museum
 of Fine Arts. Throughout the Fens excellently effective use is being
 made of monumental buildings grouped in ample grounds.
@@ -212,7 +212,7 @@ park of 48 acres, in the centre of the city, has been a public
 reservation since 1634, and no city park in the world is cherished more
 affectionately for historical associations. Adjoining it is the Public
 Garden of 24 acres (1859), part of the made area of the city.
-Commonwealth Avenue, one of the Back Bay streets running from the foot
+[[Commonwealth]] Avenue, one of the Back Bay streets running from the foot
 of the Public Garden, is one of the finest residence streets of the
 country. It is 240 ft. wide, with four rows of trees shading the parking
 of its central mall, and is a link through the Back Bay Fens with the
@@ -226,7 +226,7 @@ which extends around the city on a radius of 10 to 12 m., was begun in
 1893. It embraces over 10,000 acres, including the Blue Hill reservation
 (about 5000 acres), the highest land in eastern Massachusetts, a
 beautiful reservation of forest, crag and pond known as Middlesex Fells,
-two large beach bath reservations on the harbour at Revere and Hull
+two large [[Beach|beach]] bath reservations on the harbour at Revere and Hull
 (Nantasket), and the boating section of the Charles river. At the end of
 1907 more than $13,000,000 had been expended on the system. Including
 the local parks of the cities and towns of the metropolitan district
@@ -251,12 +251,12 @@ monuments in the Common, the Public Garden, the grounds of the state
 house, the city hall, and other public places of the city, are statues
 of Charles Sumner, Josiah Quincy and John A. Andrew by Thomas Ball; of
 Generals Joseph Hooker and William F. Bartlett, and of Rufus Choate by
-Daniel C. French; of W.L. Garrison and Charles Devens by Olin L. Warner;
+[[Daniel]] C. French; of W.L. Garrison and Charles [[Devens]] by Olin L. Warner;
 of Samuel Adams by Anne Whitney; of John Winthrop and Benjamin Franklin
-by R.S. Greenough; of Edward Everett (W.W. Story), Colonel W. Prescott
-(Story), Horace Mann (E. Stebbins), Daniel Webster (H. Powers), W.E.
+by R.S. [[Greenough]]; of Edward [[Everett]] (W.W. Story), Colonel W. Prescott
+(Story), Horace [[Mann]] (E. Stebbins), Daniel Webster (H. Powers), W.E.
 Channing (H. Adams), N.P. Banks (H.H. Kitson), Phillips Brooks (A. St
-Gaudens), and J.B. O'Reilly (D.C. French).
+[[Gauden|Gaudens]]), and J.B. O'Reilly (D.C. French).
 
 Among other important monuments are a group by J.Q.A. Ward
 commemorating the first proof of the anaesthetic properties of ether,
@@ -284,24 +284,24 @@ There was a public municipal library in Boston before 1674--probably in
 present library (antedated by several circulating, social and
 professional collections) may justly be said to have had its origin in
 the efforts of the Parisian, Alexandre Vattemare (1796-1864), from 1830
-on, to foster international exchanges. From 1847 to 1851 he arranged
+on, to foster [[International|international]] exchanges. From 1847 to 1851 he arranged
 gifts from France to American libraries aggregating 30,655 volumes, and
 a gift of 50 volumes by the city of Paris in 1843 (reciprocated in 1849
 with more than 1000 volumes contributed by private citizens) was the
 nucleus of the Boston public library. Its legal foundation dates from
 1848. Among the special collections are the George Ticknor library of
 Spanish and Portuguese books (6393 vols.), very full sets of United
-States and British public documents, the Bowditch mathematical library
+States and British public documents, the [[Bowditch]] mathematical library
 (7090 vols.), the Galatea collection on the history of women (2193
 vols.), the Barton library, including one of the finest existing
 collections of Shakespeariana (3309 vols., beside many in the general
 library), the A.A. Brown library of music (9886 vols.), a very full
 collection on the anthropology and ethnology of Europe, and more than
-100,000 volumes on the history, biography, geography and literature of
+100,000 volumes on the history, biography, [[Geography|geography]] and literature of
 the United States. The library is supported almost entirely by municipal
 appropriations, though holding also considerable trust funds ($388,742
 in 1905). The other notable book-collections of the city include those
-of the Athenaeum, founded in 1807 (about 230,000 vols. and pamphlets),
+of the [[Athenaeum]], founded in 1807 (about 230,000 vols. and pamphlets),
 the Massachusetts Historical Society (founded 1791; 50,300), the Boston
 medical library (founded 1874; about 80,000), the New England
 Historic-Genealogical Society (founded 1845; 33,750 volumes and 34,150
@@ -328,9 +328,9 @@ instruction and its high standards of scholarship. It was a pioneer in
 introducing as a feature of its original plans laboratory instruction in
 physics, mechanics and mining. The architects of the United States navy
 are sent here for instruction in their most advanced courses. Boston
-University was endowed by Isaac Rich (1801-1872), a Boston
+University was endowed by [[Isaac]] Rich (1801-1872), a Boston
 fish-merchant, Lee Claflin (1791-1871), a shoe manufacturer and a
-benefactor of Wesleyan University and of Wilbraham Seminary, and Jacob
+benefactor of Wesleyan University and of Wilbraham Seminary, and [[Jacob]]
 Sleeper. It has been co-educational from the beginning. Its faculties of
 theology--founded in 1841 at Newbury, Vt., as the Biblical Institute; in
 1847-1867 in Concord, N.H.; and in 1867-1871 the Boston Theological
@@ -339,7 +339,7 @@ Amherst, in association with the Massachusetts Agricultural College),
 all antedate 1876. The funds for Simmons College were left by John
 Simmons in 1870, who wished to found a school to teach the professions
 and "branches of art, science and industry best calculated to enable the
-scholars to acquire an independent livelihood." The Lowell Institute
+scholars to acquire an independent livelihood." The [[Lowell]] Institute
 (q.v.), established in 1839 (by John Lowell, Jr., who bequeathed
 $237,000 for the purpose), provides yearly courses of free public
 lectures, and its lecturers have included many of the leading scholars
@@ -368,9 +368,9 @@ building changes. The Boston theatre dates from 1854, and there were
 seventeen theatres altogether in 1900.
 
 As a musical centre Boston rivals New York. Among musical organizations
-may be mentioned the Handel and Haydn Society (1815), the Harvard
+may be mentioned the [[Handel]] and Haydn Society (1815), the Harvard
 Musical Association (1837), the Philharmonic (1880) and the Symphony
-Orchestra, organized in 1881 by the generosity of Henry Lee Higginson.
+Orchestra, organized in 1881 by the generosity of Henry Lee [[Higginson]].
 This orchestra has done much for music not only in Boston but in the
 United States generally. In 1908 the Boston Opera Company was
 incorporated, and an opera house has been erected on the north side of
@@ -433,7 +433,7 @@ each second in the world to London only.
 Manufacturing is to-day the most distinctive industry, as was commerce
 in colonial times. The value of all manufactured products from
 establishments under the "factory system" in 1900 was $162,764,523; in
-1905 it was $184,351,163. Among the leading and more distinctive items
+1905 it was $184,351,163. Among the leading and more distinctive [[Item|items]]
 were printing and publishing ($21,023,855 in 1905); sugar and molasses
 refining ($15,746,547 in 1900; figures not published in 1905 because of
 the industry being in the hands of a single owner); men's clothing (in
@@ -549,7 +549,7 @@ Women vote for school committee-men (categories as above, 95.18, 59.62,
 suffrage to women only 59.08% of the women who were registered voted,
 and probably less than 10% of those entitled to be registered.
 
-Hospitals, asylums, refuges and homes, pauper, reformatory and penal
+Hospitals, [[Asylum|asylums]], refuges and homes, pauper, reformatory and penal
 institutions, flower missions, relief associations, and other charitable
 or philanthropic organizations, private and public, number several
 hundreds. The Associated Charities is an incorporated organization for
@@ -560,7 +560,7 @@ diseases, McLean hospital (1816), in the township of Belmont
 Institution and Massachusetts school for the blind (1832), famous for
 its conduct by Samuel G. Howe, and for association with Laura Bridgman
 and Helen Keller; the Massachusetts school for idiotic and feebleminded
-children (1839); and the Massachusetts charitable eye and ear infirmary
+children (1839); and the Massachusetts charitable eye and [[Ear|ear]] infirmary
 (1824), all receive financial aid from the commonwealth, which has
 representation in their management. The city hospital dates from 1864. A
 floating hospital for women and children in the summer months, with
@@ -588,7 +588,7 @@ city.
   expenditure for ten years preceding 1904 was $27,354,416, exclusive of
   payments on funded and floating debts. The running expenses
   _per-capita_ in 1900 were $35.23; more than twice the average of 86
-  leading cities of the country (New York, $23.92; Chicago, $11.62).
+  leading cities of the country (New York, $23.92; [[Chicago]], $11.62).
   Schools, police, charities, water, streets and parks are the items of
   heaviest cost. The cost of the public schools for the five years from
   1901-1902 to 1906-1907 was $27,883,937, of which $7,057,895.42 was for
@@ -615,13 +615,13 @@ city.
   used to meet current expenses. The limits were altered subsequently,
   but the net debt has continued to rise. In 1822 it was $100,000; in
   1850, $6,195,144; in 1886, $24,712,820; in 1904, $58,216,725; in 1907,
-  $70,781,969 (gross debt, $104,206,706)--this included the debt of
+  $70,781,969 ([[Gross|gross]] debt, $104,206,706)--this included the debt of
   Suffolk county which in 1907 was $3,517,000. The chief objects for
   which the city debt was created were in 1907, in millions of dollars:
   highways, 24.07, parks, 16.29, drainage and sewers, 15.05, rapid
   transit, 13.57 and water-works, 4.53. Boston paid in 1907 36% of all
   state taxes, and about 33, 62, 47 and 79% respectively of the
-  assessments for the metropolitan sewer, parks, boulevards and water
+  assessments for the metropolitan sewer, parks, [[Boulevard|boulevards]] and water
   services. About a third of its revenue goes for such uses or for
   Suffolk county expenditures over which it has but limited control. The
   improvement of the Back Bay and of the South Boston flats was in
@@ -646,8 +646,8 @@ divide among themselves a large part of the city, and give to its life a
 cosmopolitan colour of varied speech, opinion, habits, traditions,
 social relations and religions. Most remarkable of all, the Roman
 Catholic churches, in this stronghold of exiled Puritanism where
-Catholics were so long under the heavy ban of law, outnumber those of
-any single Protestant denomination; Irish Catholics dominate the
+Catholics were so long under the heavy [[Ban|ban]] of law, outnumber those of
+any single Protestant [[Denomination|denomination]]; Irish Catholics dominate the
 politics of the city, and Protestants and Catholics have been aligned
 against each other on the question of the control of the public schools.
 Despite, however, its heavy foreign admixture the old Americanism of the
@@ -659,14 +659,14 @@ of each decennial period since 1790 was as follows:--(1790), 18,320;
 
 _History._--John Smith visited Boston Harbour in 1614, and it was
 explored in 1621 by a party from Plymouth. There were various attempts
-to settle about its borders in the following years before John Endecott
+to settle about its borders in the following years before John [[Endecott]]
 in 1628 landed at Salem as governor of the colony of Massachusetts bay,
 within which Boston was included. In June 1630 John Winthrop's company
 reached Charlestown. At that time a "bookish recluse," William Blaxton
-(Blackstone), one of the several "old planters" scattered about the bay,
+([[Blackstone]]), one of the several "old planters" scattered about the bay,
 had for several years been living on Boston peninsula. The location
 seemed one suitable for commerce and defence, and the Winthrop party
-chose it for their settlement. The triple summit of Beacon Hill, of
+[[Chose|chose]] it for their settlement. The triple summit of Beacon Hill, of
 which no trace remains to-day (or possibly a reference to the three
 hills of the then peninsula, Beacon, Copp's and Fort) led to the
 adoption of the name Trimountaine for the peninsula,--a name perpetuated
@@ -692,7 +692,7 @@ News-Letter_, which was published weekly until 1776. Puritanism steadily
 mellowed under many influences. By the turn of the first century bigotry
 was distinctly weakened. Among the marks of the second half of the 17th
 century was growing material prosperity, and there were those who
-thought their fellows unduly willing to relax church tests of fellowship
+thought their [[Fellows|fellows]] unduly willing to relax church tests of fellowship
 when good trade was in question. There was an unpleasant Englishman who
 declared in 1699 that he found "Money Their God, and Large Possessions
 the only Heaven they Covet." Prices were low, foreign commerce was
@@ -704,10 +704,10 @@ similar list for the early years of the second. Boston was a prosperous,
 thrifty, English country town, one traveller thought. Another, Daniel
 Neal, in 1720, found Boston conversation "as polite as in most of the
 cities and towns in England, many of their merchants having the
-advantage of a free conversation with travellers; so that a gentleman
+advantage of a free conversation with travellers; so that a [[Gentleman|gentleman]]
 from London would almost think himself at home at Boston, when he
 observes the number of people, their houses, their furniture, their
-tables, their dress and conversation, which perhaps is as splendid and
+tables, their [[Dress|dress]] and conversation, which perhaps is as splendid and
 showy as that of the most considerable tradesmen in London."
 
 The population, which was almost stationary through much of the century,
@@ -715,7 +715,7 @@ was about 20,000 in the years immediately before the War of
 Independence. At this time Boston was the most flourishing town of North
 America. It built ships as cheaply as any place in the world, it carried
 goods for other colonies, it traded--often evading British laws--with
-Europe, Guinea, Madagascar and above all with the West Indies. The
+Europe, Guinea, [[Madagascar]] and above all with the West Indies. The
 merchant princes and social leaders of the time are painted with
 elaborate show of luxury in the canvases of Copley. The great English
 writers of Queen Anne's reign seem to have been but little known in the
@@ -742,9 +742,9 @@ Act, passed in 1765, was repealed in 1766; it was opposed in Boston by a
 surprising show of determined and unified public sentiment. Troops were
 first quartered in the town in 1768. In 1770, on the 5th of March, in a
 street brawl, a number of citizens were killed or wounded by the
-soldiers, who fired into a crowd that were baiting a sentry. This
+soldiers, who fired into a [[Crowd|crowd]] that were baiting a sentry. This
 incident is known as the "Boston Massacre." The Tea Act of 1773 was
-defied by the emptying into the harbour of three cargoes of tea on the
+defied by the emptying into the harbour of three [[Cargo|cargoes]] of tea on the
 16th of December 1773, by a party of citizens disguised as Indians,
 after the people in town-meeting had exhausted every effort, through a
 period of weeks, to procure the return of the tea-ships to England. To
@@ -755,14 +755,14 @@ royal officers; she ordered capital offenders to be tried in Nova Scotia
 or England; she endeavoured completely to control or to abolish
 town-meetings; and finally, by the so-called "Boston Port Bill," she
 closed the port of Boston on the 1st of June 1774. Not even a ferry, a
-scow or other boat could move in the harbour. Marblehead and Salem were
+scow or other boat could move in the harbour. [[Marblehead]] and Salem were
 made ports of entry, and Salem was made the capital. But they would not
 profit by Boston's misfortune. The people covenanted not to use British
 goods and to suspend trade with Great Britain. From near neighbours and
 from distant colonies came provisions and encouragement. In October
 1774, when General Gage refused recognition to the Massachusetts general
 court at Salem, the members adjourned to Concord as the first provincial
-congress. Finally came war, with Lexington and Bunker Hill, and
+congress. Finally came war, with Lexington and [[Bunker Hill]], and
 beleaguerment by the colonial army; until on the 17th of March 1776 the
 British were compelled by Washington to evacuate the city. With them
 went about 1100 Tory refugees, many of them of the finest families of
@@ -772,7 +772,7 @@ Boston's history. War did not again approach the city.
 The years from 1776 to the end of "town" government in 1822 were marked
 by slow growth and prosperity. Commerce and manufactures alike took
 great impetus. Direct trade with the East Indies began about 1785, with
-Russia in 1787. A Boston vessel, the "Columbia" (Captain Robert Gray),
+Russia in 1787. A Boston vessel, the "[[Columbia]]" (Captain Robert Gray),
 opened trade with the north-west coast of America, and was the first
 American ship to circumnavigate the globe (1787-1790). In 1805 Boston
 began the export of ice to Jamaica, a trade which was gradually extended
@@ -782,7 +782,7 @@ Boston to control the American trade of Calcutta against New York
 throughout the entire period. But of course it was far less important
 than various other articles of trade in the aggregate values of
 commerce. It was Boston commerce that was most sorely hurt by the
-embargo and non-importation policy of President Jefferson. In
+[[Embargo|embargo]] and non-importation policy of President [[Jefferson]]. In
 manufactures the foundation was laid of the city's wealth. In politics
 the period is characterized by Boston's connexion with the fortunes of
 the Federalist party. The city was warmly in favour of the adoption of
@@ -809,7 +809,7 @@ and philosophical developments of the second quarter of the 19th century
 were characterized by the transcendental movement (see MASSACHUSETTS).
 
 In the period from 1822 to the Civil War anti-slavery is the most
-striking feature of Boston's annals. Garrison established the Liberator
+striking feature of Boston's [[Annals|annals]]. Garrison established the Liberator
 in 1831; W.E. Channing became active in the cause of abolition in 1835,
 and Wendell Phillips a little later. In 1835 a mob, composed in part of
 wealthy and high-standing citizens, attacked a city-building, and
@@ -821,7 +821,7 @@ precipitated the riot of that year. In 1851 the Court House was
 surrounded with chains to prevent the "rescue" of a slave (Sims) held
 for rendition under the Fugitive Slave Law; another slave (Shadrach) was
 released this same year, and in 1854 there was a riot and intense
-excitement over the rendition of Anthony Burns. Boston had long since
+excitement over the rendition of Anthony [[Burns]]. Boston had long since
 taken her place in the very front of anti-slavery ranks, and with the
 rest of Massachusetts was playing somewhat the same part as in the years
 before the War of Independence.
@@ -857,7 +857,7 @@ American culture.
   has been described in many works of fiction, and the reader may be
   referred to the novels of E.L. Bynner, to L. Maria Childs' _The
   Rebels_, to J.F. Cooper's _Lionel Lincoln_, to the early novels of
-  W.D. Howells (also those of Arlo Bates), to O.W. Holmes' _Poet_ and
+  W.D. [[Howells]] (also those of Arlo Bates), to O.W. Holmes' _Poet_ and
   _Autocrat_, and Hawthorne's _Scarlet Letter_, as pictures of Boston
   life at various periods since early colonial days.
 
@@ -876,7 +876,7 @@ FOOTNOTES:
     The entire surface of the basin was scraped to bed rock, sand or
     mineral earth, this alone costing $3,000,000. Connected with the
     reservoir is an aqueduct, of which 2 m. are tunnel and 7 m. covered
-    masonry. The metropolitan system as planned in 1905 for the near
+    [[Masonry|masonry]]. The metropolitan system as planned in 1905 for the near
     future contemplated storage for 80,000,000,000 gallons, reservoirs
     holding 2,200,000,000 gallons for immediate use, aqueducts capable of
     carrying 420,000,000 gallons daily, and a minimum daily supply of

@@ -17,7 +17,7 @@ who wrote on agriculture is certainly a different person. Professor
 Gaetano de Sanctis (in _L'Attide di Androzione e un papiro
 di Oxyrhynchos_, Turin, 1908) attributes to Androtion, the
 atthidographer, a 4th-century historical fragment, discovered by
-B.P. Grenfell and A.S. Hunt (_Oxyrhynchus Papyri_, vol. v.). Strong
+B.P. Grenfell and A.S. [[Hunt]] (_Oxyrhynchus Papyri_, vol. v.). Strong
 arguments against this view are set forth by E.M. Walker in the
 _Classical Review_, May 1908.
 

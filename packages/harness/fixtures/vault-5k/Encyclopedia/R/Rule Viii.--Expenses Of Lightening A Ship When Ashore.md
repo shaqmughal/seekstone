@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Rule_Viii.
 RULE VIII.--EXPENSES OF LIGHTENING A SHIP WHEN ASHORE, AND CONSEQUENT
 DAMAGE
 
-When a ship is ashore, and, in order to float her, cargo, bunker coals and
+When a ship is ashore, and, in order to [[Float|float]] her, [[Cargo|cargo]], bunker coals and
 ship's stores, or any of them, are discharged, the extra cost of
 lightening, lighter hire, and reshipping (if incurred), and the loss or
 damage sustained thereby, shall be admitted as G.A.

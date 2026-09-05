@@ -3,8 +3,8 @@
 DONALDSON, JOHN WILLIAM (1811-1861), English philologist and biblical
 critic, was born in London on the 7th of June 1811. He was educated at
 University College, London, and Trinity College, Cambridge, of which
-society he subsequently became fellow. In 1841 he was elected headmaster
-of King Edward's school, Bury St Edmunds. In 1855 he resigned his post
+society he subsequently became [[Fellow|fellow]]. In 1841 he was elected headmaster
+of King Edward's school, [[Bury]] St Edmunds. In 1855 he resigned his post
 and returned to Cambridge, where his time was divided between literary
 work and private tuition. He died on the 10th of February 1861. He is
 remembered as a pioneer of philology in England, and as a great scholar

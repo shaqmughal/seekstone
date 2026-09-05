@@ -19,20 +19,20 @@ defence of self or others needs no comment, except that, like all other
 acts done in defence, its justification depends on whether or not it was
 reasonably necessary for the protection of the person attacked. Among
 persons invested with punitive authority, mention must first be made of
-parents and guardians, and of teachers, who have, by implied delegation
+parents and [[Guardian|guardians]], and of teachers, who have, by implied delegation
 from the parents, and as incidental to the relation of master and pupil,
 powers of reasonable corporal punishment. Such powers are not limited to
 offences committed by the pupil upon the premises of the school, but
 extend to acts done on the way to and from school and during what may be
-properly regarded as school hours (_Cleary_ v. _Booth_, 1893, 1 Q.B.
+properly regarded as school hours (_Cleary_ v. _[[Booth]]_, 1893, 1 Q.B.
 465). The rights of parents, guardians and teachers, in regard to the
-chastisement of children, were expressly recognized in English law by
+chastisement of children, were expressly recognized in [[English Law|English law]] by
 the Prevention of Cruelty to Children Act 1904 (§ 28). Poor law
 authorities and managers of reformatories are in the same position in
 this respect as teachers. The punitive authority of elementary school
 teachers is subject to the regulations of the education authority: that
 of poor law authorities to the regulation of the Home Office and the
-Local Government Board. A master has a right to inflict moderate
+[[Local Government Board]]. A master has a right to inflict moderate
 chastisement upon his apprentice for neglect or other misbehaviour,
 provided that he does so himself, and that the apprentice is under age
 (Archbold, _Cr. Pl._, 23rd ed., 795). Where a legal right of
@@ -52,7 +52,7 @@ exercised in British India (Wilson, _Digest of Anglo-Mahommedan Law_,
 may whip boys playing in church" during divine service. But while the
 right to remove such offenders is undoubted, the right of castigation
 could not now safely be exercised. At common law the master of a ship is
-entitled to inflict reasonable chastisement on a seaman for gross breach
+entitled to inflict reasonable chastisement on a seaman for [[Gross|gross]] [[Breach|breach]]
 of duty. But such offences are now specially provided for by the
 Merchant Shipping Act 1894 (§§ 220-238); and where the provisions of
 that statute are available, corporal punishment would probably be
@@ -74,7 +74,7 @@ illegal.
   84, 85). The mode of inflicting the punishment is prescribed by the
   Convict Prison Rules (rr. 82-85) and the Local Prison Rules (rr.
   88-91), which limit the number of strokes and prescribe the instrument
-  to be used for inflicting them, the cat or birch for prisoners over
+  to be used for inflicting them, the cat or [[Birch|birch]] for prisoners over
   18, and the birch for prisoners under 18.
 
   Corporal punishment for breaches of prison discipline in Scottish
@@ -87,7 +87,7 @@ illegal.
   reference to this power.
 
 At common law, courts of justice had jurisdiction to impose a sentence
-of whipping on persons convicted on indictment for petty larceny or
+of whipping on persons convicted on indictment for petty [[Larceny|larceny]] or
 misdemeanours of the meaner kind (see 1 Bishop, _Amer. Cr. Law_, 8th
 ed., § 942). But they do not now impose such sentence except under
 statutory authority. The whipping of women was absolutely prohibited in
@@ -95,7 +95,7 @@ statutory authority. The whipping of women was absolutely prohibited in
 there are numerous statutes authorizing the imposition of a sentence of
 whipping on male offenders. The following cases may be noted. 1.
 _Adults_: (a) who are incorrigible rogues (Vagrancy Act 1824, § 10); (b)
-who discharge fire-arms, &c., with intent to injure or alarm the
+who discharge fire-arms, &c., with [[Intent|intent]] to injure or alarm the
 sovereign (Treason Act 1842, § 2, and see 8 St. Tr. N.S. 1, and
 _O'Connor's Case_, 1872, ib. p. 3 n.); (c) who are guilty of robbery
 with violence (Larceny Act 1861, § 43), or offences against § 21 of the
@@ -122,10 +122,10 @@ guardian if he desire it.
   1862, § 2).
 
   In Ireland the law is in substance the same as in England; for special
-  statutes see official _Index to Statutes_ (ed. 1905), p. 985, art.
+  statutes see official _[[Index]] to Statutes_ (ed. 1905), p. 985, art.
   Punishment, 6.
 
-  The flogging of women is prohibited throughout British India (Code of
+  The flogging of women is prohibited throughout British India ([[Code]] of
   Criminal Procedure, Act v. of 1898, § 393) and the British colonies,
   where the infliction of corporal punishment by judicial order is in
   the main regulated on the lines of modern English legislation. In some
@@ -143,7 +143,7 @@ punishment is applicable for wife-beating. Flogging is in force as a
 disciplinary measure in some penal institutions.
 
 It has been suggested by Laurent (_Principes de droit civil français_
-(1870), vol. iv. § 275) that the express definition in the French Code
+(1870), vol. iv. § 275) that the express [[Definition|definition]] in the French Code
 Civil (arts. 371 et seq.) of parental rights over children excludes the
 power of corporal punishment. But this view is not generally accepted.
 The parental right of moderate chastisement is expressly reserved in the

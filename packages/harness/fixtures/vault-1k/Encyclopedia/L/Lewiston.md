@@ -25,7 +25,7 @@ liberal benefactor. In 1908-1909 the college had 25 instructors and 440
 students, and its library contained 34,000 volumes. The campus of the
 college is about 1 m. from the business portion of Lewiston and covers
 50 acres; among the college buildings are an auditorium (1909) given by
-W. Scott Libbey of Lewiston, and the Libbey Forum for the use of the
+W. Scott Libbey of Lewiston, and the Libbey [[Forum]] for the use of the
 three literary societies and the two Christian associations of the
 college. The literary societies give excellent training in forensics.
 The matriculation pledge requires from male students total abstinence
@@ -45,7 +45,7 @@ S. Grant in the national Capitol, and for "Grief" and "History" on the
 Peace Monument at Washington. In Lewiston are the Central Maine General
 Hospital (1888), the Sisters' Hospital (1888), under the charge of the
 French Catholic Sisters of Charity, a home for aged women, a young
-women's home and the Hesley Asylum for boys. The Shrine Building (Kora
+women's home and the Hesley [[Asylum]] for boys. The Shrine Building (Kora
 Temple), dedicated in 1909, is the headquarters of the Shriners of the
 state. The river at Lewiston breaks over a ledge of mica-schist and
 gneiss, the natural fall of 40 ft. having been increased to more than 50

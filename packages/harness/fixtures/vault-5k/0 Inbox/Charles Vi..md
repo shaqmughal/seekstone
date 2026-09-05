@@ -2,20 +2,20 @@
 
 CHARLES VI. (1368-1422), king of France, son of Charles V. and Jeanne of
 Bourbon, was born in Paris on the 3rd of December 1368. He received the
-appanage of Dauphine at his birth, and was thus the first of the princes
+[[Appanage|appanage]] of [[Dauphine]] at his birth, and was thus the first of the princes
 of France to bear the title of dauphin from infancy. Charles V. had
 entrusted his education to Philippe de Mezieres, and had fixed his
 majority at fourteen. He succeeded to the throne in 1380, at the age of
 twelve, and the royal authority was divided between his paternal uncles,
-Louis, duke of Anjou, John, duke of Berry, Philip the Bold, duke of
+Louis, duke of Anjou, John, duke of [[Berry]], Philip the Bold, duke of
 Burgundy, and his mother's brother, Louis II., duke of Bourbon. In
 accordance with an ordinance of the late king the duke of Anjou became
 regent, while the guardianship of the young king, together with the
-control of Paris and Normandy, passed to the dukes of Burgundy and
+control of Paris and Normandy, passed to the [[Dukes|dukes]] of Burgundy and
 Bourbon, who were to be assisted by certain of the councillors of
 Charles V. The duke of Berry, excluded by this arrangement, was
 compensated by the government of Languedoc and Guienne. Anjou held the
-regency for a few months only, until the king's coronation in November
+regency for a few months only, until the king's [[Coronation|coronation]] in November
 1380. He enriched himself from the estate of Charles V. and by excessive
 exactions, before he set out in 1382 for Italy to effect the conquest of
 Naples. Considerable discontent existed in the south of France at the
@@ -26,7 +26,7 @@ Flanders, with Amiens, Orleans, Reims and other French towns, also rose
 (1382) in revolt against their masters. The _Maillotins_, as the
 Parisian insurgents were named from the weapon they used, gained the
 upper hand in Paris, and were able temporarily to make terms, but the
-commune of Rouen was abolished, and the _Tuchins_, as the marauders in
+[[Commune|commune]] of Rouen was abolished, and the _Tuchins_, as the marauders in
 Languedoc were called, were pitilessly hunted down. Charles VI. marched
 to the help of the count of Flanders against the insurgents headed by
 Philip van Artevelde, and gained a complete victory at Roosebeke
@@ -49,8 +49,8 @@ he deprived the duke of Berry of the government of Languedoc. The
 opening years of Charles VI.'s effective rule promised well, but excess
 in gaiety of all kinds undermined his constitution, and in 1392 he had
 an attack of madness at Le Mans, when on his way to Brittany to force
-from John V. the surrender of his cousin Pierre de Craon, who had tried
-to assassinate the constable Olivier de Clisson in the streets of Paris.
+from John V. the surrender of his [[Cousin|cousin]] Pierre de Craon, who had tried
+to assassinate the constable Olivier de [[Clisson]] in the streets of Paris.
 Other attacks followed, and it became evident that Charles was unable
 permanently to sustain the royal authority. Clisson, Bureau de la
 Riviere, Jean de Mercier, and the other _marmousets_ were driven from
@@ -64,11 +64,11 @@ diplomatic advantages gained by this union. In France the country was
 disturbed by the papal schism. At an assembly of the clergy held in
 Paris in 1398 it was resolved to refuse to recognize the authority of
 Benedict XIII., who succeeded Clement VII. as schismatic pope at
-Avignon. The question became a party one; Benedict was supported by
+[[Avignon]]. The question became a party one; Benedict was supported by
 Louis of Orleans, while Philip the Bold and the university of Paris
 opposed him. Obedience to Benedict's authority was resumed in 1403, only
 to be withdrawn again in 1408, when the king declared himself the
-guardian and protector of the French church, which was indeed for a time
+[[Guardian|guardian]] and protector of the French church, which was indeed for a time
 self-governing. Edicts further extending the royal power in
 ecclesiastical affairs were even issued in 1418, after the schism was at
 an end.
@@ -95,11 +95,11 @@ party known as the Armagnacs (see ARMAGNAC), against the Burgundians who
 had gained the upper hand in the royal council. In 1411 John the
 Fearless contracted an alliance with Henry IV. of England, and civil war
 began in the autumn, but in 1412 the Armagnacs in their turn sought
-English aid, and, by promising the sovereignty of Aquitaine to the
+English aid, and, by promising the sovereignty of [[Aquitaine]] to the
 English king, gave John the opportunity of posing as defender of France.
 In Paris the Burgundians were hand in hand with the corporation of the
 butchers, who were the leaders of the Parisian populace. The
-malcontents, who took their name from one of their number, Caboche,
+malcontents, who took their name from one of their number, [[Caboche]],
 penetrated into the palace of the dauphin Louis, and demanded the
 surrender of the unpopular members of his household. A royal ordinance,
 promising reforms in administration, was promulgated on the 27th of May
@@ -118,7 +118,7 @@ apparent. Paris was governed by Bernard of Armagnac, constable of
 France, who expelled all suspected of Burgundian sympathies and treated
 Paris like a conquered city. Queen Isabeau was imprisoned at Tours, but
 escaped to Burgundy. The capture of Paris by the Burgundians on the 20th
-of May 1418 was followed by a series of horrible massacres of the
+of May 1418 was followed by a series of horrible [[Massacre|massacres]] of the
 Armagnacs; and in July Duke John and Isabeau, who assumed the title of
 regent, entered Paris. Meanwhile Henry V. had completed the conquest of
 Normandy. The murder of John the Fearless in 1419 under the eyes of the
@@ -145,7 +145,7 @@ came to Paris in September 1422, and died on the 21st of October.
   covering the first half of the 15th century (Eng. trans., 4 vols.,
   1809); _Chronique des quatre premiers Valois_, by an unknown author,
   ed. S. Luce (1862). See also E. Lavisse, _Hist, de France_, iv. 267
-  seq.; E. Petit, "Sejours de Charles VI," _Bull. du com. des travaux
+  seq.; E. Petit, "Sejours de Charles VI," _[[Bull]]. du com. des travaux
   hist._ (1893); Vallet de Viriville, "Isabeau de Baviere," _Revue
   francaise_ (1858-1859); M. Thibaut, _Isabeau de Baviere_ (1903).
 

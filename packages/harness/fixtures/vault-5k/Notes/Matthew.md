@@ -12,7 +12,7 @@ addition there has been from an early time the belief that it was the
 work of one of those publicans whose heart Jesus touched and of whose
 call to follow Him the three Synoptics contain an interesting account,
 but who is identified as Matthew (q.v.) only in this one (Matt. ix. 9-13
-= Mark ii. 13-17 = Luke v. 27-32).
+= Mark ii. 13-17 = [[Luke]] v. 27-32).
 
 1. _The Connexion of our Greek Gospel of Matthew with the Apostle whose
 name it bears._--The earliest reference to a writing by Matthew occurs
@@ -40,7 +40,7 @@ sayings than the composition of a work corresponding in form and
 character to our Gospel of Matthew.
 
 The next reference in Christian literature to a Gospel-record by Matthew
-is that of Irenaeus in his famous passage on the four Gospels (_Adv.
+is that of [[Irenaeus]] in his famous passage on the four Gospels (_Adv.
 haer._ iii. i. r). He says that it was written in Hebrew; but in all
 probability he regarded the Greek Gospel, which stood first in his, as
 it does in our, enumeration, as in the strict sense a translation of the
@@ -75,7 +75,7 @@ arrangement of the book itself is significant.
 
   (a) As to the general outline in the first half of the account of the
   Galilean ministry (iv. 23-xi. 30). Immediately after relating the call
-  of the first four disciples (iv. 18-22) the evangelist gives in iv. 23
+  of the first four [[Disciple|disciples]] (iv. 18-22) the evangelist gives in iv. 23
   a comprehensive summary of Christ's work in Galilee under its two
   chief aspects, teaching and healing. In the sequel both these are
   illustrated. First, he gives in the Sermon on the Mount (v.-vii.) a
@@ -117,7 +117,7 @@ arrangement of the book itself is significant.
   his sources, he has combined other pieces, taken from other parts of
   the same source or from different sources, which seemed to him
   connected in subject, e.g. into the discourse spoken on a mountain,
-  when crowds from all parts were present, given in the Logian document,
+  when [[Crowd|crowds]] from all parts were present, given in the Logian document,
   he has introduced some pieces which, as we infer from Luke, stood
   separately in that document (cf. Matt. vi. 19-21 with Luke xii. 33,
   34; Matt. vi. 22, 23 with Luke xi. 34-36; Matt. vi. 24 with Luke xvi.
@@ -152,7 +152,7 @@ arrangement of the book itself is significant.
   setting of this guard and their presence at the Resurrection, which at
   an earlier point arc peculiar to Matthew (xxvii. 62-66, xxviii. 4).
   And, further, this matter seems to belong to the same cycle of
-  tradition as the story of Pilate's wife and his throwing the guilt of
+  tradition as the story of Pilate's wife and his throwing the [[Guilt|guilt]] of
   the Crucifixion of Jesus upon the Jews, and the testimony borne by
   the Roman guard (as well as the centurion) who kept watch by the cross
   (xxvii. 15-26, 54), all which also are peculiar to this Gospel. It
@@ -166,7 +166,7 @@ arrangement of the book itself is significant.
   xxiv. 47, and by the present ending of Mark (xvi. 15), though neither
   of these mention Galilee as the place where it was given. The
   baptismal formula in Matt. xxviii. 19, is, however, peculiar, and in
-  view of its non-occurrence in the Acts and Epistles of the New
+  view of its non-occurrence in the Acts and [[Epistle|Epistles]] of the New
   Testament must be regarded as probably an addition in accordance with
   Church usage at the time the Gospel was written.
 
@@ -213,7 +213,7 @@ also specially concerned to show that prophecy is fulfilled in the life
 and work of Jesus, but the conception of this fulfilment which is
 presented to us is a large one; it is to be seen not merely in
 particular events or features of Christ's ministry, but in the whole new
-dispensation, new relations between God and men, and new rules of
+[[Dispensation|dispensation]], new relations between God and men, and new rules of
 conduct which Christ has introduced. The divine meaning of the work of
 Jesus is thus made apparent, while of the majesty and glory of His
 person a peculiarly strong impression is conveyed.
@@ -259,7 +259,7 @@ in question.
 
   (c) _The Teaching on the Kingdom of God._--Note the collection of
   parables "of the Kingdom" in xiii.; also the use of [Greek: hê
-  basileia] ("the Kingdom") without further definition as a term the
+  basileia] ("the Kingdom") without further [[Definition|definition]] as a term the
   reference of which could not be misunderstood, especially in the
   following phrases peculiar to this Gospel: [Greek: to euangelion tês
   basileias] ("the Gospel of the Kingdom") iv. 23, ix. 35, xxiv. 14; and
@@ -313,7 +313,7 @@ Palestine, either personally or through the sources at his command, or
 both, his book was composed in Greek by the aid of Greek documents.
 
   See commentaries by Th. Zahn (1903) and W. C. Allen (in the series of
-  International Critical Commentaries, 1907); also books on the Four
+  [[International]] Critical Commentaries, 1907); also books on the Four
   Gospels or the Synoptic Gospels cited at the end of GOSPEL.
        (V. H. S.)
 

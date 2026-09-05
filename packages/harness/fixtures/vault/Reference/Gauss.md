@@ -1,6 +1,6 @@
 # Gauss
 
-GAUSS, KARL FRIEDRICH (1777-1855), German mathematician, was born of
+GAUSS, KARL [[Friedrich|FRIEDRICH]] (1777-1855), German mathematician, was born of
 humble parents at Brunswick on the 30th of April 1777, and was indebted
 for a liberal education to the notice which his talents procured him
 from the reigning duke. His name became widely known by the publication,
@@ -8,12 +8,12 @@ in his twenty-fifth year (1801), of the _Disquisitiones arithmeticae_.
 In 1807 he was appointed director of the Göttingen observatory, an
 office which he retained to his death: it is said that he never slept
 away from under the roof of his observatory, except on one occasion,
-when he accepted an invitation from Baron von Humboldt to attend a
+when he accepted an invitation from Baron von [[Humboldt]] to attend a
 meeting of natural philosophers at Berlin. In 1809 he published at
-Hamburg his _Theoria motus corporum coelestium_, a work which gave a
+[[Hamburg]] his _Theoria motus corporum coelestium_, a work which gave a
 powerful impulse to the true methods of astronomical observation; and
 his astronomical workings, observations, calculations of orbits of
-planets and comets, &c., are very numerous and valuable. He continued
+planets and [[Comet|comets]], &c., are very numerous and valuable. He continued
 his labours in the theory of numbers and other analytical subjects, and
 communicated a long series of memoirs to the Royal Society of Sciences
 (_Königliche Gesellschaft der Wissenschaften_) at Göttingen. His first
@@ -21,7 +21,7 @@ memoir on the theory of magnetism, _Intensitas vis magneticae terrestris
 ad mensuram absolutam revocata_, was published in 1833, and he shortly
 afterwards proceeded, in conjunction with Wilhelm Weber, to invent new
 apparatus for observing the earth's magnetism and its changes; the
-instruments devised by them were the declination instrument and the
+instruments devised by them were the [[Declination|declination]] instrument and the
 bifilar magnetometer. With Weber's assistance he erected in 1833 at
 Göttingen a magnetic observatory free from iron (as Humboldt and F.J.D.
 Arago had previously done on a smaller scale), where he made magnetic
@@ -53,7 +53,7 @@ celebrated (1877) at his native place, Brunswick.
   Göttingen, in 7 vols. 4to (Gött., 1863-1871), edited by E.J.
   Schering--(1) the _Disquisitiones arithmeticae_, (2) _Theory of
   Numbers_, (3) _Analysis_, (4) _Geometry and Method of Least Squares_,
-  (5) _Mathematical Physics_, (6) _Astronomy_, and (7) the _Theoria
+  (5) _Mathematical Physics_, (6) _[[Astronomy]]_, and (7) the _Theoria
   motus corporum coelestium_. Additional volumes have since been
   published, _Fundamente der Geometrie usw_. (1900), and _Geodatische
   Nachträge zu Band iv_. (1903). They include, besides his various works
@@ -70,15 +70,15 @@ celebrated (1877) at his native place, Brunswick.
   the theory of biquadratic residues, in which the notion of complex
   numbers of the form a + _bi_ was first introduced into the theory of
   numbers; and included in the _Nachlass_ are some valuable tables. That
-  for the conversion of a fraction into decimals (giving the complete
+  for the [[Conversion|conversion]] of a fraction into decimals (giving the complete
   period for all the prime numbers up to 997) is a specimen of the
   extraordinary love which Gauss had for long arithmetical calculations;
   and the amount of work gone through in the construction of the table
   of the number of the classes of binary quadratic forms must also have
   been tremendous. In vol. iii. we have memoirs relating to the proof of
-  the theorem that every numerical equation has a real or imaginary
+  the theorem that every numerical [[Equation|equation]] has a real or imaginary
   root, the memoir on the _Hypergeometric Series_, that on
-  _Interpolation_, and the memoir _Determinatio attractionis_--in which
+  _[[Interpolation]]_, and the memoir _Determinatio attractionis_--in which
   a planetary mass is considered as distributed over its orbit according
   to the time in which each portion of the orbit is described, and the
   question (having an implied reference to the theory of secular
@@ -88,13 +88,13 @@ celebrated (1877) at his native place, Brunswick.
   researches on this subject, and also researches (unfortunately very
   fragmentary) on the lemniscate-function, &., showing that Gauss was,
   even before 1800, in possession of many of the discoveries which have
-  made the names of N.H. Abel and K.G.J. Jacobi illustrious. In vol. iv.
+  made the names of N.H. Abel and K.G.J. [[Jacobi]] illustrious. In vol. iv.
   we have the memoir _Allgemeine Auflösung_, on the graphical
   representation of one surface upon another, and the _Disquisitiones
   generales circa superficies curvas_. (An account of the treatment of
   surfaces which he originated in this paper will be found in the
   article SURFACE.) And in vol. v. we have a memoir _On the Attraction
-  of Homogeneous Ellipsoids_, and the already mentioned memoir
+  of Homogeneous [[Ellipsoid|Ellipsoids]]_, and the already mentioned memoir
   _Allgemeine Lehrsätze_, on the theory of forces attracting according
   to the inverse square of the distance.     (A. Ca.)
 

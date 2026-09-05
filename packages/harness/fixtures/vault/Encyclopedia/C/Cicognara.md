@@ -21,26 +21,26 @@ took up his abode at Modena, and was for twelve years engaged in
 politics, becoming a member of the legislative body, a councillor of
 state, and minister plenipotentiary of the Cisalpine Republic at Turin.
 Napoleon decorated him with the Iron Crown; and in 1808 he was made
-president of the Academy of the Fine Arts at Venice, a post in which he
+president of the Academy of the [[Fine Arts]] at Venice, a post in which he
 did good work for a number of years. In 1808 appeared his treatise _Del
 bello ragionamenti_, dedicated in glowing terms to Napoleon. This was
-followed (1813-1818) by his _magnum opus_, the _Storia delta scultura
+followed (1813-1818) by his _magnum opus_, the _Storia [[Delta|delta]] scultura
 dal suo risorgimento in Italia al secolo di Napoleone_, in the
-composition of which he had been encouraged and advised by Giordano and
+composition of which he had been encouraged and advised by [[Giordano]] and
 Wilhelm Schlegel (1767-1845). The book was designed to complete the
 works of Winckelmann and D'Agincourt, and is illustrated with 180 plates
 in outline. In 1814, on the fall of Napoleon, Cicognara was patronized
 by Francis I. of Austria, and published (1815-1820), under the auspices
 of that sovereign, his _Fabbriche più cospicue di Venezia_, two superb
-folios, containing some 150 plates. Charged by the Venetians with the
+[[Folio|folios]], containing some 150 plates. Charged by the Venetians with the
 presentation of their gifts to the empress Caroline at Vienna, Cicognara
-added to the offering an illustrated catalogue of the objects it
+added to the offering an illustrated [[Catalogue|catalogue]] of the objects it
 comprised; this book, _Omaggio delle Provincie Venete alla maestà di
 Carolina Augusta_, has since become of great value to the bibliophilist.
 Reduced to poverty by these splendid editorial speculations, Cicognara
 contrived to alienate the imperial favour by his political opinions. He
 left Venice for Rome; his library was offered for sale; and in 1821 he
-published at Pisa a _catalogue raisonné_, rich in bibliographical lore,
+published at Pisa a _catalogue raisonné_, rich in bibliographical [[Lore|lore]],
 of this fine collection, the result of thirty years of loving labour,
 which in 1824 was purchased _en bloc_ by Pope Leo XII., and added to the
 Vatican library. The other works of Cicognara are--the _Memorie storiche

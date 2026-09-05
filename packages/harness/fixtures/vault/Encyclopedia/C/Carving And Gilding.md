@@ -7,7 +7,7 @@ gilders," and the terms still continue to be the recognized trade-name
 of frame-making, although very little of the ornamentation of frame-work
 is now accomplished by carving, and much of the so-called gilt ornament
 is produced without the use of gold. The trade has to do primarily with
-the frames of pictures, engravings and mirrors, but many of the light
+the [[Frame|frames]] of pictures, engravings and mirrors, but many of the light
 decorative fittings of houses, finished in "composition" and gilt work,
 are also entrusted to the carver and gilder. Fashion in picture frames,
 like all fashions, fluctuates greatly. Mouldings of the prevailing sizes
@@ -28,7 +28,7 @@ operations of the frame-maker. The foundation of such a frame is soft
 pine wood, in which a moulding of the required size and section is
 roughly run. To prevent warping the moulding is, or ought to be, made
 from two or more pieces of wood glued together. The moulding is
-"whitened up," or prepared for gilding by covering it with repeated
+"whitened up," or prepared for [[Gilding|gilding]] by covering it with repeated
 coatings of a mixture of finely powdered whiting and size. When a
 sufficient thickness of the whitening mixture has been applied, the
 whole surface is carefully smoothed off with pumice-stone and
@@ -45,7 +45,7 @@ ornament, while yet soft and plastic, is laid on the moulding, and
 fitting into all the curves, &c., is fixed with glue. The ornamental
 surface so prepared quickly sets and becomes very hard and brittle. When
 very large bold ornaments are wanted for frames of unusual size they are
-moulded in _papier maché._ Two methods of laying on gold--oil-gilding
+moulded in _papier [[Mach|mach]]é._ Two methods of laying on gold--oil-gilding
 and water-gilding--are practised, the former being used for frames
 broken up with enrichments. For oil-gilding the moulding is prepared
 with two coats of fine thin size to fill the pores of the wood, and

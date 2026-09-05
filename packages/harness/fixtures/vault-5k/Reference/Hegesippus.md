@@ -35,12 +35,12 @@ Thomas a Kempis, at that time canon of the convent of St Agnes at
 Zwolle. In 1474 he settled down at Deventer in Holland, where he either
 founded or succeeded to the headship of a school, which became famous
 for the number of its distinguished alumni. First and foremost of these
-was Erasmus; others were Hermann von dem Busche, the missionary of
-humanism, Conrad Goclenius (Gockelen), Conrad Mutianus (Muth von Mudt)
+was Erasmus; others were [[Hermann]] von dem Busche, the missionary of
+[[Humanism|humanism]], Conrad Goclenius (Gockelen), Conrad Mutianus (Muth von Mudt)
 and pope Adrian VI. Hegius died at Deventer on the 7th of December 1498.
 His writings, consisting of short poems, philosophical essays,
 grammatical notes and letters, were published after his death by his
-pupil Jacob Faber. They display considerable knowledge of Latin, but
+pupil [[Jacob]] Faber. They display considerable knowledge of Latin, but
 less of Greek, on the value of which he strongly insisted. Hegius's
 chief claim to be remembered rests not upon his published works, but
 upon his services in the cause of humanism. He succeeded in abolishing
@@ -50,12 +50,12 @@ generosity in assisting poor students exhausted a considerable fortune,
 and at his death he left nothing but his books and clothes.
 
   See D. Reichling, "Beitrage zur Charakteristik des Alex. Hegius," in
-  the _Monatsschrift fur Westdeutschland_ (1877); H. Hamelmann, _Opera
+  the _Monatsschrift [[Fur|fur]] Westdeutschland_ (1877); H. Hamelmann, _Opera
   genealogico-historica_ (1711); H. A. Erhard, _Geschichte des
   Wiederaufbluhens wissenschaftlicher Bildung_ (1826); C. Krafft and W.
   Crecelius, "Alexander Hegius und seine Schuler," from the works of
   Johannes Butzbach, one of Hegius's pupils, in _Zeitschrift des
-  bergischen Geschichtsvereins_, vii. (Bonn, 1871).
+  bergischen Geschichtsvereins_, vii. ([[Bonn]], 1871).
 
 ## References
 

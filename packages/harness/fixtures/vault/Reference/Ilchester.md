@@ -9,7 +9,7 @@ but its historical interest is considerable. The parish church of St
 Mary is Early English and Perpendicular, with a small octagonal tower,
 but has been largely restored in modern times. The town possesses
 almshouses founded in 1426, a picturesque cross, and a curious ancient
-mace of the former corporation.
+[[Mace|mace]] of the former corporation.
 
 Ilchester (_Cair Pensavelcoit_, _Ischalis_, _Ivelcestre_,
 _Yevelchester_) was a fortified British settlement, and subsequently a
@@ -19,7 +19,7 @@ with 107 burgesses. In 1180 a gild merchant was established, and the
 county gaol was completed in 1188. Henry II. granted a charter,
 confirmed by John in 1203, which gave Ilchester the same liberties as
 Winchester, with freedom from tolls and from being impleaded without the
-walls, the fee farm being fixed at £26, 10s. 0d. The bailiffs of
+walls, the [[Fee|fee]] farm being fixed at £26, 10s. 0d. The bailiffs of
 Ilchester are mentioned before 1230. The borough was incorporated in
 1556, the fee farm being reduced to £8. Ilchester was the centre of the
 county administration from the reign of Edward III. until the 19th
@@ -32,22 +32,22 @@ December, the 21st of July, and the Monday before Palm Sunday, were held
 under a charter of 1289. The latter, fixed as the 25th of March, was
 still held at the end of the 18th century, but there is now no fair. The
 Wednesday market dates from before the Conquest. The manufacture of
-thread lace was replaced by silk weaving about 1750, but this has
+thread [[Lace|lace]] was replaced by silk weaving about 1750, but this has
 decayed.
 
 
 
 
 ÎLE-DE-FRANCE, an old district of France, forming a kind of island,
-bounded by the Seine, the Marne, the Beuvronne, the Thève and the Oise.
+bounded by the Seine, the [[Marne]], the Beuvronne, the Thève and the Oise.
 In this sense the name is not found in written documents before 1429;
 but in the second half of the 15th century it designated a wide military
 province of government, bounded N. by Picardy, W. by Normandy, S. by
-Orléanais and Nivernais, and E. by Champagne. Its capital was Paris.
+Orléanais and Nivernais, and E. by [[Champagne]]. Its capital was Paris.
 From the territory of Île-de-France were formed under the Revolution the
 department of the Seine, together with the greater part of
 Seine-et-Oise, Seine-et-Marne, Oise and Aisne, and a small part of
-Loiret and Nièvre. (The term Île-de-France is also used for Mauritius,
+[[Loiret]] and Nièvre. (The term Île-de-France is also used for [[Mauritius]],
 q.v.).
 
   See A. Longnon, "L'Île-de-France, son origine, ses limites, ses

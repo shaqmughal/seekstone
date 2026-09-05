@@ -29,7 +29,7 @@ might easily have been done by a moderate display of firmness. At last,
 disgusted with the excesses which he had been unable to control, he
 resigned (August 15, 1793). On the 2nd of October he was arrested for
 Girondist sympathies but soon released, and he escaped further
-molestation owing to the friendship of Barras and, more especially, of
+molestation owing to the friendship of [[Barra|Barras]] and, more especially, of
 Robespierre, whose literary _amour-propre_ he had been careful to
 flatter. On the 9th Thermidor, however, he took sides against
 Robespierre, and on the 12th of September 1794 he was named by the
@@ -37,7 +37,7 @@ Convention as a member of the executive committee of public instruction.
 In 1798 he was appointed ambassador to Naples, and in the following year
 he became a member, then president, of the Council of the Ancients.
 Alter the revolution of the 18th Brumaire he was chosen a senator by
-Napoleon and created a count. During the Hundred Days he was a member of
+Napoleon and created a count. During the [[Hundred Days]] he was a member of
 the chamber of representatives. In 1803 he was chosen a member of the
 Institute of France, but after the restoration of Louis XVIII. his name
 was, in 1816, deleted from the list of members. After the revolution of
@@ -54,7 +54,7 @@ inconsistent. He must not be confounded with his elder brother Dominique
   _Considerations sur la Revolution Francaise_ (Paris, 1792); _Memoires
   sur la Revolution, ou expose de ma conduite_ (1795); _Memoires sur la
   vie de M. Suard, sur ses ecrits, et sur le XVIII^e siecle_ (1820);
-  eloges on Joubert, Kleber and Desaix; several notices of distinguished
+  eloges on [[Joubert]], Kleber and Desaix; several notices of distinguished
   persons; and a large number of articles in periodicals. Valuable
   materials for the history of Garat's tenure of the ministry, notably
   the police reports of Dutard, are given in W.A. Schmidt's _Tableaux de

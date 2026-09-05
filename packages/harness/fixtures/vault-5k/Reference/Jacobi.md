@@ -1,16 +1,16 @@
 # Jacobi
 
-JACOBI, FRIEDRICH HEINRICH (1743-1819), German philosopher, was born at
+JACOBI, [[Friedrich|FRIEDRICH]] HEINRICH (1743-1819), German philosopher, was born at
 Düsseldorf on the 25th of January 1743. The second son of a wealthy
 sugar merchant near Düsseldorf, he was educated for a commercial career.
 Of a retiring, meditative disposition, Jacobi associated himself at
-Geneva mainly with the literary and scientific circle of which the most
+[[Geneva]] mainly with the literary and scientific circle of which the most
 prominent member was Lesage. He studied closely the works of Charles
 Bonnet, and the political ideas of Rousseau and Voltaire. In 1763 he was
 called back to Düsseldorf, and in the following year he married and took
 over the management of his father's business. After a short period he
 gave up his commercial career, and in 1770 became a member of the
-council for the duchies of Jülich and Berg, in which capacity he
+council for the duchies of Jülich and [[Berg]], in which capacity he
 distinguished himself by his ability in financial affairs, and his zeal
 in social reform. Jacobi kept up his interest in literary and
 philosophic matters by an extensive correspondence, and his mansion at
@@ -55,7 +55,7 @@ in Holstein. While there he became intimately acquainted with Reinhold
 Unternehmen des Kriticismus, die Vernunft zu Verstande zu bringen_ was
 first published), and with Matthias Claudius, the editor of the
 _Wandsbecker Bote_. During the same period the excitement caused by the
-accusation of atheism brought against Fichte at Jena led to the
+accusation of [[Atheism|atheism]] brought against Fichte at Jena led to the
 publication of Jacobi's _Letter to Fichte_ (1799), in which he made more
 precise the relation of his own philosophic principles to theology. Soon
 after his return to Germany, Jacobi received a call to Munich in
@@ -81,7 +81,7 @@ also an important preface.
   in succession upon those systematic doctrines which appear to stand
   most sharply in contradiction to it, and any positive philosophic
   results are given only occasionally. The leading idea of the whole is
-  that of the complete separation between understanding and apprehension
+  that of the complete separation between understanding and [[Apprehension|apprehension]]
   of real fact. For Jacobi understanding, or the logical faculty, is
   purely formal or elaborative, and its results never transcend the
   given material supplied to it. From the basis of immediate experience
@@ -119,7 +119,7 @@ also an important preface.
   Spinozism; (3) the philosophy of Leibnitz and Wolff is not less
   fatalistic than that of Spinoza, and carries a resolute thinker to the
   very principles of Spinoza; (4) every demonstrative method ends in
-  fatalism; (5) we can demonstrate only similarities (agreements, truths
+  [[Fatalism|fatalism]]; (5) we can demonstrate only similarities (agreements, truths
   conditionally necessary), proceeding always in identical propositions;
   every proof presupposes something already proved, the principle of
   which is immediately given (_Offenbarung_, revelation, is the term
@@ -163,7 +163,7 @@ also an important preface.
   seiner Zeit_ (1834); F. Deycks, _F. H. Jacobi im Verhältnis zu seinen
   Zeitgenossen_ (1848); H. Düntzer, _Freundesbilder aus Goethes Leben_
   (1853); E. Zirngiebl, _F. H. Jacobis Leben, Dichten, und Denken_,
-  1867; F. Harms, _Über die Lehre von F. H. Jacobi_ (1876). Jacobi's
+  1867; F. [[Harms]], _Über die Lehre von F. H. Jacobi_ (1876). Jacobi's
   _Auserlesener Briefwechsel_ has been edited by F. Roth in 2 vols.
   (1825-1827).
 

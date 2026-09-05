@@ -10,8 +10,8 @@ type: source
 LELEGES, the name applied by Greek writers to an early people or peoples
 of which traces were believed to remain in Greek lands.
 
-1. _In Asia Minor._--In Homer the Leleges are allies of the Trojans, but
-they do not occur in the formal catalogue in _Iliad_, bk. ii., and
+1. _In Asia Minor._--In [[Homer]] the Leleges are allies of the Trojans, but
+they do not occur in the formal [[Catalogue|catalogue]] in _Iliad_, bk. ii., and
 their habitat is not specified. They are distinguished from the Carians,
 with whom some later writers confused them; they have a king Altes, and
 a town Pedasus which was sacked by Achilles. The name Pedasus occurs
@@ -27,7 +27,7 @@ In the 4th century, however, Philippus of Theangela in south Caria
 describes Leleges still surviving as serfs of the true Carians, and
 Strabo, in the 1st century B.C., attributes to the Leleges a well-marked
 group of deserted forts, tombs and dwellings which ranged (and can still
-be traced) from the neighbourhood of Theangela and Halicarnassus as far
+be traced) from the neighbourhood of Theangela and [[Halicarnassus]] as far
 north as Miletus, the southern limit of the "true Carians" of
 Pherecydes. Plutarch also implies the historic existence of Lelegian
 serfs at Tralles in the interior.
@@ -39,12 +39,12 @@ century B.C. does any other writer place them anywhere west of the
 Aegean. But the confusion of the Leleges with the Carians (immigrant
 conquerors akin to Lydians and Mysians, and probably to Phrygians) which
 first appears in a Cretan legend (quoted by Herodotus, but repudiated,
-as he says, by the Carians themselves) and is repeated by Callisthenes,
-Apollodorus and other later writers, led easily to the suggestion of
+as he says, by the Carians themselves) and is repeated by [[Callisthenes]],
+[[Apollodorus]] and other later writers, led easily to the suggestion of
 Callisthenes, that Leleges joined the Carians in their (half legendary)
 raids on the coasts of Greece. Meanwhile other writers from the 4th
-century onwards claimed to discover them in Boeotia, west Acarnania
-(Leucas), and later again in Thessaly, Euboea, Megara, Lacedaemon and
+century onwards claimed to discover them in [[Boeotia]], west Acarnania
+(Leucas), and later again in Thessaly, [[Euboea]], Megara, Lacedaemon and
 Messenia. In Messenia they were reputed immigrant founders of Pylos, and
 were connected with the seafaring Taphians and Teleboans of Homer, and
 distinguished from the Pelasgians; in Lacedaemon and in Leucas they were
@@ -55,7 +55,7 @@ Greece; perhaps this is the result of some early migration; perhaps it
 is also the cause of these Lelegian theories.
 
   Modern speculations (mainly corollaries of Indo-Germanic theory) add
-  little of value to the Greek accounts quoted above. H. Kiepert ("Über
+  little of value to the Greek accounts quoted above. H. [[Kiepert]] ("Über
   den Volksstamm der Leleges," in _Monatsber. Berl. Akad._, 1861, p.
   114) makes the Leleges an aboriginal people akin to Albanians and
   Illyrians; K. W. Deimling, _Die Leleger_ (Leipzig, 1862), starts them
@@ -63,7 +63,7 @@ is also the cause of these Lelegian theories.
   (practically the Greek view); G. F. Unger, "Hellas in Thessalien," in
   _Philologus_, Suppl. ii. (1863), makes them Phoenician, and derives
   their name from [Greek: lalazein] (cf. the names [Greek: barbaros],
-  _Wälsche_). E. Curtius (_History of Greece_, i.) distinguished a
+  _Wälsche_). E. [[Curtius]] (_History of Greece_, i.) distinguished a
   "Lelegian" phase of nascent Aegean culture. Most later writers follow
   Deimling. For Strabo's "Lelegian" monuments, cf. Paton and Myres,
   _Journal of Hellenic Studies_, xvi. 188-270.     (J. L. M.)

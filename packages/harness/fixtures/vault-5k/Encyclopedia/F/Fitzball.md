@@ -1,7 +1,7 @@
 # Fitzball
 
 FITZBALL, EDWARD (1792-1873), English dramatist, whose real patronymic
-was Ball, was born at Burwell, Cambridgeshire, in 1792. His father was a
+was Ball, was born at Burwell, [[Cambridgeshire]], in 1792. His father was a
 well-to-do farmer, and Fitzball, after receiving his schooling at
 Newmarket, was apprenticed to a Norwich printer in 1809. He produced
 some dramatic pieces at the local theatre, and eventually the marked
@@ -10,12 +10,12 @@ success of his _Innkeeper of Abbeville, or The Ostler and the Robber_
 the Surrey theatre by Thomas Dibdin, induced him to settle in London.
 During the next twenty-five years he produced a great number of plays,
 most of which were highly successful. He had a special talent for
-nautical drama. His _Floating Beacon_ (Surrey theatre, 19th of April
+nautical [[Drama|drama]]. His _Floating Beacon_ (Surrey theatre, 19th of April
 1824) ran for 140 nights, and his _Pilot_ (Adelphi, 1825) for 200
 nights. His greatest triumph in melodrama was perhaps _Jonathan
-Bradford, or the Murder at the Roadside Inn_ (Surrey theatre, 12th of
+[[Bradford]], or the Murder at the Roadside Inn_ (Surrey theatre, 12th of
 June 1833). He was at one time stock dramatist and reader of plays at
-Covent Garden, and afterwards at Drury Lane. He had a considerable
+Covent Garden, and afterwards at Drury [[Lane]]. He had a considerable
 reputation as a song-writer and as a librettist in opera. The last years
 of his life were spent in retirement at Chatham, where he died on the
 27th of October 1873.

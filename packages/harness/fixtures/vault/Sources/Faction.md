@@ -7,10 +7,10 @@ meaning, for a body of partisans who put their party aims and interests
 above those of the state or public, and employ unscrupulous or
 questionable means; it is thus a common term of reciprocal abuse between
 parties. In the history of the Roman and Later Roman empires the
-factions (_factiones_) of the circus and hippodrome, at Rome and
+factions (_factiones_) of the [[Circus|circus]] and hippodrome, at Rome and
 Constantinople, played a prominent part in politics. The _factiones_
 were properly the four companies into which the charioteers were
-divided, and distinguished by the colours they wore. Originally at Rome
+divided, and distinguished by the [[Colours|colours]] they wore. Originally at Rome
 there were only two, white (_albata_) and red (_russata_), when each
 race was open to two chariots only; on the increase to four, the green
 (_prasina_) and blue (_veneta_) were added. At Constantinople the last

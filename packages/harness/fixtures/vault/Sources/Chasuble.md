@@ -15,10 +15,10 @@ symbol of love," &c.; at the end of the ordination Mass the vestment is
 unrolled. The chasuble or _planeta_ (as it is called in the Roman
 missal), according to the prevailing model in the Roman Catholic Church,
 is a scapular-like cloak, with a hole in the middle for the head,
-falling down over breast and back, and leaving the arms uncovered at the
+falling down over [[Breast|breast]] and back, and leaving the arms uncovered at the
 sides. Its shape and size, however, differ considerably in various
 countries (see fig. 1), while some churches--e.g. those of certain
-monastic orders--have retained or reverted to the earlier "Gothic" forms
+monastic orders--have retained or reverted to the earlier "[[Gothic]]" forms
 to be described later. According to the decisions of the Congregation of
 Rites chasubles must not be of linen, cotton or woollen stuffs, but of
 silk; though a mixture of wool (or linen and cotton) and silk is allowed
@@ -43,8 +43,8 @@ of the liturgy it had for several centuries no specifically liturgical
 character, the first clear instances of its ritual use being in a letter
 of St Germanus of Paris (d. 576), and the next in the twenty-eighth
 canon of the Council of Toledo (633). Much later than this, however, it
-was still an article of everyday clerical dress, and as such was
-prescribed by the German council convened by Carloman and presided over
+was still an article of everyday clerical [[Dress|dress]], and as such was
+prescribed by the German council convened by [[Carloman]] and presided over
 by St Boniface in 742. Amalarius of Metz, in his _De ecclesiasticis
 officiis_ (ii. 19), tells us in 816 that the _casula_ is the _generale
 indumentum sacrorum ducum_ and "is proper generally to all the clergy."
@@ -52,7 +52,7 @@ It was not until the 11th century, when the cope (q.v.) had become
 established as a liturgical vestment, that the chasuble began to be
 reserved as special to the sacrifice of the Mass. As illustrating this
 process Father Braun (p. 170) cites an interesting correspondence
-between Archbishop Lanfranc of Canterbury and John of Avranches,
+between Archbishop [[Lanfranc]] of Canterbury and John of Avranches,
 archbishop of Rouen, as to the propriety of a bishop wearing a chasuble
 at the consecration of a church, Lanfranc maintaining as an established
 principle that the vestment should be reserved for the Mass. By the 13th
@@ -60,13 +60,13 @@ century, with the final development of the ritual of the Mass, the
 chasuble became definitely fixed as the vestment of the celebrating
 priest; though to this day in the Roman Church relics of the earlier
 general use of the chasuble survive in the _planeta plicata_ worn by
-deacons and subdeacons in Lent and Advent, and other penitential
+deacons and subdeacons in [[Lent]] and Advent, and other penitential
 seasons.
 
 At the Reformation the chasuble was rejected with the other vestments by
 the more extreme Protestants. Its use, however, survived in the Lutheran
 churches; and though in those of Germany it is no longer worn, it still
-forms part of the liturgical costume of the Scandinavian Evangelical
+forms part of the liturgical [[Costume|costume]] of the Scandinavian Evangelical
 churches. In the Church of England, though it was prescribed
 alternatively with the cope in the First Prayer-Book of Edward VI., it
 was ultimately discarded, with the other "Mass vestments," the cope
@@ -74,15 +74,15 @@ being substituted for it at the celebration of the Holy Communion in
 cathedral and collegiate churches; its use has, however, during the last
 fifty years been widely revived in connexion with the reactionary
 movement in the direction of the pre-Reformation doctrine of the
-eucharist. The difficult question of its legality is discussed in the
+[[Eucharist|eucharist]]. The difficult question of its legality is discussed in the
 article VESTMENTS.
 
 _Form._--The chasuble was originally a tent-like robe which fell in
-loose folds below the knee (see Plate I. fig. 4). Its obvious
+loose [[Fold|folds]] below the [[Knee|knee]] (see Plate I. fig. 4). Its obvious
 inconvenience for celebrating the holy mysteries, however, caused its
-gradual modification. The object of the change was primarily to leave
+[[Gradual|gradual]] modification. The object of the change was primarily to leave
 the hands of the celebrant freer for the careful performance of the
-manual acts, and to this end a process of cutting away at the sides of
+[[Manual|manual]] acts, and to this end a process of cutting away at the sides of
 the vestment began, which continued until the tent-shaped chasuble of
 the 12th century had developed in the 16th into the scapular-like
 vestment at present in use. This process was, moreover, hastened by the
@@ -103,7 +103,7 @@ occasionally met with in the monuments of the early centuries, these
 vestments were until the 10th century generally quite plain, and even at
 the close of this century, when the custom of decorating the chasuble
 with orphreys had become common, there was no definite rule as to their
-disposition; sometimes they were merely embroidered borders to the
+disposition; sometimes they were merely embroidered [[Borders|borders]] to the
 neck-opening or hem, sometimes a vertical strip down the back, less
 often a forked cross, the arms of which turned upwards over the
 shoulders. From this time onward, however, the embroidery became ever
@@ -127,7 +127,7 @@ Plate I. figs. 3 and 5).
 
 [Illustration PLATE I.
 
-  FIG. 2.--Chasuble of Pope Calixtus III. (15th century) preserved at
+  FIG. 2.--Chasuble of Pope [[Calixtus]] III. (15th century) preserved at
   Valencia.
 
   From a photograph by Father J.L. Braun in _Die liturg Gewandung_, by
@@ -139,11 +139,11 @@ Plate I. figs. 3 and 5).
   From a photograph by Father J.L. Braun in _Die liturg Gewandung_.
 
   FIG. 4.--Chasuble dedicated by Stephen of Hungary (997-1038) and his
-  wife Gisela, used as the Hungarian Coronation Robe.
+  wife Gisela, used as the Hungarian [[Coronation]] Robe.
 
   (From Braun, _Die liturg. Gewandung_.)
 
-  FIG. 5.--Modern Roman Chasuble of Archbishop Bourne of Westminster.
+  FIG. 5.--Modern Roman Chasuble of Archbishop [[Bourne]] of Westminster.
 
   FIG. 6.--Modern English Chasuble, used at St Paul's Church,
   Knightsbridge, London.]
@@ -161,7 +161,7 @@ ii. 107), and that the chasuble so decorated is proper to archbishops.
 Father Braun, however, makes it quite clear that this was not the case,
 and gives proof that this decoration was not even originally conceived
 as a cross at all, citing early instances of its having been worn by
-laymen and even by non-Christians (p. 210). It was not until the 13th
+[[Laymen|laymen]] and even by non-Christians (p. 210). It was not until the 13th
 century that the symbolical meaning of the cross began to be elaborated,
 and this was still further accentuated from the 14th century onward by
 the increasingly widespread custom of adding to it the figure of the
@@ -170,7 +170,7 @@ not represent any definite rule; and the orphreys of chasubles were
 decorated with a great variety of pictorial subjects, scriptural or
 drawn from the stories of the saints, while the rest of the vestment was
 either left plain or, if embroidered, most usually decorated with
-arabesque patterns of foliage or animals. The local Roman Church, true
+[[Arabesque|arabesque]] patterns of foliage or animals. The local Roman Church, true
 to its ancient traditions, adhered to the simpler forms. The modern
 Roman chasuble pictured in Plate I. fig. 5, besides the conventional
 arabesque pattern, is decorated, according to rule, with the arms of the
@@ -183,13 +183,13 @@ instead of being cut away at the sides, it is for convenience' sake
 either gathered up or cut short in front. In the Armenian, Syrian,
 Chaldaean and Coptic rites it is cope-shaped. There is some difference
 of opinion as to the derivation of the vestment in the latter case; the
-Five Bishops (Report to Convocation, 1908) deriving it, like the cope,
+Five Bishops (Report to [[Convocation]], 1908) deriving it, like the cope,
 from the _birrus_, while Father Braun considers it, as well as the cope,
 to be a modification of the _paenula_.[1] The phelonion (Arm.
 _shurtshar_, Syr. _phaina_, Chald. _maaphra_ or _phaina_, Copt, _burnos,
 felonion, kuklion_) is confined to the priests in the Armenian, Syrian,
 Chaldaean and Coptic rites; in the Greek rite it is worn also by the
-lectors. It is not in the East so specifically a eucharistic vestment as
+[[Lector|lectors]]. It is not in the East so specifically a eucharistic vestment as
 in the West, but is worn at other solemn functions besides the liturgy,
 e.g. marriages, processions, &c.
 
@@ -202,18 +202,18 @@ purple or black phelonion, however, remained plain in all cases. The
 Greeks and Greek Melchite metropolitans now wear the _sakkos_ instead of
 the phelonion; and in the Russian, Ruthenian, Bulgarian and Italo-Greek
 churches this vestment has superseded the phelonion in the case of all
-bishops (see DALMATIC and VESTMENTS).
+bishops (see [[Dalmatic|DALMATIC]] and VESTMENTS).
 
-  See J. Braun, S.J., _Die liturgische Gewandung_ (Freiburg im Breisgau,
+  See J. Braun, S.J., _Die liturgische Gewandung_ ([[Freiburg]] im [[Breisgau]],
   1907), pp. 149-247, and the bibliography to the article VESTMENTS.
        (W. A. P.)
 
 
 FOOTNOTE:
 
-  [1] The writer is indebted to the courtesy of Father Braun for the
+  [1] The writer is indebted to the [[Courtesy|courtesy]] of Father Braun for the
     following note:--"That the Syrian _phaina_ was formerly a closed
-    mantle of the type of the bell chasuble is clearly proved by the
+    [[Mantle|mantle]] of the type of the bell chasuble is clearly proved by the
     evidence of the miniatures of a Syrian pontifical (dated 1239) in the
     Bibliotheque Nationale at Paris (cf. Bild 16, 112, 284, in _Die
     liturgische Gewandung_). The liturgical vestments of the Armenians

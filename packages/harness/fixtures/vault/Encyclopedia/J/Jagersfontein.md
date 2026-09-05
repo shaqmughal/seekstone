@@ -7,14 +7,14 @@ topic: inventors
 # Jagersfontein
 
 JAGERSFONTEIN, a town in the Orange Free State, 50 m. N.W. by rail of
-Springfontein on the trunk line from Cape Town to Pretoria. Pop. (1904),
+Springfontein on the trunk line from [[Cape Town]] to Pretoria. Pop. (1904),
 5657--1293 whites and 4364 coloured persons. Jagersfontein, which
 occupies a pleasant situation on the open veld about 4500 ft. above the
 sea, owes its existence to the valuable diamond mine discovered here in
 1870. The first diamond, a stone of 50 carats, was found in August of
 that year, and digging immediately began. The discovery a few weeks
 later of the much richer mines at Bultfontein and Du Toits Pan, followed
-by the great finds at De Beers and Colesberg Kop (Kimberley) caused
+by the great finds at De [[Beer|Beers]] and Colesberg Kop (Kimberley) caused
 Jagersfontein to be neglected for several years. Up to 1887 the claims
 in the mine were held by a large number of individuals, but coincident
 with the efforts to amalgamate the interest in the Kimberley mines a

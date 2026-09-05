@@ -13,14 +13,14 @@ but nowhere else in the Old Testament. The meaning of the name is
 uncertain. If Hebrew, it might be derived from the root [Hebrew: habak]
 (to embrace) as an intensive term of affection. It has also been
 connected more plausibly with an Assyrian plant name, _[h)]ambakuku_
-(Delitzsch, _Assyrisches Handworterbuch_, p. 281). The Septuagint has
+([[Delitzsch]], _Assyrisches Handworterbuch_, p. 281). The Septuagint has
 [Greek: Ambakoum]. Of the person designated, no more is known than may
 be inferred from the writing which bears his name. Various legends are
 connected with him, of which the best known is given in the Apocryphal
-story of "Bel and the Dragon" (v. 33-39); but none of these has any
+story of "[[Bel]] and the Dragon" (v. 33-39); but none of these has any
 historic value.[1]
 
-The book itself falls into three obvious parts, viz. (1) a dialogue
+The book itself falls into three obvious parts, viz. (1) a [[Dialogue|dialogue]]
 between the prophet and God (i. 2-ii. 4); (2) a series of five woes
 pronounced on wickedness (ii. 5-ii. 20); (3) a poem describing the
 triumphant manifestation of God (iii.). There is considerable difficulty
@@ -46,9 +46,9 @@ dialogue, the subsequent woes will be pronounced against the Chaldaeans,
 and the date assigned to the prophecy will be about 600 B.C., i.e. soon
 after the battle of Carchemish (605 B.C.), when the Chaldaean victory
 over Egypt inaugurated a period of Chaldaean supremacy which lasted till
-the Chaldaeans themselves were overthrown by Cyrus in 538 B.C. Grave
+the Chaldaeans themselves were overthrown by [[Cyrus]] in 538 B.C. Grave
 objections, however, confront this interpretation, as is admitted even
-by such recent defenders of it as Davidson and Driver. Is it likely that
+by such recent defenders of it as [[Davidson]] and Driver. Is it likely that
 a prophet would begin a complaint against Chaldaean tyranny (admittedly
 central in the prophecy) by complaining of that wickedness of his
 fellow-countrymen which seems partly to justify it? Are not the terms of
@@ -61,12 +61,12 @@ rule required to explain the _detailed_ denunciation of their tyranny?
 To meet the last objection, Davidson supposes i. 5-11 to be really a
 reference to the past, prophetic in form only, and brings down the whole
 section to a later period of Chaldaean rule, "hardly, one would think,
-before the deportation of the people under Jehoiachin in 597" (p. 49).
+before the [[Deportation|deportation]] of the people under [[Jehoiachin]] in 597" (p. 49).
 Driver prefers to bisect the dialogue by supposing i. 2-11 to be written
 at an earlier period than i. 12 f. (p. 57). The other objections,
 however, remain, and have provoked a variety of theories from Old
 Testament scholars, of which three call for special notice. (1) The
-first of these, represented by Giesebrecht,[2] Nowack and Wellhausen,
+first of these, represented by [[Giesebrecht]],[2] Nowack and Wellhausen,
 refers i. 2-4 to Chaldaean oppression of Israel, the same subject being
 continued in i. 12 f. Obviously, the reference to the Chaldaeans as a
 divine instrument could not then stand in its present place, and it is
@@ -98,7 +98,7 @@ can be said to have secured a dominant position. The great variety of
 views amongst competent critics is significant of the difficulty of the
 problem, which can hardly be regarded as yet solved; this divergence of
 opinion perhaps points to the impossibility of maintaining the unity of
-chs. i. and ii., and throws the balance of probability towards some such
+chs. i. and ii., and throws the [[Balance|balance]] of probability towards some such
 analysis as that of Marti, which is therefore accepted in the present
 article.
 
@@ -114,7 +114,7 @@ probably on the ground of the authorship asserted by the superscription
 there attached to it. It cannot, however, be said that the poem itself
 supports this assertion, which carries no more intrinsic weight than
 the Davidic titles of the Psalms. The poem begins with a prayer that God
-will renew the historic manifestation of the exodus, which inaugurated
+will renew the historic manifestation of the [[Exodus|exodus]], which inaugurated
 the national history and faith; a thunderstorm moving up from the south
 is then described, in which God is revealed (3-7); it is asked whether
 this manifestation, whose course is further described, is against nature
@@ -126,7 +126,7 @@ appears to believe that in the very act of describing enthusiastically
 the ancient deed of deliverance, he brings home to us the new; we are
 left sometimes in doubt whether he speaks of the past to suggest the new
 by analogy, or whether he is concerned directly with the future, and
-simply paints it with the colours of the past." In any case, there is
+simply paints it with the [[Colours|colours]] of the past." In any case, there is
 nothing in this fine poem to connect it with the conception of the
 Chaldaeans as a divine instrument. It is the nation that speaks through
 the poet (cf. v. 14), but at what period of its post-exilic history we
@@ -145,12 +145,12 @@ in the circle of primitive ideas, and supplicates a divine intervention,
 a direct and immediate manifestation of the transcendent God. He is
 conceived as controlling or overcoming the forces of nature; and though
 an earlier mythology has supplied some of the ideas, yet, as with the
-opening chapters of Genesis, they are transfigured by the moral purpose
+opening chapters of [[Genesis]], they are transfigured by the moral purpose
 which animates them, the purpose to subdue all things that could
 frustrate the destiny of God's anointed (v. 13). The closing verses
 strike that deep note of absolute dependence on God, which is the glory
 of the religion of the Old Testament and its chief contribution to the
-spirit of the Gospels. (2) The prophecy of the Chaldaeans as the
+spirit of the [[Gospel|Gospels]]. (2) The prophecy of the Chaldaeans as the
 instruments of the divine purpose involves a different, yet related,
 conception of the divine providence. The philosophy of history, by which
 Hebrew prophets could read a deep moral significance into national
@@ -166,8 +166,8 @@ simply a practical application of the doctrine of divine government. God
 being what He is, at once moral and all-powerful, the immoral life is
 doomed to overthrow, whether the immorality consist in grasping
 rapacity, proud self-aggrandizement, cruel exaction, exulting triumph or
-senseless idolatry. (4) Yet, because the doom so often tarries, there
-arises the problem of the suffering of the innocent and the upright. How
+senseless idolatry. (4) Yet, because the [[Doom|doom]] so often tarries, there
+arises the problem of the suffering of the [[Innocent|innocent]] and the upright. How
 can God look down with tolerance that seems favour on so much that
 conflicts with His declared will and character? This is the great
 problem of Israel, finding its supreme expression for all time in the
@@ -205,20 +205,20 @@ faithfulness.'"
   Expositor_ (1902), pp. 388-401; Peake, _The Problem of Suffering in
   the Old Testament_ (1904), pp. 4-11 and app. A, "Recent Criticism of
   Habakkuk"; Marti, _Dodekapropheton_ (K. H. C.) (1904); Driver, "Minor
-  Prophets," vol. ii., in _Century Bible_ (1906); Duhm, _Das Buch
+  Prophets," vol. ii., in _Century Bible_ (1906); Duhm, _Das [[Buch]]
   Habakkuk_ (Text, Ubersetzung und Efklarung), 1906 (regards the book as
   a unity belonging to the time of Alexander the Great). Max L. Margolis
   discusses the anonymous Greek version of Habakkuk iii. in a volume of
   _Old Test. and Semitic Studies: in Memory of William Rainey Harper_
-  (Chicago, 1908).     (H. W. R.*)
+  ([[Chicago]], 1908).     (H. W. R.*)
 
 
 FOOTNOTES:
 
-  [1] These legends are collected in Hastings, D. B. vol. ii. p. 272.
+  [1] These legends are collected in [[Hastings]], D. B. vol. ii. p. 272.
     He is the watchman of Is. xxi. 6 (cf. Hab. ii. 1); the son of the
     Shunammite (2 Kings iv. 16); and is miraculously lifted by his hair
-    to carry his own dinner to Daniel in the lions' den (_supra_).
+    to carry his own [[Dinner|dinner]] to [[Daniel]] in the lions' den (_supra_).
 
   [2] Followed by Peake in _The Problem of Suffering_, pp. 4 f., 151
     f., to whose appendix (A) reference may be made for further details

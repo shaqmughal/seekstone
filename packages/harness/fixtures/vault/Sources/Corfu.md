@@ -20,23 +20,23 @@ attains its greatest elevation of 3300 ft. in the summit from which it
 takes its name. The second culminates in the mountain of Santi Deca, or
 Santa Decca, as it is called by misinterpretation of the Greek
 designation [Greek: hoi Hagioi Deka], or the Ten Saints. The whole
-island, composed as it is of various limestone formations, presents
+island, composed as it is of various [[Limestone|limestone]] formations, presents
 great diversity of surface, and the prospects from the more elevated
 spots are magnificent.
 
 Corfu is generally considered the most beautiful of all the Greek isles,
 but the prevalence of the olive gives some monotony to its colouring. It
-is worthy of remark that Homer names, as adorning the garden of
+is worthy of remark that [[Homer]] names, as adorning the garden of
 Alcinous, seven plants only--wild olive, oil olive, pear, pomegranate,
-apple, fig and vine. Of these the apple and the pear are now very
+[[Apple|apple]], fig and vine. Of these the apple and the pear are now very
 inferior in Corfu; the others thrive well and are accompanied by all the
 fruit trees known in southern Europe, with addition of the Japanese
-medlar (or loquat), and, in some spots, of the banana. When undisturbed
+medlar (or [[Loquat|loquat]]), and, in some spots, of the banana. When undisturbed
 by cultivation, the myrtle, arbutus, bay and ilex form a rich brushwood
 and the minor _flora_ of the island is extensive.
 
-The common form of laud tenure is the _colonia perpetua_, by which the
-landlord grants a lease to the tenant and his heirs for ever, in return
+The common form of [[Laud|laud]] tenure is the _colonia perpetua_, by which the
+landlord grants a lease to the tenant and his [[Heir|heirs]] for ever, in return
 for a rent, payable in kind, and fixed at a certain proportion of the
 produce. Of old, a tenant thus obtaining half the produce to himself was
 held to be co-owner of the soil to the extent of one-fourth; and if he
@@ -46,7 +46,7 @@ transfer of his lease without the landlord's consent. Attempts have been
 made to prohibit so embarrassing a system; but as it is preferred by the
 agriculturists, the existing laws permit it. The portion of the olive
 crop due to the landlord, whether by _colonia_ or ordinary lease, is
-paid, not according to the actual harvest, but in keeping with the
+paid, not according to the actual [[Harvest|harvest]], but in keeping with the
 estimates of valuators mutually appointed, who, just before the fruit is
 ripe, calculate how much each tree will probably yield. The large old
 fiefs (_baronie_) in Corfu, as in the other islands, have left their
@@ -57,7 +57,7 @@ olive trees of first quality yield sometimes as much as 2 gallons of
 oil, and this with little trouble or expense beyond the collecting and
 pressing of the fallen fruit. The trees grow unrestrained, and some are
 not less than three hundred years old. The vineyards are laboured by the
-broad heart-shaped hoe. The vintage begins on the festival of Santa
+broad heart-shaped [[Hoe|hoe]]. The vintage begins on the festival of Santa
 Croce, or the 26th of September (O.S.). None of the Corfu wines is much
 exported. The capital is the only city or town of much extent in the
 island; but there are a number of villages, such as Benizze, Gasturi,
@@ -69,7 +69,7 @@ The town of Corfu stands on the broad part of a peninsula, whose
 termination in the citadel is cut from it by an artificial fosse formed
 in a natural gully, with a salt-water ditch at the bottom. Having grown
 up within fortifications, where every foot of ground was precious, it is
-mostly, in spite of recent improvements, a labyrinth of narrow,
+mostly, in spite of recent improvements, a [[Labyrinth|labyrinth]] of narrow,
 tortuous, up-and-down streets, accommodating themselves to the
 irregularities of the ground, few of them fit for wheel carriages. There
 is, however, a handsome esplanade between the town and the citadel, and
@@ -82,12 +82,12 @@ structures in the modern and more convenient French style. Of the
 thirty-seven Greek churches the most important are the cathedral,
 dedicated to Our Lady of the Cave ([Greek: hê Panagia Spêliôtissa]); St
 Spiridion's, with the tomb of the patron saint of the island; and the
-suburban church of St Jason and St Sosipater, reputed the oldest in the
+suburban church of St [[Jason]] and St Sosipater, reputed the oldest in the
 island. The city is the seat of a Greek and a Roman Catholic archbishop;
 and it possesses a gymnasium, a theatre, an agricultural and industrial
 society, and a library and museum preserved in the buildings formerly
 devoted to the university, which was founded by Frederick North, 5th
-earl of Guilford (1766-1827, himself the first chancellor in 1824,) in
+earl of [[Guilford]] (1766-1827, himself the first chancellor in 1824,) in
 1823, but disestablished on the cessation of the English protectorate.
 There are three suburbs of some importance--Castrades, Manduchio and San
 Rocco. The old fortifications of the town, being so extensive as to
@@ -99,8 +99,8 @@ are now dismantled.
 _History._--According to the local tradition Corcyra was the Homeric
 island of Scheria, and its earliest inhabitants the Phaeacians. At a
 date no doubt previous to the foundation of Syracuse it was peopled by
-settlers from Corinth, but it appears to have previously received a
-stream of emigrants from Eretria. The splendid commercial position of
+settlers from [[Corinth]], but it appears to have previously received a
+stream of emigrants from [[Eretria]]. The splendid commercial position of
 Corcyra on the highway between Greece and the West favoured its rapid
 growth, and, influenced perhaps by the presence of non-Corinthian
 settlers, its people, quite contrary to the usual practice of Corinthian
@@ -109,7 +109,7 @@ the mother city. This opposition came to a head in the early part of the
 7th century, when their fleets fought the first naval battle recorded in
 Greek history (about 664 B.C.). These hostilities ended in the conquest
 of Corcyra by the Corinthian tyrant Periander (c. 600), who induced his
-new subjects to join in the colonization of Apollonia and Anactorium.
+new subjects to join in the colonization of [[Apollonia]] and Anactorium.
 The island soon regained its independence and henceforth devoted itself
 to a purely mercantile policy. During the Persian invasion of 480 it
 manned the second largest Greek fleet (60 ships), but took no active
@@ -118,7 +118,7 @@ and sought assistance from Athens. This new alliance was one of the
 chief immediate causes of the Peloponnesian War (q.v.), in which Corcyra
 was of considerable use to the Athenians as a naval station, but did not
 render much assistance with its fleet. The island was nearly lost to
-Athens by two attempts of the oligarchic faction to effect a revolution;
+Athens by two attempts of the oligarchic [[Faction|faction]] to effect a revolution;
 on each occasion the popular party ultimately won the day and took a
 most bloody revenge on its opponents (427 and 425). During the Sicilian
 campaigns of Athens Corcyra served as a base for supplies; after a third
@@ -127,9 +127,9 @@ war. In 375 it again joined the Athenian alliance; two years later it
 was besieged by a Lacedaemonian armament, but in spite of the
 devastation of its flourishing countryside held out successfully until
 relief was at hand. In the Hellenistic period Corcyra was exposed to
-attack from several sides; after a vain siege by Cassander it was
+attack from several sides; after a vain siege by [[Cassander]] it was
 occupied in turn by Agathocles and Pyrrhus. It subsequently fell into
-the hands of Illyrian corsairs, until in 229 it was delivered by the
+the hands of Illyrian [[Corsair|corsairs]], until in 229 it was delivered by the
 Romans, who retained it as a naval station and gave it the rank of a
 free state. In 31 B.C. it served Octavian (Augustus) as a base against
 Antony.
@@ -140,8 +140,8 @@ Italian naval powers, it again became a frequent object of attack. In
 1081-1085 it was held by Robert Guiscard, in 1147-1154 by Roger II. of
 Sicily. During the break-up of the Later Roman Empire it was occupied by
 Genoese privateers (1197-1207) who in turn were expelled by the
-Venetians. In 1214-1259 it passed to the Greek despots of Epirus, and in
-1267 became a possession of the Neapolitan house of Anjou. Under the
+Venetians. In 1214-1259 it passed to the Greek [[Despot|despots]] of Epirus, and in
+1267 became a possession of the Neapolitan house of [[Anjou]]. Under the
 latter's weak rule the island suffered considerably from the inroads of
 various adventurers; hence in 1386 it placed itself under the protection
 of Venice, which in 1401 acquired formal sovereignty over it. Corcyra
@@ -188,7 +188,7 @@ very simple Doric structure, which still in its mutilated state presents
 some peculiarities of architecture. Of Cassiope, the only other city of
 ancient importance, the name is still preserved by the village of
 Cassopo, and there are some rude remains of building on the site; but
-the temple of Zeus Cassius for which it was celebrated has totally
+the temple of Zeus [[Cassius]] for which it was celebrated has totally
 disappeared. Throughout the island there are numerous monasteries and
 other buildings of Venetian erection, of which the best known are
 Paleocastrizza, San Salvador and Pelleka.
@@ -198,8 +198,8 @@ Paleocastrizza, San Salvador and Pelleka.
   Plutarch, _Quaestiones Graecae_, ch. xi.; H. Jervis, _The Ionian
   Islands during the Present Century_ (London, 1863); D. F. Ansted, _The
   Ionian Islands in the Year 1863_ (London, 1863); Riemann, _Recherches
-  archéologiques sur les Îles ioniennes_ (Paris, 1879-1880); J. Partsch,
-  _Die Insel Korfu_ (Gotha, 1887); B. Schmidt, _Korkyräische Studien_
+  [[Arch|arch]]éologiques sur les Îles ioniennes_ (Paris, 1879-1880); J. Partsch,
+  _Die Insel Korfu_ ([[Gotha]], 1887); B. Schmidt, _Korkyräische Studien_
   (Leipzig, 1890); B. V. Head, _Historia Numorum_ (Oxford, 1887), pp.
   275-277; H. Lutz in _Philologus_, 56 (1897), pp. 71-77; also art.
   NUMISMATICS: Greek, § "Epirus."     (E. GR.; M. O. B. C.)

@@ -25,7 +25,7 @@ performing in public.
 ends of the slow movements are Bach.)
 
 Finishing touches to cantatas by his uncle Johann Ludwig Bach. Also a very
-characteristic complete "Christe eleison" inserted in Kyrie of Johann
+characteristic complete "Christe eleison" inserted in [[Kyrie]] of Johann
 Ludwig's.
 
 ## References

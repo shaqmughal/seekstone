@@ -10,7 +10,7 @@ tags: [shipbuilding-studies, language]
 # Claudianus
 
 CLAUDIANUS, CLAUDIUS, Latin epic poet and panegyrist, flourished during
-the reign of Arcadius and Honorius. He was an Egyptian by birth,
+the reign of [[Arcadius]] and [[Honorius]]. He was an Egyptian by birth,
 probably an Alexandrian, but it may be conjectured from his name and his
 mastery of Latin that he was of Roman extraction. His own authority has
 been assumed for the assertion that his first poetical compositions were
@@ -34,10 +34,10 @@ of Honorius. Claudian's poem appears to have obtained his patronage, or
 rather perhaps that of his wife Serena, by whose interposition the poet
 was within a year or two enabled to contract a wealthy marriage in
 Africa (_Epist._ 2). Previously to this event he had produced (398) his
-panegyric on the fourth consulship of Honorius, his epithalamium on the
+panegyric on the fourth consulship of Honorius, his [[Epithalamium|epithalamium]] on the
 marriage of Honorius to Stilicho's daughter, Maria, and his poem on the
 Gildonic war, celebrating the repression of a revolt in Africa. To these
-succeeded his piece on the consulship of Manlius Theodorus (399), the
+succeeded his piece on the consulship of [[Manlius]] Theodorus (399), the
 unfinished or mutilated invective against the Byzantine prime minister
 Eutropius in the same year, the epics on Stilicho's first consulship and
 on his repulse of Alaric (400 and 403), and the panegyric on the sixth
@@ -47,7 +47,7 @@ Stilicho in 408. It may be conjectured that he must have died in 404, as
 he could hardly otherwise have omitted to celebrate the greatest of
 Stilicho's achievements, the destruction of the barbarian host led by
 Radagaisus in the following year. On the other hand, he may have
-survived Stilicho, as in the dedication to the second book of his epic
+survived Stilicho, as in the [[Dedication|dedication]] to the second book of his epic
 on the _Rape of Proserpine_ (which Birt, however, assigns to 395-397),
 he speaks of his disuse of poetry in terms hardly reconcilable with the
 fertility which he displayed during his patron's lifetime. From the
@@ -60,13 +60,13 @@ marriage, his panegyric on Serena, and the _Gigantomachia_, a fragment
 of an unfinished Greek epic, may also be mentioned. Several poems
 expressing Christian sentiments are undoubtedly spurious. Claudian's
 paganism, however, neither prevented his celebrating Christian rulers
-and magistrates nor his enjoying the distinction of a court laureate. It
+and [[Magistrate|magistrates]] nor his enjoying the distinction of a court [[Laureate|laureate]]. It
 is probable that he was nominally a Christian, like his patron Stilicho
-and Ausonius, although at heart attached to the old religion. The very
+and [[Ausonius]], although at heart attached to the old religion. The very
 decided statements of Orosius and Augustine as to his heathenism may be
 explained by the pagan style of Claudian's political poems. We have his
 own authority for his having been honoured by a bronze statue in the
-forum, and Pomponius Laetus discovered in the 15th century an
+[[Forum|forum]], and Pomponius [[Laetus]] discovered in the 15th century an
 inscription (_C.I.L._ vi. 1710) on the pedestal, which, formerly
 considered spurious, is now generally regarded as genuine.
 
@@ -86,7 +86,7 @@ This gift is especially displayed in his poem on the downfall of
 Rufinus, where the punishment of a public malefactor is exalted to the
 dignity of an epical subject by the magnificence of diction and the
 ostentation of supernatural machinery. The noble exordium, in which the
-fate of Rufinus is propounded as the vindication of divine justice,
+[[Fate|fate]] of Rufinus is propounded as the vindication of divine justice,
 places the subject at once on a dignified level; and the council of the
 infernal powers has afforded a hint to Tasso, and through him to Milton.
 The inevitable monotony of the panegyrics on Honorius is relieved by
@@ -94,7 +94,7 @@ just and brilliant expatiation on the duties of a sovereign. In his
 celebration of Stilicho's victories Claudian found a subject more worthy
 of his powers, and some passages, such as the description of the flight
 of Alaric, and of Stilicho's arrival at Rome, and the felicitous
-parallel between his triumphs and those of Marius, rank among the
+parallel between his triumphs and those of [[Marius]], rank among the
 brightest ornaments of Latin poetry. Claudian's panegyric, however
 lavish and regardless of veracity, is in general far less offensive than
 usual in his age, a circumstance attributable partly to his more refined
@@ -113,21 +113,21 @@ copious illustration, derived from extensive but not cumbrous erudition,
 are fully as appropriate to eloquence as to poetry. In the general cast
 of his mind and character of his writings, and especially, in his
 faculty for bestowing enduring interest upon occasional themes, we may
-fitly compare him with Dryden, remembering that while Dryden exulted in
+fitly compare him with [[Dryden]], remembering that while Dryden exulted in
 the energy of a vigorous and fast-developing language, Claudian was
 cramped by an artificial diction, confined to the literary class.
 
   The editio princeps of Claudian was printed at Vicenza in 1482; the
-  editions of J.M. Gesner (1759) and P. Burmann (1760) are still
+  editions of J.M. [[Gesner]] (1759) and P. [[Burmann]] (1760) are still
   valuable for their notes. The first critical edition was that of L.
   Jeep (1876-1879), now superseded by the exhaustive work of T. Birt,
   with bibliography, in _Monumenta Germaniae Historica_ (x., 1892;
   smaller ed. founded on this by J. Koch, Teubner series, 1893). There
   is a separate edition with commentary and verse translation of _Il
-  Ratto di Proserpina_, by L. Garces de Diez (1889); the satire _In
+  Ratto di Proserpina_, by L. Garces de [[Diez]] (1889); the satire _In
   Eutropium_ is discussed by T. Birt in _Zwei politische Satiren des
   alten Rom_ (1888). There is a complete English verse translation of
-  little merit by A. Hawkins (1817). See the articles by Ramsay in
+  little merit by A. [[Hawkins]] (1817). See the articles by Ramsay in
   Smith's _Classical Dictionary_ and Vollmer in Pauly-Wissowa's
   _Realencyclopädie der classischen Altertumswissenschaft_, iii. 2
   (1899); also J.H.E. Crees, _Claudian as an Historian_ (1908), the
@@ -137,13 +137,13 @@ cramped by an artificial diction, confined to the literary class.
 
 
 
-CLAUDIUS [TIBERIUS CLAUDIUS DRUSUS NERO GERMANICUS], Roman emperor A.D.
+CLAUDIUS [TIBERIUS CLAUDIUS [[Drusus|DRUSUS]] NERO GERMANICUS], Roman emperor A.D.
 41-54, son of Drusus and Antonia, nephew of the emperor Tiberius, and
-grandson of Livia, the wife of Augustus, was born at Lugdunum (Lyons) on
+grandson of Livia, the wife of Augustus, was born at Lugdunum ([[Lyons]]) on
 the 1st of August 10 B.C. During his boyhood he was treated with
 contempt, owing to his weak and timid character and his natural
 infirmities; the fact that he was regarded as little better than an
-imbecile saved him from death at the hands of Caligula. He chiefly
+[[Imbecile|imbecile]] saved him from death at the hands of Caligula. He chiefly
 devoted himself to literature, especially history, and until his
 accession he took no real part in public affairs, though Caligula
 honoured him with the dignity of consul. He was four times married: to
@@ -154,11 +154,11 @@ infamous Valeria Messallina (q.v.); and to his niece Agrippina.
 In A.D. 41, on the murder of Caligula, Claudius was seized by the
 praetorians, and declared emperor. The senate, which had entertained the
 idea of restoring the republic, was obliged to acquiesce. One of
-Claudius's first acts was to proclaim an amnesty for all except Cassius
+Claudius's first acts was to proclaim an amnesty for all except [[Cassius]]
 Chaerea, the assassin of his predecessor, and one or two others. After
 the discovery of a conspiracy against his life in 42, he fell completely
 under the influence of Messallina and his favourite freedmen Pallas and
-Narcissus, who must be held responsible for acts of cruelty which have
+Narcissus, who must be held responsible for acts of [[Cruelty|cruelty]] which have
 brought undeserved odium upon the emperor. There is no doubt that
 Claudius was a liberal-minded man of kindly nature, anxious for the
 welfare of his people. Humane regulations were made in regard to
@@ -181,23 +181,23 @@ Corbulo (_q.v._) gained considerable successes in Germany and the East.
 The intrigues of Narcissus caused Messallina to be put to death by order
 of Claudius, who took as his fourth wife his niece Agrippina, a woman as
 criminal as any of her predecessors. She prevailed upon him to set aside
-his own son Britannicus in favour of Nero, her son by a former marriage;
+his own son [[Britannicus]] in favour of Nero, her son by a former marriage;
 and in 54, to make Nero's position secure, she put the emperor to death
-by poison. The apotheosis of Claudius was the subject of a lampoon by
+by poison. The [[Apotheosis|apotheosis]] of Claudius was the subject of a [[Lampoon|lampoon]] by
 Seneca called _apokolokyntosis_, the "pumpkinification" of Claudius.
 
 Claudius was a prolific writer, chiefly on history, but his works are
 lost. He wrote (in Greek) a history of Carthage and a history of
-Etruria; (in Latin) a history of Rome from the death of Caesar, an
+Etruria; (in Latin) a history of Rome from the death of [[Caesar]], an
 autobiography, and an essay in defence of Cicero against the attacks of
-Asinius Gallus. He also introduced three new letters into the Latin
+Asinius [[Gallus]]. He also introduced three new letters into the Latin
 alphabet: [Latin character] for the consonantal V, [Latin character] for
 BS and PS, [Latin character] for the intermediate sound between I and U.
 
-  AUTHORITIES.--Ancient: the _Annals_ of Tacitus, Suetonius and Dio
+  AUTHORITIES.--Ancient: the _[[Annals]]_ of Tacitus, Suetonius and Dio
   Cassius. Modern: H. Lehmann, _Claudius und seine Zeit_, with
   introductory chapter on the ancient authorities (1858); Lucien Double,
-  _L'Empereur Claude_ (1876); A. Ziegler, _Die politische Seite der
+  _L'Empereur [[Claude]]_ (1876); A. Ziegler, _Die politische Seite der
   Regierung des Kaisers Claudius_ (1885); H.F. Pelham in _Quarterly
   Review_ (April 1905), where certain administrative and political
   changes introduced by Claudius, for which he was attacked by his

@@ -7,17 +7,17 @@ type: reference
 
 # Kuch Behar
 
-KUCH BEHAR, or COOCH BEHAR, a native state of India, in Bengal,
-consisting of a submontane tract, not far from Darjeeling, entirely
+KUCH BEHAR, or COOCH [[Behar|BEHAR]], a native state of India, in [[Bengal]],
+consisting of a submontane tract, not far from [[Darjeeling]], entirely
 surrounded by British territory. Area, 1307 sq. m. Pop. (1901), 566,974;
 estimated revenue, £140,000. The state forms a level plain of triangular
 shape, intersected by numerous rivers. The greater portion is fertile
 and well cultivated, but tracts of jungle are to be seen in the
-north-east corner, which abuts upon Assam. The soil is uniform in
+north-east corner, which abuts upon [[Assam]]. The soil is uniform in
 character throughout, consisting of a light, friable loam, varying in
 depth from 6 in. to 3 ft., superimposed upon a deep bed of sand. The
 whole is detritus, washed down by torrents from the neighbouring
-Himalayas. The rivers all pass through the state from north to south, to
+[[Himalaya|Himalayas]]. The rivers all pass through the state from north to south, to
 join the main stream of the Brahmaputra. Some half-dozen are navigable
 for small trading boats throughout the year, and are nowhere fordable;
 and there are about twenty minor streams which become navigable only
@@ -52,7 +52,7 @@ over what is now part of the British districts of Rangpur and Purnea.
 His son, Lakshmi Narayan, who succeeded him in Kuch Behar, became
 tributary to the Mogul Empire. In 1772 a competitor for the throne,
 having been driven out of the country by his rivals, applied for
-assistance to Warren Hastings. A detachment of sepoys was accordingly
+assistance to Warren [[Hastings]]. A detachment of sepoys was accordingly
 marched into the state; the Bhutias, whose interference had led to this
 intervention, were expelled, and forced to sue for peace through the
 mediation of the lama of Tibet. By the treaty made on this occasion,
@@ -66,7 +66,7 @@ was educated under British guardianship at Patna and Calcutta, and
 became hon. lieutenant-colonel of the 6th Bengal Cavalry. In 1897-98 he
 served in the Tirah campaign on the staff of General Yeatman-Biggs, and
 received the distinction of a C.B. He was present at the Jubilee in
-1887, the Diamond Jubilee of 1897, and King Edward's Coronation in 1902,
+1887, the Diamond Jubilee of 1897, and King Edward's [[Coronation]] in 1902,
 and became a well-known figure in London society. In 1878 he married a
 daughter of Keshub Chunder Sen, the Brahmo leader. His eldest son was
 educated in England.

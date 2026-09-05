@@ -5,7 +5,7 @@ scholar, was born at Paris on the 12th of August 1774. In 1792 he
 entered the public service during the administration of General
 Dumouriez. Driven from it in 1795, he was restored by Lucien Bonaparte,
 during whose time of office he served as secretary to the prefecture of
-the Upper Marne. He then definitely resigned public employment and
+the Upper [[Marne]]. He then definitely resigned public employment and
 devoted himself to the study of Greek. In 1809 he was appointed deputy
 professor of Greek at the faculty of letters at Paris, and titular
 professor in 1813 on the death of P.H. Larcher. In 1828 he succeeded

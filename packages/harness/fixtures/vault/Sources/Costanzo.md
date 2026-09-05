@@ -6,7 +6,7 @@ with the beautiful Vittoria Colonna. His great work, _Le Istorie del
 regno di Napoli dal 1250 fino al 1498_, first appeared at Naples in
 1572, and was the fruit of thirty or forty years' labour; but nine more
 years were devoted to the task before it was issued in its final form at
-Aquila (1581). It is still one of the best histories of Naples, and the
+[[Aquila]] (1581). It is still one of the best histories of Naples, and the
 style is distinguished by clearness, simplicity and elegance. The _Rime_
 of di Costanzo are remarkable for finical taste, for polish and frequent
 beauty of expression, and for strict obedience to the poetical canons of

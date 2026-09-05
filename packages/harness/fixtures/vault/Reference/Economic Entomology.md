@@ -1,6 +1,6 @@
 # Economic Entomology
 
-ECONOMIC ENTOMOLOGY, the name given to the study of insects based on
+ECONOMIC ENTOMOLOGY, the name given to the study of [[Insect|insects]] based on
 their relation to man, his domestic animals and his crops, and, in the
 case of those that are injurious, of the practical methods by which they
 can be prevented from doing harm, or be destroyed when present. In Great
@@ -18,10 +18,10 @@ from Europe.
 
 Some idea of the importance of this subject may be gained from the
 following figures. The estimated loss by the vine _Phylloxera_ in the
-Gironde alone was L32,000,000; for all the French wine districts
+[[Gironde]] alone was L32,000,000; for all the French wine districts
 L100,000,000 would not cover the damage. It has been stated on good
 evidence that a loss of L7,000,000 per annum was caused by the attack of
-the ox warble fly on cattle in England alone. In a single season
+the ox warble [[Fly|fly]] on cattle in England alone. In a single season
 Aberdeenshire suffered nearly L90,000 worth of damage owing to the
 ravages of the diamond back moth on the root crops; in New York state
 the codling moth caused a loss of $3,000,000 to apple-growers. Yet these
@@ -30,16 +30,16 @@ and other pests.
 
   The most able exponent of this subject in Great Britain was John
   Curtis, whose treatise on _Farm Insects_, published in 1860, is still
-  the standard British work dealing with the insect foes of corn, roots,
+  the standard British work dealing with the insect foes of [[Corn|corn]], roots,
   grass and stored corn. The most important works dealing with fruit and
   other pests come from the pens of Saunders, Lintner, Riley,
   Slingerland and others in America and Canada, from Taschenberg, Lampa,
   Reuter and Kollar in Europe, and from French, Froggatt and Tryon in
-  Australia. It was not until the last quarter of the 19th century that
+  [[Australia]]. It was not until the last quarter of the 19th century that
   any real advance was made in the study of economic entomology. Among
   the early writings, besides the book of Curtis, there may also be
   mentioned a still useful little publication by Pohl and Kollar,
-  entitled _Insects Injurious to Gardeners, Foresters and Farmers_,
+  entitled _Insects Injurious to Gardeners, Foresters and [[Farmer|Farmers]]_,
   published in 1837, and Taschenberg's _Praktische Insecktenkunde_.
   American literature began as far back as 1788, when a report on the
   Hessian fly was issued by Sir Joseph Banks; in 1817 Say began his
@@ -49,7 +49,7 @@ and other pests.
   those of C.V. Riley, published by the U.S. Department of Agriculture,
   extending from 1878 to his death, in which is embodied an enormous
   amount of valuable matter. At his death the work fell to Professor
-  L.O. Howard, who constantly issues brochures of equal value in the
+  L.O. [[Howard]], who constantly issues brochures of equal value in the
   form of Bulletins of the U.S. Department of Agriculture. The chief
   writings of J.A. Lintner extend from 1882 to 1898, in yearly parts,
   under the title of _Reports on the Injurious Insects of the State of
@@ -69,8 +69,8 @@ and other pests.
   Cotes's _Notes on Economic Entomology_, published by the Indian Museum
   in 1888, and other works, especially on tea pests.
 
-Injurious insects occur among the following orders: _Coleoptera_,
-_Hymenoptera_, _Lepidoptera_, _Diptera_, _Hemiptera_ (both _heteroptera_
+Injurious insects occur among the following orders: _[[Coleoptera]]_,
+_Hymenoptera_, _[[Lepidoptera]]_, _[[Diptera]]_, _[[Hemiptera]]_ (both _heteroptera_
 and _homoptera_), _Orthoptera_, _Neuroptera_ and _Thysanoptera_. The
 order _Aptera_ also contains a few injurious species.
 
@@ -80,9 +80,9 @@ Click Beetle (_Agriotes lineatum_).]
 Among the _Coleoptera_ or beetles there is a group of world-wide pests,
 the _Elateridae_ or click beetles, the adults of the various
 "wireworms." The insects in the larval or wireworm stage attack the
-roots of plants, eating them away below the ground. The eggs deposited
+roots of plants, eating them away below the ground. The [[Egg|eggs]] deposited
 by the beetle in the ground develop into yellowish-brown wire-like grubs
-with six legs on the first three segments and a ventral prominence on
+with six [[Leg|legs]] on the first three segments and a ventral prominence on
 the anal segment. The life of these subterranean pests differs in the
 various species; some undoubtedly (_Agriotes lineatum_) live for three
 or four years, during the greater part of which time they gnaw away at
@@ -95,20 +95,20 @@ keep it firm, and thus preventing them from moving rapidly from plant to
 plant. A few crops, such as mustard, seem deleterious to them. By
 growing mustard and ploughing it in green the ground is made obnoxious
 to the wireworms, and may even be cleared of them. For root-feeders,
-bisulphide of carbon injected into the soil is of particular value. One
-ounce injected about 2 ft. from an apple tree on two sides has been
+bisulphide of [[Carbon|carbon]] injected into the soil is of particular value. One
+ounce injected about 2 ft. from an [[Apple|apple]] tree on two sides has been
 found to destroy all the ground form of the woolly aphis. In garden
 cultivation it is most useful for wireworm, used at the rate of 1 ounce
 to every 4 sq. yds. It kills all root pests.
 
-In Great Britain the flea beetles (_Halticidae_) are one of the most
+In Great Britain the [[Flea|flea]] beetles (_Halticidae_) are one of the most
 serious enemies; one of these, the turnip flea (_Phyllotreta nemorum_),
 has in some years, notably 1881, caused more than L500,000 loss in
 England and Scotland alone by eating the young seedling turnips, cabbage
 and other _Cruciferae_. In some years three or four sowings have to be
 made before a "plant" is produced, enormous loss in labour and cost of
 seed alone being thus involved. These beetles, characterized by their
-skipping movements and enlarged hind femora, also attack the hop
+skipping movements and enlarged hind femora, also attack the [[Hop|hop]]
 (_Haltica concinna_), the vine in America (_Graptodera chalybea_,
 Illig.), and numerous other species of plants, being specially harmful
 to seedlings and young growth. Soaking the seed in strong-smelling
@@ -134,33 +134,33 @@ of these beetles are nocturnal, this trapping should take place at
 night. Larval "weevils" mostly feed on the roots of plants, but some,
 such as the nut weevil (_Balaninus nucum_), live as larvae inside fruit.
 Seeds of various plants are also attacked by weevils of the family
-_Bruchidae_, especially beans and peas. These seed-feeders may be killed
+_Bruchidae_, especially [[Bean|beans]] and peas. These seed-feeders may be killed
 in the seeds by subjecting them to the fumes of bisulphide of carbon.
 The corn weevils (_Calandra granaria_ and _C. oryzae_) are now found all
-over the world, in many cases rendering whole cargoes of corn useless.
+over the world, in many cases rendering whole [[Cargo|cargoes]] of corn useless.
 
 The most important Hymenopterous pests are the sawflies or
 _Tenthredinidae_, which in their larval stage attack almost all
 vegetation. The larvae of these are usually spoken of as "false
-caterpillars," on account of their resemblance to the larvae of a moth.
+[[Caterpillar|caterpillars]]," on account of their resemblance to the larvae of a moth.
 They are most ravenous feeders, stripping bushes and trees completely of
 their foliage, and even fruit. Sawfly larvae can at once be recognized
 by the curious positions they assume, and by the number of pro-legs,
 which exceeds ten. The female lays her eggs in a slit made by means of
-her "saw-like" ovipositor in the leaf or fruit of a tree. The pupae in
+her "saw-like" ovipositor in the [[Leaf|leaf]] or fruit of a tree. The pupae in
 most of these pests are found in an earthen cocoon beneath the ground,
 or in some cases above ground (_Lophyrus pini_). One species, the
 slugworm (_Eriocampa limacina_), is common to Europe and America; the
 larva is a curious slug-like creature, found on the upper surface of the
 leaves of the pear and cherry, which secretes a slimy coating from its
-skin. Currant and gooseberry are also attacked by sawfly larvae
+skin. Currant and [[Gooseberry|gooseberry]] are also attacked by sawfly larvae
 (_Nematus ribesii_ and _N. ventricosus_) both in Europe and America.
-Other species attack the stalks of grasses and corn (_Cephus pygmaeus_).
+Other species attack the stalks of [[Grasses|grasses]] and corn (_Cephus pygmaeus_).
 Forest trees also suffer from their ravages, especially the conifers
 (_Lophyrus pini_). Another group of Hymenoptera occasionally causes much
 harm in fir plantations, namely, the _Siricidae_ or wood-wasps, whose
 larvae burrow into the trunks of the trees and thus kill them. For all
-exposed sawfly larvae hellebore washes are most fatal, but they must not
+exposed sawfly larvae [[Hellebore|hellebore]] washes are most fatal, but they must not
 be used over ripe or ripening fruit, as the hellebore is poisonous.
 
 The order Diptera contains a host of serious pests. These two-winged
@@ -168,7 +168,7 @@ insects attack all kinds of plants, and also animals in their larval
 stage. Many of the adults are bloodsuckers (_Tabanidae_, _Culicidae_,
 &c.); others are parasitic in their larval stage (_Oestridae_, &c.). The
 best-known dipterous pests are the Hessian fly (_Cecidomyia
-destructor_), the pear midge (_Diplosis pyrivora_), the fruit flies
+[[Destructor|destructor]]_), the pear midge (_Diplosis pyrivora_), the fruit flies
 (_Tephritis Tyroni_ of Queensland and _Halterophora capitata_ or the
 Mediterranean fruit fly), the onion fly (_Phorbia cepetorum_), and
 numerous corn pests, such as the gout fly (_Chloropstaeniopus_) and the
@@ -186,11 +186,11 @@ pests the ox warbles (_Hypoderma lineata_ and _H. bovis_) are the most
 important (see fig. 2). The "bots" or larvae of these flies live under
 the skin of cattle, producing large swollen lumps--"warbles"--in which
 the "bots" mature (fig. 2). These parasites damage the hide, set up
-inflammation, and cause immense loss to farmers, herdsmen and butchers.
+inflammation, and cause immense loss to farmers, herdsmen and [[Butcher|butchers]].
 The universal attack that has been made upon this pest has, however,
 largely decreased its numbers. In America cattle suffer much from the
-horn fly (_Haematobia serrata_). The dipterous garden pests, such as the
-onion fly, carrot fly and celery fly, can best be kept in check by the
+[[Horn|horn]] fly (_Haematobia serrata_). The dipterous garden pests, such as the
+onion fly, carrot fly and [[Celery|celery]] fly, can best be kept in check by the
 use of paraffin emulsions and the treatment of the soil with gas-lime
 after the crop is lifted. Cereal pests can only be treated by general
 cleanliness and good farming, and of course they are largely kept down
@@ -205,7 +205,7 @@ brumata_).]
 Lepidopterous enemies are numerous all over the world. Fruit suffers
 much from the larvae of the _Geometridae_, the so-called "looper-larvae"
 or "canker-worms." Of these geometers the winter moth (_Cheimatobia
-brumata_) is one of the chief culprits in Europe (fig. 3). The females
+brumata_) is one of the chief [[Culprit|culprits]] in Europe (fig. 3). The females
 in this moth and in others allied to it are wingless. These insects pass
 the pupal stage in the ground, and reach the boughs to lay their eggs by
 crawling up the trunks of the trees. To check them, "grease-banding"
@@ -219,11 +219,11 @@ Europe to America and to most of the British Colonies. In many years
 quite half the apple crop is lost in England owing to the larvae
 destroying the fruit. Sugar-canes suffer from the sugar-cane borer
 (_Diatioca sacchari_) in the West Indies; tobacco from the larvae of
-hawk moths (_Sphingidae_) in America; corn and grass from various
+[[Hawk|hawk]] moths (_Sphingidae_) in America; corn and grass from various
 Lepidopterous pests all over the world. Nor are stored goods exempt, for
 much loss annually takes place in corn and flour from the presence of
 the larvae of the Mediterranean flour moth (_Ephestia kuniella_); while
-furs and clothes are often ruined by the clothes moth (_Tinea
+[[Fur|furs]] and clothes are often ruined by the clothes moth (_Tinea
 trapezella_).
 
 By far the most destructive insects in warm climates belong to the
@@ -240,7 +240,7 @@ San Jose scale (_Aspidiotus perniciosus_), which in warm climates
 attacks all fruit and many other trees, which, if unmolested, it will
 soon kill (fig. 4). These scales breed very rapidly; Howard states one
 may give rise to a progeny of 3,216,080,400 in one year. Other scale
-insects of note are the cosmopolitan mussel scale (_Mytilaspis pomorum_)
+insects of note are the [[Cosmopolitan|cosmopolitan]] mussel scale (_Mytilaspis pomorum_)
 and the Australian _Icerya purchasi_. The former attacks apple and pear;
 the latter, which selects orange and citron, was introduced into America
 from Australia, and carried ruin before it in some orange districts
@@ -254,12 +254,12 @@ After the _Coccidae_ the next most important insects economically are
 the plant lice or _Aphididae_. These breed with great rapidity under
 favourable conditions: one by the end of the year will be accountable,
 according to Linnaeus, for the enormous number of a quintillion of its
-species. Aphides are born, as a rule, alive, and the young soon commence
+species. [[Aphides]] are born, as a rule, alive, and the young soon commence
 to reproduce again. Their food consists mainly of the sap obtained from
 the leaves and blossom of plants, but some also live on the roots of
 plants (_Phylloxera vastatrix_ and _Schizoneura lanigera_). Aphides
 often ruin whole crops of fruit, corn, hops, &c., by sucking out the
-sap, and not only check growth, but may even entail the death of the
+sap, and not only check growth, but may even [[Entail|entail]] the death of the
 plant. Reproduction is mainly asexual, the females producing living
 young without the agency of a male. Males in nearly all species appear
 once a year, when the last female generation, the ovigerous generation,
@@ -272,7 +272,7 @@ May or later, and then flies off to the hops, where it causes endless
 harm all the summer (fig. 5); it flies back to the prunes to lay its
 eggs when the hops are ripe. Another aphis of importance is the woolly
 aphis (_Schizoneura lanigera_) of the apple and pear: it secretes tufts
-of white flocculent wool often to be seen hanging in patches from old
+of white flocculent wool often to be seen [[Hanging|hanging]] in patches from old
 apple trees, where the insects live in the rough bark and form cankered
 growths both above and below ground. Aphides are provided with a mealy
 skin, which does not allow water to be attached to it, and thus
@@ -298,7 +298,7 @@ vulgaris_) and various cockroaches (_Blattidae_) are also amongst the
 pests found in this order.
 
 Of _Neuroptera_ there are but few injurious species, and many, such as
-the lace wing flies (_Hemerobiidae_), are beneficial.
+the [[Lace|lace]] wing flies (_Hemerobiidae_), are beneficial.
 
 _The Treatment of Insect Pests._--One of the most important ways of
 keeping insect pests in check is by "spraying" or "washing." This method
@@ -325,7 +325,7 @@ structure of the pest.
   kills by contact, and may be prepared in the following way:--Dissolve
   6 to 8 lb. of the best soft soap in boiling soft water and while still
   hot (but of course taken off the fire) add 1 gallon of paraffin oil
-  and churn well together with a force-pump; the whole may then be mixed
+  and [[Churn|churn]] well together with a force-pump; the whole may then be mixed
   with 100 gallons of soft water. The oil readily separates from the
   water, and thus a perfect emulsion is not obtained: this difficulty
   has been solved by Mr Cousin's paraffin naphthalene wash, which is
@@ -337,7 +337,7 @@ structure of the pest.
 
   These two washes are essential to the well-being of every orchard in
   all climates. Not only can we now destroy larval and adult insects,
-  but we can also attack them in the egg stage by the use of a caustic
+  but we can also attack them in the egg stage by the use of a [[Caustic|caustic]]
   alkali wash during the winter; besides destroying the eggs of such
   pests as the _Psyllidae_, red spider, and some aphides, this also
   removes the vegetal encumbrances which shelter numerous other insect
@@ -357,7 +357,7 @@ structure of the pest.
   to 25 gallons, and well stir. Bottle this off, and when required for
   use dilute with three times its bulk of warm soft water, and spray
   over the trees in the early spring just before the buds burst. For
-  mites (_Acari_) sulphur is the essential ingredient of a spray. Liver
+  mites (_Acari_) sulphur is the essential ingredient of a spray. [[Liver]]
   of sulphur has been found to be the best form, especially when mixed
   with a paraffin emulsion. Bud mites (_Phytoptidae_, fig. 6) are of
   course not affected. Sulphur wash is made by adding to every 10
@@ -369,7 +369,7 @@ structure of the pest.
   foreign climate. This treatment, both out of doors and under glass, is
   carried out as follows:--Cover the plants in bulk with a light
   gas-tight cloth, or put them in a special fumigating house, and then
-  place 1 oz. of cyanide of potassium in lumps in a dish with water
+  place 1 oz. of [[Cyanide|cyanide]] of potassium in lumps in a dish with water
   beneath the covering, and then pour 1 oz. of sulphuric acid over it
   (being careful not to inhale the poisonous fumes) for every 1000 cub.
   ft. of space beneath the cover. The gas generated, prussic acid,
@@ -382,7 +382,7 @@ structure of the pest.
   For spraying, proper instruments must be used, by means of which the
   liquid is sent out over the plants in as fine a mist as possible.
   Numerous pumps and nozzles are now made by which this end is attained.
-  Both horse and hand machines are employed, the former for hops and
+  Both horse and hand [[Machine|machines]] are employed, the former for hops and
   large orchards, the latter for bush fruit and gardens. In America,
   where trees in parks as well as orchards and gardens are treated,
   steam-power is sometimes used. Among the most important sprayers are
@@ -400,7 +400,7 @@ structure of the pest.
 _Beneficial Insects_ have also to be considered in economic entomology.
 They are of two kinds--(1) those that help to keep down an excess of
 other insects by acting either as parasites or by being insectivorous in
-habit; and (2) insects of economic value, such as the bee and silkworm.
+habit; and (2) insects of economic value, such as the [[Bee|bee]] and silkworm.
 Amongst the most important friends to the farmer and gardener are the
 Hymenopterous families of ichneumon flies (_Ichneumonidae_ and
 _Braconidae_); the Dipterous families _Syrphidae_ and _Tachinidae_; the

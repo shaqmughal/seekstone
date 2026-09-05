@@ -13,8 +13,8 @@ son of Sir Erasmus Dryden. The leanings and connexions of the family
 were Puritan and anti-monarchical. Sir Erasmus Dryden went to prison
 rather than pay loan money to Charles I.; the poet's uncle, Sir John
 Dryden, and his father Erasmus, served on government commissions during
-the Commonwealth. His mother's family, the Pickerings, were still more
-prominent on the Puritan side. Sir Gilbert Pickering, his cousin, was
+the [[Commonwealth]]. His mother's family, the Pickerings, were still more
+prominent on the Puritan side. Sir Gilbert Pickering, his [[Cousin|cousin]], was
 chamberlain to the Protector, and was summoned to Cromwell's House of
 Lords in 1657. A trustworthy tradition asserts that John Dryden was born
 at the rectory of Aldwinkle All Saints, of which his maternal
@@ -27,7 +27,7 @@ own fortune, added to his wife's, was not large, procured for the poet,
 who was the eldest of fourteen children, admission to Westminster school
 as a king's scholar, under the famous Dr Busby. Some elegiac verses
 which Dryden wrote there on the death of a schoolfellow, Henry, Lord
-Hastings, son of the earl of Huntingdon, in 1649, were published in
+[[Hastings]], son of the earl of Huntingdon, in 1649, were published in
 _Lacrymae Musarum_, among other elegies by "divers persons of nobility
 and worth" in commemoration of the same event. He appeared soon after
 again in print, among writers of commendatory verses to a friend of his,
@@ -48,18 +48,18 @@ not have been acquired without practice.
 The middle of 1657 is given as the date of his leaving the university to
 take up his residence in London. In one of his many subsequent literary
 quarrels, it was said by Shadwell that he had been clerk to Sir Gilbert
-Pickering, his cousin, who was chamberlain to Cromwell; and nothing is
+Pickering, his cousin, who was chamberlain to [[Cromwell]]; and nothing is
 more likely than that he obtained some employment under his powerful
 cousin when he came to London. He is said to have lived at first in the
 house of his first publisher, Herringman, with whom he was connected
-till 1679, when Jacob Tonson began to publish his books. He first
+till 1679, when [[Jacob]] Tonson began to publish his books. He first
 emerged from obscurity with his _Heroic Stanzas_ (1659) to the memory of
 the Protector. That these stanzas should have made him a name as a poet
 does not appear surprising when we compare them with Waller's verses on
 the same occasion. Dryden took some time to consider them, and it was
 impossible that they should not give an impression of his intellectual
-strength. Donne was his model; it is obvious that both his ear and his
-imagination were saturated with Donne's elegiac strains when he wrote;
+strength. Donne was his model; it is obvious that both his [[Ear|ear]] and his
+[[Imagination|imagination]] were saturated with Donne's elegiac strains when he wrote;
 yet when we look beneath the surface we find unmistakable traces that
 the pupil was not without decided theories that ran counter to the
 practice of the master. It is plainly not by accident that each stanza
@@ -74,16 +74,16 @@ the memory of Cromwell.
 To those who regard the poet as a seer with a sacred mission, and refuse
 the name altogether to a literary manufacturer to order, it comes with a
 certain shock to find Dryden, the hereditary Puritan, the panegyrist of
-Cromwell, hailing the return of King Charles in _Astraea Redux_ (1660),
+Cromwell, hailing the return of King Charles in _[[Astraea]] Redux_ (1660),
 deploring his long absence, and proclaiming the despair with which he
 had seen "the rebel thrive, the loyal crost." _A Panegyric on the
-Coronation_ followed in 1661. From a literary point of view also,
+[[Coronation]]_ followed in 1661. From a literary point of view also,
 _Astraea Redux_ is inferior to the _Heroic Stanzas_.
 
 Dryden was compelled to supplement his slender income by his writings.
 He naturally first thought of tragedy,--his own genius, as he has
 informed us, inclining him rather to that species of composition; and in
-the first year of the Restoration he wrote a tragedy on the fate of
+the first year of the Restoration he wrote a tragedy on the [[Fate|fate]] of
 Henry, duke of Guise. But some friends advised him that its construction
 was not suited to the requirements of the stage, so he put it aside, and
 used only one scene of the original play later on, when he again
@@ -92,7 +92,7 @@ a suitable tragedy, he next turned his attention to comedy, although, as
 he admitted, he had little natural turn for it. "I confess," he said, in
 a short essay in his own defence, printed before _The Indian Emperor_,
 "my chief endeavours are to delight the age in which I live. If the
-humour of this be for low comedy, small accidents and raillery, I will
+[[Humour|humour]] of this be for low comedy, small accidents and raillery, I will
 force my genius to obey it, though with more reputation I could write in
 verse. I know I am not so fitted by nature to write comedy; I want that
 gaiety of humour which is required to it. My conversation is slow and
@@ -103,7 +103,7 @@ reputation in them is the last thing to which I shall pretend." He was
 really as well as ostentatiously a playwright; the age demanded
 comedies, and he endeavoured to supply the kind of comedy that the age
 demanded. His first attempt was unsuccessful. Bustle, intrigue and
-coarsely humorous dialogue seemed to him to be part of the popular
+coarsely humorous [[Dialogue|dialogue]] seemed to him to be part of the popular
 demand; and, looking about for a plot, he found something to suit him in
 a Spanish source, and wrote _The Wild Gallant_. The play was acted in
 February 1663, by Thomas Killigrew's company in Vere Street. It was not
@@ -134,21 +134,21 @@ undisciplined force of the man carried him to an excess from which more
 dexterous writers held back.
 
 After the production of _The Rival Ladies_ in 1663, Dryden assisted Sir
-Robert Howard in the composition of a tragedy in heroic verse, _The
+Robert [[Howard]] in the composition of a tragedy in heroic verse, _The
 Indian Queen_, produced with great splendour in January 1664. He married
 Lady Elizabeth Howard, Sir Robert's sister and daughter of the 1st earl
 of Berkshire, on the 1st of December 1663. Lady Elizabeth's reputation
 was somewhat compromised before this union, which was not a happy one,
 and there is some evidence for the scandal in a letter written by her
-before her marriage to Philip, 2nd earl of Chesterfield. _The Indian
+before her marriage to Philip, 2nd earl of [[Chesterfield]]. _The Indian
 Queen_ was a great success, one of the greatest since the reopening of
 the theatres. This was in all likelihood due much less to the heroic
 verse and the exclusion of comic scenes from the tragedy than to the
 magnificent scenic accessories--the battles and sacrifices on the stage,
 the spirits singing in the air, and the god of dreams ascending through
 a trap. The novelty of these Indian spectacles, as well as of the Indian
-characters, with the splendid Queen Zempoalla, acted by Mrs Marshall in
-a real Indian dress of feathers presented to her by Mrs Aphra Behn, as
+characters, with the splendid Queen Zempoalla, acted by Mrs [[Marshall]] in
+a real Indian [[Dress|dress]] of [[Feather|feathers]] presented to her by Mrs Aphra Behn, as
 the centre of the play, was the chief secret of the success of _The
 Indian Queen_. These melodramatic properties were so marked a novelty
 that they could not fail to draw the town. Dryden was tempted to return
@@ -162,8 +162,8 @@ immediately after the success of _The Indian Queen_, in the preface to
 an edition (1664) of _The Rival Ladies_. In that first statement of his
 case, he considered the chief objection to the use of rhyme, and urged
 his chief argument in its favour. Rhyme was not natural, some people had
-said; to which he answers that it is as natural as blank verse, and that
-much of its unnaturalness is not the fault of the rhyme but of the
+said; to which he answers that it is as natural as [[Blank|blank]] verse, and that
+much of its unnaturalness is not the [[Fault|fault]] of the rhyme but of the
 writer, who has not sufficient command of language to rhyme easily. In
 favour of rhyme he has to say that it at once stimulates the
 imagination, and prevents it from being too discursive in its flights.
@@ -174,17 +174,17 @@ earl of Berkshire, he occupied a considerable part of his time in
 thinking over the principles of dramatic composition, and threw his
 conclusions into the form of a dialogue, which he called an _Essay of
 Dramatick Poesie_ and published in 1668. The essay takes the form of a
-dialogue between Neander (Dryden), Eugenius (Charles, Lord Buckhurst,
+dialogue between Neander (Dryden), [[Eugenius]] (Charles, Lord Buckhurst,
 afterwards earl of Dorset), Crites (Sir R. Howard), and Lisideius (Sir
-C. Sedley), who is made responsible for the famous definition of a play
-as a "just and lively image of human nature, representing its passions
+C. Sedley), who is made responsible for the famous [[Definition|definition]] of a play
+as a "just and lively [[Image|image]] of human nature, representing its passions
 and humours, and the changes of fortune to which it is subject, for the
 delight and instruction of mankind." Dryden's form is of course borrowed
 from the ancients, and his main source is the critical work of Corneille
 in the prefaces and discourses contained in the edition of 1660, but he
 was well acquainted with the whole body of contemporary French and
 Spanish criticism. Crites maintains the superiority of the classical
-drama; Lisideius supports the exacting rules of French dramatic writing;
+[[Drama|drama]]; Lisideius supports the exacting rules of French dramatic writing;
 Neander defends the English drama of the preceding generations,
 including, in a long speech, an examination of Ben Jonson's _Silent
 Woman_. Neander argues, however, that English drama has much to gain by
@@ -204,7 +204,7 @@ Before his return to town at the end of 1666, when the theatres (which
 had been closed during the disasters of 1665 and 1666) were reopened,
 Dryden wrote a poem on the Dutch war and the Great Fire entitled _Annus
 Mirabilis_. The poem is in quatrains, the metre of his _Heroic Stanzas_
-in praise of Cromwell, which Dryden chose, he tells us, "because he had
+in praise of Cromwell, which Dryden [[Chose|chose]], he tells us, "because he had
 ever judged it more noble and of greater dignity both for the sound and
 number than any other verse in use amongst us." The preface to the poem
 contains an interesting discussion of what he calls "wit-writing,"
@@ -219,12 +219,12 @@ From the reopening of the theatres in 1666 till November 1681, the date
 of his _Absalom and Achitophel_, Dryden produced nothing but plays. The
 stage was his chief source of income. _Secret Love, or the Maiden
 Queen_, a tragi-comedy, produced in March 1667, was based on an episode
-in the _Artamène, ou le Grand Cyrus_ of Mlle de Scudéry, the historical
+in the _Artamène, ou le Grand [[Cyrus]]_ of Mlle de Scudéry, the historical
 original of the "Maiden Queen" being Christina, queen of Sweden. The
 prologue claims that the piece is written with pains and thought, by the
 exactest rules, with strict observance of the unities, and "a mingled
-chime of Jonson's humour and of Corneille's rhyme"; but it owed its
-success chiefly to the charm of Nell Gwyn's acting in the part of
+[[Chime|chime]] of Jonson's humour and of Corneille's rhyme"; but it owed its
+success chiefly to the [[Charm|charm]] of Nell Gwyn's acting in the part of
 Florimel. It is noticeable that only the more passionate parts of the
 dialogue are rhymed, Dryden's theory apparently being that rhyme is then
 demanded for the elevation of the style. His next play, _Sir Martin
@@ -234,7 +234,7 @@ Duke's theatre, without the author's name, in 1667. It was about this
 time that Dryden became a retained writer under contract for the King's
 theatre, receiving from it £300 or £400 a year, till it was burnt down
 in 1672, and about £200 for six years more till the beginning of 1678.
-His co-operation with Davenant in a new version (1667) of Shakespeare's
+His co-operation with [[Davenant]] in a new version (1667) of Shakespeare's
 _Tempest_--for his share in which Dryden can hardly be pardoned on the
 ground that the chief alterations were happy thoughts of Davenant's,
 seeing that he affirms he never worked at anything with more
@@ -269,7 +269,7 @@ Christians by Maximin, in which St Catherine is introduced, and with her
 some supernatural machinery, was produced in 1669. It is in rhymed
 couplets, but the author again did not trust solely for success to them;
 for, besides the magic incantations, the singing angels, and the view of
-Paradise, he made Nell Gwyn, who had stabbed herself as Valeria, start
+Paradise, he made Nell [[Gwyn]], who had stabbed herself as Valeria, start
 to life again as she was being carried off the stage, and speak a
 riotous epilogue, in violent contrast to the serious character of the
 play. _Almanzor and Almahide, or the Conquest of Granada_, a tragedy in
@@ -289,7 +289,7 @@ Samuel Butler, Martin Clifford, Thomas Sprat and others, and produced in
 originally the hero, but on his death in 1668 the satire was turned upon
 Dryden, who is here unmercifully ridiculed under the name of Bayes, the
 name being justified by his appointment in 1670 as poet laureate and
-historiographer to the king (with a pension of £300 a year and a butt of
+historiographer to the king (with a pension of £300 a year and a [[Butt|butt]] of
 canary wine). It is said that _The Rehearsal_ was begun in 1663 and
 ready for representation before the plague. But this probably only means
 that Buckingham and his friends had resolved to burlesque the
@@ -320,7 +320,7 @@ written, with the exception of a few passages, in prose, and those
 passages in blank verse. An opera which he wrote in rhymed couplets,
 called _The State of Innocence, and Fall of Man_, an attempt to turn
 part of _Paradise Lost_ into rhyme, as a proof of its superiority to
-blank verse, was prefaced by an "Apology for Heroique Poetry and
+blank verse, was prefaced by an "[[Apology]] for Heroique Poetry and
 Poetique Licence," and entered at Stationers' Hall in 1674, but it was
 never acted. The redeeming circumstance about the performance is the
 admiration professed by the adapter for his original, which he
@@ -351,7 +351,7 @@ rhyme of the French dramatists as an advance in art, did not give
 unqualified praise to the regularity of their plots; he was disposed to
 allow the irregular structure of the Elizabethan dramatists, as being
 more favourable to variety both of action and of character. But now, in
-frank imitation of Shakespeare, he abandoned rhyme, and, if we might
+[[Frank|frank]] imitation of Shakespeare, he abandoned rhyme, and, if we might
 judge from _All for Love_, and the precepts laid down in his "Grounds of
 Criticism in Tragedy," prefixed to _Troilus and Cressida_ (1679), the
 chief point in which he aimed at excelling the Elizabethans was in
@@ -378,9 +378,9 @@ enslaved by love for Antony that she is incapable of using the
 calculated caprices and meretricious coquetries which Shakespeare's
 Cleopatra deliberately practises as the highest art of love, the surest
 way of maintaining her empire over her great captain's heart. It is with
-difficulty that Dryden's Cleopatra will agree, on the earnest
+difficulty that Dryden's Cleopatra will agree, on the [[Earnest|earnest]]
 solicitation of a wily counsellor, to feign a liking for Dolabella to
-excite Antony's jealousy, and she cannot keep up the pretence through a
+excite Antony's [[Jealousy|jealousy]], and she cannot keep up the pretence through a
 few sentences. The characters of the two lovers are thus very much
 contracted, indeed almost overwhelmed, beneath the pressure of the one
 ruling motive. And as Dryden thus introduces a greater regularity of
@@ -428,7 +428,7 @@ sinewy and powerful. It would be difficult to say whether _Don
 Sebastian_ or _All for Love_ is his best play; they share the palm
 between them. Dryden's subsequent plays are not remarkable. Their titles
 and dates are--_King Arthur_, an opera (1691), for which Purcell wrote
-the music; _Cleomenes_ (1692); _Love Triumphant_ (1694).
+the music; _[[Cleomenes]]_ (1692); _Love Triumphant_ (1694).
 
 Soon after Dryden's abandonment of heroic couplets in tragedy, he found
 new and more congenial work for his favourite instrument in satire. As
@@ -440,10 +440,10 @@ suspected of the authorship, and it is not impossible that he gave some
 help in revising it; but it is not likely that he attacked the king on
 whom he was dependent for the greater part of his income, and Mulgrave
 in a note to his _Art of Poetry_ in 1717 expressly asserts Dryden's
-ignorance. Dryden, however, was attacked in Rose Street, Covent Garden,
+[[Ignorance|ignorance]]. Dryden, however, was attacked in Rose Street, Covent Garden,
 and severely cudgelled by a company of ruffians who were generally
 supposed to have been hired by Rochester. In the same year Oldham's
-satire on the Jesuits had immense popularity, chiefly owing to the
+satire on the [[Jesuits]] had immense popularity, chiefly owing to the
 excitement about the Popish plot. Dryden took the field as a satirist
 towards the close of 1681, on the side of the court, at the moment when
 Shaftesbury, baffled in his efforts to exclude the duke of York from the
@@ -467,7 +467,7 @@ Three other satires followed _Absalom and Achitophel_, one of them
 hardly inferior in point of literary power. _The Medall_; a _Satyre
 against Sedition_ (March 1682) was written in ridicule of the medal
 struck to commemorate Shaftesbury's acquittal. Then Dryden had to take
-vengeance on the literary champions of the Whig party who had opened
+vengeance on the literary [[Champion|champions]] of the Whig party who had opened
 upon him with all their artillery. Their leader, Shadwell, had attacked
 him in _The Medal of John Bayes_, which Dryden answered in October 1682
 by _Mac Flecknoe, or a Satyr upon the True-Blew Protestant Poet, T.S._
@@ -483,7 +483,7 @@ still more dangerous.
 
 Dryden's next poem in heroic couplets was in a different strain. On the
 accession of James, in 1685, he became a Roman Catholic. There has been
-much discussion as to whether this conversion was or was not sincere. It
+much discussion as to whether this [[Conversion|conversion]] was or was not sincere. It
 can only be said that the coincidence between his change of faith and
 his change of patron was suspicious, and that Dryden's character for
 consistency is certainly not of a kind to quench suspicion. The force of
@@ -521,14 +521,14 @@ James II.'s heir, under the title of _Britannia rediviva_ (1688).
 
 Dryden did not abjure his new faith on the Revolution, and so lost his
 office and pension as laureate and historiographer royal. For this act
-of constancy he deserves credit, if the new powers would have considered
+of constancy he deserves [[Credit|credit]], if the new powers would have considered
 his services worth having after his frequent apostasies. His rival
 Shadwell reigned in his stead. Dryden was once more thrown mainly upon
 his pen for support. He turned again to the stage and wrote the plays
 already enumerated. A great feature in the last decade of his life was
-his translations from the classics. _Ovid's Epistles translated_
+his translations from the classics. _Ovid's [[Epistle|Epistles]] translated_
 appeared in 1680; and numerous translations from Virgil, Horace, Ovid,
-Lucretius and Theocritus appeared in the four volumes of _Miscellany
+[[Lucretius]] and Theocritus appeared in the four volumes of _Miscellany
 Poems_--_Miscellany Poems_ (1684), _Sylvae_ (1685), _Examen poeticum_
 (1693), _The Annual Miscellany_ (1694 by the "most eminent hands"); in
 1693 was published the verse translation of the _Satires_ of Juvenal and
@@ -542,7 +542,7 @@ period are the two "Songs for St Cecilia's Day," written for a London
 musical society for 1687 and 1697, and published separately. The second
 of these is the famous ode on "Alexander's Feast." The well-known
 paraphrase of _Veni, Creator Spiritus_ was posthumously printed, and his
-"Ode to the memory of Anne Killigrew," called by Dr Johnson the noblest
+"Ode to the memory of Anne [[Killigrew]]," called by Dr Johnson the noblest
 ode in the language, was written in 1686.
 
 His next work was to render some of Chaucer's and Boccaccio's tales and
@@ -550,7 +550,7 @@ Ovid's _Metamorphoses_ into his own verse. These translations appeared
 in November 1699, a few months before his death, and are known by the
 title of _Fables, Ancient and Modern_. The preface, which is an
 admirable example of Dryden's prose, contains an excellent appreciation
-of Chaucer, and, incidentally, an answer to Jeremy Collier's attack on
+of Chaucer, and, incidentally, an answer to [[Jeremy]] Collier's attack on
 the stage. Thus a large portion of the closing years of Dryden's life
 was spent in translating for bread. He had a windfall of 500 guineas
 from Lord Abingdon for a poem on the death of his wife in 1691, and he
@@ -564,7 +564,7 @@ the greatest of living English poets. He held a small court at Wills's
 coffee-house, where he spent his evenings; here he had a chair by the
 fire in winter and by the window in summer; Congreve, Vanbrugh and
 Addison were among his admirers, and here Pope saw the old poet of whom
-he was to be the most brilliant disciple. He died at his house in
+he was to be the most brilliant [[Disciple|disciple]]. He died at his house in
 Gerrard Street, London, on the 1st of May 1700 and was buried on the
 13th of the month in Westminster Abbey. Dryden's portrait, by Sir G.
 Kneller, is in the National Portrait Gallery.
@@ -590,7 +590,7 @@ Kneller, is in the National Portrait Gallery.
   (English Men of Letters series, 1881), by G. Saintsbury; A. Beljame,
   _Le Public et les hommes de lettres en Angleterre 1660-1744_ (2nd ed.
   Paris, 1897); A. W. Ward, _History of English Dramatic Literature_
-  (new ed. 1899), vol. iii. pp. 346-392; J. Churton Collins, _Essays and
+  (new ed. 1899), vol. iii. pp. 346-392; J. Churton [[Collins]], _Essays and
   Studies_; W. J. Courthope, _History of English Poetry_, vol. iv.
   (1903), chap, xiv., and L. N. Chase, _The English Heroic Play_ (New
   York, 1903). See also ENGLISH LITERATURE.     (W. M.; M. BR.)

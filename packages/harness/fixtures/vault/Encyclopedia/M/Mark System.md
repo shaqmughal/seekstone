@@ -11,7 +11,7 @@ system which prevailed--to what extent or for how long is uncertain--in
 that country. It is generally assumed that the lands of the mark were
 divided into three portions, forest, meadow and arable, and as in the
 manorial system which was later in vogue elsewhere, a system of rotation
-of crops in two, three or even six fields was adopted, each member of
+of crops in two, three or even six [[Fields|fields]] was adopted, each member of
 the community having rights of pasture in the forest and the meadow, and
 a certain share of the arable. The mark was a self-governing community.
 Its affairs were ordered by the markmen who met together at stated times
@@ -27,7 +27,7 @@ was extensively adopted, being the foundation upon which the prevailing
 land system in early England was built. An opposing school denies
 entirely the existence of the mark system, and a French writer, Fustel
 de Coulanges, refers to it contemptuously as "a figment of the Teutonic
-imagination." This view is based largely upon the supposition that
+[[Imagination|imagination]]." This view is based largely upon the supposition that
 common ownership of the land was practically unknown among the early
 Germans, and was by no means general among the early English. The truth
 will doubtless be found to lie somewhere between the two extremes. The
@@ -40,10 +40,10 @@ elements which are also found in the mark system.
   written _Einleitung zur Geschichte der Mark- Hof- Dorf- und
   Stadtverfassung und der öffentlichen Gewalt_ (Munich, 1854; new ed.,
   Vienna, 1896), and _Geschichte der Markenverfassung in Deutschland_
-  (Erlangen, 1856). See also N. D. Fustel de Coulanges, _Recherches sur
+  ([[Erlangen]], 1856). See also N. D. Fustel de Coulanges, _Recherches sur
   quelques problèmes de l'histoire_ (1885); and a translation from the
   same writer's works called _The Origin of Property in Land_, by M.
-  Ashley. This contains an introductory chapter by Professor W. J.
+  [[Ashley]]. This contains an introductory chapter by Professor W. J.
   Ashley. Other authorities are K. Lamprecht, _Deutsches
   Wirtschaftsleben im Mittelalter_ (Leipzig, 1886); R. Schröder,
   _Lehrbuch der deutschen Rechtsgeschichte_ (Leipzig, 1902); and W.

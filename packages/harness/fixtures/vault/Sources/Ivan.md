@@ -9,13 +9,13 @@ tags: [history, biography]
 
 # Ivan
 
-IVAN (JOHN), the name of six grand dukes of Muscovy and tsars of Russia.
+IVAN (JOHN), the name of six grand [[Dukes|dukes]] of Muscovy and tsars of Russia.
 
 IVAN I., called _Kalita_, or Money-Bag (d. 1341), grand duke of
 Vladimir, was the first _sobiratel_, or "gatherer" of the scattered
 Russian lands, thereby laying the foundations of the future autocracy as
 a national institution. This he contrived to do by adopting a policy of
-complete subserviency to the khan of the Golden Horde, who, in return
+complete subserviency to the [[Khan|khan]] of the [[Golden Horde]], who, in return
 for a liberal and punctual tribute, permitted him to aggrandize himself
 at the expense of the lesser grand dukes. Moscow and Tver were the first
 to fall. The latter Ivan received from the hand of the khan, after
@@ -24,10 +24,10 @@ Tver fled to the powerful city of Pskov, Ivan, not strong enough to
 attack Pskov, procured the banishment of Alexander by the aid of the
 metropolitan, Theognost, who threatened Pskov with an interdict. In 1330
 Ivan extended his influence over Rostov by the drastic methods of
-blackmail and hanging. But Great Novgorod was too strong for him, and
+[[Blackmail|blackmail]] and [[Hanging|hanging]]. But Great Novgorod was too strong for him, and
 twice he threatened that republic in vain. In 1340 Ivan assisted the
 khan to ravage the domains of Prince Ivan of Smolensk, who had refused
-to pay the customary tribute to the Horde. Ivan's own domains, at any
+to pay the customary tribute to the [[Horde]]. Ivan's own domains, at any
 rate during his reign, remained free from Tatar incursions, and
 prospered correspondingly, thus attracting immigrants and their wealth
 from the other surrounding principalities. Ivan was a most careful, not
@@ -51,7 +51,7 @@ IVAN II. (1326-1359), grand duke of Vladimir, a younger son of Ivan
 Kalita, was born in 1326. In 1353 he succeeded his elder brother Simeon
 as grand duke, despite the competition of Prince Constantine of Suzdal,
 the Khan Hanibek preferring to bestow the _yarluik_, or letter of
-investiture, upon Ivan rather than upon Constantine. At first the
+[[Investiture|investiture]], upon Ivan rather than upon Constantine. At first the
 principalities of Suzdal, Ryazan and the republic of Novgorod refused to
 recognize him as grand duke, and waged war with him till 1354. The
 authority of the grand duchy sensibly diminished during the reign of
@@ -65,7 +65,7 @@ divided his dominions among his children.
   See Dmitry Ilovaisky, _History of Russia_ (Rus.), vol. ii. (Moscow,
   1876-1894).
 
-IVAN III. (1440-1505), grand duke of Muscovy, son of Vasily (Basil)
+IVAN III. (1440-1505), grand duke of Muscovy, son of Vasily ([[Basil]])
 Vasilievich the Blind, grand duke of Moscow, and Maria Yaroslavovna, was
 born in 1440. He was co-regent with his father during the latter years
 of his life and succeeded him in 1462. Ivan tenaciously pursued the
@@ -85,7 +85,7 @@ Novgorod in 1470, and after his generals had twice defeated the forces
 of the republic, at Shelona and on the Dvina, during the summer of 1471,
 the Novgorodians were forced to sue for peace, which they obtained on
 engaging to abandon for ever the Polish alliance, ceding a considerable
-portion of their northern colonies, and paying a war indemnity of 15,500
+portion of their northern colonies, and paying a war [[Indemnity|indemnity]] of 15,500
 roubles. From henceforth Ivan sought continually a pretext for
 destroying Novgorod altogether; but though he frequently violated its
 ancient privileges in minor matters, the attitude of the republic was so
@@ -115,7 +115,7 @@ though the princes were assisted by Lithuania, he emerged victorious.
 Finally, Ivan's new rule of government, formally set forth in his last
 will to the effect that the domains of all his kinsfolk, after their
 deaths, should pass directly to the reigning grand duke instead of
-reverting, as hitherto, to the princes' heirs, put an end once for all
+reverting, as hitherto, to the princes' [[Heir|heirs]], put an end once for all
 to these semi-independent princelets. The further extension of the
 Muscovite dominion was facilitated by the death of Casimir IV. in 1492,
 when Poland and Lithuania once more parted company. The throne of
@@ -142,17 +142,17 @@ routed and slain by Ivak, the khan of the Nogai Tatars, whereupon the
 Golden Horde suddenly fell to pieces. In 1487 Ivan reduced the khanate
 of Kazan (one of the offshoots of the Horde) to the condition of a
 vassal-state, though in his later years it broke away from his
-suzerainty. With the other Mahommedan powers, the khan of the Crimea and
+suzerainty. With the other Mahommedan powers, the khan of the [[Crimea]] and
 the sultan of Turkey, Ivan's relations were pacific and even amicable.
 The Crimean khan, Mengli Girai, helped him against Lithuania and
 facilitated the opening of diplomatic intercourse between Moscow and
-Constantinople, where the first Russian embassy appeared in 1495.
+Constantinople, where the first Russian [[Embassy|embassy]] appeared in 1495.
 
 The character of the government of Muscovy under Ivan III. changed
 essentially and took on an autocratic form which it had never had
 before. This was due not merely to the natural consequence of the
-hegemony of Moscow over the other Russian lands, but even more to the
-simultaneous growth of new and exotic principles falling upon a soil
+[[Hegemony|hegemony]] of Moscow over the other Russian lands, but even more to the
+simultaneous growth of new and [[Exotic|exotic]] principles falling upon a soil
 already prepared for them. After the fall of Constantinople, orthodox
 canonists were inclined to regard the Muscovite grand dukes as the
 successors by the Byzantine emperors. This movement coincided with a
@@ -160,27 +160,27 @@ change in the family circumstances of Ivan III. After the death of his
 first consort, Maria of Tver (1467), at the suggestion of Pope Paul II.
 (1469), who hoped thereby to bind Russia to the holy see, Ivan III.
 wedded the Catholic Zoe Palaeologa (better known by her orthodox name of
-Sophia), daughter of Thomas, despot of the Morea, who claimed the throne
+Sophia), daughter of Thomas, [[Despot|despot]] of the Morea, who claimed the throne
 of Constantinople as the nearest relative of the last Greek emperor. The
 princess, however, clave to her family traditions, and awoke imperial
 ideas in the mind of her consort. It was through her influence that the
-ceremonious etiquette of Constantinople (along with the imperial
-double-headed eagle and all that it implied) was adopted by the court of
+ceremonious [[Etiquette|etiquette]] of Constantinople (along with the imperial
+double-headed [[Eagle|eagle]] and all that it implied) was adopted by the court of
 Moscow. The grand duke henceforth held aloof from his boyars. The old
 patriarchal systems of government vanished. The boyars were no longer
 consulted on affairs of state. The sovereign became sacrosanct, while
 the boyars were reduced to the level of slaves absolutely dependent on
 the will of the sovereign. The boyars naturally resented so insulting a
 revolution, and struggled against it, at first with some success. But
-the clever Greek lady prevailed in the end, and it was her son Vasily,
-not Maria of Tver's son, Demetrius, who was ultimately crowned co-regent
+the [[Clever|clever]] Greek lady prevailed in the end, and it was her son Vasily,
+not Maria of Tver's son, [[Demetrius]], who was ultimately crowned co-regent
 with his father (April 14, 1502). It was in the reign of Ivan III. that
-the first Russian "Law Book," or code, was compiled by the scribe Gusev.
+the first Russian "Law Book," or [[Code|code]], was compiled by the scribe Gusev.
 Ivan did his utmost to promote civilization in his realm, and with that
 object invited many foreign masters and artificers to settle in Muscovy,
 the most noted of whom was the Italian Ridolfo di Fioravante, nicknamed
-Aristotle because of his extraordinary knowledge, who built the
-cathedrals of the Assumption (Uspenski) and of Saint Michael or the Holy
+[[Aristotle]] because of his extraordinary knowledge, who built the
+cathedrals of the [[Assumption]] (Uspenski) and of Saint Michael or the Holy
 Archangels in the Kreml.
 
   See P. Pierling, _Mariage d'un tsar au Vatican, Ivan III. et Sophie
@@ -205,7 +205,7 @@ a very early age he entertained an exalted idea of his own divine
 authority, and his studies were largely devoted to searching in the
 Scriptures and the Slavonic chronicles for sanctions and precedents for
 the exercise and development of his right divine. He first asserted his
-power by literally throwing to the dogs the last of his boyar tyrants,
+power by literally throwing to the [[Dogs|dogs]] the last of his boyar tyrants,
 and shortly afterwards announced his intention of assuming the title of
 tsar, a title which his father and grandfather had coveted but never
 dared to assume publicly. On the 16th of January 1547, he was crowned
@@ -223,7 +223,7 @@ public confession of the sins of his youth, and at the same time
 promised that the realm of Russia (for whose dilapidation he blamed the
 boyar regents) should henceforth be governed justly and mercifully. In
 1551 the tsar submitted to a synod of prelates a hundred questions as to
-the best mode of remedying existing evils, for which reason the decrees
+the best mode of remedying existing evils, for which reason the [[Decree|decrees]]
 of this synod are generally called _stoglav_ or _centuria_. The
 decennium extending from 1550 to 1560 was the good period of Ivan IV.'s
 reign, when he deliberately broke away from his disreputable past and
@@ -243,7 +243,7 @@ the period of their administration coincides with the most glorious
 period of Ivan's reign--the period of the conquest of Kazan and
 Astrakhan.
 
-In the course of 1551 one of the factions of Kazan offered the whole
+In the course of 1551 one of the [[Faction|factions]] of Kazan offered the whole
 khanate to the young tsar, and on the 20th of August 1552 he stood
 before its walls with an army of 150,000 men and 50 guns. The siege was
 long and costly; the army suffered severely; and only the tenacity of
@@ -257,7 +257,7 @@ Christian Europe marshalled beneath the banner of the tsar of Muscovy.
 For the first time the Volga became a Russian river. Nothing could now
 retard the natural advance of the young Russian state towards the east
 and the south-east. In 1554 Astrakhan fell almost without a blow. By
-1560 all the Finnic and Tatar tribes between the Oka and the Kama had
+1560 all the Finnic and Tatar tribes between the Oka and the [[Kama]] had
 become Russian subjects. Ivan was also the first tsar who dared to
 attack the Crimea. In 1555 he sent Ivan Sheremetev against Perekop, and
 Sheremetev routed the Tatars in a great two days' battle at
@@ -275,12 +275,12 @@ to do so by promoting a wholesale immigration into his tsardom of
 master-workmen and skilled artificers. But all his neighbours,
 apprehensive of the consequences of a civilized Muscovy, combined to
 thwart him. Charles V. even went so far as to disperse 123 skilled
-Germans whom Ivan's agent had collected and brought to Lübeck for
+Germans whom Ivan's agent had collected and brought to Lü[[Beck|beck]] for
 shipment to a Baltic port. After this, Ivan was obliged to help himself
 as best he could. His opportunity seemed to have come when, in the
 middle of the 16th century, the Order of the Sword broke up, and the
 possession of Livonia was fiercely contested between Sweden, Poland and
-Denmark. Ivan intervened in 1558 and quickly captured Narva, Dorpat and
+[[Denmark]]. Ivan intervened in 1558 and quickly captured Narva, Dorpat and
 a dozen smaller fortresses; then, in 1560, Livonia placed herself
 beneath the protection of Poland, and King Sigismund II. warned Ivan off
 the premises.
@@ -288,21 +288,21 @@ the premises.
 By this time, Ivan had entered upon the second and evil portion of his
 reign. As early as 1553 he had ceased to trust Sylvester and Adashev,
 owing to their extraordinary backwardness in supporting the claims of
-his infant son to the throne while he himself lay at the point of death.
+his [[Infant|infant]] son to the throne while he himself lay at the point of death.
 The ambiguous and ungrateful conduct of the tsar's intimate friends and
 protégés on this occasion has never been satisfactorily explained, and
 he had good reason to resent it. Nevertheless, on his recovery, much to
-his credit, he overlooked it, and they continued to direct affairs for
+his [[Credit|credit]], he overlooked it, and they continued to direct affairs for
 six years longer. Then the dispute about the Crimea arose, and Ivan
 became convinced that they were mediocre politicians as well as
 untrustworthy friends. In 1560 both of them disappeared from the scene,
 Sylvester into a monastery at his own request, while Adashev died the
-same year, in honourable exile as a general in Livonia. The death of his
+same year, in [[Honourable|honourable]] exile as a general in Livonia. The death of his
 deeply beloved consort Anastasia and his son Demetrius, and the
-desertion of his one bosom friend Prince Kurbsky, about the same time,
+[[Desertion|desertion]] of his one bosom friend Prince Kurbsky, about the same time,
 seem to have infuriated Ivan against God and man. During the next ten
 years (1560-1570) terrible and horrible things happened in the realm of
-Muscovy. The tsar himself lived in an atmosphere of apprehension,
+Muscovy. The tsar himself lived in an atmosphere of [[Apprehension|apprehension]],
 imagining that every man's hand was against him. On the 3rd of December
 1564 he quitted Moscow with his whole family. On the 3rd of January 1565
 he declared in an open letter addressed to the metropolitan his
@@ -311,7 +311,7 @@ the expense of the boyars, thereupon implored him to come back on his
 own terms. He consented to do so, but entrenched himself within a
 peculiar institution, the _oprichina_ or "separate estate." Certain
 towns and districts all over Russia were separated from the rest of the
-realm, and their revenues were assigned to the maintenance of the tsar's
+realm, and their revenues were assigned to the [[Maintenance|maintenance]] of the tsar's
 new court and household, which was to consist of 1000 carefully selected
 boyars and lower dignitaries, with their families and suites, in the
 midst of whom Ivan henceforth lived exclusively. The _oprichina_ was no
@@ -338,10 +338,10 @@ population. Every monastery, church, manor-house, warehouse and farm
 within a circuit of 100 m. was then wrecked, plundered and left
 roofless, all goods were pillaged, all cattle destroyed. Not till the
 13th of February were the miserable remnants of the population permitted
-to rebuild their houses and cultivate their fields once more.
+to rebuild their houses and cultivate their [[Fields|fields]] once more.
 
 An intermittent and desultory war, with Sweden and Poland
-simultaneously, for the possession of Livonia and Esthonia, went on from
+simultaneously, for the possession of Livonia and [[Esthonia]], went on from
 1560 to 1582. Ivan's generals (he himself rarely took the field) were
 generally successful at first, and bore down their enemies by sheer
 numbers, capturing scores of fortresses and towns. But in the end the
@@ -355,7 +355,7 @@ Ilyusa he at the same time abandoned Ingria to the Swedes. The Baltic
 seaboard was lost to Muscovy for another century and a half. In his
 latter years Ivan cultivated friendly relations with England, in the
 hope of securing some share in the benefits of civilization from the
-friendship of Queen Elizabeth, one of whose ladies, Mary Hastings, he
+friendship of Queen Elizabeth, one of whose ladies, Mary [[Hastings]], he
 wished to marry, though his fifth wife, Martha Nagaya, was still alive.
 Towards the end of his life Ivan was partially consoled for his failure
 in the west by the unexpected acquisition of the kingdom of Siberia in
@@ -371,7 +371,7 @@ ruse, refused to obey any one but himself. Three years later, on the
 18th of March 1584, while playing at chess, he suddenly fell backwards
 in his chair and was removed to his bed in a dying condition. At the
 last moment he assumed the hood of the strictest order of hermits, and
-died as the monk Jonah.
+died as the monk [[Jonah]].
 
 Ivan IV. was undoubtedly a man of great natural ability. His political
 foresight was extraordinary. He anticipated the ideals of Peter the
@@ -387,17 +387,17 @@ the horrors of "the Great Anarchy." Personally, Ivan was tall and
 well-made, with high shoulders and a broad chest. His eyes were small
 and restless, his nose hooked, he had a beard and moustaches of imposing
 length. His face had a sinister, troubled expression; but an enigmatical
-smile played perpetually around his lips. He was the best educated and
+smile played perpetually around his [[Lip|lips]]. He was the best educated and
 the hardest worked man of his age. His memory was astonishing, his
 energy indefatigable. As far as possible he saw to everything
 personally, and never sent away a petitioner of the lower orders.
 
   See S. M. Solov'ev, _History of Russia_ (Rus.) vol. v. (St Petersburg,
   1895); A. Brückner, _Geschichte Russlands bis zum Ende des 18ten
-  Jahrhunderts_ (Gotha, 1896); E. Tikhomirov, _The first Tsar of
+  Jahrhunderts_ ([[Gotha]], 1896); E. Tikhomirov, _The first Tsar of
   Moscovy, Ivan IV._ (Rus.) (Moscow, 1888); L. G. T. Tidander, _Kriget
   mellan Sverige och Ryssland åren 1555-1557_ (Vesterås, 1888); P.
-  Pierling, _Un Arbitrage pontifical au XVI^e siècle entre la Pologne et
+  Pierling, _Un [[Arbitrage]] pontifical au XVI^e siècle entre la Pologne et
   la Russie_ (Bruxelles, 1890); V. V. Novodvorsky, _The Struggle for
   Livonia, 1570-1582_ (Rus.) (St Petersburg, 1904); K. Waliszewski,
   _Ivan le terrible_ (Paris, 1904); R. N. Bain, _Slavonic Europe_, ch. 5
@@ -408,7 +408,7 @@ Mikhailovich and his first consort Miloslavzkoya. Physically and
 mentally deficient, Ivan was the mere tool of the party in Muscovy who
 would have kept the children of the tsar Alexis, by his second consort
 Natalia Naruishkina, from the throne. In 1682 the party of progress,
-headed by Artamon Matvyeev and the tsaritsa Natalia, passed Ivan over
+headed by Artamon [[Matvyeev]] and the tsaritsa Natalia, passed Ivan over
 and placed his half-brother, the vigorous and promising little tsarevich
 Peter, on the throne. On the 23rd of May, however, the Naruishkin
 faction was overthrown by the _stryeltsi_ (musketeers), secretly worked
@@ -422,9 +422,9 @@ adherents with his own hands, but subsequently, beneath the influence of
 his uncle Prozorovsky, he openly declared that "even for his sister's
 sake, he would quarrel no longer with his dear brother." During the
 reign of his colleague Peter, Ivan V. took no part whatever in affairs,
-but devoted himself "to incessant prayer and rigorous fasting." On the
+but devoted himself "to incessant prayer and rigorous [[Fasting|fasting]]." On the
 9th of January 1684 he married Praskovia Saltuikova, who bore him five
-daughters, one of whom, Anne, ultimately ascended the Russian throne. In
+daughters, one of whom, [[Anne]], ultimately ascended the Russian throne. In
 his last years Ivan was a paralytic. He died on the 29th of January
 1696.
 
@@ -433,11 +433,11 @@ his last years Ivan was a paralytic. He died on the 29th of January
   (Rus.) (Moscow, 1875).
 
 IVAN VI. (1740-1764), emperor of Russia, was the son of Prince Antony
-Ulrich of Brunswick, and the princess Anna Leopoldovna of Mecklenburg,
+Ulrich of Brunswick, and the princess [[Anna Leopoldovna]] of [[Mecklenburg]],
 and great-nephew of the empress Anne, who adopted him and declared him
 her successor on the 5th of October 1740, when he was only eight weeks
 old. On the death of Anne (October 17th) he was proclaimed emperor, and
-on the following day Ernest Johann Biren, duke of Courland, was
+on the following day Ernest Johann Biren, duke of [[Courland]], was
 appointed regent. On the fall of Biren (November 8th), the regency
 passed to the baby tsar's mother, though the government was in the hands
 of the capable vice-chancellor, Andrei Osterman. A little more than
@@ -456,7 +456,7 @@ care really was. On the accession of Peter III. the condition of the
 unfortunate prisoner seemed about to be ameliorated, for the
 kind-hearted emperor visited and sympathized with him; but Peter himself
 was overthrown a few weeks later. In the instructions sent to Ivan's
-guardian, Prince Churmtyev, the latter was ordered to chain up his
+[[Guardian|guardian]], Prince Churmtyev, the latter was ordered to chain up his
 charge, and even scourge him should he become refractory. On the
 accession of Catherine still more stringent orders were sent to the
 officer in charge of "the nameless one." If any attempt were made from
@@ -470,7 +470,7 @@ he was well aware of his imperial origin, and always called himself
 _gosudar_ (sovereign). Though instructions had been given to keep him
 ignorant, he had been taught his letters and could read his Bible. Nor
 could his residence at Schlüsselburg remain concealed for ever, and its
-discovery was the cause of his ruin. A sub-lieutenant of the garrison,
+discovery was the cause of his ruin. A sub-lieutenant of the [[Garrison|garrison]],
 Vasily Mirovich, found out all about him, and formed a plan for freeing
 and proclaiming him emperor. At midnight on the 5th of July 1764,
 Mirovich won over some of the garrison, arrested the commandant,

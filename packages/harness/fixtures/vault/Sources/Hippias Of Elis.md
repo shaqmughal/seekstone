@@ -8,15 +8,15 @@ important embassies. At Athens he made the acquaintance of Socrates and
 other leading thinkers. With an assurance characteristic of the later
 sophists, he claimed to be regarded as an authority on all subjects, and
 lectured, at all events with financial success, on poetry, grammar,
-history, politics, archaeology, mathematics and astronomy. He boasted
+history, politics, [[Archaeology|archaeology]], mathematics and [[Astronomy|astronomy]]. He boasted
 that he was more popular than Protagoras, and was prepared at any moment
 to deliver an extempore address on any subject to the assembly at
 Olympia. Of his ability there is no question, but it is equally certain
 that he was superficial. His aim was not to give knowledge, but to
 provide his pupils with the weapons of argument, to make them fertile in
 discussion on all subjects alike. It is said that he boasted of wearing
-nothing which he had not made with his own hands. Plato's two dialogues,
-the _Hippias major_ and _minor_, contain an expose of his methods,
+nothing which he had not made with his own hands. Plato's two [[Dialogue|dialogues]],
+the _Hippias [[Major|major]]_ and _minor_, contain an expose of his methods,
 exaggerated no doubt for purposes of argument but written with full
 knowledge of the man and the class which he represented. Ast denies
 their authenticity, but they must have been written by a contemporary
@@ -25,7 +25,7 @@ undoubtedly represent the attitude of serious thinkers to the growing
 influence of the professional Sophists. There is, however, no question
 that Hippias did a real service to Greek literature by insisting on the
 meaning of words, the value of rhythm and literary style. He is credited
-with an excellent work on Homer, collections of Greek and foreign
+with an excellent work on [[Homer]], collections of Greek and foreign
 literature, and archaeological treatises, but nothing remains except the
 barest notes. He forms the connecting link between the first great
 sophists, Protagoras and Prodicus, and the innumerable eristics who

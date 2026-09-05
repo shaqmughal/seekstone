@@ -8,7 +8,7 @@ topic: geography
 
 CHIVASSO, a town and episcopal see of Piedmont, Italy, in the province
 of Turin, 18 m. N.E. by rail from the town of Turin, 600 ft. above
-sea-level. Pop. (1901) 4169 (town), 9804 (commune). It is situated on
+sea-level. Pop. (1901) 4169 (town), 9804 ([[Commune|commune]]). It is situated on
 the left bank of the Po, near the influx of the Orco. The cathedral is
 of the 15th century with a fine façade ornamented with statues in
 terra-cotta. It was an important fortress in the middle ages, and until

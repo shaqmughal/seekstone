@@ -8,12 +8,12 @@ tags: [asia-studies, music]
 
 # Battakhin
 
-BATTAKHIN, African "Arabs" of Semitic stock. They occupy the banks of
-the Blue Nile near Khartum, and it was against them that General Gordon
+BATTAKHIN, African "[[Arabs]]" of Semitic stock. They occupy the banks of
+the Blue Nile near [[Khartum]], and it was against them that General Gordon
 fought most of his battles near the town. Their sheikh, El Obeid, routed
 Gordon's troops on the 4th of September 1884, a defeat which led to the
 close investment of Khartum. In the 18th century James Bruce described
-them as "a thieving, pilfering lot."
+them as "a thieving, pilfering [[Lot|lot]]."
 
 ## References
 

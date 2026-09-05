@@ -2,10 +2,10 @@
 
 CAB (shortened about 1825 from the Fr. _cabriolet_, derived from
 _cabriole_, implying a bounding motion), a form of horsed vehicle for
-passengers either with two ("hansom") or four wheels ("four-wheeler" or
+passengers either with two ("[[Hansom|hansom]]") or four wheels ("four-wheeler" or
 "growler"), introduced into London as the _cabriolet de place_, from Paris
 in 1820 (see CARRIAGE). Other vehicles plying for hire and driven by
-mechanical means are included in the definition of the word "cab" in the
+mechanical means are included in the [[Definition|definition]] of the word "cab" in the
 London Cab and Stage Carriage Act 1007. The term "cab" is also applied to
 the driver's or stoker's shelter on a locomotive-engine.
 
@@ -17,16 +17,16 @@ London Cab and Stage Carriage Act 1907. In other large British towns cabs
 are usually regulated by private acts which incorporate the Town Police
 Clauses Act 1847, an act which contains provisions more or less similar to
 the London acts. The act of 1869 defined a hackney carriage as any carriage
-for the conveyance of passengers which plies for hire within the
+for the [[Conveyance|conveyance]] of passengers which plies for hire within the
 metropolitan police district and is not a stage coach, _i.e._ a conveyance
 in which the passengers are charged separate and distinct fares for their
 seats. Every cab must be licensed by a licence renewable every year by the
 home secretary, the licence being issued by the commissioner of police.
 Every cab before being licensed must be inspected at the police station of
 the district by the inspector of public carriages, and certified by him to
-be in a fit condition for public use. The licence costs L2. The number of
+be in a fit condition for public use. The licence [[Costs|costs]] L2. The number of
 persons which the cab is licensed to carry must be painted at the back on
-the outside. It must carry a lighted lamp during the period between one
+the outside. It must carry a lighted [[Lamp|lamp]] during the period between one
 hour after sunset and one hour before sunrise. The cab must be under the
 charge of a driver having a licence from the home secretary. A driver
 before obtaining a licence, which costs five shillings per annum, must pass
@@ -41,7 +41,7 @@ according to distance. If a driver is hired by distance he is not compelled
 to drive more than six miles, and if hired by time he is not compelled to
 drive for more than one hour. When a cab is hired in London by distance,
 and discharged within a circle the radius of which is four miles (the
-centre being taken at Charing Cross), the fare is one shilling for any
+centre being taken at [[Charing Cross]]), the fare is one shilling for any
 distance not exceeding two miles, and sixpence for every additional mile or
 part of a mile. Outside the circle the fare for each mile, or part of a
 mile, is one shilling. When a cab is hired by time, the fare (inside or
@@ -65,7 +65,7 @@ London Cab Act 1896 (by which for the first time legal sanction was given
 to the word "cab") made an important change in the law in the interest of
 cab drivers. It renders liable to a penalty on summary conviction any
 person who (_a_) hires a cab knowing or having reason to believe that he
-cannot pay the lawful fare, or with intent to avoid payment; (_b_)
+cannot pay the lawful fare, or with [[Intent|intent]] to avoid payment; (_b_)
 fraudulently endeavours to avoid payment; (_c_) refuses to pay or refuses
 to give his address, or gives a false address with intent to deceive. The
 offences mentioned (generally known as "bilking") may be punished by
@@ -90,12 +90,12 @@ legalizing on cabs the use of a mechanical fare-recorder such as, under the
 name of taximeter or taxameter, is in general use on the continent of
 Europe. It is now universal on hackney carriages propelled by mechanical
 means, and it has also extended largely to those drawn by animal power. A
-taximeter consists of a securely closed and sealed metal box containing a
+taximeter consists of a securely closed and sealed metal [[Box|box]] containing a
 mechanism actuated by a flexible shaft connected with the wheel of the
-vehicle, in the same manner as the speedometer on a motor car. It has,
-within plain view of the passenger, a number of apertures in which appear
+vehicle, in the same manner as the speedometer on a motor [[Car|car]]. It has,
+within plain view of the passenger, a number of [[Aperture|apertures]] in which appear
 figures showing the amount payable at any time. A small lever, with a metal
-flag, bearing the words "for hire" stands upright upon it when the cab is
+[[Flag|flag]], bearing the words "for hire" stands upright upon it when the cab is
 disengaged. As soon as a passenger enters the cab the lever is depressed by
 the driver and the recording mechanism starts. At the end of the journey
 the figures upon the dials show exactly the sum payable for hire; this sum

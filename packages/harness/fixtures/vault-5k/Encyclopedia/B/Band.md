@@ -10,8 +10,8 @@ tags: [cartography, sculpture]
 BAND, something which "binds" or fastens one thing to another, hence a
 cord, rope or tie, _e.g._ the straps fastening the sheets to the back in
 book-binding. The word is a variant of "bond," and is from the stem of the
-Teutonic _bindan_, to bind. From the same source comes "bend," properly to
-fasten the string to the bow, so as to constrain and curve it, hence to
+Teutonic _bindan_, to bind. From the same source comes "[[Bend|bend]]," properly to
+fasten the string to the [[Bow|bow]], so as to constrain and curve it, hence to
 make into the shape of a "bent" bow, to curve. In the sense of "strap," a
 flat strip of material, properly for fastening anything, the word is
 ultimately of the same origin but comes directly into English from the
@@ -24,7 +24,7 @@ sometimes with foliages, but in general with cusped circles or quatrefoils,
 in which frequently are shields of arms.
 
 The two small strips of linen, worn at the neck as part of legal, clerical
-and academic dress, are known as "bands"; they are the survival of the
+and academic [[Dress|dress]], are known as "bands"; they are the survival of the
 falling collar of the 17th century. These bands are usually of white linen,
 but the secular clergy of the Roman Church wear black bands edged with
 white. The light cardboard or chip boxes now used to carry millinery were
@@ -42,7 +42,7 @@ to a pole. In this sense the chief application is to a company of musicians
 band.
 
 _Military Bands._--In all countries bands are organized and maintained in
-each infantry regiment or battalion if the latter is the unit. The strength
+each infantry regiment or [[Battalion|battalion]] if the latter is the unit. The strength
 of these bands and the number and nature of their instruments vary
 considerably, as also do the rank and status of the bandmaster. The buglers
 and drummers belonging to the companies are generally massed under the
@@ -55,7 +55,7 @@ assault. The training of bandmasters for the British service is carried out
 at Kneller Hall, Hounslow, an institution founded in 1857 and placed under
 direct control of the war office in 1867. The average strength of the
 various classes of instrument in the band of a British line regiment has
-been stated as--twenty flutes, oboes, clarinets and bassoons, four horns,
+been stated as--twenty flutes, oboes, clarinets and bassoons, four [[Horn|horns]],
 eight saxhorns, six trumpets and cornets, three trombones, two drums. The
 buglers and drummers are in the proportion of one of each per company. The
 saxophone, which is the characteristic instrument of military bands in

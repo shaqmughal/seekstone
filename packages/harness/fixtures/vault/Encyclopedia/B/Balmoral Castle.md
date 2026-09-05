@@ -10,11 +10,11 @@ to the prince consort, by whom the whole estate was purchased in 1852 and
 bequeathed to Queen Victoria. The castle is built of granite in the Scots
 baronial style, with an eastern tower 100 ft. high commanding a superb
 view--Ballochbuie and Braemar to the W., Glen Gairn to the N., Lochnagar
-and the beautiful valley of the Dee to the S. On Craig Gowan (1319 ft.), a
-hill 1 m. to the south, have been erected memorial cairns to Queen
+and the beautiful valley of the Dee to the S. On [[Craig]] Gowan (1319 ft.), a
+hill 1 m. to the south, have been erected memorial [[Cairns|cairns]] to Queen
 Victoria, the prince consort, Princess Alice and other members of the royal
 family of Great Britain. The parish church of Crathie (1903), replacing the
-kirk of 1806, is 1½ m. to the W., and about 2 m. farther west stands
+[[Kirk|kirk]] of 1806, is 1½ m. to the W., and about 2 m. farther west stands
 Abergeldie Castle, another Highland royal residence, an ancient building to
 which modern additions have been made, inhabited by King Edward VII. when
 prince of Wales, and after his accession to the throne used as a

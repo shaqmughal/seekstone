@@ -1,14 +1,14 @@
 # Gurgaon
 
-GURGAON, a town and district of British India, in the Delhi division of
+GURGAON, a town and district of British India, in the [[Delhi]] division of
 the Punjab. The town (pop. in 1901, 4765) is the headquarters of the
 district, but is otherwise unimportant. The district has an area of 1984
 sq. m. It is bounded on the N. by Rohtak, on the W. and S.W. by portions
-of the Alwar, Nabha and Jind native states, on the S. by the Muttra
-district of the United Provinces, on the E. by the river Jumna and on
+of the Alwar, Nabha and [[Jind]] native states, on the S. by the Muttra
+district of the United Provinces, on the E. by the river [[Jumna]] and on
 the N.E. by Delhi. It comprises the southernmost corner of the Punjab
 province, stretching away from the level plain towards the hills of
-Rajputana. Two low rocky ranges enter its borders from the south and run
+Rajputana. Two low rocky ranges enter its [[Borders|borders]] from the south and run
 northward in a bare and unshaded mass toward the plain country. East of
 the western ridge the valley is wide and open, extending to the banks of
 the Jumna. To the west lies the subdivision of Rewari, consisting of a

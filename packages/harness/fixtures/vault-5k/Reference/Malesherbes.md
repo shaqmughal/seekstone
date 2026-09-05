@@ -1,6 +1,6 @@
 # Malesherbes
 
-MALESHERBES, CHRÉTIEN GUILLAUME DE LAMOIGNON DE (1721-1794), commonly
+MALESHERBES, CHRÉTIEN GUILLAUME DE [[Lamoignon|LAMOIGNON]] DE (1721-1794), commonly
 known as Lamoignon-Malesherbes, French statesman, minister, and
 afterwards counsel for the defence of Louis XVI., came of a famous legal
 family. He was born at Paris on the 6th of December 1721, and was
@@ -20,7 +20,7 @@ method of administering justice devised by Maupeou, which was in itself
 commendable as tending to the better and quicker administration of
 justice, but pernicious as exhibiting a tendency to over-centralization,
 and as abolishing the hereditary "nobility of the robe," which, with all
-its faults, had from its nature preserved some independence, and been a
+its [[Fault|faults]], had from its nature preserved some independence, and been a
 check on the royal power. Malesherbes presented a strong remonstrance
 against the new system, and was at once banished to his country seat at
 St Lucie, to be recalled, however, with the old parlement on the
@@ -48,7 +48,7 @@ held office but a short time, but returned to his country life this time
 with a feeling of insecurity and disquiet, and, as the troubles
 increased, retired to Switzerland. Nevertheless, in December 1792, in
 spite of the fair excuse his old age and long retirement would have
-given him, he voluntarily left his asylum and undertook with Tronchet
+given him, he voluntarily left his [[Asylum|asylum]] and undertook with Tronchet
 and Desèze the defence of the king before the Convention, and it was his
 painful task to break the news of his condemnation to the king. After
 this effort he returned once more to the country, but in December 1793
@@ -69,10 +69,10 @@ him.
   XVI._, his _Mémoire sur la liberté de la presse_ (published 1809) and
   extracts from his remonstrances, published as _Oeuvres choisies de
   Malesherbes_ in 1809. For his life should be read the _Notice
-  historique_ (3rd ed., 1806) of Dubois, the _Éloge historique_ (1805)
+  historique_ (3rd ed., 1806) of [[Dubois]], the _Éloge historique_ (1805)
   of Gaillard, and the interesting _Essai sur la vie, les écrits et les
   opinions de M. de Malesherbes_ (in 2 vols., 1818), of F. A. de Boissy
-  d'Anglas. There are also many éloges on him in print, of which the
+  d'Anglas. There are also many é[[Log|loges]] on him in print, of which the
   best-known is that of M. Dupin, which was delivered at the Academy in
   1841, and was reviewed with much light on Malesherbes's control of the
   press by Sainte-Beuve in the 2nd volume of the _Causeries du lundi_.

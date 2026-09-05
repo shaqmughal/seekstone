@@ -2,7 +2,7 @@
 
 DONGA, a Bantu word for a ravine, narrow watercourse or gully formed by
 the action of water. Adopted by the European residents of South Africa
-from the Kaffirs, the use of the word has been extended by English
+from the [[Kaffirs]], the use of the word has been extended by English
 writers to ravines or watercourses of the nature indicated in various
 other parts of the world. It is almost equivalent to the Arabic _khor_,
 which, however, also means the dry bed of a stream, or a stream flowing

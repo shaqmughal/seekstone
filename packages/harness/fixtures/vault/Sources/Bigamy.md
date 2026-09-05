@@ -1,12 +1,12 @@
 # Bigamy
 
 BIGAMY (from Lat. _bis_, twice, and Gr. [Greek: ghamos], marriage), in
-English law. according to the statute now in force (24 and 25 Vict. c.
+[[English Law|English law]]. according to the statute now in force (24 and 25 Vict. c.
 100, § 57), the offence committed by a person who "being married shall
 marry any other person during the life of the former husband or wife."
 In the canon law the word had a rather wider meaning, and the marriage
 of a clerk in minor orders with a widow came within its scope. At the
-council of Lyons (A.D. 1274) bigamists were stripped of their privilege
+council of [[Lyons]] (A.D. 1274) bigamists were stripped of their privilege
 of clergy. This canon was adopted and explained by an English statute of
 1276; and bigamy, therefore, became a usual counterplea to the claim of
 _benefit of clergy_. However, by an act of 1547 every person entitled to
@@ -14,15 +14,15 @@ the benefit of clergy is to be allowed the same, "although he hath been
 divers times married to any single woman or single women, or to any
 widow or widows, or to two wives or more."
 
-A bigamous marriage, by the ecclesiastical law of England, is simply
+A bigamous marriage, by the [[Ecclesiastical Law|ecclesiastical law]] of England, is simply
 void. By a statute of 1604 the offence was made a felony. This statute,
 after being repealed in 1828, was re-enacted and reproduced in the
 Offences against the Person Act 1861. It is immaterial whether the
 second marriage has taken place within England and Ireland or elsewhere,
 and the offence may be dealt with in any county or place where the
-defendant shall be apprehended or be in custody. The following clause
+[[Defendant|defendant]] shall be apprehended or be in custody. The following clause
 embodies the necessary exceptions to the very general language used in
-the definition of the offence.--"Provided that nothing in this section
+the [[Definition|definition]] of the offence.--"Provided that nothing in this section
 contained shall extend to any second marriage contracted elsewhere than
 in England and Ireland by any other than a British subject, or to any
 person marrying a second time whose husband or wife shall have been
@@ -63,7 +63,7 @@ the law of the country where the divorced parties were domiciled at the
 time (even though the ground on which the divorce was granted was not
 one that would justify a divorce in England) it will be good defence to
 the charge. Criminal jurisdiction is always regarded as purely
-territorial, but bigamy (together with homicide and treason) is an
+territorial, but bigamy (together with [[Homicide|homicide]] and treason) is an
 exception to this rule. A British subject committing bigamy in any
 country may be tried for the same in the United Kingdom (Earl Russell's
 case, 1901).
@@ -78,7 +78,7 @@ perjury.
 Bigamy was punished in England until the reign of William III. by death,
 then the penalty changed to life imprisonment and branding of the right
 hand. An act of George I. still in force lessened the penalty to
-deportation for seven years or imprisonment for two years with or
+[[Deportation|deportation]] for seven years or imprisonment for two years with or
 without hard labour. The Offences against the Person Act 1861 changed
 deportation to penal servitude.
 
@@ -91,7 +91,7 @@ jurisdiction of the United States to be a misdemeanour (U.S. Rev. Stat.
 § 5352). By statute in some states, upon absence of one spouse from the
 state for five years without being heard of, the other may marry again
 without committing bigamy, in other states the period is seven years. In
-most of the states, prosecutions for bigamy are barred after the lapse
+most of the states, prosecutions for bigamy are barred after the [[Lapse|lapse]]
 of a certain number of years. The marriage wherever solemnized must be a
 valid marriage according to the law of the place of solemnization; if
 void there, no prosecution for bigamy can be founded upon it. In some

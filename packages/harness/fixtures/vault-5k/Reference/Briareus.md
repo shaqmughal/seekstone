@@ -11,10 +11,10 @@ war upon Olympus. The gigantic enemies were defeated and consigned to
 Tartarus, at the gates of which the three brothers were placed (Hesiod,
 _Theog._ 624, 639, 714). Other accounts make Briareus one of the assailants
 of Olympus, who, after his defeat, was buried under Mount Aetna
-(Callimachus, _Hymn to Delos_, 141). Homer mentions him as assisting Zeus
+([[Callimachus]], _Hymn to Delos_, 141). Homer mentions him as assisting Zeus
 when the other Olympian deities were plotting against the king of gods and
-men (_Iliad_ i. 398). Another tradition makes him a giant of the sea, ruler
-of the fabulous Aegaea in Euboea, an enemy of Poseidon and the inventor of
+men (_Iliad_ i. 398). Another tradition makes him a [[Giant|giant]] of the sea, ruler
+of the fabulous Aegaea in [[Euboea]], an enemy of Poseidon and the inventor of
 warships (Schol. on Apoll. Rhod. i. 1165). It would be difficult to
 determine exactly what natural phenomena are symbolized by the
 Hecatoncheires. They may represent the gigantic forces of nature which

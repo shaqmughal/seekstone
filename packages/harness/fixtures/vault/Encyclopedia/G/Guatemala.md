@@ -11,18 +11,18 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Guatemala"
 GUATEMALA (sometimes incorrectly written GUATIMALA), a name now
 restricted to the republic of Guatemala and to its chief city, but
 formerly given to a captaincy-general of Spanish America, which included
-the fifteen provinces of Chiapas, Suchitepeques, Escuintla, Sonsonate,
-San Salvador, Vera Paz and Peten, Chiquimula, Honduras, Nicaragua, Costa
+the fifteen provinces of Chiapas, Suchitepeques, [[Escuintla]], Sonsonate,
+San Salvador, Vera Paz and Peten, Chiquimula, Honduras, Nicaragua, [[Costa]]
 Rica, Totonicapam, Quezaltenango, Solola, Chimaltenango and
-Sacatepeques,--or, in other words, the whole of Central America (except
+Sacatepeques,--or, in other words, the whole of [[Central America]] (except
 Panama) and part of Mexico. The name is probably of Aztec origin, and is
 said by some authorities to mean in its native form Quauhtematlan, "Land
-of the Eagle," or "Land of Forest"; others, writing it U-ha-tez-ma-la,
+of the [[Eagle]]," or "Land of Forest"; others, writing it U-ha-tez-ma-la,
 connect it with the volcano of Agua (i.e. "water"), and interpret it as
 "mountain vomiting water."
 
 The republic of Guatemala is situated between 13 deg. 42' and 17 deg.
-49' N., and 88 deg. 10' and 92 deg. 30' W. (For map, see CENTRAL
+49' N., and 88 deg. 10' and 92 deg. 30' W. (For [[Map|map]], see CENTRAL
 AMERICA.) Pop. (1903), 1,842,134; area about 48,250 sq. m. Guatemala is
 bounded on the W. and N. by Mexico, N.E. by British Honduras, E. by the
 Gulf of Honduras, and the republic of Honduras, S.E. by Salvador and S.
@@ -68,14 +68,14 @@ which it follows eastwards to the Gulf of Honduras.
   loftiest peak in Central America, the principal volcanoes
   are--Tajamulco or Tajumulco (13,517 ft.); Santa Maria (12,467 ft.),
   which was in eruption during 1902, after centuries of quiescence, in
-  which its slopes had been overgrown by dense forests; Atitlan
+  which its slopes had been overgrown by dense forests; [[Atitlan]]
   (11,719), overlooking the lake of that name; Acatenango (13,615).
   which shares the claim of Tacana to be the highest mountain of Central
   America; Fuego (i.e. "fire," variously estimated at 12,795 ft. and
   12,582 ft.), which received its name from its activity at the time of
   the Spanish conquest; Agua (i.e. "water," 12,139 ft.), so named in
   1541 because it destroyed the former capital of Guatemala with a
-  deluge of water from its flooded crater; and Pacaya (8390), a group of
+  deluge of water from its flooded [[Crater|crater]]; and Pacaya (8390), a group of
   igneous peaks which were in eruption in 1870. (3) The so-called
   plateaus which extend north of the Sierra Madre are in fact high
   valleys, rather than table-lands, enclosed by mountains. A better idea
@@ -90,7 +90,7 @@ which it follows eastwards to the Gulf of Honduras.
   and drains into the Atlantic is varied by innumerable terraces, ridges
   and underfalls; but its general configuration is admirably compared by
   E. Reclus with the appearance of "a stormy sea breaking into parallel
-  billows" (_Universal Geography_, ed. E. G. Ravenstein, div. xxxiii.,
+  billows" (_Universal [[Geography]]_, ed. E. G. Ravenstein, div. xxxiii.,
   p. 212). The parallel ranges extend east and west with a slight
   southerly curve towards their centres. A range called the Sierra de
   Chama, which, however, changes its name frequently from place to
@@ -116,32 +116,32 @@ which it follows eastwards to the Gulf of Honduras.
   principal head stream is called the Rio Grande, has a course of about
   250 m., and is navigable to within 90 m. of the capital, which is
   situated on one of its confluents, the Rio de las Vacas. It forms a
-  delta on the south of the Gulf of Honduras. Of similar importance is
+  [[Delta|delta]] on the south of the Gulf of Honduras. Of similar importance is
   the Polochic, which is about 180 m. in length, and navigable about 20
   m. above the river-port of Teleman. Before reaching the Golfo Amatique
   it passes through the Golfo Dulce, or Izabal Lake, and the Golfete
   Dulce. A vast number of streams, among which are the Chixoy, the
   Guadalupe, and the Rio de la Pasion, unite to form the Usumacinta,
   whose noble current passes along the Mexican frontier, and flowing on
-  through Chiapas and Tabasco, falls into the Bay of Campeche. The
+  through Chiapas and Tabasco, falls into the Bay of [[Campeche]]. The
   Chiapas follows a similar course.
 
   There are several extensive lakes in Guatemala. The Lake of Peten or
-  Laguna de Flores, in the centre of the department of Peten, is an
+  [[Laguna]] de [[Flores]], in the centre of the department of Peten, is an
   irregular basin about 27 m. long, with an extreme breadth of 13 m. In
   an island in the western portion stands Flores, a town well known to
   American antiquaries for the number of ancient idols which have been
   recovered from its soil. On the shore of the lake is the stalactite
   cave of Jobitsinal, of great local celebrity; and in its depths,
   according to the popular legend, may still be discerned the stone
-  image of a horse that belonged to Cortes. The Golfo Dulce is, as its
+  [[Image|image]] of a horse that belonged to Cortes. The Golfo Dulce is, as its
   name implies, a fresh-water lake, although so near the Atlantic. It is
   about 36 m. long, and would be of considerable value as a harbour if
   the bar at the mouth of the Rio Dulce did not prevent the upward
   passage of seafaring vessels. As a contrast the Lake of Atitlan (q.v.)
   is a land-locked basin encompassed with lofty mountains. About 9 m. S.
   of the capital lies the Lake of Amatitlan (q.v.) with the town of the
-  same name. On the borders of Salvador and Guatemala there is the Lake
+  same name. On the [[Borders|borders]] of Salvador and Guatemala there is the Lake
   of Guija, about 20 m. long and 12 broad, at a height of 2100 ft. above
   the sea. It is connected by the river Ostuma with the Lake of Ayarza
   which lies about 1000 ft. higher at the foot of the Sierra Madre.
@@ -149,10 +149,10 @@ which it follows eastwards to the Gulf of Honduras.
   The geology, fauna and flora of Guatemala are discussed under CENTRAL
   AMERICA. The bird-life of the country is remarkably rich; one bird of
   magnificent plumage, the quetzal, quijal or quesal (_Trogon
-  resplendens_), has been chosen as the national emblem.
+  resplendens_), has been chosen as the national [[Emblem|emblem]].
 
   _Climate._--The climate is healthy, except on the coasts, where
-  malarial fever is prevalent. The rainy season in the interior lasts
+  malarial [[Fever|fever]] is prevalent. The rainy season in the interior lasts
   from May to October, but on the coast sometimes continues till
   December. The coldest month is January, and the warmest is May. The
   average temperatures for these months at places of different
@@ -165,7 +165,7 @@ which it follows eastwards to the Gulf of Honduras.
   slope, it reaches 195 in.; in central Guatemala it is only 27 in.
   Towards the Atlantic rain often occurs in the dry season, and there is
   a local saying near the Golfo Dulce that "it rains thirteen months in
-  the year." Fogs are not rare. In Guatemala, as in other parts of
+  the year." [[Fog|Fogs]] are not rare. In Guatemala, as in other parts of
   Central America (q.v.), each of the three climatic zones, cold,
   temperate and hot (_tierra fria_, _tierra templada_, _tierra
   caliente_) has its special characteristics, and it is not easy to
@@ -202,9 +202,9 @@ which it follows eastwards to the Gulf of Honduras.
   abundance, especially where the soil is largely of volcanic origin, as
   in the Altos and Sierra Madre. Parts of the Peten district are equally
   fertile, maize in this region yielding two hundredfold from unmanured
-  soil. The vegetable products of Guatemala include coffee, cocoa,
+  soil. The vegetable products of Guatemala include coffee, [[Cocoa|cocoa]],
   sugar-cane, bananas, oranges, vanilla, aloes, agave, ipecacuanha,
-  castor-oil, sarsaparilla, cinchona, tobacco, indigo and the wax-plant
+  castor-oil, sarsaparilla, [[Cinchona|cinchona]], tobacco, indigo and the wax-plant
   (_Myrica cerifera_).
 
 _Inhabitants._--The inhabitants of Guatemala, who tend to increase
@@ -233,10 +233,10 @@ Pokomans who inhabit the large settlement of Mixco near the capital, all
 belong to the Maya family; but parts of central and eastern Guatemala
 are peopled by tribes distinct from the Mayas and not found in Mexico.
 In the 16th century the Mayas and Quiches had attained a high level of
-civilization (see CENTRAL AMERICA, _Archaeology_), and at least two of
-the Guatemalan languages, Quiche and Cakchiquel, possess the rudiments
+civilization (see CENTRAL AMERICA, _[[Archaeology]]_), and at least two of
+the Guatemalan languages, Quiche and [[Cakchiquel]], possess the rudiments
 or the relics of a literature. The Quiche _Popol Vuh_, or "Book of
-History," which was translated into Spanish by the Dominican friar
+History," which was translated into Spanish by the Dominican [[Friar|friar]]
 Ximenes, and edited with a French version by Brasseur de Bourbourg, is
 an important document for students of the local myths. In appearance the
 various Guatemalan tribes differ very little; in almost all the
@@ -248,26 +248,26 @@ often disturb the course of local politics; they are often intensely
 religious, but with a few exceptions are thriftless, indolent and
 inveterate gamblers. Their _confradias_, or brotherhoods, each with its
 patron saint and male and female chiefs, exist largely to organize
-public festivals, and to purchase wooden masks, costumes and decorations
-for the dances and dramas in which the Indians delight. These dramas,
+public festivals, and to purchase wooden masks, [[Costume|costumes]] and decorations
+for the dances and [[Drama|dramas]] in which the Indians delight. These dramas,
 which deal with religious and historical subjects, are of Indian origin,
 and somewhat resemble the mystery-plays of medieval Europe, a
 resemblance heightened by the introduction, due to Spanish missionaries,
 of Christian saints and heroes such as Charlemagne. The Indians are
-devoted to bull-fighting and cock-fighting. Choral singing is a popular
-amusement, and is accompanied by the Spanish guitar and native
+devoted to bull-fighting and [[Cock-Fighting|cock-fighting]]. Choral singing is a popular
+amusement, and is accompanied by the Spanish [[Guitar|guitar]] and native
 wind-instruments. The Indians have a habit of consuming a yellowish
 edible earth containing sulphur; on pilgrimages they obtain images
 moulded of this earth at the shrines they visit, and eat the images as a
-prophylactic against disease. Maize, beans and bananas, varied
-occasionally with dried meat and fresh pork, form their staple diet;
-drunkenness is common on pay-days and festivals, when large quantities
-of a fiery brandy called _chicha_ are consumed.
+prophylactic against disease. Maize, [[Bean|beans]] and bananas, varied
+occasionally with dried [[Meat|meat]] and fresh pork, form their staple diet;
+[[Drunkenness|drunkenness]] is common on pay-days and festivals, when large quantities
+of a fiery [[Brandy|brandy]] called _chicha_ are consumed.
 
   _Chief Towns._--The capital of the republic, Guatemala or Guatemala la
   Nueva (pop. 1905 about 97,000) and the cities of Quezaltenango
   (31,000), Totonicapam (28,000), Coban (25,000), Solola (17,000),
-  Escuintla (12,000), Huehuetanango (12,000), Amatitlan (10,000) and
+  Escuintla (12,000), [[Huehuetanango]] (12,000), Amatitlan (10,000) and
   Atitlan (9000) are described under separate headings. All the chief
   towns except the seaports are situated within the mountainous region
   where the climate is temperate. Retalhuleu, among the southern
@@ -277,17 +277,17 @@ of a fiery brandy called _chicha_ are consumed.
   and Champerico were, like Quezaltenango, Solola, and other towns,
   temporarily ruined by the earthquake of the 18th of April 1902. Santa
   Cruz Quiche, 25 m. N.E. of Totonicapam, was formerly the capital of
-  the Quiche kings, but has now a Ladino population. Livingston, a
+  the Quiche kings, but has now a Ladino population. [[Livingston]], a
   seaport at the mouth of the Polochic (here called the Rio Dulce), was
-  founded in 1806, and subsequently named after the author of a code of
+  founded in 1806, and subsequently named after the author of a [[Code|code]] of
   Guatemalan laws; few vestiges remain of the Spanish settlement of
   Sevilla la Nueva, founded in 1844, and of the English colony of
-  Abbotsville, founded in 1825,--both near Livingston. La Libertad, also
+  Abbotsville, founded in 1825,--both near Livingston. La [[Libertad]], also
   called by its Indian name of Sacluc, is the principal town of Peten.
 
   _Shipping and Communications._--The republic is in regular steam
   communication on the Atlantic side with New Orleans, New York and
-  Hamburg, by vessels which visit the ports of Barrios (Santo Tomas) and
+  [[Hamburg]], by vessels which visit the ports of Barrios (Santo Tomas) and
   Livingston. On the southern side the ports of San Jose, Champerico and
   Ocos are visited by the Pacific mail steamers, by the vessels of a
   Hamburg company and by those of the South American (Chilean) and the
@@ -295,7 +295,7 @@ of a fiery brandy called _chicha_ are consumed.
   harbour on the south coast, has been almost entirely abandoned since
   1853. Gualan, on the Motagua, and Panzos, on the Polochic, are small
   river-ports. The principal towns are connected by wagon roads, towards
-  the construction and maintenance of which each male inhabitant is
+  the construction and [[Maintenance|maintenance]] of which each male inhabitant is
   required to pay two pesos or give four days' work a year. There are
   coach routes between the capital and Quezaltenango, but over a great
   portion of the country transport is still on mule-back. All the
@@ -325,11 +325,11 @@ of a fiery brandy called _chicha_ are consumed.
   wealthiest cities and agricultural districts have been destroyed by
   earthquake in one day (18th of April 1902). At the beginning of the
   19th century, Guatemala had practically no export trade; but between
-  1825 and 1850 cochineal was largely exported, the centre of production
+  1825 and 1850 [[Cochineal|cochineal]] was largely exported, the centre of production
   being the Amatitlan district. This industry was ruined by the
   competition of chemical dyes, and a substitute was found in the
   cultivation of coffee. Guatemala is surpassed only by Brazil and the
-  East Indies in the quantity of coffee it exports. The chief
+  [[East Indies]] in the quantity of coffee it exports. The chief
   plantations are owned and managed by Germans; more than half of the
   crop is sent to Germany, while three-fifths of the remainder go to the
   United States and one-fifth to Great Britain. The average yearly
@@ -352,7 +352,7 @@ of a fiery brandy called _chicha_ are consumed.
   their homes.
 
   By the Land Act of 1894 the state domains, except on the coasts and
-  frontiers, were divided into lots for sale. The largest holding
+  frontiers, were divided into [[Lot|lots]] for sale. The largest holding
   tenable by one person under this act was fixed at 50 caballerias, or
   5625 acres; the price varies from L40 to L80 per caballeria of 112-1/2
   acres. Free grants of uncultivated land are sometimes made to
@@ -361,7 +361,7 @@ of a fiery brandy called _chicha_ are consumed.
   and schools. The condition of the Indians on the plantations is often
   akin to slavery, owing to the system adopted by some planters of
   making payments in advance; for the Indians soon spend their earnings,
-  and thus contract debts which can only be repaid by long service.
+  and thus contract [[Debt|debts]] which can only be repaid by long service.
 
   In addition to the breweries, rum and brandy distilleries, sugar mills
   and tobacco factories, which are sometimes worked as adjuncts to the
@@ -372,7 +372,7 @@ of a fiery brandy called _chicha_ are consumed.
 
   During the five years 1900 to 1904 inclusive, the average value of
   Guatemalan imports, which consisted chiefly of textiles, iron and
-  machinery, sacks, provisions, flour, beer, wine and spirits, amounted
+  machinery, sacks, provisions, flour, [[Beer|beer]], wine and spirits, amounted
   to L776,000; about one-half came from the United States, and nearly
   one-fourth from the United Kingdom. The exports during the same period
   had an average value of L1,528,000, and ranked as follows in order of
@@ -390,7 +390,7 @@ of a fiery brandy called _chicha_ are consumed.
   the value of the notes issued. The silver peso, or dollar, of 100
   centavas is the monetary unit, weighs 25 grammes .900 fine, and has a
   nominal value of 4s. Being no longer current it has been replaced by
-  the paper peso. The nickel coins include the real (nominal value 6d.),
+  the paper peso. The nickel [[Coin|coins]] include the real (nominal value 6d.),
   half-real and quarter-real. The metric system of weights and measures
   has been adopted, but the old Spanish standards remain in general use.
 
@@ -404,8 +404,8 @@ of a fiery brandy called _chicha_ are consumed.
   development and justice, L29,000 to the army and the remainder largely
   to education. The gold value of the currency peso (75 = L1 in 1903, 70
   = L1 in 1904, 58 = L1 in 1905) fluctuates between limits so wide that
-  conversion into sterling (especially for a series of years), with any
-  pretension to accuracy, is impracticable. In 1899 the rate of exchange
+  [[Conversion|conversion]] into sterling (especially for a series of years), with any
+  pretension to accuracy, is impracticable. In 1899 the rate of [[Exchange|exchange]]
   moved between 710% and 206% premium on gold. According to the official
   statement, the gold debt, which runs chiefly at 4% and is held in
   Germany and England, amounted to L1,987,905 on the 1st of January
@@ -425,7 +425,7 @@ by the national assembly.
 _Local Government._--Each of the twenty-two departments is administered
 by an official called a _jefe politico_, or political chief, appointed
 by the president, and each is subdivided into municipal districts. These
-districts are administered by one or more _alcaldes_ or mayors, assisted
+districts are administered by one or more _alcaldes_ or [[Mayor|mayors]], assisted
 by municipal councils, both alcaldes and councils being chosen by the
 people.
 
@@ -451,7 +451,7 @@ men with 500 pupils and one for women with 300. At Quezaltenango there
 are two similar institutes, and at Chiquimula there are other two. To
 each of the six there is a school for teachers attached, and within the
 republic there are four other schools for teachers. For professional
-instruction (law, medicine, engineering) there are schools supported by
+instruction (law, medicine, [[Engineering|engineering]]) there are schools supported by
 private funds, but aided occasionally by the government. Other
 educational establishments are a school of art, a national conservatory
 of music, a commercial college, four trades' schools with more than 600
@@ -481,7 +481,7 @@ were annexed to the Mexican empire of Iturbide from 1822 to 1823, and
 united to form a federal republic from 1823 to 1839. In Guatemala the
 Clerical, Conservative or anti-Federal party was supreme; after a
 protracted struggle it overthrew the Liberals or Federalists, and
-declared the country an independent republic, with Rafael Carrera
+declared the country an independent republic, with Rafael [[Carrera]]
 (1814-1865) as president. In 1845 an attempt to restore the federal
 union failed; in 1851 Carrera defeated the Federalist forces of Honduras
 and Salvador at La Arada near Chiquimula, and was recognized as the
@@ -495,14 +495,14 @@ Rica with Guatemala. The contest was finally settled in favour of
 Carrera, who besieged and occupied San Salvador and made himself
 dominant also in Honduras and Nicaragua. During the rest of his rule,
 which lasted till his death in April 1865, he continued to act in
-concert with the Clerical party, and endeavoured to maintain friendly
+[[Concert|concert]] with the Clerical party, and endeavoured to maintain friendly
 relations with the European governments. Carrera's successor was General
-Cerna, who had been recommended by him for election. The Liberal party
+Cerna, who had been recommended by him for election. The [[Liberal Party|Liberal party]]
 began to rise in influence about 1870, and in May 1871 Cerna was
-deposed. The archbishop of Guatemala and the Jesuits were driven into
+deposed. The archbishop of Guatemala and the [[Jesuits]] were driven into
 exile as intriguers in the interests of the Clericals. Pres. Rufino
 Barrios (1835-1885), elected in 1873, governed the country after the
-manner of a dictator; he expelled the Jesuits, confiscated their
+manner of a [[Dictator|dictator]]; he expelled the Jesuits, confiscated their
 property and disestablished and disendowed the church. But though he
 encouraged education, promoted railway and other enterprises, and
 succeeded in settling difficulties as to the Mexican boundary, the
@@ -514,10 +514,10 @@ recourse to the sword. Counting on the support of Honduras and Salvador,
 he proclaimed himself, in February 1885, the supreme military chief of
 Central America, and claimed the command of all the forces within the
 five states. President Zaldivar, of Salvador, had been his friend, but
-after the issue of the decree of union he entered into a defensive
-alliance with Costa Rica and Nicaragua. In March Barrios invaded
+after the issue of the [[Decree|decree]] of union he entered into a defensive
+alliance with [[Costa Rica]] and Nicaragua. In March Barrios invaded
 Salvador, and on the 2nd of April a battle was fought, in which the
-Guatemalan president was killed. He was succeeded by General Manuel
+Guatemalan president was killed. He was succeeded by General [[Manuel]]
 Barillas. No further effort was made to force on the union, and on the
 16th of April the war was formally ended. Peace, however, only provided
 opportunity for domestic conspiracy, with assassination and revolution
@@ -542,23 +542,23 @@ tenure of office. Ocos was captured by his lieutenant, General Castillo,
 and the revolution speedily became a war, in which Honduras, Costa Rica
 and Salvador were openly involved against Guatemala, while Nicaragua was
 hostile. But Cabrera held his ground, and even gained several indecisive
-victories. The intervention of President Roosevelt and of President Diaz
-of Mexico brought about an armistice on the 19th of July, and the
-so-called "Marblehead Pact" was signed on the following day on board the
+victories. The intervention of President Roosevelt and of President [[Diaz]]
+of Mexico brought about an [[Armistice|armistice]] on the 19th of July, and the
+so-called "[[Marblehead]] Pact" was signed on the following day on board the
 United States cruiser "Marblehead." Its terms were embodied in a treaty
 signed (28th of September) by representatives of the four belligerent
 states, Nicaragua taking no part in the negotiations. The treaty
 included regulations for the improvement of commerce and navigation in
 the area affected by the war, and provided for the settlement of
-subsequent disputes by the arbitration of the United States and Mexico.
+subsequent disputes by the [[Arbitration|arbitration]] of the United States and Mexico.
 
   BIBLIOGRAPHY.--Besides the works cited under CENTRAL AMERICA see the
-  interesting narrative of Thomas Gage, the English missionary, in
+  interesting narrative of Thomas [[Gage]], the English missionary, in
   Juarros, _Compendio de la historia de Guatemala_ (1808-1818, 2 vols.;
   new ed., 1857), which in Bailly's English translation (London, 1823)
   long formed the chief authority. See also C. Juan Anino, _La Republica
   de Guatemala_ (Guatemala, 1894); T. Brigham, _Guatemala, The Land of
-  the Quetzal_ (London, 1887); J. M. Caceres, _Geografia de
+  the Quetzal_ (London, 1887); J. M. [[Caceres]], _Geografia de
   Centro-America_ (Paris, 1882); G. Lemale, _Guia geografica de los
   centros de poblacion de la republica de Guatemala_ (Guatemala, 1882);
   F. A. de Fuentes y Guzman, _Historia de Guatemala o Recordacion
@@ -571,11 +571,11 @@ subsequent disputes by the arbitration of the United States and Mexico.
   J. Mendez, _Guia del immigrante en la republica de Guatemala_
   (Guatemala, 1895); Karl Sapper, "Grundzuge der physikalischen
   Geographie von Guatemala," Erganzungsheft No. 115, _Petermann's
-  Mitteilungen_ (Gotha, 1894); _Anuario de estadistica de la republica
+  Mitteilungen_ ([[Gotha]], 1894); _Anuario de estadistica de la republica
   de Guatemala_ (Guatemala); _Memoria de la Secretaria de Instruccion
-  Publica_ (Guatemala, 1899); _Handbook of Guatemala_, revised (Bureau
+  Publica_ (Guatemala, 1899); _Handbook of Guatemala_, revised ([[Bureau]]
   of the American Republics, Washington, 1897); _United States Consular
-  Reports_ (Washington); _British Foreign Office Diplomatic and Consular
+  Reports_ (Washington); _British [[Foreign Office]] Diplomatic and Consular
   Reports_ (London).
 
 ## See also

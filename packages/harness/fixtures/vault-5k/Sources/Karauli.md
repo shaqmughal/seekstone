@@ -22,7 +22,7 @@ state consists of Jadu Rajputs connected with the ruling house. They pay
 a tribute in lieu of constant military service, but in case of emergency
 or on occasions of state display they are bound to attend on the chief
 with their retainers. The maharaja is the head of the clan, which claims
-descent from Krishna. Maharaja Bhanwar Pal Deo, who was born in 1862 and
+descent from [[Krishna]]. Maharaja Bhanwar Pal Deo, who was born in 1862 and
 succeeded in 1866, was appointed G.C.I.E. in 1897, on the occasion of
 Queen Victoria's diamond jubilee.
 

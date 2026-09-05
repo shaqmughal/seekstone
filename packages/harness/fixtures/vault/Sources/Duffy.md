@@ -10,7 +10,7 @@ O'Connell, and shared his conviction in Dublin and his acquittal by the
 House of Lords upon a point of law. His ideas, nevertheless, were too
 revolutionary for O'Connell; a schism took place in 1846, and Duffy
 united himself to the "Young Ireland" party. He was tried for
-treason-felony in 1848, but the jury were unable to agree. Duffy
+treason-felony in 1848, but the [[Jury|jury]] were unable to agree. Duffy
 continued to agitate in the press and in parliament, to which he was
 elected in 1852, but his failure to bring about an alliance between
 Catholics and Protestants upon the land question determined him in 1856

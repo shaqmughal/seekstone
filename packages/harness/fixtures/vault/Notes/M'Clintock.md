@@ -9,11 +9,11 @@ id: 42-8026
 
 # M'Clintock
 
-M'CLINTOCK, SIR FRANCIS LEOPOLD (1819-1907), British naval officer and
-Arctic explorer, was born at Dundalk, Ireland, on the 8th of July 1819,
+M'CLINTOCK, SIR FRANCIS [[Leopold|LEOPOLD]] (1819-1907), British naval officer and
+[[Arctic]] explorer, was born at Dundalk, Ireland, on the 8th of July 1819,
 of a family of Scottish origin. In 1831 he entered the royal navy,
-joining the "Samarang" frigate, Captain Charles Paget. In 1843 he passed
-his examination for lieutenancy and joined the "Gorgon" steamship,
+joining the "Samarang" [[Frigate|frigate]], Captain Charles Paget. In 1843 he passed
+his examination for lieutenancy and joined the "[[Gorgon]]" steamship,
 Captain Charles Hotham, which was driven ashore at Montevideo and
 salved, a feat of seamanship on the part of her captain and officers
 which attracted much attention. Hitherto, and until 1847, M'Clintock's
@@ -26,18 +26,18 @@ all these expeditions M'Clintock carried out brilliant sleigh journeys,
 and gained recognition as one of the highest authorities on Arctic
 travel. The direction which the search should follow had at last been
 learnt from the Eskimo, and M'Clintock accepted the command of the
-expedition on board the "Fox," fitted out by Lady Franklin in 1857,
+expedition on board the "[[Fox]]," fitted out by Lady [[Franklin]] in 1857,
 which succeeded in its object in 1859 (see FRANKLIN, SIR JOHN). For this
 expedition M'Clintock had obtained leave of absence, but the time
 occupied was afterwards counted in his service. He was knighted and
 received many other honours on his return. Active service now occupied
 him in various tasks, including the important one of sounding in the
-north Atlantic, in connexion with a scheme for a north Atlantic cable
+north Atlantic, in connexion with a scheme for a north Atlantic [[Cable|cable]]
 route, until 1868. In that year he became naval aide-de-camp to Queen
-Victoria. In 1865 he had been elected a fellow of the Royal Society. He
+Victoria. In 1865 he had been elected a [[Fellow|fellow]] of the Royal Society. He
 unsuccessfully contested a seat in parliament for the borough of
 Drogheda, where he made the acquaintance of Annette Elizabeth, daughter
-of R. F. Dunlop of Monasterboice; he married her in 1870. He became
+of R. F. [[Dunlop]] of Monasterboice; he married her in 1870. He became
 vice-admiral in 1877, and commander-in-chief on the West Indian and
 North American station in 1879. In 1882 he was elected an Elder Brother
 of Trinity House, and served actively in that capacity. In 1891 he was
@@ -57,7 +57,7 @@ McCLINTOCK, JOHN (1814-1870), American Methodist Episcopal theologian
 and educationalist, was born in Philadelphia on the 27th of October
 1814. He graduated at the university of Pennsylvania in 1835, and was
 assistant professor of mathematics (1836-1837), professor of mathematics
-(1837-1840), and professor of Latin and Greek (1840-1848) in Dickinson
+(1837-1840), and professor of Latin and Greek (1840-1848) in [[Dickinson]]
 College, Carlisle, Pennsylvania. He opposed the Mexican War and slavery,
 and in 1847 was arrested on the charge of instigating a riot, which
 resulted in the rescue of several fugitive slaves; his trial, in which
@@ -69,14 +69,14 @@ Paris, and there and in London did much to turn public opinion in favour
 of the Northern States. In 1865-1866 he was chairman of the central
 committee for the celebration of the centenary of American Methodism. He
 retired from the regular ministry in 1865, but preached in New
-Brunswick, New Jersey, until the spring of 1867, and in that year, at
-the wish of its founder, Daniel Drew, became president of the newly
-established Drew theological seminary at Madison, New Jersey, where he
+Brunswick, New [[Jersey]], until the spring of 1867, and in that year, at
+the wish of its founder, [[Daniel]] Drew, became president of the newly
+established Drew theological seminary at [[Madison]], New Jersey, where he
 died on the 4th of March 1870. A great preacher, orator and teacher, and
 a remarkably versatile scholar, McClintock by his editorial and
 educational work probably did more than any other man to raise the
 intellectual tone of American Methodism, and, particularly, of the
-American Methodist clergy. He introduced to his denomination the
+American Methodist clergy. He introduced to his [[Denomination|denomination]] the
 scholarly methods of the new German theology of the day--not alone by
 his translation with Charles E. Blumenthal of Neander's _Life of Christ_
 (1847), and of Bungener's _History of the Council of Trent_ (1855), but
@@ -104,7 +104,7 @@ Institutes_ (1851); and _The Life and Letters of Rev. Stephen Olin_
 
 McCLOSKEY, JOHN (1810-1885), American cardinal, was born in Brooklyn,
 New York, on the 20th of March 1810. He graduated at Mt St Mary's
-College, Emmitsburg, Maryland, in 1827, studied theology there, was
+College, [[Emmitsburg]], Maryland, in 1827, studied theology there, was
 ordained a priest in 1834, and in 1837, after two years in the college
 of the Propaganda at Rome, became rector of St Joseph's, New York City,
 a charge to which he returned in 1842 after one year's presidency of St
@@ -115,7 +115,7 @@ succession; in 1847 he became bishop of the newly created see of Albany;
 and in 1864 he succeeded to the archdiocese of New York, then including
 New York, New Jersey, and New England. In April 1875 he was invested as
 a cardinal, with the title of Sancta Maria supra Minervam, being the
-first American citizen to receive this dignity. He attended the conclave
+first American citizen to receive this dignity. He attended the [[Conclave|conclave]]
 of 1878, but was too late to vote for the new pope. In May 1879 he
 dedicated St Patrick's Cathedral in New York City, whose corner-stone
 had been laid by Archbishop Hughes in 1858. Archbishop Corrigan became

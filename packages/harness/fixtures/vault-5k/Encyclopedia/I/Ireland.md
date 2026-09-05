@@ -3,7 +3,7 @@
 IRELAND, an island lying west of Great Britain, and forming with it the
 United Kingdom of Great Britain and Ireland. It extends from 51 deg. 26'
 to 55 deg. 21' N., and from 5 deg. 25' to 10 deg. 30' W. It is encircled
-by the Atlantic Ocean, and on the east is separated from Great Britain
+by the [[Atlantic Ocean]], and on the east is separated from Great Britain
 by narrow shallow seas, towards the north by the North Channel, the
 width of which at the narrowest part between the Mull of Cantire
 (Scotland) and Torr Head is only 13(1/2) m.; in the centre by the Irish
@@ -16,18 +16,18 @@ and west is 174 m., from Dundrum Bay to Annagh Head, county Mayo; and
 the average breadth is about 110 m. The total area is 32,531 sq. m.
 
 Ireland is divided territorially into four provinces and thirty-two
-counties:--(a) _Ulster_ (northern division): Counties Antrim, Armagh,
-Cavan, Donegal, Down, Fermanagh, Londonderry, Monaghan, Tyrone. (b)
-_Leinster_ (eastern midlands and south-east): Counties Carlow, Dublin,
-Kildare, Kilkenny, King's County, Longford, Louth, Meath, Queen's
+counties:--(a) _Ulster_ (northern division): Counties Antrim, [[Armagh]],
+Cavan, [[Donegal]], Down, [[Fermanagh]], Londonderry, Monaghan, Tyrone. (b)
+_[[Leinster]]_ (eastern midlands and south-east): Counties Carlow, Dublin,
+Kildare, [[Kilkenny]], King's County, Longford, Louth, [[Meath]], Queen's
 County, Westmeath, Wexford, Wicklow. (c) _Connaught_ (western midlands):
 Counties Galway, Leitrim, Mayo, Roscommon, Sligo. (d) _Munster_
-(south-western division): Counties Clare, Cork, Kerry, Limerick,
+(south-western division): Counties [[Clare]], Cork, Kerry, Limerick,
 Tipperary, Waterford.
 
-_Physical Geography._--Ireland stands on the edge of the European
+_Physical [[Geography]]._--Ireland stands on the edge of the European
 "continental shelf." Off the peninsula of Mullet (county Mayo) there are
-100 fathoms of water within 25 m. of the coast which overlooks the
+100 [[Fathom|fathoms]] of water within 25 m. of the coast which overlooks the
 Atlantic; eastward, northward and southward, in the narrow seas, this
 depth is never reached. The average height of the island is about 400
 ft., but the distribution of height is by no means equal. The island has
@@ -43,7 +43,7 @@ mountain rim and the central plain.
 
   The capital city and port of Dublin lies a little south of the central
   point of the eastern coast, at the head of a bay which marks a sudden
-  change in the coastal formation. Southward from its northern horn, the
+  change in the coastal formation. Southward from its northern [[Horn|horn]], the
   rocky headland of Howth, the coast is generally steep, occasionally
   sheer, and the mountains of county Wicklow approach it closely.
   Northward (the direction first to be followed) it is low, sandy and
@@ -55,12 +55,12 @@ mountain rim and the central plain.
   resumed; the fine eastward sweep of Dundrum Bay is passed, the coast
   turns north again, and a narrow channel gives entry to the
   island-studded lagoon of Strangford Lough. Reaching county Antrim,
-  green wooded hills plunge directly into the sea; the deep Belfast
+  green wooded hills plunge directly into the sea; the deep [[Belfast]]
   Lough strikes some 10 m. inland, and these conditions obtain nearly to
   Fair Head, the north-eastern extremity of the island. Here the coast
   turns westward, changing suddenly to sheer cliffs, where the basaltic
   formation intrudes its strange regular columns, most finely developed
-  in the famous Giant's Causeway.
+  in the famous Giant's [[Causeway]].
 
   The low land surrounding the plain-track of the Bann intervenes
   between this and the beginning of a coastal formation which is common
@@ -141,7 +141,7 @@ mountain rim and the central plain.
   Mayo and Galway (reaching 1695 ft. in the Twelve Pins of Connemara);
   in the south-west those of Kerry and Cork, where in Carrantuohill or
   Carntual (3414) the famous Macgillicuddy Reeks which beautify the
-  environs of Killarney include the highest point in the island; and
+  environs of [[Killarney]] include the highest point in the island; and
   north-east from these, the Galtees of Tipperary (3018) and Slieve
   Bloom, the farthest inland of the important groups. Nearer the south
   coast are the Knockmealdown (2609) and Commeragh Mountains (2470) of
@@ -154,7 +154,7 @@ mountain rim and the central plain.
   impossible to draw accurate boundary lines to the great Irish plain,
   yet it rightly carries the epithet central because it distinctly
   divides the northern mountain groups from the southern. The plain is
-  closely correlated with the bogs which are the best known physical
+  closely correlated with the [[Bog|bogs]] which are the best known physical
   characteristic of Ireland, but the centre of Ireland is not wholly
   bog-land. Rather the bogs of the plain are intersected by strips of
   low-lying firm ground, and the central plain consists of these bright
@@ -212,10 +212,10 @@ mountain rim and the central plain.
   loughs--Gowna, Oughter and the Loughs Erne, irregular of outline and
   studded with islands--separate this region from the principal
   lake-region of Ireland, coincident with the province of Connaught. In
-  the north lie Loughs Melvin, close above Donegal Bay, and Gill near
+  the north lie Loughs Melvin, close above Donegal Bay, and [[Gill]] near
   Sligo, Lough Gara, draining to the Shannon, and Lough Conn near
-  Ballina (county Mayo), and in the south, the great expanses of Loughs
-  Mask and Corrib, joined by a subterranean channel. To the west of
+  [[Ballina]] (county Mayo), and in the south, the great expanses of Loughs
+  Mask and [[Corrib]], joined by a subterranean channel. To the west of
   these last, the mountains of Connemara and, to a more marked degree,
   the narrow plain of bog-land between them and Galway Bay, are sown
   with small lakes, nearly every hollow of this wild district being
@@ -235,7 +235,7 @@ deg. F. in any part of Ireland, whereas over the larger part of the
 eastern slope of Great Britain it is some 3 deg. lower; and in July the
 extremes in Ireland are 59 deg. in the north and 62 deg. in Kilkenny.
 The range from north to south of Great Britain in the same month is some
-10 deg., but the greater extent of latitude accounts only for a part of
+10 deg., but the greater extent of [[Latitude|latitude]] accounts only for a part of
 this difference, which is mainly occasioned by the physical
 configuration of the surface of Ireland in its relations to the
 prevailing moist W.S.W. winds. Ireland presents to these winds no
@@ -250,7 +250,7 @@ Great Britain.     (O. J. R. H.)
   submarine plateau of western Europe, records in its structure the
   successive changes that the continent itself has undergone. The first
   broad view of the country shows us a basin-shaped island consisting of
-  a central limestone plain surrounded by mountains; but the diverse
+  a central [[Limestone|limestone]] plain surrounded by mountains; but the diverse
   modes of origin of these mountains, and the differences in their
   trend, suggest at once that they represent successive epochs of
   disturbance. The north-west highlands of Donegal and the Ox Mountains,
@@ -259,7 +259,7 @@ Great Britain.     (O. J. R. H.)
   Grampians and the backbone of Scandinavia. The ranges from Kerry to
   Waterford, on the other hand, truncated by the sea at either end, are
   clearly parts of an east and west system, the continuation of which
-  may be looked for in South Wales and Belgium. The hills of the
+  may be looked for in South Wales and [[Belgium]]. The hills of the
   north-east are mainly the crests of lava-plateaux, which carry the
   mind towards Skye and the volcanic province of the Faeroe Islands. The
   two most important points of contrast between the geology of Ireland
@@ -276,11 +276,11 @@ Great Britain.     (O. J. R. H.)
   probable that the latter masses are truly Archean. They form an
   interesting and bleak moorland between Cookstown and Omagh, extending
   north-eastward into Slieve Gallion in county Londonderry, and consist
-  fundamentally of mica-schist and gneiss, affected by earth-pressures,
+  fundamentally of mica-schist and [[Gneiss|gneiss]], affected by earth-pressures,
   and invaded by granite near Lough Fee. The axis along which they have
   been elevated runs north-east and south-west, and on either flank a
   series of "green rocks" appears, consisting of altered amygdaloidal
-  andesitic lavas, intrusive dolerites, coarse gabbros and diorites, and
+  andesitic lavas, intrusive dolerites, coarse gabbros and [[Diorite|diorites]], and
   at Beagh-beg and Creggan in central Tyrone ancient rhyolitic tuffs.
   Red and grey cherts, which have not so far yielded undoubted organic
   remains occur in this series, and it has in consequence been compared
@@ -297,7 +297,7 @@ Great Britain.     (O. J. R. H.)
   Archean, Cambrian and Silurian, and their general trend has
   undoubtedly been determined by post-Silurian earth-movements. Hence it
   is useful to speak of them merely as "Dalradian," a convenient term
-  invented by Sir A. Geikie for the metamorphic series of the old
+  invented by Sir A. [[Geikie]] for the metamorphic series of the old
   kingdom of Dalriada. They come out as mica-schists under the
   Carboniferous sandstones of northern Antrim, and disappear southward
   under the basaltic plateaux. The red gneisses near Torr Head probably
@@ -339,7 +339,7 @@ Great Britain.     (O. J. R. H.)
   Wicklow and eastern Kildare, are thus formed of Silurian beds, in
   which numerous contemporaneous and also intrusive igneous rocks are
   intercalated, striking like the chain N.E. and S.W. In south-eastern
-  Wexford, in northern Wicklow (from Ashford to Bray), and in the
+  Wexford, in northern Wicklow (from [[Ashford]] to [[Bray]]), and in the
   promontory of Howth on Dublin Bay, an apparently earlier series of
   green and red slates and quartzites forms an important feature. The
   quartzites, like those of the Dalradian series, weather out in cones,
@@ -366,7 +366,7 @@ Great Britain.     (O. J. R. H.)
   a similar trend and which have invaded the schists so intimately as to
   form with them a composite gneiss, date also from a post-Silurian
   epoch of earth-movement. Certain western and northern granites are
-  however older, since granite boulders occur in Silurian conglomerates
+  however older, since granite [[Boulder|boulders]] occur in Silurian conglomerates
   derived from the Dalradian complex.
 
   This group of N.E. and S.W. ridges and hollows, so conspicuous in the
@@ -383,7 +383,7 @@ Great Britain.     (O. J. R. H.)
   large exposure of this Old Red Sandstone stretches from Enniskillen
   to the Silurian beds at Pomeroy, and some contemporaneous andesites
   are included, reminding us of the volcanic activity at the same epoch
-  in Scotland. The numerous "felstone" dikes, often lamprophyric,
+  in Scotland. The numerous "felstone" [[Dike|dikes]], often lamprophyric,
   occurring in the north and west of Ireland, are probably also of
   Devonian age. The conglomerates appear at intervals through the
   limestone covering of central Ireland, and usually weather out as
@@ -392,7 +392,7 @@ Great Britain.     (O. J. R. H.)
   unconformable Silurian strata; while in several cases the domes are
   worn through, leaving rings of Old Red Sandstone hills, scarping
   inwards towards broad exposures of Silurian shales. The Old Red
-  Sandstone is most fully manifest in the rocky or heather-clad ridges
+  Sandstone is most fully [[Manifest|manifest]] in the rocky or heather-clad ridges
   that run from the west of Kerry to central Waterford, rising to 3414
   ft. in Carrantuohill in Macgillicuddy's Reeks, and 3015 ft. in
   Galtymore. In the Dingle Promontory the conglomerates of this period
@@ -480,13 +480,13 @@ Great Britain.     (O. J. R. H.)
   The Permian sea has left traces at Holywood on Belfast Lough and near
   Stewartstown in county Tyrone. Certain conglomeratic beds on which
   Armagh is built are also believed to be of Permian age. The Triassic
-  sandstones and marls, with marine Rhaetic beds above, are preserved
+  sandstones and [[Marl|marls]], with marine Rhaetic beds above, are preserved
   mainly round the basaltic plateaus of the north-east, and extend for
   some distance into county Down. An elongated outlier south of
-  Carrickmacross indicates their former presence over a much wider area.
-  Rock-salt occurs in these beds north of Carrickfergus.
+  [[Carrickmacross]] indicates their former presence over a much wider area.
+  Rock-salt occurs in these beds north of [[Carrickfergus]].
 
-  The Jurassic system is represented in Ireland by the Lower Lias alone,
+  The [[Jurassic]] system is represented in Ireland by the Lower [[Lias]] alone,
   and it is probable that no marine beds higher than the Upper Lias were
   deposited during this period. From Permian times onward, in fact, the
   Irish area lay on the western margin of the seas that played so large
@@ -500,9 +500,9 @@ Great Britain.     (O. J. R. H.)
   the Jurassic beds until the middle of Cretaceous times. The sea then
   returned, in the north-east at any rate, and the first Cretaceous
   deposits indicate the nearness of a shore-line. Dark "green-sands,"
-  very rich in glauconite, are followed by yellow sandstones with some
+  very rich in [[Glauconite|glauconite]], are followed by yellow sandstones with some
   flint. These two stages represent the Upper Greensand, or the sandy
-  type of the English Gault. Further sands represent the Cenomanian. The
+  type of the English [[Gault]]. Further sands represent the Cenomanian. The
   Turonian is also sandy, but in most areas was not deposited, or has
   been denuded away during a local uplift that preceded Senonian times.
   The Senonian limestone itself, which rests in the extreme north on
@@ -544,7 +544,7 @@ Great Britain.     (O. J. R. H.)
   which red iron-ores were laid down. The plant-remains associated with
   these beds form the only clue to the post-Cretaceous period in which
   the volcanic epoch opened, and they have been placed by Mr Starkie
-  Gardner in recent years as early Eocene. During this time of
+  [[Gardner]] in recent years as early Eocene. During this time of
   comparative rest, rhyolites were extruded locally in county Antrim;
   and there is very strong evidence that the granite of the Mourne
   Mountains, and that which cuts the Carlingford gabbro, were added at
@@ -591,7 +591,7 @@ Great Britain.     (O. J. R. H.)
   post-Glacial times, a subsidence admitted the sea into the Lagan
   valley and across the eastern shore in several places; but elevation,
   in the days of early human occupation, brought these last marine
-  deposits to light, and raised the beaches and shore-terraces some 10
+  deposits to light, and raised the [[Beach|beaches]] and shore-terraces some 10
   to 20 ft. along the coast. At Larne, Greenore and in the neck between
   Howth and Dublin, these raised beaches remain conspicuous. To sum up,
   then, while the main structural features of Ireland were impressed
@@ -601,8 +601,8 @@ Great Britain.     (O. J. R. H.)
 
   See maps and explanatory memoirs of the _Geological Survey of
   Ireland_ (Dublin); G. Wilkinson, _Practical Geology and Ancient
-  Architecture of Ireland_ (London, 1845); R. Kane, _Industrial
-  Resources of Ireland_ (2nd ed., Dublin, 1845); G. H. Kinahan, _Manual
+  Architecture of Ireland_ (London, 1845); R. [[Kane]], _Industrial
+  Resources of Ireland_ (2nd ed., Dublin, 1845); G. H. Kinahan, _[[Manual]]
   of the Geology of Ireland_ (London, 1878); E. Hull, _Physical Geology
   and Geography of Ireland_ (2nd ed., London, 1891); G. H. Kinahan,
   _Economic Geology of Ireland_ (Dublin, 1889); A. McHenry and W. W.
@@ -738,7 +738,7 @@ ten years, however, there was a considerable advance, and in 1855 the
 Irish railways extended to almost 1000 m. The total authorized capital
 of all Irish railways, exclusive of light railways, at the end of 1905
 was L42,881,201, and the paid-up capital, including loans and debenture
-stock, amounted to L37,238,888. The total gross receipts from all
+stock, amounted to L37,238,888. The total [[Gross|gross]] receipts from all
 sources of traffic in 1905 were L4,043,368, of which L2,104,108 was
 derived from passenger traffic and L1,798,520 from goods traffic. The
 total number of passengers carried (exclusive of season and periodical
@@ -766,7 +766,7 @@ from Donegal to Kerry. These railways are worked by existing companies.
     |                         |        |  great part of Ulster, the principal    |
     |                         |        |  towns served being Dublin, Belfast,    |
     |                         |        |  Londonderry, Dundalk, Drogheda, Armagh |
-    |                         |        |  and Lisburn.                           |
+    |                         |        |  and [[Lisburn]].                           |
     |Northern Counties^1 (now |  249   |The counties of Antrim,                  |
     |  owned by the Midland   |        |  Tyrone and Londonderry.                |
     |  Railway of England)    |        |                                         |
@@ -783,7 +783,7 @@ from Donegal to Kerry. These railways are worked by existing companies.
       ^2  Formerly Dublin, Wicklow and Wexford.
 
   There is no lack of cross-channel services between Ireland and Great
-  Britain. Belfast is connected by daily sailings with Glasgow,
+  Britain. Belfast is connected by daily sailings with [[Glasgow]],
   Ardrossan, Liverpool, Feetwood, Barrow and Heysham Harbour, Dublin
   with Holyhead and Liverpool, Greenore (Co. Down) with Holyhead, Larne
   (Co. Antrim) with Stranraer, Rosslare (Co. Wexford) with Fishguard and
@@ -825,7 +825,7 @@ especially in the southern and western districts, though improved
 drainage has done something to mitigate this evil, and might do a great
 deal more.
 
-Irish political history has largely affected the condition of
+Irish [[Political History|political history]] has largely affected the condition of
 agriculture. Confiscations and settlements, prohibitive laws (such as
 those which ruined the woollen industry), penal enactments against the
 Roman Catholics, absenteeism, the creation for political purposes of
@@ -900,12 +900,12 @@ agriculture.
   together, their cultivation during the last 60 years has gradually
   declined (from 3,313,579 acres in 1847 to 1,271,190 in 1905) by over
   50%. The area, however, under green crops--potatoes, turnips,
-  mangel-wurzel, beet, cabbage, &c., shows during the same period a much
+  mangel-wurzel, [[Beet|beet]], cabbage, &c., shows during the same period a much
   less marked decline--only some 300,000 acres. There has been a very
   considerable decrease since about 1861 in the acreage under potatoes.
   This is probably due to two causes--the emigration of the poorer
   classes who subsisted on that form of food, and the gradual
-  introduction of a more varied dietary. The total area under potatoes
+  introduction of a more varied [[Dietary|dietary]]. The total area under potatoes
   in 1905 was 616,755 acres as compared with 1,133,504 acres in 1861.
   Since about 1885 the acreage under turnips has remained fairly
   stationary in the neighbourhood of 300,000 acres, while the
@@ -921,7 +921,7 @@ agriculture.
   clover has increased by more than 50%, rising from 1,138,946 acres in
   1847 to 2,294,506 in 1905. It would thus appear that a large
   proportion of the land which has ceased to bear cereal or green crops
-  is now laid down in meadow and clover. The balance has become
+  is now laid down in meadow and clover. The [[Balance|balance]] has become
   pasturage, and the total area under grass in Ireland has so largely
   increased that it now embraces more than one-half of the entire
   country. This increase of the pastoral lands, with the corresponding
@@ -1050,7 +1050,7 @@ improvement of live stock, and (3) special investigations.
   may have far-reaching economic effects, has been in the cultivation of
   tobacco. So far it has been proved (1) that the tobacco plant can be
   grown successfully in Ireland, and (2) that the crop when blended with
-  American leaf can be manufactured into a mixture suitable for smoking.
+  American [[Leaf|leaf]] can be manufactured into a mixture suitable for smoking.
   But whether Irish tobacco can be made a profitable crop depends upon a
   good many other considerations.
 
@@ -1069,9 +1069,9 @@ one of the most hopeful features in Irish agriculture.
   102 in Munster, 20 in Leinster and 30 in Connaught. The members
   numbered over 42,000 and the trade turnover for the year was
   L1,245,000. Agricultural societies have been established for the
-  purchase of seed, implements, &c., on co-operative lines and of these
+  purchase of seed, [[Implement|implements]], &c., on co-operative lines and of these
   there are 150, with a membership of some 14,000. The society was also
-  successful in establishing a large number of credit societies, from
+  successful in establishing a large number of [[Credit|credit]] societies, from
   which farmers can borrow at a low rate of interest. There are also
   societies for poultry-rearing, rural industries, bee-keeping,
   bacon-curing, &c., in connexion with the central organization. The
@@ -1114,9 +1114,9 @@ greatly extended.
     +-------------------+--------+---------+----------------------------------------+
     |                   |        |         |           Purchase Money.              |
     |                   | No. of | No. of  +------------+------------+--------------+
-    |  Classification.  |Estates.| Purchas-|            | Amount of  |  Amount of   |
+    |  [[Classification]].  |Estates.| Purchas-|            | Amount of  |  Amount of   |
     |                   |        |   ers.  |   Price.   |  Advances  |   Proposed   |
-    |                   |        |         |            |applied for.|Cash Payments.|
+    |                   |        |         |            |applied for.|[[Cash]] Payments.|
     +-------------------+--------+---------+------------+------------+--------------+
     | Direct Sales      |  3446  |86,898   |L32,811,564 |L32,692,066 |  L119,498    |
     | Sections 6 and 8  |    54  | 3,567^1 |  1,231,014 |  1,226,832 |     4,182    |
@@ -1194,7 +1194,7 @@ was less than 100,000 tons and its value at the mines was given as
 L43,000. Iron ore is worked in Co. Antrim, over 113,000 tons having been
 produced in 1905. Alum clay or bauxite, from which aluminium is
 manufactured, is found in the same county. Clays of various kinds,
-mainly fire and brick clay, are obtained in several places and there are
+mainly fire and [[Brick|brick]] clay, are obtained in several places and there are
 quarries of marble (notably in Connemara), slate, granite, limestone and
 sandstone, the output of which is considerable. Silver is obtained in
 small quantities from lead ore in Co. Donegal, and hopes have been
@@ -1223,7 +1223,7 @@ of Irish cattle to England the Irish farmers turned their attention to
 the breeding of sheep, with such good effect that the woollen
 manufacture increased with great rapidity. Moreover the improved quality
 of the wool showed itself in the improvement of the finished article, to
-the great alarm of the English manufacturer. So much trade jealousy was
+the great alarm of the English manufacturer. So much trade [[Jealousy|jealousy]] was
 aroused that both Houses of Parliament petitioned William III. to
 interfere. In accordance with his wishes the Irish parliament in 1698
 placed heavy additional duties on all woollen clothing (except friezes)
@@ -1267,7 +1267,7 @@ settle in Ireland. A similar policy was pursued with even more energy by
 his successor in office, the duke of Ormonde, at whose instigation an
 Irish act was passed in 1665 to encourage the growth of flax and the
 manufacture of linen. He also established factories and brought over
-families from Brabant and France to work in them. The English parliament
+families from [[Brabant]] and France to work in them. The English parliament
 in their desire to encourage the linen industry at the expense of the
 woollen, followed Ormonde's lead by passing an act inviting foreign
 workmen to settle in Ireland, and admitting all articles made of flax or
@@ -1293,7 +1293,7 @@ Ireland can boast. Belfast is the centre and market of the trade, but
 mills and factories are to be found dotted all over the eastern counties
 of Ulster.
 
-  In 1850 the number of spindles was 396,338 and of power looms 58; in
+  In 1850 the number of spindles was 396,338 and of power [[Loom|looms]] 58; in
   1905 the corresponding figures were 826,528 and 34,498. In 1850 the
   number of persons employed in flax mills and factories was 21,121; in
   1901 the number in flax, hemp and jute textile factories was 64,802.
@@ -1311,7 +1311,7 @@ very prejudicial effects, and by 1839 the number of persons employed had
 fallen to 4622. The trade has dwindled ever since and is now quite
 insignificant.
 
-_Silk Manufacture._--About the end of the 17th century French Huguenots
+_Silk Manufacture._--About the end of the 17th century French [[Huguenots]]
 settled in Dublin and started the manufacture of Irish poplin, a mixture
 of silk and wool. In 1823 between 3000 and 4000 persons were employed.
 But with the abolition of the protective duties in 1826 a decline set
@@ -1328,7 +1328,7 @@ a tendency to decrease. In 1900 the number of gallons charged with duty
 was 9,589,571, in 1903 8,215,355, and in 1906 7,337,928. There are
 breweries in most of the larger Irish towns, and Dublin is celebrated
 for the porter produced by the firm of Arthur Guinness & Son, the
-largest establishment of the kind in the world. The number of barrels of
+largest establishment of the kind in the world. The number of [[Barrel|barrels]] of
 beer--the inclusive term used by the Inland Revenue Department--charged
 with duty in 1906 was 3,275,309, showing an increase of over 200,000 as
 compared with 1900.
@@ -1348,18 +1348,18 @@ compared with 1900.
     +--------------+-----------+-----------+-----------+-----------+
 
 _Other Industries._--Shipbuilding is practically confined to Belfast,
-where the firm of Harland and Wolff, the builders of the great "White
+where the firm of [[Harland]] and Wolff, the builders of the great "White
 Star" liners, have one of the largest yards in the world, giving
-employment to several thousand hands. There are extensive engineering
+employment to several thousand hands. There are extensive [[Engineering|engineering]]
 works in the same city which supply the machinery and other requirements
 of the linen industry. Paper is manufactured on a considerable scale in
-various places, and Balbriggan is celebrated for its hosiery.
+various places, and [[Balbriggan]] is celebrated for its [[Hosiery|hosiery]].
 
 _Commerce and Shipping._--From allusions in ancient writers it would
 appear that in early times Ireland had a considerable commercial
 intercourse with various parts of Europe. When the merchants of Dublin
 fled from their city at the time of the Anglo-Norman invasion it was
-given by Henry II. to merchants from Bristol, to whom free trade with
+given by Henry II. to merchants from [[Bristol]], to whom free trade with
 other portions of the kingdom was granted as well as other advantages.
 In the Staple Act of Edward III., Dublin, Waterford, Cork and Drogheda
 are mentioned as among the towns where staple goods could be purchased
@@ -1519,10 +1519,10 @@ in each county were transferred to a county council, new administrative
 counties being formed for the purposes of the act, in some cases by the
 alteration of existing boundaries. To the county councils were also
 assigned the power of assessing and levying the poor rate in rural
-districts, the management of lunatic asylums, and the administration of
+districts, the management of lunatic [[Asylum|asylums]], and the administration of
 certain acts such as the Explosives Act, the Technical Education Act and
 the Diseases of Animals Act. Subordinate district councils, urban and
-rural, were also established as in England and Scotland to manage the
+rural, were also established as in England and Scotland to [[Manage|manage]] the
 various local areas within each county. The provisions made for the
 administration of the Poor Law by the act under consideration are very
 complicated, but roughly it may be said that it was handed over to these
@@ -1530,7 +1530,7 @@ new subordinate local bodies. Six towns--Dublin, Belfast, Cork,
 Limerick, Londonderry and Waterford--were constituted county boroughs
 governed by separate county councils; and five boroughs--Kilkenny,
 Sligo, Clonmel, Drogheda and Wexford--retained their former
-corporations. The act provides facilities for the conversion into urban
+corporations. The act provides facilities for the [[Conversion|conversion]] into urban
 districts of (1) towns having town commissioners who are not sanitary
 authorities and (2) non-municipal towns with populations of over 1500
 and entitled to petition for town commissioners.
@@ -1541,7 +1541,7 @@ chief justice, and the master of the rolls and the chief baron of the
 exchequer as _ex-officio_ members, and two lords justices of appeal; and
 the high court of justice which includes (1) the chancery division,
 composed of the lord chancellor, the master of the rolls and two
-justices, (2) the king's bench division composed of the lord chief
+justices, (2) the king's [[Bench|bench]] division composed of the lord chief
 justice, the chief baron of the exchequer and eight justices, and (3)
 the land commissions with two judicial commissioners. At the first
 vacancy the title and rank of chief baron of the exchequer will be
@@ -1552,7 +1552,7 @@ chairmen of quarter sessions" and that their number should be reduced to
 twenty-one, which was to include the recorders of Dublin, Belfast, Cork,
 Londonderry and Galway. At the same time the jurisdiction of the county
 courts was largely extended. There are 66 resident (stipendiary)
-magistrates, and four police magistrates in Dublin.
+[[Magistrate|magistrates]], and four police magistrates in Dublin.
 
 _Police._--The Royal Irish Constabulary were established in 1822 and
 consisted at first of 5000 men under an inspector-general for each of
@@ -1577,14 +1577,14 @@ trial, convicted and acquitted in Ireland in 1886, 1891, 1900 and
   Of the 1367 convicted in 1905, 375 were charged with offences against
   the person, 205 with offences against property with violence, 545 with
   offences against property without violence, 52 with malicious injury
-  to property, 44 with forgery and offences against the currency, and
+  to property, 44 with [[Forgery|forgery]] and offences against the currency, and
   146 with other offences. In 1904, 81,775 cases of drunkenness were
   brought before Irish magistrates as compared with 227,403 in England
   and 43,580 in Scotland.
 
 _Poor Law._--The following table gives the numbers in receipt of indoor
 and outdoor relief (exclusive of persons in institutions for the blind,
-deaf and dumb, and for idiots and imbeciles) in, the years 1902-1905,
+deaf and dumb, and for idiots and [[Imbecile|imbeciles]]) in, the years 1902-1905,
 together with the total expenditure for relief of the poor:--
 
     +------+-----------------------------+--------------+
@@ -1631,7 +1631,7 @@ Catholic Church. In 1891 the Roman Catholics numbered 3,547,307 or 75%
 of the total population, and in 1901 they numbered 3,308,661 or 74%. The
 adherents of the Church of Ireland come next in number (581,089 in 1901
 or 13% of the population), then the Presbyterians (443,276 in 1901 or
-10% of the population), the only other denomination with a considerable
+10% of the population), the only other [[Denomination|denomination]] with a considerable
 number of members being the Methodists (62,006 in 1901). As the result
 of emigration, which drains the Roman Catholic portion of the population
 more than any other, the Roman Catholics show a larger proportional
@@ -1745,7 +1745,7 @@ Londonderry.
 The university of Dublin (q.v.), which is for practical purposes
 identical with Trinity College, Dublin, was incorporated in 1591. The
 government is in the hands of a board consisting of the provost and the
-senior fellows, assisted by a council in the election of professors and
+senior [[Fellows|fellows]], assisted by a council in the election of professors and
 in the regulation of studies. The council is composed of the provost
 (and, in his absence, the vice-provost) and elected members. There is
 also a senate, composed of the chancellor or vice-chancellor and all
@@ -1801,7 +1801,7 @@ statutes for its government; and for the purpose of dealing with any
 matter calling for joint action, a joint commission, half from each of
 the above commissions, was established. Regulations as to grants-in-aid
 were made by the act, with the stipulation that no sum from them should
-be devoted to the provision or maintenance of any building, or tutorial
+be devoted to the provision or [[Maintenance|maintenance]] of any building, or tutorial
 or other office, for religious purposes, though private benefaction for
 such purposes is not prohibited. Provisions were also made as to the
 transfer of graduates and students, so that they might occupy under the
@@ -1820,7 +1820,7 @@ belonging to the university under the control and direction of the
 archbishop of Dublin, who undertook to maintain a college in which
 education would be given according to the regulations of the Royal
 University. In 1883 the direction of the college was entrusted to the
-Jesuits. Although the college receives no grant from public funds, it
+[[Jesuits]]. Although the college receives no grant from public funds, it
 has proved very successful and attracts a considerable number of
 students, the great majority of whom belong to the Church of Rome.
 
@@ -1914,7 +1914,7 @@ divinity.
   the augmentation of the salaries of the national teachers.
 
   There are 5 reformatory schools, 3 for boys and 2 for girls, and 68
-  industrial schools, 5 Protestant and 63 Roman Catholic.
+  [[Industrial School|industrial schools]], 5 Protestant and 63 Roman Catholic.
 
 
     Technical instruction.
@@ -1946,12 +1946,12 @@ considerable sum also accrued from the plantation of Ulster, the revenue
 is supposed to have fallen short of the expenditure by about L16,000 a
 year. During the reign of Charles I. the customs increased fourfold in
 value, but it was found necessary to raise L120,000 by yearly subsidies.
-According to the report of the committee appointed by Cromwell to
+According to the report of the committee appointed by [[Cromwell]] to
 investigate the financial condition of Ireland, the revenue in 1654 was
 L197,304 and the expenditure L630,814. At the Restoration the Irish
 parliament granted an hereditary revenue to the king, an excise for the
 maintenance of the army, a subsidy of tonnage and poundage for the navy,
-and a tax on hearths in lieu of feudal burdens. "Additional duties" were
+and a tax on hearths in lieu of feudal [[Burden|burdens]]. "Additional duties" were
 granted shortly after the Revolution. "Appropriate duties" were imposed
 at different periods; stamp duties were first granted in 1773, and the
 post office first became a source of revenue in 1783. In 1706 the
@@ -2059,7 +2059,7 @@ which year it was consolidated with the British national debt.
   half-yearly the proportion so ascertained to the county council. (2)
   Before the passing of the act grants were made from the imperial
   exchequer to the grand juries in aid of the maintenance of lunatics
-  and to boards of guardians for medical and educational purposes and
+  and to boards of [[Guardian|guardians]] for medical and educational purposes and
   for salaries under the Public Health (Ireland) Act. In 1897 these
   grants amounted to over L236,000. Under the Local Government Act they
   ceased, and in lieu thereof it was provided that there should be
@@ -2068,14 +2068,14 @@ which year it was consolidated with the British national debt.
   specified local taxation licences. In addition, it was enacted that
   a fixed sum of L79,000 should be forthcoming annually from the
   consolidated fund. (3) The county cess was abolished, and the county
-  councils were empowered to levy a single rate for the rural districts
+  councils were empowered to [[Levy|levy]] a single rate for the rural districts
   and unions, called by the name of poor rate, for all the purposes of
   the act. This rate is made upon the occupier and not upon the
   landlord, and the occupier is not entitled, save in a few specified
   cases, to deduct any of the rate from his rent. For the year ending
   the 31st of March 1905, the total receipts of the Irish county
   councils, exclusive of the county boroughs, were L2,964,298 and their
-  total expenditure was L2,959,961, the two chief items of expenditure
+  total expenditure was L2,959,961, the two chief [[Item|items]] of expenditure
   being "Union Charges" L1,002,620 and "Road Expenditure" L779,174.
   During the same period the total receipts from local taxation in
   Ireland amounted to L4,013,303, and the amount granted from imperial
@@ -2122,7 +2122,7 @@ which year it was consolidated with the British national debt.
 
   In 1906 the net value of property assessed to estate duty, &c., in
   Ireland was L16,016,000 as compared with L306,673,000 in England and
-  L38,451,000 in Scotland; and in 1905 the net produce of the income tax
+  L38,451,000 in Scotland; and in 1905 the net produce of the [[Income Tax|income tax]]
   in Ireland was L983,000, as compared with L27,423,000 in England and
   L2,888,000 in Scotland.
 
@@ -2133,18 +2133,18 @@ which year it was consolidated with the British national debt.
   of the Irish Land Question_ (1880); A. G. Richey's _Irish Land Laws_
   (1880). General information will be found in J. P. Kennedy's Digest of
   the evidence given before the Devon Commission (Dublin, 1847-1848);
-  the _Report_ of the Bessborough Commission, 1881, and of the
+  the _Report_ of the [[Bessborough]] Commission, 1881, and of the
   commission on the agriculture of the United Kingdom, 1881. The
   Department of Agriculture publishes several official annual reports,
   dealing very fully with Irish agriculture.
 
   Manufactures and Commerce: _Discourse on the Woollen Manufacture of
   Ireland_ (1698); _An Inquiry into the State and Progress of the Linen
-  Manufacture in Ireland_ (Dublin, 1757); G. E. Howard, _Treatise on the
+  Manufacture in Ireland_ (Dublin, 1757); G. E. [[Howard]], _Treatise on the
   Revenue of Ireland_ (1776); John Hely Hutchinson, _Commercial
   Restraints of Ireland_ (1779); Lord Sheffield, _Observations on the
   Manufactures, Trade and Present State of Ireland_ (1785); R. B.
-  Clarendon, _A Sketch of the Revenue and Finances of Ireland_ (1791);
+  [[Clarendon]], _A Sketch of the Revenue and Finances of Ireland_ (1791);
   the annual reports of the Flax Supply Association and other local
   bodies, published at Belfast; reports by the Department of Agriculture
   on Irish imports and exports (these are a new feature and contain much
@@ -2161,7 +2161,7 @@ which year it was consolidated with the British national debt.
   Figures about Ireland_ (1893); _Report of the Recess Committee_
   (1896, published in Dublin); _Report of the Financial Relations
   Commission_ (1897); Sir H. Plunkett, _Ireland in the New Century_
-  (London, 1905); Filson Young, _Ireland at the Cross-Roads_ (London,
+  (London, 1905); Filson Young, _Ireland at the [[Cross-Roads]]_ (London,
   1904); Thom's _Almanac_, published annually in Dublin, gives a very
   useful summary of statistics and other information.     (W. H. Po.)
 
@@ -2188,7 +2188,7 @@ fact that the serious study of Irish philology only dates from 1853 and
 much of the most important material has not yet appeared in print. In
 the middle of the 19th century O'Donovan and O'Curry collected a vast
 amount of undigested information about the early history of the island,
-but as yet J. B. Bury in his monograph on St Patrick is the only trained
+but as yet J. B. [[Bury]] in his monograph on St Patrick is the only trained
 historian who has ever adequately dealt with any of the problems
 connected with ancient Ireland. Hence it is evident that our knowledge
 of the subject must remain extremely unsatisfactory until the chief
@@ -2211,7 +2211,7 @@ Maelmura (d. 884), Cinaed Uah Artacain (d. 975), Eochaid Ua Flainn (d.
 also embodied in the _Leabhar Gabhala_ or _Book of Invasions_, the
 earliest copy of which is contained in the _Book of Leinster_, a
 12th-century MS., Geoffrey Keating's _History_, Dugald MacFirbis's
-_Genealogies_ and various collections of annals such as those by the
+_Genealogies_ and various collections of [[Annals|annals]] such as those by the
 Four Masters. Of prime importance for the earlier period are the stories
 known collectively as the Ulster cycle, among which the lengthy epic the
 _Tain Bo Cualnge_ takes first place. Amongst the numerous chronicles the
@@ -2230,7 +2230,7 @@ Irish Academy). The use of bronze was perhaps introduced about 1450 B.C.
 The craniological evidence is unfortunately at present insufficient to
 show whether the introduction of metal coincided with any particular
 invasion either from Britain or the European continent. At any rate it
-was not until well on in the Bronze Age, perhaps about 600 or 500 B.C.,
+was not until well on in the [[Bronze Age]], perhaps about 600 or 500 B.C.,
 that the Goidels, the first invaders speaking a Celtic language, set
 foot in Ireland. The newcomers probably overran the whole island,
 subduing but not exterminating the older race with which they doubtless
@@ -2249,7 +2249,7 @@ powerful Goidelic states, as the supremacy of the Brythonic kingdom of
 Tara does not seem to have been acknowledged before the 4th century of
 our era. The early Belgic settlers constituted perhaps in the main
 trading states which acted as intermediaries of commerce between Ireland
-and Gaul.[1] In addition to these Brythonic colonies a number of Pictish
+and [[Gaul]].[1] In addition to these Brythonic colonies a number of Pictish
 tribes, who doubtless came over from Scotland, conquered for themselves
 parts of Antrim and Down where they maintained their independence till
 late in the historical period. Picts are also represented as having
@@ -2360,7 +2360,7 @@ the sovereignty of Ireland, a great battle was fought on the plain of
 Moytura near Cong (Co. Mayo), the site of a prehistoric cemetery. In
 this contest the Firbolgs were overthrown with great slaughter, and the
 remnants of the race according to Keating and other writers took refuge
-in Arran, Islay, Rathlin and the Hebrides, where they dwelt until driven
+in Arran, [[Islay]], Rathlin and the [[Hebrides]], where they dwelt until driven
 out by Picts. Twenty-seven years later the Tuatha De had to defend
 themselves against the Fomorians, who were almost annihilated at the
 battle of north Moytura near Sligo. The Tuatha De then enjoyed
@@ -2433,11 +2433,11 @@ Conn's grandson, Cormac son of Art, is represented as having reigned in
 great splendour (254-266) and as having been a great patron of learning.
 It was during this reign that the sept of the Desi were expelled from
 Meath. They settled in Munster where their name still survives in the
-barony of Decies (Co. Waterford). A curious passage in Cormac's
+[[Barony|barony]] of Decies (Co. Waterford). A curious passage in Cormac's
 _Glossary_ connects one of the leaders of this sept, Cairpre Musc, with
 the settlements of the Irish in south Wales which may have taken place
 as early as the 3rd century. Of greater consequence was the invasion of
-Ulster by the three Collas, cousins of the ardri Muredach. The
+Ulster by the three Collas, [[Cousin|cousins]] of the ardri Muredach. The
 stronghold of Emain Macha was destroyed and the Ulstermen were driven
 across the Newry River into Dalriada, which was inhabited by Picts.
 
@@ -2451,7 +2451,7 @@ him as constantly engaged in marauding expeditions oversea, and it was
 doubtless on one of these that St Patrick was taken captive. These
 movements coincide with the inroads of the Picts and Scots recorded by
 Roman writers. It is probably from this period that the Irish colonies
-in south Wales, Somerset, Devon and Cornwall date. And the earliest
+in south Wales, Somerset, Devon and [[Cornwall]] date. And the earliest
 migrations from Ulster to Argyll may also have taken place about this
 time. Literary evidence of the colonization of south Wales is preserved
 both in Welsh and Irish sources, and some idea of the extent of Irish
@@ -2480,7 +2480,7 @@ tribal names are formed with the suffix -_raige_, e.g. _Ciarraige_,
 Kerry, _Osraige_, Ossory, or with the obscure words _Corcu_ and _mocu_
 (_maccu_), e.g. _Corco Duibne_, Corkaguiney, _Corco Mruad_, Corcomroe,
 _Macu Loegdae_, _Macu Teimne_. In the case of _corcu_ and _mocu_ the
-name which follows is frequently the name of an eponymous ancestor. The
+name which follows is frequently the name of an [[Eponymous|eponymous]] ancestor. The
 Milesians on the other hand named themselves after an historical
 ancestor employing terms such as _ui_, "descendants," _cland_,
 "children," _dal_, "division," _cinel_, "kindred," or _sil_, "seed." In
@@ -2525,7 +2525,7 @@ became associated with south Ulster where it survives in the county name
 Tyrone. The whole kingdom of the north is commonly designated the
 kingdom of Ailech, from the ancient stronghold near Derry which the sons
 of Niall probably took over from the earlier inhabitants. At the end of
-the 5th century Maine, a relative of the king of Tara, was apportioned a
+the 5th century [[Maine]], a relative of the king of Tara, was apportioned a
 tract of Firbolg territory to the west of the Suck in Connaught, which
 formed the nucleus of a powerful state known as Hy Maine (in English
 commonly called the "O'Kelly's country"). Thus practically the whole of
@@ -2626,7 +2626,7 @@ According to the story St Patrick overthrew the idol, and one of the
 lives of the saint states that the mark of his crosier might still be
 seen on the stone. In the _Dindsenchus_ we are told that the worshippers
 sacrificed their children to the idol in order to secure corn, honey and
-milk in plenty. On the occasion of famine the druids advised that the
+milk in plenty. On the occasion of famine the [[Druids|druids]] advised that the
 son of a sinless married couple should be brought to Ireland to be
 killed in front of Tara and his blood mixed with the soil of Tara. We
 might naturally expect to find the druids active in the capacity of
@@ -2640,7 +2640,7 @@ Ireland prior to the introduction of Christianity, it may be doubted if
 any serious difference would be discovered. In early Irish literature
 the druids chiefly appear as magicians and diviners, but they are also
 the repositaries of the learning of the time which they transmitted to
-the disciples accompanying them (see DRUIDISM). The Druids were believed
+the [[Disciple|disciples]] accompanying them (see DRUIDISM). The Druids were believed
 to have the power to render a person insane by flinging a magic wisp of
 straw in his face, and they were able to raise clouds of mist, or to
 bring down showers of fire and blood. They claimed to be able to
@@ -2693,7 +2693,7 @@ Declan, Ailbe and Ciaran.
 
 In one source the great heresiarch Pelagius is stated to have been a
 Scot. He may have been descended from an Irish family settled in south
-Wales. We have also the statement of Prosper of Aquitaine that Palladius
+Wales. We have also the statement of Prosper of [[Aquitaine]] that Palladius
 was sent by Pope Celestine as first bishop to the Scots that believe in
 Christ. But though we may safely assume that a number of scattered
 communities existed in Ireland, and probably not in the south alone, it
@@ -2744,7 +2744,7 @@ most effective and certain means of conversion. It would be a mistake to
 suppose that his success was as rapid or as complete as is generally
 assumed. There can be no doubt that he met with great opposition both
 from the high-king Loigaire and from the druids. But though Loigaire
-refused to desert the faith of his ancestors we are told that a number
+refused to [[Desert|desert]] the faith of his ancestors we are told that a number
 of his nearest kinsmen accepted Christianity; and if there be any truth
 in the story of the codification of the Brehon Laws we gather that he
 realized that the future belonged to the new religion. St Patrick's work
@@ -2827,7 +2827,7 @@ had become Christian. After making a gift of his lands the chief either
 retired, leaving it in the hands of a coarb, or remained as the
 religious head himself. The family went on with their usual avocations,
 but some of the men and women, and in some cases all, practised
-celibacy, and all joined in fasting and prayer. It may be inferred from
+celibacy, and all joined in [[Fasting|fasting]] and prayer. It may be inferred from
 native documents that grave disorders were prevalent under this system.
 A severer and more exclusive type of monasticism succeeded this
 primitive one, but apart from the separation of the sexes the general
@@ -2898,9 +2898,9 @@ as unmarried clergy, and when St Patrick was seeking a bishop for the
 men of Leinster he asked for "a man of one wife." Marriage among the
 secular clergy went on in Ireland until the 15th century. Like the
 Gaulish druids described by Caesar, the poet (_fili_) and the druid
-possessed a huge stock of unwritten native lore, probably enshrined in
+possessed a huge stock of unwritten native [[Lore|lore]], probably enshrined in
 verse which was learnt by rote by their pupils. The exalted position
-occupied by the learned class in ancient Ireland perhaps affords the key
+occupied by the learned class in ancient Ireland perhaps affords the [[Key|key]]
 to the wonderful outbursts of scholarly activity in Irish monasteries
 from the 6th to the 9th centuries. That some of the _filid_ embraced
 Christianity from the outset is evident from the story of Dubthach. As
@@ -2925,7 +2925,7 @@ Twelve of Findian's disciples became known as the twelve apostles of
 Ireland, the monastic schools they founded becoming the greatest centres
 of learning and religious instruction not only in Ireland, but in the
 whole of the west of Europe. Among the most famous were Moville (Co.
-Down), founded by another Findian, c. 540; Clonmacnoise, founded by
+Down), founded by another Findian, c. 540; [[Clonmacnoise]], founded by
 Kieran, 541; Derry, founded by Columba, 546; Clonfert, founded by
 Brendan, 552; Bangor, founded in 558 by Comgall; Durrow, founded by
 Columba, c. 553. The chief reform due to the influence of the British
@@ -2949,8 +2949,8 @@ apostle of England." In 590 Columbanus, a native of Leinster (b. 543),
 went forth from Bangor, accompanied by twelve companions, to preach the
 Gospel on the continent of Europe. Columbanus was the first of the long
 stream of famous Irish monks who left their traces in Italy,
-Switzerland, Germany and France; amongst them being Gallus or St Gall,
-founder of St Gallen, Kilian of Wurzburg, Virgil of Salzburg, Cathald of
+Switzerland, Germany and France; amongst them being Gallus or St [[Gall]],
+founder of St Gallen, [[Kilian]] of Wurzburg, Virgil of Salzburg, Cathald of
 Tarentum and numerous others. At the beginning of the 8th century a long
 series of missionary establishments extended from the mouths of the
 Meuse and Rhine to the Rhone and the Alps, whilst many others founded by
@@ -2959,17 +2959,17 @@ Frisians, for instance, spent twelve years in Ireland. Other Irishmen
 seeking remote places wherein to lead the lives of anchorites, studded
 the numerous islands on the west coast of Scotland with their little
 buildings. Cormac ua Liathain, a disciple of St Columba, visited the
-Orkneys, and when the Northmen first discovered Iceland they found there
+Orkneys, and when the Northmen first discovered [[Iceland]] they found there
 books and other traces of the early Irish church. It may be mentioned
 that the geographer Dicuil who lived at the court of Charlemagne gives a
 description of Iceland which must have been obtained from some one who
 had been there. The peculiarities which owing to Ireland's isolation had
 survived were brought into prominence when the Irish missionaries came
 into contact with Roman ecclesiastics. The chief points of difference
-were the calculation of Easter and the form of the tonsure, in addition
+were the calculation of [[Easter]] and the form of the tonsure, in addition
 to questions of discipline such as the consecration of bishops _per
 saltum_ and bishops without dioceses. With regard to tonsure it would
-seem that the druids shaved the front part of the head from ear to ear.
+seem that the druids shaved the front part of the head from [[Ear|ear]] to ear.
 St Patrick doubtless introduced the ordinary coronal tonsure, but in the
 period following his death the old druidical tonsure was again revived.
 In the calculation of Easter the Irish employed the old Roman and Jewish
@@ -2988,7 +2988,7 @@ Pictland. Owing to these controversies the real work of the early Irish
 missionaries in converting the pagans of Britain and central Europe, and
 sowing the seeds of culture there, is apt to be overlooked. Thus, when
 the Anglo-Saxon, Winfrid, surnamed Boniface, appeared in the kingdom of
-the Franks as papal legate in 723, to romanize the existing church of
+the [[Frank|Franks]] as papal legate in 723, to romanize the existing church of
 the time, neither the Franks, the Thuringians, the Alemanni nor the
 Bavarians could be considered as pagans. What Irish missionaries and
 their foreign pupils had implanted for more than a century quite
@@ -2997,7 +2997,7 @@ authority partly by force of arms.
 
 During the four centuries which elapsed between the arrival of St
 Patrick and the establishment of a central state in Dublin by the
-Norsemen the history of Ireland is almost a blank as regards
+Norsemen the history of Ireland is almost a [[Blank|blank]] as regards
 outstanding events. From the time that the Milesians of Tara had come to
 be recognized as suzerains of the whole island all political development
 ceases. The annals contain nothing save a record of intertribal warfare,
@@ -3107,7 +3107,7 @@ period. A curious feature of Hy Neill rule about this time was joint
 kingship. From 563 to 656 there were no less than five such pairs. In
 681 St Moling of Ferns prevailed upon the _ardri_ Finnachta (674-690) to
 renounce for ever the _boroma_, tribute, which had always been a source
-of friction between the supreme king and the ruler of Leinster. This
+of [[Friction|friction]] between the supreme king and the ruler of Leinster. This
 was, however, unfortunately not the last of the _boroma_. Fergal
 (711-722), in trying to enforce it again, was slain in a famous battle
 at Allen in Kildare. As a sequel Fergal's son, Aed Allan (734-743),
@@ -3167,7 +3167,7 @@ such forces it was possible to put fleets of boats on the inland lakes.
 Rude earthen or stockaded forts, serving as magazines and places of
 retreat, were erected; or in some cases use was made of strongholds
 already existing, such as Dun Almain in Kildare, Dunlavin in Wicklow and
-Fermoy in Cork. Some of these military posts in course of time became
+[[Fermoy]] in Cork. Some of these military posts in course of time became
 trading stations or grew into towns. During the first half of the 9th
 century attacks were incessant in most parts of the island. In 801 we
 find Norwegians on the upper Shannon; in 820 the whole of Ireland was
@@ -3251,7 +3251,7 @@ The social and political condition of Ireland, and the pastoral
 occupation of the inhabitants, were unfavourable to the development of
 foreign commerce, and the absence of coined money among them shows that
 it did not exist on an extensive scale. The foreign articles of luxury
-(dress, ornaments, wine, &c.) required by them were brought to the great
+([[Dress|dress]], ornaments, wine, &c.) required by them were brought to the great
 _oenachs_ or fairs held periodically in various parts of the country. A
 flourishing commerce, however, soon grew up in the Scandinavian towns;
 mints were established, and many foreign traders--Flemings, Italians and
@@ -3414,7 +3414,7 @@ been murdered by Donoban, and Brian thus became king of Thomond, whilst
 Maelmuad succeeded to Cashel. In 977 Brian made a sudden and rapid
 inroad into Donoban's territory, captured his fortress and slew the
 prince himself with a vast number of his followers. Maelmuad, the other
-conspirator, met with a like fate at Belach Lechta in Barnaderg (near
+conspirator, met with a like [[Fate|fate]] at Belach Lechta in Barnaderg (near
 Ballyorgan). After this battle Brian was acknowledged king of all
 Munster (978). After reducing the Desi, who were in alliance with the
 Northmen of Waterford and Limerick, in 984 he subdued Ossory and took
@@ -3444,7 +3444,7 @@ halting at a place called Glen Mama near Dunlavin (Co. Wicklow). He was
 attacked by the allied forces, who were repulsed with great slaughter.
 Maelmorda, king of Leinster, was taken prisoner, and Sigtrygg fled for
 protection to Ailech. The victor gave proof at once that he was not only
-a clever general but also a skilful diplomatist. Maelmorda was restored
+a [[Clever|clever]] general but also a skilful diplomatist. Maelmorda was restored
 to his kingdom, Sigtrygg received Brian's daughter in marriage, whilst
 Brian took to himself the Dublin king's mother, the notorious
 Gormflaith, who had already been divorced by Maelsechlainn. After thus
@@ -3455,7 +3455,7 @@ consisting of his own troops, those of Ossory, his South Connaught
 vassals and the Norsemen of Munster. The king of Dublin also sent a
 small force to his assistance. Maelsechlainn, taken by surprise and
 feeling himself unequal to the contest, endeavoured to gain time. An
-armistice was concluded, during which he was to decide whether he would
+[[Armistice|armistice]] was concluded, during which he was to decide whether he would
 give Brian hostages (i.e. abdicate) or not. He applied to the northern
 Hy Neill to come to his assistance, and even offered to abdicate in
 favour of the chief of the Cinel Eogain, but the latter refused unless
@@ -3519,7 +3519,7 @@ the O'Connors of Connaught.
 _From the Battle of Clontarf to the Anglo-Norman Invasion._--The death
 of Maelsechlainn in 1022 afforded an opportunity for an able and
 ambitious man to subdue Ireland, establish a strong central government,
-break up the tribal system and further the gradual fusion of factions
+break up the tribal system and further the gradual [[Fusion|fusion]] of factions
 into a homogeneous nation. Such a man did not arise; those who
 afterwards claimed to be _ardri_ lacked the qualities of founders of
 strong dynasties, and are termed by the annalists "kings with
@@ -3594,7 +3594,7 @@ consecrated by the English primate. As Lanfranc and Anselm were both
 anxious to extend their jurisdiction over the whole of Ireland, the
 submission of Dublin opened the way for Norman and Roman influences. At
 the beginning of the 12th century Gilbert, bishop of Limerick and papal
-legate, succeeded in winning over Celsus, bishop of Armagh (d. 1129), to
+legate, succeeded in winning over [[Celsus]], bishop of Armagh (d. 1129), to
 the reform movement. Celsus belonged to a family which had held the see
 for 200 years; he was grandson of a previous primate and is said to have
 been himself a married man. Yet he became, in the skilful hands of
@@ -3619,18 +3619,18 @@ in Ireland encompassing broad expanses of upland pastures and marshy
 meadows. It is traditionally stated that fences first came into general
 use in the 7th century. There were no cities or large towns before the
 arrival of the Norsemen; no stone bridges spanned the rivers; stepping
-stones or hurdle bridges at the fords or shallows offered the only mode
+stones or [[Hurdle|hurdle]] bridges at the fords or shallows offered the only mode
 of crossing the broadest streams, and connecting the unpaved roads or
 bridle paths which crossed the country over hill and dale from the
-principal _duns_. The forests abounded in game, the red deer and wild
+principal _duns_. The forests abounded in [[Game|game]], the red deer and wild
 boar were common, whilst wolves ravaged the flocks. Scattered over the
-country were numerous small hamlets, composed mainly of wicker cabins,
+country were numerous small [[Hamlet|hamlets]], composed mainly of wicker cabins,
 among which were some which might be called houses; other hamlets were
 composed of huts of the rudest kind. Here and there were large villages
 that had grown up about groups of houses surrounded by an earthen mound
 or rampart; similar groups enclosed in this manner were also to be found
 without any annexed hamlet. Sometimes there were two or three
-circumvallations or even more, and where water was plentiful the ditch
+[[Circumvallation|circumvallations]] or even more, and where water was plentiful the ditch
 between was flooded. The simple rampart enclosed a space called
 _lis_[11] which contained the agricultural buildings and the groups of
 houses of the owners. The enclosed houses belonged to the free men
@@ -3669,14 +3669,14 @@ kind of bed-straw?). Portions of the pasture lands were reserved as
 meadows; the tilled land was manured. There are native names for the
 plough, so it may be assumed that some form of that implement, worked by
 oxen, yoked together with a simple straight yoke, was in use in early
-times. Wheeled carts were also known; the wheels were often probably
+times. Wheeled [[Cart|carts]] were also known; the wheels were often probably
 only solid disks, though spoked wheels were used for chariots. Droves of
 swine under the charge of swineherds wandered through the forests; some
 belonged to the _ri_, others to lords (_flaith_) and others again to
 village communities. The house-fed pig was then as now an important
 object of domestic economy, and its flesh was much prized. Indeed, fresh
 pork was one of the inducements held out to visitors to the Irish
-Elysium. Horned cattle constituted the chief wealth of the country, and
+[[Elysium]]. Horned cattle constituted the chief wealth of the country, and
 were the standard for estimating the worth of anything, for the Irish
 had no coined money and carried on all commerce by barter. The unit of
 value was called a _set_, a word denoting a jewel or precious object of
@@ -3717,11 +3717,11 @@ their ends fixed firmly in the ground. The spaces between were closed in
 with rods (usually hazel) firmly interwoven. The poles were peeled and
 polished smooth. The whole surface of the wicker-work was plastered on
 the outside and made brilliantly white with lime, or occasionally
-striped in various colours, leaving the white poles exposed to view.
+striped in various [[Colours|colours]], leaving the white poles exposed to view.
 There was no chimney; the fire was made in the centre of the house and
 the smoke escaped through a hole in the roof, or through the door as in
 Hebridean houses of the present day. Near the fire, fixed in a kind of
-holder, was a candle of tallow or raw beeswax. Around the wall in the
+holder, was a [[Candle|candle]] of tallow or raw beeswax. Around the wall in the
 houses of the wealthy were arranged the bedsteads, or rather
 compartments, with testers and fronts, sometimes made of carved yew. At
 the foot of each compartment, and projecting into the main room, there
@@ -3734,7 +3734,7 @@ was entitled to receive from the distributor, were regulated according
 to a rigid rule of precedence. Each person who had a seat in the king's
 house had his shield suspended over him. Every king had hostages for the
 fealty of his vassals; they sat unarmed in the hall, and those who had
-become forfeited by a breach of treaty or allegiance were placed along
+become forfeited by a [[Breach|breach]] of treaty or allegiance were placed along
 the wall in fetters. There were places in the king's hall for the judge,
 the poet, the harper, the various craftsmen, the juggler and the fool.
 The king had his bodyguard of four men always around him; these were
@@ -3747,7 +3747,7 @@ the ground in the kitchen or in cabins outside the fort.
 The children of the upper classes in Ireland, both boys and girls, were
 not reared at home but were sent elsewhere to be fostered. It was usual
 for a chief to send his child to one of his own sub-chiefs, but the
-parents often chose a chief of their own rank. For instance, the _ollam
+parents often [[Chose|chose]] a chief of their own rank. For instance, the _ollam
 fili_, or chief poet, who ranked in some respects with a tribe-king,
 sent his sons to be fostered by the king of his own territory. Fosterage
 might be undertaken out of affection or for payment. In the latter case
@@ -3779,7 +3779,7 @@ adulterine bastardy was no bar to a man becoming chief of his tribe, as
 in the case of Hugh O'Neill, earl of Tyrone. (See O'NEILL.)
 
 The food of the Irish was very simple, consisting in the main of oaten
-cakes, cheese, curds, milk, butter, and the flesh of domestic animals
+cakes, [[Cheese|cheese]], curds, milk, [[Butter|butter]], and the flesh of domestic animals
 both fresh and salted. The better classes were acquainted with wheaten
 bread also. The food of the inhabitants of the Land of Promise consisted
 of fresh pork, new milk and ale. Fish, especially salmon, and game
@@ -3793,9 +3793,9 @@ often richly embroidered. Over this was a tightly fitting tunic (_inar_,
 _lend_) reaching below the hips with a girdle at the waist. In the case
 of women the _inar_ fell to the feet. Over the left shoulder and
 fastened with a brooch hung the loose cloak (_brat_), to which the
-Scottish plaid corresponds. The kilt seems to have been commonly worn,
+Scottish plaid corresponds. The [[Kilt|kilt]] seems to have been commonly worn,
 especially by soldiers, whose legs were usually bare, but we also hear
-of tight-fitting trousers extending below the ankles. The feet were
+of tight-fitting trousers extending below the [[Ankle|ankles]]. The feet were
 either entirely naked or encased in shoes of raw hide fastened with
 thongs. Sandals and shoes of bronze are mentioned in Irish literature,
 and quite a number are to be seen in museums. A loose flowing garment,
@@ -3811,7 +3811,7 @@ braided their hair into tresses, which they confined with a pin. The
 beard was also worn long. Like all ancient and semi-barbarous people,
 the Irish were fond of ornaments. Indeed the profusion of articles of
 gold which have been found is remarkable; in the Dublin Museum may be
-seen bracelets, armlets, finger-rings, torques, crescents, gorgets,
+seen bracelets, armlets, finger-rings, torques, [[Crescent|crescents]], [[Gorget|gorgets]],
 necklets, fibulae and diadems, all of solid gold and most exquisite
 workmanship.
 
@@ -3854,7 +3854,7 @@ the law for the acts of all the servile classes on his estates, both
 new-comers and _senchleithe_, i.e. descendants of _fuidirs_, slaves,
 &c., whose families had lived on the estate during the time of three
 lords. He paid their blood-fines and received compensation for their
-slaughter, maiming or plunder. The _fuidirs_ were the chief source of a
+slaughter, [[Maiming|maiming]] or plunder. The _fuidirs_ were the chief source of a
 lord's wealth, and he was consequently always anxious to increase them.
 
 The freemen were divided into freemen pure and simple, freemen
@@ -3967,7 +3967,7 @@ chief their skill and the product of their labour as customary tribute
   vols., London, 1873); G. T. Stokes, _Ireland and the Celtic Church_,
   revised by H. J. Lawlor (London^6, 1907); J. Healy, _Ireland's Ancient
   Schools and Scholars_ (Dublin^3, 1897); H. Zimmer, article "Keltische
-  Kirche" in Hauck's _Realencyklopadie fur protestantische Theologie und
+  Kirche" in Hauck's _Realencyklopadie [[Fur|fur]] protestantische Theologie und
   Kirche_ (trans. A. Meyer, London, 1902), cf. H. Williams, "H. Zimmer
   on the History of the Celtic Church," _Zeitschr. f. celt. Phil._ iv.
   527-574; H. Zimmer, "Die Bedeutung des irischen Elements in der
@@ -3976,30 +3976,30 @@ chief their skill and the product of their labour as customary tribute
   1891); J. H. Todd, _St Patrick, the Apostle of Ireland_ (Dublin,
   1864); J. B. Bury, _Life of St Patrick_ (London, 1905); W. Reeves,
   _Adamnan's Life of Columba_ (Dublin, 1857; also ed. with introd. by J.
-  T. Fowler, Oxford, 1894); M. Roger, _L'Enseignement des lettres
+  T. [[Fowler]], Oxford, 1894); M. Roger, _L'Enseignement des lettres
   classiques d'Ausone a Alcuin_ (Paris, 1905); J. H. Todd, _The War
   of the Gaedhil with the Gall_ (London, 1867); L. J. Vogt, _Dublin som
-  Norsk By_ (Christiania, 1897); J. Steenstrup, _Normannerne_, vols.
-  ii., iii. (Copenhagen, 1878-1882); W. G. Collingwood, _Scandinavian
+  Norsk By_ ([[Christiania]], 1897); J. Steenstrup, _Normannerne_, vols.
+  ii., iii. ([[Copenhagen]], 1878-1882); W. G. Collingwood, _Scandinavian
   Britain_ (London, 1908).     (E. C. Q.)
 
 
 _History from the Anglo-Norman Invasion._
 
-  "Bull" of Adrian IV.
+  "[[Bull]]" of Adrian IV.
 
 According to the _Metalogus_ of John of Salisbury, who in 1155 went on a
 mission from King Henry II. to Pope Adrian IV., the only Englishman who
 has ever occupied the papal chair, the pope in response to the envoy's
 prayers granted to the king of the English the hereditary lordship of
-Ireland, sending a letter, with a ring as the symbol of investiture.
+Ireland, sending a letter, with a ring as the symbol of [[Investiture|investiture]].
 Giraldus Cambrensis, in his _Expugnatio Hibernica_, gives what purports
 to be the text of this letter, known as "the Bull Laudabiliter," and
 adds further a _Privilegium_ of Pope Alexander III. confirming Adrian's
 grant. The _Privilegium_ is undoubtedly spurious, a fact which lends
 weight to the arguments of those who from the 19th century onwards have
 attacked the genuineness of the "Bull." This latter, indeed, appears to
-have been concocted by Gerald, an ardent champion of the English cause
+have been concocted by Gerald, an ardent [[Champion|champion]] of the English cause
 in Ireland, from genuine letters of Pope Alexander III., still preserved
 in the _Black Book of the Exchequer_, which do no more than commend King
 Henry for reducing the Irish to order and extirpating _tantae
@@ -4024,7 +4024,7 @@ admitted no estates of inheritance, and Eva had no more right to the
 reversion of Leinster than she had to that of Japan. It is likely that
 Strongbow had no conception of this, and that his first collision with
 the tribal system was an unpleasant surprise. Passing through Wales,
-Dermod agreed with Robert Fitzstephen and Maurice Fitzgerald to invade
+Dermod agreed with Robert Fitzstephen and [[Maurice]] Fitzgerald to invade
 Ireland in the ensuing spring.
 
 
@@ -4038,9 +4038,9 @@ Wexford, which had never belonged to him, to Robert and Maurice and
 their heirs for ever; and here begins the conflict between feudal and
 tribal law which was destined to deluge Ireland in blood. Maurice
 Fitzgerald soon followed with a fresh detachment. About a year after the
-first landing Raymond Le Gros was sent over by Earl Richard with his
+first landing Raymond Le [[Gros]] was sent over by Earl Richard with his
 advanced guard, and Strongbow himself landed near Waterford on the 23rd
-of August 1170 with 200 knights and about 1000 other troops.
+of August 1170 with 200 [[Knight|knights]] and about 1000 other troops.
 
 The natives did not understand that this invasion was quite different
 from those of the Danes. They made alliances with the strangers to aid
@@ -4077,7 +4077,7 @@ chronicler, says he had 4000 men, of whom 400 were knights; the _Annals
 of Lough Ce_ that he had 240 ships. The Irish writers tell little about
 these great events, except that the king of the Saxons took the hostages
 of Munster at Waterford, and of Leinster, Ulster, Thomond and Meath at
-Dublin. They did not take in the grave significance of doing homage to a
+Dublin. They did not take in the grave significance of doing [[Homage|homage]] to a
 Norman king, and becoming his "man."
 
 
@@ -4085,7 +4085,7 @@ Norman king, and becoming his "man."
 
 Henry's farthest point westward was Cashel, where he received the homage
 of Donald O'Brien, king of Thomond, but he does not appear to have been
-present at the famous synod. Christian O'Conarchy, bishop of Lismore and
+present at the famous synod. Christian O'Conarchy, bishop of [[Lismore]] and
 papal legate, presided, and the archbishops of Dublin, Cashel and Tuam
 attended with their suffragans, as did many abbots and other
 dignitaries. The primate of Armagh, the saintly Gelasius, was absent,
@@ -4098,7 +4098,7 @@ condemn than marriages within the prohibited degrees and trifling
 irregularities about baptism. Most of the details rest on the authority
 of Giraldus only, but the main facts are clear. The synod is not
 mentioned by the Irish annalists, nor by Regan, but it is by Hoveden and
-Ralph de Diceto. The latter says it was held at Lismore, an error
+Ralph de [[Diceto]]. The latter says it was held at Lismore, an error
 arising from the president having been bishop of Lismore. Tradition says
 the members met in Cormac's chapel.
 
@@ -4122,9 +4122,9 @@ Prince John landed at Waterford in 1185, and the neighbouring chiefs
 hastened to pay their respects to the king's son. Prince and followers
 alike soon earned hatred, the former showing the incurable vices of his
 character, and pulling the beards of the chieftains. After eight
-disgraceful months he left the government to John de Courci, but
+disgraceful months he left the government to John de [[Courci]], but
 retained the title "Dominus Hiberniae." It was even intended to crown
-him; and Urban III. sent a licence and a crown of peacock's feathers,
+him; and Urban III. sent a licence and a crown of peacock's [[Feather|feathers]],
 which was never placed on his head. Had Richard I. had children Ireland
 might have become a separate kingdom.
 
@@ -4204,7 +4204,7 @@ treated in the country whence the travellers came. Yet some enlightened
 men strove to fuse the two nations together, and the native Irish, or
 that section which bordered on the settlements and suffered great
 oppression, offered 8000 marks to Edward I. for the privilege of living
-under English law. The justiciary supported their petition, but the
+under [[English Law|English law]]. The justiciary supported their petition, but the
 prelates and nobles refused to consent.
 
 
@@ -4268,7 +4268,7 @@ others; in this case signal vengeance was taken, but the feudal dominion
 never recovered the blow, and on the north-east coast the English laws
 and language were soon confined to Drogheda and Dundalk. The earl left
 one daughter, Elizabeth, who was of course a royal ward. She married
-Lionel, duke of Clarence, and from her springs the royal line of
+Lionel, duke of [[Clarence]], and from her springs the royal line of
 England from Edward IV., as well as James V. of Scotland and his
 descendants.
 
@@ -4362,7 +4362,7 @@ the white staff as hereditary stewards, but the palatinate jurisdiction
 over Wexford was taken away by Henry VIII. The Ulster annalists give a
 very different estimate of the great Talbot from that of Shakespeare: "A
 son of curses for his venom and a devil for his evils; and the learned
-say of him that there came not from the time of Herod, by whom Christ
+say of him that there came not from the time of [[Herod]], by whom Christ
 was crucified, any one so wicked in evil deeds" (O'Donovan's _Four
 Masters_).
 
@@ -4372,20 +4372,20 @@ Masters_).
 In 1449 Richard, duke of York, right heir by blood to the throne of
 Edward III., was forced to yield the regency of France to his rival
 Somerset, and to accept the Irish viceroyalty. He landed at Howth with
-his wife Cicely Neville, and Margaret of Anjou hoped thus to get rid of
+his wife [[Cicely]] Neville, and Margaret of Anjou hoped thus to get rid of
 one who was too great for a subject. The Irish government was given to
 him for ten years on unusually liberal terms. He ingratiated himself
-with both races, taking care to avoid identification with any particular
+with both races, taking care to avoid [[Identification|identification]] with any particular
 family. At the baptism of his son George--"false, fleeting, perjured
 Clarence"--who was born in Dublin Castle, Desmond and Ormonde stood
 sponsors together. In legislation Richard fared no better than others.
-The rebellion of Jack Cade, claiming to be a Mortimer and cousin to the
+The rebellion of Jack [[Cade]], claiming to be a Mortimer and cousin to the
 duke of York, took place at this time. This adventurer, at once
 ludicrous and formidable, was a native of Ireland, and was thought to be
 put forward by Richard to test the popularity of the Yorkist cause.
 Returning suddenly to England in 1450, Richard left the government to
 James, earl of Ormonde and Wiltshire, who later married Eleanor,
-daughter of Edmund Beaufort, duke of Somerset, and was deeply engaged on
+daughter of Edmund [[Beaufort]], duke of Somerset, and was deeply engaged on
 the Lancastrian side. This earl began the deadly feud with the house of
 Kildare, which lasted for generations. After Blore Heath Richard was
 attainted by the Lancastrian parliament, and returned to Dublin, where
@@ -4424,10 +4424,10 @@ imitation was easy.
 
 During Richard III.'s short reign the earl of Kildare, head of the Irish
 Yorkists, was the strongest man in Ireland. He espoused the cause of
-Lambert Simnel (1487), whom the Irish in general seem always to have
+[[Lambert]] Simnel (1487), whom the Irish in general seem always to have
 thought a true Plantagenet. The Italian primate, Octavian de Palatio,
 knew better, and incurred the wrath of Kildare by refusing to officiate
-at the impostor's coronation. The local magnates and several
+at the impostor's [[Coronation|coronation]]. The local magnates and several
 distinguished visitors attended, and Lambert was shown to the people
 borne aloft on "great D'Arcy of Platten's" shoulders. His enterprise
 ended in the battle of Stoke, near Newark, where the flower of the
@@ -4443,7 +4443,7 @@ who fitted out a fleet at their own charge. The king conferred honour
 and rewards on the loyal city, to which he gave the proud title of _urbs
 intacta_. Other events of this reign were the parliament of Drogheda,
 held by Sir Edward Poynings, which gave the control of Irish legislation
-to the English council ("Poynings's Act"--the great bone of contention
+to the English council ("Poynings's Act"--the great [[Bone|bone]] of contention
 in the later days of Flood and Grattan), and the battle of Knockdoe, in
 which the earl of Kildare used the viceregal authority to avenge a
 private quarrel.
@@ -4466,7 +4466,7 @@ Carews and others had disappeared or were merged in the Celtic mass.
 Anglo-Norman nobles became chiefs of pseudo-tribes, which acknowledged
 only the Brehon law, and paid dues and services in kind. These
 pseudo-tribes were often called "nations," and a vast number of
-exactions were practised by the chiefs. "Coyne and livery"--the right of
+exactions were practised by the chiefs. "Coyne and [[Livery|livery]]"--the right of
 free-quarters for man and beast--arose among the Anglo-Normans, and
 became more oppressive than any native custom. When Henry took to
 business, he laid the foundation of reconquest. The house of Kildare,
@@ -4492,7 +4492,7 @@ Butler and Geraldine, O'Neill and O'Donnell, continued to spill each
 other's blood, but the feudal and tribal systems were alike doomed. In
 the names of these Tudor deputies and other officers we see the origin
 of many great Irish families--Skeffington, Brabazon, St Leger,
-Fitzwilliam, Wingfield, Bellingham, Carew, Bingham, Loftus and others.
+[[Fitzwilliam]], Wingfield, Bellingham, Carew, Bingham, Loftus and others.
 Nor were the Celts overlooked. O'Neill and O'Brien went to London to be
 invested as earls of Tyrone and Thomond respectively. O'Donnell, whose
 descendants became earls of Tyrconnel, went to court and was well
@@ -4507,8 +4507,8 @@ grievances, and thus the old order slowly gave place to the new.
 The moment when Protestantism and Ultramontanism are about to begin
 their still unfinished struggle is a fit time to notice the chief points
 in medieval Irish church history. Less than two years before Strongbow's
-arrival Pope Eugenius had established an ecclesiastical constitution in
-Ireland depending on Rome, but the annexation was very imperfectly
+arrival Pope [[Eugenius]] had established an ecclesiastical constitution in
+Ireland depending on Rome, but the [[Annexation|annexation]] was very imperfectly
 carried out, and the hope of fully asserting the Petrine claims was a
 main cause of Adrian's gift to Henry II. Hitherto the Scandinavian
 section of the church in Ireland had been most decidedly inclined to
@@ -4544,7 +4544,7 @@ proprietors. Attempts to found a university at Dublin (1311) or Drogheda
 (1465) failed for want of funds. The work of education was partially
 done by the great abbeys, boys of good family being brought up by the
 Cistercians of Dublin and Jerpoint, and by the Augustinians of Dublin,
-Kells and Connel, and girls by the canonesses of Gracedieu. A strong
+Kells and Connel, and girls by the [[Canoness|canonesses]] of Gracedieu. A strong
 effort was made to save these six houses, but Henry VIII. would not hear
 of it, and there was no Irish Wolsey partially to supply the king's
 omissions.
@@ -4561,7 +4561,7 @@ is," says the document, "no archbishop, ne bishop, abbot, ne prior,
 parson, ne vicar, ne any other person of the church, high or low, great
 or small, English or Irish, that useth to preach the word of God, saving
 the poor friars beggars ... the church of this land use not to learn any
-other science, but the law of canon, for covetise of lucre transitory."
+other science, but the law of canon, for covetise of [[Lucre|lucre]] transitory."
 Where his hand reached Henry had little difficulty in suppressing the
 monasteries or taking their lands, which Irish chiefs swallowed as
 greedily as men of English blood. But the friars, though pretty
@@ -4578,7 +4578,7 @@ conquest and intrusion. The _Four Masters_ thus describes the
 Reformation: "A heresy and new error arising in England, through pride,
 vain glory, avarice, and lust, and through many strange sciences, so
 that the men of England went into opposition to the pope and to Rome."
-The destruction of relics and images and the establishment of a
+The destruction of relics and [[Image|images]] and the establishment of a
 schismatic hierarchy is thus recorded: "Though great was the persecution
 of the Roman emperors against the church, scarcely had there ever come
 so great a persecution from Rome as this."
@@ -4634,7 +4634,7 @@ indeed doubt whether it was spoken in the diocese of Armagh. John Bale,
 a man of great learning and ability, became bishop of Ossory. There is
 no reason to doubt his sincerity, but he was coarse and
 intemperate--Froude roundly calls him a foul-mouthed ruffian--without
-the wisdom of the serpent or the harmlessness of the dove. His choice
+the wisdom of the serpent or the harmlessness of the [[Dove|dove]]. His choice
 rhetoric stigmatized the dean of St Patrick's as ass-headed, a blockhead
 who cared only for his kitchen and his belly.
 
@@ -4691,11 +4691,11 @@ in the Pale and in the large towns.
 
 Ulster demanded the immediate attention of Elizabeth. Her father had
 conferred the earldom of Tyrone on Conn Bacach O'Neill, with remainder
-to his supposed son Matthew, created baron of Dungannon, the offspring
+to his supposed son [[Matthew]], created baron of Dungannon, the offspring
 of a smith's wife at Dundalk, who in her husband's lifetime brought the
 child to Conn as his own. When the chief's legitimate son Shane grew up
 he declined to be bound by this arrangement, which the king may have
-made in partial ignorance of the facts. "Being a gentleman," he said,
+made in partial [[Ignorance|ignorance]] of the facts. "Being a [[Gentleman|gentleman]]," he said,
 "my father never refusid no child that any woman namyd to be his." When
 Tyrone died, Matthew's son, Brian O'Neill, baron of Dungannon, claimed
 his earldom under the patent. Shane being chosen O'Neill by his tribe
@@ -4708,14 +4708,14 @@ which Sussex had no advantage over him. The lord-lieutenant twice tried
 to have Shane murdered; once he proposed to break his safe-conduct; and
 he held out hopes of his sister's hand as a snare. Shane was induced to
 visit London, where the government detained him for some time. On his
-return to Ireland, Sussex was outmatched both in war and diplomacy; the
+return to Ireland, Sussex was outmatched both in war and [[Diplomacy|diplomacy]]; the
 loyal chiefs were crushed one by one; and the English suffered checks of
 which the moral effect was ruinous. Shane diplomatically acknowledged
 Elizabeth as his sovereign, and sometimes played the part of a loyal
 subject, wreaking his private vengeance under colour of expelling the
 Scots from Ulster. At last, in 1566, the queen placed the sword of state
 in Sidney's strong grasp. Shane was driven helplessly from point to
-point, and perished miserably at the hands of the MacDonnells, whom he
+point, and perished miserably at the hands of the [[Macdonnell|MacDonnells]], whom he
 had so often oppressed and insulted.
 
 
@@ -4856,7 +4856,7 @@ terrible than the first Desmond war because it was much shorter. In
 Ulster Mountjoy was assisted by Sir Henry Docwra, who founded the second
 settlement at Derry, the first under Edward Randolph having been
 abandoned. Hugh O'Donnell sought help in Spain, where he died. Tyrone
-submitted at last, craving pardon on his knees, renouncing his Celtic
+submitted at last, craving pardon on his [[Knee|knees]], renouncing his Celtic
 chiefry, and abjuring all foreign powers; but still retaining his
 earldom, and power almost too great for a subject. Scarcely was the
 compact signed when he heard of the great queen's death. He burst into
@@ -4930,7 +4930,7 @@ government. Tyrone, Donegal, Armagh, Cavan, Fermanagh and Derry were
 parcelled out among English and Scottish colonists, portions being
 reserved to the natives. The site of Derry was granted to the citizens
 of London, who fortified and armed it, and Londonderry became the chief
-bulwark of the colonists in two great wars. Whatever may have been its
+[[Bulwark|bulwark]] of the colonists in two great wars. Whatever may have been its
 morality, in a political point of view the plantation of Ulster was
 successful. The northern province, which so severely taxed the energies
 of Elizabeth, has since been the most prosperous and loyal part of
@@ -4967,7 +4967,7 @@ parliament in the same year were addressed in addition to the counties
 of Waterford, Cork and Limerick; the liberties and crosses of Ulster,
 Wexford, Tipperary and Kerry; the cities of Waterford, Cork and
 Limerick; and the towns of Youghal, Kinsale, Ross, Wexford and Kilkenny.
-The counties of Clare and Longford, and the towns of Galway and Athenry,
+The counties of Clare and Longford, and the towns of Galway and [[Athenry]],
 were afterwards added, and the number of popular representatives does
 not appear to have much exceeded sixty during the later middle ages. In
 the House of Lords the temporal peers were largely outnumbered by the
@@ -4992,7 +4992,7 @@ dissent. He thought he could "mak what liked him law and gospel." A
 proclamation for banishing Romish priests issued in 1605, and was
 followed by an active and general persecution, which was so far from
 succeeding that they continued to flock in from abroad, the lord-deputy
-Arthur Chichester admitting that every house and hamlet was to them a
+Arthur [[Chichester]] admitting that every house and hamlet was to them a
 sanctuary. The most severe English statutes against the Roman Catholic
 laity had never been re-enacted in Ireland, and, in the absence of law,
 illegal means were taken to enforce uniformity. Privy seals addressed to
@@ -5066,7 +5066,7 @@ the Protestants; the old Anglo-Irish Catholics cared much, but the
 nearer Charles approached them the more completely he alienated the
 Protestants. In 1645 Rinuccini reached Ireland as papal legate. He could
 never co-operate with the Roman Catholic confederacy at Kilkenny, which
-was under old English influence, and by throwing in his lot with the
+was under old English influence, and by throwing in his [[Lot|lot]] with the
 Celts only widened the gulf between the two sections. The state of
 parties at this period in Ireland has been graphically described by
 Carlyle. "There are," he says, "Catholics of the Pale, demanding freedom
@@ -5075,9 +5075,9 @@ Catholics, under pope's nuncios, under Abba O'Teague of the
 excommunications, and Owen Roe O'Neill, demanding not religious freedom
 only, but what we now call 'repeal of the union,' and unable to agree
 with Catholics of the English Pale. Then there are Ormonde Royalists, of
-the Episcopalian and mixed creeds, strong for king without covenant;
+the Episcopalian and mixed [[Creeds|creeds]], strong for king without [[Covenant|covenant]];
 Ulster and other Presbyterians strong for king _and_ covenant; lastly,
-Michael Jones and the Commonwealth of England, who want neither king nor
+Michael Jones and the [[Commonwealth]] of England, who want neither king nor
 covenant."
 
 In all their negotiations with Ormonde and Glamorgan, Henrietta Maria
@@ -5086,7 +5086,7 @@ arrangement which would have destroyed the royal supremacy and
 established Romanism in Ireland, leaving to the Anglicans bare
 toleration, and to the Presbyterians not even that. Charles behaved with
 his usual weakness. Ormonde was forced to surrender Dublin to the
-Parliamentarians (July 1647), and the inextricable knot awaited
+Parliamentarians (July 1647), and the inextricable [[Knot|knot]] awaited
 Cromwell's sword.
 
 
@@ -5127,7 +5127,7 @@ given in derision to a great party, and were hunted down with as little
 compunction as the wolves to which they were compared. Measures of great
 severity were taken against Roman Catholic priests; but it is said that
 Cromwell had great numbers in his pay, and that they kept him well
-informed. All classes of Protestants were tolerated, and Jeremy Taylor
+informed. All classes of Protestants were tolerated, and [[Jeremy]] Taylor
 preached unmolested. Commercial equality being given to Ireland, the
 woollen trade at once revived, and a shipping interest sprang up. A
 legislative union was also effected, and Irish members attended at
@@ -5137,7 +5137,7 @@ Westminster.
   Charles II. (1660-1685).
 
 Charles II. was bound in honour to do something for such Irish Catholics
-as were innocent of the massacres of 1641, and the claims were not
+as were innocent of the [[Massacre|massacres]] of 1641, and the claims were not
 scrutinized too severely. It was found impossible to displace the
 Cromwellians, but they were shorn of about one-third of their lands.
 When the Caroline settlement was complete it was found that the great
@@ -5226,7 +5226,7 @@ own, and he deserted them in their utmost need. They repaid him with the
 opprobrious nickname of "Sheemas-a-Cacagh," or dirty James.
 
 Irish rhetoric commonly styles Limerick "the city of the violated
-treaty." The articles of capitulation (Oct. 3, 1691) may be read in
+treaty." The articles of [[Capitulation|capitulation]] (Oct. 3, 1691) may be read in
 Thomas Leland's _History of Ireland_ (1773) or in F. P. Plowden's
 _History of Ireland_ (1809); from the first their interpretation was
 disputed. Hopes of religious liberty were held out, but were not
@@ -5310,7 +5310,7 @@ can see now that if the remaining Roman Catholic landlords had been
 encouraged they would have done much to reconcile the masses to the
 settlement. Individuals are seldom as bad as corporations, and the very
 men who made the laws against priests practically shielded them. The
-penal laws put a premium on hypocrisy, and many conformed only to
+penal laws put a premium on [[Hypocrisy|hypocrisy]], and many conformed only to
 preserve their property or to enable them to take office. Proselytizing
 schools, though supported by public grants, entirely failed.
 
@@ -5325,7 +5325,7 @@ Forbidden to export it, or to work it up profitably at home, they took
 to smuggling, for which the indented coast gave great facilities. The
 enormous profits of the contraband trade with France enabled Ireland to
 purchase English goods to an extent greater than her whole lawful
-traffic. The moral effect was disastrous. The religious penal code it
+traffic. The moral effect was disastrous. The religious penal [[Code|code]] it
 was thought meritorious to evade; the commercial penal code was
 ostentatiously defied; and both tended to make Ireland the least
 law-abiding country in Europe. The account of the smugglers is the most
@@ -5391,7 +5391,7 @@ plots with perfect recklessness. During the famine which began in the
 winter of 1739 one-fifth of the population is supposed to have perished;
 yet it is hardly noticed in literature, and seems not to have touched
 the conscience of that English public which in 1755 subscribed L100,000
-for the sufferers by the Lisbon earthquake. As might be expected where
+for the sufferers by the [[Lisbon]] earthquake. As might be expected where
 men were allowed to smuggle and forbidden to work, redress was sought in
 illegal combinations and secret societies. The dreaded name of Whiteboy
 was first heard in 1761; and agrarian crime has never since been long
@@ -5427,17 +5427,17 @@ from provincialism. It would be hard to name four other men who, within
 the same period, used Shakespeare's language with equal grace and force.
 They were all educated at Trinity College, Dublin. The Sheridans were
 men of Irish race, but with the religion they adopted the literary tone
-of the dominant caste, which was small and exclusive, with the virtues
+of the dominant [[Caste|caste]], which was small and exclusive, with the virtues
 and the vices of an aristocracy. Systematic infringement of English
 copyright was discreditable in itself, but sure evidence of an appetite
 for reading. "The bookseller's property," says Gibbon of his first
 volume, "was twice invaded by the pirates of Dublin." The oratory of the
 day was of a high order, and incursions into the wide field of pamphlet
-literature often repay the student. Handel was appreciated in Dublin at
+literature often repay the student. [[Handel]] was appreciated in Dublin at
 a time when it was still the fashion to decry him in London. The public
 buildings of the Irish capital have great architectural merit, and
-private houses still preserve much evidence of a refined taste. Angelica
-Kauffmann worked long in Ireland; James Barry and Sir Martin Archer Shee
+private houses still preserve much evidence of a refined taste. [[Angelica]]
+[[Kauffmann]] worked long in Ireland; James [[Barry]] and Sir Martin Archer Shee
 were of Irish birth; and on the whole, considering the small number of
 educated inhabitants, it must be admitted that the Ireland of Flood and
 Grattan was intellectually fertile.
@@ -5452,7 +5452,7 @@ craving for independence. Poynings's law was repealed, and in 1782, in
 Grattan's opinion, Ireland was at last a nation. The ensuing period of
 eighteen years is the best known in Irish history. The quarrel and
 reconciliation of Flood and Grattan (q.v.), the kindly patriotism of
-Lord Charlemont, the eloquence, the devotion, the corruption, are
+Lord [[Charlemont]], the eloquence, the devotion, the corruption, are
 household words. (Details will be found in the biographical articles on
 these and other men of the period.) In the parliament of 1784, out of
 300 members 82 formed the regular opposition, of whom 30 were the
@@ -5491,7 +5491,7 @@ potatoes enough to feed forty, and they could neither be destroyed nor
 carried away easily. When Petty wrote, early in Charles II.'s reign,
 this demoralizing esculent was already the national food. Potatoes
 cannot be kept very long, but there was no attempt to keep them at all;
-they were left in the ground, and dug as required. A frost which
+they were left in the ground, and dug as required. A [[Frost|frost]] which
 penetrated deep caused the famine of 1739. Even with the modern system
 of storing in pits the potato does not last through the summer, and the
 "meal months"--June, July and August--always brought great hardship. The
@@ -5504,7 +5504,7 @@ They married and were given in marriage. Wise men foresaw the deluge,
 but people who were already half-starved every summer did not think
 their case could well be worse. In 1845 the population had swelled to
 8,295,061, the greater part of whom depended on the potato only. There
-was no margin, and when the "precarious exotic" failed an awful famine
+was no margin, and when the "precarious [[Exotic|exotic]]" failed an awful famine
 was the result.
 
 Great public and private efforts were made to meet the case, and relief
@@ -5518,8 +5518,8 @@ undertaken. More than 3,000,000 rations, generally cooked, were at one
 time distributed, but no exertions could altogether avert death in a
 country where the usual machinery for carrying, distributing and
 preparing food was almost entirely wanting. From 200,000 to 300,000
-perished of starvation or of fever caused by insufficient food. An
-exodus followed which, necessary as it was, caused dreadful hardship,
+perished of starvation or of [[Fever|fever]] caused by insufficient food. An
+[[Exodus|exodus]] followed which, necessary as it was, caused dreadful hardship,
 and among the Roman Catholic Irish in America Fenianism took its rise.
 One good result of the famine was thoroughly to awaken Englishmen to
 their duty towards Ireland. Since then, purse-strings have been even too
@@ -5564,7 +5564,7 @@ protest. Then came the struggle for emancipation. It was proposed to
 couple the boon with a veto on the appointment of Roman Catholic
 bishops. It was the ghost of the old question of investitures. The
 remnant of the Roman Catholic aristocracy would have granted it; even
-Pius VII. was not invincibly opposed to it; but Daniel O'Connell took
+Pius VII. was not invincibly opposed to it; but [[Daniel]] O'Connell took
 the lead against it. Under his guidance the Catholic association became
 a formidable body. At last the priests gained control of the elections;
 the victor of Waterloo was obliged to confess that the king's government
@@ -5572,17 +5572,17 @@ could no longer be carried on, and Catholic emancipation had to be
 granted in 1829. The tithe war followed, and this most oppressive of all
 taxes was unfortunately commuted (1838) only in deference to clamour and
 violence. The repeal agitation was unsuccessful, but let us not be
-extreme to mark the faults of O'Connell's later years. He doubtless
+extreme to mark the [[Fault|faults]] of O'Connell's later years. He doubtless
 believed in repeal at first; probably he ceased to believe in it, but he
 was already deeply committed, and had abandoned a lucrative profession
-for politics. With some help from Father Mathew he kept the monster
+for politics. With some help from Father [[Mathew]] he kept the monster
 meetings in order, and his constant denunciations of lawless violence
 distinguish him from his imitators. His trial took place in 1844. There
 is a sympathetic sketch of O'Connell's career in Lecky's _Leaders of
 Public Opinion in Ireland_ (1871); Sir Thomas Wyse's _Historical Sketch
 of the late Catholic Association_ (1829) gives the best account of the
 religious struggle, and much may be learned from W. J. Fitzpatrick's
-_Life of Bishop Doyle_ (1880).
+_Life of Bishop [[Doyle]]_ (1880).
 
 The national system of education introduced in 1833 was the real
 recantation of intolerant opinions, but the economic state of Ireland
@@ -5600,7 +5600,7 @@ Already in 1858 the discovery of the Phoenix conspiracy had shown that
 the policy of John Mitchel (1815-1875) and his associates was not
 forgotten. John O'Mahony, one of the men of '48, organized a formidable
 secret society in America, which his historical studies led him to call
-the Fenian brotherhood (see FENIANS).
+the Fenian brotherhood (see [[Fenians|FENIANS]]).
 
 The Fenian movement disclosed much discontent, and was attended by
 criminal outrages in England. The disestablishment of the Irish Church,
@@ -5611,7 +5611,7 @@ agitation. The Home Rule party which demanded the restoration of a
 separate Irish parliament, showed increased activity, and the general
 election of 1874 gave it a strong representation at Westminster, where
 one section of the party developed into the "obstructionists" (see the
-articles on ISAAC BUTT and C. S. PARNELL).
+articles on [[Isaac|ISAAC]] [[Butt|BUTT]] and C. S. PARNELL).
 
 Isaac Butt, who died in May 1879, led a parliamentary party of
 fifty-four, but the Conservatives were strong enough to outvote them and
@@ -5635,7 +5635,7 @@ foreign competition began to tell, and 1879 was the worst of several bad
 seasons. A succession of wet summers told against all farmers, and in
 mountainous districts it was difficult to dry the turf on which the
 people depended for fuel. A famine was feared, and in the west there was
-much real distress. The Land League, of which Michael Davitt (q.v.) was
+much real distress. The Land League, of which Michael [[Davitt]] (q.v.) was
 the founder, originated in Mayo in August, and at a meeting in Dublin in
 October the organization was extended to all Ireland, with Parnell as
 president. The country was thickly covered with branches before the end
@@ -5726,10 +5726,10 @@ suspected of dealing with such a victim of tyranny may be ruined by the
 mere imputation; his customers shun him from fear, and he is obliged to
 get a character from some notorious leaguer. Membership of the National
 League is, in many cases, as necessary a protection as ever was a
-certificate of civism under Robespierre. The real Jacobins are few, but
+certificate of civism under Robespierre. The real [[Jacobins]] are few, but
 the masses groan and submit." Medicine was refused by a shopkeeper even
 for the sick child of a boycotted person. A clergyman was threatened for
-visiting a parishioner who was under the ban of the League. Sometimes no
+visiting a parishioner who was under the [[Ban|ban]] of the League. Sometimes no
 one could be found to dig a grave. The League interfered in every
 relation of life, and the mere fact of not belonging to it was often
 severely punished. "The people," says the report of the Cowper
@@ -5803,7 +5803,7 @@ fair-rent clauses. It was more successful in preventing free sale,
 maintaining the doctrine that, rent or no rent, no evictions were to be
 allowed. At the first sitting of the Land Commission in Dublin the
 crier, perhaps by accident, declared "the court of the Land League to be
-open." Speaking at Leeds on the 7th of October, Gladstone said "the
+open." Speaking at [[Leeds]] on the 7th of October, Gladstone said "the
 resources of civilization were not exhausted," adding that Parnell
 "stood between the living and the dead, not like Aaron to stay the
 plague, but to spread the plague." Two days later Parnell called the
@@ -5891,7 +5891,7 @@ being accused. "Tenants," to quote the Cowper Commission again, "who
 have paid even the judicial rents have been summoned to appear before
 self-constituted tribunals, and if they failed to do so, or on appearing
 failed to satisfy those tribunals, have been fined or boycotted." In
-February 1883 Mr Trevelyan gave an account of his stewardship at Hawick,
+February 1883 Mr Trevelyan gave an account of his stewardship at [[Hawick]],
 and said that all law-abiding Irishmen, whether Conservative or Liberal,
 were on one side, while on the other were those who "planned and
 executed the Galway and Dublin murders, the boycotting and firing into
@@ -5932,7 +5932,7 @@ in aid of wages.
 
 The Explosives Act, strong as it was, did not at once effect its object.
 In February 1884 there was a plot to blow up four London railway
-stations by means of clockwork infernal machines containing dynamite,
+stations by means of clockwork infernal [[Machine|machines]] containing dynamite,
 brought from America. Three Irish-Americans were convicted, of whom one,
 John Daly, who was sentenced to penal servitude for life, lived to be
 mayor of Limerick in 1899. In January 1885 Parnell visited Thurles,
@@ -5948,7 +5948,7 @@ July, and the want of it was at once felt. The number of agrarian
 outrages reported in the first six months of the year was 373; in the
 last six months they rose to 543, and the number of persons boycotted
 was almost trebled. Lord Salisbury came into office, with Lord Carnarvon
-as lord-lieutenant and Sir W. Hart Dyke as chief secretary. The
+as lord-lieutenant and Sir W. [[Hart]] Dyke as chief secretary. The
 lord-lieutenant had an interview with Parnell, of which very conflicting
 accounts were given, but the Irish leader issued a manifesto advising
 his friends to vote against the Liberals as oppressors and coercionists,
@@ -5961,7 +5961,7 @@ an occupying proprietary. Later the same sum was again granted, and
 there was still a good deal unexpended when the larger measure of 1891
 became law. In December 1885, when the general election was over, an
 anonymous scheme of Home Rule appeared in some newspapers, and in spite
-of disclaimers it was at once believed that Gladstone had made up his
+of [[Disclaimer|disclaimers]] it was at once believed that Gladstone had made up his
 mind to surrender. In October 1884, only fourteen months before, he had
 told political friends that he had a sneaking regard for Parnell, and
 that Home Rule might be a matter for serious consideration within ten
@@ -5996,7 +5996,7 @@ Holders of judicial offices and permanent civil servants had the option
 of retiring with pensions, but the constabulary, whom the Home Rulers
 had openly threatened to punish when their time came, were to come after
 an interval under the power of the Irish Parliament. Parnell accepted
-the bill, but without enthusiasm.
+the bill, but without [[Enthusiasm|enthusiasm]].
 
 The Government of Ireland Bill gave no protection to landowners, but as
 the crisis was mainly agrarian, it would have been hardly decent to make
@@ -6010,11 +6010,11 @@ confiscation, and priority was to be decided by lot. The Irish
 landlords, however, showed no disposition to sell their country, and the
 Purchase Bill was quickly dropped, though Gladstone had declared the two
 measures to be inseparable. He reminded the landlords that the "sands
-were running in the hour-glass," but this threat had no effect. The
+were running in the [[Hour-Glass|hour-glass]]," but this threat had no effect. The
 Unionists of Ireland had been taken by surprise, and out of Ulster they
 had no organization capable of opposing the National League and the
 government combined. Individuals went to England and spoke wherever they
-could get a hearing, but it was uphill work. In Ulster the Orange lodges
+could get a hearing, but it was uphill work. In Ulster the Orange [[Lodge|lodges]]
 were always available, and the large Protestant population made itself
 felt. Terrible riots took place at Belfast in June, July and August. In
 October there was an inquiry by a royal commission with Mr Justice Day
@@ -6065,7 +6065,7 @@ quieted the country. Parnell had now gained the bulk of the Liberal
 party, including Lord Spencer (in spite of all that he had said and
 done) and Sir G. Trevelyan (in spite of his Hawick speech). In the
 circumstances the best chance for Home Rule was not to stir the land
-question. Cecil Rhodes, hoping to help imperial federation, gave Parnell
+question. [[Cecil]] Rhodes, hoping to help imperial federation, gave Parnell
 L10,000 for the cause. In September 1887 a riot arising out of the "plan
 of campaign" took place at Mitchelstown. The police fired, and two lives
 were lost, Mr Henry Labouchere and Mr (afterwards Sir John) Brunner,
@@ -6099,7 +6099,7 @@ length, and the commissioners did not report until the 13th of February
 1890, but the question of the letters was decided just twelve months
 earlier, Richard Pigott, who shot himself at Madrid, having confessed
 to the forgeries. A few days later, on the 8th of March 1889, Parnell
-was entertained at dinner by the Eighty Club, Lords Spencer and Rosebery
+was entertained at [[Dinner|dinner]] by the Eighty Club, Lords Spencer and Rosebery
 being present; and he was well received on English platforms when he
 chose to appear. Yet the special commission shed a flood of light on the
 agrarian and Nationalist movement in Ireland. Eight members of
@@ -6170,8 +6170,8 @@ temporary scarcity of that year was dealt with by relief works.
 An action begun by Parnell against _The Times_ was settled by the
 payment of a substantial sum. The Nationalist leader seemed to stand
 higher than ever, but the writ in the divorce proceedings, brought by
-Captain O'Shea against his wife, with the Irish leader as co-respondent,
-was hanging over him. To public astonishment, when the case came on for
+Captain O'Shea against his wife, with the Irish leader as [[Co-Respondent|co-respondent]],
+was [[Hanging|hanging]] over him. To public astonishment, when the case came on for
 trial there was no defence, and on the 17th of November 1890 a decree
 nisi was granted. Parnell's subsequent marriage with the respondent
 before a registrar did him no good with his Roman Catholic supporters.
@@ -6313,7 +6313,7 @@ amicably with their landlords.
 
 In the autumn of this year was published the report of the royal
 commission on the financial relations between England and Ireland. Mr
-Hugh C. E. Childers was the original chairman of this commission, which
+Hugh C. E. [[Childers]] was the original chairman of this commission, which
 was appointed in 1894 with the object of determining the fiscal
 contribution of Ireland under Home Rule, and after his death in 1896 The
 O'Conor Don presided. The report--or rather the collection of minority
@@ -6470,12 +6470,12 @@ repudiated Home Rule, and steps to oppose his followers were at once
 taken among Irish voters in English constituencies.
 
 Lord Cadogan resigned the viceroyalty in July 1902, and was succeeded by
-Lord Dudley. In November Sir Antony Macdonnell (b. 1844), a member of
+Lord [[Dudley]]. In November Sir Antony Macdonnell (b. 1844), a member of
 the Indian Council, became under-secretary to the lord-lieutenant.
 During a long and successful career in India (1865-1901) Sir Antony had
 never concealed his Nationalist proclivities, but his appointment, about
 the form of which there was nothing peculiar, was favoured by Lord
-Lansdowne and Lord George Hamilton, and ultimately sanctioned by Mr
+[[Lansdowne]] and Lord George Hamilton, and ultimately sanctioned by Mr
 Balfour, who had been prime minister since Lord Salisbury's resignation
 in July. About the same time a conference took place in Dublin between
 certain landlords and some members of the Nationalist party, of whom Mr
@@ -6551,7 +6551,7 @@ chairman, was appointed to investigate the condition of Trinity College,
 Dublin, and another under Lord Dudley to inquire into the question of
 the congested districts.
 
-Mr Bryce being appointed ambassador to Washington, Mr Birrell faced the
+Mr Bryce being appointed ambassador to Washington, Mr [[Birrell]] faced the
 session of 1907 as chief secretary. Before he left office Mr Bryce
 publicly sketched a scheme of his own for remodelling Irish University
 Education, but his scheme was quietly put on the shelf by his successor
@@ -6578,7 +6578,7 @@ who were _ex officio_ justices under the act of 1898.
 The general election of 1910 placed the Liberal and Unionist parties in
 a position of almost exact equality in the House of Commons, and it was
 at once evident that the Nationalists under Mr Redmond's leadership
-would hold the balance of power and control the fortunes of Mr Asquith's
+would hold the [[Balance Of Power|balance of power]] and control the fortunes of Mr Asquith's
 government. A small body of "independent Nationalists," led by Mr
 William O'Brien and Mr T. M. Healy, voiced the general dislike in
 Ireland of the Budget of 1909, the rejection of which by the House of
@@ -6610,7 +6610,7 @@ Rule, and which it was the avowed policy of the government to abolish.
   including that of the Carew MSS. 1515 to 1603. See also Richard
   Stanihurst's _Chronicle_, continued by John Hooker, which is included
   in Holinshed's _Chronicles_; E. Spenser, _View of the State of
-  Ireland_, edited by H. Morley (1890); Fynes Moryson, _History of
+  Ireland_, edited by H. Morley (1890); [[Fyne|Fynes]] Moryson, _History of
   Ireland_ (1735); Thomas Stafford, _Pacata Hibernia_ (1810); and R.
   Bagwell, _Ireland under the Tudors_ (1885-1890).
 
@@ -6656,15 +6656,15 @@ Rule, and which it was the avowed policy of the government to abolish.
   (1829); G. L. Smyth, _Ireland, Historical and Statistical_
   (1844-1849); Sir C. E. Trevelyan, _The Irish Crisis_ (1880); N. W.
   Senior, _Journals, Conversations and Essays relating to Ireland_
-  (1868); Sir G. C. Lewis, _On Local Disturbances in Ireland and on the
+  (1868); Sir G. C. [[Lewis]], _On Local Disturbances in Ireland and on the
   Irish Church Question_ (1836); John Morley, _Life of W. E. Gladstone_;
-  Lord Fitzmaurice, _Life of Lord Granville_ (1905); and R. Barry
+  Lord Fitzmaurice, _Life of Lord [[Granville]]_ (1905); and R. Barry
   O'Brien, _Life of Parnell_ (1898). Other authorities are Isaac Butt,
   _Irish Federalism_ (1870); H. O. Arnold-Forster, _The Truth about the
   Land League_ (1883); A. V. Dicey, _England's Case against Home Rule_
   (1886); W. E. Gladstone, _History of an Idea_ (1886), and a reply to
   this by J. E. Webb entitled _The Queen's Enemies in America_ (1886);
-  and Mrs E. Lynn Linton, _About Ireland_ (1890). See also the _Report
+  and Mrs E. Lynn [[Linton]], _About Ireland_ (1890). See also the _Report
   of the Parnell Special Commission_ (1890); the _Report_ of the
   Bessborough Commission (1881), of the Richmond Commission (1881), of
   the Cowper Commission (1887), and of the Mathew Commission (1893),
@@ -6678,7 +6678,7 @@ Rule, and which it was the avowed policy of the government to abolish.
   _Vetera Monumenta_ (Rome, 1864) contains documents concerning the
   medieval church, and there are many others in Ussher's Works, and for
   a later period in Cardinal Moran's _Spicilegium Ossoriense_
-  (1874-1884). The _Works_ of Sir James Ware, edited by Walter Harris,
+  (1874-1884). The _Works_ of Sir James Ware, edited by Walter [[Harris]],
   are generally useful, and Alice S. Green's _The Making of Ireland and
   its Undoing_ (1908), although written from a partisan standpoint, may
   also be consulted.     (R. Ba.)
@@ -6701,7 +6701,7 @@ FOOTNOTES:
     recently pointed out the large number of Brythonic and Welsh loan
     words received into Irish from the time of the Roman occupation of
     Britain to the beginning of the literary period. Welsh writers now
-    assume an Irish origin for much of the contents of the Mabinogion.
+    assume an Irish origin for much of the contents of the [[Mabinogion]].
 
   [4] It seems probable that the celebrated monastery of Whithorn in
     Galloway played some part in the reform movement, at any rate in the
@@ -6736,7 +6736,7 @@ FOOTNOTES:
     ff.
 
   [13] The whole question is discussed by Mr J. H. Round in his article
-    on "The Pope and the Conquest of Ireland" (_Commune of London_, 1899,
+    on "The Pope and the Conquest of Ireland" (_[[Commune]] of London_, 1899,
     pp. 171-200), where further references will be found.
 
 ## See also

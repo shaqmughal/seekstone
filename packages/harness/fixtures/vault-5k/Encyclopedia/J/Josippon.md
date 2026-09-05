@@ -3,7 +3,7 @@
 JOSIPPON, the name usually given to a popular chronicle of Jewish
 history from Adam to the age of Titus, attributed to an author Josippon
 or Joseph ben Gorion.[1] The name, though at one time identified with
-that of the historian Josephus, is perhaps a corruption of Hegesippus,
+that of the historian Josephus, is perhaps a corruption of [[Hegesippus]],
 from whom (according to Trieber) the author derived much of his
 material. The chronicle was probably compiled in Hebrew early in the
 10th century, by a Jewish native of south Italy. The first edition was
@@ -19,7 +19,7 @@ shown that the English translations of the Bible aroused so much
 interest in the Jews that there was a widespread desire to know more
 about them. This led to the circulation of many editions of _Josippon_,
 which thus formed a link in the chain of events which culminated in the
-readmission of the Jews to England by Cromwell.     (I. A.)
+readmission of the Jews to England by [[Cromwell]].     (I. A.)
 
 
 FOOTNOTE:

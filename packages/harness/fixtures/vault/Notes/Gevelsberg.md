@@ -7,7 +7,7 @@ topic: law
 # Gevelsberg
 
 GEVELSBERG, a town of Germany, in the Prussian Rhine Province, 6 m. S.W.
-from Hagen, on the railway to Dusseldorf. It has two churches, schools
+from [[Hagen]], on the railway to Dusseldorf. It has two churches, schools
 and a hospital, and considerable manufactures of cutlery. Pop. (1905)
 15,838.
 

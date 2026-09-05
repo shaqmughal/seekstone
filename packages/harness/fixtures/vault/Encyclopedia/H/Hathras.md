@@ -15,7 +15,7 @@ at the east end of the town, and was annexed by the British in 1803, but
 insubordination on the part of the chief necessitated the siege of the
 fort in 1817. Since it came under British rule, Hathras has rapidly
 risen to commercial importance, and now ranks second to Cawnpore among
-the trading centres of the Doab. The chief articles of commerce are
+the trading centres of the [[Doab]]. The chief articles of commerce are
 sugar and grain, there are also factories for ginning and pressing
 cotton, and a cotton spinning-mill. Hathras is connected by a light
 railway with Muttra, and by a branch with Hathras junction, on the East

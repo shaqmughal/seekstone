@@ -1,7 +1,7 @@
 # Loisy
 
 LOISY, ALFRED FIRMIN (1857-   ), French Catholic theologian, was born at
-Ambrières in French Lorraine of parents who, descended from a long line
+Ambrières in French [[Lorraine]] of parents who, descended from a long line
 of resident peasantry, tilled there the soil themselves. The physically
 delicate boy was put into the ecclesiastical school of St Dizier, without
 any intention of a clerical career; but he decided for the priesthood,
@@ -11,10 +11,10 @@ Tours, ordained him priest in 1879. After being _curé_ successively of
 two villages in that diocese, Loisy went in May 1881, to study and take a
 theological degree, to the Institut Catholique in Paris. Here he was
 influenced, as to biblical languages and textual criticism, by the
-learned and loyal-minded Abbé Paulin Martin, and as to a vivid
+learned and loyal-minded Abbé Paulin [[Martin]], and as to a vivid
 consciousness of the true nature, gravity and urgency of the biblical
-problems and an Attic sense of form by the historical intuition and the
-mordant irony of Abbé Louis Duchesne. At the governmental institutions,
+problems and an [[Attic]] sense of form by the historical [[Intuition|intuition]] and the
+mordant [[Irony|irony]] of Abbé Louis Duchesne. At the governmental institutions,
 Professors Oppert and Halévy helped further to train him. He took his
 theological degree in March 1890, by the oral defence of forty Latin
 scholastic theses and by a French dissertation, _Histoire du canon de
@@ -34,15 +34,15 @@ paper "La Question biblique et l'inspiration des Écritures"
 (_L'Enseignement biblique_, Nov.-Dec. 1893), promptly led to serious
 trouble. The latter article was immediately followed by Loisy's
 dismissal, without further explanation, from the Institut Catholique.
-And a few days later Pope Leo XIII. published his encyclical
-_Providentissimus Deus_, which indeed directly condemned not Abbé
+And a few days later Pope Leo XIII. published his [[Encyclical|encyclical]]
+_Providentissimus [[Deus]]_, which indeed directly condemned not Abbé
 Loisy's but Mgr d'Hulst's position, yet rendered the continued
 publication of consistently critical work so difficult that Loisy
 himself suppressed his _Enseignement_ at the end of 1893. Five further
-instalments of his _Synoptiques_ were published after this, bringing the
+[[Instalment|instalments]] of his _Synoptiques_ were published after this, bringing the
 work down to the Confession of Peter inclusively.
 
-Loisy next became chaplain to a Dominican convent and girls' school at
+Loisy next became [[Chaplain|chaplain]] to a Dominican convent and girls' school at
 Neuilly-sur-Seine (Oct. 1894-Oct. 1899), and here matured his apologetic
 method, resuming in 1898 the publication of longer articles, under the
 pseudonyms of Desprès and Firmin in the _Revue du clergé français_, and
@@ -56,13 +56,13 @@ d'Israël" (_Revue du clergé français_, Oct. 15th, 1900), the first of a
 series intended to correct and replace Renan's presentation of that
 great subject, was promptly censured by Cardinal Richard, archbishop of
 Paris; and though scholarly and zealous ecclesiastics, such as the
-Jesuit Père Durand and Monseigneur Mignot, archbishop of Albi, defended
+Jesuit Père [[Durand]] and Monseigneur Mignot, archbishop of Albi, defended
 the general method and several conclusions of the article, the aged
 cardinal never rested henceforward till he had secured a papal
 condemnation also. At the end of 1900 Loisy secured a government
 lectureship at the École des Hautes Études Pratiques, and delivered
 there in succession courses on the Babylonian myths and the first
-chapters of Genesis; the Gospel parables; the narrative of the ministry
+chapters of [[Genesis]]; the [[Gospel]] parables; the narrative of the ministry
 in the synoptic Gospels; and the Passion narratives in the same. The
 first course was published in the _Revue d'histoire et de littérature
 religieuses_; and here also appeared instalments of his commentary on St
@@ -79,10 +79,10 @@ God, the Church, Christian dogma and Catholic worship; and together form
 a severely critico-historical yet strongly Catholic answer to Harnack's
 still largely pietistic _Wesen des Christentums_. It develops throughout
 the principles that "what is essential in Jesus' Gospel is what occupies
-the first and largest place in His authentic teaching, the ideas for
+the first and largest place in His [[Authentic|authentic]] teaching, the ideas for
 which He fought and died, and not only that idea which we may consider
 to be still a living force to day"; that "it is supremely arbitrary to
-decree that Christianity must be essentially what the Gospel did not
+[[Decree|decree]] that Christianity must be essentially what the Gospel did not
 borrow from Judaism, as though what the Gospel owes to Judaism were
 necessarily of secondary worth"; that "whether we trust or distrust
 tradition, we know Christ only by means of, athwart and within the
@@ -100,7 +100,7 @@ Richard publicly condemned the book, as not furnished with an
 _imprimatur_, and as calculated gravely to trouble the faith of the
 faithful in the fundamental Catholic dogmas. On the 2nd of February
 Loisy wrote to the archbishop: "I condemn, as a matter of course, all
-the errors which men have been able to deduce from my book, by placing
+the [[Error|errors]] which men have been able to deduce from my book, by placing
 themselves in interpreting it at a point of view entirely different from
 that which I had to occupy in composing it." The pope refused to
 interfere directly, and the nuncio, Mgr Lorenzelli, failed in securing
@@ -129,7 +129,7 @@ l'Église_; on the biblical question; the criticism of the Gospels; the
 Divinity of Christ; the Church's foundation and authority; the origin
 and authority of dogma, and on the institution of the sacraments. The
 second and third, addressed respectively to a cardinal (Perraud) and a
-bishop (Le Camus), are polemical or ironical in tone; the others are all
+bishop (Le [[Camus]]), are polemical or ironical in tone; the others are all
 written to friends in a warm, expansive mood; the fourth letter
 especially, appropriated to Mgr Mignot, attains a grand elevation of
 thought and depth of mystical conviction. _Le Quatrième Évangile_, one
@@ -139,7 +139,7 @@ perfect sympathetic reproduction of a great mystical believer's
 imperishable intuitions. _Le Discours sur la Montagne_ is a fragment of
 a coming enlarged commentary on the synoptic Gospels. On the 23rd of
 December the pope ordered the publication of a decree of the
-Congregation of the Index, incorporating a decree of the Inquisition,
+Congregation of the [[Index]], incorporating a decree of the Inquisition,
 condemning Loisy's _Religion d'Israël_, _L'Évangile et l'Église_,
 _Études évangéliques_, _Autour d'un petit livre_ and _Le Quatrième
 Évangile_. The pope's secretary of state had on the 19th December, in a
@@ -152,7 +152,7 @@ books, whilst reserving the rights of his conscience and his opinions as
 an historian, opinions doubtless imperfect, as no one was more ready to
 admit than himself, but which were the only form under which he was able
 to represent to himself the history of the Bible and of religion. Since
-the Holy See was not satisfied, Loisy sent three further declarations to
+the Holy See was not satisfied, Loisy sent three further [[Declaration|declarations]] to
 Rome; the last, despatched on the 17th of March, was addressed to the
 pope himself, and remained unanswered. And at the end of March Loisy
 gave up his lectureship, as he declared, "on his own initiative, in view
@@ -187,7 +187,7 @@ primarily at Loisy, although here the vehemently scholastic redactor's
 determination to piece together a strictly coherent, complete a priori
 system of "Modernism" and his self-imposed restriction to medieval
 categories of thought as the vehicles for describing essentially modern
-discoveries and requirements of mind, make the identification of precise
+discoveries and requirements of mind, make the [[Identification|identification]] of precise
 authors and passages very difficult. And on the 21st of November 1907 a
 papal _motu proprio_ declared all the decisions of the Biblical
 Commission, past and future, to be as binding upon the conscience as
@@ -202,7 +202,7 @@ the third Gospels; the evangelical tradition; the career and the
 teaching of Jesus; and the literary form, the tradition of the text and
 the previous commentaries. The commentary gives also a careful
 translation of the texts. Loisy recognizes two eye-witness documents, as
-utilized by all three synoptists, while Matthew and Luke have also
+utilized by all three synoptists, while [[Matthew]] and [[Luke]] have also
 incorporated Mark. His chief peculiarity consists in clearly tracing a
 strong Pauline influence, especially in Mark, which there remodels
 certain sayings and actions as these were first registered by the
@@ -215,7 +215,7 @@ formal night-trial before Caiaphas into the original Passion-story with
 its informal, morning decision by Caiaphas, and its one solemn
 condemnation of Jesus, by Pilate. Mark's narratives of the sepulture by
 Joseph of Arimathea and of the empty tomb are taken as posterior to St
-Paul; the narratives of the infancy in Matthew and Luke as later still.
+Paul; the narratives of the [[Infancy|infancy]] in Matthew and Luke as later still.
 Yet the great bulk of the sayings remain substantially authentic; if the
 historicity of certain words and acts is here refused with unusual
 assurance, that of other sayings and deeds is established with stronger
@@ -240,7 +240,7 @@ several fundamental dogmas of Christianity," under pain of
 excommunication. The abbé again declared "it is impossible for me
 honestly and sincerely to make the act of absolute retractation and
 submission exacted by the sovereign pontiff." And the Holy Office, on
-the 7th of March, pronounced the major excommunication against him. At
+the 7th of March, pronounced the [[Major|major]] excommunication against him. At
 the end of March Loisy published _Quelques Lettres_ (December
 1903-February 1908), which conclude: "At bottom I have remained in my
 last writings on the same line as in the earlier ones. I have aimed at
@@ -249,7 +249,7 @@ questions, and secondarily the necessity for reforming more or less the
 traditional concepts."
 
 Three chief causes appear jointly to have produced M. Loisy's very
-absolute condemnation. Any frank recognition of the abbé's even general
+absolute condemnation. Any [[Frank|frank]] recognition of the abbé's even general
 principles involves the abandonment of the identification of theology
 with scholasticism or even with specifically ancient thought in general.
 The abbé's central position, that our Lord himself held the
@@ -259,7 +259,7 @@ though still the true fruits and vehicles of his life, death and spirit,
 cannot thus be immediately founded by the earthly Jesus himself. And the
 Church policy, as old as the times of Constantine, to crush utterly the
 man who brings more problems and pressure than the bulk of traditional
-Christians can, at the time, either digest or resist with a fair
+Christians can, at the time, either [[Digest|digest]] or resist with a fair
 discrimination, seemed to the authorities the one means to save the very
 difficult situation.
 
@@ -277,20 +277,20 @@ difficult situation.
   Albi, _Lettres sur les études ecclésiastiques 1900-1901_ (collected
   ed., Paris, 1908) and "Critique et tradition" in _Le Correspondant_
   (Paris, 10th January 1904), the utterances of a finely trained
-  judgment; Mgr Le Camus, bishop of La Rochelle, _Fausse Exégèse,
+  judgment; Mgr Le Camus, bishop of [[La Rochelle]], _Fausse Exégèse,
   mauvaise théologie_ (Paris, 1902), a timid, mostly rhetorical,
-  scholar's protest; Père Lagrange, a Dominican who has done much for
+  scholar's protest; Père [[Lagrange]], a Dominican who has done much for
   the spread of Old Testament criticism, _La Méthode historique, surtout
   à propos de l'Ancien Testament_ (Paris, 1903) and _Éclaircissement_ to
   same (ibid. 1903); P. Lagrange, Mgr P. Batiffol, P. Portalié, S.J.,
   "Autour des fondements de la Foi" in the _Bulletin de litt. eccl.
   Toulouse_ (Paris, December 1903, January 1904), very suggestive
-  papers; Professor Maurice Blondel's "Histoire et dogma," in _La
+  papers; Professor [[Maurice]] Blondel's "Histoire et dogma," in _La
   Quinzaine_ (Paris January 16, February 16, 1904), F. de Hugel's "Du
   Christ éternel et des christologies successives" (ibid. June 1, 1904),
   the Abbé J. Wehrle's "Le Christ et la conscience catholique" (ibid.
   August 16, 1904) and F. de Hügel's "Correspondance" (ibid. Sept. 16,
-  1904) discuss the relations between faith and the affirmation of
+  1904) [[Discus|discuss]] the relations between faith and the affirmation of
   phenomenal happenings; Paul Sabatier, "Les Derniers Ouvrages de l'Abbé
   Loisy," in the _Revue chrétienne_ (Dôle, 1904) and Paul Desjardins'
   _Catholicisme et critique_ (Paris, 1905), a Broad Church Protestant's
@@ -299,14 +299,14 @@ difficult situation.
   français_ (Feb. 15, 1908) containing some interesting discriminations;
   a revue by L. in the _Revue biblique_ (1908), pp. 608-620, a mixture
   of unfair insinuation, powerful criticism and discriminating
-  admissions; and a paper by G. P. B. and Jacques Chevalier in the
+  admissions; and a paper by G. P. B. and Jacques [[Chevalier]] in the
   _Annales de philosophie chrétienne_ (Paris, Jan. 1909) seeks to trace
   and to refute certain philosophical presuppositions at work in the
   book's treatment, especially of the Miracles, the Resurrection and the
   Institution of the Church. Italy: "Lettres Romaines" in _Annales de
   philosophie chrétienne_ (Paris, January-March 1904), an Italian
   theologian's fearless defence of Loisy's main New Testament positions;
-  Rev. P. Louis Billot S.J., _De sacra traditione_ (Freiburg i. Br.
+  Rev. P. Louis Billot S.J., _De sacra traditione_ ([[Freiburg]] i. Br.
   1905), the ablest of the scholastic criticisms of the historical
   method by a highly influential French professor of theology, now many
   years in Rome; _Quello che vogliamo_ (Rome, 1907, Eng. trans., What we
@@ -327,7 +327,7 @@ difficult situation.
   Jahrhundert_ (Munich, May 3, 1908) are full of facts and of deep
   thought; Fr. F. von Hummelauer, _Exegetisches zur Inspirationsfrage_
   (Freiburg i. Br. 1904) is a favourable specimen of present-day German
-  Roman Catholic scholarship. America: Professor C. A. Briggs, "The Case
+  Roman Catholic scholarship. America: Professor C. A. [[Brigg|Briggs]], "The Case
   of the Abbé Loisy," _Expositor_ (London, April 1905), and C. A. Briggs
   and F. von Hügel, _The Papal Commission and the Pentateuch_ (London,
   1907) discuss Rome's attitude towards biblical science. England: The
@@ -337,7 +337,7 @@ difficult situation.
   Literary Supplement_ for January 15th, 22nd, 29th, 1904), and "The
   Synoptic Gospels" (review in _The Times Literary Supplement_, March
   26, 1908) are interesting pronouncements respectively of two
-  Tractarian High Churchmen and of a disciple of Canon Sanday. Professor
+  Tractarian High Churchmen and of a [[Disciple|disciple]] of Canon Sanday. Professor
   Percy Gardner's paper in the _Hibbert Journal_, vol. i. (1903) p. 603,
   is the work of a Puritan-minded, cultured Broad Church layman.
   (F. v. H.)

@@ -4,12 +4,12 @@ BLINDNESS, the condition of being blind (a common Teutonic word), i.e.
 devoid of sight (see also VISION; and EYE: _Diseases_). The data
 furnished in various countries by the census of 1901 showed generally a
 decrease in blindness, due to the progress in medical science, use of
-antiseptics, better sanitation, control of infectious diseases, and
+[[Antiseptics|antiseptics]], better sanitation, control of infectious diseases, and
 better protection in shops and factories. Blindness is much more common
-in hot countries than in temperate and cold regions, but Finland and
-Iceland are exceptions to the general rule.[1] In hot countries the eyes
-are affected by the glaring sunlight, the dust and the dryness of the
-air. From statistics in Italy, France and Belgium, localities on the
+in hot countries than in temperate and cold regions, but [[Finland]] and
+[[Iceland]] are exceptions to the general rule.[1] In hot countries the eyes
+are affected by the glaring sunlight, the [[Dust|dust]] and the dryness of the
+air. From statistics in Italy, France and [[Belgium]], localities on the
 coast seem to have more blind persons than those at a distance from the
 sea.
 
@@ -25,7 +25,7 @@ statistics of 1900.
   | Austria                          | 14,582 |      540       |
   | Belgium                          |   3448 |      487       |
   | Canada                           |   3279 |      610       |
-  | Denmark                          |   1047 |      427       |
+  | [[Denmark]]                          |   1047 |      427       |
   | England                          | 25,317 |      778       |
   | France                           | 27,174 |      698       |
   | Finland[2]                       |   3229 |     1191       |
@@ -49,9 +49,9 @@ CAUSES AND PREVENTION
 
 There are many cases of complete or partial blindness which might have
 been prevented, and a knowledge of the best methods of prevention and
-cure should be spread as widely as possible. Magnus, Bremer, Steffen and
+cure should be spread as widely as possible. Magnus, [[Bremer]], Steffen and
 Rossler are of opinion that 40% of the cases of blindness might have
-been prevented. Hayes gives 33.35% as positively avoidable, 38.75%
+been prevented. [[Hay|Hayes]] gives 33.35% as positively avoidable, 38.75%
 possibly avoidable, and 46.27% as a conservative estimate. Cohn regards
 blindness as certainly preventable in 33%, as probably preventable in
 43%, and as quite unpreventable in only 24%. If we take the lowest of
@@ -65,17 +65,17 @@ generally, see VISION and EYE.
 
 The great majority of these cases are due to infantile purulent
 ophthalmia. This arises from inoculation of the eyes with hurtful
-material at time of birth. If the contagious discharges are allowed to
+material at time of birth. If the contagious [[Discharge|discharges]] are allowed to
 remain, violent inflammation is set up which usually ends in the loss of
 sight. It depends on the presence of a microbe, and the effective
 application of a weak solution of nitrate of silver is curative, if made
 in a proper manner at an early period of the case. In Germany, midwives
 are expressly prohibited by law from treating any affection of the eyes
-or eyelids of infants, however slight. On the appearance of the first
+or eyelids of [[Infant|infants]], however slight. On the appearance of the first
 symptoms, they are required to represent to the parents, or others in
 charge, that medical assistance is urgently needed, or, if necessary,
 they are themselves to report to the local authorities and the district
-doctor. Neglect of these regulations entails liability to punishment.
+doctor. Neglect of these regulations [[Entail|entails]] liability to punishment.
 Eleven of the United States of America have enacted laws requiring that,
 if one or both eyes of an infant should become inflamed, swollen or
 reddened at any time within two weeks of its birth, it shall be the duty
@@ -85,8 +85,8 @@ qualified physician, the fact that such inflammation, swelling or
 redness exists. The penalty for failure to comply is fine or
 imprisonment.
 
-The following weighty words, from a paper prepared by Dr Park Lewis, of
-Buffalo, N.Y., for the American Medical Association, show that laws are
+The following weighty words, from a paper prepared by Dr Park [[Lewis]], of
+[[Buffalo]], N.Y., for the American Medical Association, show that laws are
 not sufficient to prevent evil, unless supported by strong public
 sentiment:--
 
@@ -114,7 +114,7 @@ sentiment:--
   affliction. The following three vital facts are not questioned, but
   are universally accepted by those qualified to know:--
 
-  "1. The ophthalmia of infancy is an infectious germ disease.
+  "1. The ophthalmia of [[Infancy|infancy]] is an infectious germ disease.
 
   "2. By the instillation of a silver salt in the eyes of a new-born
   infant the disease is prevented from developing in all but an
@@ -137,16 +137,16 @@ sentiment:--
   profession; second, with the lay public; third, with the state.
 
   "For the education of its blind children annually New York alone pays
-  _per capita_ at least $350, and a yearly gross sum amounting to much
+  _per capita_ at least $350, and a yearly [[Gross|gross]] sum amounting to much
   more than $100,000. If, as sometimes happens, the blind citizen is a
-  dependent throughout a long life, the cost of maintenance is not less
+  dependent throughout a long life, the cost of [[Maintenance|maintenance]] is not less
   than $10,000, and the mere cost in money will be multiplied many times
   in that a productive factor, by reason of blindness, has been removed
   from the community.
 
   "If, therefore, as an economic proposition, it were realized how
   vitally it concerns the state that not one child shall needlessly
-  become blind, thereby increasing the public financial burden, there is
+  become blind, thereby increasing the public financial [[Burden|burden]], there is
   no doubt that early and effective measures would be instituted to
   protect the state from this unnecessary and extravagant expenditure of
   public funds.
@@ -228,7 +228,7 @@ was affected. During the following twenty years the disease spread
 through almost all European armies. In the Belgian army, there was one
 trachomatous soldier out of every five, and up to 1834 no less than 4000
 soldiers had lost both eyes and 10,000 one eye. It is a disease which is
-very common in workhouse schools, orphan asylums and similar
+very common in workhouse schools, orphan [[Asylum|asylums]] and similar
 establishments. Unlike ophthalmia of new-born children, it is difficult
 to cure, and a total separation of the diseased from the healthy
 children should be effected.
@@ -260,7 +260,7 @@ to describe objects at a distance, with which they are unacquainted, and
 parents should choose out-door occupations and amusements for children
 who show a tendency to shortsightedness.
 
-A report was issued in 1906, by the school board of Glasgow, as to an
+A report was issued in 1906, by the school board of [[Glasgow]], as to an
 investigation by Dr H. Wright Thomas, ophthalmic surgeon, regarding the
 eyesight of school children, which includes the following passage. Dr
 Wright Thomas states that the teachers tested the visual acuteness of
@@ -277,7 +277,7 @@ the nutrition of the children is defective from bad feeding and
 unhealthy surroundings. Regarding training of the eyes for distant
 objects, much might be done in the infant department by the total
 abolition of sewing, which is definitely hurtful to such young eyes, and
-the substitution of competitive games involving the recognition of
+the substitution of competitive [[Games|games]] involving the recognition of
 small objects at a distance of 20 ft. or more. An annual testing by the
 teachers, followed by medical inspection of the children found
 defective, would soon cause all existing defects to be corrected, and
@@ -286,15 +286,15 @@ would lead to the detection of those which develop during school life.
 
 HISTORY OF INSTITUTIONS
 
-Although there is a record of a hospital established by St Basil at
-Caesarea, Cappadocia, in the 4th century, a refuge by the hermit St
+Although there is a record of a hospital established by St [[Basil]] at
+Caesarea, [[Cappadocia]], in the 4th century, a refuge by the hermit St
 Lymnee (d. c. 455) at Syr, Syria, in the 5th century, and an institution
-by St Bertrand, bishop of Le Mans, in the 7th century, the first public
+by St [[Bertrand]], bishop of Le Mans, in the 7th century, the first public
 effort to benefit the blind was the founding of a hospital at Paris, in
 1260, by Louis IX., for 300 blind persons. The common legend is that he
 founded it as an asylum for 300 of his soldiers who had become blinded
 in the crusade in Egypt, but the statutes of the founder are preserved,
-and no mention is made of crusaders. This Hospice des Quinze-Vingts,
+and no mention is made of crusaders. This [[Hospice]] des Quinze-Vingts,
 increased by subsequent additions to its funds, still assists the adult
 blind of France. The pensioners are divided into two classes--those who
 are inmates of the hospital (300), and those who receive pensions in the
@@ -308,24 +308,24 @@ devise tangible apparatus to assist them.
 
 Girolamo Cardan, the 16th-century Italian physician, conceived the idea
 that the blind could be taught to read and write by means of touch.
-About 1517 Francesco Lucas in Spain, and Rampazetto in Italy, made use
+About 1517 Francesco [[Lucas]] in Spain, and Rampazetto in Italy, made use
 of large letters cut in wood for instructing the blind. In 1646 a book,
 on the condition of the blind, was written by an Italian, and published
 in Italian and French, under the title of _L'Aveugle afflige et
 console_. In 1670 a book was written on the instruction of the blind by
 Lana Terzi, the Jesuit. In 1676 Jacques Bernoulli, the Swiss savant,
 taught a blind girl to read, but the means of her instruction were not
-made known. In 1749 D. Diderot wrote his _Lettre sur les aveugles a
+made known. In 1749 D. [[Diderot]] wrote his _Lettre sur les aveugles a
 l'usage de ceux qui voient_, to show how far the intellectual and moral
 nature of man is modified by blindness. Dr S.G. Howe, who many years
 after translated and printed the "Letter" in embossed type,
-characterizes it as abounding with errors of fact and inference, but
+characterizes it as abounding with [[Error|errors]] of fact and inference, but
 also with beauties and suggestions. The heterodox speculations contained
 in his "Letter on the Blind" caused Diderot to be imprisoned three
-months in the Bastille. He was released because his services were
+months in the [[Bastille]]. He was released because his services were
 required for the forthcoming _Encyclopaedia_. Rousseau visited Diderot
 in prison, and is reported to have suggested a system of embossed
-printing. J. Locke, G.W. Leibnitz, Molineau and others discussed the
+printing. J. [[Locke]], G.W. Leibnitz, Molineau and others discussed the
 effect of blindness on the human mind. In Germany, Weissembourg had used
 signs in relief and taught Mlle Paradis.
 
@@ -336,10 +336,10 @@ the amusement of the populace. The degraded state of the masses of the
 blind in France attracted the attention of Valentin Hauy. In 1771, at
 the annual fair of St Ovid, in Paris, an innkeeper had a group of blind
 men attired in a ridiculous manner, decorated with peacock tails, asses'
-ears, and pasteboard spectacles without glasses, in which condition they
-gave a burlesque concert, for the profit of their employer. This sad
+[[Ear|ears]], and pasteboard spectacles without glasses, in which condition they
+gave a burlesque [[Concert|concert]], for the profit of their employer. This sad
 scene was repeated day after day, and greeted with loud laughter by the
-gaping crowds. Among those who gazed at this outrage to humanity was the
+gaping [[Crowd|crowds]]. Among those who gazed at this outrage to humanity was the
 philanthropist Valentin Hauy, who left the disgraceful scene full of
 sorrow. "Yes," he said to himself, "I will substitute truth for this
 mocking parody. I will make the blind to read, and they shall be enabled
@@ -351,21 +351,21 @@ founded in Paris the first school for the blind (the Institution
 Nationale des Jeunes Aveugles), and commenced the first printing in
 raised characters. In 1786, before Louis XVI. and his court at
 Versailles, he exhibited the attainments of his pupils in reading,
-writing, arithmetic, geography and music, and in the same year published
+writing, [[Arithmetic|arithmetic]], [[Geography|geography]] and music, and in the same year published
 an account of his methods, entitled _Essai sur l'education des
 aveugles_. As the novelty wore off, contributions almost came to an end,
 and the Blind School must have ceased to exist, had it not been taken,
 in 1791, under the protection of the state.
 
-The emperor of Russia, and later the dowager empress, having learned of
+The emperor of Russia, and later the [[Dowager|dowager]] empress, having learned of
 Hauy's work, invited him to visit St Petersburg for the purpose of
 establishing a similar institution in the Russian capital. On his
-journey Hauy was invited by the king of Prussia to Charlottenburg. He
+journey Hauy was invited by the king of Prussia to [[Charlottenburg]]. He
 took part in the deliberations of the Academy of Sciences in Berlin, and
 as a result a school was founded there.
 
 Edward Rushton, a blind man, was the projector of the first institution
-for the blind in England--the School for the Indigent Blind, Liverpool.
+for the blind in England--the School for the Indigent Blind, [[Liverpool]].
 In 1790 Rushton suggested to the literary and philosophical society of
 which he was a member, the establishment of a benefit club for the
 indigent blind. The idea was communicated to his friend, J. Christie, a
@@ -373,26 +373,26 @@ blind musician, and the latter thought the scheme should also include
 the instruction of young blind persons. They circulated letters amongst
 individuals who would be likely to give their assistance, and the Rev.
 Henry Dannett warmly advocated the undertaking. It was mainly due to his
-co-operation and zeal that Messrs Rushton and Christie's plan was
+[[Co-Operation|co-operation]] and zeal that Messrs Rushton and Christie's plan was
 carried out, and the Liverpool asylum was opened in 1791. Thomas
-Blacklock of Edinburgh, a blind poet and scholar, translated Hauy's work
+[[Blacklock]] of Edinburgh, a blind poet and scholar, translated Hauy's work
 on the _Education of the Blind_. He interested Mr David Millar, a blind
-gentleman, the Rev. David Johnston and others in the subject, and after
+[[Gentleman|gentleman]], the Rev. David Johnston and others in the subject, and after
 Blacklock's death the Edinburgh Asylum for the Relief of the Indigent
 and Industrious Blind was established (1793). Institutions were
 established in the United Kingdom in the following order:--
 
   School for the Indigent Blind, Liverpool             1791
   Royal Blind Asylum, Edinburgh                        1793
-  Bristol Asylum                                       1793
+  [[Bristol]] Asylum                                       1793
   School for the Indigent Blind Southwark (now
-    removed to Leatherhead)                            1799
+    removed to [[Leatherhead]])                            1799
   Norwich Asylum and School                            1805
   Richmond Asylum, Dublin                              1810
   Aberdeen Asylum                                      1812
   Molyneux Asylum, Dublin                              1815
   Glasgow Asylum and School                            1827
-  Belfast School                                       1831
+  [[Belfast]] School                                       1831
   Wilberforce School, York                             1833
   Limerick Asylum                                      1834
   London Society for Teaching the Blind to Read, St
@@ -405,23 +405,23 @@ established in the United Kingdom in the following order:--
   Catholic Asylum, Liverpool                           1841
   Brighton Asylum                                      1842
   Midland Institute for the Blind, Nottingham          1843
-  General Institute for the Blind, Birmingham          1848
-  Macan Asylum, Armagh                                 1854
+  General Institute for the Blind, [[Birmingham]]          1848
+  Macan Asylum, [[Armagh]]                                 1854
   St Joseph's Asylum, Dublin                           1858
   St Mary's Asylum, Dublin                             1858
   Institute for the Blind, Devonport                   1860
-  South Devon and Cornwall Institute for the Blind,
+  South Devon and [[Cornwall]] Institute for the Blind,
     Plymouth                                           1860
   School for the Blind, Southsea                       1864
-  Institute for the Blind, Dundee                      1865
+  Institute for the Blind, [[Dundee]]                      1865
   South Wales Institute for the Blind, Swansea         1865
-  School for the Blind, Leeds                          1866
+  School for the Blind, [[Leeds]]                          1866
   College for the Sons of Gentlemen, Worcester         1866
-  Northern Counties Institute for the Blind, Inverness 1866
+  Northern Counties Institute for the Blind, [[Inverness]] 1866
   Royal Normal College and Academy of Music for the
     Blind, Upper Norwood                               1872
   School for the Blind, Sheffield                      1879
-  Barclay Home and School for Blind Girls, Brighton    1893
+  [[Barclay]] Home and School for Blind Girls, Brighton    1893
   Homes for Blind Children, Preston                    1895
   North Stafford School, Stoke-on-Trent                1897
 
@@ -430,7 +430,7 @@ Many of the early institutions were asylums, and to the present day
 schools for the blind are regarded by the public as asylums rather than
 as educational establishments. With nearly all these schools workshops
 were connected. In 1856 Miss Gilbert, the blind daughter of the bishop
-of Chichester, established a workshop in Berners Street, London, and
+of [[Chichester]], established a workshop in Berners Street, London, and
 since that date workshops have been started in many of the provincial
 towns.
 
@@ -438,12 +438,12 @@ After the beginning of the 19th century, institutions for the blind were
 established in various parts of Europe. The institution at Vienna was
 founded in 1804 by Dr W. Klein, a blind man, and he remained at its head
 for fifty years. That of Berlin was established in 1806, Amsterdam,
-Prague and Dresden in 1808, Copenhagen in 1811. There are more than 150
+Prague and [[Dresden]] in 1808, [[Copenhagen]] in 1811. There are more than 150
 on the European continent, most of them receiving aid from the
 government, and being under government supervision.
 
 The first school for the blind in the United States was founded in
-Boston, Mass., chiefly through the efforts of Dr John D. Fisher, a young
+[[Boston]], Mass., chiefly through the efforts of Dr John D. Fisher, a young
 physician who visited the French school. It was incorporated in 1829,
 and in honour of T.H. Perkins (1764-1854) who gave his mansion to the
 institution was named the Perkins Institution and Massachusetts Asylum
@@ -454,12 +454,12 @@ his son-in-law Michael Anagnos (d. 1906), who established a kindergarten
 for the blind at Jamaica Plain, in connexion with the Perkins
 Institution. Dr Howe was interested in many charitable and sociological
 movements, but his life-work was on behalf of the blind. One of his most
-notable achievements was the education of Laura Bridgman (q.v.) who
+notable achievements was the education of Laura [[Bridgman]] (q.v.) who
 was deaf, dumb and blind, and this has since led to the education of
 Helen Keller and other blind deaf-mutes. The New York Institution was
 incorporated in 1831, and the Pennsylvania Institution was founded at
 Philadelphia by the Society of Friends in 1833. The Ohio was founded at
-Columbus in 1837, Virginia at Staunton in 1839, Kentucky at Louisville
+Columbus in 1837, Virginia at Staunton in 1839, [[Kentucky]] at Louisville
 in 1842, Tennessee at Nashville in 1844, and now every state in the
 Union makes provision for the education of the blind.
 
@@ -536,15 +536,15 @@ classes for the education of blind children have been established by
 local education authorities. There are forty-six home teaching
 societies, who send teachers to visit the blind in their homes, to teach
 adults who wish to learn to read, to act as colporteurs, to lend and
-exchange useful books, and to act as Scripture readers to those who are
+[[Exchange|exchange]] useful books, and to act as Scripture readers to those who are
 aged and infirm. All the home teaching societies for the blind and many
 public libraries lend embossed books. The public library at Oxford has
 nearly 400 volumes of classical works for the use of university
 students.
 
 A society was instituted in 1847 by Dr W. Moon for stereotyping and
-embossing the Scriptures and other books in "Moon" type. The type has
-been adapted to over 400 languages and dialects. After Dr Moon's death
+[[Embossing|embossing]] the Scriptures and other books in "Moon" type. The type has
+been adapted to over 400 languages and [[Dialect|dialects]]. After Dr Moon's death
 in 1884 the work was carried on by his daughter, Miss Adelaide Moon, and
 the books are much used by the adult blind.
 
@@ -557,9 +557,9 @@ countries, by endeavouring to supply deficiencies where these were found
 to exist, and by attempting to bring about greater harmony of action
 between the different existing schools and institutions. It gave a new
 impetus to the education and training of the blind in the United
-Kingdom. At that time their education was in a state of chaos. The
+Kingdom. At that time their education was in a state of [[Chaos|chaos]]. The
 Bible, or a great part of it, had been printed in five different
-systems. The founders took as an axiom that the relative merits of the
+systems. The founders took as an [[Axiom|axiom]] that the relative merits of the
 various methods of education through the sense of touch should be
 decided by those and those only who have to rely on this sense. The
 council, who were all totally or partially blind, spent two years in
@@ -567,7 +567,7 @@ comparing the different systems of embossed print. In 1869 and 1870 Dr
 Armitage corresponded with Dr J.R. Russ in regard to the New York Point.
 No trouble was spared to arrive at a right conclusion. The Braille
 system was finally adopted, and the association at once became a centre
-for supplying frames for writing Braille, printed books, maps, music and
+for supplying [[Frame|frames]] for writing Braille, printed books, [[Map|maps]], music and
 other educational apparatus for the blind. All books printed by the
 association are printed from stereotyped plates embossed by blind
 copyists. About 3000 separate works, varying in length from 1 to 12
@@ -588,7 +588,7 @@ Hetherington's, Day's, the Clothworkers', the Cordwainers', the National
 Blind Relief Society, Royal Blind Pension Society and Indigent Blind
 Visiting Society.
 
-The Gardner Trust administers the income of L300,000 left by Henry
+The [[Gardner]] Trust administers the income of L300,000 left by Henry
 Gardner in 1879. The income is used for instructing the blind in the
 profession of music, in suitable trades, handicrafts and professions
 other than music, for pensions, and free grants to institutions and
@@ -618,7 +618,7 @@ individuals for special purposes.
   efforts are made by the committee and teachers of missions to find
   some employment for the many adults who come under their care.
 
-  In Glasgow, a ladies' auxiliary furnishes work for 150 knitters, and
+  In Glasgow, a ladies' [[Auxiliary|auxiliary]] furnishes work for 150 knitters, and
   takes the responsibility of disposing of their work. In Scotland there
   are five schools for the young blind, and in connexion with each is a
   workshop for adults. In Edinburgh the school is at West Craigmillar,
@@ -662,7 +662,7 @@ individuals for special purposes.
     British Colonies.
 
   In the Dominion of Canada, South Africa, the states of the Australian
-  Commonwealth and New Zealand, provision is made by the government for
+  [[Commonwealth]] and New Zealand, provision is made by the government for
   the education of the young blind, and in some cases for training the
   adults in handicrafts. Embossed literature is carried free of expense,
   and on the Victorian railways no charge is made for the guide who
@@ -672,22 +672,22 @@ individuals for special purposes.
 
     Victoria           1082      Tasmania        173
     New South Wales     884      New Zealand     274 (1891)
-    South Australia     315      Natal            68
+    South [[Australia]]     315      Natal            68
     Queensland          209      Cape Colony    2802 (1904)
     West Australia      121      Canada         3279
 
   In Australia there are institutions for the blind at Melbourne,
   Sydney, Adelaide, Brighton, Brisbane and Maylands near Perth. In New
-  Zealand the institution is at Auckland.
+  Zealand the institution is at [[Auckland]].
 
   In Cape Colony between 1875 and 1891, there was an extraordinary
   increase in blindness, but between 1891 and 1904 the rate per 10,000
   has decreased 23.78%. There is an institution at Worcester for
   deaf-mutes and blind, founded in 1881. It is supported by a government
-  grant, fees and subscription.
+  grant, [[Fee|fees]] and subscription.
 
   Schools for the blind were established by the Dominion government at
-  Brantford, Ontario (1871), and Halifax, Nova Scotia (1867).
+  [[Brantford]], Ontario (1871), and Halifax, Nova Scotia (1867).
 
   In Montreal there are two private institutions, the M'Kay Institute
   for Protestant Deaf-Mutes and Blind, and a school for Roman Catholic
@@ -716,8 +716,8 @@ At the 12th census a change was made in the plan for securing the
 returns, and the work of the enumerators was restricted to a brief
 preliminary return, showing only the name, sex, age, post office
 address, and nature of the existing defects in all persons alleged to be
-blind or deaf. Dr Alexander Graham Bell, of Washington, D.C., was
-appointed expert special agent of the census office for the preparation
+blind or deaf. Dr Alexander [[Graham]] Bell, of Washington, D.C., was
+appointed [[Expert|expert]] special agent of the census office for the preparation
 of a report on the deaf and blind. He was empowered to conduct in his
 own name a correspondence relating to this branch of the census inquiry.
 A circular containing eighteen questions was addressed to every blind
@@ -818,14 +818,14 @@ Nativity._
   ratios are compared for classes of population of identical ages that
   their relative liability to blindness can be properly inferred."
 
-  Table II. shows the classification, by degree of blindness, of the
+  Table II. shows the [[Classification|classification]], by degree of blindness, of the
   blind under twenty years of age, twenty years of age and over, and of
   unknown age, with respect to colour and nativity, with the number at
   the specified ages per million of population in the same age-group.
 
   The relationship or consanguinity of parents of the 64,763 blind was
   reported in 56,507 cases, in 2527 (or 4.5%) of which the parents were
-  related as cousins.
+  related as [[Cousin|cousins]].
 
   In 57,726 cases the inquiry as to the existence of blind relatives was
   answered; 10,967 (or 19%) of this number reported that they had blind
@@ -833,7 +833,7 @@ Nativity._
 
   Of the 2527 blind persons whose parents were cousins, 993 (or 39.3%)
   had blind relatives,--844 having blind brothers, sisters or ancestors,
-  and 149 having blind collateral relatives or descendants.
+  and 149 having blind [[Collateral|collateral]] relatives or descendants.
 
   Of the 53,980 blind whose parents were not related, 9490 (or 17.6%)
   had blind relatives, 7395 having blind brothers, sisters or ancestors,
@@ -904,7 +904,7 @@ Nativity._
   million in 1885. The number of institutions was 28, nearly all being
   educational, with a total of 2139 pupils. All these institutions,
   except two which are supported entirely by private munificence, are
-  largely assisted by the state, the communes or the provinces.
+  largely assisted by the state, the [[Commune|communes]] or the provinces.
   Seventeen of them derive their entire requirements from the state, so
   that they are quite independent of private charity, while the
   remainder are only supplemented from public funds so far as the
@@ -938,8 +938,8 @@ Nativity._
   decided that, on the discharge of the blind person, the director
   should select a trustworthy person, residing in his future place of
   abode, to give him advice and practical help, to protect him from
-  imposition, and to keep up communication with the director. If this
-  guardian is unable to advise or help, he then writes to the director,
+  [[Imposition|imposition]], and to keep up communication with the director. If this
+  [[Guardian|guardian]] is unable to advise or help, he then writes to the director,
   who, if necessary, comes to the place, and this is all the easier as
   he travels free on all railways in Saxony. The result of these visits,
   as well as all communications from the guardian, the letters from the
@@ -979,11 +979,11 @@ Nativity._
   The number of the blind in Holland, according to the census of the 1st
   of December 1869, was 1593, or one in every 2247 of the general
   population. The Protestants and Roman Catholics were about equally
-  balanced. No cognizance was taken of the blind in the census of 1879.
+  balanced. No [[Cognizance|cognizance]] was taken of the blind in the census of 1879.
   There is only one blind institution, that of Amsterdam, with 60
   pupils, with a preparatory school at Benuchem (with 20 pupils) and an
   asylum for adults with 52 inmates (unmarried). Besides these, there
-  are workshops at Amsterdam, Rotterdam, the Hague, Utrecht and
+  are workshops at Amsterdam, Rotterdam, the [[Hague]], Utrecht and
   Middelburg.
 
 
@@ -1063,9 +1063,9 @@ Nativity._
   total population of about 2,000,000 inhabitants, the proportion
   reaching the very high figure of one for every 251 of the total
   population. Nevertheless there were only 160 of school age. For these
-  there are two institutions, one at Helsingfors where the instruction
+  there are two institutions, one at [[Helsingfors]] where the instruction
   is given in the Swedish language, and where there are about 12 pupils,
-  and another at Kuopio, where the instruction is given in the Finnish
+  and another at [[Kuopio]], where the instruction is given in the Finnish
   language, and where the pupils number about 30.
 
 
@@ -1114,7 +1114,7 @@ Nativity._
   mothers from washing their children from the time of birth until they
   are two years old, at which late date only they are weaned. There is
   also a great deal of infection carelessly and ignorantly conveyed
-  direct from eye to eye, by means of unwashed fingers, and this is
+  direct from eye to eye, by means of unwashed [[Finger|fingers]], and this is
   accountable for the occurrence of much more eye-disease than any that
   may be caused by the proverbial flies. The only employment followed by
   the blind, both Mahommedan and Coptic (or native Christian), and that
@@ -1140,7 +1140,7 @@ Nativity._
   and welfare of the blind in Egypt, on lines suggested to her. This,
   through the British and Foreign Blind Association, was submitted to
   Queen Victoria, who graciously commanded it to be sent, through the
-  foreign office, to the khedive, who in mark of approbation and
+  [[Foreign Office|foreign office]], to the khedive, who in mark of approbation and
   encouragement generously gave a handsome donation towards its
   realization. The Institution for the Blind was established at Zeitoun,
   Cairo, early in the year 1901, through funds provided by Mrs T.R.
@@ -1160,13 +1160,13 @@ Nativity._
   of organized effort to educate them, though many of the missionaries
   had helped individual cases. At Amritsar a large and well-organized
   work for the blind has been carried on for many years. This school has
-  now been moved to Rajpur, and helps 70 blind women and children. In
+  now been moved to Rajpur, and [[Helps|helps]] 70 blind women and children. In
   1903 a government school and hospital were established at Bombay as a
   memorial to Queen Victoria. Reading, writing, arithmetic, tailoring,
   typewriting, carpentering, lathe-work and carpet-weaving are taught.
-  There are small schools at Parantij, Calcutta, Palancottah, Calicut,
-  Coorg, Chota-Nagpur, and at Moulmein in Burma. The memorial to Queen
-  Victoria in Ceylon took the form of work for the blind. J. Knowles,
+  There are small schools at Parantij, [[Calcutta]], Palancottah, Calicut,
+  Coorg, Chota-Nagpur, and at Moulmein in [[Burma]]. The memorial to Queen
+  Victoria in Ceylon took the form of work for the blind. J. [[Knowles]],
   with the help of L. Garthwaite of the Indian Civil Service, devised a
   scheme of oriental Braille, which has been adopted by the British and
   Foreign Bible Society for the production of the Scriptures in Eastern
@@ -1176,7 +1176,7 @@ Nativity._
     China.
 
   Blindness is very prevalent in China, and to eye-diseases, neglect and
-  dirt, must be added leprosy and smallpox as causes. Blind beggars may
+  dirt, must be added [[Leprosy|leprosy]] and smallpox as causes. Blind beggars may
   be seen on every highway, clamouring for alms. As in India their
   pitiful condition attracted the attention of the missionaries. W.H.
   Murray, a Scottish missionary in Peking, made a simple and ingenious
@@ -1187,16 +1187,16 @@ Nativity._
   instantly the sound for which it stands. A school for the blind was
   established at Peking, and the version of the Scriptures printed at
   Peking can be read in all the provinces where the Northern Mandarin
-  dialect is spoken (see Miss Gordon Cumming, _The Inventor of the
-  Numeral Type for China_). A Braille code has recently been arranged
-  for Mandarin, based on a system of initials and finals, by Miss
+  dialect is spoken (see Miss Gordon [[Cumming]], _The Inventor of the
+  Numeral Type for China_). A Braille [[Code|code]] has recently been arranged
+  for Mandarin, based on a system of [[Initials|initials]] and finals, by Miss
   Garland of the China Inland Mission. At Foochow there is a large
   school for boys and girls in connexion with the Church Missionary
   Society. At Ningpo, Amoy, Canton and Fukien work for the blind is
   carried on by the missionaries.
 
 
-    Japan.
+    [[Japan]].
 
   The blind in Japan have long been trained in massage, acupuncture and
   music, and until recently, with few exceptions, none but the blind
@@ -1233,9 +1233,9 @@ results in inaction. If no one encourages a blind child to move, he will
 sit quietly in a corner, and when he leaves his seat will move timidly
 about. This want of activity produces bad physical effects, and further
 delays mental growth. The blind are often injured, some of them ruined
-for life, through the ignorance and mistaken kindness of their friends
+for life, through the [[Ignorance|ignorance]] and mistaken kindness of their friends
 during early childhood. They should be taught to walk, to go up and down
-stairs, to wash, dress and feed themselves.
+stairs, to wash, [[Dress|dress]] and feed themselves.
 
 They should be carefully taught correct postures and attitudes, and to
 avoid making grimaces. They should be told the requirements of social
@@ -1288,7 +1288,7 @@ and the physical training should include various kinds of mass and
 apparatus work. Large and suitable playgrounds are also essential.
 Besides a free space where they can run and play, it should have a
 supply of swings, tilts, jumping-boards, stilts, chars-a-bancs,
-skittle-alleys, &c. Any game that allows of sides being taken adds
+skittle-alleys, &c. Any [[Game|game]] that allows of sides being taken adds
 greatly to the enjoyment, and is a powerful incentive to play. The
 pupils should be encouraged to enter into various competitions, as
 walking, running, jumping, leap-frog, sack-racing, shot-pitching,
@@ -1314,10 +1314,10 @@ choice of subjects must depend upon his future career. Above all,
 stimulate a love of good reading.
 
 
-  Early manual training.
+  Early [[Manual|manual]] training.
 
 From the earliest years manual dexterity should be cultivated by
-kindergarten work, modelling, sewing, knitting and sloyd. Blind children
+kindergarten work, modelling, sewing, [[Knitting|knitting]] and sloyd. Blind children
 who have not had the advantage of this early handwork find much more
 difficulty when they begin a regular course in technical training. Early
 manual training cultivates the perceptive faculties, gives activity to
@@ -1418,7 +1418,7 @@ training, care must be taken to implant business habits. Blind children
 are allowed to be idle and helpless at home; they do not learn to
 appreciate the value of time, and in after years this is one of the most
 difficult lessons to inculcate. Having drifted through childhood, they
-are content to drift through life. The important habits of punctuality,
+are content to [[Drift|drift]] through life. The important habits of punctuality,
 regularity and precision should be cultivated in all the arrangements
 and requirements. A great effort should be made to lift the blind from
 pauperism. As soon as pupils enter a school, all semblance of pauper
@@ -1428,7 +1428,7 @@ blindness has been so long and closely associated with dependence and
 pauperism that schools for the blind, even the most progressive, have
 been regarded hitherto as asylums rather than educational
 establishments. A sad mistake in the training of the blind is the lack
-of an earnest effort to improve their social condition. The fact that
+of an [[Earnest|earnest]] effort to improve their social condition. The fact that
 their education has been left to charity has helped to keep them in the
 ranks of dependents.
 
@@ -1460,7 +1460,7 @@ streets in consequence of intermarriage.
 
 In every school or class there will be a certain number of young blind
 children who, from neglect, want of food, or other causes, are feeble in
-body and defective in intellect; such children are a great burden in any
+body and defective in [[Intellect|intellect]]; such children are a great burden in any
 class or school, and require special treatment and instruction.
 Educational authorities should unite and have one or two schools in a
 healthful locality for mentally defective blind children.
@@ -1495,17 +1495,17 @@ The United Kingdom stands almost alone in allowing the education of the
 blind to depend upon charity. In the United States, each state
 government not only makes liberal provision for the education and
 training of the blind, but most of them provide grounds, buildings and a
-complete equipment in all departments. Although it costs much more _per
+complete equipment in all departments. Although it [[Costs|costs]] much more _per
 capita_, from L40 to L60 per annum, the blind are as amply provided with
 the means of education as the seeing. The government of the United
 States appropriates $10,000 per annum for printing embossed books for
-the blind. Most of the European countries and the English colonies
+the blind. Most of the [[European Countries|European countries]] and the English colonies
 provide by taxation for the education of the blind.
 
 
 TYPES
 
-The earliest authentic records of tangible letters for the blind
+The earliest [[Authentic|authentic]] records of tangible letters for the blind
 describe a plan of engraving the letters upon blocks of wood, the
 invention of Francesco Lucas, a Spaniard, who dedicated it to Philip II.
 of Spain in the 16th century. In 1640 Pierre Moreau, a writing-master in
@@ -1515,7 +1515,7 @@ cushions were next tried, and large wooden letters. After these came a
 contrivance of Du Puiseaux, a blind man, who had metal letters cast and
 set them in a small frame with a handle. Whilst these experiments were
 going on in France, attempts had also been made in Germany. R.
-Weissembourg (a resident of Mannheim), who lost his sight when about
+Weissembourg (a resident of [[Mannheim]]), who lost his sight when about
 seven years of age, made use of letters cut in cardboard, and afterwards
 pricked maps in the same material. By this method he taught Mlle
 Paradis, the talented blind musician and the friend of Valentin Hauy.
@@ -1524,16 +1524,16 @@ To Hauy belongs the honour of being the first to emboss paper as a means
 of reading for the blind; his books were embossed in large and small
 italics, from movable type set by his pupils. The following is an
 account of the origin of his discovery. Hauy's first pupil was Francois
-Lesueur, a blind boy whom he found begging at the porch door of St
+[[Lesueur]], a blind boy whom he found begging at the porch door of St
 Germain des Pres. While Lesueur was sorting the papers on his teacher's
-desk, he came across a card strongly indented by the types in the press.
+[[Desk|desk]], he came across a card strongly indented by the types in the press.
 The blind lad showed his master he could decipher several letters on the
 card. Immediately Hauy traced with the handle of his pen some signs on
 paper. The boy read them, and the result was printing in relief, the
 greatest of Hauy's discoveries. In 1821 Lady Elizabeth Lowther brought
 embossed books and types from Paris, and with the types her son, Sir
-Charles Lowther, Bart., printed for his own use the Gospel of St
-Matthew. The work of Hauy was taken up by Mr Gall of Edinburgh, Mr
+Charles Lowther, Bart., printed for his own use the [[Gospel]] of St
+[[Matthew]]. The work of Hauy was taken up by Mr [[Gall]] of Edinburgh, Mr
 Alston of Glasgow, Dr Howe of Boston, Mr Friedlander of Philadelphia,
 and others. In 1827 James Gall of Edinburgh embossed some elementary
 works, and published the Gospel of St John in 1834. His plan was to use
@@ -1601,8 +1601,8 @@ for punctuation, contractions, &c.
 
   "For writing, a ruler is used, consisting of a metal bed either
   grooved or marked by groups of little pits, each group consisting of
-  six; over this bed is fitted a brass guide, punched with oblong holes
-  whose vertical diameter is three-tenths of an inch, while the
+  six; over this bed is fitted a [[Brass|brass]] guide, punched with oblong holes
+  whose vertical diameter is three-tenths of an [[Inch|inch]], while the
   horizontal diameter is two-tenths. The pits are arranged in two
   parallel lines, and the guide is hinged on the bed in such a way that
   when the two are locked together the openings in the guide correspond
@@ -1630,7 +1630,7 @@ for punctuation, contractions, &c.
   fourth row, similarly, by adding one lower front dot.
 
   "The first ten letters, when preceded by the prefix for numbers, stand
-  for the nine numbers and the cipher. The same signs, written in the
+  for the nine numbers and the [[Cipher|cipher]]. The same signs, written in the
   lower and middle grooves, instead of the upper and middle, serve for
   punctuation. The seven last letters of each series stand for the seven
   musical notes--the first series representing quavers, the second
@@ -1661,12 +1661,12 @@ British empire, European countries, Mexico, Brazil and Egypt.
 APPLIANCES FOR EDUCATIONAL WORK
 
 The apparatus for writing point alphabets has already been described.
-Frank H. Hall, former superintendent of the School for the Blind,
+[[Frank]] H. Hall, former superintendent of the School for the Blind,
 Jacksonville, Ill., U.S.A., has invented a Braille typewriter and
 stereotype maker; the latter embosses metal plates from which any number
 of copies can be printed. An automatic Braille-writer has been brought
 out in Germany, and William B. Wait (principal of the Institution for
-the Blind in New York City) has invented a machine for writing New York
+the Blind in New York City) has invented a [[Machine|machine]] for writing New York
 point. These machines are expensive, but A. Wayne of Birmingham has
 brought out a cheap and effective Braille-writer. H. Stainsby, secretary
 of the Birmingham institution, and Wayne have invented a machine for
@@ -1704,9 +1704,9 @@ furnishes the best and most lucrative employment for the blind. But
 those who have not the ability, or are too old to be trained for music
 or some other profession, must depend upon handicrafts for their
 support. The principal ones taught in the various institutions are the
-making of baskets, brushes, mats, sacks, ships' fenders, brooms and
+making of baskets, brushes, [[Mat|mats]], sacks, ships' [[Fender|fenders]], brooms and
 mattresses, upholstery, wire-work, chair-caning, wood-chopping, &c.
-Females are taught to make fancy baskets and brushes, chair-caning,
+Females are taught to make [[Fancy|fancy]] baskets and brushes, chair-caning,
 knitting, netting, weaving, sewing--hand and machine--crocheting, &c. It
 is difficult to find employment for blind girls. It is hoped that
 typewriting and massage will prove remunerative.
@@ -1790,7 +1790,7 @@ prominent blind people in history:--
 
   Aufidius, a Roman senator.
 
-  Bela II. (d. 1141), king of Hungary.
+  [[Bela]] II. (d. 1141), king of Hungary.
 
   John, king of Bohemia (1296-1346), killed in the battle of Crecy.
 
@@ -1802,12 +1802,12 @@ prominent blind people in history:--
 
   Diodorus, the instructor of Cicero.
 
-  Didymus of Alexandria (c. 308-395), mathematician, theologian and
+  [[Didymus]] of Alexandria (c. 308-395), mathematician, theologian and
   linguist.
 
-  Nicase of Malines (d. 1492), professor of law in the university of
-  Cologne. The degree of doctor of divinity was conferred on him by the
-  university of Louvain, and the pope granted a dispensation suspending
+  Nicase of [[Malines]] (d. 1492), professor of law in the university of
+  [[Cologne]]. The degree of doctor of divinity was conferred on him by the
+  university of Louvain, and the pope granted a [[Dispensation|dispensation]] suspending
   the law of the Church, that he might be ordained as a priest.
 
   Ludovico Scapinelli (b. 1585), professor at the universities of
@@ -1822,7 +1822,7 @@ prominent blind people in history:--
   Nicholas Bacon (16th century), doctor of laws in the university of
   Brussels.
 
-  Count de Pagan of Avignon (b. 1604), mathematician of note.
+  Count de Pagan of [[Avignon]] (b. 1604), mathematician of note.
 
   John Milton (1608-1674), the poet.
 
@@ -1835,21 +1835,21 @@ prominent blind people in history:--
   was appointed organist of All-Hallows, Bread Street, at the age of
   eleven. He graduated as Mus. Bac. at Oxford when sixteen, and was
   organist of the Temple church at the age of twenty-one. He composed a
-  number of cantatas, and after the death of Handel he superintended the
+  number of cantatas, and after the death of [[Handel]] he superintended the
   performance of Handel's oratorios at Covent Garden. He received the
   degree of doctor of music, and was master of the king's band.
 
-  Leonard Euler (1707-1783), the celebrated mathematician and
+  Leonard [[Euler]] (1707-1783), the celebrated mathematician and
   astronomer.
 
   John Metcalf (b. 1717), road-builder and contractor.
 
-  Sir John Fielding (d. 1780), eminent lawyer and magistrate.
+  Sir John Fielding (d. 1780), eminent lawyer and [[Magistrate|magistrate]].
 
   Thomas Blacklock (q.v.; 1721-1791), Scottish scholar and poet.
 
-  Francois Huber (1750-1831), Swiss naturalist, noted for his
-  observations on bees.
+  Francois [[Huber]] (1750-1831), Swiss naturalist, noted for his
+  observations on [[Bee|bees]].
 
   Edward Rushton (b. 1756). At six years of age he entered the Liverpool
   free grammar school, and at eleven shipped for his first voyage in a
@@ -1858,9 +1858,9 @@ prominent blind people in history:--
   swam for their lives to a floating cask; the negro reached it first,
   saw Rushton about to sink, pushed the cask to the failing lad, and
   struck out for the shore, but never reached it. This incident made
-  Rushton an enthusiastic champion through life of the cause of the
-  negro. During a voyage to Dominica malignant ophthalmia broke out
-  among the slave cargo, and Rushton caught the disease by attending
+  Rushton an enthusiastic [[Champion|champion]] through life of the cause of the
+  negro. During a voyage to [[Dominica]] malignant ophthalmia broke out
+  among the slave [[Cargo|cargo]], and Rushton caught the disease by attending
   them in the hold when all others refused help. This attack deprived
   him of sight, and cut short a promising nautical career at the age of
   nineteen. He struggled bravely against difficulties, and besides
@@ -1873,7 +1873,7 @@ prominent blind people in history:--
   and as her parents possessed rank and wealth, no expense was spared in
   her education. Weissembourg,  a blind man, was her tutor, and she
   learned to spell with letters cut out of pasteboard, and read words
-  pricked upon cards with pins. She studied the piano with Richter (of
+  pricked upon [[Cards|cards]] with pins. She studied the piano with Richter (of
   Holland) and Kozeluch. She was a highly esteemed pianist, and Mozart
   wrote a concerto for her; she also attained considerable skill on the
   organ, in singing and in composition. She made a concert tour of
@@ -1883,12 +1883,12 @@ prominent blind people in history:--
   Hauy. Towards the close of her life she devoted herself to teaching
   singing and the pianoforte with great success.
 
-  James Holman (q.v.; 1786-1857), traveller.
+  James [[Holman]] (q.v.; 1786-1857), traveller.
 
   William H. Prescott (q.v.; 1796-1859), the American historian.
 
   Several early 19th-century musicians held situations as organists in
-  London; among them Grenville, Scott, Lockhart, Mather, Stiles and
+  London; among them [[Grenville]], Scott, Lockhart, Mather, Stiles and
   Warne.
 
   Louis Braille (1809-1852). In 1819 he went to the school for the blind
@@ -1903,7 +1903,7 @@ prominent blind people in history:--
   Dr William Moon (1818-1894), the inventor of the type for the blind
   which bears his name.
 
-  Rev. W.H. Milburn, D.D. (1823-1903), the American chaplain, known in
+  Rev. W.H. Milburn, D.D. (1823-1903), the American [[Chaplain|chaplain]], known in
   the United States as "The Blind Man Eloquent." He often travelled from
   thirty to fifty thousand miles a year, speaking and preaching every
   day. He was three times chaplain of the House of Representatives, and
@@ -1921,7 +1921,7 @@ prominent blind people in history:--
 
   Elizabeth Gilbert (b. 1826), daughter of the bishop of Chichester. She
   lost her sight at the age of three. She was educated at home, and took
-  her full share of household duties and cares and pleasures. When she
+  her full share of household duties and [[Car|cares]] and pleasures. When she
   was twenty-seven, she began to consider the condition of the poor
   blind of London. She saw some one must befriend those who had been
   taught trades, some one who could supply material, give employment or
@@ -1931,24 +1931,24 @@ prominent blind people in history:--
   factory, and the Association for Promoting the General Welfare of the
   Blind was founded.
 
-  Rev. George Matheson, D.D. (b. 1842), preacher and writer of the
+  Rev. George [[Matheson]], D.D. (b. 1842), preacher and writer of the
   Church of Scotland. The degree of D.D. was conferred on him by the
-  university of Edinburgh in 1879, and he was appointed Baird Lecturer
+  university of Edinburgh in 1879, and he was appointed [[Baird]] Lecturer
   in 1881, and St Giles' Lecturer in 1882.
 
   Henry Fawcett (1833-1884), professor of political economy at
   Cambridge, and postmaster-general.
 
   W.H. Churchman of Pennsylvania, who was instrumental in establishing
-  the schools for the blind in Tennessee, Indiana and Wisconsin.
+  the schools for the blind in Tennessee, [[Indiana]] and Wisconsin.
 
   H.L. Hall, founder of the workshops and home for the blind in
   Philadelphia; by his energetic management he raised the standard of
   work for the adult blind throughout America.
 
-  BIBLIOGRAPHY.--See also W.H. Levy, _Blindness and the Blind_ (1872);
+  BIBLIOGRAPHY.--See also W.H. [[Levy]], _Blindness and the Blind_ (1872);
   J. Wilson, _Biography of the Blind_ (1838); Dr T.R. Armitage,
-  Education and Employment of the Blind (2nd ed., 1882); R.H. Blair,
+  Education and Employment of the Blind (2nd ed., 1882); R.H. [[Blair]],
   _Education of the Blind_ (1868); M. Anagnos, _Education of the Blind_
   (1882); H.J. Wilson, _Institutions, Societies and Classes for the
   Blind in England and Wales_ (1907); Guillie, _Instruction and

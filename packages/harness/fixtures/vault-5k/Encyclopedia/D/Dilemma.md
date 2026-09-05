@@ -9,14 +9,14 @@ topic: ethics
 DILEMMA (Gr. [Greek: dilêmma], a double proposition, from [Greek: di-]
 and [Greek: lambanein]), a term used technically in logic, and popularly
 in common parlance and rhetoric. (1) The latter use has no exact
-definition, but in general it describes a situation wherein from either
+[[Definition|definition]], but in general it describes a situation wherein from either
 of two (or more) possible alternatives an unsatisfactory conclusion
-results. The alternatives are called the "horns" of the dilemma. Thus a
-nation which has to choose between bankruptcy and the repudiation of its
+results. The alternatives are called the "[[Horn|horns]]" of the dilemma. Thus a
+nation which has to choose between [[Bankruptcy|bankruptcy]] and the repudiation of its
 debts is on the horns of a dilemma. (2) In logic there is considerable
 divergence of opinion as to the best definition. Whately defined it as
 "a conditional syllogism with two or more antecedents in the major and a
-disjunctive minor." Aulus Gellius gives an example as follows:--"Women
+disjunctive minor." Aulus [[Gellius]] gives an example as follows:--"Women
 are either fair or ugly; if you marry a fair woman, she will attract
 other men; if an ugly woman she will not please you; therefore marriage
 is absurd." From either alternative, an unpleasant result follows. Four

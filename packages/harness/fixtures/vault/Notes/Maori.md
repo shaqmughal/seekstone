@@ -16,7 +16,7 @@ farther, "Hawaiki." "The seed of our coming is from Hawaiki; the seed of
 our nourishing, the seed of mankind." Their great chief, Te Kupe, first
 landed, they say, on Aotearoa, as they called the north island, and,
 pleased with his discovery, returned to Hawaiki to tell his
-fellow-countrymen. Thereafter he returned with seven war canoes, each
+fellow-countrymen. Thereafter he returned with seven war [[Canoe|canoes]], each
 holding a hundred warriors, priests, stone idols and sacred weapons, as
 well as native plants and animals. Hawaiki, the name of Te Kupe's
 traditional home, is identical with several other Polynesian
@@ -37,7 +37,7 @@ resemble those of Samoa. Thus it would seem certain that the Maoris,
 starting from "further Hawaiki," or Samoa, first touched at Rarotonga,
 "nearer Hawaiki," whence, after forming a settlement, they journeyed on
 to New Zealand. Maori tradition is explicit as to the cause of the
-exodus from Samoa, gives the names of the canoes in which the journey
+[[Exodus|exodus]] from Samoa, gives the names of the canoes in which the journey
 was made and the time of year at which the coast of New Zealand was
 sighted. On the question of the date a comparison of genealogies of
 Maori chiefs shows that, up to the beginning of the 20th century, about
@@ -48,7 +48,7 @@ the Polynesian race with New Zealand. If earlier immigrants from Samoa
 or other eastern Pacific islands arrived they must have become absorbed
 into the native Papuan population--arguing from the absence of any
 distinct tradition earlier than that "of the six canoes." Some have
-sought to find in the Morioris of Chatham Island the remnants of this
+sought to find in the Morioris of [[Chatham]] Island the remnants of this
 Papuan-Polynesian population, expelled by Te Kupe and his followers. The
 extraordinary ruined fortifications found, and the knowledge of the
 higher art of war displayed by the Maoris, suggest (what is no doubt the
@@ -73,7 +73,7 @@ elaborate.
 Among the most industrious of Polynesian races, they have always been
 famed for wood-carving; and in building, weaving and dyeing they had
 made great advances before the whites arrived. They are also good
-farmers and bold seamen. In the Maori wars they showed much strategic
+[[Farmer|farmers]] and bold seamen. In the Maori wars they showed much strategic
 skill, and their knowledge of fortification was very remarkable.
 Politically the Maoris have always been democratic. No approach to a
 monarchy ever existed. Each tribe under its chief was autonomous. Tribal
@@ -81,9 +81,9 @@ lands were held in common and each man was entitled to a share in the
 products. They had slaves, but so few as not to alter the social
 conditions. Every Maori was a soldier, and war was the chief business
 and joy of his life. Tribal wars were incessant. The weapons were wooden
-spears, clubs and stone tomahawks. Cannibalism, which earned them in
+spears, clubs and stone tomahawks. [[Cannibalism]], which earned them in
 earlier years a terrible name, was generally restricted to the
-bloodthirsty banquets which always followed a victory. The Maoris ate
+bloodthirsty banquets which always followed a victory. The Maoris [[Ate|ate]]
 their enemies' hearts to gain their courage, but to whatever degree
 animistic beliefs may have once contributed to their cannibalism, it is
 certain that long before Captain Cook's visit religious sanction for the
@@ -97,7 +97,7 @@ the men into battle. Some tribes were endogamic, and there matriarchy
 was the rule, descent being traced through the female line. Ferocious as
 they were in war, the Maoris are generally hospitable and affectionate
 in their home-life, and a pleasant characteristic, noticed by Captain
-Cook, is their respect and care of the old. The Maoris buried their
+[[Cook]], is their respect and care of the old. The Maoris buried their
 dead, the cemeteries being ornamented with carved posts. Their religion
 was a nature-worship intimately connected with the veneration of
 ancestors. There was a belief in the soul, which was supposed to dwell

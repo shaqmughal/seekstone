@@ -7,7 +7,7 @@ id: 42-5008
 
 # Labici
 
-LABICI, an ancient city of Latium, the modern Monte Compatri, about 17
+LABICI, an ancient city of [[Latium]], the modern Monte Compatri, about 17
 m. S.E. from Rome, on the northern slopes of the Alban Hills, 1739 ft.
 above sea-level. It occurs among the thirty cities of the Latin League,
 and it is said to have joined the Aequi in 419 B.C. and to have been

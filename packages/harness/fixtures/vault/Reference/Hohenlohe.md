@@ -37,7 +37,7 @@ The existing branches of the Hohenlohe family are descended from the
 lines of Hohenlohe-Neuenstein and Hohenlohe-Waldenburg, established in
 1551. The former of these became Protestant, while the latter remained
 Catholic. Of the family of Hohenlohe-Neuenstein, which underwent several
-partitions and inherited Gleichen in 1631, the senior line became
+partitions and inherited [[Gleichen]] in 1631, the senior line became
 extinct in 1805, while in 1701 the junior line divided itself into
 three branches, those of Langenburg, Ingelfingen and Kirchberg.
 Kirchberg died out in 1861, but members of the families of
@@ -49,38 +49,38 @@ was soon divided into three branches, but two of these had died out by
 the lines of Hohenlohe-Schillingsfurst and Hohenlohe-Bartenstein; other
 divisions followed, and the four existing lines of this branch of the
 family are those of Waldenburg, Schillingsfurst, Jagstberg and
-Bartenstein. The family of Hohenlohe-Schillingsfurst possesses the
-duchies of Ratibor and of Corbie inherited in 1824.
+[[Bartenstein]]. The family of Hohenlohe-Schillingsfurst possesses the
+duchies of Ratibor and of [[Corbie]] inherited in 1824.
 
 The principal members of the family are dealt with below.
 
-I. FRIEDRICH LUDWIG, prince of Hohenlohe-Ingelfingen (1746-1818),
+I. [[Friedrich|FRIEDRICH]] LUDWIG, prince of Hohenlohe-Ingelfingen (1746-1818),
 Prussian general, was the eldest son of Prince Johann Friedrich (d.
 1796) of Hohenlohe-Ingelfingen, and began his military career as a boy,
 serving against the Prussians in the last years of the Seven Years' War.
 Entering the Prussian army after the peace (1768), he was on account of
-his rank at once made major, and in 1775 he became lieutenant-colonel;
+his rank at once made [[Major|major]], and in 1775 he became lieutenant-colonel;
 in 1778 he took part in the War of the Bavarian Succession and about the
 same time was made a colonel. Shortly before the death of Frederick the
 Great he was promoted to the rank of major-general and appointed chief
-of a regiment. For some years the prince did garrison duty at Breslau,
+of a regiment. For some years the prince did [[Garrison|garrison]] duty at Breslau,
 until in 1791 he was made governor of Berlin. In 1794 he commanded a
-corps in the Prussian army on the Rhine and distinguished himself
+[[Corps|corps]] in the Prussian army on the Rhine and distinguished himself
 greatly in many engagements, particularly in the battle of
-Kaiserslautern on the 20th of September. He was at this time the most
+[[Kaiserslautern]] on the 20th of September. He was at this time the most
 popular soldier in the Prussian army. Blucher wrote of him that "he was
 a leader of whom the Prussian army might well be proud." He succeeded
 his father in the principality, and acquired additional lands by his
 marriage with a daughter of Count von Hoym. In 1806 Hohenlohe, now a
 general of infantry, was appointed to command the left-wing army of the
 Prussian forces opposing Napoleon, having under him Prince Louis
-Ferdinand of Prussia; but, feeling that his career had been that of a
+[[Ferdinand]] of Prussia; but, feeling that his career had been that of a
 prince and not that of a scientific soldier, he allowed his
-quartermaster-general Massenbach to influence him unduly. Disputes soon
+quartermaster-general [[Massenbach]] to influence him unduly. Disputes soon
 broke out between Hohenlohe and the commander-in-chief, the duke of
 Brunswick, the armies marched hither and thither without effective
 results, and finally Hohenlohe's army was almost destroyed by Napoleon
-at Jena (see NAPOLEONIC CAMPAIGNS). The prince displayed his usual
+at [[Jena]] (see NAPOLEONIC CAMPAIGNS). The prince displayed his usual
 personal bravery in the battle, and managed to rally a portion of his
 corps near Erfurt, whence he retired into Prussia. But the pursuers
 followed him up closely, and, still acting under Massenbach's advice, he
@@ -107,7 +107,7 @@ of General Pichegru, conducted a masterly retreat from the island of
 Bommel. From 1794 to 1799 he served as colonel in the Austrian
 campaigns; in 1799 he was named major-general by the archduke Charles;
 and after obtaining the rank of lieutenant-general he was appointed by
-the emperor governor of the two Galicias. Napoleon offered to restore to
+the emperor governor of the two [[Galicia|Galicias]]. Napoleon offered to restore to
 him his principality on condition that he adhered to the confederation
 of the Rhine, but as he refused, it was united to Wurttemberg. After
 Napoleon's fall in 1814 he entered the French service, and in 1815 he
@@ -115,22 +115,22 @@ held the command of a regiment raised by himself, with which he took
 part in the Spanish campaign of 1823. In 1827 he was created marshal and
 peer of France. He died at Luneville on the 30th of May 1829.
 
-III. ALEXANDER LEOPOLD FRANZ EMMERICH, prince of
+III. ALEXANDER [[Leopold|LEOPOLD]] [[Franz|FRANZ]] [[Emmerich|EMMERICH]], prince of
 Hohenlohe-Waldenburg-Schillingsfurst (1794-1849), priest and reputed
 miracle-worker, was born at Kupferzell, near Waldenburg, on the 17th of
 August 1794. By his mother, the daughter of an Hungarian nobleman, he
-was from infancy destined for the church; and she entrusted his early
+was from [[Infancy|infancy]] destined for the church; and she entrusted his early
 education to the ex-Jesuit Riel. In 1804 he entered the "Theresianum" at
-Vienna, in 1808 the academy at Bern, in 1810 the archiepiscopal seminary
+Vienna, in 1808 the academy at [[Bern]], in 1810 the archiepiscopal seminary
 at Vienna, and afterwards he studied at Tyrnau and Ellwangen. He was
 ordained priest in 1815, and in the following year he went to Rome,
 where he entered the society of the "Fathers of the Sacred Heart."
 Subsequently, at Munich and Bamberg, he was blamed for Jesuit and
 obscurantist tendencies, but obtained considerable reputation as a
 preacher. His first co-called miraculous cure was effected, in
-conjunction with a peasant, Martin Michel, on a princess of
+conjunction with a peasant, [[Martin]] Michel, on a princess of
 Schwarzenberg who had been for some years paralytic. Immediately he
-acquired such fame as a performer of miraculous cures that multitudes
+acquired such fame as a performer of miraculous [[Cures|cures]] that multitudes
 from various countries flocked to partake of the beneficial influence of
 his supposed supernatural gifts. Ultimately, on account of the
 interference of the authorities with his operations, he went in 1821 to
@@ -156,7 +156,7 @@ Transylvanian frontier during the Crimean War, he was made a captain on
 the general staff, and in 1856 personal aide-de-camp to the king,
 remaining, however, in close touch with the artillery. In 1864, having
 become in the meanwhile successively major and lieut.-colonel, he
-resigned the staff appointments to become commander of the new Guard
+resigned the staff appointments to become [[Commander|commander]] of the new Guard
 Field Artillery regiment and in the following year he became colonel. In
 1866 he saw his first real active service. In the bold advance of the
 Guard corps on the Austrian right wing at Koniggratz (see SEVEN WEEKS'
@@ -165,7 +165,7 @@ success, and after the short war ended he turned his energies, now
 fortified by experience, to the better tactical training of the Prussian
 artillery. In 1868 he was made a major-general and assigned to command
 the Guard artillery brigade. In this capacity he gained great
-distinction during the Franco-German war and especially at Gravelotte
+distinction during the [[Franco-German War|Franco-German war]] and especially at Gravelotte
 and Sedan; he was in control of the artillery attack on the
 fortifications of Paris. In 1873 he was placed in command of an infantry
 division, and three years later was promoted lieutenant-general. He
@@ -174,12 +174,12 @@ artillery in 1889. His military writings were numerous, and amongst
 them several have become classics. These are _Briefe uber Artillerie_
 (Eng. trans. _Letters on Artillery_, 1887); _Briefe uber Strategie_
 (1877; Eng. trans. _Letters on Strategy_, 1898); and _Gesprache uber
-Reiterei_ (1887; Eng. trans. _Conversations on Cavalry_). The _Briefe
+Reiterei_ (1887; Eng. trans. _Conversations on [[Cavalry]]_). The _Briefe
 uber Infanterie_ and _Briefe uber Kavallerie_ (translated into English,
 _Letters on Infantry_, _Letters on Cavalry_, 1889) are of less
 importance, though interesting as a reflection of prevailing German
 ideas. His memoirs (_Aus meinem Leben_) were prepared in retirement near
-Dresden, and the first volume (1897) created such a sensation that eight
+[[Dresden]], and the first volume (1897) created such a sensation that eight
 years were allowed to elapse before the publication was continued.
 Prince Kraft died near Dresden on the 16th of January 1892.
      (C. F. A.)
@@ -188,24 +188,24 @@ V. CHLODWIG KARL VICTOR, prince of Hohenlohe-Schillingsfurst
 (1819-1901), statesman, was born on the 31st of March 1819 at
 Schillingsfurst in Bavaria. His father, Prince Franz Joseph (1787-1841),
 was a Catholic, his mother, Princess Konstanze of Hohenlohe-Langenburg,
-a Protestant. In accordance with the compromise customary at the time,
+a Protestant. In accordance with the [[Compromise|compromise]] customary at the time,
 Prince Chlodwig and his brothers were brought up in the religion of
 their father, while his sisters followed that of their mother. In spite
 of the difference of creed the family was very united, and it was to the
 spirit that rendered this possible that the prince owed his liberal and
 tolerant point of view, which was to exercise an important influence on
-his political activity. As the younger son of a cadet line of his house
+his political activity. As the younger son of a [[Cadet|cadet]] line of his house
 it was necessary for Prince Chlodwig to follow a profession. For a while
 he thought of obtaining a commission in the British army through the
 influence of his aunt, Princess Feodora of Hohenlohe-Langenburg (_nee_
-princess of Leiningen), Queen Victoria's half-sister. He decided,
+princess of [[Leiningen]]), Queen Victoria's half-sister. He decided,
 however, to enter the Prussian diplomatic service. His application to be
 excused the preliminary steps, which involved several years' work in
 subordinate positions in the Prussian civil service, was refused by
 Frederick William IV., and the prince, with great good sense, decided to
 sacrifice his pride of rank and to accept the king's conditions. As
 auscultator in the courts at Coblenz he acquired a taste for
-jurisprudence, became a _Referendar_ in September 1843, and after some
+[[Jurisprudence|jurisprudence]], became a _Referendar_ in September 1843, and after some
 months of travel in France, Switzerland and Italy went to Potsdam as a
 civil servant (May 13, 1844). These early years were invaluable, not
 only as giving him experience of practical affairs but as affording him
@@ -225,10 +225,10 @@ unification of Germany possible by insisting at once on the principle of
 union with the North German states and at the same time on the
 preservation of the individuality of the states of the South.
 
-On the 12th of November 1834 the landgrave Viktor Amadeus of
+On the 12th of November 1834 the [[Landgrave|landgrave]] Viktor Amadeus of
 Hesse-Rotenburg died, leaving to his nephews, the princes Viktor and
 Chlodwig Hohenlohe, his allodial estates: the duchy of Ratibor in
-Silesia, the principality of Corvey in Westphalia, and the lordship of
+Silesia, the principality of [[Corvey]] in Westphalia, and the lordship of
 Treffurt in the Prussian governmental district of Erfurt. On the death
 of Prince Franz Joseph on the 14th of January 1841 it was decided that
 the principality of Schillingsfurst should pass to the third brother,
@@ -244,7 +244,7 @@ This involved a complete change in Prince Chlodwig's career. His new
 position as a "reigning" prince and hereditary member of the Bavarian
 Upper House was incompatible with that of a Prussian official. On the
 18th of April 1846 he took his seat as a member of the Bavarian
-_Reichsrath_, and on the 26th of June received his formal discharge from
+_Reichsrath_, and on the 26th of June received his formal [[Discharge|discharge]] from
 the Prussian service.
 
 Save for the interlude of 1848 the political life of Prince Hohenlohe
@@ -263,7 +263,7 @@ Lithuania (1851-1853) in connexion with the management of the property,
 a visit repeated in 1860. In general this period of Hohenlohe's life was
 occupied in the management of his estates, in the sessions of the
 Bavarian _Reichsrath_ and in travels. In 1856 he visited Rome, during
-which he noted the baneful influence of the Jesuits. In 1859 he was
+which he noted the baneful influence of the [[Jesuits]]. In 1859 he was
 studying the political situation at Berlin, and in the same year he paid
 a visit to England. The marriage of his brother Konstantin in 1859 to
 another princess of Sayn-Wittgenstein-Berleburg led also to frequent
@@ -275,7 +275,7 @@ affairs. Towards the German question his attitude at this time was
 tentative. He had little hope of a practical realization of a united
 Germany, and inclined towards the tripartite divisions under Austria,
 Prussia and Bavaria--the so-called "Trias." He attended the _Furstentag_
-at Frankfort in 1863, and in the Schleswig-Holstein question was a
+at [[Frankfort]] in 1863, and in the Schleswig-Holstein question was a
 supporter of the prince of Augustenburg. It was at this time that, at
 the request of Queen Victoria, he began to send her regular reports on
 the political condition of Germany.
@@ -315,8 +315,8 @@ of strong opposition to the ultramontane position. In common with his
 brothers, the duke of Ratibor and the cardinal, he believed that the
 policy of Pius IX.--inspired by the Jesuits (that "devil's society," as
 he once called it)--of setting the Church in opposition to the modern
-State would prove ruinous to both, and that the definition of the dogma
-of papal infallibility, by raising the pronouncements of the Syllabus of
+State would prove ruinous to both, and that the [[Definition|definition]] of the dogma
+of papal [[Infallibility|infallibility]], by raising the pronouncements of the Syllabus of
 1864 into articles of faith, would commit the Church to this policy
 irrevocably. This view he embodied into a circular note to the Catholic
 powers (April 9, 1869), drawn up by Dollinger, inviting them to exercise
@@ -352,12 +352,12 @@ Bismarck proposed to appoint Cardinal Hohenlohe Prussian envoy at the
 Vatican, but his views were too much in harmony with those of his
 family, and the pope refused to receive him in this capacity.[4]
 
-In 1873 Bismarck chose Prince Hohenlohe to succeed Count Harry Arnim as
+In 1873 Bismarck [[Chose|chose]] Prince Hohenlohe to succeed Count Harry [[Arnim]] as
 ambassador in Paris, where he remained for seven years. In 1878 he
 attended the congress of Berlin as third German representative, and in
 1880, on the death of Bernhardt Ernst von Bulow (October 20), secretary
 of state for foreign affairs, he was called to Berlin as temporary head
-of the Foreign Office and representative of Bismarck during his absence
+of the [[Foreign Office]] and representative of Bismarck during his absence
 through illness. In 1885 he was chosen to succeed Manteuffel as governor
 of Alsace-Lorraine. In this capacity he had to carry out the coercive
 measures introduced by the chancellor in 1887-1888, though he largely
@@ -397,9 +397,9 @@ twins (b. 1862).
   appreciations of men and events by an observer who had the best
   opportunities for forming a judgment. The prince himself they reveal
   not only as a capable man of affairs, though falling short of
-  greatness, but as a personality of singular charm, tenacious of his
+  greatness, but as a personality of singular [[Charm|charm]], tenacious of his
   principles, tolerant, broad-minded, and possessed of a large measure
-  of the saving grace of humour.
+  of the saving [[Grace|grace]] of [[Humour|humour]].
 
   See generally A. F. Fischer, _Geschichte des Hauses Hohenlohe_
   (1866-1871); K. Weller, _Hohenlohisches Urkundenbuch_, 1153-1350

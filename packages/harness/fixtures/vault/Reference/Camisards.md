@@ -13,24 +13,24 @@ Ital. _camiciata_, formed from _camicia_--Fr. _chemise_--a shirt, from
 the fact of a shirt being worn over the armour in order to distinguish
 friends from foes), the name given to the peasantry of the Cévennes who,
 from 1702 to 1705 and for some years afterwards, carried on an organized
-military resistance to the _dragonnades_, or conversion by torture,
+military resistance to the _dragonnades_, or [[Conversion|conversion]] by torture,
 death and confiscation of property, by which, in the Huguenot districts
 of France, the revocation of the edict of Nantes was attempted to be
 enforced. The Camisards were also called Barbets ("water-dogs," a term
 also applied to the Waldenses), Vagabonds, Assemblers (_assemblée_ was
-the name given to the meeting or conventicle of Huguenots), Fanatics and
+the name given to the meeting or conventicle of [[Huguenots]]), Fanatics and
 the Children of God. They belonged to that romance-speaking people of
-Gothic descent whose mystic imagination and independent character made
+[[Gothic]] descent whose mystic [[Imagination|imagination]] and independent character made
 the south of France the most fertile nursing-ground of medieval heresy
 (see CATHARS and ALBIGENSES). At the time of the Reformation the same
-causes produced like results. Calvin was warmly welcomed when he
+causes produced like results. [[Calvin]] was warmly welcomed when he
 preached at Nîmes; Montpellier became the chief centre for the
 instruction of the Huguenot youth. It was, however, in the great
 triangular plateau of mountain called the Cévennes that, among the small
-farmers, the cloth and silk weavers and vine dressers, Protestantism was
+[[Farmer|farmers]], the cloth and silk weavers and vine [[Dresser|dressers]], Protestantism was
 most intense and universal. These people were (and still are) very poor,
 but intelligent and pious, and of a character at once grave and fervent.
-From the lists of Huguenots sent from Languedoc to the galleys (1684 to
+From the lists of Huguenots sent from [[Languedoc]] to the galleys (1684 to
 1762), we gather that the common type of _physique_ is "belle taille,
 cheveux bruns, visage ovale." The chief theatre of the revolt comprised
 that region of the Cévennes bounded by the towns of Florac,
@@ -45,7 +45,7 @@ movement which had for a great number of years agitated the Protestants
 of France. Faced by the violation of that most solemn of treaties, a
 treaty which had been declared perpetual and irrevocable by Henry IV.,
 Louis XIII. and even Louis XIV. himself, they could not, in the
-enthusiasm of their faith, believe that such a crime would be left
+[[Enthusiasm|enthusiasm]] of their faith, believe that such a crime would be left
 unpunished. But being convinced that no human power could give them
 liberty of conscience, they went to the Bible to find when their
 deliverance would come. As far back as 1686 Pierre Jurieu published his
@@ -54,19 +54,19 @@ Apocalypse, he predicted the end of the persecution and the fall of
 Babylon--that is to say of Roman Catholicism--for 1689. The Revolution
 in England seemed to provide a striking corroboration of his prophecies,
 and the apocalyptic enthusiasm took so strong a hold on people's minds
-that Bossuet felt compelled to refute Jurieu's arguments in his
+that [[Bossuet]] felt compelled to refute Jurieu's arguments in his
 _Apocalypse expliquée_, published in 1689. The _Lettres pastorales_ of
 Jurieu (Rotterdam, 1686-1687), a series of brief tracts which were
 secretly circulated in France, continued to narrate events and
 prodigies in which the author saw the intervention of God, and thus
 strengthened the courage of his adherents. This religious enthusiasm,
 under the influence of Du Serre, was manifested for the first time in
-the Dauphiné. Du Serre, who was a pupil of Jurieu, communicated his
+the [[Dauphin]]é. Du Serre, who was a pupil of Jurieu, communicated his
 mystic faith to young children who were called the "petits prophètes,"
 the most famous of whom was a girl named "La belle Isabeau." Brought up
 on the study of the prophets and the Apocalypse, these children went
 from village to village quoting and requoting the most obscure and
-terrible passages from these ancient prophecies (see ANTICHRIST). It is
+terrible passages from these ancient prophecies (see [[Antichrist|ANTICHRIST]]). It is
 necessary to remember that at this time the Protestants were without
 ministers, all being in exile, and were thus deprived of all real
 religious instruction. They listened with enthusiasm to this strange
@@ -75,8 +75,8 @@ seen to be giving up attendance at Mass. The movement advanced in
 Languedoc with such rapidity that at one time there were more than three
 hundred children shut up in the prisons of Uzès on the charge of
 prophesying, and the Faculty of Medicine of Montpellier, which was
-entrusted with their examination, went so far in their ignorance as to
-pronounce these irresponsible infants guilty of fanaticism. After the
+entrusted with their examination, went so far in their [[Ignorance|ignorance]] as to
+pronounce these irresponsible [[Infant|infants]] guilty of fanaticism. After the
 peace of Ryswick, 1697, the fierceness of the persecution was redoubled
 in the South. "I will show no mercy to the preachers," wrote the
 terrible Baville, the so-called "king of Languedoc," and he kept his
@@ -86,7 +86,7 @@ assembly composed of fifty pastors, sixty-four noblemen and thirty-four
 notables, held at Colognac, had drawn up a statement of its unalterable
 loyalty to Louis XIV. It is important to notice that the revolt of the
 Cévennes was essentially a popular movement. Among its leaders there was
-not a single nobleman, but only men of the people, a baker, a
+not a single nobleman, but only men of the people, a [[Baker|baker]], a
 blacksmith, some ex-soldiers; but by far the most extraordinary
 characterisic is the presence, no longer of children, but of men and
 women who declared themselves inspired, who fell into religious
@@ -97,16 +97,16 @@ The assassination of the abbé du Chayla marks the beginning of the war
 of the Cévennes. The abbé, a veteran Catholic missionary from Siam, had
 been appointed inspector of missions in the Cévennes. There he
 introduced the "squeezers" (which resembled the Scottish "boot"), and
-his systematic and refined cruelty at last broke the patience of his
+his systematic and refined [[Cruelty|cruelty]] at last broke the patience of his
 victims. His murder, on the 23rd of July 1702, at Pont de Monvert, was
 the first blow in the war. It was planned by Esprit Séguier, who at once
-began to carry out his idea of a general massacre of the Catholic
+began to carry out his idea of a general [[Massacre|massacre]] of the Catholic
 priests. He soon fell, and was succeeded by Laporte, an old soldier,
 who, as his troop increased, assumed the title of "the Colonel of the
 Children of God," and named his camp the "Camp of the Eternal." He used
-to lead his followers to the fight, singing Clement Marot's grand
+to lead his followers to the fight, singing [[Clement]] Marot's grand
 version of the 68th Psalm, "Que Dieu se montre seulement," to the music
-of Goudimel. Besides Laporte, the forest-ranger Castanet, the
+of [[Goudimel]]. Besides Laporte, the forest-ranger Castanet, the
 wool-carders Conderc and Mazel, the soldiers Catinat, Joany and Ravenel
 were selected as captains--all men whom the _théomanie_ or prophetic
 malady had visited. But the most important figures are those of Roland,
@@ -117,11 +117,11 @@ trois jours tous les prêtres et missionnaires qui sont chez vous, sous
 peine d'être brûlés tout vifs, vous et eux" (Court, i.p. 219); and Jean
 Cavalier, the baker's boy, who, at the age of seventeen, commanded the
 southern army of the Camisards, and who, after defeating successively
-the comte de Broglie and three French marshals, Montrevel, Berwick and
-Villars, made an honourable peace. (See CAVALIER, JEAN.)
+the comte de Broglie and three French marshals, Montrevel, [[Berwick]] and
+Villars, made an [[Honourable|honourable]] peace. (See CAVALIER, JEAN.)
 
 Cavalier for nearly two years continued to direct the war. Regular taxes
-were raised, arsenals were formed in the great limestone caves of the
+were raised, arsenals were formed in the great [[Limestone|limestone]] caves of the
 district, the Catholic churches and their decorations were burned and
 the clergy driven away. Occasionally routed in regular engagements, the
 Camisards, through their desperate valour and the rapidity of their
@@ -140,10 +140,10 @@ savage country.
 Montrevel adopted a policy of extermination, and 466 villages were
 burned in the Upper Cévennes alone, the population being for the most
 part put to the sword. Pope Clement XI. assisted in this work by issuing
-a bull against the "execrable race of the ancient Albigenses," and
+a [[Bull|bull]] against the "execrable race of the ancient Albigenses," and
 promising remission of sins to the holy militia which was now formed
-among the Catholic population, and was called the Florentines, Cadets of
-the Cross or White Camisards. Villars, the victor of Hochstädt and
+among the Catholic population, and was called the Florentines, [[Cadet|Cadets]] of
+the Cross or White Camisards. Villars, the victor of [[Hochst]]ädt and
 Friedlingen, saw that conciliation was necessary; he took advantage of
 the feeling of horror with which the quiet Protestants of Nimes and
 other towns now regarded the war, and published an amnesty. In May 1704
@@ -162,7 +162,7 @@ be restored,--"_point de paix, que nous n'ayons nos temples_." They
 continued the war till January 1705, by which time all their leaders
 were either killed or dispersed.
 
-In 1709 Mazel and Claris, with the aid of two preaching women, Marie
+In 1709 Mazel and [[Clari|Claris]], with the aid of two preaching women, Marie
 Desubas and Elizabeth Catalon, made a serious effort to rekindle revolt
 in the Vivarais. In 1711 all opposition and all signs of the reformed
 religion had disappeared. On the 8th of March 1715, by medals and a
@@ -171,14 +171,14 @@ proclamation, Louis XIV. announced the entire extinction of heresy.
 What we know of the spiritual manifestations in the Cévennes (which much
 resembled those of the Swedish Raestars of Smaland in 1844) is chiefly
 derived from _Le Théâtre sacré des Cévennes_, London, 1707, reprinted at
-Paris in 1847; _A Cry From the Desert_, &c., by John Lacy, London, 1707;
-_La Clef des prophéties de M. Marion_, London, 1707; _Avertissements
+Paris in 1847; _A Cry From the [[Desert]]_, &c., by John Lacy, London, 1707;
+_La Clef des prophéties de M. [[Marion]]_, London, 1707; _Avertissements
 prophétiques d'Élie Marion_, &c., London, 1707. About the date of these
 publications the three prophets of the Cévennes, Marion, Durand-Fage and
-Cavalier (a cousin of the famous Jean Cavalier) were in London and were
+Cavalier (a [[Cousin|cousin]] of the famous Jean Cavalier) were in London and were
 objects of lively curiosity. The consistory of the French church in the
-Savoy sent a protest to the lord mayor against "cette secte impie et
-extravagante" and the matter was tried at the Guildhall. Misson, author
+Savoy sent a protest to the lord [[Mayor|mayor]] against "cette secte impie et
+extravagante" and the matter was tried at the [[Guildhall]]. Misson, author
 of the _Théâtre sacré_, declared in defence of the accused, that the
 same spirit which had caused Balaam's ass to speak could speak through
 the mouths of these prophets from the Cévennes. Marion and his two
@@ -204,7 +204,7 @@ d'aller à la messe; c'est le Saint-Esprit qui parle par ma bouche"
 (Brueys, _Histoire du fanatisme de notre temps_, Utrecht, 1737, vol. i.
 p. 153). The discourse might go on for two hours; after which the
 patient could only express himself in his native patois,--a Romance
-idiom,--and had no recollection of his "ecstasy." All kinds of miracles
+[[Idiom|idiom]],--and had no recollection of his "[[Ecstasy|ecstasy]]." All kinds of miracles
 attended on the Camisards. Lights in the sky guided them to places of
 safety, voices sang encouragement to them, shots and wounds were often
 harmless. Those entranced fell from trees without hurting themselves;
@@ -212,17 +212,17 @@ they shed tears of blood; and they subsisted without food or speech for
 nine days. The supernatural was part of their life. Much literature has
 been devoted to the discussion of these marvels. The Catholics Fléchier
 (in his _Lettres choisies_) and Brueys consider them the product of
-fasting and vanity, nourished on apocalyptic literature. The doctors
-Bertrand (_Du magnétisme animal_, Paris, 1826) and Calmeil (_De la
-folie_, Paris, 1845) speak of magnetism, hysteria and epilepsy, a
+[[Fasting|fasting]] and vanity, nourished on apocalyptic literature. The doctors
+[[Bertrand]] (_Du magnétisme animal_, Paris, 1826) and Calmeil (_De la
+folie_, Paris, 1845) speak of magnetism, [[Hysteria|hysteria]] and [[Epilepsy|epilepsy]], a
 prophetic monomania based on belief in divine possession. The
 Protestants especially emphasized the spirituality of the inspiration of
 the Camisards; Peyral, _Histoire des pasteurs du désert_, ii. 280,
 wrote: "Il fallait à cet effort gigantesque un ressort prodigieux,
-l'enthousiasme ordinaire n'y eût pas suffi." Dubois, who has made a
+l'enthousiasme ordinaire n'y eût pas suffi." [[Dubois]], who has made a
 careful study of the problem, says: "L'inspiration cévenole nous
 apparait comme un phénomène purement spirituel." Conservative Catholics,
-such as Hippolyte Blanc in his book on _L'inspiration des Camisards_
+such as Hippolyte [[Blanc]] in his book on _L'inspiration des Camisards_
 (1859), regard the whole thing as the work of the devil. The publication
 of J.F.K. Hecker's work, _Die Volkskrankheiten des Mittelalters_, made
 it possible to consider the subject in its true relation. This was
@@ -232,7 +232,7 @@ the Middle Ages_.
 Although the Camisards were guilty of great cruelties in the prosecution
 of the war, there does not seem to be sufficient ground for the charge
 made by Marshal de Villars: "Le plupart de leurs chefs ont leurs
-demoiselles" (letter of 9th August 1704, in the _War Archives_, vol.
+demoiselles" (letter of 9th August 1704, in the _War [[Archive|Archives]]_, vol.
 1797). Court replied to these unjust charges: "Their enemies have
 accused them of leading a life of licence because there were women in
 their camps. These were their wives, their daughters, their mothers, who
@@ -253,7 +253,7 @@ vol. i. p. 71).
   relation des fanatiques du Vivarez_ (Paris, 1715); Madame de Merez de
   l'Incarnation, _Memoires et journal très fidèle de ce qui s'est passé
   le 11 de may 1703 jusqu'au 1 juin 1705 à Nîmes touchant les
-  phanatiques_, published by E. de Barthélemy (Montpellier, 1874). These
+  phanatiques_, published by E. de [[Barth]]élemy (Montpellier, 1874). These
   works are written by Catholic writers immediately after the war of the
   Cévennes, and, despite their partiality, include some valuable
   documents. _Mémoires du marquis de Guiscard_ (Delft, 1705); Maximilien
@@ -263,18 +263,18 @@ vol. i. p. 71).
   met with such a great success, gave prominence to the facts relating
   to the inspiration of the Camisards; the _Théâtre_ also contains
   important extracts from the works of Benoit, Brueys, Guiscard and
-  Boyer, and several original letters from Camisards; _Histoire des
+  [[Boyer]], and several original letters from Camisards; _Histoire des
   Camisards, &c._ (London, 1740), the anonymous work of a distinguished
   writer, which was eventually condemned by the parlement of Toulouse
-  to be torn up and burnt in 1759; Antoine Court, _Histoire des troubles
+  to be torn up and burnt in 1759; [[Antoine]] Court, _Histoire des troubles
   des Cévennes_ (3 vols., 1760), the best work of this period, compiled
-  from numerous manuscript references. The war of the Cévennes has been
+  from numerous [[Manuscript|manuscript]] references. The war of the Cévennes has been
   treated in several English works, e.g. _A Compleat History of the
-  Cevennes, giving a Particular Account of the Situation, &c._, by a
-  doctor of civil law (London, 1703). This work includes a dedication to
+  [[Cevennes]], giving a Particular Account of the Situation, &c._, by a
+  doctor of [[Civil Law|civil law]] (London, 1703). This work includes a [[Dedication|dedication]] to
   the queen, an historical account of the people of the Cévennes, the
   bull of Pope Clement against the Camisards, and the bishop of Nîmes's
-  mandate publishing the bull, and a discourse on the obligations of the
+  [[Mandate|mandate]] publishing the bull, and a discourse on the obligations of the
   English to help the Camisards, and a form of prayer used in the
   Camisard assembly, printed in London in 1703 under the title
   _Formulaire de prières des Cévennois dans leurs assemblées. The
@@ -288,7 +288,7 @@ vol. i. p. 71).
   chief Camisard and pastor of the desert, published by Vielles (1883);
   Bonnemère, _Histoire de la guerre des Camisards_ (1859). Two popular
   works are--F. Puaux, _Histoire populaire de la guerre des Camisards_
-  (1875); Anna E. Bray, _The Revolt of the Protestants of the Cévennes
+  (1875); [[Anna]] E. [[Bray]], _The Revolt of the Protestants of the Cévennes
   with some Account of the Huguenots of the Seventeenth Century_
   (London, 1870).     (F. Px.)
 
@@ -324,7 +324,7 @@ e Macedo, who bore him an only son, Luis Vaz de Camoens; thus the poet,
 like his father and grandfather, was a _cavalleiro fidalgo_, that is, an
 untitled noble.
 
-Four cities dispute the honour of being his birthplace, though Lisbon
+Four cities dispute the honour of being his birthplace, though [[Lisbon]]
 has the better title; and there is a like dispute about the year, which,
 however, was almost certainly 1524. The poet spent his childhood in
 Coimbra, where his father owned a property, and made his first studies
@@ -338,8 +338,8 @@ virtuous and very learned man, was professed. The Renaissance, though
 late in penetrating into Portugal, had by this time definitely
 triumphed, and the university of Coimbra, after its reform in 1537 under
 the auspices of King John III., boasted the best teachers drawn from
-every country, among them George Buchanan. The possession of classical
-culture was regarded as the mark of a gentleman; the colleges of Santa
+every country, among them George [[Buchanan]]. The possession of classical
+culture was regarded as the mark of a [[Gentleman|gentleman]]; the colleges of Santa
 Cruz required conversation within the walls to be in Greek or Latin, and
 the university, when it absorbed the colleges, adopted the same rule. In
 these surroundings, aided by a retentive memory, Camoens steeped himself
@@ -355,24 +355,24 @@ during this period he met Jorge de Montemayor, the author of _Dianá_,
 who was then studying music. He seems to have imbibed much of that
 encyclopaedic instruction to which the humanists aspired, for his
 writings show a very extensive reading, and his scientific knowledge and
-faculty of observation compelled the admiration of the great Humboldt.
+faculty of observation compelled the admiration of the great [[Humboldt]].
 The thoroughness of his teaching is apparent when we remember that he
 wrote his epic in the fortresses of Africa and Asia, far from books, and
-yet gave proof of acquaintance with universal history, geography,
-astronomy, Greek and Latin literature, and the modern poetry of Italy
-and Spain. Much of the credit for this learning must be attributed to
+yet gave proof of acquaintance with universal history, [[Geography|geography]],
+[[Astronomy|astronomy]], Greek and Latin literature, and the modern poetry of Italy
+and Spain. Much of the [[Credit|credit]] for this learning must be attributed to
 the encouragement of D. Bento, now prior of Santa Cruz, who became
 chancellor of the university the very year when Camoens entered it.
 There is a tradition that this uncle destined him for the church and
 caused him to study theology. The poet's knowledge of dogma and the
 Bible, his friendly intercourse with the Lisbon Dominicans at the end of
 his life, and the share he is said to have taken in their disputations,
-make the hypothesis a likely one, but he made his own choice and
+make the [[Hypothesis|hypothesis]] a likely one, but he made his own choice and
 preferred a lay life. We have very little verse of his Coimbra time, but
 it seems that he began in the Italian manner, following the new
 classical school of Sá de Miranda (q.v.), and that, though attached to
 the popular muse and well acquainted with the national songs and
-romances, legends and lore, his poetry in the old style (_medida velha_)
+romances, legends and [[Lore|lore]], his poetry in the old style (_medida velha_)
 is mostly of later date. An exception may perhaps be found in his _Auto_
 after the manner of Gil Vicente (q.v.), _The Amphitryons_, a Portuguese
 adaptation from Plautus which was very well received. At the age of
@@ -384,10 +384,10 @@ and the _Lusiads_ are full of eulogistic epithets on the city and the
 Tagus.
 
 Arriving in 1543, it has been conjectured that he became tutor to D.
-Antonio de Noronha, son of the great noble D. Francisco de Noronha,
-count of Linhares, who had lately returned from a French embassy to his
+[[Antonio]] de Noronha, son of the great noble D. Francisco de Noronha,
+count of Linhares, who had lately returned from a French [[Embassy|embassy]] to his
 palace at Xabregas. The poet's birth and talents admitted him to the
-society of men like D. Constantine de Braganza, the duke of Aveiro, the
+society of men like D. Constantine de [[Braganza]], the duke of [[Aveiro]], the
 marquis of Cascaes, the count of Redondo, D. Manoel de Portugal and D.
 Gonçalo da Silveira, son of the count of Sortelha, who died a Christian
 martyr in Monomotapa. At Xabregas Camoens must have met Francisco de
@@ -397,11 +397,11 @@ would explain the origin of two of his roundels which are clearly
 founded on passages in the romance. Camoens had had a youthful love
 affair in Coimbra, but on Good Friday of the year 1544 he experienced
 the passion of his life. On that day in some Lisbon church he caught
-sight of D. Catherina de Ataide (daughter of D. Antonio de Lima, high
-chamberlain to the infant D. Duarte), who had recently become a
+sight of D. Catherina de Ataide (daughter of D. Antonio de [[Lima]], high
+[[Chamberlain|chamberlain]] to the infant D. Duarte), who had recently become a
 lady-in-waiting to the queen. This young girl, the Nathercia of his
 after songs, counted then some thirteen years, and was destined to be
-his Beatrice. To see more of her, he persuaded the count of Linhares to
+his [[Beatrice]]. To see more of her, he persuaded the count of Linhares to
 introduce him to the court, where his poetical gifts and culture ensured
 him a ready welcome, and his fifth idyll, addressed to his patron on
 this occasion, paved the way for his entrance. Though inferior to his
@@ -418,13 +418,13 @@ conduct ensured him envious foes, and the secret of his love got out and
 became the subject of gossip. All was not smooth with the lady, who
 showed herself coy; now yielding to her heart, she was kind; and then
 listening to her friends, who would have preferred a better match for
-her, she repelled her lover. Jealousy then seized him, and sick of court
+her, she repelled her lover. [[Jealousy]] then seized him, and sick of court
 life for the moment, he gladly accompanied his patron to the latter's
 country house; but once there he recognized that Lisbon was the centre
 of attraction for him and that he could not be happy at a distance. His
 verses at this time reveal his parlous condition. He oscillates between
 joy and depression. He passes from tender regrets to violent outbursts,
-which are followed by calm and peace, while expressions of passionate
+which are followed by [[Calm|calm]] and peace, while expressions of passionate
 love alternate with bold desires and lofty ambitions. It is clear that
 there was an understanding between him and Catherina and that they
 looked forward to a happy ending, and this encouraged him in his weary
@@ -435,13 +435,13 @@ all the eclogues.
 
 His fifth eclogue shows that he was seriously thinking of his patriotic
 poem in 1544; and from the fourth it seems likely that the _Lusiads_
-were in course of composition, and that cantos 3 and 4 were practically
+were in course of composition, and that [[Canto|cantos]] 3 and 4 were practically
 completed. He had by now established his fame and was known as the
-Lusitanian Virgil, but presently he had a rude awakening from his dreams
+Lusitanian Virgil, but presently he had a rude awakening from his [[Dream|dreams]]
 of love and glory. He had shown his affection too openly, and some
-infraction of court etiquette, about which the queen was strict, caused
+infraction of court [[Etiquette|etiquette]], about which the queen was strict, caused
 the tongue of scandal to wag; perhaps it was an affair with one of
-Catherina's brothers, even a duel, that led to the decree which exiled
+Catherina's brothers, even a [[Duel|duel]], that led to the [[Decree|decree]] which exiled
 him from Lisbon.
 
 Camoens's rashness, self-confidence and want of respect for the
@@ -450,8 +450,8 @@ play _El Rei Seleuco_ would aggravate his offence in the eyes of John
 III. Produced in 1545 and derived from Plutarch, the plot was calculated
 to draw attention to the relations between the king and his stepmother,
 and to recall the action of D. Manoel in robbing his son John III. of
-his intended bride. Camoens composed it for a wedding festivity in the
-house of Estacio da Fonseca, and some of the verses refer so openly to
+his intended [[Bride|bride]]. Camoens composed it for a wedding festivity in the
+house of Estacio da [[Fonseca]], and some of the verses refer so openly to
 his passion, that if, as is likely, he spoke them himself, emphasizing
 them with voice and gesture so as to publish his love to the world, this
 new boldness, combined with the subject of the piece, must have rendered
@@ -460,7 +460,7 @@ court was henceforth closed to him, and in 1546 he had to leave Lisbon,
 the abode of his love and the scene of his triumph. Tradition says that
 he went to the Ribatejo and spent seven or eight months with his
 mother's relatives in or near Santarem, whence he poured out a number of
-his finest poems, including his _Elegy of Exile_ and some magnificent
+his finest poems, including his _[[Elegy]] of Exile_ and some magnificent
 sonnets, which, in vigour of ideas and beauty of expression, exceeded
 anything he had hitherto produced. Poets cannot live on bays, however,
 and pressed by necessity he determined to become a soldier.
@@ -476,7 +476,7 @@ writers make the incident occur on the voyage across the straits when
 his ship was attacked by Sallee rovers. Elegy ii. and a couple of odes
 date from his stay in Ceuta. He is full of sadness and almost in
 despair, but is saved from suicide by love and memory of the past. He
-has intervals of calm and resignation, even of satirical humour, and
+has intervals of calm and resignation, even of satirical [[Humour|humour]], and
 these become more frequent as the term of his exile draws near, and in
 one of them he wrote his prose letter to a "Lisbon friend." The octaves
 on the _Discontent of the World_, which breathe a philosophic equanimity
@@ -521,7 +521,7 @@ was effected on the 13th of February 1553, and on the 7th of March the
 king, taking into consideration that Camoens was "a youth and poor and
 decided to serve this year in India", confirmed the pardon. He had been
 obliged to humble his pride and enlist again, but while he complained of
-his troubles he recognized, in his frank, honest way, that his own
+his troubles he recognized, in his [[Frank|frank]], honest way, that his own
 mistakes were in part the causes of them.
 
 After bidding good-bye to Catherina for the last time, Camoens set sail
@@ -534,7 +534,7 @@ He relates some of his experiences on board and the events of the voyage
 in various sonnets in Elegy iii. and in the _Lusiads_. In those days the
 sailors navigated the ships, while the men-at-arms kept the day and
 night watches, helped in the cleaning and, in case of necessity, at the
-pumps, but the rank of Camoens doubtless saved him from manual work. He
+pumps, but the rank of Camoens doubtless saved him from [[Manual|manual]] work. He
 had much time to himself in his six months' voyage and was able to lay
 in a store of nautical knowledge, while tempestuous weather off the Cape
 of Good Hope led him to conceive the dramatic episode of Adamastor
@@ -556,7 +556,7 @@ Affonso de Albuquerque saw that this was not enough to secure the
 supremacy of the Portuguese; recognizing the strategic value of Goa, he
 seized it and made it the capital of a land empire, and built fortresses
 in every important point through the East. Since his death a succession
-of remarkable victories had made the flag of Portugal predominant, but
+of remarkable victories had made the [[Flag|flag]] of Portugal predominant, but
 the enervating climate, the pleasures and the plunder of Asia, began to
 tell on the conquerors. Corruption was rife from the governor downwards,
 because the ruling ambition was to get rich and return home, and the
@@ -566,13 +566,13 @@ away, so the saying went round--"They are installed the first year, they
 rob the second, and then pack up in the third to sail away." Camoens was
 well received at first, owing to his talents and bravery, and he found
 the life cheap and merry, but having left his country with high ideals,
-the injustice and demoralization of manners he found in India soon
-disgusted him. He compared Goa to Babylon, and called it "the mother of
+the injustice and demoralization of [[Manners|manners]] he found in India soon
+disgusted him. He compared Goa to [[Babylon]], and called it "the mother of
 villains and the stepmother of honest men."
 
 His first military service in the East took place in November 1553, when
 he went with a force led by the viceroy to chastise a petty king on the
-Malabar coast. The expedition only lasted two or three months, and after
+[[Malabar]] coast. The expedition only lasted two or three months, and after
 some trivial combats it returned to Goa. In February of the following
 year Camoens accompanied the viceroy's son, D. Fernando de Menezes, who
 led an armada to the mouth of the Red Sea and thence up the Arabian
@@ -583,7 +583,7 @@ wrote a sonnet--it was ever, with him, "in one hand the sword, in the
 other the pen"! Returning to Goa in November he learnt of the deaths of
 Prince John, and of his friend and pupil the young D. Antonio de
 Noronha, and paid his tribute in a feeling sonnet and eclogue. In
-February 1555 he sailed on another pirate hunt and spent six weary
+February 1555 he sailed on another pirate [[Hunt|hunt]] and spent six weary
 months off Cape Guardafui, varied by a visit to Mombasa and by further
 work on his epic, and only got back to Goa in the following September.
 His experiences are recorded in the profound and sad 10th Canzon.
@@ -606,7 +606,7 @@ appears to have spent the time between September 1556 and February 1557
 in the island of Ternate, where he wrote Canzon 6, revealing a state of
 moral depression similar to that of Canzon 10, and he perhaps visited
 Banda and Amboina. In the following year he took part in the military
-occupation of Macao, which the emperor of China had presented to the
+occupation of [[Macao]], which the emperor of China had presented to the
 Portuguese in return for their destruction of a pirate fleet which had
 besieged Canton. The poet's five years' term of service was now over,
 and he remained at Macao many months waiting for a ship to carry him
@@ -624,7 +624,7 @@ was wrecked in October 1559 at the mouth of the Mekong river, and the
 poet had to save his life and his _Lusiads_ by swimming to shore, and
 though he preserved the six or seven finished cantos of the poem, he
 lost everything else. While wandering about on the Cambodian coast
-awaiting the monsoon and a vessel to take him to Malacca, he composed
+awaiting the monsoon and a vessel to take him to [[Malacca]], he composed
 those magnificent stanzas "By the Waters of Babylon," called by Lope de
 Vega "the pearl of all poetry," in which he recalls the happy days of
 his youth, sighs for Lisbon (Sion) and his love, and mourns his long
@@ -634,28 +634,28 @@ in gaol, where he heard for the first time of the death of Catherina,
 and he poured out his grief in the great sonnet, _Alma Minha Gentil_.
 The viceroy, D. Constantius de Bragança, had recently returned from
 Jafanapatam, bringing as prize a tooth of Buddha, and Camoens approached
-him with a splendid epistle in twenty octaves, after the manner of
+him with a splendid [[Epistle|epistle]] in twenty octaves, after the manner of
 Horace's ode to Augustus. It failed, however, to hasten the
 consideration of his case, but in September the Conde de Redondo, a good
 friend, came into office and immediately ordered his release from
 prison. His troubles were not yet at an end, however, for one Miguel
-Rodriguez Coutinho, a well-known soldier and citizen of Goa who lent
+Rodriguez Coutinho, a well-known soldier and citizen of Goa who [[Lent|lent]]
 money at usurious rates, thought the opportunity a good one to obtain
-repayment of a debt, and had Camoens lodged once more in gaol. As soon
+repayment of a [[Debt|debt]], and had Camoens lodged once more in gaol. As soon
 as he came out the poet composed a burlesque roundel satirizing his
 persecutor under the nickname of Fios Seccos ("dry threads").
 
 Though very poor he now led an easier, even a pleasant life for a time.
 He was able to see his friends D. Vasco de Ataide, D. Francisco de
-Almeida, Heitor da Silveira, João Lopes Leitaõ and Francisco de Mello,
+Almeida, Heitor da Silveira, João [[Lopes]] Leitaõ and Francisco de Mello,
 all men of family and note. One day he invited them to a banquet, at
 which, instead of the usual dishes, each guest was served with a set of
-witty verses, and after these had been read out and chaff had gone
+witty verses, and after these had been read out and [[Chaff|chaff]] had gone
 round, the food came and they formed a merry party. The poet used his
-interest with the viceroy to recommend to him the naturalist Garcia da
+interest with the viceroy to recommend to him the naturalist [[Garcia]] da
 Orta, whose _Colloquies_ on the simples and drugs of the East, the first
 product of the press in India, appeared in April 1563 with an ode by
-Camoens. His life for the next three years is almost a blank, but we
+Camoens. His life for the next three years is almost a [[Blank|blank]], but we
 know that he was hard at work finishing his epic, assisted by the advice
 of the historian Diogo do Couto, who became its commentator, and further
 that the new viceroy, his friend D. Antão de Noronha, nominated him to a
@@ -669,14 +669,14 @@ insisted on the poet accompanying him to Sofala, at the same time
 lending him two hundred cruzades. It was part of the way home, so
 Camoens accepted, but after they reached Mozambique Barreto called in
 this money, and his debtor, being unable to pay, was detained there for
-two whole years. Here Diogo do Couto found him "so poor that he ate at
+two whole years. Here Diogo do Couto found him "so poor that he [[Ate|ate]] at
 the cost of friends, and in order that he might embark for the Kingdom
 we friends collected for him the clothes he needed and some gave him to
 eat, and that winter he finished perfecting the _Lusiads_ for the press
 and wrote much in a book he was making, which he called _Parnaso of Luiz
 de Camoes_, a book of much learning, doctrine and philosophy, which was
 stolen from him." Thanks to Couto and others, Camoens was able to
-liquidate his debt and set sail in November 1569 in the "Santa Clara,"
+liquidate his debt and set sail in November 1569 in the "Santa [[Clara]],"
 and he reached Portugal on the 7th of April 1570, after an absence of
 seventeen years.
 
@@ -691,7 +691,7 @@ mother, whom he found "very old and very poor"--his father had died at
 Goa about 1555--and after a visit to Catherina's tomb, which inspired
 the poignant sonnet 337, he set about obtaining the royal licence to
 print the _Lusiads_. This was dated the 24th of September 1571 and gave
-him a ten years' copyright, and as soon as the book appeared some
+him a ten years' [[Copyright|copyright]], and as soon as the book appeared some
 friendly and influential hand, perhaps D. Manoel de Portugal, perhaps D.
 Francisca de Aragão for whom he had rhymed in the happy days of his
 youth, presented the national epic to King Sebastian. Shortly
@@ -719,14 +719,14 @@ This explains the story of Ruy da Camara, who had engaged him to
 translate the penitential psalms, and not receiving the version, called
 on the poet, who said in excuse that he had no spirit for such work now
 that he wanted for everything, and that his slave had asked him for a
-penny for fuel and he could not give it.
+penny for [[Fuel|fuel]] and he could not give it.
 
 On the 2nd of June 1578, just before his start for the expedition to
 Africa which cost him his life and Portugal her independence, King
 Sebastian had renewed the poet's pension for a further period. Though
 Camoens had neither the health nor the means to accompany the splendid
 train of nobles and courtiers who followed the last crusading monarch to
-his doom, he began an epic to celebrate the enterprise, but burnt it
+his [[Doom|doom]], he began an epic to celebrate the enterprise, but burnt it
 when he heard the news of the battle of Alcacer. Instead, he mourned the
 death of his royal benefactor in a magnificent sonnet, and in Elegy x.
 reproached the cowardly soldiery who contributed to the rout. On the
@@ -742,16 +742,16 @@ passed away, unmarried and the last of his line, on the 10th of June
 received the only recognition Camoens could give, his copy of the
 _Lusiads_. He wrote afterwards: "What more grievous thing than to see so
 great a genius thus unfortunate. I saw him die in a hospital in Lisbon,
-without a sheet to cover him, after having triumphed in the East Indies
+without a sheet to cover him, after having triumphed in the [[East Indies]]
 and sailed 5000 leagues by sea." The house of Vimioso supplied the
 winding-sheet, and Camoens was buried with other victims of the plague
 in a common grave in the cemetery of Santa Anna. Years later D. Gonçalo
 Coutinho erected in the church of that invocation an _in memoriam_ slab
-of marble with an inscription, and subsequently epitaphs were added by
+of [[Marble|marble]] with an inscription, and subsequently epitaphs were added by
 other admirers, but the earthquake of 1755 damaged the building, and all
-traces of these last acts of homage to genius have disappeared. The
+traces of these last acts of [[Homage|homage]] to genius have disappeared. The
 third centenary of the poet's death was made the occasion of a national
-apotheosis, and on the 8th of June 1880 some remains, piously believed
+[[Apotheosis|apotheosis]], and on the 8th of June 1880 some remains, piously believed
 to be his, were borne with those of Vasco da Gama to the national
 pantheon, the Jeronymos at Belem.
 
@@ -761,8 +761,8 @@ cantos containing in all 1102 stanzas. Its argument is briefly as
 follows. After an exordium proposing the subject, invoking the Tagus
 muses and addressing King Sebastian, Vasco da Gama's ships are shown
 sailing up the East African coast on their way to India. At a council of
-the gods the fate of the fleet is discussed, and Bacchus promises to
-thwart the voyage, while Venus and Mars favour the navigators. They
+the gods the [[Fate|fate]] of the fleet is discussed, and Bacchus promises to
+thwart the voyage, while Venus and [[Mars]] favour the navigators. They
 arrive at Mozambique, where the governor endeavours to destroy them by
 stratagem, and, this failing, Bacchus tries other plots against them at
 Quiloa and Mombasa which are foiled by Venus. In answer to her appeal,
@@ -775,19 +775,19 @@ of Portugal, its kings and principal achievements, ending with the
 incidents of the voyage out. This recital occupies cantos 3, 4 and 5,
 and includes some of the most admired and most powerful episodes in the
 poem, e.g. those of Ignez de Castro, King Manoel's dream of the rivers
-Ganges and Indus, the speech of the old man of Belem and the apparition
+[[Ganges]] and Indus, the speech of the old man of Belem and the apparition
 of Adamastor off the Cape of Good Hope. Canto 6 describes the crossing
 of the Indian Ocean from Melinde to Calicut and a fresh hostile attempt
 on the part of Bacchus. He descends to Neptune's palace, and at a
 council of the sea-gods it is resolved to order Aeolus to loose the
 winds against the Portuguese, but the tempest is quelled by Venus and
 her nymphs in answer to Gama's prayer, and the morning light reveals the
-Ghats of India. Just before the storm, occurs the night scene in which
+[[Ghats]] of India. Just before the storm, occurs the night scene in which
 Velloso entertains his shipmates with the story of the Twelve of
 England, another of the famous episodes. Canto 7 is taken up with the
 arrival at Calicut, a description of the country and the details of
 Gama's reception by the raja. The governor of the city visits the fleet
-and inquires about the pictures on their banners, whereupon Paulo da
+and inquires about the pictures on their [[Banners|banners]], whereupon Paulo da
 Gama, Vasco's brother, tells him of the deeds of the early Portuguese
 kings. Meanwhile Bacchus, not to be baulked, appears to a priest in the
 guise of Mahomet, and stirs up the Moslems against the Christian
@@ -805,7 +805,7 @@ tells of the exploits of the Portuguese viceroys, governors and captains
 in India until the time of D John de Castro, after which Tethys ascends
 a mountain with Gama, shows him the spheres after the system of Ptolemy
 and the globe of Asia and Africa, and describes the Indian life of St
-Thomas the apostle. Finally the navigators quit the island and reach
+Thomas the [[Apostle|apostle]]. Finally the navigators quit the island and reach
 Lisbon, and an epilogue contains a patriotic exhortation to King
 Sebastian and visions of glory, which ended so disastrously at the
 battle of Alcacer.
@@ -821,16 +821,16 @@ invasion. Even now it forms a powerful bond between the mother-country
 and her potentially mighty daughter-nation across the Atlantic, the
 United States of Brazil. The men of the Renaissance saw nothing
 incongruous in that mixture of paganism and Christianity which is found
-in the _Lusiads_ as in Ariosto, though some modern critics, like
+in the _Lusiads_ as in [[Ariosto]], though some modern critics, like
 Voltaire, consider it a grave artistic defect in the poem. The fact that
 the _Lusiads_ is written in a little-known language, and its intensely
 national and almost exclusively historical character, undoubtedly
 militate against a right estimate of its value, now that Portugal, once
-a world power, has long ceased to hold the East in fee or to guide the
+a world power, has long ceased to hold the East in [[Fee|fee]] or to guide the
 destinies of Europe. But though political changes may and do react on
 literary appreciations, the _Lusiads_ remains none the less a great
 poem, breathing the purest religious fervour, love of country and spirit
-of chivalry, with splendid imaginative and descriptive passages full of
+of [[Chivalry|chivalry]], with splendid imaginative and descriptive passages full of
 the truest and deepest poetry. The structure is Virgilian, but the whole
 conception is the author's own, while the style is natural and noble,
 the diction nearly always correct and elegant, and the verse, as a rule,
@@ -852,7 +852,7 @@ and a form and style so nearly perfect, as not only to make him the
 foremost of Peninsular bards but to entitle him to a place in that small
 company of universal poets of the first rank.
 
-The oldest and most authentic portrait of Camoens appeared in 1624 with
+The oldest and most [[Authentic|authentic]] portrait of Camoens appeared in 1624 with
 his life, by Manoel Severim de Faria. It is a kitcat and shows the poet
 in armour wearing a laurel crown; his right hand holds a pen, his left
 rests on a copy of the _Lusiads_, while a shield above shows the family
@@ -862,7 +862,7 @@ confirms it. Except for an ode, sonnet and elegy, all Camoens's lyrics
 were published posthumously.
 
   AUTHORITIES.--The most modern and most critical biographies are those
-  of Dr Theophilo Braga, _Camões, epoca e Vide_ (Oporto, 1907), and of
+  of Dr Theophilo Braga, _[[Cam]]ões, epoca e Vide_ (Oporto, 1907), and of
   Dr Wilhelm Storck, _Luis de Camões Leben_ (Paderborn, 1890), while the
   most satisfactory edition of the complete works is due to the Visconde
   de Juromenha (6 vols., Lisbon, 1860-1869), though it contains some
@@ -874,16 +874,16 @@ were published posthumously.
   the second of them dealing fully with the tercentenary celebrations.
   Among modern Portuguese studies of the national epic the most
   important are perhaps _Camões e a Renascença em Portugal_, by Oliveira
-  Martins, and _Camões e o Sentimento Nacional_, by Dr T. Braga (Oporto,
+  [[Martin|Martins]], and _Camões e o Sentimento Nacional_, by Dr T. Braga (Oporto,
   1891). The latter volume contains useful information on the various
   editions of Camoens, with an account of the texts and remarks on his
   plagiarists. Very few poets have been so often translated, and a list
   and estimate of the English translations of the _Lusiads_ from the
-  time of Sir Richard Fanshawe (1655) downwards, will be found in Sir
+  time of Sir Richard [[Fanshawe]] (1655) downwards, will be found in Sir
   Richard Burton's _Camoens: His Life and His Lusiads_, which,
-  notwithstanding some errors, is a most informing book, and the result
+  notwithstanding some [[Error|errors]], is a most informing book, and the result
   of a curious similarity of temperament and experience between master
-  and disciple. Burton translated the _Lusiads_ (2 vols., London, 1880)
+  and [[Disciple|disciple]]. [[Burton]] translated the _Lusiads_ (2 vols., London, 1880)
   and the _Lyricks_ (sonnets, canzons, odes and sextines; 2 vols.,
   London, 1884), and left a version of all the minor works in MS. The
   accurate and readable version of the epic by Mr J.J. Aubertin, with

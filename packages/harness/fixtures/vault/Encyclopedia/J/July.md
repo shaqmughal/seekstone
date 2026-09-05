@@ -8,8 +8,8 @@ topic: republic-theory
 
 JULY, the seventh month in the Christian calendar, consisting of
 thirty-one days. It was originally the fifth month of the year, and as
-such was called by the Romans _Quintilis_. The later name of Julius was
-given in honour of Julius Caesar (who was born in the month); it came
+such was called by the Romans _Quintilis_. The later name of [[Julius]] was
+given in honour of Julius [[Caesar]] (who was born in the month); it came
 into use in the year of his death. The Anglo-Saxons called July
 _Hegmônath_, "hay-month," or _Maed-mônath_, "mead-month," the meadows
 being then in bloom. Another name was _aftera lîða_, "the latter mild

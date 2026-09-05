@@ -9,7 +9,7 @@ tags: [history, exploration]
 # Louis Ii.
 
 LOUIS II., king of Bavaria (1845-1886), son of his predecessor
-Maximilian II. and his wife Maria, daughter of Prince William of
+[[Maximilian]] II. and his wife Maria, daughter of Prince William of
 Prussia, was born at Nymphenburg on the 25th of August 1845. Together
 with his brother Otto, three years younger than himself, Louis received,
 in accordance with the wishes of his learned father, a simple and
@@ -41,18 +41,18 @@ the few steadfast ideas underlying his policy, was deeply wounded by
 these occurrences, but he was face to face with the inevitable, and on
 the 10th of August wrote a letter of reconciliation to King William of
 Prussia. The defeat of Bavaria in 1866 showed clearly the necessity for
-a reform of the army. Under the new Liberal ministry of Hohenlohe
+a reform of the army. Under the new Liberal ministry of [[Hohenlohe]]
 (December 29, 1866--February 13, 1870) and under Prauckh as minister of
 war, a series of reforms were carried through which prepared for the
 victories of 1870. As regards his ecclesiastical policy, though Louis
 remained personally true to the Catholic Church, he strove for a greater
 independence of the Vatican. He maintained friendly relations with Ignaz
 von Döllinger, the leader of the more liberal Catholics who opposed the
-definition of papal infallibility, but without extending his protection
+[[Definition|definition]] of papal [[Infallibility|infallibility]], but without extending his protection
 to the anti-Roman movement of the Old Catholics. In spite of this the
 Old Bavarian opposition was so aroused by the Liberalism of the
 Hohenlohe ministry that at the beginning of 1870 Louis had to form a
-more Conservative cabinet under Count Bray-Steinburg. On the outbreak of
+more Conservative [[Cabinet|cabinet]] under Count Bray-Steinburg. On the outbreak of
 the Franco-Prussian War he at once took the side of Prussia, and gave
 orders for mobilization. In 1871 it was he who offered the imperial
 crown to the king of Prussia; but this was not done on his own
@@ -66,14 +66,14 @@ though his Bavarian particularism remained unchanged.
 Though up till the beginning of the year 1880 he did not cease to give
 some attention to state affairs, the king's interests lay in quite other
 spheres. His personal idiosyncrasies had, in fact, developed meanwhile
-in a most unhappy direction. His enthusiasm for all that is beautiful
-soon led him into dangerous bypaths. It found its most innocent
+in a most unhappy direction. His [[Enthusiasm|enthusiasm]] for all that is beautiful
+soon led him into dangerous bypaths. It found its most [[Innocent|innocent]]
 expression in the earliest years of his reign when he formed an intimate
 friendship with Richard Wagner, whom from May 1864 to December 1865 he
 had constantly in his company. Louis was entirely possessed by the
 soaring ideas of the master, and was energetic in their realization. He
 not only established Wagner's material position at the moment by paying
-18,000 gulden of debts for him and granting him a yearly income of 4000
+18,000 gulden of [[Debt|debts]] for him and granting him a yearly income of 4000
 gulden (afterwards increased to 8000), but he also proceeded to realize
 the ambitious artistic plans of the master. A series of brilliant model
 performances of the Wagnerian music-dramas was instituted in Munich
@@ -81,7 +81,7 @@ under the personal patronage of the king, and when the further plan of
 erecting a great festival theatre in Munich for the performance of
 Wagner's "music of the future" broke down in the face of the passive
 resistance of the local circles interested, the royal enthusiast
-conceived the idea of building at Bayreuth, according to Wagner's new
+conceived the idea of building at [[Bayreuth]], according to Wagner's new
 principles, a theatre worthy of the music-dramas. For a time Louis was
 entirely under Wagner's influence, the fantastic tendencies of whose art
 cast a spell over him, and there is extant a series of emotional letters
@@ -119,14 +119,14 @@ which irked him more and more, or in short and hasty journeys, in which
 he always travelled incognito. Even the theatre he could now only enjoy
 alone. He arranged private performances in his castles or in Munich at
 fabulous cost, and appointed an official poet to his household. Later
-his avoidance of society developed into a dread of it, accompanied by a
+his [[Avoidance|avoidance]] of society developed into a dread of it, accompanied by a
 fear of assassination and delusions that he was being followed.
 
 Side by side with this pathological development his inborn
 self-consciousness increased apace, turning more and more to
 megalomania, and impelling the weak-willed monarch to those
 extraordinary displays of magnificence which can still be admired to-day
-in the castles built or altered by him, such as Berg on the Starnberger
+in the castles built or altered by him, such as [[Berg]] on the Starnberger
 See, Linderhof, Herrenchiemsee, Hohenschwangau, Neuschwanstein, &c.,
 which are among the most splendid buildings in Germany. It is
 characteristic of the extravagance of the king's ideas that he adopted
@@ -140,7 +140,7 @@ of destructive rage, and the tendency to the most cruel forms of
 abnormal vice. None the less, at the time when the king's mental
 weakness was increasing, his character still retained lovable
 traits--his simple sense of beauty, his kindliness, and his highly
-developed understanding of art and artistic crafts. Louis's love of
+developed understanding of art and artistic [[Craft|crafts]]. Louis's love of
 beauty also brought material profit to Bavaria.
 
 But the financial and political dangers which arose from the king's way
@@ -154,7 +154,7 @@ in the Starnberger See, together with his doctor von Gudden, who had
 unwisely gone for a walk alone with his patient, whose physical strength
 was enormous. The details of his death will never be fully known, as the
 only possible eye-witness died with him. An examination of the brain
-revealed a condition of incurable insanity, and the faculty submitted a
+revealed a condition of incurable [[Insanity|insanity]], and the faculty submitted a
 report giving the terrible details of his malady. Louis's brother Otto,
 who succeeded him as king of Bavaria, was also incurably insane.
 
@@ -165,11 +165,11 @@ who succeeded him as king of Bavaria, was also incurably insane.
   1899); Anonym, _Endlich völlige Klarheit über den Tod des Königs
   Ludwig II. ..._ (1900); Freiherr v. Völderndorff, "Aus meiner
   Hofzeit," in _Velhagen und Klasings Monatshefte_ (1900); Francis
-  Gerard, _The Romance of Ludwig II. of Bavaria_; J. Bainville, _Louis
+  [[Gerard]], _The Romance of Ludwig II. of Bavaria_; J. Bainville, _Louis
   II. de Bavière_ (Paris, 1900); E. v. Possart, _Die
   Separatvorstellungen von König Ludwig II._ (1901); O. Bray-Steinburg,
   _Denkwürdigkeiten_ (1901); S. Röcke, _Ludwig II. und Richard Wagner_
-  (1903); W. Busch, _Die Kämpfe über Reichsverfassung und Kaisertum_
+  (1903); W. [[Busch]], _Die Kämpfe über Reichsverfassung und Kaisertum_
   (1906); Chlodwig Hohenlohe, _Denkwürdigkeiten_ (2 vols., 1907); A. v.
   Ruville, _Bayern und die Wiederaufrichtung des Deutschen Reiches_
   (1909); K. A. v. Müller, _Bayern im Jahre 1866 und die Berufung des
@@ -195,18 +195,18 @@ FOOTNOTES:
 
 LOUIS II.[1] (846-879), king of France, called "le Bègue" or "the
 Stammerer," was a son of Charles II. the Bald, Roman emperor and king of
-the West Franks, and was born on the 1st of November 846. After the
-death of his elder brother Charles in 866 he became king of Aquitaine,
+the West [[Franks]], and was born on the 1st of November 846. After the
+death of his elder brother Charles in 866 he became king of [[Aquitaine]],
 and in October 877 he succeeded his father as king of the West Franks,
 but not as emperor. Having made extensive concessions to the nobles both
-clerical and lay, he was crowned king by Hincmar, archbishop of Reims,
+clerical and lay, he was crowned king by [[Hincmar]], archbishop of Reims,
 on the 8th of December following, and in September 878 he took advantage
 of the presence of Pope John VIII. at the council of Troyes to be
 consecrated afresh. After a feeble and ineffectual reign of eighteen
 months Louis died at Compiègne on the 10th or 11th of April 879. The
 king is described as "un homme simple et doux, aimant la paix, la
 justice et la religion." By his first wife, Ansgarde, a Burgundian
-princess, he had two sons, his successors, Louis III. and Carloman; by
+princess, he had two sons, his successors, Louis III. and [[Carloman]]; by
 his second wife, Adelaide, he had a posthumous son, Charles the Simple,
 who also became king of France.     (A. W. H.*)
 

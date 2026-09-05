@@ -60,7 +60,7 @@ middle with a cross or a sword (the "sword of the Spirit," which it is
 supposed to symbolize); sometimes, however, the space within the border
 is embroidered with pictures. It is worn only by bishops and the higher
 clergy, and derives its name from the fact that it hangs down over the
-knee ([Greek: gony]). It is worn on the right side, under the
+[[Knee|knee]] ([Greek: gony]). It is worn on the right side, under the
 _phelonion_, but when the _sakkos_ is worn instead of the _phelonion_,
 by metropolitans, &c., it is attached to this. The _epigonation_, like
 the maniple, was originally a cloth held in the hand; a fact
@@ -75,7 +75,7 @@ embroidered square; but the earliest representations of the vestment in
 its actual form date from the 14th century, e.g. the mosaic of St
 Athanasius in the chapel of St Zeno in St Mark's at Venice.
 
-  See J. Braun, S. J., _Die liturgische Gewandung_ (Freiburg im
+  See J. Braun, S. J., _Die liturgische Gewandung_ ([[Freiburg]] im
   Breisgau, 1907), pp. 515-561. and the bibliography to VESTMENTS.
 
 

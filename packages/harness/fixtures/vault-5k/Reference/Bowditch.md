@@ -21,7 +21,7 @@ midst of his active career he undertook a translation of the _Mecanique
 celeste_ of P.S. Laplace, with valuable annotations (vol. i., 1829). He
 was offered, but declined, the professorship of mathematics and
 astronomy at Harvard. Subsequently he became president of the Mechanics'
-Institute in Boston, and also of the American Academy of Arts and
+Institute in [[Boston]], and also of the American Academy of Arts and
 Sciences. He died at Boston on the 16th of March 1838.
 
   A life of Bowditch was written by his son Nathaniel Ingersoll Bowditch

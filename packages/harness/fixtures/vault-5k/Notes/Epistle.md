@@ -15,7 +15,7 @@ production, ephemeral, intimate, personal and private, a substitute for
 a spoken conversation. The epistle, on the other hand, rather takes the
 place of a public speech, it is written with an audience in view, it is
 a literary form, a distinctly artistic effort aiming at permanence; and
-it bears much the same relation to a letter as a Platonic dialogue does
+it bears much the same relation to a letter as a Platonic [[Dialogue|dialogue]] does
 to a private talk between two friends. The posthumous value placed on a
 great man's letters would naturally lead to the production of epistles,
 which might be written to set forth the views of a person or a school,
@@ -65,14 +65,14 @@ special circumstances but treating them on general principles." Most of
 the literature of the sub-apostolic age is epistolary, and we have a
 particularly interesting form of epistle in the communications between
 churches (as distinct from individuals) known as the _First Epistle of
-Clement_ (Rome to Corinth), the _Martyrdom of Polycarp_ (Smyrna to
-Philomelium), and the _Letters of the Churches of Vienne and Lyons_ (to
+Clement_ (Rome to [[Corinth]]), the _Martyrdom of Polycarp_ (Smyrna to
+Philomelium), and the _Letters of the Churches of Vienne and [[Lyons]]_ (to
 the congregations of Asia Minor and Phrygia) describing the Gallican
 martyrdoms of A.D. 177. In the following centuries we have the valuable
 epistles of Cyprian, of Gregory Nazianzen (to Cledonius on the
 Apollinarian controversy), of Basil (to be classed rather as letters),
 of Ambrose, Chrysostom, Augustine and Jerome. The encyclical letters of
-the Roman Catholic Church are epistles, even more so than bulls, which
+the Roman Catholic Church are epistles, even more so than [[Bull|bulls]], which
 are usually more special in their destination. In the Renaissance one of
 the most common forms of literary production was that modelled upon
 Cicero's letters. From Petrarch to the _Epistolae obscurorum virorum_
@@ -101,7 +101,7 @@ epistles, twelve in number, are the classic examples of this form of
 verse in French literature; they were composed at different dates
 between 1668 and 1695. In the 18th century Voltaire enjoyed a supremacy
 in this graceful and sparkling species of writing; the _Epitre a Uranie_
-is perhaps the most famous of his verse-letters. Gresset, Bernis,
+is perhaps the most famous of his verse-letters. Gresset, [[Bernis]],
 Sedaine, Dorat, Gentil-Bernard, all excelled in the epistle. The curious
 "Epitres" of J.P.G. Viennet (1777-1868) were not easy and mundane like
 their predecessors, but violently polemical. Viennet, a hot defender of
@@ -109,12 +109,12 @@ lost causes, may be considered the latest of the epistolary poets of
 France.
 
 In England the verse-epistle was first prominently employed by Samuel
-Daniel in his "Letter from Octavia to Marcus Antonius" (1599), and later
+[[Daniel]] in his "Letter from Octavia to Marcus Antonius" (1599), and later
 on, more legitimately, in his "Certain Epistles" (1601-1603). His
-letter, in _terza rima_, to Lucy, Countess of Bristol, is one of the
+letter, in _terza rima_, to Lucy, Countess of [[Bristol]], is one of the
 finest examples of this form in English literature. It was Daniel's
 deliberate intention to introduce the Epistle into English poetry,
-"after the manner of Horace." He was supported by Ben Jonson, who has
+"after the manner of Horace." He was supported by Ben [[Jonson]], who has
 some fine Horatian epistles in his _Forests_ (1616) and his
 _Underwoods_. _Letters to Several Persons of Honour_ form an important
 section in the poetry of John Donne. Habington's _Epistle to a Friend_
@@ -122,7 +122,7 @@ is one of his most finished pieces. Henry Vaughan (1622-1695) addressed
 a fine epistle in verse to the French romance-writer Gombauld
 (1570-1666). Such "letters" were not unfrequent down to the Restoration,
 but they did not create a department of literature such as Daniel had
-proposed. At the close of the 17th century Dryden greatly excelled in
+proposed. At the close of the 17th century [[Dryden]] greatly excelled in
 this class of poetry, and his epistles to Congreve (1694) and to the
 duchess of Ormond (1700) are among the most graceful and eloquent that
 we possess. During the age of Anne various Augustan poets in whom the
@@ -156,7 +156,7 @@ colouring, are genuine Horatian epistles and of the pure Augustan type.
 This type, in English literature, is commonly, though not at all
 universally, cast in heroic verse. But Daniel employs _rime royal_ and
 _terza rima_, while some modern epistles have been cast in short iambic
-rhymed measures or in blank verse. It is sometimes not easy to
+rhymed measures or in [[Blank|blank]] verse. It is sometimes not easy to
 distinguish the epistle from the elegy and from the dedication. (E. G.)
 
   For St Paul's Epistles see PAUL, for St Peter's see PETER, for

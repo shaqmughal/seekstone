@@ -24,15 +24,15 @@ he received a brigade command under Sir John Moore. His regiments were
 heavily engaged in the earlier part of the famous retreat, but were not
 present at Corunna, having been detached to Vigo, whence they returned
 to England. Later in 1809, once more in the Peninsula, Brigadier-General
-Craufurd was three marches or more in rear of Wellesley's army when a
+Craufurd was three [[Marches|marches]] or more in rear of Wellesley's army when a
 report came in that a great battle was in progress. The march which
-followed is one almost unparalleled in military annals. The three
-battalions of the "Light Brigade" (43rd, 52nd and 95th) started in full
+followed is one almost unparalleled in military [[Annals|annals]]. The three
+[[Battalion|battalions]] of the "Light Brigade" (43rd, 52nd and 95th) started in full
 marching order, and arrived at the front on the day after the battle of
 Talavera, having covered 62 m. in twenty-six hours. Beginning their
 career with this famous march, these regiments and their chief, under
 whom served such men as Charles and William Napier, Shaw and Colborne,
-soon became celebrated as one of the best corps of troops in Europe, and
+soon became celebrated as one of the best [[Corps|corps]] of troops in Europe, and
 every engagement added to their laurels. Craufurd's operations on the
 Coa and Agueda in 1810 were daring to the point of rashness, but he knew
 the quality of the men he led better than his critics did, and though
@@ -47,14 +47,14 @@ amidst the cheers of his men, and nothing could show his genius for war
 better than his conduct on this day, in covering the strange
 readjustment of his line which Wellington was compelled to make in the
 face of the enemy. A little later he obtained major-general's rank; and
-on the 19th of January 1812, as he stood on the glacis of Ciudad
+on the 19th of January 1812, as he stood on the [[Glacis|glacis]] of Ciudad
 Rodrigo, directing the stormers of the Light Division, he fell mortally
 wounded. His body was carried out of action by his staff officer,
 Lieutenant Shaw of the 43rd (see SHAW KENNEDY), and, after lingering
-four days, he died. He was buried in the breach of the fortress where he
+four days, he died. He was buried in the [[Breach|breach]] of the fortress where he
 had met his death, and a monument in St Paul's cathedral commemorates
 Craufurd and Mackinnon, the two generals killed at the storming of
-Ciudad Rodrigo. The exploits of Craufurd and the Light Division are
+[[Ciudad Rodrigo]]. The exploits of Craufurd and the Light Division are
 amongst the most cherished traditions of the British and Portuguese
 armies. One of the quickest and most brilliant, if not the very first,
 of Wellington's generals, he had a fiery temper, which rendered him a
@@ -62,15 +62,15 @@ difficult man to deal with, but to the day of his death he possessed the
 confidence and affection of his men in an extraordinary degree.
 
 His elder brother, Lieutenant-General Sir CHARLES CRAUFURD (1761-1821),
-entered the 1st Dragoon Guards in 1778. Made captain in the Queen's Bays
-in 1785, he became the equerry and intimate friend of the duke of York.
+entered the 1st [[Dragoon]] [[Guards]] in 1778. Made captain in the Queen's Bays
+in 1785, he became the [[Equerry|equerry]] and intimate friend of the duke of York.
 He studied in Germany for some time, and, with his brother Robert's
 assistance, translated Tielcke's book on the Seven Years' War (_The
 Remarkable Events of the War between Prussia, Austria and Russia from
 1756 to 1763_). As aide-de-camp he accompanied the duke of York to the
 French War in 1793, and was at once sent as commissioner to the Austrian
 headquarters, with which he was present at Neerwinden, Caesar's Camp,
-Famars, Landrecies, &c. Major in 1793, and lieutenant-colonel in 1794,
+Famars, Landrecies, &c. [[Major]] in 1793, and lieutenant-colonel in 1794,
 he returned to the English army in the latter year, and on one occasion
 distinguished himself at the head of two squadrons, taking 3 guns and
 1000 prisoners. When the British army left the continent Craufurd was

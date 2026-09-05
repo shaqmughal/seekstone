@@ -15,9 +15,9 @@ the official title of the judges of two of the English superior courts
 of common law, and it is now extended to all the judges in the supreme
 court of judicature--a judge in the High Court of Justice being styled
 Mr Justice, and in the court of appeal Lord Justice. The president of
-the king's bench division of the High Court is styled Lord Chief Justice
+the king's [[Bench|bench]] division of the High Court is styled Lord Chief Justice
 (q.v.). The word is also applied, and perhaps more usually, to certain
-subordinate magistrates who administer justice in minor matters, and who
+subordinate [[Magistrate|magistrates]] who administer justice in minor matters, and who
 are usually called _justices of the peace_ (q.v.).
 
 ## See also

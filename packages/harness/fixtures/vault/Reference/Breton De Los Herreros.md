@@ -1,11 +1,11 @@
 # Breton De Los Herreros
 
-BRETON DE LOS HERREROS, MANUEL (1796-1873), Spanish dramatist, was born at
+BRETON DE LOS HERREROS, [[Manuel|MANUEL]] (1796-1873), Spanish dramatist, was born at
 Quel (Logrono) on the 19th of December 1796 and was educated at Madrid.
 Enlisting on the 24th of May 1812, he served against the French in Valencia
-and Catalonia, and retired with the rank of corporal on the 8th of March
+and [[Catalonia]], and retired with the rank of corporal on the 8th of March
 1822. He obtained a minor post in the civil service under the liberal
-government, and on his discharge determined to earn his living by writing
+government, and on his [[Discharge|discharge]] determined to earn his living by writing
 for the stage. His first piece, _A la vejez viruelas_, was produced on the
 14th of October 1824, and proved the writer to be the legitimate successor
 of the younger Moratin. His industry was astonishing: between October 1824

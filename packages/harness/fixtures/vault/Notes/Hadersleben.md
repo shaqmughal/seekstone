@@ -15,8 +15,8 @@ junction of the main line of railway from Woyens with three vicinal
 lines. The principal buildings are the beautiful church of St Mary,
 dating from the 13th century, the theological seminary established in
 1870, the gymnasium and the hospital. The industries include
-iron-founding, tanning, and the manufacture of machines, tobacco and
-gloves. The harbour is only accessible to small vessels.
+iron-founding, tanning, and the manufacture of [[Machine|machines]], tobacco and
+[[Glove|gloves]]. The harbour is only accessible to small vessels.
 
 Hadersleben is first mentioned in 1228, and received municipal rights
 from Duke Waldemar II. in 1292. It suffered considerably during the wars

@@ -6,7 +6,7 @@ process by which a judgment could be reversed on the ground of error,
 known as a "writ of error," see WRIT and APPEAL. The words "error
 excepted" or "errors and omissions excepted" (contracted to "E.E." "E. &
 O.E."), are frequently placed at the end of a statement of account or an
-invoice, so that the accounting party may reserve the right to correct
+[[Invoice|invoice]], so that the accounting party may reserve the right to correct
 any errors or omissions which may be subsequently discovered, or make
 further claims in respect of them. In mathematics, "error" is the
 deviation of an observed or calculated quantity from its true value. The

@@ -7,7 +7,7 @@ Imperial Russian Geographical Society has a museum here. Several of the
 palace revolutionaries, known as Decembrists, were banished to this
 place from St Petersburg in consequence of the conspiracy of December
 1825. The inhabitants support themselves by agriculture and by trade in
-furs, cattle, hides and tallow bought from the Buriats, and in
+[[Fur|furs]], cattle, hides and tallow bought from the Buriats, and in
 manufactured wares imported from Russia and west Siberia.
 
 ## References

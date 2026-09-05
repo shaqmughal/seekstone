@@ -45,18 +45,18 @@ conjecture that the poem is the "Awntyres of Arthure at the Tern
 Wathelyne" (see S.T.S., _Scottish Alliterative Poems_, 1897, and
 Introduction, pp. 11 et seq.), and little direct evidence in favour of
 the view that the reference is to the greatest of middle English
-romances, _Sir Gawain and the Grene Knight_. The third may be safely
+romances, _Sir [[Gawain]] and the Grene [[Knight]]_. The third may be safely
 accepted as the well-known _Pistil_ [Epistle] _of Swete Susan_, printed
-by Laing (_Select Remains_, 1822) and by the S.T.S. (_Scottish
+by [[Laing]] (_Select Remains_, 1822) and by the S.T.S. (_Scottish
 Alliterative Poems, u.s._).
 
   See, in addition to the works named, above, G. Neilson's _Sir Hew of
-  Eglintoun and Huchown of the Awle Ryale_ (Glasgow, 1901), which
+  Eglintoun and Huchown of the Awle Ryale_ ([[Glasgow]], 1901), which
   contains a full record of references to the historical Sir Hew of
   Eglintoun; _Huchown of the Awle Ryale, the Alliterative Poet_
   (Glasgow, 1902) by the same; J. T. T. Brown's _Huchown of the Awle
   Ryale and his Poems_ (Glasgow, 1902), in answer to the foregoing. See
-  also the correspondence in the _Athenaeum_, 1900-1901, and the review
+  also the correspondence in the _[[Athenaeum]]_, 1900-1901, and the review
   of Mr Neilson's pamphlets, ib. (Nov. 22, 1902); and J. H. Millar's
   _Literary History of Scotland_ (1903), pp. 8-14.
 

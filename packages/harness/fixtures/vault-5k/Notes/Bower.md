@@ -7,7 +7,7 @@ topic: history
 # Bower
 
 BOWER, WALTER (1385-1449), Scottish chronicler, was born about 1385 at
-Haddington. He was abbot of Inchcolm (in the Firth of Forth) from 1418,
+[[Haddington]]. He was abbot of Inchcolm (in the Firth of Forth) from 1418,
 was one of the commissioners for the collection of the ransom of James
 I., king of Scots, in 1423 and 1424, and in 1433 one of the embassy to
 Paris on the business of the marriage of the king's daughter to the

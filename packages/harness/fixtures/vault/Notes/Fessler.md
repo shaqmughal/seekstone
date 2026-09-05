@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fessler"
 
 FESSLER, IGNAZ AURELIUS (1756-1839), Hungarian ecclesiastic, historian
 and freemason, was born on the 18th of May 1756 at the village of Zurány
-in the county of Moson. In 1773 he joined the order of Capuchins, and in
+in the county of Moson. In 1773 he joined the order of [[Capuchins]], and in
 1779 was ordained priest. He had meanwhile continued his classical and
 philological studies, and his liberal views brought him into frequent
 conflict with his superiors. In 1784, while at the monastery of Mödling,
@@ -19,7 +19,7 @@ the better education of the clergy and drawing his attention to the
 irregularities of the monasteries. The searching investigation which
 followed raised up against him many implacable enemies. In 1784 he was
 appointed professor of Oriental languages and hermeneutics in the
-university of Lemberg, when he took the degree of doctor of divinity;
+university of [[Lemberg]], when he took the degree of doctor of divinity;
 and shortly afterwards he was released from his monastic vows on the
 intervention of the emperor. In 1788 he brought out his tragedy of
 _Sidney_, an _exposé_ of the tyranny of James II. and of the fanaticism
@@ -32,9 +32,9 @@ to Lutheranism and next year contracted an unhappy marriage, which was
 dissolved in 1802, when he married again. In 1796 he went to Berlin,
 where he founded a humanitarian society, and was commissioned by the
 freemasons of that city to assist Fichte in reforming the statutes and
-ritual of their lodge. He soon after this obtained a government
+ritual of their [[Lodge|lodge]]. He soon after this obtained a government
 appointment in connexion with the newly-acquired Polish provinces, but
-in consequence of the battle of Jena (1806) he lost this office, and
+in consequence of the battle of [[Jena]] (1806) he lost this office, and
 remained in very needy circumstances until 1809, when he was summoned to
 St Petersburg by Alexander I., to fill the post of court councillor, and
 the professorship of oriental languages and philosophy at the
@@ -60,8 +60,8 @@ practically historical novels. He did much, however, to make the study
 of history popular. His most important works are--_Die Geschichten der
 Ungarn und ihrer Landsassen_ (10 vols. Leipzig, 1815-1825); _Marcus
 Aurelius_ (3 vols., Breslau, 1790-1792; 3rd edition, 4 vols., 1799);
-_Aristides und Themistokles_ (2 vols., Berlin, 1792; 3rd edition, 1818);
-_Attila, König der Hunnen_ (Breslau, 1794); _Mathias Corvinus_ (2 vols.,
+_[[Aristides]] und Themistokles_ (2 vols., Berlin, 1792; 3rd edition, 1818);
+_Attila, König der Hunnen_ (Breslau, 1794); _Mathias [[Corvinus]]_ (2 vols.,
 Breslau, 1793-1794); and _Die drei grossen Könige der Hungarn aus dem
 Arpadischen Stamme_ (Breslau, 1808).
 

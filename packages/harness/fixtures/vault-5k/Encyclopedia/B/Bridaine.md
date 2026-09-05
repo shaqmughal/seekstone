@@ -8,7 +8,7 @@ topic: composers
 
 BRIDAINE (or BRYDAYNE), JACQUES (1701-1767), French Roman Catholic
 preacher, was born at Chuslan in the department of Gard on the 21st of
-March 1701. He was educated at Avignon, first in the Jesuit college and
+March 1701. He was educated at [[Avignon]], first in the Jesuit college and
 afterwards at the Sulpician seminary of St Charles. Soon after his
 ordination to the priesthood in 1725, he joined the _Missions Royales_,
 organized to bring back to the Catholic faith the Protestants of France. He

@@ -8,7 +8,7 @@ She was so devoted to her sons Tiberius and Gaius that it was even
 asserted that she was concerned in the death of her son-in-law Scipio,
 who by his achievements had eclipsed the fame of the Gracchi, and was
 said to have approved of the murder of Tiberius. When asked to show her
-jewels she presented her sons, and on her death a statue was erected to
+[[Jewel|jewels]] she presented her sons, and on her death a statue was erected to
 her memory inscribed, "Cornelia, the mother of the Gracchi." After the
 murder of her second son Gaius she retired to Misenum, where she devoted
 herself to Greek and Latin literature, and to the society of men of

@@ -10,14 +10,14 @@ which, though they might be in some cases, as in the making of roads, of
 the same character as those undertaken by military engineers, were
 neither exclusively military in purpose nor executed by soldiers, and
 those men by way of distinction came to be known as civil engineers. No
-better definition of their aims and functions can be given than that
+better [[Definition|definition]] of their aims and functions can be given than that
 which is contained in the charter (dated 1828) of the Institution of
 Civil Engineers (London), where civil engineering is described as the
 "art of directing the great sources of power in nature for the use and
 convenience of man, as the means of production and of traffic in states,
 both for external and internal trade, as applied in the construction of
-roads, bridges, aqueducts, canals, river navigation and docks for
-internal intercourse and exchange, and in the construction of ports,
+roads, bridges, aqueducts, canals, river navigation and [[Dock|docks]] for
+internal intercourse and [[Exchange|exchange]], and in the construction of ports,
 harbours, moles, breakwaters and lighthouses, and in the art of
 navigation by artificial power for the purposes of commerce, and in the
 construction and adaptation of machinery, and in the drainage of cities
@@ -25,7 +25,7 @@ and towns." Wide as is this enumeration, the practice of a civil
 engineer in the earlier part of the 19th century might cover many or
 even most of the subjects it contains. But gradually specialization set
 in. Perhaps the first branch to be recognized as separate was
-_mechanical_ engineering, which is concerned with steam-engines, machine
+_mechanical_ engineering, which is concerned with steam-engines, [[Machine|machine]]
 tools, mill-work and moving machinery in general, and it was soon
 followed by _mining_ engineering, which deals with the location and
 working of coal, ore and other minerals. Subsequently numerous other

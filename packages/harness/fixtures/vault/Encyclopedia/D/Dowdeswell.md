@@ -18,7 +18,7 @@ chancellor of the exchequer in 1765 under the marquess of Rockingham,
 and his short tenure of this position appears to have been a successful
 one, he being in Lecky's words "a good financier, but nothing more." To
 the general astonishment he refused to abandon his friends and to take
-office under Lord Chatham, who succeeded Rockingham in August 1766.
+office under Lord [[Chatham]], who succeeded Rockingham in August 1766.
 Dowdeswell then led the Rockingham party in the House of Commons, taking
 an active part in debate until his death at Nice on the 6th of February
 1775. The highly eulogistic epitaph on his monument at Bushley was

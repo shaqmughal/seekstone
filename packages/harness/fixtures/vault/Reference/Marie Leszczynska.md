@@ -14,19 +14,19 @@ Opalinska. During a temporary flight from Warsaw the child was lost, and
 eventually discovered in a stable; on another occasion she was for
 safety's sake hidden in an oven. In his exile Stanislas found his chief
 consolation in superintending the education of his daughter. Madame de
-Prie first suggested the Polish princess as a bride for Louis duke of
-Bourbon, but she was soon betrothed not to him but to Louis XV., a step
+Prie first suggested the Polish princess as a [[Bride|bride]] for Louis duke of
+[[Bourbon]], but she was soon betrothed not to him but to Louis XV., a step
 which was the outcome of the jealousies of the houses of Condé and
 Orléans, and was everywhere regarded as a _mésalliance_ for the French
-king. The marriage took place at Fontainebleau on the 5th of September
+king. The marriage took place at [[Fontainebleau]] on the 5th of September
 1725. Marie's one attempt to interfere in politics, an effort to prevent
 the disgrace of the duke of Bourbon, was the beginning of her husband's
 alienation from her; and after the birth of her seventh child Louise,
 Marie was practically deserted by Louis, who openly avowed his _liaison_
-with Louise de Nesle, comtesse de Mailly, who was replaced in turn by
-her sisters Pauline marquise de Vintimille, and Marie Anne, duchess de
+with Louise de Nesle, comtesse de [[Mailly]], who was replaced in turn by
+her sisters Pauline marquise de Vintimille, and Marie [[Anne]], duchess de
 Châteauroux, and these by Madame de Pompadour. In the meantime the queen
-saw her father Stanislas established in Lorraine, and the affectionate
+saw her father Stanislas established in [[Lorraine]], and the affectionate
 intimacy which she maintained with him was the chief consolation of her
 harassed life. After a momentary reconciliation with Louis during his
 illness at Metz in 1744, Marie shut herself up more closely with her own

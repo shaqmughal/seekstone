@@ -10,7 +10,7 @@ Infanticide of girls is, and no doubt ever has been, a very common
 practice among savages, and for obvious reasons. Among tribes in a
 primitive stage of social organization girl-children must always have
 been a hindrance and a source of weakness. They had to be fed and yet
-they could not take part in the hunt for food, and they offered a
+they could not take part in the [[Hunt|hunt]] for food, and they offered a
 temptation to neighbouring tribes. Infanticide, however, is not proved
 to have been so universal as McLennan suggests, and it is more probable
 that the reason of exogamy is really to be found in that primitive
@@ -45,12 +45,12 @@ same, or even of a consanguineous family," and the Bakalahari have the
 same rule. Paul B. du Chaillu found exogamy the rule and blood marriages
 regarded as an abomination throughout western Equatorial Africa. In
 India the Khasias, Juangs, Waralis, Otaons, Hos and other tribes are
-strictly exogamous. The Kalmucks are divided into hordes, and no man may
+strictly exogamous. The [[Kalmuck|Kalmucks]] are divided into [[Horde|hordes]], and no man may
 marry a woman of the same horde. Circassians and Samoyedes have similar
 rules. The Ostiaks regard endogamy (marriage within the clan) as a
 crime, as do the Yakuts of Siberia. Among the Indians of America severe
 rules prescribing exogamy prevail. The Tsimsheean Indians of British
-Columbia are divided into tribes and totems, or "crests which are
+[[Columbia]] are divided into tribes and totems, or "crests which are
 common to all the tribes," says one writer. "The crests are the whale,
 the porpoise, the eagle, the coon, the wolf and the frog.... The
 relationship existing between persons of the same crest is nearer than

@@ -15,7 +15,7 @@ According to the old astrologers, relations subsisted between these
 squares and the planets. In later times such squares ranked only as
 mathematical curiosities; till at last their mode of construction was
 systematically investigated. The earliest known writer on the subject
-was Emanuel Moscopulus, a Greek (4th or 5th century). Bernard Frenicle
+was Emanuel Moscopulus, a Greek (4th or 5th century). [[Bernard]] Frenicle
 de Bessy constructed magic squares such that if one or more of the
 encircling bands of numbers be taken away the remaining central squares
 are still magical. Subsequently Poignard constructed squares with
@@ -65,7 +65,7 @@ extended to cubes.
 [Illustration: FIG. 2.]
 
   Two interesting magical arrangements are said to have been given by
-  Benjamin Franklin; these have been termed the "magic square of
+  [[Benjamin]] [[Franklin]]; these have been termed the "magic square of
   squares" and the "magic circle of circles." The first (fig. 1) is a
   square divided into 256 squares, i.e. 16 squares along a side, in Fig.
   2. which are placed the numbers from 1 to 256. The chief properties of
@@ -77,7 +77,7 @@ extended to cubes.
   of the numbers in any 16 cells of the large square which themselves
   are disposed in a square is 2056. This square has other curious
   properties. The "magic circle of circles" (fig. 2) consists of eight
-  annular rings and a central circle, each ring being divided into eight
+  [[Annular|annular]] rings and a central circle, each ring being divided into eight
   cells by radii drawn from the centre; there are therefore 65 cells.
   The number 12 is placed in the centre, and the consecutive numbers 13
   to 75 are placed in the other cells. The properties of this figure
@@ -112,7 +112,7 @@ it one of the eight equal squares by which any square may be conceived
 to be surrounded, each of which has two sides resting on adjoining
 squares, while four have sides resting on the surrounded square, and
 four meet it only at its four angles. 1, 2, 3 are placed along the path
-of a knight in chess; 4, along the same path, would fall in a cell of
+of a [[Knight|knight]] in chess; 4, along the same path, would fall in a cell of
 the outer square, and is placed instead in the corresponding cell of the
 original square; 5 then falls within the square. a, b, c, d are placed
 diagonally in the square; but e enters the outer square, and is removed
@@ -196,7 +196,7 @@ number by 2 and subtracting 17; and, vice versa, by adding 17 to each of
 the latter, and dividing by 2. The diagonal summations of a square,
 filled as in fig. 17, make zero; and, to obtain the same in the rows and
 columns, we must assign such values to the p's and q's as satisfy the
-equations p1 + p2 + a1 + a2 = 0, p3 + p4 + a3 + a4 = 0, p1 + p3 - a1 -
+[[Equation|equations]] p1 + p2 + a1 + a2 = 0, p3 + p4 + a3 + a4 = 0, p1 + p3 - a1 -
 a3 = 0, and p2 + p4 - a2 - a4 = 0,--a solution of which is readily
 obtained by inspection, as in fig. 18; this leads to the square, fig.
 19. When the root is 8, the upper four subsidiary rows may at once be
@@ -275,7 +275,7 @@ without altering the summations.
                FIG. 20.
 
   _Nasik Squares._--Squares that have many more summations than in rows,
-  columns and diagonals were investigated by A. H. Frost (_Cambridge
+  columns and diagonals were investigated by A. H. [[Frost]] (_Cambridge
   Math. Jour._, 1857), and called Nasik squares, from the town in India
   where he resided; and he extended the method to cubes, various
   sections of which have the same singular properties. In order to
@@ -338,7 +338,7 @@ without altering the summations.
   [Sigma]p and [Sigma]q. If p1, p2, p3, p4 and q1, q2, q3, q4 be 1, 2,
   4, 3, and 0, 1, 3, 2, we have the Nasik square of fig. 24. A square
   like this is engraved in the Sanskrit character on the gate of the
-  fort of Gwalior, in India. The squares of higher multiples of 4 are
+  fort of [[Gwalior]], in India. The squares of higher multiples of 4 are
   readily obtained by a similar adjustment.
 
     +---+---+---+---+---+---+---+     +--+--+--+--+--+--+--+--+--+
@@ -528,7 +528,7 @@ without altering the summations.
   same in each, as in fig. 26.
 
   Among the many ingenious squares given by various writers, this
-  article may justly close with two by L. Euler, in the _Histoire de
+  article may justly close with two by L. [[Euler]], in the _Histoire de
   l'académie royale des sciences_ (Berlin, 1759). In fig. 27 the natural
   numbers show the path of a knight that moves within an odd square in
   such a manner that the sum of pairs of numbers opposite to and
@@ -538,7 +538,7 @@ without altering the summations.
   from the middle point is 18.
 
   A model consisting of seven Nasik cubes, constructed by A. H. Frost,
-  is in the South Kensington Museum. The centres of the cubes are placed
+  is in the South [[Kensington]] Museum. The centres of the cubes are placed
   at equal distances in a straight line, the similar faces looking the
   same way in a plane parallel to that line. Each of the cubes has seven
   parallel glass plates, to which, on one side, the seven numbers in the
@@ -589,8 +589,8 @@ squares as Mercator's projections, so to say, of "magic rings."
   indefinite extension in all directions of each of the aforesaid n²
   magic squares.     (C. A. M. F.)
 
-  See F. E. A. Lucas, _Récréations mathématiques_ (1891-1894); W. W. R.
-  Ball, _Mathematical Recreations_ (1892); W. E. M. G. Ahrens,
+  See F. E. A. [[Lucas]], _Récréations mathématiques_ (1891-1894); W. W. R.
+  [[Ball]], _Mathematical Recreations_ (1892); W. E. M. G. Ahrens,
   _Mathematische Unterhaltungen und Spiele_ (1901); H. C. H. Schubert,
   _Mathematische Mussestunden_ (1900). A very detailed work is B.
   Violle, _Traité complet des carrés magiques_ (3 vols., 1837-1838). The

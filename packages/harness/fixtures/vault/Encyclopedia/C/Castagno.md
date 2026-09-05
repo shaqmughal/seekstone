@@ -2,13 +2,13 @@
 
 CASTAGNO, ANDREA DEL (1390-1457), Italian painter of the Florentine
 school, was born in 1390, probably at Castagno, in the district of
-Mugello, and died in August 1457. He imitated Masaccio and the
+Mugello, and died in August 1457. He imitated [[Masaccio]] and the
 naturalists of his time in boldness of attitude, but was deficient in
-grace and colouring. His name was for about four centuries burdened with
+[[Grace|grace]] and colouring. His name was for about four centuries burdened with
 the heinous charge of murder; it was said that he treacherously
 assassinated his colleague, Domenico Veneziano, in order to monopolize
-the then recent secret of oil painting as practised in Flanders by the
-Van Eycks. This charge has, however, been proved to be an untruth;
+the then recent secret of oil painting as practised in [[Flanders]] by the
+Van [[Eyck|Eycks]]. This charge has, however, been proved to be an untruth;
 Domenico died four years after Andrea. The latter is commonly called
 "Andrea (or Andreino) degl' Impiccati" (of the Hanged Men); this was in
 consequence of his being commissioned in 1435 to paint, in the Palazzo

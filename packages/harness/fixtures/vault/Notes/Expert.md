@@ -7,7 +7,7 @@ opinion on some point in issue with which he is peculiarly conversant.
 In Roman law questions of disputed handwriting were referred to experts;
 and in France, whenever the court considers that a report by experts is
 necessary, it is ordered by a judgment clearly setting forth the objects
-of the _expertise_ (Code Proc. Civ. art. 302). Three experts are then to
+of the _expertise_ ([[Code]] Proc. Civ. art. 302). Three experts are then to
 be appointed, unless the parties agree upon one only (art. 303). The
 experts are required to take an oath (art. 305), but in practice this
 requirement is frequently dispensed with. They may be challenged on the
@@ -19,25 +19,25 @@ not the personal opinion of each of the experts (art. 318). If the court
 is not satisfied with the report, new experts may be appointed (art.
 322); the judges are not bound to adopt the opinion of the experts (art.
 323). "This procedure in regard to experts is common to both the civil
-and commercial courts, but it is much more frequently resorted to in the
+and [[Commercial Court|commercial courts]], but it is much more frequently resorted to in the
 commercial court than in the civil court, and the investigation is
 usually conducted by special experts officially attached to each of
 these courts" (Bodington, _French Law of Evidence_, London, 1904, p.
 102). A similar system is to be found in force in many other European
 countries; see e.g. Codes of Civil Procedure of Holland, arts. 222 et
-seq.; Belgium, arts. 302 et seq.; Italy, arts. 252 et seq.; as well as
+seq.; [[Belgium]], arts. 302 et seq.; Italy, arts. 252 et seq.; as well as
 in those colonies where French law has been followed (Codes of Civil
-Procedure of Quebec, arts. 392 et seq.; St Lucia, arts. 286 et seq.). In
-Mauritius the articles of the French law, summarized above, are still
+Procedure of Quebec, arts. 392 et seq.; St [[Lucia]], arts. 286 et seq.). In
+[[Mauritius]] the articles of the French law, summarized above, are still
 nominally in force; but in practice each side calls its own expert
 evidence, as in England.
 
 There is some evidence that in England the courts were in early times in
-the habit of summoning to their assistance, apparently as assessors,
+the habit of summoning to their assistance, apparently as [[Assessor|assessors]],
 persons specially qualified to advise upon any scientific or technical
 question that required to be determined. Thus "in an appeal of maihem
 (i.e. wounding) ... the court did not know how to adjudge because the
-wound was new, and then the defendant took issue and prayed the court
+wound was new, and then the [[Defendant|defendant]] took issue and prayed the court
 that the maihem might be examined, on which a writ was sent to the
 sheriff to cause to come _medicos chirurgieos de melioribus London, ad
 informandum dominum regem el curiam de his quae eis ex parte domini
@@ -60,9 +60,9 @@ generally in the United States (see e.g. New York Civil Code, s. 1843).
 In Scotland, medical and other scientific reports are lodged in process
 before the trial, and the witness reads them as part of his evidence and
 is liable to be examined or cross-examined on their contents. (2) In
-strictness, an expert will not be allowed, in cases of alleged insanity,
+strictness, an expert will not be allowed, in cases of alleged [[Insanity|insanity]],
 to say that a litigating or incriminated party is insane or the reverse,
-and so to usurp the prerogative of the court or jury. But he may be
+and so to usurp the prerogative of the court or [[Jury|jury]]. But he may be
 asked whether certain facts or symptoms, _assuming them to be proved_,
 are or are not indicative of insanity. But in practice this rule is
 relaxed both in England and in Scotland, and (where it exists) to a
@@ -95,7 +95,7 @@ council in patent cases (Patents, &c., Act 1883., s. 28). Maritime
 causes, whether original or on appeal from county courts, are usually
 taken in the presence of Elder Brethren of the Trinity House, who advise
 the judge without having any right to control or any responsibility for
-his decision (see the "Beryl," 1884, 9 P.D. 1), and on appeal in
+his decision (see the "[[Beryl]]," 1884, 9 P.D. 1), and on appeal in
 maritime causes nautical assessories are usually called in by the court
 of appeal, and may be called in by the House of Lords (Judicature Act
 1891, s. 3); a like provision is made as to maritime causes in Scottish

@@ -9,7 +9,7 @@ id: 42-171
 # Gelatin
 
 GELATIN, or GELATINE, the substance which passes into solution when
-"collagen," the ground substance of bone, cartilage and white fibrous
+"collagen," the ground substance of [[Bone|bone]], cartilage and white fibrous
 tissue, is treated with boiling water or dilute acids. It is especially
 characterized by its property of forming a jelly at ordinary
 temperature, becoming liquid when heated, and resolidifying to a jelly
@@ -107,7 +107,7 @@ varying from 0.25 to 0.7%.
 
 Gelatin occurs in commerce in varying degrees of purity; the purer form
 obtained from skins and bones (to which this article is restricted) is
-named gelatin; a preparation of great purity is "patent isinglass,"
+named gelatin; a preparation of great purity is "patent [[Isinglass|isinglass]],"
 while isinglass (q.v.) itself is a fish-gelatin; less pure forms
 constitute glue (q.v.), while a dilute aqueous solution appears in
 commerce as size (q.v.). The manufacture follows much the same lines as
@@ -133,7 +133,7 @@ taken to ensure purity and cleanliness.
   "size."
 
   Vegetable gelatin is manufactured from a seaweed, genus _Laminaria_;
-  from the tengusa, an American seaweed, and from Irish moss. The
+  from the tengusa, an American seaweed, and from [[Irish Moss|Irish moss]]. The
   _Laminaria_ is first extracted with water, and the residue with sodium
   carbonate; the filtrate is acidified with hydrochloric acid and the
   precipitated alginic acid washed and bleached. It is then dissolved in
@@ -152,14 +152,14 @@ taken to ensure purity and cleanliness.
   of gelatin, we here enumerate the more important uses of ordinary
   gelatin. In photography it is employed in carbon-processes, its use
   depending on the fact that when treated with potassium bichromate and
-  exposed to light, it is oxidized to insoluble compounds; it plays a
+  exposed to light, it is oxidized to insoluble [[Compound|compounds]]; it plays a
   part in many other processes. A solution of gelatin containing readily
   crystallized salts--alum, nitre, &c.--solidifies with the formation of
   pretty designs; this is the basis of the so-called "crystalline glass"
   used for purposes of ornamentation. It is also used for coating pills
   to prevent them adhering together and to make them tasteless.
   Compounded with various mineral salts, the carbonates and phosphates
-  of calcium, magnesium and aluminium, it yields a valuable ivory
+  of calcium, magnesium and aluminium, it yields a valuable [[Ivory|ivory]]
   substitute. It also plays a part in the manufacture of artificial
   leather, of India inks, and of artificial silk (the Vanduara Company
   processes).

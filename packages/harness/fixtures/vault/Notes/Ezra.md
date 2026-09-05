@@ -39,15 +39,15 @@ only be accounted for by the influence of the original forms in Greek,
 as x. 23 _signaculum_ ([Greek: sphragis]) ... _tradita est_; xi. 4
 _caput_ ([Greek: kephalê]) ... _sed et ipsa_. In vi. 25 we have the
 Greek attraction of the relative--_omnibus istis quibus praedixi tibi_.
-In his _Messias Judaeorum_ (1869), pp. 36-110, Hilgenfeld has given a
+In his _Messias Judaeorum_ (1869), pp. 36-110, [[Hilgenfeld]] has given a
 reconstruction of the Greek text. Till 1896 only Ewald believed that 4
 Ezra was written originally in Hebrew. In that year Wellhausen (_Gött.
 Gel. Anz._ pp. 12-13) and Charles (_Apoc. Bar._ p. lxxii) pointed out
 that a Hebrew original must be assumed on various grounds; and this
 view the former established in his _Skizzen u. Vorarbeiten_, vi. 234-240
-(1899). Of the numerous grounds for this assumption it will be necessary
+(1899). Of the numerous grounds for this [[Assumption|assumption]] it will be necessary
 only to adduce such constructions as "de quo me interrogas de eo," iv.
-28, and xiii. 26, "qui per semet ipsum liberabit" (= [Hebrew: asher bo])
+28, and xiii. 26, "qui per semet ipsum liberabit" (= [Hebrew: [[Asher|asher]] bo])
 = "through whom he will deliver," or to point to such a mistranslation
 as vii. 33, "longanimitas congregabitur," where for "congregabitur" (=
 [Hebrew: yeasef]) we require "evanescet," which is another and the
@@ -66,16 +66,16 @@ Sinai_. Here there is a corruption of [Hebrew: sneh] "bush" into
 [Hebrew: sinai] "Sinai."
 
   _Latin Version._--All the older editions of this version, as those of
-  Fabricius, Sabatier, Volkmar, Hilgenfeld, Fritzsche, as well as in the
+  [[Fabricius]], Sabatier, Volkmar, Hilgenfeld, Fritzsche, as well as in the
   older editions of the Bible, are based ultimately on only one MS., the
   Codex Sangermanensis (written A.D. 822), as Gildemeister proved in
   1865 from the fact that the large fragment between verses 36 and 37 in
   chapter vii., which is omitted in all the above editions, originated
-  through the excision of a leaf in this MS. A splendid edition of this
+  through the excision of a [[Leaf|leaf]] in this MS. A splendid edition of this
   version based on MSS. containing the missing fragment, which have been
   subsequently discovered, has been published by Bensly-James, op. cit.
   This edition has taken account of all the important MSS. known, save
-  one at Leon in Spain.
+  one at [[Leon]] in Spain.
 
   _Syriac Version._--This version, found in the Ambrosian Library in
   Milan, was translated into Latin by Ceriani, _Monumenta sacra et
@@ -105,7 +105,7 @@ Sinai_. Here there is a corruption of [Hebrew: sneh] "bush" into
   _Uncanonical Writings of the Old Testament_, pp. 488 sqq. (Venice,
   1901).
 
-  _Georgian Version._--According to F.C. Conybeare an accurate Georgian
+  _Georgian Version._--According to F.C. [[Conybeare]] an accurate Georgian
   version made from the Greek exists in an 11th-century MS. at
   Jerusalem.
 
@@ -130,14 +130,14 @@ like the apocalypse of Baruch. They are: (1) iii. 1-v. 19; (2) v. 20-vi.
 eschatological questions. The first three are devoted to the discussion
 of religious problems affecting in the main the individual. The
 presuppositions underlying these are in many cases the same as those in
-the Pauline Epistles. The next three visions are principally concerned
+the Pauline [[Epistle|Epistles]]. The next three visions are principally concerned
 with eschatological problems which relate to the nation. The seventh
 vision is a fragment of the Ezra Saga recounting the rewriting of the
 Scriptures, which had been destroyed. This has no organic connexion with
 what precedes.
 
   _First Vision._ iii.-v. 19.--"In the thirtieth year after the ruin of
-  the city I Salathiel (the same is Ezra) was in Babylon and lay
+  the city I Salathiel (the same is Ezra) was in [[Babylon]] and lay
   troubled upon my bed." In a long prayer Ezra asks how the desolation
   of Sion and the prosperity of Babylon can be in keeping with the
   justice of God. The angel Uriel answers that God's ways are
@@ -147,7 +147,7 @@ what precedes.
 
   _Second Vision._ v. 14-vi. 34.--Phaltiel, chief of the people,
   reproaches Ezra for forsaking his flock. Ezra fasts, and in his prayer
-  asks why God had given up his people into the hands of the heathen.
+  asks why God had given up his people into the hands of the [[Heathen|heathen]].
   Uriel replies: "Lovest thou that people better than He that made
   them?" Man cannot find out God's judgment. The end is at hand; its
   signs are recounted.
@@ -161,15 +161,15 @@ what precedes.
   will be saved--only as it were a grape out of a cluster or a plant out
   of a forest.
 
-  _Fourth Vision._ ix. 26-x. 60.--Ezra eats of herbs in the field of
+  _Fourth Vision._ ix. 26-x. 60.--Ezra eats of [[Herb|herbs]] in the field of
   Ardat, and sees in a vision a woman mourning for her only son. Ezra
   reminds her of the greater desolation of Sion. Suddenly she is
   transfigured and vanishes, and in her place appears a city. The woman,
   Uriel explains, represents Sion.
 
-  _Fifth Vision._ xi. i-xii. 39.--Vision of an eagle with three heads,
+  _Fifth Vision._ xi. i-xii. 39.--Vision of an [[Eagle|eagle]] with three heads,
   twelve wings and eight winglets, which is rebuked by a lion and
-  destroyed. The eagle is the fourth kingdom seen by Daniel, and the
+  destroyed. The eagle is the fourth kingdom seen by [[Daniel]], and the
   lion is the Messiah.
 
   _Sixth Vision._ xiii.--Vision of a man (i.e. the Messiah) arising from
@@ -200,7 +200,7 @@ sixth visions are eschatological. In these the writer turns aside from
 the religious problems of the first three visions and concerns himself
 only with the future national supremacy of Israel. Zion's glory will
 certainly be revealed (vision four), Israel will destroy Rome (five) and
-the hostile Gentiles (six). Then the book is brought to a close with the
+the hostile [[Gentile|Gentiles]] (six). Then the book is brought to a close with the
 legend of Ezra's restoration of the lost Old Testament Scriptures.
 
 In the course of the above work there are many inconsistencies and
@@ -217,12 +217,12 @@ six are drawn from oral or written tradition, and relate only to the
 political expectations of Israel, and seven is a reproduction of a
 legend, for the independent existence of which evidence is furnished by
 the quotations in Bensly-James pp. xxxvii-xxxviii. Thus the chief
-champion of the unity of the book makes so many concessions as to its
+[[Champion|champion]] of the unity of the book makes so many concessions as to its
 dependence on previously existing sources that, to the student of
-eschatology, there is little to choose between his view and that of
+[[Eschatology|eschatology]], there is little to choose between his view and that of
 Kabisch. In fact, if the true meaning of the borrowed materials is to be
 discovered, the sources must be disentangled. Hence the need of some
-such analysis as that of Kabisch (_Das vierte Buck Ezra_, 1889): S = an
+such analysis as that of Kabisch (_Das vierte [[Buck]] Ezra_, 1889): S = an
 Apocalypse of Salathiel, c. A.D. 100, preserved in a fragmentary
 condition, iii. 1-31, iv. 1-51, v. 13b-vi. 10, 30-vii. 25, vii. 45-viii.
 62, ix. 13-x. 57, xii. 40-48, xiv. 28-35. E = an Ezra Apocalypse, c. 31

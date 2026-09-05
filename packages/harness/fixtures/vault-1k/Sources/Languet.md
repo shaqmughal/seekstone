@@ -41,10 +41,10 @@ Languet died at Antwerp on the 30th of September 1581.
   November 1559 to the summer of 1565, are preserved in MS. in the Saxon
   archives, and were published by Ludovicus at Halle in 1699 under the
   title _Arcana seculi decimi sexti_. One hundred and eight letters to
-  Camerarius were published at Groningen in 1646 under the title
+  [[Camerarius]] were published at Groningen in 1646 under the title
   _Langueti Epistolae ad Joach. Camerarium, patrem et filium_; and
   ninety-six to his great friend Sir Philip Sidney, dating from the 22nd
-  of April 1573 to the 28th of October 1580, appeared at Frankfort in
+  of April 1573 to the 28th of October 1580, appeared at [[Frankfort]] in
   1633 and have been translated into English by S. A. Pears (London,
   1845). The _Historica Descriptio_ of the siege and capture of Gotha
   appeared in 1568 and has been translated into French and German. The

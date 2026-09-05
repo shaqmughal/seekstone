@@ -18,7 +18,7 @@ shir], song); (3) that it should be pointed Yashir ([Hebrew: yashir],
 sing; cf. Exod. xv. 1) and was so called after its first word. None of
 these is very convincing, though support may be found for them all in
 the versions. The Septuagint favours (1) by its rendering [Greek: epi
-bibliou tou euthous] in Samuel (it omits the words in Joshua); the
+bibliou tou euthous] in Samuel (it omits the words in [[Joshua]]); the
 Vulgate has _in libro justorum_ in both places; the Syriac in Samuel has
 _Ashir_, which suggests a Hebrew reading _ha-shir_ (the song), and in
 Joshua it translates "book of praises." The Targum on both passages has
@@ -29,7 +29,7 @@ cannot have been completed till after his time. If Wellhausen's
 restoration of 1 Kings viii. 12 be accepted (from Septuagint 1 Kings
 viii. 53, [Greek: en bibliô tês ôdês]) where the reference is to the
 building of the Temple, the book must have been growing in the time of
-Solomon. The attempt of Donaldson[1] to reconstruct it is largely
+Solomon. The attempt of [[Donaldson]][1] to reconstruct it is largely
 subjective and uncritical.
 
   In later times when it became customary to compose midrashic works
@@ -44,8 +44,8 @@ subjective and uncritical.
   Venice in 1625, and it has been frequently printed since. It was
   translated into English by (or for) M. M. Noah (New York, 1840). A
   work called _The Book of ... Jasher, translated ... by Alcuin_ (1751;
-  2nd ed., Bristol, 1829), has nothing to do with this or with any
-  Hebrew original, but is a mere fabrication by the printer, Jacob Hive,
+  2nd ed., [[Bristol]], 1829), has nothing to do with this or with any
+  Hebrew original, but is a mere fabrication by the printer, [[Jacob]] Hive,
   who put it forward as the book "mentioned in Holy Scripture."
 
   BIBLIOGRAPHY.--M. Heilprin, _Historical Poetry of the Ancient Hebrews_

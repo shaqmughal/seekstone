@@ -7,7 +7,7 @@ state, which censure was the result either of certain actions which they
 had committed or of certain modes of life which they had pursued. Such a
 censure involved disqualification for certain rights both in public and
 in private law (see A. H. J. Greenidge, _Infamia, its Place in Roman
-Public and Private Law_, 1894). In English law infamy attached to a
+Public and Private Law_, 1894). In [[English Law|English law]] infamy attached to a
 person in consequence of conviction of some crime. The effect of infamy
 was to render a person incompetent to give evidence in any legal
 proceeding. Infamy as a cause of incompetency was abolished by an act of

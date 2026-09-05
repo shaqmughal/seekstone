@@ -15,7 +15,7 @@ applied to expressions composed similarly of three, four or many
 quantities.
 
 The _binomial theorem_ is a celebrated theorem, originally due to Sir
-Isaac Newton, by which any power of a binomial can be expressed as a
+[[Isaac]] Newton, by which any power of a binomial can be expressed as a
 series. In its modern form the theorem, which is true for all values of
 n, is written as
 
@@ -54,8 +54,8 @@ gave the train of reasoning by which he devised the theorem.
 
   "In the beginning of my mathematical studies, when I was perusing the
   works of the celebrated Dr Wallis, and considering the series by the
-  interpolation of which he exhibits the area of the circle and
-  hyperbola (for instance, in this series of curves whose common base or
+  [[Interpolation|interpolation]] of which he exhibits the area of the circle and
+  [[Hyperbola|hyperbola]] (for instance, in this series of curves whose common base or
   axis is x, and the ordinates respectively (1 - xx)^(0/2), (1 - xx)^½,
   (1 - xx)^(2/2), (1 - xx)^(3/2), &c), I perceived that if the areas of
   the alternate curves, which are x, x - (1/3)x³, x - (2/3)x³ +
@@ -127,7 +127,7 @@ expansion of any power of a multinomial and was discussed in 1697 by
 Abraham Demoivre (see COMBINATORIAL ANALYSIS).
 
   REFERENCES.--For the history of the binomial theorem, see John
-  Collins, _Commercium Epistolicum_ (1712); S.P. Rigaud, _The
+  [[Collins]], _Commercium Epistolicum_ (1712); S.P. Rigaud, _The
   Correspondence of Scientific Men of the 17th Century_ (1841); M.
   Cantor, _Geschichte der Mathematik_ (1894-1901).
 

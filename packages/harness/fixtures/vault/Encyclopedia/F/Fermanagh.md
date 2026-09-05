@@ -8,8 +8,8 @@ type: reference
 # Fermanagh
 
 FERMANAGH, a county of Ireland, in the province of Ulster, bounded N.W.
-by Donegal, N.E. by Tyrone, E. by Monaghan and S.W. by Cavan and
-Leitrim. The area is 457,369 acres or about 715 sq. m. The county is
+by [[Donegal]], N.E. by Tyrone, E. by Monaghan and S.W. by [[Cavan]] and
+[[Leitrim]]. The area is 457,369 acres or about 715 sq. m. The county is
 situated mostly in the basin of the Erne, which divides the county into
 two nearly equal sections. Its surface is hilly, and its appearance (in
 many parts) somewhat sterile, though in the main, and especially in the
@@ -34,16 +34,16 @@ repute by the peasantry for its cure of paralytic and other diseases;
 and 4 m. N.W. of the same town, at a place called "the Daughton," are
 natural caves of considerable size.
 
-This county includes in the north an area of the gneiss that is
+This county includes in the north an area of the [[Gneiss|gneiss]] that is
 discussed under county Donegal, and, west of Omagh, a metamorphic region
-that stretches in from the central axis of Tyrone. A fault divides the
+that stretches in from the central axis of Tyrone. A [[Fault|fault]] divides the
 latter from the mass of red-brown Old Red Sandstone that spreads south
-nearly to Enniskillen. Lower Carboniferous sandstone and limestone occur
+nearly to Enniskillen. Lower Carboniferous sandstone and [[Limestone|limestone]] occur
 on the north of Lower Lough Erne. The limestone forms fine scarps on the
 southern side of the lake, capped by beds regarded as the Yoredale
 series. The scenery about the two Loughs Macnean is carved out in
 similarly scarped hills, rising to 2188 ft. in Cuilcagh on the south.
-The "Marble Arch" cave near Florence-court, with its emerging river, is
+The "[[Marble]] [[Arch]]" cave near Florence-court, with its emerging river, is
 a characteristic example of the subterranean waterways in the limestone.
 Upper Lough Erne is a typical meandering lake of the limestone lowland,
 with outliers of higher Carboniferous strata forming highlands
@@ -56,11 +56,11 @@ tillage to pasture is roughly as 1 to 2½. Cattle and poultry are the
 principal classes of live stock. Oats and potatoes are the crops most
 extensively cultivated. The north-western division of the Great Northern
 railway passes through the most populous portion of the county, one
-branch connecting Enniskillen with Clones, another connecting
+branch connecting Enniskillen with [[Clones]], another connecting
 Enniskillen with Londonderry via Omagh, and a third connecting Bundoran
 Junction with Bundoran, in county Donegal. The Sligo, Leitrim & Northern
 Counties railway connects with the Great Northern at Enniskillen, and
-the Clogher Valley light railway connects southern county Tyrone with
+the [[Clogher]] Valley light railway connects southern county Tyrone with
 the Great Northern at Maguiresbridge.
 
 The population (74,170 in 1891; 65,430 in 1901; almost wholly rural)
@@ -70,11 +70,11 @@ Episcopalians. Enniskillen (the county town, pop. 5412) is the only town
 of importance, the rest being little more than villages. The principal
 are Lisnaskea, Irvinestown (formerly Lowtherstown), Maguiresbridge,
 Tempo, Newtownbutler, Belleek, Derrygonnelly and Kesh, at which fairs
-are held. Garrison, a fishing station on the wild Lough Melvin, and
+are held. [[Garrison]], a fishing station on the wild Lough Melvin, and
 Pettigo, near to the lower Lough Erne, are market villages. Fermanagh
 returns two members to parliament, one each for the north and south
 divisions. It comprises eight baronies and nineteen civil parishes. The
-assizes are held at Enniskillen, quarter sessions at Enniskillen and
+[[Assize|assizes]] are held at Enniskillen, quarter sessions at Enniskillen and
 Newtownbutler. The headquarters of the constabulary are at Enniskillen.
 Ecclesiastically it belongs to the Protestant and Roman Catholic
 dioceses of Clogher and Kilmore.
@@ -91,7 +91,7 @@ Perrot, and was included in the well-known scheme of colonization of
 James I., the Plantation of Ulster. In 1689 battles were fought between
 William III.'s army and the Irish under Macarthy (for James II.),
 Lisnaskea (26th July) and Newtownbutler (30th July). The chief place of
-interest to the antiquary is Devenish Island in Lough Erne, about 2½ m.
+interest to the [[Antiquary|antiquary]] is Devenish Island in Lough Erne, about 2½ m.
 N.W. from Enniskillen (q.v.), with its ruined abbey, round tower and
 cross. In various places throughout the county may be seen the ruins of
 several ancient castles, Danish raths or encampments, and tumuli, in the

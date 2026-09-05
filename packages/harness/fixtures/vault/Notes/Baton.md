@@ -10,9 +10,9 @@ type: article
 BATON (Fr. _baton_, _baston_, from Late Lat. _basto_, a stick or staff),
 the truncheon carried by a field marshal as a sign of authority, by a
 police constable, &c.; in music, the stick with which the conductor of
-an orchestra beats time; in heraldry, the fourth part of a bend,
+an orchestra beats time; in heraldry, the fourth part of a [[Bend|bend]],
 frequently broken off short at the ends so as to be shaped like a rod;
-in English coats of arms, only as a mark of illegitimacy, the "baton
+in English coats of arms, only as a mark of [[Illegitimacy|illegitimacy]], the "baton
 sinister."
 
 ## See also

@@ -3,20 +3,20 @@
 LOT, a department of south-western France, formed in 1790 from the
 district of Quercy, part of the old province of Guyenne. It is bounded
 N. by Corrèze, W. by Dordogne and Lot-et-Garonne, S. by Tarn-et-Garonne,
-and E. by Aveyron and Cantal. Area 2017 sq. m. Pop. (1906) 216,611. The
-department extends over the western portion of the Massif Central of
+and E. by [[Aveyron]] and Cantal. Area 2017 sq. m. Pop. (1906) 216,611. The
+department extends over the western portion of the [[Massif]] Central of
 France; it slopes towards the south-west, and has a maximum altitude of
 2560 ft. on the borders of Cantal with a minimum of 213 ft. at the point
 where the river Lot quits the department. The Lot, which traverses it
 from east to west, is navigable for the whole distance (106 m.) with the
-help of locks; its principal tributary within the department is the Célé
+help of [[Lock|locks]]; its principal tributary within the department is the Célé
 (on the right). In the north of the department the Dordogne has a course
 of 37 m.; among its tributaries are the Cère, which has its rise in
 Cantal, and the Ouysse, a river of no great length, but remarkable for
 the abundance of its waters. The streams in the south of Lot all flow
 into the Tarn. The eastern and western portions of the department are
 covered by ranges of hills; the north, the centre, and part of the south
-are occupied by a belt of limestone plateaus or _causses_, that to the
+are occupied by a belt of [[Limestone|limestone]] plateaus or _causses_, that to the
 north of the Dordogne is called the Causse de Martel; between the
 Dordogne and the Lot is the Causse de Gramat or de Rocamadour; south of
 the Lot is the Causse de Cahors. The _causses_ are for the most part
@@ -42,12 +42,12 @@ quantities of chestnuts; walnuts, apples and plums are common, and the
 department also grows potatoes and tobacco and supplies truffles. Sheep
 are the most abundant kind of live stock; but pigs, horned cattle,
 horses, asses, mules and goats are also reared, as well as poultry and
-bees. Iron and coal are mined, and there are important zinc deposits
+[[Bee|bees]]. Iron and coal are mined, and there are important zinc deposits
 (Planioles). Limestone is quarried. There are oil-works and numerous
 mills, and wool spinning and carding as well as cloth making, tanning,
-currying, brewing and the making of agricultural implements are carried
+currying, brewing and the making of agricultural [[Implement|implements]] are carried
 on to some extent. The three arrondissements are those of Cahors, the
-capital, Figeac and Gourdon; there are 29 cantons and 329 communes.
+capital, Figeac and Gourdon; there are 29 cantons and 329 [[Commune|communes]].
 
 Lot belongs to the 17th military district, and to the _académie_ of
 Toulouse, and falls within the circumscription of the court of appeal at
@@ -59,7 +59,7 @@ natural position, with an audience hall of the 12th century, and the
 Romanesque abbey-church at Souillac with fine sculpturing on the
 principal entrance. The plateau of Puy d'Issolu, near Vayrac, is
 believed by most authorities to be the site of the ancient Uxcellodunum,
-the scene of the last stand of the Gauls against Julius Caesar in 51
+the scene of the last stand of the [[Gaul|Gauls]] against Julius Caesar in 51
 B.C. Lot has many dolmens, the finest being that of Pierre Martine, near
 Livernon (arr. of Figeac).
 

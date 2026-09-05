@@ -16,8 +16,8 @@ it was first cast by Mr Gascoigne. The carronade had a powder chamber
 like many of the earliest guns known, and was similar to a mortar. It
 was short, light, had a limited range, but was destructive at close
 quarters. Carronades were added to the existing armaments of guns proper
-or long guns. A 38-gun frigate carried ten carronades, and was therefore
-armed with 48 pieces of ordnance. As the official classifications were
+or long guns. A 38-gun [[Frigate|frigate]] carried ten carronades, and was therefore
+armed with 48 pieces of ordnance. As the official [[Classification|classifications]] were
 not changed, they were misleading guides to the real strength of British
 ships, which always carried more pieces than they were described as
 carrying. The same remark applies to French and American ships when the
@@ -46,14 +46,14 @@ the outer ring the soft outer tissue (bast and cortex). In the second
 season the terminal bud in the centre of the leaf-rosette grows at the
 expense of the stored nourishment and lengthens to form a furrowed,
 rather rough, branched stem, 2 or 3 ft. high, and bearing the flowers in
-a compound umbel. The umbel is characterized by the fact that the small
+a [[Compound|compound]] umbel. The umbel is characterized by the fact that the small
 leaves (bracts) which surround it, resemble the foliage leaves on a much
 reduced scale, and ultimately curve inwards, the whole inflorescence
 forming a nest-like structure. The flowers are small, the outer white,
 the central ones often pink or purplish. The fruit consists of two
 one-seeded portions, each portion bearing four rows of stiff spinous
 projections, which cause the fruits when dropped to cling together, and
-in a natural condition help to spread the seed by clinging to the fur of
+in a natural condition help to spread the seed by clinging to the [[Fur|fur]] of
 animals. On account of these projections the seeds cannot be sown evenly
 without previous rubbing with sand or dry ashes to separate them. As
 usual in the members of the order Umbelliferae, the wall of the fruit is
@@ -66,7 +66,7 @@ pale green above, where it projects above ground. For nutritive purposes
 it is inferior to the red varieties. The carrot delights in a deep sandy
 soil, which should be well drained and deeply trenched. The ground
 should be prepared and manured in autumn or winter. For the long-rooted
-sorts the soil should be at least 3 ft. deep, but the Short Horn
+sorts the soil should be at least 3 ft. deep, but the Short [[Horn]]
 varieties may be grown in about 6 in. of good compost laid on the top of
 a less suitable soil. Peat earth may be usefully employed in lightening
 the soil. Good carrots of the larger sorts may be grown in unfavourable

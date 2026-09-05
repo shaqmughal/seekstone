@@ -13,8 +13,8 @@ entrance of the river Lagan into Belfast Lough, 112-3/4 m. north of
 Dublin by rail, on the north-east coast of the island. It is an
 important railway centre, with terminal stations of the Great Northern,
 Northern Counties (Midland of England), and Belfast & County Down
-railways, and has regular passenger communication by sea with Liverpool,
-Fleetwood, Heysham, Glasgow, and other ports of Great Britain. It is
+railways, and has regular passenger communication by sea with [[Liverpool]],
+[[Fleetwood]], Heysham, [[Glasgow]], and other ports of Great Britain. It is
 built on alluvial deposit and reclaimed land, mostly not exceeding 6 ft.
 above high water mark, and was thus for a long period subject to
 inundation and epidemics, and only careful drainage rendered the site
@@ -55,13 +55,13 @@ names, had existed since 1797. Public monuments are few, but include a
 statue of Queen Victoria (1903) and a South African War memorial (1905)
 in front of the city hall; the Albert Memorial (1870), in the form of a
 clock-tower, in Queen Street; a monument to the same prince in High
-Street; and a statue in Wellington Place to Dr Henry Cooke, a prominent
+Street; and a statue in Wellington Place to Dr Henry [[Cooke]], a prominent
 Presbyterian minister who died in 1868. The corporation controls the gas
 and electric and similar undertakings. The water supply, under the
 control of the City and District Water Commissioners (incorporated
 1840), has its sources in the Mourne Mountains, Co. Down, 40 m. distant,
 with a service reservoir at Knockbreckan; also in the hilly district
-near Carrickfergus. There are several public parks, of which the
+near [[Carrickfergus]]. There are several public parks, of which the
 principal are the Ormeau Park (1870), the Victoria, Alexandra, and Falls
 Road parks. There is a Theatre Royal in Arthur Square. There are also
 several excellent clubs and societies, social, political, scientific,
@@ -72,7 +72,7 @@ In 1899 was laid the foundation stone of the Protestant cathedral in
 Donegall Street, designed by Sir Thomas Drew and Mr W.H. Lynn to seat
 3000 worshippers, occupying the site of the old St Anne's parish church,
 part of the fabric of which the new building incorporates. The diocese
-is that of Down, Connor, and Dromore. The first portion (the nave) was
+is that of Down, Connor, and [[Dromore]]. The first portion (the nave) was
 consecrated on the 2nd of June 1904. The plan is a Latin cross, the west
 front rising to a height of 105 ft., while the central tower is 175 ft.
 The pulpit was formerly used in the nave of Westminster Abbey, being
@@ -81,11 +81,11 @@ foundation.
 
 Most of the older churches are classical in design, and the most notable
 are St George's, in High Street, and the Memorial church of Dr Cooke in
-May Street. For the more modern churches the Gothic style has frequently
+May Street. For the more modern churches the [[Gothic]] style has frequently
 been used. Amongst these are St James, Antrim Road; St Peter's Roman
 Catholic chapel, with its Florentine spire; Presbyterian churches in
-Fitzroy Avenue, and Elmwood Avenue, and the Methodist chapel, Carlisle
-Circus. The Presbyterians and Protestant Episcopalians each outnumber
+[[Fitzroy]] Avenue, and Elmwood Avenue, and the Methodist chapel, Carlisle
+[[Circus]]. The Presbyterians and Protestant Episcopalians each outnumber
 the Roman Catholics in Belfast, and these three are the chief religious
 divisions.
 
@@ -102,7 +102,7 @@ Irish, is described in Sir Samuel Ferguson's "Hibernian Nights
 Entertainment." Here also are McArt's Fort and other earthworks, and
 from here the importance of the physical position of Belfast may be
 appreciated to the full. At Newtonbreda, overlooking the Lagan, was the
-palace of Con O'Neill, whose sept was exterminated by Deputy Mountjoy in
+palace of Con O'Neill, whose sept was exterminated by [[Deputy]] Mountjoy in
 the reign of Queen Elizabeth. Belfast Lough is of great though quiet
 beauty; and the city itself is seen at its best from its seaward
 approach, with its girdle of hills in the background. On the shores of
@@ -110,9 +110,9 @@ the lough several villages have grown into residential towns for the
 wealthier classes, whose work lies in the city. Of these Whitehouse and
 White Abbey are the principal on the western shore, and on the eastern,
 Holywood, which ranks practically as a suburb of Belfast, and, at the
-entrance to the lough, Bangor.
+entrance to the lough, [[Bangor]].
 
-_Harbour and Trade._--The harbour and docks of Belfast are managed by a
+_Harbour and Trade._--The harbour and [[Dock|docks]] of Belfast are managed by a
 board of harbour commissioners, elected by the ratepayers and the
 shipowners. The outer harbour is one of the safest in the kingdom. By
 the Belfast Harbour Acts the commissioners were empowered to borrow more
@@ -123,14 +123,14 @@ a direct line from the quays to the sea. This channel affords 20 ft. of
 water at low tide, and 28 ft. at full tide, the width of the channel
 being 300 ft. The Alexandra Dock, which is 852 ft. long and 31 ft. deep,
 was opened in 1889, and the extensive improvements (including the York
-Dock, where vessels carrying 10,000 tons can discharge in four to six
+Dock, where vessels carrying 10,000 tons can [[Discharge|discharge]] in four to six
 days) have been effected from time to time, making the harbour one of
 the most commodious in the United Kingdom. The provision of a new
 graving dock adjoining the Alexandra was delayed in October 1905 by a
 subsidence of the ground during its construction. Parliamentary powers
 were obtained to construct a graving dock capable of accommodating the
 largest class of warships. The growth and development of the
-shipbuilding industry has been immense, the firm of Harland & Wolff
+shipbuilding industry has been immense, the firm of [[Harland]] & Wolff
 being amongst the first in the trade, and some of the largest vessels in
 the world come from their yards. The vast increase of the foreign trade
 of Belfast marks its development, like Liverpool, as a great
@@ -149,7 +149,7 @@ works and rope works in the world.
 _Administration._--In conformity with the passing of the Municipal
 Corporations Act of 1840 the constitution of the corporation was made to
 consist of ten aldermen and thirty councillors, under the style and
-title of "The Mayor, Aldermen, and Burgesses of the Borough of Belfast."
+title of "The [[Mayor]], Aldermen, and Burgesses of the Borough of Belfast."
 In 1888 the rank of a city was conferred by royal charter upon Belfast,
 with the incidental rank, liberties, privileges, and immunities. In 1892
 Queen Victoria conferred upon the mayor of the city the title of lord
@@ -160,12 +160,12 @@ extended, and the corporation made to consist of fifteen aldermen and
 forty-five councillors, and the number of wards was increased from five
 to fifteen. By virtue of the Local Government (Ireland) Act 1898,
 Belfast became a county borough on the 1st of April 1899. By the Local
-Government (Ireland) Act 1898, Belfast became for assize purposes "the
+Government (Ireland) Act 1898, Belfast became for [[Assize|assize]] purposes "the
 county of the city of Belfast," with a high sheriff. It is divided into
 four parliamentary divisions north, south, east and west, each returning
 one member. The total area is 16,594 acres.
 
-_History._--The etymology of the name (for which several derivations
+_History._--The [[Etymology|etymology]] of the name (for which several derivations
 have been proposed) and the origin of the town are equally uncertain,
 and there is not a single monument of antiquarian interest upon which to
 found a conjecture. About 1177 a castle is said to have been built by
@@ -174,8 +174,8 @@ here that Belfast Castle was finally burnt in 1708; but a modern
 mansion, on Cave Hill, outside the city, bears that name. About the
 beginning of the 16th century, Belfast is described as a town and
 fortress, but it was in reality a mere fishing village in the hands of
-the house of O'Neill. In the course of the wars of Gerald Fitzgerald,
-8th earl of Kildare, Belfast was twice attacked by him, in 1503 and
+the house of O'Neill. In the course of the wars of Gerald [[Fitzgerald]],
+8th earl of [[Kildare]], Belfast was twice attacked by him, in 1503 and
 1512. The O'Neills, always opposed to the English, had forfeited every
 baronial right; but in 1552 Hugh O'Neill of Clandeboye promised
 allegiance to the reigning monarch, and obtained the castle of
@@ -185,22 +185,22 @@ it had fallen, and the castle was garrisoned. The turbulent successors
 of O'Neill having been routed by the English, the town and fortress were
 obtained by grant dated the 16th of November 1571 by Sir Thomas Smith, a
 favourite of Queen Elizabeth, but were afterwards forfeited by him to
-the lord deputy Sir Arthur Chichester, who, in 1612, was created Baron
-Chichester of Belfast. At this time the town consisted of about 120
+the lord deputy Sir Arthur [[Chichester]], who, in 1612, was created Baron
+[[Chichester Of Belfast|Chichester of Belfast]]. At this time the town consisted of about 120
 houses, mostly built of mud and covered with thatch, while the castle, a
 two-storeyed building, was roofed with shingles. A charter was now
 granted to the town by James I. (April 27, 1613) constituting it a
-corporation with a chief magistrate and 12 burgesses and commonalty,
+corporation with a chief [[Magistrate|magistrate]] and 12 burgesses and commonalty,
 with the right of sending two members to parliament. In 1632 Thomas
 Wentworth, Earl Strafford, was appointed first lord deputy of Ireland,
 and Belfast soon shared largely in the benefits of his enlightened
 policy, receiving, among other favours, certain fiscal rights which his
 lordship had purchased from the corporation of Carrickfergus. Two years
 after the rebellion of 1641 a rampart was raised round the town, pierced
-by four gates on the land side. In 1662, as appears by a map still
+by four gates on the land side. In 1662, as appears by a [[Map|map]] still
 extant, there were 150 houses within the wall, forming five streets and
-as many lanes; and the upland districts around were one dense forest of
-giant oaks and sycamores, yielding an unfailing supply of timber to the
+as many [[Lane|lanes]]; and the upland districts around were one dense forest of
+[[Giant|giant]] oaks and sycamores, yielding an unfailing supply of timber to the
 woodmen of Carrickfergus.
 
 Throughout the succeeding fifty years the progress of Belfast surpassed
@@ -240,7 +240,7 @@ now made rapid strides as well by ordinary extension as by immigration
 from the rural districts. Owing to the close proximity of powerful
 opposed religious sects, the modern history of the city is not without
 its record of riot and bloodshed, as in 1880 and 1886, and in August
-1907 serious rioting followed upon a strike of carters; but the
+1907 serious rioting followed upon a strike of [[Carter|carters]]; but the
 prosperity of the city has been happily unaffected.
 
   See George Benn, _History of Belfast_ (Belfast, 1877); Robert M.

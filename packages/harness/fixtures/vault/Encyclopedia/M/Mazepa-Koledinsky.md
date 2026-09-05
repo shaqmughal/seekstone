@@ -8,19 +8,19 @@ id: 42-4190
 
 # Mazepa-Koledinsky
 
-MAZEPA-KOLEDINSKY, IVAN STEPANOVICH (1644?-1709), hetman of the
+MAZEPA-KOLEDINSKY, [[Ivan|IVAN]] STEPANOVICH (1644?-1709), hetman of the
 Cossacks, belonging to a noble Orthodox family, was born possibly at
 Mazeptsina, either in 1629 or 1644, the latter being the more probable
 date. He was educated at the court of the Polish king, John Casimir, and
 completed his studies abroad. An intrigue with a Polish married lady
-forced him to fly into the Ukraine. There is a trustworthy tradition
+forced him to [[Fly|fly]] into the Ukraine. There is a trustworthy tradition
 that the infuriated husband tied the naked youth to the back of a wild
 horse and sent him forth into the steppe. He was rescued and cared for
 by the Dnieperian Cossacks, and speedily became one of their ablest
 leaders. In 1687, during a visit to Moscow, he won the favour of the
 then all-powerful Vasily Golitsuin, from whom he virtually purchased the
 hetmanship of the Cossacks (July 25). He took a very active part in the
-Azov campaigns of Peter the Great and won the entire confidence of the
+[[Azov]] campaigns of Peter the Great and won the entire confidence of the
 young tsar by his zeal and energy. He was also very serviceable to Peter
 at the beginning of the Great Northern War, especially in 1705 and 1706,
 when he took part in the Volhynian campaign and helped to construct the
@@ -29,8 +29,8 @@ recognized by Peter the Great. No other Cossack hetman had ever been
 treated with such deference at Moscow. He ranked with the highest
 dignitaries in the state; he sat at the tsar's own table. He had been
 made one of the first cavaliers of the newly established order of St
-Andrew, and Augustus of Poland had bestowed upon him, at Peter's earnest
-solicitation, the universally coveted order of the White Eagle. Mazepa
+Andrew, and Augustus of Poland had bestowed upon him, at Peter's [[Earnest|earnest]]
+solicitation, the universally coveted order of the White [[Eagle]]. Mazepa
 had no temptations to be anything but loyal, and loyal he would
 doubtless have remained had not Charles XII. crossed the Russian
 frontier. Then it was that Mazepa, who had had doubts of the issue of
@@ -59,10 +59,10 @@ of Kiev solemnly excommunicated him from the high altar, and his effigy,
 after being dragged with contumely through the mud at Kiev, was publicly
 burnt by the common hangman. Henceforth Mazepa, perforce, attached
 himself to Charles. What part he took at the battle of Poltava is not
-quite clear. After the catastrophe he accompanied Charles to Turkey with
+quite clear. After the [[Catastrophe|catastrophe]] he accompanied Charles to Turkey with
 some 1500 horsemen (the miserable remnant of his 80,000 warriors). The
 sultan refused to surrender him to the tsar, though Peter offered
-300,000 ducats for his head. He died at Bender on the 22nd of August
+300,000 [[Ducat|ducats]] for his head. He died at [[Bender]] on the 22nd of August
 1709.
 
   See N. I. Kostomarov, _Mazepa and the Mazepanites_ (Russ.) (St

@@ -20,7 +20,7 @@ and sulphur. When softened in water it has a sea-like odour, and from
 the abundance of its mucilage it will form a jelly on boiling with from
 20 to 30 times its weight of water. The jelly of Irish moss is used as
 an occasional article of food. It may also be used as a thickener in
-calico-printing and for fining beer. Irish moss is frequently mixed with
+calico-printing and for fining [[Beer|beer]]. Irish moss is frequently mixed with
 _Gigartina mammillosa_, _G. acicularis_ and other sea-weeds with which
 it is associated in growth.
 

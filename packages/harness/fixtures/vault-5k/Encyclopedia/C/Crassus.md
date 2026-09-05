@@ -15,7 +15,7 @@ orator and jurist, consul, 131 B.C. He was the son of P. Mucius Scaevola
 (consul 175) and was adopted by a P. Licinius Crassus Dives. An intimate
 friend of Tiberius Gracchus, he was chosen after his death to take his
 place on the agrarian commission (see GRACCHUS). In 131 when Crassus was
-consul with L. Valerius Flaccus, Aristonicus, an illegitimate son of
+consul with L. Valerius Flaccus, [[Aristonicus]], an illegitimate son of
 Eumenes II. of Pergamum, laid claim to the kingdom, which had been
 bequeathed by Attalus III. to Rome. Both consuls were anxious to obtain
 the command against him; Crassus was pontifex maximus, and Flaccus a
@@ -39,7 +39,7 @@ dialects in use.
   Gracchus_, 21; Livy, _Epit._ 59; Val. Max. iii. 2. 12, viii. 7. 6;
   Vell. Pat. ii. 4; Justin xxxvi. 4; Orosius v. 10.
 
-2. LUCIUS LICINIUS CRASSUS (140-91 B.C.), the orator, of unknown
+2. [[Lucius|LUCIUS]] LICINIUS CRASSUS (140-91 B.C.), the orator, of unknown
 parentage. At the age of nineteen (or twenty-one) he made his reputation
 by a speech against C. Papirius Carbo, the friend of the Gracchi. The
 law passed by him and his colleague Q. Mucius Scaevola during their
@@ -47,7 +47,7 @@ consulship (95), to prevent those passing as Roman citizens who had no
 right to the title, was one of the prime causes of the Social War
 (Cicero, _Pro Balbo_, xxi., _De officiis_, iii. 11). During his
 censorship Crassus suppressed the newly founded schools of Latin
-rhetoricians (Aulus Gellius xv. 11). He died from excitement caused by
+rhetoricians (Aulus [[Gellius]] xv. 11). He died from excitement caused by
 his passionate speech against the consul L. Marcius Philippus, who had
 insulted the Senate. Crassus is one of the chief speakers in the _De
 oratore_ of Cicero, who has also preserved a few fragments of his

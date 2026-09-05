@@ -9,15 +9,15 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lombards"
 # Lombards
 
 LOMBARDS, or LANGOBARDI, a Suevic people who appear to have inhabited
-the lower basin of the Elbe and whose name is believed to survive in the
+the lower basin of the [[Elbe]] and whose name is believed to survive in the
 modern Bardengau to the south of Hamburg. They are first mentioned in
 connexion with the year A.D. 5, at which time they were defeated by the
 Romans under Tiberius, afterwards emperor. In A.D. 9, however, after the
 destruction of Varus's army, the Romans gave up their attempt to extend
 their frontier to the Elbe. At first, with most of the Suevic tribes,
-they were subject to the hegemony of Maroboduus, king of the Marcomanni,
-but they revolted from him in his war with Arminius, chief of the
-Cherusci, in the year 17. We again hear of their interference in the
+they were subject to the [[Hegemony|hegemony]] of Maroboduus, king of the Marcomanni,
+but they revolted from him in his war with [[Arminius]], chief of the
+[[Cherusci]], in the year 17. We again hear of their interference in the
 dynastic strife of the Cherusci some time after the year 47. From this
 time they are not mentioned until the year 165, when a force of
 Langobardi, in alliance with the Marcomanni, was defeated by the Romans,
@@ -30,7 +30,7 @@ the end of the 5th century.
 
 In their own traditions we are told that the Langobardi were originally
 called Winnili and dwelt in an island named Scadinavia (with this story
-compare that of the Gothic migration, see GOTHS). Thence they set out
+compare that of the [[Gothic]] migration, see GOTHS). Thence they set out
 under the leadership of Ibor and Aio, the sons of a prophetess called
 Gambara, and came into conflict with the Vandals. The leaders of the
 latter prayed to Wodan for victory, while Gambara and her sons invoked
@@ -50,7 +50,7 @@ Shortly before the end of the 5th century the Langobardi appear to have
 taken possession of the territories formerly occupied by the Rugii whom
 Odoacer had overthrown in 487, a region which probably included the
 present province of Lower Austria. At this time they were subject to
-Rodulf, king of the Heruli, who, however, took up arms against them;
+Rodulf, king of the [[Heruli]], who, however, took up arms against them;
 according to one story, owing to the treacherous murder of Rodulf's
 brother, according to another through an irresistible desire for
 fighting on the part of his men. The result was the total defeat of the
@@ -99,7 +99,7 @@ other barbarians, descended into Italy by the great plain at the head of
 the Adriatic. The war which had ended in the downfall of the Goths had
 exhausted Italy; it was followed by famine and pestilence; and the
 government at Constantinople made but faint efforts to retain the
-province which Belisarius and Narses had recovered for it. Except in a
+province which [[Belisarius]] and Narses had recovered for it. Except in a
 few fortified places, such as Ticinum or Pavia, the Italians did not
 venture to encounter the new invaders; and, though Alboin was not
 without generosity, the Lombards, wherever resisted, justified the
@@ -115,22 +115,22 @@ and this arrangement became characteristic of the Lombard settlement.
 The principal seat of the settlement was the rich plain watered by the
 Po and its affluents, which was in future to receive its name from them;
 but their power extended across the Apennines into Liguria and Tuscany,
-and then southwards to the outlying dukedoms of Spoleto and Benevento.
+and then southwards to the outlying dukedoms of Spoleto and [[Benevento]].
 The invaders failed to secure any maritime ports or any territory that
 was conveniently commanded from the sea. Ticinum (Pavia), the one place
 which had obstinately resisted Alboin, became the seat of their kings.
 
 After the short and cruel reign of Cleph, the successor of Alboin, the
 Lombards (as we may begin for convenience sake to call them) tried for
-ten years the experiment of a national confederacy of their dukes (as,
+ten years the experiment of a national confederacy of their [[Dukes|dukes]] (as,
 after the Latin writers, their chiefs are styled), without any king. It
 was the rule of some thirty-five or thirty-six petty tyrants, under
 whose oppression and private wars even the invaders suffered. With
 anarchy among themselves and so precarious a hold on the country, hated
 by the Italian population and by the Catholic clergy, threatened also by
-an alliance of the Greek empire with their persistent rivals the Franks
+an alliance of the Greek empire with their persistent rivals the [[Frank|Franks]]
 beyond the Alps, they resolved to sacrifice their independence and elect
-a king. In 584 they chose Authari, the grandson of Alboin, and endowed
+a king. In 584 they [[Chose|chose]] Authari, the grandson of Alboin, and endowed
 the royal domain with a half of their possessions. From this time till
 the fall of the Lombard power before the arms of their rivals the Franks
 under Charles the Great, the kingly rule continued. Authari, "the
@@ -149,9 +149,9 @@ and even to the last resisted, with varying success, the full claims of
 the royal authority at Pavia.
 
 The kingdom of the Lombards lasted more than two hundred years, from
-Alboin (568) to the fall of Desiderius (774)--much longer than the
+Alboin (568) to the fall of [[Desiderius]] (774)--much longer than the
 preceding Teutonic kingdom of Theodoric and the Goths. But it differed
-from the other Teutonic conquests in Gaul, in Britain, in Spain. It was
+from the other Teutonic conquests in [[Gaul]], in Britain, in Spain. It was
 never complete in point of territory: there were always two, and almost
 to the last three, capitals--the Lombard one, Pavia; the Latin one,
 Rome; the Greek one, Ravenna; and the Lombards never could get access to
@@ -160,7 +160,7 @@ affected the Italians of the north; in its turn it was entirely
 transformed by contact with them; but the Lombards never amalgamated
 with the Italians till their power as a ruling race was crushed by the
 victory given to the Roman element by the restored empire of the Franks.
-The Langobards, German in their faults and in their strength, but
+The Langobards, German in their [[Fault|faults]] and in their strength, but
 coarser, at least at first, than the Germans whom the Italians had
 known, the Goths of Theodoric and Totila, found themselves continually
 in the presence of a subject population very different from anything
@@ -187,7 +187,7 @@ near it. King Liutprand (712-744) bought the relics of St Augustine for
 a large sum to be placed in his church at Pavia. Their Teutonic speech
 disappeared; except in names and a few technical words all traces of it
 are lost. But to the last they had the unpardonable crime of being a
-ruling barbarian race or caste in Italy. To the end they are
+ruling barbarian race or [[Caste|caste]] in Italy. To the end they are
 "nefandissimi," execrable, loathsome, filthy. So wrote Gregory the Great
 when they first appeared. So wrote Pope Stephen IV., at the end of their
 rule, when stirring up the kings of the Franks to destroy them.
@@ -238,7 +238,7 @@ decayed state of Roman civilization. It is probable that among
 themselves the Italians kept to their old usages and legal precedents
 where they were not overridden by the conquerors' law, and by degrees a
 good many of the Roman civil arrangements made their way into the
-Lombard code, while all ecclesiastical ones, and they were a large
+Lombard [[Code|code]], while all ecclesiastical ones, and they were a large
 class, were untouched by it.
 
   There must have been much change of property; but appearances are
@@ -278,14 +278,14 @@ enemies the Franks on the west, and the Slavs or Huns, ever ready to
 break in on the north-east, and sometimes called in by mutinous and
 traitorous dukes of Friuli and Trent, were constant and serious dangers.
 By the popes, who represented Italian interests, they were always
-looked upon with dislike and jealousy, even when they had become zealous
+looked upon with dislike and [[Jealousy|jealousy]], even when they had become zealous
 Catholics, the founders of churches and monasteries; with the Greek
 empire there was chronic war. From time to time they made raids into the
 unsubdued parts of Italy, and added a city or two to their dominions.
 But there was no sustained effort for the complete subjugation of Italy
 till Liutprand, the most powerful of the line. He tried it, and failed.
 He broke up the independence of the great southern duchies, Benevento
-and Spoleto. For a time, in the heat of the dispute about images, he won
+and Spoleto. For a time, in the heat of the dispute about [[Image|images]], he won
 the pope to his side against the Greeks. For a time, but only for a
 time, he deprived the Greeks of Ravenna. Aistulf, his successor, carried
 on the same policy. He even threatened Rome itself, and claimed a
@@ -346,7 +346,7 @@ the cities had really been at the head of the peaceful and industrial
 part of their population, and were a natural refuge for the oppressed,
 and sometimes for the mutinous and the evil doers, from the military and
 civil powers of the duke or count or judge, too often a rule of cruelty
-or fraud. Under the Carolingian empire, a vast system grew up in the
+or [[Fraud|fraud]]. Under the Carolingian empire, a vast system grew up in the
 North Italian cities of episcopal "immunities," by which a city with its
 surrounding district was removed, more or less completely, from the
 jurisdiction of the ordinary authority, military or civil, and placed
@@ -364,7 +364,7 @@ bishops; in due time they too gained their charters of privilege and
 liberty. Left to take care of themselves, islands in a sea of
 turbulence, they grew in the sense of self-reliance and independence;
 they grew also to be aggressive, quarrelsome and ambitious. Thus, by the
-11th century, the Lombard cities had become "communes," commonalties,
+11th century, the Lombard cities had become "[[Commune|communes]]," commonalties,
 republics, managing their own affairs, and ready for attack or defence.
 Milan had recovered its greatness, ecclesiastically as well as
 politically; it scarcely bowed to Rome, and it aspired to the position
@@ -377,8 +377,8 @@ the strength of Germany under one of its sternest emperors, Frederick
 Barbarossa. At first Frederick was victorious; Milan, except its
 churches, was utterly destroyed; everything that marked municipal
 independence was abolished in the "rebel" cities; and they had to
-receive an imperial magistrate instead of their own (1158-1162). But the
-Lombard league was again formed. Milan was rebuilt, with the help even
+receive an imperial [[Magistrate|magistrate]] instead of their own (1158-1162). But the
+[[Lombard League|Lombard league]] was again formed. Milan was rebuilt, with the help even
 of its jealous rivals, and at Legnano (1176) Frederick was utterly
 defeated. The Lombard cities had regained their independence; and at the
 peace of Constance (1183) Frederick found himself compelled to confirm
@@ -397,7 +397,7 @@ it.
   political struggles and changes of Europe, they were incorporated into
   a kingdom, or principality or duchy, carved out to suit the interest
   of a foreigner, or to make a heritage for the nephew of a pope. But in
-  two ways especially the energetic race which grew out of the fusion of
+  two ways especially the energetic race which grew out of the [[Fusion|fusion]] of
   Langobards and Italians between the 9th and the 12th centuries has
   left the memory of itself. In England, at least, the enterprising
   traders and bankers who found their way to the West, from the 13th to

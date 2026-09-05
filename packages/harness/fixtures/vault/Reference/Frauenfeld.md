@@ -22,7 +22,7 @@ belonging to the abbot of Reichenau, who, with the count of Kyburg,
 founded the town, which is first mentioned in 1255. The abbot retained
 all manorial rights till 1803, while the political powers of the
 Kyburgers (who were the "protectors" of Reichenau) passed to the
-Habsburgs in 1273, and were seized by the Swiss in 1460 with the rest of
+[[Habsburg|Habsburgs]] in 1273, and were seized by the Swiss in 1460 with the rest of
 the Thurgau. In 1712 the town succeeded Baden in Aargau as the
 meeting-place of the Federal Diet, and continued to be the capital of
 the Confederation till its transformation in 1798. In 1799 it was

@@ -22,7 +22,7 @@ The town was founded by the Cape Dutch in 1786, being named after the
 then governor of Cape Colony, C. J. van de Graaff, and his wife. In 1795
 the burghers, smarting under the exactions of the Dutch East India
 Company proclaimed a republic. Similar action was taken by the burghers
-of Swellendam. Before the authorities at Cape Town could take decisive
+of Swellendam. Before the authorities at [[Cape Town]] could take decisive
 measures against the rebels, they were themselves compelled to
 capitulate to the British. The burghers having endeavoured,
 unsuccessfully, to get aid from a French warship at Algoa Bay

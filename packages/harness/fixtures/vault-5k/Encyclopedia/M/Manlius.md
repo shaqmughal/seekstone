@@ -4,7 +4,7 @@ MANLIUS, the name of a Roman gens, chiefly patrician, but containing
 plebeian families also.
 
 1. MARCUS MANLIUS CAPITOLINUS, a patrician, consul 392 B.C. According to
-tradition, when in 390 B.C. the besieging Gauls were attempting to scale
+tradition, when in 390 B.C. the besieging [[Gaul|Gauls]] were attempting to scale
 the Capitol, he was roused by the cackling of the sacred geese, rushed
 to the spot and threw down the foremost assailants (Livy v. 47;
 Plutarch, _Camillus_, 27). Several years after, seeing a centurion led
@@ -31,7 +31,7 @@ stature, in single combat, and took from him a torques (neck-ornament),
 whence his surname. When the Latins demanded an equal share in the
 government of the confederacy, Manlius vowed to kill with his own hand
 the first Latin he saw in the senate-house. The Latins and Campanians
-revolted, and Manlius, consul for the third time, marched into Campania
+revolted, and Manlius, consul for the third time, marched into [[Campania]]
 and gained two great victories, near Vesuvius, where P. Decius Mus
 (q.v.), his colleague, "devoted" himself in order to gain the day, and
 at Trifanum. In this campaign Manlius executed his own son, who had

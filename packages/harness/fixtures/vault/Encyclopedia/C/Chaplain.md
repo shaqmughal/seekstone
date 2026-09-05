@@ -16,7 +16,7 @@ the army and the navy. In some cases a parish priest is also appointed
 to a chaplaincy, but in so far as he is a chaplain he has no parochial
 duties. Thus a bishop of the English Church appoints examining chaplains
 who conduct the examination of candidates for holy orders; such
-officials generally hold ordinary benefices also. The British sovereign
+officials generally hold ordinary [[Benefice|benefices]] also. The British sovereign
 has 36 "Chaplains in Ordinary," who perform service at St James's in
 rotation, as well as "Honorary Chaplains" and "Chaplains of the
 Household." There are also royal chaplains in Scotland and Ireland. The
@@ -26,11 +26,11 @@ lord-lieutenant. The Indian civil service appoints a number of clergymen
 of the Church of England and the Church of Scotland. These clergymen are
 known as Chaplains, and are subject to the same conditions as other
 civil servants, being eligible for a retiring pension after 23 years of
-service. Chaplains are also appointed under the foreign office to
+service. Chaplains are also appointed under the [[Foreign Office|foreign office]] to
 embassies, legations, consulates, &c.
 
-Workhouse chaplains are appointed by overseers and guardians on the
-direction of the Local Government Board, to which alone such chaplains
+Workhouse chaplains are appointed by overseers and [[Guardian|guardians]] on the
+direction of the [[Local Government Board]], to which alone such chaplains
 are responsible. Prison chaplains are appointed by the home secretary.
 
 In the British army there are two kinds of chaplains, permanent and
@@ -38,7 +38,7 @@ occasional. The former, described as Chaplains to the Forces, hold
 commissions, serving throughout the empire except in India: they include
 a Chaplain-General who ranks as a major-general, and four classes of
 subordinate chaplains who rank respectively as colonels,
-lieutenant-colonels, majors and captains. There are about 100 in all.
+lieutenant-colonels, [[Major|majors]] and captains. There are about 100 in all.
 Special chaplains (Acting Chaplains for Temporary Service) may be
 appointed by a secretary of state under the Army Chaplains Act of 1868
 to perform religious service for the army in particular districts. The
@@ -57,9 +57,9 @@ office was abolished on the separation of Church and State. In the army
 of the United States of America chaplains are originally appointed by
 the president, and subsequently are under the authority of the secretary
 of war, who receives recommendations as regards transfer from department
-commanders. By act of Congress, approved in April 1904, the
+[[Commander|commanders]]. By act of Congress, approved in April 1904, the
 establishment of chaplains was fixed at 57 (15 with the rank of major),
-12 for the artillery corps and 1 each for the cavalry and infantry
+12 for the artillery [[Corps|corps]] and 1 each for the [[Cavalry|cavalry]] and infantry
 regiments. There is no distinction of sect. In the U.S. navy the
 chaplains are 24 in number, of whom 13 rank as lieutenants, 7 as
 commanders, 4 as captains.
@@ -70,11 +70,11 @@ generally appointed, but in the absence of special sanction from the
 pope such officer has no spiritual jurisdiction. Moreover, chaplains
 must be approved by the ordinary of the locality. In Austria there are
 Roman Catholic, Greek Church, Jewish and Mahommedan chaplains. The Roman
-Catholic chaplains are classed as parish priests, curates and
+Catholic chaplains are classed as parish priests, [[Curate|curates]] and
 assistants, and are subject to an army Vicar Apostolic. In war, at an
-army headquarters there are a "field-rabbi," a "military imam," an
+army headquarters there are a "field-rabbi," a "military [[Imam|imam]]," an
 evangelical minister, as well as the Roman Catholic hierarchy. By a
-decree of the Sacred Congregation of Propaganda (May 15, 1906), the
+[[Decree|decree]] of the Sacred Congregation of Propaganda (May 15, 1906), the
 archbishop of Westminster is the ecclesiastical superior of all
 commissioned Roman Catholic chaplains in the British army and navy, and
 he is empowered to negotiate with the civil authorities concerning
@@ -92,7 +92,7 @@ archbishop of Munich and Freysing is _ex officio_ bishop of the army.
 The origin of the office of _capellanus_ or _cappellanus_ in the
 medieval church is generally traced (see Du Cange, _Gloss, med. et
 infim. Latin_.) to the appointment of persons to watch over the sacred
-cloak (_cappa_ or _capella_) of St Martin of Tours, which was preserved
+cloak (_cappa_ or _[[Capella|capella]]_) of St [[Martin]] of Tours, which was preserved
 as a relic by the French monarchs. In time of war this cloak was carried
 with the army in the field, and was kept in a tent which itself came to
 be known as a _cappella_ or _capella_. It is also suggested that the
@@ -131,7 +131,7 @@ otherwise could not be recognized as an ecclesiastical chaplain. There
 are elaborate regulations governing the appointment and conduct of these
 chaplains.
 
-Other classes of chaplains are:--(1) _Parochial_ or _Auxiliary
+Other classes of chaplains are:--(1) _Parochial_ or _[[Auxiliary]]
 Chaplains_, appointed either by a parish priest (under a provision
 authorized by the Council of Trent) or by a bishop to take over certain
 specified duties which he is unable to perform; (2) _Chaplains of

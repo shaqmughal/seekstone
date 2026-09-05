@@ -9,23 +9,23 @@ topic: art
 BAYREUTH, or BAIREUTH, a town of Bavaria, Germany, district of Upper
 Franconia, 58 m. by rail N.N.E. from Nuremberg. Pop. (1900) 29,384. In
 Richard-Wagner-strasse is Wagner's house, with his grave in the garden.
-Franz Liszt (1811-1886) is buried here, as well as Jean Paul Friedrich
+[[Franz]] Liszt (1811-1886) is buried here, as well as Jean Paul [[Friedrich]]
 Richter, who is commemorated by a monument (1841). His house was in
 Friedrichstrasse. Most of the buildings are of comparatively modern
 date, the city having suffered severely from the Hussites in 1430 and
 from a conflagration in 1621. There should be mentioned the palace of
 Duke Alexander of Wurttemberg, the administrative offices, the statue of
-King Maximilian II. (1860) and the collections of the historical society
+King [[Maximilian]] II. (1860) and the collections of the historical society
 Among the ecclesiastical buildings, the _Stadt-Pfarrkirche_, dating from
 1439, and containing the monuments of the margraves of Bayreuth, is the
 most important. Bayreuth is a railway junction and has an active trade,
 chiefly in grain and horses. It manufactures woollen, linen and cotton
 goods, leather, delft and other earthenware, and tobacco, and has also
 several breweries and distilleries. The village of St Georgen is a
-suburb to the north east noted for its marble works; and about 2 m. to
+suburb to the north east noted for its [[Marble|marble]] works; and about 2 m. to
 the east is the Hermitage, a fanciful building, erected in 1715 by the
 margrave George William (d. 1726), with gardens containing terraces,
-statues and fountains. Bayreuth was formerly the capital of a
+statues and [[Fountain|fountains]]. Bayreuth was formerly the capital of a
 principality of the same name, which was annexed in 1791 to the kingdom
 of Prussia. In 1807 it was ceded by Prussia to France, which kept
 possession of it till 1810, when it was transferred to Bavaria.
@@ -55,7 +55,7 @@ the plans of Gustav Semper, the idea of the design being Wagner's own,
 an experiment indeed, but one which succeeded beyond all expectation.
 The seats are arranged on a kind of sloping wedge, in such a manner that
 every one has an almost equally good view of the stage, for there are no
-boxes, and the only galleries are quite at the back, one, the
+[[Box|boxes]], and the only galleries are quite at the back, one, the
 _Furstenloge_, being reserved for distinguished guests, the other, above
 it, for the townspeople. Immediately in front of the foremost row of
 seats a hood or sloping screen of wood covers a part of the orchestra,
@@ -78,7 +78,7 @@ always well supported.
   contended by the inmost circle of Wagnerian adherents that none but
   they can fully realize the master's intentions or hand down his
   traditions. What is called the "Bayreuth Idea" is set forth in much
-  detail from this point of view by Houston Stewart Chamberlain, in his
+  detail from this point of view by [[Houston]] Stewart [[Chamberlain]], in his
   _Richard Wagner_ (1897 and 1900).
 
 ## See also

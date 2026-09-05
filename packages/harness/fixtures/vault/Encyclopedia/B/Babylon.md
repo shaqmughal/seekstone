@@ -6,14 +6,14 @@ topic: philosophy
 
 # Babylon
 
-BABYLON (mod. _Hillah_), an ancient city on the left bank of the Euphrates,
-about 70 m. S. of Bagdad. "Babylon" is the Greek form of Babel or Bab-ili,
+BABYLON (mod. _Hillah_), an ancient city on the left bank of the [[Euphrates]],
+about 70 m. S. of Bagdad. "Babylon" is the Greek form of [[Babel]] or Bab-ili,
 "the gate of the god" (sometimes incorrectly written "of the gods"), which
 again is the Semitic translation of the original Sumerian name Ka-dimirra.
 The god was probably Merodach or Marduk (_q.v._), the divine patron of the
 city. In an inscription of the Kassite conqueror Gaddas the name appears as
 Ba-ba-lam, as if from the Assyrian _babalu_, "to bring"; another foreign
-_Volksetymologie_ is found in Genesis xi. 9, from _balbal_, "to confound."
+_Volksetymologie_ is found in [[Genesis]] xi. 9, from _balbal_, "to confound."
 A second name of the city, which perhaps originally denoted a separate
 village or quarter, was Su-anna, and in later inscriptions it is often
 represented ideographically by E-ki, the pronunciation and meaning of which
@@ -27,13 +27,13 @@ Bel-Merodach, along with its immediate surroundings. Like the other great
 sanctuaries of Babylonia the temple had been founded in pre-Semitic times,
 and the future Babylon grew up around it. Since Merodach was the son of Ea,
 the culture god of Eridu near Ur on the Persian Gulf, it is possible that
-Babylon was a colony of Eridu. Adjoining Babylon was a town called Borsippa
+Babylon was a colony of Eridu. Adjoining Babylon was a town called [[Borsippa]]
 (_q.v._).
 
 The earliest mention of Babylon is in a dated tablet of the reign of Sargon
 of Akkad (3800 B.C.), who is stated to have built sanctuaries there to
 Anunit and A[=e] (or Ea), and H. Winckler may be right in restoring a
-mutilated passage in the annals of this king so as to make it mean that
+mutilated passage in the [[Annals|annals]] of this king so as to make it mean that
 Babylon owed its name to Sargon, who made it the capital of his empire. If
 so, it fell back afterwards into the position of a mere provincial town and
 remained so for centuries, until it became the capital of "the first
@@ -56,22 +56,22 @@ Sennacherib was held to be an expiation of it, and his successor
 Esar-haddon hastened to rebuild the old city, to receive there his crown,
 and make it his residence during part of the year. On his death Babylonia
 was left to his elder son Samas-sum-yukin, who eventually headed a revolt
-against his brother Assur-bani-pal of Assyria. Once more Babylon was
+against his brother [[Assur-Bani-Pal|Assur-bani-pal]] of Assyria. Once more Babylon was
 besieged by the Assyrians and starved into surrender. Assur-bani-pal
 purified the city and celebrated a "service of reconciliation," but did not
-venture to "take the hands" of Bel. In the subsequent overthrow of the
+venture to "take the hands" of [[Bel]]. In the subsequent overthrow of the
 Assyrian empire the Babylonians saw another example of divine vengeance.
 
 With the recovery of Babylonian independence under Nabopolassar a new era
 of architectural activity set in, and his son Nebuchadrezzar made Babylon
 one of the wonders of the ancient world. It surrendered without a struggle
-to Cyrus, but two sieges in the reign of Darius Hystaspis, and one in the
+to [[Cyrus]], but two sieges in the reign of [[Darius]] Hystaspis, and one in the
 reign of Xerxes, brought about the destruction of the defences, while the
 monotheistic rule of Persia allowed the temples to fall into decay. Indeed
 part of the temple of E-Saggila, which like other ancient temples served as
 a fortress, was intentionally pulled down by Xerxes after his capture of
 the city. Alexander was murdered in the palace of Nebuchadrezzar, which
-must therefore have been still standing, and cuneiform texts show that,
+must therefore have been still standing, and [[Cuneiform|cuneiform]] texts show that,
 even under the Seleucids, E-Saggila was not wholly a ruin. The foundation
 of Seleucia in its neighbourhood, however, drew away the population of the
 old city and hastened its material decay. A tablet dated 275 B.C. states
@@ -100,7 +100,7 @@ of the river in the form of a square, and enclosed within a double row of
 lofty walls to which Ctesias adds a third. Ctesias makes the outermost wall
 360 stades (42 m.) in circumference, while according to Herodotus it
 measured 480 stades (56 m.), which would include an area of about 200 sq.
-m. The estimate of Ctesias is essentially the same as that of Q. Curtius
+m. The estimate of Ctesias is essentially the same as that of Q. [[Curtius]]
 (v. 1. 26), 368 stades, and Clitarchus (_ap._ Diod. Sic. ii. 7), 365
 stades; Strabo (xvi. 1. 5) makes it 385 stades. But even the estimate of
 Ctesias, assuming the stade to be its usual length, would imply an area of
@@ -110,9 +110,9 @@ height was about 300 ft. The measurements seem exaggerated, but we must
 remember that even in Xenophon's time (_Anab._ iii. 4. 10) the ruined wall
 of Nineveh was still 150 ft high, and that the spaces between the 250
 towers of the wall of Babylon (Ctes. 417, _ap._ Diod. ii. 7) were broad
-enough to let a four-horse chariot turn (Herod. i. 179). The clay dug from
-the moat served to make the bricks of the wall, which had 100 gates, all of
-bronze, with bronze lintels and posts. The two inner enclosures were faced
+enough to let a four-horse chariot turn ([[Herod]]. i. 179). The clay dug from
+the moat served to make the [[Brick|bricks]] of the wall, which had 100 gates, all of
+bronze, with bronze [[Lintel|lintels]] and posts. The two inner enclosures were faced
 with enamelled tiles and represented hunting-scenes. Two other walls ran
 along the banks of the Euphrates and the quays with which it was lined,
 each containing 25 gates which answered to the number of streets they led
@@ -134,7 +134,7 @@ it was provided with a moat, and a reservoir was excavated in the triangle
 on the inner side of its south-east corner, the western wall of which is
 still visible. The Imgur-Bel of Sargon's time has been discovered by the
 German excavators running south of the _Qasr_ from the Euphrates to the
-Gate of Ishtar.
+Gate of [[Ishtar]].
 
 The German excavations have shown that the _Qasr_ mound represents both the
 old palace of Nabopolassar, and the new palace adjoining it built by
@@ -155,7 +155,7 @@ to the north of this, and so place it south of the _Qasr_; but E. Lindl and
 F. Hommel have put forward strong reasons for considering it to have been
 north of the latter, on a part of the site which has not yet been explored.
 A tablet copied by George Smith gives us interesting details as to the plan
-and dimensions of this famous temple of Bel; a plan based on these will be
+and [[Dimension|dimensions]] of this famous temple of Bel; a plan based on these will be
 found in Hommel's _Grundriss der Geographie und Geschichte des alten
 Orients_, p. 321. There were three courts, the outer or great court, the
 middle court of Ishtar and Zamama, and the inner court on the east side of
@@ -163,9 +163,9 @@ which was the tower of seven stages (known as the House of the Foundation
 of Heaven and Earth), 90 metres high according to Hommel's calculation of
 the measurements in the tablet; while on the west side was the temple
 proper of Merodach and his wife Sarpanit or Zarpanit, as well as chapels of
-Anu, Ea and Bel on either side of it. A winding ascent led to the summit of
+[[Anu]], Ea and Bel on either side of it. A winding ascent led to the summit of
 the tower, where there was a chapel, containing, according to Herodotus, a
-couch and golden table (for the showbread) but no image. The golden image
+couch and golden table (for the showbread) but no [[Image|image]]. The golden image
 of Merodach 40 ft. high, stood in the temple below, in the sanctuary called
 E-Kua or "House of the Oracle," together with a table, a mercy-seat and an
 altar--all of gold. The deities whose chapels were erected within the
@@ -175,16 +175,16 @@ stood independently in other parts of the city.
 
 There are numerous gates in the walls both of E-Saggila and of the city,
 the names of many of which are now known. Nebuchadrezzar says that he
-covered the walls of some of them with blue enamelled tiles "on which bulls
+covered the walls of some of them with blue enamelled tiles "on which [[Bull|bulls]]
 and dragons were pourtrayed," and that he set up large bulls and serpents
 of bronze on their thresholds.
 
 The _Babil_ mound probably represents the site of a palace built by
 Nebuchadrezzar at the northern extremity of the city walls and attached to
 a defensive outwork 60 cubits in length. Since H. Rassam found remains of
-irrigation works here it might well be the site of the Hanging Gardens.
+irrigation works here it might well be the site of the [[Hanging]] Gardens.
 These consisted, we are told, of a garden of trees and flowers, built on
-the topmost of a series of arches some 75 ft. high, and in the form of a
+the topmost of a series of [[Arches|arches]] some 75 ft. high, and in the form of a
 square, each side of which measured 400 Greek ft. Water was raised from the
 Euphrates by means of a screw (Strabo xvi. 1. 5; Diod. ii. 10. 6). In the
 Jumjuma mound at the southern extremity of the old city the contract and
@@ -193,15 +193,15 @@ other business tablets of the Egibi firm were found.
 See C. J. Rich, _Memoir on the Ruins of Babylon_ (1816), and _Collected
 Memoirs_ (1839); A. H. Layard, _Nineveh and Babylon_ (1853); C. P. Tiele,
 _De Hoofdtempel van Babel_ (1886); A. H. Sayce, _Religion of the Ancient
-Babylonians_, App. ii. (1887); C. J. Ball in _Records of the Past_ (new
+Babylonians_, App. ii. (1887); C. J. [[Ball]] in _Records of the Past_ (new
 ser. iii. 1890); _Mittheilungen der deutschen Orientgesellschaft_
-(1899-1906); F. Delitzsch, _Im Lande des einstigen Paradieses_ (1903);
+(1899-1906); F. [[Delitzsch]], _Im Lande des einstigen Paradieses_ (1903);
 F. H. Weissbach, _Das Stadtbild von Babylon_ (1904); F. Hommel, _Grundriss
 der Geographie und Geschichte des alten Orients_ (1904).
 
 (A. H. S.)
 
-BABYLONIA AND ASSYRIA. I. _Geography._--Geographically as well as
+BABYLONIA AND ASSYRIA. I. _[[Geography]]._--Geographically as well as
 ethnologically and historically, the whole district enclosed between the
 two great rivers of western Asia, the Tigris and Euphrates, forms but one
 country. The writers of antiquity clearly recognized this fact, speaking of
@@ -213,14 +213,14 @@ another, at a spot where the undulating plateau of the north sinks suddenly
 into the Babylonian alluvium, tends to separate them still more completely.
 In the earliest times of which we have any record, the northern portion was
 included in Mesopotamia; it was definitely marked off as Assyria only after
-the rise of the Assyrian monarchy. With the exception of Assur, the
+the rise of the Assyrian monarchy. With the exception of [[Assur]], the
 original capital, the chief cities of the country, Nineveh, Calah and
-Arbela, were all on the left bank of the Tigris. The reason of this
+[[Arbela]], were all on the left bank of the Tigris. The reason of this
 preference for the eastern bank of the Tigris was due to its abundant
 supply of water, whereas the great Mesopotamian plain on the western side
 had to depend upon the streams which flowed into the Euphrates. This vast
 flat, the modern El-Jezireh, is about 250 miles in length, interrupted only
-by a single limestone range, rising abruptly out of the plain, and
+by a single [[Limestone|limestone]] range, rising abruptly out of the plain, and
 branching off from the Zagros mountains under the names of _Saraz[=u]r_,
 _Hamrin_ and _Sinjar_. The numerous remains of old habitations show how
 thickly this level tract must once have been peopled, though now for the
@@ -231,7 +231,7 @@ between their northern and north-eastern flank and the main mountain-line
 from which they detach themselves, rich plains and fertile valleys. Behind
 them tower the massive ridges of the Niphates and Zagros ranges, where the
 Tigris and Euphrates take their rise, and which cut off Assyria from
-Armenia and Kurdistan.
+[[Armenia]] and [[Kurdistan]].
 
 The name Assyria itself was derived from that of the city of Assur (_q.v._)
 or Asur, now Qal`at Sherqat (Kaleh Shergat), which stood on the right bank
@@ -256,14 +256,14 @@ of the river (see BABYLON). The Arakhtu, or "river of Babylon," flowed past
 the southern side of the city, and to the south-west of it on the Arabian
 bank lay the great inland freshwater sea of _Nejef_, surrounded by red
 sandstone cliffs of considerable height, 40 m. in length and 35 in breadth
-in the widest part. Above and below this sea, from Borsippa to Kufa, extend
-the famous Chaldaean marshes, where Alexander was nearly lost (Arrian,
+in the widest part. Above and below this sea, from Borsippa to [[Kufa]], extend
+the famous Chaldaean marshes, where Alexander was nearly lost ([[Arrian]],
 _Exp. Al._ vii. 22; Strab. xvi. 1, § 12); but these depend upon the state
 of the Hindiya canal, disappearing altogether when it is closed.
 
 Eastward of the Euphrates and southward of Sippara, Kutha and Babylon were
 Kis (_Uhaimir_, 9 m. E. of _Hillah_), Nippur (_Niffer_)--where stood the
-great sanctuary of El-lil, the older Bel--Uruk or Erech (_Warka_) and Larsa
+great sanctuary of El-lil, the older Bel--Uruk or [[Erech]] (_Warka_) and Larsa
 (_Senkera_) with its temple of the sun-god, while eastward of the Shatt
 el-Hai, probably the ancient channel of the Tigris, was Lagash (_Tello_),
 which played an important part in early Babylonian history. The primitive
@@ -274,7 +274,7 @@ sea; as about 46 m. of land have been formed by the silting up of the shore
 since the foundation of Spasinus Charax (_Muhamrah_) in the time of
 Alexander the Great, or some 115 ft. a year, the city would have been in
 existence at least 6000 years ago. The marshes in the south like the
-adjoining desert were frequented by Aramaic tribes; of these the most
+adjoining [[Desert|desert]] were frequented by Aramaic tribes; of these the most
 famous were the Kald[=a] or Chaldaeans who under Merodach-baladan made
 themselves masters of Babylon and gave their name in later days to the
 whole population of the country. The combined stream of the Euphrates and
@@ -282,9 +282,9 @@ Tigris as it flowed through the marshes was known to the Babylonians as the
 _n[=a]r marrati_, "the salt river" (cp. Jer. l. 21), a name originally
 applied to the Persian Gulf.
 
-The alluvial plain of Babylonia was called Edin, the Eden of Gen. ii.,
+The alluvial plain of Babylonia was called Edin, the [[Eden]] of Gen. ii.,
 though the name was properly restricted to "the plain" on the western bank
-of the river where the Bedouins pastured the flocks of their Babylonian
+of the river where the [[Bedouins]] pastured the flocks of their Babylonian
 masters. This "bank" or _kisad_, together with the corresponding western
 bank of the Tigris (according to Hommel the modern Shatt el-Hai), gave its
 name to the land of Chesed, whence the _Kasdim_ of the Old Testament. In
@@ -316,14 +316,14 @@ represented the Median Wall of Xenophon (_Anab._ ii. 4. 12), traces of
 which were found by F. R. Chesney extending from Faluja to Jibbar.
 
 The country was thickly studded with towns, the sites of which are still
-represented by mounds, though the identification of most of them is still
-doubtful. The latest to be identified are Bismya, between Nippur and Erech,
+represented by mounds, though the [[Identification|identification]] of most of them is still
+doubtful. The latest to be identified are [[Bismya]], between Nippur and Erech,
 which recent American excavations have proved to be the site of Udab (also
 called Adab and Usab) and the neighbouring F[=a]ra, the site of the ancient
 Kisurra. The dense population was due to the elaborate irrigation of the
 Babylonian plain which had originally reclaimed it from a pestiferous and
 uninhabitable swamp and had made it the most fertile country in the world.
-The science of irrigation and engineering seems to have been first created
+The science of irrigation and [[Engineering|engineering]] seems to have been first created
 in Babylonia, which was covered by a network of canals, all skilfully
 planned and regulated. The three chief of them carried off the waters of
 the Euphrates to the Tigris above Babylon,--the Zabzallat canal (or _Nahr
@@ -342,8 +342,8 @@ to this system of irrigation the cultivation of the soil was highly
 advanced in Babylonia. According to Herodotus (i. 193) wheat commonly
 returned two hundred-fold to the sower, and occasionally three
 hundred-fold. Pliny (_H. N._ xviii. 17) states that it was cut twice, and
-afterwards was good keep for sheep, and Berossus remarked that wheat,
-sesame, barley, ochrys, palms, apples and many kinds of shelled fruit grew
+afterwards was good keep for sheep, and [[Berossus]] remarked that wheat,
+sesame, barley, ochrys, palms, [[Apple|apples]] and many kinds of shelled fruit grew
 wild, as wheat still does in the neighbourhood of Anah. A Persian poem
 celebrated the 360 uses of the palm (Strabo xvi. 1. 14), and Ammianus
 Marcellinus (xxiv. 3) says that from the point reached by Julian's army to
@@ -354,7 +354,7 @@ pioneer of civilization. Before the decipherment of the cuneiform texts our
 knowledge of its history, however, was scanty and questionable. Had the
 native history of Berossus survived, this would not have been the case; all
 that is known of the Chaldaean historian's work, however, is derived from
-quotations in Josephus, Ptolemy, Eusebius and the Syncellus. The
+quotations in Josephus, Ptolemy, [[Eusebius]] and the Syncellus. The
 authenticity of his list of 10 antediluvian kings who reigned for 120
 _sari_ or 432,000 years, has been partially confirmed by the inscriptions;
 but his 8 postdiluvian dynasties are difficult to reconcile with the
@@ -387,14 +387,14 @@ and Greek romance owed to him its Ninus and Semiramis, its Ninyas and
 Sardanapalus. The only ancient authority of value on Babylonian and
 Assyrian history is the Old Testament.
 
-III. _Modern Discovery._--The excavations of P. E. Botta and A. H. Layard
+III. _Modern Discovery._--The excavations of P. E. [[Botta]] and A. H. Layard
 at Nineveh opened up a new world, coinciding as they did with the
 successful decipherment of the cuneiform system of writing. Layard's
 discovery of the library of Assur-bani-pal put the materials for
 reconstructing the ancient life and history of Assyria and Babylonia into
 the hands of scholars. He also was the first to excavate in Babylonia,
 where C. J. Rich had already done useful topographical work. Layard's
-excavations in this latter country were continued by W. K. Loftus, who also
+excavations in this latter country were continued by W. K. [[Loftus]], who also
 opened trenches at Susa, as well as by J. Oppert on behalf of the French
 government. But it was only in the last quarter of the 19th century that
 anything like systematic exploration was attempted. After the death of
@@ -402,8 +402,8 @@ George Smith at Aleppo in 1876, an expedition was sent by the British
 Museum (1877-1879), under the conduct of Hormuzd Rassam, to continue his
 work at Nineveh and its neighbourhood. Excavations in the mounds of
 Balaw[=a]t, called Imgur-Bel by the Assyrians, 15 m. east of Mosul,
-resulted in the discovery of a small temple dedicated to the god of dreams
-by Assur-nazir-pal III. (883 B.C.), containing a stone coffer or ark in
+resulted in the discovery of a small temple dedicated to the god of [[Dream|dreams]]
+by Assur-nazir-pal III. (883 B.C.), containing a stone [[Coffer|coffer]] or ark in
 which were two inscribed tables of alabaster of rectangular shape, as well
 as of a palace which had been destroyed by the Babylonians but restored by
 Shalmaneser II. (858 B.C.). From the latter came the bronze gates with
@@ -419,7 +419,7 @@ Sippara of the goddess Anunit, now _D[=e]r_, being on its opposite bank.
 
 Meanwhile (1877-1881) the French consul, de Sarzec, had been excavating at
 Tello, the ancient Lagash, and bringing to light monuments of the
-pre-Semitic age, which included the diorite statues of Gudea now in the
+pre-Semitic age, which included the [[Diorite|diorite]] statues of Gudea now in the
 Louvre, the stone of which, according to the inscriptions upon them, had
 been brought from Magan, the Sinaitic peninsula. The subsequent excavations
 of de Sarzec in Tello and its neighbourhood carried the history of the city
@@ -438,7 +438,7 @@ with the tablets discovered by Dr V. Scheil in 1897 on the site of Sippara.
 J. de Morgan's exceptionally important work at Susa lies outside the limits
 of Babylonia; not so, however, the American excavations (1903-1904) under
 E. J. Banks at Bismya (Udab), and those of the university of Pennsylvania
-at Niffer (see NIPPUR) first begun in 1889, where Mr J. H. Haynes has
+at Niffer (see NIPPUR) first begun in 1889, where Mr J. H. [[Hayne|Haynes]] has
 systematically and patiently uncovered the remains of the great temple of
 El-lil, removing layer after layer of débris and cutting sections in the
 ruins down to the virgin soil. Midway in the mound is a platform of large
@@ -453,7 +453,7 @@ tablets and fragments of stone vases are still found, though the cuneiform
 characters upon them are of a very archaic type, and sometimes even retain
 their primitive pictorial forms.
 
-IV. _Chronology._[1] The later chronology of Assyria has long been fixed,
+IV. _[[Chronology]]._[1] The later chronology of Assyria has long been fixed,
 thanks to the lists of _limmi_, or archons, who gave their names in
 succession to their years of office. Several copies of these lists from the
 library of Nineveh are in existence, the earliest of which goes back to 911
@@ -461,19 +461,19 @@ B.C., while the latest comes down to the middle of the reign of
 Assur-bani-pal. The beginning of a king's reign is noted in the lists, and
 in some of them the chief events of the year are added to the name of its
 archon. Assyrian chronology is, therefore, certain from 911 B.C. to 666,
-and an eclipse of the sun which is stated to have been visible in the month
+and an [[Eclipse|eclipse]] of the sun which is stated to have been visible in the month
 Sivan, 763 B.C., is one that has been calculated to have taken place on the
 15th of June of that year. The system of reckoning time by _limmi_ was of
 Assyrian origin, and recent discoveries have made it clear that it went
 back to the first days of the monarchy. Even in the distant colony at Kara
-Euyuk near Kaisariyeh (Caesarea) in Cappadocia cuneiform tablets show that
+Euyuk near Kaisariyeh (Caesarea) in [[Cappadocia]] cuneiform tablets show that
 the Assyrian settlers used it in the 15th century B.C. In Babylonia a
 different system was adopted. Here the years were dated by the chief events
 that distinguished them, as was also the case in Egypt in the epoch of the
 Old Empire. What the event should be was determined by the government and
 notified to all its officials; one of these notices, sent to the Babylonian
-officials in Canaan in the reign of Samsu-iluna, the son of Khammurabi, has
-been found in the Lebanon. A careful register of the dates was kept,
+officials in [[Canaan]] in the reign of Samsu-iluna, the son of Khammurabi, has
+been found in the [[Lebanon]]. A careful register of the dates was kept,
 divided into reigns, from which dynastic lists were afterwards compiled,
 giving the duration of each king's reign as well as that of the several
 dynasties. Two of these dynastic compilations have been discovered,
@@ -505,7 +505,7 @@ Sennacherib that Shalmaneser I. reigned 600 years earlier, and that
 Tiglath-pileser I. fought with Merodach-nadin-akhi (Marduk-nadin-akh[=e])
 of Babylon 418 years before the campaign of 689 B.C.; while, according to
 Tiglath-pileser I., the high-priest Samas-Hadad, son of Isme-Dagon, built
-the temple of Anu and Hadad at Assur 701 years before his own time.
+the temple of Anu and [[Hadad]] at Assur 701 years before his own time.
 Shalmaneser I. in his turn states that the high-priest Samas-Hadad, the son
 of Bel-kabi, governed Assur 580 years previously, and that 159 years before
 this the high-priest Erisum was reigning there. The raid of the Elamite
@@ -521,13 +521,13 @@ were defined by canals and boundary stones. Its culture may be traced back
 to two main centres, Eridu in the south and Nippur in the north. But the
 streams of civilization which flowed from them were in strong contrast.
 El-lil, around whose sanctuary Nippur had grown up, was lord of the
-ghost-land, and his gifts to mankind were the spells and incantations which
+ghost-land, and his gifts to mankind were the spells and [[Incantation|incantations]] which
 the spirits of good or evil were compelled to obey. The world which he
 governed was a mountain; the creatures whom he had made lived underground.
 Eridu, on the other hand, was the home of the culture-god Ea, the god of
 light and beneficence, who employed his divine wisdom in healing the sick
 and restoring the dead to life. Rising each morning from his palace in the
-deep, he had given man the arts and sciences, the industries and manners of
+deep, he had given man the arts and sciences, the industries and [[Manners|manners]] of
 civilization. To him was due the invention of writing, and the first
 law-book was his creation. Eridu had once been a seaport, and it was
 doubtless its foreign trade and intercourse with other lands which
@@ -608,15 +608,15 @@ war are represented. In one scene the king stands in his chariot with a
 curved weapon in his right hand formed of three bars of metal bound
 together by rings (similar, as M. L. Heuzey has pointed out, to one carried
 by the chief of an Asiatic tribe in a tomb of the 12th dynasty at
-Beni-Hasan in Egypt), while his kilted followers with helmets on their
-heads and lances in their hands march behind him. In another a flock of
+Beni-Hasan in Egypt), while his kilted followers with [[Helmet|helmets]] on their
+heads and [[Lance|lances]] in their hands march behind him. In another a flock of
 vultures is feeding on the bodies of the fallen enemy; in a third a tumulus
 is being heaped up over those who had been slain on the side of Lagash.
 Elsewhere we see the victorious prince beating down a vanquished enemy, and
 superintending the execution of other prisoners who are being sacrificed to
-the gods, while in one curious scene he is striking with his mace a sort of
+the gods, while in one curious scene he is striking with his [[Mace|mace]] a sort of
 wicker-work cage filled with naked men. In his hand he holds the crest of
-Lagash and its god--a lion-headed eagle with outstretched wings, supported
+Lagash and its god--a lion-headed [[Eagle|eagle]] with outstretched wings, supported
 by two lions which are set heraldically back to back. The sculptures belong
 to a primitive period of art.
 
@@ -631,10 +631,10 @@ high-priest, it is probable that he acknowledged Ur-lumma of Gis-ukh as his
 suzerain. His son and successor Entemena restored the prestige of Lagash.
 Gis-ukh was subdued and a priest named Illi was made its governor. A tripod
 of silver dedicated by Entemena to his god is now in the Louvre. A frieze
-of lions devouring ibexes and deer, and incised with great artistic skill,
+of lions devouring [[Ibex|ibexes]] and deer, and incised with great artistic skill,
 runs round the neck, while the eagle crest of Lagash adorns the globular
 part. The vase is a proof of the high degree of excellence to which the
-goldsmith's art had already attained. A vase of calcite, also dedicated by
+goldsmith's art had already attained. A vase of [[Calcite|calcite]], also dedicated by
 Entemena, has been found at Nippur.
 
 The eighth successor of Ur-Nin[=a] was Uru-duggina, who was overthrown and
@@ -659,7 +659,7 @@ fame of these early establishers of Semitic supremacy was far eclipsed by
 that of Sargon of Akkad and his son, Naram-Sin. The date of Sargon is
 placed by Nabonidus at 3800 B.C. He was the son of Itti-Bel, and a legend
 related how he had been born in concealment and sent adrift in an ark of
-bulrushes on the waters of the Euphrates. Here he had been rescued and
+[[Bulrush|bulrushes]] on the waters of the Euphrates. Here he had been rescued and
 brought up by "Akki the husbandman"; but the day arrived at length when his
 true origin became known, the crown of Babylonia was set upon his head and
 he entered upon a career of foreign conquest. Four times he invaded Syria
@@ -677,7 +677,7 @@ peninsula.
 [Sidenote: Naram-Sin.]
 
 Sargon's son and successor, Naram-Sin, followed up the successes of his
-father by marching into Magan, whose king he took captive. He assumed the
+father by marching into Magan, whose king he took [[Captive|captive]]. He assumed the
 imperial title of "king of the four zones," and, like his father, was
 addressed as a god. He is even called "the god of Agad[=e]" (Akkad),
 reminding us of the divine honours claimed by the Pharaohs of Egypt, whose
@@ -774,7 +774,7 @@ father and son bear the Canaanitish (and south Arabian) names of Abesukh or
 Abishua and Ammi-zadok.
 
 One of the most important works of this "First Dynasty of Babylon," as it
-was called by the native historians, was the compilation of a code of laws
+was called by the native historians, was the compilation of a [[Code|code]] of laws
 (see BABYLONIAN LAW). This was made by order of Khammurabi after the
 expulsion of the Elamites and the settlement of his kingdom. A copy of the
 Code has been found at Susa by J. de Morgan and is now in the Louvre, The
@@ -784,7 +784,7 @@ for 368 years, a number which must be much exaggerated. As yet the name of
 only one of them has been found in a contemporaneous document. They were
 overthrown and Babylonia was conquered by Kassites or Kossaeans from the
 mountains of Elam, with whom Samsu-iluna had already come into conflict in
-his 9th year. The Kassite dynasty was founded by Kandis, Gandis or Gaddas
+his 9th year. The Kassite dynasty was founded by [[Kandi|Kandis]], Gandis or Gaddas
 (about 1780 B.C.), and lasted for 576¾ years. Under this foreign dominion,
 which offers a striking analogy to the contemporary rule of the Hyksos in
 Egypt, Babylonia lost its empire over western Asia, Syria and Palestine
@@ -805,7 +805,7 @@ B.C.), the ancestor of Shalmaneser I. Assyria grew in power at the expense
 of Babylonia, and a time came when the Kassite king of Babylonia was glad
 to marry the daughter of Assur-yuballidh of Assyria, whose letters to
 Amenophis (Amon-hotep) IV. of Egypt have been found at Tell el-Amarna. The
-marriage, however, led to disastrous results, as the Kassite faction at
+marriage, however, led to disastrous results, as the Kassite [[Faction|faction]] at
 court murdered the king and placed a pretender on the throne.
 Assur-yuballidh promptly marched into Babylonia and avenged his son-in-law,
 making Burna-buryas of the royal line king in his stead. Burna-buryas, who
@@ -835,7 +835,7 @@ claimed to be a descendant of the ancient prince Erba-Raman. [Sidenote:
 Tiglath-pileser I.] His fourth successor was Tiglath-pileser I., one of the
 great conquerors of Assyria, who carried his arms towards Armenia on the
 north and Cappadocia on the west; he hunted wild bulls in the Lebanon and
-was presented with a crocodile by the Egyptian king. In 1107 B.C., however,
+was presented with a [[Crocodile|crocodile]] by the Egyptian king. In 1107 B.C., however,
 he sustained a temporary defeat at the hands of Merodach-nadin-akhi
 (Marduk-nadin-akh[=e]) of Babylonia, where the Kassite dynasty had finally
 succumbed to Elamite attacks and a new line of kings was on the throne.
@@ -853,7 +853,7 @@ Shalmaneser II.] His son Shalmaneser II. had a long reign of 35 years,
 during which the Assyrian capital was converted into a sort of armed camp.
 Each year the Assyrian armies marched out of it to plunder and destroy.
 Babylon was occupied and the country reduced to vassalage. In the west the
-confederacy of Syrian princes headed by Benhadad of Damascus and including
+confederacy of Syrian princes headed by Benhadad of [[Damascus]] and including
 Ahab of Israel (see JEWS, § 10) was shattered in 853 B.C., and twelve years
 later the forces of Hazael were annihilated and the ambassadors of Jehu of
 Samaria brought tribute to "the great king." The last few years of his
@@ -870,7 +870,7 @@ With Nabu-nazir, the Nabonassar of classical writers, the so-called Canon
 of Ptolemy begins. When he ascended the throne of Babylon in 747 B.C.
 Assyria was in the throes of a revolution. Civil war and pestilence were
 devastating the country, and its northern provinces had been wrested from
-it by Ararat. In 746 B.C. Calah joined the rebels, and on the 13th of Iyyar
+it by [[Ararat]]. In 746 B.C. Calah joined the rebels, and on the 13th of Iyyar
 in the following year, Pulu or Pul, who took the name of Tiglath-pileser
 III., seized the crown and inaugurated a new and vigorous policy.
 
@@ -883,7 +883,7 @@ introduced into politics; the conquered provinces were organized under an
 elaborate bureaucracy at the head of which was the king, each district
 paying a fixed tribute and providing a military contingent. The Assyrian
 forces became a standing army, which, by successive improvements and
-careful discipline, was moulded into an irresistible fighting machine, and
+careful discipline, was moulded into an irresistible fighting [[Machine|machine]], and
 Assyrian policy was directed towards the definite object of reducing the
 whole civilized world into a single empire and thereby throwing its trade
 and wealth into Assyrian hands. With this object, after terrorizing Armenia
@@ -900,8 +900,8 @@ month, gave the Babylonians an opportunity to revolt. [Sidenote:
 Merodach-baladan.] In Nisan the Kald[=a] prince, Merodach (Marduk)-baladan,
 entered Babylon and was there crowned legitimate king. For twelve years he
 successfully resisted the Assyrians; but the failure of his allies in the
-west to act in concert with him, and the overthrow of the Elamites,
-eventually compelled him to fly to his ancestral domains in the marshes of
+west to act in [[Concert|concert]] with him, and the overthrow of the Elamites,
+eventually compelled him to [[Fly|fly]] to his ancestral domains in the marshes of
 southern Babylonia. Sargon, who meanwhile had crushed the confederacy of
 the northern nations, had taken (717 B.C.) the Hittite stronghold of
 Carchemish and had annexed the future kingdom of Ecbatana, was now accepted
@@ -913,7 +913,7 @@ father, and the success of his reign was not commensurate with the vanity
 of the ruler. He was never crowned at Babylon, which was in a perpetual
 state of revolt until, in 691 B.C., he shocked the religious and political
 conscience of Asia by razing the holy city of Babylon to the ground. His
-campaign against Hezekiah of Judah was as much a failure as his policy in
+campaign against [[Hezekiah]] of [[Judah]] was as much a failure as his policy in
 Babylonia, and in his murder by his sons on the 20th of Tebet 681 B.C. both
 Babylonians and Jews saw the judgment of heaven.
 
@@ -923,13 +923,13 @@ Esar-haddon, who succeeded him, was of different calibre from his father.
 He was commanding the army in a campaign against Ararat at the time of the
 murder; forty-two days later the murderers fled from Nineveh and took
 refuge at the court of Ararat. But the Armenian army was utterly defeated
-near Malatia on the 12th of Iyyar, and at the end of the day Esar-haddon
+near [[Malatia]] on the 12th of Iyyar, and at the end of the day Esar-haddon
 was saluted by his soldiers as king. He thereupon returned to Nineveh and
 on the 8th of Sivan formally ascended the throne.
 
 One of his first acts was to restore Babylon, to send back the image of
 Bel-Merodach (Bel-Marduk) to its old home, and to re-people the city with
-such of the priests and the former population as had survived massacre.
+such of the priests and the former population as had survived [[Massacre|massacre]].
 Then he was solemnly declared king in the temple of Bel-Merodach, which had
 again risen from its ruins, and Babylon became the second capital of the
 empire. Esar-haddon's policy was successful and Babylonia remained
@@ -968,8 +968,8 @@ long struggle left Assyria maimed and exhausted. It had been drained of
 both wealth and fighting population; the devastated provinces of Elam and
 Babylonia could yield nothing with which to supply the needs of the
 imperial exchequer, and it was difficult to find sufficient troops even to
-garrison the conquered populations. Assyria, therefore, was ill prepared to
-face the hordes of Scythians--or Manda, as they were called by the
+[[Garrison|garrison]] the conquered populations. Assyria, therefore, was ill prepared to
+face the [[Horde|hordes]] of Scythians--or Manda, as they were called by the
 Babylonians--who now began to harass the frontiers. A Scythian power had
 grown up in the old kingdom of Ellip, to the east of Assyria, where
 Ecbatana was built by a "Manda" prince; Asia Minor was infested by the
@@ -981,10 +981,10 @@ Assur-bani-pal as a special mark of divine favour.
 
 When Assur-bani-pal died, his empire was fast breaking up. Under his
 successor, Assur-etil-ilani, the Scythians penetrated into Assyria and made
-their way as far as the borders of Egypt. Calah was burned, though the
+their way as far as the [[Borders|borders]] of Egypt. Calah was burned, though the
 strong walls of Nineveh protected the relics of the Assyrian army which had
 taken refuge behind them; and when the raiders had passed on to other
-fields of booty, a new palace was erected among the ruins of the
+[[Fields|fields]] of booty, a new palace was erected among the ruins of the
 neighbouring city. But its architectural poverty and small size show that
 the resources of Assyria were at a low ebb. A contract has been found at
 Sippara, dated in the fourth year of Assur-etil-ilani, though it is
@@ -1016,7 +1016,7 @@ the last Babylonian king, Nabonidus, however, and the conquest of Babylonia
 by Cyrus, we now have a fair amount of information.[4] This is chiefly
 derived from a chronological tablet containing the annals of Nabonidus,
 which is supplemented by an inscription of Nabonidus, in which he recounts
-his restoration of the temple of the Moon-god at Harran, as well as by a
+his restoration of the temple of the Moon-god at [[Harran]], as well as by a
 proclamation of Cyrus issued shortly after his formal recognition as king
 of Babylonia. It was in the sixth year of Nabonidus (549 B.C.)--or perhaps
 in 553--that Cyrus, "king of Anshan" in Elam, revolted against his suzerain
@@ -1028,20 +1028,20 @@ confusion of Mad[=a] or "Medes" with Manda. [Sidenote: Invasion by Cyrus.]
 Three years later we find that Cyrus has become king of Persia and is
 engaged in a campaign in the north of Mesopotamia. Meanwhile Nabonidus has
 established a camp at Sippara, near the northern frontier of his kingdom,
-his son--probably the Belshazzar of other inscriptions--being in command of
+his son--probably the [[Belshazzar]] of other inscriptions--being in command of
 the army. In 538 B.C. Cyrus invaded Babylonia. A battle was fought at Opis
 in the month of June, in which the Babylonians were defeated, and
 immediately afterwards Sippara surrendered to the invader. Nabonidus fled
 to Babylon, whither he was pursued by Gobryas, the governor of Kurdistan,
 and on the 16th of Tammuz, two days after the capture of Sippara, "the
 soldiers of Cyrus entered Babylon without fighting." Nabonidus was dragged
-out of his hiding-place, and Kurdish guards were placed at the gates of the
+out of his hiding-place, and Kurdish [[Guards|guards]] were placed at the gates of the
 great temple of Bel, where the services continued without intermission.
 Cyrus did not arrive till the 3rd of Marchesvan (October), Gobryas having
 acted for him in his absence. Gobryas was now made governor of the province
 of Babylon, and a few days afterwards the son of Nabonidus, according to
 the most probable reading, died. A public mourning followed, which lasted
-six days, and Cambyses accompanied the corpse to the tomb. Cyrus now
+six days, and [[Cambyses]] accompanied the [[Corpse|corpse]] to the tomb. Cyrus now
 claimed to be the legitimate successor of the ancient Babylonian kings and
 the avenger of Bel-Merodach, who was wrathful at the impiety of Nabonidus
 in removing the images of the local gods from their ancestral shrines to
@@ -1064,11 +1064,11 @@ right to rule over western Asia until he had been consecrated to the office
 by Bel and his priests; and from henceforth, accordingly, Cyrus assumed the
 imperial title of "king of Babylon." A year before his death, in 529 B.C.,
 he associated his son Cambyses (_q.v._) in the government, making him king
-of Babylon, while he reserved for himself the fuller title of "king of the
+of Babylon, while he reserved for himself the [[Fuller|fuller]] title of "king of the
 (other) provinces" of the empire. It was only when Darius Hystaspis, the
-representative of the Aryan race and the Zoroastrian religion, had
+representative of the [[Aryan]] race and the Zoroastrian religion, had
 re-conquered the empire of Cyrus, that the old tradition was broken and the
-claim of Babylon to confer legitimacy on the rulers of western Asia ceased
+claim of Babylon to confer [[Legitimacy|legitimacy]] on the rulers of western Asia ceased
 to be acknowledged (see DARIUS). Darius, in fact, entered Babylon as a
 conqueror; after the murder of the Magian it had recovered its independence
 under Nidinta-Bel, who took the name of Nebuchadrezzar III., and reigned
@@ -1123,7 +1123,7 @@ transcribed in Greek letters.
 
 _Babylonian Literature and Science_.--There were many literary works the
 titles of which have come down to us. One of the most famous of these was
-the _Epic of Gilgamesh_, in twelve books, composed by a certain
+the _Epic of [[Gilgamesh]]_, in twelve books, composed by a certain
 Sin-liqi-unninni, and arranged upon an astronomical principle. Each
 division contains the story of a single adventure in the career of
 Gilgamesh. The whole story is a composite product, and it is possible that
@@ -1131,7 +1131,7 @@ some of the stories are artificially attached to the central figure. (See
 GILGAMESH, EPIC OF.)
 
 Another epic was that of the Creation, the object of which was to glorify
-Bel-Merodach by describing his contest with Tiamat, the dragon of chaos. In
+Bel-Merodach by describing his contest with Tiamat, the dragon of [[Chaos|chaos]]. In
 the first book an account is given of the creation of the world out of the
 primeval deep and the birth of the gods of light. Then comes the story of
 the struggle between the gods of light and the powers of darkness, and the
@@ -1170,7 +1170,7 @@ finally regained.
 Besides the purely literary works there were others of the most varied
 nature, including collections of letters, partly official, partly private.
 Among them the most interesting are the letters of Khammurabi, which have
-been edited by L. W. King. Astronomy and astrology, moreover, occupy a
+been edited by L. W. King. [[Astronomy]] and [[Astrology|astrology]], moreover, occupy a
 conspicuous place. Astronomy was of old standing in Babylonia, and the
 standard work on the subject, written from an astrological point of view,
 which was translated into Greek by Berossus, was believed to go back to the
@@ -1188,10 +1188,10 @@ implies considerable progress in mathematics; it is not surprising,
 therefore, that the Babylonians should have invented an extremely simple
 method of ciphering or have discovered the convenience of the duodecimal
 system. The _ner_ of 600 and the _sar_ of 3600 were formed from the _soss_
-or unit of 60, which corresponded with a degree of the equator. Tablets
+or unit of 60, which corresponded with a degree of the [[Equator|equator]]. Tablets
 [v.03 p.0108] of squares and cubes, calculated from 1 to 60, have been
 found at Senkera, and a people who were acquainted with the sun-dial, the
-clepsydra, the lever and the pulley, must have had no mean knowledge of
+[[Clepsydra|clepsydra]], the lever and the pulley, must have had no mean knowledge of
 mechanics. A crystal lens, turned on the lathe, was discovered by Layard at
 Nimrud along with glass vases bearing the name of Sargon; this will explain
 the excessive minuteness of some of the writing on the Assyrian tablets,
@@ -1201,7 +1201,7 @@ _Art and Architecture_.--The culture of Assyria, and still more of
 Babylonia, was essentially literary; we miss in it the artistic spirit of
 Egypt or Greece. In Babylonia the abundance of clay and want of stone led
 to the employment of brick; the Babylonian temples are massive but
-shapeless structures of crude brick, supported by buttresses, the rain
+shapeless structures of crude brick, supported by [[Buttress|buttresses]], the rain
 being carried off by drains, one of which at Ur was of lead. The use of
 brick led to the early development of the pilaster and column, as well as
 of frescoes and enamelled tiles. The walls were brilliantly coloured, and
@@ -1225,14 +1225,14 @@ in the art of gem-cutting. Nothing can be better than two seal-cylinders
 that have come down to us from the age of Sargon of Akkad. No remarkable
 specimens of the metallurgic art of an early period have been found, apart
 perhaps from the silver vase of Entemena, but at a later epoch great
-excellence was attained in the manufacture of such jewellery as ear-rings
+excellence was attained in the manufacture of such jewellery as [[Ear-Ring|ear-rings]]
 and bracelets of gold. Copper, too, was worked with skill; indeed, it is
 possible that Babylonia was the original home of copper-working, which
 spread westward with the civilization to which it belonged. At any rate the
 people were famous from an early date for their embroideries and rugs. The
 ceramic history of Babylonia and Assyria has unfortunately not yet been
 traced; at Susa alone has the care demanded by the modern methods of
-archaeology been as yet expended on examining and separating the pottery
+[[Archaeology|archaeology]] been as yet expended on examining and separating the pottery
 found in the excavations, and Susa is not Babylonia. We do not even know
 the date of the spirited terra-cotta reliefs discovered by Loftus and
 Rawlinson. The forms of Assyrian pottery, however, are graceful; the
@@ -1243,15 +1243,15 @@ employed in the manufacture of vases, and vases of hard stone have been
 disinterred at Tello similar to those of the early dynastic period of
 Egypt.
 
-_Social Life_.--Castes were unknown in both Babylonia and Assyria, but the
-priesthood of Babylonia found its counterpart in the military aristocracy
+_Social Life_.--[[Caste|Castes]] were unknown in both Babylonia and Assyria, but the
+priesthood of Babylonia found its counterpart in the military [[Aristocracy|aristocracy]]
 of Assyria. The priesthood was divided into a great number of classes,
 among which that of the doctors may be reckoned. The army was raised, at
 all events in part, by conscription; a standing army seems to have been
 first organized in Assyria. Successive improvements were introduced into it
 by the kings of the second Assyrian empire; chariots were superseded by
-cavalry; Tiglath-pileser III. gave the riders saddles and high boots, and
-Sennacherib created a corps of slingers. Tents, baggage-carts and
+[[Cavalry|cavalry]]; Tiglath-pileser III. gave the riders saddles and high boots, and
+Sennacherib created a [[Corps|corps]] of slingers. Tents, baggage-carts and
 battering-rams were carried on the march, and the _tartan_ or
 commander-in-chief ranked next to the king. In both countries there was a
 large body of slaves; above them came the agriculturists and commercial
@@ -1334,7 +1334,7 @@ to the Neo-Babylonian period. If the text were complete we should probably
 be in possession of the system of Babylonian chronology current in the
 Neo-Babylonian period from which our principal classical authorities (see
 sect. II.) derived their information. The principal points of uncertainty,
-due to gaps in the text, concern the length of Dynasties IV. and VIII.; for
+due to [[Gap|gaps]] in the text, concern the length of Dynasties IV. and VIII.; for
 the reading of the figure giving the length of the former is disputed, and
 the summary at the close of the latter omits to state its length. This
 omission is much to be regretted, since Nabonassar was the last king but
@@ -1396,7 +1396,7 @@ placed first in the list; where a writer has produced more than one system,
 these are grouped together, the highest dates proposed by him determining
 his place in the series.
 
-Omitting that of Oppert, which to some extent stands in a category by
+Omitting that of Oppert, which to some extent stands in a [[Category|category]] by
 itself, the systems fall into three groups. The first group, comprising the
 second to the sixth names, obtains its results by selecting the data on
 which it relies and ignoring others. The second group, comprising the next
@@ -1433,7 +1433,7 @@ total duration of the dynasties to agree with the chronological system of
 Berossus and with the statement of Nabonidus concerning Khammurabi's date,
 Peiser proposed to emend the figure given by the Kings' List for the length
 of Dynasty III. The reading of "9 soss and 36 years," which gives the total
-576 years, he suggested was a scribal error for "6 soss and 39 years"; he
+576 years, he suggested was a scribal [[Error|error]] for "6 soss and 39 years"; he
 thus reduced the length of Dynasty III. by 177 years and effected a
 corresponding reduction in the dates assigned to Dynasties I. and II.[13]
 In 1897 Rost followed up Peiser's suggestion by reducing the figure still
@@ -1487,7 +1487,7 @@ Kings' List by assigning to Dynasty II. an independent existence of some
 practically his theory of 1895.
 
 Such are the principles underlying the various chronological schemes which
-had, until recently, been propounded. The balance of opinion was in favour
+had, until recently, been propounded. The [[Balance|balance]] of opinion was in favour
 of those of the first group of writers, who avoided emendations of the
 figures and were content to follow the Kings' List and to ignore its
 apparent discrepancies with other chronological data; but it is now
@@ -1642,7 +1642,7 @@ complement as an aid in suggesting the reading desired in any given
 instance. Yet, even in those days, the Babylonian syllabary continued to be
 a mixture of ideographic and phonetic writing. Besides the conventional use
 of certain signs as the indications of names of gods, countries, cities,
-vessels, birds, trees, &c., which, known as "determinants," are the
+vessels, birds, trees, &c., which, known as "[[Determinant|determinants]]," are the
 Sumerian signs of the terms in question and were added as a guide for the
 reader, proper names more particularly continued to be written to a large
 extent in purely "ideographic" fashion. The conservatism which is a feature
@@ -1658,7 +1658,7 @@ invariably written with the sign or signs representing this deity, and it
 is only exceptionally that the name is spelled phonetically. Thus the name
 of the chief god of the Babylonian pantheon, Marduk, is written by two
 signs to be pronounced AMAR-UD, which describe the god as the "young
-bullock of the day"--an allusion to the solar character of the god in
+[[Bullock|bullock]] of the day"--an allusion to the solar character of the god in
 question. The moon-god Sin is written by a sign which has the force of
 "thirty," and is a distinct reference to the monthly course of the planet;
 or the name is written by two signs to be pronounced EN-ZU, which describe
@@ -1747,7 +1747,7 @@ determine the reading of the names. Our knowledge of the ancient Sumerian
 language is still quite imperfect, despite the considerable progress made,
 more particularly during recent years. It is therefore not surprising that
 scholars should differ considerably in the reading of Sumerian names, where
-we have not helps at our command as for Babylonian and Assyrian names.
+we have not [[Helps|helps]] at our command as for Babylonian and Assyrian names.
 Changes in the manner of reading the Sumerian names are frequent. Thus the
 name of a king of Ur, generally read Ur-Bau until quite recently, is now
 read Ur-Engur; for Lugal-zaggisi, a king of Erech, some scholars still
@@ -1764,7 +1764,7 @@ though we may also expect to encounter Semites bearing genuine Sumerian
 names. At times too a doubt may exist in regard to a name whose bearer was
 a Semite, whether the signs composing his name represent a phonetic reading
 or an ideographic compound. Thus, _e.g._ when inscriptions of a Semitic
-ruler of Kish, whose name was written Uru-mu-ush, were first deciphered,
+ruler of [[Kish]], whose name was written Uru-mu-ush, were first deciphered,
 there was a disposition to regard this as an ideographic form and to read
 phonetically Alu-usharshid ("he founded a city," with the omission of the
 name of the deity), but scholarly opinion finally accepted Uru-mu-ush
@@ -1775,10 +1775,10 @@ Babylonian-Assyrian proper names, as well as for an indication of the
 problems involved and the difficulties still existing, especially in the
 case of Sumerian names,[35] see the three excellent works now at our
 disposal for the Sumerian, the old Babylonian, and the neo-Babylonian
-period respectively, by Huber, _Die Personennamen in den
+period respectively, by [[Huber]], _Die Personennamen in den
 Keilschrifturkunden aus der Zeit der Könige von Ur und Nisin_ (Leipzig,
 1907); Ranke, _Early Babylonian Proper Names_ (Philadelphia, 1905); and
-Tallqvist, _Neu-Babylonisches Namenbuch_ (Helsingfors, 1905).
+Tallqvist, _Neu-Babylonisches Namenbuch_ ([[Helsingfors]], 1905).
 
 (M. JA.)
 
@@ -1797,7 +1797,7 @@ years' reign of the Assyrian king Tukulti-In-aristi at Babylon.
 [3] They are also called high-priests of Gunammid[=e] and a contract-tablet
 speaks of "T[=e] in Babylon," but this was probably not the T[=e] of the
 seal. It must be remembered that the reading of most of the early Sumerian
-proper names is merely provisional, as we do not know how the ideographs of
+proper names is merely provisional, as we do not know how the [[Ideograph|ideographs]] of
 which they are composed were pronounced in either Sumerian or Assyrian.
 
 [4] For the events leading up to the conquests of Cyrus, see PERSIA:
@@ -2029,7 +2029,7 @@ writers on the chronology, see § viii., _Chronological Systems._
 Babylon, the Dynasty of Sisku or Uruku, and the Kassite Dynasty; see sect.
 v.
 
-[7] See Oppert, _Comptes rendus de l'Acad. des Inscr. et Belles-Lettres_
+[7] See Oppert, _Comptes rendus de l'Acad. des Inscr. et [[Belles-Lettres]]_
 (1888), xvi. pp. 218 ff., and _Bab. and Or. Rec._ ii. pp. 107 ff.
 
 [8] See Sayce, _Early Israel_, pp. 281 ff., and _Encyc. Brit._, 10th ed.,
@@ -2109,7 +2109,7 @@ transliteration the names of parties mentioned in the texts have also been
 of service in fixing the phonetic readings of names. See _e.g._ Clay's
 valuable article, "Aramaic Endorsements on the Documents of Murash[=u]
 Sons" (Persian period) in _Old Testament and Semitic Studies in Memory of
-William Rainey Harper_ (Chicago, 1908, vol. i.), pp. 285-322.
+William Rainey Harper_ ([[Chicago]], 1908, vol. i.), pp. 285-322.
 
 [35] Even in the case of the "Semitic" name of the famous Sargon I.
 (_q.v._), whose full name is generally read Sharru-kenu-sha-ali, and
@@ -2122,13 +2122,13 @@ BABYLONIAN AND ASSYRIAN RELIGION. The development of the religion of
 Babylonia, so far as it can be traced with the material at hand, follows
 closely along the lines of the periods to be distinguished in the history
 of the Euphrates valley. Leaving aside the primitive phases of the religion
-as lying beyond the ken of historical investigation, we may note the sharp
+as lying beyond the [[Ken|ken]] of historical investigation, we may note the sharp
 distinction to be made between the pre-Khammurabic age and the
 post-Khammurabic age. While the political movement represented by
 Khammurabi may have been proceeding for some time prior to the appearance
 of the great conqueror, the period of _c._ 2250 B.C., when the union of the
 Euphratean states was effected by Khammurabi, marks the beginning of a new
-epoch in the religion as well as in the political history of the Euphrates
+epoch in the religion as well as in the [[Political History|political history]] of the Euphrates
 valley. Corresponding to the states into which we find the country divided
 before 2250 B.C., we have a various number of religious centres such as
 Nippur, Erech, Kutha (Cuthah), Ur, Sippara (Sippar), Shirgulla (Lagash),
@@ -2179,7 +2179,7 @@ the year and the various times of the day among these minor deities. In
 this way Ninib, whose chief seat appears to have been at Shirgulla
 (Lagash), became the sun-god of the springtime and of the morning, bringing
 joy and new life to the earth, while Nergal of Kutha was regarded as the
-sun of the summer solstice and of the noonday heat--the harbinger of
+sun of the summer solstice and of the noonday heat--the [[Harbinger|harbinger]] of
 suffering and death.
 
 There were, however, two deities who appear to have retained an independent
@@ -2242,10 +2242,10 @@ the city of Babylon served to maintain for Marduk recognition even on the
 part of the Assyrian rulers, who, on the political side likewise, conceded
 to Babylonia the form at least of an independent district even when, as
 kings of Assyria, they exercised absolute control over it. They appointed
-their sons or brothers governors of Babylonia, and in the long array of
+their sons or brothers governors of Babylonia, and in the long [[Array|array]] of
 titles that the kings gave themselves, a special phrase was always set
 aside to indicate their mastery over Babylonia. "To take the hand of
-Bel-Marduk" was the ceremony of installation which Assyrian rulers
+Bel-Marduk" was the ceremony of [[Installation|installation]] which Assyrian rulers
 recognized equally with Babylonians as an essential preliminary to
 exercising authority in the Euphrates valley. Marduk and Assur became
 rivals only when Babylonia gave the Assyrians trouble; and when in 689 B.C.
@@ -2256,7 +2256,7 @@ as a symbol that the god's rule had come to an end. His grandson
 Assur-bani-pal, with a view of re-establishing amicable relations, restored
 the statue to the temple E-Saggila in Babylon and performed the
 time-honoured ceremony of "taking the hand of Bel" as a symbol of his
-homage to the ancient head of the Babylonian pantheon.
+[[Homage|homage]] to the ancient head of the Babylonian pantheon.
 
 But for the substitution of Assur for Marduk, the Assyrian pantheon was the
 same as that set up in the south, though some of the gods were endowed with
@@ -2297,7 +2297,7 @@ which thus served to maintain the rites in a more or less stable condition
 was the predominance of what may be called the astral theology as the
 theoretical substratum of the Babylonian religion, and which is equally
 pronounced in the religious system of Assyria. The essential feature of
-this astral theology is the assumption of a close link between the
+this astral theology is the [[Assumption|assumption]] of a close link between the
 movements going on in the heavens and occurrences on earth, which led to
 identifying the gods and goddesses with heavenly bodies--planets and stars,
 besides sun and moon--and to assigning the seats of all the deities in the
@@ -2306,7 +2306,7 @@ moon--was the first step in the unfolding of this system, and this was
 followed by placing the other deities where Shamash and Sin had their
 seats. This process, which reached its culmination in the post-Khammurabic
 period, led to identifying the planet Jupiter with Marduk, Venus with
-Ishtar, Mars with Nergal, Mercury with Nebo, and Saturn with Ninib. The
+Ishtar, [[Mars]] with Nergal, Mercury with Nebo, and Saturn with Ninib. The
 system represents a harmonious combination of two factors, one of popular
 origin, the other the outcome of speculation in the schools attached to the
 temples of Babylonia. The popular factor is the belief in the influence
@@ -2316,7 +2316,7 @@ guidance upon the two great luminaries. Starting with this belief the
 priests built up the theory of the close correspondence between occurrences
 on earth and phenomena in the heavens. The heavens presenting a constant
 change even to the superficial observer, the conclusion was drawn of a
-connexion between the changes and the ever-changing movement in the fate of
+connexion between the changes and the ever-changing movement in the [[Fate|fate]] of
 individuals and of nature as well as in the appearance of nature.
 
 To read the signs of the heavens was therefore to understand the meaning of
@@ -2338,7 +2338,7 @@ Assyria. "Chaldaean wisdom" became in the classical world the synonym of
 this science, which in its character was so essentially religious. The
 persistent prominence which astrology (_q.v._) continued to enjoy down to
 the border line of the scientific movement of our own days, and which is
-directly traceable to the divination methods perfected in the Euphrates
+directly traceable to the [[Divination|divination]] methods perfected in the Euphrates
 valley, is a tribute to the scope and influence attained by the astral
 theology of the Babylonian and Assyrian priests.
 
@@ -2353,7 +2353,7 @@ while Ea ruled over the deep. With the transfer of all the gods to the
 heavens, and under the influence of the doctrine of the correspondence
 between the heavens and the earth, Anu, Bel and Ea became the three "ways"
 (as they are called) on the heavens. The "ways" appear in this instance to
-have been the designation of the ecliptic circle, which was divided into
+have been the designation of the [[Ecliptic|ecliptic]] circle, which was divided into
 three sections or zones--a northern, a middle and a southern zone, Anu
 being assigned to the first, Bel to the second, and Ea to the third zone.
 The astral theology of the Babylonian-Assyrian religion, while thus bearing
@@ -2371,7 +2371,7 @@ cuneiform literature made by King Assur-bani-pal of Assyria (668-626 B.C.)
 and deposited in his palace at Nineveh, the omen collections connected with
 the astral theology of Babylonia and Assyria form the largest class. There
 are also indications that the extensive texts dealing with divination
-through the liver of sacrificial animals, which represents a more popular
+through the [[Liver|liver]] of sacrificial animals, which represents a more popular
 origin than divination through the observations of the heavens, based as it
 is on the primitive view which regarded the liver as the seat of life and
 of the soul, were brought into connexion with astral divination. Less
@@ -2424,7 +2424,7 @@ qualities associated with the gods and goddesses and of the duties imposed
 on man. Shamash the sun-god was invested with justice as his chief trait,
 Marduk is portrayed as full of mercy and kindness, Ea is the protector of
 mankind who is grieved when, through a deception practised upon Adapa,
-humanity is deprived of immortality. The gods, to be sure, are easily
+humanity is deprived of [[Immortality|immortality]]. The gods, to be sure, are easily
 aroused to anger, and in some of them the dire aspects predominated, but
 the view becomes more and more pronounced that there is some cause always
 for the divine wrath. Though, in accounting for the anger of the gods, no
@@ -2433,7 +2433,7 @@ oversight or neglect, yet the stress laid in the hymns and prayers, as well
 as in the elaborate atonement ritual prescribed in order to appease the
 anger of the gods, on the need of being clean and pure in the sight of the
 higher powers, the inculcation of a proper aspect of humility, and above
-all the need of confessing one's guilt and sins without any reserve--all
+all the need of confessing one's [[Guilt|guilt]] and sins without any reserve--all
 this bears testimony to the strength which the ethical factor acquired in
 the domain of the religion.
 
@@ -2442,10 +2442,10 @@ concerning life after death. Throughout all periods of Babylonian-Assyrian
 history, the conception prevailed of a large dark cavern below the earth,
 not far from the Apsu--the ocean encircling and flowing underneath the
 earth--in which all the dead were gathered and where they led a miserable
-existence of inactivity amid gloom and dust. Occasionally a favoured
+existence of inactivity amid gloom and [[Dust|dust]]. Occasionally a favoured
 individual was permitted to escape from this general fate and placed in a
 pleasant island. It would appear also that the rulers were always singled
-out for divine grace, and in the earlier periods of the history, owing to
+out for divine [[Grace|grace]], and in the earlier periods of the history, owing to
 the prevailing view that the rulers stood nearer to the gods than other
 mortals, the kings were deified after death, and in some instances divine
 honours were paid to them even during their lifetime.
@@ -2462,7 +2462,7 @@ discerned, while the indirect influences in the domain of the prophetical
 books, as also in the Psalms and in the so-called "Wisdom Literature," are
 even more noteworthy. Even when we reach the New Testament period, we have
 not passed entirely beyond the sphere of Babylonian-Assyrian influences. In
-such a movement as early Christian gnosticism, Babylonian
+such a movement as early Christian [[Gnosticism|gnosticism]], Babylonian
 elements--modified, to be sure, and transformed--are largely present, while
 the growth of an apocalyptic literature is ascribed with apparent justice
 by many scholars to the recrudescence of views the ultimate source of which
@@ -2471,10 +2471,10 @@ priests.
 
 BIBLIOGRAPHY.--Morris Jastrow, jun., _Religion Babyloniens und Assyriens_
 (Giessen, 1904), enlarged and re-written form of the author's smaller
-_Religion of Babylonia and Assyria_ (Boston, 1898); A. H. Sayce, _The
+_Religion of Babylonia and Assyria_ ([[Boston]], 1898); A. H. Sayce, _The
 Religion of the Ancient Babylonians_ (Hibbert Lectures, London, 1887), now
 superseded by the same author's _Religions of Ancient Egypt and Babylonia_
-(Gifford Lectures, Edinburgh, 1902); Friedrich Jeremias, _Die Babylonier
+(Gifford Lectures, Edinburgh, 1902); [[Friedrich]] Jeremias, _Die Babylonier
 und Assyrer_, in de la Saussaye's _Lehrbuch der Religionsgeschichte_ (3rd
 ed., Tübingen, 1905), vol. i.; L. W. King, _Babylonian Religion and
 Mythology_ (London, 1899); T. G. Pinches, _Religion of Babylonia and
@@ -2485,20 +2485,20 @@ especially parts v., xii., xv., xvii., xviii., xx. and xxi. and vol. iv. of
 the earlier series of _Selections from the Miscellaneous Inscriptions of
 Western Asia_, ed. by H. C. Rawlinson (2nd ed., London, 1891); H. Zimmern,
 _Beiträge zur Kenntniss der babylonischen Religion_ (Leipzig, 1901); J. A.
-Craig, _Assyrian and Babylonian Religious Texts_ (Leipzig, 1895-1897);
+[[Craig]], _Assyrian and Babylonian Religious Texts_ (Leipzig, 1895-1897);
 L. W. King, _The Seven Tablets of Creation_ (London, 1902); R. C. Thompson,
 _The Reports of the Magicians and Astrologers of Nineveh and Babylon_
 (London, 1900); A. Boissier, _Documents assyriens relatifs aux présages_
 (Paris, 1894-1897); and his _Choix de textes relatifs à la divination
-assyro-babylonienne_ (Geneva, 1905-1906); Ch. Fossey, _La Magie assyrienne_
+assyro-babylonienne_ ([[Geneva]], 1905-1906); Ch. Fossey, _La Magie assyrienne_
 (Paris, 1902); G. A. Reisner, _Sumerisch-babylonische Hymnen_ (Berlin,
 1896); L. W. King, _Babylonian Magic and Sorcery_ (London, 1896); R. C.
 Thompson, _Devils and Evil Spirits of Babylonia_ (London, 1903-1904); K. L.
 Tallqvist, _Die assyrische Beschwörungsserie Maql[=u]_ (Leipzig, 1895);
 J. A. Knudtzon, _Assyrische Gebete an den Sonnengott_ (Leipzig, 1893);
 Virolleaud, _L'Astrologie chaldéenne_ (Paris, 1906- ); Craig,
-_Astrological-Astronomical Texts_ (Leipzig, 1892); Martin, _Textes
-religieux assyriens et babyloniens_ (Paris, 1900 and 1903); Paul Haupt,
+_Astrological-Astronomical Texts_ (Leipzig, 1892); [[Martin]], _Textes
+religieux assyriens et babyloniens_ (Paris, 1900 and 1903); Paul [[Haupt]],
 _Das babylonische Nimrodepos_ (Leipzig, 1891); Friedrich Delitzsch, _Das
 babylonische Weltschöpfungsepos_ (Leipzig, 1896); P. Jensen,
 "Assyrisch-babylonische Mythen und Epen," in Schrader's _Keilinschriftliche
@@ -2511,7 +2511,7 @@ Orients_ (2nd ed., Leipzig, 1906-1907); and _Babylonisches im Neuen
 Testament_ (Leipzig, 1905). On the religious literature of Babylonia and
 Assyria, see also chapters xv. to xxiv. in Jastrow's work (German and
 English edition), Carl Bezold's _Ninive and Babylon_ (Bielefeld, 1905),
-chapters vi. to xii., and the same author's monumental catalogue of the
+chapters vi. to xii., and the same author's monumental [[Catalogue|catalogue]] of the
 cuneiform tablets in the Kuyunjik collection of the British Museum (5
 vols., London, 1889-1899).
 

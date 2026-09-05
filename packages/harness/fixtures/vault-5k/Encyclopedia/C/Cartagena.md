@@ -47,7 +47,7 @@ Cartagena advanced rapidly in size and wealth. The opening of the
 railway enabled it to compete successfully with Alicante, and revived
 the mining and metallurgical industries, while considerable sums were
 expended on bringing the coast and land defences up to date, and adding
-new quays, docks and other harbour works. As a naval station, Cartagena
+new quays, [[Dock|docks]] and other harbour works. As a naval station, Cartagena
 suffered severely in 1898 from the maritime disasters of the
 Spanish-American War; and its commerce was much affected when, at the
 beginning of the same year, Porman, or Portman, a mining village on a
@@ -77,13 +77,13 @@ continued to flourish under the Romans, who made it a colony, with the
 name _Colonia Victrix Julia Nova Carthago_. In A.D. 425 it was pillaged
 and nearly destroyed by the Goths. Cartagena was a bishopric from about
 400 to 1289, when the see was removed to Murcia. Under the Moors it
-became an independent principality, which was destroyed by Ferdinand II.
+became an independent principality, which was destroyed by [[Ferdinand]] II.
 of Castile in 1243, restored by the Moors, and finally conquered by
-James I. of Aragon in 1276. It was rebuilt by Philip II. of Spain
+James I. of [[Aragon]] in 1276. It was rebuilt by Philip II. of Spain
 (1527-1598) for the sake of its harbour. In 1585 it was sacked by an
 English fleet under Sir Francis Drake. In 1706, in the War of the
-Spanish Succession, it was occupied by Sir John Leake; and in the next
-year it was retaken by the duke of Berwick. On the 5th of November 1823
+Spanish Succession, it was occupied by Sir John [[Leake]]; and in the next
+year it was retaken by the duke of [[Berwick]]. On the 5th of November 1823
 it capitulated to the French. In consequence of the insurrection in
 Spain, Cartagena was in 1844 again the scene of warfare. On the 23rd of
 August 1873 it was bombarded by the Spanish fleet under Admiral Lobos;

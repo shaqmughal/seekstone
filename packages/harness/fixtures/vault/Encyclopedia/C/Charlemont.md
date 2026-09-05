@@ -8,7 +8,7 @@ Oxfordshire, England, who was given lands in Ireland, and created Baron
 Charlemont (the name of a fort on the Blackwater), for his services to
 King James I. in 1620, and the 1st viscount was the 5th baron (d. 1671),
 who was advanced by Charles II. Lord Charlemont is historically
-interesting for his political connexion with Flood and Grattan; he was
+interesting for his political connexion with [[Flood]] and Grattan; he was
 a cultivated man with literary and artistic tastes, and both in Dublin
 and in London his amiable character gave him considerable social
 influence. For various early services in Ireland he was made an earl in

@@ -4,7 +4,7 @@ GORAKHPUR, a city, district and division of the United Provinces of
 British India. The city is situated on the left bank of the river Rapti.
 Pop. (1901) 64,148. It is believed to have been founded about 1400 A.D.
 It is the civil headquarters of the district and was formerly a military
-cantonment. It consists of a number of adjacent village sites, sometimes
+[[Cantonment|cantonment]]. It consists of a number of adjacent village sites, sometimes
 separated by cultivated land, and most of the inhabitants are
 agriculturists.
 
@@ -14,13 +14,13 @@ great alluvial plain. Only a few sandhills break the monotony of its
 level surface, which is, however, intersected by numerous rivers studded
 with lakes and marshes. In the north and centre dense forests abound,
 and the whole country has a verdant appearance. The principal rivers are
-the Rapti, the Gogra, the Gandak and Little Gandak, the Kuana, the
+the Rapti, the Gogra, the [[Gandak]] and Little Gandak, the Kuana, the
 Rohin, the Ami and the Gunghi. Tigers are found in the north, and many
 other wild animals abound throughout the district. The lakes are well
 stocked with fish. The district is not subject to very intense heat,
 from which it is secured by its vicinity to the hills and the moisture
-of its soil. Dust-storms are rare, and cool breezes from the north,
-rushing down the gorges of the Himalayas, succeed each short interval of
+of its soil. Dust-storms are rare, and cool [[Breeze|breezes]] from the north,
+rushing down the [[Gorges|gorges]] of the [[Himalaya|Himalayas]], succeed each short interval of
 warm weather. The climate is, however, relaxing. The southern and
 eastern portions are as healthy as most parts of the province, but the
 _tarai_ and forest-tracts are still subject to malaria.
@@ -28,8 +28,8 @@ _tarai_ and forest-tracts are still subject to malaria.
 Gautama Buddha, the founder of the religion bearing his name, was born,
 and died near the boundaries of the district. From the beginning of the
 6th century the country was the scene of a continuous struggle between
-the Bhars and their Aryan antagonists, the Rathors. About 900 the
-Domhatars or military Brahmans appeared, and expelled the Rathors from
+the Bhars and their [[Aryan]] antagonists, the Rathors. About 900 the
+Domhatars or military [[Brahman|Brahmans]] appeared, and expelled the Rathors from
 the town of Gorakhpur, but they also were soon driven back by other
 invaders. During the 15th and 16th centuries, after the district had
 been desolated by incessant war, the descendants of the various
@@ -45,7 +45,7 @@ formed part of the territory ceded by Oudh to the British under the
 treaty of 1801. During the Mutiny it was lost for a short time, but
 under the friendly Gurkhas the rebels were driven out. The population in
 1901 was 2,957,074, showing a decrease of 3% in the decade. The district
-is traversed by the main line and several branches of the Bengal &
+is traversed by the main line and several branches of the [[Bengal]] &
 North-Western railway, and the Gandak, the Gogra and the Rapti are
 navigable.
 

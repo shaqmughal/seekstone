@@ -31,7 +31,7 @@ which is written alternately in prose and in verse of several metres, is
 divided into four parts, and deals with the history of the Normans from
 852 to the death of Duke Richard I. in 996. It glorifies the Normans,
 and was largely used by William of Jumièges, Wace, Robert of Torigni,
-William of Poitiers and Hugh of Fleury in compiling their chronicles,
+William of Poitiers and Hugh of [[Fleury]] in compiling their chronicles,
 and was first published by A. Duchesne in his _Historiae Normannorum
 scriptores antiqui_, at Paris in 1619. Another edition is in the
 _Patrologia Latina_, tome cxli. of J.P. Migne (Paris, 1844), but the
@@ -42,7 +42,7 @@ best is perhaps the one edited by J. Lair (Caen, 1865).
   Waitz, "Über die Quellen zur Geschichte der Begrundung der
   normannischen Herrschaft in Frankreich," in the _Gottinger gel.
   Anzeigen_ (Göttingen, 1866); J.C.H.R. Steenstrup, _Normannerne_,
-  Band i. (Copenhagen, 1876); J. Lair, _Étude critique et historique sur
+  Band i. ([[Copenhagen]], 1876); J. Lair, _Étude critique et historique sur
   Dudon_ (Caen, 1865); G. Kortung, _Über die Quellen des Roman de Rou_
   (Leipzig, 1867); W. Wattenbach, _Deutschlands Geschichtsquellen_, Band
   i. (Berlin, 1904); and A. Molinier, _Les Sources de l'histoire de

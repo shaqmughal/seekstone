@@ -38,7 +38,7 @@ A is B," we get "no not-B is A." In the case of the O proposition we get
 (by obversion) "some A is not-B" and then (by conversion) "some not-B is
 A" (i.e. an I proposition). In the case of the I proposition the
 contrapositive is impossible, as infringing the main rule of conversion.
-Another term, Inversion, has been used by some logicians for a still
+Another term, [[Inversion]], has been used by some logicians for a still
 more complicated process by the alternative use of conversion and
 obversion, which is applicable to A and E, and results in obtaining a
 proposition concerning the contradictory of the original subject; thus
@@ -67,14 +67,14 @@ but syllogistic.
 
 2. _In theology_, conversion (the equivalent of the Gr. [Greek:
 strephein, epistrephein]) is originally the acceptation of Christianity
-by heathens. It is also used generally for a change from one religion to
+by [[Heathen|heathens]]. It is also used generally for a change from one religion to
 another, or in a narrower sense for a complete change of attitude
 towards God, involving a deeper conviction of the ultimate religious and
 moral truths. Considerable difference of opinion has always existed, and
 still exists, within the Christian Church as to the true nature and the
 causes of conversion, especially in the sense last described. Some have
-held that man is merely the passive recipient of the Divine Grace, a
-view based largely on the rendering of the Authorized Version of Isaiah
+held that man is merely the passive recipient of the Divine [[Grace]], a
+view based largely on the rendering of the Authorized Version of [[Isaiah]]
 vi. 10 as quoted in Matt. xiii. 15, Mark iv. 12, and John xii. 40.
 Others again hold that baptism, as involving a second birth of the
 baptized person, makes subsequent conversion unnecessary or even
@@ -91,7 +91,7 @@ own conversion? To this it is frequently answered that while the initial
 stage of conversion is and can be the work of the Holy Spirit alone, it
 lies with man to make it complete by accepting the proffered grace in
 repentance and faith (cf. Acts vii. 51, "Ye stiffnecked and
-uncircumcised in heart and ears, ye do always resist the Holy Ghost"). A
+uncircumcised in heart and [[Ear|ears]], ye do always resist the Holy Ghost"). A
 man may of his own free will avoid those surroundings which predispose
 him to such "resistance." The view that man cannot convert himself is
 clearly stated in Article X. by the Church of England. "The condition of
@@ -107,23 +107,23 @@ significance of sudden conversion of persons in a highly emotional
 state, such as has been common in revivalist meetings, especially in
 Wales and the United States of America. Conversions of the last kind
 have followed frequently on striking physical phenomena, perceived in
-many cases only by the convert himself, such as a sudden bright light or
+many cases only by the convert himself, such as a sudden [[Bright|bright]] light or
 a noise like a clap of thunder.[2] In all cases of conversion, however,
 the criterion of its validity is generally taken to be the resultant
 change of a man's character as manifested in his mode of life and
 thought, in the abstention from sin, and in devotion to good works. (X.)
 
-3. _In English law_, conversion is the unauthorized exercise of dominion
-by one person over the property (other than money or chattels real) of
+3. _In [[English Law|English law]]_, conversion is the unauthorized exercise of dominion
+by one person over the property (other than money or [[Chattel|chattels]] real) of
 another, in a manner inconsistent with his rights of possession, or the
-unauthorized assumption by another of the powers of the true owner of
-goods. The history and exact definition of this form of actionable wrong
+unauthorized [[Assumption|assumption]] by another of the powers of the true owner of
+goods. The history and exact [[Definition|definition]] of this form of actionable wrong
 have occupied the attention of many learned writers, and the incidents
 of actions to assert the rights of the true owner form a considerable
 part of treatises on the rules and forms of civil pleading. There are
 many ways in which the wrong may be committed. In some cases the
 exercise of the dominion may amount to an act of trespass or to a crime,
-e.g. where the taking amounts to larceny, or fraudulent appropriation by
+e.g. where the taking amounts to [[Larceny|larceny]], or fraudulent [[Appropriation|appropriation]] by
 a bailee or agent entrusted with the property of another (Larceny Acts
 of 1861 and 1901). But in such cases, except where money is taken, the
 civil remedy of the owner is by action for conversion or detention of
@@ -132,7 +132,7 @@ prosecution should precede restitution by the taker. The remedy in use
 in these cases used to be by what was called an action on the case for
 trover and conversion, the plaintiff putting aside all suggestions of
 trespass and of crime, and resting his case on the fiction that the
-defendant had found and used goods not his own. The fictitious averment
+[[Defendant|defendant]] had found and used goods not his own. The fictitious averment
 of loss was abolished in 1852, and under the present procedure, in which
 the old forms of action are not in use, the remedy is by a claim (still
 usually called conversion) for wrongfully depriving the true owner of
@@ -141,7 +141,7 @@ dominion over it, usually by dealing with the property in a manner
 inconsistent with the owner's rights. Originally, the action of trover
 and conversion was limited to goods and chattels, but it is now accepted
 as applying to valuable securities, such as cheques and bills of
-exchange.
+[[Exchange|exchange]].
 
 The gist of the action is in the unauthorized dealing, for however short
 a time and for however limited a purpose, with the personal property of
@@ -176,18 +176,18 @@ States, follows that of England as to the civil or criminal remedies for
 conversion.
 
 The term "conversion" is also used in English law with reference to the
-rule of courts of equity which, in certain cases (following the maxim of
+rule of courts of [[Equity|equity]] which, in certain cases (following the maxim of
 treating as done what ought to have been done), treats as converted into
 personalty land which has been directed so to be converted by a will,
 contract or settlement, or as converted into land personalty which has
 been by such instrument directed to be applied for purchase of realty.
 The rule is also applied where a vendor of land dies between the making
-of the contract of sale and its completion by conveyance of the land.
+of the contract of sale and its completion by [[Conveyance|conveyance]] of the land.
 The importance of the rule lies in the different destination of realty
 and personalty under the laws relating to inheritance and succession.
 
-  See Bullen and Leake, _Precedents of Pleading_ (3rd ed., 1868, 6th ed.
-  by Dodd and Chitty, 1905); F. Pollock, on _Torts_ (7th ed., 1904);
+  See Bullen and [[Leake]], _Precedents of Pleading_ (3rd ed., 1868, 6th ed.
+  by [[Dodd]] and [[Chitty]], 1905); F. Pollock, on _Torts_ (7th ed., 1904);
   Clerk and Lindsell, on _Torts_ (3rd ed., 1904); Lewin, on _Trusts_
   (11th ed., 1904); Jarman, on _Wills_ (5th ed., 1893); Dart, _Vendors
   and Purchasers_ (11th ed., p. 301).     (W. F. C.)

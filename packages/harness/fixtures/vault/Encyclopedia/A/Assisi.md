@@ -9,13 +9,13 @@ type: note
 
 ASSISI (anc. _Asisium_), a town and episcopal see of Umbria, Italy, in
 the province of Perugia, 15 m. E.S.E. by rail from the town of Perugia.
-Pop. (1901) town, 5338; commune, 17,240. The town occupies a fine
+Pop. (1901) town, 5338; [[Commune|commune]], 17,240. The town occupies a fine
 position on a mountain (1345 ft. above sea-level) with a view over the
 valleys of the Tiber and Topino. It is mainly famous in connexion with
 St Francis, who was born here in 1182, and returned to die in 1226. The
 Franciscan monastery and the lower and upper church of St Francis were
-begun immediately after his canonization in 1228, and completed in 1253,
-being fine specimens of Gothic architecture. The crypt was added in
+begun immediately after his [[Canonization|canonization]] in 1228, and completed in 1253,
+being fine specimens of [[Gothic]] architecture. The crypt was added in
 1818, when the sarcophagus containing his remains was discovered. The
 lower church contains frescoes by Cimabue, Giotto and others, the most
 famous of which are those over the high altar by Giotto, illustrating
@@ -23,8 +23,8 @@ the vows of the Franciscan order; while the upper church has frescoes
 representing scenes from the life of St Francis (probably by Giotto and
 his contemporaries) on the lower portion of the walls of the nave, and
 scenes from Old and New Testament history by pupils of Cimabue on the
-upper. The church of Santa Chiara (St Clare), the foundress of the Poor
-Clares, with its massive lateral buttresses, fine rose-window, and
+upper. The church of Santa Chiara (St [[Clare]]), the foundress of the Poor
+[[Clares]], with its massive lateral [[Buttress|buttresses]], fine rose-window, and
 simple Gothic interior, was begun in 1257, four years after her death.
 It contains the tomb of the saint and 13th-century frescoes and
 pictures. Santa Maria Maggiore is also a good Gothic church. The
@@ -43,16 +43,16 @@ garden in which the saint's thornless roses bloom in May. Half a mile
 outside the town to the south-east is the convent of San Damiano,
 erected by St Francis, of which St Clare was first abbess.
 
-In the early middle ages Assisi was subject to the dukes of Spoleto; but
+In the early middle ages Assisi was subject to the [[Dukes|dukes]] of Spoleto; but
 in the 11th century it seems to have been independent. It became
 involved, however, in the disputes of Guelphs and Ghibellines, and was
 frequently at war with Perugia. It was sacked by Perugia and the papal
 troops in 1442, and even after that continued to be the prey of
-factions. The place is now famous as a resort of pilgrims, and is also
+[[Faction|factions]]. The place is now famous as a resort of pilgrims, and is also
 important for the history of Italian art. The poet Metastasio was born
 here in 1698.
 
-  See L. Duff-Gordon, _Assisi_ ("Mediaeval Towns" series, London, 1900).
+  See L. [[Duff-Gordon]], _Assisi_ ("Mediaeval Towns" series, London, 1900).
   For ancient history see ASISIUM.     (T. As.)
 
 ## References

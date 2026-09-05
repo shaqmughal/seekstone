@@ -7,9 +7,9 @@ type: source
 
 # Gesner
 
-GESNER, JOHANN MATTHIAS (1691-1761), German classical scholar and
-schoolmaster, was born at Roth near Ansbach on the 9th of April 1691. He
-studied at the university of Jena, and in 1714 published a work on the
+GESNER, JOHANN [[Matthias|MATTHIAS]] (1691-1761), German classical scholar and
+schoolmaster, was born at Roth near [[Ansbach]] on the 9th of April 1691. He
+studied at the university of [[Jena]], and in 1714 published a work on the
 _Philopatris_ ascribed to Lucian. In 1715 he became librarian and
 conrector (vice-principal) at Weimar, in 1729 rector of the gymnasium at
 Ansbach, and in 1730 rector of the Thomas school at Leipzig. On the
@@ -26,8 +26,8 @@ classical authors.
   scholasticae_ (1726), afterwards continued under the title _Novus
   linguae et eruditionis Romanae thesaurus_ (1749); _Opuscula minora
   varii argumenti_ (1743-1745); _Thesaurus epistolicus Gesnerianus_ (ed.
-  Klotz, 1768-1770); _Index etymologicus latinitatis_ (1749). See J. A.
-  Ernesti, _Opuscula oratoria_ (1762), p. 305; H. Sauppe, _Gottinger
+  [[Klotz]], 1768-1770); _[[Index]] etymologicus latinitatis_ (1749). See J. A.
+  [[Ernesti]], _Opuscula oratoria_ (1762), p. 305; H. Sauppe, _Gottinger
   Professoren_ (1872); C. H. Pohnert, _J. M. Gesner und sein Verhaltnis
   zum Philanthropinismus und Neuhumanismus_ (1898), a contribution to
   the history of pedagogy in the 18th century; articles by F. A.
@@ -43,12 +43,12 @@ was born at Zurich on the 26th of March 1516. The son of a poor furrier,
 he was educated in that town, but fell into great need after the death
 of his father at the battle of Kappel (1531). He had good friends,
 however, in his old master, Myconius, and subsequently in Heinrich
-Bullinger, and he was enabled to continue his studies at the
-universities of Strassburg and Bourges (1532-1533); he found also a
+[[Bullinger]], and he was enabled to continue his studies at the
+universities of Strassburg and [[Bourges]] (1532-1533); he found also a
 generous patron in Paris (1534), in the person of Joh. Steiger of Berne.
 In 1535 the religious troubles drove him back to Zurich, where he made
 an imprudent marriage. His friends again came to his aid, enabled him to
-study at Basel (1536), and in 1537 procured for him the professorship of
+study at [[Basel]] (1536), and in 1537 procured for him the professorship of
 Greek at the newly founded academy of Lausanne (then belonging to
 Berne). Here he had leisure to devote himself to scientific studies,
 especially botany. In 1540-1541 he visited the famous medical university
@@ -63,10 +63,10 @@ ennobled.
 
 To his contemporaries he was best known as a botanist, though his
 botanical MSS. were not published till long after his death (at
-Nuremberg, 1751-1771, 2 vols, folio), he himself issuing only the
+Nuremberg, 1751-1771, 2 vols, [[Folio|folio]]), he himself issuing only the
 _Enchiridion historiae plantarum_ (1541) and the _Catalogus plantarum_
 (1542) in four tongues. In 1545 he published his remarkable _Bibliotheca
-universalis_ (ed. by J. Simler, 1574), a catalogue (in Latin, Greek and
+universalis_ (ed. by J. Simler, 1574), a [[Catalogue|catalogue]] (in Latin, Greek and
 Hebrew) of all writers who had ever lived, with the titles of their
 works, &c. A second part, under the title of _Pandeclarium sive
 partitionum universalium Conradi Gesneri Ligurini libri xxi._, appeared

@@ -4,7 +4,7 @@ BROKER (according to the _New English Dictionary_, from Lat. _brocca_,
 spit, spike, _broccare_, to "broach"--another Eng. form of the same word;
 hence O. Fr. _vendre a broche_, to retail, e.g. wine, from the tap, and
 thus the general sense of dealing; see also for a discussion of the
-etymology and early history of the use of the word, J.R. Dos Passos, _Law
+[[Etymology|etymology]] and early history of the use of the word, J.R. Dos Passos, _Law
 of Stockbrokers_, chap. i., New York, 1905). In the primary sense of the
 word, a broker is a mercantile agent, of the class known as general agents,
 whose office is to bring together intending buyers and sellers and make a
@@ -26,7 +26,7 @@ of contract his principal and the third party. When the contract is made,
 ordinarily he drops out altogether. Brokers very frequently act as factors
 also, but, when they do so, their rights and duties as factors must be
 distinguished from their rights and duties as brokers. It is a broker's
-duty to carry out his principal's instructions with diligence, skill and
+duty to carry out his principal's instructions with [[Diligence|diligence]], skill and
 perfect good faith. He must see that the terms of the bargain accord with
 his principal's orders from a commercial point of view, e.g. as to quality,
 quantity and price; he must ensure that the contract of sale effected by
@@ -38,15 +38,15 @@ respects his duty to, and his authority from, his principal alike cease;
 and consequently the law of brokers relates principally to the formation of
 contracts by them.
 
-The most important formality in English law, in making contracts for the
+The most important formality in [[English Law|English law]], in making contracts for the
 sale of goods, with which a broker must comply, in order to make the
 contract legally enforceable by his principal against the third party, is
 contained in section 4 of the Sale of Goods Act 1893, which (in substance
-re-enacting section 17 of the Statute of Frauds) provides as follows:--"A
+re-enacting section 17 of the Statute of [[Fraud|Frauds]]) provides as follows:--"A
 contract for the sale of any goods of the value of ten pounds or upwards
 shall not be enforceable by action unless the buyer shall accept part of
 the goods as sold, and actually receive the same, or give something in
-earnest to bind the contract, or in part payment, or _unless some note or
+[[Earnest|earnest]] to bind the contract, or in part payment, or _unless some note or
 memorandum in writing of the contract be made and signed by the party to be
 charged or his agent in that behalf_."
 
@@ -119,7 +119,7 @@ he is employed, is entitled to be paid his "brokerage." This usually takes
 the form of a percentage, varying according to the nature and conditions of
 the business, upon the total price of the goods bought or sold through him.
 When he guarantees the solvency of the other party, he is said to be
-employed upon _del credere_ terms, and is entitled to a higher rate of
+employed upon _[[Del Credere|del credere]]_ terms, and is entitled to a higher rate of
 remuneration. In some trades it is the custom for the selling broker to
 receive payment from the buyer or his broker; and in such case it is his
 duty to account to his principal for the purchase money. A broker who
@@ -128,8 +128,8 @@ course of his employment, is entitled to be reimbursed the money, and
 indemnified against the liability. Not having, like a factor, possession of
 the goods, a broker has no lien by which to enforce his rights against his
 principal. If he fails to perform his duty, he loses his right to
-remuneration, reimbursement and indemnity, and further becomes liable to an
-action for damages for breach of his contract of employment, at the suit of
+remuneration, reimbursement and [[Indemnity|indemnity]], and further becomes liable to an
+action for damages for [[Breach|breach]] of his contract of employment, at the suit of
 his principal.
 
 _Relations between Broker and Third Party._--A broker who signs a contract
@@ -145,11 +145,11 @@ him to do so, if the buyer pays the seller's broker, and is then sued by
 the seller for the price by reason of the broker having become insolvent or
 absconded, he may set up the payment to the broker as a defence to the
 action by the broker's principal. Brokers may render themselves liable for
-damages in tort for the conversion of the goods at the suit of the true
+damages in tort for the [[Conversion|conversion]] of the goods at the suit of the true
 owner if they negotiate a sale of the goods for a selling principal who has
 no title to the goods.
 
-_The Influence of Exchanges._--The relations between brokers and their
+_The Influence of [[Exchange|Exchanges]]._--The relations between brokers and their
 principals, and also between brokers and third parties as above defined,
 have been to some extent modified in practice by the institution since the
 middle of the 19th century in important commercial centres of "Exchanges,"
@@ -162,7 +162,7 @@ with them. A governing body or committee elected by the members enforces
 observance of the rules, and members who fail to meet their engagements on
 the market, or to conform to the rules, are liable to suspension or
 expulsion by the committee. All disputes between members on their contracts
-are submitted to an arbitration tribunal composed of members; and the
+are submitted to an [[Arbitration|arbitration]] tribunal composed of members; and the
 arbitrators in deciding the questions submitted to them are guided by the
 rules. A printed book of rules is available for reference; and various
 printed forms of contract suited to the various requirements of the
@@ -170,8 +170,8 @@ business are specified by the rules and supplied by the association for the
 use of members. In order to simplify the settlement of accounts between
 members, particularly in respect of "futures," i.e. contracts for future
 delivery, a weekly or other periodical settlement is effected by means of a
-clearing-house; each member paying or receiving in respect of all his
-contracts which are still open, the balance of his weekly "differences,"
+[[Clearing-House|clearing-house]]; each member paying or receiving in respect of all his
+contracts which are still open, the [[Balance|balance]] of his weekly "differences,"
 i.e. the difference between the contract price and the market price fixed
 for the settlement, or between the last and the present settlement prices.
 
@@ -212,7 +212,7 @@ the "client's return contract note," to be filled in, signed and returned
 by the client; but even the "client's return contract note" is retained by
 the client's own broker, and is only a memorandum of the terms of
 employment. The following is a form of contract note rendered by a broker
-to his client for American cotton, bought on the Liverpool Cotton Exchange
+to his client for American cotton, bought on the [[Liverpool]] Cotton Exchange
 for future delivery. The client's contract note is attached to it, and is
 in precisely corresponding form.
 
@@ -302,7 +302,7 @@ which he pays on his behalf, even though the contract of sale so made is
 unenforceable. For further information the reader is referred to the
 article STOCK EXCHANGE and to the treatises on stock exchange law.
 
-An _insurance broker_ is an agent whose business is to effect policies of
+An _[[Insurance|insurance]] broker_ is an agent whose business is to effect policies of
 marine insurance. He is employed by the person who has an interest to
 insure, pays the premiums to the underwriter, takes up the policy, and
 receives from the underwriter payment in the event of a loss under the
@@ -346,10 +346,10 @@ his own security at interest, and makes his profit out of the difference
 between the discount and the interest. When acting thus the bill-broker is
 not a broker at all, as he deals as principal and does not act as agent.
 
-AUTHORITIES.--Story, _Commentaries on the Law of Agency_ (Boston, 1882);
+AUTHORITIES.--Story, _Commentaries on the Law of Agency_ ([[Boston]], 1882);
 Brodhurst, _Law and Practice of the Stock Exchange_ (London, 1897); Gow,
 _Handbook of Marine Insurance_ (London, 1900); Arnould, _On Marine
-Insurance_, edited by Messrs Hart & Simey (1901); J.R. Dos Passos, _Law of
+Insurance_, edited by Messrs [[Hart]] & Simey (1901); J.R. Dos Passos, _Law of
 Stock-Brokers and Stock Exchanges_ (New York, 1905).
 
 (L. F. S.)

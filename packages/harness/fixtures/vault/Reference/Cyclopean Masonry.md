@@ -7,7 +7,7 @@ type: note
 
 # Cyclopean Masonry
 
-CYCLOPEAN MASONRY (from the Cyclopes, the supposed builders of the walls
+CYCLOPEAN MASONRY (from the [[Cyclopes]], the supposed builders of the walls
 of Mycenae), a term in architecture, used, in conjunction with Pelasgic,
 to define the rude polygonal construction employed by the Greeks and the
 Etruscans in the walls of their cities. In the earliest examples they

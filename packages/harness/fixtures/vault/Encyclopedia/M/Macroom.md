@@ -1,9 +1,9 @@
 # Macroom
 
 MACROOM, a market town in the western part of county Cork, Ireland, on
-the river Sullane, an affluent of the Lee, 24½ m. W. of Cork by the Cork
+the river Sullane, an affluent of the [[Lee]], 24½ m. W. of Cork by the Cork
 & Macroom railway, of which it is the terminus. Pop. (1901), 3016.
-Besides a fine Roman Catholic church, a court house and barracks,
+Besides a fine Roman Catholic church, a court house and [[Barracks|barracks]],
 Macroom possesses a modernized castle, which is said to have been
 founded by King John, though it is more probably attributable to Norman
 invaders. It was besieged more than once in the 17th century, and is

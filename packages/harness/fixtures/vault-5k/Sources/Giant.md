@@ -28,7 +28,7 @@ ambiguously, from the Septuagint downwards) touches the present matter
 in so far as it records the traditions of the Israelites of fighting in
 Palestine with tall races of the land such as the Anakim (Numb. xiii.
 33; Deut. ii. 10, iii. 11; 1 Sam. xvii. 4). When reading in Homer of
-"the Cyclopes and the wild tribes of the Giants," or of the adventures
+"the [[Cyclopes]] and the wild tribes of the Giants," or of the adventures
 of Odysseus in the cave of Polyphemus (Homer, _Odyss._ vii. 206; ix.),
 we seem to come into view of dim traditions, exaggerated through the
 mist of ages, of pre-Hellenic barbarians, godless, cannibal,
@@ -38,7 +38,7 @@ giants would seem to have been barbaric tribes exaggerated into monsters
 in the legends of those who dispossessed and slew them. In early times
 it was usual for cities to have their legends of giants. Thus London had
 Gog and Magog, whose effigies (14 ft. high) still stand in the Guildhall
-(see GOG); Antwerp had her Antigonus, 40 ft. high; Douai had Gayant, 22
+(see GOG); [[Antwerp]] had her Antigonus, 40 ft. high; Douai had Gayant, 22
 ft. high, and so on.
 
 Besides the conception of giants, as special races distinct from
@@ -48,7 +48,7 @@ greater stature and strength as to be in fact gigantic. This, for
 example, is received by Pliny (_Hist. Nat._ vii. 16), and it becomes a
 common doctrine of theologians such as Augustine (_De civitate Dei_, xv.
 9), lasting on into times so modern that it may be found in Cruden's
-_Concordance_. Yet so far as can be judged from actual remains, it does
+_[[Concordance]]_. Yet so far as can be judged from actual remains, it does
 not appear that giants, in the sense of tribes of altogether superhuman
 stature, ever existed, or that the men of ancient time were on the whole
 taller than those now living. It is now usual to apply the word giant
@@ -84,17 +84,17 @@ Under these circumstances it is worth while to ask how it is that legend
 and history so abound in mentions of giants outside all probable
 dimensions of the human frame. One cause is that, when the story-teller
 is asked the actual stature of the huge men who figure in his tales, he
-is not sparing of his inches and feet. What exaggeration can do in this
+is not sparing of his [[Inch|inches]] and feet. What exaggeration can do in this
 way may be judged from the fact that the Patagonians, whose average
 height (5 ft. 11 in.) is really about that of the Chirnside men in
-Berwickshire, are described in Pigafetta's _Voyage round the World_ as
+[[Berwickshire]], are described in Pigafetta's _Voyage round the World_ as
 so monstrous that the Spaniards' heads hardly reached their waists. It
 is reasonable to suppose, with Professor Nilsson (_Primitive Inhabitants
 of Scandinavia_, chap. vi.), that in the traditions of early Europe
 tribes of savages may have thus, if really tall, expanded into giants,
 or, if short, dwindled into dwarfs. Another cause which is clearly
 proved to have given rise to giant-myths of yet more monstrous type has
-been the discovery of great fossil bones, as of mammoth or mastodon,
+been the discovery of great fossil [[Bone|bones]], as of mammoth or [[Mastodon|mastodon]],
 which were formerly supposed to be bones of giants (see Tylor, _Early
 History of Mankind_, chap. xi.; _Primitive Culture_, chap. x.). A tooth
 weighing 4-3/4 [lb] and a thigh-bone 17 ft. long having been found in
@@ -113,7 +113,7 @@ stature has been authentically recorded Quetelet gives the palm to
 Frederick the Great's Scotch giant, who measured about 8 ft. 3 in. But
 since his time there have been several giants who have equalled or
 surpassed this figure. Patrick Cotler, an Irishman, who died at Clifton,
-Bristol, in 1802, was 8 ft. 7 in. high. The famous "Irish giant" O'Brien
+[[Bristol]], in 1802, was 8 ft. 7 in. high. The famous "Irish giant" O'Brien
 (Charles Byrne), whose skeleton is preserved in the museum of the Royal
 College of Surgeons, London, was 8 ft. 4 in. Chang (Chang-woo-goo), who
 appeared in London in 1865-1866 and again in 1880, was 8 ft. 2 in. Josef

@@ -13,7 +13,7 @@ suspected persons were opened and read by public officials before being
 forwarded to their destination. This practice had been in vogue since the
 establishment of posts, and was frequently used by the ministers of Louis
 XIII. and Louis XIV.; but it was not until the reign of Louis XV. that a
-separate office for this purpose was created. This was called the _cabinet
+separate office for this purpose was created. This was called the _[[Cabinet|cabinet]]
 du secret des postes_, or more popularly the _cabinet noir_. Although
 declaimed against at the time of the Revolution, it was used both by the
 revolutionary leaders and by Napoleon. The _cabinet noir_ has now

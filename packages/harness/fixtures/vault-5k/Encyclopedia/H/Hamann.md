@@ -15,7 +15,7 @@ inquiries. Such studies, however, were pursued without any definite aim
 or systematic arrangement, and consequently were productive of nothing.
 In 1752, constrained to secure some position in the world, he accepted a
 tutorship in a family resident in Livonia, but only retained it a few
-months. A similar situation in Courland he also resigned after about a
+months. A similar situation in [[Courland]] he also resigned after about a
 year. In both cases apparently the rupture might be traced to the
 curious and unsatisfactory character of Hamann himself. After leaving
 his second post he was received into the house of a merchant at Riga
@@ -25,8 +25,8 @@ Hamburg, Amsterdam and London. Hamann, however, was quite unfitted for
 business, and when left in London, gave himself up entirely to his
 fancies, and was quickly reduced to a state of extreme poverty and want.
 It was at this period of his life, when his inner troubles of spirit
-harmonized with the unhappy external conditions of his lot, that he
-began an earnest and prolonged study of the Bible; and from this time
+harmonized with the unhappy external conditions of his [[Lot|lot]], that he
+began an [[Earnest|earnest]] and prolonged study of the Bible; and from this time
 dates the tone of extreme pietism which is characteristic of his
 writings, and which undoubtedly alienated many of his friends. He
 returned to Riga, and was well received by the Behrens family, in whose
@@ -43,8 +43,8 @@ commercial speculations greatly reduced his means, and about the same
 time he was dismissed with a small pension from his situation. The
 kindness of friends, however, supplied provision for his children, and
 enabled him to carry out the long-cherished wish of visiting some of his
-philosophical allies. He spent some time with Jacobi at Pempelfort and
-with Buchholz at Walbergen. At the latter place he was seized with
+philosophical allies. He spent some time with [[Jacobi]] at Pempelfort and
+with [[Buchholz]] at Walbergen. At the latter place he was seized with
 illness, and died on the 21st of June 1788.
 
   Hamann's works resemble his life and character. They are entirely
@@ -52,7 +52,7 @@ illness, and died on the 21st of June 1788.
   style. To a reader not acquainted with the peculiar nature of the man,
   which led him to regard what commended itself to him as therefore
   objectively true, they must be, moreover, entirely unintelligible and,
-  from their peculiar, pietistic tone and scriptural jargon, probably
+  from their peculiar, pietistic tone and scriptural [[Jargon|jargon]], probably
   offensive. A place in the history of philosophy can be yielded to
   Hamann only because he expresses in uncouth, barbarous fashion an idea
   to which other writers have given more effective shape. The
@@ -78,7 +78,7 @@ illness, and died on the 21st of June 1788.
   Hamann, the groundwork of knowledge, and he accepts in all sincerity
   Hume's analysis of experience as being most helpful in constructing a
   theological view. In language, which he appears to regard as somehow
-  acquired, he finds a solution for the problems of reason which Kant
+  acquired, he finds a solution for the problems of reason which [[Kant]]
   had discussed in the _Kritik der reinen Vernunft_. On the application
   of these thoughts to the Christian theology one need not enter.
 
@@ -92,7 +92,7 @@ illness, and died on the 21st of June 1788.
   Also H. Weber, _Neue Hamanniana_ (1905). A very comprehensive essay on
   Hamann is to be found in Hegel's _Vermischte Schriften_, ii. (Werke,
   Bd. xvii.). On Hamann's influence on German literature, see J. Minor,
-  _J. G. Hamann in seiner Bedeutung fur die Sturm- und Drang-Periode_
+  _J. G. Hamann in seiner Bedeutung [[Fur|fur]] die Sturm- und Drang-Periode_
   (1881).
 
 ## References

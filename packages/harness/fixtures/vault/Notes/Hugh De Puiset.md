@@ -1,16 +1,16 @@
 # Hugh De Puiset
 
 HUGH DE PUISET (c. 1125-1195), bishop of Durham, was the nephew of
-Stephen and Henry of Blois; the latter brought him to England and made
-him an archdeacon of the see of Winchester. Hugh afterwards became
+Stephen and [[Henry Of Blois|Henry of Blois]]; the latter brought him to England and made
+him an [[Archdeacon|archdeacon]] of the see of Winchester. Hugh afterwards became
 archdeacon and treasurer of York. In 1153 he was chosen bishop of
 Durham, in spite of the opposition of the archbishop of York; but he
 only obtained consecration by making a personal visit to Rome. Hugh took
 little part in politics in the reign of Henry II., remaining in the
 north, immersed in the affairs of his see. He was, however, present with
-Roger, archbishop of York, at the coronation of young Henry (1170), and
+Roger, archbishop of York, at the [[Coronation|coronation]] of young Henry (1170), and
 was in consequence suspended by Alexander III. He remained neutral, as
-far as he could, in the quarrel between Henry and Becket, but he at
+far as he could, in the quarrel between Henry and [[Becket]], but he at
 least connived at the rebellion of 1173 and William the Lion's invasion
 of England in that year. After the failure of the rebellion the bishop
 was compelled to surrender Durham, Norham and Northallerton to the king.

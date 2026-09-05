@@ -1,7 +1,7 @@
 # Armature
 
 ARMATURE (from Lat. _armatura_, armour), a covering for defence. In
-zoology the word is used of the bony shell of the armadillo. In
+zoology the word is used of the bony shell of the [[Armadillo|armadillo]]. In
 architecture it is applied to the iron stays by which the lead lights
 are secured in windows. (See STANCHION and SADDLE: _Saddle-Bars_.) In
 magnetism Dr William Gilbert applied the term to the piece of soft iron
@@ -11,7 +11,7 @@ across the poles of a horse-shoe magnet, and held in place by magnetic
 attraction, in order to complete the magnetic circuit and preserve the
 magnetism of the steel; and hence, in dynamo-electric machinery, for the
 portion which is attracted by the electromagnet, as the moving part of
-an electric motor, or, by extension, the moving part of a dynamo (q.v.).
+an electric motor, or, by extension, the moving part of a [[Dynamo|dynamo]] (q.v.).
 
 ## References
 

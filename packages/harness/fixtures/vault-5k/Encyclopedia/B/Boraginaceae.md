@@ -8,11 +8,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Boraginace
 # Boraginaceae
 
 BORAGINACEAE, an order of plants belonging to the sympetalous section of
-dicotyledons, and a member of the series Tubiflorae. It is represented
+[[Dicotyledons|dicotyledons]], and a member of the series Tubiflorae. It is represented
 in Britain by bugloss (_Echium_) (fig. 1), comfrey (_Symphytum_),
 _Myosotis_, hounds-tongue (_Cynoglossum_) (fig. 2), and other genera,
-while borage (_Borago officinalis_) (fig. 3) occurs as a garden escape
-in waste ground. The plants are rough-haired annual or perennial herbs,
+while [[Borage|borage]] (_Borago officinalis_) (fig. 3) occurs as a garden escape
+in waste ground. The plants are rough-haired annual or perennial [[Herb|herbs]],
 more rarely shrubby or arborescent, as in _Cordia_ and _Ehretia_, which
 are tropical or sub-tropical. The leaves, which are generally alternate,
 are usually entire and narrow: the radical leaves in some genera, as
@@ -40,7 +40,7 @@ nat. size.
   4. Pistil.                          9. Same enlarged.]
   5. One stamen.
 
-The five stamens alternate in position with the lobes of the corolla.
+The five stamens alternate in position with the [[Lobe|lobes]] of the corolla.
 The ovary, of two carpels, is seated on a ring-like disk which secretes
 honey. Each carpel becomes divided by a median constriction in four
 portions, each containing one ovule; the style springs from the centre
@@ -51,7 +51,7 @@ fruits.]
 
 The flowers show well-marked adaptation to insect-visits. Their colour
 and tendency to arrangement on one surface, with the presence of honey,
-serve to attract insects. The scales around the throat of the corolla
+serve to attract [[Insect|insects]]. The scales around the throat of the corolla
 protect the pollen and honey from wet or undesirable visitors, and by
 their difference in colour from the corolla-lobes, as in the yellow eye
 of forget-me-not, may serve to indicate the position of the honey. In

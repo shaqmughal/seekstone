@@ -1,24 +1,24 @@
 # Dock
 
-DOCK, in marine and river engineering. Vessels require to lie afloat
+DOCK, in marine and river [[Engineering|engineering]]. Vessels require to lie afloat
 alongside quays provided with suitable appliances in sheltered sites in
-order to discharge and take in cargoes conveniently and expeditiously;
+order to [[Discharge|discharge]] and take in [[Cargo|cargoes]] conveniently and expeditiously;
 and a basin constructed for this purpose, surrounded by quay walls, is
 known as a dock. The term is specially applied to basins adjoining tidal
 rivers, or close to the sea-coast, in which the water is maintained at a
 fairly uniform level by gates, which are closed when the tide begins to
-fall, as exemplified by the Liverpool and Havre docks (figs. 1 and 2).
+fall, as exemplified by the [[Liverpool]] and [[Havre]] docks (figs. 1 and 2).
 Sometimes, however, at ports situated on tidal rivers near their tidal
-limit, as at Glasgow (fig. 3), Hamburg and Rouen, and at some ports near
+limit, as at [[Glasgow]] (fig. 3), [[Hamburg]] and Rouen, and at some ports near
 the sea-coast, such as Southampton (fig. 4) and New York, the tidal
 range is sufficiently moderate for dock gates to be dispensed with, and
 for open basins and river quays to serve for the accommodation of
 vessels. For ports established on the sea-coast of tideless seas, such
-as the Mediterranean, on account of the rivers being barred by deltas at
+as the Mediterranean, on account of the rivers being barred by [[Delta|deltas]] at
 their outlets, like the Rhone and the Tiber, and thus rendered
 inaccessible, open basins, provided with quays and protected by
 breakwaters, furnish the necessary commercial requirements for sea-going
-vessels, as for example at Marseilles (fig. 5), Genoa, Naples and
+vessels, as for example at [[Marseilles]] (fig. 5), Genoa, Naples and
 Trieste. These open basins, however, are precisely the same as closed
 docks, except for the absence of dock gates, and the accommodation for
 shipping at the quays round basins in river ports is so frequently
@@ -43,30 +43,30 @@ is sheltered; the low level reduces the excavation required for forming
 the docks, and enables the excavated materials to be utilized in raising
 the ground at the sides for quays, and the river furnishes a sheltered
 approach channel. Notable instances of these are the docks of the ports
-of London, Liverpool, South Wales, Southampton, Hull, Belfast, St
-Nazaire, Rotterdam, Antwerp and Hamburg. Sometimes docks are partially
-formed on foreshores reclaimed from estuaries, as at Hull, Grimsby,
-Cardiff, Liverpool, Leith and Havre; whilst at Bristol, a curved portion
+of London, Liverpool, South Wales, Southampton, [[Hull]], [[Belfast]], St
+Nazaire, Rotterdam, [[Antwerp]] and Hamburg. Sometimes docks are partially
+formed on foreshores reclaimed from estuaries, as at Hull, [[Grimsby]],
+Cardiff, Liverpool, [[Leith]] and Havre; whilst at [[Bristol]], a curved portion
 of the river Avon was appropriated for a dock, and a straight cut made
-for the river. By carrying docks across sharp bends of tidal rivers,
+for the river. By carrying docks across sharp [[Bend|bends]] of tidal rivers,
 upper and lower entrances can be provided, thereby conveniently
 separating the inland and sea-going traffic; and of this the London,
 Surrey Commercial, West India, and Victoria and Albert docks are
-examples on the Thames and Chatham dockyard on the Medway. Occasionally,
+examples on the Thames and [[Chatham]] dockyard on the Medway. Occasionally,
 when a small tidal river has a shallow entrance, or an estuary exhibits
 signs of silting up, docks alongside, formed on foreshores adjoining the
 sea-coast, are provided with a sheltered entrance direct from the sea,
 as exemplified by the Sunderland docks adjacent to the mouth of the
 river Wear, and the Havre docks at the outlet of the Seine estuary (fig.
 2). Some old ports, originally established on sandy coasts where a
-creek, maintained by the influx and efflux of the tide from low-lying
+[[Creek|creek]], maintained by the influx and efflux of the tide from low-lying
 spaces near the shore, afforded some shelter and an outlet to the sea
-across the beach, have had their access improved by parallel jetties and
+across the [[Beach|beach]], have had their access improved by parallel jetties and
 dredging; and docks have been readily formed in the low-lying land only
-separated by sand dunes from the sea, as at Calais, Dunkirk (fig. 6) and
+separated by sand [[Dunes|dunes]] from the sea, as at Calais, Dunkirk (fig. 6) and
 Ostend (see HARBOUR). In sheltered places on the sea-coast, docks have
 sometimes been constructed on low-lying land bordering the shore, with
-direct access to the sea, as at Barrow and Hartlepool; whilst at
+direct access to the sea, as at Barrow and [[Hartlepool]]; whilst at
 Mediterranean ports open basins have been formed in the sea, by
 establishing quays along the foreshore, from which wide, solid jetties,
 lined with quay walls, are carried into the sea at intervals at right
@@ -78,12 +78,12 @@ however, the basins are formed within the partial protection of a bay,
 as in the old ports of Genoa and Naples, the requisite additional
 shelter has been provided by converging breakwaters across the opening
 of the bay; and an entrance to the port is left between the breakwaters.
-The two deep arms of the sea at New York, known as the Hudson and East
+The two deep arms of the sea at New York, known as the [[Hudson]] and East
 rivers, are so protected by Staten Island and Long Island that it has
 been only necessary to form open basins by projecting wide jetties or
 quays into them from the west and east shores of Manhattan Island, and
-from the New Jersey and Brooklyn shores, at intervals, to provide
-adequate accommodation for Atlantic liners and the sea-going trade of
+from the New [[Jersey]] and Brooklyn shores, at intervals, to provide
+adequate accommodation for Atlantic [[Liner|liners]] and the sea-going trade of
 New York.
 
 [Illustration: FIG. 5.--Port of Marseilles. Basins and Extensions.]
@@ -95,7 +95,7 @@ The accessibility of a port depends upon the depth of its approach
 channel, which also determines the depth of the docks or basins to which
 it leads; for it is useless to give a depth to a dock much in excess of
 the depth down to which there is a prospect of carrying the channel by
-which it is reached. The great augmentation, however, in the power and
+which it is reached. The great [[Augmentation|augmentation]], however, in the power and
 capacity for work of modern dredgers, and especially of suction dredgers
 in sand (see DREDGE), together with the increasing draught of vessels,
 has resulted in a considerable increase being made in the available
@@ -105,7 +105,7 @@ in determining the depth to be given to a new dock. On the other hand,
 there is a limit to the deepening of an approach channel, depending upon
 its length, the local conditions as regards silting, and the resources
 and prospects of trade of the port, for every addition to the depth
-generally involves a corresponding increase in the cost of maintenance.
+generally involves a corresponding increase in the cost of [[Maintenance|maintenance]].
 
 [Illustration: FIG. 6.--Dunkirk Docks and Jetty Channel.]
 
@@ -141,19 +141,19 @@ be converted into artificially deep channels by dredging, and their
 necessary maintenance is somewhat aided by the increased influx and
 efflux of tidal water due to the lowering of the low-water line by the
 outflow of the ebb tide being facilitated by the deepening. Thus
-systematic, continuous dredging in the Tyne and the Clyde has raised the
+systematic, continuous dredging in the Tyne and the [[Clyde]] has raised the
 Tyne ports and Glasgow into first-class ports. In large tidal rivers and
 estuaries, docks should be placed alongside a concave bank which the
-deep navigable channel hugs, as effected at Hull and Antwerp, or close
+deep navigable channel [[Hug|hugs]], as effected at Hull and Antwerp, or close
 to a permanently deep channel in an estuary, such as chosen for Garston
 and the entrance to the Manchester ship canal at Eastham in the inner
 Mersey estuary, and for Grimsby and the authorized Illingham dock in the
-Humber estuary; for a channel carried across an estuary to deep water
+[[Humber]] estuary; for a channel carried across an estuary to deep water
 requires constant dredging to maintain its depth. Occasionally,
 extensive draining works and dredging have to be executed to form an
 adequately deep channel through a shifting estuary and shallow river to
 a port, as for instance on the Weser to Bremerhaven and Bremen, on the
-Seine to Honfleur and Rouen, on the Tees to Middlesborough and Stockton,
+Seine to [[Honfleur]] and Rouen, on the Tees to Middlesborough and Stockton,
 on the Ribble to Preston, on the Maas to Rotterdam and on the Nervion to
 Bilbao (see RIVER ENGINEERING). Southampton possesses the very rare
 combination of advantages of a well-sheltered and fairly deep estuary, a
@@ -167,7 +167,7 @@ has enabled Southampton to attract some of the Atlantic steamers
 formerly running to Liverpool.
 
 Ports on tideless seas have to be placed where deep water approaches the
-shore, and where there is an absence of littoral drift. The basins of
+shore, and where there is an absence of littoral [[Drift|drift]]. The basins of
 such ports are always accessible for vessels of the draught they provide
 for; but they require most efficient protection, and, unlike tidal
 ports, they are not able on exceptional occasions to admit a vessel of
@@ -179,7 +179,7 @@ Amsterdam and Bruges; whilst Manchester has become a seaport by similar
 works (see MANCHESTER SHIP CANAL). In such cases, however, perfectly
 sheltered open basins are formed inland at the head of the ship canal,
 in the most convenient available site; and the size of vessels that can
-use the port depends wholly on the dimensions and facility of access of
+use the port depends wholly on the [[Dimension|dimensions]] and facility of access of
 the ship canal.
 
 [Illustration: FIG. 8.--Barry Docks.]
@@ -195,7 +195,7 @@ the ship canal.
   account, and owing to the small size of vessels in former times, the
   docks of old ports present a great variety in size and arrangement,
   being for the most part narrow and small, forming a sort of string of
-  docks communicating with one another, and provided with locks or
+  docks communicating with one another, and provided with [[Lock|locks]] or
   entrances at suitable points for their common use, as noticeable in
   the older London and Liverpool docks. Though narrow timber jetties
   were introduced in some of the wider London docks for increasing the
@@ -226,7 +226,7 @@ the ship canal.
   Glasgow (fig. 3), and at some of the principal Rhine ports; whilst the
   Alexandra dock at Hull resembles it in principle. The basins in
   tideless seas have naturally been long formed in accordance with this
-  system (fig. 5). The Barry docks furnish an example of the special
+  system (fig. 5). The [[Barry]] docks furnish an example of the special
   arrangements for a coal-shipping port, with numerous coal-tips served
   by sidings (fig. 8).
 
@@ -297,7 +297,7 @@ the ship canal.
   excavations by pumps raising the inflowing water from sumps, lined
   with timber, sunk down below the lowest foundations at suitable
   positions, so that the lower portions of the dock walls and sills of
-  the lock or entrance may be built out of water. A cofferdam has to be
+  the lock or entrance may be built out of water. A [[Cofferdam|cofferdam]] has to be
   constructed extending out from the bank of the river or approach
   channel in front of the site of the proposed entrance or lock, so that
   the excavations for the entrance to the dock may be pushed forwards,
@@ -308,7 +308,7 @@ the ship canal.
 
   Where a dock is partially or wholly constructed on reclaimed land, the
   reclamation bank for enclosing the site and excluding the tide has to
-  be undertaken first by tipping an embankment from each end with
+  be undertaken first by tipping an [[Embankment|embankment]] from each end with
   wagons, protected and consolidated along its outer toe by rubble stone
   or chalk. When the ends of the embankments are approaching one
   another, it is essential to connect them by a long low bank of
@@ -319,7 +319,7 @@ the ship canal.
   volume as the low bank is raised. In this way a reduction is effected
   of the tidal current in and out, which in the case of a large
   enclosure and a considerable tidal range, would create such a scour in
-  the narrowing gap between two high embankments as to wash away their
+  the narrowing [[Gap|gap]] between two high embankments as to wash away their
   ends and prevent the closing of the gap. Occasionally the final
   closure is effected by lowering timber panels in grooves between a
   series of piles driven down at intervals across the gap. On the
@@ -329,7 +329,7 @@ the ship canal.
   highest tide which might be raised by a high wind; and in exposed
   sites, the outer slope of the bank should be protected by pitching
   from the action of waves, for any overtopping or erosion of the bank
-  might result in a large breach through it, and the flooding of the
+  might result in a large [[Breach|breach]] through it, and the flooding of the
   works inside.
 
 
@@ -365,15 +365,15 @@ the ship canal.
   whilst the sheet piling at the back relieves the wall to some extent
   from the pressure of the earth behind it, and in front retains the
   wall from sliding forwards. Firmer foundations have been obtained by
-  sinking brick, concrete or masonry wells through soft ground to a
+  sinking [[Brick|brick]], concrete or [[Masonry|masonry]] wells through soft ground to a
   solid stratum, upon which the dock wall is built. Clusters of small
   concrete cylinders, in sets of three in front, and a line of double
   cylinders at the back, were used for the foundations of the walls of
   Prince's dock at Glasgow. Wells of rubble masonry were sunk in the
-  silty foreshore of the Seine estuary for the walls of the Bellot docks
-  at Havre; and they served as piers, connected by arches, for the
+  silty foreshore of the Seine estuary for the walls of the [[Bellot]] docks
+  at Havre; and they served as piers, connected by [[Arches|arches]], for the
   foundations of a continuous dock wall above, being carried down to a
-  considerable depth through alluvium at the St Nazaire, Bordeaux and
+  considerable depth through alluvium at the St Nazaire, [[Bordeaux]] and
   Rochefort docks. These well foundations, derived from the old Indian
   system, are built up upon a curb, sometimes furnished with a cutting
   edge underneath, and gradually sunk by excavating inside; and
@@ -422,7 +422,7 @@ the ship canal.
 
   [Illustration: FIG. 10.--Liverpool Dock Wall.]
 
-  Dock walls are constructed of masonry, brickwork or concrete, or of
+  Dock walls are constructed of masonry, [[Brickwork|brickwork]] or concrete, or of
   concrete with a facing of masonry or brickwork. Masonry is adopted
   where large stone quarries are readily accessible, in the form of
   rubble masonry with dressed stone on the face, as for instance at the
@@ -490,7 +490,7 @@ the ship canal.
   depositing tiers of large concrete blocks on a rubble foundation, one
   on top of the other, till they reached sea-level, and then building a
   solid masonry quay wall out of water on the top up to quay-level,
-  faced with ashlar (fig. 13), the wall being backed by rubble for some
+  faced with [[Ashlar|ashlar]] (fig. 13), the wall being backed by rubble for some
   distance behind up to the water-level. The same system was employed
   for the quay walls at Trieste, and at Genoa and other Italian ports. A
   quay wall inside Marmagao harbour, on the west coast of India, was
@@ -522,12 +522,12 @@ the ship canal.
   and the quay wall was erected, out of water, on the flat tops of a
   series of wrought-iron caissons, 82 ft. long and 29½ ft. wide,
   constructed on shore, floated out one by one to their site in the
-  river between two barges, and gradually lowered as the wall was built
+  river between two [[Barge|barges]], and gradually lowered as the wall was built
   up inside a plate-iron enclosure round the roof of the caisson, which
   was eventually sunk by aid of compressed air through the bed of the
   river to a compact stratum (fig. 14). The weight of the wall
   counteracted the tendency of the caisson and the enclosure above it to
-  float; and the caisson, furnished with seven circular wrought-iron
+  [[Float|float]]; and the caisson, furnished with seven circular wrought-iron
   shafts, provided with air-locks at the top for the admission of men
   and materials and for the removal of the excavations, was gradually
   carried down by excavating inside the working chamber at the bottom,
@@ -535,7 +535,7 @@ the ship canal.
   was then filled with concrete through some of the shafts, the
   plate-iron sides of the upper enclosure were removed to be used for
   another length of wall, the shafts were drawn out and the hollows left
-  by them filled with concrete, the apertures between adjacent lengths
+  by them filled with concrete, the [[Aperture|apertures]] between adjacent lengths
   were closed at each face with wooden panels and filled with concrete,
   and a continuous quay wall was completed above. The most recent quay
   walls constructed in the old harbour at Genoa were founded under
@@ -617,7 +617,7 @@ the ship canal.
   pressure imposed by the backing. Thus the Kidderpur dock walls furnish
   an instance of sliding forwards on muddy silt, and part of the South
   West India dock walls on two underlying, detached, slippery seams of
-  London clay.
+  [[London Clay|London clay]].
 
   To avoid these failures with untrustworthy foundations, great care has
   to be exercised in selecting the best hard material available,
@@ -632,7 +632,7 @@ the ship canal.
   in the construction of the wall, best effected by building the wall
   inside a timbered trench. The liability to slide forwards can be
   obviated by carrying down the foundations of the wall sufficiently
-  below dock-bottom to provide an efficient buttress of earth in front
+  below dock-bottom to provide an efficient [[Buttress|buttress]] of earth in front
   of the wall, and also by making the base of the wall slope down
   towards the back, thereby forcing the wall in sliding forwards to
   mount the slope, or to push forward a larger mass of earth; whilst a
@@ -660,7 +660,7 @@ the ship canal.
   muddy Severn estuary, and at the Alexandra dock, Hull, to exclude the
   silty waters of the Humber. At the Kidderpur docks on the Húgli, the
   water from the river for replenishing the docks is conducted by a
-  circuitous canal, in which it deposits its burden of silt before it is
+  circuitous canal, in which it deposits its [[Burden|burden]] of silt before it is
   pumped into the docks.
 
 
@@ -677,7 +677,7 @@ trade of the port. Though different sources of power are sometimes made
 use of at different parts of the same port, as for example at Hamburg,
 where the numerous cranes are worked by steam, hydraulic power or most
 recently by electricity, and a few by gas engines, it is generally most
-convenient to work the various installations by one form of power from a
+convenient to work the various [[Installation|installations]] by one form of power from a
 central station. Water-pressure has been very commonly used as the
 motive power at docks, being generated by a steam-engine and stored up
 by one or more accumulators, from which the water is transmitted under
@@ -702,7 +702,7 @@ neighbouring collieries, special provision has to be made for its rapid
 shipment. Coal-tips, accordingly, are erected at the sides of the dock
 in these ports, with sidings on the quays at the back for receiving the
 trains of coal trucks, from which two lines of way diverge to each
-coal-tip, one serving for the conveyance of the full wagons one by one
+coal-tip, one serving for the [[Conveyance|conveyance]] of the full wagons one by one
 to the tip, after passing over a weigh-bridge, and the other for the
 return of the empty wagons to the siding where the empty train is made
 up for returning to the colliery (fig. 8). Each full wagon is either run
@@ -713,7 +713,7 @@ high-level road on to a cradle raised to this level on the tower, and
 tipped up at this or some slightly modified level. The coal is
 discharged down an adjustable iron shoot, gradually narrowed so as to
 check the fall; and on first discharging into the hold of a vessel, an
-anti-breakage box is suspended below the mouth of the shoot. When full,
+anti-breakage [[Box|box]] is suspended below the mouth of the shoot. When full,
 this is lowered to the bottom of the hold and emptied, thereby gradually
 forming a cone of coal upon which the coal can be discharged directly
 from the shoot without danger of breakage. Other contrivances are also
@@ -755,7 +755,7 @@ future requirements of vessels. The necessity for such forethought is
 illustrated by the rapid increase which has taken place in the size of
 the largest ocean liners. Thus the "City of Rome," launched in 1881, is
 560 ft. long, and 52¼ ft. beam, and has a maximum recorded draught of
-27½ ft.; the "Campania" and "Lucania," in 1893, measure 600 ft. by 65
+27½ ft.; the "[[Campania]]" and "Lucania," in 1893, measure 600 ft. by 65
 ft.; the "Oceanic," in 1899, 685½ ft. by 68¼ ft., with a maximum
 draught of 31-1/3 ft.; the "Baltic," in 1903, 709 ft. by 75 ft., with a
 maximum draught of 31¾ ft.; and the "Lusitania" and "Mauretania,"
@@ -809,7 +809,7 @@ with sills 29 ft. below high water of the lowest neap tides, each
 entrance being provided with two pairs of gates, in case of any accident
 occurring to one pair, according to the regular custom at Liverpool.
 Powers were also obtained in 1906 for the construction of a half-tide
-dock and two branch docks to the north of the Hornby dock, which are to
+dock and two branch docks to the north of the [[Hornby]] dock, which are to
 be reached from the river by two entrances designed to be 130 ft. wide,
 with sills 38½ ft. below high water of the lowest neap tides, so as to
 meet fully the assumed future increase in the beam and draught of the
@@ -817,7 +817,7 @@ largest vessels; whilst the authorized extension of the river wall
 northwards will enable additional docks to be constructed in
 communication with these entrances when required.
 
-Though, with the exception of Southampton and Dover, other British ports
+Though, with the exception of Southampton and [[Dover]], other British ports
 do not aim, like Liverpool, at accommodating the largest Atlantic liners
 at all times, the depths of the sills at the principal ports have been
 increased in the most recent extensions. Thus at the port of London the
@@ -854,13 +854,13 @@ ft., with a depth over the sills of 34¾ ft. at high water of neap tides.
   when they are opened, and to form a buttress in front on each side to
   bear the thrust of the gates when closed against a head of water
   inside. A masonry floor is laid on the bottom in continuation of the
-  sill, serving as an apron against erosion by water leaking between or
+  sill, serving as an [[Apron|apron]] against erosion by water leaking between or
   under the gates, and by the current through the sluiceways in the
   gates, when opened for scouring the entrance channel or to assist in
   lowering the water in a half-tide dock for opening the gates (fig.
   19). A sluiceway in each side wall, closed by a vertical sluice-gate,
   generally provided in duplicate in case of accidents and worked by a
-  machine actuated by hydraulic pressure, enables the half-tide basin to
+  [[Machine|machine]] actuated by hydraulic pressure, enables the half-tide basin to
   be brought down to the level of the approach channel outside with a
   rising tide, so that vessels may be brought into or passed out of the
   basin towards high water. The advantages of these entrances are, that
@@ -957,7 +957,7 @@ ft., with a depth over the sills of 34¾ ft. at high water of neap tides.
   walls of the lock-chamber are very similar in construction to the dock
   walls; but they are strengthened against the loss of water-pressure in
   front of them when the water is lowered in the chamber by an inverted
-  arch of masonry, brickwork or concrete, termed an "invert," laid
+  [[Arch|arch]] of masonry, brickwork or concrete, termed an "invert," laid
   across the bottom of the chamber along its whole length, against which
   the toe of each side wall abuts and effectually prevents any forward
   movement. The side walls also, alongside the gates at each end, abut
@@ -1033,7 +1033,7 @@ ft., with a depth over the sills of 34¾ ft. at high water of neap tides.
   21). Iron gates have generally an outer as well as an inner skin of
   iron plates braced vertically and horizontally by plate-iron ribs, the
   horizontal ribs being placed nearer together and the plates made
-  thicker towards the bottom (figs. 22 and 23). Greenheart is the wood
+  thicker towards the bottom (figs. 22 and 23). [[Greenheart]] is the wood
   used for gates exposed to salt water, as it resists the attack of the
   teredo in temperate climates. As cellular iron gates are made
   water-tight, and have to be ballasted with enough water to prevent
@@ -1052,7 +1052,7 @@ ft., with a depth over the sills of 34¾ ft. at high water of neap tides.
   a sill corresponding to the outer curves of the gates (fig. 22), or by
   means of a projecting sill piece against a straight sill (fig. 21).
   More frequently the gates, curved on both faces, meet at an angle
-  forming a Gothic arch in plan, and close by aid of a projecting piece
+  forming a [[Gothic]] arch in plan, and close by aid of a projecting piece
   against a straight sill, which in the Barry entrance gates is modified
   by making the outer faces nearly straight (fig. 19), giving an unusual
   width to the centre of the gates. The pressures produced by a head of
@@ -1176,7 +1176,7 @@ and repairs of vessels to be carried out.
   should be founded on a solid impervious stratum, or, where that is
   impracticable, they should be built upon bearing piles and enclosed
   within sheet piling, to prevent settlement and the infiltration of
-  water under pressure below the dock. Keel blocks are laid along the
+  water under pressure below the dock. [[Keel]] blocks are laid along the
   centre line of the dock, for the keel of the vessel to rest on when
   the water is pumped out; and the vessel is further supported on each
   side by timber shores supported on the steps or "altars" of the side

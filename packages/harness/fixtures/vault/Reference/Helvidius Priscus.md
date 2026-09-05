@@ -8,13 +8,13 @@ type: reference
 # Helvidius Priscus
 
 HELVIDIUS PRISCUS, Stoic philosopher and statesman, lived during the
-reigns of Nero, Galba, Otho, Vitellius and Vespasian. Like his
+reigns of Nero, [[Galba]], Otho, Vitellius and Vespasian. Like his
 father-in-law, Thrasea Paetus, he was distinguished for his ardent and
 courageous republicanism. Although he repeatedly offended his rulers, he
 held several high offices. During Nero's reign he was quaestor of Achaea
 and tribune of the plebs (A.D. 56); he restored peace and order in
-Armenia, and gained the respect and confidence of the provincials. His
-declared sympathy with Brutus and Cassius occasioned his banishment in
+[[Armenia]], and gained the respect and confidence of the provincials. His
+declared sympathy with Brutus and [[Cassius]] occasioned his banishment in
 66. Having been recalled to Rome by Galba in 68, he at once impeached
 Eprius Marcellus, the accuser of Thrasea Paetus, but dropped the charge,
 as the condemnation of Marcellus would have involved a number of
@@ -28,9 +28,9 @@ name, and did not recognize him as emperor in his praetorian edicts. At
 length he was banished a second time, and shortly afterwards was
 executed by Vespasian's order. His life, in the form of a warm
 panegyric, written at his widow's request by Herennius Senecio, caused
-its author's death in the reign of Domitian.
+its author's death in the reign of [[Domitian]].
 
-  Tacitus, _Hist._ iv. 5, _Dialogus_, 5; Dio Cassius lxvi. 12, lxvii.
+  Tacitus, _Hist._ iv. 5, _Dialogus_, 5; [[Dio Cassius]] lxvi. 12, lxvii.
   13; Suetonius, _Vespasian_, 15; Pliny, _Epp._ vii. 19.
 
 ## See also

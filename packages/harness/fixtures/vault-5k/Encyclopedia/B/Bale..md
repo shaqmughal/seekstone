@@ -15,7 +15,7 @@ it is especially used antithetically with "bliss." (2) (O. Eng. _bael_, a
 blazing fire, a funeral pyre), a bonfire, a northern English use more
 common in the tautological "bale-fire," with sometimes a confused reference
 from (1) to evil. (3) (A word of doubtful origin, possibly connected with
-"ball "), a bundle of merchandise, especially of cotton, wool or hay,
+"ball "), a bundle of merchandise, especially of cotton, wool or [[Hay|hay]],
 packed with a cover, or fastened with bands of metal, &c. for
 transportation; the weight and capacity varies with the goods. (4)
 (Properly "bail," from Fr. _baille_, possibly connected with Lat. _bacula_,

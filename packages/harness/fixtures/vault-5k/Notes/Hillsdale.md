@@ -16,7 +16,7 @@ was removed to Hillsdale and received its present name in 1853 and was
 re-opened here in 1855. The college in 1907-1908 had 22 instructors and
 345 students. The city is a centre for a rich farming region; among its
 manufactures are gasoline and gas engines, screen doors, wagons,
-barrels, shoes, fur-coats and flour. Hillsdale was first settled in
+[[Barrel|barrels]], shoes, fur-coats and flour. Hillsdale was first settled in
 1837, was incorporated as a village in 1847, and was chartered as a city
 in 1869.
 

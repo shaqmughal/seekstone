@@ -2,7 +2,7 @@
 
 MARCHMONT, EARLS OF. The 1st earl of Marchmont was Sir Patrick Hume or
 Home (1641-1724), son of Sir Patrick Hume, bart. (d. 1648), of Polwarth,
-Berwickshire, and a descendant of another Sir Patrick Hume, a supporter
+[[Berwickshire]], and a descendant of another Sir Patrick Hume, a supporter
 of the Reformation in Scotland. A member of the same family was
 Alexander Hume (c. 1560-1609), the Scottish poet, whose _Hymns and
 Sacred Songs_ were published in 1599 (new ed. 1832). Polwarth, as
@@ -36,7 +36,7 @@ Berwickshire, and the estates passing to Sir Hugh Purves, bart., a
 descendant of the 2nd earl, who took the name of Hume-Campbell. The 3rd
 earl had, however, three daughters, one of whom, Diana (d. 1827),
 married Walter Scott of Harden, Berwickshire; and in 1835 her son Hugh
-Hepburne-Scott (1758-1841) successfully claimed the Scottish barony of
+Hepburne-Scott (1758-1841) successfully claimed the Scottish [[Barony|barony]] of
 Polwarth. In 1867 his grandson, Walter Hugh (b. 1838), became 6th Lord
 Polwarth.
 

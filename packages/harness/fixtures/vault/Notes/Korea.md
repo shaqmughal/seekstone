@@ -1,15 +1,15 @@
 # Korea
 
 KOREA, or COREA (CH'AO HSIEN, DAI HAN). Its mainland portion consists of
-a peninsula stretching southwards from Manchuria, with an estimated
+a peninsula stretching southwards from [[Manchuria]], with an estimated
 length of about 600 m., an extreme breadth of 135 m., and a coast-line
 of 1740 m. It extends from 34° 18´ to 43° N., and from 124° 36´ to 130°
 47´ E. Its northern boundary is marked by the Tumen and Yalu rivers; the
-eastern boundary by the Sea of Japan; the southern boundary by Korea
+eastern boundary by the Sea of [[Japan]]; the southern boundary by Korea
 Strait; and the western boundary by the Yalu and the Yellow Sea. For 11
 m. along the Tumen river the north frontier is conterminous with Russia
 (Siberia); otherwise Korea has China (Manchuria) on its land frontier.
-Nearly the whole surface of the country is mountainous. (For map, see
+Nearly the whole surface of the country is mountainous. (For [[Map|map]], see
 JAPAN.)
 
 The south and west coasts are fringed by about 200 islands (exclusive of
@@ -24,7 +24,7 @@ south-east points, completes this noble harbour. The east coast of Korea
 is steep and rock-bound, with deep water and a tidal rise and fall of 1
 to 2 ft. The west coast is often low and shelving, and abounds in
 mud-banks, and the tidal rise and fall is from 20 to 36 ft. Korean
-harbours, except two or three which are closed by drift ice for some
+harbours, except two or three which are closed by [[Drift|drift]] [[Ice|ice]] for some
 weeks in winter, are ice-free. Among them are Port Shestakov, Port
 Lazarev, and Wön-san (Gensan), in Broughton Bay;[1] Fusan, Ma-san-po, at
 the mouth of the Nak-tong, on the south coast; Mok-po, Chin-nampo, near
@@ -39,7 +39,7 @@ sources of the Yalu and Tumen. From these groups a lofty range runs
 southwards, dividing the empire into two unequal parts. On its east,
 between it and the coast, which it follows at a moderate distance, is a
 fertile strip difficult of access, and on the west it throws off so many
-lateral ranges and spurs as to break up the country into a chaos of
+lateral ranges and spurs as to break up the country into a [[Chaos|chaos]] of
 corrugated and precipitous hills and steep-sided valleys, each with a
 rapid perennial stream. Farther south this axial range, which includes
 the Diamond Mountain group, falls away towards the sea in treeless spurs
@@ -58,7 +58,7 @@ highway for commerce for over 150 miles.
   the higher mountain ranges. They are always strongly folded and it is
   in them that the mineral wealth of Korea is situated. Towards the
   Manchurian frontier they are covered unconformably by some 1600 ft. of
-  sandstones, clay-slates and limestones, which contain Cambrian fossils
+  sandstones, clay-slates and [[Limestone|limestones]], which contain Cambrian fossils
   and are the equivalents of a part of the Sinian system of China.
   Carboniferous beds, consisting chiefly of slates, sandstones and
   conglomerates, are found in the south-eastern provinces. They contain
@@ -66,7 +66,7 @@ highway for commerce for over 150 miles.
   the country belong to the Tertiary period. Recent eruptive and
   volcanic rocks are met with in the interior of Korea and also in the
   island of Quelpart. The principal mountain in the latter, Hal-la-san
-  (or Mount Auckland), according to Chinese stories, was in eruption in
+  (or Mount [[Auckland]]), according to Chinese stories, was in eruption in
   the year 1007. With this possible exception there are no active
   volcanoes in Korea, and the region has also been remarkably free from
   earthquakes throughout historic times.
@@ -83,11 +83,11 @@ highway for commerce for over 150 miles.
   42 in. respectively. These averages are based on the observations of
   seven years only.
 
-  _Flora._--The plants and animals await study and classification. Among
+  _Flora._--The plants and animals await study and [[Classification|classification]]. Among
   the indigenous trees are the _Abies excelsa_, _Abies microsperma_,
-  _Pinus sinensis_, _Pinus pinea_, three species of oak, five of maple,
-  lime, birch, juniper, mountain ash, walnut, Spanish chestnut, hazel,
-  willow, hornbeam, hawthorn, plum, pear, peach, _Rhus vernicifera_, (?)
+  _Pinus sinensis_, _Pinus pinea_, three species of oak, five of [[Maple|maple]],
+  lime, [[Birch|birch]], juniper, mountain ash, walnut, Spanish chestnut, hazel,
+  willow, hornbeam, [[Hawthorn|hawthorn]], plum, pear, peach, _Rhus vernicifera_, (?)
   _Rhus semipinnata_, _Acanthopanax ricinifolia_, _Zelkawa_, _Thuja
   orientalis_, _Elaeagnus_, _Sophora Japonica_, &c. Azaleas and
   rhododendrons are widely distributed, as well as other flowering
@@ -103,17 +103,17 @@ highway for commerce for over 150 miles.
   _Fauna._--The tiger takes the first place among wild animals. He is of
   great size, his skin is magnificent, and he is so widely distributed
   as to be a peril to man and beast. Tiger-hunting is a profession with
-  special privileges. Leopards are numerous, and have even been shot
+  special privileges. [[Leopard|Leopards]] are numerous, and have even been shot
   within the walls of Seoul. There are deer (at least five species),
-  boars, bears, antelopes, beavers, otters, badgers, tiger-cats, marten,
+  boars, bears, [[Antelope|antelopes]], beavers, otters, badgers, tiger-cats, marten,
   an inferior sable, striped squirrels, &c. Among birds there are black
-  eagles, peregrines (largely used in hawking), and, specially protected
+  [[Eagle|eagles]], peregrines (largely used in hawking), and, specially protected
   by law, turkey bustards, three varieties of pheasants, swans, geese,
   common and spectacled teal, mallards, mandarin ducks white and pink
-  ibis, cranes, storks, egrets, herons, curlews, pigeons, doves,
-  nightjars, common and blue magpies, rooks, crows, orioles, halcyon and
-  blue kingfishers, jays, nut-hatches, redstarts, snipe, grey shrikes,
-  hawks, kites, &c. But, pending further observations, it is not
+  [[Ibis|ibis]], cranes, storks, egrets, herons, curlews, pigeons, [[Dove|doves]],
+  nightjars, common and blue [[Magpie|magpies]], rooks, crows, orioles, halcyon and
+  blue [[Kingfisher|kingfishers]], [[Jay|jays]], nut-hatches, redstarts, snipe, grey shrikes,
+  [[Hawks|hawks]], [[Kite|kites]], &c. But, pending further observations, it is not
   possible to say which of the smaller birds actually breed in Korea and
   which only make it a halting-place in their annual migrations.
 
@@ -137,7 +137,7 @@ to 1392, is a walled city of the first rank, 25 m. N.W. of Seoul, with a
 population of 60,000. It possesses the stately remains of the palace of
 the Korean kings of the Wang dynasty, is a great centre of the grain
 trade and the sole centre of the _ginseng_ manufacture, makes wooden
-shoes, coarse pottery and fine matting, and manufactures with sesamum
+shoes, coarse pottery and fine [[Matting|matting]], and manufactures with sesamum
 oil the stout oiled paper for which Korea is famous. Phyöng-yang, a city
 on the Tai-dong, had a population of 60,000 before the war of 1894, in
 which it was nearly destroyed; but it fast regained its population. It
@@ -168,7 +168,7 @@ _En-mun_. The Koreans are distinct from both Chinese and Japanese in
 physiognomy, though dark straight hair, dark oblique eyes, and a tinge
 of bronze in the skin are always present. The cheek-bones are high; the
 nose inclined to flatness; the mouth thin-lipped and refined among
-patricians, and wide and full-lipped among plebeians; the ears are
+patricians, and wide and full-lipped among plebeians; the [[Ear|ears]] are
 small, and the brow fairly well developed. The expression indicates
 quick intelligence rather than force and mental calibre. The male height
 averages 5 ft. 4½ in. The hands and feet are small and well-formed. The
@@ -181,9 +181,9 @@ concubinage has a recognized status.
 _Production and Industries._ i. _Minerals._--Extensive coal-fields,
 producing coal of fair quality, as yet undeveloped, occur in Hwang-hai
 Do and elsewhere. Iron is abundant, especially in Phyöng-an Do, and rich
-copper ore, silver and galena are found. Crystal is a noted product of
+copper ore, silver and [[Galena|galena]] are found. Crystal is a noted product of
 Korea, and talc of good quality is also present. In 1885 the rudest
-process of "placer" washing produced an export of gold dust amounting to
+process of "placer" washing produced an export of gold [[Dust|dust]] amounting to
 £120,000; quartz-mining methods were subsequently introduced, and the
 annual declared value of gold produced rose to about £450,000; but much
 is believed to have been sent out of the country clandestinely. The
@@ -196,26 +196,26 @@ concessions. The _concessionnaires_ regard Korean labour as docile and
 intelligent. The privilege of owning mines in Korea was extended to
 aliens under the Mining Regulations of 1906.
 
-ii. _Agriculture._--Korean soil consists largely of light sandy loam,
+ii. _Agriculture._--Korean soil consists largely of light sandy [[Loam|loam]],
 disintegrated lava, and rich, stoneless alluvium, from 3 to 10 ft. deep.
 The rainfall is abundant during the necessitous months of the year,
 facilities for the irrigation of the rice crop are ample, and drought
-and floods are seldom known. Land is held from the proprietors on the
+and [[Flood|floods]] are seldom known. Land is held from the proprietors on the
 terms of receiving seed from them and returning half the produce, the
 landlord paying the taxes. Any Korean can become a landowner by
-reclaiming and cultivating unoccupied crown land for three years free of
+reclaiming and cultivating unoccupied [[Crown Land|crown land]] for three years free of
 taxation, after which he pays taxes annually. Good land produces two
-crops a year. The implements used are two makes of iron-shod wooden
+crops a year. The [[Implement|implements]] used are two makes of iron-shod wooden
 ploughs; a large shovel, worked by three or five men, one working the
 handle, the others jerking the blade by ropes attached to it; a short
-sharp-pointed hoe, a bamboo rake, and a wooden barrow, all of rude
-construction. Rice is threshed by beating the ears on a log; other
-grains, with flails on mud threshing-floors. Winnowing is performed by
+sharp-pointed [[Hoe|hoe]], a bamboo rake, and a wooden barrow, all of rude
+construction. Rice is threshed by beating the ears on a [[Log|log]]; other
+grains, with [[Flail|flails]] on mud threshing-floors. Winnowing is performed by
 throwing up the grain on windy days. Rice is hulled and grain coarsely
 ground in stone querns or by water pestles. There are provincial
 horse-breeding stations, where pony stallions, from 10 to 12 hands high,
-are bred for carrying burdens. Magnificent red bulls are bred by the
-farmers for ploughing and other farming operations, and for the
+are bred for carrying [[Burden|burdens]]. Magnificent red [[Bull|bulls]] are bred by the
+[[Farmer|farmers]] for ploughing and other farming operations, and for the
 transport of goods. Sheep and goats are bred on the imperial farms, but
 only for sacrifice. Small, hairy, black pigs, and fowls, are universal.
 The cultivation does not compare in neatness and thoroughness with that
@@ -225,29 +225,29 @@ at thirty-fold, and of other grain at twenty-fold. Korea produces all
 cereals and root crops except the tropical, along with cotton, tobacco,
 a species of the Rhea plant used for making grass-cloth, and the
 _Brousonettia papyrifera_. The articles chiefly cultivated are rice,
-millet, beans, _ginseng_ (at Songdo), cotton, hemp, oil-seeds, bearded
+millet, [[Bean|beans]], _ginseng_ (at Songdo), cotton, hemp, oil-seeds, bearded
 wheat, oats, barley, sorghum, and sweet and Irish potatoes. Korean
-agriculture suffers from infamous roads, the want of the exchange of
+agriculture suffers from infamous roads, the want of the [[Exchange|exchange]] of
 seed, and the insecurity of the gains of labour. It occupies about
 three-fourths of the population.
 
 iii. _Other Industries._--The industries of Korea, apart from supplying
 the actual necessaries of a poor population, are few and rarely
 collective. They consist chiefly in the manufacture of sea-salt, of
-varied and admirable paper, thin and poor silk, horse-hair crinoline for
-hats, fine split bamboo blinds, hats and mats, coarse pottery, hemp
-cloth for mourners, brass bowls and grass-cloth. Wön-san and Fusan are
+varied and admirable paper, thin and poor silk, horse-hair [[Crinoline|crinoline]] for
+hats, fine split bamboo blinds, hats and [[Mat|mats]], coarse pottery, hemp
+cloth for mourners, [[Brass|brass]] bowls and grass-cloth. Wön-san and Fusan are
 large fishing centres, and salt fish and fish manure are important
 exports; but the prolific fishing-grounds are worked chiefly by Japanese
 labour and capital. Paper and _ginseng_ are the only manufactured
 articles on the list of Korean exports. The arts are nil.
 
 _Commerce._--A commercial treaty was concluded with Japan in 1876, and
-treaties with the European countries and the United States of America
+treaties with the [[European Countries|European countries]] and the United States of America
 were concluded subsequently. An imperial edict of the 20th of May 1904
 annulled all Korean treaties with Russia. After the opening of certain
 Korean ports to foreign trade, the customs were placed under the
-management of European commissioners nominated by Sir Robert Hart from
+management of European commissioners nominated by Sir Robert [[Hart]] from
 Peking. The ports and other towns open are Seoul, Chemulpo, Fusan,
 Wön-san, Chin-nampo, Mok-po, Kun-san, Ma-san-po, Song-chin, Wiju,
 Yong-ampo, and Phyöng-yang. The value of foreign trade of the open ports
@@ -278,7 +278,7 @@ from gold.
   whole of the Korean internal communications. The main roads centring
   in Seoul are seldom fit even for the passage of ox-carts, and the
   secondary roads are bad bridle-tracks, frequently degenerating into
-  "rock ladders." Some improvements, however, have been effected under
+  "rock [[Ladder|ladders]]." Some improvements, however, have been effected under
   Japanese direction. The inland transit of goods is almost entirely on
   the backs of bulls carrying from 450 to 600 lb., on ponies carrying
   200 lb., and on men carrying from 100 to 150 lb., bringing the average
@@ -307,11 +307,11 @@ sovereign, Japan in 1904 guaranteeing the welfare and dignity of the
 imperial house. Under a treaty signed at Seoul on the 17th of November
 1905, Japan directed the external relations of Korea, and Japanese
 diplomatic and consular representatives took charge of Korean subjects
-and interests in foreign countries. Japan undertook the maintenance of
+and interests in foreign countries. Japan undertook the [[Maintenance|maintenance]] of
 existing treaties between Korea and foreign powers; and Korea agreed
 that her future foreign treaties should be concluded through the medium
 of Japan. A resident-general represented Japan at Seoul, to direct
-diplomatic affairs, the first being the Marquis Ito. Under a further
+diplomatic affairs, the first being the Marquis [[Ito]]. Under a further
 convention of July 1907, the resident-general's powers were enormously
 increased. In administrative reforms the Korean government followed his
 guidance; laws could not be enacted nor administrative measures
@@ -320,7 +320,7 @@ officials, and the engagement of foreigners in government employ, were
 subject to his pleasure. Each department of state has a Japanese
 vice-minister, and a large proportion of Japanese officials were
 introduced into these departments as well as Japanese chiefs of the
-bureaus of police and customs. By a treaty dated August 22nd 1910, which
+[[Bureau|bureaus]] of police and customs. By a treaty dated August 22nd 1910, which
 came into effect seven days later the emperor of Korea made "complete
 and permanent cession to the emperor of Japan of all rights of
 sovereignty over the whole of Korea." The entire direction of the
@@ -335,12 +335,12 @@ the existing Korean tariff for ten years.
   Japanese secretary, police inspector and clerks. The secretary may
   represent the governor in his absence.
 
-  _Law._--A criminal code, scarcely equalled for barbarity, though twice
+  _Law._--A criminal [[Code|code]], scarcely equalled for barbarity, though twice
   mitigated by royal edict since 1785, remained in force in its main
   provisions till 1895. Subsequently, a mixed commission of revision
   carried out some good work. Elaborate legal machinery was devised,
   though its provisions were constantly violated by the imperial will
-  and the gross corruption of officials. Five classes of law courts were
+  and the [[Gross|gross]] corruption of officials. Five classes of law courts were
   established, and provision was made for appeals in both civil and
   criminal cases. Abuses in legal administration and in tax-collecting
   were the chief grievances which led to local insurrections. Oppression
@@ -366,7 +366,7 @@ the existing Korean tariff for ten years.
   corrupt officialdom, indiscriminate expenditure, and absence of
   organization in the collection of revenue, apart from the confusion
   with regard to the currency. This last was nominally on a silver
-  standard. The coins chiefly in use were (i) copper _cash_, which were
+  standard. The [[Coin|coins]] chiefly in use were (i) copper _[[Cash|cash]]_, which were
   strung in hundreds on strings of straw, and, as about 9lb. weight was
   equal to one shilling, were excessively cumbrous, but were
   nevertheless valued at their face value; (ii) nickel coins, which,
@@ -385,17 +385,17 @@ the existing Korean tariff for ten years.
   co-operative warehouse companies with bonded warehouses. Regulations
   have also been promulgated with respect to promissory notes, which
   have long existed in Korea. They took the form of a piece of paper
-  about an inch broad and five to eight inches long, on which was
+  about an [[Inch|inch]] broad and five to eight inches long, on which was
   written the sum, the date of payment and the name of the payer and
   payee, with their seals; the paper was then torn down its length, and
   one half given to each party. The debtor was obliged to pay the amount
-  of the debt to any person who presented the missing half of the bill.
+  of the [[Debt|debt]] to any person who presented the missing half of the bill.
   The readiness with which they were accepted led to over-issue, and,
   consequently, financial crises. The new regulations require the
   amount of the notes to be expressed in yen, not to be payable in old
   nickel coins or cash. The notes can only be issued by members of a
   note association, a body constituted under government regulations,
-  whose members must uphold the credit and validity of their notes. The
+  whose members must uphold the [[Credit|credit]] and validity of their notes. The
   notes must also be made payable to a definite person and require
   endorsement, safeguards which were previously lacking. Administrative
   reform was also taken in hand; the large number of superfluous and
@@ -418,24 +418,24 @@ the existing Korean tariff for ten years.
   _Religion._--Buddhism, which swayed Korea from the 10th to the 14th
   century, has been discredited for three centuries, and its priests are
   ignorant, immoral and despised. Confucianism is the official cult, and
-  all officials offer sacrifices and homage at stated seasons in the
-  Confucian temples. Confucian ethics are the basis of morality and
+  all officials offer sacrifices and [[Homage|homage]] at stated seasons in the
+  Confucian temples. Confucian [[Ethics|ethics]] are the basis of morality and
   social order. Ancestor-worship is universal. The popular cult is,
   however, the propitiation of demons, a modification of the Shamanism
   of northern Asia. The belief in demons, mostly malignant, keeps the
   Koreans in constant terror, and much of their substance is spent on
   propitiations. Sorceresses and blind sorcerers are the intermediaries.
-  At the close of the 19th century the fees annually paid to these
+  At the close of the 19th century the [[Fee|fees]] annually paid to these
   persons were estimated at £150,000; there were in Seoul 1000
   sorceresses, and very large sums are paid to the male sorcerers and
   geomancers.
 
-  Putting aside the temporary Christian work of a Jesuit chaplain to the
+  Putting aside the temporary Christian work of a Jesuit [[Chaplain|chaplain]] to the
   Japanese Christian General Konishe, in 1594 during the Japanese
   invasion, as well as that on a larger scale by students who received
   the evangel in the Roman form from Peking in 1792, and had made 4000
   converts by the end of 1793, the first serious attempt at the
-  conversion of Korea was made by the French _Société des Missions
+  [[Conversion|conversion]] of Korea was made by the French _Société des Missions
   Étrangères_ in 1835. In spite of frequent persecutions, there were
   16,500 converts in 1857 and 20,000 in 1866, in which year the French
   bishops and priests were martyred by order of the emperor's father,
@@ -444,7 +444,7 @@ the existing Korean tariff for ten years.
   converts. In 1884 and 1885, toleration being established, Protestant
   missionaries of the American Presbyterian and Methodist Episcopal
   Churches entered Korea, and were followed by a large number of agents
-  of other denominations. An English bishop, clergy, doctors and nursing
+  of other [[Denomination|denominations]]. An English bishop, clergy, doctors and nursing
   sisters arrived in 1890. Hospitals, orphanages, schools and an
   admirable college in Seoul have been founded, along with tri-lingual
   (Chinese, Korean and English) printing-presses; religious, historical
@@ -464,9 +464,9 @@ the existing Korean tariff for ten years.
   connected with the American Methodist Episcopal Church, under imperial
   patronage, and subsidized by government, in which a liberal education
   of a high class was given and _En-mun_ receives much attention. The
-  Koreans are expert linguists, and the government made liberal grants
+  Koreans are [[Expert|expert]] linguists, and the government made liberal grants
   to the linguistic schools. In the primary schools boys learn
-  arithmetic, and geography and Korean history are taught, with the
+  [[Arithmetic|arithmetic]], and [[Geography|geography]] and Korean history are taught, with the
   outlines of the governmental systems of other civilized countries. The
   education department has been entirely reorganized under the Japanese
   régime, Japanese models being followed.
@@ -479,8 +479,8 @@ emigrants, who made him their king. The peninsula was then peopled by
 savages living in caves and subterranean holes. By both learned and
 popular belief in Korea Ki-tze is recognized as the founder of Korean
 social order, and is greatly reverenced. He called the new kingdom
-_Ch'ao-Hsien_, pacified and policed its borders, and introduced laws
-and Chinese etiquette and polity. Korean ancient history is far from
+_Ch'ao-Hsien_, pacified and policed its [[Borders|borders]], and introduced laws
+and Chinese [[Etiquette|etiquette]] and polity. Korean ancient history is far from
 satisfying the rigid demands of modern criticism, but it appears that
 Ki-tze's dynasty ruled the peninsula until the 4th century B.C., from
 which period until the 10th century A.D. civil wars and foreign
@@ -488,19 +488,19 @@ aggressions are prominent. Nevertheless, Hiaksai, which with Korai and
 Shinra then constituted Korea, was a centre of literary culture in the
 4th century, through which the Chinese classics and the art of writing
 reached the other two kingdoms. Buddhism, a forceful civilizing element,
-reached Hiaksai in A.D. 384, and from it the sutras and images of
+reached Hiaksai in A.D. 384, and from it the sutras and [[Image|images]] of
 northern Buddhism were carried to Japan, as well as Chinese letters and
 ethics. Internecine wars were terminated about 913 by Wang the Founder,
 who unified the peninsula under the name Korai, made Song-do its
 capital, and endowed Buddhism as the state religion. In the 11th century
-Korea was stripped of her territory west of the Yalu by a warlike horde
+Korea was stripped of her territory west of the Yalu by a warlike [[Horde|horde]]
 of Tungus stock, since which time her frontiers have been stationary.
 The Wang dynasty perished in 1392, an important epoch in the peninsula,
 when Ni Taijo, or Litan, the founder of the present dynasty, ascended
 the throne, after his country had suffered severely from Jenghiz and
-Khublai Khan. He tendered his homage to the first Ming emperor of China,
-received from him his investiture as sovereign, and accepted from him
-the Chinese calendar and chronology, in itself a declaration of fealty.
+Khublai [[Khan]]. He tendered his homage to the first Ming emperor of China,
+received from him his [[Investiture|investiture]] as sovereign, and accepted from him
+the Chinese calendar and [[Chronology|chronology]], in itself a [[Declaration|declaration]] of fealty.
 He revived the name _Ch'ao-Hsien_, changed the capital from Song-do to
 Seoul, organized an administrative system, which with some modifications
 continued till 1895, and exists partially still, carried out vigorous
@@ -509,11 +509,11 @@ examinations the basis of appointment to office, made Confucianism the
 state religion, abolished human sacrifices and the burying of old men
 alive, and introduced that Confucian system of education, polity, and
 social order which has dominated Korea for five centuries. Either this
-king or an immediate successor introduced the present national costume,
-the dress worn by the Chinese before the Manchu conquest. The early
-heirs of this vigorous and capable monarch used their power, like him,
+king or an immediate successor introduced the present national [[Costume|costume]],
+the [[Dress|dress]] worn by the Chinese before the Manchu conquest. The early
+[[Heir|heirs]] of this vigorous and capable monarch used their power, like him,
 for the good of the people; but later decay set in, and Japanese
-buccaneers ravaged the coasts, though for two centuries under Chinese
+[[Buccaneers|buccaneers]] ravaged the coasts, though for two centuries under Chinese
 protection Korea was free from actual foreign invasion. In 1592 occurred
 the epoch-making invasion of Korea by a Japanese army of 300,000 men, by
 order of the great regent Hideyoshi. China came to the rescue with
@@ -629,7 +629,7 @@ of Korea's foreign affairs and relations, and the confirmation of
 previous agreements, the far-reaching results of which have been
 indicated. Nor was opposition to Japanese reforms confined to popular
 demonstration. In 1907 a Korean delegacy, headed by Prince Yong, a
-member of the imperial family, was sent out to lay before the Hague
+member of the imperial family, was sent out to lay before the [[Hague]]
 conference of that year, and before all the principal governments, a
 protest against the treatment of Korea by Japan. While this was of
 course fruitless from the Korean point of view, it indicated that the
@@ -640,14 +640,14 @@ At the instigation of the Korean ministry the emperor abdicated on the
 19th of July 1907, handing over the crown to his son. Somewhat serious
 _émeutes_ followed in Seoul and elsewhere, and the Japanese proposals
 for a new convention, increasing the powers of the resident general, had
-to be presented to the cabinet under a strong guard. The convention was
+to be presented to the [[Cabinet|cabinet]] under a strong guard. The convention was
 signed on the 25th of July. One of the reforms immediately undertaken
 was the disbanding of the Korean standing army, which led to an
-insurrection and an intermittent guerrilla warfare which, owing to the
+insurrection and an intermittent [[Guerrilla|guerrilla]] warfare which, owing to the
 nature of the country, was not easy to subdue. Under the direction of
 Prince Ito (q.v.) the work of reform was vigorously prosecuted. In July
 1909, General Teranchi, Japanese minister of war, became
-resident-general, with the mission to bring about annexation. This was
+resident-general, with the mission to bring about [[Annexation|annexation]]. This was
 effected peacefully in August 1910, the emperor of Korea by formal
 treaty surrendering his country and crown. (See JAPAN.)
 
@@ -662,15 +662,15 @@ treaty surrendering his country and crown. (See JAPAN.)
   great, and for the last three centuries Japanese writers have
   contributed largely to the sum of general knowledge of the peninsula.
   The list which follows includes some of the more recent works which
-  illustrate the history, manners and customs, and awakening of Korea:
-  _British Foreign Office Reports on Korean Trade, Annual Series_
-  (London); _Bibliographie koréanne_ (3 vols., Paris, 1897); Mrs. I. L.
+  illustrate the history, [[Manners|manners]] and customs, and awakening of Korea:
+  _British [[Foreign Office]] Reports on Korean Trade, Annual Series_
+  (London); _Bibliographie koré[[Anne|anne]]_ (3 vols., Paris, 1897); Mrs. I. L.
   Bishop, _Korea and her Neighbours_ (2 vols., London, 1897); M. von
-  Brandt, _Ostasiatische Fragen_ (Leipzig, 1897); A. E. J. Cavendish and
+  Brandt, _Ostasiatische Fragen_ (Leipzig, 1897); A. E. J. [[Cavendish]] and
   H. E. Goold Adams, _Korea, and the Sacred White Mountain_ (London,
-  1894); Stewart Culin, _Korean Games_ (Philadelphia, 1895); Curzon,
+  1894); Stewart Culin, _Korean [[Games]]_ (Philadelphia, 1895); Curzon,
   _Problems of the Far East_ (London, 1896); Dallet, _Histoire de
-  l'église de Korée_ (2 vols., Paris, 1874); J. S. Gale, _Korean
+  l'église de Korée_ (2 vols., Paris, 1874); J. S. [[Gale]], _Korean
   Sketches_ (Edinburgh, 1898); W. E. Griffis, _The Hermit Nation_ (8th
   and revised edition, New York, 1907); H. Hamel, _Relation du naufrage
   d'un vaisseau Halindois, &c., traduite du Flamond par M. Minutoli_
@@ -678,8 +678,8 @@ treaty surrendering his country and crown. (See JAPAN.)
   Jahre 1597; translated from Japanese by Professor von Pfizmaier_ (2
   vols., Vienna, 1875); M. Jametel, "La Korée: ses ressources, son
   avenir commercial," _L'Économiste française_ (Paris, July 1881);
-  Percival Lowell, _Chosön: The Land of the Morning Calm_ (London,
-  Boston, 1886); L. J. Miln, _Quaint Korea_ (Harper, New York, 1895);
+  Percival [[Lowell]], _Chosön: The Land of the Morning [[Calm]]_ (London,
+  [[Boston]], 1886); L. J. Miln, _Quaint Korea_ (Harper, New York, 1895);
   V. de Laguerie, _La Korée indépendante, russe ou japonaise?_ (Paris,
   1898); J. Ross, _Korea: Its History, Manners and Customs_ (Paisley,
   1880); W. H. Wilkinson, _The Korean Government: Constitutional Changes
@@ -687,7 +687,7 @@ treaty surrendering his country and crown. (See JAPAN.)
   1896); A. Hamilton, _Korea_ (London, 1903); C. J. D. Taylor, _Koreans
   at Home_ (London, 1904); E. Boudaret, _En Corée_ (Paris, 1904);
   Laurent-Crémazy, _Le Code pénal de la Corée_ (Paris, 1904); G. T.
-  Ladd, _In Korea with Marquis Ito_ (London, 1908); Dictionaries and
+  [[Ladd]], _In Korea with Marquis Ito_ (London, 1908); Dictionaries and
   vocabularies by W. F. Myers (English secretary of Legation at Peking),
   the French missionaries, and others, were superseded in 1898 by a
   large and learned volume by the Rev J. S. Gale, a Presbyterian

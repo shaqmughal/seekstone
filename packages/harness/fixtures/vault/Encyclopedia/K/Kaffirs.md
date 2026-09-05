@@ -6,7 +6,7 @@ topic: optics
 
 # Kaffirs
 
-KAFFIRS (Arabic _Kafir_, an unbeliever), a name given by the Arabs to
+KAFFIRS (Arabic _Kafir_, an unbeliever), a name given by the [[Arabs]] to
 the native races of the east coast of Africa. The term was current along
 the east coast at the arrival of the Portuguese, and passed from them to
 the Dutch and English, and to the natives themselves under the form of
@@ -18,7 +18,7 @@ have no national unity. To-day it is used to describe that large family
 of Bantu negroes inhabiting the greater part of the Cape, the whole of
 Natal and Zululand, and the Portuguese dominions on the east coast south
 of the Zambezi. The name is also loosely applied to any negro inhabitant
-of South Africa. For example, the Bechuana of the Transvaal and Orange
+of South Africa. For example, the [[Bechuana]] of the Transvaal and Orange
 Free State are usually called Kaffirs.
 
 The Kaffirs are divisible into two great branches: the Ama-Zulu with the
@@ -27,7 +27,7 @@ Ama-Xosa, the Tembu (q.v.) and the Pondo (q.v.). Hence the compound term
 Zulu-Kaffir applied in a collective sense to all the Kaffir peoples.
 Intermediate between these two branches were several broken tribes now
 collectively known as Ama-Fengu, i.e. "wanderers" or "needy" people,
-from _fenguza_, to seek service[1] (see FINGO).
+from _fenguza_, to seek service[1] (see [[Fingo|FINGO]]).
 
   The ramifications of the Kaffirs proper cannot be understood without
   reference to the national genealogies, most of the tribal names, as
@@ -103,13 +103,13 @@ from _fenguza_, to seek service[1] (see FINGO).
   have been the extinct Ama-Ntombela, whence the Ama-Tefulu, the
   U'ndwande, U'mlelas, U'mtetwas and many others, all absorbed or
   claiming to be true Zulus. But they are only so by political
-  subjection, and the gradual adoption of the Zulu dress, usages and
+  subjection, and the [[Gradual|gradual]] adoption of the Zulu [[Dress|dress]], usages and
   speech. Hence in most cases the term Zulu implies political rather
   than blood relationship. This remark applies also to the followers of
   Mosilikatze (properly Umsilikazi), who, after a fierce struggle with
   the Bechuana, founded about 1820 a second Zulu state about the head
   waters of the Orange river. In 1837 most of them were driven
-  northwards by the Boers and are now known as Matabele.
+  northwards by the Boers and are now known as [[Matabele]].
 
 The origin of the Zulu-Kaffir race has given rise to much controversy.
 It is obvious that they are not the aborigines of their present domain,
@@ -131,11 +131,11 @@ southern Tembu becomes gradually darker as we proceed northwards,
 passing at last to the blue-black and sepia of the Ama-Swazi and Tekeza.
 Even many of the mixed Fingo tribes are of a polished ebony colour, like
 that of the Jolofs and other Senegambian negroes. The Kaffir hair is
-uniformly of a woolly texture. The head is dolichocephalic, but it is
+uniformly of a woolly texture. The head is [[Dolichocephalic|dolichocephalic]], but it is
 also high or long vertically,[3] and it is in this feature of
 hypsistenocephaly (height and length combined) that the Kaffir presents
 the most striking contrast with the pure Negro. But, the nose being
-generally rather broad[4] and the lips thick, the Kaffir face, though
+generally rather broad[4] and the [[Lip|lips]] thick, the Kaffir face, though
 somewhat oval, is never regular in the European sense, the deviations
 being normally in the direction of the Negro, with which race the
 peculiar odour of the skin again connects the Kaffirs. In stature they
@@ -148,9 +148,9 @@ while the Ama-Xosa girl realizes no more than ten or twelve head of
 cattle, the Tembu belle fetches as many as forty, and if especially fine
 even eighty.
 
-  The more warlike tribes were usually arrayed in leopard or ox skins,
-  of late years generally replaced by European blankets, with feather
-  head-dresses, coral and metal ornaments, bead armlets and necklaces.
+  The more warlike tribes were usually arrayed in [[Leopard|leopard]] or ox skins,
+  of late years generally replaced by European blankets, with [[Feather|feather]]
+  head-dresses, [[Coral|coral]] and metal ornaments, [[Bead|bead]] armlets and necklaces.
   The Makua and a few others practise tattooing, and the Ama-Xosa are
   fond of painting or smearing their bodies with red ochre. Their arms
   consist chiefly of ox-hide shields 4 to 6 ft. long, the kerrie or
@@ -158,11 +158,11 @@ even eighty.
   9-in. narrow blade, for throwing, the other short, with broad blade 12
   to 18 in. long, for stabbing. The dwellings are simple conical huts
   grouped in kraals or villages. Although cattle form their chief
-  wealth, and hunting and stock-breeding their main pursuits, many have
+  wealth, and [[Hunting|hunting]] and stock-breeding their main pursuits, many have
   turned to husbandry. The Zulu raise regular crops of "mealies"
   (maize), and the Pondo cultivate a species of millet, tobacco, water
   melons, yams and other vegetables. Milk (never taken fresh), millet
-  and maize form the staples of food, and meat is seldom eaten except in
+  and maize form the staples of food, and [[Meat|meat]] is seldom eaten except in
   time of war.
 
   A young Kaffir attains man's estate socially, not at puberty, but upon
@@ -170,9 +170,9 @@ even eighty.
   dignity to the household. Marriage is by purchase, the price being
   paid in cattle. Upon the husband's death family life is continued
   under the headship of the eldest son of the house, the widows by
-  virtue of levirate becoming the property of the uncle or nearest
+  virtue of [[Levirate|levirate]] becoming the property of the uncle or nearest
   males, not sons. A son inherits and honourably liquidates, if he can,
-  his father's debts.
+  his father's [[Debt|debts]].
 
   Mentally the Kaffirs are superior to the Negro. In their social and
   political relations they display great tact and intelligence; they are
@@ -194,62 +194,62 @@ even eighty.
   Dearer than anything else to the Kaffir are his cattle; and many
   ceremonial observances in connexion with them were once the rule.
   Formerly ox-racing was a common sport, the oxen running, riderless,
-  over a ten-mile course. The owner of a champion racing ox was a
+  over a ten-mile course. The owner of a [[Champion|champion]] racing ox was a
   popular hero, and these racers were valued at hundreds of head of
   cattle. Cattle are the currency of the Kaffirs in their wild state.
-  Ten to twenty head are the price of a wife. When a girl marries, her
+  Ten to twenty head are the price of a wife. When a girl [[Marri|marries]], her
   father (if well off) presents her with a cow from his herd. This
   animal is called _ubulungu_ or "doer of good" and is regarded as
   sacred. It must never be killed nor may its descendants, as long as it
   lives. A hair of its tail is tied round the neck of each child
   immediately after birth. In large kraals there is the "dancing-ox,"
-  usually of red colour. Its horns are trained to peculiar shapes by
+  usually of red colour. Its [[Horn|horns]] are trained to peculiar shapes by
   early mutilations. It figures in many ceremonies when it is paid a
   kind of knee-worship.
 
   The Kaffirs have three, not four, seasons: "Green Heads," "Kindness"
   and "Cutting"; the first and last referring to the crops, the second
   to the "warm weather." Women and children only eat after the men are
-  satisfied. A light beer made from sorghum is the national drink.
+  satisfied. A light [[Beer|beer]] made from sorghum is the national drink.
 
   Of the few industries the chief are copper and iron smelting,
   practised by the Tembu, Zulu and Swazi, who manufacture weapons,
-  spoons and agricultural implements both for their own use and for
+  spoons and agricultural [[Implement|implements]] both for their own use and for
   trade. The Swazi display some taste in wood-carving, and others
   prepare a peculiar water-tight vessel of grass. Characteristic of this
   race is their neglect of the art of navigation. Not the smallest boats
   are ever made for crossing the rivers, much less for venturing on the
-  sea, except by the Makazana of Delagoa Bay and by the Zambezi people,
-  who have canoes and flat-bottomed boats made of planks.
+  sea, except by the Makazana of [[Delagoa Bay]] and by the Zambezi people,
+  who have [[Canoe|canoes]] and flat-bottomed boats made of planks.
 
   The Kaffir race had a distinct and apparently very old political
   system, which may be described as a patriarchal monarchy limited by a
-  powerful aristocracy. Under British rule the tribal independence of
+  powerful [[Aristocracy|aristocracy]]. Under British rule the tribal independence of
   the Kaffirs has disappeared. Varying degrees of autonomy have been
   granted, but the supreme powers of the chiefs have gone, the Swazi
   being in 1904 the last to be brought to order. In the Transkeian
   Territories tribal organization exists, but it is modified by special
   legislation and the natives are under the control of special
-  magistrates. To a considerable extent in Natal and throughout Zululand
+  [[Magistrate|magistrates]]. To a considerable extent in Natal and throughout Zululand
   the Kaffirs are placed in reserves, where tribal organization is kept
-  up under European supervision. In Basutoland the tribal organization
+  up under European supervision. In [[Basutoland]] the tribal organization
   is very strong, and the power of chiefs is upheld by the imperial
   government, which exercises general supervision.
 
-  See Gustav Fritsch, _Die Eingeborenen Sudafrikas_, with atlas, 30
+  See Gustav Fritsch, _Die Eingeborenen Sudafrikas_, with [[Atlas|atlas]], 30
   plates and 120 typical heads (Breslau, 1872); W. H. I. Bleek,
   _Comparative Grammar of the South African Languages_ (London and Cape
-  Town, pt. i., 1862; pt. ii., 1869); Theo. Hahn, _Grundzuge einer
-  Grammatik des Herero_ (Berlin, 1857); Dr Colenso, _Grammar of the
+  Town, pt. i., 1862; pt. ii., 1869); Theo. [[Hahn]], _Grundzuge einer
+  Grammatik des [[Herero]]_ (Berlin, 1857); Dr [[Colenso]], _Grammar of the
   Zulu-Kafir Language_ (1855); Girard de Rialle, _Les Peuples de
   l'Afrique et de l'Amerique_ (Paris, 1880); G. W. Stow, _The Native
   Races of South Africa_ (London, 1905); G. McC. Theal, _History and
   Ethnography of South Africa, 1505 to 1795_ (3 vols., London,
   1907-1910) and _History of South Africa since 1795_ (5 vols., London,
-  1908), specially valuable for the political history of the Kaffirs;
-  Caesar C. Henkel, _The Native or Transkeian Territories_ (Hamburg,
+  1908), specially valuable for the [[Political History|political history]] of the Kaffirs;
+  [[Caesar]] C. Henkel, _The Native or Transkeian Territories_ ([[Hamburg]],
   1903); _The Natives of South Africa_ (1901), and its sequel, _The
-  South African Natives_ (1908); Dudley Kidd, _The Essential Kafir_
+  South African Natives_ (1908); [[Dudley]] Kidd, _The Essential Kafir_
   (1904) and _Kafir Socialism_. The last four books deal with the many
   social and economic questions raised by the contact of the Kaffir
   races with Europeans.
@@ -261,7 +261,7 @@ FOOTNOTES:
     slaves or out-castes, without any right to the privileges of
     true-born Kaffirs. Any tribes which become broken and mixed would
     probably be regarded as Ama-Fengu by the other Kaffirs. Hence the
-    multiplicity of clans, such as the Ama-Bele, Aba-Sembotweni Ama-Zizi,
+    multiplicity of [[Clan|clans]], such as the Ama-Bele, Aba-Sembotweni Ama-Zizi,
     Ama-Kuze, Aba-Sekunene, Ama-Ntokaze, Ama-Tetyeni Aba-Shwawa, &c., all
     of whom are collectively grouped as Ama-Fengu.
 
@@ -274,7 +274,7 @@ FOOTNOTES:
     broader and more of the Negro shape than in the Gaika or Gcaleka,
     while among the Ama-Tembu and Ama-Mpondo it assumes more of the
     European character. In many of them the perfect Grecian and Roman
-    noses are discernible" (Fleming's _Kaffraria_, p. 92).
+    noses are discernible" (Fleming's _[[Kaffraria]]_, p. 92).
 
   [5] Gustav Fritsch gives the mean of the Ama-Xosa as 1.718 metres,
     less than that of the Guinea Negro (1.724), but more than the English

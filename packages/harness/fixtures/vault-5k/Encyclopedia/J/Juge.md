@@ -12,10 +12,10 @@ id: 42-1530
 JUGE, BOFFILLE DE (d. 1502), French-Italian adventurer and statesman,
 belonged to the family of del Giudice, which came from Amalfi, and
 followed the fortunes of the Angevin dynasty. When John of Anjou, duke
-of Calabria, was conquered in Italy (1461) and fled to Provence,
+of [[Calabria]], was conquered in Italy (1461) and fled to Provence,
 Boffille followed him. He was given by Duke John and his father, King
 René, the charge of upholding by force of arms their claims on
-Catalonia. Louis XI., who had joined his troops to those of the princes
+[[Catalonia]]. Louis XI., who had joined his troops to those of the princes
 of Anjou, attached Boffille to his own person, made him his chamberlain
 and conferred on him the vice-royalty of Roussillon and Cerdagne (1471),
 together with certain important lordships, among others the countship of
@@ -33,7 +33,7 @@ countship of Castres. Boffille, with the object of escaping from his
 enemies, applied for the command of the armies of the republic of
 Venice. His application was refused, and he further lost the
 vice-royalty of Roussillon (1491). His daughter Louise married against
-his will a gentleman of no rank, and this led to terrible family
+his will a [[Gentleman|gentleman]] of no rank, and this led to terrible family
 dissensions. In order to disinherit his own family, Boffille de Juge
 gave up the countship of Castres to his brother-in-law, Alain d'Albret
 (1494). He died in 1502.

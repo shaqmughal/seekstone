@@ -22,19 +22,19 @@ E. and 37 deg. 58' N., towards the southern end of the central and
 principal plain of Attica. The various theories with regard to the
 origin of the name are all somewhat unconvincing; it is conceivable
 that, with the other homonymous Greek towns, such as Athenae Diades in
-Euboea, [Greek: Athaenai] may be connected etymologically with [Greek:
+[[Euboea]], [Greek: Athaenai] may be connected etymologically with [Greek:
 anthos], a flower (cf. _Firenze_, Florence); the patron goddess, Athena,
 was probably called after the place of her cult.
 
 
 I. TOPOGRAPHY AND ANTIQUITIES
 
-The Attic plain, [Greek: to pedion], slopes gently towards the coast of
+The [[Attic]] plain, [Greek: to pedion], slopes gently towards the coast of
 the Saronic Gulf on the south-west; on the east it is overlooked by
 Mount Hymettus (3369 ft.); on the north-east by Pentelicus or Brilessus
 (3635 ft.) from which, in ancient and modern times, an immense quantity
 of the finest marble has been quarried; on the north-west by Parnes
-(4636 ft.), a continuation of the Boeotian Cithaeron, and on the west by
+(4636 ft.), a continuation of the Boeotian [[Cithaeron]], and on the west by
 Aegaleus (1532 ft.), which descends abruptly to the bay of Salamis. In
 the centre of the plain extends from north-east to south-west a series
 of low heights, now known as Turcovuni, culminating towards the south in
@@ -84,16 +84,16 @@ adequate supply of cereals; olive and fig groves and vineyards were
 cultivated from the earliest times in the valley of the Cephisus, and
 pasturage for sheep and goats was abundant. The surrounding rampart of
 mountains was broken towards the north-east by an open tract stretching
-between Hymettus and Pentelicus towards Marathon, and was traversed by
-the passes of Decelea, Phyle and Daphne on the north and north-west, but
+between Hymettus and Pentelicus towards [[Marathon]], and was traversed by
+the passes of Decelea, Phyle and [[Daphne]] on the north and north-west, but
 the distance between these natural passages and the city was sufficient
 to obviate the danger of surprise by an invading land force. On the
-other hand Athens, like Corinth, Megara and Argos, was sufficiently far
+other hand Athens, like [[Corinth]], Megara and Argos, was sufficiently far
 from the sea to enjoy security against the sudden descent of a hostile
 fleet. At the same time the relative proximity of three natural
 harbours, Peiraeus, Zea and Munychia, favoured the development of
 maritime commerce and of the sea power which formed the basis of
-Athenian hegemony. The climate is temperate, but liable to sudden
+Athenian [[Hegemony|hegemony]]. The climate is temperate, but liable to sudden
 changes; the mean temperature is 63 deg. .1 F., the maximum (in July) 99
 deg. .01, the minimum (in January) 31 deg. .55. The summer heat is
 moderated by the sea-breeze or by cool northerly winds from the
@@ -104,8 +104,8 @@ energy. For the architectural embellishment of the city the finest
 building material was procurable without difficulty and in abundance;
 Pentelicus forms a mass of white, transparent, blue-veined marble;
 another variety, somewhat similar in appearance, but generally of a
-bluer hue, was obtained from Hymettus. For ordinary purposes grey
-limestone was furnished by Lycabettus and the adjoining hills; limestone
+bluer [[Hue|hue]], was obtained from Hymettus. For ordinary purposes grey
+[[Limestone|limestone]] was furnished by Lycabettus and the adjoining hills; limestone
 from the promontory of Acte (the so-called "poros" stone), and
 conglomerate, were also largely employed. For the ceramic art admirable
 material was at hand in the district north-west of the Acropolis. For
@@ -125,7 +125,7 @@ of wells were also sunk and rain-water was stored in cisterns.
   technical competence, acute judgment and practical experience, as well
   as wide and accurate scholarship. The building material and the manner
   of its employment furnish evidence no less important than the
-  character of the masonry, the design and the modes of ornamentation.
+  character of the [[Masonry|masonry]], the design and the modes of ornamentation.
   The testimony afforded by inscriptions is often of decisive
   importance, especially that of commemorative or votive tablets or of
   boundary-stones found _in situ_; the value of this evidence is, on the
@@ -170,14 +170,14 @@ of wells were also sunk and rain-water was stored in cisterns.
   to the same period. The Dutchman Joannes Meursius (1579-1639) wrote
   three disquisitions on Athenian topography. The conquest by Venice in
   1687 led to the publication of several works in that city, including
-  the descriptions of De la Rue and Fanelli and the maps of Coronelli
+  the descriptions of [[De La Rue|De la Rue]] and Fanelli and the maps of Coronelli
   and others. The systematic study of Athenian topography was begun in
-  the 17th century by French residents at Athens, the consuls Giraud and
+  the 17th century by French residents at Athens, the consuls [[Giraud]] and
   Chataignier and the Capuchin monks. The visit of the French physician
   Jacques Spon and the Englishman, Sir George Wheler or Wheeler
   (1650-1723), fortunately took place before the catastrophe of the
   Parthenon in 1687; Spon's _Voyage d'Italie, de Dalmatie, de Grece et
-  du Levant_, which contained the first scientific description of the
+  du [[Levant]]_, which contained the first scientific description of the
   ruins of Athens, appeared in 1678; Wheler's _Journey into Greece_, in
   1682. A period of British activity in research followed in the 18th
   century. The monumental work of James Stuart and Nicholas Revett, who
@@ -186,7 +186,7 @@ of wells were also sunk and rain-water was stored in cisterns.
   study, owing to the demolition of ancient buildings which began about
   the middle of the 18th century. To this period also belong the labours
   of Richard Pococke and Richard Dalton, Richard Chandler, E.D. Clarke
-  and Edward Dodwell. The great work of W.M. Leake (_Topography of
+  and Edward [[Dodwell]]. The great work of W.M. [[Leake]] (_Topography of
   Athens and the Demi_, 2nd ed., 1841) brought the descriptive
   literature to an end and inaugurated the period of modern scientific
   research, in which German archaeologists have played a distinguished
@@ -274,9 +274,9 @@ remains, apparently of dwelling-houses, one of which may have been the
 Among the foundations were discovered fragments of "Mycenaean" pottery.
 The various approaches to the citadel on the northern side--the rock-cut
 flight of steps north-east of the Erechtheum (q.v.), the stairs leading
-to the well Clepsydra, and the intermediate passage supposed to have
+to the well [[Clepsydra]], and the intermediate passage supposed to have
 furnished access to the Persians--are all to be attributed to the
-primitive epoch. Two pieces of polygonal wall, one beneath the bastion
+primitive epoch. Two pieces of polygonal wall, one beneath the [[Bastion|bastion]]
 of Nike Apteros, the other in a direct line between the Roman gateway
 and the door of the Propylaea, are all that remain of the primitive
 defences of the main entrance.
@@ -299,9 +299,9 @@ Acropolis, and that of Thucydides (ii. 17) that it was "beneath"
 an outer and an inner line of defence in prehistoric times. The space
 enclosed by the outer wall was left unoccupied after the Persian wars in
 deference to an oracular response apparently dictated by military
-considerations, the maintenance of an open zone being desirable for the
+considerations, the [[Maintenance|maintenance]] of an open zone being desirable for the
 defence of the citadel. A portion of the outer wall has been recognized
-in a piece of primitive masonry discovered near the Odeum of Herodes
+in a piece of primitive masonry discovered near the Odeum of [[Herod|Herodes]]
 Atticus; other traces will probably come to light when the northern and
 eastern slopes of the Acropolis have been completely explored. Leake,
 whom Frazer follows, assumed the Pelasgicum to be a fortified space at
@@ -391,14 +391,14 @@ The Areopagus is now a bare rock possessing few architectural traces.
 The legend of its occupation by the Amazons (Aeschylus, _Eum_. 681 seq.)
 may be taken as indicating its military importance for an attack on the
 Acropolis; the Persians used it as a _point d'appui_ for their assault.
-The seat of the old oligarchical council and court for homicide was
+The seat of the old oligarchical council and court for [[Homicide|homicide]] was
 probably on its eastern height. Here were the altar of Athena Areia and
 two stones, the [Greek: lithos Ybreos], on which the accuser, and the
 [Greek: lithos Anaideias], on which the accused, took their stand.
 Beneath, at the north-eastern corner, is the cleft which formed the
-sanctuary of the [Greek: Semnai], or Erinyes. There is no reason for
+sanctuary of the [Greek: Semnai], or [[Erinyes]]. There is no reason for
 disturbing the associations connected with this spot as the scene of St
-Paul's address to the Athenians (E. Gardner, _Anc. Athens_, p. 505).
+Paul's address to the Athenians (E. [[Gardner]], _Anc. Athens_, p. 505).
 
 _Hellenic Period._--While modern research has added considerably to our
 knowledge of prehistoric Athens, a still greater light has been thrown
@@ -464,7 +464,7 @@ reaching the northern declivities of the Areopagus and the Acropolis on
 the south. After the Persian Wars the northern portion was used for
 commercial, the southern for political and ceremonial purposes. In the
 southern were the Orchestra, where the Dionysiac dances took place, and
-the famous statues of Harmodius and Aristogeiton by Antenor which were
+the famous statues of [[Harmodius]] and Aristogeiton by Antenor which were
 carried away by Xerxes; also the Metroum, or temple of the Mother of the
 Gods, the Bouleuterium, or council-chamber of the Five Hundred, the
 Prytaneum, the hearth of the combined communities, where the guests of
@@ -495,7 +495,7 @@ In 1892 Dorpfeld began a series of excavations in the district between
 the Acropolis and the Pnyx with the object of determining the situation
 of the buildings described by Pausanias as existing in the neighbourhood
 of the Agora, and more especially the position of the Enneacrunus
-fountain. The Enneacrunus has hitherto been generally identified with
+[[Fountain|fountain]]. The Enneacrunus has hitherto been generally identified with
 the spring Callirrhoe in the bed of the Ilissus, a little to the
 south-east of the Olympieum; it is apparently, though not explicitly,
 placed by Thucydides (ii. 15) in proximity to that building, as well as
@@ -521,13 +521,13 @@ and the royal garden in the direction of the Upper Ilissus. These
 elaborate waterworks were, according to Dorpfeld, constructed by the
 Peisistratids in order to increase the supply from the ancient spring
 Callirrhoe; the fountain was furnished with nine jets and henceforth
-known as Enneacrunus. This identification has been hotly contested by
+known as Enneacrunus. This [[Identification|identification]] has been hotly contested by
 many scholars, and the question must still be regarded as undecided. An
 interesting confirmation of Dorpfeld's view is furnished by the map of
 Guillet and Coronelli, published in 1672, in which the Enneacrunus is
 depicted as a well with a stream of running water in the neighbourhood
 of the Pnyx. The fact that spring water is not now found in this
-locality is by no means fatal to the theory; recent engineering
+locality is by no means fatal to the theory; recent [[Engineering|engineering]]
 investigations have shown that much of the surface water of the Attic
 plain has sunk to a lower level. In front of the reservoir is a small
 open space towards which several roads converge; close by is a
@@ -552,12 +552,12 @@ Amynos, with whose cult those of Asclepius and the hero Dexion were here
 associated; under the name Dexion, the poet Sophocles is said to have
 been worshipped after his death. The whole district adjoining the
 Areopagus was found to have been thickly built over; the small, mean
-dwelling-houses intersected by narrow, crooked lanes convey a vivid idea
+dwelling-houses intersected by narrow, crooked [[Lane|lanes]] convey a vivid idea
 of the contrast between the modest private residences and the great
 public structures of the ancient city.
 
 
-  The Academy and Lyceum.
+  The Academy and [[Lyceum]].
 
 The age of the Peisistratids (560-511 B.C.) marked an era in the history
 of Athenian topography. The greatest of their foundations, the temple of
@@ -605,9 +605,9 @@ once more became the stronghold of a despotism. Its fortifications,
 though not increased, were apparently strengthened by the Tyrants. To
 its embellishment they probably contributed the older ornamental
 entrance, facing south-west, the precursor of the greater structure of
-Mnesicles (see PROPYLAEA) and the colonnade of the "Hecatompedon," or
+Mnesicles (see PROPYLAEA) and the [[Colonnade|colonnade]] of the "Hecatompedon," or
 earlier temple of Athena, at this time the only large sacred edifice on
-the citadel. The name was subsequently applied to the cella, or eastern
+the citadel. The name was subsequently applied to the [[Cella|cella]], or eastern
 chamber, of the Parthenon, which is exactly 100 ft. long, and also
 became a popular designation of the temple itself.
 
@@ -628,14 +628,14 @@ existing foundations. The foundations seem to belong to the 7th century,
 except those of the colonnade, which was possibly added by Peisistratus.
 According to Dorpfeld, this was the "old temple" of Athena Polias,
 frequently mentioned in literature and inscriptions, in which was housed
-the most holy image [Greek: xoanon] of the goddess which fell from
+the most holy [[Image|image]] [Greek: xoanon] of the goddess which fell from
 heaven; it was burnt, but not completely destroyed, during the Persian
 War, and some of its external decorations were afterwards built into the
 north wall of the Acropolis; it was subsequently restored, he thinks,
 with or without its colonnade--in the former case a portion of the
 peristyle must have been removed when the Erechtheum was built so as to
 make room for the porch of the maidens; the building was set on fire in
-406 B.C. (Xen. _Hell._ i. 6. 1), and the conflagration is identical with
+406 B.C. (Xen. _[[Hell]]._ i. 6. 1), and the conflagration is identical with
 that mentioned by Demosthenes (_In Timocr._ xxiv. 155); its
 "opisthodomos" served as the Athenian treasury in the 5th and 4th
 centuries; the temple is the [Greek: archaios neos taes Poliados]
@@ -695,7 +695,7 @@ unknown cavern has been revealed, which Kavvadias identifies with the
 grotto of Pan. Close to it are a series of steps hewn in the rock which
 connect with those discovered in 1886 within the Acropolis wall. Farther
 east is an underground passage leading eastward to a cave supposed to be
-the sanctuary of Aglaurus where the ephebi took the oath; with this
+the sanctuary of Aglaurus where the [[Ephebi|ephebi]] took the oath; with this
 passage is connected a secret staircase leading up through a cleft in
 the rock to the precinct of the Errephori on the Acropolis. It is
 conceivable that the priestesses employed this exit when descending on
@@ -756,7 +756,7 @@ walls have been ascertained from the remnants still existing in the 18th
 century and the scantier traces now visible. The north wall, leaving the
 city circuit at a point near the modern Observatory, ran from north-east
 to south-west near the present road to the Peiraeus, until it reached
-the Peiraeus walls a little to the east of their northernmost bend. The
+the Peiraeus walls a little to the east of their northernmost [[Bend|bend]]. The
 middle wall, beginning south of the Pnyx near the Melitan Gate,
 gradually approached the northern wall and, following a parallel course
 at an interval of 550 ft., diverged to the east near the modern New
@@ -836,7 +836,7 @@ intervals till 1890, resulted in the discovery of the Dipylon Gate, the
 principal entrance of ancient Athens. The Dipylon consists of an outer
 and an inner gate separated by an oblong courtyard and flanked on either
 side by towers; the gates were themselves double, being each composed of
-two apertures intended for the incoming and outgoing traffic. An opening
+two [[Aperture|apertures]] intended for the incoming and outgoing traffic. An opening
 in the city wall a little to the south-west, supposed to have been the
 Sacred Gate ([Greek: iera pylae]), was in all probability an outlet for
 the waters of the Eridanus. This stream, which has hitherto been
@@ -917,7 +917,7 @@ demolished by the Turks, and its stones built into a bastion; on the
 removal of the bastion in 1835 the temple was successfully reconstructed
 by Ross with the employment of little new material. At either corner of
 the Propylaea entrance were equestrian statues dedicated by the Athenian
-knights; the bases with inscriptions have lately been recovered. From
+[[Knight|knights]]; the bases with inscriptions have lately been recovered. From
 the inner exit of the Propylaea a passage led towards the east along the
 north side of the Parthenon; almost directly facing the entrance was the
 colossal bronze statue of Athena (afterwards called Athena Promachos) by
@@ -935,7 +935,7 @@ enclosure, which lay between the south-eastern corner of the Propylaea
 and the wall of Cimon, no traces of a temple have been found. Adjoining
 it to the east are the remains of a large rectangular building, which
 was apparently fronted by a colonnade; this has been identified with the
-[Greek: Chalkothaekae], a storehouse of bronze implements and arms,
+[Greek: Chalkothaekae], a storehouse of bronze [[Implement|implements]] and arms,
 which was formerly supposed to lie against the north wall near the
 Propylaea. Beyond the Parthenon, a little to the north-east, was the
 great altar of Athena, and near it the statue and altar of Zeus Polieus.
@@ -972,7 +972,7 @@ Agora (probably rebuilt on the former sites) and elsewhere, and the
 passage, or [Greek: dromos], from the Agora to the Dipylon flanked by
 long porticos. The Theseum or temple of Theseus, which lay to the east
 of the Agora near the Acropolis, was built by Cimon: here he deposited
-the bones of the national hero which he brought from Scyros about 470
+the [[Bone|bones]] of the national hero which he brought from Scyros about 470
 B.C. The only building in the city which can with certainty be assigned
 to the administration of Pericles is the Odeum, beneath the southern
 declivity of the Acropolis, a structure mainly of wood, said to have
@@ -1005,7 +1005,7 @@ but its identification with the temple of Hephaestus and Athena seen in
 this neighbourhood by Pausanias (i. 14. 6), though not established, may
 be regarded as practically certain, notwithstanding the difficulty
 presented by the subjects of the sculptures, which bear no relation to
-Hephaestus. The temple is a Doric peripteral hexastyle _in antis_, with
+Hephaestus. The temple is a Doric peripteral hexastyle _in [[Anti|antis]]_, with
 13 columns at the sides; its length is 104 ft., its breadth 45-1/2 ft.,
 its height, to the top of the pediment, 33 ft. The sculptures of the
 pediments have been completely lost, but their design has been
@@ -1020,7 +1020,7 @@ battle-scene with seated deities on either hand, the western a
 centauromachia. The temple is entirely of Pentelic marble, except the
 foundations and lowest step of the stylobate, which are of Peiraic
 stone, and the zophoros of the cella, which is in Parian marble. The
-preservation of the temple is due to its conversion into a church in the
+preservation of the temple is due to its [[Conversion|conversion]] into a church in the
 middle ages.
 
 
@@ -1079,10 +1079,10 @@ to its former inclusion in a Capuchin convent. The monument consists of
 a small circular temple of Pentelic marble, 21-1/2 ft. in height and 9
 ft. in diameter, with six engaged Corinthian columns and a sculptured
 frieze, standing on a rectangular base of Peiraic stone. The delicately
-carved convex roof, composed of a single block, was surmounted by the
+carved [[Convex|convex]] roof, composed of a single block, was surmounted by the
 tripod. The spirited reliefs of the frieze represent the punishment of
 the Tyrrhenian pirates by Dionysus and their transformation into
-dolphins. Another choragic monument was that of Thrasyllus, which faced
+[[Dolphin|dolphins]]. Another choragic monument was that of Thrasyllus, which faced
 a cave in the Acropolis rock above the Dionysiac theatre. A portion of
 another, that of Nicias, was used to make the late Roman gate of the
 Acropolis. In one of these monuments was the famous Satyr of Praxiteles.
@@ -1091,13 +1091,13 @@ Acropolis. In one of these monuments was the famous Satyr of Praxiteles.
   The Cynosarges.
 
 The Cynosarges, from earliest times a sanctuary of Heracles, later a
-celebrated gymnasium and the school of Antisthenes the Cynic, has
+celebrated gymnasium and the school of [[Antisthenes]] the Cynic, has
 hitherto been generally supposed to have occupied the site of the
 Monastery of the Asomati on the eastern slope of Lycabettus; its
 situation, however, has been fixed by Dorpfeld at a point a little to
 the south of the Olympieum, on the left bank of the Ilissus. Here a
 series of excavations, carried out by the British School in 1896-1897
-under the direction of Cecil Smith, revealed the foundations of an
+under the direction of [[Cecil]] Smith, revealed the foundations of an
 extensive Greek building, the outlines of which correspond with those of
 a gymnasium; it possessed a large bath or cistern, and was flanked on
 two sides by water-courses. An Ionic capital found here possibly
@@ -1112,7 +1112,7 @@ Athenian architecture came to a close. The era of decadence, of honorary
 statues and fulsome inscriptions, began. The embellishments which the
 city received during the Hellenistic and Roman periods were no longer
 the artistic expression of the religious and political life of a great
-commonwealth; they were the tribute paid to the intellectual renown of
+[[Commonwealth|commonwealth]]; they were the tribute paid to the intellectual renown of
 Athens by foreign potentates or dilettanti, who desired to add their
 names to the list of its illustrious citizens and patrons. Among the
 first of these benefactions was the great gymnasium of Ptolemy, built in
@@ -1195,7 +1195,7 @@ The eastern gate was adorned with four Ionic columns on the outside and
 two on the inside, the western entrance being the well-known Doric
 portico of Athena Archegetis with an inscription recording its erection
 from donations of Julius Caesar and Augustus. The whole conclave may be
-compared with the enclosed bazaars or khans of Oriental cities which are
+compared with the enclosed bazaars or [[Khan|khans]] of Oriental cities which are
 usually locked at night. The Agrippeum, a covered theatre, derived its
 name from Vipsanius Agrippa, whose statue was set up, about 27 B.C.,
 beneath the north wing of the Acropolis propylaea, on the high
@@ -1250,11 +1250,11 @@ repaired in 1861-1869 and is still in use.
 
   The Stadium and Odeum of Herodes Atticus.
 
-The Stadium, in which the Panathenaic Games were held, was first laid
+The Stadium, in which the Panathenaic [[Games]] were held, was first laid
 out by the orator Lycurgus about 330 B.C. It was an oblong structure
 filling a natural depression near the left bank of the Ilissus beneath
 the eastern declivity of the Ardettus hill, the parallel sides and
-semicircular end, or [Greek: sphendonae] around the arena being
+semicircular end, or [Greek: sphendonae] around the [[Arena|arena]] being
 partially excavated from the adjoining slopes. The immense building,
 however, which was restored in 1896 and the following years, was that
 constructed in Pentelic marble about A.D. 143 by Tiberius Claudius
@@ -1288,11 +1288,11 @@ outweighed by the historic claims of Athens in the choice of a capital
 for the newly founded kingdom, and the seat of government was
 transferred hither from Nauplia in 1833. The new town was, for the most
 part, laid out by the German architect Schaubert. It contains several
-squares and boulevards, a large public garden, and many handsome public
+squares and [[Boulevard|boulevards]], a large public garden, and many handsome public
 and private edifices. A great number of the public institutions owe
 their origin to the munificence of patriotic Greeks, among whom Andreas
 Syngros and George Averoff may be especially mentioned. The royal
-palace, designed by Friedrich von Gartner (1792-1847), is a tasteless
+palace, designed by [[Friedrich]] von Gartner (1792-1847), is a tasteless
 structure; attached to it is a beautiful garden laid out by Queen
 Amalia, which contains a well-preserved mosaic floor of the Roman
 period. On the south-east is the newly built palace of the crown prince.
@@ -1306,8 +1306,8 @@ connected with the university, stands on the summit of the Hill of the
 Nymphs; like the Academy, it was erected at the expense of a wealthy
 Greek, Baron Sina of Vienna. In the public garden is the Zappeion, a
 large building with a Corinthian portico, intended for the display of
-Greek industries; here also is a monument to Byron, erected in 1896. The
-Boule, or parliament-house, possesses a considerable library. Other
+Greek industries; here also is a monument to [[Byron]], erected in 1896. The
+[[Boule]], or parliament-house, possesses a considerable library. Other
 public buildings are the Polytechnic Institute, built by contributions
 from Greeks of Epirus, the theatre, the Arsakeion (a school for girls),
 the Varvakeion (a gymnasium), the military school ([Greek: scholae
@@ -1333,9 +1333,9 @@ prehistoric antiquities found by Schliemann at Tiryns and Mycenae, other
 "Mycenaean" objects discovered at Nauplia and in Attica, as well as the
 still earlier remains excavated by Tsountas in the Cyclades and by the
 British School at Phylakopi in Melos; terra-cottas from Tanagra and Asia
-Minor; bronzes from Olympia, Delphi and elsewhere, and numerous painted
+Minor; bronzes from Olympia, [[Delphi]] and elsewhere, and numerous painted
 vases, among them the unequalled white _lekythi_ from Athens and
-Eretria. The Epigraphical Museum contains an immense number of
+[[Eretria]]. The Epigraphical Museum contains an immense number of
 inscriptions arranged by H.G. Lolling and A. Wilhelm of the Austrian
 Institute. The Acropolis Museum (opened 1878) possesses a singularly
 interesting collection of sculptures belonging to the "archaic" period
@@ -1354,7 +1354,7 @@ a small museum of antiquities at the Peiraeus.
 
 Owing to the numbers and activity of its institutions, both native and
 foreign, for the prosecution of research and the encouragement of
-classical studies, Athens has become once more an international seat of
+classical studies, Athens has become once more an [[International|international]] seat of
 learning. The Greek Archaeological Society, founded in 1837, numbers
 some distinguished scholars among its members, and displays great
 activity in the conduct of excavations. Important researches at
@@ -1362,19 +1362,19 @@ Epidaurus, Eleusis, Mycenae, Amyclae and Rhamnus may be numbered among
 its principal undertakings, in addition to the complete exploration of
 the Acropolis and a series of investigations in Athens and Attica. The
 French Ecole d'Athenes, founded in 1846, is under the scientific
-direction of the Academie des Inscriptions et Belles-lettres. Among its
+direction of the Academie des Inscriptions et [[Belles-Lettres|Belles-lettres]]. Among its
 numerous enterprises have been the extensive and costly excavations at
 Delos and Delphi, which have yielded such remarkable results. The
 monuments of the Byzantine epoch have latterly occupied a prominent
 place in its investigations. The German Archaeological Institute,
-founded in 1874, has carried out excavations at Thebes, Lesbos, Pares,
+founded in 1874, has carried out excavations at Thebes, [[Lesbos]], Pares,
 Athens and elsewhere; it has also been associated in the great
 researches at Olympia, Pergamum and Troy, and in many other important
 undertakings. The British School, founded in 1886, has been unable,
 owing to insufficient endowment, to work on similar lines with the
 French and German institutions; it has, however, carried out extensive
 excavations at Megalopolis and in Melos, as well as researches at Abae,
-in Athens (presumed site of the Cynosarges), in Cyprus, at Naucratis and
+in Athens (presumed site of the Cynosarges), in [[Cyprus]], at Naucratis and
 at Sparta. It has also participated in the exploration of Cnossus and
 other important sites in Crete. The American School, founded in 1882, is
 supported by the principal universities of the United States. In
@@ -1419,7 +1419,7 @@ hospitals and charitable institutions erected by private munificence.
 The harbour, in which ships of all nations may be seen, as well as great
 numbers of the picturesque sailing craft engaged in the coasting trade,
 is somewhat difficult of access to larger vessels, but has been improved
-by the construction of new breakwaters and dry docks. The port and the
+by the construction of new breakwaters and dry [[Dock|docks]]. The port and the
 capital are now connected by railway with Corinth and the principal
 towns of the Morea; the line opening up communication with northern
 Greece and Thessaly, when its proposed connexion with the Continental
@@ -1467,7 +1467,7 @@ by a privileged class of Eupatridae (q.v.); the Geomori and Demiurgi,
 who formed the bulk of the community, enjoyed no political rights. It
 was to their control over the machinery of law that the Eupatridae owed
 their predominance. The aristocratic council of the Areopagus (q.v.)
-constituted the chief criminal court, and nominated the magistrates,
+constituted the chief criminal court, and nominated the [[Magistrate|magistrates]],
 among whom the chief archon (q.v.) passed judgment in family suits,
 controlled admission to the genos or clan, and consequently the
 acquisition of the franchise. This system was further supported by
@@ -1485,7 +1485,7 @@ attack upon the aristocracy proceeded from a young noble named Cylon,
 who endeavoured to become tyrant about 630 B.C. The people helped to
 crush this movement; yet discontent must have been rife among them, for
 in 611 the Eupatrids commissioned Draco (q.v.), a junior magistrate, to
-draft and publish a code of criminal law. This was a notable concession,
+draft and publish a [[Code|code]] of criminal law. This was a notable concession,
 by which the nobles lost that exclusive legal knowledge which had formed
 one of their main instruments of oppression.
 
@@ -1537,12 +1537,12 @@ and insight the Athenians largely owed their triumph in the great
 campaign of 490 against Persia. After a second political reaction, the
 prospect of a second Persian war, and the naval superiority of Aegina
 led to the assumption of a bolder policy. In 483 Themistocles overcame
-the opposition of Aristides (q.v.), and passed his famous measure
+the opposition of [[Aristides]] (q.v.), and passed his famous measure
 providing for a large increase of the Athenian fleet. In the great
 invasion of 480-479 the Athenians displayed an unflinching resolution
 which could not be shaken even by the evacuation and destruction of
 their native city. Though the traditional account of this war
-exaggerates the services of Athens as compared with the other champions
+exaggerates the services of Athens as compared with the other [[Champion|champions]]
 of Greek independence, there can be no doubt that the ultimate victory
 was chiefly due to the numbers and efficiency of the Athenian fleet, and
 to the wise policy of her great statesman Themistocles (see SALAMIS,
@@ -1552,7 +1552,7 @@ PLATAEA).
 their city the Athenians continued the war with unabated vigour. Led by
 Aristides and Cimon they rendered such prominent service as to receive
 in return the formal leadership of the Greek allies and the presidency
-of the newly formed Delian League (q.v.). The ascendancy acquired in
+of the newly formed [[Delian League]] (q.v.). The ascendancy acquired in
 these years eventually raised Athens to the rank of an imperial state.
 For the moment it tended to impair the good relations which had
 subsisted between Athens and Sparta since the first days of the Persian
@@ -1561,7 +1561,7 @@ home and the complete humiliation of Persia" was steadily unheld.
 Similarly the internal policy of Athens continued to be shaped by the
 conservatives. The only notable innovations since the days of
 Cleisthenes had been the reduction of the archonship to a routine
-magistracy appointed partly by lot (487), and the rise of the ten
+magistracy appointed partly by [[Lot|lot]] (487), and the rise of the ten
 elective strategi (generals) as chief executive officers (see
 STRATEGUS). But the triumph of the navy in 480 and the great expansion
 of commerce and industry had definitely shifted the political centre of
@@ -1608,9 +1608,9 @@ Yet the material prosperity of Athens under Pericles was less notable
 than her brilliant attainments in every field of culture. Her
 development since the Persian wars had been extremely rapid, but did not
 reach its climax till the latter part of the century. No city ever
-adorned herself with such an array of temples, public buildings and
+adorned herself with such an [[Array|array]] of temples, public buildings and
 works of art as the Athens of Pericles and Pheidias. Her achievements in
-literature are hardly less great. The Attic drama of the period produced
+literature are hardly less great. The Attic [[Drama|drama]] of the period produced
 many great masterpieces, and the scientific thought of Europe in the
 departments of logic, ethics, rhetoric and history mainly owes its
 origin to a new movement of Greek thought which was largely fostered by
@@ -1654,7 +1654,7 @@ Athenian art and literature in the 4th century declined but slightly
 from their former standard; philosophy and oratory reached a standard
 which was never again equalled in antiquity and may still serve as a
 model. In the wars of the period Athens took a prominent part with a
-view to upholding the balance of power, joining the Corinthian League in
+view to upholding the [[Balance Of Power|balance of power]], joining the Corinthian League in
 395, and assisting Thebes against Sparta after 378, Sparta against
 Thebes after 369. Her generals and admirals, Conon, Iphicrates,
 Chabrias, Timotheus, distinguished themselves by their military skill,
@@ -1664,7 +1664,7 @@ which found expression in the temporary renewal of the Delian League
 in Greece. When Philip of Macedon began to grow formidable she seemed
 called upon once more to champion the liberties of Greece. This ideal,
 when put forward by the consummate eloquence of Demosthenes and other
-orators, created great enthusiasm among the Athenians, who at times
+orators, created great [[Enthusiasm|enthusiasm]] among the Athenians, who at times
 displayed all their old vigour in opposing Philip, notably in the
 decisive campaign of 338. But these outbursts of energy were too
 spasmodic, and popular opinion repeatedly veered back in favour of the
@@ -1683,8 +1683,8 @@ his victory the regent Antipater punished Athens by the loss of her
 remaining dependencies, the proscription of her chief patriots, and the
 disfranchisement of 12,000 citizens. The Macedonian garrison which was
 henceforth stationed in Attic territory prevented the city from taking a
-prominent part in the wars of the Diadochi. Cassander placed Athens
-under the virtual autocracy of Demetrius of Phalerum (317-307), and
+prominent part in the wars of the [[Diadochi]]. Cassander placed Athens
+under the virtual autocracy of [[Demetrius]] of Phalerum (317-307), and
 after the temporary liberation by Demetrius Poliorcetes (306-300),
 secured his interests through a dictator named Lachares, who lost the
 place again to Poliorcetes after a siege (295). After a vain attempt to
@@ -1766,7 +1766,7 @@ the death-blow to ancient Athens.
   The authorities for the history of ancient Athens will mostly be found
   under GREECE: _History_, and the various biographies. The following
   books deal with special periods or subjects only:--(1) _Early Athens_:
-  W. Warde Fowler, _The City-State_, ch. vi. (London, 1893). (2) _The
+  W. Warde [[Fowler]], _The City-State_, ch. vi. (London, 1893). (2) _The
   fifth and fourth centuries_: the "Constitution of Athens," ascribed to
   Xenophon; W. Oncken, _Athen und Hellas_ (Leipzig, 1865); U. v.
   Wilamowitz-Moellendorff, _Aus Kydathen_ (Berlin, 1880); L. Whibley,
@@ -1788,7 +1788,7 @@ the death-blow to ancient Athens.
   1896), ch. vi.; J.W. Headlam, _Election by Lot at Athens_ (Cambridge,
   1891). (6) _Finance and statistics_: A. Boeckh, _The Public Economy of
   the Athenians_ (Eng. trans., London, 1828); Ed. Meyer, _Forschungen
-  zur alten Geschichte_ (Halle, 1899), vol. ii. pp. 149-195. (7)
+  zur alten Geschichte_ ([[Halle]], 1899), vol. ii. pp. 149-195. (7)
   _Inscriptions: Corpus Inscriptionum Atticarum_, with supplements
   (Berlin, 1873-1895). (8) _Coins_: B.V. Head, _Historia Numorum_
   (Oxford, 1887), pp. 309-328.     (M. O. B. C.)
@@ -1801,7 +1801,7 @@ took place when the church of St Sophia was built in A.D. 532. The
 Parthenon, the Erechtheum, the "Theseum" and other temples were
 converted into Christian churches and were thus preserved throughout the
 middle ages. The history of Athens for the next four centuries is almost
-a blank; the city is rarely mentioned by the Byzantine chronicles of
+a [[Blank|blank]]; the city is rarely mentioned by the Byzantine chronicles of
 this period. The emperor Constantine II. spent some months here in A.D.
 662-663. In 869 the see of Athens became an archbishopric. In 995 Attica
 was ravaged by the Bulgarians under their tsar Samuel, but Athens
@@ -1824,15 +1824,15 @@ Athens by Boniface of Montferrat, king of Thessalonica, with the title
 of Megaskyr ([Greek: megas kyrios]= great lord). His nephew and
 successor, Guy I., obtained the title duke of Athens from Louis IX. of
 France in 1258. On the death of Guy II., last duke of the house of la
-Roche, in 1308, the duchy passed to his cousin, Walter of Brienne. He
+Roche, in 1308, the duchy passed to his [[Cousin|cousin]], Walter of Brienne. He
 was expelled in 1311 by his Catalonian mercenaries; the mutineers
 bestowed the duchy "of Athens and Neopatras" on their leader, Roger
-Deslaur, and, in the following year, on Frederick of Aragon, king of
+Deslaur, and, in the following year, on Frederick of [[Aragon]], king of
 Sicily. The Sicilian kings ruled Athens by viceroys till 1385, when the
 Florentine Nerio Acciajuoli, lord of Corinth, defeated the Catalonians
 and seized the city. Nerio, who received the title of duke from the king
 of Naples, founded a new dynasty. His palace was in the Propylaea; the
-lofty "Tower of the Franks," which adjoined the south wing of that
+lofty "Tower of the [[Frank|Franks]]," which adjoined the south wing of that
 building, was possibly built in his time. This interesting historical
 monument was demolished by the Greek authorities in 1874,
 notwithstanding the protests of Penrose, Freeman and other scholars. The
@@ -1847,11 +1847,11 @@ leniency.
 Athens disappeared from the eyes of Western civilization. The principal
 interest of the following centuries lies in the researches of successive
 travellers, who may be said to have rediscovered the city, and in the
-fate of its ancient monuments, several of which were still in fair
+[[Fate|fate]] of its ancient monuments, several of which were still in fair
 preservation at the beginning of this period. The Parthenon was
 transformed into a mosque; the existing minaret at its south-western
 corner was built after 1466. The Propylaea served as the residence of
-the Turkish commandant and the Erechtheum as his harem. In 1466 the
+the Turkish commandant and the Erechtheum as his [[Harem|harem]]. In 1466 the
 Venetians succeeded in occupying the city, but failed to take the
 Acropolis. About 1645 a powder magazine in the Propylaea was ignited by
 lightning and the upper portion of the structure was destroyed. Under
@@ -1882,12 +1882,12 @@ modern Greece. (See GREECE: _History, modern_.)
 
   GENERAL BIBLIOGRAPHY.-W.M. Leake, _Topography of Athens and the Demi_
   (2nd ed., London, 1841); C. Wachsmuth, _Die Stadt Athen im Alterthum_
-  (vol. i., Leipzig, 1874; vol. ii. part i., Leipzig, 1890); E. Burnouf,
+  (vol. i., Leipzig, 1874; vol. ii. part i., Leipzig, 1890); E. [[Burnouf]],
   _La Ville et l'acropole d'Athenes aux diverses epoques_ (Paris, 1877);
   F.C. Penrose, _Principles of Athenian Architecture_ (London, 1888);
   J.E. Harrison, _Mythology and Monuments of Ancient Athens_ (London,
   1890); E. Curtius and A. Milchhofer, _Stadtgeschichte von Athen_
-  (Berlin, 1891); H. Hitzig and H. Blumner, _Pausanias_ (text and
+  (Berlin, 1891); H. [[Hitzig]] and H. Blumner, _Pausanias_ (text and
   commentary; vol. i., Berlin, 1896); J.G. Frazer, _Pausanias_
   (translation and commentary; 6 vols., London, 1898. The commentary on
   Pausanias' description of Athens, contained in vol. ii. with
@@ -1901,15 +1901,15 @@ modern Greece. (See GREECE: _History, modern_.)
   of I. von Muller's _Handbuch der klass. Altertumswissenschaft_). The
   history of excavations on the Acropolis is summarized in M.L. d'Ooge,
   _Acropolis of Athens_ (1909); see also A. Botticher, _Die Akropolis
-  von Athen_ (Berlin, 1888); O. Jahn, _Pausaniae descriptio arcis
-  Athenarum_ (Bonn, 1900); A. Furtwangler, _Masterpieces of Greek
+  von Athen_ (Berlin, 1888); O. [[Jahn]], _Pausaniae descriptio arcis
+  Athenarum_ ([[Bonn]], 1900); A. Furtwangler, _Masterpieces of Greek
   Sculpture_ (appendix; London, 1895); A. Milchhofer, _Uber die alten
   Burgheiligtumer in Athen_ (Kiel, 1899). For the Parthenon, A.
   Michaelis, _Der Parthenon_ (texts and plates, Leipzig, 1871); L.
   Magne, _Le Parthenon_ (Paris, 1895); J. Durm, _Der Zustand der antiken
   athenischen Bauwerken_ (Berlin, 1895); F.C. Penrose in _Journal of
   Royal Institute of British Architects_ for 1897; N.M. Balanos in
-  [Greek: Ephemeris tes kyberneseos] (Athens, August 25, 1898). For the
+  [Greek: [[Ephemeris]] tes kyberneseos] (Athens, August 25, 1898). For the
   Dionysiac theatre, A.E. Haigh, _The Attic Theatre_ (Oxford, 1889); W.
   Dorpfeld and E. Reisch, _Das griechische Theater_ (Athens, 1896);
   Puchstein, _Die griechische Buhne_ (Berlin, 1901). For the "Theseum,"

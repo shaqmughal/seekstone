@@ -20,9 +20,9 @@ novel form, upon a small scale, under strict conditions of technique.
 The method is entirely Alexandrian: Sophron had written in a peculiar
 kind of rhythmical prose; Theocritus uses the hexameter and Doric,
 Herodas the _scazon_ or "lame" iambic (with a dragging spondee at the
-end) and the old Ionic dialect with which that curious metre was
+end) and the old Ionic [[Dialect|dialect]] with which that curious metre was
 associated. That, however, hardly goes beyond the choice and form of
-words; the structure of the sentences is close-knit Attic. But the
+words; the structure of the sentences is close-knit [[Attic]]. But the
 grumbling metre and quaint language suit the tone of common life which
 Herodas aims at realizing; for, as Theocritus may be called idealist,
 Herodas is a realist unflinching. His persons talk in vehement
@@ -54,9 +54,9 @@ implores the schoolmaster to flog him. The boy accordingly is hoisted on
 another's back and flogged; but his spirit does not appear to be
 subdued, and the mother resorts to the old man after all. IV. is a visit
 of two poor women with an offering to the temple of Asclepius at Cos.
-While the humble cock is being sacrificed, they turn, like the women in
-the _Ion_ of Euripides, to admire the works of art; among them a small
-boy strangling a vulpanser--doubtless the work of Boethus that we
+While the humble [[Cock|cock]] is being sacrificed, they turn, like the women in
+the _[[Ion]]_ of [[Euripides]], to admire the works of art; among them a small
+boy strangling a vulpanser--doubtless the work of [[Boethus]] that we
 know--and a sacrificial procession by Apelles, "the Ephesian," of whom
 we have an interesting piece of contemporary eulogy. The oily sacristan
 is admirably painted in a few slight strokes. V. brings us very close to
@@ -69,13 +69,13 @@ maidservant--permitted liberties as a _verna_ brought up in the
 house--whose ready tact suggests to her mistress an excuse for
 postponing execution of a threat made in ungovernable fury. VI. is a
 friendly chat or a private conversation. The subject is an ugly one, but
-the dialogue is as clever and amusing as the rest, with some delicious
+the [[Dialogue|dialogue]] is as [[Clever|clever]] and amusing as the rest, with some delicious
 touches. Our interest is engaged here in a certain Kerdon, the artistic
 shoemaker, to whom we are introduced in VII. (the name had already
 become generic for the shoemaker as the typical representative of retail
 trade), a little bald man with a fluent tongue, complaining of hard
 times, who bluffs and wheedles by turns. VII. opens with a mistress
-waking up her maids to listen to her dream; but we have only the
+waking up her maids to listen to her [[Dream|dream]]; but we have only the
 beginning, and the other fragments are very short.
 
 Within the limits of 100 lines or less Herodas presents us with a highly
@@ -89,13 +89,13 @@ and see how skilfully the established traits are indicated here. This is
 achieved by true dramatic means, with touches never wasted and the more
 delightful often because they do not clamour for attention. The
 execution has the qualities of first-rate Alexandrian work in miniature,
-such as the epigrams of Asclepiades possess, the finish and firm
+such as the epigrams of [[Asclepiades]] possess, the finish and firm
 outlines; and these little pictures bear the test of all artistic
 work--they do not lose their freshness with familiarity, and gain in
 interest as one learns to appreciate their subtle points.
 
   The papyrus MS., obtained from the Fayum, is in the possession of the
-  British Museum, and was first printed by F. G. Kenyon in 1891.
+  British Museum, and was first printed by F. G. [[Kenyon]] in 1891.
   Editions by O. Crusius (1905, text only, in Teubner series) and J. A.
   Nairn (1904), with introduction, notes and bibliography. There is an
   English verse translation of the mimes by H. Sharpley (1906) under the

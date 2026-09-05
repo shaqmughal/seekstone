@@ -15,27 +15,27 @@ several monasteries. His open advocacy of Jansenist opinions, however,
 caused his superiors to relegate him to the most obscure houses of the
 order, and finally to keep him under surveillance at the abbey of St
 Germain-des-Pres at Paris. Here he wrote a defence of the doctrine of
-the Real Presence against the Calvinists in the form of an apology for
-Rupert, abbot of Deutz (_Apologia pro Ruperto abbate Tuitensi_, Paris,
+the Real Presence against the Calvinists in the form of an [[Apology|apology]] for
+Rupert, abbot of [[Deutz]] (_Apologia pro Ruperto abbate Tuitensi_, Paris,
 1669). In 1676 he published at Brussels, under the name of "Sieur Flore
 de Ste Foi" his _Miroir de la piete chretienne_, an enlarged edition of
-which appeared at Liege in the following year. This was condemned by
+which appeared at [[Liege]] in the following year. This was condemned by
 certain archbishops and theologians as the repetition of the five
 condemned propositions of Jansen, and Gerberon defended it, under the
 name of "Abbe Valentin" in _Le Miroir sans tache_ (Paris, 1680). He had
-by this time aroused against him the full fury of the Jesuits, and at
-their instigation a royal provost was sent to Corbie to arrest him. He
+by this time aroused against him the full fury of the [[Jesuits]], and at
+their instigation a royal provost was sent to [[Corbie]] to [[Arrest|arrest]] him. He
 had, however, just time to escape, and fled to the Low Countries, where
 he lived in various towns. He was invited by the Jansenist clergy to
 Holland, where he wrote another controversial work against the
 Protestants: _Defense de l'Eglise Romain contre la calomnie des
-Protestants_ (Cologne, 1688-1691). This produced unpleasantness with the
+Protestants_ ([[Cologne]], 1688-1691). This produced unpleasantness with the
 Reformed clergy, and feeling himself no longer safe he returned to
-Brussels. In 1700 he published his history of Jansenism (_Histoire
+Brussels. In 1700 he published his history of [[Jansenism]] (_Histoire
 generale du Jansenisme_), a dry work, by which, however, he is best
 remembered. He adhered firmly to the Augustinian doctrine of
 Predestination, and on the 30th of May 1703 he was arrested at Brussels
-at the instance of the archbishop of Malines, and ordered to subscribe
+at the instance of the archbishop of [[Malines]], and ordered to subscribe
 the condemnation of the five sentences of Jansen. On his refusal, he was
 handed over to his superiors and imprisoned in the citadel of Amiens and
 afterwards at Vincennes. Every sort of pressure was brought to bear upon

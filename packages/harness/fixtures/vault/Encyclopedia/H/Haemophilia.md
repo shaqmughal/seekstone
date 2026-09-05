@@ -15,7 +15,7 @@ the provocation of an injury to the tissue. When this bleeding is
 spontaneous it comes from the mucous membranes, especially from the
 nose, but also from the mouth, bowel and bronchial tubes. Slight bruises
 are apt to be followed by extravasations of blood into the tissues; the
-swollen joints (knee especially) of a bleeder are probably due, in the
+swollen [[Joints|joints]] ([[Knee|knee]] especially) of a bleeder are probably due, in the
 first instance, to the escape of blood into the joint cavity or synovial
 membrane. It is always from the smallest vessels that the blood escapes,
 and may do so in such quantities as to cause death in a few hours.

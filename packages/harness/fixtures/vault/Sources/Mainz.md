@@ -12,13 +12,13 @@ id: 42-7669
 MAINZ (Fr. Mayence) a city, episcopal see and fortress of Germany,
 situated on the left bank of the Rhine, almost opposite the influx of
 the Main, at the junction of the important main lines of railway from
-Cologne to Mannheim and Frankfort-on-Main, 25 m. W. of the latter. Pop.
-(1905), 91,124 (including a garrison of 7500 men), of whom two-thirds
+[[Cologne]] to [[Mannheim]] and [[Frankfort-On-Main|Frankfort-on-Main]], 25 m. W. of the latter. Pop.
+(1905), 91,124 (including a [[Garrison|garrison]] of 7500 men), of whom two-thirds
 are Roman Catholic. The Rhine, which here attains the greatest breadth
-of its upper course, is crossed by a magnificent bridge of five arches,
+of its upper course, is crossed by a magnificent bridge of five [[Arches|arches]],
 leading to the opposite town of Castel and by two railway bridges. The
 old fortifications have recently been pushed farther back, and their
-place occupied by pleasant boulevards. The river front has been
+place occupied by pleasant [[Boulevard|boulevards]]. The river front has been
 converted into a fine promenade, commanding extensive views of the
 Taunus range of mountains, and the "Rheingau," the most favoured wine
 district of Germany. Alongside the quay are the landing-places of the
@@ -32,28 +32,28 @@ the railway station to the river.
 
 The first object of historical and architectural interest in Mainz is
 the grand old cathedral, an imposing Romanesque edifice with numerous
-Gothic additions and details (for plan, &c. see ARCHITECTURE:
+[[Gothic]] additions and details (for plan, &c. see ARCHITECTURE:
 _Romanesque and Gothic in Germany_). It was originally erected between
 975 and 1009, but has since been repeatedly burned down and rebuilt, and
 in its present form dates chiefly from the 12th, 13th and 14th
 centuries. The largest of its six towers is 300 ft. high. The whole
 building was restored by order of Napoleon in 1814, and another thorough
 renovation was made more recently. The interior contains the tombs of
-Boniface, the first archbishop of Mainz, of Frauenlob, the Minnesinger,
-and of many of the electors. Mainz possesses nine other Roman Catholic
-churches, the most noteworthy of which are those of St Ignatius, with a
-finely painted ceiling, of St Stephen, built 1257-1328, and restored
+Boniface, the first archbishop of Mainz, of [[Frauenlob]], the Minnesinger,
+and of many of the [[Electors|electors]]. Mainz possesses nine other Roman Catholic
+churches, the most noteworthy of which are those of St [[Ignatius]], with a
+finely painted [[Ceiling|ceiling]], of St Stephen, built 1257-1328, and restored
 after an explosion in 1857, and of St Peter. The old electoral palace
 (1627-1678), a large building of red sandstone, now contains a valuable
 collection of Roman and Germanic antiquities, a picture gallery, a
 natural history museum, the Gutenberg Museum, and a library of 220,000
 volumes. Among the other principal buildings are the palace of the grand
-duke of Hesse, built in 1731-1739 as a lodge of the Teutonic order, the
+duke of [[Hesse]], built in 1731-1739 as a [[Lodge|lodge]] of the Teutonic order, the
 theatre, the arsenal, and the government buildings. A handsome statue of
 Gutenberg, by Thorwaldsen, was erected at Mainz in 1837. Mainz still
 retains many relics of the Roman period, the most important of which is
 the Eigelstein, a monument believed to have been erected by the Roman
-legions in honour of Drusus. It stands within the citadel, which
+[[Legion|legions]] in honour of [[Drusus]]. It stands within the citadel, which
 occupies the site of the Roman castrum. A little to the south-west of
 the town are the remains of a large Roman aqueduct, of which upwards of
 sixty pillars are still standing. The educational and scientific
@@ -65,14 +65,14 @@ by the French in 1798.
 The site of Mainz would seem to mark it out naturally as a great centre
 of trade, but the illiberal rule of the archbishops and its military
 importance seriously hampered its commercial and industrial development,
-and prevented it from rivalling its neighbour Frankfort. It is now,
+and prevented it from rivalling its neighbour [[Frankfort]]. It is now,
 however, the chief emporium of the Rhenish wine traffic, and also
 carries on an extensive transit trade in grain, timber, flour,
 petroleum, paper and vegetables. The natural facilities for carriage by
 water are supplemented by the extensive railway system. Large new
 harbours to the north of the city were opened in 1887. The principal
 manufactures are leather goods, furniture, carriages, chemicals, musical
-instruments and carpets, for the first two of which the city has
+instruments and [[Carpet|carpets]], for the first two of which the city has
 attained a wide reputation. Other industries include brewing and
 printing. Mainz is the seat of the administrative and judicial
 authorities of the province of Rhein-Hessen, and also of a Roman
@@ -96,7 +96,7 @@ Charlemagne, who had a palace in the neighbourhood, gave privileges to
 Mainz, which rose rapidly in wealth and importance, becoming a free city
 in 1118. During the later middle ages it was the seat of several diets,
 that of 1184 being of unusual size and splendour. In 1160 the citizens
-revolted against Archbishop Arnold, and in 1163 the walls of the city
+revolted against Archbishop [[Arnold]], and in 1163 the walls of the city
 were pulled down by order of the emperor Frederick I. But these events
 did not retard its progress. In 1244 certain rights of self-government
 were given to the citizens; and in 1254 Mainz was the centre and
@@ -104,7 +104,7 @@ mainspring of a powerful league of Rhenish towns. Owing to its
 commercial prosperity it was known as _goldene_ Mainz, and its
 population is believed to have been as great as it is at the present
 day. But soon a decline set in. In 1462 there was warfare between two
-rival archbishops, Diether or Dietrich II. of Isenburg (d. 1463) and
+rival archbishops, Diether or [[Dietrich]] II. of Isenburg (d. 1463) and
 Adolph II. of Nassau (d. 1475). The citizens espoused the cause of
 Diether, but their city was captured by Adolph; it was then deprived of
 its privileges and was made subject to the archbishop. Many of the
@@ -115,7 +115,7 @@ occupied by the Swedes in 1631 and by the French in 1644, the
 fortifications being strengthened by the former under Gustavus Adolphus;
 in 1688 it was captured again by the French, but they were driven out in
 the following year. In 1792 the citizens welcomed the ideas of the
-French Revolution; they expelled their archbishop, Friedrich Karl Joseph
+[[French Revolution]]; they expelled their archbishop, [[Friedrich]] Karl Joseph
 d'Erthal, and opened their gates to the French troops. Taken and retaken
 several times during the next few years, Mainz was ceded to France by
 the treaty of Campo Formio in 1797, and again by the Treaty of Lunéville
@@ -129,8 +129,8 @@ disturbances in the city in 1848.
   1829); C. A. Schaab, _Geschichte der Stadt Mainz_ (Mainz, 1841-1845);
   K. Klein, _Mainz und seine Umgebungen_ (1868); C. G. Bockenheimer,
   _Beiträge zur Geschichte der Stadt Mainz_ (1874); Neeb, _Führer durch
-  Mainz und Umgebung_ (Stuttgart, 1903); and O. Beck, _Mainz und sein
-  Handel_ (Mainz, 1881).
+  Mainz und Umgebung_ (Stuttgart, 1903); and O. [[Beck]], _Mainz und sein
+  [[Handel]]_ (Mainz, 1881).
 
 The ARCHBISHOPRIC OF MAINZ, one of the seven electorates of the Holy
 Roman Empire, became a powerful state during the middle ages and
@@ -160,7 +160,7 @@ The archbishopric itself was transferred to Regensburg.
   Schunk, _Beiträge zur Mainzer Geschichte_ (Frankfort, 1788-1791);
   Hennes, _Die Erzbischöfe von Mainz_ (Mainz, 1879); Ph. Jaffé,
   _Monumenta moguntina_ (Berlin, 1866), and J. F. Böhmer and C. Will,
-  _Regesta archiepiscoporum moguntinensium_ (Innsbruck, 1877-1886).
+  _Regesta archiepiscoporum moguntinensium_ ([[Innsbruck]], 1877-1886).
 
 ## See also
 

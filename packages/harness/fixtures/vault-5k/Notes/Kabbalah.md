@@ -17,7 +17,7 @@ the creation of the first man.
   Doctrine of the Sephiroth.
 
 The cardinal doctrines of the Kabbalah embrace the nature of the Deity,
-the Divine emanations or _Sephiroth_, the cosmogony, the creation of
+the Divine emanations or _Sephiroth_, the [[Cosmogony|cosmogony]], the creation of
 angels and man, their destiny, and the import of the revealed law.
 According to this esoteric doctrine, God, who is boundless, and above
 everything, even above being and thinking, is called _En Soph_ ([Greek:
@@ -30,11 +30,11 @@ become active and creative. As creation involves intention, desire,
 thought and work, and as these are properties which imply limit and
 belong to a finite being, and moreover as the imperfect and
 circumscribed nature of this creation precludes the idea of its being
-the direct work of the infinite and perfect, the En Soph had to become
+the direct work of the [[Infinite|infinite]] and perfect, the En Soph had to become
 creative, through the medium of ten Sephiroth or intelligences, which
 emanated from him like rays proceeding from a luminary.
 
-Now the wish to become manifest and known, and hence the idea of
+Now the wish to become [[Manifest|manifest]] and known, and hence the idea of
 creation, is co-eternal with the inscrutable Deity, and the first
 manifestation of this primordial will is called the first _Sephirah_ or
 emanation. This first Sephirah, this spiritual substance which existed
@@ -81,7 +81,7 @@ In their totality and unity the ten Sephiroth are not only denominated
 the World of Sephiroth, or the World of Emanations, but, owing to the
 above representation, are called the primordial or archetypal man (=
 [Greek: protogonos]) and the heavenly man. It is this form which, as we
-are assured, the prophet Ezekiel saw in the mysterious chariot (Ezek. i.
+are assured, the prophet [[Ezekiel]] saw in the mysterious chariot (Ezek. i.
 1-28), and of which the earthly man is a faint copy.
 
 As the three triads respectively represent intellectual, moral and
@@ -125,7 +125,7 @@ withdrawn from them.
 
 The conjunction of the Sephiroth, or, according to the language of the
 Kabbalah, the union of the crowned King and Queen, produced the universe
-in their own image. Worlds came into existence before the En Soph
+in their own [[Image|image]]. Worlds came into existence before the En Soph
 manifested himself in the human form of emanations, but they could not
 continue, and necessarily perished because the conditions of development
 which obtained with the sexual opposites of the Sephiroth did not exist.
@@ -167,7 +167,7 @@ Sephiric system of a decade of emanations.
   men. The myriads of the angelic hosts who people this world are
   divided into ten ranks, answering to the ten Sephiroth, and each one
   of these numerous angels is set over a different part of the universe,
-  and derives his name from the heavenly body or element which he guards
+  and derives his name from the heavenly body or element which he [[Guards|guards]]
   (_Zohar_, i. 42). From this world finally emanated (4) the World of
   Action, also called the World of Matter. Its ten Sephiroth are made up
   of the grosser elements of the former three worlds; they consist of
@@ -179,7 +179,7 @@ Sephiric system of a decade of emanations.
   than the absence of all visible form and organization; the third
   degree is the abode of darkness; whilst the remaining seven are "the
   seven infernal halls," occupied by the demons, who are the incarnation
-  of all human vices. These seven hells are subdivided into innumerable
+  of all human vices. These seven [[Hell|hells]] are subdivided into innumerable
   compartments corresponding to every species of sin, where the demons
   torture the poor deluded human beings who have suffered themselves to
   be led astray whilst on earth. The prince of this region of darkness
@@ -211,7 +211,7 @@ attracted who understand the reading of the mysteries in the human
 face" (_Zohar_, ii. 76). The human form is shaped after the four letters
 which constitute the Jewish Tetragrammaton (q.v.; see also JEHOVAH). The
 head is in the shape of [Hebrew: iod], the arms and the shoulders are
-like [Hebrew: hei], the breast like [Hebrew: vav], and the two legs with
+like [Hebrew: hei], the [[Breast|breast]] like [Hebrew: vav], and the two legs with
 the back again resemble [Hebrew: hei] (_Zohar_, ii. 72). The souls of
 the whole human race pre-exist in the World of Emanations, and are all
 destined to inhabit human bodies. Like the Sephiroth from which it
@@ -272,14 +272,14 @@ narrative points not only to the single instance in question, but also
 to generals" (_Zohar_, iii. 149, cf. 152).
 
   To obtain these heavenly mysteries, which alone make the Torah
-  superior to profane codes, definite hermeneutical rules are employed,
+  superior to profane [[Code|codes]], definite hermeneutical rules are employed,
   of which the following are the most important. (1) The words of
   several verses in the Hebrew Scriptures which are regarded as
   containing a recondite sense are placed over each other, and the
   letters are formed into new words by reading them vertically. (2) The
   words of the text are ranged in squares in such a manner as to be read
   either vertically or boustrophedon. (3) The words are joined together
-  and redivided. (4) The initials and final letters of several words are
+  and redivided. (4) The [[Initials|initials]] and final letters of several words are
   formed into separate words. (5) Every letter of a word is reduced to
   its numerical value, and the word is explained by another of the same
   quantity. (6) Every letter of a word is taken to be the initial or
@@ -288,7 +288,7 @@ to generals" (_Zohar_, iii. 149, cf. 152).
   two letters which thus become associated are interchanged. By this
   permutation, _Aleph_, the first letter of the alphabet, becomes
   _Lamed_, the twelfth letter; _Beth_ becomes _Mem_, and so on. This
-  cipher alphabet is called _Albam_, from the first interchangeable
+  [[Cipher|cipher]] alphabet is called _Albam_, from the first interchangeable
   pairs. (8) The commutation of the twenty-two letters is effected by
   the last letter of the alphabet taking the place of the first, the
   last but one the place of the second, and so forth. This cipher is
@@ -298,7 +298,7 @@ to generals" (_Zohar_, iii. 149, cf. 152).
   Scripture.[4] Thus Canon V., according to which a word is reduced to
   its numerical value and interpreted by another word of the same value,
   is recognized in the New Testament (cf. Rev. xiii. 18). Canon VI. is
-  adopted by Irenaeus, who tells us that, according to the learned among
+  adopted by [[Irenaeus]], who tells us that, according to the learned among
   the Hebrews, the name Jesus contains two letters and a half, and
   signifies that Lord who contains heaven and earth [[Hebrew: ieshu] =
   [Hebrew: ieova shamaim vaaretz]] (_Against Heresies_, ii. xxiv., i.
@@ -311,7 +311,7 @@ to generals" (_Zohar_, iii. 149, cf. 152).
 Exegesis of this sort is not the characteristic of any single circle,
 people or century; unscientific methods of biblical interpretation have
 prevailed from Philo's treatment of the Pentateuch to modern apologetic
-interpretations of Genesis, ch. i.[5] The Kabbalah itself is but an
+interpretations of [[Genesis]], ch. i.[5] The Kabbalah itself is but an
 extreme and remarkable development of certain forms of thought which had
 never been absent from Judaism; it is bound up with earlier tendencies
 to mysticism, with man's inherent striving to enter into communion with
@@ -321,7 +321,7 @@ Wisdom, Gnosticism--these and many other features combine to show the
 antiquity of tendencies which, clad in other shapes, are already found
 in the old pre-Christian Oriental religions.[6] In its more mature form
 the Kabbalah belongs to the period when medieval Christian mysticism was
-beginning to manifest itself (viz. in Eckhart, towards end of 13th
+beginning to manifest itself (viz. in [[Eckhart]], towards end of 13th
 century); it is an age which also produced the rationalism of Maimonides
 (q.v.). Although some of its foremost exponents were famous Talmudists,
 it was a protest against excessive intellectualism and Aristotelian
@@ -344,7 +344,7 @@ That this brought moral laxity was a stronger reason for condemning the
 Kabbalah, and the evil effects of nervous degeneration find a more
 recent illustration in the mysticism of the Chasidim (_Hasidim_,
 "saints"), a Jewish sect in eastern Europe which started from a movement
-in the 18th century against the exaggerated casuistry of contemporary
+in the 18th century against the exaggerated [[Casuistry|casuistry]] of contemporary
 rabbis, and combined much that was spiritual and beautiful with extreme
 emotionalism and degradation.[9] The appearance of the Kabbalah and of
 other forms of mysticism in Judaism may seem contrary to ordinary and
@@ -385,29 +385,29 @@ doctrines of the New Testament made many Kabbalists of the highest
 position in the synagogue embrace the Christian faith and write
 elaborate books to win their Jewish brethren over to Christ. As early as
 1450 a company of Jewish converts in Spain, at the head of which were
-Paul de Heredia, Vidal de Saragossa de Aragon, and Davila, published
+Paul de Heredia, Vidal de Saragossa de [[Aragon]], and Davila, published
 compilations of Kabbalistic treatises to prove from them the doctrines
 of Christianity. They were followed by Paul Rici, professor at Pavia,
-and physician to the emperor Maximilian I. Among the best-known
+and physician to the emperor [[Maximilian]] I. Among the best-known
 non-Jewish exponents of the Kabbalah were the Italian count Pico di
 Mirandola (1463-1494), the renowned Johann Reuchlin (1455-1522),
 Heinrich Cornelius Agrippa of Nettesheim (1487-1535), Theophrastus
-Paracelsus (1493-1541), and, later, the Englishman Robert Fludd
+Paracelsus (1493-1541), and, later, the Englishman Robert [[Fludd]]
 (1574-1637). Prominent among the "nine hundred theses" which Mirandola
 had placarded in Rome, and which he undertook to defend in the presence
 of all European scholars, whom he invited to the Eternal City, promising
 to defray their travelling expenses, was the following: "No science
 yields greater proof of the divinity of Christ than magic and the
 Kabbalah." Mirandola so convinced Pope Sixtus of the paramount
-importance of the Kabbalah as an auxiliary to Christianity that his
+importance of the Kabbalah as an [[Auxiliary|auxiliary]] to Christianity that his
 holiness exerted himself to have Kabbalistic writings translated into
 Latin for the use of divinity students. With equal zeal did Reuchlin act
 as the apostle of the Kabbalah. His treatises exercised an almost magic
 influence upon the greatest thinkers of the time. Pope Leo X. and the
-early Reformers were alike captivated by the charms of the Kabbalah as
+early Reformers were alike captivated by the [[Charm|charms]] of the Kabbalah as
 propounded by Reuchlin, and not only divines, but statesmen and
 warriors, began to study the Oriental languages in order to be able to
-fathom the mysteries of Jewish theosophy. The _Zohar_, that farrago of
+[[Fathom|fathom]] the mysteries of Jewish theosophy. The _Zohar_, that farrago of
 absurdity and spiritual devotion, was the weapon with which these
 Christians defended Jewish literature against hostile ecclesiastic
 bodies (Abrahams, _Jew. Lit._ p. 106). Thus the Kabbalah linked the old
@@ -458,9 +458,9 @@ history of European scholarship and thought.
   treatise on physiognomy and psychology; (7) "The Aged," i.e. the
   prophet Elijah, discoursing with R. Simon on the doctrine of
   transmigration as evolved from Exod. xxi. 1-xxiv. 18; (8) "The Book of
-  Secrets," discourses on cosmogony and demonology; (9) "The Great
+  Secrets," discourses on cosmogony and [[Demonology|demonology]]; (9) "The Great
   Assembly," discourses of R. Simon to his numerous assembly of
-  disciples on the form of the Deity and on pneumatology; (10) "The
+  [[Disciple|disciples]] on the form of the Deity and on pneumatology; (10) "The
   Young Man," discourses by young men of superhuman origin on the
   mysteries of ablutions; and (11) "The Small Assembly," containing the
   discourses on the Sephiroth which R. Simon delivered to the small
@@ -494,10 +494,10 @@ history of European scholarship and thought.
   speculations about the En Soph, the Sephiroth, &c., to the same age.
 
   LITERATURE.--The study of the whole subject being wrapped up with
-  Gnosticism and Oriental theosophy, the related literature is immense.
+  [[Gnosticism]] and Oriental theosophy, the related literature is immense.
   Among the more important works may be mentioned, Baron von Rosenroth's
-  _Kabbala Denudata_ (Sulzbach, 1677-1678; Frankfort, 1684); A. Franck,
-  _La Kabbale_ (Paris, 2nd ed., 1889; German by Jellinek, Leipzig,
+  _Kabbala Denudata_ (Sulzbach, 1677-1678; [[Frankfort]], 1684); A. Franck,
+  _La Kabbale_ (Paris, 2nd ed., 1889; German by [[Jellinek]], Leipzig,
   1844); C. D. Ginsburg, _The Kabbalah, its Doctrines, Development and
   Literature_ (London, 1865); I. Meyer, _Qabbalah_ (Philadelphia, 1888);
   Rubin, _Kabbala und Agada_ (Vienna, 1895), _Heidentum und Kabbalah_
@@ -524,10 +524,10 @@ FOOTNOTES:
 
   [4] See F. Weber, _Judische Theologie_ (1897), pp. 118 sqq.
 
-  [5] See C. A. Briggs, _Study of Holy Scripture_ (1899), pp. 427 sqq.,
+  [5] See C. A. [[Brigg|Briggs]], _Study of Holy Scripture_ (1899), pp. 427 sqq.,
     570.
 
-  [6] Even the "over-Soul" of the mystic Isaac Luria (1534-1572) is a
+  [6] Even the "over-Soul" of the mystic [[Isaac]] Luria (1534-1572) is a
     conception known in the 3rd century A.D. (Rabbi Resh Lakish). For the
     early stages of Kabbalistic theories, see K. Kohler, _Jew. Ency._
     iii. 457 seq., and L. Ginzberg, ibid. 459 seq.; and for examples of

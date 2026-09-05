@@ -15,9 +15,9 @@ In the west is the Schneifels or Schnee-Eifel; and the southern part,
 where the most picturesque scenery and chief geological interest is
 found, is called the Vorder Eifel.
 
-The Eifel is an ancient massif of folded Devonian rocks upon the margins
+The Eifel is an ancient [[Massif|massif]] of folded Devonian rocks upon the margins
 of which, near Hillesheim and towards Bitburg and Trier, rest
-unconformably the nearly undisturbed sandstones, marls and limestones of
+unconformably the nearly undisturbed sandstones, [[Marl|marls]] and [[Limestone|limestones]] of
 the Trias. On the southern border, at Wittlich, the terrestrial deposits
 of the Permian Rothliegende are also met with. The slates and sandstones
 of the Lower Devonian form by far the greater part of the region; but
@@ -28,7 +28,7 @@ Upper Devonian. Upon the ancient floor of folded Devonian strata stand
 numerous small volcanic cones, many of which, though long extinct, are
 still very perfect in form. The precise age of the eruptions is
 uncertain. The only sign of any remaining volcanic activity is the
-emission in many places of carbon dioxide and of heated waters. There is
+emission in many places of [[Carbon|carbon]] dioxide and of heated waters. There is
 no historic or legendary record of any eruption, but nevertheless the
 eruptions must have continued to a very recent geological period. The
 lavas of Papenkaule are clearly posterior to the excavation of the
@@ -64,7 +64,7 @@ obelisk at Washington by 429 ft., and that of St Paul's cathedral by 580
 ft. Its framework is composed essentially of four uprights, which rise
 from the corners of a square measuring 100 metres on the side; thus the
 area it covers at its base is nearly 2½ acres. These uprights are
-supported on huge piers of masonry and concrete, the foundations for
+supported on huge piers of [[Masonry|masonry]] and concrete, the foundations for
 which were carried down, by the aid of iron caissons and compressed air,
 to a depth of about 15 metres on the side next the Seine, and about 9
 metres on the other side. At first they curve upwards at an angle of

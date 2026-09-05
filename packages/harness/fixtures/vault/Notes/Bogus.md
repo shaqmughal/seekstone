@@ -9,7 +9,7 @@ type: note
 
 BOGUS (of uncertain origin, possibly connected with the Fr. _bagasse_,
 sugar-cane refuse), a slang word, originally used in America of the
-apparatus employed in counterfeiting coins, and now generally of any
+apparatus employed in [[Counterfeiting|counterfeiting]] [[Coin|coins]], and now generally of any
 sham or spurious transaction.
 
 ## References

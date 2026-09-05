@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Appiani"
 APPIANI, ANDREA (1754-1817), the best fresco painter of his age, was
 born at Milan. He was made pensioned artist to the kingdom of Italy by
 Napoleon, but lost his allowance after the events of 1814 and fell into
-poverty. Correggio was his model, and his best pieces, which are in the
+poverty. [[Correggio]] was his model, and his best pieces, which are in the
 church of Santa Maria presso San Celso and the royal palace at Milan,
 almost rival those of his great master. He also painted Napoleon and the
 chief personages of his court. Among the most graceful of his

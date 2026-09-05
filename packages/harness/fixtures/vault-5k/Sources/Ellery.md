@@ -14,7 +14,7 @@ until his death at Newport, on the 15th of February 1820, he was
 collector of the customs for the district of Newport.
 
   See Edward T. Channing, "Life of William Ellery," in vol. 6 of Jared
-  Sparks's _American Biography_ (Boston and London, 1836).
+  Sparks's _American Biography_ ([[Boston]] and London, 1836).
 
 ## References
 

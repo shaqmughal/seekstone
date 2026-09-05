@@ -8,7 +8,7 @@ type: source
 # Beer
 
 BEER, a beverage obtained by a process of alcoholic fermentation mainly
-from cereals (chiefly malted barley), hops and water. The history of
+from cereals (chiefly malted barley), [[Hop|hops]] and water. The history of
 beer extends over several thousand years. According to Dr Bush, a beer
 made from malt or red barley is mentioned in Egyptian writings as early
 as the fourth dynasty. It was called [Hieroglyph] or _heqa_. Papyri of
@@ -20,10 +20,10 @@ frequently in Scripture and elsewhere as being most abundant there, and
 no record exists of the vine being destroyed, we must conclude that the
 historian was only partially acquainted with the productions of that
 most fertile country. Pliny (_Natural History_, xxii. 82) informs us
-that the Egyptians made wine from corn, and gives it the name of
+that the Egyptians made wine from [[Corn|corn]], and gives it the name of
 _sythum_, which, in the Greek, means drink from barley. The Greeks
 obtained their knowledge of the art of preparing beer from the
-Egyptians. The writings of Archilochus, the Parian poet and satirist who
+Egyptians. The writings of [[Archilochus]], the Parian poet and satirist who
 flourished about 650 B.C., contain evidence that the Greeks of his day
 were acquainted with the process of brewing. There is, in fact, little
 doubt that the discovery of beer and its use as an exhilarating beverage
@@ -36,7 +36,7 @@ bryton]. In the time of Tacitus (1st century after Christ), according to
 him, beer was the usual drink of the Germans, and there can be little
 doubt that the method of malting barley was then known to them. Pliny
 (_Nat. Hist._ xxii. 82) mentions the use of beer in Spain under the name
-of _celia_ and _ceria_ and in Gaul under that of _cerevisia_; and
+of _celia_ and _ceria_ and in [[Gaul]] under that of _cerevisia_; and
 elsewhere (xiv. 29) he says:--"The natives who inhabit the west of
 Europe have a liquid with which they intoxicate themselves, made from
 corn and water. The manner of making this liquid is somewhat different
@@ -45,10 +45,10 @@ but its nature and properties are everywhere the same. The people in
 Spain in particular brew this liquid so well that it will keep good a
 long time. So exquisite is the cunning of mankind in gratifying their
 vicious appetites that they have thus invented a method to make water
-itself produce intoxication."
+itself produce [[Intoxication|intoxication]]."
 
 The knowledge of the preparation of a fermented beverage from cereals in
-early times was not confined to Europe. Thus, according to Dr H.H. Mann,
+early times was not confined to Europe. Thus, according to Dr H.H. [[Mann]],
 the Kaffir races of South Africa have made for ages--and still make--a
 kind of beer from millet, and similarly the natives of Nubia, Abyssinia
 and other parts of Africa prepare an intoxicating beverage, generally
@@ -72,8 +72,8 @@ Matilda, daughter of Nicholas de Shoben, had re-leased to the abbot and
 convent of Burton-on-Trent certain tenements within and without the
 town; for which re-lease they granted her, daily for life, two white
 loaves from the monastery, two gallons of conventual beer, and one
-penny, besides seven gallons of beer for the men. The abbots of Burton
-apparently made their own malt, for it was a common covenant in leases
+penny, besides seven gallons of beer for the men. The abbots of [[Burton]]
+apparently made their own malt, for it was a common [[Covenant|covenant]] in leases
 of mills belonging to the abbey that the malt of the lords of the manor,
 both spiritual and temporal, should be ground free of charge. Robert
 Plot, in his _Natural History of Staffordshire_ (1686), refers to the
@@ -82,16 +82,16 @@ art well known in this country good ale is made, in the management of
 which they have a knack of fining it in three days to that degree that
 it shall not only be potable, but is clear and palatable as we could
 desire any drink of this kind to be." In 1630 Burton beer began to be
-known in London, being sold at "Ye Peacocke" in Gray's Inn Lane, and
+known in London, being sold at "Ye Peacocke" in Gray's Inn [[Lane]], and
 according to the _Spectator_ was in great demand amongst the visitors in
 Vauxhall. Until tea and coffee were introduced, beer and ale (see ALE)
 were, practically speaking, the only popular beverages accessible to the
-general body of consumers. Since the advent of tea, coffee, cocoa and
-mineral waters, the character of British beers has undergone a gradual
+general body of consumers. Since the advent of tea, coffee, [[Cocoa|cocoa]] and
+mineral waters, the character of British beers has undergone a [[Gradual|gradual]]
 modification, the strongly alcoholic, heavily hopped liquids consumed by
 the previous generation slowly giving place to the lighter beverages in
 vogue at the present time. The old "stock bitter" has given way to the
-"light dinner ale," and "porter" (so called from the fact that it was
+"light [[Dinner|dinner]] ale," and "porter" (so called from the fact that it was
 the popular drink amongst the market porters of the 18th century) has
 been largely replaced by "mild ale." A certain quantity of strong
 beer--such as heavy stouts and "stock" and "Scotch" ales--is still
@@ -116,7 +116,7 @@ readily assimilable form.
 
 It is probable that the average adult member of the British working
 classes consumes not less than two pints of beer daily. A reasonable
-calculation places the total proteids and carbohydrates consumed by the
+calculation places the total proteids and [[Carbohydrate|carbohydrates]] consumed by the
 average worker at 140 and 400 grammes respectively. Taking the proteid
 content of the average beer at 0.4% and the carbohydrate content at 4%,
 a simple calculation shows that about 3% of the total proteid and 11% of
@@ -129,7 +129,7 @@ from the following tables.
 
 A. ENGLISH BEERS.
 
-  (Analyses by J.L. Baker, Hulton & P. Schidrowitz.)
+  (Analyses by J.L. [[Baker]], Hulton & P. Schidrowitz.)
 
     I. _Mild Ales._
 
@@ -286,7 +286,7 @@ Kingdom. In a sense, therefore, England may still claim pre-eminence as
 a beer-producing nation. Large as the _per capita_ consumption in the
 United Kingdom may seem, it is considerably less than is the case in
 Bavaria, which stands at the head of the list with over 50 gallons, and
-in Belgium, which comes second with 47.7 gallons. In the city of Munich
+in [[Belgium]], which comes second with 47.7 gallons. In the city of Munich
 the consumption is actually over 70 gallons, that is to say, about 1-1/2
 pints a day for every man, woman and child. It is curious to note that
 in Germany, which is usually regarded as a beer-drinking country _par
@@ -297,7 +297,7 @@ Islands (consumption of spirits per head: Germany, 1.76 gallons; United
 Kingdom, 0.99 gallons). This is accounted for by the fact that the
 peasantry of the northern and eastern portions of the German empire
 consume spirits almost exclusively. In the British colonies beer is
-generally one of the staple drinks, but if we except Western Australia,
+generally one of the staple drinks, but if we except Western [[Australia]],
 where about 25 gallons per head of population are consumed, the demand
 is much smaller than in the United Kingdom. In Australia generally, the
 _per capita_ consumption amounts to about 12 gallons, in New Zealand to
@@ -322,7 +322,7 @@ FOOTNOTES:
   [7] London Porter or Cooper.
 
   [8] The specific gravity, or "gravity" as it is always termed in the
-    industry, of the brewer is 1000 times the specific gravity of the
+    industry, of the [[Brewer|brewer]] is 1000 times the specific gravity of the
     physicist. This is purely a matter of convention and convenience.
     Thus when a brewer speaks of a wort of a "gravity" of 1045
     (ten-forty-five) he means a wort having a specific gravity of 1.045.
@@ -337,7 +337,7 @@ FOOTNOTES:
     14.28, which indicates that the wort from which the beer was
     manufactured contained 14.28% of solids. In the trade the gravity of
     a beer (or rather of the wort from which it is derived) is generally
-    expressed in pounds per barrel. This means the excess in weight of a
+    expressed in pounds per [[Barrel|barrel]]. This means the excess in weight of a
     barrel of the wort over the weight of a barrel of water. The weight
     of a barrel (36 gallons) of water is 360 lb.; in the above example
     the weight of a barrel of the beer wort is 360 X 1.05513 = 379.8. The

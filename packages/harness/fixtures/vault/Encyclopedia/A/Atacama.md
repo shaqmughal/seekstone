@@ -1,6 +1,6 @@
 # Atacama
 
-ATACAMA, DESERT OF, an arid, barren and saline region of western South
+ATACAMA, [[Desert|DESERT]] OF, an arid, barren and saline region of western South
 America, covering the greater part of the Chilean provinces of Atacama
 and Antofagasta, the Argentine territory of Los Andes, and the
 south-western corner of the Bolivian department of Potosi. The higher
@@ -15,7 +15,7 @@ from the snow-clads peaks produce some slight displays of fertility, but
 the general aspect of the plateaus, which are dry and cold in winter and
 in summer are swept by rainstorms and covered by occasional tufts of
 coarse grass, is barren and forbidding. They are also broken by great
-saline lagoons and dry salt basins. This region forms the Argentine
+saline [[Lagoon|lagoons]] and dry salt basins. This region forms the Argentine
 territory of Los Andes and is habitable in places. On the western slope
 the land descends gradually to the Pacific, being broken into great
 basins, or terraces, by mountainous ridges in its higher elevations,
@@ -25,13 +25,13 @@ bluffs, having an elevation of 800 to 1500 ft., and looking from the sea
 like a range of flat-topped hills. This desolate region, which is
 rainless and absolutely barren, and was considered worthless for three
 and a half centuries, is now a treasure-house of mineral wealth,
-abounding in copper, silver, lead, nickel, cobalt, iron, nitrates and
+abounding in copper, silver, lead, nickel, [[Cobalt|cobalt]], iron, nitrates and
 borax. It is occupied by many mining settlements, and includes some of
 the most productive copper and silver mines of the world.
 
   See L. Darapsky, "Zur Geographic der Puna de Atacama," _Zeits. Ges.
   Erdk. zu Berlin_, 1899; G.E. Church, "South America: an Outline of its
-  Physical Geography," _Geographical Journal_, 1901; John Ball, _Notes
+  Physical [[Geography]]," _Geographical Journal_, 1901; John [[Ball]], _Notes
   of a Naturalist in South America_ (London, 1887); F. O'Driscoll, "A
   Journey to the North of the Argentine Republic," _Geographical
   Journal_, 1904.     (A. J. L.)

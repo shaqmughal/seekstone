@@ -20,7 +20,7 @@ condition. The broad macadamized streets and regular squares bordered
 with trees give the town an attractive appearance; and it has the
 advantage, a rare one in Egypt, of being surrounded on three sides by
 flourishing gardens. The Quai Mehemet Ali, which lies along the canal
-for upwards of a mile, contains the chalet occupied by Ferdinand de
+for upwards of a mile, contains the chalet occupied by [[Ferdinand]] de
 Lesseps during the building of the canal. At the end of the quay are the
 works for supplying Port Said with water. On the other side of the lake
 are the so-called Quarries of the Hyenas, from which the building

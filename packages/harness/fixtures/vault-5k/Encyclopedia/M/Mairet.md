@@ -14,7 +14,7 @@ _Chriséide et Arimand_, followed in 1626 by _Sylvie_, a "pastoral
 tragi-comedy." In 1634 appeared his masterpiece, _Sophonisbe_, which
 marks, in its observance of the rules, the beginning of the "regular"
 tragedies. Mairet was one of the bitterest assailants of Corneille in
-the controversy over _The Cid_. It was perhaps his jealousy of Corneille
+the controversy over _The [[Cid]]_. It was perhaps his [[Jealousy|jealousy]] of Corneille
 that made him give up writing for the stage. He was appointed in 1648
 official representative of the Franche-Comté in Paris, but in 1653 he
 was banished by Mazarin. He was subsequently allowed to return, but in

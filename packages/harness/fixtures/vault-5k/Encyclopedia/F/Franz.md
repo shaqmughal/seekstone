@@ -7,14 +7,14 @@ type: note
 
 # Franz
 
-FRANZ, ROBERT (1815-1892), German composer, was born at Halle on the
+FRANZ, ROBERT (1815-1892), German composer, was born at [[Halle]] on the
 28th of June 1815. One of the most gifted of German song writers, he
 suffered in early life, as many musicians have suffered, from the
 hostility of his parents to a musical career. He was twenty years old
 when, his father's animosity conquered, he was allowed to live in Dessau
 to study organ-playing under Schneider. The two years of dry study under
 that famous teacher were advantageous chiefly in making him uncommonly
-intimate with the works of Bach and Handel, his knowledge of which he
+intimate with the works of Bach and [[Handel]], his knowledge of which he
 showed in his editions of the _Matthaeus Passion_, _Magnificat_, ten
 cantatas, and of the _Messiah_ and _L'Allegro_, though some of these
 editions have long been a subject of controversy among musicians. In

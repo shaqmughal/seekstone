@@ -34,17 +34,17 @@ that the silver isomorphously replaces lead, but it is to be noted that
 native silver has been detected as an enclosure in galena.
 
 Galena is of wide distribution, and occurs usually in metalliferous
-veins traversing crystalline rocks, clay-slates and limestones, and also
-as pockets in limestones. It is often associated with blende and
-pyrites, and with calcite, fluorspar, quartz, barytes, chalybite and
+veins traversing crystalline rocks, clay-slates and [[Limestone|limestones]], and also
+as pockets in limestones. It is often associated with [[Blende|blende]] and
+pyrites, and with [[Calcite|calcite]], fluorspar, quartz, [[Barytes|barytes]], chalybite and
 pearlspar as gangue minerals; in the upper oxidized parts of the
-deposits, cerussite and anglesite occur as alteration products. The
+deposits, [[Cerussite|cerussite]] and [[Anglesite|anglesite]] occur as alteration products. The
 mineral has occasionally been observed as a recent formation replacing
 organic matter, such as wood; and it is sometimes found in beds of coal.
 As small concretionary nodules, it occurs disseminated through sandstone
-at Kommern in the Eifel. In the lead-mining districts of Derbyshire and
+at Kommern in the [[Eifel]]. In the lead-mining districts of Derbyshire and
 the north of England the ore occurs as veins and flats in the
-Carboniferous Limestone series, whilst in Cornwall the veins traverse
+Carboniferous Limestone series, whilst in [[Cornwall]] the veins traverse
 clay-slates. In the Upper Mississippi lead region of Missouri, Illinois,
 Iowa and Wisconsin the ore fills large cavities or chambers in
 limestone.

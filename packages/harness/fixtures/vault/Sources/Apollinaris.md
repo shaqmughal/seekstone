@@ -8,10 +8,10 @@ id: 42-7034
 
 # Apollinaris
 
-APOLLINARIS, "the Younger" (d. A.D. 390), bishop of Laodicea in Syria.
+APOLLINARIS, "the Younger" (d. A.D. 390), bishop of [[Laodicea]] in Syria.
 He collaborated with his father Apollinaris the Elder in reproducing the
 Old Testament in the form of Homeric and Pindaric poetry, and the New
-after the fashion of Platonic dialogues, when the emperor Julian had
+after the fashion of Platonic [[Dialogue|dialogues]], when the emperor Julian had
 forbidden Christians to teach the classics. He is best known, however,
 as a warm opponent of Arianism, whose eagerness to emphasize the deity
 of Christ and the unity of His person led him so far as a denial of the
@@ -22,7 +22,7 @@ spiritualized form of humanity. Over against this the orthodox or
 Catholic position maintained that Christ assumed human nature in its
 entirety including the [Greek: nous], for only so could He be example
 and redeemer. It was held that the system of Apollinaris was really
-Docetism (see DOCETAE), that if the Godhood without constraint swayed
+Docetism (see [[Docetae|DOCETAE]]), that if the Godhood without constraint swayed
 the manhood there was no possibility of real human probation or of real
 advance in Christ's manhood. The position was accordingly condemned by
 several synods and in particular by that of Constantinople (A.D. 381).

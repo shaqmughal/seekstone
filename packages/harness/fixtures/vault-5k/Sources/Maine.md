@@ -15,7 +15,7 @@ group. It lies between 43° 4´ and 47° 27´ 33´´ N., and between 66° 56´
 Quebec; N. and E. by the Canadian province of New Brunswick, from which
 it is separated in part by the natural barriers of the Saint John River,
 the Grand (or Schoodic) Lakes, the Saint Croix River, and Passamaquoddy
-Bay; S.S.E. by the Atlantic Ocean; and W. by New Hampshire, the
+Bay; S.S.E. by the [[Atlantic Ocean]]; and W. by New Hampshire, the
 Piscataqua and Salmon Falls rivers being the natural boundary lines at
 the S.W. The area of the state is 33,040 sq. m., 3145 sq. m. being water
 surface.
@@ -25,7 +25,7 @@ This is due to the cool and refreshing summer climate; the picturesque
 coast and its many islands, which are favourite grounds for camps and
 summer cottages; the mountains, and the beautiful lakes and rivers, many
 of which afford opportunities for good fishing and canoeing. Among the
-more widely known resorts are Mount Desert Island, on which is Bar
+more widely known resorts are Mount [[Desert]] Island, on which is Bar
 Harbor, a fashionable summer place of great beauty; Long Island, Orr's
 and other islands in Casco Bay; Old Orchard, with a gently sloping white
 sand sea-beach 9 m. long, Rangeley and Moosehead Lakes, favourite
@@ -42,7 +42,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   mountain peaks and clusters of peaks, and below which are cut numerous
   river valleys.[1] The highest peak is Mt Katahdin (5200 ft.), a little
   N.E. of the centre of the state in Piscataquis county, which rises
-  from a comparatively level upland. South-west of Katahdin, in Franklin
+  from a comparatively level upland. South-west of Katahdin, in [[Franklin]]
   county, are most of the other high peaks of the state: Saddleback
   Mountain (4000 ft.), Mt Abraham (3388 ft.), Mt Bigelow (3600 ft.), and
   Mt Blue (3200 ft.). A little N. of this line of mountain peaks is the
@@ -73,7 +73,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   supply of water power for which the course of the rivers of S.W. Maine
   are exceptionally well adapted, many of them abound in trout, salmon,
   togue, black bass and pickerel; and near them there is still much
-  game. Moosehead Lake (about 120 sq. m.; 35 m. long and from 2 m. to 10
+  [[Game|game]]. Moosehead Lake (about 120 sq. m.; 35 m. long and from 2 m. to 10
   m. wide), on the boundary between Piscataquis and Somerset counties,
   is the largest in Maine and the largest inland body of water wholly in
   New England; the Kennebec River is its principal outlet and Mt Kineo
@@ -82,7 +82,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   Lakes,[2] Chesuncook and Twin Lakes on the Penobscot, and the Grand or
   Schoodic Lakes, in the western boundary at the head waters of the
   Saint Croix River, equal or surpass Moosehead in picturesqueness. The
-  glacier or ice sheet, above referred to, deposited till or boulder
+  glacier or ice sheet, above referred to, deposited till or [[Boulder|boulder]]
   clay, which was compacted under the enormous pressure of the ice sheet
   to form the "hard-pan" referred to later. The glaciation is also
   responsible for the poor soil of most of the state, for, although the
@@ -95,7 +95,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   After the uplift came a period of subsidence, during which this region
   sank one or more thousand feet, allowing the sea to encroach on the
   land and run far inland into the previously made river valleys. This
-  depression probably occurred during the glacial period, perhaps toward
+  depression probably occurred during the [[Glacial Period|glacial period]], perhaps toward
   its close, and is responsible for the second most important feature of
   Maine physiography, the embayed coast. To this subsidence are due the
   picturesque coastal scenery, the numerous islands and bays, the good
@@ -118,8 +118,8 @@ Indians basket-weaving, moccasin-making, and such crafts.
   After the subsidence came another period of uplift, possibly still in
   progress. This uplift has brought up submarine deposits of sand, &c.,
   to form little coastal plains at some points along the coast,
-  providing good land for settlement and clay for brick and pottery.
-  Further evidence of this uplift is found in old beach lines now well
+  providing good land for settlement and clay for [[Brick|brick]] and pottery.
+  Further evidence of this uplift is found in old [[Beach|beach]] lines now well
   above sea-level.
 
   The principal river systems of Maine are the Saint John on the north
@@ -137,7 +137,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   cat, fox, beaver, racoon, marten, sable, woodchuck, skunk, otter,
   mink, rabbit and squirrel are also found. Geese, ducks and other water
   fowl frequent the lakes and bays in the migratory season, and eagles,
-  gulls, hawks, kingfishers, owls, plover, woodcock, "partridge" (ruffed
+  [[Gull|gulls]], [[Hawk|hawks]], kingfishers, owls, plover, woodcock, "partridge" (ruffed
   grouse), robins, orioles, bobolinks, blue birds, swallows, sparrows,
   and many other insectivorous birds are common. In the inland waters
   salmon, trout, togue (_Salvelinus namaycush_), pickerel and bass
@@ -151,7 +151,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
 
   _Flora._--Maine was formerly covered with forests, principally of
   white pine and spruce, but mixed with these were some hemlock,
-  tamarack, cedar, and, on the south slope, birch, poplar, oak, maple
+  tamarack, cedar, and, on the south slope, [[Birch|birch]], poplar, oak, [[Maple|maple]]
   and beech. Chestnut and walnut are rare and are found only near the
   south-west border. In 1900 about 21% of the state's area was cleared,
   and much besides had once been cleared, but not being suited to
@@ -162,13 +162,13 @@ Indians basket-weaving, moccasin-making, and such crafts.
   blackberry, raspberry, blueberry and strawberry grow wild in profusion
   throughout the state.
 
-  _Climate._--The climate of the state is moist and, for its latitude,
+  _Climate._--The climate of the state is moist and, for its [[Latitude|latitude]],
   cold. Extremes of temperature are not so great as farther inland in
   the same latitude; for the summer heats are tempered by the sea and
   the cool north winds, and the winter cold is so constant as to be less
   severely felt than the changing temperature of more southern
   districts. The summers are short, there being only about 4½ months
-  between frosts even in the southern sections, and the mean summer
+  between [[Frost|frosts]] even in the southern sections, and the mean summer
   temperature is about 62° F. The mean winter temperature is
   approximately 20° F., and the mean annual temperature for the entire
   state is 42° F., that for the north slope being about 5° F. less than
@@ -188,7 +188,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   cool and moist N. or N.E. winds often cause a considerable part of the
   state to be enveloped in fog for several days in succession.
 
-  _Agriculture._--The soil is for the most part glacial drift,
+  _Agriculture._--The soil is for the most part glacial [[Drift|drift]],
   containing a large mixture of clay with sand or gravel, and the
   subsoil is mostly "hard-pan," i.e. mingled clay and boulders which
   have been so much compressed by glacial action as to make the mixture
@@ -208,9 +208,9 @@ Indians basket-weaving, moccasin-making, and such crafts.
   in manufacturing and only 76,932 engaged in agriculture. Only 32.9% of
   the state's land area was in that year included in farms, only 37.9%
   of this farm land was improved, and only 16.3% of the improved land
-  was in crops other than hay and forage. Nevertheless, as indicated by
+  was in crops other than [[Hay|hay]] and forage. Nevertheless, as indicated by
   the unusually large proportion of farmers who either own their farms
-  or pay cash rent for them, farming usually is profitable. The number
+  or pay [[Cash|cash]] rent for them, farming usually is profitable. The number
   of farms in 1900 was 59,299; of these 18,644 contained between 50 and
   100 acres and 17,191 contained between 100 and 175 acres, the average
   size being 106.2 acres; 54,263 (or 91.5%) were operated by their
@@ -222,7 +222,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   more intensive cultivation of the better arable land. The cultivation
   of cereals, for example, has given way to a marked extent in nearly
   all the farming districts except in Aroostook county to market
-  gardening, dairying, and egg and poultry production. The number of
+  gardening, dairying, and [[Egg|egg]] and poultry production. The number of
   dairy cows increased from 157,240 in 1890 to 183,000 in 1908, and the
   annual production of milk increased from 57,969,791 gallons in 1890 to
   99,586,188 gallons in 1900. The number of other neat cattle (180,878
@@ -274,7 +274,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   From 1901 to 1904 inclusive, the average annual catch amounted to
   195,335,646 lb., and its average value was $5,557,083. In 1908,
   according to state reports, the catch was 185,476,343 lb., valued at
-  $3,849,900. Herrings are caught in largest quantities (in 1908,
+  $3,849,900. [[Herrings]] are caught in largest quantities (in 1908,
   according to state reports, 68,210,800 lb., valued at $450,665), and
   Maine is noted for the canning of the smaller herrings under the name
   of "sardines." In 1908, according to state reports, the take of
@@ -293,7 +293,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   liberate them or to sell them to the United States for keeping in a
   fish hatchery.
 
-  _Minerals._--The principal mineral products are granite, limestone,
+  _Minerals._--The principal mineral products are granite, [[Limestone|limestone]],
   slate, clay products and mineral waters. In 1905 Maine held first rank
   among the states of the Union as a producer of granite, the value of
   the output being $2,713,795. In 1907 Maine's granite was valued at
@@ -314,7 +314,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   for the Cathedral of St John the Divine in New York City. Black
   granite was quarried in 1907 at 12 quarries, in York, Lincoln, Waldo,
   Penobscot and Washington counties. Limestone abounds, especially in
-  the south-east part of the state, but it is quarried chiefly in Knox
+  the south-east part of the state, but it is quarried chiefly in [[Knox]]
   county. As its colour--blue and blue-black streaked with
   white--renders it undesirable for building purposes, nearly all of it
   is burned into lime, which has become a very important article of
@@ -329,7 +329,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   1907 the production in Maine was valued at $157,334, the total for the
   entire country being $499,069. Clay is obtained in various places, and
   in 1905 the total value of the clay products was $619,294. In Oxford
-  county tourmaline, spodumene (or kunzite) and beryl occur, the
+  county tourmaline, spodumene (or kunzite) and [[Beryl|beryl]] occur, the
   tourmaline crystals being notably large and beautiful. Mineral water
   occurs in many localities, particularly in Androscoggin, York,
   Cumberland and Oxford counties; the most famous springs are the Poland
@@ -337,7 +337,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   the state are chalybeate and slightly alkaline--saline; their average
   temperature is about 43°. In 1908 27 springs were reported, their
   aggregate sales amounting to 1,182,322 gallons. Copper, gold alloyed
-  with platinum, iron ore, barytes, graphite and lead occur in small
+  with platinum, iron ore, [[Barytes|barytes]], graphite and lead occur in small
   quantities in the state. In 1908 the total mineral product of the
   state was valued at $7,044,678.
 
@@ -386,14 +386,14 @@ Indians basket-weaving, moccasin-making, and such crafts.
   States, and in 1905 19.2%); in the output of woollen mills by
   Massachusetts and Pennsylvania only; in the output of paper mills by
   New York and Massachusetts only. It ranked ninth in 1900 and tenth in
-  1905 in the value of its cotton goods. Portland, Lewiston, Biddeford,
+  1905 in the value of its cotton goods. Portland, [[Lewiston]], Biddeford,
   and Auburn are the leading manufacturing cities, and in 1905 the total
   value of their manufactures was 21.5% of those of the entire state.
   But from 1900 to 1905 the value of manufactures grew most rapidly in
   Rockland (especially noted for lime), the increase being from
   $1,243,881 to $1,822,591 (46.5%), and in Waterville, where the
   increase was from $2,283,536 to $3,069,309 (34.4%). Among the largest
-  paper mills are those at Millinocket, in Penobscot county, at Madison
+  paper mills are those at Millinocket, in Penobscot county, at [[Madison]]
   on the Kennebec river, and at Rumford Falls on the Androscoggin river.
   Lewiston leads in the manufacture of cotton goods; Auburn, Bangor and
   Augusta, in the manufacture of boots and shoes; Bath, in ship and boat
@@ -412,7 +412,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   Old Town, was completed in 1836, and the state's railway mileage
   increased from 12 m. in that year to 245 m. in 1850, to 1377.47 m. in
   1890, and to 2210.79 in January 1909. The principal railway systems
-  are the Maine Central, which enters every county but one, the Boston &
+  are the Maine Central, which enters every county but one, the [[Boston]] &
   Maine, the Bangor & Aroostook, the Grand Trunk and the Canadian
   Pacific. Lines of steamboats ply regularly between the largest cities
   of the state and Boston, between Portland and New York, and between
@@ -428,7 +428,7 @@ Indians basket-weaving, moccasin-making, and such crafts.
   and boots and shoes are also exported to foreign countries to some
   extent, but they are shipped in larger quantities to other states of
   the Union, from which Maine receives in return cotton, coal, iron,
-  oil, &c. The ports of entry in Maine are Bangor, Bath, Belfast,
+  oil, &c. The ports of entry in Maine are Bangor, Bath, [[Belfast]],
   Castine, Eastport, Ellsworth, Houlton, Kennebunk, Machias, Portland,
   Wiscasset and York.
 
@@ -464,7 +464,7 @@ Passamaquoddy Bay and the banks of the Saint Croix river.
 
 Roman Catholics are more numerous than all the Protestant sects taken
 together, having in 1906 a membership of 113,419 out of a total of
-212,988 in all denominations. In the last decade of the 19th century the
+212,988 in all [[Denomination|denominations]]. In the last decade of the 19th century the
 urban population (i.e. population of places having 4,000 inhabitants or
 more) increased from 226,268 to 251,685, or 11.2%; the semi-urban
 population (i.e. population of incorporated places, or the approximate
@@ -512,7 +512,7 @@ November.
   years, and that he shall reside in the state while in office. His
   power of appointment is unusually extensive and the advice and consent
   of the council (instead of that of the Senate as in other states) are
-  required for his appointments. He appoints all judges, coroners and
+  required for his appointments. He appoints all judges, [[Coroner|coroners]] and
   notaries public, besides all other civil and military officers for
   whose appointment neither the constitution nor the laws provide
   otherwise. The governor is commander-in-chief of the state militia.
@@ -527,8 +527,8 @@ November.
   which he grants a pardon. His salary is $2,000 a year. The seven
   members of the council, the secretary of state, the treasurer, the
   attorney general and the commissioner of agriculture are elected
-  biennially by a joint ballot of the two houses of the legislature,
-  which also elects, one every two years, the three state assessors,
+  biennially by a joint [[Ballot|ballot]] of the two houses of the legislature,
+  which also elects, one every two years, the three state [[Assessor|assessors]],
   whose term is six years.
 
   The legislature meets biennially at Augusta, the capital, and is
@@ -595,7 +595,7 @@ November.
   all elected: the commissioners for a term of six years, one retiring
   every two years, the register of deeds and the judge and the register
   of probate for a term of four years, and the others for two years.
-  Among other duties the commissioners care for county property, manage
+  Among other duties the commissioners care for county property, [[Manage|manage]]
   county business and take charge of county roads. Maine has no general
   law under which cities are chartered, and does not even set a minimum
   population. A town may, therefore, be incorporated as a city whenever
@@ -612,14 +612,14 @@ own the wages of her personal labour which was not performed for her own
 family. In the absence of a will, bar or release, there is no legal
 distinction between the rights of a widower in the estate of his
 deceased wife and those of a widow in the estate of her deceased
-husband. The grounds for divorce in the state are adultery, impotence,
-extreme cruelty, desertion for three consecutive years next preceding
-the application, gross and confirmed habits of intoxication, cruel and
+husband. The grounds for divorce in the state are adultery, [[Impotence|impotence]],
+extreme cruelty, [[Desertion|desertion]] for three consecutive years next preceding
+the application, [[Gross|gross]] and confirmed habits of [[Intoxication|intoxication]], cruel and
 abusive treatment, or a husband's gross or wanton refusal or neglect to
-provide a suitable maintenance for his wife.
+provide a suitable [[Maintenance|maintenance]] for his wife.
 
 Under the laws of Maine a householder owning and occupying a house and
-lot may hold the same, or such part of it as does not exceed $500 in
+[[Lot|lot]] may hold the same, or such part of it as does not exceed $500 in
 value, as a homestead exempt from attachment, except for the
 satisfaction of liens for labour or material, by filing in the registry
 of deeds a certificate stating his desire for such an exemption,
@@ -629,7 +629,7 @@ widow or the minority of his children. A considerable amount of personal
 property, including apparel, household furniture not exceeding $100 in
 value, a library not exceeding $150 in value, interest in a pew in a
 meeting-house, and a specified amount of fuel, provisions, tools or
-farming implements, and domestic animals, and one fishing boat, is also
+farming [[Implement|implements]], and domestic animals, and one fishing boat, is also
 exempt from attachment.
 
 Maine was the first state in the Union to enact a law for prohibiting
@@ -670,21 +670,21 @@ again abolished in 1887.
   reformatory schools for delinquent boys (from 8 to 16 years of age)
   and girls (from 6 to 16 years), who have been committed by the courts
   for violations of law, and, in the case of girls, who, by force of
-  circumstances or associations, are "in manifest danger of becoming
+  circumstances or associations, are "in [[Manifest|manifest]] danger of becoming
   outcasts of society." The prison is in charge of a board of three
   inspectors and a warden, and each of the other two institutions is in
   charge of a board of trustees; the inspectors, warden, and trustees
   are all appointed by the governor and council. Convicts in the prison
   are usually employed in the manufacture of articles that are not
-  extensively made elsewhere in the state, such as carriages, harness,
+  extensively made elsewhere in the state, such as carriages, [[Harness|harness]],
   furniture and brooms. The inmates of the state school for boys receive
-  instruction in farming, carpentry, tailoring, laundry work, and
+  instruction in farming, carpentry, tailoring, [[Laundry|laundry]] work, and
   various other trades and occupations; and the girls in the state
-  industrial school are trained in housework, laundering, dressmaking,
+  [[Industrial School|industrial school]] are trained in housework, laundering, dressmaking,
   &c. Paupers are cared for chiefly by the towns and cities, those
   wholly dependent being placed in almshouses and those only partially
   dependent receiving aid at their homes. The charitable institutions
-  maintained by the state are: the military and naval orphan asylum at
+  maintained by the state are: the military and naval orphan [[Asylum|asylum]] at
   Bath, the Maine institution for the blind at Portland, the Maine
   school for the deaf (established in 1876, and taken over by the state
   in 1897) at Portland, the Maine insane hospital at Augusta, the
@@ -694,7 +694,7 @@ again abolished in 1887.
   exception of a part of those of the orphan asylum, who are appointed
   by the corporation. Besides the strictly state institutions, there are
   a number of private charitable institutions which are assisted by
-  state funds; among these are the eye and ear infirmary at Portland,
+  state funds; among these are the eye and [[Ear|ear]] infirmary at Portland,
   the Maine state sanatorium at Hebron for the treatment of
   tuberculosis, and various hospitals, orphanages, &c. The national
   government has a branch of the national home for disabled volunteer
@@ -758,7 +758,7 @@ again abolished in 1887.
   college of technology (including a department of forestry), a college
   of law (at Bangor), and a college of pharmacy. The most conspicuous of
   its twenty-five buildings is the library, built with funds contributed
-  by Andrew Carnegie. In 1908-1909 the university had 104 instructors
+  by Andrew [[Carnegie]]. In 1908-1909 the university had 104 instructors
   and 884 students, of whom 113 were in the college of law at Bangor and
   420 in the college of technology. The university is maintained with
   the proceeds of an endowment fund derived chiefly from public lands
@@ -808,7 +808,7 @@ again abolished in 1887.
 
 _History._--During the 16th century and the early part of the 17th, the
 coast of Maine attracted various explorers, among them Giovanni da
-Verrazano (1524), Estéban Gomez (1525), Bartholomew Gosnold (1602),
+Verrazano (1524), Esté[[Ban|ban]] Gomez (1525), Bartholomew [[Gosnold]] (1602),
 Martin Pring (1603), Pierre du Guast, Sieur De Monts (1604), George
 Weymouth (1605), and John Smith (1614), who explored and mapped the
 coast and gave to the country the name New England; but no permanent
@@ -820,7 +820,7 @@ a fort on Neutral Island at the mouth of the Saint Croix river. This he
 abandoned in 1605, but some of his followers were in the vicinity a few
 years later. In the same year George Weymouth explored the south-west
 coast, kidnapped five Indians, and carried them to England, where three
-of them lived for a time in the family of Sir Ferdinando Gorges, who
+of them lived for a time in the family of Sir Ferdinando [[Gorges]], who
 soon became the leader in founding Maine. In 1607 the Plymouth Company,
 of which he was an influential member and which had received a grant of
 this region from James I. of England in the preceding year, sent out a
@@ -832,7 +832,7 @@ returned to England in December; a severe winter followed and Popham
 died; then Gilbert, who succeeded to the presidency of the council for
 the colony, became especially interested in his claim to the territory
 under his father's charter,[6] and in 1608 the colony was abandoned. In
-1609 the French Jesuits Biard and Masse established a fortified mission
+1609 the French [[Jesuits]] Biard and Masse established a fortified mission
 station on the island of Mount Desert, and although this as well as the
 remnant of De Monts' settlement at the mouth of the Saint Croix was
 taken in 1613 by Sir Samuel Argall (d. 1626), acting under the
@@ -873,7 +873,7 @@ the Anglicanism of Gorges and his followers, interpreted her charter so
 as to make her northern boundary run east and west from a point 3 m.
 north of the source of the Merrimac river, and on this basis laid claim
 to practically the whole of Maine then settled. The factional quarrels
-there, together with the Commonwealth government in England, made it
+there, together with the [[Commonwealth]] government in England, made it
 easy for Massachusetts to enforce this claim at the time, and between
 1652 and 1658 Maine was gradually annexed to Massachusetts. In 1672
 Massachusetts extended her boundary eastward as far as Penobscot Bay.
@@ -900,12 +900,12 @@ Portland), which had ardently resisted the claims of the British, was
 bombarded and burned, in 1775; in the same year Benedict Arnold followed
 the course of the Kennebec and Dead rivers on his expedition to Quebec;
 and from 1779 to 1783 a British force was established at Castine. The
-embargo and non-intercourse laws from 1807 to 1812 were a severe blow to
+[[Embargo|embargo]] and non-intercourse laws from 1807 to 1812 were a severe blow to
 Maine's shipping, and in the War of 1812 Eastport, Castine, Hampden,
 Bangor and Machias fell into the hands of the British.
 
 Maine was in general well governed as a part of Massachusetts, but a
-geographical separation, a desire to be rid of the burden of a large
+geographical separation, a desire to be rid of the [[Burden|burden]] of a large
 state debt, and a difference of economic interests as well as of
 politics (Maine was largely Democratic and Massachusetts was largely
 Federalist) created a desire for an independent commonwealth. This was
@@ -962,9 +962,9 @@ head of Connecticut river." The fifth article of the Jay treaty of 1794
 provided for a commission to decide what the St Croix river actually
 was, and this commission in 1798 defined the St Croix, saying that its
 mouth was in Passamaquoddy bay and that the boundary ran up this river
-and the Cheputnatecook to a marked monument. The treaty of Ghent in 1814
+and the Cheputnatecook to a marked monument. The treaty of [[Ghent]] in 1814
 (Article IV.) referred the question of the ownership of the islands in
-Passamaquoddy bay to a commission which gave Moose, Dudley and Frederick
+Passamaquoddy bay to a commission which gave Moose, [[Dudley]] and Frederick
 islands to the United States; and the same treaty by Article V. provided
 for the survey (which was made in 1817-1818) of a part of the disputed
 territory, and for a general commission. The general commissioners met
@@ -1009,7 +1009,7 @@ received 56,554; Joseph L. Smith ("National" or "Greenback"), 41,371;
 Alonzo Garcelon (1813-1906) (Democratic), 28,218; as no candidate
 received a majority of the votes, the election was left to the
 legislature.[8] The vote of the House eliminated Connor, and Garcelon
-was chosen in the Senate by a Democratic-National fusion. Again there
+was chosen in the Senate by a Democratic-National [[Fusion|fusion]]. Again there
 was no election by popular vote in 1879, and Garcelon and his council,
 to secure the election of a fusion government, counted-in a fusion
 majority in the legislature by evident falsification of the returns. On
@@ -1019,9 +1019,9 @@ governor swore in a legislature with 78 fusion and only two Republican
 members, and, the governor's term having expired, the president of the
 Senate, James D. Lamson, became governor, ex-officio. On the 12th the
 legislative chambers were seized by the Republicans, whose organized
-legislature was declared legal by the Supreme Court, and who chose as
-governor Daniel Franklin Davis (1843-1897); whereupon, on the 17th,
-Joshua L. Chamberlain, to whom the peaceful solution of the difficulty
+legislature was declared legal by the Supreme Court, and who [[Chose|chose]] as
+governor [[Daniel]] Franklin Davis (1843-1897); whereupon, on the 17th,
+[[Joshua]] L. Chamberlain, to whom the peaceful solution of the difficulty
 had largely been due, retired from the task assigned him by Garcelon on
 the 5th of January "to protect the public property and institutions of
 the state" until Garcelon's successor should be duly qualified. In 1880
@@ -1034,13 +1034,13 @@ after 1883 Maine was strongly Republican until 1910.
     William Durkee Williamson (acting)     "            1821
     Benjamin Ames (acting)                 "            1821
     Albion Keith Parris                    "            1822
-    Enoch Lincoln                          "            1827
-    Nathan Cutler (acting)                 "            1829
+    [[Enoch]] Lincoln                          "            1827
+    Nathan [[Cutler]] (acting)                 "            1829
     Jonathan G. Hunton                     "            1830
     Samuel Emerson Smith                   "            1831
     Robert Pinckney Dunlap                 "            1834
     Edward Kent                           Whig          1838
-    John Fairfield                      Democrat        1839
+    John [[Fairfield]]                      Democrat        1839
     Edward Kent                           Whig          1841
     John Fairfield                      Democrat        1842
     Edward Kavanagh (acting)               "            1843
@@ -1062,14 +1062,14 @@ after 1883 Maine was strongly Republican until 1910.
     Selden Connor                          "            1876
     Alonzo Garcelon                     Democrat        1879
     Daniel F. Davis                    Republican       1880
-    Harris Merrill Plaisted        Democrat-Greenback   1881
+    [[Harris]] Merrill Plaisted        Democrat-Greenback   1881
     Frederick Robie                    Republican       1883
     Joseph R. Bodwell                      "            1887
     Sebastian S. Marble (acting)           "            1887
     Edwin C. Burleigh                      "            1889
     Henry B. Cleaves                       "            1893
     Llewellyn Powers                       "            1897
-    John Fremont Hill                      "            1901
+    John [[Fremont]] Hill                      "            1901
     William T. Cobb                        "            1905
     Bert M. Fernald                        "            1909
     Frederick W. Plaisted               Democrat        1911
@@ -1080,11 +1080,11 @@ after 1883 Maine was strongly Republican until 1910.
   G. H. Stone, _The Glacial Gravels of Maine and their Associated
   Deposits_ (Washington, 1899); T. Nelson Dale, _The Granites of Maine_
   (Washington, 1907), being Bulletin 313 of the U. S. Geological Survey;
-  B. F. De Costa, _Sketches of the Coast of Maine and Isle of Shoals_
+  B. F. De [[Costa]], _Sketches of the Coast of Maine and Isle of Shoals_
   (New York, 1869); H. D. Thoreau, _The Maine Woods_ (Boston, 1881 ); L.
   L. Hubbard, _Woods and Lakes of Maine_ (Boston, 1883); T. S. Steele,
   _Canoe and Camera, a Two Hundred Mile Tour through the Maine Forests_
-  (New York, 1882); William MacDonald, _The Government of Maine, Its
+  (New York, 1882); William [[Macdonald|MacDonald]], _The Government of Maine, Its
   History and Administration_ (New York, 1902); _Maine Historical
   Society Collections_ (Portland, 1831-   ); W. D. Williamson, _History
   of the State of Maine_ (Hallowell, 1832); J. P. Baxter, _Sir
@@ -1110,7 +1110,7 @@ FOOTNOTES:
     Oquossoc, the Cupsuptic, the Mooselookmeguntic, the Molechunkamunk or
     Upper Richardson, the Welokenebacook or Lower Richardson, and the
     Umbagog) in Franklin and Oxford counties, in the western part of the
-    state; the Umbagog extends into New Hampshire and its outlet helps to
+    state; the Umbagog extends into New Hampshire and its outlet [[Helps|helps]] to
     form the Androscoggin River. These lakes are connected by straits,
     have a total area of between 80 and 90 sq. m., and are from 1200 to
     1500 ft. above the sea. They are sometimes called the Androscoggin

@@ -28,19 +28,19 @@ including the castle, seems to belong to the 11th or 12th century, while
 the outer circuit has been referred mainly to the end of the 13th. The
 old cathedral of St Nazaire dates from the 11th to the 14th centuries.
 The nave was begun in 1096 and is Romanesque in style; the transept and
-choir, which contain magnificent stained glass of the Renaissance
-period, are of Gothic architecture. Both the fortifications and the
+[[Choir|choir]], which contain magnificent stained glass of the Renaissance
+period, are of [[Gothic]] architecture. Both the fortifications and the
 church were restored by Viollet-le-Duc between 1850 and 1880. On the
 left bank of the Aude, between it and the Canal du Midi, lies the new
 town, clean, well-built and flourishing, with streets intersecting each
-other at right angles. It is surrounded by boulevards occupying the site
-of its ramparts, and is well provided with fountains, public squares and
+other at right angles. It is surrounded by [[Boulevard|boulevards]] occupying the site
+of its ramparts, and is well provided with [[Fountain|fountains]], public squares and
 gardens planted with fine plane-trees. The most interesting buildings
 are the cathedral of St Michel, dating from the 13th century but
 restored in modern times, and St Vincent, a church of the 14th century,
 remarkable for the width of its nave.
 
-Carcassonne is the seat of a bishop, a prefect and a court of assizes,
+Carcassonne is the seat of a bishop, a prefect and a court of [[Assize|assizes]],
 and has tribunals of first instance and of commerce, a chamber of
 commerce and a branch of the Bank of France. It also has a lycee for
 boys, training-colleges, theological seminaries, a library and a museum
@@ -48,7 +48,7 @@ rich in paintings. The old cloth industry is almost extinct. The town
 is, however, an important wine-market, and the vineyards of the vicinity
 are the chief source of its prosperity, which is enhanced by its port on
 the Canal du Midi. Tanning and leather-dressing, distilling, the
-manufacture of agricultural implements, furniture and corks, cooperage
+manufacture of agricultural [[Implement|implements]], furniture and corks, cooperage
 and the preparation of preserved fruits, are prominent industries.
 
 Carcassonne occupies the site of _Carcaso_, an ancient city of Gallia
@@ -56,8 +56,8 @@ Narbonensis, which belonged to the Volcae Tectosages. It was a place of
 some importance at the time of Caesar's invasion, but makes almost no
 appearance in Roman history. On the disintegration of the empire, it
 fell into the hands of the Visigoths, who, in spite of the attacks of
-the Franks, especially in 585, retained possession till 724, when they
-were expelled by the Arabs, destined in turn to yield before long to
+the [[Franks]], especially in 585, retained possession till 724, when they
+were expelled by the [[Arabs]], destined in turn to yield before long to
 Pippin the Short. From about 819 to 1082 Carcassonne formed a separate
 countship, and from the latter date till 1247 a viscountship. Towards
 the end of the 11th century the viscounts of Carcassonne assumed the

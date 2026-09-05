@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Holbach"
 
 # Holbach
 
-HOLBACH, PAUL HEINRICH DIETRICH, BARON D' (1723-1789), French
+HOLBACH, PAUL HEINRICH [[Dietrich|DIETRICH]], BARON D' (1723-1789), French
 philosopher and man of letters, of German origin, was born at
 Heidelsheim in the palatinate in 1723. Of his family little is known;
 according to J. J. Rousseau his father was a rich parvenu, who brought
@@ -22,7 +22,7 @@ Hume, Garrick, Wilkes, Sterne, and for a time J. J. Rousseau, guests
 who, while enjoying the intellectual pleasure of their host's
 conversation, were not insensible to his excellent cuisine and costly
 wines. For the _Encyclopedie_ he compiled and translated a large number
-of articles on chemistry and mineralogy, chiefly from German sources. He
+of articles on [[Chemistry|chemistry]] and mineralogy, chiefly from German sources. He
 attracted more attention, however, in the department of philosophy. In
 1767 _Christianisme devoile_ appeared, in which he attacked Christianity
 and religion as the source of all human evils. This was followed up by

@@ -9,8 +9,8 @@ tags: [inventors, americas]
 
 DE COSTER, CHARLES THEODORE HENRI (1827-1879), Belgian writer, was born
 at Munich on the 20th of August 1827. His father, Augustin de Coster,
-was a native of Liege, who was attached to the household of the papal
-nuncio at Munich, but soon returned to Belgium. Charles was placed in a
+was a native of [[Liege]], who was attached to the household of the papal
+nuncio at Munich, but soon returned to [[Belgium]]. Charles was placed in a
 Brussels bank, but in 1850 he entered the university of Brussels, where
 he completed his studies in 1855. He was one of the founders of the
 _Societe des Joyeux_, a small literary club, more than one member of
@@ -20,7 +20,7 @@ efforts in prose were contributed to a periodical entitled
 _Uylenspiegel_ (founded 1856). A correspondence covering the years
 1850-1858, his _Lettres a Elisa_, were edited by Ch. Potvin in 1894. He
 was a keen student of Rabelais and Montaigne, and familiarized himself
-with 16th-century French. He said that Flemish manners and speech could
+with 16th-century French. He said that Flemish [[Manners|manners]] and speech could
 not be rendered faithfully in modern French, and accordingly wrote his
 best works in the old tongue. The success of his _Legendes flamandes_
 (1857) was increased by the illustrations of Felicien Rops and other
@@ -28,12 +28,12 @@ friends. In 1861 he published his _Contes brabancons_, in modern French.
 His masterpiece is his _Legende de Thyl Uylenspiegel et de Lamme
 Goedzak_ (1867), a 16th-century romance, in which Belgian patriotism
 found its fullest expression. In the preparation for this prose epic of
-the _gueux_ he spent some ten years. Uylenspiegel (Eulenspiegel) has
+the _[[Gueux|gueux]]_ he spent some ten years. Uylenspiegel (Eulenspiegel) has
 been compared to Don Quixote, and even to Panurge. He is the type of the
-16th-century Fleming, and the history of his resurrection from the grave
+16th-century [[Fleming]], and the history of his resurrection from the grave
 itself was accepted as an allegory of the destiny of the race. The
 exploits of himself and his friend form the thread of a semi-historical
-narrative, full of racy humour, in spite of the barbarities that find a
+narrative, full of racy [[Humour|humour]], in spite of the barbarities that find a
 place in it. This book also was illustrated by Rops and others. In 1870
 De Coster became professor of general history and of French literature
 at the military school. His works however were not financially

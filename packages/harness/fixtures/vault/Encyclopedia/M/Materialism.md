@@ -11,7 +11,7 @@ MATERIALISM (from Lat. _materia_, matter), in philosophy, the theory
 which regards all the facts of the universe as explainable in terms of
 matter and motion, and in particular explains all psychical processes by
 physical and chemical changes in the nervous system. It is thus opposed
-both to natural realism and to idealism. For the natural realist stands
+both to natural realism and to [[Idealism|idealism]]. For the natural realist stands
 upon the common-sense position that minds and material objects have
 equally effective existence; while the idealist explains matter by mind
 and denies that mind can be explained by matter. The various forms into
@@ -28,18 +28,18 @@ properties that belong to life, it is usual to apply the term hylozoism
 difficult to discern the influence of naïve materialism in contemporary
 thinking. We see it in Huxley, and still more in Haeckel, whose
 materialism (which he chooses to term "monism") is evidently conditioned
-by ignorance of the history and present position of speculation.
+by [[Ignorance|ignorance]] of the history and present position of speculation.
 _Cosmological materialism_ is that form of the doctrine in which the
 dominant motive is the formation of a comprehensive world-scheme: the
 Stoics and Epicureans were cosmological materialists. In _anti-religious
 materialism_ the motive is hostility to established dogmas which are
 connected, in the Christian system especially, with certain forms of
-spiritual doctrine. Such a motive weighed much with Hobbes and with the
+spiritual doctrine. Such a motive weighed much with [[Hobbes]] and with the
 French materialists of the 18th century, such as La Mettrie and
-d'Holbach. The cause of _medical materialism_ is the natural bias of
+d'Holbach. The cause of _medical materialism_ is the natural [[Bias|bias]] of
 physicians towards explaining the health and disease of mind by the
 health and disease of body. It has received its greatest support from
-the study of insanity, which is now fully recognized as conditioned by
+the study of [[Insanity|insanity]], which is now fully recognized as conditioned by
 disease of the brain. To this school belong Drs Maudsley and Mercier.
 The highest form of the doctrine is _scientific materialism_, by which
 term is meant the doctrine so commonly adopted by the physicist,
@@ -55,7 +55,7 @@ verifiable; and the prevalence of materialism at certain epochs, as in
 the enlightenment of the 18th century and in the German philosophy of
 the middle 19th, were occasioned by special need to vindicate the
 scientific position, in the former case against the Church, in the
-latter case against the pseudo-science of the Hegelian dialectic. The
+latter case against the pseudo-science of the Hegelian [[Dialectic|dialectic]]. The
 chief definite periods of materialism are the pre-Socratic and the
 post-Aristotelian in Greece, the 18th century in France, and in Germany
 the 19th century from about 1850 to 1880. In England materialism has
@@ -63,7 +63,7 @@ been endemic, so to speak, from Hobbes to the present time, and English
 materialism is more important perhaps than that of any other country.
 But, from the national distrust of system, it has not been elaborated
 into a consistent metaphysic, but is rather traceable as a tendency
-harmonizing with the spirit of natural science. Hobbes, Locke, Hume,
+harmonizing with the spirit of natural science. Hobbes, [[Locke]], Hume,
 Mill and Herbert Spencer are not systematic materialists, but show
 tendencies towards materialism.
 

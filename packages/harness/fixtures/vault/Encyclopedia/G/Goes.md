@@ -10,7 +10,7 @@ and friend of Erasmus. Goes took his degree at Padua in 1538 after a
 four years' course. In 1537, at the instance of his friend Cardinal
 Sadoleto, he undertook to mediate between the Church and the Lutherans,
 but failed through the attitude of the Protestants. He married in
-Flanders a rich and noble Dutch lady, D. Joanna de Hargen, and settled
+[[Flanders]] a rich and noble Dutch lady, D. [[Joanna]] de Hargen, and settled
 at Louvain, then the literary centre of the Low Countries, where he was
 living in 1542 when the French besieged the town. He was given the
 command of the defending forces, and saved Louvain, but was taken
@@ -19,13 +19,13 @@ freedom by a heavy ransom. He was rewarded, however, by a grant of arms
 from Charles V. He finally returned to Portugal in 1545, with a view of
 becoming tutor to the king's son, but he failed to obtain this post,
 owing to the denunciations of Father Simon Rodriguez, provincial of the
-Jesuits, who accused Goes of favouring the Lutheran doctrines and of
-being a disciple of Erasmus. Nevertheless in 1548 he was appointed chief
-keeper of the archives and royal chronicler, and at once introduced some
+[[Jesuits]], who accused Goes of favouring the Lutheran doctrines and of
+being a [[Disciple|disciple]] of Erasmus. Nevertheless in 1548 he was appointed chief
+keeper of the [[Archive|archives]] and royal chronicler, and at once introduced some
 much-needed reforms into the administration of his office.
 
 In 1558 he was given a commission to write a history of the reign of
-King Manoel, a task previously confided to Joao de Barros, but
+King Manoel, a task previously confided to Joao de [[Barros]], but
 relinquished by him. It was an onerous undertaking for a conscientious
 historian, since it was necessary to expose the miseries as well as
 relate the glories of the period, and so to offend some of the most
@@ -49,12 +49,12 @@ worst that could be proved against him was that in his youth he had
 spoken against Indulgences, disbelieved in auricular confession, and
 consorted with heretics. He was sentenced to a term of reclusion, and
 his property was confiscated to the crown. After he had abjured his
-errors in private, he was sent at the end of 1572 to do penance at the
+[[Error|errors]] in private, he was sent at the end of 1572 to do penance at the
 monastery of Batalha. Later he was allowed to return home to Alemquer,
 where he died on the 30th of January 1574. He was buried in the church
 of Nossa Senhora da Varzea.
 
-Damiao de Goes was a man of wide culture and genial and courtly manners,
+Damiao de Goes was a man of wide culture and genial and courtly [[Manners|manners]],
 a skilled musician and a good linguist. He wrote both Portuguese and
 Latin with classic strength and simplicity, and his style is free from
 affectation and rhetorical ornaments. His portrait by Albrecht Durer
@@ -76,19 +76,19 @@ critical spirit, and Damiao de Goes has the honour of having been the
 first Portuguese royal chronicler to deserve the name of an historian.
 
   His Portuguese works include _Chronica do felicissimo rei Dom Emanuel_
-  (parts i. and ii., Lisbon, 1566, parts iii. and iv., ib. 1567). Other
+  (parts i. and ii., [[Lisbon]], 1566, parts iii. and iv., ib. 1567). Other
   editions appeared in Lisbon in 1619 and 1749 and in Coimbra in 1790.
   _Chronica do principe Dom Joam_ (Lisbon, 1558), with subsequent
   editions in 1567 and 1724 in Lisbon and in 1790 in Coimbra. _Livro de
-  Marco Tullio Ciceram chamado Catam Mayor_ (Venice, 1538). This is a
+  Marco Tullio Ciceram chamado Catam [[Mayor]]_ (Venice, 1538). This is a
   translation of Cicero's _De senectute_. His Latin works, published
   separately, comprise: (1) _Legatio magni imperatoris Presbiteri
-  Joannis, &c._ (Antwerp, 1532); (2) _Legatio Davidis Ethiopiae regis,
-  &c._ (Bologna, 1533); (3) _Commentarii rerum gestarum in India_
+  Joannis, &c._ ([[Antwerp]], 1532); (2) _Legatio Davidis Ethiopiae regis,
+  &c._ (Bologna, 1533); (3) _[[Commentarii]] rerum gestarum in India_
   (Louvain, 1539); (4) _Fides, religio, moresque Aethiopum_ (Louvain,
   1540), incorporating Nos. (1) and (2); (5) _Hispania_ (Louvain, 1542);
   (6) _Aliquot epistolae Sadoleti Bembi et aliorum clarissimorum
-  virorum, &c._ (Louvain, 1544); (7) _Damiani a Goes equitis Lusitani
+  virorum, &c._ (Louvain, 1544); (7) _[[Damiani]] a Goes equitis Lusitani
   aliquot opuscula_ (Louvain, 1544); (8) _Urbis Lovaniensis obsidia_
   (Lisbon, 1546); (9) _De bello Cambaico ultimo_ (Louvain, 1549); (10)
   _Urbis Olisiponensis descriptio_ (Evora, 1554); (11) _Epistola ad
@@ -109,8 +109,8 @@ first Portuguese royal chronicler to deserve the name of an historian.
   friends, so that they are rare. (B) Guilherme J. C. Henriques,
   _Ineditos Goesianos_, vol. i. (Lisbon, 1896), vol. ii. (containing the
   proceedings at the trial by the Inquisition) (Lisbon, 1898). (C) A. P.
-  Lopes de Mendonca, _Damiao de Goes e a Inquisicao de Portugal_
-  (Lisbon, 1859). (D) Dr Sousa Viterbo, _Damiao de Goes e D. Antonio
+  [[Lopes]] de Mendonca, _Damiao de Goes e a Inquisicao de Portugal_
+  (Lisbon, 1859). (D) Dr Sousa Viterbo, _Damiao de Goes e D. [[Antonio]]
   Pinheiro_ (Coimbra, 1895). (E) Dr Theophilo Braga, _Historia da
   Universidade de Coimbra_ (Lisbon, 1892), i. 374-380. (F) Menendez y
   Pelayo, _Historia de los Heter. Espanoles_, ii. 129-143.     (E. Pr.)

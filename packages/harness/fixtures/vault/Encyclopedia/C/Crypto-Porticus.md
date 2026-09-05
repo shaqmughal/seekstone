@@ -10,7 +10,7 @@ CRYPTO-PORTICUS (Gr. [Greek: kryptos], concealed, and Lat. _porticus_),
 an architectural term for a concealed or covered passage, generally
 underground, though lighted and ventilated from the open air. One of the
 best-known examples is the crypto-porticus under the palaces of the
-Caesars in Rome. In Hadrian's villa in Rome they formed the principal
+[[Caesar|Caesars]] in Rome. In Hadrian's villa in Rome they formed the principal
 private intercommunication between the several buildings.
 
 ## See also

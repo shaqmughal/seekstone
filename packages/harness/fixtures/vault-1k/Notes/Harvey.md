@@ -32,7 +32,7 @@ year he resigned the office, in order, by command of Charles I., to
 accompany the young duke of Lennox (James Stuart, afterwards duke of
 Richmond) on his travels. He appears to have visited Italy, and returned
 in 1632. Four years later he accompanied the earl of Arundel on his
-embassy to the emperor Ferdinand II. He was eager in collecting objects
+embassy to the emperor [[Ferdinand]] II. He was eager in collecting objects
 of natural history, sometimes causing the earl anxiety for his safety by
 his excursions in a country infested by robbers in consequence of the
 Thirty Years' War. In a letter written on this journey, he says: "By the
@@ -41,7 +41,7 @@ anything to anatomise; only sum few miserable people, the reliques of
 the war and the plague, whom famine had made anatomies before I came."
 Having returned to his practice in London at the close of the year 1636,
 he accompanied Charles I. in one of his journeys to Scotland (1639 or
-1641). While at Edinburgh he visited the Bass Rock; he minutely
+1641). While at Edinburgh he visited the [[Bass Rock]]; he minutely
 describes its abundant population of sea-fowl in his treatise _De
 generatione_, and incidentally speaks of the account then credited of
 the solan goose growing on trees as a fable. He was in attendance on the
@@ -54,7 +54,7 @@ told John Aubrey. After the indecisive battle, Harvey followed Charles
 I. to Oxford, "where," writes the same gossiping narrator, "I first saw
 him, but was then too young to be acquainted with so great a doctor. I
 remember he came several times to our college (Trinity) to George
-Bathurst, B.D. who had a hen to hatch eggs in his chamber, which they
+Bathurst, B.D. who had a hen to hatch [[Egg|eggs]] in his chamber, which they
 opened daily to see the progress and way of generation." In Oxford he
 remained three years, and there was some chance of his being superseded
 in his office at St Bartholomew's hospital, "because he hath withdrawn
@@ -69,7 +69,7 @@ returned to London. He was now sixty-eight years old, and, having
 resigned his appointments and relinquished the cares of practice, lived
 in learned retirement with one or other of his brothers. It was in his
 brother Daniel's house at Combe that Dr (afterwards Sir George) Ent, a
-faithful friend and disciple (1604-1689), visited him in 1650. "I found
+faithful friend and [[Disciple|disciple]] (1604-1689), visited him in 1650. "I found
 him," he says, "with a cheerful and sprightly countenance investigating,
 like Democritus, the nature of things. Asking if all were well with
 him--'How can that be,' he replied, 'when the state is so agitated with
@@ -234,7 +234,7 @@ sent into the arteries, round by the smaller veins into the venae cavae,
 and by them to the right ventricle again--thus making a complete
 "circulation"; (4) that the blood in the arteries and that in the veins
 is the same blood; (5) that the action of the right and left sides of
-the heart, auricles, ventricles and valves, is the same, the mechanism
+the heart, [[Auricle|auricles]], ventricles and valves, is the same, the mechanism
 in both being for reception and propulsion of liquid and not of air,
 since the blood on the right side, though mixed with air, is still
 blood; (6) that the blood sent through the arteries to the tissues is
@@ -256,7 +256,7 @@ amicam in apertis relinquant, et in conspectu omnium deserant." He had,
 as we know, not only furnished himself with all the knowledge that books
 and the instructions of the best anatomists of Italy could give, but, by
 a long series of dissections, had gained a far more complete knowledge
-of the comparative anatomy of the heart and vessels than any
+of the [[Comparative Anatomy|comparative anatomy]] of the heart and vessels than any
 contemporary--we may almost say than any successor--until the times of
 John Hunter and J. F. Meckel. Thus equipped, he tells us that he began
 his investigations into the movements of the heart and blood by looking
@@ -318,7 +318,7 @@ Adams.
   perfection, and convinced his colleagues by actual demonstrations of
   the truth of what he advanced. He anticipates opposition, and even
   obloquy or loss, from the novelty of his views. These anticipations,
-  however, the event proved to have been groundless. If we are to credit
+  however, the event proved to have been groundless. If we are to [[Credit|credit]]
   Aubrey indeed, he found that after the publication of the _De motu_
   "he fell mightily in his practice; 'twas believed by the vulgar that
   he was crackbrained, and all the physicians were against him." But the
@@ -535,7 +535,7 @@ their own profit), "and that a man could hardly tell by his bill what he
 did aim at." However this may have been,--and rational therapeutics was
 impossible when the foundation stone of physiology had only just been
 laid,--we know that Harvey was an active practitioner, performing such
-important surgical operations as the removal of a breast, and he turned
+important surgical operations as the removal of a [[Breast|breast]], and he turned
 his obstetric experience to account in his book on generation. Some good
 practical precepts as to the conduct of labour are quoted by Percivall
 Willughby (1596-1685). He also took notes of the anatomy of disease;

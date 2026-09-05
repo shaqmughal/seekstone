@@ -8,7 +8,7 @@ Benson "for the cultivation of a life dedicated to God according to the
 principles of poverty, chastity and obedience." The society, which is
 occupied both with educational and missionary work, has a house in
 London and branch houses at Bombay and Poona in India, at Cape Town and
-at St Cuthbert's, Kaffraria, in South Africa; and at Boston in the
+at St Cuthbert's, [[Kaffraria]], in South Africa; and at Boston in the
 United States of America. The costume of the Cowley Fathers consists of
 a black frock or cassock confined by a black cord and a long black
 cloak.

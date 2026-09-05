@@ -1,6 +1,6 @@
 # Elijah Wilna
 
-ELIJAH WILNA, or ELIJAH BEN SOLOMON, best known as the GAON ELIJAH OF
+ELIJAH WILNA, or ELIJAH [[Ben|BEN]] SOLOMON, best known as the [[Gaon|GAON]] ELIJAH OF
 WILNA (1720-1797), a noted Talmudist who hovered between the new and the
 old schools of thought. Orthodox in practice and feeling, his critical
 treatment of the rabbinic literature prepared the way for the scientific

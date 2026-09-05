@@ -7,8 +7,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Brickwork"
 
 # Brickwork
 
-BRICKWORK, in building, the term applied to constructions made of bricks.
-The tools and implements employed by the bricklayer are:--the trowel for
+BRICKWORK, in building, the term applied to constructions made of [[Brick|bricks]].
+The tools and [[Implement|implements]] employed by the bricklayer are:--the trowel for
 spreading the mortar; the plumb-rule to keep the work perpendicular, or in
 the case of an inclined or battering wall, to a regular batter, for the
 plumb-rule may be made to suit any required inclination; the spirit-level
@@ -16,17 +16,17 @@ to keep the work horizontal, often used in conjunction with a straight-edge
 in order to test a greater length; and the gauge-rod with the brick-courses
 marked on it. The quoins or angles are first built up with the aid of the
 gauge-rod, and the intermediate work is kept regular by means of the line
-and line pins fixed in the joints. The raker, jointer, pointing rule and
+and line pins fixed in the [[Joints|joints]]. The raker, jointer, pointing rule and
 Frenchman are used in pointing joints, the pointing staff being held on a
-small board called the hawk. For roughly cutting bricks the large trowel is
+small board called the [[Hawk|hawk]]. For roughly cutting bricks the large trowel is
 used; for neater work such as facings, the bolster and club-hammer; the
-cold chisel is for general cutting away, and for chases and holes. When
-bricks require to be cut, the work is set out with the square, bevel and
+cold [[Chisel|chisel]] is for general cutting away, and for chases and holes. When
+bricks require to be cut, the work is set out with the square, [[Bevel|bevel]] and
 compasses. If the brick to be shaped is a hard one it is placed on a
 V-shaped cutting block, an incision made where desired with the tin saw,
 and after the bolster and club-hammer have removed the portion of the
 brick, the scutch, really a small axe, is used to hack off the rough parts.
-For cutting soft bricks, such as rubbers and malms, a frame saw with a
+For cutting soft bricks, such as rubbers and malms, a [[Frame|frame]] saw with a
 blade of soft iron wire is used, and the face is brought to a true surface
 on the rubbing stone, a slab of Yorkshire stone.
 
@@ -35,7 +35,7 @@ rest on them. Having built up as high as he can reach from the ground, the
 scaffolder erects a scaffold with standards, ledgers and putlogs to carry
 the scaffold boards (see SCAFFOLD, SCAFFOLDING). Bricks are carried to the
 scaffold on a hod which holds twenty bricks, or they may be hoisted in
-baskets or boxes by means of a pulley and fall, or may be raised in larger
+baskets or [[Box|boxes]] by means of a pulley and fall, or may be raised in larger
 numbers by a crane. The mortar is taken up in a hod or hoisted in pails and
 deposited on ledged boards about 3 ft. square, placed on the scaffold at
 convenient distances apart along the line of work. The bricks are piled on
@@ -63,7 +63,7 @@ the infirmity. To save the trouble of keeping the plumb-rule and level
 constantly in his hands and yet ensure correct work, the bricklayer, on
 clearing the footings of a wall, builds up six or eight courses of bricks
 at the external angles (see fig. 1), which he carefully plumbs and levels
-across. These form a gauge for the intervening work, a line being tightly
+across. These form a [[Gauge|gauge]] for the intervening work, a line being tightly
 strained between and fixed with steel pins to each angle at a level with
 the top of the next course to be laid, and with this he makes his work
 range. If, however, the length between the quoins be great, the line will
@@ -92,7 +92,7 @@ Bricks should not be merely _laid_, but each should be placed frog upwards,
 and rubbed and pressed firmly down in such a manner as to secure absolute
 adhesion, and force the mortar into joints. Every brick should be well
 wetted before it is laid, especially in hot dry weather, in order to wash
-off the dust from its surface, and to obtain more complete adhesion, and
+off the [[Dust|dust]] from its surface, and to obtain more complete adhesion, and
 prevent it from absorbing water from the mortar in which it is bedded. The
 bricks are wetted either by the bricklayer dipping them in water as he uses
 them, or by water being thrown or sprinkled on them as they lie piled on
@@ -114,11 +114,11 @@ Buildings in exposed situations are frequently built with cavity-walls,
 consisting of the inside or main walls with an outer skin [Sidenote: Hollow
 walls.] usually half a brick thick, separated from the former by a cavity
 of 2 or 3 in. (fig. 2). The two walls are tied together at frequent
-intervals by iron or stoneware ties, each having a bend or twist in the
+intervals by iron or stoneware ties, each having a [[Bend|bend]] or twist in the
 centre, which prevents the transmission of water to the inner wall. All
 water, therefore, which penetrates the outer wall drops to the base of the
 cavity, and trickles out through gratings provided for the purpose a few
-inches above the ground level. The base of the cavity should be taken down
+[[Inch|inches]] above the ground level. The base of the cavity should be taken down
 a course or two below the level of the damp-proof course. The ties are
 placed about 3 ft. apart horizontally, with 12 or 18 in. vertical
 intervals; they are about 8 in. long and 3/4 in. wide. It is considered
@@ -174,13 +174,13 @@ Varieties of bricks.] not have absorbed, after twenty-four hours' soaking,
 more than one-fifth of its bulk. Inferior bricks will absorb as much as a
 third. The Romans were great users of bricks, both burnt and sun-dried. At
 the decline of the Roman empire, the art of brickmaking fell into disuse,
-but after the lapse of some centuries it was revived, and the ancient
+but after the [[Lapse|lapse]] of some centuries it was revived, and the ancient
 architecture of Italy shows many fine examples of brick and terra-cotta
 work. The scarcity of stone in the Netherlands led to the development of a
 brick architecture, and fine examples of brickwork abound in the Low
 Countries. The Romans seem to have introduced brickmaking into England, and
 specimens of the large thin bricks, which they used chiefly as a bond for
-rubble masonry, may be seen in the many remains of Roman buildings
+rubble [[Masonry|masonry]], may be seen in the many remains of Roman buildings
 scattered about that country. During the reigns of the early Tudor kings
 the art of brickmaking arrived at great perfection, and some of the finest
 known specimens of ornamental brickwork are to be found among the work of
@@ -216,10 +216,10 @@ for rough walling, garden work, &c.
 _Pressed bricks_, moulded under hydraulic pressure, and much used for
 facing work. They usually have a deep frog or hollow on one or both
 horizontal faces, which reduces the weight of the brick and forms an
-excellent key for the mortar.
+excellent [[Key|key]] for the mortar.
 
 _Blue bricks_, chiefly made in South Staffordshire and North Wales. They
-are used in engineering work, and where great compressional resistance is
+are used in [[Engineering|engineering]] work, and where great compressional resistance is
 needed, as they are vitrified throughout, hard, heavy, impervious and very
 durable. Blue bricks of special shape may be had for paving, channelling
 and coping.
@@ -238,7 +238,7 @@ _Moulded bricks_, for cornices, string courses, plinths, labels and
 copings. They are made in the different classes to many patterns; and on
 account of their greater durability, and the saving of the labour of
 cutting, are preferable in many cases to rubbers. For sewer work and
-arches, bricks shaped as voussoirs are supplied.
+[[Arches|arches]], bricks shaped as voussoirs are supplied.
 
 The strength of brickwork varies very considerably according to the kind of
 brick used, the position in which it is used, the kind and [Sidenote:
@@ -248,7 +248,7 @@ carried out in 1896-1897 by the Royal Institute of British Architects to
 determine the average loads per sq. ft. at which crushing took place, may
 be briefly summarized as follows: Stock brickwork in lime mortar crushed
 under a pressure of 18.63 tons per sq. ft., and in cement mortar under
-39.29 tons per sq. ft. Gault brickwork in lime mortar crushed at 31.14
+39.29 tons per sq. ft. [[Gault]] brickwork in lime mortar crushed at 31.14
 tons, and in cement mortar at 51.34 tons. Fletton brickwork in lime crushed
 under a load of 30.68 tons, in cement under 56.25 tons. Leicester red
 brickwork in lime mortar crushed at 45.36 tons per sq. ft., in cement
@@ -278,7 +278,7 @@ obtained from the pit, being sharp and angular. It is, however, liable to
 be mixed with clay or earth, which must be washed away before the sand is
 used. Gravel found mixed with it must be removed by screening or sifting.
 River sand is frequently used, but is not so good as pit sand on account of
-the particles being rubbed smooth by attrition. Sea sand is objectionable
+the particles being rubbed smooth by [[Attrition|attrition]]. Sea sand is objectionable
 for two reasons; it cannot be altogether freed from a saline taint, and if
 it is used the salt attracts moisture and is liable to keep the brickwork
 permanently damp. The particles, moreover, are generally rounded by
@@ -292,7 +292,7 @@ Thoroughly burnt clay or ballast, old bricks, clinkers and cinders, ground
 to a uniform size and screened from dust, also make excellent substitutes.
 
 Fat limes (that is, limes which are pure, as opposed to "hydraulic" limes
-which are burnt from limestone containing some clay) should not be used for
+which are burnt from [[Limestone|limestone]] containing some clay) should not be used for
 mortar; they are slow-setting, and there is a liability for some of the
 mortar, where there is not a free access of air to assist the setting,
 remaining soft for some considerable period, often months, thus causing
@@ -301,7 +301,7 @@ hydraulic, and makes a good mortar for ordinary work. It, however, decays
 under the influence of the weather, and it is, therefore, advisable to
 point the external face of the work in blue ash or cement mortar, in order
 to obtain greater durability. It should never be used in foundation work,
-or where exposed to wet. Lias lime is hydraulic, that is, it will set firm
+or where exposed to wet. [[Lias]] lime is hydraulic, that is, it will set firm
 under water. It should be used in all good class work, where Portland
 cement is not desired.
 
@@ -314,7 +314,7 @@ Ordinary lime mortar may have its strength considerably enhanced by the
 addition of a small proportion of Portland cement. Roman cement is rarely
 used for mortar, but is useful in some cases on account of the rapidity
 with which it sets, usually becoming hard about fifteen minutes after
-mixing. It is useful in tidal work and embankments, and constructions under
+mixing. It is useful in tidal work and [[Embankment|embankments]], and constructions under
 water. It has about one-third of the strength of Portland cement, by which
 it is now almost entirely supplanted. Selenitic cement or lime, invented by
 Major-General H. Y. D. Scott (1822-1883), is lias lime, to which a small
@@ -353,7 +353,7 @@ done by using unslaked lime mortar. The mortar must be prepared in small
 quantities immediately before being used, so that binding action takes
 place before it cools. When the wall is left at night time the top course
 should be covered up to prevent the penetration of rain into the work,
-which would then be destroyed by the action of frost. Bricks used during
+which would then be destroyed by the action of [[Frost|frost]]. Bricks used during
 frosty weather should be quite dry, and those that have been exposed to
 rain or frost should never be employed. The question whether there is any
 limit to bricklayers' work in frost is still an open one. Among the members
@@ -404,14 +404,14 @@ and other work when fine joints are desired. In ordinary work it is
 sometimes used every four or five courses to fill up any spaces that may
 have been inadvertently left between the bricks. This at the best is but
 doing with grout what should be done with mortar in the operation of laying
-the bricks; and filling or flushing up every course with mortar requires
+the bricks; and filling or [[Flushing|flushing]] up every course with mortar requires
 but little additional exertion and is far preferable. The use of grout is,
 therefore, a sign of inefficient workmanship, and should not be
 countenanced in good work. It is liable, moreover, to ooze out and stain
 the face of the brickwork.
 
 _Lime putty_ is pure slaked lime. It is prepared or "run," as it is termed,
-in a wooden tub or bin, and should be made as long a time as possible
+in a wooden tub or [[Bin|bin]], and should be made as long a time as possible
 before being used; at least three weeks should elapse between preparation
 and use.
 
@@ -464,7 +464,7 @@ mortar allowed to set. White lime putty is next filled into the groove,
 being pressed on with a jointing tool, leaving a white joint 1/8 to 1/4 in.
 wide, and with a projection of about 1/16 in. beyond the face of the work.
 This method is not a good or a durable one, and should only be adopted in
-old work when the edges of the bricks are broken or irregular. In bastard
+old work when the edges of the bricks are broken or irregular. In [[Bastard|bastard]]
 tuck pointing (L), the ridge, instead of being in white lime putty, is
 formed of the stopping mortar itself.
 
@@ -490,7 +490,7 @@ cover the joints of those in the course below it, and so [Sidenote:
 Bonding.] tend to make the whole mass or combination of bricks act as much
 together, or as dependently one upon another, as possible. The workmen
 should be strictly supervised as they proceed with the work, for many
-failures are due to their ignorance or carelessness in this particular. The
+failures are due to their [[Ignorance|ignorance]] or carelessness in this particular. The
 object of bonding will be understood by reference to fig. 4. Here it is
 evident from the arrangement of the bricks that any weight placed on the
 topmost brick (a) is carried down and borne alike in every course; in this
@@ -563,7 +563,7 @@ erected for manufacturing and similar purposes, and in engineering works
 where the greatest degree of strength and compactness is considered of the
 highest importance, English bond should have the preference.
 
-A compromise is sometimes made between the two above-mentioned bonds. For
+A [[Compromise|compromise]] is sometimes made between the two above-mentioned bonds. For
 the sake of appearance the bricks are laid to form Flemish bond on the
 face, while the backing is of English bond, the object being to combine the
 best features of the two bonds. Undoubtedly the result is an improvement on
@@ -575,14 +575,14 @@ In stretching bond, which should only be used for walls half a brick in
 thickness, all the bricks are laid as stretchers, a half brick being used
 in alternate courses to start the bond. In work curved too sharply on plan
 to admit of the use of stretchers, and for footings, projecting mouldings
-and corbels, the bricks are all laid as headers, i.e. with their ends to
+and [[Corbel|corbels]], the bricks are all laid as headers, i.e. with their ends to
 the front, and their length across the thickness of the wall. This is
 termed "heading bond."
 
 [Illustration: FIG. 7.--Single Flemish Bond.]
 
 In thick walls, three bricks thick and upwards, a saving of labour is
-effected without loss of strength, by the adoption of "herring bone" or
+effected without loss of strength, by the adoption of "herring [[Bone|bone]]" or
 "diagonal bond" in the interior of the wall, the outer faces of the wall
 being built in English and Flemish bond. This mode should not be had
 recourse to for walls of a less thickness than 27 in., even that being
@@ -644,7 +644,7 @@ very usual one is a double layer of roofing slates laid in neat Portland
 cement (fig. 8), the joints being well lapped. A course or two of
 Staffordshire blue bricks in cement is excellent where heavy weights have
 to be considered. Glazed stoneware perforated slabs about 2 in. thick are
-specially made for use as damp-proof courses. Asphalt (fig. 9) recently has
+specially made for use as damp-proof courses. [[Asphalt]] (fig. 9) recently has
 come into great favour with architects; a layer 1/2 or 3/4 in. thick is a good
 protection against damp, and not likely to crack should a settlement occur,
 but in hot weather it is liable to squeeze out at the joints under heavy
@@ -652,7 +652,7 @@ weights. Felt covered with bitumen is an excellent substitute for asphalt,
 and is not liable to crack or squeeze out. Sheet lead is efficient, but
 very costly and also somewhat liable to squeezing. A damp-proof course has
 been introduced consisting of a thin sheet of lead sandwiched between
-layers of asphalt. Basement storeys to be kept dry require, besides the
+layers of asphalt. [[Basement]] storeys to be kept dry require, besides the
 damp-proof course horizontally in the wall, a horizontal course, usually of
 asphalt, in the thickness of the floor, and also a vertical damp-proof
 course from a level below that of the floor to about 6 in. above the level
@@ -685,7 +685,7 @@ non-porous coping bricks, or of stone, cast-iron, or cement sloped or
 
 The exterior of walls above the ground line may be protected by coating the
 surface with cement or rough cast; or covering with slates or tiles fixed
-on battens in a similar manner to those on a roof (fig.13).
+on [[Batten|battens]] in a similar manner to those on a roof (fig.13).
 
 The use of hollow walls in exposed positions has already been referred to.
 
@@ -695,7 +695,7 @@ that "every wall of a house or building shall have a damp course composed
 of materials impervious to moisture approved by the district surveyor,
 extending throughout its whole thickness at the level of not less than 6
 in. below the level of the lowest floor. Every external wall or enclosing
-wall of habitable rooms or their appurtenances or cellars which abuts
+wall of habitable rooms or their [[Appurtenances|appurtenances]] or cellars which abuts
 against the earth shall be protected by materials impervious to moisture to
 the satisfaction of the district surveyor..." "The top of every party-wall
 and parapet-wall shall be finished with one course of hard, well-burnt
@@ -705,8 +705,8 @@ fire-resisting material, properly secured."
 Arches are constructions built of wedge-shaped blocks, which by reason of
 their shape give support one to another, and to the [Sidenote: Arches.]
 super-imposed weight, the resulting load being transmitted through the
-blocks to the abutments upon which the ends of the arch rest. An arch
-should be composed of such materials and designed of such dimensions as to
+blocks to the abutments upon which the ends of the [[Arch|arch]] rest. An arch
+should be composed of such materials and designed of such [[Dimension|dimensions]] as to
 enable it to retain its proper shape and resist the crushing strain imposed
 upon it. The abutments also must be strong enough to take safely the thrust
 of the weighted arch, as the slightest movement in these supports will
@@ -749,9 +749,9 @@ the sides of the voussoirs are gauged out hollow and grouted in Portland
 cement, thus connecting each brick with the next by a joggle joint. Gauged
 arches, being for the most part but a half-brick in thickness on the soffit
 and not being tied by a bond to anything behind them--for behind them is
-the lintel with rough discharging arch over, supporting the remaining width
+the [[Lintel|lintel]] with rough [[Discharging Arch|discharging arch]] over, supporting the remaining width
 of the wall--require to be executed with great care and nicety. It is a
-common fault with workmen to rub the bricks thinner behind than before to
+common [[Fault|fault]] with workmen to rub the bricks thinner behind than before to
 lessen the labour required to obtain a very fine face joint. This practice
 tends to make the work bulge outwards; it should rather be inverted if it
 be done at all, though the best work is that in which the bricks are gauged
@@ -784,7 +784,7 @@ with steel bars, they should have relieving arches turned immediately over
 them (Fig.15).
 
 "Fixing bricks" were formerly of wood of the same size as the ordinary
-brick, and built into the wall as required for fixing joinery. Owing to
+brick, and built into the wall as required for fixing [[Joinery|joinery]]. Owing to
 their liability to shrinkage and decay, their use is now practically
 abandoned, their place being taken by bricks of coke-breeze concrete, which
 do not shrink or rot and hold fast nails or screws driven into them.
@@ -794,7 +794,7 @@ When suitable provision for fixing has not been made, wood plugs are driven
 into the joints of the bricks. Great care must be taken in driving these in
 the joints of reveals or at the corners of walls, or damage may be done.
 
-The name "brick-ashlar" is given to walls faced with ashlar stonework
+The name "brick-ashlar" is given to walls faced with [[Ashlar|ashlar]] stonework
 backed in with brickwork. Such constructions are liable in an aggravated
 degree to the unequal settling and its attendant evils pointed out as
 existing in walls built with different qualities of bricks. The outer face
@@ -819,7 +819,7 @@ chimney and other flues. Considerable skill is required in [Sidenote:
 Chimneys and flues.] gathering-over properly above the fireplace so as to
 conduct the smoke into the smaller flue, which itself requires to be built
 with precision, so that its capacity may not vary in different parts. Bends
-must be made in gradual curves so as to offer the least possible resistance
+must be made in [[Gradual|gradual]] curves so as to offer the least possible resistance
 to the up-draught, and at least one bend of not less than 60 deg. should be
 formed in each flue to intercept down-draughts. Every fireplace must have a
 separate flue. The collection of a number of flues into a "stack" is
@@ -842,7 +842,7 @@ largely used in place of the pargetting; although more expensive than the
 latter they have the advantage in point of cleanliness and durability.
 Fireplaces generally require more depth than can be provided in the
 thickness of the wall, and therefore necessitate a projection to contain
-the fireplace and flues, called the "chimney breast." Sometimes, especially
+the fireplace and flues, called the "chimney [[Breast|breast]]." Sometimes, especially
 when the wall is an external one, the projection may be made on the back,
 thus allowing a flush wall in the room and giving more space and a more
 conveniently-shaped room. The projection on the outside face of the wall
@@ -886,11 +886,11 @@ in. being kept between the lining and the main wall. The lining itself is
 usually 41/2 in. thick. The cap is usually of cast iron or terra-cotta
 strengthened with iron bolts and straps, and sometimes of stone, but the
 difficulty of properly fixing this latter material causes it to be
-neglected in favour of one of the former. (See a paper by F.J. Bancroft on
+neglected in favour of one of the former. (See a paper by F.J. [[Bancroft]] on
 "Chimney Construction," which contains a tabulated description of nearly
 sixty shafts, _Proc. Civ. and Mech. Eng. Soc._, December 1883.)
 
-The work of laying bricks or tiles as paving falls to the lot of the
+The work of laying bricks or tiles as paving falls to the [[Lot|lot]] of the
 bricklayer. Paving formed of ordinary bricks laid flat or on their
 [Sidenote: Brick paving.] edges was once in general use, but is now almost
 abandoned in favour of floors of special tiles or cement paving, the latter
@@ -906,16 +906,16 @@ high temperature and of a light yellow colour; they are 6 in. long, 3 in.
 wide, 11/2 in. thick. A variety of paving tile called "oven tiles" is of
 similar material to the ordinary red brick, and in size is 10 or 12 in.
 square and 1 to 2 in. thick. An immense variety of ornamental paving and
-walling tiles is now manufactured of different colours, sizes and shapes,
+walling tiles is now manufactured of different [[Colours|colours]], sizes and shapes,
 and the use of these for lining sculleries, lavatories, bathrooms,
 provision shops, &c., makes for cleanliness and improved sanitary
 conditions. Besides, however, being put to these uses, tiles are often used
 in the ornamentation of buildings, externally as well as internally.
 
-Mosaic work is composed of small pieces of marble, stone, glass or pottery,
+Mosaic work is composed of small pieces of [[Marble|marble]], stone, glass or pottery,
 laid as paving or wall lining, usually in some ornamental pattern or
 design. A firm bed of concrete is required, the pieces of [v.04 p.0528]
-material being fixed in a float of cement about half or three-quarters of
+material being fixed in a [[Float|float]] of cement about half or three-quarters of
 an inch thick. Roman mosaic is formed with cubes of marble of various
 colours pressed into the float. A less costly paving may be obtained by
 strewing irregularly-shaped marble chips over the floated surface: these
@@ -929,7 +929,7 @@ The principal publications on brickwork are as follows:--Rivington, _Notes
 on Building Construction_, vols. i. ii. iii.; Col. H.E. Seddon, _Aide
 Memoir_, vol. ii.; _Specification_; J.P. Allen, _Building Construction_;
 F.E. Kidder, _Building Construction and Superintendence_, part i. (1903);
-Longmans & Green, _Building Construction_; E. Dobson, _Bricks and Tiles_;
+[[Longmans]] & Green, _Building Construction_; E. [[Dobson]], _Bricks and Tiles_;
 Henry Adams, _Building Construction_; C.F. Mitchell, _Building
 Construction_, vols. i. ii.; E. Street, _Brick and Marble Architecture in
 Italy_.

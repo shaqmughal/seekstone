@@ -7,7 +7,7 @@ manifestations of the spirit of "Transcendentalism," in New England, though
 many of the more prominent transcendentalists took no direct part in it.
 The project was originated by George Ripley, who also virtually directed it
 throughout. In his words it was intended "to insure a more natural union
-between intellectual and manual labour than now exists; to combine the
+between intellectual and [[Manual|manual]] labour than now exists; to combine the
 thinker and the worker, as far as possible, in the same individual; to
 guarantee the highest mental freedom by providing all with labour adapted
 to their tastes and talents, and securing to them the fruits of their
@@ -26,18 +26,18 @@ a new community in his waistcoat pocket,"--the Brook Farm project certainly
 did not appear as impossible a scheme as many others that were in the air.
 At all events it enlisted the co-operation of men whose subsequent careers
 show them to have been something more than visionaries. The association
-bought a tract of land about 10 m. from Boston, and in the summer of 1841
+bought a tract of land about 10 m. from [[Boston]], and in the summer of 1841
 began its enterprise with about twenty members. In September the "Brook
 Farm Institute of Agriculture and Education" was formally organized, the
-members [v.04 p.0646] signing the Articles of Association and forming an
+members [v.04 p.0646] signing the [[Articles Of Association|Articles of Association]] and forming an
 unincorporated joint-stock company. The farm was assiduously, if not very
 skilfully, cultivated, and other industries were established--most of the
 members paying by labour for their board--but nearly all of the income, and
 sometimes all of it, was derived from the school, which deservedly took
 high rank and attracted many pupils. Among these were included George
-William Curtis and his brother James Burrill Curtis, Father Isaac Thomas
+William Curtis and his brother James Burrill Curtis, Father [[Isaac]] Thomas
 Hecker (1819-1888), General Francis C. Barlow (1834-1896), who as
-attorney-general of New York in 1871-1873 took a leading part in the
+[[Attorney-General|attorney-general]] of New York in 1871-1873 took a leading part in the
 prosecution of the "Tweed Ring." For three years the undertaking went on
 quietly and simply, subject to few outward troubles other than financial,
 the number of associates increasing to seventy or eighty. It was during
@@ -48,7 +48,7 @@ idea--which gave him great pain--that he had either drawn his characters
 from persons there, or had meant to give any actual description of the
 colony. Emerson refused, in a kind and characteristic letter, to join the
 undertaking, and though he afterwards wrote of Brook Farm with not
-uncharitable humour as "a perpetual picnic, a French Revolution in small,
+uncharitable [[Humour|humour]] as "a perpetual picnic, a [[French Revolution]] in small,
 an age of reason in a patty-pan," among its founders were many of his near
 friends. In 1844 the growing need of a more scientific organization, and
 the influence which F.M.C. Fourier's doctrines, as modified by Albert
@@ -57,10 +57,10 @@ associates, combined to change the whole plan of the community. It was
 transformed, with the strong approval of all its chief members and the
 consent of the rest, into a Fourierist "phalanx" in 1845. There was an
 accession of new members, a momentary increase of prosperity, a brilliant
-new undertaking in the publication of a weekly journal, the _Harbinger_, in
-which Ripley, Charles A. Dana, Francis G. Shaw and John S. Dwight were the
-chief writers, and to which James Russell Lowell, J.G. Whittier, George
-William Curtis, Parke Godwin, T.W. Higginson, Horace Greeley and many more
+new undertaking in the publication of a weekly journal, the _[[Harbinger]]_, in
+which Ripley, Charles A. Dana, Francis G. Shaw and John S. [[Dwight]] were the
+chief writers, and to which James Russell [[Lowell]], J.G. Whittier, George
+William Curtis, Parke Godwin, T.W. [[Higginson]], Horace Greeley and many more
 now and then contributed. But the individuality of the old Brook Farm was
 gone. The association was not rescued even from financial troubles by the
 change. With increasing difficulty it kept on till the spring of 1846, when
@@ -69,7 +69,7 @@ which caused, or certainly gave the final ostensible reason for, its
 dissolution. The experiment was abandoned in the autumn of 1847. Besides
 Ripley and Hawthorne, the principal members of the community were Charles
 A. Dana, John S. Dwight, Minot Pratt (c. 1805-1878), the head farmer, who,
-like George Partridge Bradford (1808-1890), left in 1845, and Warren Burton
+like George Partridge [[Bradford]] (1808-1890), left in 1845, and Warren Burton
 (1810-1866) a preacher and, later, a writer on educational subjects.
 Indirectly connected with the experiment, also, as visitors for longer or
 shorter periods but never as regular members, were Emerson, Amos Bronson
@@ -112,7 +112,7 @@ From Cooke, _Handbook of British Hepaticae_.]
 
 _Pellia epiphylla_ (fig. 2) can be found at any season growing in large
 patches on the damp soil of woods, banks, &c. The broad flat thallus is
-green and may be a couple of inches long. It is sparingly branched, the
+green and may be a couple of [[Inch|inches]] long. It is sparingly branched, the
 branching being apparently dichotomous; the growing point is situated in a
 depression at the anterior end of each branch. The wing-like lateral
 portions of the thallus gradually thin out from the midrib; from the
@@ -159,7 +159,7 @@ first are unicellular; but in _Pellia_, which in this respect is
 exceptional, they commence their further development within the capsule,
 and thus consist of several cells when shed. [v.04 p.0647] The cells of the
 capsule wall have incomplete, brown, thickened rings on their walls, and
-the capsule opens by splitting into four valves, which bend away from one
+the capsule opens by splitting into four valves, which [[Bend|bend]] away from one
 another, allowing the loose spores to be readily dispersed by the wind,
 assisted by the hygroscopic movements of the elaters. On falling upon damp
 soil the spores germinate, growing into a thallus, which gradually attains
@@ -195,7 +195,7 @@ and seta is present, and sterile cells or elaters occur with the spores.
 The lower members of the Jungermanniales are also thalloid, but the thallus
 never has the complicated structure characteristic of the Marchantiales,
 and progress is in the direction of the differentiation of the plant into
-stem and leaf. Indications of how this may have come about are afforded by
+stem and [[Leaf|leaf]]. Indications of how this may have come about are afforded by
 the lower group of the Anacrogynous Jungermanniaceae, and throughout the
 Acrogynous Jungermanniacae the plant has well-marked stem and leaves. The
 sporogonium even in the simplest forms has a sterile foot, but in this
@@ -249,7 +249,7 @@ prevention of loss of water from the plant. The large surface presented by
 the leafy forms facilitates the retention and absorption of water. The
 importance of prolonging the moistened condition as long as possible is
 further shown by special adaptations to retain water either between the
-appressed lobes of the leaves or in special pitcher-like sacs. In thalloid
+appressed [[Lobe|lobes]] of the leaves or in special pitcher-like sacs. In thalloid
 forms fimbriate or lobed margins or outgrowths from the surface lead to the
 same result. Sometimes adaptations to protect the plant during seasons of
 drought, such as the rolling up of the thallus in many xerophytic
@@ -405,7 +405,7 @@ germ-tube, in the terminal cell of which the apical cell is established,
 but the direction of growth of the young thallus is usually not in the same
 straight line as the germ-tube. The Marchantiales are divided into a number
 of groups which represent distinct lines of advance from forms like the
-Ricciaceae, but the details of their classification cannot be entered upon
+Ricciaceae, but the details of their [[Classification|classification]] cannot be entered upon
 here. The general nature of the progression exhibited by the group as a
 whole will, however, be evident from the above account.
 
@@ -466,7 +466,7 @@ by a bell-shaped involucre which grows up after fertilization. _Treubia_,
 which grows on rotting wood in the mountain forests of Java, is similarly
 differentiated into stem and leaf, and is the largest liverwort known,
 reaching a length of thirty centimetres. Lastly _Haplomitrium_, a rare
-British genus, forms with the exotic _Calobryum_, an isolated group which
+British genus, forms with the [[Exotic|exotic]] _Calobryum_, an isolated group which
 is most naturally placed among the anacrogynous forms although the
 archegonia are in terminal groups. The erect branches bear three rows of
 leaves, and spring from a creeping axis from which root-like branches
@@ -795,11 +795,11 @@ operculum.]
 _Sphagnales._--The single genus _Sphagnum_ occupies a very distinct and
 isolated position among mosses. The numerous species, which are familiar as
 the bog-mosses, are so similar that minute structural characters have to be
-relied on in their identification. The plants occur in large patches of a
+relied on in their [[Identification|identification]]. The plants occur in large patches of a
 pale green or reddish colour on moors, and, when filling up small lakes or
 pools, may attain a length of some feet. Their growth has played a large
 part in the formation of peat. The species are distributed in temperate and
-arctic climates, but in the tropics only occur at high levels. The
+[[Arctic|arctic]] climates, but in the tropics only occur at high levels. The
 protonema forms a flat, lobed, thalloid structure attached to the soil by
 rhizoids, and the plants arise from marginal cells. The main shoot bears
 numerous branches which appear to stand in whorls; some of them bend down
@@ -1032,8 +1032,8 @@ comparison in their alternation of generations with _Riccia_, have shown
 that the body resulting from the segmentation of the fertilized ovum is not
 so strictly comparable in the two cases as had been supposed. The series of
 increasingly complex sporogonia among Bryophytes appears to be most
-naturally explained on an hypothesis of progressive sterilization of
-sporogenous tissue, such as has been advanced by Bower. On the other hand
+naturally explained on an [[Hypothesis|hypothesis]] of progressive sterilization of
+sporogenous tissue, such as has been advanced by [[Bower]]. On the other hand
 there are not wanting indications of reduction in the Bryophyte sporogonium
 which make an alternative view of its origin at least possible. With regard
 to the relationship of the Bryophyta and Pteridophyta the article on the
@@ -1057,7 +1057,7 @@ For further information consult: Campbell, _Mosses and Ferns_ (London,
 Full references to the literature of the subject will be found in these
 works. For the identification of the British species of liverworts and
 mosses the following recent works will be of use: Pearson, _The Hepaticae
-of the British Isles_ (London, 1902); Dixon and Jameson, _The Student's
+of the British Isles_ (London, 1902); Dixon and [[Jameson]], _The Student's
 Handbook of British Mosses_ (London, 1896); Braithwaite, _British Moss
 Flora_ (London, 1887-1905).
 

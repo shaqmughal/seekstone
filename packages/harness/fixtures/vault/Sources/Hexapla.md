@@ -11,7 +11,7 @@ tags: [enlightenment, physics]
 HEXAPLA (Gr. for "sixfold"), the term for an edition of the Bible in six
 versions, and especially the edition of the Old Testament compiled by
 Origen, which placed side by side (1) Hebrew, (2) Hebrew in Greek
-character, (3) Aquila, (4) Symmachus, (5) Septuagint, (6) Theodotion.
+character, (3) [[Aquila]], (4) Symmachus, (5) Septuagint, (6) Theodotion.
 See BIBLE: _Old Testament, Texts and Versions_.
 
 ## See also

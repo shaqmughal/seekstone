@@ -5,7 +5,7 @@ Sea, 2 m. from the coast of Northumberland, in which county it is
 included. Pop. (1901) 405. It is joined to the mainland at low water by
 flat sands, over which a track, marked by wooden posts and practicable
 for vehicles, leads to the island. There is a station on the
-North-Eastern railway at Beak 9 m. S.E. of Berwick, opposite the island,
+North-Eastern railway at [[Beak]] 9 m. S.E. of [[Berwick]], opposite the island,
 but 1(1/4) m. inland. The island measures 3 m. from E. to W. and 1(1/2)
 N. to S., extreme distances. Its total area is 1051 acres. On the N. it
 is sandy and barren, but on the S. very fertile and under cultivation.
@@ -24,7 +24,7 @@ retreat to St Cuthbert and his successors. The castle, situated east of
 the village, on a basaltic rock about 90 ft. high, dates from _c._ 1500.
 
 When St Aidan came at the request of King Oswald to preach to the
-Northumbrians he chose the island of Lindisfarne as the site of his
+Northumbrians he [[Chose|chose]] the island of Lindisfarne as the site of his
 church and monastery, and made it the head of the diocese which he
 founded in 635. For some years the see continued in peace, numbering
 among its bishops St Cuthbert, but in 793 the Danes landed on the island
@@ -52,7 +52,7 @@ but by trayne," and the master gunner had been "miserably slain" in
 discharging one of them. During the Civil Wars the castle was held for
 the king until 1646, when it was taken and garrisoned by the
 parliamentarians. The only other historical event connected with the
-island is the attempt made by two Jacobites in 1715 to hold it for the
+island is the attempt made by two [[Jacobites]] in 1715 to hold it for the
 Pretender.
 
 ## References

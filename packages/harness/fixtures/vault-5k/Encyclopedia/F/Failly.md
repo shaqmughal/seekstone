@@ -14,7 +14,7 @@ army from St Cyr in 1828. In 1851 he had risen to the rank of colonel,
 and Napoleon III., with whom he was a favourite, made him general of
 brigade in 1854 and general of division in 1855, after which for a time
 De Failly was his aide-de-camp. In the war of 1859 De Failly commanded a
-division, and in 1867 he defeated Garibaldi at Mentana, this action
+division, and in 1867 he defeated [[Garibaldi]] at Mentana, this action
 being the first in which the chassepot was used. In 1870 De Failly
 commanded the V. corps. His inactivity at Bitsch on the 6th of August
 while the I. corps on his right and the II. corps on his left were

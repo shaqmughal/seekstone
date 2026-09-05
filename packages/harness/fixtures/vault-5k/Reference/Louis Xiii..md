@@ -37,13 +37,13 @@ crown against all rivals at home. This policy had remarkable results for
 the king's private life. It not only brought him into unremitting
 conflict with the Protestants and the nobles of France, but also made
 him the enemy of his mother, of his brother Gaston of Orleans, who made
-himself the champion of the cause of the nobles, and sometimes even of
+himself the [[Champion|champion]] of the cause of the nobles, and sometimes even of
 his wife. It is not easy to define his relations to Richelieu. He was
 convinced of his loyalty and of his genius, and in the end always
-supported his policy. But he disliked the friction with his family
+supported his policy. But he disliked the [[Friction|friction]] with his family
 circle which this policy produced. In the difficulty with which he
 expressed himself and in a certain indecision of character the king was
-curiously unlike his father, the frank and impetuous Henry of Navarre,
+curiously unlike his father, the [[Frank|frank]] and impetuous Henry of Navarre,
 and his absolute son Louis XIV. He took a great interest in all the
 externals of war. He was present, and is said to have played an
 important part at the passage of Susa in 1629, and also eagerly
@@ -58,7 +58,7 @@ that Richelieu was dismissed and that the queen-mother and a Spanish
 policy had triumphed. But the sequel only strengthened the power of the
 minister. He regained his ascendancy over the king, punished his enemies
 and forced Marie de' Medici and Gaston of Orleans to sue for pardon. In
-1631 Gaston fled to Lorraine and the queen-mother to Brussels. Gaston
+1631 Gaston fled to [[Lorraine]] and the queen-mother to Brussels. Gaston
 soon returned, to plot, to fail and to sue for pardon again and again;
 but Marie de'Medici ended her life in exile.
 
@@ -94,12 +94,12 @@ on the death of Louis XIII.
   The chief source of information on Louis XIII.'s life is to be found
   in the contemporary memoirs, of which the chief are: Bassompierre,
   Fontenay-Mareuil, Gaston d'Orléans, Montrésor, Omer Talon. Richelieu's
-  own Memoirs are chiefly concerned with politics and diplomacy. Of
+  own Memoirs are chiefly concerned with politics and [[Diplomacy|diplomacy]]. Of
   modern works those most directly bearing on the king's personal life
   are R. de Beauchamp, _Louis XIII. d'après sa correspondance avec le
-  cardinal de Richelieu_; G. Hanotaux, _Histoire du cardinal de
+  cardinal de Richelieu_; G. [[Hanotaux]], _Histoire du cardinal de
   Richelieu_ (1893-1896); Rossignol, _Louis XIII. avant Richelieu_; M.
-  Topin, _Louis XIII. et Richelieu_ (1876). See too Professor R. Lodge,
+  Topin, _Louis XIII. et Richelieu_ (1876). See too Professor R. [[Lodge]],
   _Richelieu_; J. B. H. R. Capefigue, _Richelieu, Mazarin et la Fronde_
   (1835-1836); and Dr J. H. Bridges, _Richelieu, Mazarin and Colbert_
   (1866).

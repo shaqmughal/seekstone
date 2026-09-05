@@ -16,8 +16,8 @@ remarkable being the church of the Virgin of Consolation, founded in
 Manufacture of woollens, cottons, Russia leather and embroidery is
 carried on, and there is trade in cattle, wine, tobacco, hemp, hides and
 grain. Much of the neighbouring plain is very fertile, and the town is
-surrounded with gardens and orchards, in which orange, lemon and citron
-come to great perfection. In 1083 Arta was taken by Bohemund of
+surrounded with gardens and orchards, in which orange, [[Lemon|lemon]] and citron
+come to great perfection. In 1083 Arta was taken by [[Bohemund]] of
 Tarentum; in 1449 by the Turks; in 1688 by the Venetians. In 1797 it was
 held by the French, but in the following year, 1798, Ali Pasha of
 Iannina captured it. During the Greek War of Independence it suffered

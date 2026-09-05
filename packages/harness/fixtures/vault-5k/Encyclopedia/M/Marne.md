@@ -9,9 +9,9 @@ tags: [history]
 
 MARNE, a department of north-eastern France, made up from
 Champagne-Pouilleuse, Rémois, Haute-Champagne, Perthois, Tardenois,
-Bocage and Brie-Pouilleuse, districts formerly belonging to Champagne,
+[[Bocage]] and Brie-Pouilleuse, districts formerly belonging to Champagne,
 and bounded W. by Seine-et-Marne and Aisne, N. by Aisne and Ardennes, E.
-by Meuse, and S. by Haute-Marne and Aube. Pop. (1906), 434,157. Area
+by Meuse, and S. by Haute-Marne and [[Aube]]. Pop. (1906), 434,157. Area
 3167 sq. m.
 
 About one-half consists of Champagne-Pouilleuse, a monotonous and barren
@@ -26,7 +26,7 @@ belong geologically to the basin of Paris. They slope gently towards the
 west, but command the plain of Champagne-Pouilleuse by a steep descent
 on the east. On the farther side of the plain are the heights of Argonne
 (860 ft.) formed of beds of the Lower Chalk, and covered by forests;
-they unite the calcareous formations of Langres to the schists of
+they unite the calcareous formations of [[Langres]] to the schists of
 Ardennes, and a continuation of them stretches southward into Perthois
 and the marshy Bocage. The department belongs entirely to the Seine
 basin, but includes only 13 miles of that river, in the south-west; it
@@ -46,23 +46,23 @@ crops. The raising of sheep of a mixed merino breed and of other stock
 together with bee-farming are profitable. The vineyards, concentrated
 chiefly round Reims and Épernay, are of high value; the manufacture of
 the sparkling Champagne wines being a highly important industry, of
-which Épernay, Reims and Châlons are the chief centres. Several communes
-supply the more valuable vegetables, such as asparagus, onions, &c. The
+which Épernay, Reims and Châlons are the chief centres. Several [[Commune|communes]]
+supply the more valuable vegetables, such as [[Asparagus|asparagus]], onions, &c. The
 principal orchard fruits are the apple, plum and cherry. Pine woods are
 largely planted in Champagne-Pouilleuse. The department produces peat,
 millstones and chalk.
 
 The woollen industry has brought together in the neighbourhood of Reims
 establishments for spinning, carding, dyeing and weaving. The materials
-wrought are flannels, merinoes, tartans, shawls, rugs and fancy
-articles; the manufacture of woollen and cotton hosiery must also be
+wrought are [[Flannel|flannels]], merinoes, tartans, shawls, rugs and fancy
+articles; the manufacture of woollen and cotton [[Hosiery|hosiery]] must also be
 mentioned. The manufacture of wine-cases, corks, casks and other goods
 for the wine trade is actively carried on. Marne contains
 blast-furnaces, iron and copper foundries, and manufactories of
-agricultural implements. Besides these there are tan-yards, currying and
+agricultural [[Implement|implements]]. Besides these there are tan-yards, currying and
 leather-dressing establishments and glassworks, which, with sugar,
 chemical, whiting and oil works, potteries, flour-mills and breweries,
-complete the list of the most important industries. Biscuits and
+complete the list of the most important industries. [[Biscuit|Biscuits]] and
 gingerbread are a speciality of Reims. The chief imports are wool and
 coal; the exports are wine, grain, live-stock, stone, whiting, pit-props
 and woollen stuffs. Communication is afforded chiefly by the river Marne
@@ -85,7 +85,7 @@ founded in 1115; and Orbais with an abbey church dating from about 1200.
 
 MARNIAN EPOCH, the name given by G. de Mortillet to the period usually
 called in France the Gallic, which extends from about five centuries
-before the Christian era to the conquest of Gaul by Caesar. M. de
+before the Christian era to the conquest of [[Gaul]] by Caesar. M. de
 Mortillet objects to the term "Gallic," as the civilization
 characteristic of the epoch was not peculiar to the ancient Gauls, but
 was common to nearly all Europe at the same date. The name is derived

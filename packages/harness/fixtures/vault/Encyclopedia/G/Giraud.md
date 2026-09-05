@@ -7,7 +7,7 @@ produced in 1798. He took part in politics as an active supporter of
 Pius VI., but was mainly occupied with the production of his plays, and
 in 1809 became director-general of the Italian theatres. He died at
 Naples in 1834. Count Giraud's comedies, the best of which are _Gelosie
-per equivoco_ (1807) and _L'Ajonell' imbarazzo_ (1824), were bright and
+per equivoco_ (1807) and _L'Ajonell' imbarazzo_ (1824), were [[Bright|bright]] and
 amusing on the stage, but of no particular literary quality.
 
   His collected comedies were published in 1823 and his _Teatro

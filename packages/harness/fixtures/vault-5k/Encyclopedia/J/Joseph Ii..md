@@ -15,12 +15,12 @@ he was made a member of the newly constituted council of state
 of "reveries," for his mother to read. These papers contain the germs of
 his later policy, and of all the disasters which finally overtook him.
 He was a friend to religious toleration, anxious to reduce the power of
-the church, to relieve the peasantry of feudal burdens, and to remove
+the church, to relieve the peasantry of feudal [[Burden|burdens]], and to remove
 restrictions on trade and on knowledge. So far he did not differ from
 Frederick, Catherine of Russia or his own brother and successor Leopold
 II., all enlightened rulers of the 18th-century stamp. Where Joseph
 differed from great contemporary rulers, and where he was very close
-akin to the Jacobins, was in the fanatical intensity of his belief in
+akin to the [[Jacobins]], was in the fanatical intensity of his belief in
 the power of the state when directed by reason, of his right to speak
 for the state uncontrolled by laws, and of the reasonableness of his own
 reasons. Also he had inherited from his mother all the belief of the
@@ -50,7 +50,7 @@ conversation with Frederick may be said to mark the starting-point of
 the first partition of Poland. To this and to every other measure which
 promised to extend the dominions of his house Joseph gave hearty
 approval. Thus he was eager to enforce its claim on Bavaria upon the
-death of the elector Maximilian Joseph in 1777. In April of that year he
+death of the elector [[Maximilian]] Joseph in 1777. In April of that year he
 paid a visit to his sister the queen of France (see MARIE ANTOINETTE),
 travelling under the name of Count Falkenstein. He was well received,
 and much flattered by the encyclopaedists, but his observations led him
@@ -81,7 +81,7 @@ interferences with old customs began to produce unrest in all parts of
 his dominions. Meanwhile he threw himself into a succession of foreign
 policies all aimed at aggrandisement, and all equally calculated to
 offend his neighbours--all taken up with zeal, and dropped in
-discouragement. He endeavoured to get rid of the Barrier Treaty, which
+discouragement. He endeavoured to get rid of the [[Barrier Treaty]], which
 debarred his Flemish subjects from the navigation of the Scheldt; when
 he was opposed by France he turned to other schemes of alliance with
 Russia for the partition of Turkey and Venice. They also had to be given
@@ -94,7 +94,7 @@ and discreditable attempt to surprise Belgrade in time of peace, and was
 followed by the ill-managed campaign of 1788. He accompanied his army,
 but showed no capacity for war. In November he returned to Vienna with
 ruined health, and during 1789 was a dying man. The concentration of his
-troops in the east gave the malcontents of Belgium an opportunity to
+troops in the east gave the malcontents of [[Belgium]] an opportunity to
 revolt. In Hungary the nobles were all but in open rebellion, and in his
 other states there were peasant risings, and a revival of particularist
 sentiments. Joseph was left entirely alone. His minister Kaunitz refused
@@ -124,7 +124,7 @@ succeeded by his brother Leopold II.
   edited by S. Brunner (1871); _Joseph II. und Graf Ludwig Cobenzl. Ihr
   Briefwechsel_, edited by A. Beer and J. von Fiedler (1901); and the
   _Geheime Korrespondenz Josephs II. mit seinem Minister in den
-  Oesterreichischen Niederlanden, Ferdinand Graf Trauttmannsdorff
+  Oesterreichischen Niederlanden, [[Ferdinand]] Graf Trauttmannsdorff
   1787-1789_, edited by H. Schlitter (1902). Among the lives of Joseph
   may be mentioned: A. J. Gross-Hoffinger, _Geschichte Josephs II._
   (1847); C. Paganel, _Histoire de Joseph II._ (1843; German translation

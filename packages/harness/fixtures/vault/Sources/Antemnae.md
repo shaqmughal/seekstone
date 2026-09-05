@@ -8,8 +8,8 @@ tags: [history, horticulture]
 
 # Antemnae
 
-ANTEMNAE (Lat. _ante amnem_, sc. _Anienem_; Varro, _Ling. Lat_. v. 28),
-an ancient village of Latium, situated on the W. of the Via Salaria, 2
+ANTEMNAE (Lat. _ante amnem_, sc. _Anienem_; Varro, _[[Ling]]. Lat_. v. 28),
+an ancient village of [[Latium]], situated on the W. of the Via Salaria, 2
 m. N. of Rome, where the Anio falls into the Tiber. It is said to have
 been conquered by Romulus after the rape of the Sabine women, and to
 have assisted the Tarquins. Certainly it soon lost its independence, and

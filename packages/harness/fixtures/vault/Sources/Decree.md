@@ -5,10 +5,10 @@ earlier form _Decreet_, an authoritative decision having the force of
 law; the judgment of a court of justice. In Roman law, a decree
 (_decretum_) was the decision of the emperor, as the supreme judicial
 officer, settling a case which had been referred to him. In
-ecclesiastical law the term was given to a decision of an ecclesiastical
+[[Ecclesiastical Law|ecclesiastical law]] the term was given to a decision of an ecclesiastical
 council settling a doubtful point of doctrine or discipline (cf. also
-DECRETALS). In English law decree was more particularly the judgment of
-a court of equity, but since the Judicature Acts the expression
+[[Decretals|DECRETALS]]). In [[English Law|English law]] decree was more particularly the judgment of
+a court of [[Equity|equity]], but since the Judicature Acts the expression
 "judgment" (q.v.) is employed in reference to the decisions of all the
 divisions of the supreme court. A "decree _nisi_" is the conditional
 order for a dissolution of marriage made by the divorce court, and it is

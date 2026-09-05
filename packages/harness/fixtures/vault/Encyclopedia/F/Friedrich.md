@@ -4,8 +4,8 @@ FRIEDRICH, JOHANN (1836-   ), German theologian, was born at Poxdorf in
 Upper Franconia on the 5th of May 1836, and was educated at Bamberg and
 at Munich, where in 1865 he was appointed professor extraordinary of
 theology. In 1869 he went to the Vatican Council as secretary to
-Cardinal Hohenlohe, and took an active part in opposing the dogma of
-papal infallibility, notably by supplying the opposition bishops with
+Cardinal [[Hohenlohe]], and took an active part in opposing the dogma of
+papal [[Infallibility|infallibility]], notably by supplying the opposition bishops with
 historical and theological material. He left Rome before the council
 closed. "No German ecclesiastic of his age appears to have won for
 himself so unusual a repute as a theologian and to have held so
@@ -13,7 +13,7 @@ important a position, as the trusted counsellor of the leading German
 cardinal at the Vatican Council. The path was fairly open before him to
 the highest advancement in the Church of Rome, yet he deliberately
 sacrificed all such hopes and placed himself in the van of a hard and
-doubtful struggle" (_The Guardian_, 1872, p. 1004). Sentence of
+doubtful struggle" (_The [[Guardian]]_, 1872, p. 1004). Sentence of
 excommunication was passed on Friedrich in April 1871, but he refused to
 acknowledge it and was upheld by the Bavarian government. He continued
 to perform ecclesiastical functions and maintained his academic

@@ -2,8 +2,8 @@
 
 EXMOUTH, EDWARD PELLEW, 1ST VISCOUNT (1757-1833), English admiral, was
 descended from a family which came originally from Normandy, but had for
-many centuries been settled in the west of Cornwall. He was born at
-Dover, on the 19th of April 1757. At the age of thirteen he entered the
+many centuries been settled in the west of [[Cornwall]]. He was born at
+[[Dover]], on the 19th of April 1757. At the age of thirteen he entered the
 navy, and even then his smartness and activity, his feats of daring, and
 his spirit of resolute independence awakened remark, and pointed him out
 as one specially fitted to distinguish himself in his profession. He had,
@@ -19,7 +19,7 @@ the American campaign of General Burgoyne. In 1782, in command of the
 "Pelican," he attacked three French privateers inside the Île de Batz,
 and compelled them to run themselves on shore--a feat for which he was
 rewarded by the rank of post-captain. On the outbreak of the French War
-in 1793, he was appointed to the "Nymphe," a frigate of 36 guns; and,
+in 1793, he was appointed to the "Nymphe," a [[Frigate|frigate]] of 36 guns; and,
 notwithstanding that for the sake of expedition she was manned chiefly by
 Cornish miners, he captured, after a desperate conflict, the French
 frigate "La Cléopâtre," a vessel of equal strength. For this act he
@@ -58,13 +58,13 @@ vice-admiral.
 
 He had married Susan (d. 1837), daughter of James Frowde of Knoyle,
 Wiltshire, who bore him four sons and two daughters. His eldest son,
-Pownoll Bastard Pellew (1786-1833), became 2nd Viscount Exmouth, and his
+Pownoll [[Bastard]] Pellew (1786-1833), became 2nd Viscount Exmouth, and his
 descendant, Edward Addington Hargreaves Pellew (b. 1890), became the 5th
 viscount in 1899.
 
-Exmouth's second son, Sir Fleetwood Broughton Reynolds Pellew
+Exmouth's second son, Sir [[Fleetwood]] Broughton Reynolds Pellew
 (1789-1861), was like his father an admiral. The third son was George
-Pellew (1793-1866), author and divine, who married Frances (d. 1870),
+Pellew (1793-1866), author and divine, who married [[Franc|Frances]] (d. 1870),
 daughter of the prime minister, Lord Sidmouth, and wrote his
 father-in-law's life (_The Life and Correspondence of Henry Addington,
 1st Viscount Sidmouth_, 1847).

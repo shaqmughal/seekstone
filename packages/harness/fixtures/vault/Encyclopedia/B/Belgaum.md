@@ -12,8 +12,8 @@ of Bombay. The town is situated nearly 2500 ft. above sea-level; it has
 a station on the Southern Mahratta railway, 245 m. S. of Poona. It has
 an ancient fortress, dating apparently from 1519, covering about 100
 acres, and surrounded by a ditch; within it are two interesting Jain
-temples. Belgaum contains a cantonment which is the headquarters of a
-brigade in the 6th division of the western army corps. It is also a
+temples. Belgaum contains a [[Cantonment|cantonment]] which is the headquarters of a
+brigade in the 6th division of the western army [[Corps|corps]]. It is also a
 considerable centre of trade and of cotton weaving. There are cotton
 mills. Pop. (1901) 36,878.
 
@@ -47,16 +47,16 @@ between the Rattas and the Kadambas of Goa, who succeeded in the latter
 years of the 12th century in acquiring and holding part of the district.
 By 1208, however, the Kadambas had been overthrown by the Rattas, who in
 their turn succumbed to the Yadavas of Devagiri in 1250. After the
-overthrow of the Yadavas by the Delhi emperor (1320), Belgaum was for a
+overthrow of the Yadavas by the [[Delhi]] emperor (1320), Belgaum was for a
 short time under the rule of the latter; but only a few years later the
 part south of the Ghatprabha was subject to the Hindu rajas of
 Vijayanagar. In 1347 the northern part was conquered by the Bahmani
 dynasty, which in 1473 took the town of Belgaum and conquered the
 southern part also. When Aurungzeb overthrew the Bijapur sultans in
 1686, Belgaum passed to the Moguls. In 1776 the country was overrun by
-Hyder Ali, but was retaken by the Peshwa with British assistance. In
-1818 it was handed over to the East India Company and was made part of
-the district of Dharwar. In 1836 this was divided into two parts, the
+[[Hyder Ali]], but was retaken by the Peshwa with British assistance. In
+1818 it was handed over to the [[East India Company]] and was made part of
+the district of [[Dharwar]]. In 1836 this was divided into two parts, the
 southern district continuing to be known as Dharwar, the northern as
 Belgaum.
 

@@ -16,11 +16,11 @@ de la Plana, of Alicante and of Valencia. His conservative tendencies
 grew more pronounced with time, and his _Polemicas con la
 Democracia_ (1862) may be taken as the definitive expression of his
 political opinions. His first appearance as a poet dated from 1840, when
-he published his _Ternezas y flores_, a collection of idyllic verses,
+he published his _Ternezas y [[Flores|flores]]_, a collection of idyllic verses,
 remarkable for their technical excellence. His _Ayes del Alma_ (1842) and
 his _Fabulas morales y politicas_ (1842) sustained his reputation, but
 showed no perceptible increase of power or skill. An epic poem in
-sixteen cantos, _Colon_ (1853), is no more successful than modern epics
+sixteen [[Canto|cantos]], _[[Colon]]_ (1853), is no more successful than modern epics
 usually are. Campoamor's theatrical pieces, such as _El Palacio de la
 Verdad_ (1871), _Dies Irae_ (1873), _El Honor_ (1874) and _Glorias
 Humanas_ (1885), are interesting experiments; but they are totally
@@ -38,10 +38,10 @@ stanza which combines the lightness and grace of the epigram, the
 melancholy of the _endecha_, the concise narrative of the ballad, and
 the philosophic intention of the apologue. The poet himself declared
 that a _dolora_ is a dramatic _humorada_, and that a _pequeno poema_ is
-a _dolora_ on a larger scale. These definitions are unsatisfactory. The
+a _dolora_ on a larger scale. These [[Definition|definitions]] are unsatisfactory. The
 humoristic, philosophic epigram is an ancient poetic form to which
 Campoamor has given a new name; his invention goes no further. It cannot
-be denied that in the _Doloras_ Campoamor's special gifts of irony,
+be denied that in the _Doloras_ Campoamor's special gifts of [[Irony|irony]],
 grace and pathos find their best expression. Taking a commonplace theme,
 he presents in four, eight or twelve lines a perfect miniature of
 condensed emotion. By his choice of a vehicle he has avoided the fatal
@@ -50,7 +50,7 @@ destruction. It pleased him to affect a vein of melancholy, and this
 affectation has been reproduced by his followers. Hence he gives the
 impression of insincerity, of trifling with grave subjects and of using
 mysticism as a mask for frivolity. The genuine Campoamor is a poet of
-the sunniest humour who, under the pretence of teaching morality by
+the sunniest [[Humour|humour]] who, under the pretence of teaching morality by
 satire, is really seeking to utter the gay scepticism of a genial,
 epicurean nature. His influence has not been altogether for good. His
 formula is too easily mastered, and to his example is due a plague of
@@ -66,7 +66,7 @@ discovered a new poetic _genre_ will be rejected later, as they are
 rejected now by all competent judges. The title of a philosophic poet
 will be denied to him. But he will certainly survive, at least in
 extract, as a distinguished humorist, an expert in epigrammatic and
-sententious aphorism, an artist of extremely finished execution.
+sententious [[Aphorism|aphorism]], an artist of extremely finished execution.
      (J. F. K.)
 
 ## See also

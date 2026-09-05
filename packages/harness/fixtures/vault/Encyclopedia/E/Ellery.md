@@ -8,7 +8,7 @@ id: 42-3514
 # Ellery
 
 ELLERY, WILLIAM (1727-1820), American politician, a signer of the
-Declaration of Independence, was born in Newport, Rhode Island, on the
+[[Declaration]] of Independence, was born in Newport, Rhode Island, on the
 22nd of December 1727. He graduated from Harvard in 1747, engaged in
 trade, studied law, and was admitted to the bar in 1770. He was a member
 of the Rhode Island committee of safety in 1775-1776, and was a delegate
@@ -20,8 +20,8 @@ continental loan office for the state of Rhode Island and from 1790
 until his death at Newport, on the 15th of February 1820, he was
 collector of the customs for the district of Newport.
 
-  See Edward T. Channing, "Life of William Ellery," in vol. 6 of Jared
-  Sparks's _American Biography_ (Boston and London, 1836).
+  See Edward T. [[Channing]], "Life of William Ellery," in vol. 6 of Jared
+  Sparks's _American Biography_ ([[Boston]] and London, 1836).
 
 ## See also
 

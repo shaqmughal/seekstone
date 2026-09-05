@@ -7,20 +7,20 @@ topic: history
 # Edward Iii.
 
 EDWARD III. (1312-1377), "of Windsor," king of England, eldest son of
-Edward II. and Isabella of France, was born at Windsor on the 13th of
-November 1312. In 1320 he was made earl of Chester, and in 1325 duke of
-Aquitaine, but he never received the title of prince of Wales.
+Edward II. and [[Isabella]] of France, was born at Windsor on the 13th of
+November 1312. In 1320 he was made earl of [[Chester]], and in 1325 duke of
+[[Aquitaine]], but he never received the title of prince of Wales.
 Immediately after his appointment to Aquitaine, he was sent to France to
-do homage to his uncle Charles IV., and remained abroad until he
+do [[Homage|homage]] to his uncle Charles IV., and remained abroad until he
 accompanied his mother and Mortimer in their expedition to England. To
 raise funds for this he was betrothed to Philippa, daughter of the count
-of Hainaut. On the 26th of October 1326, after the fall of Bristol, he
+of Hainaut. On the 26th of October 1326, after the fall of [[Bristol]], he
 was proclaimed warden of the kingdom during his father's absence. On the
 13th of January 1327 parliament recognized him as king, and he was
 crowned on the 29th of the same month.
 
 For the next four years Isabella and Mortimer governed in his name,
-though nominally his guardian was Henry, earl of Lancaster. In the
+though nominally his [[Guardian|guardian]] was Henry, earl of [[Lancaster]]. In the
 summer he took part in an abortive campaign against the Scots, and was
 married to Philippa at York on the 24th of January 1328. On the 15th of
 June 1330 his eldest child, Edward, the Black Prince, was born. Soon
@@ -31,7 +31,7 @@ Mortimer prisoner. On the 29th of November the execution of the
 favourite at Tyburn completed the young king's emancipation. Edward
 discreetly drew a veil over his mother's relations with Mortimer, and
 treated her with every respect. There is no truth in the stories that
-henceforth he kept her in honourable confinement, but her political
+henceforth he kept her in [[Honourable|honourable]] confinement, but her political
 influence was at an end.
 
 Edward III.'s real reign now begins. Young, ardent and active, he strove
@@ -42,7 +42,7 @@ concession of independence to Scotland by the treaty of Northampton of
 retrieving his position. The new king of Scots, David, who was his
 brother-in-law, was a mere boy, and the Scottish barons, exiled for
 their support of Robert Bruce, took advantage of the weakness of his
-rule to invade Scotland in 1332. At their head was Edward Baliol, whose
+rule to invade Scotland in 1332. At their head was Edward [[Baliol]], whose
 victory at Dupplin Moor established him for a brief time as king of
 Scots. After four months Baliol was driven out by the Scots, whereupon
 Edward for the first time openly took up his cause. In 1333 the king won
@@ -59,12 +59,12 @@ crown. War broke out in 1337, and in 1338 Edward visited Coblenz, where
 he made an alliance with the emperor Louis the Bavarian. In 1339 and
 1340 Edward endeavoured to invade France from the north with the help of
 his German and Flemish allies, but the only result of his campaigns was
-to reduce him to bankruptcy.
+to reduce him to [[Bankruptcy|bankruptcy]].
 
 In 1340, however, he took personal part in the great naval battle off
 Sluys, in which he absolutely destroyed the French navy. In the same
 year he assumed the title of king of France. At first he did this to
-gratify the Flemings, whose scruples in fighting their overlord, the
+gratify the [[Fleming|Flemings]], whose scruples in fighting their overlord, the
 French king, disappeared when they persuaded themselves that Edward was
 the rightful king of France. However, his pretensions to the French
 crown gradually became more important. The persistence with which he and
@@ -86,12 +86,12 @@ Windsor Castle, and instituting the order of the Garter, which he did in
 order to fulfil a vow that he had taken to restore the Round Table of
 Arthur. His finances, therefore, remained embarrassed despite the
 comparative pause in the war, although in 1339 he had repudiated his
-debt to his Italian creditors, a default that brought about widespread
+[[Debt|debt]] to his Italian creditors, a [[Default|default]] that brought about widespread
 misery in Florence.
 
 A new phase of the French war begins when in July 1346 Edward landed in
 Normandy, accompanied by his eldest son, Edward, prince of Wales, a
-youth of sixteen. In a memorable campaign Edward marched from La Hogue
+youth of sixteen. In a memorable campaign Edward marched from [[La Hogue]]
 to Caen, and from Caen almost to the gates of Paris. It was a plundering
 expedition on a large scale, and like most of Edward's campaigns showed
 some want of strategic purpose. But Edward's decisive victory over the
@@ -114,12 +114,12 @@ of the imperial throne. In the same year the Black Death first appeared
 in England, and raged until 1349. Yet the horrors which it wrought
 hardly checked the magnificent revels of Edward's court, and neither the
 plague nor the truce stayed the course of the French war, though what
-fighting there was was indecisive and on a small scale. Edward's martial
-exploits during the next years were those of a gallant knight rather
+fighting there was was indecisive and on a small scale. Edward's [[Martial|martial]]
+exploits during the next years were those of a gallant [[Knight|knight]] rather
 than those of a responsible general. Conspicuous among them were his
 famous combat with Eustace de Ribemont, near Calais, in 1349, and the
 hard-fought naval victory over the Spaniards off Winchelsea, in 1350.
-Efforts to make peace, initiated by Pope Innocent VI., came to nothing,
+Efforts to make peace, initiated by Pope [[Innocent]] VI., came to nothing,
 though the English commons were now weary of the war. The result of this
 failure was the renewal of war on a large scale. In 1355 Edward led an
 unsuccessful raid out of Calais, and in January and February 1356
@@ -127,7 +127,7 @@ harried the Lothians, in the expedition famous as the Burned Candlemas.
 His exploits sank into insignificance as compared with those of his son,
 whose victory at Poitiers, on the 19th of September 1356, resulted in
 the captivity of King John, and forced the French to accept a new truce.
-Edward entertained his royal captive very magnificently, and in 1359
+Edward entertained his royal [[Captive|captive]] very magnificently, and in 1359
 concluded with him the treaty of London, by which John surrendered so
 much that the French repudiated the treaty. Edward thereupon resolved to
 invade France afresh and compel its acceptance. On the 28th of October
@@ -135,7 +135,7 @@ he landed at Calais, and advanced to Reims, where he hoped to be crowned
 king of France. The strenuous resistance of the citizens frustrated this
 scheme, and Edward marched into Burgundy, whence he made his way back
 towards Paris. Failing in an attack on the capital, he was glad to
-conclude, on the 8th of May 1360, preliminaries of peace at Bretigny,
+conclude, on the 8th of May 1360, preliminaries of peace at [[Bretigny]],
 near Chartres. This treaty, less onerous to France than that of London,
 took its final form in the treaty of Calais, ratified by King John on
 the 9th of October. By it Edward renounced his claim to France in return
@@ -154,7 +154,7 @@ repeated. In 1366 Edward formally repudiated the feudal supremacy over
 England, still claimed by the papacy by reason of John's submission.
 Another feature of the time was the strenuous effort made by Edward to
 establish his numerous family without too great expense. In the end the
-estates of the houses of Lancaster, Kent, Bohun, Burgh and Mortimer
+estates of the houses of Lancaster, Kent, [[Bohun]], Burgh and Mortimer
 swelled the revenues of Edward's children and grandchildren, in whose
 favour also the new title of duke was introduced.
 
@@ -167,18 +167,18 @@ his sons, Edward and John. While the latter were struggling with little
 success against the rising tide of French national feeling, Edward's
 want of money made him a willing participator in the attack on the
 wealth and privileges of the Church. In 1371 a clerical ministry was
-driven from office, and replaced by laymen, who proved, however, less
+driven from office, and replaced by [[Laymen|laymen]], who proved, however, less
 effective administrators than their predecessors. Meanwhile Aquitaine
-was gradually lost; the defeat of Pembroke off La Rochelle deprived
+was gradually lost; the defeat of Pembroke off [[La Rochelle]] deprived
 England of the command of the sea, and Sir Owen ap Thomas, a
-grand-nephew of Llewelyn ab Gruffyd, planned, with French help, an
+grand-nephew of [[Llewelyn]] ab Gruffyd, planned, with French help, an
 abortive invasion of Wales. In 1371 the Black Prince came back to
 England with broken health, and in 1373 John of Lancaster marched to
-little purpose through France, from Calais to Bordeaux. In 1372 Edward
+little purpose through France, from Calais to [[Bordeaux]]. In 1372 Edward
 made his final effort to lead an army, but contrary winds prevented his
 even landing his troops in France. In 1375 he was glad to make a truce,
 which lasted until his death. By it the only important possessions
-remaining in English hands were Calais, Bordeaux, Bayonne and Brest.
+remaining in English hands were Calais, Bordeaux, Bayonne and [[Brest]].
 
 Edward was now sinking into his dotage. After the death of Queen
 Philippa he fell entirely under the influence of a greedy mistress named
@@ -191,7 +191,7 @@ ecclesiastics, headed by William of Wykeham, bishop of Winchester, who
 had been excluded from power in 1371. John further irritated the clergy
 by making an alliance with John Wycliffe. The opposition to John was led
 by the Black Prince and Edmund Mortimer, earl of March, the husband of
-Edward's grand-daughter, Philippa of Clarence. At last popular
+Edward's grand-daughter, Philippa of [[Clarence]]. At last popular
 indignation against the courtiers came to a head in the famous Good
 Parliament of 1376. Alice Perrers was removed from court, and Duke
 John's subordinate instruments were impeached. But in the midst of the
@@ -205,26 +205,26 @@ Edward III. was not a great man like Edward I. He was, however, an
 admirable tactician, a consummate knight, and he possessed extraordinary
 vigour and energy of temperament. His court, described at length in
 Froissart's famous chronicle, was the most brilliant in Europe, and he
-was himself well fitted to be the head of the magnificent chivalry that
+was himself well fitted to be the head of the magnificent [[Chivalry|chivalry]] that
 obtained fame in the French wars. Though his main ambition was military
 glory, he was not a bad ruler of England. He was liberal, kindly,
 good-tempered and easy of access, and his yielding to his subjects'
 wishes in order to obtain supplies for carrying on the French war
 contributed to the consolidation of the constitution. His weak points
-were his wanton breaches of good faith, his extravagance, his frivolity
+were his wanton [[Breach|breaches]] of good faith, his extravagance, his frivolity
 and his self-indulgence. Like that of Edward I. his ambition transcended
 his resources, and before he died even his subjects were aware of his
 failure.
 
 Edward had twelve children, seven sons and five daughters. Five of his
 sons played some part in the history of their time, these being Edward
-the Black Prince, Lionel of Antwerp, duke of Clarence, John of Gaunt,
+the Black Prince, Lionel of [[Antwerp]], duke of Clarence, John of Gaunt,
 duke of Lancaster, Edmund of Langley, afterwards duke of York, and
 Thomas of Woodstock, afterwards duke of Gloucester. John and Edmund are
 also important as the founders of the rival houses of Lancaster and
 York. Each of the last four was named from the place of his birth, and
 for the same reason the Black Prince is sometimes called Edward of
-Woodstock. The king's two other sons both died in infancy. Of his
+Woodstock. The king's two other sons both died in [[Infancy|infancy]]. Of his
 daughters, three died unmarried; the others were Isabella, who married
 into the family of Coucy, and Mary, who married into that of Montfort.
 
@@ -234,9 +234,9 @@ into the family of Coucy, and Mary, who married into that of Montfort.
   ways J. Barnes's quaint _History of Edward III._ (1688) is less
   unsatisfactory. The general history of the time can be read in W.
   Stubbs's _Constitutional History of England_, vol. ii. chapters xvi.
-  and xvii.; in T.F. Tout's _Political History of England_, 1216-1377,
+  and xvii.; in T.F. Tout's _[[Political History]] of England_, 1216-1377,
   pp. 301-441; in R. Pauli's _Geschichte von England_, iv. pp. 307-504;
-  and in Edward's life by W. Hunt in the _Dictionary of National
+  and in Edward's life by W. [[Hunt]] in the _Dictionary of National
   Biography_. For the Hundred Years' War, see E. Deprez's _Les
   Preliminaires de la guerre de cent ans, 1328-1342_, and H. Denifle's
   _La Desolation des eglises, monasteres et hopitaux en France pendant

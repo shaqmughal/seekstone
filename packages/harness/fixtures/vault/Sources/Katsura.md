@@ -9,11 +9,11 @@ vice-minister of war, and in 1891 the command of division devolved on
 him. He led the left wing of the Japanese army in the campaign of
 1894-95 against China, and made a memorable march in the depth of winter
 from the north-east shore of the Yellow Sea to Haicheng, finally
-occupying Niuchwang, and effecting a junction with the second army corps
+occupying Niuchwang, and effecting a junction with the second army [[Corps|corps]]
 which moved up the Liaotung peninsula. For these services he received
 the title of viscount. He held the portfolio of war from 1898 to 1901,
 when he became premier and retained office for four and a half years, a
-record in Japan. In 1902 his cabinet concluded the first _entente_ with
+record in [[Japan]]. In 1902 his [[Cabinet|cabinet]] concluded the first _entente_ with
 England, which event procured for Katsura the rank of count. He also
 directed state affairs throughout the war with Russia, and concluded the
 offensive and defensive treaty of 1905 with Great Britain, receiving

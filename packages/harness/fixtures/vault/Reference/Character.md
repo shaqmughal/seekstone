@@ -18,7 +18,7 @@ personality. From the latter usage "a character" becomes almost
 identical with "reputation"; and in the sense of "giving a servant a
 character," the word involves a written testimonial. For the law
 relating to servants' characters see MASTER AND SERVANT. A further
-development is the use of "character" to mean an "odd or eccentric
+development is the use of "character" to mean an "odd or [[Eccentric|eccentric]]
 person"; or of a "character actor," to mean an actor who plays a
 highly-coloured strange part. The word is also used as the name of a
 form of literature, consisting of short descriptions of types of

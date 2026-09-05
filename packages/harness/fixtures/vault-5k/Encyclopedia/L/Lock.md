@@ -13,27 +13,27 @@ many Teutonic languages, but with such various meanings as "hole," Ger.
 _Loch_, "lid," Swed. _lock_, &c.; probably the original was a root
 meaning "to enclose"), a fastening, particularly one which consists of a
 bolt held in a certain position by one or more movable parts which
-require to be placed in definite positions by the aid of a key or of a
+require to be placed in definite positions by the aid of a [[Key|key]] or of a
 secret arrangement of letters, figures or signs, before the bolt can be
 moved. It is with such fastenings that the present article chiefly
 deals.
 
   The word is also used, in the original sense of an enclosure or
   barrier, for a length of water in a river or canal, or at the entrance
-  of a dock, enclosed at both ends by gates, the "lock-gates," and
+  of a [[Dock|dock]], enclosed at both ends by gates, the "lock-gates," and
   fitted with sluices, to enable vessels to be raised from a lower to a
   higher level or vice versa (see CANAL and DOCK). In guns and rifles
   the lock is the mechanism which effects the firing of the charge; it
   thus appears in the names of old types of weapons, such as wheel-lock,
   match-lock, flint-lock (see ARMS AND ARMOUR, § _Firearms_; also GUN
-  and RIFLE). Lock (Ger. _Locke_) in the sense of a curl or tuft of
+  and RIFLE). Lock (Ger. _[[Locke]]_) in the sense of a curl or tuft of
   hair, the separate groups in which the hair naturally grows, may be,
   in ultimate origin, connected with the root of the main word. Lockjaw
   is the popular name of the disease known as tetanus (q.v.). The name
   "Lock Hospital" is frequently used in English for a hospital for
   patients suffering from venereal diseases. According to the _New
   English Dictionary_ there was in Southwark as early as 1453 a
-  leper-hospital, known as the Lock Lazar House, which later was used
+  leper-hospital, known as the Lock [[Lazar]] House, which later was used
   for the treatment of venereal diseases. The name appears to have
   become used in the present sense as early as the end of the 17th
   century. Lock hospitals were established in London in 1745-1747 and in
@@ -69,10 +69,10 @@ for key to this day.
 In the 18th century the European lock was nothing better than a mere
 bolt, held in its place, either shut or open, by a spring b (fig. 2),
 which pressed it down, and so held it at either one end or the other of
-the convex notch _aa_; and the only impediment to opening it was the
+the [[Convex|convex]] notch _aa_; and the only impediment to opening it was the
 wards which the key had to pass before it could turn in the keyhole. But
 it was always possible to find the shape of the wards by merely putting
-in a blank key covered with wax, and pressing it against them; and when
+in a [[Blank|blank]] key covered with wax, and pressing it against them; and when
 this had been done it was unnecessary to cut out the key into the
 complicated form of the wards (such as fig. 3), because no part of that
 key does any work except the edge _bc_ farthest from the pipe a; and so
@@ -103,7 +103,7 @@ with the obvious one of using more than one lever, was introduced in
 square pin a (fig. 6) is lifted by the key to the proper height and no
 higher, the bolt cannot move. Fig. 8 illustrates the key of such a lock
 with four levers, the different distances between the centre of the key
-barrel and the edge of the bit being adapted to lift the levers to the
+[[Barrel|barrel]] and the edge of the bit being adapted to lift the levers to the
 respective heights required. This lock differs from the modern lever
 lock only in the fact that Barron made his gating in the bolt and
 carried stumps on his levers, instead of having the main stump riveted
@@ -193,7 +193,7 @@ a short piece of gating near the end of the levers allows the bolt to
 advance just far enough to push the tooth of the detector up again by
 means of its inclination there, and then the lock can be opened as
 usual. To render the mechanism of locks more inaccessible for picking
-purposes, two devices, the "curtain" and the "barrel," were in use;
+purposes, two devices, the "[[Curtain|curtain]]" and the "barrel," were in use;
 these devices were simply the one a disk and the other a cylinder
 carrying a keyhole which revolved with the key and so closed the fixed
 keyhole in the case.
@@ -203,7 +203,7 @@ keyhole in the case.
   It is to Hobbs himself that we are indebted for the invention of the
   movable stump, since called the safety lever, the only device
   introduced rendering the tentative method of picking inoperative. This
-  invention was incorporated in the "protector" locks of Hobbs, Hart &
+  invention was incorporated in the "protector" locks of Hobbs, [[Hart]] &
   Co.; it consists in the employment of a movable main stump which is
   not riveted into the bolt as usual, but is set on the end b of a bent
   lever _abc_ (fig. 11) which lies in a hollow of the bolt A behind it,
@@ -225,7 +225,7 @@ keyhole in the case.
   back, or, again, by pushing up the watch-spring between any two of the
   levers, and holding the end b of the protector with it, so as to press
   the stump against the levers. Both these devices, however, are
-  prevented now by letting in a feather FF in a groove between the bolt
+  prevented now by letting in a [[Feather|feather]] FF in a groove between the bolt
   and the back of the lock, which no watch-spring can pass, and also
   bringing a piece of the feather forward through the front gating of
   the levers just under the stump. In this form the lock is safe against
@@ -241,7 +241,7 @@ keyhole in the case.
   prevented from operating. To overcome this difficulty locks,
   especially those intended for safes, have been made so that alternate
   levers move in opposite directions, the key having two bits on
-  opposite sides. This construction entails that the key enter the body
+  opposite sides. This construction [[Entail|entails]] that the key enter the body
   of the levers instead of passing below them, an arrangement that had
   previously been in use to reduce the space into which gunpowder could
   be packed through the keyhole.
@@ -273,7 +273,7 @@ keyhole in the case.
   the steps of a false key are too high, some of the lower plugs will be
   pushed up beyond the barrel into the holes above them, and so the
   barrel cannot turn. The bevelled end of the key near a enables it to
-  be pushed in under the plugs, though with some friction and
+  be pushed in under the plugs, though with some [[Friction|friction]] and
   resistance.
 
   It is frequently convenient to have a number of different locks so
@@ -399,7 +399,7 @@ almost universal use to-day in America.
   would have to be determined once for all by the maker. The difficulty
   is got over by making the letter disks in two parts, the inner part
   carrying the driving pin and the outer the gating; these two parts are
-  locked together by small cams or other devices which come into such a
+  locked together by small [[Cam|cams]] or other devices which come into such a
   position that they can be released with the help of a square key when
   the lock is unlocked. The combination is set by altering the position
   of the inner disks with the driving pins in relation to the outer part

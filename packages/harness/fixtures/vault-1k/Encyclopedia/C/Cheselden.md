@@ -13,7 +13,7 @@ operation for the stone," which he first performed in 1727. He also
 effected a great advance in ophthalmic surgery by his operation of
 iridectomy, described in 1728, for the treatment of certain forms of
 blindness by the production of an "artificial pupil." He attended Sir
-Isaac Newton in his last illness, and was an intimate friend of
+[[Isaac]] Newton in his last illness, and was an intimate friend of
 Alexander Pope and of Sir Hans Sloane.
 
 ## References

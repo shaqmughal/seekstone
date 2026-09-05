@@ -17,7 +17,7 @@ south-western counties of England. Local lines of this company encircle the
 city on the north and the south, serving the outports of Avonmouth and
 Portishead on the Bristol Channel. A trunk line of the Midland railway
 connects Bristol with the north of England by way of Gloucester, Worcester,
-Birmingham and Derby. Both companies use the central station, Temple Meads.
+[[Birmingham]] and [[Derby]]. Both companies use the central station, Temple Meads.
 
 The nucleus of Bristol lies to the north of the river. The business centre
 is in the district traversed by Broad Street, High Street, Wine Street and
@@ -106,10 +106,10 @@ records of the church contain a singularly picturesque representation of
 the ancient customs of the fraternity.
 
 Among conventual remains, besides those already mentioned, there exist of
-the Dominican priory the Early English refectory and dormitory, the latter
+the Dominican priory the Early English refectory and [[Dormitory|dormitory]], the latter
 comprising a row of fifteen original windows and an oak roof of the same
 date; and of St Bartholomew's hospital there is a double arch, with
-intervening arcades, also Early English. These, with the small chapel of
+intervening [[Arcade|arcades]], also Early English. These, with the small chapel of
 the Three Kings of Cologne, Holy Trinity Hospital, both Perpendicular, and
 the remains of the house of the Augustinian canons attached to the
 cathedral, comprise the whole of the monastic relics.
@@ -122,7 +122,7 @@ Venturers' almshouses (1699), adjoining their hall. This gild was
 established in the 16th century. A small house near St Mary Redcliffe was
 the school where the poet Chatterton received his education. His memorial
 is in the churchyard of St Mary, and in the church a chest contains the
-records among which he claimed to have discovered some of the manuscripts
+records among which he claimed to have discovered some of the [[Manuscript|manuscripts]]
 which were in reality his own. A house in Wine Street was the birthplace of
 the poet-laureate Robert Southey (1744).
 
@@ -130,7 +130,7 @@ _Public Buildings, &c._--The public buildings are somewhat overshadowed in
 interest by the ecclesiastical. The council house, at the "Cross" of the
 four main thoroughfares, dates from 1827, was enlarged in 1894, and
 contains the city archives and many portraits, including a Van Dyck and a
-Kneller. The Guildhall is close by--a modern Gothic building. The exchange
+Kneller. The Guildhall is close by--a modern [[Gothic]] building. The exchange
 (used as a corn-market) is a noteworthy building by the famous architect of
 Bath, John Wood (1743). Edward Colston, a revered citizen and benefactor of
 the city (d. 1721), is commemorated by name in several buildings and
@@ -166,16 +166,16 @@ Frome, on the north-east of the city beyond Stapleton Road station, St
 Andrew's Park near Montpelier station to the north, and Brandon Hill, west
 of the cathedral, an abrupt eminence commanding a fine view over the city,
 and crowned with a modern tower commemorating the "fourth centenary of the
-discovery of America by John Cabot, and sons Lewis, Sebastian and Sanctus."
+discovery of America by John Cabot, and sons [[Lewis]], Sebastian and Sanctus."
 Other memorials in the city are the High Cross on College Green (1850), and
 statues of Queen Victoria (1888), Samuel Morley (1888), Edmund Burke
 (1894), and Edward Colston (1895), in whose memory are held annual Colston
 banquets.
 
-_Harbour and Trade._--Bristol harbour was formed in 1809 by the conversion
-of the Avon and a branch of the Frome into "the Float," by the cutting of a
+_Harbour and Trade._--Bristol harbour was formed in 1809 by the [[Conversion|conversion]]
+of the Avon and a branch of the Frome into "the [[Float]]," by the cutting of a
 new channel for the Avon and the formation of two basins. Altogether the
-water area, at fixed level, is about 85 acres. Four dry docks open into the
+water area, at fixed level, is about 85 acres. Four dry [[Dock|docks]] open into the
 floating harbour. In 1884 the Avonmouth and Portishead docks at the river
 entrance were bought up by the city; and the port extends from Hanham Mills
 on the Avon to the mouth of the river, and for some distance down the
@@ -183,7 +183,7 @@ estuary of the Severn. The city docks have a depth of 22 ft., while those
 at Avonmouth are accessible to the largest vessels. In 1902 the
 construction of the extensive Royal Edward dock at Avonmouth was put in
 hand by the corporation, and the dock was opened by King Edward VII. in
-1908. It is entered by a lock 875 ft. long and 100 ft. wide, with a depth
+1908. It is entered by a [[Lock|lock]] 875 ft. long and 100 ft. wide, with a depth
 of water on the sill of 46 ft. at ordinary spring, and 36 ft. at ordinary
 neap tides. The dock itself has a mean length of 1120 ft. and a breadth of
 1000 ft., and there is a branch and passage connecting with the old dock.
@@ -198,7 +198,7 @@ and other large steamship companies trade at the port.
 The principal industries are shipbuilding, ropewalks, chocolate factories,
 sugar refineries, tobacco mills and pipe-making, glass works, potteries,
 soaperies, shoe factories, leather works and tanneries, chemical works, saw
-mills, breweries, copper, lead and shot works, iron works, machine works,
+mills, breweries, copper, lead and shot works, iron works, [[Machine|machine]] works,
 stained-paper works, anchors, chain cables, sail-cloth, buttons. A
 coalfield extending 16 m. south-east to Radstock avails much for Bristol
 manufactures.
@@ -231,11 +231,11 @@ the earthworks of the castle. He joined in a rebellion against William II.,
 and after his death the king granted the town and castle, as part of the
 honour of Gloucester, to Robert FitzHamon, whose daughter Mabel, marrying
 Earl Robert of Gloucester in 1119, brought him Bristol as her dowry. Earl
-Robert still further strengthened the castle, probably with masonry, and
+Robert still further strengthened the castle, probably with [[Masonry|masonry]], and
 involved Bristol in the rebellion against Stephen. From the castle he
 harried the whole neighbourhood, threatened Bath, and sold his prisoners as
 slaves to Ireland. A contemporary chronicler describes Bristol castle as
-"seated on a mighty mound, and garrisoned with knights and foot soldiers or
+"seated on a mighty mound, and garrisoned with [[Knight|knights]] and foot soldiers or
 rather robbers and raiders," and he calls Bristol the stepmother of
 England.
 
@@ -258,11 +258,11 @@ Gloucester. By the marriage of Earl John with the heiress of Earl William
 of Gloucester, Bristol became part of the royal demesne, the rent payable
 to the king being fixed, and the town shook off the feudal yoke. The
 charter granted by John in 1190 was an epoch in the history of the borough.
-It provided that no burgess should be impleaded without the walls, that no
+It provided that no [[Burges|burgess]] should be impleaded without the walls, that no
 non-burgess should sell wine, cloth, wool, leather or corn in Bristol, that
 all should hold by burgage tenure, that corn need not be ground at the
 lord's mill, and that the burgesses should have all their reasonable gilds.
-At some uncertain date soon after this a commune was established in Bristol
+At some uncertain date soon after this a [[Commune|commune]] was established in Bristol
 on the French model, Robert FitzNichol, the first mayor of Bristol, taking
 the oath in 1200. The mayor was chosen, not, like the reeve whom he had
 displaced, by the overlord, but by the merchants of Bristol who were
@@ -290,14 +290,14 @@ one hundred years. In 1247 a new course was cut for the river Frome which
 vastly improved the harbour, and in the same year a stone bridge was built
 over the Avon, bringing Temple and Redcliffe into closer touch with the
 city. The charter granted by Henry III. in 1256 was important. It gave the
-burgesses the right to choose coroners, and as they already farmed the geld
+burgesses the right to choose [[Coroner|coroners]], and as they already farmed the geld
 payable to the king, Bristol must have been practically independent of the
 king. The growing exclusiveness of the merchant gild led to the great
 insurrection of 1312. The oligarchical party was supported by the
 Berkeleys, but the opposition continued their rebellion until 1313, when
 the town was besieged and taken by the royal forces. During the reign of
 Edward III. cloth manufacture developed in Bristol. Thomas Blanket set up
-looms in 1337, employing many foreign workmen, and in 1353 Bristol was made
+[[Loom|looms]] in 1337, employing many foreign workmen, and in 1353 Bristol was made
 one of the Staple towns, the office of mayor of the staple being held by
 the mayor of the town.
 
@@ -314,7 +314,7 @@ and of the voyages of John and Sebastian Cabot. William Canyng (1399-1474)
 was five times mayor and twice represented Bristol in parliament; he
 carried on a huge cloth trade with the Baltic and rebuilt St Mary
 Redcliffe. At the same time cloth was exported by Bristol merchants to
-France, Spain and the Levant. The records of the Society of Merchant
+France, Spain and the [[Levant]]. The records of the Society of Merchant
 Venturers began in 1467, and the society increased in influence so rapidly
 that in 1500 it directed all the foreign trade of the city and had a lease
 of the port dues. It was incorporated in 1552, and received other charters
@@ -359,14 +359,14 @@ chosen by the burgesses of each ward, bought the docks in 1848 and reduced
 the fees. In 1877-1880 the docks at the mouth of the river at Avonmouth and
 Portishead were made, and these were bought by the corporation in 1884. A
 revival of trade, rapid increase of population and enlargement of the
-boundaries of the city followed. The chief magistrate became a lord mayor
+boundaries of the city followed. The chief [[Magistrate|magistrate]] became a lord mayor
 in 1899.
 
 See J. Corry, _History of Bristol_ (Bristol, 1816); J. Wallaway,
 _Antiquities_ (1834); J. Evans, _Chronological History of Bristol_ (1824);
 Bristol vol. of _Brit. Archaeol. Inst._; J.F. Nicholl and J. Taylor,
-_Bristol Past and Present_ (Bristol and London, 1882); W. Hunt, _Bristol_,
-in "Historic Towns" series (London, 1887); J. Latimer, _Annals of Bristol_
+_Bristol Past and Present_ (Bristol and London, 1882); W. [[Hunt]], _Bristol_,
+in "Historic Towns" series (London, 1887); J. Latimer, _[[Annals]] of Bristol_
 (various periods); G.E. Weare, _Collectanea relating to the Bristol Friars_
 (Bristol, 1893); Samuel Seyer, _History of Bristol and Bristol Charters_
 (1812); _The Little Red Book of Bristol_ (1900); _The Maior's Kalendar_

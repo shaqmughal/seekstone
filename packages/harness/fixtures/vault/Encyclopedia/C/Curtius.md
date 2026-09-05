@@ -2,7 +2,7 @@
 
 CURTIUS, ERNST (1814-1896), German archaeologist and historian, was born
 at Lubeck on the 2nd of September 1814. On completing his university
-studies he was chosen by C. A. Brandis to accompany him on a journey to
+studies he was chosen by C. A. [[Brandis]] to accompany him on a journey to
 Greece for the prosecution of archaeological researches. Curtius then
 became Otfried Muller's companion in his exploration of the Peloponnese,
 and on Muller's death in 1840 returned to Germany. In 1844 he became an
@@ -33,14 +33,14 @@ _Altertum und Gegenwart_ (5th ed., 1903 foll.), to which a third volume
 was added under the title of _Unter drei Kaisern_ (2nd ed., 1895).
 
   A full list of his writings will be found in L. Gurlitt, _Erinnerungen
-  an Ernst Curtius_ (Berlin, 1902); see also article by O. Kern in
+  an Ernst Curtius_ (Berlin, 1902); see also article by O. [[Kern]] in
   _Allgemeine deutsche Biographie_, xlvii. (1903), to which may be added
   _Ernst Curtius. Ein Lebensbild in Briefen_, by F. Curtius (1903); T.
   Hodgkin, _Ernest Curtius_ (1905).
 
 His brother, GEORG CURTIUS (1820-1885), philologist, was born at Lubeck
-on the 16th of April 1820. After an education at Bonn and Berlin he was
-for three years a schoolmaster in Dresden, until (in 1845) he returned
+on the 16th of April 1820. After an education at [[Bonn]] and Berlin he was
+for three years a schoolmaster in [[Dresden]], until (in 1845) he returned
 to Berlin University as _privat-docent_. In 1849 he was placed in charge
 of the Philological Seminary at Prague, and two years later was
 appointed professor of classical philology in Prague University. In 1854
@@ -64,7 +64,7 @@ Kritik der neuesten Sprachforschung_ (1885), he attacks the views of the
   (_Kleine Schriften von E. C._, 1886-1887). For further information
   consult articles by R. Meister in _Allgemeine deutsche Biographie_,
   xlvii. (1903), and by E. Windisch in C. Bursian's _Biographisches
-  Jahrbuch fur Alterthumskunde_ (1886).
+  Jahrbuch [[Fur|fur]] Alterthumskunde_ (1886).
 
 ## See also
 

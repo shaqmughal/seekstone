@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Falashas"
 # Falashas
 
 FALASHAS (i.e. exiles; Ethiopic _falas_, a stranger), or "Jews of
-Abyssinia," a tribe of Hamitic stock, akin to Galla, Somali and Beja,
+Abyssinia," a tribe of Hamitic stock, akin to Galla, Somali and [[Beja]],
 though they profess the Jewish religion. They claim to be descended from
 the ten tribes banished from the Holy Land. Another tradition assigns
 them as ancestor Menelek, Solomon's alleged son by the queen of Sheba.
@@ -27,12 +27,12 @@ Ethiopic (or Geez)--the canonical and apocryphal books of the Old
 Testament; a volume of extracts from the Pentateuch, with comments given
 to Moses by God on Mount Sinai; the Te-e-sa-sa Sanbat, or laws of the
 Sabbath; the Ardit, a book of secrets revealed to twelve saints, which
-is used as a charm against disease; lives of Abraham, Moses, &c.; and a
+is used as a [[Charm|charm]] against disease; lives of Abraham, Moses, &c.; and a
 translation of Josephus called Sana Aihud. A copy of the Orit or Mosaic
 law is kept in the holy of holies in every synagogue. Various pagan
 observances are mingled in their ritual: every newly-built house is
 considered uninhabitable till the blood of a sheep or fowl has been
-spilt in it; a woman guilty of a breach of chastity has to undergo
+spilt in it; a woman guilty of a [[Breach|breach]] of chastity has to undergo
 purification by leaping into a flaming fire; the Sabbath has been
 deified, and, as the goddess Sanbat, receives adoration and sacrifice
 and is said to have ten thousand times ten thousand angels to wait on
@@ -50,13 +50,13 @@ and priests, and is confined to boys. Fasts, obligatory on all above
 seven years of age, are held on every Monday and Thursday, on every new
 moon, and at the passover (the 21st or 22nd of April). The annual
 festivals are the passover, the harvest feast, the Baala Mazalat or
-feast of tabernacles (during which, however, no booths are built), the
-day of covenant or assembly and Abraham's day. It is believed that after
+feast of tabernacles (during which, however, no [[Booth|booths]] are built), the
+day of [[Covenant|covenant]] or assembly and Abraham's day. It is believed that after
 death the soul remains in a place of darkness till the third day, when
 the first sacrifice for the dead is offered; prayers are read in the
 synagogue for the repose of the departed, and for seven days a formal
 lament takes place every morning in his house. No coffins are used, and
-a stone vault is built over the corpse so that it may not come into
+a stone vault is built over the [[Corpse|corpse]] so that it may not come into
 direct contact with the earth.
 
 The Falashas are an industrious people, living for the most part in
@@ -79,7 +79,7 @@ estimated at from one hundred to one hundred and fifty thousand.
   Goodhart (London, 1869); H.A. Stern, _Wanderings among the Falashas in
   Abyssinia_ (London, 1862); Joseph Halevy, _Travels in Abyssinia_
   (trans. London, 1878); Morais, "The Falashas" in _Penn Monthly_
-  (Philadelphia, 1880); Cyrus Adler, "Bibliography of the Falashas" in
+  (Philadelphia, 1880); [[Cyrus]] Adler, "Bibliography of the Falashas" in
   _American Hebrew_ (16th of March 1894); Lewin, "Ein verlassener
   Bruderstamm," in Bloch's _Wochenschrift_ (7th February 1902), p. 85;
   J. Faitlovitch, _Notes d'un voyage chez les Falachas_ (Paris, 1905).

@@ -3,15 +3,15 @@
 FITZROY, ROBERT (1805-1865), English, vice-admiral, distinguished as a
 hydrographer and meteorologist, was born at Ampton Hall, Suffolk, on the
 5th of July 1805, being a grandson, on the father's side, of the third
-duke of Grafton, and on the mother's, of the first marquis of
+duke of [[Grafton]], and on the mother's, of the first marquis of
 Londonderry. He entered the navy from the Royal Naval College, then a
-school for cadets, on the 19th of October 1819, and on the 7th of
+school for [[Cadet|cadets]], on the 19th of October 1819, and on the 7th of
 September 1824 was promoted to the rank of lieutenant. After serving in
-the "Thetis" frigate in the Mediterranean and on the coast of South
+the "Thetis" [[Frigate|frigate]] in the Mediterranean and on the coast of South
 America, under the command of Sir John Phillimore and Captain Bingham,
-he was in August 1828 appointed to the "Ganges," as flag-lieutenant to
+he was in August 1828 appointed to the "[[Ganges]]," as flag-lieutenant to
 Rear-Admiral Sir Robert Otway, the commander-in-chief on the South
-American station; and on the death of Commander Stokes of the "Beagle,"
+American station; and on the death of [[Commander]] Stokes of the "Beagle,"
 on the 13th of November 1828, was promoted to the vacant command. The
 "Beagle," a small brig of about 240 tons, was then, and had been for the
 two previous years, employed on the survey of the coasts of Patagonia
@@ -26,12 +26,12 @@ preparations in the summer of the following year to carry them back in a
 merchant ship bound to Valparaiso, when he received his reappointment to
 the "Beagle," to continue the survey of the same wild coasts. The
 "Beagle" sailed from Plymouth on the 27th of December 1831, carrying as
-a supernumerary Charles Darwin, the afterwards famous naturalist. After
+a supernumerary Charles [[Darwin]], the afterwards famous naturalist. After
 an absence of nearly five years, and having, in addition to the survey
 of the Straits of Magellan and a great part of the coast of South
 America, run a chronometric line round the world, thus fixing the
 longitude of many secondary meridians with sufficient exactness for all
-the purposes of ordinary navigation, the "Beagle" anchored at Falmouth
+the purposes of ordinary navigation, the "Beagle" anchored at [[Falmouth]]
 on the 2nd of October 1836. In 1835 Fitzroy had been advanced to the
 rank of captain and was now for the next few years principally employed
 in reducing and discussing his numerous observations. In 1837 he was
@@ -41,16 +41,16 @@ published, in two thick 8vo volumes, the narrative of the voyage of the
 with a third volume by Darwin--a book familiarly known as a record of
 scientific travel. Of Fitzroy's work as a surveyor, carried on under
 circumstances of great difficulty, with scanty means, and with an outfit
-that was semi-officially denounced as "shabby," Sir Francis Beaufort,
+that was semi-officially denounced as "shabby," Sir Francis [[Beaufort]],
 the Hydrographer to the Admiralty, wrote, in a report to the House of
-Commons, 10th of February 1848, that "from the equator to Cape Horn, and
+Commons, 10th of February 1848, that "from the [[Equator|equator]] to Cape [[Horn]], and
 from thence round to the river Plata on the eastern side of America, all
 that is _immediately_ wanted has been already achieved by the splendid
 survey of Captain Robert Fitzroy." This was written before steamships
 made the Straits of Magellan a high-road to the Pacific. The survey that
 was sufficient then became afterwards very far from sufficient.
 
-In 1841 Fitzroy unsuccessfully contested the borough of Ipswich, and in
+In 1841 Fitzroy unsuccessfully contested the borough of [[Ipswich]], and in
 the following year was returned to parliament as member for Durham.
 About the same time he accepted the post of conservator of the Mersey,
 and in his double capacity obtained leave to bring in a bill for
@@ -61,7 +61,7 @@ furnished some important clauses to the Mercantile Marine Act of 1850.
 
 Early in 1843 Fitzroy was appointed governor and commander-in-chief of
 New Zealand, then recently established as a colony. He arrived in his
-government in December, whilst the excitement about the Wairau massacre
+government in December, whilst the excitement about the Wairau [[Massacre|massacre]]
 was still fresh, and the questions relating to the purchase of land from
 the natives were in a very unsatisfactory state. The early settlers were
 greedy and unscrupulous; Fitzroy, on the other hand, had made no secret
@@ -83,7 +83,7 @@ be superseded, on account at once of his health and of his private
 affairs. In February 1850 he was accordingly placed on half-pay; nor did
 he ever serve again, although advanced in due course by seniority to the
 ranks of rear-and vice-admiral on the retired list (1857, 1863). In 1851
-he was elected a fellow of the Royal Society, and in 1854, after serving
+he was elected a [[Fellow|fellow]] of the Royal Society, and in 1854, after serving
 for a few months as private secretary to his uncle, Lord Hardinge, then
 commander-in-chief of the army, he was appointed to the meteorological
 department of the Board of Trade, with, in the first instance, the
@@ -110,10 +110,10 @@ a committee of the Royal Society, they were resumed a few months
 afterwards; and under the successive direction of Dr R.H. Scott and Dr
 W.N. Shaw, have been developed into what we now know them. But though it
 is perhaps by these storm warnings that Fitzroy's name has been most
-generally known, seafaring men owe him a deeper debt of gratitude, not
+generally known, seafaring men owe him a deeper [[Debt|debt]] of gratitude, not
 only for his labours in reducing to a more practical form the somewhat
-complicated wind charts of Captain Maury, but also for his great
-exertions in connexion with the life-boat association. Into this work,
+complicated wind charts of Captain [[Maury]], but also for his great
+exertions in connexion with the [[Life-Boat|life-boat]] association. Into this work,
 in its many ramifications, he threw himself with the energy of an
 excitable temperament, already strained by his long and anxious service
 in the Straits of Magellan. His last years were fully and to an

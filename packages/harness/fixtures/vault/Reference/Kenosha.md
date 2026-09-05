@@ -2,7 +2,7 @@
 
 KENOSHA, a city and the county-seat of Kenosha county, Wisconsin,
 U.S.A., on the S.W. shore of Lake Michigan, 35 m. S. of Milwaukee and 50
-m. N. of Chicago. Pop. (1900), 11,606, of whom 3333 were foreign-born;
+m. N. of [[Chicago]]. Pop. (1900), 11,606, of whom 3333 were foreign-born;
 (1910), 21,371. It is served by the Chicago & North-Western railway, by
 interurban electric lines connecting with Chicago and Milwaukee, and by
 freight and passenger steamship lines on Lake Michigan. It has a good
@@ -11,9 +11,9 @@ high bluffs above the lake, and is widely known for its healthiness. At
 Kenosha is the Gilbert M. Simmons library, with 19,300 volumes in 1908.
 Just south of the city is Kemper Hall, a Protestant Episcopal school for
 girls, under the charge of the Sisters of St Mary, opened in 1870 as a
-memorial to Jackson Kemper (1789-1870), the first missionary bishop
+memorial to [[Jackson]] Kemper (1789-1870), the first missionary bishop
 (1835-1859), and the first bishop of Wisconsin (1854-1870) of the
-Protestant Episcopal Church. Among Kenosha's manufactures are brass and
+Protestant Episcopal Church. Among Kenosha's manufactures are [[Brass|brass]] and
 iron beds (the Simmons Manufacturing Co.), mattresses, typewriters,
 leather and brass goods, wagons, and automobiles--the "Rambler"
 automobile being made at Kenosha by Thomas B. Jeffery and Co. There is

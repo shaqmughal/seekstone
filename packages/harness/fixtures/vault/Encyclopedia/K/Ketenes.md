@@ -1,10 +1,10 @@
 # Ketenes
 
-KETENES, in chemistry, a group of organic compounds which may be
+KETENES, in [[Chemistry|chemistry]], a group of organic compounds which may be
 considered as internal anhydrides of acetic acid and its substitution
 derivatives. Two classes may be distinguished: the aldo-ketenes,
 including ketene itself, together with its mono-alkyl derivatives and
-carbon suboxide, and the keto-ketenes which comprise the dialkyl
+[[Carbon|carbon]] suboxide, and the keto-ketenes which comprise the dialkyl
 ketenes. The aldo-ketenes are colourless compounds which are not capable
 of autoxidation, are polymerized by pyridine or quinoline, and are inert
 towards compounds containing the groupings C:N and C:O. The keto-ketenes
@@ -14,7 +14,7 @@ compounds with substances containing the C:N and C:O groupings. The
 ketenes are usually obtained by the action of zinc on ethereal or ethyl
 acetate solutions of halogen substituted acid chlorides or bromides.
 They are characterized by their additive reactions: combining with water
-to form acids, with alcohols to form esters, and with primary amines to
+to form acids, with alcohols to form [[Esters|esters]], and with primary amines to
 form amides.
 
   _Ketene_, CH2:CO, was discovered by N. T. M. Wilsmore (_Jour. Chem.
@@ -39,7 +39,7 @@ form amides.
   mm.) (Staudinger, Ber. 1905, 38, p. 1735; 1908, 41, p. 2208). Oxygen
   rapidly converts it into a white explosive solid. _Diethyl ketene_,
   (C2H5)2C:CO, is formed on heating diethylmalonic anhydride
-  (Staudinger, ibid.). _Diphenyl ketene_, (C6H5)2C:CO, obtained by the
+  (Staudinger, ibid.). _[[Diphenyl]] ketene_, (C6H5)2C:CO, obtained by the
   action of zinc on diphenyl-chloracetyl chloride, is an orange-red
   liquid which boils at 146° C. (12 mm.). It does not polymerize.
   Magnesium phenyl bromide gives triphenyl vinyl alcohol.

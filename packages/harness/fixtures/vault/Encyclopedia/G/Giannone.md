@@ -18,12 +18,12 @@ sufferings--of a confessor and martyr in the cause of what he deemed
 historical truth. Hooted by the mob of Naples, and excommunicated by the
 archbishop's court, he was forced to leave Naples and repair to Vienna.
 Meanwhile the Inquisition had attested after its own fashion the value
-of his history by putting it on the _Index_. At Vienna the favour of the
+of his history by putting it on the _[[Index]]_. At Vienna the favour of the
 emperor Charles VI. and of many leading personages at the Austrian court
 obtained for him a pension and other facilities for the prosecution of
 his historical studies. Of these the most important result was _Il
 Triregno, ossia del regno del cielo, della terra, e del papa_. On the
-transfer of the Neapolitan crown to Charles of Bourbon, Giannone lost
+transfer of the Neapolitan crown to Charles of [[Bourbon]], Giannone lost
 his Austrian pension and was compelled to remove to Venice. There he was
 at first most favourably received. The post of consulting lawyer to the
 republic, in which he might have continued the special work of Fra Paolo
@@ -34,11 +34,11 @@ Venice, and this suspicion, notwithstanding all his efforts to dissipate
 it, together with clerical intrigues, led to his expulsion from the
 state. On the 23rd of September 1735 he was seized and conveyed to
 Ferrara. After wandering under an assumed name for three months through
-Modena, Milan and Turin, he at last reached Geneva, where he enjoyed the
+Modena, Milan and Turin, he at last reached [[Geneva]], where he enjoyed the
 friendship of the most distinguished citizens, and was on excellent
 terms with the great publishing firms. But in an evil hour he was
 induced to visit a Catholic village within Sardinian territory in order
-to hear mass on Easter day, where he was kidnapped by the agents of the
+to hear mass on [[Easter]] day, where he was kidnapped by the agents of the
 Sardinian government, conveyed to the castle of Miolans and thence
 successively transferred to Ceva and Turin. In the fortress of Turin he
 remained immured during the last twelve years of his life, although part
@@ -51,7 +51,7 @@ severe and he was allowed many alleviations. He died on the 7th of March
 
 Giannone's style as an Italian writer has been pronounced to be below a
 severe classical model; he is often inaccurate as to the facts, for he
-did not always work from original authorities (see A. Manzoni, _Storia
+did not always work from original authorities (see A. [[Manzoni]], _Storia
 della colonna infame_), and he was sometimes guilty of unblushing
 plagiarism. But his very ease and freedom have helped to make his
 volumes more popular than many works of greater classical renown. In
@@ -65,11 +65,11 @@ secured him his rightful place in the estimation of English scholars.
   complete estimate of his literary and political importance may be
   formed by the perusal of the collected edition of the works written by
   him in his Turin prison, published in Turin in 1859--under the care of
-  the distinguished statesman Pasquale Stanislao Mancini, universally
+  the distinguished statesman Pasquale Stanislao [[Mancini]], universally
   recognized as one of the first authorities in Italy on questions
   relating to the history of his native Naples, and especially of the
   conflicts between the civil power and the Church. See also R. Mariano,
-  "Giannone e Vico," in the _Rivista contemporanea_ (1869); G. Ferrari,
+  "Giannone e Vico," in the _Rivista contemporanea_ (1869); G. [[Ferrari]],
   _La Mente di Pietro Giannone_ (1868). G. Bonacci's _Saggio sulla
   Storia civile del Giannone_ (Florence, 1903) is a bitter attack on
   Giannone, and although the writer's remarks on the plagiarisms in the

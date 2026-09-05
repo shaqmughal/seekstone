@@ -22,7 +22,7 @@ hodograph. Let PP1P2 be the path of the moving point, and let OT, OT1,
 OT2, be drawn from the fixed point O parallel and equal to the
 velocities at P, P1, P2 respectively, then the locus of T is the
 hodograph of the orbits described by P (see figure). From this
-definition we have the following important fundamental property which
+[[Definition|definition]] we have the following important fundamental property which
 belongs to all hodographs, viz. that at any point the tangent to the
 hodograph is parallel to the direction, and the velocity in the
 hodograph equal to the magnitude of the resultant acceleration at the
@@ -61,7 +61,7 @@ hodograph is the acceleration in the orbit.
            =  / ( ---  ) + ( ---  ) + ( ---  )   (2).
             \/   \dt^2/     \dt^2/     \dt^2/
 
-  Equation (1) shows that the tangent to the hodograph is parallel to
+  [[Equation]] (1) shows that the tangent to the hodograph is parallel to
   the line of resultant acceleration, and (2) that the velocity in the
   hodograph is equal to the acceleration.
 

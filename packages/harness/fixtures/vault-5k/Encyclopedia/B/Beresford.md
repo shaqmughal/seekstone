@@ -9,7 +9,7 @@ first distinguished himself at Toulon in 1793, receiving two years later
 the command of the 88th regiment (Connaught Rangers). In 1799 his
 regiment was ordered to India, and a few months later Beresford left
 with Sir David Baird's expedition for Egypt, and was placed in command
-of the first brigade which led the march from Kosseir across the desert.
+of the first brigade which led the march from Kosseir across the [[Desert|desert]].
 When, on the evacuation of Egypt in 1803, he returned home, his
 reputation was established. In 1805 he accompanied Sir David Baird to
 South Africa, and was present at the capture of Cape Town and the
@@ -25,7 +25,7 @@ the king of Portugal. After six months in Madeira as governor and
 commander-in-chief, during which he learnt Portuguese and obtained an
 insight into the Portuguese character, he was ordered to join Sir Arthur
 Wellesley's army in Portugal. He was first employed as commandant in
-Lisbon, but accompanied Sir John Moore on the advance into Spain, and
+[[Lisbon]], but accompanied Sir John Moore on the advance into Spain, and
 took a conspicuous part in the battle of Corunna (see PENINSULAR WAR).
 In February 1809 Beresford was given the task of reorganizing the
 Portuguese army. In this task, by systematic weeding-out of inefficient
@@ -63,7 +63,7 @@ and placed the question of the arrears of pay of his army before the
 king at Rio Janeiro. On his return the new Portuguese government refused
 to allow him to land, and he accordingly left for home. On arriving in
 England he turned his attention to politics, and strongly supported the
-duke of Wellington in the House of Lords. In 1823 his barony was made a
+duke of Wellington in the House of Lords. In 1823 his [[Barony|barony]] was made a
 viscounty, and when the duke of Wellington formed his first cabinet in
 1828 he gave Beresford the office of master-general of the ordnance. In
 1830 Beresford retired from politics, and for some time subsequently he

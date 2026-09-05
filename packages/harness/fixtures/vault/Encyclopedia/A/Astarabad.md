@@ -1,18 +1,18 @@
 # Astarabad
 
-ASTARABAD, a province of Persia bounded N. by the Caspian Sea and
-Russian Transcaspian, S. by the Elburz Mountains, W. by Mazandaran, and
-E. by Khorasan. The country, mountainous in its southern portion,
+ASTARABAD, a province of Persia bounded N. by the [[Caspian Sea]] and
+Russian Transcaspian, S. by the [[Elburz]] Mountains, W. by [[Mazandaran]], and
+E. by [[Khorasan]]. The country, mountainous in its southern portion,
 possesses extensive forests, fertile valleys, producing rice, wheat and
 other grains in abundance, and rich pasturages. The soil, even with
 little culture, is exceedingly productive, owing to the abundance of
 water which irrigates and fertilizes it. But while the province in many
 parts presents a landscape of luxuriant beauty, it is a prey to the
-ravages of disease, principally malarial fevers due to the extensive
+ravages of disease, principally malarial [[Fever|fevers]] due to the extensive
 swamps formed by waters stagnating in the forests, and to the frequent
 incursions of the Goklan and Yomut Turkomans, who have their
 camping-grounds in the northern part of the province, and until about
-1890 plundered caravans sometimes at the very gates of Astarabad city,
+1890 plundered [[Caravan|caravans]] sometimes at the very gates of Astarabad city,
 and carried people off into slavery and bondage. The province has a
 population of about 100,000 and pays a yearly revenue of about L30,000.
 The inhabitants, notwithstanding the unhealthiness of their climate, are

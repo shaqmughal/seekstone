@@ -1,8 +1,8 @@
 # Corallian
 
 CORALLIAN (Fr. _Corallien_), in geology, the name of one of the
-divisions of the Jurassic rocks. The rocks forming this division are
-mainly calcareous grits with oolites, and rubbly coral rock--often
+divisions of the [[Jurassic]] rocks. The rocks forming this division are
+mainly calcareous grits with oolites, and rubbly [[Coral|coral]] rock--often
 called "Coral Rag"; ferruginous beds are fairly common, and occasionally
 there are beds of clay. In England the Corallian strata are usually
 divided into an upper series, characterized by the ammonite
@@ -16,7 +16,7 @@ This caution is particularly necessary when any attempt is being made to
 co-ordinate the English with the continental Corallian.
 
 The Corallian rocks are nowhere better displayed than in the cliffs at
-Weymouth. Here Messrs Blake and Huddleston recognized the following
+Weymouth. Here Messrs [[Blake]] and Huddleston recognized the following
 beds:--
 
              / Upper Coral Rag and Abbotsbury Iron Ore.
@@ -33,13 +33,13 @@ beds:--
 
 In Dorsetshire the Corallian rocks are 200 ft. thick, in Wiltshire 100
 ft., but N.E. of Oxford they are represented mainly by clays, and the
-series is much thinner. (At Upware, the "Upware limestone" is the only
+series is much thinner. (At Upware, the "Upware [[Limestone|limestone]]" is the only
 known occurrence of beds that correspond in character with the Coralline
 oolite between Wiltshire and Yorkshire). In Yorkshire, however, the hard
 rocky beds come on again in full force. They appear once more at Brora
 in Sutherlandshire. Corallian strata have been proved by boring in
-Sussex (241 ft.). In Huntingdon, Bedfordshire, parts of Buckinghamshire,
-Cambridgeshire and Lincolnshire the Corallian series is represented by
+Sussex (241 ft.). In Huntingdon, Bedfordshire, parts of [[Buckinghamshire]],
+[[Cambridgeshire]] and [[Lincolnshire]] the Corallian series is represented by
 the "Ampthill Clay," which has also been called "Bluntesham" or
 "Tetworth" Clay. Here and there in this district hard calcareous
 inconstant beds appear, such as the Elsworth rock, St Ives rock and
@@ -83,7 +83,7 @@ Europe, but owing to the absence of clearly-marked stratigraphical and
 palaeontological boundaries, the nomenclature has become greatly
 involved, and there is now a tendency amongst continental geologists to
 omit the term Corallian altogether. According to A. de Lapparent's
-classification the English Corallian rocks are represented by the
+[[Classification|classification]] the English Corallian rocks are represented by the
 _Séquanien_ stage, with two substages, an upper _Astartien_ and lower
 _Rauracien_; but this does not include the whole Corallian stage as
 defined above, the lower part being placed by the French author in his
@@ -101,9 +101,9 @@ stages see the article JURASSIC.
 CORAL-REEFS. Many species of coral (q.v.) are widely distributed, and
 are found at all depths both in warmer and colder seas. _Lophohelia
 prolifera_ and _Dendrophyllia ramea_ form dense beds at a depth of from
-100 to 200 fathoms off the coasts of Norway, Scotland and Portugal, and
+100 to 200 [[Fathom|fathoms]] off the coasts of Norway, Scotland and Portugal, and
 the "Challenger" and other deep-sea dredging expeditions have brought up
-corals from great depths in the Pacific and Atlantic oceans. But the
+corals from great depths in the Pacific and [[Atlantic Ocean|Atlantic oceans]]. But the
 larger number of species, particularly the more massive kinds, occur
 only in tropical seas in shallow waters, whose mean temperature does not
 fall below 68° Fahr., and they do not flourish unless the temperature is
@@ -118,7 +118,7 @@ Coral formations may be classed as fringing or shore reefs, barrier
 reefs and atolls. _Fringing reefs_ are platforms of coral rock extending
 no great distance from the shores of a continent or island. The seaward
 edge of the platform is usually somewhat higher than the inner part, and
-is often awash at low water. It is intersected by numerous creeks and
+is often awash at low water. It is intersected by numerous [[Creek|creeks]] and
 channels, especially opposite those places where streams of fresh water
 flow down from the land, and there is usually a channel deep enough to
 be navigable by small boats between the edge of the reef and the land.
@@ -143,7 +143,7 @@ it by the action of the waves, so that islets are formed which in time
 are covered with vegetation. These islets may coalesce and form a strip
 of dry land lying some hundred yards or less from the extreme outer edge
 of the reef, and separated by a wide channel from the mainland. Where
-the barrier reef is not far from the land there are always gaps in it
+the barrier reef is not far from the land there are always [[Gap|gaps]] in it
 opposite the mouths of rivers or considerable streams. The outer wall of
 a barrier reef is steep, and frequently, though not always, descends
 abruptly into great depths. In many cases in the Pacific Ocean a barrier
@@ -151,7 +151,7 @@ reef surrounds one or more island peaks, and the strips of land on the
 edge of the reef may encircle the peaks with a nearly complete ring. An
 _atoll_ is a ring-shaped reef, either awash at low tide or surmounted by
 several islets, or more rarely by a complete strip of dry land
-surrounding a central lagoon. The outer wall of an atoll generally
+surrounding a central [[Lagoon|lagoon]]. The outer wall of an atoll generally
 descends with a very steep but irregular slope to a depth of 500 fathoms
 or more, but the lagoon is seldom more than 20 fathoms deep, and may be
 much less. Frequently, especially to the leeward side of an atoll,
@@ -165,20 +165,20 @@ though there are numerous reefs in the West Indian islands, off the
 south coast of Florida, and on the coast of Brazil. The Bermudas also
 are coral formations, their high land being formed by sand accumulated
 by the wind and cemented into rock, and are remarkable for being the
-farthest removed from the equator of any recent reefs, being situated in
+farthest removed from the [[Equator|equator]] of any recent reefs, being situated in
 32° N. lat. In the Pacific Ocean there is a vast area thickly dotted
 with coral formations, extending from 5° N. lat. to 25° S. lat., and
 from 130° E. long, to 145° W. long. There are also extensive reefs in
 the westernmost islands of the Hawaiian group in about 25° N. lat. In
 the Indian Ocean, the Laccadive and Maldive islands are large groups of
 atolls off the west and south-west of India. Still farther south is the
-Chagos group of atolls, and there are numerous reefs off the north coast
-of Madagascar, at Mauritius, Bourbon and the Seychelles. The
+[[Chagos]] group of atolls, and there are numerous reefs off the north coast
+of [[Madagascar]], at [[Mauritius]], [[Bourbon]] and the Seychelles. The
 Cocos-Keeling Islands, in 12° S. lat. and 96° E. long., are typical
 atolls in the eastern part of the Indian Ocean.
 
   [Illustration: Diagram showing the formation of an atoll during
-  subsidence. (After C. Darwin.) The lower part of the figure represents
+  subsidence. (After C. [[Darwin]].) The lower part of the figure represents
   a barrier reef surrounding a central peak.
 
   A, A, outer edges of the barrier reef at the sea-level; the coco-nut
@@ -245,7 +245,7 @@ of its simplicity and its applicability to every known type of
 coral-reef formation, including such difficult cases as the Great Chagos
 Bank, a huge submerged atoll in the Indian Ocean.
 
-Darwin's theory was adopted and strengthened by J. D. Dana, who had made
+Darwin's theory was adopted and strengthened by J. D. [[Dana]], who had made
 extensive observations among the Pacific coral reefs between 1838 and
 1842, but it was not long before it was attacked by other observers. In
 1851 Louis Agassiz produced evidence to show that the reefs off the
@@ -282,7 +282,7 @@ and the scour of the tide will tend to deepen the lagoon. Thus the
 considerable depth of some lagoons, amounting to 40 or 50 fathoms, may
 be accounted for. The observations of Guppy in the Solomon islands have
 gone far to confirm Murray's conclusions, since he found in the islands
-of Ugi, Santa Anna and Treasury and Stirling islands unmistakable
+of Ugi, Santa [[Anna]] and Treasury and Stirling islands unmistakable
 evidences of a nucleus of volcanic rock, covered with soft earthy bedded
 deposits several hundred feet thick. These deposits are highly
 fossiliferous in parts, and contain the remains of pteropods,
@@ -294,8 +294,8 @@ of the islands, Santa Anna, has the form of an upraised atoll, with a
 mass of coral limestone 80 ft. in vertical thickness, resting on a
 friable and sparingly argillaceous rock resembling a deep-sea deposit.
 A. Agassiz, in a number of important researches on the Florida reefs,
-the Bahamas, the Bermudas, the Fiji islands and the Great Barrier Reef
-of Australia, has further shown that many of the peculiar features of
+the [[Bahamas]], the Bermudas, the [[Fiji]] islands and the [[Great Barrier Reef]]
+of [[Australia]], has further shown that many of the peculiar features of
 these coral formations cannot be explained on the theory of subsidence,
 but are rather attributable to the natural growth of corals on banks
 formed by prevailing currents, or on extensive shore platforms or
@@ -319,18 +319,18 @@ the island of Funafuti, a typical atoll of the Ellice group in the
 Pacific Ocean, with the purpose of making a deep boring to test this
 question. The first attempt was not successful, for at a depth of 105
 ft. the refractory nature of the rock stopped further progress. But a
-second attempt, under the management of Professor Edgeworth David of
+second attempt, under the management of Professor [[Edgeworth]] David of
 Sydney, proved a complete success. With improved apparatus, the boring
 was carried down to a depth of 697 ft. (116 fathoms), and a third
 attempt carried it down to 1114 ft. (185 fathoms). The boring proves the
 existence of a mass of pure limestone of organic origin to the depth of
 1114 ft., and there is no trace of any other rock. The organic remains
 found in the core brought up by the drill consist of corals,
-foraminifera, calcareous algae and other organisms. A boring was also
+[[Foraminifera|foraminifera]], calcareous algae and other organisms. A boring was also
 made from the deck of a ship into the floor of the lagoon, which shows
 that under 100 ft. of water there exists at the bottom of the lagoon a
 deposit more than 100 ft. thick, consisting of the remains of a
-calcareous alga, _Halimeda opuntia_, mixed with abundant foraminifera.
+calcareous alga, _Halimeda [[Opuntia|opuntia]]_, mixed with abundant foraminifera.
 At greater depths, down to 245 ft., the same materials, mixed with the
 remains of branching madrepores, were met with, and further progress was
 stopped by the existence of solid masses of coral, fragments of porites,
@@ -340,7 +340,7 @@ fathoms, buried beneath a mass of _Halimeda_ and foraminifera, is clear
 evidence of recent subsidence. _Halimeda_ grows abundantly over the
 floor of the lagoon of Funafuti, and has been observed in many other
 lagoons. The writer collected a quantity of it in the lagoon of Diego
-Garcia in the Chagos group. The boring demonstrates that the lagoon of
+[[Garcia]] in the Chagos group. The boring demonstrates that the lagoon of
 Funafuti has been filled up to an extent of at least 245 ft. (nearly 41
 fathoms), and this fact accords well with Darwin's theory, but is
 incompatible with that of Murray. In the present state of our knowledge
@@ -361,15 +361,15 @@ waves and currents in regions in which subsidence has certainly not
 taken place.
 
   See A. Agassiz, many publications in the _Mem. Amer. Acad._ (1883) and
-  _Bull. Mus. Comp. Zool._ (Harvard, 1889-1899); J. D. Dana, _Corals and
+  _[[Bull]]. Mus. Comp. Zool._ (Harvard, 1889-1899); J. D. Dana, _Corals and
   Coral Islands_ (1853; 2nd ed., 1872; 3rd ed., 1890); C. Darwin, _The
   Structure and Distribution of Coral Reefs_ (3rd ed., 1889); H. B.
   Guppy, "The Recent Calcareous Formations of the Solomon Group,"
-  _Trans. Roy. Soc. Edinb._ xxxii. (1885); R. Langenbeck, "Die neueren
-  Forschungen über die Korallenriffe," _Hettner geogr. Zeitsch._ iii.
+  _Trans. Roy. Soc. Edinb._ xxxii. (1885); R. [[Langenbeck]], "Die neueren
+  Forschungen über die Korallenriffe," _[[Hettner]] geogr. Zeitsch._ iii.
   (1897); J. Murray, "On the Structure and Origin of Coral Reefs and
   Islands," _Proc. Roy. Soc. Edinb._ x. (1879-1880); J. Murray and
-  Irvine, "On Coral Reefs and other Carbonate of Lime Formations in
+  [[Irvine]], "On Coral Reefs and other Carbonate of Lime Formations in
   Modern Seas," _Proc. Roy. Soc. Edinb._ (1889); W. Savile Kent, _The
   Great Barrier Reef of Australia_ (London, W. H. Allen & Co., 1893);
   Karl Semper, _Animal Life_, "Internat. Sci. Series," vol. xxxi.

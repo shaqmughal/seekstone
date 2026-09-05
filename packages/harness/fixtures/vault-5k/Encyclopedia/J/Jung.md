@@ -20,7 +20,7 @@ art" in the newly established Kameralschule at Kaiserslautern, a post
 which he continued to hold when the school was absorbed in the
 university of Heidelberg. In 1787 he was appointed professor of
 economical, financial and statistical science in the university of
-Marburg. In 1803 he resigned his professorship and returned to
+[[Marburg]]. In 1803 he resigned his professorship and returned to
 Heidelberg, where he remained until 1806, when he received a pension
 from the grand-duke Charles Frederick of Baden, and removed to
 Karlsruhe, where he remained until his death on the 2nd of April 1817.

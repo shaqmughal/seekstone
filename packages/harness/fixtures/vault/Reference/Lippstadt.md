@@ -8,7 +8,7 @@ type: reference
 # Lippstadt
 
 LIPPSTADT, a town in the Prussian province of Westphalia, on the river
-Lippe, 20 m. by rail W. by S. of Paderborn, on the main line to
+[[Lippe]], 20 m. by rail W. by S. of Paderborn, on the main line to
 Düsseldorf. Pop. (1905) 15,436. The Marien Kirche is a large edifice in
 the Transitional style, dating from the 13th century. It has several
 schools, among them being one which was originally founded as a nunnery

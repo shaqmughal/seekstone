@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Guernieri"
 # Guernieri
 
 GUERNIERI, or WERNER, a celebrated mercenary captain who lived about the
-middle of the 14th century. He was a member of the family of the dukes
+middle of the 14th century. He was a member of the family of the [[Dukes|dukes]]
 of Urslingen, and probably a descendant of the dukes of Spoleto. From
 1340 to 1343 he was in the service of the citizens of Pisa, but
 afterwards he collected a troop of adventurers which he called the Great

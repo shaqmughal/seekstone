@@ -7,30 +7,30 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ketones"
 
 # Ketones
 
-KETONES, in chemistry, organic compounds of the type R·CO·R´, where R,
+KETONES, in [[Chemistry|chemistry]], organic compounds of the type R·CO·R´, where R,
 R´ = alkyl or aryl groups. If the groups R and R´ are identical, the
 ketone is called a _simple_ ketone, if unlike, a _mixed_ ketone. They
 may be prepared by the oxidation of secondary alcohols; by the addition
-of the elements of water to hydrocarbons of the acetylene type RC CH; by
+of the elements of water to [[Hydrocarbon|hydrocarbons]] of the acetylene type RC CH; by
 oxidation of primary alcohols of the type RR´CH·CH2OH:RR´·CH·CH2OH -->
-R·CO·R´ + H2O + H2CO2; by distillation of the calcium salts of the fatty
+R·CO·R´ + H2O + H2CO2; by [[Distillation|distillation]] of the calcium salts of the fatty
 acids, C_(n)H_(2n)O2; by heating the sodium salts of these acids
 C_(n)H_(2n)O2 with the corresponding acid anhydride to 190° C. (W. H.
 Perkin, _Jour. Chem. Soc._, 1886, 49, p. 322); by the action of
-anhydrous ferric chloride on acid chlorides (J. Hamonet, _Bull. de la
+anhydrous ferric chloride on acid chlorides (J. Hamonet, _[[Bull]]. de la
 soc. chim._, 1888, 50, p. 357),
 
   2C2H5COCl --> C2H5·CO·CH(CH3)·COCl
             --> C2H5·CO·CH(CH3)·CO2H --> C2H5·CO·CH2·CH3;
 
-and by the action of zinc alkyls on acid chlorides (M. Freund, Ann.,
+and by the action of zinc alkyls on acid chlorides (M. [[Freund]], Ann.,
 1861, 118, p. 1), 2CH3COCl + ZnC(H3)2 = ZnCl2 + 2CH3·CO·CH3. In the last
 reaction complex addition products are formed, and must be quickly
 decomposed by water, otherwise tertiary alcohols are produced (A. M.
 Butlerow, _Jahresb._, 1864, p. 496; _Ann._ 1867, 144, p. 1). They may
 also be prepared by the decomposition of ketone chlorides with water; by
 the oxidation of the tertiary hydroxyacids; by the hydrolysis of the
-ketonic acids or their esters with dilute alkalis or baryta water (see
+ketonic acids or their [[Esters|esters]] with dilute alkalis or baryta water (see
 ACETO-ACETIC ESTER); by the hydrolysis of alkyl derivatives of acetone
 dicarboxylic acid, HO2C·CH2·CO·CHR·CO2H; and by the action of the
 Grignard reagent on nitriles (E. Blaise, _Comptes rendus_, 1901, 132, p.
@@ -44,7 +44,7 @@ reduce silver solutions, and are not so readily oxidized as the
 aldehydes. On oxidation, the molecule is split at the carbonyl group and
 a mixture of acids is obtained. Sodium amalgam reduces them to secondary
 alcohols; phosphorus pentachloride replaces the carbonyl oxygen by
-chlorine, forming the ketone chlorides. Only those ketones which contain
+[[Chlorine|chlorine]], forming the ketone chlorides. Only those ketones which contain
 a methyl group are capable of forming crystalline addition compounds
 with the alkaline bisulphites (F. Grimm, _Ann._, 1871, 157, p. 262).
 They combine with hydrocyanic acid to form nitriles, which on hydrolysis
@@ -52,9 +52,9 @@ furnish hydroxyacids,
 
   (CH2)2CO --> (CH3)2C·OH·CN --> (CH3)2·C·OH·CO2H;
 
-with phenylhydrazine they yield hydrazones; with hydrazine they yield in
-addition ketazines RR´·C:N·N:C·RR´ (T. Curtius), and with hydroxylamine
-ketoximes. The latter readily undergo the "Beckmann" transformation on
+with phenylhydrazine they yield hydrazones; with [[Hydrazine|hydrazine]] they yield in
+addition ketazines RR´·C:N·N:C·RR´ (T. [[Curtius]]), and with [[Hydroxylamine|hydroxylamine]]
+ketoximes. The latter readily undergo the "[[Beckmann]]" transformation on
 treatment with acid chlorides, yielding substituted acid amides.
 
   RR´·C:NOH --> RC(NR´)·OH --> R·CO·NHR´
@@ -62,7 +62,7 @@ treatment with acid chlorides, yielding substituted acid amides.
 (see OXIMES, also A. Hantzsch, Ber., 1891, 24, p. 13). The ketones react
 with mercaptan to form mercaptols (E. Baumann, _Ber._, 1885, 18, p.
 883), and with concentrated nitric acid they yield dinitroparaffins (G.
-Chancel, _Bull. de la soc. chim._, 1879, 31, p. 503). With nitrous acid
+[[Chancel]], _Bull. de la soc. chim._, 1879, 31, p. 503). With nitrous acid
 (obtained from amyl nitrite and gaseous hydrochloric acid, the ketone
 being dissolved in acetic acid) they form isonitrosoketones, R·CO·CH:NOH
 (L. Claisen, _Ber._, 1887, 20, pp. 656, 2194). With ammonia they yield
@@ -103,7 +103,7 @@ gives mesityl oxide, phorone and mesitylene (see below).
   melt at 28° C. and boil at 197.2° C. When heated with phosphorus
   pentoxide it yields acetone, water and some pseudo-cumene. Dilute
   nitric acid oxidizes it to acetic and oxalic acids, while potassium
-  permanganate oxidizes it to acetone, carbon dioxide and oxalic acid.
+  permanganate oxidizes it to acetone, [[Carbon|carbon]] dioxide and oxalic acid.
 
 DIKETONES.--The diketones contain two carbonyl groups, and are
 distinguished as [alpha] or 1.2 diketones, [beta] or 1.3 diketones,
@@ -118,7 +118,7 @@ distinguished as [alpha] or 1.2 diketones, [beta] or 1.3 diketones,
   _Ber._, 1888, 21, p. 2177), C2H5·CO·C = (NOH)·CH3 + 11C5HONO =
   C2H5·CO·CO·CH3 + C5H11OH + N2O. They condense with orthodiamines to
   form quinoxalines (O. Hinsberg, _Ann._, 1887, 237, p. 327), and with
-  ammonia and aldehydes to form imidazoles. _Diacetyl_, CH3·CO·CO·CH3,
+  ammonia and aldehydes to form [[Imidazoles|imidazoles]]. _Diacetyl_, CH3·CO·CO·CH3,
   is a yellowish green liquid, which boils at 87-88°C., and possesses a
   pungent smell. It combines with sodium bisulphite and with hydrocyanic
   acid. Dilute alkalis convert it into paraxyloquinone.

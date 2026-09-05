@@ -22,14 +22,14 @@ other artistic works. St Basile (12th and 16th centuries), which
 preserves a Romanesque doorway, and St Martin (12th and 13th centuries),
 with a leaning tower of the 16th century, are of less importance. The
 civil buildings offer little interest, but two houses named after Anne
-de Pisseleu (see above), mistress of Francis I., and Diane de Poitiers,
+de Pisseleu (see above), mistress of Francis I., and [[Diane De Poitiers|Diane de Poitiers]],
 mistress of Henry II., are graceful examples of Renaissance
 architecture. In the square there is a statue of the naturalist,
-Geoffroy Saint-Hilaire, who was born in Etampes. The subprefecture, a
+[[Geoffroy Saint-Hilaire]], who was born in Etampes. The subprefecture, a
 tribunal of first instance, and a communal college are among the public
 institutions of Etampes. Flour-milling, metal-founding,
 leather-dressing, printing and the manufacture of boots and shoes and
-hosiery are carried on; there are quarries of paving-stone, nurseries
+[[Hosiery|hosiery]] are carried on; there are quarries of paving-stone, nurseries
 and market gardens in the vicinity, and the town has important markets
 for cereals and sheep.
 
@@ -40,16 +40,16 @@ took place in 1130 and resulted in the recognition of Innocent II. as
 the legitimate pope. In 1652, during the war of the Fronde it suffered
 severely at the hands of the royal troops under Turenne.
 
-_Lords, Counts and Dukes of Etampes._--The lordship of Etampes, in what
+_Lords, Counts and [[Dukes]] of Etampes._--The lordship of Etampes, in what
 is now the department of Seine et Oise in France, belonged to the royal
 domain, but was detached from it on several occasions in favour of
 princes, or kings' favourites. St Louis gave it to his mother Blanche of
-Castile, and then to his wife Marguerite of Provence. Louis, the brother
+Castile, and then to his wife [[Marguerite]] of Provence. Louis, the brother
 of Philip the Fair, became lord of Etampes in 1317 and count in 1327; he
 was succeeded by his son and his grandson. Francis I. raised the
 countship of Etampes to the rank of a duchy for his mistress Anne de
 Pisseleu D'Heilly. The new duchy passed to Diane de Poitiers (1553), to
-Catherine of Lorraine, duchess of Montpensier (1578), to Marguerite of
+Catherine of [[Lorraine]], duchess of Montpensier (1578), to Marguerite of
 Valois (1582) and to Gabrielle d'Estrees (1598). The latter transmitted
 it to her son, Cesar of Vendome, and his descendants held it till 1712.
 It then passed by inheritance to the families of Bourbon-Conti and of

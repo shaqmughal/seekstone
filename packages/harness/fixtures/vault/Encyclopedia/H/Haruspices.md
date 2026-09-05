@@ -17,7 +17,7 @@ blemish, and the practice of observing whether the entrails presented
 any abnormal appearance, and thence deducing the will of heaven, was
 also very important in Greek religion. This art, however, appears not to
 have been, as some other modes of ascertaining the will of the gods
-undoubtedly were, of genuine Aryan growth. It is foreign to the Homeric
+undoubtedly were, of genuine [[Aryan]] growth. It is foreign to the Homeric
 poems, and must have been introduced into Greece after their
 composition. In like manner, as the Romans themselves believed, the art
 was not indigenous in Rome, but derived from Etruria.[1] The Etruscans
@@ -32,7 +32,7 @@ not mentioned in the pontifical and Sibylline books, and the Roman
 priests carried out their instructions as to the offering necessary to
 appease the anger of the deity concerned. Though the art was of great
 importance under the early republic, it never became a part of the state
-religion. In this respect the haruspices ranked lower than the augurs,
+religion. In this respect the haruspices ranked lower than the [[Augurs|augurs]],
 as is shown by the fact that they received a salary; the augurs were a
 more ancient and purely Roman institution, and were a most important
 element in the political organization of the city. In later times the
@@ -43,8 +43,8 @@ hear of a regular collegium of sixty haruspices; and Claudius is said to
 have tried to restore the art and put it under the control of the
 pontifices. This collegium continued to exist till the time of Alaric.
 
-  See A. Bouche-Leclercq, _Histoire de la divination dans l'antiquite_
-  (1879-1881); Marquardt, _Romische Staatsverwaltung_, iii. (1885), pp.
+  See A. Bouche-Leclercq, _Histoire de la [[Divination|divination]] dans l'antiquite_
+  (1879-1881); [[Marquardt]], _Romische Staatsverwaltung_, iii. (1885), pp.
   410-415; G. Schmeisser, _Die etruskische Disciplin vom
   Bundesgenossenkriege bis zum Untergang des Heidentums_ (1881), and
   _Quaestionum de Etrusca disciplina particula_ (1872); P. Clairin, _De
@@ -53,7 +53,7 @@ pontifices. This collegium continued to exist till the time of Alaric.
 
 FOOTNOTE:
 
-  [1] The statement of Dionysius of Halicarnassus (ii. 22) that the
+  [1] The statement of [[Dionysius]] of [[Halicarnassus]] (ii. 22) that the
     haruspices were instituted by Romulus is due to his confusing them
     with the augurs.
 

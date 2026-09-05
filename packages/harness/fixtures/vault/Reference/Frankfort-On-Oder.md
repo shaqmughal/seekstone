@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Frankfort-
 
 FRANKFORT-ON-ODER, a town of Germany, in the Prussian province of
 Brandenburg, 50 m. S.E. from Berlin on the main line of railway to
-Breslau and at the junction of lines to Cuestrin, Posen and Grossenhain.
+Breslau and at the junction of lines to Cuestrin, Posen and [[Grossenhain]].
 Pop. (1905) 64,943. The town proper lies on the left bank of the river
 Oder and is connected by a stone bridge (replacing the old historical
 wooden structure) 900 ft. long, with the suburb of Damm. The town is
@@ -21,32 +21,32 @@ valley. Between this suburb and the town lies the park, in which is a
 monument to the poet Ewald Christian von Kleist, who died here of wounds
 received in the battle of Kunersdorf. Among the more important public
 buildings must be noticed the Evangelical Marienkirche (Oberkirche), a
-handsome brick edifice of the 13th century with five aisles, the Roman
+handsome [[Brick|brick]] edifice of the 13th century with five aisles, the Roman
 Catholic church, the Rathhaus dating from 1607, and bearing on its
-southern gable the device of a member of the Hanseatic League, the
-government offices and the theatre. The university of Frankfort, founded
+southern [[Gable|gable]] the device of a member of the Hanseatic League, the
+government offices and the theatre. The university of [[Frankfort]], founded
 in 1506 by Joachim I., elector of Brandenburg, was removed to Breslau in
 1811, and the academical buildings are now occupied by a school. To
 compensate it for the loss of its university, Frankfort-on-Oder was long
 the seat of the court of appeal for the province, but of this it was
 deprived in 1879. There are several handsome public monuments, notably
-that to Duke Leopold of Brunswick, who was drowned in the Oder while
+that to Duke [[Leopold]] of Brunswick, who was drowned in the Oder while
 attempting to save life, on the 27th of April 1785. The town has a large
-garrison, consisting of nearly all arms. Its industries are
+[[Garrison|garrison]], consisting of nearly all arms. Its industries are
 considerable, including the manufacture of machinery, metal ware,
 chemicals, paper, leather and sugar. Situated on the high road from
 Berlin to Silesia, and having an extensive system of water communication
-by means of the Oder and its canals to the Vistula and the Elbe, and
+by means of the Oder and its canals to the Vistula and the [[Elbe]], and
 being an important railway centre, it has a lively export trade, which
 is further fostered by its three annual fairs, held respectively at
-_Reminiscere_ (the second Sunday in Lent), St Margaret's day and at
-Martinmas. In the neighbourhood are extensive coal fields.
+_Reminiscere_ (the second Sunday in [[Lent]]), St Margaret's day and at
+Martinmas. In the neighbourhood are extensive coal [[Fields|fields]].
 
 Frankfort-on-the-Oder owes its origin and name to a settlement of
 Franconian merchants here, in the 13th century, on land conquered by the
 margrave of Brandenburg from the Wends. In 1253 it was raised to the
 rank of a town by the margrave John I. and borrowed from Berlin the
-Magdeburg civic constitution. In 1379 it received from King Sigismund,
+[[Magdeburg]] civic constitution. In 1379 it received from King Sigismund,
 then margrave of Brandenburg, the right to free navigation of the Oder;
 and from 1368 to about 1450 it belonged to the Hanseatic League. The
 university, which is referred to above, was opened by the elector

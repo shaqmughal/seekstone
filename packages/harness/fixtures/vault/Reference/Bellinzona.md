@@ -2,7 +2,7 @@
 
 BELLINZONA (Ger. _Belienz_), the political capital of the Swiss canton
 of Tessin or Ticino. It is 105 m. from Lucerne by the St Gotthard
-railway, 19 m. from Lugano and 14 m. from Locarno at the head of the
+railway, 19 m. from Lugano and 14 m. from [[Locarno]] at the head of the
 Lago Maggiore, these two towns having been till 1881 capitals of the
 canton jointly with Bellinzona. The old town is built on some hills, on
 the left bank of the Tessin or Ticino river, and a little below the
@@ -12,7 +12,7 @@ wall was built from the town to the river bank. Bellinzona still
 possesses three picturesque castles (restored in modern times), dating
 in their present form from the 15th century. They belonged for several
 centuries to the three Swiss cantons which were masters of the town. The
-most westerly, Castello Grande or of San Michele, belonged to Uri; the
+most westerly, [[Castello]] Grande or of San Michele, belonged to Uri; the
 central castle, that of Montebello, was the property of Schwyz; while
 the most easterly castle, that of Sasso Corbaro, was in the hands of
 Unterwalden. The 13th-century church of San Biagio (Blaise) has a
@@ -22,8 +22,8 @@ Bellinzona was 4949, practically all Romanists and Italian-speaking.
 
 Possibly Bellinzona is of Roman origin, but it is first mentioned in
 590. It played a considerable part in the early history of Lombardy,
-being a key to several Alpine passes. In the 8th century it belonged to
-the bishop of Como, while in the 13th and 14th centuries it was tossed
+being a [[Key|key]] to several Alpine passes. In the 8th century it belonged to
+the bishop of [[Como]], while in the 13th and 14th centuries it was tossed
 to and fro between the cities of Milan and Como. In 1402 it was taken
 from Milan by Albert von Sax, lord of the Val Mesocco, who in 1419 sold
 it to Uri and Obwalden, which, however, lost it to Milan in 1422 after

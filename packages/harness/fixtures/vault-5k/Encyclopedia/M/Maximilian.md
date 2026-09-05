@@ -2,7 +2,7 @@
 
 MAXIMILIAN (1832-1867), emperor of Mexico, second son of the archduke
 Francis Charles of Austria, was born in the palace of Schönbrunn, on the
-6th of July 1832. He was a particularly clever boy, showed considerable
+6th of July 1832. He was a particularly [[Clever|clever]] boy, showed considerable
 taste for the arts, and early displayed an interest in science,
 especially botany. He was trained for the navy, and threw himself into
 this career with so much zeal that he quickly rose to high command, and
@@ -10,7 +10,7 @@ was mainly instrumental in creating the naval port of Trieste and the
 fleet with which Tegethoff won his victories in the Italian War. He had
 some reputation as a Liberal, and this led, in February 1857, to his
 appointment as viceroy of the Lombardo-Venetian kingdom; in the same
-year he married the Princess Charlotte, daughter of Leopold I., king of
+year he married the Princess [[Charlotte]], daughter of Leopold I., king of
 the Belgians. On the outbreak of the war of 1859 he retired into private
 life, chiefly at Trieste, near which he built the beautiful chateau of
 Miramar. In this same year he was first approached by Mexican exiles
@@ -27,7 +27,7 @@ found himself involved in difficulties of the most serious kind, which
 in 1866 made apparent to almost every one outside of Mexico the
 necessity for his abdicating. Though urged to this course by Napoleon
 himself, whose withdrawal from Mexico was the final blow to his cause,
-Maximilian refused to desert his followers. Withdrawing, in February
+Maximilian refused to [[Desert|desert]] his followers. Withdrawing, in February
 1867, to Querétaro, he there sustained a siege for several weeks, but on
 the 15th of May resolved to attempt an escape through the enemy's lines.
 He was, however, arrested before he could carry out this resolution, and

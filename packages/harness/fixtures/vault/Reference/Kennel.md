@@ -12,9 +12,9 @@ buildings for a pack of hounds (see DOG). The word is apparently from a
 Norman-French _kenil_ (this form does not occur, but is seen in the
 Norman _kinet_, a little dog), modern French _chenil_, from popular
 Latin _canile_, place for a dog, _canis_, cf. _ovile_, sheep-cote. The
-word "kennel," a gutter, a drain in a street or road, is a corruption of
+word "kennel," a [[Gutter|gutter]], a drain in a street or road, is a corruption of
 the Middle English _canel, cannel_, in modern English "channel," from
-Latin _canalis_, canal.
+Latin _[[Canalis|canalis]]_, canal.
 
 ## References
 

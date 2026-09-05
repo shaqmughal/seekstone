@@ -59,7 +59,7 @@ was in command of the Athenian squadron off Byzantium, and so far won
 the confidence of the Ionian allies that, after revolting from the
 Spartan admiral Pausanias, they offered him the chief command and left
 him with absolute discretion in fixing the contributions of the newly
-formed confederacy (see DELIAN LEAGUE). His assessment was universally
+formed confederacy (see [[Delian League|DELIAN LEAGUE]]). His assessment was universally
 accepted as equitable, and continued as the basis of taxation for the
 greater part of the league's duration; it was probably from this that he
 won the title of "the Just." Aristides soon left the command of the

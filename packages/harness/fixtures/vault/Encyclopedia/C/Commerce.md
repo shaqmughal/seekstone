@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Commerce"
 # Commerce
 
 COMMERCE (Lat. _commercium_, from _cum_, together, and _merx_,
-merchandise), in its general acceptation, the international traffic in
+merchandise), in its general acceptation, the [[International|international]] traffic in
 goods, or what constitutes the foreign trade of all countries as
 distinct from their domestic trade.
 
@@ -20,24 +20,24 @@ _current with the merchant_," for the field of Ephron, is suggestive of
 a group of facts and ideas indicating an advanced condition of
 commercial intercourse,--property in land, sale of land, arts of mining
 and purifying metals, the use of silver of recognized purity as a common
-medium of exchange, and merchandise an established profession, or
+medium of [[Exchange|exchange]], and merchandise an established profession, or
 division of labour. That other passage in which we read of Joseph being
 sold by his brethren for twenty pieces of silver to "a company of
-Ishmaelites, coming from Gilead, with their camels bearing spicery and
+Ishmaelites, coming from [[Gilead]], with their camels bearing spicery and
 balm and myrrh to Egypt," extends our vision still farther, and shows us
 the populous and fertile Egypt in commercial relationship with Chaldaea,
 and Arabians, foreign to both, as intermediaries in their traffic,
-generations before the Hebrew commonwealth was founded.
+generations before the Hebrew [[Commonwealth|commonwealth]] was founded.
 
 The first foreign merchants of whom we read, carrying goods and bags of
-silver from one distant region to another, were the southern Arabs,
-reputed descendants of Ishmael and Esau. The first notable navigators
-and maritime carriers of goods were the Phoenicians. In the commerce of
+silver from one distant region to another, were the southern [[Arabs]],
+reputed descendants of [[Ishmael]] and Esau. The first notable navigators
+and maritime [[Carrier|carriers]] of goods were the Phoenicians. In the commerce of
 the ante-Christian ages the Jews do not appear to have performed any
 conspicuous part. Both the agricultural and the theocratic constitution
 of their society were unfavourable to a vigorous prosecution of foreign
 trade. In such traffic as they had with other nations they were served
-on their eastern borders by Arabian merchants, and on the west and south
+on their eastern [[Borders|borders]] by Arabian merchants, and on the west and south
 by the Phoenician shippers. The abundance of gold, silver and other
 precious commodities gathered from distant parts, of which we read in
 the days of greatest Hebrew prosperity, has more the character of spoils
@@ -66,9 +66,9 @@ communication, which, though primarily for official and military
 purposes, must have been useful to traffickers and to the general
 population. But the free navigable area of great rivers is limited, and
 when diversion of traffic had to be made to roads and tracks through
-deserts, there remained the slow and costly carriage of beasts of
-burden, by which only articles of small bulk and the rarest value could
-be conveyed with any hope of profit. Corn, though of the first
+[[Desert|deserts]], there remained the slow and costly carriage of beasts of
+[[Burden|burden]], by which only articles of small bulk and the rarest value could
+be conveyed with any hope of profit. [[Corn]], though of the first
 necessity, could only be thus transported in famines, when beyond price
 to those who were in want, and under this extreme pressure could only be
 drawn from within a narrow sphere, and in quantity sufficient to the
@@ -86,11 +86,11 @@ to, are to be regarded more as speculations of future development than
 as realities of ancient history. It is not improbable that the ancient
 traffic of the Red Sea may have been extended along the shores of the
 Arabian Sea to some parts of Hindustan, but that vessels braved the
-Indian Ocean and passed round Cape Comorin into the Bay of Bengal, 2000
+Indian Ocean and passed round Cape Comorin into the Bay of [[Bengal]], 2000
 or even 1000 years before mariners had learned to double the Cape of
 Good Hope, is scarcely to be believed. The route by the Euxine and the
-Caspian Sea has probably never in any age reached India. That by the
-Euphrates and the Persian Gulf is shorter, and was besides the more
+[[Caspian Sea]] has probably never in any age reached India. That by the
+[[Euphrates]] and the Persian Gulf is shorter, and was besides the more
 likely from passing through tracts of country which in the most remote
 times were seats of great population. There may have been many merchants
 who traded on all these various routes, but that commodities were passed
@@ -129,7 +129,7 @@ which traders can proceed in their operations with reasonable
 confidence; and the governments, while protecting the commerce of their
 subjects with foreigners as if it were their own enterprise, must in
 their fiscal policy, and in all their acts, be endued with the highest
-spirit of commercial honour. Every great breach of this security stops
+spirit of commercial honour. Every great [[Breach|breach]] of this security stops
 the continuous circulation, which is the life of traffic and of the
 industries to which it ministers. But in the ancient records we see
 commerce exposed to great risks, subject to constant pillage, hunted
@@ -162,12 +162,12 @@ intercourse.
 While Rome was giving laws and order to the half-civilized tribes of
 Italy, Carthage, operating on a different base, and by other methods,
 was opening trade with less accessible parts of Europe. The strength of
-Rome was in her legions, that of Carthage in her ships; and her ships
+Rome was in her [[Legion|legions]], that of Carthage in her ships; and her ships
 could cover ground where the legions were powerless. Her mariners had
 passed the mythical straits into the Atlantic, and established the port
-of Cadiz. Within the Mediterranean itself they founded Carthagena and
-Barcelona on the same Iberian peninsula, and ahead of the Roman legions
-had depots and traders on the shores of Gaul. After the destruction of
+of [[Cadiz]]. Within the Mediterranean itself they founded Carthagena and
+[[Barcelona]] on the same Iberian peninsula, and ahead of the Roman legions
+had depots and traders on the shores of [[Gaul]]. After the destruction of
 Tyre, Carthage became the greatest power in the Mediterranean, and
 inherited the trade of her Phoenician ancestors with Egypt, Greece and
 Asia Minor, as well as her own settlements in Sicily and on the European
@@ -180,7 +180,7 @@ its own proper base; and in the year 146 B.C. Carthage was so totally
 destroyed by the Romans that of the great city, more than 20 m. in
 circumference, and containing at one period near a million of
 inhabitants, only a few thousands were found within its ruined walls. In
-the same year Corinth, one of the greatest of the Greek capitals and
+the same year [[Corinth]], one of the greatest of the Greek capitals and
 seaports, was captured, plundered of vast wealth and given to the flames
 by a Roman consul. Athens and her magnificent harbour of the Piraeus
 fell into the same hands 60 years later. It may be presumed that trade
@@ -197,10 +197,10 @@ complete annihilation by the Roman Emperor Aurelian within little more
 than half a century after the capture and spoliation of Athens. The
 walls were razed to their foundations; the population--men, women,
 children and the rustics round the city--were all either massacred or
-dispersed; and the queen Zenobia was carried captive to Rome. Palmyra
+dispersed; and the queen Zenobia was carried [[Captive|captive]] to Rome. Palmyra
 had for centuries, as a centre of commercial intercourse and transit,
 been of great service to her neighbours, east and west. In the wars of
-the Romans and Parthians she was respected by both as an asylum of
+the Romans and Parthians she was respected by both as an [[Asylum|asylum]] of
 common interests which it would have been simple barbarity to invade or
 injure; and when the Parthians were subdued, and Palmyra became a Roman
 _annexe_, she continued to flourish as before. Her relations with Rome
@@ -209,7 +209,7 @@ citizens having inflicted signal chastisement on the king of Persia for
 the imprisonment of the emperor Valerian, the admiration of this conduct
 at Rome was so great that their spirited leader Odaenathus, the husband
 of Zenobia, was proclaimed Augustus, and became co-emperor with
-Gallienus. It is obvious that the destruction of Palmyra must not only
+[[Gallienus]]. It is obvious that the destruction of Palmyra must not only
 have doomed Palestine, already bereft of her seaports, to greater
 poverty and commercial isolation than had been known in long preceding
 ages, but have also rendered it more difficult to Rome herself to hold
@@ -228,10 +228,10 @@ thousand years a history of unusual splendour. The Veneti cultivated
 fertile lands on the Po, and built several towns, of which Padua was the
 chief. They appear from the earliest note of them in history to have
 been both an agricultural and trading people; and they offered a rich
-prey to the barbarian hordes when these broke through every barrier into
+prey to the barbarian [[Horde|hordes]] when these broke through every barrier into
 the plains of Italy. Thirty years before Attila razed the neighbouring
-city of Aquileia, the consuls and senate of Padua, oppressed and
-terrified by the prior ravages of Alaric, passed a decree for erecting
+city of [[Aquileia]], the consuls and senate of Padua, oppressed and
+terrified by the prior ravages of Alaric, passed a [[Decree|decree]] for erecting
 Rialto, the largest of the numerous islets at the mouth of the Po, into
 a chief town and port, not more as a convenience to the islanders than
 as a security for themselves and their goods. But every fresh incursion,
@@ -247,9 +247,9 @@ the sea, they found in it fish and salt, and in the rich possessions of
 trade and territory which it opened to them more than compensation for
 the fat lands and inland towns which had long been their home. The
 Venetians traded with Constantinople, Greece, Syria and Egypt. They
-became lords of the Morea, and of Candia, Cyprus and other islands of
-the Levant. The trade of Venice with India, though spoken of, was
-probably never great. But the crusades of the 12th and 13th centuries
+became lords of the Morea, and of Candia, [[Cyprus]] and other islands of
+the [[Levant]]. The trade of Venice with India, though spoken of, was
+probably never great. But the [[Crusades|crusades]] of the 12th and 13th centuries
 against the Saracens in Palestine extended her repute more widely east
 and west, and increased both her naval and her commercial resources. It
 is enough, indeed, to account for the grandeur of Venice that in course
@@ -264,12 +264,12 @@ wider range. The bridge built from the largest of the islands to the
 opposite bank became the "Rialto," or famous exchange of Venice, whose
 transactions reached farther, and assumed a more consolidated form, than
 had been known before. There it was where the first public bank was
-organized; that bills of exchange were first negotiated, and funded debt
+organized; that bills of exchange were first negotiated, and funded [[Debt|debt]]
 became transferable; that finance became a science and book-keeping an
 art. Nor must the effect of the example of Venice on other cities of
 Italy be left out of account. Genoa, following her steps, rose into
 great prosperity and power at the foot of the Maritime Alps, and became
-her rival, and finally her enemy. Naples, Gaeta, Florence, many other
+her rival, and finally her enemy. Naples, [[Gaeta]], Florence, many other
 towns of Italy, and Rome herself, long after her fall, were encouraged
 to struggle for the preservation of their municipal freedom, and to
 foster trade, arts and navigation, by the brilliant success set before
@@ -305,20 +305,20 @@ itself places of security, and it could only find them in towns, armed
 with powers of self-regulation and defence, and prepared, like the
 feudal barons themselves, to resist violence from whatever quarter it
 might come. Rome, in her best days, had founded the municipal system,
-and when this system was more than ever necessary as the bulwark of arts
+and when this system was more than ever necessary as the [[Bulwark|bulwark]] of arts
 and manufactures, its extension became an essential element of the whole
 European civilization. Towns formed themselves into leagues for mutual
 protection, and out of leagues not infrequently arose commercial
 republics. The Hanseatic League, founded as early as 1241, gave the
 first note of an increasing traffic between countries on the Baltic and
 in northern Germany, which a century or two before were sunk in isolated
-barbarism. From Lübeck and Hamburg, commanding the navigation of the
-Elbe, it gradually spread over 85 towns, including Amsterdam, Cologne
-and Frankfort in the south, and Danzig, Königsberg and Riga in the
+barbarism. From Lü[[Beck|beck]] and [[Hamburg]], commanding the navigation of the
+[[Elbe]], it gradually spread over 85 towns, including Amsterdam, [[Cologne]]
+and [[Frankfort]] in the south, and Danzig, Königsberg and Riga in the
 north. The last trace of this league, long of much service in protecting
 trade, and as a means of political mediation, passed away in the
 erection of the German empire (1870), but only from the same cause that
-had brought about its gradual dissolution--the formation of powerful
+had brought about its [[Gradual|gradual]] dissolution--the formation of powerful
 and legal governments--which, while leaving to the free cities their
 municipal rights, were well capable of protecting their mercantile
 interests. The towns of Holland found lasting strength and security from
@@ -326,9 +326,9 @@ other causes. Their foundations were laid as literally in the sea as
 those of Venice had been. They were not easily attacked whether by sea
 or land, and if attacked had formidable means of defence. The Zuyder
 Zee, which had been opened to the German Ocean in 1282, carried into the
-docks and canals of Amsterdam the traffic of the ports of the Baltic, of
-the English Channel and of the south of Europe, and what the seas did
-for Amsterdam from without the Rhine and the Maese did for Dort and
+[[Dock|docks]] and canals of Amsterdam the traffic of the ports of the Baltic, of
+the [[English Channel]] and of the south of Europe, and what the seas did
+for Amsterdam from without the Rhine and the Maese did for [[Dort]] and
 Rotterdam from the interior. By the Union of Utrecht in 1579 Holland
 became an independent republic, and for long after, as it had been for
 some time before, was the greatest centre of maritime traffic in Europe.
@@ -350,13 +350,13 @@ if any historian of trans-Alpine Europe, when Venice had already
 attained some greatness, could have seen it five hundred years
 afterwards, the many strong towns of France, Germany and the Low
 Countries, the great number of their artizans, the products of their
-looms and anvils, and their various cunning workmanship, might have
-added many a brilliant page to his annals. Two centuries before England
+[[Loom|looms]] and [[Anvil|anvils]], and their various cunning workmanship, might have
+added many a brilliant page to his [[Annals|annals]]. Two centuries before England
 had discovered any manufacturing quality, or knew even how to utilize
 her most valuable raw materials, and was importing goods from the
 continent for the production of which she was soon to be found to have
-special resources, the Flemings were selling their woollen and linen
-fabrics, and the French their wines, silks and laces in all the richer
+special resources, the [[Fleming|Flemings]] were selling their woollen and linen
+fabrics, and the French their wines, silks and [[Lace|laces]] in all the richer
 parts of the British Islands. The middle ages placed the barbarous
 populations of Europe under a severe discipline, trained them in the
 most varied branches of industry, and developed an amount of handicraft
@@ -374,38 +374,38 @@ receive from a series of the most pregnant events.
 The mariner's compass had become familiar in the European ports about
 the beginning of the 14th century, and the seamen of Italy, Portugal,
 France, Holland and England entered upon a more enlightened and
-adventurous course of navigation. The Canary Islands were sighted by a
+adventurous course of navigation. The [[Canary Islands]] were sighted by a
 French vessel in 1330, and colonized in 1418 by the Portuguese, who two
-years later landed on Madeira. In 1431 the Azores were discovered by a
+years later landed on Madeira. In 1431 the [[Azores]] were discovered by a
 shipmaster of Bruges. The Atlantic was being gradually explored. In
-1486, Diaz, a Portuguese, steering his course almost unwittingly along
+1486, [[Diaz]], a Portuguese, steering his course almost unwittingly along
 the coast of Africa, came upon the land's-end of that continent; and
 eleven years afterwards Vasco da Gama, of the same nation, not only
 doubled the Cape of Good Hope, but reached India. About the same period
 Portuguese travellers penetrated to India by the old time-honoured way
-of Suez; and a land which tradition and imagination had invested with
+of Suez; and a land which tradition and [[Imagination|imagination]] had invested with
 almost fabulous wealth and splendour was becoming more real to the
 European world at the moment when the expedition of Vasco da Gama had
 made an oceanic route to its shores distinctly visible. One can hardly
 now realize the impression made by these discoveries in an age when the
 minds of men were awakening out of a long sleep, when the printing press
 was disseminating the ancient classical and sacred literature, and when
-geography and astronomy were subjects of eager study in the seats both
+[[Geography|geography]] and [[Astronomy|astronomy]] were subjects of eager study in the seats both
 of traffic and of learning. But their practical effect was seen in
 swiftly-succeeding events. Before the end of the century Columbus had
 thrice crossed the Atlantic, touched at San Salvador, discovered
-Jamaica, Porto Rico and the Isthmus of Darien, and had seen the waters
+Jamaica, Porto Rico and the Isthmus of [[Darien]], and had seen the waters
 of the Orinoco in South America. Meanwhile Cabot, sent out by England,
-had discovered Newfoundland, planted the English flag on Labrador, Nova
+had discovered Newfoundland, planted the English [[Flag|flag]] on Labrador, Nova
 Scotia and Virginia, and made known the existence of an expanse of land
 now known as Canada. This tide of discovery by navigators flowed on
 without intermission. But the opening of a maritime route to India and
 the discovery of America, surprising as these events must have been at
 the time, were slow in producing the results of which they were a sure
-prognostic. The Portuguese established in Cochin the first European
+prognostic. The Portuguese established in [[Cochin]] the first European
 factory in India a few years after Vasco da Gama's expedition, and other
 maritime nations of Europe traced a similar course. But it was not till
-1600 that the English East India Company was established, and the
+1600 that the English [[East India Company]] was established, and the
 opening of the first factory of the Company in India must be dated some
 ten or eleven years later. So also it was one thing to discover the two
 Americas, and another, in any real sense, to possess or colonize them,
@@ -424,10 +424,10 @@ production of other commodities for which they exchange, and only
 increased in quantity at a heavier cost, that is only reduced again by
 greater art and science in the process of production. Many difficulties,
 in short, had to be overcome, many wars to be waged, and many deplorable
-errors to be committed, in turning the new advantages to account. But
+[[Error|errors]] to be committed, in turning the new advantages to account. But
 given a maritime route to India and the discovery of a new world of
 continent and islands in the richest tropical and sub-tropical
-latitudes, it could not be difficult to foresee that the course of trade
+[[Latitude|latitudes]], it could not be difficult to foresee that the course of trade
 was to be wholly changed as well as vastly extended.
 
 
@@ -437,7 +437,7 @@ The substantial advantage of the oceanic passage to India by the Cape of
 Good Hope, as seen at the time, was to enable European trade with the
 East to escape from the Moors, Algerines and Turks who now swarmed round
 the shores of the Mediterranean, and waged a predatory war on ships and
-cargoes which would have been a formidable obstacle even if traffic,
+[[Cargo|cargoes]] which would have been a formidable obstacle even if traffic,
 after running this danger, had not to be further lost, or filtered into
 the smallest proportions, in the sands of the Isthmus, and among the
 Arabs who commanded the navigation of the Red and Arabian Seas. Venice
@@ -472,7 +472,7 @@ Eastern world, heard of from time immemorial, but with which there had
 been no patent lines of communication. The other was a vast and
 comparatively unpeopled solitude, yet full of material resources, and
 capable in a high degree of European colonization. America offered less
-resistance to the action of Europe than India, China and Japan; but on
+resistance to the action of Europe than India, China and [[Japan]]; but on
 the other hand this new populous Eastern world held out much attraction
 to trade. These two great terrestrial discoveries were contemporaneous;
 and it would be difficult to name any conjuncture of material events
@@ -489,7 +489,7 @@ emigration, of which they became the outlets.
   Increase of trading settlements and colonies.
 
 The Portuguese are entitled to the first place in utilizing the new
-sources of wealth and commerce. They obtained Macao as a settlement from
+sources of wealth and commerce. They obtained [[Macao]] as a settlement from
 the Chinese as early as 1537, and their trading operations followed
 close on the discoveries of their navigators on the coast of Africa, in
 India and in the Indian Archipelago. Spain spread her dominion over
@@ -579,14 +579,14 @@ races of men; the most haughty and exclusive of ancient nations had
 opened their ports to foreign merchantmen; and all parts of the world
 been brought into habitual commercial intercourse. The seas, subdued by
 the progress of navigation to the service of man, had begun to yield
-their own riches in great abundance and the whale, seal, herring, cod
-and other fisheries, prosecuted with ample capital and hardy seamanship,
+their own riches in great abundance and the whale, seal, herring, [[Cod|cod]]
+and other [[Fisheries|fisheries]], prosecuted with ample capital and hardy seamanship,
 had become the source of no small traffic in themselves. The lists of
 imports and exports and of the places from which they flowed to and from
 the centres of trade, as they swelled in bulk from time to time, show
 how busily and steadily the threads of commerce had been weaving
 together the labour and interests of mankind, and extending a security
-and bounty of existence unknown in former ages. The 19th century
+and [[Bounty|bounty]] of existence unknown in former ages. The 19th century
 witnessed an extension of the commercial relations of mankind of which
 there was no parallel in previous history. The heavy debts and taxes,
 and the currency complications in which the close of the Napoleonic wars
@@ -601,11 +601,11 @@ The United States had grown into a commercial nation of the first rank.
 The European colonies and settlements were being extended, and
 assiduously cultivated, and were opening larger and more varied markets
 for manufactures. In 1819 the first steamboat crossed the Atlantic from
-New York to Liverpool, and a similar adventure was accomplished from
-England to India in 1825--events in themselves the harbingers of a new
+New York to [[Liverpool]], and a similar adventure was accomplished from
+England to India in 1825--events in themselves the [[Harbinger|harbingers]] of a new
 era in trade. China, after many efforts, was opened under treaty to an
 intercourse with foreign nations which was soon to attain surprising
-dimensions. These various causes supported the activity of commerce in
+[[Dimension|dimensions]]. These various causes supported the activity of commerce in
 the first four decades; but the great movement which made the 19th
 century so remarkable was chiefly disclosed in practical results from
 about 1840. The outstanding characteristics of the 19th century were the
@@ -623,7 +623,7 @@ globe, and all the seas and ways are open to it on terms fair and equal
 to every nation. Wherever there is population, industry, resource, art
 and skill, there will be international trade. Commerce will have many
 centres, and one may relatively rise or relatively fall; but such decay
-and ruin as have smitten many once proud seats of wealth into dust
+and ruin as have smitten many once proud seats of wealth into [[Dust|dust]]
 cannot again occur without such cataclysms of war, violence and disorder
 as the growing civilization and reason of mankind, and the power of law,
 right and common interest forbid us to anticipate. But the present
@@ -632,7 +632,7 @@ it. If in the older times it was thought that a foreign merchant
 required to be not only a good man of business, but even a statesman, it
 is evident that all the higher faculties of the mercantile profession
 must still more be called into request when imports and exports are
-reckoned by hundreds instead of fives or tens of millions, when the
+reckoned by hundreds instead of [[Fives|fives]] or tens of millions, when the
 markets are so much larger and more numerous, the competition so much
 more keen and varied, the problems to be solved in every course of
 transaction so much more complex, the whole range of affairs to be

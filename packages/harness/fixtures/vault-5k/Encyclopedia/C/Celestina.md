@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Celestina"
 
 CELESTINA, LA, the popular alternative title attached from 1519 (or
 earlier) to the anonymous _Comedia de Caliste y Melibea_, a Spanish
-novel in dialogue which was celebrated throughout Europe during the 16th
+novel in [[Dialogue|dialogue]] which was celebrated throughout Europe during the 16th
 century. In the two earliest known editions (Burgos, 1499, and Seville,
 1501) the _Comedia_ consists of sixteen acts; the reprints issued after
 1501 are entitled _Tragicomedia de Calisto y Melibea_, and contain
@@ -27,10 +27,10 @@ acts. Some scholars give 1483 as the date of composition; others hold
 that the book was written in 1497. These questions are still unsettled.
 Though profoundly original in treatment, the _Celestina_ has points of
 analogy with the work of earlier writers, such as Juan Ruiz (q.v.), the
-archpriest of Hita; his rapid sketches of Trota-conventas, Melon and
+archpriest of [[Hita]]; his rapid sketches of Trota-conventas, Melon and
 Endrina no doubt suggested the finished portraits of Celestina, Calisto
 and Melibea, and the closing scene in the _Celestina_ recalls the
-suicide in Diego Fernandez de San Pedro's _Carcel de Amor_. Allowing for
+suicide in Diego [[Fernandez]] de San Pedro's _Carcel de Amor_. Allowing for
 these and other debts of the same kind, it cannot be denied that the
 _Celestina_ excels all earlier Spanish works in tragic force, in
 impressive conception, and in the realistic rendering of characters
@@ -39,7 +39,7 @@ editions in Spain, and was the first Spanish book to find acceptance
 throughout western Europe. At least twenty works by well-known Spanish
 authors are derived from it; it was adapted for the English stage as
 early as 1525-1530, and was translated into Italian (1505), French
-(1527) and other European languages. A Latin version by Caspar Barth was
+(1527) and other European languages. A Latin version by Caspar [[Barth]] was
 issued under the title of _Pornoboscodidascalus latinus_ (1624) with all
 the critical apparatus of a recognized classic. James Mabbe's English
 rendering (1631) is one of the best translations ever published. The

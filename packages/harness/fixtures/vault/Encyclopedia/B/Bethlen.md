@@ -3,9 +3,9 @@
 BETHLEN, GABRIEL (GABOR) (1580-1629), prince of Transylvania, the most
 famous representative of the Iktari branch of a very ancient Hungarian
 family, was born at Illye, and educated at Szarhegy, at the castle of
-his uncle Andras Lazar. Thence he was sent to the court of Prince
-Zsigmond Bathory, whom he accompanied on his famous Wallachian campaign
-in 1600. Subsequently he assisted Stephen Bocskay to mount the throne of
+his uncle Andras [[Lazar]]. Thence he was sent to the court of Prince
+Zsigmond [[Bathory]], whom he accompanied on his famous Wallachian campaign
+in 1600. Subsequently he assisted Stephen [[Bocskay]] to mount the throne of
 Transylvania (1605), and remained his chief counsellor. Bethlen also
 supported Bocskay's successor Gabriel Bathory (1608-1613), but the
 prince became jealous of Bethlen's superior abilities, and he was
@@ -15,12 +15,12 @@ Bethlen was placed on the throne by the Porte, in opposition to the
 wishes of the emperor, who preferred a prince who would incline more
 towards Vienna than towards Constantinople. On the 13th of October 1613,
 the diet of Klausenburg confirmed the choice of the sultan. In 1615
-Gabor was also officially recognized by the emperor Matthias. Bethlen no
+Gabor was also officially recognized by the emperor [[Matthias]]. Bethlen no
 sooner felt firmly seated on his throne than he seized the opportunity
 presented to him by the outbreak of the Thirty Years' War to take up
 arms in defence of the liberties and the constitution of the
 extra-Transylvanian Hungarian provinces, with the view of more
-effectually assuring his own position. While Ferdinand was occupied with
+effectually assuring his own position. While [[Ferdinand]] was occupied with
 the Bohemian rebels, Bethlen led his armies into Hungary (1619), and
 soon won over the whole of the northern counties, even securing
 Pressburg and the Holy Crown. Nevertheless he was not averse to a peace,
@@ -69,7 +69,7 @@ hymns.
   The best editions of his correspondence are those by Sandor Szilagyi,
   both published at Buda (1866 and 1879). The best life of him is that
   by the Bohemian historian Anton Gindely, _Acta et documenta historiam
-  Gabrielis Bethleni illustrantia_ (Budapest, 1890). This work has been
+  Gabrielis Bethleni illustrantia_ ([[Budapest]], 1890). This work has been
   largely utilized by Ignae-Acsady in his excellent _Gabriel Bethlen and
   his Court_ (Hung., Budapest, 1890).     (R. N. B.)
 

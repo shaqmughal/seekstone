@@ -9,7 +9,7 @@ turned against her. He was one of the principal agents of the Armagnac
 party, and became the most influential adviser of Charles VII. during
 the first years of his reign. But his rapacity gained him enemies, and
 when the constable Arthur, earl of Richmond, attained a preponderating
-influence over Charles VII. Louvet retired to his captaincy of Avignon.
+influence over Charles VII. Louvet retired to his captaincy of [[Avignon]].
 He still remained a personage of importance in his exile, and played an
 influential part even in his last years.
 

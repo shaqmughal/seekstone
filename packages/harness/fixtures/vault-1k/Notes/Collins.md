@@ -82,7 +82,7 @@ probably has sustained a severe loss. With this poem his literary career
 closes, although he lingered in great misery for nearly nine years. From
 Gilbert White, who jotted down some pages of invaluable recollections of
 Collins in 1781, and from other friends, we learn that his madness was
-occasionally violent, and that he was confined for a time in an asylum
+occasionally violent, and that he was confined for a time in an [[Asylum|asylum]]
 at Oxford. But for the most part he resided at Chichester, suffering
 from extreme debility of body when the mind was clear, and incapable of
 any regular occupation. Music affected him in a singular manner, and it

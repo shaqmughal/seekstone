@@ -27,11 +27,11 @@ the Prussian parliament. He joined the radical or _Fortschritts_ party,
 and in 1867 was also elected to the German parliament, but he helped to
 form the national liberal party, and in consequence lost his seat in
 Berlin, which remained faithful to the radicals; after this he
-represented Magdeburg and Frankfort-on-Main in the Prussian, and
+represented [[Magdeburg]] and [[Frankfort-On-Main|Frankfort-on-Main]] in the Prussian, and
 Meiningen in the German, parliament. He threw himself with great energy
 into his parliamentary duties, and quickly became one of its most
 popular and most influential members. An optimist and idealist, he
-joined to a fervent belief in liberty an equal enthusiasm for German
+joined to a fervent belief in liberty an equal [[Enthusiasm|enthusiasm]] for German
 unity and the idea of the German state. His motion that Baden should be
 included in the North German Confederation in January 1870 caused much
 embarrassment to Bismarck, but was not without effect in hastening the
@@ -44,7 +44,7 @@ liberals who, unable to obtain all the concessions which they called
 for, refused to vote for the new laws as a whole. A speech made by
 Lasker on the 7th of February 1873, in which he attacked the management
 of the Pomeranian railway, caused a great sensation, and his exposure of
-the financial mismanagement brought about the fall of Hermann Wagener,
+the financial mismanagement brought about the fall of [[Hermann]] Wagener,
 one of Bismarck's most trusted assistants. By this action he caused,
 however, some embarrassment to his party. This is generally regarded as
 the beginning of the reaction against economic liberalism by which he

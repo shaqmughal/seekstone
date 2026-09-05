@@ -8,18 +8,18 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Borda"
 # Borda
 
 BORDA, JEAN CHARLES (1733-1799), French mathematician and nautical
-astronomer, was born at Dax on the 4th of May 1733. He studied at La
+astronomer, was born at [[Dax]] on the 4th of May 1733. He studied at La
 Fleche, and at an early age obtained a commission in the cavalry. In
 1756 he presented a _Memoire sur le mouvement des projectiles_ to the
 Academy of Sciences, who elected him a member. He was present at the
 battle of Hastembeck, and soon afterwards joined the naval service. He
-visited the Azores and the Canary Islands, of which he constructed an
-admirable map. In 1782 his frigate was taken by a British squadron; he
+visited the [[Azores]] and the [[Canary Islands]], of which he constructed an
+admirable map. In 1782 his [[Frigate|frigate]] was taken by a British squadron; he
 himself was carried to England, but was almost immediately released on
 parole and returned to France. He died at Paris on the 20th of February
 1799. Borda contributed a long series of valuable memoirs to the Academy
 of Sciences. His researches in hydrodynamics were highly useful for
-marine engineering, while the reflecting and repeating circles, as
+marine [[Engineering|engineering]], while the reflecting and repeating circles, as
 improved by him, were of great service in nautical astronomy. He was
 associated with J.B.J. Delambre and P.F.A. Mechain in the attempt to
 determine an arc of the meridian, and the greater number of the

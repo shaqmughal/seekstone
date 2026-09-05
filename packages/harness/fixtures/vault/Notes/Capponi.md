@@ -13,14 +13,14 @@ most illustrious Florentine houses, and is mentioned as early as 1250;
 it acquired great wealth as a mercantile and banking firm, and many of
 its members distinguished themselves in the service of the republic and
 the Medicis (see CAPPONI, PIERO), and later in that of the house of
-Lorraine. Gino was the son of the Marquis Pier Roberto Capponi, a
+[[Lorraine]]. Gino was the son of the Marquis Pier Roberto Capponi, a
 nobleman greatly attached to the reigning grand duke of Tuscany,
-Ferdinand III. When that prince was deposed by the French in 1799 the
+[[Ferdinand]] III. When that prince was deposed by the French in 1799 the
 Capponi family followed him into exile at Vienna, where they remained
 until he exchanged his rights to the grand duchy for a German
 principality (1803). The Capponi then returned to Florence, and in 1811
 Gino married the marchesina Giulia Riccardi. Although the family were
-very anti-French Gino was chosen with other notables to pay homage to
+very anti-French Gino was chosen with other notables to pay [[Homage|homage]] to
 Napoleon in Paris in 1813. On the fall of Napoleon Ferdinand returned to
 Tuscany (September 1814), but the restoration proved less reactionary
 there than in any other part of Italy. Young Capponi was well received
@@ -29,11 +29,11 @@ fashion, he devoted himself to serious study and foreign travel. After
 sundry journeys in Italy he again visited Paris in 1818, and then went
 to England. He became deeply interested in English institutions, and
 carefully studied the constitution, the electoral system, university
-life, industrial organization, &c. At Edinburgh he met Francis Jeffrey,
+life, industrial organization, &c. At Edinburgh he met Francis [[Jeffrey]],
 the editor of the _Edinburgh Review_, and conceived a desire to found a
 similar review in Italy. Besides knowing Jeffrey he made the
 acquaintance of many prominent statesmen and men of letters, including
-Lord John Russell, the duke of Bedford, Dugald Stewart, Ugo Foscolo, &c.
+Lord John Russell, the duke of [[Bedford]], Dugald Stewart, Ugo [[Foscolo]], &c.
 This visit had a great effect in forming his character, and while it
 made him an ardent Anglophil, he realized more and more the distressing
 conditions of his own country. He returned to Italy in 1820, and on
@@ -51,11 +51,11 @@ the imprisonment of Confalonieri made Capponi despair of achieving
 anything by revolution, and he devoted himself to the economic
 development of Tuscany and to study. At his beautiful villa of
 Varramista he collected materials for a history of the Church; his work
-was interrupted by family troubles and by increasing blindness, but
+was interrupted by family troubles and by increasing [[Blindness|blindness]], but
 although by 1844 he had completely lost his sight he continued to work
 by means of amanuenses. In 1847 he again plunged into politics and
 discussed plans for an Italian alliance against Austria. When the grand
-duke Leopold II. decided in 1848 to grant his people a constitution,
+duke [[Leopold]] II. decided in 1848 to grant his people a constitution,
 Capponi was made a member of the commission to draw it up, and he
 eventually became prime minister. During his short tenure of office he
 conducted foreign affairs with great skill, and made every effort to
@@ -70,7 +70,7 @@ Lord John Russell, who stayed with him in 1859, of the hopelessness of
 the grand duke's position. On Leopold's second flight (27th of April
 1859) a Tuscan assembly was summoned, and Capponi elected member of it.
 He voted for the grand duke's deposition and for the union of Tuscany
-with Piedmont. King Victor Emmanuel made him senator in 1860. His last
+with Piedmont. King Victor [[Emmanuel]] made him senator in 1860. His last
 years were devoted almost exclusively to his Florentine history, which
 was published in 1875 and achieved an immediate success. This was
 Capponi's swan song, for on the 3rd of February 1876 he died at the age
@@ -84,8 +84,8 @@ the humble state to which the European peace of that year had condemned
 her; and he succeeded by first raising the character of the Italians in
 the opinion of foreigners, so as to deserve their esteem and respect."
 He knew nearly all the most interesting people in Italy, besides many
-distinguished foreigners: Giuseppe Giusti, the poet, A. Manzoni, the
-novelist, Niccolo Tommaseo, Richard Cobden, A. von Reumont, the
+distinguished foreigners: Giuseppe Giusti, the poet, A. [[Manzoni]], the
+novelist, Niccolo Tommaseo, Richard [[Cobden]], A. von Reumont, the
 historian, were among those whom he entertained at his palace or his
 villas, and many were the struggling students and revolutionists to whom
 he gave assistance. As a historian his reputation rests on his _Storia
@@ -97,7 +97,7 @@ whole, it remains a standard work. Besides his history a large number of
 essays and pamphlets have been published in his _Scritti Inediti_.
 
   See M. Tabarrini, _Gino Capponi_ (Florence, 1879); and A. von Reumont,
-  _Gino Capponi_ (Gotha, 1880).     (L. V.*)
+  _Gino Capponi_ ([[Gotha]], 1880).     (L. V.*)
 
 ## See also
 

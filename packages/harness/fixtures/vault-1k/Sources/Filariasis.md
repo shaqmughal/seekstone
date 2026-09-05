@@ -29,7 +29,7 @@ reappearing while he sleeps through the day.
 Sir P. Manson proved that mosquitoes imbibe the embryo filariae from the
 blood of man; and that many of these reach full development within the
 mosquito, acquiring their freedom when the latter resorts to water,
-where it dies after depositing its eggs. Mosquitoes would thus be the
+where it dies after depositing its [[Egg|eggs]]. Mosquitoes would thus be the
 intermediate host of the filariae, and their introduction into the human
 body would be through the medium of water (see PARASITIC DISEASES).
 

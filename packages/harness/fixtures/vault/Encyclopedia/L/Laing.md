@@ -11,32 +11,32 @@ European to reach Timbuktu, was born at Edinburgh on the 27th of
 December 1793. He was educated by his father, William Laing, a private
 teacher of classics, and at Edinburgh University. In 1811 he went to
 Barbados as clerk to his maternal uncle Colonel (afterwards General)
-Gabriel Gordon. Through General Sir George Beckwith, governor of
+Gabriel Gordon. Through General Sir George [[Beckwith]], governor of
 Barbados, he obtained an ensigncy in the York Light Infantry. He was
 employed in the West Indies, and in 1822 was promoted to a company in
-the Royal African Corps. In that year, while with his regiment at Sierra
+the Royal African [[Corps]]. In that year, while with his regiment at Sierra
 Leone, he was sent by the governor, Sir Charles MacCarthy, to the
-Mandingo country, with the double object of opening up commerce and
+[[Mandingo]] country, with the double object of opening up commerce and
 endeavouring to abolish the slave trade in that region. Later in the
 same year Laing visited Falaba, the capital of the Sulima country, and
 ascertained the source of the Rokell. He endeavoured to reach the source
 of the Niger, but was stopped by the natives. He was, however, enabled
 to fix it with approximate accuracy. He took an active part in the
-Ashanti War of 1823-24, and was sent home with the despatches
+[[Ashanti]] War of 1823-24, and was sent home with the despatches
 containing the news of the death in action of Sir Charles MacCarthy.
-Henry, 3rd Earl Bathurst, then secretary for the colonies, instructed
+Henry, 3rd Earl [[Bathurst]], then secretary for the colonies, instructed
 Captain Laing to undertake a journey, via Tripoli and Timbuktu, to
-further elucidate the hydrography of the Niger basin. Laing left England
+further elucidate the [[Hydrography|hydrography]] of the Niger basin. Laing left England
 in February 1825, and at Tripoli on the 14th of July following he
 married Emma Warrington, daughter of the British consul. Two days later,
-leaving his bride behind, he started to cross the Sahara, being
+leaving his [[Bride|bride]] behind, he started to cross the Sahara, being
 accompanied by a sheikh who was subsequently accused of planning his
 murder. Ghadames was reached, by an indirect route, in October 1825, and
 in December Laing was in the Tuat territory, where he was well received
 by the Tuareg. On the 10th of January 1826 he left Tuat, and made for
-Timbuktu across the desert of Tanezroft. Letters from him written in May
-and July following told of sufferings from fever and the plundering of
-his caravan by Tuareg, Laing being wounded in twenty-four places in the
+Timbuktu across the [[Desert|desert]] of Tanezroft. Letters from him written in May
+and July following told of sufferings from [[Fever|fever]] and the plundering of
+his [[Caravan|caravan]] by Tuareg, Laing being wounded in twenty-four places in the
 fighting. Another letter dated from Timbuktu on the 21st of September
 announced his arrival in that city on the preceding 18th of August, and
 the insecurity of his position owing to the hostility of the Fula

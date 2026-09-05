@@ -32,7 +32,7 @@ Science_, and his last work, _Elementary Principles in Statistical
 Mechanics_, was issued in 1902. The name of Willard Gibbs, who was the
 most distinguished American mathematical physicist of his day, is
 especially associated with the "Phase Rule," of which some account will
-be found in the article ENERGETICS. In 1901 the Copley medal of the
+be found in the article ENERGETICS. In 1901 the [[Copley]] medal of the
 Royal Society of London was awarded him as being "the first to apply the
 second law of thermodynamics to the exhaustive discussion of the
 relation between chemical, electrical and thermal energy and capacity

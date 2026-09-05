@@ -25,7 +25,7 @@ Brandon in the county of Suffolk; but about the same time he appears to
 have forfeited Charles's favour by having attached himself to the party
 of Prince Rupert, with whom after the surrender of Oxford Gerard
 probably went abroad. He remained on the Continent throughout the whole
-period of the Commonwealth, sometimes in personal attendance on Charles
+period of the [[Commonwealth]], sometimes in personal attendance on Charles
 II., at others serving in the wars under Turenne, and constantly engaged
 in plots and intrigues. For one of these, an alleged design on the life
 of Cromwell, his cousin Colonel John Gerard was executed in the Tower in
@@ -54,7 +54,7 @@ of parliament for Lancashire, which he represented till 1694, when he
 succeeded to his father's peerage. Having become a major-general in the
 same year, Macclesfield saw some service abroad; and in 1701 he was
 selected first commissioner for the investiture of the elector of
-Hanover (afterwards King George I.) with the order of the Garter, on
+[[Hanover]] (afterwards King George I.) with the order of the Garter, on
 which occasion he also was charged to present a copy of the Act of
 Settlement to the dowager electress Sophia. He died on the 5th of
 November 1701, leaving no legitimate children.

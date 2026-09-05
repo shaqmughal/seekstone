@@ -26,18 +26,18 @@ month. Though a reformer, he strongly disapproved of the rebellion of
 1837-1838. On the union of the two Canadas he became (1841) a member of the
 executive council under Lord Sydenham, but soon resigned on the question of
 responsible government. In 1842 he formed the first Liberal administration,
-in connexion with Mr (afterwards Sir) L. H. Lafontaine, but resigned the
+in connexion with Mr (afterwards Sir) L. H. [[Lafontaine]], but resigned the
 next year, after a quarrel with the governor-general, Sir Charles Metcalfe,
 on a question of patronage, in which he felt that of responsible government
 to be involved. At the general election which followed, the
 governor-general was sustained by a narrow majority, but in 1848 the
 Liberals were again returned to power, and he and Mr Lafontaine formed
-their second administration under Lord Elgin and carried numerous important
+their second administration under Lord [[Elgin]] and carried numerous important
 reforms, including the freeing from sectarian control of the Provincial
 University and the introduction into Upper Canada of an important municipal
 system.
 
-Internal dissensions soon began to appear in the Liberal party, and in 1851
+Internal dissensions soon began to appear in the [[Liberal Party|Liberal party]], and in 1851
 Mr Baldwin resigned. The special struggle leading to his resignation was an
 attempt to abolish the court of chancery of Upper Canada, whose
 constitution was due to a measure introduced by Baldwin in 1849. The

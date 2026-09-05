@@ -9,13 +9,13 @@ type: reference
 
 W. A. B. C. - REV. WILLIAM AUGUSTUS BREVOORT COOLIDGE, M.A., F.R.G.S.,
 PH.D.
-Fellow of Magdalen College, Oxford. Professor of English History, St
-David's College Lampeter, 1880-1881. Author of _Guide to Switzerland_; _The
+[[Fellow]] of Magdalen College, Oxford. Professor of English History, St
+David's College [[Lampeter]], 1880-1881. Author of _Guide to Switzerland_; _The
 Alps in Nature and in History_; &c. Editor of the _Alpine Journal_,
 1880-1889.
 
-- Baden: _Switzerland_; Barcelonnette; Basel; Basses-Alpes; Beaulieu;
-Bellinzona; Bern; Bienne.
+- Baden: _Switzerland_; [[Barcelonnette]]; [[Basel]]; [[Basses-Alpes]]; Beaulieu;
+[[Bellinzona]]; [[Bern]]; Bienne.
 
 ## See also
 

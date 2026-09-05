@@ -10,11 +10,11 @@ tags: [biography, politics]
 BLANC, (JEAN JOSEPH CHARLES) LOUIS (1811-1882), French politician and
 historian, was born on the 29th of October 1811 at Madrid, where his
 father held the post of inspector-general of finance under Joseph
-Bonaparte. Failing to receive aid from Pozzo di Borgo, his mother's
+[[Bonaparte]]. Failing to receive aid from Pozzo di Borgo, his mother's
 uncle, Louis Blanc studied law in Paris, living in poverty, and became a
 contributor to various journals. In the _Revue du progres_, which he
 founded, he published in 1839 his study on _L'Organisation du travail_.
-The principles laid down in this famous essay form the key to Louis
+The principles laid down in this famous essay form the [[Key|key]] to Louis
 Blanc's whole political career. He attributes all the evils that afflict
 society to the pressure of competition, whereby the weaker are driven to
 the wall. He demanded the equalization of wages, and the merging of
@@ -44,10 +44,10 @@ honnetes gens_ (Paris, 1849), written in London after his flight; but by
 the insurgent mob of the 15th of May and by the victorious Moderates
 alike he was regarded as responsible. Between the _sansculottes_, who
 tried to force him to place himself at their head, and the national
-guards, who maltreated him, he was nearly done to death. Rescued with
-difficulty, he escaped with a false passport to Belgium, and thence to
+[[Guards|guards]], who maltreated him, he was nearly done to death. Rescued with
+difficulty, he escaped with a false passport to [[Belgium]], and thence to
 London; in his absence he was condemned by the special tribunal
-established at Bourges, _in contumaciam_, to deportation. Against trial
+established at [[Bourges]], _in contumaciam_, to [[Deportation|deportation]]. Against trial
 and sentence he alike protested, developing his protest in a series of
 articles in the _Nouveau Monde_, a review published in Paris under his
 direction. These he afterwards collected and published as _Pages de
@@ -68,7 +68,7 @@ and served as a private in the national guard. On the 8th of February
 maintained that the republic was "the necessary form of national
 sovereignty," and voted for the continuation of the war; yet, though a
 member of the extreme Left, he was too clear-minded to sympathize with
-the Commune, and exerted his influence in vain on the side of
+the [[Commune]], and exerted his influence in vain on the side of
 moderation. In 1878 he advocated the abolition of the presidency and the
 senate. In January 1879 he introduced into the chamber a proposal for
 the amnesty of the Communists, which was carried. This was his last
@@ -85,7 +85,7 @@ turn his historical writings into political pamphlets. His political and
 social ideas have had a great influence on the development of socialism
 in France. His _Discours politiques_ (1847-1881) was published in 1882.
 His most important works, besides those already mentioned, are _Lettres
-sur l'Angleterre_ (1866-1867), _Dix annees de l'histoire de
+sur l'Angleterre_ (1866-1867), _Dix [[Anne|annees]] de l'histoire de
 l'Angleterre_ (1879-1881), and _Questions d'aujourd'hui et de demain_
 (1873-1884).
 

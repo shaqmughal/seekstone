@@ -7,7 +7,7 @@ type: reference
 
 # Hayden
 
-HAYDEN, FERDINAND VANDEVEER (1829-1887), American geologist, was born at
+HAYDEN, [[Ferdinand|FERDINAND]] VANDEVEER (1829-1887), American geologist, was born at
 Westfield, Massachusetts, on the 7th of September 1829. He graduated
 from Oberlin College in 1850 and from the Albany Medical College in
 1853, where he attracted the notice of Professor James Hall, state
@@ -21,7 +21,7 @@ surgeon. In 1867 he was appointed geologist-in-charge of the United
 States Geological and Geographical Survey of the Territories, and from
 his twelve years of labour there resulted a most valuable series of
 volumes in all branches of natural history and economic science; and he
-issued in 1877 his _Geological and Geographical Atlas of Colorado_. Upon
+issued in 1877 his _Geological and Geographical [[Atlas]] of Colorado_. Upon
 the reorganization and establishment of the United States Geological
 Survey in 1879 he acted for seven years as one of the geologists. He
 died at Philadelphia on the 22nd of December 1887.
@@ -32,7 +32,7 @@ died at Philadelphia on the 22nd of December 1887.
   Moran (1876); _The Great West: its Attractions and Resources_ (1880).
   With F. B. Meek, he wrote (_Smithsonian Institution Contributions_, v.
   14. Art. 4) "Palaeontology of the Upper Missouri, Pt. 1,
-  Invertebrate." His valuable notes on Indian dialects are in _The
+  Invertebrate." His valuable notes on Indian [[Dialect|dialects]] are in _The
   Transactions of the American Philosophical Society_ (1862), in _The
   American Journal of Science_ (1862) and in _The Proceedings of the
   American Philosophical Society_ (1869). With A. R. C. Selwyn he wrote

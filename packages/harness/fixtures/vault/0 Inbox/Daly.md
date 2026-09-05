@@ -12,8 +12,8 @@ and for them he adapted plays from foreign sources, and revived
 Shakespearean comedies in a manner before unknown in America. He took
 his entire company on tour, visiting England, Germany and France, and
 some of the best actors on the American stage have owed their training
-and first successes to him. Among these were Clara Morris, Sara Jewett,
-John Drew, Fanny Davenport, Maude Adams, Mrs Gilbert and many others.
+and first successes to him. Among these were [[Clara]] Morris, Sara [[Jewett]],
+John Drew, Fanny [[Davenport]], Maude Adams, Mrs Gilbert and many others.
 Daly was a great book-lover, and his valuable library was dispersed by
 auction after his death, which occurred in Paris on the 7th of June
 1899. Besides plays, original and adapted, he wrote _Woffington: a

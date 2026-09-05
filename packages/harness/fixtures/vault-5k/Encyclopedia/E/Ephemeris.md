@@ -7,7 +7,7 @@ Almanac," is a national annual publication containing ephemerides of the
 principal or more conspicuous heavenly bodies, elements and other data
 of eclipses, and other matter useful to the astronomer and navigator.
 The governments of the United Kingdom, United States, France, Germany
-and Spain publish such annals.
+and Spain publish such [[Annals|annals]].
 
 ## References
 

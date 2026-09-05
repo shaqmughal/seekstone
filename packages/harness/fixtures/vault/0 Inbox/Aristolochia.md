@@ -9,8 +9,8 @@ tags: [law, folklore]
 
 ARISTOLOCHIA (Gr. [Greek: aristos], best, [Greek: locheia], child-birth,
 in allusion to its repute in promoting child-birth), a genus of shrubs
-or herbs of the natural order Aristolochiaceae, often with climbing
-stems, found chiefly in the tropics. The flower forms a tube inflated at
+or [[Herb|herbs]] of the natural order Aristolochiaceae, often with climbing
+stems, found chiefly in the tropics. The [[Flower|flower]] forms a tube inflated at
 the base. _A. Clematitis_, birthwort, is a central and southern European
 species, found sometimes in England apparently wild on ruins and similar
 places, but not a native. _A. Sipho_, Dutchman's pipe, or pipe vine, is

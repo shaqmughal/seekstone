@@ -146,7 +146,7 @@ Gobryas is preserved also by Xenophon, _Cyrop._ vii. 4. 24); it is
 possible that the Chaldaean priests, who were hostile to Nabonidus,
 betrayed the town. In a proclamation issued after his victory Cyrus
 guarantees life and property to all the inhabitants and designates
-himself as the favourite of Marduk, the great local god (Bel,
+himself as the favourite of Marduk, the great local god ([[Bel]],
 Bel-Merodak) of Babel. It is very odd that modern authors have
 considered this proclamation as inconsistent with the Zoroastrian creed.
 
@@ -156,12 +156,12 @@ Babylonian provinces in Syria fell to the Persians; in 538 Cyrus granted
 to the Jews, whom Nebuchadrezzar had transported to Babylonia, the
 return to Palestine and the rebuilding of Jerusalem and its temple (see
 JEWS, S 19). It is probable that Cyrus had fought more than one war
-against the peoples of eastern Iran; according to Ctesias he had, before
+against the peoples of eastern [[Iran]]; according to Ctesias he had, before
 the war with Croesus, defeated the Bactrians and the Sacae (in Ferghana;
 their king Amorges is the eponym of the Amyrgian Sacae, Herod. vii. 64,
 called by Darius _Haumavarka_); and the historians of Alexander mention
 a march through Gedrosia, where he lost his whole army but seven men
-(Arrian vi. 24. 2; Strabo xv. 722), a tribe Ariaspae on the Etymandros
+([[Arrian]] vi. 24. 2; Strabo xv. 722), a tribe Ariaspae on the Etymandros
 (in Sijistan), who, on account of the support which they gave him
 against the Scythians, were called Euergetae (Arrian iii. 27. 4; Diod.
 xvii. 81; Curt. vii. 3. 1), and a town Cyropolis, founded by him on the
@@ -169,7 +169,7 @@ Jaxartes (Arrian iv. 2. 3; Curt. vii. 6. 16; Strabo xi. 517, called
 Cyreskhata by Ptolem. vi. 12. 5). In 530, having appointed his son
 Cambyses king of Babel, he set out for a new expedition against the
 East. In this war he was killed (Herod.) or mortally wounded (Ctesias).
-According to Herodotus he attacked the Massagetae beyond the Jaxartes;
+According to Herodotus he attacked the [[Massagetae]] beyond the Jaxartes;
 according to Ctesias, the Derbices, a very barbarous tribe (cf. Strabo
 xi. 520; Aelian, _Var. Hist._ iv. 1) on the border of the Caspian, near
 the Hyrcanians (Strabo xi. 514; Steph. Byz.; Curt. vii. 2. 7; Dion.
@@ -208,7 +208,7 @@ supported by his mother, of gaining the throne for himself after the
 death of his father; he pretended to have stronger claims to it than his
 elder brother Artaxerxes, who was not born in the purple. For this plan
 he hoped to gain the assistance of Sparta. In the Spartan general
-Lysander he found a man who was willing to help him, as Lysander himself
+[[Lysander]] he found a man who was willing to help him, as Lysander himself
 hoped to become absolute ruler of Greece by the aid of the Persian
 prince. So Cyrus put all his means at the disposal of Lysander in the
 Peloponnesian War, but denied them to his successor Callicratidas; by
@@ -250,7 +250,7 @@ gives the absurd number of 100,000 men; the army of Artaxerxes he puts
 down at 900,000. These numbers only show that he, although an
 eyewitness, has no idea of large numbers; in reality the army of Cyrus
 may at the very utmost have consisted of 30,000, that of Artaxerxes of
-40,000 men. Cyrus saw that the decision depended on the fate of the
+40,000 men. Cyrus saw that the decision depended on the [[Fate|fate]] of the
 king; he therefore wanted Clearchus, the commander of the Greeks, to
 take the centre against Artaxerxes. But Clearchus, a tactician of the
 old school, disobeyed. The left wing of the Persians under Tissaphernes

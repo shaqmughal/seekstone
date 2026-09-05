@@ -9,7 +9,7 @@ tags: [genealogy-theory, enlightenment]
 
 # Rule Xi.--Wages And Maintenance Of Crew In Port Of Refuge
 
-RULE XI.--WAGES AND MAINTENANCE OF CREW IN PORT OF REFUGE, &c.
+RULE XI.--WAGES AND [[Maintenance|MAINTENANCE]] OF CREW IN PORT OF REFUGE, &c.
 
 When a ship shall have entered or shall have been detained in any port or
 place under the circumstances, or for the purposes of the repairs,

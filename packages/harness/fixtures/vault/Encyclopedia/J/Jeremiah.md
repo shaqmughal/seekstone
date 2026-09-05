@@ -21,7 +21,7 @@ honoured was an extraordinary one. We have also a number of genuine
 prophecies which admit us into Jeremiah's inner nature. These are our
 best authorities, but they are deficient in concrete facts. By birth
 Jeremiah was a countryman; he came of a priestly family whose estate lay
-at Anathoth "in the land of Benjamin" (xxxii. 3; cf. i. 1). He came
+at Anathoth "in the land of [[Benjamin]]" (xxxii. 3; cf. i. 1). He came
 forward as a prophet in the thirteenth year of Josiah (626 B.C.), still
 young but irresistibly impelled. Unfortunately the account of the call
 and of the object of the divine caller come to us from a later hand (ch.
@@ -37,7 +37,7 @@ publicly supported this book in Jerusalem and elsewhere. To others this
 view appears in itself improbable. How can a man like Jeremiah have
 advocated any such panacea? He was indeed not at first a complete
 pessimist, but to be a preacher of Deuteronomy required a sanguine
-temper which a prophet of the school of Isaiah could not possess.
+temper which a prophet of the school of [[Isaiah]] could not possess.
 Besides, there is a famous passage (viii. 8, see R.V.) in which Jeremiah
 delivers a vehement attack upon the "scribes" (or, as we might render,
 "bookmen") and their "false pen." If, as Wellhausen and Duhm suppose,
@@ -55,7 +55,7 @@ Yahweh, a deity who was no mere national god, and was not to be cajoled
 by the punctual offering of costly sacrifices. When Jeremiah wrote iv.
 1-4 he evidently considered that the judgment could even then be
 averted. Afterwards he became less hopeful, and it was perhaps a closer
-acquaintance with the manners of the capital that served to
+acquaintance with the [[Manners|manners]] of the capital that served to
 disillusionize him. He began his work at Anathoth, but v. 1-5 (as Duhm
 points out) seems to come from one who has just now for the first time
 "run to and fro in the streets of Jerusalem," observing and observed.
@@ -68,7 +68,7 @@ the great city-prophet Isaiah who calls the men of Jerusalem "a people
 of Gomorrah" (i. 10). With all reverence, an historical student has to
 deduct something from both these statements. It is true that commercial
 prosperity had put a severe strain on the old morality, and that contact
-with other peoples, as well as the course of political history, had
+with other peoples, as well as the course of [[Political History|political history]], had
 appeared to lower the position of the God of Israel in relation to other
 gods. Still, some adherents of the old Israelitish moral and religious
 standards must have survived, only they were not to be found in the
@@ -79,14 +79,14 @@ _Danger of Book Religion._--Probably, too, even in the highest class
 there were some who had a moral sympathy with Jeremiah; otherwise we can
 hardly account for the contents of Deuteronomy, at least if the book
 "found" in the Temple at all resembled the central portion of our
-Deuteronomy. And the assumption seems to be confirmed by the respectful
+Deuteronomy. And the [[Assumption|assumption]] seems to be confirmed by the respectful
 attitude of certain "elders of the land" in xxvi. 17 sqq., and of the
 "princes" in xxxvi. 19, 25, towards Jeremiah, which may, at any rate in
 part, have been due to the recent reform movement. If therefore Jeremiah
 aimed at Deuteronomy in the severe language of viii. 8, he went too far.
 History shows that book religion has special dangers of its own.[2]
 Nevertheless the same incorruptible adviser also shows that book
-religion may be necessary as an educational instrument, and a compromise
+religion may be necessary as an educational instrument, and a [[Compromise|compromise]]
 between the two types of religion is without historical precedent.
 
 _Reaction: Opposition to Jeremiah._--This, however, could not as yet be
@@ -95,12 +95,12 @@ as if the claims of book religion were rebuffed by facts. The death of
 the pious king Josiah at Megiddo in 608 B.C. dashed the high hopes of
 the "book-men," but meant no victory for Jeremiah. Its only result for
 the majority was a falling back on the earlier popular cultus of the
-Baals, and on the heathen customs introduced, or reintroduced, by
-Josiah's grandfather, Manasseh. Would that we possessed the section of
+Baals, and on the [[Heathen|heathen]] customs introduced, or reintroduced, by
+Josiah's grandfather, [[Manasseh]]. Would that we possessed the section of
 the prophet's biography which described his attitude immediately after
 the news of the battle of Megiddo! Let us, however, be thankful for what
 we have, and notably for the detailed narratives in chs. xxvi. and
-xxxvi. The former is dated in the beginning of the reign of Jehoiakim,
+xxxvi. The former is dated in the beginning of the reign of [[Jehoiakim]],
 though Wellhausen suspects that the date is a mistake, and that the real
 occasion was the death of Josiah. The one clear-sighted patriot saw the
 full meaning of the tragedy of Megiddo, and for "prophesying against
@@ -113,15 +113,15 @@ the prophet free. No king, be it observed, is mentioned. The latter
 narrative is still more exciting. In the fourth year of Jehoiakim (= the
 first of Nebuchadrezzar, xxv. 1) Jeremiah was bidden to write down "all
 the words that Yahweh had spoken to him against Jerusalem (so LXX.),
-Judah and all the nations from the days of Josiah onwards" (xxxvi. 2).
+[[Judah]] and all the nations from the days of Josiah onwards" (xxxvi. 2).
 So at least the authors of Jeremiah's biography tell us. They add that
 in the next year Jeremiah's scribe Baruch read the prophecies of
 Jeremiah first to the people assembled in the Temple, then to the
 "princes," and then to the king, who decided his own future policy by
-burning Baruch's roll in the brazier. We cannot, however, bind ourselves
+burning Baruch's roll in the [[Brazier|brazier]]. We cannot, however, bind ourselves
 to this tradition. Much more probably the prophecy was virtually a new
 one (i.e. even if some old passages were repeated yet the setting was
-new), and the burden of the prophecy was "The king of Babylon shall come
+new), and the [[Burden|burden]] of the prophecy was "The king of [[Babylon]] shall come
 and destroy this land."[3] We cannot therefore assent to the judgment
 that "we have, at least as regards [the] oldest portions [of the book]
 information considerably more specific than is usual in the case of the
@@ -136,7 +136,7 @@ relief, though he remained a prisoner in other quarters till the fall of
 Jerusalem (586 B.C.). Nebuchadrezzar, who is assumed to have heard of
 Jeremiah's constant recommendations of submission, gave him the choice
 either of going to Babylon or of remaining in the country (chs. xxxviii.
-seq.). He chose the latter and resided with Gedaliah, the native
+seq.). He [[Chose|chose]] the latter and resided with Gedaliah, the native
 governor, at Mizpah. On the murder of Gedaliah he was carried to Mizraim
 or Egypt, or perhaps to the land of Mizrim in north Arabia--against his
 will (chs. xl.-xliii.). How far all this is correct we know not. The
@@ -144,7 +144,7 @@ graphic style of a narrative is no sufficient proof of its truth.
 Conceivably enough the story of Jeremiah's journey to Egypt (or Mizrim)
 may have been imagined to supply a background for the artificial
 prophecies ascribed to Jeremiah in chs. xlvi.-li. A legend in Jerome and
-Epiphanius states that he was stoned to death at Daphnae, but the
+[[Epiphanius]] states that he was stoned to death at [[Daphnae]], but the
 biography, though not averse from horrors, does not mention this.
 
 _A Patriot?_--Was Jeremiah really a patriot? The question has been
@@ -159,7 +159,7 @@ for Israel and his patient resignation their own realized ideal. "And
 Onias said, This is the lover of the brethren, he who prayeth much for
 the people and the holy city, Jeremiah the prophet of God" (2 Macc. xv.
 14). And in proportion as the popular belief in Jeremiah rose, fresh
-prophecies were added to the book (notably those of the new covenant and
+prophecies were added to the book (notably those of the new [[Covenant|covenant]] and
 of the restoration of the people after seventy years) to justify it.
 Professor N. Schmidt has gone further into the character of this
 sympathetic prophet, _Ency. Bib._ "Jeremiah," § 5.
@@ -174,7 +174,7 @@ sympathetic prophet, _Ency. Bib._ "Jeremiah," § 5.
   circumstances most naturally point? According to Duhm there are many
   passages in which metre (see also AMOS) may also be a factor in our
   critical conclusions. Jeremiah, he thinks, always uses the same metre.
-  Giesebrecht, on the other hand, maintains that there are passages
+  [[Giesebrecht]], on the other hand, maintains that there are passages
   which are certainly Jeremiah's, but which are not in what Duhm calls
   Jeremiah's metre; Giesebrecht also, himself rather conservative,
   considers Duhm remarkably free with his emendations. There has also to
@@ -226,7 +226,7 @@ sympathetic prophet, _Ency. Bib._ "Jeremiah," § 5.
   probably too xi. 15, 16; xii. 7-12 (Jehoiakim). xxii. 18, 19, perhaps
   too xxii. 6b, 7; 20-23; and the cycle xiii. 15, 16; 17; 18, 19; 20,
   21a, 22-25a, 26, 27 (later, Jehoiakim). xxii. 24; xxii. 28
-  (Jehoiachin). (f) Later poems. xiv. 2-10; xv. 5-9; xvi. 5-7; xviii.
+  ([[Jehoiachin]]). (f) Later poems. xiv. 2-10; xv. 5-9; xvi. 5-7; xviii.
   13-17; xxiii. 9-12; 13-15; xi. 18-20; xv. 10-12; 15-19a, and 20, 21;
   xvii. 9, 10, 14, 16, 17; xviii. 18-20; xx. 7-11; xx. 14-18; xiv. 17,
   18; xvii. 1-4; xxxviii. 24; assigned to the close of Zedekiah's time.
@@ -250,12 +250,12 @@ sympathetic prophet, _Ency. Bib._ "Jeremiah," § 5.
   difference of reading between the two texts, it is for the critic to
   decide; often, however, he will have to seek to go behind what both
   the texts present in order to constitute a truer text than either.
-  Here is the great difficulty of the future. We may add to the credit
+  Here is the great difficulty of the future. We may add to the [[Credit|credit]]
   of the Septuagint that the position given to the prophecies on "the
   nations" (chs. xlvi.-li. in our Bible) in the Septuagint is probably
   more original than that in the Massoretic text. On this point see
   especially Schmidt, _Ency. Bib._ "Jeremiah (Book)" §§ 6 and 21;
-  Davidson, Hastings's _Dict. Bible_, ii. 573b-575; Driver,
+  [[Davidson]], Hastings's _Dict. Bible_, ii. 573b-575; Driver,
   _Introduction_ (8th ed.), pp. 269, 270.
 
   The best German commentary is that of Cornill (1905). A skilful
@@ -268,21 +268,21 @@ FOOTNOTES:
   [1] Davidson (Hast., _D.B._, ii. 570 b) mentions two views. (1) The
     foe might be "a creation of his moral presentiment and assigned to
     the north as the cloudy region of mystery." (2) The more usual view
-    is that the Scythians (see Herod, i. 76, 103-106; iv. 1 ) are meant.
+    is that the Scythians (see [[Herod]], i. 76, 103-106; iv. 1 ) are meant.
     Neither of these views is satisfactory. The passage v. 15-17 is too
     definite for (1), and as for (2), the idea of a threatened Scythian
     invasion lacks a sufficient basis. Those who hold (2) have to suppose
     that original references to the Scythians were retouched under the
     impression of Chaldean invasions. Hence Cheyne's theory of a north
     Arabian invasion from the land of Zaphon = Zibeon (Gen. xxxvi. 2,
-    14), i.e. Ishmael. Cf. N. Schmidt, _Ency. Bib._, Zibeon, "Scythians,"
-    § 8; Cheyne, _Critica Biblica_, part i. (Isaiah and Jeremiah).
+    14), i.e. [[Ishmael]]. Cf. N. Schmidt, _Ency. Bib._, Zibeon, "Scythians,"
+    § 8; [[Cheyne]], _Critica Biblica_, part i. (Isaiah and Jeremiah).
 
   [2] Cf. Ewald, _The Prophets_, Eng. trans., iii. 63, 64.
 
   [3] Cheyne, _Ency. Brit._ (9th ed.,), "Jeremiah," suggests after
     Grätz that the roll simply contained ch. xxv., omitting the most
-    obvious interpolations. Against this view see N. Schmidt, _Ency.
+    obvious [[Interpolation|interpolations]]. Against this view see N. Schmidt, _Ency.
     Bib._, "Jeremiah (Book)," § 8, who, however, accepts the negative
     part of Cheyne's arguments.
 

@@ -12,11 +12,11 @@ with the duchy of Burgundy, the name being derived from Brabo, a
 semi-mythical Frankish chief.
 
 The history of Brabant is connected with that of the duchy of Lower
-Lorraine (q.v.), which became in the course of the 11th century split up
+[[Lorraine]] (q.v.), which became in the course of the 11th century split up
 into a number of small feudal states. The counts of Hainaut, Namur,
-Luxemburg and Limburg asserted their independence, and the territory of
+Luxemburg and [[Limburg]] asserted their independence, and the territory of
 Liege passed to the bishops of that city. The remnant of the duchy,
-united since 1100 with the margraviate of Antwerp, was conferred in 1106
+united since 1100 with the margraviate of [[Antwerp]], was conferred in 1106
 by the emperor Henry V., with the title of duke of Lower Lorraine, upon
 Godfrey (Godefroid) I., "the Bearded," count of Louvain and Brussels.
 His title was disputed by Count Henry of Limburg, and for three
@@ -28,7 +28,7 @@ Lower Lorraine and assumed in 1190 that of duke of Brabant. His
 successors were Henry II., "the Magnanimous" (1235-1248), Henry III.,
 "le Debonnair" (1248-1261), and John I., "the Victorious" (1261-1294).
 These were all able rulers. Their usual place of residence was Louvain.
-John I., in 1283 bought the duchy of Limburg from Adolf of Berg, and
+John I., in 1283 bought the duchy of Limburg from Adolf of [[Berg]], and
 secured his acquisition by defeating and slaying his competitor, Henry
 of Luxemburg, at the battle of Woeringen (June 5, 1288). His own son,
 John II., "the Pacific" (1294-1312), bestowed liberties upon his
@@ -43,7 +43,7 @@ John III., "the Triumphant" (1312-1355), who succeeded in maintaining
 his position in spite of formidable risings in Louvain and Brussels,
 and a league formed against him by his princely neighbours, but he had
 a hard struggle to face, and many ups and downs of fortune. He it was to
-whom Brabant owed the great charter of its liberties, called _La joyeuse
+whom Brabant owed the great charter of its liberties, called _La [[Joyeuse|joyeuse]]
 entree_, because it was granted on the occasion of the marriage of his
 daughter Johanna (Jeanne) with Wenzel (Wenceslaus) of Luxemburg, and was
 proclaimed on their state entry into Brussels (1356).
@@ -65,7 +65,7 @@ Louvain. In the course of a stormy reign Wenzel was taken prisoner in
 After his death (1383) his widow continued to rule over the two duchies
 for eighteen years, but was obliged to rely on the support of the house
 of Burgundy in her contests with the turbulent city gilds and with her
-neighbours, the dukes of Julich and Gelderland. In 1390 she revoked the
+neighbours, the [[Dukes|dukes]] of Julich and Gelderland. In 1390 she revoked the
 deed which secured the succession to Brabant to the house of Luxemburg,
 and appointed her niece, Margaret of Flanders (d. 1405), daughter of
 Louis II. and Margaret of Brabant (see FLANDERS), and her husband,
@@ -84,7 +84,7 @@ On the extinction of the line of Anthony the duchy of Brabant became the
 inheritance of the elder branch of the house of Burgundy, in the person
 of Philip III., "the Good," of Burgundy, II. of Brabant, son of John.
 His grand-daughter Mary (d. 1482), daughter and heiress of Charles I.,
-"the Bold," (d. 1477) married the archduke Maximilian of Austria
+"the Bold," (d. 1477) married the archduke [[Maximilian]] of Austria
 (afterwards emperor) and so brought Brabant with the other Burgundian
 possessions to the house of Habsburg. The chief city of Brabant,
 Brussels, became under the Habsburg regime the residence of the court
@@ -98,7 +98,7 @@ In the course of the eighty years' war of independence the province of
 Brabant became separated into two portions. In the southern and larger
 part Spanish rule was maintained, and Brussels continued to be the seat
 of government. The northern (smaller) part was conquered by the Dutch
-under Maurice and Frederick Henry of Orange. The latter captured 's
+under [[Maurice]] and Frederick Henry of Orange. The latter captured 's
 Hertogenbosch (1629), Maastricht (1632) and Breda (1637). At the peace
 of Munster this portion, which now forms the Dutch province of North
 Brabant, was ceded by Philip IV. to the United Provinces and was known
@@ -118,11 +118,11 @@ Henry van der Noot to armed resistance in the Brabancon revolt of
 1789-1790.
 
 Since the French conquest of 1794 the history of Brabant is merged in
-that of Belgium (q.v.). The revolt against Dutch rule in 1830 broke out
+that of [[Belgium]] (q.v.). The revolt against Dutch rule in 1830 broke out
 at Brussels and was in its initial stages largely a Brabancon movement.
 The important part played by Brabant at this crisis of the history of
 the southern Netherlands was marked in 1831 by the adoption of the
-ancient Brabancon colours to form the national flag, and of the lion of
+ancient Brabancon [[Colours|colours]] to form the national [[Flag|flag]], and of the lion of
 Brabant as the armorial bearings of Belgium. The title of duke of
 Brabant has been revived as the style of the eldest son of the king of
 the Belgians.     (G. E.)

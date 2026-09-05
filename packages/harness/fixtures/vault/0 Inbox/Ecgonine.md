@@ -1,16 +1,16 @@
 # Ecgonine
 
-ECGONINE, in chemistry, C9H15NO3, a cycloheptane derivative with a
+ECGONINE, in [[Chemistry|chemistry]], C9H15NO3, a cycloheptane derivative with a
 nitrogen bridge. It is obtained by hydrolysing cocaine with acids or
 alkalis, and crystallizes with one molecule of water, the crystals
 melting at 198 deg. to 199 deg. C. It is laevo-rotatory, and on warming with
 alkalis gives iso-ecgonine, which is dextro-rotatory. It is a tertiary
 base, and has also the properties of an acid and an alcohol. When boiled
-with caustic baryta it gives methylamine. It is the carboxylic acid
+with [[Caustic|caustic]] baryta it gives methylamine. It is the carboxylic acid
 corresponding to tropine, for it yields the same products on oxidation,
 and by treatment with phosphorus pentachloride is converted into
 anhydroecgonine, C9H13NO2, which, when heated to 280 deg. C. with
-hydrochloric acid, splits out carbon dioxide and yields tropidine,
+hydrochloric acid, splits out [[Carbon|carbon]] dioxide and yields tropidine,
 C8H13N. Anhydroecgonine melts at 235 deg. C., and has an acid and a basic
 character. It is an unsaturated compound, and on oxidation with
 potassium permanganate gives succinic acid. It is apparently a tropidine

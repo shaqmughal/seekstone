@@ -9,7 +9,7 @@ tags: [horticulture-studies, biology]
 # Bone
 
 BONE (a word common in various forms to Teutonic languages, in many of
-which it is confined to the shank of the leg, as in the German _Bein_),
+which it is confined to the shank of the [[Leg|leg]], as in the German _Bein_),
 the hard tissue constituting the framework of the animal skeleton. For
 anatomy see SKELETON and CONNECTIVE TISSUES.
 
@@ -39,20 +39,20 @@ individual is well and strong, and there has been no hurt, strain or
 accident to lower the power of resistance of the bone, the staphylococci
 may circulate harmlessly in the blood, until they are gradually eaten up
 by the white corpuscles; but if a bone has been injured it offers a
-likely and attractive focus to the wandering germs.
+likely and attractive [[Focus|focus]] to the wandering germs.
 
 The disease is infective. That is to say, the micro-organisms having
 begun to germinate in the damaged bone find their way by the
 blood-stream into other tissues, and developing after their kind, are
-apt to cause blood-poisoning. Should a surgeon prick his finger whilst
+apt to cause blood-poisoning. Should a surgeon prick his [[Finger|finger]] whilst
 operating on a case of septic osteomyelitis his blood also might be
 poisoned, and he would run the risk of losing his finger, his hand, or
 even his life. The starting-point of the disease is the delicate growing
 tissue recently deposited between the main part of the shaft of the bone
 (diaphysis) and the cartilaginous end. And it often happens that the
-earliest complaint of pain is just above or below the knee; just above
-the ankle, the elbow or the wrist. If the surgeon is prompt in operating
-he may find the disease limited to that spot. In the case of infants,
+earliest complaint of pain is just above or below the [[Knee|knee]]; just above
+the [[Ankle|ankle]], the [[Elbow|elbow]] or the wrist. If the surgeon is prompt in operating
+he may find the disease limited to that spot. In the case of [[Infant|infants]],
 the germs are very apt to make their way into the neighbouring joint,
 giving rise to the very serious disease known as _acute arthritis of
 infants_.
@@ -60,19 +60,19 @@ infants_.
 Probably the first sign of there being anything amiss with the limb will
 be a complaint of aches or pains near a joint; and these pains are apt
 to be miscalled rheumatic. Perhaps they occur during convalescence from
-scarlet or typhoid fever, or after exposure to injury, or to wet or
+scarlet or typhoid [[Fever|fever]], or after exposure to injury, or to wet or
 cold, or after unusual fatigue. The part becomes swollen, hot, red and
 excessively tender; the tenderness, however, is not in the skin but in
 the bone, and in the engorged membrane around it, the periosteum. The
 temperature may run up to 104 deg., and may be associated with
 convulsions or shiverings. The patient's nights are disturbed, and very
-likely he has violent delirium. If the case is allowed to drift on,
+likely he has violent [[Delirium|delirium]]. If the case is allowed to [[Drift|drift]] on,
 abscess forms, and death may ensue from septic pneumonia, or
 pericarditis, or from some other form of blood-poisoning.
 
 As soon as the disease is recognized an incision should be made down to
 the bone, and the affected area should be scraped out, and disinfected
-with a solution of corrosive sublimate. A considerable area of the bone
+with a solution of [[Corrosive Sublimate|corrosive sublimate]]. A considerable area of the bone
 may be found stripped bare by sub-periosteal abscess, and necrosis is
 likely to ensue. Perhaps the shaft of the bone will have to be opened up
 in the chief part of its length in order that it may be cleared of germs
@@ -87,7 +87,7 @@ affected at the same time, and large pieces of them may be killed
 outright (_multiple necrosis_) by inflammatory engorgement and
 devastating abscess.
 
-Septic ostitis may be confounded with erysipelas and rheumatism, but
+Septic ostitis may be confounded with [[Erysipelas|erysipelas]] and rheumatism, but
 the central thickening and tenderness should suffice to distinguish it.
 
 _Chronic ostitis_ and _periostitis_ denote long-continued and increased
@@ -110,7 +110,7 @@ expense of the living tissue, and a _rarefying ostitis_ is thus
 produced. Later the tubercles break down and form tuberculous abscesses,
 which slowly, and almost painlessly, find escape upon the surface. They
 should not be allowed to open spontaneously, however, as the wounds are
-then likely to become infected with pus-producing germs, and fuel being
+then likely to become infected with pus-producing germs, and [[Fuel|fuel]] being
 added to the fire, as it were, destruction advances with increased
 rapidity. The treatment for these tuberculous foci is to place the limb
 or the part at absolute rest upon a splint, to give plenty of fresh air
@@ -200,7 +200,7 @@ _Special Fracture in Young People._--The long bones of children and
 growing persons consist of a shaft with cartilaginous ends in which bone
 is developed. As the result of injury, the end of the bone may become
 detached, a variety of fracture known as _diastasis_. Such a
-fracture--however well treated--may be followed by arrest of growth of
+fracture--however well treated--may be followed by [[Arrest|arrest]] of growth of
 the bone or by stiffness of the neighbouring joint.
 
 _Delayed union_ means that consolidation is taking place very slowly, if
@@ -240,7 +240,7 @@ and the joint became as sound as it was before. Some surgeons, however,
 objected to the operation--in spite of the excellence of the results
 obtainable by it--because of the undoubted risk which it entailed of the
 joint becoming invaded by septic micro-organisms. As a sort of
-compromise, Professor A.E.J. Barker introduced the method, which he
+[[Compromise|compromise]], Professor A.E.J. [[Barker]] introduced the method, which he
 deemed to be less hazardous, of holding the fragments close together by
 means of a strong silver wire passed round them vertically by a large
 needle without actually laying open the joint. But experience has shown
@@ -253,7 +253,7 @@ selection of one's patients is an antiseptic measure--by which he meant
 that if a surgeon intended to get the most perfect results for his
 operative work, he must carefully consider whether any individual
 patient is physically adapted for the performance upon him of any
-particular operation. This aphorism implies that not every patient with
+particular operation. This [[Aphorism|aphorism]] implies that not every patient with
 a broken knee-cap is suited for the opening of his knee-joint, or even
 for the subcutaneous adjustment of the broken fragments. An operative
 procedure which is admirably suited for one patient might result in
@@ -267,14 +267,14 @@ surgeon's business to know what to advise in each individual case.
   commerce. Composed of mineral matter--phosphates, &c.--fat and
   gelatinous substances, the phosphates are used as artificial manures,
   the fat is worked up by the soap-maker and chandler, and the
-  gelatinous matter forms the basis of the gelatin and glue of commerce;
-  while by the dry distillation of bones from which the gelatin has been
+  gelatinous matter forms the basis of the [[Gelatin|gelatin]] and glue of commerce;
+  while by the dry [[Distillation|distillation]] of bones from which the gelatin has been
   but partially removed, there are obtained a carbonaceous
   residue--animal charcoal--and a tarry distillate, from which "bone
   oil" and bone pitch are obtained. To these by-products there must be
   added the direct uses of bone--for making buttons, knife-handles,
   &c.--when an estimate is desired of the commercial importance of these
-  components of the animal frame.
+  components of the animal [[Frame|frame]].
 
   While most of the world's supply of bones goes to the glue and gelatin
   works, the leg and thigh bones, termed "marrows" and "knuckles," are
@@ -286,15 +286,15 @@ surgeon's business to know what to advise in each individual case.
   about six hours. This removes a part of the fat and gelatinous matter;
   the former rises as a scum, the latter passes into solution, and the
   bones remain sufficiently firm to be worked up by the lathe, &c. The
-  fat is skimmed off, and, after bleaching, reappears as a component of
+  fat is skimmed off, and, after [[Bleaching|bleaching]], reappears as a component of
   fine soaps, or, if unbleached, the oil is expressed and is used as an
   adulterant of other oils, while the stearine or solid matter goes to
   the candle-maker; the gelatinous water is used (after filtration) for
-  making size for cardboard boxes; while the bones are scrubbed, dried,
+  making size for cardboard [[Box|boxes]]; while the bones are scrubbed, dried,
   and then transferred to the bone-worker.
 
   The glue-worker first removes the fat, which is supplied to the soap
-  and candle trades; the bones are now treated for glue (q.v.); and
+  and [[Candle|candle]] trades; the bones are now treated for glue (q.v.); and
   the residue is worked up for manures, &c. These residues are ground to
   a fine or coarse meal, and supplied either directly as a fertilizer or
   treated with sulphuric acid to form the more soluble superphosphates,
@@ -321,9 +321,9 @@ surgeon's business to know what to advise in each individual case.
   red-hot to air-tight vessels in which it is allowed to cool. It is
   then passed through grinding mills, and is subsequently riddled by
   revolving cylindrical sieves. The yield is from 55 to 60% of the bones
-  carbonized, and the product contains about 10% of carbon and about 75%
+  carbonized, and the product contains about 10% of [[Carbon|carbon]] and about 75%
   of calcium phosphate, the remainder being various inorganic salts and
-  moisture (6-7%). Animal charcoal has a deep black colour, and is much
+  moisture (6-7%). Animal [[Charcoal|charcoal]] has a deep black colour, and is much
   used as a filtering and clarifying material. The vapours evolved
   during carbonization are condensed in vertical air condensers. The
   liquid separates into two layers: the upper tarry layer is floated off
@@ -343,8 +343,8 @@ surgeon's business to know what to advise in each individual case.
 FOOTNOTE:
 
   [1] Bone oil, also known as Dippel's oil, was originally produced by
-    the distillation of stags' horns; it is of interest in the history of
-    chemistry, since from it were isolated in 1846 by T. Anderson
+    the distillation of stags' [[Horn|horns]]; it is of interest in the history of
+    [[Chemistry|chemistry]], since from it were isolated in 1846 by T. Anderson
     pyridine and some of its homologues.
 
 ## See also

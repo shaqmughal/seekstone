@@ -2,7 +2,7 @@
 
 DARLY, MATTHIAS, 18th-century English caricaturist, designer and
 engraver. This extremely versatile artist not only issued political
-caricatures, but designed ceilings, chimney-pieces, mirror frames,
+caricatures, but designed [[Ceiling|ceilings]], chimney-pieces, mirror frames,
 girandoles, decorative panels and other mobiliary accessories, made many
 engravings for Thomas Chippendale, and sold his own productions over the
 counter. He was apparently an architect by profession. The first
@@ -15,7 +15,7 @@ _Director_ of Thomas Chippendale. He published from many addresses, most
 of them in the Strand or its immediate neighbourhood, and his shop was
 for a long period perhaps the most important of its kind in London. In
 his book _Nollekens and his Times_, J. T. Smith, writing of Richard
-Cosway, says:--"So ridiculously foppish did he become that Matth. Darly,
+[[Cosway]], says:--"So ridiculously foppish did he become that Matth. Darly,
 the famous caricature print seller, introduced an etching of him in his
 window in the Strand as the 'Macaroni Miniature Painter.'" Darly was for
 many years in partnership with a man named Edwards, and together they

@@ -1,6 +1,6 @@
 # Conclave
 
-CONCLAVE (Lat. _conclave_, from _cum_, together, and _clavis_, a key),
+CONCLAVE (Lat. _conclave_, from _cum_, together, and _clavis_, a [[Key|key]]),
 strictly a room, or set of rooms, locked with a key; in this sense the
 word is now obsolete in English, though the _New English Dictionary_
 gives an example of its use so late as 1753. Its present loose
@@ -9,7 +9,7 @@ is derived from its technical application to the assembly of cardinals
 met for the election of the pope, with which this article is concerned.
 
 Conclave is the name applied to that system of strict seclusion to which
-the electors of the pope have been and are submitted, formerly as a
+the [[Electors|electors]] of the pope have been and are submitted, formerly as a
 matter of necessity, and subsequently as the result of a legislative
 enactment; hence the word has come to be used of the electoral assembly
 of the cardinals. This system goes back only as far as the 12th century.
@@ -30,17 +30,17 @@ an assembly of such size, in which the candidates were acclaimed rather
 than elected by counting votes, the various functions were not very
 distinct, and that persons of importance, whether clerical or lay, were
 bound to influence the elections, and sometimes decisively. Moreover,
-this form of election lent itself to cabals; and these frequently gave
+this form of election [[Lent|lent]] itself to cabals; and these frequently gave
 rise to quarrels, sometimes involving bloodshed and schisms, i.e. the
 election of antipopes, as they were later called. Such was the case at
-the elections of Cornelius (251), Damasus (366), Boniface (418),
+the elections of Cornelius (251), [[Damasus]] (366), Boniface (418),
 Symmachus (498), Boniface II. (530) and others. The remedy for this
 abuse was found in having recourse, more or less freely, to the support
-of the civil power. The emperor Honorius upheld Boniface against his
+of the civil power. The emperor [[Honorius]] upheld Boniface against his
 competitor Eulalius, at the same time laying down that cases of
 contested election should henceforth be decided by a fresh election; but
 this would have been a dangerous method and was consequently never
-applied. Theodoric upheld Symmachus against Laurentius because he had
+applied. Theodoric upheld Symmachus against [[Laurentius]] because he had
 been elected first and by a greater majority. The accepted fact soon
 became law, and John II. recognized (532) the right of the Ostrogothic
 court of Ravenna to ratify the pontifical elections. Justinian succeeded
@@ -58,7 +58,7 @@ _9th to 12th Centuries._--From the emperors of the East the power
 naturally passed to those of the West, and it was exercised after 824 by
 the descendants of Charlemagne, who claimed that the election should not
 proceed until the arrival of their envoys. But this did not last long;
-at the end of the 9th century, Rome, torn by factions, witnessed the
+at the end of the 9th century, Rome, torn by [[Faction|factions]], witnessed the
 scandal of the posthumous condemnation of Formosus. This deplorable
 state of affairs lasted almost without interruption till the middle of
 the 11th century. When the emperors were at Rome, they presided over the
@@ -74,8 +74,8 @@ to be restored by force of arms.
 
 The influence of the Ottos (962-1002) was a lesser evil; that of the
 emperor Otto III. was even beneficial, in that it led to the election of
-Gerbert (Silvester II., in 999). But this was only a temporary check in
-the process of decadence, and in 1146 Clement II., the successor of the
+[[Gerbert]] (Silvester II., in 999). But this was only a temporary check in
+the process of decadence, and in 1146 [[Clement]] II., the successor of the
 worthless Benedict IX., admitted that henceforth not only the
 consecration but even the _election_ of the Roman pontiffs could only
 take place in presence of the emperor. In fact, after the death of
@@ -83,11 +83,11 @@ Clement II. the delegates of the Roman clergy did actually go to Polden
 to ask Henry III. to give them a pope, and similar steps were taken
 after the death of Damasus II., who reigned only twenty days.
 Fortunately on this occasion Henry III. appointed, just before his
-death, a man of high character, his cousin Bruno, bishop of Toul, who
-presented himself in Rome in company with Hildebrand. From this time
+death, a man of high character, his [[Cousin|cousin]] Bruno, bishop of Toul, who
+presented himself in Rome in company with [[Hildebrand]]. From this time
 began the reform. Hildebrand had the elections of Victor II. (1055),
 Stephen IX. (1057), and Nicholas II. (1058) carried out according to the
-canonical form, including the imperial ratification. The celebrated bull
+canonical form, including the imperial ratification. The celebrated [[Bull|bull]]
 _In nomine Domini_ of the 13th of April 1059 determined the electoral
 procedure; it is curious to observe how, out of respect for tradition,
 it preserves all the former factors in the election though their scope
@@ -109,7 +109,7 @@ series of five antipopes, none of Gregory's successors asked any more
 for the imperial sanction. Further, by this bull, the emperors would
 have to deal with the _fait accompli_; for it provided that, in the
 event of disturbances aroused by mischievous persons at Rome preventing
-the election from being carried out there freely and without bias, the
+the election from being carried out there freely and without [[Bias|bias]], the
 cardinal bishops, together with a small number of the clergy and of the
 laity, should be empowered to go and hold the election where they should
 think fit; that should difficulties of any sort prevent the enthronement
@@ -139,10 +139,10 @@ most frequently for long spaces of time. The longest of these, however,
 gave an opportunity for reform and the remedy was found in the conclave,
 i.e. in the forced and rigid seclusion of the electors. As a matter of
 fact, this method had previously been used, but in a mitigated form: in
-1216, on the death of Innocent III., the people of Perugia had shut up
-the cardinals; and in 1241 the Roman magistrates had confined them
+1216, on the death of [[Innocent]] III., the people of Perugia had shut up
+the cardinals; and in 1241 the Roman [[Magistrate|magistrates]] had confined them
 within the "Septizonium"; they took two months, however, to perform the
-election. Celestine IV. died after eighteen days, and this time, in
+election. [[Celestine]] IV. died after eighteen days, and this time, in
 spite of the seclusion of the cardinals, there was an interregnum of
 twenty months. After the death of Clement IV. in 1268, the cardinals, of
 whom seventeen were gathered together at Viterbo, allowed two years to
@@ -160,7 +160,7 @@ years, nine months and two days.
 
 Taught by experience, the new pope considered what steps could be taken
 to prevent the recurrence of such abuses; in 1274, at the council of
-Lyons, he promulgated the constitution _Ubi periculum_, the substance of
+[[Lyons]], he promulgated the constitution _Ubi periculum_, the substance of
 which was as follows: At the death of the pope, the cardinals who were
 present are to await their absent colleagues for ten days; they are then
 to meet in one of the papal palaces in a closed conclave; none of them
@@ -181,14 +181,14 @@ periculum_; but the abuses at once reappeared; the Holy See was again
 vacant for long periods; this further proof was therefore decisive, and
 Celestine V., who was elected after a vacancy of more than two years,
 took care, before abdicating the pontificate, to revive the constitution
-of Gregory X., which was inserted in the Decretals (lib. i. tit. vi.,
+of Gregory X., which was inserted in the [[Decretals]] (lib. i. tit. vi.,
 _de election._ cap. 3).
 
 
-  Julius II.
+  [[Julius]] II.
 
 Since then the laws relating to the conclave have been observed, even
-during the great schism; the only exception was the election of Martin
+during the great schism; the only exception was the election of [[Martin]]
 V., which was performed by the cardinals of the three obediences, to
 which the council of Constance added five prelates of each of the six
 nations represented in that assembly. The same was the case up to the
@@ -224,7 +224,7 @@ to be followed by the "accessit," i.e. a second voting, in which the
 cardinals might transfer their suffrages to those who had obtained the
 greatest number of votes in the first. Except in case of urgent matters,
 the election was to form the whole business of the conclave. The cells
-were to be assigned by lot. The functionaries of the conclave were to be
+were to be assigned by [[Lot|lot]]. The functionaries of the conclave were to be
 elected by the secret vote of the Sacred College. The most stringent
 measures were to be taken to ensure seclusion. The bull _Aeterni Patris_
 of Gregory XV. (15th of November 1621) is a collection of minute
@@ -285,7 +285,7 @@ arrival in procession of the clergy and the brotherhoods to enquire at
 the "rota" (turning-box) of the auditors of the Rota: "Habemusne
 Pontificem?" and their return accompanied by the chanting of the "_Veni
 Creator_"; or the "Marshal of the Holy Roman Church and perpetual
-guardian of the conclave" visiting the churches in state. But a crowd
+[[Guardian|guardian]] of the conclave" visiting the churches in state. But a [[Crowd|crowd]]
 still collects morning and evening in the great square of St Peter's,
 towards the time of the completion of the vote, to look for the smoke
 which rises from the burning of the voting-papers after each session;
@@ -310,7 +310,7 @@ conclave is dissolved; on the following day take place the two other
 "obediences," and the election is officially announced to the various
 governments. If the pope be not a bishop (Gregory XVI. was not), he is
 then consecrated; and finally, a few days after his election, takes
-place the coronation, from which the pontificate is officially dated.
+place the [[Coronation|coronation]], from which the pontificate is officially dated.
 The pope then receives the tiara with the triple crown, the sign of his
 supreme spiritual authority. The ceremony of the coronation goes back to
 the 9th century, and the tiara, in the form of a high conical cap, is
@@ -358,12 +358,12 @@ forbade, under pain of excommunication reserved to the future pope, any
 cardinal or conclavist to accept from his government the charge of
 proposing a "veto," or to exhibit it to the conclave under any form.
 
-  BIBLIOGRAPHY.--The best and most complete work is Lucius Lector, _Le
+  BIBLIOGRAPHY.--The best and most complete work is [[Lucius]] [[Lector]], _Le
   Conclave, origine, histoire, organisation, législation ancienne et
-  moderne_ (Paris, 1894). See also Ferraris, _Prompta Bibliotheca, s. v.
+  moderne_ (Paris, 1894). See also [[Ferrari|Ferraris]], _Prompta Bibliotheca, s. v.
   Papa_, art. i.; Moroni, _Dizionario di erudizione
-  storico-ecclesiastica, s. v. Conclave, Conclavisti, Cella, Elezione,
-  Esclusiva_; Bouix, _De Curia Romana_, part i. c. x.; _De Papa_, part
+  storico-ecclesiastica, s. v. Conclave, Conclavisti, [[Cella]], Elezione,
+  Esclusiva_; Bouix, _De [[Curia Romana]]_, part i. c. x.; _De Papa_, part
   vii. (Paris, 1859, 1870); Barbier de Montault, _Le Conclave_ (Paris,
   1878). On the conclave of Leo XIII., R. de Cesare, _Conclave di Leone
   XIII._ (Rome, 1888). On the conclave of Pius X.: an eye-witness (Card.

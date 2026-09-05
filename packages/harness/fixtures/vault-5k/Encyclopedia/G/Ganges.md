@@ -1,8 +1,8 @@
 # Ganges
 
 GANGES (GANGA), a great river of northern India, formed by the drainage
-of the southern ranges of the Himalayas. This mighty stream, which in
-its lower course supplies the river system of Bengal, rises in the
+of the southern ranges of the [[Himalaya|Himalayas]]. This mighty stream, which in
+its lower course supplies the river system of [[Bengal]], rises in the
 Garhwal state, and falls into the Bay of Bengal after a course of 1500
 m. It issues, under the name of the Bhagirathi, from an ice cave at the
 foot of a Himalayan snow-bed near Gangotri, 10,300 ft. above the level
@@ -15,12 +15,12 @@ of the sea.
   pilgrimage, as is also Gangotri, the source of the parent stream. At
   Sukhi it pierces through the Himalayas, and turns south-west to
   Hardwar, also a place of great sanctity. It proceeds by a tortuous
-  course through the districts of Dehra Dun, Saharanpur, Muzaffarnagar,
+  course through the districts of [[Dehra Dun]], Saharanpur, Muzaffarnagar,
   Bulandshahr and Farukhabad, in which last district it receives the
   Ramganga. Thus far the Ganges has been little more than a series of
   broad shoals, long deep pools and rapids, except, of course, during
   the melting of the snows and throughout the rainy season. At
-  Allahabad, however, it receives the Jumna, a mighty sister stream,
+  Allahabad, however, it receives the [[Jumna]], a mighty sister stream,
   which takes its rise also in the Himalayas to the west of the sources
   of the Ganges. The combined river winds eastwards by south-east
   through the United Provinces, receiving the Gumti and the Gogra. The
@@ -32,9 +32,9 @@ of the sea.
   festival called the Magh mela is held.
 
   Shortly after passing the holy city of Benares the Ganges enters
-  Behar, and after receiving an important tributary, the Sone from the
+  [[Behar]], and after receiving an important tributary, the Sone from the
   south, passes Patna, and obtains another accession to its volume from
-  the Gandak, which rises in Nepal. Farther to the east it receives the
+  the [[Gandak]], which rises in Nepal. Farther to the east it receives the
   Kusi, and then, skirting the Rajmahal hills, turns sharply to the
   southward, passing near the site of the ruined city of Gaur. By this
   time it has approached to within 240 m., as the crow flies, from the
@@ -74,7 +74,7 @@ of the sea.
   Jumna, higher up. The catchment basin of the Ganges is bounded on the
   N. by a length of about 700 m. of the Himalayan range, on the S. by
   the Vindhya mountains, and on the E. by the ranges which separate
-  Bengal from Burma. The vast river basin thus enclosed embraces 432,480
+  Bengal from [[Burma]]. The vast river basin thus enclosed embraces 432,480
   sq. m. According to the latest calculations, the length of the main
   stream of the Ganges is 1540 m., or with its longest affluent, 1680;
   breadth at true entrance into the sea, 20 m.; breadth of channel in
@@ -85,7 +85,7 @@ of the sea.
   between 4 and 5 in.; from Calcutta to the sea, 1 to 2 in. Great
   changes take place from time to time in the river-bed, which alter the
   face of the country. Extensive islands are thrown up, and attach
-  themselves to the mainland, while the river deserts its old bed and
+  themselves to the mainland, while the river [[Desert|deserts]] its old bed and
   seeks a new channel, it may be many miles off. Such changes are so
   rapid and on so vast a scale, and the corroding power of the current
   on the bank so irresistible, that in Lower Bengal it is considered
@@ -100,7 +100,7 @@ of the sea.
 
   The UPPER GANGES CANAL and the LOWER GANGES CANAL are the two
   principal systems of perennial irrigation in the United Provinces. The
-  Ganges canal was opened by Lord Dalhousie in 1854, and irrigates
+  Ganges canal was opened by Lord [[Dalhousie]] in 1854, and irrigates
   978,000 acres. The Lower Ganges canal, an extension of the original
   canal, has been in operation since 1878 and irrigates 830,000 acres.
   The two canals, together with the eastern Jumna, command the greater

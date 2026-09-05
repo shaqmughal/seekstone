@@ -10,13 +10,13 @@ tags: [forestry-studies, history]
 KUWET (KUWEIT, KOWEIT), a port in Arabia at the north-western angle of
 the Persian Gulf in 29° 20' N. and 48° E., about 80 m. due S. of Basra
 and 60 m. S.W. of the mouth of the Shat el Arab. The name Kuwet is the
-diminutive form of Kut, a common term in Irak for a walled village; it
+diminutive form of Kut, a common term in [[Irak]] for a walled village; it
 is also shown in some maps as Grane or Grain, a corruption of Kuren, the
-diminutive of Karn, a horn. It lies on the south side of a bay 20 m.
+diminutive of Karn, a [[Horn|horn]]. It lies on the south side of a bay 20 m.
 long and 5 m. wide, the mouth of which is protected by two islands,
 forming a fine natural harbour, with good anchorage in from 4 to 9
-fathoms of water. The town has 15,000 inhabitants and is clean and well
-built; the country around being practically desert, it depends entirely
+[[Fathom|fathoms]] of water. The town has 15,000 inhabitants and is clean and well
+built; the country around being practically [[Desert|desert]], it depends entirely
 on the sea and its trade, and its sailors have a high reputation as the
 most skilful and trustworthy on the Persian Gulf; while its position as
 the nearest port to Upper Nejd gives it great importance as the port of

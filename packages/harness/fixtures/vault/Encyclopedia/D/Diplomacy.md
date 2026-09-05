@@ -1,6 +1,6 @@
 # Diplomacy
 
-DIPLOMACY (Fr. _diplomatie_), the art of conducting international
+DIPLOMACY (Fr. _diplomatie_), the art of conducting [[International|international]]
 negotiations. The word, borrowed from the French, has the same
 derivation as Diplomatic (q.v.), and, according to the _New English
 Dictionary_, was first used in England so late as 1796 by Burke. Yet
@@ -15,11 +15,11 @@ by a diplomatic hierarchy having a fixed international status, is of
 quite modern growth even in Europe. It was finally established only at
 the congresses of Vienna (1815) and Aix-la-Chapelle (1818), while its
 effective extension to the great monarchies of the East, beyond the
-bounds of European civilization, was comparatively an affair of
+[[Bounds|bounds]] of European civilization, was comparatively an affair of
 yesterday. So late as 1876 it was possible for the writer on this
 subject in the 9th edition of the _Encyclopaedia Britannica_ to say that
 "it would be an historical absurdity to suppose diplomatic relations
-connecting together China, Burma and Japan, as they connect the great
+connecting together China, [[Burma]] and [[Japan]], as they connect the great
 European powers."
 
 _Principles._--Though diplomacy has been usually treated under the head
@@ -27,7 +27,7 @@ of international law, it would perhaps be more consonant with the facts
 to place international law under diplomacy. The principles and rules
 governing the intercourse of states, defined by a long succession of
 international lawyers, have no sanction save the consensus of the
-powers, established and maintained by diplomacy (see BALANCE OF POWER);
+powers, established and maintained by diplomacy (see [[Balance Of Power|BALANCE OF POWER]]);
 in so far as they have become, by international agreement, more than
 mere pious opinions of theorists, they are working rules established for
 mutual convenience, which it is the function of diplomacy to safeguard
@@ -45,12 +45,12 @@ which is the soul of this science as of politics in general." The broad
 outlook on human affairs implied in "historical sense" is more necessary
 to the diplomatist under modern conditions than in the 18th century,
 when international policy was still wholly under the control of princes
-and their immediate advisers. Diplomacy was then a game of wits played
+and their immediate advisers. Diplomacy was then a [[Game|game]] of wits played
 in a narrow circle. Its objects too were narrower; for states were
 practically regarded as the property of their sovereigns, which it was
 the main function of their "agents" to enlarge or to protect, while
 scarcely less important than the preservation or rearrangement of
-territorial boundaries was that of precedence and etiquette generally,
+territorial boundaries was that of precedence and [[Etiquette|etiquette]] generally,
 over which an incredible amount of time was wasted. The _haute
 diplomatie_ thus resolved itself into a process of exalted haggling,
 conducted with an utter disregard of the ordinary standards of morality,
@@ -60,7 +60,7 @@ become stereotyped in the conventions of the diplomatic service; but the
 character of diplomacy itself has undergone a great change. This change
 is threefold: firstly, as the result of the greater sense of the
 community of interests among nations, which was one of the outcomes of
-the French Revolution; secondly, owing to the rise of democracy, with
+the [[French Revolution]]; secondly, owing to the rise of democracy, with
 its expression in parliamentary assemblies and in the press; thirdly,
 through the alteration in the position of the diplomatic agent, due to
 modern means of communication.
@@ -74,9 +74,9 @@ watching over the common interests of Europe, or of the world, was thus
 for the first time officially recognized as a function of diplomacy,
 since common action could only be taken as the result of diplomatic
 negotiations. It would be easy to exaggerate the effective results of
-this idea, even when it had crystallized in the Grand Alliance of 1814
-and been proclaimed to the world in the Holy Alliance of the 26th of
-September 1815 and the declaration of Aix-la-Chapelle. The cynical
+this idea, even when it had crystallized in the [[Grand Alliance]] of 1814
+and been proclaimed to the world in the [[Holy Alliance]] of the 26th of
+September 1815 and the [[Declaration|declaration]] of Aix-la-Chapelle. The cynical
 picture given by La Bruyère of the diplomatist of the 18th century still
 remained largely true: "His talk is only of peace, of alliances, of the
 public tranquillity, and of the public interests; in reality he is
@@ -91,7 +91,7 @@ imperial dreamer Alexander I. of Russia had his way, they would have
 been permanently established on the broad basis of the Holy Alliance,
 and would have included, not the great powers only, but representatives
 of every state (see ALEXANDER I. and EUROPE: _History_). Whatever the
-effective value of that "Concert of Europe" which was the outcome of the
+effective value of that "[[Concert]] of Europe" which was the outcome of the
 period of the congresses, it certainly produced a great effect on the
 spirit and the practice of diplomacy. In the congresses and conferences
 diplomacy assumes international functions both legislative and
@@ -105,11 +105,11 @@ Alexander's "Confederation of Europe"; yet, as one outcome of the
 congresses, every diplomatic agent, though he represents the interests
 of his own state, has behind him the whole body of the treaties which
 constitute the public law of the world, of which he is in some sort the
-interpreter and the guardian.
+interpreter and the [[Guardian|guardian]].
 
 Parallel with this development runs the second process making for
 change: the increasing responsibility of diplomacy to public opinion. To
-discuss all the momentous issues involved in this is impossible; but the
+[[Discus|discuss]] all the momentous issues involved in this is impossible; but the
 subject is too important to be altogether passed over, since it is one
 of the main problems of modern international intercourse, and concerns
 every one who by his vote may influence the policy of the state to which
@@ -127,7 +127,7 @@ autocracies of the east of Europe, free because they were under no
 obligation to give a public account of their actions. He himself was a
 master of the old diplomatic art, of intrigue, of veiling his purpose
 under a cloud of magniloquence, above all, of the art of personal
-fascination. But public opinion was for him only a dangerous force to be
+[[Fascination|fascination]]. But public opinion was for him only a dangerous force to be
 kept under control; and, even had he realized the necessity for
 appealing to it, he had none of the qualities that would have made the
 appeal successful. In direct antagonism to him was George Canning, who
@@ -144,7 +144,7 @@ in the union of the public sentiment with the public counsels; in the
 reciprocal confidence of the House of Commons and the crown."[2]
 
 It would be a mistake to jump to the conclusion that Canning was wholly
-right and Metternich wholly wrong. The conditions of the Habsburg
+right and Metternich wholly wrong. The conditions of the [[Habsburg]]
 monarchy were not those of Great Britain,[3] and even if it had been
 possible to speak of a public opinion in the Austrian empire at all, it
 certainly possessed no such organ as the British parliament. But the
@@ -157,13 +157,13 @@ information would be dried up were they to be lightly revealed; a plain
 exposition of policy would often give an undue advantage to the other
 party to a negotiation. Thus, even in Great Britain, the diplomatic
 correspondence laid before parliament is carefully edited, and all
-governments are jealous of granting access to their modern archives. Yet
+governments are jealous of granting access to their modern [[Archive|archives]]. Yet
 a representative assembly is apt to be resentful of such reservations.
 Its members know little or nothing of the conditions under which foreign
 affairs are conducted, and they are not unnaturally irritated by
 explanations which seem to lack candour or completeness. Canning himself
 had experience of this in the affair of the capture of the Danish fleet
-at Copenhagen; and Castlereagh's diplomacy was hampered by the bitter
+at [[Copenhagen]]; and Castlereagh's diplomacy was hampered by the bitter
 attacks of an opposition which accused him, with little justice, of
 pursuing a policy which he dared not reveal in its full scope to
 parliament. Moreover, the appeal to public opinion may be used as a
@@ -200,7 +200,7 @@ a new and peculiar importance; for he represents not only the sovereign
 to the sovereign, but the nation to the nation; and, as a succession of
 notable American ambassadors to Great Britain has proved, he may by his
 personal qualities do a large amount to remove the prejudices and
-ignorances which stand as a barrier between the nations. It marks an
+[[Ignorance|ignorances]] which stand as a barrier between the nations. It marks an
 immense advance in the comity of international intercourse when the
 representatives of friendly powers are no longer regarded as "spies
 rather than ambassadors," to be "quickly heard and dismissed," as
@@ -215,19 +215,19 @@ earlier theorists, and the demands they make are sufficiently alarming.
 Ottaviano Maggi, himself a diplomatist of the brilliant age of the
 Renaissance, has left us in his _De legato_ (Hanoviae, 1596) his idea of
 what an ambassador should be. He must not only be a good Christian but a
-learned theologian; he must be a philosopher, well versed in Aristotle
+learned theologian; he must be a philosopher, well versed in [[Aristotle]]
 and Plato, and able at a moment's notice to solve in correct dialectical
 form the most abstruse problems; he must be well read in the classics,
-and an expert in mathematics, architecture, music, physics and civil and
+and an [[Expert|expert]] in mathematics, architecture, music, physics and civil and
 canon law. He must not only know how to write and speak Latin with
 classical refinement, but he must be a master of Greek, Spanish, French,
-German and Turkish. He must have a sound knowledge of history, geography
+German and Turkish. He must have a sound knowledge of history, [[Geography|geography]]
 and the science of war; but at the same time is not to neglect the
-poets, and never to be without his Homer. Add to this that he must be
+poets, and never to be without his [[Homer]]. Add to this that he must be
 well born, rich and of a handsome presence, and we have a portrait of a
 diplomatist whose original can hardly have existed even in that age of
 brilliant versatility. The Dutchman Frederikus de Marselaer, in his
-[Greek: kêrukeion] _sive legationum insigne_ (Antwerp, 1618), is
+[Greek: kêrukeion] _sive legationum insigne_ ([[Antwerp]], 1618), is
 scarcely less exacting than the Venetian. His ideal ambassador is a
 nobleman of fine presence and in the prime of life, famous, rich,
 munificent, abstemious, not violent, nor quarrelsome, nor morose, no
@@ -243,7 +243,7 @@ than all the talents and virtues, and the princess of Zerbst (mother of
 the empress Catherine II.) wrote to Frederick of Prussia advising him to
 replace his elderly ambassador by a handsome young man with a good
 complexion; and the essential qualification for an ambassador to
-Switzerland, Germany, Poland, Denmark and Russia used to be that he
+Switzerland, Germany, Poland, [[Denmark]] and Russia used to be that he
 should be able to drink the native diplomatists, seasoned from babyhood
 to strong liquors, under the table.
 
@@ -253,7 +253,7 @@ struggle for the mastery;[4] in a narrower sense, with which the present
 article is alone concerned, it is that of the methods and spirit of
 diplomatic intercourse and of the character and status of diplomatic
 agents. Earlier writers on the office and functions of ambassadors, such
-as Gentilis or Archbishop Germonius, conscientiously trace their origin
+as [[Gentili|Gentilis]] or Archbishop Germonius, conscientiously trace their origin
 to God himself, who created the angels to be his legates; and they
 fortify their arguments by copious examples drawn from ancient history,
 sacred and profane. But, whatever the influence upon it of earlier
@@ -275,11 +275,11 @@ diplomacy; but in northern and central Italy feudalism had never taken
 root, and in the struggles of the peninsula diplomacy had early played a
 part as great as, or greater than, war. Where all were struggling for
 the mastery, the existence of each depended upon alliances and
-counter-alliances, of which the object was the maintenance of the
+counter-alliances, of which the object was the [[Maintenance|maintenance]] of the
 balance of power. In this school there was trained a notable succession
 of men of affairs. Thus, in the 13th and 14th centuries Florence counted
-among her envoys Dante, Petrarch and Boccaccio, and later on could boast
-of agents such as Capponi, Vettori, Guicciardini and Machiavelli. Papal
+among her envoys [[Dante]], Petrarch and [[Boccaccio]], and later on could boast
+of agents such as [[Capponi]], Vettori, [[Guicciardini]] and [[Machiavelli]]. Papal
 Rome, too, as was to be expected, had always been a fruitful
 nursing-mother of diplomatists; and some authorities have traced the
 beginnings of modern diplomacy to a conscious imitation of her legatine
@@ -289,10 +289,10 @@ It is, however, in Venice, that the origins of modern diplomacy are to
 be sought.[6] So early as the 13th century the republic, with a view to
 safeguarding the public interests, began to lay down a series of rules
 for the conduct of its ambassadors. Thus, in 1236, envoys to the court
-of Rome are forbidden to procure a benefice for anyone without leave of
+of Rome are forbidden to procure a [[Benefice|benefice]] for anyone without leave of
 the doge and little council; in 1268 ambassadors are commanded to
 surrender on their return any gifts they may have received, and by
-another decree they are compelled to take an oath to conduct affairs to
+another [[Decree|decree]] they are compelled to take an oath to conduct affairs to
 the honour and advantage of the republic. About the same time it was
 decided that diplomatic agents were to hand in, on their return, a
 written account of their mission; in 1288 this was somewhat expanded by
@@ -314,13 +314,13 @@ legislation of the republic is inspired. In the 13th century two or
 three months was considered over-long a period for an ambassador to
 reside at a foreign court; in the 15th century the period of residence
 was extended to two years, and in the 16th century to three. This latter
-rule continued till the end of the republic; the embassy had become
+rule continued till the end of the republic; the [[Embassy|embassy]] had become
 permanent, but the ambassador was changed every three years.
 
 The origin of the change from temporary to permanent missions has been
 the subject of much debate and controversy. The theory that it was due,
 in the first instance, to the evolution of the Venetian consulates
-(_bajulats_) in the Levant into permanent diplomatic posts, and that the
+(_bajulats_) in the [[Levant]] into permanent diplomatic posts, and that the
 idea was thence transferred to the West, is disproved by the fact that
 Venice had established other permanent embassies before the baylo (q.v.)
 at Constantinople was transformed into a diplomatic agent of the first
@@ -328,13 +328,13 @@ rank. Nor is the first known instance of the appointment of a permanent
 ambassador Venetian. The earliest record[8] is contained in the
 announcement by Francesco Sforza, duke of Milan, in 1455, of his
 intention to maintain a permanent embassy at Genoa[9]; and in 1460 the
-duke of Savoy sent Eusebio Margaria, archdeacon of Vercelli, as his
+duke of Savoy sent Eusebio Margaria, [[Archdeacon|archdeacon]] of Vercelli, as his
 permanent representative to the Curia.[10] Though, however, the early
 records of such appointments are rare, the practice was probably common
 among the Italian states. Its extension to countries outside Italy was a
 somewhat later development. In 1494 Milan is already represented in
 France by a permanent ambassador. In 1495 Zacharia Contarini, Venetian
-ambassador to the emperor Maximilian, is described by Sanuto (_Diarii_,
+ambassador to the emperor [[Maximilian]], is described by Sanuto (_Diarii_,
 i. 294) as _stato ambasciatore_; and from the time of Charles V.
 onwards the succession of ambassadors of the republic at the imperial
 court is fairly traceable. In 1496 "as the way to the British Isles is
@@ -355,9 +355,9 @@ century that permanent embassies were regarded as the norm. The
 precarious relations between the European powers during the 16th
 century, indeed, naturally retarded the development of the system. Thus
 it was not till after good relations had been established with France by
-the treaty of London that, in 1519, Sir Thomas Boleyn and Dr West were
+the treaty of London that, in 1519, Sir Thomas [[Boleyn]] and Dr West were
 sent to Paris as resident English ambassadors, and, after the renewed
-breach between the two countries, no others were appointed till the
+[[Breach|breach]] between the two countries, no others were appointed till the
 reign of Elizabeth. Nine years before, Sir Robert Wingfield, whose
 simplicity earned him the nickname of "Summer-shall-be-green," had been
 sent as ambassador to the court of Charles V., where he remained from
@@ -382,7 +382,7 @@ obvious convenience. But, while all the powers were agreed as to the
 convenience of maintaining such agencies abroad, all were equally agreed
 in viewing the representatives accredited to them by foreign states with
 extreme suspicion. This attitude was abundantly justified by the
-peculiar ethics of the new diplomacy. The old "orators" of the
+peculiar [[Ethics|ethics]] of the new diplomacy. The old "orators" of the
 Summer-shall-be-green type could not long hold their own against the new
 men who had studied in the school of Italian statecraft, for whom the
 end justified the means. Machiavelli had gathered in _The Prince_ and
@@ -396,14 +396,14 @@ was admitted in theory as well as in practice. Germonius, after a
 vigorous denunciation of lying in general, argues that it is permissible
 for the safety or convenience (_commodo_) of princes, since _salus
 populi suprema lex_, and _quod non permittit naturalis ratio, admittit
-civilis_; and he adduces in support of this principle the answer given
+[[Civilis|civilis]]_; and he adduces in support of this principle the answer given
 by Ulysses to Neoptolemus, in the _Ajax_ of Sophocles, and the examples
-of Abraham, Jacob and David. Paschalius, while affirming that an
+of Abraham, [[Jacob]] and David. Paschalius, while affirming that an
 ambassador must study to speak the truth, adds that he is not such a
 "rustic boor" as to say that an "official lie" (_officiosum mendacium_)
 is never to be employed, or to deny that an ambassador should be, on
 occasion, _splendide mendax_.[12] The situation is summed up in the
-famous definition of Sir Henry Wotton, which, though excused by himself
+famous [[Definition|definition]] of Sir Henry Wotton, which, though excused by himself
 as a jest, was held to be an indiscreet revelation of the truth: "An
 ambassador is an honest man sent to lie abroad for the good of his
 country."[13] The most successful liar, in fact, was esteemed the most
@@ -415,10 +415,10 @@ in the end, no diplomatist even expected to be believed; and the best
 way to deceive was--as Bismarck cynically avowed--to tell the truth.
 
 But, in addition to being a liar _ex officio_, the ambassador was also
-"an honourable spy." "The principal functions of an envoy," says
+"an [[Honourable|honourable]] spy." "The principal functions of an envoy," says
 Francois de Callières, himself an ex-ambassador of Louis XIV., "are two;
 the first is to look after the affairs of his own prince; the second is
-to discover the affairs of the other." A clever minister, he maintains,
+to discover the affairs of the other." A [[Clever|clever]] minister, he maintains,
 will know how to keep himself informed of all that goes on in the mind
 of the sovereign, in the councils of ministers or in the country; and
 for this end "good cheer and the warming effect of wine" are excellent
@@ -433,12 +433,12 @@ government of Venice had decreed the penalty of banishment and a heavy
 fine for any one who should talk of affairs of state with a foreign
 envoy, and though the more civilized princes did not follow the example
 of the sultan, who by way of precaution locked the ambassador of
-Ferdinand II., Jerome Laski, into "a dark and stinking place without
+[[Ferdinand]] II., Jerome Laski, into "a dark and stinking place without
 windows," they took the most minute precautions to prevent the
 ambassadors of friendly powers from penetrating into their secrets.
 Charles V. thought it safest to keep them as far away as possible from
 his court. So did Francis I.; and, when affairs were critical, he made
-his frequent changes of residence and his hunting expeditions the excuse
+his frequent changes of residence and his [[Hunting|hunting]] expeditions the excuse
 for escaping from their presence. Henry VII. forbade his subjects to
 hold any intercourse with them, and, later on, set spies upon them and
 examined their correspondence--a practice by no means confined to
@@ -446,18 +446,18 @@ England. If the system of permanent embassies survived, it is clear that
 this was mainly due to the belief of the sovereigns that they gained
 more by maintaining "honourable spies" at foreign courts than they lost
 by the presence of those of foreign courts at their own. It was purely a
-question of the balance of advantage. Neither among statesmen nor among
+question of the [[Balance|balance]] of advantage. Neither among statesmen nor among
 theorists was there any premonition of the great part to be played by
 the permanent diplomatic body in the development and maintenance of the
 concert of Europe. To Paschalius the permanent embassies were "a
-miserable outgrowth of a miserable age."[15] Grotius himself condemned
+miserable outgrowth of a miserable age."[15] [[Grotius]] himself condemned
 them as not only harmful, but useless, the proof of the latter being
 that they were unknown to antiquity.[16]
 
 _Development of the Diplomatic Hierarchy._--The history of the
 diplomatic body[17] is, like that of other bodies, that of the
 progressive differentiation of functions. The middle ages knew no
-classification of diplomatic agents; the person sent on mission is
+[[Classification|classification]] of diplomatic agents; the person sent on mission is
 described indifferently as _legatus_, _orator_, _nuntius_, _ablegatus_,
 _commissarius_, _procurator_, _mandatarius_, _agens_ or _ambaxator_
 (_ambassator_, &c.). In Gundissalvus, _De legato_ (1485), the oldest
@@ -499,16 +499,16 @@ exchequers were the rule rather than the exception in Europe; the
 records are full of pitiful appeals from ambassadors for arrears of pay,
 and appointment to an embassy often meant ruin, even to a man of
 substance. To give but one example, Sir Richard Morison, Edward VI.'s
-ambassador in Germany, had to borrow money to pay his debts before he
-could leave Augsburg (_Cal. State Pap. Edw. VI._, No. 467), and later on
-he writes from Hamburg (April 9, 1552) that he could buy nothing,
+ambassador in Germany, had to borrow money to pay his [[Debt|debts]] before he
+could leave [[Augsburg]] (_Cal. State Pap. Edw. VI._, No. 467), and later on
+he writes from [[Hamburg]] (April 9, 1552) that he could buy nothing,
 because everyone believed that he had packed up in readiness to flit
 secretly, for "How must they buy things, where men know their stuff is
 ready trussed up, and they fleeting every day?" (ib. No. 544). But the
-dignity of ambassador carried another drawback besides expense; his
+dignity of ambassador carried another [[Drawback|drawback]] besides expense; his
 function of "honourable spy" was seriously hampered by the trammels of
 his position. He was unable to move freely in society, but lived a
-ceremonial existence in the midst of a crowd of retainers, through whom
+ceremonial existence in the midst of a [[Crowd|crowd]] of retainers, through whom
 alone it was proper for him to communicate with the world outside. It
 followed that, though the office of ambassador was more dignified, that
 of agent was more generally useful.
@@ -551,7 +551,7 @@ defined dignity, despatched with full powers to treat and conclude.
 Finally, the evolution of the title of a diplomatist of the second rank
 is crowned by the high-sounding combination, now almost exclusively
 used, of "envoy extraordinary and minister plenipotentiary." The
-ultimate fate of the simple title "resident" was the same as that of
+ultimate [[Fate|fate]] of the simple title "resident" was the same as that of
 "agent." Both had been freely sold by needy sovereigns to all and sundry
 who were prepared to pay for what gave them a certain social status. The
 "agent" fell thus into utter discredit, and those "residents" who were
@@ -599,14 +599,14 @@ easily be made the subject of arrangement. In certain cases, e.g.
 embassies in Turkey, the exterritoriality of ambassadors implies a
 fairly extensive criminal jurisdiction; in other cases the dismissal of
 the servant would deprive him of his diplomatic immunity and bring him
-under the law of the land. The right of granting asylum claimed by
+under the law of the land. The right of granting [[Asylum|asylum]] claimed by
 diplomatic agents in virtue of that of exterritoriality, at one time
 much abused, is now strictly limited. A political or criminal offender
 may seek asylum in a foreign embassy; but if, after a request has been
 formally made for his surrender, the ambassador refuses to deliver him
 up, the authorities may take the measures necessary to effect his
-arrest, and even force an entrance into the embassy for the purpose. The
-"right of chapel" (_droit de chapelle_, or _droit de culte_), enjoyed by
+[[Arrest|arrest]], and even force an entrance into the embassy for the purpose. The
+"right of chapel" (_[[Droit|droit]] de chapelle_, or _droit de culte_), enjoyed by
 envoys in reference to their exterritoriality, i.e. the right of free
 exercise of religious worship within their house, formerly of great
 importance, has been rendered superfluous by the spread of religious
@@ -614,9 +614,9 @@ toleration. (See L. Oppenheim, _Internat. Law_ (London, 1905), i. p. 441,
 &c.; A.W. Haffter, _Das europäische Völkerrecht_ (Berlin, 1888), p. 435,
 &c.)
 
-_The Personnel of the "Corps diplomatique."_--The establishment of
+_The Personnel of the "[[Corps]] diplomatique."_--The establishment of
 diplomacy as a regular branch of the civil service is of modern growth,
-and even now by no means universal. From old time states naturally chose
+and even now by no means universal. From old time states naturally [[Chose|chose]]
 as their agents those who would best serve their interests in the matter
 in hand. In the middle ages diplomacy was practically a monopoly of the
 clergy, who as a class alone possessed the necessary qualifications: and
@@ -631,10 +631,10 @@ clerical ministers, partly as a great secret service fund for bribing
 the ambassadors of other powers, partly for the payment of those
 high-placed spies at foreign courts maintained by the elaborately
 organized system known as the _Secret du Roi_.[22] None the less, in
-the 16th century, laymen as diplomats are already well in evidence. They
+the 16th century, [[Laymen|laymen]] as diplomats are already well in evidence. They
 are usually lawyers, rarely soldiers, occasionally even simple
 merchants. Not uncommonly they were foreigners, like the Italian Thomas
-Spinelly mentioned above, drawn from that cosmopolitan class of
+Spinelly mentioned above, drawn from that [[Cosmopolitan|cosmopolitan]] class of
 diplomats who were ready to serve any master. Though nobles were often
 employed as ambassadors by all the powers, Venice alone made nobility a
 condition of diplomatic service. They were professional in the sense
@@ -652,12 +652,12 @@ the fashion, made it desirable that diplomatic agents should be
 courtiers, and young men of rank about the court began to be attached to
 missions for the express purpose of teaching them the art of diplomacy.
 Thus arose that aristocratic diplomatic class, distinguished by the
-exquisite refinement of its manners, which survived from the 18th
+exquisite refinement of its [[Manners|manners]], which survived from the 18th
 century into the 19th. Modern democracy has tended to break with this
 tradition, but it still widely prevails. Even in Great Britain, where
 the rest of the public services have been thrown open to all classes, a
 certain social position is still demanded for candidates for the
-diplomatic service and the foreign office, and in addition to passing a
+diplomatic service and the [[Foreign Office|foreign office]], and in addition to passing a
 competitive examination, they must be nominated by someone of recognized
 station prepared to vouch for their social qualifications. In America,
 where no regular diplomatic service exists, all diplomatic agents are
@@ -674,18 +674,18 @@ it is impossible to criticize the wisdom of its occasional application.
 A word may be added as to the part played by women in diplomacy. So far
 as their unofficial influence upon it is concerned, it would be
 impossible to exaggerate its importance; it would suffice to mention
-three names taken at random from the annals of the 19th century, Madame
+three names taken at random from the [[Annals|annals]] of the 19th century, Madame
 de Staël, Baroness von Krüdener, and Princess Lieven. Gentz comments on
 the "feminine intrigues" that darkened the counsels of the congresses of
 Vienna and Aix-la-Chapelle, and from which the powers so happily escaped
 in the bachelor seclusion of Troppau. Nor is it to be supposed that
 statesmen will ever renounce a diplomatic weapon so easy of disguise and
-so potent for use. A brilliant _salon_ presided over by a woman of charm
+so potent for use. A brilliant _salon_ presided over by a woman of [[Charm|charm]]
 may be a most valuable centre of a political propaganda; and ladies are
 still widely employed in the secret diplomacy of the powers. Their
 employment as regularly accredited diplomatic agents, however, though
 not unknown, has been extremely rare. An interesting instance is the
-appointment of Catherine of Aragon, when princess of Wales, as
+appointment of [[Catherine Of Aragon|Catherine of Aragon]], when princess of Wales, as
 representative of her father, Ferdinand the Catholic, at the court of
 Henry VII. (G. A. Bergenroth, _Calendar of State Papers ... England and
 Spain--in the Archives at Simancas, &c._, i. pp. xxxiii, cxix).
@@ -697,7 +697,7 @@ Spain--in the Archives at Simancas, &c._, i. pp. xxxiii, cxix).
   Villadiego), professor of law at Salamanca, auditor for Spain at the
   Roman court of the Rota, and bishop of Oviedo; but the first really
   systematic writer on the subject was Albericus Gentilis, _De
-  legationibus libri iii_. (London, 1583, 1585, Hanover, 1596, 1607,
+  legationibus libri iii_. (London, 1583, 1585, [[Hanover]], 1596, 1607,
   1612). For a full bibliography of works on ambassadors see Baron
   Diedrich H. L. von Ompteda, _Litteratur des gesammten sowohl
   natürlichen als positiven Völkerrechts_ (Regensburg, 1785), p. 534,
@@ -719,8 +719,8 @@ Spain--in the Archives at Simancas, &c._, i. pp. xxxiii, cxix).
   admirably illustrating in detail the early developments of modern
   diplomacy, Logan Pearsall Smith's _Life and Letters of Sir Henry
   Wotton_ (Oxford, 1907). Of works on modern diplomacy the most
-  important are the _Guide diplomatique_ of Baron Charles de Martens,
-  new edition revised by F. H. Geffcken, 2 vols. (Leipzig, 1866), and P.
+  important are the _Guide diplomatique_ of Baron Charles de [[Martens]],
+  new edition revised by F. H. [[Geffcken]], 2 vols. (Leipzig, 1866), and P.
   Pradier-Fodéré, _Cours de droit diplomatique_, 2 vols. (Paris, 1881).
        (W. A. P.)
 
@@ -737,7 +737,7 @@ FOOTNOTES:
   [4] e.g. _A History of Diplomacy in the International Development of
     Europe_, by D. J. Hill (London and New York, 1905).
 
-  [5] For this see Hinschius, _Kirchenrecht_, i. p. 498.
+  [5] For this see [[Hinschius]], _Kirchenrecht_, i. p. 498.
 
   [6] The Venetians, however, in their turn, doubtless learned their
     diplomacy originally from the Byzantines, with whom their trade
@@ -754,7 +754,7 @@ FOOTNOTES:
     Constantinople. They were established by Pope Leo I., and continued
     until the Iconoclastic controversy broke the intimate ties between
     East and West. See Luxardo, _Das vordekretalische Gesandtschaftsrecht
-    der Päpste_ (Innsbruck, 1878); also Hinschius, _Kirchenrecht_, i.
+    der Päpste_ ([[Innsbruck]], 1878); also Hinschius, _Kirchenrecht_, i.
     501.
 
   [9] N. Bianchi, _Le Materie politiche relative all' estero degli
@@ -769,9 +769,9 @@ FOOTNOTES:
   [12] Germonius, _De legatis principum et populorum libri tres_ (Rome,
     1627), chap. vi. p. 164; Paschalius, _Legatus_ (Rouen, 1598), p. 302.
     Étienne Dolet, who had been secretary to Cardinal Jean du Bellay, and
-    was burned for atheism in 1546, in his _De officio legati_ (1541)
+    was burned for [[Atheism|atheism]] in 1546, in his _De officio legati_ (1541)
     advises ambassadors to surround themselves with taciturn servants, to
-    employ vigilant spies, and to set afoot all manner of fictions,
+    employ vigilant spies, and to set afoot all manner of [[Fictions|fictions]],
     especially when negotiating with the court of Rome or with the
     Italian princes.
 
@@ -789,17 +789,17 @@ FOOTNOTES:
     virtutis, foecunda fraudis haec saecula video peperisse spissata haec
     imperia, sive summas potestates, unde, ut e vomitariis, hae legationes
     undatim se fundunt." Paschalius, _Legatus_ (1598), p. 447. So too
-    Félix de la Mothe Le Vayer (1547-1625), in his _Legatus_ (Paris,
+    Félix de [[La Mothe Le Vayer|la Mothe Le Vayer]] (1547-1625), in his _Legatus_ (Paris,
     1579), says "Legatos tunc primum aut non multum post institutos fuisse
     cum Pandora malorum omnium semina in hunc mundum ... demisit."
 
-  [16] _De jure belli et pacis_ (Amsterdam, 1621), ii. c. 18, § 3, n. 2.
+  [16] _De jure [[Belli|belli]] et pacis_ (Amsterdam, 1621), ii. c. 18, § 3, n. 2.
 
   [17] The term _corps diplomatique_ originated about the middle of the
-    18th century. "The Chancellor Furst," says Ranke (xxx. 47, note),
+    18th century. "The Chancellor [[Furst]]," says Ranke (xxx. 47, note),
     "does not use it as yet in his report (1754) but he knows it," and it
     would appear that it had just been invented at Vienna. "Corps
-    diplomatique, nom qu'une dame donna un jour à ce corps nombreux de
+    diplomatique, nom qu'une [[Dame|dame]] donna un jour à ce corps nombreux de
     ministres étrangers à Vienne."
 
   [18] So too Pradier-Fodéré, vol. i. p. 262.
@@ -828,7 +828,7 @@ FOOTNOTES:
   [23] A. O. Meyer, p. 22.
 
   [24] See the amusing account of the methods of these agents in
-    Morysine to Cecil (January 23, 1551-1552), _Cal. State Pap. Edw.
+    Morysine to [[Cecil]] (January 23, 1551-1552), _Cal. State Pap. Edw.
     VI._, No. 530.
 
 ## See also

@@ -9,7 +9,7 @@ topic: classics
 HOBHOUSE, ARTHUR HOBHOUSE, 1ST BARON (1819-1904), English judge, fourth
 son of Henry Hobhouse, permanent under-secretary of state in the Home
 Office, was born at Hadspen, Somerset, on the 10th of November 1819.
-Educated at Eton and Balliol, he was called to the bar at Lincoln's Inn
+Educated at [[Eton]] and Balliol, he was called to the bar at Lincoln's Inn
 in 1845, and rapidly acquired a large practice as a conveyancer and
 equity draftsman; he became Q.C. in 1862, and practised in the Rolls
 Court, retiring in 1866. He was an active member of the charity
@@ -20,7 +20,7 @@ services being acknowledged by a K.C.S.I.; and in 1881 he was appointed
 a member of the judicial committee of the privy council, on which he
 served for twenty years. He was made a peer in 1885, and consistently
 supported the Liberal party in the House of Lords. He died on the 6th of
-December 1904, leaving no heir to the barony.
+December 1904, leaving no heir to the [[Barony|barony]].
 
   His papers read before the Social Science Association on the subject
   of property were collected in 1880 under the title of _The Dead Hand_.

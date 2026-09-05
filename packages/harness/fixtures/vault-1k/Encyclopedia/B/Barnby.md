@@ -16,7 +16,7 @@ forty-six hymn-tunes (published in 1897 in one volume), as well as some
 part-songs (among them the popular "Sweet and Low"), and some pieces for
 the organ. As a conductor he possessed the qualities as well as the defects
 of the typical north-countryman; if he was wanting in the higher kind of
-imagination or ideality, he infused into those who sang under him something
+[[Imagination|imagination]] or ideality, he infused into those who sang under him something
 of his own rectitude and precision. He was largely instrumental in
 stimulating the love for Gounod's sacred music among the less educated part
 of the London public, although he displayed little practical sympathy with

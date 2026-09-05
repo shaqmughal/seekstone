@@ -1,23 +1,23 @@
 # Champagne
 
 CHAMPAGNE, an ancient province of the kingdom of France, bounded N. by
-Liege and Luxemburg; E. by Lorraine; S. by Burgundy; and W. by Picardy
-and Isle de France. It now forms the departments of Ardennes, Marne,
-Aube and Haute Marne, with part of Aisne, Seine-et-Marne, Yonne and
-Meuse. Its name--in Latin Campania, "country of plains"--is derived from
+[[Liege]] and Luxemburg; E. by [[Lorraine]]; S. by Burgundy; and W. by Picardy
+and Isle de France. It now forms the departments of [[Ardennes]], [[Marne]],
+[[Aube]] and Haute Marne, with part of Aisne, Seine-et-Marne, Yonne and
+Meuse. Its name--in Latin [[Campania]], "country of plains"--is derived from
 the immense plains near Reims, Chalons and Troyes. It was constituted
 towards the end of the middle ages by joining to the countship of
-Champagne the ecclesiastical duchies of Reims and Langres, together with
+Champagne the ecclesiastical duchies of Reims and [[Langres]], together with
 the ecclesiastical countship of Chalons. Documents of the 12th and 13th
 centuries make it possible to determine the territorial configuration of
 the countship of Champagne with greater accuracy than in the case of any
 other fief of the crown of France. Formed at random by the acquisitions
-of the counts of the houses of Vermandois and Blois, Champagne reckoned
+of the counts of the houses of Vermandois and [[Blois]], Champagne reckoned
 among its dependencies, from 1152 to 1234, the countship of Blois and
 Chartres, of which Touraine was a fief, the countship of Sancerre, and
 various scattered fiefs in the Bourbonnais and in Burgundy. Officially
 called the "countship of Champagne and Brie" since 1217, this state was
-formed by the union of the countships of Troyes and Meaux, to which the
+formed by the union of the countships of Troyes and [[Meaux]], to which the
 greater part of the districts embraced in the country known, since the
 beginning of the middle ages, by the name of Champagne and Brie came in
 course of time to be attached. Placed under the authority of a single
@@ -35,7 +35,7 @@ where he received the castle of Aumale. He took part in 1066 in the
 conquest of England, and became earl of Holderness. About 1063 Theobald
 (Thibaud) I., count of Blois and Meaux, eldest son of Odo I., became
 count of Champagne. In 1077 he seized the countships of Vitry and
-Bar-sur-Aube, left vacant by Simon of Valois, who had retired to a
+[[Bar-Sur-Aube|Bar-sur-Aube]], left vacant by Simon of Valois, who had retired to a
 monastery. In 1089 Odo III., second son of Theobald II., became count,
 and was succeeded about 1093 by his younger brother, Hugh, who became a
 templar in 1125, and gave up the countship to his suzerain, the count of
@@ -45,7 +45,7 @@ French barons of his time. He was related to the royal house of England,
 and incurred the displeasure of the king of France, who in 1142 invaded
 Champagne and burnt the town of Vitry. After Theobald the Great the
 countship of Blois ceased to be the dominant fief of his house and
-became the appanage of a younger branch. In 1152 Henry the Liberal,
+became the [[Appanage|appanage]] of a younger branch. In 1152 Henry the Liberal,
 eldest son of Theobald II., became count of Champagne; he married Mary,
 daughter of Louis VII. of France, and went to the crusade in 1178. He
 was taken prisoner by the Turks, recovered his liberty through the good
@@ -62,9 +62,9 @@ of Navarre, and was born some days after the death of his father. From
 Champagne with great sagacity. The reign of this prince was singularly
 eventful. The two daughters of count Henry II. successively claimed the
 countship, so that Theobald had to combat the claims of Philippa, wife
-of Erard of Brienne, seigneur of Rameru, from 1216 to 1222, and those of
-Alix, queen dowager of Cyprus, in 1233 and 1234. In 1226 he followed
-king Louis VII. to the siege of Avignon, and after the death of that
+of [[Erard]] of Brienne, seigneur of Rameru, from 1216 to 1222, and those of
+Alix, queen [[Dowager|dowager]] of [[Cyprus]], in 1233 and 1234. In 1226 he followed
+king Louis VII. to the siege of [[Avignon]], and after the death of that
 monarch played a prominent part during the reign of St Louis. At first
 leagued with the malcontent barons, he allowed himself to be gained over
 by the queen-mother, and thus came into collision with his old allies.
@@ -79,7 +79,7 @@ on the 14th of July 1254 at Pampeluna. If the author of the _Grandes
 chroniques de France_ can be believed, Theobald IV. conceived a passion
 for Queen Blanche, the mother of St Louis,--a passion which she
 returned, and which explains the changes in his policy; but this opinion
-apparently must be relegated to the category of historical fables. The
+apparently must be relegated to the [[Category|category]] of historical fables. The
 witty and courtly songs he composed place him in the front rank of the
 poets of that class, in which he showed somewhat more originality than
 his rivals. In 1254 Theobald V. the Young, eldest son of Theobald IV.
@@ -88,8 +88,8 @@ married Isabelle of France, daughter of St Louis, and followed his
 father-in-law to Tunis to the crusade, dying on his return. In 1270 he
 was succeeded by Henry III. the Fat, king of Navarre. Henry was
 succeeded in 1274 by his only daughter, Joan of Navarre, under the
-tutelage of her mother, Blanche of Artois, and afterwards of Edmund,
-earl of Lancaster, her mother's second husband. In 1284 she married the
+tutelage of her mother, Blanche of [[Artois]], and afterwards of Edmund,
+earl of [[Lancaster]], her mother's second husband. In 1284 she married the
 heir-presumptive to the throne of France, Philip the Fair, to whom she
 brought the countship of Champagne as well as the kingdom of Navarre.
 She became queen of France in 1285, and died on the 4th of April 1305,
@@ -108,15 +108,15 @@ to Provins and from Provins to Troyes, to complete the year. It was, in
 fact, a perpetual fair, which had at once unity and variety, offering to
 the different parts of the countship the means of selling successively
 the special productions of their soil or their industry, and of
-procuring in exchange riches and comforts. These fairs had special
-legislation; and special magistrates, called "masters of the fairs," had
+procuring in [[Exchange|exchange]] riches and comforts. These fairs had special
+legislation; and special [[Magistrate|magistrates]], called "masters of the fairs," had
 control of the police.
 
   For the wine "champagne" see WINE.
 
   AUTHORITIES.--H. d'Arbois de Jubainville, _Histoire des ducs et des
   comtes de Champagne_ (1859-1866); A. Longnon, _Documents relatifs au
-  comte de Champagne et de Brie_ (1901 seq.; vol. i. with map); F.
+  comte de Champagne et de Brie_ (1901 seq.; vol. i. with [[Map|map]]); F.
   Bourquelot, _Etudes sur les foires de Champagne_ (1865).     (A. Lo.)
 
 ## See also

@@ -1,10 +1,10 @@
 # Graham
 
-GRAHAM, THOMAS (1805-1869), British chemist, born at Glasgow on the 20th
+GRAHAM, THOMAS (1805-1869), British chemist, born at [[Glasgow]] on the 20th
 of December 1805, was the son of a merchant of that city. In 1819 he
 entered the university of Glasgow with the intention of becoming a
 minister of the Established Church. But under the influence of Thomas
-Thomson (1773-1852), the professor of chemistry, he developed a taste
+Thomson (1773-1852), the professor of [[Chemistry|chemistry]], he developed a taste
 for experimental science and especially for molecular physics, a subject
 which formed his main preoccupation throughout his life. After
 graduating in 1824, he spent two years in the laboratory of Professor T.
@@ -14,17 +14,17 @@ was appointed lecturer in the Mechanics' Institute. In 1830 he succeeded
 Dr Andrew Ure (1778-1857) as professor of chemistry in the Andersonian
 Institution, and in 1837, on the death of Dr Edward Turner, he was
 transferred to the chair of chemistry in University College, London.
-There he remained till 1855, when he succeeded Sir John Herschel as
+There he remained till 1855, when he succeeded Sir John [[Herschel]] as
 Master of the Mint, a post he held until his death on the 16th of
 September 1869. The onerous duties his work at the Mint entailed
 severely tried his energies, and in quitting a purely scientific career
-he was subjected to the cares of official life, for which he was not
+he was subjected to the [[Car|cares]] of official life, for which he was not
 fitted by temperament. The researches, however, which he conducted
 between 1861 and 1869 were as brilliant as any of those in which he
-engaged. Graham was elected a fellow of the Royal Society in 1836, and a
+engaged. Graham was elected a [[Fellow|fellow]] of the Royal Society in 1836, and a
 corresponding member of the Institute of France in 1847, while Oxford
 made him a D. C. L. in 1855. He took a leading part in the foundation of
-the London Chemical and the Cavendish societies, and served as first
+the London Chemical and the [[Cavendish]] societies, and served as first
 president of both, in 1841 and 1846. Towards the close of his life the
 presidency of the Royal Society was offered him, but his failing health
 caused him to decline the honour.
@@ -34,7 +34,7 @@ simplicity of the methods employed obtaining most important results. He
 communicated papers to the Philosophical Society of Glasgow before the
 work of that society was recorded in _Transactions_, but his first
 published paper, "On the Absorption of Gases by Liquids," appeared in
-the _Annals of Philosophy_ for 1826. The subject with which his name is
+the _[[Annals]] of Philosophy_ for 1826. The subject with which his name is
 most prominently associated is the diffusion of gases. In his first
 paper on this subject (1829) he thus summarizes the knowledge experiment
 had afforded as to the laws which regulate the movement of gases.
@@ -53,7 +53,7 @@ through fine tubes, and by effusion through a minute hole in a platinum
 disk, and was enabled to show that gas may enter a vacuum in three
 different ways: (1) by the molecular movement of diffusion, in virtue of
 which a gas penetrates through the pores of a disk of compressed
-graphite; (2) by effusion through an orifice of sensible dimensions in a
+[[Graphite|graphite]]; (2) by effusion through an orifice of sensible [[Dimension|dimensions]] in a
 platinum disk the relative times of the effusion of gases in mass being
 similar to those of the molecular diffusion, although a gas is usually
 carried by the former kind of impulse with a velocity many thousand
@@ -102,7 +102,7 @@ different conditions of movement.
   Graham's _Elements of Chemistry_, first published in 1833, went
   through several editions, and appeared also in German, remodelled
   under J. Otto's direction. His _Chemical and Physical Researches_ were
-  collected by Dr James Young and Dr Angus Smith, and printed "for
+  collected by Dr James Young and Dr [[Angus]] Smith, and printed "for
   presentation only" at Edinburgh in 1876, Dr Smith contributing to the
   volume a valuable preface and analysis of its contents. See also T. E.
   Thorpe, _Essays in Historical Chemistry_ (1902).

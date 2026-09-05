@@ -30,7 +30,7 @@ preachers almost from the beginning of the movement, and that soon after
 this time he definitely joined the Reformed Church. In 1526 he entered
 into possession of his father's printing establishment, and adopted as
 his device the celebrated olive-tree (a reminiscence doubtless of his
-grandmother's family of Montolivet), with the motto from the epistle to
+grandmother's family of Montolivet), with the motto from the [[Epistle|epistle]] to
 the Romans (xi. 20), _Noli altum sapere_, sometimes with the addition
 _sed time_. In 1528 he married Perrette, a daughter of the scholar and
 printer Josse Bade (Jodocus Badius), and in the same year he published
@@ -56,7 +56,7 @@ mirificam_ (1546), while with the largest size was printed the
 magnificent folio of 1550. This edition involved the printer in fresh
 disputes with the faculty of theology, and towards the end of the
 following year he left his native town for ever, and took refuge at
-Geneva, where he published in 1552 a caustic and effective answer to his
+[[Geneva]], where he published in 1552 a caustic and effective answer to his
 persecutors under the title _Ad censuras theologorum Parisiensium,
 quibus Biblia a R. Stephano, Typographo Regio, ex usa calumniose
 notarunt, eiusdem R. S. responsio_. A French translation, which is
@@ -69,7 +69,7 @@ September 1559.
   It is by his work in connexion with the Bible, and especially as an
   editor of the New Testament, that he is on the whole best known. The
   text of his New Testament of 1550, either in its original form or in
-  such slightly modified form as it assumed in the Elzevir text of 1634,
+  such slightly modified form as it assumed in the [[Elzevir]] text of 1634,
   remains to this day the traditional text. But this is due rather to
   its typographical beauty than to any critical merit. The readings of
   the fifteen MSS. which Robert's son Henri had collated for the purpose
@@ -85,7 +85,7 @@ September 1559.
   the _Praeparatio evangelica_ and the _Demonstratio evangelica_ as well
   as the _Historia ecclesiastica_ already mentioned (1544-1546),
   _Moschopulus_ (1545), _Dionysius of Halicarnassus_ (February 1547),
-  _Alexander Trallianus_ (January 1548), _Dio Cassius_ (January 1548),
+  _Alexander Trallianus_ (January 1548), _Dio [[Cassius]]_ (January 1548),
   _Justin Martyr_ (1551), _Xiphilinus_ (1551), _Appian_ (1551), the last
   being completed, after Robert's departure from Paris, by his brother
   Charles, and appearing under his name. These editions, all in folio,
@@ -94,7 +94,7 @@ September 1559.
   perhaps the folio _Virgil_ of 1532 is the most noteworthy, and a large
   quantity of Latin grammars and other educational works, many of which
   were written by Maturin Cordier, his friend and co-worker in the cause
-  of humanism.
+  of [[Humanism|humanism]].
 
 CHARLES ESTIENNE (1504 or 1505-1564), the third son of Henri, was, like
 his brother Robert, a man of considerable learning. After the usual
@@ -118,7 +118,7 @@ and he is said to have died in a debtors' prison.
   of Ortensio Landi.
 
 HENRI ESTIENNE (1531-1598), sometimes called Henri II., was the eldest
-son of Robert. In the preface to his edition of Aulus Gellius (1585),
+son of Robert. In the preface to his edition of Aulus [[Gellius]] (1585),
 addressed to his son Paul, he gives an interesting account of his
 father's household, in which, owing to the various nationalities of
 those who were employed on the press, Latin was used as a common
@@ -129,7 +129,7 @@ Greek scholar in France. Two years later he began to attend the lectures
 of Jacques Toussain, one of the royal professors of Greek, and in the
 same year (1545) was employed by his father to collate a MS. of
 Dionysius of Halicarnassus. In 1547 he went to Italy, where he spent
-three years in hunting for and collating MSS. and in intercourse with
+three years in [[Hunting|hunting]] for and collating MSS. and in intercourse with
 learned men. In 1550 he visited England, where he was favourably
 received by Edward VI., and then Flanders, where he learnt Spanish. In
 1551 he joined his father at Geneva, which henceforth became his home.
@@ -150,11 +150,11 @@ French work, the _Apologie pour Herodote_, or, as he himself called it,
 _L'Introduction au traite de la conformite des merveilles anciennes avec
 les modernes ou Traite preparatif a l'Apologie pour Herodote_. Some
 passages being considered objectionable by the Geneva consistory, he was
-compelled to cancel the pages containing them. The book became highly
+compelled to [[Cancel|cancel]] the pages containing them. The book became highly
 popular, and within sixteen years twelve editions were printed. In 1572
 he published the great work upon which he had been labouring for many
 years, the _Thesaurus Graecae linguae_, in 5 vols. fol. The publication
-in 1578 of his _Deux Dialogues du nouveau francois ilalianize_ brought
+in 1578 of his _Deux [[Dialogue|Dialogues]] du nouveau francois ilalianize_ brought
 him into a fresh dispute with the consistory. To avoid their censure he
 went to Paris, and resided at the French court for a year. On his return
 to Geneva he was summoned before the consistory, and, proving
@@ -166,12 +166,12 @@ sums which he had spent on such publications as the _Thesaurus_ and the
 _Plato_ of 1578 had almost ruined him. His press stood nearly at a
 standstill. A few editions of classical authors were brought out, but
 each successive one showed a falling off. Such value as the later ones
-had was chiefly due to the notes furnished by Casaubon, who in 1586 had
+had was chiefly due to the notes furnished by [[Casaubon]], who in 1586 had
 married his daughter Florence. His last years were marked by
 ever-increasing infirmity of mind and temper. In 1597 he left Geneva for
 the last time. After visiting Montpellier, where Casaubon was now
 professor, he started for Paris, but was seized with sudden illness at
-Lyons, and died there at the end of January 1598.
+[[Lyons]], and died there at the end of January 1598.
 
   Few men have ever served the cause of learning more devotedly. For
   over thirty years the amount which he produced, whether as printer,
@@ -208,7 +208,7 @@ Lyons, and died there at the end of January 1598.
   considerable assistance from the German scholar Sylburg, he is still
   entitled to the very highest praise as the producer of a work which
   was of the greatest service to scholarship and which in those early
-  days of Greek learning could have been produced by no one but a giant.
+  days of Greek learning could have been produced by no one but a [[Giant|giant]].
   Two editions of the _Thesaurus_ were published in the 19th century--at
   London by Valpy (1815-1825) and at Paris by Didot (1831-1863).
 
@@ -240,7 +240,7 @@ Lyons, and died there at the end of January 1598.
   writer's own multifarious experience, with which it is packed, make it
   an interesting commentary on the manners and fashions of the time. But
   satire, to be effective, should be either humorous or righteously
-  indignant, and, while such humour as there is in the _Apologie_ is
+  indignant, and, while such [[Humour|humour]] as there is in the _Apologie_ is
   decidedly heavy, the writer's indignation is generally forgotten in
   his evident relish for scandal. The style is, after all, its chief
   merit. Though it bears evident traces of hurry, it is, like that of
@@ -258,7 +258,7 @@ Lyons, and died there at the end of January 1598.
   worthy of notice are the _De Latinitate falso suspecta_ (1576), the
   _Pseudo-Cicero_ (1577) and the _Nizoliodidascalus_ (1578), all three
   written against the Ciceronians, and the _Francofordiense Emporium_
-  (1574), a panegyric on the Frankfort fair (reprinted with a French
+  (1574), a panegyric on the [[Frankfort]] fair (reprinted with a French
   translation by Liseux, 1875). He also wrote a large quantity of
   indifferent Latin verses, including a long poem entitled _Musa
   monitrix Principum_ (Basel, 1590).

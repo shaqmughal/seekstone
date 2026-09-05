@@ -13,7 +13,7 @@ green colour, belonging to at least two distinct species, one termed
 nephrite and the other jadeite. Whilst the term jade is popularly used
 in this sense, it is now usually restricted by mineralogists to
 nephrite. The word jade[1] is derived (through Fr. _le jade_ for
-_l'ejade_) from Span. _ijada_ (Lat. _ilia_), the loins, this mineral
+_l'ejade_) from Span. _ijada_ (Lat. _ilia_), the [[Loin|loins]], this mineral
 having been known to the Spanish conquerors of Mexico and Peru under the
 name of _piedra de ijada_ or _yjada_ (colic stone). The reputed value of
 the stone in renal diseases is also suggested by the term nephrite (so
@@ -24,34 +24,34 @@ Jade, in its wide and popular sense, has always been highly prized by
 the Chinese, who not only believe in its medicinal value but regard it
 as the symbol of virtue. It is known, with other ornamental stones,
 under the name of _yu_ or _yu-chi_ (yu-stone). According to Professor H.
-A. Giles, it occupies in China the highest place as a jewel, and is
+A. [[Giles]], it occupies in China the highest place as a [[Jewel|jewel]], and is
 revered as "the quintessence of heaven and earth." Notwithstanding its
 toughness or tenacity, due to a dense fibrous structure, it is wrought
 into complicated forms and elaborately carved. On many prehistoric
-sites in Europe, as in the Swiss lake-dwellings, celts and other carved
+sites in Europe, as in the Swiss lake-dwellings, [[Celt|celts]] and other carved
 objects both in nephrite and in jadeite have not infrequently been
 found; and as no kind of jade had until recent years been discovered _in
 situ_ in any European locality it was held, especially by Professor L.
-H. Fischer, of Freiburg im Breisgau, Baden, that either the raw material
+H. Fischer, of [[Freiburg]] im [[Breisgau]], Baden, that either the raw material
 or the worked objects must have been brought by some of the early
 inhabitants from a jade locality probably in the East, or were obtained
-by barter, thus suggesting a very early trade-route to the Orient.
+by [[Barter|barter]], thus suggesting a very early trade-route to the Orient.
 Exceptional interest, therefore, attached to the discovery of jade in
 Europe, nephrite having been found in Silesia, and jadeite or a similar
 rock in the Alps, whilst pebbles of jade have been obtained from many
 localities in Austria and north Germany, in the latter case probably
 derived from Sweden. It is, therefore, no longer necessary to assign the
-old jade implements to an exotic origin. Dr A. B. Meyer, of Dresden,
+old jade [[Implement|implements]] to an [[Exotic|exotic]] origin. Dr A. B. Meyer, of [[Dresden]],
 always maintained that the European jade objects were indigenous, and
 his views have become generally accepted. Now that the mineral
-characters of jade are better understood, and its identification less
+characters of jade are better understood, and its [[Identification|identification]] less
 uncertain, it may possibly be found with altered peridotites, or with
 amphibolites, among the old crystalline schists of many localities.
 
   Nephrite, or true jade, may be regarded as a finely fibrous or compact
   variety of amphibole, referred either to actinolite or to tremolite,
   according as its colour inclines to green or white. Chemically it is a
-  calcium-magnesium silicate, CaMg3(SiO3)4. The fibres are either more
+  calcium-magnesium silicate, CaMg3(SiO3)4. The [[Fibres|fibres]] are either more
   or less parallel or irregularly felted together, rendering the stone
   excessively tough; yet its hardness is not great, being only about 6
   or 6.5. The mineral sometimes tends to become schistose, breaking with
@@ -59,19 +59,19 @@ amphibolites, among the old crystalline schists of many localities.
   gravity varies from 2.9 to 3.18, and is of determinative value, since
   jadeite is much denser. The colour of jade presents various shades of
   green, yellow and grey, and the mineral when polished has a rather
-  greasy lustre. Professor F. W. Clarke found the colours due to
+  greasy lustre. Professor F. W. Clarke found the [[Colours|colours]] due to
   compounds of iron, manganese and chromium. One of the most famous
   localities for nephrite is on the west side of the South Island of New
   Zealand, where it occurs as nodules and veins in serpentine and
-  talcose rocks, but is generally found as boulders. It was known to the
-  Maoris as _pounamu_, or "green stone," and was highly prized, being
+  talcose rocks, but is generally found as [[Boulder|boulders]]. It was known to the
+  [[Maori|Maoris]] as _pounamu_, or "green stone," and was highly prized, being
   worked with great labour into various objects, especially the
   club-like implement known as the _mere_, or _pattoo-pattoo_, and the
-  breast ornament called _hei-tiki_. The New Zealand jade, called by old
+  [[Breast|breast]] ornament called _hei-tiki_. The New Zealand jade, called by old
   writers "green talc of the Maoris," is now worked in Europe as an
   ornamental stone. The green jade-like stone known in New Zealand as
   _tangiwai_ is bowenite, a translucent serpentine with enclosures of
-  magnesite. The mode of occurrence of the nephrite and bowenite of New
+  [[Magnesite|magnesite]]. The mode of occurrence of the nephrite and bowenite of New
   Zealand has been described by A. M. Finlayson (_Quart. Jour. Geol.
   Soc._, 1909, p. 351). It appears that the Maoris distinguished six
   varieties of jade. Difference of colour seems due to variations in the
@@ -81,7 +81,7 @@ amphibolites, among the old crystalline schists of many localities.
   formed, which becomes converted by intense pressure and movement into
   the dense nephrite.
 
-  Nephrite occurs also in New Caledonia, and perhaps in some of the
+  Nephrite occurs also in New [[Caledonia]], and perhaps in some of the
   other Pacific islands, but many of the New Caledonian implements
   reputed to be of jade are really made of serpentine. From its use as a
   material for axe-heads, jade is often known in Germany as _Beilstein_
@@ -95,27 +95,27 @@ amphibolites, among the old crystalline schists of many localities.
   nests and veins running through hornblende-schists and gneissose
   rocks, and it is notable that when first quarried it is comparatively
   soft. It appears to have a wide distribution in the mountains, and has
-  been worked from very ancient times in Khotan. Nephrite is said to
+  been worked from very ancient times in [[Khotan]]. Nephrite is said to
   occur also in the Pamir region, and pebbles are found in the beds of
   many streams. In Turkestan, jade is known as _yashm_ or _yeshm_, a
   word which appears in Arabic as _yeshb_, perhaps cognate with [Greek:
-  iaspis] or jasper. The "jasper" of the ancients may have included
+  iaspis] or [[Jasper|jasper]]. The "jasper" of the ancients may have included
   jade. Nephrite is said to have been discovered in 1891 in the Nan-shan
-  mountains in the Chinese province of Kan-suh, where it is worked. The
+  mountains in the Chinese province of [[Kan-Suh|Kan-suh]], where it is worked. The
   great centre of Chinese jade-working is at Peking, and formerly the
   industry was active at Su-chow Fu. Siberia has yielded very fine
   specimens of dark green nephrite, notably from the neighbourhood of
-  the Alibert graphite mine, near Batugol, Lake Baikal. The jade seems
+  the Alibert [[Graphite|graphite]] mine, near Batugol, Lake [[Baikal]]. The jade seems
   to occur as a rock in part of the Sajan mountain system. New deposits
   in Siberia were opened up to supply material for the tomb of the tsar
   Alexander III. A gigantic monolith exists at the tomb of Tamerlane at
   Samarkand. The occurrence of the Siberian jade has been described by
   Professor L. von Jaczewski.
 
-  Jade implements are widely distributed in Alaska and British Columbia,
+  Jade implements are widely distributed in Alaska and [[British Columbia]],
   being found in Indian graves, in old shell-heaps and on the sites of
-  deserted villages. Dr G. M. Dawson, arguing from the discovery of some
-  boulders of jade in the Fraser river valley, held that they were not
+  deserted villages. Dr G. M. [[Dawson]], arguing from the discovery of some
+  boulders of jade in the [[Fraser]] river valley, held that they were not
   obtained by barter from Siberia, but were of native origin; and the
   locality was afterwards discovered by Lieut. G. M. Stoney. It is known
   as the Jade Mountains, and is situated north of Kowak river, about 150
@@ -130,7 +130,7 @@ amphibolites, among the old crystalline schists of many localities.
   silicate, NaAl(SiO3)2, related to spodumene. S. L. Penfield showed, by
   measurement, that jadeite is monoclinic. Its colour is commonly very
   pale, and white jadeite, which is the purest variety, is known as
-  "camphor jade." In many cases the mineral shows bright patches of
+  "camphor jade." In many cases the mineral shows [[Bright|bright]] patches of
   apple-green or emerald-green, due to the presence of chromium. Jadeite
   is much more fusible than nephrite, and is rather harder (6.5 to 7),
   but its most readily determined character is found in its higher
@@ -142,9 +142,9 @@ amphibolites, among the old crystalline schists of many localities.
   situated on the Uru river, about 120 m. from Mogaung, where the
   jadeite occurs in serpentine, and is partly extracted by fire-setting.
   It is also found as boulders in alluvium, and when these occur in a
-  bed of laterite they acquire a red colour, which imparts to them
+  bed of [[Laterite|laterite]] they acquire a red colour, which imparts to them
   peculiar value. According to Dr W. G. Bleeck, who visited the jade
-  country of Upper Burma after Noetling, jadeite occurs at three
+  country of Upper [[Burma]] after Noetling, jadeite occurs at three
   localities in the Kachin Hills--Tawmaw, Hweka and Mamon. The jadeite
   is known as _chauk-sen_, and is sent either to China or to Mandalay,
   by way of Bhamo, whence Bhamo has come erroneously to be regarded as a
@@ -153,12 +153,12 @@ amphibolites, among the old crystalline schists of many localities.
   cases nephrite is formed by the alteration of jadeite, as shown by
   Professor J. P. Iddings. The Chinese _feits'ui_, sometimes called
   "imperial jade," is a beautiful green stone, which seems generally to
-  be jadeite, but it is said that in some cases it may be chrysoprase.
+  be jadeite, but it is said that in some cases it may be [[Chrysoprase|chrysoprase]].
   It is named from its resemblance in colour to the plumage of the
-  kingfisher. The resonant character of jade has led to its occasional
+  [[Kingfisher|kingfisher]]. The resonant character of jade has led to its occasional
   use as a musical stone.
 
-  In Mexico, in Central America and in the northern part of South
+  In Mexico, in [[Central America]] and in the northern part of South
   America, objects of jadeite are common. The Kunz votive adze from
   Oaxaca, in Mexico, is now in the American Museum of Natural History,
   New York. At the time of the Spanish conquest of Mexico amulets of
@@ -204,12 +204,12 @@ amphibolites, among the old crystalline schists of many localities.
   An exhaustive description of jade will be found in a sumptuous work,
   entitled _Investigations and Studies in Jade_ (New York, 1906). This
   work, edited by Dr G. F. Kunz, was prepared in illustration of the
-  famous jade collection made by Heber Reginald Bishop, and presented
+  famous jade collection made by [[Heber]] Reginald Bishop, and presented
   by him to the Metropolitan Museum of Art, New York. The work, which is
-  in two folio volumes, superbly illustrated, was printed privately, and
+  in two [[Folio|folio]] volumes, superbly illustrated, was printed privately, and
   after 100 copies had been struck off on American hand-made paper, the
   type was distributed and the material used for the illustrations was
-  destroyed. The second volume is a catalogue of the collection, which
+  destroyed. The second volume is a [[Catalogue|catalogue]] of the collection, which
   comprises 900 specimens arranged in three classes: mineralogical,
   archaeological and artistic. The important section on Chinese jade was
   contributed by Dr S. W. Bushell, who also translated for the work a

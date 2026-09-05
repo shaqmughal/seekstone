@@ -22,8 +22,8 @@ developed Christian creed from the standpoint of the earliest Christian
 tradition. It also supplies a reason for including in our survey of
 creeds some reference to pre-Christian hymns and beliefs. The pendulum
 has swung back. Rather than despise the faulty presentation of truth
-which we find in heathen religions and their more or less degraded
-rites, we follow the apostle Paul in his endeavour to trace in them
+which we find in [[Heathen|heathen]] religions and their more or less degraded
+rites, we follow the [[Apostle|apostle]] Paul in his endeavour to trace in them
 attempts "to feel after God" (Acts vii. 27). Augustine, the great
 teacher of the West, was true to the spirit of the great Alexandrians,
 when he wrote (_Ep._ 166): "Let every good and true Christian understand
@@ -31,15 +31,15 @@ that truth, wherever he finds it, belongs to _his_ Lord."
 
 We are not concerned with the question whether the earliest forms of
 recorded religious consciousness such as animism, or totemism, or
-fetishism, were themselves degradations of a primitive revelation or
+[[Fetishism|fetishism]], were themselves degradations of a primitive revelation or
 not.[1] We are only concerned with the fact of experience that the human
 soul yearns to express its belief. The hymn to the rising and setting
 sun in the _Book of the Dead_ (ch. 15), which is said by Egyptologists
 to be the oldest poem in the world, carries us back at once to the dawn
 of history.
 
-  "Hail to thee, Ra, the self-existent.... Glorious is
-   thine uprising from the horizon. Both worlds are
+  "[[Hail]] to thee, Ra, the self-existent.... Glorious is
+   thine uprising from the [[Horizon|horizon]]. Both worlds are
    illumined by thy rays.... Hail to thee, Ra, when thou
    returnest home in renewed beauty, crowned and almighty."
 
@@ -51,19 +51,19 @@ from the creature: "I desire to approach Ahura and Mithra with my
 praise, the lofty eternal, and the holy two."[2] The Persian poet is not
 far from the kingdom into which Hebrew psalmists and prophets entered.
 
-The whole history of the Jewish religion is centred in the gradual
+The whole history of the Jewish religion is centred in the [[Gradual|gradual]]
 purification of the idea of God. The morality of the Jews did not
 outgrow their religion, but their interest was always ethical and not
 speculative. The highest strains of the psalmists and the most fervent
 appeals of the prophets were progressively directed to the great end of
-praising and preaching the One true God, everlasting, with sincere and
+praising and preaching the One true God, [[Everlasting|everlasting]], with sincere and
 pure devotion. The creed of the Jew, to this day, is summed up in the
-well-remembered words, which have been ever on his lips, living or
+well-remembered words, which have been ever on his [[Lip|lips]], living or
 dying: "Hear, O Israel, the Lord our God is one Lord" (Deut. vi. 4).
 
 The definiteness and persistence of this creed, which of course is the
 strength also of Mahommedanism, presents a contrast to the fluid
-character of the statements in the Vedas, and to the chaos of
+character of the statements in the Vedas, and to the [[Chaos|chaos]] of
 conflicting opinions of philosophers among the Greeks and Romans. As Dr
 J. R. Illingworth has said very concisely: "The physical speculations of
 the Ionians and Atomists rendered a God superfluous, and the
@@ -73,7 +73,7 @@ archetypal ideas, which he groups under the central idea of Good,
 identified with the divine reason, at the same time uses the ordinary
 language of the day, and speaks of God and the gods, feeling his way
 towards the conception of a personal God, which, to quote Dr Illingworth
-again, neither he nor Aristotle could reach because they had not "a
+again, neither he nor [[Aristotle]] could reach because they had not "a
 clear conception of human personality." They were followed by an age of
 philosophizing which did little to advance speculation. The Stoics, for
 example, were more successful in criticizing the current creed than in
@@ -97,9 +97,9 @@ teacher respectively. The Apostles' Creed is the ancient baptismal
 creed, held in common both by East and West, in its final western form.
 The Nicene Creed is the baptismal creed of an eastern church enlarged in
 order to combine theological interpretation with the facts of the
-historic faith. Its use in the Eucharist of the undivided Church has
+historic faith. Its use in the [[Eucharist]] of the undivided Church has
 been continued since the great schism, although the Eastern Church
-protests against the interpolation of the words "And the Son" in clause
+protests against the [[Interpolation|interpolation]] of the words "And the Son" in clause
 9. The Athanasian Creed is an instruction designed to confute heresies
 which were current in the 5th century.
 
@@ -109,7 +109,7 @@ which were current in the 5th century.
 1. _The Apostles' Creed._--The increased interest which has been shown
 in the history of all creed-forms since the latter part of the 19th
 century is due in a great measure to the work of the veteran pioneer,
-Professor P. Caspari of Christiania, who began the herculean task of
+Professor P. [[Caspari]] of [[Christiania]], who began the herculean task of
 classifying the enormous number of creed-forms which have been recovered
 from obscure pages of early Christian literature. In England we owe much
 to Professors C. A. Heurtley and Swainson. In Germany the monumental
@@ -128,7 +128,7 @@ belief. The tradition which St Paul received included, so to speak, the
 germ of the central prayer in the Eucharist (1 Cor. xi. 23 ff.), and no
 doubt included also teaching on conduct, "the way of a Christian life"
 (1 Thess. iv. 1; Gal. v. 21). The creed in all its forms lies behind
-worship, which it preserves from idolatry, and behind ethics, to which
+worship, which it preserves from idolatry, and behind [[Ethics|ethics]], to which
 it supplies a motive power which the pre-Christian system so manifestly
 lacked. Whether the first creed of the primitive Church was of the
 simple Christological character which confession of Jesus as the Lord
@@ -151,10 +151,10 @@ to the Holy Ghost in the context of 2 Tim. i. 14, which would prove the
 apostolic use of a Trinitarian confession imaginable as the parent of
 the later Eastern and Western forms. The eunuch's creed interpolated in
 Acts viii. 57, "I believe that Jesus is the Son of God," since the
-reading was known to Irenaeus, probably represents the form of baptismal
+reading was known to [[Irenaeus]], probably represents the form of baptismal
 confession used in some church of Asia Minor, and supplies us with the
 type of a primitive creed. This theory is confirmed by the evidence of
-the Johannine epistles (1 John iv. 15, v. 5; cf. Heb. iv. 14).
+the Johannine [[Epistle|epistles]] (1 John iv. 15, v. 5; cf. Heb. iv. 14).
 
 From this point of view it is easy to explain the occurrence of
 creed-like phrases in the New Testament as fragments of early hymns (1
@@ -173,13 +173,13 @@ their parent form:
   being made subject unto Him, and is coming on the clouds of heaven
   with power and great glory."
 
-The evidence of the apostolic fathers is disappointing. Clement (_Cor._
+The evidence of the [[Apostolic Fathers|apostolic fathers]] is disappointing. [[Clement]] (_Cor._
 lviii. 2) supplies only parallels to the baptismal formula (Matt.
-xxviii. 19). Polycarp (_Ep._ 7) echoes St John. But Ignatius might seem
+xxviii. 19). Polycarp (_Ep._ 7) echoes St John. But [[Ignatius]] might seem
 to offer in the following passage some confirmation of Zahn's theory of
 a primitive creed of Antioch (_Trall._ 9): "Be ye deaf, therefore, when
 any man speaketh to you apart from Jesus Christ, who was of the race of
-David, who was the Son of Mary, who was truly born and ate and drank,
+David, who was the Son of Mary, who was truly born and [[Ate|ate]] and drank,
 was truly persecuted under Pontius Pilate, was truly crucified and died
 in the sight of those in heaven and those on earth and those under the
 earth; who, moreover, was truly raised from the dead, His Father having
@@ -205,7 +205,7 @@ Trinitarian critics. Writers who follow Harnack explain "holy spirit" as
 the gift of impersonal influence, and between wide limits of difference
 agree in regarding Christ as Son of God by adoption and not by nature.
 Amid the chaos of conflicting opinions as to the original teaching of
-Jesus, the Gospel within the Gospel, the central question "What think ye
+Jesus, the [[Gospel]] within the Gospel, the central question "What think ye
 of Christ?" emerges as the test of all theories. "No man can say that
 Jesus is the Lord save in the Holy Ghost" (1 Cor. xii. 3). Belief in the
 fact of the Incarnation of the eternal Word, as it is stated in the
@@ -232,11 +232,11 @@ To return within our proper limits. Kattenbusch, with whom Harnack is in
 general agreement, regards the Old Roman Creed, which comes to light in
 the 4th century, as the parent of all developed forms, whether Eastern
 or Western. Marcellus, the exiled bishop of Ancyra, is quoted by
-Epiphanius as presenting it to Bishop Julius of Rome c. A.D. 340.
+[[Epiphanius]] as presenting it to Bishop [[Julius]] of Rome c. A.D. 340.
 Ussher's recognition of the fact that this profession of faith by
 Marcellus was the creed of Rome, not of Ancyra, is the starting-point of
 modern discussions of the history of the creeds. Some sixty years later
-Rufinus, a priest of Aquileia, wrote a commentary on the creed of his
+Rufinus, a priest of [[Aquileia]], wrote a commentary on the creed of his
 native city and compared it with the Roman Creed. His Latin text is
 probably as ancient as the Greek text of Marcellus, because the Roman
 Church must always have been bilingual in its early days. It was as
@@ -255,8 +255,8 @@ follows:
       11. (the) remission of sins,
       12. (the) resurrection of the flesh.
 
-This Old Roman Creed may be traced back in the writings of Bishops Felix
-and Dionysus (3rd century), and in the writings of Tertullian in the 2nd
+This Old Roman Creed may be traced back in the writings of Bishops [[Felix]]
+and [[Dionysus]] (3rd century), and in the writings of Tertullian in the 2nd
 century.
 
 Tertullian calls the creed the "token" which the African Church shares
@@ -279,11 +279,11 @@ which reappears also in the following (_de Virg. vel._ i.):
   resurrection also of the flesh."
 
 There are many references in Tertullian to the teaching of the Gnostic
-Marcion, whose breach with the Roman Church may be dated A.D. 145. He
+Marcion, whose [[Breach|breach]] with the Roman Church may be dated A.D. 145. He
 seems to have still held to the Roman creed interpreted in his own way.
 An ingenious conjecture by Zahn enables us to add the words "holy
 Church" to our reconstruction of the creed from the writings of
-Tertullian. In his revised New Testament Marcion speaks of "the covenant
+Tertullian. In his revised New Testament Marcion speaks of "the [[Covenant|covenant]]
 which is the mother of us all, which begets us in the holy Church, to
 which we have vowed allegiance." He uses a word used by Ignatius of the
 oath taken on confession of the Christian faith. It follows that the
@@ -292,11 +292,11 @@ words "holy Church" were contained in the Roman Creed.[6]
 While all critics agree in tracing back this form to the earliest years
 of the 2nd century, and regard it as the archetype of all similar
 Western creeds, there is great diversity of opinion on its relation to
-Eastern forms. Kattenbusch maintains that the Roman Creed reached Gaul
+Eastern forms. Kattenbusch maintains that the Roman Creed reached [[Gaul]]
 and Africa in the course of the 2nd century, and perhaps all districts
 of the West that possessed Christian congregations, also the western end
 of Asia Minor possibly in connexion with Polycarp's visit to Rome A.D.
-154. He finds that materials fail for Pontus, Galatia, Cappadocia,
+154. He finds that materials fail for Pontus, Galatia, [[Cappadocia]],
 Syria, Palestine, Egypt. Further, he holds that all the Eastern creeds
 which are known to us as existing in the 4th century, or may be traced
 back to the 3rd, lead to Antioch as their starting-point. He concludes
@@ -336,9 +336,9 @@ _Creed of Antioch._
 Along similar lines Loofs selects phrases as typical of creeds which go
 back to a date preceding the Nicene Council.
 
-A. Creed of Eusebius of Caesarea, presented to the Nicene Council.
+A. Creed of [[Eusebius]] of Caesarea, presented to the Nicene Council.
 
-B. Revised Creed of Cyril of Jerusalem.
+B. Revised Creed of [[Cyril]] of Jerusalem.
 
 C. Creed of Antioch quoted by Cassian.
 
@@ -346,7 +346,7 @@ D. Creed of Antioch quoted in the Apostolic Constitutions.
 
 E. Creed of Lucian the Martyr (Antioch).
 
-F. Creed of Arius (Alexandria).
+F. Creed of [[Arius]] (Alexandria).
 
    1. One (God), A, B, C, D, E, F.
       Maker of heaven and earth and of all things visible and invisible
@@ -384,7 +384,7 @@ upon the history of the creed of Cappadocia, points out the importance
 of the extraordinary influence of Firmilian of Caesarea in the affairs
 of the church of Antioch in the early part of the 3rd century. He is led
 to argue that the creed of Antioch came rather from Cappadocia than
-Rome. Whether his conclusion is justified or not, it helps to show how
+Rome. Whether his conclusion is justified or not, it [[Helps|helps]] to show how
 strongly the trend of contemporary research is setting against the
 theory of Kattenbusch that the Roman Creed when adopted at Antioch
 became the parent of all Eastern forms. It does not, however, militate
@@ -392,9 +392,9 @@ against the possibility that the Roman Creed was carried from Rome to
 Asia Minor and to Palestine in the 2nd century. It is evidently
 impossible to arrive at a final decision until much more spade work has
 been done in the investigation of early Eastern creeds. Connolly's study
-of the early Syrian creed (_Zeitschrift fur die neutestamentliche
+of the early Syrian creed (_Zeitschrift [[Fur|fur]] die neutestamentliche
 Wissenschaft_, 1906, p. 202) deserves careful consideration. His
-reconstruction of the creed of Aphraates is interesting in relation to
+reconstruction of the creed of [[Aphraates]] is interesting in relation to
 the other traces of a Syriac creed form existing prior to the 4th
 century.
 
@@ -402,7 +402,7 @@ century.
   earth and the seas and all that in them is; [And in our Lord Jesus
   Christ] [the Son of God,] God, Son of God, King, Son of the King,
   Light from Light, (Son and Counsellor, and Guide, and Way, and
-  Saviour, and Shepherd, and Gatherer, and Door, and Pearl, and Lamb,)
+  Saviour, and Shepherd, and Gatherer, and Door, and Pearl, and [[Lamb]],)
   and first-born of all creatures, who came and put on a body from Mary
   the Virgin (of the seed of the house of David, from the Holy Spirit),
   and put on our manhood, and suffered, _or_ and was crucified, went
@@ -433,17 +433,17 @@ justified. In comparison with them it was guarded more carefully from
 change.[7] We have yet to inquire how it received the additions which
 distinguish the derived form now in use as the baptismal creed of all
 Western Christendom. Some had already found an entrance into Western
-creeds. We find "suffered" in the creed of Milan, "descended into hell"
+creeds. We find "suffered" in the creed of Milan, "descended into [[Hell|hell]]"
 in the creed of Aquileia, the Danubian lands and Syria; the words "God"
 and "almighty" were shortly added to clause 7 in the Spanish creed;
 "life everlasting" had stood from an early date in the African creed.
-The creed of Caesarius of Arles (d. 543) proves that these variations
+The creed of Caesarius of [[Arles]] (d. 543) proves that these variations
 had all been united in one Gallican creed together with "catholic" and
 "communion of saints," but this Gallican form still lacked "Maker of
 heaven and earth" and the additions in clause 7.
 
 Two newly-discovered creeds help us greatly to narrow down the limits of
-the problem. The creed of Niceta of Remesiana in Dacia proves that c.
+the problem. The creed of Niceta of Remesiana in [[Dacia]] proves that c.
 A.D. 400 the Dacian church had added to the Roman Creed "maker of heaven
 and earth," "suffered," "dead," "Catholic," "communion of saints" and
 "life everlasting." Parallel to it is the Faith of St Jerome discovered
@@ -457,7 +457,7 @@ in 1903 by Dom. Morin.[8]
   true God, born before the ages, not made, by whom all things were made
   in heaven and in earth. Who for our salvation descended from heaven,
   was conceived of the Holy Ghost, born of the Virgin Mary, suffered by
-  suffering under Pontius Pilate, under Herod the King, crucified,
+  suffering under Pontius Pilate, under [[Herod]] the King, crucified,
   buried, descended into hell, trod down the sting of death, rose again
   the third day, appeared to the apostles. After this He ascended into
   heaven, sitteth at the right of God the Father, thence shall come to
@@ -488,7 +488,7 @@ Barns in the influence of Celtic missionaries who streamed across from
 Europe until they came in touch with the remnants of the Old Latin
 Christianity of the Danube. The chief documents of the date A.D. 700,
 which contain forms almost identical with the received text, are
-connected with monasteries founded by Columban and his friends: Bobbio,
+connected with monasteries founded by [[Columban]] and his friends: Bobbio,
 Luxeuil, S. Gallen, Reichenau. From one of these monasteries the
 received text seems to have been taken to Rome. Certainly it was from
 Rome that it was spread. We can trace the use of the received text along
@@ -498,7 +498,7 @@ Boniface was in frequent communication. Pope Gregory II. sent him
 instructions to use what seems to have been an official Roman order of
 Baptism, which would doubtless include a Roman form of creed. Pirminius,
 who was far from being an original writer, made great use of a treatise
-by Martin of Braga, but substituted a Roman form of Renunciation, and
+by [[Martin]] of Braga, but substituted a Roman form of Renunciation, and
 refers to the Roman rite of Unction in a way which leads us to suppose
 that the form of creed which he substituted for Martin's form was also
 Roman. It seems clear, therefore, that the received text was either made
@@ -616,12 +616,12 @@ of the tendency of copyists to confuse and assimilate the forms.[10]
 The revised Jerusalem Creed was quoted by Epiphanius in his treatise
 _The Anchored One_, c. A.D. 374, some years before the council of
 Constantinople (A.D. 381). We gather that it had already been introduced
-into Cyprus as a baptismal creed. Hort's identification of it as the
+into [[Cyprus]] as a baptismal creed. Hort's [[Identification|identification]] of it as the
 work of Cyril of Jerusalem is now generally accepted. On his return from
 exile in A.D. 362 Cyril would find "a natural occasion for the revision
 of the public creed by the skilful insertion of some of the conciliar
 language, including the term which proclaimed the restoration of full
-communion with the champions of Nicaea, and other phrases and clauses
+communion with the [[Champion|champions]] of Nicaea, and other phrases and clauses
 adapted for impressing on the people positive truth." Some of Cyril's
 personal preferences expressed in his catechetical lectures find
 expression, e.g. "resurrection of the _dead_" for "flesh."
@@ -637,15 +637,15 @@ they were quoted at the council of Chalcedon in A.D. 451, and the
 revised Jerusalem Creed was quoted as "the faith of the 150 Fathers,"
 that is, as confirmed in some way by the council of Constantinople,
 while at the time it was distinguished from "the faith of the 318
-Fathers" of Nicaea. One of the signatories of the Definition of Faith
+Fathers" of Nicaea. One of the signatories of the [[Definition]] of Faith
 made at Chalcedon, in which both creeds were quoted in full, Kalemikus,
-bishop of Apamea in Bithynia, refers to the council of Constantinople as
+bishop of [[Apamea]] in Bithynia, refers to the council of Constantinople as
 having been held at the ordination of the most pious Nektarius the
 bishop. Obviously there was some connexion in his mind between the creed
 and the ordination.
 
 The reasons which brought the revised creed into prominence at Chalcedon
-are still obscure. It is possible that Leo's letter to Flavian gave the
+are still obscure. It is possible that Leo's letter to [[Flavian]] gave the
 impulse to put it forward because it contained a parallel to words which
 Leo quoted from the Old Roman Creed, "born of the Holy Ghost and the
 Virgin Mary," "crucified and buried," which do not occur in the first
@@ -653,10 +653,10 @@ Nicene Creed. If, as is probable, it was from the election of Nektarius
 the baptismal creed of Constantinople, we may even ask whether the pope
 did not refer to it when he wrote emphatically of the "common and
 indistinguishable confession" of all the faithful. Kattenbusch supposes
-that Anatolius, bishop of Constantinople, or his archdeacon Aetius, who
+that Anatolius, bishop of Constantinople, or his [[Archdeacon|archdeacon]] Aetius, who
 read the creed at the 2nd session of the council, took up the idea that
 through its likeness to the Roman Creed it would be a useful weapon
-against Eutyches and others who were held to interpret the Nicene Creed
+against [[Eutyches]] and others who were held to interpret the Nicene Creed
 in an Apollinarian sense. But Kunze thinks that it was not used as a
 base of operations against Eutyches because there is some evidence that
 Monophysites were willing to accept it. Certainly it won its way to
@@ -689,7 +689,7 @@ in the Father, says that the Spirit receives of both. Augustine teaches
 that the Father and the Son are the one principle of the Being of the
 Spirit. From this it is a short step to say with the _Quicumque vult_
 that the Spirit proceeds from the Son, while guarding the idea that the
-Father is the one fountain of Deity. Since Eastern theologians would be
+Father is the one [[Fountain|fountain]] of Deity. Since Eastern theologians would be
 willing to say "proceeds from the Father through the Son," it is clear
 that the two views are not irreconcilable.
 
@@ -697,13 +697,13 @@ that the two views are not irreconcilable.
   Athanasian Creed.
 
 3. _The Athanasian Creed_, so called because in many MSS. it bears the
-title "The Faith of S. Athanasius," is more accurately designated by its
+title "The Faith of S. [[Athanasius]]," is more accurately designated by its
 first words _Quicumque vult_.[12] Its history has been the subject of
 much controversy for years past, but no longer presents an insoluble
 problem. Critics indeed agree on the main outline. Until 1870 the
 standard work on the subject was Waterland's _Critical History of the
 Athanasian Creed_, first published in 1723. Having traced "the opinions
-of the learned moderns" from Gerard Vossius, A.D. 1642, "who led the way
+of the learned moderns" from [[Gerard]] Vossius, A.D. 1642, "who led the way
 to a more strict and critical inquiry," Waterland passed in review all
 the known MSS. and commentaries, and after a searching investigation
 concluded that the creed was written in Gaul between 420 and 430,
@@ -722,7 +722,7 @@ seemed to him to represent the component parts of the creed as they
 existed separately. He conjectured that they were brought together in
 the province of Rheims c. 860.
 
-This theory, however, depended upon unverified assumptions, such as the
+This theory, however, depended upon unverified [[Assumption|assumptions]], such as the
 supposed silence of theologians about the creed at the beginning of the
 9th century; the suggestion that the completed creed would have been
 useful to them if they had known it as a weapon against the heresy of
@@ -736,15 +736,15 @@ was successful in the discovery of new documents, notably early
 commentaries, which contained the text of the creed embedded in them,
 and thus supplied independent testimony to the fact that the creed was
 becoming fairly widely known at the end of the 8th century. Other new
-MSS. and commentaries were found and collated by the Rev. A. E. Burn and
+MSS. and commentaries were found and collated by the Rev. A. E. [[Burn]] and
 Dom Morin. In 1897 Loofs, summing up the researches of 25 years in his
 article _Athanasianum_ (_Realencyclopadie f. prot. Theol. u. Kirche_,
 3rd ed. ii. p. 177), declared that the two-portion theory was dead.
 
 This conclusion has never been seriously challenged. It has been greatly
 strengthened by the discovery of a MS. which was presented by Bishop
-Leidrad of Lyons with an autograph inscription to the altar of St
-Stephen in that town, some time before 814. As M. Delisle at once
+Leidrad of [[Lyons]] with an autograph inscription to the altar of St
+Stephen in that town, some time before 814. As M. [[Delisle]] at once
 pointed out (_Notices et extraits des manuscrits_, 1898), this MS.
 supplies a fixed date from which palaeographers can work in dating MSS.
 The _Quicumque_ occurs in a collection of materials forming an
@@ -756,13 +756,13 @@ that Leidrad was interested in the growing use of the creed as a
 canticle, and was consulted in the preparation of the famous Golden
 Psalter, now at Vienna, which contains the same collection of documents
 as an introduction. This MS. may now without hesitation be assigned to
-the date 772-788. The earliest known MS. is at Milan (_Cod. Ambros._ O,
+the date 772-788. The earliest known MS. is at Milan (_[[Cod]]. Ambros._ O,
 212, _sup._), and is dated by Traube as early as c. 700.
 
 There is a reference to the _Quicumque_ in the first canon of the fourth
 council of Toledo of the year 633, which quotes part or the whole of
 clauses 4, 20-22, 28 f., 31, 33, 35 f., 40. The council also quoted
-phrases from the so-called _Creed of Damasus_, a document of the 4th
+phrases from the so-called _Creed of [[Damasus]]_, a document of the 4th
 century, which in some cases they preferred to the phrases of the
 _Quicumque_. Their quotations form a connecting link in the chain of
 evidence by which the use of the creed may be traced back to the
@@ -785,7 +785,7 @@ Moreover, the creed is quoted by his rival Avitus, bishop of Vienne
 was not likely to value a composition of Caesarius so highly. Morin does
 not deal fully with the arguments from internal evidence which point
 back to the beginning of the 5th century as the date of the creed. If
-the creed-phrases needed sharpening against the revived Nestorian error
+the creed-phrases needed sharpening against the revived Nestorian [[Error|error]]
 of the Adoptianists, it is scarcely likely to have been written during
 the generation following the condemnation of Nestorius in 431. Burn
 suggests that it was written to meet the Sabellian and Apollinarian
@@ -810,11 +810,11 @@ commentaries were written on it. The writer of the Oratorian Commentary
 (Theodulf of Orleans?) addressing a synod which instructed him to
 provide an exposition of this work on the faith, writes of it, as "here
 and there recited in our churches, and continually made the subject of
-meditation by our priests." It was soon used as a canticle. Angilbert,
+meditation by our priests." It was soon used as a canticle. [[Angilbert]],
 abbot of St Riquier (c. 814), records that it was sung by his school in
 procession on rogation days. It passed into the office of Prime,
-apparently first at Fleury. In the first Prayer Book of Edward VI. it
-was "sung or said" after the Benedictus on the greater feasts, and this
+apparently first at [[Fleury]]. In the first Prayer Book of Edward VI. it
+was "sung or said" after the [[Benedictus]] on the greater feasts, and this
 use was extended in the second Prayer Book. In 1662 the rubric was
 altered and it was substituted for the Apostles' Creed. It has no place
 in the offices of the Eastern Orthodox Church, but is found, without the
@@ -828,7 +828,7 @@ to the difficulty. While it is true that the Church has never condemned
 individuals, and that the warnings refer only to those who have received
 the faith, and do not touch the question of the unbaptized, there is a
 growing feeling that they go beyond the teaching of Holy Scripture on
-the responsibility of intellect in matters of faith.[13]
+the responsibility of [[Intellect|intellect]] in matters of faith.[13]
 
 On the other hand the creed is a valuable statement of Catholic faith on
 the Trinity and the Incarnation, and its use for students and teachers
@@ -836,7 +836,7 @@ at least is by no means obsolete. The special characteristic of its
 theology is in the first part where it owes most to the teaching of
 Augustine, who in his striving after self-knowledge analysed the mystery
 of his own triune personality and illustrated it with psychological
-images, "I exist and I am conscious that I exist, and I love the
+[[Image|images]], "I exist and I am conscious that I exist, and I love the
 existence and the consciousness; and all this independently of any
 external influence." Such a riper analysis of the mystery of his own
 personality enabled him to arrive at a clearer conception of the idea of
@@ -846,12 +846,12 @@ influence, but from within; a Trinity in Unity."[14]
 
 II. MODERN CONFESSIONS OF FAITH.--The second great creed-making epoch of
 Church history opens in the 16th century with the Confession of
-Augsburg. The famous theses which Luther nailed to the door of the
+[[Augsburg]]. The famous theses which Luther nailed to the door of the
 church at Wittenberg in 1517 cannot be called a confession, but they
 expressed a protest which could not rest there. Some reconstruction of
 popular beliefs was needed by many consciences. There is a striking
 contrast between the crudeness of much and widely accepted medieval
-theology and the decrees of the council of Trent. Even from the Roman
+theology and the [[Decree|decrees]] of the council of Trent. Even from the Roman
 Catholic standpoint such a need was felt. Luther himself had a gift of
 words which through his catechisms made the reformed theology popular in
 Germany. In 1530 it became necessary to define his position against both
@@ -895,19 +895,19 @@ faith once for all delivered unto the saints" (Jude 3). Moreover, fresh
 complications arose from the confusion in which the question of the
 duties and rights of the civil power was entangled. In an age when the
 foundations of the system on which society had rested for centuries were
-seriously shaken, such subjects as the right of the magistrate to
+seriously shaken, such subjects as the right of the [[Magistrate|magistrate]] to
 interfere with the belief of the individual, and the limits of his
 authority over conscience, naturally assumed a prominence hitherto
 unknown.[16]
 
-2. _Other Lutheran Formularies._--For the purpose of classification it
-will be convenient to discuss Lutheran, Zwinglian and Calvinistic
+2. _Other Lutheran Formularies._--For the purpose of [[Classification|classification]] it
+will be convenient to [[Discus|discuss]] Lutheran, Zwinglian and Calvinistic
 confessions separately.
 
 
   Lutheran.
 
-An elaborate _Apology_ for the confession of Augsburg was drawn up by
+An elaborate _[[Apology]]_ for the confession of Augsburg was drawn up by
 Melanchthon in reply to Roman Catholic criticisms. This, together with
 the confession, the articles of Schmalkalden, drawn up by Luther in
 1536, Luther's catechisms, and the Formula of Concord which was an
@@ -924,16 +924,16 @@ thirty-five articles contain a moderate statement of Lutheran teaching.
 
 3. _Zwinglian and Calvinistic Confessions._--The confession of the Four
 Cities, Strassburg, Constance, Memmingen and London, was drawn up by M.
-Bucer and was presented to Charles V. at Augsburg in 1530. These cities
+[[Bucer]] and was presented to Charles V. at Augsburg in 1530. These cities
 were inclined to follow Zwingli in his sacramental teaching which was
-more fully expressed in the Confession of Basel (1534) and the First
+more fully expressed in the Confession of [[Basel]] (1534) and the First
 Helvetic Confession (1536). Calvin's views were expressed in the
 Gallican Confession, containing forty articles, which was drawn up in
 1559, and was presented both to Francis II. of France and to Charles IX.
 On the same lines the Belgian Confession of 1561, written by Guido de
 Bres in French, and translated into Dutch was widely accepted in the
-Netherlands and confirmed by the synod of Dort (1619). The second
-Helvetic Confession was the work of Bullinger, published at the request
+Netherlands and confirmed by the synod of [[Dort]] (1619). The second
+Helvetic Confession was the work of [[Bullinger]], published at the request
 of the Elector Palatine Frederick III. in 1566, and was held in repute
 in Switzerland, Poland and France as well as the Palatinate. It was
 sanctioned in Scotland and was well received in England.
@@ -945,7 +945,7 @@ Confession (see below), but was soon weakened in Germany. This same
 Elector Frederick invited two young divines, Zacharias Ursinus and
 Caspar Olevianus, to prepare the afterwards celebrated Heidelberg
 catechism, which in 1563 superseded Calvin's catechism in the
-Palatinate. While Calvin began sternly with the question: "What is the
+Palatinate. While [[Calvin]] began sternly with the question: "What is the
 chief end of human life?" Ans.: "That men may know God by whom they were
 created,"--the Heidelberg catechism has: "What is thy only comfort in
 life and death?" Ans.: "That I with body and soul, both in life and
@@ -959,32 +959,32 @@ all practical Christian life lived in gratitude for mercies received.
   Articles of religion.
 
 4. _English Articles of Religion._--The ten articles of 1536 were drawn
-up by Convocation at the bidding of Henry VIII. "to stablysh Christian
-Quietnes and Unitie." They exhibit a traditional character, a compromise
+up by [[Convocation]] at the bidding of Henry VIII. "to stablysh Christian
+Quietnes and Unitie." They exhibit a traditional character, a [[Compromise|compromise]]
 between the old and the new learning. Thus the doctrine of the Real
 Presence is asserted, but no mention is made of Transubstantiation.
 Medieval ceremonies are described as useful but without power to remit
 sins. Two years later, after negotiations with the Lutheran princes, a
-conference on theological matters was held at Lambeth with Lutheran
+conference on theological matters was held at [[Lambeth]] with Lutheran
 envoys. Thirteen articles were drawn up, which, though never published
 (they were found among Cranmer's papers at the beginning of the 19th
 century), had some influence on the forty-two articles. Some of them
 were taken from the confession of Augsburg, but the sections on Baptism,
 the Eucharist and penance, show that the English theologians desired to
-lay more emphasis on the character of sacraments as channels of grace.
+lay more emphasis on the character of sacraments as channels of [[Grace|grace]].
 The Statute of the Six Articles (1539), "the whip with six strings," was
 the outcome of the retrograde policy which distinguished the latter
 years of Henry VIII.
 
 With the accession of Edward VI. liturgical reforms were set on foot
 before an attempt was made to systematize doctrinal teaching. But as
-early as 1549 Cranmer had in hand "Articles of Religion" to which he
+early as 1549 [[Cranmer]] had in hand "Articles of Religion" to which he
 required all preachers and lecturers to subscribe. In 1552 they were
 revised by other bishops and were laid before the council and the royal
-chaplains. They were then published as "Articles agreed on by the
+[[Chaplain|chaplains]]. They were then published as "Articles agreed on by the
 bishops and other learned men in the Synod of London." But there is
 considerable doubt whether they really received the sanction of
-Convocation (Gibson, p. 15). They were not devised as a complete scheme
+Convocation ([[Gibson]], p. 15). They were not devised as a complete scheme
 of doctrine, but only as a guide in dealing with current errors of (i.)
 the Medievalists and (ii.) the Anabaptists. Under (i.) they condemned
 the doctrine of the school authors on congruous merit (Art. xii.), the
@@ -1007,7 +1007,7 @@ thereof." At the same time the substitution of "Romish doctrine" for
 "doctrine of School authors" (Art. xxii.) marks an effort to define the
 line of the Church of England sharply against current Roman teaching.
 The revision was passed by Convocation and again revised in 1571, when
-the queen had been excommunicated by papal bull, and an act was passed
+the queen had been excommunicated by papal [[Bull|bull]], and an act was passed
 ordering all clergy to subscribe to them. They have remained unchanged
 ever since, though the terms of subscription have been modified.
 
@@ -1018,7 +1018,7 @@ by Queen Elizabeth, and, after the Hampton Court Conference petitioned
 about them, by King James I.
 
 The first Scottish confession dates from 1560. It is a memorial of the
-intellectual power and enthusiasm of John Knox. It exhibits the leading
+intellectual power and [[Enthusiasm|enthusiasm]] of John [[Knox]]. It exhibits the leading
 features of the Reformed theology, but "disclaims Divine authority for
 any fixed form of church government or worship." It also asks that "if
 anyone shall note in this our confession any articles or sentence
@@ -1054,12 +1054,12 @@ Scotland its influence has continued to the present day, contributing
 not a little to mould the high qualities of religious insight and
 courage and perseverance which have honourably distinguished Scottish
 Presbyterians all the world over. This was the last great effort in
-constructive theology of the Reformation period. When Cromwell before
+constructive theology of the Reformation period. When [[Cromwell]] before
 his death in 1658 allowed a conference to prepare a new confession of
-faith for the whole commonwealth, the Westminster Confession was
+faith for the whole [[Commonwealth|commonwealth]], the Westminster Confession was
 accepted as a whole with an added statement on church order and
 discipline. We must note, however, that the Baptist divines who were
-excluded from the Westminster Assembly issued a declaration of their
+excluded from the Westminster Assembly issued a [[Declaration|declaration]] of their
 principles under the title, "A Confession of Faith of seven
 Congregations or Churches in London which are commonly but unjustly
 called Anabaptists, for the Vindication of the Truth and Information of
@@ -1067,7 +1067,7 @@ the Ignorant."
 
 Two other declarations may be quoted to show how necessary such
 confessions are even to religious societies which refuse to be bound by
-them. In 1675 Robert Barclay published an "Apology for the Society of
+them. In 1675 Robert [[Barclay]] published an "Apology for the Society of
 Friends," in which he declared what they held concerning revelation,
 scripture, the fall, redemption, the inward light, freedom of
 conscience.
@@ -1095,17 +1095,17 @@ Athanasian Creed (without the words "And the Son"), and the Orthodox
 Confession of the Catholic and Apostolic Eastern Church. This was the
 work of Petrus Mogilas, metropolitan of Kiev, and other theologians. It
 was written in 1640 in Russian, was translated into Greek, and approved
-by the council of Jassy and the patriarchs of Constantinople,
+by the council of [[Jassy]] and the patriarchs of Constantinople,
 Alexandria, Antioch and Jerusalem. It was affirmed by the council of
 Jerusalem in 1672, which also affirmed the Confession of Dositheus,
 patriarch of Jerusalem. Both of these confessions were drawn up to
 confute the teaching of a remarkable man who had been patriarch of
 Constantinople, Cyril Lucar. He was a student of Western theology, a
-correspondent of Archbishop Laud, and had travelled in Germany and
+correspondent of Archbishop [[Laud]], and had travelled in Germany and
 Switzerland. In 1629 he published a confession in which he attempted to
 incorporate ideas of the reformers while preserving the leading ideas of
 Eastern traditional theology. The controversy chiefly turned on the
-question of the necessity of episcopacy. Dositheus taught that the
+question of the necessity of [[Episcopacy|episcopacy]]. Dositheus taught that the
 existence of bishops is as necessary to the Church as "breath to a man
 and the sun to the world." Christ is the universal and perpetual Head of
 the Church, but he exercises his rule by means of "the holy Fathers,"
@@ -1128,9 +1128,9 @@ intervals from 1545-1563, but there was a marked divergence between the
 opinions advocated by prominent members of the council and its final
 decrees. Cardinal Pole had to leave the council because he advocated the
 doctrine of justification by faith. Even at the later sessions the
-cardinal of Lorraine with the French prelates supported the German
+cardinal of [[Lorraine]] with the French prelates supported the German
 representatives in requests for the cup for the laity, the permission of
-the marriage of priests, and the revision of the breviary. Finally the
+the marriage of priests, and the revision of the [[Breviary|breviary]]. Finally the
 decisions of the council were promulgated in a declaration of XII.
 articles, usually called the Creed of Pius IV., which reaffirmed the
 Nicene Creed, and dealt with the preservation of the apostolic and
@@ -1140,15 +1140,15 @@ sacraments, the offering of the mass, transubstantiation, purgatory, the
 veneration of saints, relics, images, the efficacy of indulgences, the
 supremacy of the Roman Church and of the bishop of Rome as vicar of
 Christ. To this summary of doctrine should be added the dogmas of the
-immaculate conception of the Blessed Virgin declared in 1854, and of
-papal infallibility decreed by the Vatican council of 1870.
+[[Immaculate Conception|immaculate conception]] of the Blessed Virgin declared in 1854, and of
+papal [[Infallibility|infallibility]] decreed by the Vatican council of 1870.
 
 _Conclusion._--In this survey of Christian confessions it has been
 impossible to do more than barely name many which deserve discussion.
 This is a subject which has grown in importance and is likely to grow
 further. The very intensity of that phase of modern thought which
 declaims fervently against all creeds, and would maintain what George
-Eliot called "the right of the individual to general haziness," is
+[[Eliot]] called "the right of the individual to general haziness," is
 likely to draw all Christian thinkers nearer to one another in sympathy
 through acceptance of the Apostles' Creed as the common basis of
 Christian thought. In the words of Hilary of Poitiers, "Faith gathers
@@ -1169,7 +1169,7 @@ Son is "of one substance with the Father." In the words of Hilary again:
 
   "Faithful souls would be contented with the word of God which bids us:
   'Go teach all nations, baptizing them in the name of the Father and of
-  the Son and of the Holy Ghost.' But also we are drawn by the faults of
+  the Son and of the Holy Ghost.' But also we are drawn by the [[Fault|faults]] of
   our heretical opponents to do things unlawful, to scale heights
   inaccessible, to speak out what is unspeakable, to presume where we
   ought not. And whereas it is by faith alone that we should worship the
@@ -1198,7 +1198,7 @@ its advocates) can give. But the answers may be superseded by better
 answers, or they may be rendered unnecessary because the questions are
 no longer asked. Thus the Calvinism of the 16th and 17th centuries
 elaborated answers to questions, which if no attempt had been made to
-answer them, would have perplexed earnest souls and condemned the
+answer them, would have perplexed [[Earnest|earnest]] souls and condemned the
 system; but many parts of the system are now obsolete, because the
 conditions which suggested the questions which they sought to answer no
 longer exist or have no longer any interest or importance."
@@ -1219,7 +1219,7 @@ longer exist or have no longer any interest or importance."
   edited by E. King (Oxford, 1870); F. Loofs and A. Harnack articles in
   Herzog-Hauck's _Realencyklopadie_ ("Athanasianum" and
   "Konstantino-politanisches Symbol") (1896), &c.; K. Kunstle,
-  _Antipriscilliana_ (Freiburg i. B., 1905); A. Stewart, _Croall
+  _Antipriscilliana_ ([[Freiburg]] i. B., 1905); A. Stewart, _Croall
   Lectures_ (in the press); S. G. Green, _The Christian Creed_ (1898);
   P. Hall, _Harmony of Protestant Confessions_ (London, 1842); F.
   Kattenbusch, _Confessionskunde_ (Freiburg i. B., 1890); Winex's
@@ -1229,8 +1229,8 @@ longer exist or have no longer any interest or importance."
   Goodwin, _The Foundations of the Creed_ (London, 1889); T. H. Bindley,
   _The Oecumenical Documents of the Faith_ (London, 1906); J. Kunze,
   _Das nicanisch-konstantinopolitanische Symbol_; S. Baeumer, _Das
-  apostolische Glaubensbekenntnis_ (Mainz, 1893); B. Doxholt, _Das
-  Taufsymbol. der alten Kirche_ (Paderborn, 1898); L. Hahn, _Bibliothek
+  apostolische Glaubensbekenntnis_ ([[Mainz]], 1893); B. Doxholt, _Das
+  Taufsymbol. der alten Kirche_ (Paderborn, 1898); L. [[Hahn]], _Bibliothek
   der Symbole u. Glaubensregeln_ (Breslau, 1897); A. C. McGiffert, _The
   Apostles' Creed_ (Edinburgh, 1902); and F. Loofs, _Symbolik_ (Leipzig,
   1902).     (A. E. B.)
@@ -1248,7 +1248,7 @@ FOOTNOTES:
 
   [5] _Der Katechismus der Urchristenheit_, p. 85. Zahn's reasoned
     argument stands in contrast to the blind reliance on tradition shown
-    by Macdonald, _The Symbol of the Apostles_, and the fanciful
+    by [[Macdonald]], _The Symbol of the Apostles_, and the fanciful
     reconstruction of the primitive creed by Baeumer, Harnack or Seeberg.
 
   [6] McGiffert, on the other hand, argues that the Roman Creed was
@@ -1276,7 +1276,7 @@ FOOTNOTES:
     conclusively how the interpolation crept in.
 
   [12] The first person who doubted the authorship seems to have been
-    Joachim Camerarius, 1551, who was so fiercely attacked in consequence
+    Joachim [[Camerarius]], 1551, who was so fiercely attacked in consequence
     that he omitted the passage from his Latin edition. _Zeitschrift fur
     K.G._ x. (1889), p. 497.
 
@@ -1287,7 +1287,7 @@ FOOTNOTES:
     18th of October, stated that they had "endeavoured to represent the
     Latin original more exactly in a large number of cases." The general
     effect of the new version is to make the creed more comprehensible,
-    e.g. by the substitution of "infinite" and "reasoning" for such
+    e.g. by the substitution of "[[Infinite|infinite]]" and "reasoning" for such
     archaisms as "incomprehensible" and "reasonable." The sense of the
     damnatory clauses has, however, not been weakened. [Ed.]
 

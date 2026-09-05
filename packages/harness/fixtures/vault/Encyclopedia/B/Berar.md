@@ -9,7 +9,7 @@ Vidarbha, the name of a kingdom in the Deccan of which, in the period of
 the Mahabharata, Berar probably formed part. The history of Berar
 belongs generally to that of the Deccan, the country falling in turn
 under the sway of the various dynasties which successively ruled in
-southern India, the first authentic records showing it to have been part
+southern India, the first [[Authentic|authentic]] records showing it to have been part
 of the Andhra or Satavahana empire. On the final fall of the Chalukyas
 in the 12th century, Berar came under the sway of the Yadavas of
 Deogiri, and remained in their possession till the Mussulman invasions
@@ -22,11 +22,11 @@ governments, named after their capitals Gawil and Mahur. The Bahmani
 dynasty was, however, already tottering to its fall; and in 1490
 Imad-ul-Mulk, governor of Gawil, who had formerly held all Berar,
 proclaimed his independence and proceeded to annex Mahur to his new
-kingdom. Imad-ul-Mulk was by birth a Kanarese Hindu, but had been
+kingdom. Imad-ul-Mulk was by birth a [[Kanarese]] Hindu, but had been
 captured as a boy in one of the expeditions against Vijayanagar and
 reared as a Mussulman. He died in 1504 and his direct descendants held
 the sultanate of Berar until 1561, when Burhan Imad Shah was deposed by
-his minister Tufal Khan, who assumed the kingship. This gave a pretext
+his minister Tufal [[Khan]], who assumed the kingship. This gave a pretext
 for the intervention of Murtaza Nizam Shah of Ahmednagar, who in 1572
 invaded Berar, imprisoned and put to death Tufal Khan, his son
 Shams-ul-Mulk, and the ex-king Burhan, and annexed Berar to his own
@@ -40,8 +40,8 @@ Daniyal (d. 1605), as governor. After Akbar's death (1605) Berar once
 more became independent under the Abyssinian Malik Ambar (d. 1626), but
 in the first year of Shah Jahan's reign it was again brought under the
 sway of the Mogul empire. Towards the close of the 17th century the
-province began to be overrun by the Mahrattas, and in 1718 the Delhi
-government formally recognized their right to levy blackmail (_chauth_)
+province began to be overrun by the [[Mahrattas]], and in 1718 the [[Delhi]]
+government formally recognized their right to [[Levy|levy]] [[Blackmail|blackmail]] (_chauth_)
 on the unhappy population. In 1724 the Nizam-ul-Mulk Asaf Jah
 established the independent line of the nizams of Hyderabad, and
 thenceforth the latter claimed to be _de jure_ sovereigns of Berar, with
@@ -58,7 +58,7 @@ the nizam, together with some tracts about Sindkhed and Jalna which had
 been held by Sindhia. By a treaty of 1822, which extinguished the
 Mahratta right to levy _chauth_, the Wardha river was fixed as the
 eastern boundary of Berar, the Melghat and adjoining districts in the
-plains being assigned to the nizam in exchange for the districts east of
+plains being assigned to the nizam in [[Exchange|exchange]] for the districts east of
 the Wardha held by the peshwa.
 
 Though Berar was no longer oppressed by its Mahratta taskmasters nor
@@ -74,7 +74,7 @@ British government had to intervene effectively, and in 1853 a new
 treaty was signed with the nizam, under which the Hyderabad contingent
 was to be maintained by the British government, while for the pay of
 this force and in satisfaction of other claims, certain districts were
-"assigned" to the East India Company. It was these "Hyderabad Assigned
+"assigned" to the [[East India Company]]. It was these "Hyderabad Assigned
 Districts" which were popularly supposed to form the province of Berar,
 though they coincided in extent neither with the Berar of the nizams nor
 with the old Mogul province. In 1860, by a new treaty which modified in

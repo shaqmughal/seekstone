@@ -42,7 +42,7 @@ best is perhaps the one edited by J. Lair (Caen, 1865).
   Waitz, "Über die Quellen zur Geschichte der Begrundung der
   normannischen Herrschaft in Frankreich," in the _Gottinger gel.
   Anzeigen_ (Göttingen, 1866); J.C.H.R. Steenstrup, _Normannerne_,
-  Band i. (Copenhagen, 1876); J. Lair, _Étude critique et historique sur
+  Band i. ([[Copenhagen]], 1876); J. Lair, _Étude critique et historique sur
   Dudon_ (Caen, 1865); G. Kortung, _Über die Quellen des Roman de Rou_
   (Leipzig, 1867); W. Wattenbach, _Deutschlands Geschichtsquellen_, Band
   i. (Berlin, 1904); and A. Molinier, _Les Sources de l'histoire de

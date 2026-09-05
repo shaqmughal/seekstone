@@ -1,7 +1,7 @@
 # Matlock
 
 MATLOCK, a market town in the western parliamentary division of
-Derbyshire, England, on the river Derwent, 17 m. N. by W. of Derby on
+Derbyshire, England, on the river [[Derwent]], 17 m. N. by W. of [[Derby]] on
 the Midland railway. Pop. (1901), of urban district of Matlock, 5979; of
 Matlock Bath and Scarthin Nick, 1819. The entire township includes the
 old village of Matlock, the commercial and manufacturing district of

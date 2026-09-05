@@ -1,15 +1,15 @@
 # Llorente
 
-LLORENTE, JUAN ANTONIO (1756-1823), Spanish historian, was born on the
-30th of March 1756 at Rincon de Soto in Aragon. He studied at the
+LLORENTE, JUAN [[Antonio|ANTONIO]] (1756-1823), Spanish historian, was born on the
+30th of March 1756 at Rincon [[De Soto|de Soto]] in [[Aragon]]. He studied at the
 university of Saragossa, and, having been ordained priest, became
-vicar-general to the bishop of Calahorra in 1782. In 1785 he became
-commissary of the Holy Office at Logroño, and in 1789 its general
+vicar-general to the bishop of [[Calahorra]] in 1782. In 1785 he became
+[[Commissary|commissary]] of the Holy Office at Logroño, and in 1789 its general
 secretary at Madrid. In the crisis of 1808 Llorente identified himself
 with the Bonapartists, and was engaged for a few years in superintending
-the execution of the decree for the suppression of the monastic orders,
-and in examining the archives of the Inquisition. On the return of King
-Ferdinand VII. to Spain in 1814 he withdrew to France, where he
+the execution of the [[Decree|decree]] for the suppression of the monastic orders,
+and in examining the [[Archive|archives]] of the Inquisition. On the return of King
+[[Ferdinand]] VII. to Spain in 1814 he withdrew to France, where he
 published his great work, _Historia critica de la inquisicion de España_
 (Paris, 1815-1817). Translated into English, French, German, Dutch and
 Italian, it attracted much attention in Europe, and involved its author

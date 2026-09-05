@@ -9,9 +9,9 @@ topic: architecture
 CAMPANULA (Bell-flower), in botany, a genus of plants containing about
 230 species, found in the temperate parts of the northern hemisphere,
 chiefly in the Mediterranean region. The name is taken from the
-bell-shaped flower. The plants are perennial, rarely annual or biennial,
-herbs with spikes or racemes of white, blue or lilac flowers. Several
-are native in Britain; _Campanula rotundifolia_ is the harebell (q.v.)
+bell-shaped [[Flower|flower]]. The plants are perennial, rarely annual or biennial,
+[[Herb|herbs]] with spikes or racemes of white, blue or [[Lilac|lilac]] flowers. Several
+are native in Britain; _Campanula rotundifolia_ is the [[Harebell|harebell]] (q.v.)
 or Scotch bluebell, a common plant on pastures and heaths,--the delicate
 slender stem bears one or a few drooping bell-shaped flowers; _C.
 Rapunculus_, rampion or ramps, is a larger plant with a panicle of
@@ -20,7 +20,7 @@ roadsides and hedgebanks, but is rare. It is cultivated, but not
 extensively, for its fleshy roots, which are used, either boiled or raw,
 as salad. Many of the species are grown in gardens for their elegant
 flowers; the dwarf forms are excellent for pot culture, rockeries or
-fronts of borders. _C. Medium_, Canterbury bell, with large blue, purple
+fronts of [[Borders|borders]]. _C. Medium_, Canterbury bell, with large blue, purple
 and white flowers, is a favourite and handsome biennial, of which there
 are numerous varieties. _C. persicifolia_, a perennial with more open
 flowers, is also a well-known border plant, with numerous forms,

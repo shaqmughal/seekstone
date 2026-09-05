@@ -8,7 +8,7 @@ type: note
 # Gross
 
 GROSS, properly thick, bulky, the meaning of the Late Lat. _grossus_.
-The Latin word has usually been taken as cognate with _crassus_, thick,
+The Latin word has usually been taken as cognate with _[[Crassus|crassus]]_, thick,
 but this is now doubted. It also appears not to be connected with the
 Ger. _gross_, a Teutonic word represented in English by "great." Apart
 from its direct meaning, and such figurative senses as coarse, vulgar

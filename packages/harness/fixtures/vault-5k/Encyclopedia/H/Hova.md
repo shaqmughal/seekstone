@@ -1,7 +1,7 @@
 # Hova
 
 HOVA, the name originally applied to the middle-class Malayo-Indonesian
-natives of Madagascar (q.v.), as distinct from the noble class
+natives of [[Madagascar]] (q.v.), as distinct from the noble class
 _Andriana_ and the slave class _Andevo_. Hova has now come to mean the
 most numerous and powerful of the tribes which form the native
 population of Madagascar. The Hova, who occupy the province of Imerina,
@@ -20,9 +20,9 @@ are round, with flat straight foreheads, flat faces, prominent
 cheekbones, small straight noses, fairly wide nostrils, and small black
 and slightly oblique eyes. The physical contrast to the negro is usually
 very obvious, but, especially among the lower classes, there is a
-tendency to thick lips, kinky hair and dark skin. In many of their
+tendency to thick [[Lip|lips]], kinky hair and dark skin. In many of their
 customs, such as taboo, infanticide, marriage and funeral rites, they
-show their Indonesian origin. Most of them now profess Christianity.
+show their [[Indonesian]] origin. Most of them now profess Christianity.
 
 ## See also
 

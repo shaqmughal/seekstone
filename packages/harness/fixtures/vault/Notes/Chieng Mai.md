@@ -13,7 +13,7 @@ provincial division of Siam called Bayap, situated in 99° 0' E., 18° 46'
 N. The town, enclosed by massive but decaying walls, lies on the right
 bank of the river Me Ping, one of the branches of the Me Nam, in a plain
 800 ft. above sea-level, surrounded by high, wooded mountains. It has
-streets intersecting at right angles, and an enceinte within which is
+streets intersecting at right angles, and an [[Enceinte|enceinte]] within which is
 the palace of the Chao, or hereditary chief. The east and west banks of
 the river are connected by a fine teak bridge. The American Presbyterian
 Mission, established here in 1867, has a large number of converts and
@@ -33,20 +33,20 @@ official and his staff. The government forest department, founded in
 1896, has done good work in the division, and the conservator of forests
 has his headquarters in Chieng Mai. The headquarters of an army division
 are also situated here. A British consul resides at Chieng Mai, where,
-in addition to the ordinary law courts, there is an international court
+in addition to the ordinary law courts, there is an [[International|international]] court
 having jurisdiction in all cases in which British subjects are parties.
-The population, about 20,000, consists mainly of Laos, with many Shans,
+The population, about 20,000, consists mainly of [[Laos]], with many Shans,
 a few Burmese, Chinese and Siamese and some fifty Europeans. Hill tribes
 (Ka) inhabit the neighbouring mountains in large numbers.
 
 Chieng Mai was formerly the capital of a united Lao kingdom, which, at
-one time independent, afterwards subject to Burma and then to Siam, and
+one time independent, afterwards subject to [[Burma]] and then to Siam, and
 later broken up into a number of states, has finally become a provincial
 division of Siam. In 1902 a rising of discontented Shans took place in
 Bayap which at one time seemed serious, several towns being attacked and
 Chieng Mai itself threatened. The disturbance was quelled and the
 malcontents eventually hunted out, but not without losses which included
-the commissioner of Prè and a European officer of gendarmerie.
+the commissioner of Prè and a European officer of [[Gendarmerie|gendarmerie]].
 
 ## See also
 

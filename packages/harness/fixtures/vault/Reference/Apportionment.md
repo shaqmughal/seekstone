@@ -7,7 +7,7 @@ employed roughly and with no technical meaning to indicate the
 distribution of a benefit (e.g. salvage or damages under the Fatal
 Accidents Act 1846, S 2), or liability (e.g. general average
 contributions, or tithe rent-charge), or the incidence of a duty (e.g.
-obligations as to the maintenance of highways). (2) In its strict legal
+obligations as to the [[Maintenance|maintenance]] of highways). (2) In its strict legal
 interpretation apportionment falls into two classes, "apportionment in
 respect of estate" and "apportionment in respect of time."
 
@@ -20,12 +20,12 @@ where the person entitled to the reversion of an estate assigns part of
 it, the right to an apportioned part of the rent incident to the whole
 reversion passes to his assignee. The lessee is not bound, however, by
 an apportionment of rent made upon the grant of part of the reversion
-unless it is made either with his consent or by the verdict of a jury.
+unless it is made either with his consent or by the verdict of a [[Jury|jury]].
 The assignee of the reversion of part of demised premises could not, at
-common law, re-enter for breach of a condition, inasmuch as a condition
+common law, re-enter for [[Breach|breach]] of a condition, inasmuch as a condition
 of re-entry in a lease could not at common law be apportioned. But this
 has now been altered by statute both in England (Law of Property
-Amendment Act 1859, S 3; Conveyancing Act 1881, S 12) and in many of the
+Amendment Act 1859, S 3; [[Conveyancing]] Act 1881, S 12) and in many of the
 British colonies (e.g. Ontario, Rev. Stats., 1897, c. 170, S 9;
 Barbados, No. 12 of 1891, S 9). In the cases just mentioned there is
 apportionment in respect of estate by act of the parties.
@@ -33,7 +33,7 @@ apportionment in respect of estate by act of the parties.
   _Apportionment by operation of law_ may be brought about where by act
   of law a lease becomes inoperative as regards its subject-matter, or
   by the "act of God" (as, for instance, where part of an estate is
-  submerged by the encroachments of the sea). To the same category
+  submerged by the encroachments of the sea). To the same [[Category|category]]
   belongs the apportionment of rent which takes place under various
   statutes (e.g. the Lands Clauses Consolidation Act 1845, S 119, when
   land is required for public purposes; the Agricultural Holdings Act
@@ -57,11 +57,11 @@ entire portion would have been payable if it had not so determined (S
 3). Persons entitled to apportioned parts of rent have the same remedies
 for recovering them when payable as they would have had in respect of
 the entire rent; but a lessee is not to be liable for any apportioned
-part specifically. The rent is recoverable by the heir or other person
+part specifically. The rent is recoverable by the [[Heir|heir]] or other person
 who would, but for the apportionment, be entitled to the entire rent,
 and he holds it subject to distribution (S 4). The Apportionment Act
 1870 extends to payments not made under any instrument in writing (S 2),
-but not to annual sums made payable in policies of insurance (S 6).
+but not to annual sums made payable in policies of [[Insurance|insurance]] (S 6).
 Apportionment under the act can be excluded by express stipulation.
 
 The apportionment created by this statute is "apportionment in respect
@@ -75,14 +75,14 @@ became due.
 
   (A) With regard to the former of these classes, it may be noticed that
   although apportioned rent becomes payable only when the whole rent is
-  due, the landlord, in the case of the bankruptcy of an ordinary
+  due, the landlord, in the case of the [[Bankruptcy|bankruptcy]] of an ordinary
   tenant, may prove for a proportionate part of the rent up to the date
   of the receiving order (Bankruptcy Act 1883, Sched. ii. r. 19); and
   that a similar rule holds good in the winding up of a company (_in re
-  South Kensington Co-operative Stores_, 1881, 17 Ch.D. 161); and
+  South [[Kensington]] Co-operative Stores_, 1881, 17 Ch.D. 161); and
   further that the act of 1870 applies to the liability to pay, as well
   as to the right to receive, rent (_in re Wilson_, 1893, 62 L.J.Q.B.
-  628, 632). Accordingly where an assignment of a lease is made between
+  628, 632). Accordingly where an [[Assignment|assignment]] of a lease is made between
   two half-yearly rent-days, the assignee is not liable to pay the full
   amount of the half-year's rent falling due on the rent-day next after
   the date of the assignment, but only an apportioned part of that
@@ -112,7 +112,7 @@ the accumulations for the period of such postponement. The rule followed
 is this: the proceeds, when realized, are apportionable between capital
 and income by ascertaining the sum which, put out and accumulated at 3%
 _per annum_ from the day of the testator's death (with yearly rents and
-deducting income tax) would have produced at the day of receipt the sum
+deducting [[Income Tax|income tax]]) would have produced at the day of receipt the sum
 actually received. The sum so ascertained should be treated as capital
 and the residue as income. (_In re Earl of Chesterfield's Trusts_, 1883,
 24 Ch.D. 643; _In re Goodenough_, 1895, 2 Ch. 537; _Rowlls_ v. _Bebb_,
@@ -120,7 +120,7 @@ and the residue as income. (_In re Earl of Chesterfield's Trusts_, 1883,
 
   In addition to the authorities cited in the text, see Stroud, _Jud.
   Dict._ (2nd ed., London, 1903), s.v. "Apportion"; Bouvier, _Law Dict._
-  (London and Boston, 1897), s.v. "Apportionment"; _Ruling Cases_
+  (London and [[Boston]], 1897), s.v. "Apportionment"; _Ruling Cases_
   (London, 1895), tit. "Apportionment"; Fawcett, _Landlord and Tenant_
   (London, 1905), pp. 238 et seq.; Foa, _Landlord and Tenant_ (3rd ed.,
   London, 1901), pp. 112 et seq.     (A. W. R.)

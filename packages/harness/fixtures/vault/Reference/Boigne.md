@@ -2,13 +2,13 @@
 
 BOIGNE, BENOIT DE, COUNT (1751-1830), the first of the French military
 adventurers in India, was born at Chambery in Savoy on the 8th of March
-1751, being the son of a fur merchant. He joined the Irish Brigade in
+1751, being the son of a [[Fur|fur]] merchant. He joined the Irish Brigade in
 France in 1768, and subsequently he entered the Russian service and was
 captured by the Turks. Hearing of the wealth of India, he made his way
 to that country, and after serving for a short time in the East India
 Company, he resigned and joined Mahadji Sindhia in 1784 for the purpose
 of training his troops in the European methods of war. In the battles of
-Lalsot and Chaksana Boigne and his two battalions proved their worth by
+Lalsot and Chaksana Boigne and his two [[Battalion|battalions]] proved their worth by
 holding the field when the rest of the Mahratta army was defeated by the
 Rajputs. In the battle of Agra (1788) he restored the Mahratta fortunes,
 and made Mahadji Sindhia undisputed master of Hindostan. This success

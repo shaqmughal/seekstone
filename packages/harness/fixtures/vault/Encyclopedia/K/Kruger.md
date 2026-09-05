@@ -12,13 +12,13 @@ Transvaal Republic, was born in Colesberg, Cape Colony, on the 10th of
 October 1825. His father was Caspar Jan Hendrick Kruger, who was born in
 1796, and whose wife bore the name of Steyn. In his ancestry on both
 sides occur Huguenot names. The founder of the Kruger family appears to
-have been a German named Jacob Kruger, who in 1713 was sent with others
-by the Dutch East India Company to the Cape. At the age of ten Paul
+have been a German named [[Jacob]] Kruger, who in 1713 was sent with others
+by the [[Dutch East India Company]] to the Cape. At the age of ten Paul
 Kruger--as he afterwards came to be known--accompanied his parents in
 the migration, known as the Great Trek, from the Cape Colony to the
 territories north of the Orange in the years 1835-1840. From boyhood his
 life was one of adventure. Brought up on the borderland between
-civilization and barbarism, constantly trekking, fighting and hunting,
+civilization and barbarism, constantly trekking, fighting and [[Hunting|hunting]],
 his education was necessarily of the most primitive character. He learnt
 to read and to write, and was taught the narrowest form of Dutch
 Presbyterianism. His literature was almost confined to the Bible, and
@@ -38,7 +38,7 @@ was divided in the early days into three sects. Of these the narrowest,
 most puritanical, and most bigoted was the Dopper sect, to which Kruger
 belonged. His Dopper following was always unswerving in its support, and
 at all critical times in the internal quarrels of the state rallied
-round him. The charge of hypocrisy, frequently made against Kruger--if
+round him. The charge of [[Hypocrisy|hypocrisy]], frequently made against Kruger--if
 by this charge is meant the mere juggling with religion for purely
 political ends--does not appear entirely just. The subordination of
 reason to a sense of superstitious fanaticism is the keynote of his
@@ -46,16 +46,16 @@ character, and largely the explanation of his life. Where faith is so
 profound as to believe the Divine guidance _all_, and the individual
 intelligence _nil_, a man is able to persuade himself that any course he
 chooses to take is the one he is directed to take. Where bigotry is so
-blind, reason is but dust in the balance. At the same time there were
+blind, reason is but [[Dust|dust]] in the [[Balance|balance]]. At the same time there were
 incidents in Kruger's life which but ill conform to any Biblical
 standard he might choose to adopt or feel imposed upon him. Even van
 Oordt, his eloquent historian and apologist, is cognisant of this fact.
 
-When the lad, who had already taken part in fights with the Matabele and
+When the lad, who had already taken part in fights with the [[Matabele]] and
 the Zulus, was fourteen his family settled north of the Vaal and were
 among the founders of the Transvaal state. At the age of seventeen Paul
 found himself an assistant field cornet, at twenty he was field cornet,
-and at twenty-seven held a command in an expedition against the Bechuana
+and at twenty-seven held a command in an expedition against the [[Bechuana]]
 chief Sechele--the expedition in which David Livingstone's mission-house
 was destroyed.
 
@@ -65,7 +65,7 @@ hunting excursions which took him as far north as the Zambezi. In 1852
 the Transvaal secured the recognition of its independence from Great
 Britain in the Sand River convention. For many years after this date the
 condition of the country was one bordering upon anarchy, and into the
-faction strife which was continually going on Kruger freely entered. In
+[[Faction|faction]] strife which was continually going on Kruger freely entered. In
 1856-1857 he joined M. W. Pretorius in his attempt to abolish the
 district governments in the Transvaal and to overthrow the Orange Free
 State government and compel a federation between the two countries. The
@@ -83,7 +83,7 @@ the forces of the Transvaal. In 1870 a boundary dispute arose with the
 British government, which was settled by the Keate award (1871). The
 decision caused so much discontent in the Transvaal that it brought
 about the downfall of President Pretorius and his party; and Thomas
-François Burgers, an educated Dutch minister, resident in Cape Colony,
+François [[Burgers]], an educated Dutch minister, resident in Cape Colony,
 was elected to succeed him. During the term of Burgers' presidency
 Kruger appeared to great disadvantage. Instead of loyally supporting the
 president in the difficult task of building up a stable state, he did
@@ -91,7 +91,7 @@ everything in his power to undermine his authority, going so far as to
 urge the Boers to pay no taxes while Burgers was in office. The faction
 of which he was a prominent member was chiefly responsible for bringing
 about that _impasse_ in the government of the country which drew such
-bitter protest from Burgers and terminated in the annexation by the
+bitter protest from Burgers and terminated in the [[Annexation|annexation]] by the
 British in April 1877. At this period of Transvaal history it is
 impossible to trace any true patriotism in the action of the majority of
 the inhabitants. The one idea of Kruger and his faction was to oust
@@ -105,7 +105,7 @@ retrocession of the country, being a member of two deputations which
 went to England endeavouring to get the annexation annulled, that in
 1878 Sir Theophilus Shepstone, the British administrator, dismissed him
 from his service. In 1880 the Boer rebellion occurred, and Kruger was
-one of the famous triumvirate, of which General Piet Joubert and
+one of the famous triumvirate, of which General Piet [[Joubert]] and
 Pretorius were the other members, who, after Majuba, negotiated the
 terms of peace on which the Pretoria convention of August 1881 was
 drafted. In 1883 he was elected president of the Transvaal, receiving
@@ -114,9 +114,9 @@ drafted. In 1883 he was elected president of the Transvaal, receiving
 In November 1883 President Kruger again visited England, this time for
 the purpose of getting another convention. The visit was successful, the
 London convention, which for years was a subject of controversy, being
-granted by Lord Derby in 1884 on behalf of the British government. The
+granted by Lord [[Derby]] in 1884 on behalf of the British government. The
 government of the Transvaal being once more in the hands of the Boers,
-the country rapidly drifted towards that state of national bankruptcy
+the country rapidly drifted towards that state of national [[Bankruptcy|bankruptcy]]
 from which it had only been saved by annexation in 1877. In 1886, the
 year in which the Rand mines were discovered, President Kruger was by no
 means a popular man even among his own followers; as an administrator of
@@ -169,7 +169,7 @@ Transvaal. "This," said Kruger, "is my country; these are my laws. Those
 who do not like to obey my laws can leave my country." This rejection of
 the advances of the Uitlanders--by whose aid he could have built up a
 free and stable republic--led to his downfall, though the failure of the
-Jameson Raid in the first days of 1896 gave him a signal opportunity to
+[[Jameson]] Raid in the first days of 1896 gave him a signal opportunity to
 secure the safety of his country by the grant of real reforms. But the
 Raid taught him no lesson of this kind, and despite the intervention of
 the British government the Uitlanders' grievances were not remedied.
@@ -177,13 +177,13 @@ the British government the Uitlanders' grievances were not remedied.
 In 1898 Kruger was elected president of the Transvaal for the fourth and
 last time. In 1899 relations between the Transvaal and Great Britain had
 become so strained, by reason of the oppression of the foreign
-population, that a conference was arranged at Bloemfontein between Sir
+population, that a conference was arranged at [[Bloemfontein]] between Sir
 Alfred (afterwards Lord) Milner, the high commissioner, and President
 Kruger. Kruger was true to his principles. At every juncture in his life
 his object had been to gain for himself and his own narrow policy
 everything that he could, while conceding nothing in return. It was for
 this reason that he invariably failed to come to any arrangement with
-Sir John Brand while the latter was president of the Free State. In
+Sir John [[Brand]] while the latter was president of the Free State. In
 1889, the very year following President Brand's death, he was able to
 make a treaty with President Reitz, his successor, which bound each of
 the Boer republics to assist the other in case its independence was
@@ -209,7 +209,7 @@ by the Boers both of the Transvaal and the Free State. Yet one of the
 most memorable utterances made by Kruger at the Bloemfontein conference
 was couched in the following terms: "We follow out what God says,
 'Accursed be he that removeth his neighbour's landmark.' As long as your
-Excellency lives you will see that we shall never be the attacking party
+[[Excellency]] lives you will see that we shall never be the attacking party
 on another man's land." The course of the war that followed is described
 under TRANSVAAL. In 1900, Bloemfontein and Pretoria having been occupied
 by British troops, Kruger, too old to go on commando, with the consent
@@ -220,7 +220,7 @@ From this time he ceased to have any political influence. He took up his
 residence at Utrecht, where he dictated a record of his career,
 published in 1902 under the title of _The Memoirs of Paul Kruger_. He
 died on the 14th of July 1904 at Clarens, near Vevey, on the shores of
-the Lake of Geneva, whither he had gone for the sake of his health. He
+the Lake of [[Geneva]], whither he had gone for the sake of his health. He
 was buried at Pretoria on the following 16th of December, Dingaan's Day,
 the anniversary of the day in 1838 when the Boers crushed the Zulu king
 Dingaan--a fight in which Kruger, then a lad of thirteen, had taken

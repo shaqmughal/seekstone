@@ -8,8 +8,8 @@ id: 42-426
 
 # English Law
 
-ENGLISH LAW (_History_). In English jurisprudence "legal memory" is said
-to extend as far as, but no further than the coronation of Richard I.
+ENGLISH LAW (_History_). In English [[Jurisprudence|jurisprudence]] "legal memory" is said
+to extend as far as, but no further than the [[Coronation|coronation]] of Richard I.
 (Sept. 3, 1189). This is a technical doctrine concerning prescriptive
 rights, but is capable of expressing an important truth. For the last
 seven centuries, little more or less, the English law, which is now
@@ -22,26 +22,26 @@ that time onwards it is rather the enormous bulk than any dearth of
 available materials that prevents us from tracing the transformation of
 every old doctrine and the emergence and expansion of every new idea. If
 we are content to look no further than the text-books--the books written
-by lawyers for lawyers--we may read our way backwards to Blackstone (d.
-1780), Hale (d. 1676), Coke (d. 1634), Fitzherbert (d. 1538), Littleton
-(d. 1481), Bracton (d. 1268), Glanvill (d. 1190), until we are in the
-reign of Henry of Anjou, and yet shall perceive that we are always
+by lawyers for lawyers--we may read our way backwards to [[Blackstone]] (d.
+1780), [[Hale]] (d. 1676), Coke (d. 1634), Fitzherbert (d. 1538), Littleton
+(d. 1481), [[Bracton]] (d. 1268), Glanvill (d. 1190), until we are in the
+reign of Henry of [[Anjou]], and yet shall perceive that we are always
 reading of one and the same body of law, though the little body has
 become great, and the ideas that were few and indefinite have become
 many and explicit.
 
 Beyond these seven lucid centuries lies a darker period. Nearly six
-centuries will still divide us from the dooms of Aethelberht (c. 600),
+centuries will still divide us from the [[Doom|dooms]] of Aethelberht (c. 600),
 and nearly seven from the _Lex Salica_ (c. 500). We may regard the
 Norman conquest of England as marking the confluence of two streams of
 law. The one we may call French or Frankish. If we follow it upwards we
 pass through the capitularies of Carlovingian emperors and Merovingian
-kings until we see Chlodwig and his triumphant Franks invading Gaul,
+kings until we see Chlodwig and his triumphant [[Franks]] invading [[Gaul]],
 submitting their Sicambrian necks to the yoke of the imperial religion,
 and putting their traditional usages into written Latin. The other
-rivulet we may call Anglo-Saxon. Pursuing it through the code of Canute
+rivulet we may call Anglo-Saxon. Pursuing it through the [[Code|code]] of Canute
 (d. 1035) and the ordinances of Alfred (c. 900) and his successors, we
-see Ine publishing laws in the newly converted Wessex (c. 690), and,
+see [[Ine]] publishing laws in the newly converted Wessex (c. 690), and,
 almost a century earlier, Aethelberht doing the same in the newly
 converted Kent (c. 600). This he did, says Beda, in accordance with
 Roman precedents. Perhaps from the Roman missionaries he had heard
@@ -50,12 +50,12 @@ Rome. We may at any rate notice with interest that in order of time
 Justinian's law-books fall between the _Lex Salica_ and the earliest
 Kentish dooms; also that the great pope who sent Augustine to England is
 one of the very few men who between Justinian's day and the 11th century
-lived in the Occident and yet can be proved to have known the Digest.
-In the Occident the time for the Germanic "folk-laws" (_Leges
+lived in the Occident and yet can be proved to have known the [[Digest]].
+In the Occident the time for the Germanic "folk-laws" (_[[Leg|Leges]]
 Barbarorum_) had come, and a Canon law, ambitious of independence, was
 being constructed, when in the Orient the lord of church and state was
 "enucleating" all that was to live of the classical jurisprudence of
-pagan Rome. It was but a brief interval between Gothic and Lombardic
+pagan Rome. It was but a brief interval between [[Gothic]] and Lombardic
 domination that enabled him to give law to Italy: Gaul and Britain were
 beyond his reach.
 
@@ -63,12 +63,12 @@ The Anglo-Saxon laws that have come down to us (and we have no reason to
 fear the loss of much beyond some dooms of the Mercian Offa) are best
 studied as members of a large Teutonic family. Those that proceed from
 the Kent and Wessex of the 7th century are closely related to the
-continental folk-laws. Their next of kin seem to be the _Lex Saxonum_
-and the laws of the Lombards. Then, though the 8th and 9th centuries are
+continental folk-laws. Their next of [[Kin|kin]] seem to be the _Lex Saxonum_
+and the laws of the [[Lombards]]. Then, though the 8th and 9th centuries are
 unproductive, we have from Alfred (c. 900) and his successors a series
 of edicts which strongly resemble the Frankish capitularies--so strongly
 that we should see a clear case of imitation, were it not that in
-Frankland the age of legislation had come to its disastrous end long
+[[Frankland]] the age of legislation had come to its disastrous end long
 before Alfred was king. This, it may be noted, gives to English legal
 history a singular continuity from Alfred's day to our own. The king of
 the English was expected to publish laws at a time when hardly any one
@@ -77,7 +77,7 @@ Dane are probably the most comprehensive statutes that were issued in
 the Europe of the 11th century. No genuine laws of the sainted Edward
 have descended to us, and during his reign England seems but too likely
 to follow the bad example of Frankland, and become a loose congeries of
-lordships. From this fate it was saved by the Norman duke, who, like
+lordships. From this [[Fate|fate]] it was saved by the Norman duke, who, like
 Canute before him, subdued a land in which kings were still expected to
 publish laws.
 
@@ -126,7 +126,7 @@ matter. Eyes, carefully trained, have minutely scrutinized the
 Anglo-Saxon legal texts without finding the least trace of a Roman rule
 outside the ecclesiastical sphere. Even within that sphere modern
 research is showing that the church-property-law of the middle ages, the
-law of the ecclesiastical "benefice," is permeated by Germanic ideas.
+law of the ecclesiastical "[[Benefice|benefice]]," is permeated by Germanic ideas.
 This is true of Gaul and Italy, and yet truer of an England in which
 Christianity was for a while extinguished. Moreover, the laws that were
 written in England were, from the first, written in the English tongue;
@@ -155,8 +155,8 @@ debasement of jurisprudence which ends in the formation of what modern
 historians have called a Roman "vulgar-law" (_Vulgarrecht_). For a short
 age which centres round the year 800 it seemed possible that Frankish
 kings, who were becoming Roman emperors, would be able to rule by their
-capitularies nearly the whole of the Christian Occident. The dream
-vanished before fratricidal wars, heathen invaders, centrifugal
+capitularies nearly the whole of the Christian Occident. The [[Dream|dream]]
+vanished before fratricidal wars, [[Heathen|heathen]] invaders, centrifugal
 feudalism, and a centripetal church which found its law in the newly
 concocted forgeries of the Pseudo-Isidore (c. 850). The "personal laws"
 began to transmute themselves into local customs, and the Roman
@@ -169,15 +169,15 @@ appropriating whatever of alien civilization came in their way. In their
 language, religion and law, they had become French many years before they
 subdued England. It is a plausible opinion that among them there lived
 some sound traditions of the Frankish monarchy's best days, and that
-Norman dukes, rather than German emperors or kings, of the French, are
-the truest spiritual heirs of Charles the Great.
+Norman [[Dukes|dukes]], rather than German emperors or kings, of the French, are
+the truest spiritual [[Heir|heirs]] of Charles the Great.
 
 
   The Norman age.
 
 In our own day, German historians are wont to speak of English law as a
 "daughter" of French or Frankish law. This tendency derived its main
-impulse from H. Brunner's proof that the germ of trial by jury, which
+impulse from H. Brunner's proof that the germ of trial by [[Jury|jury]], which
 cannot be found in the Anglo-Saxon laws, can be found in the prerogative
 procedure of the Frankish kings. We must here remember that during a
 long age English lawyers wrote in French and even thought in French, and
@@ -198,10 +198,10 @@ Various attempts were then made, mostly, so it would seem, by men of
 French birth, to state in a modern and practicable form the _laga
 Eadwardi_ which was thus restored. The result of their labours is an
 intricate group of legal tracts which has been explored of late years by
-Dr Liebermann. The best of these has long been known as the _Leges
+Dr [[Liebermann]]. The best of these has long been known as the _Leges
 Henrici Primi_, and aspires to be a comprehensive law-book. Its author,
 though he had some foreign sources at his command, such as the _Lex
-Ribuaria_ and an epitome of the Breviary of Alaric, took the main part
+Ribuaria_ and an [[Epitome|epitome]] of the [[Breviary Of Alaric|Breviary of Alaric]], took the main part
 of his matter from the code of Canute and the older English dooms.
 Neither the Conqueror nor either of his sons had issued many ordinances:
 the invading Normans had little, if any, written law to bring with them,
@@ -216,7 +216,7 @@ geld that was due from his predecessor in title. Himself the rebellious
 vassal of the French king, the duke of the Normans, who had become king
 of the English, knew much of disruptive feudalism, and had no mind to
 see England that other France which it had threatened to become in the
-days of his pious but incompetent cousin. The sheriffs, though called
+days of his pious but incompetent [[Cousin|cousin]]. The sheriffs, though called
 _vice-comites_, were to be the king's officers; the shire-moots might be
 called county courts, but were not to be the courts of counts. Much that
 was sound and royal in English public law was to be preserved if William
@@ -227,31 +227,31 @@ could preserve it.
 
 The gulf that divides the so-called _Leges Henrici_ (c. 1115) from the
 text-book ascribed to Ranulf Glanvill (c. 1188) seems at first sight
-very wide. The one represents a not easily imaginable chaos and clash of
+very wide. The one represents a not easily imaginable [[Chaos|chaos]] and clash of
 old rules and new; it represents also a stage in the development of
 feudalism which in other countries is represented chiefly by a
 significant silence. The other is an orderly, rational book, which
 through all the subsequent centuries will be readily understood by
 English lawyers. Making no attempt to tell us what goes on in the local
 courts, its author, who may be Henry II.'s chief justiciar, Ranulf
-Glanvill, or may be Glanvill's nephew, Hubert Walter, fixes our
+Glanvill, or may be Glanvill's nephew, [[Hubert]] Walter, fixes our
 attention on a novel element which is beginning to subdue all else to
 its powerful operation. He speaks to us of the justice that is done by
 the king's own court. Henry II. had opened the doors of his
 French-speaking court to the mass of his subjects. Judges chosen for
 their ability were to sit there, term after term; judges were to travel
 in circuits through the land, and in many cases the procedure by way of
-"an inquest of the country," which the Norman kings had used for the
+"an [[Inquest|inquest]] of the country," which the Norman kings had used for the
 ascertainment of their fiscal rights, was to be at the disposal of
 ordinary litigants. All this had been done in a piecemeal, experimental
-fashion by ordinances that were known as "assizes." There had not been,
+fashion by ordinances that were known as "[[Assize|assizes]]." There had not been,
 and was not to be, any enunciation of a general principle inviting all
 who were wronged to bring in their own words their complaints to the
 king's audience. The general prevalence of feudal justice, and of the
 world-old methods of supernatural probation (ordeals, battle, oaths
 sworn with oath-helpers), was to be theoretically respected; but in
 exceptional cases, which would soon begin to devour the rule, a royal
-remedy was to be open to any one who could frame his case within the
+remedy was to be open to any one who could [[Frame|frame]] his case within the
 compass of some carefully-worded and prescript formula. With allusion to
 a remote stage in the history of Roman law, a stage of which Henry's
 advisers can have known little or nothing, we may say that a "formulary
@@ -267,22 +267,22 @@ original writs.
 The precipitation of English law in so coherent a form as that which it
 has assumed in Glanvill's book is not to be explained without reference
 to the revival of Roman jurisprudence in Italy. Out of a school of
-Lombard lawyers at Pavia had come Lanfranc the Conqueror's adviser, and
+Lombard lawyers at Pavia had come [[Lanfranc]] the Conqueror's adviser, and
 the Lombardists had already been studying Justinian's Institutes. Then
-at length the Digest came by its rights. About the year 1100 Irnerius
+at length the Digest came by its rights. About the year 1100 [[Irnerius]]
 was teaching at Bologna, and from all parts of the West men were eagerly
-flocking to hear the new gospel of civilization. About the year 1149
+flocking to hear the new [[Gospel|gospel]] of civilization. About the year 1149
 Vacarius was teaching Roman law in England. The rest of a long life he
 spent here, and faculties of Roman and Canon law took shape in the
 nascent university of Oxford. Whatever might be the fate of Roman law in
 England, there could be no doubt that the Canon law, which was
-crystallizing in the _Decretum Gratiani_ (c. 1139) and in the decretals
+crystallizing in the _Decretum Gratiani_ (c. 1139) and in the [[Decretals|decretals]]
 of Alexander III., would be the law of the English ecclesiastical
 tribunals. The great quarrel between Henry II. and Thomas of Canterbury
 brought this system into collision with the temporal law of England, and
 the king's ministers must have seen that they had much to learn from the
 methodic enemy. Some of them were able men who became the justices of
-Henry's court, and bishops to boot. The luminous _Dialogue of the
+Henry's court, and bishops to boot. The luminous _[[Dialogue]] of the
 Exchequer_ (c. 1179), which expounds the English fiscal system, came
 from the treasurer, Richard Fitz Nigel, who became bishop of London; and
 the treatise on the laws of England came perhaps from Glanvill, perhaps
@@ -296,16 +296,16 @@ jurists, but no meek acceptance of foreign results.
 A great constructive era had opened, and its outcome was a large and
 noble book. The author was Henry of Bratton (his name has been corrupted
 into Bracton), who died in 1268 after having been for many years one of
-Henry III.'s justices. The model for its form was the treatise of Azo of
+Henry III.'s justices. The model for its form was the treatise of [[Azo]] of
 Bologna ("master of all the masters of the laws," an Englishman called
 him), and thence were taken many of the generalities of jurisprudence:
-maxims that might be regarded as of universal and natural validity. But
+[[Maxims|maxims]] that might be regarded as of universal and natural validity. But
 the true core of the work was the practice of an English court which had
 yearly been extending its operations in many directions. For half a
 century past diligent record had been kept on parchment of all that this
 court had done, and from its rolls Bracton cited numerous decisions. He
 cited them as precedents, paying special heed to the judgments of two
-judges who were already dead, Martin Pateshull and William Raleigh. For
+judges who were already dead, [[Martin]] Pateshull and William Raleigh. For
 this purpose he compiled a large Note Book, which was discovered by
 Prof. Vinogradoff in the British Museum in 1884. Thus at a very early
 time English "common law" shows a tendency to become what it afterwards
@@ -321,7 +321,7 @@ to individual men and favoured towns. None the less, it was in that age
 no small body of enacted law, and, owing to its importance and
 solemnity, it was in after ages regarded as the first article of a
 statute book. There it was followed by the "provisions" issued at Merton
-in 1236 and by those issued at Marlborough after the end of the Barons'
+in 1236 and by those issued at [[Marlborough]] after the end of the Barons'
 War. But during Henry III.'s long reign the swift development of English
 law was due chiefly to new "original writs" and new "forms of action"
 devised by the chancery and sanctioned by the court. Bracton knew many
@@ -329,8 +329,8 @@ writs that were unknown to Glanvill, and men were already perceiving
 that limits must be set to the inventive power of the chancery unless
 the king was to be an uncontrollable law-maker. Thus the common law was
 losing the power of rapid growth when Bracton summed the attained
-results in a book, the success of which is attested by a crowd of
-manuscript copies. Bracton had introduced just enough of Roman law and
+results in a book, the success of which is attested by a [[Crowd|crowd]] of
+[[Manuscript|manuscript]] copies. Bracton had introduced just enough of Roman law and
 Bolognese method to save the law of England from the fate that awaited
 German law in Germany. His book was printed in 1569, and Coke owed much
 to Bracton.
@@ -339,9 +339,9 @@ The comparison that is suggested when Edward I. is called the English
 Justinian cannot be pressed very far. Nevertheless, as is well known, it
 is in his reign (1272-1307) that English institutions finally take the
 forms that they are to keep through coming centuries. We already see the
-parliament of the three estates, the convocations of the clergy, the
+parliament of the three estates, the [[Convocation|convocations]] of the clergy, the
 king's council, the chancery or secretarial department, the exchequer or
-financial department, the king's bench, the common bench, the
+financial department, the king's [[Bench|bench]], the common bench, the
 commissioners of assize and gaol delivery, the small group of
 professionally learned judges, and a small group of professionally
 learned lawyers, whose skill is at the service of those who will employ
@@ -366,7 +366,7 @@ that there are already, as we should say, a few "leading counsel," some
 of whom will be retained in almost every important cause. Papal
 decretals had been endeavouring to withdraw the clergy from secular
 employment. The clerical element had been strong among the judges of
-Henry III.'s reign: Bracton was an archdeacon, Pateshull a dean, Raleigh
+Henry III.'s reign: Bracton was an [[Archdeacon|archdeacon]], Pateshull a dean, Raleigh
 died a bishop. Their places begin to be filled by men who are not in
 orders, but who have pleaded the king's causes for him--his serjeants or
 servants at law--and beside them there are young men who are
@@ -389,7 +389,7 @@ procedure which are attributed to Chief-Justice Hengham, and a few other
 small tracts of an intensely practical kind. Under the cover of fables
 about King Alfred, the author of the _Mirror of Justices_ made a bitter
 attack upon King Edward's judges, some of whom had fallen into deep
-disgrace. English legal history has hardly yet been purged of the leaven
+disgrace. English legal history has hardly yet been purged of the [[Leaven|leaven]]
 of falsehood that was introduced by this fantastic and unscrupulous
 pamphleteer. His enigmatical book ends that literate age which begins
 with Glanvill's treatise and the treasurer's dialogue. Between Edward
@@ -407,12 +407,12 @@ parliament. Very few are the signs that the judges ever permitted the
 validity of a statute to be drawn into debate. Thus the way was being
 prepared for the definite assertion of parliamentary "omnicompetence"
 which we obtain from the Elizabethan statesman Sir Thomas Smith, and for
-those theories of sovereignty which we couple with the names of Hobbes
+those theories of sovereignty which we couple with the names of [[Hobbes]]
 and Austin. Nevertheless, English law was being developed rather by
 debates in court than by open legislation. The most distinctively
 English of English institutions in the later middle ages are the
 Year-Books and the Inns of Court. Year by year, term by term, lawyers
-were reporting cases in order that they and their fellows might know how
+were reporting cases in order that they and their [[Fellows|fellows]] might know how
 cases had been decided. The allegation of specific precedents was indeed
 much rarer than it afterwards became, and no calculus of authority so
 definite as that which now obtains had been established in Coke's day,
@@ -423,7 +423,7 @@ personal, possessory and proprietary, contract and delict), but by the
 cycle of original writs that were inscribed in the chancery's _Registrum
 Brevium_. A new form of action could not be introduced without the
 authority of Parliament, and the growth of the law took the shape of an
-explication of the true intent of ancient formulas. Times of inventive
+explication of the true [[Intent|intent]] of ancient formulas. Times of inventive
 liberality alternated with times of cautious and captious conservatism.
 Coke could look back to Edward III.'s day as to a golden age of good
 pleading. The otherwise miserable time which saw the Wars of the Roses
@@ -449,7 +449,7 @@ members dined in common; there was the nucleus of a library; there were
 also dormitories or chambers in which during term-time lawyers lived
 celibately, leaving their wives in the country. Something of the college
 thus enters the constitution of these fellowships; and then something
-academical. The craft gild regulated apprenticeship; it would protect
+academical. The [[Craft|craft]] gild regulated apprenticeship; it would protect
 the public against incompetent artificers, and its own members against
 unfair competition. So the fellowship of lawyers. In course of time a
 lengthy and laborious course of education of the medieval sort had been
@@ -478,9 +478,9 @@ call the king's diplomatic service. No medieval Englishman did anything
 considerable for Roman law. Even the canonists were content to read the
 books of French and Italian masters, though John Acton (c. 1340) and
 William Lyndwood (1430) wrote meritorious glosses. The Angevin kings, by
-appropriating to the temporal forum the whole province of ecclesiastical
+appropriating to the temporal [[Forum|forum]] the whole province of ecclesiastical
 patronage, had robbed the decretists of an inexhaustible source of
-learning and of lucre. The work that was done by the legal faculties at
+learning and of [[Lucre|lucre]]. The work that was done by the legal faculties at
 Oxford and Cambridge is slight when compared with the inestimable
 services rendered to the cause of national continuity by the schools of
 English law which grew within the Inns of Court.
@@ -489,7 +489,7 @@ English law which grew within the Inns of Court.
   Chancery.
 
 A danger threatened: the danger that a prematurely osseous system of
-common law would be overwhelmed by summary justice and royal equity.
+common law would be overwhelmed by summary justice and royal [[Equity|equity]].
 Even when courts for all ordinary causes had been established, a reserve
 of residuary justice remained with the king. Whatever lawyers and even
 parliaments might say, it was seen to be desirable that the king in
@@ -525,8 +525,8 @@ his conscience. In the next century it was clear that England had come
 by a new civil tribunal. Negatively, its competence was defined by the
 rule that when the common law offered a remedy, the chancellor was not
 to intervene. Positively, his power was conceived as that of doing what
-"good conscience" required, more especially in cases of "fraud, accident
-or breach of confidence." His procedure was the summary, the
+"good conscience" required, more especially in cases of "[[Fraud|fraud]], accident
+or [[Breach|breach]] of confidence." His procedure was the summary, the
 heresy-suppressing (not the ordinary and solemn) procedure of an
 ecclesiastical court; but there are few signs that he borrowed any
 substantive rules from legist or decretist, and many proofs that within
@@ -542,17 +542,17 @@ A time of strain and trial came with the Tudor kings. It was
 questionable whether the strong "governance" for which the weary nation
 yearned could work within the limits of a parliamentary system, or would
 be compatible with the preservation of the common law. We see new courts
-appropriating large fields of justice and proceeding _summarie et de
+appropriating large [[Fields|fields]] of justice and proceeding _summarie et de
 plano_; the star chamber, the chancery, the courts of requests, of
-wards, of augmentations, the councils of the North and Wales; a little
+wards, of [[Augmentation|augmentations]], the councils of the North and Wales; a little
 later we see the high commission. We see also that judicial torture
-which Fortescue had called the road to hell. The stream of law reports
+which Fortescue had called the road to [[Hell|hell]]. The stream of law reports
 became intermittent under Henry VIII.; few judges of his or his son's
-reign left names that are to be remembered. In an age of humanism,
+reign left names that are to be remembered. In an age of [[Humanism|humanism]],
 alphabetically arranged "abridgments" of medieval cases were the best
-work of English lawyers: one comes to us from Anthony Fitzherbert (d.
+work of English lawyers: one comes to us from [[Anthony]] Fitzherbert (d.
 1538), and another from Robert Broke (d. 1558). This was the time when
-Roman law swept like a flood over Germany. The modern historian of
+Roman law swept like a [[Flood|flood]] over Germany. The modern historian of
 Germany will speak of "the Reception" (that is, the reception of Roman
 law), as no less important than the Renaissance and Reformation with
 which it is intimately connected. Very probably he will bestow hard
@@ -563,24 +563,24 @@ and at one time a reformer, who with good fortune might have been either
 king of England or pope of Rome. English law, said the future cardinal
 and archbishop, was barbarous; Roman law was the very voice of nature
 pleading for "civility" and good princely governance. Pole's words were
-brought to the ears of his majestic cousin, and, had the course of
+brought to the [[Ear|ears]] of his majestic cousin, and, had the course of
 events been somewhat other than it was, King Henry might well have
 decreed a reception. The role of English Justinian would have perfectly
 suited him, and there are distinct traces of the civilian's Byzantinism
 in the doings of the Church of England's supreme head. The academic
 study of the Canon law was prohibited; regius professorships of the
-civil law were founded; civilians were to sit as judges in the
+[[Civil Law|civil law]] were founded; civilians were to sit as judges in the
 ecclesiastical courts. A little later, the Protector Somerset was deeply
 interested in the establishment of a great school for civilians at
 Cambridge. Scottish law was the own sister of English law, and yet in
 Scotland we may see a reception of Roman jurisprudence which might have
-been more whole-hearted than it was, but for the drift of two British
+been more whole-hearted than it was, but for the [[Drift|drift]] of two British
 and Protestant kingdoms towards union. As it fell out, however, Henry
 could get what he wanted in church and state without any decisive
 supersession of English by foreign law. The omnicompetence of an act of
 parliament stands out the more clearly if it settles the succession to
-the throne, annuls royal marriages, forgives royal debts, defines
-religious creeds, attaints guilty or innocent nobles, or prospectively
+the throne, annuls royal marriages, forgives royal [[Debt|debts]], defines
+religious [[Creeds|creeds]], [[Attaint|attaints]] guilty or [[Innocent|innocent]] nobles, or prospectively
 lends the force of statute to the king's proclamations. The courts of
 common law were suffered to work in obscurity, for jurors feared fines,
 and matter of state was reserved for council or star chamber. The Inns
@@ -594,13 +594,13 @@ Yet it is no reception of alien jurisprudence that must be chronicled,
 but a marvellous resuscitation of English medieval law. We may see it
 already in the Commentaries of Edward Plowden (d. 1585) who reported
 cases at length and lovingly. Bracton's great book was put in print, and
-was a key to much that had been forgotten or misunderstood. Under
+was a [[Key|key]] to much that had been forgotten or misunderstood. Under
 Parker's patronage, even the Anglo-Saxon dooms were brought to light;
 they seemed to tell of a Church of England that had not yet been
 enslaved by Rome. The new national pride that animated Elizabethan
 England issued in boasts touching the antiquity, humanity, enlightenment
 of English law. Resuming the strain of Fortescue, Sir Thomas Smith,
-himself a civilian, wrote concerning the Commonwealth of England a book
+himself a civilian, wrote concerning the [[Commonwealth]] of England a book
 that claimed the attention of foreigners for her law and her polity.
 There was dignified rebuke for the French jurist who had dared to speak
 lightly of Littleton. And then the common law took flesh in the person
@@ -610,14 +610,14 @@ ranged over nearly the whole field of law, commenting, reporting,
 arguing, deciding,--disorderly, pedantic, masterful, an incarnate
 national dogmatism tenacious of continuous life. Imbued with this new
 spirit, the lawyers fought the battle of the constitution against James
-and Charles, and historical research appeared as the guardian of
+and Charles, and historical research appeared as the [[Guardian|guardian]] of
 national liberties. That the Stuarts united against themselves three
 such men as Edward Coke, John Selden and William Prynne, is the measure
 of their folly and their failure. Words that, rightly or wrongly, were
 ascribed to Bracton rang in Charles's ears when he was sent to the
 scaffold. For the modern student of medieval law many of the reported
 cases of the Stuart time are storehouses of valuable material, since the
-lawyers of the 17th century were mighty hunters after records. Prynne
+lawyers of the 17th century were mighty [[Hunter|hunters]] after records. Prynne
 (d. 1669), the fanatical Puritan, published ancient documents with
 fervid zeal, and made possible a history of parliament. Selden (d. 1654)
 was in all Europe among the very first to write legal history as it
@@ -626,7 +626,7 @@ masterpiece. When this accomplished scholar had declared that he had
 laboured to make himself worthy to be called a common lawyer, it could
 no longer be said that the common lawyers were _indoctissimum genus
 doctissimorum hominum_. Even pliant judges, whose tenure of office
-depended on the king's will, were compelled to cite and discuss old
+depended on the king's will, were compelled to cite and [[Discus|discuss]] old
 precedents before they could give judgment for their master; and even at
 their worst moments they would not openly break with medieval tradition,
 or declare in favour of that "modern police-state" which has too often
@@ -641,12 +641,12 @@ hardly deflected the course of the stream. In retrospect, Charles II.
 reigns so soon as life has left his father's body, and James II. ends a
 lawless career by a considerate and convenient abdication. The statute
 book of the restored king was enriched by leaves excerpted from the acts
-of a lord protector; and Matthew Hale (d. 1676), who was, perhaps, the
-last of the great record-searching judges, sketched a map of English law
+of a lord protector; and [[Matthew]] Hale (d. 1676), who was, perhaps, the
+last of the great record-searching judges, sketched a [[Map|map]] of English law
 which Blackstone was to colour. Then a time of self-complacency came for
 the law, which knew itself to be the perfection of wisdom, and any
 proposal for drastic legislation would have worn the garb discredited by
-the tyranny of the Puritan Caesar. The need for the yearly renewal of the
+the tyranny of the Puritan [[Caesar]]. The need for the yearly renewal of the
 Mutiny Act secured an annual session of parliament. The mass of the
 statute law made in the 18th century is enormous; but, even when we have
 excluded from view such acts as are technically called "private," the
@@ -690,8 +690,8 @@ superstructure could be reared. One after another delicate devices were
 invented for the accommodation of new wants within the law; but only by
 the assurance that the old law could not be frankly abolished can we be
 induced to admire the subtlety that was thus displayed. As to procedure,
-it had become a maze of evasive fictions, to which only a few learned
-men held the historical clue. By fiction the courts had stolen business
+it had become a [[Maze|maze]] of evasive [[Fictions|fictions]], to which only a few learned
+men held the historical [[Clue|clue]]. By fiction the courts had stolen business
 from each other, and by fiction a few comparatively speedy forms of
 action were set to tasks for which they were not originally framed. Two
 fictitious persons, John Doe and Richard Roe, reigned supreme. On the
@@ -722,7 +722,7 @@ of equity were drawn by men who were steeped in the common law. By way
 of ornament a Roman maxim might be borrowed from a French or Dutch
 expositor, or a phrase which smacked of that "nature-rightly" school
 which was dominating continental Europe; but the influence exercised by
-Roman law upon English equity has been the subject of gross
+Roman law upon English equity has been the subject of [[Gross|gross]]
 exaggeration. Parliament and the old courts being what they were,
 perhaps it was only in a new court that the requisite new law could be
 evolved. The result was not altogether satisfactory. Freed from contact
@@ -771,15 +771,15 @@ delivered by Mr Justice Holmes of the Supreme Court of the United States
 may even have begun to turn the scale against the old country. No
 chapter in Blackstone's book nowadays seems more antiquated than that
 which describes the modest territorial limits of that English law which
-was soon to spread throughout Australia and New Zealand and to follow
+was soon to spread throughout [[Australia]] and New Zealand and to follow
 the dominant race in India.
 
 
-  Bentham.
+  [[Bentham]].
 
 Long wars, vast economic changes and the conservatism generated by the
-French Revolution piled up a monstrous arrear of work for the English
-legislature. Meanwhile, Jeremy Bentham (d. 1832) had laboured for the
+[[French Revolution]] piled up a monstrous arrear of work for the English
+legislature. Meanwhile, [[Jeremy]] Bentham (d. 1832) had laboured for the
 overthrow of much that Blackstone had lauded. Bentham's largest projects
 of destruction and reconstruction took but little effect. Profoundly
 convinced of the fungibility and pliability of mankind, he was but too
@@ -790,8 +790,8 @@ hand, as a critic and derider of the system which Blackstone had
 complacently expounded he did excellent service. Reform, and radical
 reform, was indeed sadly needed throughout a system which was encumbered
 by noxious rubbish, the useless leavings of the middle ages: trial by
-battle and compurgation, deodands and benefit of clergy, John Doe and
-Richard Roe. It is perhaps the main fault of "judge-made law" (to use
+battle and compurgation, [[Deodand|deodands]] and benefit of clergy, John Doe and
+Richard Roe. It is perhaps the main [[Fault|fault]] of "judge-made law" (to use
 Bentham's phrase) that its destructive work can never be cleanly done.
 Of all vitality, and therefore of all patent harmfulness, the old rule
 can be deprived, but the moribund husk must remain in the system doing
@@ -802,7 +802,7 @@ Romilly and Brougham were inspired by Bentham, and the great changes in
 constitutional law which cluster round the Reform Act of 1832 were
 accompanied by many measures which purged the private, procedural and
 criminal law of much, though hardly enough, of the medieval dross. Some
-credit for rousing an interest in law, in definitions of legal terms,
+[[Credit|credit]] for rousing an interest in law, in [[Definition|definitions]] of legal terms,
 and in schemes of codification, is due to John Austin (d. 1859) who was
 regarded as the jurist of the reforming and utilitarian group. But,
 though he was at times an acute dissector of confused thought, he was
@@ -814,7 +814,7 @@ have been a Nature-Right--was past beyond recall. The obsolescence of
 the map of law which Blackstone had inherited from Hale, and in which
 many outlines were drawn by medieval formulas, left intelligent English
 lawyers without a guide, and they were willing to listen for a while to
-what in their insularity they thought to be the voice of cosmopolitan
+what in their insularity they thought to be the voice of [[Cosmopolitan|cosmopolitan]]
 science. Little came of it all. The revived study of Germanic law in
 Germany, which was just beginning in Austin's day, seems to be showing
 that the scheme of Roman jurisprudence is not the scheme into which
@@ -830,13 +830,13 @@ and equity was introduced. Successful endeavours have been made also to
 reduce the bulk of old statute law, and to improve the form of acts of
 parliament; but the emergence of new forces whose nature may be
 suggested by some such names as "socialism" and "imperialism" has
-distracted the attention of the British parliament from the commonplace
+distracted the attention of the British parliament from the [[Commonplace|commonplace]]
 law of the land, and the development of obstructive tactics has caused
 the issue of too many statutes whose brevity was purchased by
 disgraceful obscurity. By way of "partial codification" some branches of
-the common law (bills of exchange, sale of goods, partnership) have been
+the common law (bills of [[Exchange|exchange]], sale of goods, partnership) have been
 skilfully stated in statutes, but a draft criminal code, upon which much
-expert labour was expended, lies pigeon-holed and almost forgotten.
+[[Expert|expert]] labour was expended, lies pigeon-holed and almost forgotten.
 British India has been the scene of some large legislative exploits, and
 in America a few big experiments have been made in the way of
 code-making, but have given little satisfaction to the bulk of those who
@@ -856,7 +856,7 @@ with any success aspired to be the Blackstone of a new age.
   Law reporting.
 
 The Council of Law Reporting was formed in the year 1863. The council
-now consists of three _ex-officio_ members--the attorney-general, the
+now consists of three _ex-officio_ members--the [[Attorney-General|attorney-general]], the
 solicitor-general and the president of the Incorporated Law Society, and
 ten members appointed by the three Inns of Court, the Incorporated Law
 Society and the council itself on the nomination of the general council
@@ -867,7 +867,7 @@ in monthly parts a king's printer's copy of the statutes, and weekly
 notes, containing short notes of current decisions and announcements of
 all new rules made under the Judicature Acts and other acts of
 parliament, and other legal information. In addition the subscriber
-receives the chronological index of the statutes published from time to
+receives the chronological [[Index|index]] of the statutes published from time to
 time by the Stationery Office, and last, but not least, the Digests of
 decided cases published by the council from time to time. In 1892 a
 Digest was published containing the cases and statutes for twenty-five
@@ -915,7 +915,7 @@ or, in more recent times, in the chambers of a junior barrister. Before
 the modern examination system, a student required to have a certificate
 from the barrister in whose chambers he had been a pupil before he could
 be "called," but the only relic of the old system now is the necessity
-of "eating dinners," six (three for university men) in each of the four
+of "eating [[Dinner|dinners]]," six (three for university men) in each of the four
 terms for three years, at one of the Inns of Court.
 
 The education of solicitors suffered from the absence of any
@@ -925,7 +925,7 @@ education is provided for solicitors or required from them, this is due
 to the efforts of the Law Society. As early as 1729 it was required by
 statute that any person applying for admission as attorney or solicitor
 should submit to examination by one of the judges, who was to test his
-fitness and capacity in consideration of a fee of one shilling. At the
+fitness and capacity in consideration of a [[Fee|fee]] of one shilling. At the
 same time regular preliminary service under articles was required, that
 is to say, under a contract by which the clerk was bound to serve for
 five years. The examination soon became, perhaps always was, an empty
@@ -945,21 +945,21 @@ an attempt to promote the study of law. The curriculum of legal subjects
 in which lectures are given and examinations held is calculated to give
 a student a sound fundamental knowledge of general principles, as well
 as an elementary acquaintance with the rules of modern English law.
-Jurisprudence, Roman law, Constitutional law and International law are
+Jurisprudence, Roman law, Constitutional law and [[International]] law are
 taught, as well as the law of Real and Personal Property, the Law of
 Contract and Tort, Criminal law, Procedure and Evidence. But the law
 tripos and the law schools suffer from remoteness from the law courts,
 and from the exclusively academical character of the teaching. Law is
 also taught, though not on a very large scale, at Manchester and at
-Liverpool. London University has encouraged the study of law by its
+[[Liverpool]]. London University has encouraged the study of law by its
 examinations for law degrees, at which a comparatively high standard of
 knowledge is required; and at University College, London, and King's
 College, London, teaching is given in law and jurisprudence.
 
   AUTHORITIES.--F. Liebermann, _Die Gesetze der Angelsachsen_ (1898);
-  K.E. Digby, _History of the Law of Real Property_; Sir W. Dugdale,
-  _Origines juridicales_ (1671); O.W. Holmes, _The Common Law_ (Boston,
-  1881); H. Hallam, _Constitutional History_; W.S. Holdsworth, _History
+  K.E. [[Digby]], _History of the Law of Real Property_; Sir W. [[Dugdale]],
+  _Origines juridicales_ (1671); O.W. Holmes, _The Common Law_ ([[Boston]],
+  1881); H. [[Hallam]], _Constitutional History_; W.S. Holdsworth, _History
   of English Law_, 3 vols. (1903-9); J. Reeves, _History of English
   Law_, ed. W.F. Finlason (1869); T. Madox, _History and Antiquities of
   the Exchequer_ (1769); C. de Franqueville, _Le Systeme judiciaire de
@@ -981,7 +981,7 @@ ages by the writers of England, is planned so as to give a comprehensive
 view, the details as to particular authors and their work, and special
 consideration of the greater writers, being given in the separate
 articles devoted to them. It is divided into the following sections: (1)
-Earliest times to Chaucer; (2) Chaucer to the end of the middle ages;
+Earliest times to [[Chaucer]]; (2) Chaucer to the end of the middle ages;
 (3) Elizabethan times; (4) the Restoration period; (5) the Eighteenth
 century; (6) the Nineteenth century. The object of these sections is to
 form connecting links among the successive literary ages, leaving the
@@ -991,7 +991,7 @@ characteristics of the product, qua literary. The precise delimitation
 of what may narrowly be called "English" literature, i.e. in the English
 language, is perhaps impossible, and separate articles are devoted to
 American literature (q.v.), and to the vernacular literatures of
-Scotland (see SCOTLAND; and CELT: _Literature_), Ireland (see CELT:
+Scotland (see SCOTLAND; and [[Celt|CELT]]: _Literature_), Ireland (see CELT:
 _Literature_), and Wales (see CELT: _Literature_); see also CANADA:
 _Literature_. Reference may also be made to such general articles on
 particular forms as NOVEL; ROMANCE; VERSE, &c.
@@ -1021,7 +1021,7 @@ the best passages in _Beowulf_ (q.v.); for there can be little doubt
 that this poem gained nothing and lost much in the process of literary
 redaction.
 
-The conversion of the people to Christianity necessarily involved the
+The [[Conversion|conversion]] of the people to Christianity necessarily involved the
 decline of the minstrelsy that celebrated the glories of heathen times.
 Yet the descendants of Woden, even when they were devout Christians,
 would not easily lose all interest in the achievements of their kindred
@@ -1055,13 +1055,13 @@ survived are hardly inferior to the best passages of _Beowulf_.
 
 It may reasonably be assumed that the same minstrels who entertained the
 English kings and nobles with the recital of ancient heroic traditions
-would also celebrate in verse the martial deeds of their own patrons and
+would also celebrate in verse the [[Martial|martial]] deeds of their own patrons and
 their immediate ancestors. Probably there may have existed an abundance
 of poetry commemorative of events in the conquest of Britain and the
 struggle with the Danes. Two examples only have survived, both belonging
 to the 10th century: The _Battle of Brunanburh_, which has been greatly
 over-praised by critics who were unaware that its striking phrases and
-compounds are mere traditional echoes; and the _Battle of Maldon_, the
+compounds are mere traditional echoes; and the _Battle of [[Maldon]]_, the
 work of a truly great poet, of which unhappily only a fragment has been
 preserved.
 
@@ -1070,7 +1070,7 @@ which Christian civilization was adopted by the English. Augustine
 landed in 597; forty years later was born an Englishman, Aldhelm, who in
 the judgment of his contemporaries throughout the Christian world was
 the most accomplished scholar and the finest Latin writer of his time.
-In the next generation England produced in Bede (Baeda) a man who in
+In the next generation England produced in [[Bede]] (Baeda) a man who in
 solidity and variety of knowledge, and in literary power, had for
 centuries no rival in Europe. Aldhelm and Bede are known to us only from
 their Latin writings, though the former is recorded to have written
@@ -1081,12 +1081,12 @@ the writings that have survived, it would seem as if men strove to
 forget that England had ever been heathen. The four deities whose names
 are attached to the days of the week are hardly mentioned at all. The
 names Thunor and Tiw are sometimes used to translate the Latin Jupiter
-and Mars; Woden has his place (but not as a god) in the genealogies of
+and [[Mars]]; Woden has his place (but not as a god) in the genealogies of
 the kings, and his name occurs once in a magical poem, but that is all.
 Bede, as a historian, is obliged to tell the story of the conversion;
 but the only native divinities he mentions are the goddesses Hreth and
 Eostre, and all we learn about them is that they gave their names to
-Hrethemonath (March) and Easter. That superstitious practices of heathen
+Hrethemonath (March) and [[Easter]]. That superstitious practices of heathen
 origin long survived among the people is shown by the acts of church
 councils and by a few poems of a magical nature that have been
 preserved; but, so far as can be discovered, the definite worship of the
@@ -1121,10 +1121,10 @@ saints are presented, often very incongruously, under the aspect of
 Germanic warriors. Nearly all the religious poetry that has any
 considerable religious value seems to have been written in Northumbria
 during the 8th century. The remarkably vigorous poem of _Judith_,
-however, is certainly much later; and the _Exodus_, though early, seems
+however, is certainly much later; and the _[[Exodus]]_, though early, seems
 to be of southern origin. For a detailed account of the Old English
-sacred poetry, the reader is referred to the articles on CAeDMON and
-CYNEWULF, to one or other of whom nearly every one of the poems, except
+sacred poetry, the reader is referred to the articles on [[Caedmon|CAeDMON]] and
+[[Cynewulf|CYNEWULF]], to one or other of whom nearly every one of the poems, except
 those of obviously late date, has at some time been attributed.
 
 The Riddles (q.v.) of the Exeter Book resemble the religious poetry in
@@ -1172,7 +1172,7 @@ elliptical style gives evidence of their high antiquity. Later kings of
 Kent and of Wessex followed the example of publishing their laws in the
 native tongue. Bede is known to have translated the beginning of the
 gospel of John (down to vi. 9). The early part of the Anglo-Saxon
-Chronicle (q.v.) is probably founded partly on prose annals of
+Chronicle (q.v.) is probably founded partly on prose [[Annals|annals]] of
 pre-Alfredian date. But although the amount of English prose written
 between the beginning of the 7th and the middle of the 9th century may
 have been considerable, Latin continued to be regarded as the
@@ -1181,7 +1181,7 @@ clergy had retained the scholarship which they possessed in the days of
 Aldhelm and Bede, the creation of a vernacular prose literature would
 probably have been longer delayed; for while Alfred certainly was not
 indifferent to the need of the laity for instruction, the evil that he
-was chiefly concerned to combat was the ignorance of their spiritual
+was chiefly concerned to combat was the [[Ignorance|ignorance]] of their spiritual
 guides.
 
 Of the works translated by him and the scholars whom he employed, _St
@@ -1213,16 +1213,16 @@ earnestness and eloquence, and contain some passages of historical
 value.
 
 From the early years of the 11th century we possess an encyclopaedic
-manual of the science of the time--chronology, astronomy, arithmetic,
+[[Manual|manual]] of the science of the time--chronology, [[Astronomy|astronomy]], [[Arithmetic|arithmetic]],
 metre, rhetoric and ethics--by the monk Byrhtferth, a pupil of Abbo of
-Fleury. It is a compilation, but executed with intelligence. The
-numerous works on medicine, the properties of herbs, and the like, are
+[[Fleury]]. It is a compilation, but executed with intelligence. The
+numerous works on medicine, the properties of [[Herb|herbs]], and the like, are
 in the main composed of selections from Latin treatises; so far as they
 are original, they illustrate the history of superstition rather than
 that of science. It is interesting to observe that they contain one or
-two formulas of incantations in Irish.
+two formulas of [[Incantation|incantations]] in Irish.
 
-Two famous works of fiction, the romance of _Apollonius of Tyre_ and the
+Two famous works of fiction, the romance of _[[Apollonius Of Tyre|Apollonius of Tyre]]_ and the
 _Letter of Alexander_, which in their Latin form had much influence on
 the later literature of Europe, were Englished in the 11th century with
 considerable skill. To the same period belongs the curious tract on _The
@@ -1231,7 +1231,7 @@ time, we see that the minds of Englishmen were beginning to find
 interest in other than religious subjects.
 
 The crowding of the English monasteries by foreigners, which was one of
-the results of the Norman Conquest, brought about a rapid arrest of the
+the results of the Norman Conquest, brought about a rapid [[Arrest|arrest]] of the
 development of the vernacular literature. It was not long before the
 boys trained in the monastic schools ceased to learn to read and write
 their native tongue, and learned instead to read and write French. The
@@ -1307,18 +1307,18 @@ equal propriety) having invariably fifteen syllables. In various
 modified forms, the septenarius was a favourite measure throughout the
 Middle English period. In the poetry of the 13th century the influence
 of French models is conspicuous. The many devotional lyrics, some of
-which, as the _Luve Ron_ of Thomas of Hales, have great beauty, show
+which, as the _Luve Ron_ of Thomas of [[Hales]], have great beauty, show
 this influence not only in their varied metrical form, but also in their
-peculiar mystical tenderness and fervour. The _Story of Genesis and
+peculiar mystical tenderness and fervour. The _Story of [[Genesis]] and
 Exodus_, the substance of which is taken from the Bible and Latin
 commentators, derives its metre chiefly from French. Its poetical merit
 is very small. The secular poetry also received a new impulse from
 France. The brilliant and sprightly dialogue of the _Owl and
 Nightingale_, which can hardly be dated later than about 1230, is a
 "contention" of the type familiar in French and Provencal literature.
-The "Gallic" type of humour may be seen in various other writings of
-this period, notably in the _Land of Cockaigne_, a vivacious satire on
-monastic self-indulgence, and in the fabliau of _Dame Siviz_, a story of
+The "Gallic" type of [[Humour|humour]] may be seen in various other writings of
+this period, notably in the _Land of [[Cockaigne]]_, a vivacious satire on
+monastic self-indulgence, and in the fabliau of _[[Dame]] Siviz_, a story of
 Eastern origin, told with almost Chaucerian skill. Predominantly, though
 not exclusively French in metrical structure, are the charming love
 poems collected in a MS. (Harl. 2253) written about 1320 in
@@ -1349,11 +1349,11 @@ part on the Latin historians of the 12th century, is an independent
 historical source of some value for the events of the writer's own
 times. The succession of versified histories of England was continued by
 Thomas Bek of Castleford in Yorkshire (whose work still awaits an
-editor), and by Robert Mannyng of Brunne (Bourne, Lincolnshire).
+editor), and by Robert Mannyng of Brunne ([[Bourne]], [[Lincolnshire]]).
 Mannyng's chronicle, finished in 1338, is a translation, in its earlier
 part from Wace's _Brut_, and in its later part from an Anglo-French
-chronicle (still extant) written by Peter Langtoft, canon of
-Bridlington.
+chronicle (still extant) written by Peter [[Langtoft]], canon of
+[[Bridlington]].
 
 Not far from the year 1300 (for the most part probably earlier rather
 than later) a vast mass of hagiological and homiletic verse was produced
@@ -1364,11 +1364,11 @@ same authorship. A similar collection was written in the north of
 England, as well as a large body of homilies showing considerable poetic
 skill, and abounding in exempla or illustrative stories. Of _exempla_
 several prose collections had already been made in Anglo-French, and
-William of Wadington's poem _Manuel des peches_, which contains a great
+William of Wadington's poem _[[Manuel]] des peches_, which contains a great
 number of them, was translated in 1303 by Robert Mannyng already
 mentioned, with some enlargement of the anecdotic element, and frequent
 omissions of didactic passages. The great rhyming chronicle of Scripture
-history entitled _Cursor Mundi_ (q.v.) was written in the north about
+history entitled _[[Cursor]] Mundi_ (q.v.) was written in the north about
 this time. It was extensively read and transcribed, and exercised a
 powerful influence on later writers down to the end of the 14th century.
 The remaining homiletic verse of this period is too abundant to be
@@ -1385,7 +1385,7 @@ hundred years its development was marvellously rapid. Of the vast mass
 of metrical romances produced during this period no detailed account
 need here be attempted (see ROMANCE, and articles, &c. referred to;
 ARTHURIAN ROMANCE). Native English traditions form the basis of _King
-Horn_, _Guy of Warwick_, _Bevis of Hamtoun_ and _Havelok_, though the
+[[Horn]]_, _[[Guy Of Warwick|Guy of Warwick]]_, _Bevis of Hamtoun_ and _Havelok_, though the
 stories were first put into literary form by Anglo-Norman poets. The
 popularity of these home-grown tales (with which may be classed the
 wildly fictitious _Coer de Lion_) was soon rivalled by that of
@@ -1433,7 +1433,7 @@ thought and feeling of the nation were to find expression.
   London, 1883); _The Cambridge History of English Literature_, vol. i.
   (1907). (2) For the Old English period:--R. Wulker, _Grundriss zur
   Geschichte der angelsachsischen Litteratur_ (Leipzig, 1885); Stopford
-  A. Brooke, _English Literature from the Beginning to the Norman
+  A. [[Brooke]], _English Literature from the Beginning to the Norman
   Conquest_ (London, 1898); A. Brandl, "Altenglische Litteratur," in H.
   Paul's _Grundriss der germanischen Philologie_, vol. ii. (2nd ed.,
   Strassburg, 1908). (3) For the early Middle English Period:--H.
@@ -1454,7 +1454,7 @@ Chaucer (c. 1340-1400) is its most notable literary figure. Beginning as
 a student and imitator of the best French poetry of his day, he was for
 a time, like most of his French contemporaries, little more than a
 skilful maker of elegant verses, dealing with conventional material in a
-conventional way, arranging in new figures the same flowers and bowers,
+conventional way, arranging in new figures the same flowers and [[Bower|bowers]],
 sunsets and song-birds, and companies of fair women and their lovers,
 that had been arranged and rearranged by every poet of the court circle
 for a hundred years, and celebrated in sweet phrases of almost unvarying
@@ -1463,15 +1463,15 @@ loving observation of the living creatures of the real world, and his
 verses often bring us flowers dewy and fragrant and fresh of colour as
 they grew in the fields and gardens about London, and birds that had
 learned their music in the woods; but his poetry was still not easily
-distinguishable from that of Machault, Froissart, Deschamps, Transoun
+distinguishable from that of Machault, Froissart, [[Deschamps]], Transoun
 and the other "courtly makers" of France. But while he was still
 striving to master perfectly the technique of this pretty art of
 trifling, he became acquainted with the new literature of Italy, both
 poetry and prose. Much of the new poetry moved, like that of France,
 among the conventionalities and artificialities of an unreal world of
-romance, but it was of wider range, of fuller tone, of far greater
+romance, but it was of wider range, of [[Fuller|fuller]] tone, of far greater
 emotional intensity, and, at its best, was the fabric, not of elegant
-ingenuity, but of creative human passion,--in Dante, indeed, a wonderful
+ingenuity, but of creative human passion,--in [[Dante]], indeed, a wonderful
 visionary structure in which love and hate, and pity and terror, and the
 forms and countenances of men were more vivid and real than in the world
 of real men and real passions. The new prose--which Chaucer knew in
@@ -1481,7 +1481,7 @@ like those _exempla_ which in the middle ages illustrated vernacular as
 well as Latin sermons, no cumbrous, slow-moving treatises on the Seven
 Deadly Sins, no half-articulate, pious meditations, but rapid, vivid,
 well-constructed narratives ranging from the sentimental beauty of
-stories like Griselda and the Franklin's Tale to coarse mirth and
+stories like [[Griselda]] and the Franklin's Tale to coarse mirth and
 malodorous vulgarity equal to those of the tales told later by Chaucer's
 Miller and Reeve and Summoner. All these things he studied and some he
 imitated. There is scarcely a feature of the verse that has not left
@@ -1511,19 +1511,19 @@ but musical and varied, and shows a progressive tendency towards freer
 and more complex melodies; his best tales are not mere repetitions of
 the ancient stories they retell, but new creations, transformed by his
 own imaginative realization of them, full of figures having the
-dimensions and the vivacity of real life, acting on adequate motives,
+[[Dimension|dimensions]] and the vivacity of real life, acting on adequate motives,
 and moving in an atmosphere and against a background appropriate to
 their characters and their actions. In the tales of the Pardoner, the
-Franklin, the Summoner, the Squire, he is no less notable as a
+[[Franklin]], the Summoner, the Squire, he is no less notable as a
 consummate artist than as a poet.
 
 Chaucer, however, was not the only writer of his day remarkable for
-mastery of technique. Gower, indeed, though a man of much learning and
+mastery of technique. [[Gower]], indeed, though a man of much learning and
 intelligence, was neither a poet of the first rank nor an artist.
 Despite the admirable qualities of clearness, order and occasional
 picturesqueness which distinguish his work, he lacked the ability which
 great poets have of making their words mean more than they say, and of
-stirring the emotions even beyond the bounds of this enhanced meaning;
+stirring the emotions even beyond the [[Bounds|bounds]] of this enhanced meaning;
 and there is not, perhaps, in all his voluminous work in English, French
 and Latin, any indication that he regarded composition as an art
 requiring consideration or any care beyond that of conforming to the
@@ -1532,8 +1532,8 @@ chosen rhythm and finding suitable rhymes.
 There were others more richly endowed as poets and more finely developed
 as artists. There was the beginner of the _Piers Plowman_ cycle[1], the
 author of the Prologue and first eight passus of the A-text, a man of
-clear and profound observation, a poet whose imagination brought before
-him with distinctness and reality visual images of the motley
+clear and profound observation, a poet whose [[Imagination|imagination]] brought before
+him with distinctness and reality visual [[Image|images]] of the motley
 individuals and masses of men of whom he wrote, an artist who knew how
 to organize and direct the figures of his dream-world, the movement of
 his ever-unfolding vision. There was the remarkable successor of this
@@ -1541,20 +1541,20 @@ man, the author of the B-text, an almost prophetic figure, a great
 poetic idealist, and, helpless though he often was in the direction of
 his thought, an absolute master of images and words that seize upon the
 heart and haunt the memory. Besides these, an unknown writer far in the
-north-west had, in _Gawayne and the Grene Knight_, transformed the
+north-west had, in _Gawayne and the Grene [[Knight]]_, transformed the
 medieval romance into a thing of speed and colour, of vitality and
 mystery, no less remarkable for its fluent definiteness of form than for
-the delights of hall-feast and hunt, the graceful comedy of temptation,
+the delights of hall-feast and [[Hunt|hunt]], the graceful comedy of temptation,
 and the lonely ride of the doomed Gawayne through the silence of the
 forest and the deep snow. In the same region, by its author's power of
 visual imagination, the Biblical paraphrase, so often a mere humdrum
 narrative, had been transformed, in _Patience_, into a narrative so
 detailed and vivid that the reader is almost ready to believe that the
-author himself, rather than Jonah, went down into the sea in the belly
+author himself, rather than [[Jonah]], went down into the sea in the belly
 of the great fish, and sat humbled and rebuked beside the withered
 gourd-vine. And there also, by some strange chance, blossomed, with
 perhaps only a local and temporary fragrance until its rediscovery in
-the 19th century, that delicate flower of loneliness and aspiration,
+the 19th century, that delicate [[Flower|flower]] of loneliness and aspiration,
 _Pearl_, a wonder of elaborate art as well as of touching sentiment.
 
 All these writings are great, not only relatively, but absolutely. There
@@ -1564,9 +1564,9 @@ point of special concern to us at the present moment is not so much that
 they show remarkable poetic power, as that they possess technical merits
 of a very high order. And we are accustomed to believe that, although
 genius is a purely personal and incommunicable element, technical gains
-are a common possession; that after Marlowe had developed the technique
-of blank verse, this technique was available for all; that after Pope
-had mastered the heroic couplet and Gray the ode, and Poe the short
+are a common possession; that after [[Marlowe]] had developed the technique
+of [[Blank|blank]] verse, this technique was available for all; that after Pope
+had mastered the heroic couplet and [[Gray]] the ode, and Poe the short
 story, all men could write couplets and odes and short stories of
 technical correctness; that, as Tennyson puts it,
 
@@ -1600,7 +1600,7 @@ directly or indirectly imitative of his work, but even the humblest
 productions of unpretentious writers show at times traces of his
 influence. Scotland was fortunate in having writers of greater ability
 than England had (see SCOTLAND: _Literature_). In England the three
-chief followers of Chaucer known to us by name are Lydgate, Hoccleve
+chief followers of Chaucer known to us by name are [[Lydgate]], Hoccleve
 (see OCCLEVE) and Hawes. Because of their praise of Chaucer and their
 supposed personal relations to him, Lydgate and Hoccleve are almost
 inseparable in modern discussions, but 15th century readers and writers
@@ -1641,7 +1641,7 @@ epics, like almost all the narrative verse of the time, whether epic,
 legend, versified chronicle or metrical romance, seem designed merely to
 satisfy the desire of 15th century readers for information, the craving
 for facts--true or fictitious--the same craving that made possible the
-poems on alchemy, on hunting, on manners and morals, on the duties of
+poems on alchemy, on [[Hunting|hunting]], on [[Manners|manners]] and morals, on the duties of
 parish priests, on the seven liberal arts. His allegories, like most
 allegories of the age, are ingenious rearrangements of old figures and
 old machinery, they are full of what had once been imagination but had
@@ -1664,7 +1664,7 @@ diction of Chaucer.
 
 Stephen Hawes, with his allegorical treatise on the seven liberal
 sciences, came later than these men, only to write worse. He was a
-disciple of Lydgate rather than of Chaucer, and is not only lacking in
+[[Disciple|disciple]] of Lydgate rather than of Chaucer, and is not only lacking in
 the vigour and sensitiveness which Lydgate sometimes displays, but
 exaggerates the defects of his master. If it be a merit to have
 conceived the pursuit of knowledge under the form of the efforts of a
@@ -1690,7 +1690,7 @@ arising from the prevalence of foreign and civil wars? Perhaps not,
 though it is clear that if Sir Thomas Malory had perished in one of the
 many fights through which he lived, the chivalric and literary impulses
 which he perhaps received from the "Fadre of Curteisy," Richard
-Beauchamp, earl of Warwick, would have gone for nothing and we should
+[[Beauchamp]], earl of Warwick, would have gone for nothing and we should
 lack the _Morte Darthur_. But it may very well be that the wars and the
 tremendous industrial growth of England fixed the attention of the
 strongest and most original spirits among the younger men and so
@@ -1730,7 +1730,7 @@ Lydgate and his fellows to write melodious verse. Melodious verse has
 been written since the disappearance of all these sounds, and the
 possibility of a choice between a form with final _e_ and one without it
 is not a hindrance but an advantage to a poet, as Goethe, Schiller,
-Heine and innumerable German poets have shown by their practice. The
+[[Heine]] and innumerable German poets have shown by their practice. The
 real difficulty with these men was that they pronounced Chaucer's verse
 as if it were written in the English of their own day. As a matter of
 fact all the types of verse discovered by scholars in Lydgate's poems
@@ -1751,10 +1751,10 @@ Chaucer's own lifetime.
 There are several poems of the 15th century which were long ascribed to
 Chaucer. Among them are:--the _Complaint of the Black Knight_, or
 _Complaint of a Lover's Life_, now known to be Lydgate's; the _Mother of
-God_, now ascribed to Hoccleve; the _Cuckoo and the Nightingale_, by
+God_, now ascribed to Hoccleve; the _[[Cuckoo]] and the Nightingale_, by
 Clanvowe; _La Belle Dame sans merci_, a translation from the French of
-Alain Chartier by Richard Ros; _Chaucer's Dream, or the Isle of Ladies_;
-the _Assembly of Ladies_; the _Flower and the Leaf_; and the _Court of
+Alain [[Chartier]] by Richard Ros; _Chaucer's Dream, or the Isle of Ladies_;
+the _Assembly of Ladies_; the _Flower and the [[Leaf]]_; and the _Court of
 Love_. The two poems of Lydgate and Hoccleve are as good as Chaucer's
 poorest work. The _Assembly of Ladies_ and the _Flower and the Leaf_ are
 perhaps better than the _Book of the Duchess_, but not so good as the
@@ -1771,7 +1771,7 @@ the _Flower and the Leaf_; but there are a freshness of spirit and a
 love of beauty in them that are not common; the conventional birds and
 flowers are there, but they seem, like those of Chaucer's _Legend_, to
 have some touch of life, and the conventional companies of ladies and
-gentlemen ride and talk and walk with natural grace and ease. The _Court
+gentlemen ride and talk and walk with natural [[Grace|grace]] and ease. The _Court
 of Love_ is usually ascribed to a very late date, as late even as the
 middle of the 16th century. If this is correct, it is a notable instance
 of the persistence of a Chaucerian influence. An effort has been made,
@@ -1795,7 +1795,7 @@ warning young women against entering a nunnery which may be by a woman,
 and there is an interesting entry among the records of New Romney for
 1463-1464, "Paid to Agnes Forde for the play of the Interlude of our
 Lord's Passion, 6s. 8d.," which is apparently the earliest mention of a
-woman dramatist in England. Finally, Margaret, countess of Richmond, the
+woman dramatist in England. Finally, [[Margaret]], countess of Richmond, the
 mother of Henry VII., not only aided scholars and encouraged writers,
 but herself translated the (spurious) fourth book of St Thomas a
 Kempis's _Imitatio Christi_. Another Margaret, the duchess of Burgundy,
@@ -1813,7 +1813,7 @@ and sheriffs, and, according to a satirist, they were also priests.
 The most original and powerful poetry of the 15th century was composed
 in popular forms for the ear of the common people and was apparently
 written without conscious artistic purpose. Three classes of productions
-deserve special attention,--songs and carols, popular ballads and
+deserve special attention,--songs and [[Carol|carols]], popular ballads and
 certain dramatic compositions. The songs and carols belong to a species
 which may have existed in England before the Norman Conquest, but which
 certainly was greatly modified by the musical and lyric forms of France.
@@ -1825,7 +1825,7 @@ closely to the rendering of the emotional effect upon the singer, that
 they lose none of their directness or simplicity. Some of them deal with
 secular subjects, some with religious, and some are curious and
 delightful blendings of religious worship and aspiration with earthly
-tenderness for the embodiments of helpless infancy and protecting
+tenderness for the embodiments of helpless [[Infancy|infancy]] and protecting
 motherhood which gave Christianity so much of its power over the
 affections and imagination of the middle ages. Even those which begin as
 mere expressions of joy in the Yule-tide eating and drinking and
@@ -1855,7 +1855,7 @@ ballad has been preserved to us that is a purely communal product, a
 confection of the common knowledge, traditions and emotions of the
 community wrought by subconscious processes into a song that finds
 chance but inevitable utterance through one or more individuals as the
-whole commune moves in its molecular dance. But it is equally a mistake
+whole [[Commune|commune]] moves in its molecular dance. But it is equally a mistake
 to argue that ballads are essentially metrical romances in a state of
 decay. Both the matter and the manner of most of the best ballads forbid
 such a supposition, and it can hardly be doubted that in some of the
@@ -1904,17 +1904,17 @@ custom, though only three plays of this character (all concerning Robin
 Hood) have come down to us. These plays had, however, no further
 independent development, but merely furnished elements of incident and
 atmosphere to later plays of a more highly organized type. With these
-ballad plays may also be mentioned the Christmas plays (usually of St
+ballad plays may also be mentioned the [[Christmas]] plays (usually of St
 George) and the sword-dance plays, which also flourished in the 15th
 century, but survive for us only as obscure elements in the masques and
-plays of Ben Jonson and in such modern rustic performances as Thomas
+plays of [[Ben]] [[Jonson]] and in such modern rustic performances as Thomas
 Hardy has so charmingly described in _The Return of the Native_.
 
 The additions which the 15th century made to the ancient cycles of
 Scripture plays, the so-called Mysteries, are another instance of a
-literary effort which spent itself in vain (see DRAMA). The most notable
+literary effort which spent itself in vain (see [[Drama|DRAMA]]). The most notable
 of these are, of course, the world renowned comic scenes in the
-_Towneley_ (or _Wakefield_) _Plays_, in the pageants of Cain, of Noah
+_Towneley_ (or _Wakefield_) _Plays_, in the pageants of [[Cain]], of Noah
 and of the Shepherds. In none of these is the 15th century writer
 responsible for the original comic intention; in the pageants of Cain
 and of the Shepherds fragments of the work of a 14th century writer
@@ -1926,7 +1926,7 @@ both character and situation previously unexampled in England. The
 inability of Lydgate to develop a comic conception is strikingly
 displayed if one compares his _Pageant for Presentation before the King
 at Hereford_ with the work of this unknown artist. But in our admiration
-for this man and his famous episode of Mak and the fictitious infant, we
+for this man and his famous episode of Mak and the fictitious [[Infant|infant]], we
 are apt to forget the equally fine, though very different qualities
 shown in some of the later pageants of the _York Plays_. Such, for
 example, is the final pageant, that of the _Last Judgment_, a drama of
@@ -1934,11 +1934,11 @@ slow and majestic movement, to be sure, but with a large and fine
 conception of the great situation, and a noble and dignified elocution
 not inadequate to the theme.
 
-The _Abraham and Isaac_ play of the Brome MS., extant as a separate play
+The _Abraham and [[Isaac]]_ play of the Brome MS., extant as a separate play
 and perhaps so performed, which has been so greatly admired for its
 cumulative pathos, also belongs demonstrably to this century. It is not,
 as has been supposed, an intermediate stage between French plays and the
-Chester _Abraham and Isaac_, but is derived directly from the latter by
+[[Chester]] _Abraham and Isaac_, but is derived directly from the latter by
 processes which comparison of the two easily reveals. Scripture plays of
 a type entirely different from the well-known cyclic mysteries,
 apparently confined to the Passion and Resurrection and the related
@@ -1957,7 +1957,7 @@ There are also parts of two pageants in the _Ludus Coventriae_ (c. 1460)
 that are commonly classed as Moralities, and these, together with the
 existence of a few personified abstractions in other plays, have led
 some critics to suppose that the Morality was derived from the Mystery
-by the gradual introduction of personified abstractions in the place of
+by the [[Gradual|gradual]] introduction of personified abstractions in the place of
 real persons. But the two kinds of plays are fundamentally different,
 different in subject and in technique; and no replacement of real
 persons by personifications can change a Mystery into a Morality.
@@ -2008,10 +2008,10 @@ we have seen, but the technique of prose had apparently received no
 serious consideration. Indeed, it is doubtful if any one thought of
 prose as a possible medium of artistic expression. Chaucer apparently
 did not, in spite of the comparative excellence of his Preface to the
-_Astrolabe_ and his occasional noteworthy successes with the
+_[[Astrolabe]]_ and his occasional noteworthy successes with the
 difficulties of the philosophy of Boethius; Wycliffe is usually clumsy;
 and the translators of Mandeville, though they often give us passages of
-great charm, obviously were plain men who merely translated as best they
+great [[Charm|charm]], obviously were plain men who merely translated as best they
 could. There was, however, a comparatively large amount of prose written
 in the 15th century, mainly for religious or educational purposes,
 dealing with the same sorts of subjects that were dealt with in verse,
@@ -2021,10 +2021,10 @@ writers need be named: John Capgrave, Reginald Pecock, Sir John
 Fortescue, Caxton and Malory. Capgrave, the compiler of the first
 chronicle in English prose since the Conquest, wrote by preference in
 Latin; his English is a condescension to those who could not read Latin
-and has the qualities which belong to the talk of an earnest and sincere
+and has the qualities which belong to the talk of an [[Earnest|earnest]] and sincere
 man of commonplace ability. Pecock and Fortescue are more important.
 Pecock (c. 1395-c. 1460) was a man of singularly acute and logical mind.
-He prided himself upon his dialectic skill and his faculty for
+He prided himself upon his [[Dialectic|dialectic]] skill and his faculty for
 discovering arguments that had been overlooked by others. His writings,
 therefore--or at least the _Repressor_--are excellent in general
 structure and arrangement, his ideas are presented clearly and simply,
@@ -2055,7 +2055,7 @@ literature which he introduced to the world was the _Morte Darthur_ of
 Sir Thomas Malory, and this is a compilation from older romances (see
 ARTHURIAN LEGEND). It is, to be sure, the one book of permanent literary
 significance produced in England in the 15th century; it glows with the
-warmth and beauty of the old knight's conception of chivalry and his
+warmth and beauty of the old knight's conception of [[Chivalry|chivalry]] and his
 love for the great deeds and great men of the visionary past, and it
 continually allures the reader by its fresh and vivid diction and by a
 syntax which, though sometimes faulty, has almost always a certain naive
@@ -2077,7 +2077,7 @@ Early English Text Society and other public or private presses, and it
 seems probable that an equal number remains as yet unpublished. No list
 of these writings can be given here, but it may not be unprofitable to
 indicate the range of interests by noting the classes of writing
-represented. The classification is necessarily rough, as some writings
+represented. The [[Classification|classification]] is necessarily rough, as some writings
 belong to more than one type. We may note, first, love poems,
 allegorical and unallegorical, narrative, didactic, lyrical and
 quasi-lyrical; poems autobiographical and exculpatory; poems of eulogy
@@ -2088,7 +2088,7 @@ romances; legends and lives of saints, in prose and in verse; poems and
 prose works of religious meditation, devotion and controversy; treatises
 of religious instruction, in prose and in verse; ethical and
 philosophical treatises, and ethical and prudential treatises; treatises
-of government, of political economy, of foreign travel, of hygiene, of
+of government, of political economy, of foreign travel, of [[Hygiene|hygiene]], of
 surgery, of alchemy, of heraldry, of hunting and hawking and fishing, of
 farming, of good manners, and of cooking and carving. Prosaic and
 intended merely to serve practical uses as many of these were, verse is
@@ -2108,12 +2108,12 @@ Such studies as were pursued by Free, Grey, Flemming, Tilly, Gunthorpe
 and others who went to Italy, made them better grammarians and
 rhetoricians, and no doubt gave them a freer, wider outlook, but upon
 their return to England they were immediately absorbed in administrative
-cares, which left them little leisure for literary composition, even if
+[[Car|cares]], which left them little leisure for literary composition, even if
 they had had any inclination to write. They prepared the way, however,
 for the leaders of the great intellectual awakening which began in
-England with Linacre, Colet, More and their fellows, and which finally
+England with [[Linacre]], [[Colet]], More and their fellows, and which finally
 culminated in the age of Spenser, Bacon, Shakespeare, Jonson, Gilbert,
-Harvey and Harriott.
+[[Harvey]] and Harriott.
 
 When the middle ages ceased in England it is impossible to say
 definitely. Long after the new learning and culture of the Renaissance
@@ -2127,7 +2127,7 @@ both in diction and in versification when attacking his enemies or
 indulging in playful rhyming, was not only a great admirer of Lydgate,
 but equalled even the worst of his predecessors in aureate pedantries of
 diction, in complicated impossibilities of syntax, and in meaningless
-inversions of word-order whenever he wished to write elegant and
+[[Inversion|inversions]] of word-order whenever he wished to write elegant and
 dignified literature. And not a little of the absurd diction of the
 middle of the 16th century is merely a continuation of the bad ideals
 and practices of the refined writers of the 15th.
@@ -2164,13 +2164,13 @@ Milton's _Samson Agonistes_ (1671), the latest classic tragedy, is one
 and continuous. That is the period of the English Renaissance, in the
 wider sense, and it covers all and more of the literature loosely called
 "Elizabethan." With all its complexity and subdivisions, it has as real
-a unity as the age of Pericles, or that of Petrarch and Boccaccio, or
-the period in Germany that includes both Lessing and Heine. It is
+a unity as the age of Pericles, or that of Petrarch and [[Boccaccio]], or
+the period in Germany that includes both [[Lessing]] and Heine. It is
 peculiar in length of span, in variety of power, and in wealth of
 production, though its master-works on the greater scale are relatively
 few. It is distinct, while never quite cut off, from the middle age
 preceding, and also from the classical or "Augustan" age that followed.
-The coming of Dryden denoted a new phase; but it was still a phase of
+The coming of [[Dryden]] denoted a new phase; but it was still a phase of
 the Renaissance; and the break that declared itself about 1660 counts as
 nothing beside the break with the middle ages; for this implied the
 whole change in art, thought and temper, which re-created the European
@@ -2181,9 +2181,9 @@ Troilus, the old fairy folklore of the South, the topic of the _Falls of
 Princes_, lived on; and so did the characteristic medieval form,
 allegory and many of the old metres of the 14th century. But then these
 things were transformed, often out of knowledge. Shakespeare's use of
-the histories of Macbeth, Lear and Troilus, and Spenser's of the
+the histories of Macbeth, [[Lear]] and Troilus, and Spenser's of the
 allegoric romance, are examples. And when the gifts of the middle ages
-are not transformed, as in the _Mirror for Magistrates_, they strike us
+are not transformed, as in the _Mirror for [[Magistrate|Magistrates]]_, they strike us
 as survivals from a lost world.
 
 So vital a change took long in the working. The English Renaissance of
@@ -2213,7 +2213,7 @@ tides of classical and immigrant culture were strongest. Spenser's
 _Faerie Queene_, Hooker's _Ecclesiastical Polity_ and Shakespeare's
 _Henry V._ came in the same decade (1590-1600). But these three forces,
 political, religious and educational, were of very different duration
-and value. The enthusiasm of 1590-1600 was already dying down in the
+and value. The [[Enthusiasm|enthusiasm]] of 1590-1600 was already dying down in the
 years 1600-1610, when the great tragedies were written; and soon a
 wholly new set of political forces began to tell on art. The religious
 inspiration was mainly confined to certain important channels; and
@@ -2230,7 +2230,7 @@ elements is required.
 Down to 1579 the Tudor rule was hardly a direct inspiration to authors.
 The reign of Henry VII. was first duly told by Bacon, and that of Henry
 VIII. staged by Shakespeare and Fletcher, in the time of James I. Sir
-Thomas More found in Roper, and Wolsey in Cavendish, sound biographers,
+Thomas More found in Roper, and Wolsey in [[Cavendish]], sound biographers,
 who are nearly the earliest in the language. The later years of Henry
 VIII. were full of episodes too tragically picturesque for safe handling
 in the lifetime of his children. The next two reigns were engrossed with
@@ -2242,7 +2242,7 @@ echoed only in a ringing ballad. But the voyagers, freebooters, and
 explorers reported their experiences, as a duty, not for fame; and
 these, though not till the golden age, were edited by Hakluyt, and
 fledged the poetic fancies that took wing from the "Indian Peru" to the
-"still-vext Bermoothes." Yet, in default of any true historian, the
+"still-vext Bermoothes." Yet, in [[Default|default]] of any true historian, the
 queen's wise delays and diplomacies that upheld the English power, and
 her refusal to launch on a Protestant or a national war until occasion
 compelled and the country was ready, were subjects as uninspiring to
@@ -2255,7 +2255,7 @@ England among the nations, and created the peculiar forms of the
 chronicle play and poem. These were borrowed neither from antiquity nor
 from abroad, and were never afterwards revived. The same exultation
 found its way into the current forms of ode and pastoral, of masque and
-allegory, and into many a dedication and interlude of prose. It was so
+allegory, and into many a [[Dedication|dedication]] and interlude of prose. It was so
 strong as to outlive the age that gave it warrant. The passion for
 England, the passion of England for herself, animates the bulk of
 Drayton's _Poly-Olbion_, which was finished so late as 1622. But the
@@ -2284,14 +2284,14 @@ Puritanism, or discontent with the final Anglican settlement and its
 temper, began to announce itself. Their spirit, however, comes out in
 many a corner of poetry, in Gascoigne's _Steel Glass_ as in Spenser's
 _Shepherd's Calendar_; and the English Reformation lived partly on its
-pre-natal memories of Langland as well as of Wycliffe. The fruit of the
+pre-natal memories of [[Langland]] as well as of Wycliffe. The fruit of the
 struggle, though retarded, was ample. Carrying on the work of Fisher and
-Cranmer, the new church became the nursing mother of English prose, and
+[[Cranmer]], the new church became the nursing mother of English prose, and
 trained it more than any single influence,--trained it so well, for the
 purposes of sacred learning, translation and oratory, and also as a
 medium of poetic feeling, that in these activities England came to rival
 France. How late any religious writer of true rank arose may be seen by
-the lapse of over half a century between Henry VIII.'s Act of Supremacy
+the [[Lapse|lapse]] of over half a century between Henry VIII.'s Act of Supremacy
 and Hooker's treatise. But after Hooker the chain of eloquent divines
 was unbroken for a hundred years.
 
@@ -2305,13 +2305,13 @@ Latin tongues, of the classic texts, and so of the ancient life and
 mind. This period of humanism in the stricter sense was far less
 brilliant than in Italy and France. No very great scholar or savant
 arose in Britain for a long time; but neo-Latin literature, the
-satellite of scholarship, shone brightly in George Buchanan. But
+satellite of scholarship, shone brightly in George [[Buchanan]]. But
 scholarship was created and secured; and in at least one, rather
 solitary, work of power, the _Utopia_ (which remained in Latin till
 1551), the fundamental process was begun which appropriates the Greek
 mind, not only for purposes of schooling, but as a source of new and
 independent thinking. In and after the middle of the century the
-classics were again put forward by Cheke, by Wilson in his _Art of
+classics were again put forward by [[Cheke]], by Wilson in his _Art of
 Rhetoric_ (1553), and by Ascham in his letters and in his _Schoolmaster_
 (1570), as the true staple of humane education, and the pattern for a
 simple yet lettered English. The literature of translations from the
@@ -2337,10 +2337,10 @@ constantly came round through Italy or France, tinted and charged in the
 passage with something characteristic of those countries. The early
 playwrights read Seneca in Latin and English, but also the foreign
 Senecan tragedies. Spenser, when starting on his pastorals, studied the
-Sicilians, but also Sannazaro and Marot. Shakespeare saw heroic
+Sicilians, but also Sannazaro and [[Marot]]. Shakespeare saw heroic
 antiquity through Plutarch, but also, surely, through Montaigne's
 reading of antiquity. Few of the poets can have distinguished the
-original fountain of Plato from the canalized supply of the Italian
+original [[Fountain|fountain]] of Plato from the canalized supply of the Italian
 Neoplatonists. The influence, however, of Cicero on the Anglican pulpit
 was immediate as well as constant; and so was that of the conciser Roman
 masters, Sallust and Tacitus, on Ben Jonson and on Bacon. Such scattered
@@ -2355,16 +2355,16 @@ prosody. It modelled many of the chief poetic forms, which soon were
 developed out of recognition; such were tragedy, allegory, song,
 pastoral and sonnet. Thirdly, it disclosed some of the master-thoughts
 upon government and conduct formed both by the old and the new
-Mediterranean world. Machiavelli, the student of ancient Rome and modern
+Mediterranean world. [[Machiavelli]], the student of ancient Rome and modern
 Italy, riveted the creed of Bacon. It might be said that never has any
 modern people so influenced another in an equal space of time--and
 letters, here as ever, are only the voice, the symbol, of a whole life
 and culture--if we forgot the sway of French in the later 17th and 18th
 centuries. And the power of French was alive also in the 16th. The track
-of Marot, of Ronsard and the Pleiad and Desportes, of Rabelais and
-Calvin and Montaigne, is found in England. Journeymen like Boisteau and
+of Marot, of Ronsard and the Pleiad and [[Desportes]], of Rabelais and
+[[Calvin]] and Montaigne, is found in England. Journeymen like Boisteau and
 Belleforest handed on immortal tales. The influence is noteworthy of
-Spanish mannerists, above all of Guevara upon sententious prose, and of
+Spanish mannerists, above all of [[Guevara]] upon sententious prose, and of
 the novelists and humorists, headed by Cervantes, upon the drama. German
 legend is found not only in Marlowe's _Faustus_, but in the by-ways of
 play and story. It will be long before the rich and coloured tangle of
@@ -2382,21 +2382,21 @@ the French of 1830. But these were not so much the ideas of the new
 physical science and of Bacon as of the ethical and metaphysical
 ferment. The wave of free talk in the circles of Marlowe, Greville and
 Raleigh ripples through their writings. Though the direct influence of
-Giordano Bruno on English writers is probably limited to a reminiscence
+[[Giordano]] Bruno on English writers is probably limited to a reminiscence
 in the _Faerie Queene_ (Book vii.), he was well acquainted with Sidney
 and Greville, argued for the Copernican theory at Greville's house,
 lectured on the soul at Oxford, and published his epoch-marking Italian
 dialogues during his two years' stay (1583-1585) in London. The debates
 in the earlier schools of Italy on the nature and tenure of the soul are
 heard in the _Nosce Teipsum_ (1599) of Sir John Davies; a stoicism, "of
-the schools" as well as "of the blood," animates Cassius and also the
+the schools" as well as "of the blood," animates [[Cassius]] and also the
 French heroes of Chapman; and if the earlier drama is sown with Seneca's
 old maxims on sin and destiny, the later drama, at least in Shakespeare,
 is penetrated with the freer reading of life and conduct suggested by
-Montaigne. Platonism--with its _vox angelica_ sometimes a little
+Montaigne. Platonism--with its _vox [[Angelica|angelica]]_ sometimes a little
 hoarse--is present from the youthful _Hymns_ of Spenser to the last
 followers of Donne; sometimes drawn from Plato, it is oftener the
-Christianized doctrine codified by Ficino or Pico. It must be noted that
+Christianized doctrine codified by [[Ficino]] or Pico. It must be noted that
 this play of philosophic thought only becomes marked after 1580, when
 the preparatory tunings of English literature are over.
 
@@ -2411,15 +2411,15 @@ long there was alternate strife and union (ending in marriage) between
 the Latin, or more rhetorical, and the ancestral elements of the
 language, and this was true both of diction and of construction. We need
 to begin with the talk of actual life, as we find it in the hands of the
-more naif writers, in its idiom and gusto and unshapen power, to see how
+more naif writers, in its [[Idiom|idiom]] and gusto and unshapen power, to see how
 style gradually declared itself. In state letters and reports, in the
 recorded words of Elizabeth and Mary of Scotland and public men, in
 travels and memoirs, in Latimer, in the rude early versions of Cicero
-and Boethius, in the more unstudied speech of Ascham or Leland, the
+and Boethius, in the more unstudied speech of Ascham or [[Leland]], the
 material lies. At the other extreme there are the English liturgy (1549,
-1552, 1559, with the final fusion of Anglican and Puritan eloquence),
+1552, 1559, with the final [[Fusion|fusion]] of Anglican and Puritan eloquence),
 and the sermons of Fisher and Cranmer,--nearly the first examples of a
-sinuous, musical and Ciceronian cadence. A noble pattern for
+sinuous, musical and Ciceronian [[Cadence|cadence]]. A noble pattern for
 saga-narrative and lyrical prose was achieved in the successive versions
 (1526-1540-1568) of the Hebrew and Greek Scriptures, where a native
 simple diction of short and melodious clauses are prescribed by the
@@ -2428,20 +2428,20 @@ the work of the churchmen and translators, aided by the chroniclers.
 About the mid-century the stories, as well as the books of conduct and
 maxim, drawn from Italy and France, begin to thicken. Perverted symmetry
 of style is found in euphuistic hacks like Pettie. Painter's _Palace of
-Pleasure_ (1566) provided the plots of Bandello and others for the
+Pleasure_ (1566) provided the plots of [[Bandello]] and others for the
 dramatists. Hoby's version (1561) of Castiglione's _Courtier_, with its
 command of elate and subtle English, is the most notable imported book
 between Berners's _Froissart_ (1523-1525) and North's _Plutarch_ (1579).
 Ascham's _Schoolmaster_ is the most typical English book of Renaissance
 culture, in its narrower sense, since _Utopia_. Holinshed's _Chronicle_
-(1577-1587) and the work of Halle, if pre-critical, were all the fitter
+(1577-1587) and the work of [[Halle]], if pre-critical, were all the fitter
 to minister to Shakespeare.
 
 
   Verse to 1580.
 
 The lyric impulse was fledged anew at the court of Henry VIII. The short
-lines and harping burdens of Sir Thomas Wyatt's songs show the revival,
+lines and harping [[Burden|burdens]] of Sir Thomas Wyatt's songs show the revival,
 not only of a love-poetry more plangent than anything in English since
 Chaucer, but also of the long-deadened sense of metre. In Wyatt's
 sonnets, octaves, terzines and other Italian measures, we can watch the
@@ -2451,20 +2451,20 @@ deed was his gradual rediscovery of the iambic decasyllabic line duly
 accented--the line that had been first discovered by Chaucer for
 England; and next came its building into sonnet and stanza. Wyatt (d.
 1542) ended with perfect formal accuracy; he has the honours of victory;
-and Henry Howard, earl of Surrey (d. 1547), a younger-hearted and more
+and Henry [[Howard]], earl of Surrey (d. 1547), a younger-hearted and more
 gracious but a lighter poet, carried on his labour, and caught some of
 Chaucer's as well as the Italian tunes. The blank verse of his two
 translated _Aeneids_, like all that written previous to Peele, gave
 little inkling of the latencies of the measure which was to become the
 cardinal one of English poetry. It was already the vogue in Italy for
 translations from the classics; and we may think of Surrey importing it
-like an uncut jewel and barely conscious of its value. His original
+like an uncut [[Jewel|jewel]] and barely conscious of its value. His original
 poems, like those of Wyatt, waited for print till the eve of
 Elizabeth's reign, when they appeared, with those of followers like
 Grimoald, in Tottel's _Miscellany_ (1557), the first of many such
 garlands, and the outward proof of the poetical revival dating twenty
-years earlier. But this was a false dawn. Only one poem of authentic
-power, Sackville's _Induction_ (1563) to that dreary patriotic venture,
+years earlier. But this was a false dawn. Only one poem of [[Authentic|authentic]]
+power, Sackville's _[[Induction]]_ (1563) to that dreary patriotic venture,
 _A Mirror for Magistrates_, was published for twenty years. In spirit
 medieval, this picture of the gates of hell and of the kings in bale
 achieves a new melody and a new intensity, and makes the coming of
@@ -2472,12 +2472,12 @@ Spenser far less incredible. But poetry was long starved by the very
 ideal that nursed it--that of the all-sided, all-accomplished "courtier"
 or cavalier, to whom verse-making was but one of all the accomplishments
 that he must perfect, like fencing, or courting, or equestrian skill.
-Wyatt and Surrey, Sackville and Sidney (and we may add Hamlet, a true
+Wyatt and Surrey, Sackville and Sidney (and we may add [[Hamlet]], a true
 Elizabethan) are of this type. One of the first competent professional
-writers was George Gascoigne, whose remarks on metric, and whose blank
+writers was George [[Gascoigne]], whose remarks on metric, and whose blank
 verse satire, _The Steel Glass_ (1576), save the years between Sackville
-and Spenser. Otherwise the gap is filled by painful rhymesters with rare
-flashes, such as Googe, Churchyard and Turberville.
+and Spenser. Otherwise the [[Gap|gap]] is filled by painful rhymesters with rare
+flashes, such as [[Googe]], Churchyard and Turberville.
 
 
   Drama to 1580.
@@ -2493,7 +2493,7 @@ dialogue spoken by representative types or trades, who faintly recalled
 those in Chaucer's _Prologue_. These forms, which may be termed
 medieval, continued long and blended; sometimes heated, as in
 _Respublica_, with doctrine, and usually lightened by the comic play of
-a "Vice" or incarnation of sinister roguery. John Heywood was the chief
+a "Vice" or incarnation of sinister roguery. John [[Heywood]] was the chief
 maker of the pure interludes, and Bishop Bale of the Protestant medleys;
 his _King Johan_, a reformer's partisan tract in verse, contains the
 germs of the chronicle play. In the drama down to 1580 the native talent
@@ -2510,15 +2510,15 @@ others, like _Misogonus_ (written 1560), the abstract element and
 improving purpose remain, and the source is partly neo-Latin comedy,
 native or foreign. Romance crept in: serious comedy, with its brilliant
 future, the comedy of high sentiment and averted dangers mingled still
-with farce, was shadowed forth in _Damon and Pithias_ and in the curious
+with [[Farce|farce]], was shadowed forth in _Damon and Pithias_ and in the curious
 play _Common Conditions_; while the domestic comedy of intrigue dawned
-in Gascoigne's _Supposes_, adapted from Ariosto. Thus were displaced the
+in Gascoigne's _Supposes_, adapted from [[Ariosto]]. Thus were displaced the
 ranker rustic fun of _Gammer Gurton's Needle_ (written c. 1559) and
 other labours of "rhyming mother-wits." But there was no style, no talk,
 no satisfactory metre. The verse of comedy waited for Greene, and its
-prose for Lyly. Structure, without style, was also the main achievement
+prose for [[Lyly]]. Structure, without style, was also the main achievement
 of the early tragedies. The Latin plays of Buchanan, sometimes biblical
-in topic, rest, as to their form, upon Euripides. But early English
+in topic, rest, as to their form, upon [[Euripides]]. But early English
 tragedy was shapen after the Senecan plays of Italy and after Seneca
 himself, all of whose dramas were translated by 1581. _Gorboduc, or
 Ferrex and Porrex_, acted about 1561, and written by Sackville and
@@ -2529,7 +2529,7 @@ which fail to sweeten the bloodshot atmosphere. The Senecan form was not
 barren in itself, as its sequel in France was to show: it was only
 barren for England. After Marlowe it was driven to the study, and was
 still written (possibly under the impulse of Mary countess of
-Pembroke), by Daniel and Greville, with much reminiscence of the French
+Pembroke), by [[Daniel]] and Greville, with much reminiscence of the French
 Senecans. But it left its trail on the real drama. It set the pattern of
 a high tragical action, often motived by revenge, swayed by large ideas
 of fate and retribution, and told in blank metre; and it bequeathed,
@@ -2537,7 +2537,7 @@ besides many moral sentences, such minor points of mechanism as the
 Ghost, the Chorus and the inserted play. There were many hybrid forms
 like _Gismond of Salern_, based on foreign story, alloyed with the mere
 personifications of the Morality, and yet contriving, as in the case of
-_Promos and Cassandra_ (the foundation of _Measure for Measure_), to
+_Promos and [[Cassandra]]_ (the foundation of _Measure for Measure_), to
 interest Shakespeare. Thus the drama by 1580 had some of its carpentry,
 though not yet a true style or versification. These were only to be won
 by escape from the classic tutelage. The ruder chronicle play also
@@ -2556,11 +2556,11 @@ have the seal of Spenser's coming power, was justly acclaimed for its
 novelty of experiment in many styles, pastoral, satiric and triumphal,
 and in many measures: though it was criticized for its "rustic" and
 archaic diction--a "no language" that was to have more influence upon
-poetry than any of the real dialects of England. Spenser's desire to
+poetry than any of the real [[Dialect|dialects]] of England. Spenser's desire to
 write high tragedy, avowed in his _October_, was not to be granted; his
 nine comedies are lost; and he became the chief non-dramatic poet of his
 time and country. Both the plaintive pessimism of Petrarch and du
-Bellay, with their favourite method of emblem, and the Platonic theory
+Bellay, with their favourite method of [[Emblem|emblem]], and the Platonic theory
 of the spiritual love and its heavenly begetting sank into him; and the
 _Hymns To Love_ and _To Beauty_ are possibly his earliest verses of
 sustained perfection and exaltation. These two strains of feeling
@@ -2571,7 +2571,7 @@ autobiographical. These and a hundred other threads are woven into _The
 Faerie Queene_, an unfinished allegorical epic in honour of moral
 goodness, of which three books came out in 1590 and three more in 1596,
 while the fragment _Of Constancy_ (so-called) is first found in the
-posthumous folio of 1609. This poem is the fullest reflex, outside the
+posthumous [[Folio|folio]] of 1609. This poem is the fullest reflex, outside the
 drama, of the soul and aspirations of the time. For its scenery and
 mechanism the _Orlando Furioso_ of Ariosto furnishes the framework. In
 both poems tales of knightly adventure intertwine unconfused; in both
@@ -2586,8 +2586,8 @@ it into a war between good and evil, as he saw them in the world;
 between chastity and lust, loyalty and detraction, England and Spain,
 England and Rome, Elizabeth and usurpers, Irish governor and Irish
 rebel, right and wrong. The title-virtues of his six extant books he
-affects to take from Aristotle; but Holiness, Temperance, Chastity,
-Justice, Friendship and Courtesy form a medley of medieval, puritanical
+affects to take from [[Aristotle]]; but Holiness, Temperance, Chastity,
+Justice, Friendship and [[Courtesy]] form a medley of medieval, puritanical
 and Greek ideals.
 
 Spenser's moral sentiments, often ethereally noble, might well be
@@ -2602,7 +2602,7 @@ episode and pageant, on its prevailing and insuppressible loveliness of
 scene and tint, of phrasing and of melody, beside which the inner
 meaning is often an interruption. Spenser is not to be tired; in and out
 of his tapestry, with its "glooming light much like a shade," pace his
-figures on horseback, or in durance, with their clear and pictorial
+figures on horseback, or in [[Durance|durance]], with their clear and pictorial
 allegoric trappings; and they go either singly, or in his favourite
 masques or pageants, suggested by emblematical painting or civic
 procession. He is often duly praised for his lingering and liquid
@@ -2615,7 +2615,7 @@ Milton and Shelley. His "artificial" diction, drawn from middle English,
 from dialect or from false analogy, has always the intention and nearly
 always the effect of beauty; we soon feel that its absence would be
 unnatural, and it has taken its rank among the habitual and exquisite
-implements of English poetry. This equality of noble form is Spenser's
+[[Implement|implements]] of English poetry. This equality of noble form is Spenser's
 strength, as dilution and diffusion of phrase, and a certain monotonous
 slowness of _tempo_, are beyond doubt his weaknesses. His chief
 technical invention, the nine-line stanza (_ababbcbcC_) was developed
@@ -2623,7 +2623,7 @@ not from the Italian octave (_abababcc_), but by adding an alexandrine
 to the eight-line stave (_ababbcbc_) of Chaucer's _Monk's Tale_. It is
 naturally articulated twice--at the fifth line, where the turn of
 repeated rhyme inevitably charms, and at the ninth, which runs now to a
-crashing climax, now to a pensive and sighing close. In rhyming,
+crashing [[Climax|climax]], now to a pensive and sighing close. In rhyming,
 Spenser, if not always accurate, is one of the most natural and
 resourceful of poets. His power over the heroic couplet or quatrain is
 shown in his fable, _Mother Hubbard's Tale_, and in his curious verse
@@ -2636,14 +2636,14 @@ law of beauty.
 
   Spenserians.
 
-The mantle of Spenser fell, somewhat in shreds, upon poets of many
+The [[Mantle|mantle]] of Spenser fell, somewhat in shreds, upon poets of many
 schools until the Restoration. As though in thanks to his master Tasso,
-he lent to Edward Fairfax, the best translator of the _Jerusalem
+he [[Lent|lent]] to Edward [[Fairfax]], the best translator of the _Jerusalem
 Delivered_ (_Godfrey of Bulloigne_, 1600), some of his own ease and
 intricate melody. Harington, the witty translator of Ariosto (1591) and
 spoilt child of the court, owed less to Spenser. The allegorical
 colouring was nobly caught, if sometimes barbarized, in the _Christ's
-Victory and Triumph_ of the younger Giles Fletcher (1610), and Spenser's
+Victory and Triumph_ of the younger [[Giles]] Fletcher (1610), and Spenser's
 emblematic style was strained, even cracked, by Phineas Fletcher in _The
 Purple Island_ (1633), an aspiring fable, gorgeous in places, of the
 human body and faculties. Both of these brethren clipped and marred the
@@ -2654,7 +2654,7 @@ Spenser's pastoral and allusive manner was allowed by Drayton in his
 _Shepherd's Garland_ (1593), and differently by William Browne in
 _Britannia's Pastorals_ (1613-1616), and by William Basse; while his
 more honeyed descriptions took on a mawkish taste in the anonymous
-_Britain's Ida_ and similar poems. His golden Platonic style was
+_Britain's [[Ida]]_ and similar poems. His golden Platonic style was
 buoyantly echoed in _Orchestra_ (1596), Sir John Davies' poem on the
 dancing spheres. He is continually traceable in 17th-century verse,
 blending with the alien currents of Ben Jonson and of Donne. He was
@@ -2668,11 +2668,11 @@ The typical Elizabethan poet is Michael Drayton; who followed Spenser in
 pastoral, Daniel, Sidney, Spenser and Shakespeare in sonnet, Daniel
 again in chronicle and legend, and Marlowe in mythological story, and
 who yet remained himself. His _Endimion and Phoebe_ in passages stands
-near _Hero and Leander_; his _England's Heroical Epistles_ (1597) are in
+near _[[Hero And Leander|Hero and Leander]]_; his _England's Heroical [[Epistle|Epistles]]_ (1597) are in
 ringing rhetorical couplets; his _Odes_ (1606), like the _Ballad of
 Agincourt_ and the _Virginian Voyage_, forestall and equal Cowper's or
 Campbell's; his _Nymphidia_ (1627) was the most popular of burlesque
-fairy poems; and his pastorals are full of graces and felicities. The
+fairy poems; and his pastorals are full of [[Graces|graces]] and felicities. The
 work of Drayton that is least read and most often mentioned is his
 _Poly-Olbion_ (1612-1622), a vast and pious effort, now and then nobly
 repaid, to versify the scenery, legend, customs and particularities of
@@ -2706,7 +2706,7 @@ exceptional measures that were freely entitled "sonnets." But from the
 first, in the hands of Sidney, whose _Astrophel and Stella_ (1591) was
 written, as remarked above, about 1581, the sonnet was ever ready to
 pulse into feeling, and to flash into unborrowed beauty, embodying
-sometimes dramatic fancy and often living experience. These three fibres
+sometimes dramatic [[Fancy|fancy]] and often living experience. These three [[Fibres|fibres]]
 of imitation, imagination and confession are intertwisted beyond
 severance in many of the cycles, and now one, now another is uppermost.
 Incaution might read a personal diary into Thomas Lodge's _Phillis_
@@ -2715,7 +2715,7 @@ announced that Shakespeare's _Sonnets_ are but his mode of taking
 exercise. But there is poetry in "God's plenty" almost everywhere; and
 few of the series fail of lovely lines or phrasing or even of perfect
 sonnets. This holds of Henry Constable's _Diana_ (1592), of the
-_Parthenophil and Parthenophe_ of Barnabe Barnes (1593), inebriate with
+_Parthenophil and Parthenophe_ of Barnabe [[Barnes]] (1593), inebriate with
 poetry, and of the stray minor groups, _Alcilia, Licia, Caelia_; while
 the _Caelica_ of Fulke Greville, Lord Brooke, in irregular form, is full
 of metaphysical passion struggling to be delivered. _Astrophel and
@@ -2729,7 +2729,7 @@ most of these series, as in Daniel's paler but exquisitely-wrought
 _Delia_ (1591-1592), the form is that of the three separate quatrains
 with the closing couplet for emotional and melodic climax; a scheme
 slowly but defiantly evolved, through traceable gradations, from that
-stricter one of Italy, which Drummond and Milton revived, and where the
+stricter one of Italy, which [[Drummond]] and Milton revived, and where the
 crisis properly coincides with the change from octave to sestet.
 
 
@@ -2744,7 +2744,7 @@ plaintive sentiment. Within ten years, between 1588 and 1598, during the
 early sonnet-vogue, appeared Lodge's _Scillaes Metamorphosis_,
 Shakespeare's _Venus and Adonis_ and _Rape of Lucrece_, Marlowe's _Hero
 and Leander_ and Drayton's _Endimion and Phoebe_. Shakespeare owed
-something to Lodge, and Drayton to Marlowe. All these points describe a
+something to [[Lodge]], and Drayton to Marlowe. All these points describe a
 love-situation at length, and save in one instance they describe it from
 without. The exception is Marlowe, who achieves a more than Sicilian
 perfection; he says everything, and is equal to everything that he has
@@ -2760,14 +2760,14 @@ cunning, is the mark of most of these pieces.
 
 If we go to the lyrics, the versified mythic tales and the sonnets of
 Elizabethan times for the kind of feeling that Moliere's Alceste loved
-and that Burns and Shelley poured into song, we shall often come away
+and that [[Burns]] and Shelley poured into song, we shall often come away
 disappointed, and think the old poetry heartless. But it is not
 heartless, any more than it is always impassioned or personal; it is
 decorative. The feeling is often that of the craftsman; it is not of the
 singer who spends his vital essence in song and commands an answering
 thrill so long as his native language is alive or understood. The arts
 that deal with ivories or enamelling or silver suggest themselves while
-we watch the delighted tinting and chasing, the sense for gesture and
+we watch the delighted tinting and [[Chasing|chasing]], the sense for gesture and
 grouping (in _Venus and Adonis_), or the delicate beating out of rhyme
 in a madrigal, or the designing of a single motive, or two contrasted
 motives, within the panel of the sonnet. And soon it is evident how
@@ -2788,8 +2788,8 @@ Italian but heavier in English, became common. The Italian poems were
 often translated in their own measure, line by line, and the musical
 setting retained. Their tunes, or other tunes, were then coupled with
 new and original poems; and both appeared together in the song-books of
-Dowland the lutanist, of Jones and Byrd (1588), and in chief (1601-1619)
-of Thomas Campion. The words of Campion's songs are not only supremely
+Dowland the lutanist, of Jones and [[Byrd]] (1588), and in chief (1601-1619)
+of Thomas [[Campion]]. The words of Campion's songs are not only supremely
 musical in the wider sense, but are chosen for their singing quality.
 Misled awhile by the heresy that rhyme was wrong, he was yet a master of
 lovely rhyming, as well as of a lyrical style of great range, gaily or
@@ -2810,7 +2810,7 @@ Oxford and Raleigh, and the fervid brief flights of the Jesuit
 Southwell, show the omnipresence of the vital gift, whether among
 professional writers of the journalistic type, or among poets whose gift
 was not primarily song, or among men of action and quality or men of
-religion, who only wrote when they were stirred. Lullaby and valentine
+religion, who only wrote when they were stirred. [[Lullaby]] and valentine
 and compliment, and love-plaint ranging from gallantry to desperation,
 are all there: and the Fortunate Hour, which visits commonly only a few
 men in a generation, and those but now and then in their lives, is never
@@ -2819,15 +2819,15 @@ his two insuperable wedding odes. And religious lyric is rarer before
 the reign of James. Much of the best lyric is saved for us by the
 various Miscellanies, _A Handful of Pleasant Delights_ (1584), the
 _Phoenix Nest_ (1593) and Davison's _Poetical Rhapsody_ (1602); while
-other such collections, like _England's Helicon_ (1600), were chiefly
+other such collections, like _England's [[Helicon]]_ (1600), were chiefly
 garlands of verse that was already in print.
 
 There is plenty of satiric anger and raillery in the spirit of the time,
 but the most genuine part of it is drawn off into drama. Except for
 stray passages in Spenser, Drayton and others, formal satire, though
 profuse, was a literary unreal thing, a pose in the manner of Persius or
-Juvenal, and tiresome in expression. In this kind only Donne triumphed.
-The attempts of Lodge and Hall and Marston and John Davies of Hereford
+[[Juvenal]], and tiresome in expression. In this kind only Donne triumphed.
+The attempts of Lodge and Hall and [[Marston]] and John Davies of Hereford
 and Guilpin and Wither are for the most part simply weariful in
 different ways, and satire waited for Dryden and his age. The attempt,
 however, persisted throughout. Wyatt was the first and last who
@@ -2845,18 +2845,18 @@ which regret for pleasure lost is seldom far. Poetry becomes more
 ascetic and mystical, and this feeling takes shelter alike in the
 Anglican and in the Roman faith. George Herbert (_The Temple_, 1633),
 the most popular, quaint and pious of the school, but the least
-poetical; Crashaw, with his one ecstatic vision (_The Flaming Heart_)
+poetical; [[Crashaw]], with his one ecstatic vision (_The Flaming Heart_)
 and occasional golden stanzas; Henry Vaughan, who wrote from 1646 to
 1678, with his mystical landscape and magical cadences; and Thomas
 Traherne, his fellow-dreamer, are the best known of the religious
 Fantastics. But, earlier than most of these are Lord Herbert of
-Cherbury, and Habington with his _Castara_ (1634), who show the same
+Cherbury, and [[Habington]] with his _Castara_ (1634), who show the same
 temper, if a fitful power and felicity. Such writers form the devouter
 section of the famous "metaphysical" or "fantastic" school, which
 includes, besides Donne its founder, pure amorists like Carew (whose
-touch on certain rhythms has no fellow), young academic followers like
-Cartwright and Cleveland (in whom survives the vein of satire that also
-marks the school), and Abraham Cowley, who wrote from 1633 to 1678, and
+touch on certain rhythms has no [[Fellow|fellow]]), young academic followers like
+[[Cartwright]] and [[Cleveland]] (in whom survives the vein of satire that also
+marks the school), and Abraham [[Cowley]], who wrote from 1633 to 1678, and
 was perhaps the most acceptable living poet about the middle of the
 century. In his _Life of Cowley_ Johnson tramples on the "metaphysical"
 poets and their vices, and he is generally right in detail. The shock of
@@ -2873,15 +2873,15 @@ His satires, his _Valentine_, his _Litany_, and his lyric or odic pieces
 in general, have an insolent and sudden daring which is warranted by
 deep-seated power and is only equalled by a few of those tragedians who
 are his nearest of kin. The recurring contrast of "wit" or intelligence,
-and "will" or desire, their struggle, their mutual illumination, their
+and "will" or desire, their struggle, their mutual [[Illumination|illumination]], their
 fusion as into some third and undiscovered element of human nature, are
-but one idiosyncrasy of Donne's intricate soul, whose general progress,
+but one [[Idiosyncrasy|idiosyncrasy]] of Donne's intricate soul, whose general progress,
 so far as his dateless poems permit of its discovery, seems to have been
 from a paganism that is unashamed but crossed with gusts of compunction,
 to a mystical and otherwordly temper alloyed with covetous regrets. The
 _Anatomy of the World_ and other ambitious pieces have the same quality
 amid their outrageous strangeness. In Donne and his successors the
-merely ingenious and ransacking intellect often came to overbalance
+merely ingenious and ransacking [[Intellect|intellect]] often came to overbalance
 truth and passion; and hence arose conceits and abstract verbiage, and
 the difficulty of finding a perfect poem, however brief, despite the
 omnipresence of the poetic gift. The "fantastic" school, if it contains
@@ -2938,18 +2938,18 @@ the dreary satires which he lived to continue after the Restoration.
   The long poem.
 
 Of poets yet unmentioned, Robert Herrick is the chief, with his two
-thousand lyrics and epigrams, gathered in _Hesperides_ and _Noble
+thousand lyrics and epigrams, gathered in _[[Hesperides]]_ and _Noble
 Numbers_ (1648). His power of song and sureness of cadence are not
 excelled within his range of topic, which includes flowers and
 maidens--whom he treats as creatures of the same race--and the swift
 decay of both their beauties, and secular regret over this decay and his
 own mortality and the transience of amorous pleasure, and the virtues of
-his friends, and country sports and lore, and religious compunction for
+his friends, and country sports and [[Lore|lore]], and religious compunction for
 his own paganism. The _Hesperides_ are pure Renaissance work, in natural
 sympathy with the Roman elegiac writings and with the Pseudo-Anacreon.
 Cowley is best where he is nearest Herrick, and his posy of short lyrics
 outlives his "epic and Pindaric art." There are many writers who last by
-virtue of one or two poems; Suckling by his adept playfulness, Lovelace
+virtue of one or two poems; Suckling by his adept playfulness, [[Lovelace]]
 and Montrose by a few gallant stanzas, and many a nameless poet by many
 a consummate cadence. It is the age of sudden flights and brief
 perfections. All the farther out of reach, yet never wholly despaired of
@@ -2974,7 +2974,7 @@ natural things were already original in the _Nativity Ode_, written when
 he was twenty; and, there also, his versification was already that of a
 master, of a renovator. The pensive and figured beauty of _L'Allegro_
 and _Il Penseroso_, two contrasted emblematic panels, the high innocent
-Platonism and golden blank verse of the _Comus_ (1634); the birth of
+Platonism and golden blank verse of the _[[Comus]]_ (1634); the birth of
 long-sleeping power in the _Lycidas_ (1637), with its unapproached
 contrivance both in evolution and detail, where the precious essences of
 earlier myth and pastoral seem to be distilled for an offering in honour
@@ -2986,12 +2986,12 @@ Renaissance style, and is not surprised to find Milton's scholars a
 century later in the age of Gray. The critic, while feeling that the
 strictly lyrical, spontaneous element is absent, is all the more baffled
 by the skill and enduring charm. The sonnets were written before or
-during Milton's long immersion (1637-1658) in prose and warfare, and
+during Milton's long [[Immersion|immersion]] (1637-1658) in prose and warfare, and
 show the same gifts. They are not cast in the traditional form of
 love-cycle, but are occasional poems; in metre they revert, not always
 strictly but once or twice in full perfection, to the Italian scheme;
 and they recall not Petrarch but the spiritual elegies or patriot
-exaltations of Dante or Guidiccioni.
+exaltations of Dante or [[Guidiccioni]].
 
 Milton also had a medieval side to his brain, as the _History of
 Britain_ shows. The heroic theme, which he had resolved from his youth
@@ -3029,7 +3029,7 @@ _Paradise Regained_ (1671), when he has at once to reprobate and
 glorify Athens, the "mother of arts." In this afterthought to the
 earlier epic the action is slight, the Enemy has lost spirit, and the
 Christ is something of a pedagogue. But there is a new charm in its
-even, grey desert tint, sprinkled with illuminations of gold and luxury.
+even, grey [[Desert|desert]] tint, sprinkled with illuminations of gold and luxury.
 In _Samson Agonistes_ (1671) the ethical treatment as well as the
 machinery is Sophoclean, and the theology not wholly Christian. But the
 fault of Samson is forgotten in his suffering, which is Milton's own;
@@ -3041,7 +3041,7 @@ The essential solitude of Milton's energies is best seen in his later
 style and versification. When he resumed poetry about 1658, he had
 nothing around him to help him as an artist in heroic language. The most
 recent memories of the drama were also the worst; the forms of Cowley
-and Davenant, the would-be epic poets, were impossible. Spenser's manner
+and [[Davenant]], the would-be epic poets, were impossible. Spenser's manner
 was too even and fluid as a rule for such a purpose, and his power was
 of an alien kind. Thus Milton went back, doubtless full of Greek and
 Latin memories, to Marlowe, Shakespeare and others among the greater
@@ -3091,7 +3091,7 @@ The nascent drama of genius can be found in the "University wits," who
 flourished between 1580 and 1595, and the chief of whom are Lyly, Kyd,
 Peele, Greene and Marlowe. John Lyly is the first practitioner in
 prose--of shapely comic plot and pointed talk--the artificial but actual
-talk of courtly masquers who rally one another with a bright and barren
+talk of courtly masquers who rally one another with a [[Bright|bright]] and barren
 finish that is second nature. _Campaspe_, _Sapho and Phao_, _Midas_, and
 Lyly's other comedies, mostly written from 1580 to 1591, are frail
 vessels, often filled with compliment, mythological allegory, or topical
@@ -3109,7 +3109,7 @@ of luxury Peele's often stately blank verse is well fitted, and it is by
 far the most correct and musical before Marlowe's, as his _Arraignment
 of Paris_ (1584) and his _David and Bethsabe_ attest. Greene did
 something to create the blank verse of gentle comedy, and to introduce
-the tone of idyll and chivalry, in his _Friar Bacon and Friar Bungay_
+the tone of idyll and chivalry, in his _[[Friar]] Bacon and Friar [[Bungay]]_
 (1594). Otherwise these writers, with Nashe and Lodge, fall into the
 wake of Marlowe.
 
@@ -3117,9 +3117,9 @@ wake of Marlowe.
   Marlowe.
 
 _Tamburlaine_, in two parts (part i. c. 1587), _The Life and Death of
-Doctor Faustus_, _The Jew of Malta_, _Edward II._ (the first chronicle
+Doctor Faustus_, _The Jew of [[Malta]]_, _Edward II._ (the first chronicle
 play of genius), and the incomplete poem _Hero and Leander_ are
-Christopher Marlowe's title-deeds (1564-1593). He established tragedy,
+[[Christopher]] Marlowe's title-deeds (1564-1593). He established tragedy,
 and inspired its master, and created for it an adequate diction and
 versification. His command of vibrant and heroic recitative should not
 obscure his power, in his greater passages, describing the descent of
@@ -3155,7 +3155,7 @@ voyager. Shakespeare is not only the greatest but the earliest English
 dramatist who took humanity for his province. But this he did not do
 from the beginning. He was at first subdued to what he worked in; and
 though the dry pedantic tragedy was shattered and could not touch him,
-the gore and rant, the impure though genuine force of Kyd do not seem at
+the [[Gore|gore]] and rant, the impure though genuine force of Kyd do not seem at
 first to have repelled him; if, as is likely, he had a hand in _Titus
 Andronicus_. He probably served with Marlowe and others of the school at
 various stages in the composition of the three chronicle dramas finally
@@ -3177,7 +3177,7 @@ fineness in _Richard II._, and its full cordiality and beauty in the
 other plays that consummate this period--_A Midsummer Night's Dream_,
 _The Merchant of Venice_, and one romantic tragedy, _Romeo and Juliet_.
 Behind them lay the earlier and fainter romances, with their chivalry
-and gaiety, _The Comedy of Errors_, _Love's Labour's Lost_ and _The Two
+and gaiety, _The Comedy of [[Error|Errors]]_, _Love's Labour's Lost_ and _The Two
 Gentlemen of Verona_. Throughout these years blank verse contended with
 rhyme, which Shakespeare after a while abandoned save for special
 purposes, as though he had exhausted its honey. The Italian Renaissance
@@ -3221,7 +3221,7 @@ behind it.
   1601-1608.
 
 Mankind and this world have never been so sharply sifted or so sternly
-consoled, since Lucretius, as in Shakespeare's tragedies. The energy
+consoled, since [[Lucretius]], as in Shakespeare's tragedies. The energy
 which created them evades, like that of the sun, our estimate. But they
 were not out of relation to their time, the first few years of the reign
 of James, with its conspiracies, its Somerset and Overbury horrors, its
@@ -3267,7 +3267,7 @@ where the lost reappear and love is recovered; as though after all the
 faint and desperate last partings--of Lear and Cordelia, of Hamlet and
 Horatio--which Shakespeare had imagined, he must make retrieval with the
 picture of young and happy creatures whose life renews hope even in the
-experienced. To this end he chose the loose action and free atmosphere
+experienced. To this end he [[Chose|chose]] the loose action and free atmosphere
 of the _roman d'aventure_, which had already been adapted by Beaumont
 and Fletcher, who may herein have furnished Shakespeare with novel and
 successful theatrical effects, and who certainly in turn studied his
@@ -3308,7 +3308,7 @@ enlisted Jew-hatred, Pope-hatred and France-hatred; he flattered the
 queen, and celebrated the Union, and stormed the house with his
 _fanfare_ over the national soldier, Henry of Agincourt, and glorified
 England, as in _Cymbeline_, to the last. But in deeper ways he is the
-chief of playwrights. Unlike another master, Ibsen, he nearly always
+chief of playwrights. Unlike another master, [[Ibsen]], he nearly always
 tells us, without emphasis, by the words and behaviour of his
 characters, which of them we are to love and hate, and when we are to
 love and when to hate those whom we can neither love nor hate wholly.
@@ -3323,7 +3323,7 @@ fertility, and raises him to his solitude of dramatic greatness.
 Shakespeare's method could not be imparted, and despite reverberations
 in Beaumont, Fletcher, Webster and others he left no school. But his
 friend Ben Jonson, his nearest equal in vigour of brain, though not in
-poetical intuition, was the greatest of dramatic influences down to the
+poetical [[Intuition|intuition]], was the greatest of dramatic influences down to the
 shutting of the theatres in 1642, and his comedies found fresh disciples
 even after 1660. He had "the devouring eye and the portraying hand"; he
 could master and order the contents of a mighty if somewhat burdensome
@@ -3336,15 +3336,15 @@ spite of his photographic and constructive power, his vision is too
 seldom free and genial; it is that of the satirist who thinks that his
 office is to improve mankind by derisively representing it. And he does
 this by beginning with the "humour," or abstract idiosyncrasy or
-quality, and clothing it with accurately minute costume and gesture, so
+quality, and clothing it with accurately minute [[Costume|costume]] and gesture, so
 that it may pass for a man; and indeed the result is as real as many a
 man, and in his best-tempered and youthful comedy, _Every Man in his
 Humour_ (acted 1598), it is very like life. In Jonson's monumental
-pieces, _Volpone or the Fox_ (acted 1605) and _The Alchemist_ (acted
+pieces, _Volpone or the [[Fox]]_ (acted 1605) and _The Alchemist_ (acted
 1610), our laughter is arrested by the lowering and portentous
 atmosphere, or is loud and hard, startled by the enormous skill and
 energy displayed. Nor are the joy and relief of poetical comedy given
-for an instant by _The Silent Woman_, _Bartholomew Fair_ (acted 1614),
+for an instant by _The Silent Woman_, _[[Bartholomew Fair]]_ (acted 1614),
 or _The Staple of News_, still less by topical plays like _Cynthia's
 Revels_, though their unfailing farce and rampant fun are less charged
 with contempt. The erudite tragedies, _Sejanus_ (acted 1603) and
@@ -3352,7 +3352,7 @@ _Catiline_, chiefly live by passages of high forensic power. Jonson's
 finer elegies, eulogies and lyrics, which are many, and his fragmentary
 _Sad Shepherd_, show that he also had a free and lovely talent, often
 smothered by doctrine and temper; and his verse, usually strong but full
-of knots and snags, becomes flowing and graciously finished. His prose
+of [[Knot|knots]] and snags, becomes flowing and graciously finished. His prose
 is of the best, especially in his _Discoveries_, a series of ethical
 essays and critical maxims; its prevalently brief and emphatic rhythms
 suggesting those of Hobbes, and even, though less easy and civil and
@@ -3378,13 +3378,13 @@ said in defence that while structure without poetry is void (as it
 tended at times to be in Ben Jonson), poetry without structure is still
 poetry, and that the romantic drama is like nothing else in this world
 for variety of accent and unexpectedness of beauty. We must read it
-through, as Charles Lamb did, to do it justice. The diffusion of its
+through, as Charles [[Lamb]] did, to do it justice. The diffusion of its
 characteristic excellences is surprising. Of its extant plays it is
 hardly safe to leave one unopened, if we are searchers for whatsoever is
 lovely or admirable. The reasons for the lack of steadfast power and
 artistic conscience lay partly in the conditions of the stage.
 Playwrights usually wrote rapidly for bread, and sold their rights. The
-performances of each play were few. There was no authors' copyright, and
+performances of each play were few. There was no authors' [[Copyright|copyright]], and
 dramas were made to be seen and heard, not to be read. There was no
 articulate dramatic criticism, except such as we find casually in
 Shakespeare, and in the practice and theory of Jonson, who was deaf or
@@ -3399,11 +3399,11 @@ the greatest in high austerity of sentiment and in the gracious gravity
 of his romantic love-comedies. But the crude melodrama of his tragedies
 is void of true theatrical skill. His quasi-historical French tragedies
 on Bussy d'Ambois and Biron and Chabot best show his gift and also his
-insufferable interrupting quaintness. His versions of Homer (1598-1624),
+insufferable interrupting quaintness. His versions of [[Homer]] (1598-1624),
 honoured alike by Jonson and by Keats, are the greatest verse
 translations of the time, and the real work of Chapman's life. Their
 virtues are only partially Homer's, but the general epic nobility and
-the majesty of single lines, which in length are the near equivalent of
+the [[Majesty|majesty]] of single lines, which in length are the near equivalent of
 the hexameter, redeem the want of Homer's limpidity and continuity and
 the translator's imperfect knowledge of Greek. A vein of satiric
 ruggedness unites Jonson and Chapman with Marston and Hall, the
@@ -3429,7 +3429,7 @@ are writers-of-all-work, the former profuse of tracts and pamphlets, the
 latter of treatises and compilations. They are both unrhetorical and
 void of pose, and divide themselves between the artless comedy of
 bustling, lively, English humours and pathetic, unheroic tragedy. But
-Dekker has splendid and poetical dreams, in _Old Fortunatus_ (1600) and
+Dekker has splendid and poetical dreams, in _Old [[Fortunatus]]_ (1600) and
 _The Honest Whore_, both of luxury and of tenderness; while Heywood, as
 in his _English Traveller_ and _Woman killed with Kindness_ (acted
 1603), excels in pictures of actual, chivalrous English gentlemen and
@@ -3441,21 +3441,21 @@ together, like Munday, Chettle and Drayton, or supplied, like William
 Rowley, underplots of rough, lively comedy or tragedy. (_b_) Amongst
 dramatists of primarily tragic and sombre temper, who in their best
 scenes recall the creator of Angelo, Iago and Timon, must be named
-Thomas Middleton (1570?-1627), John Webster, and Cyril Tourneur.
+Thomas Middleton (1570?-1627), John Webster, and [[Cyril]] Tourneur.
 Middleton has great but scattered force, and his verse has the grip and
 ring of the best period without a sign of the decadence. He is strong in
 high comedy, like _The Old Law_, that turns on some exquisite point of
 honour--"the moral sense of our ancestors"; in comedy that is merely
 graphic and vigorous; and in detached sketches of lowering wickedness
 and lust, like those in _The Changeling_ and _Women beware Women_. He
-and Webster each created one unforgettable desperado, de Flores in _The
+and Webster each created one unforgettable desperado, de [[Flores]] in _The
 Changeling_ and Bosola in _The Duchess of Malfi_ (whose "pity," when it
 came, was "nothing akin to him"). In Webster's other principal play,
 _Vittoria Corombona, or the White Devil_ (produced about 1616), the
 title-character is not less magnificent in defiant crime than Goneril or
 Lady Macbeth. The style of Webster, for all his mechanical horrors,
 distils the essences of pity and terror, of wrath and scorn, and is
-profoundly poetical; and his point of view seems to be blank fatalism,
+profoundly poetical; and his point of view seems to be blank [[Fatalism|fatalism]],
 without Shakespeare's ever-arching rainbow of moral sympathy. Cyril
 Tourneur, in _The Revenger's Tragedy_, is even more of a poet than
 Webster; he can find the phrase for half-insane wrath and nightmare
@@ -3509,7 +3509,7 @@ dramatic or poetic instinct. (_e_) Outside the regular drama there are
 many varieties: academic plays, like _The Return from Parnassus_ and
 _Lingua_, which are still mirthful; many pastoral plays or
 entertainments in the Italian style, like _The Faithful Shepherdess_;
-versified character-sketches, of which Day's _Parliament of Bees_, with
+versified character-sketches, of which Day's _Parliament of [[Bee|Bees]]_, with
 its Theocritean grace and point, is the happiest; many masques and
 shows, often lyrically and scenically lovely, of which kind Jonson is
 the master, and Milton, in his _Comus_, the transfigurer; Senecan dramas
@@ -3541,7 +3541,7 @@ In England it was only to become distinct after 1660. Vocabulary,
 sentence-structure, paragraph, idiom and rhythm were in a state of
 unchartered freedom, and the history of their crystallization is not yet
 written. But in more than compensation there is a company of prose
-masters, from Florio and Hooker to Milton and Clarendon, not one of whom
+masters, from [[Florio]] and Hooker to Milton and [[Clarendon]], not one of whom
 clearly or fully anticipates the modern style, and who claim all the
 closer study that their special virtues have been for ever lost. They
 seem farther away from us than the poets around them. The verse of
@@ -3561,7 +3561,7 @@ adverb--were in freer interchange than at any period afterwards. The
 build, length and cadence of a complex sentence were habitually
 elaborate; and yet they were disorganized, so that only the ear of a
 master could regulate them. The law of taste and measure, perhaps
-through some national disability, was long unperceived. Prose, in fact,
+through some national [[Disability|disability]], was long unperceived. Prose, in fact,
 could never be sure of doing the day's work in the right fashion. The
 cross-currents of pedantry in the midst of simplicity, the distrust of
 clear plain brevity, which was apt to be affected when it came, the
@@ -3577,7 +3577,7 @@ its interests than by its styles.
 The Elizabethan novel was always unhappily mannered, and is therefore
 dead. It fed the drama, which devoured it. The tales of Boccaccio,
 Bandello, Cinthio, Margaret of Navarre, and others were purveyed, as
-remarked above, in the forgotten treasuries of Painter, Pettie, Fenton
+remarked above, in the forgotten treasuries of Painter, Pettie, [[Fenton]]
 and Whetstone, and many of these works or their originals filled a shelf
 in the playwrights' libraries. The first of famous English novels,
 Lyly's _Euphues_ (1578), and its sequel _Euphues and his England_, are
@@ -3593,7 +3593,7 @@ could be made of it. By the arch-euphuists, clauses and clusters of
 clauses were paired for parallel or contrast, with the beat of emphatic
 alliteration on the corresponding parts of speech in each constituent
 clause. This was a useful discipline for prose in its period of groping.
-Sidney's incomposite and unfinished _Arcadia_, written 1580-1581,
+Sidney's incomposite and unfinished _[[Arcadia]]_, written 1580-1581,
 despite its painful forced antitheses, is sprinkled with lovely rhythms,
 with pleasing formal landscapes, and even with impassioned sentiment and
 situation, through which the writer's eager and fretted spirit shines.
@@ -3601,7 +3601,7 @@ Both these stories, like those of Greene and Lodge, show by their
 somewhat affected, edited delineation of life and their courtly tone
 that they were meant in chief for the eyes of ladies, who were excluded
 alike from the stage and from its audience. Nashe's drastic and
-photographic tale of masculine life, _Jack Wilton, or The Unfortunate
+photographic tale of masculine life, _[[Jack]] Wilton, or The Unfortunate
 Traveller_, stands almost alone, but some of the gap is filled by the
 contemporary pamphlets, sometimes vivid, often full of fierce or maudlin
 declamation, of Nashe himself--by far the most powerful of the
@@ -3623,11 +3623,11 @@ instruction. To defend its character it was treated as a delightful but
 deliberate bait to good behaviour, a theory at best only true of
 allegory and didactic verse. The real relation of tragedy to spiritual
 things, which is admittedly shown, however hard its definition, in
-Shakespeare's plays, no critic for centuries tried to fathom. One of the
+Shakespeare's plays, no critic for centuries tried to [[Fathom|fathom]]. One of the
 chief quarrels turned on metric. A few lines that Sidney and Campion
 wrote on what they thought the system of Latin quantity are really
 musical. This theory, already raised by Ascham, made a stir, at first in
-the group of Harvey, Sidney, Dyer and Spenser, called the "Areopagus,"
+the group of Harvey, Sidney, [[Dyer]] and Spenser, called the "Areopagus,"
 an informal attempt to copy the Italian academies; and it was revived on
 the brink of the reign of James. But Daniel's firm and eloquent _Defence
 of Rhyming_ (1602) was not needed to persuade the poets to continue
@@ -3636,7 +3636,7 @@ classification of poetry, and of the dramatic unity of action, is
 concisely given, partly by Jonson, partly by Bacon in his _Advancement
 of Learning_ and _De Augmentis_; and Jonson, besides passing his famed
 judgments on Shakespeare and Bacon, enriched our critical vocabulary
-from the Roman rhetoricians. Scholastic and sensible manuals, like
+from the Roman rhetoricians. Scholastic and sensible [[Manuals|manuals]], like
 Webbe's _Discourse of Poetry_ and the _Art of English Poesy_ (1589)
 ascribed to Puttenham, come in the rear.
 
@@ -3657,8 +3657,8 @@ Montaigne's _Essays_ (1603), the charter of the new freedom of mental
 exploration; and Shelton, in _Don Quixote_ (1612), the chief tragi-comic
 creation of continental prose. These versions, if by no means accurate
 in the letter, were adequate in point of soul and style to their great
-originals; and the English dress of Tacitus (1591), Apuleius,
-Heliodorus, Commines, _Celestina_ and many others, is so good and often
+originals; and the English [[Dress|dress]] of Tacitus (1591), [[Apuleius]],
+[[Heliodorus]], Commines, _[[Celestina]]_ and many others, is so good and often
 so sumptuous a fabric, that no single class of prose authors, from the
 time of More to that of Dryden, excels the prose translators, unless it
 be the Anglican preachers. Their matter is given to them, and with it a
@@ -3668,16 +3668,16 @@ control is seen in the many pamphleteers, who are the journalists of the
 time, and are often also playwrights or tale-tellers, divines or
 politicians. The writings, for instance, of the hectic, satiric and
 graphic Thomas Nashe, run at one extreme into fiction, and at the other
-into the virulent rag-sheets of the Marprelate controversy, which is of
+into the virulent rag-sheets of the [[Marprelate Controversy|Marprelate controversy]], which is of
 historical and social but not of artistic note, being only a fragment
-of that vast mass of disputatious literature, which now seems grotesque,
+of that vast mass of disputatious literature, which now seems [[Grotesque|grotesque]],
 excitable or dull.
 
 
   Hooker.
 
 Richard Hooker's _Laws of Ecclesiastical Polity_ (1594-1597), an
-accepted defence of the Anglican position against Geneva and Rome, is
+accepted defence of the Anglican position against [[Geneva]] and Rome, is
 the first theological work of note in the English tongue, and the first
 of note since Wycliffe written by an Englishman. It is a plea for reason
 as one of the safe and lawful guides to the faith; but it also speaks
@@ -3692,9 +3692,9 @@ divines like Jeremy Taylor had to disintegrate, since they could not
 wield, this admirable but over-complex eloquence. The sermons
 (1621-1631) of Donne have the mingled strangeness and intimacy of his
 verse, and their subtle flame, imaginative tenacity, and hold upon the
-springs of awe make them unique. Though without artificial symmetry,
+springs of [[Awe|awe]] make them unique. Though without artificial symmetry,
 their sentences are intricately harmonized, in strong contrast to such
-pellet-like clauses as those of the learned Lancelot Andrewes, who was
+pellet-like clauses as those of the learned [[Lancelot]] Andrewes, who was
 Donne's younger contemporary and the subject of Milton's Latin epitaph.
 
 
@@ -3717,7 +3717,7 @@ planned but could not finish a great cycle of books in order to realize
 this conception. The _De Augmentis Scientiarum_ (1623) expanded from the
 English _Advancement of Knowledge_ (1605) draws the map; the _Novum
 Organum_ (1620) sets out the errors of scholasticism and the methods of
-inductive logic; the _New Atlantis_ sketches an ideally equipped and
+inductive logic; the _New [[Atlantis]]_ sketches an ideally equipped and
 moralized scientific community. Bacon shared with the great minds of his
 century the notion that Latin would outlast any vernacular tongue, and
 committed his chief scientific writings to a Latin which is alive and
@@ -3768,7 +3768,7 @@ Latin was still often the supplanter: the treatise of Lord Herbert of
 Cherbury, _De Veritate_, of note in the early history of Deism, and much
 of the writing of the ambidextrous Thomas Hobbes, are in Latin. In this
 way Latin disciplined English once more, though it often tempted men of
-genius away from English. _The Leviathan_ (1651) with its companion
+genius away from English. _The [[Leviathan]]_ (1651) with its companion
 books on _Human Nature_ and _Liberty_, and Hobbes' explosive dialogue on
 the civil wars, _Behemoth_ (1679), have the bitter concision of Tacitus
 and the clearness of a half-relief in bronze. Hobbes' speculations on
@@ -3785,7 +3785,7 @@ human affairs; its solemn tenor prolongs the reflections of Claudio, of
 Fletcher's Philaster, or of Spenser's Despair. It is exemplified in
 Bacon's Essay _Of Death_, in the anonymous descant on the same subject
 wrongly once ascribed to him, in Donne's plea for suicide, in Raleigh's
-_History of the World_, in Drummond's _Cypress Grove_ (1623), in Jeremy
+_History of the World_, in Drummond's _[[Cypress]] Grove_ (1623), in Jeremy
 Taylor's sermons and _Holy Dying_ (1651), and in Sir Thomas Browne's
 _Urn-Burial_ (1658) and _Letter to a Friend_. Its usual vesture is a
 long purple period, freely Latinized, though Browne equally commands the
@@ -3799,7 +3799,7 @@ only true rival in musical sensibility to words.
 
   Jeremy Taylor.
 
-  Burton.
+  [[Burton]].
 
 Jeremy Taylor, the last great English casuist and schoolman, and one of
 the first pleaders for religious tolerance (in his _Liberty of
@@ -3811,7 +3811,7 @@ of the lingering cadence, which soars upward and onward on its coupled
 clauses, as on balanced iridescent wings, and is found long after in his
 scholar Ruskin. Imaginative force of another kind pervades Robert
 Burton's _Anatomy of Melancholy_ (1621), where the humorous medium
-refracts and colours every ray of the recluse's far-travelled spirit.
+refracts and [[Colours|colours]] every ray of the recluse's far-travelled spirit.
 The mass of Latin citation, woven, not quilted, into Burton's style, is
 another proof of the vitality of the cosmopolitan language. Burton and
 Browne owe much to the pre-critical learning of their time, which yields
@@ -3827,13 +3827,13 @@ erudition, historical, antiquarian and comparatively critical
 chronological learning, one of the many _savants_ of the Anglican
 church. Other divines of the same camp pleaded, in a plainer style than
 Taylor, for freedom of personal judgment and against the multiplying of
-"vitals in religion"; the chief were Chillingworth, one of the closest
+"vitals in religion"; the chief were [[Chillingworth]], one of the closest
 of English apologists, in his _Religion of Protestants_ (1638), and John
-Hales of Eton. The Platonists, or rather Plotinists, of Cambridge, who
+Hales of [[Eton]]. The Platonists, or rather Plotinists, of Cambridge, who
 form a curious digression in the history of modern philosophy, produced
 two writers, John Smith and Henry More, of an exalted and esoteric
 prose, more directly inspired by Greece than any other of the time; and
-their champion of erudition, Cudworth, in his _True Intellectual
+their [[Champion|champion]] of erudition, Cudworth, in his _True Intellectual
 System_, gave some form to their doctrine.
 
 
@@ -3885,17 +3885,17 @@ greatest translation--being of a whole literature, or rather of two
 literatures--in an age of great translations.
 
 Some other kinds of writing soften the transition to Restoration prose.
-The vast catalogue of Characters numbers hundreds of titles. Deriving
-from Theophrastus, who was edited by Casaubon in 1592, they are yet
+The vast [[Catalogue|catalogue]] of Characters numbers hundreds of titles. Deriving
+from Theophrastus, who was edited by [[Casaubon]] in 1592, they are yet
 another Renaissance form that England shared with France. But in English
 hands, failing a La Bruyere--in Hall's, in Overbury's, even in those of
 the gay and skilful Earle (_Microcosmographie_, 1628)--the Character is
 a mere list of the attributes and oddities of a type or calling. It is
 to the Jonsonian drama of humours what the Pensee, or detached remark,
-practised by Bishop Hall and later by Butler and Halifax, is to the
+practised by Bishop Hall and later by [[Butler]] and Halifax, is to the
 Essay. These works tended long to be commonplace or didactic, as the
-popular _Resolves_ of Owen Feltham shows. Cowley was the first essayist
-to come down from the desk and talk as to his equals in easy phrases of
+popular _Resolves_ of Owen [[Feltham]] shows. Cowley was the first essayist
+to come down from the [[Desk|desk]] and talk as to his equals in easy phrases of
 middle length. A time of dissension was not the best for this kind of
 peaceful, detached writing. The letters of James Howell, the
 autobiography of Lord Herbert of Cherbury, and the memoirs of Kenelm
@@ -3910,7 +3910,7 @@ IV. RESTORATION PERIOD
 
 _Literature from 1660 to 1700._--The Renaissance of letters in England
 entered on a fresh and peculiar phase in the third quarter of the
-century. The balance of intellectual and artistic power in Europe had
+century. The [[Balance|balance]] of intellectual and artistic power in Europe had
 completely shifted since 1580. Inspiration had died down in Italy, and
 its older classics were no longer a stimulus. The Spanish drama had
 flourished, but its influence though real was scattered and indirect.
@@ -3923,10 +3923,10 @@ upon France as more than to repay the debt. Thus between 1660 and 1700
 is prepared a temporary dual control of European letters. But in the age
 of Dryden France gave England more than it received; it gave more than
 it had ever given since the age of Chaucer. During Charles II.'s days
-Racine, Moliere, La Fontaine and Bossuet ran the best of their course.
+Racine, Moliere, [[La Fontaine]] and [[Bossuet]] ran the best of their course.
 Cavalier exiles like Waller, Cowley and Hobbes had come back from the
 winter of their discontent in Paris, and Saint-Evremond, the typical
-_bel esprit_ and critic, settled long in England. A vast body of
+_[[Bel|bel]] esprit_ and critic, settled long in England. A vast body of
 translations from the French is recounted, including latterly the works
 of the Protestant refugees printed in the free Low Countries or in
 England. Naturally this influence told most strongly on the social forms
@@ -3969,19 +3969,19 @@ fruitful scientific labour began; the whole of Newton's _Principia_
 appeared in 1687; the dream of Bacon came nearer, and England was less
 isolated from the international work of knowledge. The spirit of method
 and observation and induction spread over the whole field of thought and
-was typified in John Locke, whose _Essay concerning Human Understanding_
+was typified in John [[Locke]], whose _Essay concerning Human Understanding_
 came out in English in 1690, and who applied the same deeply sagacious
 and cautious calculus to education and religion and the "conduct of the
 understanding." But his works, though their often mellow and dignified
 style has been ignorantly underrated, also show the change in
 philosophic writing since Hobbes. The old grandeur and pugnacity are
 gone; the imaginative play of science, or quasi-science, on the
-literature of reflection is gone; the eccentrics, the fantasts, the
+literature of reflection is gone; the [[Eccentric|eccentrics]], the fantasts, the
 dreamers are gone, or only survive in curious transitional writers like
-Joseph Glanvil (_Scepsis scientifica_, 1665) or Thomas Burnet (_Sacred
+Joseph Glanvil (_Scepsis scientifica_, 1665) or Thomas [[Burnet]] (_Sacred
 Theory of the Earth_, 1684). This change was in part a conscious and an
 angry change, as is clear from the attacks made in Samuel Butler's
-_Hudibras_ (1663-1668) upon scholastic verbiage, astrology, fanatical
+_Hudibras_ (1663-1668) upon scholastic verbiage, [[Astrology|astrology]], fanatical
 sects and their disputes, poetic and "heroic" enthusiasm and
 intellectual whim.
 
@@ -3989,7 +3989,7 @@ intellectual whim.
   Courtly and social influence.
 
 Before the Restoration men of letters, with signal exceptions like
-Milton and Marvell, had been Cavalier, courtly and Anglican in their
+Milton and [[Marvell]], had been Cavalier, courtly and Anglican in their
 sympathies. The Civil War had scattered them away from the capital,
 which, despite Milton's dream in _Areopagitica_ of its humming and
 surging energies, had ceased to be, what it now again became, the
@@ -4003,7 +4003,7 @@ and light scarifying verse and comedy, and took their own tragedies and
 criticisms gravely. Poetry under such auspices became gallant and
 social, and also personal and partisan; and satire was soon its most
 vital form, with the accessories of compliment, rhymed popular
-argumentation and elegy. The social and conversational instinct was the
+argumentation and [[Elegy|elegy]]. The social and conversational instinct was the
 master-influence in prose. It produced a subtle but fundamental change
 in the attitude of author to reader. Prose came nearer to living speech,
 it became more civil and natural and persuasive, and this not least in
@@ -4045,7 +4045,7 @@ perfect balance and harmony of learned and native constituents, and a
 sensitive tact in Gallicizing; in his build of sentence there is the
 same balance between curtness or bareness and complexity or ungainly
 lengthiness. For ceremony and compliment he keeps a rolling period, for
-invective a short sharp stroke without the gloves. And he not only uses
+invective a short sharp stroke without the [[Glove|gloves]]. And he not only uses
 in general a sentence of moderate scale, inclining to brevity, but he
 finds out its harmonies; he is a seeming-careless but an absolute master
 of rhythm. In delusive ease he is unexcelled; and we only regret that he
@@ -4057,7 +4057,7 @@ Grounds of Criticism in Tragedy_, _On Heroic Plays_, _On Translated
 Verse_, _On Satire_ and many more; which form the first connected body
 of criticisms in the language, and are nobly written always. Dryden's
 prose is literature as it stands, and yet is talk, and yet again is
-mysteriously better than talk. The critical writings of John Dennis are
+mysteriously better than talk. The critical writings of John [[Dennis]] are
 but a sincere application of the rules and canons that were now becoming
 conventional; Rymer, though not so despicable as Macaulay said, is still
 more depressing than Dennis; and for any critic at once so free, so
@@ -4093,10 +4093,10 @@ forgotten, continues the lineage, while Tillotson and the elder Sherlock
 show the tendency to the smoother and more level prose. But the
 revulsion against strangeness and fancy and magnificence went too far;
 it made for a temporary bareness and meanness and disharmony, which had
-to be checked by Addison, Bolingbroke and Berkeley. From what Addison
+to be checked by Addison, [[Bolingbroke]] and [[Berkeley]]. From what Addison
 saved our daily written English, may be seen in the vigorous slangy
-hackwork of Roger L'Estrange, the translator and pamphleteer, in the
-news-sheets of Dunton, and in the satires of Tom Brown. These writers
+hackwork of Roger [[L'Estrange]], the translator and pamphleteer, in the
+news-sheets of [[Dunton]], and in the satires of Tom Brown. These writers
 were debasing the coinage with their street journalism.
 
 
@@ -4108,15 +4108,15 @@ Another and far nobler variety of vernacular prose is found in the
 Puritans. Baxter and Howe, Fox and Bunyan, had the English Bible behind
 them, which gave them the best of their inspiration, though the first
 two of them were also erudite men. Richard Baxter, an immensely fertile
-writer, is best remembered by those of his own fold for his _Saint's
-Everlasting Rest_ (1650) and his autobiography, John Howe for his
+writer, is best remembered by those of his own [[Fold|fold]] for his _Saint's
+[[Everlasting]] Rest_ (1650) and his autobiography, John Howe for his
 evangelical apologia _The Living Temple of God_ (1675), Fox for his
 _Journal_ and its mixture of quaintness and rapturous mysticism. John
 Bunyan, the least instructed of them all, is their only born artist. His
 creed and point of view were those of half the nation--the half that was
 usually inarticulate in literature, or spoke without style or genius.
 His reading, consisting not only of the Bible, but of the popular
-allegories of giants, pilgrims and adventure, was also that of his
+allegories of [[Giant|giants]], pilgrims and adventure, was also that of his
 class. _The Pilgrim's Progress_, of which the first part appeared in
 1678, the second in 1684, is the happy flowering sport amidst a growth
 of barren plants of the same tribe. The _Progress_ is a dream, more
@@ -4146,7 +4146,7 @@ rose into favour, and a few quite fresh ones were introduced. The poems
 of John Oldham and Andrew Marvell belong to both periods. Both of them
 begin with fantasy and elegy, and end with satires, which indeed are
 rather documents than works of art. The monody of Oldham on his friend
-Morwent is poorly exchanged for the _Satires on the Jesuits_ (1681), and
+Morwent is poorly exchanged for the _Satires on the [[Jesuits]]_ (1681), and
 the lovely metaphysical verses of Marvell on gardens and orchards and
 the spiritual love sadly give place to his _Last Instructions to a
 Painter_ (1669). In his _Horatian Ode_ Marvell had nobly and impartially
@@ -4163,7 +4163,7 @@ largely satire of a different tone and metre; but the earlier kind of
 finished and gallant lyric persisted through the reign of Charles II.
 The songs of John Wilmot, Earl of Rochester, are usually malicious,
 sometimes passionate; they have a music and a splendid self-abandonment
-such as we never meet again till Burns. Sedley and Dorset and Aphra Behn
+such as we never meet again till Burns. Sedley and Dorset and Aphra [[Behn]]
 and Dryden are the rightful heirs of Carew and Lovelace, those
 infallible masters of short rhythms; and this secret also was lost for a
 century afterwards.
@@ -4173,7 +4173,7 @@ century afterwards.
 
 In poetry, in prose, and to some extent in drama, John Dryden, the
 creature of his time, is the master of its expression. He began with
-panegyric verse, first on Cromwell and then on Charles, which is full of
+panegyric verse, first on [[Cromwell]] and then on Charles, which is full of
 fine things and false writing. The _Annus Mirabilis_ (1667) is the chief
 example, celebrating the Plague, the Fire and the naval victory, in the
 quatrains for which Davenant's pompous _Gondibert_ had shown the way.
@@ -4193,7 +4193,7 @@ level with that of any ancient or modern country. The mixture of deadly
 good temper, Olympian unfairness, and rhetorical and metrical skill in
 each of these poems has never been repeated. The presentment of
 Achitophel, earl of Shaftesbury, in his relations with Absalom Walters
-and Charles the minstrel-king of Judah, as well as the portraits of
+and Charles the minstrel-king of [[Judah]], as well as the portraits of
 Shimei and Barzillai and Jotham, the eminent Whigs and Tories, and of
 the poets Og and Doeg, are things whose vividness age has never
 discoloured. Dryden's Protestant arguings in _Religio Laici_ (1682) and
@@ -4201,7 +4201,7 @@ his equally sincere Papistical arguings in _The Hind and the Panther_
 (1687) are just as skilful. His translations of Virgil and parts of
 Lucretius, of Chaucer and Boccaccio (_Fables_, 1700), set the seal on
 his command of his favourite couplet for the higher kinds of appeal and
-oratory. His _Ode_ on Anne Killigrew, and his popular but coarser
+oratory. His _Ode_ on [[Anne]] [[Killigrew]], and his popular but coarser
 _Alexander's Feast_, have a more lyric harmony; and his songs, inserted
 in his plays, reflect the change of fashion by their metrical adeptness
 and often thorough-going wantonness. The epithet of "glorious," in its
@@ -4233,15 +4233,15 @@ impossible. After a time Dryden went back to Shakespeare, after a
 fashion already set by Sir William Davenant, the connecting link with
 the older tragedy and the inaugurator of the new. They "revived"
 Shakespeare; they vamped him in a style that did not wholly perish till
-after the time of Garrick. _The Tempest_, _Troilus and Cressida_, and
-_Antony and Cleopatra_ were thus handled by Dryden; and the last of
+after the time of [[Garrick]]. _The Tempest_, _Troilus and Cressida_, and
+_Antony and [[Cleopatra]]_ were thus handled by Dryden; and the last of
 these, as converted by him into _All for Love_ (1678), is loftier and
 stronger than any of his original plays, its blank verse renewing the
 ties of Restoration poetry with the great age. The heroic plays, written
 in one or other metre, lived long, and expired in the burlesques of
 Fielding and Sheridan. _The Rehearsal_ (1671), a gracious piece of
 fooling partially aimed at Dryden by Buckingham and his friends, did not
-suffice to kill its victims. Thomas Otway and Nathaniel Lee, both of
+suffice to kill its victims. Thomas Otway and Nathaniel [[Lee]], both of
 whom generally used blank verse, are the other tragic writers of note,
 children indeed of the extreme old age of the drama. Otway's long-acted
 _Venice Preserved_ (1682) has an almost Shakespearian skill in
@@ -4258,7 +4258,7 @@ fury.
 
 Restoration comedy at first followed Jonson, whom it was easy to try and
 imitate; Shadwell and Wilson, whose works are a museum for the social
-antiquary, photographed the humours of the town. Dryden's many comedies
+[[Antiquary|antiquary]], photographed the humours of the town. Dryden's many comedies
 often show his more boisterous and blatant, rarely his finer qualities.
 Like all playwrights of the time he pillages from the French, and
 vulgarizes Moliere without stint or shame. A truer light comedy began
@@ -4278,10 +4278,10 @@ modern and lifelike.
   and _History of Literary Criticism_, vol. ii. (1902); W.J. Courthorpe,
   _History of English Poetry_, vols. i.-v. (1895-1905); J.J. Jusserand,
   _Histoire litteraire du peuple anglais_, vol. ii. (1904); T. Seccombe
-  and J.W. Allen, _The Age of Shakespeare_ (2 vols., 1903); D. Hannay,
+  and J.W. Allen, _The Age of Shakespeare_ (2 vols., 1903); D. [[Hannay]],
   _The Later Renaissance_ (1898); H.J.C. Grierson, _First Half of 17th
   Century_; O. Elton, _The Augustan Ages_ (1899); Masson, _Life of
-  Milton_ (6 vols., London, 1881-1894); R. Garnett, _The Age of Dryden_
+  Milton_ (6 vols., London, 1881-1894); R. [[Garnett]], _The Age of Dryden_
   (1901); W. Raleigh, _The English Novel_ (1894); J.J. Jusserand, _Le
   Roman anglais au temps de Shakespeare_ (1887, Eng. tr., 1901); G.
   Gregory Smith, _Elizabethan Critical Essays_ (2 vols., 1904, reprints
@@ -4292,7 +4292,7 @@ modern and lifelike.
   _The Italian Renaissance in England_ (New York, 1902); J. Erskine,
   _The Elizabethan Lyric_ (New York, 1903); J.S. Harrison, _Platonism in
   Eliz. Poetry of the 16th and 17th Centuries_ (New York, 1903); S. Lee,
-  _Elizabethan Sonnets_ (2 vols., 1904); C.H. Herford, _Literary
+  _Elizabethan Sonnets_ (2 vols., 1904); C.H. [[Herford]], _Literary
   Relations of England and Germany in 16th Century_; J.G. Underhill,
   _Spanish Lit. in the England of the Tudors_ (New York, 1899); J.E.
   Spingarn, _Hist. of Literary Criticism in the Renaissance_ (New York,
@@ -4323,8 +4323,8 @@ variety and ease, it was natural enough, having regard to the place that
 the country played in the world's affairs, that English literature
 should make its debut in western Europe. The strong national savour
 seemed to stimulate the foreign appetite, and as represented by Swift,
-Pope, Defoe, Young, Goldsmith, Richardson, Sterne and Ossian, if we
-exclude Byron and Scott, the 18th century may be deemed the cosmopolitan
+Pope, [[Defoe]], Young, Goldsmith, Richardson, Sterne and Ossian, if we
+exclude [[Byron]] and Scott, the 18th century may be deemed the cosmopolitan
 age, _par excellence_, of English Letters. The charms of 18th-century
 English literature, as it happens, are essentially of the rational,
 social and translatable kind: in intensity, exquisiteness and
@@ -4337,9 +4337,9 @@ style of Fielding; the keen and logical controversy of Butler,
 Middleton, Smith and Bentham; the rhythmic and balanced if occasionally
 involved style of Johnson and his admirers; the limpid and flowing
 manner of Hume and Mackintosh; the light, easy and witty flow of
-Walpole; the divine chit-chat of Cowper; the colour of Gray and
+Walpole; the divine chit-chat of [[Cowper]]; the colour of Gray and
 Berkeley; the organ roll of Burke; the detective journalism of Swift and
-Defoe; the sly familiarity of Sterne; the dance music and wax candles
+Defoe; the sly familiarity of Sterne; the dance music and wax [[Candle|candles]]
 of Sheridan; the pomposity of Gibbon; the air and ripple of Goldsmith;
 the peeping preciosity of Boswell,--these and other characteristics can
 be illustrated in 18th-century prose as probably nowhere else.
@@ -4358,7 +4358,7 @@ with newspapers the advertizing of books came into fashion, and the
 market was regulated no longer by what learned men wanted to write, but
 what an increasing multitude wanted to read. The arrival of the octavo
 is said to have marked the enrolment of man as a reader, that of the
-novel the attachment of woman. Hence, among other causes, the rapid
+novel the [[Attachment|attachment]] of woman. Hence, among other causes, the rapid
 decay of lyrical verse and printed drama, of theology and epic, in
 ponderous tomes. The fashionable types of which the new century was to
 witness the fixation are accordingly the essay and the satire as
@@ -4376,7 +4376,7 @@ course of time, too, we shall perceive how the pressure of town life and
 the logic of a capital city engender, first a fondness for landscape
 gardening and a somewhat artificial Arcadianism, and then, by degrees,
 an intensifying love of the country, of the open air, and of the rare,
-exotic and remote in literature.
+[[Exotic|exotic]] and remote in literature.
 
 
   Locke: Addison.
@@ -4427,14 +4427,14 @@ with Locke.
 
   Swift.
 
-  Arbuthnot.
+  [[Arbuthnot]].
 
   Bolingbroke.
 
-The other side, both in life and politics, was taken by Jonathan Swift
+The other side, both in life and politics, was taken by [[Jonathan]] Swift
 (1667-1745), who preferred to represent man on his unsocial side. He
 sneered at most things, but not at his own order, and he came to defend
-the church and the country squirearchy against the conventicle and Capel
+the church and the country squirearchy against the conventicle and [[Capel]]
 court. To undermine the complacent entrenchments of the Whig capitalists
 at war with France no sap proved so effectual as his pen. Literary
 influence was then exercised in politics mainly by pamphlets, and Swift
@@ -4443,14 +4443,14 @@ us a most wonderful portrait of himself in turn currying favour,
 spoiled, petted and humiliated by the party leaders of the Tories from
 1710-1713. He had always been savage, and when the Hanoverians came in
 and he was treated as a suspect, his hate widened to embrace all mankind
-(_Gulliver's Travels_, 1726) and he bit like a mad dog. Would that he
+(_Gulliver's Travels_, 1726) and he [[Bit|bit]] like a mad dog. Would that he
 could have bitten more, for the infection of English stylists! In wit,
 logic, energy, pith, resourcefulness and Saxon simplicity, his prose has
 never been equalled. The choicest English then, it is the choicest
 English still. Dr John Arbuthnot (1667-1735) may be described as an
 understudy of Swift on the whimsical side only, whose malignity, in a
 nature otherwise most kindly, was circumscribed strictly by the limits
-of political persiflage. Bernard Mandeville (1670-1733), unorthodox as
+of political persiflage. [[Bernard]] Mandeville (1670-1733), unorthodox as
 he was in every respect, discovered a little of Swift's choice pessimism
 in his assault (in _The Fable of the Bees_ of 1723) against the genteel
 optimism of the _Characteristics_ of Lord Shaftesbury. Neither the
@@ -4458,7 +4458,7 @@ matter nor the manner of the brilliant Tory chieftain Henry St John,
 Viscount Bolingbroke (1678-1751), appears to us now as being of the
 highest significance; but, although Bolingbroke's ideas were
 second-hand, his work has an historical importance; his dignified,
-balanced and decorated style was the cynosure of 18th-century statesmen.
+balanced and decorated style was the [[Cynosure|cynosure]] of 18th-century statesmen.
 His essays on "History" and on "a Patriot King" both disturb a soil well
 prepared, and set up a reaction against such evil tendencies as a
 narrowing conception of history and a primarily factious and partisan
@@ -4474,7 +4474,7 @@ under Walpole to spies and journalists. Yet one of the most unscrupulous
 of all the fabricators of intelligence, looked down upon as a huckster
 of the meanest and most inconsiderable literary wares, established his
 fame by a masterpiece of which literary genius had scarcely even
-cognizance.
+[[Cognizance|cognizance]].
 
 
   Defoe.
@@ -4513,7 +4513,7 @@ of poetry.
 
   Thomson.
 
-  Collins. Gray.
+  [[Collins]]. Gray.
 
 To the passion, imagination or musical quality essential to the most
 inspired kinds of poetry Alexander Pope (1688-1744) can lay small claim.
@@ -4523,13 +4523,13 @@ phrases he has rarely if ever been surpassed. His classical fancy, his
 elegant turn for periphrasis and his venomous sting alike made him the
 idol of that urbane age. Voltaire in 1726 had called him the best poet
 living, and at his death his style was paramount throughout the
-civilized world. It was the apotheosis of wit, point, lucidity and
+civilized world. It was the [[Apotheosis|apotheosis]] of wit, point, lucidity and
 technical correctness. Pope was the first Englishman to make poetry pay
 (apart from patronage). He was flattered by imitation to an extent which
 threatened to throw the school of poetry which he represented into
 permanent discredit. Prior, Gay, Parnell, Akenside, Pomfret, Garth,
-Young, Johnson, Goldsmith, Falconer, Glover, Grainger, Darwin, Rogers,
-Hayley and indeed a host of others--the once famous mob of gentlemen who
+Young, Johnson, Goldsmith, [[Falconer]], [[Glover]], Grainger, [[Darwin]], Rogers,
+[[Hayley]] and indeed a host of others--the once famous mob of gentlemen who
 wrote with ease--worshipped Pope as their poetic founder. The
 second-rate wore his badge. But although the cult of Pope was the
 established religion of poetic taste from 1714 to 1798, there were
@@ -4546,7 +4546,7 @@ Thomson. At the time when the Popean couplet was at the height of its
 vogue he deliberately put it aside in favour of the higher poetic power
 of blank verse. And he it was who transmitted the sentiment of natural
 beauty not merely to imitators such as Savage, Armstrong, Somerville,
-Langhorne, Mickle and Shenstone, but also to his elegist, William
+[[Langhorne]], Mickle and Shenstone, but also to his elegist, William
 Collins, to Gray and to Cowper, and so indirectly to the lyrical bards
 of 1798. By the same hands and those of Shenstone experiments were being
 made in the stanza of _The Faerie Queene_; a little later, owing to the
@@ -4565,11 +4565,11 @@ credit is due as pioneers and precentors of the romantic movement under
 the depressing conditions to which innovators in poetry are commonly
 subject. They may strike us as rather an anaemic band after the great
 Elizabethan poets. Four of them were mentally deranged (Collins, Smart,
-Cowper, Blake), while Gray was a hermit, and Shenstone and Thomson the
+Cowper, [[Blake]]), while Gray was a hermit, and Shenstone and Thomson the
 most indolent of recluses. The most adventurous, one might say the most
 virile of the group, was a boy who died at the age of seventeen. Single
 men all (save for Blake), a more despondent group of artists as a whole
-it would not perhaps be easy to discover. Catacombs and cypresses were
+it would not perhaps be easy to discover. [[Catacomb|Catacombs]] and cypresses were
 the forms of imagery that came to them most naturally. Elegies and
 funeral odes were the types of expression in which they were happiest.
 Yet they strove in the main to follow the gleam in poetry, to reinstate
@@ -4586,7 +4586,7 @@ the full, but in whom the strong creative energy is fatally
 lacking--despite the fact that he wrote a string of "divine truisms" in
 his _Elegy_, which has given to multitudes more of the exquisite
 pleasure of poetry than any other single piece in the English language.
-Shenstone and Percy, Capell, the Wartons and eventually Chatterton,
+Shenstone and Percy, [[Capell]], the Wartons and eventually Chatterton,
 continued to mine in the shafts which Gray had been the first to sink.
 Their laborious work of discovery resembled that which was commencing in
 regard to the Gothic architecture which the age of Pope had come to
@@ -4617,11 +4617,11 @@ in prose fiction changes, perhaps, more rapidly than that in any other
 kind of literature. In Britain alone several forms had passed their
 prime since the days of Caxton and his Arthurian prose romance of _Morte
 d'Arthur_. Such were the wearisome Arcadian romance or pastoral heroic;
-the new centos of tales of chivalry like the _Seven Champions of
+the new [[Cento|centos]] of tales of chivalry like the _Seven Champions of
 Christendom_; the utopian, political and philosophical romances
 (_Oceana_, _The Man in the Moone_); the grotesque and facetious stories
 of rogues retailed from the Spanish or French in dwarf volumes; the
-prolix romance of modernized classic heroism (_The Grand Cyrus_); the
+prolix romance of modernized classic heroism (_The Grand [[Cyrus]]_); the
 religious allegory (Bunyan's _Life and Death of Mr Badman_); the novels
 of outspoken French or Italian gallantry, represented by Aphra Behn; the
 imaginary voyages so notably adapted to satire by Dr Swift; and last,
@@ -4662,16 +4662,16 @@ romance of adventure) Richardson is the first successful charioteer.
 The novel in England gained prodigiously by the shock of opposition
 between the ideals of Richardson and Henry Fielding (1707-1754), his
 rival and parodist. Fielding's brutal toleration is a fine corrective to
-the slightly rancid morality of Richardson, with its frank insistence
+the slightly rancid morality of Richardson, with its [[Frank|frank]] insistence
 upon the cash-value of chastity and virtue. Fielding is, to be brief,
 the succinct antithesis of Richardson, and represents the opposite pole
 of English character. He is the Cavalier, Richardson the Roundhead; he
-is the gentleman, Richardson the tradesman; he represents church and
+is the [[Gentleman|gentleman]], Richardson the tradesman; he represents church and
 county, Richardson chapel and borough. Richardson had much of the
 patient insight and intensity of genius, but he lacked the humour and
 literary accomplishment which Fielding had in rich abundance. Fielding
 combined breadth and keenness, classical culture and a delicate Gallic
-irony to an extent rare among English writers. He lacked the delicate
+[[Irony|irony]] to an extent rare among English writers. He lacked the delicate
 intuition of Richardson in the analysis of women, nor could he compass
 the broad farcical humour of Smollett or the sombre colouring by which
 Smollett produces at times such poignant effects of contrast. There was
@@ -4688,21 +4688,21 @@ more of its hurlyburly than Fielding himself. In _Roderick Random_
 than that depicted in _Joseph Andrews_. The savagery and horse-play
 peculiar to these two novelists derives in part from the rogue romance
 of Spain (as then recently revived by Lesage), and has a counterpart to
-some extent in the graphic art of Hogarth and Rowlandson; yet one cannot
+some extent in the graphic art of [[Hogarth]] and Rowlandson; yet one cannot
 altogether ignore an element of exaggeration which has greatly injured
 both these writers in the estimation (and still more in the affection)
 of posterity. The genius which struggles through novels such as
-_Roderick Random_ and _Ferdinand Count Fathom_ was nearly submerged
+_Roderick Random_ and _[[Ferdinand]] Count Fathom_ was nearly submerged
 under the hard conditions of a general writer during the third quarter
 of the 18th century, and it speaks volumes for Smollett's powers of
 recuperation that he survived to write two such masterpieces of sardonic
-and humorous observation as his _Travels_ and _Humphry Clinker_.
+and humorous observation as his _Travels_ and _[[Humphry]] Clinker_.
 
 
   Sterne.
 
 The fourth proto-master of the English novel was the antiquarian
-humorist Lawrence Sterne. Though they owed a good deal to _Don Quixote_
+humorist [[Lawrence]] Sterne. Though they owed a good deal to _Don Quixote_
 and the French novelists, Fielding and Smollett were essentially
 observers of life in the quick. Sterne brought a far-fetched style, a
 bookish apparatus and a deliberate eccentricity into fiction. _Tristram
@@ -4725,7 +4725,7 @@ important field. Richardson obtained a European fame during his
 lifetime. Sterne, as a pioneer impressionist, gave all subsequent
 stylists a new handle. Fielding and Smollett grasped the new instrument
 more vigorously, and fashioned with it models which, after serving as
-patterns to Scott, Marryat, Cooper, Ainsworth, Dickens, Lever,
+patterns to Scott, Marryat, Cooper, Ainsworth, [[Dickens]], Lever,
 Stevenson, Merriman, Weyman and other romancists of the 19th century,
 have still retained a fair measure of their original popularity
 unimpaired.
@@ -4735,7 +4735,7 @@ unimpaired.
 
 Apart from the novelists, the middle period of the 18th century is
 strong in prose writers: these include Dr Johnson, Oliver Goldsmith,
-Lord Chesterfield and Horace Walpole. The last three were all influenced
+Lord [[Chesterfield]] and Horace Walpole. The last three were all influenced
 by the sovereign lucidity of the best French style of the day.
 Chesterfield and Walpole were both writers of aristocratic experience
 and of European knowledge and sentiment. Johnson alone was a
@@ -4757,7 +4757,7 @@ as paramount. He tries to carry out a systematic, motived criticism; but
 he asserts rather than persuades or convinces. We go to his critical
 works (_Lives of the Poets_ and _Essay on Shakespeare_) not for their
 conclusions, but for their shrewd comments on life, and for an
-application to literary problems of a caustic common sense. Johnson's
+application to literary problems of a [[Caustic|caustic]] common sense. Johnson's
 character and conversation, his knowledge and memory were far more
 remarkable than his ideas or his writings, admirable though the best of
 these were; the exceptional traits which met in his person and made that
@@ -4841,14 +4841,14 @@ era. "Fiddles sing all through them, wax lights, fine dresses, fine
 jokes, fine plate, fine equipages glitter and sparkle; never was such a
 brilliant, smirking Vanity Fair as that through which he leads us." Yet,
 in some ways, he was a corrective to the self-complacency of his
-generation, a vast dilettante, lover of "Gothic," of curios and
+generation, a vast dilettante, lover of "Gothic," of [[Curio|curios]] and
 antiques, of costly printing, of old illuminations and stained glass. In
 his short miracle-novel, called _The Castle of Otranto_, he set a
 fashion for mystery and terror in fiction, for medieval legend,
-diablerie, mystery, horror, antique furniture and Gothic jargon, which
-led directly by the route of Anne Radcliffe, Maturin, _Vathek_, _St
-Leon_ and _Frankenstein_, to _Queenhoo Hall_, to _Waverley_ and even to
-Hugo and Poe.
+diablerie, mystery, horror, antique furniture and Gothic [[Jargon|jargon]], which
+led directly by the route of Anne Radcliffe, [[Maturin]], _Vathek_, _St
+[[Leon]]_ and _[[Frankenstein]]_, to _Queenhoo Hall_, to _Waverley_ and even to
+[[Hugo]] and Poe.
 
 
   Fanny Burney. Boswell.
@@ -4883,14 +4883,14 @@ during the Johnsonian period. In addition to the novel one need only
 mention the economic treatise, as exemplified for the first time in the
 admirable symmetry of _The Wealth of Nations_, the diary of a faithful
 observer of nature such as Gilbert White, the _Fifteen Discourses_
-(1769-1791) in which Sir Joshua Reynolds endeavours for the first time
+(1769-1791) in which Sir [[Joshua]] Reynolds endeavours for the first time
 to expound for England a philosophy of Art, the historico-philosophical
 tableau as exemplified by Robertson and Gibbon, the light political
 parody of which the poetry of _The Rolliad_ and _Anti-Jacobin_ afford so
 many excellent models; and, going to the other extreme, the ponderous
 archaeological or topographical monograph, as exemplified in Stuart and
 Revett's _Antiquities of Athens_, in Robert Wood's colossal _Ruins of
-Palmyra_ (1753), or the monumental _History of Leicestershire_ by John
+Palmyra_ (1753), or the monumental _History of [[Leicestershire]]_ by John
 Nichols. Such works as this last might well seem the outcome of Horace
 Walpole's maxim: In this scribbling age "let those who can't write,
 glean." In short, the literary landscape in Johnson's day was slowly but
@@ -4922,12 +4922,12 @@ England_ in 1754. Robertson's _History of Scotland_ saw the light in
 Roman Empire_ came in 1776. Hume was, perhaps, the first modernist in
 history; he attempted to give his work a modern interest and, Scot
 though he was, a modern style--it could not fail, as he knew, to derive
-piquancy from its derision of the Whiggish assumption which regarded
+piquancy from its derision of the Whiggish [[Assumption|assumption]] which regarded
 1688 as a political millennium. Wm. Robertson was, perhaps, the first
 man to adapt the polished periphrases of the pulpit to historical
-generalization. The gifts of compromise which he had learned as
+generalization. The gifts of [[Compromise|compromise]] which he had learned as
 Moderator of the General Assembly he brought to bear upon his historical
-studies, and a language so unfamiliar to his lips as academic English he
+studies, and a language so unfamiliar to his [[Lip|lips]] as academic English he
 wrote with so much the more care that the greatest connoisseurs of the
 day were enthusiastic about "Robertson's wonderful style." Even more
 portentous in its superhuman dignity was the style of Edward Gibbon, who
@@ -4982,7 +4982,7 @@ off the last traces of feudality. The crown, the parliament, the manor
 and the old penal code were left, it is true: but the old tenures and
 gild-brotherhoods, the old social habits, miracles, arts, faith,
 religion and letters were irrevocably gone. The attempt of the young
-Chevalier in 1745 was a complete anachronism, and no sooner was this
+[[Chevalier]] in 1745 was a complete anachronism, and no sooner was this
 generally felt to be so than men began to regret that it should so be.
 Men began to describe as "grand" and "picturesque" scenery hitherto
 summarized as "barren mountains covered in mist"; while Voltaire and
@@ -5002,8 +5002,8 @@ Gray, Warton, Hurd and other disciples of the new age denying to Pope
 the highest kind of poetic excellence, and exalting imagination and
 fancy into a sphere far above the Augustan qualities of correct taste
 and good judgment. Decentralization and revolt were the new watchwords
-in literature. We must eschew France and Italy and go rather to Iceland
-or the Hebrides for fresh poetic emotions: we must shun academies and
+in literature. We must eschew France and Italy and go rather to [[Iceland]]
+or the [[Hebrides]] for fresh poetic emotions: we must shun academies and
 classic coffee-houses and go into the street-corners or the hedge-lanes
 in search of Volkspoesie. An old muniment chest and a roll of yellow
 parchment were the finest incentives to the new spirit of the
@@ -5011,7 +5011,7 @@ picturesque. How else are we to explain the enthusiasm that welcomed the
 sham Ossianic poems of James Macpherson in 1760; Percy's patched-up
 ballads of 1765 (_Reliques of Ancient Poetry_); the new enthusiasm for
 Chaucer; the "black letter" school of Ritson, Tyrrwhitt, George Ellis,
-Steevens, Ireland and Malone; above all, the spurious 15th-century poems
+Steevens, Ireland and [[Malone]]; above all, the spurious 15th-century poems
 poured forth in 1768-1769 with such a wild gusto of archaic imagination
 by a prodigy not quite seventeen years of age? Chatterton's precocious
 fantasy cast a wonderful spell upon the romantic imagination of other
@@ -5030,8 +5030,8 @@ delightful in English--is the secret of almost all good writing,
 especially verse. Whatever is short should be nervous, masculine and
 compact. In all the arts that raise the best occasional poetry to the
 level of greatness Cowper is supreme. In phrase-moulding, verbal
-gymnastic and prosodical marquetry he has scarcely a rival, and the
-fruits of his poetic industry are enshrined in the filigree of a most
+gymnastic and prosodical [[Marquetry|marquetry]] he has scarcely a rival, and the
+fruits of his poetic industry are enshrined in the [[Filigree|filigree]] of a most
 delicate fancy and a highly cultivated intelligence, purified and thrice
 refined in the fire of mental affliction. His work expresses the rapid
 civilization of his time, its humanitarian feeling and growing
@@ -5054,10 +5054,10 @@ the century was unmistakably Robert Burns. In song and satire alike
 Burns is racy, in the highest degree, of the poets of North Britain, who
 since Robert Sempill, Willy Hamilton of Gilbertfield, douce Allan
 Ramsay, the Edinburgh periwig-maker and miscellanist, and Robert
-Fergusson, "the writer-chiel, a deathless name," had kept alive the old
+[[Fergusson]], "the writer-chiel, a deathless name," had kept alive the old
 native poetic tradition, had provided the strolling fiddlers with merry
 and wanton staves, and had perpetuated the daintiest shreds of national
-music, the broadest colloquialisms, and the warmest hues of patriotic
+music, the broadest colloquialisms, and the warmest [[Hue|hues]] of patriotic
 or local sentiment. Burns immortalizes these old staves by means of his
 keener vision, his more fiery spirit, his stronger passion and his
 richer volume of sound. Burns's fate was a pathetic one. Brief, broken
@@ -5074,7 +5074,7 @@ right or eternal merit of the system under which the poor man sweats to
 put money into the rich man's pocket and fights to keep it there, and is
 despised in proportion to the amount of his perspiration, he had a low
 opinion. His work has inspired the meek, has made the poor feel
-themselves less of ciphers in the world and given courage to the
+themselves less of [[Cipher|ciphers]] in the world and given courage to the
 down-trodden. His love of women has inspired some of the most ardently
 beautiful lyrics in the world. Among modern folk-poets such as Jokai and
 Mistral, the position of Burns in the hearts of his own people is the
@@ -5099,10 +5099,10 @@ best assured.
   the _English Novel_, in Beljame's _Le Publique et les hommes de
   lettres en Angleterre au XVIII^e siecle_, in H.A. Beers' _History of
   English Romanticism in the 18th Century_ (1899), and above all in Sir
-  Leslie Stephen's _History of English Thought during the 18th Century_;
+  [[Leslie]] Stephen's _History of English Thought during the 18th Century_;
   Stephen's _Hours in a Library_, the monographs dealing with the period
   in the English Men of Letters series, the Vignettes and Portraits of
-  Austin Dobson and George Paston, Elwin's _Eighteenth Century Men of
+  Austin [[Dobson]] and George Paston, Elwin's _Eighteenth Century Men of
   Letters_, and Thomas Wright's _Caricature History of the Georges_,
   must also be kept in mind.     (T. Se.)
 
@@ -5131,7 +5131,7 @@ of the utmost simplicity and directness. He added to this the idea of
 the enlargement of man by Nature, after Rousseau, and went further than
 this in the utterance of an essentially pantheistic desire to become
 part of its loveliness, to partake in a mystical sense of the loneliness
-of the mountain, the sound of falling water, the upper horizon of the
+of the mountain, the sound of falling water, the upper [[Horizon|horizon]] of the
 clouds and the wind. To the growing multitude of educated people who
 were being pent in huge cities these ideas were far sweeter than the
 formalities of the old pastoral. Wordsworth's great discovery, perhaps,
@@ -5152,7 +5152,7 @@ Coleridge at his best was inspired by the supreme poetic gifts of
 passion, imagination, simplicity and mystery, combining form and colour,
 sound and sense, novelty and antiquity, realism and romanticism,
 scholarly ode and popular ballad. His three fragmentary poems _The Rime
-of the Ancient Mariner_, _Christabel_ and _Kubla Khan_ are the three
+of the Ancient Mariner_, _Christabel_ and _Kubla [[Khan]]_ are the three
 spells and touchstones, constituting what is often regarded by the best
 judges as the high-standard of modern English poetry. Their subtleties
 and beauties irradiated the homelier artistic conceptions of Wordsworth,
@@ -5170,7 +5170,7 @@ and concentrated effort.
 
   Lamb.
 
-  Hazlitt.
+  [[Hazlitt]].
 
   Leigh Hunt. De Quincey.
 
@@ -5222,7 +5222,7 @@ greatest poetic artist of his time, and would probably have surpassed
 all, but for his collapse of health at twenty-five. His vocation was as
 unmistakable as that of Chatterton, with whose youthful ardour his own
 had points of likeness. The two contemporary conceptions of him as a
-fatuous Cockney Bunthorne or as "a tadpole of the lakes" were equally
+fatuous [[Cockney]] Bunthorne or as "a tadpole of the lakes" were equally
 erroneous. But Keats was in a sense the first of the virtuoso or
 aesthetic school (caricatured later by the formula of "Art for Art's
 sake"); artistic beauty was to him a kind of religion, his expression
@@ -5234,7 +5234,7 @@ his own self-importance, Coleridge was a metaphysician, Shelley hymned
 Intellectual Beauty; Keats treats of his subject, "A Greek Urn," "A
 Nightingale," the season of "Autumn," in such a way that our thought
 centres not upon the poet but upon the enchantment of that which he
-sings. In his three great medievalising poems, "The Pot of Basil," "The
+sings. In his three great medievalising poems, "The Pot of [[Basil]]," "The
 Eve of St Agnes" and "La Belle Dame Sans Merci," even more than in his
 Odes, Keats is the forerunner of Tennyson, the greatest of the
 word-painters. But apart from his perfection of loveliness, he has a
@@ -5243,10 +5243,10 @@ poet. His poetry, immature as it was, gave a new beauty to the language.
 His loss was the greatest English Literature has sustained.
 
 
-  Landor.
+  [[Landor]].
 
 Before Tennyson, Rossetti and Morris, Keats's best disciples in the
-aesthetic school were Thomas Lovell Beddoes, George Dailey and Thomas
+aesthetic school were Thomas [[Lovell]] Beddoes, George Dailey and Thomas
 Hood, the failure of whose "Midsummer Fairies" and "Fair Inez" drove him
 into that almost mortific vein of verbal humour which threw up here and
 there a masterpiece such as "The Song of a Shirt." The master virtuoso
@@ -5268,7 +5268,7 @@ _Gebir_ (1798) must be reckoned the most poetical of our poets. P.B.
 Shelley was a spirit apart, who fits into no group, the associate of
 Byron, but spiritually as remote from him as possible, hated by the
 rationalists of his age, and regarded by the poets with more pity than
-jealousy. He wrote only for poets, and had no public during his lifetime
+[[Jealousy|jealousy]]. He wrote only for poets, and had no public during his lifetime
 among general readers, by whom, however, he is now regarded as _the
 poet_ par excellence. In his conduct it must be admitted that he was in
 a sense, like Coleridge, irresponsible, but on the other hand his poetic
@@ -5277,7 +5277,7 @@ order of excellence. In ideal beauties it is supreme; its great lack is
 its want of humanity; in this he is the opposite of Wordsworth who reads
 human nature into everything. Shelley, on the other hand, dehumanises
 things and makes them unearthly. He hangs a poem, like a cobweb or a
-silver cloud, on a horn of the crescent moon, and leaves it to dangle
+silver cloud, on a horn of the [[Crescent|crescent]] moon, and leaves it to dangle
 there in a current of ether. His quest was continuous for figures of
 beauty, figures, however, more ethereal and less sensuous than those in
 Keats; having obtained such an idea he passed it again and again through
@@ -5320,9 +5320,9 @@ Lord Byron sought relief in new cadences and new themes for his poetic
 talent. He was, however, essentially a history painter or a satirist in
 verse. He had none of the sensitive aesthetic taste of a Keats, none of
 the spiritual ardour of a Shelley, or of the elemental beauty or
-artistry of Wordsworth or Coleridge. He manages the pen (said Scott)
+artistry of Wordsworth or Coleridge. He [[Manage|manages]] the pen (said Scott)
 with the careless and negligent ease of a man of quality. The "Lake
-Poets" sought to create an impression deep, calm and profound, Byron to
+Poets" sought to create an impression deep, [[Calm|calm]] and profound, Byron to
 start a theme which should enable him to pose, travel, astonish,
 bewilder and confound as lover of daring, freedom, passion and revolt.
 For the subtler symphonic music--that music of the spheres to which the
@@ -5338,16 +5338,16 @@ power to annoy.
 
 The European fame of Byron was from the first something quite unique. At
 Missolonghi people ran through the streets crying "The great man is
-dead--he is gone." His corpse was refused entrance at Westminster; but
+dead--he is gone." His [[Corpse|corpse]] was refused entrance at Westminster; but
 the poet was taken to the inmost heart of Russia, Poland, Spain, Italy,
 France, Germany, Scandinavia, and among the Slavonic nations generally.
 In Italy his influence is plainly seen in Berchet, Leopardi, Giusti, and
 even Carducci. In Spain the Myrtle Society was founded in Byron's
 honour. Hugo in his _Orientales_ traversed Greece. Chateaubriand joined
 the Greek Committee. Delavigne dedicated his verse to Byron; Lamartine
-wrote another canto to _Childe Harold_; Merimee is interpenetrated by
+wrote another [[Canto|canto]] to _Childe Harold_; Merimee is interpenetrated by
 Byronesque feeling which also animates the best work of Heine, Pushkin,
-Lermontov, and Mickievicz, and even De Musset.
+[[Lermontov]], and Mickievicz, and even De Musset.
 
 
   Criticism.
@@ -5356,11 +5356,11 @@ Like Scott, Byron was a man of two eras, and not too much ahead of his
 time to hold the Press-Dragon in fee. His supremacy and that of his
 satellites Moore and Campbell were championed by the old papers and by
 the two new blatant Quarterlies, whose sails were filled not with the
-light airs of the future but by the Augustan "gales" of the classical
+light airs of the future but by the Augustan "[[Gale|gales]]" of the classical
 past. The distinction of this new phalanx of old-fashioned critics who
 wanted to confer literature by university degree was that they wrote as
 gentlemen for gentlemen: they first gave criticism in England a
-respectable shakedown. Francis Jeffrey, a man of extraordinary ability
+respectable shakedown. Francis [[Jeffrey]], a man of extraordinary ability
 and editor of _The Edinburgh Review_ from 1803 to 1829 (with the
 mercurial Sydney Smith, the first of English conversationists, as his
 aide-de-camp), exercised a powerful influence as a standardizer of the
@@ -5374,10 +5374,10 @@ and omniscience, and he used both unsparingly. The strident political
 partisanship of the _Edinburgh_ raised up within six years a serious
 rival in the _Quarterly_, which was edited in turn by the good-natured
 pedagogue William Gifford and by Scott's extremely able son-in-law John
-Gibson Lockhart, the "scorpion" of the infant _Blackwood_. With the aid
+[[Gibson]] Lockhart, the "scorpion" of the infant _Blackwood_. With the aid
 of the remnant of the old anti-Jacobins, Canning, Ellis, Barrow,
-Southey, Croker, Hayward, Apperley and others, the theory of _Quarterly_
-infallibility was carried to its highest point of development about
+Southey, Croker, [[Hayward]], [[Apperley]] and others, the theory of _Quarterly_
+[[Infallibility|infallibility]] was carried to its highest point of development about
 1845.
 
 The historical and critical work of the _Quarterly_ era, as might be
@@ -5387,23 +5387,23 @@ Malthus, whose theory of population gave Darwin his main impulse to
 theorise; and Mackintosh, whose liberal opposition to Burke deserved a
 better fate than it has ever perhaps received. The historians were
 mainly of the second class--the judicial Hallam, the ornate Roscoe, the
-plodding Lingard, the accomplished Milman, the curious Isaac D'Israeli,
-the academic Bishop Thirlwall. Mitford and Grote may be considered in
+plodding [[Lingard]], the accomplished Milman, the curious Isaac [[D'Israeli]],
+the academic Bishop Thirlwall. Mitford and [[Grote]] may be considered in
 the light of Tory and Radical historical pamphleteers, but Grote's work
 has the much larger measure of permanent value. As the historian of
 British India, James Mill's industry led him beyond his thesis of
 Benthamism in practice. Sir William Napier's heroic picture of the
-Peninsular War is strongly tinged by bias against the Tory
+Peninsular War is strongly tinged by [[Bias|bias]] against the Tory
 administration of 1808-1813; but it conserves some imperishable scenes
 of war. Some of the most magnetic prose of the Regency Period was
 contained in the copious and insincere but profoundly emotionalising
-pamphlets of the self-taught Surrey labourer William Cobbett, in whom
+pamphlets of the self-taught Surrey labourer William [[Cobbett]], in whom
 Diderot's paradox of a comedian is astonishingly illustrated. Lockhart's
 Lives of Burns and of Sir Walter Scott--the last perhaps the most
 memorable prose monument of its epoch--appeared in 1828 and 1838, and
 both formed the subjects of Thomas Carlyle in the _Edinburgh Review_,
 where, under the unwelcome discipline of Jeffrey, the new prophet worked
-nobly though in harness.
+nobly though in [[Harness|harness]].
 
 
   Scott.
@@ -5456,19 +5456,19 @@ thoroughly alive to the benefit of peaceful and orderly rule, and deeply
 convinced that we are much better off as we are than we could have been
 in the days of King Richard or good Queen Bess. Scott had the mind of an
 enlightened 18th-century administrator and statesmen who had made a
-fierce hobby of armour and old ballads. To expect him to treat of
-intense passion or romantic medievalism as Charlotte Bronte or Dante
+fierce [[Hobby|hobby]] of armour and old ballads. To expect him to treat of
+intense passion or romantic medievalism as [[Charlotte]] Bronte or Dante
 Gabriel Rossetti would have treated them is as absurd as to expect to
 find the sentiments of a Mrs Browning blossoming amidst the horse-play
 of _Tom Jones_ or _Harry Lorrequer_. Scott has few niceties or secrets:
 he was never subtle, morbid or fantastic. His handling is ever broad,
 vigorous, easy, careless, healthy and free. Yet nobly simple and
 straightforward as man and writer were, there is something very complex
-about his literary legacy, which has gone into all lands and created
+about his literary [[Legacy|legacy]], which has gone into all lands and created
 bigoted enemies (Carlyle, Borrow) as well as unexpected friends
 (Hazlitt, Newman, Jowett); and we can seldom be sure whether his
 influence is reactionary or the reverse. There has always been something
-semi-feudal about it. The "shirra" has a demesne in letters as broad as
+semi-feudal about it. The "shirra" has a [[Demesne|demesne]] in letters as broad as
 a countryside, a band of mesne vassals and a host of Eildon hillsmen,
 Tweedside cottiers, minor feudatories and forest retainers attached to
 the "Abbotsford Hunt." Scott's humour, humanity and insistence upon the
@@ -5477,17 +5477,17 @@ continuity of history transformed English literature profoundly.
 
   Transition fiction.
 
-Scott set himself to coin a quarter of a million sterling out of the new
+Scott set himself to [[Coin|coin]] a quarter of a million sterling out of the new
 continent of which he felt himself the Columbus. He failed (quite
 narrowly), but he made the Novel the paymaster of literature for at
 least a hundred years. His immediate contemporaries and successors were
-not particularly great. John Galt (1779-1839), Susan Ferrier (1782-1854)
+not particularly great. John Galt (1779-1839), Susan [[Ferrier]] (1782-1854)
 and D.M. Moir (1798-1851) all attempted the delineation of Scottish
 scenes with a good deal of shrewdness of insight and humour. The main
 bridge from Scott to the great novelists of the 'forties and 'fifties
 was supplied by sporting, military, naval and political novels,
-represented in turn by Surtees, Smith, Hook, Maxwell, Lever, Marryat,
-Cooper, Morier, Ainsworth, Bulwer Lytton and Disraeli. Surtees gave
+represented in turn by Surtees, Smith, Hook, [[Maxwell]], Lever, Marryat,
+Cooper, Morier, Ainsworth, Bulwer [[Lytton]] and Disraeli. Surtees gave
 all-important hints to _Pickwick_, Marryat developed grotesque
 character-drawing, Ainsworth and Bulwer attempted new effects in
 criminology and contemporary glitter. Disraeli in the 'thirties was one
@@ -5496,23 +5496,23 @@ the 'forties he received the laying-on of hands from the Young England
 party, and attempted to propagandize the good tidings of his mission in
 _Coningsby_ and _Sybil_, novels full of _entrainement_ and promise, if
 not of actual genius. Unhappily the author was enmeshed in the fatal
-drolleries of the English party system, and _Lothair_ is virtually a
+drolleries of the English party system, and _[[Lothair]]_ is virtually a
 confession of abandoned ideals. He completes the forward party in
-fiction; Jane Austen (1775-1815) stands to this as Crabbe and Rogers to
+fiction; Jane [[Austen]] (1775-1815) stands to this as Crabbe and Rogers to
 Coleridge and Shelley. She represents the fine flower of the expiring
-18th century. Scott could do the trumpet notes on the organ. She fingers
-the fine ivory flutes. She combines self-knowledge and artistic
+18th century. Scott could do the trumpet notes on the organ. She [[Finger|fingers]]
+the fine [[Ivory|ivory]] [[Flute|flutes]]. She combines self-knowledge and artistic
 reticence with a complete tact and an absolute lucidity of vision within
 the area prescribed. Within the limits of a park wall in a country
 parish, absolutely oblivious of Europe and the universe, her art is
 among the finest and most finished that our literature has to offer. In
 irony she had no rival at that period. But the trimness of her plots and
-the delicacy of her miniature work have affinities in Maria Edgeworth,
-Harriet Martineau and Mary Russell Mitford, three excellent writers of
+the delicacy of her miniature work have affinities in Maria [[Edgeworth]],
+Harriet [[Martineau]] and Mary Russell Mitford, three excellent writers of
 pure English prose. There is a finer aroma of style in the contemporary
 "novels" of Thomas Love Peacock (1785-1866). These, however, are rather
 tournaments of talk than novels proper, releasing a flood of satiric
-portraiture upon the idealism of the day--difficult to be apprehended in
+portraiture upon the [[Idealism|idealism]] of the day--difficult to be apprehended in
 perfection save by professed students. Peacock's style had an
 appreciable influence upon his son-in-law George Meredith (1828-1909).
 His philosophy is for the most part Tory irritability exploding in
@@ -5540,9 +5540,9 @@ principal authors who belong equally to the Georgian and Victorian eras
 are Landor, Bulwer, Marryat, Hallam, Milman and Disraeli; none of whom,
 with the exception of the last, approaches the first rank in either. The
 significant work of Tennyson, the Brownings, Carlyle, Dickens,
-Thackeray, the Brontes, George Eliot, Mrs Gaskell, Trollope, the
-Kingsleys, Spencer, Mill, Darwin, Ruskin, Grote, Macaulay, Freeman,
-Froude, Lecky, Buckle, Green, Maine, Borrow, FitzGerald, Arnold,
+Thackeray, the Brontes, George [[Eliot]], Mrs [[Gaskell]], Trollope, the
+[[Kingsley|Kingsleys]], Spencer, Mill, Darwin, Ruskin, Grote, Macaulay, Freeman,
+Froude, Lecky, [[Buckle]], Green, [[Maine]], Borrow, [[Fitzgerald|FitzGerald]], [[Arnold]],
 Rossetti, Swinburne, Meredith, Hardy, Stevenson, Morris, Newman, Pater,
 Jefferies--the work of these writers may be termed conclusively
 Victorian; it gives the era a stamp of its own and distinguishes it as
@@ -5571,7 +5571,7 @@ beginning to read with avidity; but the quality of brevity, the
 knowledge when to stop, and with it the older classic conciseness and
 the nobler Hellenic idea of a perfect measure--these things were as
 though they had not been. Meanwhile, the old schools were broken up and
-the foolscap addressed to the old masters. Singers, entertainers,
+the [[Foolscap|foolscap]] addressed to the old masters. Singers, entertainers,
 critics and historians abound. Every man may say what is in him in the
 phrases that he likes best, and the sole motto that compels is "every
 style is permissible except the style that is tiresome." The old models
@@ -5579,7 +5579,7 @@ are strangely discredited, and the only conventions which hold are those
 concerning the subjects which English delicacy held to be tabooed. These
 conventions were inordinately strict, and were held to include all the
 unrestrained, illicit impulses of love and all the more violent
-aberrations from the Christian code of faith and ethics. Infidel
+aberrations from the Christian code of faith and [[Ethics|ethics]]. Infidel
 speculation and the liaisons of lawless love (which had begun to form
 the staple of the new French fiction--hence regarded by respectable
 English critics of the time as profoundly vitiated and scandalous) had
@@ -5673,8 +5673,8 @@ imagination to propound very different conclusions. The conviction of
 Charlotte Bronte (1816-1855) was that the mutual passionate love of one
 man and one woman is sacred and creates a centre of highest life, energy
 and joy in the world. George Eliot (1819-1880), on the other hand,
-detected a blind and cruel egoism in all such ecstasy of individual
-passion. It was in the autumn of 1847 that _Jane Eyre_ shocked the
+detected a blind and cruel egoism in all such [[Ecstasy|ecstasy]] of individual
+passion. It was in the autumn of 1847 that _Jane [[Eyre]]_ shocked the
 primness of the coteries by the unconcealed ardour of its love passages.
 Twelve years later _Adam Bede_ astonished the world by the intensity of
 its ethical light and shade. The introspective novel was now very
@@ -5704,7 +5704,7 @@ accomplished as a poet than in the to him too exciting operation of
 taking sides in a romance. The novels of Trollope, Reade and Wilkie
 Collins are, generally speaking, a secondary product of the literary
 forces which produced the great fiction of the 'fifties. The two last
-were great at structure and sensation: Trollope dogs the prose of
+were great at structure and sensation: Trollope [[Dogs|dogs]] the prose of
 every-day life with a certainty and a clearness that border upon
 inspiration. The great novels of George Meredith range between 1859 and
 1880, stories of characters deeply interesting who reveal themselves to
@@ -5739,7 +5739,7 @@ _Maud_ in 1855 he devoted his flawless technique of design, harmony and
 rhythm to works primarily of decoration and design (_The Idylls of the
 King_), and to experiments in metrical drama for which the time was not
 ripe; but his main occupation was varied almost to the last by lyrical
-blossoms such as "Frater Ave," "Roman Virgil," or "Crossing the Bar,"
+blossoms such as "[[Frater]] Ave," "Roman Virgil," or "Crossing the Bar,"
 which, like "Tears, Idle Tears" and "O that 'twere possible," embody the
 aspirations of Flaubert towards a perfected art of language shaping as
 no other verse probably can.
@@ -5750,7 +5750,7 @@ no other verse probably can.
 Few, perhaps, would go now to _In Memoriam_ as to an oracle for
 illumination and guidance as many of Queen Victoria's contemporaries
 did, from the Queen herself downwards. And yet it will take very long
-ere its fascination fades. In language most musical it rearticulates the
+ere its [[Fascination|fascination]] fades. In language most musical it rearticulates the
 gospel of Sorrow and Love, and it remains still a pathetic expression of
 emotions, sentiments and truths which, as long as human nature remains
 the same, and as long as calamity, sorrow and death are busy in the
@@ -5799,8 +5799,8 @@ Many of Browning's ideas and fertilizations will, perhaps, owing to the
 difficulty and uncertainty which attaches to their form, penetrate the
 future indirectly as the stimulant of other men's work. This is
 especially the case with those remarkable writers who have for the first
-time given the fine arts a considerable place in English literature,
-notably John Ruskin (_Modern Painters_, 1842, _Seven Lamps_, 1849,
+time given the [[Fine Arts|fine arts]] a considerable place in English literature,
+notably John Ruskin (_Modern Painters_, 1842, _Seven [[Lamp|Lamps]]_, 1849,
 _Stones of Venice_, 1853), William Morris, John Addington Symonds and
 Walter Pater. Browning, it is true, shared the discipleship of the first
 two with Kingsley and Carlyle. But Ruskin outlived all discipleships and
@@ -5813,16 +5813,16 @@ elements of emotional power in which still preserve their secret.
 More a poet of doubt than either Tennyson or the college friend, A.H.
 Clough, whose loss he lamented in one of the finest pastoral elegies of
 all ages, Matthew Arnold takes rank with Tennyson, Browning and
-Swinburne alone among the Dii Majores of Victorian poetry. He is perhaps
+Swinburne alone among the Dii [[Major|Majores]] of Victorian poetry. He is perhaps
 a disciple of Wordsworth even more than of Goethe, and he finds in
 Nature, described in rarefied though at times intensely beautiful
 phrase, the balm for the unrest of man's unsatisfied yearnings, the
 divorce between soul and intellect, and the sense of contrast between
 the barren toil of man and the magic operancy of nature. His most
-delicate and intimate strains are tinged with melancholy. The infinite
+delicate and intimate strains are tinged with melancholy. The [[Infinite|infinite]]
 desire of what might have been, the _lacrimae rerum_, inspires
 "Resignation," one of the finest pieces in his volume of 1849 (_The
-Strayed Reveller_). In the deeply-sighed lines of "Dover Beach" in 1867
+Strayed Reveller_). In the deeply-sighed lines of "[[Dover]] [[Beach]]" in 1867
 it is associated with his sense of the decay of faith. The dreaming
 garden trees, the full moon and the white evening star of the beautiful
 English-coloured _Thyrsis_ evoke the same mood, and render Arnold one of
@@ -5862,7 +5862,7 @@ a question of enthusiastic experiment and adventure. Rossetti leads the
 way with his sonnets and ballads. Christina follows with _Goblin
 Market_, though she subsequently, with a perfected technique, writes
 poetry more and more confined to the religious emotions. William Morris
-publishes in 1858 his _Defence of Guenevere_, followed in ten years by
+publishes in 1858 his _Defence of [[Guenevere]]_, followed in ten years by
 _The Earthly Paradise_, a collection of metrical tales, which hang in
 the sunshine like tapestries woven of golden thread, where we should
 naturally expect the ordinary paperhanging of prose romance.
@@ -5872,7 +5872,7 @@ naturally expect the ordinary paperhanging of prose romance.
 
 From the verdurous gloom of the studio with its mysterious and occult
 properties in which Rossetti compounded his colours, Morris went forth
-shortly to chant and then to narrate Socialist songs and parables.
+shortly to [[Chant|chant]] and then to narrate Socialist songs and parables.
 Algernon Charles Swinburne set forth to scandalize the critics of 1866
 with the roses and lilies of vice and white death in _Poems and
 Ballads_, which was greeted with howls and hisses, and reproach against
@@ -5884,7 +5884,7 @@ were the outpourings of a young singer up to the chin in the Pierian
 flood, and possessed by a poetic energy so urgent that it could not wait
 to apply the touchstones of reality or the chastening planes of
 experience. Swinburne far surpassed the promoters of this exotic school
-in technical excellence, and in _Atalanta in Calydon_ and its successors
+in technical excellence, and in _[[Atalanta]] in [[Calydon]]_ and its successors
 may be said to have widened the bounds of English song, to have created
 a new music and liberated a new harmonic scale in his verse. Of the two
 elements which, superadded to a consummate technique, compose the great
@@ -5911,7 +5911,7 @@ a cessation of magnificent sound.
 
 Akin in some sense to the attempt made to get behind the veil and to
 recapture the old charms and spells of the middle ages, to discover the
-open sesame of the _Morte D'Arthur_ and the _Mabinogion_ and to reveal
+open sesame of the _Morte D'Arthur_ and the _[[Mabinogion]]_ and to reveal
 the old Celtic and monastic life which once filled and dominated our
 islands, was the attempt to overthrow the twin gods of the 'forties and
 'fifties, state-Protestantism and the sanctity of trade. The curiously
@@ -5925,10 +5925,10 @@ establishment--it had produced some very great men since the days of the
 non-jurors, when it had mislaid its historical conscience, but these had
 either been great scholars in their studies, such as Berkeley, Butler,
 Warburton, Thomas Scott, or revivalists, evangelicals and missionaries,
-such as Wilson, Wesley, Newton, Romaine, Cecil, Venn, Martyn, who were
+such as Wilson, Wesley, Newton, Romaine, [[Cecil]], Venn, [[Martyn]], who were
 essentially Congregationalists rather than historical Churchmen. A new
 spiritual beacon was to be raised; an attempt was to be made to realize
-the historical and cosmic aspects of the English Church, to examine its
+the historical and [[Cosmic|cosmic]] aspects of the English Church, to examine its
 connexions, its descent and its title-deeds. In this attempt Newman was
 to spend the best years of his life.
 
@@ -5942,16 +5942,16 @@ bank stock might decline 1%; but a century later it is doubtful whether
 the passing of such a bill would have left any trace, however
 evanescent, upon the stability of the money market. The Anglican _via
 media_ had enemies not only in the philosophical radicals, but also in
-the new caste of men of science. Perhaps, as J.A. Froude suggests, these
+the new [[Caste|caste]] of men of science. Perhaps, as J.A. Froude suggests, these
 combined enemies, _The Edinburgh Review_, Brougham, Mackintosh, the
 Reform Ministry, Low Church philosophy and the London University were
 not so very terrible after all. The Church was a vested interest which
 had a greater stake in the country and was harder to eradicate than they
 imagined. But it had nothing to give to the historian and the idealist.
 They were right to fight for what their souls craved after and found in
-the Church of Andrewes, Herbert, Ken and Waterland. Belief in the divine
+the Church of Andrewes, Herbert, [[Ken]] and Waterland. Belief in the divine
 mission of the Church lingered on in the minds of such men as Alexander
-Knox or his disciple Bishop Jebb; but few were prepared to answer the
+[[Knox]] or his disciple Bishop Jebb; but few were prepared to answer the
 question--"What is the Church as spoken of in England? Is it the Church
 of Christ?"--and the answers were various. Hooker had said it was "the
 nation"; and in entirely altered circumstances, with some
@@ -5979,9 +5979,9 @@ about progress, was advancing with a light heart to the verge of a
 bottomless abyss. By a diametrically opposite chain of reasoning Newman
 reached much the same conclusion as Carlyle. Newman sought a haven of
 security in a rapprochement with the Catholic Church. The medieval
-influences already at work in Oxford began to fan the flame which
+influences already at work in Oxford began to [[Fan|fan]] the flame which
 kindled to a blaze in the ninetieth of the celebrated _Tracts for the
-Times_. It proved the turning of the ways leading Keble and Pusey to
+Times_. It proved the turning of the ways leading [[Keble]] and Pusey to
 Anglican ritual and Newman to Rome. This anti-liberal campaign was
 poison to the state-churchmen and Protestants, and became perhaps the
 chief intellectual storm centre of the century. Charles Kingsley in 1864
@@ -6006,7 +6006,7 @@ advance in a totally opposite direction. The _Apologia_ fell in point of
 time between _The Origin of Species_ and _Descent of Man_, in which
 Charles Darwin was laying the corner stones of the new science of which
 Thomas Huxley and Alfred Russel Wallace were to be among the first
-apostles, and almost coincided with the _First Principles_ of a
+[[Apostle|apostles]], and almost coincided with the _First Principles_ of a
 synthetic philosophy, in which Herbert Spencer was formulating a set of
 probabilities wholly destructive to the acceptance of positive truth in
 any one religion. The typical historian of the 'fifties, Thomas
@@ -6052,7 +6052,7 @@ Puck, his palace was hell, and Oliver Twist and Smike were petted
 children compared with his son the crown prince. In the same bluff and
 honest father Carlyle recognized the realized ideal of his fancy and
 hugged the just man made perfect to his heart of hearts. Such men as
-Bentham and Cobden, Mill and Macaulay, had in Carlyle's opinion spared
+Bentham and [[Cobden]], Mill and Macaulay, had in Carlyle's opinion spared
 themselves no mistaken exertion to exalt the prosperity and happiness of
 their own day. The time had come to react at all hazards against the
 prevalent surfeit of civilization. Henceforth his literary activity was
@@ -6081,10 +6081,10 @@ Surrounded by philomaths and savants who wrote smoothly about the
 perfectibility of man and his institutions, Carlyle almost alone refused
 to distil his angry eloquence and went on railing against the passive
 growth of civilization at the heart of which he declared that he had
-discovered a cancer. This uncouth Titan worship and prostration before
+discovered a [[Cancer|cancer]]. This uncouth Titan worship and prostration before
 brute force, this constant ranting about jarls and vikings trembles
-often on the verge of cant and comedy, and his fiddling on the one
-string of human pretension and bankruptcy became discordant almost to
+often on the verge of [[Cant|cant]] and comedy, and his fiddling on the one
+string of human pretension and [[Bankruptcy|bankruptcy]] became discordant almost to
 the point of chaos. Instinctively destructive, he resents the
 apostleship of teachers like Mill, or the pioneer discoveries of men
 like Herbert Spencer and Darwin. He remains, nevertheless, a great
@@ -6121,7 +6121,7 @@ Bryce contributed to the process of transition mainly as essayists, but
 the new doctrines were tested and to a certain extent put into action by
 such writers as Thorold Rogers, Stubbs, Gardiner and Maitland. The
 theory that History is a science, no less and no more, was propounded in
-so many words by Professor Bury in his inaugural lecture at Cambridge in
+so many words by Professor [[Bury]] in his inaugural lecture at Cambridge in
 1903, and this view and the corresponding divergence of history from the
 traditional pathway of Belles Lettres has become steadily more dominant
 in the world of historical research and historical writing since 1881.
@@ -6134,9 +6134,9 @@ from no other point of view.
 The novel since 1881 has pursued a course curiously analogous to that of
 historical writing. Supported as it was by masters of the old regime
 such as Meredith and Hardy, and by those who then ranked even higher in
-popular esteem such as Wilkie Collins, Anthony Trollope, Besant and
+popular esteem such as Wilkie Collins, Anthony Trollope, [[Besant]] and
 Rice, Blackmore, William Black and a monstrous rising regiment of lady
-novelists--Mrs Lynn Linton, Rhoda Broughton, Mrs Henry Wood, Miss
+novelists--Mrs Lynn [[Linton]], Rhoda Broughton, Mrs Henry Wood, Miss
 Braddon, Mrs Humphry Ward, the type seemed securely anchored to the old
 formulas and the old ways. In reality, however, many of these popular
 workers were already moribund and the novel was being honeycombed by
@@ -6144,7 +6144,7 @@ French influence.
 
 This is perceptible in Hardy, but may be traced with greater
 distinctness in the best work of George Gissing, George Moore, Mark
-Rutherford, and later on of H.G. Wells, Arnold Bennett and John
+Rutherford, and later on of H.G. Wells, Arnold [[Bennett]] and John
 Galsworthy. The old novelists had left behind them a giant's robe.
 Intellectually giants, Dickens and Thackeray were equally gigantic
 spendthrifts. They worked in a state of fervent heat above a glowing
@@ -6174,13 +6174,13 @@ combined with their passion for the romance of the historic past a
 curiosity fully as strong about the secrets of romantic technique. A
 coterie which he formed with W.E. Henley and his cousin R.A.M. Stevenson
 studied words as a young art student studies paints, and made studies
-for portraits of buccaneers with the same minute drudgery that Rossetti
+for portraits of [[Buccaneers|buccaneers]] with the same minute drudgery that Rossetti
 had studied a wall or Morris a piece of figured tapestry. While thus
 forming a new romantic school whose work when wrought by his methods
 should be fit to be grafted upon the picturesque historic fiction of
 Scott and Dumas, Stevenson was also naturalizing the short story of the
 modern French type upon English ground. In this particular field he was
-eclipsed by Rudyard Kipling, who, though less original as a man of
+eclipsed by Rudyard [[Kipling]], who, though less original as a man of
 letters, had a technical vocabulary and descriptive power far in advance
 of Stevenson's, and was able in addition to give his writing an exotic
 quality derived from Oriental colouring. This regional type of writing
@@ -6208,12 +6208,12 @@ Watts-Dunton; but their agreement is certainly not greater than among
 the large class of emancipated who endeavour to concentrate the
 attention of others without further ado upon those branches of
 literature which they find most nutritive. Among the finest appreciators
-of this period have been Pattison and Jebb, Myers, Hutton, Dowden, A.C.
-Bradley, William Archer, Richard Garnett, E. Gosse and Andrew Lang.
-Birrell, Walkley and Max Beerbohm have followed rather in the wake of
+of this period have been Pattison and Jebb, Myers, Hutton, [[Dowden]], A.C.
+Bradley, William [[Archer]], Richard Garnett, E. [[Gosse]] and Andrew Lang.
+[[Birrell]], Walkley and Max Beerbohm have followed rather in the wake of
 the Stephens and Bagehot, who have criticized the sufficiency of the
 titles made out by the more enthusiastic and lyrical eulogists. In
-Arthur Symons, Walter Raleigh and G.K. Chesterton the new age possessed
+Arthur Symons, Walter Raleigh and G.K. [[Chesterton]] the new age possessed
 critics of great originality and power, the work of the last two of whom
 is concentrated upon the application of ideas about life at large to the
 conceptions of literature. In exposing palpable nonsense as such, no one
@@ -6225,19 +6225,19 @@ greatly smoothed by co-operative lexicographical efforts such as the
 _Dictionary of National Biography_, the _New English Dictionary_, the
 _Victoria County History_ and the like, some of the most dexterous and
 permeating work of the transition from the old century to the new was
-done by H.D. Traill, Gosse, Lang, Mackail, E.V. Lucas, Lowes Dickinson,
-Richard le Gallienne, A.C. Benson, Hilaire Belloc, while the open-air
+done by H.D. Traill, Gosse, Lang, Mackail, E.V. [[Lucas]], Lowes [[Dickinson]],
+Richard [[Le Gallienne|le Gallienne]], A.C. [[Benson]], Hilaire Belloc, while the open-air
 relief work for dwellers pent in great cities, pioneered by Gilbert
 White, has been expanded with all the zest and charm that a novel
-pursuit can endow by such writers as Richard Jefferies, an open-air and
+pursuit can endow by such writers as Richard [[Jefferies]], an open-air and
 nature mystic of extraordinary power at his best, Selous, Seton
-Thompson, W.H. Hudson.
+Thompson, W.H. [[Hudson]].
 
 
   Poetry.
 
 The age has not been particularly well attuned to the efforts of the
-newer poets since Coventry Patmore in the _Angel in the House_ achieved
+newer poets since [[Coventry]] Patmore in the _Angel in the House_ achieved
 embroidery, often extremely beautiful, upon the Tennysonian pattern, and
 since Edward FitzGerald, the first of all letter-writing commentators on
 life and letters since Lamb, gave a new cult to the decadent century in
@@ -6252,14 +6252,14 @@ western sea and its isles by W.B. Yeats, Synge, Moira O'Neill, "Fiona
 Macleod" and an increasing group of Celtic bards; the highly wrought
 verse of the 17th-century lyrists by Francis Thompson, Lionel Johnson,
 Ernest Dowson; the simplicity of a more popular strain by W.H. Davies,
-of a brilliant rhetoric by John Davidson, and of a more intimate romance
+of a brilliant rhetoric by John [[Davidson]], and of a more intimate romance
 by Sturge Moore and Walter de la Mare. Light verse has never, perhaps,
-been represented more effectively since Praed and Calverley and Lewis
+been represented more effectively since Praed and Calverley and [[Lewis]]
 Carroll than by Austin Dobson, Locker Lampson, W.S. Gilbert and Owen
 Seaman. The names of C.M. Doughty, Alfred Noyes, Herbert Trench and
-Laurence Binyon were also becoming prominent at the opening of the 20th
+Laurence [[Binyon]] were also becoming prominent at the opening of the 20th
 century. For originality in form and substance the palm rests in all
-probability with A.E. Housman, whose _Shropshire Lad_ opens new avenues
+probability with A.E. [[Housman]], whose _Shropshire Lad_ opens new avenues
 and issues, and with W.E. Henley, whose town and hospital poems had a
 poignant as well as an ennobling strain. The work of Henry Newbolt, Mrs.
 Meynell and Stephen Phillips showed a real poetic gift. Above all these,
@@ -6274,7 +6274,7 @@ The new printed and acted drama dates almost entirely from the late
 'eighties. Tom Robertson in the 'seventies printed nothing, and his
 plays were at most a timid recognition of the claims of the drama to
 represent reality and truth. The enormous superiority of the French
-drama as represented by Augier, Dumas _fils_ and Sardou began to dawn
+drama as represented by [[Augier]], Dumas _fils_ and Sardou began to dawn
 slowly upon the English consciousness. Then in the 'eighties came Ibsen,
 whose daring in handling actuality was only equalled by his intrepid
 stage-craft. Oscar Wilde and A.W. Pinero were the first to discover how
@@ -6282,7 +6282,7 @@ the spirit of these new discoveries might be adapted to the English
 stage. Gilbert Murray, with his fascinating and tantalizing versions
 from Euripides, gave a new flexibility to the expansion that was going
 on in English dramatic ideas. Bernard Shaw and his disciples,
-conspicuous among them Granville Barker, gave a new seasoning of wit to
+conspicuous among them [[Granville]] [[Barker]], gave a new seasoning of wit to
 the absolute novelties of subject, treatment and application with which
 they transfixed the public which had so long abandoned thought upon
 entering the theatre. This new adventure enjoyed a _succes de stupeur_,
@@ -6294,7 +6294,7 @@ which is clearly by no means spent.
 
 English literature in the 20th century still preserves some of the old
 arrangements and some of the consecrated phrases of patronage and
-aristocracy; but the circumstances of its production were profoundly
+[[Aristocracy|aristocracy]]; but the circumstances of its production were profoundly
 changed during the 19th century. By 1895 English literature had become a
 subject of regular instruction for a special degree at most of the
 universities, both in England and America. This has begun to lead to
@@ -6303,7 +6303,7 @@ as facts in connexion with the earlier literature can be regarded so no
 longer. It has also brought comparative and historical treatment of a
 closer kind and on a larger scale to bear upon the evolution of literary
 types. On the other hand it has concentrated an excessive attention
-perhaps upon the grammar and prosody and etymology of literature, it has
+perhaps upon the grammar and prosody and [[Etymology|etymology]] of literature, it has
 stereotyped the admiration of lifeless and obsolete forms, and has
 substituted antiquarian notes and ready-made commentary for that live
 enjoyment, which is essentially individual and which tends insensibly to
@@ -6351,7 +6351,7 @@ if one of the most permanent, is also one of the least calculable.
   pertinent, as are the literary chapters in vols. x. and xi. of the
   _Cambridge Modern History_. Of more specific books George Brandes's
   _Literary Currents of the Nineteenth Century_, Stedman's _Victorian
-  Poets_, Holman Hunt's _Pre-Raphaelite Brotherhood_, R.H. Hutton's
+  Poets_, [[Holman]] Hunt's _Pre-Raphaelite Brotherhood_, R.H. Hutton's
   _Contemporary Thought_ (and companion volumes), Sir Leslie Stephen's
   _The Utilitarians_, Buxton Forman's _Our Living Poets_, Dawson's
   _Victorian Novelists_, Thureau-Dangin's _Renaissance des idees

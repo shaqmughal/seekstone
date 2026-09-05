@@ -21,7 +21,7 @@ authorities. Their women display considerable ingenuity in dressing their
 hair, often taking a whole day to arrange a coiffure; the hair is built up
 on a substructure of clay and a good deal of false hair incorporated; a
 coat of red, green or yellow pigment often completes the effect. The same
-colours are used to decorate the hut doors. The villages, some of which are
+[[Colours|colours]] are used to decorate the hut doors. The villages, some of which are
 fortified with palisades, are usually very dirty; chiefs and rich men own
 plantations which are situated at some distance from the village and to
 which their womenfolk are sent in times of war. The Bakalai of Lake Isanga

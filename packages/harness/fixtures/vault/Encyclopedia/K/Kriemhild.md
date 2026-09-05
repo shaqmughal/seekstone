@@ -16,7 +16,7 @@ character and to be applied only to daemonic beings; but in Germany, the
 original home of the Nibelungen myth, it certainly lost all trace of
 this significance, and in the _Nibelungenlied_ Kriemhild is no more than
 a beautiful princess, the daughter of King Dancrât and Queen Uote, and
-sister of the Burgundian kings Gunther, Giselhêr and Gêrnôt, the masters
+sister of the Burgundian kings [[Gunther]], Giselhêr and Gêrnôt, the masters
 of the Nibelungen hoard. As she appears in the Nibelungen legend,
 however, Kriemhild would seem to have an historical origin, as the wife
 of Attila, king of the Huns, as well as sister of the Nibelung kings.
@@ -29,7 +29,7 @@ some (e.g. Saxo Poeta and the Quedlinburg chronicle) it was her father
 whom she revenged; but when the treacherous overthrow of the Burgundians
 by Attila had become a theme for epic poets, she figured as a Burgundian
 princess, and her act as done in revenge for her brothers. Now the name
-Hildikô is the diminutive of Hilda or Hild, which again--in accordance
+Hildikô is the diminutive of [[Hilda]] or Hild, which again--in accordance
 with a custom common enough--may have been used as an abbreviation of
 Grîmhild (cf. _Hildr_ for _Brynhildr_). It has been suggested (Symons,
 _Heldensage_, p. 55) that when the legend of the overthrow of the
@@ -40,14 +40,14 @@ mythical Nibelung brothers, and thus helped the process by which the
 Nibelung myth became fused with the historical story of the fall of the
 Burgundian kingdom. The older story, according to which Grîmhild slays
 her husband Attila in revenge for her brothers, is preserved in the
-Norse tradition, though Grîmhild's part is played by Gudrun, a change
+Norse tradition, though Grîmhild's part is played by [[Gudrun]], a change
 probably due to the fact, mentioned above, that the name Grîmhild still
 retained in the north its sinister significance. The name of Grîmhild is
 transferred to Gudrun's mother, the "wise wife," a semi-daemonic figure,
 who brews the potion that makes Sigurd forget his love for Brunhild and
 his plighted troth. In the _Nibelungenlied_, however, the primitive
 supremacy of the blood-tie has given place to the more modern idea of
-the supremacy of the passion of love, and Kriemhild marries Attila
+the supremacy of the passion of love, and Kriemhild [[Marri|marries]] Attila
 (Etzel) in order to compass the death of her brothers, in revenge for
 the murder of Siegfried. Theodor Abeling, who is disposed to reject or
 minimize the mythical origins, further suggests a confusion of the story

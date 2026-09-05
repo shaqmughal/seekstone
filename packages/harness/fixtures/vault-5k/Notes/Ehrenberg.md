@@ -13,13 +13,13 @@ Leipzig and Berlin, where he took the degree of doctor of medicine in
 1818, he was appointed professor of medicine in the university of Berlin
 (1827). Meanwhile in 1820 he was engaged in a scientific exploration
 conducted by General von Minutoli in Egypt. They investigated parts of
-the Libyan desert, the Nile valley and the northern coasts of the Red
+the Libyan [[Desert|desert]], the Nile valley and the northern coasts of the Red
 Sea, where Ehrenberg made a special study of the corals. Subsequently
 parts of Syria, Arabia and Abyssinia were examined. Some results of
 these travels and of the important collections that had been made were
 reported on by Humboldt in 1826; and afterwards Ehrenberg was enabled to
 bring out two volumes _Symbolae physicae_ (1828-1834), in which many
-particulars of the mammals, birds, insects, &c., were made public. Other
+particulars of the mammals, birds, [[Insect|insects]], &c., were made public. Other
 observations were communicated to scientific societies. In 1829 he
 accompanied Humboldt through eastern Russia to the Chinese frontier. On
 his return he gave his attention to microscopical researches. These had

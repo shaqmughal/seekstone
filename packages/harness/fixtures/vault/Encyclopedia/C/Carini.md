@@ -13,7 +13,7 @@ of Palermo. Pop. (1901) 13,931. On the coast are some ruins of the
 ancient _Hyccara_, the only Sican settlement (probably a fishing
 village) on the coast. It was stormed and taken by the Athenians in 415
 B.C., and the inhabitants, among them the famous courtesan Lais, sold as
-slaves. At La Grazia Christian catacombs have been found (_Not. degli
+slaves. At La Grazia Christian [[Catacomb|catacombs]] have been found (_Not. degli
 Scavi_, 1899, 362).
 
 ## See also

@@ -8,7 +8,7 @@ id: 42-553
 # Candon
 
 CANDON, a town of South Ilocos province, Luzon, Philippine Islands, on
-the W. coast, about 200 m. N. by W. of Manila. Pop. (1903) 18,828. Its
+the W. coast, about 200 m. N. by W. of [[Manila]]. Pop. (1903) 18,828. Its
 climate is hot, though healthy. Candon is surrounded by an extensive and
 fertile plain, and is defended by a small fort. Its inhabitants are
 noted for their honesty and industry, as well as for their regard for

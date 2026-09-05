@@ -30,8 +30,8 @@ exhibits several valuable fossils, and named after Dr Hugh Falconer
 (1808-1865), the distinguished palaeontologist and botanist, a native of
 the town; the mechanics' institute; the agricultural and market hall;
 Leanchoil hospital and Anderson's Institution for poor boys. The cross,
-in Decorated Gothic, stands beside the town hall. Adjoining the town on
-the south-east is the beautifully-wooded Cluny Hill, a favourite public
+in Decorated [[Gothic]], stands beside the town hall. Adjoining the town on
+the south-east is the beautifully-wooded [[Cluny]] Hill, a favourite public
 resort, carrying on its summit the tower, 70 ft. high, which was erected
 in 1806 to the memory of Nelson, and on its southern slopes a well-known
 hydropathic. An excellent golf-course extends from Kinloss to Findhorn.
@@ -62,16 +62,16 @@ county.
 
 Within 2 m. of Forres, to the S.W., lie the beautiful woods of Altyre,
 the seat of the Gordon-Cummings. Three miles farther south is Relugas
-House, the favourite residence of Sir Thomas Dick Lauder, romantically
+House, the favourite residence of Sir Thomas [[Dick]] Lauder, romantically
 situated on a height near the confluence of the Divie and the Findhorn.
 Not far away stand the ruins of the old castle of Dunphail. On the left
 bank of the Findhorn, 3-1/2 m. W. of Forres, is situated Brodie Castle,
 partly ancient and partly modern. The Brodies--the old name of their
 estate was Brothie, from the Irish _broth_, a ditch, in allusion to the
 trench that ran from the village of Dyke to the north of the house--were
-a family of great consequence at the period of the Covenant. Alexander
+a family of great consequence at the period of the [[Covenant]]. Alexander
 Brodie (1617-1680), the fourteenth laird, was one of the commissioners
-who went to the Hague to treat with Charles II., and afterwards became a
+who went to the [[Hague]] to treat with Charles II., and afterwards became a
 Scottish lord of session and an English judge. He and his son were
 regarded as amongst the staunchest of the Presbyterians. Farther south
 is the forest of Darnaway, famous for its oaks, in which stands the earl
@@ -80,7 +80,7 @@ castle which was built by Thomas Randolph, the first earl. Attached to
 it is the great hall, capable of accommodating 1000 men, with an open
 roof of fine dark oak, the only remaining portion of the castle that was
 erected by Archibald Douglas, earl of Moray, in 1450. Queen Mary held a
-council in it in 1562. Earl Randolph's chair, not unlike the coronation
+council in it in 1562. Earl Randolph's chair, not unlike the [[Coronation|coronation]]
 chair, has been preserved. Kinloss Abbey, now in ruins, stands some 2-1/2
 m. to the N.E. of Forres. It was founded in 1150 by David I., and
 remained in the hands of the Cistercians till its suppression at the

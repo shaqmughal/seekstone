@@ -7,15 +7,15 @@ type: source
 
 # Lantern-Fly
 
-LANTERN-FLY, the name given to insects belonging to the homopterous
-division of the Hemiptera, and referable to the genus _Fulgora_ and
+LANTERN-FLY, the name given to [[Insect|insects]] belonging to the homopterous
+division of the [[Hemiptera]], and referable to the genus _Fulgora_ and
 allied forms. They are mostly of large size, with a superficial
-resemblance to lepidoptera due to their brilliant and varied coloration.
+resemblance to [[Lepidoptera|lepidoptera]] due to their brilliant and varied coloration.
 Characteristic of the group is the presence on the front of the head of
 a hollow process, simulating a snout, which is sometimes inflated and as
 large as the rest of the insect, sometimes elongated, narrow and
 apically upturned. It was believed, mainly on the authority of Marie
-Sibylle de Mérian, that this process, the so-called "lantern," was
+Sibylle de Mérian, that this process, the so-called "[[Lantern|lantern]]," was
 luminous at night. Linnaeus adopted the statement without question and
 made use of a number of specific names, such as _lanternaria_,
 _phosphorea_, _candelaria_, &c., to illustrate the supposed fact, and

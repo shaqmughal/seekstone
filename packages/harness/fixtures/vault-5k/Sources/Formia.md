@@ -1,8 +1,8 @@
 # Formia
 
 FORMIA (anc. _Formiae_, called Mola di Gaeta until recent times), a town
-of Campania, Italy, in the province of Caserta, from which it is 48 m.
-W.N.W. by rail. Pop. (1901) 5514 (town); 8452 (commune). It is situated
+of [[Campania]], Italy, in the province of Caserta, from which it is 48 m.
+W.N.W. by rail. Pop. (1901) 5514 (town); 8452 ([[Commune|commune]]). It is situated
 at the N.W. extremity of the Bay of Gaeta, and commands beautiful views.
 It lay on the ancient Via Appia, and was much frequented as a resort by
 wealthy Romans. There was considerable imperial property here and along
@@ -32,7 +32,7 @@ Mamurra was a native of Formia. Cicero possessed a favourite villa here,
 and was murdered in its vicinity in 43 B.C., but neither the villa nor
 the tomb can be identified with any certainty. It was devastated by
 Sextus Pompeius, and became a colony, with _duoviri_ as chief
-magistrates, under Hadrian. Portus Caietae (the modern Gaeta) was
+[[Magistrate|magistrates]], under Hadrian. Portus Caietae (the modern Gaeta) was
 dependent upon it.
 
   See T. Ashby, "Dessins inedits de Carlo Labruzzi," in _Melanges de

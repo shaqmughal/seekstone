@@ -1,24 +1,24 @@
 # Basilides
 
-BASILIDES, one of the most conspicuous exponents of Gnosticism, was living
+BASILIDES, one of the most conspicuous exponents of [[Gnosticism]], was living
 at Alexandria probably as early as the first decades of the 2nd century. It
-is true that Eusebius, in his _Chronicle_, dates his first appearance from
+is true that [[Eusebius]], in his _Chronicle_, dates his first appearance from
 A.D. 133, but according to Eusebius, _Hist. Eccl._ iv. 7 §§ 6-8, Agrippa
 Castor, who lived under Hadrian (117-138), already wrote a polemic against
 him, so that his activity may perhaps be set back to a date earlier than
 138. Basilides wrote an exegetical work in twenty-four books on "his"
-gospel, but which this was is not known. In addition to this there are
+[[Gospel|gospel]], but which this was is not known. In addition to this there are
 certain writings by his son Isidorus [Greek: Peri prosphuous psuchês];
 [Greek: Exêgêtika] on the prophet Parchor ([Greek: Parchôr]); [Greek:
 Êthika]. The surviving fragments of these works are collected and commented
 on in Hilgenfeld's _Ketzergeschichte_, 207-218. The most important fragment
-published by Hilgenfeld (p. 207), part of the 13th book of the _Exegetica_,
+published by [[Hilgenfeld]] (p. 207), part of the 13th book of the _Exegetica_,
 in the _Acta Archelai et Manetis_ c. 55, only became known in its complete
 form later, and was published by L. Traube in the _Sitzungsbericht der
-Münchener Akad._, phil. histor. Kl. (1903), pp. 533-549. Irenaeus (_Adv.
+Münchener Akad._, phil. histor. Kl. (1903), pp. 533-549. [[Irenaeus]] (_Adv.
 Haer._ i. 24 §§ 3-7) gives a sketch of Basilides' school of thought,
 perhaps derived from Justin's _Syntagma_. Closely related to this is the
-account in the _Syntagma_ of Hippolytus, which is preserved in Epiphanius,
+account in the _Syntagma_ of [[Hippolytus]], which is preserved in [[Epiphanius]],
 _Haer._ 24, Philaster, _Haer._ 32, and Pseudo-Tertullian, _Haer._ 4. These
 are completed and confirmed by a number of scattered notices in the
 _Stromateis_ of Clemens Alexandrinus. An essentially different account,
@@ -42,7 +42,7 @@ characteristic points are not noticed by them. If we assume, as we must
 needs do, that the opinions which Basilides promulgates as the teaching of
 the "barbari" (_Acta Archelai_ c. 55) were in fact his own, the fragments
 prove him to have been a decided dualist, and his teaching an interesting
-further development of oriental (Iranian) dualism. Entirely consistent with
+further development of oriental (Iranian) [[Dualism|dualism]]. Entirely consistent with
 this is the information given by the _Acta Archelai_ that Basilides, before
 he came to Alexandria, had appeared publicly among the Persians (_fuit
 praedicator apud Persas_); and the allusion to his having appealed to
@@ -67,13 +67,13 @@ practically the transference of Iranian dualism to the more Greek
 antithesis of soul and body, spirit and matter (cf. Irenaeus i. 24 § 5:
 _animae autem eorum solam esse salutem, corpus enim natura corruptibile
 existit_). The fundamental dualism of Basilides is confirmed also by one or
-two other passages. In the parable of the rich man and Lazarus, Basilides
+two other passages. In the parable of the rich man and [[Lazarus]], Basilides
 saw the proof of _naturam sine radice et sine loco rebus supervenientem_
 (_Acta Archelai_). According to Clemens, _Strom._ iv. 12 § 83, &c.,
 Basilides taught that even those who have not sinned in act, even Jesus
 himself, possess a sinful nature. It is possibly also in connexion with the
 dualism of his fundamental [v.03 p.0479] views that he taught the
-transmigration of souls (Origen in _Ep. ad Rom_. lib. v.; Opp. de la Rue
+transmigration of souls (Origen in _Ep. ad Rom_. lib. v.; Opp. [[De La Rue|de la Rue]]
 iv. 549; cf. Clemens, _Excerpta ex Theodoto_, § 28). Isidorus set up
 celibacy, though in a modified form, as the ideal of the perfect (Clemens,
 _Strom_. iii. 1 § 1, &c.) Clemens accuses Basilides of a deification of the
@@ -139,7 +139,7 @@ himself (_Strom_. iv. 12 § 83) knows of an earthly Jesus and denies the
 principle of his sinlessness (see above). According to the account given by
 Irenaeus, the Saviour is said to have appeared only as a phantasm;
 according to the _Excerpta ex Theodoto_, 17, the Diakonos descended upon
-Jesus at His baptism in the form of a dove, for which reason the followers
+Jesus at His baptism in the form of a [[Dove|dove]], for which reason the followers
 of Basilides celebrated the day of the baptism of Jesus, the day of the
 [Greek: epiphaneia]. as a high festival (Clemens, _Strom_. i. 21 § 18). The
 various attempts at combination probably point to the fact that the purely

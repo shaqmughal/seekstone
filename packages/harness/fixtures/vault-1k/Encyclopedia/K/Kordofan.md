@@ -75,7 +75,7 @@ exceeds 105° F.
   cultivated. In the dense jungles of the south are immense creepers,
   some of them rubber-vines. The cotton plant is also found. The fauna
   includes the elephant, rhinoceros, buffalo, giraffe, lion, leopard,
-  cheetah, roan-antelope, hartebeeste, kudu and many other kinds of
+  cheetah, roan-antelope, hartebeeste, [[Kudu|kudu]] and many other kinds of
   antelope, wart-hog, hares, quail, partridge, jungle-fowl, bustard and
   guinea-fowl. Nearly all the kinds of game mentioned are found chiefly
   in the western and southern districts. The ril or addra gazelle found
@@ -83,7 +83,7 @@ exceeds 105° F.
   Reptiles, sand-flies and mosquitoes are common. Ostriches are found in
   the northern steppes. The chief wealth of the people consists in the
   gum obtained from the grey acacias, in oxen, camels and ostrich
-  feathers. The finest cattle are of the humped variety, the bulls of
+  feathers. The finest cattle are of the humped variety, the [[Bull|bulls]] of
   the Baggara being trained to the saddle and to carry burdens. There
   are large herds of camel, the camel-owning Arabs usually owning also
   large numbers of sheep and goats. Dukhn, a species of millet which can
@@ -91,7 +91,7 @@ exceeds 105° F.
   place in the south being taken by durra. Dukhn is, however, the only
   crop cultivated in Dar Homr. From this grain a beer called _merissa_
   is brewed. Barley and cotton are cultivated in some districts. A
-  little gold dust is obtained, but the old gold and other mines in the
+  little gold [[Dust|dust]] is obtained, but the old gold and other mines in the
   Tagale country have been, apparently, worked out. Iron is found in
   many districts and is smelted in a few places. In the absence of fuel
   the industry is necessarily a small one. There are large beds of

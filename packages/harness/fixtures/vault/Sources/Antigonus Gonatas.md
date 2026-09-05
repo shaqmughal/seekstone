@@ -9,11 +9,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Antigonus_
 # Antigonus Gonatas
 
 ANTIGONUS GONATAS (c. 319-239 B.C.), Macedonian king, was the son of
-Demetrius Poliorcetes, and grandson of Antigonus Cyclops. On the death
+[[Demetrius]] Poliorcetes, and grandson of [[Antigonus Cyclops]]. On the death
 of his father (283), he assumed the title of king of Macedonia, but did
 not obtain possession of the throne till 276, after it had been
-successively in the hands of Pyrrhus, Lysimachus, Seleucus, and Ptolemy
-Ceraunus. Antigonus repelled the invasion of the Gauls, and continued in
+successively in the hands of Pyrrhus, [[Lysimachus]], Seleucus, and Ptolemy
+Ceraunus. Antigonus repelled the invasion of the [[Gaul|Gauls]], and continued in
 undisputed possession of Macedonia till 274, when Pyrrhus returned from
 Italy, and (in 273) made himself master of nearly all the country. On
 the advance of Pyrrhus into Peloponnesus, he recovered his dominions. He
@@ -25,8 +25,8 @@ distinguished literary men--philosophers, poets, and historians. He died
 in the eightieth year of his age, and the forty-fourth of his reign. His
 surname was usually derived by later Greek writers from the name of his
 supposed birthplace, Gonni (Gonnus) in Thessaly; some take it to be a
-Macedonian word signifying an iron plate for protecting the knee;
-neither conjecture is a happy one, and in our ignorance of the
+Macedonian word signifying an iron plate for protecting the [[Knee|knee]];
+neither conjecture is a happy one, and in our [[Ignorance|ignorance]] of the
 Macedonian language it must remain unexplained.
 
   Plutarch, _Demetrius, Pyrrhus, Aratus_; Justin xxiv. 1; xxv. 1-3;

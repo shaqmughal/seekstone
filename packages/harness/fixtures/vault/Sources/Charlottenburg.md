@@ -17,12 +17,12 @@ runs from the Brandenburger Tor through the whole length of the
 Tiergarten. Although retaining its own municipal government,
 Charlottenburg, together with the adjacent suburban towns of Schoneberg
 and Rixdorf, was included in 1900 in the police district of the capital.
-The Schloss, built in 1696 for the electress Sophie Charlotte, queen of
+The Schloss, built in 1696 for the electress Sophie [[Charlotte]], queen of
 the elector Frederick, afterwards King Frederick I., after whom the town
 was named, contains a collection of antiquities and paintings. In the
-grounds stands a granite mausoleum, the work of Karl Friedrich Schinkel,
-with beautiful white marble recumbent statues of Frederick William III.
-and his queen Louise by Christian Daniel Rauch, and also those of the
+grounds stands a granite [[Mausoleum|mausoleum]], the work of Karl [[Friedrich]] Schinkel,
+with beautiful white [[Marble|marble]] recumbent statues of Frederick William III.
+and his queen Louise by Christian [[Daniel]] Rauch, and also those of the
 emperor William I. and the empress Augusta by Erdmann Encke. It was in
 the Schloss that the emperor Frederick III. took over the reins of
 government in 1888, and here he resided for nearly the whole of his

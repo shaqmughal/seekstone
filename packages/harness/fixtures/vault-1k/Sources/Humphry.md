@@ -8,7 +8,7 @@ where he lodged with Linley and became a great friend of his beautiful
 daughter, afterwards Mrs Sheridan. In 1766 he was in London warmly
 encouraged by Sir Joshua Reynolds, who was always interested in
 Devonshire painters. He was a great friend of Romney, with whom in 1773
-he went to Italy, staying, on his way to Dover, at Knole, where the duke
+he went to Italy, staying, on his way to [[Dover]], at Knole, where the duke
 of Dorset gave him many commissions. In 1785 he went to India, visiting
 the native courts, painting a large number of miniatures, and making
 many beautiful sketches. His sight failed him in 1797, and he died in

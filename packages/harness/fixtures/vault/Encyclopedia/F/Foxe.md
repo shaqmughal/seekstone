@@ -1,19 +1,19 @@
 # Foxe
 
 FOXE, JOHN (1516-1587), the author of the famous _Book of Martyrs_, was
-born at Boston, in Lincolnshire, in 1516. At the age of sixteen he is
+born at [[Boston]], in [[Lincolnshire]], in 1516. At the age of sixteen he is
 said to have entered Brasenose College, Oxford, where he was the pupil
-of John Harding or Hawarden, and had for room-mate Alexander Nowell,
+of John [[Harding]] or Hawarden, and had for room-mate Alexander Nowell,
 afterwards dean of St. Paul's. His authenticated connexion at the
 university is, however, with Magdalen College. He took his B.A. degree
 in 1537 and his M.A. in 1543. He was lecturer on logic in 1540-1541. He
 wrote several Latin plays on Scriptural subjects, of which the best, _De
-Christo triumphante_, was repeatedly printed, (London, 1551; Basel,
+Christo triumphante_, was repeatedly printed, (London, 1551; [[Basel]],
 1556, &c.), and was translated into English by Richard Day, son of the
-printer. He became a fellow of Magdalen College in 1539, resigning in
+printer. He became a [[Fellow|fellow]] of Magdalen College in 1539, resigning in
 1545. It is said that he refused to conform to the rules for regular
 attendance at chapel, and that he protested both against the enforced
-celibacy of fellows and the obligation to take holy orders within seven
+celibacy of [[Fellows|fellows]] and the obligation to take holy orders within seven
 years of their election. The customary statement that he was expelled
 from his fellowship is based on the untrustworthy biography attributed
 to his son Samuel Foxe, but the college records state that he resigned
@@ -25,24 +25,24 @@ Appendix, pp. 58-61).
 On leaving Oxford he acted as tutor for a short time in the house of the
 Lucys of Charlecote, near Stratford-on-Avon, where he married Agnes
 Randall. Late in 1547 or early in the next year he went to London. He
-found a patron in Mary Fitzroy, duchess of Richmond, and having been
+found a patron in Mary [[Fitzroy]], duchess of Richmond, and having been
 ordained deacon by Ridley in 1550, he settled at Reigate Castle, where
 he acted as tutor to the duchess's nephews, the orphan children of Henry
-Howard, earl of Surrey. On the accession of Queen Mary, Foxe was
+[[Howard]], earl of Surrey. On the accession of Queen Mary, Foxe was
 deprived of his tutorship by the boys' grandfather, the duke of Norfolk,
 who was now released from prison. He retired to Strassburg, and occupied
 himself with a Latin history of the Christian persecutions which he had
 begun at the suggestion of Lady Jane Grey. He had assistance from two
-clerics of widely differing opinions--from Edmund Grindal, who was
+clerics of widely differing opinions--from Edmund [[Grindal]], who was
 later, as archbishop of Canterbury, to maintain his Puritan convictions
-in opposition to Elizabeth; and from John Aylmer, afterwards one of the
+in opposition to Elizabeth; and from John [[Aylmer]], afterwards one of the
 bitterest opponents of the Puritan party. This book, dealing chiefly
-with Wycliffe and Huss, and coming down to 1500, formed the first
+with Wycliffe and [[Huss]], and coming down to 1500, formed the first
 outline of the _Actes and Monuments_. It was printed by Wendelin
-Richelius with the title of _Commentarii rerum in ecclesia gestarum_
+Richelius with the title of _[[Commentarii]] rerum in [[Ecclesia|ecclesia]] gestarum_
 (Strasburg, 1554). In the year of its publication Foxe removed to
-Frankfort, where he found the English colony of Protestant refugees
-divided into two camps. He made a vain attempt to frame a compromise
+[[Frankfort]], where he found the English colony of Protestant refugees
+divided into two camps. He made a vain attempt to [[Frame|frame]] a [[Compromise|compromise]]
 which should be accepted by the extreme Calvinists and by the partisans
 of the Anglican doctrine. He removed (1555) to Basel, where he worked as
 printer's reader to Johann Herbst or Oporinus. He made steady progress
@@ -50,7 +50,7 @@ with his great book as he received reports from England of the
 religious persecutions there, and he issued from the press of Oporinus
 his pamphlet _Ad inclytos ac praepotentes Angliae proceres ...
 supplicatio_ (1557), a plea for toleration addressed to the English
-nobility. In 1559 he completed the Latin edition[1] of his martyrology
+nobility. In 1559 he completed the Latin edition[1] of his [[Martyrology|martyrology]]
 and returned to England. He lived for some time at Aldgate, London, in
 the house of his former pupil, Thomas Howard, now duke of Norfolk, who
 retained a sincere regard for his tutor and left him a small pension in
@@ -73,7 +73,7 @@ present. Gathered and collected according to the true Copies and
 Wrytinges certificatorie as well of the Parties themselves that
 Suffered, as also out of the Bishop's Registers, which were the Doers
 thereof, by John Foxe_, commonly known as the _Book of Martyrs_. Several
-gross errors which had appeared in the Latin version, and had been since
+[[Gross|gross]] [[Error|errors]] which had appeared in the Latin version, and had been since
 exposed, were corrected in this edition. Its popularity was immense and
 signal. The Marian persecution was still fresh in men's minds, and the
 graphic narrative intensified in its numerous readers the fierce hatred
@@ -83,16 +83,16 @@ conception of Roman Catholicism was derived from its bitter pages. Its
 accuracy was immediately attacked by Catholic writers, notably in the
 _Dialogi sex_ (1566), nominally from the pen of Alan Cope, but in
 reality by Nicholas Harpsfield and by Robert Parsons in _Three
-Conversions of England_ (1570). These criticisms induced Foxe to produce
+[[Conversion|Conversions]] of England_ (1570). These criticisms induced Foxe to produce
 a second corrected edition, _Ecclesiastical History, contayning the
 Actes and Monuments of things passed in every kynges tyme_... in 1570, a
-copy of which was ordered by Convocation to be placed in every
+copy of which was ordered by [[Convocation]] to be placed in every
 collegiate church. Foxe based his accounts of the martyrs partly on
-authentic documents and reports of the trials, and on statements
+[[Authentic|authentic]] documents and reports of the trials, and on statements
 received direct from the friends of the sufferers, but he was too hasty
 a worker and too violent a partisan to produce anything like a correct
 or impartial account of the mass of facts with which he had to deal.
-Anthony à Wood says that Foxe "believed and reported all that was told
+[[Anthony]] à Wood says that Foxe "believed and reported all that was told
 him, and there is every reason to suppose that he was purposely misled,
 and continually deceived by those whose interest it was to bring
 discredit on his work," but he admits that the book is a monument of his
@@ -103,9 +103,9 @@ he cannot always be exonerated from the charge of wilful falsification
 of evidence. It should, however, be remembered in his honour that his
 advocacy of religious toleration was far in advance of his day. He
 pleaded for the despised Dutch Anabaptists, and remonstrated with John
-Knox on the rancour of his _First Blast of the Trumpet_. Foxe was one of
+[[Knox]] on the rancour of his _First Blast of the Trumpet_. Foxe was one of
 the earliest students of Anglo-Saxon, and he and Day published an
-edition of the Saxon gospels under the patronage of Archbishop Parker.
+edition of the Saxon [[Gospel|gospels]] under the patronage of Archbishop Parker.
 He died on the 18th of April 1587 and was buried at St Giles's,
 Cripplegate.
 
@@ -113,7 +113,7 @@ Cripplegate.
   some of which were never printed, appear in Bale. Four editions of the
   _Actes and Monuments_ appeared in Foxe's lifetime. The eighth edition
   (1641) contains a memoir of Foxe purporting to be by his son Samuel,
-  the MS. of which is in the British Museum (Lansdowne MS. 388). Samuel
+  the MS. of which is in the British Museum ([[Lansdowne]] MS. 388). Samuel
   Foxe's authorship is disputed, with much show of reason, by Dr S.R.
   Maitland in _On the Memoirs of Foxe ascribed to his Son_ (1841). The
   best-known modern edition of the Martyrology is that (1837-1841) by
@@ -127,7 +127,7 @@ Cripplegate.
   editorship. A new text prepared by the Rev. Josiah Pratt was issued
   (1870) in the "Reformation Series" of the _Church Historians of
   England_, with a revised version of Townsend's _Life_ and appendices
-  giving copies of original documents. Later edition by W. Grinton Berry
+  giving copies of original documents. Later edition by W. Grinton [[Berry]]
   (1907).
 
   Foxe's papers are preserved in the Harleian and Lansdowne collections

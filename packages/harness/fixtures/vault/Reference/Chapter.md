@@ -16,7 +16,7 @@ custom of reading a chapter of Scripture, or a head (_capitulum_) of the
 _regula_, to the assembled canons or monks. The transference from the
 reading to the assembly itself, and to the members constituting it, was
 easy, through such phrases as _convenire ad capitulum_. The title
-"chapter" is similarly used of the assembled body of knights of a
+"chapter" is similarly used of the assembled body of [[Knight|knights]] of a
 military or other order. (See also CANON; CATHEDRAL; DEAN).
 
 ## References

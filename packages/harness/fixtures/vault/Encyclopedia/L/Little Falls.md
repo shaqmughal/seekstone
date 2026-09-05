@@ -1,14 +1,14 @@
 # Little Falls
 
-LITTLE FALLS, a city of Herkimer county, New York, U.S.A., on the Mohawk
+LITTLE FALLS, a city of [[Herkimer]] county, New York, U.S.A., on the Mohawk
 river, 21 m. E.S.E. of Utica. Pop. (1890) 8783; (1900) 10,381, of whom
 1915 were foreign-born; (1910 census) 12,273. It is served by the New
-York Central & Hudson River, the West Shore, the Utica & Mohawk Valley
+York Central & [[Hudson]] River, the West Shore, the Utica & Mohawk Valley
 (electric), and the Little Falls & Dolgeville railways (the last named
 being 13 m. long and running only to Salisbury Center and by the Erie
 canal). The Mohawk river falls here by a series of rapids 45 ft. in less
 than a mile, furnishing water power. Among the manufactures are cotton
-yarn, hosiery and knit goods, leather, &c. In 1905 the city's factory
+yarn, [[Hosiery|hosiery]] and knit goods, leather, &c. In 1905 the city's factory
 products were valued at $4,471,080. The city has one of the largest
 cheese-markets in the United States. The manufacture of flour and
 grist-mill products was formerly an important industry; a mill burned in

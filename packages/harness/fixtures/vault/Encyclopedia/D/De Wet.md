@@ -8,9 +8,9 @@ lived on his farm, becoming in 1897 member of the Volksraad. He took
 part in the earlier battles of the Boer War of 1899 in Natal as a
 commandant and later, as a general, he went to serve under Cronje in the
 west. His first successful action was the surprise of Sanna's Post near
-Bloemfontein, which was followed by the victory of Reddersburg a little
+[[Bloemfontein]], which was followed by the victory of Reddersburg a little
 later. Thenceforward he came to be regarded more and more as the most
-formidable leader of the Boers in their guerrilla warfare. Sometimes
+formidable leader of the Boers in their [[Guerrilla|guerrilla]] warfare. Sometimes
 severely handled by the British, sometimes escaping only by the
 narrowest margin of safety from the columns which attempted to surround
 him, and falling upon and annihilating isolated British posts, De Wet

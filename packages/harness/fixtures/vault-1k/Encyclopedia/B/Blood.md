@@ -216,7 +216,7 @@ approximate composition:--
       Fibrin                                  8.06
       Other proteins and organic substances  81.92
       Inorganic substances--
-        Chlorine                     3.536
+        [[Chlorine]]                     3.536
         Sulphuric acid               0.129
         Phosphoric acid              0.145
         Potassium                    0.314
@@ -326,7 +326,7 @@ to about 0.02%. Sulphuric acid is always present if the blood has been
 calcined for the purposes of the analysis, and may then be present to
 about 0.013%. This is, however, probably produced during the destruction
 of the protein, since it has been shown that no sulphate can be removed
-from normal plasma by dialysis. The amount of potassium present (0.03%)
+from normal plasma by [[Dialysis|dialysis]]. The amount of potassium present (0.03%)
 is less than one-tenth of that of the sodium, and the quantities of
 calcium and magnesium are even less.
 
@@ -1003,7 +1003,7 @@ important to remember that the state of the blood in these conditions
 gives the measure, not of the amount of destruction which is taking
 place so much as of the amount of regeneration of which the organism is
 capable. The evidence of destruction has often to be sought for in other
-organs, or in secretions or excretions.
+organs, or in secretions or [[Excretion|excretions]].
 
 Of the so-called primary anaemias the most common is _chlorosis_, an
 anaemia which occurs only in the female sex, between the ages of fifteen

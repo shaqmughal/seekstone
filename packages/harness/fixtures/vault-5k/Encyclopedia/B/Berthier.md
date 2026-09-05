@@ -13,7 +13,7 @@ Versailles national guard, he protected the aunts of Louis XVI. from
 popular violence, and aided their escape (1791). In the war of 1792 he
 was at once made chief of staff to Marshal Luckner, and he bore a
 distinguished part in the Argonne campaign of Dumouriez and Kellermann.
-He served with great credit in the Vendean War of 1793-95, and was in
+He served with great [[Credit|credit]] in the Vendean War of 1793-95, and was in
 the next year made a general of division and chief of staff
 (_Major-General_) to the army of Italy, which Bonaparte had recently
 been appointed to command. His power of work, accuracy and quick
@@ -31,7 +31,7 @@ consul accompanied the army and Berthier acted in reality, as always, as
 chief of staff to Napoleon. At the close of the campaign he was employed
 in civil and diplomatic business. When Napoleon became emperor, Berthier
 was at once made a marshal of the empire. He took part in the campaigns
-of Austerlitz, Jena and Friedland, and was created duke of Valengin in
+of Austerlitz, Jena and [[Friedland]], and was created duke of Valengin in
 1806, sovereign prince of Neuchatel in the same year and vice-constable
 of the empire in 1807. In 1808 he served in the Peninsula, and in 1809
 in the Austrian War, after which he was given the title of prince of

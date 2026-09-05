@@ -39,7 +39,7 @@ doubting the existence of Aristomenes, his history, as related by
 Pausanias, following mainly the _Messeniaca_ of the Cretan epic poet
 Rhianus (about 230 B.C.), is evidently largely interwoven with fictions.
 These probably arose after the foundation of Messene in 369 B.C.
-Aristomenes' statue was set up in the stadium there: his bones were
+Aristomenes' statue was set up in the stadium there: his [[Bone|bones]] were
 fetched from Rhodes and placed in a tomb surmounted by a column (Paus.
 iv. 32. 3, 6); and more than five centuries later we still find heroic
 honours paid to him, and his exploits a popular subject of song (_ib_.

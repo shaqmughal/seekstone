@@ -20,7 +20,7 @@ present in and pervading it (immanent). The immanence doctrine has
 arisen from two main causes, the one metaphysical, the other religious.
 Metaphysical speculation on the relation of matter and mind has
 naturally led to a conviction of an underlying unity of all existence,
-and so to a metaphysical identification of God and the universe: when
+and so to a metaphysical [[Identification|identification]] of God and the universe: when
 this identification proceeds to the length of expressing the universe as
 merely a mode or form of deity the result is pantheism (cf. the
 Eleatics): when it regards the deity as simply the sum of the forces of
@@ -28,7 +28,7 @@ nature (cf. John Toland) the result is naturalism. In either case, but
 especially in the former, it frequently becomes pure mysticism (q.v.).
 Religious thinkers are faced by the problem of the Creator and the
 created, and the necessity for formulating a close relationship between
-God and man, the Infinite and Perfect with the finite and imperfect. The
+God and man, the [[Infinite]] and Perfect with the finite and imperfect. The
 conception of God as wholly external to man, a purely mechanical theory
 of the creation, is throughout Christendom regarded as false to the
 teaching of the New Testament as also to Christian experience. The

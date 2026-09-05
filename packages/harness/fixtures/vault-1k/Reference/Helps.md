@@ -67,7 +67,7 @@ in spite of his scrupulous efforts after accuracy, the success of the
 book was marred by its obtrusively moral purpose and its discursive
 character.
 
-_The Life of Las Casas, the Apostle of the Indians_ (1868), _The Life of
+_The Life of [[Las Casas]], the Apostle of the Indians_ (1868), _The Life of
 Columbus_ (1869), _The Life of Pizarro_ (1869), and _The Life of
 Hernando Cortes_ (1871), when extracted from the work and published
 separately, proved successful. Besides the books which have been already

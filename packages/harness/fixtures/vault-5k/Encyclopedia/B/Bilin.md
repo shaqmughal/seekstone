@@ -27,8 +27,8 @@ from which a fine view is obtained.
 BILL. There are three words in English with distinct meanings and
 derivations. (1) A written, originally sealed, document. The word is
 derived from the Early English _bille_, Anglo-Latin _billa_, from Latin
-_bulla_, in the medieval sense of "seal." It is a doublet, therefore, of
-"bull." (2) A common Teutonic word for a long-handled cutting weapon (O.
+_bulla_, in the medieval sense of "seal." It is a [[Doublet|doublet]], therefore, of
+"[[Bull|bull]]." (2) A common Teutonic word for a long-handled cutting weapon (O.
 Eng. _bil, billes_, sword or falchion, O. Sax. _bill_, M.H.G. _Bil_,
 Mod. Ger. _Bille_, a pickaxe; no connexion with Ger. _Beil_, an axe), of
 which the name and shape is preserved in the hedging-bills used for
@@ -48,14 +48,14 @@ assented to by the king, and afterwards enrolled by the judges. A bill
 consists of a preamble, reciting the necessity for legislation, and
 clauses which contain the enactments. (For procedure see PARLIAMENT.)
 
-A _Bill in Chancery_, in former days, in English law, was a written
+A _Bill in Chancery_, in former days, in [[English Law|English law]], was a written
 statement of the plaintiff's case whereby he complained of the wrong
 upon which the suit was based and prayed for relief. By the Judicature
 Acts 1873 and 1875 its place was taken by a writ and statement of claim
 (see PLEADING).
 
 A _Bill of Indictment_ is a presentment against a prisoner, charging him
-with an offence, and presented at quarter sessions or assizes to the
+with an offence, and presented at quarter sessions or [[Assize|assizes]] to the
 grand jury (see INDICTMENT).
 
 A _Bill of Costs_ is an account setting forth the charges and
@@ -99,7 +99,7 @@ whence was issued weekly a return of all the deaths from plague and
 other causes in the various parishes, as well as a list of those
 parishes which were free from plague. Bills of mortality are usually
 said to date from 1538, when parish registers were established by
-Cromwell (Lord Essex), but there is extant a bill which dates from
+[[Cromwell]] (Lord Essex), but there is extant a bill which dates from
 August 1535, and one which is possibly even earlier than this. It is
 certain that they first began to be compiled in a recognized manner in
 December 1603, and they were continued regularly from that date down to
@@ -158,7 +158,7 @@ officer of the customs for the shipment from a bonded warehouse or for
 drawback of such stores as may be required and allowed with reference to
 the number of the crew and passengers on board a ship proceeding on an
 oversea voyage. It is made out by the master and countersigned by the
-collector of customs. Its object is to prevent frauds on the revenue. No
+collector of customs. Its object is to prevent [[Fraud|frauds]] on the revenue. No
 such stores are supplied for the use of any ship nor any articles taken
 on board deemed to be stores unless they are borne upon the victualling
 bill, and any such stores relanded at any place in the United Kingdom
@@ -168,8 +168,8 @@ treble the value of the stores or £100. A victualling bill serves as a
 certificate of clearance when there is nothing but stores on board the
 ship.
 
-  See also ADVENTURE, ATTAINDER, INDEMNITY, LETTER OF CREDIT, BILL OF
-  EXCHANGE, BILL OF RIGHTS and BILL OF SALE; for a _bill of lading_ see
+  See also ADVENTURE, [[Attainder|ATTAINDER]], INDEMNITY, LETTER OF [[Credit|CREDIT]], BILL OF
+  EXCHANGE, BILL OF RIGHTS and [[Bill Of Sale|BILL OF SALE]]; for a _bill of lading_ see
   AFFREIGHTMENT.     (T. A. I.)
 
 (2) In the sense of a weapon, the primitive forms of a bill suggest

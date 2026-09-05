@@ -8,12 +8,12 @@ Richard to proceed to London before he was twelve years old, to take
 lessons in drawing, and undertook to support him there. On his arrival,
 the youthful artist won the first prize given by the newly founded
 Society of Arts, of the money value of five guineas. He went to Thomas
-Hudson for his earliest instruction, but remained with him only a few
+[[Hudson]] for his earliest instruction, but remained with him only a few
 months, and then attended William Shipley's drawing class, where he
 remained until he began to work on his own account in 1760. He was one
 of the earliest members of the Royal Academy, Associate in 1770 and
 Royal Academician in 1771. His success in miniature painting is said to
-have been started by his clever portrait of Mrs Fitzherbert, which gave
+have been started by his [[Clever|clever]] portrait of Mrs Fitzherbert, which gave
 great satisfaction to the prince of Wales, and brought Cosway his
 earliest great patron. He speedily became one of the most popular
 artists of the day, and his residence at Schomberg House, Pall Mall, was
@@ -37,12 +37,12 @@ Cosway had one child who died young. She is the subject of one of his
 most celebrated engravings. He painted miniatures of very many members
 of the royal family, and of the leading persons who formed the court of
 the prince regent. Perhaps his most beautiful work is his miniature of
-Madame du Barry, painted in 1791, when that lady was residing in Bruton
+Madame [[Du Barry|du Barry]], painted in 1791, when that lady was residing in Bruton
 Street, Berkeley Square. This portrait, together with many other
 splendid works by Cosway, came into the collection of Mr J. Pierpont
 Morgan. There are many miniatures by this artist in the royal collection
 at Windsor Castle, at Belvoir Castle and in other important collections.
-His work is of great charm and of remarkable purity, and he is certainly
+His work is of great [[Charm|charm]] and of remarkable purity, and he is certainly
 the most brilliant miniature painter of the 18th century.
 
   For a full account of the artist and his wife, see _Richard Cosway,

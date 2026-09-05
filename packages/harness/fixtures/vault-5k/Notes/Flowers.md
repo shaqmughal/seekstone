@@ -11,7 +11,7 @@ for scientific purposes (as the collection of glass flowers at Harvard
 University, which illustrates the flora of the United States), but more
 often as articles of decoration and ornament. A large variety of
 materials have been used in their manufacture by different peoples at
-different times--painted linen and shavings of stained horn by the
+different times--painted linen and shavings of stained [[Horn|horn]] by the
 Egyptians, gold and silver by the Romans, rice-paper by the Chinese,
 silkworm cocoons in Italy, the plumage of highly coloured birds in South
 America, wax, small tinted shells, &c. At the beginning of the 18th

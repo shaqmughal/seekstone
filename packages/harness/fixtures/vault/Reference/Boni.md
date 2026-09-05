@@ -6,20 +6,20 @@ topic: history
 
 # Boni
 
-BONI (_Bone_), a vassal state of the government of Celebes, Dutch East
+BONI (_[[Bone]]_), a vassal state of the government of Celebes, Dutch East
 Indies, in the south-west peninsula of Celebes, on the Gulf of Boni.
 Area, 2600 sq. m. It produces rice, tobacco, coffee, cotton and
-sugar-cane, none of them important as exports. The breeds of buffaloes
+sugar-cane, none of them important as exports. The breeds of [[Buffalo|buffaloes]]
 and horses in this state are highly esteemed. The chief town, Boni, lies
 80 m. N.E. of Macassar, and 2-1/2 m. from the east coast of the peninsula.
-The native race of Bugis (q.v.), whose number within this area is
+The native race of [[Bugis]] (q.v.), whose number within this area is
 about 70,000, is one of the most interesting in the whole archipelago.
 
 Boni was once the most powerful state of Celebes, all the other princes
 being regarded as vassals of its ruler, but its history is not known in
 detail. In 1666 the rajah Palakkah, whose father and grandfather had
 been murdered by the family of Hassan, the tyrant of Sumatra, made
-common cause with the Dutch against that despot. From that date till the
+common cause with the Dutch against that [[Despot|despot]]. From that date till the
 beginning of the 19th century Dutch influence in the state remained
 undisputed. In 1814, however, Boni fell into the hands of the British,
 who retained it for two years; but by the European treaties concluded on

@@ -15,7 +15,7 @@ Greece and European Turkey, Asia Minor, Egypt, Syria, Persia and
 eastwards as far as northern India.[1] The present article contains a
 general account of the empire in its various aspects. It falls naturally
 into two main divisions:--I. The reign of Alexander. II. The period of
-his successors, the "Diadochi" and their dynasties.
+his successors, the "[[Diadochi]]" and their dynasties.
 
 
   1. Greeks and Persians.
@@ -36,9 +36,9 @@ _polis_, and animated by a spirit equal to that of the Greek soldier.
 This was achieved by the kings of Macedonia. The work, begun by his
 predecessors, of consolidating the kingdom internally and making its
 army a fighting-machine of high power was completed by the genius of
-Philip II. (359-336 B.C.), who at the same time by war and diplomacy
-brought the Greek states of the Balkan peninsula generally to recognize
-his single predominance. At the synod of Corinth (338) Philip was
+Philip II. (359-336 B.C.), who at the same time by war and [[Diplomacy|diplomacy]]
+brought the Greek states of the [[Balkan Peninsula|Balkan peninsula]] generally to recognize
+his single predominance. At the synod of [[Corinth]] (338) Philip was
 solemnly declared the captain-general ([Greek: strategos autokrator]) of
 the Hellenes against the Great King. The attack on Persia was delayed by
 the assassination of Philip in 336, and it needed some fighting before
@@ -58,7 +58,7 @@ the old Persian empire, and even more, was a realized fact.
   The empire outside of Macedonia itself consisted of 22 provinces. _In
   Europe_, (1) Thrace; _in Asia Minor_, (2) Phrygia on the Hellespont,
   (3) Lydia, (4) Caria, (5) Lycia and Pamphylia, (6) Great Phrygia, (7)
-  Paphlagonia and Cappadocia; _between the Taurus and Iran_, (8)
+  Paphlagonia and [[Cappadocia]]; _between the Taurus and [[Iran]]_, (8)
   Cilicia, (9) Syria, (10) Mesopotamia, (11) Babylonia, (12) Susiana;
   _in Africa_, (13) Egypt; _in Iran_, (14) Persis, (15) Media, (16)
   Parthia and Hyrcania, (17) Bactria and Sogdiana, (18) Areia and
@@ -84,7 +84,7 @@ Alexander were, in the west of the empire, exclusively Macedonians; in
 the east, members of the Old Persian nobility were still among the
 satraps at Alexander's death, Atropates in Media, Phrataphernes in
 Parthia and Hyrcania, and Alexander's father-in-law Oxyartes in the
-Paropanisidae. Alexander had at first trusted Persian grandees more
+Paropanisidae. Alexander had at first trusted Persian [[Grandee|grandees]] more
 freely in this capacity; in Babylonia, Bactria, Carmania, Susiana he had
 set Persian governors, till the ingrained Oriental tradition of
 misgovernment so declared itself that to the three latter provinces
@@ -98,7 +98,7 @@ officials; we hear of such in Lydia (Arr. i. 17, 7), Babylonia (id. iii.
 controllers seem to have been over groups of provinces (Philoxenus over
 Asia Minor, Arr. i. 17, 7; see Beloch, _Gr. Gesch._ III. [i] p. 14), and
 Harpalus over the whole finances of the empire, with his seat in
-Babylon. Again the garrisons in the chief cities, such as Sardis,
+[[Babylon]]. Again the [[Garrison|garrisons]] in the chief cities, such as Sardis,
 Babylon, Memphis Pelusium and Susa, were under commands distinct from
 those of the provinces. The old Greek cities of the motherland were not
 formally subjects of the empire, but sovereign states, which assembled
@@ -113,7 +113,7 @@ the Greek cities were in reality subject to his dictation, even in so
 intimate a matter as the readmission of their exiles, and might be
 obliged to receive his garrisons. Within the empire itself, the various
 communities were allowed, subject to the interference of the king or his
-officials, to manage their own affairs. Alexander is said to have
+officials, to [[Manage|manage]] their own affairs. Alexander is said to have
 granted the Lydians to be "free" and "to use the laws of the ancient
 Lydians," whatever exactly these expressions may mean (Arr. i. 17, 4).
 So too in Egypt, the native monarchs were left as the local authorities
@@ -122,8 +122,8 @@ Alexander showed respect. In Egypt and in Babylon he appeared as the
 restorer of the native religions to honour after the unsympathetic rule
 of the Persians. The temple of Marduk in Babylon which had fallen began
 to rise again at his command. It is possible that he offered sacrifice
-to Yahweh in Jerusalem. In Persia, the native aristocracy retained their
-power, and the Macedonian governor adopted Persian dress and manners
+to Yahweh in Jerusalem. In Persia, the native [[Aristocracy|aristocracy]] retained their
+power, and the Macedonian governor adopted Persian [[Dress|dress]] and [[Manners|manners]]
 (Diod. xix. 48, 5; Arr. vi. 30). A new factor introduced by Alexander
 was the foundation of Greek cities at all critical points of intercourse
 in the conquered lands. These, no doubt, possessed municipal autonomy
@@ -131,15 +131,15 @@ with the ordinary organization of the Greek state; to what extent they
 were formally and regularly controlled by the provincial authorities we
 do not know; Pithon, the satrap of the Indian province is specially
 described as sent "in colonias in Indis conditas" (Just. xiii. 4, 21).
-The empire included large tracts of mountain or desert, inhabited by
+The empire included large tracts of mountain or [[Desert|desert]], inhabited by
 tribes, which the Persian government had never subdued. The subjugation
 of such districts could only be by a system of effective military
 occupation and would be a work of time; but Alexander made a beginning
 by punitive expeditions, as occasion offered, calculated to reduce the
 free tribes to temporary quiet; we hear of such expeditions in the case
-of the Pisidians, the tribes of the Lebanon, the Uxii (in Khuzistan),
-the Tapyri (in the Elburz), the hill-peoples of Bajaor and Swat, the
-Cossaei (in Kurdistan); an expedition against the Arabs was in
+of the Pisidians, the tribes of the [[Lebanon]], the Uxii (in Khuzistan),
+the Tapyri (in the [[Elburz]]), the hill-peoples of Bajaor and Swat, the
+Cossaei (in [[Kurdistan]]); an expedition against the [[Arabs]] was in
 preparation when Alexander died.
 
   See A. Köhler, _Reichsverwaltung u. Politik Alexanders des Grossen in
@@ -149,7 +149,7 @@ preparation when Alexander died.
   4. Court.
 
 Alexander, who set out as king of the Macedonians and captain-general of
-the Hellenes, assumed after the death of Darius the character of the
+the Hellenes, assumed after the death of [[Darius]] the character of the
 Oriental great king. He adopted the Persian garb (Plutarch, _de fort.
 Al._ i. 8) including a head-dress, the _diadema_, which was suggested by
 that of the Achaemenian king (_Just._ xii. 3, 8). We hear also of a
@@ -160,29 +160,29 @@ opposition roused by Alexander's attempt to introduce among them the
 practice of _proskynesis_ (prostration before the royal presence), was
 bitter and effectual. The title of _chiliarch_, by which the Greeks had
 described the great king's chief minister, in accordance with the
-Persian title which described him as "commander of a thousand," i.e. of
+Persian title which described him as "[[Commander|commander]] of a thousand," i.e. of
 the royal body-guard, was conferred by Alexander upon his friend
-Hephaestion. The Greek Chares held the position of chief usher ([Greek:
+[[Hephaestion]]. The Greek [[Chares]] held the position of chief usher ([Greek:
 eisangeleus]). Another Greek, Eumenes of Cardia, was chief secretary
 ([Greek: archigrammateus]). The figure of the eunuch, so long
 characteristic of the Oriental court, was as prominent as ever (e.g.
-Bagoas, Plut. _Alex._ 67, &c.; cf. Arr. vii. 24).
+[[Bagoas]], Plut. _Alex._ 67, &c.; cf. Arr. vii. 24).
 
 Alexander, however, who impressed his contemporaries by his sexual
-continence, kept no harem of the old sort. The number of his wives did
+continence, kept no [[Harem|harem]] of the old sort. The number of his wives did
 not go beyond two, and the second, the daughter of Darius, he did not
 take till a year before his death. In closest contact with the king's
 person were the seven, or latterly eight, body-guards, [Greek:
 somatophylakes], Macedonians of high rank, including Ptolemy and
-Lysimachus, the future kings of Egypt, and Thrace (Arr. vi. 28, 4). The
+[[Lysimachus]], the future kings of Egypt, and Thrace (Arr. vi. 28, 4). The
 institution, which the Macedonian court before Alexander had borrowed
-from Persia, of a corps of pages composed of the young sons of the
+from Persia, of a [[Corps|corps]] of pages composed of the young sons of the
 nobility ([Greek: paides basileioi] or [Greek: basilikoi]) continued to
 hold an important place in the system of the court and in Alexander's
 campaigns (see Arr. iv. 13, 1; Curt. viii. 6, 6; Suid. [Greek: basileioi
 paides]; cf. the [Greek: paides] of Eumenes, Diod. xix. 28, 3).
 
-  See Spiecker, _Der Hof und die Hofordnung Alex. d. Grossen_ (1904).
+  See Spiecker, _Der [[Hof]] und die Hofordnung Alex. d. Grossen_ (1904).
 
 
     5. Army.
@@ -202,7 +202,7 @@ paides]; cf. the [Greek: paides] of Eumenes, Diod. xix. 28, 3).
   number, more lightly armed, and distinguished (at any rate at the time
   of Alexander's death) by silver shields. Of these 1,000 constituted
   the royal corps ([Greek: to agema to basilikou]). The Macedonian
-  cavalry was recruited from a higher grade of society than the
+  [[Cavalry|cavalry]] was recruited from a higher grade of society than the
   infantry, the _petite noblesse_ of the nation. They bore by old custom
   the name of the king's Companions ([Greek: hetairoi]), and were
   distributed into 8 territorial squadrons ([Greek: ilai]) of probably
@@ -222,7 +222,7 @@ paides]; cf. the [Greek: paides] of Eumenes, Diod. xix. 28, 3).
   Diodorus. When Alexander was lord of Asia, innovations followed in the
   army. Already in 330 at Persepolis, the command went forth that 30,000
   young Asiatics were to be trained as Macedonian soldiers (the
-  _epigoni_, Arr. vii., 6, 1). Contingents of the fine Bactrian cavalry
+  _[[Epigoni|epigoni]]_, Arr. vii., 6, 1). Contingents of the fine Bactrian cavalry
   followed Alexander into India. Persian nobles were admitted into the
   _agema_ of the Macedonian cavalry. A far more radical remodelling of
   the army was undertaken at Babylon in 323, by which the old phalanx
@@ -230,7 +230,7 @@ paides]; cf. the [Greek: paides] of Eumenes, Diod. xix. 28, 3).
   of Macedonians with pikes and Asiatics with missile arms in
   combination--a change calculated to be momentous both from a military
   point of view in the coming wars, and from a political, in the close
-  fusion of Europeans and Asiatics. The death of Alexander interrupted
+  [[Fusion|fusion]] of Europeans and Asiatics. The death of Alexander interrupted
   the scheme, and his successors reverted to the older system. In the
   wars of Alexander the phalanx was never the most active arm; Alexander
   delivered his telling attacks with his cavalry, whereas the
@@ -242,7 +242,7 @@ paides]; cf. the [Greek: paides] of Eumenes, Diod. xix. 28, 3).
   Balkan region did excellent service.
 
   For Alexander's army and tactics, beside the regular histories
-  (Droysen, Niese, Beloch, Kaerst), see D. G. Hogarth, _Journal of
+  ([[Droysen]], Niese, Beloch, Kaerst), see D. G. [[Hogarth]], _Journal of
   Philol._, xvii. 1 seq. (corrected at some points in his _Philip and
   Alexander_).
 
@@ -254,7 +254,7 @@ Alexander's general policy, in which the fusion of Greeks and Asiatics
 held so prominent a place. He had himself, as we have seen, assumed to
 some extent the guise of a Persian king. The Macedonian Peucestas
 received special marks of his favour for adopting the Persian dress. The
-most striking declaration of his ideals was the marriage feast at Susa
+most striking [[Declaration|declaration]] of his ideals was the marriage feast at Susa
 in 324, when a large number of the Macedonian nobles were induced to
 marry Persian princesses, and the rank and file were encouraged by
 special rewards to take Eastern wives. We are told that among the
@@ -265,14 +265,14 @@ intermarriage into a single whole (Diod. xviii. 4, 4). How far did
 Alexander intend that in such a fusion Hellenic culture should retain
 its pre-eminence? How far could it have done so, had the scheme been
 realized? It is not impossible that the question may yet be raised again
-whether the Eurasian after all is the heir of the ages.
+whether the Eurasian after all is the [[Heir|heir]] of the ages.
 
 
   7. Divine Honours.
 
 High above all the medley of kindreds and tongues, untrammelled by
 national traditions, for he had outgrown the compass of any one nation,
-invested with the glory of achievements in which the old bounds of the
+invested with the glory of achievements in which the old [[Bounds|bounds]] of the
 possible seemed to fall away, stood in 324 the man Alexander. Was he a
 man? The question was explicitly suggested by the report that the
 Egyptian priest in the Oasis had hailed him in the god's name as the son
@@ -290,18 +290,18 @@ the Greek circle of ideas to explain it. As early as Aeschylus (_Supp._
 intense feelings of reverence or gratitude towards men which naturally
 suggested itself--as a figure of speech in Aeschylus, but the figure had
 been translated into action before Alexander not in the well-known case
-of Lysander only (cf. the case of Dion, Plut. _Dio_, 29). Among the
+of [[Lysander]] only (cf. the case of Dion, Plut. _Dio_, 29). Among the
 educated Greeks rationalistic views of the old mythology had become so
-current that they could assimilate Alexander to Dionysus without
+current that they could assimilate Alexander to [[Dionysus]] without
 supposing him to be supernatural, and to this temper the divine honours
 were a mere form, an elaborate sort of flattery. Did Alexander merely
 receive such honours? Or did he claim them himself? It would seem that
 he did. Many of the assertions as to his action in this line do not
 stand the light of criticism (see Hogarth, _Eng. Hist. Rev._ ii., 1887,
 p. 317 seq.; Niese, _Historische Zeitschrift_, lxxix., 1897, p. 1,
-seq.); even the explicit Statement in Arrian as to Alexander and the
+seq.); even the explicit Statement in [[Arrian]] as to Alexander and the
 Arabians is given as a mere report; but we have well-authenticated
-utterances of Attic orators when the question of the cult of Alexander
+utterances of [[Attic]] orators when the question of the cult of Alexander
 came up for debate, which seem to prove that an intimation of the king's
 pleasure had been conveyed to Athens.
 
@@ -316,7 +316,7 @@ traders unknown lands; an immense quantity of precious metal had been
 put into circulation which the Persian kings had kept locked up in their
 treasuries (cf. Athen, vi. 231 e). At the same time Alexander himself
 made it a principal concern to win fresh geographical knowledge, to
-open new ways. The voyage of Nearchus from the Indus to the Euphrates
+open new ways. The voyage of Nearchus from the Indus to the [[Euphrates]]
 was intended to link India by a waterway with the Mediterranean lands.
 So too Heraclides was sent to explore the Caspian; the survey, and
 possible circumnavigation, of the Arabian coasts was the last enterprise
@@ -344,7 +344,7 @@ motherland in the foreign soil (Theophr., _Hist. Plant._ iv. 4, 1).
   mines, was abandoned. Alexander's gold coinage, indeed (possibly not
   struck till after the invasion of Asia), follows in weight that of
   Philip's staters; but he seems at once to have adopted for his silver
-  coins (of a smaller denomination than the tetradrachm) the
+  [[Coin|coins]] (of a smaller [[Denomination|denomination]] than the tetradrachm) the
   Euboic-Attic standard, instead of the Phoenician, which had been
   Philip's. With the conquest of Asia, Alexander conceived the plan of
   issuing a uniform coinage for the empire. Gold had fallen still
@@ -352,7 +352,7 @@ motherland in the foreign soil (Theophr., _Hist. Plant._ iv. 4, 1).
   struck in both metals on the Attic standard, leaving their relation to
   adjust itself by the state of the market. This imperial coinage was
   designed to break down the monetary predominance of Athens (Beloch,
-  _Gr. Gesch._ iii. i, 42). None of the coins with Alexander's own image
+  _Gr. Gesch._ iii. i, 42). None of the coins with Alexander's own [[Image|image]]
   can be shown to have been issued during his reign; the traditional
   gods of the Greeks still admitted no living man to share their
   prerogative in this sphere. Athena and Nike alone figured upon
@@ -373,7 +373,7 @@ the nobles) was as to the person who should be chosen to be the king,
 although it is true that either candidate, the half-witted son of Philip
 II., Philip Arrhidaeus, or the posthumous son of Alexander by Roxana,
 opened the prospect of a long regency exercised by one or more of the
-Macedonian lords. The compromise, by which both the candidates should be
+Macedonian lords. The [[Compromise|compromise]], by which both the candidates should be
 kings together, was, of course, succeeded by a struggle for power among
 those who wished to rule in their name. The resettlement of dignities
 made in Babylon in 323, while it left the eastern commands practically
@@ -389,7 +389,7 @@ regent and increased the power of Antigonus in Asia. When Antipater
 died, in 319, a second war broke out, the wrecks of the party of
 Perdiccas, led by Eumenes, combining with Polyperchon, the new regent,
 and later on (318) with the eastern satraps who were in arms against
-Pithon, the satrap of Media. Cassander, the son of Antipater,
+Pithon, the satrap of Media. [[Cassander]], the son of Antipater,
 disappointed of the regency, had joined the party of Antigonus. In 316
 Antigonus had defeated and killed Eumenes and made himself supreme from
 the Aegean to Iran, and Cassander had ousted Polyperchon from
@@ -399,10 +399,10 @@ Ptolemy, Lysimachus, the governor of Thrace, and Seleucus, who had fled
 before Antigonus from his satrapy of Babylonia. From 315 to 301 the war
 of Antigonus against these four went on, with one short truce in 311.
 Antigonus never succeeded in reaching Macedonia, although his son
-Demetrius won Athens and Megara in 307 and again (304-302) wrested
+[[Demetrius]] won Athens and Megara in 307 and again (304-302) wrested
 almost all Greece from Cassander; nor did Antigonus succeed in expelling
 Ptolemy from Egypt, although he led an army to its frontier in 306; and
-after the battle of Gaza in 312, in which Ptolemy and Seleucus defeated
+after the battle of [[Gaza]] in 312, in which Ptolemy and Seleucus defeated
 Demetrius, he had to see Seleucus not only recover Babylonia but bring
 all the eastern provinces under his authority as far as India. Meanwhile
 the struggle changed its character in an important respect. King Philip
@@ -430,10 +430,10 @@ assassination by Ptolemy Ceraunus in the same year brought back
 confusion.
 
 Ptolemy Ceraunus (the son of the first Ptolemy, and half-brother of the
-reigning king of Egypt) seized the Macedonian throne, whilst Antiochus,
+reigning king of Egypt) seized the Macedonian throne, whilst [[Antiochus]],
 the son of Seleucus, succeeded in holding together the Asiatic dominions
 of his father. The confusion was aggravated by the incursion of the
-Gauls into the Balkan Peninsula in 279; Ptolemy Ceraunus perished, and a
+[[Gaul|Gauls]] into the Balkan Peninsula in 279; Ptolemy Ceraunus perished, and a
 period of complete anarchy succeeded in Macedonia. In 276 Antigonus
 Gonatas, the son of Demetrius, after inflicting a crushing defeat on the
 Gauls near Lysimachia, at last won Macedonia definitively for his house.
@@ -454,7 +454,7 @@ of Achaemenian days had carved out principalities, one of which became
 the kingdom of Pontus and the other the kingdom of Cappadocia (in the
 narrower sense); the former regarding Mithradates (281-266) as its
 founder, the latter being the creation of the second Ariarathes
-(?302-?281). Armenia, never effectively conquered by the Macedonians,
+(?302-?281). [[Armenia]], never effectively conquered by the Macedonians,
 was left in the hands of native princes, tributary only when the
 Seleucid court was strong enough to compel. In India, Seleucus had in
 302 ceded large districts on the west of the Indus to Chandragupta, who
@@ -463,10 +463,10 @@ provinces in the Panjab.
 
 Whilst the Antigonid kingdom remained practically whole till the Roman
 conquest ended it in 168 B.C., and the house of Ptolemy ruled in Egypt
-till the death of Cleopatra in 30 B.C., the Seleucid Empire perished by
+till the death of [[Cleopatra]] in 30 B.C., the Seleucid Empire perished by
 a slow process of disruption. The eastern provinces of Iran went in 240
 or thereabouts, when the Greek Diodotus made himself an independent king
-in Bactria (q.v.) and Sogdiana, and Tiridates, brother of Arsaces, a
+in Bactria (q.v.) and Sogdiana, and Tiridates, brother of [[Arsaces]], a
 "Scythian" chieftain, conquered Parthia (so Arrian, but see PARTHIA).
 Armenia was finally lost in 190, when Artaxias founded a new native
 dynasty there. Native princes probably ruled in Persis before 166,
@@ -512,7 +512,7 @@ army came regularly into function under Alexander, and in the wars which
 followed his death (Diod. xviii. 4, 3; 36, 7; 37, 2, 39, 2; xix. 61, 3),
 and in Macedonia; although the power of life and death came _de facto_
 into the hands of the Antigonid king, the old right of the army to act
-as judge was not legally abrogated, and friction was sometimes caused by
+as judge was not legally abrogated, and [[Friction|friction]] was sometimes caused by
 its assertion (Polyb. v. 27, 5). The right of the army to confer the
 royal power was still symbolized in the popular acclamation required on
 the accession of a new king, and at Alexandria in troubled times we hear
@@ -526,12 +526,12 @@ In Syria, the usurper Tryphon bases his right upon an election by the
 Where it is a case of delegating some part of the supreme authority, as
 when Seleucus I. made his son Antiochus king for the eastern provinces,
 we find the army convoked to ratify the appointment (App. _Syr._ 61). So
-too the people is spoken of as appointing the guardians of a king
+too the people is spoken of as appointing the [[Guardian|guardians]] of a king
 during his minority (Just. xxxiv. 3, 6). Nor was the power of the army a
 fiction. The Hellenistic monarchies rested, as all government in the
 last resort must, upon the loyalty of those who wielded the brute force
 of the state, and however unlimited the powers of the king might be in
-theory, he could not alienate the goodwill of the army with impunity.
+theory, he could not alienate the [[Goodwill|goodwill]] of the army with impunity.
 The right of primogeniture in succession was recognized as a general
 principle; a woman, however, might succeed only so long as there were no
 male agnates. Illegitimate children had no rights of succession. In
@@ -547,7 +547,7 @@ a common one. But the cases of it fall into two classes. Sometimes the
 subordinate or joint kingship implies real functions. In the Seleucid
 kingdom the territorial expanse of the realm made the creation of a
 distinct subordinate government for part of it a measure of practical
-convenience. Sometimes the joint-king is merely titular, an infant of
+convenience. Sometimes the joint-king is merely titular, an [[Infant|infant]] of
 tender years, as for instance Antiochus Eupator, the son of Antiochus
 Epiphanes, or Ptolemy Eupator, the son of Ptolemy Philometor. The object
 here is to secure the succession in the event of the supreme king's
@@ -569,11 +569,11 @@ policy as Alexander had been, between recognizing the cities' unabated
 claim to sovereign independence and the necessity of attaching them
 securely. In Asia Minor, the "enslavement" and liberation of cities
 alternated with the circumstances of the hour, while the kings all
-through professed themselves the champions of Hellenic freedom, and were
+through professed themselves the [[Champion|champions]] of Hellenic freedom, and were
 ready on occasion to display munificence toward the city temples or in
 public works, such as might reconcile republicans to a position of
 dependence. Antiochus III. went so far as to write on one occasion to
-the subject Greek cities that if any royal mandate clashed with the
+the subject Greek cities that if any royal [[Mandate|mandate]] clashed with the
 civic laws it was to be disregarded (Plut. _Imp. et duc. apophth._). But
 it was the old cry of the "autonomy of the Hellenes," raised by Smyrna
 and Lampsacus, which ultimately brought Antiochus III. into collision
@@ -607,16 +607,16 @@ hands of Arabians or Indians; between Alexandria and Yemen it was
 carried by Greeks (Strabo ii. 118). The west coast of the Red Sea was
 dotted with commercial stations of royal foundation from Arsinoë north
 of Suez to Arsinoë in the south near the straits of Bab-el-Mandeb. From
-Berenice on the Red Sea a land-route struck across to the Nile at
-Coptos; this route the kings furnished with watering stations. That
+[[Berenice]] on the Red Sea a land-route struck across to the Nile at
+[[Coptos]]; this route the kings furnished with watering stations. That
 there might also be a waterway between Alexandria and the Red Sea, they
-cut a canal between the Delta and the northern Arsinoë. It was
+cut a canal between the [[Delta]] and the northern Arsinoë. It was
 Alexandria into which this stream of traffic poured and made it the
 commercial metropolis of the world. We hear of direct diplomatic
 intercourse between the courts of Alexandria and Pataliputra, i.e. Patna
 (Plin. vi. § 58). An alternative route went from the Indian ports to the
-Persian Gulf, and thence found the Mediterranean by caravan across
-Arabia from the country of Gerrha to Gaza; and to control it was no
+Persian Gulf, and thence found the Mediterranean by [[Caravan|caravan]] across
+Arabia from the country of [[Gerrha]] to Gaza; and to control it was no
 doubt a motive in the long struggle of the Ptolemaïc and Seleucid houses
 for Palestine, as well as in the attempt of Antiochus III. to subjugate
 the Gerrhaeans. Or from the Persian Gulf wares might be taken up the
@@ -625,9 +625,9 @@ the Seleucid sphere. With Iran Antioch was connected most directly by
 the road which crossed the Euphrates at the Zeugma and went through
 Edessa and Antioch-Nisibis to the Tigris. The trade from India which
 went down the Oxus and then to the Caspian does not seem to have been
-considerable (Tarn, _Journ. of Hell. Stud._ xxi. 10 seq.). From Antioch
+considerable (Tarn, _Journ. of [[Hell]]. Stud._ xxi. 10 seq.). From Antioch
 to the Aegean the land high-road went across Asia Minor by the Cilician
-Gates and the Phrygian Apamea.
+Gates and the Phrygian [[Apamea]].
 
 
   4. Finance.
@@ -670,8 +670,8 @@ the financial administration was removed from the competence of the
 provincial governors, as it seems to have been in Alexander's system, we
 cannot say. Seleucus at any rate, as satrap of Babylonia, controlled the
 finances of the province (Diod. xix. 55, 3), and so, in the Ptolemaïc
-system, did the governor of Cyprus (Polyb. xxvii. 13). The fact that
-provincial officials [Greek: epi ton prosodon] (in Eriza, _Bull. corr.
+system, did the governor of [[Cyprus]] (Polyb. xxvii. 13). The fact that
+provincial officials [Greek: epi ton prosodon] (in Eriza, _[[Bull]]. corr.
 hell._ xv. 556) are found does not prove anything, since it leaves open
 the question of their being subordinate to the governor.
 
@@ -689,14 +689,14 @@ Ptolemaïc money was struck during the subsequent centuries. Money was
 also struck in their own name by the cities in the several dynasties'
 spheres of power, but in most cases only bronze or small silver for
 local use. Corinth, however, was allowed to go on striking staters under
-Antigonus Gonatas; Ephesus, Cos and the greater cities of Phoenicia
+[[Antigonus Gonatas]]; Ephesus, Cos and the greater cities of Phoenicia
 retained their right of coinage under Seleucid or Ptolemaïc supremacy.
 
 
   6. The Court.
 
 In language and manners the courts of Alexander's successors were Greek.
-Even the Macedonian dialect, which it was considered proper for the
+Even the Macedonian [[Dialect|dialect]], which it was considered proper for the
 kings to use on occasion, was often forgotten (Plut. _Ant._ 27). The
 Oriental features which Alexander had introduced were not copied. There
 was no _proskynesis_ (or certainly not in the case of Greeks and
@@ -708,10 +708,10 @@ king's state dress was the same in principle as that worn by the
 Macedonian or Thessalian horsemen, as the uniform of his own cavalry
 officers. Its features were the broad-brimmed hat (_kausia_), the cloak
 (_chlamys_) and the high-laced boots (_krepides_) (Plut. _Ant._ 54;
-Frontinus, iii. 2, 11). These, in the case of the king, would be of
+[[Frontinus]], iii. 2, 11). These, in the case of the king, would be of
 richer material, colour and adornment. The diadem could be worn round
 the kausia; the chlamys offered scope for gorgeous embroidery; and the
-boots might be crimson felt (see the description of Demetrius' chlamys
+boots might be [[Crimson|crimson]] felt (see the description of Demetrius' chlamys
 and boots, Plut. _Dem_. 41). There were other traces in the Hellenistic
 courts of the old Macedonian tradition besides in dress. One was the
 honour given to prowess in the chase (Polyb. xxii. 3, 8; Diod. xxxiv.
@@ -727,7 +727,7 @@ famous. The kings after Alexander, with the exception of Demetrius
 Poliorcetes and Pyrrhus, are not found to have more than one legitimate
 wife at a time, although they show unstinted freedom in divorce and the
 number of their mistresses. The custom of marriages between brothers and
-sisters, agreeable to old Persian as to old Egyptian ethics, was
+sisters, agreeable to old Persian as to old Egyptian [[Ethics|ethics]], was
 instituted in Egypt by the second Ptolemy when he married his full
 sister Arsinoë Philadelphus. It was henceforth common, though not
 invariable, among the Ptolemies. At the Seleucid court there seems to be
@@ -745,7 +745,7 @@ depends upon his favour alone, and is accorded, not only to his
 subjects, but to aliens, such as the Greek refugee politicians (e.g.
 Hegesianax, Athen. iv. 155b; Hannibal and the Aetolian Thoas take part
 in the councils of Antiochus III. A similar body, with a title
-corresponding to [Greek: philoi], is found in ancient Egypt (Erman,
+corresponding to [Greek: philoi], is found in ancient Egypt ([[Erman]],
 _Ancient Egypt_, Eng. trans., p. 72) and in Persia (Spiegel. _Eran.
 Alt._ iii. 626); but some such support is so obviously required by the
 necessities of a despot's position that we need not suppose it derived
@@ -814,7 +814,7 @@ we may perhaps bring into connexion the office of [Greek: tropheus]
 (Polyb. xxxi. 20, 3; Michel, No. 1158). As under Alexander, so under his
 successors, we find a corps of [Greek: Basilikoi paides]. They appear as
 a corps, 600 strong, in a triumphal procession at Antioch (Polyb. xxxi.
-3, 17; cf. v. 82, 13; Antigonid, Livy, xlv. 6; cf. Curtius, viii. 6, 6).
+3, 17; cf. v. 82, 13; Antigonid, Livy, xlv. 6; cf. [[Curtius]], viii. 6, 6).
 
 
   7. Hellenic Culture.
@@ -825,15 +825,15 @@ of letters would find them bidding for his presence, and most of the
 great names are associated with one or other of the contemporary kings.
 Antigonus Gonatas, bluff soldier-spirit that he was, heard the Stoic
 philosophers gladly, and, though he failed to induce Zeno to come to
-Macedonia, persuaded Zeno's disciple, Persaeus of Citium, to enter his
+Macedonia, persuaded Zeno's [[Disciple|disciple]], Persaeus of [[Citium]], to enter his
 service. Nor was it philosophers only who made his court illustrious,
 but poets like Aratus. The Ptolemaïc court, with the museum attached to
 it, is so prominent in the literary and scientific history of the age
 that it is unnecessary to give a list of the philosophers, the men of
-letters and science, who at one time or other ate at King Ptolemy's
+letters and science, who at one time or other [[Ate|ate]] at King Ptolemy's
 table. One may notice that the first Ptolemy himself made a contribution
 of some value to historical literature in his account of Alexander's
-campaigns; the fourth Ptolemy not only instituted a cult of Homer but
+campaigns; the fourth Ptolemy not only instituted a cult of [[Homer]] but
 himself published tragedies; and even Ptolemy Euergetes II. issued a
 book of memoirs. The Pergamene court was in no degree behind the
 Ptolemaïc in its literary and artistic zeal. The notable school of
@@ -844,7 +844,7 @@ masterpieces of Attic prose (Susemihl I., p. 4), and two of its kings
 court did not rival either of the last named in brilliance of culture;
 and yet some names of distinction were associated with it. Under
 Antiochus I. Aratus carried out a recension of the _Odyssey_, and
-Berossus composed a Babylonian history in Greek; under Antiochus III.
+[[Berossus]] composed a Babylonian history in Greek; under Antiochus III.
 Euphorion was made keeper of the library at Antioch. Antiochus IV., of
 course, the enthusiastic Hellenist, filled Antioch with Greek artists
 and gave a royal welcome to Athenian philosophers. Even in the
@@ -854,11 +854,11 @@ great Hellenistic courts and the Greek world generally imposed their
 authority upon the dynasties of barbarian origin. The Cappadocian court
 admitted the full stream of Hellenistic culture under Ariarathes V.
 (Diod. xxxi. 19, 8). One of the kings called Nicomedes in Bithynia
-offered immense sums to acquire the Aphrodite of Praxiteles from the
+offered immense sums to acquire the [[Aphrodite]] of Praxiteles from the
 Cnidians (Plin. _N.H._ xxxvi. 21), and to a king Nicomedes the
 geographical poem of the Pseudo-Scymnus is dedicated. Even Iranian kings
 in the last century B.C. found pleasure in composing, or listening to,
-Greek tragedies, and Herod the Great kept Greek men of letters beside
+Greek tragedies, and [[Herod]] the Great kept Greek men of letters beside
 him and had spasmodic ambitions to make his mark as an orator or author
 (Nicol. Dam. frag. 4; _F.H.G._ III. p. 350).
 
@@ -875,7 +875,7 @@ s.v. [Greek: Antipatros]), and coins began to be issued with his image.
 At Alexandria the state cult of him seems to have been instituted by the
 second Ptolemy, when his body was laid in the _Sema_ (Otto, _Priester u.
 Tempel_, i. 139 seq.). The successors themselves received divine
-honours. Such worship might be the spontaneous homage of a particular
+honours. Such worship might be the spontaneous [[Homage|homage]] of a particular
 Greek community, like that offered to Antigonus by Scepsis in 311
 (_Journ. of Hell. Stud._ xix. 335 seq.), the Antigonus and Demetrius by
 Athens in 307, to Ptolemy I. by the Rhodians in 304, or by Cassandrea to
@@ -902,7 +902,7 @@ associated with the king. The official surname of Antiochus II., Theos,
 suggests that he himself had here been the innovator. Thenceforward, in
 the Hellenistic kingdoms of the East the worship of the living sovereign
 became the rule, although it appears to have been regarded as given in
-anticipation of an apotheosis which did not become actual till death. In
+anticipation of an [[Apotheosis|apotheosis]] which did not become actual till death. In
 the Pergamene kingdom at any rate, though the living king was worshipped
 with sacrifice, the title [Greek: theos] was only given to those who
 were dead (Cardinali, _Regno di Pergamo_, p. 153). The Antigonid
@@ -930,7 +930,7 @@ the independent acts of the cities.
   Historical Review_, xvi. 629 (1901). The official surnames must not,
   of course, be confused with the popular nicknames which were naturally
   not recognized by the court, e.g. _Ceraunus_ ("Thunder"), _Hierax_
-  ("Hawk"), _Physcon_ ("Pot-belly"), _Lathyrus_ ("Chick-pea").
+  ("[[Hawk]]"), _Physcon_ ("Pot-belly"), _Lathyrus_ ("Chick-pea").
 
 
     10. Armies.
@@ -939,11 +939,11 @@ the independent acts of the cities.
   of their organization similar to the army with which Alexander had
   conquered Asia. During the years immediately after Alexander the very
   Macedonians who had fought under Alexander were ranged against each
-  other under the banners of the several chiefs. The most noted corps
+  other under the [[Banners|banners]] of the several chiefs. The most noted corps
   of veterans, Argyraspides (i.e. the royal Hypaspistae) played a great
   part in the first wars of the successors, and covered themselves with
-  infamy by their betrayal of Eumenes. As the soldiers of Alexander died
-  off, fresh levies of home-born Macedonians could be raised only by the
+  [[Infamy|infamy]] by their betrayal of Eumenes. As the soldiers of Alexander died
+  off, fresh [[Levi|levies]] of home-born Macedonians could be raised only by the
   chief who held the motherland. The other chiefs had to supply
   themselves with Macedonians from the numerous colonies planted before
   the break-up of the empire in Asia or Egypt, and from such Macedonians
@@ -978,7 +978,7 @@ the independent acts of the cities.
   of Seleucus_, ii. 288). The Antigonid and Seleucid courts had much
   valuable material at hand for their armies in the barbarian races
   under their sway. The Balkan hill-peoples of Illyrian or Thracian
-  stock, the hill-peoples of Asia Minor and Iran, the chivalry of Media
+  stock, the hill-peoples of Asia Minor and Iran, the [[Chivalry|chivalry]] of Media
   and Bactria, the mounted bowmen of the Caspian steppes, the
   camel-riders of the Arabian desert, could all be turned to account.
   Iranian troops seem to have been employed on a large scale by the
@@ -989,7 +989,7 @@ the independent acts of the cities.
   seem to have been made before the campaign of 217, when Ptolemy IV.
   formed corps of the Macedonian pattern from Egyptians and Libyans (cf.
   Polyb. v. 107, 2; Ptolemy I. had employed Egyptians in the army,
-  though chiefly as carriers, Diod. xix. 80, 4). From this time native
+  though chiefly as [[Carrier|carriers]], Diod. xix. 80, 4). From this time native
   rebellions in Egypt are recurrent. To the troops drawn from their own
   dominions the mercenaries which the kings procured from abroad were an
   important supplement. These were mainly the bands of Greek
@@ -998,7 +998,7 @@ the independent acts of the cities.
   and from the time of the Gallic invasion of Asia Minor in 279 Gauls or
   Galatians were a regular constituent in all armies. They were a weapon
   apt to be dangerous to the employer, but the terror they inspired was
-  such that every potentate sought to get hold of them. The elephants
+  such that every potentate sought to get hold of them. The [[Elephant|elephants]]
   which Alexander brought back from India were used in the armies of his
   successors, and in 302 Seleucus procured a new supply. Thenceforward
   elephants, either brought fresh from India or bred in the royal
@@ -1043,13 +1043,13 @@ foreigners. It was considered wonderful in the last Cleopatra that she
 learnt to speak Egyptian (Plut. _Anton._ 27). Natives were employed, as
 we have seen, in the army, and Iranians are found under the Seleucids
 holding high commands, e.g. Aspasianus the Mede (Polyb. v. 79, 7),
-Aribazus, governor of Cilicia (Flinders Petrie, _Papyri_, II., No. 45),
+Aribazus, governor of Cilicia ([[Flinders]] Petrie, _Papyri_, II., No. 45),
 Aribazus, governor of Sardis (Polyb. vii. 17, 9), and Omanes (Michel,
 No. 19, l. 104). Native cults the Hellenistic kings thought it good
 policy to patronize. Antiochus I. began rebuilding the temple of Nebo at
-Borsippa (_Keilinschr. Bibl._ iii. 2, 136 seq.) Antiochus III. bestowed
+[[Borsippa]] (_Keilinschr. Bibl._ iii. 2, 136 seq.) Antiochus III. bestowed
 favours on the Temple at Jerusalem. Even if the documents in Joseph,
-_Arch._ xii. SS 138 seq. are spurious, their general view of the
+_[[Arch]]._ xii. SS 138 seq. are spurious, their general view of the
 relation of Antiochus III. and Jerusalem is probably true. Even small
 local worships, like that of the village of Baetocaece, might secure
 royal patronage (_C.I.G._ No. 4474). Of course, financial straits might
@@ -1068,7 +1068,7 @@ the subject lands, visions of the Hellenic king, as the Greek thinkers
 had come to picture him, haunted the Macedonian rulers, and perhaps
 fitfully, in the intervals of war or carousal, prompted some degree of
 action. Treatises "Concerning Kingship" were produced as a regular thing
-by philosophers, and kings who claimed the fine flower of Hellenism,
+by philosophers, and kings who claimed the fine [[Flower|flower]] of Hellenism,
 could not but peruse them. Strabo regards the loss of the eastern
 provinces to the Parthians as their passage under a government of lower
 type, beyond the sphere of Hellenic [Greek: epimegeia] (Strabo xi. 509).
@@ -1090,7 +1090,7 @@ later world.
   their political, economic and social character, their artistic and
   intellectual culture is given by Beloch, _Griech. Gesch._ iii. (i.),
   260-556; see also Kaerst, _Studien zur Entwicklung d. Monarchie_; E.
-  Breccia, _Il Diritto dinastico helle monarchie dei successori
+  [[Breccia]], _Il Diritto dinastico helle monarchie dei successori
   d'Alessandro Magno_ (1903). Popular sketches of the history,
   enlightened by special knowledge and a wide outlook, are given by J.
   P. Mahaffy, _Alexander's Empire_ ("Stories of the Nations Series");
@@ -1127,7 +1127,7 @@ FOOTNOTES:
   [5] The salt monopoly is mentioned in 1 Macc. 10, 29; 11, 35, a
     suspected source, but supported in this detail by the analogy of
     Ptolemaïc Egypt and Rome. For domains in Antigonid, Attalid and
-    Bithynian realms, see Cic. _De leg. agr._ ii. 19, 50.
+    Bithynian realms, see Cic. _De [[Leg|leg]]. agr._ ii. 19, 50.
 
   [6] Antiochus Epiphanes was an extreme case. For the Antigonid court
     see Diog. Laërt. vii. 13; Plut. _Arat._ 17; for the Seleucid, Athen.

@@ -13,13 +13,13 @@ of the Stoics. A native of Soli in Cilicia (Diog. Laert. vii. 179), he
 was robbed of his property and came to Athens, where he studied possibly
 under Zeno, certainly under Cleanthes. It is said also that he became a
 pupil of Arcesilaus and Lacydes, heads of the Middle Academy. This
-impartiality in his early studies is the key of his philosophic work,
+impartiality in his early studies is the [[Key|key]] of his philosophic work,
 the dominant characteristic of which is comprehensiveness rather than
 originality. He took the doctrines of Zeno and Cleanthes and
 crystallized them into a definite system; he further defended them
 against the attacks of the Academy. His polemic skill earned for him the
 title of the "Column of the Portico." Diogenes Laertius says, "If the
-gods use dialectic, they can use none other than that of Chrysippus";
+gods use [[Dialectic|dialectic]], they can use none other than that of Chrysippus";
 [Greek: ei mê gar ên Chrysippos, ouk an ên Stoa] ("Without Chrysippus,
 there had been no Porch"). He excelled in logic, the theory of
 knowledge, ethics and physics. His relations with Cleanthes,

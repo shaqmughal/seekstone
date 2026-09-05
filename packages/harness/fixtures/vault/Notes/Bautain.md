@@ -8,12 +8,12 @@ topic: europe
 
 BAUTAIN, LOUIS EUGENE MARIE (1796-1867), French philosopher and
 theologian, was born at Paris. At the Ecole Normale he came under the
-influence of Cousin. In 1816 he adopted the profession of higher
+influence of [[Cousin]]. In 1816 he adopted the profession of higher
 teaching, and was soon after called to the chair of philosophy in the
 university of Strassburg. He held this position for many years, and gave
 a parallel course of lectures as professor of the literary faculty in
 the same city. The reaction against speculative philosophy, which
-carried away De Maistre and Lamennais, influenced him also. In 1828 he
+carried away De Maistre and [[Lamennais]], influenced him also. In 1828 he
 took orders, and resigned his chair at the university. For several years
 he remained at Strassburg, lecturing at the Faculty and at the college
 of Juilly, but in 1840 he set out for Paris as vicar of the diocese. At
@@ -37,7 +37,7 @@ imaginative. He says, for instance, that there is a spirit of the world
 and a spirit of nature; the latter gives birth to a physical and
 psychical spirit, and the physical spirit to the animal and vegetable
 spirits. His theories may well be compared with the arbitrary mysticism
-of van Helmont and the Gnostics. The most important of his works
+of van [[Helmont]] and the Gnostics. The most important of his works
 are:--_Philosophie du Christianisme_ (1835); _Psychologic experimentale_
 (1839), new edition entitled _Esprit humain et ses facultes_ (1859);
 _Philosophie morale_ (1840); _Religion et liberte_ (1848); _La Morale de

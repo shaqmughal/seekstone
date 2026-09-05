@@ -1,13 +1,13 @@
 # Feuerbach
 
 FEUERBACH, PAUL JOHANN ANSELM, RITTER VON (1775-1833), German jurist and
-writer on criminal law, was born at Hainichen near Jena on the 14th of
-November 1775. He received his early education at Frankfort on Main,
+writer on criminal law, was born at Hainichen near [[Jena]] on the 14th of
+November 1775. He received his early education at [[Frankfort]] on Main,
 whither his family had removed soon after his birth. At the age of
 sixteen, however, he ran away from home, and, going to Jena, was helped
 by relations there to study at the university. In spite of poor health
 and the most desperate poverty, he made rapid progress. He attended the
-lectures of Karl Leonhard Reinhold and Gottlieb Hufeland, and soon
+lectures of Karl Leonhard Reinhold and Gottlieb [[Hufeland]], and soon
 published some literary essays of more than ordinary merit. In 1795 he
 took the degree of doctor in philosophy, and in the same year, though he
 only possessed 150 thalers (£22: 10s.), he married. It was this step
@@ -29,11 +29,11 @@ first made known in his _Revision der Grundsätze und Grundbegriffe des
 positiven peinlichen Rechts_ (1799), were further elucidated and
 expounded in the _Bibliothek für die peinliche Rechtswissenschaft_
 (1800-1801), an encyclopaedic work produced in conjunction with Karl
-L.W.G. Grolmann and Ludwig Harscher von Almendingen, and in his famous
+L.W.G. [[Grolmann]] and Ludwig Harscher von Almendingen, and in his famous
 _Lehrbuch des gemeinen in Deutschland geltenden peinlichen Rechts_
 (1801). These works were a powerful protest against vindictive
 punishment, and did much towards the reformation of the German criminal
-law. The _Carolina_ (the penal code of the emperor Charles V.) had long
+law. The _Carolina_ (the penal [[Code|code]] of the emperor Charles V.) had long
 since ceased to be respected. What in 1532 was an inestimable blessing,
 as a check upon the arbitrariness and violence of the effete German
 procedure, had in the course of time outlived its usefulness and become
@@ -52,7 +52,7 @@ wrong and no punishment without a remedy). In 1801 Feuerbach was
 appointed extraordinary professor of law without salary, at the
 university of Jena, and in the following year accepted a chair at Kiel,
 where he remained two years. In 1804 he removed to the university of
-Landshut; but on being commanded by King Maximilian Joseph to draft a
+[[Landshut]]; but on being commanded by King [[Maximilian]] Joseph to draft a
 penal code for Bavaria (_Strafgesetzbuch für das Königreich Bayern_), he
 removed in 1805 to Munich, where he was given a high appointment in the
 ministry of justice and was ennobled in 1808. Meanwhile the practical
@@ -62,7 +62,7 @@ his _Merkwürdige Criminalfälle_, completed in 1811--a work of deep
 interest for its application of psychological considerations to cases Of
 crime, and intended to illustrate the inevitable imperfection of human
 laws in their application to individuals. In his _Betrachtungen über das
-Geschworenengericht_ (1811) Feuerbach declared against trial by jury,
+Geschworenengericht_ (1811) Feuerbach declared against trial by [[Jury|jury]],
 maintaining that the verdict of a jury was not adequate legal proof of a
 crime. Much controversy was aroused on the subject, and the author's
 view was subsequently to some extent modified. The result of his labours
@@ -82,14 +82,14 @@ of these is entitled _Über deutsche Freiheit und Vertretung deutsche
 Volker durch Landstände_ (1514). In 1814 Feuerbach was appointed second
 president of the court of appeal at Bamberg, and three years later he
 became first president of the court of appeal at Anspach. In 1821 he was
-deputed by the government to visit France, Belgium, and the Rhine
+deputed by the government to visit France, [[Belgium]], and the Rhine
 provinces for the purpose of investigating their juridical institutions.
 As the fruit of this visit, he published his treatises _Betrachtungen
 über Öffentlichkeit und Mündigkeit der Gerechtigkeitspflege_ (1821) and
 _Über die Gerichtsverfassung und das gerichtliche Verfahren Frankreichs_
 (1825). In these he pleaded unconditionally for publicity in all legal
-proceedings. In his later years he took a deep interest in the fate of
-the strange foundling Kaspar Hauser (q.v.), which had excited so much
+proceedings. In his later years he took a deep interest in the [[Fate|fate]] of
+the strange foundling Kaspar [[Hauser]] (q.v.), which had excited so much
 attention in Europe; and he was the first to publish a critical summary
 of the ascertained facts, under the title of _Kaspar Hauser, ein
 Beispiel eines Verbrechens am Seelenleben_ (1832). Shortly before his
@@ -103,7 +103,7 @@ distinguished philosopher.
 
   See also, for an estimate of Feuerbach's life and work, Marquardtsen,
   in _Allgemeine deutsche Biographie_, vol. vi.; and an "in memoriam"
-  notice in _Die allgemeine Zeitung_ (Augsburg), 15th Nov. 1875, by
+  notice in _Die allgemeine Zeitung_ ([[Augsburg]]), 15th Nov. 1875, by
   Professor Dr Karl Binding of Leipzig University.
 
 ## See also

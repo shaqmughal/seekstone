@@ -1,7 +1,7 @@
 # Fortunatus
 
 FORTUNATUS, the legendary hero of a popular European chap-book. He was a
-native, says the story, of Famagusta in Cyprus, and meeting the goddess
+native, says the story, of Famagusta in [[Cyprus]], and meeting the goddess
 of Fortune in a forest received from her a purse which was continually
 replenished as often as he drew from it. With this he wandered through
 many lands, and at Cairo was the guest of the sultan. Among the
@@ -24,7 +24,7 @@ Frederick and the three precious stones in the _Cento Novelle antiche_,
 of the Mazin of Khorassan in the _Thousand and one Nights_, and the
 flying scaffold in the _Bahar Danush_, have all a certain similarity.
 The earliest known edition of the German text of Fortunatus appeared at
-Augsburg in 1509, and the modern German investigators are disposed to
+[[Augsburg]] in 1509, and the modern German investigators are disposed to
 regard this as the original form. Innumerable versions occur in French,
 Italian, Dutch and English. The story was dramatized by Hans Sachs in
 1553, and by Thomas Dekker in 1600; and the latter's comedy appeared in

@@ -14,7 +14,7 @@ cylindrical bore and played by means of a single-reed mouthpiece. The
 word "clarinet" is said to be derived from _clarinetto_, a diminutive of
 _clarino_, the Italian for (1) the soprano trumpet, (2) the highest
 register of the instrument, (3) the trumpet played musically without the
-blare of the martial instrument. The word "clarionet" is similarly
+blare of the [[Martial|martial]] instrument. The word "clarionet" is similarly
 derived from "clarion," the English equivalent of _clarino_. It is
 suggested that the name _clarinet_ or _clarinetto_ was bestowed on
 account of the resemblance in timbre between the high registers of the
@@ -31,7 +31,7 @@ or _clarinetta_ would be feminine,[1] as in Doppelmayr's account of the
 invention written in 1730. The word "clarinet" is sometimes used in a
 generic sense to denote the whole family, which consists of the
 clarinet, or discant corresponding to the violin, oboe, &c; the alto
-clarinet in E; the basset horn in F (q.v.); the bass clarinet (q.v.),
+clarinet in E; the basset [[Horn|horn]] in F (q.v.); the bass clarinet (q.v.),
 and the pedal clarinet (q.v.).
 
 The modern clarinet consists of five (or four) separate pieces: (1) the
@@ -41,7 +41,7 @@ which (the bell excepted) when joined together, form a tube with a
 continuous cylindrical bore, 2 ft. or more in length, according to the
 pitch of the instrument. The mouthpiece, including the beating or
 single-reed common to the whole clarinet family, has the appearance of a
-beak with the point bevelled off and thinned at the edge to correspond
+[[Beak|beak]] with the point bevelled off and thinned at the edge to correspond
 with the end of the reed shaped like a spatula. The under part of the
 mouthpiece (fig. 2) is flattened in order to form a table for the
 support of the reed which is adjusted thereon with great nicety,
@@ -55,13 +55,13 @@ the position of the bore inside; _b_, the single or beating reed.]
 
 The mouthpiece, which is subject to continual fluctuations of dampness
 and dryness, and to changes of temperature, requires to be made of a
-material having great powers of resistance, such as cocus wood, ivory or
+material having great powers of resistance, such as cocus wood, [[Ivory|ivory]] or
 vulcanite, which are mostly used for the purpose in England. A
-longitudinal aperture 1 in. long and ½ in. wide, communicating with the
+longitudinal [[Aperture|aperture]] 1 in. long and ½ in. wide, communicating with the
 bore, is cut in the table and covered by the reed. The aperture is thus
 closed except towards the point, where, for the distance of 1/3 to ¼
 in., the reed is thinned and the table curves backwards towards the
-point, leaving a gap between the ends of the mouthpiece and of the reed
+point, leaving a [[Gap|gap]] between the ends of the mouthpiece and of the reed
 of 1 mm. or about the thickness of a sixpence for the B flat clarinet.
 The curve of the table and the size of the gap are therefore of
 considerable importance. The reed is cut from a joint of the _Arundo
@@ -70,12 +70,12 @@ Mediterranean. A flat slip of the reed is cut, flattened on one side and
 thinned to a very delicate edge on the other. At first the reed was
 fastened to the table by means of many turns of a fine waxed cord. The
 metal band adjusted by means of two screws, known as the "ligature," was
-introduced about 1817 by Ivan Müller. The reed is set in vibration by
+introduced about 1817 by [[Ivan]] Müller. The reed is set in vibration by
 the breath of the performer, and being flexible it beats against the
 table, opening and closing the gap at a rate depending on the rate of
 the vibrations it sets up in the air column, this rate varying according
 to the length of the column as determined by opening the lateral holes
-and keys. A cylindrical tube played by means of a reed has the acoustic
+and [[Key|keys]]. A cylindrical tube played by means of a reed has the acoustic
 properties of a stopped pipe, i.e. the fundamental tone produced by the
 tube is an octave lower than the corresponding tone of an open pipe of
 the same length, and overblows a twelfth; whereas tubes having a conical
@@ -94,7 +94,7 @@ near the mouthpiece, and they are therefore only able to produce the
 uneven harmonics, such as the 1st, 3rd, 5th, 7th, &c, corresponding to
 the fundamental, and the diatonic intervals of the 5th one octave above,
 and of the 3rd and 7th two octaves above the fundamental. By pressing
-the reed with the lip near the base where it is thicker and stiffer, and
+the reed with the [[Lip|lip]] near the base where it is thicker and stiffer, and
 increasing the pressure of the breath, the air-column is forced to
 divide and to sound the harmonics, a principle well understood by the
 ancient Greeks and Romans in playing upon the aulos and tibia.[3] This
@@ -139,21 +139,21 @@ with the shawm or schalmey of the middle ages.
   difficulty in learning to play the clarinet, on account of the thumb
   having to do double duty, closing one hole and raising the lever of
   the speaker key simultaneously. In a clarinet designed by Richard
-  Carte this difficulty was ingeniously overcome by placing the left
+  [[Carte]] this difficulty was ingeniously overcome by placing the left
   thumb-hole towards the front, and closing it by a thumb-lever or with
-  a ring action by the first or second finger of the left hand, thus
+  a ring action by the first or second [[Finger|finger]] of the left hand, thus
   leaving the thumb free to work the speaker key alone.
 
   There is good reason to think that the ancient Greeks understood the
   advantage of a speaker-hole, which they called _Syrinx_, for
-  facilitating the production of harmonics on the aulos. The credit of
-  the discovery of this interesting fact is due to A.A. Howard,[5] of
+  facilitating the production of harmonics on the aulos. The [[Credit|credit]] of
+  the discovery of this interesting fact is due to A.A. [[Howard]],[5] of
   Harvard University; it explains many passages in the classics which
   before were obscure (see AULOS). Plutarch relates[6] that Telephanes
   of Megara was so incensed with the syrinx that he never allowed his
   instrument-makers to place one on any of his auloi; he even went so
   far as to absent himself, principally on account of the syrinx, from
-  the Pythian games. Telephanes was a great virtuoso who scorned the use
+  the Pythian [[Games|games]]. Telephanes was a great virtuoso who scorned the use
   of a speaker-hole, being able to obtain his harmonics on the aulos by
   the mere control of lips and teeth.
 
@@ -167,7 +167,7 @@ with the shawm or schalmey of the middle ages.
   there would be but little difficulty; there are, however, practical
   reasons which make this a matter of great difficulty. According to V.
   Mahillon,[7] the theoretical length of a B flat clarinet (French pitch
-  diapason normal A = 435 vibrations), is 39 cm. when the internal
+  [[Diapason|diapason]] normal A = 435 vibrations), is 39 cm. when the internal
   diameter of the bore measures exactly 1.4 cm. Any increase in the
   diameter of the cylindrical bore for a given length of tube raises the
   pitch proportionally and in the same way a decrease lowers it. A bore
@@ -203,7 +203,7 @@ with the shawm or schalmey of the middle ages.
   scale produced when, starting with keys untouched and finger and
   thumb-holes closed, the fingers are raised one by one from the holes.
   In the B flat clarinet, the _real sounds_ thus produced are being part
-  of the scale of B flat major. By the closing of two _open_ keys, the
+  of the scale of B flat [[Major|major]]. By the closing of two _open_ keys, the
   lower E flat and D are added.
 
   The following are the various sizes of clarinets with the key proper
@@ -229,20 +229,20 @@ double reed, characteristic of the oboe family, being of simpler
 construction, was probably of still greater antiquity. An ancient
 Egyptian pipe found in a mummy-case and now preserved in the museum at
 Turin was found to contain a beating-reed sunk 3 in. below the end of
-the pipe, which is the principle of the drone. It would appear that the
+the pipe, which is the principle of the [[Drone|drone]]. It would appear that the
 double chalumeau, called arghoul (q.v.) by the modern Egyptians, was
 known in ancient Egypt, although it was not perhaps in common use. The
 Musée Guimet possesses a copy of a fresco from the tombs at Saqqarah
 (executed under the direction of Mariette Bey) assigned to the 4th or
-5th dynasty, on which is shown a concert with dancing; the instruments
-used are two harps, the long oblique flute "nay," blown from the end
+5th dynasty, on which is shown a [[Concert|concert]] with dancing; the instruments
+used are two harps, the long oblique [[Flute|flute]] "nay," blown from the end
 without any mouthpiece or embouchure, and an instrument identified as an
 arghoul[9] from its resemblance to the modern instrument of the same
 name. This is believed to be the only illustration of the ancient double
 chalumeau yet found in Egypt, with the single exception of a hieroglyph
 occurring also once only, i.e. the sign read _As-it_, consisting of a
 cylindrical pipe with a beak mouthpiece bound round with a cord tied in
-a bow. The bow is taken to indicate the double parallel pipes bound
+a [[Bow|bow]]. The bow is taken to indicate the double parallel pipes bound
 together; the same sign without the bow occurs frequently and is read
 _Ma-it_,[10] and is considered to be the generic name for reed wind
 instruments. The beating-reed was probably introduced into classic
@@ -265,15 +265,15 @@ a scene on Trajan's column.[12] It is probable that when, at the decline
 of the Roman empire, instrumental music was placed by the church under a
 ban--and the tibia more especially from its association with every form
 of licence and moral depravity--this instrument, sharing the common
-fate, survived chiefly among itinerant musicians who carried it into
+[[Fate|fate]], survived chiefly among itinerant musicians who carried it into
 western Europe, where it was preserved from complete extinction. An
 instrument of difficult technique requiring an advanced knowledge of
 acoustics was not, however, likely to flourish or even to be understood
-among nations whose culture was as yet in its infancy.
+among nations whose culture was as yet in its [[Infancy|infancy]].
 
 The tide of culture from the Byzantine empire filtered through to the
 south and west, leaving many traces; a fresh impetus was received from
-the east through the Arabs; and later, as a result of the Crusades, the
+the east through the [[Arabs]]; and later, as a result of the [[Crusades]], the
 prototype of the clarinet, together with the practical knowledge
 necessary for making the instrument and playing upon it, may have been
 re-introduced through any one or all of these sources. However this may
@@ -311,7 +311,7 @@ unmistakable drawing yet found of the single reed occurs in Mersenne's
 _Harmonie universelle_ (p. 282), where the primitive reed pipe is shown
 with the beating-reed detached from the tube of the instrument itself,
 by making a lateral slit and then splitting back a little tongue of reed
-towards a knot. Mersenne calls this the simplest form of chalumeau or
+towards a [[Knot|knot]]. Mersenne calls this the simplest form of chalumeau or
 wheat-stalk (_tuyau de blé_). It is evident that no significance was
 then attached to the form of the vibrating reed, whether single or
 double, for Mersenne and other writers of his time call the chaunters of
@@ -332,9 +332,9 @@ the instrument which has been looked upon as the chalumeau, there is but
 little trace in Germany or in France at the beginning of the 17th
 century. A chalumeau with beak mouthpiece and characteristic short
 cylindrical tube pierced with six holes figures among the musical
-instruments used for the triumphal procession of the emperor Maximilian
+instruments used for the triumphal procession of the emperor [[Maximilian]]
 I., commemorated by a fine series of plates,[15] engraved on wood by
-Hans Burgkmair, the friend and colleague of A. Dürer. On the same plate
+Hans [[Burgkmair]], the friend and colleague of A. Dürer. On the same plate
 (No. 79) are five schalmeys with double reeds and five chalumeaux with
 single-reed beak mouthpieces; the latter instruments were in all
 probability made in the Netherlands, which excelled from the 12th
@@ -349,8 +349,8 @@ Exhibition in London in 1890.[19] The tube is stopped at the mouthpiece
 end by a natural joint of the reed, and a tongue has been detached just
 under the joint; there are six finger-holes and one for the thumb. An
 instrument almost identical with the above, but with a rudimentary bell,
-and showing plainly the detached tongue, is figured by Jost Amman in
-1589.[20] A plate in Diderot and d'Alembert's _Encyclopédie_[21] shows a
+and showing plainly the detached tongue, is figured by [[Jost]] Amman in
+1589.[20] A plate in [[Diderot]] and d'Alembert's _Encyclopédie_[21] shows a
 less primitive instrument, outwardly cylindrical and having a separate
 mouthpiece joint and a clarinet reed but no keys. A chalumeau without
 keys, but consisting apparently of three joints--mouthpiece, main tube
@@ -423,7 +423,7 @@ Munich. Another in B flat marked Lindner[29] belongs to the collection
 at Brussels. About the middle of the 18th century, the number of keys
 was raised to five, some say[30] by Barthold Fritz of Brunswick
 (1697-1766), who added keys for C# and D#. [Illustration] According to
-Altenburg[31] the E flat or D# key is due to the virtuoso Joseph Beer
+Altenburg[31] the E flat or D# key is due to the virtuoso Joseph [[Beer]]
 (1744-1811). The sixth key was added about 1790 by the celebrated French
 virtuoso Xavier Lefébure (or Lefèvre), and produced G#. [Illustration]
 Anton Stadler and his brother, both clarinettists in the Vienna court
@@ -481,10 +481,10 @@ by Albert of Brussels (see fig. 1).
 
 The clarinet appears to have received appreciation in the Netherlands
 earlier than in its own native land. According to W. Altenburg (op. cit.
-p. 11),[33] a MS. is preserved in the cathedral at Antwerp of a mass
+p. 11),[33] a MS. is preserved in the cathedral at [[Antwerp]] of a mass
 written by A.J. Faber in 1720, which is scored for a clarinet. Johann
-Mattheson,[34] _Kapellmeister_ at Hamburg, mentions clarinet music in
-1713, although Handel, whose rival he was, does not appear to have known
+Mattheson,[34] _Kapellmeister_ at [[Hamburg]], mentions clarinet music in
+1713, although [[Handel]], whose rival he was, does not appear to have known
 the instrument. Joh. Christ. Bach scored for the clarinet in 1763 in his
 opera _Orione_ performed in London, and Rameau had already employed the
 instrument in 1751 in a theatre for his pastoral entitled _Acante et
@@ -505,13 +505,13 @@ bands is said to have had no less than twenty clarinets.
 FOOTNOTES:
 
   [1] See Gottfried Weber's objection to this derivation in "Über
-    Clarinette und Basset-horn," _Caecilia_ (Mainz, 1829), vol. xi. pp.
+    Clarinette und Basset-horn," _[[Caecilia]]_ ([[Mainz]], 1829), vol. xi. pp.
     36 and 37, note.
 
   [2] Nos. 3 and 4 are sometimes made in one, as for instance in Messrs
     Rudall, Carte & Company's modification, the Klussmann patent.
 
-  [3] Aristotle (_de Audib._ 802 b 18, and 804 a) and Porphyry (ed.
+  [3] [[Aristotle]] (_de Audib._ 802 b 18, and 804 a) and Porphyry (ed.
     Wallis, pp. 249 and 252) mention that if the performer presses the
     _zeuge_ (mouthpiece) or the _glottai_ (reeds) of the pipes, a sharper
     tone is produced.
@@ -521,17 +521,17 @@ FOOTNOTES:
     und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen
     der Akustik ..._ (Giessen, 1855), pp. 297 and 298.
 
-  [5] "The Aulos or Tibia," _Harvard Studies_, iv. (Boston, 1893).
+  [5] "The Aulos or Tibia," _Harvard Studies_, iv. ([[Boston]], 1893).
 
   [6] _De Musica_, 1138.
 
   [7] _Op. cit._ pp. 160 et seq.; and Wilhelm Altenburg, _Die
-    Klarinette_ (Heilbronn, 1904), p. 9, who refers to Mahillon.
+    Klarinette_ ([[Heilbronn]], 1904), p. 9, who refers to Mahillon.
 
   [8] See Macrobius, _Comm. in somnium Scipionis_, ii. 4. 5 "nec secus
     probamus in tibiis de quarum foraminibus vicinis inflantis ori sonus
     acutus emittitur, de longinquis autem et termino proximis, gravior:
-    item acutior per patentiora foramina, gravior per angusta."
+    [[Item|item]] acutior per patentiora foramina, gravior per angusta."
 
   [9] See Victor Loret, _L'Égypte au temps des Pharaons--la vie, le
     science, et l'art_ (Paris, 1889), illustration p. 139 and p. 143. The
@@ -547,7 +547,7 @@ FOOTNOTES:
     Studies_, vol. iv. (Boston, 1893); F.C. Gevaert, _Musique de
     l'antiquité_; Carl von Jan, article "Floete" in August Baumeister's
     _Denkmäler des klassischen Alterthums_ (Leipzig, 1884-1888), vol. i.;
-    Dr Hugo Riemann, _Handbuch der Musikgesch._ vol. i. p. 90, &c.
+    Dr [[Hugo]] Riemann, _Handbuch der Musikgesch._ vol. i. p. 90, &c.
     (Leipzig, 1904); all of whom have not come to the same conclusions.
 
   [12] Wilhelm Froehner, _La Colonne trajane_ (Paris, 1872), t. ii. pl.
@@ -555,7 +555,7 @@ FOOTNOTES:
 
   [13] "Aveuc aus ert vestus Guis
         Ki leur cante et Kalemele,
-        En la muse au grant bourdon."
+        En la muse au grant [[Bourdon|bourdon]]."
 
      J.A.U. Scheler's _Trouvères belges_.
 
@@ -567,7 +567,7 @@ FOOTNOTES:
   [15] The whole series of 135 plates has been reproduced in _Jahrb. d.
     Samml. des Alterh. Kaiserhauses_ (Vienna, 1883-1884).
 
-  [16] _Musica getutscht und auszgezogen_ (Basel, 1511).
+  [16] _Musica getutscht und auszgezogen_ ([[Basel]], 1511).
 
   [17] _Musica Instrumentalis Deudsch_ (Nuremberg, 1528 and 1545).
 
@@ -576,7 +576,7 @@ FOOTNOTES:
     f. Musikforschung in vols. xi., xx. and xiii. of _Publikationen_
     (Berlin).
 
-  [19] See _Descriptive Catalogue_, by Capt. C.R. Day (London, 1891),
+  [19] See _Descriptive [[Catalogue]]_, by Capt. C.R. Day (London, 1891),
     pl. iv. A and p. 110, No. 221.
 
   [20] _Wappenbuch_, p. 111, "Musica."
@@ -594,7 +594,7 @@ FOOTNOTES:
   [25] For a facsimile of one of the Pompeii tibiae, see Capt. C.R.
     Day, _op. cit._ pl. iv. C. and p. 109.
 
-  [26] _Catalogue descriptif_ (Ghent, 1896), vol. ii. p. 211, No. 911,
+  [26] _Catalogue descriptif_ ([[Ghent]], 1896), vol. ii. p. 211, No. 911,
     where an illustration is given. See also Capt. C.R. Day, _op. cit._
     pl. iv. B and _Errata_ where the description is printed.
 
@@ -606,14 +606,14 @@ FOOTNOTES:
   [29] See V. Mahillon, _Catal. descript._ (1896), p. 213, No. 913.
 
   [30] H. Welcker von Gontershausen, _Die musikalischen Tonwerk-zeuge_
-    (Frankfort-on-Main, 1855), p. 141.
+    ([[Frankfort-On-Main|Frankfort-on-Main]], 1855), p. 141.
 
   [31] Op. cit. p. 6.
 
   [32] See Capt. C.R. Day, op. cit. p. 106.
 
   [33] V. Mahillon, _Catal. desc._ (1880), p. 182, refers his statement
-    to the Chevalier L. de Burbure.
+    to the [[Chevalier]] L. de Burbure.
 
   [34] _Das neu-eröffnete Orchester_ (Hamburg, 1713).
 

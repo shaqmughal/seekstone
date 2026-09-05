@@ -6,7 +6,7 @@ topic: philosophy
 
 # Baalbek
 
-BAALBEK (anc. _Heliopolis_), a town of the Buka`a (Coelesyria), altitude
+BAALBEK (anc. _[[Heliopolis]]_), a town of the Buka`a (Coelesyria), altitude
 3850 ft., situated E. of the Litani and near the parting between its waters
 and those of the Asi. Pop. about 5000, including 2000 Metawali and 1000
 Christians (Maronite and Orthodox). Since 1902 Baalbek has been connected
@@ -29,19 +29,19 @@ Jupiter (Baal), identified with the Sun, with whom were associated Venus
 and Mercury as [Greek: sumbômoi theoi]. The lesser temple was built in
 honour of Bacchus (not the Sun, as formerly believed). Jupiter-Baal was
 represented locally as a beardless god in long scaly drapery, holding a
-whip in his right hand and lightning and ears of corn in his left. Two
-bulls supported him. In this guise he passed into European worship in the
+whip in his right hand and lightning and [[Ear|ears]] of corn in his left. Two
+[[Bull|bulls]] supported him. In this guise he passed into European worship in the
 3rd and 4th centuries A.D. The extreme licence of the Heliopolitan worship
 is often animadverted upon by early Christian writers, and Constantine,
 making an effort to curb the Venus cult, built a basilica. Theodosius
-erected another, with western apse, in the main court of the Jupiter
+erected another, with western [[Apse|apse]], in the main court of the Jupiter
 temple.
 
 When Abu Ubaida (or Obaida) attacked the place after the Moslem capture of
-Damascus (A.D. 635), it was still an opulent city and yielded a rich booty.
-It became a bone of contention between the various Syrian dynasties and the
+[[Damascus]] (A.D. 635), it was still an opulent city and yielded a rich booty.
+It became a [[Bone|bone]] of contention between the various Syrian dynasties and the
 caliphs first of Damascus, then of Egypt, and in 748 was sacked with great
-slaughter. In 1090 it passed to the Seljuks, and in 1134 to Jenghiz Khan;
+slaughter. In 1090 it passed to the Seljuks, and in 1134 to Jenghiz [[Khan]];
 but after 1145 it remained attached to Damascus and was captured by Saladin
 in 1175. The Crusaders raided its valley more than once, but never took the
 city. Three times shaken by earthquake in the 12th century, it was
@@ -99,8 +99,8 @@ projection of the Acropolis. It was much smaller than the Jupiter temple,
 but is better preserved. The steps of the E. approach were intact up to
 1688. The temple was peripteral with 46 columns in its peristyle. These
 were over 52 ft. in height and of the Corinthian order, and supported an
-entablature 7 ft. high with double frieze, connected with the cella walls
-by a coffered ceiling, which contained slabs with heads of gods and
+entablature 7 ft. high with double frieze, connected with the [[Cella|cella]] walls
+by a coffered [[Ceiling|ceiling]], which contained slabs with heads of gods and
 emperors. Richard Burton, when consul-general at Damascus in 1870, cleared
 an Arab screen out of the vestibule, and in consequence the exquisite
 doorway leading into the cella can now be well seen. On either side of it
@@ -119,7 +119,7 @@ the ground. They are the largest blocks known to have been used in actual
 construction, but are excelled by another block still attached to its bed
 in the quarries half a mile S.W. This is 68 ft. long by 14 ft. high and
 weighs about 1500 tons. For long these blocks were supposed, even by
-European visitors, to be relics of a primeval race of giant builders.
+European visitors, to be relics of a primeval race of [[Giant|giant]] builders.
 
 In the town, below the Acropolis, on the S.E. is a small temple of the late
 imperial age, consisting of a semicircular cella with a peristyle of eight

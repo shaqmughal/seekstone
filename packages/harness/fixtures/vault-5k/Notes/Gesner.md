@@ -19,8 +19,8 @@ classical authors.
   scholasticae_ (1726), afterwards continued under the title _Novus
   linguae et eruditionis Romanae thesaurus_ (1749); _Opuscula minora
   varii argumenti_ (1743-1745); _Thesaurus epistolicus Gesnerianus_ (ed.
-  Klotz, 1768-1770); _Index etymologicus latinitatis_ (1749). See J. A.
-  Ernesti, _Opuscula oratoria_ (1762), p. 305; H. Sauppe, _Gottinger
+  [[Klotz]], 1768-1770); _[[Index]] etymologicus latinitatis_ (1749). See J. A.
+  [[Ernesti]], _Opuscula oratoria_ (1762), p. 305; H. Sauppe, _Gottinger
   Professoren_ (1872); C. H. Pohnert, _J. M. Gesner und sein Verhaltnis
   zum Philanthropinismus und Neuhumanismus_ (1898), a contribution to
   the history of pedagogy in the 18th century; articles by F. A.
@@ -37,7 +37,7 @@ he was educated in that town, but fell into great need after the death
 of his father at the battle of Kappel (1531). He had good friends,
 however, in his old master, Myconius, and subsequently in Heinrich
 Bullinger, and he was enabled to continue his studies at the
-universities of Strassburg and Bourges (1532-1533); he found also a
+universities of Strassburg and [[Bourges]] (1532-1533); he found also a
 generous patron in Paris (1534), in the person of Joh. Steiger of Berne.
 In 1535 the religious troubles drove him back to Zurich, where he made
 an imprudent marriage. His friends again came to his aid, enabled him to

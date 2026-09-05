@@ -1,15 +1,15 @@
 # Grimthorpe
 
 GRIMTHORPE, EDMUND BECKETT, 1ST BARON (1816-1905), son of Sir Edmund
-Beckett Denison, was born on the 12th of May 1816. He was educated at
-Doncaster and Eton, whence he proceeded to Trinity College, Cambridge,
+Beckett [[Denison]], was born on the 12th of May 1816. He was educated at
+[[Doncaster]] and [[Eton]], whence he proceeded to Trinity College, Cambridge,
 and graduated thirtieth wrangler in 1838. He was called to the bar at
 Lincoln's Inn in 1841. Upon succeeding to the baronetcy in 1874 he
 dropped the name of Denison, which his father had assumed in 1816. From
 1877 to 1900 he was chancellor and vicar-general of York, and he was
 raised to the peerage in 1886. He was made a Q.C. in 1854, and was for
 many years a leader of the Parliamentary Bar. He devoted himself to the
-study of astronomy, horology and architecture, more especially Gothic
+study of [[Astronomy|astronomy]], horology and architecture, more especially [[Gothic]]
 ecclesiastical architecture. As early as 1850 he had become a recognized
 authority on clocks, watches and bells, and in particular on the
 construction of turret clocks, for he had designed Dent's Great
@@ -17,7 +17,7 @@ Exhibition clock, and his _Rudimentary Treatise_ had gone through many
 editions. In 1851 he was called upon, in conjunction with the astronomer
 royal (Mr, afterwards Sir, G. B. Airy) and Mr Dent, to design a suitable
 clock for the new Houses of Parliament. The present tower clock,
-popularly known as "Big Ben," was constructed after Lord Grimthorpe's
+popularly known as "Big [[Ben]]," was constructed after Lord Grimthorpe's
 designs. In a number of burning questions during his time Lord
 Grimthorpe took a prominent part. It is, however, in connexion with the
 restoration of St Albans Abbey that he is most widely known. The St

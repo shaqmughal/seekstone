@@ -1,10 +1,10 @@
 # Jacquard
 
-JACQUARD, JOSEPH MARIE (1752-1834), French inventor, was born at Lyons
+JACQUARD, JOSEPH MARIE (1752-1834), French inventor, was born at [[Lyons]]
 on the 7th of July 1752. On the death of his father, who was a working
-weaver, he inherited two looms, with which he started business on his
+weaver, he inherited two [[Loom|looms]], with which he started business on his
 own account. He did not, however, prosper, and was at last forced to
-become a lime-burner at Bresse, while his wife supported herself at
+become a lime-burner at [[Bresse]], while his wife supported herself at
 Lyons by plaiting straw. In 1793 he took part in the unsuccessful
 defence of Lyons against the troops of the Convention; but afterwards
 served in their ranks on the Rhône and Loire. After seeing some active
@@ -21,7 +21,7 @@ silk-weavers, who feared that its introduction, owing to the saving of
 labour, would deprive them of their livelihood, its advantages secured
 its general adoption, and by 1812 there were 11,000 Jacquard looms in
 use in France. The loom was declared public property in 1806, and
-Jacquard was rewarded with a pension and a royalty on each machine. He
+Jacquard was rewarded with a pension and a royalty on each [[Machine|machine]]. He
 died at Oullins (Rhône) on the 7th of August 1834, and six years later a
 statue was erected to him at Lyons (see WEAVING).
 

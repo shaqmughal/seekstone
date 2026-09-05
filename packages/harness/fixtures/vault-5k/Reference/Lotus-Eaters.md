@@ -15,7 +15,7 @@ Lotophagi, many of his sailors after eating the lotus lost all wish to
 return home. Both Greeks and Romans used the expression "to eat the
 lotus" to denote forgetfulness (cf. Tennyson's poem "The Lotus-Eaters").
 
-  There has been considerable discussion as to the identification of the
+  There has been considerable discussion as to the [[Identification|identification]] of the
   Homeric lotus. Some have held that it is a prickly shrub, Zizyphus
   Lotus, which bears a sweet-tasting fruit, and still grows in the old
   home of the Lotophagi. It is eaten by the natives, who also make a

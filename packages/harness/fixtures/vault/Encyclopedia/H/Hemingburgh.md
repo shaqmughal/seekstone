@@ -12,10 +12,10 @@ which it was proposed to describe the battle of Crecy (1346); but the
 chronicler seems to have died before the required information reached
 him. There is, however, some controversy as to whether the later
 portions which are lacking in some of the MSS. are by him. In compiling
-the first part, Hemingburgh apparently used the histories of Eadmer,
-Hoveden, Henry of Huntingdon, and William of Newburgh; but the reigns of
+the first part, Hemingburgh apparently used the histories of [[Eadmer]],
+Hoveden, [[Henry Of Huntingdon|Henry of Huntingdon]], and William of Newburgh; but the reigns of
 the three Edwards are original, composed from personal observation and
-information. There are several manuscripts of the history extant--the
+information. There are several [[Manuscript|manuscripts]] of the history extant--the
 best perhaps being that presented to the College of Arms by the earl of
 Arundel. The work is correct and judicious, and written in a pleasing
 style. One of its special features is the preservation in its pages of
@@ -23,7 +23,7 @@ copies of the great charters, and Hemingburgh's versions have more than
 once supplied deficiencies and cleared up obscurities in copies from
 other sources.
 
-  The first three books were published by Thomas Gale in 1687, in his
+  The first three books were published by Thomas [[Gale]] in 1687, in his
   _Historiae Anglicanae scriptores quinque_, and the remainder by Thomas
   Hearne in 1731. The first portion was again published in 1848 by the
   English Historical Society, under the title _Chronicon Walteri de

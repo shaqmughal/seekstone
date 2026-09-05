@@ -4,7 +4,7 @@ ANTIOQUIA, an interior department of the republic of Colombia, lying S.
 of Bolivar, W. of the Magdalena river, and E. of Cauca. Area, 22,870 sq.
 m.; pop. (est. 1899) 464,887. The greater part of its territory lies
 between the Magdalena and Cauca rivers and includes the northern end of
-the Central Cordillera. The country is covered with valuable forests,
+the Central [[Cordillera]]. The country is covered with valuable forests,
 and its mineral wealth renders it one of the most important mining
 regions of the republic. The capital, Medellin (est. pop. 53,000 in
 1902), is a thriving mining centre, 4822 ft. above sea-level, and 125 m.

@@ -18,7 +18,7 @@ he had sailed on the Red Sea and the Indian Ocean, visiting Abyssinia
 and Socotra and apparently also the Persian Gulf, western India and
 Ceylon. He subsequently became a monk, and about 548, in the retirement
 of a Sinai cloister, wrote a work called _Topographia Christiana_. Its
-chief object is to denounce the false and heathen doctrine of the
+chief object is to denounce the false and [[Heathen|heathen]] doctrine of the
 rotundity of the earth, and to vindicate the scriptural account of the
 world. Photius, who had read it, calls it a "commentary on the
 Octateuch" (meaning the eight books of Ptolemy's great geographical
@@ -31,14 +31,14 @@ north--round the summit in summer, round the base in winter, which
 accounts for the difference in the length of the day. Cosmas is supposed
 by some to have been a Nestorian. Although not to be commended from a
 theological standpoint, the _Topographia_ contains some curious
-information. Especially to be noticed is the description of a marble
+information. Especially to be noticed is the description of a [[Marble|marble]]
 seat discovered by him at Adulis (Zula) in Abyssinia, with two
 inscriptions recounting the heroic deeds and military successes of
 Ptolemy Euergetes and an Axumitic king. It also contains in all
-probability the oldest Christian maps. From allusions in the
+probability the oldest Christian [[Map|maps]]. From allusions in the
 _Topographia_ Cosmas seems to have been the author of a larger
 cosmography, a treatise on the motions of the stars, and commentaries on
-the Psalms and Canticles. Photius (_Cod._ 36) speaks contemptuously of
+the Psalms and Canticles. Photius (_[[Cod]]._ 36) speaks contemptuously of
 the style and language of Cosmas, and throws doubt upon his
 truthfulness. But the author himself expressly disclaims any claims to
 literary elegance, which in fact he considers unsuited to a Christian
@@ -49,7 +49,7 @@ by later travellers.
   lxxxviii.; an edition by G. Siefert is promised in the Teubner series.
   See H. Gelzer, "Kosmas der Indienfahrer," in _Jahrbücher für
   protestantische Theologie_, ix. (1883) and C. R. Beazley, _The Dawn of
-  Modern Geography_, i. (1897). There is an English translation, with
+  Modern [[Geography]]_, i. (1897). There is an English translation, with
   introduction and notes, by J. W. McCrindle (1897), published by the
   Hakluyt society.
 

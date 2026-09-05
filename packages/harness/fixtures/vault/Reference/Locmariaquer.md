@@ -1,7 +1,7 @@
 # Locmariaquer
 
 LOCMARIAQUER, a village of western France, on the W. shore of the Gulf
-of Morbihan, in the department of Morbihan, 8½ m. S. of Auray by road.
+of Morbihan, in the department of Morbihan, 8½ m. S. of [[Auray]] by road.
 Pop. (1906) 756. Locmariaquer has a small port, and oyster culture is
 carried on close to it. Roman remains are to be seen, but the place owes
 its celebrity to the megalithic monuments in the vicinity, some of which

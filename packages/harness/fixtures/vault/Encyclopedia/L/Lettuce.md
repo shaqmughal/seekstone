@@ -6,10 +6,10 @@ topic: biology
 
 # Lettuce
 
-LETTUCE, known botanically as _Lactuca sativa_ (nat. ord. Compositae), a
+LETTUCE, known botanically as _Lactuca sativa_ (nat. ord. [[Compositae]]), a
 hardy annual, highly esteemed as a salad plant. The London
 market-gardeners make preparation for the first main crop of Cos
-lettuces in the open ground early in August, a frame being set on a
+lettuces in the open ground early in August, a [[Frame|frame]] being set on a
 shallow hotbed, and, the stimulus of heat not being required, this is
 allowed to subside till the first week in October, when the soil,
 consisting of leaf-mould mixed with a little sand, is put on 6 or 7 in.
@@ -24,18 +24,18 @@ encouraged, and in mild winters a considerable extent of the planting
 out is done, but in private gardens the preferable time would be
 February. The ground should be light and rich, and well manured below,
 and the plants put out at 1 ft. apart each way with the dibble. Frequent
-stirring of the ground with the hoe greatly encourages the growth of the
+stirring of the ground with the [[Hoe|hoe]] greatly encourages the growth of the
 plants. A second sowing should be made about the 5th of November, and a
 third in frames about the end of January or beginning of February. In
 March a sowing may be made in some warm situation out of doors;
 successional sowings may be made in the open border about every third or
 fourth week till August, about the middle of which month a crop of Brown
-Cos, Hardy Hammersmith or Hardy White Cos should be sown, the latter
+Cos, Hardy [[Hammersmith]] or Hardy White Cos should be sown, the latter
 being the most reliable in a severe winter. These plants may be put out
 early in October on the sides of ridges facing the south or at the front
 of a south wall, beyond the reach of drops from the copings, being
 planted 6 or 8 in. apart. Young lettuce plants should be thinned out in
-the seed-beds before they crowd or draw each other, and transplanted as
+the seed-beds before they [[Crowd|crowd]] or draw each other, and transplanted as
 soon as possible after two or three leaves are formed. Some cultivators
 prefer that the summer crops should not be transplanted, but sown where
 they are to stand, the plants being merely thinned out; but
@@ -48,11 +48,11 @@ should be sown about the middle of August and in the beginning of
 September, in rich light soil, the plants being pricked out 3 in. apart
 in a prepared bed, as soon as the first two leaves are fully formed.
 About the middle of October the plants should be taken up carefully with
-balls attached to the roots, and should be placed in a mild hotbed of
+[[Ball|balls]] attached to the roots, and should be placed in a mild hotbed of
 well-prepared dung (about 55°) covered about 1 ft. deep with a compost
 of sandy peat, leaf-mould and a little well-decomposed manure. The Cos
 and Brown Dutch varieties should be planted about 9 in. apart. Give
-plenty of air when the weather permits, and protect from frost. For
+plenty of air when the weather permits, and protect from [[Frost|frost]]. For
 winter work Stanstead Park Cabbage Lettuce is greatly favoured now by
 London market-gardeners, as it stands the winter well. Lee's Immense is
 another good variety, while All the Year Round may be sown for almost

@@ -20,7 +20,7 @@ the Rhizopoda; but was separated from it by Haeckel on account of the
 character of its pseudopods, and its general adaptation to a semipelagic
 existence correlated with the frothy cytoplasm (fig. 1 (1)).
 _Actinophrys sol_ and _Actinosphaerium eichhornii_ (fig. 2), known as
-sun animalcules to the older microscopists, float freely in stagnant or
+sun animalcules to the older microscopists, [[Float|float]] freely in stagnant or
 slow-flowing waters, and _Myriophrys_ is able by an investment of long
 flagelliform cilia to swim freely. The majority, however, lurk among
 confervae or the light debris of the bottom ooze; and come under the
@@ -53,7 +53,7 @@ _Raphidiophrys pallida_, F. E. Schultze. a, food-particle; b,
 contractile vacuole; c, the nucleus; d, central granule in which all the
 axis-filaments of the pseudopodia meet. The tangentially disposed
 spicules are seen arranged in masses on the surface. 5. _Acanthocystis
-turfacea_, Carter. a, probably the central nucleus; b, clear protoplasm
+turfacea_, [[Carter]]. a, probably the central nucleus; b, clear protoplasm
 around the nucleus; c, more superficial protoplasm with vacuoles and
 chlorophyll corpuscles; d, coarser siliceous spicules; e, finer forked
 siliceous spicules; f, finely granular layer of protoplasm. The long
@@ -71,7 +71,7 @@ pseudopods, whether into social aggregates (due to approximation) or
 "colonies" due to lack of separation after fission, is not accurately
 known. The multinuclear species _Actinosphaerium eichhornii_ (fig. 2),
 normally apocytial (i.e. the nuclei divide repeatedly without division
-of the cytoplasm), may increase in size by the fusion ("plastogamic")
+of the cytoplasm), may increase in size by the [[Fusion|fusion]] ("plastogamic")
 of small individuals. If a large specimen be cut up or fragment itself
 under irritation, the small ones so produced soon approach one another
 and fuse completely.
@@ -116,7 +116,7 @@ coat of the spore.]
   and are surrounded by a common cyst wall. The nucleus of either male
   divides; and one nucleus passes to the surface at either side, and is
   budded off with a small portion of the cytoplasm as an abortive cell;
-  the two remaining nuclei which are "first cousins" in cellular
+  the two remaining nuclei which are "first [[Cousin|cousins]]" in cellular
   relationship now fuse, as is the case with the cytoplasts. The
   resulting coupled cell or zygote divides into two, which again encyst.
 
@@ -142,7 +142,7 @@ coat of the spore.]
   brood of young 1-nuclear _Actinosphaerium_ leave the cyst.
 
 
-  _Classification._
+  _[[Classification]]._
 
   Aphrothoraca. Body naked. Actinophrys Ehrb. (fig. 1 (1)) (nucleate),
   Actinosphaerium Stein plurinucleate (fig. 2 (1)), Camptonema
@@ -175,7 +175,7 @@ coat of the spore.]
   ix.-xi. (1869-1871), and "Resume of Recent Contributions to the
   Knowledge of Freshwater Rhizopods," _ibid._ xvi., xvii. (1876-1877).
   See also R. Hertwig and Lesser, "Uber Rhizopoda und denselben
-  nahestehenden Organismen," in _Archiv fur mikroscopische Anatomie_, x.
+  nahestehenden Organismen," in _Archiv [[Fur|fur]] mikroscopische Anatomie_, x.
   (1874), p. 35; R. Schaudinn, "Heliozoa" in _Tierreich_ (1896); E.
   Penard, _Les Heliozoaires d'eau douce_ (1904); the two last named
   contain full bibliographies.     (M. Ha.)

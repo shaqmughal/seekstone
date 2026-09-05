@@ -1,11 +1,11 @@
 # Grouchy
 
-GROUCHY, EMMANUEL, MARQUIS DE (1766-1847), marshal of France, was born
+GROUCHY, [[Emmanuel|EMMANUEL]], MARQUIS DE (1766-1847), marshal of France, was born
 in Paris on the 23rd of October 1766. He entered the French artillery in
-1779, transferred to the cavalry in 1782, and to the _Gardes du corps_
+1779, transferred to the [[Cavalry|cavalry]] in 1782, and to the _Gardes du [[Corps|corps]]_
 in 1786. In spite of his aristocratic birth and his connexions with the
 court, he was a convinced supporter of the principles of the Revolution,
-and had in consequence to leave the Guards. About the time of the
+and had in consequence to leave the [[Guards]]. About the time of the
 outbreak of war in 1792 he became colonel of a cavalry regiment, and
 soon afterwards, as a _marechal de camp_, he was sent to serve on the
 south-eastern frontier. In 1793 he distinguished himself in La Vendee,
@@ -15,7 +15,7 @@ placed on the active list. He served on the staff of the Army of Ireland
 (1796-1797), and took a conspicuous part in the Irish expedition. In
 1798 he administered the civil and military government of Piedmont at
 the time of the abdication of the king of Sardinia, and in 1799 he
-distinguished himself greatly as a divisional commander in the campaign
+distinguished himself greatly as a divisional [[Commander|commander]] in the campaign
 against the Austrians and Russians. In covering the retreat of the
 French after the defeat of Novi, Grouchy received fourteen wounds and
 was taken prisoner. On his release he returned to France. In spite of
@@ -54,13 +54,13 @@ and retired, swiftly and unbroken, to Paris, where, after interposing
 his reorganized forces between the enemy and the capital, he resigned
 his command into the hands of Marshal Davout. The rest of his life was
 spent in defending himself. An attempt to have him condemned to death by
-a court-martial failed, but he was exiled and lived in America till
+a [[Court-Martial|court-martial]] failed, but he was exiled and lived in America till
 amnestied in 1821. On his return to France he was reinstated as general,
 but not as marshal nor as peer of France. For many years thereafter he
 was equally an object of aversion to the court party, as a member of
-their own caste who had followed the Revolution and Napoleon, and to his
+their own [[Caste|caste]] who had followed the Revolution and Napoleon, and to his
 comrades of the Grand Army as the supposed betrayer of Napoleon. In 1830
-Louis Philippe gave him back the marshal's baton and restored him to the
+Louis Philippe gave him back the marshal's [[Baton|baton]] and restored him to the
 Chamber of Peers. He died at St-Etienne on the 29th of May 1847.
 
   See Marquis de Grouchy, _Memoires du marechal Marquis de Grouchy_
@@ -71,11 +71,11 @@ Chamber of Peers. He died at St-Etienne on the 29th of May 1847.
   faits ... du 28 juin au 3 juillet, 1815_ (Paris, 1866); and the
   literature of the Waterloo campaign. Marshal Grouchy himself wrote the
   following: _Observations sur la relation de la campagne de 1815 par le
-  general de Gourgaud_ (Philadelphia and Paris, 1818); _Refutation de
+  general de [[Gourgaud]]_ (Philadelphia and Paris, 1818); _Refutation de
   quelques articles des memoires de M. le Duc de Rovigo_ (Paris, 1829);
   _Fragments historiques relatifs a la campagne et a la bataille de
   Waterloo_ (Paris, 1829-1830, in reply to Barthelemy and Mery, and to
-  Marshal Gerard); _Reclamation du marechal de Grouchy_ (Paris, 1834);
+  Marshal [[Gerard]]); _Reclamation du marechal de Grouchy_ (Paris, 1834);
   _Plainte contre le general Baron Berthezene_ (Berthezene, formerly a
   divisional commander under Gerard, stated in reply to this defence
   that he had no intention of accusing Grouchy of ill faith).

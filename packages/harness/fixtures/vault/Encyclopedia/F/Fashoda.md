@@ -9,15 +9,15 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fashoda"
 
 FASHODA (renamed, 1904, KODOK), a post on the west bank of the Upper
 Nile, Anglo-Egyptian Sudan, in 9 deg. 53' N., 32 deg. 8' E., 459 m. S.,
-by river, of Khartum. It is the headquarters of the mudiria (province)
+by river, of [[Khartum]]. It is the headquarters of the mudiria (province)
 of the Upper Nile. The station is built on a flat peninsula connected by
 a narrow strip of land with a ridge which runs parallel with the river.
 The surrounding country is mostly deep swamp and the station is most
 unhealthy; mosquitoes are present in millions. The climate is always
 damp and the temperature rarely below 98 deg. in the shade. The
-government offices are well-built brick structures. In front of the
+government offices are well-built [[Brick|brick]] structures. In front of the
 station is a long low island, and when the Nile is at its lowest this
-channel becomes dry. Several roads from Kordofan converge on the Nile at
+channel becomes dry. Several roads from [[Kordofan]] converge on the Nile at
 this point, and near the station is the residence of the _mek_, or king,
 of the Shilluk tribe, whose designation of the post was adopted when it
 was decided to abandon the use of Fashoda. At Lul, 18 m. farther up

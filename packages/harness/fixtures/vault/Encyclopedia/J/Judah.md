@@ -18,49 +18,49 @@ strategically important valley dividing the central mountains from the
 lowland, and with the most desolate of tracts to the east (by the Dead
 Sea) and south. Some parts, especially around Hebron, are extremely
 fertile, but the land as a whole has the characteristics of the southern
-wilderness--the so-called "desert" is not a sterile Sahara--and was more
+wilderness--the so-called "[[Desert|desert]]" is not a sterile Sahara--and was more
 fitted for pastoral occupations; see further G. A. Smith, _Hist. Geog.
 Holy Land_, chs. x.-xv. Life in ancient Judah is frequently depicted in
 the Bible, but much of the Judaean history is obscure. In the days of
 the old Hebrew monarchy there were periods of conflict and rivalry
 between Judah and Israel--even times when the latter incorporated, or at
 least claimed supremacy over, the former. Later, from the 5th century
-B.C. there was a breach between the Jews (the name is derived from
+B.C. there was a [[Breach|breach]] between the Jews (the name is derived from
 Judah) and the Samaritans (q.v.). The intervening years after the fall
 of Samaria (722 B.C.), and after the destruction of Jerusalem (586
 B.C.), were probably marked by closer intercourse, similar to the period
 of union in the popular traditions relating to the pre-monarchical age.
 The course of Judaean history was conditioned, also, by the proximity of
-the Philistines in the west, Moab in the east, and by Edom and other
-southern peoples extending from North Arabia to the delta of the Nile.
+the Philistines in the west, Moab in the east, and by [[Edom]] and other
+southern peoples extending from North Arabia to the [[Delta|delta]] of the Nile.
 Judah's stormy history, continued under Greek and Roman domination,
-reached its climax in the birth of Christianity, and ended with the fall
+reached its [[Climax|climax]] in the birth of Christianity, and ended with the fall
 of Jerusalem in A.D. 70 (see JEWS, PALESTINE).
 
   In conformity with ancient methods of genealogy (q.v.), Judah is
-  traced back to a son of Jacob or Israel by Leah and along with other
-  "tribes" (Dan, Levi, Simeon, &c.) is included under the collective
+  traced back to a son of [[Jacob]] or Israel by Leah and along with other
+  "tribes" (Dan, [[Levi]], Simeon, &c.) is included under the collective
   term Israel. Thus it shares the general traditions of the Israelites,
   although Judah appears as an individual in the story of his "brother"
-  Joseph (on ch. xxxvii. seq., see GENESIS). Its boundaries in Joshua
+  Joseph (on ch. xxxvii. seq., see [[Genesis|GENESIS]]). Its boundaries in [[Joshua]]
   xv. are manifestly artificial or imaginary; they include the
   Philistines and number places which are elsewhere ascribed to Simeon
   or Dan. The origin of the name (_Yehudah_) is quite uncertain; the
   interpretation "praised" is suggested in Gen. xxix. 35 (cf; xlix. 8
   seq.), but some connexion with allied names, as Yehud (Yahudiya, E. of
-  Jaffa), or Ehud (a Benjamite clan) seems more probable. That Judah,
+  Jaffa), or Ehud (a Benjamite [[Clan|clan]]) seems more probable. That Judah,
   whatever its original connotation, underwent development through the
   incorporation of other clans appears from 1 Chron. ii., iv., where it
   is found to contain a large element of non-Israelite population whose
   names find analogies or parallels in Simeonite, Edomite and other
   southern lists.[1] Indeed, underlying the account of the Israelite
-  exodus (q.v.) there are traces of a separate movement of certain
+  [[Exodus|exodus]] (q.v.) there are traces of a separate movement of certain
   clans--apart from the Israelite invasion of Palestine--who are
   ultimately found in the south of Judah; and the traditions in
   Chronicles themselves allow the view that the incorporation of these
   elements began under David, when Judah first occupies a prominent
-  position in biblical history (cf. Cheyne, _Ency. Bib._, col. 2618
-  seq., and see CALEB, JERAHMEEL, KENITES). But such movements were not
+  position in biblical history (cf. [[Cheyne]], _Ency. Bib._, col. 2618
+  seq., and see CALEB, [[Jerahmeel|JERAHMEEL]], [[Kenites|KENITES]]). But such movements were not
   necessarily limited to one single period, and the evidence connecting
   (a) the non-Israelite clans of Judah with Levites, and (b) both with
   the south, is found in narratives referring to several different ages
@@ -91,7 +91,7 @@ of Jerusalem in A.D. 70 (see JEWS, PALESTINE).
   extension of the name Samaria from the city to the province. The
   location of Yehud and Ehud in the light of 1 Kings iv. 8-19 (perhaps
   the subdivisions of the Israelite kingdom, see SOLOMON), would
-  necessitate the assumption of a violent separation from the north;
+  necessitate the [[Assumption|assumption]] of a violent separation from the north;
   this, however, is quite conceivable (see JEWS, §§ 11-13). On the
   bearing of South Judah upon the historical criticism of the Old
   Testament, see especially N. Schmidt, _Hibbert Journal_ (1908), pp.
@@ -107,7 +107,7 @@ FOOTNOTES:
     _Ency. Bib._, and E. Meyer, _Die Israeliten u. ihre Nachbarstämme_,
     pp. 299-471 (much valuable matter).
 
-  [2] For the principle of the Levirate illustrated in Gen. xxxviii.,
+  [2] For the principle of the [[Levirate]] illustrated in Gen. xxxviii.,
     see RUTH. Lagarde (_Orientalia_, ii.) ingeniously conjectured that
     the chapter typified the suppression of Phoenician (viz. Tamar, the
     date-palm) and the old Canaanite elements (Zerah = _indigena_) by the

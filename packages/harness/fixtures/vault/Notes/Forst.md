@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Forst"
 # Forst
 
 FORST (originally FORSTA or FORSTE), a town of Germany, in the Prussian
-province of Brandenburg, on the Neisse, 44 m. S.E. of Frankfort-on-Oder.
+province of Brandenburg, on the Neisse, 44 m. S.E. of [[Frankfort-On-Oder|Frankfort-on-Oder]].
 Pop. (1905) 33,757. It has two Evangelical, a Roman Catholic and an Old
 Lutheran church; there are two schools and two hospitals in the town.
 The chief industry of Forst is the manufacture of cloth, but spinning,

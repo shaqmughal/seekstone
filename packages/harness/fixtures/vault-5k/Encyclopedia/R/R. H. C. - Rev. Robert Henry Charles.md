@@ -7,9 +7,9 @@ topic: philosophy
 # R. H. C. - Rev. Robert Henry Charles
 
 R. H. C. - REV. ROBERT HENRY CHARLES, M.A., D.D., LITT.D. (Oxon.).
-Grinfield Lecturer and Lecturer in Biblical Studies, Oxford. Fellow of the
+Grinfield Lecturer and Lecturer in Biblical Studies, Oxford. [[Fellow]] of the
 British Academy. Formerly Senior Moderator of Trinity College, Dublin.
-Author and Editor of _Book of Enoch_; _Book of Jubilees_; _Apocalypse of
+Author and Editor of _Book of [[Enoch]]_; _Book of Jubilees_; _Apocalypse of
 Baruch_; _Assumption of Moses_; _Ascension of Isaiah_; _Testaments of XII.
 Patriarchs_; &c.
 

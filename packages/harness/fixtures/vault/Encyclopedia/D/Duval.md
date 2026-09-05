@@ -1,6 +1,6 @@
 # Duval
 
-DUVAL, CLAUDE (1643-1670), a famous highwayman, was born at Domfront,
+DUVAL, [[Claude|CLAUDE]] (1643-1670), a famous highwayman, was born at Domfront,
 Normandy, in 1643. Having entered domestic service in Paris, he came to
 England at the time of the Restoration in attendance on the duke of
 Richmond, and soon became a highwayman notorious for the daring of his
@@ -14,7 +14,7 @@ Covent Garden church, under a stone with the following epitaph:--
    Look to thy purse: if female to thy heart."
 
 A full account of his adventures, ascribed to William Pope, was
-reprinted in the _Harleian Miscellany_, and Samuel Butler published a
+reprinted in the _Harleian Miscellany_, and Samuel [[Butler]] published a
 satirical ode _To the Happy Memory of the Most Renowned Du Val_.
 
 ## See also

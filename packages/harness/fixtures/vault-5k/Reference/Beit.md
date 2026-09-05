@@ -6,7 +6,7 @@ commercial education at home, was sent out to Kimberley, South Africa,
 to investigate the diamond prospects. He had relatives, the Lipperts,
 out there in business, and in conjunction with Mr (afterwards Sir)
 Julius Wernher (b. 1850) he rapidly acquired a leading position on the
-diamond fields, and became closely allied with the ideals of Cecil
+diamond fields, and became closely allied with the ideals of [[Cecil]]
 Rhodes (q.v.). In 1889 Rhodes and Beit effected the amalgamation of
 various interests in the De Beers Consolidated Mines Limited. It was
 largely owing to the capital and enterprise of Beit that the deep-level
@@ -19,7 +19,7 @@ developing the diamond and gold output made Beit a man of enormous
 wealth, and he utilized it lavishly in pursuit of Rhodes's South African
 policy. He was one of the original directors of the British South Africa
 company, and was included with Rhodes in the censure passed by the House
-of Commons Commission of Inquiry on the Jameson Raid (1896). He was
+of Commons Commission of Inquiry on the [[Jameson]] Raid (1896). He was
 subsequently one of Rhodes's trustees. Personally of a modest, gentle,
 generous and retiring disposition, and strongly imbued with Rhodes's
 ideas of British imperialism, he was one of the South African
@@ -31,7 +31,7 @@ Horse and Imperial Yeomanry in the South African War of 1899-1902, and
 his endowment of the professorship of colonial history at Oxford (1905).
 He gave L100,000 to establish a university in his native city of Hamburg
 and L200,000 for a university in Johannesburg. He built a fine house in
-Park Lane, London, but was never prominent in social life. He died,
+Park [[Lane]], London, but was never prominent in social life. He died,
 unmarried, on the 16th of July 1906.
 
 ## References

@@ -12,18 +12,18 @@ Spanish art colony in Rome, where he practised as painter and sculptor.
 
 
 
-BEN LOMOND, a mountain in the north-west of Stirlingshire, Scotland. It
-is situated near the eastern bank of Loch Lomond, about 9 m. from the
+[[Ben|BEN]] [[Lomond|LOMOND]], a mountain in the north-west of Stirlingshire, Scotland. It
+is situated near the eastern bank of [[Loch]] Lomond, about 9 m. from the
 head and about 15 from the foot. It is 3192 ft. high, and the prevailing
-rocks are granite, mica schist, diorite, porphyry and quartzite, the
+rocks are granite, mica schist, [[Diorite|diorite]], porphyry and quartzite, the
 last, where it crops out on the surface, gleaming in the distance like
 snow. Duchray Water, a head-stream of the Forth, rises in the north-east
 shoulder. The hill, which is covered with grass to the top, is a
 favourite climb, being ascended from Rowardennan (the easiest) or
 Inversnaid on the lake, or Aberfoyle 10 m. inland due east. The view
-from the summit extends northward as far as the Grampians, with
-occasional glimpses of Ben Nevis; westward to Jura in the Atlantic;
-south-westward to Arran in the Firth of Clyde; southward to Tinto Hill,
+from the summit extends northward as far as the [[Grampians]], with
+occasional glimpses of Ben Nevis; westward to [[Jura]] in the Atlantic;
+south-westward to [[Arran]] in the Firth of [[Clyde]]; southward to Tinto Hill,
 the Lowthers and Cairnsmore; and eastward to Edinburgh Castle and
 Arthur's Seat.
 

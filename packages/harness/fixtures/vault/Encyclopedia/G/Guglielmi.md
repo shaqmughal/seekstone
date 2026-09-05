@@ -1,12 +1,12 @@
 # Guglielmi
 
-GUGLIELMI, PIETRO (1727-1804), Italian composer, was born at Massa
+GUGLIELMI, PIETRO (1727-1804), Italian composer, was born at [[Massa]]
 Carrara in May 1727, and died in Rome on the 19th of November 1804. He
 received his first musical education from his father, and afterwards
-studied under Durante at the Conservatorio di Santa Maria di Loreto at
+studied under [[Durante]] at the Conservatorio di Santa Maria di Loreto at
 Naples. His first operatic work, produced at Turin in 1755, established
 his reputation, and soon his fame spread beyond the limits of his own
-country, so that in 1762 he was called to Dresden to conduct the opera
+country, so that in 1762 he was called to [[Dresden]] to conduct the opera
 there. He remained for some years in Germany, where his works met with
 much success, but the greatest triumphs were reserved for him in
 England. He went to London, according to Burney, in 1768, but according
@@ -15,7 +15,7 @@ produce operas at an astounding rate, but was unable to compete
 successfully with the younger masters of the day. In 1793 he became
 _maestro di cappella_ at St Peter's, Rome. He was a very prolific
 composer of Italian comic opera, and there is in most of his scores a
-vein of humour and natural gaiety not surpassed by Cimarosa himself. In
+vein of [[Humour|humour]] and natural gaiety not surpassed by Cimarosa himself. In
 serious opera he was less successful. But here also he shows at least
 the qualities of a competent musician. Considering the enormous number
 of his works, his unequal workmanship and the frequent instances of

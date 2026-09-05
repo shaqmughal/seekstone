@@ -10,7 +10,7 @@ type: note
 GUTTA PERCHA, the name applied to the evaporated milky fluid or latex
 furnished by several trees chiefly found in the islands of the Malay
 Archipelago. The name is derived from two Malay words, _getah_ meaning
-gum, and _pertja_ being the name of the tree--probably a Bassia--from
+[[Gum|gum]], and _pertja_ being the name of the tree--probably a Bassia--from
 which the gum was (erroneously) supposed to be obtained.
 
 _Botanical Origin and Distribution._--The actual tree is known to the
@@ -18,7 +18,7 @@ Malays as taban, and the product as _getah taban_. The best gutta percha
 of Malaya is chiefly derived from two trees, and is known as _getah
 taban merah_ (red) or _getah taban sutra_ (silky). The trees in
 question, which belong to the natural order Sapotaceae, have now been
-definitely identified, the first as _Dichopsis gutta_ (Bentham and
+definitely identified, the first as _Dichopsis [[Gutta|gutta]]_ ([[Bentham]] and
 Hooker), otherwise _Isonandra gutta_ (Hooker) or _Palaquium gutta_
 (Burck), and the second as _Dichopsis oblongifolia_ (Burck). Allied
 trees of the same genus and of the same natural order yield similar but
@@ -29,16 +29,16 @@ Gutta percha trees often attain a height of 70 to 100 ft. and the trunk
 has a diameter of from 2 to 3 ft. They are stated to be mature when
 about thirty years old. The leaves of _Dichopsis_, which are
 obovate-lanceolate, with a distinct pointed apex, occur in clusters at
-the end of the branches, and are bright green and smooth on the upper
+the end of the branches, and are [[Bright|bright]] green and smooth on the upper
 surface but on the lower surface are yellowish-brown and covered with
 silky hairs. The leaves are usually about 6 in. long and about 2 in.
 wide at the centre. The flowers are white, and the seeds are contained
-in an ovoid berry about 1 in. long.
+in an ovoid [[Berry|berry]] about 1 in. long.
 
   The geographical distribution of the gutta percha tree is almost
-  entirely confined to the Malay Peninsula and its immediate
+  entirely confined to the [[Malay Peninsula]] and its immediate
   neighbourhood. It includes a region within 6 degrees north and south
-  of the equator and 93 deg.-119 deg. longitude, where the temperature
+  of the [[Equator|equator]] and 93 deg.-119 deg. longitude, where the temperature
   ranges from 66 deg. to 90 deg. F. and the atmosphere is exceedingly
   moist. The trees may be grown from seeds or from cuttings. Some
   planting has taken place in Malaya, but little has so far been done to
@@ -57,7 +57,7 @@ incision is made through the bark, but not nearly so freely, even in the
 rainy season, as the india-rubber latex. On this account the Malays
 usually fell the tree in order to collect the latex, which is done by
 chopping off the branches and removing circles of the bark, forming
-cylindrical channels about an inch wide at various points about a foot
+cylindrical channels about an [[Inch|inch]] wide at various points about a foot
 apart down the trunk. The latex exudes and fills these channels, from
 which it is removed and converted into gutta by boiling in open vessels
 over wood fires. The work is usually carried on in the wet season when
@@ -76,14 +76,14 @@ _Uses of Gutta Percha._--The Chinese and Malays appear to have been
 acquainted with the characteristic property of gutta percha of softening
 in warm water and of regaining its hardness when cold, but this plastic
 property seems to have been only utilized for ornamental purposes, the
-construction of walking-sticks and of knife handles and whips, &c.
+construction of walking-sticks and of [[Knife|knife]] handles and whips, &c.
 
 The brothers Tradescant brought samples of the curious material to
 Europe about the middle of the 17th century. It was then regarded as a
 form of wood, to which the name of "mazer" wood was given on account of
-its employment in making mazers or goblets. A description of it is given
+its employment in making mazers or [[Goblet|goblets]]. A description of it is given
 in a book published by John Tradescant in 1656 entitled _Musaeum
-Tradescantianum or a Collection of Rarities preserved at South Lambeth
+Tradescantianum or a Collection of Rarities preserved at South [[Lambeth]]
 near London_. Many of the curiosities collected from all parts of the
 world by the Tradescants subsequently formed the nucleus of the
 Ashmolean Museum at Oxford which was opened in 1683, but the specimen of
@@ -99,7 +99,7 @@ Dr Montgomerie's communication to the Society of Arts led to many
 experiments being made with the material. Casts of medals were
 successfully produced, and Sir William Siemens, in conjunction with
 Werner von Siemens, then made the first experiments with the material as
-an insulating covering for cable and telegraph wires, which led to the
+an insulating covering for [[Cable|cable]] and telegraph wires, which led to the
 discovery of its important applications in this connexion and to a
 considerable commercial demand for the substance.
 
@@ -109,7 +109,7 @@ interfere with its physical characters, and especially its insulating
 power or inability to conduct electricity.
 
 The chief use of gutta percha is now for electrical purposes. Other
-minor uses are in dentistry and as a means of taking impressions of
+minor uses are in [[Dentistry|dentistry]] and as a means of taking impressions of
 medals, &c. It has also found application in the preparation of belting
 for machinery, as well as for the construction of the handles of knives
 and surgical instruments, whilst the inferior qualities are used for
@@ -152,10 +152,10 @@ of arrangement between the chief producers and consumers.
   rolled into sheets or drawn into ropes. The specific gravity of the
   best gutta percha lies between 0.96 and 1. Gutta percha is not
   dissolved by most liquids, although some remove resinous constituents;
-  the best solvents are oil of turpentine, coal-tar oil, carbon
-  bisulphide and chloroform, and light petroleum when hot. Gutta percha
+  the best solvents are oil of turpentine, [[Coal-Tar|coal-tar]] oil, [[Carbon|carbon]]
+  bisulphide and [[Chloroform|chloroform]], and light petroleum when hot. Gutta percha
   is not affected by alkaline solutions or by dilute acids. Strong
-  sulphuric acid chars it when warm, and nitric acid effects complete
+  sulphuric acid [[Char|chars]] it when warm, and nitric acid effects complete
   oxidation.
 
   When exposed to air and light, gutta percha rapidly deteriorates,
@@ -165,12 +165,12 @@ of arrangement between the chief producers and consumers.
   substance but a mixture of several constituents. As the proportions of
   these constituents in the crude material are not constant, the
   properties of gutta percha are subject to variation. For electrical
-  purposes it should have a high insulating power and dielectric
+  purposes it should have a high insulating power and [[Dielectric|dielectric]]
   strength and a low inductive capacity; the possession of these
   properties is influenced by the resinous constituents present.
 
   The principal constituent of the crude material is the pure gutta, a
-  hydrocarbon of the empirical formula C10H16. It is therefore isomeric
+  [[Hydrocarbon|hydrocarbon]] of the empirical formula C10H16. It is therefore isomeric
   with the hydrocarbon of caoutchouc and with that of oil of turpentine.
   Accompanying this are at least two oxygenated resinous
   constituents--albane C10H16O and fluavil C20H32O--which can be
@@ -232,10 +232,10 @@ of arrangement between the chief producers and consumers.
   gutta percha are among the more important of the natural substitutes,
   of which the material known as "balata" or "Surinam gutta percha," is
   the most valuable. This is derived from a tree, _Mimusops balata_
-  (bullet tree), belonging to the same natural order as gutta percha
+  ([[Bullet|bullet]] tree), belonging to the same natural order as gutta percha
   trees, viz. Sapotaceae. It is a large tree, growing to a height of 80
   to 100 ft. or more, which occurs in the West Indies, in South America,
-  and is especially abundant in Dutch and British Guiana. The latex
+  and is especially abundant in Dutch and British [[Guiana]]. The latex
   which furnishes balata is secreted in the cortex between the bark and
   wood of the tree. As the latex flows freely the trees are tapped by
   making incisions in the same fashion as in india-rubber trees, and the
@@ -262,7 +262,7 @@ of arrangement between the chief producers and consumers.
 
   For further information respecting gutta percha, and for figures of
   the trees, the following works may be consulted: Jumelle, _Les Plantes
-  a caoutchouc et a gutta_ (Paris, Challamel, 1903); Obach, "Cantor
+  a caoutchouc et a gutta_ (Paris, [[Challamel]], 1903); Obach, "Cantor
   Lectures on Gutta Percha," _Journal of the Society of Arts_, 1898.
        (W. R. D.)
 

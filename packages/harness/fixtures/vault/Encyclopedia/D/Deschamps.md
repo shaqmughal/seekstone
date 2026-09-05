@@ -8,20 +8,20 @@ id: 42-5
 # Deschamps
 
 DESCHAMPS, EUSTACHE, called MOREL (1346?-1406?), French poet, was born
-at Vertus in Champagne about 1346. He studied at Reims, where he is said
-to have received some lessons in the art of versification from Guillaume
-de Machaut, who is stated to have been his uncle. From Reims he
+at Vertus in [[Champagne]] about 1346. He studied at Reims, where he is said
+to have received some lessons in the art of versification from [[Guillaume]]
+de [[Machaut]], who is stated to have been his uncle. From Reims he
 proceeded about 1360 to the university of Orleans to study law and the
 seven liberal arts. He entered the king's service as royal messenger
 about 1367, and was sent on missions to Bohemia, Hungary and Moravia. In
 1372 he was made _huissier d'armes_ to Charles V. He received many other
 important offices, was _bailli_ of Valois, and afterwards of Senlis,
-squire to the Dauphin, and governor of Fismes. In 1380 his patron,
+squire to the [[Dauphin]], and governor of Fismes. In 1380 his patron,
 Charles V., died, and in the same year the English burnt down his house
 at Vertus. In his childhood he had been an eye-witness of the English
 invasion of 1358; he had been present at the siege of Reims and seen the
 march on Chartres; he had witnessed the signing of the treaty of
-Bretigny; he was now himself a victim of the English fury. His violent
+[[Bretigny]]; he was now himself a victim of the English fury. His violent
 hatred of the English found vent in numerous appeals to carry the war
 into England, and in the famous prophecy[1] that England would be
 destroyed so thoroughly that no one should be able to point to her
@@ -29,7 +29,7 @@ ruins. His own misfortunes and the miseries of France embittered his
 temper. He complained continually of poverty, railed against women and
 lamented the woes of his country. His last years were spent on his
 _Miroir de mariage_, a satire of 13,000 lines against women, which
-contains some real comedy. The mother-in-law of French farce has her
+contains some real comedy. The mother-in-law of French [[Farce|farce]] has her
 prototype in the _Miroir_.
 
 The historical and patriotic poems of Deschamps are of much greater
@@ -39,12 +39,12 @@ and inveighs ceaselessly against the heavy taxes, the vices of the
 clergy and especially against those who enrich themselves at the expense
 of the people. The terrible ballad with the refrain "_Sà, de l'argent;
 sà, de l'argent_" is typical of his work. Deschamps excelled in the use
-of the ballade and the chant royal. In each of these forms he was the
+of the [[Ballade|ballade]] and the [[Chant Royal|chant royal]]. In each of these forms he was the
 greatest master of his time. In ballade form he expressed his regret for
-the death of Du Guesclin, who seems to have been the only man except his
+the death of [[Du Guesclin]], who seems to have been the only man except his
 patron, Charles V., for whom he ever felt any admiration. One of his
 ballades (No. 285) was sent with a copy of his works to Geoffrey
-Chaucer, whom he addresses with the words:--
+[[Chaucer]], whom he addresses with the words:--
 
   "Tu es d'amours mondains dieux en Albie
    Et de la Rose en la terre Angélique."

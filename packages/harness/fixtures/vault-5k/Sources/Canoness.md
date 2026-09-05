@@ -12,7 +12,7 @@ _canonica virgo_), a female beneficiary of a religious college. In the
 8th century chapters of canons were instituted in the Frankish empire,
 and in imitation of these certain women took common vows of obedience
 and chastity, though not of poverty. Like nuns they had common table and
-dormitory, and recited the breviary, but generally the rule was not so
+[[Dormitory|dormitory]], and recited the breviary, but generally the rule was not so
 strict as in the case of nuns. The canonesses often taught girls, and
 were also employed in embroidering ecclesiastical vestments and
 transcribing liturgical books. A distinction was drawn between regular

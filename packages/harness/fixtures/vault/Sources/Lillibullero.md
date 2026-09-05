@@ -12,9 +12,9 @@ generally been assigned to Thomas Wharton, and deal with the
 administration of Talbot, earl of Tyrconnel, appointed by James as his
 lieutenant in Ireland in 1687. The refrain of the song _lilliburllero
 bullen a la_ gave the title of the song. Macaulay says of the song "The
-verses and the tune caught the fancy of the nation. From one end of
+verses and the tune caught the [[Fancy|fancy]] of the nation. From one end of
 England to the other all classes were singing this idle rhyme." Though
-Wharton claimed he had "sung a king out of three kingdoms" and Burnet
+Wharton claimed he had "sung a king out of three kingdoms" and [[Burnet]]
 says "perhaps never had so slight a thing so great an effect" the
 success of the song was "the effect, and not the cause of that excited
 state of public feeling which produced the revolution" (Macaulay, _Hist.

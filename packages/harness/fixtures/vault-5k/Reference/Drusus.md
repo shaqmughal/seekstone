@@ -3,11 +3,11 @@
 DRUSUS, NERO[1] CLAUDIUS (38-9 B.C.) Roman general, son of Tiberius
 Claudius Nero and Livia Drusilla, stepson of Augustus and younger
 brother of the emperor Tiberius. Having held the office of quaestor and
-acted as praetor for his brother during the latter's absence in Gaul, he
+acted as praetor for his brother during the latter's absence in [[Gaul]], he
 began (in 15 B.C.) the military career which has made his name famous.
 In conjunction with Tiberius, he carried on a successful campaign
 against the Raeti and Vindelici, who, although repulsed from Italy,
-continued to threaten the frontiers of Gaul. The credit of the decisive
+continued to threaten the frontiers of Gaul. The [[Credit|credit]] of the decisive
 victory, however, must be assigned to Tiberius. Two of the _Odes_ of
 Horace (iv. 4 and 14) were written to glorify the exploits of the
 brothers. In 13 Drusus was sent as governor to the newly organized
@@ -26,7 +26,7 @@ operations against the Chauci, dug a canal (Fossa Drusiana) leading from
 the Rhenus (Rhine) to the Isala (Yssel)[2] into the lacus Flevus
 (Zuidersee) and the German Ocean. Making his way along the Frisian
 coast, he conquered the island of Burchanis (_Borkum_), defeated the
-Bructeri in a naval engagement on the Amisia (_Ems_), and went on to the
+Bructeri in a naval engagement on the Amisia (_[[Ems]]_), and went on to the
 mouth of the Visurgis (_Weser_) to attack the Chauci. On the way back
 his vessels grounded on the shallows, and were only got off with the
 assistance of the Frisii. Winter being close at hand, the campaign was
@@ -35,9 +35,9 @@ the honour of having been the first Roman general to reach the German
 Ocean.
 
 In his second campaign (11), Drusus defeated the Usipetes, threw a
-bridge over the Luppia (_Lippe_), attacked the Sugambri, and advanced
-through their territory and that of the Tencteri and Chatti as far as
-the Weser, where he gained a victory over the Cherusci. Lack of
+bridge over the Luppia (_[[Lippe]]_), attacked the Sugambri, and advanced
+through their territory and that of the Tencteri and [[Chatti]] as far as
+the Weser, where he gained a victory over the [[Cherusci]]. Lack of
 provisions, the approach of winter, and an inauspicious portent
 prevented him from crossing the Weser. While making his way back to the
 Rhine he fell into an ambuscade, but the carelessness of the enemy
@@ -52,7 +52,7 @@ returned with Augustus and Tiberius to Rome, and was elected consul for
 the following year. In spite of unfavourable portents at Rome, he
 determined to enter upon his fourth and last campaign (9) without delay.
 He attacked and defeated the Chatti, Suebi, Marcomanni and Cherusci,
-crossed the Weser and penetrated as far as the Albis (_Elbe_). Here
+crossed the Weser and penetrated as far as the Albis (_[[Elbe]]_). Here
 trophies were set up to mark the farthest point ever reached by a Roman
 army. Various measures were taken to secure the possession of the
 conquered territory: fortresses were erected along the Elbe, Weser and
@@ -68,7 +68,7 @@ that he had been poisoned by order of Augustus, because he had refused
 to obey the order for his recall. The body was carried to the winter
 quarters of the army, whence it was escorted by Tiberius to Rome, the
 procession being joined by Augustus at Ticinum (Pavia). Tiberius
-delivered an oration over the remains in the Forum, whence they were
+delivered an oration over the remains in the [[Forum]], whence they were
 conveyed to the Campus Martius and cremated, and ashes being deposited
 in the mausoleum of Augustus.
 
@@ -86,9 +86,9 @@ Marcus Antonius the triumvir, by whom he had three children: Germanicus,
 adopted by Tiberius; Claudius, afterwards emperor; and a daughter
 Livilla.
 
-  The chief ancient authorities for the life of Drusus are Dio Cassius,
+  The chief ancient authorities for the life of Drusus are Dio [[Cassius]],
   the epitomes of Livy, Suetonius (_Claudius_), Tacitus (portions of the
-  _Annals_), Florus (whose chief source is Livy), Velleius Paterculus,
+  _[[Annals]]_), [[Florus]] (whose chief source is Livy), Velleius Paterculus,
   and the _Consolatio ad Liviam_. The German campaigns were described in
   the last books of Livy and the lost _Bella Germaniae_ of the elder
   Pliny. As would naturally be expected, they have produced an extensive

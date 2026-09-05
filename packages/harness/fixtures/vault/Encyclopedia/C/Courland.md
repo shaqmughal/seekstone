@@ -15,7 +15,7 @@ Baltic, and S. by the province of East Prussia and the Russian
 government of Kovno. The area is 10,535 sq. m., of which 101 sq. m. are
 occupied by lakes. The surface is generally low and undulating, and the
 coast-lands flat and marshy. The interior is characterized by wooded
-dunes, covered with pine, fir, birch and oak, with swamps and lakes, and
+[[Dunes|dunes]], covered with pine, fir, [[Birch|birch]] and oak, with swamps and lakes, and
 fertile patches between. The surface nowhere rises more than 700 ft.
 above sea-level. The Mitau plain divides it into two parts, of which the
 western is fertile and thickly inhabited, except in the north, while the
@@ -24,7 +24,7 @@ still forest.
 
 Courland is drained by nearly one hundred rivers, of which only three,
 the Dvina, the Aa and the Windau, are navigable. They all flow
-north-westwards and discharge into the Baltic Sea. Owing to the numerous
+north-westwards and [[Discharge|discharge]] into the [[Baltic Sea]]. Owing to the numerous
 lakes and marshes, the climate is damp and often foggy, as well as
 changeable, and the winter is severe. Agriculture is the chief
 occupation, the principal crops being rye, barley, oats, wheat, flax and
@@ -39,7 +39,7 @@ and scientific knowledge. Fruit grows well. Excellent breeds of cattle,
 sheep and pigs are kept. Libau and Mitau are the principal industrial
 centres, with iron-works, agricultural machinery works, tanneries, glass
 and soap works. Flax spinning is mostly a domestic industry. Iron and
-limestone are the chief minerals; a little amber is found on the coast.
+[[Limestone|limestone]] are the chief minerals; a little amber is found on the coast.
 The only seaports are Libau, Windau and Polangen, there being none on
 the Courland coast of the Gulf of Riga. The population was 619,154 in
 1870; 674,437 in 1897, of whom 345,756 were women; 714,200 (estimate) in
@@ -47,7 +47,7 @@ the Courland coast of the Gulf of Riga. The population was 619,154 in
 each Poles and Lithuanians. In addition there are about 8% Jews and some
 Lives. The chief towns of the ten districts are Mitau (Doblenskiy
 district), capital of the government (pop. 35,011 in 1897), Bauske
-(6543), Friedrichstadt (5223), Goldingen (9733), Grobin (1489),
+(6543), Friedrichstadt (5223), [[Goldingen]] (9733), Grobin (1489),
 Hasenpoth (3338), Illuxt (2340), Talsen (6215), Tuckum (7542) and Windau
 (7132). The prevailing religion is the Lutheran, to which 76% of the
 population belong; the rest belong to the Orthodox Eastern and the Roman
@@ -56,7 +56,7 @@ Catholic churches.
 Anciently Courland was inhabited by the Cours or Kurs, a Lettish tribe,
 who were subdued and converted to Christianity by the Brethren of the
 Sword, a German military order, in the first quarter of the 13th
-century. In 1237 it passed under the rule of the Teutonic Knights owing
+century. In 1237 it passed under the rule of the Teutonic [[Knight|Knights]] owing
 to the amalgamation of this order with that of the Brethren of the
 Sword. At that time it comprised the two duchies of Courland and
 Semgallen. Under the increasing pressure of Russia (Muscovy) the
@@ -64,7 +64,7 @@ Teutonic Knights in 1561 found it expedient to put themselves under the
 suzerainty of Poland, the grandmaster Gotthard Kettler (d. 1587)
 becoming the first duke of Courland. The duchy suffered severely in the
 Russo-Swedish wars of 1700-9. But by the marriage in 1710 of Kettler's
-descendant, Duke Frederick William (d. 1711), to the princess Anne,
+descendant, Duke Frederick William (d. 1711), to the princess [[Anne]],
 niece of Peter the Great and afterwards empress of Russia, Courland came
 into close relation with the latter state Anne being duchess of Courland
 from 1711 to 1730. The celebrated Marshal Saxe was elected duke in 1726,

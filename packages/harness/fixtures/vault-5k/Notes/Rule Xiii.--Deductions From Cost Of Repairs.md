@@ -81,7 +81,7 @@ In the case of _wooden or composite ships_:--
         which had not been in use.
 
         Metal sheathing shall be dealt with, by allowing in full the cost
-        of a weight equal to the gross weight of metal sheathing stripped
+        of a weight equal to the [[Gross|gross]] weight of metal sheathing stripped
         off, minus the proceeds of the old metal. Nails, felt and labour
         metalling are subject to a deduction of one-third.
 
@@ -91,7 +91,7 @@ In the case of _ships generally_:--
     including labour of taking out and replacing it, shall be allowed in
     full.
 
-    Graving dock dues, including expenses of removals, cartages, use of
+    Graving [[Dock|dock]] dues, including expenses of removals, cartages, use of
     shears, stages and graving dock materials, shall be allowed in full.
 
 ## See also

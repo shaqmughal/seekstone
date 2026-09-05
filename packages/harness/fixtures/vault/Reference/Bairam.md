@@ -18,7 +18,7 @@ _Al-`[=i]d al-kab[=i]r_, "Greater Festival," or _`[=I][d.]
 al-a[d.][h.][=a]_, "Festival of Sacrifice." It falls on the tenth, and two
 or three following days, of the last month, _Dh[=u]-l-[h.]ijja_, when the
 pilgrims each slay a ram, a he-goat, a cow or a camel in the valley of Mina
-in commemoration of the ransom of Ishmael with a ram. Similarly throughout
+in commemoration of the ransom of [[Ishmael]] with a ram. Similarly throughout
 the Moslem world, all who can afford it sacrifice at this time a legal
 animal, and either consume the flesh themselves or give it to the poor.
 Otherwise it is celebrated like the "Lesser Festival," but with less
@@ -26,7 +26,7 @@ ardour. Both festivals, of course, belong to a lunar calendar, and move
 through the solar year every thirty-two years.
 
 See Lane's _Modern Egyptians_, chap. xxv.; Michell, _Egyptian Calendar_;
-Hughes, _Dictionary of Islam_, pp. 192 ff.; Sir R. Burton, _Pilgrimage_,
+Hughes, _Dictionary of Islam_, pp. 192 ff.; Sir R. [[Burton]], _Pilgrimage_,
 chaps. vii., xxx.
 
 (D. B. MA.)

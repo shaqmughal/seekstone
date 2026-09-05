@@ -9,11 +9,11 @@ type: reference
 
 MAYORUNA, a tribe of South American Indians of Panoan stock. Their
 country is between the Ucayali and Javari rivers, north-eastern Peru.
-They are a fine race, roaming the forests and living by hunting. They
+They are a fine race, roaming the forests and living by [[Hunting|hunting]]. They
 cut their hair in a line across the forehead and let it hang down their
 backs. Many have fair skins and beards, a peculiarity sometimes
 explained by their alleged descent from Ursua's soldiers, but this
-theory is improbable. They are famous for the potency of their blow-gun
+theory is improbable. They are famous for the potency of their [[Blow-Gun|blow-gun]]
 poison.
 
 ## See also

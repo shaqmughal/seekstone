@@ -32,7 +32,7 @@ rectangular or square figure. (See ALGEBRAIC FORMS.)
 MATROSS, the name (now obsolete) for a soldier of artillery, who ranked
 next below a gunner. The duty of a matross was to assist the gunners in
 loading, firing and sponging the guns. They were provided with
-firelocks, and marched with the store-wagons, acting as guards. In the
+firelocks, and marched with the store-wagons, acting as [[Guards|guards]]. In the
 American army a matross ranked as a private of artillery. The word is
 probably derived from Fr. _matelot_, a sailor.
 

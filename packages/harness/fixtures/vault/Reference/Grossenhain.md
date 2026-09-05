@@ -1,8 +1,8 @@
 # Grossenhain
 
-GROSSENHAIN, a town In the kingdom of Saxony, 20 m. N. from Dresden, on
+GROSSENHAIN, a town In the kingdom of Saxony, 20 m. N. from [[Dresden]], on
 the main line of railway (via Elsterwerda) to Berlin and at the junction
-of lines to Priestewitz and Frankfort-on-Oder. Pop. (1905) 12,015. It
+of lines to Priestewitz and [[Frankfort-On-Oder|Frankfort-on-Oder]]. Pop. (1905) 12,015. It
 has an Evangelical church, a modern and a commercial school, a library
 and an extensive public park. The industries are very important, and
 embrace manufactures of woollen and cotton stuffs, buckskin, leather,

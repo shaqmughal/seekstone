@@ -1,6 +1,6 @@
 # Magwe
 
-MAGWE, a district in the Minbu division of Upper Burma. Area, 2913 sq.
+MAGWE, a district in the Minbu division of Upper [[Burma]]. Area, 2913 sq.
 m.; pop. (1901), 246,708, showing an increase of 12.38% in the decade.
 Magwe may be divided into two portions: the low, flat country in the
 Taungdwingyi subdivision, and the undulating high ground extending over
@@ -26,7 +26,7 @@ the whole district.
   bowls and platters, and cart-wheels, are the only manufactures of any
   note in the district.
 
-  The annual rainfall averages about 27 inches. The maximum temperature
+  The annual rainfall averages about 27 [[Inch|inches]]. The maximum temperature
   rises to a little over 100° in the hot season, and falls to an average
   minimum of 53° and 54° in the cold season.
 

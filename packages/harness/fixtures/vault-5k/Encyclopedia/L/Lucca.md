@@ -9,12 +9,12 @@ type: source
 
 LUCCA (anc. _Luca_), a town and archiepiscopal see of Tuscany, Italy,
 capital of the province of Lucca, 13 m. by rail N.E. of Pisa. Pop.
-(1901) 43,566 (town); 73,465 (commune). It is situated 62 ft. above the
+(1901) 43,566 (town); 73,465 ([[Commune|commune]]). It is situated 62 ft. above the
 level of the sea, in the valley of the Serchio, and looks out for the
 most part on a horizon of hills and mountains. The fortifications,
 pierced by four gates, were begun in 1504 and completed in 1645, and
 long ranked among the most remarkable in the peninsula. They are still
-well-preserved and picturesque, with projecting bastions planted with
+well-preserved and picturesque, with projecting [[Bastion|bastions]] planted with
 trees.
 
 The city has a well-built and substantial appearance, its chief
@@ -23,11 +23,11 @@ well-marked basilican type, and present almost too richly decorated
 exteriors, fine apsidal ends and quadrangular campaniles, in some cases
 with battlemented summits, and windows increasing in number as they
 ascend. In style they are an imitation of the Pisan. It is remarkable
-that in the arcades a pillar generally occupies the middle of the
+that in the [[Arcade|arcades]] a pillar generally occupies the middle of the
 façade. The cathedral of St Martin was begun in 1063 by Bishop Anselm
-(later Pope Alexander II.); but the great apse with its tall columnar
+(later Pope Alexander II.); but the great [[Apse|apse]] with its tall columnar
 arcades and the fine campanile are probably the only remnants of the
-early edifice, the nave and transepts having been rebuilt in the Gothic
+early edifice, the nave and transepts having been rebuilt in the [[Gothic]]
 style in the 14th century, while the west front was begun in 1204 by
 Guidetto (lately identified with Guido Bigarelli of Como), and "consists
 of a vast portico of three magnificent arches, and above them three
@@ -74,18 +74,18 @@ Ammanati, and now the residence of the prefect and seat of the
 provincial officers and the public picture gallery; the early
 Renaissance Palazzo Pretorio, or former residence of the podestà, now
 the seat of the civil and correctional courts; the palace, erected in
-the 15th century by a member of the Guinigi family, of brick, in the
+the 15th century by a member of the Guinigi family, of [[Brick|brick]], in the
 Italian Gothic style, and now serving as a poor-house; the 16th-century
 palace of the marquis Guidiccioni, now used as a depository for the
 archives, the earliest documents going back to A.D. 790. The Palazzo
 Mansi contains a collection of Dutch pictures. There are several other
 fine late 16th-century palaces. The principal market-place in the city
-(_Piazza del Mercato_) has taken possession of the arena of the ancient
+(_Piazza del Mercato_) has taken possession of the [[Arena|arena]] of the ancient
 amphitheatre, the outer arches of which can still be seen in the
 surrounding buildings. The whole building, belonging probably to the
 early Empire, measured 135 by 105 yds., and the arena 87½ by 58 yds. The
 outline of the ancient theatre can be traced in the Piazza delle Grazie,
-and some of its substructure walls are preserved. The ancient forum was
+and some of its substructure walls are preserved. The ancient [[Forum|forum]] was
 on the site of the Piazza S. Michele in the centre of the town; remains
 of a small public building or shrine were found not far off in 1906 (L.
 Pernier in _Notizie degli Scavi_, 1906, p. 117). The rectangular
@@ -115,7 +115,7 @@ after this time, it is not mentioned again until we are told that in 177
 B.C. a Latin colony was founded there in territory offered by the Pisans
 for the purpose.[1] It must have become a municipium by the _lex Julia_
 of 90 B.C., and it was here that Julius Caesar in 56 B.C. held his
-famous conference with Pompey and Crassus, Luca then being still in
+famous conference with Pompey and [[Crassus]], Luca then being still in
 Liguria, not in Etruria. A little later a colony was conducted hither by
 the triumvirs or by Octavian; whether after Philippi or after Actium is
 uncertain. In the Augustan division of Italy Luca was assigned to the
@@ -128,14 +128,14 @@ Serchio valley and over the Sassalbo pass (O. Cuntz in _Jahreshefte des
 oesterr. arch. Instituts_, 1904, 53). Though plundered and deprived of
 part of its territory by Odoacer, Luca appears as an important city and
 fortress at the time of Narses, who besieged it for three months in A.D.
-553, and under the Lombards it was the residence of a duke or marquis
-and had the privilege of a mint. The dukes gradually extended their
+553, and under the [[Lombards]] it was the residence of a duke or marquis
+and had the privilege of a mint. The [[Dukes|dukes]] gradually extended their
 power over all Tuscany, but after the death of the famous Matilda the
 city began to constitute itself an independent community, and in 1160 it
 obtained from Welf VI., duke of Bavaria and marquis of Tuscany, the
 lordship of all the country for 5 m. round, on payment of an annual
 tribute. Internal discord afforded an opportunity to Uguccione della
-Faggiuola, with whom Dante spent some time there, to make himself master
+Faggiuola, with whom [[Dante]] spent some time there, to make himself master
 of Lucca in 1314, but the Lucchesi expelled him two years afterwards,
 and handed over their city to Castruccio Castracane, under whose
 masterly tyranny it became "for a moment the leading state of Italy,"
@@ -147,7 +147,7 @@ surrendered to the Pisans, nominally liberated by the emperor Charles
 IV. and governed by his vicar, Lucca managed, at first as a democracy,
 and after 1628 as an oligarchy, to maintain "its independence alongside
 of Venice and Genoa, and painted the word Libertas on its banner till
-the French Revolution." In the beginning of the 16th century one of its
+the [[French Revolution]]." In the beginning of the 16th century one of its
 leading citizens, Francesco Burlamacchi, made a noble attempt to give
 political cohesion to Italy, but perished on the scaffold (1548); his
 statue by Ulisse Cambi was erected on the Piazza San Michele in 1863. As
@@ -164,7 +164,7 @@ archiepiscopal cross from Alexander II. In 1726 Benedict XIII. raised
 their see to the rank of an archbishopric, without suffragans.
 
   See A. Mazzarosa, _Storia di Lucca_ (Lucca, 1833); E. Ridolfi, _L'Arte
-  in Lucca studiata nella sua Cattedrale_ (1882); _Guidi di Lucca; La
+  in Lucca studiata nella sua Cattedrale_ (1882); _[[Guidi]] di Lucca; La
   Basilica di S. Michele in Foro in Lucca_.     (T. As.)
 
 

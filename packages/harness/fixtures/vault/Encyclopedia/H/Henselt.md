@@ -5,7 +5,7 @@ in Bavaria, on the 12th of May 1814. At three years old he began to
 learn the violin, and at five the pianoforte under Frau v. Fladt. On
 obtaining financial help from King Louis I. he went to study under
 Hummel in Weimar, and thence in 1832 to Vienna, where, besides studying
-composition under Simon Sechter, he made a great success as a concert
+composition under Simon Sechter, he made a great success as a [[Concert|concert]]
 pianist. In order to recruit his health he made a prolonged tour in 1836
 through the chief German towns. In 1837 he settled at Breslau, where he
 had married, but in the following year he migrated to St Petersburg,

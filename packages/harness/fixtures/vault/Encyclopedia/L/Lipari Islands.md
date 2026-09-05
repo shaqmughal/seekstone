@@ -12,7 +12,7 @@ group of volcanic islands N. of the eastern portion of Sicily. They are
 seven in number--Lipari (_Lipara_, pop. in 1901, 15,290), Stromboli
 (_Strongyle_), Salina (_Didyme_, pop. in 1901, 4934), Filicuri
 (_Phoenicusa_), Alicuri (_Ericusa_), Vulcano (_Hiera_, _Therasia_ or
-_Thermissa_), the mythical abode of Hephaestus, and Panaria
+_Thermissa_), the mythical abode of [[Hephaestus]], and Panaria
 (_Euonymus_). The island of Aiolie, the home of Aiolos, lord of the
 winds, which Ulysses twice visited in his wanderings, has generally been
 identified with one of this group. A colony of Cnidians and Rhodians was
@@ -37,7 +37,7 @@ volcanoes, that on the S.E., Monte Salvatore (3155 ft.), being the
 highest point in the islands, is the most fertile of the whole group and
 produces good Malmsey wine: it takes its name from the salt-works on the
 south coast. Vulcano, ½ m. S. of Lipari, contains a still smoking
-crater. Sulphur works were started in 1874, have since been abandoned.
+[[Crater|crater]]. Sulphur works were started in 1874, have since been abandoned.
 
   See Archduke Ludwig Salvator of Austria, _Die Liparischen Inseln_, 8
   vols. (for private circulation) (Prague, 1893 seqq.).
@@ -45,7 +45,7 @@ crater. Sulphur works were started in 1874, have since been abandoned.
 
 FOOTNOTE:
 
-  [1] Greek coins of the Lipari Islands are preserved in the museum at
+  [1] Greek [[Coin|coins]] of the Lipari Islands are preserved in the museum at
     Cefalù.
 
 ## References

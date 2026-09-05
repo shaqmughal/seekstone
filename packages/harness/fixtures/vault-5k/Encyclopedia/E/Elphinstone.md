@@ -9,13 +9,13 @@ topic: philosophy-theory
 ELPHINSTONE, MOUNTSTUART (1779-1859), Indian statesman and historian,
 fourth son of the 11th Baron Elphinstone in the peerage of Scotland, was
 born in 1779. Having received an appointment in the civil service of the
-East India Company, of which one of his uncles was a director, he
+[[East India Company]], of which one of his uncles was a director, he
 reached Calcutta in the beginning of 1796. After filling several
 subordinate posts, he was appointed in 1801 assistant to the British
 resident at Poona, at the court of the peshwa, the most powerful of the
 Mahratta princes. Here he obtained his first opportunity of distinction,
 being attached in the capacity of diplomatist to the mission of Sir
-Arthur Wellesley to the Mahrattas. When, on the failure of negotiations,
+Arthur Wellesley to the [[Mahrattas]]. When, on the failure of negotiations,
 war broke out, Elphinstone, though a civilian, acted as virtual
 aide-de-camp to General Wellesley. He was present at the battle of
 Assaye, and displayed such courage and knowledge of tactics throughout
@@ -50,7 +50,7 @@ the British dominions, and Elphinstone was nominated commissioner to
 administer them. He discharged the responsible task with rare judgment
 and ability. In 1819 he was appointed lieutenant-governor of Bombay and
 held this post till 1827, his principal achievement being the
-compilation of the "Elphinstone code." He may fairly be regarded as the
+compilation of the "Elphinstone [[Code|code]]." He may fairly be regarded as the
 founder of the system of state education in India, and he probably did
 more than any other Indian administrator to further every likely scheme
 for the promotion of native education. His connexion with the Bombay

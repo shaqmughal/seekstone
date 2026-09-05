@@ -119,7 +119,7 @@ purchased; and the bones were reinterred.
 Cobbett's great aim was now to obtain a seat in the House of Commons. He
 calmly suggested that his friends should assist him by raising the sum
 of £5000; it would be much better, he said, than a meeting of 50,000
-persons. He first offered himself for Coventry, but failed; in 1826 he
+persons. He first offered himself for [[Coventry]], but failed; in 1826 he
 was by a large number of votes last of the candidates for Preston; and
 in 1828 he could find no one to propose him for the office of common
 councillor. In 1830, that year of revolutions, he was prosecuted for

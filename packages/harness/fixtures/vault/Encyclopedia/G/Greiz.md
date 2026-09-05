@@ -2,7 +2,7 @@
 
 GREIZ, a town of Germany, capital of the principality of Reuss-Greiz
 (Reuss the Elder), in a pleasant valley on the right bank of the White
-Elster, near the borders of Saxony, and 66 m. by rail S. from Leipzig.
+Elster, near the [[Borders|borders]] of Saxony, and 66 m. by rail S. from Leipzig.
 Pop. (1875) 12,657; (1905) 23,114. It consists of two parts, the old
 town on the right bank and the new town on the left bank of the river;
 it is rapidly growing and is regularly laid out. The principal buildings
@@ -21,7 +21,7 @@ Plauen. It was wholly destroyed by fire in 1494, and almost totally in
 1802.
 
   See Wilke, _Greiz und seine Umgebung_ (1875), and _Jahresberichte des
-  Vereins fur Greizer Geschichte_ (1894, seq.)
+  Vereins [[Fur|fur]] Greizer Geschichte_ (1894, seq.)
 
 ## References
 

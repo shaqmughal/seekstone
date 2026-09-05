@@ -1,14 +1,14 @@
 # Bench
 
 BENCH (an O.E. and Eng. form of a word common to Teutonic languages, cf.
-Ger. _Bank_, Dan. _baenk_ and the Eng. doublet "bank"), a long narrow
+Ger. _Bank_, Dan. _baenk_ and the Eng. [[Doublet|doublet]] "bank"), a long narrow
 wooden seat for several persons, with or without a back. While the chair
 was yet a seat of state or dignity the bench was ordinarily used by the
 commonalty. It is still extensively employed for other than domestic
 purposes, as in schools, churches and places of amusement. Bench or
 Banc, in law, originally was the seat occupied by judges in court; hence
 the term is used of a tribunal of justice itself, as the King's Bench,
-the Common Bench, and is now applied to judges or magistrates
+the Common Bench, and is now applied to judges or [[Magistrate|magistrates]]
 collectively as the "judicial bench," "bench of magistrates." The word
 is also applied to any seat where a number of people sit in an official
 capacity, or as equivalent to the dignity itself, as "the civic bench,"

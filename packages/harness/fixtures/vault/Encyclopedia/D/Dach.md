@@ -3,7 +3,7 @@
 DACH, SIMON (1605-1659), German lyrical poet, was born at Memel in East
 Prussia on the 29th of July 1605. Although brought up in humble
 circumstances, he received a careful education in the classical schools
-of Konigsberg, Wittenberg and Magdeburg, and entered the university of
+of Konigsberg, Wittenberg and [[Magdeburg]], and entered the university of
 Konigsberg in 1626 as a student of theology and philosophy. After taking
 his degree, he was appointed in 1633 _Kollaborator_ (teacher) and in
 1636 co-rector of the Domschule (cathedral school) in that city. In 1639
@@ -12,13 +12,13 @@ he occupied until his death on the 15th of April 1659. In Konigsberg he
 entered into close relations with Heinrich Albert (1604-1651), Robert
 Roberthin (1600-1648) and Sibylla Schwarz (1621-1638), and with them
 formed the so-called _Konigsberger Dictergruppe_. He sang the praises of
-the house of the electors of Brandenburg in a collection of poems
+the house of the [[Electors|electors]] of Brandenburg in a collection of poems
 entitled _Kurbrandenburgische Rose, Adler, Lowe und Scepter_ (1661), and
 also produced many occasional poems, several of which became popular;
 the most famous of them is _Anke von Tharaw oss, de my gefollt_
 (rendered by Herder into modern German as _Annchen von Tharau_),
 composed in 1637 in honour of the marriage of a friend. Among his
-hymns, many of which are of great beauty, are the following: _Ich bin
+hymns, many of which are of great beauty, are the following: _Ich [[Bin|bin]]
 ja, Herr, in deiner Macht_, _Ich bin bei Gott in Gnaden durch Christi
 Blut und Tod_, and _O, wie selig seid ihr boch, ihr Frommen_.
 

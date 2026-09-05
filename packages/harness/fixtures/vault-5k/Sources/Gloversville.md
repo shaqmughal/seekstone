@@ -10,11 +10,11 @@ Schenectady. The city has a public library (26,000 volumes in 1908), the
 Nathan Littauer memorial hospital, a state armoury and a fine government
 building. Gloversville is the principal glove-manufacturing centre in
 the United States. In 1900 Fulton county produced more than 57%, and
-Gloversville 38.8%, of all the leather gloves and mittens made in the
+Gloversville 38.8%, of all the leather [[Glove|gloves]] and mittens made in the
 United States; in 1905 Gloversville produced 29.9% of the leather gloves
 and mittens made in the United States, its products being valued at
 $5,302,196. Gloversville has more than a score of tanneries and
-leather-finishing factories, and manufactures fur goods. In 1905 the
+leather-finishing factories, and manufactures [[Fur|fur]] goods. In 1905 the
 city's total factory product was valued at $9,340,763. The extraordinary
 localization of the glove-making industry in Gloversville, Johnstown and
 other parts of Fulton county, is an incident of much interest in the

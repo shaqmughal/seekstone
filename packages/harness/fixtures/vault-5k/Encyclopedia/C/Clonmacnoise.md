@@ -13,10 +13,10 @@ of Athlone. An abbey was founded here by St Kieran in 541, which as a
 seat of learning gained a European fame, receiving offerings, for
 example, from Charles the Great, whose companion Alcuin the scholar
 received part of his education from the great teacher Colcu at
-Conmacnoise. Several books of annals were compiled here, and the
+Conmacnoise. Several books of [[Annals|annals]] were compiled here, and the
 foundation became the seat of a bishopric, but it was plundered and
 wasted by the English in 1552, and in 1568 the diocese was united with
-that of Meath. The most remarkable literary monument of Clonmacnoise is
+that of [[Meath]]. The most remarkable literary monument of Clonmacnoise is
 the Book of the Dun Cow, written about 1100, still preserved (but in an
 imperfect form) by the Royal Irish Academy, and containing a large
 number of romances. It is a copy of a much earlier original, which was

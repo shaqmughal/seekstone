@@ -5,7 +5,7 @@ CESAROTTI, MELCHIORE (1730-1808), Italian poet, was born at Padua in
 native place his literary progress procured for him at a very early age
 the chair of rhetoric, and in 1768 the professorship of Greek and
 Hebrew. On the invasion of Italy by the French, he gave his pen to their
-cause, received a pension, and was made knight of the iron crown by
+cause, received a pension, and was made [[Knight|knight]] of the iron crown by
 Napoleon I., to whom, in consequence, he addressed a bombastic and
 extravagantly flattering poem called _Pronea_. Cesarotti is best known
 as the translator of Homer and Ossian. Much praise cannot be given to

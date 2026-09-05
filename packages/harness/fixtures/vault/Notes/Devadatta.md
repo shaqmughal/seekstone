@@ -4,11 +4,11 @@ DEVADATTA, the son of Suklodana, who was younger brother to the father
 of the Buddha (_Mah[=a]vastu_, iii. 76). Both he and his brother
 [=A]nanda, who were considerably younger than the Buddha, joined the
 brotherhood in the twentieth year of the Buddha's ministry. Four other
-cousins of theirs, chiefs of the S[=a]kiya clan, and a barber named
+[[Cousin|cousins]] of theirs, chiefs of the S[=a]kiya [[Clan|clan]], and a [[Barber|barber]] named
 Up[=a]li, were admitted to the order at the same time; and at their own
 request the barber was admitted first, so that as their senior in the
 order he should take precedence of them (_Vinaya Texts_, iii. 228). All
-the others continued loyal disciples, but Devadatta, fifteen years
+the others continued loyal [[Disciple|disciples]], but Devadatta, fifteen years
 afterwards, having gained over the crown prince of Magadha,
 Aj[=a]tasattu, to his side, made a formal proposition, at the meeting of
 the order, that the Buddha should retire, and hand over the leadership
@@ -23,12 +23,12 @@ imposed on the order. These being refused, he appealed to the people,
 started an order of his own, and gained over 500 of the Buddha's
 community to join in the secession. We hear nothing further about the
 success or otherwise of the new order, but it may possibly be referred
-to under the name of the Gotamakas, in the _Anguttara_ (see _Dialogues
+to under the name of the Gotamakas, in the _Anguttara_ (see _[[Dialogue|Dialogues]]
 of the Buddha_ i. 222), for Devadatta's family name was Gotama. But his
 community was certainly still in existence in the 4th century A.D., for
 it is especially mentioned by Fa Hien, the Chinese pilgrim (Legge's
 translation, p. 62). And it possibly lasted till the 7th century, for
-Hsüan Tsang mentions that in a monastery in Bengal the monks then
+Hsüan Tsang mentions that in a monastery in [[Bengal]] the monks then
 followed a certain regulation of Devadatta's (T. Watters, _On Yuan
 Chwang_, ii. 191). There is no mention in the canon as to how or when
 Devadatta died; but the commentary on the _J[=a]taka_, written in the

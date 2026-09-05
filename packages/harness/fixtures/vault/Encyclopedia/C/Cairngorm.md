@@ -8,7 +8,7 @@ running through the coarser granite of the main mass: Shallow pits were
 formerly dug in the kaolinized granite for sake of the cairngorm and the
 mineral was also found as pebbles in the bed of the river Avon. Cairngorm
 is a favourite ornamental stone in Scotland, being set in the lids of
-snuff-mulls, in the handles of dirks and in brooches for Highland costume.
+snuff-mulls, in the handles of dirks and in brooches for Highland [[Costume|costume]].
 A rich sherry-yellow colour is much esteemed. Quartz of yellow and brown
 colour is often known in trade as "false topaz," or simply "topaz." Such
 quartz is found at many localities in Brazil, Russia and Spain. Much of the

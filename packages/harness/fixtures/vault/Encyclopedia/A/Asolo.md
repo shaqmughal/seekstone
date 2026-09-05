@@ -14,13 +14,13 @@ hill, 690 ft. above sea-level. Remains of Roman baths and of a theatre
 have been discovered in the course of excavation (_Notizie degli scavi_,
 1877, 235; 1881, 205; 1882, 289), and the town was probably a
 _municipium_. It became an episcopal see in the 6th century. It was to
-Asolo that Catherine Cornaro, queen of Cyprus, retired on her
-abdication. Here she was visited by Pietro Bembo, who conceived here his
+Asolo that Catherine Cornaro, queen of [[Cyprus]], retired on her
+abdication. Here she was visited by Pietro [[Bembo]], who conceived here his
 _Dialoghi degli Asolani_, and by Andrea Navagero (Naugerius). Paulus
 Manutius was born here. The village of Maser is 4-1/2 m. to the E., and
 near it is the Villa Giacomelli, erected by Palladio, containing
 frescoes by Paolo Veronese, executed in 1566-1568 for Marcantonio
-Barbaro of Venice, and ranking among his best works.
+[[Barbaro]] of Venice, and ranking among his best works.
 
 ## See also
 

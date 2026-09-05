@@ -32,12 +32,12 @@ As such a _novum salutis genus_, the Crusades connect themselves with
 the history of the penitentiary system; as the foreign policy of the
 Church they belong to that clerical purification and direction of feudal
 society and its instincts, which appears in the institution of "God's
-Truce" and in chivalry itself. The penitentiary system, according to
-which the priest enforced a code of moral law in the confessional by the
+Truce" and in [[Chivalry|chivalry]] itself. The penitentiary system, according to
+which the priest enforced a [[Code|code]] of moral law in the confessional by the
 sanction of penance--penance which must be performed as a condition of
 admission to the sacrament of the Eucharist--had been from early times a
 great instrument in the civilization of the raw Germanic races. Penance
-might consist in fasting; it might consist in flagellation; it might
+might consist in [[Fasting|fasting]]; it might consist in flagellation; it might
 consist in pilgrimage. The penitentiary pilgrimage, which seems to have
 been practised as early as A.D. 700, was twice blessed; not only was it
 an act of atonement in itself, like fasting and flagellation; it also
@@ -46,7 +46,7 @@ the influence of the Cluniac revival, which began in the 10th century,
 pilgrimages became increasingly frequent; and the goal of pilgrimage was
 often Jerusalem. Pilgrims who were travelling to Jerusalem joined
 themselves in companies for security, and marched under arms; the
-pilgrims of 1064, who were headed by the archbishop of Mainz, numbered
+pilgrims of 1064, who were headed by the archbishop of [[Mainz]], numbered
 some 7000 men. When the First Crusade finally came, what was it but a
 penitentiary pilgrimage under arms--with the one additional object of
 conquering the goal of pilgrimage? That the Pilgrims' Progress should
@@ -55,25 +55,25 @@ turn to consider the attempts made by the Church, during the 11th
 century, to purify, or at any rate to direct, the feudal instinct for
 private war (_Fehde_). Since the close of the 10th century diocesan
 councils in France had been busily acting as legislatures, and enacting
-"forms of peace" for the maintenance of God's Peace or Truce (_Pax Dei_
+"forms of peace" for the [[Maintenance|maintenance]] of God's Peace or Truce (_Pax Dei_
 or _Treuga Dei_). In each diocese there had arisen a judicature
 (_judices pacis_) to decide when the form had been broken; and an
 executive, or _communitas pacis_, had been formed to enforce the
 decisions of the judicature. But it was an easier thing to consecrate
 the fighting instinct than to curb it; and the institution of chivalry
 represents such a clerical consecration, for ideal ends and noble
-purposes, of the martial impulses which the Church had hitherto
+purposes, of the [[Martial|martial]] impulses which the Church had hitherto
 endeavoured to check. In the same way the Crusades themselves may be
-regarded as a stage in the clerical reformation of the fighting laymen.
+regarded as a stage in the clerical reformation of the fighting [[Laymen|laymen]].
 As chivalry directed the layman to defend what was right, so the
 preaching of the Crusades directed him to attack what was wrong--the
 possession by "infidels" of the Sepulchre of Christ. The Crusades are
 the offensive side of chivalry: chivalry is their parent--as it is also
-their child. The knight who joined the Crusades might thus still indulge
+their child. The [[Knight|knight]] who joined the Crusades might thus still indulge
 the bellicose side of his genius--under the aegis and at the bidding of
 the Church; and in so doing he would also attain what the spiritual side
 of his nature ardently sought--a perfect salvation and remission of
-sins. He might butcher all day, till he waded ankle-deep in blood, and
+sins. He might [[Butcher|butcher]] all day, till he waded ankle-deep in blood, and
 then at nightfall kneel, sobbing for very joy, at the altar of the
 Sepulchre--for was he not red from the winepress of the Lord? One can
 readily understand the popularity of the Crusades, when one reflects
@@ -101,9 +101,9 @@ the West, and--perhaps still more--the West learned from the East. The
 culture developed in the West during the 13th century was not only
 permitted to develop by the protection of the Crusades, it grew upon
 materials which the Crusades enabled it to import from the East. Yet the
-debt of Europe to the Crusades in this last respect has perhaps been
+[[Debt|debt]] of Europe to the Crusades in this last respect has perhaps been
 unduly emphasized. Sicily was still more the meeting-place of East and
-West than the kingdom of Jerusalem; and the Arabs of Spain gave more to
+West than the kingdom of Jerusalem; and the [[Arabs]] of Spain gave more to
 the culture of Europe than the Arabs of Syria.
 
 2. _Historical Causes of the Crusades._--Within fifteen years of the
@@ -113,7 +113,7 @@ Crusade. For centuries, however, a lively intercourse was maintained
 between the Latin Church in Jerusalem, which the clemency of the Arab
 conquerors tolerated, and the Christians of the West. Charlemagne in
 particular was closely connected with Jerusalem: the patriarch sent him
-the keys of the city and a standard in 800; and in 807 Harun al-Rashid
+the [[Key|keys]] of the city and a standard in 800; and in 807 Harun al-Rashid
 recognized this symbolical cession, and acknowledged Charlemagne as
 protector of Jerusalem and owner of the church of the Sepulchre.
 Charlemagne founded a hospital and a library in the Holy City; and later
@@ -134,7 +134,7 @@ had to complain to the empress Theodora of the exactions practised by
 her officials. But still worse for the Latins was the capture of
 Jerusalem by the Seljukian Turks in 1071. Without being intolerant, the
 Turks were a rougher and ruder race than the Arabs of Egypt whom they
-displaced; while the wars between the Fatimites of Egypt and the
+displaced; while the wars between the [[Fatimites]] of Egypt and the
 Abbasids of Bagdad, whose cause was represented by the Seljuks, made
 Syria (one of the natural battle-grounds of history) into a troubled and
 unquiet region. The native Christians suffered; the pilgrims of the West
@@ -153,7 +153,7 @@ what may be called the 13th-century discovery of Asia.
 
 It was thus natural, for these reasons, that the conquest of the Holy
 Land should gradually become an object for the ambition of Western
-Christianity--an object which the papacy, eager to realize its dream of
+Christianity--an object which the papacy, eager to realize its [[Dream|dream]] of
 a universal Church subject to its sway, would naturally cherish and
 attempt to advance. Two causes combined to make this object still more
 natural and more definite. On the one hand, the reconquest of lost
@@ -169,7 +169,7 @@ temporary occupation of Jerusalem is attributed to the East Roman arms.
 At the opposite end of the Mediterranean, in Spain, the Omayyad
 caliphate was verging to its fall: the long Spanish crusade against the
 Moor had begun; and in 1018 Roger de Toeni was already leading Normans
-into Catalonia to the aid of the native Spaniard. In the centre of the
+into [[Catalonia]] to the aid of the native Spaniard. In the centre of the
 Mediterranean the fight between Christian and Mahommedan had been long,
 but was finally inclining in favour of the Christian. The Arabs had
 begun the conquest of Sicily from the East Roman empire in 827, and they
@@ -184,7 +184,7 @@ which lasted from 1060 to 1090, the Normans, under a banner blessed by
 Pope Alexander II., wrested Sicily from the Arabs. The Norman conquest
 of Sicily may with justice be called a crusade before the Crusades; and
 it cannot but have given some impulse to that later attempt to wrest
-Syria from the Mahommedans, in which the virtual leader was Bohemund, a
+Syria from the Mahommedans, in which the virtual leader was [[Bohemund]], a
 scion of the same house which had conquered Sicily. But while the
 Christians of the West were thus winning fresh ground from the
 Mahommedans, in the course of the 11th century, the East Roman empire
@@ -193,7 +193,7 @@ revival which, while it crushed for a time the Greeks, only acted as a
 new incentive to the Latins to carry their arms to the East. The
 Seljukian Turks, first the mercenaries and then the masters of the
 caliph, had given new life to the decadent caliphate of Bagdad. Under
-the rule of their sultans, who assumed the role of mayors of the palace
+the rule of their sultans, who assumed the role of [[Mayor|mayors]] of the palace
 in Bagdad about the middle of the 11th century, they pushed westwards
 towards the caliphate of Egypt and the East Roman empire. While they
 wrested Jerusalem from the former (1071), in the same year they
@@ -207,13 +207,13 @@ been said, a crusade,[2] but a great expedition, which should recover
 Asia Minor for the Eastern empire, in return for a union of the Eastern
 with the Western Church. In 1074 Gregory actually assembled a
 considerable army; but his disagreement with Robert Guiscard, followed
-by the outbreak of the war of investitures, hindered the realization of
+by the outbreak of the war of [[Investiture|investitures]], hindered the realization of
 his plans, and the only result was a precedent and a suggestion for the
 events of 1095. The appeal of Michael VII. was re-echoed by Alexius
-Comnenus himself. Brave and sage as he was, he could hardly cope at one
+[[Comnenus]] himself. Brave and sage as he was, he could hardly cope at one
 and the same time with the hostility of the Normans on the west, of the
 Petchenegs (Patzinaks) on the north, and of the Seljuks on the east and
-south. Already in 1087 and 1088 he had appealed to Baldwin of Flanders,
+south. Already in 1087 and 1088 he had appealed to [[Baldwin]] of [[Flanders]],
 verbally and by letter,[3] for troops; and Baldwin had answered the
 appeal. The same appeal was made, more than once, to Urban II.; and the
 answer was the First Crusade. The First Crusade was not, indeed, what
@@ -222,8 +222,8 @@ reinforcements to recover Asia Minor; he received hundreds of thousands
 of troops, independent of him, and intending to conquer Jerusalem for
 themselves, though they might incidentally recover Asia Minor for the
 Eastern empire on their way. Alexius may almost be compared to a
-magician, who has uttered a charm to summon a ministering spirit, and is
-surrounded on the instant by legions of demons. In truth the appeal of
+magician, who has uttered a [[Charm|charm]] to summon a ministering spirit, and is
+surrounded on the instant by [[Legion|legions]] of demons. In truth the appeal of
 Alexius had set free forces in the West which were independent of, and
 even ultimately hostile to, the interests of the Eastern empire.
 
@@ -249,13 +249,13 @@ choice of means. There was, for instance, the ambition of the adventurer
 prince, the younger son, eager to carve a principality in the far East,
 of whom Bohemund is the type; there was the interest of Italian towns,
 anxious to acquire the products of the East more directly and cheaply,
-by erecting their own emporia in the eastern Mediterranean. The former
+by erecting their own [[Emporia|emporia]] in the eastern Mediterranean. The former
 was the driving force which made the First Crusade successful, where
 later Crusades, without its stimulus, for the most part failed; the
 latter was the one staunch ally which alone enabled Baldwin I. and
 Baldwin II. to create the kingdom of Jerusalem. So far as the Crusades
 led to permanent material results in the East, they did so in virtue of
-these two forces. Unregulated enthusiasm might of itself have achieved
+these two forces. Unregulated [[Enthusiasm|enthusiasm]] might of itself have achieved
 little or nothing; enthusiasm caught and guided by the astute Norman,
 and the no less astute Venetian or Genoese, could not but achieve
 tangible results. The principality or the emporium, it is true, would
@@ -271,15 +271,15 @@ enthusiasm which is excited by revivalist meetings to-day. But it must
 also be admitted that there were motives of this world to attract the
 masses to the Crusades. Famine and pestilence at home drove men to
 emigrate hopefully to the golden East. In 1094 there was pestilence from
-Flanders to Bohemia: in 1095 there was famine in Lorraine. _Francigenis
+Flanders to Bohemia: in 1095 there was famine in [[Lorraine]]. _Francigenis
 occidentalibus facile persuaderi poterat sua rura relinquere; nam
-Gallias per annos aliquot nunc seditio civilis, nunc fames, nunc
+Gallias per [[Anno|annos]] aliquot nunc seditio [[Civilis|civilis]], nunc fames, nunc
 mortalitas nimis afflixerat._[4] No wonder that a stream of emigration
 set towards the East, such as would in modern times flow towards a newly
 discovered gold-field--a stream carrying in its turbid waters much
 refuse, tramps and bankrupts, camp-followers and hucksters, fugitive
 monks and escaped villeins, and marked by the same motley grouping, the
-same fever of life, the same alternations of affluence and beggary,
+same [[Fever|fever]] of life, the same alternations of affluence and beggary,
 which mark the rush for a gold-field to-day.
 
 Such were the forces set in movement by Urban II., when, after holding a
@@ -294,7 +294,7 @@ winning of Jerusalem in an expedition which should count for full and
 complete penance. Like Gregory, Urban had thus sought for aid for the
 Eastern empire; unlike Gregory, who had only mentioned the Holy
 Sepulchre in a single letter, and then casually, he had struck the note
-of Jerusalem. The instant cries of _Deus vult_ which answered the note
+of Jerusalem. The instant cries of _[[Deus]] vult_ which answered the note
 showed that Urban had struck aright. Thousands at once took the cross;
 the first was Bishop Adhemar of Puy, whom Urban named his legate and
 made leader of the First Crusade (for the holy war, according to Urban's
@@ -325,7 +325,7 @@ Norman princes.[6] No wonder, then, that the crusading armies were
 recruited in France, or that they were led by men of the stock of the
 d'Hautevilles. Meanwhile newly-conquered England had its own problems to
 solve; and Germany, torn by civil war, and not naturally quick to
-kindle, could only deride the "delirium" of the crusader.[7]
+kindle, could only deride the "[[Delirium|delirium]]" of the crusader.[7]
 
 3. _Course of the First Crusade._--The First Crusade falls naturally
 into two parts. One of these may be called the Crusade of the people:
@@ -348,25 +348,25 @@ first-fruits of crusading zeal, was scattered to the winds in Hungary
 safety. The first of these, under Walter the Penniless, passed through
 Hungary in May, and reached Constantinople, where it halted to wait for
 the Hermit, in the middle of July. The second, led by Peter himself,
-passed safely through Hungary, but suffered severely in Bulgaria, and
+passed safely through Hungary, but suffered severely in [[Bulgaria]], and
 only attained Constantinople with sadly diminished numbers at the end of
 July. These two divisions (which in spite of good treatment by Alexius
 began to commit excesses against the Greeks) united and crossed the
 Bosporus in August, Peter himself remaining in Constantinople. By the
 end of October they had perished utterly at the hands of the Seljuks; a
-heap of whitening bones also remained to testify to the later crusaders,
-when they passed in the spring of 1097, of the fate of the people's
+heap of whitening [[Bone|bones]] also remained to testify to the later crusaders,
+when they passed in the spring of 1097, of the [[Fate|fate]] of the people's
 Crusade.
 
 Meanwhile the knights had already begun to assemble in March 1096. In
 small bands, and by divers ways, they streamed gradually southward and
 eastward, in a steady flow, throughout 1096. But three large divisions,
 under three considerable leaders, were pre-eminent among the rest.
-Godfrey of Bouillon, with his brother Baldwin, led the crusaders of
+[[Godfrey Of Bouillon|Godfrey of Bouillon]], with his brother Baldwin, led the crusaders of
 Lorraine along "the road of Charles the Great," through Hungary, to
 Constantinople, where he arrived on the 23rd of December. Raymund of
 Toulouse (the first prince to join the crusading movement) along with
-Bishop Adhemar, the papal commissary, led the Provencals down the coast
+Bishop Adhemar, the papal [[Commissary|commissary]], led the Provencals down the coast
 of Illyria, and then due east to Constantinople, arriving towards the
 end of April 1097. Bohemund of Otranto, the destined leader of the
 Crusade, with his nephew Tancred, led a fine force of Normans by sea to
@@ -375,12 +375,12 @@ the same time as Raymund. To the same great rendezvous other leaders
 also gathered, some of higher rank than Godfrey or Raymund or Bohemund,
 but none destined to exercise an equal influence on the fate of the
 Crusade. Hugh of Vermandois, younger brother of Philip I. of France, had
-reached Constantinople in November 1096, in a species of honourable
-captivity, and had done Alexius homage; Robert of Normandy and Stephen
-of Blois, to whom Urban II. had given St Peter's banner at Lucca, only
+reached Constantinople in November 1096, in a species of [[Honourable|honourable]]
+captivity, and had done Alexius [[Homage|homage]]; Robert of Normandy and Stephen
+of [[Blois]], to whom Urban II. had given St Peter's banner at [[Lucca]], only
 arrived--the last of the crusaders--in May 1097 (their original
 companion in arms, Count Robert of Flanders, having left them to winter
-at Bari, and crossed to Constantinople before the end of 1096).
+at [[Bari]], and crossed to Constantinople before the end of 1096).
 
 Thus was gathered at Constantinople, in the spring of 1097, a great
 host, which Fulcher computes at 600,000 men (I. c. iv.), Urban II. at
@@ -406,7 +406,7 @@ the foundation of the Eastern principality for his uncle by conquering
 Cilicia, and, on the other, he founded a principality for himself in
 Edessa. Raymond of Provence, the third and last of the great
 _politiques_ of the First Crusade, was, like Baldwin, envious of
-Bohemund; and jealousy drove him first to attempt to wrest Antioch from
+Bohemund; and [[Jealousy|jealousy]] drove him first to attempt to wrest Antioch from
 Bohemund, and then to found a principality of Tripoli to the south of
 Antioch, which would check the growth of his power. The political
 motives of these three princes, and the interaction of their different
@@ -427,7 +427,7 @@ adopted by Alexius. Confronted by crusaders where he had asked for
 auxiliaries, Alexius had two alternative policies presented to his
 choice. He might, in the first place, have frankly admitted that the
 crusaders were independent allies, and treating them as equals, he might
-have waged war in concert with them, and divided the conquests achieved
+have waged war in [[Concert|concert]] with them, and divided the conquests achieved
 in the war. A boundary line might have been drawn somewhere to the N.W.
 of Antioch; and the crusaders might have been left to acquire what they
 could to the south and east of that line. Unhappily, clinging to the
@@ -462,7 +462,7 @@ brethren in arms.
 The condition of Asia Minor and Syria in 1097 was almost altogether such
 as to favour the success of the crusaders. The Seljukian sultans had
 only achieved a military occupation of the country which they had
-conquered. There were Seljukian garrisons in towns like Nicaea and
+conquered. There were Seljukian [[Garrison|garrisons]] in towns like Nicaea and
 Antioch, ready to offer an obstinate resistance to the crusaders; and
 here and there in the country there were Seljukian armies, either
 cantoned or nomadic. But the inhabitants of the towns were often hostile
@@ -483,12 +483,12 @@ command, because there was no organization to keep them together under a
 single control. On the death of Malik Shah, the last of the great
 Seljukian emperors (1092), the empire dissolved. A new sultan,
 Barkiyaroq or Barkiarok, ruled in Bagdad (1094-1104); but in Asia Minor
-Kilij Arslan held sway as the independent sultan of Konia (Iconium),
+Kilij Arslan held sway as the independent sultan of Konia ([[Iconium]]),
 while the whole of Syria was also practically independent. Not only was
 Syria thus weakened by being detached from the body of the Seljukian
 empire; it was divided by dissensions within, and assailed by the
 Fatimite caliph of Egypt from without. In 1095 two brothers, Ridwan and
-Dekak, ruled in Aleppo and Damascus respectively; but they were at war
+Dekak, ruled in Aleppo and [[Damascus]] respectively; but they were at war
 with one another, and Yagi-sian, the ruler of Antioch, was a party to
 their dissensions. Ridwan and Yagi-sian were only stopped in an attack
 on Damascus by news of the approach of the crusaders, which led the
@@ -548,7 +548,7 @@ Genoese ships lying in the harbour of St Simeon, the port of Antioch
 provisions from which the crusaders suffered, and secured materials for
 the building of castles, with which Bohemund sought--in the Norman
 fashion--to overawe the besieged city. But it was finally by the
-treachery of one of Yagi-sian's commanders, the amir Firuz, that
+treachery of one of Yagi-sian's [[Commander|commanders]], the amir Firuz, that
 Bohemund was able to effect its capture. The other leaders had, however,
 to promise him possession of the city, before he would bring his
 negotiations with Firuz to a conclusion; and the matter was so long
@@ -561,7 +561,7 @@ Under the pressure of this strain "spiritualistic" phenomena began to
 appear. It was in the ranks of the Provencals, where the religiosity of
 Count Raymund seems to have extended to his followers, that these
 phenomena appeared; and they culminated in the discovery of the Holy
-Lance, which had pierced the side of the Saviour. The excitement
+[[Lance]], which had pierced the side of the Saviour. The excitement
 communicated itself to the whole army; and the nervous strength which it
 gave enabled the crusaders to meet and defeat Kerbogha in the open
 (June 28), but not before many of their number, including even Count
@@ -613,7 +613,7 @@ any churchmen left of sufficient dignity or weight to secure the triumph
 of the ecclesiastical cause. In the meeting of the crusaders on the 22nd
 of July, some few voices were raised in support of the view that a
 "spiritual vicar" should first be chosen in the place of the late
-patriarch of Jerusalem (who had just died in Cyprus), before the
+patriarch of Jerusalem (who had just died in [[Cyprus]]), before the
 election of any lay ruler was taken in hand. But the voices were not
 heard; and the princes proceeded at once to elect a lay ruler. Raymund
 of Provence refused to accept their nomination, nominally on the pious
@@ -624,13 +624,13 @@ pilgrims--was still the first object of his ambition. The refusal of
 Raymund meant the choice of Godfrey of Bouillon, who had, as we have
 seen, become prominent since the siege of Arca; and Godfrey accordingly
 became--not king, but "advocate of the Holy Sepulchre," while a few days
-afterwards Arnulf, the chaplain of Robert of Normandy, and one of the
+afterwards [[Arnulf]], the [[Chaplain|chaplain]] of Robert of Normandy, and one of the
 sceptics in the matter of the Holy Lance, became "vicar" of the vacant
 patriarchate. Godfrey's first business was to repel an Egyptian attack,
 which he accomplished successfully at Ascalon, with the aid of the other
 crusaders (August 12). At the end of August the other crusaders
 returned,[12] and Godfrey was left with a small army of 2000 men, and
-the support of Tancred, now prince of Galilee, to rule in some four
+the support of Tancred, now prince of [[Galilee]], to rule in some four
 isolated districts--Jaffa, Jerusalem, Ramlah and Haifa. At the end of
 the year came Bohemund and Godfrey's brother Baldwin (now count of
 Edessa) on a pilgrimage to Jerusalem. The result of Bohemund's visit was
@@ -641,7 +641,7 @@ Bohemund and Godfrey together became Dagobert's vassals; and in the
 spring Godfrey even seems to have entered into an agreement with the
 patriarch to cede Jerusalem and Jaffa into his hands, in the event of
 acquiring other lands or towns, especially Cairo, or dying without
-direct heirs. When Godfrey died in July 1100 (after successful forays
+direct [[Heir|heirs]]. When Godfrey died in July 1100 (after successful forays
 against the Mahommedans which took him as far as Damascus), it might
 seem as if a theocracy were after all to be established in Jerusalem, in
 spite of the events of 1099.
@@ -659,7 +659,7 @@ pretensions of Dagobert and the Norman influence by which they were
 backed; and this party, representing the Lotharingian laity, carried the
 day. Baldwin was summoned from Edessa; and when he arrived, towards the
 end of the year, he was crowned king by Dagobert himself. Thus was
-founded, on Christmas day 1100, the Latin kingdom of Jerusalem; and thus
+founded, on [[Christmas]] day 1100, the Latin kingdom of Jerusalem; and thus
 was the possibility of a theocracy finally annihilated. A feudal kingdom
 of Frankish seigneurs was to be planted on the soil of Palestine,
 instead of a _dominium temporale_ of the patriarch like that of the pope
@@ -693,7 +693,7 @@ in the East. There was thus a steady immigration into the kingdom, to
 strengthen its armies and recruit with new blood the vigour of its
 inhabitants. Still more important perhaps was the fact that the ports of
 the kingdom attracted the Italian towns; and it was therefore to the
-kingdom that they lent the strength of their armies and the skill of
+kingdom that they [[Lent|lent]] the strength of their armies and the skill of
 their siege-artillery--in return, it is true, for concessions of
 privileges so considerable as to weaken the resources of the kingdom
 they helped to create. While Jerusalem possessed these advantages,
@@ -703,7 +703,7 @@ Mahommedan powers in the vicinity. As early as 1100 Bohemund was
 captured in battle by Danishmend of Sivas; and it was his captivity,
 depriving the patriarch as it did of Norman assistance, which allowed
 the uncontested accession of Baldwin I. Again, in 1104, the Normans,
-while attempting to capture Harran, were badly defeated on the river
+while attempting to capture [[Harran]], were badly defeated on the river
 Balikh, near Rakka; and this defeat may be said to have been fatal to
 the chance of a great Norman principality.[15] But the hostility of
 Alexius, aided and abetted by the jealousy of Raymund of Toulouse, was
@@ -753,7 +753,7 @@ stronger claim on the crusaders, and a greater interest in acquiring an
 eastern emporium. An alliance was accordingly struck in 1101 (Fulcher
 II. c. vii.), by which the Genoese promised their assistance, in return
 for a third of all booty, a quarter in each town captured, and a grant
-of freedom from tolls. In this way Baldwin I. was able to take Arsuf and
+of freedom from tolls. In this way Baldwin I. was able to take [[Arsuf]] and
 Caesarea in 1101 and Acre in 1104. But Genoese aid was given to others
 beside Baldwin (it enabled Raymund to capture Byblus in 1104, and his
 successor, William, to win Tripoli in 1109); while, on the other hand,
@@ -797,12 +797,12 @@ the eastern arm of the Red Sea. This had been won by Baldwin I., by way
 of revenge for the attacks of the Egyptians on his kingdom; and here, as
 early as 1116, he had built the fort of Monreal, half way between Aila
 and the Dead Sea. To the east of the Dead Sea, again, lay a second strip
-of territory, in which the great fortress was Krak (Kerak) of the
-Desert, planted somewhere about 1140 by the royal butler, Paganus, in
-the reign of Fulk of Jerusalem. These extensions in the south and east
+of territory, in which the great fortress was Krak ([[Kerak]]) of the
+[[Desert]], planted somewhere about 1140 by the royal [[Butler|butler]], Paganus, in
+the reign of [[Fulk]] of Jerusalem. These extensions in the south and east
 had also, it is easy to see, a commercial motive. They gave the kingdom
 a connexion of its own with the Red Sea and its shipping; and they
-enabled the Franks to control the routes of the caravans, especially
+enabled the [[Franks]] to control the routes of the [[Caravan|caravans]], especially
 the route from Damascus to Egypt and the Red Sea. Thus, it would appear,
 the whole of the expansion of the Latin kingdom (which may be said to
 have attained its height in 1131, at the death of Baldwin II.) may be
@@ -814,7 +814,7 @@ country of Christ, and a natural centre of trade) to a position of
 supremacy in Latin Syria. During this process of growth the kingdom
 stood in relation to two sects of powers--the three Frankish
 principalities in northern Syria, and the Mahommedan powers both of the
-Euphrates and the Nile--whose action affected its growth and character.
+[[Euphrates]] and the Nile--whose action affected its growth and character.
 
 Of the three Frankish principalities, Edessa, founded in 1098 by Baldwin
 I. himself, was a natural fief of Jerusalem. Baldwin de Burgh, the
@@ -830,7 +830,7 @@ aegis of Jerusalem at an early date. Founded by Raymund of Toulouse,
 between 1102 and 1105, with the favour of Alexius and the alliance of
 the Genoese, it did not acquire its capital of Tripoli till 1109. Even
 before the conquest of Tripoli, there had been dissensions between
-William, the nephew and successor of Raymund, and Bertrand, Raymund's
+William, the nephew and successor of Raymund, and [[Bertrand]], Raymund's
 eldest son, which it had needed the interference of Baldwin I. to
 compose; and it was only by the aid of the king that the town of Tripoli
 had been taken. At an early date therefore the county of Tripoli had
@@ -843,7 +843,7 @@ princes of Mardin and Mosul. On the death of Roger in 1119, the
 principality came under the regency of Baldwin II. of Jerusalem, until
 1126, when Bohemund II. came of age. Bohemund had married a daughter of
 Baldwin; and on his death in 1130 Baldwin II. had once more become the
-guardian of Antioch. From his reign therefore Antioch may be regarded as
+[[Guardian|guardian]] of Antioch. From his reign therefore Antioch may be regarded as
 a dependency of Jerusalem; and thus the end of Baldwin's reign (1131)
 may be said to mark the time when the Latin kingdom of Jerusalem stands
 complete, with its own boundaries stretching from Beirut in the north to
@@ -917,7 +917,7 @@ against the Franks, the fall of the kingdom of Jerusalem might have come
 far sooner than it did.[21] But there were two powers which aided Fulk,
 and impeded the progress of Zengi--the amirate of Damascus and the
 emperors of Constantinople. The position of Damascus is a position of
-crucial importance from 1130 to 1154. Lying between Mosul and Jerusalem,
+[[Crucial|crucial]] importance from 1130 to 1154. Lying between Mosul and Jerusalem,
 and important both strategically and from its position on the great
 route of commerce from the Euphrates to Egypt, Damascus became the
 arbiter of Syrian politics. During the greater part of the period
@@ -928,7 +928,7 @@ of Zengi, who had already attacked Damascus in 1130. The natural ally
 was Jerusalem. As early as 1133 the alliance of the two powers had been
 concluded; and in 1140 the alliance was solemnly renewed between Fulk
 and the vizier. Henceforth this alliance was a dominant factor in
-politics. One of the great mistakes made by the Franks was the breach of
+politics. One of the great mistakes made by the Franks was the [[Breach|breach]] of
 the alliance in 1147--a breach which was widened by the attack directed
 against Damascus during the Second Crusade; and the conquest of Damascus
 by Nureddin in 1154 was ultimately fatal to the Latin kingdom, removing
@@ -961,7 +961,7 @@ the opportunity of dissensions in Antioch, and received its long-denied
 homage, as well as that of Tripoli; while in the following year he
 entered into hostilities with Zengi, without, however, achieving any
 considerable result. In 1142 he returned again, anxious to create a
-principality in Cilicia and Antioch for his younger son Manuel. The
+principality in Cilicia and Antioch for his younger son [[Manuel]]. The
 people of Antioch refused to submit; a projected visit to Jerusalem,
 during which John was to unite with Fulk in a great alliance against the
 Moslem, fell through; and in the spring of 1143 the emperor died in
@@ -985,7 +985,7 @@ is dissension either inside one of the principalities or between two of
 the princes. On the death of one of the princes without heirs of full
 age, the kings of Jerusalem were entitled to act as regents, as Baldwin
 II. did twice at Antioch, in 1119 and 1130; but the kings regarded this
-right of regency as a burden rather than a privilege, and it is indeed
+right of regency as a [[Burden|burden]] rather than a privilege, and it is indeed
 characteristic of the relation of the king to the three princes, that it
 imposes upon him duties without any corresponding rights. It is his duty
 to act as regent; it is his duty to compose the dissensions in the
@@ -997,7 +997,7 @@ equals doing a favour; and they sometimes refused to join until they
 were coerced. They made their own treaties with the Mahommedans, or
 attacked them in spite of the king's treaties; they dated their
 documents by the year of their own reign, and they had each their
-separate laws or assizes. There was, in a word, co-ordination rather
+separate laws or [[Assize|assizes]]. There was, in a word, co-ordination rather
 than subordination; nor did the kings ever attempt to embark on a policy
 of centralization.
 
@@ -1025,7 +1025,7 @@ Godfrey and the first two Baldwins this was the case. But the conception
 of the equality of the king and his peers in the long run led to
 hereditary monarchy; for if the king held his kingdom as a fief, like
 other nobles, the laws of descent which applied to a fief applied to the
-kingdom, and those laws demanded heredity. Yet the high court, which
+kingdom, and those laws demanded [[Heredity|heredity]]. Yet the high court, which
 decided all problems of descent, would naturally intervene if a problem
 of descent arose, as it frequently did, in the kingdom; and thus the
 barons had the right of deciding between different claimants, and also
@@ -1068,23 +1068,23 @@ to render service, unless he were _paid_ for his service; and it was
 only famine, or Saracen devastation, which freed the king from the
 obligation of paying his men. The king was also bound to insure the
 horses of his men by a system called the _restor_: if a vassal lost his
-horse otherwise than by his own fault, it must be replaced by the
+horse otherwise than by his own [[Fault|fault]], it must be replaced by the
 treasury (which was termed, as it also was in Norman Sicily, the
 _secretum_).[22] But the king had another force in addition to the
 feudal levy--a paid force of _soudoyers_,[23] holding fiefs, not of
-land, but of pay (_fiefs de soudee_). Along with this paid cavalry went
+land, but of pay (_fiefs de soudee_). Along with this paid [[Cavalry|cavalry]] went
 another branch of the army, the Turcopuli, a body of light cavalry,
 recruited from the Syrians and Mahommedans, and using the tactics of the
 Arabs; while an infantry was found among the Armenians, the best
-soldiers of the East, and the Maronites, who furnished the kingdom with
-archers. To all these various forces must be added the knights and
-native levies of the great orders, whose masters were practically
+soldiers of the East, and the [[Maronites]], who furnished the kingdom with
+[[Archer|archers]]. To all these various forces must be added the knights and
+native [[Levi|levies]] of the great orders, whose masters were practically
 independent sovereigns like the princes of Antioch and Tripoli;[24] and
-with these the total levy of the kingdom may be reckoned at some 25,000
+with these the total [[Levy|levy]] of the kingdom may be reckoned at some 25,000
 men. But the strength of the kingdom lay less perhaps in the army than
 in the magnificent fortresses which the nobility, and especially the two
 orders, had built; and the most visible relic of the crusades to-day is
-the towering ruins of a fortress like Krak (Kerak) des Chevaliers, the
+the towering ruins of a fortress like Krak (Kerak) des [[Chevalier|Chevaliers]], the
 fortress of the Knights of St John in the principality of Tripoli. These
 fortresses, garrisoned not by the king, as in Norman England, but by
 their possessors, would only strengthen the power of the feudatories,
@@ -1129,7 +1129,7 @@ understand the independent position which the burgesses assumed in the
 organization of the kingdom. Burgesses could buy and possess property in
 towns, which knights were forbidden to acquire; and though they could
 not intermarry with the feudal classes, it was easy and regular for a
-burgess to thrive to knighthood. Like the nobles, again, the burgesses
+[[Burges|burgess]] to thrive to knighthood. Like the nobles, again, the burgesses
 had the right of confirming royal grants and of taking part in
 legislation; and they may be said to have formed--socially, politically
 and judicially--an independent and powerful estate. Yet (with the
@@ -1161,7 +1161,7 @@ kinds of courts of a commercial character--the _cours de la fonde_ in
 towns where trade was busy, and the _cours de la chaine_ in the
 sea-ports. The former courts, under their bailiffs, gradually absorbed
 the separate courts which the Syrians had at first been permitted to
-enjoy under their own _reis_; and the bailiff with his 6 assessors (4
+enjoy under their own _reis_; and the bailiff with his 6 [[Assessor|assessors]] (4
 Syrians and 2 Franks) thus came to judge both commercial cases and cases
 in which Syrians were involved. The _cours de la chaine_, whose
 institution is assigned to Amalric I. (1162-1174), had a civil
@@ -1169,7 +1169,7 @@ jurisdiction in admiralty cases, and, like the _cours de la fonde_, they
 were composed of a bailiff and his assessors. Distinct from all these
 courts, if similar in its sphere, is the court which the Italian quarter
 generally enjoyed in each town under its own consuls--a court privileged
-to try all but the graver cases, like murder, theft and forgery. The
+to try all but the graver cases, like murder, theft and [[Forgery|forgery]]. The
 court was part of the general immunity which made these quarters
 _imperia in imperio_: their exemptions from tolls and from financial
 contributions is parallel to their judicial privileges. Regulated by
@@ -1179,7 +1179,7 @@ exist under Mahommedan rulers. The Church had its separate courts, as in
 the West; but their province was perhaps greater than elsewhere. The
 church courts could not indeed decide cases of perjury; but, on the
 other hand, they tried all matters in which clerical property was
-concerned, and all cases of dispute between husband and wife. In other
+concerned, and all cases of dispute between [[Husband And Wife|husband and wife]]. In other
 spheres the immunities and exemptions of the Church offered a far more
 serious problem, and especially in the sphere of finance. Perhaps the
 supreme defect of the kingdom of Jerusalem was its want of any financial
@@ -1190,7 +1190,7 @@ and the proceeds of justice, of poll-taxes on Jews and Mahommedans, and
 of the tributes paid by Mahommedan powers. But his expenditure was
 large: he had to pay his feudatories; and he had to provide fiefs in
 money and kind to those who had not fiefs of land. The contributions
-sent to the Holy Land by the monarchs of western Europe, as commutations
+sent to the Holy Land by the monarchs of western Europe, as [[Commutation|commutations]]
 in lieu of personal participation in crusades, might help; the fatal
 policy of razzias against the neighbouring Mahommedan powers might
 procure temporary resources; but what was really necessary was a wide
@@ -1251,7 +1251,7 @@ themselves thwarted and distrusted by the native Franks. It was indeed
 one of the misfortunes of the kingdom that its inhabitants could never
 welcome the reinforcements which came to their aid.[27] The barons
 suspected the crusaders of ulterior motives, and of designing to get new
-principalities for themselves. In any case the native Frank, accustomed
+principalities for themselves. In any case the native [[Frank]], accustomed
 to commercial intercourse and diplomatic negotiations with the
 Mahommedans, could hardly share the unreasoning passion to make a dash
 for the "infidel." As with the barons, so with the burgesses: they
@@ -1260,15 +1260,15 @@ readily the way of peaceful commerce, and they were far more ready to
 hinder than to help any martial enterprise. Left to itself, the native
 population lost physical and moral vigour. The barons alternated between
 the extravagances of Western chivalry and the attractions of Eastern
-luxury: they returned from the field to divans with frescoed walls and
-floors of mosaic, Persian rugs and embroidered silk hangings. Their
+luxury: they returned from the field to [[Divan|divans]] with frescoed walls and
+floors of mosaic, Persian rugs and embroidered silk [[Hanging|hangings]]. Their
 houses, at any rate those in the towns, had thus the characteristics of
 Moorish villas; and in them they lived a Moorish life. Their sideboards
 were covered with the copper and silver work of Eastern smiths and the
 confectioneries of Damascus. They dressed in flowing robes of silk, and
 their women wore oriental gauzes covered with sequins. Into these divans
 where figures of this kind moved to the music of Saracen instruments,
-there entered an inevitable voluptuousness and corruption of manners.
+there entered an inevitable voluptuousness and corruption of [[Manners|manners]].
 The hardships of war and the excesses of peace shortened the lives of
 the men; the kingdom of Jerusalem had eleven kings within a century.
 While the men died, the women, living in comparative indolence, lived
@@ -1294,7 +1294,7 @@ writes, "suffered from the weakness of hereditary right and the
 jealousies of the elective system" at one and the same time. With the
 frequent remarriages of the heiresses of the kingdom, relationships grew
 confused and family quarrels frequent; and when Sibylla carried the
-crown to Guy de Lusignan, a newcomer disliked by all the relatives of
+crown to Guy de [[Lusignan]], a newcomer disliked by all the relatives of
 the crown, she sealed the fate of the kingdom.
 
 It may be doubted--though it seems a harsh verdict to pass on a kingdom
@@ -1305,7 +1305,7 @@ adventurers who thirsted for gain; and the primitive appetite did not
 lose its edge with the progress of time. We cannot be certain, indeed,
 how far the Frankish lords oppressed their Syrian tenants: the stories
 of such oppression have been discredited; while if we may trust the
-evidence of a Mahommedan traveller, Ibn Jubair, the lot of the
+evidence of a Mahommedan traveller, Ibn Jubair, the [[Lot|lot]] of the
 Mahommedan who lived on Frankish manors was better than it had been
 under their native lords.[28] But the habits of the Franks were none the
 less habits of lawless greed: they swooped down from their castles, as
@@ -1335,16 +1335,16 @@ alliance with Damascus. Thus, in itself, the position of affairs in the
 Holy Land in 1147 was certainly ominous; and the kingdom might well seem
 dependent for its safety on such aid as it might receive from the West.
 
-Early in 1145 news had come from Antioch to Eugenius III. of the fall of
-Edessa, and at the end of the year he had sent an encyclical to
+Early in 1145 news had come from Antioch to [[Eugenius]] III. of the fall of
+Edessa, and at the end of the year he had sent an [[Encyclical|encyclical]] to
 France--the natural soil, as we have seen, of crusading zeal. The
 response was instantaneous: the king of France himself, who bore on his
-conscience the burden of an unpunished massacre by his troops at Vitry
+conscience the burden of an unpunished [[Massacre|massacre]] by his troops at Vitry
 in 1142,[30] took the crusading vow on the Christmas day of 1145. But
 the greatest success was attained when St Bernard--no great believer in
 pilgrimages, and naturally disposed to doubt the policy of a second
 Crusade--was induced by the pope to become the preacher of the new
-movement. To the crusading king of France St Bernard added the king of
+movement. To the crusading king of France St [[Bernard]] added the king of
 Germany, when, in Christmas week of 1146, he induced Conrad III. to take
 the vow by his sermon in the cathedral of Spires. Thus was begun the
 Second Crusade,[31] under auspices still more favourable than those
@@ -1353,7 +1353,7 @@ the place of knights, while the new crusaders would no longer be
 penetrating into the wilds, but would find a friendly basis of
 operations ready to their hands in Frankish Syria. But the more
 favourable the auspices, the greater proved the failure. Already at the
-final meeting at Etampes, in 1147, difficulties arose. Manuel Comnenus
+final meeting at [[Etampes]], in 1147, difficulties arose. Manuel Comnenus
 demanded that all conquests made by the crusaders should be his fiefs;
 and the question was debated whether the crusaders should follow the
 land route through Hungary, along the old road of Charlemagne, or should
@@ -1374,7 +1374,7 @@ attests the cleavage between northern and southern Germany (intensified
 of late years by the war of investitures), and anticipates the age of
 the Teutonic knights and their long Crusade on the Baltic. The crusaders
 of the Low Countries and of England took the sea route, and attacked and
-captured Lisbon on their way, thus helping to found the kingdom of
+captured [[Lisbon]] on their way, thus helping to found the kingdom of
 Portugal, and achieving the one real success which was gained by the
 Second Crusade.[32] Among the great army of crusaders who actually
 marched to Jerusalem there was little real unity. Conrad and Louis VII.
@@ -1430,7 +1430,7 @@ slight extent in maintaining the kingdom against Nureddin. But there
 were dissensions within, both between Baldwin and his mother, Melisinda,
 who sought to protract her regency unduly, and between contending
 parties in Antioch, where the hand of Constance, Raymund's widow, was a
-desirable prize[34]; while from without the horns of the crescent were
+desirable prize[34]; while from without the [[Horn|horns]] of the [[Crescent|crescent]] were
 slowly closing in on the kingdom. Nureddin pursued in his policy the
 tactics which the Mahommedans used against the Franks in battle: he
 sought to envelop their territories on every side. In 1154 fell
@@ -1507,7 +1507,7 @@ cause of many dissensions; for Sibylla, the eldest daughter of Amalric
 I., carried to her husband--a French adventurer--a presumptive title to
 the crown, which would never be admitted without dispute. In 1186 Guy
 eventually became king, after the death of Baldwin V. (Sibylla's son by
-her first marriage); but his coronation was in violation of the promise
+her first marriage); but his [[Coronation|coronation]] was in violation of the promise
 given to Raymund of Tripoli (that in the event of the death of Baldwin
 V. without issue the succession should be determined by the pope, the
 emperor and the kings of France and England), and Guy, with a weak
@@ -1530,7 +1530,7 @@ previous year owing to the general prevalence of famine.[38] The
 coronation of one French adventurer and the conduct of another, whom the
 first was unable to control, meant the ruin of the kingdom; and Saladin
 at last delivered in full force his long-deferred attack. The Crusade
-was now at last answered by the counter-Crusade--the _jihad_; for though
+was now at last answered by the counter-Crusade--the _[[Jihad|jihad]]_; for though
 for many years past Saladin had, in his attempt to acquire all the
 inheritance of Nureddin, left Palestine unmenaced and intact, his
 ultimate aim was always the holy war and the recovery of Jerusalem. The
@@ -1550,7 +1550,7 @@ plain under the heat of a July sun, was utterly defeated; and after a
 fortnight's siege Jerusalem capitulated (October 2nd, 1187). In the
 kingdom itself nothing was left to the Latins by the end of 1189 except
 the city of Tyre; and to the north of the kingdom they only held Antioch
-and Tripoli, with the Hospitallers' fortress at Margat. The fingers of
+and Tripoli, with the Hospitallers' fortress at Margat. The [[Finger|fingers]] of
 the clock had been pushed back; once more things were as they had been
 at the time of the First Crusade; once more the West must arm itself for
 the holy war and the recovery of Jerusalem--but now it must face a
@@ -1588,7 +1588,7 @@ not spring from the papacy, which was passing through one of its epochs
 of depression; it springs from the lay power, which, represented by the
 three strong monarchies of Germany, England and France, was at this time
 dominant in Europe. In Germany it was the solemn national diet of Mainz
-(Easter 1188) which "swore the expedition" to the Holy Land; in France
+([[Easter]] 1188) which "swore the expedition" to the Holy Land; in France
 and England the agreement of the two kings decided upon a joint Crusade.
 The very means which Philip Augustus and Henry II. took, in order to
 further the Crusade, show its lay aspect. A scheme of taxation--the
@@ -1620,31 +1620,31 @@ on parole, had at once broken his word and returned to the attack. The
 army which was besieging Acre was soon joined by various contingents;
 for Acre, after all, was the vital point, and its capture would open the
 way to Jerusalem. Two of these contingents alone concern us here--the
-German and the Anglo-French. Frederick I. of Germany, using a diplomacy
+German and the Anglo-French. Frederick I. of Germany, using a [[Diplomacy|diplomacy]]
 which corresponds to the lay character of the Third Crusade, had sought
 to prepare his way by embassies to the king of Hungary, the Eastern
 emperor and the sultan of Iconium. Starting from Regensburg in May 1189,
 the German army marched quietly through Hungary; but difficulties arose,
 as they had arisen in 1147, as soon as the frontiers of the Eastern
-empire were reached. The emperor Isaac Angelus had not only the old
+empire were reached. The emperor [[Isaac]] Angelus had not only the old
 grudge of all Eastern emperors against the "upstart" emperor of the
 West; he had also allied himself with Saladin, in order to acquire for
 his empire the patronage of the Holy Places and religious supremacy in
-the Levant. The difficulties between Frederick and Isaac Angelus became
+the [[Levant]]. The difficulties between Frederick and Isaac Angelus became
 acute: in November 1189 Frederick wrote to his son Henry, asking him to
 induce the pope to preach a Crusade against the schismatic Greeks. But
 terms were at last arranged, and by the end of March 1190 the Germans
 had all crossed to the shores of Asia Minor. Taking a route midway
 between the eastern route of the crusaders of 1097 and the western route
 of Louis VII. in 1148, Frederick marched by Philadelphia and Iconium,
-not without dust and heat, until he reached the river Salof, in Armenian
+not without [[Dust|dust]] and heat, until he reached the river Salof, in Armenian
 territory. Here, with the burden of the day now past, the fine old
 crusader--he had joined before in the Second Crusade, forty years
 ago--perished by accident in the river; and of all his fine army only a
 thousand men won their way through, under his son, Frederick of Swabia,
 to join the ranks before Acre (October 1190). The Anglo-French
 detachment achieved a far greater immediate success. War had indeed
-disturbed the original agreement of Gisors between Philip Augustus and
+disturbed the original agreement of [[Gisors]] between Philip Augustus and
 Henry II., but a new agreement was made between Henry's successor,
 Richard I., and the French king at Nonancourt (December 1189), by which
 the two monarchs were to meet at Vezelay next year, and then follow the
@@ -1656,7 +1656,7 @@ blood; and when Philip sailed for the Holy Land, at the end of March
 followed; but while Philip sailed straight for Acre, Richard occupied
 himself by the way in conquering Cyprus--partly out of knight-errantry,
 and in order to avenge an insult offered to his betrothed wife
-Berengaria by the despot of the island, partly perhaps out of policy,
+Berengaria by the [[Despot|despot]] of the island, partly perhaps out of policy,
 and in order to provide a basis of supplies and of operations for the
 armies attempting to recover Palestine. In any case, he is the founder
 of the Latin kingdom of Cyprus (for he afterwards sold his new
@@ -1673,7 +1673,7 @@ had been terrible; and the position of affairs had only been made worse
 by the dissensions between Guy de Lusignan and Conrad of Montferrat, who
 had begun to claim the crown in return for his services, and had, on the
 death of Sibylla, the wife of Guy, reinforced his claim by a marriage
-with her younger sister, Isabella. In these dissensions it was
+with her younger sister, [[Isabella]]. In these dissensions it was
 inevitable that Philip Augustus and Richard I., already discordant,
 should take contrary sides; and while Richard naturally sided with Guy
 de Lusignan, who came from his own county of Poitou, Philip as naturally
@@ -1699,7 +1699,7 @@ crusaders were to be allowed to visit the Holy Sepulchre. Meanwhile
 Conrad of Montferrat, at the very instant when his superior ability had
 finally forced Richard to recognize him as king, had been assassinated
 (April 1192): Guy de Lusignan had bought Cyprus from Richard, and had
-sailed away to establish himself there;[40] and Henry of Champagne,
+sailed away to establish himself there;[40] and Henry of [[Champagne]],
 Richard's nephew, had been called to the throne of Jerusalem, and had
 given himself a title by marrying Conrad's widow, Isabella. In this
 condition Richard left the Holy Land, when he began his eventful return,
@@ -1718,10 +1718,10 @@ into prominence by the meeting of the nations in a common enterprise;
 while, on the other hand, Mahommedans and Christians had fraternized as
 they had never done before during the progress of a Crusade. But what
 the Third Crusade showed most clearly was that the crusading movement
-was being lost to the papacy, and becoming part of the demesne of the
+was being lost to the papacy, and becoming part of the [[Demesne|demesne]] of the
 secular state--organized by the state on its own basis of taxation, and
 conducted by the state according to its own method of negotiation. This
-after all is the great change; and even the genius of an Innocent III.
+after all is the great change; and even the genius of an [[Innocent]] III.
 "could not make undone what had once been done." On the contrary, the
 thing once done would go further; and the state would take up the name
 of Crusade in order to cover, and under such cover to achieve, its own
@@ -1737,7 +1737,7 @@ and its representative was Henry VI.--the greatest politician of his
 day, and in many ways the greatest emperor since Charlemagne. In 1195
 Amalric, the brother of Guy de Lusignan, and his successor in Cyprus,
 sought the title of king from Henry and did homage; and at the same time
-Leo of Lesser Armenia, in order to escape from dependence on the Eastern
+Leo of Lesser [[Armenia]], in order to escape from dependence on the Eastern
 empire, took the same course. Henry thus gained a basis in the Levant;
 while the death of Saladin in 1193, followed by a civil war between his
 brother, Malik-al-Adil, and his sons for the possession of his
@@ -1754,7 +1754,7 @@ to demand compensation for the injuries done to Frederick I., along with
 the cession of all territories ever conquered by the Norman kings of
 Sicily, and a fleet to co-operate with the new Crusade. In the same
 year, however, Isaac was dethroned by his brother, Alexius III.; but
-Henry married Isaac's daughter Irene to his brother, Philip of Swabia,
+Henry married Isaac's daughter [[Irene]] to his brother, Philip of Swabia,
 and thus attempted to give the Hohenstaufen a new title and a valid
 claim against the usurper Alexius. Thus armed he pushed forward the
 preparations for the Crusade in Germany--a Crusade whose first object
@@ -1807,13 +1807,13 @@ Egypt. An agreement was made between the doge and the envoys, by which
 transport and active help were to be given by Venice in return for
 85,000 marks and the cession of half of the conquests made by the
 crusaders. But the Fourth Crusade was not to be plain sailing to Egypt.
-It became involved in a maelstrom of conflicting political motives, by
+It became involved in a [[Maelstrom|maelstrom]] of conflicting political motives, by
 which it was swept to Constantinople. Here we must distinguish between
 cause and occasion. There were three great causes which made for an
 attack on Constantinople by the West. There was first of all the old
 crusading grudge against the Eastern empire, and its fatal policy of
 regarding the whole of the Levant as its lost provinces, to be restored
-as soon as conquered, or at any rate held in fee, by the Western
+as soon as conquered, or at any rate held in [[Fee|fee]], by the Western
 crusaders--a policy which led the Eastern emperors either to give
 niggardly aid or to pursue obstructive tactics, and caused them to be
 blamed for the failure of the Crusades in 1101, and 1149, and in 1190.
@@ -1843,7 +1843,7 @@ transmuted the Fourth Crusade into a political expedition against
 Constantinople. To such a policy of transmutation he was urged by two
 things. On the one hand, the death of the count of Champagne (May 1201)
 had induced the crusaders to elect as their leader Boniface of
-Montferrat, the brother of Conrad; and Boniface was the cousin of
+Montferrat, the brother of Conrad; and Boniface was the [[Cousin|cousin]] of
 Philip, and interested in Constantinople, where not only Conrad, but
 another brother as well, had served, and suffered for their service at
 the hands of their masters. On the other hand Alexius, the son of the
@@ -1879,8 +1879,8 @@ his promises, the difficulty which had arisen at Venice in the autumn of
 1202 repeated itself. Alexius's resources were insufficient, and he had
 to beg the crusaders to wait at Constantinople for a year in order that
 he might have time. They waited; but the closer contact of a prolonged
-stay only brought into fuller play the essential antipathy of the Greek
-and the Latin. Continual friction developed at last into the open fire
+stay only brought into [[Fuller|fuller]] play the essential antipathy of the Greek
+and the Latin. Continual [[Friction|friction]] developed at last into the open fire
 of war; and in March 1204 the crusaders resolved to storm
 Constantinople, and to divide among themselves the Eastern empire. In
 April Constantinople was captured; in May Baldwin of Flanders became the
@@ -1911,7 +1911,7 @@ heretics of southern France was soon afterwards to show that the example
 could be followed, and that the land-hunger of the north French baronage
 could exploit a Crusade as successfully as ever did Hohenstaufen policy
 leagued with Venetian cupidity. The Crusade lost its _elan_ when it
-became a move in a political game. If the Third Crusade had been
+became a move in a political [[Game|game]]. If the Third Crusade had been
 directed by the lay power towards the true spiritual end of all
 Crusades, the Fourth was directed by the lay power to its own lay ends;
 and the political and commercial motives, winch were deeply implicit
@@ -1929,7 +1929,7 @@ East.
 
 _The Fifth Crusade, 1218-1221._--The glow and the glamour of the
 Crusades disappear save for the pathetic sunset splendours of St Louis,
-as Dandolo dies, and gallant Villehardouin drops his pen. But before St
+as [[Dandolo]] dies, and gallant Villehardouin drops his pen. But before St
 Louis sailed for Damietta there intervened the miserable failure of one
 Crusade, and the secular and diplomatic success of another. The Fifth
 Crusade is the last which is started in that pontificate of
@@ -1947,8 +1947,8 @@ long as his right hand retained its cunning. The pathos of the
 Children's Crusade of 1212 only nerved him to fresh efforts. A shepherd
 boy named Stephen had appeared in France, and had induced thousands to
 follow his guidance: with his boyish army he rode on a wagon southward
-to Marseilles, promising to lead his followers dry-shod through the
-seas. In Germany a child from Cologne, named Nicolas, gathered some
+to [[Marseilles]], promising to lead his followers dry-shod through the
+seas. In Germany a child from [[Cologne]], named Nicolas, gathered some
 20,000 young crusaders by the like promises, and led them into Italy.
 Stephen's army was kidnapped by slave-dealers and sold into Egypt; while
 Nicolas's expedition left nothing behind it but an after-echo in the
@@ -1974,7 +1974,7 @@ Holy Land; while in 1218 an army from the north-west joined at Acre the
 forces of the previous year. Egypt had already been indicated by
 Innocent III. in 1215 as the goal of attack, and it was accordingly
 resolved to begin the Crusade by the siege of Damietta, on the eastern
-delta of the Nile. The original leader of the Crusade was John of
+[[Delta|delta]] of the Nile. The original leader of the Crusade was John of
 Brienne, king of Jerusalem (who had succeeded Amalric II., marrying
 Maria, the daughter of Amalric's wife Isabella by her former husband,
 Conrad of Montferrat); but after the end of 1218 the cardinal legate
@@ -1987,17 +1987,17 @@ considerable feat of arms, but nothing was done to clinch the advantage
 which had been won, and the whole of the year 1220 was spent by the
 crusaders in Damietta, partly in consolidating their immediate position,
 and partly in waiting for the arrival of Frederick II., who had promised
-to appear in 1221. In 1221 Hermann of Salza, the master of the Teutonic
+to appear in 1221. In 1221 [[Hermann]] of Salza, the master of the Teutonic
 order, along with the duke of Bavaria, appeared in the camp before
 Damietta; and as it seemed useless to wait any longer for Frederick
 II.,[48] the cardinal, in spite of the opposition of King John, gave the
 signal for the march on Cairo. The army reached a fortress erected by
-the sultan in 1219 (afterwards, from 1221, the town of Mansura), and
+the sultan in 1219 (afterwards, from 1221, the town of [[Mansura]]), and
 encamped there at the end of July. Here the sultan reiterated terms
 which he had already offered several times before--the cession of most
 of the kingdom of Jerusalem, the surrender of the cross (captured by
 Saladin in 1187), and the restoration of all prisoners. King John urged
-the acceptance of these terms. The legate insisted on a large indemnity
+the acceptance of these terms. The legate insisted on a large [[Indemnity|indemnity]]
 in addition: the negotiations failed, and the sultan prepared for war.
 The crusaders were driven back towards Damietta; and at the end of
 August 1221 Pelagius had to make a treaty with Malik-al-Kamil, by which
@@ -2026,7 +2026,7 @@ and the policy of the Hohenstaufen and the Venetians had directed the
 Fourth, it was a papal legate who had steered the Fifth to its ultimate
 fate. The Crusade of Frederick II. in 1228-1229 finds its analogy in the
 projected Crusade of Henry VI.; it is essentially lay. It is unique in
-the annals of the Crusades. Alone of all Crusades (though the Fourth
+the [[Annals|annals]] of the Crusades. Alone of all Crusades (though the Fourth
 Crusade offers some analogy) it was not blessed but cursed by the
 papacy: alone of all the Crusades it was conducted without a single act
 of hostility against the Mahommedan. St Louis, the true type of the
@@ -2043,12 +2043,12 @@ and been excused by the pope, because the exigencies of his policy in
 Germany or Sicily tied his hands. After the failure of the Fifth
 Crusade--for which these delays were in part responsible--Honorius III.
 had attempted to bind him more intimately to the Holy Land by arranging
-a marriage with Isabella, the daughter of John of Brienne, and the
+a marriage with Isabella, the daughter of [[John Of Brienne|John of Brienne]], and the
 heiress of the kingdom of Jerusalem. In 1225 Frederick married Isabella,
 and immediately after the marriage he assumed the title of king in right
 of his wife, and exacted homage from the vassals of the kingdom.[50] It
 was thus as king of Jerusalem that Frederick began his Crusade in the
-autumn of 1227. Scarcely, however, had he sailed from Brindisi when he
+autumn of 1227. Scarcely, however, had he sailed from [[Brindisi]] when he
 fell sick of a fever which had been raging for some time among the ranks
 of his army, while they waited for the crossing. He sailed back to
 Otranto in order to recover his health, but the new pope, Gregory IX.,
@@ -2086,7 +2086,7 @@ the holy places for the religion which holds them most holy. Yet the
 church might ask, with some justice, whether the means he had used were
 excused by the end which he had attained. After all, there was nothing
 of the holy war about the Sixth Crusade: there was simply huckstering,
-as in an Eastern bazaar, between a free-thinking, semi-oriental king of
+as in an Eastern [[Bazaar|bazaar]], between a free-thinking, semi-oriental king of
 Sicily and an Egyptian sultan. It was indeed in the spirit of a king of
 Sicily, and not in the spirit--though it was in the role--of a king of
 Jerusalem, that Frederick had acted. It was from his Sicilian
@@ -2142,12 +2142,12 @@ the cross as early as 1230, and 1239 he sailed to Acre in spite of the
 express prohibition of the pope, who, having quarrelled with Frederick
 II., was eager to divert any succour from Jerusalem itself, so long as
 Jerusalem belonged to his enemy. Theobald was followed (1240-1241) by
-Richard of Cornwall, the brother of Henry III., who, like his
+Richard of [[Cornwall]], the brother of Henry III., who, like his
 predecessor, had to sail in the teeth of papal prohibitions; but neither
 of the two achieved any permanent result, except the fortification of
 Ascalon. It was, however, by their own folly that the Franks lost
 Jerusalem in 1244. They consented to ally themselves with the ruler of
-Damascus against the sultan of Egypt; but in the battle of Gaza they
+Damascus against the sultan of Egypt; but in the battle of [[Gaza]] they
 were deserted by their allies and heavily defeated by Bibars, the
 Egyptian general and future Mameluke sultan of Egypt. Jerusalem, which
 had already been plundered and destroyed earlier in the year by
@@ -2158,7 +2158,7 @@ fell in 1247.
 produced the Third Crusade, so its loss in 1244 produced the Seventh: as
 the preaching of the Fifth Crusade had taken place in the Lateran
 council of 1215, so that of the Seventh Crusade began in the council of
-Lyons of 1245. But the preaching of the Crusade by Innocent IV. at Lyons
+[[Lyons]] of 1245. But the preaching of the Crusade by Innocent IV. at Lyons
 was a curious thing. On the one hand he repeated the provisions of the
 Fourth Lateran council on behalf of the Crusade to the Holy Land; on the
 other hand he preached a Crusade against Frederick II., and promised to
@@ -2169,7 +2169,7 @@ political objects what was meant for Jerusalem, a layman took up the
 derelict cause with all the religious zeal which any pope had ever
 displayed. Paradoxically enough, it was now the turn for the papacy to
 exploit the name of Crusade for political ends, as the laity had done
-before; and it was left to the laity to champion the spiritual meaning
+before; and it was left to the laity to [[Champion|champion]] the spiritual meaning
 of the Crusade even against the papacy.[52] It was at the end of the
 year in which Jerusalem had fallen that St Louis had taken the cross,
 and by all the means in his power he attempted to ensure the success of
@@ -2178,7 +2178,7 @@ between the pope and the emperor; he descended to a whimsical piety, and
 took his courtiers by guile in distributing to them, at Christmas,
 clothing on which a cross had been secretly stitched. He started in 1248
 with a gallant company, which contained his three brothers and the sieur
-de Joinville, his biographer; and after wintering in Cyprus he directed
+de [[Joinville]], his biographer; and after wintering in Cyprus he directed
 his army in the spring of 1249 against Egypt. The objective was
 unexpected: it may have been chosen by St Louis, because he knew how
 seriously the power of the sultan was undermined by the Mamelukes, who
@@ -2197,7 +2197,7 @@ for the establishing of the kingdom of Jerusalem. He was able to do but
 little. The struggle of papacy and empire paralysed Europe, and even in
 France itself there were few ready to answer the calls for help which St
 Louis sent home from Acre. The one answer was the Shepherds' Crusade, or
-Crusade of the Pastoureaux--"a religious Jacquerie," as it has been
+Crusade of the Pastoureaux--"a religious [[Jacquerie]]," as it has been
 called by Dean Milman. It had some of the features of the Children's
 Crusade of 1212. That, too, had begun with a shepherd boy: the leader of
 the Pastoureaux, like the leader of the children, promised to lead his
@@ -2233,15 +2233,15 @@ members of his family,[53] which more than once led to wars between
 Damascus and Cairo. It has already been noticed that such a war between
 the sons of Malik-al-Adil accounts in large measure for the success of
 the Sixth Crusade; and it has been seen that the battle of Gaza was an
-act in the long drama of strife between Egypt and northern Syria. The
+act in the long [[Drama|drama]] of strife between Egypt and northern Syria. The
 revolution in Egypt in 1250 separated Damascus from Cairo more
 trenchantly than they had ever been separated since 1171: while a
 Mameluke ruled in Cairo, Malik-al-Nasir of Aleppo was elected as sultan
 by the emirs of Damascus. But an entirely new and far more important
 factor in the affairs of the Levant was the extension of the empire of
 the Mongols during the 13th century. That empire had been founded by
-Jenghiz Khan in the first quarter of the century; it stretched from
-Peking on the east to the Euphrates and the Dnieper on the west. Two
+Jenghiz [[Khan]] in the first quarter of the century; it stretched from
+Peking on the east to the Euphrates and the [[Dnieper]] on the west. Two
 things gave the Mongols an influence on the history of the Holy Land and
 the fate of the Crusades. In the first place, the south-western division
 of the empire, comprising Persia and Armenia, and governed about 1250 by
@@ -2253,17 +2253,17 @@ but in the Mongol army there were many Christians, the results of early
 Nestorian missions to the far East. This last fact in particular caused
 western Europe to dream of an alliance with the great khan "Prester
 John," who should aid in the reconquest of Jerusalem and the final
-conversion to Christianity of the whole continent of Asia. The Crusades
+[[Conversion|conversion]] to Christianity of the whole continent of Asia. The Crusades
 thus widen out, towards their close, into a general scheme for the
 christianization of all the known world.[54] About 1220 James of Vitry
 was already hoping that 4000 knights would, with the assistance of the
 Mongols, recover Jerusalem; but it is in 1245 that the first definite
 sign of an alliance with the Mongols appears. In that year Innocent IV.
-sent a Franciscan friar, Joannes de Piano Carpini, to the Mongols of
+sent a Franciscan [[Friar|friar]], Joannes de Piano [[Carpini]], to the Mongols of
 southern Russia, and despatched a Dominican mission to Persia. Nothing
 came of either of these missions; but through them Europe first began to
 know the interior of Asia, for Carpini was conducted by the Mongols as
-far as Karakorum, the capital of the great khan, on the borders of
+far as Karakorum, the capital of the great khan, on the [[Borders|borders]] of
 China. Again in 1252 St Louis (who had already begun to negotiate with
 the Mongols in the winter of 1248-1249) sent the friar William of
 Rubruquis to the court of the great khan; but again nothing came of the
@@ -2300,13 +2300,13 @@ fell Caesarea and Arsuf; in 1268 Antioch was taken, and the principality
 of Bohemund and Tancred ceased to exist.[55] In the years which followed
 on the loss of Antioch several attempts were made in the West to meet
 the progress of the new conqueror. In 1269 James the Conqueror of
-Aragon, at the bidding of the pope, turned from the long Spanish Crusade
+[[Aragon]], at the bidding of the pope, turned from the long Spanish Crusade
 to a Crusade in the East in order to atone for his offences against the
 law matrimonial. An opportune storm, however, gave the king an excuse
 for returning home, as Frederick II. had done in 1227; and though his
 followers reached Acre, they hardly dared venture outside its walls, and
 returned home promptly in the beginning of 1270. More serious were the
-plans and the attempts of Charles of Anjou and Louis IX., in which the
+plans and the attempts of Charles of [[Anjou]] and Louis IX., in which the
 Crusades may be said to have finally ended, save for sundry disjointed
 epilogues in the 14th and 15th centuries.
 
@@ -2435,19 +2435,19 @@ the times. The moral character of Europe in 1300 was no longer the moral
 character of Europe in 1100; and the Crusades, which had been the active
 and objective embodiment of the other worldly Europe of 1100, were alien
 to the secular, legal, scholastic Europe of 1300. While Edward I. was
-seeking to found a united kingdom in Great Britain; while the Habsburgs
-were entrenching themselves in Austria; above all, while Philippe le Bel
+seeking to found a united kingdom in Great Britain; while the [[Habsburg|Habsburgs]]
+were entrenching themselves in Austria; above all, while Philippe le [[Bel]]
 and his legists were consolidating the French monarchy on an absolutist
 basis, there could be little thought of the holy war. These were
 hard-headed men of affairs--men who would not lightly embark on joyous
 ventures, or seek for an ideal San Grail; nor were the popes, doomed to
-the Babylonian captivity for seventy long years at Avignon, able to call
+the Babylonian captivity for seventy long years at [[Avignon]], able to call
 down the spark from on high which should consume all earthly ambitions
 in one great act of sacrifice.
 
 But it is long before the death of any institution is recognized; and it
 was inevitable that men should busy themselves in trying to rekindle the
-dead embers into new life. Pierre Dubois, in a pamphlet "_De
+dead embers into new life. Pierre [[Dubois]], in a pamphlet "_De
 recuperatione Sanctae Terrae_," addressed to Edward I. in 1307,
 advocates a general council of Europe to maintain peace and prevent the
 dissensions which--as, for instance, in 1192--had helped to cause the
@@ -2455,8 +2455,8 @@ failure of past Crusades. Along with this advocacy of internationalism
 goes a plea for the disendowment of the Church, in order to provide an
 adequate financial basis for the future Crusade. Other proposals, made
 by men well acquainted with the East, are more definitely practical and
-less political in their intention. A blockade of Egypt by an
-international fleet, an alliance with the Mongols, the union of the two
+less political in their intention. A [[Blockade|blockade]] of Egypt by an
+[[International|international]] fleet, an alliance with the Mongols, the union of the two
 great orders--these are the three staple heads of these proposals.
 Something, indeed, was attempted, if little was actually done, under
 each of these three heads. The plan of an international fleet to coerce
@@ -2490,7 +2490,7 @@ begin the Crusade with such volunteers as he could collect for himself.
 In the autumn of 1365 he sacked Alexandria; in 1367 he ravaged the coast
 of Syria, and inflicted serious damages on the sultan of Egypt. But in
 1369 he was assassinated, and the last romantic figure of the Crusades
-died, leaving only the legacy of his memory to his chancellor de
+died, leaving only the [[Legacy|legacy]] of his memory to his chancellor de
 Mezieres, who for nearly forty years longer continued to be the preacher
 of the Crusades to Europe, advocating--what always continued to be the
 "dream of the old pilgrim"--a new order of knights of the Passion of
@@ -2512,16 +2512,16 @@ form a coalition between the various Christian powers which were
 threatened by the Turks; and Venice, anxious to preserve her possessions
 in the Aegean, zealously seconded their efforts. In 1344 a Crusade, in
 which Venice, the Cypriots, and the Hospitallers all joined, ended in
-the conquest of Smyrna; in 1345 another Crusade, led by Humbert, dauphin
+the conquest of Smyrna; in 1345 another Crusade, led by [[Humbert]], [[Dauphin|dauphin]]
 of Vienne, ended in failure. The Turks continued their progress; in 1363
 they captured Philippopolis, and in 1365 they entered Adrianople; the
-whole Balkan peninsula was threatened, and even Hungary itself seemed
+whole [[Balkan Peninsula|Balkan peninsula]] was threatened, and even Hungary itself seemed
 doomed. Already in 1365 Urban VI. sought to unite the king of Hungary
 and the king of Cyprus in a common Crusade against the Turks; but it was
 not till 1396 that an attempt was at last made to supplement by a land
 Crusade the naval Crusades of 1344 and 1345. Master of Servia and of
 Bulgaria, as well as of Asia Minor, the sultan Bayezid was now
-threatening Constantinople itself. To arrest his progress, a Crusade,
+threatening Constantinople itself. To [[Arrest|arrest]] his progress, a Crusade,
 preached by Boniface IX., led by John the Fearless of Burgundy, and
 joined chiefly by French knights, was directed down the valley of the
 Danube into the Balkans; but the old faults stigmatized by de Mezieres,
@@ -2538,7 +2538,7 @@ attack of East and West on the Seljuks, so in 1439, at the council of
 Florence, a new union of the two churches was again attempted and
 temporarily secured, in order that a united Christendom might face the
 new Turkish danger.[58] The logical result of the union was the Crusade
-of 1443. An army of cosmopolitan adventurers, led by the Cardinal
+of 1443. An army of [[Cosmopolitan|cosmopolitan]] adventurers, led by the Cardinal
 Caesarini, joined the forces of Wladislaus of Poland and John Hunyadi
 of Transylvania, and succeeded in forcing on Murad II. a truce of ten
 years at Szegedin in 1444. But the crusaders broke the truce, to which
@@ -2551,13 +2551,13 @@ join the crusade in person, only reached Ancona in 1464 to find the
 crusaders deserting and to die. Yet the ghost of the Crusades still
 lingered. It became a convention of diplomacy, designed to cover any
 particularly sharp piece of policy which needed some excuse; and the
-treaty of Granada, formed between Louis XII. and Ferdinand of Aragon for
+treaty of Granada, formed between Louis XII. and [[Ferdinand]] of Aragon for
 the partition of Naples in 1500, was excused as a thing necessary in the
 interests of the Crusades. In a more noble fashion the Crusade survived
-in the minds of the navigators; "Vasco da Gama, Christopher Columbus,
+in the minds of the navigators; "Vasco da Gama, [[Christopher]] Columbus,
 Albuquerque, and many others dreamed, and not insincerely, that they
 were labouring for the deliverance of the Holy Land, and they bore the
-Cross on their breasts."[59] "Don Henrique's scheme," it has been said,
+Cross on their [[Breast|breasts]]."[59] "Don Henrique's scheme," it has been said,
 "represents the final effort of the crusading spirit; and the naval
 campaigns against the Moslem in the Indian seas, in which it culminated,
 forty years after Don Henrique's death, may be described as the last
@@ -2576,7 +2576,7 @@ was this all. A wide missionary activity had begun in the 13th
 century--an activity which was the product of the Crusades and the
 contact with the Moslem which they brought, but which yet helped to
 check the Crusades, substituting as it did peaceful and spiritual
-conquests of souls for the violence and materialism of even a Holy War.
+conquests of souls for the violence and [[Materialism|materialism]] of even a Holy War.
 The Eastern mission had been begun by St Francis, who had visited and
 attempted to convert the sultan of Egypt during the Fifth Crusade
 (1220); within a hundred years the little seed had grown into a great
@@ -2623,7 +2623,7 @@ the second place, as has already been noticed, the Crusades represent
 the attempt of Western commerce to find new and more easy routes to the
 wealth of the East; and in this respect they led to various results. On
 the one hand they led to the establishment of emporia in the East--for
-instance, Acre, and after the fall of Acre Famagusta, both in their day
+instance, Acre, and after the fall of Acre [[Famagusta]], both in their day
 great centres of Levantine trade. On the other hand, the commodities
 which poured into Venice and Genoa from the East had to find a route for
 their diffusion through Europe. The great route was that which led from
@@ -2635,7 +2635,7 @@ farther east, and partly as a result of the Asiatic missions, which were
 themselves an accompaniment and effect of the Crusades, a third great
 result of the Crusades came to light in the 13th century--the discovery
 of the interior of Asia, and an immense accession to the sphere of
-geography. When one remembers that missionaries like Piano Carpini, and
+[[Geography|geography]]. When one remembers that missionaries like Piano Carpini, and
 traders like the Venetian Polos, either penetrated by land from Acre to
 Peking, or circumnavigated southern Asia from Basra to Canton, one
 realizes that there was, about 1300, a discovery of Asia as new and
@@ -2657,7 +2657,7 @@ medieval Europe also owed to the Crusades. Partly by contact with the
 Byzantines, partly by conflict with the Mahommedans, the Franks learned
 new methods both of building and of attacking fortifications. The
 concentric castle, with its rings of walls, began to displace the old
-keep and bailey with their single wall, as the crusaders brought back
+keep and [[Bailey|bailey]] with their single wall, as the crusaders brought back
 news from the East.[63] The art of the sapper and miner, the use of
 siege instruments like the mangonel, and the employment of various
 "fires" as missiles, were all known among the Mahommedans; and in all
@@ -2735,21 +2735,21 @@ it is simply that the West came into contact with something unlike
 itself, yet in many ways as high as, if not higher than, itself. The
 spirit of _Nathan der Weise_ may not have been exactly the spirit
 engendered by the Crusades; and yet it is not without reason that
-Lessing stages the fable which teaches toleration in the Latin kingdom
+[[Lessing]] stages the fable which teaches toleration in the Latin kingdom
 of Jerusalem. In any case the accusations made against the Templars at
 the time of their suppression prove that there was, at any rate in the
 ranks of those who knew the East, too little of absolute orthodoxy.
 While a new spirit which compares and tolerates thus sprang from the
 Crusades, the large sphere of new knowledge and experience which they
 gave brought new material at once for scientific thought and poetic
-imagination. Not only was geography more studied; the Crusades gave a
+[[Imagination|imagination]]. Not only was geography more studied; the Crusades gave a
 great impulse to the writing of history, and produced, besides
 innumerable other works, the greatest historical work of the middle
 ages--the _Historia transmarina_ of William of Tyre. Mathematics
 received an impulse, largely, it is true, from the Arabs of Spain, but
 also from the East; Leonardo Fibonacci, the first Christian algebraist,
 had travelled in Syria and Egypt. The study of Oriental languages began
-in connexion with the Christian missions of the East; Raymond Lull, the
+in connexion with the Christian missions of the East; Raymond [[Lull]], the
 indefatigable missionary, induced the council of Vienne to decide on the
 creation of six schools of Oriental languages in Europe (1311). But the
 new field of poetic literature afforded by the Crusades is still more
@@ -2764,8 +2764,8 @@ put upon old tales like those of Arthur and Charlemagne. By the side of
 these greater things it may seem little, and yet, just because it is
 little, it is all the more significant that the Crusades should have
 familiarized Europe with new plants, new fruits, new manufactures, new
-colours, and new fashions in dress. Sugar and maize; lemons, apricots
-and melons; cotton, muslin and damask; lilac and purple (azure and gules
+[[Colours|colours]], and new fashions in [[Dress|dress]]. Sugar and maize; [[Lemon|lemons]], apricots
+and melons; cotton, muslin and damask; [[Lilac|lilac]] and purple ([[Azure|azure]] and gules
 are words derived from the Arabic); the use of powder and of glass
 mirrors, and also of the rosary itself--all these things came to Europe
 from the East and as a result of the Crusades. To this day there are
@@ -2864,7 +2864,7 @@ summits of daring and devotion, if they also sank into the deep abysms
 of shame. Motives of self-interest may have lurked in them--otherworldly
 motives of buying salvation for a little price, or worldly motives of
 achieving riches and acquiring lands. Yet it would be treason to the
-majesty of man's incessant struggle towards an ideal good, if one were
+[[Majesty|majesty]] of man's incessant struggle towards an ideal good, if one were
 to deny that in and through the Crusades men strove for righteousness'
 sake to extend the kingdom of God upon earth. Therefore the tears and
 the blood that were shed were not unavailing; the heroism and the
@@ -2872,7 +2872,7 @@ chivalry were not wasted. Humanity is the richer for the memory of those
 millions of men, who followed the pillar of cloud and fire in the sure
 and certain hope of an eternal reward. The ages were not dark in which
 Christianity could gather itself together in a common cause, and carry
-the flag of its faith to the grave of its Redeemer; nor can we but give
+the [[Flag|flag]] of its faith to the grave of its Redeemer; nor can we but give
 thanks for their memory, even if for us religion is of the spirit, and
 Jerusalem in the heart of every man who believes in Christ.
 
@@ -2893,8 +2893,8 @@ Jerusalem in the heart of every man who believes in Christ.
   writers.
 
   I. _Chronicles and Narratives of the Crusades_--(1) Collections. The
-  authorities for the Crusades have been collected in Bongars, _Gesta
-  Dei per Francos_ (Hanover, 1611) (incomplete); Michaud, _Bibliotheque
+  authorities for the Crusades have been collected in [[Bongars]], _Gesta
+  Dei per Francos_ ([[Hanover]], 1611) (incomplete); Michaud, _Bibliotheque
   des croisades_ (Paris, 1829) (containing translations of select
   passages in the authorities); the _Recueil des historiens des
   croisades_, published by the Academie des Inscriptions (Paris, 1841
@@ -2902,7 +2902,7 @@ Jerusalem in the heart of every man who believes in Christ.
   Greek, Arabic and Armenian authorities, and also the text of the
   assizes; but sometimes poorly edited and still incomplete); and the
   publications of the Societe de l'Orient Latin (founded in 1875),
-  especially the _Archives_, of which two volumes were published in 1881
+  especially the _[[Archive|Archives]]_, of which two volumes were published in 1881
   and 1884, and the volumes of the _Revue_, published yearly from 1893
   to 1902, and containing not only new texts, but articles and reviews
   of books which are of great service. (2) Particular authorities. The
@@ -2978,23 +2978,23 @@ Jerusalem in the heart of every man who believes in Christ.
   Hagenmeyer's edition, Tubingen, 1877); and Raoul of Caen's _Gesta
   Tancredi_, composed on the basis of information supplied by Tancred
   himself. The last two works, if not actually the works of
-  eye-witnesses, are at any rate first-hand, and belong to the category
+  eye-witnesses, are at any rate first-hand, and belong to the [[Category|category]]
   of primary writers rather than to that of later compilations. Finally,
   to contemporary writers we may add contemporary letters, especially
   those written by Stephen of Blois and Anselm of Ribemont, and the
   three letters sent to the West by the crusading princes during the
-  First Crusade (see Hagenmeyer, _Epistulae et Chartae_, &c., Innsbruck,
+  First Crusade (see Hagenmeyer, _Epistulae et Chartae_, &c., [[Innsbruck]],
   1901).[65]
 
   (b) The later compilations are chiefly based on the _Gesta_, whose
   uncouth style many writers set themselves to mend. In the first place,
   there is the _Historia de Hierosolymitano itinere_ of Tudebod, which
   according to Besly, writing in 1641, is the original from which the
-  _Gesta_ was a mere plagiarism--an absolute inversion of the truth, as
+  _Gesta_ was a mere plagiarism--an absolute [[Inversion|inversion]] of the truth, as
   von Sybel first proved two centuries later. Secondly, besides the
   plagiarist Tudebod, there are the artistic _redacteurs_ of the
   _Gesta_, who confess their indebtedness, but plead the bad style of
-  their original--Guibert of Nogent, Balderich of Dol, Robert of Reims
+  their original--Guibert of Nogent, Balderich of [[Dol]], Robert of Reims
   (all c. 1120-1130), and Fulco, the author of a Virgilian poem on the
   Crusades, continued by Gilo (_ob. c._ 1142). Of these, the monk Robert
   was more popular in the middle ages than either the pompous abbot
@@ -3016,11 +3016,11 @@ Jerusalem in the heart of every man who believes in Christ.
   the more readily, as there were poets in the camp; for we know that a
   certain Richard, who joined the First Crusade, sang its exploits in
   verse, while still more famous is the princely troubadour, William of
-  Aquitaine, who joined the Crusade of 1100. If we are to follow von
+  [[Aquitaine]], who joined the Crusade of 1100. If we are to follow von
   Sybel rather than Kugler, this saga of the First Crusade found one of
   its earliest expressions (c. 1120) in the prose work of Albert of Aix
   (_Historia Hierosolymitana_)--genuine saga in its inconsistencies,
-  its errors of chronology and topography, its poetical colour, and its
+  its [[Error|errors]] of [[Chronology|chronology]] and topography, its poetical colour, and its
   living descriptions of battles. Kugler, however, regards Albert as a
   copyist, somewhat in the manner of Tudebod, of an unknown writer of
   value, who belonged to the Lotharingian ranks during the Crusade, and
@@ -3029,7 +3029,7 @@ Jerusalem in the heart of every man who believes in Christ.
   the _Chanson d'Antioche_ the legend of the Crusades more certainly
   finds its expression. The former, composed at Antioch about 1130,
   contained an idolization of the Hermit: the latter is a poem written
-  about 1180 by Graindor of Douai, who used as his basis the verses of
+  about 1180 by Graindor of [[Douai]], who used as his basis the verses of
   the crusader Richard (see the edition of P. Paris, 1848). It shows the
   growth of the legend that Graindor regards the vision of the Hermit as
   responsible for the Crusade, and makes the Crusade led by him precede,
@@ -3045,11 +3045,11 @@ Jerusalem in the heart of every man who believes in Christ.
   (d) William of Tyre is the scientific historian and rationalizer,
   weaving into a harmonious account, which was followed by historians
   for centuries, the sober accounts of eye-witnesses and the picturesque
-  details of the saga--with somewhat of a bias towards the latter in
+  details of the saga--with somewhat of a [[Bias|bias]] towards the latter in
   regard to the First Crusade. He was a native of Palestine, born about
   1130, and educated in the West. On his return he was happy in winning
   the good opinion of Amalric I.; he was made first canon and then
-  archdeacon of Tyre, and tutor of the future Baldwin IV. (1170); while
+  [[Archdeacon|archdeacon]] of Tyre, and tutor of the future Baldwin IV. (1170); while
   on Baldwin's accession he became chancellor of the kingdom and
   archbishop of Tyre (1174-1175). He was a man often employed on
   missions and negotiations, and as chancellor he had in his care the
@@ -3097,20 +3097,20 @@ Jerusalem in the heart of every man who believes in Christ.
 
   To the Western authorities for the First Crusade must be added the
   Eastern--Byzantine, Arabic and Armenian. Of these the Byzantine
-  authority, the _Alexiad_ of Anna Comnena, is most important, partly
+  authority, the _Alexiad_ of [[Anna Comnena]], is most important, partly
   from the position of the authoress, partly from the many points of
   contact between the Byzantine empire and the crusaders. Anna's
   narrative both furnishes a useful corrective of the prejudiced
   Western accounts of Alexius, and serves to bring Bohemund forward into
   his proper prominence. The Armenian view of the First Crusade and of
   Baldwin's principality of Edessa is presented in the _Armenian
-  Chronicle_ of Matthew of Edessa. There is little in Arabic bearing on
+  Chronicle_ of [[Matthew]] of Edessa. There is little in Arabic bearing on
   the First Crusade: the Arabic authorities only begin to be of value
   with the rise of the atabegs of Mosul (c. 1127). But Kemal-ud-din's
   _History of Aleppo_ (composed in the 13th century) contains some
   details on the history of the First Crusade; and the _Vie d'Ousama_
   (the autobiography of a sheik at Caesarea in northern Syria, edited
-  and paraphrased by Derenbourg in the _Publications de l'Ecole des
+  and paraphrased by [[Derenbourg]] in the _Publications de l'Ecole des
   langues orientales vivantes_) presents the point of view of an Arab
   whose life covered the first century of the Crusades (1095-1188).
 
@@ -3123,7 +3123,7 @@ Jerusalem in the heart of every man who believes in Christ.
   Crusade) gives some details from the German point of view (i. c. 44
   sqq.). The former is supplemented by the letters of Louis VII. to
   Suger; the latter by the letters of Conrad III. to Wibald, abbot of
-  Stablo and Corvey. The Byzantine point of view is presented in the
+  Stablo and [[Corvey]]. The Byzantine point of view is presented in the
   [Greek: 'Epitome] of Cinnamus, the private secretary of Manuel, who
   continued the _Alexiad_ of Anna Comnena in a work describing the
   reigns of John and Manuel. It is from the Second Crusade that William
@@ -3152,7 +3152,7 @@ Jerusalem in the heart of every man who believes in Christ.
   octosyllabic poem in French verse, written by Ambroise, a Norman
   _trouvere_ who followed Richard I. to the Holy Land. The poem first
   came to be known by scholars about 1873, and has been edited by M.
-  Gaston Paris (Paris, 1897). The _Itinerarium Peregrinorum_, a work in
+  Gaston Paris (Paris, 1897). The _[[Itinerarium]] Peregrinorum_, a work in
   ornate Latin prose, is (except for the first book) a translation of
   the _Carmen_ masquerading under the guise of an independent work.
   There seems no doubt that it is a piece of plagiary, and that its
@@ -3177,12 +3177,12 @@ Jerusalem in the heart of every man who believes in Christ.
   of William of Tyre above mentioned represent the opinion of the native
   Franks (which is hostile to Richard I.); while in Nicetas, who wrote a
   history of the Eastern empire from 1118 to 1206, we have a Byzantine
-  authority who, as Professor Bury remarks, "differs from Anna and
+  authority who, as Professor [[Bury]] remarks, "differs from [[Anna]] and
   Cinnamus in his tone towards the crusaders, to whom he is surprisingly
   fair."
 
   For the _Fourth Crusade_ the primary authority is Villehardouin's _La
-  Conquete de Constantinople_, an official apology for the diversion of
+  Conquete de Constantinople_, an official [[Apology|apology]] for the diversion of
   the Crusade written by one of its leaders, and concealing the arcana
   under an appearance of frank naivete. His work is usefully
   supplemented by the narrative (_La Prise de Constantinople_) of
@@ -3210,7 +3210,7 @@ Jerusalem in the heart of every man who believes in Christ.
   publications of the Societe de l'Orient Latin for 1879 and 1882; the
   ten valuable letters of Oliver, bishop of Paderborn, and the _Historia
   Damiettina_, based on these letters, have also been edited by Rohricht
-  in the _Westdeutsche Zeitschrift fur Geschichte und Kunst_ (1891). The
+  in the _Westdeutsche Zeitschrift [[Fur|fur]] Geschichte und Kunst_ (1891). The
   Sixth Crusade, that of Frederick II., is described in the chronicle of
   Richard of San Germano, a notary of the emperor, and in other Western
   authorities, e.g. Roger of Wendover. For the Crusades of St Louis the
@@ -3238,7 +3238,7 @@ Jerusalem in the heart of every man who believes in Christ.
   Under the head of laws come the assizes of the Kingdom, edited by
   Beugnot in the _Recueil des historiens des croisades_; and the assizes
   of Antioch, printed at Venice in 1876. G. Schlumberger has written on
-  the coins and seals of the Latin East in various publications; while
+  the [[Coin|coins]] and seals of the Latin East in various publications; while
   Rey has written an _Etude sur les monuments de l'architecture
   militaire_ (Paris, 1871). The genealogy of the Levant is given in _Le
   Livre des lignages d'outre-mer_ (published along with the assizes).
@@ -3280,7 +3280,7 @@ Jerusalem in the heart of every man who believes in Christ.
   Rey's _Les Colonies franques en Syrie_ contains many interesting
   details; and Prutz's _Kulturgeschichte der Kreuzzuge_ contains both an
   account of the Latin East and an attempt to sketch the effects of the
-  Crusades on the progress of civilization. The works of Gmelin and J.
+  Crusades on the progress of civilization. The works of [[Gmelin]] and J.
   Delaville-Leroulx on the Templars and Hospitallers respectively are
   worth consulting; while for Eastern affairs the English reader may be
   referred to G. Lestrange's _Palestine under the Moslem_, and to
@@ -3296,7 +3296,7 @@ FOOTNOTES:
     qui abusive _privatum certamen_ contra fideles consuescebant
     distendere quondam."
 
-  [2] Tradition credits a pope still earlier than Gregory VII. with the
+  [2] Tradition [[Credit|credits]] a pope still earlier than Gregory VII. with the
     idea of a crusade. Silvester II. is said to have preached a general
     expedition for the recovery of Jerusalem; and the same preaching is
     attributed to Sergius IV. in 1011. But the supposed letter of
@@ -3419,7 +3419,7 @@ FOOTNOTES:
     The Templars were founded about the year 1118 by a Burgundian knight,
     Hugh de Paganis; the Hospitallers sprang from a foundation in
     Jerusalem erected by merchants of Amalfi before the First Crusade,
-    and were reorganized under Gerard le Puy, master until 1120. The
+    and were reorganized under [[Gerard]] [[Le Puy|le Puy]], master until 1120. The
     Teutonic knights date from the Third Crusade.
 
   [25] As was noticed above, there were apparently separate assizes for
@@ -3495,7 +3495,7 @@ FOOTNOTES:
 
     In regard to both assizes, it is most important to bear in mind that
     we possess not laws, but law-books or custumals--records made by
-    lawyers for their fellows of what they conceived to be the law, and
+    lawyers for their [[Fellows|fellows]] of what they conceived to be the law, and
     supported by legal arguments and citations of cases. But, as Prutz
     remarks, Philip of Novara _lehrt nicht die Wissenschaft des Rechts,
     sondern die des Unrechts_: he does not explain the law so much as the
@@ -3503,8 +3503,8 @@ FOOTNOTES:
 
   [26] For instance, the abbey of Mount Sion had large possessions, not
     only in the Holy Land (at Ascalon, Jaffa, Acre, Tyre, Caesarea and
-    Tarsus), but also in Sicily, Calabria, Lombardy, Spain and France (at
-    Orleans, Bourges and Poitiers).
+    Tarsus), but also in Sicily, [[Calabria]], Lombardy, Spain and France (at
+    Orleans, [[Bourges]] and Poitiers).
 
   [27] One must remember that these reinforcements would often consist
     of desperate characters. It was one of the misfortunes of Palestine
@@ -3532,7 +3532,7 @@ FOOTNOTES:
     impressed by the treatment of their subjects by the Franks, bears out
     their view, while the tone of the assizes is admittedly favourable to
     the Syrians. One must not forget that there was a brisk native
-    manufacture of carpets, pottery, ironwork, gold-work and soap; or
+    manufacture of [[Carpet|carpets]], pottery, ironwork, gold-work and soap; or
     that the Syrians of the towns had a definite legal position.
 
   [29] After 1143 one may therefore speak of the period of the
@@ -3655,7 +3655,7 @@ FOOTNOTES:
   [42] M. Luchaire, in the volume of his biography of Innocent III.
     called _La Question d'Orient_, shows how, in spite of the pope, the
     Fourth Crusade was in its very beginnings a lay enterprise. The
-    crusading barons of France chose their own leader, and determined
+    crusading barons of France [[Chose|chose]] their own leader, and determined
     their own route, without consulting Innocent.
 
   [43] As a matter of fact, there is some doubt whether Alexius arrived
@@ -3698,7 +3698,7 @@ FOOTNOTES:
 
   [48] He had promised the pope, at his coronation in 1220, to begin
     his Crusade in August 1221. But he declared himself exhausted by the
-    expenses of his coronation; and Honorius III. consented to defer his
+    expenses of his coronation; and [[Honorius]] III. consented to defer his
     Crusade until March 1222. The letter of the pope informing Pelagius
     of this delay is dated the 20th of June: it would probably reach his
     hands _after_ his departure from Damietta; and thus the Cardinal gave
@@ -3708,7 +3708,7 @@ FOOTNOTES:
   [49] Joinville, ch. x.
 
   [50] John of Brienne had only ruled in right of his wife Mary. On her
-    death (1212) John might be regarded as only ruling "by the courtesy
+    death (1212) John might be regarded as only ruling "by the [[Courtesy|courtesy]]
     of the kingdom" until her daughter Isabella was married, when the
     husband would succeed. That, at any rate, was the view Frederick II.
     took.
@@ -3812,7 +3812,7 @@ FOOTNOTES:
   [63] It is difficult to decide how far Arabic models influenced
     ecclesiastical architecture in the West as a result of the Crusades.
     Greater freedom of moulding and the use of trefoil and cinquefoil may
-    be, but need not be, explained in this way. The pointed arch owes
+    be, but need not be, explained in this way. The pointed [[Arch|arch]] owes
     nothing to the Arabs; it is already used in England in early Norman
     work. Generally, one may say that Western architecture is independent
     of the East.

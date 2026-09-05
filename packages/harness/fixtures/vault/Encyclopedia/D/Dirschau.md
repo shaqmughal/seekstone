@@ -15,7 +15,7 @@ Protestant church and several schools. The river is here crossed by two
 fine iron bridges. The older structure dating from the year 1857,
 originally used for the railway, is now given up to road traffic, and
 the railway carried by a new bridge completed in 1891. Dirschau has
-railway workshops and manufactories of sugar, agricultural implements
+railway workshops and manufactories of sugar, agricultural [[Implement|implements]]
 and cement. During the war with Poland, Gustavus Adolphus made it his
 headquarters for many months after its capture in 1626.
 

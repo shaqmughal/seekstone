@@ -7,7 +7,7 @@ tags: [history]
 
 # Esmarch
 
-ESMARCH, JOHANNES FRIEDRICH AUGUST VON (1823-1908), German surgeon, was
+ESMARCH, JOHANNES [[Friedrich|FRIEDRICH]] AUGUST VON (1823-1908), German surgeon, was
 born at Tonning, in Schleswig-Holstein, on the 9th of January 1823. He
 studied at Kiel and Gottingen, and in 1846 became B.R.K. von Langenbeck's
 assistant at the Kiel surgical hospital. He served in the
@@ -22,7 +22,7 @@ professor at the university. During the Schleswig-Holstein War of 1864
 Esmarch rendered good service to the field hospitals of Flensburg,
 Sundewitt and Kiel. In 1866 he was called to Berlin as member of the
 hospital commission, and also to take the superintendence of the surgical
-work in the hospitals there. When the Franco-German War broke out in 1870
+work in the hospitals there. When the [[Franco-German War]] broke out in 1870
 he was appointed surgeon-general to the army, and afterwards consulting
 surgeon at the great military hospital near Berlin. In 1872 he married
 Princess Henrietta of Schleswig-Holstein-Sonderburg-Augustenburg, aunt of
@@ -38,12 +38,12 @@ operations as they occur on the battlefield. Esmarch himself invented an
 apparatus, which bears his name, for keeping a limb nearly bloodless
 during amputation. No part of Esmarch's work is more widely known than
 that which deals with "First Aid," his _First Aid on the Battlefield_ and
-_First Aid to the Injured_ being popular manuals on the subject. The
+_First Aid to the Injured_ being popular [[Manuals|manuals]] on the subject. The
 latter is the substance of a course of lectures delivered by him in 1881
 to a "Samaritan School," the first of the kind in Germany, founded by
 Esmarch in 1881, in imitation of the St John's Ambulance classes which
 had been organized in England in 1878. These lectures were very generally
-adopted as a manual for first aid students, edition after edition having
+adopted as a [[Manual|manual]] for first aid students, edition after edition having
 been called for, and they have been translated into numerous languages,
 the English version being the work of H.R.H. Princess Christian. No
 ambulance course would be complete without a demonstration of the

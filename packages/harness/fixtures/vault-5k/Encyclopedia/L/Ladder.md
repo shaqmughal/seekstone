@@ -14,7 +14,7 @@ klimax]), a set of steps or "rungs" between two supports to enable one
 to get up and down; usually made of wood and sometimes of metal or rope.
 Ladders are generally movable, and differ from a staircase also in
 having only treads and no "risers." The term "Jacob's ladder," taken
-from the dream of Jacob in the Bible, is applied to a rope ladder with
+from the dream of [[Jacob]] in the Bible, is applied to a rope ladder with
 wooden steps used at sea to go aloft, and to a common garden plant of
 the genus _Polemonium_ on account of the ladder-like formation of the
 leaves. The flower known in England as Solomon's seal is in some

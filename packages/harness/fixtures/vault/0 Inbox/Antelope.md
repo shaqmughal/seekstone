@@ -12,8 +12,8 @@ to trace its origin, through the Latin, to _Pantholops_, the old Coptic,
 and _Antholops_, the late Greek name of the fabled unicorn. Its adoption
 by the languages of Europe cannot apparently be traced farther back than
 the 4th century of our era, at which date it was employed to designate
-an imaginary animal living on the banks of the Euphrates. By the earlier
-English naturalists, and afterwards by Buffon, it was, however, applied
+an imaginary animal living on the banks of the [[Euphrates]]. By the earlier
+English naturalists, and afterwards by [[Buffon]], it was, however, applied
 to the Indian blackbuck, which is thus entitled to rank as _the_
 antelope. It follows that the subfamily typified by this species, in
 which are included the gazelles, is the one to which alone the term
@@ -22,7 +22,7 @@ definable sense.
 
 Although most people have a general vague idea of what constitutes an
 "antelope," yet the group of animals thus designated is one that does
-not admit of accurate limitations or definition. Some, for instance, may
+not admit of accurate limitations or [[Definition|definition]]. Some, for instance, may
 consider that the chamois and the so-called white goat of the Rocky
 Mountains are entitled to be included in the group; but this is not the
 view held by the authors of the _Book of Antelopes_ referred to below;
@@ -35,7 +35,7 @@ subfamily into which "antelopes" are subdivided.
 The great majority of antelopes, exclusive of the doubtful chamois group
 (which, however, will be included in the present article), are African,
 although the gazelles are to a considerable extent an Asiatic group.
-They include ruminants varying in size from a hare to an ox; and
+They include ruminants varying in size from a [[Hare|hare]] to an ox; and
 comprise about 150 species, although this number is subject to
 considerable variation according to personal views as to the limitations
 of species and races. No true antelopes are American, the prongbuck
@@ -45,12 +45,12 @@ Rocky Mountain or white goat stands on the borderland between antelopes
 and goats.
 
 The first group, or _Tragelaphinae_, is represented by the African
-elands (_Taurotragus_), bongo (_Boocercus_), kudus (_Strepsiceros_) and
-bushbucks or harnessed antelopes (_Tragelaphus_), and the Indian nilgai
-(_Boselaphus_). Except in the bongo and elands, horns are present only
+[[Eland|elands]] (_Taurotragus_), [[Bongo|bongo]] (_Boocercus_), [[Kudu|kudus]] (_Strepsiceros_) and
+[[Bushbuck|bushbucks]] or harnessed antelopes (_Tragelaphus_), and the Indian nilgai
+(_Boselaphus_). Except in the bongo and elands, [[Horn|horns]] are present only
 in the males, and these are angulated and generally spirally twisted,
 and without rings. The muzzle is naked, small glands are present on the
-face below the eyes, and the tail is comparatively long. The colours are
+face below the eyes, and the tail is comparatively long. The [[Colours|colours]] are
 often brilliant; white spots and stripes being prevalent. The harnessed
 antelopes, or bushbucks, are closely allied to the kudus, from which
 they chiefly differ by the spiral formed by the horns generally having
@@ -77,9 +77,9 @@ brilliant orange coat with vertical white stripes. Still larger are the
 elands, of which the typical _Taurotragus oryx_ of the Cape is uniformly
 sandy-coloured, although stripes appear in the more northern _T. o.
 livingstonei_, while the black-necked eland (_T. derbianus_) of
-Senegambia and the Bahr-el-Ghazal district is a larger and more
+Senegambia and the [[Bahr-El-Ghazal|Bahr-el-Ghazal]] district is a larger and more
 brilliantly coloured animal. The small horns and bluish-grey colour of
-the adult bulls serve to distinguish the Indian nilgai (q.v.),
+the adult [[Bull|bulls]] serve to distinguish the Indian nilgai (q.v.),
 _Boselaphus tragocamdus_, from the other members of the subfamily.
 
 [Illustration: FIG. 1.--Female Bushbuck (_Tragelaphus scriptus_).]
@@ -124,11 +124,11 @@ but sometimes spiral. Lateral hoofs are generally present.
 [Illustration: FIG. 3.--Gemsbuck, or Cape Oryx (_Oryx gazella_).]
 
 Gazelles (_Gazella_), which form by far the largest genus of the
-subfamily, are inhabitants of open and frequently more or less desert
+subfamily, are inhabitants of open and frequently more or less [[Desert|desert]]
 districts. They are mostly of a sandy colour, with dark and light
 markings on the face, and often a dark band on the flanks. The horns are
 more or less lyrate, and generally developed in both sexes; there are
-frequently brushes of hair on the knees. Gazelles may be divided into
+frequently brushes of hair on the [[Knee|knees]]. Gazelles may be divided into
 groups. The one to which the North African _G. dorcas_ belongs is
 characterized by the presence of lyrate or sub-lyrate horns in both
 sexes, and by the white of the buttocks not extending on to the
@@ -143,7 +143,7 @@ are hornless and the face-markings inconspicuous or wanting.
 
 The South African springbuck (_Antidorcas euchore_) is nearly related to
 the gazelles, from which it is distinguished by the presence on the
-middle line of the loins of an evertible pouch, lined with long white
+middle line of the [[Loin|loins]] of an evertible pouch, lined with long white
 hairs capable of erection. It has also one premolar tooth less in the
 lower jaw. Formerly these beautiful antelopes existed in countless
 numbers on the plains of South Africa, and were in the habit of
@@ -152,7 +152,7 @@ comparatively rare.
 
 The dibatag or Clarke's gazelle (_Ammodorcas clarkei_), of Somaliland,
 forms a kind of connecting link between the true gazelles and the
-gerenuk, this being especially shown in the skull. The face has the
+[[Gerenuk|gerenuk]], this being especially shown in the skull. The face has the
 ordinary gazelle-markings; but the rather short horns--which are wanting
 in the female--have a peculiar upward and forward curvature, unlike that
 obtaining in the gazelles and somewhat resembling that of the reedbuck.
@@ -166,11 +166,11 @@ The East African gerenuk (q.v.), or Waller's gazelle (_Lithocranius
 walleri_), of which two races have been named, is a very remarkable
 ruminant, distinguished not only by its exceedingly elongated neck and
 limbs, but also by the peculiar hooked form of the very massive horns of
-the bucks, the dense structure and straight profile of the skull, and
+the [[Buck|bucks]], the dense structure and straight profile of the skull, and
 the extreme slenderness of the lower jaw.
 
 A still more aberrant gazelle is a small North-East African species
-known as the beira (_Dorcatragus melanotis_), with very short horns,
+known as the [[Beira|beira]] (_Dorcatragus melanotis_), with very short horns,
 large hoofs and a general appearance recalling that of some of the
 members of the subfamily _Neotraginae_, although in other respects
 gazelle-like. The blackbuck (_Antilope cervicapra_ or _A. bezoartica_)
@@ -192,7 +192,7 @@ stands apart from all other antelopes by its curiously puffed and
 trunk-like nose, which can be wrinkled up when the animal is feeding and
 has the nostrils opening downwards. More or less nearly related to the
 saiga is the chiru (q.v.), _Pantholops hodgsoni_ of Tibet, characterized
-by the long upright black horns of the bucks, and the less convex nose,
+by the long upright black horns of the bucks, and the less [[Convex|convex]] nose,
 in which the nostrils open anteriorly instead of downwards.
 
 The _Neotraginae_ (or _Nanotraginae_) form an exclusively African group
@@ -200,7 +200,7 @@ of small-sized antelopes divided into several, for the most part nearly
 related, genera. Almost the only characters they possess in common are
 the short and spike-like horns of the bucks, which are ringed at the
 base, with smooth tips, and the large size of the face-gland, which
-opens by a circular aperture. _Neotragus_ is represented by the pigmy
+opens by a circular [[Aperture|aperture]]. _Neotragus_ is represented by the pigmy
 royal antelope (_N. pygmaeus_) of Guinea; _Hylarnus_ includes one
 species from Cameroon and a second from the Semliki forest; while
 _Nesotragus_ comprises the East African suni antelopes, _N. moschatus_
@@ -211,13 +211,13 @@ The steinbok (_Rhaphiceros campestris_) and the _grysbok_ (_R.
 melanotis_) are the best-known representatives of a group characterized
 by the vertical direction of the horns and the small gland-pit in the
 skull; lateral hoofs being absent in the first-named and present in the
-second. A bare gland-patch behind the ear serves to distinguish the
+second. A bare gland-patch behind the [[Ear|ear]] serves to distinguish the
 oribis or ourebis, as typified by _Oribia montana_ of the Cape; lateral
 hoofs being present and the face-pit large.
 
 From all the preceding the tiny dik-diks (_Madoqua_) of North-East
 Africa differ by their hairy noses, expanded in some species into short
-trunks; while the widely spread klipspringer (q.v.), _Oreotragus
+trunks; while the widely spread [[Klipspringer|klipspringer]] (q.v.), _Oreotragus
 saltator_, with its several local races, is unfailingly distinguishable
 by its rounded blunt hoofs and thick, brittle, golden-flecked hair.
 
@@ -230,7 +230,7 @@ _Cervicaprinae_, as represented by the reedbuck (_Cervicapra_), and the
 waterbucks and kobs (_Cobus_ or _Kobus_), all of which are likewise
 African. These are medium-sized or large antelopes with naked muzzles,
 narrow sheep-like upper molars, fairly long tails, rudimentary or no
-face-glands, and pits in the frontal bones of the skull. Reedbuck
+face-glands, and pits in the frontal [[Bone|bones]] of the skull. Reedbuck
 (q.v.), or rietbok (_Cervicapra_), are foxy-red antelopes ranging in
 size from a fallow-deer to a roe, with thick bushy tails, forwardly
 curving black horns, and a bare patch of glandular skin behind each ear.
@@ -251,7 +251,7 @@ from the three preceding species by the fore-legs being uniformly foxy.
 
 [Ilustration: FIG. 4.--Waterbuck (_Cobus ellipsiprymnus_).]
 
-The duikers, or duikerboks (_Cephalophus_), of Africa, which range in
+The [[Duiker|duikers]], or duikerboks (_Cephalophus_), of Africa, which range in
 size from a large hare to a fallow-deer, typify the subfamily
 _Cephalophinae_, characterized by the spike-like horns of the bucks, the
 elongated aperture of the face-glands, the naked muzzle, the relatively
@@ -277,11 +277,11 @@ long tail, are the distinctive features of the hartebeests. They are
 large red antelopes (fig. 5), often with black markings on the face and
 limbs. In _Damaliscus_, which includes, among many other species, the
 blesbok and bontebok (_D. albifrons_ and _D. pygargus_) and the sassaby
-or bastard hartebeest (_D. lunatus_), the face is shorter, and the horns
+or [[Bastard|bastard]] hartebeest (_D. lunatus_), the face is shorter, and the horns
 straighter and set on a less elevated crest. The colour, too, of these
 antelopes tends in many cases to purple, with white markings. From the
 hartebeest the gnus (fig. 6) differ by their smooth and outwardly or
-downwardly directed horns, broad bristly muzzles, heavy manes and long
+downwardly directed horns, broad bristly muzzles, heavy [[Manes|manes]] and long
 horse-like tails. There are two chief types, the white-tailed gnu or
 black wildebeest (_Connochaetes gnu_) of South Africa, now nearly
 extinct (fig. 6), and the brindled gnu, or blue wildebeest (_C.
@@ -305,15 +305,15 @@ are generally rather small, upright, ringed at the base, and more or
 less curved backwards, but in the takin they are gnu-like. The group is
 represented by the European chamois or gemse (_Rupicapra tragus_ or _R.
 rupicapra_), broadly distinguished by its well-known hook-like horns,
-and the Asiatic gorals (_Urotragus_) and serows (_Nemorhaedus_), which
-are represented by numerous species ranging from Tibet, the Himalaya,
-and China, to the Malay Peninsula and islands, being in the two latter
+and the Asiatic [[Goral|gorals]] (_Urotragus_) and serows (_Nemorhaedus_), which
+are represented by numerous species ranging from Tibet, the [[Himalaya]],
+and China, to the [[Malay Peninsula]] and islands, being in the two latter
 areas the sole representatives of both antelopes and goats. In the
 structure of its horns the North American white Rocky Mountain goat
 (_Oreamnus_) is very like a serow, from which it differs by its
 extremely short cannon-bones. In the latter respect this ruminant
 resembles the takin (_Budorcas_) of Tibet, which, as already mentioned,
-has horns recalling those of the white-tailed gnu. Possibly the Arctic
+has horns recalling those of the white-tailed gnu. Possibly the [[Arctic]]
 musk-ox (_Ovibos_) may be connected with the takin by means of certain
 extinct ruminants, such as the North American Pleistocene
 _Euceratherium_ and the European Pliocene _Criotherium_ (see CHAMOIS,
@@ -325,7 +325,7 @@ Miocene. An antelope from the Lower Pliocene of Northern India known as
 _Bubalis_, or _Damaliscus, palaeindicus_ indicates the occurrence of the
 hartebeest group in that country. _Cobus_ also occurs in the same
 formation, as does likewise _Hippotragus_. _Palaeoryx_ from the
-corresponding horizon in Greece and Samos is to some extent intermediate
+corresponding [[Horizon|horizon]] in Greece and Samos is to some extent intermediate
 between _Hippotragus_ and _Oryx_. Gazelles are common in the Miocene and
 Pliocene of both Europe and Asia. Elands and kudus appear to have been
 represented in India during the Pliocene; the European _Palaeoreas_ of

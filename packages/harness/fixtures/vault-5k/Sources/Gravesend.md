@@ -64,7 +64,7 @@ of March 1863, the princess Alexandra was received here by the prince of
 Wales (King Edward VII.) three days before their marriage. Gravesend
 parish church contains memorials to "Princess" Pocahontas, who died when
 preparing to return home from a visit to England in 1617, and was buried
-in the old church. A memorial pulpit from the state of Indiana, U.S.A.,
+in the old church. A memorial pulpit from the state of [[Indiana]], U.S.A.,
 made of Virginian wood, was provided in 1904, and a fund was raised for
 a stained-glass window by ladies of the state of Virginia.
 

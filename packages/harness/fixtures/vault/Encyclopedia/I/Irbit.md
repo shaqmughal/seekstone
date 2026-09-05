@@ -12,7 +12,7 @@ It is famous for a great fair, held since 1643, which lasts from the 1st
 of February to the 1st of March (O.S.), and at which are sold (to an
 average annual value of over L4,000,000) cottons, woollens, flax and
 hemp, silks, leather, metals, metallic and other manufactured goods,
-furs, hides, felt, raw wool and tea.
+[[Fur|furs]], hides, felt, raw wool and tea.
 
 ## See also
 

@@ -3,7 +3,7 @@
 INDUCTION (from Lat. _inducere_, to lead into; cf. Gr. [Greek:
 epagôgê]), in logic, the term applied to the process of discovering
 principles by the observation and combination of particular instances.
-Aristotle, who did so much to establish the laws of deductive reasoning,
+[[Aristotle]], who did so much to establish the laws of deductive reasoning,
 neglected induction, which he identified with a complete enumeration of
 facts; and the schoolmen were wholly concerned with syllogistic logic. A
 new era opens with Bacon, whose writings all preach the principle of
@@ -33,7 +33,7 @@ this purpose that he formulated his famous Four Methods of Experimental
 Inquiry. His work has contributed greatly to the systematic treatment of
 induction. But it must be remarked that his Four Methods are not methods
 of formal proof, as their author supposed, but methods whereby
-hypotheses are suggested or tested. The actual proof of an hypothesis is
+hypotheses are suggested or tested. The actual proof of an [[Hypothesis|hypothesis]] is
 never formal, but always lies in the tests of experiment or observation
 to which it is subjected.
 
@@ -52,7 +52,7 @@ transform the accepted view of induction. Consider such a piece of
 reasoning as may be heard any day in a court of justice, a detective who
 explains how in his opinion a certain burglary was effected. If all
 reasoning is either deductive or inductive, this must be induction. And
-yet it does not answer to the accepted definition of induction, "the
+yet it does not answer to the accepted [[Definition|definition]] of induction, "the
 process of discovering a general principle by observation of particular
 instances": what the detective does is to reconstruct a particular
 crime; he evolves no general principle. Such reasoning is used by every
@@ -64,7 +64,7 @@ reconstructive faculty. Another most important question closely akin to
 that just mentioned is the true relation between these reasoning
 processes and our general life as active intelligent beings. How is it
 that the detective is able to understand the burglar's plan of
-action?--the military commander to forecast the enemy's plan of
+action?--the military [[Commander|commander]] to forecast the enemy's plan of
 campaign? Primarily, because he himself is capable of making such plans.
 Men as active creatures co-operating with their fellow-men are
 incessantly engaged in forming plans and in apprehending the plans of
@@ -82,9 +82,9 @@ stage he assumes that he has made out the plan and can apply it to the
 discovery of further detail. He has the capacity of detecting plans in
 nature because he is wont to form plans for practical purposes.
 
-  There are good recent accounts of induction in Welton's _Manual of
+  There are good recent accounts of induction in Welton's _[[Manual]] of
   Logic_, ii., in H. W. B. Joseph's _Introduction to Logic_, and in W.
-  R. Boyce Gibson's _Problem of Logic_; see also LOGIC.     (H. St.)
+  R. [[Boyce]] Gibson's _Problem of Logic_; see also LOGIC.     (H. St.)
 
 ## References
 

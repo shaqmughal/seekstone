@@ -12,12 +12,12 @@ rule it was the capital of the colony, and its splendour, wealth and
 luxury earned for it the title of the "Paris of Haiti." It was then the
 see of an archbishop and possessed a large and flourishing university.
 The last remains of its former glory were destroyed by the earthquake of
-1842 and the British bombardment of 1865. Although now but a collection
+1842 and the British [[Bombardment|bombardment]] of 1865. Although now but a collection
 of squalid wooden huts, with here and there a well-built warehouse, it
 is the centre of a thriving district and does a large export trade. It
 was founded by the Spaniards about the middle of the 17th century, and
 in 1687 received a large French colony. In 1695 it was taken and burned
-by the British, and in 1791 it suffered the same fate at the hands of
+by the British, and in 1791 it suffered the same [[Fate|fate]] at the hands of
 Toussaint L'Ouverture. It then became the capital of King Henri
 Christophe's dominions, but since his fall has suffered severely in
 numerous revolutions.
@@ -48,7 +48,7 @@ he found for various substances distances about the twenty-thousandth
 part of a millimetre.
 
 _Historical_.--According to J.C. Poggendorff (_Pogg. Ann._ ci. p. 551),
-Leonardo da Vinci must be considered as the discoverer of capillary
+[[Leonardo Da Vinci|Leonardo da Vinci]] must be considered as the discoverer of capillary
 phenomena, but the first accurate observations of the capillary action
 of tubes and glass plates were made by Francis Hawksbee
 (_Physico-Mechanical Experiments_, London, 1709, pp. 139-169; and _Phil.
@@ -64,7 +64,7 @@ suspension of the liquid is due to "the attraction of the periphery or
 section of the surface of the tube to which the upper surface of the
 water is contiguous and coheres." From this he showed that the rise of
 the liquid in tubes of the same substance is inversely proportional to
-their radii. Sir Isaac Newton devoted the 31st query in the last edition
+their radii. Sir [[Isaac]] Newton devoted the 31st query in the last edition
 of his _Opticks_ to molecular forces, and instanced several examples of
 the cohesion of liquids, such as the suspension of mercury in a
 barometer tube at more than double the height at which it usually
@@ -84,7 +84,7 @@ by Newton, who gave the first example of the calculation of the effect
 of such forces in his theorem on the alteration of the path of a
 light-corpuscle when it enters or leaves a dense body.
 
-Alexis Claude Clairault (_Theorie de la figure de la terre_, Paris,
+Alexis [[Claude]] [[Clairault]] (_Theorie de la figure de la terre_, Paris,
 1808, pp. 105, 128) appears to have been the first to show the necessity
 of taking account of the attraction between the parts of the fluid
 itself in order to explain the phenomena. He did not, however, recognize
@@ -112,7 +112,7 @@ the molecules of the elastic substance. We may therefore regard the
 theory of elasticity as consisting of two parts. The first part
 establishes the laws of the elasticity of a finite portion of the solid
 subjected to a homogeneous strain, and deduces from these laws the
-equations of the equilibrium and motion of a body subjected to any
+[[Equation|equations]] of the equilibrium and motion of a body subjected to any
 forces and displacements. The second part endeavours to deduce the facts
 of the elasticity of a finite portion of the substance from hypotheses
 as to the motion of its constituent molecules and the forces acting
@@ -123,14 +123,14 @@ this tension depends only on the nature and temperature of the liquid
 and not on its form, and from this as a secondary physical principle we
 may deduce all the phenomena of capillary action. This is one step of
 the investigation. The next step is to deduce this surface-tension from
-a hypothesis as to the molecular constitution of the liquid and of the
+a [[Hypothesis|hypothesis]] as to the molecular constitution of the liquid and of the
 bodies that surround it. The scientific importance of this step is to be
 measured by the degree of insight which it affords or promises into the
 molecular constitution of real bodies by the suggestion of experiments
 by which we may discriminate between rival molecular theories.
 
-In 1756 J.G. Leidenfrost (_De aquae communis nonnullis qualitatibus
-tractatus_, Duisburg) showed that a soap-bubble tends to contract, so
+In 1756 J.G. Leidenfrost (_De [[Aquae|aquae]] communis nonnullis qualitatibus
+tractatus_, [[Duisburg]]) showed that a soap-bubble tends to contract, so
 that if the tube with which it was blown is left open the bubble will
 diminish in size and will expel through the tube the air which it
 contains. He attributed this force, however, not to any general property
@@ -150,7 +150,7 @@ then present nothing which could not be determined by analysis." He
 applied this principle of surface-tension to the explanation of the
 apparent attractions and repulsions between bodies floating on a liquid.
 
-In 1802 John Leslie (_Phil. Mag._, 1802, vol. xiv. p. 193) gave the
+In 1802 John [[Leslie]] (_Phil. Mag._, 1802, vol. xiv. p. 193) gave the
 first correct explanation of the rise of a liquid in a tube by
 considering the effect of the attraction of the solid on the very thin
 stratum of the liquid in contact with it. He did not, like the earlier
@@ -167,14 +167,14 @@ drop is placed on the under surface of the plate. Hence a glass tube
 plunged into water would become wet all over were it not that the
 ascending liquid film carries up a quantity of other liquid which
 coheres to it, so that when it has ascended to a certain height the
-weight of the column balances the force by which the film spreads itself
+weight of the column [[Balance|balances]] the force by which the film spreads itself
 over the glass. This explanation of the action of the solid is
-equivalent to that by which Gauss afterwards supplied the defect of the
+equivalent to that by which [[Gauss]] afterwards supplied the defect of the
 theory of Laplace, except that, not being expressed in terms of
 mathematical symbols, it does not indicate the mathematical relation
 between the attraction of individual particles and the final result.
 Leslie's theory was afterwards treated according to Laplace's
-mathematical methods by James Ivory in the article on capillary action,
+mathematical methods by James [[Ivory]] in the article on capillary action,
 under "Fluids, Elevation of," in the supplement to the fourth edition of
 the _Encyclopaedia Britannica_, published in 1819.
 
@@ -186,7 +186,7 @@ principles to deduce the phenomena of capillary action. His essay
 contains the solution of a great number of cases, including most of
 those afterwards solved by Laplace, but his methods of demonstration,
 though always correct, and often extremely elegant, are sometimes
-rendered obscure by his scrupulous avoidance of mathematical symbols.
+rendered obscure by his scrupulous [[Avoidance|avoidance]] of mathematical symbols.
 Having applied the secondary principle of surface-tension to the various
 particular cases of capillary action, Young proceeded to deduce this
 surface-tension from ulterior principles. He supposed the particles to
@@ -202,7 +202,7 @@ force is proportional to the sum of the curvatures of the surface in two
 normal planes at right angles to each other.
 
 The subject was next taken up by Pierre Simon Laplace (_Mecanique
-celeste_, supplement to the tenth book, pub. in 1806). His results are
+[[Celeste|celeste]]_, supplement to the tenth book, pub. in 1806). His results are
 in many respects identical with those of Young, but his methods of
 arriving at them are very different, being conducted entirely by
 mathematical calculations. The form into which he threw his
@@ -235,7 +235,7 @@ further investigation of the subject. In the _Supplement to the Theory
 of Capillary Action_, Laplace deduced the equation of the surface of the
 fluid from the condition that the resultant force on a particle at the
 surface must be normal to the surface. His explanation, however, of the
-rise of a liquid in a tube is based on the _assumption_ of the constancy
+rise of a liquid in a tube is based on the _[[Assumption|assumption]]_ of the constancy
 of the angle of contact for the same solid and fluid, and of this he has
 nowhere given a satisfactory proof. In this supplement Laplace gave many
 important applications of the theory, and compared the results with the
@@ -271,7 +271,7 @@ to be consistent with observed phenomena. He did not, however, enter
 into the explanation of particular phenomena, as this had been done
 already by Laplace, but he pointed out to physicists the advantages of
 the method of Segner and Gay Lussac, afterwards carried out by Quincke,
-of measuring the dimensions of large drops of mercury on a horizontal or
+of measuring the [[Dimension|dimensions]] of large drops of mercury on a horizontal or
 slightly concave surface, and those of large bubbles of air in
 transparent liquids resting against the under side of a horizontal plate
 of a substance wetted by the liquid.
@@ -328,7 +328,7 @@ equilibrium of a liquid under the action of surface-tension alone, and
 compared them with the results of mathematical investigation. He also
 greatly facilitated the study of liquid films by showing how to form a
 liquid, the films of which will last for twelve or even for twenty-four
-hours. The debt which science owes to Plateau is not diminished by the
+hours. The [[Debt|debt]] which science owes to Plateau is not diminished by the
 fact that, while investigating these beautiful phenomena, he never
 himself saw them, having lost his sight in about 1840.
 
@@ -357,13 +357,13 @@ the thinner a film is, the greater is its tension. This result, however,
 was tested by Van der Mensbrugghe, who found that the tension is the
 same for the same liquid whatever be the thickness, as long as the film
 does not burst. [The continued coexistence of various thicknesses, as
-evidenced by the colours in the same film, affords an instantaneous
+evidenced by the [[Colours|colours]] in the same film, affords an instantaneous
 proof of this conclusion.] The phenomena of very thin liquid films
 deserve the most careful study, for it is in this way that we are most
 likely to obtain evidence by which we may test the theories of the
 molecular structure of liquids.
 
-Sir W. Thomson (afterwards Lord Kelvin) investigated the effect of the
+Sir W. Thomson (afterwards Lord [[Kelvin]]) investigated the effect of the
 curvature of the surface of a liquid on the thermal equilibrium between
 the liquid and the vapour in contact with it. He also calculated the
 effect of surface-tension on the propagation of waves on the surface of
@@ -691,7 +691,7 @@ investigating the tension of such films.
     F = mm' ([phi](f) + Cf^-2),      (22)
 
   being reckoned positive when the force is attractive. The actual force
-  between the particles arises in part from their mutual gravitation,
+  between the particles arises in part from their mutual [[Gravitation|gravitation]],
   which is inversely as the square of the distance. This force is
   expressed by mm' Cf^-2. It is easy to show that a force subject to
   this law would not account for capillary action. We shall, therefore,
@@ -707,7 +707,7 @@ investigating the tension of such films.
     _/f
 
   then mm' [Pi](f) will represent--(1) The work done by the attractive
-  force on the particle m, while it is brought from an infinite distance
+  force on the particle m, while it is brought from an [[Infinite|infinite]] distance
   from m' to the distance f from m'; or (2) The attraction of a particle
   m on a narrow straight rod resolved in the direction of the length of
   the rod, one extremity of the rod being at a distance f from m, and
@@ -984,7 +984,7 @@ investigating the tension of such films.
   between the planes is supposed to be very small compared with their
   ultimate diameters, but at the same time large enough to exceed the
   range of the attractive forces. The work required to produce this
-  crevasse is twice the product of the tension and the area of one of
+  [[Crevasse|crevasse]] is twice the product of the tension and the area of one of
   the faces. If we now suppose the crevasse produced by direct
   separation of its walls, the work necessary must be the same as
   before, the initial and final configurations being identical; and we
@@ -1140,7 +1140,7 @@ investigating the tension of such films.
 
 ON SURFACE-TENSION
 
-Definition.--_The tension of a liquid surface across any line drawn on
+[[Definition]].--_The tension of a liquid surface across any line drawn on
 the surface is normal to the line, and is the same for all directions of
 the line, and is measured by the force across an element of the line
 divided by the length of that element._
@@ -1151,11 +1151,11 @@ water, the surface-tension is the same at every point of the surface and
 in every direction. It is also practically independent of the curvature
 of the surface, although it appears from the mathematical theory that
 there is a slight increase of tension where the mean curvature of the
-surface is concave, and a slight diminution where it is convex. The
+surface is concave, and a slight diminution where it is [[Convex|convex]]. The
 amount of this increase and diminution is too small to be directly
 measured, though it has a certain theoretical importance in the
 explanation of the equilibrium of the superficial layer of the liquid
-where it is inclined to the horizon.
+where it is inclined to the [[Horizon|horizon]].
 
 2. The surface-tension diminishes as the temperature rises, and when the
 temperature reaches that of the critical point at which the distinction
@@ -1193,12 +1193,12 @@ and if the other sides bc and ca are taken so as to represent on the
 same scale the tensions of the surfaces between b and c and between c
 and a respectively, then the condition of equilibrium at O for the
 corresponding tensions R, P and Q is that the angle ROP shall be the
-supplement of abc, POQ of bca, and, therefore, QOR of cab. Thus the
+supplement of abc, POQ of bca, and, therefore, QOR of [[Cab|cab]]. Thus the
 angles at which the surfaces of separation meet are the same at all
 parts of the line of concourse of the three fluids. When three films of
 the same liquid meet, their tensions are equal, and, therefore, they
 make angles of 120 deg. with each other. The froth of soap-suds or
-beaten-up eggs consists of a multitude of small films which meet each
+beaten-up [[Egg|eggs]] consists of a multitude of small films which meet each
 other at angles of 120 deg.
 
 If four fluids, a, b, c, d, meet in a point O, and if a tetrahedron ABCD
@@ -1298,7 +1298,7 @@ surface and wet the solid. The angle of contact of the first fluid is
 
 If a drop of alcohol be made to touch one side of a drop of oil on a
 glass plate, the alcohol will appear to chase the oil over the plate,
-and if a drop of water and a drop of bisulphide of carbon be placed in
+and if a drop of water and a drop of bisulphide of [[Carbon|carbon]] be placed in
 contact in a horizontal capillary tube, the bisulphide of carbon will
 chase the water along the tube. In both cases the liquids move in the
 direction in which the surface-pressure at the solid is least.
@@ -1366,7 +1366,7 @@ interfaces at the common edge must be parallel to the sides of a
 triangle, taken proportional to T12, T23, T31. If the above-mentioned
 condition be not satisfied, the triangle is imaginary, and the three
 fluids cannot rest in contact, the two weaker tensions, even if acting
-in full concert, being incapable of balancing the strongest. For
+in full [[Concert|concert]], being incapable of balancing the strongest. For
 instance, if T31 > T12 + T23, the second fluid spreads itself
 indefinitely upon the interface of the first and third fluids.
 
@@ -1437,7 +1437,7 @@ three fluids will always spread upon the interface of the other two.
 Another point of importance may be easily illustrated by this theory,
 viz. the dependency of capillarity upon abruptness of transition. "The
 reason why the capillary force should disappear when the transition
-between two liquids is sufficiently gradual will now be evident. Suppose
+between two liquids is sufficiently [[Gradual|gradual]] will now be evident. Suppose
 that the transition from 0 to [sigma] is made in two equal steps, the
 thickness of the intermediate layer of density 1/2[sigma] being large
 compared to the range of the molecular forces, but small in comparison
@@ -1477,7 +1477,7 @@ that this is the disposition of minimum tensions and energy.
 
 So far the results of Laplace's hypothesis are in marked accordance with
 experiment; but if we follow it out further, discordances begin to
-manifest themselves. According to (52)
+[[Manifest|manifest]] themselves. According to (52)
       ____     ____     ____
     \/ T31 = \/ T12 + \/ T23,     (53)
 
@@ -1491,7 +1491,7 @@ word of explanation. According to the rule, water, which has the lower
 surface-tension, should spread upon the surface of mercury; whereas the
 universal experience of the laboratory is that drops of water standing
 upon mercury retain their compact form without the least tendency to
-spread. To Quincke belongs the credit of dissipating the apparent
+spread. To Quincke belongs the [[Credit|credit]] of dissipating the apparent
 exception. He found that mercury specially prepared behaves quite
 differently from ordinary mercury, and that a drop of water deposited
 thereon spreads over the entire surface. The ordinary behaviour is
@@ -1505,7 +1505,7 @@ happens when the mercury is poured from an ordinary bottle. The mercury
 should be drawn from underneath, for which purpose an arrangement
 similar to a chemical wash bottle is suitable, and it may be poured into
 watch-glasses, previously dipped into strong sulphuric acid, rinsed in
-distilled water, and dried over a Bunsen flame. When the glasses are
+distilled water, and dried over a [[Bunsen]] flame. When the glasses are
 cool, they may be charged with mercury, of which the first part is
 rejected. Operating in this way there is no difficulty in obtaining
 surfaces upon which a drop of water spreads, although from causes that
@@ -1514,14 +1514,14 @@ As might be expected, the grease which produces these effects is largely
 volatile. In many cases a very moderate preliminary warming of the
 watch-glasses makes all the difference in the behaviour of the drop.
 
-The behaviour of a drop of carbon bisulphide placed upon clean water is
+The behaviour of a drop of [[Carbon Bisulphide|carbon bisulphide]] placed upon clean water is
 also, at first sight, an exception to Marangoni's rule. So far from
 spreading over the surface, as according to its lower surface-tension it
-ought to do, it remains suspended in the form of a lens. Any dust that
+ought to do, it remains suspended in the form of a lens. Any [[Dust|dust]] that
 may be lying upon the surface is not driven away to the edge of the
 drop, as would happen in the case of oil. A simple modification of the
 experiment suffices, however, to clear up the difficulty. If after the
-deposition of the drop, a little lycopodium be scattered over the
+deposition of the drop, a little [[Lycopodium|lycopodium]] be scattered over the
 surface, it is seen that a circular space surrounding the drop, of about
 the size of a shilling, remains bare, and this, however often the
 dusting be repeated, so long as any of the carbon bisulphide remains.
@@ -1579,7 +1579,7 @@ placed vertically in a liquid the liquid rises between them. If we now
 suppose fig. 6 to represent a vertical section perpendicular to the
 plates, we may calculate the rise of the liquid. Let l be the breadth of
 the plates measured perpendicularly to the plane of the paper, then the
-length of the line which bounds the wet and the dry parts of the plates
+length of the line which [[Bounds|bounds]] the wet and the dry parts of the plates
 inside is l for each surface, and on this the tension T acts at an angle
 [alpha] to the vertical. Hence the resultant of the surface-tension is
 2lT cos[alpha]. If the distance between the inner surfaces of the plates
@@ -1743,7 +1743,7 @@ and this, whether the atmosphere exerts any pressure or not. The force
 thus produced by the introduction of a drop of water between two plates
 is enormous, and is often sufficient to press certain parts of the
 plates together so powerfully as to bruise them or break them. When two
-blocks of ice are placed loosely together so that the superfluous water
+blocks of [[Ice|ice]] are placed loosely together so that the superfluous water
 which melts from them may drain away, the remaining water draws the
 blocks together with a force sufficient to cause the blocks to adhere by
 the process called _Regelation_.
@@ -1764,7 +1764,7 @@ A.M. Ampere floated a voltaic battery with a coil of wire in its circuit
 in order to observe the effects of the earth's magnetism on the electric
 circuit. When such floating bodies come near the edge of the vessel they
 are drawn up to it, and are apt to stick fast to it. There are two ways
-of avoiding this inconvenience. One is to grease the float round its
+of avoiding this inconvenience. One is to grease the [[Float|float]] round its
 water-line so that the water is depressed round it. This, however, often
 produces a worse disturbing effect, because a thin film of grease
 spreads over the water and increases its surface-viscosity. The other
@@ -1793,7 +1793,7 @@ the tube acted vertically, and the whole of the liquid below this level
 passed into the drop, the calculation would still be vitiated by the
 assumption that the internal pressure at the level in question is
 atmospheric. It would be necessary to consider the curvatures of the
-fluid surface at the edge of attachment. If the surface could be treated
+fluid surface at the edge of [[Attachment|attachment]]. If the surface could be treated
 as a cylindrical prolongation of the tube (radius a), the pressure would
 be T/a, and the resulting force acting downwards upon the drop would
 amount to one-half ([pi]aT) of the direct upward pull of the tension
@@ -1801,7 +1801,7 @@ along the circumference. At this rate the drop would be but one-half of
 that above reckoned. But the truth is that a complete solution of the
 statical problem for all forms up to that at which instability sets in,
 would not suffice for the present purpose. The detachment of the drop is
-a _dynamical_ effect, and it is influenced by collateral circumstances.
+a _dynamical_ effect, and it is influenced by [[Collateral|collateral]] circumstances.
 For example, the bore of the tube is no longer a matter of indifference,
 even though the attachment of the drop occurs entirely at the outer
 edge. It appears that when the external diameter exceeds a certain
@@ -1958,22 +1958,22 @@ tension of the surface of contact of mercury and dilute sulphuric acid
 depends on the electromotive force acting between the mercury and the
 acid. If the electromotive force is from the acid to the mercury the
 surface-tension increases; if it is from the mercury to the acid, it
-diminishes. Faraday observed that a large drop of mercury, resting on
+diminishes. [[Faraday]] observed that a large drop of mercury, resting on
 the flat bottom of a vessel containing dilute acid, changes its form in
 a remarkable way when connected with one of the electrodes of a battery,
 the other electrode being placed in the acid. When the mercury is made
 positive it becomes dull and spreads itself out; when it is made
-negative it gathers itself together and becomes bright again. G.
+negative it gathers itself together and becomes [[Bright|bright]] again. G.
 Lippmann, who has made a careful investigation of the subject, finds
 that exceedingly small variations of the electromotive force produce
 sensible changes in the surface-tension. The effect of one of a
 Daniell's cell is to increase the tension from 30.4 to 40.6. He has
-constructed a capillary electrometer by which differences of electric
+constructed a capillary [[Electrometer|electrometer]] by which differences of electric
 potential less than 0.01 of that of a Daniell's cell can be detected by
 the difference of the pressure required to force the mercury to a given
 point of a fine capillary tube. He has also constructed an apparatus in
 which this variation in the surface-tension is made to do work and drive
-a machine. He has also found that this action is reversible, for when
+a [[Machine|machine]]. He has also found that this action is reversible, for when
 the area of the surface of contact of the acid and mercury is made to
 increase, an electric current passes from the mercury to the acid, the
 amount of electricity which passes while the surface increases by one
@@ -1983,12 +1983,12 @@ square centimetre being sufficient to decompose .000013 gramme of water.
 test of the condition of a water surface. If the contamination exceed a
 certain limit, the scrapings remain quite dead. In a striking form of
 the experiment, the water is contained, to the depth of perhaps one
-inch, in a large flat dish, and the operative part of the surface is
-limited by a flexible hoop of thin sheet brass lying in the dish and
+[[Inch|inch]], in a large flat dish, and the operative part of the surface is
+limited by a flexible hoop of thin sheet [[Brass|brass]] lying in the dish and
 rising above the water-level. If the hoop enclose an area of (say)
 one-third of the maximum, and if the water be clean, camphor fragments
 floating on the interior enter with vigorous movements. A touch of the
-finger will then often reduce them to quiet; but if the hoop be
+[[Finger|finger]] will then often reduce them to quiet; but if the hoop be
 expanded, the included grease is so far attenuated as to lose its
 effect. Another method of removing grease is to immerse and remove
 strips of paper by which the surface available for the contamination is
@@ -2004,7 +2004,7 @@ millimetre.
 Small as is the above amount of oil, the camphor test is a comparatively
 coarse one. Conditions of a contaminated surface may easily be
 distinguished, upon all of which camphor fragments spin vigorously.
-Thus, a shallow tin vessel, such as the lid of a biscuit box, may be
+Thus, a shallow tin vessel, such as the lid of a [[Biscuit|biscuit]] [[Box|box]], may be
 levelled and filled with tap-water through a rubber hose. Upon the
 surface of the water a little sulphur is dusted. An application of the
 finger for 20 or 30 seconds to the under surface of the vessel will then
@@ -2012,7 +2012,7 @@ generate enough heat to lower appreciably the surface-tension, as is
 evidenced by the opening out of the dust and the formation of a bare
 spot perhaps 1-1/2 in. in diameter. When, however, the surface is but
 very slightly greased, a spot can no longer be cleared by the warmth of
-the finger, or even of a spirit lamp, held underneath. And yet the
+the finger, or even of a spirit [[Lamp|lamp]], held underneath. And yet the
 greasing may be so slight that camphor fragments move with apparently
 unabated vigour.
 
@@ -2033,7 +2033,7 @@ surface may be prepared so as to behave in the same manner as alcohol.
 
 Another consequence of the tendency of a moderate contamination to
 distribute itself uniformly is the calming effect of oil, investigated
-by B. Franklin. On pure water the propagation of waves would be attended
+by B. [[Franklin]]. On pure water the propagation of waves would be attended
 by temporary extensions and contractions of the surface, but these, as
 was shown by O. Reynolds, are resisted when the surface is contaminated.
 
@@ -2073,7 +2073,7 @@ energy of the bubble.
 
 That the bubble has energy may be shown by leaving the end of the tube
 open. The bubble will contract, forcing the air out, and the current of
-air blown through the tube may be made to deflect the flame of a candle.
+air blown through the tube may be made to deflect the flame of a [[Candle|candle]].
 If the bubble is in the form of a sphere of radius r this material
 surface will have an area
 
@@ -2241,7 +2241,7 @@ becomes
       \  pr   /    [pi]p
 
 This relation between y and r is identical with the relation between the
-perpendicular from the focus of a conic section on the tangent at a
+perpendicular from the [[Focus|focus]] of a conic section on the tangent at a
 given point and the focal distance of that point, provided the
 transverse and conjugate axes of the conic are 2a and 2b respectively,
 where
@@ -2279,7 +2279,7 @@ equal to the conjugate axis of the ellipse.
 tension along the axis is equal to 2[pi]Tm where m is the distance of
 the vertex from the focus.
 
-3. When the conic is a hyperbola the meridian line is in the form of a
+3. When the conic is a [[Hyperbola|hyperbola]] the meridian line is in the form of a
 looped curve (fig. 12). The corresponding figure of the film is called
 the nodoid. The resultant of the internal pressure and the
 surface-tension is equivalent to a pressure along the axis equal to that
@@ -2296,7 +2296,7 @@ belonging to the series is the sphere.
 
 These figures of revolution have been studied mathematically by C.W.B.
 Poisson,[3] Goldschmidt,[4] L.L. Lindelof and F.M.N. Moigno,[5] C.E.
-Delaunay,[6] A.H.E. Lamarle,[7] A. Beer,[8] and V.M.A. Mannheim,[9] and
+[[Delaunay]],[6] A.H.E. Lamarle,[7] A. [[Beer]],[8] and V.M.A. [[Mannheim]],[9] and
 have been produced experimentally by Plateau[10] in the two different
 ways already described.
 
@@ -2401,7 +2401,7 @@ become spherical.
 
 [The circumstances attending the resolution of a cylindrical jet into
 drops were admirably examined and described by F. Savart ("Memoire sur
-la constitution des veines liquides lancees par des orifices circulaires
+la constitution des veines liquides [[Lance|lancees]] par des orifices circulaires
 en minces parois," _Ann. d. Chim._ t. liii., 1833) and for the most part
 explained with great sagacity by Plateau. Let us conceive an infinitely
 long circular cylinder of liquid, at rest (a motion common to every part
@@ -2485,7 +2485,7 @@ case of maximum instability
 if d be the diameter of the cylinder. Thus, if d = 1, q^(-1) = .115; or
 for a diameter of one centimetre the disturbance is multiplied 2.7 times
 in about one-ninth of a second. If the disturbance be multiplied 1000
-fold in time, t, qt = 3log_e 10 = 6.9, so that t = .79d^(3/2). For
+[[Fold|fold]] in time, t, qt = 3[[Log|log]]_e 10 = 6.9, so that t = .79d^(3/2). For
 example, if the diameter be one millimetre, the disturbance is
 multiplied 1000 fold in about one-fortieth of a second. In view of these
 estimates the rapid disintegration of a fine jet of water will not cause
@@ -2509,7 +2509,7 @@ disturbances present.
 
 The application of these results to actual jets presents no great
 difficulty. The disturbances by which equilibrium is upset are impressed
-upon the fluid as it leaves the aperture, and the continuous portion of
+upon the fluid as it leaves the [[Aperture|aperture]], and the continuous portion of
 the jet represents the distance travelled during the time necessary to
 produce disintegration. Thus the length of the continuous portion
 necessarily depends upon the character of the disturbances in respect of
@@ -2518,7 +2518,7 @@ Savart showed, by a suitable isolation of the reservoir from tremors,
 whether due to external sources or to the impact of the jet itself in
 the vessel placed to receive it. Nevertheless it does not appear to be
 possible to carry the prolongation very far. Whether the residuary
-disturbances are of external origin, or are due to friction, or to some
+disturbances are of external origin, or are due to [[Friction|friction]], or to some
 peculiarity of the fluid motion within the reservoir, has not been
 satisfactorily determined. On this point Plateau's explanations are not
 very clear, and he sometimes expresses himself as if the time of
@@ -2572,7 +2572,7 @@ But the most certain method of obtaining complete regularity of
 resolution is to bring the reservoir under the influence of an external
 vibrator, whose pitch is approximately the same as that proper to the
 jet. H.G. Magnus (_Pogg. Ann._ cvi., 1859) employed a Neef's hammer,
-attached to the wooden frame which supported the reservoir. Perhaps an
+attached to the wooden [[Frame|frame]] which supported the reservoir. Perhaps an
 electrically maintained tuning-fork is still better. Magnus showed that
 the most important part of the effect is due to the forced vibration of
 that side of the vessel which contains the orifice, and that but little
@@ -2614,9 +2614,9 @@ In consequence of the rapidity of the motion some optical device is
 necessary to render apparent the phenomena attending the disintegration
 of a jet. Magnus employed a rotating mirror, and also a rotating disk
 from which a fine slit was cut out. The readiest method of obtaining
-instantaneous illumination is the electric spark, but with this Magnus
+instantaneous [[Illumination|illumination]] is the electric spark, but with this Magnus
 was not successful. The electric spark had, however, been used
-successfully for this purpose some years before by H. Buff (_Liebigs
+successfully for this purpose some years before by H. [[Buff]] (_Liebigs
 Ann._ lxxviii. 1851), who observed the _shadow_ of the jet on a white
 screen. Preferable to an opaque screen is a piece of ground glass, which
 allows the shadow to be examined from the farther side (Lord Rayleigh).
@@ -2626,8 +2626,8 @@ between the source of light and the eye. The best effect is obtained
 when the light of the spark is somewhat diffused by being passed (for
 example) through a piece of ground glass.
 
-The spark may be obtained from the secondary of an induction coil, whose
-terminals are in connexion with the coatings of a Leyden jar. By
+The spark may be obtained from the secondary of an [[Induction Coil|induction coil]], whose
+terminals are in connexion with the coatings of a [[Leyden]] jar. By
 adjustment of the contact breaker the series of sparks may be made to
 fit more or less perfectly with the formation of the drops. A still
 greater improvement may be effected by using an electrically maintained
@@ -2639,7 +2639,7 @@ perfectly steady, and may be examined at leisure. In one experiment the
 jet issued horizontally from an orifice of about half a centimetre in
 diameter, and almost immediately assumed a rippled outline. The
 gradually increasing amplitude of the disturbance, the formation of the
-elongated ligament, and the subsequent transformation of the ligament
+elongated [[Ligament|ligament]], and the subsequent transformation of the ligament
 into a spherule, could be examined with ease. In consequence of the
 transformation being in a more advanced stage at the forward than at the
 hinder end, the ligament remains for a moment connected with the mass
@@ -2731,7 +2731,7 @@ amalgamation.
 These experiments may be repeated with extreme ease, and with hardly any
 apparatus. The diameter of the jet may be about 1/20 in., and it may
 issue from a glass nozzle. The pressure may be such as to give a
-fountain about 2 ft. high. The change in the sound due to the falling
+[[Fountain|fountain]] about 2 ft. high. The change in the sound due to the falling
 drops as they strike the bottom of the sink should be noticed, as well
 as that in the appearance of the jet.
 
@@ -2814,7 +2814,7 @@ intersect before they reach the directrix.
 
 To prove this, let us consider the catenary as the form of equilibrium
 of a chain suspended between two fixed points A and B. Suppose the chain
-hanging between A and B to be of very great length, then the tension at
+[[Hanging|hanging]] between A and B to be of very great length, then the tension at
 A or B will be very great. Let the chain be hauled in over a peg at A.
 At first the tension will diminish, but if the process be continued the
 tension will reach a minimum value and will afterwards increase to
@@ -3041,7 +3041,7 @@ been
   f = g + ---------- -----
           [lambda]^2 [rho]
 
-instead of g. Now it is shown in hydrodynamics that the velocity of
+instead of g. Now it is shown in [[Hydrodynamics|hydrodynamics]] that the velocity of
 propagation of waves in deep water is that acquired by a heavy body
 falling through half the radius of the circle whose circumference is the
 wave-length, or
@@ -3142,7 +3142,7 @@ stroboscopic method of observation, the light being intermittent in the
 period of vibration, so that practically only one phase is seen. In
 order to render visible the small waves employed, and which we may
 regard as deviations of a plane surface from its true figure, the
-method by which Foucault tested reflectors is suitable. The following
+method by which [[Foucault]] tested reflectors is suitable. The following
 results have been obtained
 
   Clean                                                   74.0
@@ -3177,7 +3177,7 @@ becomes elliptical, corresponds to n = 2.
 
 Vibrations of this kind are observed whenever liquid issues from an
 elliptical or other non-circular hole, or even when it is poured from
-the lip of an ordinary jug; and they are superposed upon the general
+the [[Lip|lip]] of an ordinary jug; and they are superposed upon the general
 progressive motion. Since the phase of vibration depends upon the time
 elapsed, it is always the same at the same point in space, and thus the
 motion is _steady_ in the hydrodynamical sense, and the boundary of the
@@ -3236,7 +3236,7 @@ velocity of one centimetre per second:--
   | Water                            |  1      |  81   |   . .   |  418     | 25 deg. 32' |     . .    | 25 deg. 6' |
   | Mercury                          | 13.5432 | 540   |  418    |   . .    | 51 deg. 8'  | 26 deg. 8' |     . .    |
   | Bisulfuride of Carbon            |  1.2687 |  32.1 |   41.75 |  372.5   | 32 deg. 16' | 15 deg. 8' |     . .    |
-  | Chloroform                       |  1.4878 |  30.6 |   29.5  |  399     |     . .     |     . .    |     . .    |
+  | [[Chloroform]]                       |  1.4878 |  30.6 |   29.5  |  399     |     . .     |     . .    |     . .    |
   | Alcohol                          |  0.7906 |  25.5 |   . .   |  399     | 25 deg. 12' |     . .    |     . .    |
   | Olive Oil                        |  0.9136 |  36.9 |   20.56 |  335     | 21 deg. 50' | 17 deg.    | 47 deg. 2' |
   | Turpentine                       |  0.8867 |  29.7 |   11.55 |  250.5   | 37 deg. 44' | 37 deg. 44'| 47 deg. 2' |
@@ -3251,7 +3251,7 @@ velocity of one centimetre per second:--
   25.5), 6.8, angle 87 deg. 48'.
 
 Quincke has determined the surface-tension of a great many substances
-near their point of fusion or solidification. His method was that of
+near their point of [[Fusion|fusion]] or solidification. His method was that of
 observing the form of a large drop standing on a plane surface. If K is
 the height of the flat surface of the drop, and k that of the point
 where its tangent plane is vertical, then
@@ -3272,7 +3272,7 @@ where its tangent plane is vertical, then
   | Mercury            |     -40 deg.    |   577    |
   | Lead               |     330 deg.    |   448    |
   | Silver             |    1000 deg.    |   419    |
-  | Bismuth            |     265 deg.    |   382    |
+  | [[Bismuth]]            |     265 deg.    |   382    |
   | Potassium          |      58 deg.    |   364    |
   | Sodium             |      90 deg.    |   253    |
   | Antimony           |     432 deg.    |   244    |
@@ -3295,7 +3295,7 @@ The bromides and iodides have a specific cohesion about half that of
 mercury. The nitrates, chlorides, sugars and fats, as also the metals
 lead, bismuth and antimony, have a specific cohesion nearly equal to
 that of mercury. Water, the carbonates and sulphates, and probably
-phosphates, and the metals platinum, gold, silver, cadmium, tin and
+phosphates, and the metals platinum, gold, silver, [[Cadmium|cadmium]], tin and
 copper have a specific cohesion double that of mercury. Zinc, iron and
 palladium, three times that of mercury, and sodium, six times that of
 mercury.
@@ -3331,7 +3331,7 @@ in producing the surface-extension.
   Reference may be made to A.W. Reinold and Sir A.W. Rucker (_Phil.
   Trans._ 1886, p. 627); Sir W. Ramsay and J. Shields (_Zeitschr.
   physik. Chem._ 1893, 12, p. 433); and on the theoretical side, see
-  papers by Josiah Willard Gibbs; R. Eotvos (_Wied. Ann._, 1886, 27, p.
+  papers by Josiah Willard [[Gibbs]]; R. Eotvos (_Wied. Ann._, 1886, 27, p.
   452); J.D. Van der Waals, G. Bakker and other writers of the Dutch
   school.     (J. C. M.; R.)
 
@@ -3360,11 +3360,11 @@ FOOTNOTES:
   [6] "Sur la surface de revolution dont la courbure moyenne est
     constante," _Liouville's Journal_, vi.
 
-  [7] "Theorie geometrique des rayons et centres de courbure," _Bullet,
+  [7] "Theorie geometrique des rayons et centres de courbure," _[[Bullet]],
     de l'Acad. de Belgique_, 1857.
 
   [8] _Tractatus de Theoria Mathematica Phaenomenorum in Liquidis
-    actioni gravitatis detractis observatorum_ (Bonn, 1857).
+    actioni gravitatis detractis observatorum_ ([[Bonn]], 1857).
 
   [9] _Journal de l'Institut_, No. 1260.
 

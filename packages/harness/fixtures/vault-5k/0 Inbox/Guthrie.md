@@ -7,12 +7,12 @@ topic: history
 # Guthrie
 
 GUTHRIE, THOMAS (1803-1873), Scottish divine, was born at Brechin,
-Forfarshire, on the 12th of July 1803. He entered the university of
+[[Forfarshire]], on the 12th of July 1803. He entered the university of
 Edinburgh at the early age of twelve, and continued to attend classes
 there for more than ten years. On the 2nd of February 1825 the
 presbytery of Brechin licensed him as a preacher in connexion with the
 Church of Scotland, and in 1826 he was in Paris studying natural
-philosophy, chemistry, and comparative anatomy. For two years he acted
+philosophy, [[Chemistry|chemistry]], and [[Comparative Anatomy|comparative anatomy]]. For two years he acted
 as manager of his father's bank, and in 1830 was inducted to his first
 charge, Arbirlot, in Forfarshire, where he adopted a vivid dramatic
 style of preaching adapted to his congregation of peasants, farmers and
@@ -34,14 +34,14 @@ He insisted on bringing up all the children in his school as
 Protestants; and he thus made his schools proselytizing as well as
 educational institutions. This interference with religious liberty led
 to some controversy; and ultimately those who differed from Guthrie
-founded the United Industrial School, giving combined secular and
+founded the United [[Industrial School]], giving combined secular and
 separate religious instruction. In April 1847 the degree of D.D. was
 conferred on Guthrie by the university of Edinburgh; and in 1850 William
-Hanna (1808-1882), the biographer and son-in-law of Thomas Chalmers, was
+Hanna (1808-1882), the biographer and son-in-law of Thomas [[Chalmers]], was
 inducted as his colleague in Free St John's Church.
 
 In 1850 Guthrie published _A Plea on behalf of Drunkards and against
-Drunkenness_, which was followed by _The Gospel in Ezekiel_ (1855); _The
+Drunkenness_, which was followed by _The Gospel in [[Ezekiel]]_ (1855); _The
 City: its Sins and Sorrows_ (1857); _Christ and the Inheritance of the
 Saints_ (1858); _Seedtime and Harvest of Ragged Schools_ (1860),
 consisting of his three _Pleas for Ragged Schools_. These works had an
@@ -52,9 +52,9 @@ shortened hours of sale for Scotland. Mr Gladstone specially quoted him
 in support of the Light Wines Bill (1860). In 1862 he was moderator of
 the Free Church General Assembly; but he seldom took a prominent part in
 the business of the church courts. His remarkable oratorical talents,
-rich humour, genuine pathos and inimitable power of story-telling,
+rich [[Humour|humour]], genuine pathos and inimitable power of story-telling,
 enabled him to do good service to the total abstinence movement. He was
-one of the vice-presidents of the Evangelical Alliance. In 1864, his
+one of the vice-presidents of the [[Evangelical Alliance]]. In 1864, his
 health being seriously impaired, he resigned public work as pastor of
 Free St John's (May 17), although his nominal connexion with the
 congregation ceased only with his death. Guthrie had occasionally
@@ -70,7 +70,7 @@ he died at St Leonards-on-Sea on the 24th of February 1873.
   books which had a remarkable circulation in England and America, such
   as _Speaking to the Heart_ (1862); _The Way to Life_ (1862); _Man and
   the Gospel_ (1865); _The Angel's Song_ (1865); _The Parables_ (1866);
-  _Our Father's Business_ (1867); _Out of Harness_ (1867); _Early Piety_
+  _Our Father's Business_ (1867); _Out of [[Harness]]_ (1867); _Early Piety_
   (1868); _Studies of Character from the Old Testament_ (1868-1870);
   _Sundays Abroad_ (1871).
 

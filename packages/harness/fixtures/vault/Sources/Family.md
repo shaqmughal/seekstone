@@ -1,14 +1,14 @@
 # Family
 
-FAMILY, a word of which the etymology but partially illustrates the
+FAMILY, a word of which the [[Etymology|etymology]] but partially illustrates the
 meaning. The Roman _familia_, derived from the Oscan _famel_ (_servus_),
 originally signified the servile property, the thralls, of a master.
 Next, the term denoted other domestic property, in things as well as in
 persons. Thus, in the fifth of the laws of the Twelve Tables, the rules
 are laid down: SI . INTESTATO . MORITUR . CUI . SUUS . HERES . NEC . SIT
 . ADGNATUS . PROXIMUS . AMILIAM . ABETO, and SI . AGNATUS . NEC . ESCIT
-. GENTILIS . FAMILIAM . NANCITOR; that is, if a man die intestate,
-leaving no natural heir who had been under his _potestas_, the nearest
+. [[Gentili|GENTILIS]] . FAMILIAM . NANCITOR; that is, if a man die intestate,
+leaving no natural [[Heir|heir]] who had been under his _potestas_, the nearest
 agnate, or relative tracing his connexion with the deceased exclusively
 through males, is to inherit the _familia_, or family fortune of every
 sort. Failing an agnate, a member of the _gens_ of the dead man is to
@@ -25,7 +25,7 @@ as when we say that a person is "of a good family" (Ulpian, _Dig._ 50,
 return, we may provisionally define Family, in the modern sense, as the
 small community formed by the union of one man with one woman, and by
 the increase of children born to them. These in modern times, and in
-most European countries, constitute the household, and it has been
+most [[European Countries|European countries]], constitute the household, and it has been
 almost universally supposed that little natural associations of this
 sort are the germ-cell of early society. The Bible presents the growth
 of the Jewish nation from the one household of Abraham. His patriarchal
@@ -35,7 +35,7 @@ as descent through males was therefore recognized as certain, the
 plurality of wives makes no real difference to the argument. In the same
 way the earliest formal records of Indian, Greek and Roman society
 present the family as firmly established, and generally regarded as the
-most primitive of human associations. Thus, Aristotle derives the first
+most primitive of human associations. Thus, [[Aristotle]] derives the first
 household ([Greek: oikia prote]) from the combination of man's
 possession of property--in the slave or in domesticated animals--with
 man's relation to woman, and he quotes Hesiod: [Greek: oikon men
@@ -52,7 +52,7 @@ blood, composed of father, mother and their descendants. In this family,
 the father is absolute master of his wife, his children and the goods of
 the little community; at his death his eldest son succeeds him; and in
 course of time this association of kindred, by natural increase and by
-adoption, develops into the clan, _gens_, or [Greek: genos]. As
+adoption, develops into the [[Clan|clan]], _gens_, or [Greek: genos]. As
 generations multiply, the more distant relations split off into other
 clans, and these clans, which have not lost the sense of primitive
 kinship, unite once more into tribes. The tribes again, as civilization
@@ -68,14 +68,14 @@ seriously opposed. John Ferguson McLennan, in his _Primitive Marriage_
 and his essays on _The Worship of Plants and Animals_ (see his _Studies
 in Ancient History_, second series), drew attention to the wide
 prevalence of the custom of inheriting the kinship name through mothers,
-not fathers; and to the law of "Exogamy" (q.v.). The former usage he
+not fathers; and to the law of "[[Exogamy]]" (q.v.). The former usage he
 attributed to archaic uncertainty as to fatherhood; the natural result
 of absolute sexual promiscuity, or of Polyandry (q.v.). Either practice
 is inconsistent, prima facie, with the primitive existence of the
 Family, whether polygamous or monogamous, whether patriarchal or modern.
 The custom of Exogamy, again,--here taken to mean the unwritten law
 which makes it incest, and a capital offence, to marry within the real
-or supposed kin denoted by the common name of the kinship,--pointed to
+or supposed [[Kin|kin]] denoted by the common name of the kinship,--pointed to
 an archaic condition of family affairs all unlike our Table of
 prohibited degrees. This law of Exogamy was found, among many savage
 races, associated with Totems, that is plants, animals and other
@@ -86,7 +86,7 @@ of alleged promiscuity in ancient times, were detected by McLennan in
 the legends, folk-lore and institutions of Greece, Rome and India.
 Later, Prof. Robertson Smith found similar survivals, or possible
 survivals, among the Semitic races (_Kinship in Early Arabia_). Others
-have followed the same trail among the Celts (S. Reinach, _Cultes,
+have followed the same trail among the [[Celt|Celts]] (S. Reinach, _Cultes,
 mythes et religions_, 1904).
 
 If arguments founded on these alleged survivals be valid, it may be that
@@ -106,7 +106,7 @@ descent would be reckoned through mothers.
 Such are the outlines of McLennan's theory, which, as a whole, has been
 attacked by many writers, and is now, perhaps, accepted by none.
 McLennan's was the most brilliant pioneer work; but his supply of facts
-was relatively scanty, and his friend Charles Darwin stated objections
+was relatively scanty, and his friend Charles [[Darwin]] stated objections
 which to many seem final, as regards the past existence of a stage of
 sexual promiscuity. C.N. Starcke (_The Primitive Family_, 1889), Edward
 Alexander Westermarck (_History of Human Marriage_, 1891), Ernest
@@ -114,16 +114,16 @@ Crawley (_The Mystic Rose_), Herbert Spencer, Emile Durkheim, Lord
 Avebury and many others, have criticized McLennan, who, however, in
 coining the term Exogamy, and drawing scientific attention to Totemism,
 and reckoning of kin through mothers, founded the study of early
-society. Here it must be observed that "Matriarchate" (q.v.) is a
+society. Here it must be observed that "[[Matriarchate]]" (q.v.) is a
 misleading term, as is "Gynaecocracy," for the custom of deducing
 descent on the spindle side. Women among totemistic and exogamous
 savages are in a degraded position, nor does the deriving and inheriting
 of the kinship name, or anything else, on the spindle side, imply any
-ignorance of paternal relations; even where, as among Central Australian
+[[Ignorance|ignorance]] of paternal relations; even where, as among Central Australian
 tribes, the facts of reproduction are said to be unknown.
 
 
-  Lewis Morgan.
+  [[Lewis]] Morgan.
 
 3. Simultaneous with McLennan's researches and speculations were the
 works of Lewis H. Morgan. He was the discoverer of a custom very
@@ -145,7 +145,7 @@ Polynesian groups and in New Zealand. Next comes what Morgan chooses to
 call the Turanian system. "It was universal among the North American
 aborigines," whom he styles Ganowanians. "Traces of it have been found in
 parts of Africa" (_Ancient Society_), and "it still prevails in South
-India among the Hindus, who speak the Dravidian language," and also in
+India among the Hindus, who speak the [[Dravidian]] language," and also in
 North India, among other Hindus. The system, Morgan says, "is simply
 stupendous." It is not exactly the same among all his miscellaneous
 "Turanians," but, on the whole, assumes the following shapes. Suppose the
@@ -155,7 +155,7 @@ and grand-nieces in the male line, "grandson" and "granddaughter." Here
 the Turanian and the Malayan systems agree. But change the sex; let the
 male speaker address his nephews and nieces in the female line,--the
 children of his sister,--he salutes them as "nephew" and "niece," and
-they hail him as "uncle." Now, in the Malay system, nephews and nieces on
+they [[Hail|hail]] him as "uncle." Now, in the Malay system, nephews and nieces on
 both sides, brother's children or sisters, are alike named "children" of
 the uncle. If the speaker be a female, using the Turanian style, these
 terms are reversed. Her sister's sons and daughters are saluted by her as
@@ -170,7 +170,7 @@ to Morgan's _Systems of Consanguinity and Affinity of the Human Race_.
 The existence of the classificatory system is not an entirely novel
 discovery. Nicolaus Damascenus, one of the inquirers into early society,
 who lived in the first century of our era, noticed this mode of address
-among the Galactophagi. Lafitau found it among the Iroquois. To Morgan's
+among the Galactophagi. Lafitau found it among the [[Iroquois]]. To Morgan's
 perception of the importance of the facts, and to his energetic
 collection of reports, we owe our knowledge of the wide prevalence of
 the system. From an examination of the degrees of kindred which seem to
@@ -183,7 +183,7 @@ we quote the following description of the five different and successive
 forms of the family:--
 
   "I. _The Consanguine Family._--It was founded upon the intermarriage
-  of brothers and sisters, own and collateral, in a group.
+  of brothers and sisters, own and [[Collateral|collateral]], in a group.
 
   "II. _The Punaluan Family._--It was founded upon the intermarriage of
   several sisters, own and collateral, with each others' husbands, in a
@@ -223,12 +223,12 @@ xv. 16), and Archinus in his _Thessalica_ (_Odyssey_, xi. 7, scholia B,
 Q) agree more or less with Morgan. Next, how did the Consanguine family
 change into the Punaluan? Morgan says (_Ancient Society_) brothers
 ceased to marry their sisters, because "the evils of it could not for
-ever escape human observation." Thus the Punaluan family was hit upon,
+ever escape human observation." Thus the Punaluan family was [[Hit|hit]] upon,
 and "created a distinct system of consanguinity" (_Ancient Society_),
 the Turanian. Again, "marriages in Punaluan groups explain the
 relationships in the system." But Morgan provides himself with another
 explanation, "the Turanian system owes its origin to marriage in the
-group _and_ to the gentile organization." He calls exogamy "the gentile
+group _and_ to the [[Gentile|gentile]] organization." He calls exogamy "the gentile
 organization," though, in point of fact, the only gentes we know, the
 Roman gentes, show scarcely a trace of exogamy. Again, "the change of
 relationships which resulted from substituting Punaluan in the place of
@@ -285,7 +285,7 @@ Narrinyeri have totem groups, in which "the children are of the clan of
 the father." Far from being "incipient," the gens of the Narrinyeri is
 on the footing of the ghotra of Hindu custom. Lastly, though Morgan
 frequently declares that the Polynesians have not the gens (for he
-thinks them not sufficiently advanced), W.W. Gill (_Myths and Songs from
+thinks them not sufficiently advanced), W.W. [[Gill]] (_Myths and Songs from
 the South Pacific_, London, 1876) has shown that unmistakable traces of
 the totem survive in Polynesian mythology.
 
@@ -300,13 +300,13 @@ woman is addressed as "mother," when an elder man calls a junior "my
 son." He also showed that his own system accounted for the terms. The
 controversy is still alive; one set of writers regarding the savage
 terms of relationship as indicating a state of things in which human
-beings dwelt in a "horde," with promiscuous intercourse; another set
+beings dwelt in a "[[Horde|horde]]," with promiscuous intercourse; another set
 holding that the terms do not indicate consanguineous kinship, but
 degrees of age, status, and reciprocal obligations in a local _tribe_,
 and therefore that they do not yield any presumption that there was a
 past of promiscuity or of what is called "group marriage." On Morgan's
 side (not of course accepting all his details) are L. Fison and A.W.
-Howitt, and Baldwin Spencer and F.J. Gillen. Against him are Starcke,
+Howitt, and [[Baldwin]] Spencer and F.J. Gillen. Against him are Starcke,
 Westermarck, A. Lang, Dr Durkheim, apparently, Crawley and many others.
 
 
@@ -320,7 +320,7 @@ and women of a given status are intermarriageable (_nupa_, _noa_,
 _unawa_) with each other. Though child-betrothals are usual, and though
 the woman is specialized to one man, who protects and nourishes her and
 all her children, and though their union is immediately preceded by an
-extended _jus primae noctis_ (such as Herodotus describes among the
+extended _[[Jus Primae Noctis|jus primae noctis]]_ (such as Herodotus describes among the
 Nasamones), yet, among certain tribes, the following custom prevails. At
 great meetings the tribal leaders assign a woman as paramour (with what
 amount of permanence remains obscure) to a man (_pirrauru_); one woman
@@ -332,16 +332,16 @@ under penalty of strangling. Thenceforth, if the husband permits, the
 male _pirrauru_ has matrimonial rights over the other man's _tippa
 malku_ wife when they meet. A symbolic ceremony of union precedes the
 junction of the _pirrauru_ people. This institution, as far as reported,
-is peculiar to a group of tribes near Lake Eyre, the Dieri, Urabunna,
+is peculiar to a group of tribes near Lake [[Eyre]], the Dieri, Urabunna,
 and their congeners,--or perhaps to all who have the same "phratry"
 names as the Dieri and Urabunna (_Kiraru_ and _Mattera_, in various
-dialectic forms).
+[[Dialectic|dialectic]] forms).
 
 Elsewhere the _pirrauru_ custom is not known: but almost everywhere
 there are licentious festivals, in which all marriage rules except those
 which forbid incest (in our sense of the word, namely between the
 closest relations) are thrown to the winds. Also a native travelling
-among alien tribes is lent women of the status into which he may legally
+among alien tribes is [[Lent|lent]] women of the status into which he may legally
 marry.
 
 
@@ -381,9 +381,9 @@ marriage (or of amatory intercourse) between brothers and sisters; or
 did mankind originally live in very small groups, under a jealous sire,
 who imposed restrictions on intercourse between the young males, his
 sons, and all the females of the "hearth-circle," who constituted his
-harem? The problem has been studied, first, in the institutions of
+[[Harem|harem]]? The problem has been studied, first, in the institutions of
 savages, notably of the most backward savages, the black natives of
-Australia; and next, in the light of the habits of the higher mammalia.
+[[Australia]]; and next, in the light of the habits of the higher [[Mammalia|mammalia]].
 
 As regards Australian matrimonial institutions, it has been known since
 the date of the _Journals of two Expeditions of Discovery_, by Sir
@@ -404,9 +404,9 @@ second series, was posthumously published (1896). We know with certainty
 that in Australia, among archaic savages who have neither metals,
 agriculture, pottery nor domesticated animals, a graduated scale of
 matrimonial institutions exists. First there are _local_ tribes, each
-tribe having its own dialect; holding a recognized area of territory;
+tribe having its own [[Dialect|dialect]]; holding a recognized area of territory;
 and living on friendly terms with neighbouring tribes. Territorial
-conquest is never attempted. In many cases a knot of tribes of allied
+conquest is never attempted. In many cases a [[Knot|knot]] of tribes of allied
 dialects and kindred rites may be, or at least is, spoken of as a
 "nation" by our authorities.
 
@@ -428,11 +428,11 @@ animal: in the majority of cases, however, the meaning of the phratry
 name is lost. In one instance, that of the Euahlayi tribe of north-west
 New South Wales, the phratry names are said (by Mrs Langloh Parker) to
 mean "Light Blood" and "Dark Blood." This, as in the theory of the Rev.
-J. Mathews, _Eagle and Crow_, might be taken to indicate a blending of
+J. [[Mathews]], _[[Eagle]] and Crow_, might be taken to indicate a blending of
 two distinct _races_.
 
 Taking, for the sake of clearness, tribes whose phratry names mean
-"Crow" and "Eagle Hawk," every member of the tribe belongs either to
+"Crow" and "Eagle [[Hawk]]," every member of the tribe belongs either to
 Eagle Hawk phratry or to Crow phratry: if to Crow, the man or woman can
 only marry an Eagle Hawk, if to Eagle Hawk, can only marry a Crow. The
 children invariably belong to the phratry of the mother, in this most
@@ -443,7 +443,7 @@ of Central Australia) after a _different_ set of plants and animals.
 With the exception mentioned (that of the Arunta "nation"), in no tribe
 does the same totem ever occur in both phratries. Totems and totem names
 are inherited by the children from the mother, in this primitive type.
-Thus a man, Eagle Hawk by phratry, Snipe by totem, marries a woman Crow
+Thus a man, Eagle Hawk by phratry, Snipe by totem, [[Marri|marries]] a woman Crow
 by phratry, Black Duck by totem. His children by her are of phratry
 Crow, of totem Black Duck. Obviously no person can marry another of his
 or her own totem, because, in the phratry into which he or she _must_
@@ -483,7 +483,7 @@ practice.
 are inherited through the father: the class of the child of course not
 being the father's, but the linked class in his phratry.
 
-(5) In the fifth category (Central North Australia), while phratry name
+(5) In the fifth [[Category|category]] (Central North Australia), while phratry name
 (if not lost) and totem name are inherited from the father, by a
 refinement of law which is spreading southwards there are _four_ classes
 in each phratry (or main exogamous division unnamed), and the choice of
@@ -494,7 +494,7 @@ a partner in life is thus more restricted than in more primitive tribes.
 
 (6) Finally we reach the institutions of the group of tribes called,
 from the name of the most powerful tribe in the set, "the Arunta
-nation." They occupy the Macdonnell Ranges and other territory in the
+nation." They occupy the [[Macdonnell]] Ranges and other territory in the
 very centre of Australia. The Arunta reckon kinship in the male line:
 their phratry names they have forgotten, in place of phratries eight
 matrimonial classes regulate marriage. In these respects they resemble
@@ -522,7 +522,7 @@ The process by which Arunta totems came thus to differ from those of all
 other savages is easily understood. Like the other tribes from the
 centre to the north (including the Urabunna nation, which reckons
 descent through women), the Arunta believe that the souls of the primal
-semi-bestial ancestors of the Alcheringa or "dream time" are perpetually
+semi-bestial ancestors of the Alcheringa or "[[Dream|dream]] time" are perpetually
 reincarnated. This opinion does not affect by itself the usual exogamous
 character of totemism among the other tribes. The Arunta nation,
 however, cultivates an additional myth, namely that the primal
@@ -535,7 +535,7 @@ elsewhere), "went into the ground." The souls of these ancestors haunt
 such spots, especially they haunt the nanja tree or rock, and the stone
 _churinga nanja_. Each district, therefore, has its own _oknanikilla_
 (or local totem centre of the ghosts), Cat ghosts, Grub ghosts, Hakea
-flower ghosts and so on. These spirits enter into women and are reborn
+[[Flower|flower]] ghosts and so on. These spirits enter into women and are reborn
 as children. When a child comes to birth, the mother names the
 oknanikilla in which she conceived it, and, whatever the ghost totem of
 that place may be, it is the child's totem. Its mother may be a Grub,
@@ -620,7 +620,7 @@ this gradually resulted in the development of exogamous groups." But as
 "it is quite possible that the exogamous groups were deliberately
 introduced to regulate marital relations," and as they could only do so
 by introducing exogamy, we do not see how that system can be the result
-of the _gradual_ development of an organization _quelconque_,--of
+of the _[[Gradual|gradual]]_ development of an organization _quelconque_,--of
 unknown nature. A magical organization already existed (_Journal of the
 Anthropological Institute_, New Series, i. pp. 284-285).
 
@@ -634,11 +634,11 @@ organization," unknown.
 People who, like the Arunta, have lost memory of the very names of the
 phratries, cannot conceivably remember the nature of the origin of
 exogamy. Accustomed as they now are to tribal councils which introduce
-new rules, they fancy that, in the beginning, new rules were thus
+new rules, they [[Fancy|fancy]] that, in the beginning, new rules were thus
 introduced.
 
 
-  Conclusion as to Spencer's hypothesis.
+  Conclusion as to Spencer's [[Hypothesis|hypothesis]].
 
 Meanwhile the working of magic for the behoof of the totem animals and
 plants, or rather for the name-giving animals of magical societies, is
@@ -662,10 +662,10 @@ co-operative magical societies (Hartland, Marett, Durkheim and others).
 8. Spencer and Gillen leave the origin of exogamy an open question.
 Howitt supposes that, in the shape of the phratriac division of the
 tribe into two exogamous moieties, the scheme may have been introduced
-to the tribal headmen by a medicine man "announcing to his fellow
+to the tribal headmen by a medicine man "announcing to his [[Fellow|fellow]]
 headman a command received from some supernatural being ..." (_Natives
 of South-East Australia_, pp. 89, 90). The Council, so to speak, of
-"headmen" accept the divine decree, and the assembled tribe pass the
+"headmen" accept the divine [[Decree|decree]], and the assembled tribe pass the
 Act. But this explanation explains nothing. Why did the prophet wish to
 introduce exogamy? Why were names of animals given, in so many cases, to
 the two exogamous divisions? As Howitt asks (op. cit. p. 153), "How was
@@ -710,7 +710,7 @@ exogamous? Nothing is gained by saying "thus an instinct would be
 developed which would be powerful enough, as a rule, to prevent
 injurious unions." There is no "instinct," there is a tribal law of
 exogamy. If there had been an "instinct," it might account for the
-avoidance of "in and in breeding"--that is, it might account for
+[[Avoidance|avoidance]] of "in and in breeding"--that is, it might account for
 exogamy, _ab initio_. But that is left unaccounted for by the theory
 which, after maintaining that the avoidance produced the instinct, seems
 to argue that the instinct produced the avoidance. Westermarck goes on
@@ -759,7 +759,7 @@ the hostility of the two clans. Nor do we see why, if things occurred
 thus, the totem kins should not represent twenty or thirty differences
 of religious taste, in the original horde, as to the choice of animal
 gods. If the horde was going to vary in opinion, it is unlikely that
-only _two_ factions put forward animal candidates for divinity. Again, a
+only _two_ [[Faction|factions]] put forward animal candidates for divinity. Again, a
 "clan" (a totem kin, with exogamy and descent derived through mothers)
 cannot overflow its territorial area and be therefore obliged to send
 out colonies, for such a clan (as Durkheim himself remarks) has no
@@ -779,7 +779,7 @@ that attaches to the violation of the rule of totemic exogamy: a
 mysterious entity, the totem, is hereby offended. But how did totems,
 animals, plants and so on, come to be mystically _solidaires_ with their
 human namesakes and kinsmen? We do not observe that Dr Durkheim ever
-explains _why_ two divisions of one horde chose each a different animal
+explains _why_ two divisions of one horde [[Chose|chose]] each a different animal
 god, or why the supposed colonies thrown off by these primary clans
 deserted their animal gods for others, or why, and on what principle,
 they all chose new "gods,"--fresh animals, plants and other objects. His
@@ -796,7 +796,7 @@ encounter, when explaining the social oganization of Australian savages,
 difficulties which they do not surmount. But Howitt has provided
 (apparently without fully realizing the merit of his own suggestions) a
 way out of the perplexities caused by the conception of early mankind
-dwelling promiscuously in "undivided communes." The way out is
+dwelling promiscuously in "undivided [[Commune|communes]]." The way out is
 practically to say that, in everyday life, they lived in nothing of the
 sort. Howitt writes (_Native Tribes of South-East Australia_, p. 173):
 "A study of the evidence ... has led me to the conclusion that the state
@@ -804,8 +804,8 @@ of society among the early Australians was that of an 'Undivided
 Commune.'... It is, however, well to guard this expression. I do not
 desire to imply necessarily the existence of complete and continuous
 communism between the sexes. The character of the country, the necessity
-of moving from one point to another in search of game and vegetable
-food, would cause any Undivided Commune, when it assumed dimensions
+of moving from one point to another in search of [[Game|game]] and vegetable
+food, would cause any Undivided Commune, when it assumed [[Dimension|dimensions]]
 greater than the immediate locality could provide with food, to break up
 into two or more Communes of the same character. In addition to this it
 is clear ... that in the past as now, individual likes and dislikes must
@@ -825,7 +825,7 @@ we postulate a surviving sense of solidarity among the scattered
 segments of the Commune, obviously very small, owing to lack of
 supplies, and perpetually disintegrated? But, taking the original groups
 as very small, and as ruled by likes and dislikes, by affection and
-jealousy, we are no longer concerned with a promiscuous horde, but with
+[[Jealousy|jealousy]], we are no longer concerned with a promiscuous horde, but with
 a little knot of human beings, in whom love, parental affection and the
 jealousy of sires, would promptly make discriminations between this
 person and that person, as regards sexual privileges. Thus we have edged
@@ -840,7 +840,7 @@ jealously guarded against all other men." But, in a community of this
 early type, to guard women jealously would mean constant battle, at
 least when Man became an animal who makes love all the year round. So
 Darwin adds: "Or man may not have been a social animal, and yet have
-lived with several wives, like the Gorilla,--for all the natives agree
+lived with several wives, like the [[Gorilla]],--for all the natives agree
 that but one adult male is seen in a band; when the young male grows up
 a contest takes place for the mastery, and the strongest, by killing or
 driving out the others, establishes himself as head of the Community.
@@ -856,7 +856,7 @@ harem of females, probably unchecked as regards his daughters.
 
   Atkinson's theory.
 
-On this Darwinian text J.J. Atkinson builds his theory of the evolution
+On this Darwinian text J.J. [[Atkinson]] builds his theory of the evolution
 of exogamy and of savage society in his _Primal Law_ (_Social Origins
 and Primal Law_, by Lang and Atkinson, 1903). Paternal jealousy "gave
 birth to Primal Law, prohibitory of marriage between certain members of
@@ -887,8 +887,8 @@ of Australian totemic society, is proposed by the present writer. We may
 suggest that men originally lived in the state of "the Cyclopean family"
 of Atkinson; that is, in Darwin's "family group," containing but one
 adult male, with the females, the adolescent males being driven out, to
-find each a female mate, or mates, elsewhere if they can. With increase
-of skill, improvements in implements and mitigation of ferocity, such
+find each a female mate, or [[Mat|mates]], elsewhere if they can. With increase
+of skill, improvements in [[Implement|implements]] and mitigation of ferocity, such
 groups may become larger, in a given area, but men may retain the habit
 of seeking mates outside the limits of the group of contiguity; the
 "avoidance" of brothers and sisters may already have arisen. Among the
@@ -910,13 +910,13 @@ originally group sobriquets, would not find more difficulty in being
 accepted than "Whig," "Tory," "Huguenot," "Cavalier," "Christian,"
 "Cameronian,"--all of them originally nicknames given from without.
 Again, "Wry Nose" and "Crooked Mouth" are _derisive_ nicknames, but they
-are the translations of the ancient Celtic clan names Cameron and
-Campbell. The nicknames "Naked Dogs," "Liars," "Buffalo Dung," "Men who
+are the translations of the ancient Celtic clan names [[Cameron]] and
+Campbell. The nicknames "Naked [[Dogs]]," "Liars," "[[Buffalo]] Dung," "Men who
 do not laugh," "Big Topknots," have been thoroughly accepted by the
 "gentes" of the Blackfoot Indians, now passing out of Totemism
-(Grinnell, _Blackfoot Lodge Tales_, pp. 208-225).
+(Grinnell, _Blackfoot [[Lodge]] Tales_, pp. 208-225).
 
-As Howitt writes, "the assumption of the names of objects by men must in
+As Howitt writes, "the [[Assumption|assumption]] of the names of objects by men must in
 fact have been the origin of totemism." Howitt does not admit the theory
 that the totem names came to arise in this way, but this way is a _vera
 causa_. Names must be given either from within or from without. A group,
@@ -930,7 +930,7 @@ Australia_, p. 207).
 There is nothing, prima facie, which renders this origin of animal,
 plant and other such names for early savage groups at all improbable.
 They would not even be resented, as now are the animal names for
-villagers in the Orkneys, the Channel Islands, France, Cornwall and in
+villagers in the Orkneys, the Channel Islands, France, [[Cornwall]] and in
 ancient Israel (for examples see _Social Origins_, pp. 295-301). The
 names once accepted, and their origin forgotten, would be inevitably
 regarded as implying a mystic _rapport_ between the bestial and the
@@ -939,7 +939,7 @@ Kangaroo and so on (see NAME). On this subject it is enough to cite J.G.
 Frazer, in _The Golden Bough_ (2nd ed., vol. i. pp. 404-446). Here will
 be found a rich and satisfactory collection of proof that community of
 name implies mystic _rapport_. Professor Rhys is quoted for the
-statement that probably "the whole Aryan race believed at one time not
+statement that probably "the whole [[Aryan]] race believed at one time not
 only that the name was a part of the man, but that it was that part of
 him which is termed the soul." In such a mental stage the men "Crows"
 identify themselves with the actual Crow species: the birds are now "of
@@ -947,7 +947,7 @@ their flesh," are fabled to be their ancestors, or the men have been
 evolved out of the birds. The Crow is sacro-sanct, a friend and
 protector, and a centre of taboos, one of which is the prohibition
 preventing a Crow man from intercourse with a Crow woman, "however far
-apart their hunting grounds may have been." All men and women Crows are
+apart their [[Hunting|hunting]] grounds may have been." All men and women Crows are
 recognized as brothers and sisters in the Crow, and are not
 intermarriageable.
 
@@ -962,7 +962,7 @@ new names, the rule becomes, "no marriage within local group Eagle Hawk,
 group Crow," and so on. So far the animal giving the group name may not
 yet have become a revered totem. The result of the rule would inevitably
 be, in three or four generations, that in groups Crow or Eagle Hawk,
-there were no Crows or Eagle Hawks _by descent_, if the children took
+there were no Crows or Eagle [[Hawks]] _by descent_, if the children took
 the names of descent from their mothers; for the sake of
 differentiation: the Ant woman's children in local group Crow being
 Ants, the Grub woman's children being Grubs, the Eagle Hawk woman's
@@ -1008,7 +1008,7 @@ fact, that in Australian phratries _Mukwara_ (Eagle Hawk) there is a
 totem kin Eagle Hawk, and in _Kilpara_ phratry (Crow) there is a totem
 kin Crow. This arrangement--the totem kin within the phratry of its own
 name--has long been known to exist in America. The Thlinkets have Raven
-phratry, with totem kins Raven, Frog, Goose, &c., and Wolf phratry, with
+phratry, with totem kins Raven, Frog, [[Goose]], &c., and Wolf phratry, with
 totem kins Wolf, Bear, Eagle, &c. (Frazer, _Totemism_, pp. 61, 62
 (1887)). In Australia the fact has hitherto escaped observation, because
 so many phratry names are not translated, while, though _Mukwara_ and
@@ -1020,7 +1020,7 @@ alien tribe now perhaps extinct.
 
 We have now sketched a scheme explanatory of the most primitive type of
 social organization in Australia. The tendency is for phratries first to
-lose the meanings of their names, and, next, for their names to lapse
+lose the meanings of their names, and, next, for their names to [[Lapse|lapse]]
 into oblivion, as among the Arunta; the work of regulating marriage
 being done by the opposed Matrimonial Classes.
 
@@ -1074,7 +1074,7 @@ intermediate stage pervades the interjacent region.
 
 The best authority on the Family developed in different shapes in
 North-West America is Charles Hill-Tout (cf. "Origin of the Totemism of
-the Aborigines of British Columbia," _Transactions of the Royal Society
+the Aborigines of [[British Columbia]]," _Transactions of the Royal Society
 of Canada_, vol. vii. sect. 11, 1901). He, like many American and some
 English and continental students, applies the term "totem" not only to
 the hereditary totem of the exogamous kin, but to the animal familiars
@@ -1137,14 +1137,14 @@ societies.
   connexion between the men and their name-giving animal.
 
   Other useful sources of information are the annual Reports of the
-  Bureau of Ethnology (Washington), the _Journal of the Institute of the
-  Anthropological Society, Folk Lore_ (the organ of the Folk Lore
+  [[Bureau]] of Ethnology (Washington), the _Journal of the Institute of the
+  Anthropological Society, Folk [[Lore]]_ (the organ of the Folk Lore
   Society), and Durkheim's _L'Annee sociologique_. _Tabou et totemisme a
-  Madagascar_, by M.A. van Gennep (Leroux, Paris, 1904) is a valuable
+  [[Madagascar]]_, by M.A. van Gennep (Leroux, Paris, 1904) is a valuable
   contribution to knowledge.
 
   For India, where vestiges of totemism linger in the hill tribes, see
-  Risley and Crooke, _Tribes and Castes_, vols. i., ii., iii., iv.; and
+  Risley and Crooke, _Tribes and [[Caste|Castes]]_, vols. i., ii., iii., iv.; and
   Crooke, _Popular Religion_; also Crooke in _J.A.I._ (N.S.), vol. i.
   pp. 232-244.     (A. L.)
 

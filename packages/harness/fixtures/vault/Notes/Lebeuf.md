@@ -16,7 +16,7 @@ the day. His correspondence with Président Bouhier was published in 1885
 by Ernest Petit; his other letters have been edited by the _Société des
 sciences historiques et naturelles de l'Yonne_ (2 vols., 1866-1867). He
 also wrote numerous articles, and, after his election as a member of the
-Académie des Inscriptions et Belles-Lettres (1740), a number of
+Académie des Inscriptions et [[Belles-Lettres]] (1740), a number of
 _Mémoires_ which appeared in the _Recueil_ of this society. He died at
 Paris on the 10th of April 1760. His most important researches had Paris
 as their subject.
@@ -28,9 +28,9 @@ as their subject.
   original sources. In view of the advance made by scholarship in the
   19th century, it was found necessary to publish a second edition. The
   work of reprinting it was undertaken by H. Cocheris, but was
-  interrupted (1863) before the completion of vol. iv. Adrien Augier
+  interrupted (1863) before the completion of vol. iv. Adrien [[Augier]]
   resumed the work, giving Lebeuf's text, though correcting the numerous
-  typographical errors of the original edition (5 vols., 1883), and
+  typographical [[Error|errors]] of the original edition (5 vols., 1883), and
   added a sixth volume containing an analytical table of contents.
   Finally, Fernand Bournon completed the work by a volume of
   _Rectifications et additions_ (1890), worthy to appear side by side

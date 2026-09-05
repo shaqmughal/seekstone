@@ -6,7 +6,7 @@ topic: art
 
 # Arbitration
 
-ARBITRATION, INTERNATIONAL. International arbitration is a proceeding in
+ARBITRATION, [[International|INTERNATIONAL]]. International arbitration is a proceeding in
 which two nations refer their differences to one or more selected
 persons, who, after affording to each party an opportunity of being
 heard, pronounce judgment on the matters at issue. It is understood,
@@ -66,7 +66,7 @@ delimitation of frontiers, and for settling the indemnities to be paid
 to the subjects of neutral powers in respect of losses sustained by
 non-combatants in times of war or civil insurrection. The two earliest
 of these were nominated in 1794 under the treaty negotiated by Lord
-Grenville with Mr John Jay, commonly called the "Jay Treaty," their
+[[Grenville]] with Mr John [[Jay]], commonly called the "Jay Treaty," their
 tasks being (1) to define the boundary between Canada and the United
 States which had been agreed to by the treaty signed at Paris in 1783;
 (2) to estimate the amount to be paid by Great Britain and the United
@@ -89,8 +89,8 @@ tribunal has not acted in good faith, or has not given to each party an
 opportunity of being heard, or has exceeded its jurisdiction. An
 instance under the last head occurred in 1831, when it was referred to
 the king of the Netherlands as sole arbitrator to fix the north-eastern
-boundary of the state of Maine. The king's representatives were unable
-to draw the frontier line by reason of the imperfection of the maps then
+boundary of the state of [[Maine]]. The king's representatives were unable
+to draw the frontier line by reason of the imperfection of the [[Map|maps]] then
 in existence, and he therefore directed a further survey. This direction
 was beyond the terms of the reference, and the award, when made, was
 repudiated by the United States as void for excess. The point in dispute
@@ -131,9 +131,9 @@ much space. Some prominent examples (dealt with elsewhere under their
 appropriate titles) are the dispute between the United States and Great
 Britain respecting the "Alabama" and other vessels employed by the
 Confederate government during the American Civil War (award in 1872);
-that between the same powers respecting the fur-seal fishery in Bering
+that between the same powers respecting the fur-seal [[Fishery|fishery]] in Bering
 Sea (award in 1893); that between Great Britain and Venezuela respecting
-the boundary of British Guiana (award in 1899); that between Great
+the boundary of British [[Guiana]] (award in 1899); that between Great
 Britain, the United States and Portugal respecting the Delagoa railway
 (award in 1900); that between Great Britain and the United States
 respecting the boundary of Alaska (award in 1903). The long-standing
@@ -141,18 +141,18 @@ Newfoundland fishery dispute with France (finally settled in 1904) is
 dealt with under Newfoundland. Other examples are shortly noticed in the
 tables on p. 329, which although by no means exhaustive, sufficiently
 indicate the scope and trend of arbitration during the years covered.
-The cases decided by the permanent tribunal at the Hague established in
+The cases decided by the permanent tribunal at the [[Hague]] established in
 1900 are not included in these tables. They are separately discussed
 later.
 
 _The Hague Tribunal._--The establishment of a permanent tribunal at the
 Hague, pursuant to the Peace convention of 1899, marks a momentous epoch
 in the history of international arbitration. This tribunal realized an
-idea put forward by Jeremy Bentham towards the close of the 18th
+idea put forward by [[Jeremy]] [[Bentham]] towards the close of the 18th
 century, advocated by James Mill in the middle of the 19th century, and
-worked out later by Mr Dudley Field in America, by Dr Goldschmidt in
-Germany, and by Sir Edmund Hornby and Mr Leone Levi in England. The
-credit of the realization is due, in the first place, to the tsar of
+worked out later by Mr [[Dudley]] Field in America, by Dr Goldschmidt in
+Germany, and by Sir Edmund [[Hornby]] and Mr Leone [[Levi]] in England. The
+[[Credit|credit]] of the realization is due, in the first place, to the tsar of
 Russia, who initiated the Hague Conference of 1899, and, in the second
 place to Lord Pauncefote (then Sir Julian Pauncefote, British ambassador
 at Washington), who urged before a committee of the conference the
@@ -197,7 +197,7 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   this name was formed in the 18th century for the purpose of converting
   to the Catholic faith the native Indians of Upper and Lower
   California, both of which then belonged to Mexico, and of maintaining
-  a Catholic priesthood there. By a decree of 1842 this fund was
+  a Catholic priesthood there. By a [[Decree|decree]] of 1842 this fund was
   transferred to the public treasury of Mexico, the Mexican government
   undertaking to pay interest thereon in perpetuity in furtherance of
   the design of the original donors. After the sale of Upper California
@@ -219,10 +219,10 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   matter was _res judicata_ by reason of Sir E. Thornton's award; (2)
   whether, if not, the claim for the interest was just. The arbitrators
   selected by the United States were Sir E. Fry and Professor F. de
-  Martens, and by Mexico, Professor Asser and Professor de Savornin
+  [[Martens]], and by Mexico, Professor [[Asser]] and Professor de Savornin
   Lohman, both of Amsterdam. These four (none of whom, it will be
-  observed, was of the nationality of either party in difference) chose
-  for their umpire Professor Matzen, of Copenhagen, president of the
+  observed, was of the nationality of either party in difference) [[Chose|chose]]
+  for their umpire Professor Matzen, of [[Copenhagen]], president of the
   Landsthing there. In October 1902, the court decided both questions in
   the affirmative, awarding the payment by Mexico of the annual sum
   claimed, not in gold, but _en monnaie ayant cours legal au Mexique_.
@@ -243,12 +243,12 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   referred to three mixed commissions, and that for the purpose of
   securing the payment of these claims 30 percent of the customs
   revenues at the ports of La Guayra and Puerto Caballo should be
-  remitted in monthly instalments to the representative of the Bank of
-  England at Caracas. Prior to the date of these protocols, an attempt
+  remitted in monthly [[Instalment|instalments]] to the representative of the Bank of
+  England at [[Caracas]]. Prior to the date of these protocols, an attempt
   had been made by Great Britain, Germany and Italy to enforce their
-  claims by blockade, and a further question arose as between these
+  claims by [[Blockade|blockade]], and a further question arose as between these
   three powers on the one hand, and the United States of America,
-  France, Spain, Belgium, the Netherlands, Sweden and Norway, and Mexico
+  France, Spain, [[Belgium]], the Netherlands, Sweden and Norway, and Mexico
   (all of whom had claims against Venezuela, but had abstained from
   hostile action) on the other hand, as to whether the blockading powers
   were entitled to preferential treatment. By three several protocols
@@ -256,7 +256,7 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   Hague court, three members of which were to be named as arbitrators by
   the tsar of Russia, but no arbitrator was to be a subject or citizen
   of any of the signatory or creditor powers. The arbitrators named by
-  the tsar were M. Muraviev, minister of justice and attorney-general of
+  the tsar were M. Muraviev, minister of justice and [[Attorney-General|attorney-general]] of
   the Russian empire; Professor Lammasch, member of the Upper House of
   the Austrian parliament; and M. de Martens, then member of the council
   of the ministry of foreign affairs at St Petersburg. The arbitrators
@@ -280,13 +280,13 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   |      |                            |                          |                                   |      |
   | 1869 | Great Britain and Portugal | President of United      | Island of Bulama on West Coast of | 1870 |
   |      |                            |   States                 |   Africa                          |      |
-  | 1872 | Great Britain and Portugal | President of French      | Delagoa Bay (part of), Inyack and | 1875 |
-  |      |                            |   Republic               |   Elephant Is., S.E. Africa       |      |
+  | 1872 | Great Britain and Portugal | President of French      | [[Delagoa Bay]] (part of), Inyack and | 1875 |
+  |      |                            |   Republic               |   [[Elephant]] Is., S.E. Africa       |      |
   | 1876 | Argentine Republic and     | President of United      | Territory between the Verde and   | 1878 |
   |      |  Paraguay                  |   States                 |   Pilcomayo river of Paraguay     |      |
   | 1885 | Great Britain and Germany  | Mixed Commission         | Islets and guano deposits on S.W. | 1886 |
   |      |                            |                          |   Coast of Africa                 |      |
-  | 1886 | Bulgaria and Servia        | Mixed Commission         | Territory near the village of     | 1887 |
+  | 1886 | [[Bulgaria]] and Servia        | Mixed Commission         | Territory near the village of     | 1887 |
   |      |                            |                          |   Bergovo                         |      |
   | 1902 | Austria and Hungary        | Mixed Commission (with   | Territory in the district of Upper| 1902 |
   |      |                            |   President of Swiss     |   Tatra                           |      |
@@ -316,17 +316,17 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   | 1903 | Great Britain and Portugal | King of Italy            | Barotseland                       | 1905 |
   |                                                                                                         |
   |                                             TABLE III.                                                  |
-  |                        _Pecuniary Claims in respect of Seizures and Arrests._                           |
+  |                        _Pecuniary Claims in respect of Seizures and [[Arrest|Arrests]]._                           |
   |                                                                                                         |
   | 1851 | United States and Portugal | President of French      | Seizure of the American privateer | 1852 |
   |      |                            |   Republic               |   "General Armstrong"             |      |
   | 1863 | Great Britain and Brazil   | King of the Belgians     | Arrest of three British officers  | 1863 |
   |      |                            |                          |   of the ship "La Forte"          |      |
-  | 1863 | Great Britain and Peru     | Sentate of Hamburg       | Arrest at Callao of Capt. Melville| 1864 |
+  | 1863 | Great Britain and Peru     | Sentate of [[Hamburg]]       | Arrest at [[Callao]] of Capt. Melville| 1864 |
   |      |                            |                          |   White, a British subject        |      |
-  | 1870 | United States and Spain    | Mixed Commission         | The American S.S. "Col. Lloyd     | 1870 |
+  | 1870 | United States and Spain    | Mixed Commission         | The American S.S. "Col. [[Lloyd]]     | 1870 |
   |      |                            |                          |   Aspinwall"                      |      |
-  | 1873 | Japan and Peru             | Tsar of Russia           | The Peruvian barque "Maria Luz"   | 1875 |
+  | 1873 | [[Japan]] and Peru             | Tsar of Russia           | The Peruvian barque "Maria Luz"   | 1875 |
   |      |                            |                          |                                   |      |
   | 1874 | United States and Colombia | Mixed Commission         | The American S.S. "Montijo"       | 1875 |
   |      |                            |                          |                                   |      |
@@ -334,9 +334,9 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   |      |                            |                          |                                   |      |
   | 1885 | United States an Spain     | Italian Minister at      | The American S.S. "The Masonic"   | 1885 |
   |      |                            |   Madrid                 |                                   |      |
-  | 1888 | The United States and      | British Minister at      | The S.S. "Benjamin Franklin" and  | 1890 |
-  |      |   Denmark                  |   Athens                 |   the barque "Catherine Augusta"  |      |
-  | 1895 | Great Britain and          | Tsar of Russia, who      | Arrest of the master of the "Costa| 1897 |
+  | 1888 | The United States and      | British Minister at      | The S.S. "[[Benjamin]] [[Franklin]]" and  | 1890 |
+  |      |   [[Denmark]]                  |   Athens                 |   the barque "Catherine Augusta"  |      |
+  | 1895 | Great Britain and          | Tsar of Russia, who      | Arrest of the master of the "[[Costa]]| 1897 |
   |      |   Netherlands              |   delegated his duties to|   Rica" packet (a British subject)|      |
   |      |                            |   Professor F. de Martens|                                   |      |
   +------+----------------------------+--------------------------+-----------------------------------+------+
@@ -363,7 +363,7 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   the reasons on which it was based.
 
 
-    Great Britain and the French flag at Muscat.
+    Great Britain and the French [[Flag|flag]] at Muscat.
 
   (4) Barely two months had elapsed since the date of the last award
   when the Hague court was again called into requisition. The scene of
@@ -371,15 +371,15 @@ behalf of sixteen of the assembled powers on the 29th of July 1899.
   of the kingdom of Oman on that coast, is ruled by a sultan, whose
   independence both Great Britain and France had, in March 1862,
   "reciprocally engaged to respect." Notwithstanding this, the French
-  republic had issued to certain native dhows, owned by subjects of the
-  sultan, papers authorizing them to fly the French flag, not only on
+  republic had issued to certain native [[Dhow|dhows]], owned by subjects of the
+  sultan, papers authorizing them to [[Fly|fly]] the French flag, not only on
   the Oman littoral but in the Red Sea. A question thereupon arose as to
   the manner in which the privileges thereby purported to be conferred
   affected the jurisdiction of the sultan over such dhows, the masters
   of which, as was alleged, used their immunity from search for the
   purpose of carrying on contraband trade in slaves, arms and
   ammunition. In October 1904 the two governments agreed to refer this
-  question to the Hague court. Chief Justice Melville W. Fuller, of the
+  question to the Hague court. Chief Justice Melville W. [[Fuller]], of the
   Supreme Court of the United States, was named as arbitrator on the
   part of Great Britain, M. de Savornin Lohrnan, who had acted in the
   case of the Californias (No. 1), as arbitrator on the part of France.
@@ -458,8 +458,8 @@ instance, is meant by the phrase "national independence" in this
 connexion? If it be taken in its strict acceptation of autonomous state
 sovereignty, the exception is somewhat of a truism. No self-respecting
 power would, of course, consent to submit to arbitration a question of
-life or death. This would be as if two men were to agree to draw lots as
-to which should commit suicide in order to avoid fighting a duel. On the
+life or death. This would be as if two men were to agree to draw [[Lot|lots]] as
+to which should commit suicide in order to avoid fighting a [[Duel|duel]]. On the
 other hand, if the exception be taken to exclude all questions which,
 when decided adversely to a state, impose a restraint on its freedom of
 action, then the exception would seem to exclude such a question as the
@@ -490,7 +490,7 @@ political character. Under "legal differences" may be ranged such as are
 capable of being decided, when once the facts are ascertained, by
 settled, recognized rules, or by rules not settled nor recognized, but
 (as in the "Alabama" case) taken so to be for the purpose in hand.
-Boundary cases and cases of indemnity for losses sustained by
+Boundary cases and cases of [[Indemnity|indemnity]] for losses sustained by
 non-combatants in time of war, of which several instances have already
 been mentioned, belong to this class. To the same class belong those
 cases in which the arbitrators have to adapt the provisions of an old
@@ -507,7 +507,7 @@ the most part, unsuitable, and may only be adjusted (if at all) through
 the mediation of a friendly power.
 
 The interesting problem of the future is--are we to regard this
-classification as fixed or as merely transitory? The answer depends on
+[[Classification|classification]] as fixed or as merely transitory? The answer depends on
 several considerations which can only be glanced at here. It may be
 that, just as the usages of civilized nations have slowly crystallized
 into international law, so there may come a time when the political
@@ -517,12 +517,12 @@ legal or quasi-legal character. If they do, they will pass the line
 which at present separates arbitrable from non-arbitrable matter. This
 is the juridical aspect of the problem. But there is also an economic
 side to it by reason of the conditions of modern warfare. Already the
-nations are groaning under the burdens of militarism, and are for ever
+nations are groaning under the [[Burden|burdens]] of militarism, and are for ever
 diverting energies that might be employed in the furtherance of useful
 productive work to purposes of an opposite character. The interruption
 of maritime intercourse, the stagnation of industry and trade, the rise
 in the price of the necessaries of life, the impossibility of adequately
-providing for the families of those--call them reservists, "landwehr,"
+providing for the families of those--call them reservists, "[[Landwehr|landwehr]],"
 or what you will--who are torn away from their daily toil to serve in
 the tented field,--these are considerations that may well make us pause
 before we abandon a peaceful solution and appeal to brute force. Lastly,
@@ -553,14 +553,14 @@ the time being permit."
   international_ (traduit par Serge de Westman) (Paris, 1887); Rouard de
   Card, _Les Destinees de l'arbitrage international, depuis la sentence
   rendue par le tribunal de Geneve_ (Paris, 1892); Michel Revon,
-  _L'Arbitrage international_ (Paris, 1892); Ferdinand Dreyfus,
+  _L'Arbitrage international_ (Paris, 1892); [[Ferdinand]] [[Dreyfus]],
   _L'Arbitrage international_ (Paris, 1894) (where the earlier
   authorities are collected); A. Merignhac, _Traite de l'arbitrage
-  international_ (Paris, 1895); Le Chevalier Descamps, _Essai sur
+  international_ (Paris, 1895); Le [[Chevalier]] Descamps, _Essai sur
   l'organisation de l'arbitrage international_ (Bruxelles, 1896);
   Feraud-Giraud, _Des Traites d'arbitrage international general et
-  permanent, Revue de droit international_ (Bruxelles. 1897);
-  _Pasicrisie International_, by Senator H. Lafontaine (Berne, 1902);
+  permanent, Revue de [[Droit|droit]] international_ (Bruxelles. 1897);
+  _Pasicrisie International_, by Senator H. [[Lafontaine]] (Berne, 1902);
   _Recueils d'actes et protocols de la cour permanente d'Arbitrage_,
   Langenhuysen Freres, the Hague.
 
@@ -573,7 +573,7 @@ the time being permit."
   noticed in Phillimore's _International Law_; in Sir Henry Maine's
   _Lectures_, delivered in Cambridge in 1887; in W.E. Hall's
   _International Law_, and more at length in an interesting paper
-  contributed by John Westlake to the _International Journal of Ethics_,
+  contributed by John Westlake to the _International Journal of [[Ethics]]_,
   October 1896, which its author has reprinted privately. A London
   journal, _The Herald of Peace and International Arbitration_, issued
   some years ago a list of instances in which arbitration or mediation
@@ -681,7 +681,7 @@ than those affected by the dispute (e.g. the London and other
 "district" boards referred to below). Moreover, in some of the most
 important cases of settlement of disputes by conciliation, the mediating
 party has not been a permanent board but a disinterested individual,
-e.g. the mayor, county court judge, government official or member of
+e.g. the [[Mayor|mayor]], county court judge, government official or member of
 parliament. As will be seen below, the Conciliation Act now provides for
 the appointment of "conciliators" by the Board of Trade.
 
@@ -690,14 +690,14 @@ representing employers and work-people in particular trades), are at
 once the most firmly established and the most important agencies in
 Great Britain for the prevention and settlement of labour disputes.
 Among the earliest of such bodies was the board of arbitration in the
-Macclesfield silk trade, formed in 1849, in imitation of the French
+[[Macclesfield]] silk trade, formed in 1849, in imitation of the French
 "_Conseils de Prud'hommes_," but which only lasted four years. The first
 board, however, which attained any degree of permanent success was that
-established for the hosiery and glove trade in Nottingham in 1860,
+established for the [[Hosiery|hosiery]] and [[Glove|glove]] trade in Nottingham in 1860,
 through the efforts of A.J. Mundella. In 1864 a board was established in
-the Wolverhampton building trades, with Rupert Kettle as chairman, and
+the Wolverhampton building trades, with Rupert [[Kettle]] as chairman, and
 in 1868 boards were formed for the pottery trade, the Leicester hosiery
-trade and the Nottingham lace trade. In 1869 there was formed one of the
+trade and the Nottingham [[Lace|lace]] trade. In 1869 there was formed one of the
 most important of the still existing boards, viz. the board of
 arbitration and conciliation in the manufactured iron and steel trades
 of the north of England, with which the names of Rupert Kettle, David
@@ -712,7 +712,7 @@ general wages by conciliation or arbitration. These sliding scales,
 however, usually had attached to them joint committees for dealing with
 disputed questions. A sliding scale arranged by David Dale was attached
 to the manufactured iron trade board in 1871. A sliding scale for the
-Cleveland blast furnacemen came into force in 1879. Sliding scales were
+[[Cleveland]] blast furnacemen came into force in 1879. Sliding scales were
 also adopted in the coal trade in many districts, e.g. South Wales
 (1875), Durham (1877) and Northumberland (1879). The movement was,
 however, followed by a reaction, and several of the sliding scales in
@@ -723,7 +723,7 @@ to exist and was replaced by a conciliation board.
 The formation on a large scale of conciliation boards in the coal trade
 to fix the rate of wages dates from the great miners' dispute of 1893,
 one of the terms of settlement agreed to at the conference held at the
-foreign office under Lord Rosebery being the formation of a conciliation
+[[Foreign Office|foreign office]] under Lord Rosebery being the formation of a conciliation
 board covering the districts affected. Northumberland followed in 1894,
 Durham in 1895, Scotland in 1900 and South Wales in 1903.
 
@@ -737,7 +737,7 @@ reference in case of a deadlock to an umpire.
 
 The first general district board to be formed was that established in
 London in 1890, through the London chamber of commerce, as a sequel to
-the Mansion House committee which mediated in the great London dock
+the Mansion House committee which mediated in the great London [[Dock|dock]]
 strike of 1889. The example was followed by several large towns, but the
 action taken by the boards in most of these provincial districts has
 been very limited.
@@ -786,7 +786,7 @@ before the full board. Boards of conciliation and arbitration conforming
 more or less to the above type exist in the coal, iron and steel, boot
 and shoe and other industries in the United Kingdom. A somewhat
 different form of organization has prevailed in the cotton-spinning
-trade (since the dispute of 1892-1893) and in the engineering trade
+trade (since the dispute of 1892-1893) and in the [[Engineering|engineering]] trade
 (since the engineering dispute of 1897-1898). In these important
 industries there are no permanent boards for the settlement of general
 questions, but elaborate agreements are in force between the employers'
@@ -809,7 +809,7 @@ board," consisting in most cases of representatives elected in equal
 numbers by the local chamber of commerce and trades council
 respectively. In the case, however, of the London Conciliation Board the
 workmen's representatives are elected, twelve by specially summoned
-meetings of trade union delegates and two by co-optation. The functions
+meetings of trade union delegates and two by [[Co-Optation|co-optation]]. The functions
 of district boards are to deal with disputes in any trade which may
 occur within their districts, and of course they can only take action
 with the consent of both parties to the dispute, in this respect
@@ -820,7 +820,7 @@ type of board is that representing two or more groups of workmen and
 sometimes their employers, with the object of settling "demarcation"
 disputes between the groups of workmen (i.e. questions as to the limits
 of the work which each group may claim to perform). Examples of such
-boards are those representing shipwrights and joiners on the Clyde, Tyne
+boards are those representing shipwrights and joiners on the [[Clyde]], Tyne
 and elsewhere. While the arrangements for voluntary conciliation and
 arbitration differ in this way in various industries, there is an
 equally wide variation in the character and range of questions which the
@@ -863,7 +863,7 @@ subject, at the same time excluding the operation of the Arbitration Act
 of 1889 from the settlement of "any difference or dispute to which this
 act applies." The laws repealed by the Conciliation Act need only a few
 words of mention. During the 18th century the fixing of wages by
-magistrates under the Elizabethan legislation gradually decayed, and
+[[Magistrate|magistrates]] under the Elizabethan legislation gradually decayed, and
 acts of 1745 and 1757 gave summary jurisdiction to justices of the peace
 to determine disputes between masters and servants in certain
 circumstances, although no rate of wages had been fixed that year by the
@@ -901,7 +901,7 @@ impetus was given to the movement by the settlement through official
 mediation of several important disputes, e.g. the great coal-miners'
 dispute of 1893 by a conference presided over by Lord Rosebery, the
 cab-drivers' dispute of 1894 by the mediation of the home secretary
-(H.H. Asquith), and the boot and shoe trade dispute of 1895 by a Board
+(H.H. [[Asquith]]), and the boot and shoe trade dispute of 1895 by a Board
 of Trade conference under the chairmanship of Sir Courtenay Boyle. In
 these, and a few other less important cases, the intervention of the
 Board of Trade or other department took place without any special
@@ -962,7 +962,7 @@ attendance of witnesses and the production of documents; (3) the parties
 may be compelled to observe the award of the board of arbitration. The
 most far-reaching schemes of compulsory arbitration in force in any
 country are those in force in New Zealand and certain states in
-Australia. Bills have been introduced into the British House of Commons
+[[Australia]]. Bills have been introduced into the British House of Commons
 for clothing voluntary boards of conciliation and arbitration, under
 certain conditions, with powers to require attendance of witnesses and
 production of documents, without, however, compelling the parties to
@@ -977,7 +977,7 @@ up at the Board of Trade in 1895. Under this agreement L1000 was
 deposited by each party with trustees, who were directed by the
 trust-deed to pay over to either party, out of the money deposited by
 the other, any sum which might be awarded as damages by the umpire named
-in the deed, for the breach of the agreement or of any award made by an
+in the deed, for the [[Breach|breach]] of the agreement or of any award made by an
 arbitration board in consonance with it. Very few claims for damages
 have been sustained under this agreement. Nevertheless it cannot be
 doubted that the pecuniary liability of the parties has given stability
@@ -989,7 +989,7 @@ indefinite period subject to six months' notice from either side.
 Theoretically a trust-deed of this kind can only offer a guarantee up to
 the point at which the original deposit on one side or the other is
 exhausted, as it is impossible to compel either party to renew the
-deposit. A proposal was made by the duke of Devonshire and certain of
+deposit. A proposal was made by the duke of [[Devonshire]] and certain of
 his colleagues on the Royal Commission on Labour for empowering
 associations of employers and employed to acquire, if they desired it,
 sufficient legal personality and corporate character to enable them to
@@ -1113,7 +1113,7 @@ unrestricted arbitration is its alleged tendency to multiply disputes by
 providing an easy way of solving them without recourse to strikes or
 lock-outs, and so diminishing the sense of responsibility in the party
 advancing the claims. It is also sometimes contended that arbitrators,
-not being governed in their decisions by a definite code of principles,
+not being governed in their decisions by a definite [[Code|code]] of principles,
 may tend to "split the difference," so as to satisfy both sides even
 when the demands on one side or the other are wholly unwarranted. This,
 it is said, encourages the formulation of demands purposely put high in
@@ -1130,7 +1130,7 @@ arbitration is undoubtedly spreading, and it is to be remembered that
 even in cases in which theoretically a basis for arbitration can
 scarcely be said to exist, recourse to that method may often serve a
 useful purpose in putting an end to a deadlock of which both parties are
-tired, though neither cares to own itself beaten.
+tired, though neither [[Car|cares]] to own itself beaten.
 
 _New Zealand._--The New Zealand Industrial Conciliation and Arbitration
 Act 1894 is important as the first practical attempt of any importance
@@ -1180,11 +1180,11 @@ future employers and work-people in that industry. In Western Australia
 laws were passed in 1900 and 1902 which practically adopted the New
 Zealand legislation with certain modifications in detail.
 
-In 1904 the commonwealth of Australia passed a compulsory arbitration
+In 1904 the [[Commonwealth|commonwealth]] of Australia passed a compulsory arbitration
 law based mainly on those in force in New Zealand and New South Wales,
 and applicable to disputes affecting more than one Australian state. The
 arbitration court is empowered to require any dispute within its
-cognizance to be referred to it by the state authority proposing to deal
+[[Cognizance|cognizance]] to be referred to it by the state authority proposing to deal
 with it. There are other Australian laws which, though unrepealed (e.g.
 the South Australian Act of 1894), are a dead-letter. Generally
 speaking, the Australasian laws on arbitration and conciliation are more
@@ -1214,7 +1214,7 @@ and Labour Act. There is nothing, however, in the act to prevent a
 strike or lock-out taking place after the dispute has been investigated.
 
 _France._--The French Conciliation and Arbitration Law of December 1892
-provides that either party to a labour dispute may apply to the _juge de
+provides that either party to a labour dispute may apply to the _[[Juge|juge]] de
 paix_ of the canton, who informs the other party of the application. If
 they concur within three days, a joint committee of conciliation is
 formed of not more than five representatives of each party, which meets
@@ -1226,7 +1226,7 @@ actual strike, in the absence of an application from either party it is
 the duty of the _juge de paix_ to invite the parties to proceed to
 conciliation or arbitration. The results of the action of the _juge de
 paix_ and of the conciliation committee are placarded by the mayors of
-the communes affected. The law leaves the parties entirely free to
+the [[Commune|communes]] affected. The law leaves the parties entirely free to
 accept or reject the services of the _juge de paix_.
 
 During the ten years 1897-1906 the act was put in force in 1809
@@ -1234,7 +1234,7 @@ cases--viz. 916 on application of workmen; 49 of employers; 40 of both
 sides; and 804 without application. Altogether 616 disputes were
 settled--549 by conciliation and 67 by arbitration.
 
-_Germany._--In several continental European countries, courts or boards
+_Germany._--In several continental [[European Countries|European countries]], courts or boards
 are established by law to settle cases arising out of existing labour
 contracts; e.g. the French "_Conseils de Prud'hommes_," the Italian
 "_Probi-Viri_," and the German "_Gewerbegerichten_,"--and some of the
@@ -1253,7 +1253,7 @@ consists under the amending law of 1901 of the president of the court
 and four or more representatives named by the parties in equal numbers
 but not concerned in the dispute. Failing appointment by the parties the
 president appoints them. Failing a settlement at a conference between
-the parties in the presence of the president and assessors of the court,
+the parties in the presence of the president and [[Assessor|assessors]] of the court,
 the court arrives at a decision on the merits of the dispute which is
 communicated to the parties, who are allowed a certain time within which
 to notify their acceptance or rejection. The court has no power to
@@ -1264,7 +1264,7 @@ applications for the intervention of the industrial courts: 492
 agreements were brought about and 107 decisions were pronounced by the
 courts, of which 64 were accepted by both parties.
 
-_Switzerland._--The canton of Geneva enacted a law in 1900 providing for
+_Switzerland._--The canton of [[Geneva]] enacted a law in 1900 providing for
 the settlement by negotiation, conciliation or arbitration of the
 general terms of employment in a trade, subject, however, to special
 arrangements between employers and workmen in particular cases. The
@@ -1278,12 +1278,12 @@ and workmen, is to form a board of arbitration, whose decision is
 binding. Any collective suspension of work is illegal during the period
 covered by the award or agreement. Up to the end of 1904 only seven
 cases occurred of application of the law to industrial differences. In
-Basel (town) a law providing for voluntary conciliation by means of
+[[Basel]] (town) a law providing for voluntary conciliation by means of
 boards of employers and workmen with an independent chairman appointed
 _ad hoc_ by the council of state of the canton, has been in force since
 1897, but it remained practically unused until 1902. In the period from
 January 1902 to May 1905, 18 disputes were dealt with and 10 settled
-under this law. A similar law was adopted in St Gall in 1902. In the
+under this law. A similar law was adopted in St [[Gall]] in 1902. In the
 three years 1902-1904, 10 disputes were dealt with and 3 settled.
 
 _Sweden._--By a law which came into force on the 1st of January 1907,
@@ -1308,7 +1308,7 @@ for the formation of state boards of arbitration. The Massachusetts
 board, founded in 1886, consists of one employer, one employed and one
 independent person chosen by both. The New York board (1886) consists of
 two representatives of different political parties, and one member of a
-_bona fide_ trade organization within the state. In both states it is
+_[[Bona Fide|bona fide]]_ trade organization within the state. In both states it is
 the duty of the board, with or without application from the parties, to
 proceed to the spot where a labour dispute has occurred, and to
 endeavour to promote a settlement. The parties may decline its services,
@@ -1340,17 +1340,17 @@ is pending a strike or lock-out is unlawful.
   Labour Department of the Board of Trade on Strikes and Lock-outs_ from
   1888 onwards. Since 1890 these reports have contained special
   appendices on the work of arbitration boards. See also the _Labour
-  Gazette_ (the monthly journal of the Labour Department) from 1893
+  [[Gazette]]_ (the monthly journal of the Labour Department) from 1893
   onward, and the _Report on Rules of Voluntary Conciliation and
   Arbitration Boards and Joint Committees_. The _Reports of the Royal
   Commission on Labour_ (1891-1894) contain much valuable information on
   the subject. For the working of the Conciliation Act see the _Reports_
   of the Board of Trade on their proceedings under the Conciliation Act
-  1896. For the earlier history in the United Kingdom: Crompton,
+  1896. For the earlier history in the United Kingdom: [[Crompton]],
   _Industrial Conciliation_ (1876); Price, _Industrial Peace_ (1887).
   For foreign and colonial developments: the third _Abstract of Foreign
   Labour Statistics_ (1906), issued by the Board of Trade; _Report on
-  Government Industrial Arbitration_, by L.W. Hatch (Bulletin of Bureau
+  Government Industrial Arbitration_, by L.W. Hatch (Bulletin of [[Bureau]]
   of Labour of United States Department of Commerce and Labour,
   September 1905); the report of the French _Office du Travail_, _De la
   conciliation et de l'arbitrage dans les conflits collectifs entre
@@ -1358,8 +1358,8 @@ is pending a strike or lock-out is unlawful.
   Reports of the same Department on _Strikes, Lockouts and Arbitration_;
   the _Reports of the Massachusetts and New York State Arbitration
   Boards_, and of the _New Zealand Department of Labour_; and the
-  _Labour Gazette_. See also the following general works: N.P. Gilman,
-  _Methods of Industrial Peace_ (Boston, 1904); A.C. Pigou, _Principles
+  _Labour Gazette_. See also the following general works: N.P. [[Gilman]],
+  _Methods of Industrial Peace_ ([[Boston]], 1904); A.C. Pigou, _Principles
   and Methods of Industrial Peace_ (1905).     (X.)
 
 ## References

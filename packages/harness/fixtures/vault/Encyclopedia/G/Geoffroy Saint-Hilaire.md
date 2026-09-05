@@ -8,12 +8,12 @@ tags: [history, navigation]
 # Geoffroy Saint-Hilaire
 
 GEOFFROY SAINT-HILAIRE, ETIENNE (1772-1844), French naturalist, was the
-son of Jean Gerard Geoffroy, procurator and magistrate of Etampes,
+son of Jean [[Gerard]] Geoffroy, procurator and [[Magistrate|magistrate]] of [[Etampes]],
 Seine-et-Oise, where he was born on the 15th of April 1772. Destined for
 the church he entered the college of Navarre, in Paris, where he studied
 natural philosophy under M.J. Brisson; and in 1788 he obtained one of
 the canonicates of the chapter of Sainte Croix at Etampes, and also a
-benefice. Science, however, offered him a more congenial career, and he
+[[Benefice|benefice]]. Science, however, offered him a more congenial career, and he
 gained from his father permission to remain in Paris, and to attend the
 lectures at the College de France and the Jardin des Plantes, on the
 condition that he should also read law. He accordingly took up his
@@ -21,8 +21,8 @@ residence at Cardinal Lemoine's college, and there became the pupil and
 soon the esteemed associate of Brisson's friend, the abbe Hauy, the
 mineralogist. Having, before the close of the year 1790, taken the
 degree of bachelor in law, he became a student of medicine, and attended
-the lectures of A.F. de Fourcroy at the Jardin des Plantes, and of
-L.J.M. Daubenton at the College de France. His studies at Paris were at
+the lectures of A.F. de [[Fourcroy]] at the Jardin des Plantes, and of
+L.J.M. [[Daubenton]] at the College de France. His studies at Paris were at
 length suddenly interrupted, for, in August 1792, Hauy and the other
 professors of Lemoine's college, as also those of the college of
 Navarre, were arrested by the revolutionists as priests, and confined in
@@ -36,15 +36,15 @@ determined if possible to secure their liberty by stratagem. By bribing
 one of the officials at St Firmin, and disguising himself as a
 commissioner of prisons, he gained admission to his friends, and
 entreated them to effect their escape by following him. All, however,
-dreading lest their deliverance should render the doom of their
+dreading lest their deliverance should render the [[Doom|doom]] of their
 fellow-captives the more certain, refused the offer, and one priest
 only, who was unknown to Geoffroy, left the prison. Already on the night
-of the 2nd of September the massacre of the proscribed had begun, when
-Geoffroy, yet intent on saving the life of his friends and teachers,
+of the 2nd of September the [[Massacre|massacre]] of the proscribed had begun, when
+Geoffroy, yet [[Intent|intent]] on saving the life of his friends and teachers,
 repaired to St Firmin. At 4 o'clock on the morning of the 3rd of
-September, after eight hours' waiting, he by means of a ladder assisted
+September, after eight hours' waiting, he by means of a [[Ladder|ladder]] assisted
 the escape of twelve ecclesiastics, not of the number of his
-acquaintance, and then the approach of dawn and the discharge of a gun
+acquaintance, and then the approach of dawn and the [[Discharge|discharge]] of a gun
 directed at him warned him, his chief purpose unaccomplished, to return
 to his lodgings. Leaving Paris he retired to Etampes, where, in
 consequence of the anxieties of which he had lately been the prey, and
@@ -52,7 +52,7 @@ the horrors which he had witnessed, he was for some time seriously ill.
 At the beginning of the winter of 1792 he returned to his studies in
 Paris, and in March of the following year Daubenton, through the
 interest of Bernardin de Saint Pierre, procured him the office of
-sub-keeper and assistant demonstrator of the cabinet of natural history,
+sub-keeper and assistant demonstrator of the [[Cabinet|cabinet]] of natural history,
 vacant by the resignation of B.G.E. Lacepede. By a law passed in June
 1793, Geoffroy was appointed one of the twelve professors of the newly
 constituted museum of natural history, being assigned the chair of
@@ -61,14 +61,14 @@ menagerie at that institution.
 
 In 1794 through the introduction of A.H. Tessier he entered into
 correspondence with Georges Cuvier, to whom, after the perusal of some
-of his manuscripts, he wrote: "Venez jouer parmi nous le role de Linne,
+of his [[Manuscript|manuscripts]], he wrote: "Venez jouer parmi nous le role de Linne,
 d'un autre legislateur de l'histoire naturelle." Shortly after the
 appointment of Cuvier as assistant at the Museum d'Histoire Naturelle,
 Geoffroy received him into his house. The two friends wrote together
-five memoirs on natural history, one of which, on the classification of
+five memoirs on natural history, one of which, on the [[Classification|classification]] of
 mammals, puts forward the idea of the subordination of characters upon
 which Cuvier based his zoological system. It was in a paper entitled
-"Histoire des Makis, ou singes de Madagascar," written in 1795, that
+"Histoire des Makis, ou singes de [[Madagascar]]," written in 1795, that
 Geoffroy first gave expression to his views on "the unity of organic
 composition," the influence of which is perceptible in all his
 subsequent writings; nature, he observes, presents us with only one plan
@@ -76,7 +76,7 @@ of construction, the same in principle, but varied in its accessory
 parts.
 
 In 1798 Geoffroy was chosen a member of the great scientific expedition
-to Egypt, and on the capitulation of Alexandria in August 1801, he took
+to Egypt, and on the [[Capitulation|capitulation]] of Alexandria in August 1801, he took
 part in resisting the claim made by the British general to the
 collections of the expedition, declaring that, were that demand
 persisted in, history would have to record that he also had burnt a
@@ -84,7 +84,7 @@ library in Alexandria. Early in January 1802 Geoffroy returned to his
 accustomed labours in Paris. He was elected a member of the academy of
 sciences of that city in September 1807. In March of the following year
 the emperor, who had already recognized his national services by the
-award of the cross of the legion of honour, selected him to visit the
+award of the cross of the [[Legion|legion]] of honour, selected him to visit the
 museums of Portugal, for the purpose of procuring collections from them,
 and in the face of considerable opposition from the British he
 eventually was successful in retaining them as a permanent possession
@@ -94,7 +94,7 @@ that period he devoted himself more exclusively than before to
 anatomical study. In 1818 he gave to the world the first part of his
 celebrated _Philosophie anatomique_, the second volume of which,
 published in 1822, and subsequent memoirs account for the formation of
-monstrosities on the principle of arrest of development, and of the
+monstrosities on the principle of [[Arrest|arrest]] of development, and of the
 attraction of similar parts. When, in 1830, Geoffroy proceeded to apply
 to the invertebrata his views as to the unity of animal composition, he
 found a vigorous opponent in Georges Cuvier, and the discussion between
@@ -126,7 +126,7 @@ paralytic attack. From that time his strength gradually failed him. He
 resigned his chair at the museum in 1841, and died at Paris on the 19th
 of June 1844.
 
-  Geoffroy wrote: _Catalogue des mammiferes du Museum National
+  Geoffroy wrote: _[[Catalogue]] des mammiferes du Museum National
   d'Histoire Naturelle_ (1813), not quite completed; _Philosophie
   anatomique_--t. i., _Des organes respiratoires_ (1818), and t. ii.,
   _Des monstruosites humaines_ (1822); _Systeme dentaire des mammiferes

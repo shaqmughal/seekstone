@@ -6,9 +6,9 @@ topic: religion
 
 # Ear-Ring
 
-EAR-RING, an ornament worn pendent from the ear, and generally suspended
+EAR-RING, an ornament worn pendent from the [[Ear|ear]], and generally suspended
 (especially among the more civilized races) by means of a ring or hook
-passing through the pendulous lobe of the ear. Among savage races the
+passing through the pendulous [[Lobe|lobe]] of the ear. Among savage races the
 impulse to decorate, or at any rate to modify the appearance of the ear,
 is almost universal. With such peoples the ear appendage is chiefly
 remarkable for its extravagant dimensions. Many examples may be seen in
@@ -27,7 +27,7 @@ the two ornaments in all respects resembling each other; in ancient
 times, or more recently among Oriental races, a single ear-ring has
 sometimes been worn. The use of this kind of ornament, which constantly
 was of great value, dates from the remotest historical antiquity, the
-earliest mention of ear-rings occurring in the book of Genesis. It
+earliest mention of ear-rings occurring in the book of [[Genesis]]. It
 appears probable that the ear-rings of Jacob's family, which he buried
 with his strange idols at Bethel, were regarded as amulets or talismans,
 such unquestionably being the estimation in which some ornaments of this
@@ -51,12 +51,12 @@ such perforations occur seldom. In one instance, a Greek inscription
 records the weight of the detachable gold ornaments on a statue, among
 which a pair of ear-rings is included. Ear-rings of characteristic form
 are frequently discovered by excavation. In Egypt, a system of pendent
-chains is found hanging from a disk. In Assyria the decoration consists
+chains is found [[Hanging|hanging]] from a disk. In Assyria the decoration consists
 of pendants or knobs attached to a rigid ring. In the early civilization
 represented by Dr Schliemann's Trojan investigations, pieces of gold
 plate are suspended by parallel chains. In the Mycenaean period,
 ear-rings are infrequent in Greece, but have been found in abundance in
-the Mycenaean finds of Enkomi (Cyprus) in the form of pendent
+the Mycenaean finds of Enkomi ([[Cyprus]]) in the form of pendent
 bulls'-heads, or of decorative forms based on the bull's head. In the
 tombs of the Greek settlers in the Crimea (4th century B.C.), ear-rings
 are found of marvellous complexity and beauty. The lexicographer Pollux,
@@ -85,7 +85,7 @@ the ear-rings of our own times as works of art can claim no historical
 attributes, because they consist as well of reproductions from all past
 ages and of every race as of fanciful productions that certainly can be
 assigned to no style of art whatever. As one of the curiosities of the
-subject it may be mentioned that Antonia, wife of Drusus, is said by
+subject it may be mentioned that Antonia, wife of [[Drusus]], is said by
 Pliny to have attached a pair of ear-rings to her pet lamprey.
 
 ## See also

@@ -1,19 +1,19 @@
 # Finland
 
 FINLAND (Finnish, _Suomi_ or _Suomenmaa_), a grand-duchy governed
-subject to its own constitution by the emperor of Russia as grand-duke
+subject to its own constitution by the emperor of Russia as [[Grand-Duke|grand-duke]]
 of Finland. It is situated between the gulfs of Bothnia and Finland, and
 includes, moreover, a large territory in Lapland. It touches at its
 south-eastern extremity the government of St Petersburg, includes the
-northern half of Lake Ladoga, and is separated from the Russian
+northern half of Lake [[Ladoga]], and is separated from the Russian
 governments of Arkhangelsk and Olonets by a sinuous line which follows,
 roughly speaking, the water-parting between the rivers flowing into the
-Baltic Sea and the White Sea. In the north of the Gulf of Bothnia it is
+[[Baltic Sea]] and the White Sea. In the north of the Gulf of Bothnia it is
 separated from Sweden and Norway by a broken line which takes the course
 of the valley of the Torneå river up to its sources, thus falling only
 21 m. short of reaching the head of Norwegian Lyngen-fjord; then it runs
 south-east and north-east down the Tana and Pasis-joki, but does not
-reach the Arctic Ocean, and 13 m. from the Varanger-fjord it turns
+reach the [[Arctic]] Ocean, and 13 m. from the Varanger-fjord it turns
 southwards. Finland includes in the south-west the Åland
 archipelago--its frontier approaching within 8 m. from the Swedish
 coast--as well as the islands of the Gulf of Finland, Hogland, Tytärs,
@@ -30,7 +30,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   | Tavastehus     |   6,837  |    97   |   ..    | 1,400 |  8,334 |
   | Viborg         |  11,630  |   362   |   130   | 4,502 | 16,624 |
   | St Michel      |   5,652  |  1018   |   ..    | 2,149 |  8,819 |
-  | Kuopio         |  13,160  |   643   |   ..    | 2,696 | 16,499 |
+  | [[Kuopio]]         |  13,160  |   643   |   ..    | 2,696 | 16,499 |
   | Vasa           |  14,527  |    62   |   203   | 1,313 | 16,105 |
   | Uleåborg       |  60,348  |   171   |    94   | 3,344 | 63,957 |
   +----------------+----------+---------+---------+-------+--------+
@@ -40,10 +40,10 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   _Orography._--A line drawn from the head of the Gulf of Bothnia to the
   eastern coast of Lake Ladoga divides Finland into two distinct parts,
   the lake region and the nearly uninhabited hilly tracts belonging to
-  the Kjölen mountains, to the plateau of the Kola peninsula, and to the
+  the Kjölen mountains, to the plateau of the [[Kola]] peninsula, and to the
   slopes of the plateau which separates Finland proper from the White
   Sea. At the head-waters of the Torneå, Finland penetrates as a narrow
-  strip into the heart of the highlands of Kjölen (the Keel), where the
+  strip into the heart of the highlands of Kjölen (the [[Keel]]), where the
   Haldefjäll (Lappish, Halditjokko) reaches 4115 ft. above the sea, and
   is surrounded by other _fjälls_, or flat-topped summits, of from 3300
   to 3750 ft. of altitude. Extensive plateaus (1500-1750 ft.), into
@@ -56,8 +56,8 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   of Bothnia and Finland, Lake Ladoga, and the above-mentioned line
   traced through the lakes Uleå and Piellis. The meridional ridges which
   formerly used to be traced here along the main water-partings do not
-  exist in reality, and the country appears on the hypsometrical map in
-  the _Atlas de Finlande_ as a plateau of 350 ft. of average altitude,
+  exist in reality, and the country appears on the hypsometrical [[Map|map]] in
+  the _[[Atlas]] de Finlande_ as a plateau of 350 ft. of average altitude,
   covered with countless lakes, lying at altitudes of from 250 to 300
   ft. The three main lake-basins of Näsi-järvi, Päjäne and Saima are
   separated by low and flat hills only; but one sees distinctly
@@ -71,7 +71,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   morainic deposits, more or less reassorted on their surfaces. Some of
   them are relics of the longitudinal moraines of the ice-sheet, and
   they run north-west to south-east, parallel to the striation of the
-  rocks and to the countless parallel troughs excavated by the ice in
+  rocks and to the countless parallel troughs excavated by the [[Ice|ice]] in
   the hard rocks in the same direction; while the Lojo ås, which runs
   from Hangöudd to Vesi-järvi, and is continued farther east under the
   name of Salpauselliä, parallel to the shore of the Gulf of Finland,
@@ -82,7 +82,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   the already great picturesqueness of the lake region; railways are
   traced in preference along them.
 
-  _Lakes and Rivers._--A labyrinth of lakes, covering 11% of the
+  _Lakes and Rivers._--A [[Labyrinth|labyrinth]] of lakes, covering 11% of the
   aggregate territory, and connected by short and rapid streams
   (_fjården_), covers the surface of South Finland, offering great
   facilities for internal navigation, while the connecting streams
@@ -129,9 +129,9 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   lacustrine and partly of marine origin) only in the peripheral
   coast-region--or in separate areas in the interior depressions. Some
   Finnish geologists--Sederholm for one--consider it probable that
-  during the Glacial period an Arctic sea (_Yoldia_ sea) covered all
+  during the [[Glacial Period|Glacial period]] an Arctic sea (_Yoldia_ sea) covered all
   southern Finland and also Scania (Skåne) in Sweden, thus connecting
-  the Atlantic Ocean with the Baltic and the White Sea by a broad
+  the [[Atlantic Ocean]] with the Baltic and the White Sea by a broad
   channel; but no fossils from that sea have been found anywhere in
   Finland. Conclusive proofs, however, of a later submergence under a
   post-Glacial Littorina sea (containing shells now living in the
@@ -145,13 +145,13 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
 
   _Climate._--Owing to the prevalence of moist west and south-west winds
   the climate of Finland is less severe than it is farther east in
-  corresponding latitudes. The country lies thus between the annual
+  corresponding [[Latitude|latitudes]]. The country lies thus between the annual
   isotherms of 41° and 28° Fahr., which run in a W.N.W.-E.S.E.
   direction. In January the average monthly temperature varies from 9°
   Fahr. about Lake Enare to 30° along the south coast; while in July the
   difference between the monthly averages is only eight degrees, being
   53° in the north and 61° in the south-east. Everywhere, and especially
-  in the interior, the winter lasts very long, and early frosts (June
+  in the interior, the winter lasts very long, and early [[Frost|frosts]] (June
   12-14 in 1892) often destroy the crops. The amount of rain and snow is
   from 25½ in. along the south coast to 13.8 in. in the interior of
   southern Finland.
@@ -166,7 +166,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   in Finland proper, but are represented by from 32 to 64 species in the
   Kola peninsula. The chief forest trees of Finland are the Scotch fir
   (_Pinus sylvestris_, L.), the fir (_Picea excelsa_, Link.); two
-  species of birch (_B. verrucosa_, Ehrh., and _B. odorata_, Bechst.),
+  species of [[Birch|birch]] (_B. verrucosa_, Ehrh., and _B. odorata_, Bechst.),
   as well as the birch-bush (_B. nana_); two species of _Alnus_
   (_glutinosa_ and _incana_); the oak (_Q. pedunculata_, Ehrh.), which
   grows only on the south coast; the poplar (_Populus tremula_); and the
@@ -175,7 +175,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   saw-mills, and about 1,000,000 to be transformed into paper pulp. The
   total export of timber was valued in 1897 at 82,160,000 marks. It is
   estimated, however, that the domestic use of wood (especially for
-  fuel) represents nearly five times as many cubic feet as the wood used
+  [[Fuel|fuel]]) represents nearly five times as many cubic feet as the wood used
   for export in different shapes. The total area under forests is
   estimated at 63,050,000 acres, of which 34,662,000 acres belong to the
   state. The fauna has been explored in great detail both as regards the
@@ -219,7 +219,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   faith, there being only 46,466 members of the Greek Orthodox Church
   and 755 Roman Catholics.
 
-  The leading cities of Finland are: Helsingfors, capital of the
+  The leading cities of Finland are: [[Helsingfors]], capital of the
   grand-duchy and of the province (_län_) of Nyland, principal seaport
   (111,654 inhabitants); Åbo, capital of the Åbo-Björneborg province and
   ancient capital of Finland (42,639); Tammerfors, the leading
@@ -232,7 +232,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   _Industries._--Agriculture gives occupation to the large majority of
   the population, but of late the increase of manufactures has been
   marked. Dairy-farming is also on the increase, and the foreign exports
-  of butter rose from 1930 cwt. in 1900 to 3130 cwt. in 1905. Measures
+  of [[Butter|butter]] rose from 1930 cwt. in 1900 to 3130 cwt. in 1905. Measures
   have been taken since 1892 for the improvement of agriculture, and the
   state keeps twenty-six agronomists and instructors for that purpose.
   There are two high schools, one experimental station, twenty-two
@@ -240,7 +240,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   ten horticultural schools. Agricultural societies exist in each
   province.
 
-  Fishing is an important item of income. The value of exports of fish,
+  Fishing is an important [[Item|item]] of income. The value of exports of fish,
   &c., was £140,000 in 1904, but fish was also imported to the value of
   £61,300. The manufacturing industries (wood-products, metallurgy,
   machinery, textiles, paper and leather) are of modern development, but
@@ -263,7 +263,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   opened in 1862, and the next, from Helsingfors to St Petersburg, in
   1870 (cost only £4520 per mile). Railways of a lighter type began to
   be built since 1877, and now Finland has about 2100 m. of railway,
-  mostly belonging to the state. The gross income from the state
+  mostly belonging to the state. The [[Gross|gross]] income from the state
   railways is 26,607,622, and the net income 4,684,856 marks. Finland
   has an extensive and well-kept system of canals, of which the sluiced
   canal connecting Lake Saima with the Gulf of Finland is the chief one.
@@ -290,7 +290,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
     +---------+------------+----------------+-------------+
 
   The chief trade of Finland is with Russia, and next with Great
-  Britain, Germany, Denmark, France and Sweden. The main imports are:
+  Britain, Germany, [[Denmark]], France and Sweden. The main imports are:
   cereals and flour (to an annual value exceeding £3,000,000), metals,
   machinery, textile materials and textile products. The chief articles
   of export are: timber and wood articles (£5,250,000), paper and paper
@@ -308,10 +308,10 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   (since 1898) to be divided into a proper number of school districts
   and to have a school in each of them, the state contributing to these
   expenses 800 marks a year for each male and 600 marks for each female
-  teacher, or 25% of the total cost in urban communes. Secondary
+  teacher, or 25% of the total cost in urban [[Commune|communes]]. Secondary
   education, formerly instituted on two separate lines, classical and
   scientific, has been reformed so as to give more prominence to
-  scientific education, even in the classical (linguistic) lyceums or
+  scientific education, even in the classical (linguistic) [[Lyceum|lyceums]] or
   gymnasia. For higher education there is the university of Helsingfors
   (formerly the Åbo Academy), which in 1906 had 1921 students (328
   women) and 141 professors and docents. Besides the Helsingfors
@@ -319,7 +319,7 @@ The area of Finland, in square miles, is as follows (_Altas de Finlande,
   commercial and navigation schools. Finland has several scientific
   societies enjoying a world-wide reputation, as the Finnish Scientific
   Society, the Society for the Flora and Fauna of Finland, several
-  medical societies, two societies of literature, the Finno-Ugrian
+  medical societies, two societies of literature, the [[Finno-Ugrian]]
   Society, the Historical and Archaeological Societies, one juridical,
   one technical and two geographical societies. All of these, as also
   the Finnish Geological Survey, the Forestry Administration, &c., issue
@@ -365,7 +365,7 @@ counted in accordance with the system invented by G.M. d'Hondt, a
 Belgian, was also adopted. The executive was to consist of a
 minister-secretary of state and of the members of the senate, who were
 entitled to attend and address the diet and who might be the subject of
-interpellations. The members of the senate were made responsible to the
+[[Interpellation|interpellations]]. The members of the senate were made responsible to the
 diet as well as to the emperor-grand-duke for their acts. The diet has
 power to consider and decide upon measures proposed by the government.
 After a measure has been approved by the diet it is the duty of the
@@ -375,7 +375,7 @@ the sovereign bound to accept the advice of the senate. The first
 elections, April 1907, resulted in the election to the diet of about 40%
 representatives of the Social Democratic party, and nineteen women
 members. The budget of Finland in 1905 was £4,273,970 of "ordinary"
-revenue. The "ordinary" expenditure was £3,595,300. The public debt
+revenue. The "ordinary" expenditure was £3,595,300. The public [[Debt|debt]]
 amounted at the end of 1905 to £5,611,170.
 
 _History._--It was probably at the end of the 7th or the beginning of
@@ -394,13 +394,13 @@ of Sweden drew the attention of the kings of that country. King Eric IX.
 is said), and at the head of a considerable army, invaded the country in
 1157, when the people were conquered and baptized. King Eric left Bishop
 Henry with his priests and some soldiers behind to confirm the conquest
-and complete the conversion. After a time he was killed, canonized, and
+and complete the [[Conversion|conversion]]. After a time he was killed, canonized, and
 as St Henry became the patron saint of Finland. As Sweden had to attend
 to her own affairs, Finland was gradually reverting to independence and
 paganism, when in 1209 another bishop and missionary, Thomas (also an
 Englishman), arrived and recommenced the work of St Henry. Bishop Thomas
 nearly succeeded in detaching Finland from Sweden, and forming it into a
-province subject only to the pope. The famous Birger Jarl undertook a
+province subject only to the pope. The famous [[Birger]] Jarl undertook a
 crusade in Finland in 1249, compelling the Tavastians, one of the
 subdivisions of the Finlanders proper, to accept Christianity, and
 building a castle at Tavestehus. It was Torkel Knutson who conquered and
@@ -472,7 +472,7 @@ successor soon fell under the influence of the reactionary party which
 had begun to assert itself in Russia even before the assassination of
 Alexander II. One of Alexander III.'s first acts was to confirm "the
 constitution which was granted to the grand-duchy of Finland by His
-Majesty the emperor Alexander Pavlovich of most glorious memory, and
+[[Majesty]] the emperor Alexander Pavlovich of most glorious memory, and
 developed with the consent of the estates of Finland by our dearly
 beloved father of blessed memory the emperor Alexander Nicolaievich."
 But the Slavophil movement, with its motto, "one law, one church, one
@@ -497,14 +497,14 @@ possible, and in April 1903 the Russian governor, General Bobrikov, was
 invested with practically dictatorial powers. The country was flooded
 with spies, and a special Russian police force was created, the expenses
 being charged to the Finnish treasury. The Russian system was now in
-full swing; domiciliary visits, illegal arrests and banishments, and the
+full swing; domiciliary visits, illegal [[Arrest|arrests]] and banishments, and the
 suppression of newspapers, were the order of the day. To all this the
 people of Finland opposed a dogged and determined resistance, which
 culminated in November 1905 in a "national strike." The strike was
 universal, all classes joining in the movement, and it spread to all the
 industrial centres and even to the rural districts. The railway,
 steamship, telephone and postal services were practically suspended.
-Helsingfors was without tramcars, cabs, gas and electricity; no shops
+Helsingfors was without tramcars, [[Cab|cabs]], gas and electricity; no shops
 except provision shops were open; public departments, schools and
 restaurants were closed. After six days the unconstitutional
 government--already much shaken by events in Russia and
@@ -520,7 +520,7 @@ themselves, and when the new diet met it proceeded as explained above to
 remodel the constitution, on the basis of universal suffrage, with
 freedom of the press, speech, meeting and association.
 
-In 1908-10 friction with Russia was again renewed. The Imperial
+In 1908-10 [[Friction|friction]] with Russia was again renewed. The Imperial
 government insisted that the decision in all Finnish questions affecting
 the Empire must rest with them; and a renewed attempt was made to
 curtail the powers of the Finnish Diet.
@@ -528,20 +528,20 @@ curtail the powers of the Finnish Diet.
 _Ethnology._--The term Finn has a wider application than Finland, being,
 with its adjective Finnic or Finno-Ugric (q.v.) or Ugro-Finnic, the
 collective name of the westernmost branch of the Ural-Altaic family,
-dispersed throughout Finland, Lapland, the Baltic provinces (Esthonia,
+dispersed throughout Finland, Lapland, the Baltic provinces ([[Esthonia]],
 Livonia, Curland), parts of Russia proper (south of Lake Onega), both
 banks of middle Volga, Perm, Vologda, West Siberia (between the Ural
 Mountains and the Yenissei) and Hungary.
 
-Originally nomads (hunters and fishers), all the Finnic people except
+Originally nomads ([[Hunter|hunters]] and fishers), all the Finnic people except
 the Lapps and Ostyaks have long yielded to the influence of
 civilization, and now everywhere lead settled lives as herdsmen,
 agriculturists, traders, &c. Physically the Finns (here to be
 distinguished from the Swedish-speaking population, who retain their
 Scandinavian qualities) are a strong, hardy race, of low stature, with
-almost round head, low forehead, flat features, prominent cheek bones,
+almost round head, low forehead, flat features, prominent cheek [[Bone|bones]],
 eyes mostly grey and oblique (inclining inwards), short and flat nose,
-protruding mouth, thick lips, neck very full and strong, so that the
+protruding mouth, thick [[Lip|lips]], neck very full and strong, so that the
 occiput seems flat and almost in a straight line with the nape; beard
 weak and sparse, hair no doubt originally black, but, owing to mixture
 with other races, now brown, red and even fair; complexion also somewhat
@@ -553,7 +553,7 @@ and moral characteristics they have in common with the so-called
 linguistically, related.
 
 Considerable researches have been accomplished since about 1850 in the
-ethnology and archaeology of Finland, on a scale which has no parallel
+ethnology and [[Archaeology|archaeology]] of Finland, on a scale which has no parallel
 in any other country. The study of the prehistoric population of
 Finland--Neolithic (no Palaeolithic finds have yet been made)--of the
 Age of Bronze and the Iron Age has been carried on with great zeal. At
@@ -566,7 +566,7 @@ Topelius, and especially E. Lönnrot (1802-1884), for collecting the
 popular poetry of the Finns, was continued by Castrén (1813-1852),
 Europaeus (1820-1884), and V. Porkka (1854-1889), who extended their
 researches to the Finns settled in other parts of the Russian empire,
-and collected a considerable number of variants of the _Kalewala_ and
+and collected a considerable number of variants of the _[[Kalewala]]_ and
 other popular poetry and songs. In order to study the different eastern
 kinsfolk of the Finns, Sjögren (1792-1855) extended his journeys to
 North Russia, and Castrén to West and East Siberia (_Nordische Reisen
@@ -601,7 +601,7 @@ d'Archéologie_, 1889, and _Inscriptions de l'Orkhon_, 1892.)
   (2nd ed., 1900). _The Atlas de Finlande_, published in 1899 by the
   Geographical Society of Finland, is a remarkably well executed and
   complete work. _The Statistical Annual for Finland--Statistisk Arsbok
-  för Finland_--published annually by the Central Statistical Bureau in
+  för Finland_--published annually by the Central Statistical [[Bureau]] in
   Helsingfors, gives the necessary figures.
        (P. A. K.; J. S. K.; J. R. F.*)
 
@@ -630,8 +630,8 @@ troubles, books in almost every branch of research are found in the
 language, mainly translations or adaptations. We meet with, during the
 present century, a considerable number of names of poets and dramatists,
 no doubt very minor, as also painters, sculptors and musical composers.
-At the Paris International Exhibition of 1878 several native Finnish
-painters and sculptors exhibited works which would do credit to any
+At the Paris [[International]] Exhibition of 1878 several native Finnish
+painters and sculptors exhibited works which would do [[Credit|credit]] to any
 country; and both in the fine and applied arts Finland occupied a
 position thoroughly creditable. An important contribution to a history
 of Finnish literature is Krohn's _Suomenkielinen runollisuns
@@ -647,14 +647,14 @@ of the works of the father of Finnish history, Henry Gabriel Porthan
 Helsingfors in 1869-1873, by Yrjö Koskinen, and has been translated into
 both Swedish and German. The author was a Swede, Georg Forsman, the
 above form being a Finnish translation. Other works on Finnish history
-and some important works in Finnish geography have also appeared. In
+and some important works in Finnish [[Geography|geography]] have also appeared. In
 language we have Lönnrot's great Finnish-Swedish dictionary, published
 by the Finnish Literary Society. Dr Otto Donner's _Comparative
 Dictionary of the Finno-Ugric Languages_ (Helsingfors and Leipzig) is in
 German. In imaginative literature Finland has produced several important
-writers of the vernacular. Alexis Stenwall ("Kiwi") (1834-1872), the son
+writers of the vernacular. Alexis Stenwall ("[[Kiwi]]") (1834-1872), the son
 of a village tailor, was the best poet of his time; he wrote popular
-dramas and an historical romance, _The Seven Brothers_ (1870). Among
+[[Drama|dramas]] and an historical romance, _The Seven Brothers_ (1870). Among
 recent playwrights Mrs Minna Canth (1844-1897) has been the most
 successful. Other dramatists are E.F. Johnsson (1844-1895), P. Cajander
 (b. 1846), who translated Shakespeare into Finnish, and Karl Bergbom (b.
@@ -663,29 +663,29 @@ and Yrjö Weijola (b. 1875). The earliest novelist of Finland, Pietari
 Päivärinta (b. 1827), was the son of a labourer; he is the author of a
 grimly realistic story, _His Life_. Many of the popular Finnish authors
 of our day are peasants. Kauppis Heikki was a wagoner; Alkio Filander a
-farmer; Heikki Maviläinen a smith; Juhana Kokko (Kyösti) a gamekeeper.
+[[Farmer|farmer]]; Heikki Maviläinen a smith; Juhana Kokko (Kyösti) a gamekeeper.
 The most gifted of the writers of Finland, however, is certainly Juhani
 Aho (b. 1861), the son of a country clergyman. His earliest writings
 were studies of modern life, very realistically treated. Aho then went
 to reside in France, where he made a close study of the methods of the
 leading French novelists of the newer school. About the year 1893 he
 began to publish short stories, some of which, such as _Enris_, _The
-Fortress of Matthias_, _The Old Man of Korpela_ and _Finland's Flag_,
+Fortress of [[Matthias]]_, _The Old Man of Korpela_ and _Finland's [[Flag]]_,
 are delicate works of art, while they reveal to a very interesting
 degree the temper and ambitions of the contemporary Finnish population.
 It has been well said that in the writings of Juhani Aho can be traced
 all the idiosyncrasies which have formed the curious and pathetic
 history of Finland in recent years. A village priest, Juho Reijonen (b.
 1857), in tales of somewhat artless form, has depicted the hardships
-which poverty too often entails upon the Finn in his country life.
+which poverty too often [[Entail|entails]] upon the Finn in his country life.
 Tolstoy has found an imitator in Arwid Järnefelt (b. 1861). Santeri
 Ingman (b. 1866) somewhat naïvely, but not without skill, has followed
-in the steps of Aho. It would be an error to exaggerate either the force
+in the steps of Aho. It would be an [[Error|error]] to exaggerate either the force
 or the originality of these early developments of a national Finnish
 literature, which, moreover, are mostly brief and unambitious in
 character. But they are eminently sincere, and they have the great merit
 of illustrating the local aspects of landscape and temperament and
-manners.
+[[Manners|manners]].
 
   AUTHORITIES.--E.G. Palmén, _L'Oeuvre demi-séculaire de la Suomalaisen
   Kirjallisuuden Seura_, 1831-81 (Helsingfors, 1882); J. Krohn,

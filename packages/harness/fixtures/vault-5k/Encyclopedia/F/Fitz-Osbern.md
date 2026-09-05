@@ -15,7 +15,7 @@ Fitz-Osbern was left as his deputy in central England, to guard it from
 the Welsh on one side, and the Danes on the other. He also acted as
 William's lieutenant during the rebellions of 1069. In 1070 William sent
 him to assist Queen Matilda in the government of Normandy. But Richilde,
-widow of Baldwin VI. of Flanders, having offered to marry him if he
+widow of [[Baldwin]] VI. of Flanders, having offered to marry him if he
 would protect her son Arnulf against Robert the Frisian, Fitz-Osbern
 accepted the proposal and joined Richilde in Flanders. He was killed,
 fighting against Robert, at Cassel in 1071.

@@ -9,7 +9,7 @@ topic: warfare-studies
 AQUILLIUS, MANIUS, Roman general, consul in 101 B.C. He successfully put
 down a revolt of the slaves under Athenion in Sicily. After his return,
 being accused of extortion, he was acquitted on account of his military
-services, although there was little doubt of his guilt. In 88 he acted
+services, although there was little doubt of his [[Guilt|guilt]]. In 88 he acted
 as legate against Mithradates the Great, by whom he was defeated and
 taken prisoner. Mithradates treated him with great cruelty, and is said
 to have put him to death by pouring molten gold down his throat.

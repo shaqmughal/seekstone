@@ -1,6 +1,6 @@
 # Denton
 
-DENTON, an urban district in the Gorton parliamentary division of
+DENTON, an urban district in the [[Gorton]] parliamentary division of
 Lancashire, England, 4½ m. N.E. from Stockport, on the London &
 North-Western railway. Pop. (1901) 14,934. In the township are
 reservoirs for the water supply of Manchester, with a capacity of

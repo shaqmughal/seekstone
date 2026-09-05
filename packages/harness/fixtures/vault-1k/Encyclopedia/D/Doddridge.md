@@ -22,7 +22,7 @@ offers which would have led him into the Anglican ministry or the bar,
 and in 1719 entered the very liberal academy for dissenters at Kibworth
 in Leicestershire, taught at that time by the Rev. John Jennings, whom
 Doddridge succeeded in the ministry at that place in 1723, declining
-overtures from Coventry, Pershore and London (Haberdashers' Hall). In
+overtures from [[Coventry]], Pershore and London (Haberdashers' Hall). In
 1729, at a general meeting of Nonconformist ministers, he was chosen to
 conduct the academy established in that year at Market Harborough. In
 the same year he received an invitation from the independent
@@ -32,7 +32,7 @@ many engagements and bulky correspondence interfered seriously with his
 pulpit work, and with the discipline of his academy, where he had some
 200 students to whom he lectured on philosophy and theology in the
 mathematical or Spinozistic style. In 1751 his health, which had never
-been good, broke down, and he sailed for Lisbon on the 30th of September
+been good, broke down, and he sailed for [[Lisbon]] on the 30th of September
 of that year; but the change was unavailing, and he died there on the
 26th of October. His popularity as a preacher is said to have been
 chiefly due to his "high susceptibility, joined with physical advantages

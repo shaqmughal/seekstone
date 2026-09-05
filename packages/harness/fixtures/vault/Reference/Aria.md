@@ -30,13 +30,13 @@ emotional expression, was felt by the profounder spirits of the new art
 to be an untrustworthy guide to progress. And Monteverde's famous lament
 of the deserted Ariadne is one of many early examples that appeal to an
 elementary sense of form by making the last phrase identical with the
-first. As instrumental music grew, and the modern sense of key became
+first. As instrumental music grew, and the modern sense of [[Key|key]] became
 strong and consistent, composers felt themselves more and more able to
 appeal to that sense of harmonically consistent melody which has
 asserted itself in folk-music before the history of harmonic music may
 be said to have begun. The technique of solo singers grew as rapidly as
 that of solo players, and composers soon found their chief musical
-interest in doing justice to both. In Sir Hubert Parry's work, _The
+interest in doing justice to both. In Sir [[Hubert]] Parry's work, _The
 Music of the 17th Century (Oxford History of Music_, vol. iii.), will be
 found numerous illustrations of the early development of aria forms,
 from their first indications in Monteverde's instinctive struggles after
@@ -57,7 +57,7 @@ universal 18th-century _da Capo_ form of aria, adds a very simple new
 principle to the essential scheme without really modifying it. A typical
 aria of the Scarlatti or Handelian type is a very large melody in binary
 form, delivered by the voice, which expands it with florid perorations
-before each cadence (and sometimes also with florid preludes); while
+before each [[Cadence|cadence]] (and sometimes also with florid preludes); while
 relief is given to the voice, further spaciousness to the form, and
 justice done to the accompaniment, by the addition of an instrumental
 ritornello containing the gist of the melody not only at the beginning
@@ -70,7 +70,7 @@ considerable length, in a form which cannot fail to be effective and
 coherent; and there is little cause for wonder in the extent to which it
 dominated 18th-century music. It was not, however, invariable. In the
 _Cavatina_ we find a form too small for the _da Capo_; and in the
-oratorios of Handel and the choral works of Bach we find a majority of
+oratorios of [[Handel]] and the choral works of Bach we find a majority of
 arias in a larger form which evades the possibility of exact repetition.
 
 The aria forms are profoundly influenced by the difference between the
@@ -84,13 +84,13 @@ _da Capo_, which was in any case too rigid to survive in music designed
 to intensify a dramatic situation instead of to distract attention from
 it. The necessary change of style was so successfully achieved that,
 until Wagner succeeded in devising music that moved absolutely _pari
-passu_ with his drama, the aria remained as the central formal principle
+passu_ with his [[Drama|drama]], the aria remained as the central formal principle
 in dramatic music; and few things in artistic evolution are more
 interesting than the extent to which Mozart's predecessor, the great
 dramatic reformer Gluck, profited by the essential resources of his pet
 aversion, the aria style, when he had not only purged it of what had
 become the stereotyped ideas of ritornellos and vocal flourishes, but
-animated it by the new sense of dramatic climax to which the sonata
+animated it by the new sense of dramatic [[Climax|climax]] to which the sonata
 style appealed.
 
 In modern opera the aria is almost always out of place, and the forms in
@@ -105,7 +105,7 @@ of Wagner. In _Carmen_ the librettist has so managed that, if his work
 were performed as a play, almost the whole of it would have to be sung;
 and the one exception of musical importance is the developed soliloquy
 of Micaela in the third act, which, although treated in no old-fashioned
-or commonplace spirit by the composer, is the one thing in the opera
+or [[Commonplace|commonplace]] spirit by the composer, is the one thing in the opera
 which sounds "operatic."
 
 In the later works of Wagner those passages in which we can successfully

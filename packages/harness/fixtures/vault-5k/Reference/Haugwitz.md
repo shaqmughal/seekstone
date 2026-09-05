@@ -21,7 +21,7 @@ became ambassador at Vienna in 1792 and at the end of the same year a
 member of the cabinet at Berlin.
 
 Haugwitz, who had attended the young emperor Francis II. at his
-coronation and been present at the conferences held at Mainz to consider
+[[Coronation|coronation]] and been present at the conferences held at Mainz to consider
 the attitude of the German powers towards the Revolution, was opposed to
 the exaggerated attitude of the French _emigres_ and to any interference
 in the internal affairs of France. After the war broke out, however, the
@@ -31,7 +31,7 @@ Prussia on the question of territorial "compensations" crippled the
 power of the Allies to carry the war to a successful conclusion. It was
 in these circumstances that Haugwitz entered on the negotiations that
 resulted in the subsidy treaty between Great Britain and Prussia, and
-Great Britain and Holland, signed at the Hague on the 19th of April
+Great Britain and Holland, signed at the [[Hague]] on the 19th of April
 1794. Haugwitz, however, was not the man to direct a strong and
 aggressive policy; the failure of Prussia to make any effective use of
 the money supplied broke the patience of Pitt, and in October the
@@ -41,7 +41,7 @@ signed at Basel on the 5th of April 1795, was mainly due to the
 influence of Haugwitz.
 
 His object was now to save the provinces on the left bank of the Rhine
-from being lost to the Empire. No guarantee of their maintenance had
+from being lost to the Empire. No guarantee of their [[Maintenance|maintenance]] had
 been inserted in the Basel treaty; but Haugwitz and the king hoped to
 preserve them by establishing the armed neutrality of North Germany and
 securing its recognition by the French Republic. This policy was
@@ -52,7 +52,7 @@ this fact, and urged his master to join the new Coalition in 1798. But
 the king clung blindly to the illusion of neutrality, and Haugwitz
 allowed himself to be made the instrument of a policy of which he
 increasingly disapproved. It was not till 1803, when the king refused
-his urgent advice to demand the evacuation of Hanover by the French,
+his urgent advice to demand the evacuation of [[Hanover]] by the French,
 that he tendered his resignation. In August 1804 he was definitely
 replaced by Hardenberg, and retired to his estates.
 
@@ -80,7 +80,7 @@ complete. In February 1806 Haugwitz went to Paris to ratify the treaty
 of Schonbrunn and to attempt to secure some modifications in favour of
 Prussia. He was received with a storm of abuse by Napoleon, who insisted
 on tearing up the treaty and drawing up a fresh one, which doubled the
-amount of territory to be ceded by Prussia and forced her to a breach
+amount of territory to be ceded by Prussia and forced her to a [[Breach|breach]]
 with Great Britain by binding her to close the Hanoverian ports to
 British commerce. The treaty, signed on the 15th of February, left
 Prussia wholly isolated in Europe. What followed belongs to the history
@@ -108,7 +108,7 @@ episode of the treaty of Schonbrunn was published at Jena in 1837.
   Staates_ (Leipzig, 1879-1881), note on Haugwitz's memoirs in vol. ii.;
   _Denkwurdigkeiten des Staatskanzlers Fursten von Hardenberg_, ed.
   Ranke (5 vols., Leipzig, 1877); A. Sorel, _L'Europe et la Revol.
-  Franc., passim_.
+  [[Franc]]., passim_.
 
 ## See also
 

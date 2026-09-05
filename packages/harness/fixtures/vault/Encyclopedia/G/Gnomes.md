@@ -6,7 +6,7 @@ watch over veins of precious metals and other hidden treasures. They are
 usually pictured as bearded dwarfs clad in brown close-fitting garments
 with hoods. The word "gnome" as applied to these is of comparatively
 modern and somewhat uncertain origin. By some it is said to have been
-coined by Paracelsus (so Hatzfeld and Darmesteter, _Dictionnaire_), who
+coined by Paracelsus (so Hatzfeld and [[Darmesteter]], _Dictionnaire_), who
 uses _Gnomi_ as a synonym of _Pygmaei_, from the Greek [Greek: gnome],
 intelligence. The _New English Dictionary_, however, suggests a
 derivation from _genomus_, i.e. a Greek type [Greek: genomos],

@@ -26,14 +26,14 @@ a breadth varying from 4 to 7 m.; its whole area belongs to the various
 monasteries. It was inhabited in the earliest times by a mixed Greek and
 Thracian population; of its five cities mentioned by Herodotus few
 traces remain; some inscriptions discovered on the sites were published
-by W.M. Leake (_Travels in N. Greece_, 1835, iii. 140) and Kinch. The
+by W.M. [[Leake]] (_Travels in N. Greece_, 1835, iii. 140) and Kinch. The
 legends of the monks attribute the first religious settlements to the
 age of Constantine (274-337), but the hermitages are first mentioned in
 historical documents of the 9th century. It is conjectured that the
 mountain was at an earlier period the abode of anchorites, whose numbers
 were increased by fugitives from the iconoclastic persecutions
 (726-842). The "coenobian" rule to which many of the monasteries still
-adhere was established by St Athanasius, the founder of the great
+adhere was established by St [[Athanasius]], the founder of the great
 monastery of Laura, in 969. Under a constitution approved by the emperor
 Constantine Monomachos in 1045, women and female animals were excluded
 from the holy mountain. In 1060 the community was withdrawn from the
@@ -53,7 +53,7 @@ capture of Salonica (1430), their privileges were respected by
 successive sultans: a tribute is paid to the Turkish government, which
 is represented by a resident _kaimakam_, and the community is allowed to
 maintain a small police force. Under the present constitution, which
-dates from 1783, the general affairs of the commonwealth are entrusted
+dates from 1783, the general affairs of the [[Commonwealth|commonwealth]] are entrusted
 to an assembly ([Greek: oynaxis]) of twenty members, one from each
 monastery; a committee of four members, chosen in turn, styled
 _epistatae_ ([Greek: epistatai]), forms the executive. The president of
@@ -97,7 +97,7 @@ the Russians; there are also Rumanian and Georgian _sketae_. The great
 monastery of Rossikon, which is said to number about 3000 inmates, has
 been under a Russian abbot since 1875; it is regarded as one of the
 principal centres of the Russian politico-religious propaganda in the
-Levant. The tasteless style of its modern buildings is out of harmony
+[[Levant]]. The tasteless style of its modern buildings is out of harmony
 with the quaint beauty of the other monasteries. Furnished with ample
 means, the Russian monks neglect no opportunity of adding to their
 possessions on the holy mountain; their encroachments are resisted by
@@ -119,7 +119,7 @@ _sigilla_ of the patriarchs, _typica_, irades and other documents, the
 study of which will throw an important light on the political and
 ecclesiastical history and social life of the East from the middle of
 the 10th century. Up to comparatively recent times a priceless
-collection of classical manuscripts was preserved in the libraries; many
+collection of classical [[Manuscript|manuscripts]] was preserved in the libraries; many
 of them were destroyed during the War of Greek Independence (1821-1829)
 by the Turks, who employed the parchments for the manufacture of
 cartridges; others fell a prey to the neglect or vandalism of the monks,
@@ -138,31 +138,31 @@ have been catalogued by Benessevich in the supplement to vol. ix. of the
 _Bizantiyskiy Vremennik_ (St Petersburg, 1904). The Slavonic and
 Georgian MSS. have not been catalogued. Apart from the illuminated MSS.,
 the mural paintings, the mosaics, and the goldsmith's work of Mount
-Athos are of infinite interest to the student of Byzantine art. The
+Athos are of [[Infinite|infinite]] interest to the student of Byzantine art. The
 frescoes in general date from the 15th or 16th century: some are
 attributed by the monks to Panselinos, "the Raphael of Byzantine
 painting," who apparently flourished in the time of the Palaeologi. Most
 of them have been indifferently restored by local artists, who follow
 mechanically a kind of hieratic tradition, the principles of which are
 embodied in a work of iconography by the monk Dionysius, said to have
-been a pupil of Panselinos. The same spirit of conservatism is manifest
+been a pupil of Panselinos. The same spirit of conservatism is [[Manifest|manifest]]
 in the architecture of the churches, which are all of the medieval
 Byzantine type. Some of the monasteries were seriously damaged by an
 earthquake in 1905.
 
   AUTHORITIES.--R.N.C. Curzon, _Visits to Monasteries in the Levant_
-  (London, 1849); J.P. Fallmerayer, _Fragmenta aus dem Orient_
+  (London, 1849); J.P. [[Fallmerayer]], _Fragmenta aus dem Orient_
   (Stuttgart and Tubingen, 1845); V. Langlois, _Le Mont Athos et ses
   monasteres_, with a complete bibliography (Paris, 1867); Duchesne and
   Bayet, _Memoirs sur une mission en Macedoine et au Mont Athos_ (Paris,
   1876); Texier and Pullan, _Byzantine Architecture_ (London, 1864); H.
-  Brockhaus, _Die Kunst in den Athosklostern_ (Leipzig, 1891); A. Riley,
+  [[Brockhaus]], _Die Kunst in den Athosklostern_ (Leipzig, 1891); A. Riley,
   _Athos, or the Mountain of the Monks_ (London, 1887); S. Lambros,
   _Catalogue of the Greek Manuscripts on Mount Athos_ (2 vols.,
   Cambridge, 1895 and 1900); M.I. Gedeon, [Greek: o Athos]
   (Constantinople, 1885); P. Meyer, "Beitrage zur Kenntniss der neueren
   Geschichte und des gegenwartigen Zustandes der Athoskloster," in
-  _Zeitschrift fur Kirchengeschichte_, 1890; _Die Haupturkunden fur die
+  _Zeitschrift [[Fur|fur]] Kirchengeschichte_, 1890; _Die Haupturkunden fur die
   Geschichte der Athoskloster_ (Leipzig, 1894); G. Millet, J. Pargoire
   and L. Petit, _Recueil des inscriptions chretiennes de l'Athos_
   (Paris, 1904); H. Gelzer, _Vom Heiligen Berge und aus Makedonien_

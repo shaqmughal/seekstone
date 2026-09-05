@@ -16,11 +16,11 @@ the seat of the supreme judicial court of the Tirol, the Diet of which
 meets in the Landhaus. The streets are broad, there are several open
 places and the houses are handsome, many of those in the old town dating
 from the 17th and 18th centuries, and being adorned with frescoes, while
-the arcades beneath are used as shops.
+the [[Arcade|arcades]] beneath are used as shops.
 
 The principal monument is the Franciscan or Court church (1553-1563). In
 it is the magnificent 16th-century cenotaph (his body is elsewhere) of
-the emperor Maximilian (d. 1519), who, as count of the Tirol from 1490
+the emperor [[Maximilian]] (d. 1519), who, as count of the Tirol from 1490
 onwards, was much beloved by his subjects. It represents the emperor
 kneeling in prayer on a gigantic marble sarcophagus, surrounded by
 twenty-eight colossal bronze statues of mourners, of which twenty-three
@@ -30,24 +30,24 @@ two finest statues (both by Peter Vischer of Nuremberg), those of King
 Arthur of Britain and of Theodoric, the Ostrogothic king. On the sides
 of the sarcophagus are twenty-four marble reliefs, depicting the
 principal events in the life of Maximilian, nearly all by Alexander
-Colin of Malines, while the general design of the whole monument is
+Colin of [[Malines]], while the general design of the whole monument is
 attributed to Gilg Sesselschreiber, the court painter. In one of the
 aisles of the same church is the Silver Chapel, so called from a silver
 Madonna and silver bas-reliefs on the altar; it contains the tombs of
-Archduke Ferdinand, count of the Tirol (d. 1595) and his non-royal wife,
-Philippine Welser of Augsburg (d. 1580), whose happy married life spent
+Archduke [[Ferdinand]], count of the Tirol (d. 1595) and his non-royal wife,
+Philippine Welser of [[Augsburg]] (d. 1580), whose happy married life spent
 close by is one of the most romantic episodes in Tirolese history. In
 the other aisle are the tombs, with monuments, of the heroes of the War
 of Independence of 1809, Hofer, Haspinger and Speckbacher. It was in
 this church that Queen Christina of Sweden, daughter of Gustavus
 Adolphus, abjured Protestantism, in 1655. There are also several other
 churches and convents, among the latter the first founded (1593) in
-Germany by the Capuchins.
+Germany by the [[Capuchins]].
 
 The university of Innsbruck was formally founded in 1677, and refounded
 (after two periods of suspension, 1782-1792 and 1810-1826) in 1826. It
 is attended by about 1000 students and has a large staff of professors,
-the theological faculty being controlled by the Jesuits. It has a
+the theological faculty being controlled by the [[Jesuits]]. It has a
 library of 176,000 books, and 1049 MSS. The University or Jesuit church
 dates from the early 17th century. The Ferdinandeum is the provincial
 museum (founded in 1823, though the present building is later). The
@@ -59,7 +59,7 @@ Innsbruck may be mentioned the Pillar of St Anne, erected in 1706 to
 commemorate the repulse of the French and the Bavarians in 1703; the
 Triumphal Arch, built in 1765, on the occasion of the marriage of the
 future emperor Leopold II. with the Infanta Maria Louisa of Spain; and a
-fountain, with a bronze statue of Archduke Leopold V., set up in
+[[Fountain|fountain]], with a bronze statue of Archduke Leopold V., set up in
 1863-1877, in memory of the five-hundredth anniversary of the union of
 the Tirol with Austria.
 
@@ -71,10 +71,10 @@ and in 1187 we first hear of the town by its present name. Between 1233
 and 1235 it was fortified, and a castle built for the lord. But it was
 only about 1420 that Archduke Frederick IV. ("with the empty pockets")
 built himself a new castle in Innsbruck, which then replaced Meran as
-the capital of Tirol. The county of Tirol was generally held by a cadet
+the capital of Tirol. The county of Tirol was generally held by a [[Cadet|cadet]]
 line of the Austrian house, the count being almost an independent ruler.
 But the last princeling of this kind died in 1665, since which date
-Innsbruck and Tirol have been governed from Vienna. In 1552 Maurice of
+Innsbruck and Tirol have been governed from Vienna. In 1552 [[Maurice]] of
 Saxony surprised and nearly took Innsbruck, almost capturing the emperor
 Charles V. himself, who escaped owing to a mutiny among Maurice's
 troops. In the patriotic war of 1809, Innsbruck played a great part and
@@ -88,7 +88,7 @@ INNS OF COURT. The Inns of Court and Chancery are voluntary
 non-corporate legal societies seated in London, having their origin
 about the end of the 13th and the commencement of the 14th century.
 
-Dugdale (_Origines Juridiciales_) states that the learned in English law
+Dugdale (_Origines Juridiciales_) states that the learned in [[English Law|English law]]
 were anciently persons in holy orders, the justices of the king's court
 being bishops, abbots and the like. But in 1207 the clergy were
 prohibited by canon from acting in the temporal courts. The result
@@ -138,7 +138,7 @@ closer alliance.
 The members of an Inn of Court consist of benchers, barristers and
 students. The benchers are the senior members of the society, who are
 invested with the government of the body to which they belong. They are
-more formally designated "masters of the bench," are self-elected and
+more formally designated "masters of the [[Bench|bench]]," are self-elected and
 unrestricted as to numbers. Usually a member of an inn, on attaining the
 rank of king's counsel, is invited to the bench. Other members of long
 standing are also occasionally chosen, but no member by becoming a
@@ -177,7 +177,7 @@ varying from £1 to £5, which at one or two of the inns is compounded for
 by a fixed sum taken at the call to the bar.
 
 The ceremony of the "call" varies in detail at the different inns. It
-takes place after dinner (before dinner at the Middle Temple, which is
+takes place after [[Dinner|dinner]] (before dinner at the Middle Temple, which is
 the only inn at which students are called in their wigs and gowns), in
 the "parliament," "pension" or "council" chamber of the benchers. The
 benchers sit at a table round which are ranged the students to be
@@ -189,7 +189,7 @@ barristers; at the Middle Temple they are allowed in hall.
 During the reign of Edward III. the Inns of Court and Chancery, based on
 the collegiate principle, prospered under the supervision and protection
 of the crown. In 1381 Wat Tyler invaded the Temple, and in the
-succeeding century (1450) Jack Cade meditated pulling down the Inns of
+succeeding century (1450) Jack [[Cade]] meditated pulling down the Inns of
 Court and killing the lawyers. It would appear, moreover, that the
 inmates of the inns were themselves at times disorderly and in conflict
 with the citizens. Fortescue (c. 1464) describing these societies thus
@@ -202,8 +202,8 @@ least frequented of which there are about two hundred students. The
 discipline is excellent, and the mode of study well adapted for
 proficiency." This system had probably existed for two centuries before
 Fortescue wrote, and continued to be enforced down to the time of Sir
-Thomas More (1498), of Chief Justice Dyer (1537) and of Sir Edward Coke
-(1571). By the time of Sir Matthew Hale (1629) the custom for law
+Thomas More (1498), of Chief Justice [[Dyer]] (1537) and of Sir Edward Coke
+(1571). By the time of Sir [[Matthew]] Hale (1629) the custom for law
 students to be first entered to an Inn of Chancery before being admitted
 to an Inn of Court had become obsolete, and thenceforth the Inns of
 Chancery have been abandoned to the attorneys. Stow in his _Survey_
@@ -276,7 +276,7 @@ any rank at the bar. A privy councillor, a peer's son, a baronet, the
 speaker of the House of Commons or a knight--all rank at the bar merely
 according to their legal precedence. Formerly orders were frequently
 issued both by the benchers and by the crown on the subject of the
-dress, manners, morals and religious observances of students and
+[[Dress|dress]], manners, morals and religious observances of students and
 members. Although some semblance of a collegiate discipline is still
 maintained, this is restricted to the dining in hall, where many ancient
 usages survive, and to the closing of the gates of the inns at night.
@@ -287,7 +287,7 @@ Inner and the Middle Temple have joint use of the Temple church. The
 office of preacher is usually filled by an ecclesiastic chosen by the
 benchers. The principal ecclesiastic of the Temple church is, however,
 constituted by letters patent by the crown without episcopal institution
-or induction, enjoying, nevertheless, no authority independently of the
+or [[Induction|induction]], enjoying, nevertheless, no authority independently of the
 benchers. He bears the title of Master of the Temple.
 
 It has already been stated, on the authority of Fortescue, that the
@@ -334,7 +334,7 @@ bar or connected with the legal profession.
   mention of the Temple as an inn of court is found in the _Paston
   Letters_, where, under date November 1440, the Inner Temple is spoken
   of as a college, as is also subsequently the Middle Temple. The Temple
-  had been the seat in England of the Knights Templars, on whose
+  had been the seat in England of the [[Knight|Knights]] Templars, on whose
   suppression in 1312 it passed with other of their possessions to the
   crown, and after an interval of some years to the Knights Hospitallers
   of St John of Jerusalem, who in the reign of Edward III. demised the
@@ -364,7 +364,7 @@ bar or connected with the legal profession.
   England, and is built on the plan of the church of the Holy Sepulchre
   at Jerusalem. Narrowly escaping the ravages of the fire of 1666, this
   beautiful building is one of the most perfect specimens of early
-  Gothic architecture in England. In former times the lawyers awaited
+  [[Gothic]] architecture in England. In former times the lawyers awaited
   their clients for consultation in the Round Church, as similarly the
   serjeants-at-Law were accustomed to resort to St Paul's Cathedral,
   where each serjeant had a pillar assigned him.
@@ -414,9 +414,9 @@ bar or connected with the legal profession.
   inauguration ceremony on October 31st of that year, and becoming a
   member and bencher of the society on the occasion. He afterwards held
   the office of treasurer (1882). The MSS. in the collection are few and
-  of no special value. In civil, canon and international law, as also in
+  of no special value. In civil, canon and [[International|international]] law, as also in
   divinity and ecclesiastical history, the library is very rich; it
-  contains also some curious works on witchcraft and demonology. There
+  contains also some curious works on witchcraft and [[Demonology|demonology]]. There
   was but one Inn of Chancery connected with the Middle Temple, that of
   _New Inn_, which, according to Dugdale, was formed by a society of
   students previously settled at St George's Inn, situated near St
@@ -425,8 +425,8 @@ bar or connected with the legal profession.
 
   _Lincoln's Inn_ stands on the site partly of an episcopal palace
   erected in the time of Henry III. by Ralph Nevill, bishop of
-  Chichester and chancellor of England, and partly of a religious house,
-  called Black Friars House, in Holborn. In the reign of Edward II.,
+  [[Chichester]] and chancellor of England, and partly of a religious house,
+  called Black Friars House, in [[Holborn]]. In the reign of Edward II.,
   Henry Lacy, earl of Lincoln, possessed the place, which from him
   acquired the name of Lincoln's Inn, probably becoming an Inn of Court
   soon after his death (in 1310), though of its existence as a place of
@@ -562,15 +562,15 @@ bar or connected with the legal profession.
   _Report_ of the Commissioners appointed to inquire into the Inns of
   Court and Chancery, 1855; Ball, _Student's Guide to the Bar_ (1878);
   Stow, _Survey of London and Westminster_, by Strype (1754-1755);
-  Nichols, _Progresses of Elizabeth and James I._; Lane, _Student's
+  Nichols, _Progresses of Elizabeth and James I._; [[Lane]], _Student's
   Guide through Lincoln's Inn_ (2nd ed., 1805); Spilsbury, _Lincoln's
   Inn, with an Account of the Library_ (2nd ed., 1873); Douthwaite,
   _Notes illustrative of the History and Antiquities of Gray's Inn_
   (1876), and _Gray's Inn, its History and Associations_ (1886); _Paston
   Letters_ (1872); _Law Magazine_, 1859-1860; _Quarterly Review_,
   October, 1871; Cowel, _Law Dictionary_ (1727); Duhigg, _History of the
-  King's Inns in Ireland_ (1806); Mackay, _Practice of the Court of
-  Session_ (1879); Bellot, _The Inner and Middle Temple_ (1902);
+  King's Inns in Ireland_ (1806); [[Mackay]], _Practice of the Court of
+  Session_ (1879); [[Bellot]], _The Inner and Middle Temple_ (1902);
   Inderwick, _The King's Peace_ (1895); Fletcher, _The Pension Book of
   Gray's Inn_ (1901); Loftie, _The Inns of Court_ (1895); Hope,
   _Chronicles of an Old Inn_ (Gray's Inn) (1887); _A Calendar of the

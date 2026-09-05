@@ -8,7 +8,7 @@ topic: geography
 
 BELUGA (_Delphinapterus leucas_), also called the "white whale," a
 cetacean of the family _Delphinidae_, characterized by its rounded head
-and uniformly light colour. A native of the Arctic seas, it extends in
+and uniformly light colour. A native of the [[Arctic]] seas, it extends in
 the western Atlantic as far south as the river St Lawrence, which it
 ascends for a considerable distance. In colour it is almost pure white;
 the maximum length is about twelve feet; and the back-fin is replaced by

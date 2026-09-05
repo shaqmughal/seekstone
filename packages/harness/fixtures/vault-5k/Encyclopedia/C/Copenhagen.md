@@ -9,7 +9,7 @@ type: reference
 
 COPENHAGEN (Danish _Kjöbenhavn_), the capital of the kingdom of Denmark,
 on the east coast of the island of Zealand (_Sjaelland_) at the southern
-end of the Sound. Pop. (1901) 400,575. The latitude is approximately
+end of the Sound. Pop. (1901) 400,575. The [[Latitude|latitude]] is approximately
 that of Moscow, Berwick-on-Tweed and Hopedale in Labrador. The nucleus
 of the city is built on low-lying ground on the east coast of the island
 of Zealand, between the sea and a series of small freshwater lakes,
@@ -20,7 +20,7 @@ islands; and communication from one division to the other is afforded by
 two bridges--the Langebro and the Knippelsbro, which replaced the wooden
 drawbridge built by Christian IV. in 1620. The older city, including
 both the Zealand and Amager portions, was formerly surrounded by a
-complete line of ramparts and moats; but pleasant boulevards and gardens
+complete line of ramparts and moats; but pleasant [[Boulevard|boulevards]] and gardens
 now occupy the westward or landward site of fortifications. Outside the
 lines of the original city (about 5 m. in circuit), there are extensive
 suburbs, especially on the Zealand side (Österbro, Nörrebro and
@@ -32,13 +32,13 @@ island). The main artery is the Gothersgade, running from Kongens Nytorv
 to the western boulevards, and separating a district of regular
 thoroughfares and rectangular blocks to the north from one of irregular,
 narrow and picturesque streets to the south. The Kongens Nytorv, the
-focus of the life of the city and the centre of road communications, is
+[[Focus|focus]] of the life of the city and the centre of road communications, is
 an irregular open space at the head of a narrow arm of the harbour
 (Nyhavn) inland from the steamer quays, with an equestrian statue of
 Christian V. (d. 1699) in the centre. The statue is familiarly known as
 _Hesten_ (the horse) and is surrounded by noteworthy buildings. The
 Palace of Charlottenborg, on the east side, which takes its name from
-Charlotte, the wife of Christian V., is a huge sombre building, built in
+[[Charlotte]], the wife of Christian V., is a huge sombre building, built in
 1672. Frederick V. made a grant of it to the Academy of Arts, which
 holds its annual exhibition of paintings and sculpture in April and May,
 in the adjacent _Kunstudstilling_ (1883). On the south is the principal
@@ -47,7 +47,7 @@ the site of a former theatre of the same name, which dated from 1748.
 Statues of the poets Ludvig Holberg (d. 1754), and Adam Öhlenschläger
 (d. 1850), the former by Stein and the latter by H. V. Bissen, stand on
 either side of the entrance, and the front is crowned by a group by
-King, representing Apollo and Pegasus, and the Fountain of Hippocrene.
+King, representing Apollo and Pegasus, and the [[Fountain]] of Hippocrene.
 Within, among other sculptures, is a relief figure of Ophelia, executed
 by Sarah Bernhardt. Other buildings in Kongens Nytorv are the foreign
 office, several great commercial houses, the commercial bank, and the
@@ -55,7 +55,7 @@ Thotts Palais of c. 1685. The quays of the Nyhavn are lined with old
 gabled houses.
 
 From the south end of Kongens Nytorv, a street called Holmens Kanal
-winds past the National Bank to the Holmens Kirke, or church for the
+winds past the National Bank to the Holmens [[Kirke]], or church for the
 royal navy, originally erected as an anchor-smithy by Frederick II., but
 consecrated by Christian IV., with a chapel containing the tombs of the
 great admirals Niels Juel and Peder Tordenskjöld, and wood-carving of
@@ -73,7 +73,7 @@ VII. There are also preserved the bronze statues which stood over the
 portal of the palace before the fire--figures of Strength, Wisdom,
 Health and Justice, designed by Thorvaldsen. The palace chapel, adorned
 with works by Thorvaldsen and Bissen, was preserved from the fire, as
-was the royal library of about 540,000 volumes and 20,000 manuscripts,
+was the royal library of about 540,000 volumes and 20,000 [[Manuscript|manuscripts]],
 for which a new building in Christiansgade was designed about 1900.
 
 The exchange (_Börsen_), on the quay to the east, is an ornate gabled
@@ -90,7 +90,7 @@ walls are decorated with groups of figures of coloured stucco,
 illustrative of events connected with Thorvaldsen's life. Over the
 principal entrance is the chariot of Victory drawn by four horses,
 executed in bronze from a model by Bissen. The front hall, corridors and
-apartments are painted in the Pompeian style, with brilliant colours and
+apartments are painted in the Pompeian style, with brilliant [[Colours|colours]] and
 with great artistic skill. The museum contains about 300 of
 Thorvaldsen's works; and in one apartment is his sitting-room furniture
 arranged as it was found at the time of his death in 1844.
@@ -126,7 +126,7 @@ professors are bound to give a series of lectures open to the public
 free of charge. The university possesses considerable endowments and has
 several foundations for the assistance of poor students; the "regent's
 charity," for instance, founded by Christian, affords free residence and
-a small allowance to one hundred bursars. There are about 2000 students.
+a small allowance to one hundred [[Bursar|bursars]]. There are about 2000 students.
 In connexion with the university are the observatory, the chemical
 laboratory in Ny Vester Gade, the surgical academy in Bredgade, founded
 in 1786, and the botanic garden. The university library, incorporated
@@ -141,7 +141,7 @@ appropriated since 1585 as a parish church for the German residents in
 Copenhagen. A short distance along the Krystalgade is Trinity church.
 Its round tower is 111 ft. high, and is considered to be unique in
 Europe. It was constructed from a plan of Tycho Brahe's favourite
-disciple Longomontanus, and was formerly used as an observatory. It is
+[[Disciple|disciple]] [[Longomontanus]], and was formerly used as an observatory. It is
 ascended by a broad inclined spiral way, up which Peter the Great is
 said to have driven in a carriage and four. From this church the
 Kjöbermayergade runs south, a populous street of shops, giving upon the
@@ -152,8 +152,8 @@ Slottsholm.
 The quarter north-east of Kongens Nytorv and Gothersgaden is the richest
 in the city, including the palaces of Amalienborg, the castle and gardens
 of Rosenborg and several mansions of the nobility. The quarter extends to
-the strong moated citadel, which guards the harbour on the north-east. It
-is a regular polygon with five bastions, founded by Frederick III. about
+the strong moated citadel, which [[Guards|guards]] the harbour on the north-east. It
+is a regular polygon with five [[Bastion|bastions]], founded by Frederick III. about
 1662-1663. One of the mansions, the Moltkes Palais, has a collection of
 Dutch paintings formed in the 18th century. This is in the principal
 thoroughfare of the quarter, Bredgaden, and close at hand the palace of
@@ -175,9 +175,9 @@ the destruction of Christiansborg in 1794 they became the residence of
 the king and court, and so continued till the death of Christian VIII. in
 1848. One of the four is inhabited by the king, the second and third by
 the crown prince and other members of the royal family, while the fourth
-is occupied by the coronation and state rooms. The Ameliegade crosses the
+is occupied by the [[Coronation|coronation]] and state rooms. The Ameliegade crosses the
 _plads_ and, with the Bredgade, terminates at the esplanade outside the
-citadel, prolonged in the pleasant promenade of Lange Linie skirting the
+citadel, prolonged in the pleasant promenade of [[Lange]] Linie skirting the
 Sound.
 
 To the west of the citadel is the Ostbanegaard, or eastern railway
@@ -196,7 +196,7 @@ observatory with a statue of Tycho Brahe, and the chemical laboratory,
 mineralogical museum, polytechnic academy (1829) and communal hospital
 adjoin it. On the inner side of Östevold Gade is Rosenborg Park, with
 the palace of Rosenborg erected in 1610-1617. It is an irregular
-building in Gothic style, with a high pointed roof, and flanked by four
+building in [[Gothic]] style, with a high pointed roof, and flanked by four
 towers of unequal dimensions. It contains the chronological collection
 of Danish monarchs, including a coin and medal cabinet, a fine
 collection of Venetian glass, the famous silver drinking-horn of
@@ -223,7 +223,7 @@ Frederiksberg, with its palace erected under Frederick IV. (d. 1730),
 used as a military school. The park contains a zoological garden, and is
 continued south in the pleasant Söndermarken, near which lies the old
 Glyptotek, which contained the splendid collection of sculptures, &c.,
-made by H. C. Jacobsen since 1887, until their removal to the new
+made by H. C. [[Jacobsen]] since 1887, until their removal to the new
 Glyptotek founded by him in the Vestre Boulevard.
 
 The quarter of Christianshavn is that portion of the city which skirts
@@ -237,7 +237,7 @@ city does not extend much farther south, though the Amagerbro quarter
 lies without the walls. The island of Amager is fertile, producing
 vegetables for the markets of the capital. It was peopled by a Dutch
 colony planted by Christian II. in 1516, and many old peculiarities of
-dress, manners and languages are retained.
+[[Dress|dress]], manners and languages are retained.
 
 The environs of Copenhagen to the north and west are interesting, and
 the country, both along the coast northward and inland westward is
@@ -246,7 +246,7 @@ northward passes the seaside resorts of Klampenborg (6 m.) and Skodsborg
 (10 m.). Near Klampenborg is the Dyrehave (Deer park) or Skoven (the
 forest), a beautiful forest of beeches. The Zealand Northern railway
 passes Lyngby, on the lake of the same name, a favourite summer
-residence, and Hilleröd (21 m.), a considerable town, capital of the
+residence, and [[Hiller]]öd (21 m.), a considerable town, capital of the
 _amt_ (county) of Frederiksberg, and close to the palace of
 Frederiksberg. This was erected in 1602-1620 by Christian IV., embodying
 two towers of an earlier building, and partly occupying islands in a
@@ -268,7 +268,7 @@ Society; the Danish Church History Society; the Industrial Association,
 founded in 1838; the Royal Geographical Society, established in 1876;
 and several musical and other societies. The Academy of Arts was founded
 by Frederick V. in 1754 for the instruction of artists, and for
-disseminating a taste for the fine arts among manufacturers and
+disseminating a taste for the [[Fine Arts|fine arts]] among manufacturers and
 operatives. Attached to it are schools for the study of architecture,
 ornamental drawing and modelling. An Art Union was founded in 1826, and
 a musical conservatorium in 1870 under the direction of the composers N.
@@ -285,7 +285,7 @@ private, but are all under the control of the state. Elementary
 instruction is mostly provided by the communal schools.
 
 The churches already mentioned belong to the national Lutheran Church;
-the most important of those belonging to other denominations are the
+the most important of those belonging to other [[Denomination|denominations]] are the
 Reformed church, founded in 1688, and rebuilt in 1731, the Catholic
 church of St Ansgarius, consecrated in 1842, and the Jewish synagogue in
 Krystalgade, which dates from 1853. Of the monastic buildings of
@@ -293,7 +293,7 @@ medieval Copenhagen various traces are preserved in the present
 nomenclature of the streets. The Franciscan establishment gives its name
 to the Graabrödretorv or Grey Friars' market; and St Clara's Monastery,
 the largest of all, which was founded by Queen Christina, is still
-commemorated by the Klareboder or Clara buildings, near the present
+commemorated by the Klareboder or [[Clara]] buildings, near the present
 post-office. The Duebrödre Kloster occupied the site of the hospital of
 the Holy Ghost.
 
@@ -328,7 +328,7 @@ parliament into granting the necessary money for others (1886-1895).
 Copenhagen is not an industrial town. The manufactures carried on are
 mostly only such as exist in every large town, and the export of
 manufactured goods is inconsiderable. The royal china factory is
-celebrated for models of Thorvaldsen's works in biscuit china. The only
+celebrated for models of Thorvaldsen's works in [[Biscuit|biscuit]] china. The only
 very large establishment is one for the construction of iron steamers,
 engines, &c., but some factories have been erected within the area of
 the free port for the purpose of working up imported raw materials duty
@@ -349,7 +349,7 @@ Grammaticus. In 1186, Bishop Absalon bestowed the castle and village,
 with the lands of Amager, on the see of Roskilde; but, as the place grew
 in importance, the Danish kings became anxious to regain it, and in 1245
 King Eric IV. drove out Bishop Niels Stigson. On the king's death
-(1250), however, Bishop Jacob Erlandsen obtained the town, and, in 1254,
+(1250), however, Bishop [[Jacob]] Erlandsen obtained the town, and, in 1254,
 gave to the burghers their first municipal privileges, which were
 confirmed by Pope Urban III. in 1286. In the charter of 1254, while
 there is mention of a _communitas_ capable of making a compact with the
@@ -447,8 +447,8 @@ Danes had placed their strongest ships. The southern part of the city
 front was covered by hulks and gun-vessels or bomb-vessels. There were
 in all eighteen hulks or ships of the line in the Danish defence. To
 have made the attack from the northern end would in Nelson's words have
-been "to take the bull by the horns." He therefore proposed that he
-should be detached with ten sail of the line, and the frigates and small
+been "to take the [[Bull|bull]] by the [[Horn|horns]]." He therefore proposed that he
+should be detached with ten sail of the line, and the [[Frigate|frigates]] and small
 craft, to pass between the Middle Ground and Saltholm Flat, and assail
 the Danish line at the southern end while the remainder of the fleet
 engaged the Trekroner battery from the north. Sir Hyde Parker accepted
@@ -458,7 +458,7 @@ Nelson.
 During the nights of the 30th and 31st of March the channel between the
 Middle Ground and Saltholm Flat was sounded by the boats of the British
 fleet, the Danes making no attempt to interfere with them. On the 1st of
-April Nelson brought his ships through. He had transferred his flag from
+April Nelson brought his ships through. He had transferred his [[Flag|flag]] from
 his own ship the "St George" (98) to the "Elephant" (74), commanded by
 Captain Foley, because the water was too shallow for a three-decker. On
 the morning of the 2nd of April the wind was fair from the south-east,
@@ -518,7 +518,7 @@ under fire of the forts must have been.
 
 The Danish government, which had entered the coalition largely from fear
 of Russia, was not prepared to make very great sacrifices, and now
-entered into negotiations for an armistice. It was the more ready to do
+entered into negotiations for an [[Armistice|armistice]]. It was the more ready to do
 so because it received news of the assassination of the tsar Paul, which
 had happened on the 24th of March. An armistice was made for fourteen
 weeks, which left the British fleet free to proceed up the Baltic. On
@@ -538,7 +538,7 @@ agree to a suspension of hostilities, and not to take active measures
 against Russia so long as the Reval squadron did not put to sea. On the
 21st of April, having now received a full account of the battle at
 Copenhagen, it recalled Sir Hyde Parker, whose vacillating conduct and
-want of enterprise had become manifest. He received the news of his
+want of enterprise had become [[Manifest|manifest]]. He received the news of his
 recall on the 5th of May. Nelson, to whom the command passed, at once
 put to sea, and hastened with a part of his fleet to Reval, which he
 reached on the 12th of May. The Russian squadron had, however, cut a
@@ -566,7 +566,7 @@ and ships embargoed in Russia were released on the 17th of May. Great
 Britain released her prisoners on the 4th of June, and on the 17th of
 June was signed the convention which terminated the Baltic campaign.
 
-  See _Dispatches and Letters of Vice-Admiral Nelson_, by Sir N. Harris
+  See _Dispatches and Letters of Vice-Admiral Nelson_, by Sir N. [[Harris]]
   Nicolas (1845); _Life of Nelson_, by Capt. A. T. Mahan (London, 1899).
        (D. H.)
 

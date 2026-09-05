@@ -43,14 +43,14 @@ At that time nothing was known of their life-history, and no one dreamed of
 their being of importance to man and other living beings, or of their
 capacity to produce the profound chemical changes with which we are now so
 familiar. At the present day, however, not only have hundreds of forms or
-species been described, but our knowledge of their biology has so extended
+species been described, but our knowledge of their [[Biology|biology]] has so extended
 that we have entire laboratories equipped for their study, and large
 libraries devoted solely to this subject. Furthermore, this branch of
 science has become so complex that the bacteriological departments of
 medicine, of agriculture, of sewage, &c., have become more or less separate
 studies.
 
-[Sidenote: Definition.]
+[Sidenote: [[Definition]].]
 
 The schizomycetes or bacteria are minute vegetable organisms devoid of
 chlorophyll and multiplying by repeated bipartitions. They consist of
@@ -109,7 +109,7 @@ C. _Pseudomonas pyocyanea_ (Gessard), Migula.
 D. _P. macroselmis_, Migula.
 E. _P. syncyanea_ (Ehrenb.), Migula.
 F. _Bacillus typhi_, Gaffky.
-G. _B. vulgaris_ (Hauser), Migula.
+G. _B. vulgaris_ ([[Hauser]]), Migula.
 H. _Microspira Comma_ (Koch), Schroeter.
 J, K. _Spirillum rubrum_, Esmarsch.
 L, M. _S. undula_ (Müller), Ehrenb. (_All after Migula._) ]
@@ -127,7 +127,7 @@ and probably earlier.
 [Sidenote: Distribution in Space.]
 
 Schizomycetes are ubiquitous as saprophytes in still ponds and ditches, in
-running streams and rivers, and in the sea, and especially in drains, bogs,
+running streams and rivers, and in the sea, and especially in drains, [[Bog|bogs]],
 refuse heaps, and in the soil, and wherever organic infusions are allowed
 to stand for a short time. Any liquid (blood, urine, milk, beer, &c.)
 containing organic matter, or any solid food-stuff (meat preserves,
@@ -159,14 +159,14 @@ of damage which they do not directly cause.
 [Sidenote: History.]
 
 Little was known about these extremely minute organisms before 1860. A. van
-Leeuwenhoek figured bacteria as far back as the 17th century, and O. F.
-Müller knew several important forms in 1773, while Ehrenberg in 1830 had
+[[Leeuwenhoek]] figured bacteria as far back as the 17th century, and O. F.
+Müller knew several important forms in 1773, while [[Ehrenberg]] in 1830 had
 advanced to the commencement of a scientific separation and grouping of
 them, and in 1838 had proposed at least sixteen species, distributing them
 into four genera. Our modern more accurate though still fragmentary
 knowledge of the forms of Schizomycetes, however, dates from F. J. Conn's
 brilliant researches, the chief results of which were published at various
-periods between 1853 and 1872; Cohn's classification of the bacteria,
+periods between 1853 and 1872; Cohn's [[Classification|classification]] of the bacteria,
 published in 1872 and extended in 1875, has in fact dominated the study of
 these organisms almost ever since. He proceeded in the main on the
 assumption that the forms of bacteria as met with and described by him are
@@ -180,7 +180,7 @@ followers. The fact that Schizomycetes produce spores appeals to have been
 discovered by Cohn in 1857, though it was expressed dubiously in 1872;
 these spores had no doubt been observed previously. In 1876, however, Cohn
 had seen the spores germinate, and Koch, Brefeld, Pratzmowski, van Tieghem,
-de Bary and others confirmed the discovery in various species.
+[[De Bary|de Bary]] and others confirmed the discovery in various species.
 
 The supposed constancy of forms in Cohn's species and genera received a
 shock when Lankester in 1873 pointed out that his _Bacterium rubescens_
@@ -229,7 +229,7 @@ in the fluid. Various experiments by Schwann, Helmholtz, Schultz,
 Schroeder, Dusch and others led to the refutation, step by step, of the
 belief that the more minute organisms, and particularly bacteria, arose _de
 novo_ in the special cases quoted. Nevertheless, instances were adduced
-where the most careful heating of yolk of egg, milk, hay-infusions, &c.,
+where the most careful heating of yolk of [[Egg|egg]], milk, hay-infusions, &c.,
 had failed,--the boiled infusions, &c., turning putrid and swarming with
 bacteria after a few hours.
 
@@ -237,7 +237,7 @@ In 1862 Pasteur repeated and extended such experiments, and paved the way
 for a complete explanation of the anomalies; Cohn in 1872 published
 confirmatory results; and it became clear that no putrefaction can take
 place without bacteria or some other living organism. In the hands of
-Brefeld, Burdon-Sanderson, de Bary, Tyndall, Roberts, Lister and others,
+Brefeld, [[Burdon-Sanderson]], de Bary, Tyndall, Roberts, Lister and others,
 the various links in the chain of evidence grew stronger and stronger, and
 every case adduced as one of "spontaneous generation" fell to the ground
 when examined. No case of so-called "spontaneous generation" has withstood
@@ -254,11 +254,11 @@ had suggested that resemblances existed between the phenomena of certain
 diseases and those of fermentation, and the idea that a virus or contagium
 might be something of the nature of a minute organism capable of spreading
 and reproducing itself had been entertained. Such vague notions began to
-take more definite shape as the ferment theory of Cagniard de la Tour
+take more definite shape as the ferment theory of [[Cagniard De La Tour|Cagniard de la Tour]]
 (1828), Schwann (1837) and Pasteur made way, especially in the hands of the
 last-named savant. From about 1870 onwards the "germ theory of disease" has
 passed into acceptance. P. F. O. Rayer in 1850 and Davaine had observed the
-bacilli in the blood of animals dead of anthrax (splenic fever), and
+bacilli in the blood of animals dead of [[Anthrax|anthrax]] (splenic [[Fever|fever]]), and
 Pollender discovered them anew in 1855. In 1863, imbued with ideas derived
 from Pasteur's researches on fermentation, Davaine reinvestigated the
 matter, and put forth the opinion that the anthrax bacilli caused the
@@ -281,7 +281,7 @@ due to the action of bacteria or, in a few cases, to fungi, or to protozoa
 or other animals.
 
 [Illustration: FIG. 2.--The various phases of germination of spores of
-_Bacillus ramosus_ (Fraenkel), as actually observed in hanging drops under
+_Bacillus ramosus_ (Fraenkel), as actually observed in [[Hanging|hanging]] drops under
 very high powers.
 
 A. The spore sown at 11 A.M., as shown at a, had swollen (b) perceptibly by
@@ -444,7 +444,7 @@ Zopf.)
 A. Various stages in the development of the endogenous spores in a
 _Clostridium_--the small letters indicate the order.
 
-B. Endogenous spores of the hay bacillus.
+B. Endogenous spores of the [[Hay|hay]] bacillus.
 
 C. A chain of _cocci_ of _Leuconostoc mesenterioides_, with two "resting
 spores," _i.e._ arthrospores. (After van Tieghem.)
@@ -563,7 +563,7 @@ h1, h2, k, l and m, successive stages in the germination of the spore.]
 A. _Bacilli_ mingled with blood-corpuscles from the blood of a guinea-pig;
 some of the _bacilli_ dividing.
 
-B. The rodlets after three hours' culture in a drop of aqueous humour. They
+B. The rodlets after three hours' culture in a drop of aqueous [[Humour|humour]]. They
 grow out into long _leptothrix_-like filaments, which become septate later,
 and spores are developed in the segments.]
 
@@ -573,10 +573,10 @@ One of the most remarkable phenomena in the life-history of the
 Schizomycetes is the formation of this zoogloea stage, which corresponds to
 the "palmella" condition of the lower _Algae_. This occurs as a membrane on
 the surface of the medium, or as irregular clumps or branched masses
-(sometimes several inches across) submerged in it, and consists of more or
+(sometimes several [[Inch|inches]] across) submerged in it, and consists of more or
 less gelatinous matrix enclosing innumerable "cocci," "bacteria," or other
 elements of the Schizomycete concerned. Formerly regarded as a distinct
-genus--the natural fate of all the various [v.03 p.0161] forms--the
+genus--the natural [[Fate|fate]] of all the various [v.03 p.0161] forms--the
 zoogloea is now known to be a sort of resting condition of the
 Schizomycetes, the various elements being glued together, as it were, by
 their enormously swollen and diffluent cell-walls becoming contiguous. The
@@ -586,9 +586,9 @@ then absorbs many times its volume of water, and remains as a consistent
 matrix, in which the cells come to rest. The matrix--_i.e._ the swollen
 cell-walls--in some cases consists mainly of cellulose, in others chiefly
 of a proteid substance; the matrix in some cases is horny and resistant, in
-others more like a thick solution of gum. It is intelligible from the mode
+others more like a thick solution of [[Gum|gum]]. It is intelligible from the mode
 of formation that foreign bodies may become entangled in the gelatinous
-matrix, and compound zoogloeae may arise by the apposition of several
+matrix, and [[Compound|compound]] zoogloeae may arise by the apposition of several
 distinct forms, a common event in macerating troughs (fig. 3, A).
 Characteristic forms may be assumed by the young zoogloea of different
 species,--spherical, ovoid, reticular, filamentous, fruiticose, lamellar,
@@ -606,7 +606,7 @@ represent intervals of time, the ordinates the measured lengths of the
 growing filament. Thus, at 2.33 P.M. the length of the filament was 6 µ; at
 5.45, 20 µ; at 8 P.M., 70 µ and so on. Such curves show differences of
 steepness according to the temperature (see temp. curve), and to
-alterations of light (lamp) and darkness. (H. M. W.)]
+alterations of light ([[Lamp|lamp]]) and darkness. (H. M. W.)]
 
 [Sidenote: Measurement of growth.]
 
@@ -687,13 +687,13 @@ having adapted itself to the outline of the spore (fig. 4, F). The ripe
 spores of Schizomycetes are spherical, ovoid or long-ovoid in shape and
 extremely minute (_e.g._ those of _Bacillus subtilis_ measure 0.0012 mm.
 long by 0.0006 mm. broad according to Zopf), highly refractive and
-colourless (or very dark, probably owing to the high index of refraction
+colourless (or very dark, probably owing to the high [[Index|index]] of refraction
 and minute size). The membrane may be relatively thick, and even exhibit
 shells or strata.
 
 The germination of the spores has now been observed in several forms with
 care. The spores are capable of germination at once, or they may be kept
-for months and even years, and are very resistant against desiccation, heat
+for months and even years, and are very resistant against [[Desiccation|desiccation]], heat
 and cold, &c. In a suitable medium and at a proper temperature the
 germination is completed in a few hours. The spore swells and elongates and
 the contents grow forth to a cell like that which produced it, in some
@@ -734,7 +734,7 @@ is eminently unsatisfactory, as arthrospores are not true spores and both
 kinds of reproductive bodies are found in one and the same form. Numerous
 attempts have been made to construct schemes of classification based on the
 power of growing colonies to liquefy gelatine, to secrete coloured
-pigments, to ferment certain media with evolution of carbon dioxide or
+pigments, to ferment certain media with evolution of [[Carbon|carbon]] dioxide or
 other gases, or to induce pathological conditions in animals. None of these
 systems, which are chiefly due to the medical bacteriologists, has
 maintained its position, owing to the difficulty of applying the characters
@@ -840,7 +840,7 @@ may have 1, 2 or 3 cilia at either end, and would be distributed by
 Fischer's classification between _Bactrinium_ and _Bactrillum_, according
 to which state was observed. In Migula's scheme the attempt is made to
 avoid some of these difficulties, but others are introduced by his
-otherwise clever devices for dealing with these puzzling little organisms.
+otherwise [[Clever|clever]] devices for dealing with these puzzling little organisms.
 
 The question, What is an individual? has given rise to much difficulty, and
 around it many of the speculations regarding pleomorphism have centred
@@ -969,7 +969,7 @@ combine with other elements into compounds assimilable by plants. This was
 long asserted as probable before Winogradsky showed that the conclusions of
 M. P. E. Berthelot, A. Laurent and others were right, and that _Clostridium
 pasteurianum_, for instance, if protected from access of free oxygen by an
-envelope of aerobic bacteria or fungi, and provided with the carbohydrates
+envelope of aerobic bacteria or fungi, and provided with the [[Carbohydrate|carbohydrates]]
 and minerals necessary for its growth, fixes nitrogen in proportion to the
 amount of sugar consumed. This interesting case of symbiosis is equalled by
 yet another case. The work of numerous observers has shown that the free
@@ -979,7 +979,7 @@ nodules are the morphological expression of a symbiosis between the higher
 plant and the bacteria, there is evidently here a case similar to the last.
 
 As regards the ammonium carbonate accumulating in the soil from the
-conversion of urea and other sources, we know from Winogradsky's researches
+[[Conversion|conversion]] of urea and other sources, we know from Winogradsky's researches
 that it undergoes oxidation in two stages owing to the activity of the
 so-called "nitrifying" bacteria (an unfortunate term inasmuch as
 "nitrification" refers merely to a particular phase of the cycle of changes
@@ -1017,7 +1017,7 @@ different from the nitroso-bacteria, and are incapable of attacking and
 utilizing ammonium carbonate. When the latter have oxidized ammonia to
 nitrite, however, the former step in and oxidize it still further to nitric
 acid. It is probable that important consequences of these actions result
-from the presence of nitrifying bacteria in rotten stone, decaying bricks,
+from the presence of nitrifying bacteria in rotten stone, decaying [[Brick|bricks]],
 &c., where all the conditions are realized for preparing primitive soil,
 the breaking up of the mineral constituents being a secondary matter. That
 "soil" is thus prepared on barren rocks and mountain peaks may be concluded
@@ -1056,7 +1056,7 @@ nitrites and even to free nitrogen or ammonia, which escapes.
 
 [Sidenote: Bacteria and Leguminosae.]
 
-That the Leguminosae (a group of plants including peas, beans, vetches,
+That the Leguminosae (a group of plants including peas, [[Bean|beans]], vetches,
 lupins, &c.) play a special part in agriculture was known even to the
 ancients and was mentioned by Pliny (_Historia Naturalis_, viii). These
 plants will not only grow on poor sandy soil without any addition of
@@ -1258,7 +1258,7 @@ manganese in some bacteria--of manganese ores.
 [Sidenote: Pigment bacteria.]
 
 Considerable advances in our knowledge of the various chromogenic bacteria
-have been made by the studies of Beyerinck, Lankester, Engelmann, Ewart and
+have been made by the studies of Beyerinck, Lankester, Engelmann, [[Ewart]] and
 others, and have assumed exceptional importance owing to the discovery that
 _Bacteriopurpurin_--the red colouring matter contained in certain sulphur
 bacteria--absorbs certain rays of solar energy, and enables the organism to
@@ -1305,12 +1305,12 @@ bearings on the facultative anaerobism of these organisms.
 [Sidenote: Dairy bacteria.]
 
 A branch of bacteriology which offers numerous problems of importance is
-that which deals with the organisms so common in milk, butter and cheese.
+that which deals with the organisms so common in milk, [[Butter|butter]] and [[Cheese|cheese]].
 Milk is a medium not only admirably suited to the growth of bacteria, but,
 as a matter of fact, always contaminated with these organisms in the
 ordinary course of supply. F. Lafar has stated that 20% of the cows in
 Germany suffer from tuberculosis, which also affected 17.7% of the cattle
-slaughtered in Copenhagen between 1891 and 1893, and that one in every
+slaughtered in [[Copenhagen]] between 1891 and 1893, and that one in every
 thirteen samples of milk examined in Paris, and one in every nineteen in
 Washington, contained tubercle bacilli. Hence the desirability of
 sterilizing milk used for domestic purposes becomes imperative.
@@ -1348,7 +1348,7 @@ contains myriads of bacteria, and some of these are now known to be
 concerned in the various processes of ripening and other changes affecting
 the product, and although little is known as to the exact part played by
 any species, practical applications of the discoveries of the decade
-1890-1900 have been made, _e.g._ Edam cheese. The Japanese have cheeses
+1890-1900 have been made, _e.g._ [[Edam]] cheese. The Japanese have cheeses
 resulting from the bacterial fermentation of boiled Soja beans.
 
 [v.03 p.0168]
@@ -1393,7 +1393,7 @@ of free oxygen, and, generally, a relatively low temperature, together with
 a medium containing sodium chloride, and peptones, but little or no
 carbohydrates. Considerable differences occur in these latter respects,
 however, and interesting results were obtained by Beyerinck with mixtures
-of species possessing different powers of enzyme action as regards
+of species possessing different powers of [[Enzyme|enzyme]] action as regards
 carbohydrates. Thus, a form termed _Photobacterium phosphorescens_ by
 Beyerinck will absorb maltose, and will become luminous if that sugar is
 present, whereas _P. Pflugeri_ is indifferent to maltose. If then we
@@ -1460,7 +1460,7 @@ bactericidal effects in broth cultures exposed to solar rays were due to
 thermal action or not. Further investigations, in which Arloing, Buchner,
 Chmelewski, and others took part, have led to the proof that rays of light
 alone are quite capable of killing these organisms. The principal questions
-were satisfactorily settled by Marshall Ward's experiments in 1892-1893,
+were satisfactorily settled by [[Marshall]] Ward's experiments in 1892-1893,
 when he showed that even the spores of _B. anthracis_, which withstand
 temperatures of 100° C. and upwards, can be killed by exposure to rays of
 reflected light at temperatures far below anything injurious, or even
@@ -1541,7 +1541,7 @@ if bacteria obtained access through the stomata, they could not penetrate
 the cell-walls bounding the intercellular spaces, but certain anaerobic
 forms are known to ferment cellulose, and others possess the power of
 penetrating the cell-walls of living cells, as the bacteria of Leguminosae
-first described by Marshall Ward in 1887, and confirmed by Miss Dawson in
+first described by Marshall Ward in 1887, and confirmed by Miss [[Dawson]] in
 1898. On the other hand a long list of plant-diseases has been of late
 years attributed to bacterial action. Some, _e.g._ the Sereh disease of the
 sugar-cane, the slime fluxes of oaks and other trees, are not only very
@@ -1550,7 +1550,7 @@ their parts, but it may be regarded as extremely improbable that the
 bacteria are the primary agents at all; they are doubtless saprophytic
 forms which have gained access to rotting tissues injured by other agents.
 Saprophytic bacteria can readily make their way down the dead hypha of an
-invading fungus, or into the punctures made by insects, and Aphides have
+invading fungus, or into the punctures made by [[Insect|insects]], and [[Aphides]] have
 been credited with the bacterial infection of carnations, though more
 recent researches by Woods go to show the correctness of his conclusion
 that Aphides alone are responsible for the carnation disease. On the other
@@ -1565,7 +1565,7 @@ appears to be the parenchyma, and it may be that Aphides or other piercing
 insects infect the plants, much as insects convey pollen from plant to
 plant, or (though in a different way) as mosquitoes infect man with
 malaria. If the recent work on the cabbage disease may be accepted, the
-bacteria make their entry at the water pores at the margins of the leaf,
+bacteria make their entry at the water pores at the margins of the [[Leaf|leaf]],
 and thence via the glandular cells to the tracheids. Little is known of the
 mode of action of bacteria on these plants, but it may be assumed with
 great confidence that they excrete enzymes and poisons (toxins), which
@@ -1653,7 +1653,7 @@ ordinary rodlet 30-40 minutes to double its length and divide into two
 equal daughter cells when growth is at its best; nearer the minimum it may
 require 3-4 hours or even much longer. It is by no means certain that even
 the higher rate is greater than that exhibited by a tropical bamboo which
-will grow over a foot a day, or even common grasses, or asparagus, during
+will grow over a foot a day, or even common grasses, or [[Asparagus|asparagus]], during
 the active period of cell-division, though the phenomenon is here
 complicated by the phase of extension due to intercalation of water. The
 enormous extension of surface also facilitates the absorption of energy
@@ -1686,9 +1686,9 @@ AUTHORITIES.--General: Fischer, _The Structure and Functions of Bacteria_
 (Oxford, 1900, 2nd ed.), German (Jena, 1903); Migula, _System der
 Bakterien_ (Jena, 1897); and in Engler and Prantl, _Die natürlichen
 Pflanzenfamilien_, I. Th. 1 Abt. a; Lafar, _Technical Mycology_ (vol. i.
-London, 1898); Mace, _Traité pratique de bakteriologie_ (5th ed. 1904).
+London, 1898); [[Mace]], _Traité pratique de bakteriologie_ (5th ed. 1904).
 Fossil bacteria: Renault, "Recherches sur les Bactériacées fossiles," _Ann.
-des Sc. Nat._, 1896, p. 275. Bacteria in Water: Frankland and Marshall
+des Sc. Nat._, 1896, p. 275. Bacteria in Water: [[Frankland]] and Marshall
 Ward. "Reports on the Bacteriology of Water," _Proc. R. Soc._, vol. li. p.
 183, vol. liii. p. 245, vol. lvi. p. 1; Marshall Ward, "On the Biology of
 _B. ramosus_," _Proc. R. Soc._, vol. lviii. p. 1; and papers on Bacteria of
@@ -1712,7 +1712,7 @@ p.0171] vol. cxci. p. 147; Klein, L., _Ber. d. deutschen bot. Gesellsch._
 (1889), Bd. vii.; and _Cent. f. Bakt. und Par._ (1889), Bd. vi.
 Classification: Marshall Ward, "On the Characters or Marks employed for
 classifying the Schizomycetes," _Ann. of Bot._, 1892, vol. vi.; Lehmann and
-Neumann, _Atlas and Essentials of Bacteriology_; also the works of Migula
+Neumann, _[[Atlas]] and Essentials of Bacteriology_; also the works of Migula
 and Fischer already cited. Myxobacteriaceae: Berkeley, _Introd. to
 Cryptogamic Botany_ (1857), p. 313; Thaxter, "A New Order of
 Schizomycetes," _Bot. Gaz._ vol. xvii. (1892), p. 389; and "Further
@@ -1735,15 +1735,15 @@ Organismen," _Cent. f. Bakt._ Abt. II. Bd. v. (1896); Schorler, "Beitr. zur
 Kenntniss der Eisenbakterien," _Cent. f. Bakt._ Abt. II. Bd. xii. (1904),
 p. 681; Marshall Ward, "On the Tubercular Swellings on the Roots of Vicia
 Faba," _Phil. Trans._, 1877, p. 539; Hellriegel and Wilfarth, "Unters. über
-die Stickstoffnahrung der Gramineen u. Leguminosen," _Beit. Zeit. d.
+die Stickstoffnahrung der Gramineen u. Leguminosen," _[[Beit]]. Zeit. d.
 Vereins für die Rübenzuckerindustrie_ (Berlin, 1888); Nobbe and Hiltner,
 _Landw. Versuchsstationen_ (1899), Bd. 51, p. 241, and Bd. 52, p. 455;
 Mazé, _Annales de l'Institut Pasteur_, t. II, p. 44, and t. 12, p. 1
 (1897); Prazmowski, _Land. Versuchsstationen_, Bd. 37 (1890), p. 161, Bd.
-38 (1891), p. 5; Frank, _Landw. Jahrb._ Bd. 17 (1888), p. 441; Omelianski,
+38 (1891), p. 5; [[Frank]], _Landw. Jahrb._ Bd. 17 (1888), p. 441; Omelianski,
 "Sur la fermentation de la cellulose," _Compt. Rend._, 4 Nov. 1895; van
 Senus, _Beitr. zur Kenntn. der Cellulosegährung_ (Leiden, 1890); van
-Tieghem, "Sur la fermentation de la cellulose," _Bull. de la soc. bot. de
+Tieghem, "Sur la fermentation de la cellulose," _[[Bull]]. de la soc. bot. de
 Fr._ t. xxvi. (1879), p. 28; Beyerinck "Ueber Spirillum desulphuricans,
 &c.," _Cent. f. Bakt._ Abt. II. Bd. i. (1895), p. 1; Molisch, _Die Pflanze
 in ihren Beziehungen zum Eisen_ (Jena, 1892). Pigment Bacteria: Ewart, "On
@@ -2050,7 +2050,7 @@ until practically no deposit remained. Rowland and Macfadyen for the same
 purpose introduced the method of grinding the bacilli in liquid air. At
 this temperature the bacterial bodies are extremely brittle, and are thus
 readily broken up. The study of the nature of toxins requires, of course,
-the various methods of organic chemistry. Attempts to obtain them in an
+the various methods of organic [[Chemistry|chemistry]]. Attempts to obtain them in an
 absolutely pure condition have, however, failed in important cases. So that
 when a "toxin" is spoken of, a mixture with other organic substances is
 usually implied. Or the toxin may be precipitated with other organic
@@ -2059,7 +2059,7 @@ substances, purified to a certain extent by re-solution, re-precipitation,
 impure condition. Toxic substances have also been separated by
 corresponding methods from the bodies of those who have died of certain
 diseases, and the action of such substances on animals is in some cases an
-important point in the pathology of the disease. Another auxiliary method
+important point in the pathology of the disease. Another [[Auxiliary|auxiliary]] method
 has been applied in this department, viz. the separation of organic
 substances by filtration under high pressure through a colloid membrane,
 gelatine supported in the pores of a porcelain filter being usually
@@ -2195,7 +2195,7 @@ that they are also concerned in the processes of disease. But this has not
 been proved, and hitherto no enzyme has been separated from a pathogenic
 bacterium capable of forming, by digestive or other action, the toxic
 bodies from proteids outside the body. It is also to be noted that, as in
-the case of poisons of known constitution, each toxin has a minimum lethal
+the case of poisons of known constitution, each toxin has a minimum [[Lethal|lethal]]
 dose which is proportionate to the weight of the animal and which can be
 ascertained with a fair degree of accuracy.
 
@@ -2218,7 +2218,7 @@ result from the absence of either of these two properties.
 [Sidenote: Bacterial infection.]
 
 A bacterial infection when analysed is seen to be of the nature of an
-intoxication. There is, however, another all-important factor concerned,
+[[Intoxication|intoxication]]. There is, however, another all-important factor concerned,
 viz. the multiplication of the living organisms in the tissues; this is
 essential to, and regulates, the supply of toxins. It is important that
 these two essential factors should be kept clearly in view, since the means
@@ -2240,7 +2240,7 @@ the subcutaneous tissue, rapidly gain entrance to the blood stream and
 multiply freely in it, and by means of their toxins cause symptoms of
 general poisoning. A widespread toxic action is indicated by the lesions
 found--cloudy swelling, which may be followed by fatty degeneration, in
-internal organs, capillary haemorrhages, &c. In septicaemia in the human
+internal organs, capillary [[Haemorrhage|haemorrhages]], &c. In septicaemia in the human
 subject, often due to streptococci, the process is similar, but the
 organisms are found especially in the capillaries of the internal organs
 and may not be detectable in the peripheral circulation during life. In
@@ -2368,7 +2368,7 @@ immunity have been practically applied in _preventive inoculation_ against
 disease; those of passive immunity have given us _serum therapeutics_. The
 chief facts with regard to each may now be stated.
 
-1. _Active Immunity_.--The key to the artificial establishment of active
+1. _Active Immunity_.--The [[Key|key]] to the artificial establishment of active
 immunity is given by the fact long established that recovery from an attack
 of certain infective diseases is accompanied by protection for varying
 periods of time against a subsequent attack. Hence follows the idea of
@@ -2385,7 +2385,7 @@ in the case of the anthrax bacillus, an organism which is, however,
 somewhat exceptional as regards the relative stability of its virulence.
 Many such methods consist, to speak generally, in growing the organism
 outside the body under somewhat unsuitable conditions, _e.g._ at higher
-temperatures than the optimum, in the presence of weak antiseptics, &c. The
+temperatures than the optimum, in the presence of weak [[Antiseptics|antiseptics]], &c. The
 virulence of many organisms, however, becomes diminished when they are
 grown on the ordinary artificial media, and the diminution is sometimes
 accelerated by passing a current [v.03 p.0176] of air over the surface of
@@ -2438,7 +2438,7 @@ fail to do so. Amongst the latter, the vegetable poisons of known
 constitution, alkaloids, glucosides, &c., are to be placed. The molecules
 which lead to the production of anti-substances are usually known as
 antigens, and each antigen has a specific combining affinity for its
-corresponding anti-substance, fitting it as a lock does a key. The
+corresponding anti-substance, fitting it as a [[Lock|lock]] does a key. The
 antigens, as already indicated, may occur in bacteria, cells, &c., or they
 may occur free in a fluid. Anti-substances may be arranged, as has been
 done by Ehrlich, into three main groups. In the first group, the
@@ -2508,7 +2508,7 @@ amount necessary to neutralize five times the lethal dose being determined,
 twenty times that amount will neutralize a hundred times the lethal dose.
 In the case of physiological antagonism of drugs this relationship does not
 hold. (c) It has been shown by C. J. Martin and Cherry, and by A. A.
-Kanthack and Cobbett, that in certain instances the toxin can be made to
+Kanthack and [[Cobbett]], that in certain instances the toxin can be made to
 pass through a gelatine membrane, whereas the antitoxin cannot, its
 molecules being of larger size. If, however, toxin be mixed with antitoxin
 for some time, it can no longer be passed through, presumably because it
@@ -2548,7 +2548,7 @@ molecules which are all the same, but contains molecules of different
 degrees of combining affinity and of toxic action. Accordingly, the most
 actively toxic molecules will be neutralized first, and those which are
 left over, that is, uncombined with antitoxin, will have a weaker toxic
-action. This view has been assailed by Thorvald Madsen and S. A. Arrhenius,
+action. This view has been assailed by Thorvald Madsen and S. A. [[Arrhenius]],
 who hold that the union of toxin and antitoxin is comparatively loose, and
 belongs to the class of reversible actions, being comparable in fact with
 the union of a weak acid and base. If such were the condition there would
@@ -2558,7 +2558,7 @@ have to be added to a "neutral mixture" before the amount of free toxin was
 increased by a dose, that is, before the mixture became lethal. It may be
 stated that while in certain instances the union of toxin and antitoxin may
 be reversible, all the facts established cannot be explained on this simple
-hypothesis of reversible action. Still another view, advocated by Bordet,
+[[Hypothesis|hypothesis]] of reversible action. Still another view, advocated by Bordet,
 is that the union of toxin and antitoxin is rather of physical than of
 strictly chemical nature, and represents an interaction of colloidal
 substances, a sort of molecular deposition by which the smaller toxin
@@ -2730,7 +2730,7 @@ bacteria, by which they swell up and become adhesive. The view has various
 facts in its support, but F. Kruse and C. Nicolle have found that if a
 bacterial culture be filtered germ-free, an agglutinating serum still
 produces some change in it, so that particles suspended in it become
-gathered into clumps. E. Duclaux, for this reason, considers that
+gathered into clumps. E. [[Duclaux]], for this reason, considers that
 agglutinins are coagulative ferments.
 
 The phenomenon of agglutination depends essentially on the union of
@@ -2841,7 +2841,7 @@ former, leucocytes are guided chiefly by chemiotaxis, _i.e._ by
 sensitiveness to chemical substances in their surroundings--a property
 which is not peculiar to them but is possessed by various unicellular
 organisms, including motile bacteria. When the cell moves from a less to a
-greater degree of concentration, _i.e._ towards the focus of production,
+greater degree of concentration, _i.e._ towards the [[Focus|focus]] of production,
 the chemiotaxis is termed positive; when the converse obtains, negative.
 This apparently purposive movement has been pointed out by M. Verworn to
 depend upon stimulation to contraction or the reverse. Metchnikoff showed
@@ -2937,11 +2937,11 @@ Society under the title _Microparasites in Disease: Selected Essays_, in
 published within recent years. Abbott, _Principles of Bacteriology_ (7th
 ed., London, 1905); Crookshank, _Bacteriology and Infective Diseases_ (with
 bibliography, 4th ed., London, 1896); Duclaux, _Traité de microbiologie_
-(Paris, 1899-1900); Eyre, _Bacteriological Technique_ (Philadelphia and
+(Paris, 1899-1900); [[Eyre]], _Bacteriological Technique_ (Philadelphia and
 London, 1902); Flügge, _Die Mikroorganismen_ (3rd ed., Leipzig, 1896);
 Fischer, _Vorlesungen über Bakterien_ (2nd ed., Jena, 1902); Günther,
 _Einführung in das Studium der Bakteriologie_ (6th ed., Leipzig, 1906);
-Hewlett, _Manual of Bacteriology_ (2nd ed., London, 1902); Hueppe,
+Hewlett, _[[Manual]] of Bacteriology_ (2nd ed., London, 1902); Hueppe,
 _Principles of Bacteriology_ (translation, London, 1899); Klein,
 _Micro-organisms and Disease_ (3rd ed., London, 1896); Kolle and
 Wassermann, _Handbuch der pathogenen Mikroorganismen_ (Jena, 1904)

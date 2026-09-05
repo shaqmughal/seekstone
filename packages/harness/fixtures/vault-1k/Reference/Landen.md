@@ -29,7 +29,7 @@ his _Mathematical Memoirs_, and in his paper in the _Philosophical
 Transactions_ for 1785. But Landen's capital discovery is that of the
 theorem known by his name (obtained in its complete form in the memoir
 of 1775, and reproduced in the first volume of the _Mathematical
-Memoirs_) for the expression of the arc of an hyperbola in terms of two
+Memoirs_) for the expression of the arc of an [[Hyperbola|hyperbola]] in terms of two
 elliptic arcs. His researches on elliptic functions are of considerable
 elegance, but their great merit lies in the stimulating effect which
 they had on later mathematicians. He also showed that the roots of a

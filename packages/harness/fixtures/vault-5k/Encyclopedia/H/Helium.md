@@ -8,12 +8,12 @@ id: 42-620
 # Helium
 
 HELIUM (from Gr. [Greek: helios], the sun), a gaseous chemical element,
-the modern discovery of which followed closely on that of argon (q.v.).
+the modern discovery of which followed closely on that of [[Argon|argon]] (q.v.).
 The Investigations of Lord Rayleigh and Sir William Ramsay had shown
 that indifference to chemical reagents did not sufficiently characterize
 an unknown gas as nitrogen, and it became necessary to reinvestigate
 other cases of the occurrence of "nitrogen" in nature. H. Miers drew
-Ramsay's attention to the work of W. F. Hillebrand, who had noticed, in
+Ramsay's attention to the work of W. F. [[Hillebrand]], who had noticed, in
 examining the mineral uraninite, that an inert gas was evolved when the
 mineral was decomposed with acid. Ramsay, repeating these experiments,
 found that the inert gas emitted refused to oxidize when sparked with
@@ -35,7 +35,7 @@ monazite. The gas also occurs in minute quantities in the common
 minerals of the earth's crust. In this case too it is associated with
 radioactive matter, which is almost ubiquitous. In two cases, however,
 it has been found in the absence of appreciable quantities of uranium
-and thorium compounds, namely in beryl, and in sylvine (potassium
+and thorium [[Compound|compounds]], namely in [[Beryl|beryl]], and in sylvine (potassium
 chloride). Helium is contained almost universally in the gases which
 bubble up with the water of thermal springs. The proportion varies
 greatly. In the hot springs of Bath it amounts to about one-thousandth
@@ -54,7 +54,7 @@ spectrum.
 Much the best practical source of helium is thorianite, a mineral
 imported from Ceylon for the manufacture of thoria. It dissolves readily
 in strong nitric acid, and the helium contained is thus liberated. The
-gas contains a certain amount of hydrogen and oxides of carbon, also
+gas contains a certain amount of hydrogen and oxides of [[Carbon|carbon]], also
 traces of nitrogen. In order to get rid of hydrogen, some oxygen is
 added to the helium, and the mixture exploded by an electric spark. All
 remaining impurities, including the excess of oxygen, can then be taken

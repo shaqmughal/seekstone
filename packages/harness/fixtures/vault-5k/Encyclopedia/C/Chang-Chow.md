@@ -7,8 +7,8 @@ type: note
 
 # Chang-Chow
 
-CHANG-CHOW, a town of China, in the province of Fu-kien, on a branch of
-the Lung Kiang, 35 m. W. of Amoy. It is surrounded by a wall 4-1/2 m. in
+CHANG-CHOW, a town of China, in the province of [[Fu-Kien|Fu-kien]], on a branch of
+the [[Lung]] Kiang, 35 m. W. of Amoy. It is surrounded by a wall 4-1/2 m. in
 circumference, which, however, includes a good deal of open ground. The
 streets are paved with granite, but are very dirty. The river is crossed
 by a curious bridge, 800 ft. long, constructed of wooden planks

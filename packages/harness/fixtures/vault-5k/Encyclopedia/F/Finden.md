@@ -21,7 +21,7 @@ Return" and the "Village Festival," after Wilkie. Later in life he
 undertook, in co-operation with his brother, aided by their numerous
 staff, the publication as well as the production of various galleries of
 engravings. The first of these, a series of landscape and portrait
-illustrations to the life and works of Byron, appeared in 1833 and
+illustrations to the life and works of [[Byron]], appeared in 1833 and
 following years, and was very successful. But by his _Gallery of British
 Art_ (in fifteen parts, 1838-1840), the most costly and best of these
 ventures, he lost the fruits of all his former success. Finden's last

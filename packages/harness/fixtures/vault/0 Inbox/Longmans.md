@@ -7,8 +7,8 @@ topic: logic-theory
 # Longmans
 
 LONGMANS, a firm of English publishers. The founder of the firm, Thomas
-Longman (1) (1699-1755), born in 1699, was the son of Ezekiel Longman
-(d. 1708), a gentleman of Bristol. Thomas was apprenticed in 1716 to
+Longman (1) (1699-1755), born in 1699, was the son of [[Ezekiel]] Longman
+(d. 1708), a [[Gentleman|gentleman]] of [[Bristol]]. Thomas was apprenticed in 1716 to
 John Osborn, a London bookseller. At the expiration of his
 apprenticeship he married Osborn's daughter, and in August 1724
 purchased the stock and household goods of William Taylor, the first
@@ -28,18 +28,18 @@ firm. He had three sons. Of these, Thomas Norton Longman (3) (1771-1842)
 succeeded to the business. In 1794 Owen Rees became a partner, and
 Thomas Brown, who was for many years after 1811 a partner, entered the
 house as an apprentice. Brown died in 1869 at the age of 92. In 1799
-Longman purchased the copyright of Lindley Murray's _English Grammar_,
+Longman purchased the [[Copyright|copyright]] of [[Lindley]] Murray's _English Grammar_,
 which had an annual sale of about 50,000 copies; he also purchased,
 about 1800, the copyright, from Joseph Cottle, of Bristol, of Southey's
-_Joan of Arc_ and Wordsworth's _Lyrical Ballads_. He published the works
+_[[Joan Of Arc|Joan of Arc]]_ and Wordsworth's _Lyrical Ballads_. He published the works
 of Wordsworth, Coleridge, Southey and Scott, and acted as London agent
 for the _Edinburgh Review_, which was started in 1802. In 1804 two more
 partners were admitted; and in 1824 the title of the firm was changed to
-Longman, Hurst, Rees, Orme, Brown & Green. In 1814 arrangements were
+Longman, [[Hurst]], Rees, Orme, Brown & Green. In 1814 arrangements were
 made with Thomas Moore for the publication of _Lalla Rookh_, for which
 he received £3000; and when Archibald Constable failed in 1826, Longmans
 became the proprietors of the _Edinburgh Review_. They issued in 1829
-Lardner's _Cabinet Encyclopaedia_, and in 1832 M'Culloch's _Commercial
+Lardner's _[[Cabinet]] Encyclopaedia_, and in 1832 M'Culloch's _Commercial
 Dictionary_.
 
 Thomas Norton Longman (3) died on the 29th of August 1842, leaving his

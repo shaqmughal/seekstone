@@ -116,7 +116,7 @@ alone used for brickmaking until modern times) are found near the surface,
 are readily worked and require little preparation, whereas the older
 sedimentary deposits are often difficult to work and necessitate the use of
 heavy machinery. These older shales, or rocky clays, may be brought into
-plastic condition by long weathering (_i.e._ by exposure to rain, frost and
+plastic condition by long weathering (_i.e._ by exposure to rain, [[Frost|frost]] and
 sun) or by crushing and grinding in water, and they then resemble ordinary
 alluvial clays in every respect.
 
@@ -357,7 +357,7 @@ The drying of bricks, which was formerly done in the open, is now, in most
 cases, conducted in a special shed heated by flues along which the heated
 gases from the kilns pass on their way to the chimney. It is important that
 the atmosphere of the drying-shed should be fairly dry, to which end
-suitable means of ventilation must be arranged (by fans or otherwise). If
+suitable means of ventilation must be arranged (by [[Fan|fans]] or otherwise). If
 the atmosphere is too moist the surface of the brick remains damp for a
 considerable time, and the moisture from the interior passes to the surface
 as water, carrying with it the soluble salts, which are deposited on the

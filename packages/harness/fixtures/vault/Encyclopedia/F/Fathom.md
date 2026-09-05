@@ -10,7 +10,7 @@ FATHOM (a word common, in various forms, to Scandinavian and Teutonic
 languages; cf. Danish _favn_, Dutch _vaam_ and Ger. _Faden_, and meaning
 "the arms extended"; the ultimate origin is a root _pet_, seen in the
 Gr. [Greek: petannunai], to spread), a measure of length, being the
-distance from the tip of one middle finger to the tip of the other, when
+distance from the tip of one middle [[Finger|finger]] to the tip of the other, when
 the arms are stretched out to their widest extent. This length has been
 standardized to a measure of 6 ft., and as such is used mainly in
 soundings as a unit for measuring the depth of the sea. "Fathom" is also

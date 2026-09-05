@@ -6,7 +6,7 @@ the military hospital of Narbonne, and subsequently studied in Paris at
 the Salpetriere under P. Pinel, whose assistant he became. In 1811 he
 was chosen physician to the Salpetriere, and in 1817 he began a course
 of lectures on the treatment of the insane, in which he made such
-revelations of the abuses existing in the lunatic asylums of France that
+revelations of the abuses existing in the lunatic [[Asylum|asylums]] of France that
 the government appointed a commission to inquire into the subject.
 Esquirol in this and other ways greatly assisted Pinel's efforts for the
 introduction of humaner methods. The asylums of Rouen, Nantes and

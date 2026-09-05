@@ -4,12 +4,12 @@ CYCLAMEN, in botany, a genus belonging to the natural order Primulaceae,
 containing about ten species native in the mountains of central Europe
 and the Mediterranean region. _C. europaeum_ (Sow-bread) is found as an
 introduced plant in copses in Kent and Sussex. The plants are
-low-growing herbs with large tuberous rootstocks, from the surface of
+low-growing [[Herb|herbs]] with large tuberous rootstocks, from the surface of
 which spring a number of broad, generally heart-shaped or kidney-shaped,
 long-stalked leaves, which in cultivated forms are often beautifully
 marbled, ribbed or splashed. The flowers are nodding, and white, pink,
-lilac or crimson in colour. The corolla has a short tube and five large
-reflexed lobes. After flowering the stalk becomes spirally coiled,
+[[Lilac|lilac]] or crimson in colour. The corolla has a short tube and five large
+reflexed [[Lobe|lobes]]. After flowering the stalk becomes spirally coiled,
 drawing the fruit down to the soil. Cyclamen is a favourite winter and
 spring flowering plant. _C. persicum_ is probably the best known. It is
 a small-growing kind bearing medium-sized leaves and numerous flowers.
@@ -32,7 +32,7 @@ warm greenhouse. The soil should never be allowed to get dry.
 
 When the seedlings appear, remove the covering, care being taken that
 they do not suffer for want of shade, water or a moist atmosphere. As
-soon as the third leaf appears, repot singly into thumb-pots in slightly
+soon as the third [[Leaf|leaf]] appears, repot singly into thumb-pots in slightly
 coarser soil, so that the crowns of the little plants are just above the
 level of the soil. In December transfer into a little richer soil,
 consisting of two parts fibrous loam broken into small bits by hand and

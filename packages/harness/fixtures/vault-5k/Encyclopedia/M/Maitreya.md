@@ -21,7 +21,7 @@ life of the historical Buddha, and have no independent value. Only the
 names differ. The document in which the original prophecy occurs was put
 together at some date during the 1st century after the Buddha's death
 (see NIKAYA). It is impossible to say whether tradition was, at that
-time, correct in attributing it to the Buddha. But whoever chose the
+time, correct in attributing it to the Buddha. But whoever [[Chose|chose]] the
 name (it is a patronymic or family, not a personal name), had no doubt
 regard to the etymological connexion with the word for "love," which is
 Metta in Pali. This would only be one of those punning allusions so
@@ -32,7 +32,7 @@ India, at a time when the incoming flood of ritualism and superstition
 threatened to overwhelm the simple teaching of the earlier Buddhism,
 wrote a Pali poem, entitled the _Anagata Vamsa_. In this he described
 the golden age of the future when, in the time of Metteyya, kings,
-ministers and people would vie one with the other in the maintenance of
+ministers and people would vie one with the other in the [[Maintenance|maintenance]] of
 the original simple doctrine, and in the restoration of the good times
 of old. The other side also claimed the authority of the future Buddha
 for their innovations. Statues of Maitreya are found in Buddhist

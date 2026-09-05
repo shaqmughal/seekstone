@@ -16,9 +16,9 @@ particular cases, and its essence is to preserve the law by suspending
 its operation, i.e. making it non-existent, in such cases. It follows,
 then, that dispensation, in its strict sense, is anticipative, i.e. it
 does not absolve from the consequences of a legal obligation already
-contracted, but avoids a breach of the law by suspending the obligation
+contracted, but avoids a [[Breach|breach]] of the law by suspending the obligation
 to conform to it, e.g. a dispensation or licence to marry within the
-prohibited degrees, or to hold benefices in plurality. The term is,
+prohibited degrees, or to hold [[Benefice|benefices]] in plurality. The term is,
 however, frequently used of the power claimed and exercised by the
 supreme legislative authority of altering or abrogating in particular
 cases conditions established under the existing law and of releasing
@@ -27,7 +27,7 @@ granted by the pope _ex plenitudine potestatis_ from the obligation of
 celibacy, from religious and other vows, from _matrimonium ratum_, _non
 consummatum_, &c.
 
-1. _Ecclesiastical Law._--In the theory of the canon law the dispensing
+1. _[[Ecclesiastical Law]]._--In the theory of the canon law the dispensing
 power is the corollary of the legislative, the authority that makes
 laws, and no other, having power to suspend them. It follows that the
 law of nature (_jus naturae_) and _a fortiori_ the law of God (_jus
@@ -41,7 +41,7 @@ other prohibited degrees, e.g. uncle and niece.
 
 The dispensing power, like the legislative authority, was formerly
 invested in general councils and even in provincial synods; but in the
-West, with the gradual centralization of authority at Rome, it became
+West, with the [[Gradual|gradual]] centralization of authority at Rome, it became
 ultimately vested in the pope as the supreme lawgiver of the Church.
 Subject, however, to the supreme jurisdiction of the pope, the power of
 dispensation continued to reside in the other organs of the Church in
@@ -58,12 +58,12 @@ diligenti, quantum fieri potest temperemus.[1] Dispensations from the
 observance of traditional rules were, however, during the early
 centuries exceedingly rare, and there are more instances of the popes
 repudiating than of their exercising the power to grant them. Thus
-Celestine I. (d. 432) wrote: "The rules govern us, not we the rules: we
+[[Celestine]] I. (d. 432) wrote: "The rules govern us, not we the rules: we
 are subject to the canons, since we are the servants of the precepts of
 the canons" (_Epist. 3 ad Episcopos Illyrici_); and Pope Zozimus wrote
 even more strongly: "This see possesses no authority to make any
 concession or change; for with us abides antiquity firmly rooted
-(_inconvulsis radicibus_), reverence for which the decrees of the
+(_inconvulsis radicibus_), reverence for which the [[Decree|decrees]] of the
 Fathers enjoined." As time went on, however, and the Church expanded,
 this rigidly conservative attitude proved impossible to maintain, and
 the principle of "tempering" the law when forced to do so "by the
@@ -78,14 +78,14 @@ their influence. Dispensations to hold benefices in plurality formed,
 with provisions and the papal claim to the right of direct appointment,
 a powerful means for extending the patronage of the Holy See and
 therefore its hold over the clergy, and from the 13th century onwards
-this abuse assumed vast proportions (Hinschius iii. p. 250). Even more
+this abuse assumed vast proportions ([[Hinschius]] iii. p. 250). Even more
 scandalous was the almost unrestrained traffic in licences and
 dispensations at Rome, which grew up, at least as early as the 14th
-century, owing to the fees charged for such dispensations having come to
+century, owing to the [[Fee|fees]] charged for such dispensations having come to
 be regarded by the Curia as a regular source of revenue (Woker, _Das
 kirchliche Finanzwesen der Päpste_, Nördlingen, 1878, pp. 75, 160). Loud
 complaints of these abuses were raised in the reforming councils of
-Constance and Basel in the 15th century, but nothing was done
+Constance and [[Basel]] in the 15th century, but nothing was done
 effectually to check them.
 
 The actual practice of the Roman Catholic Church is based upon the
@@ -99,7 +99,7 @@ were decreed "saving the authority of the Holy See" (_Sess._ xxv. cap.
 21, de ref.). At the same time it was laid down in respect of all
 dispensations, whether papal or other, that they were to be granted only
 for just and urgent causes, or in view of some decided benefit to the
-Church (urgens justaque causa et major quandoque utilitas), and in all
+Church (urgens justaque causa et [[Major|major]] quandoque utilitas), and in all
 cases _gratis_. The payment of money for a dispensation was _ipso facto_
 to make the dispensation void (_Sess._ xxv. cap. 18, de ref.).
 
@@ -111,10 +111,10 @@ Penitentiary, which latter also possessed _in foro externo_ the right to
 grant dispensations in matrimonial causes to poor people. Since 1908 the
 Dataria only deals with dispensations in matters concerning benefices,
 dispensations in matrimonial matters having been transferred to the new
-Congregation on the discipline of the sacraments (see CURIA ROMANA).
+Congregation on the discipline of the sacraments (see [[Curia Romana|CURIA ROMANA]]).
 
 The regular form of dispensation is the _forma commissaria_ (_Trid.
-Sess._ xxii. cap. 5, de ref.), i.e. a mandate to the bishop to grant the
+Sess._ xxii. cap. 5, de ref.), i.e. a [[Mandate|mandate]] to the bishop to grant the
 dispensation, after due inquiry, in the pope's name. In exceptional
 cases, e.g. sovereigns or bishops, the dispensation is sent direct to
 the petitioner (_forma gratiosa_). Dispensations are nominally
@@ -131,7 +131,7 @@ royal _imprimatur_, a regular tariff of the sums for which in any given
 case a dispensation might be obtained. That the "urgent and just cause"
 was, in the circumstances, a very minor consideration was to be
 expected, and the enlightened pope Benedict XIV., himself a canon lawyer
-of eminence, complained "Dispensationem non raro concedi in Dataria,
+of [[Eminence|eminence]], complained "Dispensationem non raro concedi in Dataria,
 sine causa, nempe ob eleemosynam quae praestatur" (Inst. 87, No. 26). It
 may be added that the worst abuses of this system have long since
 disappeared. The bishops have their own correspondents at Rome, and one
@@ -141,7 +141,7 @@ overcharge.
 
 Bishops are by right (_jure ordinario_) competent to dispense in all
 cases expressly reserved to them by the canon law, e.g. in the matter of
-publication of banns of marriage. They possess besides special powers
+publication of [[Banns Of Marriage|banns of marriage]]. They possess besides special powers
 delegated to them by the pope and renewed every five years (_facultates
 quinquennales_), or by virtue of faculties granted to them personally
 (_facultates extraordinariae_), e.g. to dispense from rules of
@@ -163,7 +163,7 @@ benefices at once, to issuing licences for non-residence, and in
 matrimonial cases to the issuing of special licences. The dispensing
 power of bishops in the Church of England survives only in the right to
 grant marriage licences, i.e. dispensations from the obligation to
-publish the banns. Though, however, these licences and dispensations are
+publish the [[Bann|banns]]. Though, however, these licences and dispensations are
 given under the archiepiscopal and episcopal seals, they are actually
 issued by the commissaries of faculties and vicars-general
 (chancellors), independently, in virtue of the powers conferred on them
@@ -178,7 +178,7 @@ licensing them.
   See Hinschius, _Kirchenrecht_ (Berlin, 1883), iii. 250, &c.; article
   "Dispensation" by Hinschius in Herzog-Hauck, _Realencyklopadie_
   (Leipzig, 1898); article "Dispensation" in Wetzer and Welte's
-  _Kirchenlexikon_ (2nd ed. Freiburg im Breisgau, 1882-1901); F.
+  _Kirchenlexikon_ (2nd ed. [[Freiburg]] im [[Breisgau]], 1882-1901); F.
   Lichtenberger, _Encyclopédie des sciences religieuses_ (Paris, 1878),
   s.v. "Dispense"; Phillimore, _Eccl. Law_.
 
@@ -206,7 +206,7 @@ the dispensing power of the crown by limiting it to cases of individual
 breaches of penal statutes where no third party loses a right of action,
 and where the breach is not continuous, at the same time denying the
 power of the crown to dispense with any general penal law. This
-judgment, as Sir William Anson points out, only showed the extreme
+judgment, as Sir William [[Anson]] points out, only showed the extreme
 difficulty of limiting the power ascribed to the crown, a standing
 grievance from the time that parliament had risen to be a constituent
 part of the state. So long as the legal principle by which the law was
@@ -217,7 +217,7 @@ the Revolution of 1688. The supreme crisis came owing to the use made by
 James II. of the dispensing power. His action in dispensing with the
 Test Act, in order to enable Roman Catholics to hold office under the
 crown, was supported by the courts in the test case of _Godden_ v.
-_Hales_, but it made the Revolution inevitable. By the Bill of Rights
+_[[Hales]]_, but it made the Revolution inevitable. By the Bill of Rights
 the exercise of the dispensing power was forbidden, except as might be
 permitted by statute. At the same time the legality of its exercise in
 the past was admitted by the clause maintaining the validity of

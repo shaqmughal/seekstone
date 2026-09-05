@@ -11,7 +11,7 @@ MANOMETER (Gr. [Greek: manos], thin or loose; [Greek: metron], a
 measure), an instrument for measuring the pressures exerted by gases or
 vapours. An alternative name is pressure gauge, but this term may
 conveniently be restricted to manometers used in connexion with
-steam-boilers, &c. The principle of hydrostatics suggest the most common
+steam-boilers, &c. The principle of [[Hydrostatics|hydrostatics]] suggest the most common
 forms. Suppose we have a U tube (fig. 1), containing a liquid: if the
 pressures on the surfaces of the liquid be equal, then the surfaces will
 be at the same height. If, on the other hand, the pressure in one limb
@@ -34,7 +34,7 @@ liquid used.
   column of height a b. The liquid commonly used is mercury. If a scale
   be placed behind the limbs of the tube, so that the difference a b can
   be directly determined, then the pressure in a is at once expressible
-  as P + a b in millimetres or inches of mercury, where P is the
+  as P + a b in millimetres or [[Inch|inches]] of mercury, where P is the
   atmospheric pressure, known from an ordinary barometric observation.
   In the "closed tube" form (fig. 2) the calculation is not so simple,
   for the variation of pressure on the mercury surface in the closed
@@ -59,7 +59,7 @@ liquid used.
 
 
 
-MANOR. Any definition of a manor, in land tenure, must take note of two
+MANOR. Any [[Definition|definition]] of a manor, in land tenure, must take note of two
 elements--economic and political. The manor has an estate for its basis,
 although it need not coincide with an estate, but may be wider. It is
 also a political unit, a district formed for purposes of government,
@@ -76,7 +76,7 @@ not only in France, Germany, Italy, Spain, but also, to a certain
 extent, in the Byzantine Empire, Russia, Japan, &c. It is especially
 representative of an aristocratic stage in the development of European
 nations. When tribal notions and arrangements ceased to be sufficient
-for upholding their commonwealths, when social and political life had to
+for upholding their [[Commonwealth|commonwealths]], when social and political life had to
 be built up on the basis of land-tenure, the type of manorial
 organization came forward in natural course. It was closely connected
 with natural economy, and was suited to a narrow horizon of economic
@@ -144,8 +144,8 @@ engaged in base peaceful work was also deeply engraved in the minds of
 the fighting and conquering tribes. On the other hand the downfall of
 complicated forms of civilization and civil intercourse rendered
 necessary a kind of subjection in which tributary labourers were left to
-a certain extent to manage their own affairs. The Germanic conqueror was
-unable to move slaves about like draughts: he had no scope for a
+a certain extent to [[Manage|manage]] their own affairs. The Germanic conqueror was
+unable to move slaves about like [[Draughts|draughts]]: he had no scope for a
 complicated administration of capital and work. The natural outcome was
 to have recourse to serfdom with its convenient system of tribute and
 services.
@@ -173,7 +173,7 @@ a _casa indominicata_, or manor-house, some holdings (_mansi_) of free
 men (_ingenuiles_), of serfs (_serviles_), and perhaps of half-free
 people (_lidiles_). The rents and services of this dependent population
 are stated in detail, as in later custumals, and there is information
-about the agricultural implements, the stores and stock on the
+about the agricultural [[Implement|implements]], the stores and stock on the
 home-farm. Thus the economic basis of the manor exists in more or less
 complete order, but it cannot be said as yet to form the prevailing type
 of land tenure in the country. Holdings of independent free men and
@@ -242,11 +242,11 @@ general characterization of the latter.
   cases one _seigneur_ held the pleas in a certain place for six days in
   the week, while some competitor of his possessed jurisdiction during
   the seventh. A certain order was brought into this feudal chaos by the
-  classification of judiciary functions according to the four categories
+  [[Classification|classification]] of judiciary functions according to the four categories
   of high, middle, low and tenurial justice. The scope of the first
   three subdivisions is sufficiently explained by their names; the
   fourth concerned cases arising from subinfeudation. As a rule the
-  baron or _seigneur_ sat in justice with a court of assessors or peers,
+  baron or _seigneur_ sat in justice with a court of [[Assessor|assessors]] or peers,
   but the constitution of such courts varied a great deal. They
   represented partly the succession of the old popular courts with their
   _scabini_, partly courts of vassals and tenants. In strict feudal law
@@ -309,7 +309,7 @@ general characterization of the latter.
   tolneta_) and of instituting monopolies. These latter were of common
   occurrence, and might take the shape, for instance, of forcing the
   inhabitants to make use of the lord's mill (_moulin banal_), or of his
-  oven (_four banal_), or of his bull (_taureau banal_).
+  oven (_four banal_), or of his [[Bull|bull]] (_taureau banal_).
 
 In Germany the history of the manorial system is bound up with the
 evolution of the _Grundherrschaft_ (landlordship) as opposed to
@@ -351,11 +351,11 @@ aristocratic authority.
   (_Nouvelle revue de droit français et étranger_, 1898); T. Flach, _Les
   Origines de l'ancienne France_, I., II., III. (1886); Paul Viollet,
   _Histoire des institutions de la France_, I., II. (1890, 1898); A.
-  Luchaire, _Manuel des institutions françaises_ (1892); G. Waitz,
+  Luchaire, _[[Manuel]] des institutions françaises_ (1892); G. Waitz,
   _Deutsche Verfassungsgeschichte_, I.-VIII. (1865-1883); K. T. von
   Inama-Sternegg, _Deutsche Wirtschaftsgeschichte_, I., II. (1879-1891);
   K. Lamprecht, _Deutsches Wirtschaftsleben_, I.-IV. (1885); A. Meitzen,
-  _Ansiedelungen, Wanderungen und Agrarwesen der Völker Europas_, I.-IV.
+  _Ansiedelungen, Wanderungen und Agrarwesen der Völker [[Europa|Europas]]_, I.-IV.
   (1895 ff.); W. Wittich, _Die Grundherrschaft in Nordwestdeutschland_
   (1896); G. F. von Maurer, _Geschichte der Mark-, Dorf- und
   Hofverfassung in Deutschland_; and F. Seebohm, _The English Village
@@ -377,13 +377,13 @@ surrounded by arable land divided into large fields, two or three in
 number. Each of these fields was divided again into shots or furlongs,
 and each of the shots was broken up into cultivated strips a pole wide,
 each containing an acre, separated by narrow balks of turf. There were
-also certain meadows for supplying hay; and beyond the cultivated land
+also certain meadows for supplying [[Hay|hay]]; and beyond the cultivated land
 lay the wood and waste of the manor. Portions of arable or meadow land
 might be found apart from the organization of the remainder; the lord of
 the manor might have a park, and each householder a garden, but the land
 of the manor was the open fields, the meadows and the wastes or common.
 The condition of the inhabitants of such a manor is as complex as its
-geography. At the head of the society came the lord of the manor, with
+[[Geography|geography]]. At the head of the society came the lord of the manor, with
 his hall, court, or manor-house, and the land immediately about it, and
 his demesne both in the fields and in the meadow land. The arable
 demesne consisted of certain of the acre strips lying scattered over the
@@ -420,7 +420,7 @@ as interpreted by the manor court. Moreover, he was not a slave, he was
 not bought and sold apart from his holding. The hardship of his
 condition lay in the services due from him. As a rule a villein paid for
 his holding in money, in labour and in kind. In money he paid, firstly,
-a small fixed rent called rent of assize; and, secondly, dues under
+a small fixed rent called rent of [[Assize|assize]]; and, secondly, dues under
 various names, partly in lieu of services commuted into money payments,
 and partly for the privileges and profits enjoyed by him on the waste of
 the manor. In labour he paid more heavily. Week by week he had to come
@@ -434,7 +434,7 @@ manor was provided by the villeins, even to places as much as a hundred
 miles away from the manor. The mending of the ploughs, hedging,
 ditching, sheepshearing and other miscellaneous work also fell upon him,
 and it is sometimes hard to see what time remained to him to work upon
-his own holding. In kind he usually rendered honey, eggs, chickens and
+his own holding. In kind he usually rendered honey, [[Egg|eggs]], chickens and
 perhaps a ploughshare, but these payments were almost always small in
 value. Another class of inhabitants remains to be mentioned--the
 cotters. These are the poor of the manor, who hold a cottage and garden,
@@ -481,7 +481,7 @@ meeting-point of the lord and the tenants both free and unfree, that any
 question touching on the power and constitution of the court was bound
 to affect the interests of the lord and the tenants, and that there was
 no external power capable of settling such questions as did arise. Amid
-this maze a few clear lines can be laid down. In the first place, so far
+this [[Maze|maze]] a few clear lines can be laid down. In the first place, so far
 as the 13th century goes, all the discussion that has collected about
 the terms court leet, court baron and court customary may be put aside;
 it relates to questions which in the 13th century were only just
@@ -491,7 +491,7 @@ before it may be free or unfree, but the court is the same. Its
 president was the lord's steward; the bailiff was the lord's
 representative and the public prosecutor; and the tenants of the manor,
 both free and unfree, attended at the court and gave judgment in the
-cases brought before it. To modern ears the constitution sounds
+cases brought before it. To modern [[Ear|ears]] the constitution sounds
 unfamiliar. The president of the court settled the procedure of the
 court, carried it out, and gave the final sentence, but over the law of
 the court he had no power. All that is comprised in the word "judgment"
@@ -504,7 +504,7 @@ and that in most manorial courts the method employed was the wager of
 law. The business of the court may be divided into criminal, manorial
 and civil. Its powers under the first head depended on the franchises
 enjoyed by the lord in the particular manor; for the most part only
-petty offences were triable, such as small thefts, breaches of the
+petty offences were triable, such as small thefts, [[Breach|breaches]] of the
 assize of bread and ale, assaults, and the like; except under special
 conditions, the justice of great offences remained in the king. But
 offences against the custom of the manor, such as bad ploughing,
@@ -515,7 +515,7 @@ officers, and had some power of making regulations for the management of
 the manor; but its most important function was the recording of the
 surrenders and admittances of the villein tenants. Into the history and
 meaning of this form of land transfer it is not necessary to enter here.
-But it must be noted that the conveyance of a villein's holding was
+But it must be noted that the [[Conveyance|conveyance]] of a villein's holding was
 effected by the vendor surrendering his land to the lord, who thereupon
 admitted the purchaser to the holding. The same procedure was employed
 in all cases of transfer of land, and the transaction was regularly
@@ -595,16 +595,16 @@ an attenuated form.
   See G. L. von Maurer, _Einleitung in die Geschichte der Hof-, Mark-,
   Dorf- und Stadtverfassung in Deutschland_ (Erlangen, 1856); G. Nasse,
   _Zur Geschichte der mittelälterlichen Feldgemeinschaft in England_
-  (Bonn, 1869); H. S. Maine, _Village Communities in the East and West_
+  ([[Bonn]], 1869); H. S. [[Maine]], _Village Communities in the East and West_
   (Cambridge, 1872); F. Seebohm, _The English Village Community_ (1883);
   W. J. Ashley, _English Economic History_, pts. i. ii. (1888-1893); F.
   W. Maitland, _Select Pleas in Manorial Courts_ (London, Selden
   Society, 1888); P. Vinogradoff, _Villainage in England_ (Cambridge,
   1892); _The Growth of the Manor_ (1905) and _English Society in the
   11th Century_ (1908); A. Meitzen, _Siedelung und Agrarwesen der
-  Westgermanen und Ostgermanen_ (Berlin, 1896); W. Cunningham, _Growth
+  Westgermanen und Ostgermanen_ (Berlin, 1896); W. [[Cunningham]], _Growth
   of English Industry and Commerce_ (Cambridge, 1896); F. Pollock and F.
-  W. Maitland, _History of English Law_ (Cambridge, 1896); F. W.
+  W. Maitland, _History of [[English Law]]_ (Cambridge, 1896); F. W.
   Maitland, _Doomsday Book and Beyond_ (Cambridge, 1897); and C. M.
   Andrews, _The Old English Manor_ (1892).     (C. G. Cr.)
 

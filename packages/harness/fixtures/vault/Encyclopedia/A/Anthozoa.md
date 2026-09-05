@@ -8,7 +8,7 @@ type: reference
 # Anthozoa
 
 ANTHOZOA (i.e. "flower-animals"), the zoological name for a class of
-marine polyps forming "coral" (q.v.). Although corals have been familiar
+marine polyps forming "[[Coral|coral]]" (q.v.). Although corals have been familiar
 objects since the days of antiquity, and the variety known as the
 precious red coral has been for a long time an article of commerce in
 the Mediterranean, it was only in the 18th century that their true
@@ -16,14 +16,14 @@ nature and structure came to be understood. By the ancients and the
 earlier naturalists of the Christian era they were regarded either as
 petrifactions or as plants, and many supposed that they occupied a
 position midway between minerals and plants. The discovery of the animal
-nature of red coral is due to J.A. de Peyssonel, a native of Marseilles,
+nature of red coral is due to J.A. de Peyssonel, a native of [[Marseilles]],
 who obtained living specimens from the coral fishers on the coast of
-Barbary and kept them alive in aquaria. He was thus able to see that the
+[[Barbary]] and kept them alive in aquaria. He was thus able to see that the
 so-called "flowers of coral" were in fact nothing else than minute
 polyps resembling sea-anemones. His discovery, made in 1727, was
 rejected by the Academy of Sciences of France, but eventually found
 acceptance at the hands of the Royal Society of London, and was
-published by that body in 1751. The structure and classification of
+published by that body in 1751. The structure and [[Classification|classification]] of
 polyps, however, were at that time very imperfectly understood, and it
 was fully a century before the true anatomical characters and systematic
 position of corals were placed on a secure basis.
@@ -38,7 +38,7 @@ or zooid of _Actinia equina_ has the form of a column fixed by one
 extremity, called the _base_, to a rock or other object, and bearing at
 the opposite extremity a crown of _tentacles_. The tentacles surround an
 area known as the _peristome_, in the middle of which there is an
-elongated mouth-opening surrounded by tumid lips. The mouth does not
+elongated mouth-opening surrounded by tumid [[Lip|lips]]. The mouth does not
 open directly into the general cavity of the body, as is the case in a
 hydrozoan polyp, but into a short tube called the _stomodaeum_, which in
 its turn opens below into the general body-cavity or _coelenteron_. In
@@ -51,7 +51,7 @@ particularly described hereafter. The elongation of the mouth and
 stomodaeum confer a bilateral symmetry on the body of the zooid, which
 is extended to other organs of the body. In Actinia, as in all Anthozoan
 zooids, the coelenteron is not a simple cavity, as in a Hydroid, but is
-divided by a number of radial folds or curtains of soft tissue into a
+divided by a number of radial [[Fold|folds]] or [[Curtain|curtains]] of soft tissue into a
 corresponding number of radial chambers. These radial folds are known as
 _mesenteries_, and their position and relations may be understood by
 reference to figs. 1 and 2. Each mesentery is attached by its upper
@@ -99,7 +99,7 @@ middle layer or mesogloea is not originally a cellular layer, but a
 gelatinoid structureless substance, secreted by the two cellular layers.
 In the course of development, however, cells from the ectoderm and
 endoderm may migrate into it. In _Actinia equina_ the mesogloea consists
-of fine fibres imbedded in a homogeneous matrix, and between the fibres
+of fine [[Fibres|fibres]] imbedded in a homogeneous [[Matrix|matrix]], and between the fibres
 are minute branched or spindle-shaped cells. For further details of the
 structure of Actinians, the reader should consult the work of O. and R.
 Hertwig.
@@ -158,7 +158,7 @@ spicules, enlarged.]
   form a matrix in which spicules are imbedded (_Keroeides, Meistodes_).
 
   [Illustration: FIG. 4.--Transverse section of an Alcyonarian zooid mm,
-  Mesenteries; mb, muscle banners; sc, sulcus; st, stomodaeum.]
+  Mesenteries; mb, muscle [[Banners|banners]]; sc, sulcus; st, stomodaeum.]
 
   Nearly all the Alcyonaria are colonial. Four solitary species have
   been described, viz. _Haimea funebris_ and _H. hyalina, Hartea
@@ -181,7 +181,7 @@ spicules, enlarged.]
   zooids arise at intervals. In _Clavularia_ and its allies each
   outgrowth contains several solenia, and the outgrowths may take the
   form of flat expansions, composed of a number of solenial tubes felted
-  together to form a lamellar surface of attachment. Such outgrowths are
+  together to form a lamellar surface of [[Attachment|attachment]]. Such outgrowths are
   called _stolons_, and a stolon may be simple, i.e. contain only one
   solenium, as in _Cornularia_, or may be complex and built up of many
   solenia, as in _Clavularia_. Further complications arise when the
@@ -236,7 +236,7 @@ spicules, enlarged.]
 
   In the order ALCYONACEA the colony consists of bunches of elongate
   cylindrical zooids, whose proximal portions are united by solenia and
-  compacted, by fusion of their own walls and those of the solenia, into
+  compacted, by [[Fusion|fusion]] of their own walls and those of the solenia, into
   a fleshy mass called the coenenchyma. Thus the coenenchyma forms a
   stem, sometimes branched, from the surface of which the free portions
   of the zooids project. The skeleton of the Alcyonacea consists of
@@ -244,8 +244,8 @@ spicules, enlarged.]
   Nephthyidae, so abundant and so closely interlocked as to form a
   tolerably firm and hard armour. The order comprises the families
   _Xeniidae, Alcyonidae_ and _Nephthyidae_. _Alcyonium digitatum_, a
-  pink digitate form popularly known as "dead men's fingers," is common
-  in 10-20 fathoms of water off the English coasts.
+  pink digitate form popularly known as "dead men's [[Finger|fingers]]," is common
+  in 10-20 [[Fathom|fathoms]] of water off the English coasts.
 
   [Illustration: FIG. 7.--The sea-fan (_Gorgonia cavolinii_).]
 
@@ -263,7 +263,7 @@ spicules, enlarged.]
   indistinct axis; in the remainder the medulla is devoid of solenia,
   and in the _Melitodidae_ and _Corallidae_ it forms a dense axis, which
   in the _Melitodidae_ consists of alternate calcareous and horny
-  joints. The precious red coral of commerce, _Corallium rubrum_ (fig.
+  [[Joints|joints]]. The precious red coral of commerce, _Corallium rubrum_ (fig.
   6), a member of the family _Corallidae_, is found at depths varying
   from 15 to 120 fathoms the Mediterranean Sea, chiefly on the African
   coast. It owes its commercial value to the beauty of its hard red
@@ -307,7 +307,7 @@ spicules, enlarged.]
   or sea-pens, which are remarkable from the fact that the colony is not
   fixed by the base to a rock or other object, but is imbedded in sand
   or mud by the proximal portion of the stem known as the peduncle. In
-  the typical genus, Pennatula (fig. 8), the colony looks like a feather
+  the typical genus, Pennatula (fig. 8), the colony looks like a [[Feather|feather]]
   having a stem divisible into an upper moiety or rachis, bearing
   lateral central leaflets (pinnae), and a lower peduncle, which is
   sterile and imbedded in sand or mud. The stem represents a greatly
@@ -351,9 +351,9 @@ spicules, enlarged.]
   from side to side. The surfaces are pitted all over with perforations
   of two kinds, viz. larger star-shaped cavities, called _calices_, in
   which the zooids are lodged, and very numerous smaller round or
-  polygonal apertures, which in life contain as many short unbranched
+  polygonal [[Aperture|apertures]], which in life contain as many short unbranched
   tubes, known as the _coenenchymal tubes_ (fig. 9, A). The walls of the
-  calices and coenenchymal tubes are formed of flat plates of calcite,
+  calices and coenenchymal tubes are formed of flat plates of [[Calcite|calcite]],
   which are so disposed that the walls of one tube enter into the
   composition of the walls of adjacent tubes, and the walls of the
   calices are formed by the walls of adjacent coenenchymal tubes. Thus
@@ -372,7 +372,7 @@ spicules, enlarged.]
   coerulea_ is found between tide-marks on the shore platforms of coral
   islands. The order was more abundantly represented in Palaeozoic times
   by the _Heliolitidae_ from the Upper and Lower Silurian and the
-  Devonian, and by the _Thecidae_ from the Wenlock limestone. In
+  Devonian, and by the _Thecidae_ from the Wenlock [[Limestone|limestone]]. In
   _Heliolites porosus_ the colonies had the form of spheroidal masses;
   the calices were furnished with twelve pseudosepta, and the
   coenenchymal tubes were more or less regularly hexagonal.
@@ -506,7 +506,7 @@ spicules, enlarged.]
   groove in the stomodaeum, which appears to be the sulculus. The
   mesenteries are numerous, and the longitudinal muscles, though
   distinguishable, are so feebly developed that there are no
-  muscle-banners. The larval forms of the type genus _Cerianthus_ float
+  muscle-banners. The [[Larval Forms|larval forms]] of the type genus _Cerianthus_ [[Float|float]]
   freely in the sea, and were once considered to belong to a separate
   genus, _Arachnactis_. In this larva four pairs of mesenteries having
   the typical Edwardsian arrangement are developed, but the fifth and
@@ -584,7 +584,7 @@ from the calcareous skeleton of all Alcyonaria except Heliopora. It is
 formed, not from fused spicules, but as a secretion of a special layer
 of cells derived from the basal ectoderm, and known as _calicoblasts_.
 The skeleton or corallum of a typical solitary coral--the common
-Devonshire cup-coral _Caryophyllia smithii_ (fig. 15) is a good
+[[Devonshire]] cup-coral _Caryophyllia smithii_ (fig. 15) is a good
 example--exhibits the followings parts:--(1) The _basal plate_, between
 the zooid and the surface of attachment. (2) The _septa_, radial plates
 of calcite reaching from the periphery nearly or quite to the centre of
@@ -619,7 +619,7 @@ developed, the remainder being very feebly represented.
 [Illustration: FIG. 16.--Tangential section of a larva of _Astroides
 calicularis_ which has fixed itself on a piece of cork. ec, Ectoderm;
 en, endoderm; mg, mesogloea; m, m, mesenteries; s, septum; b, basal
-plate formed of ellipsoids of carbonate of lime secreted by the basal
+plate formed of [[Ellipsoid|ellipsoids]] of carbonate of lime secreted by the basal
 ectoderm; ep, epitheca. (After von Koch.)]
 
 Though the corallum appears to live within the zooid, it is
@@ -867,7 +867,7 @@ knowledge of coral structure:--
   Family 2. TURBINOLIDAE.--Solitary, rarely colonial corals, with
   radially arranged septa and without tabulae. Typical
   genera--_Flabellum_, Lesson. _Turbinolia_, M. Edw. and H.
-  _Caryophyllia_, Lamarck. _Sphenotrochus_, Moseley, &c.
+  _Caryophyllia_, [[Lamarck]]. _Sphenotrochus_, Moseley, &c.
 
   Family 3. AMPHIASTRAEIDAE.--Mainly colonial, rarely solitary corals,
   with radial septa, but bilateral arrangement indicated by persistence
@@ -876,7 +876,7 @@ knowledge of coral structure:--
 
   Family 4. STYLINIDAE.--Colonial corals allied to the Amphiastraeidae,
   but with radially symmetrical septa arranged in cycles. Typical
-  genera--_Stylina_, Lamarck (Jurassic). _Convexastraea_, D'Orb.
+  genera--_Stylina_, Lamarck ([[Jurassic]]). _Convexastraea_, D'Orb.
   (Jurassic). _Isastraea_, M. Edw. and H.(Jurassic). Ogilvie refers the
   modern genus _Galaxea_ to this family.
 
@@ -910,7 +910,7 @@ knowledge of coral structure:--
 
   Family 9. CYATHOPHYLLIDAE.--Solitary and colonial aporose corals.
   Tabulae and vesicular endotheca present. Septa numerous, generally
-  radial, seldom pinnate. Typical genera--_Cyathophyllum_, Goldfuss
+  radial, seldom pinnate. Typical genera--_Cyathophyllum_, [[Goldfuss]]
   (Devonian and Carboniferous). _Moseleya_, Quelch (recent).
 
   Family 10. ASTRAEIDAE.--Aporpse, mainly colonial corals, massive,
@@ -923,7 +923,7 @@ knowledge of coral structure:--
   Family 11. FUNGIDAE.--Solitary and colonial corals, with numerous
   radial septa united by synapticulae. Typical genera--_Lophoseris_, M.
   Edw. and H. _Thamnastraea_, Le Sauvage. _Leptophyllia_, Reuss
-  (Jurassic and Cretaceous). _Fungia_, Dana. _Siderastraea_, Blainv.
+  (Jurassic and Cretaceous). _Fungia_, [[Dana]]. _Siderastraea_, Blainv.
 
 
     GROUP D.
@@ -953,20 +953,20 @@ knowledge of coral structure:--
 
   AUTHORITIES.--The following list contains only the names of the more
   important and more general works on the structure and classification
-  of corals and on coral reefs. For a fuller bibliography the works
-  marked with an asterisk should be consulted: * A. Andres, _Fauna und
-  Flora des Golfes von Neapel_, ix. (1884); H.M. Bernard, "Catalogue of
+  of corals and on coral reefs. For a [[Fuller|fuller]] bibliography the works
+  marked with an [[Asterisk|asterisk]] should be consulted: * A. Andres, _Fauna und
+  Flora des [[Golf|Golfes]] von Neapel_, ix. (1884); H.M. [[Bernard]], "[[Catalogue]] of
   Madreporarian Corals" in Brit. Museum, ii. (1896), iii. (1897); * G.C.
-  Bourne, "Anthozoa," in E. Ray Lankester's _Treatise on Zoology_, vol.
+  [[Bourne]], "Anthozoa," in E. Ray Lankester's _Treatise on Zoology_, vol.
   ii. (London, 1900); G. Brook, "_Challenger_ Reports," _Zoology_,
   xxxii. (1899) (_Antipatharia_); "Cat. Madrep. Corals," Brit. Museum,
   i. (1893); D.C. Danielssen, "Report Norwegian North Atlantic Exploring
   Expedition," _Zoology_, xix. (1890); J.E. Duerden, "Some Results on
   the Morphology and Development of Recent and Fossil Corals," _Rep.
   Brit. Association_, 1903, pp. 684-685; "The Morphology of the
-  Madreporaria," _Biol. Bullet_, vii. pp. 79-104; P.M. Duncan, _Journ.
-  Linnean Soc._ xviii. (1885); P.H. Gosse, _Actinologia britannica_
-  (London, 1860); O. and R. Hertwig, _Die Actinien_ (Jena, 1879); R.
+  Madreporaria," _Biol. [[Bullet]]_, vii. pp. 79-104; P.M. [[Duncan]], _Journ.
+  Linnean Soc._ xviii. (1885); P.H. [[Gosse]], _Actinologia britannica_
+  (London, 1860); O. and R. Hertwig, _Die Actinien_ ([[Jena]], 1879); R.
   Hertwig, "_Challenger_ Reports," _Zoology_, vi. (1882) and xxvi.
   (1888); * C.B. Klunzinger, _Die Korallthiere des Rothen Meeres_
   (Berlin, 1877); * G. von Koch, _Fauna und Flora des Golfes van

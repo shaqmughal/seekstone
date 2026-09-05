@@ -7,20 +7,20 @@ type: article
 
 # Bankipur
 
-BANKIPUR, an ancient village on the Hugli river in the Bengal Presidency,
-near the modern Palta above Barrackpore. It has disappeared from the map,
+BANKIPUR, an ancient village on the [[Hugli]] river in the [[Bengal]] Presidency,
+near the modern Palta above Barrackpore. It has disappeared from the [[Map|map]],
 but is famous as the principal settlement of the ill-fated Ostend Company,
 the one great effort made by Germany to secure a foothold in India. The
 Ostend Company was formed in 1722-1723, and with a capital of less than a
 million sterling founded two settlements, one at Coblom (Covelong) on the
 Madras coast between the English Madras and the Dutch Sadras, and the other
-on the Hugli between the English Calcutta and the Dutch Chinsura. Both
+on the Hugli between the English [[Calcutta]] and the Dutch [[Chinsura]]. Both
 English and Dutch were offended and in 1727, in order to obtain the
 European guarantee for the Pragmatic Sanction, the court of Vienna resolved
 to sacrifice the Company and suspended its charter. It became bankrupt in
 1784 and ceased to exist in 1793. But in the meantime in 1733 the English
 and Dutch stirred up the Mahommedan general at Hugli to pick a quarrel. He
-attacked Bankipur and the garrison of only fourteen persons set sail for
+attacked Bankipur and the [[Garrison|garrison]] of only fourteen persons set sail for
 Europe. Thus German interests disappeared from India.
 
 BANK-NOTES. For our present purpose we include in this description all
@@ -32,7 +32,7 @@ written by hand. They were usually for large amounts (£40 and upwards) and
 were printed upon water-marked paper; and, although no precautions were
 taken in the engraving to prevent fraudulent imitation, forgeries were
 comparatively rare. But, when at the end of the 18th century small notes
-for £1 and £2 were put in circulation, forgery became rife, as many as 352
+for £1 and £2 were put in circulation, [[Forgery|forgery]] became rife, as many as 352
 persons being convicted of this crime in England in a single year; and from
 that time to the present a constant trial of skill has been going on
 between the makers of bank-notes and the counterfeiters. Engine-turned
@@ -45,7 +45,7 @@ reproduction Henry Bradbury in 1856 introduced anti-photographic bank-note
 printing, in which the essential portions of the note were printed in one
 colour and over this another protective colour was placed. A photograph of
 a note printed in this way presented a confused mingling of the two
-colours; but with the advance of photographic knowledge means were found of
+[[Colours|colours]]; but with the advance of photographic knowledge means were found of
 obtaining a photograph of either colour separate from the other, and it
 consequently became necessary to introduce a third colour and to secure a
 special photographic relation between the three colours to prevent their
@@ -78,7 +78,7 @@ were a great assistance to the forger, as the public, being accustomed to
 variations of appearance between different genuine notes, were less apt to
 remark the difference between these and counterfeits.
 
-In the early part of the 19th century, Jacob Perkins (1766-1849) introduced
+In the early part of the 19th century, [[Jacob]] Perkins (1766-1849) introduced
 into England from America what is known as the transfer-process, in which
 the original engraving on steel is hardened and an impression taken from it
 on a soft steel cylinder, which in its turn is hardened and pressed into a
@@ -127,7 +127,7 @@ water-mark in the paper. They are never reissued after being once returned
 to the bank, and their average life is very short, about six weeks, so that
 a dirty or worn Bank of England note is practically never seen. This
 arrangement, coupled with the difficulty of negotiating forged notes in
-England, the lowest denomination being £5, accounts for the comparative
+England, the lowest [[Denomination|denomination]] being £5, accounts for the comparative
 immunity from forgery of the bank's issues.
 
 ## See also

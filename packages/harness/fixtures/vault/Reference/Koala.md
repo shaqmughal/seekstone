@@ -17,7 +17,7 @@ called by the colonists the "native bear"; the term "native sloth" being
 also applied to it, from its arboreal habits and slow deliberate
 movements. The flesh is highly prized by the natives, and is palatable
 to Europeans. The skins are largely imported into England, for the
-manufacture of articles in which a cheap and durable fur is required.
+manufacture of articles in which a cheap and durable [[Fur|fur]] is required.
 
 ## References
 

@@ -1,13 +1,13 @@
 # Cassagnac
 
 CASSAGNAC, BERNARD ADOLPHE GRANIER DE (1806-1880), French journalist,
-was born at Avéron-Bergelle in the department of Gers on the 11th of
+was born at Avéron-Bergelle in the department of [[Gers]] on the 11th of
 August 1806. In 1832 he began his career as a Parisian journalist,
 contributing ardent defences of Romanticism and Conservatism to the
 _Revue de Paris_, the _Journal des Débats_, and to _La Presse_. Then he
 founded a political journal, _L'Époque_ (1845-1848), in which his
 violent polemics in support of Guizot brought him notoriety and not a
-few duels. In 1851, in the _Constitutionnel_, he declared himself openly
+few [[Duel|duels]]. In 1851, in the _Constitutionnel_, he declared himself openly
 an imperialist; and in 1852 was elected as "official candidate" by the
 department of Gers. As journalist and deputy he actively supported an
 absolutist policy. He demanded the restoration of religion, opposed the
@@ -16,7 +16,7 @@ l'Arcade. In March 1868 he accused the Liberal deputies of having
 received money from the king of Prussia for opposing the emperor, and
 when called upon for proof, submitted only false or trivial documents.
 After the proclamation of the republic (4th of September 1870) he fled
-to Belgium. He returned to France for the elections of 1876, and was
+to [[Belgium]]. He returned to France for the elections of 1876, and was
 elected deputy. He continued to combat all the republican reforms, but
 with no advantage to his party. He died on the 31st of January 1880. In
 addition to his journalistic articles he published various historical

@@ -1,7 +1,7 @@
 # Drew
 
 DREW, SAMUEL (1765-1833), English theologian, was born in the parish of
-St Austell, in Cornwall, on the 6th of March 1765. His father was a poor
+St Austell, in [[Cornwall]], on the 6th of March 1765. His father was a poor
 farm labourer, and could not afford to send him to school long enough
 even to learn to read and write. At ten he was apprenticed to a
 shoemaker, and at twenty he settled in the town of St Austell, first as
@@ -36,7 +36,7 @@ of the _Imperial Magazine_, then newly established, and in 1821 to
 London, the business being then transferred to the capital. Here he
 filled the post of editor till his death, and had also the supervision
 of all works issued from the Caxton Press. He was an unsuccessful
-competitor for the Burnett prize offered in 1811 for an essay on the
+competitor for the [[Burnett]] prize offered in 1811 for an essay on the
 existence and attributes of God. The work which he then wrote, and which
 in his own judgment was his best, was published in 1820, under the title
 of _An Attempt to demonstrate from Reason and Revelation the Necessary

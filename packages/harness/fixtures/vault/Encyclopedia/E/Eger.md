@@ -4,8 +4,8 @@ EGER (Czech, _Cheb_), a town of Bohemia, Austria, 148 m. W.N.W. of
 Prague by rail. Pop. (1900) 23,665. It is situated on the river Eger, at
 the foot of one of the spurs of the Fichtelgebirge, and lies in the
 centre of a German district of about 40,000 inhabitants, who are
-distinguished from the surrounding population by their costumes,
-language, manners and customs. On the rock, to the N.W. of the town,
+distinguished from the surrounding population by their [[Costume|costumes]],
+language, [[Manners|manners]] and customs. On the rock, to the N.W. of the town,
 lies the Burg or Castle, built probably in the 12th century, and now in
 ruins. It possesses a massive black tower, built of blocks of lava, and
 in the courtyard is an interesting chapel, in Romanesque style with

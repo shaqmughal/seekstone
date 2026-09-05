@@ -14,10 +14,10 @@ great admirer of Cimon and an opponent of Pericles. He subsequently met
 Sophocles in his native island at the time of the Samian war. From
 Aristophanes (_Peace_, 830 ff.) it is concluded that he died before the
 production of that play (421). His first tragedy was produced between
-452-449 B.C.; and he was third to Euripides and Iophon in the tragic
+452-449 B.C.; and he was third to [[Euripides]] and [[Iophon]] in the tragic
 contest of 429. In a subsequent year he gained both the tragic and
 dithyrambic prizes, and in honour of his victory gave a jar of Chian
-wine to every Athenian citizen (Athenaeus p. 3). He is further credited
+wine to every Athenian citizen ([[Athenaeus]] p. 3). He is further credited
 by the scholiast on Aristophanes (loc. cit.) with having composed
 comedies, dithyrambs, epigrams, paeans, hymns, scolia, encomia and
 elegies; and he is the reputed author of a philosophical treatise on the

@@ -10,7 +10,7 @@ tags: [history, chemistry]
 # Byron
 
 BYRON, GEORGE GORDON BYRON, 6TH BARON (1788-1824), English poet, was born
-in London at 16 Holles Street, Cavendish Square, on the 22nd of January
+in London at 16 [[Holles]] Street, Cavendish Square, on the 22nd of January
 1788. The Byrons were of Norman stock, but the founder of the family was
 Sir John Byron, who entered into possession of the priory and lands of
 Newstead in the county of Nottingham in 1540. From him it descended (but
@@ -25,7 +25,7 @@ eminent degree. He caused to be divorced, and married (1779) as his first
 wife, the marchioness of Carmarthen (born Amelia D'Arcy), Baroness Conyers
 in her own right. One child of the marriage survived, the Hon. Augusta
 Byron (1783-1851), the poet's half-sister, who, in 1807, married her first
-cousin, Colonel George Leigh. His second marriage to Catherine Gordon (b.
+[[Cousin|cousin]], Colonel George Leigh. His second marriage to Catherine Gordon (b.
 1765) of Gight in Aberdeenshire took place at Bath on the 13th of May 1785.
 He is said to have squandered the fortunes of both wives. It is certain
 that Gight was sold to pay his debts (1786), and that the sole provision
@@ -81,7 +81,7 @@ fruitful in two respects. He learned enough Latin and Greek to make him a
 classic, if not a classical scholar, and he made friends with his equals
 and superiors. He learned something of his own worth and of the worth of
 others. "My school-friendships," he says, "were with me passions." Two of
-his closest friends died young, and from Lord Clare, whom he loved best of
+his closest friends died young, and from Lord [[Clare]], whom he loved best of
 all, he was separated by chance and circumstance. He was an odd mixture,
 now lying dreaming on his favourite tombstone in the churchyard, now the
 ring-leader in whatever mischief was afoot. He was a "record" swimmer, and,
@@ -104,10 +104,10 @@ _Childe Harold_ (c. i _s.v._), and in "The Dream" (1816).
 
 Byron went into residence at Trinity College, Cambridge, in October 1805.
 Cambridge did him no good. "The place is the devil," he said, and according
-to his own showing he did homage to the _genius loci_. But whatever he did
+to his own showing he did [[Homage|homage]] to the _genius loci_. But whatever he did
 or failed to do, he made friends who were worthy of his choice. Among them
 were the scholar-dandy Scrope Berdmore Davies, Francis Hodgson, who died
-provost of Eton, and, best friend of all, John Cam Hobhouse (afterwards
+provost of [[Eton]], and, best friend of all, John [[Cam]] [[Hobhouse]] (afterwards
 Lord Broughton). And there was another friend, a chorister named Edleston,
 a "humble youth" for whom he formed a romantic attachment. He died whilst
 Byron was still abroad (May 1811), but not unwept nor unsung, if, as there
@@ -142,12 +142,12 @@ March 1809).
 In April 1808, whilst he was still "a minor," Byron entered upon his
 inheritance. Hitherto the less ruinous portions of the abbey had been
 occupied by a tenant, Lord Grey de Ruthven. The banqueting hall, the grand
-drawing-room, and other parts of the monastic building were uninhabitable,
+[[Drawing-Room|drawing-room]], and other parts of the monastic building were uninhabitable,
 but by incurring fresh debts, two sets of apartments were refurnished for
 Byron and for his mother. Dismantled and ruinous, it was still a splendid
 inheritance. In line with the front of the abbey is the west front of the
 priory church, with its hollow arch, once a "mighty window," its vacant
-niches, its delicate Gothic mouldings. The abbey buildings enclose a grassy
+niches, its delicate [[Gothic]] mouldings. The abbey buildings enclose a grassy
 quadrangle [v.04 p.0899] overlooked by two-storeyed cloisters. On the
 eastern side are the state apartments occupied by kings and queens not as
 guests, but by feudal right. In the park, which is part of Sherwood Forest,
@@ -160,42 +160,42 @@ hailed as the spirit or genius of romance.
 On the 13th of March 1809, he took his seat in the House of Lords. He had
 determined, as soon as he was of age, to travel in the East, but before he
 sought "another zone" he invited Hobhouse and three others to a
-house-warming. One of the party, C.S. Matthews, describes a day at
+house-warming. One of the party, C.S. [[Matthew|Matthews]], describes a day at
 Newstead. Host and guests lay in bed till one. "The afternoon was passed in
 various diversions, fencing, single-stick ... riding, cricket, sailing on
 the lake." They dined at eight, and after the cloth was removed handed
-round "a human skull filled with Burgundy." After dinner they "buffooned
-about the house" in a set of monkish dresses. They went to bed some time
+round "a human skull filled with Burgundy." After [[Dinner|dinner]] they "buffooned
+about the house" in a set of monkish [[Dress|dresses]]. They went to bed some time
 between one and three in the morning. Moore thinks that the picture of
 these festivities is "pregnant in character," and argues that there were
 limits to the misbehaviour of the "wassailers." The story, as told in
 _Childe Harold_ (c. I. s. v.-ix.), need not be taken too seriously. Byron
-was angry because Lord De La Warr did not wish him goodbye, and visited his
+was angry because Lord [[De La Warr]] did not wish him goodbye, and visited his
 displeasure on friends and "lemans" alike. May and June were devoted to the
 preparation of an enlarged edition of his satire. At length, accompanied by
 Hobhouse and a small staff of retainers, he set out on his travels. He
-sailed from Falmouth on the 2nd of July and reached Lisbon on the 7th of
-July 1809. The first two cantos of _Childe Harold's Pilgrimage_ contain a
+sailed from Falmouth on the 2nd of July and reached [[Lisbon]] on the 7th of
+July 1809. The first two [[Canto|cantos]] of _Childe Harold's Pilgrimage_ contain a
 record of the principal events of his first year of absence.
 
-The first canto describes Lisbon, Cintra, the ride through Portugal and
+The first canto describes Lisbon, [[Cintra]], the ride through Portugal and
 Spain to Seville and thence to Cadiz. He is moved by the grandeur of the
 scenery, but laments the helplessness of the people and their impending
-fate. Talavera was fought and won whilst he was in Spain, but he is
+[[Fate|fate]]. Talavera was fought and won whilst he was in Spain, but he is
 convinced that the "Scourge of the World" will prevail, and that Britain,
 "the fond ally," will display her blundering heroism in vain. Being against
 the government, he is against the war. History has falsified his politics,
 but his descriptions of places and scenes, of "Morena's dusky height," of
 Cadiz and the bull-fight, retain their freshness and their warmth.
 
-Byron sailed from Gibraltar on the 16th of August, and spent a month at
+Byron sailed from [[Gibraltar]] on the 16th of August, and spent a month at
 Malta making love to Mrs Spencer Smith (the "Fair Florence" of c. II. s.
 xxix.-xxxiii.). He anchored off Prevesa on the 28th of September. The
 second canto records a journey on horseback through Albania, then almost a
 _terra incognita_, as far as Tepeleni, where he was entertained by Ali
 Pacha (October 20th), a yachting tour along the shores of the Ambracian
 Gulf (November 8-23), a journey by land from Larnaki to Athens (December
-15-25), and excursions in Attica, Sunium and Marathon (January 13-25,
+15-25), and excursions in Attica, Sunium and [[Marathon]] (January 13-25,
 1810).
 
 Of the tour in Asia Minor, a visit to Ephesus (March 15, 1810), an
@@ -210,14 +210,14 @@ Athens.
 Of Byron's second year of residence in the East little is known beyond the
 bare facts that he was travelling in the Morea during August and September,
 that early in October he was at Patras, having just recovered from a severe
-attack of malarial fever, and that by the 14th of November he had returned
+attack of malarial [[Fever|fever]], and that by the 14th of November he had returned
 to Athens and taken up his quarters at the Franciscan convent. Of his
 movements during the next five months there is no record, but of his
 studies and pursuits there is substantial evidence. He learnt Romaic, he
 compiled the notes to the second canto of _Childe Harold_. He wrote (March
 12) _Hints from Horace_ (published 1831), an imitation or loose translation
 of the _Epistola ad Pisones_ (Art of Poetry), and (March 17) _The Curse of
-Minerva_ (published 1815), a skit on Lord Elgin's deportation of the
+Minerva_ (published 1815), a skit on Lord Elgin's [[Deportation|deportation]] of the
 metopes and frieze of the Parthenon.
 
 He left Athens in April, passed some weeks at Malta, and landed at
@@ -237,7 +237,7 @@ affection for her while she lived, but her death touched him to the quick.
 awaited him. Whilst his mother lay dead in his house, he heard that his
 friend Matthews had been drowned in the Cam. Edleston and Wingfield had
 died in May, but the news had reached him on landing. There were troubles
-on every side. On the 11th of October he wrote the "Epistle to a Friend"
+on every side. On the 11th of October he wrote the "[[Epistle]] to a Friend"
 ("Oh, banish care," &c.) and the lines "To Thyrza," which, with other
 elegies, were appended to the second edition of _Childe Harold_ (April 17,
 1812). It was this cry of desolation, this open profession of melancholy,
@@ -247,7 +247,7 @@ sincerity of his grief, but it is no less true that he measured and
 appraised its literary significance. He could and did turn it to account.
 
 Towards the close of the year he made friends with Moore. Some lines in
-_English Bards_, &c. (ii. 466-467), taunting Moore with fighting a duel
+_English Bards_, &c. (ii. 466-467), taunting Moore with fighting a [[Duel|duel]]
 with Jeffrey with "leadless pistol" had led to a challenge, and it was not
 till Byron returned to England that explanations ensued, and that the
 challenge was withdrawn. As a poet Byron outgrew Moore, giving back more
@@ -275,13 +275,13 @@ of conceit with himself. His first affair of any moment was with Lady
 Caroline Lamb the wife of William Lamb, better known as Lord Melbourne, a
 delicate, golden-haired sprite, who threw herself in his way, and
 afterwards, when she was shaken off, involved him in her own disgrace. To
-her succeeded Lady Oxford, who was double his own age, and Lady Frances
+her succeeded Lady Oxford, who was double his own age, and Lady [[Franc|Frances]]
 Wedderburn Webster, the "Ginevra" of his sonnets, the "Medora" of _The
-Corsair_.
+[[Corsair]]_.
 
 His "way of life" was inconsistent with an official career, but there was
 no slackening of his poetical energies. In February 1813 he published _The
-Waltz_ (anonymously), he wrote and [v.04 p.0900] published _The Giaour_
+Waltz_ (anonymously), he wrote and [v.04 p.0900] published _The [[Giaour]]_
 (published June 5, 1813) and _The Bride of Abydos_ (published November 29,
 1813), and he wrote _The Corsair_ (published February 1, 1814). The
 _Turkish Tales_ were even more popular than _Childe Harold_. Murray sold
@@ -302,7 +302,7 @@ His manner of life we know from his journals. Socially he was on the crest
 of the wave. He was a welcome guest at the great Whig houses, at Lady
 Melbourne's, at Lady Jersey's, at Holland House. Sheridan and Moore, Rogers
 and Campbell, were his intimates and companions. He was a member of the
-Alfred, of Watier's, of the Cocoa Tree, and half a dozen clubs besides.
+Alfred, of Watier's, of the [[Cocoa]] Tree, and half a dozen clubs besides.
 After the publication of _The Corsair_ he had promised an interval of
 silence, but the abdication of Napoleon evoked "An Ode," &c., in his
 dishonour (April 16); _Lara, a Tale_, an informal sequel to _The Corsair_,
@@ -310,7 +310,7 @@ was published anonymously on August 6, 1814.
 
 Newstead had been put up for sale, but pending the completion of the
 contract was still in his possession. During his last visit but one, whilst
-his sister was his guest, he became engaged to Miss Anna Isabella Milbanke
+his sister was his guest, he became engaged to Miss [[Anna]] Isabella Milbanke
 (b. May 17, 1792; d. May 16, 1860), the only daughter of Sir Ralph
 Milbanke, Bart., and the Hon. Judith (born Noel), daughter of Lord
 Wentworth. She was an heiress, and in succession to a peerage in her own
@@ -326,11 +326,11 @@ Seaham in Durham on the 2nd of January 1815. Bride and bridegroom spent
 three months in paying visits, and at the end of March settled at 13
 Piccadilly Terrace, London.
 
-Byron was a member of the committee of management of Drury Lane theatre,
+Byron was a member of the committee of management of Drury [[Lane]] theatre,
 and devoted much of his time to his professional duties. He wrote but
 little poetry. _Hebrew Melodies_ (published April 1815), begun at Seaham in
-October 1814, were finished and given to the musical composer, Isaac
-Nathan, for publication. _The Siege of Corinth_ and _Parisina_ (published
+October 1814, were finished and given to the musical composer, [[Isaac]]
+Nathan, for publication. _The Siege of [[Corinth]]_ and _Parisina_ (published
 February 7, 1816) were got ready for the press. On the 10th of December
 Lady Byron gave birth to a daughter christened Augusta Ada. To judge from
 his letters, for the first weeks or months of his marriage things went
@@ -344,14 +344,14 @@ claimed his protection, and after some hesitation and consultation with her
 legal advisers demanded a separation from her husband. It is a matter of
 common knowledge that in 1869 Mrs Beecher Stowe affirmed that Lady Byron
 expressly told her that Byron was guilty of incest with his half-sister,
-Mrs Leigh; also that in 1905 the second Lord Lovelace (Lord Byron's
+Mrs Leigh; also that in 1905 the second Lord [[Lovelace]] (Lord Byron's
 grandson) printed a work entitled _Astarte_ which was designed to uphold
 and to prove the truth of this charge. It is a fact that neither Lady Byron
 nor her advisers supported their demand by this or any other charge of
 misconduct, but it is also a fact that Lord Byron yielded to the demand
 reluctantly, under pressure and for large pecuniary considerations. It is a
 fact that Lady Byron's letters to Mrs Leigh before and after the separation
-are inconsistent with a knowledge or suspicion of guilt on the part of her
+are inconsistent with a knowledge or suspicion of [[Guilt|guilt]] on the part of her
 sister-in-law, but it is also a fact (see _Astarte_, pp. 142-145) that she
 signed a document (dated March 14, 1816) to the effect that any renewal of
 intercourse did not involve and must not be construed as a withdrawal of
@@ -367,25 +367,25 @@ and that Mrs Leigh was only shielding her.
 
 The separation of Lord and Lady Byron was the talk of the town. Two poems
 entitled "Fare Thee Well" and "A Sketch," which Byron had written and
-printed for private circulation, were published by _The Champion_ on
+printed for private circulation, were published by _The [[Champion]]_ on
 Sunday, April 14. The other London papers one by one followed suit. The
 poems, more especially "A Sketch," were provocative of criticism. There was
-a balance of opinion, but politics turned the scale. Byron had recently
+a [[Balance|balance]] of opinion, but politics turned the scale. Byron had recently
 published some pro-Gallican stanzas, "On the 'Star of the Legion of
 Honour,'" in the _Examiner_ (April 7), and it was felt by many that private
 dishonour was the outcome of public disloyalty. The Whigs defended Byron as
 best they could, but his own world, with one or two exceptions, ostracized
 him. The "excommunicating voice of society," as Moore put it, was loud and
 insistent. The articles of separation were signed on or about the 18th of
-April, and on Sunday, the 25th of April, Byron sailed from Dover for
+April, and on Sunday, the 25th of April, Byron sailed from [[Dover]] for
 Ostend. The "Lines on Churchill's Grave" were written whilst he was waiting
 for a favourable wind. His route lay through the Low Countries, and by the
 Rhine to Switzerland. On his way he halted at Brussels and visited the
-field of Waterloo. He reached Geneva on the 25th of May, where he met by
+field of Waterloo. He reached [[Geneva]] on the 25th of May, where he met by
 appointment at Dejean's Hotel d'Angleterre, Shelley, Mary Godwin and Clare
 (or "Claire") Clairmont. The meeting was probably at the instance of
 Claire, who had recently become, and aspired to remain, Byron's mistress.
-On the 10th of June Byron moved to the Villa Diodati on the southern shore
+On the 10th of June Byron moved to the Villa [[Diodati]] on the southern shore
 of the lake. Shelley and his party had already settled at an adjoining
 villa, the Campagne Montalegre. The friends were constantly together. On
 the 23rd of June Byron and Shelley started for a yachting tour round the
@@ -397,7 +397,7 @@ other poems of July-September 1816, _e.g._ "The Dream" and the first two
 acts of _Manfred_ (published June 16, 1817), betray the influence of
 Shelley, and through him of Wordsworth, both in thought and style. Byron
 knew that Wordsworth had power, but was against his theories, and resented
-his criticism of Pope and Dryden. Shelley was a believer and a disciple,
+his criticism of Pope and [[Dryden]]. Shelley was a believer and a [[Disciple|disciple]],
 and converted Byron to the Wordsworthian creed. Moreover he was an
 inspiration in himself. Intimacy with Shelley left Byron a greater poet
 than he was before. Byron passed the summer at the Villa Diodati, where he
@@ -418,14 +418,14 @@ history, to understand her constitution, to learn her language. The sights
 and scenes with which Shakespeare and Otway, Schiller's _Ghostseer_, and
 Madame de Stael's _Corinne_ had made him familiar, were before his eyes,
 not dreams but realities. He would "repeople" her with her own past, and
-"stamp her image" on the creations of his pen. But he had no one to live
+"stamp her [[Image|image]]" on the creations of his pen. But he had no one to live
 for but himself, and that self he gave over to a reprobate mind. He planned
 and pursued a life of deliberate profligacy. Of two of his amours we learn
 enough or too much from his letters to Murray and to Moore--the first with
 his landlord's wife, Marianna Segati, the second with Margarita Cogni (the
 "Fornarina"), a Venetian of the lower class, who amused him with her
 savagery and her wit. But, if Shelley may be trusted, there was a limit to
-his candour. There is abundant humour, but there is an economy of detail in
+his candour. There is abundant [[Humour|humour]], but there is an economy of detail in
 his pornographic chronicle. He could not touch pitch without being defiled.
 But to do him justice he was never idle. He kept his brains at work, and
 for this reason, perhaps, he seems for a time to have recovered his spirits
@@ -451,7 +451,7 @@ mock heroic _ottava-rima_ to Frere's example, but he was certainly familiar
 with Casti's _Novelle_, and, according to Stendhal, with the poetry of
 Buratti. The success of _Beppo_ and a growing sense that "the excellent
 manner of _Whistlecraft_" was the manner for him, led him to study Frere's
-masters and models, Berni and Pulci. An accident had led to a great
+masters and models, [[Berni]] and Pulci. An accident had led to a great
 discovery.
 
 The fourth canto of _Childe Harold_ was published on the 28th of April
@@ -472,7 +472,7 @@ Robert Southey (not published till 1833) is a prologue to the play. The
 morals, and now it was his turn to speak and to speak out. He too would
 write "An Excursion." He doubted that _Don Juan_ might be "too free for
 these modest days." It _was_ too free for the public, for his publisher,
-even for his mistress; and the "building up of the drama," as Shelley puts
+even for his mistress; and the "building up of the [[Drama|drama]]," as Shelley puts
 it, was a slow and gradual process. Cantos I., II. were published (4to) on
 the 15th of July 1819; Cantos III., IV., V., finished in November 1820,
 were not published till the 8th of August 1821. Cantos VI.-XVI., written
@@ -491,13 +491,13 @@ well-read and accomplished. Married at sixteen to a man nearly four times
 her age, she fell in love with Byron at first sight, soon became and for
 nearly four years remained his mistress. A good and true wife to him in all
 but name, she won from Byron ample devotion and a prolonged constancy. Her
-volume of _Recollections_ (_Lord Byron juge par les temoins de sa vie_,
+volume of _Recollections_ (_Lord Byron [[Juge|juge]] par les temoins de sa vie_,
 1869), taken for what it is worth, is testimony in Byron's favour. The
 countess left Venice for Ravenna at the end of April; within a month she
 sent for Byron, and on the 10th of June he arrived at Ravenna and took
 rooms in the Strada di Porto Sisi. The house (now No. 295) is close to
 Dante's tomb, and to gratify the countess and pass the time he wrote the
-"Prophecy of Dante" (published April 21, 1821). According to the preface
+"Prophecy of [[Dante]]" (published April 21, 1821). According to the preface
 the poem was a metrical experiment, an exercise in _terza rima_; but it had
 a deeper significance. It was "intended for the Italians." Its purport was
 revolutionary. In the fourth canto of _Childe Harold_, already translated
@@ -526,7 +526,7 @@ the MS. of his _Life and Adventures_ brought down to the close of 1816.
 Moore, as Byron suggested, pledged the MS. to Murray for 2000 guineas, to
 be Moore's property if redeemed in Byron's lifetime, but if not, to be
 forfeit to Murray at Byron's death. On the 17th of May 1824, with Murray's
-assent and goodwill, the MS. was burned in the drawing-room of 50 Albemarle
+assent and [[Goodwill|goodwill]], the MS. was burned in the drawing-room of 50 Albemarle
 Street. Neither Murray nor Moore lost their money. The Longmans lent Moore
 a sufficient sum to repay Murray, and were themselves repaid out of the
 receipts of Moore's _Life of Byron_. Byron told Moore that the memoranda
@@ -562,7 +562,7 @@ little progress was made. He had been elected _capo_ of the "_Americani_,"
 a branch of the Carbonari, and his time was taken up with buying and
 storing arms and ammunition, and consultations with leading conspirators.
 "The poetry of politics" and poetry on paper did not go together. Meanwhile
-he would try his hand on prose. A controversy had arisen between Bowles and
+he would try his hand on prose. A controversy had arisen between [[Bowles]] and
 Campbell with regard to the merits of Pope. Byron rushed into the fray. To
 avenge and exalt Pope, to decry the "Lakers," and to lay down his own
 canons of art, Byron addressed two letters to **** ****** (_i.e._ John
@@ -573,7 +573,7 @@ The revolution in Italy came to nothing, and by the 28th of May, Byron had
 finished his work on _Sardanapalus_. The _Two Foscari_, a third historical
 drama, was begun on the 12th of June and finished on the 9th of July. On
 the same day he began _Cain, a Mystery_. _Cain_ was an attempt to dramatize
-the Old Testament; Lucifer's apology for himself and his arraignment of the
+the Old Testament; Lucifer's [[Apology|apology]] for himself and his arraignment of the
 Creator startled and shocked the orthodox. Theologically the offence lay in
 its detachment. _Cain_ was not irreverent or blasphemous, but it treated
 accepted dogmas as open questions. _Cain_ was published in the same volume
@@ -585,12 +585,12 @@ humorous theology. Southey had thought fit to eulogize George III. in
 hexameter verse. He called his funeral ode a "Vision of Judgment." In the
 preface there was an obvious reference to Byron. The "Satanic School" of
 poetry was attributed to "men of diseased hearts and depraved
-imaginations." Byron's revenge was complete. In his "Vision of Judgment"
+[[Imagination|imaginations]]." Byron's revenge was complete. In his "Vision of Judgment"
 (published in _The Liberal_, No. I., October 15, 1822) the tables are
 turned. The laureate is brought before the hosts of heaven and rejected by
 devils and angels alike. In October Byron wrote _Heaven and Earth, a
 Mystery_ (_The Liberal_, No. II., January 1, 1823), a lyrical drama based
-on the legend of the "Watchers," or fallen angels of the Book of Enoch. The
+on the legend of the "Watchers," or fallen angels of the Book of [[Enoch]]. The
 countess and her family had been expelled from Ravenna in July, but Byron
 still lingered on in his apartments in the Palazzo Guiccioli. At length
 (October 28) he set out for Pisa. On the road he met his old friend, Lord
@@ -598,7 +598,7 @@ Clare, and spent a few minutes in his company. Rogers, whom he met at
 Bologna, was his fellow-traveller as far as Florence. At Pisa he rejoined
 the countess, who had taken on his behalf the Villa Lanfranchi on the Arno.
 At Ravenna Byron had lived amongst Italians. At Pisa he was surrounded by a
-knot of his own countrymen, friends and acquaintances of the Shelleys.
+[[Knot|knot]] of his own countrymen, friends and acquaintances of the Shelleys.
 Among them were E.J. Trelawny, Thomas Medwin, author of the well-known
 _Conversations of Lord Byron_ (1824), and Edward Elliker Williams. His
 first work at Pisa was to dramatize Miss Lee's _Kruitzner, or the German's
@@ -606,7 +606,7 @@ Tale_. He had written a first act in 1815, but as the MS. was mislaid he
 made a fresh adaptation of the story which he rechristened _Werner, or the
 Inheritance_. It was finished on the 20th of January and published on the
 23rd of November 1822. _Werner_ is in parts _Kruitzner_ cut up into loose
-blank verse, but it contains lines and passages of great and original
+[[Blank|blank]] verse, but it contains lines and passages of great and original
 merit. Alone of Byron's plays it took hold of the stage. Macready's
 "Werner" was a famous impersonation.
 
@@ -617,15 +617,15 @@ interesting and attractive child, and he had hoped that her companionship
 would have atoned for his enforced separation from Ada. She is buried in a
 nameless grave at the entrance of Harrow church. Soon after the death of
 Allegra, Byron wrote the last of his eight plays, _The Deformed
-Transformed_ (published by John Hunt, February 20, 1824). The "sources" are
-Goethe's _Faust_, _The Three Brothers_, a novel by Joshua Pickersgill, and
+Transformed_ (published by John [[Hunt]], February 20, 1824). The "sources" are
+Goethe's _[[Faust]]_, _The Three Brothers_, a novel by [[Joshua]] Pickersgill, and
 various chronicles of the sack of Rome in 1527. The theme or _motif_ is the
 interaction of personality and individuality. Remonstrances on the part of
 publisher and critic induced him to turn journalist. The control of a
 newspaper or periodical would enable him to publish what and as he pleased.
 With this object in view he entered into a kind of literary partnership
 with Leigh Hunt, and undertook to transport him, his wife and six children
-to Pisa, and to lodge them in the Villa Lanfranchi. The outcome of this
+to Pisa, and to [[Lodge|lodge]] them in the Villa Lanfranchi. The outcome of this
 arrangement was _The Liberal--Verse and Prose from the South_. Four numbers
 were issued between October 1822 and June 1823. _The Liberal_ did not
 succeed financially, and the joint menage was a lamentable failure.
@@ -677,8 +677,8 @@ Committee, a small body of influential Liberals who had taken up the cause
 of the liberation of Greece. Byron at once offered money and advice, and
 after some hesitation on the score of health, determined "to go to Greece."
 His first step was to sell the "Bolivar" to Lord Blessington, and to
-purchase the "Hercules," a collier-built tub of 120 tons. On the 23rd of
-July the "Hercules" sailed from Leghorn and anchored off Cephalonia on the
+purchase the "[[Hercules]]," a collier-built tub of 120 tons. On the 23rd of
+July the "Hercules" sailed from Leghorn and anchored off [[Cephalonia]] on the
 3rd of August. The party on board consisted of Byron, Pietro Gamba,
 Trelawny, Hamilton Browne and six or seven servants. The next four months
 were spent at Cephalonia, at first on board the "Hercules," in the harbour
@@ -726,7 +726,7 @@ to ride out with Gamba. It came on to rain, and though he was drenched to
 the skin he insisted on dismounting and returning in an open boat to the
 quay in front of his house. Two hours later he was seized with ague and
 violent rheumatic pains. On the 11th he rode out once more through the
-olive groves, attended by his escort of Suliote guards, but for the last
+olive groves, attended by his escort of Suliote [[Guards|guards]], but for the last
 time. Whether he had got his deathblow, or whether copious blood-letting
 made recovery impossible, he gradually grew worse, and on the ninth day of
 his illness fell into a comatose sleep. It was reported that in his
@@ -739,13 +739,13 @@ that thirty-seven minute-guns should be fired at daylight and decreed a
 general mourning of twenty-one days. His body was embalmed and lay in
 state. On the 25th of May his remains, all but the heart, which is buried
 at Missolonghi, were sent back to England, and were finally laid beneath
-the chancel of the village church of Hucknall-Torkard on the 16th of July
+the [[Chancel|chancel]] of the village church of Hucknall-Torkard on the 16th of July
 1824. The authorities would not sanction burial in Westminster Abbey, and
 there is neither bust nor statue of Lord Byron in Poets' Corner.
 
 The title passed to his first cousin as 7th baron, from whom the subsequent
 barons were descended. The poet's daughter Ada (d. 1852) predeceased her
-mother, but the barony of Wentworth went to her heirs. She was the first
+mother, but the [[Barony|barony]] of Wentworth went to her heirs. She was the first
 wife of Baron King, who in 1838 was created 1st earl of Lovelace, and had
 two sons (of whom the younger, b. 1839, d. 1906, was 2nd earl of Lovelace)
 and a daughter, Lady Anne, who married Wilfrid S. Blunt (_q.v._). On the
@@ -762,7 +762,7 @@ memorialists are at the disposal of the modern biographer. Moore thinks
 that Byron's character was obliterated by his versatility, his mobility,
 that he was carried away by his imagination, and became the thing he wished
 to be, or conceived himself as becoming. But his nature was not
-chameleon-like. Self-will was the very pulse of the machine. Pride ruled
+chameleon-like. Self-will was the very pulse of the [[Machine|machine]]. Pride ruled
 his years. All through his life, as child and youth and man, his one aim
 and endeavour was the subjection of other people's wishes to, his own. He
 would subject even fate if he could. He has two main objects in view,
@@ -771,7 +771,7 @@ passion. It is hard to say which was the strongest or the dearest, but, on
 the whole, within his "little life" passion prevailed. Other inclinations
 he could master. Poetry was often but not always an exaltation and a
 relief. He could fulfil his tasks in "hours of gloom." If he had not been a
-great poet he would have gained credit as a painstaking and laborious man
+great poet he would have gained [[Credit|credit]] as a painstaking and laborious man
 of letters. His habitual temperance was the outcome of a stern resolve. He
 had no scruples, but he kept his body in subjection as a means to an end.
 In his youth Byron was a cautious spendthrift. Even when he was "cursedly
@@ -801,7 +801,7 @@ pleasure in helping necessitous authors, men and women, not at all _en
 grand seigneur_, or without counting the cost, but because he knew what
 poverty meant, and a fellow-feeling made him kind. Even in Venice he set
 aside a fixed sum for charitable purposes. It was to his credit that
-neither libertinism nor disgrace nor remorse withered at its root this herb
+neither libertinism nor disgrace nor remorse withered at its root this [[Herb|herb]]
 of grace. Cynical speeches with regard to friends and friendship, often
 quoted to his disadvantage, need not be taken too literally. Byron talked
 for effect, and in accordance with the whim of the moment. His acts do not
@@ -840,7 +840,7 @@ is crowded with new and original images, additions to already existing
 types of poetic workmanship. It has been said that Byron could only
 represent himself under various disguises, that Childe Harold and The
 Corsair, Lara and Manfred and Don Juan, are variants of a single
-personality, the egotist who is at war with his fellows, the generous but
+personality, the egotist who is at war with his [[Fellows|fellows]], the generous but
 nefarious sentimentalist who sins and suffers and yet is to be pitied for
 his suffering. None the less, with whatever limitations as artist or
 moralist, he invented characters and types of characters real enough and
@@ -867,7 +867,7 @@ knowledge, the culture of which he was the immediate channel, were speedily
 available through other sources. The politics of the Revolution neither
 interested nor affected the Liberalism or Radicalism of the middle classes.
 It was not only the loftier and wholesomer poetry of Wordsworth and of
-Tennyson which averted enthusiasm from Byron, not only moral earnestness
+Tennyson which averted [[Enthusiasm|enthusiasm]] from Byron, not only moral earnestness
 and religious revival but the optimism and the materialism of commercial
 prosperity. As time went on, a severer and more intelligent criticism was
 brought to bear on his handiwork as a poet. It was pointed out that his
@@ -897,7 +897,7 @@ recognizes the force and splendour of his rhetoric. The "purple patches"
 have stood the wear and tear of time. Byron may have mismanaged the
 Spenserian stanza, may have written up to or anticipated the guide-book,
 but the spectacle of the bull-fight at Cadiz is "for ever warm," the "sound
-of revelry" on the eve of Waterloo still echoes in our ears, and Marathon
+of revelry" on the eve of Waterloo still echoes in our [[Ear|ears]], and Marathon
 and Venice, Greece and Italy, still rise up before us, "as from the stroke
 of an enchanter's wand." It was, however, in another vein that Byron
 achieved his final triumph. In _Don Juan_ he set himself to depict life as
@@ -936,7 +936,7 @@ has touched and swayed other nations rather than his own. The part he
 played or seemed to play in revolutionary politics endeared him to those
 who were struggling to be free. He stood for freedom of thought and of
 life. He made himself the mouthpiece of an impassioned and welcome protest
-against the hypocrisy and arrogance of his order and his race. He lived on
+against the [[Hypocrisy|hypocrisy]] and arrogance of his order and his race. He lived on
 the continent and was known to many men in many cities. It has been argued
 that foreigners are insensible to his defects as a writer, and that this
 may account for an astonishing and perplexing preference. The cause is
@@ -947,8 +947,8 @@ taught us little" of the things of the spirit, that he knew no cure for the
 sickness of the soul, were considerations which lay outside the province of
 literary criticism. "It is a mark," says Goethe (_Aus meinem Leben:
 Dichtung und Wahrheit_, 1876, iii. 125), "of true poetry, that as a secular
-gospel it knows how to free us from the earthly burdens which press upon
-us, by inward serenity, by outward charm." Now of this "secular gospel" the
+gospel it knows how to free us from the earthly [[Burden|burdens]] which press upon
+us, by inward serenity, by outward [[Charm|charm]]." Now of this "secular gospel" the
 redemption from "real woes" by the exhibition of imaginary glory, and
 imaginary delights, Byron was both prophet and evangelist.
 
@@ -962,7 +962,7 @@ eyes were of a light grey colour, clear and luminous. His nose was straight
 and well-shaped, but "from being a little too thick, it looked better in
 profile than in front face." Moore says that it was in "the mouth and chin
 that the great beauty as well as expression of his fine countenance lay."
-The upper lip was of a Grecian shortness and the corners descending. His
+The upper [[Lip|lip]] was of a Grecian shortness and the corners descending. His
 complexion was pale and colourless. Scott speaks of "his beautiful pale
 face--like a spirit's good or evil." Charles Matthews said that "he was the
 only man to whom he could apply the word beautiful." Coleridge said that
@@ -1004,7 +1004,7 @@ Byron_, by Capt. T. Medwin (1824); _Last Days of Lord Byron_, by W. Parry
 (1824); _Narrative of a Second Visit to Greece_, by E. Blaquiere (1825); _A
 Narrative of Lord Byron's Last Journey to Greece_, by Count Gamba (1825);
 _The Life, Writings, Opinions and Times of Lord Byron_ (3 vols., 1825);
-_The Spirit of the Age_, by W. Hazlitt (1825); _Memoir of the Life and
+_The Spirit of the Age_, by W. [[Hazlitt]] (1825); _Memoir of the Life and
 Writings of Lord Byron_, by George Clinton (1826); _Correspondence of Byron
 and some of his Contemporaries_, by J.H. Leigh Hunt (2 vols., 1828);
 _Letters and Journals of Lord Byron, with Notices of his Life_, by Thomas
@@ -1030,7 +1030,7 @@ by G. Brandis (6 vols., 1901-1905), translated from _Hauptstroemungen der
 Literatur des neunzehnten Jahrhunderts_, 4 Bde. (Berlin 1872-1876);
 _Chambers's Cyclopaedia of English Literature_, vol. iii. (1903) art.
 "Byron," by T. Watts Dunton; _Studies in Poetry and Criticism_, by J.
-Churton Collins (1905); _Lord Byron, sein Leben_, &c., by Richard
+Churton [[Collins]] (1905); _Lord Byron, sein Leben_, &c., by Richard
 Ackermann; _Byron_, 3 vols. in the _Biblioteka velikikh pisatelei pod
 redaktsei_, edited by S.A. Vengesova (St Petersburg, 1906): a variorum
 translation; _Byron et le romantisme francais_, by Edmond Esteve (1907).
@@ -1039,7 +1039,7 @@ translation; _Byron et le romantisme francais_, by Edmond Esteve (1907).
 
 [1] An anonymous work entitled _The Life, Writings, &c. of ... Lord Byron_
 (3 vols., 1825) purports to give "Recollections of the Lately Destroyed
-Manuscript." To judge by internal evidence (see "The Wedding Day," &c. ii.
+[[Manuscript]]." To judge by internal evidence (see "The Wedding Day," &c. ii.
 278-284) there is some measure of truth in this assertion, but the work as
 a whole is untrustworthy.
 

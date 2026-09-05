@@ -1,6 +1,6 @@
 # Kava
 
-KAVA (CAVA or AVA), an intoxicating, but non-alcoholic beverage,
+KAVA (CAVA or [[Ava|AVA]]), an intoxicating, but non-alcoholic beverage,
 produced principally in the islands of the South Pacific, from the roots
 or leaves of a variety of the pepper plant (_Piper methysticum_). The
 method of preparation is somewhat peculiar. The roots or leaves are
@@ -10,12 +10,12 @@ this operation. The chewed material is then placed in a bowl, and water
 or coco-nut milk is poured over it, the whole is well stirred, and
 subsequently the woody matter is removed by an ingenious but simple
 mechanical manipulation. The resulting liquid, which has a muddy or
-_cafe-au-lait_ appearance, or is of a greenish hue if made from leaves,
+_cafe-au-lait_ appearance, or is of a greenish [[Hue|hue]] if made from leaves,
 is now ready for consumption. The taste of the liquid is at first sweet,
 and then pungent and acrid. The usual dose corresponds to about two
-mouthfuls of the root. Intoxication (but this apparently only applies to
+mouthfuls of the root. [[Intoxication]] (but this apparently only applies to
 those not inured to the use of the liquor) follows in about twenty
-minutes. The drunkenness produced by kava is of a melancholy, silent and
+minutes. The [[Drunkenness|drunkenness]] produced by kava is of a melancholy, silent and
 drowsy character. Excessive drinking is said to lead to skin and other
 diseases, but _per contra_ many medicinal virtues are ascribed to the
 preparation. There appears to be little doubt that the active principle

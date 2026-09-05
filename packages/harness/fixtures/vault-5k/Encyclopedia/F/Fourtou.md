@@ -7,13 +7,13 @@ Franco-German War. There he proved a useful adherent to Thiers, who made
 him minister of public works in December 1872. He was minister of
 religion in the cabinet of May 18-24, 1873, being the only member of the
 Right included by Thiers in that short-lived ministry. As minister of
-education, religion and the fine arts in the reconstructed cabinet of
+education, religion and the [[Fine Arts|fine arts]] in the reconstructed cabinet of
 the duc de Broglie he had used his administrative powers to further
 clerical ends, and as minister of the interior in Broglie's cabinet in
 1877 he resumed the administrative methods of the Second Empire. With a
 well-known Bonapartist, Baron R.C.F. Reille, as his secretary, he
 replaced republican functionaries by Bonapartist partisans, reserving a
-few places for the Legitimists. In the general elections of that year he
+few places for the [[Legitimists]]. In the general elections of that year he
 used the whole weight of officialdom to secure a majority for the Right,
 to support a clerical and reactionary programme. He accompanied Marshal
 MacMahon in his tour through southern France, and the presidential
@@ -24,7 +24,7 @@ commission was appointed to inquire into their unconstitutional abuse of
 power. Fourtou was unseated in consequence of the revelations made in
 the report of the commission. In the Chamber of Deputies Gambetta gave
 the lie direct to Fourtou's allegation that the republican party opposed
-every republican principle that was not antiquated. A duel was fought in
+every republican principle that was not antiquated. A [[Duel|duel]] was fought in
 consequence, but neither party was injured. He was re-elected to the
 chamber in 1879 and entered the Senate the next year. Failing to secure
 re-election to the Senate in 1885 he again entered the popular chamber

@@ -7,7 +7,7 @@ topic: asia-studies
 # Markhor
 
 MARKHOR ("snake-eater"), the Pushtu name of a large Himalayan wild goat
-(_Capra falconeri_), characterized by its spirally twisted horns, and
+(_Capra falconeri_), characterized by its spirally twisted [[Horn|horns]], and
 long shaggy winter coat. From the Pir-Panjal range of Kashmir the
 markhor extends westwards into Baltistan, Astor, Hunza, Afghanistan and
 the trans-Indus ranges of the Punjab. The twist of the horns varies to a

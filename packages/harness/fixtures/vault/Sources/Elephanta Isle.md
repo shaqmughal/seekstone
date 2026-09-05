@@ -17,7 +17,7 @@ was almost entirely overgrown with wood; it contains several springs of
 good water. There are also important quarries of building stone. But it
 owes its chief celebrity to the mythological excavations and sculptures
 of Hindu superstition which it contains. Opposite to the landing-place
-was a colossal statue of an elephant, cracked and mutilated, from which
+was a colossal statue of an [[Elephant|elephant]], cracked and mutilated, from which
 the island received from the Portuguese the name it still bears. The
 statue was removed in 1864, and may now be seen in the Victoria Gardens,
 Bombay. At a short distance from this spot is a cave, the entrance to
@@ -30,9 +30,9 @@ thought to represent the Hindu Triad, namely, Brahma the Creator, Vishnu
 the Preserver, and Siva or Mahadeva the Destroyer, but now held to be a
 triform representation of Siva alone. The heads are from 4 to 5 ft. in
 length, and are well cut, and the faces, with the exception of the under
-lip, are handsome. The head-dresses are curiously ornamented; and one of
+[[Lip|lip]], are handsome. The head-dresses are curiously ornamented; and one of
 the figures holds in it's hand a cobra, while on the cap are, amongst
-other symbols, a human skull and an infant. On each side of the Trimurti
+other symbols, a human skull and an [[Infant|infant]]. On each side of the Trimurti
 is a pilaster, the front of which is filled up by a human figure leaning
 on a dwarf, both much defaced. There is a large compartment to the
 right, hollowed a little, and covered with a great variety of figures,

@@ -88,10 +88,10 @@ be as high as 100,000 to 150,000 per c.c.
 The sources of dust particles in the atmosphere are numerous. In nature
 volcanoes supply a large quantity, and the meteoric matter constantly
 falling towards the earth and becoming dissipated by the intense heat
-produced by the friction of the atmosphere keep up a constant supply.
+produced by the [[Friction|friction]] of the atmosphere keep up a constant supply.
 Large quantities of dust are also raised from the surface of the earth
 by strong winds, from dusty roads and dry soil, and there is good reason
-for supposing that large quantities of sand are carried from the deserts
+for supposing that large quantities of sand are carried from the [[Desert|deserts]]
 by the wind and transported great distances, the sand, for instance,
 from the desert of Africa being carried to Europe. It is, however, to
 artificial causes that most of the dust is due. The burning of coal is
@@ -117,7 +117,7 @@ the results of hundreds of observations. The areas referred to are: (1)
 Mediterranean Sea, the observations being made on the south coast of
 France on the air blowing inshore; (2) the Alps, the observations being
 made on the Rigi Kulm; (3) the Highlands of Scotland, the observations
-being made at various places; and (4) the Atlantic Ocean, the
+being made at various places; and (4) the [[Atlantic Ocean]], the
 observations being made on the west coast of Scotland, when the wind
 blew from the ocean.
 

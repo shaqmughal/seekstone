@@ -2,10 +2,10 @@
 
 HABINGTON, WILLIAM (1605-1654), English poet, was born at Hendlip Hall,
 Worcestershire, on the 4th of November 1605. He belonged to a well-known
-Catholic family. His father, Thomas Habington (1560-1647), an antiquary
+Catholic family. His father, Thomas Habington (1560-1647), an [[Antiquary|antiquary]]
 and historical scholar, had been implicated in the plots on behalf of
 Mary queen of Scots; his uncle, Edward Habington, was hanged in 1586 on
-the charge of conspiring against Elizabeth in connexion with Anthony
+the charge of conspiring against Elizabeth in connexion with [[Anthony]]
 Babington; while to his mother, Mary Habington, was attributed the
 revelation of the Gunpowder Plot. The poet was sent to the college at St
 Omer, but, pressure being brought to bear on him to induce him to become
@@ -27,12 +27,12 @@ tragi-comedy, _The Queene of Arragon_ (1640), published without his
 consent by his kinsman, the earl of Pembroke, and revived at the
 Restoration; and six essays on events in modern history, _Observations
 upon History_ (1641). Anthony a Wood insinuated that during the
-Commonwealth the poet "did run with the times, and was not unknown to
+[[Commonwealth]] the poet "did run with the times, and was not unknown to
 Oliver the usurper." He died on the 30th of November 1654.
 
   The works of Habington have not been collected. _The Queene of
   Arragon_ was reprinted in Dodsley's "Old Plays," vol. ix. (1825);
-  _Castara_ was edited by Charles Elton (1812), and by E. Arber with a
+  _Castara_ was edited by Charles Elton (1812), and by E. [[Arber]] with a
   compact and comprehensive introduction (1870) for his "English
   Reprints."
 

@@ -4,12 +4,12 @@ CHELTENHAM, a municipal and parliamentary borough of Gloucestershire,
 England, 109 m. W. by N. of London by the Great Western railway; served
 also by the west and north line of the Midland railway. Pop. (1901)
 49,439. The town is well situated in the valley of the Chelt, a small
-tributary of the Severn, under the high line of the Cotteswold Hills to
+tributary of the Severn, under the high line of the [[Cotteswold Hills]] to
 the east, and is in high repute as a health resort. Mineral springs were
 accidentally discovered in 1716. The Montpellier and Pittville Springs
 supply handsome pump rooms standing in public gardens, and are the
 property of the corporation. The Montpellier waters are sulphated, and
-are valuable for their diuretic effect, and as a stimulant to the liver
+are valuable for their diuretic effect, and as a stimulant to the [[Liver|liver]]
 and alimentary canal. The alkaline-saline waters of Pittville are
 efficacious against diseases resulting from excess of uric acid. The
 parish church of St Mary dates from the 14th century, but is almost
@@ -27,17 +27,17 @@ Training College was founded in 1846 for the training of teachers, male
 and female, in national and parochial schools. A free grammar school was
 founded in 1568 by Richard Pate, recorder of Gloucester. The art gallery
 and museum may be mentioned also. The parliamentary borough returns one
-member. The municipal borough is under a mayor, 6 aldermen and 18
+member. The municipal borough is under a [[Mayor|mayor]], 6 aldermen and 18
 councillors. Area, 4726 acres. The urban district of Charlton Kings
 (pop. 3806) forms a south-eastern suburb of Cheltenham.
 
 The site of a British village and burying-ground, Cheltenham
 (_Celtanhomme_, _Chiltham_, _Chelteham_) was a village with a church in
-803. The manor belonged to the crown; it was granted to Henry de Bohun,
+803. The manor belonged to the crown; it was granted to Henry de [[Bohun]],
 earl of Hereford, late in the 12th century, but in 1199 was exchanged
 for other lands with the king. It was granted to William de Longespée,
 earl of Salisbury, in 1219, but resumed on his death and granted in
-dower to Eleanor of Provence in 1243. In 1252 the abbey of Fécamp
+[[Dower|dower]] to Eleanor of Provence in 1243. In 1252 the abbey of Fécamp
 purchased the manor, and it afterwards belonged to the priory of
 Cormeille, but was confiscated in 1415 as the possession of an alien
 priory, and was granted in 1461 to the abbey of Lyon, by which it was

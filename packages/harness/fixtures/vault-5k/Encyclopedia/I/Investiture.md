@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Investitur
 INVESTITURE (Late Lat. _investitura_), the formal installation into an
 office or estate, which constituted in the middle ages one of the acts
 that betokened the feudal relation between suzerain and vassal. The
-suzerain, after receiving the vassal's homage and oath of fealty,
+suzerain, after receiving the vassal's [[Homage|homage]] and oath of fealty,
 invested him with his land or office by presenting some symbol, such as
 a clod, a banner, a branch, or some other object according to the custom
 of the fief. Otto of Freising says: "It is customary when a kingdom is
@@ -18,7 +18,7 @@ delivered over to any one that a sword be given to represent it, and
 when a province is transferred a standard is given." As feudal customs
 grew more stereotyped, the sword and sceptre, emblematic respectively of
 service and military command and of judicial prerogatives, became the
-usual emblems of investiture of laymen. The word investiture (from
+usual [[Emblem|emblems]] of investiture of laymen. The word investiture (from
 _vestire_, to put in possession) is later than the 9th century; the
 thing itself was an outcome of feudal society.
 
@@ -43,7 +43,7 @@ invested with lands. This ecclesiastical investiture by lay princes
 dates at least from the time of Charlemagne. It did not seem fitting at
 first to confer ecclesiastical investiture by such military and worldly
 emblems as the sword and sceptre, nor to exact an oath of fealty. The
-emperor Henry I. invested bishops with a glove; Otto II. presented the
+emperor Henry I. invested bishops with a [[Glove|glove]]; Otto II. presented the
 pastoral staff; Conrad II., according to Wipo, went farther and required
 from the archbishop of Milan an oath of fealty. By the time of Henry
 III. investiture with ring and crozier had become the general practice:
@@ -80,7 +80,7 @@ synod of 1059 forbade any cleric to accept Church office from a layman.
 In the following year this decree was reaffirmed by synods held at
 Vienne and Toulouse under the presidency of a legate of Nicholas II. The
 main investiture struggle with the empire did not take place, however,
-until Hildebrand became Pope Gregory VII. To Gregory it was intolerable
+until [[Hildebrand]] became Pope Gregory VII. To Gregory it was intolerable
 that a layman, whether emperor, king or baron, should invest a churchman
 with the emblems of spiritual office; ecclesiastical investiture should
 come only from ecclesiastics. To the emperor Henry IV. it was highly
@@ -99,12 +99,12 @@ appear at Rome in order to justify his private misconduct, and Henry
 replied by causing the partisan synod of Worms (1076) to pronounce
 Gregory's deposition. The pope excommunicated the emperor and stirred up
 civil war against him in Saxony with such success that he brought about
-Henry's bitter humiliation at Canossa in the following year. The papal
+Henry's bitter humiliation at [[Canossa]] in the following year. The papal
 prohibition of lay investiture was renewed at synods in 1078 and 1080,
 and although Gregory's death in exile (1085) prevented him from
 realizing his aim in the matter, his policy was steadfastly maintained
 by his successors. Victor III. condemned lay investiture at the synod of
-Benevento in 1087, and Urban II. at that of Melfi in 1089. At the
+[[Benevento]] in 1087, and Urban II. at that of Melfi in 1089. At the
 celebrated council of Clermont (1095), at which the first crusade was
 preached, Urban strengthened the former prohibitions by declaring that
 no one might accept any spiritual office from a layman, or take an oath
@@ -117,14 +117,14 @@ to surrender all the temporalities that had been bestowed on the clergy
 since the days of Charlemagne in return for freedom of election and the
 abolition of lay investiture. Henry, having agreed to the proposal,
 entered Rome to receive his crown. The bishops and clergy who were
-present at the coronation protested against this surrender, and a tumult
+present at the [[Coronation|coronation]] protested against this surrender, and a tumult
 arising, the ceremony had to be abandoned. The king then seized pope and
 curia and left the city. After two months of close confinement Paschal
 consented to an unqualified renunciation on his part of the right of
 investiture. In the following year, however, a Lateran council
 repudiated this compact as due to violence, and a synod held at Vienne
 with papal approval declared lay investiture to be heresy and placed
-Henry under the ban. The struggle was complicated throughout its course
+Henry under the [[Ban|ban]]. The struggle was complicated throughout its course
 by political and other considerations; there were repeated rebellions of
 German nobles, constant strife between rival imperial and papal factions
 in the Lombard cities and at Rome, and creation of several anti-popes,
@@ -195,7 +195,7 @@ conceded under Stephen, and confirmed by John in Magna Carta.
   Konkordat_ (Breslau, 1906); R. Boerger, _Die Belehnungen der deutschen
   geistlichen Fursten_ (Leipzig, 1901); K. E. Benz, _Die Stellung der
   Bischofe von Meissen, Merseburg und Naumburg im Investiturstreite
-  unter Heinrich IV. und Heinrich V._ (Dresden, 1899); W. Martens,
+  unter Heinrich IV. und Heinrich V._ ([[Dresden]], 1899); W. Martens,
   _Gregor VII., sein Leben und Wirken_ (2 vols., Leipzig, 1894); P.
   Fisher, _The Medieval Empire_, c. 10 (London, 1898). For France, see
   P. Imbart de la Tour, _Les Elections episcopales dans l'eglise de
@@ -204,7 +204,7 @@ conceded under Stephen, and confirmed by John in Magna Carta.
   Capetiens 987-1180_ (2nd ed., Paris, 1891); P. Viollet, _Histoire des
   institutions politiques et administratives de la France_ (Paris,
   1898); Ibach, _Der Kampf zwischen Papsttum und Konigtum von Gregor
-  VII. bis Calixto II._ (Frankfort, 1884). For England, see J. F.
+  VII. bis Calixto II._ ([[Frankfort]], 1884). For England, see J. F.
   Bohmer, _Kirche und Staat in England und in der Normandie in XI. und
   XII. Jahrhundert_ (Leipzig, 1899); E. A. Freeman, _The Reign of
   William II. Rufus and the Accession of Henry I._ (London, 1882); H. W.

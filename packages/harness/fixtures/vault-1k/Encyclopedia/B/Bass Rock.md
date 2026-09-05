@@ -12,7 +12,7 @@ North Berwick Law and Traprain Law, but is non-porphyritic. It is
 regarded by Sir A. Geikie as a plug filling an old volcanic vent, from
 which lava emanated during the Calciferous Sandstone period. It used to
 be grazed by sheep, of which the mutton was thought to be unusually
-good, but its principal denizens are sea-birds, chiefly solan geese,
+good, but its principal [[Denizen|denizens]] are sea-birds, chiefly solan geese,
 which haunt the rock in vast numbers. A lighthouse with a six-flash
 lantern of 39,000 candle power was opened in 1002. For a considerable
 distance E. and W. there runs through the rock a tunnel, about 15 ft.
@@ -30,7 +30,7 @@ April 1694, only surrendering when threatened by starvation. Thus the
 island was the last place in Great Britain to submit to William III.
 Dismantled of its fortifications in 1701, the Bass passed into the
 ownership of Sir Hew Dalrymple, to whose family it belongs. It is let on
-annual rental for the feathers, eggs, oil and young of the sea-birds and
+annual rental for the feathers, [[Egg|eggs]], oil and young of the sea-birds and
 for the fees of visitors, who reach it usually from Canty Bay and North
 Berwick.
 

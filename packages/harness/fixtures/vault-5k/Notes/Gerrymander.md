@@ -13,7 +13,7 @@ give an unfair advantage to the party in power by means of a
 redistribution act, and so to manipulate constituencies generally, or
 arrange any political measure, with a view to an unfair party advantage.
 The word is derived from the name of the American politician Elbridge
-Gerry (q.v.). John Fiske, in his _Civil Government in the United States_
+Gerry (q.v.). John [[Fiske]], in his _Civil Government in the United States_
 (1890), says that in 1812, when Gerry was governor of Massachusetts, the
 Democratic state legislature (in order, according to Winsor, to secure
 an increased representation of the Democratic party in the state senate)
@@ -21,17 +21,17 @@ an increased representation of the Democratic party in the state senate)
 forming a single district in Essex county gave to the district a
 somewhat dragon-like contour. This was indicated upon a map of
 Massachusetts which Benjamin Russell, an ardent Federalist and editor of
-the _Centinel_, hung up over the desk in his office. The painter,
+the _Centinel_, hung up over the [[Desk|desk]] in his office. The painter,
 Gilbert Stuart, coming into the office one day and observing the uncouth
 figure, added with his pencil a head, wings and claws, and exclaimed,
 'That will do for a salamander!' 'Better say a Gerrymander,' growled the
 editor; and the outlandish name, thus duly coined, soon came into
 general currency." It was, however, only the name that was new. Fiske
-(who also refers to Winsor's _Memorial History of Boston_, iii. 212, and
-Bryce's _American Commonwealth_, i. 121) says that gerrymandering, as a
+(who also refers to Winsor's _Memorial History of [[Boston]]_, iii. 212, and
+Bryce's _American [[Commonwealth]]_, i. 121) says that gerrymandering, as a
 political dodge, "seems to have been first devised in 1788, by the
 enemies of the Federal constitution in Virginia, in order to prevent the
-election of James Madison to the first Congress, and fortunately it was
+election of James [[Madison]] to the first Congress, and fortunately it was
 unsuccessful." But it was really earlier than that, and in the American
 colonial period political advantage was often obtained by changing
 county lines. In 1709 the Pennsylvania counties of Bucks, Chester and
@@ -51,7 +51,7 @@ was repealed in 1813, when the Federalists had again gained control of
 the Massachusetts legislature.
 
   See also Elmer C. Griffith, _The Rise and Development of the
-  Gerrymander_ (Chicago, 1907); John W. Dean, "History of the
+  Gerrymander_ ([[Chicago]], 1907); John W. Dean, "History of the
   Gerrymander," in _New England Historical and Genealogical Register_,
   vol. xlvi. (Boston, 1892).
 

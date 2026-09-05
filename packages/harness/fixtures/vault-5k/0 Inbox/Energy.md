@@ -20,7 +20,7 @@ overcome and the distance through which it is overcome conjointly.
 
 Now, we may select any definite quantity of work we please as our unit,
 as, for example, the work done in lifting a pound a foot high from the
-sea-level in the latitude of London, which is the unit of work generally
+sea-level in the [[Latitude|latitude]] of London, which is the unit of work generally
 adopted by British engineers, and is called the "foot-pound." The most
 appropriate unit for scientific purposes is one which depends only on
 the fundamental units of length, mass and time, and is hence called an
@@ -41,7 +41,7 @@ therefore be the same as that of work, and the centimetre-gramme-second
 
 The forms of energy which are most readily recognized are of course
 those in which the energy can be most directly employed in doing
-mechanical work; and it is manifest that masses of matter which are
+mechanical work; and it is [[Manifest|manifest]] that masses of matter which are
 large enough to be seen and handled are more readily dealt with
 mechanically than are smaller masses. Hence when useful work can be
 obtained from a system by simply connecting visible portions of it by a
@@ -67,7 +67,7 @@ attached to the other end of the string, through the same height, and
 thus can do nearly 10 foot-pounds of work. The smoother we make the
 pulley the more nearly does the amount of useful work which the weight
 is capable of doing approach 10 foot-pounds, and if we take into account
-the work done against the friction of the pulley, we may say that the
+the work done against the [[Friction|friction]] of the pulley, we may say that the
 work done by the descending weight is 10 foot-pounds, and hence when the
 weight is in its elevated position we have at disposal 10 foot-pounds
 more energy than when it is in the lower position. It should be noticed,
@@ -191,7 +191,7 @@ raise 26.58 lb. of water from the freezing to the boiling point, and in
 this calculation the heat lost by radiation and conduction was
 neglected. Since one horse was capable of doing the work required,
 Rumford remarked that one horse can generate heat as rapidly as nine wax
-candles burning in the ordinary manner.
+[[Candle|candles]] burning in the ordinary manner.
 
 Finally, Rumford reviewed all the sources from which the heat might have
 been supposed to be derived, and concluded that it was simply produced
@@ -264,7 +264,7 @@ inexact that the value of the mechanical equivalent of heat obtained by
 Mayer was very far from the truth.
 
 Passing over L.A. Colding, who in 1843 presented to the Royal Society of
-Copenhagen a paper entitled "Theses concerning Force," which clearly
+[[Copenhagen]] a paper entitled "Theses concerning Force," which clearly
 stated the "principle of the perpetuity of energy," and who also
 performed a series of experiments for the purpose of determining the
 heat developed by the compression of various bodies, which entitle him
@@ -313,7 +313,7 @@ accurate experimental method at his command, Joule established a series
 of cases in which the production of one kind of energy was accompanied
 by a disappearance of some other form. In 1840 he showed that when an
 electric current was produced by means of a dynamo-magneto-electric
-machine the heat generated in the conductor, when no external work was
+[[Machine|machine]] the heat generated in the conductor, when no external work was
 done by the current, was the same as if the energy employed in producing
 the current had been converted into heat by friction, thus showing that
 electric currents conform to the principle of the conservation of
@@ -392,7 +392,7 @@ Though we can convert the whole of the energy possessed by any
 mechanical system into heat, it is not in our power to perform the
 inverse operation, and to utilize the whole of the heat in doing
 mechanical work. Thus we see that different forms of energy are not
-equally valuable for conversion into work. The ratio of the portion of
+equally valuable for [[Conversion|conversion]] into work. The ratio of the portion of
 the energy of a system which can under given conditions be converted
 into mechanical work to the whole amount of energy operated upon may be
 called the "availability" of the energy. If a system be removed from all
@@ -453,7 +453,7 @@ may be sifted into two parts, in which both the temperature and the
 pressure are different, and from which, therefore, work can be obtained
 at the expense of heat. This shows that the principle of the dissipation
 of energy has control over the actions of those agents only whose
-faculties are too gross to enable them to grapple individually with the
+faculties are too [[Gross|gross]] to enable them to grapple individually with the
 minute portions of matter which are the seat of energy.
 
 In 1875 Lord Rayleigh published an investigation on "the work which may
@@ -465,7 +465,7 @@ lost." He shows that the amount of work obtainable is equal to that
 which can be done by the first gas in expanding into the space occupied
 by the second (supposed vacuous) together with that done by the second
 in expanding into the space occupied by the first. In the experiment
-imagined by Lord Rayleigh a porous diaphragm takes the place of the
+imagined by Lord Rayleigh a porous [[Diaphragm|diaphragm]] takes the place of the
 partition and trap-doors imagined by Clerk Maxwell, and the molecules
 sort themselves automatically on account of the difference in their
 average velocities for the two gases. When the pressure on one side of
@@ -541,7 +541,7 @@ from a given supply of energy, and to obtain it at the greatest rate,
 are conflicting interests. We have seen that the _efficiency_ of an
 electromagnetic engine is greatest when the current is indefinitely
 small, and then the rate at which it works is also indefinitely small.
-M.H. von Jacobi showed that for a given electromotive force in the
+M.H. von [[Jacobi]] showed that for a given electromotive force in the
 battery the horse-power is greatest when the current is reduced to
 one-half of what it would be if the engine were at rest. A similar
 condition obtains in the steam-engine, in which a great rate of working

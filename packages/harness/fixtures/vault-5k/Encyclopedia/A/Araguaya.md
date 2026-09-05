@@ -9,10 +9,10 @@ topic: philosophy
 ARAGUAYA, ARAGUAY or ARAGUIA, a river of Brazil and principal affluent
 of the Tocantins, rising in the Serra do Cayapo, where it is known as
 the Rio Grande, and flowing in a north by east direction to a junction
-with the Tocantins at Sao Joao do Araguaya, or Sao Joao das Duas Barras.
+with the Tocantins at Sao Joao do Araguaya, or Sao Joao das Duas [[Barra|Barras]].
 Its upper course forms the boundary line between Goyaz and Matto Grosso.
 The river divides into two branches at about 13 deg. 20' S. lat., and
-unites again at 10 deg. 30', forming the large island of Santa Anna or
+unites again at 10 deg. 30', forming the large island of Santa [[Anna]] or
 Bananal. The eastern branch, called the Furo, is the one used by boats,
 as the main channel is obstructed by rapids. Its principal affluent is
 the Rio das Mortes, which rises in the Serra de Sao Jeronymo, near

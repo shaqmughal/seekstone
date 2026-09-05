@@ -7,14 +7,14 @@ topic: mountains
 # Black Sea
 
 BLACK SEA (or EUXINE; anc. _Pontus Euxinus_),[1] a body of water lying
-almost entirely between the latitudes 41 deg. and 45 deg. N., but
+almost entirely between the [[Latitude|latitudes]] 41 deg. and 45 deg. N., but
 extending to about 47 deg. N. near Odessa. It is bounded N. by the
-southern coast of Russia; W. by Rumania, Turkey and Bulgaria; S. and E.
+southern coast of Russia; W. by Rumania, Turkey and [[Bulgaria]]; S. and E.
 by Asia Minor. The northern boundary is broken at Kertch by a strait
 entering into the Sea of Azov, and at the junction of the western and
 southern boundary is the Bosporus, which unites the Black Sea with the
 Mediterranean through the Sea of Marmora and the Dardanelles. The
-100-fathom line is about 10 to 20 m. from the shore except in the
+100-[[Fathom|fathom]] line is about 10 to 20 m. from the shore except in the
 north-west corner between Varna and Sevastopol, where it extends 140 m.
 seawards. The greatest depth is 1030 fathoms (1227 Russian fathoms) near
 the centre, there being only one basin. The steepest incline outside 100
@@ -59,7 +59,7 @@ The _Sea of Marmora_ may be looked upon as an arm of the Aegean Sea and
 thus part of the Mediterranean proper. Its salinity is comparable to
 that of the eastern basin of the Mediterranean, which is greater than
 that of the Black Sea, viz. 4%. Similar currents exist in the Bosporus
-to those of the Strait of Gibraltar. Water of less salinity flows
+to those of the Strait of [[Gibraltar]]. Water of less salinity flows
 outwards from the Black Sea as an upper current, and water of greater
 salinity from the Sea of Marmora flows into the Black Sea as an
 under-current. This under-current flows towards Cape Tarhangut, where it

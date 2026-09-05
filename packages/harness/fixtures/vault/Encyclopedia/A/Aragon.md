@@ -2,10 +2,10 @@
 
 ARAGON, or ARRAGON (in Span. _Aragon_), a captaincy-general, and
 formerly a kingdom of Spain; bounded on the N. by the Pyrenees, which
-separate it from France, on the E. by Catalonia and Valencia, S. by
+separate it from France, on the E. by [[Catalonia]] and Valencia, S. by
 Valencia, and W. by the two Castiles and Navarre. Pop. (1900) 912,711;
 area, 18,294 sq. m. Aragon was divided in 1833 into the provinces of
-Huesca, Teruel and Saragossa; an account of its modern condition is
+[[Huesca]], Teruel and Saragossa; an account of its modern condition is
 therefore given under these names, which have not, however, superseded
 the older designation in popular usage.
 
@@ -29,8 +29,8 @@ de Ebro, a distance of 80 m.; it has a depth of 9 ft., and an average
 breadth of 69, and is navigable for vessels of about 80 tons. The Royal
 Canal of Tauste, which lies along the north side of the Ebro, was cut
 for purposes of irrigation, and gives fertility to the district. Two
-leagues north-north-east of Albarracin is the remarkable fountain called
-Cella, 3700 ft. above the sea, which forms the source of the Jiloca; and
+leagues north-north-east of Albarracin is the remarkable [[Fountain|fountain]] called
+[[Cella]], 3700 ft. above the sea, which forms the source of the Jiloca; and
 between this river and the Sierra Molina is an extensive lake called
 Gallocanta, covering about 6000 acres. The climate is characterized by
 extreme heat in the summer and cold in the winter; among the mountains
@@ -46,8 +46,8 @@ ash-coloured, scarred with dry watercourses, and destitute of any
 vegetation except thin grass and heaths. In contrast with the splendid
 fertility of Valencia or the south of France, the landscape of this
 region, like the rest of central Spain, seems almost a continuation of
-the north African desert area. There are, however, extensive oak, pine
-and beech forests in the highlands, and many beautiful oases in the
+the north African [[Desert|desert]] area. There are, however, extensive oak, pine
+and [[Beech|beech]] forests in the highlands, and many beautiful oases in the
 deeply sunk valleys, and along the rivers, especially beside the Ebro,
 which is, therefore, often called the "Nile of Aragon." In such oases
 the flora is exceedingly rich. Wheat, maize, rice, oil, flax and hemp,
@@ -57,8 +57,8 @@ is one of the chief products.
 
 In purity of race the Aragonese are probably equal to the Castilians, to
 whom, rather than to the Catalans or Valencians, they are also allied in
-character. The dress of the women is less distinctive than that of the
-men, who wear a picturesque black and white costume, with knee-breeches,
+character. The [[Dress|dress]] of the women is less distinctive than that of the
+men, who wear a picturesque black and white [[Costume|costume]], with knee-breeches,
 a brilliantly coloured sash, black hempen sandals, and a handkerchief
 wound round the head.
 
@@ -75,21 +75,21 @@ rival, and welded Sobrarbe, Ribagorza and Aragon into a single kingdom,
 which thenceforward grew rapidly in size and power and shared with
 Castile the chief part in the struggle against the Moors. The history of
 this period, which was terminated by the union of Castile and Aragon
-under Ferdinand and Isabella in 1479, is given, along with a full
+under [[Ferdinand]] and [[Isabella]] in 1479, is given, along with a full
 account of the very interesting constitution of Aragon, under SPAIN
 (q.v.). At the height of its power under James I. (1213-1276), the
-kingdom included Valencia, Catalonia, the Balearic Islands and the
+kingdom included Valencia, Catalonia, the [[Balearic Islands]] and the
 considerable territory of Montpellier in France; while Peter III.
 (1276-1285) added Sicily to his dominions.
 
   The literature relating to Aragon is very extensive. See, in addition
   to the works cited in the article SPAIN (section _History_), "Les
-  Archives d'Aragon et de Navarre," by L. Cadier, in _Bibliotheque de
+  [[Archive|Archives]] d'Aragon et de Navarre," by L. Cadier, in _Bibliotheque de
   l'Ecole des Chartes_, 49 (Paris, 1888). Among the more important
   original authorities, the following may be selected:--for general
   history, _Anales de la corona de Aragon_, by G. Curita, 3rd ed. in 7
-  folio volumes (Saragossa, 1668-1671; 1st ed. 1562-1580);--for
-  ecclesiastical history, _Teatro historico de las iglesias de Aragon_
+  [[Folio|folio]] volumes (Saragossa, 1668-1671; 1st ed. 1562-1580);--for
+  ecclesiastical history, _Teatro historico de las [[Iglesias|iglesias]] de Aragon_
   (Pamplona, 1770-1807); for economic history, _Historia de la economia
   politica de Aragon_, by I.J. de Asso y del Rio (Saragossa, 1798). For
   the constitution and laws of Aragon, see _Origines del Justicia de
@@ -97,7 +97,7 @@ considerable territory of Montpellier in France; while Peter III.
   _Instituciones y reyes de Aragon_, by V. Balaguer (Madrid, 1896). The
   topography, inhabitants, art, products, &c., of the kingdom are
   described in a volume of the series _Espana_ entitled _Aragon_, by
-  J.M. Quadrado (Barcelona, 1886).
+  J.M. Quadrado ([[Barcelona]], 1886).
 
 ## References
 

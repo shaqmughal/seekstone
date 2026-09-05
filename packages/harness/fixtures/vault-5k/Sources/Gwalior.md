@@ -6,9 +6,9 @@ the dominion of the Sindhia family. The state consists of two
 well-defined parts which may roughly be called the northern and the
 southern. The former is a compact mass of territory, bounded N. and N.W.
 by the Chambal river, which separates it from the British districts of
-Agra and Etawah, and the native states of Dholpur, Karauli and Jaipur of
+Agra and [[Etawah]], and the native states of Dholpur, [[Karauli]] and Jaipur of
 Rajputana; E. by the British districts of Jalaun, Jhansi, Lalitpur and
-Saugor; S. by the states of Bhopal, Tonk, Khilchipur and Rajgarh; and W.
+Saugor; S. by the states of [[Bhopal]], Tonk, Khilchipur and Rajgarh; and W.
 by those of Jhalawar, Tonk and Kotah of Rajputana. The southern, or
 Malwa, portion is made up of detached or semi-detached districts,
 between which are interposed parts of other states, which again are
@@ -47,7 +47,7 @@ north-western and northern and eastern boundary. The Sind, with its
 tributaries the Kuwari, Asar and Sankh, flows through the northern
 division. The chief products are wheat, millets, pulses of various
 kinds, maize, rice, linseed and other oil-seeds; poppy, yielding the
-Malwa opium; sugar-cane, cotton, tobacco, indigo, garlic, turmeric and
+Malwa opium; sugar-cane, cotton, tobacco, indigo, [[Garlic|garlic]], turmeric and
 ginger. About 60% of the population are employed in agricultural and
 only 15% in industrial occupations, the great majority of the latter
 being home workers. There is a leather-factory at Morar; cotton-presses
@@ -71,7 +71,7 @@ occasion the viceroy opened the Victoria College, founded to commemorate
 the Diamond Jubilee; and the Memorial Hospital, built in memory of the
 maharaja's father. British currency has been introduced instead of
 Chandori rupees, which were much depreciated. The state maintains three
-regiments of Imperial Service cavalry, two battalions of infantry and a
+regiments of Imperial Service cavalry, two [[Battalion|battalions]] of infantry and a
 transport corps.
 
 _History._--The Sindhia family, the rulers of the Gwalior state, belong
@@ -98,7 +98,7 @@ himself on the protection of the British, the reverses which Mahadji
 encountered at their hands--Gwalior being taken by Major Popham in
 1780--opened his eyes to their power. By the treaty of Salbai (1782) it
 was agreed that Mahadji should withdraw to Ujjain, and the British
-retire north of the Jumna. Mahadji, who undertook to open negotiations
+retire north of the [[Jumna]]. Mahadji, who undertook to open negotiations
 with the other belligerents, was recognized as an independent ruler, and
 a British resident was established at his court. Mahadji, aided by the
 British policy of neutrality, now set to work to establish his supremacy
@@ -116,7 +116,7 @@ protector of the aged emperor. Though nominally a deputy of the peshwa
 he was now ruler of a vast territory, including the greater part of
 Central India and Hindustan proper, while his lieutenants exacted
 tribute from the chiefs of Rajputana. There can be no doubt that he
-looked with apprehension on the growing power of the British; but he
+looked with [[Apprehension|apprehension]] on the growing power of the British; but he
 wisely avoided any serious collision with them.
 
 Mahadji died in 1794, and was succeeded by his adopted son, Daulat Rao
@@ -132,9 +132,9 @@ followed a combined Mahratta army, in which Daulat Rao's troops
 furnished the largest contingent, was defeated by General Arthur
 Wellesley at Assaye and Argaum in Central India; and Lord Lake routed
 Daulat Rao's European-trained battalions in Northern India at Agra,
-Aligarh and Laswari. Daulat Rao was then compelled to sign the treaty of
+Aligarh and [[Laswari]]. Daulat Rao was then compelled to sign the treaty of
 Sarji Anjangaon (December 30, 1803), which stripped him of his
-territories between the Jumna and Ganges, the district of Broach in
+territories between the Jumna and [[Ganges]], the district of Broach in
 Gujarat and other lands in the south. By the same treaty he was deprived
 of the forts of Gwalior and Gohad; but these were restored by Lord
 Cornwallis in 1805, when the Chambal river was made the northern
@@ -157,7 +157,7 @@ and misrule now induced Lord Ellenborough to interpose, and a British
 force under Sir Hugh Gough advanced upon Gwalior (December 1843). The
 Mahratta troops were defeated simultaneously at Maharajpur and Punniar
 (December 29), with the result that the Gwalior government signed a
-treaty ceding territory with revenue sufficient for the maintenance of a
+treaty ceding territory with revenue sufficient for the [[Maintenance|maintenance]] of a
 contingent force to be stationed at the capital, and limiting the future
 strength of the Gwalior army, while a council of regency was appointed
 during the minority to act under the resident's advice. In 1857 the
@@ -181,8 +181,8 @@ attaching to his position. He was created an honorary aide-de-camp to
 the king-emperor and an honorary colonel in the British army. He went to
 China as orderly officer to General Gaselee in 1901, and provided the
 expedition with a hospital ship at his own expense, while his Imperial
-Service Transport Corps proved a useful auxiliary to the British army in
-the Chitral and Tirah expeditions.
+Service Transport Corps proved a useful [[Auxiliary|auxiliary]] to the British army in
+the [[Chitral]] and Tirah expeditions.
 
 The CITY OF GWALIOR is 76 m. by rail S. of Agra, and had a population in
 1901 of 119,433. This total includes the new town of Lashkar or "the
@@ -237,7 +237,7 @@ then passed into the hands of several chiefs until in 1559 Akbar gained
 possession of it, and made it a state prison for captives of rank. On
 the dismemberment of the Delhi empire, Gwalior was seized by the Jat
 rana of Gohad. Subsequently it was garrisoned by Sindhia, from whom it
-was wrested in 1780 by the forces of the East India Company, and to whom
+was wrested in 1780 by the forces of the [[East India Company]], and to whom
 it was finally restored by the British in 1886. The modern town contains
 the palace of the chief, a college, a high school, a girls' school, a
 service school to train officials, a law school, hospitals for men and

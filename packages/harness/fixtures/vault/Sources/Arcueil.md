@@ -17,8 +17,8 @@ water from the spring of Rungis some 4 m. south of Arcueil, across the
 Bievre to the Luxembourg palace in Paris. In 1868-1872 another
 aqueduct, still longer, was superimposed above that of the 17th century,
 forming part of the system conveying water from the river Vanne to
-Paris. The two together reach a height of about 135 ft. Bleaching, and
-the manufacture of bottle capsules, patent leather and other articles
+Paris. The two together reach a height of about 135 ft. [[Bleaching]], and
+the manufacture of bottle [[Capsule|capsules]], patent leather and other articles
 are carried on at Arcueil; and there are important stone quarries.
 
 ## See also

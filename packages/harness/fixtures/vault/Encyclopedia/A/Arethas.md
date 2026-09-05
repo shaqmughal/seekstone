@@ -1,7 +1,7 @@
 # Arethas
 
 ARETHAS (c. 860-940), Byzantine theological writer and scholar,
-archbishop of Caesarea in Cappadocia, was born at Patrae. He was the
+archbishop of Caesarea in [[Cappadocia]], was born at Patrae. He was the
 author of a Greek commentary on the Apocalypse, avowedly based upon that
 of Andrew, his predecessor in the archbishopric. In spite of its
 author's modest estimate, Arethas's work is by no means a slavish
@@ -22,7 +22,7 @@ Patmos), and the Dorvillian MS. of Euclid (now at Oxford).
   Geschichte der altchristlichen Litt._ i. pp. 36-46 (1882), and _Vita
   Euthymii_ (patriarch of Constantinople, d. 917), ed. C. de Boor
   (1888); H. Wace, _Dictionary of Christian Biography_, i.; C.
-  Krumbacher, _Geschichte der byzantinischen Litteratur_ (1897); G.
+  [[Krumbacher]], _Geschichte der byzantinischen Litteratur_ (1897); G.
   Heinrici in Herzog-Hauck, _Realencyklopadie_ (1897).
 
 ## See also

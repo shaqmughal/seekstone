@@ -7,7 +7,7 @@ topic: shipbuilding
 # Jonah
 
 JONAH, in the Bible, a prophet born at Gath-hepher in Zebulun, perhaps
-under Jeroboam (2) (781-741 B.C.?), who foretold the deliverance of
+under [[Jeroboam]] (2) (781-741 B.C.?), who foretold the deliverance of
 Israel from the Aramaeans (2 Kings xiv. 25). This prophet may also be
 the hero of the much later book of Jonah, but how different a man is
 he! It is, however, the later Jonah who chiefly interests us. New
@@ -19,19 +19,19 @@ This, then is what we appear to be told. The prophet Jonah is summoned
 to go to Nineveh, a great and wicked city (cf. 4 Esdras ii. 8, 9), and
 prophesy against it. Jonah, however, is afraid (iv. 2) that the
 Ninevites may repent, so, instead of going to Nineveh, he proceeds to
-Joppa, and takes his passage in a ship bound for Tarshish. But soon a
+[[Joppa]], and takes his passage in a ship bound for Tarshish. But soon a
 storm arises, and, supplication to the gods failing, the sailors cast
-lots to discover the guilty man who has brought this great trouble. The
+[[Lot|lots]] to discover the guilty man who has brought this great trouble. The
 lot falls on Jonah, who has been roughly awakened by the captain, and
 when questioned frankly owns that he is a Hebrew and a worshipper of the
 divine creator Yahweh, from whom he has sought to flee (as if He were
-only the god of Canaan). Jonah advises the sailors to throw him into the
+only the god of [[Canaan]]). Jonah advises the sailors to throw him into the
 sea. This, after praying to Yahweh, they actually do; at once the sea
-becomes calm and they sacrifice to Yahweh. Meantime God has "appointed a
+becomes [[Calm|calm]] and they sacrifice to Yahweh. Meantime God has "appointed a
 great fish" which swallows up Jonah. Three days and three nights he is
 in the fish's belly, till, at a word from Yahweh, it vomits Jonah on to
 the dry ground. Again Jonah receives the divine call. This time he
-obeys. After delivering his message to Nineveh he makes himself a booth
+obeys. After delivering his message to Nineveh he makes himself a [[Booth|booth]]
 outside the walls and waits in vain for the destruction of the city
 (probably iv. 5 is misplaced and should stand after iii. 4). Thereupon
 Jonah beseeches Yahweh to take away his worthless life. As an answer
@@ -57,23 +57,23 @@ lands. God had watched over His people and prepared its choicer members
 to fulfil His purpose. This company of faithful but not always
 sufficiently charitable men represented their people, so that it might
 be said that Israel itself (the second Isaiah's "Servant of Yahweh"--see
-ISAIAH) had taken up its duty, but in an ungenial spirit which grieved
+[[Isaiah|ISAIAH]]) had taken up its duty, but in an ungenial spirit which grieved
 the All-merciful One. The book, which is post-exilic, may therefore be
 grouped with another Midrash, the Book of Ruth, which also appears to
 represent a current of thought opposed to the exclusive spirit of Jewish
 legalism.
 
-Some critics, however, think that the key of symbolism needs to be
+Some critics, however, think that the [[Key|key]] of symbolism needs to be
 supplemented by that of mythology. The "great fish" especially has a
-very mythological appearance. The Babylonian dragon myth (see COSMOGONY)
+very mythological appearance. The Babylonian dragon myth (see [[Cosmogony|COSMOGONY]])
 is often alluded to in the Old Testament, e.g. in Jer. li. 44, which, as
 the present writer long since pointed out, may supply the missing link
 between Jonah i. 17 and the original myth. For the "great fish" is
-ultimately Tiamat, the dragon of chaos, represented historically by
+ultimately Tiamat, the dragon of [[Chaos|chaos]], represented historically by
 Nebuchadrezzar, by whom for a time God permitted or "appointed" Israel
 to be swallowed up.
 
-  For further details see T. K. Cheyne, _Ency. Bib._, "Jonah"; and his
+  For further details see T. K. [[Cheyne]], _Ency. Bib._, "Jonah"; and his
   article "Jonah, a Study in Jewish Folklore and Religion," _Theological
   Review_ (1877), pp. 211-219. König, Hastings's _Dict. Bible_, "Jonah,"
   is full but not lucid; C. H. H. Wright, _Biblical Studies_ (1886)

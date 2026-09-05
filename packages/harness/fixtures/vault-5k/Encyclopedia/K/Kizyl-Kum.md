@@ -1,6 +1,6 @@
 # Kizyl-Kum
 
-KIZYL-KUM, a desert of Western Asia, stretching S.E. of the Aral Lake
+KIZYL-KUM, a [[Desert|desert]] of Western Asia, stretching S.E. of the Aral Lake
 between the river Syr-darya on the N.E. and the river Amu-darya on the
 S.W. It measures some 370 by 220 m., and is in part covered with
 drift-sand or dunes, many of which are advancing slowly but steadily

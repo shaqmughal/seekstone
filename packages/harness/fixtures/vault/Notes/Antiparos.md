@@ -21,11 +21,11 @@ remarkable examples of stalactite formations and incrustations of
 dazzling brilliance. It is not mentioned by ancient writers; the first
 western traveller to visit it was the marquis de Nointel (ambassador of
 Louis XIV. to the Porte) who descended it with a numerous suite and held
-high mass there on Christmas day 1673. There is, however, in the
+high mass there on [[Christmas]] day 1673. There is, however, in the
 entrance of the cavern an inscription recording the names of visitors in
 ancient times.
 
-  See J.P. de Tournefort, _Relation d'un voyage au Levant_ (1717);
+  See J.P. de Tournefort, _Relation d'un voyage au [[Levant]]_ (1717);
   English edition, 1718, vol. i. p. 146, and guide-books to Greece.
 
 ## See also

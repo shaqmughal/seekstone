@@ -24,7 +24,7 @@ similar schemes, among which those of Nikolaas Samuel Cruquius in 1742
 and of Baron van Lijnden van Hemmen in 1820 are worthy of special
 mention, were brought forward from time to time. But it was not till a
 furious hurricane in November 1836 drove the waters as far as the gates
-of Amsterdam, and another on Christmas Day sent them in the opposite
+of Amsterdam, and another on [[Christmas]] Day sent them in the opposite
 direction to submerge the streets of Leiden, that the mind of the nation
 was seriously turned to the matter. In August 1837 the king appointed a
 royal commission of inquiry; the scheme proposed by the commission

@@ -15,8 +15,8 @@ picturesque medieval castle, and contains the church of S. Christina
 which dates from the 11th century and contains some frescoes, perhaps of
 the school of Giotto. It has a fine Renaissance facade, constructed
 about 1500 by Cardinal Giovanni de' Medici (afterwards Pope Leo X.), and
-some good terra cottas by the Della Robbia. Beneath the church are
-catacombs, with the tomb of the saint, discovered in 1880 (E. Stevenson
+some good terra [[Cotta|cottas]] by the [[Della Robbia]]. Beneath the church are
+[[Catacomb|catacombs]], with the tomb of the saint, discovered in 1880 (E. Stevenson
 in _Notizie degli Scavi_, 1880, 262; G.B. de Rossi in _Bullettino
 d'Archeologia Cristiana_, 1880, 109). At one of the altars in this crypt
 occurred the miracle of Bolsena in 1263. A Bohemian priest, sceptical of
@@ -30,7 +30,7 @@ Vatican.
 The Lake of Bolsena (anc. _Lacus Volsiniensis_), 1000 ft. above
 sea-level, 71 sq. m. in area, and 480 ft. deep, is almost circular, and
 was the central point of a large volcanic district, though it is
-probably not itself an extinct crater. Its sides show fine basaltic
+probably not itself an extinct [[Crater|crater]]. Its sides show fine basaltic
 formation in places. It abounds in fish, but its banks are somewhat
 deserted and not free from malaria. It contains two islands, Bisentina
 and Martana, the former containing a church constructed by Vignola, the

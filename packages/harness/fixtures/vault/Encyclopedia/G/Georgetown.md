@@ -7,7 +7,7 @@ type: note
 
 # Georgetown
 
-GEORGETOWN, the capital of British Guiana (see GUIANA), and the seat of
+GEORGETOWN, the capital of British [[Guiana]] (see GUIANA), and the seat of
 the colonial government, situated on the left bank of the Demerara river
 at its mouth, in 6 deg. 29' 24" N. and 58 deg. 11' 30" W. It was known
 during the Dutch occupation as Stabroek, and was established as the seat
@@ -28,8 +28,8 @@ quarters. Water Street, the business centre, runs parallel to the river
 for about 2-1/2 m. and contains the stores of the wholesale and retail
 merchants, their wharves running out into the river to allow steamers to
 come alongside. Most of the houses and public buildings are constructed
-of wood, the former generally raised on brick pillars some 4 ft. to 10
-ft. from the ground, the bright colouring of the wooden walls, jalousies
+of wood, the former generally raised on [[Brick|brick]] pillars some 4 ft. to 10
+ft. from the ground, the [[Bright|bright]] colouring of the wooden walls, jalousies
 and roofs adding to the beauty of the best streets. The large structure
 known as the Public Buildings in the centre of the city, containing the
 offices of the executive government and the hall of the court of policy,
@@ -39,7 +39,7 @@ marble-paved galleries carried on cast-iron columns. The law courts,
 built in the 'eighties, have a ground floor of concrete and iron, the
 upper storey being of hardwood. Among other public buildings are the
 town hall, the Anglican and Roman Catholic cathedrals, several handsome
-churches, the local banks and insurance offices, and the almshouse. The
+churches, the local banks and [[Insurance|insurance]] offices, and the almshouse. The
 public hospital consists of several large blocks. The Royal
 Agricultural and Commercial Society has a large reading-room and
 lending library. The assembly rooms, above and owned by the Georgetown
@@ -54,12 +54,12 @@ considerable extent and admirably laid out. The nurseries cover a large
 area and are devoted chiefly to the raising of plants of economic
 importance which can be purchased at nominal rates. The collections of
 ferns and orchids are very fine. In the gardens are also located the
-fields of the board of agriculture, where experimental work in the
+[[Fields|fields]] of the board of agriculture, where experimental work in the
 growth of sugar-cane, rice, cotton and all tropical plants of economic
 importance is carried on. Other popular resorts are the sea wall and the
 promenade gardens in the centre of the city.
 
-The local government of Georgetown is vested in a mayor and town council
+The local government of Georgetown is vested in a [[Mayor|mayor]] and town council
 elected under a very restricted franchise. The city is divided into
 fourteen wards each with one representative. A councillor must possess,
 either personally or through his wife, premises within the city of the
@@ -81,8 +81,8 @@ a branch of the police force, half the cost being borne by the rates and
 half by the general revenue. There is an excellent service of
 telephones, a branch of the post office, and halfpenny postage within
 the city boundaries. There are in Georgetown two well-equipped
-foundries, a dry dock, and factories for the manufacture of rice,
-cigars, soap, boots, chocolate, candles, aerated waters and ice.
+foundries, a dry [[Dock|dock]], and factories for the manufacture of rice,
+[[Cigar|cigars]], soap, boots, chocolate, [[Candle|candles]], aerated waters and [[Ice|ice]].
 Georgetown is connected by rail and ferry with New Amsterdam, by ferry
 and rail with the west coast of Demerara, and by steamer with all the
 country districts along the coast and up the navigable reaches of the

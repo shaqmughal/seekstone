@@ -4,13 +4,13 @@ CALNE, a market town and municipal borough in the Chippenham
 parliamentary division of Wiltshire, England, 99 m. west of London by
 the Great Western railway. Pop. (1901) 3457. Area, 356 acres. It lies in
 the valley of the Calne, and is surrounded by the high table-land of
-Salisbury Plain and the Marlborough Downs. The church of St Mark has a
-nave with double aisles, and massive late Norman pillars and arches. The
+Salisbury Plain and the [[Marlborough]] [[Downs]]. The church of St Mark has a
+nave with double aisles, and massive late Norman pillars and [[Arches|arches]]. The
 tower, which fell in 1628, was perhaps rebuilt by Inigo Jones. Other
 noteworthy buildings are a grammar school, founded by John Bentley in
 1660, and the town-hall. Bacon-curing is the staple industry, and there
 are flour, flax and paper mills. The manufacture of broadcloth, once of
-great importance, is almost extinct. Calne is governed by a mayor, four
+great importance, is almost extinct. Calne is governed by a [[Mayor|mayor]], four
 aldermen and twelve councillors.
 
 In the 10th century Calne (_Canna_, _Kalne_) was the site of a palace of

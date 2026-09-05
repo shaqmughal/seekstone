@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bushel"
 # Bushel
 
 BUSHEL (from the O. Fr. _boissiel_, cf. med. L. _bustellus, busellus_, a
-little box), a dry measure of capacity, containing 8 gallons or 4 pecks. It
-has been in use for measuring corn, potatoes, &c., from a very early date;
+little [[Box|box]]), a dry measure of capacity, containing 8 gallons or 4 pecks. It
+has been in use for measuring [[Corn|corn]], potatoes, &c., from a very early date;
 the value varying locally and with the article measured. The "imperial
 bushel", legally established in Great Britain in 1826, contains 2218.192
 cub.in., or 80 lb of distilled water, determined at 62 deg. F., with the

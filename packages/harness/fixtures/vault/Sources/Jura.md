@@ -10,9 +10,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Jura"
 
 JURA, a range which may be roughly described as the block of mountains
 rising between the Rhine and the Rhone, and forming the frontier between
-France and Switzerland. The gorges by which these two rivers force their
+France and Switzerland. The [[Gorges|gorges]] by which these two rivers force their
 way to the plains cut off the Jura from the Swabian and Franconian
-ranges to the north and those of Dauphiné to the south. But in very
+ranges to the north and those of [[Dauphin]]é to the south. But in very
 early days, before these gorges had been carved out, there were no
 openings in the Jura at all, and even now its three chief rivers--the
 Doubs, the Loue and the Ain--flow down the western slope, which is both
@@ -33,9 +33,9 @@ subaerial agencies have exercised their ordinary influence.
 
 Geologically the Jura Mountains belong to the Alpine system; and the
 same forces which crumpled and tore the strata of the one produced the
-folds and faults in the other. Both chains owe their origin to the mass
+[[Fold|folds]] and [[Fault|faults]] in the other. Both chains owe their origin to the mass
 of crystalline and unyielding rock which forms the central plateau of
-France, the Vosges and the Black Forest, and which, between the Vosges
+France, the Vosges and the [[Black Forest]], and which, between the Vosges
 and the central plateau, lies at no great depth beneath the surface.
 Against this mass the more yielding strata which lay to the south and
 west were crushed and folded, and the Alps and the Jura were carved from
@@ -44,7 +44,7 @@ towards the north; the folding in the Alps is much more violent than the
 folding in the Jura, and in the Jura itself the folding is most marked
 along its southern flanks.
 
-The Jura is composed chiefly of Jurassic rocks--it is from this chain
+The Jura is composed chiefly of [[Jurassic]] rocks--it is from this chain
 that the Jurassic system derives its name--but Triassic, Cretaceous and
 Tertiary beds take part in its formation. It may be divided into three
 zones which run parallel to the length of the chain and differ from one
@@ -67,7 +67,7 @@ parallel to the length of the chain, and as a rule there is a remarkable
 freedom from dislocations of any importance, except towards Neuchâtel
 and Bienne.
 
-The countless blocks of gneiss, granite and other crystalline formations
+The countless blocks of [[Gneiss|gneiss]], granite and other crystalline formations
 which are found in such numbers on the slopes of the Jura, and go by the
 name of "erratic blocks" (of which the best known instance--the Pierre à
 Bot--is 40 ft. in diameter, and rests on the side of a hill 800 ft.
@@ -92,7 +92,7 @@ and south, while to the east the direction is north-east to south-west.
   1. The _northern face_ dominates on one side the famous "Trouée" (or
   Trench) of Belfort, one of the great geographical centres of Europe,
   whence routes run north down the Rhine to the North Sea, south-east to
-  the Danube basin and Black Sea, and south-west into France, and so to
+  the Danube basin and [[Black Sea]], and south-west into France, and so to
   the Mediterranean basin. It is now so strongly fortified that it
   becomes a question of great strategical importance to prevent its
   being turned by means of the great central plateau of the Jura, which,
@@ -103,7 +103,7 @@ and south, while to the east the direction is north-east to south-west.
   openings offer routes into the interior of the chain--the valley of
   the Doubs belonging to France, and the valley of the Birse belonging
   to Switzerland. Belfort is the military, Mülhausen the industrial, and
-  Basel the commercial centre of this slope.
+  [[Basel]] the commercial centre of this slope.
 
   2. The _eastern and western faces_ offer many striking parallels. The
   plains through which flow the Aar and the Saône have each been the bed
@@ -115,17 +115,17 @@ and south, while to the east the direction is north-east to south-west.
   gained to the great central plateau of Pontarlier, though these are
   seen more plainly on the east face than on the west; thus the gorges
   at the exit from which Lons-le-Saunier, Poligny, Arbois and Salins are
-  built balance those of the Suze, of the Val de Ruz, of the Val de
+  built [[Balance|balance]] those of the Suze, of the Val de Ruz, of the Val de
   Travers, and of the Val d'Orbe, though on the east face there is but
   one city which commands all these important routes--Neuchâtel. This
   town is thus marked out by nature as a great military and industrial
   centre, just as is Besançon on the west, which has besides to defend
   the route from Belfort down the Doubs. These easy means of
   communicating with the Free County of Burgundy or Franche-Comté
-  account for the fact that the dialect of Neuchâtel is Burgundian, and
+  account for the fact that the [[Dialect|dialect]] of Neuchâtel is Burgundian, and
   that it was held generally by Burgundian nobles, though most of the
   country near it was in the hands of the house of Savoy until gradually
-  annexed by Bern. The Chasseron (5286 ft.) is the central point of the
+  annexed by [[Bern]]. The Chasseron (5286 ft.) is the central point of the
   eastern face, commanding the two great railways which join Neuchâtel
   and Pontarlier. This ridge is in a certain sense parallel to the
   valley of the Loue on the west face, which flows into the Doubs a
@@ -152,17 +152,17 @@ and south, while to the east the direction is north-east to south-west.
 
   3. The _southern face_ is supported by two great pillars--on the east
   by the Grand Crédo and on the west by the ridge of Revermont (2529
-  ft.) above Bourg en Bresse; between these a huge bastion (the district
+  ft.) above Bourg en [[Bresse]]; between these a huge [[Bastion|bastion]] (the district
   of _Bugey_) stretches away to the south, forcing the Rhone to make a
   long détour. On the two sides of this bastion the plains in which
   Ambérieu and Culoz stand balance one another, and are the meeting
   points of the routes which cut through the bastion by means of deep
   gorges. On the eastern side this great wedge is steep and rugged,
-  ending in the Grand Colombier (5033 ft.) above Culoz, and it sinks on
+  ending in the Grand [[Colombier]] (5033 ft.) above Culoz, and it sinks on
   the western side to the valley of the Ain, the district of Bresse, and
-  the plateau of Dombes. The junction of the Ain and the Surand at Pont
+  the plateau of [[Dombes]]. The junction of the Ain and the Surand at Pont
   d'Ain on the west balances that of the Valserine and the Rhone at
-  Bellegarde on the east.
+  [[Bellegarde]] on the east.
 
   The Jura thus dominates on the north one of the great highways of
   Europe, on the east and west divides the valleys of the Saône and the
@@ -188,7 +188,7 @@ and south, while to the east the direction is north-east to south-west.
   Birse, and the great plateau between the Doubs and the Aar, on which,
   at an average height of 2600 ft., are situated a number of towns, one
   of the most striking features of the Jura. These include Le Locle
-  (q.v.) and La Chaux de Fonds (q.v.), and are mainly occupied with
+  (q.v.) and La [[Chaux De Fonds|Chaux de Fonds]] (q.v.), and are mainly occupied with
   watch-making, an industry which does not require bulky machinery, and
   is therefore well fitted for a mountain district.
 
@@ -197,7 +197,7 @@ and south, while to the east the direction is north-east to south-west.
   (unlike the Le Locle plateau), is called the Haute Montagne, and is
   given up to cheese-making, curing of hams, saw-mills, &c. But little
   watch-making is carried on there, Besançon being the chief French
-  centre of this industry, and being connected with Geneva by a chain of
+  centre of this industry, and being connected with [[Geneva]] by a chain of
   places similarly occupied, which fringe the west plateau of the Jura.
   The part west of the Dessoubre, or the Moyenne Montagne, a huge
   plateau north of the Loue, is more especially devoted to agriculture,
@@ -214,7 +214,7 @@ and south, while to the east the direction is north-east to south-west.
   the west to Salins, on the south-west to Dôle and Lons-le-Saunier, on
   the east to the Swiss plain. The Pontarlier plateau is nearly
   horizontal, the slight indentations in it being due to erosion, e.g.
-  by the river Drugeon. The keys to this important plateau are to the
+  by the river Drugeon. The [[Key|keys]] to this important plateau are to the
   east the Fort de Joux, under the walls of which meet the two lines of
   railway from Neuchâtel, and to the west Salins, the meeting place of
   the routes from the Col de la Faucille, from Besançon, and from the
@@ -239,12 +239,12 @@ and south, while to the east the direction is north-east to south-west.
   and south lines first appear strongly marked. There are said to be in
   this district no less than fifteen ridges running parallel to each
   other, and it is these which force the Loue to the north, and thereby
-  occasion its very eccentric course. The cultivation of wormwood
+  occasion its very [[Eccentric|eccentric]] course. The cultivation of wormwood
   wherewith to make the tonic "absinthe" has its headquarters at
   Pontarlier.
 
   3. The _southern division_ is by far the most complicated and
-  entangled part of the Jura. The lofty ridge which bounds it to the
+  entangled part of the Jura. The lofty ridge which [[Bounds|bounds]] it to the
   east forces all its drainage to the west, and the result is a number
   of valleys of erosion (of which that of the Ain is the chief
   instance), quite distinct from the natural "cluses" or fissures of
@@ -260,7 +260,7 @@ and south, while to the east the direction is north-east to south-west.
   do not possess any considerable towns. The Ain receives three
   tributaries from the east:--
 
-  (a) The Bienne, which flows from the fort of Les Rousses by St Claude,
+  (a) The Bienne, which flows from the fort of Les Rousses by St [[Claude]],
   the industrial centre of the south Jura, famous for the manufacture of
   wooden toys, owing to the large quantity of boxwood in the
   neighbourhood. Septmoncel is busied with cutting of gems, and Morez
@@ -268,8 +268,8 @@ and south, while to the east the direction is north-east to south-west.
   chain, the industrial prosperity of this valley is of recent origin.
 
   (b) The Oignin, which flows from south to north. It receives the
-  drainage of the lake of Nantua, a town noted for combs and silk
-  weaving, and which communicates by the "cluse" of the Lac de Silan
+  drainage of the lake of Nantua, a town noted for [[Comb|combs]] and silk
+  weaving, and which communicates by the "cluse" of the [[Lac]] de Silan
   with the Valserine valley, and so with the Rhone at Bellegarde, and
   again with the various routes which meet under the walls of the fort
   of Les Rousses, while by the Val Romey and the Séran Culoz is easily
@@ -281,11 +281,11 @@ and south, while to the east the direction is north-east to south-west.
 
   The "cluses" of Nantua and Virieu are now both traversed by important
   railways; and it is even truer than of old that the keys of the south
-  Jura are Lyons and Geneva. But of course the strategic importance of
+  Jura are [[Lyons]] and Geneva. But of course the strategic importance of
   these gorges is less than appears at first sight, because they can be
-  turned by following the Rhone in its great bend to the south.
+  turned by following the Rhone in its great [[Bend|bend]] to the south.
 
-The range is mentioned by Caesar (_Bell. Gall._ i. 2-3, 6 (1), and 8
+The range is mentioned by [[Caesar]] (_Bell. [[Gall]]._ i. 2-3, 6 (1), and 8
 (1)), Strabo (iv. 3, 4, and 6, 11), Pliny (iii. 31; iv. 105; xvi. 197)
 and Ptolemy (ii. ix. 5), its name being a word which appears under many
 forms (e.g. Joux, Jorat, Jorasse, Juriens), and is a synonym for a wood
@@ -294,10 +294,10 @@ for a hill.
 
 Politically the Jura is French (departments of the Doubs, Jura and Ain)
 and Swiss (parts of the cantons of Geneva, Vaud, Neuchâtel, Bern,
-Soleure and Basel); but at its north extremity it takes in a small bit
+Soleure and Basel); but at its north extremity it takes in a small [[Bit|bit]]
 of Alsace (Pfirt or Ferrette). In the middle ages the southern, western
 and northern sides were parcelled out into a number of districts, all of
-which were gradually absorbed by the French crown, viz., Gex, Val Romey,
+which were gradually absorbed by the French crown, viz., [[Gex]], Val Romey,
 Bresse and Bugey (exchanged in 1601 by Savoy for the marquisate of
 Saluzzo), Franche-Comté, or the Free County of Burgundy, an imperial
 fief till annexed in 1674, the county of Montbéliard (Mömpelgard)
@@ -315,11 +315,11 @@ eastern slope originally belonged to the house of Savoy, but was
 conquered bit by bit by Bern, which was forced in 1815 to accept its
 subject district Vaud as a colleague and equal in the Swiss
 Confederation. It was Charles the Bold's defeats at Grandson and Morat
-which led to the annexation by the confederates of these portions of
+which led to the [[Annexation|annexation]] by the confederates of these portions of
 Savoyard territory.
 
   AUTHORITIES.--E. F. Berlioux, _Le Jura_ (Paris, 1880); F. Machacek,
-  _Der Schweizer Jura_ (Gotha, 1905); A. Magnin, _Les lacs du Jura_
+  _Der Schweizer Jura_ ([[Gotha]], 1905); A. Magnin, _Les lacs du Jura_
   (Paris, 1895); J. Zimmerli, "Die Sprachgrenze im Jura" (vol. i. of his
   _Die Deutsch-französische Sprachgrenze in der Schweiz_ (Basel, 1891).
   For the French slope see Joanne's large _Itinéraire_ to the Jura, and

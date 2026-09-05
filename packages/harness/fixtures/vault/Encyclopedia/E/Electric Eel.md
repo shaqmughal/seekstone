@@ -2,15 +2,15 @@
 
 ELECTRIC EEL (_Gymnotus electricus_), a member of the family of fishes
 known as _Gymnotidae_. In spite of their external similarity the
-_Gymnotidae_ have nothing to do with the eels (_Anguilla_). They
+_Gymnotidae_ have nothing to do with the eels (_[[Anguilla]]_). They
 resemble the latter in the elongation of the body, the large number of
 vertebrae (240 in _Gymnotus_), and the absence of pelvic fins; but they
 differ in all the more important characters of internal structure. They
-are in fact allied to the carps or _Cyprinidae_ and the cat-fishes or
+are in fact allied to the carps or _Cyprinidae_ and the [[Cat-Fish|cat-fishes]] or
 _Siluridae_. In common with these two families and the _Characinidae_ of
 Africa and South America, the _Gymnotidae_ possess the peculiar
 structures called _ossicula auditus_ or Weberian ossicles. These are a
-chain of small bones belonging to the first four vertebrae, which are
+chain of small [[Bone|bones]] belonging to the first four vertebrae, which are
 much modified, and connecting the air-bladder with the auditory organs.
 Such an agreement in the structure of so complicated and specialized an
 apparatus can only be the result of a community of descent of the
@@ -18,7 +18,7 @@ families possessing it. Accordingly these families are now placed
 together in a distinct sub-order, the Ostariophysi. The _Gymnotidae_ are
 strongly modified and degraded _Characinidae_. In them the dorsal and
 caudal fins are very rudimentary or absent, and the anal is very long,
-extending from the anus, which is under the head or throat, to the end
+extending from the [[Anu|anus]], which is under the head or throat, to the end
 of the body.
 
 _Gymnotus_ is the only genus of the family which possesses electric
@@ -31,15 +31,15 @@ negative, and the current passes from the tail to the head. The maximum
 shock is given when the head and tail of the _Gymnotus_ are in contact
 with different points in the surface of some other animal. _Gymnotus
 electricus_ attains a length of 3 ft. and the thickness of a man's
-thigh, and frequents the marshes of Brazil and the Guianas, where it is
+thigh, and frequents the marshes of Brazil and the [[Guiana|Guianas]], where it is
 regarded with terror, owing to the formidable electrical apparatus with
 which it is provided. When this natural battery is discharged in a
 favourable position, it is sufficiently powerful to stun the largest
-animal; and according to A. von Humboldt, it has been found necessary to
+animal; and according to A. von [[Humboldt]], it has been found necessary to
 change the line of certain roads passing through the pools frequented by
 the electric eels. These fish are eaten by the Indians, who, before
 attempting to capture them, seek to exhaust their electrical power by
-driving horses into the ponds. By repeated discharges upon these they
+driving horses into the ponds. By repeated [[Discharge|discharges]] upon these they
 gradually expend this marvellous force; after which, being defenceless,
 they become timid, and approach the edge for shelter, when they fall an
 easy prey to the harpoon. It is only after long rest and abundance of
@@ -56,23 +56,23 @@ the practical sides. The two great branches of electrical theory which
 concern the phenomena of electricity at rest, or "frictional" or
 "static" electricity, and of electricity in motion, or electric
 currents, are treated in two separate articles, ELECTROSTATICS and
-ELECTROKINETICS. The phenomena attendant on the passage of electricity
+[[Electrokinetics|ELECTROKINETICS]]. The phenomena attendant on the passage of electricity
 through solids, through liquids and through gases, are described in the
 article CONDUCTION, ELECTRIC, and also ELECTROLYSIS, and the propagation
 of electrical vibrations in ELECTRIC WAVES. The interconnexion of
 magnetism (which has an article to itself) and electricity is discussed
 in ELECTROMAGNETISM, and these manifestations in nature in ATMOSPHERIC
-ELECTRICITY; AURORA POLARIS and MAGNETISM, TERRESTRIAL. The general
-principles of electrical engineering will be found in ELECTRICITY
+ELECTRICITY; [[Aurora|AURORA]] POLARIS and MAGNETISM, TERRESTRIAL. The general
+principles of electrical [[Engineering|engineering]] will be found in ELECTRICITY
 SUPPLY, and further details respecting the generation and use of
-electrical power are given in such articles as DYNAMO; MOTORS, ELECTRIC;
+electrical power are given in such articles as [[Dynamo|DYNAMO]]; MOTORS, ELECTRIC;
 TRANSFORMERS; ACCUMULATOR; POWER TRANSMISSION: _Electric_; TRACTION;
 LIGHTING: _Electric_; ELECTROCHEMISTRY and ELECTROMETALLURGY. The
 principles of telegraphy (land, submarine and wireless) and of telephony
 are discussed in the articles TELEGRAPH and TELEPHONE, and various
 electrical instruments are treated in separate articles such as
-AMPEREMETER; ELECTROMETER; GALVANOMETER; VOLTMETER; WHEATSTONE'S BRIDGE;
-POTENTIOMETER; METER, ELECTRIC; ELECTROPHORUS; LEYDEN JAR; &c.
+AMPEREMETER; [[Electrometer|ELECTROMETER]]; GALVANOMETER; VOLTMETER; WHEATSTONE'S BRIDGE;
+POTENTIOMETER; METER, ELECTRIC; ELECTROPHORUS; [[Leyden|LEYDEN]] JAR; &c.
 
 The term "electricity" is applied to denote the physical agency which
 exhibits itself by effects of attraction and repulsion when particular
@@ -82,9 +82,9 @@ circuits. The name is derived from the word _electrica_, first used by
 William Gilbert (1544-1603) in his epoch-making treatise _De magnete,
 magneticisque corporibus, et de magno magnete tellure_, published in
 1600,[1] to denote substances which possess a similar property to amber
-(= _electrum_, from [Greek: êlektron]) of attracting light objects when
+(= _[[Electrum|electrum]]_, from [Greek: êlektron]) of attracting light objects when
 rubbed. Hence the phenomena came to be collectively called electrical, a
-term first used by William Barlowe, archdeacon of Salisbury, in 1618,
+term first used by William Barlowe, [[Archdeacon|archdeacon]] of Salisbury, in 1618,
 and the study of them, electrical science.
 
 
@@ -96,7 +96,7 @@ by the ancients and enjoyed in the middle ages began and ended with
 facts said to have been familiar to Thales of Miletus (600 B.C.) and
 mentioned by Theophrastus (321 B.C.) and Pliny (A.D. 70), namely, that
 amber, jet and one or two other substances possessed the power, when
-rubbed, of attracting fragments of straw, leaves or feathers. Starting
+rubbed, of attracting fragments of straw, leaves or [[Feather|feathers]]. Starting
 with careful and accurate observations on facts concerning the
 mysterious properties of amber and the lodestone, Gilbert laid the
 foundations of modern electric and magnetic science on the true
@@ -105,8 +105,8 @@ may be divided into four well-marked periods. The first extends from the
 date of publication of Gilbert's great treatise in 1600 to the invention
 by Volta of the voltaic pile and the first production of the electric
 current in 1799. The second dates from Volta's discovery to the
-discovery by Faraday in 1831 of the induction of electric currents and
-the creation of currents by the motion of conductors in magnetic fields,
+discovery by [[Faraday]] in 1831 of the [[Induction|induction]] of electric currents and
+the creation of currents by the motion of conductors in magnetic [[Fields|fields]],
 which initiated the era of modern electrotechnics. The third covers the
 period between 1831 and Clerk Maxwell's enunciation of the
 electromagnetic theory of light in 1865 and the invention of the
@@ -119,7 +119,7 @@ stages, and also the growth of electrical theories of electricity during
 that time.
 
 FIRST PERIOD.--Gilbert was probably led to study the phenomena of the
-attraction of iron by the lodestone in consequence of his conversion to
+attraction of iron by the lodestone in consequence of his [[Conversion|conversion]] to
 the Copernican theory of the earth's motion, and thence proceeded to
 study the attractions produced by amber. An account of his electrical
 discoveries is given in the _De magnete_, lib. ii. cap. 2.[2] He
@@ -128,10 +128,10 @@ innumerable bodies he called _electrica_, when rubbed, can attract the
 needle of the versorium (see ELECTROSCOPE). Robert Boyle added many new
 facts and gave an account of them in his book, _The Origin of
 Electricity_. He showed that the attraction between the rubbed body and
-the test object is mutual. Otto von Guericke (1602-1686) constructed the
-first electrical machine with a revolving ball of sulphur (see
+the test object is mutual. Otto von [[Guericke]] (1602-1686) constructed the
+first electrical [[Machine|machine]] with a revolving [[Ball|ball]] of sulphur (see
 ELECTRICAL MACHINE), and noticed that light objects were repelled after
-being attracted by excited electrics. Sir Isaac Newton substituted a
+being attracted by excited electrics. Sir [[Isaac]] Newton substituted a
 ball of glass for sulphur in the electrical machine and made other not
 unimportant additions to electrical knowledge. Francis Hawksbee (d.
 1713) published in his book _Physico-Mechanical Experiments_ (1709), and
@@ -140,10 +140,10 @@ electrical inquiries. He showed that light was produced when mercury was
 shaken up in a glass tube exhausted of its air. Dr Wall observed the
 spark and crackling sound when warm amber was rubbed, and compared them
 with thunder and lightning (_Phil. Trans._, 1708, 26, p. 69). Stephen
-Gray (1696-1736) noticed in 1720 that electricity could be excited by
-the friction of hair, silk, wool, paper and other bodies. In 1729 Gray
+[[Gray]] (1696-1736) noticed in 1720 that electricity could be excited by
+the [[Friction|friction]] of hair, silk, wool, paper and other bodies. In 1729 Gray
 made the important discovery that some bodies were conductors and others
-non-conductors of electricity. In conjunction with his friend Granville
+non-conductors of electricity. In conjunction with his friend [[Granville]]
 Wheeler (d. 1770), he conveyed the electricity from rubbed glass, a
 distance of 886 ft., along a string supported on silk threads (_Phil.
 Trans._, 1735-1736, 39, pp. 16, 166 and 400). Jean Théophile Desaguliers
@@ -152,7 +152,7 @@ conductors were non-electrics. C.F. de C. du Fay (1699-1739) made the
 great discovery that electricity is of two kinds, vitreous and resinous
 (_Phil. Trans._, 1733, 38, p. 263), the first being produced when glass,
 crystal, &c. are rubbed with silk, and the second when resin, amber,
-silk or paper, &c. are excited by friction with flannel. He also
+silk or paper, &c. are excited by friction with [[Flannel|flannel]]. He also
 discovered that a body charged with positive or negative electricity
 repels a body free to move when the latter is charged with electricity
 of like sign, but attracts it if it is charged with electricity of
@@ -184,9 +184,9 @@ to accomplish it for a distance of 2 m., making the important
 observation that the electricity appeared to be transmitted
 instantaneously.
 
-_Franklin's Researches._--Benjamin Franklin (1706-1790) was one of the
+_Franklin's Researches._--[[Benjamin]] [[Franklin]] (1706-1790) was one of the
 great pioneers of electrical science, and made the ever-memorable
-experimental identification of lightning and electric spark. He argued
+experimental [[Identification|identification]] of lightning and electric spark. He argued
 that electricity is not created by friction, but merely collected from
 its state of diffusion through other matter by which it is attracted. He
 asserted that the glass globe, when rubbed, attracted the electrical
@@ -216,7 +216,7 @@ drew up a statement, in which he showed that all the general phenomena
 and effects which were produced by electricity had their counterparts in
 lightning. After waiting some time for the erection of a spire at
 Philadelphia, by means of which he hoped to bring down the electricity
-of a thunderstorm, he conceived the idea of sending up a kite among
+of a thunderstorm, he conceived the idea of sending up a [[Kite|kite]] among
 thunder-clouds. With this view he made a small cross of two small light
 strips of cedar, the arms being sufficiently long to reach to the four
 corners of a large thin silk handkerchief when extended. The corners of
@@ -225,16 +225,16 @@ body of the kite was thus formed, a tail, loop and string were added to
 it. The body was made of silk to enable it to bear the violence and wet
 of a thunderstorm. A very sharp pointed wire was fixed at the top of the
 upright stick of the cross, so as to rise a foot or more above the wood.
-A silk ribbon was tied to the end of the twine next the hand, and a key
+A silk ribbon was tied to the end of the twine next the hand, and a [[Key|key]]
 suspended at the junction of the twine and silk. In company with his
 son, Franklin raised the kite like a common one, in the first
 thunderstorm, which happened in the month of June 1752. To keep the silk
 ribbon dry, he stood within a door, taking care that the twine did not
-touch the frame of the door; and when the thunder-clouds came over the
+touch the [[Frame|frame]] of the door; and when the thunder-clouds came over the
 kite he watched the state of the string. A cloud passed without any
 electrical indications, and he began to despair of success. At last,
 however, he saw the loose filaments of the twine standing out every way,
-and he found them to be attracted by the approach of his finger. The
+and he found them to be attracted by the approach of his [[Finger|finger]]. The
 suspended key gave a spark on the application of his knuckle, and when
 the string had become wet with the rain the electricity became abundant.
 A Leyden jar was charged at the key, and by the electric fire thus
@@ -258,7 +258,7 @@ About the same time that Franklin was making his kite experiment in
 America, T.F. Dalibard (1703-1779) and others in France had erected a
 long iron rod at Marli, and obtained results agreeing with those of
 Franklin. Similar investigations were pursued by many others, among whom
-Father G.B. Beccaria (1716-1781) deserves especial mention. John Canton
+Father G.B. [[Beccaria]] (1716-1781) deserves especial mention. John Canton
 (1718-1772) made the important contribution to knowledge that
 electricity of either sign could be produced on nearly any body by
 friction with appropriate substances, and that a rod of glass roughened
@@ -279,7 +279,7 @@ over the other, he found they were electrified oppositely when rubbed
 and drawn off, and that such a rubbed silk stocking when deposited in a
 Leyden jar gave up its electrification to the jar (_Phil. Trans._,
 1759). Ebenezer Kinnersley (1711-1778) of Philadelphia made useful
-observations on the elongation and fusion of iron wires by electrical
+observations on the elongation and [[Fusion|fusion]] of iron wires by electrical
 discharges (_Phil. Trans._, 1763). A contemporary of Canton and
 co-discoverer with him of the facts of electrostatic induction was the
 Swede, Johann Karl Wilcke (1732-1796), then resident in Germany, who in
@@ -299,9 +299,9 @@ Lémery exhibited to the Paris Academy of Sciences a stone from Ceylon
 which attracted light bodies; and Linnaeus in mentioning his experiments
 gives the stone the name of _lapis electricus_. Giovanni Caraffa, duca
 di Noja (1715-1768), was led in 1758 to purchase some of the stones
-called tourmaline in Holland, and, assisted by L.J.M. Daubenton and
+called tourmaline in Holland, and, assisted by L.J.M. [[Daubenton]] and
 Michel Adanson, he made a series of experiments with them, a description
-of which he gave in a letter to G.L.L. Buffon in 1759. The subject,
+of which he gave in a letter to G.L.L. [[Buffon]] in 1759. The subject,
 however, had already engaged the attention of the German philosopher,
 F.U.T. Aepinus, who published an account of them in 1756. Hitherto
 nothing had been said respecting the necessity of heat to excite the
@@ -325,7 +325,7 @@ from the rules of symmetry in their secondary crystals which occurs in
 tourmaline. C.P. Brard (1788-1838) discovered that pyro-electricity was
 a property of axinite; and it was afterwards detected in other minerals.
 In repeating and extending the experiments of Haüy much later, Sir David
-Brewster discovered that various artificial salts were pyro-electric,
+[[Brewster]] discovered that various artificial salts were pyro-electric,
 and he mentions the tartrates of potash and soda and tartaric acid as
 exhibiting this property in a very strong degree. He also made many
 experiments with the tourmaline when cut into thin slices, and reduced
@@ -340,25 +340,25 @@ stirred.
   For Sir David Brewster's work on pyro-electricity, see _Trans. Roy.
   Soc. Edin._, 1845, also _Phil. Mag._, Dec. 1847. The reader will also
   find a full discussion on the subject in the _Treatise on
-  Electricity_, by A. de la Rive, translated by C.V. Walker (London,
+  Electricity_, by A. [[De La Rive|de la Rive]], translated by C.V. Walker (London,
   1856), vol. ii. part v. ch. i.
 
 _Animal electricity._--The observation that certain animals could give
 shocks resembling the shock of a Leyden jar induced a closer examination
 of these powers. The ancients were acquainted with the benumbing power
 of the torpedo-fish, but it was not till 1676 that modern naturalists
-had their attention again drawn to the fact. E. Bancroft was the first
+had their attention again drawn to the fact. E. [[Bancroft]] was the first
 person who distinctly suspected that the effects of the torpedo were
 electrical. In 1773 John Walsh (d. 1795) and Jan Ingenhousz (1730-1799)
 proved by many curious experiments that the shock of the torpedo was an
-electrical one (_Phil. Trans._, 1773-1775); and John Hunter (id. 1773,
+electrical one (_Phil. Trans._, 1773-1775); and John [[Hunter]] (id. 1773,
 1775) examined and described the anatomical structure of its electrical
 organs. A. von Humboldt and Gay-Lussac (_Ann. Chim._, 1805), and Etienne
-Geoffroy Saint-Hilaire (_Gilb. Ann._, 1803) pursued the subject with
-success; and Henry Cavendish (_Phil. Trans._, 1776) constructed an
+[[Geoffroy Saint-Hilaire]] (_Gilb. Ann._, 1803) pursued the subject with
+success; and Henry [[Cavendish]] (_Phil. Trans._, 1776) constructed an
 artificial torpedo, by which he imitated the actions of the living
 animal. The subject was also investigated (_Phil. Trans._, 1812, 1817)
-by Dr T.J. Todd (1789-1840), Sir Humphry Davy (id. 1829), John Davy (id.
+by Dr T.J. Todd (1789-1840), Sir [[Humphry]] Davy (id. 1829), John Davy (id.
 1832, 1834, 1841) and Faraday (_Exp. Res._, vol. ii.). The power of
 giving electric shocks has been discovered also in the _Gymnotus
 electricus_ (electric eel), the _Malapterurus electricus_, the
@@ -366,21 +366,21 @@ _Trichiurus electricus_, and the _Tetraodon electricus_. The most
 interesting and the best known of these singular fishes is the
 _Gymnotus_ or Surinam eel. Humboldt gives a very graphic account of the
 combats which are carried on in South America between the gymnoti and
-the wild horses in the vicinity of Calabozo.
+the wild horses in the vicinity of [[Calabozo]].
 
 _Cavendish's Researches._--The work of Henry Cavendish (1731-1810)
-entitles him to a high place in the list of electrical investigators. A
+entitles him to a [[High Place|high place]] in the list of electrical investigators. A
 considerable part of Cavendish's work was rescued from oblivion in 1879
-and placed in an easily accessible form by Professor Clerk Maxwell, who
-edited the original manuscripts in the possession of the duke of
-Devonshire.[4] Amongst Cavendish's important contributions were his
+and placed in an easily accessible form by Professor Clerk [[Maxwell]], who
+edited the original [[Manuscript|manuscripts]] in the possession of the duke of
+[[Devonshire]].[4] Amongst Cavendish's important contributions were his
 exact measurements of electrical capacity. The leading idea which
 distinguishes his work from that of his predecessors was his use of the
-phrase "degree of electrification" with a clear scientific definition
+phrase "degree of electrification" with a clear scientific [[Definition|definition]]
 which shows it to be equivalent in meaning to the modern term "electric
 potential." Cavendish compared the capacity of different bodies with
 those of conducting spheres of known diameter and states these
-capacities in "globular inches," a globular inch being the capacity of a
+capacities in "globular [[Inch|inches]]," a globular inch being the capacity of a
 sphere 1 in. in diameter. Hence his measurements are all directly
 comparable with modern electrostatic measurements in which the unit of
 capacity is that of a sphere 1 centimetre in radius. Cavendish measured
@@ -388,7 +388,7 @@ the capacity of disks and condensers of various forms, and proved that
 the capacity of a Leyden pane is proportional to the surface of the
 tinfoil and inversely as the thickness of the glass. In connexion with
 this subject he anticipated one of Faraday's greatest discoveries,
-namely, the effect of the dielectric or insulator upon the capacity of a
+namely, the effect of the [[Dielectric|dielectric]] or insulator upon the capacity of a
 condenser formed with it, in other words, made the discovery of specific
 inductive capacity (see _Electrical Researches_, p. 183). He made many
 measurements of the electric conductivity of different solids and
@@ -421,15 +421,15 @@ law, was only limited by the sensibility, or rather insensibility, of
 the pith ball electrometer, which was his only means of detecting the
 electric charge.[5] In the accuracy of his quantitative measurements and
 the range of his researches and his combination of mathematical and
-physical knowledge, Cavendish may not inaptly be described as the Kelvin
+physical knowledge, Cavendish may not inaptly be described as the [[Kelvin]]
 of the 18th century. Nothing but his curious indifference to the
 publication of his work prevented him from securing earlier recognition
 for it.
 
-_Coulomb's Work._--Contemporary with Cavendish was C.A. Coulomb
+_Coulomb's Work._--Contemporary with Cavendish was C.A. [[Coulomb]]
 (1736-1806), who in France addressed himself to the same kind of exact
 quantitative work as Cavendish in England. Coulomb has made his name for
-ever famous by his invention and application of his torsion balance to
+ever famous by his invention and application of his torsion [[Balance|balance]] to
 the experimental verification of the fundamental law of electric
 attraction, in which, however, he was anticipated by Cavendish, namely,
 that the force of attraction between two small electrified spherical
@@ -437,9 +437,9 @@ bodies varies as the product of their charges and inversely as the
 square of the distance of their centres. Coulomb's work received better
 publication than Cavendish's at the time of its accomplishment, and
 provided a basis on which mathematicians could operate. Accordingly the
-close of the 18th century drew into the arena of electrical
-investigation on its mathematical side P.S. Laplace, J.B. Biot, and
-above all, S.D. Poisson. Adopting the hypothesis of two fluids, Coulomb
+close of the 18th century drew into the [[Arena|arena]] of electrical
+investigation on its mathematical side P.S. Laplace, J.B. [[Biot]], and
+above all, S.D. Poisson. Adopting the [[Hypothesis|hypothesis]] of two fluids, Coulomb
 investigated experimentally and theoretically the distribution of
 electricity on the surface of bodies by means of his proof plane. He
 determined the law of distribution between two conducting bodies in
@@ -469,7 +469,7 @@ de sc._, 1785, &c.
 
 SECOND PERIOD.--We now enter upon the second period of electrical
 research inaugurated by the epoch-making discovery of Alessandro Volta
-(1745-1827). L. Galvani had made in 1790 his historic observations on
+(1745-1827). L. [[Galvani]] had made in 1790 his historic observations on
 the muscular contraction produced in the bodies of recently killed frogs
 when an electrical machine was being worked in the same room, and
 described them in 1791 (_De viribus electricitatis in motu musculari
@@ -477,7 +477,7 @@ commentarius_, Bologna, 1791). Volta followed up these observations with
 rare philosophic insight and experimental skill. He showed that all
 conductors liquid and solid might be divided into two classes which he
 called respectively conductors of the first and of the second class, the
-first embracing metals and carbon in its conducting form, and the second
+first embracing metals and [[Carbon|carbon]] in its conducting form, and the second
 class, water, aqueous solutions of various kinds, and generally those
 now called electrolytes. In the case of conductors of the first class he
 proved by the use of the condensing electroscope, aided probably by some
@@ -500,7 +500,7 @@ _The Voltaic Pile._--This led him about 1799 to devise his famous
 voltaic pile consisting of disks of copper and zinc or other metals with
 wet cloth placed between the pairs. Numerous examples of Volta's
 original piles at one time existed in Italy, and were collected together
-for an exhibition held at Como in 1899, but were unfortunately destroyed
+for an exhibition held at [[Como]] in 1899, but were unfortunately destroyed
 by a disastrous fire on the 8th of July 1899. Volta's description of his
 pile was communicated in a letter to Sir Joseph Banks, president of the
 Royal Society of London, on the 20th of March 1800, and was printed in
@@ -532,19 +532,19 @@ voltaic couple or pile.[7]
 Improvements in the form of the voltaic pile were almost immediately
 made by W. Cruickshank (1745-1800), Dr W.H. Wollaston and Sir H. Davy,
 and these, together with other eminent continental chemists, such as
-A.F. de Fourcroy, L.J. Thénard and J.W. Ritter (1776-1810), ardently
+A.F. de [[Fourcroy]], L.J. Thénard and J.W. Ritter (1776-1810), ardently
 prosecuted research with the new instrument. One of the first
 discoveries made with it was its power to electrolyse or chemically
 decompose certain solutions. William Nicholson (1753-1815) and Sir
-Anthony Carlisle (1768-1840) in 1800 constructed a pile of silver and
+[[Anthony]] Carlisle (1768-1840) in 1800 constructed a pile of silver and
 zinc plates, and placing the terminal wires in water noticed the
 evolution from these wires of bubbles of gas, which they proved to be
 oxygen and hydrogen. These two gases, as Cavendish and James Watt had
 shown in 1784, were actually the constituents of water. From that date
-it was clearly recognized that a fresh implement of great power had been
+it was clearly recognized that a fresh [[Implement|implement]] of great power had been
 given to the chemist. Large voltaic piles were then constructed by
 Andrew Crosse (1784-1855) and Sir H. Davy, and improvements initiated by
-Wollaston and Robert Hare (1781-1858) of Philadelphia. In 1806 Davy
+Wollaston and Robert [[Hare]] (1781-1858) of Philadelphia. In 1806 Davy
 communicated to the Royal Society of London a celebrated paper on some
 "Chemical Agencies of Electricity," and after providing himself at the
 Royal Institution of London with a battery of several hundred cells, he
@@ -564,8 +564,8 @@ polarity of the voltaic pile and that of the magnet, philosophers had
 long been anxious to discover a relation between the two, but twenty
 years elapsed after the invention of the pile before Hans Christian
 Oersted (1777-1851), professor of natural philosophy in the university
-of Copenhagen, made in 1819 the discovery which has immortalized his
-name. In the _Annals of Philosophy_ (1820, 16, p. 273) is to be found an
+of [[Copenhagen]], made in 1819 the discovery which has immortalized his
+name. In the _[[Annals]] of Philosophy_ (1820, 16, p. 273) is to be found an
 English translation of Oersted's original Latin essay (entitled
 "Experiments on the Effect of a Current of Electricity on the Magnetic
 Needle"), dated the 21st of July 1820, describing his discovery. In it
@@ -614,18 +614,18 @@ the distance between the two elements, and also directly proportional to
 a function of the angles which the line joining the elements makes with
 the directions of the two elements respectively. Nothing is more
 remarkable in the history of discovery than the manner in which Ampère
-seized upon the right clue which enabled him to disentangle the
+seized upon the right [[Clue|clue]] which enabled him to disentangle the
 complicated phenomena of electrodynamics and to deduce them all as a
 consequence of one simple fundamental law, which occupies in
-electrodynamics the position of the Newtonian law of gravitation in
-physical astronomy.
+electrodynamics the position of the Newtonian law of [[Gravitation|gravitation]] in
+physical [[Astronomy|astronomy]].
 
 In 1821 Michael Faraday (1791-1867), who was destined later on to do so
 much for the science of electricity, discovered electromagnetic
 rotation, having succeeded in causing a wire conveying a voltaic current
 to rotate continuously round the pole of a permanent magnet.[9] This
 experiment was repeated in a variety of forms by A.A. De la Rive, Peter
-Barlow (1776-1862), William Ritchie (1790-1837), William Sturgeon
+[[Barlow]] (1776-1862), William Ritchie (1790-1837), William Sturgeon
 (1783-1850), and others; and Davy (_Phil. Trans._, 1823) showed that
 when two wires connected with the pole of a battery were dipped into a
 cup of mercury placed on the pole of a powerful magnet, the fluid
@@ -654,14 +654,14 @@ many superimposed windings of copper wire, insulated by covering it with
 silk or cotton, and then sending through the coils the current from a
 voltaic battery. The dependence of the intensity of magnetization on the
 strength of the current was subsequently investigated (_Pogg. Ann.
-Phys._, 1839, 47) by H.F.E. Lenz (1804-1865) and M.H. von Jacobi
-(1801-1874). J.P. Joule found that magnetization did not increase
+Phys._, 1839, 47) by H.F.E. Lenz (1804-1865) and M.H. von [[Jacobi]]
+(1801-1874). J.P. [[Joule]] found that magnetization did not increase
 proportionately with the current, but reached a maximum (_Sturgeon's
 Annals of Electricity_, 1839, 4). Further investigations on this subject
 were carried on subsequently by W.E. Weber (1804-1891), J.H.J. Müller
 (1809-1875), C.J. Dub (1817-1873), G.H. Wiedemann (1826-1899), and
 others, and in modern times by H.A. Rowland (1848-1901), Shelford
-Bidwell (b. 1848), John Hopkinson (1849-1898), J.A. Ewing (b. 1855) and
+Bidwell (b. 1848), John [[Hopkinson]] (1849-1898), J.A. [[Ewing]] (b. 1855) and
 many others. Electric magnets of great power were soon constructed in
 this manner by Sturgeon, Joule, Henry, Faraday and Brewster. Oersted's
 discovery in 1819 was indeed epoch-making in the degree to which it
@@ -682,8 +682,8 @@ and the circuit conveying an electric current then led Arago to the
 discovery of the "magnetism of rotation." He found that a vibrating
 magnetic compass needle came to rest sooner when placed over a plate of
 copper than otherwise, and also that a plate of copper rotating under a
-suspended magnet tended to drag the magnet in the same direction. The
-matter was investigated by Charles Babbage, Sir J.F.W. Herschel, Peter
+suspended magnet tended to [[Drag|drag]] the magnet in the same direction. The
+matter was investigated by Charles Babbage, Sir J.F.W. [[Herschel]], Peter
 Barlow and others, but did not receive a final explanation until after
 the discovery of electromagnetic induction by Faraday in 1831. Ampère's
 investigations had led electricians to see that the force acting upon a
@@ -704,7 +704,7 @@ a current was passed through it. The difficulty in this case consisted
 in discovering means by which the current could be passed through one
 half of the magnet without passing it through the other half. This,
 however, was overcome by sending the current out at the centre of the
-magnet by means of a short length of wire dipping into an annular groove
+magnet by means of a short length of wire dipping into an [[Annular|annular]] groove
 containing mercury. Barlow, Sturgeon and others then showed that a
 copper disk could be made to rotate between the poles of a horseshoe
 magnet when a current was passed through the disk from the centre to the
@@ -715,7 +715,7 @@ motor, since it was then seen that rotatory motion could be produced in
 masses of metal by the mutual action of conductors conveying electric
 current and magnetic fields. By his discovery of thermo-electricity in
 1822 (_Pogg. Ann. Phys._, 6), T.J. Seebeck (1770-1831) opened up a new
-region of research (see THERMOELECTRICITY). James Cumming (1777-1861) in
+region of research (see THERMOELECTRICITY). James [[Cumming]] (1777-1861) in
 1823 (_Annals of Philosophy_, 1823) found that the thermo-electric
 series varied with the temperature, and J.C.A. Peltier (1785-1845) in
 1834 discovered that a current passed across the junction of two metals
@@ -731,12 +731,12 @@ effect produced by electromotive force acting as a cause in a circuit
 having resistance as its quality, and showed that the current was
 directly proportional to the electromotive force and inversely as the
 resistance. Ohm's law, as it is called, was based upon an analogy with
-the flow of heat in a circuit, discussed by Fourier. Ohm introduced the
+the flow of heat in a circuit, discussed by [[Fourier]]. Ohm introduced the
 definite conception of the distribution along the circuit of
 "electroscopic force" or tension (_Spannung_), corresponding to the
 modern term potential. Ohm verified his law by the aid of
 thermo-electric piles as sources of electromotive force, and Davy,
-C.S.M. Pouillet (1791-1868), A.C. Becquerel (1788-1878), G.T. Fechner
+C.S.M. Pouillet (1791-1868), A.C. [[Becquerel]] (1788-1878), G.T. [[Fechner]]
 (1801-1887), R.H.A. Kohlrausch (1809-1858) and others laboured at its
 confirmation. In more recent times, 1876, it was rigorously tested by G.
 Chrystal (b. 1851) at Clerk Maxwell's instigation (see _Brit. Assoc.
@@ -799,8 +799,8 @@ distance was produced. Faraday's mind, however, revolted against this
 notion; he felt intuitively that these distance actions must be the
 result of unseen operations in the interposed medium. Accordingly when
 he sprinkled iron filings on a card held over a magnet and revealed the
-curvilinear system of lines of force (see MAGNETISM), he regarded these
-fragments of iron as simple indicators of a physical state in the space
+[[Curvilinear|curvilinear]] system of lines of force (see MAGNETISM), he regarded these
+fragments of iron as simple [[Indicator|indicators]] of a physical state in the space
 already in existence round the magnet. To him a magnet was not simply a
 bar of steel; it was the core and origin of a system of lines of
 magnetic force attached to it and moving with it. Similarly he came to
@@ -873,7 +873,7 @@ electrical phenomena.[10] It has been already mentioned that Schweigger
 invented in 1820 the "multiplier," and Nobili in 1825 the astatic
 galvanometer. C.S.M. Pouillet in 1837 contributed the sine and tangent
 compass, and W.E. Weber effected great improvements in them and in the
-construction and use of galvanometers. In 1849 H. von Helmholtz devised
+construction and use of galvanometers. In 1849 H. von [[Helmholtz]] devised
 a tangent galvanometer with two coils. The measurement of electric
 resistance then engaged the attention of electricians. By his Memoirs in
 the _Phil. Trans._ in 1843, Sir Charles Wheatstone gave a great impulse
@@ -882,7 +882,7 @@ balance, invented by S.H. Christie (1784-1865) in 1833, and subsequently
 called the Wheatstone Bridge. (See his _Scientific Papers_, published by
 the Physical Society of London, p. 129.) Weber about this date invented
 the electrodynamometer, and applied the mirror and scale method of
-reading deflections, and in co-operation with C.F. Gauss introduced a
+reading deflections, and in [[Co-Operation|co-operation]] with C.F. [[Gauss]] introduced a
 system of absolute measurement of electric and magnetic phenomena. In
 1846 Weber proceeded with improved apparatus to test Ampère's laws of
 electrodynamics. In 1845 H.G. Grassmann (1809-1877) published (_Pogg.
@@ -907,7 +907,7 @@ completely in accordance with experiment. Weber at the same time deduced
 the mathematical laws of induction from his elementary law of electrical
 action, and with his improved instruments arrived at accurate
 verifications of the law of induction, which by this time had been
-developed mathematically by Neumann and himself. In 1849 G.R. Kirchhoff
+developed mathematically by Neumann and himself. In 1849 G.R. [[Kirchhoff]]
 determined experimentally in a certain case the absolute value of the
 current induced by one circuit in another, and in the same year Erik
 Edland (1819-1888) made a series of careful experiments on the induction
@@ -919,9 +919,9 @@ Helmholtz gave at the same time a mathematical theory of induced
 currents and a valuable series of experiments in support of them (_Pogg.
 Ann._, 1851). This great investigator and luminous expositor just before
 that time had published his celebrated essay, _Die Erhaltung der Kraft_
-("The Conservation of Energy"), which brought to a focus ideas which had
+("The Conservation of Energy"), which brought to a [[Focus|focus]] ideas which had
 been accumulating in consequence of the work of J.P. Joule, J.R. von
-Mayer and others, on the transformation of various forms of physical
+[[Mayer]] and others, on the transformation of various forms of physical
 energy, and in particular the mechanical equivalent of heat. Helmholtz
 brought to bear upon the subject not only the most profound mathematical
 attainments, but immense experimental skill, and his work in connexion
@@ -934,7 +934,7 @@ pure and applied electricity. His early contributions to electrostatics
 and electrometry are to be found described in his _Reprint of Papers on
 Electrostatics and Magnetism_ (1872), and his later work in his
 collected _Mathematical and Physical Papers_. By his studies in
-electrostatics, his elegant method of electrical images, his development
+electrostatics, his elegant method of electrical [[Image|images]], his development
 of the theory of potential and application of the principle of
 conservation of energy, as well as by his inventions in connexion with
 electrometry, he laid the foundations of our modern knowledge of
@@ -961,15 +961,15 @@ _Telegraphy._--Turning to practical applications of electricity, we may
 note that electric telegraphy took its rise in 1820, beginning with a
 suggestion of Ampère immediately after Oersted's discovery. It was
 established by the work of Weber and Gauss at Göttingen in 1836, and
-that of C.A. Steinheil (1801-1870) of Munich, Sir W.F. Cooke (1806-1879)
+that of C.A. Steinheil (1801-1870) of Munich, Sir W.F. [[Cooke]] (1806-1879)
 and Sir C. Wheatstone in England, Joseph Henry and S.F.B. Morse
 (1791-1872) in the United States in 1837. In 1845 submarine telegraphy
 was inaugurated by the laying of an insulated conductor across the
-English Channel by the brothers Brett, and their temporary success was
-followed by the laying in 1851 of a permanent Dover-Calais cable by T.R.
+[[English Channel]] by the brothers Brett, and their temporary success was
+followed by the laying in 1851 of a permanent Dover-Calais [[Cable|cable]] by T.R.
 Crampton. In 1856 the project for an Atlantic submarine cable took shape
 and the Atlantic Telegraph Company was formed with a capital of
-£350,000, with Sir Charles Bright as engineer-in-chief and E.O.W.
+£350,000, with Sir Charles [[Bright]] as engineer-in-chief and E.O.W.
 Whitehouse as electrician. The phenomena connected with the propagation
 of electric signals by underground insulated wires had already engaged
 the attention of Faraday in 1854, who pointed out the Leyden-jar-like
@@ -1015,7 +1015,7 @@ poles of a magnet, and producing thereby an electric current, became the
 parent of innumerable machines in which mechanical energy was directly
 converted into the energy of electric currents. Of these machines,
 originally called magneto-electric machines, one of the first was
-devised in 1832 by H. Pixii. It consisted of a fixed horseshoe armature
+devised in 1832 by H. Pixii. It consisted of a fixed horseshoe [[Armature|armature]]
 wound over with insulated copper wire in front of which revolved about a
 vertical axis a horseshoe magnet. Pixii, who invented the split tube
 commutator for converting the alternating current so produced into a
@@ -1024,16 +1024,16 @@ E.M. Clarke, and many others in the development of the above-described
 magneto-electric machine. In 1857 E.W. Siemens effected a great
 improvement by inventing a shuttle armature and improving the shape of
 the field magnet. Subsequently similar machines with electromagnets were
-introduced by Henry Wilde (b. 1833), Siemens, Wheatstone, W. Ladd and
+introduced by Henry Wilde (b. 1833), Siemens, Wheatstone, W. [[Ladd]] and
 others, and the principle of self-excitation was suggested by Wilde,
 C.F. Varley (1828-1883), Siemens and Wheatstone (see DYNAMO). These
 machines about 1866 and 1867 began to be constructed on a commercial
 scale and were employed in the production of the electric light. The
 discovery of electric-current induction also led to the production of
-the induction coil (q.v.), improved and brought to its present
+the [[Induction Coil|induction coil]] (q.v.), improved and brought to its present
 perfection by W. Sturgeon, E.R. Ritchie, N.J. Callan, H.D. Rühmkorff
-(1803-1877), A.H.L. Fizeau, and more recently by A. Apps and modern
-inventors. About the same time Fizeau and J.B.L. Foucault devoted
+(1803-1877), A.H.L. [[Fizeau]], and more recently by A. Apps and modern
+inventors. About the same time Fizeau and J.B.L. [[Foucault]] devoted
 attention to the invention of automatic apparatus for the production of
 Davy's electric arc (see LIGHTING: _ELECTRIC_), and these appliances in
 conjunction with magneto-electric machines were soon employed in
@@ -1117,7 +1117,7 @@ luminiferous ether was no longer a mere speculation but a scientific
 theory capable of verification. An immediate deduction from Maxwell's
 theory was that in transparent dielectrics, the dielectric constant or
 specific inductive capacity should be numerically equal to the square of
-the refractive index for very long electric waves. At the time when
+the refractive [[Index|index]] for very long electric waves. At the time when
 Maxwell developed his theory the dielectric constants of only a few
 transparent insulators were known and these were for the most part
 measured with steady or unidirectional electromotive force. The only
@@ -1146,7 +1146,7 @@ by N.N. Schiller (b. 1848), P.A. Silow (b. 1850), J. Hopkinson and
 others. The accumulating determinations of the numerical value of the
 electromagnetic velocity (v) from the earliest made by Lord Kelvin (Sir
 W. Thomson) with the aid of King and M^cKichan, or those of Clerk
-Maxwell, W.E. Ayrton and J. Perry, to more recent ones by J.J. Thomson,
+Maxwell, W.E. [[Ayrton]] and J. Perry, to more recent ones by J.J. Thomson,
 F. Himstedt, H.A. Rowland, E.B. Rosa, J.S.H. Pellat and H.A. Abraham,
 showed it to be very close to the best determinations of the velocity of
 light (see UNITS, PHYSICAL). On the other hand, the divergence in some
@@ -1165,9 +1165,9 @@ be convenient to deal with technical development first.
 _Technical Development._--As far back as 1841 large magneto-electric
 machines driven by steam power had been constructed, and in 1856 F.H.
 Holmes had made a magneto machine with multiple permanent magnets which
-was installed in 1862 in Dungeness lighthouse. Further progress was made
+was installed in 1862 in [[Dungeness]] lighthouse. Further progress was made
 in 1867 when H. Wilde introduced the use of electromagnets for the field
-magnets. In 1860 Dr Antonio Pacinotti invented what is now called the
+magnets. In 1860 Dr [[Antonio]] Pacinotti invented what is now called the
 toothed ring winding for armatures and described it in an Italian
 journal, but it attracted little notice until reinvented in 1870 by
 Gramme. In this new form of bobbin, the armature consisted of a ring of
@@ -1180,22 +1180,22 @@ current was passed into it from another similar machine. Henceforth the
 electric transmission of power came within the possibilities of
 engineering.
 
-_Electric Lighting._--In 1876, Paul Jablochkov (1847-1894), a Russian
-officer, passing through Paris, invented his famous electric candle,
+_Electric Lighting._--In 1876, Paul [[Jablochkov]] (1847-1894), a Russian
+officer, passing through Paris, invented his famous electric [[Candle|candle]],
 consisting of two rods of carbon placed side by side and separated from
 one another by an insulating material. This invention in conjunction
 with an alternating current dynamo provided a new and simple form of
 electric arc lighting. Two years afterwards C.F. Brush, in the United
-States, produced another efficient form of dynamo and electric arc lamp
+States, produced another efficient form of dynamo and electric arc [[Lamp|lamp]]
 suitable for working in series (see LIGHTING: _Electric_), and these
 inventions of Brush and Jablochkov inaugurated commercial arc lighting.
 The so-called subdivision of electric light by incandescent lighting
 lamps then engaged attention. E.A. King in 1845 and W.E. Staite in 1848
 had made incandescent electric lamps of an elementary form, and T.A.
-Edison in 1878 again attacked the problem of producing light by the
+[[Edison]] in 1878 again attacked the problem of producing light by the
 incandescence of platinum. It had by that time become clear that the
 most suitable material for an incandescent lamp was carbon contained in
-a good vacuum, and St G. Lane Fox and Sir J.W. Swan in England, and T.A.
+a good vacuum, and St G. [[Lane]] [[Fox]] and Sir J.W. Swan in England, and T.A.
 Edison in the United States, were engaged in struggling with the
 difficulties of producing a suitable carbon incandescence electric lamp.
 Edison constructed in 1879 a successful lamp of this type consisting of
@@ -1206,14 +1206,14 @@ In 1879 and 1880, Edison in the United States, and Swan in conjunction
 with C.H. Stearn in England, succeeded in completely solving the
 practical problems. From and after that date incandescent electric
 lighting became commercially possible, and was brought to public notice
-chiefly by an electrical exhibition held at the Crystal Palace, near
+chiefly by an electrical exhibition held at the [[Crystal Palace]], near
 London, in 1882. Edison, moreover, as well as Lane-Fox, had realized the
 idea of a public electric supply station, and the former proceeded to
 establish in Pearl Street, New York, in 1881, the first public electric
-supply station. A similar station in England was opened in the basement
-of a house in Holborn Viaduct, London, in March 1882. Edison, with
+supply station. A similar station in England was opened in the [[Basement|basement]]
+of a house in [[Holborn]] Viaduct, London, in March 1882. Edison, with
 copious ingenuity, devised electric meters, electric mains, lamp
-fittings and generators complete for the purpose. In 1881 C.A. Faure
+fittings and generators complete for the purpose. In 1881 C.A. [[Faure]]
 made an important improvement in the lead secondary battery which G.
 Planté (1834-1889) had invented in 1859, and storage batteries then
 began to be developed as commercial appliances by Faure, Swan, J.S.
@@ -1227,39 +1227,39 @@ lighting.
 
 _Telephone._--Going back a few years we find the technical applications
 of electrical invention had developed themselves in other directions.
-Alexander Graham Bell in 1876 invented the speaking telephone (q.v.),
-and Edison and Elisha Gray in the United States followed almost
+Alexander [[Graham]] Bell in 1876 invented the speaking telephone (q.v.),
+and Edison and [[Elisha]] Gray in the United States followed almost
 immediately with other telephonic inventions for electrically
 transmitting speech. About the same time D.E. Hughes in England invented
-the microphone. In 1879 telephone exchanges began to be developed in the
+the microphone. In 1879 telephone [[Exchange|exchanges]] began to be developed in the
 United States, Great Britain and other countries.
 
 _Electric Power._--Following on the discovery in 1873 of the reversible
 action of the dynamo and its use as a motor, efforts began to be made to
 apply this knowledge to transmission of power, and S.D. Field, T.A.
-Edison, Leo Daft, E.M. Bentley and W.H. Knight, F.J. Sprague, C.J. Van
+Edison, Leo Daft, E.M. Bentley and W.H. [[Knight]], F.J. Sprague, C.J. Van
 Depoele and others between 1880 and 1884 were the pioneers of electric
-traction. One of the earliest electric tram cars was exhibited by E.W.
+traction. One of the earliest electric tram [[Car|cars]] was exhibited by E.W.
 and W. Siemens in Paris in 1881. In 1883 Lucien Gaulard, following a
 line of thought opened by Jablochkov, proposed to employ high pressure
 alternating currents for electric distributions over wide areas by means
 of transformers. His ideas were improved by Carl Zipernowsky and O.T.
 Bláthy in Hungary and by S.Z. de Ferranti in England, and the
 alternating current transformer (see TRANSFORMERS) came into existence.
-Polyphase alternators were first exhibited at the Frankfort electrical
+Polyphase alternators were first exhibited at the [[Frankfort]] electrical
 exhibition in 1891, developed as a consequence of scientific researches
-by Galileo Ferraris (1847-1897), Nikola Tesla, M.O. von
+by Galileo [[Ferrari|Ferraris]] (1847-1897), Nikola Tesla, M.O. von
 Dolivo-Dobrowolsky and C.E.L. Brown, and long distance transmission of
 electrical power by polyphase electrical currents (see POWER
 TRANSMISSION: _Electric_) was exhibited in operation at Frankfort in
 1891. Meanwhile the early continuous current dynamos devised by Gramme,
 Siemens and others had been vastly improved in scientific principle and
 practical construction by the labours of Siemens, J. Hopkinson, R.E.B.
-Crompton, Elihu Thomson, Rudolf Eickemeyer, Thomas Parker and others,
+[[Crompton]], Elihu Thomson, Rudolf Eickemeyer, Thomas Parker and others,
 and the theory of the action of the dynamo had been closely studied by
 J. and E. Hopkinson, G. Kapp, S.P. Thompson, C.P. Steinmetz and J.
 Swinburne, and great improvements made in the alternating current dynamo
-by W.M. Mordey, S.Z. de Ferranti and Messrs Ganz of Budapest. Thus in
+by W.M. Mordey, S.Z. de Ferranti and Messrs Ganz of [[Budapest]]. Thus in
 twenty years from the invention of the Gramme dynamo, electrical
 engineering had developed from small beginnings into a vast industry.
 The amendment, in 1888, of the Electric Lighting Act of 1882, before
@@ -1283,11 +1283,11 @@ some ten years later. In this scheme large turbines were placed at the
 bottom of hydraulic fall tubes 150 ft. deep, the turbines being coupled
 by long shafts with 5000 H.P. alternating current dynamos on the
 surface. By these electric current was generated and transmitted to
-towns and factories around, being sent overhead as far as Buffalo, a
+towns and factories around, being sent overhead as far as [[Buffalo]], a
 distance of 18 m. At the end of the 19th century electrochemical
 industries began to be developed which depended on the possession of
 cheap electric energy. The production of aluminium in Switzerland and
-Scotland, carborundum and calcium carbide in the United States, and soda
+Scotland, [[Carborundum|carborundum]] and calcium [[Carbide|carbide]] in the United States, and soda
 by the Castner-Kellner process, began to be conducted on an immense
 scale. The early work of Sir W. Siemens on the electric furnace was
 continued and greatly extended by Henri Moissan and others on its
@@ -1328,7 +1328,7 @@ non-gravitative subtile matter, of a more refined and penetrating kind
 than ordinary liquids and gases. Its duplex character, and the fact that
 the electricity produced by rubbing glass and vitreous substances was
 different from that produced by rubbing sealing-wax and resinous
-substances, seemed to necessitate the assumption of two kinds of
+substances, seemed to necessitate the [[Assumption|assumption]] of two kinds of
 electric fluid; hence there arose the conception of _positive_ and
 _negative_ electricity, and the two-fluid theory came into existence.
 
@@ -1352,7 +1352,7 @@ illustrated in his _Tentamen theoriae electricitatis et magnetismi_,
 published in St Petersburg in 1759. This theory was founded on the
 following principles:--(1) the particles of the electric fluid repel
 each other with a force decreasing as the distance increases; (2) the
-particles of the electric fluid attract the atoms of all bodies and are
+particles of the electric fluid attract the [[Atom|atoms]] of all bodies and are
 attracted by them with a force obeying the same law; (3) the electric
 fluid exists in the pores of all bodies, and while it moves without any
 obstruction in conductors such as metals, water, &c., it moves with
@@ -1429,13 +1429,13 @@ particularly his discovery of the important law of electrolysis, that
 the movement of a certain quantity of electricity through an electrolyte
 is always accompanied by the transfer of a certain definite quantity of
 matter from one electrode to another and the liberation at these
-electrodes of an equivalent weight of the ions, gave foundation for the
+electrodes of an equivalent weight of the [[Ion|ions]], gave foundation for the
 idea of a definite atomic charge of electricity. In fact, long
 previously to Faraday's electrochemical researches, Sir H. Davy and J.J.
 Berzelius early in the 19th century had advanced the hypothesis that
 chemical combination was due to electric attractions between the
 electric charges carried by chemical atoms. The notion, however, that
-electricity is atomic in structure was definitely put forward by Hermann
+electricity is atomic in structure was definitely put forward by [[Hermann]]
 von Helmholtz in a well-known Faraday lecture. Helmholtz says: "If we
 accept the hypothesis that elementary substances are composed of atoms,
 we cannot well avoid concluding that electricity also is divided into
@@ -1473,8 +1473,8 @@ remained an isolated fact in electro-optics. Then M.E. Verdet
 of ferric perchloride in methyl alcohol rotated the plane of
 polarization in an opposite direction to heavy glass (_Ann. Chim.
 Phys._, 1854, 41, p. 370; 1855, 43, p. 37; _Com. Rend._, 1854, 39, p.
-548). Later A.A.E.E. Kundt prepared metallic films of iron, nickel and
-cobalt, and obtained powerful negative optical rotation with them
+548). Later A.A.E.E. [[Kundt]] prepared metallic films of iron, nickel and
+[[Cobalt|cobalt]], and obtained powerful negative optical rotation with them
 (_Wied. Ann._, 1884, 23, p. 228; 1886, 27, p. 191). John Kerr
 (1824-1907) discovered that a similar effect was produced when plane
 polarized light was reflected from the pole of a powerful magnet (_Phil.
@@ -1483,14 +1483,14 @@ that Faraday's discovery demonstrated that some form of rotation was
 taking place along lines of magnetic force when passing through a
 medium.[19] Many observers have given attention to the exact
 determination of Verdet's constant of rotation for standard substances,
-e.g. Lord Rayleigh for carbon bisulphide,[20] and Sir W.H. Perkin for an
+e.g. Lord Rayleigh for [[Carbon Bisulphide|carbon bisulphide]],[20] and Sir W.H. Perkin for an
 immense range of inorganic and organic bodies.[21] Kerr also discovered
 that when certain homogeneous dielectrics were submitted to electric
 strain, they became birefringent (_Phil. Mag._, 1875, 50, pp. 337 and
 446). The theory of electro-optics received great attention from Kelvin,
-Maxwell, Rayleigh, G.F. Fitzgerald, A. Righi and P.K.L. Drude, and
+Maxwell, Rayleigh, G.F. [[Fitzgerald]], A. Righi and P.K.L. Drude, and
 experimental contributions from innumerable workers, such as F.T.
-Trouton, O.J. Lodge and J.L. Howard, and many others.
+Trouton, O.J. [[Lodge]] and J.L. [[Howard]], and many others.
 
 _Electric Waves._--In the decade 1880-1890, the most important advance
 in electrical physics was, however, that which originated with the
@@ -1510,7 +1510,7 @@ ends being provided with poles nearly touching and their outer ends with
 metal plates. Such an arrangement constitutes in effect a condenser, and
 when the two plates respectively are connected to the secondary
 terminals of an induction coil in operation, the plates are rapidly and
-alternately charged, and discharged across the spark gap with electrical
+alternately charged, and discharged across the spark [[Gap|gap]] with electrical
 oscillations (see ELECTROKINETICS). Hertz then devised a wave detecting
 apparatus called a resonator. This in its simplest form consisted of a
 ring of wire nearly closed terminating in spark balls very close
@@ -1557,15 +1557,15 @@ communicating through space electrically without connecting wires.
 _Electrolysis._--The study of the transfer of electricity through
 liquids had meanwhile received much attention. The general facts and
 laws of electrolysis (q.v.) were determined experimentally by Davy and
-Faraday and confirmed by the researches of J.F. Daniell, R.W. Bunsen and
+Faraday and confirmed by the researches of J.F. [[Daniell]], R.W. [[Bunsen]] and
 Helmholtz. The modern theory of electrolysis grew up under the hands of
-R.J.E. Clausius, A.W. Williamson and F.W.G. Kohlrausch, and received a
-great impetus from the work of Svante Arrhenius, J.H. Van't Hoff, W.
+R.J.E. [[Clausius]], A.W. Williamson and F.W.G. Kohlrausch, and received a
+great impetus from the work of Svante [[Arrhenius]], J.H. Van't Hoff, W.
 Ostwald, H.W. Nernst and many others. The theory of the ionization of
 salts in solution has raised much discussion amongst chemists, but the
 general fact is certain that electricity only moves through liquids in
 association with matter, and simultaneously involves chemical
-dissociation of molecular groups.
+[[Dissociation|dissociation]] of molecular groups.
 
 _Discharge through Gases._--Many eminent physicists had an instinctive
 feeling that the study of the passage of electricity through gases would
@@ -1586,7 +1586,7 @@ appearances when traversed by the high tension current produced by the
 secondary circuit of an induction coil. Faraday discovered the existence
 of a dark space round the negative electrode which is usually known as
 the "Faraday dark space." De la Rive added much to our knowledge of the
-subject, and J. Plücker and his disciple J.W. Hittorf examined the
+subject, and J. Plücker and his [[Disciple|disciple]] J.W. Hittorf examined the
 phenomena exhibited in so-called high vacua, that is, in exceedingly
 rarefied gases. C.F. Varley discovered the interesting fact that no
 current could be sent through the rarefied gas unless a certain minimum
@@ -1728,14 +1728,14 @@ R.J.E. Clausius, F.E. Neumann and H. von Helmholtz.
   Electricity_ (3 vols., London, 1853, 1858); J. Clerk Maxwell, _A
   Treatise on Electricity and Magnetism_ (2 vols., 3rd ed., 1892); id.,
   _Scientific Papers_ (2 vols., edited by Sir W.J. Niven, Cambridge,
-  1890); H.M. Noad, _A Manual of Electricity_ (2 vols., London, 1855,
+  1890); H.M. Noad, _A [[Manual]] of Electricity_ (2 vols., London, 1855,
   1857); J.J. Thomson, _Recent Researches in Electricity and Magnetism_
   (Oxford, 1893); id., _Conduction of Electricity through Gases_
   (Cambridge, 1903); id., _Electricity and Matter_ (London, 1904); O.
   Heaviside, _Electromagnetic Theory_ (London, 1893); O.J. Lodge,
   _Modern Views of Electricity_ (London, 1889); E. Mascart and J.
-  Joubert, _A Treatise on Electricity and Magnetism_, English trans. by
-  E. Atkinson (2 vols., London, 1883); Park Benjamin, _The Intellectual
+  [[Joubert]], _A Treatise on Electricity and Magnetism_, English trans. by
+  E. [[Atkinson]] (2 vols., London, 1883); Park Benjamin, _The Intellectual
   Rise in Electricity_ (London, 1895); G.C. Foster and A.W. Porter,
   _Electricity and Magnetism_ (London, 1903); A. Gray, _A Treatise on
   Magnetism and Electricity_ (London, 1898); H.W. Watson and S.H.
@@ -1749,9 +1749,9 @@ R.J.E. Clausius, F.E. Neumann and H. von Helmholtz.
   information on the modern Electronic theory the reader may consult W.
   Kaufmann, "The Developments of the Electron Idea." _Physikalische
   Zeitschrift_ (1st of Oct. 1901), or _The Electrician_ (1901), 48, p.
-  95; H.A. Lorentz, _The Theory of Electrons_ (1909); E.E. Fournier
+  95; H.A. Lorentz, _The Theory of Electrons_ (1909); E.E. [[Fournier]]
   d'Albe, _The Electron Theory_ (London, 1906); H. Abraham and P.
-  Langevin, _Ions, Electrons, Corpuscles_ (Paris, 1905); J.A. Fleming,
+  Langevin, _Ions, Electrons, Corpuscles_ (Paris, 1905); J.A. [[Fleming]],
   "The Electronic Theory of Electricity," _Popular Science Monthly_ (May
   1902); Sir Oliver J. Lodge, _Electrons, or the Nature and Properties
   of Negative Electricity_ (London, 1907).     (J. A. F.)
@@ -1760,7 +1760,7 @@ R.J.E. Clausius, F.E. Neumann and H. von Helmholtz.
 FOOTNOTES:
 
   [1] Gilbert's work, _On the Magnet, Magnetic Bodies and the Great
-    Magnet, the Earth_, has been translated from the rare folio Latin
+    Magnet, the Earth_, has been translated from the rare [[Folio|folio]] Latin
     edition of 1600, but otherwise reproduced in its original form by the
     chief members of the Gilbert Club of England, with a series of
     valuable notes by Prof. S.P. Thompson (London, 1900). See also _The
@@ -1769,10 +1769,10 @@ FOOTNOTES:
   [2] See _The Intellectual Rise in Electricity_, ch. x., by Park
     Benjamin (London, 1895).
 
-  [3] See Sir Oliver Lodge, "Lightning, Lightning Conductors and
+  [3] See Sir Oliver Lodge, "Lightning, [[Lightning Conductor|Lightning Conductors]] and
     Lightning Protectors," _Journ. Inst. Elec. Eng._ (1889), 18, p. 386,
     and the discussion on the subject in the same volume; also the book
-    by the same author on _Lightning Conductors and Lightning Guards_
+    by the same author on _Lightning Conductors and Lightning [[Guards]]_
     (London, 1892).
 
   [4] _The Electrical Researches of the Hon. Henry Cavendish
@@ -1835,7 +1835,7 @@ FOOTNOTES:
     committee on electrical units, which made its first report in 1862
     and has existed ever since. In this work Lord Kelvin took a leading
     part. The popularization of the system was greatly assisted by the
-    publication by Prof. J.D. Everett of _The C.G.S. System of Units_
+    publication by Prof. J.D. [[Everett]] of _The C.G.S. System of Units_
     (London, 1891).
 
   [14] The first paper in which Maxwell began to translate Faraday's
@@ -1936,7 +1936,7 @@ impulse every other revolution. In connexion with the generator, it is
 almost the invariable custom to put down a secondary battery of storage
 cells, to enable the supply to be given after the engine has stopped.
 This is necessary, not only as a security for the continuity of supply,
-but because otherwise the costs of labour in running the engine night
+but because otherwise the [[Costs|costs]] of labour in running the engine night
 and day become excessive. The storage battery gives its supply
 automatically, but the dynamo and engine require incessant skilled
 attendance. If the building to be lighted is at some distance from the
@@ -1944,7 +1944,7 @@ engine-house the battery should be placed in the basement of the
 building, and underground or overhead conductors, to convey the charging
 current, brought to it from the dynamo.
 
-It is usual, in the case of electric lighting installations, to reckon
+It is usual, in the case of electric lighting [[Installation|installations]], to reckon
 all lamps in their equivalent number of 8 candle power (c.p.)
 incandescent lamps. In lighting a private house or building, the first
 thing to be done is to settle the total number of incandescent lamps and
@@ -1974,7 +1974,7 @@ A good rule to follow is that the indicated horse-power (I.H.P.) of the
 engine should be double the dynamo full-load output in kilowatts; that
 is to say, for a 10-kilowatt dynamo an engine should be capable of
 giving 20 indicated (not nominal) H.P. From the I.H.P. of the engine, if
-a steam engine, the size of the boiler required for steam production
+a steam engine, the size of the [[Boiler|boiler]] required for steam production
 becomes known. For small plants it is safe to reckon that, including
 water waste, boiler capacity should be provided equal to evaporating 40
 lb. of water per hour for every I.H.P. of the engine. The locomotive
@@ -2211,7 +2211,7 @@ or, by means of rotatory transformers, into a continuous current. The
 general arrangement of a _single-phase_ alternating-current system is as
 follows: The generating station contains a number of alternators, A1 A2
 (fig. 5), producing single-phase alternating current, either at 1000,
-2000, or sometimes, as at Deptford and other places, 10,000 volts. This
+2000, or sometimes, as at [[Deptford]] and other places, 10,000 volts. This
 current is distributed from the station either at the pressure at which
 it is generated, or after being transformed up to a higher pressure by
 the transformer T. The alternators are sometimes worked in parallel,
@@ -2235,7 +2235,7 @@ supply pressure. The secondary circuits of these transformers are
 generally provided with three terminals, so as to supply the
 low-pressure side on a three-wire system. It is not advisable to connect
 together directly the secondary circuits of all the different
-sub-centres, because then a fault or short circuit on one secondary
+sub-centres, because then a [[Fault|fault]] or short circuit on one secondary
 system affects all the others. In banking together transformers in this
 manner in a sub-station it is necessary to take care that the
 transformation ratio and secondary drop (see TRANSFORMERS) are exactly
@@ -2269,7 +2269,7 @@ into an alternating current of lower pressure, say 500 volts, and then
 by means of rotatory transformers into a continuous current of 500
 volts or lower for use for lighting or traction.
 
-In the case of large cities such as London, New York, Chicago, Berlin
+In the case of large cities such as London, New York, [[Chicago]], Berlin
 and Paris the use of small supply stations situated in the interior of
 the city has gradually given way to the establishment of large supply
 stations outside the area; in these alternating current is generated on
@@ -2285,7 +2285,7 @@ towns and manufacturing districts has become a great feature in modern
 electrical engineering. In Great Britain, where there is little useful
 water power but abundance of coal, electric supply stations for supply
 in bulk have been built in the coal-producing districts of South Wales,
-the Midlands, the Clyde valley and Yorkshire. In these cases the current
+the Midlands, the [[Clyde]] valley and Yorkshire. In these cases the current
 is a polyphase current generated at a high voltage, 5000 to 10,000
 volts, and sometimes raised again in pressure to 20,000 or 40,000 volts
 and transmitted by overhead lines to the districts to be supplied. It is
@@ -2354,7 +2354,7 @@ to occur. Insulated cables are insulated either with a material which is
 in itself waterproof, or with one which is only waterproof in so far as
 it is enclosed in a waterproof tube, e.g. of lead. Gutta-percha and
 india-rubber are examples of materials of the former kind. Gutta-percha,
-although practically everlasting when in darkness and laid under water,
+although practically [[Everlasting|everlasting]] when in darkness and laid under water,
 as in the case of submarine cables, has not been found satisfactory for
 use with large systems of electric distribution, although much employed
 for telephone and telegraph work. Insulated underground external
@@ -2362,8 +2362,8 @@ conductors are of three types:--(a) _Insulated Cables drawn into
 Pipes._--In this system of distribution cast-iron or stoneware pipes, or
 special stoneware conduits, or conduits made of a material called
 bitumen concrete, are first laid underground in the street. These
-contain a number of holes or "ways," and at intervals drawing-in boxes
-are placed which consist of a brick or cast-iron box having a
+contain a number of holes or "ways," and at intervals drawing-in [[Box|boxes]]
+are placed which consist of a [[Brick|brick]] or cast-iron box having a
 water-tight lid, by means of which access is gained to a certain section
 of the conduit. Wires are used to draw in the cables, which are covered
 with either india-rubber or lead, the copper being insulated by means of
@@ -2437,7 +2437,7 @@ other to either the positive or the negative one. Since the middle
 conductor serves to convey only the difference between the currents
 being used on the two sides of the system, it is smaller in section than
 the positive and negative ones. In laying out the system great judgment
-has to be exercised as to the selection of the points of attachment of
+has to be exercised as to the selection of the points of [[Attachment|attachment]] of
 the feeders to the distributing mains, the object being to keep a
 constant electric pressure or voltage between the two service-lines in
 all the houses independently of the varying demand for current. Legally
@@ -2465,30 +2465,30 @@ this character employed for interior house-wiring should have a smaller
 insulation resistance than 300 megohms per mile when tested with a
 pressure of 600 volts after soaking 24 hours in water. The wood casing
 should, if placed in damp positions or under plaster, be well varnished
-with waterproof varnish. As far as possible all joints in the run of the
+with waterproof varnish. As far as possible all [[Joints|joints]] in the run of the
 cable should be avoided by the use of the so-called looping-in system,
 and after the wiring is complete, careful tests for insulation should be
 made. The Institution of Electrical Engineers of Great Britain have
 drawn up rules to be followed in interior house-wiring, and the
-principal Fire Insurance offices, following the lead of the Phoenix Fire
+principal Fire [[Insurance]] offices, following the lead of the Phoenix Fire
 Office, of London, have made regulations which, if followed, are a
 safeguard against bad workmanship and resulting possibility of damage by
 fire. Where fires having an electric origin have taken place, they have
-invariably been traced to some breach of these rules. Opinions differ,
+invariably been traced to some [[Breach|breach]] of these rules. Opinions differ,
 however, as to the value and security of this method of laying interior
 conductors in buildings, and two or three alternative systems have been
 much employed. In one of these, called the _interior conduit_ system,
 highly insulating waterproof and practically fireproof tubes or conduits
 replace the wooden casing; these, being either of plain insulating
-material, or covered with brass or steel armour, may be placed under
-plaster or against walls. They are connected by bends or joint-boxes.
+material, or covered with [[Brass|brass]] or steel armour, may be placed under
+plaster or against walls. They are connected by [[Bend|bends]] or joint-boxes.
 The insulated wires being drawn into them, any short circuit or heating
 of the wire cannot give rise to a fire, as it can only take place in the
 interior of a non-inflammable tube. A third system of electric light
 wiring is the safety concentric system, in which concentric conductors
 are used. The inner one, which is well insulated, consists of a
-copper-stranded cable. The outer may be a galvanized iron strand, a
-copper tape or braid, or a brass tube, and is therefore necessarily
+copper-stranded cable. The outer may be a [[Galvanized Iron|galvanized iron]] strand, a
+copper tape or [[Braid|braid]], or a brass tube, and is therefore necessarily
 connected with the earth. A fourth system consists in the employment of
 twin insulated wires twisted together and sheathed with a lead tube; the
 conductor thus formed can be fastened by staples against walls, or laid
@@ -2507,7 +2507,7 @@ essential in any case where there are telephone or telegraph wires in
 proximity, for otherwise the alternating current would create inductive
 disturbances in the telephone circuit. The house-wiring also comprises
 the details of _switches_ for controlling the lamps, _cut-outs_ or fuses
-for preventing an excess of current passing, and fixtures or supports
+for preventing an excess of current passing, and [[Fixtures|fixtures]] or supports
 for lamps often of an ornamental character. For the details of these,
 special treatises on electric interior wiring must be consulted.
 
@@ -2515,13 +2515,13 @@ special treatises on electric interior wiring must be consulted.
   books:--C.H. Wordingham, _Central Electrical Stations_ (London, 1901);
   A. Gay and C.Y. Yeaman, _Central Station Electricity Supply_ (London,
   1906); S.P. Thompson, _Dynamo Electric Machinery_ (2 vols., London,
-  1905); E. Tremlett Carter and T. Davies, _Motive Power and Gearing_
-  (London, 1906); W.C. Clinton, _Electric Wiring_ (2nd ed., London,
+  1905); E. Tremlett [[Carter]] and T. Davies, _Motive Power and Gearing_
+  (London, 1906); W.C. [[Clinton]], _Electric Wiring_ (2nd ed., London,
   1906); W. Perren Maycock, _Electric Wiring, Fitting, Switches and
   Lamps_ (London, 1899); D. Salomons, _Electric Light Installations_
   (London, 1894); Stuart A. Russell, _Electric Light Cables_ (London,
   1901); F.A.C. Perrine, _Conductors for Electrical Distribution_
-  (London, 1903); E. Rosenberg, W.W. Haldane Gee and C. Kinzbrunner,
+  (London, 1903); E. Rosenberg, W.W. [[Haldane]] [[Gee]] and C. Kinzbrunner,
   _Electrical Engineering_ (London, 1903); E.C. Metcalfe, _Practical
   Electric Wiring for Lighting Installations_ (London, 1905); F.C.
   Raphael, _The Wireman's Pocket Book_ (London, 1903).     (J. A. F.)
@@ -2558,7 +2558,7 @@ years only one order was granted. Capitalists declined to go on with a
 business which if successful could be taken away from them by local
 authorities at the end of twenty-one years upon terms of paying only the
 then value of the plant, lands and buildings, without regard to past or
-future profits, goodwill or other considerations. The electrical
+future profits, [[Goodwill|goodwill]] or other considerations. The electrical
 industry in Great Britain ripened at a time when public opinion was
 averse to the creation of further monopolies, the general belief being
 that railway, water and gas companies had in the past received valuable
@@ -2796,7 +2796,7 @@ In 1900 and following years several power bills were successfully
 promoted, and the following are the areas over which the powers of these
 acts extend:
 
-In Scotland, (1) the Clyde Valley, (2) the county of Fife, (3) the
+In Scotland, (1) the Clyde Valley, (2) the county of [[Fife]], (3) the
 districts described as "Scottish Central," comprising Linlithgow,
 Clackmannan, and portions of Dumbarton and Stirling, and (4) the
 Lothians, which include portions of Midlothian, East Lothian, Peebles
@@ -2804,13 +2804,13 @@ and Lanark.
 
 In England there are companies operating in (1) Northumberland, (2)
 Durham county, (3) Lancashire, (4) South Wales and Carmarthenshire, (5)
-Derbyshire and Nottinghamshire, (6) Leicestershire and Warwickshire, (7)
+Derbyshire and Nottinghamshire, (6) [[Leicestershire]] and Warwickshire, (7)
 Yorkshire, (8) Shropshire, Worcestershire and Staffordshire, (9)
-Somerset, (10) Kent, (11) Cornwall, (12) portions of Gloucestershire,
-(13) North Wales, (14) North Staffordshire, Derbyshire, Denbighshire and
-Flintshire, (15) West Cumberland, (16) the Cleveland district, (17) the
+Somerset, (10) Kent, (11) [[Cornwall]], (12) portions of Gloucestershire,
+(13) North Wales, (14) North Staffordshire, Derbyshire, [[Denbighshire]] and
+Flintshire, (15) West [[Cumberland]], (16) the [[Cleveland]] district, (17) the
 North Metropolitan district, and (18) the West Metropolitan area. An
-undertaking which may be included in this category, although it is not a
+undertaking which may be included in this [[Category|category]], although it is not a
 Power Act company, is the Midland Electric Corporation in South
 Staffordshire. The systems of generation and distribution are generally
 10,000 or 11,000 volts three-phase alternating current.
@@ -2858,7 +2858,7 @@ fourteen companies carrying on electricity supply undertakings. The
 capital expenditure is £3,127,000 by the local authorities and
 £12,530,000 by the companies, and their aggregate capacity of plant is
 165,000 k.w. The total output is about 160,000,000 units per annum, the
-total revenue is over £2,000,000, and the gross profit before providing
+total revenue is over £2,000,000, and the [[Gross|gross]] profit before providing
 for interest and sinking fund charges is £1,158,000. The general average
 cost of production is 1.55d. per unit, and the average price per unit
 sold is 3.16d., but some of the undertakers have already supplied
@@ -2887,7 +2887,7 @@ Administrative Company's bill was again introduced in parliament, but
 the London County Council, which had previously adopted an attitude both
 hostile and negative, also brought forward a similar bill. Among other
 schemes, one known as the Additional Electric Power Supply Bill was to
-authorize the transmission of current from St Neots in Hunts. This bill
+authorize the transmission of current from St Neots in [[Hunt|Hunts]]. This bill
 was rejected by the House of Commons because the promoters declined to
 give precedence to the bill of the London County Council. The latter
 bill was referred to a hybrid committee with instructions to consider
@@ -2933,7 +2933,7 @@ authorities, the London County Council, and some other corporations have
 now powers to make by-laws for prevention of obstruction from posts and
 overhead wires for telegraph, telephone, lighting or signalling
 purposes; and electric lighting stations are now subject to the
-provisions of the Factory Acts.
+provisions of the [[Factory Acts]].
 
 Parliamentary powers to supply electricity can now be obtained by (A)
 Special Act, (B) Licence, or (C) Provisional order.
@@ -3038,12 +3038,12 @@ expenditure.
 
 There is no statutory obligation on municipalities to provide for
 depreciation of electricity supply undertakings, but after providing for
-all expenses, interest on loans, and sinking fund instalments, the local
+all expenses, interest on loans, and sinking fund [[Instalment|instalments]], the local
 authority may create a reserve fund until it amounts, with interest, to
 one-tenth of the aggregate capital expenditure. Any deficiency when not
 met out of reserve is payable out of the local rates.
 
-The principle on which the Local Government Board sanctions municipal
+The principle on which the [[Local Government Board]] sanctions municipal
 loans for electric lighting undertakings is that the period of the loan
 shall not exceed the life of the works, and that future ratepayers shall
 not be unduly burdened. The periods of the loans vary from ten years for
@@ -3072,7 +3072,7 @@ In 1903 the specification for British standard tramway rails and
 fish-plates was issued, and in 1904 a standard specification for tubular
 tramway poles was issued. A sectional committee was formed in 1904 to
 correspond with foreign countries with regard to the formation of an
-electrical international commission to study the question of an
+electrical [[International|international]] commission to study the question of an
 international standardization of nomenclature and ratings of electrical
 apparatus and machinery.
 
@@ -3085,7 +3085,7 @@ industry, only dates from about 1880. Since that time it has undergone
 many vicissitudes. It began with the manufacture of small arc lighting
 equipments for railway stations, streets and public buildings. When the
 incandescent lamp became a commercial article, ship-lighting sets and
-installations for theatres and mansions constituted the major portion of
+installations for theatres and mansions constituted the [[Major|major]] portion of
 the electrical work. The next step was the organization of
 house-to-house distribution of electricity from small "central
 stations," ultimately leading to the comprehensive public supply in
@@ -3136,7 +3136,7 @@ not susceptible to foreign competition on account of freightage, such as
 the manufacture of storage batteries and rolling stock, are also fairly
 prosperous. In departments where special circumstances offer a prospect
 of success, the technical skill, commercial enterprise and general
-efficiency of British manufacturers manifest themselves by positive
+efficiency of British manufacturers [[Manifest|manifest]] themselves by positive
 progress and not merely by the continuance of a struggle against adverse
 conditions. The normal posture of the British manufacturer of electrical
 machinery has been described as one of desperate defence of his home
@@ -3251,7 +3251,7 @@ piece, F, by means of which the self-induction of the discharging
 circuit, and, therefore, the time of an electrical oscillation of the
 jar, can be adjusted. The inside and outside of this jar are put almost,
 but not quite, into electrical contact by means of a piece of tin-foil,
-E, bent over the lip of the jar. The jars are placed face to face so
+E, bent over the [[Lip|lip]] of the jar. The jars are placed face to face so
 that the circuits B and D are parallel to each other, and approximately
 at right angles to the line joining their centres. When the electrical
 machine is in action sparks pass across the air-break in the circuit in
@@ -3458,7 +3458,7 @@ very frequently resorted to. Boltzmann used an electroscope as a
 detector. The spark gap consisted of a ball and a point, the ball being
 connected with the electroscope and the point with a battery of 200 dry
 cells. When the spark passed the cells charged up the electroscope.
-Ritter utilized the contraction of a frog's leg as a detector, Lucas and
+Ritter utilized the contraction of a frog's [[Leg|leg]] as a detector, [[Lucas]] and
 Garrett the explosion produced by the sparks in an explosive mixture of
 hydrogen and oxygen; while Bjerknes and Franke used the mechanical
 attraction between oppositely charged conductors. If the two sides of
@@ -3552,7 +3552,7 @@ thought that the effect was a mechanical one due to the electrostatic
 attractions between the various small pieces of metal. It is probable
 that some or all of these causes are at work in some cases, but the
 effects of potassium make us hesitate to accept any of them as the
-complete explanation. Blanc (_Ann. chim. phys._, 1905, [8] 6, p. 5), as
+complete explanation. [[Blanc]] (_Ann. chim. phys._, 1905, [8] 6, p. 5), as
 the result of a long series of experiments, came to the conclusion that
 coherence is due to pressure. He regarded the outer layers as different
 from the mass of the metal and having a much greater specific
@@ -3563,8 +3563,8 @@ layers and increasing their conductivity.
   § 8. _Generators of Electric Waves._--Bose (_Phil. Mag._ 43, p. 55)
   designed an instrument which generates electric waves with a length of
   not more than a centimetre or so, and therefore allows their
-  properties to be demonstrated with apparatus of moderate dimensions.
-  The waves are excited by sparking between two platinum beads carried
+  properties to be demonstrated with apparatus of moderate [[Dimension|dimensions]].
+  The waves are excited by sparking between two platinum [[Bead|beads]] carried
   by jointed electrodes; a platinum sphere is placed between the beads,
   and the distance between the beads and the sphere can be adjusted by
   bending the electrodes. The diameter of the sphere is 8 mm., and the
@@ -3581,7 +3581,7 @@ layers and increasing their conductivity.
   admit the radiation. The wires leading from the coherers to the
   galvanometer are also surrounded by metal tubes to protect them from
   stray radiation. The radiating apparatus and the receiver are mounted
-  on stands sliding in an optical bench. If a parallel beam of radiation
+  on stands sliding in an optical [[Bench|bench]]. If a parallel beam of radiation
   is required, a cylindrical lens of ebonite or sulphur is mounted in a
   tube fitting on to the radiator tube and stopped by a guide when the
   spark is at the principal focal line of the lens. For experiments
@@ -3736,7 +3736,7 @@ layers and increasing their conductivity.
     cot -------- - cot --------
         [lambda]       [lambda]
 
-  an equation by means of which K can be determined. It was in this way
+  an [[Equation|equation]] by means of which K can be determined. It was in this way
   that Drude investigated the specific inductive capacity with varying
   frequency, and found a falling off in the specific inductive capacity
   with increase of frequency when the dielectrics contained the radicle
@@ -3783,7 +3783,7 @@ layers and increasing their conductivity.
   at which the sparks disappear [lambda] can be determined, and v, the
   velocity of propagation, is equal to [lambda]/T. As the means of a
   number of experiments Blondlot found v to be 3.02 × 10^10 cm./sec.,
-  which, within the errors of experiment, is equal to 3 × 10^10
+  which, within the [[Error|errors]] of experiment, is equal to 3 × 10^10
   cm./sec., the velocity of light. A second method used by Blondlot, and
   one which does not involve the calculation of the period, is as
   follows:--A and A' (fig. 10) are two equal Leyden jars coated inside
@@ -3875,7 +3875,7 @@ of electro-deposition see ELECTROLYSIS; and for the construction and use
 of electric generators see DYNAMO and BATTERY: _Electric_. The
 importance of the subject may be gauged by the fact that all the
 aluminium, magnesium, sodium, potassium, calcium carbide, carborundum
-and artificial graphite, now placed on the market, is made by electrical
+and artificial [[Graphite|graphite]], now placed on the market, is made by electrical
 processes, and that the use of such processes for the refining of copper
 and silver, and in the manufacture of phosphorus, potassium chlorate and
 bleach, already pressing very heavily on the older non-electrical
@@ -3928,7 +3928,7 @@ see GOLD; SILVER; COPPER and headings for other metals.
 
 _Electrolytic Manufacture of Chemical Products._--When an aqueous
 solution of the salt of an alkali metal is electrolysed, the metal
-reacts with the water, as is well known, forming caustic alkali, which
+reacts with the water, as is well known, forming [[Caustic|caustic]] alkali, which
 dissolves in the solution, and hydrogen, which comes off as a gas. So
 early as 1851 a patent was taken out by Cooke for the production of
 caustic alkali without the use of a separate current, by immersing iron
@@ -3940,7 +3940,7 @@ another patent was granted to C. Watt for a similar process, involving
 the employment of an externally generated current. When an alkaline
 chloride, say sodium chloride, is electrolysed with one electrode
 immersed in a porous cell, while caustic soda is formed at the cathode,
-chlorine is deposited at the anode. If the latter be insoluble, the gas
+[[Chlorine|chlorine]] is deposited at the anode. If the latter be insoluble, the gas
 diffuses into the solution and, when this becomes saturated, escapes
 into the air. If, however, no porous division be used to prevent the
 intermingling by diffusion of the anode and cathode solutions, a
@@ -3957,7 +3957,7 @@ there evolved. In proportion as the original chloride is thus
 reproduced, the efficiency of the process is of course diminished. It is
 obvious that, with suitable methods and apparatus, the electrolysis of
 alkaline chlorides may be made to yield chlorine, hypochlorites
-(bleaching liquors), chlorates or caustic alkali, but that great care
+([[Bleaching|bleaching]] liquors), [[Chlorates|chlorates]] or caustic alkali, but that great care
 must be exercised if any of these products is to be obtained pure and
 with economy. Many patents have been taken out in this branch of
 electrochemistry, but it is to be remarked that that granted to C. Watt
@@ -3975,7 +3975,7 @@ descending caustic solution.
   various conditions of current-density, temperature and the like has
   been studied by F. Oettel (_Zeitschrift f. Elektrochem._, 1894, vol.
   i. pp. 354 and 474) in connexion with the production of hypochlorites
-  and chlorates in tanks without diaphragms, by C. Häussermann and W.
+  and chlorates in tanks without [[Diaphragm|diaphragms]], by C. Häussermann and W.
   Naschold (_Chemiker Zeitung_, 1894, vol. xviii. p. 857) for their
   production in cells with porous diaphragms, and by F. Haber and S.
   Grinberg (_Zeitschrift f. anorgan. Chem._, 1898, vol. xvi. pp. 198,
@@ -4023,7 +4023,7 @@ descending caustic solution.
   289).
 
   E. Kellner, who in 1886 patented the use of cathode (caustic soda) and
-  anode (chlorine) liquors in the manufacture of cellulose from
+  anode (chlorine) liquors in the manufacture of [[Cellulose|cellulose]] from
   wood-fibre, and has since evolved many similar processes, has produced
   an apparatus that has been largely used. It consists of a stoneware
   tank with a thin sheet of platinum-iridium alloy at either end forming
@@ -4052,9 +4052,9 @@ processes with this end in view. _Hydrogen_ and _oxygen_ may also be
 produced electrolytically as gases, and their respective reducing and
 oxidizing powers at the moment of deposition on the electrode are
 frequently used in the laboratory, and to some extent industrially,
-chiefly in the field of organic chemistry. Similarly, the formation of
+chiefly in the field of organic [[Chemistry|chemistry]]. Similarly, the formation of
 organic halogen products may be effected by electrolytic chlorine, as,
-for example, in the production of _chloral_ by the gradual introduction
+for example, in the production of _chloral_ by the [[Gradual|gradual]] introduction
 of alcohol into an anode cell in which the electrolyte is a strong
 solution of potassium chloride. Again, anode reactions, such as are
 observed in the electrolysis of the fatty acids, may be utilized, as,
@@ -4098,7 +4098,7 @@ hour. E. Andreoli (whose first British ozone patent was No. 17,426 of
 1891) uses flat aluminium plates and points, and working with an
 alternating current of 3000 volts is said to have obtained 1440 grains
 per e.h.p. hour. Yarnold's process, using corrugated glass plates coated
-on one side with gold or other metal leaf, is stated to have yielded as
+on one side with gold or other metal [[Leaf|leaf]], is stated to have yielded as
 much as 2700 grains per e.h.p. hour. The ozone so prepared has numerous
 uses, as, for example, in bleaching oils, waxes, fabrics, &c.,
 sterilizing drinking-water, maturing wines, cleansing foul beer-casks,
@@ -4109,14 +4109,14 @@ oxidizing oil, and in the manufacture of vanillin.
   1898); Borchers and M'Millan, _Electric Smelting and Refining_
   (London, 1904); E.D. Peters, _Principles of Copper Smelting_ (New
   York, 1907); F. Peters, _Angewandte Elektrochemie_, vols. ii. and iii.
-  (Leipzig, 1900); Gore, _The Art of Electrolytic Separation of Metals_
-  (London, 1890); Blount, _Practical Electro-Chemistry_ (London, 1906);
+  (Leipzig, 1900); [[Gore]], _The Art of Electrolytic Separation of Metals_
+  (London, 1890); [[Blount]], _Practical Electro-Chemistry_ (London, 1906);
   G. Langbein, _Vollständiges Handbuch der galvanischen
   Metall-Niederschläge_ (Leipzig, 1903), Eng. trans. by W.T. Brannt
   (1909); A. Watt, _Electro-Plating and Electro-Refining of Metals_
   (London, 1902); W.H. Wahl, _Practical Guide to the Gold and Silver
   Electroplater, &c._ (Philadelphia, 1883); Wilson, _Stereotyping and
-  Electrotyping_ (London); Lunge, _Sulphuric Acid and Alkali_, vol. iii.
+  [[Electrotyping]]_ (London); Lunge, _Sulphuric Acid and Alkali_, vol. iii.
   (London, 1909). Also papers in various technical periodicals. The
   industrial aspect is treated in a Gartside Report, _Some
   Electro-Chemical Centres_ (Manchester, 1908), by J.N. Pring.

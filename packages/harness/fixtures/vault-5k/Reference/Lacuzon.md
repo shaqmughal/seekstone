@@ -16,7 +16,7 @@ Bugey with fire and sword (1640-1642). In the first invasion of
 Franche-Comté by Louis XIV. in 1668 Lacuzon was unable to make any
 effective resistance, but he played an important part in Louis's second
 invasion. In 1673 he defended Salins for some time; after the
-capitulation of the town he took refuge in Italy. He died at Milan on
+[[Capitulation|capitulation]] of the town he took refuge in Italy. He died at Milan on
 the 21st of December 1681.
 
 ## See also

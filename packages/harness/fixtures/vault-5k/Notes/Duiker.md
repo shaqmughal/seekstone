@@ -7,7 +7,7 @@ bush. Scientifically the name is extended to include all the members of
 the African genus _Cephalophus_, which, together with the Indian
 chousingha, or four-horned antelope (_Tetraceros_), constitutes the
 subfamily _Cephalophinae_. Duikers are animals of small or medium size,
-usually frequenting thick forest. The horns, usually present in both
+usually frequenting thick forest. The [[Horn|horns]], usually present in both
 sexes, are small and straight, situated far back on the forehead; and
 between them rises the crest-like tuft of hair from which the genus
 takes its scientific name. The common or true duiker (_C. grimmi_) is

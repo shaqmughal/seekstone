@@ -9,26 +9,26 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Compositae
 
 COMPOSITAE, the name given to the largest natural order of flowering
 plants, containing about one-tenth of the whole number and characterized
-by the crowding of the flowers into heads. The order is cosmopolitan,
+by the crowding of the flowers into heads. The order is [[Cosmopolitan|cosmopolitan]],
 and the plants show considerable variety in habit. The great majority,
 including most British representatives, are herbaceous, but in the
 warmer parts of the world shrubs and arborescent forms also occur; the
 latter are characteristic of the flora of oceanic islands. In herbaceous
 plants the leaves are often arranged in a rosette on a much shortened
-stem, as in dandelion, daisy and others; when the stem is elongated the
+stem, as in dandelion, [[Daisy|daisy]] and others; when the stem is elongated the
 leaves are generally alternate. The root is generally thickened,
-sometimes, as in dahlia, tuberous; root and stem contain oil passages,
-or, as in lettuce and dandelion, a milky white latex. The flowers are
+sometimes, as in [[Dahlia|dahlia]], tuberous; root and stem contain oil passages,
+or, as in [[Lettuce|lettuce]] and dandelion, a milky white latex. The flowers are
 crowded in heads (_capitula_) which are surrounded by an involucre of
 green bracts,--these protect the head of flowers in the bud stage,
 performing the usual function of a calyx. The enlarged top of the axis,
-the receptacle, is flat, convex or conical, and the flowers open in
+the receptacle, is flat, [[Convex|convex]] or conical, and the flowers open in
 centripetal succession. In many cases, as in the sunflower or daisy, the
 outer or ray-florets are larger and more conspicuous than the inner, or
 disk-florets; in other cases, as in dandelion, the florets are all
 alike. Ray-florets when present are usually pistillate, but neuter in
 some genera (as _Centaurea_); the disk-florets are hermaphrodite. The
-flower is epigynous; the calyx is sometimes absent, or is represented by
+[[Flower|flower]] is epigynous; the calyx is sometimes absent, or is represented by
 a rim on the top of the ovary, or takes the form of hairs or bristles
 which enlarge in the fruiting stage to form the pappus by means of which
 the seed is dispersed. The corolla, of five united petals, is regular
@@ -48,7 +48,7 @@ embryo.
   2. Same in vertical section.     4. A single fruit.]
 
 The flower-heads are an admirable example of an adaptation for
-pollination by aid of insects. The crowding of the flowers in heads
+pollination by aid of [[Insect|insects]]. The crowding of the flowers in heads
 ensures the pollination of a large number as the result of a single
 insect visit. Honey is secreted at the base of the style, and is
 protected from rain or dew and the visits of short-lipped insects by the
@@ -90,16 +90,16 @@ effective.
 
 A few members of the order are of economic value, e.g. _Lactuca_
 (lettuce; q.v.), _Cichorium_ (chicory; q.v.), _Cynara_ (artichoke and
-cardoon; q.v.), _Helianthus_ (Jerusalem artichoke). Many are cultivated
+[[Cardoon|cardoon]]; q.v.), _Helianthus_ (Jerusalem artichoke). Many are cultivated
 as garden or greenhouse plants, such as _Solidago_ (golden rod),
-_Ageratum_, Aster (q.v.) (Michaelmas daisy), _Helichrysum_
-(everlasting), _Zinnia, Rudbeckia, Helianthus_ (sunflower), _Coreopsis_,
+_Ageratum_, [[Aster]] (q.v.) (Michaelmas daisy), _Helichrysum_
+([[Everlasting|everlasting]]), _Zinnia, Rudbeckia, Helianthus_ (sunflower), _Coreopsis_,
 Dahlia (q.v.), _Tagetes_ (French and African marigold), _Gaillardia,
 Achillea_ (yarrow), _Chrysanthemum, Pyrethrum_ (feverfew; now generally
 included under _Chrysanthemum_), _Tanacetum_ (tansy), _Arnica,
 Doronicum, Cineraria Calendula_ (common marigold) (fig. 1), _Echinops_
 (globe thistle), _Centaurea_ (cornflower) (fig. 2). Some are of
-medicinal value, such as _Anthemis_ (chamomile), _Artemisia_ (wormwood),
+medicinal value, such as _Anthemis_ ([[Chamomile|chamomile]]), _[[Artemisia]]_ (wormwood),
 _Tussilago_ (coltsfoot), _Arnica_. Insect powder is prepared from
 species of _Pyrethrum_.
 
@@ -117,7 +117,7 @@ anthers and styles, the presence or absence of scales on the receptacle,
 and the similarity or otherwise of the florets of one and the same head.
 The order is well represented in Britain, in which forty-two genera are
 native. These include some of the commonest weeds, such as dandelion
-(_Taraxacum Dens-leonis_), daisy (_Bellis perennis_), groundsel (fig. 3)
+(_Taraxacum Dens-leonis_), daisy (_[[Belli|Bellis]] perennis_), groundsel (fig. 3)
 (_Senecio vulgaris_) and ragwort (_S. Jacobaea_); coltsfoot (_Tussilago
 Farfara_) is one of the earliest plants to flower, and other genera are
 _Chrysanthemum_ (ox-eye daisy and corn-marigold), _Arctium_ (burdock),

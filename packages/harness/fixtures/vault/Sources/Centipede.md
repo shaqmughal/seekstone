@@ -16,16 +16,16 @@ principally superficial and due to the elongation and vermiform shape of
 the body, which in both is composed of a number of similar or subsimilar
 somites not differentiated as are those of Insecta, existing Arachnida
 and most Crustacea, into series or "tagmata" of varying function. Until
-1893 no one doubted the correctness of the assumption that the Chilopoda
+1893 no one doubted the correctness of the [[Assumption|assumption]] that the Chilopoda
 and Diplopoda were orders of a class Myriapoda of the same systematic
-status as the Arachnida or Hexapoda. But in that year, R.I. Pocock and
-J.S. Kingsley independently pointed out that they differ as much from
+status as the Arachnida or [[Hexapoda]]. But in that year, R.I. Pocock and
+J.S. [[Kingsley]] independently pointed out that they differ as much from
 each other as either differs from the Hexapoda; and should, therefore,
 rank as distinct classes of Arthropods. Pocock, indeed, definitely
 associated the Chilopoda with the Hexapoda in a group, the
 Opisthogoneata (Opisthogonea), equivalent to a group, the Progoneata
 (Prosogonea), comprising the Diplopoda, Pauropoda and Symphyla. As the
-basis for this classification was taken the position of the generative
+basis for this [[Classification|classification]] was taken the position of the generative
 orifices which open in the Opisthogonea at the posterior end and in the
 Prosogonea near the anterior end of the body. As a matter of fact, in
 the Chilopoda they are situated on the penultimate or pretelsonic
@@ -36,7 +36,7 @@ shown a close correspondence in the number of cephalic metameres between
 the Chilopoda and Hexapoda, a correspondence which has not yet been
 established in the case of the Diplopoda or Symphyla. This last
 discovery bears out the view of relationship between the centipedes and
-insects, to the exclusion of the Diplopoda, Symphyla and Pauropoda. But
+[[Insect|insects]], to the exclusion of the Diplopoda, Symphyla and Pauropoda. But
 even if in the future it can be shown that all these groups can be
 brought into line with respect to the metamerism of the head, the
 position of the generative orifices will remain as a fundamental and
@@ -55,7 +55,7 @@ many particulars they resemble.
   edge of this bears the labrum, which is usually represented by a small
   median, and two large lateral plates. The appendages are modified as a
   single pair of antennae, four pairs of jaws or gnathites, a variable
-  number of walking legs and a single pair of generative limbs or
+  number of walking [[Leg|legs]] and a single pair of generative limbs or
   gonopods. The antennae, articulated to the forepart of the head and
   preoral in position, are long and flexible and consist of fourteen or
   more segments. The jaws of the first pair of mandibles are stout and
@@ -72,12 +72,12 @@ many particulars they resemble.
   jaws may be involved in the formation of the maxillae in the
   Chilopoda. The jaws of the third pair, the palpognaths or second pair
   of maxillae, resemble dwarfed walking legs, and consist of five or six
-  segments, of which the basal or coxa is united mesially to its fellow.
+  segments, of which the basal or coxa is united mesially to its [[Fellow|fellow]].
   The jaws of the fourth pair, the toxicognaths or poison-jaws, are long
   and powerful, and consist like the legs primarily of six segments,
   whereof the basal is large and usually fused with its fellow to form a
   large coxal plate, the second is small and generally suppressed by
-  fusion with the third, the fourth and fifth are also small, while the
+  [[Fusion|fusion]] with the third, the fourth and fifth are also small, while the
   sixth is transformed into a great piercing fang, at the tip of which
   opens the duct of a poison gland lodged within the appendage.
 
@@ -153,7 +153,7 @@ many particulars they resemble.
   gonopods of the adult, but the first is suppressed. Possibly, however,
   it is represented in the male of _Scutigera_ by the anterior branches
   of the gonopods. The cerebral or cephalic portion of the nervous
-  system consists of a quadrilobate mass. From the two upper lobes,
+  system consists of a quadrilobate mass. From the two upper [[Lobe|lobes]],
   which are set transversely, arise the ocular nerves; from the two
   lower lobes, which are united by a transverse commissure, spring the
   antennal nerves in front and the chords which form the oesophageal
@@ -200,7 +200,7 @@ many particulars they resemble.
   cells are secreted chitinous rhabdomeres, forming a rhabdom which
   occupies and fills up the central portion of the cup beneath the
   middle of the corneal lens. The outer ends of the cells are nucleated
-  and are continuous with the fibres of the optic nerve, which passes
+  and are continuous with the [[Fibres|fibres]] of the optic nerve, which passes
   from the outer surface of the bottom of the cup to the brain. Compound
   eyes are found only in the _Scutigeridae_. Externally the eye consists
   of one hundred or more little lenses or lenticles. The retinal portion
@@ -235,7 +235,7 @@ many particulars they resemble.
     rbd, rhabdomeres; n.opt, optic nerve; pg, pigment cells.]
 
   The alimentary canal is a simple tube running without convolutions
-  from the mouth to the anus. Its anterior portion or pharynx, which
+  from the mouth to the [[Anu|anus]]. Its anterior portion or pharynx, which
   arises from the stomodaeal invagination in the embryo, is short; a
   pair of large, so-called salivary glands open into it. The mesenteric
   part of the canal is relatively wide and receives at its junction with
@@ -262,7 +262,7 @@ many particulars they resemble.
   coiled tube lying above the alimentary canal. The slender vas deferens
   which proceeds from its hinder end divides posteriorly into a right
   and left branch, embracing the gut and uniting beneath it to form a
-  common chamber or atrium within the genital orifice. The atrium
+  common chamber or [[Atrium|atrium]] within the genital orifice. The atrium
   receives the secretion of two pairs of large accessory glands; and a
   pair of tubes, or vesiculae seminales, open, one on each side, into
   the divided sperm ducts close to their point of origin above the
@@ -314,7 +314,7 @@ many particulars they resemble.
   corresponding inequality in the size of the chambers is manifested.
 
   [Illustration: A after Newport, _Phil. Trans._, 1843. B after Haase,
-  _Zool. Beitrage_, i. pt. 65, 1884, by permission of J.N. Kern. C after
+  _Zool. Beitrage_, i. pt. 65, 1884, by permission of J.N. [[Kern]]. C after
   Haase, loc. cit.
 
     FIG. 5.
@@ -342,7 +342,7 @@ many particulars they resemble.
   anastomose to form the main tracheal trunks. In _Dacetum_, one of the
   _Scolopendridae_, there is no pocket-like infolding, the small
   tracheal tubes opening direct to the exterior on a large subcircular
-  plate where their apertures fuse to form a complicated network. The
+  plate where their [[Aperture|apertures]] fuse to form a complicated network. The
   apertures, as in the case of other genera, are protected by fine
   hairs; and the tracheae themselves are strengthened by a fine spiral
   filament. In the _Lithobiidae_ the tracheae do not anastomose; but in
@@ -397,7 +397,7 @@ plate.
   from the tergum of the first leg-bearing somite. The penultimate and
   antepenultimate segments of the toxicognaths are reduced on the
   preaxial side of the appendage to the condition of arthrodial
-  integumental folds and suppressed on the postaxial side where the
+  integumental [[Fold|folds]] and suppressed on the postaxial side where the
   distal segment or fang is firmly jointed to the femoral segment. In
   the last leg-bearing somite the pleural sclerites coalesce with the
   coxa of the appendage; but the second segment (trochanter) of this
@@ -433,8 +433,8 @@ plate.
   divided is as yet unsettled, some authors admitting several groups of
   this rank, others referring all the genera to a single family,
   _Geophilidae_. In habits the _Geophilidae_ are mostly subterranean,
-  living in the earth and feeding principally upon earthworms.
-  Occasionally they may be found eating fruit or fungi, probably for the
+  living in the earth and feeding principally upon [[Earthworm|earthworms]].
+  Occasionally they may be found eating fruit or [[Fungi|fungi]], probably for the
   sake of moisture. Although without eyes, they are extremely sensitive
   to light, and when exposed to it crawl away in serpentine fashion to
   the nearest sheltered spot, feeling the way with their antennae. They
@@ -455,15 +455,15 @@ plate.
   discrepancies are observable in size, the smallest specimens being
   less than 1 in. long and barely 1 mm. wide, while the largest example
   recorded, a specimen of _Notiphilides_ from Venezuela, was 11 in. long
-  and 1/3 of an inch wide.
+  and 1/3 of an [[Inch|inch]] wide.
 
   When pairing takes place the female fertilizes herself by taking up a
   spermatophore which a male has left upon a sheet of web for that
-  purpose. The female lays a cluster of eggs in some sheltered spot,
+  purpose. The female lays a cluster of [[Egg|eggs]] in some sheltered spot,
   sometimes in a specially prepared nest, and encircling them with her
   body, keeps guard until the young disperse and shift for themselves.
 
-  [Illustration: FIG. 7.--_Scolopendra morsitans_ (after Buffon).
+  [Illustration: FIG. 7.--_Scolopendra morsitans_ (after [[Buffon]]).
 
     A, a, Cephalic plate.
 
@@ -504,14 +504,14 @@ plate.
   (_Scolopendra_, _Rhysida_), _Cryptopidae_ (_Cryptops_, _Theatops_),
   _Scolopocryptopidae_ (_Scolopocryptops_, _Otocryptops_) and
   _Newportudae_ (_Newportia_). Apart from the frigid zones it is
-  cosmopolitan in distribution, though only one genus (_Cryptops_)
-  extends into north temperate latitudes. In the tropics and warmer
+  [[Cosmopolitan|cosmopolitan]] in distribution, though only one genus (_Cryptops_)
+  extends into north temperate [[Latitude|latitudes]]. In the tropics and warmer
   countries of the southern hemisphere the genera and species are
-  particularly abundant, and individuals reach the greatest dimensions,
+  particularly abundant, and individuals reach the greatest [[Dimension|dimensions]],
   some specimens of the tropical American species _Scolopendra gigantea_
   exceeding 12 in. in length. They are strictly carnivorous, their diet
   consisting of any animal, vertebrate or invertebrate, small enough to
-  be overcome. They live in damp obscure places, under logs of wood or
+  be overcome. They live in damp obscure places, under [[Log|logs]] of wood or
   stones, and are nocturnal, shunning, like the _Geophilidae_, exposure
   to light; and as in the _Geophilidae_, the females guard their eggs
   and young until the latter disperse to lead an independent life.
@@ -553,7 +553,7 @@ plate.
 
     D, Toxicognath.
 
-    E, Last segment with genital capsule (g.c), and basal segments of
+    E, Last segment with genital [[Capsule|capsule]] (g.c), and basal segments of
     legs of 14th and 15th pairs (lg. 14, lg. 15).]
 
   This order, containing the family _Craterostigmidae_, is based upon a
@@ -599,17 +599,17 @@ plate.
   dorsal situation they have taken up in the Notostigma. The
   _Henicopidae_, containing centipedes of small size, attains its
   maximum of development in the southern continents and islands, more
-  particularly Australia, New Zealand, South Africa and South America.
+  particularly [[Australia]], New Zealand, South Africa and South America.
   One genus (_Lamyctes_) however, occurs in Europe. The _Lithobiidae_,
   on the contrary, are almost exclusively northern in range, being
   particularly abundant and of large size individually in Europe,
-  extra-tropical Asia, and North and Central America. In habits the
+  extra-tropical Asia, and North and [[Central America]]. In habits the
   _Lithobiidae_ closely resemble the _Scolopendridae_. They are,
   however, comparatively far more agile with their shorter, more compact
   bodies and stronger legs. They are mostly of small size, the largest
   species, _Lithobius fusciatus_, of south Europe measuring only 2 in.
   in length of body. The females do not guard their eggs, but coat them
-  with soil and leave them to their fate.
+  with soil and leave them to their [[Fate|fate]].
 
 SUBCLASS 2, NOTOSTIGMA.--Chilopods with a series of median dorsal
 tracheal sacs furnished with tubes dipping into the pericardial blood
@@ -637,7 +637,7 @@ the stigmata o, o; p, hinder margin of tergum.]
   structure the _Scutigeridae_, of which _Scutigera_ is the best-known
   genus, differ greatly from other centipedes. Although they hide under
   stones and logs of wood like _Lithobius_, they are not lucifugous but
-  diurnal, and may be seen chasing their foes in the blazing sun. They
+  diurnal, and may be seen [[Chasing|chasing]] their foes in the blazing sun. They
   run with astonishing speed and have the power of dropping their legs
   when seized. South of about the 40th parallel of north latitude they
   are universally distributed in suitable localities. In most species

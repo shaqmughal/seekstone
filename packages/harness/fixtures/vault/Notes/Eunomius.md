@@ -2,7 +2,7 @@
 
 EUNOMIUS (d. c. 393), one of the leaders of the extreme or "anomoean"
 Arians, who are sometimes accordingly called Eunomians, was born at
-Dacora in Cappadocia early in the 4th century. He studied theology at
+Dacora in [[Cappadocia]] early in the 4th century. He studied theology at
 Alexandria under Aetius, and afterwards came under the influence of
 Eudoxius of Antioch, where he was ordained deacon. On the recommendation
 of Eudoxius he was appointed bishop of Cyzicus in 360. Here his free
@@ -14,22 +14,22 @@ close intercourse with Aetius, consolidating an heretical party and
 consecrating schismatical bishops. He then went to live at Chalcedon,
 whence in 367 he was banished to Mauretania for harbouring the rebel
 Procopius. He was recalled, however, before he reached his destination.
-In 383 the emperor Theodosius, who had demanded a declaration of faith
+In 383 the emperor Theodosius, who had demanded a [[Declaration|declaration]] of faith
 from all party leaders, punished Eunomius for continuing to teach his
 distinctive doctrines, by banishing him to Halmyris in Moesia. He
 afterwards resided at Chalcedon and at Caesarea in Cappadocia, from
 which he was expelled by the inhabitants for writing against their
-bishop Basil. His last days were spent at Dacora his birthplace, where
+bishop [[Basil]]. His last days were spent at Dacora his birthplace, where
 he died about 393. His writings were held in high reputation by his
 party, and their influence was so much dreaded by the orthodox, that
-more than one imperial edict was issued for their destruction (_Cod.
-Theod_. xvi. 34). Consequently his commentary on the epistle to the
+more than one imperial edict was issued for their destruction (_[[Cod]].
+Theod_. xvi. 34). Consequently his commentary on the [[Epistle|epistle]] to the
 Romans, mentioned by the historian Socrates, and his epistles, mentioned
 by Philostorgius and Photius, are no longer extant. His first
 apologetical work ([Greek: Apologêtikos]), written probably about 360 or
 365, has been entirely recovered from the celebrated refutation of it by
-Basil, and may be found in J.A. Fabricius, _Bibl. Gr_. viii. pp.
-262-305. A second apology, written before 379 ([Greek: Hyper apologias
+Basil, and may be found in J.A. [[Fabricius]], _Bibl. Gr_. viii. pp.
+262-305. A second [[Apology|apology]], written before 379 ([Greek: Hyper apologias
 apologia]), exists only in the quotations given from it in a refutation
 by Gregory of Nyssa. The exposition of faith ([Greek: Ekthesis tês
 pisteôs]), called forth by the demand of Theodosius, is still extant,
@@ -55,7 +55,7 @@ owing to internal divisions.
   See C.R.W. Klose, _Geschichte und Lehre des Eumonius_ (Kiel, 1833); F.
   Loofs in Hauck-Herzog, _Realencyk. für prot. Theol_.; Whiston's
   _Eunomianismus redivivus_ contains an English translation of the first
-  apology. See also ARIUS.
+  apology. See also [[Arius|ARIUS]].
 
 ## See also
 

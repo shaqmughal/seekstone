@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Daphnephor
 
 # Daphnephoria
 
-DAPHNEPHORIA, a festival held every ninth year at Thebes in Boeotia in
+DAPHNEPHORIA, a festival held every ninth year at Thebes in [[Boeotia]] in
 honour of Apollo Ismenius or Galaxius. It consisted of a procession in
 which the chief figure was a boy of good family and noble appearance,
 whose father and mother must be alive. Immediately in front of this

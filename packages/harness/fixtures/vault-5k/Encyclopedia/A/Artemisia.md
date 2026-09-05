@@ -15,10 +15,10 @@ with which she distinguished herself in the sea-fight near Salamis
 (480). When closely pursued by the Athenians she escaped by the
 stratagem of attacking one of the Persian vessels, whereupon the
 Athenians concluded that she was an ally, and gave up the pursuit
-(Herod. vii. 99, viii. 68). After the battle Xerxes declared that the
+([[Herod]]. vii. 99, viii. 68). After the battle Xerxes declared that the
 men had fought like women, and the women like men. By her advice he did
 not risk another battle, but at once retired from Greece. She is said to
-have loved a young man named Dardanus, of Abydos, and, enraged at his
+have loved a young man named [[Dardanus]], of Abydos, and, enraged at his
 neglect of her, to have put out his eyes while he was asleep. The gods,
 as a punishment for this, ordered her, by an oracle, to take the famous
 but rather mythical _lover's leap_ from the Leucadian promontory

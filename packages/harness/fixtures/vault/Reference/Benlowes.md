@@ -7,7 +7,7 @@ topic: biology
 # Benlowes
 
 BENLOWES, EDWARD (1603?-1676), English poet, son of Andrew Benlowes of
-Brent Hall, Essex, was born about 1603. He matriculated at St John's
+Brent Hall, [[Essex]], was born about 1603. He matriculated at St John's
 College, Cambridge, in 1620, and on leaving the university he made a
 prolonged tour on the continent of Europe. He was a Roman Catholic in
 middle life, but became a convert to Protestantism in his later years.
@@ -22,7 +22,7 @@ ascends by humility, zeal and contemplation, and triumphs over the sins
 of the senses. It is written in a curious stanza of three lines of
 unequal length rhyming together. Until recent times justice has hardly
 been done to Benlowes' poetical merits and indisputable piety. Samuel
-Butler, who satirized him in his "Character of a Small Poet," found
+[[Butler]], who satirized him in his "Character of a Small Poet," found
 abundant matter for ridicule in his eccentricities; and Pope and
 Warburton noted him as a patron of bad poets.
 

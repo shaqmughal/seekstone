@@ -1,6 +1,6 @@
 # Edmunds
 
-EDMUNDS, GEORGE FRANKLIN (1828-), American lawyer and political leader,
+EDMUNDS, GEORGE [[Franklin|FRANKLIN]] (1828-), American lawyer and political leader,
 was born in Richmond, Vermont, on the 1st of February 1828. He began the
 practice of law in 1849. He was a member of the Vermont House of
 Representatives in 1854, 1855, 1857, 1858 and 1859, acting for the last
@@ -9,7 +9,7 @@ state Senate in 1861-1862. In 1866 he became a member, as a Republican,
 of the United States Senate, where he remained until 1891, when he
 resigned in order to have more time for the practice of his profession.
 He took an active part in the attempt to impeach President Johnson. He
-was influential in providing for the electoral commission to decide the
+was influential in providing for the [[Electoral Commission|electoral commission]] to decide the
 disputed presidential election of 1876, and became one of the
 commissioners. In the national Republican nominating conventions of 1880
 and 1884 he was a candidate for the presidential nomination. From 1882

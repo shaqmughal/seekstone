@@ -11,7 +11,7 @@ band he travelled far, even (in 1849) to America. It is worth recording
 that Mendelssohn's complete _Midsummer Night's Dream_ music is said to
 have been first played by Gung'l's band. In 1853 he became bandmaster to
 the 23rd Infantry Regiment at Brunn, but in 1864 he lived at Munich, and
-in 1876 at Frankfort, after (in 1873) having conducted with great
+in 1876 at [[Frankfort]], after (in 1873) having conducted with great
 success a series of promenade concerts at Covent Garden, London. From
 Frankfort Gung'l went to Weimar to live with his daughter, a well-known
 German opera singer and local prima donna. There he died, on the 31st of

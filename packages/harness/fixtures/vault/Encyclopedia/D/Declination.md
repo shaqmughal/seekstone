@@ -20,9 +20,9 @@ changes of declination also occur. Magnetic storms cause irregular
 variations sometimes of one or two degrees. (See MAGNETISM,
 TERRESTRIAL.)
 
-In astronomy the declination is the angular distance, as seen from the
-earth, of a heavenly body from the celestial equator, thus corresponding
-with terrestrial latitude.
+In [[Astronomy|astronomy]] the declination is the angular distance, as seen from the
+earth, of a heavenly body from the celestial [[Equator|equator]], thus corresponding
+with terrestrial [[Latitude|latitude]].
 
 ## References
 

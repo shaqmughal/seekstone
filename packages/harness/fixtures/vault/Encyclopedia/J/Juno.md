@@ -9,17 +9,17 @@ tags: [language-theory, geography]
 # Juno
 
 JUNO, the chief Roman and Latin goddess, and the special object of
-worship by women at all the critical moments of life. The etymology of
+worship by women at all the critical moments of life. The [[Etymology|etymology]] of
 the name is not certain, but it is usually taken as a shortened form of
 _Jovino_, answering to _Jovis_, from a root _div_, shining. Under Greek
-influence Juno was early identified with the Greek Hera, with whose cult
+influence Juno was early identified with the Greek [[Hera]], with whose cult
 and characteristics she has much in common; thus the Juno with whom we
 are familiar in Latin literature is not the true Roman deity. In the
 _Aeneid_, for example, her policy is antagonistic to the plans of
-Jupiter for the conquest of Latium and the future greatness of Rome;
+Jupiter for the conquest of [[Latium]] and the future greatness of Rome;
 though in the fourth _Eclogue_, as Lucina, she appears in her proper
 rôle as assisting at childbirth. It was under Greek influence again that
-she became the wife of Jupiter, the mother of Mars; the true Roman had
+she became the wife of Jupiter, the mother of [[Mars]]; the true Roman had
 no such personal interest in his deities as to invent family relations
 for them.
 
@@ -39,20 +39,20 @@ state; and under a number of other titles, _Cinxia_, _Unxia_, _Pronuba_,
 real or supposed connexion with the moon is explained by the alleged
 influence of the moon on the lives of women; thus she became the deity
 of the Kalends, or day of the new moon, when the _regina sacrorum_
-offered a lamb to her in the _regia_, and her husband the _rex_ made
+offered a [[Lamb|lamb]] to her in the _regia_, and her husband the _rex_ made
 known to the people the day on which the Nones would fall. Thus she is
 brought into close relation with Janus, who also was worshipped on the
 Kalends by the _rex sacrorum_, and it may be that in the oldest Roman
 religion these two were more closely connected than Juno and Jupiter.
 But in historical times she was associated with Jupiter in the great
 temple on the Capitoline hill as Juno _Regina_, the queen of all Junones
-or queen of heaven, as Jupiter there was _Optimus Maximus_ (see
+or queen of heaven, as Jupiter there was _Optimus [[Maximus]]_ (see
 JUPITER), and under the same title she was enticed from Veii after its
 capture in 392 B.C., and settled in a temple on the Aventine. Thus
 exalted above all other female deities, she was prepared for that
-identification with Hera which was alluded to above. That she was in
+[[Identification|identification]] with Hera which was alluded to above. That she was in
 some sense a deity of light seems certain; as Lucina, e.g., she
-introduced new-born infants "in luminis oras."
+introduced new-born [[Infant|infants]] "in luminis oras."
 
   See Roscher's article "Juno" in his Lexicon of Mythology, and his
   earlier treatise on Juno and Hera; Wissowa, _Religion und Kultus der

@@ -21,8 +21,8 @@ and the remains of an apsidal chapel dedicated to St Peter. In the village,
 the church is dedicated to St Aidan, who was bishop of Lindisfarne or Holy
 Island, which lies off the coast to the north, about 634. It is a fine
 cruciform building, mainly of Early English date, with a crypt beneath the
-chancel. In the churchyard is a monument to Grace Darling (1815-1842), the
-brave rescuer of some of the crew of the ship "Forfarshire" in 1838. The
+[[Chancel|chancel]]. In the churchyard is a monument to Grace Darling (1815-1842), the
+brave rescuer of some of the crew of the ship "[[Forfarshire]]" in 1838. The
 Longstone Lighthouse, where her father was keeper, stands on an outer rock
 of the Farne Islands, which stretch north-eastward for 6 m. from the coast
 at Bamburgh.

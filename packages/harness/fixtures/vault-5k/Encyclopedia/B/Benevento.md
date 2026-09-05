@@ -1,9 +1,9 @@
 # Benevento
 
-BENEVENTO, a town and archiepiscopal see of Campania, Italy, capital of
+BENEVENTO, a town and archiepiscopal see of [[Campania]], Italy, capital of
 the province of Benevento, 60 m. by rail and 32 m. direct N.E. of
 Naples, situated on a hill 400 ft. above sea-level at the confluence of
-the Calore and Sabbato. Pop. (1901) town, 17,227; commune, 24,137. It
+the Calore and Sabbato. Pop. (1901) town, 17,227; [[Commune|commune]], 24,137. It
 occupies the site of the ancient Beneventum, originally Maleventum or
 Maluentum, supposed in the imperial period to have been founded by
 Diomedes. It was the chief town of the Samnites, who took refuge here
@@ -30,13 +30,13 @@ also considerable remains of the ancient theatre, a large
 _cryptoporticus_ 197 ft. long known as the ruins of Santi Quaranta, and
 probably an emporium (according to Meomartini, the portion preserved is
 only a fraction of the whole, which once measured 1791 ft. in length)
-and an ancient brick arch (called the Arco del Sacramento), while below
+and an ancient [[Brick|brick]] arch (called the Arco del Sacramento), while below
 the town is the Ponte Lebroso, a bridge of the Via Appia over the
 Sabbato, and along the road to Avellino are remains of _thermae_. Many
 inscriptions and ancient fragments may be seen built into the houses; in
-front of the Madonna delle Grazie is a bull in red Egyptian granite, and
+front of the Madonna delle Grazie is a [[Bull|bull]] in red Egyptian granite, and
 in the Piazza Papiniano the fragments of two Egyptian obelisks erected
-in A.D. 88 in front of the temple of Isis in honour of Domitian. In 1903
+in A.D. 88 in front of the temple of [[Isis]] in honour of Domitian. In 1903
 the foundations of this temple were discovered close to the Arch of
 Trajan, and many fragments of fine sculptures in both the Egyptian and
 the Greco-Roman style belonging to it were found. They had apparently
@@ -68,7 +68,7 @@ mosaic. The castle at the highest point of the town was erected in the
 14th century.
 
 Benevento is a station on the railway from Naples to Foggia, and has
-branch lines to Campobasso and to Avellino.
+branch lines to [[Campobasso]] and to Avellino.
 
   See A. Meomartini, _Monumenti e opere d'Arte di Benevento_ (Benevento,
   1899); T. Ashby, _Melanges de l'ecole francaise_, 1903, 416.
@@ -82,7 +82,7 @@ FOOTNOTE:
     different lines between Beneventum and Aquilonia at different dates
     (see APPIA, VIA), (3) the Via Traiana to Brundisium by Herdoniae, (4)
     the road to Telesia and Aesernia, (5) the road to Aesernia by
-    Bovianum, (6) the road to Abellinum and Salernum.
+    [[Bovianum]], (6) the road to Abellinum and Salernum.
 
 ## See also
 

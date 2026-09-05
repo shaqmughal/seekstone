@@ -16,10 +16,10 @@ come down to us in a mutilated condition, the beginning of the first,
 part of the fourth, and the greater part of the fifth book having been
 lost. The work, which is merely a compilation, is valuable as containing
 excerpts from the earlier writers on grammar, who are in many cases
-mentioned by name--Q. Remmius Palaemon, C. Julius Romanus, Cominianus.
+mentioned by name--Q. Remmius Palaemon, C. [[Julius]] Romanus, Cominianus.
 
   The best edition is by H. Keil, _Grammatici Latini_, i. (1857); see
-  also article by G. Gotz in Pauly-Wissowa's _Realencyclopadie_, iii. 2
+  also article by G. [[Gotz]] in Pauly-Wissowa's _Realencyclopadie_, iii. 2
   (1899); Teuffel-Schwabe, _Hist. of Roman Literature_ (Eng. trans.), S
   419, I. 2; Frohde, in _Jahr. f. Philol._, 18 Suppl. (1892), 567-672.
 

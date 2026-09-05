@@ -11,7 +11,7 @@ the exportation of excisable articles or upon the re-exportation of
 foreign goods. The object of a drawback is to enable commodities which
 are subject to taxation to be exported and sold in a foreign country on
 the same terms as goods from countries where they are untaxed. It
-differs from a bounty in that the latter enables commodities to be sold
+differs from a [[Bounty|bounty]] in that the latter enables commodities to be sold
 abroad at less than their cost price; it may occur, however, under
 certain conditions that the giving of a drawback has an effect
 equivalent to that of a bounty, as in the case of the so-called sugar

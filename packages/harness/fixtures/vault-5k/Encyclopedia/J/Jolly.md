@@ -7,12 +7,12 @@ from O. Norse _jol_, Eng. "yule," the northern festival of midwinter),
 and adjective meaning gay, cheerful, jovial, high-spirited. The
 colloquial use of the term as an intensive adverb, meaning extremely,
 very, was in early usage quite literary; thus John Trapp (1601-1669),
-_Commentaries on the New Testament, Matthew_ (1647), writes, "All was
+_Commentaries on the New Testament, [[Matthew]]_ (1647), writes, "All was
 jolly quiet at Ephesus before St Paul came hither." In the royal navy
 "jolly" used as a substantive, is the slang name for a marine. To
-"jolly" is a slang synonym for "chaff." The word "jolly-boat," the name
+"jolly" is a slang synonym for "[[Chaff|chaff]]." The word "jolly-boat," the name
 of a ship's small broad boat, usually clinker-built, is of doubtful
-etymology. It occurs in English in the 18th century, and is usually
+[[Etymology|etymology]]. It occurs in English in the 18th century, and is usually
 connected with Dan. or Swed. _jolle_, Dutch _jol_, a small ship's boat;
 these words are properly represented in English by "yawl" originally a
 ship's small boat, now chiefly used of a rig of sailing vessels, with a
@@ -55,7 +55,7 @@ for the county of Portneuf. He had already in 1895 been created K.C.M.G.
 On the formation of Sir Wilfrid Laurier's administration he accepted the
 office of controller of inland revenue, and a year later he became a
 privy councillor, as minister of inland revenue. From 1900 to 1906 he
-was lieutenant-governor of the province of British Columbia. He twice
+was lieutenant-governor of the province of British [[Columbia]]. He twice
 declined a seat in the senate, but rendered eminent service to Canada by
 promoting the interest of agriculture, horticulture and of forestry. He
 died on the 17th of November 1908.     (A. G. D.)

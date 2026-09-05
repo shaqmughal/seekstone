@@ -12,8 +12,8 @@ work of Diogenianus. We still possess a collection of proverbs under his
 name, probably an abridgment of the collection made by himself from his
 lexicon (ed. by E. Leutsch and F. W. Schneidewin in _Paroemiographi
 Graeci_, i. 1839). Diogenianus was also the author of an Anthology of
-epigrams, of treatises on rivers, lakes, fountains and promontories; and
-of a list (with map) of all the towns in the world.
+epigrams, of treatises on rivers, lakes, [[Fountain|fountains]] and promontories; and
+of a list (with [[Map|map]]) of all the towns in the world.
 
 ## See also
 

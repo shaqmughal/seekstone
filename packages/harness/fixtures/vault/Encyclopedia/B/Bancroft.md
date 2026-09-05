@@ -6,15 +6,15 @@ America since 1632, and his father, Aaron Bancroft, was distinguished as a
 revolutionary soldier, clergyman and author. The son was educated at
 Phillips Academy, Exeter, at Harvard University, at Heidelberg, Göttingen
 and Berlin. At Göttingen he studied Plato with Heeren, New Testament Greek
-with Eichhorn and natural science with Blumenbach. His heart was in the
+with [[Eichhorn]] and natural science with Blumenbach. His heart was in the
 work of Heeren, easily the greatest of historical critics then living, and
 the forerunner of the modern school; it was from this master that Bancroft
-caught his enthusiasm for minute pains-taking erudition. He concluded his
+caught his [[Enthusiasm|enthusiasm]] for minute pains-taking erudition. He concluded his
 years of preparation by a European tour, in the [v.03 p.0307] course of
 which he received kind attention from almost every distinguished man in the
-world of letters, science and art; among others, from Goethe, Humboldt,
-Schleiermacher, Hegel, Byron, Niebuhr, Bunsen, Savigny, Cousin, Constant
-and Manzoni. Bancroft's father was a Unitarian, and he had devoted his son
+world of letters, science and art; among others, from Goethe, [[Humboldt]],
+Schleiermacher, Hegel, [[Byron]], Niebuhr, [[Bunsen]], Savigny, [[Cousin]], Constant
+and [[Manzoni]]. Bancroft's father was a Unitarian, and he had devoted his son
 to the work of the ministry; but the young man's first experiments at
 preaching, shortly after his return from Europe in 1822, were
 unsatisfactory, the theological teaching of the time having substituted
@@ -28,7 +28,7 @@ knight-errant was therefore subjected to considerable ridicule. A little
 volume of poetry, translations and original pieces, published in 1823 gave
 its author no fame. As time passed, and custom created familiarity, his
 style, personal and literary, was seen to be the outward symbol of a firm
-resolve to preserve a philosophic calm, and of an enormous underlying
+resolve to preserve a philosophic [[Calm|calm]], and of an enormous underlying
 energy which spent itself in labour, "ohne Hast, aber auch ohne Rast." He
 found the conventional atmosphere of Cambridge uncongenial, and with a
 friend he established the Round Hill school at Northampton, Mass. This was
@@ -42,28 +42,28 @@ from the family of his first wife, who were ardent Whigs, he refused to
 serve. In 1831 he likewise declined the nomination of the Massachusetts
 Democrats for secretary of state. By this time he was influential in the
 councils of his party, and President Van Buren appointed him collector of
-the port of Boston, a position which he filled with success. Two of his
-appointees were Orestes Brownson and Nathaniel Hawthorne. In 1844 he was
+the port of [[Boston]], a position which he filled with success. Two of his
+appointees were Orestes Brownson and Nathaniel [[Hawthorne]]. In 1844 he was
 the Democratic candidate for the governorship, but he was defeated. In 1845
-he entered Polk's cabinet as secretary of the navy, serving until 1846,
+he entered Polk's [[Cabinet|cabinet]] as secretary of the navy, serving until 1846,
 when for a month he was acting secretary of war. During this short period
 in the cabinet he established the naval academy at Annapolis, gave the
 orders which led to the occupation of California, and sent Zachary Taylor
 into the debatable land between Texas and Mexico. He also continued his
-pleadings for the annexation of Texas, as extending "the area of freedom,"
+pleadings for the [[Annexation|annexation]] of Texas, as extending "the area of freedom,"
 and though a Democrat, took high moral ground as to slavery; he likewise
 made himself the authority on the North-Western Boundary question. In 1846
 he was sent as minister to London, where he lived in constant companionship
-with Macaulay and Hallam. On his return in 1849 he withdrew from public
+with Macaulay and [[Hallam]]. On his return in 1849 he withdrew from public
 life, residing in New York. In 1866 he was chosen by Congress to deliver
-the special eulogy on Lincoln; and in 1867 he was appointed minister to
+the special eulogy on [[Lincoln]]; and in 1867 he was appointed minister to
 Berlin, where he remained until his resignation in 1874. Thenceforward he
 lived in Washington and Newport, dying at Washington on the 17th of January
 1891. His latest official achievements were the greatest. In the San Juan
-arbitration he displayed great versatility and skill, winning his case
+[[Arbitration|arbitration]] he displayed great versatility and skill, winning his case
 before the emperor with brilliant ease. The naturalization treaties which
 he negotiated successively with Prussia and the other north German states
-were the first international recognition of the right of expatriation, a
+were the first [[International|international]] recognition of the right of [[Expatriation|expatriation]], a
 principle since incorporated in the law of nations.
 
 In spite of the exacting and severe routine of the Round Hill school,
@@ -83,7 +83,7 @@ reprinted in England and translated immediately into Danish, Italian,
 German and French. The latest volumes were considered by all competent
 judges quite as important as their predecessors. When the author was
 preparing to return from Berlin, the Royal Academy made him their guest at
-a public dinner, an unprecedented honour; and the universities of Berlin,
+a public [[Dinner|dinner]], an unprecedented honour; and the universities of Berlin,
 Heidelberg and Munich united in a testimonial of regard. At Washington he
 was the confidential advisor of statesmen to the end of his life and the
 unofficial dean of the best society.
@@ -96,7 +96,7 @@ Since there must be the same conservation of energy in morals as elsewhere,
 the eternal reason is the divine Logos. History, therefore, is God working
 in examples. It must be a unit, its forces constant and its totality an
 organic whole. Within this the individual moves and acts with liberty and
-responsibility; for each, in will, affection and intellect is
+responsibility; for each, in will, affection and [[Intellect|intellect]] is
 consubstantial with the rest. Truth, morals and justice are subject to no
 evolution; but the collective man evolves better forms of knowledge and
 behaviour. The organization of society, therefore, produces successive
@@ -113,27 +113,27 @@ second-hand knowledge, and a decision of principle by authority. (2)
 Represent every man from his own standpoint; judge him from your own. His
 collections of original materials were vast; beginning with his residence
 in England, he brought together at enormous pains and expense the
-authenticated copies of archives, family papers, and personal journals
+authenticated copies of [[Archive|archives]], family papers, and personal journals
 written by historic personages, which now constitute an invaluable treasure
 in the New York public library. They are from every land and from every
 people with which American origins are connected. His use of this material
 was not always according to accepted standards. To avoid dryness and
 prolixity he condensed quotations, and occasionally employed the
 Thucydidean method of abridgment or representation in place of fact
-catalogues. During his long life enormous strides were made by others in
+[[Catalogue|catalogues]]. During his long life enormous strides were made by others in
 collecting the materials of American history, and while in the main he kept
 pace with them by ruthless revision, yet even the latest edition of his
 work disregards some minor facts which others knew for the insertion of
 much which the author alone knew.
 
-Bancroft's imagination and enthusiasm were alike exuberant. His pages
+Bancroft's [[Imagination|imagination]] and enthusiasm were alike exuberant. His pages
 abound in fine and acute insight. His generalizations are vivid and
 enlightening. He spared no pains to acquire true style, frequently
 rewriting his chapters, and sometimes testing passages of philosophy and
 description in eight different forms. Yet to a certain extent he lacked the
 representative power and often failed to conceal his art, many pages
 ringing with artificial tones. But, after making all allowances, it remains
-true that he had a perfect sense of proportion, sound maxims and thorough
+true that he had a perfect sense of proportion, sound [[Maxims|maxims]] and thorough
 common-sense. He was of that greatest human type: a man of the present,
 valuing justly the past and no dreamer. In the nature and extent of his
 studies, in the solidity of his work, and in the philosophic spirit which

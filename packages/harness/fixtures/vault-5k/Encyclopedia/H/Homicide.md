@@ -6,7 +6,7 @@ of the slayer to the state and to the relatives of the slain has been
 one of the chief concerns of all systems of law from the earliest times,
 and it has been variously considered from the points of view of the
 sanctity of human life, the interests of the sovereign, the injury to
-the family of the slain and the moral guilt, i.e. the motives and
+the family of the slain and the moral [[Guilt|guilt]], i.e. the motives and
 intentions, of the slayer.
 
 The earliest recorded laws (those of Khammurabi) do not contain any
@@ -19,22 +19,22 @@ absolute. In primitive law homicide, however innocent, subjected the
 slayer to the lawful vengeance of the kindred of the slain, unless he
 could make some composition with him. This _lex talionis_ (a life for a
 life) resulted: (1) in a course of private justice which still survives
-in the vendetta of Corsica and Albania, and the blood feuds arising out
+in the vendetta of [[Corsica]] and Albania, and the blood feuds arising out
 of "difficulties" in the southern and western parts of the United
 States; (2) in the recognition of sanctuaries and cities of refuge
 within which the avenger of blood might not penetrate to kill an
 innocent manslayer; and (3) in the system of wite, bote and wer, by
 which the life of every man had its assessed price payable to his chief
-and his next of kin.
+and his next of [[Kin|kin]].
 
 It took long to induce the relatives of the slain to appreciate anything
 beyond the fact of the death of their kinsman or to discriminate between
 intentional and accidental homicide. By the laws of Khammurabi (206,
-208) striking a man in a quarrel without deadly intent but with fatal
+208) striking a man in a quarrel without deadly [[Intent|intent]] but with fatal
 effect was treated as a matter for compensation according to the rank of
 the slain. The Pentateuch discriminates between the man "who lieth in
 wait for" or "cometh presumptuously" on "his neighbour to slay him with
-guile" (Exodus xxi. 13, 14), and the man "who killeth his neighbour
+guile" ([[Exodus]] xxi. 13, 14), and the man "who killeth his neighbour
 ignorantly whom he hated not in time past" (Deut. xix. 4). But even
 killing by misadventure exposed the slayer to the avenger of blood. "As
 a man goeth into the wood with his neighbour to hew wood, and his hand
@@ -56,8 +56,8 @@ Though homicide was thus made a public offence and not a matter for
 private vengeance, it took long to discriminate between those forms of
 homicide which should and those which should not be punished.
 
-The terms of act in English law used to describe _criminal_ homicide are
-murder (_mord_, _meurtre_, _murdrum_), manslaughter and _felo de se_ (or
+The terms of act in [[English Law|English law]] used to describe _criminal_ homicide are
+murder (_mord_, _meurtre_, _murdrum_), [[Manslaughter|manslaughter]] and _felo de se_ (or
 suicide by a person of sound mind).
 
 The original meaning of the word "murder" seems to have been secret
@@ -65,14 +65,14 @@ homicide,--"_Murdrum proprie dicitur mors alicujus occulta cujus
 interfector ignoratur_" (_Dialogus de Scaccario_ i, x.); and Glanville
 says: _Duo sunt genera homicidii, unum est quod dicitur murdrum quod
 nullo vidente nullo sciente clam perpetratur, ita quod non assignatur
-clamor popularis_ (hue and cry), _est et aliud homicidium quod diciter
+clamor popularis_ ([[Hue|hue]] and cry), _est et aliud homicidium quod diciter
 simplex homicidium_. After the Conquest, and for the protection of the
 ruling race, a fine (also called _murdrum_) was levied for the king on
 the hundred or other district in which a stranger was found dead, if the
 slayer was not brought to justice and the blood kin of the slain did not
 present Englishry, there being a presumption (in favour of the
-Exchequer) that the deceased was a Frenchman. After the assize of
-Clarendon (1166) the distinction between the killing of Normans and
+Exchequer) that the deceased was a Frenchman. After the [[Assize|assize]] of
+[[Clarendon]] (1166) the distinction between the killing of Normans and
 Englishmen gradually evaporated and the term murder came to acquire its
 present meaning of deliberate as distinct from secret homicide. In 1267
 it was provided that the murder fine should not be levied in cases of
@@ -92,14 +92,14 @@ The further differentiation between different degrees of criminal
 homicide was marked by legislation of Henry VIII. (1531) taking away
 benefit of clergy in the case of "wilful murder with malice prepensed"
 (aforethought), and that phrase is still the essential element in the
-definition of "wilful murder," which is committed "when a person of
+[[Definition|definition]] of "wilful murder," which is committed "when a person of
 sound memory and discretion unlawfully killeth any reasonable creature
 or being and under the king's peace with malice aforethought either
 express or implied" (3 Co. Inst. 47). The whole development of the
 substantive law as to murder rests on judicial rulings as to the meaning
 of malice prepense coupled with the extrajudicial commentaries of Coke,
 Hale and Foster; for parliament, though often tempted by bills and
-codes, has never ventured on a legislative definition. Much discussion
+[[Code|codes]], has never ventured on a legislative definition. Much discussion
 has ranged round the phrase "malice aforethought," and it has
 undoubtedly been expanded by judicial decision so as to create what is
 described as "constructive" murder. According to the view of the
@@ -188,7 +188,7 @@ case of excusable homicide. Homicide in self-defence is excusable when
 the slayer is himself in immediate danger of death, and has done all he
 could to avoid the assault. Accordingly, if he strikes and kills his
 assailant after the assault is over, this is not excusable homicide. But
-if the assault has been premeditated, as in the ease of a duel, the
+if the assault has been premeditated, as in the ease of a [[Duel|duel]], the
 death of either antagonist has under English law always been held to be
 murder and not excusable homicide. The excuse of self-defence covers the
 case in which a person in defence of others whom it is his duty to
@@ -229,7 +229,7 @@ husband of a man found committing adultery with the slayer's wife. In
 the case of a sudden quarrel it does not matter who began or provoked
 the quarrel. This used to be called "chance medley."
 
-2. "Involuntary" homicide as a result of great rashness or gross
+2. "Involuntary" homicide as a result of great rashness or [[Gross|gross]]
 negligence in respect of matters involving danger to human life, e.g. in
 driving trains or vehicles, or in dealing with dangerous weapons, or in
 performing surgical operations, or in taking care of the helpless.
@@ -238,11 +238,11 @@ The innumerable modes in which criminal liability for killing others has
 been adjudged under the English definitions of murder and manslaughter
 cannot be here stated, and can only be studied by reference to the
 judicial decisions collected and discussed in _Russell on Crimes_ and
-other English text-books, and in the valuable work by Mr J. D. Mayne on
+other English text-books, and in the valuable work by Mr J. D. [[Mayne]] on
 the criminal law of India, in which the English common law rulings are
 stated side by side with the terms and interpretations of the Indian
 penal code. Much labour has been expended by many jurists in efforts to
-create a scientific and acceptable classification of the various forms
+create a scientific and acceptable [[Classification|classification]] of the various forms
 of unlawful homicide which shall properly define the cases which should
 be punishable by law and the appropriate punishment. Their efforts have
 resulted in the establishment in almost every state except the United
@@ -250,7 +250,7 @@ Kingdom of statutory definitions of the crime, beginning with the French
 penal code and going down to the criminal code of Japan. In the case of
 England, as a result of the labours of Sir James Stephen, a code bill
 was submitted to parliament in 1878. In 1879 a draft code was prepared
-by Blackburn, Lush and Barry, and was presented to parliament. It was
+by Blackburn, Lush and [[Barry]], and was presented to parliament. It was
 founded on and prepared with Sir J. Stephen, and is a revision of his
 digest of the criminal law.
 
@@ -282,8 +282,8 @@ aforesaid and death ensues from such stopping of the breath." The
 following are the offences referred to:--"high treason and other
 offences against the king's authority, piracy and offences deemed to be
 piracy, escape or rescue from prison or lawful custody, resisting lawful
-apprehension, murder, rape, forcible abduction, robbery, burglary,
-arson." Cl. 176 reduces culpable homicide to manslaughter if the person
+[[Apprehension|apprehension]], murder, rape, forcible abduction, robbery, burglary,
+[[Arson|arson]]." Cl. 176 reduces culpable homicide to manslaughter if the person
 who causes death does so "in the heat of passion caused by sudden
 provocation"; and "any _wrongful act or insult_ of such a nature as to
 be sufficient to deprive any ordinary person of the power of
@@ -366,10 +366,10 @@ abolish the death sentence has been laid before the French parliament.
 The German code distinguishes between voluntary homicide which is done
 with deliberation and such homicide committed without deliberation (ss.
 211, 212), and provides for mitigation of punishment where the slaying
-was provoked without fault in the slayer by any wrongful act or serious
+was provoked without [[Fault|fault]] in the slayer by any wrongful act or serious
 insult upon the slayer or his relatives by the slain (213). Parricide
 and infanticide are specially punished (214, 215), as is killing another
-person at his express and earnest request (216)--an offence which would
+person at his express and [[Earnest|earnest]] request (216)--an offence which would
 in England be murder--and it is a separate offence to cause the death of
 another, the penalty being increased if the offender was peculiarly
 bound by office, calling or trade to use a care which he did not use

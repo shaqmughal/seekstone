@@ -13,10 +13,10 @@ foliaceous habit gives it something of the appearance of a moss, whence
 probably the name. It is often of a pale chestnut colour, but varies
 considerably, being sometimes almost entirely greyish white; and grows
 to a height of from 3 to 4 in., the branches being channelled or rolled
-into tubes, which terminate in flattened lobes with fringed edges. It
+into tubes, which terminate in flattened [[Lobe|lobes]] with fringed edges. It
 grows abundantly in the mountainous regions of northern countries, and
 it is specially characteristic of the lava slopes and plains of the west
-and north of Iceland. It is found on the mountains of north Wales, north
+and north of [[Iceland]]. It is found on the mountains of north Wales, north
 England, Scotland and south-west Ireland. As met with in commerce it is
 a light-grey harsh cartilaginous body, almost destitute of colour, and
 having a slightly bitter taste. It contains about 70% of lichenin or
@@ -25,7 +25,7 @@ appearance of structure. It also yields a peculiar modification of
 chlorophyll, called thallochlor, fumaric acid, licheno-stearic acid and
 cetraric acid, to which last it owes its bitter taste. It forms a
 nutritious and easily digested amylaceous food, being used in place of
-starch in some preparations of cocoa. It is not, however, in great
+starch in some preparations of [[Cocoa|cocoa]]. It is not, however, in great
 request, and even in Iceland it is only habitually resorted to in
 seasons of scarcity. Cetraric acid or cetrarin, a white
 micro-crystalline powder with a bitter taste, is readily soluble in

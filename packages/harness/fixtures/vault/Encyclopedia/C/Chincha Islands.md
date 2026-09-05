@@ -10,7 +10,7 @@ tags: [exploration-studies, science]
 
 CHINCHA ISLANDS, three small islands in the Pacific Ocean, about 12 m.
 from the coast of Peru (to which country they belong), opposite the town
-of Pisco, and 106 m. distant from Callao, in 13° 38' S., 76° 28' W. The
+of Pisco, and 106 m. distant from [[Callao]], in 13° 38' S., 76° 28' W. The
 largest of the group, known as the North Island or Isla del Norte, is
 only four-fifths of a mile in length, and about a third in breadth. They
 are of granitic formation, and rise from the sea in precipitous cliffs,

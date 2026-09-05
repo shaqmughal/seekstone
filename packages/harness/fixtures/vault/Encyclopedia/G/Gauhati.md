@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gauhati"
 # Gauhati
 
 GAUHATI, a town of British India, in the Kamrup district of Eastern
-Bengal and Assam, mainly on the left or south, but partly on the right
+[[Bengal]] and [[Assam]], mainly on the left or south, but partly on the right
 bank of the Brahmaputra. Pop. (1901) 14,244. It is beautifully situated,
 with an amphitheatre of wooded hills to the south, but is not very
 healthy. There are many evidences, such as ancient earthworks and tanks,
@@ -24,7 +24,7 @@ situated in the immediate vicinity, the temple of Kamakhya on a hill 2
 m. west of the town, and the rocky island of Umananda in the mid-channel
 of the Brahmaputra. Gauhati is still the headquarters of the district
 and of the Brahmaputra Valley division, though no longer a military
-cantonment. It is the river terminus of a section of the Assam-Bengal
+[[Cantonment|cantonment]]. It is the river terminus of a section of the Assam-Bengal
 railway. There are a second-grade college, a government high school, a
 law class and a training school for masters. Gauhati is an important
 centre of river trade, and the largest seat of commerce in Assam.

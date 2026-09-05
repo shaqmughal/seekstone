@@ -42,7 +42,7 @@ Maynadier has well remarked, "previous to the appearance of Malory's
 compilation it was Gawain rather than Arthur, who was the typical
 English hero." It is thus rather surprising to find that in the earliest
 preserved MSS. of Arthurian romance, i.e. in the poems of Chrétien de
-Troyes, Gawain, though generally placed first in the list of knights, is
+Troyes, Gawain, though generally placed first in the list of [[Knight|knights]], is
 by no means the hero _par excellence_. The latter part of the _Perceval_
 is indeed devoted to the recital of his adventures at the _Chastel
 Merveilleus_, but of none of Chrétien's poems is he the protagonist. The
@@ -53,7 +53,7 @@ have Gawain for their hero. In the earlier form of the prose romances,
 e.g. in the _Merlin_ proper, Gawain is a dominant personality, his feats
 rivalling in importance those ascribed to Arthur, but in the later forms
 such as the _Merlin_ continuations, the _Tristan_, and the final
-_Lancelot_ compilation, his character and position have undergone a
+_[[Lancelot]]_ compilation, his character and position have undergone a
 complete change, he is represented as cruel, cowardly and treacherous,
 and of indifferent moral character. Most unfortunately our English
 version of the romances, Malory's _Morte Arthur_, being derived from
@@ -77,7 +77,7 @@ Gawain is figured in the architrave of the north doorway of Modena
 cathedral, a 12th-century building. Recent discoveries have made it
 practically certain that there existed, prior to the extant romances, a
 collection of short episodic poems, devoted to the glorification of
-Arthur's famous nephew and his immediate kin (his brother Ghaeris, or
+Arthur's famous nephew and his immediate [[Kin|kin]] (his brother Ghaeris, or
 Gareth, and his son Guinglain), the authorship of which was attributed
 to a Welshman, Bleheris; fragments of this collection have been
 preserved to us alike in the first continuation of Chrétien de Troyes
@@ -100,7 +100,7 @@ Escalibur (which, as a rule, is represented as belonging to Gawain, not
 to Arthur)--all traits of a sun-hero--he certainly has much in common
 with the primitive Irish hero Cuchullin. The famous head-cutting
 challenge, so admirably told in _Syr Gawayne and the Grene Knighte_, was
-originally connected with the Irish champion. Nor was the lady of
+originally connected with the Irish [[Champion|champion]]. Nor was the lady of
 Gawain's love a mortal maiden, but the queen of the other-world. In
 Irish tradition the other-world is often represented as an island,
 inhabited by women only; and it is this "Isle of Maidens" that Gawain

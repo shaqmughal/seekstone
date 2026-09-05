@@ -11,7 +11,7 @@ CALVERT, SIR HARRY, BART. (c. 1763-1826), British general, was probably
 born early in 1763 at Hampton, near London. He was educated at Harrow,
 and at the age of fifteen entered the army. In the following year he
 served with his regiment in America, being present at the siege of
-Charleston, and serving through the campaign of Lord Cornwallis which
+[[Charleston]], and serving through the campaign of Lord Cornwallis which
 ended with the surrender of Yorktown. From 1781 to 1783 he was a
 prisoner of war. Returning to England in 1784, he next saw active
 service in 1793-1794 in the Low Countries, where he was aide-de-camp to

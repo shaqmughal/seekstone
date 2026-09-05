@@ -6,7 +6,7 @@ topic: history
 
 # Borden
 
-BORDEN, ROBERT LAIRD (1854-   ), Canadian statesman, was born at Grand
+BORDEN, ROBERT [[Laird|LAIRD]] (1854-   ), Canadian statesman, was born at Grand
 Pre, Nova Scotia, on the 26th of June 1854. In 1878 he was called to the
 bar, and became a leading lawyer in his native province. In 1896 he was
 elected to the Canadian parliament for the city of Halifax, but later

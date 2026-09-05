@@ -1,10 +1,10 @@
 # B'Nai B'Rith
 
-B'NAI B'RITH (or SONS OF THE COVENANT), INDEPENDENT ORDER OF, a Jewish
+B'NAI B'RITH (or SONS OF THE [[Covenant|COVENANT]]), INDEPENDENT ORDER OF, a Jewish
 fraternal society. It was founded at New York in 1843 by a number of
 German Jews, headed by Henry Jones, and is the oldest as well as the
 largest of the Jewish fraternal organizations. Its membership in 1908
-was 35,870, its 481 lodges and 10 grand lodges being distributed over
+was 35,870, its 481 [[Lodge|lodges]] and 10 grand lodges being distributed over
 the United States, Germany, Austria-Hungary, Rumania, Egypt and
 Palestine. Its objects are to promote a high morality among Jews,
 regardless of differences as to dogma and ceremonial customs, and
@@ -19,7 +19,7 @@ an executive committee and court of appeals (elected as before). The
 first lodge in Germany was instituted at Berlin in 1883. A large number
 of charitable and other public institutions have been established in the
 United States and elsewhere by the order, of which may be mentioned the
-large orphan asylum in Cleveland, the home for the aged and infirm at
+large orphan [[Asylum|asylum]] in Cleveland, the home for the aged and infirm at
 Yonkers, N.Y., the National Jewish hospital for consumptives at Denver,
 and the Maimonides library in New York City. The B'nai B'rith society
 has also co-operated largely with other Jewish philanthropic

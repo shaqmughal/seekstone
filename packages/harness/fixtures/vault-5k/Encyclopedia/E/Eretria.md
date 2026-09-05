@@ -8,7 +8,7 @@ tags: [science, politics]
 
 # Eretria
 
-ERETRIA (mod. _Aletria_), an ancient coast town of Euboea about 15 m.
+ERETRIA (mod. _Aletria_), an ancient coast town of [[Euboea]] about 15 m.
 S.E. of Chalcis, opposite to Oropus. Eretria, like its neighbour Chalcis
 (q.v.), early entered upon a commercial and colonizing career. Besides
 founding townships in the west and north of Greece, it acquired
@@ -17,8 +17,8 @@ of Miletus and Aegina. Since the so-called Lelantine War (7th century
 B.C.) against the coming league of Chalcis, it began to be overshadowed
 by its rivals. The interference of Eretria in the Ionian revolt (498)
 brought upon it the vengeance of the Persians, who captured and
-destroyed it shortly before the battle of Marathon (490). The city was
-soon rebuilt, and as a member of both the Delian Leagues attached itself
+destroyed it shortly before the battle of [[Marathon]] (490). The city was
+soon rebuilt, and as a member of both the [[Delian League|Delian Leagues]] attached itself
 by numerous treaties to the Athenians. The latter, through their general
 Phocion, rescued it from the tyrants suborned by Philip of Macedon (354
 and 341). Under Macedonian and Roman rule Eretria fell into
@@ -47,7 +47,7 @@ remains in one part to the height of eight courses.
 
   AUTHORITIES.--Strabo x. 447 f.; Herodotus v. 99, vi. 101; _Corpus
   Inscr. Atticarum_, i. 339, iv. (2), pp. 5, 10, 22; H. Heinze, _De
-  rebus Eretriensium_ (Gottingen, 1869); W.M. Leake, _Travels in
+  rebus Eretriensium_ (Gottingen, 1869); W.M. [[Leake]], _Travels in
   Northern Greece_ (London, 1835), ii. 266, 443; B.V. Head, _Historia
   numorum_ (Oxford, 1887), pp. 305-308; _Papers of the American School
   at Athens_, vol. vi.     (E. Gr.)

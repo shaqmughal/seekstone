@@ -29,7 +29,7 @@ distinguishable merely as different, though correlative, activities of
 consciousness. Professor Stout further investigates the phenomena of
 apprehension, and comes to the conclusion that "it is possible to
 distinguish and identify a whole without apprehending any of its
-constituent details." On the other hand, if the attention focuses
+constituent details." On the other hand, if the attention [[Focus|focuses]]
 itself for a time on the apprehended object, there is an expectation
 that such details will as it were emerge into consciousness. Hence he
 describes such apprehension as "implicit," and in so far as the implicit
@@ -214,7 +214,7 @@ to be paid wages or otherwise. If the contract is to pay wages, no
 deduction can be made owing to illness or accident, unless it has been
 so provided for in the indentures. Nor is the apprentice liable for
 breakages or similar faults. The master has been supposed to have a
-right to administer moderate corporal punishment, though he may not
+right to administer moderate [[Corporal Punishment|corporal punishment]], though he may not
 delegate it. But this right is really obsolete. According to old custom
 a master provided proper food for his apprentices, and medical
 attendance when required; but the modern practice is for apprentices to
@@ -225,7 +225,7 @@ transfer his business. The contract of apprenticeship may be dissolved
 by (1) efflux of time; (2) by death (if the master dies, some part of
 the premium is usually returnable, but if the apprentice dies no part is
 returnable); (3) by consent; (4) in case of grave misconduct; (5) under
-the Bankruptcy Act 1883, providing for discharge of the indentures of
+the [[Bankruptcy]] Act 1883, providing for discharge of the indentures of
 apprenticeship and for payment on account of premium. Disputes between
 master and apprentice, in cases where no premium has been paid, or where
 the premium does not exceed L25, are dealt with by courts of summary
@@ -237,7 +237,7 @@ apprenticeship is usually not less than four years. Apprentices by the
 custom of London in agreements made at the Guildhall are subject to the
 jurisdiction of the chamberlain of London.
 
-Parish apprentices are those bound out by guardians of the poor in
+Parish apprentices are those bound out by [[Guardian|guardians]] of the poor in
 England. By the Poor Relief Act 1601, overseers of the poor were
 empowered, with the consent of two justices, to put out poor children as
 apprentices "where they shall be convenient." Owing to the

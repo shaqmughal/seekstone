@@ -2,22 +2,22 @@
 
 HAWKE, EDWARD HAWKE, BARON (1705-1781), British admiral, was the only
 son of Edward Hawke, a barrister. On his mother's side he was the nephew
-of Colonel Martin Bladen (1680-1746), a politician of some note, and was
-connected with the family of Fairfax. Edward Hawke entered the navy on
+of Colonel [[Martin]] Bladen (1680-1746), a politician of some note, and was
+connected with the family of [[Fairfax]]. Edward Hawke entered the navy on
 the 20th of February 1720 and served the time required to qualify him to
 hold a lieutenant's commission on the North American and West Indian
 stations. Though he passed his examination on the 2nd of June 1725, he
 was not appointed to a ship to act in that rank till 1729, when he was
 named third lieutenant of the "Portland" in the Channel. The continuance
 of peace allowed him no opportunities of distinction, but he was
-fortunate in obtaining promotion as commander of the "Wolf" sloop in
+fortunate in obtaining promotion as [[Commander|commander]] of the "Wolf" sloop in
 1733, and as post captain of the "Flamborough" (20) in 1734. When war
 began with Spain in 1739, he served as captain of the "Portland" (50) in
 the West Indies. His ship was old and rotten. She nearly drowned her
 captain and crew, and was broken up after she was paid off in 1742. In
-the following year Hawke was appointed to the "Berwick" (70), a fine new
+the following year Hawke was appointed to the "[[Berwick]]" (70), a fine new
 vessel, and was attached to the Mediterranean fleet then under the
-command of Thomas Mathews. The "Berwick" was manned badly, and suffered
+command of Thomas [[Mathews]]. The "Berwick" was manned badly, and suffered
 severely from sickness, but in the ill-managed battle of Toulon on the
 11th of January 1744 Hawke gained great distinction by the spirit with
 which he fought his ship. The only prize taken by the British fleet, the
@@ -27,7 +27,7 @@ only trophy of the fight. His gallantry attracted the attention of the
 king. There is a story that he was dismissed from the service for having
 left the line to engage the "Poder," and was restored by the king's
 order. The legend grew not unnaturally out of the confusing series of
-courts martial which arose out of the battle, but it has no foundation.
+courts [[Martial|martial]] which arose out of the battle, but it has no foundation.
 There is better reason to believe that when at a later period the
 Admiralty intended to pass over Hawke's name in a promotion of admirals,
 the king, George II., did insist that he should not be put on the
@@ -35,19 +35,19 @@ retired list.
 
 He had no further chance of making his energy and ability known out of
 the ranks of his own profession, where they were fully realized, till
-1747. In July of that year he attained flag rank, and was named second
+1747. In July of that year he attained [[Flag|flag]] rank, and was named second
 in command of the Channel fleet. Owing to the ill health of his superior
 he was sent in command of the fourteen ships detached to intercept a
 French convoy on its way to the West Indies. On the 14th of October 1747
-he fell in with it in the Bay of Biscay. The French force, under M.
+he fell in with it in the Bay of [[Biscay]]. The French force, under M.
 Desherbiers de l'Etenduere, consisted of nine ships, which were,
 however, on the average larger than Hawke's. He attacked at once. The
-French admiral sent one of his liners to escort the merchant ships on
+French admiral sent one of his [[Liner|liners]] to escort the merchant ships on
 their way to the West Indies, and with the other eight fought a very
 gallant action with the British squadron. Six of the eight French ships
 were taken. The French admiral did for a time succeed in saving the
 trading vessels under his charge, but most of them fell into the hands
-of the British cruisers in the West Indies. Hawke was made a knight of
+of the British cruisers in the West Indies. Hawke was made a [[Knight|knight]] of
 the Bath for this timely piece of service, a reward which cannot be said
 to have been lavish.
 
@@ -68,22 +68,22 @@ hostile terms, and conflicts between the officers of the two powers in
 America had already taken place. Neither government was scrupulous in
 abstaining from the use of force while peace was still nominally
 unbroken. Hawke was sent to sea to intercept a French squadron which had
-been cruising near Gibraltar, but a restriction was put on the limits
+been cruising near [[Gibraltar]], but a restriction was put on the limits
 within which he might cruise, and he failed to meet the French. The
 fleet was much weakened by ill-health. In June 1756 the news of John
 Byng's retreat from Minorca reached England and aroused the utmost
 indignation. Hawke was at once sent out to relieve him in the
 Mediterranean command, and to send him home for trial. He sailed in the
-"Antelope," carrying, as the wits of the day put it, "a cargo of
+"[[Antelope]]," carrying, as the wits of the day put it, "a [[Cargo|cargo]] of
 courage" to supply deficiencies in that respect among the officers then
 in the Mediterranean. Minorca had fallen, from want of resources rather
 than the attacks of the French, before he could do anything for the
-assistance of the garrison of Fort St Philip. In winter he was recalled
+assistance of the [[Garrison|garrison]] of Fort St Philip. In winter he was recalled
 to England, and he reached home on the 14th of January 1757. On the 24th
 of February following he was promoted full admiral.
 
 It is said, but on no very good authority, that he was not on good terms
-with Pitt (afterwards earl of Chatham), and it is certain that when
+with Pitt (afterwards earl of [[Chatham]]), and it is certain that when
 Pitt's great ministry was formed in June 1757, he was not included in
 the Board of Admiralty. Yet as he was continued in command of important
 forces in the Channel, it is obvious that his great capacity was fully
@@ -103,7 +103,7 @@ cruising in the Channel in search of the French naval forces, without
 any striking success. In May of that year he was ordered to detach a
 squadron under the command of Howe to carry out further combined
 operations. Hawke considered himself as treated with a want of due
-respect, and was at the time in bad humour with the Admiralty. He
+respect, and was at the time in bad [[Humour|humour]] with the Admiralty. He
 somewhat pettishly threw up his command, but was induced to resume it by
 the board, which knew his value, and was not wanting in flattery. He
 retired in June for a time on the ground of health, but happily for his
@@ -114,7 +114,7 @@ France was then elaborating a scheme of invasion which bears much
 resemblance to the plan afterwards formed by Napoleon. An army of
 invasion was collected at the Morbihan in Brittany, and the intention
 was to transport it under the protection of a powerful fleet which was
-to be made up by uniting the squadron at Brest with the ships at Toulon.
+to be made up by uniting the squadron at [[Brest]] with the ships at Toulon.
 The plan, like Napoleon's, had slight chance of success, since the naval
 part of the invading force must necessarily be brought together from
 distant points at the risk of interruption by the British squadrons. The
@@ -133,11 +133,11 @@ It was the duty of Hawke to prevent attack from this quarter. The manner
 in which he discharged his task marks an epoch in the history of the
 navy. Until his time, or very nearly so, it was still believed that
 there was rashness in keeping the great ships out after September. Hawke
-maintained his blockade of Brest till far into November. Long cruises
+maintained his [[Blockade|blockade]] of Brest till far into November. Long cruises
 had always entailed much bad health on the crews, but by the care he
 took to obtain fresh food, and the energy he showed in pressing the
 Admiralty for stores, he was able to keep his men healthy. Early in
-November a series of severe gales forced him off the French coast, and
+November a series of severe [[Gale|gales]] forced him off the French coast, and
 he was compelled to anchor in Torbay. His absence was brief, but it
 allowed the French admiral, M. de Conflans (1690?-1777), time to put to
 sea, and to steer for the Morbihan. Hawke, who had left Torbay on the
@@ -147,8 +147,8 @@ nothing but steer for the Morbihan, he followed him thither. The news
 that M. de Conflans had got to sea spread a panic through the country,
 and for some days Hawke was the object of abuse of the most irrational
 kind. There was in fact no danger, for behind Hawke's fleet there were
-ample reserves in the straits of Dover, and in the North Sea. Following
-his enemy as fast as the bad weather, a mixture of calms and head winds
+ample reserves in the straits of [[Dover]], and in the North Sea. Following
+his enemy as fast as the bad weather, a mixture of [[Calm|calms]] and head winds
 would allow, the admiral sighted the French about 40 m. to the west of
 Belleisle on the morning of the 20th of November. The British fleet was
 of twenty-one sail, the French of twenty. There was also a small
@@ -170,9 +170,9 @@ vessels were lost, but the price was little to pay for such a victory.
 No more fighting remained to be done. The fleet in Quiberon Bay suffered
 from want of food, and its distress is recorded in the lines:--
 
-  "Ere Hawke did bang
+  "Ere Hawke did [[Bang|bang]]
    Mounseer Conflang
-        You sent us beef and beer;
+        You sent us [[Beef|beef]] and [[Beer|beer]];
    Now Mounseer's beat
    We've nought to eat,
         Since you have nought to fear."
@@ -193,7 +193,7 @@ admiral since the Dutch wars of the 17th century. On his death on the
 (1744-1805), and it is still held by his descendants, the 7th Baron (b.
 1860) being best known as a great Yorkshire cricketer.
 
-  There is a portrait of Hawke in the Painted Hall at Greenwich. His
+  There is a portrait of Hawke in the Painted Hall at [[Greenwich]]. His
   _Life_ by Montagu Burrows (1883) has superseded all other authorities;
   it is supplemented in a few early particulars by Sir J. K. Laughton's
   article in the _Dict. Nat. Biog._ (1891).

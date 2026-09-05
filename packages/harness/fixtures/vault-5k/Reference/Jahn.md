@@ -1,9 +1,9 @@
 # Jahn
 
-JAHN, FRIEDRICH LUDWIG (1778-1852), German pedagogue and patriot,
+JAHN, [[Friedrich|FRIEDRICH]] LUDWIG (1778-1852), German pedagogue and patriot,
 commonly called _Turnvater_ ("Father of Gymnastics"), was born in Lanz
 on the 11th of August 1778. He studied theology and philology from 1796
-to 1802 at Halle, Göttingen and Greifswald. After Jena he joined the
+to 1802 at [[Halle]], Göttingen and Greifswald. After Jena he joined the
 Prussian army. In 1809 he went to Berlin, where he became a teacher at
 the Gymnasium zum Grauen as well as at the Plamann School. Brooding upon
 the humiliation of his native land by Napoleon, he conceived the idea of
@@ -14,11 +14,11 @@ and the movement spread rapidly, the young gymnasts being taught to
 regard themselves as members of a kind of gild for the emancipation of
 their fatherland. This patriotic spirit was nourished in no small degree
 by the writings of Jahn. Early in 1813 he took an active part at Breslau
-in the formation of the famous corps of Lützow, a battalion of which he
+in the formation of the famous corps of Lützow, a [[Battalion|battalion]] of which he
 commanded, though during the same period he was often employed in secret
 service. After the war he returned to Berlin, where he was appointed
 state teacher of gymnastics. As such he was a leader in the formation of
-the student _Burschenschaften_ (patriotic fraternities) in Jena.
+the student _Burschenschaften_ (patriotic [[Fraternities|fraternities]]) in Jena.
 
 A man of democratic nature, rugged, honest, eccentric and outspoken,
 Jahn often came into collision with the reactionary spirit of the time,
@@ -37,7 +37,7 @@ where a monument was erected in his honour in 1859.
 
   Among his works are the following: _Bereicherung des hochdeutschen
   Sprachschatzes_ (Leipzig, 1806), _Deutsches Volksthum_ (Lübeck, 1810),
-  _Runenblätter_ (Frankfort, 1814), _Neue Runenblätter_ (Naumburg,
+  _Runenblätter_ ([[Frankfort]], 1814), _Neue Runenblätter_ (Naumburg,
   1828), _Merke zum deutschen Volksthum_ (Hildburghausen, 1833), and
   _Selbstvertheidigung_ (Vindication) (Leipzig, 1863). A complete
   edition of his works appeared at Hof in 1884-1887. See the biography

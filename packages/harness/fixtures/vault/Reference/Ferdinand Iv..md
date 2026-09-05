@@ -6,8 +6,8 @@ topic: economics-theory
 
 # Ferdinand Iv.
 
-FERDINAND IV. (1751-1825), king of Naples (III. of Sicily, and I. of the
-Two Sicilies), third son of Don Carlos of Bourbon, king of Naples and
+[[Ferdinand|FERDINAND]] IV. (1751-1825), king of Naples (III. of Sicily, and I. of the
+Two Sicilies), third son of Don Carlos of [[Bourbon]], king of Naples and
 Sicily (afterwards Charles III. of Spain), was born in Naples on the
 12th of January 1751. When his father ascended the Spanish throne in
 1759 Ferdinand, in accordance with the treaties forbidding the union of
@@ -19,15 +19,15 @@ encouraged him in his love of pleasure, his idleness and his excessive
 devotion to outdoor sports. Ferdinand grew up athletic, but ignorant,
 ill-bred, addicted to the lowest amusements; he delighted in the company
 of the _lazzaroni_ (the most degraded class of the Neapolitan people),
-whose dialect and habits he affected, and he even sold fish in the
+whose [[Dialect|dialect]] and habits he affected, and he even sold fish in the
 market, haggling over the price.
 
 His minority ended in 1767, and his first act was the expulsion of the
-Jesuits. The following year he married Maria Carolina, daughter of the
-empress Maria Theresa. By the marriage contract the queen was to have a
+[[Jesuits]]. The following year he married Maria Carolina, daughter of the
+empress [[Maria Theresa]]. By the marriage contract the queen was to have a
 voice in the council of state after the birth of her first son, and she
 was not slow to avail herself of this means of political influence.
-Beautiful, clever and proud, like her mother, but cruel and treacherous,
+Beautiful, [[Clever|clever]] and proud, like her mother, but cruel and treacherous,
 her ambition was to raise the kingdom of Naples to the position of a
 great power; she soon came to exercise complete sway over her stupid and
 idle husband, and was the real ruler of the kingdom. Tanucci, who
@@ -39,13 +39,13 @@ securing a _rapprochement_ with Austria and England, that he became
 practically and afterwards actually prime minister. Although not a mere
 grasping adventurer, he was largely responsible for reducing the
 internal administration of the country to an abominable system of
-espionage, corruption and cruelty. On the outbreak of the French
+espionage, corruption and [[Cruelty|cruelty]]. On the outbreak of the French
 Revolution the Neapolitan court was not hostile to the movement, and the
 queen even sympathized with the revolutionary ideas of the day. But when
 the French monarchy was abolished and the royal pair beheaded, Ferdinand
 and Carolina were seized with a feeling of fear and horror and joined
 the first coalition against France in 1793. Although peace was made with
-France in 1796, the demands of the French Directory, whose troops
+France in 1796, the demands of the French [[Directory]], whose troops
 occupied Rome, alarmed the king once more, and at his wife's instigation
 he took advantage of Napoleon's absence in Egypt and of Nelson's
 victories to go to war. He marched with his army against the French and
@@ -72,13 +72,13 @@ made use of Lady Hamilton, Nelson's mistress, to induce him to execute
 her own spiteful vengeance. Her only excuse is that as a sister of Marie
 Antoinette the very name of Republican or Jacobin filled her with
 loathing. The king returned to Naples soon afterwards, and ordered
-wholesale arrests and executions of supposed Liberals, which continued
+wholesale [[Arrest|arrests]] and executions of supposed Liberals, which continued
 until the French successes forced him to agree to a treaty in which
 amnesty for members of the French party was included. When war broke out
 between France and Austria in 1805, Ferdinand signed a treaty of
 neutrality with the former, but a few days later he allied himself with
 Austria and allowed an Anglo-Russian force to land at Naples. The French
-victory at Austerlitz enabled Napoleon to despatch an army to southern
+victory at [[Austerlitz]] enabled Napoleon to despatch an army to southern
 Italy. Ferdinand with his usual precipitation fled to Palermo (23rd of
 January 1806), followed soon after by his wife and son, and on the 14th
 of February the French again entered Naples. Napoleon declared that the
@@ -86,13 +86,13 @@ Bourbon dynasty had forfeited the crown, and proclaimed his brother
 Joseph king of Naples and Sicily. But Ferdinand continued to reign over
 the latter kingdom under British protection. Parliamentary institutions
 of a feudal type had long existed in the island, and Lord William
-Bentinck (q.v.), the British minister, insisted on a reform of the
+[[Bentinck]] (q.v.), the British minister, insisted on a reform of the
 constitution on English and French lines. The king indeed practically
 abdicated his power, appointing his son Francis regent, and the queen,
 at Bentinck's instance, was exiled to Austria, where she died in 1814.
 
 After the fall of Napoleon, Joachim Murat, who had succeeded Joseph
-Bonaparte as king of Naples in 1808, was dethroned, and Ferdinand
+[[Bonaparte]] as king of Naples in 1808, was dethroned, and Ferdinand
 returned to Naples. By a secret treaty he had bound himself not to
 advance further in a constitutional direction than Austria should at any
 time approve; but, though on the whole he acted in accordance with
@@ -103,7 +103,7 @@ violation of his oath, and to proclaim the union of the two states into
 the kingdom of the Two Sicilies (December 12th, 1816). He was now
 completely subservient to Austria, an Austrian, Count Nugent, being even
 made commander-in-chief of the army; and for four years he reigned as a
-despot, every tentative effort at the expression of liberal opinion
+[[Despot|despot]], every tentative effort at the expression of liberal opinion
 being ruthlessly suppressed. The result was an alarming spread of the
 influence and activity of the secret society of the Carbonari (q.v.),
 which in time affected a large part of the army. In July 1820 a military
@@ -114,14 +114,14 @@ of the recovery of its independence, was suppressed by Neapolitan
 troops.
 
 The success of the military revolution at Naples seriously alarmed the
-powers of the Holy Alliance, who feared that it might spread to other
+powers of the [[Holy Alliance]], who feared that it might spread to other
 Italian states and so lead to that general European conflagration which
 it was their main preoccupation to avoid (see EUROPE: _History_). After
 long diplomatic negotiations, it was decided to hold a congress _ad hoc_
 at Troppau (October 1820). The main results of this congress were the
 issue of the famous Troppau Protocol, signed by Austria, Prussia and
 Russia only, and an invitation to King Ferdinand to attend the adjourned
-congress at Laibach (1821), an invitation of which Great Britain
+congress at [[Laibach]] (1821), an invitation of which Great Britain
 approved "as implying negotiation" (see TROPPAU, LAIBACH, CONGRESSES
 OF). At Laibach Ferdinand played so sorry a part as to provoke the
 contempt of those whose policy it was to re-establish him in absolute
@@ -131,13 +131,13 @@ his oaths and, in letters addressed to all the sovereigns of Europe,
 declared his acts to have been null and void. An attitude so indecent
 threatened to defeat the very objects of the reactionary powers, and
 Gentz congratulated the congress that these sorry protests would be
-buried in the archives, offering at the same time to write for the king
+buried in the [[Archive|archives]], offering at the same time to write for the king
 a dignified letter in which he should express his reluctance at having
 to violate his oaths in the face of irresistible force! But, under these
 circumstances, Metternich had no difficulty in persuading the king to
 allow an Austrian army to march into Naples "to restore order."
 
-The campaign that followed did little credit either to the Austrians or
+The campaign that followed did little [[Credit|credit]] either to the Austrians or
 the Neapolitans. The latter, commanded by General Pepe (q.v.), who made
 no attempt to defend the difficult defiles of the Abruzzi, were
 defeated, after a half-hearted struggle at Rieti (March 7th, 1821), and
@@ -159,7 +159,7 @@ tyranny.
   reliable and accurate; L. Conforti, _Napoli nel 1799_ (Naples, 1886);
   G. Pepe, _Memorie_ (Paris, 1847), a most valuable book; C. Auriol, _La
   France, l'Angleterre, et Naples_ (Paris, 1906); for the Sicilian
-  period and the British occupation, G. Bianco, _La Sicilia durante
+  period and the British occupation, G. Bianco, _La Sicilia [[Durante|durante]]
   l'occupazione Inglese_ (Palermo, 1902), which contains many new
   documents of importance; Freiherr A. von Helfert has attempted the
   impossible task of whitewashing Queen Carolina in his _Königin

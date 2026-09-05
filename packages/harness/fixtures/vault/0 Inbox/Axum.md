@@ -8,9 +8,9 @@ Aksum in the Sabaean and Ethiopic inscriptions in the place, is found in
 classical and early Christian writers in the forms of Auxome, Axumis,
 Axume, &c., the first mention being in the _Periplus Maris Erythraei_ (c.
 A.D. 67), where it is said to be the seat of a kingdom, and the emporium
-for the ivory brought from the west. For the history of this kingdom see
-ETHIOPIA. J. T. Bent conjectured that the seat of government was
-transferred to Axum from Jeha, which he identified with the ancient Ava;
+for the [[Ivory|ivory]] brought from the west. For the history of this kingdom see
+[[Ethiopia|ETHIOPIA]]. J. T. Bent conjectured that the seat of government was
+transferred to Axum from Jeha, which he identified with the ancient [[Ava]];
 and according to a document quoted by Achille Raffray the third Christian
 monarch transferred it from Axum to Lalibela. This second transference
 probably took place very much later; in spite of it, the custom of crowning
@@ -35,7 +35,7 @@ erect is 60 ft. in height, with 8 ft. 7 in. extreme front width; others
 that are fallen may have been taller. The highly finished monoliths are all
 representations of a many-storeyed castle, with an altar at the base of
 each. They appear to be connected with Semitic sun-worship, and are
-assigned by Bent to the same period as the temple at Baalbek, though some
+assigned by Bent to the same period as the temple at [[Baalbek]], though some
 antiquarians would place them much earlier; the representation of a castle
 in a single stone seems to bear some relation to the idea worked out in the
 monolith churches of Lalibela described by Raffray. The fall of many of the
@@ -50,7 +50,7 @@ it was sacked by Mahommed Gran, sultan of Harrar, about 1535.
 LITERATURE.--Classical references to Axum are collected by Pietschmann in
 Pauly's _Realencyclopädie_ (2nd ed.); for the history as derived from the
 inscriptions see D. H. Müller, Appendix to J. T. Bent's _Sacred City of the
-Ethiopians_ (London, 1893), and E. Glaser, _Die Abessinier in Arabien_
+Ethiopians_ (London, 1893), and E. [[Glaser]], _Die Abessinier in Arabien_
 (Munich, 1895). For the antiquities, Bruce's _Travels_ (1790); Salt, in the
 _Travels of Viscount Valentia_ (London, 1809), iii. 87-97 and 178-200;
 J. T. Bent, _l.c._; and A. B. Wylde, _Modern Abyssinia_ (London, 1901). For

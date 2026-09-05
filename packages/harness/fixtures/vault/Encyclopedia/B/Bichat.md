@@ -1,14 +1,14 @@
 # Bichat
 
 BICHAT, MARIE FRANÇOIS XAVIER (1771-1802), French anatomist and
-physiologist, was born at Thoirette (Jura) on the 14th of November 1771.
+physiologist, was born at Thoirette ([[Jura]]) on the 14th of November 1771.
 His father, a physician, was his first instructor. He entered the
-college of Nantua, and afterwards studied at Lyons. In mathematics and
+college of Nantua, and afterwards studied at [[Lyons]]. In mathematics and
 the physical sciences he made rapid progress, but ultimately devoted
 himself to the study of anatomy and surgery, under the guidance of M.A.
 Petit (1766-1811), chief surgeon to the Hôtel Dieu at Lyons. The
-revolutionary disturbances compelled him to fly from Lyons and take
-refuge in Paris in 1793. He there became a pupil of P.J. Desault, who
+revolutionary disturbances compelled him to [[Fly|fly]] from Lyons and take
+refuge in Paris in 1793. He there became a pupil of P.J. [[Desault]], who
 was so strongly impressed with his genius that he took him into his
 house and treated him as his adopted son. For two years he actively
 participated in all the labours of Desault, prosecuting at the same time
@@ -18,7 +18,7 @@ acquit himself of the obligations he owed his benefactor, by
 contributing to the support of his widow and her son, and by conducting
 to a close the fourth volume of Desault's _Journal de Chirurgie_, to
 which he added a biographical memoir of its author. His next object was
-to reunite and digest in one body the surgical doctrines which Desault
+to reunite and [[Digest|digest]] in one body the surgical doctrines which Desault
 had published in various periodical works. Of these he composed _Oeuvres
 chirurgicales de Desault, ou tableau de sa doctrine, et de sa pratique
 dans le traitement des maladies externes_ (1798-1799), a work in which,
@@ -30,7 +30,7 @@ announce a course of operative surgery. In the following year, 1798, he
 gave in addition a separate course of physiology. A dangerous attack of
 haemoptysis interrupted his labours for a time; but the danger was no
 sooner past than he plunged into new engagements with the same ardour as
-before. He had now scope in his physiological lectures for a fuller
+before. He had now scope in his physiological lectures for a [[Fuller|fuller]]
 exposition of his original views on the animal economy, which excited
 much attention in the medical schools at Paris. Sketches of these
 doctrines were given by him in three papers contained in the Memoirs of
@@ -41,16 +41,16 @@ vie et sur la mort_ (1800), and it was quickly followed by his _Anatomie
 générale_ (1801), the work which contains the fruits of his most
 profound and original researches. He began another work, under the title
 _Anatomie descriptive_ (1801-1803), in which the organs were arranged
-according to his peculiar classification of their functions, but lived
+according to his peculiar [[Classification|classification]] of their functions, but lived
 to publish only the first two volumes. It was completed on the same plan
-by his pupils, M.F.R. Buisson (1776-1805) and P.J. Roux (1780-1854).
+by his pupils, M.F.R. [[Buisson]] (1776-1805) and P.J. Roux (1780-1854).
 
 Before Bichat had attained the age of eight-and-twenty he was appointed
 physician to the Hôtel Dieu, a situation which opened an immense field
 to his ardent spirit of inquiry. In the investigation of diseases he
 pursued the same method of observation and experiment which had
 characterized his researches in physiology. He learned their history by
-studying them at the bedside of his patients, and by accurate dissection
+studying them at the bedside of his patients, and by accurate [[Dissection|dissection]]
 of their bodies after death. He engaged in a series of examinations,
 with a view to ascertain the changes induced in the various organs by
 disease, and in less than six months he had opened above six hundred
@@ -59,7 +59,7 @@ been attempted before, the effects of remedial agents, and instituted
 with this view a series of direct experiments which yielded a vast store
 of valuable material. Towards the end of his life he was also engaged on
 a new classification of diseases. A fall from a staircase at the Hôtel
-Dieu resulted in a fever, and, exhausted by his excessive labours and by
+Dieu resulted in a [[Fever|fever]], and, exhausted by his excessive labours and by
 constantly breathing the tainted air of the dissecting-room, he died on
 the 22nd of July 1802. His bust, together with that of Desault, was
 placed in the Hôtel Dieu by order of Napoleon.
@@ -75,17 +75,17 @@ regarded as combinations of one molecular proportion of the normal salt
 with one or more molecular proportions of chromium trioxide. The series
 will thus possess the following general formulae:--
 
-      M2CrO4       M2Cr2O7     M2Cr3O10 &c.     (M = one atom of a
+      M2CrO4       M2Cr2O7     M2Cr3O10 &c.     (M = one [[Atom|atom]] of a
   normal chromate  bichromate  trichromate      monovalent metal.)
 
-  _Chromates._--The alkaline chromates are usually obtained by fusion of
+  _Chromates._--The alkaline chromates are usually obtained by [[Fusion|fusion]] of
   a chromium compound with an alkaline carbonate and an oxidizing agent,
   such for example as potassium nitrate or chlorate. The native
   chrome-ironstone (Cr2O3·FeO) may be used in this way as a source of
   such compounds, being fused in a reverberatory furnace, along with
   soda-ash and lime, the oxidizing agent in this case being atmospheric
   oxygen. They may also be prepared by oxidizing chromium salts (in
-  alkaline solution) with hydrogen peroxide, chlorine, bleaching powder,
+  alkaline solution) with hydrogen peroxide, [[Chlorine|chlorine]], [[Bleaching|bleaching]] powder,
   potassium permanganate and manganese dioxide. The majority of the
   chromates are yellow in colour, and many of them are isomorphous with
   the corresponding sulphates. The alkaline chromates are soluble in
@@ -94,13 +94,13 @@ will thus possess the following general formulae:--
   easily reduced in acid solution by sulphuretted hydrogen, and also by
   sulphur dioxide to chromium salts. The chromates are stable towards
   heat; they are poisonous, and may be recognized by the yellow
-  precipitates they give with soluble barium and lead salts.
+  precipitates they give with soluble [[Barium|barium]] and lead salts.
 
   Potassium chromate, K2CrO4, may be prepared by neutralizing a solution
-  of potassium bichromate with potassium carbonate or with caustic
+  of potassium bichromate with potassium carbonate or with [[Caustic|caustic]]
   potash. It crystallizes in yellow rhombic prisms, and is readily
   soluble in water, the solution having a bitter taste and an alkaline
-  reaction. When heated in a current of sulphuretted hydrogen, or carbon
+  reaction. When heated in a current of sulphuretted hydrogen, or [[Carbon|carbon]]
   bisulphide, it yields a mixture of chromium sesquioxide and sulphide.
   When heated with sulphur it yields chromium sesquioxide. Sodium
   chromate, Na2CrO4·10(H2O), forms pale yellow crystals isomorphous with
@@ -139,7 +139,7 @@ will thus possess the following general formulae:--
   prisms of specific gravity 2.6-2.7, which are moderately soluble in
   cold water and readily soluble in hot water. The solution is strongly
   acid in reaction and is very poisonous. Potassium bichromate finds
-  extensive application in organic chemistry as an oxidizing agent,
+  extensive application in organic [[Chemistry|chemistry]] as an oxidizing agent,
   being used for this purpose in dilute sulphuric acid solution, K2Cr2O7
   + 4H2SO4 = KaSO4 + Cr2(SO4)3 + 4H2O + 3O. On the addition of
   concentrated sulphuric acid to a cold saturated solution of the salt,

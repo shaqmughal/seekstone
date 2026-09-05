@@ -62,12 +62,12 @@ the Caucasus and in western Asia. It is found generally in forest glades
 or in hedges, and does not flourish under the shade of other trees. In
 England it is usually small, probably on account of its destruction for
 timber, but it may attain to 60 or 70 ft. in height, and Loudon mentions
-one tree at Claremont, in Surrey, of 80 ft. Some of the trees on Bleak
+one tree at [[Claremont]], in Surrey, of 80 ft. Some of the trees on Bleak
 Hill, Shropshire, are asserted to be 14 ft. in girth at some distance
 from the ground (_N. and Q._, 5th ser., xii. 508). The holly is abundant
 in France, especially in Brittany. It will grow in almost any soil not
 absolutely wet, but flourishes best in rather dry than moist sandy loam.
-Beckmann (_Hist. of Invent._, 1846, i. 193) says that the plant which
+[[Beckmann]] (_Hist. of Invent._, 1846, i. 193) says that the plant which
 first induced J. di Castro to search for alum in Italy was the holly,
 which is there still considered to indicate that its habitat is
 aluminiferous. The holly is propagated by means of the seeds, which do
@@ -78,7 +78,7 @@ generally strike root in spring. Transplantation should be performed in
 damp weather in September and October, or, according to some writers, in
 spring or on mild days in winter, and care should be taken that the
 roots are not dried by exposure to the air. It is rarely injured by
-frosts in Britain, where its foliage and bright red berries in winter
+[[Frost|frosts]] in Britain, where its foliage and bright red berries in winter
 render it a valuable ornamental tree. The yield of berries has been
 noticed to be less when a warm spring, following on a wet winter season,
 has promoted excess of growth. There are numerous varieties of the
@@ -98,7 +98,7 @@ height, with plenty of small fibrous roots, and require to be set 1 to
 watered.
 
 The wood of the holly is even-grained and hard, especially when from the
-heartwood of large trees, and almost as white as ivory, except near the
+heartwood of large trees, and almost as white as [[Ivory|ivory]], except near the
 centre of old trunks, where it is brownish. It is employed in inlaying
 and turning, and, since it stains well, in the place of ebony, as for
 teapot handles. For engraving it is inferior to box. When dry it weighs
@@ -113,10 +113,10 @@ moths _Sphinx ligustri_ and _Phoxopteryx naevana_ have been met with on
 holly. The leaves are mined by the larva of a fly, _Phytomyza ilicis_,
 and both on them and the tops of the young twigs occurs the plant-louse
 _Aphis ilicis_ (Kaltenbach, _Pflanzenfeinde_, 1874, p. 427). The custom
-of employing holly and other plants for decorative purposes at Christmas
+of employing holly and other plants for decorative purposes at [[Christmas]]
 is one of considerable antiquity, and has been regarded as a survival of
 the usages of the Roman Saturnalia, or of an old Teutonic practice of
-hanging the interior of dwellings with evergreens as a refuge for sylvan
+[[Hanging|hanging]] the interior of dwellings with evergreens as a refuge for sylvan
 spirits from the inclemency of winter. A Border proverb defines an
 habitual story-teller as one that "lees never but when the hollen is
 green." Several popular superstitions exist with respect to holly. In
@@ -139,15 +139,15 @@ door are a protection against thunder.
   Indian species of _Ilex_. The Japanese _I. crenata_, and _I.
   latifolia_, a remarkably hardy plant, and the North American _I.
   Cassine_, are among the species cultivated in Britain. The leaves of
-  several species of _Ilex_ are used by dyers. The member of the genus
+  several species of _Ilex_ are used by [[Dyer|dyers]]. The member of the genus
   most important economically is _I. paraguariensis_, the prepared
-  leaves of which constitute Paraguay tea, or MATE (q.v.). Knee holly is
+  leaves of which constitute Paraguay tea, or MATE (q.v.). [[Knee]] holly is
   _Ruscus aculeatus_, or butcher's broom (see BROOM); sea holly,
   _Eryngium maritimum_, an umbelliferous plant; and the mountain holly
   of America, _Nemopanthes canadensis_, also a member of the order
   Ilicineae.
 
-  Besides the works above mentioned, see Louden, _Arboretum_, ii. 506
+  Besides the works above mentioned, see Louden, _[[Arboretum]]_, ii. 506
   (1844).
 
 

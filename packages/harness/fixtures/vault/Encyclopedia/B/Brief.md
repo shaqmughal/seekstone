@@ -24,10 +24,10 @@ brief may be copies of the pleadings (see PLEADING), and of all documents
 material to the case. The brief is always endorsed with the title of the
 court in which the action is to be tried, with the title of the action, and
 the names of the counsel and of the solicitor who delivers the brief.
-Counsel's fee is also marked. The delivery of a brief to counsel gives him
+Counsel's [[Fee|fee]] is also marked. The delivery of a brief to counsel gives him
 authority to act for his client in all matters which the litigation
 involves. The result of the action is noted on the brief by counsel, or if
-the action is compromised, the terms of the compromise are endorsed on each
+the action is compromised, the terms of the [[Compromise|compromise]] are endorsed on each
 brief and signed by the leading counsel on the opposite side. In Scotland a
 brief is called a memorial.
 
@@ -38,7 +38,7 @@ barristers and solicitors. A lawyer sometimes prepares for his own use what
 is called a "trial brief" for use at the trial. This corresponds in all
 essential particulars with the "brief" prepared by the solicitor in England
 for the use of counsel. But the more distinctive use of the term in America
-is in the case of the brief "in error or appeal," before an appellate
+is in the case of the brief "in [[Error|error]] or appeal," before an appellate
 court. This is a written or printed document, varying according to
 circumstances, but embodying the argument on the question affected. Most of
 the appellate courts require the filing of printed briefs for the use of
@@ -52,7 +52,7 @@ points of law or fact to be discussed. This form of brief, it may be added,
 is also adopted for use at the trial in certain states of the Union which
 require printed briefs to be delivered to the court.
 
-In English ecclesiastical law a brief meant letters patent issued out of
+In English [[Ecclesiastical Law|ecclesiastical law]] a brief meant letters patent issued out of
 chancery to churchwardens or other officers for the collection of money for
 church purposes. Such briefs were regulated by a statute of 1704, but are
 now obsolete, though they are still to be found named in one of the rubrics
@@ -68,8 +68,8 @@ distributed among rising juniors of their acquaintance, whose bundles of
 briefs were getting inconveniently large to be carried in their hands.
 These perquisites were abolished in 1830. English brief-bags are now either
 blue or red. Blue bags are those with which barristers provide themselves
-when first called, and it is a breach of etiquette to let this bag be
-visible in court. The only brief-bag allowed to be placed on the desks is
+when first called, and it is a [[Breach|breach]] of [[Etiquette|etiquette]] to let this bag be
+visible in court. The only brief-bag allowed to be placed on the [[Desk|desks]] is
 the red bag, which by English legal etiquette is given by a leading counsel
 to a junior who has been useful to him in some important case.
 

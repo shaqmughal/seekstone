@@ -9,10 +9,10 @@ which was built in the 11th century by William of Arques; his nephew,
 William the Conqueror, regarding it as a menace to his own power,
 besieged and occupied it. After frequently changing hands, it came into
 the possession of the English, who were expelled in 1449 after an
-occupation of thirty years. In 1589 its cannon decided the battle of
+occupation of thirty years. In 1589 its [[Cannon|cannon]] decided the battle of
 Arques in favour of Henry IV. Since 1869 the castle has been state
 property. The first line of fortification was the work of Francis I.;
-the second line and the donjon date back to the 11th century. The church
+the second line and the [[Donjon|donjon]] date back to the 11th century. The church
 of Arques, a building of the 16th century, preserves a fine stone rood
 screen, statuary, stained glass and other relics of the Renaissance
 period.

@@ -13,14 +13,14 @@ to both in skill and in the extent of his practice; yet at an early
 period he assumed Rembrandt's manner with such success that his pictures
 were confounded with those of his master; and, even in modern days, the
 "Resurrection of the Daughter of Jairus," in the Berlin museum, and the
-"Presentation in the Temple," in the Dresden gallery, have been held to
+"Presentation in the Temple," in the [[Dresden]] gallery, have been held to
 represent worthily the style of Rembrandt. As evidence of the fidelity
 of Eeckhout's imitation we may cite his "Presentation in the Temple," at
 Berlin, which is executed after Rembrandt's print of 1630, and his
 "Tobit with the Angel," at Brunswick, which is composed on the same
 background as Rembrandt's "Philosopher in Thought." Eeckhout not merely
 copies the subjects; he also takes the shapes, the figures, the Jewish
-dress and the pictorial effects of his master. It is difficult to form
+[[Dress|dress]] and the pictorial effects of his master. It is difficult to form
 an exact judgment of Eeckhout's qualities at the outset of his career.
 His earliest pieces are probably those in which he more faithfully
 reproduced Rembrandt's peculiarities. Exclusively his is a tinge of
@@ -28,10 +28,10 @@ green in shadows marring the harmony of the work, a certain gaudiness of
 jarring tints, uniform surface and a touch more quick than subtle.
 Besides the pictures already mentioned we should class amongst early
 productions on this account the "Woman taken in Adultery," at Amsterdam;
-"Anna presenting her Son to the High Priest," in the Louvre; the
-"Epiphany," at Turin; and the "Circumcision," at Cassel. Eeckhout
+"[[Anna]] presenting her Son to the High Priest," in the Louvre; the
+"Epiphany," at Turin; and the "Circumcision," at [[Cassel]]. Eeckhout
 matriculated early in the Gild of Amsterdam. A likeness of a lady at a
-dressing-table with a string of beads, at Vienna, bears the date of
+dressing-table with a string of [[Bead|beads]], at Vienna, bears the date of
 1643, and proves that the master at this time possessed more imitative
 skill than genuine mastery over nature. As he grew older he succeeded
 best in portraits, a very fair example of which is that of the historian
@@ -44,13 +44,13 @@ with Hounds," probably executed in 1670, now in the Vander Hoo gallery,
 and a "Group of Children with Goats" (1671), in the Hermitage, hardly
 exhibit a trace of the artist's first education. Amongst the best of
 Eeckhout's works "Christ in the Temple" (1662), at Munich, and the
-"Haman and Mordecai" of 1665, at Luton House, occupy a good place.
+"Haman and Mordecai" of 1665, at [[Luton]] House, occupy a good place.
 Eeckhout died at Amsterdam on the 22nd of October 1674.
 
 
 
 
-EEL. The common freshwater eel (Lat. _anguilla_; O. Eng. _oel_) belongs
+EEL. The common freshwater eel (Lat. _[[Anguilla|anguilla]]_; O. Eng. _oel_) belongs
 to a group of soft-rayed fishes distinguished by the presence of an
 opening to the air-bladder and the absence of the pelvic fins. With its
 nearest relatives it forms the family _Muraenidae_, all of which are of
@@ -65,16 +65,16 @@ species are voracious and predatory, and feed on almost any animal food
 they can obtain, living or dead. The conger is especially fond of squid
 or other Cephalopods, while the eel greedily devours carrion. The common
 eel occurs in all the rivers and fresh waters of Europe, except those
-draining towards the Arctic Ocean, the Black Sea and the Caspian Sea. It
+draining towards the [[Arctic]] Ocean, the [[Black Sea]] and the [[Caspian Sea]]. It
 also occurs on the Atlantic side of North America. The conger has a
 wider range, extending from the western and southern shores of Britain
-and Ireland to the East Indian Archipelago and Japan. It is common in
+and Ireland to the East Indian Archipelago and [[Japan]]. It is common in
 the Mediterranean.
 
 The ovaries of the eel resemble somewhat those of the salmon in
 structure, not forming closed sacs, as in the majority of Teleostei, but
 consisting of laminae exposed to the body cavity. The laminae in which
-the eggs are produced are very numerous, and are attached transversely
+the [[Egg|eggs]] are produced are very numerous, and are attached transversely
 by their inner edges to a membranous band running nearly the whole
 length of the body-cavity. The majority of the eels captured for market
 are females with the ovaries in an immature condition. The male eel was
@@ -85,7 +85,7 @@ without laminae. He did not find ripe spermatozoa. He discovered the
 male by examining small specimens, all the larger being female. L.
 Jacoby, a later observer, found no males exceeding 19 in. in length,
 while the female may reach a length of 39 in. or more. Dr C. G. J.
-Petersen, in a paper published in 1896, states that in Denmark two kinds
+Petersen, in a paper published in 1896, states that in [[Denmark]] two kinds
 of eels are distinguished by the fishermen, namely, yellow eels and
 silver eels. The silver eels are further distinguished by the shape of
 the snout and the size of the eyes. The snout in front of the eyes is
@@ -98,8 +98,8 @@ yellow eels, and the former have almost or entirely ceased to take food.
 The male silver eels are from 11½ to 19 in. in length, the females from
 16½ to about 39 in. It is evident, therefore, that if eels only spawn
 once, they do not all reach the same size when they become sexually
-mature. The male conger was first described in 1879 by Hermes, who
-obtained a ripe specimen in the Berlin Aquarium. This specimen was not
+mature. The male conger was first described in 1879 by [[Hermes]], who
+obtained a ripe specimen in the Berlin [[Aquarium]]. This specimen was not
 quite 2½ ft. in length, and of the numerous males which have been
 identified at the Plymouth Laboratory, none exceeded this length. The
 large numbers of conger above this size caught for the market are all
@@ -113,10 +113,10 @@ products. When kept in aquaria, both male and female conger are vigorous
 and voracious. The males sooner or later cease to feed, and attain to
 the sexually mature condition, emitting ripe milt when handled and
 gently squeezed. They live in this condition five or six months, taking
-no food and showing gradual wasting and disease of the bodily organs.
+no food and showing [[Gradual|gradual]] wasting and disease of the bodily organs.
 The eyes and skin become ulcerated, the sight is entirely lost, and the
-bones become soft through loss of lime. The females also after a time
-cease to feed, and live in a fasting condition for five or six months,
+[[Bone|bones]] become soft through loss of lime. The females also after a time
+cease to feed, and live in a [[Fasting|fasting]] condition for five or six months,
 during which time the ovaries develop and reach great size and weight,
 while the bones become soft and the teeth disappear. The female,
 however, always dies in confinement before the ova are perfectly ripe
@@ -145,7 +145,7 @@ mature eels spawned in the sea, and that there the young were developed.
 
 A group of peculiar small fishes were, however, known which were called
 Leptocephali, from the small proportional size of the head. The first of
-these described was captured in 1763 near Holyhead, and became the type
+these described was captured in 1763 near [[Holyhead]], and became the type
 of _L. Morrisii_, other specimens of which have been taken either near
 the shore or at the surface of the sea. Other forms placed in the same
 genus had been taken by surface fishing in the Mediterranean and in
@@ -156,14 +156,14 @@ to side, and broad from the dorsal to the ventral edge. Like the eels,
 they are destitute of pelvic fins and no generative organs have been
 observed in them (see fig.).
 
-In 1864 the American naturalist, T. N. Gill, published the conclusion
+In 1864 the American naturalist, T. N. [[Gill]], published the conclusion
 that _L. Morrisii_ was the young or larva of the conger, and
 Leptocephali generally the young stages of species of _Muraenidae_. In
 1886 this conclusion was confirmed from direct observation by Yves
 Delage, who kept alive in a tank at Roscoff a specimen of _L. Morrisii_,
 and saw it gradually transformed into a young conger. From 1887 to 1892
 Professor Grassi and Dr Calandruccio carried on careful and successful
-researches into the development of the Leptocephali at Catania, in
+researches into the development of the Leptocephali at [[Catania]], in
 Sicily. The specimens were captured in considerable numbers in the
 harbour, and the transformation of _L. Morrisii_ into young conger, and
 of various other forms of Leptocephalus into other genera of
@@ -192,24 +192,24 @@ of a Leptocephalus.
 Although young eels, some of them more or less flat and transparent, are
 common enough on the coasts of Great Britain and north-western Europe in
 spring, neither eggs nor specimens of _Leptocephalus brevirostris_ have
-yet been taken in the North Sea, English Channel or other shallow waters
+yet been taken in the North Sea, [[English Channel]] or other shallow waters
 in the neighbourhood of the British Islands, or in the Baltic. Marked
 eels have been proved to migrate from the inmost part of the Baltic to
 the Kattegat. Recently, however, search has been made for the larvae in
-the more distant and deeper portions of the Atlantic Ocean. In May 1904
-a true larval specimen was taken at the surface south-west of the Faeroe
+the more distant and deeper portions of the [[Atlantic Ocean]]. In May 1904
+a true larval specimen was taken at the surface south-west of the [[Faeroe]]
 Islands, and another was taken 40 m. north by west of Achill Head,
 Ireland. In 1905 numbers were taken in deep water in the Atlantic. The
 evidence at present available indicates that the spawning of mature eels
-takes place beyond the 100 fathom line, and that the young eels which
+takes place beyond the 100 [[Fathom|fathom]] line, and that the young eels which
 reach the coast are already a year old. As eels, both young and old, are
 able to live for a long time out of water and have the habit of
 travelling at night over land in wet grass and in damp weather, there is
 no difficulty in explaining their presence in wells, ponds or other
 isolated bodies of fresh water at any distance from the sea.
 
-  See "The Eel Question," _Report U.S. Commissioner of Fisheries for
-  1879_ (Washington, 1882); J. T. Cunningham, "Reproduction and
+  See "The Eel Question," _Report U.S. Commissioner of [[Fisheries]] for
+  1879_ (Washington, 1882); J. T. [[Cunningham]], "Reproduction and
   Development of the Conger," _Journ. Mar. Biol. Assn._ vol. ii.; C. G.
   J. Petersen, _Report Dan. Biol. Station_, v. (1894); G. B. Grassi,
   _Quart. Journ. Mic. Sci._ vol. xxxix. (1897).     (J. T. C.)

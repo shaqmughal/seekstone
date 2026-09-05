@@ -8,10 +8,10 @@ type: article
 # Kierkegaard
 
 KIERKEGAARD, SÖREN AABY (1813-1855), Danish philosopher, the seventh
-child of a Jutland hosier, was born in Copenhagen on the 5th of May
+child of a [[Jutland]] hosier, was born in [[Copenhagen]] on the 5th of May
 1813. As a boy he was delicate, precocious and morbid in temperament. He
 studied theology at the university of Copenhagen, where he graduated in
-1840 with a treatise _On Irony_. For two years he travelled in Germany,
+1840 with a treatise _On [[Irony]]_. For two years he travelled in Germany,
 and in 1842 settled finally in Copenhagen, where he died on the 11th of
 November 1855. He had lived in studious retirement, subject to physical
 suffering and mental depression. His first volume, _Papers of a Still
@@ -26,19 +26,19 @@ the world. In general his philosophy was a reaction against the
 speculative thinkers--Steffens (q.v.), Niels Treschow (1751-1833) and
 Frederik Christian Sibbern (1785-1872); it was based on the absolute
 dualism of Faith and Knowledge. His chief follower was Rasmus Nielsen
-(1809-1884) and he was opposed by Georg Brandes, who wrote a brilliant
+(1809-1884) and he was opposed by Georg [[Brand|Brandes]], who wrote a brilliant
 account of his life and works. As a dialectician he has been described
 as little inferior to Plato, and his influence on the literature of
 Denmark is considerable both in style and in matter. To him Ibsen owed
-his character Brand in the drama of that name.
+his character Brand in the [[Drama|drama]] of that name.
 
   See his posthumous autobiographical sketch, _Syns punktetfor min
   Forfattervirksomhed_ ("Standpoint of my Literary Work"); Georg
   Brandes, _Sören Kierkegaard_ (Copenhagen, 1877); A. Bärthold, _Noten
-  zu K.'s Lebensgeschichte_ (Halle, 1876), _Die Bedeutung der
+  zu K.'s Lebensgeschichte_ ([[Halle]], 1876), _Die Bedeutung der
   ästhetischen Schriften S. Kierkegaarde_ (Halle, 1879) and _S. K.'s
   Persönlichkeit in ihrer Verwirklichung der Ideale_ (Gütersloh, 1886);
-  F. Petersen, _S. K.'s Christendomsforkyndelae_ (Christiania, 1877).
+  F. Petersen, _S. K.'s Christendomsforkyndelae_ ([[Christiania]], 1877).
   For Kierkegaard's relation to recent Danish thought, see Höffding's
   _Archiv für Geschichte der Philosophie_ (1888), vol. ii.
 

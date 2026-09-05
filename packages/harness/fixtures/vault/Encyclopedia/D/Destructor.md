@@ -10,15 +10,15 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Destructor
 
 DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
   ... in main flues, &c. (g) The chimney draught must be assisted with
-  forced draught from fans or steam jet to a pressure of 1½ in. to 2 in.
+  forced draught from [[Fan|fans]] or steam jet to a pressure of 1½ in. to 2 in.
   under grates by water-gauge. (h) Where a destructor is required to
   work without risk of nuisance to the neighbouring inhabitants, its
   efficiency as a refuse destructor plant must be primarily kept in view
   in designing the works, steam-raising being regarded as a secondary
-  consideration. Boilers should not be placed immediately over a furnace
+  consideration. [[Boiler|Boilers]] should not be placed immediately over a furnace
   so as to present a large cooling surface, whereby the temperature of
   the gases is reduced before the organic matter has been thoroughly
-  burned. (i) Where steam-power and a high fuel efficiency are desired a
+  burned. (i) Where steam-power and a high [[Fuel|fuel]] efficiency are desired a
   large percentage of CO_{2} should be sought in the furnaces with as
   little excess of air as possible, and the flue gases should be
   utilized in heating the air-supply to the grates, and the feed-water
@@ -34,7 +34,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
   nature of the foundations required, the height of the chimney-shaft,
   the length of the inclined or approach roadway, and the varying prices
   of labour and materials in different localities. As an example may be
-  mentioned the case of Bristol, where, in 1892, the total cost of
+  mentioned the case of [[Bristol]], where, in 1892, the total cost of
   constructing a 16-cell Fryer destructor was £11,418, of which £2909
   was expended on foundations, and £1689 on the chimney-shaft; the cost
   of the destructor proper, buildings and approach road was therefore
@@ -48,15 +48,15 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
   destructors. The average cost of burning refuse at twenty-four
   different towns throughout England, exclusive of interest on the cost
   of the works, is 1s. 1½d. per ton burned; the minimum cost is 6d. per
-  ton at Bradford, and the maximum cost 2s. 10d. per ton at Battersea.
+  ton at [[Bradford]], and the maximum cost 2s. 10d. per ton at [[Battersea]].
   At Shoreditch the cost per ton for the year ending on the 25th of
   March 1899, including labour, supervision, stores, repairs, &c. (but
   exclusive of interest on cost of works), was 2s. 6.9d. The quantity of
   refuse burned per cell per day of 24 hours varies from about 4 tons up
   to 20 tons. The ordinary low-temperature destructor, with 25 sq. ft.
-  grate area, burns about 20 lb. of refuse per square foot of grate
+  grate area, [[Burns|burns]] about 20 lb. of refuse per square foot of grate
   area per hour, or between 5 and 6 tons per cell per 24 hours. The
-  Meldrum destructor furnaces at Rochdale burn as much as 66 lb. per
+  Meldrum destructor furnaces at Rochdale [[Burn|burn]] as much as 66 lb. per
   square foot of grate area per hour, and the Beaman and Deas destructor
   at Llandudno 71.7 lb. per square foot per hour. The amount, however,
   always depends materially on the care observed in stoking, the nature
@@ -70,7 +70,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
   22 to 37% of the bulk dealt with. From 25 to 30% is a very usual
   amount. At Shoreditch, where the refuse consists of about 8% of straw,
   paper, shavings, &c., the residue contains about 29% clinker, 2.7%
-  fine ash, .5% flue dust, and .6% old tins, making a total residue of
+  fine ash, .5% flue [[Dust|dust]], and .6% old tins, making a total residue of
   32.8%. As the residuum amounts to from one-fourth to one-third of the
   total bulk of the refuse dealt with, it is a question of the utmost
   importance that some profitable, or at least inexpensive, means should
@@ -88,7 +88,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
 
   Through defects in the design and management of many of the early
   destructors complaints of nuisance frequently arose, and these have,
-  to some extent, brought destructor installations into disrepute.
+  to some extent, brought destructor [[Installation|installations]] into disrepute.
   Although some of the older furnaces were decided offenders in this
   respect, that is by no means the case with the modern improved type of
   high-temperature furnace; and often, were it not for the great
@@ -96,17 +96,17 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
   a refuse destructor in a neighbourhood would not be generally known to
   the inhabitants. A modern furnace, properly designed and worked, will
   give rise to no nuisance, and may be safely erected in the midst of a
-  populous neighbourhood. To ensure the perfect cremation of the refuse
+  populous neighbourhood. To ensure the perfect [[Cremation|cremation]] of the refuse
   and of the gases given off, forced draught is essential. This is
   supplied either as air draught delivered from a rapidly revolving fan,
   or as steam blast, as in the Horsfall steam jet or the Meldrum blower.
-  With a forced blast less air is required to obtain complete combustion
+  With a forced blast less air is required to obtain complete [[Combustion|combustion]]
   than by chimney draught. The forced draught grate requires little more
   than the quantity theoretically necessary, while with chimney draught
   more than double the theoretical amount of air must be supplied. With
   forced draught, too, a much higher temperature is attained, and if it
   is properly worked, little or no cold air will enter the furnaces
-  during stoking operations. As far as possible a balance of pressure in
+  during stoking operations. As far as possible a [[Balance|balance]] of pressure in
   the cells during clinkering should be maintained just sufficient to
   prevent an inrush of cold air through the flues. The forced draught
   pressure should not exceed 2 in. water-gauge. The efficiency of the
@@ -125,7 +125,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
   complete combustion, and the heating of this excess is clearly a waste
   of heat. The position of the econometer in testing should be as near
   the furnace as possible, as there may be considerable air leakage
-  through the brickwork of the flues.
+  through the [[Brickwork|brickwork]] of the flues.
 
   The air supply to modern furnaces is usually delivered hot, the inlet
   air being first passed through an air-heater the temperature of which
@@ -135,7 +135,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
 
   The modern high-temperature destructor, to render the refuse and gases
   perfectly innocuous and harmless, is worked at a temperature varying
-  from 1250° to 2000° F., and the maintenance of such temperatures has
+  from 1250° to 2000° F., and the [[Maintenance|maintenance]] of such temperatures has
   very naturally suggested the possibility of utilizing this heat-energy
   for the production of steam-power. Experience shows that a
   considerable amount of energy may be derived from steam-raising
@@ -176,7 +176,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
               20
 
   If this were applied to the production of electric energy, the
-  electrical horse-power hours would be (with a dynamo efficiency of
+  electrical horse-power hours would be (with a [[Dynamo|dynamo]] efficiency of
   90%)
 
        1,960,000 × 90
@@ -188,7 +188,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
                  1,764,000 × 746 = 1,315,944,000.
 
   Allowing for a loss of 10% in distribution, this would give
-  1,184,349,600 watt-hours available in lamps, or with 8-candle-power
+  1,184,349,600 watt-hours available in [[Lamp|lamps]], or with 8-candle-power
   lamps taking 30 watts of current per lamp, we should have
 
    1,184,349,600 watt-hours
@@ -249,7 +249,7 @@ DESTRUCTOR (_continued from volume 8, slice 2, page 0108._)
   on.
 
   For further information on the subject, reference should be made to
-  William H. Maxwell, _Removal and Disposal of Town Refuse, with an
+  William H. [[Maxwell]], _Removal and Disposal of Town Refuse, with an
   exhaustive treatment of Refuse Destructor Plants_ (London, 1899), with
   a special _Supplement_ embodying later results (London, 1905).
 

@@ -8,7 +8,7 @@ id: 42-7420
 
 # Gardane
 
-GARDANE, CLAUDE MATTHIEU, COUNT (1766-1818), French general and
+GARDANE, [[Claude|CLAUDE]] MATTHIEU, COUNT (1766-1818), French general and
 diplomatist, was born on the 30th of January 1766. He entered the army
 and rose rapidly during the revolutionary wars, becoming captain in 1793.
 In May 1799 he distinguished himself by saving a division of the French
@@ -27,21 +27,21 @@ Napoleon designed Gardane as special envoy for the cementing of that
 alliance. The secret instructions which he drew up for Gardane, and
 signed on the 30th of May, are of interest as showing the strong oriental
 trend of the emperor's policy. France was to guarantee the integrity of
-Persia, to recognize that Georgia (then being invaded by the Russians)
+Persia, to recognize that [[Georgia]] (then being invaded by the Russians)
 belonged to the shah, and was to make all possible efforts for restoring
 that territory to him. She was also to furnish to the shah arms, officers
 and workmen, in the number and to the amount demanded by him. Napoleon on
 his side required Persia to declare war against Great Britain, to expel
 all Britons from her territory, and to come to an understanding with the
 Afghans with a view to a joint Franco-Perso-Afghan invasion of India.
-Gardane, whose family was well known in the Levant, had a long and
+Gardane, whose family was well known in the [[Levant]], had a long and
 dangerous journey overland, but was cordially received at Teheran in
 December 1807. The conclusion of the Franco-Russian treaty at Tilsit in
 July 1807 rendered the mission abortive. Persia longed only for help
 against Russia and had no desire, when all hope of that was past, to
 attack India. The shah, however, promised to expel Britons and to grant
 to France a commercial treaty. For a time French influence completely
-replaced that of England at Teheran, and the mission of Sir John Malcolm
+replaced that of England at Teheran, and the mission of Sir John [[Malcolm]]
 to that court was not allowed to proceed. Finally, however, Gardane saw
 that nothing much was to be hoped for in the changed situation of
 European affairs, and abruptly left the country (April 1809). This
@@ -54,8 +54,8 @@ He died in 1818. The report which he sent to Champagny (dated April
 invasion of India is of great interest. He admitted the difficulties of
 this enterprise, but thought that a force of picked French troops, aided
 by Persians and Afghans, might under favourable conditions penetrate into
-India by way of Kandahar, or through Sind, especially if the British were
-distracted by maritime attacks from Mauritius.
+India by way of [[Kandahar]], or through Sind, especially if the British were
+distracted by maritime attacks from [[Mauritius]].
 
   See Count Alfred de Gardane, _Mission du general Gardane en Perse_
   (Paris, 1865); and P.A.L. de Driault, _La Politique orientale de

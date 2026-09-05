@@ -15,11 +15,11 @@ through gargoyles. Sometimes, however, a parapet or pierced balustrade
 was carried on the corbel table enclosing the gutter. In buildings of a
 more ordinary class the parapet is only a continuation of the wall
 below, and the gutter is set back and carried in a trough resting on the
-lower end of the roof timbers. The safest course is to have an eaves
+lower end of the roof timbers. The safest course is to have an [[Eaves|eaves]]
 gutter which projects more or less in front of the wall and is secured
 to and carried by the rafters of the roof. In Renaissance architecture
-generally the pierced balustrade of the Gothic and transition work was
-replaced by a balustrade with vertical balusters. In France a compromise
+generally the pierced balustrade of the [[Gothic]] and transition work was
+replaced by a balustrade with vertical [[Baluster|balusters]]. In France a compromise
 was effected, whereby instead of the horizontal coping of the ordinary
 balustrade a richly carved cresting was employed, of which the earliest
 example is in the first court of the Louvre by Pierre Lescot. This

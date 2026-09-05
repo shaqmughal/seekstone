@@ -8,7 +8,7 @@ topic: politics
 
 LUTHARDT, CHRISTOPH ERNST (1823-1902), German Lutheran theologian, was
 born at Maroldsweisach, Bavaria, on the 22nd of March 1823. He studied
-theology at Erlangen and Berlin, and in 1856 became professor ordinarius
+theology at [[Erlangen]] and Berlin, and in 1856 became professor ordinarius
 of systematic theology and New Testament exegesis at Leipzig. In 1865 he
 was made a counsellor to the consistory, in 1871 canon of Meissen
 cathedral, and in 1887 a privy councillor to the church. He died at

@@ -59,7 +59,7 @@ invitation of Andre de Gouvea, proceeded to Bordeaux. Gouvea was then
 principal of the newly founded college of Guienne at Bordeaux, and by his
 exertions Buchanan was appointed professor of Latin. During his residence
 here several of his best works, the translations of _Medea_ and _Alcestis_,
-and the two dramas, _Jephthes (sive Votum)_ and _Baptistes (sive
+and the two [[Drama|dramas]], _Jephthes (sive Votum)_ and _Baptistes (sive
 Calumnia)_, were completed. Montaigne was Buchanan's pupil at Bordeaux and
 acted in his tragedies. In the essay _Of Presumption_ he classes Buchanan
 with Aurat, Beza, de L'Hopital, Montdore and Turnebus, as one of the
@@ -86,18 +86,18 @@ and formerly head of Sainte-Barbe. It is probable that before Andre's death
 at the end of 1547 Diogo had urged the Inquisition to attack him and his
 staff; up to 1906, when the records of the trial were first published in
 full, Buchanan's biographers generally attributed the attack to the
-influence of Cardinal Beaton, the Franciscans, or the Jesuits, and the
+influence of Cardinal Beaton, the Franciscans, or the [[Jesuits]], and the
 whole history of Buchanan's residence in Portugal was extremely obscure.
 
 A commission of inquiry was appointed in October 1549 and reported in June
-1550. Buchanan and two Portuguese, Diogo de Teive and Jo[=a]o da Costa (who
+1550. Buchanan and two Portuguese, Diogo de Teive and Jo[=a]o da [[Costa]] (who
 had succeeded to the rectorship), were committed for trial. Teive and Costa
 were found guilty of various offences against public order, and the
 evidence shows that there was ample reason for a judicial inquiry. Buchanan
 was accused of Lutheran and Judaistic practices. He defended himself with
 conspicuous ability, courage and frankness, admitting that some of the
 charges were true. About June 1551 he was sentenced to abjure his errors,
-and to be imprisoned in the monastery of S[=a]o Bento in Lisbon. Here he
+and to be imprisoned in the monastery of S[=a]o Bento in [[Lisbon]]. Here he
 was compelled to listen to edifying discourses from the monks, whom he
 found "not unkind but ignorant." In his leisure he began to translate the
 Psalms into Latin verse. After seven months he was released, on condition
@@ -133,7 +133,7 @@ some years, at least till 1579. He died on the 28th of September 1582.
 
 His last years had been occupied with two of his most important works. The
 first was the treatise _De Jure Regni apud Scotos_, published in 1579. In
-this famous work, composed in the form of a dialogue, and evidently
+this famous work, composed in the form of a [[Dialogue|dialogue]], and evidently
 intended to instil sound political principles into the mind of his pupil,
 Buchanan lays down the doctrine that the source of all political power is
 the people, that the king is bound by those conditions under which the
@@ -147,7 +147,7 @@ Scoticarum Historia_, completed shortly before his death (1579), and
 published in 1582. It is of great value for the period personally known to
 the author, which occupies the greater portion of the book. The earlier
 part is based, to a considerable extent, on the legendary history of Boece.
-Buchanan's purpose was to "purge" the national history "of sum Inglis lyis
+Buchanan's purpose was to "purge" the national history "of sum [[Inglis]] lyis
 and Scottis vanite" (_Letter to Randolph_), but he exaggerated his freedom
 from partisanship and unconsciously criticized his work when he said that
 it would "content few and displease many."
@@ -186,7 +186,7 @@ Reformer_ (Edinburgh, 1890), _George Buchanan and his Times_ (Edinburgh,
 1906); Rev. D. Macmillan, _George Buchanan, a Biography_ (Edinburgh, 1906).
 Buchanan's quatercentenary was celebrated at different centres in Scotland
 in 1906, and was the occasion of several encomia and studies. The most
-important of these are: _George Buchanan: Glasgow Quatercentenary Studies_
+important of these are: _George Buchanan: [[Glasgow]] Quatercentenary Studies_
 (Glasgow, 1906), and _George Buchanan, a Memoir_, edited by D.A. Millar (St
 Andrews, 1907). A verse translation of the _Baptistes_, entitled
 _Tyrannicall-Government Anatomized_ (1642), has been attributed to Milton;

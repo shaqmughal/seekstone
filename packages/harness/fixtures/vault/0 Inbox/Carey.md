@@ -2,10 +2,10 @@
 
 CAREY, HENRY CHARLES (1793-1879), American economist, was born in
 Philadelphia on the 15th of December 1793. At the age of twenty-eight he
-succeeded his father, Mathew Carey (1760-1839)--an influential
+succeeded his father, [[Mathew]] Carey (1760-1839)--an influential
 economist, political reformer, editor, and publisher, of Irish birth,
 but for many years a resident of Philadelphia--as a member of the
-publishing firm of Carey & Lea, which was long the most conspicuous in
+publishing firm of Carey & [[Lea]], which was long the most conspicuous in
 America. He died in Philadelphia on the 13th of October 1879.
 
 Among Mathew Carey's many writings had been a collection (1822) of
@@ -18,7 +18,7 @@ Swedish, soon became the standard representative in the United States of
 the school of economic thought which, with some interruptions, has since
 dominated the tariff system of that country. Carey's first large work on
 political economy was preceded and followed by many smaller volumes on
-wages, the credit system, interest, slavery, copyright, &c.; and in
+wages, the [[Credit|credit]] system, interest, slavery, [[Copyright|copyright]], &c.; and in
 1858-1859 he gathered the fruits of his lifelong labours into _The
 Principles of Social Science_, in three volumes. This work is a most
 comprehensive as well as mature exposition of his views. In it Carey
@@ -26,7 +26,7 @@ sought to show that there exists, independently of human wills, a
 natural system of economic laws, which is essentially beneficent, and of
 which the increasing prosperity of the whole community, and especially
 of the working classes, is the spontaneous result--capable of being
-defeated only by the ignorance or perversity of man resisting or
+defeated only by the [[Ignorance|ignorance]] or perversity of man resisting or
 impeding its action. He rejected the Malthusian doctrine of population,
 maintaining that numbers regulate themselves sufficiently in every
 well-governed society, and that their pressure on subsistence
@@ -58,7 +58,7 @@ the soil; for which, like any other capitalist, the owner is compensated
 by a share of the produce. He is not rewarded for what is done by the
 powers of nature, and society is in no sense defrauded by his sole
 possession. The so-called Ricardian theory of rent is a speculative
-fancy, contradicted by all experience. Cultivation does not in fact, as
+[[Fancy|fancy]], contradicted by all experience. Cultivation does not in fact, as
 that theory supposes, begin with the best, and move downwards to the
 poorer soils in the order of their inferiority. The light and dry higher
 lands are first cultivated; and only when population has become dense
@@ -74,22 +74,22 @@ realized, what is taken from the land must be given back to it. All the
 articles derived from it are really separated parts of it, which must be
 restored on pain of its exhaustion. Hence the producer and the consumer
 must be close to each other; the products must not be exported to a
-foreign country in exchange for its manufactures, and thus go to enrich
+foreign country in [[Exchange|exchange]] for its manufactures, and thus go to enrich
 as manure a foreign soil. In immediate exchange value the landowner may
 gain by such exportation, but the productive powers of the land will
 suffer.
 
-Carey, who had set out as an earnest advocate of free trade, accordingly
+Carey, who had set out as an [[Earnest|earnest]] advocate of free trade, accordingly
 arrived at the doctrine of protection: the "coordinating power" in
 society must intervene to prevent private advantage from working public
-mischief. He attributed his conversion on this question to his
+mischief. He attributed his [[Conversion|conversion]] on this question to his
 observation of the effects of liberal and protective tariffs
 respectively on American prosperity. This observation, he says, threw
 him back on theory, and led him to see that the intervention referred to
 might be necessary to remove (as he phrases it) the obstacles to the
 progress of younger communities created by the action of older and
 wealthier nations. But it seems probable that the influence of List's
-writings, added to his own deep-rooted and hereditary jealousy and
+writings, added to his own deep-rooted and hereditary [[Jealousy|jealousy]] and
 dislike of English predominance, had something to do with his change of
 attitude (see PROTECTION).
 

@@ -10,12 +10,12 @@ type: source
 LENTHALL, WILLIAM (1591-1662), English parliamentarian, speaker of the
 House of Commons, second son of William Lenthall, of Lachford,
 Oxfordshire, a descendent of an old Herefordshire family, was born at
-Henley-on-Thames in June 1591. He left Oxford without taking a degree in
+[[Henley-On-Thames|Henley-on-Thames]] in June 1591. He left Oxford without taking a degree in
 1609, and was called to the bar at Lincoln's Inn in 1616, becoming a
 bencher in 1633. He represented Woodstock in the Short Parliament (April
 1640), and was chosen by King Charles I. to be speaker of the Long
 Parliament, which met on the 3rd of November 1640. According to
-Clarendon, a worse choice could not have been made, for Lenthall was of
+[[Clarendon]], a worse choice could not have been made, for Lenthall was of
 a "very timorous nature." He was treated with scanty respect in the
 chair, and seems to have had little control over the proceedings. On the
 4th of January 1642, however, when the king entered the House of Commons
@@ -24,10 +24,10 @@ dignity. Having taken the speaker's chair and looked round in vain to
 discover the offending members, Charles turned to Lenthall standing
 below, and demanded of him "whether any of those persons were in the
 House, whether he saw any of them and where they were." Lenthall fell on
-his knees and replied: "May it please your Majesty, I have neither eyes
+his [[Knee|knees]] and replied: "May it please your [[Majesty]], I have neither eyes
 to see nor tongue to speak in this place but as the House is pleased to
 direct me, whose servant I am here." On the outbreak of the great
-rebellion, Lenthall threw in his lot with the parliament. He had already
+rebellion, Lenthall threw in his [[Lot|lot]] with the parliament. He had already
 called attention to the inadequacy of his salary and been granted a sum
 of £6000 (9th of April 1642); and he was now appointed master of the
 rolls (22nd of November 1643), and one of the commissioners of the great
@@ -39,15 +39,15 @@ the power of the parliament had been transferred to the army. On the
 rescind the ordinance re-establishing the old parliamentary committee of
 militia; Lenthall was held in the chair by main force and compelled to
 put to the vote a resolution inviting the king to London. Threats of
-worse things came subsequently to Lenthall's ears, and, taking the mace
-with him, he left London on the 29th to join the army and Fairfax.
+worse things came subsequently to Lenthall's [[Ear|ears]], and, taking the [[Mace|mace]]
+with him, he left London on the 29th to join the army and [[Fairfax]].
 Lenthall and Manchester, the speaker of the Lords, headed the fugitive
 members at the review on Hounslow Heath on the 3rd of August, being
 received by the soldiers "as so many angels sent from heaven for their
 good." Returning to London with the army, he was installed again by
 Fairfax in the chair (6th August), and all votes passed during his
 absence were annulled. He adhered henceforth to the army party, but with
-a constant bias in favour of the king.
+a constant [[Bias|bias]] in favour of the king.
 
 At the Restoration he claimed to have sent money to the king at Oxford,
 to have provided the queen with comforts and necessaries and to have
@@ -62,7 +62,7 @@ representative, though holding little real power, was the first man in
 the state.
 
 His speakership continued till the 20th of April 1653, when the Long
-Parliament was summarily expelled. Cromwell directed Colonel Harrison,
+Parliament was summarily expelled. [[Cromwell]] directed Colonel Harrison,
 on the refusal of Lenthall to quit the chair, to pull him out--and
 Lenthall submitted to the show of force. He took no part in politics
 till the assembling of the first protectorate parliament, on the 3rd of
@@ -89,7 +89,7 @@ position of dignity which he had filled before. He was temporarily made
 keeper of the new great seal (14th of May). On the 6th of June it was
 voted that all commissions should be signed by Lenthall and not by the
 commander-in-chief. His exalted position, however, was not left long
-unassailed. On the 13th of October Lambert placed soldiers round the
+unassailed. On the 13th of October [[Lambert]] placed soldiers round the
 House and prevented the members from assembling. Lenthall's coach was
 stopped as he was entering Palace Yard, the mace was seized and he was
 obliged to return. The army, however, soon returned to their allegiance
@@ -99,7 +99,7 @@ thanks of the reassembled parliament.
 
 Lenthall now turned his attention to bring about the Restoration. He
 "very violently" opposed the oath abjuring the house of Stuart, now
-sought to be imposed by the republican faction on the parliament, and
+sought to be imposed by the republican [[Faction|faction]] on the parliament, and
 absented himself from the House for ten days, to avoid, it was said, any
 responsibility for the bill. He had been in communication with Monk for
 some time, and on Monk entering London with his army (3rd February 1660)
@@ -112,10 +112,10 @@ not have been soe well effected without his helpe." Lenthall
 notwithstanding found himself in disgrace at the Restoration. In spite
 of Monk's recommendation, he was not elected by Oxford University for
 the Convention Parliament, nor was he allowed by the king, though he had
-sent him a present of £3000, to remain master of the rolls. On the 11th
+sent him a present of £3000, to remain [[Master Of The Rolls|master of the rolls]]. On the 11th
 of June he was included by the House of Commons, in spite of a
 recommendatory letter from Monk, among the twenty persons excepted from
-the act of indemnity and subject to penalties not extending to life. In
+the act of [[Indemnity|indemnity]] and subject to penalties not extending to life. In
 the House of Lords, however, Monk's testimony and intercession were
 effectual, and Lenthall was only declared incapable of holding for the
 future any public office. His last public act was a disgraceful one.
@@ -123,8 +123,8 @@ Unmindful now of the privileges of parliament, he consented to appear as
 a witness against the regicide Thomas Scot, for words spoken in the
 House of Commons while Lenthall was in the chair. It was probably after
 this that he was allowed to present himself at court, and his
-contemporaries took a malicious glee in telling how "when, with some
-difficulty, he obtained leave to kiss the king's hand he, out of guilt,
+contemporaries took a malicious [[Glee|glee]] in telling how "when, with some
+difficulty, he obtained leave to kiss the king's hand he, out of [[Guilt|guilt]],
 fell backward, as he was kneeling."
 
 Lenthall died on the 3rd of September 1662. In his will he desired to be
@@ -135,16 +135,16 @@ unworthy of any remembrance that hath been so great a sinner." He was
 held in little honour by his contemporaries, and was universally
 regarded as a time-server. He was, however, a man of good intentions,
 strong family affections and considerable ability. Unfortunately he was
-called by the irony of fate to fill a great office, in which governed
+called by the [[Irony|irony]] of [[Fate|fate]] to fill a great office, in which governed
 constantly by fears for his person and estate, he was seduced into a
 series of unworthy actions. He left one son, Sir John Lenthall, who had
 descendants. His brother, Sir John Lenthall, who, it was said, had too
 much influence with him, was notorious for his extortions as keeper of
-the King's Bench prison.
+the King's [[Bench]] prison.
 
   See C. H. Firth in the _Dict. Nat. Biog._; Wood (ed. Bliss), _Ath.
   Oxon._ iii. 603, who gives a list of his printed speeches and letters;
-  Foss, _Lives of the Judges_, vi. 447; and J. A. Manning, _Lives of the
+  [[Foss]], _Lives of the Judges_, vi. 447; and J. A. Manning, _Lives of the
   Speakers of the House of Commons_. There are numerous references to
   Lenthall in his official capacity, and letters written by and to him,
   in the Calendar of State Papers, Domestic Series, and in various MSS.

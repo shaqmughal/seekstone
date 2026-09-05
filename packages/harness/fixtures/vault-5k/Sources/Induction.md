@@ -33,7 +33,7 @@ this purpose that he formulated his famous Four Methods of Experimental
 Inquiry. His work has contributed greatly to the systematic treatment of
 induction. But it must be remarked that his Four Methods are not methods
 of formal proof, as their author supposed, but methods whereby
-hypotheses are suggested or tested. The actual proof of an hypothesis is
+hypotheses are suggested or tested. The actual proof of an [[Hypothesis|hypothesis]] is
 never formal, but always lies in the tests of experiment or observation
 to which it is subjected.
 
@@ -52,7 +52,7 @@ transform the accepted view of induction. Consider such a piece of
 reasoning as may be heard any day in a court of justice, a detective who
 explains how in his opinion a certain burglary was effected. If all
 reasoning is either deductive or inductive, this must be induction. And
-yet it does not answer to the accepted definition of induction, "the
+yet it does not answer to the accepted [[Definition|definition]] of induction, "the
 process of discovering a general principle by observation of particular
 instances": what the detective does is to reconstruct a particular
 crime; he evolves no general principle. Such reasoning is used by every
@@ -82,7 +82,7 @@ stage he assumes that he has made out the plan and can apply it to the
 discovery of further detail. He has the capacity of detecting plans in
 nature because he is wont to form plans for practical purposes.
 
-  There are good recent accounts of induction in Welton's _Manual of
+  There are good recent accounts of induction in Welton's _[[Manual]] of
   Logic_, ii., in H. W. B. Joseph's _Introduction to Logic_, and in W.
   R. Boyce Gibson's _Problem of Logic_; see also LOGIC.     (H. St.)
 

@@ -1,13 +1,13 @@
 # John Xxiii.
 
-JOHN XXIII. (Baldassare Cossa), pope, or rather antipope from 1410 to
+JOHN XXIII. (Baldassare [[Cossa]]), pope, or rather antipope from 1410 to
 1415, was born of a good Neapolitan family, and began by leading the
-life of a corsair before entering the service of the Church under the
+life of a [[Corsair|corsair]] before entering the service of the Church under the
 pontificate of Boniface IX. His abilities, which were mainly of an
 administrative and military order, were soon rewarded by the cardinal's
 hat and the legation of Bologna. On the 29th of June 1408 he and seven
 of his colleagues broke away from Gregory XII., and together with six
-cardinals of the obedience of Avignon, who had in like manner separated
+cardinals of the obedience of [[Avignon]], who had in like manner separated
 from Benedict XIII., they agreed to aim at the assembling of a general
 council, setting aside the two rival pontiffs, an expedient which they
 considered would put an end to the great schism of the Western Church,
@@ -17,9 +17,9 @@ first pope elected at Pisa, was not perhaps, as has been maintained,
 merely a man of straw put forward by the ambitious cardinal of Bologna;
 but he reigned only ten months, and on his death, which happened rather
 suddenly on the 4th of May 1410, Baldassare Cossa succeeded him.
-Whether the latter had bought his electors by money and promises, or
+Whether the latter had bought his [[Electors|electors]] by money and promises, or
 owed his success to his dominant position in Bologna, and to the support
-of Florence and of Louis II. of Anjou, he seems to have received the
+of Florence and of Louis II. of [[Anjou]], he seems to have received the
 unanimous vote of all the seventeen cardinals gathered together at
 Bologna (May 17). He took the name of John XXIII., and France, England,
 and part of Italy and Germany recognized him as head of the Catholic
@@ -40,7 +40,7 @@ did not fail to salute John XXIII. as pope, abandoning Gregory XII.
 dishonest and insatiable prince; he would have acted more wisely in
 remaining the ally of the weak but loyal Louis of Anjou. However, it
 seemed desirable that the reforms announced by the council of Pisa,
-which the popes set up by this synod seemed in no hurry to carry into
+which the popes set up by this synod seemed in no [[Hurry|hurry]] to carry into
 effect, should be further discussed in the new council which it had been
 agreed should be summoned about the spring of 1412. But John was anxious
 that this council should be held in Rome, a city where he alone was
@@ -62,7 +62,7 @@ Less than a year after the treaty concluded with Ladislaus of Durazzo,
 the latter forced his way into Rome (June 8, 1413), which he sacked,
 expelling John, to whom even the Florentines did not dare to throw open
 their gates for fear of the king of Sicily. Sigismund, king of the
-Romans, not only extorted, it is said, a sum of 50,000 florins from the
+Romans, not only extorted, it is said, a sum of 50,000 [[Florin|florins]] from the
 pontiff in his extremity, but insisted upon his summoning the council at
 Constance (December 9). It was in vain that, on the death of Ladislaus,
 which took place unexpectedly (August 6, 1414), John was inspired with
@@ -73,7 +73,7 @@ allowing him to go by way of Avignon as he had projected, in order to
 make plans with the princes of France.
 
 On the 5th of November 1414 John opened the council of Constance, where,
-on Christmas Day, he received the homage of the head of the empire, but
+on [[Christmas]] Day, he received the [[Homage|homage]] of the head of the empire, but
 where his lack of prestige, the defection of his allies, the fury of his
 adversaries, and the general sense of the necessity for union soon
 showed only too clearly how small was the chance of his retaining the
@@ -88,12 +88,12 @@ then in that of Laufenburg, then at Freiburg-im-Breisgau, and finally at
 Brisach, whence he hoped to reach Alsace, and doubtless ultimately
 Avignon, under the protection of an escort sent by the duke of Burgundy.
 The news of the pope's escape was received at Constance with an
-extraordinary outburst of rage, and led to the subversive decrees of the
+extraordinary outburst of rage, and led to the subversive [[Decree|decrees]] of the
 4th and 5th sessions, which proclaimed the superiority of the council
 over the pope. Duke Frederick of Austria had hitherto sheltered John's
-flight; but, laid under the ban of the empire, attacked by powerful
+flight; but, laid under the [[Ban|ban]] of the empire, attacked by powerful
 armies, and feeling that he was courting ruin, he preferred to give up
-the pontiff who had trusted to him. John was brought back to Freiburg
+the pontiff who had trusted to him. John was brought back to [[Freiburg]]
 (April 27), and there in vain attempted to appease the wrath which he
 had aroused by more or less vague promises of resignation. His trial,
 however, was already beginning. The three cardinals whom he charged with
@@ -125,9 +125,9 @@ Cossa kept his word never to appeal against the sentence which stripped
 him of the pontificate. He was held prisoner for three years in Germany,
 but in the end bought his liberty from the count palatine. He used this
 liberty only to go to Florence, in 1419, and throw himself on the mercy
-of the legitimate pope. Martin V. appointed him cardinal-bishop of
+of the legitimate pope. [[Martin]] V. appointed him cardinal-bishop of
 Tusculum, a dignity which Cossa only enjoyed for a few months. He died
-on the 22nd of December 1419, and all visitors to the Baptistery at
+on the 22nd of December 1419, and all visitors to the [[Baptistery]] at
 Florence may admire, under its high baldacchino, the sombre figure
 sculptured by Donatello of the dethroned pontiff, who had at least the
 merit of bowing his head under his chastisement, and of contributing by

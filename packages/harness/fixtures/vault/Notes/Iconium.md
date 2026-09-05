@@ -47,12 +47,12 @@ soon became the capital of the Seljuk state, and one of the most
 brilliant cities of the world. The palace of the sultans and the mosque
 of Ala ed-din Kaikobad formerly covered great part of the Acropolis hill
 in the northern part of the city. Farther south there is still the great
-complex of buildings which form the chief seat of the Mevlevi dervishes,
+complex of buildings which form the chief seat of the Mevlevi [[Dervish|dervishes]],
 a sect widely spread over Anatolia. Many other splendid mosques and
 royal tombs adorned the city, and justified the Turkish proverb, "See
 all the world; but see Konia." The walls, about 2 m. in circumference,
 consisted of a core of rubble and concrete, coated with ancient stones,
-inscriptions, sculptures and architectural marbles, forming a striking
+inscriptions, sculptures and architectural [[Marbles|marbles]], forming a striking
 sight, which no traveller ever examined in detail. Beyond the walls
 extended the gardens and villas of a prosperous Oriental population,
 especially on the south-west towards the suburb of Meram.
@@ -73,7 +73,7 @@ appointed Grand Vizier. The sacred buildings, mosques, &c., were patched
 up (except a few which were quite ruinous) and the walls wholly removed,
 but an unsightly fragment of a palace-tower still remained in 1906. In
 1904-1905 the first two sections of the Bagdad railway, 117 m., to
-Karaman and Eregli, were built. In the city there is a branch of the
+[[Karaman]] and Eregli, were built. In the city there is a branch of the
 Ottoman bank, a government technical school, a French Catholic mission
 and a school, an Armenian Protestant school for boys, an American
 mission school for girls, mainly Armenian, and other educational
@@ -82,9 +82,9 @@ establishments.
 The founder of the Mevlevi dancing dervishes, the poet Mahommed
 Jelal-ed-Din (Rumi), in 1307, though tempted to assume the inheritance
 along with the empire of the Seljuk sultan Ala ed-din Kaikobad III., who
-died without heirs, preferred to pass on the power to Osman, son of
+died without [[Heir|heirs]], preferred to pass on the power to Osman, son of
 Ertogrul, and with his own hands invested Osman and girt him with the
-sword: this investiture was the legitimate beginning of the Osmanli
+sword: this [[Investiture|investiture]] was the legitimate beginning of the Osmanli
 authority. The heirs of Jelal-ed-Din (Rumi) were favoured by the Osmanli
 sultans until 1516, when Selim was on the point of destroying the
 Mevlevi establishment as hostile to the Osmanli and the faith; and
@@ -101,7 +101,7 @@ the Osmanli administration, and has no real power.
 
 Iconium is distant by rail 466 m. from the Bosporus at Haidar-Pasha, and
 389 from Smyrna by way of Afium-Kara-Hissar. It has recently become the
-seat of a considerable manufacture of carpets, owing to the cheapness of
+seat of a considerable manufacture of [[Carpet|carpets]], owing to the cheapness of
 labour. The population was estimated at 44,000 in 1890, and is now
 probably over 50,000. Mercury mines have begun to be worked; other
 minerals are known to exist.     (W. M. Ra.)

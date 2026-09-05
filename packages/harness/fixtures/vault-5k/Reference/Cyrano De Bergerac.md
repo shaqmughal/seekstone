@@ -8,13 +8,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Cyrano_De_
 # Cyrano De Bergerac
 
 CYRANO DE BERGERAC, SAVINIEN (1620-1655), French romance-writer and
-dramatist, son of Abel de Cyrano, seigneur de Mauvieres et de Bergerac,
+dramatist, son of Abel de Cyrano, seigneur de Mauvieres et de [[Bergerac]],
 was born in Paris on the 6th of March 1619-1620. He received his first
-education from a country priest, and had for a fellow pupil his friend
+education from a country priest, and had for a [[Fellow|fellow]] pupil his friend
 and future biographer, Henri Lebret. He then proceeded to Paris to the
 college de Beauvais, where he had for master Jean Grangier, whom he
 afterwards ridiculed in his comedy _Le Pedant joue_ (1654). At the age
-of nineteen he entered a corps of the guards, serving in the campaigns
+of nineteen he entered a corps of the [[Guards|guards]], serving in the campaigns
 of 1639 and 1640, and began the series of exploits that were to make of
 him a veritable hero of romance. The story of his adventure
 single-handed against a hundred enemies is vouched for by Lebret as the
@@ -31,7 +31,7 @@ is impossible to determine whether he adopted his fanciful style in the
 hope of safely conveying ideas that might be regarded as unorthodox, or
 whether he simply found in romance writing a relaxation from the serious
 study of physics. Cyrano spent a stormy existence in Paris and was
-involved in many duels, and in quarrels with the comedian Montfleury,
+involved in many [[Duel|duels]], and in quarrels with the comedian Montfleury,
 with Scarron and others. He entered the household of the duc d'Arpajon
 as secretary in 1653. In the next year he was injured by the fall of a
 piece of timber, as he entered his patron's house. Arpajon, perhaps
@@ -42,15 +42,15 @@ died in September 1655.
 
   M. Edmond Rostand's romantic play of _Cyrano de Bergerac_ (1897)
   revived interest in the author of the _Histoires comiques_. A modern
-  edition of his _Oeuvres_ (2 vols.), by P. L. Jacob (Paul Lacroix),
+  edition of his _Oeuvres_ (2 vols.), by P. L. [[Jacob]] (Paul Lacroix),
   appeared in 1858, with the preface by H. Lebret originally prefixed to
   the _Histoire comique des etats de la lune_ (1656?). For an
   interesting analysis of the romances see Garnet Smith in the
   _Cornhill_ for July 1898. See also P.A. Brun, _Savinien de Cyrano
   Bergerac_ (1894). Other studies of Cyrano are those of Charles Nodier
   (1841), F. Merilhon (Perigueux, 1856), Fourgeaud-Lagreze (in _Le
-  Perigord litteraire_, 1875) and of Theophile Gautier, in his
-  _Grotesques_.
+  Perigord litteraire_, 1875) and of Theophile [[Gautier]], in his
+  _[[Grotesque|Grotesques]]_.
 
 ## See also
 

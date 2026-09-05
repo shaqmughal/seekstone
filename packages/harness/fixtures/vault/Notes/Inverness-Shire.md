@@ -9,23 +9,23 @@ type: note
 
 INVERNESS-SHIRE, a highland county of Scotland, bounded N. by Ross and
 Cromarty, and the Beauly and Moray Firths, N.E. by the shires of Nairn
-and Elgin, E. by Banff and Aberdeen shires, S.E. by Perthshire, S. by
-Argyllshire and W. by the Atlantic. It includes the Outer Hebrides
-south of the northern boundary of Harris, and several of the Inner
+and [[Elgin]], E. by [[Banff]] and Aberdeen shires, S.E. by Perthshire, S. by
+[[Argyllshire]] and W. by the Atlantic. It includes the Outer [[Hebrides]]
+south of the northern boundary of [[Harris]], and several of the Inner
 Hebrides (see HEBRIDES) and is the largest shire in Scotland. It
 occupies an area of 2,695,037 acres, or 4211 sq. m., of which more than
 one-third belongs to the islands. The county comprises the districts of
-Moidart, Arisaig and Morar in the S.W., Knoydart in the W., Lochaber in
+Moidart, Arisaig and Morar in the S.W., Knoydart in the W., [[Lochaber]] in
 the S., Badenoch in the S.E. and the Aird in the N. Excepting
 comparatively small and fertile tracts in the N. on both sides of the
 river Ness, in several of the glens and on the shores of some of the sea
-lochs, the county is wild and mountainous in the extreme and
+[[Loch|lochs]], the county is wild and mountainous in the extreme and
 characterized by beautiful and in certain respects sublime scenery.
 There are more than fifty mountains exceeding 3000 ft. in height, among
-them Ben Nevis (4406), the highest mountain in the British Isles, the
+them [[Ben]] Nevis (4406), the highest mountain in the British Isles, the
 extraordinary assemblage of peaks forming the Monadhliadh mountains in
 the S.E., Ben Alder (3757) in the S., and the grand group of the
-Cairngorms on the confines of the shires of Aberdeen and Banff.
+[[Cairngorm|Cairngorms]] on the confines of the shires of Aberdeen and Banff.
 
 In the north-west the Beauly river (16 m. long) is formed by the
 confluence of the Farrar and the Glass. The Enrick (18 m.), rising in
@@ -33,7 +33,7 @@ Loch-nan-Eun, takes a north-easterly direction for several miles, and
 then flowing due east falls into Loch Ness, just beyond Drumnadrochit,
 close to the ruined keep of Castle Urquhart. The Ness (7 m.), a fine
 stream for its length, emerges from Loch Dochfour and enters the sea to
-the north of Inverness. The Moriston (19 m.), flows out of Loch Clunie,
+the north of [[Inverness]]. The Moriston (19 m.), flows out of Loch Clunie,
 and pursuing a course E. by N.E. falls into Loch Ness 4 m. south of
 Mealfourvounie (2284 ft.) on the western shore opposite Foyers. The
 Lochy (9 m.), issuing from the loch of that name, runs parallel with the
@@ -70,10 +70,10 @@ Great Britain, and forms part of the scheme of the Caledonian Canal. A
 few miles S.W. is Loch Oich (4 m. long), also utilized for the purposes
 of the Canal, which reaches its summit level (105 ft.) in this lake. To
 the S.W. of it is Loch Lochy (9(1/2) m.), which is also a portion of the
-Canal. Loch Arkaig (12 m.) lies in the country of the Camerons,
-Achnacarry House, the seat of Lochiel, the chief of the clan, being
+Canal. Loch Arkaig (12 m.) lies in the country of the [[Cameron|Camerons]],
+Achnacarry House, the seat of Lochiel, the chief of the [[Clan|clan]], being
 situated on the river Arkaig near the point where it issues from the
-lake. The old castle was burnt down by the duke of Cumberland, but a few
+lake. The old castle was burnt down by the duke of [[Cumberland]], but a few
 ruins remain. After Culloden Prince Charles Edward found shelter in a
 cave in the "Black Mile," as the road between Lochs Arkaig and Lochy is
 called. Loch Quoich (6 m.) lies N. by W. of Loch Arkaig, and Loch Garry
@@ -82,12 +82,12 @@ called. Loch Quoich (6 m.) lies N. by W. of Loch Arkaig, and Loch Garry
 the river Morar, which falls over a rocky barrier, at the foot of which
 is a famous salmon pool. The loch is 1017 ft. deep and is thus the
 deepest lake in the United Kingdom. It contains several islands, on one
-of which Lord Lovat was captured in 1746. Loch Laggan (7 m.) and Loch
+of which Lord [[Lovat]] was captured in 1746. Loch Laggan (7 m.) and Loch
 Treig (5(1/2) m.) in the south of the county are both finely situated in
 the midst of natural forests. The principal salt-water lochs on the
 Atlantic seaboard are Loch Hourn ("Hell's Lake," so named from the wild
 precipices rising sheer from the water), running inland for 14 m. from
-the Sound of Sleat and separating Glenelg from Knoydart; and Loch Nevis
+the Sound of Sleat and separating [[Glenelg]] from Knoydart; and Loch Nevis
 (14 m.), a few miles farther south.
 
 The parallel roads of Glen Roy, a glen with a north-easterly to
@@ -101,13 +101,13 @@ neighbouring Glen Gloy and Glen Spean, however, disposes of an
 artificial origin. John MacCulloch (1773-1835) propounded the theory
 that they were lacustrine and not marine, and Agassiz followed him with
 the suggestion that the water had been held up by a barrier of glacier
-ice. This view is now generally accepted, and the roads may therefore be
+[[Ice|ice]]. This view is now generally accepted, and the roads may therefore be
 regarded as the gently sloping banks of lakes dammed up by glacier ice.
-Glen More-nan-Albin, or the Great Glen, is a vast "fault," or
+Glen More-nan-Albin, or the Great Glen, is a vast "[[Fault|fault]]," or
 dislocation, 62 m. in length, through which Thomas Telford constructed
 (1804-1822) the Caledonian Canal connecting Loch Linnhe and the Moray
 Firth. Glen More is said to be liable to shocks of earthquake, and Loch
-Ness was violently agitated at the time of the great Lisbon earthquake
+Ness was violently agitated at the time of the great [[Lisbon]] earthquake
 (1755).
 
 Among the glens renowned for beauty are Glen Urquhart and Glen Moriston
@@ -116,7 +116,7 @@ southern base of Ben Nevis. Glen Garry, to the west of Loch Oich, gave
 its name to the well-known cap or "bonnet" worn both in the Highlands
 and Lowlands. In Glen Finnan, at the head of Loch Shiel, Prince Charles
 Edward raised his standard in 1745, an incident commemorated by a
-monument erected in 1815 by Alexander Macdonald of Glenaladale. The
+monument erected in 1815 by Alexander [[Macdonald]] of Glenaladale. The
 great straths or valleys are in the north and east, the chief among them
 being Strathfarrar, Strathglass and Strathnairn, and the heads of
 Strathearn and Strathspey.
@@ -128,9 +128,9 @@ Strathearn and Strathspey.
   area the various kinds of schistose and gneissose rock have hardly
   been worked out in detail. Granite masses occur in numerous isolated
   patches; the largest is on the eastern boundary and includes the
-  flanks of Cairn Gorm, Cairn Tout, Braeriach, Carn Ban and Meall
+  flanks of [[Cairn]] Gorm, Cairn Tout, Braeriach, Carn [[Ban]] and Meall
   Tisnail. Other smaller ones are found at Ben Nevis, where the lower
-  part of the mountain is granite, the upper part porphyritic felsite;
+  part of the mountain is granite, the upper part porphyritic [[Felsite|felsite]];
   between Moy and Ben Buidhe Mhor; E. of Foyers, including Whitebridge,
   Aberchalder and Loch Farraline; at Ben Alder, W. of Loch Ericht and
   another between that loch and the river Pattack; at Banavie on the W.
@@ -142,11 +142,11 @@ Strathearn and Strathspey.
   Culloden Moor past Inverness and down Loch Ness to a point south of
   Foyers; it occurs also on the south-east side of Loch Oich, and around
   Beauly, where it forms the falls of Kilmorach. These rocks consist at
-  the base of coarse breccias and conglomerates passing upwards into
-  chocolate-coloured sandstone and flags, with the shaly series
-  containing limestone nodules known as the fish bed from the abundance
+  the base of coarse [[Breccia|breccias]] and conglomerates passing upwards into
+  chocolate-coloured sandstone and [[Flag|flags]], with the shaly series
+  containing [[Limestone|limestone]] nodules known as the fish bed from the abundance
   and importance of its fossil contents; it is well exposed in the Big
-  Burn and near Loch Ashie. At a higher horizon come more purple flags
+  [[Burn]] and near Loch Ashie. At a higher [[Horizon|horizon]] come more purple flags
   and grits. The Great Glen which traverses the county is an old line of
   earth fracture along which displacements have been produced during
   more than one geological period. Roches moutonnees, glacial striations
@@ -163,15 +163,15 @@ Strathearn and Strathspey.
   the shales are thus made in places to overlie the sandstones. A few
   patches of Torridonian occur in the south. Tertiary peridotites in
   laccolitic masses cover a large area in the south of the island and
-  form the highest ground. These are penetrated by eucrites and gabbros,
+  form the highest ground. These are penetrated by eucrites and [[Gabbro|gabbros]],
   followed later by granites; and the whole has been subsequently
   crushed into a complex gneissose mass. Still later, dolerite sills and
-  sheets and dikes of granophyre and quartz felsite followed in the same
+  sheets and [[Dike|dikes]] of granophyre and quartz felsite followed in the same
   region. Eigg is mainly built of great basaltic lava flows with
   intrusions of doleritic rocks; these were succeeded by more acid
   intrusions, and again by a more basic series of dikes. Pitchstones
   occur among the later rocks. The Sgurr is capped by a thick intrusion
-  of pitchstone. Jurassic rocks, including the Estuarine Lower Oolite
+  of pitchstone. [[Jurassic]] rocks, including the Estuarine Lower Oolite
   sandstones, shales and limestones and Middle Oolite Oxfordian rocks
   are found in the north of this island; there is also a small trace of
   Upper Cretaceous sandstone. Canna, Sanday and Muck are almost wholly
@@ -180,26 +180,26 @@ Strathearn and Strathspey.
 
 _Forests and Fauna._--Deer forests occupy an enormous area, particularly
 in the west, in the centre, in the south and south-east and in Skye.
-From the number of trees found in peat bogs, the county must once have
+From the number of trees found in peat [[Bog|bogs]], the county must once have
 been thickly covered with wood. Strathspey is still celebrated for its
 forests, and the natural woods on Loch Arkaig, in Glen Garry, Glen
 Moriston, Strathglass and Strathfarrar, and at the head of Loch Sheil,
-are extensive. The forests consist chiefly of oak, Scotch fir, birch,
-ash, mountain-ash (rowan), holly, elm, hazel and Scots poplar, but there
-are also great plantations of larch, spruce, silver fir, beech and
+are extensive. The forests consist chiefly of oak, Scotch fir, [[Birch|birch]],
+ash, mountain-ash (rowan), [[Holly|holly]], [[Elm|elm]], hazel and Scots poplar, but there
+are also great plantations of larch, spruce, silver fir, [[Beech|beech]] and
 plane. Part of the ancient Caledonian forest extends for several miles
 near the Perthshire boundary. Red and roe deer, the Alpine and common
-hare, black game and ptarmigan, grouse and pheasant abound on the moors
-and woodlands. Foxes and wild cats occur, and otters are met with in the
-lakes and streams. There are also eagles, hawks and owls, while great
-flocks of waterfowl, particularly swans, resort to Loch Inch and other
+[[Hare|hare]], black [[Game|game]] and ptarmigan, [[Grouse|grouse]] and pheasant abound on the moors
+and woodlands. [[Foxe|Foxes]] and wild cats occur, and otters are met with in the
+lakes and streams. There are also [[Eagle|eagles]], [[Hawks|hawks]] and owls, while great
+flocks of waterfowl, particularly swans, resort to Loch [[Inch]] and other
 lakes in Badenoch. Many of the rivers and several of the lochs abound
-with salmon and trout, the salmon fisheries of the Beauly, Ness and
+with salmon and trout, the salmon [[Fisheries|fisheries]] of the Beauly, Ness and
 Lochy yielding a substantial return.
 
 _Climate and Agriculture._--Rain is heavy and frequent in the mountains,
 but slighter towards the northern coast; the fall for the year varying
-from 73.17 in. at Fort William to 43.17 in. at Fort Augustus, and 26.53
+from 73.17 in. at Fort William to 43.17 in. at [[Fort Augustus]], and 26.53
 in. at Inverness. The mean temperature for the year is 47.2 deg. F., for
 January 38.5 deg. and for August 58 deg. Although since 1852 the
 cultivated area has increased greatly, actually the percentage of land
@@ -219,7 +219,7 @@ tenants to reclaim waste land, to enlarge their holdings and to apply
 themselves more thriftily and with greater enterprise and intelligence
 to the development of their farms. On the large holdings the most modern
 methods of husbandry are followed, the farm buildings are excellent and
-the implements up-to-date. The hills furnish good pastures. The flocks
+the [[Implement|implements]] up-to-date. The hills furnish good pastures. The flocks
 of sheep are exceptionally heavy, the chief varieties on the uplands
 being Cheviots and black-faced and in some of the lower districts
 Leicesters and half-breeds. Of the cattle the principal breed is the
@@ -259,7 +259,7 @@ _Population and Government._--The population was 90,121 in 1891, and
 90,104 in 1901, when 43,281 persons spoke Gaelic and English, and 11,722
 Gaelic only. The only considerable towns are Inverness (pop. in 1901,
 23,066) and Fort William (2087). The county returns one member to
-parliament, but the county town, along with Forres, Fortrose and Nairn,
+parliament, but the county town, along with [[Forres]], [[Fortrose]] and Nairn,
 belongs to the Inverness district group of parliamentary burghs.
 Inverness forms a sheriffdom with Elgin and Nairn, and there are
 resident sheriffs-substitute at Inverness, Fort William, Portree and
@@ -274,25 +274,25 @@ _History._--To the north of the boundary hills of the present counties
 of Argyll and Perth (beyond which the Romans attempted no occupation)
 the country was occupied by the Picts, the true Caledonians. The
 territory was afterwards called the province of Moray, and extended from
-the Spey and Loch Lochy to Caithness. These limits it retained until the
+the Spey and Loch Lochy to [[Caithness]]. These limits it retained until the
 17th century, when Caithness (in 1617), Sutherland (in 1633) and
 Ross-shire (in 1661) were successively detached. Towards the end of the
-6th century Columba undertook the conversion of the Picts, himself
+6th century Columba undertook the [[Conversion|conversion]] of the Picts, himself
 baptizing their king, Brude, at Inverness; but paganism died hard and
 tribal wars prevented progress. In the 11th century, after the death of
-Duncan, Scotland was divided between Macbeth and the Norwegian leader
+[[Duncan]], Scotland was divided between Macbeth and the Norwegian leader
 Thorfinn, who took for his share the land peopled by the northern Picts.
-Malcolm Canmore, avenging his father, defeated and slew Macbeth (1057),
+[[Malcolm]] Canmore, avenging his father, defeated and slew Macbeth (1057),
 and at a later date reduced the country and annexed it to the kingdom of
 Scotland. In 1107, when the bishopric of Moray was founded, the
 influence of the Church was beginning to effect some improvement in
-manners. Nevertheless, a condition of insurrection supervened until the
+[[Manners|manners]]. Nevertheless, a condition of insurrection supervened until the
 reign of David I., when colonists of noble birth were settled in various
-parts of the shire. After the battle of Largs (1263) the Norse yoke was
+parts of the shire. After the battle of [[Largs]] (1263) the Norse yoke was
 thrown off. In 1303 Edward I.'s expedition to Scotland passed through
-the northern districts, his army laying siege to Urquhart and Beaufort
+the northern districts, his army laying siege to Urquhart and [[Beaufort]]
 castles. After the plantation the clan system gradually developed and
-attained in the shire its fullest power and splendour. The Frasers
+attained in the shire its fullest power and splendour. The [[Fraser|Frasers]]
 occupied the Aird and the district around Beauly; the Chisholms the
 Urquhart country; the Grants the Spey; the Camerons the land to the west
 and south of Loch Lochy (Locheil); the Chattan--comprising several septs
@@ -303,12 +303,12 @@ and the Macleods Skye. Unfortunately the proud and fiery chieftains were
 seldom quiet. The clans were constantly fighting each other,
 occasionally varying their warfare by rebellion against the sovereign.
 In many quarters the Protestant movement made no headway, the clansmen
-remaining steadfast to the older creed. At the era of the Covenant,
+remaining steadfast to the older creed. At the era of the [[Covenant]],
 Montrose conducted a vigorous campaign in the interests of the
 Royalists, gaining a brilliant victory at Inverlochy (1645), but the
 effects of his crusade were speedily neutralized by the equally masterly
-strategy of Cromwell. Next Episcopacy appeared to be securing a
-foothold, until Viscount Dundee fell at Killiecrankie, that battle being
+strategy of [[Cromwell]]. Next [[Episcopacy]] appeared to be securing a
+foothold, until Viscount [[Dundee]] fell at [[Killiecrankie]], that battle being
 followed by a defeat of the Highlanders at Cromdale in 1690. The futile
 rising headed by Mar in 1715 led to a combined effort to hold the clans
 in check. Forts were constructed at Inverness, Kilchumin (Fort Augustus)
@@ -318,7 +318,7 @@ rapidly to scour the country, and general disarming was required. Prince
 Charles Edward's attempt in 1745 had the effect of bringing most of the
 clans together for a while; but the clan system was broken up after his
 failure and escape. Heritable jurisdictions were abolished. Even the
-wearing of the Highland dress was proscribed. The effects of this policy
+wearing of the Highland [[Dress|dress]] was proscribed. The effects of this policy
 were soon evident. Many of the chieftains became embarrassed, their
 estates were sold, and the glensfolk, impoverished but high-spirited,
 sought homes in Canada and the United States. As time passed and passion
@@ -329,19 +329,19 @@ closing of the chapter of the Jacobite romance the shire gradually
 settled down to peaceful pursuits.
 
 The county in parts is rich in antiquarian remains. Stone axes and other
-weapons or tools have been dug up in the peat, and prehistoric jewelry
-has also been found. Lake dwellings occur in Loch Lundy in Glengarry and
+weapons or tools have been dug up in the peat, and prehistoric [[Jewelry|jewelry]]
+has also been found. [[Lake Dwellings|Lake dwellings]] occur in Loch [[Lundy]] in Glengarry and
 on Loch Beauly, and stone circles are numerous, as at Inches, Clava, and
 in the valley of the Ness. Pictish towers or brochs are met with in
 Glenbeg (Glenelg), and duns (forts) in the Aird and to the west and
 south-west of Beauly and elsewhere. Among vitrified forts the principal
-are those on Craig Phadrick, Dundbhairdghall in Glen Nevis, Dun Fionn or
+are those on [[Craig]] Phadrick, Dundbhairdghall in Glen Nevis, Dun Fionn or
 Fingal's fort on the Beauly, near Kilmorack, Achterawe in Glengarry and
 in Arisaig.
 
-  See J. Cameron Lees, _History of the County of Inverness_ (Edinburgh,
+  See J. Cameron [[Lee|Lees]], _History of the County of Inverness_ (Edinburgh,
   1897); C. Fraser-Mackintosh, _Letters of Two Centuries_ (Inverness,
-  1890); Alexander Mackenzie, _Histories of the Mackenzies_, Camerons,
+  1890); Alexander [[Mackenzie]], _Histories of the Mackenzies_, Camerons,
   &c. (Inverness, 1874-1896); A. Stewart, _Nether Lochaber_ (Edinburgh,
   1883); Alexander Carmichael, "Grazing and Agrestic Customs of the
   Outer Hebrides" (_Crofters' Commission Report_, 1884).

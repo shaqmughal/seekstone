@@ -17,13 +17,13 @@ Sulak, which flows into the Caspian. The next most important stream, out
 of the great number which course down the flanks of the Caucasus and
 terminate in the Caspian, is the Samur. The most notable feature of the
 province is, however, according to O. W. H. Abich (_Sur la structure et
-la geologie du Daghestan_, 1862), the successive folds of Jurassic
-limestones and slates, all nearly parallel to the Caucasus, which form
+la geologie du Daghestan_, 1862), the successive folds of [[Jurassic]]
+[[Limestone|limestones]] and slates, all nearly parallel to the Caucasus, which form
 lofty, narrow plateaus. Many of the peaks upon them rise higher than
 12,000 ft., and the passes lie at altitudes of 11,000 ft. in the
 interior and 9000 ft. towards the Caspian. Towards the Caspian,
 especially between Petrovsk and the river Sulak, the Cretaceous system
-is well represented, and upon its rocks rest marls, shales, and
+is well represented, and upon its rocks rest [[Marl|marls]], shales, and
 sandstones of the Eocene period. The country is altogether difficult of
 access, and only one military route leads up from the river Terek, while
 every one of the eleven passes known across the Caucasus is a mere
@@ -33,7 +33,7 @@ January 26 deg., July 73 deg. at Temir-khan-shura (42 deg. 49' N.; alt.
 1510 ft.). The annual rainfall varies from 17 to 21 in. The population,
 estimated at 605,100 in 1906, numbered 587,326 in 1897, of whom only
 5000 were Russians. They consist chiefly of mountaineers known as
-Lesghians (i.e. 158,550 Avars, 121,375 Darghis, 94,506 Kurins), a race
+[[Lesghians]] (i.e. 158,550 Avars, 121,375 Darghis, 94,506 Kurins), a race
 closely akin to the Circassians, intermingled towards the Caspian Sea
 with Tatars and Georgians. There are also sprinklings of Jews and
 Persians. The highlands of Daghestan were for many years the stronghold

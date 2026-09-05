@@ -1,21 +1,21 @@
 # Circeius Mons
 
 CIRCEIUS MONS (mod. _Monte Circeo_), an isolated promontory on the S.W.
-coast of Italy, about 80 m. S.E. of Rome. It is a ridge of limestone
+coast of Italy, about 80 m. S.E. of Rome. It is a ridge of [[Limestone|limestone]]
 about 3½ m. long by 1 m. wide at the base, running from E. to W. and
 surrounded by the sea on all sides except the N. The land to the N. of
 it is 53 ft. above sea-level, while the summit of the promontory is 1775
 ft. The origin of the name is uncertain: it has naturally been connected
-with the legend of Circe, and Victor Bérard (in _Les Phéniciens et
-l'Odyssée_, ii. 261 seq.) maintains in support of the identification
+with the legend of [[Circe]], and Victor Bérard (in _Les Phéniciens et
+l'Odyssée_, ii. 261 seq.) maintains in support of the [[Identification|identification]]
 that [Greek: Ahiaiê], the Greek name for the island of Circe, is a
 faithful transliteration of a Semitic name, meaning "island of the
-hawk," of which [Greek: nêsos Kirkês] is the translation. The difficulty
+[[Hawk|hawk]]," of which [Greek: nêsos [[Kirk]]ês] is the translation. The difficulty
 has been raised, especially by geologists, that the promontory ceased to
-be an island at a period considerably before the time of Homer; but
+be an island at a period considerably before the time of [[Homer]]; but
 Procopius very truly remarked that the promontory has all the appearance
 of an island until one is actually upon it. Upon the E. end of the ridge
-of the promontory are the remains of an enceinte, forming roughly a
+of the promontory are the remains of an [[Enceinte|enceinte]], forming roughly a
 rectangle of about 200 by 100 yds. of very fine polygonal work, on the
 outside, the blocks being very carefully cut and jointed and right
 angles being intentionally avoided. The wall stands almost entirely
@@ -44,7 +44,7 @@ with it by a channel of Roman date: Strabo speaks of it as a small
 harbour) one mile N. of the W. end of the promontory. Here are the
 remains of a Roman town, belonging to the 1st and 2nd centuries,
 extending over an area of some 600 by 500 yards, and consisting of fine
-buildings along the lagoons, including a large open _piscina_ or basin,
+buildings along the [[Lagoon|lagoons]], including a large open _piscina_ or basin,
 surrounded by a double portico, while farther inland are several very
 large and well-preserved water-reservoirs, supplied by an aqueduct of
 which traces may still be seen. An inscription speaks of an
@@ -58,16 +58,16 @@ promontory there are comparatively few buildings, while, at the W. end
 there is a sheer precipice to the sea. The town only acquired municipal
 rights after the Social War, and was a place of little importance,
 except as a seaside resort. For its villas Cicero compares it with
-Antium, and probably both Tiberius and Domitian possessed residences
+Antium, and probably both Tiberius and [[Domitian]] possessed residences
 there. The beetroot and oysters of Circei had a certain reputation. The
 view from the highest summit of the promontory (which is occupied by
 ruins of a platform attributed with great probability to a temple of
 Venus or Circe) is of remarkable beauty; the whole mountain is covered
 with fragrant shrubs. From any point in the Pomptine Marshes or on the
-coast-line of Latium the Circeian promontory dominates the landscape in
+coast-line of [[Latium]] the Circeian promontory dominates the landscape in
 the most remarkable way.
 
-  See T. Ashby, "Monte Circeo," in _Mélanges de l'école française de
+  See T. Ashby, "Monte Circeo," in _Mé[[Lange|langes]] de l'école française de
   Rome_, XXV. (1905) 157 seq.    (T. As.)
 
 ## See also

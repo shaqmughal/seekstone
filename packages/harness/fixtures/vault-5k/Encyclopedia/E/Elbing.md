@@ -5,7 +5,7 @@ rail E.S.E. of Danzig, on the Elbing, a small river which flows into the
 Frische Haff about 5 m. from the town, and is united with the Nogat or
 eastern arm of the Vistula by means of the Kraffohl canal. Pop. (1905)
 55,627. By the Elbing-Oberländischer canal, 110 m. long, constructed in
-1845-1860, Lakes Geserich and Drewenz are connected with Lake Drausen,
+1845-1860, Lakes Geserich and [[Drewenz]] are connected with Lake Drausen,
 and consequently with the port of Elbing. The old town was formerly
 surrounded by fortifications, but of these only a few fragments remain.
 There are several churches, among them the Marienkirche (dating from the
@@ -18,13 +18,13 @@ Elbing is a place of rapidly growing industries. At the great Schichau
 iron-works, which employ thousands of workmen, are built most of the
 torpedo-boats and destroyers for the German navy, as well as larger
 craft, locomotives and machinery. In addition to this there are at
-Elbing important iron foundries, and manufactories of machinery, cigars,
-lacquer and metal ware, flax and hemp yarn, cotton, linen, organs, &c.
+Elbing important iron foundries, and manufactories of machinery, [[Cigar|cigars]],
+[[Lacquer|lacquer]] and metal ware, flax and hemp yarn, cotton, linen, organs, &c.
 There is a considerable trade also in agricultural produce.
 
 The origin of Elbing was a colony of traders from Lübeck and Bremen,
 which established itself under the protection of a castle of the
-Teutonic Knights, built in 1237. In 1246 the town acquired "Lübeck
+Teutonic [[Knight|Knights]], built in 1237. In 1246 the town acquired "Lübeck
 rights," i.e. the full autonomy conceded by the charter of the emperor
 Frederick II. in 1226 (see LÜBECK), and it was early admitted to the
 Hanseatic League. In 1454 the town repudiated the overlordship of the
@@ -37,7 +37,7 @@ was taken and held to ransom by Charles XII. of Sweden, and in 1710 was
 captured by the Russians. In 1772, when it fell to Prussia through the
 first partition of Poland, it was utterly decayed.
 
-  See Fuchs, _Gesch. der Stadt Elbing_ (Elbing, 1818-1852); Rhode, _Der
+  See [[Fuchs]], _Gesch. der Stadt Elbing_ (Elbing, 1818-1852); Rhode, _Der
   Elbinger Kreis in topographischer, historischer, und statistischer
   Hinsicht_ (Danzig, 1871); Wernick, _Elbing_ (Elbing, 1888).
 

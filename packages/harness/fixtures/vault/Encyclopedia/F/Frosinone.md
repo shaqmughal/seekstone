@@ -8,7 +8,7 @@ tags: [history, commerce-studies]
 # Frosinone
 
 FROSINONE (anc. _Frusino_), a town of Italy in the province of Rome,
-from which it is 53 m. E.S.E. by rail. Pop. (1901) town, 9530; commune,
+from which it is 53 m. E.S.E. by rail. Pop. (1901) town, 9530; [[Commune|commune]],
 11,029. The place is picturesquely situated on a hill of 955 ft. above
 sea-level, but contains no buildings of interest. Of the ancient city
 walls a small fragment alone is preserved, and no other traces of

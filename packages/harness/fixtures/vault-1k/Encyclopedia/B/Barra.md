@@ -8,7 +8,7 @@ type: article
 # Barra
 
 BARRA, or BARRAY (Scand. _Baraey_, isle of the ocean), an island of the
-outer Hebrides, Inverness-shire, Scotland. Pop. (1901) 2362. It lies about
+outer [[Hebrides]], Inverness-shire, Scotland. Pop. (1901) 2362. It lies about
 5 m. S.W. of South Uist, is 8 m. in length and from 2 to 4 m. in breadth,
 save at the sandy isthmus 2 m. below Scurrival Point, where it is only a
 few hundred yards broad. The rock formation is gneiss. The highest hill is

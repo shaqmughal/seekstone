@@ -7,7 +7,7 @@ topic: history
 # Chihuahua
 
 CHIHUAHUA, a northern frontier state of Mexico, bounded N. and N.E. by
-the United States (New Mexico and Texas), E. by Coahuila, S. by Durango,
+the United States (New Mexico and Texas), E. by [[Coahuila]], S. by Durango,
 and W. by Sinaloa and Sonora. Pop. (1895) 260,008; (1900) 327,784. Area,
 87,802 sq. m. The surface of the state is in great part an elevated
 plateau, sloping gently toward the Rio Grande. The western side,
@@ -20,8 +20,8 @@ have the heavier rainfall, but the average for the state is barely 39
 in.; an impermeable clay substratum prevents its absorption by the soil,
 and the bare surface carries it off in torrents. The great Bolsón de
 Mapimí depression, in the S.E. part of the state, was once considered to
-be an unreclaimable desert, but experiments with irrigation have shown
-its soil to be highly fertile, and the conversion of the narrow valleys
+be an unreclaimable [[Desert|desert]], but experiments with irrigation have shown
+its soil to be highly fertile, and the [[Conversion|conversion]] of the narrow valleys
 of the sierras on the west into irrigation reservoirs promises to
 reclaim a considerable part of its area. The only river of consequence
 is the Conchos, which flows north and north-east into the Rio Grande
@@ -30,8 +30,8 @@ small streams flowing northward into lakes. Agriculture has made little
 progress in Chihuahua, and the scarcity of water will always be a
 serious obstacle to its development outside the districts where
 irrigation is practicable. The climate and soil are favourable to the
-production of wheat, Indian corn, beans, indigo, cotton and grapes, from
-which wine and brandy are made. The principal grape-producing district
+production of wheat, Indian [[Corn|corn]], [[Bean|beans]], indigo, cotton and grapes, from
+which wine and [[Brandy|brandy]] are made. The principal grape-producing district
 is in the vicinity of Ciudad Juárez. Stock-raising is an important
 industry in the mountainous districts of the west, where there is
 excellent pasturage for the greater part of the year. The principal

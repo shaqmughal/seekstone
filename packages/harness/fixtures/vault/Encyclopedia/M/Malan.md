@@ -1,8 +1,8 @@
 # Malan
 
-MALAN, SOLOMON CAESAR (1812-1894), British divine and orientalist, was
+MALAN, SOLOMON [[Caesar|CAESAR]] (1812-1894), British divine and orientalist, was
 by birth a Swiss descended from an exiled French family, and was born at
-Geneva on the 22nd of April 1812, where his father, Dr Henry Abraham
+[[Geneva]] on the 22nd of April 1812, where his father, Dr Henry Abraham
 Caesar Malan (1787-1864) enjoyed a great reputation as a Protestant
 divine. From his earliest youth he manifested a remarkable faculty for
 the study of languages, and when he came to Scotland as tutor in the
@@ -14,12 +14,12 @@ examination in French, German, Spanish, Italian, Latin or Greek, rather
 than in English. But his request was not granted. After gaining the
 Boden and the Pusey and Ellerton scholarships, he graduated 2nd class in
 _Lit. hum._ in 1837. He then proceeded to India as classical lecturer at
-Bishop's College, Calcutta, to which post he added the duties of
-secretary to the Bengal branch of the Royal Asiatic Society; and
+Bishop's College, [[Calcutta]], to which post he added the duties of
+secretary to the [[Bengal]] branch of the Royal Asiatic Society; and
 although compelled by illness to return in 1840, laid the foundation of
 a knowledge of Tibetan and Chinese. After serving various curacies, he
 was presented in 1845 to the living of Broadwindsor, Dorset, which he
-held until 1886. During this entire period he continued to augment his
+held until 1886. During this entire period he continued to [[Augment|augment]] his
 linguistic knowledge, which he carried so far as to be able to preach in
 that most difficult language, Georgian, on a visit which he paid to
 Nineveh in 1872. His translations from the Armenian, Georgian and Coptic
@@ -35,14 +35,14 @@ Testament, and to the transliteration of Oriental languages, on neither
 of which points did he in general obtain the suffrages of scholars. His
 extensive and valuable library, some special collections excepted, was
 presented by him in his lifetime to the Indian Institute at Oxford. He
-died at Bournemouth on the 25th of November 1894. His life has been
+died at [[Bournemouth]] on the 25th of November 1894. His life has been
 written by his son.
 
 
 
 
-MÄLAR, a lake of Sweden, extending 73 m. westward from Stockholm, which
-lies at its junction with the Saltsjö, an arm of the Baltic Sea. The
+MÄ[[Lar|LAR]], a lake of Sweden, extending 73 m. westward from Stockholm, which
+lies at its junction with the Saltsjö, an arm of the [[Baltic Sea]]. The
 height of the lake is normally only from 11 in. to 2 ft. above
 sea-level, and its outflow is sometimes reversed. The area is 449 sq. m.
 The bottom consists of a series of basins separate by ridges from which
@@ -52,7 +52,7 @@ northward for 30 m. nearly to the city of Upsala with many
 ramifications. The area of the drainage basin is 8789 sq. m., of which
 1124 are occupied by lakes. The navigable connexions with the lake
 are--(1) with lake Hjelmar to the south-west by the Arboga river and the
-Hjelmar canal; and by the Eskilstuna river and the Thorshälla canal; (2)
+Hjelmar canal; and by the [[Eskilstuna]] river and the Thorshälla canal; (2)
 with the Baltic southward through the Södertelge canal, the route
 followed by the Göta canal steamers; (3) with the Baltic by two channels
 at Stockholm. The more important towns, besides Stockholm, are Vesterås
@@ -83,7 +83,7 @@ Skokloster, occupying the site of a monastery, and presented by Gustavus
 Adolphus to Marshal Herman Wrangel, whose son Charles Gustavus Wrangel
 stored it with a remarkable collection of trophies from Germany, taken
 during the Thirty Years' War; including a library, an armoury, and a
-great accumulation of curios.
+great accumulation of [[Curio|curios]].
 
 ## References
 

@@ -7,8 +7,8 @@ topic: medicine
 # Fairfax
 
 FAIRFAX, EDWARD (c. 1580-1635), English poet, translator of Tasso, was
-born at Leeds, the second son of Sir Thomas Fairfax of Denton (father of
-the 1st Baron Fairfax of Cameron). His legitimacy has been called in
+born at [[Leeds]], the second son of Sir Thomas Fairfax of [[Denton]] (father of
+the 1st Baron Fairfax of [[Cameron]]). His [[Legitimacy|legitimacy]] has been called in
 question, and the date of his birth has not been ascertained. He is said
 to have been only about twenty years of age when he published his
 translation of the _Gerusalemme Liberala_, which would place his birth
@@ -33,14 +33,14 @@ liberty. Other translators may give a more literal version, but Fairfax
 alone seizes upon the poetical and chivalrous character of the poem. He
 presented, says Mr Courthope, "an idea of the chivalrous past of Europe,
 as seen through the medium of Catholic orthodoxy and classical
-humanism." The sweetness and melody of many passages are scarcely
+[[Humanism|humanism]]." The sweetness and melody of many passages are scarcely
 excelled even by Spenser. Fairfax made no other appeal to the public. He
 wrote, however, a series of eclogues, twelve in number, the fourth of
 which was published, by permission of the family, in Mrs Cooper's
 _Muses' Library_ (1737). Another of the eclogues and a _Discourse on
 Witchcraft, as it was acted in the Family of Mr Edward Fairfax of
 Fuystone in the county of York in 1621_, edited from the original copy
-by Lord Houghton, appeared in the _Miscellanies_ of the Philobiblon
+by Lord [[Houghton]], appeared in the _Miscellanies_ of the Philobiblon
 Society (1858-1859). Fairfax was a firm believer in witchcraft. He
 fancied that two of his children had been bewitched, and he had the poor
 wretches whom he accused brought to trial, but without obtaining a

@@ -15,7 +15,7 @@ Abandoning the Senecan model hitherto universal in Spain, Cueva took for
 his themes matters of national legend, historic tradition, recent
 victories and the actualities of contemporary life: this amalgam of
 epical and realistic elements, and the introduction of a great variety
-of metres, prepared the way for the Spanish romantic drama of the 17th
+of metres, prepared the way for the Spanish romantic [[Drama|drama]] of the 17th
 century. A peculiar interest attaches to _El Infamador_, a play in which
 the character of Leucino anticipates the classic type of Don Juan. As an
 initiative force, Cueva is a figure of great historical importance; his

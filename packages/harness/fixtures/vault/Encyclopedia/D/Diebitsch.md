@@ -6,13 +6,13 @@ topic: saints-theory
 
 # Diebitsch
 
-DIEBITSCH, HANS KARL FRIEDRICH ANTON, count von Diebitsch and Narden,
-called by the Russians Ivan Ivanovich, Count Diebich-Zabalkansky
+DIEBITSCH, HANS KARL [[Friedrich|FRIEDRICH]] ANTON, count von Diebitsch and Narden,
+called by the Russians [[Ivan]] Ivanovich, Count Diebich-Zabalkansky
 (1785-1831), Russian field-marshal, was born in Silesia on the 13th of
-May 1785. He was educated at the Berlin cadet school, but by the desire
+May 1785. He was educated at the Berlin [[Cadet|cadet]] school, but by the desire
 of his father, a Prussian officer who had passed into the service of
 Russia, he also did the same in 1801. He served in the campaign of 1805,
-and was wounded at Austerlitz, fought at Eylau and Friedland, and after
+and was wounded at [[Austerlitz]], fought at Eylau and [[Friedland]], and after
 Friedland was promoted captain. During the next five years of peace he
 devoted himself to the study of military science, engaging once more in
 active service in the War of 1812. He distinguished himself very greatly
@@ -24,7 +24,7 @@ Clausewitz, he negotiated the celebrated convention of Tauroggen,
 serving thereafter with Yorck in the early part of the War of
 Liberation. After the battle of Lützen he served in Silesia and took
 part in negotiating the secret treaty of Reichenbach. Having
-distinguished himself at the battles of Dresden and Leipzig he was
+distinguished himself at the battles of [[Dresden]] and Leipzig he was
 promoted lieutenant-general. At the crisis of the campaign of 1814 he
 strongly urged the march of the allies on Paris; and after their entry
 the emperor Alexander conferred on him the order of St Alexander Nevsky.

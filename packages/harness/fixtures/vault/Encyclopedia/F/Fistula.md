@@ -12,7 +12,7 @@ in ano_, is a suppurating track near the outlet of the bowel; _urethral
 fistula_ is the result of a giving way of the tissues behind a
 stricture. These are examples of the variety of the first kind of
 fistula; while _recto-vesical fistula_, a communication between the
-rectum and bladder, and _vesico-vaginal fistula_, a communication
+rectum and [[Bladder|bladder]], and _vesico-vaginal fistula_, a communication
 between the bladder and vagina, are examples of the second. The abnormal
 passage may be straight or tortuous, of considerable diameter or of
 narrow calibre. Fistulae may be caused by an obstruction of the normal

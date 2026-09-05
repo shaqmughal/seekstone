@@ -24,28 +24,28 @@ and in the French flageolet.
 
 _The Transverse Flute_ or _German Flute_ (Fr. _flûte traversière_,
 _flûte allemande_: Ger. _Flöte_, _Querflöte_, _Zwerchpfeiff_,
-_Schweitzerpfeiff_; Ital. _flauto traverso_) includes the _concert
+_Schweitzerpfeiff_; Ital. _flauto traverso_) includes the _[[Concert|concert]]
 flute_ known both as flute in C and as flute in D, the piccolo (q.v.) or
-octave flute, and the fife (q.v.). The modern flute consists of a tube
+octave flute, and the [[Fife|fife]] (q.v.). The modern flute consists of a tube
 open at one end and nominally closed at the other by means of a plug or
 cork stopper: virtually, however, the tube is an open one giving the
 consecutive harmonic series of the open pipe or of a stretched string.
 The primitive flute was made in one piece, but the modern instrument is
-composed of three adjustable joints. (1) The head-joint, plugged at the
+composed of three adjustable [[Joints|joints]]. (1) The head-joint, plugged at the
 upper end and containing at about one-third of the length the mouth-hole
 or embouchure. This embouchure, always open when the instrument is being
 played, converts the closed tube into an open one, in an acoustical
-sense. (2) The body, containing the holes and keys necessary to produce
+sense. (2) The body, containing the holes and [[Key|keys]] necessary to produce
 the scale which gave the flute its original designation of D flute, the
 head and body together, when the holes are closed, giving the
 fundamental note D. Before the invention of keys, this fundamental note
 and the notes obtained by the successive opening of the six holes
-produced the diatonic scale of D major. All other semitones were
+produced the diatonic scale of D [[Major|major]]. All other semitones were
 obtained by what is known as cross fingering (Fr. _doigté fourchu_; Ger.
 _Gabelgriffe_). It became usual to consider this the typical fingering
 nomenclature, whatever the fundamental note given out by the flute, and
 to indicate the tonality by the note given out when the six lateral
-holes are covered by the fingers. The result is that the tonality is
+holes are covered by the [[Finger|fingers]]. The result is that the tonality is
 always a tone lower than the name of the instrument indicates. Thus the
 D flute is really in C, the F flute is E[flat], &c. (3) The foot-joint
 or tail-joint containing the two additional keys for C[sharp] and C
@@ -55,7 +55,7 @@ in the fundamental octave.
 The compass of the modern flute is three octaves with chromatic
 semitones from [notes] to [notes]. The sound is produced by holding the
 flute transversely with the embouchure turned slightly outwards, the
-lower lip resting on the nearer edge of the embouchure, and blowing
+lower [[Lip|lip]] resting on the nearer edge of the embouchure, and blowing
 obliquely across, not into, the orifice. The flat stream of air from the
 lips, known as the air-reed, breaks against the sharp outer edge of the
 embouchure. The current of air, thus set in a flutter, produces in the
@@ -82,7 +82,7 @@ shortening the length of the column of air by means of lateral holes.
 The acoustic theory of sound-production in the flute is one on which
 there is great diversity of opinion. The subject is too vast to be
 treated here, but readers who wish to pursue it may consult the works of
-Rockstro,[3] Helmholtz,[4] and others.[5] The effect of boring lateral
+Rockstro,[3] [[Helmholtz]],[4] and others.[5] The effect of boring lateral
 holes in pipes is to shorten the vibrating length of the air column,
 which may be regarded as being effective only between the hole in
 question and the mouthpiece. In order to obtain this result the diameter
@@ -91,7 +91,7 @@ were covered by the fingers, this was obviously impossible. The holes,
 therefore, being smaller than the laws of acoustics demand, have to be
 placed proportionally nearer the mouthpiece in order to avoid deepening
 the pitch and deadening the tone. This principle was understood by
-wind-instrument makers of classic Greece (see AULOS and CLARINET), and
+wind-instrument makers of classic Greece (see AULOS and [[Clarinet|CLARINET]]), and
 has been explained by Chladni[6] and Gottfried Weber.[7]
 
 The bore of the early flute with six finger-holes was invariably
@@ -133,12 +133,12 @@ turns, shakes, &c. By the articulation with the tongue of the syllables
 _te-ke_ or _ti-ke_ repeated quickly for groups of double notes, or of
 _te-ke-ti_ for triplets, an easy effective staccato is produced, known
 respectively as _double_ or _triple tonguing_, a device understood early
-in the 16th century and mentioned by Martin Agricola,[10] who gives the
+in the 16th century and mentioned by [[Martin]] Agricola,[10] who gives the
 syllables as _de_ for sustained notes, di-ri for shorter notes, and
 _tel-lel-lel_ for staccato passages in quick tempo.[11]
 
 [Illustration: From Captain Day's _Catalogue, &c._, by permission of
-Messrs. Eyre & Spottiswoode.
+Messrs. [[Eyre]] & Spottiswoode.
 
 FIG. 1.--Eight-keyed Cone Flute by Richard Potter. 18th century.]
 
@@ -178,7 +178,7 @@ FIG. 2.--Boehm Cylinder Flute. Rockstro Model.]
   the survival of the transverse flute after the fall of the Roman
   empire until it filtered through from Byzantine sources during the
   early middle ages. Instances of the flute occur on a group of
-  caskets[16] of Italo-Byzantine work of the 9th or 10th century, while
+  [[Casket|caskets]][16] of Italo-Byzantine work of the 9th or 10th century, while
   of purely Byzantine origin we find examples of flutes in Greek
   MSS.[17] preserved in Paris, at the British Museum and elsewhere.
   There is moreover in the cathedral of St Sophia at Kiev[18] an
@@ -192,16 +192,16 @@ FIG. 2.--Boehm Cylinder Flute. Rockstro Model.]
   legend as _tibia_; in the vocabulary the latter is translated swegel.
   In the 13th century it occurs among the miniatures of the fifty-one
   musicians in the beautiful MS. _Las Cantigas de Santa Maria_ in the
-  Escorial, Madrid.[20] Eustache Deschamps, a French poet of the 14th
+  Escorial, Madrid.[20] Eustache [[Deschamps]], a French poet of the 14th
   century, in one of his ballads, makes mention of the "flute
   traversaine," and we are justified in supposing that he refers to the
   transverse flute. It had certainly acquired some vogue in the 15th
   century, being figured in an engraving in Sebastian Virdung's
   celebrated work,[21] where it is called "Zwerchpfeiff," and, with the
-  drums, it already constituted the principal element of the military
+  [[Drum|drums]], it already constituted the principal element of the military
   music. Agricola (op. cit.) alludes to it as the "Querchpfeiff" or
   "Schweizerpfeiff," the latter designation dating, it is said, from the
-  battle of Marignan (1515), when the Swiss troops used it for the first
+  battle of [[Marignan]] (1515), when the Swiss troops used it for the first
   time in war.
 
   From Agricola onwards transverse flutes formed a complete family, said
@@ -264,9 +264,9 @@ FIG. 2.--Boehm Cylinder Flute. Rockstro Model.]
   the Museo Civico at Verona. We suppose it to have been in [notes], and
   that it was furnished with an open key like that which was applied to
   the recorders (_flûtes douces_) of the same epoch, the function of the
-  key being to augment by another note the compass of the instrument in
+  key being to [[Augment|augment]] by another note the compass of the instrument in
   the lower part. A bass flute in G similar to the one in fig. 5 is
-  figured and described in Diderot and D'Alembert's encyclopaedia [27]
+  figured and described in [[Diderot]] and D'Alembert's encyclopaedia [27]
   (1751). According to Quantz,[28] it was in France and about the middle
   of the 17th century that the first modifications were introduced in
   the manufacture of the flute. The improvements at this period
@@ -370,7 +370,7 @@ FIG. 2.--Boehm Cylinder Flute. Rockstro Model.]
   mentioned in the patent were four--D[sharp], F, G[sharp], A[sharp].
   The idea of extending the compass of the flute downwards was taken up
   again about the same time by two players of the flute in London named
-  Tacet and Florio. They devised a new disposition of the keys C and C#,
+  Tacet and [[Florio]]. They devised a new disposition of the keys C and C#,
   and confided the execution of their invention to Potter. In Dr
   Arnold's _New Instructions for the German Flute_ occurs a tablature,
   the engraving of which goes back to the end of the 18th century, and
@@ -415,14 +415,14 @@ FIG. 2.--Boehm Cylinder Flute. Rockstro Model.]
   in the mechanism of the keys. That employed by Macgregor consisted of
   a double lever, a contrivance dating from before the middle of the
   18th century, of which the application is seen in an oboe of large
-  dimensions preserved in the National Museum at Munich.[48]
+  [[Dimension|dimensions]] preserved in the National Museum at Munich.[48]
 
   In 1811 Johann Nepomuk Capeller invented the extra D[natural] hole and
   key, which is still in constant use on every flute of modern
   construction.[49]
 
   About 1830 the celebrated French flautist Tulou added two more keys,
-  those of F[sharp] and C[sharp], and a key, called "de cadence," to
+  those of F[sharp] and C[sharp], and a key, called "de [[Cadence|cadence]]," to
   facilitate the accompanying shakes.
 
   To increase the number of keys, to improve their system of plugging,
@@ -486,7 +486,7 @@ FIG. 2.--Boehm Cylinder Flute. Rockstro Model.]
   some notes, the great delicacy and liability to derangement of the
   mechanism, have something to do with this. In England especially, the
   ordinary flute retains many partisans, thanks to the improvements
-  introduced by a clever player, Abel Siccama, in 1845 (Patent No.
+  introduced by a [[Clever|clever]] player, Abel Siccama, in 1845 (Patent No.
   10,553). He bored the lateral holes of E and A lower, and covered them
   with open keys. He added some keys, and made a better disposition of
   the other lateral holes, of which he increased the diameter, producing
@@ -530,7 +530,7 @@ Karnac (1400 B.C.) with a segmental sinking equal in depth to about
 one-seventh of the width of the flute. The columns flanking one of the
 "beehive" tombs at Mycenae have segmental flutes and are the earliest
 Greek examples. In two of the earliest Doric temples at Metapontum and
-Syracuse (temple of Apollo) the flutes are also segmental, but in later
+Syracuse (temple of [[Apollo]]) the flutes are also segmental, but in later
 examples in order to emphasize the arris they were formed of three arcs
 and are known as "false ellipses," and this applies to nearly all the
 fluting in Greek examples whether belonging to the Doric, Ionic or
@@ -549,7 +549,7 @@ is found in the Ionic and Corinthian orders, where the flutes are
 separated by fillets, and their section is always elliptical in Greek
 work, the depth of the flute, however, being always greater than in the
 Doric order. Thus, in the temple of Ilissus and the Ionic column in the
-cella of the temple at Bassae, the depth is about one-quarter of the
+[[Cella|cella]] of the temple at Bassae, the depth is about one-quarter of the
 width, in the Propylaea at Priene it is about one-third, and in the
 Erechtheum and other examples of the Greek Ionic order it is little more
 than one-half. The width of the fillet also varies, being as a rule one
@@ -560,7 +560,7 @@ third of the width in the Doric column, and in all Ionic, Corinthian and
 Composite columns half the width of the flute. The fillet also is much
 broader in Roman examples, being about one-third of the width of the
 flute. In Roman columns sometimes the flutes of the lower part of the
-shaft, about one-third of the height, are partly filled with a convex
+shaft, about one-third of the height, are partly filled with a [[Convex|convex]]
 moulding, "cabling" being the usual term applied to this treatment. The
 French architects of the 16th and 17th centuries carried this decorative
 feature much farther, and in the Tuileries and the Louvre carved a
@@ -574,9 +574,9 @@ the museums at Rome is a fine sarcophagus, the sides of which are
 sculptured with flutes in waved lines. The coronas of many of the Roman
 temples were carved with flutes. In medieval buildings, fluting was
 occasionally introduced in imitation of Roman work, as in the churches
-of central Syria and of Autun and Langres in France, but in the south of
+of central Syria and of [[Autun]] and [[Langres]] in France, but in the south of
 Italy and Sicily it would seem to have been brought in as a variety of
-treatment, in the decoration of the shafts carrying the arches of
+treatment, in the decoration of the shafts carrying the [[Arches|arches]] of
 cloisters, as at Monreale in Sicily and in those of St John Lateran and
 St Paul-outside-the-Walls at Rome.     (R. P. S.)
 
@@ -598,7 +598,7 @@ FOOTNOTES:
   [5] V.C. Mahillon, _Experimental Studies on the Resonance of
     Trunco-Conical and Cylindrical Air Columns_, translated by F.A. Mahan
     (London, 1901); D.J. Blaikley, _Acoustics in Relation to Wind
-    Instruments_ (London, 1890); Friedrich Zamminer, _Die Musik und die
+    Instruments_ (London, 1890); [[Friedrich]] Zamminer, _Die Musik und die
     musikalischen Instrumente, &c._ (Giessen, 1855); _idem._ "Sur le
     mouvement vibratoire de l'air dans les tuyaux," _Comptes rendus_,
     1855, vol. 41, &c.
@@ -628,12 +628,12 @@ FOOTNOTES:
     der philos., philolog. und histor. Klasse. der Kgl. bayer. Akad. zu
     München_ (1873).
 
-  [13] See Albert A. Howard, "The Aulos or Tibia," _Harvard Studies_,
-    iv. (Boston, 1893), pp. 16-17.
+  [13] See Albert A. [[Howard]], "The Aulos or Tibia," _Harvard Studies_,
+    iv. ([[Boston]], 1893), pp. 16-17.
 
   [14] Representations of flutes blown as here described have been
     found in Europe. See _Comptes rendus de la commission impériale
-    archéologique_ (St Petersburg, 1867), p. 45, and atlas for the same
+    [[Arch|arch]]éologique_ (St Petersburg, 1867), p. 45, and [[Atlas|atlas]] for the same
     date, pl. vi. Pompeian painting given by Helbig, _Wandgemälde_, No.
     7607; Zahn, vol. iii. pl. 31; Museo Borbonnico, pl. xv. No. 18;
     Clarac, pl. 130, 131, 139; Heuzey, _Les Figurines_, p. 136.
@@ -644,11 +644,11 @@ FOOTNOTES:
      a maenad, has a lateral hole bored obliquely into the main tube. This
      hole was probably intended for the reception of a reed. The pipe is
      stopped at the end beyond the mouthpiece as in the modern flute.
-     There are six holes. See also the plagiaulos from Halicarnassus in
+     There are six holes. See also the plagiaulos from [[Halicarnassus]] in
      the British Museum described by C.T. Newton in _History of
      Discoveries at Halicarnassus_ (London), vol. ii. p. 339. The Louvre
-     has two ancient statues (from the villa Borghese) representing satyrs
-     playing upon transverse flutes. Unfortunately these marbles have been
+     has two ancient statues (from the villa [[Borghese]]) representing satyrs
+     playing upon transverse flutes. Unfortunately these [[Marbles|marbles]] have been
      restored, especially in the details affecting our present subject,
      and are therefore examples of no value to us. Another statue
      representing a flute-player occurs in the British Museum. The
@@ -681,22 +681,22 @@ FOOTNOTES:
     Akad. d. Wissenschaften_ (Vienna, 1907), vol. ii. pl. xxxiv.
 
   [18] A fine volume containing coloured drawings of these frescoes has
-    been published in St Petersburg (British Museum library catalogue,
+    been published in St Petersburg (British Museum library [[Catalogue|catalogue]],
     sect. "Academies," St Petersburg, 1874-1887, vol. iv. Tab. 1325a).
 
-  [19] This manuscript, written towards the end of the 12th century,
+  [19] This [[Manuscript|manuscript]], written towards the end of the 12th century,
     was preserved in the Strassburg library until 1870, when it was burnt
-    during the bombardment of the city. See the fine reproduction in
+    during the [[Bombardment|bombardment]] of the city. See the fine reproduction in
     facsimile published by the _Soc. pour la conservation des monuments
     historiques d'Alsace_. Texte explicatif de A. Straub and G. Keller
-    (Strassburg, 1901), pl. lvii., also C.M. Engelhardt, _Herrad von
+    (Strassburg, 1901), pl. lvii., also C.M. [[Engelhardt]], _Herrad von
     Landsperg und ihr Werk_ (Stuttgart and Tübingen, 1818), twelve
     plates.
 
   [20] MS. j. b. 2. Illustrated in _Critical and Bibliographical Notes
     on Early Spanish Music_ (London, 1887), p. 119.
 
-  [21] _Musica getutscht und auszgezogen_ (Basel, 1511).
+  [21] _Musica getutscht und auszgezogen_ ([[Basel]], 1511).
 
   [22] _Organographia_ (Wolfenbüttel. 1618), pp. 24, 25, 40.
 
@@ -734,7 +734,7 @@ FOOTNOTES:
     Unterricht die Flöte zu spielen_ (Leipzig, 1791), 1, § 7, and _Über
     Flöten mit mehrern Klappen_ (Leipzig, 1800), cap. vii. § 21.
 
-  [32] Antonio Lorenzoni, _Saggio per ben sonare il flauto traverso_
+  [32] [[Antonio]] Lorenzoni, _Saggio per [[Ben|ben]] sonare il flauto traverso_
     (Vicenza, 1779).
 
   [33] See _Anweisung_, i. § 15.
@@ -748,7 +748,7 @@ FOOTNOTES:
     (Leipzig, 1791), i. cap. § 20. Compare Schilling, _Univ.-Lexikon_
     (Leipzig, 1835).
 
-  [37] Stendal, 1782 (published under his initials only, J. J. H. R.,
+  [37] Stendal, 1782 (published under his [[Initials|initials]] only, J. J. H. R.,
     see p. 2).
 
   [38] _Kurze Abhandlung von Flötenspielen_ (Leipzig, 1786), p. 27.
@@ -784,7 +784,7 @@ FOOTNOTES:
     of which is given by Rockstro, op. cit. pp. 279 and 280.
 
   [50] See _Über den Flötenbau und die neuesten Verbesserungen
-    desselben_ (Mainz, 1847); and W.S. Broadwood, _An Essay on the
+    desselben_ ([[Mainz]], 1847); and W.S. Broadwood, _An Essay on the
     Construction of Flutes originally written by Theobald Boehm,
     published with the addition of Correspondence and other Documents_
     (London, 1882).
@@ -802,7 +802,7 @@ FOOTNOTES:
 
   [54] For further details see Kathleen Schlesinger, _The Instruments
     of the Orchestra_, part i. pp. 192-194, where an illustration is
-    given, and Paul Wetzger, _Die Flöte_ (Heilbronn, 1906), pp. 23-24,
+    given, and Paul Wetzger, _Die Flöte_ ([[Heilbronn]], 1906), pp. 23-24,
     and Tafel iv. No. 20.
 
 ## References

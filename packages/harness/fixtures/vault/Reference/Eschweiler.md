@@ -8,7 +8,7 @@ orphanage. The manufacture of iron and steel goods is carried on; other
 industries include the manufacture of zinc wares, tanning, distilling
 and brewing. In the neighbourhood there are valuable coal mines.
 
-  See Koch, _Geschichte der Stadt Eschweiler_ (Frankfort, 1890).
+  See Koch, _Geschichte der Stadt Eschweiler_ ([[Frankfort]], 1890).
 
 ## See also
 

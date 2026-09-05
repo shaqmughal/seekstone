@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Laureate"
 # Laureate
 
 LAUREATE (Lat. _laureatus_, from _laurea_, the laurel tree). The laurel,
-in ancient Greece, was sacred to Apollo, and as such was used to form a
+in ancient Greece, was sacred to [[Apollo]], and as such was used to form a
 crown or wreath of honour for poets and heroes; and this usage has been
 widespread. The word "laureate" or "laureated" thus came in English to
 signify eminent, or associated with glory, literary or military.
@@ -16,11 +16,11 @@ signify eminent, or associated with glory, literary or military.
 victory; and the epithet was given, even officially (e.g. to John
 Skelton) by universities, to distinguished poets. The name of
 "bacca-laureate" for the university degree of bachelor shows a confusion
-with a supposed etymology from Lat. _bacca lauri_ (the laurel berry),
+with a supposed [[Etymology|etymology]] from Lat. _bacca lauri_ (the laurel [[Berry|berry]]),
 which though incorrect (see BACHELOR) involves the same idea. From the
 more general use of the term "poet laureate" arose its restriction in
 England to the office of the poet attached to the royal household, first
-held by Ben Jonson, for whom the position was, in its essentials,
+held by [[Ben]] [[Jonson]], for whom the position was, in its essentials,
 created by Charles I. in 1617. (Jonson's appointment does not seem to
 have been formally made as poet-laureate, but his position was
 equivalent to that). The office was really a development of the practice
@@ -29,15 +29,15 @@ of the King; it is recorded that Richard Coeur de Lion had a
 _versificator regis_ (Gulielmus Peregrinus), and Henry III. had a
 versificator (Master Henry); in the 15th century John Kay, also a
 "versifier," described himself as Edward IV.'s "humble poet laureate."
-Moreover, the crown had shown its patronage in various ways; Chaucer had
+Moreover, the crown had shown its patronage in various ways; [[Chaucer]] had
 been given a pension and a perquisite of wine by Edward III., and
 Spenser a pension by Queen Elizabeth. W. Hamilton classes Chaucer,
-Gower, Kay, Andrew Bernard, Skelton, Robert Whittington, Richard
-Edwards, Spenser and Samuel Daniel, as "volunteer Laureates." Sir
-William Davenant succeeded Jonson in 1638, and the title of poet
-laureate was conferred by letters patent on Dryden in 1670, two years
-after Davenant's death, coupled with a pension of £300 and a butt of
-Canary wine. The post then became a regular institution, though the
+[[Gower]], Kay, Andrew [[Bernard]], Skelton, Robert Whittington, Richard
+Edwards, Spenser and Samuel [[Daniel]], as "volunteer Laureates." Sir
+William [[Davenant]] succeeded Jonson in 1638, and the title of poet
+laureate was conferred by letters patent on [[Dryden]] in 1670, two years
+after Davenant's death, coupled with a pension of £300 and a [[Butt|butt]] of
+[[Canary]] wine. The post then became a regular institution, though the
 emoluments varied, Dryden's successors being T. Shadwell (who originated
 annual birthday and New Year odes), Nahum Tate, Nicholas Rowe, Laurence
 Eusden, Colley Cibber, William Whitehead, Thomas Warton, H. J. Pye,
@@ -75,25 +75,25 @@ chamberlain's department, and £27 from the lord steward's in lieu of the
 LAUREL. At least four shrubs or small trees are called by this name in
 Great Britain, viz. the common or cherry laurel (_Prunus Laurocerasus_),
 the Portugal laurel (_P. lusitanica_), the bay or sweet laurel (_Laurus
-nobilis_) and the spurge laurel (_Daphne Laureola_). The first two
+nobilis_) and the spurge laurel (_[[Daphne]] Laureola_). The first two
 belong to the rose family (_Rosaceae_), to the section _Cerasus_ (to
 which also belongs the cherry) of the genus _Prunus_.
 
 The common laurel is a native of the woody and sub-alpine regions of the
-Caucasus, of the mountains of northern Persia, of north-western Asia
-Minor and of the Crimea. It was received into Europe in 1576, and
+[[Caucasus]], of the mountains of northern Persia, of north-western Asia
+Minor and of the [[Crimea]]. It was received into Europe in 1576, and
 flowered for the first time in 1583. Ray in 1688 relates that it was
 first brought from Trebizonde to Constantinople, thence to Italy,
 France, Germany and England. Parkinson in his _Paradisus_ records it as
-growing in a garden at Highgate in 1629; and in Johnson's edition of
+growing in a garden at [[Highgate]] in 1629; and in Johnson's edition of
 Gerard's _Herbal_ (1633) it is recorded that the plant "is now got into
 many of our choice English gardens, where it is well respected for the
 beauty of the leaues and their lasting or continuall greennesse" (see
-Loudon's _Arboretum_, ii. 717). The leaves of this plant are rather
+Loudon's _[[Arboretum]]_, ii. 717). The leaves of this plant are rather
 large, broadly lance-shaped and of a leathery consistence, the margin
 being somewhat serrated. They are remarkable for their poisonous
 properties, giving off the odour of bitter almonds when bruised; the
-vapour thus issuing is sufficient to kill small insects by the prussic
+vapour thus issuing is sufficient to kill small [[Insect|insects]] by the prussic
 acid which it contains. The leaves when cut up finely and distilled
 yield oil of bitter almonds and hydrocyanic (prussic) acid. Sweetmeats,
 custards, cream, &c., are often flavoured with laurel-leaf water, as it
@@ -124,7 +124,7 @@ Alexandrian with very small leaves.
 The Portugal laurel is a native of Portugal and Madeira. It was
 introduced into England about the year 1648, when it was cultivated in
 the Oxford Botanic Gardens. During the first half of the 18th century
-this plant, the common laurel and the holly were almost the only hardy
+this plant, the common laurel and the [[Holly|holly]] were almost the only hardy
 evergreen shrubs procurable in British nurseries. They are all three
 tender about Paris, and consequently much less seen in the neighbourhood
 of that city than in England, where they stand the ordinary winters but
@@ -137,10 +137,10 @@ are not devoid of beauty. The former often ripens its insipid drupes,
 but the Portugal rarely does so. It appears to be less able to
 accommodate itself to the English climate, as the wood does not usually
 "ripen" so satisfactorily. Hence it is rather more liable to be cut by
-the frost. It is grown in the open air in the southern United States.
+the [[Frost|frost]]. It is grown in the open air in the southern United States.
 
 The bay or sweet laurel (_Laurus nobilis_) belongs to the family
-Lauraceae, which contains sassafras, benzoin, camphor and other trees
+Lauraceae, which contains sassafras, [[Benzoin|benzoin]], camphor and other trees
 remarkable for their aromatic properties. It is a large evergreen shrub,
 sometimes reaching the height of 60 ft., but rarely assuming a truly
 tree-like character. The leaves are smaller than those of the preceding
@@ -149,7 +149,7 @@ quite devoid of the poisonous properties of the cherry laurel. The small
 yellowish-green flowers are produced in axillary clusters, are male or
 female, and consist of a simple 4-leaved perianth which encloses nine
 stamens in the male, the anthers of which dehisce by valves which lift
-upwards as in the common barberry, and carry glandular processes at the
+upwards as in the common [[Barberry|barberry]], and carry glandular processes at the
 base of the filament. The fruit consists of a succulent berry surrounded
 by the persistent base of the perianth. The bay laurel is a native of
 Italy, Greece and North Africa, and is abundantly grown in the British
@@ -165,21 +165,21 @@ curled; there is also the double-flowered variety. The bay laurel was
 carried to North America by the early colonists.
 
 This laurel is generally held to be the _Daphne_ of the ancients, though
-Lindley, following Gerard (_Herball_, 1597, p. 761), asserted that the
+[[Lindley]], following [[Gerard]] (_Herball_, 1597, p. 761), asserted that the
 Greek _Daphne_ was _Ruscus racemosus_. Among the Greeks the laurel was
 sacred to Apollo, especially in connexion with Tempe, in whose laurel
 groves the god himself obtained purification from the blood of the
 Python. This legend was dramatically represented at the Pythian festival
-once in eight years, a boy fleeing from Delphi to Tempe, and after a
+once in eight years, a boy fleeing from [[Delphi]] to Tempe, and after a
 time being led back with song, crowned and adorned with laurel. Similar
 [Greek: daphnêphoriai] were known elsewhere in Greece. Apollo, himself
 purified, was the author of purification and atonement to other
 penitents, and the laurel was the symbol of this power, which came to be
 generally associated with his person and sanctuaries. The relation of
 Apollo to the laurel was expressed in the legend of Daphne (q.v.). The
-victors in the Pythian games were crowned with the laurels of Apollo,
+victors in the Pythian [[Games|games]] were crowned with the laurels of Apollo,
 and thus the laurel became the symbol of triumph in Rome as well as in
-Greece. As Apollo was the god of poets, the _Laurea Apollinaris_
+Greece. As Apollo was the god of poets, the _Laurea [[Apollinaris]]_
 naturally belonged to poetic merit (see LAUREATE). The various
 prerogatives of the laurel among the ancients are collected by Pliny
 (_Hist. Nat._ xv. 30). It was a sign of truce, like the olive branch;
@@ -188,13 +188,13 @@ garnished with it; it was thought that lightning could not strike it,
 and the emperor Tiberius always wore a laurel wreath during
 thunderstorms. From its association with the divine power of
 purification and protection, it was often set before the door of Greek
-houses, and among the Romans it was the guardian of the gates of the
-Caesars (Ovid, _Met._ i. 562 sq.). The laurel worn by Augustus and his
+houses, and among the Romans it was the [[Guardian|guardian]] of the gates of the
+[[Caesar|Caesars]] (Ovid, _Met._ i. 562 sq.). The laurel worn by Augustus and his
 successors had a miraculous history: the laurel grove at the imperial
 villa by the ninth milestone on the Flaminian way sprang from a shoot
-sent from heaven to Livia Drusilla (Sueton. _Galba_, i.). Like the
+sent from heaven to Livia Drusilla (Sueton. _[[Galba]]_, i.). Like the
 olive, the laurel was forbidden to profane use. It was employed in
-divination; the crackling of its leaves in the sacred flame was a good
+[[Divination|divination]]; the crackling of its leaves in the sacred flame was a good
 omen (Tibull. ii. 5. 81), and their silence unlucky (Propert. ii. 21);
 and the leaves when chewed excited a prophetic afflatus ([Greek:
 daphnêphagoi], cf. Tibull. ii. 5. 63). There is a poem enumerating the
@@ -210,14 +210,14 @@ drooping clusters at the base of the leaves. The calyx is four-cleft,
 and carries eight stamens in two circles of four each within the tube.
 The pistil forms a berry, green at first, but finally black. The
 mezereon differs in blossoming before the leaves are produced, while the
-flowers are lilac instead of green. The bark furnishes the drug _Cortex
+flowers are [[Lilac|lilac]] instead of green. The bark furnishes the drug _Cortex
 Mezerei_, for which that of the spurge laurel is often substituted. Both
 are powerfully acrid, but the latter is less so than the bark of
 mezereon. It is now only used as an ingredient of the _liquor sarsae
 compositus concentratus_. Of other species in cultivation there are _D.
 Fortunei_ from China, which has lilac flowers; _D. pontica_, a native of
 Asia Minor; _D. alpina_, from the Italian Alps; _D. collina_, south
-European; and _D. Cneorum_, the garland flower or trailing daphne, the
+European; and _D. Cneorum_, the garland [[Flower|flower]] or trailing daphne, the
 handsomest of the hardy species.
 
   See Hemsley's _Handbook of Hardy Trees_, &c.

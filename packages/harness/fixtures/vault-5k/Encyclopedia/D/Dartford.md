@@ -17,7 +17,7 @@ Memorial Hall. The most noteworthy building, however, is the parish
 church, restored in 1863, which contains a curious old fresco and
 several interesting brasses, and has a Norman tower. The prosperity of
 the town depends on the important works in its vicinity, including
-powder works, paper mills, and engineering, iron, chemical and cement
+powder works, paper mills, and [[Engineering|engineering]], iron, chemical and cement
 works. One of the first attempts at the manufacture of paper in England
 was made here by Sir John Spielman (d. 1607), jeweller to Queen
 Elizabeth. Dartford was the scene, in 1235, of the marriage, celebrated
@@ -33,11 +33,11 @@ for those on their way to Canterbury, that the part of Watling Street
 which crossed there towards London was sometimes called "St Edmund's
 Way." It was here also that Wat Tyler's insurrection began in 1377, and
 the house in which he resided is shown. On Dartford Heath is a lunatic
-asylum of the London County Council, and, at Long Reach, the infectious
+[[Asylum|asylum]] of the London County Council, and, at Long Reach, the infectious
 diseases hospital of the Metropolitan Asylums Board. Stone church, 2 m.
 E. of Dartford, mainly late Early English (1251-1274), and carefully
 restored by G. E. Street in 1860, is remarkable; the richness of the
-work within increases from west to east, culminating in a choir arcade
+work within increases from west to east, culminating in a choir [[Arcade|arcade]]
 decorated with work among the finest of its period extant; the period is
 that of the choir of Westminster Abbey, and from a comparison of
 building materials, choir arcades and sculpture of foliage, a common

@@ -85,7 +85,7 @@ amphitheatre, the outer arches of which can still be seen in the
 surrounding buildings. The whole building, belonging probably to the
 early Empire, measured 135 by 105 yds., and the arena 87½ by 58 yds. The
 outline of the ancient theatre can be traced in the Piazza delle Grazie,
-and some of its substructure walls are preserved. The ancient forum was
+and some of its substructure walls are preserved. The ancient [[Forum|forum]] was
 on the site of the Piazza S. Michele in the centre of the town; remains
 of a small public building or shrine were found not far off in 1906 (L.
 Pernier in _Notizie degli Scavi_, 1906, p. 117). The rectangular
@@ -135,7 +135,7 @@ city began to constitute itself an independent community, and in 1160 it
 obtained from Welf VI., duke of Bavaria and marquis of Tuscany, the
 lordship of all the country for 5 m. round, on payment of an annual
 tribute. Internal discord afforded an opportunity to Uguccione della
-Faggiuola, with whom Dante spent some time there, to make himself master
+Faggiuola, with whom [[Dante]] spent some time there, to make himself master
 of Lucca in 1314, but the Lucchesi expelled him two years afterwards,
 and handed over their city to Castruccio Castracane, under whose
 masterly tyranny it became "for a moment the leading state of Italy,"
@@ -164,7 +164,7 @@ archiepiscopal cross from Alexander II. In 1726 Benedict XIII. raised
 their see to the rank of an archbishopric, without suffragans.
 
   See A. Mazzarosa, _Storia di Lucca_ (Lucca, 1833); E. Ridolfi, _L'Arte
-  in Lucca studiata nella sua Cattedrale_ (1882); _Guidi di Lucca; La
+  in Lucca studiata nella sua Cattedrale_ (1882); _[[Guidi]] di Lucca; La
   Basilica di S. Michele in Foro in Lucca_.     (T. As.)
 
 

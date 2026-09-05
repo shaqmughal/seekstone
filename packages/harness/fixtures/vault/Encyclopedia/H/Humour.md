@@ -14,12 +14,12 @@ come to be generally understood to signify a certain "habit of the
 mind," shown in speech, in literature and in action, or a quality in
 things and events observed by the human intelligence. The word reached
 its full development by slow degrees. When Dr Johnson compiled his
-dictionary, he gave nine definitions of, or equivalents for, "humour."
+dictionary, he gave nine [[Definition|definitions]] of, or equivalents for, "humour."
 They may be conveniently quoted: "(1) Moisture. (2) The different kinds
 of moisture in man's body, reckoned by the old physicians to be phlegm,
 blood, choler and melancholy, which as they predominate are supposed to
 determine the temper of mind. (3) General turn or temper of mind. (4)
-Present disposition. (5) Grotesque imagery, jocularity, merriment. (6)
+Present disposition. (5) [[Grotesque]] imagery, jocularity, merriment. (6)
 Tendency to disease, morbid disposition. (7) Petulance, peevishness. (8)
 A trick, a practice. (9) Caprice, whim, predominant inclination." The
 list was not quite complete, even in Dr Johnson's own time. Humour was
@@ -36,7 +36,7 @@ stage of its growth.
 The limited original sense of liquid, moisture, mere wet, in which
 "humour" is used in Wycliffe's translation of the Bible, continued to
 attach to it until the 17th century. Thus Shakespeare, in the first
-scene of the second act of _Julius Caesar_, makes Portia say to her
+scene of the second act of _[[Julius]] [[Caesar]]_, makes Portia say to her
 husband:--
 
   "Is Brutus sick? and is it physical
@@ -63,31 +63,31 @@ literary purposes. "A humour is a liquid or fluent part of the body
 comprehended in it, and is either born with us, or is adventitious and
 acquisite." The first four primary humours are--"Blood, a hot, sweet,
 tempered, red humour, prepared in the meseraic veins, and made of the
-most temperate parts of the chylus (chyle) in the liver, whose office it
+most temperate parts of the chylus (chyle) in the [[Liver|liver]], whose office it
 is to nourish the whole body, to give it strength and colour, being
 dispersed through every part of it. And from it spirits are first
 begotten in the heart, which afterwards in the arteries are communicated
 to the other parts. Pituita or phlegm is a cold and moist humour,
 begotten of the colder parts of the chylus (or white juice coming out of
-the meat digested in the stomach) in the liver. His office is to nourish
+the [[Meat|meat]] digested in the stomach) in the liver. His office is to nourish
 and moisten the members of the body," &c. "Choler is hot and dry,
-begotten of the hotter parts of the chylus, and gathered to the gall. It
-helps the natural heat and senses. Melancholy, cold and dry, thick,
+begotten of the hotter parts of the chylus, and gathered to the [[Gall|gall]]. It
+[[Helps|helps]] the natural heat and senses. Melancholy, cold and dry, thick,
 black and sour, begotten of the more feculent part of nourishment, and
 purged from the spleen, is a bridle to the other two hot humours, blood
-and choler, preserving them in the blood, and nourishing the bones."
+and choler, preserving them in the blood, and nourishing the [[Bone|bones]]."
 Mention must also be made of serum, and of "those excrementitious
-humours of the third concoction, sweat and tears." An exact balance of
+humours of the third concoction, sweat and tears." An exact [[Balance|balance]] of
 the four primary humours makes the justly constituted man, and allows
 for the undisturbed production of the "concoctions"--or processes of
 digestion and assimilation. Literature seized upon these terms and
 definitions. Sometimes it applied them gravely in the moral and
 intellectual sphere. Thus the Jesuit Bouhours, a French critic of the
 17th century, in his _Entretiens d'Ariste et d'Eugene_, says that in the
-formation of a _bel esprit_, "La bile donne le brillant et la
-penetration, la melancolie donne le bon sens et la solidite; le sang
+formation of a _[[Bel|bel]] esprit_, "La bile donne le brillant et la
+penetration, la melancolie donne [[Le Bon|le bon]] sens et la solidite; le sang
 donne l'agrement et la delicatesse." It was, in fact, taken for granted
-that the character and intellect of men were produced by--were, so to
+that the character and [[Intellect|intellect]] of men were produced by--were, so to
 speak, concoctions dependent on--the "humours." In the fallen state of
 mankind it rarely happens that an exact balance is maintained. One or
 other humour predominates, and thus we have the long-established
@@ -96,7 +96,7 @@ or the melancholy _temperaments_. Things being so, nothing was more
 natural than the passage of these terms of art into common speech, and
 their application in a metaphorical sense, when once they had been
 adopted by the literary class. The process is admirably described by
-Asper in the introduction to Ben Jonson's play--_Every Man out of his
+Asper in the introduction to [[Ben]] Jonson's play--_Every Man out of his
 Humour_:--
 
   "Why humour, as it is 'ens,' we thus define it,
@@ -104,7 +104,7 @@ Humour_:--
    And in itself holds these two properties
    Moisture and fluxure: as, for demonstration
    Pour water on this floor. 'Twill wet and run.
-   Likewise the air forced through a horn or trumpet
+   Likewise the air forced through a [[Horn|horn]] or trumpet
    Flows instantly away, and leaves behind
    A kind of dew; and hence we do conclude
    That whatsoe'er hath fluxure and humidity
@@ -136,17 +136,17 @@ being. "But," as Falstaff has told us, "it was always yet the trick of
 our English, if they have a good thing, to make it too common." The word
 "humour" was a good thing, but the Elizabethans certainly made it too
 common. It became a hack epithet of all work, to be used with no more
-discretion, though with less imbecile iteration, than the modern
+discretion, though with less [[Imbecile|imbecile]] iteration, than the modern
 "awful." Shakespeare laughed at the folly, and pinned it for ever to the
 ridiculous company of Corporal Nym--"I like not the humour of lying. He
 hath wronged me in some humours. I should have borne the humoured letter
-to her ... I love not the humour of bread and cheese; and there's the
-humour of it." The humour of Jonson was that he tried to clear the air
+to her ... I love not the humour of bread and [[Cheese|cheese]]; and there's the
+humour of it." The humour of [[Jonson]] was that he tried to clear the air
 of thistledown by stamping on it. Asper ends in denunciation:--
 
-  "But that a rook by wearing a pied feather,
+  "But that a rook by wearing a pied [[Feather|feather]],
    The sable hat-band, or the three-piled ruff,
-   A yard of shoe tie, or the Switzer knot
+   A yard of shoe tie, or the Switzer [[Knot|knot]]
    On his French gaiters, should affect a humour,
    O! it is more than most ridiculous."
 
@@ -192,12 +192,12 @@ play practical jokes on his guests. He is proud when "he has packed
 together a set of oglers" who had "an unlucky cast in the eye," or has
 filled his table with stammerers. The humorist, in fact, was a mere
 practical joker, who was very properly answered by a challenge from a
-military gentleman of peppery temper. Indeed, the pump and a horse-whip
+military [[Gentleman|gentleman]] of peppery temper. Indeed, the pump and a horse-whip
 would appear to have been the only effective forms of criticism on the
 prevalent humour and humours of the 16th, 17th and 18th centuries. But
 the pump and the horse-whip were themselves humours. Carlo Buffone in
 Jonson's play is put "out of his humour" by the counter humour of Signor
-Puntarvolo, who knocks him down and gags him with candle wax. The brutal
+Puntarvolo, who knocks him down and gags him with [[Candle|candle]] wax. The brutal
 pranks of Fanny Burney's Captain Mirvan, who belongs to the earlier part
 of the 18th century, were meant for humour, and were accepted as such.
 Examples might easily be multiplied. A briefer and also a more
@@ -210,9 +210,9 @@ of Polite Learning_. Goldsmith complains that "the critic, by demanding
 an impossibility from the comic poet, has, in effect, banished true
 comedy from the stage." This he has done by banning "low" subjects, and
 by proscribing "the comic or satirical muse from every walk but high
-life, which, though abounding in fools as well as the humbler station,
+life, which, though abounding in [[Fools|fools]] as well as the humbler station,
 is by no means so fruitful in absurdity.... Absurdity is the poet's
-game, and good breeding is the nice concealment of absurdity. The truth
+[[Game|game]], and good breeding is the nice concealment of absurdity. The truth
 is, the critic generally mistakes 'humour' for 'wit,' which is a very
 different excellence; wit raises human nature above its level; humour
 acts a contrary part, and equally depresses it. To expect exalted humour
@@ -229,18 +229,18 @@ it impossible for ourselves to be guilty, and therefore applaud our own
 good sense on the comparison."
 
 Nothing could be more true as an account of what the Elizabethans, the
-Restoration, the Queen Anne men, and the 18th century meant by "humour."
+Restoration, the Queen [[Anne]] men, and the 18th century meant by "humour."
 Nothing could be more false as an example of what we mean by the humour
 of Falstaff or of _The Vicar of Wakefield_.
 
 When we pass from Goldsmith to Hazlitt--one of the greatest names in
 English criticism--we find that "humour" has grown in meaning, without
 quite reaching its full development. In the introduction to his
-_Lectures on the English Comic Writers_ he attempts a classification of
+_Lectures on the English Comic Writers_ he attempts a [[Classification|classification]] of
 the comic spirit into wit and humour. "Humour," he says, "is the
 describing the ludicrous as it is in itself; wit is the exposing it, by
 comparing or contrasting it with something else. Humour is, as it were,
-the growth of nature and accident; wit is the product of art and fancy.
+the growth of nature and accident; wit is the product of art and [[Fancy|fancy]].
 Humour, as it is shown in books, is an imitation of the natural or
 acquired absurdities of mankind, or of the ludicrous in accident,
 situation and character; wit is the illustrating and heightening the
@@ -250,18 +250,18 @@ at or despise in a still more contemptible or striking point of view."
 Hazlitt's definition will, indeed, not stand analysis. The element of
 comparison is surely as necessary for humour as for wit. Yet his
 classification is valuable as illustrating the growth of the meaning of
-the word. Observe that Hazlitt has transferred to wit that power of
+the word. Observe that [[Hazlitt]] has transferred to wit that power of
 pleasing as by a flattering sense of our own superiority which Goldsmith
 attributed to humour. He had not thought, and had not heard, that
 sympathy is necessary to complete humour. He cannot have thought it
 needful, for if he had he would hardly have said of the _Arabian Nights_
 that they are "an inexhaustible mine of comic humour and invention,"
-"which from the manners of the East, which they describe, carry the
+"which from the [[Manners|manners]] of the East, which they describe, carry the
 principle of callous indifference in the jest as far as it can go." He
 might, and probably would, have dismissed Goldsmith's illustration as
 "low" in every conceivable sense. He would not have added, as we should
 to-day, that humour does not lie in laughter, according to the
-definition of Hobbes, in a "sudden glory," in a guffaw of self-conceited
+definition of [[Hobbes]], in a "sudden glory," in a guffaw of self-conceited
 triumph over the follies and deficiencies of others. If there is any
 place for humour in Goldsmith's sordid example, it must be made by pity,
 and shown by a deft introduction of the _de te fabula_ dear to
@@ -285,7 +285,7 @@ led by one who can play on his weakness--
 
           "for he loves to hear
   That unicorns may be betrayed with trees
-  And bears with glasses, elephants with holes,
+  And bears with glasses, [[Elephant|elephants]] with holes,
   Lions with toils, and men with flatterers;
   But when I tell him he hates flatterers
   He says he does; being then most flattered."
@@ -320,11 +320,11 @@ humourist, if high, has an embrace of contrasts beyond the scope of the
 comic poet." The third sentence is required to complete the first. The
 tumbling and rolling, the smacks and the exposure, may be out of place
 where there is humour of the most humorous quality. Who could associate
-them with Sir Walter Scott's characters of Bradwardine or Monkbarns?
+them with Sir Walter Scott's characters of [[Bradwardine]] or Monkbarns?
 Bradwardine, one feels, would have stopped them as he did the ill-timed
 jests of Sir Hew Halbert, "who was so unthinking as to deride my family
 name." Monkbarns was a man of peace who loved the company of Sir Priest
-better than that of Sir Knight. But there is that in him which cows mere
+better than that of Sir [[Knight]]. But there is that in him which cows mere
 ridicule, be it ever so genial. He cared not who knew so much of his
 valour, and by that very avowal of his preference took his position
 sturdily in the face of the world. But Meredith has given its due
@@ -337,7 +337,7 @@ embrace of contrasts beyond the scope of the comic poets."
 
 It is needless to insist that humour of this order is far older than the
 very modern application of the name. It is assuredly present in Horace.
-Chaucer, who knew the word only as meaning "liquid," has left a
+[[Chaucer]], who knew the word only as meaning "liquid," has left a
 masterpiece of humour in his prologue to the _Canterbury Pilgrims_. We
 look for the finest examples in Shakespeare. And if it is old, it is
 also more universal than is always allowed. National, or at least
@@ -345,12 +345,12 @@ racial, partiality, has led to the unfortunate judgment that humour is a
 virtue of the northern peoples. Yet Rabelais came from Touraine, and if
 the creator of Panurge has not humour, who has? The Italians may say
 that _umore_ in the English sense is unknown to them. They mean the
-word, not the thing, for it is in Ariosto. To claim the quality for
+word, not the thing, for it is in [[Ariosto]]. To claim the quality for
 Cervantes would indeed be to push at an open door. The humour of the
 Germans has been rarely indeed of so high an order as his. It has been
 found wherever humanity has been combined with a keen appreciation of
 the ludicrous. The appreciation may exist without the humanity. When
-Rivarol met the Chevalier Florian with a manuscript sticking out of his
+Rivarol met the [[Chevalier]] [[Florian]] with a [[Manuscript|manuscript]] sticking out of his
 pocket, and said, "How rash you are! if you were not known you would be
 robbed," he was making use of the comic spirit, but he was not humorous.
 When Rivarol himself, a man of dubious claim to nobility, was holding
@@ -365,13 +365,13 @@ lingers and expatiates, as in Dr Johnson's appreciation of Bet Flint.
 "Oh, a fine character, Madam! She was habitually a slut and a drunkard,
 and occasionally a thief and a harlot. And for heaven's sake how came
 you to know her? Why, Madam, she figured in the literary world too! Bet
-Flint wrote her own life, and called herself Cassandra, and it was in
+Flint wrote her own life, and called herself [[Cassandra]], and it was in
 verse; it began:--
 
   'When nature first ordained my birth
    A diminutive I was born on earth
    And then I came from a dark abode
-   Into a gay and gaudy world.'
+   Into a gay and [[Gaudy|gaudy]] world.'
 
 "So Bet brought her verses to me to correct; but I gave her
 half-a-crown, and she liked it as well. Bet had a fine spirit; she

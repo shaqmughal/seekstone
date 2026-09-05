@@ -2,7 +2,7 @@
 
 KINGSLEY, CHARLES (1819-1875), English clergyman, poet and novelist, was
 born on the 12th of June 1819, at Holne vicarage, Dartmoor, Devon. His
-early years were spent at Barnack in the Fen country and at Clovelly in
+early years were spent at Barnack in the Fen country and at [[Clovelly]] in
 North Devon. The scenery of both made a great impression on his mind,
 and was afterwards described with singular vividness in his writings. He
 was educated at private schools and at King's College, London, after his
@@ -12,7 +12,7 @@ curacy of Eversley in Hampshire, to the rectory of which he was not long
 afterwards presented, and this, with short intervals, was his home for
 the remaining thirty-three years of his life. In 1844 he married Fanny,
 daughter of Pascoe Grenfell, and in 1848 he published his first volume,
-_The Saint's Tragedy_. In 1859 he became chaplain to Queen Victoria; in
+_The Saint's Tragedy_. In 1859 he became [[Chaplain|chaplain]] to Queen Victoria; in
 1860 he was appointed to the professorship of modern history at
 Cambridge, which he resigned in 1869; and soon after he was appointed to
 a canonry at Chester. In 1873 this was exchanged for a canonry at
@@ -39,16 +39,16 @@ members of a dominant race.
 
 With the sympathetic organization which made him keenly sensible of the
 wants of the poor, he threw himself heartily into the movement known as
-Christian Socialism, of which Frederick Denison Maurice was the
+Christian Socialism, of which Frederick [[Denison]] [[Maurice]] was the
 recognized leader, and for many years he was considered as an extreme
 radical in a profession the traditions of which were conservative. While
-in this phase he wrote his novels _Yeast_ and _Alton Locke_, in which,
+in this phase he wrote his novels _Yeast_ and _Alton [[Locke]]_, in which,
 though he pointed out unsparingly the folly of extremes, he certainly
 sympathized not only with the poor, but with much that was done and said
 by the leaders in the Chartist movement. Yet even then he considered
 that the true leaders of the people were a peer and a dean, and there
 was no real inconsistency in the fact that at a later period he was
-among the most strenuous defenders of Governor Eyre in the measures
+among the most strenuous defenders of Governor [[Eyre]] in the measures
 adopted by him to put down the Jamaican disturbances. He looked rather
 to the extension of the co-operative principle and to sanitary reform
 for the amelioration of the condition of the people than to any radical
@@ -79,7 +79,7 @@ very definite. But his healthy and stimulating influence was largely due
 to the fact that he interpreted the thoughts which were stirring in the
 minds of many of his contemporaries.
 
-As a preacher he was vivid, eager and earnest, equally plain-spoken and
+As a preacher he was vivid, eager and [[Earnest|earnest]], equally plain-spoken and
 uncompromising when preaching to a fashionable congregation or to his
 own village poor. One of the very best of his writings is a sermon
 called _The Message of the Church to Working Men_; and the best of his
@@ -88,11 +88,11 @@ preached in the early years of his Eversley life.
 
 As a novelist his chief power lay in his descriptive faculties. The
 descriptions of South American scenery in _Westward Ho!_, of the
-Egyptian desert in _Hypatia_, of the North Devon scenery in _Two Years
+Egyptian [[Desert|desert]] in _Hypatia_, of the North Devon scenery in _Two Years
 Ago_, are among the most brilliant pieces of word-painting in English
 prose-writing; and the American scenery is even more vividly and more
 truthfully described when he had seen it only by the eye of his
-imagination than in his work _At Last_, which was written after he had
+[[Imagination|imagination]] than in his work _At Last_, which was written after he had
 visited the tropics. His sympathy for children taught him how to secure
 their interests. His version of the old Greek stories entitled _The
 Heroes_, and _Water-babies_ and _Madam How and Lady Why_, in which he
@@ -118,11 +118,11 @@ as a novelist under the pseudonym of "Lucas Malet."
   Kingsley's life was written by his widow in 1877, entitled _Charles
   Kingsley, his Letters and Memories of his Life_, and presents a very
   touching and beautiful picture of her husband, but perhaps hardly does
-  justice to his humour, his wit, his overflowing vitality and boyish
+  justice to his [[Humour|humour]], his wit, his overflowing vitality and boyish
   fun.
 
   The following is a list of Kingsley's writings:--_Saint's Tragedy_, a
-  drama (1848); _Alton Locke_, a novel (1849); _Yeast_, a novel (1849);
+  [[Drama|drama]] (1848); _Alton Locke_, a novel (1849); _Yeast_, a novel (1849);
   _Twenty-five Village Sermons_ (1849); _Phaeton, or Loose Thoughts for
   Loose Thinkers_ (1852); _Sermons on National Subjects_ (1st series,
   1852); _Hypatia_, a novel (1853); _Glaucus, or the Wonders of the
@@ -145,7 +145,7 @@ as a novelist under the pseudonym of "Lucas Malet."
   included in _Prose Idylls_ and other works in the above list. But no
   collection has been made of some of his more characteristic writings
   in the _Christian Socialist_ and _Politics for the People_, many of
-  them signed by the pseudonym he then assumed, "Parson Lot."
+  them signed by the pseudonym he then assumed, "Parson [[Lot]]."
 
 ## References
 

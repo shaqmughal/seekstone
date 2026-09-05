@@ -16,7 +16,7 @@ for something one has once possessed but lost, hence regret or grief.
 The usual explanation of the word is to connect it with _sidus_, star,
 as in _considerare_, to examine the stars with attention, hence, to look
 closely at. If this is so, the history of the transition in meaning is
-unknown. J. B. Greenough (_Harvard Studies in Classical Philology_, i.
+unknown. J. B. [[Greenough]] (_Harvard Studies in Classical Philology_, i.
 96) has suggested that the word is a military slang term. According to
 this theory _desiderare_ meant originally to miss a soldier from the
 ranks at roll-call, the root being that seen in _sedere_, to sit,

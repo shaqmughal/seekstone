@@ -60,7 +60,7 @@ adjutant-general, chiefly at Washington, until 1861, being promoted
 major in 1856. In 1858-1859 he visited Europe. Whilst occupied in
 mustering volunteers at the capital, he was made brigadier-general in
 May 1861, and placed in command during the premature Virginian campaign
-of July, which ended in the defeat at Bull Run. Under McClellan he
+of July, which ended in the defeat at [[Bull]] Run. Under McClellan he
 became a corps commander and major-general of volunteers (March 1862).
 When the Peninsular campaign began McDowell's corps was detained against
 McClellan's wishes, sent away to join in the fruitless chase of

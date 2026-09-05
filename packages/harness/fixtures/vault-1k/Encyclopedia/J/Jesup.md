@@ -134,7 +134,7 @@ letters would want to know more than he had told them of the earthly
 life of the Lord Jesus. They would wish to be able to picture Him to
 their minds; and especially to understand what could have led to His
 being put to death by the Romans at the requisition of the Jews. St Paul
-had not been one of his personal disciples in Galilee or Jerusalem; he
+had not been one of his personal [[Disciple|disciples]] in Galilee or Jerusalem; he
 had no memories to relate of His miracles and teaching. Some written
 account of these was an obvious need. And we may be sure that any such
 narrative concerning One who was so deeply reverenced would be most
@@ -320,7 +320,7 @@ clear that conciliatory argument could have no effect upon the Jewish
 religious leaders. The controversy about the Sabbath had brought their
 dissatisfaction to a climax. Henceforth Jesus was to them a
 revolutionary, who must, by any means, be suppressed. After this
-decisive breach a new period opens. Jesus leaves Capernaum, never again,
+decisive [[Breach|breach]] a new period opens. Jesus leaves Capernaum, never again,
 it would seem, to appear in its synagogue. Henceforward He was to be
 found, with His disciples, on the shore of the lake, where vast
 multitudes gathered round Him, drawn not only from Galilee and Judaea,
@@ -643,7 +643,7 @@ crucifixion of Jesus. Pilate fulfilled his pledge by giving them the man
 of their choice, and Jesus, whom he had vainly hoped to release on a
 satisfactory pretext, he now condemned to the shameful punishments of
 scourging and crucifixion; for the cross, as Jesus had foreseen, was the
-inevitable fate of a Jewish pretender to sovereignty. The Roman soldiers
+inevitable [[Fate|fate]] of a Jewish pretender to sovereignty. The Roman soldiers
 mocked "the King of the Jews" with a purple robe and a crown of thorns.
 As they led Him out they forced the cross, which the sufferer commonly
 carried, upon the shoulders of one Simon of Cyrene, whose son's
@@ -880,7 +880,7 @@ Jesus is asked if the saved shall be few, He replies that the door is a
 narrow one. Then, changing His illustration, He says that many shall
 seek entrance in vain; for the master of the house will refuse to
 recognize them. But while they are excluded, a multitude from all
-quarters of the earth shall sit down with Abraham, Isaac and Jacob, and
+quarters of the earth shall sit down with Abraham, [[Isaac]] and Jacob, and
 the prophets in the kingdom of God.
 
 His eyes are now fixed on Jerusalem, where, like the prophets, He must
@@ -1018,7 +1018,7 @@ examined in turn the two earliest pictures which have been preserved to
 us of the life of Jesus Christ. The first portrays Him chiefly by a
 record of His actions, and illustrates His strength, His sympathy, and
 His freedom from conventional restraints. It shows the disturbing forces
-of these characteristics, which aroused the envy and apprehension of the
+of these characteristics, which aroused the envy and [[Apprehension|apprehension]] of the
 leaders of religion. The first bright days of welcome and popularity are
 soon clouded: the storm begins to lower. More and more the Master
 devotes Himself to the little circle of His disciples, who are taught

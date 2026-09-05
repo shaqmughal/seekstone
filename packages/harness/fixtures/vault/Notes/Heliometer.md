@@ -11,10 +11,10 @@ micrometer.
 
 [Illustration: FIG. 2.]
 
-  The discovery of the method of making measures by double images is
+  The discovery of the method of making measures by double [[Image|images]] is
   stated to have been first suggested by O. Roemer about 1768. But no
   such suggestion occurs in the _Basis Astronomiae_ of Peter Horrebow
-  (Copenhagen, 1735), which contains the only works of Roemer that
+  ([[Copenhagen]], 1735), which contains the only works of Roemer that
   remain to us. It would appear that to Servington Savary is due the
   first invention of a micrometer for measurement by double image. His
   heliometer (described in a paper communicated to the Royal Society in
@@ -25,7 +25,7 @@ micrometer.
   internal diameter represented by the dotted circle (fig. 2). The width
   of each of the portions aghc and acfe cut away from the lens was made
   slightly greater than the focal length of lens X tangent of sun's
-  greatest diameter. Thus at the focus two images of the sun were formed
+  greatest diameter. Thus at the [[Focus|focus]] two images of the sun were formed
   nearly in contact as in fig. 3. The small interval between the
   adjacent limbs was then measured with a wire micrometer.
 
@@ -47,7 +47,7 @@ micrometer.
 
   A third model proposed by Savary consists of two complete lenses of
   equal focal length, mounted in cylinders side by side, and attached to
-  a strong brass plate (fig. 5). Here, in order to fulfil the purposes
+  a strong [[Brass|brass]] plate (fig. 5). Here, in order to fulfil the purposes
   of the previous models, the distance of the centres of the lenses from
   each other should only slightly exceed the tangent of sun's diameter X
   focal length of lenses. Savary dwells on the difficulty both of
@@ -55,14 +55,14 @@ micrometer.
   adjusting and centring them.
 
   In the _Mem. Acad. de Paris_ (1748), Pierre Bouguer describes an
-  instrument which he calls a heliometer. Lalande in his _Astronomie_
+  instrument which he calls a heliometer. [[Lalande]] in his _Astronomie_
   (vol. ii. p. 639) mentions such a heliometer which had been in his
   possession from the year 1753, and of which he gives a representation
   on Plate XXVIII., fig. 186, of the same volume. Bouguer's heliometer
   was in fact similar to that of Savary's third model, with the
   important difference that, instead of both object-glasses being fixed,
   one of them is movable by a screw provided with a divided head. No
-  auxiliary filar micrometer was required, as in Savary's heliometer, to
+  [[Auxiliary|auxiliary]] filar micrometer was required, as in Savary's heliometer, to
   measure the interval between the limbs of two adjacent images of the
   sun, it being only necessary to turn the screw with the divided head
   to change the distance between the object-glasses till the two images
@@ -74,7 +74,7 @@ micrometer.
 
   [Illustration: FIG. 6.]
 
-  On the 4th of April 1754 John Dollond communicated a paper to the
+  On the 4th of April 1754 John [[Dollond]] communicated a paper to the
   Royal Society of London (_Phil. Trans._, vol. xlviii. p. 551) in which
   he shows that a micrometer can be much more easily constructed by
   dividing a single object-glass through its axis than by the employment
@@ -104,7 +104,7 @@ micrometer.
   an eye-glass fitted as usual in astronomical telescopes.
 
   "2. It may be applied to the end of a tube much shorter than its focal
-  distance, by having another convex glass within the tube, to shorten
+  distance, by having another [[Convex|convex]] glass within the tube, to shorten
   the focal distance of that which is cut in two.
 
   "3. It may be applied to the open end of a reflecting telescope,
@@ -124,7 +124,7 @@ micrometer.
   example of this instrument at the Cape Observatory the movable
   negative lenses consist of segments of the shape gach and acfe (fig.
   1) cut from a complete negative achromatic combination of 8(1/4) in.
-  aperture and about 41 ft. focal length, composed of a double concave
+  [[Aperture|aperture]] and about 41 ft. focal length, composed of a double concave
   flint lens and a double convex crown. This was applied to an excellent
   achromatic telescope of 3(1/4) in. aperture and 42 in. focal length. In
   this instrument a considerable linear relative movement of the divided
@@ -132,13 +132,13 @@ micrometer.
   image, so that simple verniers reading to 1/1000 in. are sufficient
   for measurement.
 
-  With one of these instruments of somewhat smaller dimensions
-  (telescope 2(1/2) in. aperture and 3(1/2) ft. focus), Franz von Paula
+  With one of these instruments of somewhat smaller [[Dimension|dimensions]]
+  (telescope 2(1/2) in. aperture and 3(1/2) ft. focus), [[Franz]] von Paula
   Triesnecker made a series of measurements at the observatory of Vienna
   which has been reduced by Dr Wilhelm Schur of Strasburg (_Nova Acta
-  der Ksl. Leop.-Carol. Deutschen Akademie der Natursforscher_, 1882,
+  der Ksl. Leop.-[[Carol]]. Deutschen Akademie der Natursforscher_, 1882,
   xlv. No. 3). The angle between the stars [zeta] and g Ursae maj.
-  (708".55) was measured on four nights; the probable error of a measure
+  (708".55) was measured on four nights; the probable [[Error|error]] of a measure
   on one night was [+-]0".44. Jupiter was measured on eleven nights in
   the months of June and July 1794; from these measures Schur derives
   the values 35".39 and 37".94 for the polar and equatorial diameter
@@ -160,17 +160,17 @@ micrometer.
   in any sustained or important astronomical researches, although a
   number of instruments of the kind were made by Dollond. Probably the
   last example of its employment is an observation of the transit of
-  Mercury (November 4, 1868) by Mann, at the Royal Observatory, Cape of
+  Mercury (November 4, 1868) by [[Mann]], at the Royal Observatory, Cape of
   Good Hope (_Monthly Notices R.A.S._ vol. xxix. p. 197-209). The most
   important part, however, which this type of instrument seems to have
-  played in the history of astronomy arises from the fact that one of
+  played in the history of [[Astronomy|astronomy]] arises from the fact that one of
   them was in the possession of Bessel at Konigsberg during the time
   when his new observatory there was being built. In 1812 Bessel
   measured with it the angle between the components of the double star
-  61 Cygni and observed the great comet of 1811. He also observed the
-  eclipse of the sun on May 4, 1818. In the discussion of these
+  61 Cygni and observed the great [[Comet|comet]] of 1811. He also observed the
+  [[Eclipse|eclipse]] of the sun on May 4, 1818. In the discussion of these
   observations (_Konigsberger Beobacht_, Abt. 5, p. iv.) he found that
-  the index error of the scale changed systematically in different
+  the [[Index|index]] error of the scale changed systematically in different
   position angles by quantities which were independent of the direction
   of gravity relative to the position angle under measurement, but which
   depended solely on the direction of the measured position angle
@@ -188,7 +188,7 @@ micrometer.
   ask, should he not select the simple form of Dollond's first type?
   Given the achromatic object-glass, why should not it be divided? This
   construction would give all the advantage of the younger Dollond's
-  object-glass micrometer, and more than its sharpness of definition,
+  object-glass micrometer, and more than its sharpness of [[Definition|definition]],
   without liability to the systematic errors which may be due to want of
   homogeneity of the object-glass; for the lenses will not be turned
   with respect to each other, but, in measurement, will always have the
@@ -198,9 +198,9 @@ micrometer.
   that, even in a telescope of 10 ft. focus, would correspond with 2"
   of arc. But, after all, this is no practical difficulty, for screws
   can be used to separate the lenses, and, by these screws, as in a
-  Gascoigne micrometer, the separation of the lenses can be measured; or
+  [[Gascoigne]] micrometer, the separation of the lenses can be measured; or
   we can have scales for this purpose, read by microscopes, like the
-  Troughton[1] circles of Piazzi or Pond, or those of the Carey circle,
+  Troughton[1] circles of Piazzi or Pond, or those of the [[Carey]] circle,
   with almost any required accuracy.
 
   Whether Bessel communicated such a course of reasoning to Fraunhofer,
@@ -238,7 +238,7 @@ micrometer.
   fitted and ground to rotate smoothly on the flange h. Rotation is
   communicated by a pinion, turned by the handle c (concealed in the
   figure), which works in teeth cut on the edge of the flange h. The
-  counterpoise w balances the head about its axis of rotation. The
+  counterpoise w [[Balance|balances]] the head about its axis of rotation. The
   slides are moved by the screws a and b, the divided heads of which
   serve to measure the separation of the segments. These screws are
   turned from the eye-end by bevelled wheels and pinions, the latter
@@ -256,7 +256,7 @@ micrometer.
   ring is necessary in order to allow the rods to follow the micrometer
   heads when the position angle is changed. Complete rotation of the
   head is obviously impossible because of the interference of the
-  declination axis with the rods, and therefore, in some angles, objects
+  [[Declination|declination]] axis with the rods, and therefore, in some angles, objects
   cannot be measured in two positions of the circle. The object-glass
   has an aperture of 6(1/2) in. and 102 in. focal length.
 
@@ -307,11 +307,11 @@ micrometer.
   indicated, by notes in his handbooks, the following points which
   should be kept in mind in the construction of future heliometers: (1)
   The segments should move in cylindrical slides;[5] (2) the screw
-  should be protected from dust;[6] (3) the zero of the position circle
+  should be protected from [[Dust|dust]];[6] (3) the zero of the position circle
   should not be so liable to change;[7] (4) the distance of the optical
   centres of the segments should not change in different position angles
   or otherwise;[8] (5) the points of the micrometer screws should rest
-  on ivory plates;[9] (6) there should be an apparatus for changing the
+  on [[Ivory|ivory]] plates;[9] (6) there should be an apparatus for changing the
   screen.[10]
 
   Wilhelm Struve, in describing the Pulkowa heliometer,[11] made by
@@ -350,7 +350,7 @@ micrometer.
   scale and its coefficient of expansion, would enable the change of
   screw-value to be determined at any instant.
 
-  It is probable that the Bonn heliometer was in course of construction
+  It is probable that the [[Bonn]] heliometer was in course of construction
   before these suggestions of Struve were published or discussed, since
   its construction resembles that of the Konigsberg and Pulkowa
   instruments. Its dimensions are similar to those of the former
@@ -414,7 +414,7 @@ micrometer.
   acting on the bevel-wheel g' (fig. 10). h is a milled head connected
   by a rod with h' (fig. 10), for the purpose of interposing at pleasure
   the prism [pi] in the axis of the reading micrometer; this enables the
-  observer to view the graduations on the face of the metallic
+  observer to view the [[Graduation|graduations]] on the face of the metallic
   thermometer [tau tau] (composed of a rod of brass and a rod of zinc),
   i is a milled head connected with the wheel i'i' (fig. 10), and
   affords the means of placing the screen s (fig. 9), counterpoised by w
@@ -435,10 +435,10 @@ micrometer.
   and are kept down by the brass pieces t, t.
 
   A similar heliometer was made by the Repsolds to the order of Lord
-  Lindsay for his Mauritius expedition in 1874. It differed only from
-  the three Russian instruments in having a mounting by the Cookes in
+  Lindsay for his [[Mauritius]] expedition in 1874. It differed only from
+  the three Russian instruments in having a mounting by the [[Cooke|Cookes]] in
   which the declination circle reads from the eye-end.[16] This
-  instrument was afterwards most generously lent by Lord Lindsay to Gill
+  instrument was afterwards most generously [[Lent|lent]] by Lord Lindsay to [[Gill]]
   for his expedition to Ascension in 1877.[17]
 
   These four Repsold heliometers proved to be excellent instruments,
@@ -476,7 +476,7 @@ micrometer.
   aperture and 98 in. focal length. The mounting, the tube,
   objective-cell, slides, &c., are all of steel.[18] The instrument is
   shown in fig. 11. The circles for position angle and declination are
-  read by micrometer-microscopes illuminated by the lamp L; the scales
+  read by micrometer-microscopes illuminated by the [[Lamp|lamp]] L; the scales
   are illuminated by the lamp l. T is part of the tube proper, and turns
   with the head. The tube V, on the contrary, is attached to the cradle,
   and merely forms a support for the finder Q, the handles at f and p,
@@ -490,7 +490,7 @@ micrometer.
   screens. The hour circle is also read by microscopes, and the
   instrument can be used in both positions (tube preceding and
   following) for elimination of the effect of flexure on the position
-  angles. Elkin found that the chief drawbacks to speed and convenience
+  angles. Elkin found that the chief [[Drawback|drawbacks]] to speed and convenience
   in working this heliometer were: (1) The loss of time involved in
   entering the corresponding readings of the micrometer pointings on two
   scales. (2) That an additional motion intermediate between the quick
@@ -530,7 +530,7 @@ micrometer.
 
   [Illustration: FIG. 14.]
 
-  [Illustration: From _Engineering_, vol. xlix.
+  [Illustration: From _[[Engineering]]_, vol. xlix.
 
   FIG. 15.]
 
@@ -538,7 +538,7 @@ micrometer.
   at the Cape of Good Hope, Repsolds, on Gill's suggestion, introduced
   the following improvements: (a) Four different speeds of motion in
   position angle were provided. The quickest movement is given by the
-  hand-ring, 73 (fig. 15). This ring runs between friction wheels and is
+  hand-ring, 73 (fig. 15). This ring runs between [[Friction|friction]] wheels and is
   provided with teeth on its inner periphery, and these teeth transmit
   motion to a pinion on a spindle having at its other end another pinion
   which, through an intermediate wheel, rotates the heliometer tube. The
@@ -562,11 +562,11 @@ micrometer.
   switches and variable resistances. Thus the scales, the position- and
   declination-circles, the field of view, the heads of all the
   micrometer-microscopes, the focusing scale, &c., are read without the
-  aid of a hand-lamp and with an amount of illumination that can be
+  aid of a hand-lamp and with an amount of [[Illumination|illumination]] that can be
   regulated at the observer's pleasure.
 
   (c) A button in the centre of the position-angle handle (74) connects
-  with a chronograph which enables the observer to record the instant of
+  with a [[Chronograph|chronograph]] which enables the observer to record the instant of
   observation. Little card-holders (81) (also illuminated) enable the
   astronomer to enter beforehand the R.A. and Dec. of the object to be
   observed, the scale divisions to be pointed upon, and thus, in
@@ -583,7 +583,7 @@ micrometer.
   the division errors of the scales. It enables the observer to compare
   any division-interval on one half of either scale with any
   corresponding interval on the other scale. With this apparatus Gill
-  was enabled (_Annals Cape Obs._ vii. 29-42, and _Monthly Notices,
+  was enabled (_[[Annals]] Cape Obs._ vii. 29-42, and _Monthly Notices,
   R.A.S._, xlix. 105-115) to determine the division error of every line
   on both scales with a probable error corresponding to [+-]0".0092 arc.
 
@@ -702,7 +702,7 @@ micrometer.
   mounting such a prism has been found to be the following. l^1, l^2
   (fig. 17) are the eye lens and field lens respectively of a Merz
   positive eye-piece. In this construction the lenses are much closer
-  together and the diaphragm for the eye is much farther from the lenses
+  together and the [[Diaphragm|diaphragm]] for the eye is much farther from the lenses
   than in Ramsden's eye-piece. The prism p is fitted accurately into
   brass slides (care has to be taken in the construction to place the
   prism so that an object in the centre of the field will so remain when
@@ -711,7 +711,7 @@ micrometer.
   when pushed home, in its adapter, to this collar. The prism and
   eye-piece are then rotated together in the adapter.
 
-  _The Double Image Micrometer._--Thomas Clausen in 1841 (_Ast. Nach._
+  _The Double Image Micrometer._--Thomas [[Clausen]] in 1841 (_Ast. Nach._
   No. 414) proposed a form of micrometer consisting of a divided plate
   of parallel glass placed within the cone of rays from the object-glass
   at right angles to the telescope axis. One-half of this plane remains
@@ -724,7 +724,7 @@ micrometer.
   gives an account of some experiments with a similar micrometer; and
   Ignarjio Porro (_Comptes rendus_, xli. p. 1058) claims the original
   invention and construction of such a micrometer in 1842. Clausen,
-  however, has undoubted priority. Helmholtz in his "Ophthalmometer" has
+  however, has undoubted priority. [[Helmholtz]] in his "Ophthalmometer" has
   employed Clausen's principle, but arranges the plates so that both
   move symmetrically in opposite directions with respect to the
   telescope axis. Should Clausen's micrometer be employed as an
@@ -783,7 +783,7 @@ micrometer.
   referred to that paper for an exhaustive history and discussion of the
   instrument.[20] It is somewhat surprising that, after Kaiser's
   investigations, observers should continue, as many have done, to
-  discuss their observations with this instrument as if the screw-value
+  [[Discus|discuss]] their observations with this instrument as if the screw-value
   were constant for all angles.
 
   Steinheil (_Journal savant de Munich_, Feb. 28, 1843) describes a
@@ -793,7 +793,7 @@ micrometer.
   that the divided lens is an achromatic positive instead of a negative
   lens. Struve (_Description de l'Observatoire Central de Pulkowa_, pp.
   196, 197) adds a few remarks to Steinheil's description, in which he
-  states that the images have not all desirable precision--a fault
+  states that the images have not all desirable precision--a [[Fault|fault]]
   perhaps inevitable in all micrometers with divided lenses, and which
   is probably in this case aggravated by the fact that the rays falling
   upon the divided lens have considerable convergence. He, however,
@@ -812,7 +812,7 @@ micrometer.
   Ramsden (_Phil. Trans._ vol. xix. p. 419) suggested the division of
   the small speculum of a Cassegrain telescope and the production of
   double image by micrometric rotation of the semispecula in the plane
-  passing through their axis. Brewster (_Ency. Brit._ 8th ed. vol. xiv.
+  passing through their axis. [[Brewster]] (_Ency. Brit._ 8th ed. vol. xiv.
   p. 749) proposed a plan on a like principle, by dividing the plane
   mirror of a Newtonian telescope. Again, in an ocular heliometer by
   Steinheil double image is similarly produced by a divided prism of
@@ -885,7 +885,7 @@ micrometer.
 
   On the theory of the heliometer and its use consult Bessel,
   _Astronomische Untersuchungen_, vol. i.; Hansen, _Ausfuhrliche Methode
-  mit dem Fraunhoferschen Heliometer anzustellen_ (Gotha, 1827);
+  mit dem Fraunhoferschen Heliometer anzustellen_ ([[Gotha]], 1827);
   Chauvenet, _Spherical and Practical Astronomy_, vol. ii. (Philadelphia
   and London, 1876); Seeliger, _Theorie des Heliometers_ (Leipzig,
   1877); Lindsay and Gill, _Dunecht Publications_, vol. ii. (Dunecht,
@@ -899,13 +899,13 @@ FOOTNOTES:
     Germany, were read by verniers only.
 
   [2] The diameter of Venus was measured with one of these heliometers
-    at the observatory of Breslau by Brandes in 1820 (_Berlin Jahrbuch_,
+    at the observatory of Breslau by [[Brand|Brandes]] in 1820 (_Berlin Jahrbuch_,
     1824, p. 164).
 
   [3] The distances of the optical centres of the segments from the
     eye-piece are in this method as 1; secant of the angle under
     measurement. In Bessel's heliometer this would amount to a difference
-    of 15/1000th of an inch when an angle of 1 deg. is measured. For 2
+    of 15/1000th of an [[Inch|inch]] when an angle of 1 deg. is measured. For 2
     deg. the difference would amount to nearly 1/10th of an inch. Bessel
     confined his measures to distances considerably less than 1 deg.
 
@@ -962,7 +962,7 @@ FOOTNOTES:
     for Struve. This instrument suggested to Struve the above-mentioned
     idea of employing a similar motion for the heliometer.
 
-  [14] Manuel Johnson, M.A., Radcliffe observer, _Astronomical
+  [14] [[Manuel]] Johnson, M.A., Radcliffe observer, _Astronomical
     Observations made at the Radcliffe Observatory, Oxford, in the Year
     1850_, Introduction, p. iii.
 
@@ -984,7 +984,7 @@ FOOTNOTES:
     rigidity for the tube then became evident.
 
   [19] For description of the earliest form see _Cambridge Phil.
-    Trans._ vol. ii., and _Greenwich Observations_ (1840).
+    Trans._ vol. ii., and _[[Greenwich]] Observations_ (1840).
 
   [20] Dawes (_Monthly Notices_, January 1858, and _Mem. R.A.S._ vol.
     xxxv. p. 150) suggested and used a valuable improvement for producing

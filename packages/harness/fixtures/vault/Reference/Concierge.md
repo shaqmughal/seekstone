@@ -8,7 +8,7 @@ id: 42-6032
 # Concierge
 
 CONCIERGE (a French word of unknown origin; the Latinized form was
-_concergius_ or _concergerius_), originally the guardian of a house or
+_concergius_ or _concergerius_), originally the [[Guardian|guardian]] of a house or
 castle, in the middle ages a court official who was the custodian of a
 royal palace. In Paris, when the _Palais de la Cité_ ceased about 1360
 to be a royal residence and became the seat of the courts of justice,

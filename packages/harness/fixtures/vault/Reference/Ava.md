@@ -1,7 +1,7 @@
 # Ava
 
 AVA, the ancient capital of the Burman empire, now a subdivision of the
-Sagaing district in the Sagaing division of Upper Burma. It is situated on
+Sagaing district in the Sagaing division of Upper [[Burma]]. It is situated on
 the Irrawaddy on the opposite [v.03 p.0051] bank to Sagaing, with which it
 was amalgamated in 1889. Amarapura, another ancient capital, lies 5 m. to
 the north-east of Ava, and Mandalay, the present capital, 6 m. to the

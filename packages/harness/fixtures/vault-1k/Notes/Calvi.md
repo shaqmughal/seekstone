@@ -6,7 +6,7 @@ topic: natural-history
 
 # Calvi
 
-CALVI, a sea-port in Corsica, capital of an arrondissement in the N.W.
+CALVI, a sea-port in [[Corsica]], capital of an arrondissement in the N.W.
 of the island, 112 m. N. of Ajaccio by road. Pop. (1906) 1967. It is
 situated on the Bay of Calvi, in a malarial region, and is the port in
 Corsica nearest to France, being 109 m. from Antibes; the harbour,

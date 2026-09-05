@@ -9,7 +9,7 @@ type: article
 
 MACCLESFIELD, CHARLES GERARD, 1ST EARL OF (c. 1618-1694), eldest son
 of Sir Charles Gerard, was a member of an old Lancashire family, his
-great-grandfather having been Sir Gilbert Gerard (d. 1593) of Ince, in
+great-grandfather having been Sir Gilbert Gerard (d. 1593) of [[Ince]], in
 that county, one of the most distinguished judges in the reign of
 Elizabeth. His mother was Penelope Fitton of Gawsworth, Cheshire.
 Charles Gerard was educated abroad, and in the Low Countries learnt
@@ -32,10 +32,10 @@ Brandon in the county of Suffolk; but about the same time he appears to
 have forfeited Charles's favour by having attached himself to the party
 of Prince Rupert, with whom after the surrender of Oxford Gerard
 probably went abroad. He remained on the Continent throughout the whole
-period of the Commonwealth, sometimes in personal attendance on Charles
+period of the [[Commonwealth]], sometimes in personal attendance on Charles
 II., at others serving in the wars under Turenne, and constantly engaged
 in plots and intrigues. For one of these, an alleged design on the life
-of Cromwell, his cousin Colonel John Gerard was executed in the Tower in
+of [[Cromwell]], his [[Cousin|cousin]] Colonel John Gerard was executed in the Tower in
 July 1654. At the Restoration Gerard rode at the head of the king's
 life-guards in his triumphal entry into London; his forfeited estates
 were restored, and he received lucrative offices and pensions. In 1668
@@ -60,13 +60,13 @@ House plot, but was pardoned by the king. In 1689 he was elected member
 of parliament for Lancashire, which he represented till 1694, when he
 succeeded to his father's peerage. Having become a major-general in the
 same year, Macclesfield saw some service abroad; and in 1701 he was
-selected first commissioner for the investiture of the elector of
-Hanover (afterwards King George I.) with the order of the Garter, on
+selected first commissioner for the [[Investiture|investiture]] of the elector of
+[[Hanover]] (afterwards King George I.) with the order of the Garter, on
 which occasion he also was charged to present a copy of the Act of
 Settlement to the dowager electress Sophia. He died on the 5th of
 November 1701, leaving no legitimate children.
 
-In March 1698 Macclesfield was divorced from his wife Anna, daughter of
+In March 1698 Macclesfield was divorced from his wife [[Anna]], daughter of
 Sir Richard Mason of Sutton, by act of parliament, the first occasion on
 which a divorce was so granted without a previous decree of an
 ecclesiastical court. The countess was the mother of two children, who
@@ -83,9 +83,9 @@ In 1721 the title of earl of Macclesfield was revived in favour of
 THOMAS PARKER (c. 1666-1732). The son of Thomas Parker, an attorney at
 Leek, young Parker was a student at Trinity College, Cambridge, and
 became a barrister in 1691. In 1705 he was elected member of parliament
-for Derby, and having gained some reputation in his profession, he took
+for [[Derby]], and having gained some reputation in his profession, he took
 a leading part in the proceedings against Sacheverell in 1710. In the
-same year he was appointed lord chief justice of the queen's bench, but
+same year he was appointed lord chief justice of the queen's [[Bench|bench]], but
 he refused to become lord chancellor in the following year; however he
 accepted this office in 1718, two years after he had been made Baron
 Parker of Macclesfield by George I., who held him in high esteem. In
@@ -102,7 +102,7 @@ the 28th of April 1732.
 Macclesfield's only son, GEORGE, (c. 1697-1764) 2nd earl of Macclesfield
 of this line, was celebrated as an astronomer. As Viscount Parker he was
 member of parliament for Wallingford from 1722 to 1727, but his
-interests were not in politics. In 1722 he became a fellow of the Royal
+interests were not in politics. In 1722 he became a [[Fellow|fellow]] of the Royal
 Society, and he spent most of his time in astronomical observations at
 his Oxfordshire seat, Shirburn Castle, which had been bought by his
 father in 1716; here he built an observatory and a chemical laboratory.
@@ -115,7 +115,7 @@ Royal Society, and he made some observations on the great earthquake of
 1755. His successor was his son Thomas (1723-1795), from whom the
 present earl is descended.
 
-  For the earls of the Gerard family see Lord Clarendon, _History of the
+  For the earls of the Gerard family see Lord [[Clarendon]], _History of the
   Rebellion_, ed. by W. D. Macray; E. B. G. Warburton, _Memoirs of
   Prince Rupert and the Cavaliers_ (3 vols., 1849); _State Papers of
   John Thurloe_ (7 vols., 1742); J. R. Phillips, _Memoirs of the Civil

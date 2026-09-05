@@ -6,10 +6,10 @@ topic: botany
 
 # Lenau
 
-LENAU, NIKOLAUS, the pseudonym of NIKOLAUS FRANZ NIEMBSCH VON STREHLENAU
+LENAU, NIKOLAUS, the pseudonym of NIKOLAUS [[Franz|FRANZ]] NIEMBSCH VON STREHLENAU
 (1802-1850), Austrian poet, who was born at Csatád near Temesvar in
 Hungary, on the 15th of August 1802. His father, a government official,
-died at Budapest in 1807, leaving his children to the care of an
+died at [[Budapest]] in 1807, leaving his children to the care of an
 affectionate, but jealous and somewhat hysterical, mother, who in 1811
 married again. In 1819 the boy went to the university of Vienna; he
 subsequently studied Hungarian law at Pressburg and then spent the best
@@ -18,20 +18,20 @@ to settle down to any profession. He had early begun to write verses;
 and the disposition to sentimental melancholy acquired from his mother,
 stimulated by love disappointments and by the prevailing fashion of the
 romantic school of poetry, settled into gloom after his mother's death
-in 1829. Soon afterwards a legacy from his grandmother enabled him to
+in 1829. Soon afterwards a [[Legacy|legacy]] from his grandmother enabled him to
 devote himself wholly to poetry. His first published poems appeared in
-1827, in J. G. Seidl's _Aurora_. In 1831 he went to Stuttgart, where he
+1827, in J. G. Seidl's _[[Aurora]]_. In 1831 he went to Stuttgart, where he
 published a volume of _Gedichte_ (1832) dedicated to the Swabian poet
 Gustav Schwab. Here he also made the acquaintance of Uhland, Justinus
-Kerner, Karl Mayer[1] and others; but his restless spirit longed for
+[[Kerner]], Karl [[Mayer]][1] and others; but his restless spirit longed for
 change, and he determined to seek for peace and freedom in America. In
-October 1832 he landed at Baltimore and settled on a homestead in Ohio.
+October 1832 he landed at Baltimore and settled on a [[Homestead|homestead]] in Ohio.
 But the reality of life in "the primeval forest" fell lamentably short
 of the ideal he had pictured; he disliked the Americans with their
 eternal "English lisping of dollars" (_englisches Talergelispel_); and
 in 1833 he returned to Germany, where the appreciation of his first
 volume of poems revived his spirits. From now on he lived partly in
-Stuttgart and partly in Vienna. In 1836 appeared his _Faust_, in which
+Stuttgart and partly in Vienna. In 1836 appeared his _[[Faust]]_, in which
 he laid bare his own soul to the world; in 1837, _Savonarola_, an epic
 in which freedom from political and intellectual tyranny is insisted
 upon as essential to Christianity. In 1838 appeared his _Neuere
@@ -43,11 +43,11 @@ other." In 1842 appeared _Die Albigenser_, and in 1844 he began writing
 his _Don Juan_, a fragment of which was published after his death. Soon
 afterwards his never well-balanced mind began to show signs of
 aberration, and in October 1844 he was placed under restraint. He died
-in the asylum at Oberdöbling near Vienna on the 22nd of August 1850.
+in the [[Asylum|asylum]] at Oberdöbling near Vienna on the 22nd of August 1850.
 Lenau's fame rests mainly upon his shorter poems; even his epics are
 essentially lyric in quality. He is the greatest modern lyric poet of
 Austria, and the typical representative in German literature of that
-pessimistic _Weltschmerz_ which, beginning with Byron, reached its
+pessimistic _Weltschmerz_ which, beginning with [[Byron]], reached its
 culmination in the poetry of Leopardi.
 
   Lenau's _Sämtliche Werke_ were published in 4 vols. by A. Grün (1855);
@@ -64,7 +64,7 @@ culmination in the poetry of Leopardi.
 
 FOOTNOTE:
 
-  [1] Karl Friedrich Hartmann Mayer (1786-1870), poet, and biographer
+  [1] Karl [[Friedrich]] Hartmann Mayer (1786-1870), poet, and biographer
     of Uhland, was by profession a lawyer and government official in
     Württemberg.
 

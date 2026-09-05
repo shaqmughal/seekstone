@@ -20,7 +20,7 @@ valuable MSS., among them one from the hand of S. Nilus (965); and a
 palaeographical school, for the copying of MSS. in the ancient style, is
 maintained. An _omophorion_ of the 11th or 12th century, with scenes
 from the Gospel in needlework, and a chalice of the 15th century with
-enamels, given by Cardinal Bessarion, the predecessor of Giuliano della
+enamels, given by Cardinal [[Bessarion]], the predecessor of Giuliano della
 Rovere as commendatory of the abbey, are among its treasures. An
 important exhibition of Italo-Byzantine art was held here in 1905-1906.
 

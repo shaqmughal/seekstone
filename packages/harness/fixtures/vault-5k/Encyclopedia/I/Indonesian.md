@@ -4,7 +4,7 @@ INDONESIAN, a term invented by James Richardson Logan to describe the
 light-coloured non-Malay inhabitants of the Eastern Archipelago. It now
 denotes all those peoples of Malaysia and Polynesia who are not to be
 classified as Malays or Papuans, but are of Caucasic type. Among these
-are the Battaks of north Sumatra; many of the Bornean Dyaks and
+are the Battaks of north Sumatra; many of the Bornean [[Dyaks]] and
 Philippine Islanders, and the large brown race of east Polynesia which
 includes Samoans, Maoris, Tongans, Tahitians, Marquesas Islanders and
 the Hawaiians.

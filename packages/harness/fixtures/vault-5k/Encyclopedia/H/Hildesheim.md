@@ -1,9 +1,9 @@
 # Hildesheim
 
 HILDESHEIM, a town and episcopal see of Germany, in the Prussian
-province of Hanover, beautifully situated at the north foot of the Harz
+province of [[Hanover]], beautifully situated at the north foot of the Harz
 Mountains, on the right bank of the Innerste, 18 m. S.E. of Hanover by
-railway, and on the main line from Berlin, via Magdeburg to Cologne.
+railway, and on the main line from Berlin, via [[Magdeburg]] to Cologne.
 Pop. (1885) 20,386, (1905) 47,060. The town consists of an old and a new
 part, and is surrounded by ramparts which have been converted into
 promenades. Its streets are for the most part narrow and irregular, and
@@ -29,7 +29,7 @@ pretty cloister garth, with the chapel of St Anne, erected in 1321 and
 restored in 1888. The Romanesque church of St Godehard was built in the
 12th century and restored in the 19th. The church of St Michael, founded
 by Bishop Bernward early in the 11th century and restored after injury
-by fire in 1186, contains a unique painted ceiling of the 12th century,
+by fire in 1186, contains a unique painted [[Ceiling|ceiling]] of the 12th century,
 the sarcophagus and monument of Bishop Bernward, and a bronze font; it
 is now a Protestant parish church, but the crypt is used by the Roman
 Catholics. The church of the Magdalene possesses two candelabra, a gold
@@ -41,11 +41,11 @@ founded in 1040, the only pure columnar basilica in north Germany.
 The chief secular buildings are the town-hall (Rathaus), which dates
 from the 15th century and was restored in 1883-1892, adorned with
 frescoes illustrating the history of the city; the Tempelherrenhaus, in
-Late Gothic erroneously said to have been built by the Knights Templars;
+Late [[Gothic]] erroneously said to have been built by the [[Knight|Knights]] Templars;
 the Knochenhaueramthaus, formerly the gild-house of the butchers, which
 was restored after being damaged by fire in 1884, and is probably the
 finest specimen of a wooden building in Germany; the Michaelis
-monastery, used as a lunatic asylum; and the old Carthusian monastery.
+monastery, used as a lunatic [[Asylum|asylum]]; and the old Carthusian monastery.
 The Romer museum of antiquities and natural history is housed in the
 former church of St Martin; the buildings of Trinity hospital, partly
 dating from the 14th century, are now a factory; and the Wedekindhaus
@@ -54,7 +54,7 @@ Roman Catholic and a Lutheran gymnasium, a Roman Catholic school and
 college and two technical institutions, the Georgstift for daughters of
 state servants and a conservatoire of music. Hildesheim is the seat of
 considerable industry. Its chief productions are sugar, tobacco and
-cigars, stoves, machines, vehicles, agricultural implements and bricks.
+[[Cigar|cigars]], stoves, [[Machine|machines]], vehicles, agricultural [[Implement|implements]] and [[Brick|bricks]].
 Other trades are brewing and tanning. It is connected with Hanover by an
 electric tram line, 19 m. in length.
 
@@ -76,7 +76,7 @@ known as the _Hildesheimer Stiftsfehde_, which broke out early in the
 bishop and his allies were successful, but in 1521 the king of Denmark
 and the duke of Brunswick overran his lands and in 1523 he made peace,
 surrendering nearly all his possessions. Much, however, was restored
-when Ferdinand, prince of Bavaria, was bishop (1612-1650), as this
+when [[Ferdinand]], prince of Bavaria, was bishop (1612-1650), as this
 warlike prelate took advantage of the disturbances caused by the Thirty
 Years' War to seize the lost lands, and at the beginning of the 19th
 century the extent of the prince bishopric was 682 sq. m. In 1801 the
@@ -91,10 +91,10 @@ In October 1868 a unique collection of ancient Augustan silver plate was
 discovered on the Galgenberg near Hildesheim by some soldiers who were
 throwing up earthworks. This _Hildesheimer Silberfund_ excited great
 interest among classical archaeologists. Some authorities think that it
-is the actual plate which belonged to Drusus himself. The most
-noteworthy pieces are a crater richly ornamented with arabesques and
+is the actual plate which belonged to [[Drusus]] himself. The most
+noteworthy pieces are a crater richly ornamented with [[Arabesque|arabesques]] and
 figures of children, a platter with a representation of Minerva, another
-with one of the boy Hercules and another with one of Cybele. The
+with one of the boy [[Hercules]] and another with one of [[Cybele]]. The
 collection is in the Kunstgewerbemuseum in Berlin.
 
   See the _Urkundenbuch der Stadt Hildesheim_, edited by R. Dobner
@@ -112,7 +112,7 @@ collection is in the Kunstgewerbemuseum in Berlin.
   Lachner, _Die Holzarchitektur Hildesheims_ (Hildesheim, 1882);
   Seifart, _Sagen, Marchen, Schwanke und Gebrauche aus Stadt und Stift
   Hildesheims_ (Hildesheim, 1889). For the _Hildesheimer Stiftsfehde_,
-  see H. Delius, _Die Hildesheimische Stiftsfehde_ 1519 (Leipzig, 1803).
+  see H. [[Delius]], _Die Hildesheimische Stiftsfehde_ 1519 (Leipzig, 1803).
   For the _Hildesheimer Silberfund_, see Wieseler, _Der Hildesheimer
   Silberfund_ (Gottingen, 1869); Holzer, _Der Hildesheimer antike
   Silberfund_ (Hildesheim, 1871); and E. Pernice and F. Winter, _Der

@@ -12,8 +12,8 @@ Longsight, near Manchester, on the 24th of January 1800. Called to the
 bar without any independent means, he sought to support himself by
 literary work, and his essays in the _Westminster Review_ (mainly on
 different methods of applying scientific knowledge to the business of
-government) introduced him to the notice of Jeremy Bentham, who engaged
-him as a literary assistant and left him a handsome legacy. In 1832 he
+government) introduced him to the notice of [[Jeremy]] [[Bentham]], who engaged
+him as a literary assistant and left him a handsome [[Legacy|legacy]]. In 1832 he
 was employed by the royal commission appointed to inquire into the
 operation of the poor laws, and in 1833 he was made a full member of
 that body. In conjunction with Nassau W. Senior he drafted the
@@ -23,7 +23,7 @@ administration. He favoured, however, a much more centralized system of
 administration than was adopted, and he never ceased to complain that
 the reform of 1834 was fatally marred by the rejection of his views,
 which contemplated the management of poor-law relief by salaried
-officers controlled from a central board, the boards of guardians acting
+officers controlled from a central board, the boards of [[Guardian|guardians]] acting
 merely as inspectors. In 1834 he was appointed secretary to the poor law
 commissioners. Finding himself unable to administer in accordance with
 his own views an act of which he was largely the author, his relations
@@ -31,7 +31,7 @@ with his official chiefs became much strained, and the disagreement led,
 among other causes, to the dissolution of the poor law commission in
 1846. Chadwick's chief contribution to political controversy was his
 constant advocacy of entrusting certain departments of local affairs to
-trained and selected experts, instead of to representatives elected on
+trained and selected [[Expert|experts]], instead of to representatives elected on
 the principle of local self-government. While still officially connected
 with the poor law he had taken up the question of sanitation in
 conjunction with Dr Southwood Smith, and their joint labours produced a

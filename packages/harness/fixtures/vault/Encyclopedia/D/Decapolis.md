@@ -12,9 +12,9 @@ surrounding district, situated with one exception on the eastern side of
 the upper Jordan and the Sea of Tiberias. Being essentially a
 confederation of _cities_ it is impossible precisely to fix Decapolis as
 a _region_ with definite boundaries. The names of the original ten
-cities are given by Pliny; these are as follows: Damascus, Philadelphia,
+cities are given by Pliny; these are as follows: [[Damascus]], Philadelphia,
 Raphana, Scythopolis (= Beth-Shan, now _Beisan_, west of Jordan),
-Gadara, Hippos, Dion, Pella, Gerasa and Kanatha. Of these Damascus alone
+[[Gadara]], [[Hippo|Hippos]], Dion, Pella, [[Gerasa]] and Kanatha. Of these Damascus alone
 retains its importance. Scythopolis (as represented by the village of
 Beisan) is still inhabited; the ruins of Pella, Gerasa and Kanatha
 survive, but the other sites are unknown or disputed. Scythopolis, being
@@ -35,13 +35,13 @@ touching, if not overlapping, one another. A constant communication was
 maintained with the Mediterranean ports and with Greece, and there was a
 vigorous municipal life which found expression in literature, in
 athletic contests, and in a thriving commerce, thus carrying a truly
-Hellenic influence into Perea and Galilee. From Josephus we learn that
+Hellenic influence into Perea and [[Galilee]]. From Josephus we learn that
 the cities were severally subject to the governor of Syria and taxed for
 imperial purposes; some of them afterwards came under Herod's
 jurisdiction, but reserved the substantial rights granted them by
 Pompey.
 
-  The best account is in G. A. Smith's _Historical Geography of the Holy
+  The best account is in G. A. Smith's _Historical [[Geography]] of the Holy
   Land_, chap. xxviii.     (R. A. S. M.)
 
 ## See also

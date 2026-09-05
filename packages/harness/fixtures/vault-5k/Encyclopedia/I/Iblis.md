@@ -23,11 +23,11 @@ afterwards respited till the judgment day (Koran vii. 13).
 
 
 IBN 'ABD RABBIHI [Abu 'Umar Ahmad ibn Mahommed ibn 'Abd Rabbihi]
-(860-940), Arabian poet, was born in Cordova and descended from a freed
+(860-940), Arabian poet, was born in [[Cordova]] and descended from a freed
 slave of Hisham, the second Spanish Omayyad caliph. He enjoyed a great
 reputation for learning and eloquence. No diwan of his is extant, but
 many selections from his poems are given in the _Yatimat ud-Dahr_, i.
-412-436 (Damascus, 1887). More widely known than his poetry is his great
+412-436 ([[Damascus]], 1887). More widely known than his poetry is his great
 anthology, the _'Iqd ul-Farid_ ("The Precious Necklace"), a work divided
 into twenty-five sections, the thirteenth being named the middle jewel
 of the necklace, the chapters on either side of this being named after
@@ -51,7 +51,7 @@ God himself. Of his numerous works about 150 still exist. The most
 extensive is the twelve-volume _Futuhat ul-Makkiyat_ ("Meccan
 Revelations"), a general encyclopaedia of Sufic beliefs and doctrines.
 Numerous extracts from this work are contained in Sha'rani's (d. 1565)
-manual of Sufic dogma (_Yawaqit_) published several times in Cairo. A
+[[Manual|manual]] of Sufic dogma (_Yawaqit_) published several times in Cairo. A
 short account of these works is given in A. von Kremer's _Geschichte der
 herrschenden Ideen des Islams_, pp. 102-109 (Leipzig, 1868). Another
 characteristic and more accessible work of Ibn 'Arabi is the _Fusus

@@ -72,7 +72,7 @@ south-west and south.
   altitude. Besides these highest points there are a considerable number
   of mountains in the central provinces of Imèrina and Bétsiléo and the
   intervening and surrounding districts; and in the Bàra country the
-  Isàlo range has been compared to the "Church Buttes" and other
+  Isàlo range has been compared to the "Church [[Butt|Buttes]]" and other
   striking features of the scenery of Utah. One of the finest of the
   Madagascar mountains is an isolated mass near the northern point of
   the island called Ambòhitra. This is 4460 ft. high, and rising from
@@ -120,7 +120,7 @@ south-west and south.
   spreads over a greater extent of country, as also does the Mangòky.
   The rivers are all crossed frequently by rocky bars, which often form
   grand waterfalls. The eastern rivers cut their way through the
-  ramparts of the high land by magnificent gorges amidst dense forest,
+  ramparts of the high land by magnificent [[Gorges|gorges]] amidst dense forest,
   and descend by a succession of rapids and cataracts. The Màtitànana,
   whose falls were first seen by the writer in 1876, descends at one
   plunge some 400 ft.; and on the Vòhitra River, whose valley is
@@ -172,9 +172,9 @@ south-west and south.
 
   I. _The Archean Region._[1]--This region, nearly coincident with the
   mountainous upper portion of the island, is chiefly composed of the
-  following crystalline rocks: gneiss, which is the most common of them
+  following crystalline rocks: [[Gneiss|gneiss]], which is the most common of them
   all, quartzite and quartz-schist, with occasional beds of crystalline
-  limestone and mica-schist, although this latter rock is very rare. The
+  [[Limestone|limestone]] and mica-schist, although this latter rock is very rare. The
   gneiss is mostly grey, but occasionally pinkish, its essential
   constituents (felspar and quartz) being almost always associated with
   dark mica (biotite) and hornblende in variable quantity. The rock is
@@ -186,11 +186,11 @@ south-west and south.
   same as that of the trend of the island itself (N.N.E. to S.S.W.),
   but in its western portion the strike is frequently from N.N.W. to
   S.S.E. In both cases the strike of the rocks is coincident with the
-  direction of several large valleys, which mark huge faults in the
+  direction of several large valleys, which mark huge [[Fault|faults]] in the
   crystalline rocks. Almost the whole of this region is covered by a red
   soil, often of great thickness, which resembles and is often described
   as "clay," but is really decomposed rock, chiefly gneiss, reddened
-  with oxidized magnetite.
+  with oxidized [[Magnetite|magnetite]].
 
   II. _The Sedimentary Region._--The sedimentary rocks extend
   continuously along the western side of Madagascar, following the
@@ -219,9 +219,9 @@ south-west and south.
   conglomerates and shales, which have been supposed by some to belong
   to the Trias, without, however, the discovery of any fossil necessary
   to confirm this supposition, except some silicified trunks of trees.
-  These beds are most probably lower members of the Jurassic series.
+  These beds are most probably lower members of the [[Jurassic]] series.
   Westward of and above these strata, the Middle and Upper Jurassic
-  formations are found (Lias, Lower Oolite, Oxfordian, &c.), with
+  formations are found ([[Lias]], Lower Oolite, Oxfordian, &c.), with
   well-marked and numerous fossils (_Ammonites_, _Nerinaea_, _Natica_,
   _Astarte_, _Rhynchonella_, _Echinodermata_, &c.); then the Cretaceous
   rocks, both these and the Jurassic series being largely developed, the
@@ -251,7 +251,7 @@ south-west and south.
   _Palaeontology_.)
 
   _Igneous Rocks._ (1) _Plutonic rocks._--The ancient or plutonic
-  igneous rocks (including granite, syenite, diorite, gabbro, porphyry,
+  igneous rocks (including granite, syenite, [[Diorite|diorite]], gabbro, porphyry,
   porphyrite, norite and retinite) appear at various points of the two
   previously described regions. In the Archean region the gneiss is very
   often found passing into granite, but certain granitic masses have a
@@ -262,7 +262,7 @@ south-west and south.
   phonolite, andesite and basalt) have been examined at a number of
   points throughout both the geological regions of the island. In the
   Archean region these are very noticeable near Lake Itàsy, in the
-  _massif_ of Ankàratra (an ancient volcano) and in Vàkinankàratra (at
+  _[[Massif|massif]]_ of Ankàratra (an ancient volcano) and in Vàkinankàratra (at
   Bètàfo, Antsìrabé, &c.); while there are numerous outflows of
   doleritic rocks, probably from faults, along the eastern side of the
   island and almost parallel with the coast line. In the sedimentary
@@ -278,7 +278,7 @@ south-west and south.
   districts being a band of country parallel with the east coast and
   spreading at its southern end into the interior; and another tract,
   whose centre is about 100 m. N. of the capital (see § _Industries_,
-  &c.). Silver has been detected in certain galenas, and also platinum;
+  &c.). Silver has been detected in certain [[Galena|galenas]], and also platinum;
   copper has been found in various localities, as well as zinc, lead,
   nickel, antimony and manganese, but none of these metals has yet been
   discovered in sufficient quantities for profitable working. Iron, on
@@ -287,7 +287,7 @@ south-west and south.
   their ancestors from their original home in the Far East. The
   principal seats of the native industry are on the edge of the upper
   forest, where charcoal is easily procured. The following precious
-  stones are reported: corundum (rubies and sapphires), beryl, topaz,
+  stones are reported: [[Corundum|corundum]] (rubies and sapphires), [[Beryl|beryl]], topaz,
   zircon, garnet, amazon-stone, tourmaline, often in large crystals, and
   variously coloured quartz, also often found in crystals of great size.
   Bitumen and petroleum have been found; graphite is plentiful, and
@@ -296,25 +296,25 @@ south-west and south.
   valley of the Sàkamèira.
 
   _Palaeontology._--Researches in various parts of the island have
-  revealed the existence, in a subfossil state, of the bones of numerous
+  revealed the existence, in a subfossil state, of the [[Bone|bones]] of numerous
   birds of the family _Struthidae_. These have been arranged in twelve
   species, belonging to two genera, _Aepyornis_ and _Mullerornis_, which
   varied in size from that of a bustard to birds much exceeding an
   ostrich, and rivalling the recently extinct moa of New Zealand, the
   largest species being about 10 ft. in height. One species of these
-  great wingless birds laid an egg which is the largest known, being 12½
+  great wingless birds laid an [[Egg|egg]] which is the largest known, being 12½
   in. by 9½ in. Associated with these remains there have been found
-  those of many other birds, including a hawk, a duck, a darter, a
+  those of many other birds, including a [[Hawk|hawk]], a duck, a darter, a
   spoonbill, a heron, a rail and a wild-goose, some of these being much
   larger than any now inhabiting Madagascar. In the same beds the
-  remains of two, if not three, species of hippopotamus have been found,
+  remains of two, if not three, species of [[Hippopotamus|hippopotamus]] have been found,
   about two-thirds the size of the living South African species; also
-  the bones and carapace, &c., of gigantic tortoises, and the bones of a
-  crocodile, now extinct on the coast and rivers, but still living in
+  the bones and [[Carapace|carapace]], &c., of gigantic tortoises, and the bones of a
+  [[Crocodile|crocodile]], now extinct on the coast and rivers, but still living in
   the two chief lakes; also the remains of a river-hog, of a species of
   swine, and of a slender-legged form of zebu-ox. Near the south-west
   coast the skull of a large lemuroid animal was discovered in 1893,
-  much longer than that of any living lemur, the animal being probably
+  much longer than that of any living [[Lemur|lemur]], the animal being probably
   three times the size of any previously known Madagascar lemuroid.
   Later still, in 1899 and subsequently, the bones of two other
   creatures of the same suborder have been discovered, one of them
@@ -330,7 +330,7 @@ south-west and south.
   been brought to light, belonging to Sauropodous Dinosaurs of the
   genera _Bothriospondylus_ and _Titanosaurus_, and to a Theropod of the
   genus _Megalosaurus_. In the beds of the Lower Oolite portions of the
-  skull of a reptile resembling the gavial of the Ganges had been
+  skull of a reptile resembling the gavial of the [[Ganges]] had been
   previously discovered, from which a new genus called _Steneosaurus_
   has been founded. Since the French occupation (1895) considerable
   additions have been made to our knowledge of the fossil fauna of
@@ -360,7 +360,7 @@ south-west and south.
   parts of the country are tolerably healthy for Europeans. But the
   coasts are much hotter, especially on the western side, as is also the
   interior west of the highland region; and from the large amount of
-  marsh and lagoon on the coasts, malarial fever is common and
+  marsh and lagoon on the coasts, malarial [[Fever|fever]] is common and
   frequently fatal, both to Europeans and to natives from the interior.
   Epidemics of influenza and fever have been very prevalent of late
   years in the central provinces. The seasons are two--the hot and rainy
@@ -428,7 +428,7 @@ south-west and south.
   are so isolated that new families have had to be formed for their
   reception. There is a large variety of perching birds, including
   several species of brilliant plumage--sun-birds, kingfishers, rollers
-  and flycatchers, &c.; kites, hawks and owls are numerous, and the
+  and [[Flycatcher|flycatchers]], &c.; kites, hawks and owls are numerous, and the
   lakes and marshes abound with water-fowl and herons, ibises, &c.
 
   The island is free from deadly serpents, but contains two or three
@@ -438,14 +438,14 @@ south-west and south.
   _Chamaeleonidae_, for of the fifty known species no fewer than
   twenty-five have already been described from the island. Many of these
   are of curious form, with remarkable developments of the plates of the
-  head and projecting horns and spines. There are several peculiar
+  head and projecting [[Horn|horns]] and spines. There are several peculiar
   tortoises, but the gigantic species are now found alive only on the
-  little island of Aldabra, to the north. The insect life comprises many
+  little island of Aldabra, to the north. The [[Insect|insect]] life comprises many
   brilliantly-coloured beetles, butterflies (about eight hundred species
   of which are known), moths, locusts, spiders and flies, and also
   noxious spiders, with scorpions and centipedes. The river fishes
   belong chiefly to the family _Chromididae_; many of them are of
-  brilliant and bizarre appearance, with strongly contrasted colours in
+  brilliant and bizarre appearance, with strongly contrasted [[Colours|colours]] in
   bands and spots. Those found in the coast waters do not differ
   materially from the widely spread Indian Ocean species.
 
@@ -473,7 +473,7 @@ south-west and south.
   trees on savannah-like plains rather than continuous forest; while in
   the south-west, where the rainfall is very scanty, the vegetation is
   largely of fleshy-leaved and spiny plants--aloes and cacti (the latter
-  introduced), with several species of Euphorbia, as well as numerous
+  introduced), with several species of [[Euphorbia]], as well as numerous
   lianas, one of which (_Intisy_) yields india-rubber. It is estimated
   that there are about 30,000 sq. m. of forest-covered country in
   Madagascar, or about one-eighth of its whole surface. The vegetation
@@ -489,7 +489,7 @@ south-west and south.
   trees are characteristic of Madagascar vegetation, some of them being
   endemic, and others very prominent features in the landscape: the
   traveller's-tree (_Urania speciosa_), with its graceful crown of
-  plantain-like leaves growing like an enormous fan at the top of a tall
+  plantain-like leaves growing like an enormous [[Fan|fan]] at the top of a tall
   trunk, and affording a supply of pure cool water, every part of the
   tree being of some service in building; the Raphia (rofia) palm
   (_Sagus ruffia_); the tall fir-like _Casuarina equisetifolia_ or
@@ -502,7 +502,7 @@ south-west and south.
   lindleyanum_), an arum endemic to Madagascar, grows in great profusion
   to a height of 12 or 13 ft. and has a white spathe more than a foot in
   length; and on the western coast dense thickets of mangrove line the
-  creeks and rivers. In the interior rivers is found the curious and
+  [[Creek|creeks]] and rivers. In the interior rivers is found the curious and
   beautiful lace-leaf plant (_Ouvirandra fenestralis_), with an edible
   tuberous root. On the western side of the island the baobab, the
   tamarind, the ròtra (_Eugenia_ sp.), the rofia palm, and several
@@ -544,11 +544,11 @@ south-west and south.
   elevated highland of the interior, while the eastern and western
   include the forest belts and most of the wooded country and coast
   plains. Of the 4100 known plants--of which about three-fourths are
-  endemic--composing the Madagascar flora, there are 3492 Dicotyledons,
+  endemic--composing the Madagascar flora, there are 3492 [[Dicotyledons]],
   248 Monocotyledons and 360 Acotyledons. Of these, the orders most
   largely represented (together with their species) are: Leguminosae,
   346; Filices, 318; Compositae, 281; Euphorbiaceae, 228; Orchideae,
-  170; Cyperaceae, 160; Rubiaceae, 147; Acanthaceae, 131; Gramineae,
+  170; [[Cyperaceae]], 160; Rubiaceae, 147; Acanthaceae, 131; Gramineae,
   130. The number of endemic genera now known is 148. Of the 3178
   species of plants whose localities have been determined, 35% are
   peculiar to the eastern region, 27.5% to the central, and 22% to the
@@ -568,7 +568,7 @@ south-west and south.
   plum, apple, mulberry, orange, lemon, citron, guava, Chinese-guava,
   Cape-gooseberry, fig, raspberry, tomato, &c. Several spices are grown,
   including ginger, capsicum, &c.; sugar-cane, coffee, indigo, vanilla,
-  tobacco, cotton, hemp, gourds, dye-woods, gums, mulberry and other
+  tobacco, cotton, hemp, [[Gourd|gourds]], dye-woods, [[Gum|gums]], mulberry and other
   trees and plants for silk-culture, are also among the vegetable
   productions; gum-copal was formerly, and india-rubber is still, an
   important article of export.
@@ -638,12 +638,12 @@ whole country. The Malay affinities of Malagasy were noted in the 16th
 century; indeed, the second and fifth books published upon the country
 (in 1603 and 1613) were comparative vocabularies of these two languages.
 Later investigations have confirmed the conclusions thus early arrived
-at; and Van der Tuuk, Marre de Marin and W. E. Cousins have shown
+at; and Van der Tuuk, Marre de Marin and W. E. [[Cousin|Cousins]] have shown
 conclusively the close relationships between the language of the
 Malagasy and those of the Malayo-Polynesian regions; similar connexions
 exist, especially in grammatical construction, between the Malagasy and
 Melanesian languages. The Malagasy had never invented for themselves a
-written character, and had consequently no manuscripts, inscriptions or
+written character, and had consequently no [[Manuscript|manuscripts]], inscriptions or
 books, until their language was reduced to writing, and its orthography
 settled by English missionaries. Their speech nevertheless is very full
 in many of its verbal and other forms, while it also exhibits some
@@ -694,7 +694,7 @@ evidence of the mental ability and imaginative powers of the Malagasy.
   grounds, where the rice is sown before transplanting, being formed
   either on the margins of the streams or in the hollows of the hills in
   a series of terraces, to which water is often conducted from a
-  considerable distance. In this agricultural engineering no people
+  considerable distance. In this agricultural [[Engineering|engineering]] no people
   surpass the Bétsiléo. No plough is used, all work being done by a
   long-handled spade; and oxen are only employed to tread out the soft
   mud preparatory to transplanting. The rice is threshed by being beaten
@@ -711,7 +711,7 @@ evidence of the mental ability and imaginative powers of the Malagasy.
   nomadic in their habits than are the others. Large herds of fine
   humped cattle are found almost all over the island.
 
-  The central and eastern peoples have considerable manual dexterity.
+  The central and eastern peoples have considerable [[Manual|manual]] dexterity.
   The women spin and weave, and with the rudest appliances manufacture a
   variety of strong and durable cloths of silk, cotton and hemp, and of
   ròfia palm, aloe and banana fibre, of elegant patterns, and often with
@@ -724,7 +724,7 @@ evidence of the mental ability and imaginative powers of the Malagasy.
   the Malagasy and the South African races, and their use of vegetable
   fibres an equally strong link between them and the Polynesian peoples.
   The men wear a loincloth or _salàka_, the women a _kitàmby_ or apron
-  folded round the body from waist to heel, to which a jacket or dress
+  folded round the body from waist to heel, to which a jacket or [[Dress|dress]]
   is usually added; both sexes use over these the _làmba_, a large
   square of cloth folded round the body something like the Roman toga,
   and which is the characteristic native dress. The Malagasy are skilful
@@ -741,7 +741,7 @@ evidence of the mental ability and imaginative powers of the Malagasy.
   thatched with grass or rush; while the chiefs and wealthy people had
   houses of framed timber, with massive upright planking, and lofty
   roofs covered with shingles or tiles. But the introduction of
-  sun-dried and burnt bricks, and of roofing tiles in the central
+  sun-dried and burnt [[Brick|bricks]], and of roofing tiles in the central
   provinces has led to the general use of these materials in the
   building of houses, large numbers of which are made in two storeys and
   in European fashion. The forest and coast tribes make their dwellings
@@ -778,7 +778,7 @@ evidence of the mental ability and imaginative powers of the Malagasy.
   character, and was seldom exercised in a cruel or oppressive way.
 
   The Malagasy have never had any organized religious system or forms of
-  worship; there are no temples, images or stated seasons of devotion,
+  worship; there are no temples, [[Image|images]] or stated seasons of devotion,
   nor is there a priesthood, properly so-called. Yet they have never
   been without some distinct recognition of a supreme being, whom they
   call _Andriamànitra_, "The Fragrant One," and _Zànahàry_, "The
@@ -789,7 +789,7 @@ evidence of the mental ability and imaginative powers of the Malagasy.
   idolatry, which in its origin is simply fetishism--the belief in
   charms--as having power to procure various benefits and protect from
   certain evils. Among the Hòva in modern times four or five of these
-  charms had acquired special sanctity and were each honoured as a kind
+  [[Charm|charms]] had acquired special sanctity and were each honoured as a kind
   of national deity, being called "god," and brought out on all public
   occasions. Together with this idolatry there is also a firm belief in
   the power of witchcraft and sorcery, in divination, in lucky and
@@ -822,14 +822,14 @@ evidence of the mental ability and imaginative powers of the Malagasy.
   in their continued observance.
 
 _Industries and Commerce._--The rearing of cattle and the dressing of
-hides, the collection of rubber and bee culture are important
+hides, the collection of rubber and [[Bee|bee]] culture are important
 industries. The chief food crops grown have been indicated (see
 _Flora_), and the gold-mining is separately noticed below. Other
 industries undertaken or developed by Europeans are silk and cotton
 weaving and raphia-fibre preparation, and ostrich farming. Sugar, rice,
 soap and other factories have been established. In 1904 the exportation
 of straw and other fibre hats began; these resemble those of Panama and
-promise to become an important item. Tanning bark, coffee and guano are
+promise to become an important [[Item|item]]. Tanning bark, coffee and guano are
 also recent exports.
 
 Since 1862, when the country was thrown open to foreign trade, the
@@ -865,7 +865,7 @@ with France or other French colonies. The remaining trade is nearly all
 British and German.
 
 Banking business is in the hands of French companies. The legal currency
-is the French 5-franc piece and the smaller French coins. There was no
+is the French 5-[[Franc|franc]] piece and the smaller French coins. There was no
 native coinage, the French 5-franc piece or dollar being the standard,
 and all sums under that amount were obtained by cutting up those coins
 into all shapes and sizes, which were weighed with small weights and
@@ -894,7 +894,7 @@ fraction of the same amount.
   telegraphic connexion with the rest of the world. The French have
   built carriage roads from the interior to the principal ports as well
   as to connect the principal towns. On these roads large use is made of
-  bullock wagons, as well as carts drawn by men, and women also.
+  bullock wagons, as well as [[Cart|carts]] drawn by men, and women also.
   Tamatàve and Antanànarìvo are joined by coast canals and lakes and by
   a railway service. Where other means are not available, goods are
   carried by canoes, or on the shoulders of bearers along the native
@@ -916,7 +916,7 @@ affairs, each of the native races is granted autonomy, the dominion of
 the Hòva over the other tribes being abolished. Each province has its
 native governor and minor officials, the governor being generally
 selected by popular vote. Each village has an organization (the _Fòkon'
-òlona_) resembling that of a commune; at its head is a chief or
+òlona_) resembling that of a [[Commune|commune]]; at its head is a chief or
 _mpiadidy_, who serves for three years.
 
     +-----------------+---------+----------+----------+
@@ -928,9 +928,9 @@ _mpiadidy_, who serves for three years.
     +-----------------+---------+----------+----------+
 
   For Europeans and in suits between Europeans and natives the French
-  judicial code is applicable; suits between natives are tried by native
+  judicial [[Code|code]] is applicable; suits between natives are tried by native
   tribunals (established 1898) presided over by a European assisted by
-  two native assessors. These tribunals judge according to native law
+  two native [[Assessor|assessors]]. These tribunals judge according to native law
   and usages, except when such customs (e.g. polygamy and slavery) have
   been expressly abolished. Arbitration councils are available
   everywhere for the settlement of disputes between native workmen and
@@ -992,12 +992,12 @@ of Anòrontsànga, Mòjangà, Màrovoày and Mòrondàva, and retaining their
 distinct nationality. There is also in these districts a Hindu element
 in the population, for intercourse has also been maintained for some
 centuries between India and northern Madagascar, and in some towns the
-Banyan Indian element is as prominent as the Arab element. In the early
+[[Banyan]] Indian element is as prominent as the Arab element. In the early
 times of their intercourse with Madagascar, the Arabs had a very
 powerful influence upon the Malagasy. This is seen in the number of
 words derived from the Arabic in the native language. Among these are
 the names of the months and the days of the week, those used in
-astrology and divination, some forms of salutation, words for dress and
+[[Astrology|astrology]] and divination, some forms of salutation, words for dress and
 bedding, money, musical instruments, books and writings, together with a
 number of miscellaneous terms.
 
@@ -1005,7 +1005,7 @@ number of miscellaneous terms.
   European Intercourse.
 
 The island is mentioned by several of the early Arabic writers and
-geographers, but medieval maps show curious ignorance of its size and
+geographers, but medieval maps show curious [[Ignorance|ignorance]] of its size and
 position. Marco Polo has a chapter upon it, and terms it "Madeigascar,"
 but his accounts are confused with those of the mainland of Africa. The
 first European voyager who saw Madagascar was a Portuguese named Diogo
@@ -1042,7 +1042,7 @@ authority.
 
   Introduction of Christianity.
 
-The political history of Madagascar as a whole may be said to date from
+The [[Political History|political history]] of Madagascar as a whole may be said to date from
 the reign of Radàma I. (1810-1828). He was a man much in advance of his
 age--shrewd, enterprising, and undeterred by difficulty--a kind of Peter
 the Great of his time. He saw that it was necessary for his people to be
@@ -1087,7 +1087,7 @@ provinces were desolated by barbarous wars; and for some years all
 Europeans were excluded, and foreign commerce almost ceased. This last
 circumstance was partly owing to an ill-managed attack upon Tamatàve in
 1846 by a combined British and French force, made to redress the wrongs
-inflicted upon the foreign traders of that port. But for the leaven of
+inflicted upon the foreign traders of that port. But for the [[Leaven|leaven]] of
 Christianity and education which had been introduced into the country it
 would have reverted to a state of barbarism.
 
@@ -1167,7 +1167,7 @@ French and American governments were accredited to the Malagasy
 sovereign, the queen having a consul in England, and a consular agent at
 Mauritius. The treaty with Great Britain, concluded in 1865, gave the
 consuls of that nation jurisdiction over the British subjects in the
-island. At this period, on the initiative of the 4th earl of Clarendon,
+island. At this period, on the initiative of the 4th earl of [[Clarendon]],
 then foreign secretary, an understanding was come to between the British
 and French governments by which it was agreed that each power should
 respect the independence of Madagascar; and the future of the country
@@ -1190,7 +1190,7 @@ supported the claims of Laborde's heirs, and revived their claim to a
 protectorate over the Sàkalàva of the north-west coast, as based on
 their agreement with them in 1840, ceding Nossi-bé to France. A policy
 of colonial expansion generally, and in Africa in particular at this
-time, was manifest in France, as in other European countries, and the
+time, was [[Manifest|manifest]] in France, as in other European countries, and the
 French claims on the Hòva were pressed with vigour.
 
 
@@ -1266,7 +1266,7 @@ of Imèrina. This movement was not only anti-French and anti-foreign, but
 also distinctly anti-Christian. The French troops gradually broke up the
 power of the rebellion in the central provinces, but as there appeared
 to be considerable unrest in many other parts of the island, General
-Gallieni, an officer with a reputation for vigour and ability in the
+[[Gallieni]], an officer with a reputation for vigour and ability in the
 Sudan and Tongking campaigns, was sent out to relieve the then
 resident-general.
 
@@ -1291,7 +1291,7 @@ the authority of France was recognized throughout the island. General
 Gallieni, whose firm and vigorous administration, and desire to treat
 the Malagasy justly and kindly, made him liked by the people, retired in
 1905, and was succeeded in that office by M. Victor Augagneur, late
-mayor of Lyons. Since the French occupation the Malagasy have conformed
+mayor of [[Lyons]]. Since the French occupation the Malagasy have conformed
 pretty readily to the new order of things, although many of the most
 intelligent Hòva deeply regret that their country did not retain its
 independence. Justice is administered, on the whole, with fairness and
@@ -1310,7 +1310,7 @@ suppression of hundreds of their congregational schools, and the closing
 of numbers of their churches. In July 1910 M. Augagneur was replaced as
 governor-general by N. Picquié, a prominent official of the Colonial
 Department, who had previously served with acceptance as deputy
-governor-general of French Indo-China, and who had a reputation for tact
+governor-general of French [[Indo-China]], and who had a reputation for tact
 and impartiality.
 
   _Christian Missions and Education._--As already noticed, the Malagasy
@@ -1391,7 +1391,7 @@ and impartiality.
   mostly in charge of a government department, and mission medical work
   is much restricted; but for thirty-five years the Malagasy owed all
   such help to the benevolence of European Christians. Besides care for
-  the sick in ordinary diseases, asylums for lepers were for many years
+  the sick in ordinary diseases, [[Asylum|asylums]] for lepers were for many years
   carried on; two by the London Missionary Society, one, a large one,
   with 800 or 900 inmates, by the Norwegian Society, and another by the
   Roman Catholic mission. This last, with one of those of the L.M.S., is
@@ -1402,13 +1402,13 @@ and impartiality.
   magnificent work (1882 et seq.), in 28 4to vols., by Alfred
   Grandidier, entitled _Histoire naturelle, physique, et politique de
   Madagascar_. Many of the volumes consist of coloured lithograph plates
-  illustrating the natural history of the country, as well as atlases of
+  illustrating the natural history of the country, as well as [[Atlas|atlases]] of
   maps from the earliest period.
 
-  _General_: Étienne de Flacourt, _Histoire de la grande isle
+  _General_: Étienne de [[Flacourt]], _Histoire de la grande isle
   Madagascar_ (Paris, 1658); _Madagascar, or Robert Drury's Journal
   during Fifteen Years' Captivity on that Island_ (London, 1729; new
-  ed., 1890); _Voyages et mémoires de Maurice Auguste, comte de
+  ed., 1890); _Voyages et mémoires de [[Maurice]] Auguste, comte de
   Benyowski_ (Paris, 1791); Froberville, _Histoire de Madagascar_ (Isle
   de France, 1809); Ellis, _History of Madagascar_ (London, 1838);
   Guillain, _Documents sur ... la partie occidentale de Madagascar_
@@ -1418,7 +1418,7 @@ and impartiality.
   Andrìana eto Madagascar: Histoire des rois d'Imérina d'après les
   manuscrits malgaches_ (Antanànarìvo, 1875); Mullens, _Twelve Months in
   Madagascar_ (London, 1875); Blanchard, _L'Île de Madagascar_ (Paris,
-  1875); Dahle, _Madagaskar og dets Beboere_ (Christiania, 1876-1878);
+  1875); Dahle, _Madagaskar og dets Beboere_ ([[Christiania]], 1876-1878);
   Sibree and Baron (eds.), _The Antanànarìvo Annual_, Nos. i-xxiv.
   (1875-1900, pp. 3115); _Notes, reconnaissances, et explorations, revue
   mensuelle_ (Antanànarìvo, 5 vols., 1897-1899, pp. 3041); Sibree, _A
@@ -1446,18 +1446,18 @@ and impartiality.
   in Madagascar_ (London, 1885); Shaw, _Madagascar and France_ (London,
   1885); Saillens, _Nos droits sur Madagascar_ (Paris, 1885); K. Blind
   "The Fictitious French Claim to Madagascar," _Contemp. Rev._ (1894);
-  Martineau, _Étude de politique contemporaine. Madagascar_ (Paris,
+  [[Martineau]], _Étude de politique contemporaine. Madagascar_ (Paris,
   1894); Rentier, _Les droits de la France sur Madagascar_ (1895);
-  Corlay, _Notre campagne à Madagascar_ (Paris, 1896); Knight,
-  _Madagascar in War-time_ (London, 1896); Carol, _Chez les Hovas_
+  Corlay, _Notre campagne à Madagascar_ (Paris, 1896); [[Knight]],
+  _Madagascar in War-time_ (London, 1896); Carol, _Chez les [[Hova|Hovas]]_
   (Paris, 1898); Gallieni, _Neuf ans à Madagascar_ (Paris, 1908).
 
   _Philology_: Houtman, _Spraak ende woord boek in de Maleische ende
   Madagaskarsche talen_ (Amsterdam, 1603); _Voyage de C. van Heemskerk;
   vocabulaire de la langue parlée dans l'Île Saint-Laurent_ (Amsterdam,
   1603) Megiser, _Beschreibung der Mechtigen und Weitberhümbten Insul
-  Madagascar_, with dictionary and dialogues (Altenburg, 1609); Arthus,
-  _Colloquia latino-maleyica et madagascarica_ (Frankfort, 1613);
+  Madagascar_, with dictionary and [[Dialogue|dialogues]] (Altenburg, 1609); Arthus,
+  _Colloquia latino-maleyica et madagascarica_ ([[Frankfort]], 1613);
   Challand, _Vocabulaire français-malgache et malgache-français_ (Île de
   France, 1773); Froberville, _Dictionnaire français-madécasse_ (3
   vols., Île de France, 1809); Freeman and Johns, _Dictionary of the
@@ -1489,13 +1489,13 @@ and impartiality.
   _Madagascar, its Missions and its Martyrs_ (London, 1863); Ellis,
   _Madagascar Revisited_ (London, 1867); id., _The Martyr Church_
   (London, 1869); "Religion in Madagascar," _Ch. Quar. Rev._ (1878);
-  Briggs, _The Madagascar Mission_ (L.M.S. 1879); id., _Ten Years'
+  [[Brigg|Briggs]], _The Madagascar Mission_ (L.M.S. 1879); id., _Ten Years'
   Review of Mission Work in Madagascar_ (L.M.S. 1870-1880, 1881);
   Johnson, _Review of Work of the Friends' Foreign Mission Association
   in Madagascar_, 1867-1880 (Antanànarìvo, 1880); Vaissière, _Histoire
   de Madagascar, ses habitants et ses missionaires_ (Paris, 1884); _The
   Church in Madagascar_ (_S.P.G._, _15 years' progress_, 1874-1889,
-  1889); _La Liberté religieuse à Madagascar_ (Paris, 1897); Matthews,
+  1889); _La Liberté religieuse à Madagascar_ (Paris, 1897); [[Matthew|Matthews]],
   _Thirty Years in Madagascar_ (London, 1904); Sibree, _The L.M.S.
   Mission in Madagascar_ (L.M.S. Mission Hand Books, London, 1907); id.,
   "Christian Missions in Madagascar and French Colonial Policy," _The

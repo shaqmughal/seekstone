@@ -12,7 +12,7 @@ BROADSTAIRS, a watering-place, in the Isle of Thanet parliamentary division
 of Kent, England, 3 m. S.E. of Margate, on the South-Eastern & Chatham
 railway. Pop. of urban district, Broadstairs and St Peter's (1901) 6466.
 From 1837 to 1851 Broadstairs was a favourite summer resort of Charles
-Dickens, who, in a sketch called "Our English Watering-Place," described it
+[[Dickens]], who, in a sketch called "Our English Watering-Place," described it
 as a place "left high and dry by the tide of years." This seaside village,
 with its "semicircular sweep of houses," grew into a considerable town
 owing to the influx of summer visitors, for whose entertainment there are,
@@ -27,10 +27,10 @@ erected by George Culmer in 1540, and not far off is the site of a chapel
 of the Virgin, to which ships were accustomed to lower their top-sails as
 they passed. St Peter's parish, lying on the landward side of Broadstairs,
 and included in the urban district, has a church dating from the 12th to
-the end of the 16th century. Kingsgate, on the North Foreland, north of
+the end of the 16th century. Kingsgate, on the North [[Foreland]], north of
 Broadstairs on the coast, changed its name from St Bartholomew's Gate in
 honour of Charles II.'s landing here with the duke of York in 1683 on his
-way from London to Dover. Stonehouse, close by, now a preparatory school
+way from London to [[Dover]]. Stonehouse, close by, now a preparatory school
 for boys, was the residence of Archbishop Tait, whose wife established the
 orphanage here.
 

@@ -16,7 +16,7 @@ course of Jewish reform.
 
   See I. H. Ritter in the _Jewish Quarterly Review_, i. 202. The same
   authority has written the life of Holdheim in vol. iii. of his
-  _Geschichte der judischen Reformation_ (Berlin, 1865). Graetz in his
+  _Geschichte der judischen Reformation_ (Berlin, 1865). [[Graetz]] in his
   _History_ passes an unfavourable judgment on Holdheim, and there were
   admittedly grounds for opposition to Holdheim's attitude. A moderate
   criticism is contained in Dr D. Philipson's _History of the Reform

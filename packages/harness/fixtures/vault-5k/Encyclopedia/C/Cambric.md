@@ -8,7 +8,7 @@ cambric for Henry VIII.'s shirts. Cambric has been used for many years
 in the manufacture of handkerchiefs, collars, cuffs, and for fine
 underclothing; also for the best shrouds, and for fine baby linen. The
 yarns for this cloth are of very fine quality, and the number of threads
-and picks often reaches and sometimes exceeds 120 per inch. Embroidery
+and picks often reaches and sometimes exceeds 120 per [[Inch|inch]]. Embroidery
 cambric is a fine linen used for embroidery. Batiste, said to be called
 after Baptiste, a linen-weaver of Cambrai, is a kind of cambric
 frequently dyed or printed. All these fabrics are largely copied in

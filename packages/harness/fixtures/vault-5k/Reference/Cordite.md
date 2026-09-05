@@ -30,9 +30,9 @@ finely-divided state by scraping with a sharp knife, or on a new file,
 or by grinding in a mill, such as a coffee-mill, but can scarcely be
 pounded in a mortar. Cordite is of a brownish colour in mass, but is
 much paler when finely ground or scraped. The rods easily become
-electrified by gentle friction with a dry substance. Like all colloidal
+electrified by gentle [[Friction|friction]] with a dry substance. Like all colloidal
 substances it is an exceedingly bad conductor of heat. A piece ignited
-in air burns with a yellowish flame. With the smaller sizes, about 2 mm.
+in air [[Burns|burns]] with a yellowish flame. With the smaller sizes, about 2 mm.
 diameter or less, this flame may be blown out, and the rod will continue
 to burn in a suppressed manner without actual flame, fumes containing
 oxides of nitrogen being emitted. Temperature appears to have an effect
@@ -44,12 +44,12 @@ portion slowly immersed. The end of a rod of cordite may be struck a
 moderately heavy blow on an anvil without exploding or igniting. The rod
 will first flatten out. A _sharp_ blow will then detonate or explode
 the portion immediately under the hammer, the remainder of the rod
-remaining quite intact. Bullets may be fired through a bundle or package
+remaining quite intact. [[Bullet|Bullets]] may be fired through a bundle or package
 of cordite without detonating or inflaming it. This is of course a
 valuable quality. The exact temperature at which substances ignite or
 take fire is in all cases difficult to determine with any exactness.
 Cordite is not _instantly_ ignited on contact with a flame such as that
-of a candle, because, perhaps, of the condensation of some moisture from
+of a [[Candle|candle]], because, perhaps, of the condensation of some moisture from
 the products of burning of the candle upon it. A blow-pipe flame or a
 red-hot wire is more rapid in action. The ignition temperature may be
 somewhere in the region of 180° C.
@@ -84,7 +84,7 @@ with acetone until it becomes a jelly; and then incorporating in a
 special mixing mill for about three hours, after which the weighed
 amount of mineral jelly is added and the incorporation continued for
 about one hour or until judged complete. The incorporating or mixing
-machine is covered as closely as possible to prevent too great
+[[Machine|machine]] is covered as closely as possible to prevent too great
 evaporation of the very volatile acetone. Before complete incorporation
 the mixture is termed, in the works, "paste," and, when finally mixed,
 "dough."
@@ -112,7 +112,7 @@ It is now dried in heated rooms, where it is generally spread out on
 shelves, a current of air passing through carrying the acetone vapour
 with it. In the more modern works this air current is drawn, finally,
 through a solution of a substance such as sodium bisulphite; a fixed
-compound is thus formed with the acetone, which by suitable treatment
+[[Compound|compound]] is thus formed with the acetone, which by suitable treatment
 may be recovered. The time taken in the drying varies with the
 thickness of the cordite from a few days to several weeks. For several
 reasons it is desirable that this process should go on gradually and
@@ -138,7 +138,7 @@ carefully dried before the nitro-glycerin is added. The pressure applied
 is only sufficient to make the gun-cotton just hold together so that it
 is easily mixed with the nitro-glycerin. The mineral jelly or vaseline
 is obtained at a certain stage of distillation of petroleum, and is a
-mixture of hydrocarbons, paraffins, olefines and some other unsaturated
+mixture of [[Hydrocarbon|hydrocarbons]], paraffins, olefines and some other unsaturated
 hydrocarbons, possibly aromatic, which no doubt play a very important
 part as preservatives in cordite.
 
@@ -163,7 +163,7 @@ mercuric chloride, which is sometimes added as a preservative, this test
 is rendered nugatory, and no coloration may appear (or only after a long
 exposure), although the sample may be of indifferent stability. It is
 now customary to examine specially for mercury, either by heating the
-explosive in contact with gold leaf or silver foil, or by burning the
+explosive in contact with gold [[Leaf|leaf]] or silver foil, or by burning the
 substance and examining the flame in the spectroscope.
 
 The method of examination known as the vacuum silvered vessel process is
@@ -184,7 +184,7 @@ instability.     (W. R. E. H.)
 
 
 
-CÓRDOBA, GONZALO FERNANDEZ DE (1453-1515), Spanish general and
+CÓRDOBA, GONZALO [[Fernandez|FERNANDEZ]] DE (1453-1515), Spanish general and
 statesman, usually spoken of by the Italianized form of his Christian
 name as GONSALVO DE CÓRDOBA, or as "the Great Captain," was the second
 son of Don Pedro Fernandez de Córdoba, count of Aguilar, and of his wife
@@ -198,7 +198,7 @@ into the faction fights of the two families. As a younger son Gonzalo
 had his fortune to make, but he was generously aided by the affection of
 his elder brother, who was very wealthy. War and service in the king's
 court offered the one acceptable career outside the church to a
-gentleman of his birth.
+[[Gentleman|gentleman]] of his birth.
 
 He was first attached to the household of Don Alphonso, the king's
 brother, and upon his death devoted himself to Isabella, afterwards the
@@ -223,7 +223,7 @@ was the defence of the advanced post of Illora, but he commanded the
 queen's escort when she wished to take a closer view of Granada, and he
 beat back a sortie of the Moors under her eyes. When Granada
 surrendered, he was one of the officers chosen to arrange the
-capitulation, and on the peace he was rewarded by a grant of land.
+[[Capitulation|capitulation]], and on the peace he was rewarded by a grant of land.
 
 So far he was only known as an able subordinate, but his capacity could
 not be hidden from such an excellent judge of character as Isabella, to
@@ -232,12 +232,12 @@ respect. When, therefore, the Catholic sovereigns decided to support the
 Aragonese house of Naples against Charles VIII. of France, Gonzalo was
 chosen by the influence of the queen, and in preference to older men, to
 command the Spanish expedition. It was in Italy that he won the title of
-the Great Captain; Guicciardini says that it was given him by the
+the Great Captain; [[Guicciardini]] says that it was given him by the
 customary arrogance of the Spaniards, but it was certainly accepted as
 just by all the soldiers of the time of whatever nationality. A detailed
 account of his campaigns cannot be given here. He held the command in
 Italy twice. In 1495 he was sent with a small force of little more than
-five thousand men to aid Ferdinand of Naples to recover his kingdom, and
+five thousand men to aid [[Ferdinand]] of Naples to recover his kingdom, and
 he returned home after achieving success, in 1498. After a brief
 interval of service against the conquered Moors who had risen in revolt,
 he returned to Italy in 1501. Ferdinand of Spain had entered into his
@@ -245,7 +245,7 @@ iniquitous compact with Louis XII. of France for the spoliation and
 division of the kingdom of Naples. The Great Captain was chosen to
 command the Spanish part of this robber coalition. As general and as
 viceroy of Naples he remained in Italy till 1507. During his first
-command he was mostly employed in Calabria in mountain warfare which
+command he was mostly employed in [[Calabria]] in mountain warfare which
 bore much resemblance to his former experience in Granada. There was,
 however, a material difference in the enemy. The French forces,
 commanded by the Scotsman Stuart d'Aubigny, consisted largely of Swiss
@@ -270,7 +270,7 @@ in outflanking the enemy, was primarily due to the Great Captain.
 
 The French were expelled by 1498 without another battle. When the Great
 Captain reappeared in Italy he had first to perform the congenial task
-of driving the Turk from Cephalonia, then to aid in robbing the king of
+of driving the Turk from [[Cephalonia]], then to aid in robbing the king of
 Naples, Frederick, brother of his old ally Ferdinand. When the king of
 Naples had been despoiled, the French and Spaniards quarrelled over the
 booty. The Great Captain now found himself with a much outnumbered army
@@ -290,7 +290,7 @@ a headlong front attack, were repulsed, assailed in flank, and routed.
 The later operations on the Garigliano were very similar, and led to the
 total expulsion of the French from Naples. Gonzalo remained as governor
 of Naples till 1507. But he had become too great not to arouse the
-jealousy of such a typical king of the Renaissance as Ferdinand the
+[[Jealousy|jealousy]] of such a typical king of the Renaissance as Ferdinand the
 Catholic. The death of the queen in 1504 had deprived him of a friend,
 and it must be allowed that he was profuse in rewarding his captains and
 his soldiers out of the public treasury. Ferdinand loaded him with
@@ -380,9 +380,9 @@ settlements surround the city, the more important of which are served by
 the urban tramway lines. The streets are lighted by gas and electricity,
 and an excellent telephone service is maintained. The noteworthy public
 buildings include the cathedral, a handsome edifice curiously oriental
-in appearance, a massive old Jesuit church with a ceiling of richly
+in appearance, a massive old Jesuit church with a [[Ceiling|ceiling]] of richly
 carved and gilded cedar, the old university, founded in 1613, which
-still occupies the halls built by the Jesuits around a large quadrangle,
+still occupies the halls built by the [[Jesuits]] around a large quadrangle,
 the fine old _cabildo_, or government house, of Moorish appearance, and
 the national observatory on the _barranca_ overlooking the city. There
 are, also, two national normal schools, a national college, an episcopal

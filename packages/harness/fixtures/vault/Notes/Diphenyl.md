@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Diphenyl"
 
 # Diphenyl
 
-DIPHENYL (phenyl benzene), C6H5·C6H5, a hydrocarbon found in that
-fraction of the coal-tar distillate boiling between 240-300° C., from
+DIPHENYL (phenyl [[Benzene|benzene]]), C6H5·C6H5, a [[Hydrocarbon|hydrocarbon]] found in that
+fraction of the [[Coal-Tar|coal-tar]] distillate boiling between 240-300° C., from
 which it may be obtained by warming with sulphuric acid, separating the
 acid layer and strongly cooling the undissolved oil. It may be
 artificially prepared by passing benzene vapour through a red-hot tube;
@@ -29,7 +29,7 @@ alcohol reduces it to tetrahydrodiphenyl C12H14.
   Many substitution derivatives are known: the monosubstitution
   derivatives being capable of existing in three isomeric forms. Of the
   disubstitution derivatives the most important are those derived from
-  diparadiaminodiphenyl or benzidine (q.v.).
+  diparadiaminodiphenyl or [[Benzidine|benzidine]] (q.v.).
 
   _Orthoaminodiphenyl_,
 
@@ -38,9 +38,9 @@ alcohol reduces it to tetrahydrodiphenyl C12H14.
     /  \__/  \ ,
     \__/  \__/
 
-  is prepared by the action of bromine and caustic soda on
+  is prepared by the action of bromine and [[Caustic|caustic]] soda on
   orthophenylbenzamide (R. Hirsch, _Berichte, 1892, 25_, 1974); when its
-  vapour is passed over heated lime, carbazol (q.v.) is formed.
+  vapour is passed over heated lime, [[Carbazol|carbazol]] (q.v.) is formed.
 
   _Diorthodiaminodiphenyl_,
 
@@ -52,7 +52,7 @@ alcohol reduces it to tetrahydrodiphenyl C12H14.
   is obtained by the reduction of the corresponding nitro compound
   (obtained by the action of ethyl nitrite at 0° C. on
   metadinitrobenzidine hydrochloride). Its tetrazo compound on reduction
-  gives a hydrazine which, on warming with hydrochloric acid at 150° C.,
+  gives a [[Hydrazine|hydrazine]] which, on warming with hydrochloric acid at 150° C.,
   decomposes into ammonium chloride and _phenazone_,
 
        N = N

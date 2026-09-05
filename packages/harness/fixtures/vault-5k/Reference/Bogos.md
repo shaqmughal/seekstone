@@ -14,7 +14,7 @@ _Shumaglieh_ or "elders" and _Tigre_ or "clients." The latter are serfs
 of the former, who, however, cannot sell them. The Tigre goes with the
 land, and his master must protect him. In blood-money he is worth
 another Tigre or ninety-three cows, while an elder's life is valued at
-one hundred and fifty-eight cattle or one of his own caste. The eldest
+one hundred and fifty-eight cattle or one of his own [[Caste|caste]]. The eldest
 son of a Shumaglieh inherits his father's two-edged sword, white cows,
 lands and slaves, but the house goes to the youngest son. Female
 chastity is much valued, but women have no rights, inherit nothing, and

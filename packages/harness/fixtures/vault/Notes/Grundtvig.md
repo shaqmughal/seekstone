@@ -3,12 +3,12 @@
 GRUNDTVIG, NIKOLAI FREDERIK SEVERIN (1783-1872), Danish poet, statesman
 and divine, was born at the parsonage of Udby in Zealand on the 8th of
 September 1783. In 1791 he was sent to live at the house of a priest in
-Jutland, and studied at the free school of Aarhuus until he went up to
-the university of Copenhagen in 1800. At the close of his university
+[[Jutland]], and studied at the free school of Aarhuus until he went up to
+the university of [[Copenhagen]] in 1800. At the close of his university
 life he made Icelandic his special study, until in 1805 he took the
 position of tutor in a house on the island of Langeland. The next three
 years were spent in the study of Shakespeare, Schiller and Fichte. His
-cousin, the philosopher Henrik Steffens, had returned to Copenhagen in
+[[Cousin|cousin]], the philosopher Henrik Steffens, had returned to Copenhagen in
 1802 full of the teaching of Schelling and his lectures and the early
 poetry of Ohlenschlager opened the eyes of Grundtvig to the new era in
 literature. His first work, _On the Songs in the Edda_, attracted no
@@ -25,7 +25,7 @@ Grammaticus and Snorri. During these years he was preaching against
 rationalism to an enthusiastic congregation in Copenhagen, but he
 accepted in 1821 the country living of Praesto, only to return to the
 metropolis the year after. In 1825 he published a pamphlet, _The
-Church's Reply_, against H. N. Clausen, who was professor of theology in
+Church's Reply_, against H. N. [[Clausen]], who was professor of theology in
 the university of Copenhagen. Grundtvig was publicly prosecuted and
 fined, and for seven years he was forbidden to preach, years which he
 spent in publishing a collection of his theological works, in paying two
@@ -64,7 +64,7 @@ poetry (_Danmarks gamle Folkeviser_, 1853-1883, 5 vols.; completed in
 
   His correspondence with Ingemann was edited by S. Grundtvig (1882);
   his correspondence with Christian Molbech by L. Schroder (1888); see
-  also F. Winkel Horn, _Grundtvigs Liv og Gjerning_ (1883); and an
+  also F. Winkel [[Horn]], _Grundtvigs Liv og Gjerning_ (1883); and an
   article by F. Nielsen in Bricka's _Dansk Biografisk Lexikon_.
 
 ## See also

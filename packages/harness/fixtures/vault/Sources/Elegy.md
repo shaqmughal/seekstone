@@ -21,22 +21,22 @@ great deal of the formal erotic poetry of modern Europe. In the 6th
 century B.C., the elegies of Solon were admired; they are mainly lost.
 But we possess more of the work of Theognis of Megara than of any other
 archaic elegist, and in it we can observe the characteristics of Greek
-elegy best. Here the Dorian spirit of chivalry reaches its highest
+elegy best. Here the Dorian spirit of [[Chivalry|chivalry]] reaches its highest
 expression, and war is combined with manly love.
 
-The elegy, in its calm movement, seems to have begun to lose currency
-when the ecstasy of emotion was more successfully interpreted by the
+The elegy, in its [[Calm|calm]] movement, seems to have begun to lose currency
+when the [[Ecstasy|ecstasy]] of emotion was more successfully interpreted by the
 various rhythmic and dithyrambic inventions of the Aeolic lyrists. The
 elegy, however, rose again to the highest level of merit in Alexandrian
 times. It was reintroduced by Philetas in the 3rd cent. B.C., and was
-carried to extreme perfection by Callimachus. Other later Greek elegists
-of high reputation were Asclepiades and Euphorion. But it is curious to
+carried to extreme perfection by [[Callimachus]]. Other later Greek elegists
+of high reputation were [[Asclepiades]] and Euphorion. But it is curious to
 notice that all the elegies of these poets were of an amatory nature,
-and that antiquity styled the funeral dirges of Theocritus, Bion and
+and that antiquity styled the funeral [[Dirge|dirges]] of Theocritus, Bion and
 Moschus--which are to us the types of elegy--not elegies at all, but
 idylls. When the poets of Rome began their imitative study of
 Alexandrian models, it was natural that the elegies of writers such as
-Callimachus should tempt them to immediate imitation. Gallus, whose
+Callimachus should tempt them to immediate imitation. [[Gallus]], whose
 works are unhappily lost, is known to have produced a great sensation in
 Rome by publishing his translation of the poems of Euphorion; and he
 passed on to the composition of erotic elegies of his own, which were
@@ -62,23 +62,23 @@ introduced by readers of Ovid and Propertius. But from the beginning of
 the 16th century, it was used in English, as it has been ever since, to
 describe a funeral song or lament. One of the earliest poems in English
 which bears the title of elegy is _The Complaint of Philomene_, which
-George Gascoigne began in 1562, and printed in 1576. The _Daphnaida_ of
+George [[Gascoigne]] began in 1562, and printed in 1576. The _Daphnaida_ of
 Spenser (1591) is an elegy in the strict modern sense, namely a poem of
 regret pronounced at the obsequies of a particular person. In 1579
 Puttenham had defined an elegy as being a song "of long lamentation."
 With the opening of the 17th century the composition of elegies became
 universal on every occasion of public or private grief. Dr Johnson's
-definition, "_Elegy_, a short poem without points or turns," is
+[[Definition|definition]], "_Elegy_, a short poem without points or turns," is
 singularly inept and careless. By that time (1755) English literature
 had produced many great elegies, of which the _Lycidas_ of Milton is by
-far the most illustrious. But even Cowley's on Crashaw, Tickell's on
-Addison, Pope's on an Unfortunate Lady, those of Quarles, and Dryden,
+far the most illustrious. But even Cowley's on [[Crashaw]], Tickell's on
+Addison, Pope's on an Unfortunate Lady, those of Quarles, and [[Dryden]],
 and Donne, should have warned Johnson of his mistake. Since the 18th
 century the most illustrious examples of elegy in English literature
-have been the _Adonais_ of Shelley (on Keats), the _Thyrsis_ of Matthew
-Arnold (on Clough), and the _Ave atque Vale_ of Mr Swinburne (on
+have been the _Adonais_ of Shelley (on Keats), the _Thyrsis_ of [[Matthew]]
+[[Arnold]] (on Clough), and the _Ave atque Vale_ of Mr Swinburne (on
 Baudelaire). It remains for us to mention what is the most celebrated
-elegy in English, that written by Gray in a Country Churchyard. This,
+elegy in English, that written by [[Gray]] in a Country Churchyard. This,
 however, belongs to a class apart, as it is not addressed to the memory
 of any particular person. A writer of small merit, James Hammond
 (1716-1742), enjoyed a certain success with his _Love Elegies_ in which
@@ -88,11 +88,11 @@ was welcomed in France in the amatory works of Parny (1753-1814), in
 those of Chênedollé (1769-1833), and of Millevoye (1782-1816). The
 melancholy and sentimental elegies of the last named are the typical
 examples of this class of poetry in French literature. Lamartine must be
-included among the elegists, and his famous "Le Lac" is as eminent an
+included among the elegists, and his famous "Le [[Lac]]" is as eminent an
 elegy in French as Gray's "Country Churchyard" is in English. The elegy
 has flourished in Portugal, partly because it was cultivated with great
 success by Camoens, the most illustrious of the Portuguese poets. In
-Italian, Chiabrera and Filicaia are named among the leading national
+Italian, [[Chiabrera]] and Filicaia are named among the leading national
 elegists. In German literature, the notion of elegy as a poem of
 lamentation does not exist. The famous Roman Elegies of Goethe imitate
 in form and theme those of Ovid; they are not even plaintive in

@@ -9,7 +9,7 @@ id: 42-3547
 # Cantarini
 
 CANTARINI, SIMONE (1612-1648), called SIMONE DA PESARO, painter and
-etcher, was born at Oropezza near Pesaro in 1612. He was a disciple of
+etcher, was born at Oropezza near Pesaro in 1612. He was a [[Disciple|disciple]] of
 Guido Reni and a fellow-student of Domenichino and Albano. The
 irritability of his temper and his vanity were extreme; and it is said
 that his death, which took place at Verona in 1648, was occasioned by

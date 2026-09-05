@@ -1,7 +1,7 @@
 # Luchu Archipelago
 
 LUCHU ARCHIPELAGO (called also RIUKIU, LOO-CHOO and LIUKIU), a long
-chain of islands belonging to Japan, stretching from a point 80 m. S. of
+chain of islands belonging to [[Japan]], stretching from a point 80 m. S. of
 Kiushiu to a point 73 m. from the N.E. coast of Formosa, and lying
 between 24° and 30° N. and 123° and 130° E. Japanese cartographers
 reckon the Luchu islands as 55, having a total coast-line of 768 m., an
@@ -55,7 +55,7 @@ and has considerable trade.
   bamboo is rare; there is no high grass or tangled undergrowth; open
   plains are numerous; the trees are not crowded together; lakes are
   wanting; the rivers are insignificant; and an unusual aspect is
-  imparted to the scenery by numerous coral crags. The temperature in
+  imparted to the scenery by numerous [[Coral|coral]] crags. The temperature in
   Nafa ranges from a mean of 82° F. in July to 60° in January. The
   climate is generally (though not in all the islands) pleasant and
   healthy, in spite of much moisture, the rainfall being very heavy.
@@ -70,7 +70,7 @@ and has considerable trade.
   principal staple of trade.
 
   Luchu is noted for the production of particularly durable
-  vermilion-coloured lacquer, which is much esteemed for table utensils
+  vermilion-coloured [[Lacquer|lacquer]], which is much esteemed for table utensils
   in Japan. The islands also manufacture certain fabrics which are
   considered a speciality. These are _Riukiu-tsumugi_, a kind of fine
   pongee; the so-called _Satsuma-gasuri_, a cotton fabric greatly used
@@ -88,11 +88,11 @@ and has considerable trade.
   cheek-bones and much greater hairiness. The last characteristic has
   been attributed to the presence of Ainu blood, and has suggested a
   theory that when the Japanese race entered south-western Japan from
-  Korea, they drove the Ainu northwards and southwards, one portion of
+  [[Korea]], they drove the Ainu northwards and southwards, one portion of
   the latter finding their way to Luchu, the other to Yezo. Women of the
   upper class never appear in public in Luchu, and are not even alluded
   to in conversation, but women of the lower orders go about freely with
-  uncovered faces. The Luchu costume resembles that of Japan, the only
+  uncovered faces. The Luchu [[Costume|costume]] resembles that of Japan, the only
   marked difference being that the men use two hairpins, made of gold,
   silver, pewter or wood, according to the rank of the wearer. Men shave
   their faces until the age of twenty-five, after which moustache and
@@ -109,11 +109,11 @@ and has considerable trade.
   eaten. There is a remarkable absence of religious influence in Luchu.
   Places of worship are few, and the only function discharged by
   Buddhist priests seems to be to officiate at funerals. The people are
-  distinguished by gentleness, courtesy and docility, as well as by
-  marked avoidance of crime. With the exception of petty thefts, their
+  distinguished by gentleness, [[Courtesy|courtesy]] and docility, as well as by
+  marked [[Avoidance|avoidance]] of crime. With the exception of petty thefts, their
   Japanese administrators find nothing to punish, and for nearly three
-  centuries no such thing as a lethal weapon has been known in Luchu.
-  Professor Chamberlain states that the Luchuan language resembles the
+  centuries no such thing as a [[Lethal|lethal]] weapon has been known in Luchu.
+  Professor [[Chamberlain]] states that the Luchuan language resembles the
   Japanese in about the same degree as Italian resembles French, and
   says that they are sister tongues, many words being identical, others
   differing only by letter changes which follow certain fixed analogies,
@@ -128,7 +128,7 @@ Tametomo, a member of the famous Minamoto family, who, having been
 expelled from Japan, had come to Luchu and married there. The
 introduction of the arts of reading and writing are assigned to
 Shunten's reign. Chinese invasions of Luchu may be traced back to A.D.
-605, but they did not result in annexation; and it was in 1372 that
+605, but they did not result in [[Annexation|annexation]]; and it was in 1372 that
 China first obtained from the Luchuans recognition of supremacy. Luchuan
 relations with Japan had long been friendly, but at the end of the 16th
 century the king refused Japan assistance against Korea, and in 1609 the
@@ -151,15 +151,15 @@ the attenuated nature of the archipelago. China remonstrating, a
 conference was held in Peking, when plenipotentiaries of the two empires
 signed an agreement to the effect that the archipelago should be divided
 equally between the claimants. The Chinese government, however, refused
-to ratify this compromise, and the Japanese continued their measures for
+to ratify this [[Compromise|compromise]], and the Japanese continued their measures for
 the effective administration of all the islands. Ultimately (1895)
 Formosa also came into Japan's possession, and her title to the whole
 chain of islands ceased to be disputed.
 
 Though Captain Broughton, of H.M.S. "Providence," was wrecked on
 Miyako-shima and subsequently visited Nafa in 1797, it was not till the
-"Alceste" and "Lyra" expedition in 1816-1817, under Captains Basil Hall
-and Murray Maxwell, that detailed information was obtained about Luchu.
+"Alceste" and "[[Lyra]]" expedition in 1816-1817, under Captains [[Basil]] Hall
+and Murray [[Maxwell]], that detailed information was obtained about Luchu.
 The people at that time showed a curious mixture of courtesy and
 shyness. From 1844 efforts were made by both Catholic (French) and
 Protestant missionaries to Christianize them, but though hospitable they

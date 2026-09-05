@@ -8,12 +8,12 @@ type: reference
 # Haddon Hall
 
 HADDON HALL, one of the most famous ancient mansions in England. It lies
-on the left bank of the river Wye, 2 m. S.E. of Bakewell in Derbyshire.
+on the left bank of the river Wye, 2 m. S.E. of [[Bakewell]] in Derbyshire.
 It is not now used as a residence, but the fabric is maintained in
 order. The building is of stone and oblong in form, and encloses two
 quadrangles separated by the great banqueting-hall and adjoining
 chambers. The greater part is of two storeys, and surmounted by
-battlements. To the south and south-east lie terraced gardens, and the
+[[Battlement|battlements]]. To the south and south-east lie terraced gardens, and the
 south front of the eastern quadrangle is occupied by the splendid
 ball-room or long gallery. At the south-west corner of the mansion is
 the chapel; at the north-east the Peveril tower. The periods of building
@@ -39,11 +39,11 @@ another William Peverel, forfeited it for treason on the accession of
 Henry II. Before that time, however, the manor of Haddon had been
 granted to the family of Avenell, who continued to hold it until one
 William Avenell died without male issue and his property was divided
-between his two daughters and heirs, one of whom married Richard Vernon,
+between his two daughters and [[Heir|heirs]], one of whom married Richard Vernon,
 whose successors acquired the other half of the manor in the reign of
 Edward III. Sir George Vernon, who died in 1561, was known as the "King
 of the Peak" on account of his hospitality. His daughter Dorothy married
-John Manners, second son of the earl of Rutland, who is said to have
+John [[Manners]], second son of the earl of Rutland, who is said to have
 lived for some time in the woods round Haddon Hall, disguised as a
 gamekeeper, until he persuaded Dorothy to elope with him. On Sir
 George's death without male issue Haddon passed to John Manners and
@@ -53,7 +53,7 @@ lord of the manor.
 
   See _Victoria County History, Derbyshire_; S. Rayner, _History and
   Antiquities of Haddon Hall_ (1836-1837); Haddon Hall, _History and
-  Antiquities of Haddon Hall_ (1867); G. le Blanc Smith, _Haddon, the
+  Antiquities of Haddon Hall_ (1867); G. [[Le Blanc|le Blanc]] Smith, _Haddon, the
   Manor, the Hall, its Lords and Traditions_ (London, 1906).
 
 ## References

@@ -4,17 +4,17 @@ GUESDE, JULES BASILE (1845-   ), French socialist, was born in Paris on
 the 11th of November 1845. He had begun his career as a clerk in the
 French Home Office, but at the outbreak of the Franco-German War he was
 editing _Les Droits de l'homme_ at Montpellier, and had to take refuge
-at Geneva in 1871 from a prosecution instituted on account of articles
-which had appeared in his paper in defence of the Commune. In 1876 he
+at [[Geneva]] in 1871 from a prosecution instituted on account of articles
+which had appeared in his paper in defence of the [[Commune]]. In 1876 he
 returned to France to become one of the chief French apostles of Marxian
 collectivism, and was imprisoned for six months in 1878 for taking part
-in the first Parisian International Congress. He edited at different
+in the first Parisian [[International]] Congress. He edited at different
 times _Les Droits de l'homme_, _Le Cri du peuple_, _Le Socialiste_, but
 his best-known organ was the weekly _Egalite_. He had been in close
 association with Paul Lafargue, and through him with Karl Marx, whose
 daughter he married. It was in conjunction with Marx and Lafargue that
 he drew up the programme accepted by the national congress of the Labour
-party at Havre in 1880, which laid stress on the formation of an
+party at [[Havre]] in 1880, which laid stress on the formation of an
 international labour party working by revolutionary methods. Next year
 at the Reims congress the orthodox Marxian programme of Guesde was
 opposed by the "possibilists," who rejected the intransigeant attitude
@@ -36,7 +36,7 @@ name of the Socialist party of France. Guesde, nevertheless, continued
 to oppose the opportunist policy of Jaures, whom he denounced for
 supporting one bourgeois party against another. His defence of the
 principle of freedom of association led him, incongruously enough, to
-support the religious Congregations against Emile Combes. Besides his
+support the religious Congregations against Emile [[Combes]]. Besides his
 numerous political and socialist pamphlets he published in 1901 two
 volumes of his speeches in the Chamber of Deputies entitled _Quatre ans
 de lutte de classe 1893-1898_.

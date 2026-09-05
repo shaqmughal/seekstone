@@ -1,8 +1,8 @@
 # Castalia
 
-CASTALIA, or FONS CASTALIUS, a celebrated fountain in Greece, now called
+CASTALIA, or FONS CASTALIUS, a celebrated [[Fountain|fountain]] in Greece, now called
 the Fountain of St John, which rises in a chasm of Mount Parnassus, in
-the neighbourhood of Delphi. It was sacred to Apollo and the Muses, and
+the neighbourhood of [[Delphi]]. It was sacred to Apollo and the Muses, and
 its water was used in the religious purifications of the "Pythian
 Pilgrims." From its connexion with the Muses it is sometimes referred to
 by late Greek writers (e.g. Lucian, _Jup. Trag._ 30) and Latin poets

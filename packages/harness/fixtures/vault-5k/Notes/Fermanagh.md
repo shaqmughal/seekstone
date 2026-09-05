@@ -1,7 +1,7 @@
 # Fermanagh
 
 FERMANAGH, a county of Ireland, in the province of Ulster, bounded N.W.
-by Donegal, N.E. by Tyrone, E. by Monaghan and S.W. by Cavan and
+by [[Donegal]], N.E. by Tyrone, E. by Monaghan and S.W. by Cavan and
 Leitrim. The area is 457,369 acres or about 715 sq. m. The county is
 situated mostly in the basin of the Erne, which divides the county into
 two nearly equal sections. Its surface is hilly, and its appearance (in
@@ -27,11 +27,11 @@ repute by the peasantry for its cure of paralytic and other diseases;
 and 4 m. N.W. of the same town, at a place called "the Daughton," are
 natural caves of considerable size.
 
-This county includes in the north an area of the gneiss that is
+This county includes in the north an area of the [[Gneiss|gneiss]] that is
 discussed under county Donegal, and, west of Omagh, a metamorphic region
-that stretches in from the central axis of Tyrone. A fault divides the
+that stretches in from the central axis of Tyrone. A [[Fault|fault]] divides the
 latter from the mass of red-brown Old Red Sandstone that spreads south
-nearly to Enniskillen. Lower Carboniferous sandstone and limestone occur
+nearly to Enniskillen. Lower Carboniferous sandstone and [[Limestone|limestone]] occur
 on the north of Lower Lough Erne. The limestone forms fine scarps on the
 southern side of the lake, capped by beds regarded as the Yoredale
 series. The scenery about the two Loughs Macnean is carved out in
@@ -67,7 +67,7 @@ are held. Garrison, a fishing station on the wild Lough Melvin, and
 Pettigo, near to the lower Lough Erne, are market villages. Fermanagh
 returns two members to parliament, one each for the north and south
 divisions. It comprises eight baronies and nineteen civil parishes. The
-assizes are held at Enniskillen, quarter sessions at Enniskillen and
+[[Assize|assizes]] are held at Enniskillen, quarter sessions at Enniskillen and
 Newtownbutler. The headquarters of the constabulary are at Enniskillen.
 Ecclesiastically it belongs to the Protestant and Roman Catholic
 dioceses of Clogher and Kilmore.

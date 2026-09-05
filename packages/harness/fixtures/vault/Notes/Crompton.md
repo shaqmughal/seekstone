@@ -6,8 +6,8 @@ boy he lost his father, and had to contribute to the family resources by
 spinning yarn. The defects of the spinning jenny imbued him with the
 idea of devising something better, and for five or six years the effort
 absorbed all his spare time and money, including what he earned by
-playing the violin at the Bolton theatre. About 1779 he succeeded in
-producing a machine which span yarn suitable for use in the manufacture
+playing the violin at the [[Bolton]] theatre. About 1779 he succeeded in
+producing a [[Machine|machine]] which span yarn suitable for use in the manufacture
 of muslin, and which was known as the muslin wheel or the
 Hall-in-the-Wood wheel (from the name of the house in which he and his
 family resided), and later as the spinning mule. After his marriage in
@@ -19,7 +19,7 @@ alternative on the promise of a number of manufacturers to pay him for
 the use of the mule, but all he received was about L60. He then resumed
 spinning on his own account, but with indifferent success. In 1800 a sum
 of L500 was raised for his benefit by subscription, and when in 1809
-Edmund Cartwright, the inventor of the power-loom obtained L10,000 from
+Edmund [[Cartwright]], the inventor of the power-loom obtained L10,000 from
 parliament, he determined also to apply for a grant. In 1811 he made a
 tour in the manufacturing districts of Lancashire and Scotland to
 collect evidence showing how extensively his mule was used, and in 1812

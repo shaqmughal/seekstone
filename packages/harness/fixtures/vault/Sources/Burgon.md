@@ -18,20 +18,20 @@ theologian Henry John Rose (1800-1873), a churchman of the old conservative
 type, with whom he used to spend his long vacations. Burgon made Oxford his
 headquarters, while holding a living at some distance. In 1863 he was made
 vicar of St Mary's, having attracted attention by his vehement sermons
-against _Essays and Reviews_. In 1867 he was appointed Gresham professor of
+against _Essays and Reviews_. In 1867 he was appointed [[Gresham]] professor of
 divinity. In 1871 he published a defence of the genuineness of the twelve
-last verses of St Mark's Gospel. He now began an attack on the proposal for
+last verses of St Mark's [[Gospel]]. He now began an attack on the proposal for
 a new lectionary for the Church of England, based largely upon his
 objections to the principles for determining the authority of MS. readings
 adopted by Westcott and Hort, which he assailed in a memorable article in
 the _Quarterly Review_ for 1881. This, with his other articles, was
 reprinted in 1884 under the title of _The Revision Revised_. His
-biographical essays on H.L. Mansel and others were also collected, and
+biographical essays on H.L. [[Mansel]] and others were also collected, and
 published under the title of _Twelve Good Men_ (1888). Protests against the
 inclusion of Dr Vance Smith among the revisers, against the nomination of
 Dean Stanley to be select preacher in the university of Oxford, and against
 the address in favour of toleration in the matter of ritual, followed in
-succession. In 1876 Burgon was made dean of Chichester. He died on the 4th
+succession. In 1876 Burgon was made dean of [[Chichester]]. He died on the 4th
 of August 1888. His life was written by Dean E.M. Goulburn (1892). Vehement
 and almost passionate in his convictions, Burgon nevertheless possessed a
 warm and kindly heart. He may be described as a high churchman of the type

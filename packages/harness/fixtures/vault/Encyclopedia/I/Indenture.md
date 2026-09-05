@@ -18,7 +18,7 @@ DIPLOMATIC). The term "indenture" is now used generally of any sealed
 agreement between two or more parties, and specifically of a contract of
 apprenticeship, whence the phrase "to take up one's indentures," on
 completion of the term, and also of a contract by labourers to serve in
-a foreign country or colony (see COOLIE).
+a foreign country or colony (see [[Coolie|COOLIE]]).
 
 ## See also
 

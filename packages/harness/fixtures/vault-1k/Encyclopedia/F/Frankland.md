@@ -21,7 +21,7 @@ compounds. The theoretical deductions which he drew from the
 consideration of these bodies were even more interesting and important
 than the bodies themselves. Perceiving a molecular isonomy between them
 and the inorganic compounds of the metals from which they may be formed,
-he saw their true molecular type in the oxygen, sulphur or chlorine
+he saw their true molecular type in the oxygen, sulphur or [[Chlorine|chlorine]]
 compounds of those metals, from which he held them to be derived by the
 substitution of an organic group for the oxygen, sulphur, &c. In this
 way they enabled him to overthrow the theory of conjugate compounds, and
@@ -73,7 +73,7 @@ liquid state. An application of these results to solar physics in
 conjunction with Sir Norman Lockyer led to the view that at least the
 external layers of the sun cannot consist of matter in the liquid or
 solid forms, but must be composed of gases or vapours. Frankland and
-Lockyer were also the discoverers of helium. In 1868 they noticed in the
+Lockyer were also the discoverers of [[Helium|helium]]. In 1868 they noticed in the
 solar spectrum a bright yellow line which did not correspond to any
 substance then known, and which they therefore attributed to the then
 hypothetical element, helium.

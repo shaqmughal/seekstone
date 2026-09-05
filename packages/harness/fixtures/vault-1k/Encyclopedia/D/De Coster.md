@@ -33,7 +33,7 @@ been compared to Don Quixote, and even to Panurge. He is the type of the
 16th-century Fleming, and the history of his resurrection from the grave
 itself was accepted as an allegory of the destiny of the race. The
 exploits of himself and his friend form the thread of a semi-historical
-narrative, full of racy humour, in spite of the barbarities that find a
+narrative, full of racy [[Humour|humour]], in spite of the barbarities that find a
 place in it. This book also was illustrated by Rops and others. In 1870
 De Coster became professor of general history and of French literature
 at the military school. His works however were not financially

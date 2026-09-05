@@ -22,10 +22,10 @@ he aided the Reformation by his gift as a translator, turning Luther's
 and Melanchthon's works into German or Latin as the case might be, thus
 becoming a sort of double of both. He was busied in conferences and
 visitations during the next twenty years, and in diplomatic work with
-the princes. In 1541 he began a successful preaching crusade in Halle;
+the princes. In 1541 he began a successful preaching crusade in [[Halle]];
 he became superintendent of its churches in 1542. In 1546 he was present
 at Luther's deathbed at Eisleben, and preached the funeral sermon; but
-in the same year was banished from the duchy by Maurice, duke (later
+in the same year was banished from the duchy by [[Maurice]], duke (later
 elector) of Saxony. From that time until his death, Jonas was unable to
 secure a satisfactory living. He wandered from place to place preaching,
 and finally went to Eisfeld (1553), where he died. He had been married

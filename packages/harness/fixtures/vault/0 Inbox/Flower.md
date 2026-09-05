@@ -4,7 +4,7 @@ FLOWER (Lat. _flos_, _floris_; Fr. _fleur_), a term popularly used for
 the bloom or blossom of a plant, and so by analogy for the fairest,
 choicest or finest part or aspect of anything, and in various technical
 senses. Here we shall deal only with its botanical interest. It is
-impossible to give a rigid botanical definition of the term "flower."
+impossible to give a rigid botanical [[Definition|definition]] of the term "flower."
 The flower is a characteristic feature of the highest group of the plant
 kingdom--the flowering plants (Phanerogams)--and is the name given to
 the association of organs, more or less leaf-like in form, which are
@@ -57,7 +57,7 @@ are called _bracts_.
 
   Bracts.
 
-The term _bract_ is properly applied to the leaf from which the primary
+The term _bract_ is properly applied to the [[Leaf|leaf]] from which the primary
 floral axis, whether simple or branched, arises, while the leaves which
 arise on the axis between the bract and the outer envelope of the flower
 are _bracteoles_ or _bractlets_. Bracts sometimes do not differ from the
@@ -75,20 +75,20 @@ formation of stipulary structures by the sepals. In many cases bracts
 act as protective organs, within or beneath which the young flowers are
 concealed in their earliest stage of growth.
 
-When bracts become coloured, as in _Amherstia nobilis_, _Euphorbia
+When bracts become coloured, as in _Amherstia nobilis_, _[[Euphorbia]]
 splendens_, _Erica elegans_ and _Salvia splendens_, they may be mistaken
 for parts of the corolla. They are sometimes mere scales or threads, and
 at other times are undeveloped, giving rise to the _ebracteate_
-inflorescence of Cruciferae and some Boraginaceae. Sometimes they are
+inflorescence of Cruciferae and some [[Boraginaceae]]. Sometimes they are
 empty, no flower-buds being produced in their axil. A series of empty
 coloured bracts terminates the inflorescence of _Salvia Horminum_. The
 smaller bracts or bracteoles, which occur among the subdivisions of a
 branching inflorescence, often produce no flower-buds, and thus
 anomalies occur in the floral arrangements. Bracts are occasionally
 persistent, remaining long attached to the base of the peduncles, but
-more usually they are deciduous, falling off early by an articulation.
+more usually they are [[Deciduous|deciduous]], falling off early by an articulation.
 In some instances they form part of the fruit, becoming incorporated
-with other organs. Thus, the cones of firs and the stroboli of the hop
+with other organs. Thus, the cones of firs and the stroboli of the [[Hop|hop]]
 are composed of a series of spirally arranged bracts covering fertile
 flowers; and the scales on the fruit of the pine-apple are of the same
 nature. At the base of the general umbel in umbelliferous plants a whorl
@@ -96,10 +96,10 @@ of bracts often exists, called a _general involucre_, and at the base of
 the smaller umbels or umbellules there is a similar leafy whorl called
 an _involucel_ or _partial involucre_. In some instances, as in
 fool's-parsley, there is no general involucre, but simply an involucel;
-while in other cases, as in fennel or dill (fig. 15), neither involucre
-nor involucel is developed. In Compositae the name involucre is applied
+while in other cases, as in fennel or [[Dill|dill]] (fig. 15), neither involucre
+nor involucel is developed. In [[Compositae]] the name involucre is applied
 to the bracts surrounding the head of flowers (fig. 2, i), as in
-marigold, dandelion, daisy, artichoke. This involucre is frequently
+marigold, dandelion, [[Daisy|daisy]], artichoke. This involucre is frequently
 composed of several rows of leaflets, which are either of the same or of
 different forms and lengths, and often lie over each other in an
 imbricated manner. The leaves of the involucre are spiny in thistles and
@@ -145,19 +145,19 @@ arum lily (_Richardia aethiopica_). When the spadix is compound or
 branching, as in palms, there are smaller spathes, surrounding separate
 parts of the inflorescence. The spathe protects the flowers in their
 young state, and often falls off after they are developed, or hangs down
-in a withered form, as in some palms, _Typha_ and _Pothos_. In grasses
+in a withered form, as in some palms, _Typha_ and _Pothos_. In [[Grasses|grasses]]
 the outer scales or glumes of the spikelets are sterile bracts (fig. 5,
-gl); and in Cyperaceae bracts enclose the organs of reproduction. Bracts
+gl); and in [[Cyperaceae]] bracts enclose the organs of reproduction. Bracts
 are frequently changed into complete leaves. This change is called
 _phyllody_ of bracts, and is seen in species of _Plantago_, especially
 in the variety of _Plantago media_, called the rose-plantain in gardens,
 where the bracts become leafy and form a rosette round the flowering
-axis. Similar changes occur in _Plantago major_, _P. lanceolata_, _Ajuga
-reptans_, dandelion, daisy, dahlia and in umbelliferous plants. The
-conversion of bracts into stamens (_staminody_ of bracts) has been
+axis. Similar changes occur in _Plantago [[Major|major]]_, _P. lanceolata_, _Ajuga
+reptans_, dandelion, daisy, [[Dahlia|dahlia]] and in umbelliferous plants. The
+[[Conversion|conversion]] of bracts into stamens (_staminody_ of bracts) has been
 observed in the case of _Abies excelsa_. A lengthening of the axis of
 the female strobilus of Coniferae is not of infrequent occurrence in
-_Cryptomeria japonica_, larch (_Larix europaea_), &c., and this is
+_[[Cryptomeria]] japonica_, larch (_Larix europaea_), &c., and this is
 usually associated with a leaf-like condition of the bracts, and
 sometimes even with the development of leaf-bearing shoots in place of
 the scales.
@@ -188,12 +188,12 @@ hollow receptacle, enclosing numerous male and female flowers.]
 The _peduncle_ is simple, bearing a single flower, as in primrose; or
 branched, as in London-pride. It is sometimes succulent, as in the
 cashew, in which it forms the large coloured expansion supporting the
-nut; spiral, as in _Cyclamen_ and _Vallisneria_; or spiny, as in
+nut; spiral, as in _[[Cyclamen]]_ and _Vallisneria_; or spiny, as in
 _Alyssum spinosum_. When the peduncle proceeds from radical leaves, that
 is, from an axis which is so shortened as to bring the leaves close
 together in the form of a cluster, as in the primrose, auricula or
-hyacinth, it is termed a _scape_. The floral axis may be shortened,
-assuming a flattened, convex or concave form, and bearing numerous
+[[Hyacinth|hyacinth]], it is termed a _scape_. The floral axis may be shortened,
+assuming a flattened, [[Convex|convex]] or concave form, and bearing numerous
 flowers, as in the artichoke, daisy and fig (fig. 6). The floral axis
 sometimes appears as if formed by several peduncles united together,
 constituting a fasciated axis, as in the cockscomb, in which the flowers
@@ -307,8 +307,8 @@ way. Thus the flowers are arranged in groups, and frequently very
 complicated forms of inflorescence result. When the primary peduncle or
 floral axis, as in fig. 8, is elongated, and gives off pedicels, ending
 in single flowers, a _raceme_ is produced, as in currant, hyacinth and
-barberry. If the secondary floral axes give rise to tertiary ones, the
-raceme is branching, and forms a _panicle_, as in _Yucca gloriosa_. If
+[[Barberry|barberry]]. If the secondary floral axes give rise to tertiary ones, the
+raceme is branching, and forms a _panicle_, as in _Yucca [[Gloriosa|gloriosa]]_. If
 in a raceme the lower flower-stalks are developed more strongly than the
 upper, and thus all the flowers are nearly on a level, a _corymb_ is
 formed, which may be simple, as in fig. 11, where the primary axis a'
@@ -491,7 +491,7 @@ corresponding bracts b2, b3, b4, &c., and ending in a flower f2, f3, f4,
 &c. The whole appears to form a simple raceme of which the axes form the
 internodes.
 
-FIG. 19.--Scorpioidal or cicinal cyme of Forget-me-not (_Myosotis
+FIG. 19.--Scorpioidal or cicinal cyme of [[Forget-Me-Not|Forget-me-not]] (_Myosotis
 palustris_).
 
 FIG. 20.--Diagram of definite floral axes a, b, c, d, e, &c.
@@ -526,7 +526,7 @@ along one side of the false axis, but are placed at regular intervals,
 so as to form an elongated spiral round it.
 
 Compound definite inflorescences are by no means common, but in
-_Streptocarpus polyanthus_ and in several calceolarias we probably have
+_Streptocarpus polyanthus_ and in several [[Calceolaria|calceolarias]] we probably have
 examples. Here there are _scorpioid cymes of pairs of flowers_, each
 pair consisting of an older and a younger flower.
 
@@ -535,11 +535,11 @@ pair consisting of an older and a younger flower.
 
 Forms of inflorescence occur, in which both the definite and indefinite
 types are represented--_mixed_ inflorescences. Thus in Composite plants,
-such as hawk weeds (_Hieracia_) and ragworts (_Senecio_, fig. 21), the
+such as [[Hawk|hawk]] weeds (_Hieracia_) and ragworts (_Senecio_, fig. 21), the
 _heads_ of flowers, taken as a whole, are developed centrifugally, the
 terminal head first, while the _florets_, or small flowers on the
 receptacle, open centripetally, those at the circumference first. So
-also in Labiatae, such as dead-nettle (_Lamium_), the different whorls
+also in [[Labiatae]], such as dead-nettle (_Lamium_), the different whorls
 of inflorescence are developed centripetally, while the florets of the
 verticillaster are centrifugal. This mixed character presents
 difficulties in such cases as Labiatae, where the leaves, in place of
@@ -549,10 +549,10 @@ such cases the cymes are described as spiked, racemose, or panicled,
 according to circumstances. In _Saxifraga umbrosa_ (London-pride) and in
 the horse-chestnut we meet with a raceme of scorpioid cymes; in
 sea-pink, a capitulum of contracted scorpioid cymes (often called a
-glomerulus); in laurustinus, a compound umbel of dichasial cymes; a
+glomerulus); in [[Laurustinus|laurustinus]], a compound umbel of dichasial cymes; a
 scorpioid cyme of capitula in _Vernonia scorpioides_. The so-called
-catkins of the birch are, in reality, spikes of contracted dichasial
-cymes. In the bell-flower (_Campanula_) there is a racemose uniparous
+catkins of the [[Birch|birch]] are, in reality, spikes of contracted dichasial
+cymes. In the bell-flower (_[[Campanula]]_) there is a racemose uniparous
 cyme. In the privet (_Ligustrum vulgare_) there are numerous racemes of
 dichasia arranged in a racemose manner along an axis; the whole
 inflorescence thus has an appearance not unlike a bunch of grapes, and
@@ -563,7 +563,7 @@ has been called a _thyrsus_.
   A. Indefinite Centripetal Inflorescence.
       I. Flowers solitary, axillary. _Vinca_, _Veronica hederifolia_.
      II. Flowers in groups, pedicellate.
-           1. Elongated form (Raceme), _Hyacinth_, _Laburnum_, _Currant_.
+           1. Elongated form (Raceme), _Hyacinth_, _[[Laburnum]]_, _Currant_.
                 (Corymb), _Ornithogalum_.
            2. Contracted or shortened form (Umbel), _Cowslip_,
                 _Astrantia_.
@@ -592,7 +592,7 @@ has been called a _thyrsus_.
 
                 b. Scorpioid Cyme (axes unilateral, two rows).
                     Elongated form, _Forget-me-not_, _Symphytum_,
-                    _Henbane_.
+                    _[[Henbane]]_.
                    Contracted form, _Erodium_, _Alchemilla arvensis_.
            2. Biparous Cyme (Dichotomous), including 3-5 chotomous
                 Cymes (Dichasium, Cymose Umbel, Anthela).
@@ -624,7 +624,7 @@ perianth, owing to the absence of the petals.
 
 FIG. 25.--Stamen, consisting of a filament (stalk) f and an anther a,
 containing the pollen p, which is discharged through slits in the two
-lobes of the anther.
+[[Lobe|lobes]] of the anther.
 
 FIG. 26.--The pistil of Tobacco (_Nicotiana Tabacum_), consisting of the
 ovary o, containing ovules, the style s, and the capitate stigma g. The
@@ -665,7 +665,7 @@ plants there is an outer whorl (calyx), of three parts, and an inner
 (corolla), of a similar number, alternating with them. When the parts of
 the calyx are in appearance like petals they are said to be _petaloid_,
 as in Liliaceae. In some cases the petals have the appearance of sepals,
-then they are _sepaloid_, as in Juncaceae. In plants, as _Nymphaea
+then they are _sepaloid_, as in [[Juncaceae]]. In plants, as _Nymphaea
 alba_, where a spiral arrangement of the floral leaves occurs, it is not
 easy to say where the calyx ends and the corolla begins, as these two
 whorls pass insensibly into each other. When both calyx and corolla are
@@ -697,7 +697,7 @@ four series of leaves--calyx, corolla, androecium and gynoecium--and
 when these are all present the flower is _complete_. These are usually
 densely crowded upon the thalamus, but in some instances, after apical
 growth has ceased in the axis, an elongation of portions of the
-receptacle by intercalary growth occurs, by which changes in the
+receptacle by [[Intercalary|intercalary]] growth occurs, by which changes in the
 position of the parts may be brought about. Thus in _Lychnis_ an
 elongation of the axis betwixt the calyx and the corolla takes place,
 and in this way they are separated by an interval. Again, in the
@@ -745,7 +745,7 @@ flowers are those, as in Magnoliaceae, where the parts are in spirals
 (_acyclic_). Flowers which are cyclic at one portion and spiral at
 another, as in many Ranunculaceae, are termed _hemicyclic_. In spiral
 flowers the distinction into series is by no means easy, and usually
-there is a gradual passage from sepaloid through petaloid to staminal
+there is a [[Gradual|gradual]] passage from sepaloid through petaloid to staminal
 parts, as in the water-lily family, Nymphaeaceae (figs. 31, 32),
 although in some plants there is no such distinction, the parts being
 all petaloid, as in _Trollius_. Normally, the parts of successive whorls
@@ -753,7 +753,7 @@ alternate; but in some cases we find the parts of one whorl opposite or
 _superposed_ to those of the next whorl. In some cases, as in the
 vine-family Ampelidaceae, this seems to be the ordinary mode of
 development, but the superposition of the stamens on the sepals in many
-plants, as in the pink family, Caryophyllaceae, is due to the
+plants, as in the pink family, [[Caryophyllaceae]], is due to the
 suppression or abortion of the whorl of petals, and this idea is borne
 out by the development, in some plants of the order, of the suppressed
 whorl. As a rule, whenever we find the parts of one whorl superposed on
@@ -787,7 +787,7 @@ whorl; and in fig. 37 there are three divisions of the calyx, corolla
 and pistil, and six stamens in two rows. In all these cases the flower
 is symmetrical. In Monocotyledons it is usual for the staminal whorl to
 be double, it rarely having more than two rows, whilst amongst
-dicotyledons there are often very numerous rows of stamens. The floral
+[[Dicotyledons|dicotyledons]] there are often very numerous rows of stamens. The floral
 envelopes are rarely multiplied. Flowers in which the number of parts in
 each whorl is the same, are _isomerous_ (of equal number); when the
 number in some of the whorls is different, the flower is _anisomerous_
@@ -853,7 +853,7 @@ stamens in two rows (a); and one carpel (c).
 
 FIG. 40.--Flower of Pea (_Pisum sativum_), showing a papilionaceous
 corolla, with one petal superior (st) called the standard (vexillum),
-two inferior (car) called the keel (carina), and two lateral (a) called
+two inferior ([[Car|car]]) called the [[Keel|keel]] (carina), and two lateral (a) called
 wings (alae). The calyx is marked c.]
 
 In a pentamerous flower one sepal may be superior, as in the calyx of
@@ -862,7 +862,7 @@ Leguminosae (fig. 39)--the reverse, by the law of alternation, being the
 case with the petals. Thus, in the blossom of the pea (figs. 39, 40),
 the odd petal (vexillum) st is superior, while the odd sepal is
 inferior. In the order Scrophulariaceae one of the two carpels is
-posterior and the other anterior, whilst in Convolvulaceae the carpels
+posterior and the other anterior, whilst in [[Convolvulaceae]] the carpels
 are arranged laterally. Sometimes the twisting of a part makes a change
 in the position of other parts, as in Orchids, where the twisting of the
 ovary changes the position of the labellum.
@@ -892,7 +892,7 @@ the flower is disturbed. This suppression when confined to the parts of
 certain verticils makes the flower asymmetrical. Thus, in many
 Caryophyllaceae, as _Polycarpon_ and _Holosteum_, while the calyx and
 corolla are pentamerous, there are only three or four stamens and three
-carpels; in _Impatiens Noli-me-tangere_ the calyx is composed of three
+carpels; in _[[Impatiens]] Noli-me-tangere_ the calyx is composed of three
 parts, while the other verticils have five; in labiate flowers there are
 five parts of the calyx and corolla, and only four stamens; and in
 _Tropaeolum pentaphyllum_ there are five sepals, two petals, eight
@@ -909,7 +909,7 @@ become _unisexual_ or _diclinous_, and by the suppression of one or both
 of the floral envelopes, monochlamydeous and achlamydeous flowers are
 produced. The suppression of parts of the flower may be carried so far
 that at last a flower consists of only one part of one whorl. In the
-Euphorbiaceae we have an excellent example of the gradual suppression of
+[[Euphorbiaceae]] we have an excellent example of the gradual suppression of
 parts, where from an apetalous, trimerous, staminal flower we pass to
 one where one of the stamens is suppressed, and then to forms where two
 of them are wanting. We next have flowers in which the calyx is
@@ -975,11 +975,11 @@ _Cultivation_ has a great effect in causing changes in the various parts
 of plants. Many alterations in form, size, number and adhesion of parts
 are due to the art of the horticulturist. The changes in the colour and
 forms of flowers thus produced are endless. In the dahlia the florets
-are rendered quilled, and are made to assume many glowing colours. In
+are rendered quilled, and are made to assume many glowing [[Colours|colours]]. In
 pelargonium the flowers have been rendered larger and more showy; and
 such is also the case with the _Ranunculus_, the auricula and the
 carnation. Some flowers, with spurred petals in their usual state, as
-columbine, are changed so that the spurs disappear; and others, as
+[[Columbine|columbine]], are changed so that the spurs disappear; and others, as
 _Linaria_, in which one petal only is usually spurred, are altered so as
 to have all the petals spurred, and to present what are called
 _pelorian_ varieties.
@@ -1123,7 +1123,7 @@ apices either blunt or acute. In their direction they are erect or
 reflexed (with their apices downwards), spreading outwards (_divergent_
 or _patulous_), or arched inwards (_connivent_). They are usually of a
 greenish colour (_herbaceous_); but sometimes they are coloured or
-_petaloid_, as in the fuchsia, tropaeolum, globe-flower and pomegranate.
+_petaloid_, as in the [[Fuchsia|fuchsia]], tropaeolum, globe-flower and pomegranate.
 Whatever be its colour, the external envelope of the flower is
 considered as the calyx. The vascular bundles sometimes form a prominent
 rib, which indicates the middle of the sepal; at other times they form
@@ -1132,7 +1132,7 @@ leaves which constitute a gamosepalous calyx. In a polysepalous calyx
 the number of the parts is indicated by Greek numerals prefixed; thus, a
 calyx which has three sepals is _trisepalous_; one with five sepals is
 _pentasepalous_. The sepals occasionally are of different forms and
-sizes. In Aconite one of them is shaped like a helmet (_galeate_). In a
+sizes. In Aconite one of them is shaped like a [[Helmet|helmet]] (_galeate_). In a
 gamosepalous calyx the sepals are united in various ways, sometimes very
 slightly, and their number is marked by the divisions at the apex. These
 divisions either are simple projections in the form of acute or obtuse
@@ -1142,10 +1142,10 @@ half-way, the calyx being _trifid_ (three-cleft), _quinquefid_
 base in the form of partitions, the calyx being _tripartite_,
 _quadripartite_, _quinquepartite_, &c. The union of the parts may be
 complete, and the calyx may be quite entire or _truncate_, as in some
-Correas, the venation being the chief indication of the different parts.
+[[Correa|Correas]], the venation being the chief indication of the different parts.
 The cohesion is sometimes irregular, some parts uniting to a greater
 extent than others; thus a two-lipped or _labiate_ calyx is formed. The
-upper lip is often composed of three parts, which are thus posterior or
+upper [[Lip|lip]] is often composed of three parts, which are thus posterior or
 next the axis, while the lower has two, which are anterior. The part
 formed by the union of the sepals is called the _tube_ of the calyx; the
 portion where the sepals are free is the _limb_.
@@ -1153,7 +1153,7 @@ portion where the sepals are free is the _limb_.
 [Illustration: From Strasburger's _Lehrbuch der Botanik_, by permission
 of Gustav Fischer.
 
-FIG. 49.--Gamosepalous five-toothed calyx of Campion (_Lychnis_).
+FIG. 49.--Gamosepalous five-toothed calyx of [[Campion]] (_Lychnis_).
 
 FIG. 50.--Obsolete calyx (c) of Madder (_Rubia_) adherent to the pistil,
 in the form of a rim.
@@ -1161,17 +1161,17 @@ in the form of a rim.
 FIG. 51.--Feathery pappus attached to the fruit of Groundsel (_Senecio
 vulgaris_).
 
-FIG. 52.--Caducous calyx (c) of Poppy. There are two sepals which fall
+FIG. 52.--[[Caducous]] calyx (c) of Poppy. There are two sepals which fall
 off before the petals expand.
 
 FIG. 53.--Fruit of Physalis Alkekengi, consisting of the persistent
-calyx (s), surrounding the berry (fr), derived from the ovary. (After
+calyx (s), surrounding the [[Berry|berry]] (fr), derived from the ovary. (After
 Duchartre.)]
 
 Occasionally, certain parts of the sepals undergo marked enlargement. In
 the violet the calycine segments are prolonged downwards beyond their
 insertions, and in the Indian cress (_Tropaeolum_) this prolongation is
-in the form of a spur (_calcar_), formed by three sepals; in Delphinium
+in the form of a spur (_[[Calcar|calcar]]_), formed by three sepals; in Delphinium
 it is formed by one. In Pelargonium the spur from one of the sepals is
 adherent to the flower-stalk. In _Potentilla_ and allied genera an
 _epicalyx_ is formed by the development of stipules from the sepals,
@@ -1194,12 +1194,12 @@ in _Ranunculus_, and is _deciduous_; or it remains after flowering
 its base only is persistent, as in _Datura Stramonium_. In
 _Eschscholtzia_ and _Eucalyptus_ the sepals remain united at the upper
 part, and become disarticulated at the base or middle, so as to come off
-in the form of a lid or funnel. Such a calyx is _operculate_ or
+in the form of a lid or [[Funnel|funnel]]. Such a calyx is _operculate_ or
 _calyptrate_. The existence or non-existence of an articulation
 determines the deciduous or persistent nature of the calyx.
 
 The receptacle bearing the calyx is sometimes united to the pistil, and
-enlarges so as to form a part of the fruit, as in the apple, pear, &c.
+enlarges so as to form a part of the fruit, as in the [[Apple|apple]], pear, &c.
 In these fruits the withered calyx is seen at the apex. Sometimes a
 persistent calyx increases much after flowering, and encloses the fruit
 without being incorporated with it, becoming _accrescent_, as in various
@@ -1235,7 +1235,7 @@ occur on the leaves; thus, in Bombaceae they are stellate. Coloured
 hairs are seen on the petals of _Menyanthes_, and on the segments of the
 perianth of _Iris_. They serve various purposes in the economy of the
 flower, often closing the way to the honey-secreting part of the flower
-to small insects, whose visits would be useless for purposes of
+to small [[Insect|insects]], whose visits would be useless for purposes of
 pollination. Although petals are usually very thin and delicate in their
 texture, they occasionally become thick and fleshy, as in _Stapelia_ and
 _Rafflesia_; or dry, as in heaths; or hard and stiff, as in _Xylopia_. A
@@ -1255,8 +1255,8 @@ occasionally prolonged beyond the summit of the petals in the form of a
 long process, as in _Strophanthus hispidus_, where it extends for 7 in.;
 or the prolonged extremity is folded downwards or inflexed, as in
 Umbelliferae, so that the apex approaches the base. The limb of the
-petal may be flat or concave, or hollowed like a boat. In Hellebore the
-petals become folded in a tubular form, resembling a horn (fig. 56); in
+petal may be flat or concave, or hollowed like a boat. In [[Hellebore]] the
+petals become folded in a tubular form, resembling a [[Horn|horn]] (fig. 56); in
 aconite (fig. 58) some of the petals resemble a hollow-curved horn,
 supported on a grooved stalk; while in columbine, violet (fig. 57),
 snapdragon and _Centranthus_, one or all of them are prolonged in the
@@ -1350,11 +1350,11 @@ both ends, and expanded in the middle, as in bell-heath (_Erica
 cinerea_). Some of these forms may become irregular in consequence of
 certain parts being more developed than others. Thus, in _Veronica_, the
 rotate corolla has one division much smaller than the rest, and in
-foxglove (_Digitalis_) there is a slightly irregular companulate
+[[Foxglove|foxglove]] (_Digitalis_) there is a slightly irregular companulate
 corolla. Of irregular gamopetalous corollas there may be mentioned the
 _labiate_ or _lipped_ (fig. 62), having two divisions of the limb in the
 form of lips (the upper one, u, composed usually of two united petals,
-and the lower, l, of three), separated by a gap. In such cases the tube
+and the lower, l, of three), separated by a [[Gap|gap]]. In such cases the tube
 varies in length, and the parts in their union follow the reverse order
 of what occurs in the calyx, where two sepals are united in the lower
 lip and three in the upper. When the upper lip of a labiate corolla is
@@ -1428,7 +1428,7 @@ is sometimes difficult to say whether these structures are to be
 referred to the corolline or to the staminal row.
 
 Petals are attached to the axis usually by a narrow base. When this
-attachment takes place by an articulation, the petals fall off either
+[[Attachment|attachment]] takes place by an articulation, the petals fall off either
 immediately after expansion (_caducous_) or after fertilization
 (_deciduous_). A corolla which is continuous with the axis and not
 articulated to it, as in campanula and heaths, may be persistent, and
@@ -1489,8 +1489,8 @@ calyx and the pistil. In other cases they are perigynous or epigynous
 (fig. 65). Numerous intermediate forms occur, especially amongst
 Saxifragaceae, where the parts are _half superior_ or _half inferior_.
 Where the stamens become adherent to the pistil so as to form a column,
-the flowers are said to be _gynandrous_, as in _Aristolochia_ (fig. 66).
-These arrangements of parts are of great importance in classification.
+the flowers are said to be _gynandrous_, as in _[[Aristolochia]]_ (fig. 66).
+These arrangements of parts are of great importance in [[Classification|classification]].
 The stamens vary in number from one to many hundreds. In acyclic flowers
 there is often a gradual transition from petals to stamens, as in the
 white water-lily (fig. 31). When flowers become double by cultivation,
@@ -1576,7 +1576,7 @@ the whorl of stamens by cohesion of the filaments to a greater or less
 extent, while the anthers remain free; thus, all the filaments of the
 androecium may unite, forming a tube round the pistil, or a central
 bundle when the pistil is abortive, the stamens becoming _monadelphous_,
-as occurs in plants of the Mallow tribe; or they may be arranged in two
+as occurs in plants of the [[Mallow]] tribe; or they may be arranged in two
 bundles, the stamens being _diadelphous_, as in _Polygala_, _Fumaria_
 and Pea; in this case the bundles may be equal or unequal. It frequently
 happens, especially in Papilionaceous flowers, that out of ten stamens
@@ -1620,11 +1620,11 @@ some sort. There is a double covering of the anther--the outer, or
 _exothecium_, resembles the epidermis, and often presents stomata and
 projections of different kinds (fig. 69); the inner, or _endothecium_,
 is formed by a layer or layers of cellular tissue (fig. 69, cf), the
-cells of which have a spiral, annular, or reticulated thickening of the
+cells of which have a spiral, [[Annular|annular]], or reticulated thickening of the
 wall. The endothecium varies in thickness, generally becoming thinner
 towards the part where the anther opens, and there disappears entirely.
 The walls of the cells are frequently absorbed, so that when the anther
-attains maturity the fibres are alone left, and these by their
+attains maturity the [[Fibres|fibres]] are alone left, and these by their
 elasticity assist in discharging the pollen. The anther is developed
 before the filament, and is always sessile in the first instance, and
 sometimes continues so. It appears at first as a simple cellular papilla
@@ -1645,21 +1645,21 @@ lobe, in which case the anther is said to be _bilocular_ or _dithecal_.
 Sometimes the anther has a single cavity, and becomes _unilocular_, or
 _monothecal_, or _dimidiate_, either by the disappearance of the
 partition between the two lobes, or by the abortion of one of its lobes,
-as in _Styphelia laeta_ and _Althaea officinalis_ (hollyhock).
+as in _Styphelia laeta_ and _Althaea officinalis_ ([[Hollyhock|hollyhock]]).
 Occasionally there are numerous cavities in the anther, as in _Viscum_
 and _Rafflesia_. The form of the anther-lobes varies. They are generally
 of a more or less oval or elliptical form, or they may be globular, as
 in _Mercurialis annua_; at other times linear or clavate: curved,
-flexuose, or sinuose, as in bryony and gourd. According to the amount of
+flexuose, or sinuose, as in bryony and [[Gourd|gourd]]. According to the amount of
 union of the lobes and the unequal development of different parts of
-their surface an infinite variety of forms is produced. That part of the
+their surface an [[Infinite|infinite]] variety of forms is produced. That part of the
 anther to which the filament is attached is the _back_, the opposite
 being the _face_. The division between the lobes is marked on the face
 of the anther by a groove or _furrow_, and there is usually on the face
 a _suture_, indicating the line of dehiscence. The suture is often
 towards one side in consequence of the valves being unequal. The stamens
 may cohere by their anthers, and become _syngenesious_, as in composite
-flowers, and in lobelia, jasione, &c.
+flowers, and in [[Lobelia|lobelia]], jasione, &c.
 
 
   The connective.
@@ -1693,7 +1693,7 @@ bring them into a horizontal line.
 
   Antherdehiscence.
 
-The opening or _dehiscence_ of the anthers to discharge their contents
+The opening or _dehiscence_ of the anthers to [[Discharge|discharge]] their contents
 takes place either by clefts, by valves, or by pores. When the
 anther-lobes are erect, the cleft is lengthwise along the line of the
 suture--_longitudinal dehiscence_ (fig. 25). At other times the slit is
@@ -1724,7 +1724,7 @@ stamens has been deprived of its spur, the other shows its spur c.
 FIG. 72.--Anther of _Salvia officinalis_. lf, fertile lobe full of
 pollen; ls, barren lobe without pollen; e, connective; f, filament.
 
-FIG. 73.--Stamen of Lady's Mantle (_Alchemilla_), with the anther
+FIG. 73.--Stamen of Lady's [[Mantle]] (_Alchemilla_), with the anther
 opening transversely.
 
 FIG. 74.--Stamen of a species of Nightshade (_Solanum_), showing the
@@ -1765,7 +1765,7 @@ probably the case with such plants as _Mesembryanthemum_, where there
 is a multiplication of petals in several rows. Sometimes, as in _Canna_,
 one of the anther-lobes becomes abortive, and a petaloid appendage is
 produced. Stamens vary in length as regards the corolla. Some are
-enclosed within the tube of the flower, as in _Cinchona_ (_included_);
+enclosed within the tube of the flower, as in _[[Cinchona]]_ (_included_);
 others are _exserted_, or extend beyond the flower, as in _Littorella_
 or _Plantago_. Sometimes the stamens in the early state of the flower
 project beyond the petals, and in the progress of growth become
@@ -1802,7 +1802,7 @@ The pollen-grains or microspores contained in the anther consist of
 small cells, which are developed in the large thick-walled mother-cells
 formed in the interior of the pollen-sacs (microsporangia) of the young
 anther. These mother-cells are either separated from one another and
-float in the granular fluid which fills up the cavity of the pollen-sac,
+[[Float|float]] in the granular fluid which fills up the cavity of the pollen-sac,
 or are not so isolated. A division takes place, by which four cells are
 formed in each, the exact mode of division differing in dicotyledons and
 monocotyledons. These cells are the pollen-grains. They increase in size
@@ -1872,15 +1872,15 @@ an abortive pistil in the centre. When the perianth (p) expands, the
 filaments are thrown out with force as at a, so as to scatter the
 pollen.]
 
-Pollen-grains vary from 1/300 to 1/700 of an inch or less in diameter.
+Pollen-grains vary from 1/300 to 1/700 of an [[Inch|inch]] or less in diameter.
 Their forms are various. The most common form of grain is ellipsoidal,
 more or less narrow at the extremities, which are called its _poles_, in
 contradistinction to a line equidistant from the extremities, which is
-its equator. Pollen-grains are also spherical; cylindrical and curved,
+its [[Equator|equator]]. Pollen-grains are also spherical; cylindrical and curved,
 as in _Tradescantia virginica_; polyhedral in Dipsacaceae and
 Compositae; nearly triangular in section in Proteaceae and Onagraceae
 (fig. 82). The surface of the pollen-grain is either uniform and
-homogeneous, or it is marked by folds formed by thinnings of the
+homogeneous, or it is marked by [[Fold|folds]] formed by thinnings of the
 membrane. There are also rounded portions of the membrane or pores
 visible in the pollen-grain; these vary in number from one to fifty, and
 through one or more of them the pollen-tube is extended in germination
@@ -1943,7 +1943,7 @@ form a dark-red lamina covering the pistil, as in _Paeonia Moutan_ (fig.
 84); or a waxy lining of the hollow receptacle, as in the rose; or a
 swelling at the top of the ovary, as in Umbelliferae, in which the disk
 is said to be epigynous. The enlarged torus covering the ovary in
-_Nymphaea_ (_Castalia_) and _Nelumbium_ may be regarded as a form of
+_Nymphaea_ (_[[Castalia]]_) and _Nelumbium_ may be regarded as a form of
 disk.
 
 
@@ -2125,7 +2125,7 @@ leaves, so as to appear single, or the margins may not be united, each
 developing a placenta. Frequently the margins of the carpels, which fold
 in to the centre, split there into two lamellae, each of which is curved
 outwards and projects into the loculament, dilating at the end into a
-placenta. This is well seen in Cucurbitaceae (fig. 97), _Pyrola_, &c.
+placenta. This is well seen in [[Cucurbitaceae]] (fig. 97), _Pyrola_, &c.
 The carpellary leaves may fold inwards very slightly, or they may be
 applied in a valvate manner, merely touching at their margins, the
 placentas then being parietal (fig. 94), and appearing as lines or
@@ -2151,7 +2151,7 @@ of these views applies to Caryophyllaceae, the second to Primulaceae.
 Occasionally, divisions take place in ovaries which are not formed by
 the edges of contiguous carpels. These are called _spurious
 dissepiments_. They are often horizontal, as in _Cathartocarpus
-Fistula_, where they consist of transverse cellular prolongations from
+[[Fistula]]_, where they consist of transverse cellular prolongations from
 the walls of the ovary, only developed after fertilization, and
 therefore more properly noticed under fruit. At other times they are
 vertical, as in _Datura_, where the ovary, in place of being two-celled,
@@ -2172,7 +2172,7 @@ in _Lychnis_, _Primula_ (fig. 61) and Peony (fig. 64) (see also fig.
 with it the floral envelopes and staminal leaves, the basal portion of
 the ovary being formed by the receptacle, and the carpellary leaves
 alone closing in the apex, the ovary is _inferior_, as in pomegranate,
-aralia (fig. 65), gooseberry and fuchsia (see fig. 30). In some plants,
+aralia (fig. 65), [[Gooseberry|gooseberry]] and fuchsia (see fig. 30). In some plants,
 as many Saxifragaceae, there are intermediate forms, in which the term
 _half-inferior_ is applied to the ovary, whilst the floral whorls are
 _half-superior_.
@@ -2189,7 +2189,7 @@ FIG. 103.--Gynoecium of the Flower-de-Luce (_Iris_), consisting of an
 inferior ovary (o) and a style which divides into three petaloid
 segments (s), each bearing a stigma (st).
 
-FIG. 104.--Capsule of Poppy, opening by pores (p), under the radiating
+FIG. 104.--[[Capsule]] of Poppy, opening by pores (p), under the radiating
 peltate stigma (s).]
 
 
@@ -2216,7 +2216,7 @@ compressed and even petaloid, as in _Iris_ (fig. 103) and _Canna_. In
 Goodeniaceae it ends in a cuplike expansion, enclosing the stigma. It
 sometimes bears hairs, which aid in the application of the pollen to the
 stigma, and are called _collecting hairs_, as in _Campanula_, and also
-in _Aster_ and other Compositae. These hairs, during the upward growth
+in _[[Aster]]_ and other Compositae. These hairs, during the upward growth
 of the style, come into contact with the already ripened pollen, and
 carry it up along with them, ready to be applied by insects to the
 mature stigma of other flowers. In _Vicia_ and _Lobelia_ the hairs
@@ -2265,7 +2265,7 @@ beneath the angles of the large expansion of the apex of the style;
 ovoid, as in fuchsia; hemispherical; polyhedral; radiating, as in the
 poppy (fig. 104), where the true stigmatic rays are attached to a sort
 of _peltate_ or shield-like body, which may represent depressed or
-flattened styles; _cucullate_, i.e. covered by a hood, in calabar bean.
+flattened styles; _cucullate_, i.e. covered by a hood, in [[Calabar Bean|calabar bean]].
 The lobes of a stigma are flat and pointed as in _Mimulus_ and
 _Bignonia_, fleshy and blunt, smooth or granular, or they are feathery,
 as in many grasses (fig. 105) and other wind-pollinated flowers. In
@@ -2386,7 +2386,7 @@ which often forms a ridge. The anatropous ovule arises from the placenta
 as a straight or only slightly curved cellular process, and as it grows,
 gradually becomes inverted, curving from the point of origin of the
 integuments (cf. figs. 106, 107). As the first integument grows round
-it, the amount of inversion increases, and the funicle becomes adherent
+it, the amount of [[Inversion|inversion]] increases, and the funicle becomes adherent
 to the side of the nucellus. Then if a second integument be formed it
 covers all the free part of the ovule, but does not form on the side to
 which the raphe is adherent. These may be taken as the three types of
@@ -2401,13 +2401,13 @@ base, on a parietal placenta, with its apex upwards, and then is
 _ascending_, as in _Parietaria_. It may hang from an apicilar placenta
 at the summit of the ovary, its apex being directed downwards, and is
 _inverted_ or _pendulous_, as in _Hippuris vulgaris_; or from a parietal
-placenta near the summit, and then is _suspended_, as in _Daphne
+placenta near the summit, and then is _suspended_, as in _[[Daphne]]
 Mezereum_, Polygalaceae and Euphorbiaceae. Sometimes a long funicle
 arises from a basal placenta, reaches the summit of the ovary, and there
 bending over suspends the ovule, as in _Armeria_ (sea-pink); at other
 times the hilum appears to be in the middle, and the ovule becomes
 _horizontal_. When there are two ovules in the same cell, they may be
-either _collateral_, that is, placed side by side (fig. 92), or the one
+either _[[Collateral|collateral]]_, that is, placed side by side (fig. 92), or the one
 may be erect and the other inverted, as in some species of _Spiraea_ and
 _Aesculus_; or they may be placed one above another, each directed
 similarly, as is the case in ovaries containing a moderate or definite

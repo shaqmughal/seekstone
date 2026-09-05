@@ -15,16 +15,16 @@ there was no general consensus of opinion as to when it should come in
 the calendar, whether on the 6th of January, or the 25th of March, or
 the 25th of December.
 
-The earliest identification of the 25th of December with the birthday of
+The earliest [[Identification|identification]] of the 25th of December with the birthday of
 Christ is in a passage, otherwise unknown and probably spurious, of
 Theophilus of Antioch (A.D. 171-183), preserved in Latin by the
-Magdeburg centuriators (i. 3, 118), to the effect that the Gauls
+[[Magdeburg]] centuriators (i. 3, 118), to the effect that the [[Gaul|Gauls]]
 contended that as they celebrated the birth of the Lord on the 25th of
 December, whatever day of the week it might be, so they ought to
 celebrate the Pascha on the 25th of March when the resurrection befell.
 
 The next mention of the 25th of December is in Hippolytus' (c. 202)
-commentary on Daniel iv. 23. Jesus, he says, was born at Bethlehem on
+commentary on [[Daniel]] iv. 23. Jesus, he says, was born at Bethlehem on
 the 25th of December, a Wednesday, in the forty-second year of Augustus.
 This passage also is almost certainly interpolated. In any case he
 mentions no feast, nor was such a feast congruous with the orthodox
@@ -48,7 +48,7 @@ himself sets it on the 17th of November, 3 B.C. The author of a Latin
 tract, called the _De Pascha computus_, written in Africa in 243, sets
 it by private revelation, _ab ipso deo inspirati_, on the 28th of March.
 He argues that the world was created perfect, flowers in bloom, and
-trees in leaf, therefore in spring; also at the equinox, and when the
+trees in [[Leaf|leaf]], therefore in spring; also at the equinox, and when the
 moon just created was full. Now the moon and sun were created on a
 Wednesday. The 28th of March suits all these considerations. Christ,
 therefore, being the Sun of Righteousness, was born on the 28th of
@@ -64,13 +64,13 @@ Christ _Sol verus_, Ambrose _Sol novus noster_ (Sermo vii. 13), and such
 rhetoric was widespread. The Syrians and Armenians, who clung to the 6th
 of January, accused the Romans of sun-worship and idolatry, contending
 with great probability that the feast of the 25th of December had been
-invented by disciples of Cerinthus and its lections by Artemon to
+invented by [[Disciple|disciples]] of Cerinthus and its lections by Artemon to
 commemorate the _natural_ birth of Jesus. Chrysostom also testifies the
 25th of December to have been from the beginning known in the West, from
 Thrace even as far as Gades. Ambrose, _On Virgins_, in. ch. 1, writing
 to his sister, implies that as late as the papacy of Liberius 352-356,
 the Birth from the Virgin was feasted together with the Marriage of Cana
-and the Banquet of the 4000 (Luke ix. 13), which were never feasted on
+and the Banquet of the 4000 ([[Luke]] ix. 13), which were never feasted on
 any other day but Jan. 6.
 
 Chrysostom, in a sermon preached at Antioch on Dec. 20, 386 or 388, says
@@ -84,11 +84,11 @@ separate from the 6th of January, with its own _troparia_ and
 _sticharia_. They adopted it, and recommended it to Chrysostom, who had
 long been in favour of it. Epiphanius of Crete was won over to it, as
 were also the other three patriarchs, Theophilus of Alexandria, John of
-Jerusalem, Flavian of Antioch. This was under Pope Anastasius, 398-400.
+Jerusalem, [[Flavian]] of Antioch. This was under Pope Anastasius, 398-400.
 John or Wahan of Nice, in a letter printed by Combefis in his _Historia
 monothelitarum_, affords the above details. The new feast was
 communicated by Proclus, patriarch of Constantinople (434-446), to
-Sahak, Catholicos of Armenia, about 440. The letter was betrayed to the
+Sahak, Catholicos of [[Armenia]], about 440. The letter was betrayed to the
 Persian king, who accused Sahak of Greek intrigues, and deposed him.
 However, the Armenians, at least those within the Byzantine pale,
 adopted it for about thirty years, but finally abandoned it together
@@ -102,7 +102,7 @@ is the fact (noticed by Usener) that in 387 the new feast was reckoned
 according to the Julian calendar by writers of the province of Asia, who
 in referring to other feasts use the reckoning of their local calendars.
 As early as 400 in Rome an imperial rescript includes Christmas among
-the three feasts (the others are Easter and Epiphany) on which theatres
+the three feasts (the others are [[Easter]] and Epiphany) on which theatres
 must be closed. Epiphany and Christmas were not made judicial _non dies_
 until 534.
 
@@ -142,7 +142,7 @@ as a man, and is constantly spoken of as such by the fathers who
 witnessed its institution.
 
 In Britain the 25th of December was a festival long before the
-conversion to Christianity, for Bede (_De temp. rat._ ch. 13) relates
+[[Conversion|conversion]] to Christianity, for Bede (_De temp. rat._ ch. 13) relates
 that "the ancient peoples of the Angli began the year on the 25th of
 December when we now celebrate the birthday of the Lord; and the very
 night which is now so holy to us, they called in their tongue
@@ -158,21 +158,21 @@ revived the feast, but the Scots adhered to the Puritan view.
 Outside Teutonic countries Christmas presents are unknown. Their place
 is taken in Latin countries by the _strenae_, French _étrennes_, given
 on the 1st of January; this was in antiquity a great holiday, wherefore
-until late in the 4th century the Christians kept it as a day of fasting
+until late in the 4th century the Christians kept it as a day of [[Fasting|fasting]]
 and gloom. The setting up in Latin churches of a Christmas _crèche_ is
 said to have been originated by St Francis.
 
-  AUTHORITIES.--K.A.H. Kellner, _Heortologie_ (Freiburg im Br., 1906),
+  AUTHORITIES.--K.A.H. Kellner, _Heortologie_ ([[Freiburg]] im Br., 1906),
   with Bibliography; Hospinianus, _De festis Christianorum_ (Genevae,
   1574); Edw. Martène, _De Antiquis Ecclesiae Ritibus_, iii. 31
   (Bassani, 1788); J.C.W. Augusti, _Christl. Archäologie_, vols. i. and
   v. (Leipzig, 1817-1831); A.J. Binterim, _Denkwürdigkeiten_, v. pt. i.
-  p. 528 (Mainz, 1825, &c.); Ernst Friedrich Wernsdorf, _De originibus
+  p. 528 (Mainz, 1825, &c.); Ernst [[Friedrich]] Wernsdorf, _De originibus
   Solemnium Natalis Christi_ (Wittenberg, 1757, and in J.E. Volbeding,
   _Thesaurus Commentationum_, Lipsiae, 1847); Anton. Bynaeus, _De Natali
-  Jesu Christi_ (Amsterdam, 1689); Hermann Usener,
-  _Religionsgeschichtliche Untersuchungen_ (Bonn, 1889); Nik. Nilles,
-  S.J., _Kalendarium Manuale_ (Innsbruck, 1896); L. Duchesne, _Origines
+  Jesu Christi_ (Amsterdam, 1689); [[Hermann]] Usener,
+  _Religionsgeschichtliche Untersuchungen_ ([[Bonn]], 1889); Nik. Nilles,
+  S.J., _Kalendarium Manuale_ ([[Innsbruck]], 1896); L. Duchesne, _Origines
   du culte chrétien_ (3e éd., Paris, 1889).    (F. C. C.)
 
 

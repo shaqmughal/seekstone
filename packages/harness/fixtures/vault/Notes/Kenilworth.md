@@ -15,7 +15,7 @@ importance from its antiquarian interest and the magnificent ruins of
 its old castle. The walls originally enclosed an area of 7 acres. The
 principal portions of the building remaining are the gatehouse, now used
 as a dwelling-house; Caesar's tower, the only portion built by Geoffrey
-de Clinton now extant, with massive walls 16 ft. thick; the Merwyn's
+de [[Clinton]] now extant, with massive walls 16 ft. thick; the Merwyn's
 tower of Scott's _Kenilworth_; the great hall built by John of Gaunt
 with windows of very beautiful design; and the Leicester buildings,
 which are in a very ruinous condition. Not far from the castle are the
@@ -35,12 +35,12 @@ founded a monastery here about 1122. Geoffrey's grandson released his
 right to King John, and the castle remained with the crown until Henry
 III. granted it to Simon de Montfort, earl of Leicester. The famous
 "Dictum de Kenilworth" was proclaimed here in 1266. After the battle of
-Evesham the rebel forces rallied at the castle, which, after a siege of
-six months, was surrendered by Henry de Hastings, the governor, on
+[[Evesham]] the rebel forces rallied at the castle, which, after a siege of
+six months, was surrendered by Henry de [[Hastings]], the governor, on
 account of the scarceness of food and of the "pestilent disease" which
 raged there. The king then granted it to his son Edmund. Through John of
 Gaunt it came to Henry IV. and was granted by Elizabeth in 1562 to
-Robert Dudley, afterwards earl of Leicester, but on his death in 1588
+Robert [[Dudley]], afterwards earl of Leicester, but on his death in 1588
 again merged in the possessions of the Crown. The earl spent large sums
 on restoring the castle and grounds, and here in July 1575 he
 entertained Queen Elizabeth at "excessive cost," as described in Scott's
@@ -49,7 +49,7 @@ illuminated by a great variety of torches ... made its appearance upon
 the lake," upon which, clad in silks, were the Lady of the Lake and two
 nymphs waiting on her, and for the several days of her stay "rare shews
 and sports were there exercised." During the civil wars the castle was
-dismantled by the soldiers of Cromwell and was from that time abandoned
+dismantled by the soldiers of [[Cromwell]] and was from that time abandoned
 to decay. The only mention of Kenilworth as a borough occurs in a
 charter of Henry I. to Geoffrey de Clinton and in the charters of Henry
 I. and Henry II. to the church of St Mary of Kenilworth confirming the

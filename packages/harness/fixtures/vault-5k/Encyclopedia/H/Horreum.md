@@ -10,7 +10,7 @@ tags: [medieval, architecture-theory]
 
 HORREUM, the Latin word for a magazine or storehouse for the storage of
 grain and other produce of the earth, and occasionally for that of
-agricultural implements. The storehouses of Rome were of the most
+agricultural [[Implement|implements]]. The storehouses of Rome were of the most
 extensive character, there being no fewer than 290 public horrea at the
 time of Constantine. They were used for the storage of food and
 merchandize of all kinds, being part of the great Roman system of

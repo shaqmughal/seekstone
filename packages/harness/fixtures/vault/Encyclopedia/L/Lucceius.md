@@ -6,7 +6,7 @@ topic: history
 
 # Lucceius
 
-LUCCEIUS, LUCIUS, Roman orator and historian, friend and correspondent
+LUCCEIUS, [[Lucius|LUCIUS]], Roman orator and historian, friend and correspondent
 of Cicero. A man of considerable wealth and literary tastes, he may be
 compared with Atticus. Disgusted at his failure to become consul in 60,
 he retired from public life, and devoted himself to writing a history of
@@ -19,7 +19,7 @@ greater weight. Cicero offered to supply the material, and hinted that
 Lucceius need not sacrifice laudation to accuracy. Lucceius almost
 promised, but did not perform. Nothing remains of any such work or of
 his history. In the civil war he took the side of Pompey; but, having
-been pardoned by Caesar, returned to Rome, where he lived in retirement
+been pardoned by [[Caesar]], returned to Rome, where he lived in retirement
 until his death.
 
   Cicero's _Letters_ (ed. Tyrrell and Purser), especially _Ad Fam._ v.

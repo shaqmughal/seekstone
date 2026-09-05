@@ -3,7 +3,7 @@
 HOTCH-POT, or HOTCH-POTCH (from Fr. _hocher_, to shake; used as early as
 1292 as a law term, and from the 15th century in cookery for a sort of
 broth with many ingredients, and so used figuratively for any
-heterogeneous mixture), in English law, the name given to a rule of
+heterogeneous mixture), in [[English Law|English law]], the name given to a rule of
 equity whereby a person, interested along with others in a common fund,
 and having already received something in the same interest, is required
 to surrender what has been so acquired into the common fund, on pain of
@@ -25,7 +25,7 @@ and the reason assigned for it is that, inasmuch as daughters succeeding
 to lands take together as coparceners and not by primogeniture, the
 policy of the law is that the land in such cases should be equally
 divided. The law of hotch-pot applies only to lands descending in
-fee-simple. The same principle is noticed by Blackstone as applying in
+fee-simple. The same principle is noticed by [[Blackstone]] as applying in
 the customs of York and London to personal property. It is also
 expressly enacted in the Statute of Distributions (S 5) that no child of
 the intestate, except his heir-at-law, who shall have any estate in land

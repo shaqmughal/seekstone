@@ -2,7 +2,7 @@
 
 DONOVAN, EDWARD (1768-1837), English naturalist, was the author of many
 popular works on natural history and botany. In 1792 appeared the first
-volume of his _Natural History of British Insects_, which extended to
+volume of his _Natural History of British [[Insect|Insects]]_, which extended to
 sixteen volumes, and was completed in 1813. He also published _Natural
 Histories of British Birds_, in 10 vols. 8vo (1799-1819), _of British
 Fishes_, in 5 vols. (1802-1808), _of British Shells_, in 5 vols.
@@ -15,7 +15,7 @@ _Essay on the Minute Parts of Plants in general_. Donovan was author of
 the articles on natural history in Rees's _Cyclopaedia_. In 1833 he
 published a _Memorial respecting my Publications in Natural History_, in
 which he complains that he had been nearly ruined by his publishers. He
-was a fellow of the Linnean Society, and died in London on the 1st of
+was a [[Fellow|fellow]] of the Linnean Society, and died in London on the 1st of
 February 1837.
 
 ## References

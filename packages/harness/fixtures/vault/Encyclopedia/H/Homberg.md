@@ -8,17 +8,17 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Homberg"
 # Homberg
 
 HOMBERG, WILHELM (1652-1715), Dutch natural philosopher, was the son of
-an officer of the Dutch East India Company, and was born at Batavia
-(Java) on the 8th of January 1652. Coming to Europe with his family in
-1670, he studied law at Jena and Leipzig, and in 1674 became an advocate
-at Magdeburg. In that town he made the acquaintance of Otto von
-Guericke, and under his influence determined to devote himself to
+an officer of the [[Dutch East India Company]], and was born at [[Batavia]]
+([[Java]]) on the 8th of January 1652. Coming to Europe with his family in
+1670, he studied law at [[Jena]] and Leipzig, and in 1674 became an advocate
+at [[Magdeburg]]. In that town he made the acquaintance of Otto von
+[[Guericke]], and under his influence determined to devote himself to
 natural science. He, therefore, travelled in various parts of Europe for
 study, and after graduating in medicine at Wittenberg, settled in Paris
 in 1682. From 1685 to 1690 he practised as a physician at Rome; then
 returning to Paris in 1691, he was elected a member of the Academy of
 Sciences and appointed director of its chemical laboratory. Subsequently
-he became teacher of physics and chemistry (1702), and private physician
+he became teacher of physics and [[Chemistry|chemistry]] (1702), and private physician
 (1705) to the duke of Orleans. His death occurred at Paris on the 24th
 of September 1715. Homberg was not free from alchemistical tendencies,
 but he made many solid contributions to chemical and physical knowledge,

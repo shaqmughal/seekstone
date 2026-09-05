@@ -18,7 +18,7 @@ ancient _Teate Marrucinorum_ (q.v.), with woollen and cotton
 manufactories and other smaller industries. The origin of the see of
 Chieti dates from the 4th century, S. Justinus being the first bishop.
 The cathedral has been spoilt by restoration, and the decoration of the
-exterior is incomplete; the Gothic campanile of 1335 is, however, fine.
+exterior is incomplete; the [[Gothic]] campanile of 1335 is, however, fine.
 The cathedral possesses two illuminated missals. Close by is the town
 hall, which contains a small picture gallery, in which, in 1905, was
 held an important exhibition of ancient Abruzzese art. The de Laurentiis
@@ -26,8 +26,8 @@ family possesses a private collection of some importance. To the north
 of Chieti is the octagonal church of S. Maria del Tricaglio, erected in
 1317, which is said (without reason) to stand upon the site of a temple
 of Diana. The order of the Theatines, founded in 1524, takes its name
-from the city. Under the Lombards Chieti formed part of the duchy of
-Benevento; it was destroyed by Pippin in 801, but was soon rebuilt and
+from the city. Under the [[Lombards]] Chieti formed part of the duchy of
+[[Benevento]]; it was destroyed by Pippin in 801, but was soon rebuilt and
 became the seat of a count. The Normans made it the capital of the
 Abruzzi.
 

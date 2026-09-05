@@ -29,8 +29,8 @@ and the solution of hydroxylamine distilled in order to remove methyl
 alcohol, and finally fractionated under reduced pressure. The free base
 is a colourless, odourless, crystalline solid, melting at about 30° C.,
 and boiling at 58° C. (under a pressure of 22 mm.). It deliquesces and
-oxidizes on exposure, inflames in dry chlorine and is reduced to ammonia
-by zinc dust. Its aqueous solution is strongly alkaline, and with acids
+oxidizes on exposure, inflames in dry [[Chlorine|chlorine]] and is reduced to ammonia
+by zinc [[Dust|dust]]. Its aqueous solution is strongly alkaline, and with acids
 it forms well-defined stable salts. E. Ebler and E. Schott (_J. pr.
 Chem._, 1908, 78, p. 289) regard it as acting with the formula NH2·OH
 towards bases, and as NH3:O towards acids, the salts in the latter case
@@ -38,7 +38,7 @@ being of the oxonium type. It is a strong reducing agent, giving a
 precipitate of cuprous oxide from alkaline copper solutions at ordinary
 temperature, converting mercuric chloride to mercurous chloride, and
 precipitating metallic silver from solutions of silver salts. With
-aldehydes and ketones it forms oximes (q.v.). W. R. Dunstan (_Jour.
+aldehydes and [[Ketones|ketones]] it forms oximes (q.v.). W. R. Dunstan (_Jour.
 Chem. Soc._, 1899, 75, p. 792) found that the addition of methyl iodide
 to a methyl alcohol solution of hydroxylamine resulted in the formation
 of trimethyloxamine, N(CH3)3O.
@@ -62,7 +62,7 @@ of trimethyloxamine, N(CH3)3O.
   reagent on amyl nitrite. Dihydroxy-ammonia or nitroxyl, NH(OH)2, a
   very unstable and highly reactive substance, has been especially
   studied by A. Angeli (see A. W. Stewart, _Recent Advances in Physical
-  and Inorganic Chemistry_, 1909).
+  and Inorganic [[Chemistry]]_, 1909).
 
 ## See also
 

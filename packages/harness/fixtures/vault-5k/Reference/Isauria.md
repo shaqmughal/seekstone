@@ -7,7 +7,7 @@ type: source
 
 # Isauria
 
-ISAURIA, in ancient geography, a district in the interior of Asia Minor,
+ISAURIA, in ancient [[Geography|geography]], a district in the interior of Asia Minor,
 of very different extent at different periods. The permanent nucleus of
 it was that section of the Taurus which lies directly to south of
 Iconium and Lystra. Lycaonia had all the Iconian plain; but Isauria
@@ -19,7 +19,7 @@ Cilicia Trachea as part of Isauria, which thus extended to the sea; and
 this extension of the name continued to be in common use for two
 centuries. The whole basin of the Calycadnus was reckoned Isaurian, and
 the cities in the valley of its southern branch formed what was known as
-the Isaurian Decapolis. Towards the end of the 3rd century A.D.,
+the Isaurian [[Decapolis]]. Towards the end of the 3rd century A.D.,
 however, all Cilicia was detached for administrative purposes from the
 northern slope of Taurus, and we find a province called at first
 Isauria-Lycaonia, and later Isauria alone, extending up to the limits of
@@ -61,7 +61,7 @@ in 1901. The only modern exploration of highland Isauria was that made
 by J. S. Sterrett in 1885; but it was not exhaustive.
 
   BIBLIOGRAPHY.--W. M. Ramsay, _Historical Geography of Asia Minor_
-  (1890), and article "Nova Isaura" in _Journ. Hell. Studies_ (1905); A.
+  (1890), and article "Nova Isaura" in _Journ. [[Hell]]. Studies_ (1905); A.
   M. Ramsay, ibid. (1904); J. R. S. Sterrett, "Wolfe Expedition to Asia
   Minor," _Papers Amer. Inst. of Arch._ iii. (1888); C. Ritter,
   _Erdkunde_, xix. (1859); E. J. Davis, _Life in As. Turkey_ (1879).

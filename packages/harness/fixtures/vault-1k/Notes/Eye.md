@@ -11,7 +11,7 @@ about an inch (24 mm.) in diameter. From the front of this a segment of
 a lesser sphere projects slightly and forms the _cornea_ (fig. 1, co).
 There are three coats to the eyeball, an external (protective), a middle
 (vascular), and an internal (sensory). There are also three refracting
-media, the aqueous humour, the lens and the vitreous humour or body.
+media, the aqueous [[Humour|humour]], the lens and the vitreous humour or body.
 
 [Illustration: FIG. 1.--Diagrammatic Section through the Eyeball.
 
@@ -177,7 +177,7 @@ nerve, and at its centre the retinal artery appears and divides into
 branches. An appreciation of the condition of the optic disk is one of
 the chief objects of the ophthalmoscope.
 
-The _crystalline lens_ (fig. 1, L) with its ligament separates the
+The _crystalline lens_ (fig. 1, L) with its [[Ligament|ligament]] separates the
 aqueous from the vitreous chamber of the eye; it is a biconvex lens the
 posterior surface of which is more curved than the anterior. Radiating
 from the anterior and posterior poles are three faint lines forming a Y,
@@ -370,7 +370,7 @@ well as the iris and cornea are derived from the mesoderm.
   Froriep, in _Handbuch der vergleichenden und experimentellen
   Entwickelungslehre der Wirbeltiere_ (O. Hertwig, Jena, 1905).
 
-COMPARATIVE ANATOMY.--The Acrania, as represented by Amphioxus (the
+[[Comparative Anatomy|COMPARATIVE ANATOMY]].--The Acrania, as represented by Amphioxus (the
 lancelet), have a patch of pigment in the fore part of the brain which
 is regarded as the remains of a degenerated eye. In the Cyclostomata the
 hag (Myxine) and larval lamprey (Ammocoetes) have ill-developed eyes
@@ -464,7 +464,7 @@ or anterior part becomes the Harderian gland. Below the amphibians
 glands are not necessary, as the water keeps the eye moist.
 
 The lachrymal duct first appears in the tailed amphibians; in snakes and
-gecko lizards, however, it opens into the mouth.
+[[Gecko|gecko]] lizards, however, it opens into the mouth.
 
   For literature up to 1900 see R. Wiedersheim's _Vergleichende Anatomie
   der Wirbeltiere_ (Jena, 1902). Later literature is noticed in the
@@ -485,7 +485,7 @@ rise to conscious perception cause a stimulation of the same area in the
 brain. Impressions formed simultaneously, for instance, on the right
 side of the right retina and on corresponding areas of the right side of
 the left retina, are conveyed to the same spots in the right occipital
-lobe of the brain. Pathological processes, therefore, which are
+[[Lobe|lobe]] of the brain. Pathological processes, therefore, which are
 localized in the right or left occipital lobes, or along any part of the
 course of the fibres which pass from the right or left optic tracts to
 these "visual centres," cause defects in function of the right or left
@@ -513,7 +513,7 @@ doubt most frequently of toxic origin.
 The two eyes also act as if they were one in accommodating. It is
 impossible for the two eyes to accommodate simultaneously to different
 extents, so that where there is, as occasionally happens, a difference
-in focus between them, this difference remains the same for all
+in [[Focus|focus]] between them, this difference remains the same for all
 distances for which they are adapted. In such cases, therefore, both
 eyes cannot ever be accurately adapted at the same time, though either
 may be alone. It often happens as a consequence that the one eye is used
@@ -656,7 +656,7 @@ mucous membrane is all that is required. It is a common and dangerous
 mistake to over treat.
 
 Of local antiseptics which are of use may be mentioned the actual
-cautery, chlorine water, freshly prepared silver nitrate or protargol,
+cautery, [[Chlorine|chlorine]] water, freshly prepared silver nitrate or protargol,
 and the yellow oxide of mercury. These different agents are of course
 not all equally applicable in any given case; it depends upon the
 severity as well as upon the nature of the inflammation which is the
@@ -780,7 +780,7 @@ do not cause rupture of the capsule, are sometimes followed, after a
 time, by slowly-progressing cataract. Secondary cataract is due to
 abnormalities in the nutrient matter supplied to the lens owing to
 disease of the ciliary body, choroid or retina. In some diseases, as
-diabetes, the altered general nutrition tells in the same way on the
+[[Diabetes|diabetes]], the altered general nutrition tells in the same way on the
 crystalline lens. Cataract is then rapidly formed. All cases of cataract
 in diabetes are not, however, necessarily true diabetic cataracts in the
 above sense. _Dislocations of the lens_ are traumatic or congenital. In
@@ -981,7 +981,7 @@ which sets it up.
 Traumata, the presence of foreign bodies in the conjunctival sac, or the
 irritations of superficial chalky infarcts in the Meibomian ducts, cause
 more or less severe transitory congestion. Continued subjection to
-irritating particles such as flour, stones, dust, &c., causes a more
+irritating particles such as flour, stones, [[Dust|dust]], &c., causes a more
 continued hyperaemia which is often circumscribed and less pronounced.
 Bad air in schools, barracks, workhouses, &c., also causes a chronic
 hyperaemia in which it is common to find a follicular hyperplasia. Long

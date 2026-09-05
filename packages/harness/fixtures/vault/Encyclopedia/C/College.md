@@ -8,12 +8,12 @@ distinction between the responsibilities and rights of the society and
 those of individual members thereof, the collegium was what we should
 now call a corporation (q.v.). Collegia might exist for purposes of
 trade like the English gilds, or for religious purposes (e.g. the
-college of augurs, of pontifices, &c.), or for political purposes, e.g.
+college of [[Augurs|augurs]], of pontifices, &c.), or for political purposes, e.g.
 _tribunorum plebis collegia_. By the Roman law a collegium must have at
 least three members. The name is now usually applied to educational
 corporations, such as the colleges of Oxford and Cambridge, with which,
 in the numerous English statutes relating to colleges, the colleges of
-Winchester and Eton are usually associated. These colleges are in the
+Winchester and [[Eton]] are usually associated. These colleges are in the
 eye of the law eleemosynary corporations. In some of the earlier
 statutes of Queen Elizabeth they are spoken of as having an
 ecclesiastical character, but the doctrine of the common law since the
@@ -36,7 +36,7 @@ of abode for students attending the university. At the same time the
 corporations thus founded were not necessarily attached to the locality
 of the university. The early statutes of Merton College, for example,
 allow the residence of the college to be shifted as occasion required;
-and the foundations of Wolsey at Oxford and Ipswich seem to have been
+and the foundations of Wolsey at Oxford and [[Ipswich]] seem to have been
 the same in intention. In later times (until the introduction of
 non-collegiate students) the university and the colleges became
 coextensive; every member of the university had to attach himself to
@@ -47,11 +47,11 @@ In Ayliffe's _Ancient and Present State of the University of Oxford_ it
 is stated that a college must be "made up of three persons (at least)
 joined in community. And the reason of this almost seems to speak its
 own necessity, without the help of any express law to countenance it:
-because among two persons only there cannot be, in fact, a major part;
+because among two persons only there cannot be, in fact, a [[Major|major]] part;
 and then if any disagreement should happen to arise between them it
 cannot be, in fact, brought to a conclusion by such a number alone in
 case both the parties should firmly adhere to their dissenting opinions;
-and thus it is declared by the civil law. But by the canon law it is
+and thus it is declared by the [[Civil Law|civil law]]. But by the canon law it is
 known to be otherwise; for by that law two persons in number may make
 and constitute a college, forasmuch as according to this law two persons
 make and constitute an assembly or congregation. The common law of
@@ -61,7 +61,7 @@ been herein agreeable to the method and doctrine of the civil law, for
 that in all their grants and charters of incorporation of colleges they
 have not framed any aggregate body consisting of less than three in
 number." Another principle, apparently derived from the civil law, is
-that a man cannot be a fellow in two colleges at the same time. The law
+that a man cannot be a [[Fellow|fellow]] in two colleges at the same time. The law
 of England steadily resisted any attempt to introduce the principle of
 inequality into colleges. An act of 1542, reciting that divers founders
 of colleges have given in their statutes a power of veto to individual
@@ -71,7 +71,7 @@ part of such corporation should be in any wise hindered by any one or
 more being the lesser number (contrary to the common law), shall be
 void.
 
-The corporation consists of a head or master, fellows and scholars.
+The corporation consists of a head or master, [[Fellows|fellows]] and scholars.
 Students, not being on the foundation, residing in the college, are not
 considered to be members of the corporation. The governing body in all
 cases is the head and fellows.
@@ -88,7 +88,7 @@ society--usually at certain stated intervals. In questions within his
 jurisdiction his judgment is conclusive, but his jurisdiction does not
 extend to any cases under the common laws of the country, or to trusts
 attached to the college. Generally the visitorship resides in the
-founder and his heirs unless he has otherwise appointed, and in default
+founder and his [[Heir|heirs]] unless he has otherwise appointed, and in [[Default|default]]
 of him in the crown.
 
 The fellowships, scholarships, &c., of colleges were until a

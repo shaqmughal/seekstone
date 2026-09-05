@@ -1,6 +1,6 @@
 # Bara Banki
 
-BARA BANKI, a town and district of British India in the Fyzabad division of
+BARA BANKI, a town and district of British India in the [[Fyzabad]] division of
 the United Provinces. The town, which forms one municipality with
 Nawabganj, the administrative headquarters of the district, is 17 m. E. of
 Lucknow by railway. The population of Bara Banki alone in 1901 was 3020.

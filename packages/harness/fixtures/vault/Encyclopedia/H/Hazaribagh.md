@@ -1,9 +1,9 @@
 # Hazaribagh
 
-HAZARIBAGH, a town and district of British India, in the Chota Nagpur
-division of Bengal. The town is well situated at an elevation of 2000
+HAZARIBAGH, a town and district of British India, in the [[Chota]] Nagpur
+division of [[Bengal]]. The town is well situated at an elevation of 2000
 ft. Pop. (1901) 15,799. Hazaribagh has ceased to be a military
-cantonment since the European penitentiary was abolished. There are a
+[[Cantonment|cantonment]] since the European penitentiary was abolished. There are a
 central jail and a reformatory school. The Dublin University Mission
 maintains a First Arts college.
 

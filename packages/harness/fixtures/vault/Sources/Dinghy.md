@@ -1,7 +1,7 @@
 # Dinghy
 
 DINGHY, or DINGEY (from the Hindu _d[=e]ng[=i]_ a small boat, the
-diminutive of _denga_, a sloop or coasting vessel), a boat of greatly
+diminutive of _denga_, a sloop or [[Coasting|coasting]] vessel), a boat of greatly
 varying size and shape, used on the rivers of India; the term is applied
 also, in certain districts, to a larger boat used for coasting purposes.
 The name was adopted by the merchantmen trading with India, and is now

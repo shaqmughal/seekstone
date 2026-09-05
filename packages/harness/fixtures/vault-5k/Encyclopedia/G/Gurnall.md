@@ -2,7 +2,7 @@
 
 GURNALL, WILLIAM (1617-1679), English author, was born in 1617 at King's
 Lynn, Norfolk. He was educated at the free grammar school of his native
-town, and in 1631 was nominated to the Lynn scholarship in Emmanuel
+town, and in 1631 was nominated to the Lynn scholarship in [[Emmanuel]]
 College, Cambridge, where he graduated B.A. in 1635 and M.A. in 1639. He
 was made rector of Lavenham in Suffolk in 1644; and before he received
 that appointment he seems to have officiated, perhaps as curate, at

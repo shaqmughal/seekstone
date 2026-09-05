@@ -7,7 +7,7 @@ topic: biography
 # Critias
 
 CRITIAS, Athenian orator and poet, and one of the Thirty Tyrants. In his
-youth he was a pupil of Gorgias and Socrates, but subsequently devoted
+youth he was a pupil of [[Gorgias]] and Socrates, but subsequently devoted
 himself to political intrigues. In 415 B.C. he was implicated in the
 mutilation of the Hermae and imprisoned. In 411 he helped to put down
 the Four Hundred, and was instrumental in procuring the recall of

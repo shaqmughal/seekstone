@@ -18,7 +18,7 @@ elevation of about 1000 ft. above sea-level, and is surrounded [v.04
 p.0679] by a country well adapted to agriculture and stock-raising. Among
 its manufactures are machinery, structural steel, ventilating and heating
 apparatus, furniture, interior woodwork, ploughs, wagons, carriages, copper
-products and clay-working machines. Bucyrus was first settled in 1817; it
+products and clay-working [[Machine|machines]]. Bucyrus was first settled in 1817; it
 was laid out as a town in 1822, was incorporated as a village in 1830, and
 became a city in 1885. The county-seat was permanently established here in
 1830.

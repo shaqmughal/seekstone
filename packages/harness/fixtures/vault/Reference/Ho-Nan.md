@@ -10,14 +10,14 @@ tags: [science, geography]
 
 HO-NAN, a central province of China, bounded N. partly by the Hwang-ho
 (which it crosses to the west of Ho-nan Fu, forming an arm northwards
-between the provinces of Shan-si and Chih-li), on the W. by Shen-si, on
+between the provinces of Shan-si and [[Chih-Li|Chih-li]]), on the W. by Shen-si, on
 the S. by Hu-peh, and on the E. by Ngan-hui. It occupies an area of
 81,000 sq. m., with a population of about 22,100,000, and contains nine
-prefectural cities. Its capital is K'ai-feng Fu. The prefecture of
+prefectural cities. Its capital is [[K'Ai-Feng Fu|K'ai-feng Fu]]. The prefecture of
 Hwai-k'ing, north of the Hwang-ho, consists of a fertile plain,
 "rendered park-like by numerous plantations of trees and shrubs, among
-which thick bosquets of bamboo contrast with the gloomy groves of
-cypress." All kinds of cereals grow luxuriantly, and the general
+which thick [[Bosquet|bosquets]] of bamboo contrast with the gloomy groves of
+[[Cypress|cypress]]." All kinds of cereals grow luxuriantly, and the general
 productiveness of the district is indicated by the extreme denseness of
 the population. The most noticeable feature in that portion of the
 province which is properly called Ho-nan is the Fu-niu Shan range, which
@@ -39,7 +39,7 @@ the third crosses the Hwang-ho at Mengching Hien, and passes thence in a
 north-easterly direction to Hwai-k'ing Fu, Sew-wu Hien and Wei-hui Fu,
 at which place it joins the high road from Peking to Fan-cheng; and the
 western road follows the southern bank of the Hwang-ho for 250 m. to its
-great bend at the fortified pass known as the Tung-kwan, where it joins
+great [[Bend|bend]] at the fortified pass known as the Tung-kwan, where it joins
 the great wagon road leading through Shan-si from Peking to Si-gan Fu.
 Ho-nan is now traversed north to south by the Peking-Hankow railway
 (completed 1905). The line crosses the Hwang-ho by Yung-tse and runs

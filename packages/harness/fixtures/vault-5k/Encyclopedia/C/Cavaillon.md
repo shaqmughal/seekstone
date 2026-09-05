@@ -1,7 +1,7 @@
 # Cavaillon
 
 CAVAILLON, a town of south-eastern France in the department of Vaucluse,
-20 m. S.E. of Avignon by rail. Pop. (1906) town, 5760; commune, 9952.
+20 m. S.E. of [[Avignon]] by rail. Pop. (1906) town, 5760; [[Commune|commune]], 9952.
 Cavaillon lies at the southern base of Mont St Jacques on the right bank
 of the Durance above its confluence with the Coulon. It has a hotel de
 ville of the 18th century, a church of the 12th century, dedicated to St

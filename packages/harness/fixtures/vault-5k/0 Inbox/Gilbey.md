@@ -20,7 +20,7 @@ classes would gladly drink wine if they could get it at a moderate
 price, and by his advice Walter and Alfred determined to push the sales
 of colonial, and particularly of Cape, wines, on which the duty was
 comparatively light. Backed by capital obtained through Henry Gilbey,
-they accordingly opened in 1857 a small retail business in a basement in
+they accordingly opened in 1857 a small retail business in a [[Basement|basement]] in
 Oxford Street, London. The Cape wines proved popular, and within three
 years the brothers had 20,000 customers on their books. The creation of
 the off-licence system by Mr Gladstone, then chancellor of the
@@ -49,7 +49,7 @@ improve the breed of English horses (other than race-horses) generally,
 and wrote extensively on the subject. He became president of the Shire
 Horse Society, of the Hackney Horse Society, and of the Hunters'
 Improvement Society, and he was the founder and chairman of the London
-Cart Horse Parade Society. He was also a practical agriculturist, and
+[[Cart]] Horse Parade Society. He was also a practical agriculturist, and
 president of the Royal Agricultural Society.
 
 ## See also

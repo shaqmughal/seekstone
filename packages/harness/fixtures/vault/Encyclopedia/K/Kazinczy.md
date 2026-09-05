@@ -10,16 +10,16 @@ acquaintance of Gideon Raday, who allowed him the use of his library. In
 1784 Kazinczy became subnotary for the county of Abauj; and in 1786 he
 was nominated inspector of schools at Kassa. There he began to devote
 himself to the restoration of the Magyar language and literature by
-translations from classical foreign works, and by the augmentation of
+translations from classical foreign works, and by the [[Augmentation|augmentation]] of
 the native vocabulary from ancient Magyar sources. In 1788, with the
-assistance of Baroti Szabo and John Bacsanyi, he started at Kassa the
+assistance of Baroti Szabo and John [[Bacsanyi]], he started at Kassa the
 first Magyar literary magazine, _Magyar Muzeum_; the _Orpheus_, which
 succeeded it in 1790, was his own creation. Although, upon the accession
-of Leopold II, Kazinczy, as a non-Catholic, was obliged to resign his
+of [[Leopold]] II, Kazinczy, as a non-Catholic, was obliged to resign his
 post at Kassa, his literary activity in no way decreased. He not only
 assisted Gideon Raday in the establishment and direction of the first
 Magyar dramatic society, but enriched the repertoire with several
-translations from foreign authors. His _Hamlet_, which first appeared at
+translations from foreign authors. His _[[Hamlet]]_, which first appeared at
 Kassa in 1790, is a rendering from the German version of Schroder.
 Implicated in the democratic conspiracy of the abbot Martinovics,
 Kazinczy was arrested on the 14th of December 1794, and condemned to
@@ -34,8 +34,8 @@ corresponding member. He died of Asiatic cholera, at Szephalom, on the
 
   Kazinczy, although possessing great beauty of style, cannot be
   regarded as a powerful and original thinker; his fame is chiefly due
-  to the felicity of his translations from the masterpieces of Lessing,
-  Goethe, Wieland, Klopstock, Ossian, La Rochefoucauld, Marmontel,
+  to the felicity of his translations from the masterpieces of [[Lessing]],
+  Goethe, Wieland, [[Klopstock]], Ossian, La Rochefoucauld, Marmontel,
   Moliere, Metastasio, Shakespeare, Sterne, Cicero, Sallust, Anacreon,
   and many others. He also edited the works of Baroczy (Pest, 1812, 8
   vols.) and of the poet Zrinyi (1817, 2 vols.), and the poems of Dayka

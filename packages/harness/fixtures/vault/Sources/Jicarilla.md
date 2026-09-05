@@ -1,6 +1,6 @@
 # Jicarilla
 
-JICARILLA, a tribe of North American Indians of Athapascan stock. Their
+JICARILLA, a tribe of North American Indians of [[Athapascan]] stock. Their
 former range was in New Mexico, about the headwaters of the Rio Grande
 and the Pecos, and they are now settled in a reservation on the northern
 border of New Mexico. Originally a scourge of the district, they are now

@@ -6,7 +6,7 @@ order Rosaceae, with large thick oval-oblong leaves borne near the ends
 of the branches, and dark green above with a rusty tomentum on the lower
 face. The fruit is pear-shaped, yellow, about 1½ in. long and contains
 large stony seeds; it has an agreeable acid flavour. The plant is a
-native of China and Japan, but is widely grown for its fruit and as a
+native of China and [[Japan]], but is widely grown for its fruit and as a
 decorative plant. It is a familiar object in the Mediterranean region
 and in the southern United States.
 

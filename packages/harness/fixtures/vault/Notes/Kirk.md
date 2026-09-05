@@ -1,7 +1,7 @@
 # Kirk
 
 KIRK, SIR JOHN (1832-   ), British naturalist and administrator, son of
-the Rev. John Kirk, was born at Barry, near Arbroath, on the 19th of
+the Rev. John Kirk, was born at [[Barry]], near Arbroath, on the 19th of
 December 1832. He was educated at Edinburgh for the medical profession,
 and after serving on the civil medical staff throughout the Crimean War,
 was appointed in February 1858 physician and naturalist to David
@@ -21,7 +21,7 @@ controlling influence, and after the failure of Sir Bartle Frere's
 efforts he succeeded in obtaining (June 5, 1873) the sultan's signature
 to a treaty abolishing the slave trade in his dominions. In 1877 Bargash
 offered to a British merchant--Sir W. Mackinnon--a lease of his mainland
-territories, and he gave Kirk a declaration in which he bound himself
+territories, and he gave Kirk a [[Declaration|declaration]] in which he bound himself
 not to cede territory to any other power than Great Britain, a
 declaration ignored by the British government. When Germany in 1885
 claimed districts considered by the sultan to belong to Zanzibar, Kirk
@@ -38,15 +38,15 @@ retiring from the consular service. In 1889-1890 he was a
 plenipotentiary at the slave trade conference in Brussels, and was one
 of the delegates who fixed the tariff duties to be imposed in the Congo
 basin. In 1895 he was sent by the British government on a mission to the
-Niger; and on his return he was appointed a member of the Foreign Office
+Niger; and on his return he was appointed a member of the [[Foreign Office]]
 committee for constructing the Uganda railway. As a naturalist Kirk took
 high rank, and many species of the flora and fauna of Central Africa
 were made known by him, and several bear his name, e.g. the _Otogale
-kirkii_ (a lemuroid), the _Madoqua kirkii_ (a diminutive antelope), the
+kirkii_ (a lemuroid), the _Madoqua kirkii_ (a diminutive [[Antelope|antelope]]), the
 _Landolphia kirkii_ and the _Clematis kirkii_. For his services to
-geography he received in 1882 the patrons' medal of the Royal
+[[Geography|geography]] he received in 1882 the patrons' medal of the Royal
 Geographical Society, of which society he became foreign secretary. Kirk
-was created K.C.B. in 1900. He married, in 1867, Miss Helen Cooke.
+was created K.C.B. in 1900. He married, in 1867, Miss Helen [[Cooke]].
 
 ## See also
 

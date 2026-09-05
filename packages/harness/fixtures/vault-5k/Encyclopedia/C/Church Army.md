@@ -8,7 +8,7 @@ tags: [history, philosophy]
 # Church Army
 
 CHURCH ARMY, an English religious organization, founded in 1882 by the
-Rev. Wilson Carlile (afterwards prebendary of St Paul's), who banded
+Rev. Wilson [[Carlile]] (afterwards prebendary of St Paul's), who banded
 together in an orderly army of "soldiers" and "officers" a few working
 men and women, whom he and others trained to act as "Church of England
 evangelists" among the outcasts and criminals of the Westminster slums.

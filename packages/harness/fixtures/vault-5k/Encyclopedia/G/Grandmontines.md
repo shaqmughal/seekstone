@@ -9,12 +9,12 @@ type: note
 
 GRANDMONTINES, a religious order founded by St Stephen of Thiers in
 Auvergne towards the end of the 11th century. St Stephen was so
-impressed by the lives of the hermits whom he saw in Calabria that he
+impressed by the lives of the hermits whom he saw in [[Calabria]] that he
 desired to introduce the same manner of life into his native country. He
 was ordained, and in 1073 obtained the pope's permission to establish an
-order. He betook himself to Auvergne, and in the desert of Muret, near
+order. He betook himself to Auvergne, and in the [[Desert|desert]] of Muret, near
 Limoges, he made himself a hut of branches of trees and lived there for
-some time in complete solitude. A few disciples gathered round him, and
+some time in complete solitude. A few [[Disciple|disciples]] gathered round him, and
 a community was formed. The rule was not reduced to writing until after
 Stephen's death, 1124. The life was eremitical and very severe in regard
 to silence, diet and bodily austerities; it was modelled after the rule
@@ -31,13 +31,13 @@ management of the temporals was in great measure left in their hands;
 the arrangement did not work well, and the quarrels between the lay
 brothers and the choir monks were a constant source of weakness. Later
 centuries witnessed mitigations and reforms in the life, and at last the
-order came to an end just before the French Revolution. There were two
+order came to an end just before the [[French Revolution]]. There were two
 or three convents of Grandmontine nuns. The order played no great part
 in history.
 
   See Helyot, _Hist. des ordres religieux_ (1714), vii. cc. 54, 55; Max
   Heimbucher, _Orden und Kongregationen_ (1896). i. S 31; and the art.
-  in Wetzer and Welte, _Kirchenlexicon_ (ed. 2), and in Herzog,
+  in Wetzer and Welte, _Kirchenlexicon_ (ed. 2), and in [[Herzog]],
   _Realencyklopadie_ (ed. 3).     (E. C. B.)
 
 ## References

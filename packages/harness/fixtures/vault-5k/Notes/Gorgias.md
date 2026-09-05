@@ -7,12 +7,12 @@ the Syracusans. He subsequently settled in Athens, and supported himself
 by the practice of oratory and by teaching rhetoric. He died at Larissa
 in Thessaly. His chief claim to recognition consists in the fact that he
 transplanted rhetoric to Greece, and contributed to the diffusion of the
-Attic dialect as the language of literary prose. He was the author of a
+[[Attic]] dialect as the language of literary prose. He was the author of a
 lost work _On Nature or the Non-existent_ ([Greek: Peri tou me ontos e
 peri physeos], fragments edited by M. C. Valeton, 1876), the substance
 of which may be gathered from the writings of Sextus Empiricus, and also
 from the treatise (ascribed to Theophrastus) _De Melisso, Xenophane,
-Gorgia_. Gorgias is the central figure in the Platonic dialogue
+Gorgia_. Gorgias is the central figure in the Platonic [[Dialogue|dialogue]]
 _Gorgias_. The genuineness of two rhetorical exercises (_The Encomium of
 Helen_ and _The Defence of Palamedes_, edited with Antiphon by F. Blass
 in the Teubner series, 1881), which have come down under his name, is

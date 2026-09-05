@@ -9,17 +9,17 @@ schools it possesses an academy of wine and fruit cultivation.
 
 On a hill rising directly from the banks of the Danube stand the
 magnificent buildings (erected 1730-1834) of the Augustine canonry,
-founded in 1106 by Margrave Leopold the Holy. This foundation is the
+founded in 1106 by Margrave [[Leopold]] the Holy. This foundation is the
 oldest and richest of the kind in Austria; it owns much of the land
 upon which the north-western suburbs of Vienna stand. Among the points
 of interest within it are the old chapel of 1318, with Leopold's tomb
 and the altar of Verdun, dating from the 12th century, the treasury and
 relic-chamber, the library with 30,000 volumes and many MSS., the
-picture gallery, the collection of coins, the theological hall, and the
+picture gallery, the collection of [[Coin|coins]], the theological hall, and the
 wine-cellar, containing an immense tun like that at Heidelberg. The
 inhabitants of Klosterneuburg are mainly occupied in making wine, of
 excellent quality. There is a large cement factory outside the town. In
-Roman times the castle of Citium stood in the region of Klosterneuburg.
+Roman times the castle of [[Citium]] stood in the region of Klosterneuburg.
 The town was founded by Charlemagne, and received its charter as a town
 in 1298.
 

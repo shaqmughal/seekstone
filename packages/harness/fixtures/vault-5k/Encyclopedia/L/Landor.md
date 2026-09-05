@@ -11,15 +11,15 @@ the authorities were willing to condone the offence, he refused to
 return. The affair led to a quarrel with his father in which Landor
 expressed his intention of leaving home for ever. He was, however,
 reconciled with his family through the efforts of his friend Dorothea
-Lyttelton. He entered no profession, but his father allowed him £150 a
+[[Lyttelton]]. He entered no profession, but his father allowed him £150 a
 year, and he was free to live at home or not as he pleased.]
 
 In 1795 appeared in a small volume, divided into three books, _The Poems
 of Walter Savage Landor_, and, in pamphlet form of nineteen pages, an
-anonymous _Moral Epistle, respectfully dedicated to Earl Stanhope_. No
+anonymous _Moral [[Epistle]], respectfully dedicated to Earl Stanhope_. No
 poet at the age of twenty ever had more vigour of style and fluency of
 verse; nor perhaps has any ever shown such masterly command of epigram
-and satire, made vivid and vital by the purest enthusiasm and most
+and satire, made vivid and vital by the purest [[Enthusiasm|enthusiasm]] and most
 generous indignation. Three years later appeared the first edition of
 the first great work which was to inscribe his name for ever among the
 great names in English poetry. The second edition of _Gebir_ appeared in
@@ -31,11 +31,11 @@ version. [His father's death in 1805 put him in possession of an
 independent fortune. Landor settled in Bath. Here in 1808 he met
 Southey, and the mutual appreciation of the two poets led to a warm
 friendship.] In 1808, under an impulse not less heroic than that which
-was afterwards to lead Byron to a glorious death in redemption of Greece
+was afterwards to lead [[Byron]] to a glorious death in redemption of Greece
 and his own good fame, Landor, then aged thirty-three, left England for
 Spain as a volunteer to serve in the national army against Napoleon at
 the head of a regiment raised and supported at his sole expense. After
-some three months' campaigning came the affair of Cintra and its
+some three months' campaigning came the affair of [[Cintra]] and its
 disasters; "his troop," in the words of his biographer, "dispersed or
 melted away, and he came back to England in as great a hurry as he had
 left it," but bringing with him the honourable recollection of a brave
@@ -51,7 +51,7 @@ points of greatness in common. The superhuman isolation of agony and
 endurance which encircles and exalts the hero is in each case expressed
 with equally appropriate magnificence of effect. The style of _Count
 Julian_, if somewhat deficient in dramatic ease and the fluency of
-natural dialogue, has such might and purity and majesty of speech as
+natural [[Dialogue|dialogue]], has such might and purity and majesty of speech as
 elsewhere we find only in Milton so long and so steadily sustained.
 
 In May 1811 Landor had suddenly married Miss Julia Thuillier, with whose
@@ -89,13 +89,13 @@ omissions invariably to be deplored. In 1853 he put forth _The Last
 Fruit off an Old Tree_, containing fresh conversations, critical and
 controversial essays, miscellaneous epigrams, lyrics and occasional
 poems of various kind and merit, closing with _Five Scenes_ on the
-martyrdom of Beatrice Cenci, unsurpassed even by their author himself
+martyrdom of [[Beatrice]] Cenci, unsurpassed even by their author himself
 for noble and heroic pathos, for subtle and genial, tragic and profound,
 ardent and compassionate insight into character, with consummate mastery
 of dramatic and spiritual truth. In 1856 he published _Antony and
 Octavius--Scenes for the Study_, twelve consecutive poems in dialogue
 which alone would suffice to place him high among the few great masters
-of historic drama.
+of historic [[Drama|drama]].
 
 In 1858 appeared a metrical miscellany bearing the title of _Dry Sticks
 Fagoted by W. S. Landor_, and containing among other things graver and
@@ -151,17 +151,17 @@ often a source of sensible perplexity. In his noble trilogy on the
 history of Giovanna queen of Naples it is sometimes actually difficult
 to realize on a first reading what has happened or is happening, or how,
 or why, or by what agency--a defect alone sufficient, but unhappily
-sufficient in itself, to explain the too general ignorance of a work so
+sufficient in itself, to explain the too general [[Ignorance|ignorance]] of a work so
 rich in subtle and noble treatment of character, so sure and strong in
 its grasp and rendering of "high actions and high passions," so rich in
-humour and in pathos, so royally serene in its commanding power upon the
+[[Humour|humour]] and in pathos, so royally serene in its commanding power upon the
 tragic mainsprings of terror and of pity. As a poet, he may be said on
 the whole to stand midway between Byron and Shelley--about as far above
 the former as below the latter. If we except Catullus and Simonides, it
 might be hard to match and it would be impossible to overmatch the
 flawless and blameless yet living and breathing beauty of his most
 perfect elegies, epigrams or epitaphs. As truly as prettily was he
-likened by Leigh Hunt "to a stormy mountain pine which should produce
+likened by Leigh [[Hunt]] "to a stormy mountain pine which should produce
 lilies." His passionate compassion, his bitter and burning pity for all
 wrongs endured in all the world, found only their natural and inevitable
 outlet in his lifelong defence or advocacy of tyrannicide as the last
@@ -173,19 +173,19 @@ hot-headed of heroes or of men. Nor ever was any man's best work more
 thoroughly imbued and informed with evidence of his noblest qualities.
 His loyalty and liberality of heart were as inexhaustible as his bounty
 and beneficence of hand. Praise and encouragement, deserved or
-undeserved, came yet more readily to his lips than challenge or
+undeserved, came yet more readily to his [[Lip|lips]] than challenge or
 defiance. Reviled and ridiculed by Lord Byron, he retorted on the
 offender living less readily and less warmly than he lamented and
 extolled him dead. On the noble dramatic works of his brother Robert he
 lavished a magnificence of sympathetic praise which his utmost
-self-estimate would never have exacted for his own. Age and the lapse
+self-estimate would never have exacted for his own. Age and the [[Lapse|lapse]]
 of time could neither heighten nor lessen the fulness of this rich and
 ready generosity. To the poets of his own and of the next generation he
 was not readier to do honour than to those of a later growth, and not
-seldom of deserts far lower and far lesser claims than theirs. That he
-was not unconscious of his own, and avowed it with the frank simplicity
+seldom of [[Desert|deserts]] far lower and far lesser claims than theirs. That he
+was not unconscious of his own, and avowed it with the [[Frank|frank]] simplicity
 of nobler times, is not more evident or more certain than that in
-comparison with his friends and fellows he was liable rather to
+comparison with his friends and [[Fellows|fellows]] he was liable rather to
 undervalue than to overrate himself. He was a classic, and no formalist;
 the wide range of his just and loyal admiration had room for a genius so
 far from classical as Blake's. Nor in his own highest mood or method of
@@ -217,7 +217,7 @@ could not sensibly impair.     (A. C. S.)
   Treasury" series, edited by Sidney Colvin, who also contributed the
   monograph on _Landor_ (1881) in the "English Men of Letters" series. A
   bibliography of his works, many of which are very rare, is included in
-  Sir Leslie Stephen's article on Landor in the _Dictionary of National
+  Sir [[Leslie]] Stephen's article on Landor in the _Dictionary of National
   Biography_ (vol. xxxii., 1892).     (M. Br.)
 
 ## See also

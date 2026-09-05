@@ -13,17 +13,17 @@ literary historian and writer on philosophic subjects. Karl Hillebrand
 became involved, as a student in Heidelberg, in the Baden revolutionary
 movement, and was imprisoned in Rastatt. He succeeded in escaping and
 lived for a time in Strassburg, Paris--where for several months he was
-Heine's secretary--and Bordeaux. He continued his studies, and after
+Heine's secretary--and [[Bordeaux]]. He continued his studies, and after
 obtaining the doctor's degree at the Sorbonne, he was appointed teacher
 of German in the _Ecole militaire_ at St Cyr, and shortly afterwards,
-professor of foreign literatures at Douai. On the outbreak of the
-Franco-German War he resigned his professorship and acted for a time as
+professor of foreign literatures at [[Douai]]. On the outbreak of the
+[[Franco-German War]] he resigned his professorship and acted for a time as
 correspondent to _The Times_ in Italy. He then settled in Florence, where
 he died on the 19th of October 1884. Hillebrand wrote with facility and
 elegance in French, English and Italian, besides his own language. His
 essays, collected under the title _Zeiten, Volker und Menschen_ (Berlin,
-1874-1885), show clear discernment, a finely balanced cosmopolitan
-judgment and grace of style. He undertook to write the _Geschichte
+1874-1885), show clear discernment, a finely balanced [[Cosmopolitan|cosmopolitan]]
+judgment and [[Grace|grace]] of style. He undertook to write the _Geschichte
 Frankreichs von der Thronbesteigung Ludwig Philipps bis zum Fall
 Napoleons III._, but only two volumes were completed (to 1848) (2nd ed.,
 1881-1882). In French he published _Des conditions de la bonne comedie_

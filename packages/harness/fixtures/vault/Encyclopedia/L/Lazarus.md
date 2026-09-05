@@ -36,7 +36,7 @@ _Zur Lehre von den Sinnestäuschungen_ (1867); _Ideale Fragen_ (1875 and
 1885), _Erziehung und Geschichte_ (1881); _Unser Standpunkt_ (1881);
 _Ueber die Reize des Spiels_ (1883). Apart from the great interest of
 his philosophical work, Lazarus was pre-eminent among the Jews of the
-so-called Semitic domination in Germany. Like Heine, Auerbach and
+so-called Semitic domination in Germany. Like [[Heine]], Auerbach and
 Steinthal, he rose superior to the narrower ideals of the German Jews,
 and took a leading place in German literature and thought. He protested
 against the violent anti-Semitism of the time, and, in spite of the
@@ -44,7 +44,7 @@ moderate tone of his publications, drew upon himself unqualified
 censure. He wrote in this connexion a number of articles collected in
 1887 under the title _Treu und Frei. Reden und Vorträge über Juden und
 Judenthum_. In 1869 and 1871 he was president of the first and second
-Jewish Synods at Leipzig and Augsburg.
+Jewish Synods at Leipzig and [[Augsburg]].
 
   See R. Flint, _The Philosophy of History in Europe_; M. Brasch,
   _Gesammelte Essays und Characterköpfe zur neuen Philos. und

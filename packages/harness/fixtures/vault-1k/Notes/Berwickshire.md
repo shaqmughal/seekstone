@@ -19,7 +19,7 @@ Lammermuirs are a range of round-backed hills, whose average height is
 about 1000 ft., while the highest summit, Says Law, reaches 1749 ft.
 From these hills the Merse stretches to the S. and E., and is a
 comparatively level tract of country. The coast is lofty, rocky and
-precipitous, broken by ravines and not accessible, except at Eyemouth
+precipitous, broken by ravines and not accessible, except at [[Eyemouth]]
 Harbour, for small vessels, and at Coldingham and Burnmouth for fishing
 boats. St Abb's Head, a promontory with a lighthouse upon it, rises to
 310 ft. The Eye is the only river of any size which falls directly into
@@ -42,7 +42,7 @@ cliff section between Fast Castle and St Abb's Head. This section of the
 tableland includes sediments, chiefly of Tarannon age, which form a belt
 10 m. across from the crest of the Lammermuir Hills to a point near
 Westruther and Longformacus. In the Earnscleuch Burn north-east of
-Lauder representatives of Llandovery, Caradoc and Llandeilo rocks,
+Lauder representatives of [[Llandovery]], Caradoc and Llandeilo rocks,
 together with the Arenig cherts, appear along an anticlinal fold in the
 midst of the younger strata. Again in the extreme north-west of the
 county near Channelkirk and to the north of the Tarannon belt
@@ -143,7 +143,7 @@ Northumbria, and the inhabitants were converted to Christianity through
 the missionary efforts of Modan in the 6th, and Oswald, Aidan and
 Cuthbert (traditionally believed to have been born in the vale of the
 Leader) in the 7th centuries. The Northmen invaded the seaboard, but the
-rugged coast proved an effectual barrier. The Danes, however, landed in
+rugged coast proved an effectual barrier. The [[Dan|Danes]], however, landed in
 886, and destroyed the nunnery at Coldingham, founded about 650 by Ebba,
 daughter of Aethelfrith, king of Northumbria, after whom the adjoining
 promontory of St Abb's Head was named. After the battle of Carham (1018)
@@ -203,7 +203,7 @@ of Scotland and England.
   J. Robson, _The Churches and Churchyards of Berwickshire_ (Kelso,
   1893); F.H. Groome, _A Short Border History_ (Kelso, 1887); J. Tait,
   _Two Centuries of Border Church Life_ (Kelso, 1889); Margaret
-  Warrender, _Marchmont and the Humes of Polwarth_ (Edinburgh, 1894);
+  Warrender, _[[Marchmont]] and the Humes of Polwarth_ (Edinburgh, 1894);
   W.K. Hunter, _History of the Priory of Coldingham_ (Edinburgh, 1858).
 
 ## See also

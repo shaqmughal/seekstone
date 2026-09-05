@@ -9,9 +9,9 @@ topic: science
 KIZIL IRMAK, i.e. "Red River" (anc. _Halys_), the largest river in Asia
 Minor, rising in the Kizil Dagh at an altitude of 6500 ft., and running
 south-west past Zara to Sivas. Below Sivas it flows south to the
-latitude of Kaisarieh, and then curves gradually round to the north.
-Finally, after a course of about 600 m., it discharges its waters into
-the Black Sea between Sinope and Samsun, where it forms a large delta.
+[[Latitude|latitude]] of Kaisarieh, and then curves gradually round to the north.
+Finally, after a course of about 600 m., it [[Discharge|discharges]] its waters into
+the [[Black Sea]] between Sinope and Samsun, where it forms a large [[Delta|delta]].
 The only important tributaries are the Delije Irmak on the right and the
 Geuk Irmak on the left bank.
 

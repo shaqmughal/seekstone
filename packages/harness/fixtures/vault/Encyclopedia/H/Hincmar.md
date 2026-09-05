@@ -9,29 +9,29 @@ id: 42-1379
 
 HINCMAR (c. 805-882), archbishop of Reims, one of the most remarkable
 figures in the ecclesiastical history of France, belonged to a noble
-family of the north or north-east of Gaul. Destined, doubtless, to the
+family of the north or north-east of [[Gaul]]. Destined, doubtless, to the
 monastic life, he was brought up at St Denis under the direction of the
 abbot Hilduin (d. 844), who brought him in 822 to the court of the
 emperor Louis the Pious. When Hilduin was disgraced in 830 for having
-joined the party of Lothair, Hincmar accompanied him into exile at
-Corvey in Saxony, but returned with him to St Denis when the abbot was
+joined the party of [[Lothair]], Hincmar accompanied him into exile at
+[[Corvey]] in Saxony, but returned with him to St Denis when the abbot was
 reconciled with the emperor, and remained faithful to the emperor during
 his struggle with his sons. After the death of Louis the Pious (840)
 Hincmar supported Charles the Bald, and received from him the abbacies
-of Notre-Dame at Compiegne and St Germer de Fly. In 845 he obtained
+of Notre-Dame at Compiegne and St Germer de [[Fly]]. In 845 he obtained
 through the king's support the archbishopric of Reims, and this choice
 was confirmed at the synod of Beauvais (April 845). Archbishop Ebbo,
 whom he replaced, had been deposed in 835 at the synod of Thionville
-(Diedenhofen) for having broken his oath of fidelity to the emperor
+([[Diedenhofen]]) for having broken his oath of fidelity to the emperor
 Louis, whom he had deserted to join the party of Lothair. After the
 death of Louis, Ebbo succeeded in regaining possession of his see for
 some years (840-844), but in 844 Pope Sergius II. confirmed his
 deposition. It was in these circumstances that Hincmar succeeded, and in
 847 Pope Leo IV. sent him the pallium.
 
-One of the first cares of the new prelate was the restitution to his
+One of the first [[Car|cares]] of the new prelate was the restitution to his
 metropolitan see of the domains that had been alienated under Ebbo and
-given as benefices to laymen. From the beginning of his episcopate
+given as [[Benefice|benefices]] to [[Laymen|laymen]]. From the beginning of his episcopate
 Hincmar was in constant conflict with the clerks who had been ordained
 by Ebbo during his reappearance. These clerks, whose ordination was
 regarded as invalid by Hincmar and his adherents, were condemned in 853
@@ -52,17 +52,17 @@ His first encounter was with the heresiarch Gottschalk, whose
 predestinarian doctrines claimed to be modelled on those of St
 Augustine. Hincmar placed himself at the head of the party that
 regarded Gottschalk's doctrines as heretical, and succeeded in procuring
-the arrest and imprisonment of his adversary (849). For a part at least
-of his doctrines Gottschalk found ardent defenders, such as Lupus of
-Ferrieres, the deacon Florus and Amolo of Lyons. Through the energy and
+the [[Arrest|arrest]] and imprisonment of his adversary (849). For a part at least
+of his doctrines Gottschalk found ardent defenders, such as [[Lupus]] of
+[[Ferrier|Ferrieres]], the deacon [[Florus]] and Amolo of [[Lyons]]. Through the energy and
 activity of Hincmar the theories of Gottschalk were condemned at Quierzy
 (853) and Valence (855), and the decisions of these two synods were
-confirmed at the synods of Langres and Savonnieres, near Toul (859). To
+confirmed at the synods of [[Langres]] and Savonnieres, near Toul (859). To
 refute the predestinarian heresy Hincmar composed his _De
 praedestinatione Dei et libero arbitrio_, and against certain
 propositions advanced by Gottschalk on the Trinity he wrote a treatise
 called _De una et non trina deitate_. Gottschalk died in prison in 868.
-The question of the divorce of Lothair II., king of Lorraine, who had
+The question of the divorce of Lothair II., king of [[Lorraine]], who had
 repudiated his wife Theutberga to marry his concubine Waldrada, engaged
 Hincmar's literary activities in another direction. At the request of a
 number of great personages in Lorraine he composed in 860 his _De
@@ -76,7 +76,7 @@ under the authority of a single sovereign, and in 869 it was he who
 consecrated Charles at Metz as king of Lorraine.
 
 In the middle of the 9th century there appeared in Gaul the collection
-of false decretals commonly known as the Pseudo-Isidorian Decretals. The
+of false [[Decretals|decretals]] commonly known as the Pseudo-Isidorian Decretals. The
 exact date and the circumstances of the composition of the collection
 are still an open question, but it is certain that Hincmar was one of
 the first to know of their existence, and apparently he was not aware
@@ -92,7 +92,7 @@ zealously, and in 865, in spite of the protests of the archbishop of
 Reims, Arsenius, bishop of Orta and legate of the Holy See, was
 instructed to restore Rothad to his episcopal see. Hincmar experienced
 another check when he endeavoured to prevent Wulfad, one of the clerks
-deposed by Ebbo, from obtaining the archbishopric of Bourges with the
+deposed by Ebbo, from obtaining the archbishopric of [[Bourges]] with the
 support of Charles the Bald. After a synod held at Soissons, Nicholas I.
 pronounced himself in favour of the deposed clerks, and Hincmar was
 constrained to make submission (866). He was more successful in his
@@ -100,10 +100,10 @@ contest with his nephew Hincmar, bishop of Laon, who was at first
 supported both by the king and by his uncle, the archbishop of Reims,
 but soon quarrelled with both. Hincmar of Laon refused to recognize the
 authority of his metropolitan, and entered into an open struggle with
-his uncle, who exposed his errors in a treatise called _Opusculum LV.
+his uncle, who exposed his [[Error|errors]] in a treatise called _Opusculum LV.
 capitulorum_, and procured his condemnation and deposition at the synod
 of Douzy (871). The bishop of Laon was sent into exile, probably to
-Aquitaine, where his eyes were put out by order of Count Boso. Pope
+[[Aquitaine]], where his eyes were put out by order of Count Boso. Pope
 Adrian protested against his deposition, but it was confirmed in 876 by
 Pope John VIII., and it was not until 878, at the council of Troyes,
 that the unfortunate prelate was reconciled with the Church. A serious
@@ -123,11 +123,11 @@ the submission of the nobles to Louis the Stammerer, whom he crowned at
 Compiegne (8th of December 877).
 
 During the reign of Louis, Hincmar played an obscure part. He supported
-the accession of Louis III. and Carloman, but had a dispute with Louis,
+the accession of Louis III. and [[Carloman]], but had a dispute with Louis,
 who wished to instal a candidate in the episcopal see of Beauvais
 without the archbishop's assent. To Carloman, on his accession in 882,
 Hincmar addressed his _De ordine palatii_, partly based on a treatise
-(now lost) by Adalard, abbot of Corbie (c. 814), in which he set forth
+(now lost) by Adalard, abbot of [[Corbie]] (c. 814), in which he set forth
 his system of government and his opinion of the duties of a sovereign, a
 subject he had already touched in his _De regis persona et regio
 ministerio_, dedicated to Charles the Bald at an unknown date, and in
@@ -141,15 +141,15 @@ of his church; and he continued from 861 the _Annales Bertiniani_, of
 which the first part was written by Prudentius, bishop of Troyes, the
 best source for the history of Charles the Bald. He also wrote a great
 number of letters, some of which are extant, and others embodied in the
-chronicles of Flodoard.
+chronicles of [[Flodoard]].
 
   Hincmar's works, which are the principal source for the history of his
   life, were collected by Jacques Sirmond (Paris, 1645), and reprinted
   by Migne, _Patrol. Latina_, vol. cxxv. and cxxvi. See also C. von
-  Noorden, _Hinkmar, Erzbischof von Reims_ (Bonn, 1863), and,
+  Noorden, _Hinkmar, Erzbischof von Reims_ ([[Bonn]], 1863), and,
   especially, H. Schrors, _Hinkmar, Erzbischof von Reims_
   (Freiburg-im-Breisgau, 1884). For Hincmar's political and
-  ecclesiastical theories see preface to Maurice Prou's edition of the
+  ecclesiastical theories see preface to [[Maurice]] Prou's edition of the
   _De ordine palatii_ (Paris, 1885), and the abbe Lesne, _La Hierarchie
   episcopale en Gaule et en Germanie_ (Paris, 1905).     (R. Po.)
 

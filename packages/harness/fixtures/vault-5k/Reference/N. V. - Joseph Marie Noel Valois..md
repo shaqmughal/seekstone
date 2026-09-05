@@ -8,7 +8,7 @@ type: note
 # N. V. - Joseph Marie Noel Valois.
 
 N. V. - JOSEPH MARIE NOEL VALOIS.
-Member of the Académie des Inscriptions et Belles-Lettres. Honorary
+Member of the Académie des Inscriptions et [[Belles-Lettres]]. Honorary
 Archivist at the Archives Nationales. Formerly President of the Société de
 l'Histoire de France and of the Société de l'École de Chartes.
 

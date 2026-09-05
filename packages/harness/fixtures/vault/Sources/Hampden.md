@@ -9,22 +9,22 @@ tags: [mathematics, geography]
 # Hampden
 
 HAMPDEN, JOHN (c. 1595-1643), English statesman, the eldest son of
-William Hampden, of Great Hampden in Buckinghamshire, a descendant of a
+William Hampden, of Great Hampden in [[Buckinghamshire]], a descendant of a
 very ancient family of that place, said to have been established there
 before the Conquest, and of Elizabeth, second daughter of Sir Henry
-Cromwell, and aunt of Oliver, the future protector, was born about the
+[[Cromwell]], and aunt of Oliver, the future protector, was born about the
 year 1595. By his father's death, when he was but a child, he became the
 owner of a good estate and a ward of the crown. He was educated at the
 grammar school at Thame, and on the 30th of March 1610 became a commoner
 of Magdalen College at Oxford. In 1613 he was admitted a student of the
-Inner Temple. He first sat in parliament for the borough of Grampound in
+Inner Temple. He first sat in parliament for the borough of [[Grampound]] in
 1621, representing later Wendover in the first three parliaments of
 Charles I., Buckinghamshire in the Short Parliament of 1640, and
 Wendover again in the Long Parliament. In the early days of his
-parliamentary career he was content to be overshadowed by Eliot, as in
+parliamentary career he was content to be overshadowed by [[Eliot]], as in
 its later days he was content to be overshadowed by Pym and to be
-commanded by Essex. Yet it is Hampden, and not Eliot or Pym, who lives
-in the popular imagination as the central figure of the English
+commanded by [[Essex]]. Yet it is Hampden, and not Eliot or Pym, who lives
+in the popular [[Imagination|imagination]] as the central figure of the English
 revolution in its earlier stages. It is Hampden whose statue rather than
 that of Eliot or Pym has been selected to take its place in St Stephen's
 Hall as the noblest type of the parliamentary opposition, as Falkland's
@@ -41,17 +41,17 @@ enabled him to influence men towards the ends at which he aimed, and
 which was spoken of as subtlety by those who disliked his ends.
 
 During these first parliaments Hampden did not, so far as we know, open
-his lips in public debate, but he was increasingly employed in committee
+his [[Lip|lips]] in public debate, but he was increasingly employed in committee
 work, for which he seems to have had a special aptitude. In 1626 he took
 an active part in the preparation of the charges against Buckingham. In
 January 1627 he was bound over to answer at the council board for his
 refusal to pay the forced loan. Later in the year he was committed to
-the gatehouse, and then sent into confinement in Hampshire, from which
+the gatehouse, and then sent into confinement in [[Hampshire]], from which
 he was liberated just before the meeting of the third parliament of the
 reign, in which he once more rendered useful but unobtrusive assistance
 to his leaders.
 
-When the breach came in 1629 Hampden is found in epistolary
+When the [[Breach|breach]] came in 1629 Hampden is found in epistolary
 correspondence with the imprisoned Eliot, discussing with him the
 prospects of the Massachusetts colony,[1] or rendering hospitality and
 giving counsel to the patriot's sons now that they were deprived of a
@@ -60,7 +60,7 @@ resistance to the payment of ship-money gained for his name the lustre
 which it has never since lost. (See SHIP-MONEY.) Seven out of the twelve
 judges sided against him, but the connexion between the rights of
 property and the parliamentary system was firmly established in the
-popular mind. The tax had been justified, says Clarendon, who expresses
+popular mind. The tax had been justified, says [[Clarendon]], who expresses
 his admiration at Hampden's "rare temper and modesty" at this crisis,
 "upon such grounds and reasons as every stander-by was able to swear was
 not law" (_Hist._ i. 150, vii. 82).
@@ -94,15 +94,15 @@ the future" (_Hist._ iii. 31). Unwearied in attendance upon committees,
 he was in all things ready to second Pym, whom he plainly regarded as
 his leader. Hampden was one of the eight managers of Stratford's
 prosecution. Like Pym, he was in favour of the more legal and regular
-procedure by impeachment rather than by attainder, which at the later
+procedure by [[Impeachment|impeachment]] rather than by [[Attainder|attainder]], which at the later
 stage was supported by the majority of the Commons; and through his
-influence a compromise was effected by which, while an attainder was
+influence a [[Compromise|compromise]] was effected by which, while an attainder was
 subsequently adopted, Strafford's counsel were heard as in the case of
 an impeachment, and thus a serious breach between the two Houses, which
 threatened to cause the breakdown of the whole proceedings, was averted.
 
 There was another point on which there was no agreement. A large
-minority wished to retain Episcopacy, and to keep the common Prayer Book
+minority wished to retain [[Episcopacy]], and to keep the common Prayer Book
 unaltered, whilst the majority were at least willing to consider the
 question of abolishing the one and modifying the other. On this subject
 the parties which ultimately divided the House and the country itself
@@ -110,7 +110,7 @@ were fully formed as early as the 8th of February 1641. It is enough to
 say that (v. under PYM) Hampden fully shared in the counsels of the
 opponents of Episcopacy. It is not that he was a theoretical
 Presbyterian, but the bishops had been in his days so fully engaged in
-the imposition of obnoxious ceremonies that it was difficult, if not
+the [[Imposition|imposition]] of obnoxious ceremonies that it was difficult, if not
 impossible, to dissociate them from the cause in which they were
 embarked. Closely connected with Hampden's distrust of the bishops was
 his distrust of monarchy as it then existed. The dispute about the
@@ -121,7 +121,7 @@ well.
 
 No serious importance therefore can be attached to the offers of
 advancement made from time to time to Hampden and his friends. Charles
-would gladly have given them office if they had been ready to desert
+would gladly have given them office if they had been ready to [[Desert|desert]]
 their principles. Every day Hampden's conviction grew stronger that
 Charles would never abandon the position which he had taken up. In
 August 1640 Hampden was one of the four commissioners who attended
@@ -129,9 +129,9 @@ Charles in Scotland, and the king's conduct there, connected with such
 events as the "Incident," must have proved to a man far less sagacious
 than Hampden that the time for compromise had gone by. He was therefore
 a warm supporter of the Grand Remonstrance, and was marked out as one of
-the five impeached members whose attempted arrest brought at last the
-opposing parties into open collision (see also PYM, STRODE, HOLLES and
-LENTHALL). In the angry scene which arose on the proposal to print the
+the five impeached members whose attempted [[Arrest|arrest]] brought at last the
+opposing parties into open collision (see also PYM, STRODE, [[Holles|HOLLES]] and
+[[Lenthall|LENTHALL]]). In the angry scene which arose on the proposal to print the
 Grand Remonstrance, it was Hampden's personal intervention which
 prevented an actual conflict, and it was after the impeachment had been
 attempted that Hampden laid down the two conditions under which
@@ -147,7 +147,7 @@ out the parliamentary militia ordinance in the county. In the earlier
 operations of the war he bore himself gallantly and well. He took no
 actual part in the battle of Edgehill. His troops in the rear, however,
 arrested Rupert's charge at Kineton, and he urged Essex to renew the
-attack here, and also after the disaster at Brentford. In 1643 he was
+attack here, and also after the disaster at [[Brentford]]. In 1643 he was
 present at the siege and capture of Reading. But it is not on his skill
 as a regimental officer that Hampden's fame rests. In war as in peace
 his distinction lay in his power of disentangling the essential part
@@ -164,12 +164,12 @@ often leads able men to fail in the execution of orders of which they
 disapprove. His precious life was a sacrifice to his unselfish devotion
 to the call of discipline and duty. On the 18th of June 1643, when he
 was holding out on Chalgrove Field against the superior numbers of
-Rupert till reinforcements arrived, he received two carbine balls in the
+Rupert till reinforcements arrived, he received two carbine [[Ball|balls]] in the
 shoulder. Leaving the field he reached Thame, survived six days, and
 died on the 24th.
 
 Hampden married (1) in 1619 Elizabeth, daughter of Edmund Symeon of
-Pyrton, Oxfordshire, and (2) Letitia, daughter of Sir Francis Knollys
+Pyrton, Oxfordshire, and (2) Letitia, daughter of Sir Francis [[Knollys]]
 and widow of Sir Thomas Vachell. By his first wife he had nine children,
 one of whom, Richard (1631-1695) was chancellor of the exchequer in
 William III.'s reign; from two of his daughters are descended the
@@ -190,7 +190,7 @@ carried out, and having paid L6000 he was set at liberty. In the
 Convention parliament of 1689 he represented Wendover, but in the
 subsequent parliaments he failed to secure a seat. He died by his own
 hand on the 12th of December 1696. Hampden wrote numerous pamphlets, and
-Bishop Burnet described him as "one of the learnedest gentlemen I ever
+Bishop [[Burnet]] described him as "one of the learnedest gentlemen I ever
 knew."
 
   See S. R. Gardiner's _Hist. of England_ and _of the Great Civil War_;
@@ -204,7 +204,7 @@ knew."
   Hampden commanding an attack at Brill, to be also false, while the
   published speech supposed to be spoken by Hampden on the 4th of
   January 1642, and reproduced by Forster in the _Arrest of the Five
-  Members_ (1660), has been proved by Gardiner to be a forgery (_Hist.
+  Members_ (1660), has been proved by Gardiner to be a [[Forgery|forgery]] (_Hist.
   of England_, x. 135). Mr Firth has also shown in _The Academy_ for
   1889, November 2 and 9, that "the belief that we possess the words of
   Hampden's last prayer must be abandoned."

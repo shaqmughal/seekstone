@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/False_Poin
 
 # False Point
 
-FALSE POINT, a landlocked harbour in the Cuttack district of Bengal,
+FALSE POINT, a landlocked harbour in the Cuttack district of [[Bengal]],
 India. It was reported by the famine commissioners in 1867 to be the
 best harbour on the coast of India from the Hugli to Bombay. It derives
 its name from the circumstance that vessels proceeding up the Bay of

@@ -18,7 +18,7 @@ vice-president of Union College and professor of mental and moral
 science. In 1866 he succeeded Dr E. Nott as president, but in July 1868
 retired to Amherst, Massachusetts, where he devoted himself to writing
 and study. A collected edition of his principal works was published at
-Boston in 1875. He died at Amherst on the 7th of May 1888. He wrote
+[[Boston]] in 1875. He died at Amherst on the 7th of May 1888. He wrote
 _Rational Psychology_ (1848), _System of Moral Science_ (1853),
 _Empirical Psychology_ (1854), _Rational Cosmology_ (1858), _Creator and
 Creation, or the Knowledge in the Reason of God and His Work_ (1872),

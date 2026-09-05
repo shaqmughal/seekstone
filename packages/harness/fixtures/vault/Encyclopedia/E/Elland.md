@@ -20,7 +20,7 @@ of a relative of the Beaumonts upon whom Sir John took vengeance, as
 also upon the heads of the allied houses of Lockwood and Quarmby. The
 children of these families were educated in the hope of avenging their
 parents, and after many years succeeded in doing so, cutting off Sir
-John Elland and his heir.
+John Elland and his [[Heir|heir]].
 
 ## See also
 

@@ -9,14 +9,14 @@ racial name _Mande_, coupled with the suffix _nka_ or _nke_, meaning
 "people," the people of Mande. Then again this word Mande seems to take
 the varying forms of _Male_, _Meli_, _Mane_, _Madi_, and, according to
 such authorities as Binger, Delafosse and Desplagnes, it is connected
-with a word _Mali_, which means "hippopotamus" or else "manati"--probably
+with a word _Mali_, which means "[[Hippopotamus|hippopotamus]]" or else "[[Manati|manati]]"--probably
 the latter. According to Desplagnes, the word is further divisible into
 _ma_, which would have meant "fish," and _nde_, a syllable to which he
-ascribes the meaning of "father." In no Mandingo dialect known to the
+ascribes the meaning of "father." In no Mandingo [[Dialect|dialect]] known to the
 present writer (or in any other known African language) does the vocable
 _ma_ apply to "fish," and in only one very doubtful far eastern Mandingo
 dialect is the root _nde_ or any other similar sound applied to "father."
-This etymology must be abandoned, probably in favour of _Mani_, _Mali_,
+This [[Etymology|etymology]] must be abandoned, probably in favour of _Mani_, _Mali_,
 _Madi_, _Mande_, meaning "hippopotamus," and in some cases the other big
 water mammal, the manati.[1]
 
@@ -34,7 +34,7 @@ of West African negro, but are of rather a refined type, and some of
 them are lighter in skin colour than the more Arab-looking Mandingos of
 the north. But in these forest Mandingos the beard is scanty.
 Occasionally the Mandingo physical type appears in eastern Liberia and
-on the Ivory Coast amongst people speaking Kru languages. In other cases
+on the [[Ivory]] Coast amongst people speaking Kru languages. In other cases
 it is associated with the Senufo speech-family.
 
 Delafosse divides the Mandingo group linguistically into three main
@@ -62,13 +62,13 @@ tribes of Futa Jallon, of the Grand Scarcies River and of the interior
 of the Ivory Coast, and of the regions between the eastern affluents of
 the Upper Niger and the Black Volta. To this group Delafosse joins the
 Boko dialect spoken by people dwelling to the west of the Lower Niger at
-Bussa--between Bussa and Borgu. If this hypothesis be correct it gives a
+Bussa--between Bussa and [[Borgu]]. If this [[Hypothesis|hypothesis]] be correct it gives a
 curious eastern extension to the range of the Mandingo family at the
 present day; or it may be a vestige left by the Mandingo invasion which,
 according to legend, came in prehistoric times from the Hausa countries
 across the Niger to Senegambia. It is remarkable that this Boko dialect
 as recorded by the missionary Koelle most resembles certain dialects in
-central Liberia and in the Ivory Coast hinterland.
+central Liberia and in the Ivory Coast [[Hinterland|hinterland]].
 
 The Mandingos, coming from the East and riding on horses (according to
 tradition), seem to have invaded western Nigeria about A.D. 1000 (if not
@@ -76,10 +76,10 @@ earlier), and to have gradually displaced and absorbed the Songhai or
 Fula (in other words, Negroid, "White") rulers of the countries in the
 basin of the Upper Niger or along its navigable course as far as the
 Bussa Rapids and the forest region. On the ruins of these Songhai,
-Berber, or Fula kingdoms rose the empire of Mali (Melle). Considerable
+[[Berber]], or Fula kingdoms rose the empire of Mali (Melle). Considerable
 sections of the Mandingo invaders had adopted Mahommedanism, and
 extended a great Mahommedan empire of western Nigeria far northwards
-into the Sahara Desert. In the 16th century the Songhai regained supreme
+into the Sahara [[Desert]]. In the 16th century the Songhai regained supreme
 power. See _infra_, § _The Melle Empire_.
 
 Although the Mandingos, and especially the Susu section, may have come
@@ -87,11 +87,11 @@ as conquerors, they devoted themselves through the succeeding centuries
 more and more to commerce. They became to the extreme west of Africa
 what the Hausa are in the west-central regions. Some of the Mandingo
 invasions, especially in the forest region, left little more than the
-imposition of their language; but where there was any element of
+[[Imposition|imposition]] of their language; but where there was any element of
 Caucasian blood (for the original Mandingo invaders were evidently
 dashed with the Caucasian by intermingling with some of the negroid
 races of north-central Africa), they imposed a degree of civilization
-which excluded cannibalism (still rampant in much of the forest region
+which excluded [[Cannibalism|cannibalism]] (still rampant in much of the forest region
 of West Africa), introduced working in leather and in metals, and was
 everywhere signalized by a passionate love of music, a characteristic of
 all true Mandingo tribes at the present day. It is noteworthy that many
@@ -100,23 +100,23 @@ civilized regions of Bantu Africa, as well as in the central Sudan. Many
 of these types of musical instruments can also be traced originally to
 ancient Egypt. The Mandingos also seem to have brought with them in
 their westward march the Egyptian type of ox, with the long, erect
-horns. It would almost seem as if this breed had been preceded by the
+[[Horn|horns]]. It would almost seem as if this breed had been preceded by the
 zebu or humped ox; though these two types are evidently of common origin
 so far as derivation from one wild species is concerned. The Mandingos
-maintain the system of totems or clans, and each section or tribe
+maintain the system of totems or [[Clan|clans]], and each section or tribe
 identifies itself with a symbol, which is usually an animal or a plant.
 The Mandenga are supposed to have either the manati or the hippopotamus
 as _tanna_. (Binger states that the manati was the totem of the Mande
 group, to which perhaps belonged originally the Susu and the Dyula.) The
-Bamana are the people of the crocodile; the Samanke are the people of
-the elephant; the Samokho of the snake. Other totems or symbols of
-special families or castes are the dog, the calabash or gourd, the lion,
-the green monkey, the leopard, the monitor lizard, a certain spice
+Bamana are the people of the [[Crocodile|crocodile]]; the Samanke are the people of
+the [[Elephant|elephant]]; the Samokho of the snake. Other totems or symbols of
+special families or [[Caste|castes]] are the dog, the calabash or [[Gourd|gourd]], the lion,
+the [[Green Monkey|green monkey]], the [[Leopard|leopard]], the monitor [[Lizard|lizard]], a certain spice
 called bandugu, certain rats, the python, the puff-adder, &c.
 
   AUTHORITIES.--The bibliography dealing with the Mandingo peoples is
   very extensive, but only the following works need be cited: Captain L.
-  G. Binger, _Du Niger au Golfe de Guinée_, &c. (1892); Maurice
+  G. Binger, _Du Niger au Golfe de Guinée_, &c. (1892); [[Maurice]]
   Delafosse, _Vocabulaires comparatifs de plus de 60 langues et
   dialectes parlés à la Côte d'Ivoire_, &c. (1904); Lieut. Desplagnes,
   _Le Plateau central nigérien_ (1907); Lady Lugard, _A Tropical
@@ -127,14 +127,14 @@ _The Melle Empire._--The tradition which ascribes the arrival of the
 Mandingo in the western Sudan to the 10th or 11th century is referred to
 in the previous section. It is not known by whom the Melle (Mali) state
 was founded. Neither is there certainty as to the site of the capital,
-also called Melle. Idrisi in the 12th century describes the Wangara (a
+also called Melle. [[Idrisi]] in the 12th century describes the Wangara (a
 Hausa name for the Mandingo) as a powerful people, and El Bakri writes
 in similar terms. But the first king whose name is preserved was
 Baramindana, believed to have reigned from 1213 to 1235. His territory
-lay south of that of Jenné, partly within the bend of the Niger and
+lay south of that of Jenné, partly within the [[Bend|bend]] of the Niger and
 partly west of that river. The people were already Moslem, and the
 capital was a rendezvous for merchants from all parts of the western
-Sudan and the Barbary States. Mari Jatah (or Diara), Baramindana's
+Sudan and the [[Barbary]] States. Mari Jatah (or Diara), Baramindana's
 successor, about the middle of the 13th century conquered the Susu, then
 masters of Ghanata (Ghana). Early in the 14th century Mansa, i.e.
 Sultan, Kunkur Musa, extended the empire, known as the Mellistine, to
@@ -157,7 +157,7 @@ civilization suffered a blow from which it never recovered. Civil war is
 said to have finally wrought the ruin of Melle about the middle of the
 17th century.[2] The Portuguese, from their first appearance on the
 Senegal and Gambia, entered into friendly relations with the rulers of
-Melle. Barros relates (_Da Asia_, Decade I.) that John II. of Portugal
+Melle. [[Barros]] relates (_Da Asia_, Decade I.) that John II. of Portugal
 sent embassies to the court of Melle by way of the Gambia (end of the
 15th century). At that time the authority of Melle was said to extend
 westward to the coast. The king, pressed by the Mossi, the Songhoi and
@@ -171,7 +171,7 @@ be the native form for "Sultan of the Mandi" (Mandingo).
 
   See further TIMBUKTU and the authorities there cited; cf. also L.
   Marc, _Le Pays Mossi_ (Paris, 1909). Lists of Mandingo sovereigns are
-  given in Stokvis, _Manuel d'histoire_, vol. i. (Leiden, 1888).
+  given in Stokvis, _[[Manuel]] d'histoire_, vol. i. (Leiden, 1888).
        (F. R. C.)
 
 

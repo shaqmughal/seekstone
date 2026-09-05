@@ -12,7 +12,7 @@ id: 42-6004
 H. W. S. - H. WICKHAM STEED.
 Correspondent of _The Times_ at Rome (1897-1902) and Vienna.
 
-- Austria-Hungary: _History_ (_in part_); Bertani.
+- Austria-Hungary: _History_ (_in part_); [[Bertani]].
 
 I. A. - ISRAEL ABRAHAMS, M.A.
 Reader in Talmudic and Rabbinic Literature, University of Cambridge.

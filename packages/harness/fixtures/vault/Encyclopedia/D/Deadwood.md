@@ -7,11 +7,11 @@ type: source
 
 # Deadwood
 
-DEADWOOD, a city and the county-seat of Lawrence county, South Dakota,
+DEADWOOD, a city and the county-seat of [[Lawrence]] county, South Dakota,
 U.S.A., about 180 m. W. of Pierre. Pop. (1890) 2366; (1900) 3498, of
 whom 707 were foreign-born; (1905) 4364; (1910) 3653. It is served by
-the Chicago, Burlington & Quincy and the Chicago & North-Western
-railways. It lies on hilly ground in the canyon of Whitewood Creek at an
+the [[Chicago]], [[Burlington]] & Quincy and the Chicago & North-Western
+railways. It lies on hilly ground in the [[Canyon|canyon]] of Whitewood [[Creek]] at an
 elevation of about 4530 ft. Deadwood is the commercial centre of the
 Black Hills. About it are several gold mines (including the well-known
 Home-stake mine), characterized by the low grade of their ores (which
@@ -37,7 +37,7 @@ the deaf and the hearing at any particular point. For the purposes of
 this article, however, that denotation which is generally accepted by
 educators of the deaf may be given to the term. This makes it refer to
 those who are so far handicapped as to be incapable of instruction by
-the ordinary means of the ear in a class of those possessing normal
+the ordinary means of the [[Ear|ear]] in a class of those possessing normal
 hearing. Paradoxical though it may seem, it is yet true to say that
 "dumbness" in our sense of the word does not, strictly speaking, exist,
 though the term "dumb" may, for all practical purposes, fairly be
@@ -47,7 +47,7 @@ try to teach more than a large percentage of the deaf to speak at all.
 We are not concerned with aphasia, stammering or such inability to
 articulate as may be due to malformation of the vocal organs. In the
 case of the deaf and dumb, as these words are generally understood,
-dumbness is merely the result of ignorance in the use of the voice, this
+dumbness is merely the result of [[Ignorance|ignorance]] in the use of the voice, this
 ignorance being due to the deafness. The vocal organs are perfect. The
 deaf man can laugh, shout, and in fact utter any and every sound that
 the normal person can. But he does not speak English (if that happens to
@@ -57,7 +57,7 @@ reason why an English baby, born in England, should talk English than
 that it should talk any other language. English may be correctly
 described as its "mother tongue," but not its _natural_ language; the
 only reason why one person speaks English and another Russian is that
-each imitated that particular language which he heard in infancy. This
+each imitated that particular language which he heard in [[Infancy|infancy]]. This
 imitation depends upon the ability to hear. Hence if one has never
 heard, or has lost hearing in early childhood, he has never been able to
 imitate that language which his parents and others used, and the
@@ -75,9 +75,9 @@ suffer from lack of exercise in the case of the deaf man. Practically,
 he can never speak perfectly, for even if he were made to attempt
 articulation as soon as he is discovered to be deaf, the fact that the
 ear, the natural guide of the voice, is useless, lays upon him a
-handicap which can never be wiped out. He can never hear the tone of his
+[[Handicap|handicap]] which can never be wiped out. He can never hear the tone of his
 teacher's voice nor of his own; he can only see small and, in many
-instances, scarcely discernible movements of the lips, tongue, nose,
+instances, scarcely discernible movements of the [[Lip|lips]], tongue, nose,
 cheeks and throat in those who are endeavouring to teach him to speak,
 and he can never hope to succeed in speech through the instrumentality
 of such unsatisfactory appeals to his eye as perfectly as the hearing
@@ -98,11 +98,11 @@ words. He himself thinks that not more than 15 or 20% are totally
 deaf--sometimes only 7 or 8%; that ability to hear speech exists in
 about one in four, while ten or fifteen in each hundred are only
 semi-deaf. He rightly warns against the use of tuning forks or other
-instruments held on the bones of the head as tests of hearing, because
+instruments held on the [[Bone|bones]] of the head as tests of hearing, because
 the vibration which is felt, not heard, may very often be mistaken for
 sound.
 
-Dr Edward M. Gallaudet, president of the Columbia Institution for the
+Dr Edward M. [[Gallaudet]], president of the [[Columbia]] Institution for the
 Deaf in Washington, D.C., suggests the following terms for use in
 dividing the whole class of the deaf into its main sections, though it
 is obviously impossible to split them up into perfectly defined
@@ -129,7 +129,7 @@ and feeble-minded or deaf and idiotic, because in many cases their
 organs of hearing are as perfect as are other organs of their body, and
 they are no more deaf than blind, though they may pay no attention to
 what they hear any more than to what they see. They are simply weak in
-intellect, and this is shown by the disuse of any and all of their
+[[Intellect|intellect]], and this is shown by the disuse of any and all of their
 senses; hence it is incorrect to classify them according to one, and one
 only, of the evidences of this mental weakness.
 
@@ -189,8 +189,8 @@ only, of the evidences of this mental weakness.
   to modify the conclusion that there has been a large relative increase
   of the deaf. The spread of education, the development of local
   government, and an improved system of registration, may have had the
-  effect of procuring fuller enumeration and more appropriate
-  classification than heretofore, while 1368 persons described simply as
+  effect of procuring [[Fuller|fuller]] enumeration and more appropriate
+  [[Classification|classification]] than heretofore, while 1368 persons described simply as
   dumb, and who therefore probably belong, not to the deaf, but to the
   feeble-minded and aphasic classes, are included in the 'deaf and dumb'
   total. It is also to be noted that some of those who described
@@ -216,7 +216,7 @@ only, of the evidences of this mental weakness.
   census department are not co-ordinated with those of the Board of
   Education."
 
-  John Hitz, the superintendent of the Volta Bureau for the Increase of
+  John Hitz, the superintendent of the Volta [[Bureau]] for the Increase of
   Knowledge Relating to the Deaf, Washington, D.C., U.S.A., gives the
   number of schools for deaf children, and pupils, in different
   countries in 1900 as follows:--
@@ -242,7 +242,7 @@ only, of the evidences of this mental weakness.
     +---------------+---------+----------+---------+
     | China         |    3    |    10    |    43   |
     | India         |    3    |    13    |    73   |
-    | Japan         |    3    |    24    |   337   |
+    | [[Japan]]         |    3    |    24    |   337   |
     |               +---------+----------+---------+
     |               |    9    |    47    |   453   |
     +---------------+---------+----------+---------+
@@ -252,7 +252,7 @@ only, of the evidences of this mental weakness.
     +---------------+---------+----------+---------+
     |    Country.   | Schools.| Teachers.| Pupils. |
     +---------------+---------+----------+---------+
-    | Australia     |    6    |    41    |   282   |
+    | [[Australia]]     |    6    |    41    |   282   |
     | New Zealand   |    1    |     5    |    50   |
     |               +---------+----------+---------+
     |               |    7    |    46    |   332   |
@@ -264,8 +264,8 @@ only, of the evidences of this mental weakness.
     |     Country.     | Schools.| Teachers.| Pupils. |
     +------------------+---------+----------+---------+
     | Austria-Hungary  |    38   |   291    |  2440   |
-    | Belgium          |    12   |   181    |  1265   |
-    | Denmark          |     5   |    57    |   348   |
+    | [[Belgium]]          |    12   |   181    |  1265   |
+    | [[Denmark]]          |     5   |    57    |   348   |
     | France           |    71   |   598    |  4098   |
     | Germany          |    99   |   798    |  6497   |
     | Great Britain    |    95   |   462    |  4222   |
@@ -275,7 +275,7 @@ only, of the evidences of this mental weakness.
     | Norway           |     5   |    54    |   309   |
     | Portugal         |     2   |     9    |    64   |
     | Rumania          |     1   |     3    |    46   |
-    | Russia, Finland, |         |          |         |
+    | Russia, [[Finland]], |         |          |         |
     |   Livonia        |    34   |   118    |  1719   |
     | Servia           |     2   |     2*   |    26*  |
     | Spain            |    11   |    60    |   462   |
@@ -307,7 +307,7 @@ only, of the evidences of this mental weakness.
     +---------------+---------+----------+---------+
     | Argentine     |    4    |    18    |   133   |
     | Brazil        |    1    |     9    |    35   |
-    | Chile         |    1    |     7    |    61   |
+    | [[Chile]]         |    1    |     7    |    61   |
     | Uruguay       |    1    |          |         |
     |               +---------+----------+---------+
     |               |    7    |    34    |   229   |
@@ -440,7 +440,7 @@ man. Several inquirers may trace back to the preceding generation F, and
 to the grandparents E, and even to the great-grandparents D, in search
 of an ancestor who is deaf, and such they may discover in the third
 generation D. But probably not one of these several inquirers will ask G
-if any of his grandparents or great-grandparents married a cousin, for
+if any of his grandparents or great-grandparents married a [[Cousin|cousin]], for
 instance, though they may ask if his father did. To continue this
 hypothetical case, the investigators will again trace back along the
 family tree to generations C, B and A in search of an original _deaf_
@@ -605,14 +605,14 @@ being limited, people are more likely to marry relations.
 2. _Post-Natal._--We have collected and grouped the stated causes of
 deafness in those partners of the marriages in America noticed by Fay.
 About a hundred and thirty did not mention how they lost hearing. Any
-errors in this calculation must be less than 1% at most, and can make no
+[[Error|errors]] in this calculation must be less than 1% at most, and can make no
 material difference. In some cases two or more diseases are given as the
 cause of deafness. In such cases where one is a very common cause of
 deafness, and the other is unusual, the former is credited with being
 the reason for the defect. Where both are common, we have divided the
 cases between them in a rough proportion.
 
-  Scarlet fever 973; scarlatina 3; scarlet rash 2              978
+  Scarlet [[Fever|fever]] 973; scarlatina 3; scarlet rash 2              978
 
   Spotted fever 260; meningitis 92; spinal meningitis 76;
     cerebro-spinal meningitis 70; spinal fever 28; spinal
@@ -631,12 +631,12 @@ cases between them in a rough proportion.
   "Sickness" 167; "illness" 49; "disease" 8; no definite
     specification 12                                           236
 
-  Measles                                                      191
+  [[Measles]]                                                      191
 
   Colds 101; colds in head, &c. 35; catarrh 19; catarrhal
     fevers 10; chills, &c. 17                                  182
 
-  Whooping cough 77; diphtheria 34; lung fever, and various
+  Whooping cough 77; diphtheria 34; [[Lung|lung]] fever, and various
     diseases of lungs and throat 60                            171
 
   Falls                                                        143
@@ -648,11 +648,11 @@ cases between them in a rough proportion.
   Many various and unusual causes                               60
 
   Smallpox 8; chickenpox 6, cholera, &c. 7; canker, &c. 11;
-    erysipelas 13                                               45
+    [[Erysipelas|erysipelas]] 13                                               45
 
   Paralysis, &c. 12; nerve diseases 12; fright 8; palsy 3       35
 
-  Hydrocephalus 14; dropsy on brain or in head 17; dropsy 2     33
+  [[Hydrocephalus]] 14; dropsy on brain or in head 17; dropsy 2     33
 
   Various accidents, blows, kicks, &c.                          31
 
@@ -694,7 +694,7 @@ consanguineous marriages.
   Scarlatina                          205
   Measles                              84
   Ear disease, proper                  77
-  Lesions of the head                  70
+  [[Lesion|Lesions]] of the head                  70
   Other diseases                      354
                                      ----
                                      1989
@@ -759,8 +759,8 @@ to begin at seven laboriously and artificially to learn what an ordinary
 baby has unconsciously and naturally discovered at the age of two.
 English, spoken, written, printed or finger-spelled, is no more natural,
 comprehensible or easy of acquirement to the deaf than is Chinese. The
-manual alphabet is simply one way of expressing the vernacular on the
-fingers; it is no more the deaf-mute's "natural" language than speech or
+[[Manual|manual]] alphabet is simply one way of expressing the vernacular on the
+[[Finger|fingers]]; it is no more the deaf-mute's "natural" language than speech or
 writing, and if he cannot express himself by the latter modes of
 communicating, he cannot by spelling on the fingers. The last is simply
 a case of _vicaria linguae manus_. None of these are languages in
@@ -778,7 +778,7 @@ applied to all signs, yet it is not an unfair term to use as regards
 this method of conversing as a whole, even in the United States, where
 signs, being to a great extent the French signs invented by de l'Epee,
 are more artificial than in England. The old story, by the way, of the
-pupil of de l'Epee failing to write more than "hand, breast," as
+pupil of de l'Epee failing to write more than "hand, [[Breast|breast]]," as
 describing what an incredulous investigator did when he laid his hand on
 his breast, proves nothing. In all probability he had no idea that he
 was expected to describe an action, and thought that he was being asked
@@ -793,7 +793,7 @@ thermometer of whose zeal in waging war against gestures generally falls
 in proportion as the photometer of their knowledge about them shows an
 increasing light. We may go still further and point out that to object
 to any sign on the ground of artificiality _per se_, is to strain at the
-gnat and to swallow the camel, for English itself is one of the most
+[[Gnat|gnat]] and to swallow the camel, for English itself is one of the most
 artificial languages in existence, and certainly is more open to such an
 objection than signs. If we apply the same test to English that is
 applied to signs by those who would rule out any which they suppose
@@ -801,13 +801,13 @@ cannot come under the head of natural gesture or pantomime, what
 fraction of our so-called natural language should we have left? For a
 spoken word to be "natural" in this sense it must be onomatopoetic, and
 what infinitesimal percentage of English words are such? A foreigner,
-unacquainted with the language, could not glean the drift of a
+unacquainted with the language, could not glean the [[Drift|drift]] of a
 conversation in English, except perhaps a trifle from the tone of the
 voices and more from the natural signs used--the smiles and frowns, the
 expressions of the faces, the play of eyes, lips, hands and whole body.
 The only words he could possibly understand without such aids are some
 such onomatopoetic words as the cries of animals--"mew," "chirrup," &c.,
-and a few more like "bang" or "swish."
+and a few more like "[[Bang|bang]]" or "swish."
 
 The reason why we insist emphatically upon the importance of teaching
 English in schools for the deaf in English-speaking countries, is,
@@ -866,7 +866,7 @@ Possibilities_, by Dr Gallaudet:--
   of thought; I have seen many more lectures and public debates given
   originally in signs; I have seen conventions of deaf-mutes in which no
   word was spoken, and yet all the forms of parliamentary proceedings
-  were observed, and the most earnest, and even excited, discussions
+  were observed, and the most [[Earnest|earnest]], and even excited, discussions
   were carried on. I have seen the ordinances of religion administered,
   and the full service of the Church rendered in signs; and all this
   with the assurance growing out of my complete understanding of the
@@ -894,7 +894,7 @@ the Swansea Institution, together with his explanatory notes:--
   "_Observations._--People speak of 'manual signs.' Of course there are
   signs which are made with the hands only, as there are others which
   are labial, &c. But the sign language is comprehensive, and at times
-  the whole frame is engaged in its use. A late American teacher could
+  the whole [[Frame|frame]] is engaged in its use. A late American teacher could
   and did 'sign' a story to his pupils with his hands behind him. Facial
   expression plays an important part in the language. Sympathetic
   gestures are individualistic and spontaneous, and are sometimes
@@ -930,11 +930,11 @@ inwards (in front of chest).
 Only the third, and a few of the second, subdivision of the second
 section of the above classes of signs can be excluded when talking of
 signs as being the deaf-mute's natural language. In fact we hesitate to
-call representative gesture--e.g. the horns and action of milking for
-"cow," the smelling at something grasped in the hand for "flower,"
+call representative gesture--e.g. the [[Horn|horns]] and action of milking for
+"cow," the smelling at something grasped in the hand for "[[Flower|flower]],"
 &c.--conventional at all, except when shortened as the usual sign for
 "cat" is, for instance, from the sign for whiskers _plus_ stroking the
-fur on back and tail _plus_ the action of a cat licking its paw and
+[[Fur|fur]] on back and tail _plus_ the action of a cat licking its paw and
 washing its face, to the sign for whiskers only.
 
 The deaf child expresses himself in the sign language of his own accord.
@@ -975,12 +975,12 @@ language, not only the deaf-mute's.
   gesture, the general and universal language of human nature." The same
   writer says further on (p. 297): "The same process of growth goes on
   alike with the signs of the deaf and dumb as with the spoken words of
-  the hearing. Arnold, than whom no stronger advocate of the oral method
+  the hearing. [[Arnold]], than whom no stronger advocate of the oral method
   exists, recognizes this in his comment on this principle of the German
   school, for he writes: 'It is much to be regretted that teachers
   should indulge in unqualified assertions of the impossibility of
   deaf-mutes attaining to clear conceptions and abstract thinking by
-  signs or mimic gestures. Facts are against them.' Again, Graham Bell,
+  signs or mimic gestures. Facts are against them.' Again, [[Graham]] Bell,
   who is generally considered an opponent of the sign system, says: 'I
   think that if we have the mental condition of the child alone in view
   without reference to language, no language will reach the mind like
@@ -999,7 +999,7 @@ language, not only the deaf-mute's.
   of teachers of the deaf in England: "Resolved, that the oral method,
   which withholds from the congenitally and quasi-congenitally deaf the
   use of the language of signs outside the schoolroom, robs the children
-  of their birthright; that those champions of the oral method, who have
+  of their birthright; that those [[Champion|champions]] of the oral method, who have
   been carrying on a warfare, both overt and covert, against the use of
   the language of signs by the adult deaf, are not friends of the deaf;
   and that, in our opinion, it is the duty of every teacher of the deaf,
@@ -1022,7 +1022,7 @@ than the English. But, firstly, if he had always been forbidden to use
 signs he would not express himself in English any better in that
 particular instance; he would simply not attempt to express himself at
 all,--so he loses nothing, at least; and secondly, it is perfectly easy
-to teach him in a very short time that each language has its own idiom
+to teach him in a very short time that each language has its own [[Idiom|idiom]]
 and that the thought is expressed in a different order in each.
 
 Of the deaf child's moral condition nothing more need be said than that
@@ -1032,7 +1032,7 @@ The need of this is great. He is quite as capable of religious and moral
 instruction, and benefits as much by what he receives of it. Happiness
 is a noticeable feature of the character of the deaf when they are
 allowed to mix with each other. The charge of bad temper can usually be
-sustained only when the fault is on the side of those with whom they
+sustained only when the [[Fault|fault]] is on the side of those with whom they
 live. For instance, the latter often talk in the presence of the deaf
 person without saying a word to him, and if he then shows irritation,
 which is not often in any case, it is no more to be wondered at than if
@@ -1050,20 +1050,20 @@ table given below shows the distribution:--
     In professional occupations and subordinate services               87
     In domestic offices or services                                   788
     In commercial occupations                                          12
-    In work connected with conveyance of men, goods or messages       144
+    In work connected with [[Conveyance|conveyance]] of men, goods or messages       144
     In agriculture                                                    568
     In fishing                                                          3
     In and about mines and quarries, &c.                              151
-    In work connected with metals, machines, implements, &c.          503
-    In work connected with precious metals, jewels, games, &c.         46
+    In work connected with metals, [[Machine|machines]], [[Implement|implements]], &c.          503
+    In work connected with precious metals, [[Jewel|jewels]], [[Games|games]], &c.         46
     In building and works of construction                             485
     In work connected with wood, furniture, fittings and decorations  470
-    In work connected with brick, cement, pottery and glass           153
+    In work connected with [[Brick|brick]], cement, pottery and glass           153
     In work connected with chemicals, oil, soap, &c.                   46
-    In work connected with skins, hair and feathers                   137
+    In work connected with skins, hair and [[Feather|feathers]]                   137
     In work connected with paper, prints, books, &c.                  238
     In work connected with textile fabrics                            407
-    In work connected with dress                                     1829
+    In work connected with [[Dress|dress]]                                     1829
     In work connected with food, tobacco, drink and lodging           194
     In work connected with gas, water and electric supply, and
       sanitary service                                                 22
@@ -1087,7 +1087,7 @@ table given below shows the distribution:--
   French-polishing (88), harness-making, &c. (80).
 
   The commonest occupations of women are dressmaking (484), domestic
-  service (367), laundry and washing service (230), tailoring (170),
+  service (367), [[Laundry|laundry]] and washing service (230), tailoring (170),
   shirtmaking, &c. (81), charing (79).
 
   In Munich there are about sixty deaf artists, especially painters and
@@ -1101,9 +1101,9 @@ table given below shows the distribution:--
   photographers, proof-readers, &c.
 
   Italy boasts deaf wood-carvers, sculptors, painters, and architects
-  graduating from the universities and academies of fine arts with
-  prizes and medals; also type-setters, pressmen, carvers of coral,
-  ivory and precious stones.
+  graduating from the universities and academies of [[Fine Arts|fine arts]] with
+  prizes and medals; also type-setters, pressmen, carvers of [[Coral|coral]],
+  [[Ivory|ivory]] and precious stones.
 
   Two gentlemen in the office of the Norwegian government are deaf, as
   are four in the engraving department of the land survey; one is a
@@ -1133,7 +1133,7 @@ abroad, which are much needed owing to the difficulty the average deaf
 person has in understanding the archaic language of both Bible and
 Prayer-book. Until they have this explained to them it is useless to
 place these books in their hands, and even where they are well-educated
-and can follow the services, they fail to get the sermon. Chaplains and
+and can follow the services, they fail to get the sermon. [[Chaplain|Chaplains]] and
 missioners engage in all branches of pastoral work among them, and also
 try to find them employment, interpret for them where necessary, and
 interview people on their behalf.
@@ -1148,7 +1148,7 @@ The new After-Care Committees of the London County Council are a late
 confession of a need which other bodies have long endeavoured to supply.
 Education should be a development of the whole nature of the child. The
 board of education in England provides for intellectual, industrial and
-physical training, but does not take cognizance of those parts of
+physical training, but does not take [[Cognizance|cognizance]] of those parts of
 education which are far more important--the social, moral and spiritual.
 Some teachers, both oral and manual, do an incalculable amount of good
 at the cost of great self-sacrifice and in face of much discouragement.
@@ -1168,17 +1168,17 @@ killed, without causing any comment but that so many encumbrances had
 been removed. They were regarded as being on a mental level with idiots
 and utterly incapable of helping themselves. In later times Roman law
 forbade those who were deaf and dumb from birth to make a will or
-bequest, placing them under the care of guardians who were responsible
+bequest, placing them under the care of [[Guardian|guardians]] who were responsible
 for them to the state; though if a deaf person had lost hearing after
 having been educated, and could either speak or write, he retained his
-rights. Herodotus refers to a deaf son of Croesus, whom he declares to
+rights. Herodotus refers to a deaf son of [[Croesus]], whom he declares to
 have suddenly recovered his speech upon seeing his father about to be
-killed. Gellius makes a similar statement with reference to a certain
-athlete. Hippocrates was in advance of Aristotle when he realized that
+killed. [[Gellius]] makes a similar statement with reference to a certain
+athlete. [[Hippocrates]] was in advance of [[Aristotle]] when he realized that
 deaf-mutes did not speak simply because they did not know how to; for
 the last-named seems to have considered that some defect of the
 intellect was the cause of their inability to utter articulate sounds.
-Pliny the elder and Messalla Corvinus mention deaf-mutes who could
+Pliny the elder and Messalla [[Corvinus]] mention deaf-mutes who could
 paint.
 
 The true mental condition of the deaf was realized, however, by few, if
@@ -1193,10 +1193,10 @@ idiotic.
 
 It is, however, with those who attempted to educate the deaf that we are
 here chiefly concerned. The first to call for notice is St John of
-Beverley. The Venerable Bede tells how this bishop made a mute speak and
+[[Beverley]]. The Venerable [[Bede]] tells how this bishop made a mute speak and
 was credited with having performed a miracle in so doing. Probably it
 was nothing more than the first attempt to teach by the oral method, and
-the greatest credit is due to him for being so far in advance of his
+the greatest [[Credit|credit]] is due to him for being so far in advance of his
 times as to try to instruct his pupil at all. Bede himself invented a
 system of counting on the hands; and also a "manual speech," as he
 called it,--using his numerals to indicate the number of the letter of
@@ -1210,7 +1210,7 @@ stating that they can be instructed by writing, after they have been
 shown the signification of words, since their mental power is unaffected
 by their inability to hear.
 
-Pedro Ponce de Leon (c. 1520-1584), a Spanish Benedictine monk, is more
+Pedro Ponce de [[Leon]] (c. 1520-1584), a Spanish Benedictine monk, is more
 worthy of notice, as he, to use his own words, taught the deaf "to
 speak, read, write, reckon, pray, serve at the altar, know Christian
 doctrine, and confess with a loud voice." Some he taught languages and
@@ -1234,7 +1234,7 @@ expressed by pantomime; while the value of prepositions, adverbs and
 interjections, as well as the tenses of verbs, he believed could be
 learnt by repeated use. The pupil should be educated by interrogation,
 conversation, and carefully graduated reading. The success of Bonet's
-endeavours are borne witness to by Sir Kenelm Digby, who met the teacher
+endeavours are borne witness to by Sir Kenelm [[Digby]], who met the teacher
 at Madrid.
 
 Bonifacio's work on signs, in which he uses every part of the body for
@@ -1279,7 +1279,7 @@ language, he maintains, will enable the deaf person to read a sentence
 from the lips if he gets most of the words; for he will be able to
 supply those he did not see, from his knowledge of English.
 
-Johan Baptist van Helmont treated of the work of the vocal organs. Amman
+Johan Baptist van [[Helmont]] treated of the work of the vocal organs. Amman
 says that Van Helmont had discovered a manual alphabet and used it to
 instruct the deaf, but had not attained very good results.
 
@@ -1301,7 +1301,7 @@ the things they represent; then adjectives should be joined to them.
 Verbs should be taught by suiting the action to the words, and
 associating the pronouns with them. Other parts of speech should be
 given as opportunities of explaining them present themselves. Dalgarno
-invented an alphabet, the letters being on the joints of the fingers and
+invented an alphabet, the letters being on the [[Joints|joints]] of the fingers and
 palm of the left hand.
 
 John Conrad Amman published his _Dissertatio de Loquela_ in 1700. In the
@@ -1316,9 +1316,9 @@ articulation and lip-reading that Amman taught the meaning of words and
 language; but the name of this teacher will long stand as that of one of
 the most successful the world has known.
 
-Passing over Camerarius, Schott, Kerger (who began teaching language
+Passing over [[Camerarius]], Schott, Kerger (who began teaching language
 sooner than Amman did, and depended more on writing and signs), Raphel
-(who instructed three deaf daughters), Lasius, Arnoldi, Lucas, Vanin, de
+(who instructed three deaf daughters), Lasius, Arnoldi, [[Lucas]], Vanin, de
 Fay (himself deaf) and many others, we come to Giacobbo Rodriguez
 Pereira, the pioneer of deaf-mute education in France, if we except de
 Fay. Beginning his experience by instructing his deaf sister, he soon
@@ -1362,7 +1362,7 @@ the present day; but whatever opinions we may hold as to the best means
 of instructing the deaf we cannot but admire the devoted teacher who
 spent his life and his all in benefiting this class of the community.
 
-Samuel Heinicke first began his work in 1754 at Dresden, but in 1778 he
+Samuel Heinicke first began his work in 1754 at [[Dresden]], but in 1778 he
 removed to Leipzig and started on the instruction of nine pupils. His
 methods he kept secret; but we know that he taught orally, using signs
 only when he considered them helpful, and spelling only to combine
@@ -1376,7 +1376,7 @@ expressed the opinion that speech should be the sole method of
 instruction, and, strange to say, that by speech alone could thoughts be
 fully expressed.
 
-Henry Baker became tutor to a deaf girl in 1720, and his success led to
+Henry [[Baker]] became tutor to a deaf girl in 1720, and his success led to
 the establishment of a private school in London. He also kept his system
 a secret, but recently his work on lessons for the deaf was discovered,
 from which we gather that he adopted writing, drawing, speech and
@@ -1388,7 +1388,7 @@ but it is a pity that such a good teacher had not the philanthropy to
 make his methods known and to give the poorer deaf the benefit of them,
 as de l'Epee did.
 
-A school was established in Edinburgh in 1760 by Thomas Braidwood, who
+A school was established in Edinburgh in 1760 by Thomas [[Braidwood]], who
 taught by the oral method. He taught the sounds first, then syllables,
 and finally words, teaching their meaning. In 1783 Braidwood came to
 Hackney, whence he moved to Old Kent Road, and in 1809 there were
@@ -1403,15 +1403,15 @@ teacher had yet undertaken the instruction of a deaf child who could not
 pay for it. Now things began to be different. Institutions were founded,
 and their doors were opened to nearly all.
 
-Dr Watson, the first principal of the Old Kent Road "Asylum," taught by
+Dr Watson, the first principal of the Old Kent Road "[[Asylum]]," taught by
 articulation and lip-reading, reading and writing, explaining by signs
 to some extent, but using pictures much more, according to Addison, and
 composing a book of these for the use of his pupils. From Addison (_Deaf
 Mutism_, pp. 248 ff.) we learn what developments followed. In Vienna,
 Prague and Berlin, schools had been founded in rapid succession before
 the 19th century dawned, and in 1810 the Edinburgh institution opened
-its doors. Nine years later the Glasgow school was established and,
-under the able guidance of Mr Duncan Anderson (after several other
+its doors. Nine years later the [[Glasgow]] school was established and,
+under the able guidance of Mr [[Duncan]] Anderson (after several other
 headmasters had been tried) from 1831, taught pupils whose grasp of
 English was equal to that of the very best educated deaf in England
 to-day, as has been proved by conversation with the survivors. Mr
@@ -1424,7 +1424,7 @@ numerous subjects attempted to-day in schools for the deaf, which, while
 excellent in themselves, generally exclude what is far more important
 from the curriculum.
 
-Addison further mentions Mr Baker of Doncaster, a contemporary of
+Addison further mentions Mr Baker of [[Doncaster]], a contemporary of
 Anderson, as having compiled many lesson books for deaf children which
 came to be used in ordinary schools also, and Mr Scott of Exeter as
 having, together with Baker, "exercised a profound influence on the
@@ -1439,7 +1439,7 @@ also honourably mentioned.
 The great "oral revival" now swept all before it. The German method was
 enthusiastically welcomed in all parts of Europe, and at the Milan
 conference in 1880 was almost unanimously adopted by teachers from all
-countries. Those in high places countenanced it; educational authorities
+countries. Those in [[High Place|high places]] countenanced it; educational authorities
 awoke to the fact that the deaf needed special teaching, and came to the
 conclusion that the "pure" oral method was the panacea that would
 restore all the deaf to a complete equality with the hearing in any
@@ -1452,22 +1452,22 @@ of their education. The "pure" oral method has had a long and unique
 trial in England in circumstances which other methods have never
 enjoyed.
 
-Meanwhile in the United States Dr Thomas Hopkins Gallaudet was elected
+Meanwhile in the United States Dr Thomas [[Hopkins]] Gallaudet was elected
 in 1815 to go to Europe to inquire into the methods of educating the
 deaf in vogue there. This was at a meeting held in the house of a
-physician named Cogswell, in Hartford, Connecticut, and was the result
+physician named Cogswell, in [[Hartford]], Connecticut, and was the result
 of the latter's discovery that eighty-four persons in the state besides
 his own little girl were deaf. Henry Winter Syle, himself deaf, tells
 how "four months were spent in learning that the doors of the British
-schools were 'barred with gold, and opened but to golden keys,'" and
+schools were 'barred with gold, and opened but to golden [[Key|keys]],'" and
 how, disappointed in England, Gallaudet met with a ready response to his
 inquiries in Paris. With Laurent Clerc, a deaf teacher, he returned to
 the United States in 1816, and the "Connecticut Asylum" was founded a
 year after with seven pupils. The name was changed to "The American
 Asylum" later, when it was enlarged. This was followed by the
-Pennsylvania, New York and Kentucky institutions, with the second of
+Pennsylvania, New York and [[Kentucky]] institutions, with the second of
 which the Peet family were connected. Dr Gallaudet married one of his
-deaf pupils, Sophia Fowler, and, after a very happy married life, Mrs
+deaf pupils, Sophia [[Fowler]], and, after a very happy married life, Mrs
 Gallaudet accompanied her youngest son, Edward Miner Gallaudet, to the
 Columbia institution for the Deaf and Dumb, Washington, D.C., founded in
 1857 by Congress and largely supported by Amos Kendall, and to the
@@ -1483,7 +1483,7 @@ college is supported by Congress.
   Here is a statement of the course for the B.A. degree:--
 
   First year: Algebra, grammar, punctuation, history of England,
-  composition, Latin grammar, Caesar.
+  composition, Latin grammar, [[Caesar]].
 
   Second year: Algebra (from quadratics), geometry, composition, Caesar
   (Gallic War), Cicero (Orations), Allen and Greenough's _Latin
@@ -1492,13 +1492,13 @@ college is supported by Congress.
 
   Third year: Olney's or Loomis's _Plane and Spherical Trigonometry_,
   Loomis's _Analytical Geometry_ (optional), Orton's _Zoology_, Gray's
-  _Botany_, Remsen's _Chemistry_, laboratory practice, Virgil's
+  _Botany_, Remsen's _[[Chemistry]]_, laboratory practice, Virgil's
   _Aeneid_, Homer's _Iliad_ (optional), Meiklejohn's _History of English
   Literature and Language_ (two books), Maertz's _English Literature_,
   Hadley's _History_, original composition.
 
   Fourth year: Loomis's _Calculus_ (optional), Dana's _Mechanics_,
-  Gage's _Natural Philosophy_, Young's _Astronomy_, laboratory practice,
+  Gage's _Natural Philosophy_, Young's _[[Astronomy]]_, laboratory practice,
   qualitative analysis, Steel's Hygienic _Physiology_, Edgren's _French
   Grammar_, Super's _French Reader, Demosthenes on the Crown_
   (optional), Hart's _Composition and Rhetoric_, original composition,
@@ -1509,7 +1509,7 @@ college is supported by Congress.
   Sheldon's _German Grammar_, Joynes's _German Reader_, LeConte's
   _Geology_, Guyot's _Earth and Man_, Hill's _Elements of Psychology_,
   Haven's _Moral Philosophy_, Butler's _Analogy_, Bascom's _Elements of
-  Beauty_, Perry's _Political Economy_, Gallaudet's _International Law_.
+  Beauty_, Perry's _Political Economy_, Gallaudet's _[[International]] Law_.
 
   Even in 1893 we were told that of the graduates of the college
   "fifty-seven have been engaged in teaching, four have entered the
@@ -1547,7 +1547,7 @@ college is supported by Congress.
   and later of the Colorado institution; a third has had charge of the
   Oregon institution; a fourth is at the head of a day school in St
   Louis; three others have respectively founded and are now at the head
-  of schools in New Mexico, North Dakota, and Evansville, Indiana, and
+  of schools in New Mexico, North Dakota, and [[Evansville]], [[Indiana]], and
   others have done pioneer work in establishing schools in Florida and
   in Utah."
 
@@ -1615,15 +1615,15 @@ deaf children attending a day school to classify them according to their
 status, while it is more than one teacher can do to give sufficient
 attention to several children, each at a different stage of instruction
 from any other. Moreover, the deaf need more than mere school work; they
-need training in morals and manners, and receive much less of it from
+need training in morals and [[Manners|manners]], and receive much less of it from
 their parents than their hearing brothers and sisters. This can only be
-given in an institution wherein they board and lodge as well as attend
+given in an institution wherein they board and [[Lodge|lodge]] as well as attend
 classes. The existing institutions were from 1893 placed, by the act of
 that date, either partly or wholly under the control of the school
 board. They were put under the inspection of the government, and as long
 as they fulfilled the requirements of the inspectors as regards
 education, manual and physical training, outdoor recreation and suitable
-class-room and dormitory accommodation, they might remain in the hands
+class-room and [[Dormitory|dormitory]] accommodation, they might remain in the hands
 of a committee who collected, or otherwise provided, one-third of the
 total expenditure, and received two-thirds from public sources. Or else,
 the institution might be surrendered entirely to the management of the
@@ -1674,7 +1674,7 @@ school board has given place to the county council as local authority.
   Addison saw good lip-reading and thorough work, though the deaf in the
   city--as in most of the schools--signed. The men in Berlin "like the
   adult deaf generally, were all in favour of a combination of methods,
-  and condemned the pure oral theory as impracticable." At Hamburg,
+  and condemned the pure oral theory as impracticable." At [[Hamburg]],
   again, "hand signs" were used at least for Sunday service. Schleswig
   has two schools. Pupils are admitted first to the residential
   institution, where they are instructed for a year, and are then
@@ -1691,7 +1691,7 @@ school board has given place to the county council as local authority.
   another year at Fredericia and are then divided into the A, B and C
   divisions before mentioned, and on the same criterion--intellect.
   Those in C--the lowest class, 28% of the totally deaf--are sent to
-  Copenhagen, where they are taught by the manual method, no oral work
+  [[Copenhagen]], where they are taught by the manual method, no oral work
   being attempted. Those in B class, numbering 19% of the deaf, remain
   in the residential institution in Fredericia and are taught orally,
   while the best pupils--A class--are boarded out in the town and attend
@@ -1717,9 +1717,9 @@ school board has given place to the county council as local authority.
 
   In France most of the schools are supported by charity, and the only
   three government institutions are those at Paris for boys, with 263
-  pupils lately, at Bordeaux for girls, having 225 inmates, and at
+  pupils lately, at [[Bordeaux]] for girls, having 225 inmates, and at
   Chambery with 86 boys and 38 girls. In the great majority the method
-  of instruction is professedly pure oral. "But," said Henri Gaillard
+  of instruction is professedly pure oral. "But," said Henri [[Gaillard]]
   (_Report, World's Congress of the Deaf_, Missouri, 1904), "this is
   only in appearance. In reality all of the schools use the combined
   method; only they are not willing to admit it, because the oral method
@@ -1749,7 +1749,7 @@ no two teachers will, or can, adopt exactly the same lines. It is not
 desirable that they should, for much must be left to individuality.
 Orders, rules, methods, should not be absolute laws. Observe them
 generally, but dispense with them as circumstances, the pupil and
-opportunity may require. Strong individuality, sympathy, enthusiasm,
+opportunity may require. Strong individuality, sympathy, [[Enthusiasm|enthusiasm]],
 long intercourse with the deaf, are needed in the teacher, and it is
 surely obvious that every teacher should have a full command of all the
 primary means of instruction to begin with, and not of one only.
@@ -1833,7 +1833,7 @@ _Articulation Sheets._
   |             \mi   |                   |  m)et     = met   |                   |
   |  pin(e)   = pain  |                   |  p)in     = pin   |                   |
   |  no       = nou   |  move     = muv   |  n)ot     = not   |                   |
-  |  tub(e)   = tiub  |  bull     = bul   |  t)ub     = tub   |                   |
+  |  tub(e)   = tiub  |  [[Bull|bull]]     = bul   |  t)ub     = tub   |                   |
   +-------------------+-------------------+-------------------+-------------------+
 
   Order in which the Vowel Sounds are to be taught.
@@ -1854,7 +1854,7 @@ _Articulation Sheets._
      \ Spelling  /
 
      /Diacritic  / )a      )u       i
-     | Mark     <  hat     hut     hit
+     | Mark     <  hat     hut     [[Hit|hit]]
   3 <            |  ||      ||      ||
      |           \  a       u       i
      |Phonetic   \ hat     hut     hit
@@ -1864,7 +1864,7 @@ The consonants are as follows, though the order of teaching them
 varies:--
 
 p; f; s; h; sh; v = _f_; th (thin; moth); _th_ (then; smooth); l; r; t;
-k; b; d; g (go; egg); z = _s_; m; n; ch = tsh; j = dzh = g; ph = f; kc =
+k; b; d; g (go; [[Egg|egg]]); z = _s_; m; n; ch = tsh; j = dzh = g; ph = f; kc =
 k; cs = s; q = kw; x = ks; ng; w = oo; wh = hw; y = e.
 
 The following mode of writing the sounds is now preferred by some as it
@@ -1921,7 +1921,7 @@ procedure:--
   their books make them sit down and say them off their books as hearing
   children do.
 
-  (9) Make them say the sounds off the cards, and form combinations on
+  (9) Make them say the sounds off the [[Cards|cards]], and form combinations on
   the cards for them to say.
 
   (10) Take each vowel separately and make each pupil use it before and
@@ -2029,7 +2029,7 @@ beginners by the combined system:--
   tablet; pupils to supply them.
 
   "(3) Pupils to answer questions, giving the subject, predicate and
-  object of the sentence as required, e.g. 'A farmer ploughs the
+  object of the sentence as required, e.g. 'A [[Farmer|farmer]] ploughs the
   ground.' 'Who ploughs the ground?' 'What does a farmer do?' 'What does
   he plough?' Also additional and illustrative questions; e.g. 'Does the
   ground plough the farmer?' 'Does a farmer plough the sea?' 'Does he
@@ -2128,7 +2128,7 @@ the oral.
   _t_ and _d_, _f_ and _v_, _p_ and _b_, _s_ and _z_, _k_ and _g_. Which
   is meant has usually to be guessed from the context, and this requires
   a certain amount of knowledge of language, which is the very thing
-  that is needed to be imparted. (7) The deliberate avoidance by the
+  that is needed to be imparted. (7) The deliberate [[Avoidance|avoidance]] by the
   teacher of the pupil's own language--signs--as an aid to teaching him
   English. If a hearing boy does not understand the meaning of a French
   word he looks it up in the dictionary and finds its English
@@ -2136,7 +2136,7 @@ the oral.
   simplest, quickest, best way to explain it is, in most cases, to sign
   it. (8) The distaste of the pupil for the method. This is common. (9)
   The mechanical nature of the method. There is nothing to rouse his
-  interest nor to appeal to his imagination in it. (10) The temptation
+  interest nor to appeal to his [[Imagination|imagination]] in it. (10) The temptation
   to the teacher to use very simple phrases, owing to the difficulty the
   pupil has in reading others from his lips. Consequently the pupil
   comparatively seldom learns advanced language.
@@ -2156,7 +2156,7 @@ the oral.
   standing with combined system pupils of four years', are also
   obviously unfair. Reference may be made on this subject to Heidsiek's
   remarkable articles on the question of education, which appeared in
-  the _American Annals of the Deaf_ from April 1899 to January 1900.
+  the _American [[Annals]] of the Deaf_ from April 1899 to January 1900.
 
   The opinions of the deaf themselves as to the relative merits of the
   methods of teaching also demand particular attention. The ignoring of
@@ -2176,9 +2176,9 @@ the oral.
   and so could not sign it. In America an overwhelming majority favour
   the combined system, and it is in America that by far the best results
   of education are to be seen. At the World's Congress of the Deaf at St
-  Louis in 1904 the combined system was upheld, as it was at Liege. From
+  Louis in 1904 the combined system was upheld, as it was at [[Liege]]. From
   France, Germany, Norway and Sweden, Finland, Italy, Russia, everywhere
-  in fact where they are educated, the deaf crowd upon us with
+  in fact where they are educated, the deaf [[Crowd|crowd]] upon us with
   expressions of their emphatic conviction, repeated again and again,
   that the combined system is what meets their needs best and brings
   most happiness into their lives. The majority of deaf in every known
@@ -2231,7 +2231,7 @@ have come to our notice. A good teacher might accomplish much with some
 of these described as lunatic in classes 5 and 6. Finally, classes 3 and
 4 may have become lunatic owing to the loneliness and brooding
 inseparable to a great extent from such terrible afflictions as
-blindness and deafness combined. Probably the isolation became
+[[Blindness|blindness]] and deafness combined. Probably the isolation became
 intolerable, and if only they had had some one who understood them to
 educate them their reason might have been saved.
 
@@ -2297,9 +2297,9 @@ blind-deaf pupils were taught:--
   and in preparation for the rite over 800 questions were put to him by
   finger-spelling. His education was continued in Braille. The deaf-born
   boy developed a fair voice, and could imitate sounds by placing his
-  hand on a speaker's mouth. Two of them had a keen sense of humour, and
+  hand on a speaker's mouth. Two of them had a keen sense of [[Humour|humour]], and
   would slyly move the finger to the muscles of their companion's face
-  to feel the smile with which a bit of pleasantry was responded to. In
+  to feel the smile with which a [[Bit|bit]] of pleasantry was responded to. In
   connexion with the pupil who was confirmed, the vicar who examined him
   declared that none of his questions had been answered better even by
   candidates possessed of all their faculties than they were by this
@@ -2309,7 +2309,7 @@ Mr W. M. Stone, principal of the Royal Blind School at West Craigmillar,
 Edinburgh, gives this very interesting information:
 
   "We have five blind-deaf children at this institution, and all are
-  wonderfully clever and intelligent. In all cases the children
+  wonderfully [[Clever|clever]] and intelligent. In all cases the children
   possessed hearing for a time and had some knowledge--very slight in
   some cases--of language. The method of teaching is, first to teach
   them the names of common objects on their fingers. A well-known object
@@ -2319,7 +2319,7 @@ Edinburgh, gives this very interesting information:
   learns a name. Other names are then given and similar names are
   associated together, and by noticing the difference in the names the
   child gradually grasps the idea of an alphabet. For instance, if he
-  learns the words cat, bat and mat, he will quickly distinguish that
+  learns the words cat, bat and [[Mat|mat]], he will quickly distinguish that
   the words are alike except in their initial letters. When in this way
   language has been acquired he is taught the Braille system of reading
   for the blind and his progress is now very rapid. This method may
@@ -2329,7 +2329,7 @@ Edinburgh, gives this very interesting information:
   continent. Our own blind children here are receiving the same
   education as our other children, and in some ways are more advanced
   than seeing and hearing children of their own ages. They not only
-  read, write and do arithmetic, but they do typewriting and much manual
+  read, write and do [[Arithmetic|arithmetic]], but they do typewriting and much manual
   work."
 
 Mr Addison mentions two deaf and blind pupils who were taught by the
@@ -2347,7 +2347,7 @@ blind-deaf is not such a stupendous task as people imagine it to be.
   remembered that those principles are exactly the same in the cases of
   the deaf and of the deaf-blind, the only difference being in the
   application--the deaf _see_, the deaf-blind _feel_. Some familiar,
-  tangible object--a doll, a cup, or what not--is given to the pupil,
+  tangible object--a [[Doll|doll]], a cup, or what not--is given to the pupil,
   and at the same time the name of the object is spelled into its hand
   by the manual alphabet." (The one-hand alphabet is in vogue in
   America.) "By patient persistence, the pupil comes to recognize the
@@ -2365,8 +2365,8 @@ blind-deaf is not such a stupendous task as people imagine it to be.
 In the New York Institution for the Deaf ten blind-deaf pupils were
 educated, up to the year 1901. Nearly all of these lost one or both
 senses after they had been able to acquire some knowledge with their
-aid. In the Perkins Institution for the Blind, Boston, five were taught.
-It was here that Laura Bridgman was educated by Dr Samuel G. Howe
+aid. In the Perkins Institution for the Blind, [[Boston]], five were taught.
+It was here that Laura [[Bridgman]] was educated by Dr Samuel G. Howe
 (q.v.); all honour is due to him for being the pioneer in attempting to
 teach this class of the community, for she was the first blind-deaf
 person to be taught. Many other schools for the deaf or blind have
@@ -2378,7 +2378,7 @@ whose case the initial attempt to teach the blind-deaf was made. Helen
 Keller was taught primarily by finger-spelling into her hand, and
 signing (which she, of course, felt with her hands) where necessary. Her
 first teacher was Miss Sullivan. The pupil "acquired language by
-practice and habit rather than by study of rules and definitions."
+practice and habit rather than by study of rules and [[Definition|definitions]]."
 Finger-spelling and books were the two great means of educating her at
 all times. After her grasp of language had been brought to a high
 standard, Miss Fuller gave her her first lessons in speech, and Miss

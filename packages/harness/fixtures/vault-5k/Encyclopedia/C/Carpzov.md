@@ -17,13 +17,13 @@ of the ordnance in the service of the king of Denmark, and BENEDIKT
 (1565-1624), an eminent jurist.
 
 BENEDIKT CARPZOV was born in Brandenburg on the 22nd of October 1565,
-and after studying at Frankfort and Wittenberg, and visiting other
+and after studying at [[Frankfort]] and Wittenberg, and visiting other
 German universities, was made doctor of laws at Wittenberg in 1590. He
 was admitted to the faculty of law in 1592, appointed professor of
 institutions in 1599, and promoted to the chair _Digesti infortiati et
 novi_ in 1601. In 1602 he was summoned by Sophia, widow of the elector
 Christian I. of Saxony, to her court at Colditz, as chancellor, and was
-at the same time appointed councillor of the court of appeal at Dresden.
+at the same time appointed councillor of the court of appeal at [[Dresden]].
 After the death of the electress in 1623 he returned to Wittenberg, and
 died there on the 26th of November 1624, leaving five sons. He published
 a collection of writings entitled _Disputationes juridicae_.
@@ -35,7 +35,7 @@ obtained an honourable post at Dresden in 1639, became ordinary of the
 faculty of jurists at Leipzig in 1645, and was named privy councillor at
 Dresden in 1653. Among his works which had a very extensive influence on
 the administration of justice, even beyond the limits of Saxony, are
-_Definitiones forenses_ (1638), _Practica nova Imperialis Saxonica rerum
+_[[Definition|Definitiones]] forenses_ (1638), _Practica nova Imperialis Saxonica rerum
 criminalium_ (1635), _Opus decisionum illustrium Saxoniae_ (1646),
 _Processus juris Saxonici_ (1657), and others. He did much, both by his
 writings and by his official work, to systematize the body of German
@@ -44,7 +44,7 @@ of Saxony with the Roman and Canon laws. His last years were spent at
 Leipzig, and his time was entirely devoted to sacred studies. He read
 the Bible through fifty-three times, studying also the comments of
 Osiander and Cramer, and making voluminous notes. These have been
-allowed to remain in manuscript. He died at Leipzig on the 30th of
+allowed to remain in [[Manuscript|manuscript]]. He died at Leipzig on the 30th of
 August 1666.
 
 JOHANN BENEDIKT CARPZOV (1607-1657), fourth son of the first Benedikt,
@@ -62,8 +62,8 @@ Jena, and in 1637 was appointed advocate of the court of justice
 II., duke of Saxe-Altenburg, he took part in the negotiations which led
 to the peace of Westphalia in 1648, and was appointed chancellor by the
 duke in 1649. From 1672 to 1680 he was chief minister of Ernest I. and
-Frederick I., dukes of Saxe-Coburg-Gotha, and died at Coburg on the 19th
-of November 1683. August, who was a man of earnest piety, wrote _Der
+Frederick I., [[Dukes|dukes]] of Saxe-Coburg-Gotha, and died at [[Coburg]] on the 19th
+of November 1683. August, who was a man of [[Earnest|earnest]] piety, wrote _Der
 gekreuzigte Jesus_ (1679) and some treatises on jurisprudence.
 
 JOHANN GOTTLOB CARPZOV (1670-1767), grandson of Johann Benedikt, was

@@ -5,7 +5,7 @@ confluence of the Queich and the Rhine, 8 m. S.W. of Speyer. Pop. (1905)
 5914. It possesses a Roman Catholic and an Evangelical church, a
 synagogue, a progymnasium and a hospital. The industries include
 fishing, shipbuilding and brewing. Germersheim existed as a Roman
-stronghold under the name of _Vicus Julius_. The citadel was rebuilt by
+stronghold under the name of _Vicus [[Julius]]_. The citadel was rebuilt by
 the emperor Conrad II., but the town itself was founded in 1276 by the
 emperor Rudolph I., who granted it the rights of a free imperial city.
 From 1330 to 1622, when it was conquered by Austria, the town formed

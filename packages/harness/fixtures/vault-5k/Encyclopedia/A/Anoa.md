@@ -4,7 +4,7 @@ ANOA, the native name of the small wild buffalo of Celebes, _Bos_
 (_Bubalus_) _depressicornis_, which stands but little over a yard at the
 shoulder, and is the most diminutive of all wild cattle. It is nearly
 allied to the larger Asiatic buffaloes, showing the same reversal of the
-direction of the hair on the back. The horns are peculiar for their
+direction of the hair on the back. The [[Horn|horns]] are peculiar for their
 upright direction and comparative straightness, although they have the
 same triangular section as in other buffaloes. White spots are sometimes
 present below the eyes, and there may be white markings on the legs and

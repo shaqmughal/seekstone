@@ -5,9 +5,9 @@ theologian, was the son of a surgeon at Gorcum. As he manifested great
 artistic talent, his brother, in whose charge he was left on the death
 of his parents, placed him under the painter Govaerts. But at that time
 there was intense interest in theology; and Camphuysen, sharing in the
-prevailing enthusiasm, deserted the pursuit of art, to become first a
+prevailing [[Enthusiasm|enthusiasm]], deserted the pursuit of art, to become first a
 private tutor and afterwards minister of Vleuten near Utrecht(1616). As,
-however, he had embraced the doctrines of Arminius with fervour, he was
+however, he had embraced the doctrines of [[Arminius]] with fervour, he was
 deprived of this post and driven into exile (1619). His chief solace was
 poetry; and he has left a translation of the Psalms, and a number of
 short pieces, remarkable for their freshness and depth of poetic

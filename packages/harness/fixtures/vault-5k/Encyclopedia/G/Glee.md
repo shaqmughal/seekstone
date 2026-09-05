@@ -35,12 +35,12 @@ movement of the voices is strictly contrapuntal, while the more modern
 form allows of freer treatment and more compact harmonies. Differences
 of tonality are fully explained by the development of the art, for while
 the madrigal reached its acme in Queen Elizabeth's time, the glee proper
-was little known before the Commonwealth; and its most famous
+was little known before the [[Commonwealth]]; and its most famous
 representatives belong to the 18th century and the first quarter of the
 19th. Among the numerous collections of the innumerable pieces of this
 kind, only one of the earliest and most famous may be mentioned, _Catch
 that Catch can, a Choice Collection of Catches, Rounds and Canons, for
-three and four voices_, published by John Hilton in 1652. The name
+three and four voices_, published by John [[Hilton]] in 1652. The name
 "glee," however, appears for the first time in John Playford's _Musical
 Companion_, published twenty-one years afterwards, and reprinted again
 and again, with additions by later composers--Henry Purcell, William

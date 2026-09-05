@@ -31,7 +31,7 @@ for the worship and adoration of the eternal, unsearchable and immutable
 Being, who is the author and preserver of the universe, but not under
 and by any other name, designation or title, peculiarly used for and
 applied to any particular being or beings by any man or set of men
-whatsoever; and that no graven image, statue or sculpture, carving,
+whatsoever; and that no graven [[Image|image]], statue or sculpture, carving,
 painting, picture, portrait or the likeness of anything shall be
 admitted within the said messuage, building, land, tenements,
 hereditament and premises; and that no sacrifice, offering or oblation
@@ -50,21 +50,21 @@ no sermon, preaching, discourse, prayer or hymns be delivered, made or
 used in such worship, but such as have a tendency to the contemplation
 of the Author and Preserver of the universe or to the promotion of
 charity, morality, piety, benevolence, virtue and the strengthening of
-the bonds of union between men of all religious persuasions and creeds."
+the bonds of union between men of all religious persuasions and [[Creeds|creeds]]."
 
 The new faith at this period held to the Vedas as its basis. Ram Mohan
 Roy soon after left India for England, and took up his residence in
-Bristol, where he died in 1835. The Brahma Samaj maintained a bare
+[[Bristol]], where he died in 1835. The Brahma Samaj maintained a bare
 existence till 1841, when Babu Debendra Nath Tagore, a member of a
 famous and wealthy Calcutta family, devoted himself to it. He gave a
 printing-press to the Samaj, and established a monthly journal called
-the _Tattwabodhini Patrika_, to which the Bengali language now owes much
+the _Tattwabodhini Patrika_, to which the [[Bengali]] language now owes much
 for its strength and elegance. About 1850 some of the followers of the
 new religion discovered that the greater part of the Vedas is
 polytheistic, and a schism took place,--the advanced party holding that
-nature and intuition form the basis of faith. Between 1847 and 1858
+nature and [[Intuition|intuition]] form the basis of faith. Between 1847 and 1858
 branch societies were formed in different parts of India, especially in
-Bengal, and the new society made rapid progress, for which it was
+[[Bengal]], and the new society made rapid progress, for which it was
 largely indebted to the spread of English education and the work of
 Christian missionaries. In fact the whole Samaj movement is as distinct
 a product of the contest of Hinduism with Christianity in the 19th
@@ -106,7 +106,7 @@ feelings are their rites and ceremonies. They further say, govern and
 regulate your feelings, discharge your duties to God and to man, and you
 will gain everlasting blessedness; purify your heart, cultivate
 devotional feelings and you will see Him who is unseen. (14)
-Theoretically there is no distinction of caste among the Brahmas. They
+Theoretically there is no distinction of [[Caste|caste]] among the Brahmas. They
 declare that we are all the children of God, and therefore must consider
 ourselves as brothers and sisters.
 

@@ -6,7 +6,7 @@ topic: history
 
 # Gneiss
 
-GNEISS, a term long used by the miners of the Harz Mountains to
+GNEISS, a term long used by the miners of the [[Harz Mountains]] to
 designate the country rock in which the mineral veins occur; it is
 believed to be a word of Slavonic origin meaning "rotted" or
 "decomposed." It has gradually passed into acceptance as a generic term
@@ -15,8 +15,8 @@ consist of quartz and felspar (orthoclase and plagioclase) with
 muscovite and biotite, hornblende or augite, iron oxides, zircon and
 apatite. There is also a long list of accessory minerals which are
 present in gneisses with more or less frequency, but not invariably, as
-garnet, sillimanite, cordierite, graphite and graphitoid, epidote,
-calcite, orthite, tourmaline and andalusite. The gneisses all possess a
+garnet, sillimanite, cordierite, graphite and graphitoid, [[Epidote|epidote]],
+[[Calcite|calcite]], orthite, tourmaline and andalusite. The gneisses all possess a
 more or less marked parallel structure or foliation, which is the main
 feature by which many of them are separated from the granites, a group
 of rocks having nearly the same mineralogical composition and closely
@@ -30,7 +30,7 @@ rare. Quartz is very seldom absent and may be blue or milky and
 opalescent. Muscovite and biotite may both occur in the same rock; in
 other cases only one of them is present. The commonest and most
 important types of gneiss are the mica-gneisses. Hornblende is green,
-rarely brownish; augite pale green or nearly colourless; enstatite
+rarely brownish; augite pale green or nearly colourless; [[Enstatite|enstatite]]
 appears in some granulite-gneisses. Epidote, often with enclosures of
 orthite, is by no means rare in gneisses from many different parts of
 the world. Sillimanite and andalusite are not infrequent ingredients of
@@ -87,7 +87,7 @@ sometimes garnetiferous.
   abundance and of many different kinds. They are in fact the typical
   rocks of the Archean (Lewisian, Laurentian, &c.) series. In the Alps,
   Harz, Scotland, Norway and Sweden, Canada, South America, Peninsular
-  India, Himalayas (to mention only a few localities) they occupy wide
+  India, [[Himalaya|Himalayas]] (to mention only a few localities) they occupy wide
   areas and exhibit a rich diversity of types. From this it has been
   inferred that they are of great geological age, and in fact this can
   be definitely proved in many cases, for the oldest known fossiliferous
@@ -96,7 +96,7 @@ sometimes garnetiferous.
   represented the primitive crust of the earth, and while this is no
   longer generally taught there are still geologists who hold that these
   gneisses are necessarily of pre-Cambrian age. Others, while admitting
-  the general truth of this hypothesis, consider that there are
+  the general truth of this [[Hypothesis|hypothesis]], consider that there are
   localities in which typical gneisses can be shown to penetrate into
   rocks which may be as recent as the Tertiary period, or to pass into
   these rocks so gradually and in such a way as to make it certain that
@@ -109,7 +109,7 @@ sometimes garnetiferous.
   Many gneisses are undoubtedly sedimentary rocks that have been brought
   to their present state by such agents of metamorphism as heat,
   movement, crushing and recrystallization. This may be demonstrated
-  partly by their mode of occurrence: they accompany limestones,
+  partly by their mode of occurrence: they accompany [[Limestone|limestones]],
   graphitic schists, quartzites and other rocks of sedimentary type;
   some of them where least altered may even show remains of bedding or
   of original pebbly character (conglomerate gneisses). More conclusive,
@@ -130,7 +130,7 @@ sometimes garnetiferous.
   Other gneisses are igneous (orthogneisses). These have very much the
   same composition as acid igneous rocks such as granite, aplite,
   hornblende granite, or intermediate rocks such as syenite and quartz
-  diorite. Many of these orthogneisses are not equally well foliated
+  [[Diorite|diorite]]. Many of these orthogneisses are not equally well foliated
   throughout, but are massive or granitoid in places. They are sometimes
   subdivided into granite gneiss, diorite gneiss, syenite gneiss and so
   on. The sedimentary schists into which these rocks have been intruded
@@ -149,7 +149,7 @@ sometimes garnetiferous.
   called protoclastic, while those which have attained their gneissose
   state by crushing long after consolidation are distinguished as
   cataclastic. There are also many examples of gneisses of mixed or
-  synthetic origin. They may be metamorphosed sediments (granulites and
+  synthetic origin. They may be metamorphosed sediments ([[Granulite|granulites]] and
   schists) into which tongues and thin veins of granitic character have
   been intruded, following the more or less parallel foliation planes
   already present in the country rock. These veinlets produce that

@@ -7,14 +7,14 @@ type: article
 
 # Forfarshire
 
-FORFARSHIRE, or ANGUS, an eastern county of Scotland, bounded N. by the
+FORFARSHIRE, or [[Angus|ANGUS]], an eastern county of Scotland, bounded N. by the
 shires of Kincardine and Aberdeen, W. by Perthshire, S. by the Firth of
 Tay and E. by the North Sea. It has an area of 559,171 acres, or 873.7
 sq. m. The island of Rossie and the Bell Rock belong to the shire.
 
 Forfarshire is characterized by great variety of surface and may be
 divided physically into four well-marked sections. In the most northerly
-of these many of the rugged masses of the Grampians are found; this belt
+of these many of the rugged masses of the [[Grampians]] are found; this belt
 is succeeded by Strathmore, or the Howe of Angus, a fertile valley, from
 6 to 8 m. broad, which is a continuation of the Howe of the Mearns, and
 runs south-westwards till it enters Strathearn, to the south-west of
@@ -25,7 +25,7 @@ group (sometimes rather inexactly called the Braes of Angus) of the
 Grampian ranges. Among the highest masses, most of which lie on or near
 the confines of the bordering counties, are Glas Maol(3502 ft.), on the
 summit of which the shires of Aberdeen, Forfar and Perth meet,
-Cairn-na-Glasha (3484), Fafernie (3274), Broad Cairn (3268), Creag
+Cairn-na-Glasha (3484), Fafernie (3274), Broad [[Cairn]] (3268), Creag
 Leacach (3238), Tolmount (3143), Tom Buidhe (3140), Driesh (3105), Mount
 Keen (3077) and Mayar (3043), while peaks of upwards of 2000 ft. are
 numerous. The Sidlaw Hills--the greater part of which, however, belongs
@@ -36,24 +36,24 @@ being Craigowl Hill (1493 ft.), Auchterhouse Hill (1399) and Gallow Hill
 importance. The Isla, rising in Cairn-na-Glasha, flows southwards, then
 turns S.E. and finally S.W. till it enters the Tay after a course of 45
 m. Its chief tributaries on the right are the Alyth, Ericht and Lunan,
-and on the left the Newton, Melgam and Dean. Near Bridge of Craig is the
+and on the left the Newton, Melgam and Dean. Near Bridge of [[Craig]] is the
 fall of Reekie Linn (70 ft.), so named from the fact that when the
-stream is in flood the spray rises in a dense cloud like smoke (_reek_).
+stream is in [[Flood|flood]] the spray rises in a dense cloud like smoke (_reek_).
 Near old Airlie Castle are the cascades called the Slugs of Auchrannie.
-The North Esk, formed by the confluence of the Lee and Mark at
+The North Esk, formed by the confluence of the [[Lee]] and Mark at
 Invermark, after a south-easterly course of 28 m. enters the North Sea 3
 m. N. of Montrose. On the right bank it receives the West Water and
 Cruick and on the left the Tarf and Luther. It gives the title of earl
-of Northesk to a branch of the Carnegie family. The South Esk rises in
+of Northesk to a branch of the [[Carnegie]] family. The South Esk rises in
 the Grampians near Mount Fafernie and not far from its source forms the
-Falls of Bachnagairn; after flowing towards the south-east, it bends
+Falls of Bachnagairn; after flowing towards the south-east, it [[Bend|bends]]
 eastwards near Tannadice and reaches the North Sea at Montrose, the
 length of its course being 48 m. Its principal affluents are the Prosen
 on the right and the Noran on the left. It supplies the title of earl of
 Southesk to another branch of the Carnegies. The lakes are small, the
-two largest being the Loch of Forfar and the mountain-girt Loch Lee (1
+two largest being the [[Loch]] of Forfar and the mountain-girt Loch Lee (1
 m. long by 1/4 m. wide). Lintrathen (circular in shape and about 3/4 m.
-across), to the north of Airlie Castle, supplies Dundee with drinking
+across), to the north of Airlie Castle, supplies [[Dundee]] with drinking
 water. The glens of the Forfarshire Grampians are remarkable for their
 beauty, and several of them for the wealth of their botanical specimens.
 The largest and finest of them are Glen Isla, in which are the ruins of
@@ -64,15 +64,15 @@ Glen Prosen.
 
   _Geology._--A great earth fracture traverses this county from near
   Edzell on the N.E. to Lintrathen Loch on the S.W. Between Cortachy and
-  the south-western boundary this fault runs in Old Red Sandstone, but
+  the south-western boundary this [[Fault|fault]] runs in Old Red Sandstone, but
   north-east of that place it forms the junction line of Silurian and
   Old Red; and in a general way we may say that on the N.W. side of the
   fault the metamorphosed Silurian rocks are found, while the remainder
   of the county is occupied by the Old Red Sandstone. On the margin of
   the disturbance the Silurian rocks are little-altered grey and green
   clay slates with bands of pebbly grit; farther towards the N.W. we
-  find the same rocks metamorphosed into mica schists and gneisses with
-  pebbly quartzites. Rising up through the schists between Carn Bannock
+  find the same rocks metamorphosed into mica schists and [[Gneiss|gneisses]] with
+  pebbly quartzites. Rising up through the schists between Carn [[Bannock]]
   and Mount Battock is a great mass of granite. The Old Red Sandstone
   extends from this county into Perthshire and Kincardineshire; here
   some 20,000 ft. of these deposits are seen; an important part being
@@ -82,26 +82,26 @@ Glen Prosen.
   the remains of an old vent through which some of the contemporaneous
   lavas, &c., were discharged. The Old Red Rocks have been subjected to
   a good deal of folding, as may be seen along the coast. The principal
-  direction of strike is from N.E. to S.W. A synclinal fold occupies
+  direction of strike is from N.E. to S.W. A synclinal [[Fold|fold]] occupies
   Strathmore, and between Longforgan and Montrose the northern extension
   of the Sidlaw Hills is an anticlinal fold. Two fish-bearing beds occur
   in the county; from the lower one many large _Eurypterids_ have been
-  obtained. The well-known paving flags of Arbroath belong to the lower
+  obtained. The well-known paving [[Flag|flags]] of Arbroath belong to the lower
   part of the formation. The Upper Old Red Sandstone is found only in
-  one spot about a mile north of Arbroath. During the Glacial period the
-  ice travelled south-eastward across Strathmore and over the Sidlaw
+  one spot about a mile north of Arbroath. During the [[Glacial Period|Glacial period]] the
+  [[Ice|ice]] travelled south-eastward across Strathmore and over the Sidlaw
   Hills; abundant evidence of this transporting agent is to be seen in
   the form of morainic deposits, the most striking of which is the great
   transverse barrier of Glenairn in the valley of the S. Esk, half a
   mile in length and about 200 ft. high. Relics of the same period are
-  found round the coast in the form of raised beaches at 100, 50 and 25
+  found round the coast in the form of raised [[Beach|beaches]] at 100, 50 and 25
   ft. above the present sea-level.
 
 _Climate and Agriculture._--On the whole the climate is healthy and
 favourable to agricultural pursuits. The mean temperature for the year
 is 47.3 deg. F., for January 38 deg. and for July 59 deg. The average
 annual rainfall is 34 in., the coast being considerably drier than the
-uplands. In the low-lying districts of the south the harvest is nearly
+uplands. In the low-lying districts of the south the [[Harvest|harvest]] is nearly
 as early as it is in the rest of Scotland, but in the north it is often
 late. The principal wheat districts are Strathmore and the neighbourhood
 of Dundee and Arbroath; and the yield is well up to the best Scottish
@@ -126,23 +126,23 @@ manufactures. Their headquarters are in Dundee, but they flourish also
 at other places. Shipbuilding is carried on at Dundee, Arbroath and
 Montrose. The manufactures of jams, confectionery, leather, machinery,
 soap and chemicals, are all of great and growing value. Sandstone
-quarries employ many hands and the deep-sea fisheries, of which Montrose
+quarries employ many hands and the deep-sea [[Fisheries|fisheries]], of which Montrose
 is the centre, are of considerable importance. The netting of salmon at
 the mouth of the North Esk is also a profitable pursuit.
 
 Two railway companies serve the county. The North British, entering from
 the south by the Tay Bridge, follows the coast north-eastwards, sending
 off at Montrose a branch to Bervie. The Caledonian runs up Strathmore to
-Forfar, whence it diverges due east to Guthrie, where it again resumes
+Forfar, whence it diverges due east to [[Guthrie]], where it again resumes
 its north-easterly course to Dubton and Marykirk; it reaches Dundee from
 Perth by the shore of the estuary of the Tay, and sends branches from
-Dundee to Kirriemuir via Monikie and Forfar and to Alyth Junction via
+Dundee to [[Kirriemuir]] via Monikie and Forfar and to Alyth Junction via
 Newtyle, while a short line from Dubton gives it touch with Montrose.
 
 _Population and Government._--The population was 277,735 in 1891, and
 284,083 in 1901, when 1303 spoke Gaelic and English, and 13 Gaelic only.
 The chief towns are Arbroath (pop. in 1901, 22,398), Brechin (8941),
-Broughty Ferry (10,484), Carnoustie (5204), Dundee (161,173), Forfar
+Broughty Ferry (10,484), [[Carnoustie]] (5204), Dundee (161,173), Forfar
 (11,397), Kirriemuir (4096), Monifieth (2134) and Montrose (12,427).
 Forfarshire returns one member to Parliament. It is a sheriffdom and
 there is a resident sheriff-substitute at Dundee and another at Forfar,
@@ -154,8 +154,8 @@ higher education. The county council and the Dundee and Arbroath town
 councils expend the "residue" grant in subsidizing science and art and
 technical schools and classes, including University College, the textile
 school, the technical institute, the navigation school, and the workshop
-schools at Dundee, the technical school at Arbroath, besides cookery,
-dairy, dress-cutting, laundry, plumbing and veterinary science classes
+schools at Dundee, the technical school at Arbroath, besides [[Cookery|cookery]],
+dairy, dress-cutting, [[Laundry|laundry]], plumbing and veterinary science classes
 at different places.
 
 _History._--In the time of the Romans the country now known as
@@ -181,7 +181,7 @@ Scottish prince or from the hill of Angus to the east of the church of
 Aberlemno. It was early governed by hereditary earls and was made a
 hereditary sheriffdom by David II. The first earl of Angus (by charter
 of 1389) was George Douglas, an illegitimate son of the 1st earl of
-Douglas by Margaret Stuart, who was countess of Angus in her own right.
+Douglas by [[Margaret]] Stuart, who was countess of Angus in her own right.
 On the death of the 1st and only duke of Douglas, who was also 13th earl
 of Angus, in 1761, the earldom merged in the dukedom of Hamilton.
 Precisely when the shire became known by the name of the county town has
@@ -196,9 +196,9 @@ and gateway of the castle of Craig.
   See A. Jervise, _Memorials of Angus and Mearns_ (Edinburgh, 1895);
   _Land of the Lindsays_ (Edinburgh, 1882); _Epitaphs and Inscriptions_
   (Edinburgh, 1879); Earl of Crawford, _Lives of the_ _Lindsays_
-  (London, 1835); Sir W. Fraser, _History of the Carnegies_ (Edinburgh,
+  (London, 1835); Sir W. [[Fraser]], _History of the Carnegies_ (Edinburgh,
   1867); A.H. Millar, _Historical Castles and Mansions_ (Paisley, 1890);
-  G. Hay, _History of Arbroath_ (Arbroath, 1876); D.D. Black, _History
+  G. [[Hay]], _History of Arbroath_ (Arbroath, 1876); D.D. Black, _History
   of Brechin_ (Edinburgh, 1867).
 
 ## See also

@@ -8,10 +8,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Apophyllit
 # Apophyllite
 
 APOPHYLLITE, a mineral often classed with the zeolites, since it behaves
-like these when heated before the blowpipe and has the same mode of
+like these when heated before the [[Blowpipe|blowpipe]] and has the same mode of
 occurrence; it differs, however, from the zeolites proper in containing
 no aluminium. It is a hydrous potassium and calcium silicate,
-H7KCa4(SiO3)8 + 4-1/2(H2O). A small amount of fluorine is often present,
+H7KCa4(SiO3)8 + 4-1/2(H2O). A small amount of [[Fluorine|fluorine]] is often present,
 and it is one of the few minerals in which ammonium has been detected.
 The temperature at which the water is expelled is higher than is usually
 the case with zeolites; none is given off below 200 deg., and only about
@@ -20,7 +20,7 @@ therefore regarded as water of crystallization, the remainder being
 water of constitution. When heated before the blowpipe, the mineral
 exfoliates, owing to loss of water, and on this account was named
 apophyllite by R.J. Hauy in 1806, from the Greek [Greek: apo], from, and
-[Greek: phullon], a leaf.
+[Greek: phullon], a [[Leaf|leaf]].
 
 [Illustration: FIG. 1.]
 
@@ -49,8 +49,8 @@ figure seen in white light.
 Apophyllite is a mineral of secondary origin, commonly occurring, in
 association with other zeolites, in amygdaloidal cavities in basalt and
 melaphyre. Magnificent groups of greenish and colourless tabular
-crystals, the crystals several inches across, were found, with flesh-red
-stilbite, in the Deccan traps of the Western Ghats, near Bombay, during
+crystals, the crystals several [[Inch|inches]] across, were found, with flesh-red
+stilbite, in the Deccan traps of the Western [[Ghats]], near Bombay, during
 the construction of the Great Indian Peninsular railway. Groups of
 crystals of a beautiful pink colour have been found in the silver veins
 of Andreasberg in the Harz and of Guanaxuato in Mexico. Crystals of

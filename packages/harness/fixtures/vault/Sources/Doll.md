@@ -14,16 +14,16 @@ and in South Africa; philology apart, therefore, the derivation from
 "idol" has much to recommend it, and some side influence from this word
 may well have caused the selection of the form "doll." Dolls proper
 should be distinguished from (a) idols, (b) magical figurines, (c)
-votive offerings, (d) costume figures. The festival figures of Japan,
-like the bambino of Italy, given to the child only on certain saints'
-days, hardly come within the category of dolls.
+votive offerings, (d) [[Costume|costume]] figures. The festival figures of [[Japan]],
+like the [[Bambino|bambino]] of Italy, given to the child only on certain saints'
+days, hardly come within the [[Category|category]] of dolls.
 
 Dolls were known in ancient Egypt (XVIIIth Dynasty) and Asia Minor; they
 were common both in Greece and Rome; Persius mentions that girls vowed
-them to Venus when they got married; dolls found in the catacombs are
+them to Venus when they got married; dolls found in the [[Catacomb|catacombs]] are
 preserved in the Vatican and the Museum Carpegna. The [Greek:
 neurospaston] (Lat. _crepundia_) of Greek finds of the 6th and later
-centuries B.C. was a marionette. Dolls were in use among the Arabs at
+centuries B.C. was a marionette. Dolls were in use among the [[Arabs]] at
 the time of Mahomet, and the prophet's nine-year-old wife Ayesha is said
 to have induced him to join her in her play with them. Although
 Mahommedanism prohibits the making of figures in human shape, dolls do
@@ -39,13 +39,13 @@ placed on a stool at home; it probably has a magical significance. The
 same may be said of the Australian figurines; others, made of cane, are
 undoubtedly children's dolls; excellently moulded wax figures are also
 found. In Asia dolls properly so-called are apparently rare; but there
-are specimens in museums from the Malay peninsula, Persia and South
+are specimens in museums from the [[Malay Peninsula|Malay peninsula]], Persia and South
 India, and in Asia Minor children use cushions, &c., as surrogates. They
 are found in Alaska among the Eskimo. Most Red Indian tribes had them; a
 mother who has lost her child carries its dolls and other playthings.
 Cortes is said to have found Montezuma and his court playing with
 elaborate dolls; they have been dug up from prehistoric Peruvian graves.
-In the Gran Chaco metacarpal bones of the rhea are in use, wrapped in a
+In the [[Gran Chaco]] metacarpal [[Bone|bones]] of the rhea are in use, wrapped in a
 blanket when they represent male, in a petticoat when they are female.
 
 But little attention has been paid to the psychological side of dolls.
@@ -62,7 +62,7 @@ than the doll. There is, on the other hand, a tendency to neglect dolls
 for babies and a reverse current of love of dolls which arises out of
 love of babies.
 
-  BIBLIOGRAPHY.--For a list of works see A. MacDonald, _Man and Abnormal
+  BIBLIOGRAPHY.--For a list of works see A. [[Macdonald|MacDonald]], _Man and Abnormal
   Man_ (U. S. Senate Document, 1905, vol. ix. No. 187, p. 275); see
   also Andree, _Ethnographische Parallelen_ N. F.; Schlegel, _Indische
   Bibliothek_. i. 139; _Brandenburgia_, xi. 28; _Delineator_, lviii.
@@ -70,7 +70,7 @@ love of babies.
   vii. 45; _Ladies' Home Journ._ xvi.; _Westermann's Monatshefte_ (Feb.
   1899, &c.); _Man_ (1903, No. 22). For the psychological side see
   _Paedagogical Seminary_, iv. 129, discussed in _Contemporary Rev._
-  lxxv. 58; Mrs F. H. Burnett, "The One I know best of all"; Sully,
+  lxxv. 58; Mrs F. H. [[Burnett]], "The One I know best of all"; Sully,
   _Studies of Childhood_; G. Sand, _Histoire de ma vie_.     (N. W. T.)
 
 ## See also

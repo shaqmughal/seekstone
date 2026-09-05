@@ -9,12 +9,12 @@ type: reference
 
 BOURGES, a city of central France, chief town of the department of Cher,
 144 m. S. of Paris on the Orleans railway between Vierzon and Nevers.
-Pop. (1906) town, 34,581; commune, 44,133. Bourges is built amidst flat
+Pop. (1906) town, 34,581; [[Commune|commune]], 44,133. Bourges is built amidst flat
 and marshy country on an eminence limited on three sides by the waters
-of the Canal Of Berry, the Yevre, the Auron, and other smaller streams
+of the Canal Of [[Berry]], the Yevre, the Auron, and other smaller streams
 with which they unite at this point. The older part of the town with its
 narrow streets and old houses forms a centre, to the south and east of
-which lie important engineering suburbs. Flourishing nurseries and
+which lie important [[Engineering|engineering]] suburbs. Flourishing nurseries and
 market-gardens are situated in the marshy ground to the north and
 north-east. Bourges preserves portions of the Roman ramparts of the 4th
 century, which are for the most part built into the houses of the old
@@ -41,10 +41,10 @@ is in the Renaissance style, but two towers of the Roman fortifications
 were utilized in the construction of the south-western facade (see
 HOUSE, Plate II. figs. 7 and 8). Its wings surround a courtyard into
 which three staircase turrets project; one of these leads to a chapel,
-the ceiling of which is decorated by fine frescoes.
+the [[Ceiling|ceiling]] of which is decorated by fine frescoes.
 
 Bourges is the seat of an archbishopric, a court of appeal, a court of
-assizes and a prefect; and is the headquarters of the VIII. army corps.
+[[Assize|assizes]] and a prefect; and is the headquarters of the VIII. army corps.
 It has tribunals of first instance and of commerce, a board of
 trade-arbitrators, and a chamber of commerce, and a branch of the Bank
 of France. Its educational institutions include an ecclesiastical
@@ -55,15 +55,15 @@ cannon-foundry and gun-carriage works. These all belong to the
 government, and, together with huge magazines, a school of pyrotechnics,
 and an artillery school, lie in the east of the town. The suburb of
 Mazieres has large iron and engineering works, and there are
-manufactories of anvils, edge-tools, biscuits, woollen goods, oil-cloth,
-boots and shoes, fertilizers, brick and tile works, breweries,
+manufactories of anvils, edge-tools, [[Biscuit|biscuits]], woollen goods, oil-cloth,
+boots and shoes, fertilizers, [[Brick|brick]] and tile works, breweries,
 distilleries, tanneries, saw-mills and dye-works. The town has a port on
 the canal of Berry, and does a considerable trade in grain, wine,
 vegetables, hemp and fruit.
 
 Bourges occupies the site of the Gallic town of _Avaricum_, capital of
 the Bituriges, mentioned by Caesar as one of the most important of all
-Gaul. In 52 B.C., during the war with Vercingetorix, it was completely
+[[Gaul]]. In 52 B.C., during the war with Vercingetorix, it was completely
 destroyed by the Roman conqueror, but under Augustus it rose again into
 importance, and was made the capital of Aquitania Prima. About A.D. 250
 it became the seat of a bishop, the first occupant of the see being

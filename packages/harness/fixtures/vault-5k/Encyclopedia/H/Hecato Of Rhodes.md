@@ -1,6 +1,6 @@
 # Hecato Of Rhodes
 
-HECATO OF RHODES, Greek Stoic philosopher and disciple of Panaetius
+HECATO OF RHODES, Greek Stoic philosopher and [[Disciple|disciple]] of Panaetius
 (Cicero, _De officiis_, iii. 15). Nothing else is known of his life, but
 it is clear that he was eminent amongst the Stoics of the period. He was
 a voluminous writer, but nothing remains. A list is preserved by
@@ -18,7 +18,7 @@ self-interest as the best criterion. This he modifies by explaining that
 self-interest is based on the relationships of life; a man needs money
 for the sake of his children, his friends and the state whose general
 prosperity depends on the wealth of its citizens. Like the earlier
-Stoics, Cleanthes and Chrysippus, he held that virtue may be taught.
+Stoics, Cleanthes and [[Chrysippus]], he held that virtue may be taught.
 (See STOICS and PANAETIUS.)
 
 ## References

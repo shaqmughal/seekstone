@@ -30,23 +30,23 @@ intensely pungent, viscid, brown resin.
 
 Grains of paradise were formerly officinal in British pharmacopoeias,
 and in the 13th and succeeding centuries were used as a drug and a
-spice, the wine known as hippocras being flavoured with them and with
+spice, the wine known as [[Hippocras|hippocras]] being flavoured with them and with
 ginger and cinnamon. In 1629 they were employed among the ingredients of
 the twenty-four herring pies which were the ancient fee-favour of the
 city of Norwich, ordained to be carried to court by the lord of the
 manor of Carleton (Johnston and Church, _Chem. of Common Life_, p. 355,
 1879). Grains of paradise were anciently brought overland from West
-Africa to the Mediterranean ports of the Barbary states, to be shipped
-for Italy. They are now exported almost exclusively from the Gold Coast.
+Africa to the Mediterranean ports of the [[Barbary]] states, to be shipped
+for Italy. They are now exported almost exclusively from the [[Gold Coast]].
 Grains of paradise are to some extent used illegally to give a
-fictitious strength to malt liquors, gin and cordials. By 56 Geo. III.
-c. 58, no brewer or dealer in beer shall have in his possession or use
+fictitious strength to malt liquors, [[Gin|gin]] and cordials. By 56 Geo. III.
+c. 58, no [[Brewer|brewer]] or dealer in [[Beer|beer]] shall have in his possession or use
 grains of paradise, under a penalty of L200 for each offence; and no
 druggist shall sell the same to a brewer under a penalty of L500. They
 are, however, devoid of any injurious physiological action, and are much
 esteemed as a spice by the natives of Guinea.
 
-  See Bentley and Trimen, _Medicinal Plants_, tab. 268; Lanessan, _Hist.
+  See Bentley and Trimen, _Medicinal Plants_, tab. 268; [[Lanessan]], _Hist.
   des Drogues_, pp. 456-460 (1878).
 
 
@@ -62,7 +62,7 @@ nearly every country in the world outside the tropics.
 
 Wheat has been cultivated from remote antiquity. In a wild state it is
 practically unknown. It is alleged to have been found growing wild
-between the Euphrates and the Tigris; but the discovery has never been
+between the [[Euphrates]] and the Tigris; but the discovery has never been
 authenticated, and, unless the plant be sedulously cared for, the
 species dies out in a surprisingly short space of time. Modern
 experiments in cross-fertilization in Lancashire by the Garton Brothers
@@ -71,7 +71,7 @@ that the plant has probably passed through stages of which until the
 present day there had been no conception. The tales that grains of wheat
 found in the cerements of Egyptian mummies have been planted and come to
 maturity are no longer credited, for the vital principle in the wheat
-berry is extremely evanescent; indeed, it is doubtful whether wheat
+[[Berry|berry]] is extremely evanescent; indeed, it is doubtful whether wheat
 twenty years old is capable of reproduction. The Garton artificial
 fertilization experiments have shown endless deviations from the
 ordinary type, ranging from minute seeds with a closely adhering husk to
@@ -80,11 +80,11 @@ conjectured that the wheat plant, as now known, is a degenerate form of
 something much finer which flourished thousands of years ago, and that
 possibly it may be restored to its pristine excellence, yielding an
 increase twice or thrice as large as it now does, thus postponing to a
-distant period the famine doom prophesied by Sir W. Crookes in his
+distant period the famine [[Doom|doom]] prophesied by Sir W. Crookes in his
 presidential address to the British Association in 1898. Wheat well
 repays careful attention; contrast the produce of a carelessly tilled
-Russian or Indian field and the bountiful yield on a good Lincolnshire
-farm, the former with its average yield of 8 bushels, the latter with
+Russian or Indian field and the bountiful yield on a good [[Lincolnshire]]
+farm, the former with its average yield of 8 [[Bushel|bushels]], the latter with
 its 50 bushels per acre; or compare the quality, as regards the quantity
 and flavour of the flour from a fine sample of British wheat, such as is
 on sale at almost every agricultural show in Great Britain, with the
@@ -97,7 +97,7 @@ named:--
 
   +------+-----+-------+------+-------+-------+---------+------+----------+
   |U.S.A.| U.K.|Russia.|Argen-|British|Canada.|Rumania- |Austr-|  Other   |
-  |      |     |       | tina.|India. |       |Bulgaria.| alia.|Countries.|
+  |      |     |       | tina.|India. |       |[[Bulgaria]].| alia.|Countries.|
   +------+-----+-------+------+-------+-------+---------+------+----------+
   |  Oz. | Oz. |  Oz.  | Oz.  |  Oz.  |  Oz.  |   Oz.   | Oz.  |   Oz.    |
   |  26  | 13      9   |  5   |   4   |   3   |    2    |  1   |    1     |
@@ -105,25 +105,25 @@ named:--
   |  40  | 20  |  14   |  8   |   6   |   5   |    3    |  2   |    2     |
   +------+-----+-------+------+-------+-------+---------+------+----------+
 
-For details connected with grain and its handling see AGRICULTURE, CORN
-LAWS, GRANARIES, FLOUR, BAKING, WHEAT, &c.
+For details connected with grain and its handling see AGRICULTURE, [[Corn|CORN]]
+LAWS, GRANARIES, FLOUR, [[Baking|BAKING]], WHEAT, &c.
 
 Wheat occupies of all cereals the widest region of any food-stuff. Rice,
 which shares with millet the distinction of being the principal
 food-stuff of the greatest number of human beings, is not grown nearly
 as widely as is wheat, the staple food of the white races. Wheat grows
-as far south as Patagonia, and as far north as the edge of the Arctic
+as far south as Patagonia, and as far north as the edge of the [[Arctic]]
 Circle; it flourishes throughout Europe, and across the whole of
-northern Asia and in Japan; it is cultivated in Persia, and raised
+northern Asia and in [[Japan]]; it is cultivated in Persia, and raised
 largely in India, as far south as the Nizam's dominions. It is grown
 over nearly the whole of North America. In Canada a very fine wheat crop
 was raised in the autumn of 1898 as far north as the mission at Fort
-Providence, on the Mackenzie river, in a latitude above 62 deg.--or less
-than 200 m. south of the latitude of Dawson City--the period between
-seed-time and harvest having been ninety-one days. In Africa it was an
-article of commerce in the days of Jacob, whose son Joseph may be said
+Providence, on the [[Mackenzie]] river, in a [[Latitude|latitude]] above 62 deg.--or less
+than 200 m. south of the latitude of [[Dawson]] City--the period between
+seed-time and [[Harvest|harvest]] having been ninety-one days. In Africa it was an
+article of commerce in the days of [[Jacob]], whose son Joseph may be said
 to have run the first and only successful "corner" in wheat. For many
-centuries Egypt was famous as a wheat raiser; it was a cargo of wheat
+centuries Egypt was famous as a wheat raiser; it was a [[Cargo|cargo]] of wheat
 from Alexandria which St Paul helped to jettison on one of his
 shipwrecks, as was also, in all probability, that of the "ship of
 Alexandria whose sign was Castor and Pollux," named in the same
@@ -135,14 +135,14 @@ the Caucasian race. For instance, the vilayet of Tripoli, with an area
 of 400,000 sq. m., or three times the extent of Great Britain and
 Ireland, according to the opinion of a British consul, could raise
 millions of acres of wheat. The cereal flourishes on all the high
-plateaus of South Africa, from Cape Town to the Zambezi. Land is being
+plateaus of South Africa, from [[Cape Town]] to the Zambezi. Land is being
 extensively put under wheat in the pampas of South America and in the
 prairies of Siberia.
 
 In the raising of the standard of farming to an English level the volume
 of the world's crop would be trebled, another fact which Sir William
 Crookes seems to have overlooked. The experiments of the late Sir J. B.
-Lawes in Hertfordshire have proved that the natural fruitfulness of the
+[[Lawes]] in Hertfordshire have proved that the natural fruitfulness of the
 wheat plant can be increased threefold by the application of the proper
 fertilizer. The results of these experiments will be found in a
 compendium issued from the Rothamsted Agricultural Experimental Station.
@@ -151,7 +151,7 @@ It is by no means, however, the wheat which yields the greatest number
 of bushels per acre which is the most valuable from a miller's
 standpoint, for the thinness of the bran and the fineness and strength
 of the flour are with him important considerations, too often overlooked
-by the farmer when buying his seed. Nevertheless it is the deficient
+by the [[Farmer|farmer]] when buying his seed. Nevertheless it is the deficient
 quantity of the wheat raised in the British Islands, and not the quality
 of the grain, which has been the cause of so much anxiety to economists
 and statesmen.
@@ -159,9 +159,9 @@ and statesmen.
 
   Freight rates.
 
-Sir J. Caird, writing in the year 1880, expressed the opinion that
+Sir J. [[Caird]], writing in the year 1880, expressed the opinion that
 arable land in Great Britain would always command a substantial rent of
-at least 30s. per acre. His figures were based on the assumption that
+at least 30s. per acre. His figures were based on the [[Assumption|assumption]] that
 wheat was imported duty free. He calculated that the cost of carriage
 from abroad of wheat, or the equivalent of the product of an acre of
 good wheat land in Great Britain, would not be less than 30s. per ton.
@@ -197,7 +197,7 @@ together, we find the average freight in the two years 1859-1860 was
 fallen to .797 of a cent per ton per mile. This difference is very large
 compared with the smallness of the unit. Coming to the rates on grain,
 we find (in Table 23) a record for the forty years 1858-1897 of the
-charge on wheat from Chicago to New York, via all rail from 1858, and
+charge on wheat from [[Chicago]] to New York, via all rail from 1858, and
 via lake and rail since 1868, the authority being the secretary of the
 Chicago Board of Trade. From 1858 to 1862 the rate varied between 42.37
 and 34.80 cents per bushel for the whole trip of roundly 1000 m., the
@@ -265,7 +265,7 @@ _In Shillings and Pence per Ton of_ 2240 lb.
 This latter mode is the cheapest by which grain can be carried to the
 eastern seaboard from the American prairies, and it can now be done at a
 cost of 7s. 6d. per ton. The ocean freight has to be added before the
-grain can be delivered free on the quay at Liverpool. A rate from New
+grain can be delivered free on the quay at [[Liverpool]]. A rate from New
 York to Liverpool of 2-1/2d. per bushel, or 7s. 10d. per ton, a low
 rate, reached in Dec. 1900, is yet sufficiently high, it is claimed, to
 leave a profit; indeed, there have frequently been times when the rate
@@ -330,7 +330,7 @@ output from Canada--the cost of transport from that country to England
 being much the same as from the United States. So much improved is the
 position of the farmer in North America compared with what it was about
 1870, that the transport companies in 1901 carried 17-1/4 bushels of his
-grain to the seaboard in exchange for the value of one bushel, whereas
+grain to the seaboard in [[Exchange|exchange]] for the value of one bushel, whereas
 in 1867 he had to give up one bushel in every six in return for the
 service. As regards the British farmer, it does not appear as if he had
 improved his position; for he has to send his wheat to greater
@@ -352,10 +352,10 @@ consideration if a proper understanding of the working of the foreign
 grain trade is to be obtained. Only a very small proportion of the
 decline in the price of wheat since 1880 is due to cheapened transport
 rates; for while the mileage rate has been falling, the length of
-haulage has been extending, until in 1900 the principal wheat fields of
+haulage has been extending, until in 1900 the principal wheat [[Fields|fields]] of
 America were 2000 m. farther from the eastern seaboard than was the case
 in 1870, and consequently, notwithstanding the fall in the mileage rate
-of 50 to 75%, it still costs the United Kingdom nearly as much to have
+of 50 to 75%, it still [[Costs|costs]] the United Kingdom nearly as much to have
 its quota of foreign wheat fetched from abroad as it did then. The
 difference in the cost of the operation is shown in the following
 tabular statement, both the cost in the aggregate on a year's imports
@@ -379,12 +379,12 @@ with the average rate of freight._
   | Pacific America      |  2,389,900  |      8  1     |    966,000 |
   | Canada               |  1,877,100  |      2  8     |    250,000 |
   | Rumania              |    176,400  |      2  6     |     22,000 |
-  | Argentina and Uruguay|  4,322,300  |      4 10     |  1,045,000 |
+  | [[Argentina]] and Uruguay|  4,322,300  |      4 10     |  1,045,000 |
   | France               |    251,900  |      1  3     |     16,000 |
   | Bulgaria and Rumelia |     30,600  |      2  6     |      4,000 |
   | India                |      2,200  |      4  0     |        400 |
   | Austria-Hungary      |    389,300  |      1  9     |     34,000 |
-  | Chile                |        600  |       ..      |     ..     |
+  | [[Chile]]                |        600  |       ..      |     ..     |
   | North Russia         |    462,700  |      1  6     |     35,000 |
   | Germany              |    438,700  |      1  6     |     33,000 |
   | Australasia          |    883,900  |      6  5     |    284,000 |
@@ -467,11 +467,11 @@ in 1901 for the value of one bushel, or exactly at the same ratio as in
 The contrast between the case of railway freight and ocean freight is to
 be explained by the greater length of the present ocean voyage, which
 now extends to 10,000 miles in the case of Europe's importation of white
-wheat from the Pacific Coast of the United States and Australia, in
-contrast with the short voyage from the Black Sea or across the English
+wheat from the Pacific Coast of the United States and [[Australia]], in
+contrast with the short voyage from the [[Black Sea]] or across the English
 Channel or German Ocean. It is largely due to the overlooking of this
 phase of the question that an American statistician has fallen into the
-error of stating that about 16s. per quarter of the fall in the price of
+[[Error|error]] of stating that about 16s. per quarter of the fall in the price of
 wheat, which happened between 1880 and 1894, is attributable to the
 lessened cost of transport.
 
@@ -546,7 +546,7 @@ lessened cost of transport.
 Thus, whatever the cause of the decline in the price of wheat may be,
 it cannot be attributed solely to the fall in the rate of rail or ocean
 freights. Incidental charges are lower than they were in 1870; handling
-charges, brokers' commissions and insurance premiums have been in many
+charges, brokers' commissions and [[Insurance|insurance]] premiums have been in many
 instances reduced, but all these economies when combined only amount to
 about 2s. per quarter. Now if we add together all these savings in the
 rate of rail and ocean freights and incidental expenses, we arrive at an

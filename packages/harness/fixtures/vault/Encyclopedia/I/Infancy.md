@@ -8,12 +8,12 @@ type: article
 # Infancy
 
 INFANCY, in medical practice, the nursing age, or the period during
-which the child is at the breast. As a matter of convenience it is usual
+which the child is at the [[Breast|breast]]. As a matter of convenience it is usual
 to include in it children up to the age of one year. The care of an
-infant begins with the preparations necessary for its birth and the
+[[Infant|infant]] begins with the preparations necessary for its birth and the
 endeavour to ensure that taking place under the best possible sanitary
 conditions. On being born the normal infant cries lustily, drawing air
-into its lungs. As soon as the umbilical cord which unites the child to
+into its [[Lung|lungs]]. As soon as the umbilical cord which unites the child to
 the mother has ceased to pulsate, it is tied about 2 in. from the
 child's navel and is divided above the ligature. The cord is wrapped in
 a sterilized gauze pad and the dressing is not removed until the seventh
@@ -35,10 +35,10 @@ acid has been added. The most important part of the toilet of a new-born
 infant is the care of the eyes, which should be carefully cleansed with
 gauze dipped in warm water and one drop of a 2% solution of nitrate of
 silver dropped into each eye. The clothes of a newly born child should
-consist exclusively of woollen undergarments, a soft flannel binder,
+consist exclusively of woollen undergarments, a soft [[Flannel|flannel]] binder,
 which should be tied on, being placed next the skin, with a long-sleeved
 woven wool vest and over this a loose garment of flannel coming below
-the feet and long enough to tuck up. Diapers should be made of soft
+the feet and long enough to tuck up. [[Diaper|Diapers]] should be made of soft
 absorbent material such as well-washed linen and should be about two
 yards square and folded in a three-cornered shape. An infant should
 always sleep in a bed or cot by itself. In 1907, of 749 deaths from
@@ -107,7 +107,7 @@ soda and kept in a glass-covered jar until required. A feed should be
 given at the temperature of 100° F.
 
 At the ninth month a cereal may be added to the food. Before that the
-infant is unable to digest starchy foods. Much starch tends to
+infant is unable to [[Digest|digest]] starchy foods. Much starch tends to
 constipation, and it is rarely wise to give starchy preparations in a
 proportion of more than 3% to children under a year old. A child who is
 carefully fed in a cleanly manner should not have diarrhoea, and its
@@ -140,7 +140,7 @@ but was supported by charitable subscriptions and by a small
 contribution from the student mothers. There are classes for mothers on
 the care of their health during pregnancy, infant feeding, home nursing,
 cooking and needlework. Poor mothers unable to contribute get free
-dinners for three months previous to the birth of their child and for
+[[Dinner|dinners]] for three months previous to the birth of their child and for
 nine months after if the child is breast-fed. Two doctors are in
 attendance, and mothers are encouraged to bring their children
 fortnightly to be weighed, and receive advice. The average attendance is
@@ -149,9 +149,9 @@ interesting development in connexion with the scheme is a class for
 fathers at which the medical officer of health for the district lectures
 on the duties of fatherhood. Similar schools for mothers are now
 established in Fulham and Stepney. Weighing centres have been
-established at Dundee, Sheffield, Nottingham, Birmingham, Aberdeen,
-Bolton, Belfast, and Newcastle-on-Tyne. An infants' milk depôt has been
-established at Finsbury, and effort is being made to establish milk
+established at [[Dundee]], Sheffield, Nottingham, [[Birmingham]], Aberdeen,
+[[Bolton]], [[Belfast]], and Newcastle-on-Tyne. An infants' milk depôt has been
+established at [[Finsbury]], and effort is being made to establish milk
 laboratories where separate nursing portions of sterile milk could be
 supplied to poor mothers. The Walker-Gordon milk laboratories in the
 United States are a step in this direction.
@@ -164,7 +164,7 @@ and at the fifth week noises in the room disturb it. A healthy infant
 may be taken out of doors when a fortnight old in summer, after which it
 should have a daily outing, the eyes being protected from the direct
 rays of the sun. On the second day the eyes are sensitive to light, in
-the second month the infant notices colours, at the sixth month it knows
+the second month the infant notices [[Colours|colours]], at the sixth month it knows
 its parents, and should be able to hold its head up. At the sixth month
 the baby begins to cut its temporary teeth. After their appearance they
 should be cleaned once a day by a piece of gauze moistened in boric acid

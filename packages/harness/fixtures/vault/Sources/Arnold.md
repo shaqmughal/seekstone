@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Arnold"
 
 # Arnold
 
-ARNOLD, MATTHEW (1822-1888), English poet, literary critic and inspector
+ARNOLD, [[Matthew|MATTHEW]] (1822-1888), English poet, literary critic and inspector
 of schools, was born at Laleham, near Staines, on the 24th of December
 1822. When it is said that he was the son of the famous Dr Arnold of
 Rugby, and that Winchester, Rugby and Balliol College, Oxford,
@@ -18,7 +18,7 @@ than original endowment has to be considered. A full academic training
 has its disadvantages as well as its gains. In the individual no less
 than in the species the history of man's development is the history of
 the struggle between the impulse to express original personal force and
-the impulse to make that force bow to the authority of custom. Where in
+the impulse to make that force [[Bow|bow]] to the authority of custom. Where in
 any individual the first of these impulses is stronger than usual, a
 complete academic training is a gain; but where the second of these
 impulses is the dominant one, the effect of the academic habit upon the
@@ -26,7 +26,7 @@ mind at its most sensitive and most plastic period is apt to be
 crippling. In regard to Matthew Arnold, it would be a bold critic of his
 life and his writings who should attempt to say what his work would have
 been if his training had been different. In his judgments on Goethe,
-Wordsworth, Byron, Shelley and Hugo, it may be seen how strong was his
+Wordsworth, [[Byron]], Shelley and [[Hugo]], it may be seen how strong was his
 impulse to bow to authority. On the other hand, in Arnold's ingenious
 reasoning away the conception of Providence to "a stream of tendency not
 ourselves which makes for righteousness," we see how strong was his
@@ -35,16 +35,16 @@ Arnold breathed during the whole of the impressionable period of his
 life was academic is therefore a very important fact to bear in mind.
 
 In one of his own most charming critical essays he contrasts the poetry
-of Homer, which consists of "natural thoughts in natural words," with
+of [[Homer]], which consists of "natural thoughts in natural words," with
 the poetry of Tennyson, which consists of "distilled thoughts in
 distilled words." "Distilled" is one of the happiest words to be found
 in poetical criticism, and may be used with equal aptitude in the
 criticism of life. To most people the waters of life come with all their
 natural qualities--sweet or bitter--undistilled. Only the ordinary
 conditions of civilization, common to all, flavoured the waters of life
-to Shakespeare, to Cervantes, to Burns, to Scott, to Dumas, and those
+to Shakespeare, to Cervantes, to [[Burns]], to Scott, to Dumas, and those
 other great creators whose minds were mirrors--broad and clear--for
-reflecting the rich drama of life around them. To Arnold the waters of
+reflecting the rich [[Drama|drama]] of life around them. To Arnold the waters of
 life came distilled so carefully that the wonder is that he had any
 originality left. A member of the upper stratum of that "middle class"
 which he despised, or pretended to despise--the eldest son of one of the
@@ -62,20 +62,20 @@ to find in the writer was the Arnold as he was conceived by certain
 _petit-maitre_--almost, indeed, a coxcomb of letters. On the other hand,
 those who had been captured by his poetry expected to find a man whose
 sensitive organism responded nervously to every uttered word as an
-aeolian harp answers to the faintest breeze. What they found was a
+aeolian harp answers to the faintest [[Breeze|breeze]]. What they found was a
 broad-shouldered, manly--almost burly--Englishman with a fine
 countenance, bronzed by the open air of England, wrinkled apparently by
-the sun, wind-worn as an English skipper's, open and frank as a
+the sun, wind-worn as an English skipper's, open and [[Frank|frank]] as a
 fox-hunting squire's--and yet a countenance whose finely chiselled
 features were as high-bred and as commanding as Wellington's or Sir
 Charles Napier's. The voice they heard was deep-toned, fearless, rich
 and frank, and yet modulated to express every _nuance_ of thought, every
-movement of emotion and humour. In his prose essays the humour he showed
+movement of emotion and [[Humour|humour]]. In his prose essays the humour he showed
 was of a somewhat thin-lipped kind; in his more important poems he
 showed none at all. It was here, in this matter of humour, that Arnold's
 writings were specially misleading as to the personality of the man.
 Judged from his poems, it was not with a poet like the writer of "The
-Northern Farmer," or a poet like the writer of "Ned Bratts," that any
+Northern [[Farmer]]," or a poet like the writer of "Ned Bratts," that any
 student of poetry would have dreamed of classing him. Such a student
 would actually have been more likely to class him with two of his
 contemporaries between whom and himself there were but few points in
@@ -93,18 +93,18 @@ After a year at Winchester, Matthew Arnold entered Rugby school in 1837.
 He early began to write and print verses. His first publication was a
 Rugby prize poem, _Alaric at Rome_, in 1840. This was followed in 1843,
 after he had gone up to Oxford in 1840 as a scholar of Balliol, by his
-poem _Cromwell_, which won the Newdigate prize. In 1844 he graduated
-with second-class honours, and in 1845 was elected a fellow of Oriel
+poem _[[Cromwell]]_, which won the Newdigate prize. In 1844 he graduated
+with second-class honours, and in 1845 was elected a [[Fellow|fellow]] of Oriel
 College, where among his colleagues was A.H. Clough, his friendship with
-whom is commemorated in that exquisite elegy _Thyrsis_. From 1847 to
-1851 he acted as private secretary to Lord Lansdowne; and in the latter
+whom is commemorated in that exquisite [[Elegy|elegy]] _Thyrsis_. From 1847 to
+1851 he acted as private secretary to Lord [[Lansdowne]]; and in the latter
 year, after acting for a short time as assistant-master at Rugby, he was
 appointed to an inspectorship of schools, a post which he retained until
 two years before his death. He married, in June 1851, the daughter of Mr
 Justice Wightman, Meanwhile, in 1849, appeared _The Strayed Reveller,
 and other Poems, by A_, a volume which gained a considerable esoteric
 reputation. In 1852 he published another volume under the same initial,
-_Empedocles on Etna, and other Poems_. _Empedocles_ is as undramatic a
+_[[Empedocles]] on [[Etna]], and other Poems_. _Empedocles_ is as undramatic a
 poem perhaps as was ever written in dramatic form, but studded with
 lyrical beauties of a very high order. In 1853 Arnold published a volume
 of _Poems_ under his own name. This consisted partially of poems
@@ -115,7 +115,7 @@ Arnold was elected professor of poetry at Oxford, and he held the chair
 for ten years. In 1858 he published his classical tragedy, _Merope_.
 Nine years afterwards his _New Poems_ (1867) were published. While he
 held the Oxford professorship he published several series of lectures,
-which gave him a high place as a scholar and critic. The essays[1] _On
+which gave him a [[High Place|high place]] as a scholar and critic. The essays[1] _On
 Translating Homer: Three Lectures given at Oxford_, published in 1861,
 supplemented in 1862 by _On Translating Homer: Last Words_, a fourth
 lecture given in reply to F.W. Newman's _Homeric Translation in Theory
@@ -142,7 +142,7 @@ religious bodies, entrusted the inspection of schools connected with the
 Church of England to clergymen, and agreed also to send Roman Catholic
 inspectors to schools managed by members of that communion. Other
 schools--those of the British and Foreign Society, the Wesleyans, and
-undenominational schools generally--were inspected by laymen, of whom
+undenominational schools generally--were inspected by [[Laymen|laymen]], of whom
 Arnold was one. There were only three or four of these officers at
 first, and their districts were necessarily large. It is to the
 experience gained in intercourse with Nonconformist school managers that
@@ -163,7 +163,7 @@ country, was indirectly far greater than is generally supposed. His
 annual reports, of which more than twenty were collected into a volume
 by his friend and official chief, Sir Francis (afterwards Lord)
 Sandford, attracted, by reason of their freshness of style and thought,
-much more of public attention than is usually accorded to blue-book
+much more of public attention than is usually accorded to [[Blue-Book|blue-book]]
 literature; and his high aims, and his sympathetic appreciation of the
 efforts and difficulties of the teachers, had a remarkable effect in
 raising the tone of elementary education, and in indicating the way to
@@ -202,7 +202,7 @@ schools. The result of this investigation appeared as a parliamentary
 paper, _Special Report on certain points connected with Elementary
 Education in Germany, Switzerland and France_, in 1886. He also
 contributed the chapter on "Schools" (1837-1887) to the second volume of
-Mr Humphry Ward's _Reign of Queen Victoria_. Part of his official
+Mr [[Humphry]] Ward's _Reign of Queen Victoria_. Part of his official
 writings may be studied in _Reports for Elementary Schools_ (1852-1882),
 edited by Sir F. Sandford in 1889.
 
@@ -212,7 +212,7 @@ often, and have exercised marked influence on subsequent changes and
 controversies. One great purpose underlies them all. It is to bring home
 to the English people a conviction that education ought to be a national
 concern, that it should not be left entirely to local, or private, or
-irresponsible initiative, that the watchful jealousy so long shown by
+irresponsible initiative, that the watchful [[Jealousy|jealousy]] so long shown by
 Liberals, and especially by Nonconformists, in regard to state action
 was a grave practical mistake, and that in an enlightened democracy,
 animated by a progressive spirit and noble and generous ideals, it was
@@ -223,16 +223,16 @@ One thing is needful; organize your secondary education."
 
 In 1883 a pension of L250 was conferred on Arnold in recognition of his
 literary merits. In the same year he went to the United States on a
-lecturing tour, and again in 1886, his subjects being "Emerson" and the
+lecturing tour, and again in 1886, his subjects being "[[Emerson]]" and the
 "Principles and Value of Numbers." The success of these lectures, though
 they were admirable in matter and form, was marred by the lecturer's
 lack of experience in delivery. It is sufficient, further, to say that
 _Culture and Anarchy: an Essay in Political and Social Criticism_,
 appeared in 1869; _St Paul and Protestantism, with an Introduction on
 Puritanism and the Church of England_ (1870); _Friendship's Garland:
-being the Conversations, Letters and Opinions of the late Arminius Baron
+being the Conversations, Letters and Opinions of the late [[Arminius]] Baron
 van Thunder-ten-Tronckh_ (1871); _Literature and Dogma: an Essay towards
-a Better Apprehension of the Bible_ (1873); _God and the Bible: a Review
+a Better [[Apprehension]] of the Bible_ (1873); _God and the Bible: a Review
 of Objections to Literature and Dogma_ (1875); _Last Essays on Church
 and Religion_ (1877); _Mixed Essays_ (1879); _Irish Essays and Others_
 (1882); _Discourses in America_ (1885). Such essays as the first of
@@ -245,7 +245,7 @@ concerning the inadequacy of poets like Coleridge and Wordsworth when
 confronting subjects of a theological or philosophical kind.
 Wordsworth's High Church Pantheism and Coleridge's disquisitions on the
 Logos seem farther removed from the speculations of to-day than do the
-dreams of Lucretius. But these two great writers lived before the days
+[[Dream|dreams]] of [[Lucretius]]. But these two great writers lived before the days
 of modern science. Arnold, living only a few years later, came at a
 transition period when the winds of tyrannous knowledge had blown off
 the protecting roof that had covered the centuries before, but when time
@@ -259,15 +259,15 @@ of the poetic soul. Objectionable as Arnold's rationalizing criticism
 was to contemporary orthodoxy, and questionable as was his equipment in
 point of theological learning, his spirituality of outlook and ethical
 purpose were not to be denied. Yet it is not Arnold's views that have
-become current coin so much as his literary phrases--his craving for
+become current [[Coin|coin]] so much as his literary phrases--his craving for
 "culture" and "sweetness and light," his contempt for "the dissidence of
 Dissent and the Protestantism of the Protestant religion," his "stream
-of tendency not ourselves making for righteousness," his classification
-of "Philistines and barbarians"--and so forth. His death at Liverpool,
+of tendency not ourselves making for righteousness," his [[Classification|classification]]
+of "Philistines and barbarians"--and so forth. His death at [[Liverpool]],
 of heart failure on the 15th of April 1888, was sudden and quite
 unexpected.
 
-Arnold was a prominent figure in that great galaxy of Victorian poets
+Arnold was a prominent figure in that great [[Galaxy|galaxy]] of Victorian poets
 who were working simultaneously--Tennyson, Browning, Rossetti, William
 Morris and Swinburne--poets between whom there was at least this
 connecting link, that the quest of all of them was the old-fashioned
@@ -287,7 +287,7 @@ his primary impulse of expression was to seize upon the innate
 suggestive power of words, or whether his primary impulse was to rely
 upon the logical power of the sentence. In nobility of temper, in
 clearness of statement, and especially in descriptive power, he is
-beyond praise. But intellect, judgment, culture and study of great poets
+beyond praise. But [[Intellect|intellect]], judgment, culture and study of great poets
 may do much towards enabling a prose-writer to write what must needs be
 called good poetry. What they cannot enable him to do is to produce
 those magical effects which poets of the rarer kind can achieve by
@@ -297,9 +297,9 @@ left behind him, some critics have come to the conclusion that his
 primary impulse in expression was that of the poetically-minded
 _prosateur_ rather than that of the born poet. And this has been said by
 some who nevertheless deeply admire poems like "The Scholar Gypsy,"
-"Thyrsis," "The Forsaken Merman," "Dover Beach," "Heine's Grave," "Rugby
+"Thyrsis," "The Forsaken Merman," "[[Dover]] [[Beach]]," "Heine's Grave," "Rugby
 Chapel," "The Grande Chartreuse," "Sohrab and Rustum," "The Sick King in
-Bokhara," "Tristram and Iseult," &c. It would seem that a man may show
+[[Bokhara]]," "Tristram and Iseult," &c. It would seem that a man may show
 all the endowments of a poet save one, and that one the most
 essential--the instinctive mastery over metrical effects.
 
@@ -389,13 +389,13 @@ avoid giving us the faintest idea either dramatic or pictorial of the
 student about whom he talks so much, and the gypsies with whom the
 student lived, is one of the most singular feats in poetry. The
 reflections which come to a young Oxonian lying on the grass and longing
-to escape life's fitful fever without shuffling off this mortal coil,
+to escape life's fitful [[Fever|fever]] without shuffling off this mortal coil,
 are, no doubt, beautiful reflections beautifully expressed, but the
 temper they show is the very opposite of the Greek. To say this is not
 in the least to disparage Arnold. "A man is more like the age in which
-he lives," says the Chinese aphorism, "than he is like his own father
+he lives," says the Chinese [[Aphorism|aphorism]], "than he is like his own father
 and mother," and Arnold's polemical writings alone are sufficient to
-show that the waters of life he drank were from fountains distilled,
+show that the waters of life he drank were from [[Fountain|fountains]] distilled,
 seven times distilled, at the topmost slope of 19th-century
 civilization. Mr George Meredith's "Old Chartist" exhibits far more of
 the temper of acceptance than does any poem by Matthew Arnold.
@@ -429,9 +429,9 @@ de Roland" of Turoldus, where Roland, mortally wounded, lays himself
 down under a pine-tree with his face turned towards Spain and the enemy,
 and begins to "call many things to remembrance; all the lands which his
 valour conquered, and pleasant France, and the men of his lineage, and
-Charlemagne, his liege lord, who nourished him"--
+Charlemagne, his [[Liege|liege]] lord, who nourished him"--
 
-  "De plusurs choses a remembrer li prist,
+  "De plusurs [[Chose|choses]] a remembrer li prist,
    De tames teres cume li bers cunquist,
    De dulce France, des humes de sun ligu,
    De Carlemagne sun seignor ki l'nurrit."
@@ -445,8 +445,8 @@ epic poet, leaving the dramatic action to act as chorus, weakens the
 [Greek: apatae] of the picture--the passage in the _Iliad_ (iii 243-244)
 where the poet, after Helen's pathetic mention of her brother's comments
 on the causes of their absence, "criticizes life" and generalizes upon
-the impotence of human intelligence, the impotence even of human love,
-to pierce the darkness in which the web of human fate is woven. He
+the [[Impotence|impotence]] of human intelligence, the impotence even of human love,
+to pierce the darkness in which the web of human [[Fate|fate]] is woven. He
 appends Dr Hawtrey's translation:--
 
   [Greek: Os phato roys d ede katechen physizoos aia
@@ -466,7 +466,7 @@ comment on a dramatic picture.
 
 Perhaps, indeed, the place Arnold held and still holds as a critic is
 due more to his exquisite felicity in expressing his views than to the
-penetration of his criticism. Nothing can exceed the easy grace of his
+penetration of his criticism. Nothing can exceed the easy [[Grace|grace]] of his
 prose at the best. It is conversational and yet absolutely exact in the
 structure of the sentences; and in spite of every vagary, his
 distinguishing note is urbanity. Keen-edged as his satire could be, his
@@ -476,7 +476,7 @@ generally wholesome. His insistence on the necessity of looking at "the
 thing in itself," and the need for acquainting oneself with "the best
 that has been thought and said in the world," gave a new stimulus alike
 to originality and industry in criticism; and in his own selection of
-subjects--such as _Joubert_, or the _de Guerins_--he opened a new world
+subjects--such as _[[Joubert]]_, or the _de Guerins_--he opened a new world
 to a larger class of the better sort of readers, exercising in this
 respect an awakening influence in his own time akin to that of Walter
 Pater a few years afterwards. The comparison with Pater might indeed be
@@ -495,11 +495,11 @@ more sensuous school of aesthetics.
   of the poems printed in the library edition with one or two additions
   (1890). Publications by Matthew Arnold not mentioned in the foregoing
   article include: _England and the Italian Question_ (1859), a
-  pamphlet; _A French Eton; or, Middle Class Education and the State_
+  pamphlet; _A French [[Eton]]; or, Middle Class Education and the State_
   (1864); _Higher Schools and Universities in Germany_ (1874), a partial
   reprint from _Schools and Universities on the Continent_ (1868); _A
   Bible Reading for Schools; The Great Prophecy of Israel's
-  Restoration_, an arrangement of _Isaiah_, chs. xl.-lxvi. (1872),
+  Restoration_, an arrangement of _[[Isaiah]]_, chs. xl.-lxvi. (1872),
   republished with additions and varying titles in 1875 and 1883; an
   edition of the _Six Chief Lives from Johnson's Lives of the Poets_
   (1878); editions of the _Poems of Wordsworth_ (1879), and the _Poetry

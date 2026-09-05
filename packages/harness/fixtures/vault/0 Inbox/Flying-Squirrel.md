@@ -2,7 +2,7 @@
 
 FLYING-SQUIRREL, properly the name of such members of the squirrel-group
 of rodent mammals as have a parachute-like expansion of the skin of the
-flanks, with attachments to the limbs, by means of which they are able
+flanks, with [[Attachment|attachments]] to the limbs, by means of which they are able
 to take long flying-leaps from tree to tree. The parachute is supported
 by a cartilage attached to the wrist or carpus; in addition to the
 lateral membrane, there is a narrow one from the cheek along the front
@@ -45,18 +45,18 @@ members of the family, the most distinctive character is the presence of
 a double row of spiny scales on the under surface of the tail, which
 apparently aid in climbing. The flying species are also distinguished
 from ordinary flying-squirrels by the circumstance that the additional
-bone serving for the support of the fore part of the flying-membrane
+[[Bone|bone]] serving for the support of the fore part of the flying-membrane
 rises from the elbow-joint instead of from the wrist. The family is
 represented by two flying genera, _Anomalurus_ and _Idiurus_; the latter
 containing only one very minute species (shown in the cut) characterized
-by its small ears and elongated tail. Most of the species are West
+by its small [[Ear|ears]] and elongated tail. Most of the species are West
 African. In habits these rodents appear to be very similar to the true
 flying-squirrels. The species without a parachute constitutes the genus
 _Zenkerella_, and looks very like an ordinary squirrel (see RODENTIA).
 
-In Australia and Papua the name flying-squirrel is applied to such
+In [[Australia]] and Papua the name flying-squirrel is applied to such
 marsupials as are provided with parachutes; animals which naturalists
-prefer to designate flying-phalangers (see MARSUPIALIA) (R. L.*)
+prefer to designate flying-phalangers (see [[Marsupialia|MARSUPIALIA]]) (R. L.*)
 
 ## See also
 

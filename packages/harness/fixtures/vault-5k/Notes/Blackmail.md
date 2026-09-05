@@ -7,7 +7,7 @@ type: note
 
 # Blackmail
 
-BLACKMAIL, a term, in English law, used in three special meanings, at
+BLACKMAIL, a term, in [[English Law|English law]], used in three special meanings, at
 different times. The usual derivation of the second half of the word is
 from Norman Fr. _maille (medalia_; cf. "medal"), small copper coin; the
 _New English Dictionary_ derives from "mail" (q.v.), meaning rent or

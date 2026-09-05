@@ -1,10 +1,10 @@
 # Indicator
 
 INDICATOR (from Lat. _indicare_, to point out), that which points out or
-records. In engineering, the word is specifically given to a mechanical
+records. In [[Engineering|engineering]], the word is specifically given to a mechanical
 device for registering the pressure of the working fluid in an engine
 cylinder during a stroke of the piston, the record so provided being
-termed the "indicator diagram" (see STEAM-ENGINE). In chemistry, the
+termed the "indicator diagram" (see STEAM-ENGINE). In [[Chemistry|chemistry]], the
 word is generically applied to re-agents or chemicals which detect
 usually small quantities or traces of other substances; it is, however,
 more customarily restricted to re-agents which show whether a substance
@@ -38,7 +38,7 @@ acid; the change is only sharp with strong acids. Para-nitrophenol,
 obtained in the direct nitration of phenol, yields a colourless solution
 in the presence of acids, and an intense yellow with alkalis. Of more
 recent introduction are: alizarin red, I.W.S. (alizarin mono-sulphonic
-acid), claimed by G. E. Knowles (_Abst. J.C.S._, 1907, ii. 389) to be
+acid), claimed by G. E. [[Knowles]] (_Abst. J.C.S._, 1907, ii. 389) to be
 better than methyl orange in alkalimetry; 3-amino-2-methylquinoline, used
 by O. Stark (ibid. 1907, i. 974) in ammonia estimations;
 para-nitrobenzeneazo-a-naphthol, shown by J. T. Hewitt (_Analyst_, 1908,
@@ -101,7 +101,7 @@ produced in the presence of the former.
   varying concentrations of hydrion or hydroxidion is now to be
   considered. Ostwald formulated his ionization theory which assumes the
   change to be due to the transition of the non-dissociated indicator to
-  the ionized condition, which are necessarily of different colours. On
+  the ionized condition, which are necessarily of different [[Colours|colours]]. On
   this theory, an indicator must be weakly basic or acid, for if it were
   a strong acid or base high dissociation would occur when it was in the
   free state, and there would be no change of colour when the solution

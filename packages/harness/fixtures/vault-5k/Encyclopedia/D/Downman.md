@@ -1,7 +1,7 @@
 # Downman
 
 DOWNMAN, JOHN (1750-1824), English portrait painter, was the son of
-Francis Downman, attorney, of St Neots, by Charlotte Goodsend, eldest
+Francis Downman, attorney, of St Neots, by [[Charlotte]] Goodsend, eldest
 daughter of the private secretary to George I.; his grandfather, Hugh
 Downman (1672-1729), having been the master of the House of Ordnance at
 Sheerness. He is believed to have been born near Ruabon, educated first

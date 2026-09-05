@@ -39,7 +39,7 @@ surface over which the axis of the shadow passes.
 [Illustration: FIG. 3.]
 
 A central eclipse is _total_ when the umbra actually reaches the earth;
-_annular_ when it does not. These two cases are shown in figs. 2 and 3.
+_[[Annular|annular]]_ when it does not. These two cases are shown in figs. 2 and 3.
 In the first of these the sun is entirely hidden within the region uu'.
 In fig. 3 within the region aa' the apparent diameter of the sun is
 slightly greater than that of the moon, and at the moment of greatest
@@ -74,7 +74,7 @@ seen. These consist of seeming vague and rapidly moving wave-like
 alternations of light and shade flitting over any white surface
 illuminated by the sun's rays immediately before and after the total
 phase. They are probably due to a flickering of the light from the thin
-crescent, produced by the undulations of the air, in the same way that
+[[Crescent|crescent]], produced by the undulations of the air, in the same way that
 the twinkling of the stars is produced. The rapid progressive motion
 sometimes assigned to them may be regarded as the natural result of an
 optical illusion. A few seconds before the commencement of the total
@@ -85,10 +85,10 @@ the solar crescent does not go on with perfect uniformity, but, just
 before the last moment, what remains of it is generally broken up into
 separate portions of light, which, magnified and diffused by the
 irradiation of the telescope, present the phenomenon long celebrated
-under the name of "Baily's beads." These were so called because minutely
+under the name of "Baily's [[Bead|beads]]." These were so called because minutely
 and vividly described by Francis Baily as he observed them during the
 annular eclipse of May 15, 1836, when he compared them to a string of
-bright beads, irregular in size and distance from each other. The
+[[Bright|bright]] beads, irregular in size and distance from each other. The
 disappearance of the last bead is commonly taken as the beginning of
 totality. An arc of the chromosphere will then be visible for a few
 seconds at and on each side of the point of disappearance, the length
@@ -120,7 +120,7 @@ attempt to photograph such a phenomenon. A daguerreotype clearly showing
 the protuberances was taken by Berkowski at the Observatory of
 Konigsberg. An attempt by G.A. Majocchi to daguerreotype the corona was
 a failure. Photographs of the eclipse of July 18, 1860, were taken by
-Padre Angelo Secchi and Warren De La Rue, which showed the prominences
+Padre Angelo Secchi and Warren [[De La Rue]], which showed the prominences
 well, and proved that they were progressively obscured by the edge of
 the advancing moon. It was thus shown that they were solar appendages,
 and did not belong to the moon, as had sometimes been supposed. The
@@ -145,12 +145,12 @@ during the total solar eclipse of August 18, 1868, by P.J.C. Janssen and
 other observers in India. By them was made the capital discovery that
 the red solar prominences give a spectrum of bright lines, and are
 therefore immense masses of incandescent gases, chiefly hydrogen and the
-vapours of calcium and helium. Janssen also found that this bright-line
+vapours of calcium and [[Helium|helium]]. Janssen also found that this bright-line
 spectrum could be followed after the eclipse was over, and, in fact,
 could be observed at any time when the air was sufficiently transparent.
 By one of those remarkable coincidences which frequently occur in the
 history of science, this last discovery was made independently by Sir
-Norman Lockyer in England before the news of Janssen's success had
+Norman [[Lockyer]] in England before the news of Janssen's success had
 reached him. It was afterwards found that, by giving great dispersing
 power to the spectroscope, the prominences could be observed in a wide
 slit, in their true form. At this eclipse the spectrum of the corona was
@@ -161,7 +161,7 @@ that the light was composed, at least in great part, of reflected
 sunlight.
 
 At the total eclipse of August 7, 1869, it was independently found by
-Professors C.A. Young of Princeton and W. Harkness of Washington that
+Professors C.A. Young of Princeton and W. [[Harkness]] of Washington that
 the continuous spectrum of the corona was crossed by a bright line in
 the green, which was long supposed to be coincident with 1474 of
 Kirchhoff's scale. This coincidence is, however, now found not to be
@@ -174,7 +174,7 @@ of the coronal line was found at the eclipses of 1896 and 1898 to be
 5303.
 
 The eclipse of December 28, 1870, passed over the south-western corner
-of Spain, Gibraltar, Oran and Sicily. It is memorable for the discovery
+of Spain, [[Gibraltar]], Oran and Sicily. It is memorable for the discovery
 by Young of the "reversing layer" of the solar atmosphere. This term is
 now applied to a shallow stratum resting immediately upon the
 photosphere, the absorption of which produces the principal dark lines
@@ -196,22 +196,22 @@ with chromospheric light reflected from the air, and it is therefore
 probable that the H and K (calcium) lines of the coronal spectrum are
 not true coronal lines, but chromospheric.
 
-At the eclipse of December 12, 1871, visible in India and Australia,
+At the eclipse of December 12, 1871, visible in India and [[Australia]],
 Janssen observed, as he supposed, some of the dark lines of the solar
 spectrum in the continuous spectrum of the corona, especially D, b and
 G. This would show that an important part of the coronal light is due to
 reflected sunshine. This feature of the spectrum, however, is doubtful
 in the most recent photographs under the best conditions. At this
 eclipse the remarkable observation was also made by Colonel John
-Herschel and Colonel J.F. Tennant that the characteristic line of the
+[[Herschel]] and Colonel J.F. Tennant that the characteristic line of the
 coronal spectrum is as bright in the dark rifts of the corona as
 elsewhere. This would show that the gas coronium does not form the
 streamers of the corona, but is spherical in form and distributed
 uniformly about the sun. Photographs were also taken on wet plates by a
-party in Java and by the parties of Lord Lindsay (at Baikul, India) and
+party in [[Java]] and by the parties of Lord Lindsay (at Baikul, India) and
 of Colonel Tennant (at Dodabetta). The Baikul and Dodabetta photographs
 were of small size (moon's diameter = 3/10 in.), but of excellent
-definition. A searching study was made of them by A. C Ranyard and W.H.
+[[Definition|definition]]. A searching study was made of them by A. C Ranyard and W.H.
 Wesley (_Memoirs R.A.S._ vol. xli., 1879), and for the first time a
 satisfactory representation of the corona was obtained. The drawings in
 the volume quoted show its polar rays, wings, interlacing filaments and
@@ -231,7 +231,7 @@ The eclipse of July 29, 1878, was observed by many astronomers in the
 United States along a line extending from Wyoming to Texas. A number of
 the stations were at high altitudes (up to 14,000 ft.), and the sky was
 generally very clear. The visible corona extended on both sides of the
-sun along the ecliptic for immense distances--at least twelve lunar
+sun along the [[Ecliptic|ecliptic]] for immense distances--at least twelve lunar
 diameters, about eleven million miles. Photographs taken by the parties
 of Professors A. Hall and W. Harkness gave the details of the inner
 corona and of the polar rays, showing the filamentous character of the
@@ -246,13 +246,13 @@ It is not yet certain that the other coronal spectrum lines vary in the
 same way.
 
 The eclipse of May 17, 1882, was observed in Egypt. On the photographs
-of the corona the image of a bright comet was found, the first instance
+of the corona the [[Image|image]] of a bright [[Comet|comet]] was found, the first instance
 of the sort. (A faint comet was found on the plates of the Lick
-Observatory eclipse expedition to Chile in 1893.) The slitless
+Observatory eclipse expedition to [[Chile]] in 1893.) The slitless
 spectroscope showed the green line (coronium) and D3 (helium) in the
 coronal spectrum.
 
-The eclipse of May 6, 1883, was observed from a small coral atoll in the
+The eclipse of May 6, 1883, was observed from a small [[Coral|coral]] atoll in the
 South Pacific Ocean by parties from America, England, France, Austria
 and Italy. A thorough search was made by Holden (with a 6 in. telescope)
 for an intra-Mercurial planet, without success, during an unusually long
@@ -268,7 +268,7 @@ portions contained no hydrogen lines, but only the H and K lines of
 calcium. He also observed a very extensive "white" prominence. It was
 shown on the photographs of the corona, but could not be seen in the
 H[alpha] line with the spectroscope. It has been suggested by Professor
-G.E. Hale that the colour of a "white" prominence may be due to the fact
+G.E. [[Hale]] that the colour of a "white" prominence may be due to the fact
 that the H and K lines (calcium) are of their normal intensity, while
 the less refrangible prominence lines are, from some unknown cause,
 comparatively faint. It is known that the intensity of such lines does,
@@ -300,13 +300,13 @@ results deduced by Holden from the eclipses of January and December
   The results in the first and third columns are derived from plates
   taken in a very humid climate, and are not very different.
 
-The eclipse of August 19, 1887, was total in Japan and Russia, but
+The eclipse of August 19, 1887, was total in [[Japan]] and Russia, but
 cloudy weather prevented successful observations except in Siberia and
 eastern Russia.
 
 The eclipse of January 1, 1889, was observed in California and Nevada by
 many American astronomers. The photographs of the corona, especially
-those by Charoppin and E.E. Barnard, show a wealth of detail. Those of
+those by Charoppin and E.E. [[Barnard]], show a wealth of detail. Those of
 Barnard, of the Lick Observatory party, were studied by Holden, and
 exhibited the fact that rays, like the "polar-rays," extended all round
 the sun, instead of being confined to the polar regions only. The outer
@@ -316,17 +316,17 @@ outline of the moon is visible projected on the corona before totality
 began. The spectrum of the corona showed few bright lines besides those
 of coronium and hydrogen.
 
-The eclipse of December 22, 1889, was observed in Cayenne, S. America,
+The eclipse of December 22, 1889, was observed in [[Cayenne]], S. America,
 by a party from the Lick Observatory under rather unfavourable
 conditions. Expeditions sent to Africa were baffled by cloudy weather.
-Father Stephen Joseph Perry observed at Salute Islands, French Guiana,
+Father Stephen Joseph Perry observed at Salute Islands, French [[Guiana]],
 and obtained some photographs of value. The effort cost him his life,
-for he died of malarial fever five days after the eclipse.
+for he died of malarial [[Fever|fever]] five days after the eclipse.
 
 The eclipse of April 16, 1893, was observed by British and French
 parties in Africa and Brazil, and by Professor J.M. Schaeberle of the
 Lick Observatory in Chile. The Chile photographs of the corona were
-taken with a lens of 40 ft. focus, and are extremely fine. They show a
+taken with a lens of 40 ft. [[Focus|focus]], and are extremely fine. They show a
 faint comet near the sun. No great extensions to the corona were shown
 on any of the negatives, or seen visually, though they were specially
 looked for by British parties. The neighbourhood of the sun was
@@ -345,21 +345,21 @@ prominences were determined by the British parties.
 The eclipse of August 9, 1896, was total in Norway, Novaya Zemlya and
 Japan. The day was very unfavourable as to weather, but good photographs
 of the corona were obtained by Russian parties in Siberia and Lapland.
-Shackelton, in Novaya Zemlya, with a prismatic camera obtained a
+Shackelton, in Novaya Zemlya, with a prismatic [[Camera|camera]] obtained a
 photograph of the reversing-layer at the beginning of totality. This
 photograph completely confirms Young's discovery, and shows the
 prominent Fraunhofer lines bright, the bright lines of the chromosphere
 spectrum being especially conspicuous.
 
 At the solar eclipse of January 22, 1898, the shadow of the moon
-traversed India from the western coast to the Himalaya. The duration of
+traversed India from the western coast to the [[Himalaya]]. The duration of
 totality was about 2 m. The eclipse was very fully observed, more than
 100 negatives of the corona being secured. The equatorial extension of
 the visible corona was short and faint, and the invisible
 (spectroscopic) corona was also very faint. The spectrum of the
 reversing-layer was successfully photographed; one set of negatives
 shows the polarization of one of the longest streamers of the corona,
-and proves the presence of dust particles reflecting solar light. The
+and proves the presence of [[Dust|dust]] particles reflecting solar light. The
 bright-line spectrum of hydrogen in the chromosphere was followed to the
 thirtieth point of the series, and the wave-lengths were shown to agree
 closely with Balmer's formula (see SPECTROSCOPY). The wave-length of
@@ -373,21 +373,21 @@ remarkable degree by the absence of clouds. The photographs of the
 corona obtained by W.W. Campbell extended four diameters of the sun on
 the west side. The sun's edge was photographed with an objective-prism
 spectrograph composed of two 60 deg. prisms in front of a telescope of 2
-in. aperture and 60 in. focus. A fine photograph, 6 in. long, of the
+in. [[Aperture|aperture]] and 60 in. focus. A fine photograph, 6 in. long, of the
 bright-and dark-line spectra of the sun's edge at the end of totality
 was thus obtained. It shows 600 bright lines sharply in focus besides
 the dark-line spectrum, to which the bright lines gave way as the sun
 reappeared. The coronal material radiating the green light was found to
 be markedly heaped up in the sun-spot regions. No dark lines were found
-in the spectrum of the inner corona. G.E. Hale and E.B. Frost also
+in the spectrum of the inner corona. G.E. Hale and E.B. [[Frost]] also
 photographed the combined bright-and dark-line spectra of the solar
-cusps at the instants before and after totality. On one photograph
+[[Cusp|cusps]] at the instants before and after totality. On one photograph
 showing no dark lines 70 bright lines could be measured between 4070 and
 4340. On another were 70 bright lines between Hb and Hs. On a third were
 266 bright lines between 4026 and 4381, and some dark lines. These lines
 show a marked dissimilarity from the solar spectrum. (S. N.)
 
-The eclipse of May 18, 1901, was observable in Mauritius with 3-1/2
+The eclipse of May 18, 1901, was observable in [[Mauritius]] with 3-1/2
 minutes of totality, and in Sumatra with 6-1/2 minutes. Unfortunately
 there was cloudy weather in Sumatra, which at some stations prevented
 observations entirely and at others neutralized the advantages promised
@@ -419,7 +419,7 @@ central line in great numbers. Unfortunately it was cloudy in Labrador,
 so that the special advantages of the long line of possible stations
 were lost. Exceptionally good weather conditions were enjoyed in Algeria
 and Tunisia, and full advantage was taken of them by H.F. Newall, C.
-Trepied and others at Guelma, by the party from Greenwich and G.
+Trepied and others at Guelma, by the party from [[Greenwich]] and G.
 Bigourdan at Sfax. That G. Newall's spectroscopic photographs for
 rotation of the corona again gave no result is a clear indication of the
 faintness of the corona at 3' from the limb; but F.W. Dyson at Sfax
@@ -483,7 +483,7 @@ When only a small portion has entered into the shadow, that portion is
 completely hidden. But, as the total phase approaches, the part of the
 moon's disk immersed in the penumbra becomes visible by a reddish
 coppery light--that of the sun refracted through the lower parts of the
-earth's atmosphere. The brightness of this illumination is different in
+earth's atmosphere. The brightness of this [[Illumination|illumination]] is different in
 different eclipses, a circumstance which may be attributed to the
 greater or less degree of cloudiness in those regions of the earth's
 atmosphere through which the light of the sun passes in order to reach
@@ -566,14 +566,14 @@ successive periods.
 To see the law of recurrence of corresponding eclipses in the successive
 periods let us suppose the line of conjunction ES1 to be that at which
 there is a very small eclipse, visible only in high northern or southern
-latitudes. At the end of 18 years 11 days a second eclipse will occur
+[[Latitude|latitudes]]. At the end of 18 years 11 days a second eclipse will occur
 along a line nearly half a degree nearer EN, the line of nodes. The
 successive eclipses will occur at the same interval through about ten
 periods, or 180 years, when the line of conjunction will pass within 11
 deg. of EN. Then the eclipse will be central, whether annular or total
 depending on circumstances: in the first one the central lines will pass
 only over the polar regions; but in successive eclipses of the series it
-will pass nearer and nearer to the equator until the conjunction line
+will pass nearer and nearer to the [[Equator|equator]] until the conjunction line
 coincides with the node. The path of centrality will then cross in the
 equatorial region. During 22 or 23 more recurrences the path will
 continually approach to the opposite pole and finally leave the earth
@@ -624,14 +624,14 @@ that used by the chronologists. The Chinese eclipses are passed over,
 owing to the generally doubtful character of the records pertaining to
 them.
 
-  --1069 June 20 and --1062 July 31; total eclipses recorded at Babylon.
+  --1069 June 20 and --1062 July 31; total eclipses recorded at [[Babylon]].
 
   --762, June 14; a total eclipse recorded at Nineveh. Computation from
   the modern tables shows that the path of totality passed about 100 m.
   or more north of Nineveh.
 
   --647, April 6; total eclipse at or near Thasos, mentioned by
-  Archilochus.
+  [[Archilochus]].
 
   --584, May 28; the celebrated eclipse of Thales. For an account of
   this eclipse see THALES.
@@ -682,7 +682,7 @@ them.
   The next dates are 1927, June 29, when a barely total eclipse will be
   seen soon after sunrise in the northern counties near the Scottish
   border, and 1999, August 11, when the moon's shadow will graze England
-  at Land's End.
+  at [[Land'S End|Land's End]].
 
 We give below, in tabular form, a list of the principal total eclipses
 during the 19th and 20th centuries, omitting a few visible only in the
@@ -706,7 +706,7 @@ is indicated in the next column.
   |                | Lat. | Long. | d.    h.   m. |    m.   |      |       |                                                            |
   +----------------+------+-------+---------------+---------+------+-------+------------------------------------------------------------+
   | 1803, Feb.  21 | 11 S.| 136 W.| 21    9   20  |   4.2   | Asc. |   1   | Pacific Ocean, Mexico.                                     |
-  | 1804, Aug.   5 | 38 S.|  66 W.|  5    4    6  |   1.2   | Desc.|   2   | Pacific Ocean, Chile, Argentina.                           |
+  | 1804, Aug.   5 | 38 S.|  66 W.|  5    4    6  |   1.2   | Desc.|   2   | Pacific Ocean, Chile, [[Argentina]].                           |
   | 1806, June  16 | 42 N.|  66 W.| 16    4   22  |   4.6   | Desc.|   3   | New England, Atlantic, Africa.                             |
   | 1807, Nov.  29 | 11 N.|   2 E.| 28   23   48  |   1.4   | Asc. |   4   | Central Africa, Areolia.                                   |
   | 1810, April  4 | 12 N.| 154 E.|  3   13   41  |   Ann.  | Desc.|   5   | Pacific Ocean, Borneo.                                     |
@@ -714,7 +714,7 @@ is indicated in the next column.
   | 1814, July  17 | 31 N.|  84 E.| 16   18   33  |   6.6   | Asc. |   7   | Africa, Central Asia, China.                               |
   | 1815, July   6 | 88 N.| 175 W.|  6   11   52  |   3.2   | Asc. |   8   | Polar Regions, Western Siberia.                            |
   | 1816, Nov.  19 | 43 N.|  30 E.| 18   22    9  |   1.8   | Desc.|   9   | Eastern Europe, Central Asia.                              |
-  | 1817, Nov.   9 |  7 S.| 149 E.|  8   13   53  |   4.7   | Desc.|  10   | Burma, Pacific Ocean.                                      |
+  | 1817, Nov.   9 |  7 S.| 149 E.|  8   13   53  |   4.7   | Desc.|  10   | [[Burma]], Pacific Ocean.                                      |
   | 1821, Mar.   4 |  8 S.|  96 E.|  3   17   50  |   4.3   | Asc. |   1   | Indian and Pacific Oceans.                                 |
   | 1822, Aug.  16 | 36 S.| 176 W.| 16   11   22  |   1.4   | Desc.|   2   | Australia, Pacific Ocean.                                  |
   | 1824, June  26 | 47 N.| 175 W.| 26   11   43  |   4.4   | Desc.|   3   | Pacific Ocean, Japan, China.                               |
@@ -724,7 +724,7 @@ is indicated in the next column.
   | 1832, July  27 | 24 N.|  28 W.| 27    2    2  |   6.8   | Asc. |   7   | West Indies and across Central Africa.                     |
   | 1833, July  17 | 78 N.|  76 E.| 16   19   16  |   3.5   | Asc. |   8   | North-eastern Asia and Polar Regions.                      |
   | 1834, Nov.  30 | 40 N.| 101 W.| 30    6   48  |   1.9   | Desc.|   9   | Southern and Western United States.                        |
-  | 1835, Nov.  20 | 10 S.|  20 E.| 19   22   31  |   4.6   | Desc.|  10   | Central Africa, Madagascar.                                |
+  | 1835, Nov.  20 | 10 S.|  20 E.| 19   22   31  |   4.6   | Desc.|  10   | Central Africa, [[Madagascar]].                                |
   | 1839, Mar.  15 |  6 S.|  31 W.| 15    2   14  |   4.4   | Asc. |   1   | South America, Africa, Egypt.                              |
   | 1840, Aug.  27 | 34 S.|  72 E.| 26   18   45  |   1.6   | Desc.|   2   | Africa, Madagascar, Indian Ocean.                          |
   | 1842, July   8 | 51 N.|  77 E.|  7   19    2  |   4.1   | Desc.|   3   | Spain, France, Russia to China, and Pacific Ocean.         |
@@ -768,14 +768,14 @@ is indicated in the next column.
   | 1912, Oct.  10 | 35 S.|  33 W.| 10    1   41  |   1.8   | Desc.|   2   | Colombia, Ecuador, Brazil.                                 |
   | 1914, Aug.  21 | 71 N.|   2 E.| 21    0   27  |   2.1   | Desc.|   3   | Scandinavia, Russia, Asia Minor.                           |
   | 1916, Feb.   3 | 16 N.|  62 W.|  3    4    6  |   2.5   | Asc. |   4   | Pacific Ocean, Venezuela, West Indies.                     |
-  | 1918, June   8 | 51 N.| 152 W.|  8   10    3  |   2.4   | Desc.|   5   | British Columbia, United States.                           |
+  | 1918, June   8 | 51 N.| 152 W.|  8   10    3  |   2.4   | Desc.|   5   | [[British Columbia]], United States.                           |
   | 1919, May   29 |  4 N.|  18 W.| 29    1   12  |   6.9   | Desc.|   6   | Peru, Brazil, Central Africa.                              |
   | 1922, Sept. 21 | 12 S.| 106 E.| 20   16   38  |   6.1   | Asc. |   7   | East Africa, Australia.                                    |
-  | 1923, Sept. 10 | 38 N.| 128 W.| 10    8   53  |   3.6   | Asc. |   8   | California, Mexico, Central America.                       |
+  | 1923, Sept. 10 | 38 N.| 128 W.| 10    8   53  |   3.6   | Asc. |   8   | California, Mexico, [[Central America]].                       |
   | 1925, Jan.  24 | 42 N.|  44 W.| 24    2   46  |   2.4   | Desc.|   9   | United States.                                             |
   | 1926, Jan.  14 | 10 S.|  82 E.| 13   18   35  |   4.2   | Desc.|  10   | East Africa, Sumatra, Philippines.                         |
   | 1927, June  29 | 78 N.|  84 E.| 28   18   32  |   0.7   | Asc. |  11   | England, Scotland, Scandinavia.                            |
-  | 1929, May    9 |  1 S.|  89 E.|  8   18    8  |   5.1   | Asc. |   1   | Sumatra, Malacca, Philippines.                             |
+  | 1929, May    9 |  1 S.|  89 E.|  8   18    8  |   5.1   | Asc. |   1   | Sumatra, [[Malacca]], Philippines.                             |
   | 1930, Oct.  21 | 36 S.| 155 W.| 21    9   47  |   1.9   | Desc.|   2   | Pacific Ocean, Patagonia.                                  |
   | 1932, Aug.  31 | 78 N.| 109 W.| 31    7   55  |   1.5   | Desc.|   3   | Canada.                                                    |
   | 1934, Feb.  14 | 19 N.| 168 E.| 13   12   44  |   2.7   | Asc. |   4   | Borneo, Celebes.                                           |
@@ -796,8 +796,8 @@ is indicated in the next column.
   | 1963, July  20 | 62 N.| 126 W.| 20    8   43  |   1.5   | Asc. |  11   | Alaska, Hudson's Bay Territory.                            |
   | 1965, May   30 |  4 S.| 137 W.| 30    9   14  |   5.3   | Asc. |   1   | Pacific Ocean.                                             |
   | 1966, Nov.  12 | 38 S.|  43 W.| 12    2   27  |   1.9   | Desc.|   2   | Bolivia, Argentina, Brazil.                                |
-  | 1970, Mar.   7 | 25 N.|  88 W.|  7    5   43  |   3.3   | Asc. |   4   | Mexico, Georgia, ? Florida.                                |
-  | 1972, July  10 | 67 N.| 111 W.| 10    7   40  |   2.7   | Desc.|   5   | North-East Asia, North-East America and Atlantic Ocean.    |
+  | 1970, Mar.   7 | 25 N.|  88 W.|  7    5   43  |   3.3   | Asc. |   4   | Mexico, [[Georgia]], ? Florida.                                |
+  | 1972, July  10 | 67 N.| 111 W.| 10    7   40  |   2.7   | Desc.|   5   | North-East Asia, North-East America and [[Atlantic Ocean]].    |
   | 1973, June  30 | 19 N.|   6 E.| 29   23   39  |   7.2   | Desc.|   6   | South America, Africa and Atlantic Ocean.                  |
   | 1974, June  20 | 32 S.| 107 E.| 19   16   56  |   5.3   | Desc.|  12   | South-West Australia and Indian Ocean.                     |
   | 1976, Oct.  23 | 31 S.|  95 E.| 22   17   10  |   4.9   | Asc. |   7   | Africa, Australia, Indian and Pacific Oceans.              |
@@ -809,12 +809,12 @@ is indicated in the next column.
   | 1984, Nov.  22 | 39 S.| 170 W.| 22   10   58  |   2.1   | Desc.|   2   | Pacific Ocean, Patagonia.                                  |
   | 1987, Mar.  29 | 17 S.|   6 W.| 29    0   45  |   0.3   | Asc. |  13   | Atlantic, Equatorial Africa.                               |
   | 1988, Mar.  18 | 28 N.| 146 E.| 17   14    3  |   4.0   | Asc. |   4   | Indian and Pacific Oceans, Sumatra.                        |
-  | 1990, July  22 | 72 N.| 142 E.| 21   14   54  |   2.6   | Desc.|   5   | Finland, North Atlantic.                                   |
+  | 1990, July  22 | 72 N.| 142 E.| 21   14   54  |   2.6   | Desc.|   5   | [[Finland]], North Atlantic.                                   |
   | 1991, July  11 | 22 N.| 105 W.| 11    7    6  |   7.1   | Desc.|   6   | Pacific Ocean, Hawaii, Central America.                    |
   | 1992, June  30 | 26 S.|   5 W.| 30    0   19  |   5.4   | Desc.|  12   | South Atlantic.                                            |
   | 1994, Nov.   3 | 36 S.|  31 W.|  3    1   36  |   4.6   | Asc. |   7   | Pacific Ocean, South America.                              |
   | 1995, Oct.  24 | 10 N.| 110 E.| 23   16   37  |   2.4   | Asc. |   8   | Pacific and Indian Oceans.                                 |
-  | 1997, Mar.   9 | 71 N.| 154 E.|  8   13   16  |   2.8   | Desc.|   9   | North-East Asia, Arctic Sea.                               |
+  | 1997, Mar.   9 | 71 N.| 154 E.|  8   13   16  |   2.8   | Desc.|   9   | North-East Asia, [[Arctic]] Sea.                               |
   | 1998, Feb.  26 |  6 N.|  81 W.| 26    5   27  |   4.4   | Desc.|  10   | Pacific and Atlantic Oceans, Central America.              |
   | 1999, Aug.  11 | 46 N.|  18 E.| 10   23    8  |   2.6   | Asc. |  11   | Central and Southern Europe touching England.              |
   +----------------+------+-------+---------------+---------+------+-------+------------------------------------------------------------+
@@ -840,7 +840,7 @@ over the southern part of the Indian Ocean near Madras.
 
 All the national annual Ephemerides contain elements of the eclipses of
 the sun occurring during the year. Those of England, America and France
-also give maps showing the path of the central line, if any, over the
+also give [[Map|maps]] showing the path of the central line, if any, over the
 earth's surface; the lines of eclipse beginning and ending at sunrise,
 &c., and the outlines of the shadow from hour to hour. By the aid of the
 latter the time at which an eclipse begins or ends at any point can be
@@ -899,7 +899,7 @@ equator with the fundamental plane is taken as the axis of X. The axis
 of Y is perpendicular to it, the positive direction being towards the
 north. The Besselian elements of an eclipse are then:--x, y, the
 co-ordinates of the shadow axis on the fundamental plane; d, the
-declination of that point in which the shadow axis intersects the
+[[Declination|declination]] of that point in which the shadow axis intersects the
 celestial sphere; [mu], the Greenwich hour angle of this point; l, the
 radius of the circle, in which the penumbral or outer cone intersects
 the fundamental plane; and l', the radius of the circle, in which the
@@ -923,7 +923,7 @@ intersects the surface of the earth, and the respective outlines of the
 umbra and penumbra on that surface. Within the umbral curve the eclipse
 is annular or total; outside of it and within the penumbral curve the
 eclipse is partial at the given moment. The penumbral line is marked
-from hour to hour on the maps given annually in the American Ephemeris.
+from hour to hour on the maps given annually in the American [[Ephemeris]].
 Second, a series of positions of the central point through the course of
 an eclipse gives us the path of the central point along the surface of
 the earth, and the envelopes of the penumbral and umbral curves just
@@ -967,7 +967,7 @@ bibliography of the subject.
   northern hemisphere during the period covered by the table. The points
   of the path at which the eclipse occurs, at sunrise, noon and sunset,
   are laid down with precision, but the intermediate points are
-  frequently in error by several hundred miles, as they were not
+  frequently in [[Error|error]] by several hundred miles, as they were not
   calculated, but projected simply by drawing a circle through the three
   points just mentioned. For this reason we cannot infer from them that
   an eclipse was total at any given place. The correct path can,
@@ -976,7 +976,7 @@ bibliography of the subject.
   Jahrhunderts" (_Denkschriften_, Vienna Academy, vol. xlix.), gives
   more exact paths of the central eclipses of the 20th century, but no
   maps. General tables for computing eclipses are Oppolzer's
-  "Syzygientafeln fur den Mond" (Publications of the _Astronomische
+  "Syzygientafeln [[Fur|fur]] den Mond" (Publications of the _Astronomische
   Gesellschaft_, xvi.), and Newcomb's, in _Publications of the American
   Ephemeris_, vol. i. part i. Of these, Oppolzer's are constructed with
   greater numerical accuracy and detail, while Newcomb's are founded on
@@ -993,8 +993,8 @@ bibliography of the subject.
   solar eclipses up to 1878, by A.C. Ranyard, is to be found in _Memoirs
   of the Royal Astronomical Society_, vol. xli. A very copious
   development of the computation of eclipses by Bessel's method is found
-  in W. Chauvenet's _Spherical and Practical Astronomy_, vol. i. _The
-  Theory of Eclipses_, by R. Buchanan (Philadelphia, 1904), treats the
+  in W. Chauvenet's _Spherical and Practical [[Astronomy]]_, vol. i. _The
+  Theory of Eclipses_, by R. [[Buchanan]] (Philadelphia, 1904), treats the
   subject yet more fully. Hansen's method is developed in the
   _Abhandlungen_ of the Leipzig Academy of Sciences, vol. vi.
   (Math.-Phys. Classe, vol. iv.). The formulae of computation by this

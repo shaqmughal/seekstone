@@ -6,7 +6,7 @@ topic: physics
 
 # Lactones
 
-LACTONES, the cyclic esters of hydroxy acids, resulting from the
+LACTONES, the cyclic [[Esters|esters]] of hydroxy acids, resulting from the
 internal elimination of water between the hydroxyl and carboxyl groups,
 this reaction taking place when the hydroxy acid is liberated from its
 salts by a mineral acid. The [alpha] and [beta]-hydroxy acids do not
@@ -18,17 +18,17 @@ CH2OH·CH2·CH2·CO2H, yields [gamma]-butyrolactone,
   |              |
   CH2·CH2·CH2·CO·O.
 
-These compounds may also be prepared by the distillation of the
+These compounds may also be prepared by the [[Distillation|distillation]] of the
 [gamma]-halogen fatty acids, or by the action of alkaline carbonates on
 these acids, or from [beta][gamma]- or [gamma][delta]-unsaturated acids
 by digestion with hydrobromic acid or dilute sulphuric acid. The
 lactones are mostly liquids which are readily soluble in alcohol, ether
 and water. On boiling with water, they are partially reconverted into
-the hydroxy acids. They are easily saponified by the caustic alkalis.
+the hydroxy acids. They are easily saponified by the [[Caustic|caustic]] alkalis.
 
   On the behaviour of lactones with ammonia, see H. Meyer,
   _Monatshefte_, 1899, 20, p. 717; and with phenylhydrazine and
-  hydrazine hydrate, see R. Meyer, _Ber._, 1893, 26, p. 1273; L.
+  [[Hydrazine|hydrazine]] hydrate, see R. Meyer, _Ber._, 1893, 26, p. 1273; L.
   Gattermann, _Ber._, 1899, 32, p. 1133, E. Fischer, Ber., 1889, 22, p.
   1889.
 

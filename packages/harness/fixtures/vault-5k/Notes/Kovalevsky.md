@@ -9,13 +9,13 @@ to them. This led her, in 1868, to contract one of those conventional
 marriages in vogue at the time, with a young student, Waldemar
 Kovalevsky, and the two went together to Germany to continue their
 studies. In 1869 she went to Heidelberg, where she studied under H. von
-Helmholtz, G. R. Kirchhoff, L. Königsberger and P. du Bois-Reymond, and
+Helmholtz, G. R. [[Kirchhoff]], L. Königsberger and P. du Bois-Reymond, and
 from 1871-1874 read privately with Karl Weierstrass at Berlin, as the
 public lectures were not then open to women. In 1874 the university of
 Göttingen granted her a degree _in absentia_, excusing her from the oral
 examination on account of the remarkable excellence of the three
 dissertations sent in, one of which, on the theory of partial
-differential equations, is one of her most remarkable works. Another was
+differential [[Equation|equations]], is one of her most remarkable works. Another was
 an elucidation of P. S. Laplace's mathematical theory of the form of
 Saturn's rings. Soon after this she returned to Russia with her husband,
 who was appointed professor of palaeontology at Moscow, where he died in

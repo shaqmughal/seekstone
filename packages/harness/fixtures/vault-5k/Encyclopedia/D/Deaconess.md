@@ -37,7 +37,7 @@ Apostolical Constitutions they acted as door-keepers in the church,
 received women as they entered and conducted them to their allotted
 seats. In the Western Church, on the other hand, we hear nothing of the
 order till the 4th century, when an attempt seems to have been made to
-introduce it into Gaul. Much opposition, however, was encountered, and
+introduce it into [[Gaul]]. Much opposition, however, was encountered, and
 the movement was condemned by the council of Orange in 441 and the
 council of Epaone in 517. In spite of the prohibition the institution
 made some headway, and traces of it are found later in Italy, but it

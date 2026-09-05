@@ -12,7 +12,7 @@ tags: [economics, natural-history]
 KATSENA, an ancient state of the western Sudan, now included in the
 province of Kano in the British protectorate of Northern Nigeria.
 Katsena was amongst the oldest of the Hausa states. There exist
-manuscripts which carry back its history for about 1000 years and
+[[Manuscript|manuscripts]] which carry back its history for about 1000 years and
 tradition ascribes the origin of the Hausa population, which is known
 also by the name of Habe or Habeche, to the union of Bajibda of Bagdad
 with a prehistoric queen of Daura. The conquest of the Habe of Katsena
@@ -44,7 +44,7 @@ of allegiance to the British crown, and was deposed in 1904. His
 successor was installed and took the oath of allegiance in December of
 the same year. Katsena is a rich and populous district.
 
-  See the _Travels_ of Heinrich Barth (new ed., London, 1890, chs.
+  See the _Travels_ of Heinrich [[Barth]] (new ed., London, 1890, chs.
   xxiii. and xxiv.). Consult also the _Annual Reports_ on Northern
   Nigeria issued by the Colonial Office, London, particularly the Report
   for 1902.

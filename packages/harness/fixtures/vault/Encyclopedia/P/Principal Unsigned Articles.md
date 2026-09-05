@@ -3,7 +3,7 @@
 PRINCIPAL UNSIGNED ARTICLES
 
   Anglican Communion.
-  Angola.
+  [[Angola]].
 
 
   [Note regarding E-text edition:

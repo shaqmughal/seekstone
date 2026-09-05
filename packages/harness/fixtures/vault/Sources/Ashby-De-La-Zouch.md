@@ -10,7 +10,7 @@ tags: [science, engineering]
 # Ashby-De-La-Zouch
 
 ASHBY-DE-LA-ZOUCH, a market-town in the Bosworth parliamentary division
-of Leicestershire, England; 118 m. N.W. by N. from London by the Midland
+of [[Leicestershire]], England; 118 m. N.W. by N. from London by the Midland
 railway, on the Leicester-Burton branch. Pop. of urban district (1901)
 4726. The church of St Helen is a fine Perpendicular building, restored
 and enlarged (1880); it contains monuments of the Huntingdon family, and
@@ -18,11 +18,11 @@ an old finger-pillory for the punishment of misbehaviour in church. The
 Ivanhoe baths, erected in 1826, are frequented for their saline waters,
 which, as containing bromine, are found useful in scrofulous and
 rheumatic complaints. The springs are at Moira, 3 m. west. There is a
-Queen Eleanor cross commemorating the countess of Loudoun, by Sir
+Queen Eleanor cross commemorating the countess of [[Loudoun]], by Sir
 Gilbert Scott. To the south of the town are the extensive remains of
 Ashby Castle. There are extensive coal-mines in the neighbouring
 district, as at Moira, whence the Ashby-de-la-Zouch canal runs south to
-the Coventry canal.
+the [[Coventry]] canal.
 
   At the time of the Domesday survey Ashby-de-la-Zouch formed part of
   the estates of Hugh de Grentmaisnel. Soon after it was held by Robert
@@ -32,8 +32,8 @@ the Coventry canal.
   rights is in 1219, when Roger la Zouch obtained a grant of a weekly
   market and a two days' fair at the feast of St Helen, in consideration
   of a fine of one palfrey. In the 15th century the manor was held by
-  James Butler, earl of Ormond, after whose attainder it was granted in
-  1461 to Lord Hastings, who in 1474 obtained royal licence to empark
+  James [[Butler]], earl of Ormond, after whose [[Attainder|attainder]] it was granted in
+  1461 to Lord [[Hastings]], who in 1474 obtained royal licence to empark
   3000 acres and to build and fortify a castle. At this castle Mary
   queen of Scots was detained in 1569 under the custody of the earls of
   Huntingdon and Shrewsbury. During the Civil War Colonel Henry Hastings

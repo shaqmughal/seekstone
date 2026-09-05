@@ -1,6 +1,6 @@
 # Fremantle
 
-FREMANTLE, a seaport of Swan county, Western Australia, at the mouth of
+FREMANTLE, a seaport of Swan county, Western [[Australia]], at the mouth of
 the Swan river, 12 m. by rail S.W. of Perth. It is the terminus of the
 Eastern railway, and is a town of some industrial activity,
 shipbuilding, soap-boiling, saw-milling, smelting, iron-founding,

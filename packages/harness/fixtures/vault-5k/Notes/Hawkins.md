@@ -43,13 +43,13 @@ driven in by bad weather. The falsity of the story was glaring, but the
 Spanish officers on the spot were too weak to offer resistance. Hawkins
 was allowed to enter the harbour, and to refit at the small rocky island
 of San Juan de Ulloa by which it is formed. Unfortunately for him, and
-for a French corsair whom he had in his company, a strong Spanish force
+for a French [[Corsair|corsair]] whom he had in his company, a strong Spanish force
 arrived, bringing the new viceroy. The Spaniards, who were no more
 scrupulous of the truth than himself, pretended to accept the
 arrangement made before their arrival, and then when they thought he was
 off his guard attacked him on the 24th of September. Only two vessels
 escaped, his own, the "Minion," and the "Judith," a small vessel
-belonging to his cousin Francis Drake. The voyage home was miserable,
+belonging to his [[Cousin|cousin]] Francis Drake. The voyage home was miserable,
 and the sufferings of all were great.
 
 For some years Hawkins did not return to the sea, though he continued to
@@ -60,7 +60,7 @@ he became treasurer of the navy in succession to his father-in-law
 Benjamin Gonson. The office of comptroller was conferred on him soon
 after, and for the rest of his life he remained the principal
 administrative officer of the navy. Burleigh noted that he was suspected
-of fraud in his office, but the queen's ships were kept by him in good
+of [[Fraud|fraud]] in his office, but the queen's ships were kept by him in good
 condition. In 1588 he served as rear-admiral against the Spanish Armada
 and was knighted. In 1590 he was sent to the coast of Portugal to
 intercept the Spanish treasure fleet, but did not meet it. In giving an

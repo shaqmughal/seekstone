@@ -21,13 +21,13 @@ on the right bank of the small river Bele, in 5 deg. 33' S., 12 deg. 10'
 E.; pop. about 10,000. From the beauty of its situation, and the
 fertility of the adjacent country, it has been called the paradise of
 the coast. The harbour is sheltered and commodious, with anchorage in
-four fathoms. Kabinda was formerly a noted slave mart. Farther north are
+four [[Fathom|fathoms]]. Kabinda was formerly a noted slave mart. Farther north are
 the ports of Landana and Massabi. Between Kabinda and Landana is Molembo
 at the head of a small bay of the same name. There is a considerable
 trade in palm oil, ground nuts and other jungle produce, largely in the
 hands of British and German firms.
 
-The possession of the enclave of Kabinda by Portugal is a result of the
+The possession of the [[Enclave|enclave]] of Kabinda by Portugal is a result of the
 efforts made by that nation during the last quarter of the 19th century
 to obtain sovereignty over both banks of the lower Congo. Whilst
 Portugal succeeded in obtaining the southern bank of the river to the

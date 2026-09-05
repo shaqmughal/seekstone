@@ -3,7 +3,7 @@
 BOVIANUM, the name of two ancient Italian towns, (1) UNDECIMANORUM
 [_Boiano_], the chief city of the Pentri Samnites, 9 m. N.W. of Saepinum
 and 18 m. S.E. of Aesernia, on the important road from Beneventum to
-Corfinium, which connected the Via Appia and the Via Valeria. The
+[[Corfinium]], which connected the Via Appia and the Via Valeria. The
 original city occupied the height (Civita) above the modern town, where
 remains of Cyclopean walls still exist, while the Roman town (probably
 founded after the Social War, in which Bovianum was the seat of the
@@ -12,7 +12,7 @@ when Vespasian settled the veterans of the Legio XI. Claudia there. Its
 remains have been covered by over 30 ft. of earth washed down from the
 mountains. Comparatively few inscriptions have been discovered. (2)
 VETUS (near Pietrabbondante, 5 m. S. of Agnone and 19 m. N.W. of
-Campobasso), according to Th. Mommsen (_Corpus Inscrip. Lat._ ix.
+[[Campobasso]]), according to Th. Mommsen (_Corpus Inscrip. Lat._ ix.
 Berlin, 1883, p. 257) the chief town of the Caraceni. It lay in a remote
 situation among the mountains, and where Bovianum is mentioned the
 reference is generally to Bovianum Undecimanorum. Remains of

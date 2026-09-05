@@ -1,12 +1,12 @@
 # Hausmann
 
-HAUSMANN, JOHANN FRIEDRICH LUDWIG (1782-1859), German mineralogist, was
-born at Hanover on the 22nd of February 1782. He was educated at
+HAUSMANN, JOHANN [[Friedrich|FRIEDRICH]] LUDWIG (1782-1859), German mineralogist, was
+born at [[Hanover]] on the 22nd of February 1782. He was educated at
 Gottingen, where he obtained the degree of Ph.D. After making a
 geological tour in Denmark, Norway and Sweden in 1807, he was two years
 later placed at the head of a government mining establishment in
 Westphalia, and he established a school of mines at Clausthal in the
-Harz mountains. In 1811 he was appointed professor of technology and
+[[Harz Mountains|Harz mountains]]. In 1811 he was appointed professor of technology and
 mining, and afterwards of geology and mineralogy in the university of
 Gottingen, and this chair he occupied until a short time before his
 death. He was also for many years secretary of the Royal Academy of

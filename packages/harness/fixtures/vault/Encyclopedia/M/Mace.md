@@ -1,7 +1,7 @@
 # Mace
 
 MACE (Fr. _masse_, O. Fr. _mace_, connected with Lat. _mateola_, a
-mallet), originally a weapon of offence, made of iron, steel or latten,
+[[Mallet|mallet]]), originally a weapon of offence, made of iron, steel or [[Latten|latten]],
 capable of breaking through the strongest armour.[1] The earliest
 _ceremonial_ maces, as they afterwards became, though at first intended
 to protect the king's person, were those borne by the serjeants-at-arms,
@@ -15,9 +15,9 @@ infringement of one of the privileges of the king's serjeants, who,
 according to the Commons' petition in 1344, were alone deemed worthy of
 having maces enriched with costly metals. This privilege was, however,
 granted to the serjeants of London, and later to those of York (in
-1396), Norwich (in 1403/4) and Chester (in 1506). Maces covered with
+1396), Norwich (in 1403/4) and [[Chester]] (in 1506). Maces covered with
 silver are known to have been used at Exeter in 1387/8; two were bought
-at Norwich in 1435, and others for Launceston in 1467/8. Several other
+at Norwich in 1435, and others for [[Launceston]] in 1467/8. Several other
 cities and towns had silver maces in the next century, and in the 16th
 they were almost universally used. Early in the 15th century the flanged
 end of the mace, i.e. the head of the war mace, was borne uppermost, and
@@ -42,9 +42,9 @@ or, in rarer instances, on a knob on the shaft. The silver mace-heads
 were mostly plain, with a cresting of leaves or flowers in the 15th and
 16th centuries. In the reign of James I. they began to be engraved and
 decorated with heraldic devices, &c. As the custom of having serjeants'
-maces ceased (about 1650), the large maces, borne before the mayor or
+maces ceased (about 1650), the large maces, borne before the [[Mayor|mayor]] or
 bailiffs, came into general use. Thomas Maundy was the chief maker of
-maces during the Commonwealth. He made the mace for the House of Commons
+maces during the [[Commonwealth]]. He made the mace for the House of Commons
 in 1649, which is the one at present in use there, though without the
 original head with the non-regal symbols, the latter having been
 replaced by one with regal symbols at the Restoration. There are two
@@ -52,7 +52,7 @@ maces in the House of Lords, the earliest dating from the reign of
 William III. The dates of the eight large and massive silver-gilt maces
 of the serjeants-at-arms, kept in the jewel-house at the Tower of
 London, are as follows: two of Charles II., two of James II., three of
-William and Mary, and one of Queen Anne (the cypher of George I. was
+William and Mary, and one of Queen [[Anne]] (the cypher of George I. was
 subsequently added to the latter). All the foregoing are of the type
 which was almost universally adopted, with slight differences, at the
 Restoration. The civic maces of the 18th century follow this type, with
@@ -93,21 +93,21 @@ made by Robert Goble of Cork in 1696 for the associated gilds, of which
 he had been master, is in the Victoria and Albert Museum, where there is
 also a large silver mace of the middle of the 18th century, with the
 arms of Pope Benedict XIV., which is said to have been used at the
-coronation of Napoleon as king of Italy at Milan in 1805.
+[[Coronation|coronation]] of Napoleon as king of Italy at Milan in 1805.
 
   BIBLIOGRAPHY.--Jewitt and Hope, _Corporation Plate and Insignia of
   Office_, &c. (2 vols., 1895); J. R. Garstin, _Irish State and Civic
   Maces_, &c. (1898); J. Paton, _Scottish History and Life_ (1902); J.
-  H. Buck, _Old Plate_ (1903), pp. 124-140; Cripps, _Old English Plate_
+  H. [[Buck]], _Old Plate_ (1903), pp. 124-140; Cripps, _Old English Plate_
   (9th ed., 1906), pp. 394-404; E. Alfred Jones, _Old Plate at the Tower
-  of London_ (1908); ed., "Some Historic Silver Maces," _Burlington
+  of London_ (1908); ed., "Some Historic Silver Maces," _[[Burlington]]
   Magazine_ (Dec. 1908).     (E. A. J.)
 
 
 FOOTNOTE:
 
   [1] The mace was carried in battle by medieval bishops (Odo of Bayeux
-    is represented on the Bayeux tapestry as wielding one) instead of the
+    is represented on the [[Bayeux Tapestry|Bayeux tapestry]] as wielding one) instead of the
     sword, so as to conform to the canonical rule which forbade priests
     to shed blood.--[ED.]
 

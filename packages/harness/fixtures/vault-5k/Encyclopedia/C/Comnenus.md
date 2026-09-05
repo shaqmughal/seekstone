@@ -4,9 +4,9 @@ COMNENUS, the name of a Byzantine family which from 1081 to 1185
 occupied the throne of Constantinople. It claimed a Roman origin, but
 its earliest representatives appear as landed proprietors in the
 district of Castamon (mod. _Kastamuni_) in Paphlagonia. Its first member
-known in Byzantine history is Manuel Eroticus Comnenus, an able general
+known in Byzantine history is [[Manuel]] Eroticus Comnenus, an able general
 who rendered great services to Basil II. (976-1025) in the East. At his
-death he left his two sons Isaac and John in the care of Basil, who gave
+death he left his two sons [[Isaac]] and John in the care of Basil, who gave
 them a careful education and advanced them to high official positions.
 The increasing unpopularity of the Macedonian dynasty culminated in a
 revolt of the nobles and the soldiery of Asia against its feeble

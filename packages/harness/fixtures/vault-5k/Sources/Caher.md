@@ -12,7 +12,7 @@ from very early times. Here was a fortress-palace of Munster, originally
 called _Dun-iasgach_, the suffix signifying "abounding in fish." The
 present castle dates from 1142, being built by O'Connor, lord of Thomond,
 and is well restored. It was besieged during the wars of 1599 and 1647, and
-by Cromwell. Among the fine environs of the town the demesne of Caher Park
+by [[Cromwell]]. Among the fine environs of the town the demesne of Caher Park
 is especially noteworthy. The Mitchelstown stalactite caverns, 10 m. S.W.,
 and the finely-placed Norman castle of Ardfinnan, on a precipitous crag 6
 m. down the Suir, are other neighbouring features of interest, while the

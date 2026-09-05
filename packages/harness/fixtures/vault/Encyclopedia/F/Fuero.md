@@ -1,11 +1,11 @@
 # Fuero
 
-FUERO, a Spanish term, derived from the Latin _forum_. The Castillan use
+FUERO, a Spanish term, derived from the Latin _[[Forum|forum]]_. The Castillan use
 of the word in the sense of a right, privilege or charter is most
 probably to be traced to the Roman _conventus juridici_, otherwise known
 as _jurisdictiones_ or _fora_, which in Pliny's time were already
 numerous in the Iberian peninsula. In each of these provincial _fora_
-the Roman magistrate, as is well known, was accustomed to pay all
+the Roman [[Magistrate|magistrate]], as is well known, was accustomed to pay all
 possible deference to the previously established common law of the
 district; and it was the privilege of every free subject to demand that
 he should be judged in accordance with the customs and usages of his
@@ -15,8 +15,8 @@ indeed, demonstrable, but there are many presumptions, besides some
 fragments of direct evidence, which make it more than probable that the
 old administrative arrangements both of the provinces and of the towns,
 but especially of the latter, remained practically undisturbed at the
-period of the Gothic occupation of Spain.[1] The Theodosian Code and the
-Breviary of Alaric alike seem to imply a continuance of the municipal
+period of the [[Gothic]] occupation of Spain.[1] The Theodosian [[Code]] and the
+[[Breviary Of Alaric|Breviary of Alaric]] alike seem to imply a continuance of the municipal
 system which had been established by the Romans; nor does the later Lex
 Visigothorum, though avowedly designed in some points to supersede the
 Roman law, appear to have contemplated any marked interference with the
@@ -34,7 +34,7 @@ events when the word _forum_[3] begins to appear for the first time in
 documents of the 10th century in the sense of a liberty or privilege,
 it is generally implied that the thing so named is nothing new. The
 earliest extant written fuero is probably that which was granted to the
-province and town of Leon by Alphonso V. in 1020. It emanated from the
+province and town of [[Leon]] by Alphonso V. in 1020. It emanated from the
 king in a general council of the kingdom of Leon and Castile, and
 consisted of two separate parts; in the first 19 chapters were contained
 a series of statutes which were to be valid for the kingdom at large,
@@ -45,7 +45,7 @@ charters for towns. The "fuero general" does not profess to supersede
 the _consuetudines antiquorum jurium_ or Chindaswint's codification of
 these in the Lex Visigothorum; the "fuero municipal" is really for the
 most part but a resuscitation of usages formerly established, a
-recognition and definition of liberties and privileges that had long
+recognition and [[Definition|definition]] of liberties and privileges that had long
 before been conceded or taken for granted. The right of the burgesses to
 self-government and self-taxation is acknowledged and confirmed, they,
 on the other hand, being held bound to a constitutional obedience and
@@ -53,11 +53,11 @@ subjection to the sovereign, particularly to the payment of definite
 imperial taxes, and the rendering of a certain amount of military
 service (as the ancient municipia had been). Almost contemporaneous with
 this fuero of Leon was that granted to Najera (Naxera) by Sancho el
-Mayor of Navarre (_ob._ 1035), and confirmed, in 1076, by Alphonso
+[[Mayor]] of Navarre (_ob._ 1035), and confirmed, in 1076, by Alphonso
 VI.[5] Traces of others of perhaps even an earlier date are occasionally
 to be met with. In the fuero of Cardena, for example, granted by
-Ferdinand I. in 1039, reference is made to a previous forum Burgense
-(Burgos), which, however, has not been preserved, if, indeed, it ever
+[[Ferdinand]] I. in 1039, reference is made to a previous forum Burgense
+([[Burgos]]), which, however, has not been preserved, if, indeed, it ever
 had been reduced to writing at all. The phraseology of that of Sepulveda
 (1076) in like manner points back to an indefinitely remote
 antiquity.[6] Among the later fueros of the 11th century, the most
@@ -86,7 +86,7 @@ Spanish crown was gradually concentrated and consolidated, royal
 pragmaticas began to take the place of constitutional laws; the local
 fueros of the various districts slowly yielded before the superior force
 of imperialism; and only those of Navarre and the Basque provinces (see
-BASQUES) have had sufficient vitality to enable them to survive to
+[[Basques|BASQUES]]) have had sufficient vitality to enable them to survive to
 comparatively modern times. While actually owning the lordship of the
 Castilian crown since about the middle of the 14th century, these
 provinces rigidly insisted upon compliance with their consuetudinary
@@ -104,13 +104,13 @@ provisional government of 1868 also promised to respect them, and
 similar pledges were given by the governments which succeeded. In
 consequence, however, of the Carlist rising of 1873-1876, the Basque
 fueros were finally extinguished in 1876. The history of the _Foraes_ of
-the Portuguese towns, and of the _Fors du Bearn_, is precisely analogous
+the Portuguese towns, and of the _Fors du [[Bearn]]_, is precisely analogous
 to that of the fueros of Castile.
 
   Among the numerous works that more or less expressly deal with this
-  subject, that of Marina (_Ensayo historico-critico sobre la antigua
+  subject, that of Marina (_Ensayo historico-critico sobre la [[Antigua|antigua]]
   legislacion y principales cuerpos legales de los reynos de Leon y
-  Castilla_) still continues to hold a high place. Reference may also be
+  Castilla_) still continues to hold a [[High Place|high place]]. Reference may also be
   made to Colmeiro's _Curso de derecho politico segun la historia de
   Leon y de Castilla_ (Madrid, 1873); to Schafer's _Geschichte von
   Spanien_, ii. 418-428, iii. 293 seq.; and to Hallam's _Middle Ages_,
@@ -138,7 +138,7 @@ FOOTNOTES:
 
   [6] "Ego Aldefonsus rex et uxor mea Agnes confirmamus ad
     Septempublica suo foro quod habuit in tempore antiquo de avolo meo et
-    in tempore comitum Ferrando Gonzalez et comite Garcia Ferdinandez et
+    in tempore comitum Ferrando Gonzalez et comite [[Garcia]] Ferdinandez et
     comite Domno Santio."
 
   [7] This Latin is later even than that of Ferdinand, whose words are:

@@ -7,32 +7,32 @@ topic: mountains
 # Black Sea
 
 BLACK SEA (or EUXINE; anc. _Pontus Euxinus_),[1] a body of water lying
-almost entirely between the latitudes 41 deg. and 45 deg. N., but
+almost entirely between the [[Latitude|latitudes]] 41 deg. and 45 deg. N., but
 extending to about 47 deg. N. near Odessa. It is bounded N. by the
-southern coast of Russia; W. by Rumania, Turkey and Bulgaria; S. and E.
+southern coast of Russia; W. by Rumania, Turkey and [[Bulgaria]]; S. and E.
 by Asia Minor. The northern boundary is broken at Kertch by a strait
-entering into the Sea of Azov, and at the junction of the western and
+entering into the Sea of [[Azov]], and at the junction of the western and
 southern boundary is the Bosporus, which unites the Black Sea with the
 Mediterranean through the Sea of Marmora and the Dardanelles. The
-100-fathom line is about 10 to 20 m. from the shore except in the
+100-[[Fathom|fathom]] line is about 10 to 20 m. from the shore except in the
 north-west corner between Varna and Sevastopol, where it extends 140 m.
 seawards. The greatest depth is 1030 fathoms (1227 Russian fathoms) near
 the centre, there being only one basin. The steepest incline outside 100
-fathoms is to the south-east of the Crimea and at Amastra; the incline
-to the greater depths is also steep off the Caucasus and between
-Trebizond and Batum. The conditions that prevail in the Black Sea are
+fathoms is to the south-east of the [[Crimea]] and at Amastra; the incline
+to the greater depths is also steep off the [[Caucasus]] and between
+Trebizond and [[Batum]]. The conditions that prevail in the Black Sea are
 very different from those of the Mediterranean or any other sea. The
 existence of sulphuretted hydrogen in great quantities below 100
 fathoms, the extensive chemical precipitation of calcium carbonate, the
 stagnant nature of its deep waters, and the absence of deep-sea life are
-conditions which make it impossible to discuss it along with the
+conditions which make it impossible to [[Discus|discuss]] it along with the
 physical and biological conditions of the Mediterranean proper.
 
 The depths of the Black Sea are lifeless, higher organic life not being
 known to exist below 100 fathoms. Fossiliferous remains of _Dreissena_,
 _Cardium_ and other molluscs have, however, been dredged up, which help
 to show that conditions formerly existed in the Black Sea similar to
-those that exist at the present day in the Caspian Sea. According to N.
+those that exist at the present day in the [[Caspian Sea]]. According to N.
 Andrusov, when the union of the Black Sea with the Mediterranean through
 the Bosporus took place, salt water rushed into it along the bottom of
 the Bosporus and killed the fauna of the less saline waters. This gave
@@ -59,7 +59,7 @@ The _Sea of Marmora_ may be looked upon as an arm of the Aegean Sea and
 thus part of the Mediterranean proper. Its salinity is comparable to
 that of the eastern basin of the Mediterranean, which is greater than
 that of the Black Sea, viz. 4%. Similar currents exist in the Bosporus
-to those of the Strait of Gibraltar. Water of less salinity flows
+to those of the Strait of [[Gibraltar]]. Water of less salinity flows
 outwards from the Black Sea as an upper current, and water of greater
 salinity from the Sea of Marmora flows into the Black Sea as an
 under-current. This under-current flows towards Cape Tarhangut, where it
@@ -68,7 +68,7 @@ noticed near Odessa and the north-west corner; the right branch sweeps
 past the Crimea, strikes the Caucasian shore (where it comes to the
 surface running across, but not into, the south-east corner of the Black
 Sea), and finally disperses flowing westwards along the northern coast
-of Asia Minor between Cape Jason and Sinope. This current causes a
+of Asia Minor between Cape [[Jason]] and Sinope. This current causes a
 warmer climate where it strikes. So marked is this current that it has
 to be taken into account in the navigation of the Black Sea.
 

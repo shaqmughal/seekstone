@@ -7,7 +7,7 @@ Northumberland family. He entered the army, becoming major-general in
 father as one of the members of parliament for Northumberland, which
 county he represented from 1677 to 1687. He was a strong partisan of
 King James II., and in 1685 was one of the principal supporters of the
-act of attainder against the duke of Monmouth; but he remained in
+act of [[Attainder|attainder]] against the duke of Monmouth; but he remained in
 England when William III. ascended the throne three years later. He
 began at once to plot against the new king, for which he underwent a
 short imprisonment in 1689. Renewing his plots on his release, he
@@ -29,8 +29,8 @@ wife persevered in her attempts to save his life, but her efforts were
 fruitless, and Fenwick was beheaded in London on the 28th of January
 1697, with the same formalities as were usually observed at the
 execution of a peer. By his wife, Mary (d. 1708), daughter of Charles
-Howard, 1st earl of Carlisle, he had three sons and one daughter.
-Macaulay says that "of all the Jacobites, the most desperate characters
+[[Howard]], 1st earl of Carlisle, he had three sons and one daughter.
+Macaulay says that "of all the [[Jacobites]], the most desperate characters
 not excepted, he (Fenwick) was the only one for whom William felt an
 intense personal aversion"; and it is interesting to note that Fenwick's
 hatred of the king is said to date from the time when he was serving in

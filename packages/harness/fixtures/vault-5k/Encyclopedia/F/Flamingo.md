@@ -15,13 +15,13 @@ the Mediterranean Sea. Flamingos have a very wide distribution, and the
 sole genus comprises only a few species. _Ph. roseus_ or _antiquorum_,
 white, with a rosy tinge above, and with scarlet wing-coverts, while the
 remiges are black (as in all species), ranges from the Cape Verde
-Islands to India and Ceylon, north as far as Lake Baikal; southwards
-through Africa and Madagascar, eventually as _P. minor_. _P. ruber_,
+Islands to India and Ceylon, north as far as Lake [[Baikal]]; southwards
+through Africa and [[Madagascar]], eventually as _P. minor_. _P. ruber_,
 entirely light vermilion, extends from Florida to Para and the
 Galapagos; _P. chilensis_ s. _ignipalliatus_, from Peru to Patagonia,
 more resembles the classical species; while _P. andinus_, the tallest of
 all, which lacks the hallux, inhabits the salt lakes of the elevated
-desert of Atacama, whence it extends into Chile and Argentina. Fossil
+[[Desert|desert]] of Atacama, whence it extends into [[Chile]] and Argentina. Fossil
 remains of flamingos have been described from the Lower Miocene of
 France as _P. croizeti_, and from the Pliocene of Oregon. From the
 Mid-Miocene to the Oligocene of France are known several species of
@@ -62,9 +62,9 @@ position.
 
 The nest is likewise peculiar. It is built of mud, a somewhat conical
 structure rising above the water according to the depth, of which the
-cone is from a few inches to 2 ft. in height. If, as often happens, the
+cone is from a few [[Inch|inches]] to 2 ft. in height. If, as often happens, the
 water-level sinks, the nests stand out higher. On the top is a shallow
-cup for the reception of the one or two eggs, which have a bluish-white
+cup for the reception of the one or two [[Egg|eggs]], which have a bluish-white
 shell with chalky incrustation. Of course the hen sits with her legs
 doubled up under her, as does any other long-legged bird. It seems
 strange that many ornithologists should have given credence to W.
@@ -75,10 +75,10 @@ by it with their legs on the ground and in the water, resting themselves
 against the hillock, and covering the hollow nest upon it with their
 rumps," &c. P.S. Pallas (_Zoograph. Rosso-Asiatica_, ii. p. 208) tried
 to improve upon this by stating that the standing bird leans upon the
-nest with its breast! The young, which are hatched after about four
+nest with its [[Breast|breast]]! The young, which are hatched after about four
 weeks' incubation, look very different from the adult. The small bill is
 still quite straight and the legs are short. The whole body is covered
-with a thick coat of short nestling feathers, pure white in colour.
+with a thick coat of short nestling [[Feather|feathers]], pure white in colour.
 These _neossoptiles_ or first feathers bear no resemblance to those of
 the Anseriform birds, but agree in detail with those of spoonbills, the
 young of which the little flamingos resemble to a striking extent, but

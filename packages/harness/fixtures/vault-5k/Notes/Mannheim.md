@@ -3,7 +3,7 @@
 MANNHEIM, a town of Germany, in the grand-duchy of Baden, lying on the
 right bank of the Rhine, at its confluence with the Neckar, 39 m. by
 rail N. of Karlsruhe, 10 m. W. of Heidelberg and 55 m. S. of
-Frankfort-on-Main. Pop. (1900), 141,131; (1905), 162,607 (of whom about
+[[Frankfort-On-Main|Frankfort-on-Main]]. Pop. (1900), 141,131; (1905), 162,607 (of whom about
 70,000 are Roman Catholics and 6000 Jews). It is perhaps the most
 regularly built town in Germany, consisting of twelve parallel streets
 intersected at right angles by others, which cut it up into 136 square
@@ -24,7 +24,7 @@ covering an area of 15 acres, and having a frontage of about 600 yards.
 It has 1500 windows. The left wing was totally destroyed by the
 bombardment of 1795, but has since been restored. The palace contains a
 picture gallery and collections of natural history and antiquities, and
-in front of it are two monumental fountains and a monument to the
+in front of it are two monumental [[Fountain|fountains]] and a monument to the
 emperor William I. The large and beautiful gardens at the back form the
 public park of the town. Among the other prominent buildings arc the
 theatre, the arsenal, the synagogue, the "Kaufhaus," the town-hall
@@ -44,9 +44,9 @@ petroleum, timber, sugar and tobacco, with a large trade in hops, wine
 and other south German produce. Owing to the rapid increase in the
 traffic, a new harbour at the mouth of the Neckar was opened in 1898.
 The industries are equal in importance to the transit trade, and embrace
-metal-working, iron-founding and machine building, the manufacture of
+metal-working, iron-founding and [[Machine|machine]] building, the manufacture of
 electric plant, celluloid, automobiles, furniture, cables and chemicals,
-sugar refining, cigar and tobacco making, and brewing.
+sugar refining, [[Cigar|cigar]] and tobacco making, and brewing.
 
 Mannheim is the seat of the central board for the navigation of the
 Rhine, of a high court of justice, and of the grand ducal commissioner

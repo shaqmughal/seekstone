@@ -26,7 +26,7 @@ B, C is D. The second statement (the "consequent") is restricted or
 qualified by the first (the "antecedent"). By some logicians these
 propositions are classified as (1) Hypothetical, and (2) Disjunctive,
 and their function in syllogistic reasoning gives rise to the following
-classification of conditional arguments:--(a) Constructive hypothetical
+[[Classification|classification]] of conditional arguments:--(a) Constructive hypothetical
 syllogism (_modus ponens_, "affirmative mood"): If A is B, C is D; but A
 is B; therefore C is D. (b) Destructive hypothetical syllogism (_modus
 tollens_, mood which "removes," i.e. the consequent): if A is B, C is D;
@@ -36,7 +36,7 @@ become fallacious. A second class of conditional arguments are
 disjunctive syllogisms consisting of (c) the _modus ponendo tollens_: A
 is either B or C; but A is B; therefore C is not D; and (d) _modus
 tollendo ponens_: A is either B or C; A is not B; therefore A is C. A
-more complicated conditional argument is the dilemma (q.v.).[1]
+more complicated conditional argument is the [[Dilemma|dilemma]] (q.v.).[1]
 
 The limiting or restrictive significance of "condition" has led to its
 use in metaphysical theory in contradistinction to the conception of
@@ -67,7 +67,7 @@ or stipulation that the estate or obligation will depend upon the
 happening of the event. A condition may be of several kinds: (1) a
 condition _precedent_, where, for example, an estate is granted to one
 for life upon condition that, if the grantee pay the grantor a certain
-sum on such a day, he shall have the fee simple; (2) a condition
+sum on such a day, he shall have the [[Fee|fee]] simple; (2) a condition
 _subsequent_, where, for example, an estate is granted in fee upon
 condition that the grantee shall pay a certain sum on a certain day, or
 that his estate shall cease. Thus a condition precedent gets or gains,
@@ -75,7 +75,7 @@ while a condition subsequent keeps and continues. A condition may also
 be _affirmative_, that is, the doing of an act; _negative_, the not
 doing of an act; _restrictive, compulsory_, &c. The word is also used
 adjectivally in the sense set out above, as in the phrases "conditional
-legacy," "conditional limitation," "conditional promise," &c.; that is,
+[[Legacy|legacy]]," "conditional limitation," "conditional promise," &c.; that is,
 the legacy, the limitation, the promise is to take effect only upon the
 happening of a certain event.
 

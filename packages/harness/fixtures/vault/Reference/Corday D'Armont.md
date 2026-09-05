@@ -1,7 +1,7 @@
 # Corday D'Armont
 
-CORDAY D'ARMONT, MARIE ANNE CHARLOTTE (1768-1793), French revolutionary
-heroine, the murderess of Marat, born at St Saturnin des Lignerets, near
+CORDAY D'ARMONT, MARIE [[Anne|ANNE]] [[Charlotte|CHARLOTTE]] (1768-1793), French revolutionary
+heroine, the murderess of [[Marat]], born at St Saturnin des Lignerets, near
 Séez in Normandy, was descended from a noble but poor family, and
 numbered among her ancestors the dramatist Corneille. Charlotte Corday
 was educated in the convent of the Holy Trinity at Caen, and then sent
@@ -52,30 +52,30 @@ Charlotte's own confession. She spoke to Marat of what was passing at
 Caen, and his only comment on her narrative was that all the men she had
 mentioned should be guillotined in a few days. As he spoke she drew from
 her bosom a dinner-knife (which she had bought the day before for two
-francs) and plunged it into his left side. It pierced the lung and the
+[[Franc|francs]]) and plunged it into his left side. It pierced the [[Lung|lung]] and the
 aorta. He cried out, "_À moi, ma chère amie!_" and expired. Two women
-rushed in, and prevented Charlotte from escaping. A crowd collected
+rushed in, and prevented Charlotte from escaping. A [[Crowd|crowd]] collected
 round the house, and it was with difficulty that she was escorted to the
 prison of the Abbaye. On being brought before the Revolutionary Tribunal
 she gloried in her act, and when the indictment against her was read,
 and the president asked her what she had to say in reply, her answer
-was, "Nothing, except that I have succeeded." Her advocate, Claude
-François Chauveau Lagarde, put forward in vain the plea of insanity. She
+was, "Nothing, except that I have succeeded." Her advocate, [[Claude]]
+François Chauveau Lagarde, put forward in vain the plea of [[Insanity|insanity]]. She
 was sentenced to death, and calmly thanked her counsel for his efforts
 on her behalf, adding that the only defence worthy of her was an avowal
 of the act. She was then conducted to the Conciergerie, where at her own
 desire her portrait (now in the museum of Versailles) was painted by the
-artist Jean Jacques Hauer. She preserved her perfect calmness to the
-last. When she saw the guillotine, she placed herself in position under
-the fatal blade without assistance from any one. The knife fell, and one
+artist Jean Jacques [[Hauer]]. She preserved her perfect calmness to the
+last. When she saw the [[Guillotine|guillotine]], she placed herself in position under
+the fatal blade without assistance from any one. The [[Knife|knife]] fell, and one
 of the executioners held up her head by the hair, and had the brutality
 to strike it with his fist. Many believed they saw the dead face
 blush,--probably an effect of the red stormy sunset. It was the 17th of
 July 1793. It is difficult to analyse the character of Charlotte Corday;
 but there was in it much that was noble and exalted. Her mind had been
-formed by her studies on a pagan type. To C. J. M. Barbaroux and the
+formed by her studies on a pagan type. To C. J. M. [[Barbaroux]] and the
 Girondins of Caen she wrote from her prison, anticipating happiness
-"with Brutus in the Elysian Fields" after her death, and with this
+"with Brutus in the Elysian [[Fields]]" after her death, and with this
 letter she sent a simple loving farewell to her father, revealing a
 tender side to her character that otherwise we would hardly have looked
 for in such a woman. Lamartine called her _l'ange de l'assassinat_, and
@@ -83,16 +83,16 @@ Vergniaud said, "_Elle nous perd, mais elle nous apprend à mourir._"
 
   See _OEuvres politiques de Charlotte Corday_ (Caen, 1863; some letters
   and an _Adresse aux Français amis des lois el de la paix_), with a
-  supplement printed in the same year; Louvet de Couvrai, _Mémoires_
+  supplement printed in the same year; [[Louvet]] de Couvrai, _Mémoires_
   (ed. Aulard, Paris, 1889); Alphonse Esquiros, _Charlotte Corday_ (2nd
   ed., 2 vols., Paris, 1841); Cheron de Villiers, _Marie Anne Charlotte
   Corday_ (Paris, 1865); Casimir Périer, "La Jeunesse de Charlotte
   Corday" (_Revue des deux mondes_, 1862); C. Vatel, _Dossiers du procès
-  criminel de Charlotte de Corday ... extraits des archives impériales_
+  criminel de Charlotte de Corday ... extraits des [[Archive|archives]] impériales_
   (Paris, 1861), and _Dossier historique de Charlotte Corday_ (Paris,
-  1872); Austin Dobson, _Four Frenchwomen_ (London, 1890); A. Ducos,
+  1872); Austin [[Dobson]], _Four Frenchwomen_ (London, 1890); A. [[Ducos]],
   _Les Trois Girondines, Mme Roland, Charlotte Corday ..._ (Paris,
-  1896); Dr Cabanès, "La vraie Charlotte Corday," in _Le Cabinet secret
+  1896); Dr Cabanès, "La vraie Charlotte Corday," in _Le [[Cabinet]] secret
   de l'histoire_ (4 vols., 1897-1900). Her tragic history was the
   subject of two anonymous tragedies, _Charlotte Corday_ (1795), said to
   be by the Conventional F. J. Gamon, and _Charlotte Corday_ (Caen,

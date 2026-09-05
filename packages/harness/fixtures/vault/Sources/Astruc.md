@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Astruc"
 # Astruc
 
 ASTRUC, JEAN (1684-1766), French physician and Biblical critic, was born
-on the 19th of March 1684 at Sauve, in Languedoc. He graduated in
+on the 19th of March 1684 at Sauve, in [[Languedoc]]. He graduated in
 medicine at Montpellier in 1703, and in 1710 he was appointed to the
 chair of anatomy at Toulouse, which he retained till 1717, when he
 became professor of medicine at Montpellier. Subsequently he was
@@ -20,8 +20,8 @@ is the treatise entitled _De Morbis Venereis libri sex_, 1736. In
 addition to other medical works he published anonymously _Conjectures
 sur les memoires originaux dont il parait que Moyse s'est servi pour
 composer le livre de la Genese_, (1753), in which he pointed out that
-two main sources can be traced in the book of Genesis; and two
-dissertations on the immateriality and immortality of the soul, 1755.
+two main sources can be traced in the book of [[Genesis]]; and two
+dissertations on the immateriality and [[Immortality|immortality]] of the soul, 1755.
 
   See Hauck, _Realencyk. f. prot. Theol._, 1897, vol. ii. pp. 162-170.
 

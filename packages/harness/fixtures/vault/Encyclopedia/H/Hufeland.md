@@ -3,7 +3,7 @@
 HUFELAND, GOTTLIEB (1760-1817), German economist and jurist, was born at
 Dantzig on the 19th of October 1760. He was educated at the gymnasium of
 his native town, and completed his university studies at Leipzig and
-Gottingen. He graduated at Jena, and in 1788 was there appointed to an
+Gottingen. He graduated at [[Jena]], and in 1788 was there appointed to an
 extraordinary professorship. Five years later he was made ordinary
 professor. His lectures on natural law, in which he developed with great
 acuteness and skill the formal principles of the Kantian theory of
@@ -11,10 +11,10 @@ legislation, attracted a large audience, and contributed to raise to its
 height the fame of the university of Jena, then unusually rich in able
 teachers. In 1803, after the secession of many of his colleagues from
 Jena, Hufeland accepted a call to Wurzburg, from which, after but a
-brief tenure of a professorial chair, he proceeded to Landshut. From
+brief tenure of a professorial chair, he proceeded to [[Landshut]]. From
 1808 to 1812 he acted as burgomaster in his native town of Dantzig.
 Returning to Landshut, he lived there till 1816, when he was invited to
-Halle, where he died on the 25th of February 1817.
+[[Halle]], where he died on the 25th of February 1817.
 
   Hufeland's works on the theory of legislation--_Versuch uber den
   Grundsatz Naturrechts_ (1785); _Lehrbuch des Naturrechts_ (1790);

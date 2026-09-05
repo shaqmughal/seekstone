@@ -11,7 +11,7 @@ envy, but implies a feeling of personal claim which in envy or
 covetousness is wanting. The jealousy of God, as in Exod. xx. 5, "For I,
 the Lord thy God, am a jealous God," has been defined by Pusey (_Minor
 Prophets_, 1860) as the attribute "whereby he does not endure the love
-of his creatures to be transferred from him." "Jealous," by etymology,
+of his creatures to be transferred from him." "Jealous," by [[Etymology|etymology]],
 is however, only another form of "zealous," and the identity is
 exemplified by such expressions as "I have been very jealous for the
 Lord God of Hosts" (1 Kings xix. 10). A kind of glass, thick, ribbed and

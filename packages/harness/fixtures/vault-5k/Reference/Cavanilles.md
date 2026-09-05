@@ -7,7 +7,7 @@ type: note
 
 # Cavanilles
 
-CAVANILLES, ANTONIO JOSE (1745-1804), Spanish botanist, was born at
+CAVANILLES, [[Antonio|ANTONIO]] JOSE (1745-1804), Spanish botanist, was born at
 Valencia on the 16th of January 1745. He was educated at the university
 of that town, and in 1777 went to Paris, where he resided twelve years,
 engaged in the study of botany. In 1801 he became director of the

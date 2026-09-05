@@ -17,7 +17,7 @@ assistant-adjutant-general. On the outbreak of the Civil War he was
 appointed lieutenant-colonel on the 11th of May 1861, brigadier-general of
 volunteers a few days later, and major-general of volunteers in March 1862.
 He aided efficiently in organizing the Army of the Potomac, and, at the
-instance of General McClellan, was sent, in November 1861, to Kentucky to
+instance of General McClellan, was sent, in November 1861, to [[Kentucky]] to
 succeed General William T. Sherman in command. Here he employed himself in
 the organization and training of the Army of the Ohio (subsequently of the
 Cumberland), which to the end of its career retained a standard of
@@ -26,7 +26,7 @@ Potomac. In the spring of 1862 Buell followed the retiring Confederates
 under Sidney Johnston, and appeared on the field of Shiloh (_q.v._) at the
 end of the first day's fighting. On the following day, aided by Buell's
 fresh and well-trained army, Grant carried all before him. Buell
-subsequently served under Halleck in the advance on Corinth, and in the
+subsequently served under Halleck in the advance on [[Corinth]], and in the
 autumn commanded in the campaign in Kentucky against Bragg. After a period
 of manoeuvring in which Buell scarcely held his own, this virtually ended
 in the indecisive battle of Perryville. The alleged tardiness of his

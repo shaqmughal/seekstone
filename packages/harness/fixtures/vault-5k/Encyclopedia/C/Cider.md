@@ -34,7 +34,7 @@ for its lusciousness.
 Cider used to be made in the south of Ireland, but the industry had
 almost become extinct until revived by the Department of Agriculture,
 which in 1904 erected a cider-making plant at Drogheda, Co. Louth, gave
-assistance to private firms at Dungarvan, Co. Waterford, and Fermoy, Co.
+assistance to private firms at [[Dungarvan]], Co. Waterford, and [[Fermoy]], Co.
 Cork, and provided a travelling mill and press to work in the South
 Riding of Co. Tipperary. The results have been highly satisfactory, a
 large quantity of good cider having been produced.
@@ -47,7 +47,7 @@ vintage apples and pears best suited to Herefordshire and the districts
 adjoining. The following is the list drawn up by the committee:--
 
 _Apples_.--Old Foxwhelp, Cherry Pearmain, Cowarne Red, Dymock Red,
-Eggleton Styre, Kingston Black or Black Taunton, Skyrme's Kernel,
+Eggleton Styre, [[Kingston]] Black or Black Taunton, Skyrme's Kernel,
 Spreading Redstreak, Carrion apple, Cherry Norman, Cummy Norman, Royal
 Wilding, Handsome Norman, Strawberry Norman, White Bache or Norman,
 Broad-leaved Norman, Argile Grise, Bramtôt, De Boutville, Fréquin
@@ -55,7 +55,7 @@ Audièvre, Medaille d'Or, the last five being French sorts introduced
 from Normandy about 1880, and now established in the orchards of
 Herefordshire.
 
-_Pears_.--Taynton Squash, Barland, Oldfield, Moorcroft or Malvern Hill,
+_Pears_.--Taynton Squash, Barland, Oldfield, Moorcroft or [[Malvern]] Hill,
 Red-pear, Thurston's Red, Longland, Pine pear.
 
 No equally authoritative selection has been made for the Somerset and
@@ -65,7 +65,7 @@ Fair Maid of Devon, Woodbine, Duck's Bill, Slack-my-Girdle, Bottle
 Stopper, Golden Ball, Sugar-loaf, Red Cluster, Royal Somerset and
 Cadbury (believed to be identical with the Royal Wilding of
 Herefordshire). As a rule the best cider apples are of small size.
-"Petites pommes, gros cidre," say the French.
+"Petites pommes, [[Gros|gros]] cidre," say the French.
 
 Cider and perry not being taxable liquors in England, it is impossible
 to estimate with even an approach to accuracy the amount of the annual
@@ -84,7 +84,7 @@ champagne. Although some cider is made in sixty-five departments, by far
 the largest amount comes from the provinces of Normandy and Brittany. In
 Germany cider-making is a considerable and growing industry.
 Manufactories on a small scale exist in north Germany, as at Guben and
-Grünberg, but the centre of the industry is at Frankfort-on-Main,
+Grünberg, but the centre of the industry is at [[Frankfort-On-Main|Frankfort-on-Main]],
 Sachsenhausen and the neighbourhood, where there are five large and
 twenty-five small factories employing upwards of 1000 hands. Large
 quantities of cider fruit are imported from foreign countries, as,
@@ -106,7 +106,7 @@ old-fashioned appliances of the farm by modern mills and presses capable
 of turning out large quantities of liquor. The clearing of the juice,
 too, which used to be effected by running it through bags, is in the
 factories accomplished more quickly by forcing it through layers of
-compressed cotton in a machine of German origin known as Lumley's
+compressed cotton in a [[Machine|machine]] of German origin known as Lumley's
 filter. The actual process of cider and perry making is simple, and
 resembles that of making grape wine. The fruit is ground or crushed in
 machines of various construction, the latest and most powerful being of
@@ -129,7 +129,7 @@ most are harmful.
 
 Of late years the practice has largely obtained of using preservatives
 for the purpose of checking fermentation. The principal preservatives
-employed are salicylic and boracic acids and formalin. The two former
+employed are salicylic and boracic acids and [[Formalin|formalin]]. The two former
 are ineffective except in quantities likely to prove hurtful to health,
 while formalin, in itself a powerful and deleterious drug, though it
 stops fermentation, renders the liquor cloudy and undrinkable. Other
@@ -159,7 +159,7 @@ occurrence of Asiatic cholera has ever been reported.
 
 The importance which the cider industry has of late attained in England
 has been marked by the establishment of the National Fruit and Cider
-Institute at Long Ashton near Bristol. This institute, founded in 1903
+Institute at Long Ashton near [[Bristol]]. This institute, founded in 1903
 at the instance of the Board of Agriculture, is supported by grants from
 the board, the Bath and West of England Society, the councils of the
 cider-producing counties of Hereford, Gloucester, Worcester, Monmouth,

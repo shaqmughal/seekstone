@@ -22,7 +22,7 @@ used the word, without regard to any particular age, race, locality or
 set of social institutions. Thus Palgrave[1] maintains that the colleges
 of operatives, which inscriptions prove to have existed in Britain
 during the Roman period, were practically castes, because by the
-Theodosian code the son was compelled to follow the father's employment,
+Theodosian [[Code|code]] the son was compelled to follow the father's employment,
 and marriage into a family involved adoption of the family employment.
 But these _collegia opificum_ seem to be just the forerunners of the
 voluntary associations for the regulation of industry and trade, the
@@ -58,7 +58,7 @@ and office in Peru, always descended from father to son. The division of
 castes was in this particular as precise as that which existed in
 Hindustan or Egypt." Again, Zurita[4] says that in Mexico no one could
 carry on trade except by right of inheritance, or by public permission.
-The Fiji carpenters form a separate caste, and in the Tonga Islands all
+The [[Fiji]] carpenters form a separate caste, and in the Tonga Islands all
 the trades, except tattoo-markers, barbers and club-carvers are
 hereditary,--the separate classes being named matabooles, mooas and
 tooas. Nothing is more natural than that a father should teach his son
@@ -83,12 +83,12 @@ _haravecs_, the learned men and singers.[5] In many countries political
 considerations, or distinctions of race, have prevented intermarriage
 between classes. Take, for example, the patricians and the plebeians at
 Rome, or the [Greek: Spartiatai, Lakônes] or [Greek: perioikoi], and the
-[Greek: Heilôtes] at Sparta. In Guatemala it was the law that if any
+[Greek: Heilôtes] at Sparta. In [[Guatemala]] it was the law that if any
 noble married a plebeian woman he should be degraded to the caste of
 _mazequal_, or plebeian, and be subject to the duties and services
 imposed on that class, and that the bulk of his estate should be
-sequestered to the king.[6] In Madagascar marriage is strictly forbidden
-between the four classes of Nobles, Hovas, Zarahovas and Andevos,--the
+sequestered to the king.[6] In [[Madagascar]] marriage is strictly forbidden
+between the four classes of Nobles, [[Hova|Hovas]], Zarahovas and Andevos,--the
 lowest of whom, however, are apparently mere slaves. In a sense slavery
 might be called the lowest of castes, because in most of its forms it
 does permit some small customary rights to the slave. In a sense, too,
@@ -111,7 +111,7 @@ Colebrooke, one of the highest authorities on Indian matters. Writing in
 subsistence by the exercise of his profession may follow the trade of a
 lower caste or even of a higher: "Daily observation shows even Brahmans
 exercising the menial profession of a Sudra. We are aware that every
-caste forms itself into clubs or lodges, consisting of the several
+caste forms itself into clubs or [[Lodge|lodges]], consisting of the several
 individuals of that caste residing within a small distance, and that
 these clubs or lodges govern themselves by particular rules or customs
 or by-laws. But though some restrictions and limitations, not founded on
@@ -120,10 +120,10 @@ as a general maxim that the occupation appointed for each tribe is
 entitled merely to a preference. Every profession, with few exceptions,
 is open to every description of persons; and the discouragement arising
 from religious prejudices is not greater than what exists in Great
-Britain from the effects of municipal and corporation laws. In Bengal
+Britain from the effects of municipal and corporation laws. In [[Bengal]]
 the numbers of people actually willing to apply to any particular
 occupation are sufficient for the unlimited extension of any
-manufacture." This was corroborated by Elphinstone,[8] who states that,
+manufacture." This was corroborated by [[Elphinstone]],[8] who states that,
 during a long experience of India, he never heard of a single case of
 degradation from caste; and it is illustrated by the experience of the
 Indian army, in which men of all castes unite.[9]
@@ -161,18 +161,18 @@ conduct springing from religious faith." It is not till after the whole
 human race has fallen into sin that separate social duties are assigned
 to the classes. The same hymn speaks of the evolution of qualities of
 Brahma. Sattva, or goodness, sprang from the mouth of Brahma; Rajas, or
-passion, came from his breast; Tamas, or darkness, from his thighs;
+passion, came from his [[Breast|breast]]; Tamas, or darkness, from his thighs;
 others he created from his feet. For each one of these gunas, or
 primitive differences of quality, a thousand couples, male and female,
 have been created, to which the distinct heavens, or places of
-perfection of Prajapati, Indra, Maruts and Gandharvas are assigned. To
+perfection of Prajapati, Indra, [[Maruts]] and Gandharvas are assigned. To
 the gunas are related the yugas, or ages: 1st, the Krita, or glorious
 age of truth and piety, in which apparently no distinctions, at least no
 grades of excellence were known; 2nd, the Treta, or period of knowledge;
 3rd, the Dvapara, or period of sacrifice; 4th, the Kali, or period of
 darkness. Bunsen supposes there may be an historical element in the
 legend that Pururava, a great conqueror of the Treta age, founded caste.
-The yugas are hardly periods of historical chronology, but there is no
+The yugas are hardly periods of historical [[Chronology|chronology]], but there is no
 doubt that the Vayu Purana assigns the definite origin of caste to the
 Treta period. "The perfect beings of the first age, some tranquil, some
 fiery, some active and some distressed, were again born in the Treta, as
@@ -246,7 +246,7 @@ finds that the military class properly occupy the second place. This
 arrangement he apparently contemplates as at no time either necessary or
 wholesome, and as finally destroyed by the selfish jealousies of caste,
 and by the degradations which the multiplication of trades made
-inevitable. Heeren[11] and Klaproth have contended that the division
+inevitable. Heeren[11] and [[Klaproth]] have contended that the division
 into castes is founded on an original diversity of race, and that the
 higher castes are possessed of superior beauty. The clear complexion and
 regular features of the Brahmans are said to distinguish them as
@@ -266,14 +266,14 @@ arya, which means householder, and was the original name of the largest
 caste, now called Vaisyas. The great Sanskrit scholar, Rudolf von Roth
 (1821-1895), in his _Brahma und die Brahmanan_[13] held that the Vedic
 people advanced from their home in the Punjab, drove the aborigines into
-the hills, and took possession of the country lying between the Ganges,
-the Jumna and the Vindhya range. "In this stage of complication and
+the hills, and took possession of the country lying between the [[Ganges]],
+the [[Jumna]] and the Vindhya range. "In this stage of complication and
 disturbance," he said, "power naturally fell into the hands of those who
 did not possess any direct authority," i.e. the domestic priests of the
 numerous tribal kings. The Sudras he regarded as a conquered race,
-perhaps a branch of the Aryan stock, which immigrated at an earlier
+perhaps a branch of the [[Aryan]] stock, which immigrated at an earlier
 period into India, perhaps an autochthonous Indian tribe. The latter
-hypothesis is opposed to the fact that, while the Sudra is debarred from
+[[Hypothesis|hypothesis]] is opposed to the fact that, while the Sudra is debarred from
 sharing three important Vedic sacrifices, the Bhagasata Purana expressly
 permits him to sacrifice "without _mantras_," and imposes on him duties
 with reference to Brahmans and cows which one would not expect in the
@@ -315,7 +315,7 @@ are deeply religious, and therefore naturally prepared for Purohiti or
 priest-rule. They were also passionately attached to their national
 hymns, some of which had led them to victory, while others were
 associated with the benign influences of nature. Only the priest could
-chant or teach these hymns, and it was believed that the smallest
+[[Chant|chant]] or teach these hymns, and it was believed that the smallest
 mistake in pronunciation would draw down the anger of the gods. But
 however favourable the conditions of spiritual dominion might be, it
 seems to have been by no more natural process than hard fighting that
@@ -323,7 +323,7 @@ the Brahmans finally asserted their supremacy. We are told that
 Parasurama, the great hero of the Brahmans, "cleared the earth thrice
 seven times of the Kshatriya caste, and filled with their blood the five
 large lakes of Samauta." Wheeler thinks that the substitution of
-blood-sacrifices for offerings of parched grain, clarified butter and
+blood-sacrifices for offerings of parched grain, clarified [[Butter|butter]] and
 _soma_ wine marks an adaptation by the Brahmans of the great military
 banquets to the purposes of political supremacy. It is not, therefore,
 till the Brahmanic period of Indian history, which ends with the coming
@@ -366,7 +366,7 @@ elephant; a Vaisya by his kine, grain or goods; a Sudra by all the most
 frightful penalties of perjury. The Hindu mind is fertile in oaths;
 before the caste assembly the Dhurm, or caste custom, is sometimes
 appealed to, or the feet of Brahma, or some cow or god or sacred river,
-or the bel (the sacred creeper), or the roots of the turmeric plant. The
+or the [[Bel|bel]] (the sacred creeper), or the roots of the turmeric plant. The
 castes are also distinguished by their modes of marriage. Those peculiar
 to Brahmans seem to be--1st, Brahma, when a daughter, clothed only with
 a single robe, is given to a man learned in the Veda whom her father has
@@ -432,14 +432,14 @@ army, many water-carriers, many domestic servants. And they have, like
 other castes, many subdivisions which prevent intimate association and
 intermarriage. The ideal Brahman is gone: the priest "with his hair and
 beard clipped, his passions subdued, his mantle white, his body pure,
-golden rings in his ear." But the hold which caste has on the Hindu
+golden rings in his [[Ear|ear]]." But the hold which caste has on the Hindu
 minds may, perhaps, be most clearly seen in the history of the Christian
-missions and in comparatively recent times. The Jesuits Xavier and Fra
+missions and in comparatively recent times. The [[Jesuits]] Xavier and Fra
 dei Nobili did everything but become Brahmans in order to convert the
-south of India--they put on a dress of cavy or yellow colour, they made
+south of India--they put on a [[Dress|dress]] of cavy or yellow colour, they made
 frequent ablutions, they lived on vegetables and milk, they put on their
 foreheads the sandalwood paste used by the Brahmans--and Gregory XV.
-published a bull sanctioning caste regulations in the Christian churches
+published a [[Bull|bull]] sanctioning caste regulations in the Christian churches
 of India. The Danish mission of Tranquebar, the German mission of the
 heroic Schwarz, whose headquarters were Tanjore, also permitted caste to
 be retained by their followers. Even the priests of Buddha, whose life
@@ -473,7 +473,7 @@ are performed for her; if she have a son, he is bound to maintain her.
 It is remarkable that the professional concubinage of the dancing-girl
 does not involve degradation, if it be with a person of the same caste.
 This suggests that whatever may be the function of caste, it is not a
-safe guardian of public morality. The rules as to prohibited degrees in
+safe [[Guardian|guardian]] of public morality. The rules as to prohibited degrees in
 marriage used to be very strict, but they are now relaxed. An act of
 1856 legalized remarriage by widows in all the castes, with a
 conditional forfeiture of the deceased husband's estate, unless the
@@ -500,7 +500,7 @@ of 1850, _loss_ of caste no longer affects the capacity to inherit or to
 be adopted. In cases of succession _ab intestato_ on failure of the
 preceptor, pupil, and fellow-student (heirs called by the Hindu law
 after relatives), a priest, or any Brahman, many succeed. Where a Sudra
-is the only son of a Brahman, the Sapinda, or next of kin, would take
+is the only son of a Brahman, the Sapinda, or next of [[Kin|kin]], would take
 two-thirds of the inheritance; where he is the only son of any other
 twice-born father, the Sapinda would take one-half. Possibly, the rule
 of equal division among sons of equal caste did not at first apply to
@@ -510,7 +510,7 @@ down in the judicial committee in 1869, contrary to the collected
 opinions of the Pundits of the Sudder court, that, in default of lawful
 children, the illegitimate children of the Sudra caste inherit their
 putative father's estate, and, even if there be lawful children, are
-entitled to maintenance out of the estate. It had previously been
+entitled to [[Maintenance|maintenance]] out of the estate. It had previously been
 decided by Sir Edward Ryan in 1857 that the illegitimate children of a
 Rajput, or of any other member of a superior caste, have no right of
 inheritance even under will, but a mere right to maintenance, provided
@@ -519,11 +519,11 @@ castes, though in one sense non-existent, still control Hindu
 succession.
 
 With regard to Persia the _Zend Avesta_ speaks of a fourfold division of
-the ancient inhabitants of Iran into priests, warriors, agriculturists
+the ancient inhabitants of [[Iran]] into priests, warriors, agriculturists
 and artificers; and also of a sevenfold division corresponding to the
 seven amschespands, or servants of Ormuzd. This was no invention of
 Zoroaster, but a tradition from the golden age of Jemshid or Diemschid.
-The priestly caste of Magi was divided into Herbeds or disciples, Mobeds
+The priestly caste of Magi was divided into Herbeds or [[Disciple|disciples]], Mobeds
 or masters, and Destur Mobeds or complete masters. The last-named were
 alone entitled to read the liturgies of Ormuzd; they alone predicted the
 future and carried the sacred _costi_, or girdle, _havan_, or cup, and
@@ -536,12 +536,12 @@ and Soma in the other. Haug, in his _Tract on the Origin of Brahmanism_
 Avesta_ of the followers of Ahura Mazda into Atharvas, Rathaesvas, and
 Vastrya was precisely equivalent to the three superior Indian castes. He
 also asserts that only the sons of priests (Atharvas) could become
-priests, a rule still in force among the Parsis. The Book of Daniel
+priests, a rule still in force among the Parsis. The Book of [[Daniel]]
 rather suggests that the Magi were an elective body; and as regards the
 secular classes there does not seem to be a trace of hereditary
 employment or religious subordination. There is a legend in the Dabistan
 of a great conqueror, Mahabad, who divided the Abyssinians into the
-usual four castes; and Strabo mentions a similar classification of the
+usual four castes; and Strabo mentions a similar [[Classification|classification]] of the
 Iberians into kings, priests, soldiers, husbandmen and menials.
 
 At one time it was the universal opinion that in Egypt there were at
@@ -649,7 +649,7 @@ FOOTNOTES:
     rangakh_" contained fourteen classes. The subject is treated of in
     the 1600 articles of the ninth volume of the Russian Code _Svod
     Zakonov_. The Russian Nobility, though deprived of their exemptions
-    from conscription, personal taxation and corporal punishment, still
+    from conscription, personal taxation and [[Corporal Punishment|corporal punishment]], still
     retain many advantages in the public service.
 
   [6] Juarros, _Hist. of Guatemala_, Tr. (London, 1823).
@@ -665,7 +665,7 @@ FOOTNOTES:
     the cataclysms of Nature. It provides every man with his place, his
     career, his occupation, his circle of friends. It makes him, at the
     outset, a member of a corporate body: it protects him through life
-    from the canker of social jealousy and unfulfilled aspirations; it
+    from the canker of social [[Jealousy|jealousy]] and unfulfilled aspirations; it
     ensures him companionship and a sense of community with others in
     like case with himself. The caste organization is to the Hindu his
     club, his trade union, his benefit society, his philanthropic
@@ -705,7 +705,7 @@ FOOTNOTES:
     because "the political rule of intelligence is hostile to human
     progress." The seclusion of women and the preservation of industrial
     inventions were features of caste; and the higher priests were also
-    magistrates, philosophers, artists, engineers, and physicians.
+    [[Magistrate|magistrates]], philosophers, artists, engineers, and physicians.
 
   [17] _De la religion_, ii. 8.
 
@@ -735,7 +735,7 @@ FOOTNOTES:
     sweetmeats. He has also to go through the Sashtanyam, or prostration
     of eight members, and to drink the Panchakaryam, i.e. drink of the
     five products of the cow (_Description of People of India_, Abbé J.A.
-    Dubois, Missionary in Mysore, Eng. Trans., London, 1817; edition by
+    [[Dubois]], Missionary in Mysore, Eng. Trans., London, 1817; edition by
     Pope, Madras, 1862).
 
   [19] _Manu_. x. 88-90.
@@ -746,12 +746,12 @@ FOOTNOTES:
 
   [22] Strabo, _Ind._ sec. 59.
 
-  [23] Arrian, _Indic._ c. 11, 12; Diod. Sic. ii. c. 40, 41; and Strabo
+  [23] [[Arrian]], _Indic._ c. 11, 12; Diod. Sic. ii. c. 40, 41; and Strabo
     xv. 1.
 
   [24] Irving, _Theory and Practice of Caste_ (London, 1859).
 
-  [25] _Manual of Archaeology_.
+  [25] _[[Manual]] of Archaeology_.
 
   [26] _Revue des deux mondes_, 15th September 1848.
 

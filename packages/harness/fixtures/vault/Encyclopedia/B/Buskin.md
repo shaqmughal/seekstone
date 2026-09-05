@@ -10,7 +10,7 @@ id: 42-1225
 
 BUSKIN (a word of uncertain origin, existing in many European languages, as
 Fr. _brousequin_, Ital. _borzacchino_, Dutch _brozeken_, and Span,
-_borcegui_), a half-boot or high shoe strapped under the ankle, and
+_borcegui_), a half-boot or high shoe strapped under the [[Ankle|ankle]], and
 protecting the shins; especially the thick-soled boot or _cothurnus_ in the
 ancient Athenian tragedy, used to increase the stature of the actors, as
 opposed to the _soccus_, "sock," the light shoe of comedy. The term is thus

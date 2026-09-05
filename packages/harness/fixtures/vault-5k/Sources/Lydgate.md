@@ -10,11 +10,11 @@ tags: [history, metallurgy]
 
 LYDGATE, JOHN (c. 1370-c. 1451), English poet, was born at the village
 of Lydgate, some 6 or 7 m. from Newmarket. It is, however, with the
-Benedictine abbey of Bury St Edmunds that he is chiefly associated.
+Benedictine abbey of [[Bury]] St Edmunds that he is chiefly associated.
 Probably he was educated at the school attached to the monastery, and in
 his _Testament_ he has drawn a lively picture of himself as a typical
 orchard-robbing boy, who had scant relish for matins, fought, and threw
-creed and paternoster at the cock. He was ordained sub-deacon in 1389,
+creed and paternoster at the [[Cock|cock]]. He was ordained sub-deacon in 1389,
 deacon in 1393, and priest in 1397. These dates are valuable as enabling
 us to fix approximately the date of his birth, which must have occurred
 somewhere about 1370. Lydgate passed as a portent of learning, and,
@@ -31,7 +31,7 @@ to the year 1461, but it is quite improbable that he lived many years
 after 1446, when Abbot Curteys died and John Baret, treasurer of Bury,
 signed an extant receipt for a pension which he shared with Lydgate, and
 which continued to be paid till 1449. If it be true, as Bishop Alcock of
-Ely affirms, that Lydgate wrote a poem on the loss of France and
+[[Ely]] affirms, that Lydgate wrote a poem on the loss of France and
 Gascony, it seems necessary to suppose that he lived two years longer,
 and thus indications point to the year 1451, or thereabouts, as the date
 of his death.
@@ -62,7 +62,7 @@ himself of the self-discipline necessary to perfection of form. As the
 result the bulk of his composition is wholly or comparatively
 rough-hewn. That he was capable of better work than is suggested by his
 average accomplishment is shown by two allegorical poems--the _Complaint
-of the Black Knight_ and the _Temple of Glass_ (once attributed to
+of the Black [[Knight]]_ and the _Temple of Glass_ (once attributed to
 Hawes). In these he reveals himself as a not unworthy successor of
 Chaucer, and the pity of it is that he should have squandered his powers
 in a futile attempt to create an entire literature. For a couple of
@@ -113,8 +113,8 @@ offensive lightheartedness, admits his poor craftsmanship.
   Old Philosophers_, rhymed extracts from a pseudo-Aristotelian treatise.
   Lydgate certainly possessed extraordinary versatility, which enabled
   him to turn from elaborate epics to quite popular poems like the
-  _Mumming at Hertford_, _A Ditty of Women's Horns_ and _London
-  Lickpenny_. The humour of this last is especially bright and effective,
+  _Mumming at [[Hertford]]_, _A Ditty of Women's [[Horn|Horns]]_ and _London
+  Lickpenny_. The [[Humour|humour]] of this last is especially bright and effective,
   but, unluckily for the author, the piece is believed to have been
   retouched by some other hand. The longer efforts partake of the nature
   of translations from sundry medieval compilations like those of Guido

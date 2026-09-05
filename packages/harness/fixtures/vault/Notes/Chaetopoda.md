@@ -1,11 +1,11 @@
 # Chaetopoda
 
 CHAETOPODA (Gr. [Greek: chaite], hair, [Greek: pous], foot), a
-zoological class, including the majority of the Annelida (q.v.), and
-indeed, save for the Echiuroidea (q.v.), co-extensive with that group as
-usually accepted. They are divisible into the Haplodrili (q.v.) or
+zoological class, including the majority of the [[Annelida]] (q.v.), and
+indeed, save for the [[Echiuroidea]] (q.v.), co-extensive with that group as
+usually accepted. They are divisible into the [[Haplodrili]] (q.v.) or
 Archiannelida, the Polychaeta containing the marine worms, the
-Oligochaeta or terrestrial and fresh-water annelids (see EARTHWORM), the
+Oligochaeta or terrestrial and fresh-water annelids (see [[Earthworm|EARTHWORM]]), the
 Hirudinea or leeches (see LEECH), and a small group of parasitic worms,
 the Myzostomida (q.v.).
 
@@ -25,7 +25,7 @@ affairs is derived from this. Commonly the nephridia are strictly paired
 a single pair to each segment, while the branches of the blood vascular
 system are similarly metameric. The alimentary canal is nearly always a
 straight tube running from the mouth, which is surrounded by the first
-segment of the body and overhung by the prostomium, to the anus, which
+segment of the body and overhung by the prostomium, to the [[Anu|anus]], which
 is then either surrounded by the last segment of the body or opens
 dorsally a little way in front of this.
 
@@ -76,17 +76,17 @@ cultrifera_; B, dorsal view of the same.
   only in limited tracts. They secrete a cuticle which never approaches
   in thickness the often calcified cuticle of Arthropods. Below this is
   a circular, and below that again a longitudinal, layer of muscle
-  fibres. These muscles are not striated, as they are in the Arthropoda.
+  [[Fibres|fibres]]. These muscles are not striated, as they are in the Arthropoda.
 
   _Setae_.--These chitinous, rod-like, rarely squat and then hook-like
   structures are found in the majority of the Chaetopoda, being absent
   only in certain Archiannelida, most leeches, and a very few
-  Oligochaeta. They exist in the Brachiopoda (which are probably not
+  Oligochaeta. They exist in the [[Brachiopoda]] (which are probably not
   unrelated to the Chaetopoda), but otherwise are absolutely distinctive
   of the Chaetopods. The setae are invariably formed each within an
-  epidermic cell, and they are sheathed in involutions of the epidermis.
+  epidermic cell, and they are sheathed in [[Involution|involutions]] of the epidermis.
   Their shape and size varies greatly and is often of use in
-  classification. The setae are organs of locomotion, though their large
+  [[Classification|classification]]. The setae are organs of locomotion, though their large
   size and occasionally jagged edges in some of the Polychaeta suggest
   an aggressive function. They are disposed in two groups on either
   side, corresponding in the Polychaeta to the parapodia; the two
@@ -95,7 +95,7 @@ cultrifera_; B, dorsal view of the same.
   Polychaeta the bundles of setae are so extensive that they nearly form
   a complete circle surrounding the body; and in the Oligochaet genus
   _Perichaeta_ (= _Pheretima_), and some allies, there is actually a
-  complete circle of setae in each segment broken only by minute gaps,
+  complete circle of setae in each segment broken only by minute [[Gap|gaps]],
   one dorsal, the other ventral.
 
   _Coelom_.--The Chaetopoda are characterized by a spacious coelom,
@@ -114,7 +114,7 @@ cultrifera_; B, dorsal view of the same.
   agrees with the Vertebrata. The coelom is lined throughout by cells,
   which upon the intestine become large and loaded with excretory
   granules, and are known as chloragogen cells. Several forms of cells
-  float freely in the fluid of the coelom. In another sense also the
+  [[Float|float]] freely in the fluid of the coelom. In another sense also the
   coelom is not a closed cavity, for it communicates in several ways
   with the external medium. Thus, among the Oligochaeta there are often
   a series of dorsal pores, or a single head pore, present also among
@@ -140,7 +140,7 @@ cultrifera_; B, dorsal view of the same.
   the dorsal vessel in _Dinodrilus_ and _Megascolides_ is enclosed in a
   separate coelomic chamber which may or may not communicate with the
   main coelomic cavity. To this pericardial coelom is frequently added a
-  gonocoel enclosing the gonads and the funnels of their ducts. This
+  gonocoel enclosing the gonads and the [[Funnel|funnels]] of their ducts. This
   condition is more fully dealt with below in the description of the
   Oligochaeta. The division and, indeed, partial suppression of the
   coelom culminates in the leeches, which in this, as in some other
@@ -170,7 +170,7 @@ cultrifera_; B, dorsal view of the same.
   and always consists of a system of vessels with definite walls, which
   rarely communicate with the coelom. It is in fact typically a closed
   system. The larger trunks open into each other either directly by
-  cross branches, or a capillary system is formed. There are no lacunar
+  cross branches, or a capillary system is formed. There are no [[Lacunar|lacunar]]
   blood spaces with ill-defined or absent walls except for a sinus
   surrounding the intestine, which is at least frequently present. The
   principal trunks consist of a dorsal vessel lying above the gut, and a
@@ -200,16 +200,16 @@ cultrifera_; B, dorsal view of the same.
   consists of a plasma in which float a few corpuscles. The plasma is
   coloured red by haemoglobin: it is sometimes (in _Sabella_ and a few
   other Polychaeta) green, which tint is due to another respiratory
-  pigment. The plasma may be pink (_Magelona_) or yellow (_Aphrodite_)
+  pigment. The plasma may be pink (_Magelona_) or yellow (_[[Aphrodite]]_)
   in which cases the colour is owing to another pigment. In _Aeolosoma_
   it is usually colourless. The vascular system is in the majority of
   Chaetopods a closed system. It has been asserted (and denied) that the
   cellular rod which is known as the "Heart-body" (_Herzkorper_), and is
   to be found in the dorsal vessel of many Oligochaeta and Polychaeta,
   is formed of cells which are continuous with the chloragogen cells,
-  thus implying the existence of apertures of communication with the
+  thus implying the existence of [[Aperture|apertures]] of communication with the
   coelom. The statement has been often made and denied, but it now seems
-  to have been placed on a firm basis (E.S. Goodrich), that among the
+  to have been placed on a firm basis (E.S. [[Goodrich]]), that among the
   Hirudinea the coelom, which is largely broken up into narrow tubes,
   may be confluent with the tubes of the vascular system. This state of
   affairs has no antecedent improbability about it, since in the
@@ -248,7 +248,7 @@ cultrifera_; B, dorsal view of the same.
   similar, but the wide tubes with an intercellular lumen and large
   funnels of certain Polychaeta, and (though with less assurance) the
   gonad ducts in Oligochaeta and Hirudinea. The function of nitrogenous
-  excretion was not therefore a necessary part of the view--though it
+  [[Excretion|excretion]] was not therefore a necessary part of the view--though it
   may be pointed out that there are grounds for believing that the gonad
   ducts are to some extent also organs of excretion (see below). Later,
   the investigations of E. Meyer and E.S. Goodrich, endorsed by
@@ -368,7 +368,7 @@ cultrifera_; B, dorsal view of the same.
   them of the gonads, but by actual observation of the generative
   products in transit. This form of nephridia leads to the shorter but
   essentially similar organs in the Polychaete _Sternaspis_, and to
-  those of the Echiuroidea (q.v.) and of the Gephyrea (q.v.).
+  those of the Echiuroidea (q.v.) and of the [[Gephyrea]] (q.v.).
 
   Though the paired arrangement of the nephridia is the prevalent one in
   the Chaetopoda, there are many examples, among the Oligochaeta, of
@@ -376,7 +376,7 @@ cultrifera_; B, dorsal view of the same.
   each segment of the body, which may or may not be connected among
   themselves, but have in any case separate orifices on to the exterior.
 
-  2. _Coelomoducis._--In this category are included (by Goodrich and
+  2. _Coelomoducis._--In this [[Category|category]] are included (by Goodrich and
   Lankester) the gonad ducts of the Oligochaeta, certain funnels without
   any aperture to the exterior that have been detected in _Nereis_, &c.,
   funnels with wide and short ducts attached to nephridia in other
@@ -443,7 +443,7 @@ cultrifera_; B, dorsal view of the same.
   may be pointed out that the several examples described recall a
   phenomenon which is not uncommon and is well known to anatomists. That
   is the replacement of an organ by, sometimes coupled with its partial
-  conversion into, a similar or slightly different organ performing the
+  [[Conversion|conversion]] into, a similar or slightly different organ performing the
   same or an analogous function. Thus the postcaval vein of the higher
   vertebrata is partly a new structure altogether, and is partly formed
   out of the pre-existing posterior cardinals. The more complete
@@ -469,7 +469,7 @@ cultrifera_; B, dorsal view of the same.
   fishes and probably the gonad ducts in several groups of
   invertebrates.
 
-POLYCHAETA.--This group may be thus defined and the definition
+POLYCHAETA.--This group may be thus defined and the [[Definition|definition]]
 contrasted and compared with those of the other divisions of the
 Chaetopoda. Setae always present and often very large, much varied in
 form and very numerous, borne by the dorsal and ventral parapodia (when
@@ -512,7 +512,7 @@ unrepresented. Naturally, it is among the free living forms that the
 parapodium is best developed, and least developed among the tubicolous
 Polychaeta. To each division of the parapodium belongs typically a long
 tentacle, the cirrus, which may be defective upon one or other of the
-notopodium or neuropodium, and may be developed into an arborescent gill
+notopodium or neuropodium, and may be developed into an arborescent [[Gill|gill]]
 or into a flat scale-like process, the elytron (in _Polynoe_, &c.).
 There are other gills developed in addition to those which represent the
 cirri.
@@ -556,8 +556,8 @@ cirri.
   Chaetopoda as a whole. They contrast with those of the Oligochaeta and
   Hirudinea by reason of their frequently close association with the
   gonads, the same organ sometimes serving the two functions of
-  excretion and conveyance of the ova and spermatozoa out of the body.
-  On the hypothesis that such a form as _Dinophilus_ (see Haplodrili)
+  excretion and [[Conveyance|conveyance]] of the ova and spermatozoa out of the body.
+  On the [[Hypothesis|hypothesis]] that such a form as _Dinophilus_ (see Haplodrili)
   has preserved the characters of the primitive Chaetopod more nearly
   than any existing Polychaet or Oligochaet, it is clear that the
   nephridia in the Oligochaeta have preserved the original features of
@@ -569,7 +569,7 @@ cirri.
   in the _Enchytraeidae_. The funnel, which is not large, appears to
   open, as a rule at least, into the segment in front of that which
   bears the external orifice. Quite independent of these are certain
-  large dorsally situate funnel-like folds of the coelomic epithelium,
+  large dorsally situate funnel-like [[Fold|folds]] of the coelomic epithelium,
   ciliated, but of which no duct has been discovered leading to the
   exterior. It is possible that we have here gonad ducts distinct from
   nephridia which at the time of sexual maturity do open on to the
@@ -580,7 +580,7 @@ cirri.
   characteristic of the Polychaetes as contrasted with leeches and
   Oligochaetes. Among the Terebelloidea there is a remarkable
   differentiation of the nephridia into two series. One set lies in
-  front of the diaphragm, which is the most anterior and complete
+  front of the [[Diaphragm|diaphragm]], which is the most anterior and complete
   septum, the rest having disappeared or being much less developed. The
   anterior nephridia, of which there are one to three pairs, contrast
   with the posterior series by their small funnels and large size, the
@@ -660,7 +660,7 @@ cirri.
   colony is created.
 
   Quite recently, another mode of budding has been described in
-  _Trypanosyllis gemmipara_, where a crowd of some fifty buds arising
+  _Trypanosyllis gemmipara_, where a [[Crowd|crowd]] of some fifty buds arising
   symmetrically are produced at the tail end of the worm. In some
   Syllids, such as _Pionosyllis gestans_, the ova are attached to the
   body of the parent in a regular line, and develop in situ; this
@@ -765,10 +765,10 @@ cirri.
   (1885); E.R. Lankester, Introductory Chapter in _A Treatise on
   Zoology_; E.S. Goodrich, _Quart. Journ. Mic. Sci._ (1897-1900); E.
   Meyer, _Mitth. d. zool. Stat. Neapel_ (1887, 1888), as well as
-  numerous other memoirs by the above and by J.T. Cunningham, de St
+  numerous other memoirs by the above and by J.T. [[Cunningham]], de St
   Joseph, A. Malaquin, A. Agassiz, A.T. Watson, Malmgren, Bobretsky and
-  A.F. Marion, E.A. Andrews, L.C. Cosmovici, R. Horst, W. Michaelsen, G.
-  Gilson, F. Buchanan, H. Levinsen, Joyeux-Laffuie, F.W. Gamble, &c.
+  A.F. [[Marion]], E.A. Andrews, L.C. Cosmovici, R. [[Horst]], W. Michaelsen, G.
+  Gilson, F. [[Buchanan]], H. Levinsen, Joyeux-Laffuie, F.W. Gamble, &c.
 
 OLIGOCHAETA.--As contrasted with the other subdivisions of the
 Chaetopoda, the Oligochaeta may be thus defined. Setae very rarely
@@ -791,7 +791,7 @@ segments uniting the dorsal and ventral vessels. Nephridia generally
 paired, often very numerous in each segment, in the form of long,
 much-coiled tubes with intracellular lumen. Gonads limited in number of
 pairs, testes and ovaries always present in the same individual. Special
-sacs developed from the intersegmental septa lodge the developing ova
+sacs developed from the intersegmental septa [[Lodge|lodge]] the developing ova
 and sperm. Special gonad ducts always present. Male ducts often open on
 to exterior through a terminal chamber which is variously specialized,
 and sometimes with a penis.
@@ -820,7 +820,7 @@ hinder end of body of _Urochaeta_.
 
 Generative pores usually paired, sometimes single and median.
 Spermathecae nearly always present. Alimentary canal straight, often
-with appended glands of complicated or simpler structure; no jaws. Eggs
+with appended glands of complicated or simpler structure; no jaws. [[Egg|Eggs]]
 deposited in a cocoon after copulation. Development direct. Reproduction
 by budding also occurs. Fresh-water (rarely marine) and terrestrial.
 
@@ -837,7 +837,7 @@ length.
   continuous lines completely encircling each segment of the body. This
   latter arrangement characterizes many genera of the family
   _Megascolicidae_ and one genus (_Periscolex_) of the
-  _Glossoscolicidae._ It has been shown (Bourne) that the "perichaetous"
+  _Glossoscolicidae._ It has been shown ([[Bourne]]) that the "perichaetous"
   condition is probably secondary, inasmuch as in worms which are, when
   adult, "perichaetous" the setae develop in pairs so that the embryo
   passes through a stage in which it has four bundles of setae, two to
@@ -1006,7 +1006,7 @@ length.
   segment. While the oviducts always open directly on to the exterior,
   it is the rule for the sperm ducts to open on to the exterior near to
   or through certain terminal chambers, which have been variously termed
-  atrium and prostate, or spermiducal gland. The distal extremity of
+  [[Atrium|atrium]] and prostate, or spermiducal gland. The distal extremity of
   this apparatus is sometimes eversible as a penis. Associated with
   these glands are frequently to be found bundles or pairs of long and
   variously modified setae which are termed penial setae, to distinguish
@@ -1113,7 +1113,7 @@ length.
   by Sedgwick. The chief difficulty in this scheme is offered by the
   Moniligastridae, which in some degree combine the characters of both
   the suborders, into neither of which will they fit accurately. The
-  following arrangement is a compromise:--
+  following arrangement is a [[Compromise|compromise]]:--
 
   Group I. _Aphaneura._--This group is referred by A. Sedgwick to the
   Archiannelida. It is, however, though doubtless near to the base of
@@ -1207,11 +1207,11 @@ length.
   1895), also _Quart. Journ. Micr. Sci._, 1886-1895, and _Proc. Zool.
   Soc._, 1885-1906; W.B. Benham, _Quart. Journ. Micr. Sci._, 1886-1905;
   W. Michaelsen, "Oligochaeta" in _Das Tierreich_, 1900, and _Mitth.
-  Mus._ (Hamburg, 1890-1906); A.G. Bourne, _Quart. Journ. Micr. Sci._,
+  Mus._ ([[Hamburg]], 1890-1906); A.G. Bourne, _Quart. Journ. Micr. Sci._,
   1894; H.J. Moore, _Journ. Morph._, 1895; F. Vezhdovsky, _System d.
   Oligochaeten_ (Prague, 1884), and _Entwicklungsgeschichtliche
   Untersuchungen_; and numerous papers by the above and by G. Eisen, E.
-  Perrier, D. Rosa, R. Horst, L. Cognetti, U. Pierantoni, W. Baldwin
+  Perrier, D. Rosa, R. Horst, L. Cognetti, U. Pierantoni, W. [[Baldwin]]
   Spencer, H. Ude, &c., and embryological memoirs by R.S. Bergh, E.B.
   Wilson, N. Kleinenberg, &c.
 
@@ -1254,13 +1254,13 @@ terrestrial. Parasitic or carnivorous.
   [Illustration: FIG. 14.--_Acanthobdella_, from the ventral surface,
   showing the five sets of setae (S1 to S5) and the replacing setae (Sr)
   behind them. The three pairs of pigmented spots show the position of
-  the eyes on the dorsal surface. (After Kovalevsky.)]
+  the eyes on the dorsal surface. (After [[Kovalevsky]].)]
 
   In the middle of the body, where the limits of the somites can be
   checked by a comparison with the arrangement of the nephridia and the
   gonads, and where the ganglia are quite distinct and separated by long
   connectives, each ganglion is seen to consist of six masses of cells
-  enclosed by capsules and to give off three nerves on each side. This
+  enclosed by [[Capsule|capsules]] and to give off three nerves on each side. This
   corresponds to the usual presence (in the _Rhynchobdellidae_) of three
   annuli to each segment. Anteriorly and posteriorly separate ganglia
   have fused. The brain consists not only of a group of six capsules
@@ -1409,7 +1409,7 @@ terrestrial. Parasitic or carnivorous.
   they are small rounded bodies. The two ducts continuous with the
   gonads open by a common vagina on to the exterior behind the male
   pores. This "vagina" is sometimes of exaggerated size. Thus, in
-  _Philaemon pungens_ (Lambert) it has the form of a large sac, into
+  _Philaemon pungens_ ([[Lambert]]) it has the form of a large sac, into
   which open by a single orifice the conjoined oviducts. From this
   vagina arises a narrow duct leading to the exterior. In _Ozobranchus_
   the structures in question are still more complicated. The two long
@@ -1417,7 +1417,7 @@ terrestrial. Parasitic or carnivorous.
   uniting to form the terminal canal. Into each ovarian sac behind the
   transverse junction opens a slender tube, which is greatly coiled,
   and, in its turn, opens into a spherical "spermathecal sac." From this
-  an equally slender tube proceeds, which joins its fellow of the
+  an equally slender tube proceeds, which joins its [[Fellow|fellow]] of the
   opposite side, and the two form a thick, walled tube, which opens on
   to the exterior within the bursa copulatrix through which the penis
   protrudes. These two last-mentioned types show features which can be,
@@ -1474,7 +1474,7 @@ terrestrial. Parasitic or carnivorous.
   of Oligochaetous pattern present in anterior segments. Blood red.
   _Acanthobdella_.
 
-  LITERATURE.--A.O. Kovalevsky, _Bull. Imp. Sci._ (St Petersburg,
+  LITERATURE.--A.O. Kovalevsky, _[[Bull]]. Imp. Sci._ (St Petersburg,
   November 1896) (_Acanthobdella_); A.G. Bourne, _Quart. Journ. Micr.
   Sci._, 1884; A. Oka, _Zeitschr. wiss. Zool._, 1894; E.S. Goodrich,
   _Quart. Journ. Micr. Sci._, 1899; W.E. Castle, _Bull. Mus. Comp.

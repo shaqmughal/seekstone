@@ -5,17 +5,17 @@ interests, benefits, rights, &c. The word comes through the French from
 the Late Lat. _excambium_ (see EXCAMBION). The present article deals
 with the theory and practice of exchange in monetary transactions, but
 this may conveniently be prefaced by a brief statement as to the law
-relating to the exchange of property and other matters. In English law
+relating to the exchange of property and other matters. In [[English Law|English law]]
 exchange is defined as the mutual grant of equal interests, the one in
-consideration of the other. The ancient common law conveyance had
+consideration of the other. The ancient common law [[Conveyance|conveyance]] had
 certain restrictions, e.g. identity in quantity of interest, fee-simple
 for fee-simple, &c., entry to perfect the conveyance, and an implied
 warranty of title and right of entry by either party in case of
 eviction. Such exchanges are now effected by mutual conveyances with the
-usual covenants for title. Exchanges are also frequently made by order
+usual [[Covenant|covenants]] for title. Exchanges are also frequently made by order
 of the Board of Agriculture under the Inclosure Acts, and there are also
 statutes enabling ecclesiastical corporations to exchange benefices with
-the approval of the ecclesiastical commissioners. The international
+the approval of the ecclesiastical commissioners. The [[International|international]]
 exchange of territories is effected by treaties. The exchange of
 prisoners of war is regulated by documents called "cartels" (Med. Lat.
 _cartellus_, diminutive of _carta_, paper, bill), which specify a
@@ -32,7 +32,7 @@ exchange represents four principals involved in two transactions. A and
 B are two persons residing in one place different from the domicile of C
 and D; A sells goods to C; B buys goods from D; A sells his claim on C
 to B, who remits it to D in satisfaction of his debt, and D receives the
-cash from C, so that, assuming the two transactions to be of equal
+[[Cash|cash]] from C, so that, assuming the two transactions to be of equal
 value, one piece of paper satisfies the four parties to these two
 transactions, and the trouble, expense and risk of sending money from
 both places are avoided. The piece of paper which performs the service
@@ -51,9 +51,9 @@ amounting to £100, and that B in London did not require to remit more
 than £90 to D in Edinburgh, it is evident that B in London must be
 offered some inducement to take over the whole of A's claim. B might
 give A £99:19:0, and could then, after satisfying his debt to D, have
-£10 to his credit in Edinburgh, which he could retain there at interest
+£10 to his [[Credit|credit]] in Edinburgh, which he could retain there at interest
 until he had incurred further liability to D, or he could have the
-balance of £10 returned him in coin at an expense, say, of sixpence;
+[[Balance|balance]] of £10 returned him in coin at an expense, say, of sixpence;
 this would leave B with a profit of sixpence on the transaction, and,
 assuming that these figures are reasonable, exchange on Edinburgh in
 London would be one shilling discount per £100. Supposing the
@@ -85,7 +85,7 @@ advantage of by banking experts, and, although we assume a trader
 remitting his indebtedness in coin when he is asked to pay too high a
 price for his bill of exchange, in actual affairs the banker will supply
 the cheque or bill and himself will do the professional business of
-sending away bullion. Similarly, we have represented one trader drawing
+sending away [[Bullion|bullion]]. Similarly, we have represented one trader drawing
 on another trader and selling his draft to a third trader who remits the
 draft to a fourth. In actual practice, however, No. 1 draws on No. 2 and
 disposes of his draft to a banker; No. 4 draws on No. 3 and sells his
@@ -113,7 +113,7 @@ would vary at each place according to the distance from London, the cost
 of freight, the risk involved in the transmission and the local rate of
 interest. On the continent of Europe some advance has been made in the
 direction of a universal coinage. Countries subscribing to the Latin
-Union have agreed on the franc as a common unit, and Belgium,
+Union have agreed on the [[Franc|franc]] as a common unit, and [[Belgium]],
 Switzerland, France and Italy quote exchange between themselves at a
 premium or discount. Greece, Spain and other countries are also parties
 to the arrangement, but their currencies are in a bad state, and the
@@ -266,10 +266,10 @@ in value and more onerous terms must be submitted to by the government,
 corporations and colonies, in the issue of any loans they may require.
 It will, therefore, be appreciated that, although these finance bills
 may be perfectly safe, their excessive creation is viewed with great
-disfavour, and considerable apprehension is felt when the adventures of
+disfavour, and considerable [[Apprehension|apprehension]] is felt when the adventures of
 speculators in New York make great demands for loans against stocks and
 shares, and, through the instrumentality of these finance bills, shift
-the burden on to the shoulders of the London discount market. The effect
+the [[Burden|burden]] on to the shoulders of the London discount market. The effect
 of this is to level money rates as between New York and London, and in
 the process the pressure falls on London and the relief goes to America.
 Eventually, of course, the bills must be met and funds sent for that
@@ -305,7 +305,7 @@ developing at a much greater rate than the Old World makes an important
 distinction between the financial position in New York and the financial
 position of the big capitals in Europe. There is not in America the huge
 accumulation of savings and investment money which the Old World has
-collected, so that whereas Europe helps to finance the United States,
+collected, so that whereas Europe [[Helps|helps]] to finance the United States,
 the latter country has so many home enterprises that she can spare none
 of her funds to assist Europe. It would not be possible for London to
 draw on New York such bills as we have described as finance bills, for
@@ -381,7 +381,7 @@ principal New York bankers on condition that they at once engage a
 similar amount of gold for import from abroad, which shall be turned
 over to the treasury on arrival. As these advances are made free of
 interest the effect is to adjust the limit point of 484 to about 485,
-and the United States treasury seems to have taken a leaf out of the
+and the United States treasury seems to have taken a [[Leaf|leaf]] out of the
 book of the German Reichsbank, which frequently offers similar
 facilities to gold importers and creates an artificial limit point in
 the Berlin Exchange. The Reichsbank gives credit in Berlin for gold that
@@ -400,7 +400,7 @@ gold shipped to London.
 Many of the principal banking houses in all the important capitals
 receive continually throughout the day telegraphic information of the
 tendency and movement of all the exchanges, and on the smallest margin
-of profit a large business is done in what is called arbitrage (q.v.).
+of profit a large business is done in what is called [[Arbitrage|arbitrage]] (q.v.).
 For instance, cheques or bills on London will be bought by X in Paris
 and remitted to Y in London. X will recoup himself by selling a cable
 payment on Z in New York. Z will put himself in funds to meet the cable
@@ -545,7 +545,7 @@ indicates the exchanges which are of most interest to England:--
   | Amsterdam, sight      | 12 fl. 13-1/8 c.| 12 fl. 13¼ c. |      ..       |
   | Italy, sight          |     Holiday     | 25 lire 15 c. |      ..       |
   | Madrid, sight         |        "        |   27 ps. 68   |      ..       |
-  | Lisbon, sight         |        "        |      ..       |      ..       |
+  | [[Lisbon]], sight         |        "        |      ..       |      ..       |
   | St Petersburg, 3 ms.  |    94 r. 10     |   94 r. 10    |      ..       |
   | Bombay, T.T.          |     1s. 4d.     |    1s. 4d.    |    1s. 4d.    |
   | Calcutta, T.T.        |     1s. 4d.     |    1s. 4d.    |    1s. 4d.    |
@@ -578,7 +578,7 @@ and a British trade dollar; Shanghai for the tael containing on an
 average 517½ grains of fine silver. The Straits Settlements have fixed
 their money on a gold basis at 2s. 4d. per dollar, on the lines of the
 arrangement made in India. In Japan there is a gold standard, and par of
-exchange is 2s. 0½d. for the yen. Brazil, Chile and Argentina have a
+exchange is 2s. 0½d. for the yen. Brazil, [[Chile]] and Argentina have a
 depreciated paper currency, and the last quotation of 48d. is for the
 gold dollar equal to five francs, but there is a premium on gold in the
 River Plate of 127.27½% and for the present a gold standard is
@@ -612,9 +612,9 @@ nowhere else, have made London an unrivalled financial centre, and
 consequently bills on London are an international money and the best
 medium of exchange.
 
-  AUTHORITIES.--_A B C of the Foreign Exchanges_, by George Clare;
+  AUTHORITIES.--_A B C of the Foreign Exchanges_, by George [[Clare]];
   _Foreign Exchanges_, by Goschen; _Arbitrage_, by Deutsch; _Arbitrages
-  et Parités_, by Ottomar Haupt; Swoboda, _Arbitrage_ (12th edition), by
+  et Parités_, by Ottomar [[Haupt]]; Swoboda, _Arbitrage_ (12th edition), by
   Max Fuerst.     (E. M. Ha.)
 
 
@@ -647,7 +647,7 @@ traced back to Domesday. But our earliest information about the
 exchequer itself, apart from that afforded by the pipe rolls (see
 RECORD), rests on a treatise (_Dialogus de Scaccario_) written about
 A.D. 1179 by Richard, bishop of London and treasurer of England. His
-father, Nigel, bishop of Ely, had been treasurer of Henry I., and nephew
+father, Nigel, bishop of [[Ely]], had been treasurer of Henry I., and nephew
 to that king's great financial minister Roger, bishop of Salisbury.
 Nigel is said to have reconstituted the exchequer after the troubles of
 Stephen's reign upon the model which he inherited from his uncle. The
@@ -659,7 +659,7 @@ exchequer, which was a court sitting twice a year to settle accounts and
 thus nearly related to the Curia Regis (q.v.). We dare hardly say that
 either exchequer existed in vacation; indeed the word (like the word
 "diet") seems to have been limited at first to the actual sitting of the
-king's court for financial purposes. The Michaelmas and Easter
+king's court for financial purposes. The Michaelmas and [[Easter]]
 exchequers were the sessions of this court "at the exchequer" or
 chess-board as it had previously sat "at the tallies." The constitution
 of the court was that of the normal Frankish curia. The king was the
@@ -678,7 +678,7 @@ the left of the chancellor, and thus clear of the table, since their
 services might be required elsewhere at any moment, sat the constable,
 the two chamberlains and the marshal. The constable was the chief of the
 outdoor service of the court, and was responsible for everything
-connected with the army, or with hunting and hawking. The two
+connected with the army, or with [[Hunting|hunting]] and hawking. The two
 chamberlains were the lay colleagues of the treasurer, and shared with
 him the duty of receiving and paying money, and keeping safe the seal of
 the court, and all the records and other contents of the treasury. The
@@ -723,7 +723,7 @@ were registered by the tally cutter of the chamberlains.
 In the exchequer of receipt the staff was similarly divided between the
 treasurer and chamberlains; the treasurer having a clerk who kept the
 issue and receipt rolls (the later clerk of the pells) and four tellers,
-while each of the chamberlains was represented by a knight (afterwards
+while each of the chamberlains was represented by a [[Knight|knight]] (afterwards
 the deputy chamberlains), who controlled the clerk's account by means of
 tallies, and held their lands by this serjeanty; these three had joint
 control of the treasury, and could not act independently. The other
@@ -819,7 +819,7 @@ offices had already crystallized into separate departments.
 In the meantime the increasing length and variety of accounts, as well
 as the growth of judicial business, had led to various efforts at
 reform. As early as 22 Henry II. it became necessary to remove from the
-great roll the debts which it seemed hopeless to levy, and further
+great roll the debts which it seemed hopeless to [[Levy|levy]], and further
 ordinances to the same end were made by statute in 54 Henry III. and in
 12 Edward I. By this last a special "exannual roll" was established in
 which the "desperate debts" were recorded, in order that the sheriff
@@ -914,7 +914,7 @@ documents the two accounts are consolidated into one, the balances only
 at the two banks being shown separately.
 
 Operations affecting the exchequer are regulated by the Exchequer and
-Audit Departments Act 1866. Section 10 prescribes that the gross revenue
+Audit Departments Act 1866. Section 10 prescribes that the [[Gross|gross]] revenue
 of the United Kingdom (less drawbacks and repayments, which are not
 really revenue) is payable, and must sooner or later be paid into the
 exchequer. Section 11 directs that payments should be made from the fund
@@ -1079,7 +1079,7 @@ purposes; but when the power has been created, exchequer bonds issued in
 pursuance of it are governed by general statutory provisions contained
 in the Exchequer Bills and Bonds Act 1866, and amending acts. These acts
 create machinery for the issue of exchequer bonds and for the payment of
-interest thereon, and protect them against forgery.
+interest thereon, and protect them against [[Forgery|forgery]].
 
 Some traces may be mentioned of the ancient uses of the name exchequer
 which still remain. The chancellor of the exchequer still presides at
@@ -1113,7 +1113,7 @@ the historic Parliament Square is styled "Exchequer Chambers."
   1906). For the 13th and 14th centuries H. Hall's edition of the _Red
   Book of the Exchequer_ (London, Rolls Series, 1896) is essential, as
   also the Public Record Office _List of Foreign Accounts_ (London,
-  1900). Later practice may be gathered from the similar _List and Index
+  1900). Later practice may be gathered from the similar _List and [[Index]]
   of Declared Accounts_ (London, 1893), and from such books as Sir T.
   Fanshawe's _Practice of the Exchequer Court_, written about A.D. 1600
   (London, 1658); Christopher Vernon's _The Exchequer Opened_ (London,

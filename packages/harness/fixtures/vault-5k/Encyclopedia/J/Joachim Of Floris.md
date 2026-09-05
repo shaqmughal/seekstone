@@ -2,14 +2,14 @@
 
 JOACHIM OF FLORIS (c. 1145-1202), so named from the monastery of San
 Giovanni in Fiore, of which he was abbot, Italian mystic theologian, was
-born at Celico, near Cosenza, in Calabria. He was of noble birth and was
+born at Celico, near Cosenza, in [[Calabria]]. He was of noble birth and was
 brought up at the court of Duke Roger of Apulia. At an early age he went
 to visit the holy places. After seeing his comrades decimated by the
 plague at Constantinople he resolved to change his mode of life, and, on
 his return to Italy, after a rigorous pilgrimage and a period of ascetic
-retreat, became a monk in the Cistercian abbey of Casamari. In August
+retreat, became a monk in the Cistercian abbey of [[Casamari]]. In August
 1177 we know that he was abbot of the monastery of Corazzo, near
-Martirano. In 1183 he went to the court of Pope Lucius III. at Veroli,
+Martirano. In 1183 he went to the court of Pope [[Lucius]] III. at Veroli,
 and in 1185 visited Urban III. at Verona. There is extant a letter of
 Pope Clement III., dated the 8th of June 1188, in which Clement alludes
 to two of Joachim's works, the _Concordia_ and the _Expositio in
@@ -19,7 +19,7 @@ prophetic exegesis, and, moreover, his asceticism accommodated itself
 but ill with the somewhat lax discipline of Corazzo. He accordingly
 retired into the solitudes of Pietralata, and subsequently founded with
 some companions under a rule of his own creation the abbey of San
-Giovanni in Fiore, on Monte Nero, in the _massif_ of La Sila. The pope
+Giovanni in Fiore, on Monte Nero, in the _[[Massif|massif]]_ of La Sila. The pope
 and the emperor befriended this foundation; Frederick II. and his wife
 Constance made important donations to it, and promoted the spread of
 offshoots of the parent house; while Innocent III., on the 21st of
@@ -42,15 +42,15 @@ its founder had bestowed upon it. Joachim died in 1202, probably on the
   council, though condemning the book, refrained from condemning the
   author, and approved the order of Floris. Nevertheless, the monks
   continued to be subjected to insults as followers of a heretic, until
-  they obtained from Honorius III. in 1220 a bull formally recognizing
-  Joachim as orthodox and forbidding anyone to injure his disciples.
+  they obtained from Honorius III. in 1220 a [[Bull|bull]] formally recognizing
+  Joachim as orthodox and forbidding anyone to injure his [[Disciple|disciples]].
 
   It is impossible to enumerate here all the works attributed to
   Joachim. Some served their avowed object with great success, being
   powerful instruments in the anti-papal polemic and sustaining the
   revolted Franciscans in their hope of an approaching triumph. Among
   the most widely circulated were the commentaries on Jeremiah, Isaiah
-  and Ezekiel, the _Vaticinia pontificum_ and the _De oneribus
+  and [[Ezekiel]], the _Vaticinia pontificum_ and the _De oneribus
   ecclesiae_. Of his authentic works the doctrinal essential is very
   simple. Joachim divides the history of humanity, past, present and
   future, into three periods, which, in his _Expositio in Apocalypsin_
@@ -62,9 +62,9 @@ its founder had bestowed upon it. Joachim died in 1202, probably on the
   initiation period of the third age begins with St Benedict, while the
   actual age of the Spirit is not to begin until 1260, the
   Church--_mulier amicta sole_ (Rev. xii. 1)--remaining hidden in the
-  wilderness 1260 days. We cannot here enter into the infinite details
+  wilderness 1260 days. We cannot here enter into the [[Infinite|infinite]] details
   of the other subdivisions imagined by Joachim, or into his system of
-  perpetual concordances between the New and the Old Testaments, which,
+  perpetual [[Concordance|concordances]] between the New and the Old Testaments, which,
   according to him, furnish the prefiguration of the third age. Far more
   interesting as explaining the diffusion and the religious and social
   importance of his doctrine is his conception of the second and third
@@ -113,9 +113,9 @@ its founder had bestowed upon it. Joachim died in 1202, probably on the
   aeternum_, the work of a Spiritual Franciscan, Gherardo da Borgo San
   Donnino. This book was published with, and as an introduction to, the
   three principal works of Joachim, in which the Spirituals had made
-  some interpolations.[1] Gherardo, however, did not say, as has been
+  some [[Interpolation|interpolations]].[1] Gherardo, however, did not say, as has been
   supposed, that Joachim's books were the new gospel, but merely that
-  the Calabrian abbot had supplied the key to Holy Writ, and that with
+  the Calabrian abbot had supplied the [[Key|key]] to Holy Writ, and that with
   the help of that _intelligentia mystica_ it would be possible to
   extract from the Old and New Testaments the eternal meaning, the
   gospel according to the Spirit, a gospel which would never be written;
@@ -128,7 +128,7 @@ its founder had bestowed upon it. Joachim died in 1202, probably on the
   Alexander IV., who appointed a commission to examine it; and as a
   result of this commission, which sat at Anagni, the destruction of the
   _Liber introductorius_ was ordered by a papal breve dated the 23rd of
-  October 1255. In 1260 a council held at Arles condemned Joachim's
+  October 1255. In 1260 a council held at [[Arles]] condemned Joachim's
   writings and his supporters, who were very numerous in that region.
   The Joachimite ideas were equally persistent among the Spirituals, and
   acquired new strength with the publication of the commentary on the
@@ -138,10 +138,10 @@ its founder had bestowed upon it. Joachim died in 1202, probably on the
   Gherardo da Borgo of the elect character of the Franciscan order, as
   well as extremely violent attacks on the papacy. The Joachimite
   literature is extremely vast. From the 14th century to the middle of
-  the 16th, Ubertin of Casale (in his _Arbor Vitae crucifixae_),
+  the 16th, Ubertin of Casale (in his _[[Arbor Vitae]] crucifixae_),
   Bartholomew of Pisa (author of the _Liber Conformitatum_), the
   Calabrian hermit Telesphorus, John of La Rochetaillade, Seraphin of
-  Fermo, Johannes Annius of Viterbo, Coelius Pannonius, and a host of
+  [[Fermo]], Johannes Annius of Viterbo, Coelius Pannonius, and a host of
   other writers, repeated or complicated _ad infinitum_ the exegesis of
   Abbot Joachim. A treatise entitled _De ultima aetate ecclesiae_, which
   appeared in 1356, has been attributed to Wycliffe, but is undoubtedly
@@ -151,7 +151,7 @@ its founder had bestowed upon it. Joachim died in 1202, probably on the
   were penetrated with Joachimism; while such independent spirits as
   Roger Bacon, Arnaldus de Villa Nova and Bernard Délicieux often
   comforted themselves with the thought of the era of justice and peace
-  promised by Joachim. Dante held Joachim in great reverence, and has
+  promised by Joachim. [[Dante]] held Joachim in great reverence, and has
   placed him in Paradise (_Par._, xii. 140-141).
 
   See _Acta Sanctorum, Boll._ (May), vii. 94-112; W. Preger in _Abhandl.
@@ -167,7 +167,7 @@ its founder had bestowed upon it. Joachim died in 1202, probably on the
   Inquisition of the Middle Ages_, vol. iii. ch. i. (London, 1888); F.
   Ehrle's article "Joachim" in Wetzer and Welte's _Kirchenlexikon_. On
   Joachimism see E. Gebhardt, "Recherches nouvelles sur l'histoire du
-  Joachimisme" in _Revue historique_, vol. xxxi. (1886); H. Haupt, "Zur
+  Joachimisme" in _Revue historique_, vol. xxxi. (1886); H. [[Haupt]], "Zur
   Gesch. des Joachimismus" in _Briegers Zeitschrift für Kirchengesch._,
   vol. vii. (1885).     (P. A.)
 

@@ -2,14 +2,14 @@
 
 ARCADIUS (378-408), Roman emperor, the elder son of Theodosius the
 Great, was created Augustus in 383, and succeeded his father in 395
-along with his brother Honorius. The empire was divided between them,
-Honorius governing the two western prefectures (Gaul and Italy),
+along with his brother [[Honorius]]. The empire was divided between them,
+Honorius governing the two western prefectures ([[Gaul]] and Italy),
 Arcadius the two eastern (the Orient and Illyricum). Both were feeble,
 and, in Gibbon's phrase, slumbered on their thrones, leaving the
 government to others. Arcadius submitted at first to the guidance of the
 praetorian prefect Rufinus, and, after his murder (end of 395) by the
 troops, to the counsels of the eunuch Eutropius (executed end of 399).
-His consort Eudoxia (daughter of a Frank general, Bauto), a woman of
+His consort Eudoxia (daughter of a [[Frank]] general, Bauto), a woman of
 strong will, exercised great influence over him; she died in 404. In the
 last year of his reign, Anthemius (praetorian prefect) was the chief
 adviser and support of the throne. The first years of the reign were
@@ -21,7 +21,7 @@ Constantinople, the "Roman" party led by Aurelian (son of Taurus),
 praetorian prefect, and supported by the empress and a Germanizing and
 Arianizing party led by Aurelian's brother (possibly Caesarius,
 praetorian prefect in 400). Gainas entered into a close league with the
-latter; fomented a Gothic rebellion in Phrygia; and forced the emperor
+latter; fomented a [[Gothic]] rebellion in Phrygia; and forced the emperor
 to put Eutropius to death. For some months he and the party which he
 supported were supreme in Constantinople. He was, however, finally
 forced to leave, and having plundered for some time in Thrace was
@@ -38,10 +38,10 @@ determined the subordination of the patriarch of Constantinople to the
 emperor. The rivalry of the see of Alexandria with Constantinople was
 also displayed in the contest, Theophilus, patriarch of Alexandria,
 assisting the court in bringing about the fall of Chrysostom. Throughout
-the reign of Arcadius there was estrangement and jealousy between the
+the reign of Arcadius there was estrangement and [[Jealousy|jealousy]] between the
 two brothers or their governments. The principal ground of this
 hostility was probably dissatisfaction on both sides with the
-territorial partition. The line had been drawn east of Dalmatia. The
+territorial partition. The line had been drawn east of [[Dalmatia]]. The
 ministers of Arcadius desired to annex Dalmatia to his portion, while
 the general Stilicho, who was supreme in the west, wished to wrest from
 the eastern realm the prefecture of Illyricum or a considerable part of
@@ -49,11 +49,11 @@ it. His designs were unsuccessful, and during the reign of Theodosius
 II., son of Arcadius (who died in 408), Dalmatia was transferred to the
 dominion of the eastern ruler.
 
-  AUTHORITIES.--Ancient: Fragments of Eunapius and Olympiodorus (in
+  AUTHORITIES.--Ancient: Fragments of [[Eunapius]] and Olympiodorus (in
   Muller's _Fragmenta Historicorum Graecorum_, vol. iv.); fragments of
   Philostorgius, Socrates, Sozomen, Zosimus, Synesius of Cyrene ("The
   Egyptian"), Claudian. Modern: Gibbon's _Decline and Fall_, vol. iii.,
-  ed. Bury; J.B. Bury, _Later Roman Empire_, vol. i. (1889); T. Hodgkin,
+  ed. [[Bury]]; J.B. Bury, _Later Roman Empire_, vol. i. (1889); T. Hodgkin,
   _Italy and her Invaders_, vol. i. (ed. 2, 1892); Guldenpenning,
   _Geschichte des ostromischen Reiches unter den Kaisern Arcadius und
   Theodosius II._ (1885).

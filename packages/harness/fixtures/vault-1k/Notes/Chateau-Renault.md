@@ -76,7 +76,7 @@ Chateau-Renault suffered no loss of his master's favour by his failure
 to save the treasure. The king considered him free from blame, and must
 indeed have known that the admiral had been trusted with too many
 secrets to make it safe to inflict a public rebuke. The Spanish
-government declined to give him the rank of grandee which was to have
+government declined to give him the rank of [[Grandee|grandee]] which was to have
 been the reward for bringing home the bullion safe. But in 1703 he was
 made a marshal of France, and shortly afterwards lieutenant-general of
 Brittany. The fight in Vigo Bay was the last piece of active service

@@ -14,7 +14,7 @@ origin and primitive purpose of the levirate marriage various
 explanations have been put forward:--
 
 1. It has been urged that the custom was primarily based on the law of
-inheritance; a wife, regarded as a chattel, being inherited like other
+inheritance; a wife, regarded as a [[Chattel|chattel]], being inherited like other
 possessions. The social advantage of providing one who should maintain
 the widow doubtless aided the spread of the custom. The abandonment of a
 woman and her children in the nomadic stage of civilization would be
@@ -40,24 +40,24 @@ inheritance, it would be natural for the brother to take over the widow.
 In polygamous countries where a man leaves many widows the son would
 have a right of ownership over these, and could dispose of them or keep
 them as he pleased, his own mother alone excepted. Thus among the
-Bakalai, an African tribe, widows may marry the son of their dead
-husband, or in default of a son, can live with the brother. The Negroes
-of Benin and the Gabun and the Kaffirs of Natal have similar customs. In
-New Caledonia every man, married or single, must immediately marry his
+[[Bakalai]], an African tribe, widows may marry the son of their dead
+husband, or in [[Default|default]] of a son, can live with the brother. The Negroes
+of Benin and the [[Gabun]] and the [[Kaffirs]] of Natal have similar customs. In
+New [[Caledonia]] every man, married or single, must immediately marry his
 brother's widow. In Polynesia the levirate has the force of law, and it
 is common throughout America and Asia.
 
 3. Another explanation of the custom has been sought in a semi-religious
 motive which has had extraordinary influence in countries where to die
 without issue is regarded as a terrible calamity. The fear of this
-catastrophe would readily arise among people who did not believe in
-personal immortality, and to whom the extinction of their line would be
+[[Catastrophe|catastrophe]] would readily arise among people who did not believe in
+personal [[Immortality|immortality]], and to whom the extinction of their line would be
 tantamount to annihilation. Or it is easily conceivable as a natural
 result of ancestor-worship, under which failure of offspring entailed
 deprivation of cherished rites and service.[1] Thus it is only when the
 dead man has no offspring that the Jewish, Hindu and Malagasy laws
 prescribe that the brother shall "raise up seed" to him. In this sense
-the levirate forms part of the Deuteronomic Code, under which, however,
+the levirate forms part of the Deuteronomic [[Code]], under which, however,
 the obligation is restricted to the brother who "dwelleth together"
 (i.e. on the family estate) with the dead man, and the first child only
 of the levirate marriage is regarded as that of the dead man. That the
@@ -66,7 +66,7 @@ brother who wished to evade the duty, though he had to submit to an
 insult from his sister-in-law, who draws off his sandal and spits in his
 face. The biblical story of Ruth exemplifies the custom, though with
 further modifications (see RUTH, BOOK OF). Finally the custom is
-forbidden in Leviticus, though in New Testament times the levirate law
+forbidden in [[Leviticus]], though in New Testament times the levirate law
 was still observed by some Jews. The ceremony ordained by Deuteronomy is
 still observed among the orthodox. Among the Hindus the _levir_ did not
 take his brother's widow as wife, but he had intercourse with her. This
@@ -74,7 +74,7 @@ practice was called _niyoga_.
 
 4. Yet another suggested origin of the levirate is agrarian, the motive
 being to keep together under the levirate husband the property which
-would otherwise have been divided among all the brothers or next of kin.
+would otherwise have been divided among all the brothers or next of [[Kin|kin]].
 
   See J. F. McLennan, _Studies in Ancient History_ (London, 1886) and
   "The Levirate and Polyandry," in _The Fortnightly Review_, n.s. vol.
@@ -100,16 +100,16 @@ FOOTNOTE:
 
 
 
-LÉVIS (formerly Pointe Levi), the chief town of Lévis county, Quebec,
-Canada, situated on the precipitous south bank of the St Lawrence,
+LÉVIS (formerly Pointe [[Levi]]), the chief town of Lévis county, Quebec,
+Canada, situated on the precipitous south bank of the St [[Lawrence]],
 opposite Quebec city. Pop. (1901) 7783. It is on the Intercolonial
 railway, and is the eastern terminus of the Grand Trunk and Quebec
-Central railways. It contains the Lorne dock, a Dominion government
+Central railways. It contains the Lorne [[Dock|dock]], a Dominion government
 graving dock, 445 ft. long, 100 ft. wide, with a depth on the sill of
 26½ and 20½ ft. at high water, spring and neap tides respectively. It is
 an important centre of the river trade, and is connected by steam
 ferries with the city of Quebec. It is named after the maréchal duc de
-Lévis, the last commander of the French troops in Canada.
+Lévis, the last [[Commander|commander]] of the French troops in Canada.
 
 ## References
 

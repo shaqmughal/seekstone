@@ -6,8 +6,8 @@ topic: geography
 
 # Barisal
 
-BARISAL, a town of British India, headquarters of Backergunje district in
-Eastern Bengal and Assam, situated on a river of the same name. Pop. (1901)
+BARISAL, a town of British India, headquarters of [[Backergunje]] district in
+[[Eastern Bengal And Assam|Eastern Bengal and Assam]], situated on a river of the same name. Pop. (1901)
 18,978. It is an important centre of river trade, on the steamer route
 through the Sundarbans [v.03 p.0402] from Calcutta to the Brahmaputra. It
 contains a first grade college and several schools. There are a public

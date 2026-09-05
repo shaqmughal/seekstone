@@ -1,7 +1,7 @@
 # Jason Of Cyrene
 
 JASON OF CYRENE, a Hellenistic Jew, who lived about 100 B.C. and wrote a
-history of the times of the Maccabees down to the victory over Nicanor
+history of the times of the [[Maccabees]] down to the victory over Nicanor
 (175-161 B.C.). This work is said to have been in five books and formed
 the basis of the present 2 Macc. (see ch. ii. 19-32).
 

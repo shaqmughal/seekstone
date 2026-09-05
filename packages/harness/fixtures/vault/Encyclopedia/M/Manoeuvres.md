@@ -41,15 +41,15 @@ War at Aldershot.
   Most continental armies have, since the great successes of the Germans
   in 1870, copied more or less their system of military training; hence
   it is appropriate to consider their methods first. The whole training
-  of the army is based on a yearly programme of gradual progression,
+  of the army is based on a yearly programme of [[Gradual|gradual]] progression,
   from the joining of the recruits in October to the training by squads,
-  companies, battalions and regiments, the latter finishing their field
+  companies, [[Battalion|battalions]] and regiments, the latter finishing their field
   training about the middle of August, when the manoeuvre period begins.
   First of all, the brigades go through five working days of drills on
-  flat ground, to get them under the hand of their commanders and
+  flat ground, to get them under the hand of their [[Commander|commanders]] and
   prepare them for manoeuvres. Then follow ten working days of
   manoeuvres in new and varied ground, of which four are "brigade," four
-  "divisional" and two "corps" manoeuvres, in each case the unit named
+  "divisional" and two "[[Corps|corps]]" manoeuvres, in each case the unit named
   being divided into two portions of all arms, which manoeuvre against
   one another. Each year two or more army corps carry out manoeuvres
   before the emperor, working against one another. The chief feature of
@@ -61,7 +61,7 @@ War at Aldershot.
   by the director of manoeuvres for supply. The faculty of quartering
   troops on private individuals to any extent, and the fact of the
   troops being provided with portable tent equipment, give great
-  latitude to the German leaders in their choice of quarters for troops,
+  [[Latitude|latitude]] to the German leaders in their choice of quarters for troops,
   and so increase the similitude of manoeuvres to war. The Austrian and
   Italian manoeuvres are a close copy of the German, but those of the
   French present the peculiarity of a certain amount of prearrangement,
@@ -71,12 +71,12 @@ War at Aldershot.
   of the rival leaders. But, just as in recent years in France this
   practice has been modified, so also the entire liberty given to
   commanders in the German manoeuvres in 1906-7 had to be curtailed in
-  the following years owing to the strain of forced marches which it
+  the following years owing to the strain of forced [[Marches|marches]] which it
   entailed on the troops.
 
   In Russia the climatic and social conditions, and the distribution of
   the army, necessitate a quite peculiar system. The troops leave their
-  barracks and move into standing camps, generally in May, and in these
+  [[Barracks|barracks]] and move into standing camps, generally in May, and in these
   for about three months their training up to that in battalions is
   carried out on the drill ground. Camps of mixed units are then formed
   for a month, and from them, but always over the same ground, the
@@ -84,7 +84,7 @@ War at Aldershot.
   follow the so-called mobile manoeuvres, which last for ten days or a
   fortnight. Of all European manoeuvres these are perhaps the nearest
   approach to war, for the sides start a great distance apart, and ample
-  time is allowed for cavalry reconnaissance. Besides, the Russian
+  time is allowed for [[Cavalry|cavalry]] reconnaissance. Besides, the Russian
   soldier does not require elaborate arrangements for supply; hence the
   director is not so tied down by consideration of this matter as in
   other armies. A political colour is sometimes given to such large
@@ -93,7 +93,7 @@ War at Aldershot.
 
   In England the military authorities have long been hampered in the
   organization of manoeuvres by the necessity of carrying them out on
-  very limited portions of government land or on areas lent as a favour
+  very limited portions of government land or on areas [[Lent|lent]] as a favour
   by, or hired from, private individuals. There has been no want of
   recognition by the military authorities of the necessity for, and
   value of, manoeuvres, and the training at the camps of instruction has
@@ -184,7 +184,7 @@ War at Aldershot.
   become.
 
   Finally, a word must be said as to the umpire staff, which represents
-  the bullets. The most careful selection of officers for this important
+  the [[Bullet|bullets]]. The most careful selection of officers for this important
   duty is necessary, and they must have sufficient authority and be in
   sufficient number to make their influence everywhere felt. Their
   principal object should be to come to a decision quickly, so as to
@@ -203,7 +203,7 @@ FOOTNOTES:
     upon which it is acting.
 
   [2] Manoeuvres incidentally afford an excellent opportunity of
-    testing new patterns of equipment, transport or other matériel under
+    testing new patterns of equipment, transport or other [[Mat|mat]]ériel under
     conditions approximating to those of active service.
 
 ## References

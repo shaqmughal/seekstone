@@ -2,18 +2,18 @@
 
 DORIANS, a name applied by the Greeks to one of the principal groups of
 Hellenic peoples, in contradistinction to Ionians and Aeolians. In
-Hellenic times a small district known as Doris in north Greece, between
+Hellenic times a small district known as [[Doris]] in north Greece, between
 Mount Parnassus and Mount Oeta, counted as "Dorian" in a special sense.
-Practically all Peloponnese, except Achaea and Elis, was "Dorian,"
+Practically all Peloponnese, except Achaea and [[Eli|Elis]], was "Dorian,"
 together with Megara, Aegina, Crete, Melos, Thera, the Sporades Islands
-and the S.W. coast of Asia Minor, where Rhodes, Cos, Cnidus and
-(formerly) Halicarnassus formed a "Dorian" confederacy. "Dorian"
-colonies, from Corinth, Megara, and the Dorian islands, occupied the
+and the S.W. coast of Asia Minor, where Rhodes, Cos, [[Cnidus]] and
+(formerly) [[Halicarnassus]] formed a "Dorian" confederacy. "Dorian"
+colonies, from [[Corinth]], Megara, and the Dorian islands, occupied the
 southern coasts of Sicily from Syracuse to Selinus. Dorian states
-usually had in common the "Doric" dialect, a peculiar calendar and cycle
+usually had in common the "Doric" [[Dialect|dialect]], a peculiar calendar and cycle
 of festivals of which the Hyacinthia and Carneia were the chief, and
 certain political and social institutions, such as the threefold "Dorian
-tribes." The worships of Apollo and Heracles, though not confined to
+tribes." The worships of [[Apollo]] and Heracles, though not confined to
 Dorians, were widely regarded as in some sense "Dorian" in character.
 
 But those common characters are not to be pressed too far. The northern
@@ -33,9 +33,9 @@ Olympia, Argolis and Aegina, and might thus have been regarded as
 Dorian, was conspicuously absent from the culture of Sparta.
 
 _Traditional History._--In the diagrammatic family tree of the Greek
-people, as it appears in the Hesiodic catalogue (6th century) and in
+people, as it appears in the Hesiodic [[Catalogue|catalogue]] (6th century) and in
 Hellanicus (5th century), the "sons of Hellen" are Dorus, Xuthus (father
-of Ion and Achaeus) and Aeolus. Dorus' share of the inheritance of
+of [[Ion]] and Achaeus) and Aeolus. Dorus' share of the inheritance of
 Hellen lay in central Greece, north of the Corinthian Gulf, between
 Xuthus in north Peloponnese and Aeolus in Thessaly. His descendants,
 either under Dorus or under a later king Aegimius, occupied Histiaeotis,
@@ -44,21 +44,21 @@ Dryopes the head-waters of the Boeotian Cephissus between Mount
 Parnassus and Mount Oeta. This became "Doris" _par excellence_. Services
 rendered to Aegimius by Heracles led (1) to the adoption of Hyllus, son
 of Heracles, by Aegimius, side by side with his own sons Dymas and
-Pamphylus, and to a threefold grouping of the Dorian clans, as Hylleis,
+Pamphylus, and to a threefold grouping of the Dorian [[Clan|clans]], as Hylleis,
 Dymanes and Pamphyli; (2) to the association of the people of Aegimius
 in the repeated attempts of Hyllus and his family to recover their lost
-inheritance in Peloponnese (see HERACLIDAE). The last of these attempts
+inheritance in Peloponnese (see [[Heraclidae|HERACLIDAE]]). The last of these attempts
 resulted in the "Dorian conquest" of the "Achaeans" and "Ionians" of
-Peloponnese, and in the assignment of Argolis, Laconia and Messenia to
+Peloponnese, and in the [[Assignment|assignment]] of Argolis, [[Laconia]] and Messenia to
 the Heracleid leaders, Temenus, Aristodemus and Cresphontes
 respectively; of Elis to their Aetolian allies; and of the north coast
 to the remnants of the conquered Achaeans. The conquest of Corinth and
-Megara was placed a generation later: Arcadia alone claimed to have
+Megara was placed a generation later: [[Arcadia]] alone claimed to have
 escaped invasion. This conquest was dated relatively by Thucydides (i.
 12) at eighty years after the Trojan War and twenty years after the
-conquest of Thessaly and Boeotia by the similar "invaders from Arne";
+conquest of Thessaly and [[Boeotia]] by the similar "invaders from Arne";
 absolutely by Hellanicus and his school (5th century) at 1149 B.C.; by
-Isocrates and Ephorus (4th century B.C.) at about 1070 B.C.; and by
+[[Isocrates]] and [[Ephorus]] (4th century B.C.) at about 1070 B.C.; and by
 Sosibius, Eratosthenes (3rd century), and later writers generally, at
 the generations from 1125 to 1100 B.C.
 
@@ -72,14 +72,14 @@ immediate and complete, though one legend admits the previous death of
 the Heracleid leader Aristodemus, and another describes a protracted
 struggle in the case of Corinth. Pausanias, however (following
 Sosibius), interprets a long series of conflicts in Arcadia as stages in
-a gradual advance southward, ending with the conquest of Amyclae by King
+a [[Gradual|gradual]] advance southward, ending with the conquest of Amyclae by King
 Teleclus (c. 800 B.C.) and of Helos by King Alcamenes (c. 770 B.C.).
 
 Of the invasion of Argolis a quite different version was already current
 in the 4th century. This represents the Argive Dorians as having come by
 sea (apparently from the Maliac Gulf, the nearest seashore to Parnassian
 Doris), accompanied by survivors of the Dryopes (former inhabitants of
-that Doris), whose traces in south Euboea (Styra and Carystus), in
+that Doris), whose traces in south [[Euboea]] (Styra and Carystus), in
 Cythnus, and at Eion (Halieis), Hermione and Asine in Argolis, were held
 to indicate their probable route.
 
@@ -87,21 +87,21 @@ The Homeric Dorians of Crete were also interpreted by Andron and others
 (3rd century) as an advance-guard of this sea-borne migration, and as
 having separated from the other Dorians while still in Histiaeotis. The
 5th-century tradition that the Heracleid kings of Macedon were Temenid
-exiles from Argos may belong to the same cycle.
+exiles from [[Argos]] may belong to the same cycle.
 
-The fate of the Dorian invaders was represented as differing locally. In
-Messenia (according to a legend dramatized by Euripides in the 5th
+The [[Fate|fate]] of the Dorian invaders was represented as differing locally. In
+Messenia (according to a legend dramatized by [[Euripides]] in the 5th
 century, and renovated for political ends in the 4th century) the
 descendants of Cresphontes quarrelled among themselves and were
 exterminated by the natives. In Laconia Aristodemus (or his twin sons)
 effected a rigid military occupation which eventually embraced the whole
 district, and permitted (a) the colonization of Melos, Thera and parts
-of Crete (before 800 B.C.), (b) the reconquest and annexation of
+of Crete (before 800 B.C.), (b) the reconquest and [[Annexation|annexation]] of
 Messenia (about 750 B.C.), (c) a settlement of half-breed Spartans at
 Tarentum in south Italy, 700 B.C. In Argos and other cities of Argolis
 the descendants of the Achaean chiefs were taken into political
 partnership, but a tradition of race-feud lasted till historic times.
-Corinth, Sicyon and Megara, with similar political compromises, mark the
+Corinth, Sicyon and Megara, with similar political [[Compromise|compromises]], mark the
 limits of Dorian conquest; a Dorian invasion of Attica (c. 1066 B.C.)
 was checked by the self-sacrifice of King Codrus: "Either Athens must
 perish or her king." Aegina was reckoned a colony of Epidaurus. Rhodes,
@@ -126,7 +126,7 @@ times were "Dorian" are ruled by recently established dynasties of
 the geographical "catalogue" in _Iliad_ ii. ignores the northern Doris
 altogether.
 
-The almost total absence from Homer not only of "Dorians" but of
+The almost total absence from [[Homer]] not only of "Dorians" but of
 "Ionians" and even of "Hellenes" leads to the conclusion that the
 diagrammatic genealogy of the "sons of Hellen" is of post-Homeric date;
 and that it originated as an attempt to classify the Doric, Ionic and
@@ -135,7 +135,7 @@ for here alone do the three names correspond to territorial, linguistic
 and political divisions. The addition of an "Achaean" group, and the
 inclusion of this and the Ionic group under a single generic name, would
 naturally follow the recognition of the real kinship of the "Achaean"
-colonies of Magna Graecia with those of Ionia. But the attempt to
+colonies of [[Magna Graecia]] with those of [[Ionia]]. But the attempt to
 interpret, in terms of this Asiatic diagram, the actual distribution of
 dialects and peoples in European Greece, led to difficulties. Here, in
 the 8th-6th centuries, all the Dorian states were in the hands of
@@ -161,20 +161,20 @@ So long as the Homeric poems were believed to represent Hellenic (and
 mainly Ionian) beliefs of the 9th century or later, the historical value
 of the traditions of a Dorian invasion was repeatedly questioned; most
 recently and thoroughly by J. Beloch (_Gr. Geschichte_, i., Strassburg,
-1893), as being simply an attempt to reconcile the political geography
+1893), as being simply an attempt to reconcile the political [[Geography|geography]]
 of Homer (i.e. of 8th-century Ionians describing 12th-century events)
 with that of historic Greece, by explaining discrepancies (due to
-Homeric ignorance) as the result of "migrations" in the interval. Such
+Homeric [[Ignorance|ignorance]]) as the result of "migrations" in the interval. Such
 legends often arise to connect towns bearing identical or similar names
 (such as are common in Greece) and to justify political events or
 ambitions by legendary precedents; and this certainly happened during
 the successive political rivalries of Dorian Sparta with non-Dorian
 Athens and Thebes. But in proportion as an earlier date has become more
-probable for Homer, the hypothesis of Ionic origin has become less
+probable for Homer, the [[Hypothesis|hypothesis]] of Ionic origin has become less
 tenable, and the belief better founded (1) that the poems represent
 accurately a well-defined phase of culture in prehistoric Greece, and
 (2) that this "Homeric" or "Achaean" phase was closed by some such
-general catastrophe as is presumed by the legends.
+general [[Catastrophe|catastrophe]] as is presumed by the legends.
 
 The legend of a Dorian invasion appears first in Tyrtaeus, a 7th-century
 poet, in the service of Sparta, who brings the Spartan Heracleids to
@@ -195,7 +195,7 @@ distinct from the generic "Hellene": thence (3) to a residence "in
 Pindus," where they passed as a "Macedonian people." Hence (4) they
 moved south to the Parnassian Doris, which had been held by Dryopes: and
 hence finally (5) to Peloponnese. Elsewhere he assigns the expulsion of
-the Dryopes to Heracles in co-operation not with Dorians but with
+the Dryopes to Heracles in [[Co-Operation|co-operation]] not with Dorians but with
 Malians. Here clearly two traditions are combined:--one, in which the
 Dorians originated from Hellas in south Thessaly, and so are "children
 of Hellen"; another, in which they were a "Macedonian people" intruded
@@ -215,7 +215,7 @@ Hecataeus of Miletus (considered as evidence for the foundation date of
 an Ionian refugee-colony). Thucydides also accepts the story of
 Heracleid leadership.
 
-The legend of an organized apportionment of Peloponnese amongst the
+The legend of an organized [[Apportionment|apportionment]] of Peloponnese amongst the
 Heracleid leaders appears first in the 5th-century tragedians,--not
 earlier, that is, than the rise of the Peloponnesian League,--and was
 amplified in the 4th century; the Aetolians' aid, and claim to Elis,
@@ -225,7 +225,7 @@ back to early sources (e.g. Herodotus distinguished the "local" from the
 "poetic" versions of events in early Spartan history); but much seems to
 be referable to Ephorus and the 4th-century political and rhetorical
 historians:--e.g. the enlarged version of the Heracleid claims in
-Isocrates (_Archidamus_, 120) and the theory that the Dorians were mere
+Isocrates (_[[Archidamus]]_, 120) and the theory that the Dorians were mere
 disowned Achaeans (Plato, _Laws_, 3). Moreover, many independent
 considerations suggest that in its main outlines the Dorian invasion is
 historical.
@@ -240,13 +240,13 @@ Aeolic. Corinth (with its Sicilian colonies), the Argolid towns, and the
 Asiatic Doris, form another group, in which [Greek: -e] and [Greek: -o]
 become [Greek: -ei] and [Greek: -ou] as in Ionic. Connected with the
 latter (e.g. by [Greek: -ei] and [Greek: -ou]) are the "northern"
-group:--Phocis, including Delphi, with Aetolia, Acarnania, Epirus and
+group:--Phocis, including [[Delphi]], with Aetolia, Acarnania, Epirus and
 Phthiotis in south Thessaly. But these have also some forms in common
 with the "Aeolic" dialect of Boeotia and Thessaly, which in historic
 times was spoken also in Doris; Locris and Elis present similar northern
 "Achaean-Doric" dialects. Arcadia, on the other hand, in the heart of
 Peloponnese, retained till a late date a quite different dialect, akin
-to the ancient dialect of Cyprus, and more remotely to Aeolic. This
+to the ancient dialect of [[Cyprus]], and more remotely to Aeolic. This
 distribution makes it clear (1) that the Doric dialects of Peloponnese
 represent a superstratum, more recent than the speech of Arcadia; (2)
 that Laconia and its colonies preserve features alike, [Greek: -ê] and
@@ -266,7 +266,7 @@ an area which once was Dorian. But this distribution does not by itself
 prove that Doric speech was the language of the Dorian invaders. Its
 area coincides also approximately with that of the previous Achaean
 conquests; and if the Dorians were as backward culturally as traditions
-and archaeology suggest, it is not improbable that they soon adopted the
+and [[Archaeology|archaeology]] suggest, it is not improbable that they soon adopted the
 language of the conquered, as the Norman conquerors did in England. As
 evidence of an intrusion of northerly folk, however, the distribution of
 dialects remains important. See GREEK LANGUAGE.
@@ -283,10 +283,10 @@ explained as an observance inherited from Parnassian ancestors.
 _The social and political structure_ of the Dorian states of Peloponnese
 presupposes likewise a conquest of an older highly civilized population
 by small bands of comparatively barbarous raiders. Sparta in particular
-remained, even after the reforms of Lycurgus, and on into historic
+remained, even after the reforms of [[Lycurgus]], and on into historic
 times, simply the isolated camp of a compact army of occupation, of some
-5000 families, bearing traces still of the fusion of several bands of
-invaders, and maintained as an exclusive political aristocracy of
+5000 families, bearing traces still of the [[Fusion|fusion]] of several bands of
+invaders, and maintained as an exclusive political [[Aristocracy|aristocracy]] of
 professional soldiers by the labour of a whole population of
 agricultural and industrial serfs. The serfs were rigidly debarred from
 intermixture or social advancement, and were watched by their masters
@@ -295,16 +295,16 @@ other states, such as Argos and Corinth, exhibited just such compromises
 between conquerors and conquered as the legends described, conceding to
 the older population, or to sections of it, political incorporation more
 or less incomplete. The Cretan cities, irrespective of origin, exhibit
-serfage, militant aristocracy, rigid martial discipline of all citizens,
+serfage, militant aristocracy, rigid [[Martial|martial]] discipline of all citizens,
 and other marked analogies with Sparta; but the Asiatic Dorians and the
 other Dorian colonies do not differ appreciably in their social and
-political history from their Ionian and Aeolic neighbours. Tarentum
+[[Political History|political history]] from their Ionian and Aeolic neighbours. Tarentum
 alone, partly from Spartan origin, partly through stress of local
 conditions, shows traces of militant asceticism for a while.
 
 _Archaeological evidence_ points clearly now to the conclusion that the
 splendid but overgrown civilization of the Mycenaean or "late Minoan"
-period of the Aegean Bronze Age collapsed rather suddenly before a rapid
+period of the Aegean [[Bronze Age]] collapsed rather suddenly before a rapid
 succession of assaults by comparatively barbarous invaders from the
 European mainland north of the Aegean; that these invaders passed partly
 by way of Thrace and the Hellespont into Asia Minor, partly by Macedon

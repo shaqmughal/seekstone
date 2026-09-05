@@ -9,11 +9,11 @@ type: source
 
 GIANT'S CAUSEWAY, a promontory of columnar basalt, situated on the north
 coast of county Antrim, Ireland. It is divided by whin-dykes into the
-Little Causeway, the Middle Causeway or "Honeycomb," as it is locally
+Little [[Causeway]], the Middle Causeway or "Honeycomb," as it is locally
 termed, and the Larger or Grand Causeway. The pillars composing it are
 close-fitting and for the most part somewhat irregular hexagons, made
-up of articulated portions varying from a few inches to some feet in
-depth, and concave or convex at the upper and lower surfaces. In
+up of articulated portions varying from a few [[Inch|inches]] to some feet in
+depth, and concave or [[Convex|convex]] at the upper and lower surfaces. In
 diameter the pillars vary from 15 to 20 in., and in height some are as
 much as 20 ft. The Great Causeway is chiefly from 20 to 30, and for a
 few yards in some places nearly 40 ft. in breadth, exclusive of outlying
@@ -28,7 +28,7 @@ of the Giant's Causeway, a considerable exposure of them being visible
 at a distance of 500 to 600 yds. in the bay to the east. A group of
 these columns, from their arrangement, have been fancifully named the
 "Giant's Organ." The most remarkable of the cliffs is the Pleaskin, the
-upper pillars of which have the appearance of a colonnade, and are 60
+upper pillars of which have the appearance of a [[Colonnade|colonnade]], and are 60
 ft. in height; beneath these is a mass of coarse black amygdaloid, of
 the same thickness, underlain by a second range of basaltic pillars,
 from 40 to 50 ft. in height. The view eastward over Bengore and towards

@@ -32,7 +32,7 @@ in 1610. In the same year he published _Liber Primus Sacrarum Cantionum_, a
 second series of which was brought out in 1591. In 1590 two madrigals by
 Byrd were included in Thomas Watson's _First Sett of Italian Madrigalls
 Englished_; one of these seems to have been sung before Queen Elizabeth on
-her visit to Lord Hertford at Elvetham in 1591. In April 1592 Byrd was
+her visit to Lord [[Hertford]] at Elvetham in 1591. In April 1592 Byrd was
 still living at Harlington, but about 1593 he became possessed of the
 remainder of a lease of Stondon Place, Essex, a farm of some 200 acres,
 belonging to William Shelley, who was shortly afterwards convicted of high
@@ -49,7 +49,7 @@ Place in the names of John and Thomas Petre, part of the property being
 charged with a payment to Byrd of L20 for his life, with remainder to his
 second son Thomas. Throughout this long suit Byrd, though in possession of
 property which had been confiscated from a recusant and actually taking
-part as a member of the Chapel Royal at the coronation of James I., had
+part as a member of the Chapel Royal at the [[Coronation|coronation]] of James I., had
 been excommunicated since 1598, while from 1605 until 1612, and possibly
 later, he was regularly presented before the archidiaconal court of Essex
 as a Catholic. In 1603 Easte published a work (no copies of which are known
@@ -62,7 +62,7 @@ appeared two books of _Gradualia_, a second edition of which was issued in
 1610. In the following year he published _Psalmes, Songs and Sonnets; some
 solemne, others joyfull, framed to the life of the Words_. Probably in the
 same year was issued _Parthenia_, a collection of virginal music, in which
-Byrd was associated with Bull and Orlando Gibbons. The last work to which
+Byrd was associated with [[Bull]] and Orlando Gibbons. The last work to which
 he contributed was Sir Thomas Leighton's _Teares or Lamentations of a
 Sorrowfull Soule_ (1614). His death took place on the 4th of July 1623. It
 is recorded in the _Cheque Book_ of the Chapel Royal as that of a "father
@@ -99,7 +99,7 @@ undated) of the four-part mass; all three have recently appeared in modern
 editions, and increase Byrd's claim to rank as the greatest English
 composer of his age. In addition to his published works, a large amount
 still remains in MS., comprising nearly every kind of composition. The
-Fitzwilliam _Virginal Book_ contains a long series of interesting pieces
+[[Fitzwilliam]] _Virginal Book_ contains a long series of interesting pieces
 for the virginal, and more still remains unpublished in Lady Neville's
 _Virginal Book_ and other contemporary collections. His industry was
 enormous, and though his work is unequal and the licences he allowed can
@@ -107,7 +107,7 @@ hardly be defended on strict grounds, his Latin church music and his
 instrumental compositions entitle him to high rank among his
 contemporaries. As a madrigalist he was inferior to Morley, Wilbye and
 Gibbons, though even in this branch of his art he often displays great
-charm and individuality.
+[[Charm|charm]] and individuality.
 
 (W. B. S.*)
 

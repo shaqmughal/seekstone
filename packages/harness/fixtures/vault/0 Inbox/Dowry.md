@@ -10,7 +10,7 @@ marriage portion (see SETTLEMENT).
 
 DOWSER and DOWSING (from the Cornish "dowse," M.E. _duschen_, to strike
 or fall), one who uses, or the art of using, the dowsing-rod (called
-"deusing-rod" by John Locke in 1691), or "striking-rod" or divining-rod,
+"deusing-rod" by John [[Locke]] in 1691), or "striking-rod" or divining-rod,
 for discovering subterranean minerals or water. (See DIVINING-ROD.)
 
 ## See also

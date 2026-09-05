@@ -28,7 +28,7 @@ military books.
   legeres et leur emploi_ (Paris, 1782), _Conquetes de Gustave-Adolphe_
   (Stockholm and Neufchatel, 1782-1791); _Memoires de Gustave Adolphe_
   (Paris, 1790), Correspondence of Marshal Richelieu (Paris, 1789), St
-  Germain (1789), and Bernis (1790), _Vie et regne de Frederic le Grand_
+  Germain (1789), and [[Bernis]] (1790), _Vie et regne de Frederic le Grand_
   (London, 1788), _Lettres et memoires du marechal de Saxe_ (Paris,
   1794), _L'Expedition de Minorque en 1756_ (Paris, 1798), _Recherches
   sur la force de l'armee francaise depuis Henri IV jusqu'en 1805_

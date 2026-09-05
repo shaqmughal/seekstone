@@ -14,17 +14,17 @@ ministers and envoys of the more important German states, held at
 Carlsbad from the 6th to the 31st of August 1819. The occasion of the
 meeting was the desire of Prince Metternich to take advantage of the
 consternation caused by recent revolutionary outrages (especially the
-murder of the dramatist Kotzebue by Karl Sand) to persuade the German
+murder of the dramatist [[Kotzebue]] by Karl Sand) to persuade the German
 governments to combine in a system for the suppression of the Liberal
 agitation in Germany. The pretended urgency of the case served as the
 excuse for only inviting to the conference those states whose ministers
 happened to be visiting Carlsbad at the time. The conferences were,
 therefore, actually attended by the representatives of Austria,
-Prussia, Saxony, Bavaria, Wurttemberg, Hanover, Baden, Nassau and
-Mecklenburg; at the fourth conference (August 9th) Baron von Fritsch,
+Prussia, Saxony, Bavaria, Wurttemberg, [[Hanover]], Baden, Nassau and
+[[Mecklenburg]]; at the fourth conference (August 9th) Baron von Fritsch,
 minister of state for Saxe-Weimar, who "happened to be present" at
 Carlsbad on that day, attended by special invitation. Prince Metternich
-presided over the conferences, and Friedrich von Gentz acted as
+presided over the conferences, and [[Friedrich]] von Gentz acted as
 secretary.
 
 The business to be discussed, as announced in Metternich's opening
@@ -35,25 +35,25 @@ discussion. To the first class belonged (a) the urgent necessity for a
 uniform system of press regulation in Germany; (b) the most urgent
 measures in regard to the supervision of universities and schools; (c)
 measures in view of the already discovered machinations of the political
-parties. To the second class belonged (a) the more clear definition of
+parties. To the second class belonged (a) the more clear [[Definition|definition]] of
 article XIII. of the Act of Confederation (_i.e._ state constitutions);
 (b) the creation of a permanent federal supreme court; (c) the creation
 of a federal executive organization (_Bundes-Executions Ordnung_) armed
-with power to make the decrees of the diet and the judgments of the high
+with power to make the [[Decree|decrees]] of the diet and the judgments of the high
 court effective; (d) the facilitation of commercial intercourse within
 the confederation in accordance with article XIX. of the Act of
-Confederation (_Beilage A. zum ersten Protokoll_, Martens, iv. p. 74).
+Confederation (_Beilage A. zum ersten Protokoll_, [[Martens]], iv. p. 74).
 
 These questions were debated in twenty-three formal conferences. On the
 issues raised by the first class there was practical unanimity. All were
 agreed that the state of Germany demanded disciplinary measures, and as
 the result of the deliberations it was determined to lay before the
 federal diet definite proposals for (1) a uniform press censorship over
-all periodical publications; (2) a system of "curators" to supervise the
+all periodical publications; (2) a system of "[[Curator|curators]]" to supervise the
 education given in universities and schools, with disciplinary
 enactments against professors and teachers who should use their position
 for purposes of political propaganda; (3) the erection of a central
-commission at Mainz, armed with inquisitorial powers, for the purpose of
+commission at [[Mainz]], armed with inquisitorial powers, for the purpose of
 unmasking the widespread revolutionary conspiracy, the existence of
 which was assumed.
 
@@ -75,7 +75,7 @@ representative assemblies are based on "the sovereignty of the people."
 In answer to this, Count Wintzingerode, on behalf of the king of
 Wurttemberg, placed on record (_Nebenbeilage 2 zum neunten Protokoll_,
 p. 147) a protest, in which he urged that to insist on the system of
-estates would be to stereotype caste distinctions foreign to the whole
+estates would be to stereotype [[Caste|caste]] distinctions foreign to the whole
 spirit of the age, would alienate public opinion from the governments,
 and--if enforced by the central power--would violate the sovereign
 independence of those states which, like Wurttemberg, had already
@@ -84,7 +84,7 @@ established representative constitutions.
 Though the majority of the ministers present favoured the Austrian
 interpretation of article XIII. as elaborated by Gentz, they were as
 little prepared as the representative of Wurttemberg to agree to any
-hasty measures for strengthening the federal government at the expense
+hasty measures for strengthening the [[Federal Government|federal government]] at the expense
 of the jealously guarded prerogatives of the minor sovereignties. The
 result was that the constitutional questions falling under the second
 class were reserved for further discussion at a general conference of

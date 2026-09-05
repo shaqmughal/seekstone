@@ -12,7 +12,7 @@ the absence of felspar and biotite. In the hand specimen the rock has a
 silvery glittering appearance from the abundance of lamellar crystals of
 muscovite, but many greisens have much of the appearance of granite,
 except that they are paler in colour. The commonest accessory minerals
-are tourmaline, topaz, apatite, fluorspar and iron oxides; a little
+are tourmaline, topaz, [[Apatite|apatite]], fluorspar and iron oxides; a little
 felspar more or less altered may also be present and a brown mica which
 is biotite or lithionite. The tourmaline in section is brown, green,
 blue or colourless, and often the same crystal shows many different
@@ -27,10 +27,10 @@ filled with quartz. The greisen bands are from 1 in. up to 2 ft. or more
 in thickness. At their outer edges they pass gradually into the granite,
 for they contain felspar crystals more or less completely altered into
 aggregates of white mica and quartz. The transition between the two
-rocks is perfectly gradual, a fact which shows that the greisen has been
+rocks is perfectly [[Gradual|gradual]], a fact which shows that the greisen has been
 produced by alteration of the granite. Vapours or fluids rising through
 the fissure have been the agents which effected the transmutation. They
-must have contained fluorine, boron and probably also lithium, for
+must have contained [[Fluorine|fluorine]], boron and probably also lithium, for
 topaz, mica and tourmaline, the new minerals of the granite, contain
 these elements. The change is a post-volcanic or pneumatolytic one
 induced by the vapours set free by the granite magma when it cools.
@@ -42,8 +42,8 @@ mineralogical composition and in its mode of origin. The latter is a
 pneumatolytic product consisting of quartz and tourmaline; it often
 contains white mica and thus passes by all stages into greisen. Both of
 these rocks carry frequently small percentages of tin oxide
-(cassiterite) and may be worked as ores of tin. They are common in
-Cornwall, Saxony, Tasmania and other districts which are centres of
+([[Cassiterite|cassiterite]]) and may be worked as ores of tin. They are common in
+[[Cornwall]], Saxony, Tasmania and other districts which are centres of
 tin-mining. Many other greisens occur in which no tin is found. The
 analyses show the composition of Cornish granite and greisen. They make
 it clear that there has been an introduction of fluorine and boron and a

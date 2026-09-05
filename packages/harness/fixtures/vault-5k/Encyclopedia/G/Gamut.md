@@ -10,7 +10,7 @@ recognized musical scale of any period), originating in the medieval
 of Arezzo (q.v.) in the 11th century. The whole question is somewhat
 obscure, but, in the evolution of musical notation out of the classical
 alphabetical system, the invention of the medieval gamut is more
-properly assigned to Hucbald (d. 930). In his system of scales the
+properly assigned to [[Hucbald]] (d. 930). In his system of scales the
 semitone was always between the 2nd and 3rd of a tetrachord, as G, A,
 [flat]B, C, so the [natural]B and # F of the second octave were in false
 relation to the [flat]B and [natural]F of the first two tetrachords. To
@@ -18,7 +18,7 @@ this scale of four notes, G, A, [flat]B, C, were subsequently added a
 note below and a note above, which made the hexachord with the semitone
 between the 3rd and 4th both up and down, as F, G, A, [flat]B, C, D. It
 was at a much later date that the 7th, our leading note, was admitted
-into a key, and for this the first two letters of the last line of the
+into a [[Key|key]], and for this the first two letters of the last line of the
 above-named hymn, "Sanctus Johannes," would have been used, save for the
 notion that as the note Mi was at a semitone below Fa, the same vowel
 should be heard at a semitone below the upper Ut, and the syllable Si

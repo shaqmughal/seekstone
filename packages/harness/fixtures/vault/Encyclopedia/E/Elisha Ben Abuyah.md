@@ -15,13 +15,13 @@ Judaism. That he refused to accept the current rabbinical views is
 certain, though the Talmud cites his legal decisions. Most authorities
 believe that he was a Gnostic; but while it is certain that he was not a
 Christian, it is possible that he was simply a Sadducee, and thus an
-opponent not of Judaism but of Pharisaism. His disciple, the famous
+opponent not of Judaism but of Pharisaism. His [[Disciple|disciple]], the famous
 Pharisee Meir, remained his steadfast friend, and his efforts to reclaim
 his former master are among the most pathetic incidents in the Talmud.
-In later ages Elisha (_aher_ "the other," as he was named) was regarded
-as the type of a heretic whose pride of intellect betrayed him into
+In later ages [[Elisha]] (_aher_ "the other," as he was named) was regarded
+as the type of a heretic whose pride of [[Intellect|intellect]] betrayed him into
 infidelity to law and morals. Without much appropriateness Elisha has
-been sometimes described as the "Faust of the Talmud."     (I. A.)
+been sometimes described as the "[[Faust]] of the Talmud."     (I. A.)
 
 ## See also
 

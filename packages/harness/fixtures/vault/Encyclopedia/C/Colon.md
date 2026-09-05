@@ -18,13 +18,13 @@ between Atlantic and Pacific ports, and between the interior towns of
 Central and South America and the cities of Europe and the United
 States. The city lies on the west side of the low island of Manzanillo,
 is bordered on the landward sides by swamp, and consists mainly of
-unimposing frame houses and small shops. The most attractive parts are
+unimposing [[Frame|frame]] houses and small shops. The most attractive parts are
 the American quarter, where the employés of the Panama railway have
 their homes, and the old French quarter, where dwelt the French officers
 during their efforts to build the canal. In this last district, near the
-mouth of the old canal, stands a fine statue of Christopher Columbus,
+mouth of the old canal, stands a fine statue of [[Christopher]] Columbus,
 the gift of the empress Eugénie in 1870. Here also stands the mansion
-erected and occupied by Ferdinand de Lesseps during his residence on the
+erected and occupied by [[Ferdinand]] de [[Lesseps]] during his residence on the
 isthmus. With the exception of railway shops, there are no important
 industrial establishments.
 
@@ -36,7 +36,7 @@ years afterwards its name was changed by legislative enactment to Colon,
 in honour of Christopher Columbus, who entered Limon Bay in 1502. The
 original name, however, survived among the English-speaking inhabitants
 for many years after this change. With the completion of the railway in
-1855, the town supplanted Chagres (q.v.) as the principal Atlantic port
+1855, the town supplanted [[Chagres]] (q.v.) as the principal Atlantic port
 of the isthmus. Later it acquired increased importance through its
 selection by de Lesseps as the site for the Atlantic entrance to his
 canal. During the revolution of 1885 it was partly burned and was

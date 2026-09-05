@@ -14,7 +14,7 @@ the elementary sounds into which a spoken word may be analysed, one of
 the members of an alphabet. As applied to things written, the word
 follows mainly the meanings of the Latin plural _litterae_, the most
 common meaning attaching to the word being that of a written
-communication from one person to another, an epistle (q.v.). For the
+communication from one person to another, an [[Epistle|epistle]] (q.v.). For the
 means adopted to secure the transmission of letters see POST AND POSTAL
 SERVICE. The word is also, particularly in the plural, applied to many
 legal and formal written documents, as in letters patent, letters

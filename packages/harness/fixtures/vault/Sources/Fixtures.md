@@ -1,8 +1,8 @@
 # Fixtures
 
-FIXTURES (Lat. _figere_, to fix), in law, chattels which have been so
-fixed or attached to land (as it is expressed in English law, "so
-annexed to the freehold"), as to become, in contemplation of law, a part
+FIXTURES (Lat. _figere_, to fix), in law, [[Chattel|chattels]] which have been so
+fixed or attached to land (as it is expressed in [[English Law|English law]], "so
+annexed to the [[Freehold|freehold]]"), as to become, in contemplation of law, a part
 of it. All systems of law make a marked distinction for certain
 purposes, between immovables and movables, between real and personal
 property, between land and all other things. In the case of fixtures the
@@ -14,7 +14,7 @@ favour of the freeholder; but its hardship has been modified by a large
 number of exceptions formulated from time to time by the courts as
 occasion arose.
 
-In order to constitute a fixture there must be some degree of annexation
+In order to constitute a fixture there must be some degree of [[Annexation|annexation]]
 to the land, or to a building which forms part of it. Thus it has been
 held that a barn laid on blocks of timber, but not fixed to the ground
 itself, is not a fixture; and the onus of showing that articles not
@@ -27,11 +27,11 @@ the mode, degree and object of the annexation, and the possibility of
 the removal of the article without injury to itself or the freehold. In
 certain cases the courts have recognized a constructive annexation, when
 the articles, though not fixed to the soil, pass with the freehold as if
-they were, e.g. the keys of a house, the stones of a dry wall, and the
-detached or duplicate portions of machines.
+they were, e.g. the [[Key|keys]] of a house, the stones of a dry wall, and the
+detached or duplicate portions of [[Machine|machines]].
 
 Questions as to the property in fixtures principally arise--(1) between
-landlord and tenant, (2) between heir and executor, (3) between executor
+landlord and tenant, (2) between [[Heir|heir]] and executor, (3) between executor
 and remainder-man or reversioner, (4) between seller and buyer.
 
   1. At common law, if the tenant has affixed anything to the freehold
@@ -64,8 +64,8 @@ and remainder-man or reversioner, (4) between seller and buyer.
   re-enacted by the Agricultural Holdings Act 1908.
 
   Again, _ornamental_ fixtures, set up by the tenant for ornament and
-  convenience, such as hangings and looking-glasses, tapestry,
-  iron-backs to chimneys, wainscot fixed by screws, marble
+  convenience, such as [[Hanging|hangings]] and looking-glasses, tapestry,
+  iron-backs to chimneys, wainscot fixed by screws, [[Marble|marble]]
   chimney-pieces, are held to belong to the tenant, and to be removable
   without the landlord's consent. Here again the extent of the privilege
   has been a matter of some uncertainty.
@@ -113,7 +113,7 @@ and remainder-man or reversioner, (4) between seller and buyer.
   of great importance. Similar questions may arise in other cases, e.g.
   as between mortgagor and mortgagee. When land is mortgaged the
   fixtures pass with it, unless a contrary intention is expressed in the
-  conveyance; and this even where the chattels affixed are the subject
+  [[Conveyance|conveyance]]; and this even where the chattels affixed are the subject
   of a hire purchase agreement (_Reynolds_ v. _Ashby_, 1903, 1 K.B. 87).
   Again, in reference to bills of sale the question arises. Bills of
   sale are dispositions of personal property similar to mortgages, the
@@ -122,15 +122,15 @@ and remainder-man or reversioner, (4) between seller and buyer.
   conveying fixtures ought not to have been registered as bills of sale.
   Unless it was the intention of the parties to make the fixtures a
   distinct security, it seems that a deed of mortgage embracing them
-  does not require to be registered as a bill of sale. The question of
+  does not require to be registered as a [[Bill Of Sale|bill of sale]]. The question of
   what is or is not a fixture must also often be considered in questions
-  of rating or assessment.
+  of rating or [[Assessment|assessment]].
 
   The law of Scotland as to fixtures is the same as that of England. The
   Agricultural Holdings (Scotland) Acts 1883 (ss. 35, 42) and 1900 (as
   to market gardens) give a similar statutory right of removal. The law
   of Ireland has been the subject of the special legislation sketched in
-  the article LANDLORD AND TENANT. The French Code Civil recognizes the
+  the article LANDLORD AND TENANT. The French [[Code]] Civil recognizes the
   right of the usufructuary to remove articles attached by him to the
   subject of his estate on the expiry of his term, on making good the
   place from which they were taken (Art. 599); and there are similar
@@ -143,8 +143,8 @@ and remainder-man or reversioner, (4) between seller and buyer.
   _quicquid plantatur solo, solo cedit_) as regards trade fixtures, and
   ornamental fixtures, such as tapestry, have been recognized.
 
-  In Mauritius the provisions of the Code Civil are in force without
-  modification. In Quebec (Civil Code, Arts. 374 et seq.) and St Lucia
+  In [[Mauritius]] the provisions of the Code Civil are in force without
+  modification. In Quebec (Civil Code, Arts. 374 et seq.) and St [[Lucia]]
   (Civil Code, Arts. 368 et seq.) they have been re-enacted in
   substance. Some of the British colonies have conferred a statutory
   right to remove fixtures on tenants (cf. Tasmania, Landlord and Tenant
@@ -154,10 +154,10 @@ and remainder-man or reversioner, (4) between seller and buyer.
 
   AUTHORITIES.--English law: Amos and Ferard, _Law of Fixtures_ (3rd
   ed., London, 1883); Brown, _Law of Fixtures_ (3rd ed., London, 1875);
-  Ryde, on _Rating_ (2nd ed., London, 1905). Scots Law: Hunter,
+  Ryde, on _Rating_ (2nd ed., London, 1905). Scots Law: [[Hunter]],
   _Landlord and Tenant_; Erskine's _Principles_ (20th ed., Edin., 1903).
   American Law: Bronson, _Law of Fixtures_ (St Paul, 1904); Reeves,
-  _Real Property_ (Boston, 1904); _Ruling Cases_ (London and Boston,
+  _Real Property_ ([[Boston]], 1904); _Ruling Cases_ (London and Boston,
   1894-1901), Tit. "Fixtures" (American Notes).     (A. W. R.)
 
 ## References

@@ -37,7 +37,7 @@ of long duration. In 1769 he went to Rome to assist at the conclave
 which resulted in the election of Clement XIV., and the talent which he
 displayed on that occasion procured him the appointment of ambassador in
 Rome, where he spent the remainder of his life. He was partly
-instrumental in bringing about the suppression of the Jesuits, and acted
+instrumental in bringing about the suppression of the [[Jesuits]], and acted
 with greater moderation than is generally allowed. He lost his influence
 under Pius VI., who was friendly to the Jesuits, and the French
 Revolution, to which he was hostile, reduced him almost to penury; the
@@ -53,7 +53,7 @@ interesting to the historian.
 
   See Frederic Masson's prefaces to the _Memoires et lettres_, and _Le
   Cardinal de Bernis depuis son ministere;_ (Paris, 1884); E. et J. de
-  Goncourt, _Mme de Pompadour_ (Paris, 1888), and Sainte-Beuve,
+  [[Goncourt]], _Mme de Pompadour_ (Paris, 1888), and Sainte-Beuve,
   _Causeries du lundi_, t. viii.
 
 ## See also

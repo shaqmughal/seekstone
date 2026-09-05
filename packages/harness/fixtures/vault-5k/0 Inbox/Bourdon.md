@@ -8,8 +8,8 @@ the Oise in the Convention, he voted for the immediate death of the
 king. He accused the Girondists of relations with the court, then turned
 against Robespierre, who had him expelled from the Jacobin club for his
 conduct as commissioner of the Convention with the army of La Rochelle.
-On the 9th Thermidor he was one of the deputies delegated to aid Barras
-to repress the insurrection made by the commune of Paris in favour of
+On the 9th Thermidor he was one of the deputies delegated to aid [[Barra|Barras]]
+to repress the insurrection made by the [[Commune|commune]] of Paris in favour of
 Robespierre. Bourbon then became a violent reactionary, attacking the
 former members of the Mountain and supporting rigorous measures against
 the rioters of the 12th Germinal and the 1st Prairial of the year III.

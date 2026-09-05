@@ -8,13 +8,13 @@ topic: biology
 
 CREODONTA, a group of primitive early Tertiary Carnivora, characterized
 by their small brains, the non-union in most cases of the scaphoid and
-lunar bones of the carpus, and the general absence of a distinct pair of
+lunar [[Bone|bones]] of the carpus, and the general absence of a distinct pair of
 "sectorial" teeth (see CARNIVORA). In many respects the Lower Eocene
 creodonts come very close to the primitive ungulates, or Condylarthra
 (see PHENACODUS), from which, however, they are distinguished by the
 approximation in the form of the skull to the carnivorous type, the more
 trenchant teeth (at least in most cases) and the more claw-like
-character of the terminal joints of the toes. The general character of
+character of the terminal [[Joints|joints]] of the toes. The general character of
 the dentition in the more typical forms, such as _Hyaenodon_ (see fig.),
 recalls that of the carnivorous marsupials, this being especially the
 case with the Patagonian species, which have been separated as a
@@ -58,7 +58,7 @@ epoch. Some of the Oligocene forms, alike as regards dentition, the
 union of the scaphoid and lunar of the carpus, and the complexity of the
 brain, approximated to modern Carnivora.
 
-As regards classification Mr W. D. Matthew includes in the typical
+As regards [[Classification|classification]] Mr W. D. [[Matthew]] includes in the typical
 family _Hyaenodontidae_ not only the widely spread genera _Hyaenodon_
 and _Pterodon_, but likewise _Sinopa_ (_Stypolophus_), _Cynohyaenodon_
 and _Proviverra_; but _Viverravus_ (_Didymictis_) and _Vulpavus_
@@ -89,12 +89,12 @@ structure of the dental enamel.
 It should be added that Dr J. L. Wortman transfers _Viverravus_ and its
 allies, together with _Palaeonictis_, to the true Carnivora, the latter
 genus being regarded as the ancestral type of the sabre-toothed cats
-(see MACHAERODUS).
+(see [[Machaerodus|MACHAERODUS]]).
 
-  AUTHORITIES.--J. L. Wortman, "Eocene Mammalia in the Peabody Museum,
+  AUTHORITIES.--J. L. Wortman, "Eocene [[Mammalia]] in the Peabody Museum,
   pt. i. Carnivora," _Amer. J. Sci._ vols. xi.-xiv. (1901-1902); W. D.
-  Matthew, "Additional Observations on the Creodonta," _Bull. Amer.
-  Mus._ vol. xiv. p. i. (1901); C. W. Andrews, _Descriptive Catalogue of
+  Matthew, "Additional Observations on the Creodonta," _[[Bull]]. Amer.
+  Mus._ vol. xiv. p. i. (1901); C. W. Andrews, _Descriptive [[Catalogue]] of
   the Tertiary Vertebrata of the Fayum_, British Museum (1906); W. J.
   Sinclair, "The Marsupial Fauna of the Santa Cruz Beds," _Proc. Amer.
   Phil. Soc._ vol. xlix. p. 73 (1905).     (R. L.*)

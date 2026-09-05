@@ -68,7 +68,7 @@ transferred to the English hero in the _Speculum Gy of Warewyke_ (_c_.
   legend is shown by the numerous versions in English: _Guy of Warwick_,
   translated from the Latin of Girardus Cornubiensis (fl. 1350) into
   English verse by John Lydgate between 1442 and 1468; _Guy of Warwick_,
-  a poem (written in 1617 and licensed, but not printed) by John Lane,
+  a poem (written in 1617 and licensed, but not printed) by John [[Lane]],
   the MS. of which (Brit. Mus.) contains a sonnet by John Milton, father
   of the poet; _The Famous Historie of Guy, Earl of Warwick_ (c. 1607),
   by Samuel Rowlands; _The Booke of the Moste Victoryous Prince Guy of

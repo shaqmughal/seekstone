@@ -8,8 +8,8 @@ the violence of his past life, and, by way of penance, leaves his wife
 and fortune to make a pilgrimage to the Holy Land. After years of
 absence he returns in time to deliver Winchester for King Aethelstan
 from the invading northern kings, Anelaph (Anlaf or Olaf) and Gonelaph,
-by slaying in single fight their champion the giant Colbrand. Local
-tradition fixes the duel at Hyde Mead near Winchester. Making his way to
+by slaying in single fight their [[Champion|champion]] the [[Giant|giant]] Colbrand. Local
+tradition fixes the [[Duel|duel]] at Hyde Mead near Winchester. Making his way to
 Warwick he becomes one of his wife's bedesmen, and presently retires to
 a hermitage in Arden, only revealing his identity at the approach of
 death. The versions of the Middle English romance of Guy which we
@@ -21,7 +21,7 @@ evidently lies in the fight with Colbrand, which represents, or at least
 is symbolic[1] of an historical fact. The religious side of the legend
 finds parallels in the stories of St Eustachius and St Alexius,[2] and
 makes it probable that the Guy-legend, as we have it, has passed through
-monastic hands. Tradition seems to be at fault in putting Guy's
+monastic hands. Tradition seems to be at [[Fault|fault]] in putting Guy's
 adventures under Aethelstan. The Anlaf of the story is probably Olaf
 Tryggvason, who, with Sweyn of Denmark, harried the southern counties of
 England in 993 and pitched his winter quarters in Southampton.
@@ -43,7 +43,7 @@ Wallingford family, but it was accepted as authentic fact in the
 chronicle of Pierre de Langtoft (Peter of Langtoft) written at the end
 of the 13th century. The adventures of Reynbrun, son of Guy, and his
 tutor Heraud of Arden, who had also educated Guy, have much in common
-with his father's history, and form an interpolation sometimes treated
+with his father's history, and form an [[Interpolation|interpolation]] sometimes treated
 as a separate romance. There is a certain connexion between Guy and
 Count Guido of Tours (fl. 800), and Alcuin's advice to the count is
 transferred to the English hero in the _Speculum Gy of Warewyke_ (_c_.
@@ -52,7 +52,7 @@ transferred to the English hero in the _Speculum Gy of Warewyke_ (_c_.
   The French romance (Brit. Mus. Harl. MS. 3775) has not been printed,
   but is described by Emile Littre in _Hist. litt. de la France_ (xxii.,
   841-851, 1852). A French prose version was printed in Paris, 1525, and
-  subsequently (see G. Brunet, _Manuel du libraire_, _s.v._ "Guy de
+  subsequently (see G. Brunet, _[[Manuel]] du libraire_, _s.v._ "Guy de
   Warvich"); the English metrical romance exists in four versions,
   dating from the early 14th century; the text was edited by J. Zupitza
   (1875-1876) for the E.E.T.S. from Cambridge University Lib. Paper MS.
@@ -60,8 +60,8 @@ transferred to the English hero in the _Speculum Gy of Warewyke_ (_c_.
   59), from the Auchinleck and Caius College MSS. The popularity of the
   legend is shown by the numerous versions in English: _Guy of Warwick_,
   translated from the Latin of Girardus Cornubiensis (fl. 1350) into
-  English verse by John Lydgate between 1442 and 1468; _Guy of Warwick_,
-  a poem (written in 1617 and licensed, but not printed) by John Lane,
+  English verse by John [[Lydgate]] between 1442 and 1468; _Guy of Warwick_,
+  a poem (written in 1617 and licensed, but not printed) by John [[Lane]],
   the MS. of which (Brit. Mus.) contains a sonnet by John Milton, father
   of the poet; _The Famous Historie of Guy, Earl of Warwick_ (c. 1607),
   by Samuel Rowlands; _The Booke of the Moste Victoryous Prince Guy of
@@ -71,7 +71,7 @@ transferred to the English hero in the _Speculum Gy of Warewyke_ (_c_.
   Earl of Warwick_, a tragedy (1661) which may possibly be identical
   with a play on the subject Written by John Day and Thomas Dekker, and
   entered at Stationers' Hall on the 15th of January 1618/19; three
-  verse fragments are printed by Hales and Furnivall in their edition of
+  verse fragments are printed by [[Hales]] and Furnivall in their edition of
   the Percy Folio MS. vol. ii.; an early French MS. is described by J.
   A. Herbert (_An Early MS. of Gui de Warwick_, London, 1905).
 
@@ -88,7 +88,7 @@ FOOTNOTES:
 
   [1] Some writers have supposed that the fight with Colbrand
     symbolizes the victory of Brunanburh. Anelaph and Gonelaph would then
-    represent the cousins Anlaf Sihtricson and Anlaf Godfreyson (see
+    represent the [[Cousin|cousins]] Anlaf Sihtricson and Anlaf Godfreyson (see
     HAVELOK).
 
   [2] See the English legends in C. Horstmann, _Altenglische Legenden_,

@@ -2,7 +2,7 @@
 
 LOPES, FERNÃO (1380?-1459?), the patriarch of Portuguese historians, was
 appointed keeper of the royal archives, then housed in the castle of St
-George in Lisbon, by King John I. in November 1418. He acted as private
+George in [[Lisbon]], by King John I. in November 1418. He acted as private
 secretary to the Infants D. Duarte and D. Fernando, and when the former
 ascended the throne he charged Lopes, by letter of the 19th of March
 1434, with the work of "putting into chronicles the stories of the kings
@@ -18,8 +18,8 @@ chronicler, he resigned in favour of Gomez Eannes de Azurara. The latter
 pays a tribute to his predecessor as "a notable person, a man of rare
 knowledge and great authority," and the modern historian Herculano says,
 "there is not only history in the chronicles of Fernão Lopes, there is
-poetry and drama as well; there is the middle age with its faith, its
-enthusiasm, its love of glory." Lopes has been called the Portuguese
+poetry and [[Drama|drama]] as well; there is the middle age with its faith, its
+[[Enthusiasm|enthusiasm]], its love of glory." Lopes has been called the Portuguese
 Froissart, and that rare gift, the power of making their subjects live,
 is common to the two writers; indeed, had the former written in a
 better-known language, there can be little doubt that the general
@@ -33,7 +33,7 @@ himself for his work with care and diligence, as he tells us, not only
 by wide reading of books in different languages, but also by a study of
 the archives belonging to municipalities, monasteries and churches, both
 in Portugal and Spain. He is usually a trustworthy guide in facts, and
-charms the reader by the naïve simplicity of his style.
+[[Charm|charms]] the reader by the naïve simplicity of his style.
 
   His works that have come down are: (1) _Chronica del Rei D. João I. de
   boa memoria_, parts 1 and 2 (Lisbon, 1644). The third part relating

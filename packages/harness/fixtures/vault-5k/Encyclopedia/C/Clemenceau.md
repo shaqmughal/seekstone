@@ -21,7 +21,7 @@ committee sitting at the hôtel de ville, and they ordered his arrest,
 but he escaped; he was accused, however, by various witnesses, at the
 subsequent trial of the murderers (November 29th), of not having
 intervened when he might have done, and though he was cleared of this
-charge it led to a duel, for his share in which he was prosecuted and
+charge it led to a [[Duel|duel]], for his share in which he was prosecuted and
 sentenced to a fine and a fortnight's imprisonment.
 
 Meanwhile, on the 20th of March 1871, he had introduced in the National
@@ -78,14 +78,14 @@ was defeated for the Chamber, after having sat in it continuously since
 1876. After his defeat for the Chamber, M. Clemenceau confined his
 political activities to journalism, his career being further
 overclouded--so far as any immediate possibility of regaining his old
-ascendancy was concerned--by the long-drawn-out Dreyfus case, in which
+ascendancy was concerned--by the long-drawn-out [[Dreyfus]] case, in which
 he took an active and honourable part as a supporter of M. Zola and an
 opponent of the anti-Semitic and Nationalist campaign. In 1900 he
 withdrew from _La Justice_ to found a weekly review, _Le Bloc_, which
 lasted until March 1902. On the 6th of April 1902 he was elected senator
 for the Var, although he had previously continually demanded the
 suppression of the Senate. He sat with the Socialist Radicals, and
-vigorously supported the Combes ministry. In June 1903 he undertook the
+vigorously supported the [[Combes]] ministry. In June 1903 he undertook the
 direction of the journal _L'Aurore_, which he had founded. In it he led
 the campaign for the revision of the Dreyfus affair, and for the
 separation of Church and State.
@@ -119,7 +119,7 @@ found employment at Madrid in 1788 as tutor to the sons of the
 countess-duchess de Benavente, and devoted himself to the study of
 archaeology. In 1807 he became editor of the _Gaceta de Madrid_, and in
 the following year was condemned to death by Murat for publishing a
-patriotic article; he fled to Cadiz, and under the Junta Central held
+patriotic article; he fled to Cadiz, and under the [[Junta]] Central held
 various posts from which he was dismissed by the reactionary government
 of 1814. During the liberal régime of 1820-1823 Clemencín took office as
 colonial minister, was exiled till 1827, and in 1833 published the first

@@ -22,7 +22,7 @@ to the 4th century, and contains the route of a pilgrimage from Bordeaux
 to Jerusalem and from Heraclea by Rome to Milan (ed. G. Parthey and M.
 Pinder, 1848, with the _Itinerarium Antonini_); (3) _It. Alexandria_
 containing a sketch of the march-route of Alexander the Great, mainly
-derived from Arrian and prepared for Constantius's expedition in A.D.
+derived from [[Arrian]] and prepared for Constantius's expedition in A.D.
 340-345 against the Persians (ed. D. Volkmann, 1871). A collected
 edition of the ancient itineraria, with ten maps, was issued by Fortia
 d'Urban, _Recueil des itinéraires anciens_ (1845). Of the Itineraria

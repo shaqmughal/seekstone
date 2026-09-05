@@ -5,7 +5,7 @@ coefficient of thermal expansion; it is specially useful in the
 construction of pendulums and of geodetic measuring apparatus, in fact,
 in all mechanical devices where it is an advantage to avoid temperature
 compensation. The name was chosen as expressing the invariability of its
-dimensions with heat. (See CLOCK; GEODESY.)
+[[Dimension|dimensions]] with heat. (See CLOCK; [[Geodesy|GEODESY]].)
 
 ## See also
 

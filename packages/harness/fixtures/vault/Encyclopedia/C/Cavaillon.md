@@ -1,14 +1,14 @@
 # Cavaillon
 
 CAVAILLON, a town of south-eastern France in the department of Vaucluse,
-20 m. S.E. of Avignon by rail. Pop. (1906) town, 5760; commune, 9952.
+20 m. S.E. of [[Avignon]] by rail. Pop. (1906) town, 5760; [[Commune|commune]], 9952.
 Cavaillon lies at the southern base of Mont St Jacques on the right bank
-of the Durance above its confluence with the Coulon. It has a hotel de
+of the [[Durance]] above its confluence with the Coulon. It has a hotel de
 ville of the 18th century, a church of the 12th century, dedicated to St
-Veran, and the mutilated remains of a triumphal arch of the Roman
+Veran, and the mutilated remains of a triumphal [[Arch|arch]] of the Roman
 period. The town is an important railway junction and the commercial
 centre of a rich and well-irrigated plain, which produces melons and
-other fruits, early vegetables (artichokes, tomatoes, celery, potatoes),
+other fruits, early vegetables (artichokes, tomatoes, [[Celery|celery]], potatoes),
 and other products in profusion. Silk-worms are reared, and silk is an
 important article of trade. The preparation of preserved vegetables,
 fruits and other provisions, distilling, and the manufacture of straw

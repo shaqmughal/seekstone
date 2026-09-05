@@ -56,7 +56,7 @@ the _St James's_ at Greenwood's own suggestion. In January 1891
 Greenwood brought out a weekly review which he named the _Anti-Jacobin_.
 It failed, however, to gain public support, the last number appearing in
 January 1892. In 1893 he published _The Lover's Lexicon_ and in 1894
-_Imagination in Dreams_. He continued to express his views on political
+_[[Imagination]] in Dreams_. He continued to express his views on political
 and social questions in contributions to newspapers and magazines,
 writing frequently in the _Westminster Gazette_, the _Pall Mall_,
 _Blackwood_, the _Cornhill_, &c. Towards the end of his life his

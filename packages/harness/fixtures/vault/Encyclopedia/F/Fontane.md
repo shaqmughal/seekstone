@@ -10,8 +10,8 @@ id: 42-2765
 
 FONTANE, THEODOR (1819-1898), German poet and novelist, was born at
 Neu-Ruppin on the 30th of December 1819. At the age of sixteen he was
-apprenticed to a chemist, and after qualifying as an apothecary, he
-found employment in Leipzig and Dresden. In 1844 he travelled in
+apprenticed to a chemist, and after qualifying as an [[Apothecary|apothecary]], he
+found employment in Leipzig and [[Dresden]]. In 1844 he travelled in
 England, and settling in Berlin devoted himself from 1849 to literature.
 He made repeated journeys to England, interesting himself in old English
 ballads, and as the first fruits of his tours published _Ein Sommer in
@@ -19,7 +19,7 @@ London_ (1854); _Aus England, Studien und Briefe_ (1860) and _Jenseit
 des Tweed, Bilder und Briefe aus Schottland_ (1860). Fontane was
 particularly attached to the Mark of Brandenburg, in which his home lay;
 he was proud of its past achievements, and delighted in the growth of
-the capital city, Berlin. The fascination which the country of his birth
+the capital city, Berlin. The [[Fascination|fascination]] which the country of his birth
 had for him may be seen in his delightfully picturesque _Wanderungen
 durch die Mark Brandenburg_ (1862-1882, 4 vols.). He also described the
 wars of Prussia in _Der schleswig-holsteinische Krieg im Jahre 1864_

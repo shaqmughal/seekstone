@@ -332,7 +332,7 @@ expression as well as in substance.
 Thus regarded, even without remarking that the _Novels_, never having
 been officially collected, much less incorporated with the _Codex_, mar
 the symmetry of the structure, Justinian's work may appear to entitle
-him and Tribonian to much less credit than they have usually received
+him and Tribonian to much less [[Credit|credit]] than they have usually received
 for it. But let it be observed, first, that to reduce the huge and
 confused mass of pre-existing law into the compass of these two
 collections was an immense practical benefit to the empire; secondly,
@@ -628,7 +628,7 @@ empire. The ease with which so important a conquest had been effected
 encouraged Justinian to attack the Ostrogoths of Italy, whose kingdom,
 though vast in extent, for it included part of south-eastern Gaul,
 Raetia, Dalmatia and part of Pannonia, as well as Italy, Sicily,
-Sardinia and Corsica, had been grievously weakened by the death first of
+Sardinia and [[Corsica]], had been grievously weakened by the death first of
 the great Theodoric, and some years later of his grandson Athalaric, so
 that the Gothic nation was practically without a head. Justinian began
 the war in 535, taking as his pretext the murder of Queen Amalasuntha,
@@ -704,7 +704,7 @@ opinion has existed among historians. The civilians, looking on him as a
 patriarch of their science, have as a rule extolled his wisdom and
 virtues; while ecclesiastics of the Roman Church, from Cardinal Baronius
 downwards, have been offended by his arbitrary conduct towards the
-popes, and by his last lapse into heresy, and have therefore been
+popes, and by his last [[Lapse|lapse]] into heresy, and have therefore been
 disposed to accept the stories which ascribe to him perfidy, cruelty,
 rapacity and extravagance. The difficulty of arriving at a fair
 conclusion is increased by the fact that Procopius, who is our chief

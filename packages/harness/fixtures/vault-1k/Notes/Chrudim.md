@@ -15,7 +15,7 @@ agricultural machinery. There are also steam corn-mills and saw-mills.
 Chrudim is mentioned as the castle of a _gaugraf_ as early as 993. The
 new town was founded by Ottokar II., who settled many Germans in it and
 gave it many privileges. After 1421 Chrudim was held by the Hussites,
-and though Ferdinand I. confiscated most of the town property, it
+and though [[Ferdinand]] I. confiscated most of the town property, it
 prospered greatly till the outbreak of the Thirty Years' War. In 1625
 the greater part of its Hussite inhabitants left the town, which
 suffered much later on from the Swedes. Chrudim was the birthplace of
@@ -40,7 +40,7 @@ afford a wide choice in colour, form, habit and times of flowering. The
 incurved Chinese kinds are severely neat-looking flowers in many shades
 of colour. The anemone-flowered kinds have long outer or ray petals, the
 interior or disk petals being short and tubular. These are to be had in
-many pleasing colours. The pompon kinds are small flowered, the petals
+many pleasing [[Colours|colours]]. The pompon kinds are small flowered, the petals
 being short. The plants are mostly dwarf in habit. In the single
 varieties the outer or ray florets alone are large and attractively
 coloured.
@@ -49,7 +49,7 @@ coloured.
   chrysanthemum is of the easiest culture. It is an exceptionally good
   town plant. By a judicious selection of varieties, flowers may be
   produced in abundance and in considerable variety from August to the
-  end of November, and in favourable seasons well on towards Christmas.
+  end of November, and in favourable seasons well on towards [[Christmas]].
   Since 1890 when the English market was flooded with French raised
   varieties of exceptional merit, the border chrysanthemum has taken
   first place among hardy autumn flowering plants. Most of the varieties

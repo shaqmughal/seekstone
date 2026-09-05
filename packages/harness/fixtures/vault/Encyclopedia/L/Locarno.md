@@ -9,7 +9,7 @@ type: note
 
 LOCARNO (Ger. _Luggarus_), a small town of Italian appearance in the
 Swiss canton of Tessin or Ticino, of which till 1881 it was one of the
-three capitals (the others being Bellinzona, q.v., and Lugano, q.v.). It
+three capitals (the others being [[Bellinzona]], q.v., and Lugano, q.v.). It
 is built at the north or Swiss end of the Lago Maggiore, not far from
 the point at which the Maggia enters that lake, and is by rail 14 m.
 S.W. of Bellinzona. Its height above the sea-level is only 682 ft., so

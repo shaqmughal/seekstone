@@ -11,18 +11,18 @@ FRISIANS (Lat. _Frisii_; in Med. Lat. _Frisones_, _Frisiones_,
 _Fresones_; in their own tongue _Fresa_, _Fresen_), a people of Teutonic
 (Low-German) stock, who in the first century of our era were found by
 the Romans in occupation of the coast lands stretching from the mouth of
-the Scheldt to that of the Ems. They were nearly related both by speech
+the Scheldt to that of the [[Ems]]. They were nearly related both by speech
 and blood to the Saxons and Angles, and other Low German tribes, who
 lived to the east of the Ems and in Holstein and Schleswig. The first
-historical notices of the Frisians are found in the _Annals_ of Tacitus.
-They were rendered (or a portion of them) tributary by Drusus, and
+historical notices of the Frisians are found in the _[[Annals]]_ of Tacitus.
+They were rendered (or a portion of them) tributary by [[Drusus]], and
 became _socii_ of the Roman people. In A.D. 28 the exactions of a Roman
 official drove them to revolt, and their subjection was henceforth
 nominal. They submitted again to Cn. Domitius Corbulo in the year 47,
 but shortly afterwards the emperor Claudius ordered the withdrawal of
 all Roman troops to the left bank of the Rhine. In 58 they attempted
 unsuccessfully to appropriate certain districts between the Rhine and
-the Yssel, and in 70 they took part in the campaign of Claudius Civilis.
+the Yssel, and in 70 they took part in the campaign of Claudius [[Civilis]].
 From this time onwards their name practically disappears. As regards
 their geographical position Ptolemy states that they inhabited the coast
 above the Bructeri as far as the Ems, while Tacitus speaks of them as
@@ -62,17 +62,17 @@ some Frisians took part with the Angles and Saxons in their sea-roving
 expeditions, and assisted their neighbours in their invasions and
 subsequent conquest of England and the Scottish lowlands.
 
-The rise of the power of the Franks and the advance of their dominion
+The rise of the power of the [[Franks]] and the advance of their dominion
 northwards brought on a collision with the Frisians, who in the 7th
 century were still in possession of the whole of the seacoast, and
-apparently ruled over the greater part of modern Flanders. Under the
+apparently ruled over the greater part of modern [[Flanders]]. Under the
 protection of the Frankish king Dagobert (622-638), the Christian
 missionaries Amandus (St Amand) and Eligius (St Eloi) attempted the
-conversion of these Flemish Frisians, and their efforts were attended
+[[Conversion|conversion]] of these Flemish Frisians, and their efforts were attended
 with a certain measure of success; but farther north the building of a
 church by Dagobert at Trajectum (Utrecht) at once aroused the fierce
-hostility of the heathen tribesmen of the Zuider Zee. The "free"
-Frisians could not endure this Frankish outpost on their borders.
+hostility of the [[Heathen|heathen]] tribesmen of the Zuider Zee. The "free"
+Frisians could not endure this Frankish outpost on their [[Borders|borders]].
 Utrecht was attacked and captured, and the church destroyed. The first
 missionary to meet with any success among the Frisians was the
 Englishman Wilfrid of York, who, being driven by a storm upon the coast,
@@ -85,7 +85,7 @@ subjection. He was, however, beaten by Pippin of Heristal in the battle
 of Dorstadt (689), and was compelled to cede West Frisia (_Frisia
 citerior_) from the Scheldt to the Zuider Zee to the conqueror. On
 Pippin's death Radbod again attacked the Franks and advanced as far as
-Cologne, where he defeated Charles Martel, Pippin's natural son.
+[[Cologne]], where he defeated Charles Martel, Pippin's natural son.
 Eventually, however, Charles prevailed and compelled the Frisians to
 submit. Radbod died in 719, but for some years his successors struggled
 against the Frankish power. A final defeat was, however, inflicted upon
@@ -100,22 +100,22 @@ founded a number of bishoprics in the northern Netherlands, and
 continued his labours unremittingly until his death in 739. It is an
 interesting fact that both Wilfrid and Willibrord appear to have found
 no difficulty from the first in preaching to the Frisians in their
-native dialect, which was so nearly allied to their own Anglo-Saxon
+native [[Dialect|dialect]], which was so nearly allied to their own Anglo-Saxon
 tongue. The see of Utrecht founded by Willibrord has remained the chief
-see of the Northern Netherlands from his day to our own. Friesland was
+see of the Northern Netherlands from his day to our own. [[Friesland]] was
 likewise the scene of a portion of the missionary labours of a greater
-than Willibrord, the famous Boniface, the Apostle of the Germans, also
+than Willibrord, the famous Boniface, the [[Apostle]] of the Germans, also
 an Englishman. It was at Dokkum in Friesland that he met a martyr's
 death (754).
 
-Charles the Great granted the Frisians important privileges under a code
+Charles the Great granted the Frisians important privileges under a [[Code|code]]
 known as the _Lex Frisionum_, based upon the ancient laws of the
 country. They received the title of freemen and were allowed to choose
 their own _podestat_ or imperial governor. In the _Lex Frisionum_ three
 districts are clearly distinguished: West Frisia from the Zwin to the
 Flie; Middle Frisia from the Flie to the Lauwers; East Frisia from the
 Lauwers to the Weser. At the partition treaty of Verdun (843) Frisia
-became part of Lotharingia or Lorraine; at the treaty of Mersen (870) it
+became part of Lotharingia or [[Lorraine]]; at the treaty of Mersen (870) it
 was divided between the kingdoms of the East Franks (Austrasia) and the
 West Franks (Westrasia); in 880 the whole country was united to
 Austrasia; in 911 it fell under the dominion of Charles the Simple, king
@@ -141,7 +141,7 @@ inconsiderable.
 
 Besides the Frisians discussed above there is a people called North
 Frisians, who inhabit the west coast of Schleswig. At present a Frisian
-dialect is spoken only between Tondern and Husum, but formerly it
+dialect is spoken only between Tondern and [[Husum]], but formerly it
 extended farther both to the north and south. In historical times these
 North Frisians were subjects of the Danish kingdom and not connected in
 any way with the Frisians of the empire. They are first mentioned by
@@ -167,7 +167,7 @@ Frieslanders east of the Zuider Zee obstinately resisted repeated
 attempts to bring them into subjection. In the course of the 14th
 century the country was in a state of anarchy; petty lordships sprang
 into existence, the interests of the common weal were forgotten or
-disregarded, and the people began to be split up into factions, and
+disregarded, and the people began to be split up into [[Faction|factions]], and
 these were continually carrying on petty warfare with one another. Thus
 the Fetkoopers (Fatmongers) of Oostergoo had endless feuds with the
 Schieringers (Eelfishers) of Westergoo.
@@ -180,9 +180,9 @@ the people appealed to the protection of the empire, and Frederick III.,
 in August 1457, recognized their direct dependence on the empire and
 called on Philip to bring forward formal proof of his rights. Philip's
 successor, Charles the Bold, summoned an assembly of notables at
-Enkhuizen in 1469, in order to secure their homage; but the conference
+[[Enkhuizen]] in 1469, in order to secure their [[Homage|homage]]; but the conference
 was without result, and the duke's attention was soon absorbed by other
-and more important affairs. The marriage of Maximilian of Austria with
+and more important affairs. The marriage of [[Maximilian]] of Austria with
 the heiress of Burgundy was to be productive of a change in the fortunes
 of that part of Frisia which lies between the Vlie and the Lauwers. In
 1498 Maximilian reversed the policy of his father Frederick III., and
@@ -196,11 +196,11 @@ That part of Frisia which lies to the east of the Lauwers had a divided
 history. The portion which lies between the Lauwers and the Ems after
 some struggles for independence had, like the rest of the country, to
 submit itself to Charles. It became ultimately the province of the town
-and district of Groningen (Stadt en Landen) (see GRONINGEN). The
+and district of [[Groningen]] (Stadt en [[Landen]]) (see GRONINGEN). The
 easternmost part between the Ems and the Weser, which had since 1454
 been a county, was ruled by the descendants of Edzard Cirksena, and was
 attached to the empire. The last of the Cirksenas, Count Charles Edward,
-died in 1744 and in default of heirs male the king of Prussia took
+died in 1744 and in [[Default|default]] of [[Heir|heirs]] male the king of Prussia took
 possession of the county.
 
 The province of Friesland was one of the seven provinces which by the
@@ -211,7 +211,7 @@ jealously insisted on its sovereign rights, especially against the
 encroachments of the predominant province of Holland. It maintained
 throughout the whole of the republican period a certain distinctiveness
 of nationality, which was marked by the preservation of a different
-dialect and of a separate stadtholder. Count William Lewis of
+dialect and of a separate stadtholder. Count William [[Lewis]] of
 Nassau-Siegen, nephew and son-in-law of William the Silent, was chosen
 stadtholder, and through all the vicissitudes of the 17th and 18th
 centuries the stadtholdership was held by one of his descendants.
@@ -228,24 +228,24 @@ with the death of King William III. in 1890.
 
   BIBLIOGRAPHY--See Tacitus, _Ann._ iv. 72 f., xi. 19 f., xiii. 54;
   _Hist._ iv. 15 f.; _Germ._ 34; Ptolemy, _Geogr._ ii. 11, S 11; Dio
-  Cassius liv. 32; Eumenius, _Paneg._ iv. 9; the Anglo-Saxon poems,
+  [[Cassius]] liv. 32; Eumenius, _Paneg._ iv. 9; the Anglo-Saxon poems,
   Finn, Beowulf and Widsith; _Fredegarii Chronici continuatio_ and
-  various German Annals; _Gesta regum Francorum_; Eddius, _Vita
-  Wilfridi_, cap. 25 f.; Bede, _Hist. Eccles_, iv. 22, v. 9 f.; Alcuin,
+  various German Annals; _Gesta regum Francorum_; [[Eddius]], _Vita
+  Wilfridi_, cap. 25 f.; [[Bede]], _Hist. Eccles_, iv. 22, v. 9 f.; Alcuin,
   _Vita Willebrordi_; I. Undset, _Aarbger for nordisk Oldkyndighed_
   (1880), p. 89 ff. (cf. E. Mogk in Paul's _Grundriss d. germ.
   Philologie_ ii. p. 623 ff.); Ubbo Emmius, _Rerum Frisicarum historia_
   (Leiden, 1616); Pirius Winsemius, _Chronique van Vriesland_ (Franoker,
   1822); C. Scotanus, _Beschryvinge end Chronyck van des Heerlickheydt
-  van Frieslandt_ (1655); _Groot Placaat en Charter-boek van Friesland_
-  (ed. Baron C. F. zu Schwarzenberg) (5 vols., Leeuwarden, 1768-1793);
+  van Frieslandt_ (1655); _[[Groot]] Placaat en Charter-boek van Friesland_
+  (ed. Baron C. F. zu Schwarzenberg) (5 vols., [[Leeuwarden]], 1768-1793);
   T. D. Wiarda, _Ost-frieschische Gesch._ (vols. i.-ix., Aurich, 1791)
   (vol. x., Bremen, 1817); J. Dirks, _Geschiedkundig onderzoek van den
   Koophandel der Friezen_ (Utrecht, 1846); O. Klopp, _Gesch.
-  Ostfrieslands_ (3 vols., Hanover, 1854-1858); Hooft van Iddekinge,
+  Ostfrieslands_ (3 vols., [[Hanover]], 1854-1858); [[Hooft]] van Iddekinge,
   _Friesland en de Friezen in de Middeleeuwen_ (Leiden, 1881); A.
-  Telting, _Het Oudfriesche Stadrecht_ (The Hague, 1882); P. J. Blok,
-  _Friesland im Mittelalter_ (Leer, 1891).
+  Telting, _Het Oudfriesche Stadrecht_ (The [[Hague]], 1882); P. J. Blok,
+  _Friesland im Mittelalter_ ([[Leer]], 1891).
 
 ## See also
 

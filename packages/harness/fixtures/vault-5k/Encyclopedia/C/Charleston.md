@@ -14,9 +14,9 @@ the Ashley on the W. and S.W., and within sight of the ocean about 7 m.
 distant. Pop. (1890) 54,955; (1900) 55,807, of whom 31,522 were of negro
 descent and 2592 were foreign-born; (1910 census) 58,833. It is served
 by the Atlantic Coast Line and the Southern railways, the Clyde
-Steamship Line to New York, Boston and Jacksonville, the Baltimore &
+Steamship Line to New York, [[Boston]] and Jacksonville, the Baltimore &
 Carolina Steamship Co. to Baltimore and Georgetown, and a branch of the
-North German Lloyd Steamship Co., which brings immigrants from Europe
+North German [[Lloyd]] Steamship Co., which brings immigrants from Europe
 direct to the Southern states; there are freight boat lines to ports in
 the West Indies, Central America and other foreign countries.
 
@@ -47,7 +47,7 @@ Street below Broad, on Legare Street, on Broad Street and on Rutledge
 Avenue to the west of King. At the south-east corner of Broad and
 Meeting streets is Saint Michael's (built in 1752-1761), the oldest
 church edifice in the city, and a fine specimen of colonial
-ecclesiastical architecture; in its tower is an excellent chime of eight
+ecclesiastical architecture; in its tower is an excellent [[Chime|chime]] of eight
 bells. Beneath the vestry room lie the remains of Charles Cotesworth
 Pinckney, and in the churchyard are the graves of John Rutledge, James
 Louis Petigru (1789-1863), and Robert Young Hayne. At the intersection
@@ -68,20 +68,20 @@ John C. Calhoun, and of Robert James Turnbull (1775-1833), who was
 prominent locally as a nullifier and under the name of "Brutus" wrote
 ably on behalf of nullification, free trade and state's rights. The
 French Protestant Church, though small, is an attractive specimen of
-Gothic architecture; and the Unitarian, which is in the Perpendicular
+[[Gothic]] architecture; and the Unitarian, which is in the Perpendicular
 style and is modelled after the chapel of Edward VI. in Westminster, has
-a beautiful fan-tracery ceiling.
+a beautiful fan-tracery [[Ceiling|ceiling]].
 
 Of the few small city squares, gardens or parks, the White Point Garden
 at the lower end of the peninsula is most frequented; it is shaded with
 beautiful live oaks, is adorned with palmettoes and commands a fine view
-of the harbour. About 1-1/2 m. north of this on Meeting Street is Marion
+of the harbour. About 1-1/2 m. north of this on Meeting Street is [[Marion]]
 Square, with a tall graceful monument to the memory of John C. Calhoun
 on the south side, and the South Carolina Military Academy along the
 north border. The largest park in Charleston is Hampton Park, named in
 honour of General Wade Hampton. It is situated in the north-west part of
 the city and is beautifully laid out. The Isle of Palms, to the north of
-Sullivan's Island, has a large pavilion and a wide sandy beach with a
+Sullivan's Island, has a large pavilion and a wide sandy [[Beach|beach]] with a
 fine surf for bathing, and is the most popular resort for visitors. The
 Magnolia Gardens are about 8 m. up the Ashley. Twenty-two miles beyond
 is the town of Summerville (pop. in 1900, 2420), a health resort in the
@@ -107,12 +107,12 @@ Academy (Protestant Episcopal), the Confederate home school for young
 women, the Charleston University School, and the Avery Normal Institute
 (Congregationalist) for coloured students. In the Charleston library
 (about 25,000 volumes), founded in 1748, are important collections of
-rare books and manuscripts; the rooms of the South Carolina Historical
+rare books and [[Manuscript|manuscripts]]; the rooms of the South Carolina Historical
 Society are in the same building. The Charleston _News and Courier_,
 published first as the _Courier_ in 1803 and combined with the _Daily
 News_ (1865) in 1873, is one of the most influential newspapers in the
 South. The charitable institutions of the city include the Roper
-hospital, the Charleston Orphan Asylum (founded in 1792), the William
+hospital, the Charleston Orphan [[Asylum]] (founded in 1792), the William
 Euston home for the aged, and a home for the widows of Confederate
 soldiers.
 
@@ -149,7 +149,7 @@ begun about 1672, and the seat of government was removed to it in 1680.
 The name Charles Town became Charlestown about 1719 and Charleston in
 1783. Among the early settlers were English Churchmen, New England
 Congregationalists, Scotch and Irish Presbyterians, Dutch and German
-Lutherans, Huguenots (especially in 1680-1688) from France and
+Lutherans, [[Huguenots]] (especially in 1680-1688) from France and
 Switzerland, and a few Quakers; later the French element of the
 population was augmented by settlers from Acadia (1755) and from San
 Domingo (1793). Although it soon became the largest and the wealthiest

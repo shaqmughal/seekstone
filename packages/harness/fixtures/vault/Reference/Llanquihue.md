@@ -1,6 +1,6 @@
 # Llanquihue
 
-LLANQUIHUE (pron. _lan-kè-wa_), a province of southern Chile bordering
+LLANQUIHUE (pron. _lan-kè-wa_), a province of southern [[Chile]] bordering
 on the northern shores of the Gulf and Straits of Chacao, and extending
 from the Pacific to the Argentine frontier. The province of Valdivia
 lies N. and is separated from it in part by the Bueno river. Pop. (1895)
@@ -29,13 +29,13 @@ Pacific are more or less obstructed by sand-bars. Apart from the lumber
 industry, which is the most important, the productions of Llanquihue
 include wheat, barley, potatoes and cattle. The white population is
 composed in great part of Germans, who have turned large areas of forest
-lands in the northern districts into productive wheat fields. The
+lands in the northern districts into productive wheat [[Fields|fields]]. The
 capital is Puerto Montt, on a nearly land-locked bay called the
 Reloncavi, designed to be the southern terminus of the longitudinal
 railway from Tacna, a distance of 2152 m. An important town in the
 northern part of the province is Osorno, on the Rahue river, which is
 chiefly inhabited by Germans. It exports wheat and other farm produce,
-leather, lumber and beer.
+leather, lumber and [[Beer|beer]].
 
 ## See also
 

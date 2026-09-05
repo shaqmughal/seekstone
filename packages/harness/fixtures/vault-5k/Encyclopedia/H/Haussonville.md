@@ -21,11 +21,11 @@ anti-imperial paper at Brussels, _Le Bulletin francais_, and in 1863 he
 actively supported the candidature of Prevost Paradol. He was elected to
 the French Academy in 1869, in recognition of his historical writings,
 _Histoire de la politique exterieure du gouvernement francais de 1830 a
-1848_ (2 vols., 1850), _Histoire de la reunion de la Lorraine a la
+1848_ (2 vols., 1850), _Histoire de la reunion de la [[Lorraine]] a la
 France_ (4 vols., 1854-1859), _L'Eglise romaine et le premier empire
 1800-1814_ (5 vols., 1864-1879). In 1870 he published a pamphlet
 directed against the Prussian treatment of France, _La France et la
-Prusse devant l'Europe_, the sale of which was prohibited in Belgium at
+Prusse devant l'Europe_, the sale of which was prohibited in [[Belgium]] at
 the request of King William of Prussia. He was the president of an
 association formed to provide new homes in Algeria for the inhabitants
 of Alsace-Lorraine who elected to retain their French nationality. In
@@ -34,8 +34,8 @@ with the Right Centre in defence of the religious associations against
 the anti-clericals. He died in Paris on the 28th of May 1884.
 
 His wife Louise (1818-1882), a daughter of Duc Victor de Broglie,
-published in 1858 a novel _Robert Emmet_, followed by _Marguerite de
-Valois reine de Navarre_ (1870), _La Jeunesse de Lord Byron_ (1872), and
+published in 1858 a novel _Robert Emmet_, followed by _[[Marguerite]] de
+Valois reine de Navarre_ (1870), _La Jeunesse de Lord [[Byron]]_ (1872), and
 _Les Dernieres Annees de Lord Byron_ (1874).
 
 His son, GABRIEL PAUL OTHERIN DE CLERON, comte d'Haussonville, was born
@@ -61,7 +61,7 @@ d'Haussonville published:--_C. A. Sainte-Beuve, sa vie et ses oeuvres_
 _Le Salon de Mme Necker_ (1882, 2 vols.), _Madame de La Fayette_ (1891),
 _Madame Ackermann_ (1892), _Le Comte de Paris, souvenirs personnels_
 (1895), _La Duchesse de Bourgogne et l'alliance savoyarde_ (1898-1903),
-_Salaire et miseres de femme_ (1900), and, with G. Hanotaux, _Souvenirs
+_Salaire et miseres de femme_ (1900), and, with G. [[Hanotaux]], _Souvenirs
 sur Madame de Maintenon_ (3 vols., 1902-1904).
 
 ## References

@@ -7,9 +7,9 @@ topic: science
 # Bala Series
 
 BALA SERIES, in geology, a series of dark slates and sandstones with beds
-of limestone which occurs in the neighbourhood of Bala, Merionethshire,
+of [[Limestone|limestone]] which occurs in the neighbourhood of Bala, Merionethshire,
 North Wales. It was first described by A. Sedgwick, who considered it to be
-the upper part of his Cambrian System. The series is now placed at the top
+the upper part of his [[Cambrian System]]. The series is now placed at the top
 of the Ordovician System, above the Llandeilo beds. The Bala limestone is
 from 20 to 40 ft. thick, and is recognizable over most of North Wales; it
 is regarded as the equivalent of the Coniston limestone of the Lake

@@ -18,12 +18,12 @@ Martineau--were surgeons in the same city, while his father was a
 manufacturer and merchant. James was educated at Norwich Grammar School
 under Edward Valpy, as good a scholar as his better-known brother
 Richard. But the boy proving too sensitive for the life of a public day
-school, was sent to Bristol to the private academy of Dr Lant Carpenter,
+school, was sent to [[Bristol]] to the private academy of Dr Lant Carpenter,
 under whom he studied for two years. On leaving he was apprenticed to a
-civil engineer at Derby, where he acquired "a store of exclusively
+civil engineer at [[Derby]], where he acquired "a store of exclusively
 scientific conceptions,"[1] but also experienced the hunger of mind
 which forced him to look to religion for satisfaction. Hence came his
-"conversion," and the sense of vocation for the ministry which impelled
+"[[Conversion|conversion]]," and the sense of vocation for the ministry which impelled
 him in 1822 to enter Manchester College, then lodged at York. Here he
 "woke up to the interest of moral and metaphysical speculations." Of his
 teachers, one, the Rev. Charles Wellbeloved, was, Martineau said, "a
@@ -84,7 +84,7 @@ was so typical of the century in which he lived and the society within
 which he moved, that he can be better understood through his spoken mind
 than through his outward history. He was a man happy in his ancestry; he
 inherited the dignity, the reserve, the keen and vivid intellect, and
-the picturesque imagination of the French Huguenot, though they came to
+the picturesque [[Imagination|imagination]] of the French Huguenot, though they came to
 him chastened and purified by generations of Puritan discipline
 exercised under the gravest ecclesiastical disabilities, and of culture
 maintained in the face of exclusion from academic privileges. He had the
@@ -100,19 +100,19 @@ whole intellectual life, which was too deep to be disturbed by any
 superficial change in his philosophy, being the feeling for God. He has,
 indeed, described in graphic terms the greatest of the more superficial
 changes he underwent; how he had "carried into logical and ethical
-problems the maxims and postulates of physical knowledge," and had moved
+problems the [[Maxims|maxims]] and postulates of physical knowledge," and had moved
 within the narrow lines drawn by the philosophical instructions of the
 class-room "interpreting human phenomena by the analogy of external
 nature"; how he served in willing captivity "the 'empirical' and
 'necessarian' mode of thought," even though "shocked" by the dogmatism
-and acrid humours "of certain distinguished representatives";[6] and how
+and acrid [[Humour|humours]] "of certain distinguished representatives";[6] and how
 in a period of "second education" at Berlin, "mainly under the admirable
 guidance of Professor Trendelenburg," he experienced "a new intellectual
 birth" which "was essentially the gift of fresh conceptions, the
 unsealing of hidden openings of self-consciousness, with unmeasured
 corridors and sacred halls behind; and, once gained, was more or less
 available throughout the history of philosophy, and lifted the darkness
-from the pages of Kant and even Hegel."[7] But though this momentous
+from the pages of [[Kant]] and even Hegel."[7] But though this momentous
 change of view illuminated his old beliefs and helped him to
 re-interpret and re-articulate them, yet it made him no more of a theist
 than he had been before. And as his theism was, so was his religion and
@@ -158,9 +158,9 @@ it.
   interpretative functions. He had the imagination that invested with
   personal being and ethical qualities the most abstruse notions. To him
   space became a mode of divine activity, alive with the presence and
-  illuminated by the vision of God; time was an arena where the divine
+  illuminated by the vision of God; time was an [[Arena|arena]] where the divine
   hand guided and the divine will reigned. And though he did not believe
-  in the Incarnation, yet he held deity to be in a sense manifest in
+  in the Incarnation, yet he held deity to be in a sense [[Manifest|manifest]] in
   humanity; its saints and heroes became, in spite of innumerable
   frailties, after a sort divine; man underwent an apotheosis, and all
   life was touched with the dignity and the grace which it owed to its
@@ -209,11 +209,11 @@ it.
   proclaim their abandonment of Christianity on the other."[9] The
   echoes of the dying controversy are thus distinct and not very distant
   in this book, though it also offers in its larger outlook, in the
-  author's evident uneasiness under the burden of inherited beliefs, and
+  author's evident uneasiness under the [[Burden|burden]] of inherited beliefs, and
   his inability to reconcile them with his new standpoint and accepted
   principles, a curious forecast of his later development, while in its
   positive premisses it presents a still more instructive contrast to
-  the conclusions of his later dialectic. Nor did the sound of the
+  the conclusions of his later [[Dialectic|dialectic]]. Nor did the sound of the
   ancient controversy ever cease to be audible to him. In 1839 he sprang
   to the defence of Unitarian doctrine, which had been assailed by
   certain Liverpool clergymen, of whom Fielding Ould was the most active
@@ -235,20 +235,20 @@ it.
   English Church men with whom he had both personal and religious
   sympathy rose--Whately, of whom he said, "We know no living writer who
   has proved so little and disproved so much";[11] and Thomas Arnold, "a
-  man who could be a hero without romance";[12] F. D. Maurice, whose
+  man who could be a hero without romance";[12] F. D. [[Maurice]], whose
   character, marked by "religious realism," sought in the past "the
   witness to eternal truths, the manifestation by time-samples of
-  infinite realities and unchanging relations";[13] and Charles
-  Kingsley, "a great teacher," though one "certain to go astray the
+  [[Infinite|infinite]] realities and unchanging relations";[13] and Charles
+  [[Kingsley]], "a great teacher," though one "certain to go astray the
   moment he becomes didactic."[14] Beside these may be placed men like
   E. B. Pusey and J. H. Newman, whose mind Martineau said was "critical,
   not prophetic, since without immediateness of religious vision," and
   whose faith is "an escape from an alternative scepticism, which
   receives the _veto_ not of his reason but of his will,"[15] as men for
   whose teachings and methods he had a potent and stimulating antipathy.
-  The philosophic principles and religious deductions of Dean Mansel he
+  The philosophic principles and religious deductions of Dean [[Mansel]] he
   disliked as much as those of Newman, but he respected his arguments
-  more. Apart from the Churches, men like Carlyle and Matthew
+  more. Apart from the Churches, men like Carlyle and [[Matthew]]
   Arnold--with whom he had much in common--influenced him; while Herbert
   Spencer in England and Comte in France afforded the antithesis needful
   to the dialectical development of his own views. He came to know
@@ -392,9 +392,9 @@ the state.
   See _Life and Letters_ by J. Drummond and C. B. Upton (2 vols., 1901);
   J. E. Carpenter, _James Martineau, Theologian and Teacher_ (1905); J.
   Crawford, _Recollections_ of James Martineau (1903); A. W. Jackson,
-  _James Martineau, a Biography and a Study_ (Boston, 1900); H.
+  _James Martineau, a Biography and a Study_ ([[Boston]], 1900); H.
   Sidgwick, _Lectures on the Ethics of Green, Spencer and Martineau_
-  (1902); and J. Hunt, _Religious Thought in England in the 19th
+  (1902); and J. [[Hunt]], _Religious Thought in England in the 19th
   Century_.     (A. M. F.)
 
 

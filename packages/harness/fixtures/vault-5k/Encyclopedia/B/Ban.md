@@ -4,7 +4,7 @@ BAN, a word taken from the root of a verb common to many Teutonic languages
 and meaning originally "to proclaim" or "to announce." The Late Lat. form
 of the word is _bannum_.
 
-In the laws of the Franks and kindred tribes the word had three main uses:
+In the laws of the [[Frank|Franks]] and kindred tribes the word had three main uses:
 first in the general sense of a proclamation, secondly, for the fine
 incurred for disobeying such proclamation, and thirdly for the district
 over which proclamations were issued.
@@ -57,7 +57,7 @@ was entrusted to the imperial aulic council (_Reichshofrat_), and to the
 imperial court of justice or imperial chamber (_Reichskammergericht_).
 These courts were deprived of this power in 1711, retaining only the right
 of suggesting its use. The imperial ban had, however, been used for the
-last time in 1706, when Maximilian Emanuel, elector of Bavaria, was placed
+last time in 1706, when [[Maximilian]] Emanuel, elector of Bavaria, was placed
 under it.
 
 There are many other uses of the word in the sense of a prohibition. In
@@ -88,13 +88,13 @@ districts called _banats_, and is almost equivalent to the German
 _margrave_. After enjoying very extensive powers the bans were gradually
 reduced, both in numbers and importance. Since 1868, however, the governor
 of Croatia and Slavonia has been known as the ban of Croatia, Slavonia and
-Dalmatia, but his duties are civil and not military. He is appointed by the
+[[Dalmatia]], but his duties are civil and not military. He is appointed by the
 emperor of Austria, as king of Hungary, and has a seat in the upper house
 of the Hungarian parliament.
 
 See Du Cange, _Glossarium_, tome i. (Niort, 1883); H. Brunner, _Grundzuge
 der deutschen Rechtsgeschichte_ (Leipzig, 1901); E. P. Boutaric,
-_Institutions militaires de la France_ (Paris, 1863); Père G. Daniel,
+_Institutions militaires de la France_ (Paris, 1863); Père G. [[Daniel]],
 _Histoire de la milice française_ (Paris, 1721).
 
 ## See also

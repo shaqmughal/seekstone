@@ -3,10 +3,10 @@
 FOGGIA, a town and episcopal see (since 1855) of Apulia, Italy, the
 capital of the province of Foggia, situated 243 ft. above sea-level, in
 the centre of the great Apulian plain, 201 m. by rail S.E. of Ancona and
-123 m. N.E. by E. of Naples. Pop. (1901) town, 49,031; commune, 53,134.
+123 m. N.E. by E. of Naples. Pop. (1901) town, 49,031; [[Commune|commune]], 53,134.
 The name is probably derived from the pits or cellars (_foveae_) in
 which the inhabitants store their grain. The town is the medieval
-successor of the ancient Arpi, 3 m. to the N.; the Normans, after
+successor of the ancient [[Arpi]], 3 m. to the N.; the Normans, after
 conquering the district from the Eastern empire, gave it its first
 importance. The date of the erection of the cathedral is probably about
 1179; it retains some traces of Norman architecture, and the façade has
@@ -14,18 +14,18 @@ a fine figured cornice by Bartolommeo da Foggia; the crypt has capitals
 of the 11th (?) century. The whole church was, however, much altered
 after the earthquake of 1731. A gateway of the palace of the emperor
 Frederick II. (1223, by Bartolommeo da Foggia) is also preserved. Here
-died his third wife, Isabella, daughter of King John of England. Charles
-of Anjou died here in 1284. After his son's death, it was a prey to
-internal dissensions and finally came under Alphonso I. of Aragon, who
+died his third wife, [[Isabella]], daughter of King John of England. Charles
+of [[Anjou]] died here in 1284. After his son's death, it was a prey to
+internal dissensions and finally came under Alphonso I. of [[Aragon]], who
 converted the pastures of the Apulian plain into a royal domain in 1445,
 and made Foggia the place at which the tax on the sheep was to be paid
 and the wool to be sold. The other buildings of the town are modern.
 Foggia is a commercial centre of some importance for the produce of the
 surrounding country, and is also a considerable railway centre, being
-situated on the main line from Bologna to Brindisi, at the point where
-this is joined by the line from Benevento and Caserta. There are also
-branches to Rocchetta S. Antonio (and thence to either Avellino,
-Potenza, or Gioia del Colle), to Manfredonia, and to Lucera.
+situated on the main line from Bologna to [[Brindisi]], at the point where
+this is joined by the line from [[Benevento]] and [[Caserta]]. There are also
+branches to Rocchetta S. [[Antonio]] (and thence to either [[Avellino]],
+Potenza, or Gioia del Colle), to [[Manfredonia]], and to Lucera.
 
 
 
@@ -52,12 +52,12 @@ dies hard; and still finds expression in some textbooks.
 FÖHR, a German island in the North Sea, belonging to the province of
 Schleswig-Holstein, and situated off its coast. Pop. 4500. It comprises
 an area of 32 sq. m., and is reached by a regular steamboat service from
-Husum and Dagebüll on the mainland to Wyk, the principal bathing resort
+[[Husum]] and Dagebüll on the mainland to Wyk, the principal bathing resort
 on the E. coast of the island. The chief attraction of Wyk is the
-Sandwall, a promenade which is shaded by trees and skirts the beach.
+Sandwall, a promenade which is shaded by trees and skirts the [[Beach|beach]].
 Föhr, the most fertile of the North Frisian islands, is principally
 marshland, and comparatively well wooded. There are numerous
-pleasantly-situated villages and hamlets scattered over it, of which the
+pleasantly-situated villages and [[Hamlet|hamlets]] scattered over it, of which the
 most frequented are Boldixum, Nieblum and Alkersum. The inhabitants are
 mainly engaged in the fishing industry, and are known as excellent
 sailors.
@@ -65,20 +65,20 @@ sailors.
 
 
 
-FOIL. 1. (Through O. Fr. from Lat. _folium_, a leaf, modern Fr.
+FOIL. 1. (Through O. Fr. from Lat. _folium_, a [[Leaf|leaf]], modern Fr.
 _feuille_), a leaf, and so used in heraldry and in plant names, such as
-the "trefoil" clover; and hence applied to anything resembling a leaf.
+the "trefoil" [[Clover|clover]]; and hence applied to anything resembling a leaf.
 In architecture, the word appears for the small leaf-like spaces formed
-by the cusps of tracery in windows or panels, and known, according to
+by the [[Cusp|cusps]] of tracery in windows or panels, and known, according to
 the number of such spaces, as "quatrefoil," "cinquefoil," &c. The word
 is also found in "counterfoil," a leaf of a receipt or cheque book,
 containing memoranda or a duplicate of the receipt or draft, kept by the
 receiver or drawer as a "counter" or check. "Foil" is particularly used
 of thin plates of metal, resembling a leaf, not in shape as much as in
 thinness. In thickness foil comes between "leaf" and "sheet" metal. In
-jewelry, a foil of silvered sheet copper, sometimes known as Dutch foil,
+[[Jewelry|jewelry]], a foil of silvered sheet copper, sometimes known as Dutch foil,
 is used as a backing for paste gems, or stones of inferior lustre or
-colour. This is coated with a mixture of isinglass and translucent
+colour. This is coated with a mixture of [[Isinglass|isinglass]] and translucent
 colour, varying with the stones to be backed, or, if only brilliancy is
 required, left uncoloured, but highly polished. From this use of "foil,"
 the word comes to mean, in a figurative sense, something which by
@@ -95,7 +95,7 @@ or rolled into a single thin plate, the pattern then appearing in the
 order in which the various metals were placed.
 
 2. (From an O. Fr. _fuler_ or _foler_, modern _fouler_, to tread or
-trample, to "full" cloth, Lat. _fullo_, a fuller), an old hunting term,
+trample, to "full" cloth, Lat. _fullo_, a [[Fuller|fuller]]), an old [[Hunting|hunting]] term,
 used of the running back of an animal over its own tracks, to confuse
 the scent and baffle the hounds. It is also used in wrestling, of a
 "throw." Thus comes the common use of the word, in a figurative sense,
@@ -104,7 +104,7 @@ adversary, or of parrying an attack.
 
 3. As the name of the weapon used in fencing (see FOIL-FENCING) the word
 is of doubtful origin. One suggestion, based on a supposed similar use
-of Fr. _fleuret_, literally a "little flower," for the weapon, is that
+of Fr. _fleuret_, literally a "little [[Flower|flower]]," for the weapon, is that
 foil means a leaf, and must be referred in origin to Lat. _folium_. A
 second suggestion is that it means "blunted," and is the same as (2). A
 third is that it is an adaptation of an expression "at foils," i.e.

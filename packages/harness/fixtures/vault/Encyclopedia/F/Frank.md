@@ -6,7 +6,7 @@ topic: science
 
 # Frank
 
-FRANK, JAKOB (1726-1791), a Jewish theologian, who founded in Poland, in
+FRANK, [[Jakob|JAKOB]] (1726-1791), a Jewish theologian, who founded in Poland, in
 the middle of the 18th century, a sect which emanated from Judaism but
 ended by merging with Christianity. The sect was the outcome of the
 Messianic mysticism of Sabbetai Zebi. It was an antinomian movement in
@@ -19,7 +19,7 @@ public sympathy. There was, however, no deep sincerity in the tenets of
 the Frankists, for though in 1759 they were baptized _en masse_, amid
 much pomp, the Church soon became convinced that Frank was not a genuine
 convert. He was imprisoned on a charge of heresy, but on his release in
-1763 the empress Maria Theresa patronized him, regarding him as a
+1763 the empress [[Maria Theresa]] patronized him, regarding him as a
 propagandist of Christianity among the Jews. He thenceforth lived in
 state as baron of Offenbach, and on his death (1791) his daughter Eva
 succeeded him as head of the sect. The Frankists gradually merged in the

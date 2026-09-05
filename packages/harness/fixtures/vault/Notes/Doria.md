@@ -7,19 +7,19 @@ type: note
 
 # Doria
 
-DORIA, ANDREA (1466-1560), Genoese _condottiere_ and admiral, was born
+DORIA, ANDREA (1466-1560), Genoese _[[Condottiere|condottiere]]_ and admiral, was born
 at Oneglia of an ancient Genoese family. Being left an orphan at an
 early age, he became a soldier of fortune, and served first in the papal
 guard and then under various Italian princes. In 1503 we find him
-fighting in Corsica in the service of Genoa, at that time under French
+fighting in [[Corsica]] in the service of Genoa, at that time under French
 vassalage, and he took part in the rising of Genoa against the French,
 whom he compelled to evacuate the city. From that time forth it was as a
 naval captain that he became famous. For several years he scoured the
 Mediterranean in command of the Genoese fleet, waging war on the Turks
-and the Barbary pirates. In the meanwhile Genoa had been recaptured by
+and the [[Barbary]] pirates. In the meanwhile Genoa had been recaptured by
 the French, and in 1522 by the Imperialists. But Doria now veered round
-to the French or popular faction and entered the service of King Francis
-I., who made him captain-general; in 1524 he relieved Marseilles, which
+to the French or popular [[Faction|faction]] and entered the service of King Francis
+I., who made him captain-general; in 1524 he relieved [[Marseilles]], which
 was besieged by the Imperialists, and helped to place his native city
 once more under French domination. But he was dissatisfied with his
 treatment at the hands of Francis, who was mean about payment, and he
@@ -27,7 +27,7 @@ resented the king's behaviour in connexion with Savona, which he delayed
 to hand back to the Genoese as he had promised; consequently on the
 expiry of Doria's contract we find him in the service of the emperor
 Charles V. (1528). He ordered his nephew Filippino, who was then
-blockading Naples in concert with a French army, to withdraw, and sailed
+blockading Naples in [[Concert|concert]] with a French army, to withdraw, and sailed
 for Genoa, where, with the help of some leading citizens, he expelled
 the French once more and re-established the republic under imperial
 protection. He reformed the constitution in an aristocratic sense, most
@@ -50,7 +50,7 @@ generally successful and always active, although now over seventy years
 old; there was hardly an important event in Europe in which he had not
 some share. After the peace of Crépy between Francis and Charles in 1544
 he hoped to end his days in quiet. But his great wealth and power, as
-well as the arrogance of his nephew and heir Giannettino Doria, made him
+well as the arrogance of his nephew and [[Heir|heir]] Giannettino Doria, made him
 many enemies, and in 1547 the Fiesco conspiracy to upset the power of
 his house took place. Giannettino was murdered, but the conspirators
 were defeated, and Andrea showed great vindictiveness in punishing them.

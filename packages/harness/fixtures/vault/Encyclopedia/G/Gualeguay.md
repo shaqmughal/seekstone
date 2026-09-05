@@ -10,8 +10,8 @@ produce except the few miles below Gualeguay, whose port, known as
 Puerto Ruiz, is 7 m. lower down stream. A steam tramway connects the
 town and port, and a branch line connects with Entre Rios railways at
 the station of Tala. The principal industry in this region is that of
-stock-raising, and there is a large exportation of cattle, jerked beef,
-hides, tallow, mutton, wool and sheep-skins. Wood and charcoal are also
+stock-raising, and there is a large exportation of cattle, jerked [[Beef|beef]],
+hides, tallow, mutton, wool and sheep-skins. Wood and [[Charcoal|charcoal]] are also
 exported to Buenos Aires. The town was founded in 1783.
 
 ## See also

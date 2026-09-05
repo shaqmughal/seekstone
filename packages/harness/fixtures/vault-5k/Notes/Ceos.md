@@ -25,7 +25,7 @@ Ariston, and the physician Erasistratus; the excellence of its laws was
 so generally recognized that the title of Cean Laws passed into a
 proverb. One of them forbade a citizen to protract his life beyond sixty
 years. The people of Ceos fought on the Greek side at Artemisium and
-Salamis; they joined the Delian League and also the later Athenian
+Salamis; they joined the [[Delian League]] and also the later Athenian
 alliance in 377 B.C. They revolted in 363-362, but were reduced again,
 and the Athenians established a monopoly of the ruddle, or red earth,
 which was one of the most valuable products of the island. In A.D. 1207

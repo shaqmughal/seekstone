@@ -11,14 +11,14 @@ philosopher, was born about A.D. 96, and lived during the reigns of
 Hadrian, Antoninus Pius and Marcus Aurelius. In recognition of his
 abilities, he received the citizenship of both Athens and Rome. He was
 greatly esteemed by Hadrian, who appointed him governor (_legatus_) of
-Cappadocia (131-137), in which capacity he distinguished himself in a
+[[Cappadocia]] (131-137), in which capacity he distinguished himself in a
 campaign against the Alani. This is the only instance before the 3rd
 century in which a first-rate Roman military command was given to a
 Greek. Arrian spent a considerable portion of his time at Athens, where
 he was archon 147-148. With his retirement or recall from Cappadocia his
 official career came to an end. In his declining years, he retired to
 his native place, where he devoted himself to literary work. He died
-about 180. His biography, by Dio Cassius, is lost.
+about 180. His biography, by Dio [[Cassius]], is lost.
 
 When young, Arrian was the pupil and friend of Epictetus, who had
 probably withdrawn to Nicopolis, when Domitian expelled all philosophers
@@ -26,7 +26,7 @@ from Rome. He took verbatim notes of his teacher's lectures, which he
 subsequently published under the title of _The Dissertations_ ([Greek:
 Diatribai]), in eight books, of which the first four are extant and
 constitute the chief authority for Stoic ethics, and _The Encheiridion_
-(i.e. Manual) _of Epictetus_, a handbook of moral philosophy, for many
+(i.e. [[Manual]]) _of Epictetus_, a handbook of moral philosophy, for many
 years a favourite instruction book with both Christians and pagans. It
 was adapted for Christian use by St Nilus of Constantinople (5th
 century), and Simplicius (about 550) wrote a commentary on it which we

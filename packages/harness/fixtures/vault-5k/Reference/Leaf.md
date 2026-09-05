@@ -45,7 +45,7 @@ ferns, however, there seems to be a provision for indefinite terminal
 growth, while in others this growth is periodically interrupted. It not
 unfrequently happens, especially amongst Monocotyledons, that after
 growth at the apex has ceased, it is continued at the base of the leaf,
-and in this way the length may be much increased. Amongst Dicotyledons
+and in this way the length may be much increased. Amongst [[Dicotyledons]]
 this is very rare. In all cases the dimensions of the leaf are enlarged
 by interstitial growth of its parts.
 
@@ -87,7 +87,7 @@ surface.
   shining, and sometimes becomes very hard and dense. Many tropical
   plants present on the upper surface of their leaves several layers of
   compressed cells beneath the epidermis which serve for storage of
-  water and are known as aqueous tissue. In leaves which float upon the
+  water and are known as aqueous tissue. In leaves which [[Float|float]] upon the
   surface of the water, as those of the water-lily, the upper epidermis
   alone possesses stomata.
 
@@ -119,13 +119,13 @@ surface.
   some cases the cellular tissue is deficient at certain points, giving
   rise to distinct holes in the leaf, as in _Monstera Adansonii_. The
   fibro-vascular system in the leaf constitutes the _venation_. The
-  fibro-vascular bundles from the stem bend out into the leaf, and are
+  fibro-vascular bundles from the stem [[Bend|bend]] out into the leaf, and are
   there arranged in a definite manner. In _skeleton leaves_, or leaves
   in which the parenchyma is removed, this arrangement is well seen. In
-  some leaves, as in the barberry, the veins are hardened, producing
+  some leaves, as in the [[Barberry|barberry]], the veins are hardened, producing
   spines without any parenchyma. The hardening of the extremities of the
   fibro-vascular tissue is the cause of the spiny margin of many leaves,
-  such as the holly, of the sharp-pointed leaves of madder, and of
+  such as the [[Holly|holly]], of the sharp-pointed leaves of madder, and of
   mucronate leaves, or those having a blunt end with a hard projection
   in the centre.
 
@@ -136,7 +136,7 @@ sunlight to fall upon it, as it is by the absorption of energy from the
 sun's rays by means of the chlorophyll contained in the cells of the
 leaf that the building up of plant food is rendered possible; this
 process is known as photo-synthesis; the first stage is the combination
-of carbon dioxide, absorbed from the air taken in through the stomata
+of [[Carbon|carbon]] dioxide, absorbed from the air taken in through the stomata
 into the living cells of the leaf, with water which is brought into the
 leaf by the wood-vessels. The wood-vessels form part of the
 fibro-vascular bundles or veins of the leaf and are continuous
@@ -212,7 +212,7 @@ primary veins going to the margin, which is serrated. Leaf unequal at
 the base.]
 
 [Illustration: FIG. 4.--Multicostate leaf of Castor-oil plant (_Ricinus
-communis_). It is palmately-cleft, and exhibits seven lobes at the
+communis_). It is palmately-cleft, and exhibits seven [[Lobe|lobes]] at the
 margin. The petiole is inserted a little above the base, and hence the
 leaf is called peltate or shield-like.]
 
@@ -221,11 +221,11 @@ leaf is called peltate or shield-like.]
 
   The arrangement of the fibro-vascular system in the lamina constitutes
   the _venation_ or _nervation_. In an ordinary leaf, as that of the
-  elm, there is observed a large central vein running from the base to
+  [[Elm|elm]], there is observed a large central vein running from the base to
   the apex of the leaf, this is the _midrib_ (fig. 3); it gives off
   veins laterally (_primary veins_). A leaf with only a single midrib is
   said to be _unicostate_ and the venation is described as pinnate or
-  feather-veined. In some cases, as sycamore or castor oil (fig. 4), in
+  feather-veined. In some cases, as sycamore or [[Castor Oil|castor oil]] (fig. 4), in
   place of there being only a single midrib there are several large
   veins (_ribs_) of nearly equal size, which diverge from the point
   where the blade joins the petiole or stem, giving off lateral veins.
@@ -238,7 +238,7 @@ leaf is called peltate or shield-like.]
   some plants there exists a midrib with large veins running nearly
   parallel to it from the base to the apex of the lamina, as in grasses
   (fig. 5); or with veins diverging from the base of the lamina in more
-  or less parallel lines, as in fan palms (fig. 6), or with veins
+  or less parallel lines, as in [[Fan|fan]] palms (fig. 6), or with veins
   coming off from it throughout its whole course, and running parallel
   to each other in a straight or curved direction towards the margin of
   the leaf, as in plantain and banana. In these cases the veins are
@@ -286,7 +286,7 @@ indentations, lobings or fissuring of its margins. In this way two
 marked forms of leaf are produced--(1) _Simple_ form, in which the
 segmentation, however deeply it extends into the lamina, does not
 separate portions of the lamina which become articulated with the midrib
-or petiole; and (2) _Compound_ form, where portions of the lamina are
+or petiole; and (2) _[[Compound]]_ form, where portions of the lamina are
 separated as detached _leaflets_, which become articulated with the
 midrib or petiole. In both simple and compound leaves, according to the
 amount of segmentation and the mode of development of the parenchyma and
@@ -342,7 +342,7 @@ direction of the fibro-vascular bundles, many forms are produced.
 
   [Illustration: FIG. 10.--Five-partite leaf of Aconite.]
 
-  [Illustration: FIG. 11.--Pedate leaf of Stinking Hellebore
+  [Illustration: FIG. 11.--Pedate leaf of Stinking [[Hellebore]]
   (_Helleborus foetidus_). The venation is radiating. It is a
   palmately-partite leaf, in which the lateral lobes are deeply divided.
   When the leaf hangs down it resembles the foot of a bird, and hence
@@ -376,7 +376,7 @@ direction of the fibro-vascular bundles, many forms are produced.
   _wavy_, _crisp_ or _undulated_, as in _Rumex crispus_ and _Rheum
   undulatum_. By cultivation the cellular tissue is often much
   increased, giving rise to the _curled_ leaves of greens, savoys,
-  cresses, lettuce, &c.
+  cresses, [[Lettuce|lettuce]], &c.
 
   [Illustration: FIG. 12.--Peltate leaves of Indian Cress (_Tropaeolum
   majus_).]
@@ -500,7 +500,7 @@ direction of the fibro-vascular bundles, many forms are produced.
   small foliar organs, _stipules_, at the base of the petiole (fig. 24,
   s). The stipules are generally two in number, and they are important
   as supplying characters in certain natural orders. Thus they occur in
-  the pea and bean family, in rosaceous plants and the family Rubiaceae.
+  the pea and [[Bean|bean]] family, in rosaceous plants and the family Rubiaceae.
   They are not common in dicotyledons with opposite leaves. Plants
   having stipules are called _stipulate_; those having none are
   _exstipulate_. Stipules may be large or small, entire or divided,
@@ -520,7 +520,7 @@ direction of the fibro-vascular bundles, many forms are produced.
   as to form an _adnate_, _adherent_ or _petiolary_ stipule, as in the
   rose, or an _axillary_ stipule, as in _Houttuynia cordata_. In other
   instances the stipules unite together on the side of the stem opposite
-  the leaf forming an _ocrea_, as in the dock family (fig. 25).
+  the leaf forming an _ocrea_, as in the [[Dock|dock]] family (fig. 25).
 
   [Illustration: FIG. 23.--Leaf of an Acacia (_Acacia heterophylla_),
   showing a flattened leaf-like petiole p, called a phyllode, with
@@ -586,7 +586,7 @@ direction of the fibro-vascular bundles, many forms are produced.
   (_Bupleurum rotundifolium_). The two lobes at the base of the leaf are
   united, so that the stalk appears to come through the leaf.]
 
-  [Illustration: FIG. 27.--Connate leaves of a species of Honeysuckle
+  [Illustration: FIG. 27.--Connate leaves of a species of [[Honeysuckle]]
   (_Lonicera Caprifolium_). Two leaves are united by their bases.]
 
   The vascular bundles and cellular tissue are sometimes developed in
@@ -784,7 +784,7 @@ two-fifths.]
   life of the plant, but at other times it changes, passing into
   distichous and spiral forms. Some tribes of plants are distinguished
   by their opposite or verticillate, others by their alternate, leaves.
-  Labiate plants have decussate leaves, while Boraginaceae have
+  Labiate plants have decussate leaves, while [[Boraginaceae]] have
   alternate leaves, and Tiliaceae usually have distichous leaves;
   Rubiaceae have opposite leaves. Such arrangements as 2/5, 3/8, 5/13
   and 8/21 are common in Dicotyledons. The first of these, called a
@@ -876,10 +876,10 @@ two-fifths.]
   definite relation to each other in the bud, being either opposite,
   alternate or verticillate; and thus different kinds of vernation are
   produced. Sometimes they are nearly in a circle at the same level,
-  remaining flat or only slightly convex externally, and placed so as to
+  remaining flat or only slightly [[Convex|convex]] externally, and placed so as to
   touch each other by their edges, thus giving rise to _valvate_
   vernation. At other times they are at different levels, and are
-  applied over each other, so as to be _imbricated_, as in lilac, and in
+  applied over each other, so as to be _imbricated_, as in [[Lilac|lilac]], and in
   the outer scales of sycamore; and occasionally the margin of one leaf
   overlaps that of another, while it in its turn is overlapped by a
   third, so as to be _twisted_, _spiral_ or _contortive_. When leaves
@@ -922,7 +922,7 @@ two-fifths.]
   of tissue across the base of the leaf-stalk; the cells of this layer
   separate from one another and the leaf remains attached only by the
   fibres of the veins until it becomes finally detached by the wind or
-  frost. Before its fall the leaf has become dry owing to loss of water
+  [[Frost|frost]]. Before its fall the leaf has become dry owing to loss of water
   and the removal of the protoplasm and food substances to the stem for
   use next season; the red and yellow colouring matters are products of
   decomposition of the chlorophyll. Inorganic and other waste matters

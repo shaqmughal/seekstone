@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Berea"
 
 # Berea
 
-BEREA, a town of Madison county, Kentucky, U.S.A., 131 m. by rail S. of
+BEREA, a town of [[Madison]] county, [[Kentucky]], U.S.A., 131 m. by rail S. of
 Cincinnati. Pop. (1900) 762. Berea is served by the Louisville &
 Nashville railway. It is pleasantly situated on the border between the
 Blue Grass and the Mountain regions. The town is widely known as the

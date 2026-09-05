@@ -28,11 +28,11 @@ NAPOLEONIC CAMPAIGNS.) Napoleon, falling back before the advance of the
 allied Austrians and Russians from Olmutz, bivouacked west of the
 Goldbach, whilst the allies, holding, near Austerlitz, the junction of
 the roads from Olmutz and from Hungary, formed up in the valleys east of
-the Pratzen heights. The cavalry of both sides remained inactive,
+the Pratzen heights. The [[Cavalry|cavalry]] of both sides remained inactive,
 Napoleon's by express order, the enemy's seemingly from mere negligence,
 since they had 177 squadrons at their disposal. Napoleon, having
-determined to fight, as usual called up every available battalion; the
-splendid III. corps of Davout only arrived upon the field after a heavy
+determined to fight, as usual called up every available [[Battalion|battalion]]; the
+splendid III. [[Corps|corps]] of Davout only arrived upon the field after a heavy
 march, late on the night of December 1st. The plan of the allies was to
 attack Napoleon's right, and to cut him off from Vienna, and their
 advanced guard began, before dark on the 1st of December, to skirmish
@@ -54,18 +54,18 @@ cross the southern end of the plateau, and come into line on the right
 of the first two; the fourth (Austrians and Russians under Kolowrat) on
 the right of the third to advance towards Kobelnitz. An Austrian
 advanced guard preceded the 1st and 2nd columns. Farther still on the
-right the 5th column (cavalry under Prince John of Liechtenstein) was to
+right the 5th column (cavalry under Prince John of [[Liechtenstein]]) was to
 hold the northern part of the plateau, south of the Brunn-Olmutz road;
-across the road itself was the corps of Prince Bagration, and in rear of
-Liechtenstein's corps was the reserve (Russians under the grand-duke
+across the road itself was the corps of Prince [[Bagration]], and in rear of
+Liechtenstein's corps was the reserve (Russians under the [[Grand-Duke|grand-duke]]
 Constantine). Thus, the farther the four main columns penetrated into
-the French right wing, the wider would the gap become between Bagration
+the French right wing, the wider would the [[Gap|gap]] become between Bagration
 and Kolowrat, and Liechtenstein's squadrons could not form a serious
 obstacle to a heavy attack of Napoleon's centre. The whole plan was
 based upon defective information and preconceived ideas; it has gone
 down to history as a classical example of bad generalship, and its
 author Weyrother, who was perhaps nothing worse than a pedant, as a
-charlatan.
+[[Charlatan|charlatan]].
 
 Napoleon, on the other hand, with the exact knowledge of the powers of
 his men, which was the secret of his generalship, entrusted nearly half
@@ -136,7 +136,7 @@ serious attempt of the allies in the centre led to some of the hardest
 fighting of the day; the Russian Imperial Guard under the grand-duke
 Constantine pressed closely upon St Hilaire and Vandamme on the plateau,
 and only gave way when the French Guard and the Grenadiers came into
-action. After the "Chevalier Guards" had been routed by Marshal
+action. After the "[[Chevalier]] [[Guards]]" had been routed by Marshal
 Bessieres and the Guard cavalry, the allies had no more hope of victory;
 orders had already been sent to Buxhowden, who commanded the three
 columns engaged against Davout, to retreat on Austerlitz. No further
@@ -147,7 +147,7 @@ for liberty only. The fighting in Telnitz was perhaps the hardest of the
 whole battle, but the inevitable retreat, every part of which was now
 under the fire of the French on the plateau, was terribly costly. Soult
 now barred the way to Austerlitz, and the allies turned southward
-towards Satschan. As they retreated, the ice of the Satschan pond was
+towards Satschan. As they retreated, the [[Ice|ice]] of the Satschan pond was
 broken up by the French artillery, and many of the fugitives were
 drowned. In the twelve hours from 7 A.M. to nightfall, the 65,000 French
 troops had lost 6800 men, or about 10%; the allies (82,500 engaged) had

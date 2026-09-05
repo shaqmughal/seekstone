@@ -11,9 +11,9 @@ GIBRALTAR, a British fortress and crown colony at the western entrance
 to the Mediterranean. The whole territory is rather less than 3 m. in
 length from north to south and varies in width from 1/4 to 3/4 m.
 Gibraltar is called after Tariq (or Tarik) ben Zaid, its name being a
-corruption of Jebel Tariq (Mount Tariq). Tariq invaded Andalusia in A.D.
+corruption of [[Jebel]] Tariq (Mount Tariq). Tariq invaded Andalusia in A.D.
 711 with an army of 12,000 Arabs and Berbers, and in the last days of
-July of that year destroyed the Gothic power in a three days' fight on
+July of that year destroyed the [[Gothic]] power in a three days' fight on
 the banks of the river Guadalete near where Jerez de la Frontera now
 stands. In order to secure his communications with Africa he ordered the
 building of a strong castle upon the Rock, known to the Romans as Mons
@@ -32,7 +32,7 @@ parts of the world. Rather less than 3/4 m. south of the signal station
 is O'Hara's Tower (1408 ft.), the highest point of the Rock. South of
 O'Hara's Tower the ground falls steeply to Windmill Hill, a fairly even
 surface about 1/8 of a sq. m. in area, and sloping from 400 to 300 ft.
-above the sea-level. South of Windmill Hill are Europa Flats, a
+above the sea-level. South of Windmill Hill are [[Europa]] Flats, a
 wall-like cliff 200 ft. or more in height dividing them. Europa Flats,
 sloping south, end in cliffs 50 ft. high, which at and around Europa
 Point plunge straight down into deep water. Europa Point is the most
@@ -47,24 +47,24 @@ be approached by land from the north or by a tunnel through the Rock
 from the dockyard; from Catalan Bay to Europa Point the way is barred by
 impassable cliffs. On the west side of the Rock the slopes are less
 steep, especially as they near the sea, and on this side lie the town,
-the Alameda or public gardens, the barracks and the dockyard.
+the Alameda or public gardens, the [[Barracks|barracks]] and the dockyard.
 
 [Illustration: Gibraltar.]
 
   _Geology._--The rock of Gibraltar consists, for the most part, of pale
-  grey limestone of compact and sometimes crystalline structure,
+  grey [[Limestone|limestone]] of compact and sometimes crystalline structure,
   generally stratified but in places apparently amorphous. Above the
   limestone are found layers of dark grey-blue shales with intercalated
   beds of grit, mudstone and limestone. Both limestone and shales are of
-  the Lower Jurassic age. Professors A. C. Ramsay and James Geikie
+  the Lower [[Jurassic]] age. Professors A. C. Ramsay and James [[Geikie]]
   (_Quarterly Journal of the Geological Society_, London, August 1878)
   found also in the superficial formations of the Rock various features
   of interest to the students of Pleistocene geology, including massive
-  accumulations of limestone breccia or agglomerate, bone breccias,
-  deposits of calcareous sandstone, raised beaches and loose sands. The
+  accumulations of limestone breccia or agglomerate, [[Bone|bone]] breccias,
+  deposits of calcareous sandstone, raised [[Beach|beaches]] and loose sands. The
   oldest of these superficial formations is the limestone breccia of
   Buena Vista, devoid of fossils and apparently formed under the stress
-  of hard frosts, indicating conditions of climate of great severity. To
+  of hard [[Frost|frosts]], indicating conditions of climate of great severity. To
   account for frosts like these, it is suggested that the surface of the
   Rock must have been raised to an elevation much greater than its
   present height. In that case Europe and Africa would probably have
@@ -99,15 +99,15 @@ the Alameda or public gardens, the barracks and the dockyard.
   of the stalactites; they form clusters of every imaginable
   shape--statuettes, pillars, foliages, figures," and he adds that
   American visitors have admitted that even the Mammoth cave itself
-  could not rival these giant stalactites in picturesque beauty.
+  could not rival these [[Giant|giant]] stalactites in picturesque beauty.
 
   The mammalian remains of the Genista cave have been described by G.
   Busk ("Quaternary Fauna of Gibraltar" in _Trans. of Zool. Soc._ vol.
   x. p. 2, 1877). They were found to contain remains of a bear, probably
-  _Ursus fossilis_ of Goldfuss; of a hyena, _H. crocuta_ or _spelaea_;
+  _Ursus fossilis_ of [[Goldfuss]]; of a hyena, _H. crocuta_ or _spelaea_;
   of cats varying from a leopard to a wild cat in size; of a rhinoceros,
   resembling in species remains found in the Thames valley; two forms of
-  ibex; the hare and rabbit. No trace has been found as yet of
+  [[Ibex|ibex]]; the hare and rabbit. No trace has been found as yet of
   _Rhinoceros tichorinus_, of _Ursus spelaeus_ or of the reindeer; and
   of the elephant only a molar tooth of _Elephas antiquus_.
 
@@ -129,14 +129,14 @@ the Alameda or public gardens, the barracks and the dockyard.
   perhaps the only trees found growing in a natural state. In the public
   and private gardens and by the roadside may be seen the pepper tree,
   the plane, the white poplar, the acacia, the bella-sombra (_Phytolacca
-  dioica_), the eucalyptus or blue gum tree, and palms of different
+  dioica_), the eucalyptus or blue [[Gum|gum]] tree, and palms of different
   species; and, of fruit trees, the orange, lemon, fig, pomegranate,
   loquat and almond. The aloe, flowering aloe and prickly pear are
   common, and on the eastern side of the Rock the palmito or dwarf palm
   (_Chamaerops humilis_) is abundant.
 
   _Fauna._--The fauna of Gibraltar, from want of space, is necessarily
-  scanty. The Barbary apes, said to be the only wild monkeys in Europe,
+  scanty. The Barbary [[Ape|apes]], said to be the only wild monkeys in Europe,
   are still to be found on the upper part of the Rock, but in very
   reduced numbers; about the beginning of the 20th century four or five
   only remained, which were said to be all females; a young male,
@@ -178,7 +178,7 @@ date, nearly all the older buildings having been destroyed during the
 great siege (1779-1783). The town lies, with most of its buildings
 crowded together, at the north-western corner of the Rock, and covers
 only about one-ninth part of the whole area; only a small part of it is
-on level ground, and those of its narrow streets and lanes which are at
+on level ground, and those of its narrow streets and [[Lane|lanes]] which are at
 right angles to the line wall, or sea front, are for the most part,
 except at their western ends, little more than ramps or rough stairs
 formed of rubble stones, contracting in places into stone steps.
@@ -192,11 +192,11 @@ The civil hospital is a well-planned and roomy modern building. The
 courthouse and exchange buildings are suited to the needs of the town.
 The antiquary may here and there find the remains of a Moorish bath
 forming part of a stable, or fragments of a sculptured stone gateway
-bearing the arms of Castile or of Aragon built into the wall of a modern
+bearing the arms of Castile or of [[Aragon]] built into the wall of a modern
 barrack. In a small disused graveyard, near Southport gate, lie buried a
 number of those who fell at Trafalgar. To the south of the town are the
-Alameda parade and gardens, a lunatic asylum, the dockyard, graving
-docks and the naval and military hospitals.
+Alameda parade and gardens, a lunatic [[Asylum|asylum]], the dockyard, graving
+[[Dock|docks]] and the naval and military hospitals.
 
 _Population._--The inhabitants of Gibraltar are of mixed race; after the
 capture of the town by the British nearly the whole of the former
@@ -214,7 +214,7 @@ regulations, modelled upon English statutes designed with quite
 different objects, are administered with some ingenuity and not a little
 severity. In this way the house room available for the poorer classes is
 steadily reduced. The poor are thus being gradually pushed across the
-frontier into the neighbouring Spanish town of La Linea de la
+frontier into the neighbouring Spanish town of [[La Linea]] de la
 Concepcion, itself a mere suburb of Gibraltar, whose population,
 however, is nearly double that of the parent city. A large army of
 workers come daily from "the Lines" into Gibraltar, returning at "first
@@ -290,7 +290,7 @@ and private aided schools was in 1905: boys, 1504; girls, 1733; total
   trade, much of which formerly came to Gibraltar, is now done by lines
   of steamers trading to and from Morocco direct to British, German or
   French ports. Nearly all the fresh meat consumed in Gibraltar comes
-  from Morocco, also large quantities of poultry and eggs. A fair amount
+  from Morocco, also large quantities of poultry and [[Egg|eggs]]. A fair amount
   of retail business is done with the passengers of ocean steamers which
   call on their way to and from the East and from North and South
   America.
@@ -420,13 +420,13 @@ local (perhaps Phoenician) word. The eminence on the African coast near
 Ceuta which bears the modern English name of Apes' Hill was then
 designated Abyla; and Calpe and Abyla, at least according to an ancient
 and widely current interpretation, formed the renowned Pillars of
-Hercules (_Herculis columnae_, [Greek: Hrakleous stelai]), which for
+[[Hercules]] (_Herculis columnae_, [Greek: Hrakleous stelai]), which for
 centuries were the limits of enterprise to the seafaring peoples of the
 Mediterranean world. The military history of the Rock begins with its
 capture and fortification by Tariq in 711. In 1309 it was retaken by
-Alonzo Perez de Guzman for Ferdinand IV. of Castile and Leon, who, in
+Alonzo Perez de Guzman for [[Ferdinand]] IV. of Castile and Leon, who, in
 order to attract inhabitants to the spot, offered an asylum to thieves
-and murderers, and promised to levy no taxes on the import or export of
+and murderers, and promised to [[Levy|levy]] no taxes on the import or export of
 goods. The attack of Ismail ben Ferez in 1315 (2nd siege) was
 frustrated; but in 1333 Vasco Perez de Meyra, having allowed the
 fortifications and garrison to decay, was obliged to capitulate to
@@ -442,7 +442,7 @@ undertaken by the Spanish count of Niebla, Enrique de Guzman, proved
 fatal to the besieger and his forces (1435). In 1462, however, success
 attended the efforts of Alonzo de Arcos (8th siege), and in August the
 Rock passed once more under Christian sway. The duke of Medina Sidonia,
-a powerful grandee who had assisted in its capture, was anxious to get
+a powerful [[Grandee|grandee]] who had assisted in its capture, was anxious to get
 possession of the fortress, and though Henry IV. at first managed to
 maintain the claims of the crown, the duke ultimately made good his
 ambition by force of arms (9th siege), and in 1469 the king was
@@ -458,21 +458,21 @@ Rock for Mahomet and themselves. The conflict was severe, but resulted
 in the repulse of the besiegers. After this the Spaniards made great
 efforts to strengthen the place, and they succeeded so well that
 throughout Europe Gibraltar was regarded as impregnable, the engineer
-Daniel Speckle (1536-1589) being chiefly responsible for the design of
+[[Daniel]] Speckle (1536-1589) being chiefly responsible for the design of
 the fortifications.
 
 Gibraltar was taken by the allied British and Dutch forces, after a
 three days' siege, on the 24th of July 1704 (see SPANISH SUCCESSION, WAR
 OF THE). The capture was made, as the war was being fought, in the
 interests of Charles, archduke of Austria, but Sir George Rooke (q.v.),
-the British admiral, on his own responsibility caused the British flag
+the British admiral, on his own responsibility caused the British [[Flag|flag]]
 to be hoisted, and took possession in name of Queen Anne, whose
 government ratified the occupation. A great number of the inhabitants of
 the town of Gibraltar abandoned their homes rather than recognize the
 authority of the invaders. The Spaniards quickly assembled an army to
 recapture the place, and a new siege opened in October 1704 by troops of
 France and Spain under the marquess of Villadarias. The activity of the
-British admiral, Sir John Leake, and of the military governor, Prince
+British admiral, Sir John [[Leake]], and of the military governor, Prince
 George of Hesse-Darmstadt (who had commanded the land forces in July),
 rendered the efforts of the besiegers useless. A notable incident of
 this siege was the gallant attempt made by 500 chosen volunteers to
@@ -482,14 +482,14 @@ French marshal de Tesse, who had replaced Villadarias, gave up the siege
 and retired. During the next twenty years there were endless
 negotiations for the peaceful surrender of the fortress, varied in 1720
 by an abortive attempt at a _coup de main_, which was thwarted by the
-resourcefulness of the governor of Minorca (Colonel Kane), who threw
+resourcefulness of the governor of Minorca (Colonel [[Kane]]), who threw
 reinforcements and supplies into Gibraltar at the critical moment. In
 1726 the Spaniards again appealed to arms. But the count of las Torres,
 who had the chief command, succeeded no better than his predecessors.
 The place had been strengthened since 1705, and the defence of the
 garrison under Brigadier Clayton, the lieutenant-governor, Brigadier
 Kane of Minorca, and the governor, the earl of Portmore, who arrived
-with reinforcements, was so effective that the armistice of the 12th of
+with reinforcements, was so effective that the [[Armistice|armistice]] of the 12th of
 June practically put a close to the siege, though two years elapsed
 before the general pacification ensued.
 
@@ -529,7 +529,7 @@ defence," says Drinkwater.
 
 On the 7th of June took place an attack by Spanish fireships, which were
 successfully dealt with by the naval force in the bay under Captain
-Lesley of H.M. frigate "Enterprise." Up to October the state of things
+Lesley of H.M. [[Frigate|frigate]] "Enterprise." Up to October the state of things
 within the fortress was much what it had been after Rodney's success.
 "The enemy's operations on the land side had been for many months so
 unimportant as scarcely to merit our attention" (Drinkwater). Scurvy
@@ -590,7 +590,7 @@ absolutely to penetrate the massive wooden armour on the sides and the
 roofs of the battering ships, and about noon the ships had settled down
 to their work and were shooting coolly and accurately. But between 1 and
 2 P.M. the British artillerymen began to use the red-shot freely. All
-day the artillery duel went on, the shore guns, though inferior in
+day the artillery [[Duel|duel]] went on, the shore guns, though inferior in
 number, steadily gaining the upper hand, and the battering ships were in
 great distress by nightfall. The struggle continued in the dark, the
 garrison now shooting rapidly and well, and one by one the ten ships
@@ -616,13 +616,13 @@ and noblest men of his time.
 Since 1783 the history of Gibraltar has been comparatively uneventful.
 In the beginning of 1801 there were rumours of a Spanish and French
 attack, but the Spanish ships were defeated off Algeciras in June by
-Admiral Saumarez. Improvements in the fortifications, maintenance of
+Admiral Saumarez. Improvements in the fortifications, [[Maintenance|maintenance]] of
 military discipline and legislation in regard to trade and smuggling,
 are the principal matters of recent interest.
 
   BIBLIOGRAPHY.--To the works which have been already mentioned may be
   added: I. L. de Ayala, _Historia de Gibraltar_ (Madrid, 1792); Jas.
-  Bell, translation of Ayala's history (London, 1845); F. Carter,
+  Bell, translation of Ayala's history (London, 1845); F. [[Carter]],
   _Gibraltar to Malaga_ (London, 1777-1780); G. Cockburn, _Gibraltar,
   Cadiz, &c._ (London, 1815); O. Debeaux and G. Dautez, _Synopsis de la
   flore de Gibraltar_ (1889); E. D. Fenton, _Sorties from Gibraltar_,
@@ -631,7 +631,7 @@ are the principal matters of recent interest.
   Sketch of Gibraltar_ (London, 1792); R. Hort, _The Rock of Gibraltar_
   (London, 1839); L. W. L. Irby, _Ornithology of the Straits_ (London,
   1875); Thos. James, _History of the Herculean Straits_ (London, 1771);
-  J. H. Mann, _Gibraltar and its Sieges_ (London, 1870); Montero,
+  J. H. [[Mann]], _Gibraltar and its Sieges_ (London, 1870); Montero,
   _Historia de Gibraltar_ (Cadiz, 1860); A. M. Monti, _Historia de
   Gibraltar_ (Seville, 1851); J. Navarrete, _Las Llaves del Estrecho_
   (Madrid, 1882); M. S. Pasley, _Wild Flowers of Gibraltar_ (Portsmouth,
@@ -639,7 +639,7 @@ are the principal matters of recent interest.
   (London, 1840); H. J. M. Rey, _Essai sur la topographie medicale de
   Gibraltar_ (Paris, 1833); Captain Sayer, _History of Gibraltar_
   (London, 1862); D. Sutherland, _Gibraltar to Constantinople_ (London,
-  1790); Walker, _A Year's Insect Hunting in Gibraltar_ (London, 1888).
+  1790); Walker, _A Year's [[Insect]] [[Hunting]] in Gibraltar_ (London, 1888).
        (C. F. A.)
 
 ## See also

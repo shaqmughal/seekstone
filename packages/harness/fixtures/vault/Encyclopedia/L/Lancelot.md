@@ -6,9 +6,9 @@ topic: religion
 
 # Lancelot
 
-LANCELOT (Lancelot du Lac, or Lancelot of the Lake), a famous figure in
+LANCELOT (Lancelot du [[Lac]], or Lancelot of the Lake), a famous figure in
 the Arthurian cycle of romances. To the great majority of English
-readers the name of no knight of King Arthur's court is so familiar as
+readers the name of no [[Knight|knight]] of King Arthur's court is so familiar as
 is that of Sir Lancelot. The mention of Arthur and the Round Table at
 once brings him to mind as the most valiant member of that brotherhood
 and the secret lover of the Queen. Lancelot, however, is not an original
@@ -17,10 +17,10 @@ of considerable perplexity to the critic.
 
 Briefly summarized, the outline of his career, as given in the German
 _Lanzelet_ and the French prose _Lancelot_, is as follows: Lancelot was
-the only child of King Ban of Benoic and his queen Helaine. While yet an
-infant, his father was driven from his kingdom, either by a revolt of
+the only child of King [[Ban]] of Benoic and his queen Helaine. While yet an
+[[Infant|infant]], his father was driven from his kingdom, either by a revolt of
 his subjects, caused by his own harshness (_Lanzelet_), or by the action
-of his enemy Claudas de la Deserte (_Lancelot_). King and queen fly,
+of his enemy Claudas de la Deserte (_Lancelot_). King and queen [[Fly|fly]],
 carrying the child with them, and while the wife is tending her husband,
 who dies of a broken heart on his flight, the infant is carried off by a
 friendly water-fairy, the Lady of the Lake, who brings the boy up in her
@@ -28,7 +28,7 @@ mysterious kingdom. In the German poem this is a veritable "Isle of
 Maidens," where no man ever enters, and where it is perpetual spring. In
 the prose _Lancelot_, on the other hand, the Lake is but a mirage, and
 the Lady's court does not lack its complement of gallant knights;
-moreover the boy has the companionship of his cousins, Lionel and
+moreover the boy has the companionship of his [[Cousin|cousins]], Lionel and
 Bohort, who, like himself, have been driven from their kingdom by
 Claudas. When he reaches the customary age (which appears to be
 fifteen), the young Lancelot, suitably equipped, is sent out into the
@@ -42,7 +42,7 @@ name and parentage, though for some unexplained reason he keeps both
 secret, and he goes with a fitting escort and equipment to Arthur's
 court to demand knighthood. The subsequent adventures differ widely: in
 the _Lanzelet_ he ultimately reconquers his kingdom, and, with his wife
-Iblis, reigns over it in peace, both living to see their children's
+[[Iblis]], reigns over it in peace, both living to see their children's
 children, and dying on the same day, in good old fairy-tale fashion. In
 fact, the whole of the _Lanzelet_ has much more the character of a fairy
 or folk-tale than that of a knightly romance.
@@ -50,7 +50,7 @@ or folk-tale than that of a knightly romance.
 In the prose version, Lancelot, from his first appearance at court,
 conceives a passion for the queen, who is very considerably his senior,
 his birth taking place some time after her marriage to Arthur. This
-infatuation colours all his later career. He frees her from imprisonment
+infatuation [[Colours|colours]] all his later career. He frees her from imprisonment
 in the castle of Meleagant, who has carried her off against her will--(a
 similar adventure is related in _Lanzelet_, where the abductor is
 Valerîn, and Lanzelet is not the rescuer)--and, although he recovers his
@@ -63,8 +63,8 @@ remains an exile from the court for some years. He takes part,
 fruitlessly, in the Grail quest, only being vouchsafed a fleeting
 glimpse of the sacred Vessel, which, however, is sufficient to cast him
 into unconsciousness, in which he remains for as many days as he has
-spent years in sin. Finally, his relations with Guenevere are revealed
-to Arthur by the sons of King Lot, Gawain, however, taking no part in
+spent years in sin. Finally, his relations with [[Guenevere]] are revealed
+to Arthur by the sons of King [[Lot]], [[Gawain]], however, taking no part in
 the disclosure. Surprised together, Lancelot escapes, and the queen is
 condemned to be burnt alive. As the sentence is about to be carried into
 execution Lancelot and his kinsmen come to her rescue, but in the fight
@@ -90,7 +90,7 @@ contradictory; in the _Erec_, his earliest extant poem, Lancelot's name
 appears as third on the list of the knights of Arthur's court. (It is
 well, however, to bear in mind the possibility of later addition or
 alteration in such lists.) In _Cligés_ he again ranks as third, being
-overthrown by the hero of the poem. In _Le Chevalier de la Charrette_,
+overthrown by the hero of the poem. In _Le [[Chevalier]] de la Charrette_,
 however, which followed _Cligés_, we find Lancelot alike as leading
 knight of the court and lover of the queen, in fact, precisely in the
 position he occupies in the prose romance, where, indeed, the section
@@ -110,7 +110,7 @@ In the continuations added at various times to Chrétien's unfinished
 work the rôle assigned to Lancelot is equally modest. Among the fifteen
 knights selected by Arthur to accompany him to Chastel Orguellous he
 only ranks ninth. In the version of the _Luite Tristran_ inserted by
-Gerbert in his _Perceval_, he is publicly overthrown and shamed by
+[[Gerbert]] in his _Perceval_, he is publicly overthrown and shamed by
 Tristan. Nowhere is he treated with anything approaching the importance
 assigned to him in the prose versions. Welsh tradition does not know
 him; early Italian records, which have preserved the names of Arthur and
@@ -136,16 +136,16 @@ The story of the loves of Lancelot and Guenevere, as related by
 Chrétien, has about it nothing spontaneous and genuine; in no way can it
 be compared with the story of Tristan and Iseult. It is the exposition
 of a relation governed by artificial and arbitrary rules, to which the
-principal actors in the drama must perforce conform. Chrétien states
+principal actors in the [[Drama|drama]] must perforce conform. Chrétien states
 that he composed the poem (which he left to be completed by Godefroi de
-Leigni) at the request of the countess Marie of Champagne, who provided
+Leigni) at the request of the countess Marie of [[Champagne]], who provided
 him with _matière et san_. Marie was the daughter of Louis VII. of
-France and of Eleanor of Aquitaine, subsequently wife of Henry II. of
-Anjou and England. It is a matter of history that both mother and
+France and of Eleanor of [[Aquitaine]], subsequently wife of Henry II. of
+[[Anjou]] and England. It is a matter of history that both mother and
 daughter were active agents in fostering that view of the social
 relations of the sexes which found its most famous expression in the
 "Courts of Love," and which was responsible for the dictum that love
-between husband and wife was impossible. The logical conclusion appears
+between [[Husband And Wife|husband and wife]] was impossible. The logical conclusion appears
 to be that the _Charrette_ poem is a "_Tendenz-Schrift_," composed under
 certain special conditions, in response to a special demand. The story
 of _Tristan and Iseult_, immensely popular as it was, was too
@@ -153,7 +153,7 @@ genuine--(shall we say too crude?)--to satisfy the taste of the court
 for which Chrétien was writing. Moreover, the Arthurian story was the
 popular story of the day, and Tristan did not belong to the magic
 circle, though he was ultimately introduced, somewhat clumsily, it must
-be admitted, within its bounds. The Arthurian cycle must have its own
+be admitted, within its [[Bounds|bounds]]. The Arthurian cycle must have its own
 love-tale; Guenevere, the leading lady of that cycle, could not be
 behind the courtly ladies of the day and lack a lover; one had to be
 found for her. Lancelot, already popular hero of a tale in which an
@@ -170,16 +170,16 @@ Charrette_ is there any evidence of the existence of such a story. Yet
 Chrétien does not claim to have invented the situation. Did it spring
 from the fertile brain of some court lady, Marie, or another? The
 authorship of the _Lancelot_ proper, on the other hand, is invariably
-ascribed to Walter Map (see MAP), the chancellor of Henry II., but so
+ascribed to Walter [[Map]] (see MAP), the chancellor of Henry II., but so
 also are the majority of the Arthurian prose Romances. The trend of
 modern critical opinion is towards accepting Map as the author of a
 _Lancelot_ romance, which formed the basis for later developments, and
 there is a growing tendency to identify this hypothetical original
 _Lancelot_ with the source of the German _Lanzelet_. The author, Ulrich
 von Zatzikhoven, tells us that he translated his poem from a French
-(_welsches_) book in the possession of Hugo de Morville, one of the
+(_welsches_) book in the possession of [[Hugo]] de Morville, one of the
 English hostages, who, in 1194, replaced Richard Coeur de Lion in the
-prison of Leopold of Austria. Further evidence on the point is,
+prison of [[Leopold]] of Austria. Further evidence on the point is,
 unfortunately, not at present forthcoming. To the student of the
 original texts Lancelot is an infinitely less interesting hero than
 Gawain, Perceval or Tristan, each of whom possesses a well-marked
@@ -202,8 +202,8 @@ the genuine "popular" tale.
   The prose _Lancelot_ was frequently printed; J. C. Brunet chronicles
   editions of 1488, 1494, 1513, 1520 and 1533--of this last date there
   are two, one published by Jehan Petit, the other by Philippe Lenoire,
-  this last by far the better, being printed from a much fuller
-  manuscript. There is no critical edition, and the only version
+  this last by far the better, being printed from a much [[Fuller|fuller]]
+  [[Manuscript|manuscript]]. There is no critical edition, and the only version
   available for the general reader is the modernized and abridged text
   published by Paulin Paris in vols. iii. to v. of _Romans de la Table
   Ronde_. A Dutch verse translation of the 13th century was published by
@@ -224,11 +224,11 @@ the genuine "popular" tale.
   these texts, with the result that the sections dealing with _Lancelot_
   and _Queste_ urgently require revision.
 
-  BIBLIOGRAPHY.--_Lanzelet_ (ed. Hahn, 1845, out of print and extremely
+  BIBLIOGRAPHY.--_Lanzelet_ (ed. [[Hahn]], 1845, out of print and extremely
   difficult to obtain). Chrétien's poem has been published by Professor
   Wendelin Foerster, in his edition of the works of that poet, _Der
   Karrenritter_ (1899). A Dutch version of a short episodic poem,
-  _Lancelot et le cerf au pied blanc_ will be found in M. Jonckbloet's
+  _Lancelot et le cerf au pied [[Blanc|blanc]]_ will be found in M. Jonckbloet's
   volume, and a discussion of this and other _Lancelot_ poems, by Gaston
   Paris, is contained in vol. xxx. of _Histoire littéraire de la
   France_. For critical studies on the subject cf. Gaston Paris's

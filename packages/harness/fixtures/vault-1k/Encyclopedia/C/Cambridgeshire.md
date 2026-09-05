@@ -20,7 +20,7 @@ principal rivers are the Ouse and its tributaries in the south and
 centre, and the Nene in the north; the greater part of the waters of
 both these rivers within Cambridgeshire flow in artificial channels, of
 which those for the Ouse, two great parallel cuts between Earith and
-Denver Sluice, in Norfolk, called the Bedford Rivers, form the most
+Denver Sluice, in Norfolk, called the [[Bedford]] Rivers, form the most
 remarkable feature in the drainage of the county. The old main channel
 of the Ouse, from Ely downward to Denver (below which are tidal waters),
 is filled chiefly by the waters of the Cam or Granta, which joins the
@@ -151,7 +151,7 @@ Wisbech were included in the endowment of the abbey of Peterborough, and
 in the same century religious houses were established at Ely and
 Thorney, both of which, however, were destroyed during the Danish
 invasions of the 9th century. After the treaty of Wedmore the district
-became part of the Danelaw. On the expulsion of the Danes by Edward in
+became part of the Danelaw. On the expulsion of the [[Dan|Danes]] by Edward in
 the 10th century it was included in East Anglia, but in the 11th century
 was again overrun by the Danes, who in the course of their devastations
 burnt Cambridge. The first mention of the shire in the Saxon Chronicle

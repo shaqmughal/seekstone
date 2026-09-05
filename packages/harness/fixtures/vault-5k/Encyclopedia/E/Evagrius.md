@@ -6,7 +6,7 @@ advocate, and it is supposed that he practised at Antioch. He was the
 legal adviser of Gregory, patriarch of that city, whom he successfully
 defended at Constantinople against certain serious charges. Through this
 connexion he was brought under the notice of the emperor Tiberius
-Constantine, who honoured him with the rank of quaestorian; Maurice
+Constantine, who honoured him with the rank of quaestorian; [[Maurice]]
 Tiberius made him master of the rolls. His influence and reputation were
 so considerable that on the occasion of his second marriage a public
 festival was celebrated in his honour, which was interrupted by a
@@ -18,7 +18,7 @@ Though not wholly trustworthy, and often very credulous, this work is on
 the whole impartial, and appears to have been compiled from original
 documents, from which many valuable excerpts are given. It is
 particularly helpful to the student of the history of dogma during the
-5th and 6th centuries, while the political history of the time is by no
+5th and 6th centuries, while the [[Political History|political history]] of the time is by no
 means neglected. Evagrius made use of the writings of Eustathius, John
 of Epiphania, John Malalas, Procopius, and (possibly) Menander
 Protector.

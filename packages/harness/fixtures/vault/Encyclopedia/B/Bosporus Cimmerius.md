@@ -1,11 +1,11 @@
 # Bosporus Cimmerius
 
-BOSPORUS CIMMERIUS, the ancient name for the Straits of Kerch or
-Yenikale, connecting the Black Sea and the Sea of Azov; the Cimmerii
+BOSPORUS CIMMERIUS, the ancient name for the Straits of [[Kerch]] or
+Yenikale, connecting the [[Black Sea]] and the Sea of [[Azov]]; the Cimmerii
 (q.v.) were the ancient inhabitants. The straits are about 25 m. long
 and 2-1/2 m. broad at the narrowest, and are formed by an eastern
-extension of the Crimea and the peninsula of Taman, a kind of
-continuation of the Caucasus. This in ancient times seems to have formed
+extension of the [[Crimea]] and the peninsula of Taman, a kind of
+continuation of the [[Caucasus]]. This in ancient times seems to have formed
 a group of islands intersected by arms of the Hypanis or Kuban and
 various sounds now silted up. The whole district was dotted with Greek
 cities; on the west side, Panticapaeum (Kerch, q.v.), the chief of all,
@@ -19,7 +19,7 @@ have left hardly any architectural or sculptural remains, but the
 numerous barrows in their neighbourhood have yielded very beautiful
 objects now mostly preserved in the Hermitage in St Petersburg. They
 comprise especially gold work, vases exported from Athens, textiles and
-specimens of carpentry and marquetry. The numerous terra-cottas are
+specimens of carpentry and [[Marquetry|marquetry]]. The numerous terra-cottas are
 rather rude in style.
 
 According to Diodorus Siculus (xii. 31) the locality was governed from
@@ -30,7 +30,7 @@ Spartocids have left many inscriptions which tell us that the earlier
 members of the house ruled as archons of the Greek cities and kings of
 various native tribes, notably the Sindi of the island district and
 other branches of the Maitae (Maeotae). The text of Diodorus, the
-inscriptions and the coins do not supply sufficient material for a
+inscriptions and the [[Coin|coins]] do not supply sufficient material for a
 complete list of them. Satyrus (431-387), the successor of Spartocus,
 established his rule over the whole district, adding Nymphaeum to his
 dominions and laying siege to Theodosia, which was a serious commercial
@@ -50,10 +50,10 @@ rebellion against him. The house of Spartocus was well known as a line
 of enlightened and wise princes; although Greek opinion could not deny
 that they were, strictly speaking, tyrants, they are always described as
 dynasts. They maintained close relations with Athens, their best
-customers for the Bosporan corn export, of which Leucon I. set the
-staple at Theodosia, where the Attic ships were allowed special
+customers for the Bosporan [[Corn|corn]] export, of which Leucon I. set the
+staple at Theodosia, where the [[Attic]] ships were allowed special
 privileges. We have many references to this in the Attic orators. In
-return the Athenians granted him Athenian citizenship and set up decrees
+return the Athenians granted him Athenian citizenship and set up [[Decree|decrees]]
 in honour of him and his sons. Mithradates the Great entrusted the
 Bosporus Cimmerius to his son Machares, who, however, deserted to the
 Romans. But even when driven out of his own kingdom by Pompey,
@@ -62,7 +62,7 @@ Machares slew himself. Subsequently the Bosporans again rose in revolt
 under Pharnaces, another of the old king's sons. After the death of
 Mithradates (B.C. 63), this Pharnaces (63-47) made his submission to
 Pompey, but tried to regain his dominion during the civil war. He was
-defeated by Caesar at Zela, and on his return to Rome was slain by a
+defeated by [[Caesar]] at Zela, and on his return to Rome was slain by a
 pretender Asander who married his daughter Dynamis, and in spite of
 Roman nominees ruled as archon, and later as king, until 16 B.C. After
 his death Dynamis was compelled to marry an adventurer Scribonius, but
@@ -79,7 +79,7 @@ the eastern half of the Crimea and the Taman peninsula, and extended
 along the east coast of the Sea of Azov to Tanais at the mouth of the
 Don, a great mart for trade with the interior. They carried on a
 perpetual war with the native tribes, and in this were supported by
-their Roman suzerains, who even lent the assistance of garrison and
+their Roman suzerains, who even [[Lent|lent]] the assistance of [[Garrison|garrison]] and
 fleet. At times rival kings of some other race arose and probably
 produced some disorganization. At one of these periods (A.D. 255) the
 Goths and Borani were enabled to seize Bosporan shipping and raid the
@@ -108,7 +108,7 @@ found among the inhabitants of the Empire.
 
 We possess a large series of coins of Panticapaeum and other cities from
 the 5th century B.C. The gold _staters_ of Panticapaeum bearing Pan's
-head and a griffin are specially remarkable for their weight and fine
+head and a [[Griffin|griffin]] are specially remarkable for their weight and fine
 workmanship. We have also coins with the names of the later Spartocids
 and a singularly complete series of dated _solidi_ issued by the later
 or Achaemenian dynasty; in them may be noticed the swift degeneration of
@@ -117,7 +117,7 @@ NUMISMATICS).
 
   See, for history, introduction to V.V. Latyshev, _Inscrr. orae
   Septent. Ponti Euxini_, vol. ii. (St Petersburg, 1890); art.
-  "Bosporus" (2) by C.G. Brandis in Pauly-Wissowa, _Realencycl._ vol.
+  "Bosporus" (2) by C.G. [[Brandis]] in Pauly-Wissowa, _Realencycl._ vol.
   iii. 757 (Stuttgart, 1899); E.H. Minns, _Scythians and Greeks_
   (Cambridge, 1907). For inscriptions, Latyshev as above and vol. iv.
   (St Petersburg, 1901). Coins: B. Koehne, _Musee Kotschoubey_ (St

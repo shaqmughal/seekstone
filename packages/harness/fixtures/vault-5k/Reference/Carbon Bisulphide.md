@@ -20,7 +20,7 @@ until the escaping water is quite clear, the washed bisulphide being
 then mixed with a little colourless oil and distilled at a low
 temperature. For further methods of purification see J. Singer (_Journ.
 of Soc. Chem. Ind._, 1889, p. 93), Th. Sidot (_Jahresb._, 1869, p. 243),
-E. Allary (_Bull. de la Soc. Chim._, 1881, 35, p. 491), E. Obach (_Jour.
+E. Allary (_[[Bull]]. de la Soc. Chim._, 1881, 35, p. 491), E. Obach (_Jour.
 prak. Chem._, 1882 (2), 26, p. 282).
 
 When perfectly pure, carbon bisulphide is a colourless, somewhat
@@ -28,12 +28,12 @@ pleasant smelling, highly refractive liquid, of specific gravity 1.2661
 (18 deg./4 deg.) (J.W. Bruhl) or 1.29215 (0 deg./4 deg.) (T.E. Thorpe).
 It boils at 46.04 deg. C. (T.E. Thorpe, _Journ. Chem. Soc._, 1880, 37,
 p. 364). Its critical temperature is 277.7 deg. C., and its critical
-pressure is 78.1 atmos. (J. Dewar, _Chem. News_, 1885, 51, p. 27). It
+pressure is 78.1 atmos. (J. [[Dewar]], _Chem. News_, 1885, 51, p. 27). It
 solidifies at about -116 deg.C., and liquefies again at about -110
 deg.C. (K. Olszewski, _Jahresb._, 1883, p. 75). It is a mono-molecular
 liquid (W. Ramsay and J. Shields, _Jour. Chem. Soc._, 1893, 63, p.
 1089). It is very volatile, the vapour being heavy and very inflammable.
-It burns with a pale blue flame to form carbon dioxide and sulphur
+It [[Burns|burns]] with a pale blue flame to form [[Carbon|carbon]] dioxide and sulphur
 dioxide. It is almost insoluble in water, but mixes in all proportions
 with absolute alcohol, ether, benzene and various oils. It is a good
 solvent for sulphur, phosphorus, wax, iodine, &c. It dissociates when
@@ -43,8 +43,8 @@ blue-coloured flame, which is very rich in the violet or actinic rays.
 When heated with water in a sealed tube to 150 deg. C. it yields carbon
 dioxide and sulphuretted hydrogen. Zinc and hydrochloric acid reduce it
 to tri-thioformaldehyde (CH2S)3 (A. Girard, _Comptes rendus_, 1856, 43,
-p. 396). When passed through a red-hot tube with chlorine it yields
-carbon tetrachloride and sulphur chloride (H. Kolbe). Potassium, when
+p. 396). When passed through a red-hot tube with [[Chlorine|chlorine]] it yields
+carbon tetrachloride and sulphur chloride (H. [[Kolbe]]). Potassium, when
 heated, burns in the vapour of carbon bisulphide, forming potassium
 sulphide and liberating carbon. In contact with chlorine monoxide it
 forms carbonyl chloride and thionyl chloride (P. Schutzenberger, _Ber._,
@@ -67,7 +67,7 @@ amongst other products, some methane.
 
   Aqueous and alcoholic solutions of ammonia convert carbon bisulphide
   into ammonium dithiocarbamate, which readily breaks down into ammonium
-  thiocyanate and sulphuretted hydrogen (A.W. Hofmann),
+  thiocyanate and sulphuretted hydrogen (A.W. [[Hofmann]]),
 
     CS2 + 2NH3 -> NH2.CSS.NH4 -> H2S + NH4CNS.
 

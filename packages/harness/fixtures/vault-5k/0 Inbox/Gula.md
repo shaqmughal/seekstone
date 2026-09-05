@@ -25,8 +25,8 @@ being represented by a statue, when other gods and goddesses are merely
 pictured by their shrines, by sacred animals or by weapons. In
 neo-Babylonian days her cult continues to occupy a prominent position,
 and Nebuchadrezzar II. speaks of no less than three chapels or shrines
-within the sacred precincts of E-Zida in the city of Borsippa, besides a
-temple in her honour at Babylon.     (M. Ja.)
+within the sacred precincts of E-Zida in the city of [[Borsippa]], besides a
+temple in her honour at [[Babylon]].     (M. Ja.)
 
 ## See also
 

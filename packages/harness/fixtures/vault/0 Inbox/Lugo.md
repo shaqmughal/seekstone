@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lugo"
 # Lugo
 
 LUGO, a maritime province of north-western Spain, formed in 1833 of
-districts taken from the old province of Galicia, and bounded N. by the
-Atlantic, E. by Oviedo and Leon, S. by Orense, and W. by Pontevedra and
+districts taken from the old province of [[Galicia]], and bounded N. by the
+Atlantic, E. by Oviedo and [[Leon]], S. by Orense, and W. by Pontevedra and
 Corunna. Pop. (1900) 465,386; area, 3814 sq. m. The coast, which extends
 for about 40 m. from the estuary of Rivadéo to Cape de Vares, is
 extremely rugged and inaccessible, and few of the inlets, except those
@@ -25,23 +25,23 @@ important are the Navia, which has its lower course through Oviedo; the
 Eo, for some distance the boundary between the two provinces; the Masma,
 the Oro and the Landrove.
 
-Some of the valleys of Lugo are fertile, and yield not only corn but
+Some of the valleys of Lugo are fertile, and yield not only [[Corn|corn]] but
 fruit and wine. The principal agricultural wealth, however, is on the
 Miño and Sil, where rye, maize, wheat, flax, hemp and a little silk are
 produced. Agriculture is in a very backward condition, mainly owing to
 the extreme division of land that prevails throughout Galicia. The
 exportation of cattle to Great Britain, formerly a flourishing trade,
 was ruined by American and Australian competition. Iron is found at
-Caurel and Incio, arsenic at Castroverde and Cervantes, argentiferous
+Caurel and Incio, [[Arsenic|arsenic]] at Castroverde and Cervantes, argentiferous
 lead at Riotorto; but, although small quantities of iron and arsenic are
 exported from Rivadéo, frequent strikes and lack of transport greatly
 impeded the development of mining in the earlier years of the 20th
-century. There are also quarries of granite, marble and various kinds of
+century. There are also quarries of granite, [[Marble|marble]] and various kinds of
 slate and building-stone. The only important manufacturing industries
 are those connected with leather, preserves, coarse woollen and linen
-stuffs, timber and osier work. About 250 coasting vessels are registered
+stuffs, timber and osier work. About 250 [[Coasting|coasting]] vessels are registered
 at the ports, and about as many boats constitute the fishing fleet,
-which brings in lampreys, soles, tunny and sardines, the last two being
+which brings in [[Lamprey|lampreys]], soles, tunny and sardines, the last two being
 salted and tinned for export. The means of communication are
 insufficient, though there are over 100 m. of first-class roads, and the
 railways from Madrid and northern Portugal to Corunna run through the

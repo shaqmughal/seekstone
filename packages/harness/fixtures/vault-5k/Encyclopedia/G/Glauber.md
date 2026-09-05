@@ -30,7 +30,7 @@ Germany should be developed for the profit of the country and gave
 various instances of how this might be done.
 
   His treatises, about 30 in number, were collected and published at
-  Frankfort in 1658-1659, at Amsterdam in 1661, and, in an English
+  [[Frankfort]] in 1658-1659, at Amsterdam in 1661, and, in an English
   translation by Packe, at London in 1689.
 
 ## See also

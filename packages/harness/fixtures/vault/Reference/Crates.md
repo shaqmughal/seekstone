@@ -17,7 +17,7 @@ representative of Cynicism. It is said that he lost his ample fortune
 owing to the Macedonian invasion, but a more probable story is that he
 sacrificed it in accordance with his principles, directing the banker,
 to whom he entrusted it, to give it to his sons if they should prove
-fools, but to the poor if his sons should prove philosophers. He gave up
+[[Fools|fools]], but to the poor if his sons should prove philosophers. He gave up
 his life to the attainment of virtue and the propagation of ascetic
 self-control. His habit of entering houses for this purpose, uninvited,
 earned him the nickname [Greek: Thyrepanoiktes] ("Door-opener"). His
@@ -30,10 +30,10 @@ The date of his death is unknown, though he seems to have lived into the
 was the author of a number of letters on philosophical subjects; but
 those extant under the name of Crates (R. Hercher, _Epistolographi
 Graeci_, 1873) are, spurious, the work of later rhetoricians. Diogenes
-Laertius credits him with a short poem, [Greek: Paignia], and several
+Laertius [[Credit|credits]] him with a short poem, [Greek: Paignia], and several
 philosophic tragedies. Plutarch's life of Crates is lost. The great
 importance of Crates' work is that he formed the link between Cynicism
-and the Stoics, Zeno of Citium being his pupil.
+and the Stoics, Zeno of [[Citium]] being his pupil.
 
   See N. Postumus, _De Cratete Cynico_ (1823); F. Mullach, _Frag.
   Philosophorum Graecorum_, ii. (1867); E. Wellmann in Ersch and

@@ -16,7 +16,7 @@ region.
 
 Much doubt attaches to the origin of the name. Some of the earliest
 Greek geographers divided their known world into two portions only,
-Europe and Asia, in which last Libya (the Greek name for Africa) was
+Europe and Asia, in which last [[Libya]] (the Greek name for Africa) was
 included. Herodotus, who ranks Libya as one of the chief divisions of
 the world, separating it from Asia, repudiates as fables the ordinary
 explanations assigned to the names Europe and Asia, but confesses his
@@ -37,25 +37,25 @@ conceptions, rather than on the basis of natural relations and
 differences subsisting between it and the surrounding regions.
 
 
-GEOGRAPHY
+[[Geography|GEOGRAPHY]]
 
   Boundaries.
 
-The northern boundary of Asia is formed by the Arctic Ocean; the
+The northern boundary of Asia is formed by the [[Arctic]] Ocean; the
 coast-line falls between 70 deg. and 75 deg. N., and so lies within the
 Arctic circle, having its extreme northern point in Cape
 Sivero-Vostochnyi (i.e. north-east) or Chelyuskin, in 78 deg. N. On the
 south the coast-line is far more irregular, the Arabian Sea, the Bay of
-Bengal, and the China Sea reaching about to the northern tropic at the
-mouths of the Indus, of the Ganges and of the Canton river; while the
+[[Bengal]], and the China Sea reaching about to the northern tropic at the
+mouths of the Indus, of the [[Ganges]] and of the Canton river; while the
 great peninsulas of Arabia, Hindostan and Cambodia descend to about 10
-deg. N., and the Malay peninsula extends within a degree and a half of
-the equator. On the west the extreme point of Asia is found on the shore
+deg. N., and the [[Malay Peninsula|Malay peninsula]] extends within a degree and a half of
+the [[Equator|equator]]. On the west the extreme point of Asia is found on the shore
 of the Mediterranean, at Cape Baba, in 26 deg. E., nor far from the
 Dardanelles. Thence the boundary passes in the one direction through the
 Mediterranean, and down the Red Sea to the southern point of Arabia, at
 the strait of Bab-el-Mandeb, in 45 deg. E.; and in the other through the
-Black Sea, and along the range of Caucasus, following approximately 40
+[[Black Sea]], and along the range of [[Caucasus]], following approximately 40
 deg. N. to the Caspian, whence it turns to the north on a line not far
 from the 60th meridian, along the Ural Mountains, and meets the Arctic
 Ocean nearly opposite the island of Novaya Zemlya. The most easterly
@@ -63,7 +63,7 @@ point of Asia is East Cape (Vostochnyi, i.e. east, or Dezhnev), in 190
 deg. E., at the entrance of Bering Strait. The boundary between this
 point and the extremity of the Malay Peninsula follows the coast of the
 Northern Pacific and the China Sea, on a line deeply broken by the
-projection of the peninsulas of Kamchatka and Korea, and the recession
+projection of the peninsulas of [[Kamchatka]] and [[Korea]], and the recession
 of the Sea of Okhotsk, the Yellow Sea, and the Gulfs of Tongking and
 Siam.
 
@@ -71,7 +71,7 @@ Siam.
   Islands.
 
 On the east and south-east of Asia are several important groups of
-islands, the more southern of which link this continent to Australia,
+islands, the more southern of which link this continent to [[Australia]],
 and to the islands of the Pacific. The Kurile islands, the Japanese
 group, Luchu, Formosa and the Philippines, may be regarded as
 unquestionable outliers of Asia. Between the islands of the Malay
@@ -91,7 +91,7 @@ eminent naturalist, A.R. Wallace, who first indicated its existence.
   Form of continent.
 
 Owing to the great extent of Asia, it is not easy to obtain a correct
-conception of the actual form of its outline from ordinary maps, the
+conception of the actual form of its outline from ordinary [[Map|maps]], the
 distortions which accompany projections of large spherical areas on a
 flat surface being necessarily great and misleading. Turning, therefore,
 to a globe, Asia, viewed as a whole, will be seen to have the form of a
@@ -110,14 +110,14 @@ north-western half of Arabia lie outside such a great circle, which
 otherwise indicates, with fair accuracy, the north-western boundary of
 Asia. In like manner a great circle drawn through East Cape and the
 extremity of the Malay peninsula, passes nearly over the coasts of
-Manchuria, China and Cochin-China, and departs comparatively little from
+[[Manchuria]], China and Cochin-China, and departs comparatively little from
 the eastern boundary.
 
 
     General physiography.
 
   Asia is divided laterally along the parallel of 40 deg. north by a
-  depression which, beginning on the east of the desert of Gobi, extends
+  depression which, beginning on the east of the [[Desert|desert]] of [[Gobi]], extends
   westwards through Mongolia to Chinese Turkestan. To the west of
   Kashgar the central depression is limited by the meridional range of
   Sarikol and the great elevation of the Pamir, of which the Sarikol is
@@ -130,7 +130,7 @@ the eastern boundary.
   hundred feet in altitude. Shelving gradually upward from the low flats
   of Siberia the general continental level rises to a great central
   water-parting, or divide, which stretches from the Black Sea through
-  the Elburz and the Hindu Kush to the Tian-shan mountains in the Pamir
+  the [[Elburz]] and the Hindu Kush to the Tian-shan mountains in the Pamir
   region, and hence to Bering Strait on the extreme north-east. This
   great divide is not always marked by well-defined ranges facing
   steeply either to the north or south. There are considerable spaces
@@ -146,18 +146,18 @@ the eastern boundary.
   depression is another great hydrographic barrier which parts it from
   the low plains of the Amur, of China, Siam and India, bordered by the
   shallows of the Yellow Sea and the shoals which enclose the islands of
-  Japan and Formosa, all of them once an integral part of the continent.
+  [[Japan]] and Formosa, all of them once an integral part of the continent.
   This second barrier is one of the most mighty upheavals in the world,
   by reason both of its extent and its altitude. Starting from the Amur
   river and reaching along the eastern margin of the Gobi desert towards
   the sources of the Hwang-ho, it merges into the Altyn-tagh and the
   Kuen-lun, forming the northern face of the vast Tibetan highlands
-  which are bounded on the south by the Himalaya. The Pamir highlands
-  between the base of the Tian-shan mountains and the eastern buttresses
+  which are bounded on the south by the [[Himalaya]]. The Pamir highlands
+  between the base of the Tian-shan mountains and the eastern [[Buttress|buttresses]]
   of the Hindu Kush unite these two great divides, enclosing the Gobi
   depression on the west; and they would again be united on the east but
-  for the transverse valley of the Amur, which parts the Khingan
-  mountains from the Yablonoi system to the east of Lake Baikal.
+  for the transverse valley of the Amur, which parts the [[Khingan]]
+  mountains from the Yablonoi system to the east of Lake [[Baikal]].
 
   If we consider the whole continent to be divided into three sections,
   viz. a northern section with an average altitude of less than 5000 ft.
@@ -171,16 +171,16 @@ the eastern boundary.
   drainage; we find that there is only one direct connexion between
   northern and southern sections which involves no mountain passes, and
   no formidable barrier of altitudes. That one is afforded by the narrow
-  valley of the Hari Rud to the west of Herat. From the Caspian to
+  valley of the Hari Rud to the west of [[Herat]]. From the Caspian to
   Karachi it is possible to pass without encountering any orographic
   obstacle greater than the divide which separates the valley of the
-  Hari Rud from the Helmund _hamun_ basin, which may be represented by
+  Hari Rud from the [[Helmund]] _hamun_ basin, which may be represented by
   an altitude of about 4000 ft. above sea-level. This fact possesses
   great significance in connexion with the development of Asiatic
   railways.
 
 
-    Hydrography.
+    [[Hydrography]].
 
   If we examine the hydrographic basins of the three divisions of Asia
   thus indicated we find that the northern division, including the
@@ -215,16 +215,16 @@ the eastern boundary.
   685,000, the Ganges 409,500, and the Indus 370,000 sq. m.[1]
 
   The lakes of Asia are innumerable, and vary in size from an inland sea
-  (such as Lakes Baikal and Balkash) to a highland loch, or the
+  (such as Lakes Baikal and Balkash) to a highland [[Loch|loch]], or the
   indefinitely extended swamps of Persia. Many of them are at high
   elevations (Lake Victoria, 13,400 ft., being probably the most
   elevated), and are undoubted vestiges of an ancient period of
-  glaciation. Such lakes, as a rule, show indications of a gradual
+  glaciation. Such lakes, as a rule, show indications of a [[Gradual|gradual]]
   decrease in size. Others are relics of an earlier geological period,
   when land areas recently upheaved from the sea were spread at low
   levels with alternate inundations of salt and fresh water. Of these
   Lop Nor and the Helmund _hamuns_ are typical. Such lakes (in common
-  with all the plateau _hamuns_ of south-west Baluchistan and Persia)
+  with all the plateau _hamuns_ of south-west [[Baluchistan]] and Persia)
   change their form and extent from season to season, and many of them
   are impregnated with saline deposits from the underlying strata. The
   _kavirs_, or salt depressions, of the Persian desert are more
@@ -245,12 +245,12 @@ the eastern boundary.
   frequently produce effects not less marked. The changes of temperature
   and climate caused by difference of elevation are quite comparable in
   their magnitude and effect on all organized creatures with those due
-  to differences of latitude; and the relative position of the high and
+  to differences of [[Latitude|latitude]]; and the relative position of the high and
   low lands on the earth's surface, by modifying the direction of the
   winds, the fall of rain, and other atmospheric phenomena, produce
   effects in no sense less important than those due to the relative
   distribution of the land and sea. Hence the study of the mountain
-  ranges of a continent is, for a proper apprehension of its physical
+  ranges of a continent is, for a proper [[Apprehension|apprehension]] of its physical
   conditions and characteristics, as essential as the examination of its
   extent and position in relation to the equator and poles, and the
   configuration of its coasts.
@@ -312,7 +312,7 @@ the eastern boundary.
   with much the same physical features, to about 70 deg. east, beyond
   which it terminates; and the ranges which are covered with perpetual
   snow as far west as Samarkand, thence rapidly diminish in height, and
-  terminate in low hills north of Bokhara.
+  terminate in low hills north of [[Bokhara]].
 
   The mean elevation of Tibet may be taken as 15,000 ft. above the sea.
   The broad mountainous slope by which it is connected with the lower
@@ -355,9 +355,9 @@ the eastern boundary.
   Indo-Chinese peninsula, the Mekong, the Menam, the Salween, and the
   Irrawaddy, the valleys of which form the main portions of the states
   of Cochin-China (including Tongking and Cambodia), of Siam (including
-  Laos) and of Burma. The people of Cochin-China are called Anam; it is
+  [[Laos]]) and of [[Burma]]. The people of Cochin-China are called Anam; it is
   probably from a corruption of their name for the capital of Tongking,
-  Kechao, that the Portuguese Cochin has been derived. All these
+  Kechao, that the Portuguese [[Cochin]] has been derived. All these
   countries are well watered, populous and fertile, with a climate very
   similar to that of eastern Bengal. The geography of the region in
   which the mountains of Cochin-China and Siam join Tibet is still
@@ -381,12 +381,12 @@ the eastern boundary.
   the higher hills hardly exceeds 4000 ft.; the general level of the
   table-land lies between 3000 ft. as a maximum and 1000 ft.
 
-  From the delta of the Ganges and Brahmaputra on the east to that of
+  From the [[Delta|delta]] of the Ganges and Brahmaputra on the east to that of
   the Indus on the west, and intervening between the table-land of the
   peninsula and the foot of the Himalayan slope of the Tibetan plateau,
   lies the great plain of northern India, which rises at its highest
   point to about 1000 ft., and includes altogether, with its
-  prolongation up the valley of Assam, an area of about 500,000 sq. m.,
+  prolongation up the valley of [[Assam]], an area of about 500,000 sq. m.,
   comprising the richest, the most populous and most civilized districts
   of India. The great plain extends, with an almost unbroken surface,
   from the most western to the most eastern extremity of British India,
@@ -429,7 +429,7 @@ the eastern boundary.
 
   [Illustration: map of Asia.]
 
-  The Laccadives and Maldives are groups of small coral islands,
+  The Laccadives and Maldives are groups of small [[Coral|coral]] islands,
   situated along the 73rd meridian at no great distance from the
   Indian peninsula on which they have a political dependency.
 
@@ -440,10 +440,10 @@ the eastern boundary.
   forms another extensive plateau covering an area as large as that of
   Tibet though at a much lower altitude. Its southern border runs along
   the Arabian Sea, the Persian Gulf, the Tigris and thence westward to
-  the north-east angle of the Levant, on the north the high land follows
+  the north-east angle of the [[Levant]], on the north the high land follows
   nearly 36 deg. N. to the southern shore of the Caspian and thence to
-  the Black Sea and Sea of Marmora. Afghanistan, Baluchistan, Iran or
-  Persia, Armenia and the provinces of Asia Minor occupy this high
+  the Black Sea and Sea of Marmora. Afghanistan, Baluchistan, [[Iran]] or
+  Persia, [[Armenia]] and the provinces of Asia Minor occupy this high
   region with which they are nearly conterminous. The eastern flank of
   this table-land follows a line of hills drawn a short distance from
   the Indus between the mouth of that river and the Himalaya, about on
@@ -453,7 +453,7 @@ the eastern boundary.
   Persian Gulf from the mouth of the Indus, and is formed farther west
   by the mountain scarp, which, rising in many points to 10,000 ft.
   flanks the Tigris and the Mesopotamian plains, and extends along
-  Kurdistan and Armenia nearly to the 40th meridian, beyond which it
+  [[Kurdistan]] and Armenia nearly to the 40th meridian, beyond which it
   turns along the Taurus range, and the north eastern angle of the
   Mediterranean. The north eastern portion of the Afghan table-land
   abuts on the Himalaya and Tibet, with which it forms a continuous mass
@@ -475,16 +475,16 @@ the eastern boundary.
   Caspian this line of elevation is prolonged as the Elburz range (not
   to be confused with the Elburz of the Caucasus), and has its
   culminating point in Demavend, which rises to 19,400 ft. above the sea
-  thence it extends to the north west to Ararat, which rises to upwards
-  of 17,000 ft. from the vicinity of which the Euphrates flows off to
+  thence it extends to the north west to [[Ararat]], which rises to upwards
+  of 17,000 ft. from the vicinity of which the [[Euphrates]] flows off to
   the south west across the high lands of Armenia. Below the north east
-  declivity of this range lies Georgia, on the other side of which
+  declivity of this range lies [[Georgia]], on the other side of which
   province rises the Caucasus, the boundary of Asia and Europe between
   the Caspian and Black Seas, the highest points of which reach an
   elevation of nearly 19,000 ft. West of Ararat high hills extend along
   the Black Sea between which and the Taurus range lies the plateau of
   Asia Minor reaching to the Aegean Sea, the mountains along the Black
-  Sea, on which are the Olympus and Ida of the ancients rise to 6000 or
+  Sea, on which are the Olympus and [[Ida]] of the ancients rise to 6000 or
   7000 ft., the Taurus is more lofty--reaching 8000 and 10,000 ft.--both
   ranges decline in altitude as they approach the Mediterranean.
 
@@ -515,7 +515,7 @@ the eastern boundary.
   in altitude having among them narrow valleys in which the vegetation
   is scanty with exceptional regions of greater fertility in the
   neighbourhood of the coasts where the rainfall is greatest. In
-  northern Syria the mountains of Lebanon rise to about 10,000 ft. and
+  northern Syria the mountains of [[Lebanon]] rise to about 10,000 ft. and
   with a more copious water supply the country becomes more productive.
   The whole tract, excepting south eastern Arabia is nominally subject
   to Turkey but the people are to no small extent practically
@@ -533,7 +533,7 @@ the eastern boundary.
   mountains and prolonged eastward up the valleys of the Oxus (Amu
   Darya) and Jaxartes (Syr-Darya), and northward across the country of
   the Kirghiz to the south western border of Siberia. It includes
-  Bokhara, Khiva and Turkestan proper in which the Uzbeg Turks are
+  Bokhara, [[Khiva]] and Turkestan proper in which the Uzbeg Turks are
   dominant, and for the most part is inhabited by nomadic tribes, who
   are marauders, enjoying the reputation of being the worst among a race
   of professed robbers. The tribes to the north, subject to Russia, are
@@ -549,12 +549,12 @@ the eastern boundary.
   known as Pamir, it has all the characteristics of the highest regions
   of Tibet, and so far fitly receives the Russian designation of steppe,
   but it seems to have no special peculiarities, and the reason of its
-  having been so long regarded as a geographical enigma is not obvious.
+  having been so long regarded as a geographical [[Enigma|enigma]] is not obvious.
   From it the Oxus, or Amu, flows off to the west, and the Jaxartes, or
-  Syr, to the north, through the Turki state of Khokand, while to the
+  Syr, to the north, through the Turki state of [[Khokand]], while to the
   east the waters run down past Kashgar to the central desert of the
   Gobi, uniting with the streams from the northern slope of the Tibetan
-  plateau that traverse the principalities of Yarkand and Khotan, which
+  plateau that traverse the principalities of Yarkand and [[Khotan]], which
   are also Turki. Here the Tibetan mountains unite with the line of
   elevation which stretches across the continent from the Pacific, and
   which separates Siberia from the region commonly spoken of under the
@@ -565,7 +565,7 @@ the eastern boundary.
 
   A range of mountains, called Stanovor, rising to heights of 4000 or
   5000 ft., follows the southern coast of the eastern extremity of Asia
-  from Kamchatka to the borders of Manchuria, as far as the 135th
+  from Kamchatka to the [[Borders|borders]] of Manchuria, as far as the 135th
   meridian, in lat. 55 deg. N. Thence the Yablonoi range, continuing in
   the same direction, divides the waters of the river Lena, which flows
   through Siberia into the Arctic Sea, from those of the river Amur,
@@ -593,11 +593,11 @@ the eastern boundary.
   situated the few towns which have sprung up in this barren and thinly
   peopled region. Next may be named the Ala-tau, on the prolongation of
   the Tian-shan, flanking the Syr on the north, and rising to 14,000 or
-  15,000 ft. It forms the barrier between the Issyk-kul and Balkash
+  15,000 ft. It forms the barrier between the [[Issyk-Kul|Issyk-kul]] and Balkash
   lakes, the elevation of which is about 5000 ft. Last is the Altai,
   near the 50th parallel, rising to 10,000 or 12,000 ft., which
   separates the waters of the great rivers of western Siberia from those
-  that collect into the lakes of north-west Mongolia, Dzungaria and
+  that collect into the lakes of north-west Mongolia, [[Dzungaria]] and
   Kalka. A line of elevation is continued west of the Altai to the Ural
   Mountains, not rising to considerable altitudes; this divides the
   drainage of south-west Siberia from the great plains lying north east
@@ -613,7 +613,7 @@ the eastern boundary.
   less than 2000 ft. above the sea level. The elevation of the plain
   about Kashgar and Yarkand is from 4000 to 6000 ft. The more northern
   parts of Mongolia are between 4000 and 6000 ft., and no portion of the
-  route across the desert between the Chinese frontier and Kiakhta is
+  route across the desert between the Chinese frontier and [[Kiakhta]] is
   below 3000 ft. The precise positions of the mountain ridges that
   traverse this central area are not properly known, their elevation is
   everywhere considerable, and many points are known to exceed 10,000 or
@@ -623,7 +623,7 @@ the eastern boundary.
   consisting in herds of horned cattle, sheep, horses and camels. The
   Turki tribes, occupying western Mongolia, are among the least
   civilized of human beings, and it is chiefly to their extreme
-  barbarity and cruelty that our ignorance of central Asia is due. The
+  barbarity and [[Cruelty|cruelty]] that our [[Ignorance|ignorance]] of central Asia is due. The
   climate is very severe, with great extremes of heat and cold. The
   drought is very great, rain falls rarely and in small quantities. The
   surface is for the most part a hard stony desert, areas of blown sand
@@ -647,7 +647,7 @@ the eastern boundary.
   rainfall, though not heavy, is sufficient to maintain such vegetation
   as is compatible with the conditions of temperature, and the surface
   is often swampy or peaty. The mountain-sides are commonly clothed with
-  pine forests, and the plains with grasses or shrubs. The population is
+  pine forests, and the plains with [[Grasses|grasses]] or shrubs. The population is
   very scanty; the cultivated tracts are comparatively small in extent
   and restricted to the more settled districts. The towns are entirely
   Russian. The indigenous races are nomadic Mongols, of a peaceful
@@ -661,7 +661,7 @@ the eastern boundary.
 
     Malay Archipelago.
 
-  The southern group of the Malay Archipelago, from Sumatra to Java and
+  The southern group of the Malay Archipelago, from Sumatra to [[Java]] and
   Timor, extends in the arc of a circle between 95 deg. and 127 deg. E.,
   and from 5 deg. to 10 deg. S. The central part of the group is a
   volcanic region, many of the volcanoes being still active, the summits
@@ -734,7 +734,7 @@ the eastern boundary.
   across the European half of the great empire, St Petersburg being
   connected with Tiflis on the southern slopes of the Caucasus by a
   direct system of triangulation carried out with the highest scientific
-  precision. St Petersburg, again, is connected with Greenwich by
+  precision. St Petersburg, again, is connected with [[Greenwich]] by
   European systems of triangulation; and the Greenwich meridian is
   adopted by Russia as the zero for all her longitude values. But beyond
   the eastern shores of the Caspian no system of direct geodetic
@@ -758,7 +758,7 @@ the eastern boundary.
     "  1895  "  Kiev          "  Baku       2  35  51.997
 
   With these three independent values, all falling within a range of
-  0^S.25, it is improbable that the mean value has an error as large as
+  0^S.25, it is improbable that the mean value has an [[Error|error]] as large as
   0^S.10.
 
 
@@ -770,7 +770,7 @@ the eastern boundary.
   far east as the eastern boundaries of Burma in longitude about 100
   deg. E.
 
-  The close of the 19th century witnessed the forging of the final links
+  The close of the 19th century witnessed the [[Forging|forging]] of the final links
   in the great geodetic triangulation of India, so far as the peninsula
   is concerned. Further geodetic connexion with the European systems
   remains to be accomplished. Since 1890 further and more rigorous
@@ -814,7 +814,7 @@ the eastern boundary.
   In connexion with the Indian triangulation minor extensions carried
   out on systems involving more or less irregularity have been pushed
   outwards on all sides. They reach through Afghanistan and Baluchistan
-  to the eastern districts of Persia, and along the coast of Makran to
+  to the eastern districts of Persia, and along the coast of [[Makran]] to
   that of Arabia. They have long ago included the farther mountain peaks
   of Nepal, and they now branch outwards towards western China and into
   Siam. These far extensions furnish the basis for a vast amount of
@@ -838,7 +838,7 @@ the eastern boundary.
   elevated table-land of Tibet or to the central depression which exists
   to the north of it. In southern Tibet the trans-Himalayan explorations
   of the native surveyors attached to the Indian survey, notably Pundits
-  Nain Singh and Krishna, added largely to our knowledge of the great
+  Nain Singh and [[Krishna]], added largely to our knowledge of the great
   plateau. Nain Singh explored the sources of the Indus and of the Upper
   Brahmaputra in the years 1865-1867; and in 1874-1875 he followed a
   line from the eastern frontiers of Kashmir to the Tengri Nor lake and
@@ -862,7 +862,7 @@ the eastern boundary.
   Lhasa. In 1876 he visited the Lop Nor and discovered the Altyn Tagh
   range. In 1879 he followed up the Urangi river to the Altai Mountains,
   and demonstrated to the world the extraordinary physical changes which
-  have passed over the heart of the Asiatic continent since Jenghiz Khan
+  have passed over the heart of the Asiatic continent since Jenghiz [[Khan]]
   massed his vast armies in those provinces. He crossed, and named, the
   Dzungarian extension of the Gobi desert, and then traversed the Gobi
   itself from Hami to Sachu, which became a point of junction between
@@ -880,33 +880,33 @@ the eastern boundary.
   principles and yielding results of the highest value. Among other
   distinguished Russian explorers in Asia, the names of Lessar,
   Annentkov (who bridged the Trans-Caspian deserts by a railway), P.K.
-  Kozlov and Potanin are conspicuous during the 19th century.
+  [[Kozlov]] and Potanin are conspicuous during the 19th century.
 
 
     Other explorations in central Asia.
 
   Although the establishment of a lucrative trade between India and
-  central Asia had been the dream of many successive Indian viceroys,
+  central Asia had been the [[Dream|dream]] of many successive Indian viceroys,
   and much had been done towards improving the approaches to Simla from
   the north, very little was really known of the highlands of the
   Pamirs, or of the regions of the great central depression, before the
-  mission of Sir Douglas Forsyth to Yarkand in 1870. Robert Barkley Shaw
-  and George Hayward were the European pioneers of geography into the
+  mission of Sir Douglas [[Forsyth]] to Yarkand in 1870. Robert Barkley Shaw
+  and George [[Hayward]] were the European pioneers of geography into the
   central dominion of Kashgar, arriving at Yarkand within a few weeks of
   each other in 1868. Shaw subsequently accompanied Forsyth's mission in
   1870, when Henry Trotter made the first maps of Chinese Turkestan. The
   next great accession to our knowledge of central Asiatic geography was
   gained with the Russo-Afghan Boundary Commission of 1884-1886, when
   Afghan Turkestan and the Oxus regions were mapped by Colonel Sir T.H.
-  Holdich, Colonel St George Gore and Sir Adelbert Talbot; and when Ney
+  Holdich, Colonel St George [[Gore]] and Sir Adelbert Talbot; and when Ney
   Elias crossed from China through the Pamirs and Badakshan to the camp
   of the commission, identifying the great "Dragon Lake," Rangkul, on
   his way. About the same time a mission, under Captain (afterwards Sir
   Willaim) Lockhart, crossed the Hindu Kush into Wakhan, and returned to
-  India by the Bashgol valley of Kafiristan. This was Colonel
+  India by the Bashgol valley of [[Kafiristan]]. This was Colonel
   Woodthorpe's opportunity, and he was then enabled to verify the
   results of W.W. M'Nair's previous explorations, and to determine the
-  conformation of the Hindu Kush. In 1885 Arthur Douglas Carey and
+  conformation of the Hindu Kush. In 1885 Arthur Douglas [[Carey]] and
   Andrew Dalgleish, following more or less the tracks of Prjevalsky,
   contributed much that was new to the map of Asia; and in 1886 Captain
   (afterwards Sir Francis) Younghusband completed a most adventurous
@@ -921,8 +921,8 @@ the eastern boundary.
   failed to enter Lhasa. In 1889-1891 the American traveller, W.W.
   Rockhill, commenced his Tibetan journeys, and also attempted to reach
   Lhasa, without success. By his writings, as much as by his
-  explorations, Rockhill has made his name great in the annals of
-  Asiatic research. In 1891 Hamilton Bower made his famous journey from
+  explorations, Rockhill has made his name great in the [[Annals|annals]] of
+  Asiatic research. In 1891 Hamilton [[Bower]] made his famous journey from
   Leh to Peking. He, too, failed to penetrate the jealously-guarded
   portals of Lhasa; but he secured (with the assistance of a native
   surveyor) a splendid addition to our previous Tibetan mapping. In
@@ -937,7 +937,7 @@ the eastern boundary.
   Professor Sven Hedin, whose travels through the deserts of Takla Makan
   and Tibet, and whose investigations in the glacial regions of the
   Sarikol mountains, occupied him from 1894 to 1896. His is a truly
-  monumental record. From 1896 to 1898 we find two British cavalry
+  monumental record. From 1896 to 1898 we find two British [[Cavalry|cavalry]]
   officers taking the front position in the list of Tibetan
   travellers-Captain M.S. Wellby of the 18th Hussars and Captain H.
   Deasy of the 16th Lancers, each striking out a new line, and rendering
@@ -949,8 +949,8 @@ the eastern boundary.
 
   Since the beginning of the century the work of Deasy in western Tibet
   has been well extended by Dr M.A. Stein and Captain C. G. Rawling, who
-  have increased our knowledge of ancient fields of industry and
-  commerce in Turkestan and Tibet. Ellsworth Huntington threw new light
+  have increased our knowledge of ancient [[Fields|fields]] of industry and
+  commerce in Turkestan and Tibet. Ellsworth [[Huntington]] threw new light
   on the Tian-shan plateau and the Alai range by his explorations of
   1903; and Sven Hedin, between 1899 and 1902, was collecting material
   in Turkestan and Tibetan fields, and resumed his journeys in
@@ -970,13 +970,13 @@ the eastern boundary.
   the route connexion between Burma and China in 1874 (when the brave
   Augustus Margary lost his life), that a gradually increasing tide of
   exploration, setting from east to west and back again, has culminated
-  in a flood of inquiring experts intent on economic and commercial
+  in a [[Flood|flood]] of inquiring [[Expert|experts]] [[Intent|intent]] on economic and commercial
   development in China, essaying to unlock those doors to trade which
   are hereafter to be propped open for the benefit of humanity. Captain
-  William Gill, of the Indian survey, first made his way across China to
+  William [[Gill]], of the Indian survey, first made his way across China to
   eastern Tibet and Burma, and subsequently delighted the world with his
   story of the _River of Golden Sand_. Then followed another charming
-  writer, E.C. Baber, who, in 1877-1878, unravelled the geographic
+  writer, E.C. [[Baber]], who, in 1877-1878, unravelled the geographic
   mysteries of the western provinces of the Celestial empire. Mark Bell
   crossed the continent in 1887 and illustrated its ancient trade
   routes, following the steps of Archibald Colquhoun, who wandered from
@@ -987,7 +987,7 @@ the eastern boundary.
   earliest travellers to those mysterious mountains which hide the
   sources of the Irrawaddy, the Salween and the Mekong, was Prince Henri
   d'Orleans. Burma was rapidly brought under survey; Siam was already in
-  the map-making hands of James M'Carthy, whilst Curzon and Warrington
+  the map-making hands of James [[M'Carthy]], whilst Curzon and Warrington
   Smyth added much to our knowledge of its picturesque coast districts.
   No more valuable contribution to the illustration of western Chinese
   configuration has been given to the public than that of C.C. Manifold
@@ -1006,7 +1006,7 @@ the eastern boundary.
   matter of exploration. It has rather been a wide extension of
   scientific geographical mapping. Afghan war of 1878-80; the
   Russo-Afghan Boundary Commission of 1884-1885; the occupation of
-  Gilgit and Chitral; the extension of boundaries east and north of
+  [[Gilgit]] and [[Chitral]]; the extension of boundaries east and north of
   Afghanistan, and again, between Baluchistan and Persia--these, added
   to the opportunities afforded by the systematic survey of Baluchistan
   which has been steadily progressing since 1880--combined to produce a
@@ -1015,8 +1015,8 @@ the eastern boundary.
 
   In these professional labours the Indian surveyors have been assisted
   by such scientific geographers as General Sir A. Houtum Schindler,
-  Captain H.B. Vaughan and Major Percy M. Sykes in Persia, and by Sir
-  George Robertson and Cockerill in Kafiristan and the Hindu Kush.
+  Captain H.B. Vaughan and [[Major]] Percy M. Sykes in Persia, and by Sir
+  George Robertson and [[Cockerill]] in Kafiristan and the Hindu Kush.
 
 
     Arabia.
@@ -1025,11 +1025,11 @@ the eastern boundary.
   been thrown since 1875 on the physiography of the great deserts and
   oases of Arabia. The labours of Charles Doughty and Wilfrid S. Blunt
   in northern Arabia in 1877-1878 were followed by those of G.
-  Schweinfurth and E. Glaser in the south-west about ten years later. In
+  Schweinfurth and E. [[Glaser]] in the south-west about ten years later. In
   1884-1885 Colonel S.B. Miles made his adventurous journey through
   Oman, while Theodore Bent threw searchlights backwards into ancient
-  Semitic history by his investigations in the Bahrein Islands in 1888
-  and in Hadramut in 1894-1895.
+  Semitic history by his investigations in the [[Bahrein Islands]] in 1888
+  and in [[Hadramut]] in 1894-1895.
 
 
     Northern Asia, Siberia, &c.
@@ -1043,7 +1043,7 @@ the eastern boundary.
   watered by the Lena, resulted in the collection of material which
   will greatly help to elucidate some of the problems which beset the
   geological history of the world, proving _inter alia_ the primeval
-  existence of a boreal zone of the Jurassic sea round the North Pole.
+  existence of a boreal zone of the [[Jurassic]] sea round the North Pole.
 
 
     General results of investigation.
@@ -1104,7 +1104,7 @@ the eastern boundary.
   mountain divisions of the world, consists of two parallel chains, of
   which the western is the water-divide of the Pamirs, and the eastern
   (which has been known as the Kashgar or Kandar range) is split at
-  intervals by lateral gorges to allow of the passage of the main
+  intervals by lateral [[Gorges|gorges]] to allow of the passage of the main
   drainage from the eastern Pamir slopes.
 
 
@@ -1150,10 +1150,10 @@ the eastern boundary.
 
   In Arabia progress has been slower, although the surveys carried out
   by Colonel Wahab in connexion with the boundary determined in the Aden
-  hinterland added more exact geographical knowledge within a limited
+  [[Hinterland|hinterland]] added more exact geographical knowledge within a limited
   area. Little more is known of the wide spaces of interior desert than
   has already been given to the world in the works of Sir Richard F.
-  Burton, Wm. Gifford Palgrave and Sir Lewis Pelly amongst Englishmen,
+  [[Burton]], Wm. Gifford Palgrave and Sir [[Lewis]] Pelly amongst Englishmen,
   and Karsten Niebuhr, John Lewis Burckhardt, Visconte, Joseph Halevy
   and others, amongst foreign travellers. Charles Doughty and Wilfrid S.
   Blunt have visited and illustrated the district of Nejd, and described
@@ -1197,7 +1197,7 @@ the eastern boundary.
   connexion of these seas, have also come under the close investigation
   of Russian scientists, with the result that the theory of an ancient
   connexion between the Oxus and the Caspian has been displaced by the
-  more recent hypothesis of an extension of the Caspian Sea eastwards
+  more recent [[Hypothesis|hypothesis]] of an extension of the [[Caspian Sea]] eastwards
   into Trans-Caspian territory within the post-Pleiocene age. The
   discovery of shells (now living in the Caspian) at a distance of about
   100 m. inland, at an altitude of 140 to 280 ft. above the present
@@ -1212,7 +1212,7 @@ the eastern boundary.
   matter of interest in connexion with the Oxus basin was elucidated by
   the researches of L. Griesbach in connexion with the Russo-Afghan
   Boundary Commission. He reported the gradual formation of an
-  anticlinal or ridge extending longitudinally through the great Balkh
+  anticlinal or ridge extending longitudinally through the great [[Balkh]]
   plain of Afghan Turkestan, which effectually shuts off the northern
   affluents of that basin from actual junction with the river. This
   evidence of a gradual process of upheaval still in action may throw
@@ -1224,8 +1224,8 @@ the eastern boundary.
   remains of cities which have long been buried under the advancing
   waves of sand in the Takla Makan desert, cities which flourished in
   the comparatively recent period of Buddhist ascendancy in High Asia,
-  is of the very highest interest, filling up a blank in the
-  identification of sites mentioned by early geographers and
+  is of the very highest interest, filling up a [[Blank|blank]] in the
+  [[Identification|identification]] of sites mentioned by early geographers and
   illustrating more fully the course of old pilgrim routes.
 
 
@@ -1315,7 +1315,7 @@ the eastern boundary.
   the Tumen river 100 m. south of the Amur bay, at the head of which
   lies the Russian port of Vladivostok. At two points the Russian
   boundary nearly approaches that of provinces which are directly under
-  British suzerainty. Where the Oxus river takes its great bend to the
+  British suzerainty. Where the Oxus river takes its great [[Bend|bend]] to the
   north from Ishkashim, the breadth of the Afghan territory intervening
   between that river and the main water-divide of the Hindu Kush is not
   more than 10 or 12 m.; and east of the Pamir extension of Afghanistan,
@@ -1384,8 +1384,8 @@ the eastern boundary.
   control. British Baluchistan officially includes the districts of
   Peshin, Sibi and of Thal-Chotiali. As these districts had originally
   been Afghan, they were transferred to British authority by the treaty
-  of Gandamak in 1879, although nominally they had been handed over to
-  Kalat forty years previously. Now they form an official province of
+  of [[Gandamak]] in 1879, although nominally they had been handed over to
+  [[Kalat]] forty years previously. Now they form an official province of
   British Baluchistan within the Baluchistan Agency; and the agency
   extends from the Gomal to the Arabian Sea and the Persian frontier.
   Within this agency there are districts as independent as any in
@@ -1399,7 +1399,7 @@ the eastern boundary.
 
   The increase of Russian influence on the northern Persian border and
   its extension southwards towards Seistan led to the appointment of a
-  British consul at Kirman, the dominating town of southern Khorasan,
+  British consul at Kirman, the dominating town of southern [[Khorasan]],
   directly connected with Meshed on the north; and the acquisition of
   rights of administration of the Nushki district secured to Great
   Britain the trade between Seistan and Quetta by the new Helmund desert
@@ -1469,7 +1469,7 @@ the eastern boundary.
   and the Tertiary beds lie almost horizontally upon them. It is a
   region of quiescence or of faulting, but not of folding. North of this
   lies a broad belt in which the Mesozoic deposits and even the lower
-  divisions of the Tertiary system are thrown into folds which extend in
+  divisions of the Tertiary system are thrown into [[Fold|folds]] which extend in
   a series of arcs from west to east and now form the principal mountain
   ranges of central Asia. This belt includes Asia Minor, Persia,
   Afghanistan, Baluchistan, the Himalayas, the Tian-shan, and, although
@@ -1568,7 +1568,7 @@ the eastern boundary.
   of Mesozoic or Tertiary age, while plant-bearing deposits belonging to
   the Angara series are known. Structurally, the folds of this region
   are of ancient date, but the area is crossed by a series of
-  depressions formed by faults, and the intervening strips, which have
+  depressions formed by [[Fault|faults]], and the intervening strips, which have
   not been depressed to the same extent, now stand up as mountain
   ranges. Farther south, in the Chinese provinces of Shansi and Shensi,
   the geological succession is similar in some respects to that of the
@@ -1618,7 +1618,7 @@ the eastern boundary.
 
   It was after the Eocene period that the main part of the elevation of
   the Himalayas took place, as is shown by the occurrence of nummulitic
-  limestone at a height of 20,000 ft. The formation of this and of the
+  [[Limestone|limestone]] at a height of 20,000 ft. The formation of this and of the
   other great mountain chains of central Asia resulted in the isolation
   of portions of the former central sea, and the same forces finally led
   to the elevation of the whole region and the union of the old
@@ -1680,13 +1680,13 @@ the eastern boundary.
   months is hardly anywhere less than 60 deg. Fahr. On the Sea of Aral
   it is 80 deg. Fahr., and at Astrakhan, on the Caspian, more than 50
   deg. At Tiflis it is 45 deg. In northern China, at Peking, it is 55
-  deg., reduced to 30 deg. at Canton, and to 20 deg. at Manila. In
+  deg., reduced to 30 deg. at Canton, and to 20 deg. at [[Manila]]. In
   northern India the greatest difference does not exceed 40 deg., and it
-  falls off to about 15 deg. at Calcutta and to about 10 deg. or 12 deg.
+  falls off to about 15 deg. at [[Calcutta]] and to about 10 deg. or 12 deg.
   at Bombay and Madras. The temperatures at the head of the Persian Gulf
   approximate to those of northern India, and those of Aden to Madras.
-  At Singapore the range is less than 5 deg., and at Batavia in Java,
-  and Galle in Ceylon, it is about the same. The extreme temperatures in
+  At Singapore the range is less than 5 deg., and at [[Batavia]] in Java,
+  and [[Galle]] in Ceylon, it is about the same. The extreme temperatures in
   Siberia may be considered to lie between 80 deg. and 90 deg. Fahr. for
   maxima, and between -40 deg. and -70 deg. Fahr. for minima. The
   extreme of heat near the Caspian and Aral Seas rises to nearly 100
@@ -1735,7 +1735,7 @@ the eastern boundary.
   forty fold.
 
   The very high summer temperatures of the area north of the tropic of
-  Cancer are sufficiently accounted for, when compared with those
+  [[Cancer]] are sufficiently accounted for, when compared with those
   observed south of the tropic, by the increased length of the day in
   the higher latitude, which more than compensates for the loss of heat
   due to the smaller mid-day altitude of the sun. The difference between
@@ -1749,7 +1749,7 @@ the eastern boundary.
   the main outline of the observed phenomena, a very important modifying
   cause, of which more will be said hereafter, comes into operation over
   the whole of the tropical region, namely, the periodical summer rains.
-  These tend very greatly to arrest the increase of the summer heat over
+  These tend very greatly to [[Arrest|arrest]] the increase of the summer heat over
   the area where they prevail, and otherwise give it altogether peculiar
   characteristics.
 
@@ -1866,7 +1866,7 @@ the eastern boundary.
   phenomena actually observed, and it serves to account for many
   apparent anomalies. The heaviest falls of rain occur along lines of
   mountain of some extent directly facing the vapour-bearing winds, as
-  on the Western Ghats of India and the west coast of the Malay
+  on the Western [[Ghats]] of India and the west coast of the Malay
   peninsula. The same results are found along the mountains at a
   distance from the sea, the heaviest rainfall known to occur anywhere
   in the world (not less than 600 in. in the year) being recorded on the
@@ -1889,7 +1889,7 @@ the eastern boundary.
   banks of cloud in the afternoon, when the up wind is strongest, along
   the southern face of the snowy ranges of the Himalaya, is a regular
   daily phenomenon during the hotter months of the year, and heavy rain,
-  accompanied by electrical discharges, is the frequent result of such
+  accompanied by electrical [[Discharge|discharges]], is the frequent result of such
   condensation.
 
   Too little is known of the greater part of Asia to admit of any more
@@ -1900,7 +1900,7 @@ the eastern boundary.
   increase in Korea, Siam and Japan. At Tiflis the yearly fall is 22
   in.; on the Caspian about 7 or 8 in.; on the Sea of Aral 5 or 6 in. In
   south-western Siberia it is 12 or 14 in., diminishing as we proceed
-  eastward to 6 or 7 in. at Barnaul, and to 5 or 6 in. at Urga in
+  eastward to 6 or 7 in. at [[Barnaul]], and to 5 or 6 in. at Urga in
   northern Mongolia. In eastern Siberia it is about 15 to 20 in. In
   China we find about 23 in. to be the fall at Peking; while at Canton,
   which lies nearly on the northern tropic and the region of the
@@ -1990,7 +1990,7 @@ the eastern boundary.
   The foregoing brief review of the principal territorial divisions
   according to which the forms of life are distributed in Asia,
   indicates how close is the dependence of this distribution on climatic
-  conditions, and this will be made more apparent by a somewhat fuller
+  conditions, and this will be made more apparent by a somewhat [[Fuller|fuller]]
   account of the main features of the flora and fauna.
 
 
@@ -1999,7 +1999,7 @@ the eastern boundary.
   _Flora._--The flora of the whole of northern Asia is in essentials the
   same as that of northern Europe, the differences being due rather to
   variations of species than of genera. The absence of the oak and of
-  all heaths east of the Ural may be noticed. Pines, larch, birch are
+  all heaths east of the Ural may be noticed. Pines, larch, [[Birch|birch]] are
   the principal trees on the mountains; willow, alders and poplars on
   the lower ground. The northern limit of the pine in Siberia is about
   70 deg. N.
@@ -2049,8 +2049,8 @@ the eastern boundary.
   islands, from about the 65th to the 105th meridian, was estimated by
   Sir J.D. Hooker at 12,000 to 15,000. The principal orders, arranged
   according to their numerical importance, are as follows:--Leguminosae,
-  Rubiaceae, Orchidaceae, Compositae, Gramineae, Euphorbiaceae,
-  Acanthaceae, Cyperaceae and Labiatae. But within this region there is
+  Rubiaceae, Orchidaceae, [[Compositae]], Gramineae, [[Euphorbiaceae]],
+  Acanthaceae, [[Cyperaceae]] and [[Labiatae]]. But within this region there is
   a very great variation between the vegetation of the more humid and
   the more arid regions, while the characteristics of the flora on the
   higher mountain ranges differ wholly from those of the plains. In
@@ -2099,7 +2099,7 @@ the eastern boundary.
   Balsaminaceae, Ebenaceae, Jasmineae, and Cyrtandraceae; but of these
   few contain as many as 100 peculiar Indian species. _Nepenthes_ may be
   mentioned as a genus specially developed in the Malayan area, and
-  extending from New Caledonia to Madagascar; it is found as far north
+  extending from New [[Caledonia]] to [[Madagascar]]; it is found as far north
   as the Khasi hills, and in Ceylon, but does not appear on the Himalaya
   or in the peninsula of India. The Balsaminaceae may be named as being
   rare in the eastern region and very abundant in the peninsula. A
@@ -2153,7 +2153,7 @@ the eastern boundary.
   covered with _Pinus longifolia_, or with oaks and rhododendron, and
   the forest is not commonly dense below 8000 ft., excepting in some of
   the more secluded valleys at a low elevation. From 8000 to 12,000 ft.,
-  a thick forest of deciduous trees is almost universal, above which a
+  a thick forest of [[Deciduous|deciduous]] trees is almost universal, above which a
   sub-alpine region is reached, and vegetation as on the east continues
   up to 18,000 ft. or more. The more tropical forms of the east, such as
   the tree-ferns, do not reach west of Nepal. The cedar or deodar is
@@ -2163,13 +2163,13 @@ the eastern boundary.
 
   The cultivated plants of the Indian region include wheat, barley, rice
   and maize; various millets, _Sorghum, Penicillaria, Panicum_ and
-  _Eleusine_; many pulses, peas and beans; mustard and rape; ginger and
-  turmeric; pepper and capsicum; several Cucurbitaceae; tobacco,
+  _Eleusine_; many pulses, peas and [[Bean|beans]]; mustard and rape; ginger and
+  turmeric; pepper and capsicum; several [[Cucurbitaceae]]; tobacco,
   _Sesamum_, poppy, _Crotolaria_ and _Cannabis_; cotton, indigo and
-  sugar; coffee and tea; oranges, lemons of many sorts; pomegranate,
+  sugar; coffee and tea; oranges, [[Lemon|lemons]] of many sorts; pomegranate,
   mango, figs, peaches, vines and plantains. The more common palms are
   _Cocos, Phoenix_ and _Borassus_, supplying cocoa-nut and toddy. Indian
-  agriculture combines the harvests of the tropical and temperate zones.
+  agriculture combines the [[Harvest|harvests]] of the tropical and temperate zones.
   North of the tropic the winter cold is sufficient to admit of the
   cultivation of almost all the cereals and vegetables of Europe, wheat
   being sown in November and reaped early in April. In this same region
@@ -2200,7 +2200,7 @@ the eastern boundary.
   only timber in ordinary use obtained from the Himalaya proper is the
   deodar, _Cedrus deodara_. Besides these are the sandalwood,
   _Santalum_, of southern India, and many sorts of bamboo found in all
-  parts of the country. The cinchona has recently been introduced with
+  parts of the country. The [[Cinchona|cinchona]] has recently been introduced with
   complete success; and the mahogany of America reaches a large size,
   and gives promise of being grown for use as timber.
 
@@ -2213,7 +2213,7 @@ the eastern boundary.
   African desert to the border of the rainless tract along the Indus and
   the southern parts of the Punjab. It includes the peninsula of Arabia,
   the shores of the Persian Gulf, south Persia, and Afghanistan and
-  Baluchistan. On the west its limit is in the Cape Verde Islands, and
+  Baluchistan. On the west its limit is in the [[Cape Verde Islands]], and
   it is partially represented in Abyssinia.
 
   The more common plants in the most characteristic part of this region
@@ -2225,14 +2225,14 @@ the eastern boundary.
   representative of an order. The aspect of the vegetation is very
   peculiar, and is commonly determined by the predominance of some four
   or five species, the rest being either local or sparingly scattered
-  over the area. The absence of the ordinary bright green colours of
+  over the area. The absence of the ordinary [[Bright|bright]] green [[Colours|colours]] of
   vegetation is another peculiarity of this flora, almost all the plants
   having glaucous or whitened stems. Foliage is reduced to a minimum,
   the moisture of the plant being stored up in massive or fleshy stems
   against the long-continued drought. Aridity has favoured the
   production of spines as a defence from external attack, sharp thorns
   are frequent, and asperities of various sorts predominate. Many
-  species produce gums and resins, their stems being encrusted with the
+  species produce [[Gum|gums]] and resins, their stems being encrusted with the
   exudations, and pungency and aromatic odour is an almost universal
   quality of the plants of desert regions.
 
@@ -2240,7 +2240,7 @@ the eastern boundary.
   India--wheat, barley, and the common _Sorghum_, with dates and lemons,
   cotton and indigo. To these must be added coffee, which is restricted
   to the slopes of the western hills. Among the more mountainous regions
-  of the south-western part of Arabia, known as Arabia Felix, the
+  of the south-western part of Arabia, known as Arabia [[Felix]], the
   summits of which rise to 6000 or 7000 ft., the rainfall is sufficient
   to develop a more luxuriant vegetation, and the valleys have a flora
   like that of similarly situated parts of southern Persia, and the less
@@ -2257,8 +2257,8 @@ the eastern boundary.
   the contiguous western Himalaya. _Quercus Ilex_, the evergreen oak of
   southern Europe, is found in forests as far east as the Sutlej,
   accompanied with other European forms. In the higher parts of
-  Afghanistan and Persia Boraginaceae and thistles abound; gigantic
-  Umbelliferae, such as _Ferula, Galbanum, Dorema, Bubon, Peucedanum,
+  Afghanistan and Persia [[Boraginaceae]] and thistles abound; gigantic
+  Umbelliferae, such as _Ferula, [[Galbanum]], Dorema, Bubon, Peucedanum,
   Prangos_, and others, also characterize the same districts, and some
   of them extend into Tibet.
 
@@ -2297,7 +2297,7 @@ the eastern boundary.
   those of India South China, therefore seems, botanically hardly
   distinct from the great Indian region, into which many Chinese forms
   penetrate, as before noticed. The flora of north China, which is akin
-  to that of Japan, shows manifest relation to that of the neighbouring
+  to that of Japan, shows [[Manifest|manifest]] relation to that of the neighbouring
   American continent, from which many temperate forms extend, reaching
   to the Himalaya, almost as far as Kashmir. Very little is known of the
   plants of the interior of northern China, but it seems probable that a
@@ -2324,7 +2324,7 @@ the eastern boundary.
   _Fauna._--The zoological provinces of Asia correspond very closely
   with the botanical. The northern portion of Asia, as far south as the
   Himalaya, is not zoologically distinct from Europe, and these two
-  areas, with the strip of Africa north of the Atlas, constitute the
+  areas, with the strip of Africa north of the [[Atlas]], constitute the
   Palaearctic region of Dr. Sclater, whose zoological primary divisions
   of the earth have met with the general approval of naturalists. The
   south-eastern portion of Asia with the adjacent islands of Sumatra,
@@ -2349,14 +2349,14 @@ the eastern boundary.
   Insectivorous bats are numerous, but the frugivorous division of this
   order is only represented by a single species in Japan. Carnivora are
   also numerous, particularly the frequenters of cold climates, such as
-  bears, weasels, wolves and foxes. Of the Insectivora, numerous forms
+  bears, weasels, wolves and [[Foxe|foxes]]. Of the [[Insectivora]], numerous forms
   of moles, shrews and hedgehogs prevail. The Rodents are also well
-  represented by various squirrels, mice, and hares. Characteristic
+  represented by various squirrels, mice, and [[Hare|hares]]. Characteristic
   forms ot this order in northern Asia are the marmots (_Arctomys_) and
   the pikas or tailless hares (_Lagomys_). The great order of Ungulata
   is represented by various forms of sheep, as many as ten or twelve
   wild species of _Ovis_ being met with in the mountain chains of Asia,
-  and more sparingly by several peculiar forms of antelope, such as the
+  and more sparingly by several peculiar forms of [[Antelope|antelope]], such as the
   saiga (_Saiga tatarica_) and the _Gazella gutturosa_, or yellow sheep.
   Coming to the deer, we also meet with characteristic forms in northern
   Asia, especially those belonging to the typical genus _Cervus_. The
@@ -2373,8 +2373,8 @@ the eastern boundary.
   their wild state to northern Asia. The still more magnificently clad
   gold pheasants (_Thaumalea_), and the eared pheasants (_Crossoptilon_)
   are also confined to certain districts in the mountains of north
-  eastern Asia. Amongst the _Passeres_, such forms as the larks, stone
-  chats, finches, linnets, and grosbeaks are well developed and exhibit
+  eastern Asia. Amongst the _Passeres_, such forms as the [[Lark|larks]], stone
+  chats, [[Finch|finches]], linnets, and [[Grosbeak|grosbeaks]] are well developed and exhibit
   many species.
 
   The mammal fauna of the Indian region of Asia is much more highly
@@ -2387,7 +2387,7 @@ the eastern boundary.
   likewise numerous, and this region may be considered as the true home
   of the tiger, though this animal has wandered far north into the
   Palaearctic division of Asia. Other characteristic Carnivora are
-  civets, various ichneumons, and the benturong (_Arctictis_). Two
+  [[Civet|civets]], various ichneumons, and the benturong (_Arctictis_). Two
   species of bears are likewise restricted to the Indian region. In the
   order of Rodents squirrels are very numerous and porcupines of two
   genera are met with. The Indian region is the home of the Indian
@@ -2397,9 +2397,9 @@ the eastern boundary.
   family. The Bovidae or hollow-horned ruminants, are represented by
   several genera of antelopes, and by species of true _Bos_--such as _B.
   sondaicus_, _B. frontalis_ and _B. bubalus_. Deer are likewise
-  numerous, and the peculiar group of chevrotains (_Tragulus_) is
+  numerous, and the peculiar group of [[Chevrotain|chevrotains]] (_Tragulus_) is
   characteristic of the Indian region. Finally, this region affords us
-  representatives of the order Edentata, in the shape of several species
+  representatives of the order [[Edentata]], in the shape of several species
   of _Manis_, or scaly ant-eater.
 
   The assemblage of birds of the Indian region is one of the richest and
@@ -2417,7 +2417,7 @@ the eastern boundary.
   only into the south-western corner, and occupying the desert districts
   of Arabia and Syria, although some of the characteristic species reach
   still farther into Persia and Sind, and even into western India. The
-  lion and the hunting leopard, which may be considered as in this epoch
+  lion and the [[Hunting|hunting]] [[Leopard|leopard]], which may be considered as in this epoch
   at least, Ethiopian types extend thus far, besides various species of
   jerboa and other desert-loving forms.
 
@@ -2434,7 +2434,7 @@ the eastern boundary.
   Carnivora, Insectivora and Ruminants, which abound in the western part
   of the Archipelago. Deer do not extend into New Guinea, in which
   island the genus _Sus_ appears to have its eastern limit. A peculiar
-  form of baboon, _Cynopithecus_, and the singular ruminant, _Anoa_,
+  form of baboon, _Cynopithecus_, and the singular ruminant, _[[Anoa]]_,
   found in Celebes, seem to have no relation to Asiatic animals, and
   rather to be allied to those in Africa.
 
@@ -2443,8 +2443,8 @@ the eastern boundary.
   but do not pass, the line above spoken of. Species of birds akin to
   those of Africa also occur in Celebes.
 
-  Of the marine orders of Sirenia and Cetacea the Dugong, _Halicore_, is
-  exclusively found in the Indian Ocean and a dolphin, _Platanista_,
+  Of the marine orders of Sirenia and [[Cetacea]] the [[Dugong]], _Halicore_, is
+  exclusively found in the Indian Ocean and a [[Dolphin|dolphin]], _Platanista_,
   peculiar to the Ganges, ascends that river to a great distance from
   the sea.
 
@@ -2460,17 +2460,17 @@ the eastern boundary.
   Asia, and especially near coral reefs. The _Mullidae_ or red mullets
   are largely represented by genera differing from those of Europe. The
   _Polynemidae_, which range from the Atlantic through the Indian Ocean
-  to the Pacific, supply animals from which isinglass is prepared; one
+  to the Pacific, supply animals from which [[Isinglass|isinglass]] is prepared; one
   of them, the mango fish, esteemed a great delicacy, inhabits the seas
   from the Bay of Bengal to Siam. The _Sciaenidae_ extend from the Bay
   of Bengal to China, but are not known to the westward. The
   _Stromateidae_, or pomfrets, resemble the dory, a Mediterranean form,
   and extend to China and the Pacific. The sword fishes _Xiphidae_, the
   lancet fishes, _Acanthuridae_, and the scabbard fishes, _Trichuridae_,
-  are distributed through the seas of south Asia. Mackerels of various
+  are distributed through the seas of south Asia. [[Mackerel|Mackerels]] of various
   genera abound, as well as gobies, blenniesm and mullets.
 
-  Among the Anacanthim, the cod family so well known in Europe shows but
+  Among the Anacanthim, the [[Cod|cod]] family so well known in Europe shows but
   one or two species in the seas of south Asia, though the soles and
   allied fishes are numerous along the coasts. Of the Physostomi, the
   siluroids are abundant in the estuaries and muddy waters; the habits
@@ -2478,16 +2478,16 @@ the eastern boundary.
   carrying the ova in their mouths till the young are hatched. The small
   family of _Scopelidae_ affords the gelatinous _Harpodon_, or bumalo.
   The gar-fish and flying fishes are numerous, extending into the seas
-  of Europe. The _Clupeidae_ or herrings, are most abundant, and
+  of Europe. The _Clupeidae_ or [[Herrings|herrings]], are most abundant, and
   anchovies, or sardines, are found in shoals, but at irregular and
   uncertain intervals. The marine eels, _Muraenidae_, are more numerous
   towards the Malay Archipelago than in the Indian seas. Forms of
   sea-horses (_Hippocampus_), pipe-fishes (_Syngnathus_), fife-fishes
-  (_Sclerodermus_), and sun-fish, globe-fish, and other allied forms of
+  (_Sclerodermus_), and sun-fish, [[Globe-Fish|globe-fish]], and other allied forms of
   _Gymnodontes_, are not uncommon.
 
   Of the cartilaginous fishes, Chondropterygii, the true sharks and
-  hammer-headed sharks, are numerous. The dog-fish also is found, one
+  hammer-headed sharks, are numerous. The [[Dog-Fish|dog-fish]] also is found, one
   species extending from the Indian seas to the Cape of Good Hope. The
   saw-fishes, _Pristidae_, the electrical rays, _Torpedinae_, and
   ordinary rays and skates, are also found in considerable numbers.
@@ -2521,7 +2521,7 @@ the eastern boundary.
   which they are found.
 
 
-    Insects.
+    [[Insect|Insects]].
 
   The insects of all southern Asia, including India south of the
   Himalaya, China, Siam and the Malayan Islands, belong to one group;
@@ -2541,16 +2541,16 @@ the eastern boundary.
     Domesticated animals.
 
   Of the domesticated animals of Asia may first be mentioned the
-  elephant. It does not breed in captivity, and is not found wild west
-  of the Jumna river in northern India. The horse is produced, in the
+  [[Elephant|elephant]]. It does not breed in captivity, and is not found wild west
+  of the [[Jumna]] river in northern India. The horse is produced, in the
   highest perfection in Arabia and the hot and dry countries of western
   Asia. Ponies are most esteemed from the wetter regions of the east,
   and the hilly tracts. Asses are abundant in most places, and two wild
-  species occur. The horned cattle include the humped oxen and buffaloes
+  species occur. The horned cattle include the humped oxen and [[Buffalo|buffaloes]]
   of India, and the yak of Tibet. A hybrid between the yak and Indian
   cattle, called zo, is commonly reared in Tibet and the Himalaya. Sheep
   abound in the more temperate regions, and goats are universally met
-  with; both of these animals are used as beasts of burden in the
+  with; both of these animals are used as beasts of [[Burden|burden]] in the
   mountains of Tibet. The reindeer of northern Siberia call also for
   special notice; they are used for the saddle as well as for draught.
        (R. S.)
@@ -2581,7 +2581,7 @@ the eastern boundary.
   over nearly the same area as the Melanochroi, with which race it is
   greatly intermixed. The Xanthochroi have fair skins, blue eyes and
   light hair; and others have dark skins, eyes and hair, and are of a
-  slighter frame. Together they constitute what were once called the
+  slighter [[Frame|frame]]. Together they constitute what were once called the
   Caucasian races. The Melanochroi are not considered by Huxley to be
   one of the primitive modifications of mankind, but rather to be the
   result of the admixture of the Xanthochroi with the Australoid type,
@@ -2589,10 +2589,10 @@ the eastern boundary.
 
   The third group is that of the Australoid type. Their hair is dark,
   generally soft, never woolly. The eyes and skin are dark, the beard
-  often well developed, the nose broad and flat, the lips coarse, and
+  often well developed, the nose broad and flat, the [[Lip|lips]] coarse, and
   jaws heavy. This race is believed to form the basis of the people of
   the Indian peninsula, and of some of the hill tribes of central India,
-  to whom the name Dravidian has been given, and by its admixture with
+  to whom the name [[Dravidian]] has been given, and by its admixture with
   the Melanochroic group to have given rise to the ordinary population
   of the Indian provinces. It is also probable that the Australoid
   family extends into south Arabia and Egypt.
@@ -2620,7 +2620,7 @@ the eastern boundary.
   connected with this branch of the human race.
 
   The Mongolians of the northern half of Asia are almost entirely
-  nomadic, hunters and shepherds or herdsmen. The least advanced of
+  nomadic, [[Hunter|hunters]] and shepherds or herdsmen. The least advanced of
   these, but far the most peaceful, are those that occupy Siberia.
   Farther south the best-known tribes are the Manchus, the Mongols
   proper, the Moguls and the Turks, all known under the name of Tatars,
@@ -2655,7 +2655,7 @@ the eastern boundary.
   cognate race occupies the Himalaya to the eastern limits of Kashmir.
 
   Some light has been thrown on the connexion between the Tibetan race
-  and certain tribes of central India, the Bhils and Kols; and it seems
+  and certain tribes of central India, the Bhils and [[Kols]]; and it seems
   more probable that these tribes are the remnants of a Mongolian race
   which first displaced a yet earlier Negroid population, and was then
   itself shouldered out by a Caucasian irruption, than that they entered
@@ -2663,7 +2663,7 @@ the eastern boundary.
   settlements have lately been found very much farther extended into the
   border countries of north-west India than has been hitherto
   recognized. The Mingals, who, conjointly with the Brahuis, occupy the
-  hills south of Kalat to the limits of the Rajput province of Las Bela,
+  hills south of Kalat to the limits of the Rajput province of Las [[Bela]],
   claim Mongolian descent, and traces of a Mongolian colony have been
   found in Makran.
 
@@ -2677,11 +2677,11 @@ the eastern boundary.
   are now known to us, they have undergone a process of partial
   civilization, first at the hands of the Brahminical Indians, from whom
   they borrowed a religion, and to some extent literature and an
-  alphabet, and subsequently from intercourse with the Arabs, which has
+  alphabet, and subsequently from intercourse with the [[Arabs]], which has
   led to the adoption of Mahommedanism by most of them.
 
 
-    Aryans.
+    [[Aryan|Aryans]].
 
   The name of Aryan has been given to the races speaking languages
   derived from, or akin to, the ancient form of Sanskrit, who now occupy
@@ -2708,7 +2708,7 @@ the eastern boundary.
   The letters of both classes of languages, which also vary
   considerably, are all modifications of the ancient Pali, and probably
   derived from the Dravidians, not from the Aryans. They are written
-  from left to right, exception being made of Urdu or Hindostani, the
+  from left to right, exception being made of Urdu or [[Hindostani]], the
   mixed language of the Mahommedan conquerors of northern India, the
   character used for writing which is the Persian. From the river Sutlej
   and the borders of the Sind desert, as far as Burma and to Ceylon, the
@@ -2718,7 +2718,7 @@ the eastern boundary.
   may be said to be wholly Mahommedan with the exception of certain
   relatively small areas in Asia Minor and Syria, where Christians
   predominate. The language of the Punjab does not differ very
-  materially from that of Upper India. West of the Indus the dialects
+  materially from that of Upper India. West of the Indus the [[Dialect|dialects]]
   approach more to Persian, which language meets Arabic and Turki west
   of the Tigris, and along the Turkoman desert and the Caspian. Through
   the whole of this tract the letters are used which are common to
@@ -2727,7 +2727,7 @@ the eastern boundary.
 
     Racial distribution.
 
-  Considerable progress has been made in the classification of the
+  Considerable progress has been made in the [[Classification|classification]] of the
   various races which occupy the continent to the west of the great
   Mongolian region. The ancient Sacae, or Scyths, are recognized in the
   Aryan population, who may be found in great numbers and in their
@@ -2747,10 +2747,10 @@ the eastern boundary.
   authorities, the Kassak Kirghiz is the more closely allied to the
   Mongol type; the Kara Kirghiz, who are found principally in the
   valleys of the Tian-shan and Altai mountains, being unmistakably
-  Turkish. The Kipchaks are only a Kirghiz clan. The language of the
+  Turkish. The Kipchaks are only a Kirghiz [[Clan|clan]]. The language of the
   Kirghiz is Turki and their religion that of Mahomet. As a nomadic
   people they have great contempt for the Sarts, who represent the town
-  dwellers of the tribe. The Kalmucks are a Buddhist and Mongolian
+  dwellers of the tribe. The [[Kalmuck|Kalmucks]] are a Buddhist and Mongolian
   people who originated in a confederacy of tribes dwelling in
   Dzungaria, migrated to Siberia, and settled on the Lower Volga. From
   thence they returned late in the 18th century to the reoccupation of
@@ -2766,12 +2766,12 @@ the eastern boundary.
   recede from his Mongolian affinities and to approach the Caucasian.
   Turks and Mongols alike were doubtless included under the term Scyth
   by the ancients, and as Tatars by more modern writers, insomuch that
-  the Turkish dynasty at Delhi, founded by Baber, is usually termed the
+  the Turkish dynasty at [[Delhi]], founded by Baber, is usually termed the
   Mogul dynasty, although there can be no distinction traced between the
   terms Mogul and Mongol. The general results of recent inquiry into the
   ethnography of Afghanistan is to support the general correctness of
   Bellew's theories of the origin of the Afghan races. The claim of the
-  Durani Afghan to be a true Ben-i-Israel is certainly in no way
+  [[Durani]] Afghan to be a true Ben-i-Israel is certainly in no way
   weakened by any recent investigation. The influence of Greek culture
   in northern India is fully recognized, and the distribution of Greek
   colonies previous to Alexander's time is attested by practical
@@ -2793,13 +2793,13 @@ the eastern boundary.
   peninsula. The Kabul valley indicates the north-western entrance, and
   Makran indicates that on the west. By the Kabul valley route, which
   includes at its head the group of passes across the Hindu Kush which
-  extend from the Khawak to the Kaoshan, all those central Asian hordes,
+  extend from the Khawak to the Kaoshan, all those central Asian [[Horde|hordes]],
   be they Sacae, Yue-chi, Jats, Goths or Huns, who were driven towards
   the rich plains of the south, entered the Punjab. Some of them
   migrated from districts which belong to eastern Asia, but none of them
   penetrated into India by eastern passes. Such tides as set towards the
   Himalaya broke against their farther buttresses, leaving an
-  interesting ethnographical flotsam in the northern valleys; but they
+  interesting ethnographical [[Flotsam|flotsam]] in the northern valleys; but they
   never overflowed the Himalayan barrier. Later most of the historic
   invasions of India from central Asia followed the route which leads
   directly from Kabul to Peshawar and Delhi.
@@ -2842,11 +2842,11 @@ somewhat negative, namely, that Asiatics have not the same sentiment of
 independence and freedom as Europeans. Individuals are thought of as
 members of a family, state or religion, rather than as entities with a
 destiny and rights of their own. This leads to autocracy in politics,
-fatalism in religion and conservatism in both. Hence, too, Asiatic
+[[Fatalism|fatalism]] in religion and conservatism in both. Hence, too, Asiatic
 history has large and simple outlines. Though longer chronologically
 than the annals of Europe, it is less eventful, less diversified and
 offers fewer personalities of interest. But the same conditions which
-render individual eminence difficult procure for it when once attained a
+render individual [[Eminence|eminence]] difficult procure for it when once attained a
 more ready recognition, and the conquerors and prophets of Asia have had
 more power and authority than their parallels in Europe. Jenghiz Khan
 and Timur covered more ground than Napoleon, and no European has had
@@ -2868,7 +2868,7 @@ most important manifestations--notably the Roman Church--are European
 reconstructions in which little of the Asiatic element remains.
 Christianity has made little way farther east then Asia Minor. Modern
 missions have made no great conquests there, and in earlier times the
-Nestorians and Jacobites who penetrated to central Asia, China and
+Nestorians and [[Jacobites]] who penetrated to central Asia, China and
 India, received respectful hearing, but never had anything like the
 success which attended Buddhism and Islam. Yet Buddhism has never made
 much impression west of India; and Islam is clearly repugnant to
@@ -2935,7 +2935,7 @@ distribution of races and political power.
 
 (a) China has moulded the civilization of the eastern mainland and
 Japan, without much affecting the Malay Archipelago. In the sphere of
-direct influence fall Korea, Japan and Annam; in the outer sphere are
+direct influence fall Korea, Japan and [[Annam]]; in the outer sphere are
 Mongolia, Tibet, Siam, Cambodia and Burma, where Indian and Chinese
 influence are combined, the Indian being often the stronger. These
 countries, except Japan, have all been at some time at least nominal
@@ -2947,7 +2947,7 @@ but has not advanced west of China proper and Annam.
 
 (b) Indian influence may be defined as Buddhism, if it is understood
 that Buddhism is not at all periods clearly distinguishable from
-Hinduism. Its sphere includes Indo-China, much of the Malay Archipelago,
+[[Hinduism]]. Its sphere includes [[Indo-China]], much of the Malay Archipelago,
 Tibet and Mongolia, Moreover, China and Japan themselves may be said to
 fall within this sphere, in view of the part which Buddhism has played
 in their development. The Buddhist influence is not merely religious,
@@ -2967,17 +2967,17 @@ which the world has seen. It has profoundly affected and to a large
 extent subjugated all western Asia including India, all eastern and
 northern Africa as well as Spain, and all eastern Europe. Its open
 advocacy of force attracts warlike races, and the intensity of its
-influence is increased by the fusion of secular and religious power, so
+influence is increased by the [[Fusion|fusion]] of secular and religious power, so
 that the Moslem Church is a Moslem state characterized by slavery,
 polygamy, and, subject to the autocracy of the ruler, by the theoretical
 equality of Moslems, who in political status are superior to
 non-Moslems. Thus, whenever the population of a Moslem country is of
-mixed belief, a ruling caste of Moslems is formed, as in Turkey at the
+mixed belief, a ruling [[Caste|caste]] of Moslems is formed, as in Turkey at the
 present day and India under the Moguls. Islam is paramount in Turkey,
 Persia, Arabia and Afghanistan. India is the dividing line: Islam is
 strong in northern and central India, weaker in the south. But only
 one-fifth of the whole population is Moslem. Beyond India it has spread
-to Malacca and the Malay Archipelago, where it overwhelmed Hindu
+to [[Malacca]] and the Malay Archipelago, where it overwhelmed Hindu
 civilization, and reached the southern Philippines. But it made no
 progress in Indo-China or Japan; and though there is a large Moslem
 population in China the Chinese influence has been stronger, for alone
@@ -2989,7 +2989,7 @@ Even more than Buddhism Islam has carried with it a special style of art
 and civilization. It is usually accompanied by the use of the Arabic
 alphabet, and in the languages of Moslem nations (notably Turkish,
 Persian, Hindustani and Malay) a large proportion of the vocabulary is
-borrowed from Arabic. Hindi and Hindustani, two forms of the same
+borrowed from Arabic. [[Hindi]] and Hindustani, two forms of the same
 language as spoken by Hindus and Mahommedans respectively, are a curious
 example of how deeply religion may affect culture.
 
@@ -3041,7 +3041,7 @@ modern times, but the Semitic states of Babylonia and Assyria were once
 the principal centres for the development and distribution of
 civilization. It is generally agreed that this civilization can be
 traced back to an earlier race, the Sumero-Akkadians, whose language
-seems allied to the agglutinative idioms of central Asia. If this
+seems allied to the agglutinative [[Idiom|idioms]] of central Asia. If this
 ancient civilized race was really allied to the ancestors of the Turks
 and Huns, it is a remarkable instance of how civilization thrives best
 by being transplanted at a certain period of growth. Still less is known
@@ -3052,7 +3052,7 @@ Semitic.
 
 The earliest Sumerian records seem to be anterior to 4000 B.C. Shortly
 after that period Babylonia was invaded by Semites, who became the
-ruling race. The city of Babylon came to the fore as metropolis about
+ruling race. The city of [[Babylon]] came to the fore as metropolis about
 2285 B.C. under Khammurabi. Assyria was an offshoot of Babylonia lying
 to the north-west, and apparently colonized before the second
 millennium. While using the same language as the Babylonians, the
@@ -3060,12 +3060,12 @@ Assyrians had an individuality which showed itself in art and religion.
 In the 9th and 8th centuries B.C. they became the chief power within
 their sphere and the suzerain of their parent Babylon. But they
 succumbed before the advance of the Medo-Persian power in 606 B.C.,
-whereas it was not till 555 that Cyrus took Babylon. Assyria, being
+whereas it was not till 555 that [[Cyrus]] took Babylon. Assyria, being
 essentially a military power, disappeared with the destruction of
 Nineveh, but Babylon continued to exercise an influence on culture and
 religion for many centuries after the Persian conquest.
 
-6. _China._--This is the oldest of existing states, though its authentic
+6. _China._--This is the oldest of existing states, though its [[Authentic|authentic]]
 history does not go back much beyond 1000 B.C. It is generally admitted
 that there was some connexion between the ancient civilizations of China
 and Babylonia, but its precise nature is still uncertain. It is clear,
@@ -3085,7 +3085,7 @@ to northern India, but were dismembered by the attacks of the Kitans,
 whence the name Cathay. China proper, minus these external provinces,
 was again united under the Sung dynasty (960-1127), but split into the
 northern (Tatar) and southern (Chinese) kingdoms. In the 13th century
-arose the Mongol power, and Kublai Khan conquered China. The Mongol
+arose the Mongol power, and [[Kublai Khan]] conquered China. The Mongol
 dynasty lasted less than a century, but the Ming, the native Chinese
 dynasty which succeeded it, reigned for nearly 300 years and despatched
 expeditions which reached India, Ceylon and East Africa. In 1644 the
@@ -3169,10 +3169,10 @@ secluded and free from the continual struggle against barbarian
 invaders, which drained the energies of its neighbours. It was left
 untouched by Mahommedanism, and for an unprecedentedly long period kept
 Europeans at bay without wasting its strength in hostilities. The
-military spirit was evolved, not in raids and massacres of the usual
+military spirit was evolved, not in raids and [[Massacre|massacres]] of the usual
 Asiatic type which create little but intense racial hatred, but in feuds
-between families and factions of the same race, which restrained
-ferocity and tended to create a temper like that of the feudal chivalry
+between families and [[Faction|factions]] of the same race, which restrained
+ferocity and tended to create a temper like that of the feudal [[Chivalry|chivalry]]
 of Europe. On the other hand it is noticeable that the Japanese have
 little which is original in the way of religion, literature or
 philosophy. Unlike the Chinese and Indians, they have hitherto not had
@@ -3192,7 +3192,7 @@ In 1895 Korea was declared independent.
 
 9. _India._--The population of India comprises at least three strata:
 firstly, uncivilized aborigines, such as the Kols and Santhals, and
-secondly, the Dravidians (Tamils, Kanarese, &c.), who perhaps represent
+secondly, the Dravidians (Tamils, [[Kanarese]], &c.), who perhaps represent
 the earliest northern invaders, and appear to have attained some degree
 of culture on their own account. The most recent authorities are of
 opinion that the Kolarians and Dravidians represent a single physical
@@ -3216,7 +3216,7 @@ sacred songs, the _Rig Veda_, was quasi-nomadic and in many ways
 democratic, but by the 6th century B.C. settled states had been formed
 in the Ganges valley. They were absolute monarchies, but the power of
 the king was tempered by the extraordinary influence possessed by the
-hereditary sacerdotal class or Brahmans. The position of this class,
+hereditary sacerdotal class or [[Brahman|Brahmans]]. The position of this class,
 which has remained till the present day, is connected with the
 institution of caste, a division of the population into groups founded
 partly on racial distinctions. The peaceful progress of Brahmanism was
@@ -3233,7 +3233,7 @@ small, but the establishment of Perso-Greek kingdoms in central Asia had
 a powerful influence on Indian art and culture. It may also have helped
 to familiarize the Hindu mind with the idea of an empire, which appeared
 among them later than in other Asiatic countries. The first empire,
-called Maurya, reached its greatest extent in the time of Asoka (264-227
+called Maurya, reached its greatest extent in the time of [[Asoka]] (264-227
 B.C.), who ruled from Afghanistan to Madras. He was a zealous Buddhist
 and gave the first example of a missionary religion, for by his
 exertions the faith was spread over all India and Ceylon. No Hindu
@@ -3242,22 +3242,22 @@ after his death.
 
 In the next period (c. 150 B.C.-A.D. 300) India was invaded from the
 north by tribes partly of Parthian and partly of Turki (Yue-chi, &c.)
-origin. Owing to the absence of dated records, the chronology of these
+origin. Owing to the absence of dated records, the [[Chronology|chronology]] of these
 invasions has not yet been set beyond dispute, but the most important
-was that of the Kushans, whose king Kanishka founded a state which
+was that of the Kushans, whose king [[Kanishka]] founded a state which
 comprised northern India and Kashmir. They were Buddhists, and it is
-probable that the Mahayana or northern form of Buddhism was due to an
+probable that the [[Mahayana]] or northern form of Buddhism was due to an
 amalgamation of Gotama's doctrines with the ideas (largely Greek and
 Persian) which they brought with them. Much of Sivaism has probably the
 same origin. Another native empire, known as Gupta, rose on the ruins of
 the Kushan kingdom, and embraced nearly the whole peninsula, but it
 broke up in the 5th century, partly owing to the attacks of new northern
 invaders, the Huns. The Malava dynasty maintained Hindu civilization in
-the 6th century, and from 606 to 646 Harsha established a brief but
+the 6th century, and from 606 to 646 [[Harsha]] established a brief but
 brilliant empire in the north with its capital at Kanauj. This epoch is
 marked by the renaissance of Sanskrit literature and the gradual revival
 of Hinduism at the expense of Buddhism. But after Harsha Hindu history
-is lost in a maze of small and transitory states, incapable of resisting
+is lost in a [[Maze|maze]] of small and transitory states, incapable of resisting
 the ever advancing Mahommedan peril. As early as 712 the Arabs conquered
 Sind, and by the end of the 11th century the whole of northern India was
 in Moslem hands. Two periods may be distinguished, namely the Turki
@@ -3306,7 +3306,7 @@ indicate merely the pre-eminence of a particular tribe and not conquest
 by another race. The power of the Achaemenidae, when at its maximum,
 extended from the Oxus and Indus in the east to Thrace in the west and
 Egypt in the south, but fell before Greece, after lasting for rather
-more than 200 years. Darius and Xerxes were repulsed in their efforts to
+more than 200 years. [[Darius]] and Xerxes were repulsed in their efforts to
 subjugate the Greek Peninsula, and Alexander the Great conquered their
 successor Darius III. in 329. But the greater part of the empire
 continued to exist under new masters, the Seleucids, as a Hellenistic
@@ -3333,7 +3333,7 @@ distracted and disorganized by Afghan invasions. The present dynasty,
 which is of Turkoman origin, dates from 1789.
 
 The achievements of the Persians in art, literature and religion are by
-no means contemptible, but somewhat mixed and cosmopolitan. Owing to its
+no means contemptible, but somewhat mixed and [[Cosmopolitan|cosmopolitan]]. Owing to its
 position, the Persian state, when it from time to time became a
 conquering empire, overlapped Asia Minor, Babylon and India, and hence
 acted as an intermediary for transmitting art and ideas, sending for
@@ -3353,9 +3353,9 @@ remarkable qualities they have been distinguished from the earliest
 times by a species of commensalism, or power of living among other
 nations without becoming either socially merged or politically distinct.
 Their traditional history represents them as migrating to the borders of
-Egypt and living there for some centuries. After the exodus, which
+Egypt and living there for some centuries. After the [[Exodus|exodus]], which
 perhaps took place about 1300 B.C., they moved northwards again and
-founded a state of modest dimensions, which attained a short-lived unity
+founded a state of modest [[Dimension|dimensions]], which attained a short-lived unity
 under Solomon, but succumbed to internal dissensions and to the attacks
 of Assyria and Babylon. Shalmanezer destroyed the northern kingdom or
 Israel in 720, and following the practice of the times deported the
@@ -3369,7 +3369,7 @@ Their institutions and ideas were probably considerably modified during
 this period. Babylon long continued to be a Jewish centre whence the
 Jews radiated to other countries. The restored state of Jerusalem lived
 for about six centuries in partial independence under Persian, Egyptian,
-Syrian and Roman rule, often showing an aggressively heroic attachment
+Syrian and Roman rule, often showing an aggressively heroic [[Attachment|attachment]]
 to its national customs, which brought it into collision with its
 suzerains, until the temple was destroyed by Titus in A.D. 70, and the
 country laid waste in the succeeding years. But long before this period
@@ -3402,7 +3402,7 @@ Arabs, who during some centuries threatened to impose not only their
 political authority but their civilization and new religion on the whole
 known world. They successfully invaded India and central Asia in the
 east, Spain and Morocco in the west. The Caliphate under the Omayyads of
-Damascus, and then the Abbasids of Bagdad, became the principal power in
+[[Damascus]], and then the Abbasids of Bagdad, became the principal power in
 the nearer East. It had not, however, a sufficiently coherent
 organization for permanence; parts of it became independent, others
 were first protected and then absorbed by the Turks. The Arab rule in
@@ -3479,7 +3479,7 @@ ethnic unity) comprising the Munda, Monkhmer, Malay, Polynesian and
 Micronesian languages, and that the stream of immigration which
 distributed them started from the extreme west. Three periods can be
 traced in the history of the Asiatic Malays. In the first (in which such
-tribes as the Dyaks have remained) they were semi-barbarous. In the
+tribes as the [[Dyaks]] have remained) they were semi-barbarous. In the
 second, Hindu civilization reached the Malay Peninsula, Java, Sumatra
 and other islands. The presence of Hindu ruins, as well as of numerous
 Indian words and customs, testifies to the strength of this influence.
@@ -3492,7 +3492,7 @@ Java, Sumatra, &c.
 civilization. It has entirely escaped Islam, and though it is a nominal
 vassal of China, direct Chinese influence has not been strong. The most
 striking feature is the religion, a corrupt form of late Indian
-Buddhism, known as Lamaism, which, largely in consequence of the favour
+Buddhism, known as [[Lamaism]], which, largely in consequence of the favour
 shown by Jenghiz Khan and his successors, has attained temporal power
 and developed into an ecclesiastical state curiously like the papacy.
 
@@ -3554,7 +3554,7 @@ for ornament.
 In both art and literature modern Asia is inferior to the past more
 conspicuously than Europe.
 
-As for science, astronomy was cultivated by the Babylonians at an early
+As for science, [[Astronomy|astronomy]] was cultivated by the Babylonians at an early
 period, and it is probably from them that a knowledge of the heavenly
 bodies and their movements spread over Asia. Grammar and prosody were
 studied in India with a marvellous accuracy and minuteness several
@@ -3580,7 +3580,7 @@ later Alexandrine ideas suggest Indian affinities, there is no clear
 connexion such as there is between certain aspects of Chinese thought
 and India.
 
-Any general statement as to the debt owed by early European
+Any general statement as to the [[Debt|debt]] owed by early European
 civilizations to western Asia would at present be premature, for though
 important discoveries have been made in Crete and Babylonia the best
 authorities are chary of positive conclusions as to the relations of
@@ -3639,7 +3639,7 @@ traces.
 The relation to Asia of the pre-European civilizations of America is
 another of those questions which admit of no definite answer at present,
 though many facts support the theory that the semi-civilized inhabitants
-of Mexico and Central America crossed from Asia by Bering Straits and
+of Mexico and [[Central America]] crossed from Asia by Bering Straits and
 descended the west coast. Some authorities hold that Peruvian
 civilization had no connexion with the north and was an entirely
 indigenous product, but Kechua is in structure not unlike the
@@ -3655,7 +3655,7 @@ foundation of Perso-Greek kingdoms in Asia, which not only hellenized
 their own area but influenced the art and religion of India and to some
 extent of China. Then follows a long period in which eastern Europe was
 mainly occupied in combating Asiatic invasions, and had little
-opportunity of Europeanizing the East. Somewhat later the Crusades kept
+opportunity of Europeanizing the East. Somewhat later the [[Crusades]] kept
 up communication with the Levant, and established there the power of the
 Roman Church, somewhat to the detriment of oriental Christianity, but
 intercourse with farther Asia was limited to the voyages of a few
@@ -3697,10 +3697,10 @@ traded and were recognized by the natives as political powers. The
 ultimate victory of England seems due less to any particular aptitude
 for dealing with oriental problems than to a better command of the seas
 and to considerations of European politics. At the end of the Napoleonic
-wars Portugal had Macao and Goa, Holland Java, Sumatra and other
+wars Portugal had [[Macao]] and Goa, Holland Java, Sumatra and other
 islands, France some odds and ends in India, while England emerged with
 Hong Kong, Singapore, Ceylon and a free hand in India. Guided by such
-administrators as Warren Hastings, the East India Company had assumed
+administrators as Warren [[Hastings]], the [[East India Company]] had assumed
 more and more definitely the functions of government for a great part of
 India. In 1809 its exclusive trading rights were taken away by
 Parliament, but its administrative status was thus made clearer, and
@@ -3708,13 +3708,13 @@ when after the mutiny of 1857 it was desirable to define British
 authority in India there seemed nothing unnatural in declaring it to be
 a possession of the crown.
 
-Another category of European possessions in Asia comprises those
+Another [[Category|category]] of European possessions in Asia comprises those
 acquired towards the end of the 19th century, such as Indo-China
 (France), Burma and Wei-Hai-Wei (Britain), and Kiao-Chow (Germany).
 Whereas the earlier conquests were mostly the results of large
 half-conscious national movements working out their destinies in the
-East, these later ones were annexations deliberately planned by European
-cabinets. It seemed to be assumed that Asia was to be divided among the
+East, these later ones were [[Annexation|annexations]] deliberately planned by European
+[[Cabinet|cabinets]]. It seemed to be assumed that Asia was to be divided among the
 powers of Europe, and each was anxious to get its share or more.
 
 The advance of Russia in Asia is entirely different from that of the
@@ -3751,15 +3751,15 @@ rather than European ideas. (C. El.)
   "Upper Oxus," vol. i. _Proc. R.G.S._, 1879; Dr Bellew, _Afghanistan
   and the Afghans_ (London, 1879); Nicolas Prjevalski, "Explorations in
   Asia," see vols. i., ii., v., ix. and xi. of the _Proc. R.G.S._,
-  1879-1889; W. Blunt, "A Visit to Jebel Shammar," vol ii. _Proc.
+  1879-1889; W. Blunt, "A Visit to [[Jebel]] Shammar," vol ii. _Proc.
   R.G.S._, 1880; Captain W Gill, _The River of Golden Sand_ (London,
   1880); Sir R. Temple, "Central Plateau of Asia," vol. iv. _Proc.
-  R.G.S._ 1882; Baker, "A Journey of Exploration in Western Ssu-Chuan,"
+  R.G.S._ 1882; [[Baker]], "A Journey of Exploration in Western Ssu-Chuan,"
   vol. i. _Supplementary Papers R.G.S._, 1882-1885; Sir C. Wilson,
   "Notes on Physical and Historical Geography of Asia Minor," vol. vi.
   _Proc. R.G.S._, 1884; General J.T. Walker, "Asiatic Explorers of the
   Indian Survey," vol. viii. _Proc. R.G.S._, 1885; Samuel Beal,
-  _Buddhist Records of the Western World_ (Boston, 1885); Charles
+  _Buddhist Records of the Western World_ ([[Boston]], 1885); Charles
   Doughty, _Travels in Northern Arabia_ (Cambridge, 1886); _Travels in
   Arabia Deserta_ (Cambridge, 1888); Venukoff, "Explorations," vol.
   viii. _Proc. G.R.S._, 1886; Ney Elias, "Explorations in Central Asia,"
@@ -3782,7 +3782,7 @@ rather than European ideas. (C. El.)
   "Southern Arabia," vol. vi. _Jour. R.G.S._, 1896; "Bahrein Islands,"
   vol. xii. _Proc. R.G.S._, 1890; Grombcherski, "Explorations in Kuen
   Lun," vol. xii. _Proc. R.G.S._, 1890; Lydekker, "The Geology of the
-  Kashmir Valley and Chamba Territories," vols. xiii. and xiv.
+  Kashmir Valley and [[Chamba]] Territories," vols. xiii. and xiv.
   _Geological Survey of India_; Max Muller, _The Sacred Books of the
   East_ (Oxford, 1890-1894); Elisee Reclus, _The Earth and its
   Inhabitants_ (series, 1890); G.W. Leitner, _Dardistan_; H.F. Blanford,
@@ -3802,7 +3802,7 @@ rather than European ideas. (C. El.)
   _Jour. R.G.S._, 1895; Warrington Smyth, "Siam," vol. vi. _Jour.
   R.G.S._, 1895; "Siamese East Coast," vol xi. _Jour._ 1898; Prince
   Kropotkin, "Siberian Railway," vol. v. _R.G.S. Jour._, 1895; W.R.
-  Lawrence, _The Vale of Kashmir_ (Oxford, 1895); Captain Vaughan,
+  [[Lawrence]], _The Vale of Kashmir_ (Oxford, 1895); Captain Vaughan,
   "Persia," vol. viii. _Jour. R.G.S._, 1896; Prince H. d'Orleans, "Yunan
   to India," vol. vii. _Jour. R.G.S._, 1896; "Tonkin to Talifu," vol.
   viii. _Jour. R.G.S._, 1896; Sir T. Holdich, "Ancient and Medieval
@@ -3827,8 +3827,8 @@ rather than European ideas. (C. El.)
   R.G.S._; In Tibet and Chinese Turkestan (London, 1901); A. Little,
   _The Far East_ (Oxford, 1905); Captain Rawling, _The Great Plateau_
   (London, 1905); _Journal of the Royal Geogl. Society_, vols. xv. to
-  xxv. (1900-1905); Colonel A. Durand, _The Making of a Frontier_
-  (London, 1899); R. Cobbold, _Innermost Asia_ (London, 1900).
+  xxv. (1900-1905); Colonel A. [[Durand]], _The Making of a Frontier_
+  (London, 1899); R. [[Cobbold]], _Innermost Asia_ (London, 1900).
        (T. H. H.*)
 
 

@@ -31,7 +31,7 @@ Virginia, on the 6th of November 1873.
 
 
 HARDENBERG, KARL AUGUST VON, PRINCE (1750-1822), Prussian statesman, was
-born at Essenroda in Hanover on the 31st of May 1750. After studying at
+born at Essenroda in [[Hanover]] on the 31st of May 1750. After studying at
 Leipzig and Gottingen he entered the Hanoverian civil service in 1770 as
 councillor of the board of domains (_Kammerrat_); but, finding his
 advancement slow, he set out--on the advice of King George III.--on a

@@ -4,7 +4,7 @@ BUTLER, JOSEPH (1692-1752), English divine and philosopher, bishop of
 Durham, was born at Wantage, in Berkshire, on the 18th of May 1692. His
 father, a linen-draper of that town, was a Presbyterian, and it was his
 wish that young Butler should be educated for the ministry in that church.
-The boy was placed under the care of the Rev. Philip Barton, master of the
+The boy was placed under the care of the Rev. Philip [[Barton]], master of the
 grammar school at Wantage, and remained there for some years. He was then
 sent to Samuel Jones's dissenting academy at Gloucester, and afterwards at
 Tewkesbury, where his most intimate friend was Thomas Seeker, who became
@@ -28,7 +28,7 @@ of life."
 
 In March 1715 he entered at Oriel College, Oxford, but for some time found
 it uncongenial and thought of migrating to Cambridge. But he made a close
-friend in one of the resident fellows, Edward Talbot, son of William
+friend in one of the resident [[Fellows|fellows]], Edward Talbot, son of William
 Talbot, then bishop of Oxford, and afterwards of Salisbury and Durham. In
 1718 he took his degree, was ordained deacon and priest, and on the
 recommendation of Talbot and Clarke was nominated preacher at the chapel of
@@ -44,17 +44,17 @@ remembered in the neighbourhood as a man much loved and respected, who used
 to ride a black pony very fast, and whose known benevolence was much
 practised upon by beggars. Archbishop Blackburne, when asked by Queen
 Caroline whether he was still alive, answered, "He is not dead, madam, but
-buried." In 1733 he was made chaplain to Lord Chancellor Talbot, elder
+buried." In 1733 he was made [[Chaplain|chaplain]] to Lord Chancellor Talbot, elder
 brother of his dead friend Edward, and in 1736 prebendary of Rochester. In
 the same year he was appointed clerk of the closet to the queen, and had to
 take part in the metaphysical conversation parties which she loved to
-gather round her. He met Berkeley frequently, but in his writings does not
+gather round her. He met [[Berkeley]] frequently, but in his writings does not
 refer to him. In 1736 also appeared his great work, _The Analogy of
 Religion_.
 
 In 1737 Queen Caroline died; on her deathbed she recommended Butler to the
 favour of her husband. George seemed to think his obligation sufficiently
-discharged by appointing Butler in 1738 to the bishopric of Bristol, the
+discharged by appointing Butler in 1738 to the bishopric of [[Bristol]], the
 poorest see in the kingdom. The severe but dignified letter to Walpole, in
 which Butler accepted the preferment, showed that the slight was felt and
 resented. Two years later, however, the bishop was presented to the rich
@@ -68,7 +68,7 @@ vacant by the death of Edward Chandler. His charge to the clergy of the
 diocese, the only charge of his known to us, is a weighty and valuable
 address on the importance of external forms in religion. This, together
 with the fact that over the altar of his private chapel at Bristol he had a
-cross of white marble, gave rise to an absurd rumour that the bishop had
+cross of white [[Marble|marble]], gave rise to an absurd rumour that the bishop had
 too great a leaning towards Romanism. At Durham he was very charitable, and
 expended large sums in building and decorating his church and residence.
 His private expenses were exceedingly small. Shortly after his translation
@@ -77,13 +77,13 @@ at Bath, whither he had removed for his health. He was buried in the
 cathedral of Bristol, and over his grave a monument was erected in 1834,
 with an epitaph by Southey. According to his express orders, all his MSS.
 were burned after his death. Bishop Butler was never married. His personal
-appearance has been sketched in a few lines by Hutchinson:--"He was of a
+appearance has been sketched in a few lines by [[Hutchinson]]:--"He was of a
 most reverend aspect; his face thin and pale; but there was a divine
 placidness which inspired veneration, and expressed the most benevolent
 mind. His white hair hung gracefully on his shoulders, and his whole figure
 was patriarchal."
 
-Butler was an earnest and deep-thinking Christian, melancholy by
+Butler was an [[Earnest|earnest]] and deep-thinking Christian, melancholy by
 temperament, and grieved by what seemed to him the hopelessly irreligious
 condition of his age. In his view not only the religious life of the
 nation, but (what he regarded as synonymous) the church itself, was in an
@@ -92,7 +92,7 @@ the diocese of Durham and [v.04 p.0883] from many passages in the
 _Analogy_. And though there was a complete remedy just coming into notice,
 in the Evangelical revival, it was not of a kind that commended itself to
 Butler, whose type of mind was opposed to everything that savoured of
-enthusiasm. He even asked John Wesley, in 1739, to desist from preaching in
+[[Enthusiasm|enthusiasm]]. He even asked John Wesley, in 1739, to desist from preaching in
 his diocese of Bristol, and in a memorable interview with the great
 preacher remarked that any claim to the extraordinary gifts of the Holy
 Spirit was "a horrid thing, a very horrid thing, sir." Yet Butler was
@@ -100,7 +100,7 @@ keenly interested in those very miners of Kingswood among whom Wesley
 preached, and left L500 towards building a church for them. It is a great
 mistake to suppose that because he took no great part in politics he had no
 interest in the practical questions of his time, or that he was so immersed
-in metaphysics as to live in the clouds. His intellect was profound and
+in metaphysics as to live in the clouds. His [[Intellect|intellect]] was profound and
 comprehensive, thoroughly qualified to grapple with the deepest problems of
 metaphysics, but by natural preference occupying itself mainly with the
 practical and moral. Man's conduct in life, not his theory of the universe,
@@ -119,12 +119,12 @@ His great work, _The Analogy of Religion, Natural and Revealed, to the
 Course and Constitution of Nature_, cannot be adequately appreciated unless
 taken in connexion with the circumstances of the period at which it
 appeared. It was intended as a defence against the great tide of deistical
-speculation (see DEISM), which in the apprehension of many good men seemed
+speculation (see DEISM), which in the [[Apprehension|apprehension]] of many good men seemed
 likely to sweep away the restraints of religion and make way for a general
 reign of licence. Butler did not enter the lists in the ordinary way. Most
 of the literature evoked by the controversy on either side was devoted to
 rebutting the attack of some individual opponent. Thus it was Bentley
-versus Collins, Sherlock versus Woolston, Law versus Tindal. The _Analogy_,
+versus [[Collins]], Sherlock versus Woolston, Law versus Tindal. The _Analogy_,
 on the contrary, did not directly refer to the deists at all, and yet it
 worked more havoc with their position than all the other books put
 together, and remains practically the one surviving landmark of the whole
@@ -151,7 +151,7 @@ the whole." So far as experience goes, "to us probability is the very guide
 of life." Reason is certainly to be accepted; it is pur natural light, and
 the only faculty whereby we can judge of things. But it gives no completed
 system of knowledge and in matters of fact affords only probable
-conclusions. In this emphatic declaration, that knowledge of the course of
+conclusions. In this emphatic [[Declaration|declaration]], that knowledge of the course of
 nature is merely probable, Butler is at one with Hume, who was a most
 diligent student of the bishop's works. What can come nearer Hume's
 celebrated maxim--"Anything may be the cause of anything else," than
@@ -194,7 +194,7 @@ argument a somewhat wider issue appears. He seeks to show not only that the
 difficulties in the systems of natural and revealed religion have
 counterparts in nature, but also that the facts of nature, far from being
 adverse to the principles of religion, are a distinct ground for inferring
-their probable truth. He endeavours to show that the balance of probability
+their probable truth. He endeavours to show that the [[Balance|balance]] of probability
 is entirely in favour of the scheme of religion, that this probability is
 the natural conclusion from an inspection of nature, and that, as religion
 is a matter of practice, we are bound to adopt the course of action which
@@ -215,7 +215,7 @@ can.
 
 Keeping clearly in view his premises--the existence of God and the limited
 nature of knowledge--Butler begins by inquiring into the fundamental
-pre-requisite of all natural religion--the immortality of the soul.
+pre-requisite of all natural religion--the [[Immortality|immortality]] of the soul.
 Evidently the stress of the whole question is here. Were man not immortal,
 religion would be of little value. Now, Butler does not attempt to prove
 the truth of the doctrine; that proof comes from another quarter. The only
@@ -234,7 +234,7 @@ us that our present happiness and misery depend upon our conduct, and are
 not distributed indiscriminately. Therefore no argument can be brought from
 experience against the possibility of our future happiness and misery
 likewise depending upon conduct. The whole analogy of nature is in favour
-of such a dispensation; it is therefore reasonable or probable. Further, we
+of such a [[Dispensation|dispensation]]; it is therefore reasonable or probable. Further, we
 are not only under a government in which actions considered simply as such
 are rewarded and punished, but it is known from experience that virtue and
 vice are followed by their natural consequents--happiness and misery. And
@@ -274,7 +274,7 @@ Butler seems willing to rest satisfied with his opponents' admission that
 the being of God is proved by reason, but it would be hard to discover how,
 upon his own conception of the nature and limits of reason, such a proof
 could ever be given. It has been said that it is no flaw in Butler's
-argument that he has left atheism as a possible mode of viewing the
+argument that he has left [[Atheism|atheism]] as a possible mode of viewing the
 universe, because his work was not directed against the atheists. It is,
 however, in some degree a defect; for his defence of religion against the
 deists rests on a view of reason which would for ever preclude a
@@ -314,10 +314,10 @@ proof of them is to be found in revealed religion, which has disclosed to
 us not only these truths, but also a further scheme not discoverable by the
 natural light. Here, again, Butler joins issue with his opponents. Revealed
 religion had been declared to be nothing but a republication of the truths
-of natural religion (Matthew Tindal, _Christianity as Old as the
+of natural religion ([[Matthew]] Tindal, _Christianity as Old as the
 Creation_), and all revelation had been objected to as impossible. To show
 that such objections are invalid, and that a revelation is at least not
-impossible, Butler makes use mainly of his doctrine of human ignorance.
+impossible, Butler makes use mainly of his doctrine of human [[Ignorance|ignorance]].
 Revelation had been rejected because it lay altogether beyond the sphere of
 reason and could not therefore be grasped by human intelligence. But the
 same is true of nature; there are in the ordinary course of things
@@ -353,7 +353,7 @@ consequently, that the things objected to are not incredible and may be
 proved by external evidence. But the deism of the 17th century is a phase
 of thought that has no living reality now, and the whole aspect of the
 religious problem has been completely changed. To a generation that has
-been moulded by the philosophy of Kant and Hegel, by the historical
+been moulded by the philosophy of [[Kant]] and Hegel, by the historical
 criticism of modern theology, and by all that has been done in the field of
 comparative religion, the argument of the _Analogy_ cannot but appear to
 lie quite outside the field of controversy. To Butler the Christian
@@ -368,7 +368,7 @@ but little influence on the present state of theology; it was not a book
 for all time, but was limited to the problems of the period at which it
 appeared.
 
-Throughout the whole of the _Analogy_ it is manifest that the interest
+Throughout the whole of the _Analogy_ it is [[Manifest|manifest]] that the interest
 which lay closest to Butler's heart was the ethical. His whole cast of
 thinking was practical. The moral nature of man, his conduct in life, is
 that on account of which alone an inquiry into religion is of importance.
@@ -377,16 +377,16 @@ _Sermons preached at the Chapel of the Rolls_, especially in the first
 three. In these sermons Butler has made substantial contributions to
 ethical science, and it may be said with confidence, that in their own
 department nothing superior in value appeared during the long interval
-between Aristotle and Kant. To both of these great thinkers he has certain
+between [[Aristotle]] and Kant. To both of these great thinkers he has certain
 analogies. He resembles the first in his method of investigating the end
 which human nature is intended to realize; he reminds of the other by the
 consistency with which he upholds the absolute supremacy of moral law.
 
-In his ethics, as in his theology, Butler had constantly in view a certain
+In his [[Ethics|ethics]], as in his theology, Butler had constantly in view a certain
 class of adversaries, consisting partly of the philosophic few, partly of
 the fashionably educated many, who all participated in one common mode of
-thinking. The keynote of this tendency had been struck by Hobbes, in whose
-philosophy man was regarded as a mere selfish sensitive machine, moved
+thinking. The keynote of this tendency had been struck by [[Hobbes]], in whose
+philosophy man was regarded as a mere selfish sensitive [[Machine|machine]], moved
 solely by pleasures and pains. Cudworth and Clarke had tried to place
 ethics on a nobler footing, but their speculations were too abstract for
 Butler and not sufficiently "applicable to the several particular relations
@@ -408,7 +408,7 @@ constitution, is adapted to virtue, as from the idea of a watch it appears
 that its nature, _i.e._ constitution or system, is adapted to measure
 time." Such analysis had been already attempted by Hobbes, and the result
 he came to was that man naturally is adapted only for a life of
-selfishness,--his end is the procuring of pleasure and the avoidance of
+selfishness,--his end is the procuring of pleasure and the [[Avoidance|avoidance]] of
 pain. A closer examination, however, shows that this at least is false. The
 truth of the counter propositions, that man is [Greek: phusei politikos],
 that the full development of his being is impossible apart from society,
@@ -506,14 +506,14 @@ ethics.
 
 AUTHORITIES.--See T. Bartlett, _Memoirs of Butler_ (1839). The standard
 edition of Butler's works is that in 2 vols. (Oxford, 1844). Editions of
-the _Analogy_ are very numerous; that by Bishop William Fitzgerald (1849)
+the _Analogy_ are very numerous; that by Bishop William [[Fitzgerald]] (1849)
 contains a valuable Life and Notes. W. Whewell published an edition of the
 _Three Sermons_, with Introduction. Modern editions of the _Works_ are
 those by W.E. Gladstone (2 vols. with a 3rd vol. of _Studies Subsidiary_,
-1896), and J.H. Bernard, (2 vols. in the English Theological Library,
+1896), and J.H. [[Bernard]], (2 vols. in the English Theological Library,
 1900). For the history of the religious works contemporary with the
-_Analogy_, see Lechler, _Gesch. d. Engl. Deismus_; M. Pattison, in _Essays
-and Reviews_; W. Hunt, _Religious Thought in England_, vols., ii. and iii.;
+_Analogy_, see [[Lechler]], _Gesch. d. Engl. Deismus_; M. Pattison, in _Essays
+and Reviews_; W. [[Hunt]], _Religious Thought in England_, vols., ii. and iii.;
 L. Stephen, _English Thought in the 18th Century_; J.H. Overton and F.
 Relton, _The English Church from the Accession of George I. to the End of
 the 18th Century_.

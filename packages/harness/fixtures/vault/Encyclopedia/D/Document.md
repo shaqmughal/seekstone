@@ -15,7 +15,7 @@ evidence on a subject. The Latin _documentum_, from which the word is
 derived, meant, in classical times, a lesson, example or proof
 (_docere_, to teach), and only in medieval Latin came to be applied to
 an _instrumentum_, or record in writing. The classical Latin use is
-found in English; thus Jeremy Taylor (Works, ed. 1835, i. 815) speaks of
+found in English; thus [[Jeremy]] Taylor (Works, ed. 1835, i. 815) speaks of
 punishment being a "single and sudden document if instantly inflicted"
 (see DIPLOMATIC; and EVIDENCE).
 

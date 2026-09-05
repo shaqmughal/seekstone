@@ -1,7 +1,7 @@
 # Daubigny
 
 DAUBIGNY, CHARLES FRANCOIS (1817-1878), French landscape painter, allied
-in several ways with the Barbizon School, was born in Paris, on the 15th
+in several ways with the [[Barbizon]] School, was born in Paris, on the 15th
 of February 1817, but spent much time as a child at Valmondois, a
 village on the Oise to the north-west of Paris. Daubigny was the son of
 an artist, and most of his family were painters. He began to paint very
@@ -11,9 +11,9 @@ studied and painted for nearly two years; he then returned to Paris, not
 to leave it again until, in 1860, he took a house at Auvers on the Oise.
 By 1837 Daubigny had become famous as a river and landscape painter,
 although he had been devoting himself as well to drawing in
-black-and-white, to etching, wood engraving, and lithography. In 1855
-his picture, "Lock at Optevoz," now in the Louvre, was purchased by the
-state; four years later Daubigny was created knight of the Legion of
+black-and-white, to etching, wood engraving, and [[Lithography|lithography]]. In 1855
+his picture, "[[Lock]] at Optevoz," now in the Louvre, was purchased by the
+state; four years later Daubigny was created [[Knight|knight]] of the [[Legion]] of
 Honour, and in 1874 he was promoted to be an officer. In 1866, at the
 invitation of Lord, then Mr Leighton and others, he visited London,
 where, however, he was hurt by his now famous "Moonlight" being badly
@@ -55,7 +55,7 @@ and Damoye.
 
   See Fred Henriet, _C. Daubigny et son oeuvre_ (Paris, 1878); D. Croal
   Thomson, _The Barbizon School of Painters_ (London, 1890); J. W.
-  Mollett, _Daubigny_ (London, 1890); J. Claretie, _Peintres et
+  Mollett, _Daubigny_ (London, 1890); J. [[Claretie]], _Peintres et
   sculpteurs contemporains: Daubigny_ (Paris, 1882); Albert Wolff, _La
   Capitale de l'art: Ch. Francois Daubigny_ (Paris, 1881).     (D. C. T.)
 

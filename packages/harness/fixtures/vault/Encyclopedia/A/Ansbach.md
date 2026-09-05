@@ -9,9 +9,9 @@ the vault of the former margraves, and St Gumbert; a gymnasium; a
 picture gallery; a municipal museum and a special technical school.
 Ansbach possesses monuments to the poets August, Count von
 Platen-Hallermund, and Johann Peter Uz, who were born here, and to
-Kaspar Hauser, who died here. The chief manufactures are machinery,
+Kaspar [[Hauser]], who died here. The chief manufactures are machinery,
 toys, woollen, cotton, and half-silk stuffs, embroideries, earthenware,
-tobacco, cutlery and playing cards. There is considerable trade in
+tobacco, cutlery and playing [[Cards|cards]]. There is considerable trade in
 grain, wool and flax. In 1791 the last margrave of Anspach sold his
 principality to Frederick William II., king of Prussia; it was
 transferred by Napoleon to Bavaria in 1806, an act which was confirmed

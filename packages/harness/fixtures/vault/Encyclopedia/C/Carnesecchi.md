@@ -9,15 +9,15 @@ type: reference
 
 CARNESECCHI, PIETRO (1508-1567), Italian humanist, was the son of a
 Florentine merchant, who under the patronage of the Medici, and
-especially of Giovanni de' Medici as Pope Clement VII., rapidly rose to
+especially of Giovanni de' Medici as Pope [[Clement]] VII., rapidly rose to
 high office at the papal court. He came into touch with the new learning
 at the house of his maternal uncle, Cardinal Bernardo Dovizzi, in Rome.
 At the age of twenty-five he held several rich livings, had been notary
 and protonotary to the Curia, and was first secretary to the pope, in
 which capacity he conducted the correspondence with the nuncios (among
 them Pier Paolo Bergerio in Germany) and a host of other duties. By his
-conduct at the conference with Francis I. at Marseilles he won the
-favour of Catherine de' Medici and other influential personages at the
+conduct at the conference with Francis I. at [[Marseilles]] he won the
+favour of [[Catherine De' Medici|Catherine de' Medici]] and other influential personages at the
 French court, who in later days befriended him. He made the acquaintance
 of the Spanish reformer Juan de Valdes at Rome, and got to know him as a
 theologian at Naples, being especially drawn to him through the

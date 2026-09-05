@@ -3,7 +3,7 @@
 BILGE (a corruption of bulge, from Fr. _bouge_, Lat. _bulga_, a bag,
 deriving probably from an original Celtic word), the "belly" or widest
 part of a cask; the broad horizontal part of a ship's bottom above the
-keel; also the lowest interior part of the hull; hence "bilge-water,"
+[[Keel|keel]]; also the lowest interior part of the hull; hence "bilge-water,"
 the foul water which collects in the bilge. "Bilge-keels" are pieces of
 timber fastened to the bottom of a ship to reduce rolling (see
 SHIPBUILDING).
@@ -28,7 +28,7 @@ changes may take place in the ureter, and the consequent swelling lead
 to obstruction to the passage of urine, and if left untreated to
 pyelitis and pyonephrosis. If the rectum be affected the mucous membrane
 becomes thickened, polypoid growths form and large submucous
-haemorrhages may take place.
+[[Haemorrhage|haemorrhages]] may take place.
 
 As to the mode of entrance of this parasite opinion is divided. Some
 authorities favour the view that the entrance is through the skin,
@@ -38,7 +38,7 @@ which it gives rise are haematuria, pain in the perineal region and a
 greater or less degree of anaemia through loss of blood. If the disease
 continue, cystitis and its consequent train of symptoms ensue (see
 BLADDER AND PROSTATE DISEASES). If the rectum be affected there is
-considerable discharge of mucus, and later prolapsus ani may be the
+considerable discharge of mucus, and later prolapsus [[Ani|ani]] may be the
 result. But the symptoms vary to a remarkable extent, from the slightest
 producing but little discomfort, to the most severe resulting in death.
 The liquid extract of male fern is the only drug used with much success.

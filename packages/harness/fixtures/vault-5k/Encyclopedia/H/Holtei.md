@@ -25,10 +25,10 @@ Konigsstadter theatre in Berlin, when he wrote a number of plays,
 notably _Lenore_ (1829) and _Der alte Feldherr_ (1829). In 1830 he
 married Julie Holzbecher (1809-1839), an actress engaged at the same
 theatre, and with her played in Darmstadt. Returning to Berlin in 1831
-he wrote for the composer Franz Glaser (1798-1861) the text of the opera
-_Des Adlers Horst_ (1835), and for Ludwig Devrient the drama, _Der dumme
+he wrote for the composer [[Franz]] [[Glaser]] (1798-1861) the text of the opera
+_Des Adlers [[Horst]]_ (1835), and for Ludwig Devrient the [[Drama|drama]], _Der dumme
 Peter_ (1837). In 1833 Holtei again went on the stage and toured with
-his wife to various important cities, Hamburg, Leipzig, Dresden, Munich
+his wife to various important cities, Hamburg, Leipzig, [[Dresden]], Munich
 and Vienna. In the last his declamatory powers as a reciter,
 particularly of Shakespeare's plays, made a furore, and the poet-actor
 was given the appointment of manager of the Josefstadter theatre in the
@@ -47,12 +47,12 @@ As a dramatist Holtei may be said to have introduced the "vaudeville"
 into Germany; as an actor, although remaining behind the greater artists
 of his time, he contrived to fascinate his audience by the dramatic
 force of his exposition of character; as a reciter, especially of
-Shakespeare, he knew no rival. August Lewald said of Holtei that by the
+Shakespeare, he knew no rival. August [[Lewald]] said of Holtei that by the
 energy of his poetic conception and plastic force he brought his
 audience round to his own ideas; and he added, "an eloquence such as his
 I have never met with in any other German."
 
-Holtei was not only a stage-poet but a lyric-writer of great charm.
+Holtei was not only a stage-poet but a lyric-writer of great [[Charm|charm]].
 Notable among such productions are _Schlesische Gedichte_ (1830; 20th
 ed., 1893), _Gedichte_ (5th ed., 1861), _Stimmen des Waldes_ (2nd ed.,
 1854). Mention ought also to be made of Holtei's interesting

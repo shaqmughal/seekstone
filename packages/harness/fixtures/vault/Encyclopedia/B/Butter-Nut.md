@@ -7,8 +7,8 @@ _Caryocar_ contains ten species, in tropical South America, some of which
 form large trees affording a very durable wood, useful for shipbuilding.
 
 [Illustration: A, leaf of Butterwort (_Pinguicula vulgaris_) with left
-margin inflected over a row of small flies. (After Darwin.) B, glands from
-surface of leaf by which the sticky liquid is secreted and by means of
+margin inflected over a row of small flies. (After [[Darwin]].) B, glands from
+surface of [[Leaf|leaf]] by which the sticky liquid is secreted and by means of
 which the products of digestion are absorbed.]
 
 ## See also

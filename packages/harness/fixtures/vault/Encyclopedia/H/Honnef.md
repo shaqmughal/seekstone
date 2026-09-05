@@ -9,7 +9,7 @@ type: reference
 
 HONNEF, a town and climatic health resort of Germany, beautifully situated
 on the right bank of the Rhine, at the foot of the Siebengebirge, 8 m.
-above Bonn by the railway Cologne-Konigswinter-Horchheim. Pop. (1905)
+above [[Bonn]] by the railway Cologne-Konigswinter-Horchheim. Pop. (1905)
 6183. It has an Evangelical and a Roman Catholic church, a sanatorium for
 consumptives, and does a considerable trade in wine. The town is
 surrounded by vineyards and orchards, and has annually a large number of

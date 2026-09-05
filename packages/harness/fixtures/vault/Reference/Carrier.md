@@ -2,22 +2,22 @@
 
 CARRIER, a general term for any person who conveys the goods of another
 for hire, more specifically applied to the tradesmen, now largely
-superseded by the railway system, who convey goods in carts or wagons on
-the public roads. In jurisprudence, however, the term is collectively
+superseded by the railway system, who convey goods in [[Cart|carts]] or wagons on
+the public roads. In [[Jurisprudence|jurisprudence]], however, the term is collectively
 applied to all conveyers of property, whether by land or water; and in
 this sense the changes and enlargements of the system of transit
 throughout the world have given additional importance to the subject.
 The law by which carriers, both by land and sea, are made responsible
 for the goods entrusted to them, is founded on the praetorian edict of
-the civil law, to which the ninth title of the fourth book of the
+the [[Civil Law|civil law]], to which the ninth title of the fourth book of the
 Pandect is devoted. The edict itself is contained in these few words,
 "_nautae, caupones, stabularii, quod cujusque salvum fore receperint,
 nisi restituent, in eos judicium dabo._" The simplicity of the rule so
 announced has had a most beneficial influence on the commerce of the
 world. Throughout the great civilized region which took its law directly
 from Rome, and through the other less civilized countries which followed
-the same commercial code, it laid a foundation for the principle that
-the carrier's engagement to the public is a contract of indemnity. It
+the same commercial [[Code|code]], it laid a foundation for the principle that
+the carrier's engagement to the public is a contract of [[Indemnity|indemnity]]. It
 bound him in the general case, to deliver what he had been entrusted
 with, or its value,--thus sweeping away all secondary questions or
 discussions as to the conditions of mere or less culpability on his part
@@ -51,7 +51,7 @@ insurer. There is no question of negligence as in the case of injury to
 passengers, for the warranty is simply to carry safely and securely. The
 law, however, excepts losses or injuries occasioned immediately "by the
 act of God or the king's enemies"--words which have long had a strict
-technical signification. It would appear that concealment without fraud,
+technical signification. It would appear that concealment without [[Fraud|fraud]],
 on the part of the customer, will relieve the carrier from his liability
 for _negligence_, but not for actual _misfeasance_. Fraud or deceit by
 the customer (e.g., in misrepresenting the real value of the goods)
@@ -66,7 +66,7 @@ thus declared, the carrier may, by public notice, demand an increased
 charge, for which he must, if required, sign a receipt. Failing such
 receipt or notice, the carrier must refund the increased charge and
 remain liable as at common law. Except as above no mere notice or
-declaration shall affect a carrier's liability; but he may make special
+[[Declaration|declaration]] shall affect a carrier's liability; but he may make special
 contracts with his customers. The carriage of goods by sea is subject to
 special regulations (see AFFREIGHTMENT). The carriage of goods by
 railway and canal is subject to the law of common carrier, except where
@@ -82,7 +82,7 @@ into the carriage with a passenger, the company is responsible for it
 only in so far as loss or damage is due to the passenger's interference
 with the company's exclusive control of it. As carriers of passengers
 companies are bound, in the absence of any special contract, to exercise
-due care and diligence, and are responsible for personal injuries only
+due care and [[Diligence|diligence]], and are responsible for personal injuries only
 when they have been occasioned by negligence or want of skill. Where
 there has been contributory negligence on the part of the passenger,
 i.e. where he might, by the exercise of ordinary care, have avoided the
@@ -98,9 +98,9 @@ governed by the maxim _actio personalis moritur cum persona_.
 
 
 CARRIÈRE, MORITZ (1817-1895), German philosopher and historian, was born
-at Griedel in Hesse Darmstadt on the 5th of March 1817. After studying
+at Griedel in [[Hesse]] Darmstadt on the 5th of March 1817. After studying
 at Giessen, Göttingen and Berlin, he spent a few years in Italy studying
-the fine arts, and established himself in 1842 at Giessen as a teacher
+the [[Fine Arts|fine arts]], and established himself in 1842 at Giessen as a teacher
 of philosophy. In 1853 he was appointed professor at the university of
 Munich, where he lectured mainly on aesthetics. He died in Munich on the
 19th of January 1895. An avowed enemy of Ultramontanism, he contributed
@@ -117,7 +117,7 @@ Reformationszeit_ (Stuttgart, 1847; 2nd ed., Leipzig, 1886), and _Die
 sittliche Weltordnung_ (Leipzig, 1877; 2nd ed., 1891), in which he
 recognized both the immutability of the laws of nature and the freedom
 of the will. He described his view of the world and life as
-"real-idealism." His essay on Cromwell (in _Lebensskizzen_, 1890), which
+"real-idealism." His essay on [[Cromwell]] (in _Lebensskizzen_, 1890), which
 may be considered his political confession of faith, also deserves
 mention. His complete works were published at Leipzig, 14 vols., in
 1886-1894.

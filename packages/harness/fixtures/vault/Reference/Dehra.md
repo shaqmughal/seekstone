@@ -6,11 +6,11 @@ topic: mathematics-studies
 
 # Dehra
 
-DEHRA, a town of British India, headquarters of the Dehra Dun district
+DEHRA, a town of British India, headquarters of the [[Dehra Dun]] district
 in the United Provinces. Pop. (1901) 28,095. It lies at an elevation of
 2300 ft. Here the Hardwar-Dehra railway terminates. Dehra is the
 headquarters of the Trigonometrical Survey and of the Forest Department,
-besides being a cantonment for a Gurkha force. The Forest School, which
+besides being a [[Cantonment|cantonment]] for a Gurkha force. The Forest School, which
 trains subordinate forest officials for all parts of India, is a fine
 building. Attached to it is an institution for the scientific study of
 sylvi-culture and the exploitation and administration of forests. The

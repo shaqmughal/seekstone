@@ -1,8 +1,8 @@
 # Beldam
 
-BELDAM (like "belsire," grandfather, from the Fr. _bel_, good,
+BELDAM (like "belsire," grandfather, from the Fr. _[[Bel|bel]]_, good,
 expressing relationship; cf. the Fr. _belle-mere_, mother-in-law, and
-_dame_, in Eng. form "dam," mother), strictly a grandmother or remote
+_[[Dame|dame]]_, in Eng. form "dam," mother), strictly a grandmother or remote
 ancestress, and so an old woman; generally used contemptuously as
 meaning an old hag.
 

@@ -4,41 +4,41 @@ EDWARD VII. (ALBERT EDWARD) (1841-1910), king of Great Britain and
 Ireland, and of the British Dominions beyond the Seas, emperor of India,
 the eldest son and second child of Queen Victoria and of Albert, prince
 consort, was born at Buckingham Palace on the 9th of November 1841. He
-was created prince of Wales and earl of Chester on the 4th of December
+was created prince of Wales and earl of [[Chester]] on the 4th of December
 following, and was baptized on the 25th of January 1842. In his
-childhood he was educated by the dowager Lady Lyttelton; and in his
-boyhood successively by the Rev. Henry Mildred Birch, Mr F.W. Gibbes,
+childhood he was educated by the [[Dowager|dowager]] Lady [[Lyttelton]]; and in his
+boyhood successively by the Rev. Henry Mildred [[Birch]], Mr F.W. Gibbes,
 the Rev. C.F. Tarver and Mr Herbert W. Fisher. He afterwards resided at
-Edinburgh, studying chemistry in its industrial applications under
+Edinburgh, studying [[Chemistry|chemistry]] in its industrial applications under
 Professor (afterwards Lord) Playfair at the university; at Christ
 Church, Oxford; and at Trinity College, Cambridge. In November 1858 he
-was made a knight of the Garter and a colonel in the army. In 1859 he
+was made a [[Knight|knight]] of the Garter and a colonel in the army. In 1859 he
 travelled in Italy and Spain, and in 1860 paid a visit as "Lord Renfrew"
 to the United States and Canada.
 
 Upon the completion of his Cambridge course in June 1861 he joined the
-camp at the Curragh. The prince consort died on the 13th of December,
+camp at the [[Curragh]]. The prince consort died on the 13th of December,
 and in 1862 the prince of Wales went for a tour in the Holy Land
 (February-June) under the guidance of Arthur Penrhyn Stanley, afterwards
 dean of Westminster. Early in 1863 he was sworn of the privy council,
-and took his seat in the House of Lords as duke of Cornwall. The estate
+and took his seat in the House of Lords as duke of [[Cornwall]]. The estate
 of Sandringham, in Norfolk, was purchased for him out of the savings of
-his minority, and his town residence was fixed at Marlborough House.
+his minority, and his town residence was fixed at [[Marlborough]] House.
 
 His impending marriage to the princess Alexandra, daughter of Christian
-IX., king of Denmark (b. December 1, 1844), had already been announced,
-and took place on the 10th of March at Windsor, the beauty and grace of
+IX., king of [[Denmark]] (b. December 1, 1844), had already been announced,
+and took place on the 10th of March at Windsor, the beauty and [[Grace|grace]] of
 the princess captivating the heart of the nation. Parliament granted the
 prince an income of L40,000 a year, exclusive of the revenues of the
 duchy of Cornwall, and he relinquished his right of succession to the
 duchy of Saxe-Coburg-Gotha. Prince Albert Victor, afterwards duke of
-Clarence, was the first offspring of the marriage, being born on the 8th
+[[Clarence]], was the first offspring of the marriage, being born on the 8th
 of January 1864. The births followed of Prince George Frederick Ernest
 Albert, afterwards duke of York (see GEORGE V.), on the 3rd of June
 1865; Princess Louise Victoria Alexandra Dagmar, by marriage duchess of
-Fife, princess royal, on the 20th of February 1867; Princess Victoria
+[[Fife]], princess royal, on the 20th of February 1867; Princess Victoria
 Alexandra Olga Mary, on the 6th of July 1868; and Princess Maud
-Charlotte Mary Victoria, afterwards queen of Norway, on the 26th of
+[[Charlotte]] Mary Victoria, afterwards queen of Norway, on the 26th of
 November 1869.
 
 From the time of their marriage the prince and princess were prominently
@@ -49,20 +49,20 @@ constant attendant at meetings for objects of public utility of a
 non-political nature, and his speeches were always characterized by
 excellent sense. The most important external event of these years was a
 tour to Egypt, undertaken in 1869 in company with the duke of
-Sutherland, Sir Samuel Baker and others, an account of which was
+Sutherland, Sir Samuel [[Baker]] and others, an account of which was
 published by Mrs William Grey. The prince also visited Ireland more than
-once, and opened the International Exhibition of 1871.
+once, and opened the [[International]] Exhibition of 1871.
 
 On the 23rd of November 1871 it was announced that the prince would be
 prevented from paying a visit which had been arranged to the Maharajah
-Dhuleep Singh by a feverish attack. It soon appeared that the malady was
+[[Dhuleep Singh]] by a feverish attack. It soon appeared that the malady was
 typhoid, contracted as was supposed, on a visit to Scarborough. The
 case became so serious that on November 29 the queen and Princess Alice
 hurried to Sandringham. On the 1st of December there was a slight rally,
 but on the 8th so serious a relapse occurred that for some days the
 prince's life was despaired of. Under the skilful treatment of Sir
-William Jenner, Sir William Gull and Sir James Paget, however, the
-crisis was surmounted by December 16, and by Christmas day the danger
+William Jenner, Sir William [[Gull]] and Sir James Paget, however, the
+crisis was surmounted by December 16, and by [[Christmas]] day the danger
 was regarded as virtually over. On the 27th of February 1872 a
 thanksgiving was held at St Paul's, amid imposing demonstrations of
 public joy.
@@ -70,8 +70,8 @@ public joy.
 In January 1874 the prince of Wales attended the marriage at St.
 Petersburg of his brother, the duke of Edinburgh, with the grand-duchess
 Marie of Russia. In the same year he paid a historic visit to
-Birmingham, where Mr Joseph Chamberlain, not yet a member of parliament,
-received him officially as mayor. In March 1875 it was officially
+[[Birmingham]], where Mr Joseph [[Chamberlain]], not yet a member of parliament,
+received him officially as [[Mayor|mayor]]. In March 1875 it was officially
 announced that he would make a visit to India, carrying out an idea
 originally conceived by the first Indian viceroy, Earl Canning. He was
 supposed to travel as heir-apparent, not as representative of the queen;
@@ -84,7 +84,7 @@ the seventeen weeks which he spent in the country. During these four
 months the prince travelled nearly 8000 m. by land and 2500 m. by sea,
 became acquainted with more rajahs than had all the viceroys who had
 reigned over India, and saw more of the country than any living
-Englishman. The visit led up to the queen's assumption of the title of
+Englishman. The visit led up to the queen's [[Assumption|assumption]] of the title of
 empress of India in the following year.
 
 The prince's life after this date was full of conspicuous public
@@ -104,8 +104,8 @@ illness. The young prince, who with his brother George had made the tour
 of the world (1879-1882) in H.M.S. "Bacchante," and after a short career
 at Oxford and Cambridge was just settling down to play his part in
 public life, had recently become engaged to Princess Victoria Mary of
-Teck (b. May 26, 1867), and the popularity of the heir to the crown had
-been increased by the expression of his satisfaction at his son's bride
+Teck (b. May 26, 1867), and the popularity of the [[Heir|heir]] to the crown had
+been increased by the expression of his satisfaction at his son's [[Bride|bride]]
 being an English princess. On the 6th of July 1893 the broken thread was
 reunited by her marriage to Prince George, duke of York.
 
@@ -115,7 +115,7 @@ Tower Bridge, attended the Welsh Eisteddfod and was duly initiated, and
 paid two visits to Russia--one for the marriage of the grand-duchess
 Xenia, the other for the funeral of the tsar, his brother-in-law. In
 1896 he became first chancellor of the university of Wales, and his
-first act after his installation at Aberystwyth was to confer an
+first act after his [[Installation|installation]] at Aberystwyth was to confer an
 honorary degree upon the princess. He had already been for some years a
 trustee of the British Museum. On the 22nd of July 1896 his daughter.
 Princess Maud, was married to Prince Charles of Denmark, who in 1905 was
@@ -125,7 +125,7 @@ even more than those of the corresponding celebration in 1887: he rode
 on the queen's right at the great procession to St Paul's, and as an
 admiral of the fleet presided at the naval review at Spithead. In July
 1898 the prince had the misfortune to fracture his knee-cap while on a
-visit to Baron Ferdinand de Rothschild, but completely recovered from
+visit to Baron [[Ferdinand]] de Rothschild, but completely recovered from
 the effects of the accident. In December 1899, while passing through
 Brussels on his way to St Petersburg, he was fired at by a miserable lad
 named Sipido, crazed by reading anarchist literature. Fortunately no
@@ -134,23 +134,23 @@ injury was done.
 It was the especial distinction of Albert Edward, while prince of Wales,
 to have been a substantial support of the throne before he was called
 upon to fill it. This cannot be said of any of his predecessors except
-Edward the Black Prince. He was exemplary in the discharge of his public
+Edward the Black Prince. He was exemplary in the [[Discharge|discharge]] of his public
 duties, and in his scrupulous detachment from party politics. He was a
 keen patron of the theatre, and his thoroughly British taste for sport
 was as pronounced as his inclination for most of the contemporary
 amusements of society. The "Tranby Croft Case" (1890), in which Sir
-William Gordon Cumming brought an unsuccessful libel action for having
-been accused of cheating at a game of baccarat, caused some comment in
+William Gordon [[Cumming]] brought an unsuccessful libel action for having
+been accused of [[Cheating|cheating]] at a [[Game|game]] of baccarat, caused some comment in
 connexion with the prince's appearance in the witness-box on behalf of
-the defendants. But it did him no disservice with the people to have
-twice won the Derby with his horses Persimmon (1896) and Diamond Jubilee
+the [[Defendant|defendants]]. But it did him no disservice with the people to have
+twice won the [[Derby]] with his horses Persimmon (1896) and Diamond Jubilee
 (1900)--his third victory, in 1909, with Minoru, being the first
 occasion on which the race had been won by a reigning sovereign; and his
 interest in yacht-racing was conspicuously shown at all the important
-fixtures, his yacht "Britannia" being one of the best of her day. His
+[[Fixtures|fixtures]], his yacht "Britannia" being one of the best of her day. His
 activity in the life of the nation may be illustrated by his
 establishment (1897) of the Prince of Wales's (afterwards King Edward's)
-Hospital Fund, his devotion to the cause of Masonry (he was first
+Hospital Fund, his devotion to the cause of [[Masonry]] (he was first
 elected grand master of the Freemasons of England in 1874), and his
 position as a bencher of the Middle Temple, where he also became (1887)
 treasurer.
@@ -163,8 +163,8 @@ Palace, at which the king announced his intention to follow in his
 predecessor's footsteps and to govern as a constitutional sovereign, and
 received the oaths of allegiance. On the 14th of February the king and
 queen opened parliament in state. Shortly afterwards it was announced
-that the visit of the duke and duchess of York to Australia, in order to
-inaugurate the new Commonwealth, which had been sanctioned by Queen
+that the visit of the duke and duchess of York to [[Australia]], in order to
+inaugurate the new [[Commonwealth]], which had been sanctioned by Queen
 Victoria, would be proceeded with; and on the 16th of March they set out
 on board the "Ophir" with a brilliant suite. The tour lasted till
 November 1, the duke and duchess having visited Australia, New Zealand,
@@ -174,9 +174,9 @@ parliament had settled the new civil list at L470,000 a year, and the
 royal title had been enlarged to include the colonial empire by an act
 enabling the king to style himself "Edward VII., by the grace of God, of
 the United Kingdom of Great Britain and Ireland, and of all the British
-Dominions beyond the Seas, King, Defender of the Faith, Emperor of
+Dominions beyond the Seas, King, [[Defender Of The Faith|Defender of the Faith]], Emperor of
 India." At the end of May 1902 the long-drawn-out war in South Africa
-came at last to an end, and the coronation was fixed for the 26th of
+came at last to an end, and the [[Coronation|coronation]] was fixed for the 26th of
 June. But on the 24th, amid general consternation, the king was
 announced to be suffering from perityphlitis, necessitating the
 immediate performance of an operation; and the coronation, for which
@@ -195,19 +195,19 @@ the 25th of October he went in procession through the main streets of
 south London, when he was most enthusiastically received. Next day the
 king and queen attended St Paul's cathedral in state to return thanks
 for his restoration to health. On New Year's day 1903 the coronation was
-proclaimed in India at a magnificent durbar at Delhi.
+proclaimed in India at a magnificent [[Durbar|durbar]] at [[Delhi]].
 
 At home the king opened parliament in person in February 1903, and on
 the 31st of March he sailed from Portsmouth to pay a visit to the king
-of Portugal at Lisbon, leaving Lisbon for Gibraltar on the 7th of April.
-On the 11th he held a review of the garrison troops and next day left
-for Malta, and the tour was continued to Naples (23rd of April). On the
+of Portugal at [[Lisbon]], leaving Lisbon for [[Gibraltar]] on the 7th of April.
+On the 11th he held a review of the [[Garrison|garrison]] troops and next day left
+for [[Malta]], and the tour was continued to Naples (23rd of April). On the
 27th of April he was received at Rome by the king of Italy--the first
 time an English king as such had been there; and two days later he paid
 a visit to Leo XIII. at the Vatican. On May day he was received in Paris
 by President Loubet. Later in the year return visits were paid to
 England by President Loubet (July) and the king and queen of Italy
-(November). On the 11th of May His Majesty paid his first formal visit
+(November). On the 11th of May His [[Majesty]] paid his first formal visit
 to Edinburgh, and held courts at Holyrood. In July the king and queen
 went to Ireland, and though the Dublin corporation refused to vote a
 loyal address the reception was generally cordial. In September the king
@@ -215,12 +215,12 @@ took his annual "cure" at Marienbad, and paid a visit to Vienna, where
 he was received by the Austrian emperor. In 1904 again the king and
 queen went to Ireland; in June the king was cordially received by the
 German emperor at the yacht-races at Kiel, and he included a visit to
-Hamburg, where the welcome was hearty. In November the king and queen of
-Portugal were entertained at Windsor and at the Guildhall.
+[[Hamburg]], where the welcome was hearty. In November the king and queen of
+Portugal were entertained at Windsor and at the [[Guildhall]].
 
 The success of King Edward as a promoter of international friendliness,
 and the advantage of so efficient a type of kingship, attracted
-universal attention, and treaties of arbitration were concluded by Great
+universal attention, and treaties of [[Arbitration|arbitration]] were concluded by Great
 Britain with France, Spain, Italy, Germany and Portugal in 1903 and
 1904. In his first two years the king had already earned the title of
 Edward the Peacemaker, and established his position as a source of new
@@ -241,7 +241,7 @@ personal activity in a sphere peculiarly his own. The strengthening of
 British influence in Europe, which was the marked result of the
 Anglo-French and Anglo-Russian _ententes_, and of the closer ties
 between England and countries like Portugal and Spain (whose young king
-Alfonso married Princess Ena of Battenberg, King Edward's niece), had,
+Alfonso married Princess Ena of [[Battenberg]], King Edward's niece), had,
 indeed, temporarily the effect of rousing German suspicion, the view
 taken being that the object of British foreign policy was to isolate
 Germany; and during 1907 and 1908 the political situation was coloured
@@ -263,7 +263,7 @@ the forefront of its programme the abolition of the Peers' "veto." As
 was hinted, not obscurely, later by the doctors, King Edward, although
 certainly not prejudiced against a Liberal ministry, was seriously
 disturbed in mind and health by the progress of events, which culminated
-in the return of Mr Asquith to office after the elections of January
+in the return of Mr [[Asquith]] to office after the elections of January
 1910, and in his statement that, if necessary, guarantees would be
 sought from the Crown for the purpose of enforcing the will of the
 representative chamber. A remarkable sign of the king's discomfort was
@@ -276,17 +276,17 @@ which caused some anxiety, although the public heard nothing of it. When
 he returned to England there is no doubt that he was acutely affected by
 the prospect of being forcibly dragged into the political conflict. In
 the country at large there was indeed considerable confidence that the
-king's tact and experience would help to bring order out of chaos; but
+king's tact and experience would help to bring order out of [[Chaos|chaos]]; but
 this was not to be. Within two days the public heard with consternation
 that he was ill, and then was dead. On May 5 it was announced that he
-had bronchitis; and he died at 11.45 P.M. on the 6th, of heart failure.
+had [[Bronchitis|bronchitis]]; and he died at 11.45 P.M. on the 6th, of heart failure.
 On May 17, 18 and 19 there was an impressive lying-in-state in
-Westminster Hall, attended by unprecedented crowds; and on May 20 the
+Westminster Hall, attended by unprecedented [[Crowd|crowds]]; and on May 20 the
 burial took place at Windsor, after a great funeral procession through
 London, the coffin being followed by the new king, George V., and by
 eight foreign sovereigns--the German emperor, the kings of Greece,
-Spain, Portugal, Denmark, Norway, Belgium and Bulgaria--besides the
-archduke Franz Ferdinand of Austria (heir to the throne of
+Spain, Portugal, Denmark, Norway, [[Belgium]] and Bulgaria--besides the
+archduke [[Franz]] Ferdinand of Austria (heir to the throne of
 Austria-Hungary), the prince consort of Holland and many other
 royalties, and a number of special ambassadors, including Mr Roosevelt
 as representative of the United States. Mourning was as sincere as it
@@ -299,7 +299,7 @@ monarchy; it remained for her son to rehabilitate the idea of English
 kingship by showing how the sovereign could be no less constitutional
 but personally more monarchical. While prince of Wales he had had little
 real training in statecraft, but when he became king his genuine
-capacity for affairs was shown. Ably advised by such men as Lord Knollys
+capacity for affairs was shown. Ably advised by such men as Lord [[Knollys]]
 and Lord Esher, he devoted himself to the work of removing the Throne
 from its former isolation, and bringing it into touch with all sections
 of the community for the promotion of social happiness and welfare. His

@@ -17,24 +17,24 @@ I. _The Whole Monarchy._
 [Sidenote: The title "Emperor of Austria."]
 
 The empire of Austria, as the official designation of the territories ruled
-by the Habsburg monarchy, dates back only to 1804, when Francis II., the
+by the [[Habsburg]] monarchy, dates back only to 1804, when Francis II., the
 last of the Holy Roman emperors, proclaimed himself emperor of Austria as
 Francis I. His motive in doing so was to guard against the great house of
 Habsburg being relegated to a position inferior to the _parvenus_
-Bonapartes, in the event of the final collapse of the Holy Roman Empire, or
+[[Bonaparte|Bonapartes]], in the event of the final collapse of the Holy Roman Empire, or
 of the possible election of Napoleon as his own successor on the throne of
 Charlemagne. The title emperor of Austria, then, replaced that of
 "Imperator Romanorum semper Augustus" when the Holy Empire came to an end
 in 1806. From the first, however, it was no more than a title, which
 represented but ill the actual relation of the Habsburg sovereigns to their
-several states. [v.03 p.0005] Magyars and Slavs never willingly recognized
+several states. [v.03 p.0005] [[Magyars]] and Slavs never willingly recognized
 a style which ignored their national rights and implied the superiority of
 the German elements of the monarchy; to the Germans it was a poor
 substitute for a title which had represented the political unity of the
 German race under the Holy Empire. For long after the Vienna Congress of
 1814-1815 the "Kaiser" as such exercised a powerful influence over the
-imaginations of the German people outside the Habsburg dominions; but this
-was because the title was still surrounded with its ancient halo and the
+[[Imagination|imaginations]] of the German people outside the Habsburg dominions; but this
+was because the title was still surrounded with its ancient [[Halo|halo]] and the
 essential change was not at once recognized. The outcome of the long
 struggle with Prussia, which in 1866 finally broke the spell, and the
 proclamation of the German empire in 1871 left the title of emperor of
@@ -62,7 +62,7 @@ and to Bavaria in particular, accounts for the name _Österreich_ (Austria),
 _i.e._ east empire or realm, a word first used in a charter of 996, where
 the phrase _in regione vulgari nomine Ostarrichi_ occurs. The development
 of this small mark into the Austro-Hungarian monarchy was a slow and
-gradual process, and falls into two main divisions, which almost coincide
+[[Gradual|gradual]] process, and falls into two main divisions, which almost coincide
 with the periods during which the dynasties of Babenberg and Habsburg have
 respectively ruled the land. The energies of the house of Babenberg were
 chiefly spent in enlarging the area and strengthening the position of the
@@ -86,7 +86,7 @@ subsequently called the Norici, and who were conquered by the Romans about
 14 B.C. Their land was afterwards included in the provinces of Pannonia and
 Noricum, and under Roman rule, Vindobona, the modern Vienna, became a place
 of some importance. The part of the country north of the Danube was peopled
-by the Marcomanni and the Quadi, and both of these tribes were frequently
+by the [[Marcomanni]] and the Quadi, and both of these tribes were frequently
 at war with the Romans, especially during the reign of the emperor Marcus
 Aurelius, who died at Vindobona in A.D. 180 when campaigning against them.
 Christianity and civilization obtained entrance into the land, but the
@@ -94,11 +94,11 @@ increasing weakness of the Roman empire opened the country to the inroads
 of the barbarians, and during the period of the great migrations it was
 ravaged in quick succession by a number of these tribes, prominent among
 whom were the Huns. The lands on both banks of the river shared the same
-fate, due probably to the fact to which Gibbon has drawn attention, that at
+[[Fate|fate]], due probably to the fact to which Gibbon has drawn attention, that at
 this period the Danube was frequently frozen over. About 590 the district
 was settled by the Slovenes, or Corutanes, a Slavonic people, who formed
 part of the kingdom of Samo, and were afterwards included in the extensive
-kingdom of the Avars. The Franks claimed some authority over this people,
+kingdom of the Avars. The [[Franks]] claimed some authority over this people,
 and probably some of the princes of the Slovenes had recognized this claim,
 but it could not be regarded as serious while the Avars were in possession
 of the land. In 791 Charlemagne, after he had established his authority
@@ -123,7 +123,7 @@ of Austria. In August 955 he gained a great victory over the Magyars on the
 Lechfeld, freed Bavaria from their presence, and refounded the East Mark
 for the defence of his kingdom. In 976 his son, the emperor Otto II.,
 entrusted the government of this mark, soon to be known as Austria, to
-Leopold, a member of the family of Babenberg (_q.v._), and its
+[[Leopold]], a member of the family of Babenberg (_q.v._), and its
 administration was conducted with vigour and success. Leopold and his
 descendants ruled Austria until the extinction of the family in 1246, and
 by their skill and foresight raised the mark to an important place among
@@ -137,8 +137,8 @@ added to the mark in 1156, an important date in Austrian history.
 [Sidenote: Duchy of Austria created, 1156.] Anxious to restore peace to
 Germany in this year, the new king, Frederick I., raised Austria to the
 rank of a duchy, and conferred upon it exceptional privileges. The
-investiture was bestowed not only upon Duke Henry but upon his second wife,
-Theodora; in case of a failure of male heirs the duchy was to descend to
+[[Investiture|investiture]] was bestowed not only upon Duke Henry but upon his second wife,
+Theodora; in case of a failure of male [[Heir|heirs]] the duchy was to descend to
 females; and if the duke had no children he could nominate his successor.
 Controlling all the jurisdiction of the land, the duke's only duties
 towards the Empire were to appear at any diet held in Bavaria, and to send
@@ -146,7 +146,7 @@ a contingent to the imperial army for any campaigns in the countries
 bordering upon Austria. In 1186 Duke Leopold I. made a treaty with Ottakar
 IV., duke of Styria, an arrangement which brought Styria and upper Austria
 to the Babenbergs in 1192, and in 1229 Duke Leopold II. purchased some
-lands from the bishop of Freising, and took the title of lord of Carniola.
+lands from the bishop of Freising, and took the title of lord of [[Carniola]].
 When the house of Babenberg became extinct in 1246, Austria, stretching
 from Passau almost to Pressburg, had the frontiers which it retains to-day,
 and this increase of territory had been accompanied by a corresponding
@@ -155,14 +155,14 @@ prosperity was the growth of trade along the Danube, which stimulated the
 foundation, or the growth, of towns, and brought considerable riches to the
 ruler. Under the later Babenbergs Vienna was regarded as one of the most
 important of German cities, and it was computed that the duke was as rich
-as the archbishop of Cologne, or the margrave of Brandenburg, and was
+as the archbishop of [[Cologne]], or the margrave of Brandenburg, and was
 surpassed in this respect by only one German prince, the [v.03 p.0006] king
-of Bohemia. The interests of the Austrian margraves and dukes were not
-confined to the acquisition of wealth either in land or chattels. Vienna
+of Bohemia. The interests of the Austrian margraves and [[Dukes|dukes]] were not
+confined to the acquisition of wealth either in land or [[Chattel|chattels]]. Vienna
 became a centre of culture and learning, and many religious houses were
 founded and endowed. [Sidenote: Duke Leopold II.] The acme of the early
 prosperity of Austria was reached under Duke Leopold II., surnamed the
-Glorious, who reigned from 1194 to 1230. He gave a code of municipal law to
+Glorious, who reigned from 1194 to 1230. He gave a [[Code|code]] of municipal law to
 Vienna, and rights to other towns, welcomed the Minnesingers to his
 brilliant court, and left to his subjects an enduring memory of valour and
 wisdom. Leopold and his predecessors were enabled, owing to the special
@@ -192,9 +192,9 @@ between the emperor Frederick II. and Duke Frederick II. Ignoring the the
 privilege of 1156, the emperor claimed certain rights in Austria, and
 summoned the duke to his Italian diets. Frederick, who was called the
 Quarrelsome, had irritated both his neighbours and his subjects, and
-complaints of his exactions and confiscations reached the ears of the
+complaints of his exactions and confiscations reached the [[Ear|ears]] of the
 emperor. After the duke had three times refused to appear before the
-princes, Frederick placed him under the ban, declared the duchies of
+princes, Frederick placed him under the [[Ban|ban]], declared the duchies of
 Austria and Styria to be vacant, and, aided by the king of Bohemia, the
 duke of Bavaria and other princes, invaded the country in 1236. [Sidenote:
 End of the House of Babenberg.] He met with very slight opposition,
@@ -212,20 +212,20 @@ The duchies of Austria and Styria were now claimed by the emperor Frederick
 II. as vacant fiefs of the Empire, and their government was entrusted to
 Otto II., duke of Bavaria. Frederick, however, who was in Italy, harassed
 and afflicted, could do little to assert the imperial authority, and his
-enemy, Pope Innocent IV., bestowed the two duchies upon Hermann VI.,
+enemy, Pope [[Innocent]] IV., bestowed the two duchies upon [[Hermann]] VI.,
 margrave of Baden, whose wife, Gertrude, was a niece of the last of the
 Babenbergs. Hermann was invested by the German king, William, count of
 Holland, but he was unable to establish his position, and law and order
 were quickly disappearing from the duchies. The deaths of Hermann and of
 the emperor in 1250, however, paved the way for a settlement. Weary of
 struggle and disorder, and despairing of any help from the central
-authority, the estates of Austria met at Trübensee in 1251, and chose
+authority, the estates of Austria met at Trübensee in 1251, and [[Chose|chose]]
 Ottakar, son of Wenceslaus I., king of Bohemia, as their duke. [Sidenote:
 Ottakar of Bohemia, duke.] This step was favoured by the pope, and Ottakar,
 eagerly accepting the offer, strengthened his position by marrying
-Margaret, a sister of Duke Frederick II., and in return for his investiture
+[[Margaret]], a sister of Duke Frederick II., and in return for his investiture
 promised his assistance to William of Holland. Styria appears at this time
-to have shared the fortunes of Austria, but it was claimed by Bela IV.,
+to have shared the fortunes of Austria, but it was claimed by [[Bela]] IV.,
 king of Hungary, who conquered the land, and made a treaty with Ottakar in
 1254 which confirmed him in its possession. The Hungarian rule was soon
 resented by the Styrians, and Ottakar, who had become king of Bohemia in
@@ -287,7 +287,7 @@ was to make Austria into an independent state, and he forged a series of
 privileges the purport of which was to free the duchy from all its duties
 towards the Empire. A sharp contest with the emperor followed this
 proceeding, and the Austrian duke, annoyed that [v.03 p.0007] Austria was
-not raised to the dignity of an electorate by the Golden Bull of 1356, did
+not raised to the dignity of an electorate by the Golden [[Bull]] of 1356, did
 not shrink from a contest with Charles. In 1361, however, he abandoned his
 pretensions, but claimed the title of archduke (_q.v._) and in 1364
 declared that the possessions of the Habsburgs were indivisible. Meanwhile
@@ -295,7 +295,7 @@ the acquisition of neighbouring territories had been steadily pressed on.
 In 1335 the duchy of Carinthia, and a part of Carniola, were inherited by
 Dukes Albert II. and Otto, and in 1363 Rudolph IV. obtained the county of
 Tirol. In 1364 Carniola was made into an hereditary duchy; in 1374 part of
-Istria came under the rule of the Habsburgs; in 1382 Trieste submitted
+[[Istria]] came under the rule of the Habsburgs; in 1382 Trieste submitted
 voluntarily to Austria, and at various times during the century, other
 smaller districts were added to the lands of the Habsburgs.
 
@@ -303,7 +303,7 @@ Rudolph IV. died childless in 1365, and in 1379 his two remaining brothers,
 Leopold III. and Albert III., made a division of their lands, by which
 Albert retained Austria proper and Carniola, and Leopold got Styria,
 Carinthia and Tirol. Leopold was killed in 1386 at the battle of Sempach,
-and Albert became guardian for his four nephews, who subsequently ruled
+and Albert became [[Guardian|guardian]] for his four nephews, who subsequently ruled
 their lands in common. The senior line which ruled in Austria was
 represented after the death of Duke Albert III. in 1395 by his son, Duke
 Albert IV., and then by his grandson, Duke Albert V., who became German
@@ -323,7 +323,7 @@ reigning when King Albert II. died in 1439. Frederick, who succeeded Albert
 [Sidenote: Regency of the emperor Frederick III.] as German king, and was
 soon crowned emperor as Frederick III., acted as guardian for Sigismund of
 Tirol, who was a minor, and also became regent of Austria in consequence of
-the infancy of Ladislaus. His rule was a period of struggle and disorder,
+the [[Infancy|infancy]] of Ladislaus. His rule was a period of struggle and disorder,
 owing partly to the feebleness of his own character, partly to the wish of
 his brother, Albert, to share his dignities. The Tirolese soon grew weary
 of his government, and, in 1446, Sigismund was declared of age. [Sidenote:
@@ -342,7 +342,7 @@ from Italy, was besieged in August in the Vienna Neustadt, and was forced
 to deliver Ladislaus to Count Ulrich, whose influence had meanwhile
 eclipsed that of Eiczing. Ladislaus now ruled nominally himself, under the
 tutelage of Count Ulrich. The country was, however, distracted by quarrels
-between the party of the high aristocracy, which recognized the count of
+between the party of the high [[Aristocracy|aristocracy]], which recognized the count of
 Cilli as its chief, and that of the lesser nobles, citizens and populace,
 who followed Eiczing. In September 1453 the latter, by a successful
 _émeute_, succeeded in ousting Count Ulrich, and remained in power till
@@ -358,15 +358,15 @@ while Albert obtained upper Austria. Both princes were unpopular, and in
 1462 Frederick was attacked by the inhabitants of Vienna, and was forced to
 surrender lower Austria to Albert, whose spendthrift habits soon made his
 rule disliked. A further struggle between the brothers was prevented by
-Albert's death in 1463, when the estates did homage to Frederick.
+Albert's death in 1463, when the estates did [[Homage|homage]] to Frederick.
 [Sidenote: Hungarian conquest of Austria.] The emperor was soon again at
-issue with the Austrian nobles, and was attacked by Matthias Corvinus, king
+issue with the Austrian nobles, and was attacked by [[Matthias]] [[Corvinus]], king
 of Hungary, who drove him from Vienna in 1485. Although hampered by the
 inroads of the Turks, Matthias pressed on, and by 1487 was firmly in
 possession of Austria, Styria and Carinthia, which seemed quite lost to the
 Habsburgs.
 
-[Sidenote: The emperor Maximilian I.]
+[Sidenote: The emperor [[Maximilian]] I.]
 
 The decline in the fortunes of the family, however, was to be arrested by
 Frederick's son, Maximilian, afterwards the emperor Maximilian I., who was
@@ -387,7 +387,7 @@ a struggle with Venice. He did much for the better government of the
 Austrian duchies. Bodies were established for executive, financial and
 judicial purposes, the Austrian lands constituted one of the imperial
 circles which were established in 1512, and in 1518 representatives of the
-various diets (_Landtage_) met at Innsbruck, a proceeding which marks the
+various diets (_Landtage_) met at [[Innsbruck]], a proceeding which marks the
 beginning of an organic unity in the Austrian lands. In these ways
 Maximilian proved himself a capable and energetic ruler, although his plans
 for making Austria into a kingdom, or an electorate, were abortive.
@@ -401,7 +401,7 @@ prestige which attached to the electoral office, and, although five of them
 had held the position of German king, the four who preceded Maximilian had
 added little or nothing to the power and dignity of this position. The
 ecclesiastical organization of Austria was imperfect, so long as there was
-no archbishopric within its borders, and its clergy owed allegiance to
+no archbishopric within its [[Borders|borders]], and its clergy owed allegiance to
 foreign prelates. The work of unification which was so successfully
 accomplished by Maximilian was aided by two events, the progress of the
 Turks in south-eastern Europe, and the loss of most of the Habsburg
@@ -411,7 +411,7 @@ the Habsburgs to the possibilities of expansion in eastern Europe.
 
 (A. W. H.*)
 
-[Sidenote: Austria under Charles V. and Ferdinand.]
+[Sidenote: Austria under Charles V. and [[Ferdinand]].]
 
 At the time of the death of the emperor Maximilian in 1519 the Habsburg
 dominions in eastern Germany included the duchies of Upper and Lower
@@ -424,7 +424,7 @@ Austria and Spain were thus divided, and, in spite of the efforts of the
 archduke Charles in the Spanish Succession War, were never again united,
 for at the battle of Mohács, on the 28th of August 1526, Suleiman the
 Magnificent defeated and killed Louis, king of Bohemia and of Hungary,
-whose sister Anne had married Ferdinand. By this victory the Turks
+whose sister [[Anne]] had married Ferdinand. By this victory the Turks
 conquered and retained, till the peace of Karlowitz in 1699, the greater
 part of Hungary. During most of his life Ferdinand was engaged in combating
 the Turks and in attempting to secure Hungary. In John Zápolya, who was
@@ -444,9 +444,9 @@ reign of Charles V. The emperor was too much absorbed in the affairs of the
 rest of his vast dominions, notably those of the Empire, rent in two by
 religious differences and the secular ambitions for which those were the
 excuse, to give any effective attention to its needs. The peace of
-Augsburg, 1555, which recognized a dualism within the Empire in religion as
+[[Augsburg]], 1555, which recognized a [[Dualism|dualism]] within the Empire in religion as
 in politics, marked the failure of his plan of union (see CHARLES V.;
-GERMANY; MAURICE OF SAXONY); and meanwhile he had been able to accomplish
+GERMANY; [[Maurice|MAURICE]] OF SAXONY); and meanwhile he had been able to accomplish
 nothing to rescue Hungary from the Turkish yoke. It was left for his
 brother Ferdinand, a ruler of consummate wisdom (1556-1564) "to establish
 the modern Habsburg-Austrian empire with its exclusive territorial
@@ -468,7 +468,7 @@ Bohemia, Silesia and Moravia, various forms of Christian belief struggled
 for mastery; and Catholicism was almost confined to the mountains of Tirol.
 [Sidenote: The reign of Rudolph II.] The accession of Rudolph II.[1]
 (1576-1612), a fanatical Spanish Catholic, changed the situation entirely.
-Under him the Jesuits were encouraged to press on the counter-Reformation.
+Under him the [[Jesuits]] were encouraged to press on the counter-Reformation.
 In the early part of his reign there was hardly any government at all. In
 Bohemia a state of semi-independence existed, while Hungary preferred
 [Sidenote: The family compact, 1606.] the Turk to the emperor. In both
@@ -498,7 +498,7 @@ Wallenstein was assassinated, and in 1635 France entered into the war. The
 Thirty Years' War now ceased to be a religious struggle between Catholicism
 and Protestantism; it resolved itself into a return to the old political
 strife between France and the Habsburgs. [Sidenote: The peace of
-Westphalia, 1648.] Till 1648 the Bourbon and Habsburg powers continued the
+Westphalia, 1648.] Till 1648 the [[Bourbon]] and Habsburg powers continued the
 war, and at the peace of Westphalia Austria suffered severe losses.
 Ferdinand III. (1637-1657) was forced to yield Alsace to France, to grant
 territorial supremacy, including the right of making alliances, to the
@@ -543,8 +543,8 @@ victory of the 12th of September, gained over the Turks by John Sobieski
 (see JOHN III. SOBIESKI, KING OF POLAND) not only saved the Austrian
 capital, but was the first of a series of successes which drove the Turks
 permanently beyond the Danube, and established the power of Austria in the
-East. The victories of Charles of Lorraine at Párkány (1683) and Esztergom
-(Gran) (1685) were followed by the capture of Budapest (1686) and the
+East. The victories of Charles of [[Lorraine]] at Párkány (1683) and [[Esztergom]]
+(Gran) (1685) were followed by the capture of [[Budapest]] (1686) and the
 defeat of the Ottomans at [v.03 p.0009] Mohács (1688). In 1688 the elector
 took Belgrade; in 1691 Louis William I. of Baden won the battle of
 Slankamen, and on the 11th of September 1697 Prince Eugene gained the
@@ -571,7 +571,7 @@ Poles. In the administration of his dominions, too, Leopold succeeded in
 strengthening the authority of the central government. The old estates,
 indeed, survived; but the emperor kept the effective power in his own
 hands, and to his reign are traceable the first beginnings of that system
-of centralized bureaucracy which was established under Maria Theresa and
+of centralized bureaucracy which was established under [[Maria Theresa]] and
 survived, for better or for worse, till the revolution of 1848. It was
 under Leopold, also, that the Austrian standing army was established in
 spite of much opposition; the regiments raised in 1672 were never
@@ -614,10 +614,10 @@ The situation, though apparently favourable, was full of difficulty, and
 only a statesman of uncommon dexterity could have guided Austria with
 success through the ensuing years. Composed of a congeries of nationalities
 which included Czechs, Magyars, Ruthenes, Rumanians, Germans, Italians,
-Flemings and other races, and with territories separated by many miles, the
+[[Fleming|Flemings]] and other races, and with territories separated by many miles, the
 Habsburg dominions required from their ruler patience, tolerance,
 administrative skill and a full knowledge of the currents of European
-diplomacy. Charles VI. possessed none of these qualities; and when he died
+[[Diplomacy|diplomacy]]. Charles VI. possessed none of these qualities; and when he died
 in 1740, the weakness of the scattered Habsburg empire rendered it an
 object of the cupidity of the continental powers. Yet, though the War of
 Spanish Succession had proved a heavy drain on the resources of the
@@ -638,17 +638,17 @@ the Danube. But Charles was anxious about Italy, then in danger from Spain,
 which under Alberoni's guidance had occupied Sardinia and Sicily. On the
 2nd of August 1718, accordingly, Charles joined the Triple Alliance,
 henceforth the Quadruple Alliance. The coercion of Spain resulted in a
-peace by which Charles obtained Sicily in exchange for Sardinia. The
-shifting of the balance of power that followed belongs to the history of
+peace by which Charles obtained Sicily in [[Exchange|exchange]] for Sardinia. The
+shifting of the [[Balance Of Power|balance of power]] that followed belongs to the history of
 Europe (_q.v._); for Austria the only important outcome was that in 1731
 Charles found himself isolated. [Sidenote: The Pragmatic Sanction.] Being
 without a son, he was now anxious to secure the throne for his daughter
 Maria Theresa, in accordance with the Pragmatic Sanction of the 19th of
 April 1713, in which he had pronounced the indivisibility of the monarchy,
-and had settled the succession on his daughter, in default of a male heir.
+and had settled the succession on his daughter, in [[Default|default]] of a male heir.
 It now became his object to secure the adhesion of the powers to this
 instrument. In 1731 Great Britain and Holland agreed to respect it, in
-return for the cession of Parma, Piacenza and Guastalla to Don Carlos; but
+return for the cession of Parma, Piacenza and [[Guastalla]] to Don Carlos; but
 the hostility of the Bourbon powers continued, resulting in 1733 in the War
 of Polish Succession, the outcome of which was the acquisition of Lorraine
 by France, and of Naples, Sicily and the Tuscan ports by Don Carlos, while
@@ -674,16 +674,16 @@ which, in spite of having adhered to the Pragmatic Sanction, now sought to
 profit from their weakness. Yet for their internal development Charles had
 done much. His religious attitude was moderate and tolerant, and he did his
 best to promote the enlightenment of his subjects. He was zealous, too, for
-the promotion of trade and industry, and, besides the East India Company
+the promotion of trade and industry, and, besides the [[East India Company]]
 which he established at Ostend, he encouraged the development of Trieste
-and Fiume as sea-ports and centres of trade with the Levant.
+and Fiume as sea-ports and centres of trade with the [[Levant]].
 
 [Sidenote: Maria Theresa.]
 
 [v.03 p.0010] The accession of Maria Theresa to the throne of the Habsburgs
 marks an important epoch in the history of Austria. For a while, indeed, it
 seemed that the monarchy was on the point of dissolution. To the diplomacy
-of the 18th century the breach of a solemn compact was but lightly
+of the 18th century the [[Breach|breach]] of a solemn compact was but lightly
 regarded; and Charles VI. had neglected the advice of Prince Eugene to
 leave an effective army of 200,000 men as a more solid guarantee of the
 Pragmatic Sanction than the signatures of the powers. As it was, the
@@ -701,14 +701,14 @@ Vienna itself a large section of public opinion was loudly in favour of the
 claims of Charles of Bavaria. Yet the war, if it revealed the weakness of
 the Austrian monarchy, revealed also unexpected sources of strength. Not
 the least of these was the character of Maria Theresa herself, who to the
-fascination of a young and beautiful woman added a very masculine
+[[Fascination|fascination]] of a young and beautiful woman added a very masculine
 resolution and judgment. In response to her personal appeal, and also to
 her wise and timely concessions, the Hungarians had rallied to her support,
 and for the first time in history awoke not only to a feeling of
 enthusiastic loyalty to a Habsburg monarch, but also to the realization
 that their true interests were bound up with those of Austria (see HUNGARY:
 _History_). Although, then, as the result of the war, Silesia was by the
-treaty of Dresden transferred from Austria to Prussia, while in Italy by
+treaty of [[Dresden]] transferred from Austria to Prussia, while in Italy by
 the treaty of Aix-la-Chapelle in 1748 cessions were made at the expense of
 the house of Habsburg to the Spanish Don Philip and to Sardinia, the
 Austrian monarchy as a whole had displayed a vitality that had astonished
@@ -722,7 +722,7 @@ determination of Maria Theresa to recover the lost provinces. To give any
 chance of success, it was recognized that a twofold change of system was
 necessary: in internal and in external affairs. To strengthen the state
 internally a complete revolution of its administration was begun under the
-auspices of Count F. W. Haugwitz (1700-1765); the motley system which had
+auspices of Count F. W. [[Haugwitz]] (1700-1765); the motley system which had
 survived from the middle ages was gradually replaced by an administrative
 machinery uniformly organized and centralized; and the army especially,
 hitherto patched together from the quotas raised and maintained by the
@@ -745,7 +745,7 @@ Revolution. So far as Austria was concerned, the Seven Years' War (_q.v._)
 in which France and Austria were ranged against Prussia and Great Britain,
 was an attempt on the part of Maria Theresa to recover Silesia. It failed;
 and the peace of Hubertsburg, signed on the 15th of February 1763, left
-Germany divided between Austria and Prussia, whose rivalry for the hegemony
+Germany divided between Austria and Prussia, whose rivalry for the [[Hegemony|hegemony]]
 was to last until the victory of Königgrätz (1866) definitely decided the
 issue in favour of the Hohenzollern monarchy.
 
@@ -754,7 +754,7 @@ issue in favour of the Hohenzollern monarchy.
 The loss of Silesia led Austria to look for "compensation" elsewhere. The
 most obvious direction in which this could be sought was in Bavaria, ruled
 by the decadent house of Wittelsbach, the secular rival of the house of
-Habsburg in southern Germany. The question of the annexation of Bavaria by
+Habsburg in southern Germany. The question of the [[Annexation|annexation]] of Bavaria by
 conquest or exchange had occupied the minds of Austrian statesmen
 throughout the century: it would not only have removed a perpetual menace
 to the peace of Austria, but would have given to the Habsburg monarchy an
@@ -774,7 +774,7 @@ other districts.
 [Sidenote: Russia, Austria and the Ottoman Empire.]
 
 Meanwhile the ambition of Catherine of Russia, and the war with Turkey by
-which the empire of the tsars was advanced to the Black Sea and threatened
+which the empire of the tsars was advanced to the [[Black Sea]] and threatened
 to establish itself south of the Danube, were productive of consequences of
 enormous importance to Austria in the East. Russian control of the Danube
 was a far more serious menace to Austria than the neighbourhood of the
@@ -782,7 +782,7 @@ decadent Ottoman power; and for a while the policy of Austria towards the
 Porte underwent a change that foreshadowed her attitude towards the Eastern
 Question in the 19th century. In spite of the reluctance of Maria Theresa,
 Kaunitz, in July 1771, concluded a defensive alliance with the Porte. He
-would have exchanged this for an active co-operation with Turkey, could
+would have exchanged this for an active [[Co-Operation|co-operation]] with Turkey, could
 Frederick the Great have been persuaded to promise at least neutrality in
 the event of a Russo-Austrian War. But Frederick was unwilling to break
 with Russia, with whom he was negotiating the partition of Poland; Austria
@@ -790,12 +790,12 @@ in these circumstances dared not take the offensive; and Maria Theresa was
 compelled to purchase the modification of the extreme claims of Russia in
 Turkey by agreeing to, and sharing in, the spoliation of Poland. [Sidenote:
 Partition of Poland.] Her own share of the spoils was the acquisition, by
-the first treaty of partition (August 5, 1772), of Galicia and Lodomeria.
-Turkey was left in the lurch; and Austrian troops even occupied portions of
+the first treaty of partition (August 5, 1772), of [[Galicia]] and Lodomeria.
+Turkey was left in the [[Lurch|lurch]]; and Austrian troops even occupied portions of
 Moldavia, in order to secure the communication between the new Polish
 provinces and Transylvania. At Constantinople, too, Austria once more
 supported Russian policy, and was rewarded, in 1777, by the acquisition of
-Bukovina from Turkey. In Italy the influence of the House of Austria had
+[[Bukovina]] from Turkey. In Italy the influence of the House of Austria had
 been strengthened by the marriage of the archduke Ferdinand with the
 heiress of the d'Estes of Modena, and the establishment of the archduke
 Leopold in the grand-duchy of Tuscany.
@@ -805,9 +805,9 @@ Leopold in the grand-duchy of Tuscany.
 In internal affairs Maria Theresa may be regarded as the practical founder
 of the unified Austrian state. The new system of centralization has already
 been referred to. It only remains to add that, in carrying out this system,
-Maria Theresa was too wise to fall into the errors afterwards made by her
+Maria Theresa was too wise to fall into the [[Error|errors]] afterwards made by her
 son and successor. She was no doctrinaire, and consistently acted on the
-principle once laid down by Machiavelli, that while changing the substance,
+principle once laid down by [[Machiavelli]], that while changing the substance,
 the prince should be careful to preserve the form of old institutions.
 Alongside the new bureaucracy, the old estates survived in somnolent
 inactivity, and even in Hungary, though the ancient constitution was left
@@ -824,7 +824,7 @@ her reign as the true epoch of transition from medieval to modern
 conditions in Austria. In religious matters the empress, though a devout
 Catholic and herself devoted to the Holy See, was carried away by the
 prevailing reaction, in which her ministers shared, against the pretensions
-of the papacy. The anti-papal tendency, known as Febronianism (_q.v._), had
+of the papacy. The anti-papal tendency, known as [[Febronianism]] (_q.v._), had
 made immense headway, not only among the laity but among the clergy in the
 Austrian dominions. By a new law, papal bulls could not be published
 without the consent of the crown, and the direct intercourse of the bishops
@@ -838,8 +838,8 @@ assertion of the rights of the state as against the church, was the
 revolution effected in the educational system of the monarchy. This, too,
 was taken from the control of the church; the universities were remodelled
 and modernized by the introduction of new faculties, the study of
-ecclesiastical law being transferred from that of theology to that of
-jurisprudence, and the elaborate system of elementary and secondary
+[[Ecclesiastical Law|ecclesiastical law]] being transferred from that of theology to that of
+[[Jurisprudence|jurisprudence]], and the elaborate system of elementary and secondary
 education was established, which survived with slight modification till
 1869.
 
@@ -850,7 +850,7 @@ drastic revolution from above, which had been restrained by the wise
 statesmanship of his mother. He was himself a strange incarnation at once
 of doctrinaire liberalism and the old Habsburg autocracy. Of the essential
 conditions of his empire he was constitutionally unable to form a
-conception. He was a disciple, not of Machiavelli, but of Rousseau; and his
+conception. He was a [[Disciple|disciple]], not of Machiavelli, but of Rousseau; and his
 scattered dominions, divided by innumerable divergences of racial and class
 prejudice, and encumbered with traditional institutions to which the people
 clung with passionate conservatism, he regarded as so much vacant territory
@@ -871,7 +871,7 @@ monarchy, would alone have ensured the failure of his plans, but failure
 was made certain by the introduction of the conscription, which turned even
 the peasants, whom he had done much to emancipate, against him. The
 threatened revolt of Hungary, and the actual revolt of Tirol and of the
-Netherlands (see BELGIUM: _History_) together with the disasters of the war
+Netherlands (see [[Belgium|BELGIUM]]: _History_) together with the disasters of the war
 with Turkey, forced him, before he died, to the formal reversal of the
 whole policy of reform.
 
@@ -901,7 +901,7 @@ weeks later, on the 20th of February 1790, Joseph died broken-hearted.
 
 The situation needed all the statesmanship of the new ruler, Leopold II.
 This was less obvious in his domestic than in his foreign policy, though
-perhaps equally present. As grand-duke of Tuscany Leopold had won the
+perhaps equally present. As [[Grand-Duke|grand-duke]] of Tuscany Leopold had won the
 reputation of an enlightened and liberal ruler; but meanwhile "Josephinism"
 had not been justified by its results, and the progress of the Revolution
 in France was beginning to scare even enlightened princes into reaction.
@@ -916,42 +916,42 @@ touched the heart of the Habsburg empire, and national rivalries were
 expressed, not so much in expansive ambitions, as in a somnolent clinging
 to traditional privileges. Leopold, therefore, who made his début on the
 European stage as the executor of the ban of the Empire against the
-insurgent Liégeois, was free to pose as the champion of order against the
+insurgent Liégeois, was free to pose as the [[Champion|champion]] of order against the
 Revolution, without needing to fear the resentment of his subjects. He
 played this role with consummate skill in the negotiations that led up to
 the treaty of Reichenbach (August 15, 1790), which ended the quarrel with
-Prussia and paved the way to the armistice of Giurgevo with Turkey
+Prussia and paved the way to the [[Armistice|armistice]] of Giurgevo with Turkey
 (September 10). Leopold was now free to deal with the Low Countries, which
 were reduced to order before the end of the year. On the 4th of August
 1791, was signed at Sistova the definitive peace with Turkey, which
 practically established the _status quo_.
 
-[Sidenote: Austria and the French Revolution.]
+[Sidenote: Austria and the [[French Revolution]].]
 
 On the 6th of October 1700, Leopold had been crowned Roman emperor at
-Frankfort, and it was as emperor, not as Habsburg, that he first found
+[[Frankfort]], and it was as emperor, not as Habsburg, that he first found
 himself in direct antagonism to the France of the Revolution. The fact that
 Leopold's sister, Marie Antoinette, was the wife of Louis XVI. had done
 little to cement the Franco-Austrian alliance, which since 1763 had been
 practically non-existent; nor was it now the mainspring of his attitude
-towards revolutionary France. But by the decree of the 4th of August, which
+towards revolutionary France. But by the [[Decree|decree]] of the 4th of August, which
 in the general abolition of feudal rights involved the possessions of many
 German princes _enclavés_ in Alsace and Lorraine, the Constituent Assembly
 had made the first move in the war against the established European system.
 Leopold protested as sovereign of Germany; and the protest was soon
 enlarged into one made in the name of Europe. The circular letter of Count
 Kaunitz, dated the 6th of July 1791, calling on the sovereigns to unite
-against the Revolution, was at once the beginning of the Concert of Europe,
+against the Revolution, was at once the beginning of the [[Concert]] of Europe,
 and in a sense the last manifesto of the Holy Roman Empire as "the centre
 of political unity." But the common policy proclaimed in the famous
-declaration of Pillnitz (August 27), was soon wrecked upon the particular
+[[Declaration|declaration]] of Pillnitz (August 27), was soon wrecked upon the particular
 interests of the powers. Both Austria and Prussia [v.03 p.0012] were much
 occupied with the Polish question, and to have plunged into a crusade
 against France would have been to have left Poland, where the new
 constitution had been proclaimed on the 3rd of May, to the mercy of Russia.
 Towards the further development of events in France, therefore, Leopold
 assumed at first a studiously moderate attitude; but his refusal to respond
-to the demand of the French government for the dispersal of the corps of
+to the demand of the French government for the dispersal of the [[Corps|corps]] of
 _émigrés_ assembled under the protection of the German princes on the
 frontier of France, and the insistence on the rights of princes
 dispossessed in Alsace and Lorraine, precipitated the crisis. On the 25th
@@ -992,7 +992,7 @@ the possible indignity of the subordination of his family to an upstart
 dynasty. On the 14th of May 1804, Napoleon was proclaimed emperor of the
 French; on the 11th of August Francis II. assumed the style of Francis I.,
 hereditary emperor of Austria. [Sidenote: End of the Holy Roman Empire.]
-Two years later, when the defeat of Austerlitz had led to the treaty of
+Two years later, when the defeat of [[Austerlitz]] had led to the treaty of
 Pressburg (January 1st, 1806) by which Austria lost Venice and Tirol, and
 Napoleon's Confederation of the Rhine had broken the unity of Germany,
 Francis formally abdicated the title and functions of Holy Roman emperor
@@ -1009,7 +1009,7 @@ necessarily involve the complete overthrow of the French emperor. Austria,
 therefore, refused to join the alliance between Russia and Prussia signed
 on the 17th of March 1813, but pressed on her armaments so as to be ready
 in any event. Her opportunity came after the defeats of the Allies at
-Lützen and Bautzen and the conclusion of an armistice at Pleswitz. Between
+Lützen and [[Bautzen]] and the conclusion of an armistice at Pleswitz. Between
 200,000 and 300,000 Austrian troops were massed in Bohemia; and Austria
 took up the rôle of mediator, prepared to throw the weight of her support
 into the scale of whichever side should prove most amenable to her claims.
@@ -1017,7 +1017,7 @@ The news of the battle of Vittoria, following on the reluctance of Napoleon
 to listen to demands involving the overthrow of the whole of his political
 system in Central Europe, decided Austria in favour of the Allies. By this
 fateful decision Napoleon's fall was assured. By the treaty of Trachenberg
-(July 12, 1813) the Grand Alliance was completed; on the 16th, 17th and
+(July 12, 1813) the [[Grand Alliance]] was completed; on the 16th, 17th and
 18th of October the battle of Leipzig was fought; and the victorious
 advance into France was begun, which issued, on the 11th of April 1814, in
 Napoleon's abdication. (See NAPOLEON, NAPOLEONIC CAMPAIGNS, EUROPE.)
@@ -1025,7 +1025,7 @@ Napoleon's abdication. (See NAPOLEON, NAPOLEONIC CAMPAIGNS, EUROPE.)
 [Sidenote: Congress of Vienna.]
 
 It was a recognition of the decisive part played by Austria in these great
-events that Vienna was chosen as the scene of the great international
+events that Vienna was chosen as the scene of the great [[International|international]]
 congress summoned (September 1814) for the purpose of re-establishing the
 balance of power in Europe, which Napoleon's conquests had upset. An
 account of the congress is given elsewhere (see VIENNA, CONGRESS OF). The
@@ -1035,7 +1035,7 @@ of Warsaw by Alexander of Russia; but with the aid of Great Britain and
 France (secret treaty of January 3, 1815) he had frustrated the efforts of
 Prussia to absorb the whole of Saxony, Bavaria was forced to disgorge the
 territories gained for her by Napoleon at Austria's expense, Illyria and
-Dalmatia were regained, and Lombardy was added to Venetia to constitute a
+[[Dalmatia]] were regained, and Lombardy was added to Venetia to constitute a
 kingdom under the Habsburg crown; while in the whole Italian peninsula
 French was replaced by Austrian influence. In Germany the settlement was
 even more fateful for Austria's future. The Holy Empire, in spite of the
@@ -1047,13 +1047,13 @@ Europe--and of the preponderance of Austria; and in its councils Austrian
 diplomacy, backed by the weight of the Habsburg power beyond the borders of
 Germany, would exercise a greater influence than any possible prestige
 derived from a venerable title that had become a by-word for the union of
-unlimited pretensions with practical impotence. Moreover, to the refusal to
+unlimited pretensions with practical [[Impotence|impotence]]. Moreover, to the refusal to
 revive the Empire--which shattered so many patriotic hopes in
 Germany--Austria added another decision yet more fateful. By relinquishing
 her claim to the Belgian provinces and other outlying territories in
 western Germany, and by acquiescing in the establishment of Prussia in the
-Rhine provinces, she abdicated to Prussia her position as the bulwark of
-Germany against France, and hastened the process of her own gravitation
+Rhine provinces, she abdicated to Prussia her position as the [[Bulwark|bulwark]] of
+Germany against France, and hastened the process of her own [[Gravitation|gravitation]]
 towards the Slavonic East to which the final impetus was given in 1866.
 
 [Sidenote: Internal affairs of Austria under Francis II. and Metternich.]
@@ -1063,7 +1063,7 @@ associated with the name of Metternich, during the period from the close of
 the congress of Vienna to the outbreak of the revolutions of 1848, it is
 necessary to know something of the internal conditions of the monarchy
 before and during this time. In 1792 Leopold II. had been succeeded by his
-son Francis II. His popular designation of "our good Kaiser Franz" this
+son Francis II. His popular designation of "our good Kaiser [[Franz]]" this
 monarch owed to a certain simplicity of address and _bonhomie_ which
 pleased the Viennese, certainly not to his serious qualities as a ruler. He
 shared to the full the autocratic temper of the Habsburgs, their
@@ -1078,11 +1078,11 @@ importance owing to the modifications that were made in the administrative
 system of the empire. This had been originally organized in a series of
 departments: Aulic chanceries for Austria, for Hungary and Transylvania, a
 general Aulic chamber for finance, domains, mines, trade, post, &c., an
-Aulic council [v.03 p.0013] of war, a general directory of accounts, and a
+Aulic council [v.03 p.0013] of war, a general [[Directory|directory]] of accounts, and a
 chancery of the household, court and state. The heads of all these
 departments had the rank of secretaries of state and met in council under
 the royal presidency. In course of time, however, this body became too
-unwieldy for an effective cabinet, and Maria Theresa established the
+unwieldy for an effective [[Cabinet|cabinet]], and Maria Theresa established the
 council of state. During the early years of the reign of Francis, the
 emperor kept himself in touch with the various departments by means of a
 cabinet minister; but he had a passion for detail, and after 1805 he
@@ -1108,22 +1108,22 @@ fact, his attitude towards all troublesome problems was summed up in his
 favourite phrase, "Let us sleep upon it": questions unanswered would answer
 themselves.
 
-The result was the gradual atrophy of the whole administrative machine. The
+The result was the gradual atrophy of the whole administrative [[Machine|machine]]. The
 Austrian government was not consciously tyrannical, even in Italy; and
 Francis himself, though determined to be absolute, intended also to be
 paternal. Nor would the cruelties inflicted on the bolder spirits who dared
 to preach reform, which made the Austrian government a by-word among the
 nations, alone have excited the passionate spirit of revolt which carried
 all before it in 1848. The cause of this is to be sought rather in the
-daily friction of a system which had ceased to be efficient and only
+daily [[Friction|friction]] of a system which had ceased to be efficient and only
 succeeded in irritating the public opinion it was powerless to curb.
 
 Metternich himself was fully conscious of the evil. He recognized that the
-fault of the government lay in the fact that it did not govern, and he
+[[Fault|fault]] of the government lay in the fact that it did not govern, and he
 deplored that his own function, in a decadent age, was but "to prop up
 mouldering institutions." He was not constitutionally averse from change;
 and he was too clear-sighted not to see that, sooner or later, change was
-inevitable. But his interest was in the fascinating game of diplomacy; he
+inevitable. But his interest was in the fascinating [[Game|game]] of diplomacy; he
 was ambitious of playing the leading part on the great stage of
 international politics; and he was too consummate a courtier to risk the
 loss of the imperial favour by any insistence on unpalatable reforms,
@@ -1156,15 +1156,15 @@ dealing with matters of local police.[4] Even the ancient right of petition
 was seldom exercised, and then only to meet with the imperial disfavour.
 And this stagnation of the administration was accompanied, as might have
 been expected, by economic stagnation. Agriculture languished, hampered, as
-in France before the Revolution, by the feudal privileges of a noble caste
+in France before the Revolution, by the feudal privileges of a noble [[Caste|caste]]
 which no longer gave any equivalent service to the state; trade was
 strangled by the system of high tariffs at the frontier and internal
-_octrois_; and finally public credit was shaken to its foundations by
+_octrois_; and finally public [[Credit|credit]] was shaken to its foundations by
 lavish issues of paper money and the neglect to publish the budget.
 
 [Sidenote: Metternich's policy of stability.]
 
-The maintenance within the empire of a system so artificial and so unsound,
+The [[Maintenance|maintenance]] within the empire of a system so artificial and so unsound,
 involved in foreign affairs the policy of preventing the success of any
 movements by which it might be threatened. The triumph of Liberal
 principles or of national aspirations in Germany, or elsewhere in Europe,
@@ -1174,7 +1174,7 @@ of the populations it oppressed. This, then, is the explanation of the
 system of "stability" which Metternich succeeded in imposing for thirty
 years upon Europe. If he persuaded Frederick William III. that the grant of
 a popular constitution would be fatal to the Prussian monarchy, this was
-through no love of Prussia; the Carlsbad Decrees and the Vienna Final Act
+through no love of Prussia; the [[Carlsbad Decrees]] and the Vienna Final Act
 were designed to keep Germany quiet, lest the sleep of Austria should be
 disturbed; the lofty claims of the Troppau Protocol were but to cover an
 Austrian aggression directed to purely Austrian ends: and in the Eastern
@@ -1203,7 +1203,7 @@ restored (see POLAND).
 The years that followed were not wanting in signs of the coming storm. On
 the 2nd of March 1835 Francis I. died, and was succeeded by his son
 Ferdinand I. The new emperor was personally amiable, but so enfeebled by
-epilepsy as to be incapable of ruling; a veiled regency had to be
+[[Epilepsy|epilepsy]] as to be incapable of ruling; a veiled regency had to be
 constituted to carry on the government, and the vices of the administration
 were further accentuated by weakness and divided counsels at the centre.
 Under these circumstances [v.03 p.0014] popular discontent made rapid
@@ -1217,7 +1217,7 @@ developed into an organized resistance to the established order, which was
 attacked under the disguise of a criticism of the English administration in
 Ireland. "Repeal" became the watchword of Bohemian, as of Irish,
 nationalists (see BOHEMIA). Among the southern Slavs the "Illyrian"
-movement, voiced from 1836 onward in the _Illyrian National Gazette_ of
+movement, voiced from 1836 onward in the _Illyrian National [[Gazette]]_ of
 Ljudevit Gaj, was directed in the first instance to a somewhat shadowy
 Pan-Slav union, which, on the interference of the Austrian government in
 1844, was exchanged for the more definite object of a revival of "the
@@ -1236,26 +1236,26 @@ any political revolution depended ultimately upon the attitude of the
 peasant class. In this lies the main significance of the rising in Galicia
 in 1846. This was in its origin a Polish nationalist movement, hatched in
 the little independent republic of Cracow. As such it had little
-importance; though, owing to the incompetence of the Austrian commander,
+importance; though, owing to the incompetence of the Austrian [[Commander|commander]],
 the Poles gained some initial successes. More fateful was the attitude of
 the Orthodox Ruthenian peasantry, who were divided from their Catholic
 Polish over-lords by centuries of religious and feudal oppression. The
 Poles had sought, by lavish promises, to draw them into their ranks; their
 reply was to rise in support of the Austrian government. In the fight at
 Gdow (February 26th), where Benedek laid the foundations of the military
-reputation that was to end so tragically at Königgrätz, flail and scythe
+reputation that was to end so tragically at Königgrätz, [[Flail|flail]] and scythe
 wrought more havoc in the rebel ranks than the Austrian musketry. Since, in
 spite of this object-lesson, the Polish nobles still continued their
 offers, the peasants consulted the local Austrian authorities as to what
 course they should take; and the local authorities, unaccustomed to
 arriving at any decision without consulting Vienna, practically gave them
-_carte blanche_ to do as they liked. A hideous _jacquerie_ followed for
+_[[Carte|carte]] blanche_ to do as they liked. A hideous _[[Jacquerie|jacquerie]]_ followed for
 three or four days; during which cartloads of dead were carried into
 Tarnow, where the peasants received a reward for every "rebel" brought in.
 
 This affair was not only a scandal for which the Austrian government,
 through its agents, was responsible; but it placed the authorities at
-Vienna in a serious dilemma. For the Ruthenians, elated by their victory,
+Vienna in a serious [[Dilemma|dilemma]]. For the Ruthenians, elated by their victory,
 refused to return to work, and demanded the abolition of all feudal
 obligations as the reward of their loyalty. To refuse this claim would have
 meant the indefinite prolongation of the crisis; to concede it would have
@@ -1276,14 +1276,14 @@ Austrian system inevitable.
 The material for the conflagration in Austria was thus all prepared when in
 February 1848 the fall of Louis Philippe fanned into a blaze the
 smouldering fires of revolution throughout Europe. On the 3rd of March,
-Kossuth, in the diet at Pressburg, delivered the famous speech which was
+[[Kossuth]], in the diet at Pressburg, delivered the famous speech which was
 the declaration of war of Hungarian Liberalism against the Austrian system.
 "From the charnel-house of the Vienna cabinet," he exclaimed, "a
 pestilential air breathes on us, which dulls our nerves and paralyses the
 flight of our spirit." Hungary liberated was to become the centre of
 freedom for all the races under the Austrian crown, and the outcome was to
-be a new "fraternization of the Austrian peoples." In the enthusiasm of the
-moment the crucial question of the position to be occupied by the
+be a new "fraternization of the Austrian peoples." In the [[Enthusiasm|enthusiasm]] of the
+moment the [[Crucial|crucial]] question of the position to be occupied by the
 conflicting nationalities in this "fraternal union" was overlooked.
 Germanism had so far served as the basis of the Austrian system, not as a
 national ideal, but because "it formed a sort of unnational mediating, and
@@ -1371,12 +1371,12 @@ constitution was proclaimed, including the whole monarchy with the
 exception of Hungary and Lombardo-Venetia. This was, however, met by
 vigorous protests from Czechs and Poles, while its provisions for a partly
 nominated senate, and the indirect election of deputies, excited the wrath
-of radical Vienna. Committees of students and national guards were formed;
+of radical Vienna. Committees of students and national [[Guards|guards]] were formed;
 on the 13th of May a Central Committee was established; and on the 15th a
 fresh insurrection broke out, as a result of which the government once more
 yielded, recognizing the Central Committee, admitting the right of the
 National Guard to take an active part in politics, and promising the
-convocation of a National Convention on the basis of a single chamber
+[[Convocation|convocation]] of a National Convention on the basis of a single chamber
 elected by universal suffrage. On the 17th the emperor left Vienna for
 Innsbruck "for the benefit of his health," and thence, on the 20th, issued
 a proclamation in which he cast himself on the loyalty of his faithful
@@ -1431,7 +1431,7 @@ side of the imperial government, since, whether at Vienna or at Budapest,
 the radicals were their worst enemies.
 
 The 16th of June had been fatal to the idea of an independent Bohemia,
-fatal also to Pan-Slav dreams. To the Czechs the most immediate peril now
+fatal also to Pan-Slav [[Dream|dreams]]. To the Czechs the most immediate peril now
 seemed that from the German parliament, and in the interests of their
 nationality they were willing to join the Austrian government in the
 struggle against German liberalism. The Bohemian diet, summoned for the
@@ -1469,7 +1469,7 @@ withdrawal of the Magyar and Croatian regiments; and the Hungarian
 government chose this critical moment to tamper with the relations of the
 army to the monarchy. In May a National Guard had been established; [v.03
 p.0016] and the soldiers of the line were invited to join this, with the
-promise of higher pay; on the 1st of June the garrison of Pest took the
+promise of higher pay; on the 1st of June the [[Garrison|garrison]] of Pest took the
 oath to the Constitution. On the 10th Jellachich issued a proclamation to
 the Croatian regiments in Italy, bidding them remain and fight for the
 emperor and the common Fatherland. His loyalty to the tradition of the
@@ -1541,7 +1541,7 @@ of Italy. Meanwhile, of the Reichsrath, the members of the Right and the
 Slav majority had left Vienna and announced a meeting of the diet at Brünn
 for the 20th of October; all that remained in the capital was a rump of
 German radicals, impotent in the hands of the proletariat and the students.
-The defence of the city was hastily organized under Bern, an ex-officer of
+The defence of the city was hastily organized under [[Bern]], an ex-officer of
 Napoleon; but in the absence of help from Hungary it was futile. On the
 28th of October Windischgrätz began his attack; on the 1st of November he
 was master of the city.
@@ -1549,21 +1549,21 @@ was master of the city.
 The fall of revolutionary Vienna practically involved that of the
 revolution in Frankfort and in Pest. From Italy the congratulations of
 Radetzky's victorious army came to Windischgrätz, from Russia the even more
-significant commendations of the emperor Nicholas. The moral of the victory
+significant [[Commendation|commendations]] of the emperor Nicholas. The moral of the victory
 was painted for all the world by the military execution of Robert Blum,
-whose person, as a deputy of the German parliament, should have been
+whose person, as a [[Deputy|deputy]] of the German parliament, should have been
 sacrosanct. The time had, indeed, not yet come to attempt any conspicuous
 breach with the constitutional principle; but the new ministry was such as
 the imperial sentiment would approve, inimical to the German ideals of
 Frankfort, devoted to the traditions of the Habsburg monarchy. At its head
-was Prince Felix Schwarzenberg (_q.v._), the "army-diplomat," a statesman
+was Prince [[Felix]] Schwarzenberg (_q.v._), the "army-diplomat," a statesman
 at once strong and unscrupulous. On the 27th of November a proclamation
 announced that the continuation of Austria as a united state was necessary
 both for Germany and for Europe. [Sidenote: Accession of Francis Joseph,
 1848] On the 2nd of December the emperor Ferdinand, bound by too many
 personal obligations to the revolutionary parties to serve as a useful
 instrument for the new policy, abdicated, and his nephew Francis Joseph
-ascended the throne. The proclamation of the new emperor was a gage of
+ascended the throne. The proclamation of the new emperor was a [[Gage|gage]] of
 defiance thrown down to Magyars and German unionists alike: "Firmly
 determined to preserve undimmed the lustre of our crown," it ran, "but
 prepared to share our rights with the representatives of our peoples, we
@@ -1571,9 +1571,9 @@ trust that with God's aid and in common with our peoples we shall succeed
 in uniting all the countries and races of the monarchy in one great body
 politic."
 
-While the Reichsrath, transferred to Kremsier, was discussing "fundamental
+While the Reichsrath, transferred to [[Kremsier]], was discussing "fundamental
 rights" and the difficult question of how to reconcile the theoretical
-unity with the actual dualism of the empire, the knot was being cut by the
+unity with the actual dualism of the empire, the [[Knot|knot]] was being cut by the
 sword on the plains of Hungary. The Hungarian retreat after the bloody
 battle of Kapolna (February 26-27, 1849) was followed by the dissolution of
 the Kremsier assembly, and a proclamation in which the emperor announced
@@ -1582,17 +1582,17 @@ indivisible." On the 4th of March the constitution was published; but it
 proved all but as distasteful to Czechs and Croats as to the Magyars, and
 the speedy successes of the Hungarian arms made it, for the while, a dead
 letter. It needed the intervention of the emperor Nicholas, in the loftiest
-spirit of the Holy Alliance, before even an experimental unity of the
+spirit of the [[Holy Alliance]], before even an experimental unity of the
 Habsburg dominions could be established (see HUNGARY: _History_).
 
-The capitulation of Világos, which ended the Hungarian insurrection, gave
+The [[Capitulation|capitulation]] of Világos, which ended the Hungarian insurrection, gave
 Schwarzenberg a free hand for completing the work of restoring the _status
 quo ante_ and the influence of Austria in Germany. The account of the
 process by which this was accomplished belongs to the history of Germany
 (_q.v._). Here it will suffice to say that the terms of the Convention of
 Olmütz (September 29, 1850) seemed at the time a complete triumph for
 Austria over Prussia. As a matter of fact, however, the convention was, in
-the words of Count Beust, "not a Prussian humiliation, but an Austrian
+the words of Count [[Beust]], "not a Prussian humiliation, but an Austrian
 weakness." It was in the power of Austria to crush Prussia and to put an
 end to the dual influence in the Confederation which experience had proved
 to be unworkable; she preferred to re-establish a discredited system, and
@@ -1642,7 +1642,7 @@ intervention of the tsar in 1849, had been hopelessly shattered by her
 attitude during the Crimean War. Russia, justly offended, drew closer her
 ties with Prussia, where Bismarck was already hatching the plans which were
 to mature in 1866; and, if the attitude of Napoleon in the Polish question
-prevented any revival of the alliance of Tilsit, the goodwill of Russia was
+prevented any revival of the alliance of Tilsit, the [[Goodwill|goodwill]] of Russia was
 assured for France in the coming struggle with Austria in Italy. Already
 the isolation of Austria had been conspicuous in the congress of Paris,
 where Cavour, the Sardinian plenipotentiary, laid bare before assembled
@@ -1716,7 +1716,7 @@ separation of the finances; not even a common nationality was recognized
 between the Hungarians and the other subjects of the emperor; a Hungarian
 was to be a foreigner in Vienna, an Austrian a foreigner in Budapest. A
 large party wished indeed that nothing should be left but a purely personal
-union similar to that between England and Hanover. Deák and the majority
+union similar to that between England and [[Hanover]]. Deák and the majority
 agreed, however, that there should be certain institutions common to
 Hungary and the rest of the monarchy; these were--(1) foreign affairs,
 including the diplomatic and consular service; (2) the army and navy; (3)
@@ -1776,7 +1776,7 @@ affairs, and was only anxious at once to bring about a settlement which
 would enable the empire to take a strong position in international
 politics. In the summer of 1867, however (the Austrian Reichsrath having
 met), the two parliaments each elected a deputation of fifteen members to
-arrange the financial settlement. The first matter was the debt, amounting
+arrange the financial settlement. The first matter was the [[Debt|debt]], amounting
 to over 3000 million gulden, in addition to the floating debt, which had
 been contracted during recent years. The Hungarians laid down the principle
 that they were in no way responsible for debts contracted during a time
@@ -1817,7 +1817,7 @@ is shown in a change of title. By a letter to Beust of the 14th of November
 before "Emperor of Austria, King of Hungary, King of Bohemia, &c.," but
 "Emperor of Austria, King of Bohemia, &c., and Apostolic King of Hungary,"
 thereby signifying the separation of the two districts over which he rules.
-His shorter style is "His Majesty the Emperor and King," and "His Imperial
+His shorter style is "His [[Majesty]] the Emperor and King," and "His Imperial
 and Apostolic Royal Majesty"; the lands over which he rules are called "The
 Austrian-Hungarian Monarchy" or "The Austrian-Hungarian Realm." The new
 terminology, "Imperial and Royal" (_Kaiserlich und Königlich_), has since
@@ -1887,12 +1887,12 @@ final sign of the reconciliation with his uncle. The tsar was also present
 on that occasion, and for the next six years the close friendship between
 the three empires removed all danger of war. Three years later the full
 reconciliation with Italy followed, when Francis Joseph consented to visit
-Victor Emmanuel in Venice.
+Victor [[Emmanuel]] in Venice.
 
 [Sidenote: The Eastern question.]
 
-The outbreak of disturbance in the Balkans ended this period of calm. The
-insurrection in Bosnia and Herzegovina immediately affected Austria;
+The outbreak of disturbance in the Balkans ended this period of [[Calm|calm]]. The
+insurrection in [[Bosnia And Herzegovina|Bosnia and Herzegovina]] immediately affected Austria;
 refugees in large numbers crossed the frontier and had to be maintained by
 the government. The political problem presented was a very difficult one.
 The sympathy of the Slav inhabitants of the empire made it impossible for
@@ -1910,7 +1910,7 @@ note, which was accepted by the powers, requiring Turkey to institute the
 reforms necessary for the good government of the provinces. Turkey agreed
 to do this, but the insurgents required a guarantee from the Powers that
 Turkey would keep her engagements. This could not be given, and the
-rebellion continued and spread to Bulgaria. The lead then passed to Russia,
+rebellion continued and spread to [[Bulgaria]]. The lead then passed to Russia,
 and Austria, even after the outbreak of war, did not oppose Russian
 measures. At the beginning of 1877 a secret understanding had been made
 between the two powers, by which Russia undertook not to annex any
@@ -1934,7 +1934,7 @@ of the Turkish territory.
 The active share taken by Great Britain, however, relieved Austria from the
 necessity of having recourse to further measures. By an arrangement made
 beforehand, Austria was requested at the congress of Berlin to undertake
-the occupation and administration of Bosnia and Herzegovina--an honourable
+the occupation and administration of Bosnia and Herzegovina--an [[Honourable|honourable]]
 but arduous task. The provinces could not be left to the Turks; Austria
 could not allow them to fall under Russian influence. The occupation was
 immediately begun, and 60,000 Austrian troops, under the command of General
@@ -1961,7 +1961,7 @@ still had, as in the old days, to pay rent to the Mahommedan begs. There
 were difficulties also between the Roman Catholics and the members of the
 Greek Church. In 1881 disturbances in Dalmatia spread over the frontier
 into Herzegovina, and another expedition had to be sent to restore order.
-When this was done Benjamin de Kallay was appointed minister, and under his
+When this was done [[Benjamin]] de Kallay was appointed minister, and under his
 judicious government order and prosperity were established in the
 provinces. In accordance with another clause of the treaty of Berlin,
 Austria was permitted to place troops in the sanjak of Novi-Bazar, a
@@ -1979,12 +1979,12 @@ The congress of Berlin indirectly caused some difficulties with Italy. In
 that country was a large party which, under the name of the "Irredentists,"
 demanded that those Italian-speaking districts, South Tirol, Istria and
 Trieste, which were under Austrian rule, should be joined to Italy; there
-were public meetings and riots in Italy; the Austrian flag was torn down
-from the consulate in Venice and the embassy at Rome insulted. The
+were public meetings and riots in Italy; the Austrian [[Flag|flag]] was torn down
+from the consulate in Venice and the [[Embassy|embassy]] at Rome insulted. The
 excitement spread across the frontier; there were riots in Trieste, and in
 Tirol it was necessary to make some slight movement of troops as a sign
 that the Austrian government was determined not to surrender any territory.
-For a short time there was apprehension that the Italian government might
+For a short time there was [[Apprehension|apprehension]] that the Italian government might
 not be strong enough to resist the movement, and might even attempt to
 realize these wishes by means of an alliance with Russia; but the danger
 quickly passed away.
@@ -2032,7 +2032,7 @@ of Alexander, Count Kalnóky stated in the Delegations that Austria-Hungary
 would not permit Russia to interfere with the independence of Bulgaria.
 This decided step was required by Hungarian feeling, but it was a policy in
 which Austria-Hungary could not depend on the support of Germany, for--as
-Bismarck stated--Bulgaria was not worth the bones of a single Pomeranian
+Bismarck stated--Bulgaria was not worth the [[Bone|bones]] of a single Pomeranian
 grenadier. Austria-Hungary also differed from Russia as to the position of
 Prince Ferdinand of Bulgaria, and during 1886-1887 much alarm was caused by
 the massing of Russian troops on the Galician frontier. Councils of war
@@ -2075,7 +2075,7 @@ ministry of war, there was in each part of the monarchy a separate militia
 and a separate minister for national defence. In Hungary this national
 force or _honvéd_ was kept quite distinct from the ordinary army; in
 Austria, however (except in Dalmatia and Tirol, where there was a separate
-local militia), the _Landwehr_, as it was called, was practically organized
+local militia), the _[[Landwehr]]_, as it was called, was practically organized
 as part of the standing army. At the renewal of the periodical financial
 and economic settlement (_Ausgleich_) in 1877 no important change was made,
 but in 1882 the system of compulsory service was extended to Bosnia and
@@ -2084,7 +2084,7 @@ introduction of army corps and local organization on the Prussian plan.
 This was useful for the purposes of speedy mobilization, though there was
 some danger that the local and national spirit might penetrate into the
 army. In 1886 a law was carried in either parliament creating a
-_Landsturm_, and providing for the arming and organization of the whole
+_[[Landsturm]]_, and providing for the arming and organization of the whole
 male population up to the age of forty-two in case of emergency, and in
 1889 a small increase was made in the annual number of recruits. A further
 increase was made in 1892-1893. In contrast, however, with the military
@@ -2123,7 +2123,7 @@ thereupon also gave notice to terminate the commercial union with Austria,
 and negotiations began as to the principle on which it was to be renewed.
 This was done during the year 1877, and in the new treaty, while raw
 material was still imported free of duty, a low duty was placed on textile
-goods as well as on corn, and the excise on sugar and brandy was raised.
+goods as well as on [[Corn|corn]], and the excise on sugar and [[Brandy|brandy]] was raised.
 All duties, moreover, were to be paid in gold--this at once involving a
 considerable increase. The tariff treaties with Great Britain and France
 were not renewed, and all attempts to come to some agreement with Germany
@@ -2141,7 +2141,7 @@ introduced on all articles of home production, and high finance duties on
 other articles such as coffee and petroleum. At the same time special
 privileges were granted to articles imported by sea, so as to foster the
 trade of Trieste and Fiume; as in Germany a subvention was granted to the
-great shipping companies, the Austrian Lloyd and Adria; the area of the
+great shipping companies, the Austrian [[Lloyd]] and Adria; the area of the
 Customs Union was enlarged so as to include Trieste, Istria and Dalmatia,
 as well as Bosnia and Herzegovina. In 1887 a further increase of duties was
 laid on corn (this was at the desire of Hungary as against Rumania, for a
@@ -2179,7 +2179,7 @@ concession to themselves, that it should be converted into an
 Austro-Hungarian bank, with a head office at Pest as well as at Vienna, and
 with the management divided between the two countries. This arrangement was
 renewed in 1887. In 1848 the government had been obliged to authorize the
-bank to suspend cash payments, and the wars of 1859 and 1866 had rendered
+bank to suspend [[Cash|cash]] payments, and the wars of 1859 and 1866 had rendered
 abortive all attempts to renew them. The notes, therefore, formed an
 inconvertible paper currency. The bank by its charter had the sole right of
 issuing notes, but during the war of 1866 the government, in order to raise
@@ -2192,7 +2192,7 @@ cash payments by the bank.
 In 1867 Austria-Hungary had taken part in the monetary conference which led
 to the formation of the Latin Union; it was intended to join the Union, but
 this was not done. A first step, however, had been taken in this direction
-by the issue of gold coins of the value of eight and four gulden. No
+by the issue of gold [[Coin|coins]] of the value of eight and four gulden. No
 attempt was made, however, to regulate the relations of these coins to the
 "Austrian" silver coinage; the two issues were not brought into connexion,
 and every payment was made in silver, unless it was definitely agreed that
@@ -2200,8 +2200,8 @@ it should be paid in gold. In 1879, owing to the continued depreciation of
 silver, the free coinage of silver was suspended. In 1892 laws introducing
 a completely new coinage were carried in both parliaments, in accordance
 with agreements made by the ministers. The unit in the new issue was to be
-the krone, divided into 100 heller; the krone being almost of the same
-value (24-25th) as the franc. (The twenty-krone piece in gold weighs 6.775
+the krone, divided into 100 [[Heller|heller]]; the krone being almost of the same
+value (24-25th) as the [[Franc|franc]]. (The twenty-krone piece in gold weighs 6.775
 gr., the twenty-franc piece 6.453.) The gold krone was equal to .42 of the
 gold gulden, and it was declared equal to .5 of the silver gulden, so much
 allowance being made for the depreciation of silver. The first step towards
@@ -2255,7 +2255,7 @@ Each of the financial and economic reforms described above was, of course,
 the subject of a separate law, but, so far as they are determined at the
 general settlement which takes place between Austria and Hungary every ten
 years, they are comprised under the expression "Ausgleich" (compact or
-compromise), which includes especially the determination of the Quota, and
+[[Compromise|compromise]]), which includes especially the determination of the Quota, and
 to this extent they are all dealt with together as part of a general
 settlement and bargain. In this settlement a concession on commercial
 policy would be set off against a gain on the financial agreement; _e.g._
@@ -2267,9 +2267,9 @@ persuade the Hungarians to pay a larger quota of the common expenses, and
 there was also a dispute whether Hungary was partly responsible for a debt
 of 80 M. [v.03 p.0022] gulden to the bank. Each measure had, therefore, to
 be considered not only on its own merits, but in relation to the general
-balance of advantage, and an amendment in one might bring about the
+[[Balance|balance]] of advantage, and an amendment in one might bring about the
 rejection of all. The whole series of acts had to be carried in two
-parliaments, each open to the influence of national jealousy and race
+parliaments, each open to the influence of national [[Jealousy|jealousy]] and race
 hatred in its most extreme form, so that the negotiations have been
 conducted under serious difficulties, and the periodical settlement has
 always been a time of great anxiety. The first settlement occupied two full
@@ -2313,7 +2313,7 @@ resigned), had to proclaim the necessary measures by imperial warrant. Next
 year it was even worse, for there was obstruction in Hungary as well as in
 Austria; the Quota-Deputations again came to no agreement, and the
 proposals for the renewal of the Bank charter, the reform of the currency,
-the renewal of the Customs Union, and the new taxes on beer and brandy,
+the renewal of the Customs Union, and the new taxes on [[Beer|beer]] and brandy,
 which were laid before parliament both at Vienna and Pest, were not carried
 in either country; this time, therefore, the existing arrangements had to
 be prolonged provisionally by imperial and royal warrant both in Austria
@@ -2378,17 +2378,17 @@ rather than in spirit.
 
 Hungary was apparently better situated. Despite the campaign of obstruction
 that overthrew the Bánffy and led to the formation of the Széll cabinet in
-1899, the hegemony of the Liberal party which, under various names, had
+1899, the hegemony of the [[Liberal Party|Liberal party]] which, under various names, had
 been the mainstay of dualism since 1867, appeared to be unshaken. But clear
 signs of the decay of the dualist and of the growth of an extreme
 nationalist Magyar spirit were already visible. The Army bills of 1889,
 which involved an increase of the peace footing of the joint
 Austro-Hungarian army, had been carried with difficulty, despite the
-efforts of Koloman Tisza and of Count Julius Andrássy the Elder. Demands
+efforts of Koloman Tisza and of Count [[Julius]] Andrássy the Elder. Demands
 tending towards the Magyarization of the joint army had been advanced and
 had found such an echo in Magyar public opinion that Count Andrássy was
 obliged solemnly to warn the country of the dangers of nationalist
-Chauvinism and to remind it of its obligations under the Compact of 1867.
+[[Chauvinism]] and to remind it of its obligations under the Compact of 1867.
 The struggle over the civil marriage and divorce laws that filled the
 greater part of the nineties served and was perhaps intended by the Liberal
 leaders to serve as a diversion in favour of the Liberal-dualist
@@ -2418,12 +2418,12 @@ in the annual contingents of recruits. 16,700 men were needed for the joint
 army, and the remainder for the Austrian and Hungarian national defence
 troops (Landwehr and honvéd). The total contribution of Hungary would have
 been some 6500 and of Austria some 14,500 men. The military authorities
-made, however, the mistake of detaining in barracks several thousand
+made, however, the mistake of detaining in [[Barracks|barracks]] several thousand
 supernumerary recruits (_i.e._ recruits liable to military service but in
 excess of the annual 103,000 enrollable by law) pending the adoption of the
 Army bills by the two parliaments. The object of this apparently
 high-handed step was to avoid the expense and delay of summoning the
-supernumeraries again to the colours when the bills should have received
+supernumeraries again to the [[Colours|colours]] when the bills should have received
 parliamentary sanction; but it was not unnaturally resented by the
 Hungarian Chamber, which has ever possessed a lively sense of its
 prerogatives. The Opposition, consisting chiefly of the independence party
@@ -2498,10 +2498,10 @@ When Count Khuen-Hederváry took office and Kossuth relinquished the
 leadership of the independence party, the extension of the crisis could not
 be foreseen. A few extreme nationalists continued to obstruct the
 estimates, and it appeared as though their energy would soon flag. An
-attempt to quicken this process by bribery provoked, however, an outburst
+attempt to quicken this process by [[Bribery|bribery]] provoked, however, an outburst
 of feeling against Khuen-Hederváry who, though personally innocent, found
 his position shaken. Shortly afterwards Magyar resentment of an army order
-issued from the cavalry manoeuvres at Chlopy in Galicia--in which the
+issued from the [[Cavalry|cavalry]] [[Manoeuvres|manoeuvres]] at Chlopy in Galicia--in which the
 monarch declared that he would "hold fast to the existing and well-tried
 organization of the army" and would never "relinquish the rights and
 privileges guaranteed to its highest war-lord"; and of a provocative
@@ -2539,7 +2539,7 @@ Notwithstanding the concessions, obstruction was continued by the Clericals
 and the extreme Independents, partly in the hope of compelling the crown to
 grant the Magyar words of command and partly out of antipathy towards the
 person of the young calvinist premier. In March 1904, Tisza, therefore,
-introduced a drastic "guillotine" motion to amend the standing orders of
+introduced a drastic "[[Guillotine|guillotine]]" motion to amend the standing orders of
 the House, but withdrew it in return for an undertaking from the Opposition
 that obstruction would cease. This time the Opposition kept its word. The
 Recruits bill and the estimates were adopted, the Delegations were enabled
@@ -2566,7 +2566,7 @@ prevented the Independence party from attempting to realize its programme
 of reducing the ties between Hungary and Austria to the person of the joint
 ruler. On the 25th of January, the day before his defeat, Count Tisza had
 signed on behalf of Hungary the new commercial treaties concluded by the
-Austro-Hungarian foreign office with Germany and Italy on the basis of the
+Austro-Hungarian [[Foreign Office|foreign office]] with Germany and Italy on the basis of the
 Széll-Körber tariff. He acted _ultra vires_, but by his act saved Hungary
 from a severe economic crisis and retained for her the right to benefit by
 economic partnership with Austria until the expiry of the new treaties in
@@ -2626,15 +2626,15 @@ authorized by the crown to present the Széll-Körber tariff to the Chamber
 in the form of a Hungarian autonomous tariff distinct from but identical
 with the Austrian tariff. This concession of form having been made to the
 Magyars without the knowledge of the Austrian government, Prince Konrad
-Hohenlohe, the Austrian premier, resigned office; and his successor, Baron
-Beck, eventually (July 6) withdrew from the table of the Reichsrath the
+[[Hohenlohe]], the Austrian premier, resigned office; and his successor, Baron
+[[Beck]], eventually (July 6) withdrew from the table of the Reichsrath the
 whole Széll-Körber compact, declaring that the only remaining economic ties
 between the two countries were freedom of trade, the commercial treaties
 with foreign countries, the joint state bank and the management of excise.
 If the Hungarian government wished to regulate its relationship to Austria
 in a more definite form, added the Austrian premier, it must conclude a new
 agreement before the end of the year 1907, when the reciprocity arrangement
-of 1899 would lapse. The Hungarian government replied that any new
+of 1899 would [[Lapse|lapse]]. The Hungarian government replied that any new
 arrangement with Austria must be concluded in the form of a commercial
 treaty as between two foreign states and not in the form of a "customs and
 trade alliance."
@@ -2655,10 +2655,10 @@ Dalmatia, the communication to be established by the end of 1911, each
 state building the sections of line that passed through its own territory.
 (3) Austria to facilitate railway communication between Hungary and
 Prussia. (4) Hungary to reform her produce and Stock Exchange laws so as to
-prevent speculation in agrarian produce. (5) A court of arbitration to be
+prevent speculation in agrarian produce. (5) A court of [[Arbitration|arbitration]] to be
 established for the settlement of differences between the two states,
 Hungary selecting four Austrian and Austria four Hungarian judges, the
-presidency of the court being decided by lot, and each government being
+presidency of the court being decided by [[Lot|lot]], and each government being
 represented before the court by its own delegates. (6) Impediments [v.03
 p.0025] to free trade in sugar to be practically abolished. (7) Hungary to
 be entitled to redeem her share of the old Austrian debt (originally
@@ -2669,7 +2669,7 @@ represents a potential economy of some £2,000,000 capital for Hungary as
 compared with the original Austrian demand that the Hungarian contribution
 to the service of the old Austrian debt be capitalized at 4.2%. (8) The
 securities of the two governments to rank as investments for savings banks,
-insurance companies and similar institutions in both countries, but not as
+[[Insurance|insurance]] companies and similar institutions in both countries, but not as
 trust fund investments. (9) Commercial treaties with foreign countries to
 be negotiated, not, as hitherto, by the joint minister for foreign affairs
 alone, but also by a nominee of each government. (10) The quota of Austrian
@@ -2705,12 +2705,12 @@ cordial relations were gradually re-established.
 
 [Sidenote: Balkan crisis.]
 
-In the affairs of the Balkan Peninsula a temporary agreement with Russia
+In the affairs of the [[Balkan Peninsula]] a temporary agreement with Russia
 was reached in 1903 by the so-called "February Programme," supplemented in
 the following October by the "Mürzsteg Programme" (see MACEDONIA; TURKEY;
 EUROPE: _History_). The terms of the Mürzsteg programme were observed by
 Count Goluchowski, in spite of the ruin of Russian prestige in the war with
-Japan, so long as he remained in office. In October 1906, however, he
+[[Japan]], so long as he remained in office. In October 1906, however, he
 retired, and it was soon clear that his successor, Baron von Aerenthal,[12]
 was determined to take advantage of the changed European situation to take
 up once more the traditional policy of the Habsburg monarchy in the Balkan
@@ -2836,7 +2836,7 @@ to give the towns a very large representation in proportion to their
 populations. In Bohemia, _e.g._, the diet consisted of 241 members: of
 these five were _ex officio_ members; the feudal proprietors had seventy;
 the towns and chambers of commerce together had eighty-seven; the rural
-districts seventy-nine. The electors in the rural districts were 236,000,
+districts seventy-nine. The [[Electors|electors]] in the rural districts were 236,000,
 in the towns 93,000. This arrangement seems to have been deliberately made
 by Schmerling, so as to give greater power to the German inhabitants of the
 towns; the votes of the proprietors would, moreover, nearly always give the
@@ -2894,7 +2894,7 @@ predecessors had been, and that Bohemia should have a position in the
 monarchy similar to that obtained by Hungary. Not only did the party
 include all the Czechs, but they were supported by many of the great nobles
 who were of German descent, including Count Leo Thun, his brother-in-law
-Count Heinrich Clam-Martinitz, and Prince Friedrich von Schwarzenberg,
+Count Heinrich Clam-Martinitz, and Prince [[Friedrich]] von Schwarzenberg,
 cardinal archbishop of Prague, who hoped in a self-governing kingdom of
 Bohemia to preserve that power which was threatened by the German Liberals.
 The feudal nobles had great power arising from their wealth, the great
@@ -3001,10 +3001,10 @@ parliament. They laid much stress on the historic task of Austria in
 bringing German culture to the half-civilized races of the east. They
 demanded, therefore, that all higher schools and universities should remain
 German, and that so far as possible the elementary schools should be
-Germanized. They looked on the German schoolmaster as the apostle of German
+Germanized. They looked on the German schoolmaster as the [[Apostle|apostle]] of German
 culture, and they looked forward to the time when the feeling of a common
 Austrian nationality should obscure the national feeling of the Slavs, and
-the Slavonic idioms should survive merely as the local dialects of the
+the Slavonic [[Idiom|idioms]] should survive merely as the local [[Dialect|dialects]] of the
 peasantry, the territories becoming merely the provinces of a united and
 centralized state. The total German population was not quite a third of the
 whole. The maintenance of their rule was, therefore, only possible by the
@@ -3132,7 +3132,7 @@ they were much occupied with railway enterprise. Convinced free-traders,
 they hoped by private energy to build up the fortunes of the country,
 parliamentary government--which meant for them the rule of the educated and
 well-to-do middle class--being one of the means to this end. They accepted
-the great burden of debt which the action of Hungary imposed upon the
+the great [[Burden|burden]] of debt which the action of Hungary imposed upon the
 country, and rejected the proposals for repudiation, but notwithstanding
 the protest of foreign bondholders they imposed a tax of 16% on all
 interest on the debt. They carried out an extension of the commercial
@@ -3194,7 +3194,7 @@ The natural result was that when they were carried into effect the bishops
 in many cases refused to obey. They claimed that the laws were inconsistent
 with the concordat, that the concordat still was in force, and that the
 laws were consequently invalid. The argument was forcible, but the courts
-decided against them. Rudigier, bishop of Linz, was summoned to a criminal
+decided against them. Rudigier, bishop of [[Linz]], was summoned to a criminal
 court for disturbing the public peace; he refused to appear, for by the
 concordat bishops were not subject to temporal jurisdiction; and when he
 was condemned to imprisonment the emperor at once telegraphed his full
@@ -3202,7 +3202,7 @@ pardon. In the rural districts the clergy had much influence; they were
 supported by the peasants, and the diets of Tirol and Vorarlberg, where
 there was a clerical majority, refused to carry out the school law.
 
-On the proclamation of papal infallibility in 1870, the government took the
+On the proclamation of papal [[Infallibility|infallibility]] in 1870, the government took the
 opportunity of declaring that the concordat had lapsed, on the ground that
 there was a fundamental change in the character of the papacy. Nearly all
 the Austrian prelates had been opposed to the new doctrine; many of them
@@ -3330,7 +3330,7 @@ was dissolved; and the whole influence of the government was used to
 procure a German majority. Koller, the governor, acted with great vigour.
 Opposition newspapers were suppressed; cases in which Czech journalists
 were concerned were transferred to the German districts, so that they were
-tried by a hostile German jury. Czech manifestoes were confiscated, and
+tried by a hostile German [[Jury|jury]]. Czech manifestoes were confiscated, and
 meetings stopped at the slightest appearance of disorder; and the riots
 were punished by quartering soldiers upon the inhabitants. The decision
 between the two races turned on the vote of the feudal proprietors, and in
@@ -3396,7 +3396,7 @@ Stock Exchange; a great number of companies, chiefly banks and building
 societies, had been founded on a very insecure basis. The inevitable crisis
 began in 1872; it was postponed for a short time, and there was some hope
 that the Exhibition, fixed for 1873, would bring fresh prosperity; the hope
-was not, however, fulfilled, and the final crash, which occurred in May,
+was not, however, fulfilled, and the final [[Crash|crash]], which occurred in May,
 brought with it the collapse of hundreds of undertakings. The loss fell
 almost entirely on those who had attempted to increase their wealth by
 speculative investment. Sound industrial concerns were little touched by
@@ -3489,11 +3489,11 @@ The real desire of the Clericals was an alteration of the school law, by
 which the control of the schools should be restored to the Church and the
 period of compulsory education reduced. In this, however, the government
 did not meet them, and in 1882 the Clericals, under Prince Alfred v.
-Liechtenstein, separated from Hohenwart's party and founded their own club,
+[[Liechtenstein]], separated from Hohenwart's party and founded their own club,
 so that they could act more freely. Both the new Clerical Club and the
 remainder of the Conservatives were much affected by the reaction against
 the doctrines of economic Liberalism. They began to adopt the principles of
-Christian Socialism expounded by Rudolf Mayer and Baron von Vogelfang, and
+Christian Socialism expounded by Rudolf [[Mayer]] and Baron von Vogelfang, and
 the economic revolt against the influence of capital was with them joined
 to a half-religious attack upon the Jews. They represented that Austria was
 being governed by a close ring of political financiers, many of whom were
@@ -3545,7 +3545,7 @@ the doctrines of _laissez-faire_. In 1889 for the first time the Austrian
 budget showed a surplus, partly the result of the new import duties, partly
 due to a reform of taxation.
 
-For a fuller description of these social reforms, see the _Jahrbuch fur
+For a [[Fuller|fuller]] description of these social reforms, see the _Jahrbuch [[Fur|fur]]
 Gesetzgebung_ (Leipzig, 1886, 1888 and 1894); also the annual summary of
 new laws in the _Zeitschrift fur Staatswissenschaft_ (Stuttgart). For the
 Christian Socialists, see Nitti, _Catholic Socialism_ (London, 1895).
@@ -3603,7 +3603,7 @@ shown great liberality. The constitution of 1867 laid down a principle of
 much importance, by which previous custom became established as a right.
 Article 19 runs: "All races of the empire have equal rights, and every race
 has an inviolable right to the preservation and use of its own nationality
-and language. The equality of all customary (_landesüblich_) languages in
+and language. The equality of all customary (_[[Landes|landes]]üblich_) languages in
 school, office and public life, is recognized by the state. In those
 territories in which several races dwell, the public and educational
 institutions are to be so arranged that, without applying compulsion to
@@ -3672,7 +3672,7 @@ It was not till 1879 that the Slovenes received the support of the
 government. In Carniola they succeeded, in 1882, in winning a majority in
 the diet, and from this time, while the diet of Styria is the centre of the
 German, that of Carniola is the chief support of the Slovene agitation. In
-the same year they won the majority in the town council of Laibach, which
+the same year they won the majority in the town council of [[Laibach]], which
 had hitherto been German. They were able, therefore, to introduce Illyrian
 as the official language, and cause the names of the streets to be written
 up in Illyrian. This question of street names is, as it were, a sign of
@@ -3689,7 +3689,7 @@ districts in the south of Carinthia, and determined that in Laibach a
 Slovene gymnasium should be maintained as well as the German one.
 
 The Germans complain that in many cases the government acted very unfairly
-to them. They constantly refer to the case of Klagenfurt. This town in
+to them. They constantly refer to the case of [[Klagenfurt]]. This town in
 Carinthia had a population of 16,491 German-speaking Austrians; the
 Slovenian-speaking population numbered 568, of whom 180 were inhabitants of
 the gaol or the hospital. The government, however, in 1880 declared
@@ -3825,7 +3825,7 @@ sufficient energy. After the elections of 1885 the Left, therefore, broke
 up again into two clubs, the "German Austrian," which included the more
 moderate, and the "German," which wished to use sharper language. The
 German Club, _e.g._, congratulated Bismarck on his measures against the
-Poles; the German Austrians refused to take cognizance of events outside
+Poles; the German Austrians refused to take [[Cognizance|cognizance]] of events outside
 Austria with which they had nothing to do. Even the German Club was not
 sufficiently decided for Herr von Schönerer and his friends, who broke off
 from it and founded a "National German Union." They spoke much of
@@ -3853,7 +3853,7 @@ kingdom. Perhaps the leaders of the party, who were now growing old, would
 have been content with the influence they had already attained, but they
 were hard pressed at home by the Young Czechs, who were more impatient.
 When Count Thun was appointed governor of Bohemia their hopes ran high, for
-he was supposed to favour the coronation of the emperor at Prague. In 1890,
+he was supposed to favour the [[Coronation|coronation]] of the emperor at Prague. In 1890,
 however, instead of proceeding to the coronation as was expected, Taaffe
 attempted to bring about a reconciliation between the opposing parties. The
 influence by which his policy was directed is not quite clear, but the
@@ -4114,7 +4114,7 @@ have; as a Pole he had little experience in the western part of the empire.
 During the recess he tried to open negotiations, but [v.03 p.0036] the
 Germans refused even to enter into a discussion until the ordinances had
 been withdrawn. The agitation spread throughout the country; great meetings
-were held at Eger and Aussig, which were attended by Germans from across
+were held at [[Eger]] and Aussig, which were attended by Germans from across
 the frontier, and led to serious disturbances; the cornflower, which had
 become the symbol of German nationality and union with Germany, was freely
 worn, and the language used was in many cases treasonable. The emperor
@@ -4130,13 +4130,13 @@ and the Christian Socialists on the one side (for the Christian Socialists
 had supported the government since the confirmation of Lueger as
 burgomaster) and the German Nationalists under Herr Wolf, a German from
 Bohemia, the violence of whose language had already caused Badeni to
-challenge him to a duel. The Nationalists refused to allow Lueger to speak,
-clapping their desks, hissing and making other noises, till at last the
+challenge him to a [[Duel|duel]]. The Nationalists refused to allow Lueger to speak,
+clapping their [[Desk|desks]], hissing and making other noises, till at last the
 Young Czechs attempted to prevent the disorder by violence. On the 24th of
 November the scenes of disturbance were renewed. The president, Herr v.
 Abrahamovitch, an Armenian from Galicia, refused to call on Schönerer to
 speak. The Nationalists therefore stormed the platform, and the president
-and ministers had to fly into their private rooms to escape personal
+and ministers had to [[Fly|fly]] into their private rooms to escape personal
 violence, until the Czechs came to their rescue, and by superiority in
 numbers and physical strength severely punished Herr Wolf and his friends.
 The rules of the House giving the president no authority for maintaining
@@ -4169,7 +4169,7 @@ with this; they demanded absolute repeal. The Czechs also were offended;
 they arranged riots at Prague; the professors in the university refused to
 lecture unless the German students were defended from violence; Gautsch
 resigned, and Thun, who had been governor of Bohemia, was appointed
-minister. Martial law was proclaimed in Bohemia, and strictly enforced.
+minister. [[Martial]] law was proclaimed in Bohemia, and strictly enforced.
 Thun then arranged with the Hungarian ministers a compromise about the
 Ausgleich.
 
@@ -4250,10 +4250,10 @@ the contingent of recruits and other "necessities of state" for 1901 and
 Germans were alike interested. These public works were chiefly a canal from
 the Danube to the Oder; a ship canal from the Danube to the Moldau near
 Budweis, and the canalization of the Moldau from Budweis to Prague; a ship
-canal running from the projected Danube-Oder canal near Prerau to the Elbe
+canal running from the projected Danube-Oder canal near Prerau to the [[Elbe]]
 near Pardubitz, and the canalization of the Elbe from Pardubitz to Melnik;
 a navigable connexion between the Danube-Oder Canal and the Vistula and the
-Dniester. It was estimated that the construction of these four canals would
+[[Dniester]]. It was estimated that the construction of these four canals would
 require twenty years, the funds being furnished by a 4% loan amortizable in
 ninety years. In addition to the canals, the cabinet proposed and the
 Chamber sanctioned the construction of a "second railway route to Trieste"
@@ -4444,7 +4444,7 @@ constituencies were divided according to race as follows:--
 
 These allotments were slightly modified at the polls by the victory of some
 Social Democratic candidates not susceptible of strict racial
-classification. The chief feature of the allotment was, however, the formal
+[[Classification|classification]]. The chief feature of the allotment was, however, the formal
 overthrow of the fiction that Austria is preponderatingly a German country
 and not a country preponderatingly Slav with a German dynasty and a German
 façade. The German constituencies, though allotted in a proportion unduly
@@ -4530,7 +4530,7 @@ between them and the conservative Catholic party:--
 smoothly during the first year of its existence. The estimates were voted
 with regularity, racial animosity was somewhat less prominent, and some
 large issues were debated. The desire not to disturb the emperor's Diamond
-Jubilee year by untoward scenes doubtless contributed to calm political
+[[Jubilee Year|Jubilee year]] by untoward scenes doubtless contributed to calm political
 passion, and it was celebrated in 1908 with complete success. But it was no
 sooner over than the crisis over the annexation of Bosnia and Herzegovina,
 which is dealt with above, eclipsed all purely domestic affairs in the
@@ -4539,12 +4539,12 @@ larger European question.
 (H. W. S.)
 
 BIBLIOGRAPHY.--1. _Sources_. A collection of early authorities on Austrian
-history was published in 3 vols. folio by Hieronymus Pez (Leipzig,
+history was published in 3 vols. [[Folio|folio]] by Hieronymus Pez (Leipzig,
 1721-1725) under the title _Scriptores rerum Austriacarum veteres et
 genuini_, of which a new edition was printed at Regensburg in 1745, and
 again, under the title of _Rerum Austriacarum scriptores_, by A. Rauch at
 Vienna in 1793-1794. It was not, however, till the latter half of the 19th
-century that the vast store of public and private archives began to be
+century that the vast store of public and private [[Archive|archives]] began to be
 systematically exploited. Apart from the material published in the
 _Monumenta Germ. Hist_. of Pertz and his collaborators, there are several
 collections devoted specially to the sources of Austrian history. Of these
@@ -4566,7 +4566,7 @@ l'Autriche avec les puissances étrangères depuis 1763_ (6 vols., Leipzig,
 1907, however, the Imperial Commission for the Modern History of Austria
 issued the first volume of a new series, _Österreichische Staatsverträge_,
 which promises to be of the utmost value. Like the _Recueil des traités
-conclus par la Russie_ of T. T. de Martens, it is compiled on the principle
+conclus par la Russie_ of T. T. de [[Martens]], it is compiled on the principle
 of devoting separate volumes to the treaties entered into with the several
 states; this is obviously convenient as enabling the student to obtain a
 clear review of the relations of Austria to any particular state throughout
@@ -4576,7 +4576,7 @@ Theresa bis auf die neueste Zeit_ (Vienna, 1868); and L. Bittner,
 _Chronologisches Verzeichnis der österreichischen Staatsverträge_ (Band G,
 1526-1723, Vienna, 1903).
 
-2. _Works_.--(a) _General._ Archdeacon William Coxe's _History of the House
+2. _Works_.--(a) _General._ [[Archdeacon]] William Coxe's _History of the House
 of Austria, 1218-1792_ (3 vols., London, 1817), with its continuation by W.
 Kelly (London, 1853; new edition, 1873), remains the only general history
 of Austria in the English language. It has, of course, long been superseded
@@ -4584,7 +4584,7 @@ as a result of the research indicated above. The amount of work that has
 been devoted to this subject since Coxe's time will be seen from the
 following list of books, which are given in the chronological order of
 their publication:--J. Majláth, _Geschichte des österreichischen
-Kaiserstaates_ (5 vols., Hamburg, 1834-1850); Count F. von Hartig, _Genesis
+Kaiserstaates_ (5 vols., [[Hamburg]], 1834-1850); Count F. von Hartig, _[[Genesis]]
 der Revolution in Österreich im Jahre 1848_ (Leipzig, 1851; 3rd edition,
 enlarged, _ib._, 1851; translated as appendix to Coxe's _House of Austria_,
 ed. 1853), a work which created a great sensation at the time and remains
@@ -4592,7 +4592,7 @@ of much value; W. H. Stiles, _Austria in 1848-1849_ (2 vols., New York,
 1852), by an eye-witness of events; M. Büdinger, _Österreichische Gesch.
 bis zum Ausgange des dreizehnten Jahrhunderts_, vol. i. to A.D. 1055
 (Leipzig, 1858); A. Springer, _Geschichte Österreichs seit dem Wiener
-Frieden_, 1809 (2 vols. to 1849; Leipzig, 1863-1865); A. von Arneth,
+Frieden_, 1809 (2 vols. to 1849; Leipzig, 1863-1865); A. von [[Arneth]],
 _Geschichte Maria Theresias_ (10 vols., Vienna, 1863-1879); the series
 _Österreichische Gesch. für das Volk_, 17 vols., by various authors
 (Vienna, 1864, &c.), for which see Dahlmann-Waitz, p. 86; H. Bidermann,
@@ -4615,8 +4615,8 @@ Slavophil; A. Wolf, _Geschichtliche Bilder aus Österreich_ (2 vols.,
 Vienna, 1878-1880), and _Österreich unter Maria Theresia, Joseph II. und
 Leopold I._ (Berlin, 1882); E. Wertheimer, _Gesch. Österreichs und Ungarns
 im ersten Jahrzehnt des 19ten Jahrhunderts_ (2 vols., Leipzig, 1884-1890);
-A. Huber, _Gesch. Österreichs_, vols. i. to v. up to 1648 (in Heeren's
-_Gesch. der europ. Staaten_, Gotha, 1885-1895); J. Emmer, _Kaiser Franz
+A. [[Huber]], _Gesch. Österreichs_, vols. i. to v. up to 1648 (in Heeren's
+_Gesch. der europ. Staaten_, [[Gotha]], 1885-1895); J. Emmer, _Kaiser Franz
 Joseph I., fünfzig Jahre österreichischer Gesch_. (2 vols., Vienna, 1898);
 F. M. Mayer, _Gesch. Österreichs mit besonderer Rücksicht auf das
 Kulturleben_ (2 vols. 2nd ed., Vienna, 1900-1901); A. Dopsch, _Forschungen
@@ -4639,7 +4639,7 @@ Eisenmann, _Le Compromis austro-hongrois de 1867_ (Paris, 1904).
 
 (c) _Diplomatic._--A. Beer, _Zehn Jahre österreichischer Politik,
 1801-1810_ (Leipzig, 1877), and _Die orientalische Politik Österreichs seit
-1774_ (Prague and Leipzig, 1883); A. Fournier, _Gentz und Cobenzl: Gesch.
+1774_ (Prague and Leipzig, 1883); A. [[Fournier]], _Gentz und Cobenzl: Gesch.
 der öst. Politik in den Jahren 1801-1805_ (Vienna, 1880); F. von
 Demelitsch, _Metternich und seine auswärtige Politik_, vol. i. (1809-1812,
 Stuttgart, 1898); H. Übersberger, _Österreich und Russland seit dem Ende
@@ -4650,7 +4650,7 @@ articles on METTERNICH, GENTZ, &c. For the latest developments of the
 d'Autriche au seuil du XX^e siècle_ (Paris, 1901), and _L'Allemagne, la
 France et la question d'Autriche_ (76, 1902); René Henry, _Questions
 d'Autriche-Hongrie et question d'orient_ (Paris, 1903), with preface by
-Anatole Leroy-Beaulieu; "Scotus Viator," _The Future of Austria-Hungary_
+Anatole [[Leroy-Beaulieu]]; "Scotus Viator," _The Future of Austria-Hungary_
 (London, 1907).
 
 (d) _Racial Question._--There is a very extensive literature on the
@@ -4661,7 +4661,7 @@ Dummreicher, _Südostdeutsche Betrachtungen_ (Leipzig, 1893); Hainisch, _Die
 Zukunft der Deutsch-Österreicher_ (Vienna, 1892); Herkner, _Die Zukunft der
 Deutsch-Österreicher_ (_ib._ 1893); L. Leger, _La Save, le Danube et le
 Balkan_ (Paris, 1884); Bressnitz von Sydacoff, _Die panslavistische
-Agitation_ (Berlin, 1899); Bertrand Auerbach, _Les Races et les
+Agitation_ (Berlin, 1899); [[Bertrand]] Auerbach, _Les Races et les
 nationalités en Autriche-Hongrie_ (Paris, 1898).
 
 (e) _Biographical._--C. von Wurzbach, _Biographisches Lexikon des
@@ -4698,13 +4698,13 @@ deals with the history of the whole monarchy as such.
 [6] Baron H. de Worms, _The Austro-Hungarian Empire_ (London, 1876), and
 Beust's _Memoirs_.
 
-[7] See General Le Brun, _Souvenirs militaires_ (1866-1870, Paris, 1895);
+[7] See General [[Le Brun]], _Souvenirs militaires_ (1866-1870, Paris, 1895);
 also, Baron de Worms, _op. cit_., and the article on BEUST.
 
 [8] Josef, Freiherr Philippovi['c] von Philippsberg (1818-1889), belonged
 to an old Christian noble family of Bosnia.
 
-[9] Sir Charles Dilke, _The Present Position of European Politics_ (London,
+[9] Sir Charles [[Dilke]], _The Present Position of European Politics_ (London,
 1887).
 
 [10] Matlekovits, _Die Zollpolitik der österreichisch-ungarischen
@@ -4717,7 +4717,7 @@ to Hungary, Hungary in consequence of this addition of territory had to pay
 was 31.4 and 68.6.
 
 [12] Alois, Count Lexa von Aerenthal, was born on the 27th of September
-1854 at Gross-Skal in Bohemia, studied at Bonn and Prague, was attaché at
+1854 at Gross-Skal in Bohemia, studied at [[Bonn]] and Prague, was attaché at
 Paris (1877) and afterwards at St Petersburg, envoy extraordinary at
 Bucharest (1895) and ambassador at St Petersburg (1896). He was created a
 count on the emperor's 79th birthday in 1909.
@@ -4745,7 +4745,7 @@ Habsburg, is used for want of a better word.
 interesting article by Schäffle in the _Zeitschrift f. Staatswissenschaft_
 (Stuttgart, 1874).
 
-[17] For Dalmatia, see T. G. Jackson, _Dalmatia &c._, (Oxford, 1889).
+[17] For Dalmatia, see T. G. [[Jackson]], _Dalmatia &c._, (Oxford, 1889).
 
 [18] On this see Menger, _Der Ausgleich mit Böhmen_ (Vienna, 1891), where
 the documents are printed.

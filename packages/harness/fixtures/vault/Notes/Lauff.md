@@ -1,6 +1,6 @@
 # Lauff
 
-LAUFF, JOSEF (1855-   ), German poet and dramatist, was born at Cologne
+LAUFF, JOSEF (1855-   ), German poet and dramatist, was born at [[Cologne]]
 on the 16th of November 1855, the son of a jurist. He was educated at
 Münster in Westphalia, and entering the army served as a lieutenant of
 artillery at Thorn and subsequently at Cologne, where he attained the
@@ -18,7 +18,7 @@ _Marie Verwahnen_ (1903). But he is best known as a dramatist. Beginning
 with the tragedy _Ignez de Castro_ (1894), he proceeded to dramatize the
 great monarchs of his country, and, in a Hohenzollern tetralogy, issued
 _Der Burggraf_ (1897, 6th ed. 1900) and _Der Eisenzahn_ (1900), to be
-followed by _Der grosse Kurfürst_ (The Great Elector) and _Friedrich der
+followed by _Der [[Grosse|grosse]] Kurfürst_ (The Great Elector) and _[[Friedrich]] der
 Grosse_ (Frederick the Great).
 
   See A. Schroeter, _Josef Lauff, Ein litterarisches Zeitbild_ (1899),

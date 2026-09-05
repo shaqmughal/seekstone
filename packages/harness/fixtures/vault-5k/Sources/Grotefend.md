@@ -1,14 +1,14 @@
 # Grotefend
 
-GROTEFEND, GEORG FRIEDRICH (1775-1853), German epigraphist, was born at
-Munden in Hanover on the 9th of June 1775. He was educated partly in his
-native town, partly at Ilfeld, where he remained till 1795, when he
+GROTEFEND, GEORG [[Friedrich|FRIEDRICH]] (1775-1853), German epigraphist, was born at
+Munden in [[Hanover]] on the 9th of June 1775. He was educated partly in his
+native town, partly at [[Ilfeld]], where he remained till 1795, when he
 entered the university of Gottingen, and there became the friend of
-Heyne, Tychsen and Heeren. Heyne's recommendation procured for him an
+[[Heyne]], Tychsen and Heeren. Heyne's recommendation procured for him an
 assistant mastership in the Gottingen gymnasium in 1797. While there he
 published his work _De pasigraphia sive scriptura universali_ (1799),
 which led to his appointment in 1803 as prorector of the gymnasium of
-Frankfort-on-Main, and shortly afterwards as conrector. Grotefend was
+[[Frankfort-On-Main|Frankfort-on-Main]], and shortly afterwards as conrector. Grotefend was
 best known during his lifetime as a Latin and Italian philologist,
 though the attention he paid to his own language is shown by his
 _Anfangsgrunde der deutschen Poesie_, published in 1815, and his
@@ -44,7 +44,7 @@ Three years later appeared his _Neue Beitrage zur Erlauterung der
 babylonischen Keilschrift_. His discovery may be summed up as follows:
 (1) that the Persian inscriptions contain three different forms of
 cuneiform writing, so that the decipherment of the one would give the
-key to the decipherment of the others; (2) that the characters of the
+[[Key|key]] to the decipherment of the others; (2) that the characters of the
 Persian column are alphabetic and not syllabic; (3) that they must be
 read from left to right; (4) that the alphabet consists of forty
 letters, including signs for long and short vowels; and (5) that the
@@ -54,7 +54,7 @@ The process whereby Grotefend arrived at these conclusions is a
 prominent illustration of persevering genius (see CUNEIFORM). A solid
 basis had thus been laid for the interpretation of the Persian
 inscriptions, and all that remained was to work out the results of
-Grotefend's brilliant discovery, a task ably performed by Burnouf,
+Grotefend's brilliant discovery, a task ably performed by [[Burnouf]],
 Lassen and Rawlinson. Grotefend died on the 15th of December 1853.
 
 ## See also

@@ -7,7 +7,7 @@ topic: medicine
 # Borromeo
 
 BORROMEO, CARLO (1538-1584), saint and cardinal of the Roman Catholic
-Church, son of Ghiberto Borromeo, count of Arona, and Margarita de'
+Church, son of Ghiberto Borromeo, count of Arona, and [[Margarita]] de'
 Medici, was born at the castle of Arona on Lago Maggiore on the 2nd of
 October 1538. When he was about twelve years old, Giulio Cesare Borromeo
 resigned to him an abbacy, the revenue of which he applied wholly in
@@ -20,7 +20,7 @@ Medici, was raised to the pontificate as Pius IV. Borromeo was made
 prothonotary, entrusted with both the public and the privy seal of the
 ecclesiastical state, and created cardinal with the administration of
 Romagna and the March of Ancona, and the supervision of the Franciscans,
-the Carmelites and the knights of Malta. He was thus at the age of
+the Carmelites and the [[Knight|knights]] of [[Malta]]. He was thus at the age of
 twenty-two practically the leading statesman of the papal court. Soon
 after he was raised to the archbishopric of Milan. In compliance with
 the pope's desire, he lived in great splendour; yet his own temperance
@@ -36,20 +36,20 @@ Owing to his influence over Pius IV., he was able to facilitate the
 final deliberations of the council of Trent, and he took a large share
 in the drawing up of the Tridentine catechism (_Catechismus Romanus_).
 
-On the death of Pius IV. (1566), the skill and diligence of Borromeo
-contributed materially to suppressing the cabals of the conclave.
+On the death of Pius IV. (1566), the skill and [[Diligence|diligence]] of Borromeo
+contributed materially to suppressing the cabals of the [[Conclave|conclave]].
 Subsequently he devoted himself wholly to the reformation of his
 diocese, which had fallen into a most unsatisfactory condition owing to
 the prolonged absences of its previous archbishops. He made a series of
 pastoral visits, and restored decency and dignity to divine service. In
-conformity with the decrees of the council of Trent, he cleared the
-cathedral of its gorgeous tombs, rich ornaments, banners, arms, sparing
+conformity with the [[Decree|decrees]] of the council of Trent, he cleared the
+cathedral of its gorgeous tombs, rich ornaments, [[Banners|banners]], arms, sparing
 not even the monuments of his own relatives. He divided the nave of the
 church into two compartments for the separation of the sexes. He
 extended his reforms to the collegiate churches (even to the
-fraternities of penitents and particularly that of St John the Baptist),
+[[Fraternities|fraternities]] of penitents and particularly that of St John the Baptist),
 and to the monasteries. The great abuses which had overrun the church at
-this time arose principally from the ignorance of the clergy. Borromeo,
+this time arose principally from the [[Ignorance|ignorance]] of the clergy. Borromeo,
 therefore, established seminaries, colleges and communities for the
 education of candidates for holy orders. The most remarkable, perhaps,
 of his foundations was the fraternity of the Oblates, a society whose
@@ -69,7 +69,7 @@ apprehensive that the cardinal's ordinances and proceedings would
 encroach upon the civil jurisdiction, addressed remonstrances and
 complaints to the courts of Rome and Madrid. But Borromeo had more
 formidable difficulties to struggle with, in the inveterate opposition
-of several religious orders, particularly that of the Humiliati
+of several religious orders, particularly that of the [[Humiliati]]
 (Brothers of Humility). Some members of that society formed a conspiracy
 against his life, and a shot was fired at him in the archiepiscopal
 chapel under circumstances which led to the belief that his escape was
@@ -77,7 +77,7 @@ miraculous. The number of his enemies was increased by his successful
 attack on his Jesuit confessor Ribera, who with other members of the
 college of Milan was found to be guilty of unnatural offences. His
 manifold labours and austerities appear to have shortened his life. He
-was seized with an intermittent fever, and died at Milan on the 4th of
+was seized with an intermittent [[Fever|fever]], and died at Milan on the 4th of
 November 1584. He was canonized in 1610, and his feast is celebrated on
 the 4th of November.
 

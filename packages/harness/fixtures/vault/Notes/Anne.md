@@ -2,18 +2,18 @@
 
 ANNE (1665-1714), queen of Great Britain and Ireland, second daughter of
 James, duke of York, afterwards James II., and of Anne Hyde, daughter of
-the ist earl of Clarendon, was born on the 6th of February 1665. She
+the ist earl of [[Clarendon]], was born on the 6th of February 1665. She
 suffered as a child from an affection of the eyes, and was sent to
 France for medical treatment, residing with her grandmother, Henrietta
 Maria, and on the latter's death with her aunt, the duchess of Orleans,
 and returning to England in 1670. She was brought up, together with her
 sister Mary, by the direction of Charles II., as a strict Protestant,
 and as a child she made the friendship of Sarah Jennings (afterwards
-duchess of Marlborough), thus beginning life under the two influences
+duchess of [[Marlborough]]), thus beginning life under the two influences
 which were to prove the most powerful in her future career. In 1678 she
 accompanied Mary of Modena to Holland, and in 1679 joined her parents
 abroad and afterwards in Scotland. On the 28th of July 1683 she married
-Prince George of Denmark, brother of King Christian V., an unpopular
+Prince George of [[Denmark]], brother of King Christian V., an unpopular
 union because of the French proclivities of the bridegroom's country,
 but one of great domestic happiness, the prince and princess being
 conformable in temper and both preferring retirement and quiet to life
@@ -25,7 +25,7 @@ ladies called each other Mrs Morley and Mrs Freeman.
 On the 6th of February 1685 James became king of England. In 1687 a
 project of settling the crown on the princess, to the exclusion of Mary,
 on the condition of Anne's embracing Roman Catholicism, was rendered
-futile by her pronounced attachment to the Church of England, and beyond
+futile by her pronounced [[Attachment|attachment]] to the Church of England, and beyond
 sending her books and papers James appears to have made no attempt to
 coerce his daughter into a change of faith,[1] and to have treated her
 with kindness, while the birth of his son on the 20th of June 1688 made
@@ -53,21 +53,21 @@ followed their husbands' examples. Escaping from Whitehall by a back
 staircase they put themselves under the care of the bishop of London,
 spent one night in his house, and subsequently arrived on the 1st of
 December at Nottingham, where the princess first made herself known and
-appointed a council. Thence she passed through Leicester, Coventry and
+appointed a council. Thence she passed through Leicester, [[Coventry]] and
 Warwick, finally entering Oxford, where she met Prince George, in
 triumph, escorted by a large company. Like Mary, she was reproached for
 showing no concern at the news of the king's flight, but her
 justification was that "she never loved to do anything that looked like
 an affected constraint." She returned to London on the 19th of December,
-when she was at once visited by William. Subsequently the Declaration of
+when she was at once visited by William. Subsequently the [[Declaration]] of
 Rights settled the succession of the crown upon her after William and
 Mary and their children.
 
 Meanwhile Anne had suffered a series of maternal disappointments.
 Between 1684 and 1688 she had miscarried four times and given birth to
-two children who died infants. On the 24th of July 1689, however, the
+two children who died [[Infant|infants]]. On the 24th of July 1689, however, the
 birth, of a son, William, created duke of Gloucester, who survived his
-infancy, gave hopes that heirs to the throne under the Bill of Rights
+[[Infancy|infancy]], gave hopes that [[Heir|heirs]] to the throne under the Bill of Rights
 might be forthcoming. But Anne's happiness was soon troubled by quarrels
 with the king and queen. According to the duchess of Marlborough the two
 sisters, who had lived hitherto while apart on extremely affectionate
@@ -92,7 +92,7 @@ her approval of the naval expedition in favour of her father, and
 expressed grief at its failure.[4] According to the doubtful _Life of
 James_, she wrote to him on the 1st of December a "most penitential and
 dutiful" letter, and henceforward kept up with him a "fair
-correspondence."[5] The same year the breach between the royal sisters
+correspondence."[5] The same year the [[Breach|breach]] between the royal sisters
 was made final by the dismissal of Marlborough, justly suspected of
 Jacobite intrigues, from all his appointments. Anne took the part of her
 favourites with great zeal against the court, though in all probability
@@ -100,8 +100,8 @@ unaware of Marlborough's treason; and on the dismissal of the countess
 from her household by the king and queen she refused to part with her,
 and retired with Lady Marlborough to the duke of Somerset's residence at
 Sion House. Anne was now in disgrace. She was deprived of her guard of
-honour, and Prince George, on entering Kensington Palace, received no
-salute, though the drums beat loudly on his departure.[6] Instructions
+honour, and Prince George, on entering [[Kensington]] Palace, received no
+salute, though the [[Drum|drums]] beat loudly on his departure.[6] Instructions
 were given that the court expected no one to pay his respects, and no
 attention in the provinces was to be shown to their rank. In May,
 Marlborough was arrested on a charge of high treason which subsequently
@@ -130,7 +130,7 @@ given birth to two children who only survived a few hours, and the last
 maternal hope flickered out on the death of the young prince on the 29th
 of July 1700. Henceforth Anne signs herself in her letters to Lady
 Marlborough as "your poor unfortunate" as well as "faithful Morley." In
-default of her own issue, Anne's personal choice would probably have
+[[Default|default]] of her own issue, Anne's personal choice would probably have
 inclined at this time to her own family at St Germains, but the
 necessity of maintaining the Protestant succession caused the enactment
 of the Act of Settlement in 1701, and the substitution of the Hanoverian
@@ -142,7 +142,7 @@ might have inclined her.
 
 On the 8th of March 1702 Anne became, by King William's death, queen of
 Great Britain, being crowned on the 23rd of April. Her reign was
-destined to be one of the most brilliant in the annals of England.
+destined to be one of the most brilliant in the [[Annals|annals]] of England.
 Splendid military triumphs crushed the hereditary national foe. The Act
 of Union with Scotland constituted one of the strongest foundations of
 the future empire. Art and literature found a fresh renascence.
@@ -158,14 +158,14 @@ captain-generalship and other prizes, including a dukedom, and the
 duchess was made mistress of the robes with the control of the privy
 purse. The queen showed from the first a strong interest in church
 matters, and declared her intention to keep church appointments in her
-own hands. She detested equally Roman Catholics and dissenters, showed a
+own hands. She detested equally Roman Catholics and [[Dissenter|dissenters]], showed a
 strong leaning towards the high-church party, and gave zealous support
 to the bill forbidding occasional conformity. In 1704 she announced to
 the Commons her intention of granting to the church the crown revenues,
 amounting to about 16,000 pounds or 17,000 pounds a year, from tenths
 and first-fruits (paid originally by the clergy to the pope, but
 appropriated by the crown in 1534), for the increase of poor livings;
-her gift, under the name of "Queen Anne's Bounty," still remaining as a
+her gift, under the name of "Queen Anne's [[Bounty]]," still remaining as a
 testimony of her piety. This devotion to the church, the strongest of
 all motives in Anne's conduct, dictated her hesitating attitude towards
 the two great parties in the state. The Tories had for this reason her
@@ -177,7 +177,7 @@ inevitably, gravitating towards the latter.
 In December, the archduke Charles visited Anne at Windsor and was
 welcomed as the king of Spain. In 1704 Anne acquiesced in the
 resignation of Lord Nottingham, the leader of the high Tory party. In
-the same year the great victory of Blenheim further consolidated the
+the same year the great victory of [[Blenheim]] further consolidated the
 power of the Whigs and increased the influence of Marlborough, upon whom
 Anne now conferred the manor of Woodstock. Nevertheless, she declared in
 November to the duchess that whenever things leaned towards the Whigs,
@@ -185,7 +185,7 @@ November to the duchess that whenever things leaned towards the Whigs,
 supported the election of the Whig speaker, John Smith, but long
 resisted the influence and claims of the _Junto_, as the Whig leaders,
 Somers, Halifax, Orford, Wharton and Sunderland, were named. In October
-she was obliged to appoint Cowper, a Whig, lord chancellor, with all the
+she was obliged to appoint [[Cowper]], a Whig, lord chancellor, with all the
 ecclesiastical patronage belonging to the office. Marlborough's
 successive victories, and especially the factious conduct of the Tories,
 who in November 1705 moved in parliament that the electress Sophia
@@ -197,8 +197,8 @@ and rewards were bestowed upon Whigs, and Nottingham with other Tories
 was removed from the council. She yielded, after a struggle, also to the
 appointment of Whigs to bishoprics, the most mortifying submission of
 all. In 1708 she was forced to dismiss Harley, who, with the aid of Mrs
-Masham, had been intriguing against the government and projecting the
-creation of a third party. Abigail Hill, Mrs Masham, a cousin of the
+[[Masham]], had been intriguing against the government and projecting the
+creation of a third party. Abigail Hill, Mrs Masham, a [[Cousin|cousin]] of the
 duchess of Marlborough, had been introduced by the latter as a poor
 relation into Anne's service, while still princess of Denmark. The queen
 found relief in the quiet and respectful demeanour of her attendant, and
@@ -209,10 +209,10 @@ her protegee had already undermined her influence with the queen and had
 become the medium of Harley's intrigue. The strength of the Whigs at
 this time and the necessities of the war caused the retirement of
 Harley, but he remained Anne's secret adviser and supporter against the
-faction, urging upon her "the dangers to the crown as well as to the
+[[Faction|faction]], urging upon her "the dangers to the crown as well as to the
 church and monarchy itself from their counsels and actions,"[9] while
 the duchess never regained her former influence. The inclusion in the
-cabinet of Somers, whom she especially disliked as the hostile critic of
+[[Cabinet|cabinet]] of Somers, whom she especially disliked as the hostile critic of
 Prince George's admiralty administration, was the subject of another
 prolonged struggle, ending again in the queen's submission after a
 futile appeal to Marlborough in October 1708, to which she brought
@@ -225,14 +225,14 @@ informing the duchess of the termination of their friendship, and the
 latter drawing up a long narrative of her services, which she forwarded
 to Anne together with suitable passages on the subject of friendship and
 charity transcribed from the Prayer Book, the _Whole Duty of Man_ and
-from Jeremy Taylor.[10] Next year Anne's desire to give a regiment to
+from [[Jeremy]] Taylor.[10] Next year Anne's desire to give a regiment to
 Hill, Mrs Masham's brother, led to another ineffectual attempt in
 retaliation to displace the new favourite, and the queen showed her
 antagonism to the Whig administration on the occasion of the prosecution
 of Sacheverell. She was present at his trial and was publicly acclaimed
 by the mob as his supporter, while the Tory divine was consoled
 immediately on the expiration of his sentence with the living of St
-Andrew's, Holborn. Subsequently the duchess, in a final interview which
+Andrew's, [[Holborn]]. Subsequently the duchess, in a final interview which
 she had forced upon the queen, found her tears and reproaches
 unavailing. In her anger she had told the queen she wished for no
 answer, and she was now met by a stony and exasperating silence, broken
@@ -249,7 +249,7 @@ of the exchequer and Henry St John secretary of state. The queen was
 rejoiced at being freed from what she called a long captivity, and the
 new parliament was returned with a Tory majority. On the 17th of January
 1711, in spite of Marlborough's efforts to ward off the blow, the
-duchess was compelled to give up her key of office. The queen was now
+duchess was compelled to give up her [[Key|key]] of office. The queen was now
 able once more to indulge in her favourite patronage of the church, and
 by her influence an act was passed in 1712 for building fifty new
 churches in London. Later, in 1714, she approved of the Schism Bill. She
@@ -258,7 +258,7 @@ the intrigues and negotiations for peace. Owing to the alliance between
 the Tory Lord Nottingham and the Whigs, on the condition of the support
 by the latter of the bill against occasional conformity passed in
 December 1711, the defeated Whigs maintained a majority in the Lords,
-who declared against any peace which left Spain to the Bourbons. To
+who declared against any peace which left Spain to the [[Bourbon|Bourbons]]. To
 break down this opposition Marlborough was dismissed on the 31st from
 all his employments, while the House of Lords was "swamped" by Anne's
 creation of twelve peers,[11] including Mrs Masham's husband. The
@@ -269,7 +269,7 @@ London.
 
 As the queen's reign drew to its close, rumours were rife on the great
 subject of the succession to the throne. Various Jacobite appointments
-excited suspicion. Both Oxford and Bolingbroke were in communication
+excited suspicion. Both Oxford and [[Bolingbroke]] were in communication
 with the Pretender's party, and on the 27th of July Oxford, who had
 gradually lost influence and quarrelled with Bolingbroke, resigned,
 leaving the supreme power in the hands of the latter. Anne herself had a
@@ -298,7 +298,7 @@ resembled Queen Elizabeth, of any "successor," "it being a thing I
 cannot bear to have any successor here though but for a week"; and in
 spite of some appearances to the contrary, it is certain that religion
 and political wisdom kept Anne firm to the Protestant succession.[12]
-She had maintained a friendly correspondence with the court of Hanover
+She had maintained a friendly correspondence with the court of [[Hanover]]
 since 1705, and in 1706 had bestowed the Garter on the electoral prince
 and created him duke of Cambridge; while the Regency Act provided for
 the declaration of the legal heir to the crown by the council
@@ -311,7 +311,7 @@ government." The duchess of Marlborough stated in 1713 that all the time
 she had known "that thing" (as she now called the queen), "she had never
 heard her speak a favourable word of him."[13] No answer appears to have
 been sent to James's letter in 1714; on the contrary, a proclamation was
-issued (June 23) for his apprehension in case of his arrival in England.
+issued (June 23) for his [[Apprehension|apprehension]] in case of his arrival in England.
 On the 27th of April Anne gave a solemn assurance of her fidelity to the
 Hanoverian succession to Sir William Dawes, archbishop of York; in June
 she sent Lord Clarendon to Hanover to satisfy the elector.
@@ -326,7 +326,7 @@ cause of the success of the Revolution, and now the final act of her
 life was to secure the Revolution settlement and the Protestant
 succession. During a last moment of returning consciousness, and by the
 advice of the whole council, who had been joined on their own initiative
-by the Whig dukes Argyll and Somerset, she placed the lord treasurer's
+by the Whig [[Dukes|dukes]] Argyll and Somerset, she placed the lord treasurer's
 staff in the hands of the Whig duke of Shrewsbury, and measures were
 immediately taken for assuring the succession of the elector. Her death
 took place on the 1st of August, and the security felt by the public,
@@ -338,7 +338,7 @@ Hanover, George Louis, son of the electress Sophia (daughter of
 Elizabeth, daughter of James I.), peacefully succeeded to the throne as
 George I. (q.v.).
 
-According to her physician Arbuthnot, Anne's life was shortened by the
+According to her physician [[Arbuthnot]], Anne's life was shortened by the
 "scene of contention among her servants. I believe sleep was never more
 welcome to a weary traveller than death was to her." By character and
 temperament unfitted to stand alone, her life had been unhappy and
@@ -377,7 +377,7 @@ duchess she had "a certain knack of sticking to what had been dictated
 to her to a degree often very disagreeable, and without the least sign
 of understanding or judgment."[16] "I desire you would not have so ill
 an opinion of me," Anne writes to Oxford, "as to think when I have
-determined anything in my mind I will alter it."[17] Burnet considered
+determined anything in my mind I will alter it."[17] [[Burnet]] considered
 that "she laid down the splendour of a court too much," which was "as it
 were abandoned." She dined alone after her husband's death, but it was
 reported by no means abstemiously, the royal family being characterized
@@ -388,13 +388,13 @@ in the lines:--
    Prince George drinks all,
    And Princess Anne eats all."[18]
 
-She took no interest in the art, the drama or the literature of her day.
+She took no interest in the art, the [[Drama|drama]] or the literature of her day.
 But she possessed the homely virtues; she was deeply religious, attached
 to the Church of England and concerned for the efficiency of the
 ministry. One of the first acts of her reign was a proclamation against
-vice, and Lord Chesterfield regretted the strict morality of her court.
+vice, and Lord [[Chesterfield]] regretted the strict morality of her court.
 Instances abound of her kindness and consideration for others. Her
-moderation towards the Jacobites in Scotland, after the Pretender's
+moderation towards the [[Jacobites]] in Scotland, after the Pretender's
 expedition in 1708, was much praised by Saint Simon. She showed great
 forbearance and generosity towards the duchess of Marlborough in the
 face of unexampled provocation, and her character was unduly disparaged
@@ -403,7 +403,7 @@ understand the queen's self-restraint in sorrow, and describes her as
 "very hard" and as "not apt to cry." According to her small ability she
 served the state well, and was zealous and conscientious in the
 fulfilment of public duties, in which may be included touching for the
-king's evil, which she revived. Marlborough testifies to her energy in
+[[King'S Evil|king's evil]], which she revived. Marlborough testifies to her energy in
 finding money for the war. She surrendered 10,000 pounds a year for
 public purposes, and in 1706 she presented 30,000 pounds to the officers
 and soldiers who had lost their horses. Her contemporaries almost
@@ -420,7 +420,7 @@ blue eyes and good features, and of grave aspect.
 Anne's husband, Prince George (1653-1708), was the second son of
 Frederick III., king of Denmark. Before marrying Anne he had been a
 candidate for the throne of Poland. He was created earl of Kendal and
-duke of Cumberland in 1689. Some censure, which was directed against the
+duke of [[Cumberland]] in 1689. Some censure, which was directed against the
 prince in his capacity as lord high admiral, was terminated by his
 death. In religion George remained a Lutheran, and in general his
 qualities tended to make him a good husband rather than a soldier or a
@@ -432,11 +432,11 @@ statesman.
   Prussia, printed in the _Eng. Hist. Rev._ ii. 757; histories of
   Stanhope, Lecky, Ranke, Macaulay, Boyes, Burnet, Wyon, and Somerville;
   F.E. Morris, _The Age of Anne_ (London, 1877); _Correspondence and
-  Diary of Lord Clarendon_ (1828); _Hatton Correspondence_ (Camden Soc.,
+  Diary of Lord Clarendon_ (1828); _[[Hatton]] Correspondence_ (Camden Soc.,
   1878); Evelyn's _Diary_; Sir J. Dalrymple's _Memoirs_ (1790); N.
   Luttrell's _Brief Hist. Relation_ (1857); _Wentworth Papers_ (1883);
-  W. Coxe, _Mem. of the Duke of Marlborough_ (1847); Conduct of the
-  Dowager Duchess of Marlborough (1742); Ralph, _The other Side of the
+  W. [[Coxe]], _Mem. of the Duke of Marlborough_ (1847); Conduct of the
+  [[Dowager]] Duchess of Marlborough (1742); Ralph, _The other Side of the
   Question_ (1742); _Private Correspondence of Sarah Duchess of
   Marlborough_ (1838); A. T, Thomson, _Mem. of the Duchess and the Court
   of Queen Anne_ (1839); J.S. Clarke's _Life of James II._ (1816); J.
@@ -445,7 +445,7 @@ statesman.
   Behaviour of the Queen's last Ministry, Hist. of the Four Last Years
   of Queen Anne_, and _Journals and Letters; The Lockhart Papers_
   (1817), i.; F. Salomon, _Geschichte des letzten Ministeriums Konigin
-  Annas_ (1894); _Marchmont Papers_, iii. (1831); W. Sichel _Life of
+  [[Anna|Annas]]_ (1894); _[[Marchmont]] Papers_, iii. (1831); W. Sichel _Life of
   Bolingbroke_ (1901-1902); _Mem. of Thomas Earl of Ailesbury_
   (Roxburghe Club, 1890); _Eng. Hist. Rev._ i. 470, 756, viii. 740;
   _Royal Hut. Soc. Trans._ N.S. xiv. 69; _Col. of State Papers;
@@ -457,7 +457,7 @@ statesman.
   Mackintosh's Transcripts, _Add. MSS._ in Brit. Museum, 34, 487-526;
   _Edinburgh Rev._, October 1835, p. 1; _Notes and Queries_, vii. ser.
   iii. 178, viii. ser. i. 72, xii. 368, ix, ser. iv. 282, xi, 254; C.
-  Hodgson, _An Account of the Augmentation of Small Livings by the
+  Hodgson, _An Account of the [[Augmentation]] of Small Livings by the
   Bounty of Queen Anne_ (1845); _Observations of the Governors of Queen
   Anne's Bounty_ (1867); _Somers Tracts_, xii. xiii. (1814-1815); H.
   Paul, _Queen Anne_ (London, 1907).     (P. C. Y.)

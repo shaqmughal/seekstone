@@ -10,7 +10,7 @@ id: 42-5331
 
 ENCYCLICAL (from Late Lat. _encyclicus_, for _encyclius_ = Gr. [Greek:
 enkyklios], from [Greek: en] and [Greek: kyklos], "a circle"), an
-ecclesiastical epistle intended for general circulation, now almost
+ecclesiastical [[Epistle|epistle]] intended for general circulation, now almost
 exclusively used of such letters issued by the pope. The forms
 _encyclica_ and _encyclic_ are sometimes, but more rarely, used. The old
 adjectival use of the word in the sense of "general" (encircling) is now
@@ -40,7 +40,7 @@ omnium disciplina," instruction in all branches of learning. Strabo
 enkyklion]. Tzetzes (_Chiliades_, xi. 527), quoting from Porphyry's
 _Lives of the Philosophers_, says that [Greek: enkyklia mathêmata] was
 the circle of grammar, rhetoric, philosophy and the four arts under it,
-arithmetic, music, geometry and astronomy. Zonaras explains it as
+[[Arithmetic|arithmetic]], music, geometry and [[Astronomy|astronomy]]. Zonaras explains it as
 grammar, poetry, rhetoric, philosophy, mathematics and simply every art
 and science ([Greek: aplôs pasa technê kai epistêmê]), because sophists
 go through them as through a circle. The idea seems to be a complete
@@ -60,7 +60,7 @@ explains "Encyclios et Encyclia, the cykle or course of all doctrines,"
 and "Encyclopedia, that lernynge whiche comprehendeth all lyberall
 science and studies." The term does not seem to have been used as the
 title of a book by the ancients or in the middle ages. The edition of
-the works of Joachimus Fortius Ringelbergius, printed at Basel in 1541,
+the works of Joachimus Fortius Ringelbergius, printed at [[Basel]] in 1541,
 is called on the title-page _Lucubrationes vel potius absolutissima_
 [Greek: kyklopaideia]. Paulus Scalichius de Lika, an Hungarian count,
 wrote _Encyclopaediae seu orbis disciplinarum epistemon_ (Basileae,
@@ -72,19 +72,19 @@ now the most usual sense in which the word encyclopaedia is used--a book
 treating of all the various kinds of knowledge. The form "cyclopaedia"
 is not merely without any appearance of classical authority, but is
 etymologically less definite, complete and correct. For as Cyropaedia
-means "the instruction of Cyrus," so cyclopaedia may mean "instruction
+means "the instruction of [[Cyrus]]," so cyclopaedia may mean "instruction
 of a circle." Vossius says, "Cyclopaedia is sometimes found, but the
 best writers say encyclopaedia" (_De vitiis sermonis_, 1645, p. 402).
-Gesner says, "[Greek: kyklos] est _circulus_, quae figura est
+[[Gesner]] says, "[Greek: kyklos] est _circulus_, quae figura est
 simplicissima et perfectissima simul: nam incipi potest ubicunque in
 illa et ubicunque cohaeret. _Cyclopaedia_ itaque significat omnem
 doctrinarum scientiam inter se cohaerere; _Encyclopaedia_ est
 institutio in illo circulo." (_Isagoge_, 1774, i. 40).
 
 In a more restricted sense, encyclopaedia means a system or
-classification of the various branches of knowledge, a subject on which
+[[Classification|classification]] of the various branches of knowledge, a subject on which
 many books have been published, especially in Germany, as Schmid's
-_Allgemeine Encyklopädie und Methodologie der Wissenschaften_ (Jena,
+_Allgemeine Encyklopädie und Methodologie der Wissenschaften_ ([[Jena]],
 1810, 4to, 241 pages). In this sense the _Novum Organum_ of Bacon has
 often been called an encyclopaedia. But it is "a grammar only of the
 sciences: a cyclopaedia is not a grammar, but a dictionary; and to
@@ -93,7 +93,7 @@ a distinction which it is fortunate that terms have been coined to
 convey" (_Quarterly Review_, cxiii. 354). Fortunius Licetus, an Italian
 physician, entitled several of his dissertations on Roman altars and
 other antiquities encyclopaedias (as, for instance, _Encyclopaedia ad.
-Aram mysticam Nonarii,_ Pataviae, 1631, 4to), because in composing them
+[[Aram]] mysticam Nonarii,_ Pataviae, 1631, 4to), because in composing them
 he borrowed the aid of all the sciences. The _Encyclopaedia moralis_ of
 Marcellinus de Pise (Paris, 1646, fol., 4 vols.) is a series of sermons.
 Encyclopaedia is often used to mean a book which is, or professes to be,
@@ -102,8 +102,8 @@ particular subject, as Blaine's work, _The Encyclopaedia of Rural Sports_
 (London, 1852); _The Encyclopaedia of Wit_ (London, 1803); _The Vocal
 Encyclopaedia_ (London, 1807, 16mo), a collection of songs, catches, &c.
 The word is frequently used for an alphabetical dictionary treating fully
-of some science or subject, as Murray, _Encyclopaedia of Geography_
-(London, 1834); Lefebvre Laboulaye, _Encyclopédie technologique:
+of some science or subject, as Murray, _Encyclopaedia of [[Geography]]_
+(London, 1834); [[Lefebvre]] Laboulaye, _Encyclopédie technologique:
 Dictionnaire des arts et manufactures_ (Paris, 1845-1847). Whether under
 the name of "dictionary" or "encyclopaedia" large numbers of this class
 of reference-work have been published. These are essentially
@@ -114,21 +114,21 @@ Encyclopedia_, in 12 vols. (1901), a descriptive record of the history,
 religion, literature and customs of the Jewish people from the earliest
 times; the _Encyclopaedia of Sport_, 2 vols. (1897-1898); Holtzendorff's
 _Encyklopädie der Rechtswissenschaft_ (1870; an edition in 2 vols.,
-1904); the _Dictionary of Political Economy_, edited by R.H. Inglis
+1904); the _Dictionary of Political Economy_, edited by R.H. [[Inglis]]
 Palgrave, 3 vols. (1894; reprinted 1901); the Encyclopaedia Biblica,
-edited by T.K. Cheyne and J. Sutherland Black, 4 vols. (1899-1903); the
-_Dictionary of the Bible_, edited by James Hastings, 4 vols., with a
+edited by T.K. [[Cheyne]] and J. Sutherland Black, 4 vols. (1899-1903); the
+_Dictionary of the Bible_, edited by James [[Hastings]], 4 vols., with a
 supplementary volume (1904); an interesting series is the _Répertoire
 général du commerce_, dealing with the foreign trade of France, of which
 one part, the _Encyclopaedia of Trade between the United States of
-America and France_, with a preface by M. Gabriel Hanotaux, appeared, in
+America and France_, with a preface by M. Gabriel [[Hanotaux]], appeared, in
 French and English, in 1904.
 
 The great Chinese encyclopaedias are referred to in the article on
 CHINESE LITERATURE. It will be sufficient to mention here the _Wên hien
 t'ung k'ao_, compiled by Ma Twa-lin in the 14th century, the
 encyclopaedia ordered to be compiled by the Emperor Yung-loh in the 15th
-century, and the _Ku Kin t'u shu thi ch'êng_ prepared for the Emperor
+century, and the _Ku [[Kin]] t'u shu thi ch'êng_ prepared for the Emperor
 K'ang-hi (d. 1721), in 5020 volumes. A copy of this enormous work, bound
 in some 700 volumes, is in the British Museum.
 
@@ -138,16 +138,16 @@ described generally:--book 1, preface; book 2, cosmography, astronomy
 and meteorology; books 3 to 6, geography; books 7 to 11, zoology,
 including man, and the invention of the arts; books 12 to 19, botany;
 books 20 to 32, medicines, vegetable and animal remedies, medical
-authors and magic; books 33 to 37, metals, fine arts, mineralogy and
+authors and magic; books 33 to 37, metals, [[Fine Arts|fine arts]], mineralogy and
 mineral remedies. Pliny, who died A.D. 79, was not a naturalist, a
 physician or an artist, and collected his work in his leisure intervals
 while engaged in public affairs. He says it contains 20,000 facts (too
 small a number by half, says Lemaire), collected from 2000 books by 100
-authors. Hardouin has given a list of 464 authors quoted by him. His
+authors. [[Hardouin]] has given a list of 464 authors quoted by him. His
 work was a very high authority in the middle ages, and 43 editions of it
 were printed before 1536.
 
-Martianus Minneus Felix Capella, an African, wrote (early in the 5th
+Martianus Minneus [[Felix]] [[Capella]], an African, wrote (early in the 5th
 cent.), in verse and prose, a sort of encyclopaedia, which is important
 from having been regarded in the middle ages as a model storehouse of
 learning, and used in the schools, where the scholars had to learn the
@@ -155,10 +155,10 @@ verses by heart, as a text-book of high-class education in the arts. It
 is sometimes entitled _Satyra_, or _Satyricon_, but is usually known as
 _De nuptiis Philologiae et Mercurii_, though this title is sometimes
 confined to the first two books, a rather confused allegory ending with
-the apotheosis of Philologia and the celebration of her marriage in the
-milky way, where Apollo presents to her the seven liberal arts, who, in
+the [[Apotheosis|apotheosis]] of Philologia and the celebration of her marriage in the
+milky way, where [[Apollo]] presents to her the seven liberal arts, who, in
 the succeeding seven books, describe their respective branches of
-knowledge, namely, grammar, dialectics (divided into metaphysics and
+knowledge, namely, grammar, [[Dialectic|dialectics]] (divided into metaphysics and
 logic), rhetoric, geometry (geography, with some single geometrical
 propositions), arithmetic (chiefly the properties of numbers), astronomy
 and music (including poetry). The style is that of an African of the 5th
@@ -166,7 +166,7 @@ century, full of grandiloquence, metaphors and strange words. He seldom
 mentions his authorities, and sometimes quotes authors whom he does not
 even seem to have read. His work was frequently copied in the middle
 ages by ignorant transcribers, and was eight times printed from 1499 to
-1599. The best annotated edition is by Kopp (Frankfort, 1836, 4to), and
+1599. The best annotated edition is by Kopp ([[Frankfort]], 1836, 4to), and
 the most convenient and the best text is that of Eysserhardt (Lipsiae,
 1866, 8vo).
 
@@ -181,16 +181,16 @@ into books, as it was left unfinished, and divided only into titles.
   contain 448 chapters, and are:--1, grammar (Latin); 2, rhetoric and
   dialectics; 3, the four mathematical disciplines--arithmetic,
   geometry, music and astronomy; 4, medicine; 5, laws and times
-  (chronology), with a short chronicle ending in 627; 6, ecclesiastical
+  ([[Chronology|chronology]]), with a short chronicle ending in 627; 6, ecclesiastical
   books and offices; 7, God, angels and the orders of the faithful; 8,
   the church and sects; 9, languages, society and relationships; 11, man
   and portents; 12, animals, in eight classes, namely, pecora et
   jumenta, beasts, small animals (including spiders, crickets and ants),
   serpents, worms, fishes, birds and small winged creatures, chiefly
-  insects; 13, the world and its parts; 14, the earth and its parts,
-  containing chapters on Asia, Europe and Libya, that is, Africa; 15,
-  buildings, fields and their measures; 16, stones (of which one is
-  echo) and metals; 17, de rebus rusticis; 18, war and games; 19, ships,
+  [[Insect|insects]]; 13, the world and its parts; 14, the earth and its parts,
+  containing chapters on Asia, Europe and [[Libya]], that is, Africa; 15,
+  buildings, [[Fields|fields]] and their measures; 16, stones (of which one is
+  echo) and metals; 17, de rebus rusticis; 18, war and [[Games|games]]; 19, ships,
   buildings and garments; 20, provisions, domestic and rustic
   instruments.
 
@@ -203,19 +203,19 @@ Yet his work was a great one for the time, and for many centuries was a
 much valued authority and a rich source of material for other works, and
 he had a high reputation for learning both in his own time and in
 subsequent ages. His _Etymologies_ were often imitated, quoted and
-copied. MSS. are very numerous: Antonio (whose editor, Bayer, saw nearly
+copied. MSS. are very numerous: [[Antonio]] (whose editor, Bayer, saw nearly
 40) says, "plures passimque reperiuntur in bibliothecarum angulis." This
 work was printed nine times before 1529.
 
 Hrabanus Maurus, whose family name was Magnentius, was educated in the
-abbey of Fulda, ordained deacon in 802 ("Annales Francorum" in Bouquet,
-_Historiens de la France_, v. 66), sent to the school of St Martin of
+abbey of [[Fulda]], ordained deacon in 802 ("Annales Francorum" in Bouquet,
+_Historiens de la France_, v. 66), sent to the school of St [[Martin]] of
 Tours, then directed by Alcuin, where he seems to have learned Greek,
 and is said by Trithemius to have been taught Hebrew, Syriac and Chaldee
-by Theophilus an Ephesian. In his _Commentaries on Joshua_ (lib. ii. c.
+by Theophilus an Ephesian. In his _Commentaries on [[Joshua]]_ (lib. ii. c.
 5) he speaks of having resided at Sidon. He returned to Fulda and taught
 the school there. He became abbot of Fulda in 822, resigned in April
-842, was ordained archbishop of Mainz on the 26th of July 847, and died
+842, was ordained archbishop of [[Mainz]] on the 26th of July 847, and died
 on the 4th of February 856. He compiled an encyclopaedia _De universo_
 (also called in some MSS. _De universali natura, De natura rerum,_ and
 _De origine rerum_) in 22 books and 325 chapters. It is chiefly a
@@ -238,12 +238,12 @@ presented to Louis the German, king of Bavaria, at Hersfeld in October
 Strassburg by Mentelin about 1472-1475, fol., 334 pages.
 
 Michael Constantine Psellus, the younger, wrote [Greek: Didaskalia
-pantodapê], dedicated to the emperor Michael Ducas, who reigned
-1071-1078. It was printed by Fabricius in his _Bibliotheca Graeca_
+pantodapê], dedicated to the emperor Michael [[Ducas]], who reigned
+1071-1078. It was printed by [[Fabricius]] in his _Bibliotheca Graeca_
 (1712), vol. v., in 186 pages 4to and 193 chapters, each containing a
 question and answer. Beginning with divinity, it goes on through natural
 history and astronomy, and ends with chapters on excessive hunger, and
-why flesh hung from a fig-tree becomes tender. As collation with a Turin
+why flesh hung from a fig-tree becomes tender. As [[Collation|collation]] with a Turin
 MS. showed that 35 chapters were wanting, Harles has omitted the text in
 his edition of Fabricius, and gives only the titles of the chapters (x.
 84-88).
@@ -264,14 +264,14 @@ and _historiale_. As Vincent did not know Greek or Arabic, he used Latin
 translations. This work is dealt with separately in the article on
 VINCENT OF BEAUVAIS.
 
-Brunetto Latini of Florence (born 1230, died 1294), the master of Dante
-and Guido Cavalcanti, while an exile in France between 1260 and 1267,
+Brunetto Latini of Florence (born 1230, died 1294), the master of [[Dante]]
+and Guido [[Cavalcanti]], while an exile in France between 1260 and 1267,
 wrote in French _Li Livres dou Tresor_, in 3 books and 413 chapters.
 Book i. contains the origin of the world, the history of the Bible and
 of the foundation of governments, astronomy, geography, and lastly
-natural history, taken from Aristotle, Pliny, and the old French
+natural history, taken from [[Aristotle]], Pliny, and the old French
 Bestiaries. The first part of Book ii., on morality, is from the
-_Ethics_ of Aristotle, which Brunetto had translated into Italian. The
+_[[Ethics]]_ of Aristotle, which Brunetto had translated into Italian. The
 second part is little more than a copy of the well-known collection of
 extracts from ancient and modern moralists, called the _Moralities of
 the Philosophers_, of which there are many MSS. in prose and verse. Book
@@ -281,7 +281,7 @@ Brunetto's remarks. The last part, the most original and interesting of
 all, treats of the government of the Italian republics of the time. Like
 many of his contemporaries, Brunetto revised his work, so that there are
 two editions, the second made after his return from exile. MSS. are
-singularly numerous, and exist in all the dialects then used in France.
+singularly numerous, and exist in all the [[Dialect|dialects]] then used in France.
 Others were written in Italy. It was translated into Italian in the
 latter part of the 13th century by Bono Giamboni, and was printed at
 Trevigi, 1474, fol., Venice, 1528 and 1533. The _Tesoro_ of Brunetto
@@ -291,22 +291,22 @@ _Tesoro_ printed with commentaries, and appointed a commission for the
 purpose. It was at last published in the _Collection des documents
 inédits_ (Paris, 1863, 4to, 772 pages), edited by Chabaille from 42 MSS.
 
-Bartholomew de Glanville, an English Franciscan friar, wrote about 1360
+Bartholomew de Glanville, an English Franciscan [[Friar|friar]], wrote about 1360
 a most popular work, _De proprietatibus rerum_, in 19 books and 1230
 chapters.
 
   Book 1 relates to God; 2, angels; 3, the soul; 4, the substance of the
   body; 5, anatomy; 6, ages; 7, diseases; 8, the heavens (astronomy and
-  astrology); 9, time; 10, matter and form; 11, air; 12, birds
-  (including insects, 38 names, Aquila to Vespertilio); 13, water (with
+  [[Astrology|astrology]]); 9, time; 10, matter and form; 11, air; 12, birds
+  (including insects, 38 names, [[Aquila]] to Vespertilio); 13, water (with
   fishes); 14, the earth (42 mountains, Ararath to Ziph); 15, provinces
-  (171 countries, Asia to Zeugia); 16, precious stones (including coral,
-  pearl, salt, 104 names, Arena to Zinguttes); 17, trees and herbs (197,
-  Arbor to Zucarum); 18, animals (114, Aries to Vipera); 19, colours,
-  scents, flavours and liquors, with a list of 36 eggs (Aspis to
+  (171 countries, Asia to Zeugia); 16, precious stones (including [[Coral|coral]],
+  pearl, salt, 104 names, [[Arena]] to Zinguttes); 17, trees and [[Herb|herbs]] (197,
+  Arbor to Zucarum); 18, animals (114, [[Aries]] to Vipera); 19, [[Colours|colours]],
+  scents, flavours and liquors, with a list of 36 [[Egg|eggs]] (Aspis to
   Vultur). Some editions add book 20, accidents of things, that is,
   numbers, measures, weights and sounds. The Paris edition of 1574 has a
-  book on bees.
+  book on [[Bee|bees]].
 
 There were 15 editions before 1500. An English translation was completed
 11th February 1398 by John Trevisa, and printed by Wynkyn de Worde,
@@ -315,29 +315,29 @@ additions by Stephen Batman, a physician, London, 1582, fol. It was
 translated into French by Jehan Corbichon at the command of Charles V.
 of France, and printed 14 times from 1482 to 1556. A Dutch translation
 was printed in 1479, and again at Haarlem, 1485, fol.; and a Spanish
-translation by Padre Vincente de Burgos, Tholosa, 1494, fol.
+translation by Padre Vincente de [[Burgos]], Tholosa, 1494, fol.
 
 Pierre Bersuire (Berchorius), a Benedictine, prior of the abbey of St
 Eloi in Paris, where he died in 1362, wrote a kind of encyclopaedia,
 chiefly relating to divinity, in three parts:--_Reductorium morale super
-totam Bibliam_, 428 _moralitates_ in 34 books on the Bible from Genesis
+totam Bibliam_, 428 _moralitates_ in 34 books on the Bible from [[Genesis]]
 to Apocalypse; _Reductorium morale de proprietatibus rerum_, in 14 books
 and 958 chapters, a methodical encyclopaedia or system of nature on the
 plan of Bartholomew de Glanville, and chiefly taken from him (Berchorius
 places animals next after fishes in books 9 and 10, and adopts as
 natural classes _volatilia_, _natatilia_ and _gressibilia_);
 _Dictionarius_, an alphabetical dictionary of 3514 words used in the
-Bible with moral expositions, occupying in the last edition 1558 folio
+Bible with moral expositions, occupying in the last edition 1558 [[Folio|folio]]
 pages. The first part was printed 11 times from 1474 to 1515, and the
 third 4 times. The three parts were printed together as _Petri Berchorii
 opera omnia_ (an incorrect title, for he wrote much besides), Moguntiae,
 1609, fol., 3 vols., 2719 pages; Coloniae Agrippinae, 1631, fol., 3
 vols.; _ib._ 1730-1731, fol., 6 vols., 2570 pages.
 
-A very popular small encyclopaedia, _Margarita philosophica_, in 12
+A very popular small encyclopaedia, _[[Margarita]] philosophica_, in 12
 books, divided into 26 tractates and 573 chapters, was written by Georg
-Reisch, a German, prior of the Carthusians of Freiburg, and confessor of
-the emperor Maximilian I. Books 1-7 treat of the seven liberal arts; 8,
+Reisch, a German, prior of the [[Carthusians]] of [[Freiburg]], and confessor of
+the emperor [[Maximilian]] I. Books 1-7 treat of the seven liberal arts; 8,
 9, principles and origin of natural things; 10, 11, the soul,
 vegetative, sensitive and intellectual; 12, moral philosophy. The first
 edition, Heidelberg, 1496, 4to, was followed by 8 others to 1535. An
@@ -346,7 +346,7 @@ published at Venice in 1594, 1138 small quarto pages, of which 343
 consist of additional tracts appended by the translator.
 
 Raphael Maffei, called Volaterranus, being a native of Volterra, where
-he was born in 1451 and died 5th January 1522, wrote _Commentarii
+he was born in 1451 and died 5th January 1522, wrote _[[Commentarii]]
 Urbani_ (Rome, 1506, fol., in 38 books), so called because written at
 Rome. This encyclopaedia, printed eight times up to 1603, is remarkable
 for the great importance given to geography, and also to biography, a
@@ -355,7 +355,7 @@ formed of three nearly equal parts,--geographia, 11 books; anthropologia
 (biography), 11 books; and philologia, 15 books. The books are not
 divided into short chapters in the ancient manner, like those of its
 predecessors. The edition of 1603 contains 814 folio pages. The first
-book consists of the table of contents and a classed index; books 2-12,
+book consists of the table of contents and a classed [[Index|index]]; books 2-12,
 geography; 13-23, lives of illustrious men, the popes occupying book 22,
 and the emperors book 23; 24-27, animals and plants; 28, metals, gems,
 stones, houses and other inanimate things; 34, de scientiis cyclicis
@@ -364,7 +364,7 @@ geometry, optica, catoptrica, astronomy and astrology; 36-38,
 Aristotelica (on the works of Aristotle).
 
 Giorgio Valla, born about 1430 at Placentia, and therefore called
-Placentinus, died at Venice in 1499 while lecturing on the immortality
+Placentinus, died at Venice in 1499 while lecturing on the [[Immortality|immortality]]
 of the soul. Aldus published his work, edited by his son Giovanni Pietro
 Valla, _De expetendis et fugiendis rebus_, Venetiis, 1501, fol. 2 vols.
 
@@ -375,33 +375,33 @@ Valla, _De expetendis et fugiendis rebus_, Venetiis, 1501, fol. 2 vols.
   external, coming from without); books 2-4, arithmetic; 5-9, music;
   10-15, geometry, including Euclid and mechanics--book 15 being in
   three long chapters--de spiritualibus, that is, pneumatics and
-  hydraulics, de catoptricis, and de optice; 16-19, astrology (with the
-  structure and use of the astrolabe); 20-23, physics (including
+  [[Hydraulics|hydraulics]], de catoptricis, and de optice; 16-19, astrology (with the
+  structure and use of the [[Astrolabe|astrolabe]]); 20-23, physics (including
   metaphysics); 24-30, medicine; 31-34, grammar; 35-37, dialectics; 38,
   poetry; 39, 40, rhetoric; 41, moral philosophy; 42-44, economics; 45,
   politics; 46-48, de corporis commodis et incommodis, on the good and
   evil of the body (and soul); 49, de rebus externis, as glory,
   grandeur, &c.
 
-Antonio Zara, born 1574, made bishop of Petina in Istria 1600, finished
+Antonio Zara, born 1574, made bishop of Petina in [[Istria]] 1600, finished
 on the 17th of January 1614 a work published as _Anatomia ingeniorum et
 scientiarum_, Venetiis, 1615, 4to, 664 pages, in four sections and 54
 membra. The first section, on the dignity and excellence of man, in 16
 membra, considers him in all his bodily and mental aspects. The first
 membrum describes his structure and his soul, and in the latter part
 contains the author's preface, the deeds of his ancestors, an account of
-himself, and the dedication of his book to Ferdinand, archduke of
+himself, and the [[Dedication|dedication]] of his book to [[Ferdinand]], archduke of
 Austria. Four membra treat of the discovery of character by chiromancy,
-physiognomy, dreams and astrology. The second section treats of 16
+physiognomy, [[Dream|dreams]] and astrology. The second section treats of 16
 sciences of the imagination--writing, magic, poetry, oratory,
 courtiership (aulicitas), theoretical and mystic arithmetic, geometry,
 architecture, optics, cosmography, astrology, practical medicine, war,
 government. The third section treats of 8 sciences of intellect--logic,
 physics, metaphysics, theoretical medicine, ethics, practical
-jurisprudence, judicature, theoretical theology. The fourth section
+[[Jurisprudence|jurisprudence]], judicature, theoretical theology. The fourth section
 treats of 12 sciences of memory--grammar, practical arithmetic, human
 history, sacred canons, practical theology, sacred history, and lastly
-the creation and the final catastrophe. The book, now very rare, is well
+the creation and the final [[Catastrophe|catastrophe]]. The book, now very rare, is well
 arranged, with a copious index, and is full of curious learning.
 
 Johann Heinrich Alsted, born 1588, died 1638, published _Encyclopaedia
@@ -422,7 +422,7 @@ of 119 pages.
   poetica, contains a list of 61 Rotwelsch words. III. Theoretic
   philosophy, 10 books:--book 11, metaphysics; 12, pneumatics (on
   spirits); 13, physics; 14, arithmetic; 15, geometry; 16, cosmography;
-  17, uranometria (astronomy and astrology); 18, geography (with maps of
+  17, uranometria (astronomy and astrology); 18, geography (with [[Map|maps]] of
   the Old World, eastern Mediterranean, and Palestine under the Old and
   New Testaments, and a plate of Noah's ark); 19, optics; 20, music. IV.
   Practical philosophy, 4 books:--21, ethics; 22, economics (on
@@ -432,7 +432,7 @@ of 119 pages.
   faculties:--25, theology; 26, jurisprudence; 27, medicine (ending with
   the rules of the Salernian school). VI. Mechanical arts in
   general:--book 28, mathematical mechanical arts; book 29, agriculture,
-  gardening, care of animals, baking, brewing, preparing medicines,
+  gardening, care of animals, [[Baking|baking]], brewing, preparing medicines,
   metallurgy (with mining); book 30, physical mechanical arts--printing,
   dialling, &c. Under paedutica (games) is Vida's Latin poem on chess,
   and one by Leuschner on the ludus Lorzius. VII. Farragines
@@ -445,7 +445,7 @@ of 119 pages.
   tabacologia, the nature, use and abuse of tobacco, &c.--in all 35
   articles in this book.
 
-Alsted's encyclopaedia was received with very great applause, and was
+Alsted's encyclopaedia was received with very great [[Applause|applause]], and was
 highly valued. Lami (_Entretiens_, 1684, p. 188) thought it almost the
 only encyclopaedia which did not deserve to be despised. Alsted's
 learning was very various, and his reading was very extensive and
@@ -472,8 +472,8 @@ acted with him in comedy.
 Louis Moréri (born on the 25th of March 1643 at Bargemont, in the
 diocese of Fréjus, died on the 10th of July 1680 at Paris) wrote a
 dictionary of history, genealogy and biography, _Le Grand Dictionnaire
-historique, ou le mélange curieux de l'histoire sacrée et profane_,
-Lyons, 1674, fol. He began a second edition on a larger scale, published
+historique, ou le mé[[Lange|lange]] curieux de l'histoire sacrée et profane_,
+[[Lyons]], 1674, fol. He began a second edition on a larger scale, published
 at Lyons in 1681, in two volumes folio; the sixth edition was edited by
 Jean le Clerc, Amsterdam, 1691, fol. 4 vols.; the twentieth and last
 edition, Paris, 1759, fol. 10 vols. Moréri's dictionary, still very
@@ -482,12 +482,12 @@ kind. It superseded the very inferior compilation of Juigné-Broissinère,
 _Dictionnaire théologique_, _historique_, _poétique_, _cosmographique_,
 _et chronologique_, Paris, 1644, 4to; Rouen, 1668, &c.,--a translation,
 with additions, of the _Dictionarium historicum_, _geographicum_, _et
-poëticum_ of Charles Estienne, published in 1553, 4to, and often
+poëticum_ of Charles [[Estienne]], published in 1553, 4to, and often
 afterwards. As such a work was much wanted, Juigné's book went through
 twelve editions in less than thirty years, notwithstanding its want of
-criticism, errors, anachronisms, defects and inferior style.
+criticism, [[Error|errors]], anachronisms, defects and inferior style.
 
-Johann Jacob Hofmann (born on the 11th of September 1635, died on the 10th
+Johann [[Jacob]] [[Hofmann]] (born on the 11th of September 1635, died on the 10th
 of March 1706), son of a schoolmaster at Basel, which he is said never to
 have left, and where he was professor of Greek and History, wrote _Lexicon
 universale historico-geographico-chronologico-poëtico-philologicum_,
@@ -535,7 +535,7 @@ of arts and sciences have followed Corneille in placing in their titles
 the arts before the sciences, which he probably did merely in order to
 differ from Furetière. Corneille professed to quote no author whom he
 had not consulted; to take plants from Dioscorides and Matthiolus,
-medicine from Ettmüller, chemistry from a MS. of Perrault, and
+medicine from Ettmüller, [[Chemistry|chemistry]] from a MS. of Perrault, and
 architecture, painting and sculpture from Félibien; and to give an
 abridged history of animals, birds and fishes, and an account of all
 religious and military orders and their statutes, heresiarchs and
@@ -548,12 +548,12 @@ make a dictionary of the errors and omissions of Moréri and others, but
 he was much embarrassed by the numerous editions and supplements of
 Moréri. A second edition with an additional volume appeared at Amsterdam
 in 1702, fol. 3 vols. The fourth edition, Rotterdam, 1720, fol. 4 vols.,
-was much enlarged from his manuscripts, and was edited by Prosper
+was much enlarged from his [[Manuscript|manuscripts]], and was edited by Prosper
 Marchand. It contains 3132 pages besides tables, &c. The ninth edition
 was published at Basel, 1741, fol. 10 vols. It was translated into
 English from the second edition, London, 1709, fol. 4 vols., with some
 slight additions and corrections by the author; and again from the fifth
-edition of 1730 by Birch and Lockman, London, 1734-1740, fol. 5 vols.
+edition of 1730 by [[Birch]] and Lockman, London, 1734-1740, fol. 5 vols.
 J.G. de Chaufepié published _Nouveau Dictionnaire historique_,
 Amsterdam, 1750-1756, fol. 4 vols., as a supplement to Bayle. It chiefly
 consists of the articles added by the English translators with many
@@ -596,7 +596,7 @@ works, and what we have of this book will not induce us to regret the
 want of the remainder.
 
 The first alphabetical encyclopaedia written in English was the work of
-a London clergyman, John Harris (born about 1667, elected first
+a London clergyman, John [[Harris]] (born about 1667, elected first
 secretary of the Royal Society on the 30th of November 1709, died on the
 7th of September 1719), _Lexicon technicum_, _or an universal English
 Dictionary of Arts and Sciences_, London, 1704, fol., 1220 pages, 4
@@ -611,13 +611,13 @@ common things. He omits theology, antiquity, biography and poetry; gives
 only technical history, geography and chronology; and in logic,
 metaphysics, ethics, grammar and rhetoric, merely explains the terms
 used. In mathematics and anatomy he professes to be very full, but says
-that the catalogues and places of the stars are very imperfect, as
+that the [[Catalogue|catalogues]] and places of the stars are very imperfect, as
 Flamsteed refused to assist him. In botany he gave from Ray, Morrison
 and Tournefort "a pretty exact botanick lexicon, which was what we
 really wanted before," with an account of all the "kinds and
 subalternate species of plants, and their specific differences" on Ray's
 method. He gave a table of fossils from Dr Woodward, professor of
-medicine in Gresham College, and took great pains to describe the parts
+medicine in [[Gresham]] College, and took great pains to describe the parts
 of a ship accurately and particularly, going often on board himself for
 the purpose. In law he abridged from the best writers what he thought
 necessary. He meant to have given at the end an alphabet for each art
@@ -628,7 +628,7 @@ _Philosophical Transactions_, 1704, p. 1699. This volume was reprinted
 in 1708. A second volume of 1419 pages and 4 plates appeared in 1710,
 with a list of about 1300 subscribers. Great part of it consisted of
 mathematical and astronomical tables, as he intended his work to serve
-as a small mathematical library. He was allowed by Sir Isaac Newton to
+as a small mathematical library. He was allowed by Sir [[Isaac]] Newton to
 print his treatise on acids. He gives a table of logarithms to seven
 figures of decimals (44 pages), and one of sines, tangents and secants
 (120 pages), a list of books filling two pages, and an index of the
@@ -643,14 +643,14 @@ dictionary was long very popular. The fifth edition was published in
 Ephraim Chambers's work (see below), but, being considered a
 bookseller's speculation, was not well received.
 
-Johann Hübner, rector of the Johanneum in Hamburg, born on the 17th of
+Johann Hübner, rector of the Johanneum in [[Hamburg]], born on the 17th of
 March 1668, wrote prefaces to two dictionaries written in German, which
 bore his name, and were long popular. The first was _Reales Staats
 Zeitungs- und Conversations-Lexicon_, Leipzig, 1704, 8vo; second edition,
 1706, 947 pages; at the end a register of arms, and indexes of Latin and
 French words; fifth edition, 1711; fifteenth edition 1735, 1119 pages.
 The thirty-first edition was edited and enlarged by F.A. Rüder, and
-published by Brockhaus, Leipzig, 1824-1828, 8vo, 4 vols., 3088 pages. It
+published by [[Brockhaus]], Leipzig, 1824-1828, 8vo, 4 vols., 3088 pages. It
 was translated into Hungarian by Fejer, Pesten, 1816, 8vo, 5 vols., 2958
 pages. The second, published as a supplement, was _Curieuses und reales
 Natur- Kunst- Berg- Gewerb- und Handlungs-Lexicon_, Leipzig, 1712, 8vo,
@@ -687,10 +687,10 @@ parts of some greater whole." Under each article he refers to the
 subject to which it belongs, and also to its subordinate parts; thus
 Copyhold has a reference to Tenure, of which it is a particular kind,
 and other references to Rolls, Custom, Manor, Fine, Charter-land and
-Freehold. In his preface he gives an "analysis of the divisions of
+[[Freehold]]. In his preface he gives an "analysis of the divisions of
 knowledge," 47 in number, with classed lists of the articles belonging
 to each, intended to serve as table of contents and also as a rubric or
-directory indicating the order in which the articles should be read. But
+[[Directory|directory]] indicating the order in which the articles should be read. But
 it does so very imperfectly, as the lists are curtailed by many _et
 caeteras_; thus 19 occur in a list of 119 articles under Anatomy, which
 has nearly 2200 articles in Rees's index. He omits etymologies unless
@@ -700,9 +700,9 @@ different forms, as _precipitate_, _precipitant_, _precipitation_, when
 each has an article; and he omits complex ideas generally known, and
 thus "gets free of a vast load of plebeian words." His work, he says, is
 a collection, not the produce of one man's wit, for that would go but a
-little way, but of the whole commonwealth of learning. "Nobody that fell
+little way, but of the whole [[Commonwealth|commonwealth]] of learning. "Nobody that fell
 in my way has been spared, antient or modern, foreign nor domestic,
-Christian or Jew nor heathen." To the subjects given by Harris he adds
+Christian or Jew nor [[Heathen|heathen]]." To the subjects given by Harris he adds
 theology, metaphysics, ethics, politics, logic, grammar, rhetoric and
 poetry, but excludes history, biography, genealogy, geography and
 chronology, except their technical parts. A second edition appeared in
@@ -722,7 +722,7 @@ proposals to publish an edition there dedicated to Louis XV. His work
 was judiciously, honestly and carefully done, and long maintained its
 popularity. But it had many defects and omissions, as he was well aware;
 and at his death, on the 15th of May 1740, he had collected and arranged
-materials for seven new volumes. John Lewis Scott was employed by the
+materials for seven new volumes. John [[Lewis]] Scott was employed by the
 booksellers to select such articles as were fit for the press and to
 supply others. He is said to have done this very efficiently until
 appointed sub-preceptor to the prince of Wales and Prince Edward. His
@@ -746,16 +746,16 @@ reprints.
 One of the largest and most comprehensive encyclopaedias was undertaken
 and in a great measure completed by Johann Heinrich Zedler, a bookseller
 of Leipzig, who was born at Breslau 7th January 1706, made a Prussian
-commerzienrath in 1731, and died at Leipzig in 1760,--_Grosses
+commerzienrath in 1731, and died at Leipzig in 1760,--_[[Grosse|Grosses]]
 vollständiges Universal Lexicon Aller Wissenschaften und Künste welche
 bishero durch menschlichen Verstand und Witz erfunden und verbessert
-worden_, Halle and Leipzig, 1732-1750, fol. 64 vols., 64,309 pages; and
+worden_, [[Halle]] and Leipzig, 1732-1750, fol. 64 vols., 64,309 pages; and
 _Nöthige Supplement_, ib. 1751-1754, vols. i. to iv., A to Caq, 3016
 pages. The columns, two in a page, are numbered, varying from 1356 in
 vol. li. to 2588 in vol. xlix. Each volume has a dedication, with a
 portrait. The first nine are the emperor, the kings of Prussia and
 Poland, the empress of Russia, and the kings of England, France, Poland,
-Denmark and Sweden. The dedications, of which two are in verse, and all
+[[Denmark]] and Sweden. The dedications, of which two are in verse, and all
 are signed by Zedler, amount to 459 pages. The supplement has no
 dedications or portraits. The preface to the first volume of the work is
 by Johann Peter von Ludewig, chancellor of the university of Halle (born
@@ -778,7 +778,7 @@ where all sciences are taught and studied, are on that account called
 _universities_, and their teaching is called _studium universale_; but
 the _Universal Lexicon_ contains not only what they teach in theology,
 jurisprudence, medicine, philosophy, history, mathematics, &c., but
-also many other things belonging to courts, chanceries, hunting,
+also many other things belonging to courts, chanceries, [[Hunting|hunting]],
 forests, war and peace, and to artists, artizans, housekeepers and
 merchants not thought of in colleges. Its plan embraces not only
 history, geography and biography, but also genealogy, topography, and
@@ -799,9 +799,9 @@ subjects, especially topography, genealogy and biography. The
 genealogies and family histories are excellent, and many particulars are
 given of the lives and works of authors not easily found elsewhere.
 
-A work on a new plan was published by Dennis de Coetlogon, a Frenchman
-naturalized in England, who styled himself "Knight of St Lazare, M.D.,
-and member of the Royal Academy of Angers"--_An Universal History of
+A work on a new plan was published by [[Dennis]] de Coetlogon, a Frenchman
+naturalized in England, who styled himself "[[Knight]] of St Lazare, M.D.,
+and member of the Royal Academy of [[Angers]]"--_An Universal History of
 Arts and Sciences_, London, 1745, fol. 2 vols., 2529 pages, 33 plates
 and 161 articles arranged alphabetically. He "endeavours to render each
 treatise as complete as possible, avoiding above all things needless
@@ -810,7 +810,7 @@ Theology is divided into several treatises; Philosophy into Ethicks,
 Logick and Metaphysick, each under its letter; and Physick is subdivided
 into Anatomy, Botany, Geography, Geometry, &c. Military Art is divided
 into Army, Fortification, Gunnery. The royal licence is dated 13th March
-1740-1741, the dedication is to the duke of Gisors, the pages are
+1740-1741, the dedication is to the duke of [[Gisors]], the pages are
 numbered, there is an appendix of 35 pages of astronomical tables, and
 the two indexes, one to each volume, fill 69 pages, and contain about
 9000 subjects. The type is large and the style diffuse, but the subject
@@ -867,21 +867,21 @@ informal, and obtained another for himself dated the 21st of January
 unscrupulous publisher ought to have made him acquainted, Mills was
 despoiled of the work he had both planned and executed, and had to
 return to England. Jean Paul de Gua de Malves, professor of philosophy
-in the college of France (born at Carcassonne in 1713, died on the 15th
+in the college of France (born at [[Carcassonne]] in 1713, died on the 15th
 of June 1785), was then engaged as editor merely to correct errors and
 add new discoveries. But he proposed a thorough revision, and obtained
 the assistance of many learned men and artists, among whom Desessarts
-names Louis, Condillac, d'Alembert and Diderot. But the publishers did
+names Louis, Condillac, d'Alembert and [[Diderot]]. But the publishers did
 not think his reputation high enough to ensure success, withheld their
 confidence, and often opposed his plans as too expensive. Tired at last
 of disputes, and too easily offended, de Gua resigned the editorship.
 The publishers, who had already made heavy advances, offered it to
 Diderot, who was probably recommended to them by his very well received
 _Dictionnaire universel de medicine_, Paris, 1746-1748, fol. 6 vols.,
-published by Briasson, David and Durand, with notes and additions by
+published by Briasson, David and [[Durand]], with notes and additions by
 Julien Busson, doctor regent of the faculty of medicine of Paris. It was
 a translation, made with the assistance of Eidous and Toussaint, of the
-celebrated work of Dr Robert James, inventor of the fever powders, _A
+celebrated work of Dr Robert James, inventor of the [[Fever|fever]] powders, _A
 Medicinal Dictionary_, London, 1743-1745, fol. 3 vols., 3275 pages and
 98 plates, comprising a history of drugs, with chemistry, botany and
 natural history so far as they relate to medicine, and with an
@@ -905,16 +905,16 @@ least 600 plates. The first volume was published in July 1751, and
 delivered to the subscribers in August. The second appeared in January
 1752. An _arrêt_ of the council, 9th of February, suppressed both
 volumes as injurious to the king's authority and to religion.
-Malesherbes, director-general of the Librairie, stopped the issue of
+[[Malesherbes]], director-general of the Librairie, stopped the issue of
 volume ii., 9th of February, and on the 21st went with a _lettre de
 cachet_ to Lebreton's to seize the plates and the MSS., but did not
-find, says Barbier, even those of volume iii., as they had been taken to
-his own house by Diderot and one of the publishers. The Jesuits tried
+find, says Barbier, even those of [[Volume Iii|volume iii]]., as they had been taken to
+his own house by Diderot and one of the publishers. The [[Jesuits]] tried
 to continue the work, but in vain. It was less easy, says Grimm, than to
 ruin philosophers. The _Dictionnaire de Trévoux_ pronounced the
 completion of the _Encyclopédie_ impossible, and the project ridiculous
 (5th edition, 1752, iii, 750). The government had to request the editors
-to resume the work as one honourable to the nation. The marquis
+to resume the work as one [[Honourable|honourable]] to the nation. The marquis
 d'Argenson writes, 7th of May 1752, that Mme de Pompadour had been
 urging them to proceed, and at the end of June he reports them as again
 at work. Volume iii., rather improved by the delay, appeared in October
@@ -934,7 +934,7 @@ them to me, they will not look for them there." This, according to Mme
 de Vandeul, Diderot's daughter, was done with perfect success. In the
 article Pardonner Diderot refers to these persecutions, and says, "In
 the space of some months we have seen our honour, fortune, liberty and
-life imperilled." Malesherbes, Choiseul and Mme de Pompadour protected
+life imperilled." Malesherbes, [[Choiseul]] and Mme de Pompadour protected
 the work; Diderot obtained private permission to go on printing, but
 with a strict charge not to publish any part until the whole was
 finished. The Jesuits were condemned by the parlement of Paris in 1762,
@@ -947,7 +947,7 @@ general assembly of the clergy, on the 20th of June 1765, approved
 articles in which it was condemned, and on the 27th of September adopted
 a _mémoire_ to be presented to the king. They were forbidden to publish
 their acts which favoured the Jesuits, but Lebreton was required to give
-a list of his subscribers, and was put into the Bastille for eight days
+a list of his subscribers, and was put into the [[Bastille]] for eight days
 in 1766. A royal order was sent to the subscribers to deliver their
 copies to the lieutenant of police. Voltaire in 1774 relates that, at a
 _petit souper_ of the king at Trianon, there was a debate on the
@@ -981,7 +981,7 @@ known to few persons. Diderot at first refused to correct the remaining
 proofs, or to do more than write the explanations of the plates. He
 required, according to Mme de Vandeul, that a copy, now at St Petersburg
 with his library, should be printed with columns in which all was
-restored. The mutilations began as far back as the article Intendant.
+restored. The mutilations began as far back as the article [[Intendant]].
 But how far, says Rosenkranz, this murderous, incredible and infamous
 operation was carried cannot now be exactly ascertained. Diderot's
 articles, not including those on arts and trades, were reprinted in
@@ -990,10 +990,10 @@ and number 1139, of which 601 were written for the last ten volumes.
 They are on very many subjects, but principally on grammar, history,
 morality, philosophy, literature and metaphysics. As a contributor, his
 special department of the work was philosophy, and arts and trades. He
-passed whole days in workshops, and began by examining a machine
+passed whole days in workshops, and began by examining a [[Machine|machine]]
 carefully, then he had it taken to pieces and put together again, then
 he watched it at work, and lastly worked it himself. He thus learned to
-use such complicated machines as the stocking and cut velvet looms. He
+use such complicated machines as the stocking and cut velvet [[Loom|looms]]. He
 at first received 1200 livres a year as editor, but afterwards 2500
 livres a volume, besides a final sum of 20,000 livres. Although after
 his engagement he did not suffer from poverty as he had done before, he
@@ -1009,7 +1009,7 @@ and delivered before the French Academy on his reception on the 19th of
 December 1754, consists of a systematic arrangement of the various
 branches of knowledge, and an account of their progress since their
 revival. His system, chiefly taken from Bacon, divides them into three
-classes, under memory, reason and imagination. Arts and trades are
+classes, under memory, reason and [[Imagination|imagination]]. Arts and trades are
 placed under natural history, superstition and magic under science de
 Dieu, and orthography and heraldry under logic. The literary world is
 divided into three corresponding classes--_érudits_, _philosophes_ and
@@ -1017,14 +1017,14 @@ _beaux esprits_. As in Ephraim Chambers's _Cyclopaedia_, history and
 biography were excluded, except incidentally; thus Aristotle's life is
 given in the article Aristotelisme. The science to which an article
 belongs is generally named at the beginning of it, references are given
-to other articles, and the authors' names are marked by initials, of
+to other articles, and the authors' names are marked by [[Initials|initials]], of
 which lists are given in the earlier volumes, but sometimes their names
 are subscribed in full. Articles by Diderot have no mark, and those
-inserted by him as editor have an asterisk prefixed. Among the
-contributors were Voltaire, Euler, Marmontel, Montesquieu, D'Anville,
+inserted by him as editor have an [[Asterisk|asterisk]] prefixed. Among the
+contributors were Voltaire, [[Euler]], Marmontel, Montesquieu, D'Anville,
 D'Holbach and Turgot, the leader of the new school of economists which
 made its first appearance in the pages of the _Encyclopédie_. Louis
-wrote the surgery, Daubenton natural history, Eidous heraldry and art,
+wrote the surgery, [[Daubenton]] natural history, Eidous heraldry and art,
 Toussaint jurisprudence, and Condamine articles on South America.
 
   No encyclopaedia perhaps has been of such political importance, or has
@@ -1049,8 +1049,8 @@ Toussaint jurisprudence, and Condamine articles on South America.
   villages are given as towns, and towns are described which never
   existed. The style is too generally loose, digressive and inexact;
   dates are seldom given; and discursiveness, verbosity and dogmatism
-  are frequent faults. Voltaire was constantly demanding truth, brevity
-  and method, and said it was built half of marble and half of wood.
+  are frequent [[Fault|faults]]. Voltaire was constantly demanding truth, brevity
+  and method, and said it was built half of [[Marble|marble]] and half of wood.
   D'Alembert compared it to a harlequin's coat, in which there is some
   good stuff but too many rags. Diderot was dissatisfied with it as a
   whole; much of it was compiled in haste; and carelessly written
@@ -1061,15 +1061,15 @@ Toussaint jurisprudence, and Condamine articles on South America.
   and precise facts they contain and on their systematic regularity.
 
   The first edition of the _Encyclopédie_, in 17 vols. folio, 16,288
-  pages, was imitated by a counterfeit edition printed at Geneva as the
+  pages, was imitated by a counterfeit edition printed at [[Geneva]] as the
   volumes appeared in Paris. Eleven folio volumes of plates were
   published at Paris (1762 to 1772), containing 2888 plates and 923
   pages of explanation, &c. A supplement was printed at Amsterdam and
   Paris (1776-1777), fol. 5 vols., 3874 pages, with 224 plates. History
   was introduced at the wish of the public, but only "the general
-  features which mark epochs in the annals of the world." The astronomy
-  was by Delalande, mathematics by Condorcet, tables by Bernouilli,
-  natural history by Adanson, anatomy and physiology by Haller.
+  features which mark epochs in the [[Annals|annals]] of the world." The astronomy
+  was by Delalande, mathematics by [[Condorcet]], tables by Bernouilli,
+  natural history by Adanson, anatomy and physiology by [[Haller]].
   Daubenton, Condamine, Marmontel and other old contributors wrote many
   articles, and several were taken from foreign editions. A very full
   and elaborate index of the articles and subjects of the 33 volumes was
@@ -1089,27 +1089,27 @@ Toussaint jurisprudence, and Condamine articles on South America.
   written by about 160 contributors. About 1761 Panckoucke and other
   publishers in Paris proposed a new and revised edition, and bought the
   plates for 250,000 livres. But, as Diderot indignantly refused to edit
-  what he considered a fraud on the subscribers to the as yet unfinished
+  what he considered a [[Fraud|fraud]] on the subscribers to the as yet unfinished
   work, they began simply to reprint the work, promising supplementary
   volumes. When three volumes were printed the whole was seized in 1770
   by the government at the complaint of the clergy, and was lodged in
   the Bastille. The plan of a second French edition was laid aside then,
   to be revived twenty years later in a very different form. Foreign
   editions of the _Encyclopédie_ are numerous, and it is difficult to
-  enumerate them correctly. One, with notes by Ottavio Diodati, Dr
-  Sebastiano Paoli and Carlo Giuliani, appeared at Lucca (1758-1771),
+  enumerate them correctly. One, with notes by Ottavio [[Diodati]], Dr
+  Sebastiano Paoli and Carlo Giuliani, appeared at [[Lucca]] (1758-1771),
   fol. 17 vols. of text and 10 of plates. Though it was very much
   expurgated, all engaged in it were excommunicated by the pope in 1759.
   An attempt made at Siena to publish an Italian translation failed. An
   addition by the abbé Serafini and Dr Gonnella (Livourne, 1770), &c.,
   fol. 33 vols., returned a profit of 60,000 piastres, and was protected
-  by Leopold II., who secured the pope's silence. Other editions are
+  by [[Leopold]] II., who secured the pope's silence. Other editions are
   Genève, Cramer (1772-1776), a facsimile reprint. Genève, Pellet
   (1777-1779), 4to, 36 vols. of text and 3 of plates, with 6 vols. of
   Mouchon's index (Lyon, 1780), 4to; Genève et Neufchâtel, Pellet
   (1778-1779), 4to, 36 vols. of text and 3 of plates; Lausanne
   (1778-1781), 36 vols. 4to, or 72 octavo, of text and 3 of plates
-  (1779-1780); Lausanne et Bern, chez les Sociétés Typographiques
+  (1779-1780); Lausanne et [[Bern]], chez les Sociétés Typographiques
   (1780-1782), 36 vols. 8vo of text and 3 vols. 4to of plates (1782).
   These four editions have the supplement incorporated. Fortuné
   Barthelemy de Felice, an Italian monk, born at Rome on the 24th of
@@ -1120,10 +1120,10 @@ Toussaint jurisprudence, and Condamine articles on South America.
   relationship to the _Encyclopédie_ as that did to Chambers's, which is
   far from being the case. Sir Joseph Ayloffe issued proposals, 14th
   December 1751, for an English translation of the _Encyclopédie_, to be
-  finished by Christmas 1756, in 10 vols. 4to, with at least 600 plates.
+  finished by [[Christmas]] 1756, in 10 vols. 4to, with at least 600 plates.
   No. 1 appeared in January 1752, but met with little success. Several
   selections of articles and extracts have been published under the
-  title of _L'Esprit de l'Encyclopédie_. The last was by Hennequin
+  title of _L'Esprit de l'Encyclopédie_. The last was by [[Hennequin]]
   (Paris, 1822-1823), 8vo, 15 vols. An English selection is _Select
   Essays from the Encyclopedy_ (London, 1773), 8vo. The articles of most
   of the principal contributors have been reprinted in the editions of
@@ -1135,12 +1135,12 @@ Toussaint jurisprudence, and Condamine articles on South America.
   _Encyclopédie_, as the _Dictionnaire portatif des arts et métiers_
   (Paris, 1766), 8vo, 2 vols. about 1300 pages, by Philippe Macquer,
   brother of the author of the _Dict. de chimie_. An enlarged edition by
-  the abbé Jaubert (Paris, 1773), 5 vols. 8vo, 3017 pages, was much
+  the abbé [[Jaubert]] (Paris, 1773), 5 vols. 8vo, 3017 pages, was much
   valued and often reprinted. The books attacking and defending the
   _Encyclopédie_ are very many. No original work of the 18th century,
   says Lanfrey, has been more depreciated, ridiculed and calumniated. It
-  has been called chaos, nothingness, the Tower of Babel, a work of
-  disorder and destruction, the gospel of Satan and even the ruins of
+  has been called [[Chaos|chaos]], nothingness, the Tower of [[Babel]], a work of
+  disorder and destruction, the [[Gospel|gospel]] of Satan and even the ruins of
   Palmyra.
 
 The _Encyclopaedia Britannica_, "by a society of gentlemen in Scotland,
@@ -1166,7 +1166,7 @@ dictionaries of arts and sciences. Its merit and novelty consist in the
 combination of De Coetlogon's plan with that in common use,--on the one
 hand keeping important subjects together, and on the other facilitating
 reference by numerous separate articles. It is doubtful to whom the
-credit of this plan is due. The editor, William Smellie, a printer (born
+[[Credit|credit]] of this plan is due. The editor, William Smellie, a printer (born
 in 1740, died on the 24th of June 1795), afterwards secretary and
 superintendent of natural history to the Society of Scottish
 Antiquaries, is said by his biographer to have devised the plan and
@@ -1218,12 +1218,12 @@ information" (_Quarterly Review_, cxiii. 362). Smellie was applied to by
 Bell to edit the second edition, and to take a share of one-third in the
 work; but he refused, because the other persons concerned in it, at the
 suggestion of "a very distinguished nobleman of very high rank" (said by
-Professor Napier to have been the duke of Buccleuch), insisted upon the
+Professor Napier to have been the duke of [[Buccleuch]]), insisted upon the
 introduction of a system of general biography which he considered
 inconsistent with the character of a dictionary of arts and sciences.
 James Tytler, M.A., seems to have been selected as the next most
 eligible compiler. His father, a man of extensive knowledge, was 53
-years minister of Fearn in Forfarshire, and died in 1785. Tytler
+years minister of Fearn in [[Forfarshire]], and died in 1785. Tytler
 (outlawed by the High Court of Justiciary, 7th of January 1793, buried
 at Salem in Massachusetts on the 11th of January 1804, aged fifty-eight)
 "wrote," says Watt, "many of the scientific treatises and histories, and
@@ -1234,7 +1234,7 @@ After about a year's preparation, the third edition was announced in
 in October 1788. There were to be 300 weekly numbers, price 1s. each,
 forming 30 parts at 10s. 6d. each, and 15 volumes, with 360 plates. It
 was completed in 1797 in 18 vols. 4to, containing 14,579 pages and 542
-plates. Among the multifarious articles represented in the frontispiece,
+plates. Among the multifarious articles represented in the [[Frontispiece|frontispiece]],
 which was required by the traditional fashion of the period, is a
 balloon. The maps are, as in subsequent editions, distributed among the
 articles relating to the respective countries. It was edited by Colin
@@ -1253,19 +1253,19 @@ attention and were long highly esteemed by scientific men. The
 sub-editors were James Walker (Primus Scotiae Episcopus 27th of May
 1837, died on the 5th of March 1841, aged seventy) until 1795, then
 James Thomson, succeeded in November 1796 by his brother Thomas,
-afterwards professor of chemistry at Glasgow, who remained connected
+afterwards professor of chemistry at [[Glasgow]], who remained connected
 with the _Encyclopaedia_ until 1800. According to Kerr (_Smellie's
 Life_, i. 364-365), 10,000 copies were printed, and the profit to the
 proprietors was £42,000, besides the payments for their respective work
 in the conduct of the publication as tradesmen,--Bell as engraver of all
 the plates, and Macfarquhar as sole printer. According to Constable
 (_Memoirs_, ii. 312), the impression was begun at 5000 copies, and
-concluded with a sale of 13,000. James Hunter, "an active bookseller of
-no character," who had a shop in Middle Row, Holborn, sold the book to
+concluded with a sale of 13,000. James [[Hunter]], "an active bookseller of
+no character," who had a shop in Middle Row, [[Holborn]], sold the book to
 the trade, and on his failure Thomson Bonar, a wine merchant, who had
 married Bell's daughter, became the seller of the book. He quarrelled
 with his father-in-law, who would not see him for ten years before his
-death in 1809. When the edition was completed, the copyright and
+death in 1809. When the edition was completed, the [[Copyright|copyright]] and
 remaining books were sold in order to wind up the concern, and "the
 whole was purchased by Bell, who gave £13 a copy, sold all the complete
 copies to the trade, printed up the odd volumes, and thus kept the work
@@ -1276,7 +1276,7 @@ edited by Gleig, was published in 1801 in 2 vols. 4to, containing 1624
 pages and 50 copperplates engraved by D. Lizars. In the dedication to
 the king, dated Stirling, 10th December 1800, Dr Gleig says: "The French
 _Encyclopédie_ had been accused, and justly accused, of having
-disseminated far and wide the seeds of anarchy and atheism. If the
+disseminated far and wide the seeds of anarchy and [[Atheism|atheism]]. If the
 _Encyclopaedia Britannica_ shall in any degree counteract the tendency
 of that pestiferous work, even these two volumes will not be wholly
 unworthy of your Majesty's attention." Professor Robison added 19
@@ -1317,8 +1317,8 @@ superintend the mathematical department, and Robison the natural
 philosophy. Thomas Thomson is extremely zealous in the cause. W. Scott
 has embraced it with great affection.... The authors are to be paid at
 least as well as reviewers, and are to retain the copyright of their
-articles for separate publication if they think proper" (Cockburn, _Life
-of Lord Jeffrey_, 1852, ii. 90). It was then, perhaps, that Constable
+articles for separate publication if they think proper" ([[Cockburn]], _Life
+of Lord [[Jeffrey]]_, 1852, ii. 90). It was then, perhaps, that Constable
 gave £100 to Bonar for the copyright of the supplement.
 
   The fifth edition was begun immediately after the fourth as a mere
@@ -1326,7 +1326,7 @@ gave £100 to Bonar for the copyright of the supplement.
   on under the _lawyer trustees_ for several years, and at last the
   whole property was again brought to the market by public sale. There
   were about 1800 copies printed of the five first volumes, which formed
-  one lot, the copyright formed another lot, and so on. The whole was
+  one [[Lot|lot]], the copyright formed another lot, and so on. The whole was
   purchased by myself and in my name for between £13,000 and £14,000,
   and it was said by the wise booksellers of Edinburgh and others that
   I had completely ruined myself and all connected with me by a purchase
@@ -1349,7 +1349,7 @@ gave £100 to Bonar for the copyright of the supplement.
   Soon after the purchase of the copyright, Constable began to prepare
   for the publication of a supplement, to be of four or, at the very
   utmost, five volumes. "The first article arranged for was one on
-  'Chemistry' by Sir Humphry Davy, but he went abroad [in October 1813]
+  'Chemistry' by Sir [[Humphry]] Davy, but he went abroad [in October 1813]
   and I released him from his engagement, and employed Mr Brande; the
   second article was Mr Stewart's Dissertation, for which I agreed to
   pay him £1000, leaving the extent of it to himself, but with this
@@ -1378,7 +1378,7 @@ gave £100 to Bonar for the copyright of the supplement.
   payment at £500." Constable gave him £500 for the first part (127
   pages), and would have given as much for the second (90 pages) if it
   had been as long. His next object was to find out the greatest defects
-  in the book, and he gave Professor Leslie £200 and Graham Dalyell £100
+  in the book, and he gave Professor [[Leslie]] £200 and [[Graham]] Dalyell £100
   for looking over it. He then wrote out a prospectus and submitted it
   in print to Stewart, "but the cautious philosopher referred" him to
   Playfair, who "returned it next day very greatly improved." For this
@@ -1401,7 +1401,7 @@ gave £100 to Bonar for the copyright of the supplement.
   £9000." In a postscript the certain payment is characteristically
   increased to £1575, the contingent to £735, and the allowance for
   incidental expenses to £300 (Constable, ii. 326). Napier went to
-  London, and obtained the co-operation of many literary men. The
+  London, and obtained the [[Co-Operation|co-operation]] of many literary men. The
   supplement was published in half-volume parts from December 1816 to
   April 1824. It formed six volumes 4to, containing 4933 pages, 125
   plates, 9 maps, three dissertations and 669 articles, of which a list
@@ -1433,17 +1433,17 @@ gave £100 to Bonar for the copyright of the supplement.
   "outline of the contents," and mentions under each great division of
   knowledge the principal articles and their authors' names, often with
   remarks on the characters of both. Among the distinguished
-  contributors were Leslie, Playfair, Ivory, Sir John Barrow, Tredgold,
-  Jeffrey, John Bird Sumner, Blanco White, Hamilton Smith and Hazlitt.
+  contributors were Leslie, Playfair, [[Ivory]], Sir John Barrow, Tredgold,
+  Jeffrey, John Bird Sumner, Blanco White, Hamilton Smith and [[Hazlitt]].
   Sir Walter Scott, to gratify his generous friend Constable, laid aside
   _Waverley_, which he was completing for publication, and in April and
-  May 1814 wrote "Chivalry." He also wrote "Drama" in November 1818, and
+  May 1814 wrote "[[Chivalry]]." He also wrote "[[Drama]]" in November 1818, and
   "Romance" in the summer of 1823. As it seemed to the editor that
   encyclopaedias had previously attended little to political philosophy,
-  he wrote "Balance of Power," and procured from James Mill "Banks for
+  he wrote "[[Balance Of Power|Balance of Power]]," and procured from James Mill "Banks for
   Savings," "Education," "Law of Nations," "Liberty of the Press," and
   other articles, which, reprinted cheaply, had a wide circulation.
-  M'Culloch wrote "Corn Laws," "Interest," "Money," "Political Economy,"
+  [[M'Culloch]] wrote "[[Corn]] Laws," "Interest," "Money," "Political Economy,"
   &c. Mr Ricardo wrote "Commerce" and "Funding System," and Professor
   Malthus, in his article "Population," gave a comprehensive summary of
   the facts and reasonings on which his theory rested. In the article
@@ -1461,13 +1461,13 @@ gave £100 to Bonar for the copyright of the supplement.
   regretted that this wish was not carried out, as was done in the
   latter volumes of Zedler. Arago wrote "Double Refraction" and
   "Polarization of Light," a note to which mentions his name as author.
-  Playfair wrote "Aepinus," and "Physical Astronomy." Biot wrote
+  Playfair wrote "Aepinus," and "Physical Astronomy." [[Biot]] wrote
   "Electricity" and "Pendulum." He "gave his assistance with alacrity,"
   though his articles had to be translated. Signatures, on the plan of
   the _Encyclopédie_, were annexed to each article, the list forming a
   triple alphabet, A to XXX, with the full names of the 72 contributors
   arranged apparently in the order of their first occurrence. At the end
-  of vol. vi. are Addenda and Corrigenda, including "Interpolation," by
+  of vol. vi. are Addenda and Corrigenda, including "[[Interpolation]]," by
   Leslie, and "Polarization of Light," by Arago.
 
   The sixth edition, "revised, corrected and improved," appeared in
@@ -1491,7 +1491,7 @@ gave £100 to Bonar for the copyright of the supplement.
   the shares and became sole proprietor.
 
   The seventh edition, 21 vols. 4to (with an index of 187 pages,
-  compiled by Robert Cox), containing 17,101 pages and 506 plates,
+  compiled by Robert [[Cox]]), containing 17,101 pages and 506 plates,
   edited by Macvey Napier, assisted by James Browne, LL.D., was begun in
   1827, and published from March 1830 to January 1842. It was reset
   throughout and stereotyped. Mathematical diagrams were printed in the
@@ -1505,14 +1505,14 @@ gave £100 to Bonar for the copyright of the supplement.
   the addition of "Political Philosophy"; 3rd, Playfair's, 139 pages;
   4th, its continuation by Sir John Leslie, 100 pages--and their index
   of 30 pages, fill vol. i. As they did not include Greek philosophy,
-  "Aristotle," "Plato" and "Socrates" were supplied by Dr Hampden,
+  "Aristotle," "Plato" and "Socrates" were supplied by Dr [[Hampden]],
   afterwards bishop of Hereford. Among the numerous contributors of
-  eminence, mention may be made of Sir David Brewster, Prof. Phillips,
-  Prof. Spalding, John Hill Burton, Thomas De Quincey, Patrick Fraser
-  Tytler, Capt. Basil Hall, Sir Thomas Dick Lauder, Antonio Panizzi,
+  [[Eminence|eminence]], mention may be made of Sir David [[Brewster]], Prof. Phillips,
+  Prof. Spalding, John Hill [[Burton]], Thomas De Quincey, Patrick [[Fraser]]
+  Tytler, Capt. [[Basil]] Hall, Sir Thomas [[Dick]] Lauder, Antonio Panizzi,
   John Scott Russell and Robert Stephenson. Zoology was divided into 11
-  chief articles, "Mammalia," "Ornithology," "Reptilia," "Ichthyology,"
-  "Mollusca," "Crustacea," "Arachnides," "Entomology," "Helminthology,"
+  chief articles, "[[Mammalia]]," "Ornithology," "Reptilia," "Ichthyology,"
+  "Mollusca," "Crustacea," "Arachnides," "[[Entomology]]," "Helminthology,"
   "Zoophytes," and "Animalcule"--all by James Wilson.
 
   The eighth edition, 1853-1860, 4to, 21 vols. (and index of 239 pages,
@@ -1523,14 +1523,14 @@ gave £100 to Bonar for the copyright of the supplement.
   Archbishop Whately, and a continuation of Leslie's to 1850, by
   Professor James David Forbes, 198 pages, the work of nearly three
   years, called by himself his "magnum opus" (Life, pp. 361, 366). Lord
-  Macaulay, Charles Kingsley, Isaac Taylor, Hepworth Dixon, Robert
+  Macaulay, Charles [[Kingsley]], Isaac Taylor, Hepworth Dixon, Robert
   Chambers, Rev. Charles Merivale, Rev. F.W. Farrar, Sir John
   Richardson, Dr Scoresby, Dr Hooker, Henry Austin Layard, Edw. B.
-  Eastwick, John Crawfurd, Augustus Petermann, Baron Bunsen, Sir John
-  Herschel, Dr Lankester, Professors Owen, Rankine, William Thomson,
-  Aytoun, Blackie, Daniel Wilson and Jukes, were some of the many
+  Eastwick, John Crawfurd, Augustus Petermann, Baron [[Bunsen]], Sir John
+  [[Herschel]], Dr Lankester, Professors Owen, Rankine, William Thomson,
+  Aytoun, [[Blackie]], [[Daniel]] Wilson and Jukes, were some of the many
   eminent new contributors found among the 344 authors, of whom an
-  alphabetical list is given, with a key to the signatures. In the
+  alphabetical list is given, with a [[Key|key]] to the signatures. In the
   preface a list of 279 articles by 189 writers, classed under 15 heads,
   is given. This edition was not wholly reset like the seventh, but many
   long articles were retained almost or entirely intact.
@@ -1544,8 +1544,8 @@ gave £100 to Bonar for the copyright of the supplement.
   scholarship of its time. Its contributors included the most
   distinguished men of letters and of science. In 1898 a reprint, sold
   at about half the original price, and on the plan of payment by
-  instalments, was issued by _The Times_ of London; and in 1902, under
-  the joint editorship of Sir Donald Mackenzie Wallace, President Arthur
+  [[Instalment|instalments]], was issued by _The Times_ of London; and in 1902, under
+  the joint editorship of Sir Donald [[Mackenzie]] Wallace, President Arthur
   T. Hadley of Yale University, and Hugh Chisholm, eleven supplementary
   volumes were published, forming, with the 24 vols. of the ninth
   edition, a tenth edition of 35 volumes. These included a volume of
@@ -1612,7 +1612,7 @@ work. Those _en retard_ made new contracts, giving their word of honour
 to put their parts to press in 1788, and to continue them without
 interruption, so that Panckoucke hoped to finish the whole, including the
 vocabulary (4 or 5 vols.), in 1792. Whole sciences, as architecture,
-engineering, hunting, police, games, &c., had been overlooked in the
+[[Engineering|engineering]], hunting, police, games, &c., had been overlooked in the
 prospectus; a new division was made in 44 parts, to contain 51
 dictionaries and about 124 vols. Permission was obtained on the 27th of
 February 1789, to receive subscriptions for the separate dictionaries.
@@ -1645,12 +1645,12 @@ is very excellent, giving the contents of each article, so that any
 passage can be found easily. The largest dictionaries are medicine, 13
 vols., 10,330 pages; zoology, 7 dictionaries, 13,645 pages, 1206 plates;
 botany, 12,002 pages, 1000 plates (34 only of cryptogamic plants);
-geography, 3 dictionaries and 2 atlases, 9090 pages, 193 maps and plates;
+geography, 3 dictionaries and 2 [[Atlas|atlases]], 9090 pages, 193 maps and plates;
 jurisprudence (with police and municipalities), 10 vols., 7607 pages.
 Anatomy, 4 vols., 2866 pages, is not a dictionary but a series of
 systematic treatises. Assemblée Nationale was to be in three parts,--(1)
-the history of the Revolution, (2) debates, and (3) laws and decrees.
-Only vol. ii., debates, appeared, 1792, 804 pages, Absens to Aurillac.
+the history of the Revolution, (2) debates, and (3) laws and [[Decree|decrees]].
+Only vol. ii., debates, appeared, 1792, 804 pages, Absens to [[Aurillac]].
 Ten volumes of a Spanish translation with a vol. of plates were published
 at Madrid to 1806--viz. historia natural, i. ii.; grammatica, i.; arte
 militar, i., ii.; geografia, i.-iii.; fabricas, i., ii., plates, vol. i.
@@ -1665,11 +1665,11 @@ frequently copied, imitated and translated, than that known as the
 _Conversations Lexikon_ of Brockhaus. It was begun as _Conversations
 Lexikon mit vorzüglicher Rücksicht auf die gegenwärtigen Zeiten_,
 Leipzig, 1796 to 1808, 8vo, 6 vols., 2762 pages, by Dr Gotthelf Renatus
-Löbel (born on the 1st of April 1767 at Thalwitz near Wurzen in Saxony,
+Lö[[Bel|bel]] (born on the 1st of April 1767 at Thalwitz near Wurzen in Saxony,
 died on the 14th of February 1799), who intended to supersede Hübner,
 and included geography, history, and in part biography, besides
 mythology, philosophy, natural history, &c. Vols. i.-iv. (A to R)
-appeared 1796 to 1800, vol. v. in 1806. Friedrich Arnold Brockhaus
+appeared 1796 to 1800, vol. v. in 1806. [[Friedrich]] [[Arnold]] Brockhaus
 (q.v.) bought the work with its copyright on the 25th of October 1808,
 for 1800 thalers from the printer, who seems to have got it in payment
 of his bill. The editor, Christian Wilhelm Franke, by contract dated the
@@ -1694,7 +1694,7 @@ exhausted while vol. x. was at press, a 2nd unaltered impression of
 10,000 was required in 1820 and a 3rd of 10,000 in 1822. The 6th
 edition, 10 vols., was begun in September 1822. Brockhaus died in 1823,
 and his two eldest sons, Friedrich and Heinrich, who carried on the
-business for the heirs and became sole possessors in 1829, finished the
+business for the [[Heir|heirs]] and became sole possessors in 1829, finished the
 edition with Hasse's assistance in September 1823. The 7th edition
 (1827-1829, 12 vols., 10,489 pages, 13,000 copies, 2nd impression
 14,000) was edited by Hasse. The 8th edition (1833-1836, 12 vols.,
@@ -1734,15 +1734,15 @@ vols.), and the 6th (begun in 1902).
 
 The most copious German encyclopaedia is Ersch and Gruber's _Allgemeine
 Encyklopädie der Wissenschaften und Künste_, Leipzig. It was designed
-and begun in 1813 by Professor Johann Samuel Ersch (born at Gross Glogau
+and begun in 1813 by Professor Johann Samuel Ersch (born at [[Gross]] Glogau
 on the 23rd of June 1766, chief librarian at Halle, died on the 16th of
 January 1828) to satisfy the wants of Germans, only in part supplied by
 foreign works. It was stopped by the war until 1816, when Professor
-Hufeland (born at Danzig on the 19th of October 1760) joined, but he
+[[Hufeland]] (born at Danzig on the 19th of October 1760) joined, but he
 died on the 25th of November 1817 while the specimen part was at press.
 The editors of the different sections at various times have been some of
-the best-known men of learning in Germany, including J.G. Gruber, M.H.E.
-Meier, Hermann Brockhaus, W. Müller and A.G. Hoffmann of Jena.
+the best-known men of learning in Germany, including J.G. [[Gruber]], M.H.E.
+Meier, [[Hermann]] Brockhaus, W. Müller and A.G. Hoffmann of Jena.
 
   The work is divided into three sections (1) A-G, of which 99 vols. had
   appeared by 1905, (2) H-N, 43 vols., (3) O-Z, 25 vols. All articles
@@ -1761,7 +1761,7 @@ plan was the proposal of the poet Coleridge, and it had at least enough
 of a poetical character to be eminently unpractical" (_Quarterly
 Review_, cxiii., 379). However defective the plan, the excellence of
 many of the treatises by Archbishop Whately, Sir John Herschel,
-Professors Barlow, Peacock, de Morgan, &c., is undoubted. It is in four
+Professors [[Barlow]], Peacock, de Morgan, &c., is undoubted. It is in four
 divisions, the last only being alphabetical:--I. _Pure Sciences_, 2
 vols., 1813 pages, 16 plates, 28 treatises, includes grammar, law and
 theology; II. _Mixed and Applied Sciences_, 8 vols., 5391 pages, 437
@@ -1794,7 +1794,7 @@ _Chambers's Encyclopaedia_ (Edinburgh, W. & R. Chambers), 1860-1868,
 the charge of Dr Andrew Findlater as "acting editor" throughout, was
 founded on the 10th edition of _Brockhaus_. A revised edition appeared
 in 1874, 8320 pages. In the list of 126 contributors were J.H. Burton,
-Emmanuel Deutsch, Professor Goldstücker, &c. The index of matters not
+[[Emmanuel]] Deutsch, Professor Goldstücker, &c. The index of matters not
 having special articles contained about 1500 headings. The articles were
 generally excellent, more especially on Jewish literature, folk-lore and
 practical science; but, as in _Brockhaus_, the scope of the work did not
@@ -1815,7 +1815,7 @@ issued.
 
 The _New American Cyclopaedia_, New York (Appleton & Co.), 1858-1863, 16
 vols., 12,752 pages, was the work of the editors, George Ripley and
-Charles Anderson Dana, and 364 contributors, chiefly American. A
+Charles Anderson [[Dana]], and 364 contributors, chiefly American. A
 supplementary work, the _American Annual Cyclopaedia_, a yearly 8vo vol.
 of about 800 pages and 250 articles, was started in 1861, but ceased in
 1902. In a new edition, the _American Cyclopaedia_, 1873-1876, 8vo, 16
@@ -1827,9 +1827,9 @@ Other American encyclopaedias are Alvin J. Johnson's _New Universal
 Cyclopaedia_, 1875-1877, in 4 vols., a new edition of which (excellently
 planned) was published in 8 vols., 1893-1895, under the name of
 _Johnson's Universal Cyclopaedia_; the _Encyclopaedia Americana_, edited
-by Francis Lieber, which appeared in 1839-1847 in 14 vols.; a new work
+by Francis [[Lieber]], which appeared in 1839-1847 in 14 vols.; a new work
 under the same title, published in 1903-1904 in 16 vols.; the
-_International Cyclopaedia_, first published in 1884 (revised in 1891,
+_[[International]] Cyclopaedia_, first published in 1884 (revised in 1891,
 1894 and 1898), and superseded in 1902 (revised, 1906) by the _New
 International Encyclopaedia_ in 17 vols.
 
@@ -1848,7 +1848,7 @@ International Encyclopaedia_ in 17 vols.
   Italy, the _Nuova Enciclopedia Italiana_ (14 vols., 1841-1851, and in
   25 vols., 1875-1888). In Spain, the _Diccionario enciclopedico
   Hispano-Americano de litteratura, ciencias y artes_, published at
-  Barcelona (25 vols., 1877-1899). The Russian encyclopaedia, _Russkiy
+  [[Barcelona]] (25 vols., 1877-1899). The Russian encyclopaedia, _Russkiy
   Entsiklopedicheskiy Slovar_ (41 vols., 1905, 2 supplementary vols.,
   1908) was begun in 1890 as a Russian version of Brockhaus'
   _Conversations-Lexicon_, but has become a monumental encyclopaedia, to

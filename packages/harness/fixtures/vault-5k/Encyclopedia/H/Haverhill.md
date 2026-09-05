@@ -9,7 +9,7 @@ type: article
 
 HAVERHILL, a city of Essex county, Massachusetts, U.S.A., situated on
 the Merrimac river, at the head of tide and navigation, and on the
-Boston & Maine railway, 33 m. N. of Boston. Pop. (1880) 18,472; (1890)
+[[Boston]] & [[Maine]] railway, 33 m. N. of Boston. Pop. (1880) 18,472; (1890)
 27,412; (1900) 37,175, of whom 8530 were foreign-born (including 2403
 French Canadians, 1651 English Canadians and 2144 Irish), and 15,077
 were of foreign parentage (both parents foreign-born); (1910 census)
@@ -23,12 +23,12 @@ Winnikenni Park (214 acres), contiguous to Lake Kenoza, is of great
 natural beauty. The city has three well-equipped hospitals, the
 beautiful Pentucket club house, a children's home, an old ladies' home
 and numerous charitable organizations. The schools of the city, both
-public and private, are of high standing; they include Bradford Academy
+public and private, are of high standing; they include [[Bradford]] Academy
 (1803) for girls and the St James School (Roman Catholic). The public
 library is generously endowed, and in 1908 had about 90,000 volumes.
 Almost from the beginning of its history Haverhill was active
 industrially. Thomas Dustin, the husband of Hannah Dustin, manufactured
-bricks, and this industry has been carried on in the same locality for
+[[Brick|bricks]], and this industry has been carried on in the same locality for
 more than two hundred years. The large Stevens woollen mills are the
 outgrowth of mills established in 1835. The manufacture of woollen hats,
 established in the middle of the 18th century, is one of the prominent

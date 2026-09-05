@@ -1,6 +1,6 @@
 # Blind Hookey
 
-BLIND HOOKEY, a game of chance, played with a full pack of cards. The
+BLIND HOOKEY, a [[Game|game]] of chance, played with a full pack of [[Cards|cards]]. The
 deal, which is an advantage, is decided as at whist, the cards being
 shuffled and cut as at whist. The dealer gives a parcel of cards to each
 player including himself. Each player puts the amount of his stake on

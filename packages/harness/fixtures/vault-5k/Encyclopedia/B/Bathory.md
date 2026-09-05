@@ -19,7 +19,7 @@ matter of course, in order to counterpoise the ever hostile influence of
 the house of Habsburg), and joined the league of Christian princes
 against the Turk. The obvious danger of such a course caused no small
 anxiety in the principality, and the diet of Torda even went so far as
-to demand a fresh coronation oath from Sigismund, and, on his refusal to
+to demand a fresh [[Coronation|coronation]] oath from Sigismund, and, on his refusal to
 render it, threatened him with deposition. Ultimately Bathory got the
 better of his opponents, and executed all whom he got into his hands
 (1595). Nevertheless, if anybody could have successfully carried out an

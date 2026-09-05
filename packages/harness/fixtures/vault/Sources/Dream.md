@@ -5,7 +5,7 @@ the state of consciousness during sleep; it may also be defined as a
 hallucination or illusion peculiarly associated with the condition of
 sleep, but not necessarily confined to that state. In sleep the
 withdrawal of the mind from the external world is more complete and the
-objectivity of the dream images is usually unquestioned, whereas in the
+objectivity of the dream [[Image|images]] is usually unquestioned, whereas in the
 waking state the hallucination is usually recognized as such; we may,
 however, be conscious that we are dreaming, and thus in a measure be
 aware of the hallucinatory character of our percepts. The physiological
@@ -18,10 +18,10 @@ of the spatial relations of our bodies. Among the psychological problems
 raised by dreams are the condition of attention, which is variously
 regarded as altogether absent or as fixed, the extent of mental control,
 and the relation of ideas and motor impulses. There is present in all
-dreams a certain amount of dissociation of consciousness, or of
-obstructed association, which may manifest itself in the preliminary
+dreams a certain amount of [[Dissociation|dissociation]] of consciousness, or of
+obstructed association, which may [[Manifest|manifest]] itself in the preliminary
 stage of drowsiness by such phenomena as the apparent transformation or
-inversion of the words of a book. We may distinguish two types of
+[[Inversion|inversion]] of the words of a book. We may distinguish two types of
 dreams, (a) representative or centrally initiated, (b) presentative or
 due to the stimulation of the end organs of sense. In both cases, the
 dream having once been initiated, we are concerned with a process of
@@ -43,7 +43,7 @@ man; changes in powers of attention, volition and memory help to
 increase the hallucinatory force of the dream. In the second place, the
 ideas of our dreams are presented in the form of images, which we are
 unable to dismiss; we therefore mistake them for realities, exactly as
-the sufferer from delirium tremens in waking life is apt to regard his
+the sufferer from [[Delirium|delirium]] tremens in waking life is apt to regard his
 phantoms as real.
 
 _Relations of Dreaming and Sleep._--It has been maintained by Hamilton
@@ -75,7 +75,7 @@ Some of these revivals of memory may be due to the fact that links of
 association which are insufficient to restore an idea to consciousness
 in the waking state may suffice to do so in sleep. Just as a good
 visualizer in his waking moments may call up an object never clearly
-seen and yet distinguish the parts, so in sleep, as L. F. A. Maury
+seen and yet distinguish the parts, so in sleep, as L. F. A. [[Maury]]
 (1817-1892) and others have shown, an image may be more distinct in a
 dream than it was when originally presented (see also below, Memory).
 
@@ -100,14 +100,14 @@ rise to dream fancies; the awkward position of the limbs may also excite
 images. (c) Especially important, probably, for the dreams of the early
 part of the night are the retinal conditions to which are due the
 _illusions hypnagogiques_ of the preliminary drowsy stage; but probably
-Ladd goes too far in maintaining that entoptic stimuli, either intra- or
+[[Ladd]] goes too far in maintaining that entoptic stimuli, either intra- or
 extra-organic in origin, condition all dreams. _Illusions
 hypnagogiques_, termed popularly "faces in the dark," of which Maury has
 given a full account, are the not uncommon sensations experienced,
 usually visual and seen with both open and closed eyes, in the interval
 between retiring to rest and actually falling asleep; they are
-comparable to the crystal-gazing visions of waking moments; though
-mainly visual they may also affect other senses. Besides the eye the ear
+comparable to the [[Crystal-Gazing|crystal-gazing]] visions of waking moments; though
+mainly visual they may also affect other senses. Besides the eye the [[Ear|ear]]
 may supply material for dreams, when the circulation of the blood
 suggests rushing waters or similar ideas. (d) It is a matter of common
 observation that the temperature of the surface of the body determines
@@ -139,8 +139,8 @@ association varies enormously in ordinary waking life. No proof,
 therefore, that some dreams are slow can show that this mentation in
 others is not extremely rapid. The most commonly quoted case is one of
 Maury's; a bed-pole fell on his neck, and (so it is stated) he dreamt
-of the French Revolution, the scenes culminating in the fall of the
-guillotine on his neck; this has been held to show that (1) dreams are
+of the [[French Revolution]], the scenes culminating in the fall of the
+[[Guillotine|guillotine]] on his neck; this has been held to show that (1) dreams are
 extremely rapid; and (2) we construct a dream story leading up to the
 external stimulus which is assumed to have originated the dream. But
 Maury's dream was not recorded till many years after it had occurred;
@@ -175,7 +175,7 @@ able in a dream to solve a difficulty connected with two Babylonian
 inscriptions, which had not previously been recognized as complementary
 to each other; a point of peculiar interest is the dramatic form in
 which the information came to him--an old Babylonian priest appeared in
-his dream and gave him the clue to the problem (see also below,
+his dream and gave him the [[Clue|clue]] to the problem (see also below,
 Personality).
 
 _Memory in Dreams._--Although prima facie the dream memory is
@@ -232,10 +232,10 @@ discounted by the possibility of hallucinatory memory. Another class of
 dreams (prodromic) is that in which the abnormal bodily states of the
 dreamer are brought to his knowledge in sleep, sometimes in a symbolical
 form; thus a dream of battle or sanguinary conflict may presage a
-haemorrhage. The increased power of suggestion which is the normal
+[[Haemorrhage|haemorrhage]]. The increased power of suggestion which is the normal
 accompaniment of the hypnotic trance may make its appearance in dreams,
 and exercise either a curative influence or act capriciously in
-producing hysteria and the tropic changes known as "stigmata." We may
+producing [[Hysteria|hysteria]] and the tropic changes known as "stigmata." We may
 meet with various forms of hyperaesthesia in dreams; quite apart from
 the recovery of sight by those who have lost it wholly or in part (see
 below, Dreams of the Blind), we find that the powers of the senses may
@@ -295,7 +295,7 @@ often as it would otherwise be; dreams in which motion was a prominent
 feature were 10% of the former class, 14% and 18% of the two latter.
 Experiments by J. Mourly Vold show even more distinctly the influence of
 suggestion both as to the form, visual or otherwise, and the content
-(colours and forms of objects) of dreams. According to most observers
+([[Colours|colours]] and forms of objects) of dreams. According to most observers
 dreams are most vivid and frequent between the ages of 20 and 25, but H.
 Maudsley puts the maximum between 30 and 35. De Sanctis got replies from
 165 men and 55 women: the proportion between the sexes closely agrees
@@ -320,7 +320,7 @@ _Dreams of the Neuropathic, Insane, Idiots, &c._--Much attention has
 been given to the dreams of hysterical subjects. It appears that their
 dreams are specially liable to exercise an influence over their waking
 life, perhaps because they do not distinguish them, any more than their
-waking hallucinations, from reality. P. Janet maintains that the cause
+waking hallucinations, from reality. P. [[Janet]] maintains that the cause
 of hysteria may be sought in a dream. The dreams of the hysterical have
 a tendency to recur. Epileptic subjects dream less than the hysterical,
 and their dreams are seldom of a terrifying nature; certain dreams seem
@@ -342,11 +342,11 @@ age of seven. The dreams of the first class are non-visual; but in the
 dreams of Helen Keller there are traces of a visual content; the second
 class sometimes has visual dreams; the third class does not differ from
 normal persons, though visual dreams may fade away after many years of
-blindness. In the case of the partially blind the clearness of vision in
+[[Blindness|blindness]]. In the case of the partially blind the clearness of vision in
 a dream exceeds that of normal life when the partial loss of sight
 occurred in the sixth or later years. The education of Helen Keller is
 interesting from another point of view; after losing the senses of sight
-and hearing in infancy she began her education at seven years and was
+and hearing in [[Infancy|infancy]] she began her education at seven years and was
 able to articulate at eleven; it is recorded that she "talked" in her
 dreams soon after. This accords with the experience of normal
 individuals who acquire a foreign language. Her extraordinary memory
@@ -355,12 +355,12 @@ life, but they hardly affect her dreams, so far as can be judged. The
 dreams of the blind, according to the records of F. Hitschmann, present
 some peculiarities; animals as well as man speak; toothache and bodily
 pains are perceived as such; impersonal dreaming, taking the form of a
-drama or reading aloud, is found; and he had a strong tendency to
+[[Drama|drama]] or reading aloud, is found; and he had a strong tendency to
 reproduce or create verse.
 
 _Dreams of Animals._--We are naturally reduced to inference in dealing
 with animals as with very young children; but various observations seem
-to show that dreams are common in older dogs, especially after hunting
+to show that dreams are common in older [[Dogs|dogs]], especially after [[Hunting|hunting]]
 expeditions; in young dogs sleep seems to be quieter; dogs accustomed to
 the chase seem to dream more than other kinds.
 
@@ -389,12 +389,12 @@ individual Indian acquires a tutelary spirit, known as _manito_ or
 _nagual_, by his initiation dream or vision; the idea being perhaps that
 the spirit by the act of appearing shows its subjection to the will of
 the man. Similarly, the magician acquires his familiar in North America,
-Australia and elsewhere by dreaming of an animal. Incubation consists in
+[[Australia]] and elsewhere by dreaming of an animal. Incubation consists in
 retiring to sleep in a temple, sometimes on the top of a mountain or
 other unusual spot, in order to obtain a revelation through a dream.
-Fasting, continence and other observances are frequently prescribed as
+[[Fasting]], continence and other observances are frequently prescribed as
 preliminaries. Certain classes of dreams have, especially in the middle
-ages, been attributed to the influence of evil spirits (see DEMONOLOGY).
+ages, been attributed to the influence of evil spirits (see [[Demonology|DEMONOLOGY]]).
 
 _Classical and Medieval Views of Dreams._--Side by side with the
 prevalent animistic view of dreams we find in antiquity and among the
@@ -403,7 +403,7 @@ of dreams. Democritus, from whom the Epicureans derived their theory,
 held the cause of them to be the simulacra or phantasms of corporeal
 objects which are constantly floating about the atmosphere and attack
 the soul in sleep--a view hardly distinguishable from animism.
-Aristotle, however, refers them to the impressions left by objects seen
+[[Aristotle]], however, refers them to the impressions left by objects seen
 with the eyes of the body; he further remarks on the exaggeration of
 slight stimuli when they are incorporated into a dream; a small sound
 becomes a noise like thunder. Plato, too, connects dreaming with the
@@ -412,7 +412,7 @@ this only for dreams which take place after meals, the remainder being
 supernatural. Cicero, however, takes the view that they are simply
 natural occurrences no more and no less than the mental operations and
 sensations of the waking state. The pathological side of dreams
-attracted the notice of physicians. Hippocrates was disposed to admit
+attracted the notice of physicians. [[Hippocrates]] was disposed to admit
 that some dreams might be divine, but held that others were premonitory
 of diseased states of the body. Galen took the same view in some of his
 speculations.
@@ -420,10 +420,10 @@ speculations.
 Symbolical interpretations are combined with pathological no less than
 animistic interpretations of dreams; they are also extremely common
 among the lower classes in Europe at the present day, but in this case
-no consistent explanation of their importance for the divination of
+no consistent explanation of their importance for the [[Divination|divination]] of
 future events is usually discoverable. Among the Greeks Plato in the
 _Timaeus_ (ch. xlvi, xlvii) explains dreams as prophetic visions
-received by the lower appetitive soul through the liver; their
+received by the lower appetitive soul through the [[Liver|liver]]; their
 interpretation requires intelligence. The Stoics seem to have held that
 dreams may be a divine revelation and more than one volume on the
 interpretation of dreams has come down to us, the most important being
@@ -437,12 +437,12 @@ decide how a dream is to be interpreted.
 
 _Modern Views._--The doctrine of Descartes that existence depended upon
 thought naturally led his followers to maintain that the mind is always
-thinking and consequently that dreaming is continuous. Locke replied to
+thinking and consequently that dreaming is continuous. [[Locke]] replied to
 this that men are not always conscious of dreaming, and it is hard to be
 conceived that the soul of the sleeping man should this moment be
 thinking, while the soul of the waking man cannot recollect in the next
 moment a jot of all those thoughts. That we always dream was maintained
-by Leibnitz, Kant, Sir W. Hamilton and others; the latter refutes the
+by Leibnitz, [[Kant]], Sir W. Hamilton and others; the latter refutes the
 argument of Locke by the just observation that the somnambulist has
 certainly been conscious, but fails to recall the fact when he returns
 to the normal state.
@@ -458,7 +458,7 @@ novelty, argues that the state arises, not from any "fortuitous dancings
 of the spirits," but from the "phantastical power of the soul."
 According to K. A. Scherner, dreaming is a decentralization of the
 movement of life; the ego becomes purely receptive and is merely the
-point around which the peripheral life plays in perfect freedom. Hobbes
+point around which the peripheral life plays in perfect freedom. [[Hobbes]]
 held that dreams all proceed from the agitation of the inward parts of a
 man's body, which, owing to their connexion with the brain, serve to
 keep the latter in motion. For Schopenhauer the cause of dreams is the
@@ -476,22 +476,22 @@ _Schlaf und Traum_, Tessié, _Les Rêves_, Spitta, _Schlaf und
 Traumzustande_. For super-normal dreams see F. W. H. Myers, _Human
 Personality_, vol i, and _Proc S P R_ viii 362. For voluntary dreams see
 _Proc. S P R_ iv 241, xvii. 112. On prophetic dreams see _Monist_, xi
-161, _Bull. Soc. Anth._ (Paris, 1901), 196, (1902), 228, _Rev. de
+161, _[[Bull]]. Soc. Anth._ (Paris, 1901), 196, (1902), 228, _Rev. de
 synthèse historique_ (1901), 151, &c. On incubation see Deubner, _De
 incubatione_, Maury, La Magie. On the dreams of American Indians see
 _Handbook of American Indians_ (Washington, 1907), s v "Dreams" and
 "Manito." On the interpretation of dreams see Freud, _Die Traumdeutung_.
-Other works are F. Greenwood, _Imagination in Dreams_, Hutchinson,
+Other works are F. [[Greenwood]], _[[Imagination]] in Dreams_, [[Hutchinson]],
 _Dreams and their Meanings_.     (N. W. T.)
 
 
 
 
 DREDGE AND DREDGING. The word "dredge" is used in two senses. (1) From
-Mid. Eng. _dragie_, through Fr. _dragée_, from Gr. [Greek: tragêmata],
-sweetmeats, it means a confection of sugar formed with seeds, bits of
+Mid. Eng. _dragie_, through Fr. _[[Drag|drag]]ée_, from Gr. [Greek: tragêmata],
+sweetmeats, it means a confection of sugar formed with seeds, [[Bit|bits]] of
 spice or medicinal agents. The word in this sense is obsolete, but
-survives in "dredger," a box with a perforated top used for sprinkling
+survives in "dredger," a [[Box|box]] with a perforated top used for sprinkling
 such a sugar-mixture, flour or other powdered substance. "Dredge" is
 also a local term for a mixed crop of oats and barley sown together
 ("maslin" or "meslin," cf. Fr. _dragée_), and in mining is applied to
@@ -500,15 +500,15 @@ from the same root, dredge or dredger is a mechanical appliance for
 collecting together and drawing to the surface ("dredging") objects and
 material from the beds of rivers or the bottom of the sea. In the
 following account the operations of dredging in this sense are discussed
-(1) as involved in hydraulic engineering, (2) in connexion with the work
-of the naturalist in marine biology.
+(1) as involved in hydraulic [[Engineering|engineering]], (2) in connexion with the work
+of the naturalist in marine [[Biology|biology]].
 
 
 1. HYDRAULIC ENGINEERING
 
 Dredging is the name given by engineers to the process of excavating
 materials under water, raising them to the surface and depositing them
-in barges, or delivering them through a shoot, a longitudinal conveyor,
+in [[Barge|barges]], or delivering them through a shoot, a longitudinal conveyor,
 or pipes, to the place where it is desired to deposit them. It has long
 been useful in works of marine and hydraulic engineering, and has been
 brought in modern times to a state of high perfection.
@@ -535,7 +535,7 @@ low tide has been increased by dredging from 11 ft. to 27 ft., the
 channel being 1500 ft. wide.
 
 _"Bag and Spoon" Dredger._--The first employment of machinery for
-dredging is, like the discovery of the canal lock, claimed by Holland
+dredging is, like the discovery of the canal [[Lock|lock]], claimed by Holland
 and Italy, in both of which countries it is believed to have been in use
 before it was introduced into Britain. The Dutch, at an early period,
 used what is termed the "bag and spoon" dredger for cleansing their
@@ -555,17 +555,17 @@ The "bag" was then hauled back to the opposite end to be lowered for
 another supply. This system is still in use, but is only adaptable to a
 limited depth of water and a soft bottom; it has been largely used in
 canals and frequently in the Thames. At the Fosdyke Canal in
-Lincolnshire 135,000 tons were raised in the manner described. According
+[[Lincolnshire]] 135,000 tons were raised in the manner described. According
 to J. J. Webster (_Proc. Inst. C. E._ vol. 89), the first application
 of steam power for dredging operations was to a "spoon & bag" dredger
 for cleansing Sunderland harbour, the engine being made by Messrs
-Boulton & Watt of Soho, Birmingham.
+Boulton & Watt of Soho, [[Birmingham]].
 
 _Dredging by Bucket between Two Lighters._--Another plan of dredging,
 practised at an early period in rivers of considerable breadth, was to
 moor two barges, one on each side of the river. Between them was slung
 an iron dredging bucket, which was attached to both barges by chains
-wound on the barrels of a crab winch worked by six men in one barge and
+wound on the [[Barrel|barrels]] of a [[Crab|crab]] winch worked by six men in one barge and
 round a simple windlass worked by two men in the other barge. The
 bucket, being lowered at the side of the barge carrying the windlass,
 was drawn across the bottom of the river by the crab winch on the other
@@ -573,10 +573,10 @@ barge; and having been raised and emptied, it was hauled across by the
 opposite windlass for repetition of the process. This process was in use
 in the River Tay until 1833.
 
-_Bucket Ladder Dredgers._--The earliest record of a bucket ladder
+_Bucket [[Ladder]] Dredgers._--The earliest record of a bucket ladder
 dredger is contained in the first paper of the first volume (1836) of
-the _Transactions_ of the Institution of Civil Engineers. This machine
-was brought into use at the Hull Docks about 1782. The bucket chain was
+the _Transactions_ of the Institution of Civil Engineers. This [[Machine|machine]]
+was brought into use at the [[Hull]] [[Dock|Docks]] about 1782. The bucket chain was
 driven by two horses working a horse-gear on the deck of the vessel. The
 buckets were constructed of 5/8 in. bars of iron spaced 1/8 in. apart,
 and were 4 ft. long, 13 in. deep, 12 in. wide at the mouth and about 6
@@ -590,13 +590,13 @@ became a very efficient machine in skilful hands, excavating and raising
 material from depths of 5 ft. to 60 ft. of water at a cost not very
 different from, and in many cases less than, that at which the same work
 could be performed on land. With the powerful dredgers now constructed,
-almost all materials, except solid rock or very large boulders, can be
+almost all materials, except solid rock or very large [[Boulder|boulders]], can be
 dredged with ease. Loose gravel is perhaps the most favourable material
 to work in, but a powerful dredger will readily break up and raise
 indurated beds of gravel, clay and boulders, and has even found its way
 through the surface of soft rock, though it will not penetrate very far
 into it. In some cases steel diggers alternating with the buckets on the
-bucket frame have been successfully employed. The construction of large
+bucket [[Frame|frame]] have been successfully employed. The construction of large
 steam dredgers is now carried on by many engineering firms. The main
 feature of the machine is the bucket ladder which is hung at the top end
 by eye straps to the frame of the vessel, and at the lower end by a
@@ -606,7 +606,7 @@ water in which the dredger works. The upper tumbler for working the
 bucket chain is generally square or pentagonal in form and made of steel
 with loose steel wearing pieces securely bolted to it. The tumbler is
 securely keyed to the steel shaft which is connected by gearing and
-shafting to the steam engine, a friction block being inserted at a
+shafting to the steam engine, a [[Friction|friction]] block being inserted at a
 convenient point to prevent breakage should any hidden obstacle causing
 unusual strain be met with in the path of the buckets. The lower tumbler
 is similar in construction to the upper tumbler, but is usually
@@ -651,15 +651,15 @@ alluded to.
   capacity exceeding 9 cub. ft., but since that time they have been
   gradually increased in capacity. In the dredger "Melbourne,"
   constructed by Messrs William Simons & Co. to the design and
-  specification of Messrs Coode, Son & Matthews, about the year 1886,
+  specification of Messrs Coode, Son & [[Matthew|Matthews]], about the year 1886,
   the buckets had a capacity of 22 cub. ft., the dredger being capable
   of making 37 ft. of water. The driving power consists of two pairs of
   surface-condensing engines, each of 250 i.h.p., having cylinders 20
   in. and 40 in. in diameter respectively, with a 30 in. stroke, the
-  boiler pressure being 90 lb. per sq. in. The vessel is 200 ft. long
+  [[Boiler|boiler]] pressure being 90 lb. per sq. in. The vessel is 200 ft. long
   by 36 ft. wide and 11 ft. 6 in. deep, and is driven by twin screw
   propellers. The gearing is arranged so that either pair of engines can
-  be employed for dredging. The speed under steam is 7 knots, and in
+  be employed for dredging. The speed under steam is 7 [[Knot|knots]], and in
   free-getting material 800 tons per hour can be dredged with ease. On
   one occasion the dredger loaded 400 tons in 20 minutes. The speed of
   the bucket chain is 83 lineal ft. per minute. The draught of the
@@ -699,8 +699,8 @@ alluded to.
   obtained. The bucket ladder, which weighs over 100 tons, exclusive of
   dredgings, is raised and lowered by a set of independent engines. For
   manoeuvring, powerful winches driven by independent engines are placed
-  at the bow and stern. The vessel is fitted throughout with electric
-  light, arc lamps being provided above the deck to enable dredging to
+  at the [[Bow|bow]] and stern. The vessel is fitted throughout with electric
+  light, arc [[Lamp|lamps]] being provided above the deck to enable dredging to
   be carried on at night. Steam steering gear, a repairing shop, a
   three-ton crane, and all the latest appliances are installed on board.
 
@@ -721,7 +721,7 @@ alluded to.
   II fig. 11), from which some idea of the size of dredging machinery as
   developed in recent practice may be obtained. In regard to the depth
   of water that can be obtained by dredging, it is interesting to note
-  that the dredger "Diver," constructed by Messrs. Hunter & English for
+  that the dredger "Diver," constructed by Messrs. [[Hunter]] & English for
   Mr Samuel Williams of London, is capable of working in 60 ft. of
   water. In this vessel an ingenious arrangement was devised by Mr
   Williams, by which part of the weight of the dredger was balanced
@@ -739,7 +739,7 @@ flaps in their bottoms, which can be opened when the place of deposit is
 reached and the dredgings easily and quickly discharged.
 
 Good examples of these vessels are the two steam hopper barges built for
-the Conservators of the river Thames in 1898. The dimensions are: length
+the Conservators of the river Thames in 1898. The [[Dimension|dimensions]] are: length
 190 ft., breadth 30 ft., depth 13 ft. 3 in., hopper capacity 900 tons.
 They are propelled by a set of triple expansion engines of 1200 i.h.p.,
 with two return-tube boilers having a working pressure of 160 lb.
@@ -757,7 +757,7 @@ side of the river. It is found that inequalities are left between the
 longitudinal furrows when that system is practised, which do not occur,
 to the same extent, in side or cross dredging; and cross dredging leaves
 a more uniform bottom. In either case the dredger is moored from the
-head and stern by chains about 250 fathoms in length. These chains in
+head and stern by chains about 250 [[Fathom|fathoms]] in length. These chains in
 improved dredgers are wound round windlasses worked by the engine, so
 that the vessel can be moved ahead or astern by simply throwing them
 into or out of gear. In longitudinal dredging the vessel is worked
@@ -797,7 +797,7 @@ dredgers are convenient and economical. These dredgers were first
 constructed by Messrs. Wm. Simons & Co. of Renfrew, who patented and
 constructed what they call the "Hopper Dredger," combining in itself the
 advantages of a dredger for raising material and a scow hopper vessel
-for conveying it to the place of discharge, both of which services are
+for conveying it to the place of [[Discharge|discharge]], both of which services are
 performed by the same engines and the same crew.
 
 The vessel for this type of dredger is made of sufficient length and
@@ -809,7 +809,7 @@ instances counterbalanced by the fact that less capital is required for
 plant and that less room is taken up by the dredger. If the depositing
 ground is far away, the time available for dredging is much curtailed,
 but the four-screw hopper dredger constructed by Messrs Wm. Simons & Co.
-for Bristol has done good work at the cost of 5d. per ton, including
+for [[Bristol]] has done good work at the cost of 5d. per ton, including
 wages, repairs, coals, grease, sundries and interest on the first cost
 of the plant, notwithstanding that the material has to be taken 10 m.
 from the Bristol Dock. She can lift 400 tons of stiff clay per hour from
@@ -868,7 +868,7 @@ after being mingled with water by a revolving Woodford pump was sent off
 under a head of pressure of 4 or 5 ft. to the place of deposit in a
 semi-fluid state through pipes made of timber, hooped with iron. These
 wooden pipes were made in lengths of about 15 ft., connected with
-leather joints, and floated on the surface of the water. A somewhat
+leather [[Joints|joints]], and floated on the surface of the water. A somewhat
 similar process was also employed on the Suez Canal.
 
   A dredger (Plate I. fig. 5), constructed by Messrs Hunter & English
@@ -896,7 +896,7 @@ similar process was also employed on the Suez Canal.
   An interesting example of a shore delivering dredger is a light
   draught dredger constructed by Messrs Hunter & English for the Lakes
   of Albufera at the mouth of the river Ebro in Spain (Plate I. fig. 6).
-  The conditions laid down for this dredger were that it should float in
+  The conditions laid down for this dredger were that it should [[Float|float]] in
   18 in. of water and deliver the dredged material at 90 ft. from the
   centre of its own hull. In order to meet these requirements the vessel
   was made of steel plates 1/8 in. thick, and longitudinal girders from
@@ -929,7 +929,7 @@ similar process was also employed on the Suez Canal.
   is given by Mr Duckham at 1.75d. per cub. yd. of mud lifted, conveyed
   and deposited on land 450 ft. from the water-side, for working
   expenses only. This dredger is believed to be the first machine
-  constructed with a traversing ladder, as suggested by Captain Gibson
+  constructed with a traversing ladder, as suggested by Captain [[Gibson]]
   when dock-master of the Millwall Docks.
 
 _Blasting combined with Dredging._--In some cases it has been found that
@@ -943,11 +943,11 @@ quantities of boulder stones were blasted, and afterwards raised by a
 dredger worked by hand at a cost of 10s. 6d. per cub. yd. Sir William
 Cubitt also largely employed blasting in connexion with dredging on the
 Severn (see _Proc. Inst. C.E._ vol. iv. p. 362). The cost of blasting
-and dredging the marl beds is given as being 4s. per cub. yd. A
-combination of blasting and dredging was employed in 1875 by John Fowler
+and dredging the [[Marl|marl]] beds is given as being 4s. per cub. yd. A
+combination of blasting and dredging was employed in 1875 by John [[Fowler]]
 of Stockton at the river Tees. The chief novelty was in the barge upon
 which the machinery was fixed. It was 58 ft. by 28 ft. by 4 ft., and had
-eight legs which were let down when the barge was in position. The legs
+eight [[Leg|legs]] which were let down when the barge was in position. The legs
 were then fixed to the barge, so that on the tide falling it became a
 fixed platform from which the drilling was done. Holes were bored and
 charged, and when the tide rose the legs were heaved up and the barge
@@ -967,7 +967,7 @@ at sea was about 4s. per cub. yd., including interest on dredging and
 other plant employed. The dredger sometimes worked a face of blasted
 material of from 7 to 8 ft. The quantity blasted was 110,000 cub. yds.,
 and the contract for blasting so as to be lifted by the dredger was 3s.
-1d. per cub. yd. A similar plan was adopted at Blyth Harbour (see _Proc.
+1d. per cub. yd. A similar plan was adopted at [[Blyth]] Harbour (see _Proc.
 Inst. C.E._ vol. 81, p. 302). The cost of the explosives per cub. yd.
 was 1s. 4d., of boring 1s. 9d. per cub. yd., and of dredging 3s. per
 cub. yd., including repairs, but nothing for the use of plant. The whole
@@ -996,7 +996,7 @@ specially suited.
   through these pipes, the bottoms of which were perforated by a series
   of holes. In addition, there were a few small flap-doors fixed at
   intervals, by means of which the men were able to regulate the
-  discharge. On being tested, the craft pumped into its hopper 400 tons
+  discharge. On being tested, the [[Craft|craft]] pumped into its hopper 400 tons
   of sand in 22 minutes. The coamings round the well of the hoppers were
   constructed with a dip, and when the hopper was full the water ran
   over in a steady stream on either side. The proportion of sand
@@ -1068,7 +1068,7 @@ specially suited.
 
   Sand-pump dredgers, designed and arranged by Mr Darnton Hutton, were
   extensively used on the Amsterdam Ship Canal. A centrifugal pump with
-  a fan 4 ft. in diameter was employed, the suction and delivery pipes,
+  a [[Fan|fan]] 4 ft. in diameter was employed, the suction and delivery pipes,
   each 18 in. in diameter, being attached to an open wrought-iron
   framework. The machine was suspended between guides fixed to the end
   of the vessel, which was fitted with tackle for raising, lowering and
@@ -1097,7 +1097,7 @@ specially suited.
   in 1899. They are each 320 ft. long, 47 ft. wide and 20.5 ft. deep,
   the draught loaded being 16 ft. They are fitted with two centrifugal
   pumps, each 6 ft. in diameter, with 36 in. suction and delivery pipes,
-  united into a 45 in. diameter pipe, hung by a ball and socket joint in
+  united into a 45 in. diameter pipe, hung by a [[Ball|ball]] and socket joint in
   a trunnion, so as to work safely in a seaway when the waves are 10 ft.
   high. The suction pipe is 76 ft. long and will dredge in 53 ft. of
   water. The eight hoppers hold 3000 tons, equivalent when solid to 2000
@@ -1108,7 +1108,7 @@ specially suited.
   bar, with a minimum depth of 27 ft. The cost of dredging on the bar by
   the "G. B. Crow" during 1898, when 4,309,350 tons of material were
   removed, was 0.61d. per ton for wages, supplies and repairs. These
-  figures include all direct working costs and a proportion of the
+  figures include all direct working [[Costs|costs]] and a proportion of the
   charge for actual superintendence, but no allowance for interest on
   capital cost or depreciation. On an average, 20% of the sand and mud
   that are raised escapes over the side of the vessel. Mr Lyster has,
@@ -1147,8 +1147,8 @@ specially suited.
   permits."
 
   The vessel in question was launched on the Mersey from the yard of
-  Messrs Cammell, Laird & Co. in October 1908, and was named the
-  "Leviathan." Her length is 487 ft., beam 69 ft., and depth 30 ft. 7
+  Messrs Cammell, [[Laird]] & Co. in October 1908, and was named the
+  "[[Leviathan]]." Her length is 487 ft., beam 69 ft., and depth 30 ft. 7
   in. Her dredging machinery consists of four centrifugal pumps driven
   by four sets of inverted triple expansion engines, and connected to
   four suction tubes 90 ft. long and 42 in. in internal diameter. Her
@@ -1157,7 +1157,7 @@ specially suited.
 
   Another powerful and successful sand-pump dredger, "Kate" (Plate I.
   fig. 7), was built in 1897 by Messrs Wm. Simons & Co. Ltd. for the
-  East London Harbour Board, South Africa. Its dimensions are: length
+  [[East London]] Harbour Board, South Africa. Its dimensions are: length
   200 ft., breadth 39 ft., depth 14 ft. 6 in., hopper capacity 1000
   tons. The pumping arrangements for filling the hopper with sand or
   discharging overboard consist of two centrifugal pumps, each driven
@@ -1166,7 +1166,7 @@ specially suited.
   either forward or aft, as the state of the weather may require. Four
   steam cranes are provided for manipulating the suction pipes. Owing to
   the exceptional weather with which the vessel had to contend, special
-  precautions were taken in designing the attachments of the suction
+  precautions were taken in designing the [[Attachment|attachments]] of the suction
   pipes to the vessel. The attachment is above deck and consists of a
   series of joints, which give a perfectly free and universal movement
   to the upper ends of the pipes. The joints, on each side of the
@@ -1184,7 +1184,7 @@ specially suited.
   when she dredged and deposited 6440 tons.
 
   A large quantity of sand-pump dredging has been carried out at
-  Boulogne and Calais by steam hopper pump dredgers, workable when the
+  [[Boulogne]] and Calais by steam hopper pump dredgers, workable when the
   head waves are not more than 3 ft. high and the cross waves not more
   than 1½ ft. high. The dredgings are taken 2 m. to sea, and the price
   for dredging and depositing from 800,000 to 900,000 cub. metres in 5
@@ -1221,7 +1221,7 @@ special steam appliances by which the pipe can be brought entirely
 inboard. The "Percy Sanderson" raises and deposits on an average 5000
 tons of material per day.
 
-_Grab Dredgers._--The grab dredger was stated by Sir Benjamin Baker
+_Grab Dredgers._--The grab dredger was stated by Sir [[Benjamin]] [[Baker]]
 (_Proc. Inst. C.E._ vol. 113, p. 38) to have been invented by Gouffé in
 1703, and was worked by two ropes and a bar. Various kinds of apparatus
 have been designed in the shape of grabs or buckets for dredging
@@ -1242,13 +1242,13 @@ of the vessel upon which the crane is fixed or into another barge.
   of 48 tons and a maximum of 58 tons per hour, at a cost of 1.63d. per
   ton, excluding interest on the capital and depreciation. The largest
   dredger to which this apparatus has been applied is the grab bucket
-  hopper dredger "Miles K. Burton" (Plate I. fig. 9), belonging to the
+  hopper dredger "Miles K. [[Burton]]" (Plate I. fig. 9), belonging to the
   Mersey Docks and Harbour Board. It is equipped with 5 grabs on
   Morgan's patent system, which is a modification of Priestman's, the
   grabs being worked by 5 hydraulic cranes. It raised and deposited, 12
   to 15 m. at sea, 11 loads of about 1450 tons each with a double shift
   of hands, at a cost of about 1s. 5d. per cub. yd. of spoil, including
-  the working expenses for wages of crew, fuel and stores. Mr R. A.
+  the working expenses for wages of crew, [[Fuel|fuel]] and stores. Mr R. A.
   Marillier of Hull has stated that "the efficiency of these grabs is
   not at all dependent upon the force of the blow in falling for the
   penetration and grip in the material, as they do their work very
@@ -1264,11 +1264,11 @@ of the vessel upon which the crane is fixed or into another barge.
   Since the beginning of the 20th century considerable advance has been
   made in the use of Priestman grabs, not only for dredging and
   excavating (for which work they were originally designed), but also in
-  discharging bulk cargo. The first quadruple dredger used by the
-  Liverpool Docks Board had grabs of a capacity of 30 cub. ft., but
+  discharging bulk [[Cargo|cargo]]. The first quadruple dredger used by the
+  [[Liverpool]] Docks Board had grabs of a capacity of 30 cub. ft., but
   subsequently second and third quadruple dredgers were put to work in
   the Liverpool Docks, with grabs having a capacity of 70 and 100 cub.
-  ft. respectively. In discharging coal at Southampton, Havre, Erith,
+  ft. respectively. In discharging coal at Southampton, [[Havre]], [[Erith]],
   as well as at the coaling station at Purfleet on the Thames, grabs
   having a capacity of about 80 cub. ft. are in constant use. Perhaps
   the most difficult kind of bulk cargo to lift is "Narvick" iron ore,
@@ -1320,7 +1320,7 @@ cleansing and deepening rivers and harbours.
   with a pair of trussed beams, one at each side, each of which carried
   a steel shaft and was capable of being lowered or raised by means of a
   crab. An ordinary propeller 3 ft. 6 in. in diameter was fixed to the
-  lower end of the shaft, and driven by bevel gear from a cross shaft
+  lower end of the shaft, and driven by [[Bevel|bevel]] gear from a cross shaft
   which derived its motion by belting from the fly-wheel of a 12 h.p.
   portable engine. The propellers were lowered until they nearly reached
   the shoals, and were then worked at 150 revolutions per minute. This
@@ -1340,7 +1340,7 @@ cleansing and deepening rivers and harbours.
   yds., and is propelled and the pumps worked by an engine of 150 i.h.p.
   From 50 to 80 cub. yds. per hour can be raised by this dredger.
 
-  The "Aquamotrice," designed by Popie, and used on the Garonne at Agen,
+  The "Aquamotrice," designed by Popie, and used on the [[Garonne]] at Agen,
   appears to be a modification of the old bag and spoon arrangement. A
   flat-bottomed boat 51½ ft. long by 6½ ft. wide was fitted at the bow
   with paddles, which were actuated by the tide. Connected with the
@@ -1399,7 +1399,7 @@ cleansing and deepening rivers and harbours.
   successfully upon various works.
 
   Bruce & Batho's dredger, when closed, is of hemispherical form, the
-  bucket being composed of three or four blades. It can be worked by
+  bucket being composed of three or four [[Blades|blades]]. It can be worked by
   either a single chain or by means of a spear, the latter being
   generally used for stiff material. The advantage of this form of
   dredger bucket is that the steel points of the blades are well adapted
@@ -1412,7 +1412,7 @@ cleansing and deepening rivers and harbours.
   the engine-room. The novelty in the design is the ingenious way in
   which the lever in ascending draws the shoot under the bucket to
   receive its contents, and draws away again as the bucket descends. The
-  hydraulic cylinder at the end of the beam is carried on gimbals to
+  hydraulic cylinder at the end of the beam is carried on [[Gimbal|gimbals]] to
   allow for irregularities on the surface being dredged. The hydraulic
   pressure is 700 lb. per sq. in., and the pumps are used in connexion
   with a steam accumulator.
@@ -1425,10 +1425,10 @@ cleansing and deepening rivers and harbours.
   from end to end of the stage, lifted and delivered the materials on
   the marsh behind the river wall at the cost of 1 d. per cub. yd.
 
-_Dredging on the River Scheldt below Antwerp._--This dredging took place
+_Dredging on the River Scheldt below [[Antwerp]]._--This dredging took place
 at Krankeloon and the Belgian Sluis under the direction of L. Van
-Gansberghe. At Melsele there is a pronounced bend in the river, causing
-a bar at the Pass of Port Philip, and just below the pass of Lillo there
+Gansberghe. At Melsele there is a pronounced [[Bend|bend]] in the river, causing
+a bar at the Pass of Port Philip, and just below the pass of [[Lillo]] there
 is a cross-over in the current, making a neutral point and forming a
 shoal. After dredging to 8 metres (26.24 ft.) below low tide, in clay
 containing stone and ferruginous matter, a sandstone formation was
@@ -1457,11 +1457,11 @@ from the scows. Four tugboats and twenty scows were also employed.
   The largest dredger, "Scheldt III.," was 147.63 ft. long by 22.96 ft.
   wide by 10.98 ft. deep, and had buckets of 21.18 cub. ft. capacity.
   The output per hour was 10,594 cub. ft. This dredger had also a
-  complete installation as a suction dredger, the suction pipe being 2
+  complete [[Installation|installation]] as a suction dredger, the suction pipe being 2
   ft. diameter. The fan of the centrifugal pump was 5.25 ft. diameter,
   and was driven by the motor of the bucket ladder. The three bucket
   dredgers worked with head to the ebb tide. They could also work with
-  head to the flood tide, but it took so long a time to turn them about
+  head to the [[Flood|flood]] tide, but it took so long a time to turn them about
   that it was impracticable. The work was for from 13 to 14 hours a day
   on the ebb tide. The effective daily excavation averaged 4839 cub.
   yds. Each dredger was fitted with six anchors. The excavated cut was
@@ -1580,7 +1580,7 @@ the dredge, which was built much on the plan of the oyster dredge.
   _The Oyster Dredge._--At first naturalists made use of the ordinary
   oyster dredge, which is constructed as follows. The frame is an iron
   triangle, the sides being the round iron "arms" of the dredge, the
-  base a flat bar called the shere or lip, which is sloped a little, not
+  base a flat bar called the shere or [[Lip|lip]], which is sloped a little, not
   perpendicular to the plane of the triangle; an iron bar parallel to
   the base joins the arms. The net is fastened to the parallel bars and
   the portion of the arms between them, and consists of two parts: that
@@ -1610,7 +1610,7 @@ the dredge, which was built much on the plan of the oyster dredge.
   on hauling, owing to the size of the mouth. However, with this
   instrument Müller obtained from the often stormy Scandinavian seas all
   the material for his celebrated _Zoologia Danica_, a description of
-  the marine fauna of Denmark and Norway which was published with
+  the marine fauna of [[Denmark]] and Norway which was published with
   excellent coloured plates in 1778; and historical interest attaches to
   the dredge as the first made specially for scientific work.
 
@@ -1639,7 +1639,7 @@ the dredge, which was built much on the plan of the oyster dredge.
   sloping. All dredge frames are of wrought iron.
 
   The thick inner edges of the scrapers are perforated by round holes at
-  distances of about an inch, and through these strong iron rings about
+  distances of about an [[Inch|inch]], and through these strong iron rings about
   an inch in diameter are passed, and two or three similar rings run on
   the short rods which form the ends of the dredge-frame. A light iron
   rod, bent to the form of the dredge opening, usually runs through
@@ -1679,7 +1679,7 @@ best kind of line is bolt-rope of the best Russian hemp, not less than
 yarn should be nearly a hundredweight, so that the breaking strain of
 such a rope ought to be about a ton. Of course it is never voluntarily
 exposed to such a strain, but in shallow water the dredge is often
-caught among rocks or coral, and the rope should be strong enough in
+caught among rocks or [[Coral|coral]], and the rope should be strong enough in
 such a case to bring up the boat, even if there were some little way on.
 It is always well, when dredging, to ascertain the approximate depth
 with the lead before casting the dredge; and the lead ought always to be
@@ -1713,7 +1713,7 @@ whether the dredge is going down properly. When it reaches the ground
 and begins to scrape, an experienced hand upon the rope can usually
 detect at once a tremor given to the dredge by the scraper passing over
 the irregularities of the bottom. The due amount of rope is then paid
-out, and the rope hitched to a bench or rowlock-pin. The boat should
+out, and the rope hitched to a [[Bench|bench]] or rowlock-pin. The boat should
 move very slowly, probably not faster than a mile an hour. In still
 water or with a very slight current the dredge of course anchors the
 boat, and oars or sails are necessary; but if the boat be moving at all
@@ -1734,7 +1734,7 @@ boat, but if the steamer is of any size great care should be taken that
 the dredge does not move too rapidly.
 
 Two ingenious cases of dredging under unusual conditions are worthy of
-mention, one case from shore, one from ice. In the Trondligem Fjord,
+mention, one case from shore, one from [[Ice|ice]]. In the Trondligem Fjord,
 Canon A. M. Norman in 1890 worked by hauling the dredge up the
 precipitous shores of the fjord. The dredge was shot from a boat close
 to the shore, to which after paying out some hundreds of fathoms of line
@@ -1760,7 +1760,7 @@ first plan is the simpler and the one more usually adopted; the second
 has the advantage of letting the mass slide out more smoothly and
 easily, but the lacing introduces rather a damaging complication, as it
 is apt to loosen or give way. Any objects visible on the surface of the
-heap are now carefully removed, and placed for identification in jars or
+heap are now carefully removed, and placed for [[Identification|identification]] in jars or
 tubs of sea-water, of which there should be a number secured in some
 form of bottle basket, standing ready. The heap should not be much
 disturbed, for the delicate objects contained in it have already been
@@ -1778,7 +1778,7 @@ attached to the bottom one. Objects of different sizes are thus left in
 different sieves. A simple but effective plan is to let the sieves of
 various sized mesh fit accurately on each other like lids, the coarsest
 on top, and to pour water upon material placed on the top one. In the
-United States Bureau of Fisheries ship "Albatross" these sieves are
+United States [[Bureau]] of [[Fisheries]] ship "Albatross" these sieves are
 raised to form a table and the water is led on them from a hose: the
 very finest objects or sediments are retained by the waste water
 escaping from a catchment tub by muslin bags let into its sides. Any of
@@ -1790,10 +1790,10 @@ _Preservation of Specimens._--The preservation of specimens will of
 course depend on the purpose for which they are intended. For
 microscopic observation formaldehyde has some advantages. It can be
 stored in 40% solution and used in 2%, thus saving space, and it
-preserves many animals in their colours for a time: formalin
+preserves many animals in their colours for a time: [[Formalin|formalin]]
 preparations do not, however, last as well as do those in spirit. The
 suitable fluids for various histological inquiries are beyond the scope
-of the present article; but for general marine histology Bles' fluid is
+of the present article; but for general marine [[Histology|histology]] Bles' fluid is
 useful, being simple to prepare and not necessitating the removal of the
 specimen to another fluid. It is composed of 70% alcohol 90 parts,
 glacial acetic acid 7 parts, 4% formaldehyde 7 parts.
@@ -1804,7 +1804,7 @@ future identification and reference, and the accuracy with which all the
 circumstances of the dredging--the position, the depth, the nature of
 the ground, the date, the bottom-temperature, &c.--are recorded. In the
 British Marine Biological Association's work in the North Sea, a
-separate sheet of a printed book with carbon paper and duplicate sheets
+separate sheet of a printed book with [[Carbon|carbon]] paper and duplicate sheets
 (which remain always on the ship) is used for the record of the
 particulars of each haul; depth, gear, &c., being filled into spaces
 indicated in the form. This use of previously prepared forms has been
@@ -1822,7 +1822,7 @@ marine zoology of Great Britain, the illustration of the geographical
 distribution of marine animals, and the more accurate determination of
 the fossils of the Pliocene period." Of this committee Edward Forbes was
 the ruling spirit, and under the genial influence of his contagious
-enthusiasm great progress was made during the next decade in the
+[[Enthusiasm|enthusiasm]] great progress was made during the next decade in the
 knowledge of the fauna of the British seas, and many wonderfully
 pleasant days were spent by the original committee and by many others
 who from year to year were "added to their number." Every annual report
@@ -1852,12 +1852,12 @@ bottom, and thus allowed a tube, so arranged as to get filled with a
 sample of the bottom, to be recovered by the sounding line, were eagerly
 examined by microscopists; and the singular fact was established that
 these samples consisted over a large part of the bed of the Atlantic of
-the entire or broken shells of certain foraminifera. Dr Wallich, the
-naturalist to the "Bulldog" sounding expedition under Sir Leopold
-M'Clintock, reported that star-fishes, with their stomachs full of the
+the entire or broken shells of certain [[Foraminifera|foraminifera]]. Dr Wallich, the
+naturalist to the "Bulldog" sounding expedition under Sir [[Leopold]]
+[[M'Clintock]], reported that star-fishes, with their stomachs full of the
 deep-sea foraminifera, had come up from a depth of 1200 fathoms on a
 sounding line; and doubts began to be entertained whether the bottom of
-the sea was in truth a desert, or whether it might not present a new
+the sea was in truth a [[Desert|desert]], or whether it might not present a new
 zoological region open to investigation and discovery, and peopled by a
 peculiar fauna suited to its special conditions.
 
@@ -1865,7 +1865,7 @@ In the year 1867, while the question was still undecided, two testing
 investigations were undertaken independently. In America Count L. F. de
 Pourtales (1824-1880), an officer employed in the United States Coast
 Survey under Benjamin Peirce, commenced a series of deep dredgings
-across the Gulf Stream off the coast of Florida, which were continued in
+across the [[Gulf Stream]] off the coast of Florida, which were continued in
 the following year, and were productive of most valuable results; and in
 Great Britain the Admiralty, on the representation of the Royal Society,
 placed the "Lightning," a small gun-vessel, at the disposal of a small
@@ -1879,7 +1879,7 @@ results of the "Lightning's" dredgings were regarded of so great
 importance to science that the Royal Society pressed upon the Admiralty
 the advantage of continuing the researches, and accordingly, during the
 years 1869 and 1870, the gun-boat "Porcupine" was put under the orders
-of a committee consisting of Dr W. B. Carpenter, Dr Gwyn Jeffreys, and
+of a committee consisting of Dr W. B. Carpenter, Dr [[Gwyn]] [[Jeffrey|Jeffreys]], and
 Professor (afterwards Sir Charles) Wyville Thomson, one or other of whom
 superintended the scientific work of a series of dredging trips in the
 North Atlantic to the north and west of the British Islands, which
@@ -1887,7 +1887,7 @@ occupied two summers.
 
 In the "Porcupine," in the summer of 1869, dredging was carried down
 successfully to a depth of 2435 fathoms, upwards of two miles and a
-half, in the Bay of Biscay, and the dredge brought up well-developed
+half, in the Bay of [[Biscay]], and the dredge brought up well-developed
 representatives of all the classes of marine invertebrates. During the
 cruises of the "Porcupine" the fauna of the deep water off the western
 coasts of Great Britain and of Spain and Portugal was tolerably well
@@ -1899,7 +1899,7 @@ and the later Cretaceous periods.
 In the winter of 1872, as a sequel to the preliminary cruises of the
 "Lightning" and "Porcupine," by far the most considerable expedition in
 which systematic dredging had ever been made a special object left Great
-Britain. H.M.S. "Challenger," a corvette of 2306 tons, with auxiliary
+Britain. H.M.S. "Challenger," a corvette of 2306 tons, with [[Auxiliary|auxiliary]]
 steam working to 1234 h.p., was despatched to investigate the physical
 and biological conditions of the great ocean basins.
 
@@ -1935,8 +1935,8 @@ rope used is of wire this front weight is unnecessary.
   the dredge rope, as the ship's engines may at any moment be needed to
   ease the tension by stopping the vessel's way, and the hauling engines
   by paying out more rope. The use of accumulators both renders the
-  strain more gradual and gives warning of an increase or decrease;
-  indeed they can be calibrated and used as dynamometers to measure the
+  strain more [[Gradual|gradual]] and gives warning of an increase or decrease;
+  indeed they can be calibrated and used as [[Dynamometer|dynamometers]] to measure the
   strain. One of the best forms of accumulator consists of a pile of
   perforated rubber disks, which receive the strain and become
   compressed in doing so. The arrangement is in essence as follows. The
@@ -1956,7 +1956,7 @@ rope used is of wire this front weight is unnecessary.
   The margin of safety of steel wire rope is much larger than is that of
   hempen rope, a fact of importance both in towing in a rough sea and in
   hauling. Galvanized steel wire with a hempen core was first used by
-  Agassiz on the "Blake." He states that his wire weighed one pound per
+  Agassiz on the "[[Blake]]." He states that his wire weighed one pound per
   fathom, against two pounds per fathom of hempen rope, and had a
   breaking strain nearly twice that of hempen rope, which bore two tons.
   Thus in hauling the wire rope has both greater capability and less
@@ -1967,7 +1967,7 @@ rope used is of wire this front weight is unnecessary.
 
   Wire rope is kept wound on reels supplied with efficient brakes to
   check or stop its progress, and an engine is often fitted for winding
-  it in and veering it out. From the reel it passes to the drum of the
+  it in and veering it out. From the reel it passes to the [[Drum|drum]] of the
   hauling engine, round which it takes some few turns; care is taken by
   watching or by the use of an automatic regulator (Tanner) that it is
   taken at a rate equal to that at which it is moving over the side.
@@ -1991,7 +1991,7 @@ There should be a relation maintained between speed of vessel onward and
 of rope downward, or a foul haul may result owing to the gear capsizing
 (in the case of a trawl), or getting the net over the mouth (in a
 dredge). The most satisfactory method of ensuring this relation seems to
-be so to manage the two speeds that the angle made by the dredge rope is
+be so to [[Manage|manage]] the two speeds that the angle made by the dredge rope is
 fairly constant. This angle can be observed with a simple clinometer.
 The following table abridged from Tanner most usefully brings together
 the requisite angles with other useful quantities.
@@ -2019,7 +2019,7 @@ be slow from great depths, but may increase in speed as the gear rises.
 
   For further details of deep-sea dredging, especially of the hauling
   machinery and management of the gear, the special reports of the
-  various expeditions must be consulted. Commander Tanner, U.S.N., has
+  various expeditions must be consulted. [[Commander]] Tanner, U.S.N., has
   given in _Deep Sea Exploration_ (1897) a very full and good account of
   the equipment of an exploring ship; and to this book the present
   article is much indebted.
@@ -2039,7 +2039,7 @@ was at first attached to the back of the net. From the "Challenger"
 expedition onward it has been fixed behind the net by iron bars
 stretching back from the short sides of the dredge frame which pass
 through eyes in their first ends (fig. 15). The swabs are thus unable to
-fold over the mouth of the dredge. Rope lashings to the lips of the
+[[Fold|fold]] over the mouth of the dredge. Rope lashings to the lips of the
 dredge are sometimes added, and a weight is tied to the larger bar to
 keep it down.
 
@@ -2075,11 +2075,11 @@ among corals.
   without filling the dredge with the soil in which they live. Holt
   used, at Plymouth, a dredge whose side bars and lower lip were of
   iron, the latter armed with forward and downward pointing teeth which
-  stirred up the sand and its denizens in front of the dredge mouth. The
+  stirred up the sand and its [[Denizen|denizens]] in front of the dredge mouth. The
   upper lip of the dredge was replaced by a bar of wood. The bag was of
   cheese-cloth or light open canvas, and the whole was of light
   construction. The apparatus was very useful in capturing small
-  burrowing crustacea. The Chester rake dredge is a Blake dredge in
+  burrowing crustacea. The [[Chester]] rake dredge is a Blake dredge in
   front of which is secured a heavy iron rectangle with teeth placed
   almost at right angles to its long sides and in the plane of the
   rectangle. Each of these instruments has a width along the scraping
@@ -2180,7 +2180,7 @@ among corals.
 
   _Agassiz or Blake Trawl._--This is generally considered to possess
   advantages over the preceding, and is decidedly better for those not
-  experts in trawling. Its frame (fig. 18) consists of two iron runners
+  [[Expert|experts]] in trawling. Its frame (fig. 18) consists of two iron runners
   each the shape of a capital letter D, joined by iron rods or pipes
   which connect the middle of each stroke with the corresponding point
   on the other letter. The net is a tapering one, its mouth being a
@@ -2190,7 +2190,7 @@ among corals.
   opening.
 
   [Illustration: From Alexander E. Agassiz's _Three Cruises of the
-  "Blake."_ By permission of Houghton, Mifflin & Co.
+  "Blake."_ By permission of [[Houghton]], Mifflin & Co.
 
   FIG. 18.--Agassiz or Blake Trawl.]
 
@@ -2212,7 +2212,7 @@ known denizens of great depths were the foraminifera and few echinoderms
 brought up by various sounding apparatus. Next with the dredge and
 tangles the number of groups obtained was much greater. As soon as
 trawls were adopted fish began to make their appearance. The greatest
-gaps in our knowledge still probably occur in the large and swiftly
+[[Gap|gaps]] in our knowledge still probably occur in the large and swiftly
 moving forms, such as fish and cephalopods. As we can hardly hope to
 move apparatus swiftly over the bottom in great depths, the way in which
 improvement is possible probably is that of increasing the spread of the

@@ -35,7 +35,7 @@ most frequently urged against it was the difficulty of explaining the
 very existence of shadows. Thanks to Fresnel and his followers, this
 department of optics is now precisely the one in which the theory has
 gained its greatest triumphs. The principle employed in these
-investigations is due to C. Huygens, and may be thus formulated. If
+investigations is due to C. [[Huygens]], and may be thus formulated. If
 round the origin of waves an ideal closed surface be drawn, the whole
 action of the waves in the region beyond may be regarded as due to the
 motion continually propagated across the various elements of this
@@ -274,7 +274,7 @@ of the surface, the other elements remaining at rest.
   existing zone, and this is sensibly the same as if there were no
   obstruction.
 
-  When light passes through a small circular or annular aperture, the
+  When light passes through a small circular or [[Annular|annular]] [[Aperture|aperture]], the
   illumination at any point along the axis depends upon the precise
   relation between the aperture and the distance from it at which the
   point is taken. If, as in the last paragraph, we imagine a system of
@@ -320,7 +320,7 @@ of the surface, the other elements remaining at rest.
   of light being a small needle hole in a plate of tin, through which
   the sun's rays shine horizontally after reflection from an external
   mirror. In the absence of a heliostat it is more convenient to obtain
-  a point of light with the aid of a lens of short focus.
+  a point of light with the aid of a lens of short [[Focus|focus]].
 
   The amplitude of the light at any point in the axis, when plane waves
   are incident perpendicularly upon an annular aperture, is, as above,
@@ -357,7 +357,7 @@ diffraction is the investigation of the distribution of light over a
 screen upon which impinge divergent or convergent spherical waves after
 passage through various diffracting apertures. When the waves are
 convergent and the recipient screen is placed so as to contain the
-centre of convergency--the image of the original radiant point, the
+centre of convergency--the [[Image|image]] of the original radiant point, the
 calculation assumes a less complicated form. This class of phenomena was
 investigated by J. von Fraunhofer (upon principles laid down by
 Fresnel), and are sometimes called after his name. We may conveniently
@@ -488,7 +488,7 @@ in respect to the theory of optical instruments.
     y = - ( 1 + - + -- + ... ) - -- ---- - -----.
         U  \    U   U²      /    3   15     315
 
-  This equation is to be solved by successive approximation. It will
+  This [[Equation|equation]] is to be solved by successive approximation. It will
   readily be found that
 
                            2         13        146
@@ -584,7 +584,7 @@ in respect to the theory of optical instruments.
   When the difference of phase amounts to [lambda], we may expect the
   resultant illumination to be very much reduced. In the particular case
   of a rectangular aperture the course of things can be readily
-  followed, especially if we conceive f to be infinite. In the direction
+  followed, especially if we conceive f to be [[Infinite|infinite]]. In the direction
   (suppose horizontal) for which [eta] = 0, [xi]/f = sin [theta], the
   phases of the secondary waves range over a complete period when sin
   [theta] = [lambda]/a, and, since all parts of the horizontal aperture
@@ -627,7 +627,7 @@ in respect to the theory of optical instruments.
                               [lambda]²f²
 
   the same law as obtains for a luminous point when horizontal
-  directions are alone considered. The definition of a fine vertical
+  directions are alone considered. The [[Definition|definition]] of a fine vertical
   line, and consequently the resolving power for contiguous vertical
   lines, is thus _independent of the vertical aperture of the
   instrument_, a law of great importance in the theory of the
@@ -673,8 +673,8 @@ in respect to the theory of optical instruments.
 
   The resolving power of a telescope with circular or rectangular
   aperture is easily investigated experimentally. The best object for
-  examination is a grating of fine wires, about fifty to the inch,
-  backed by a sodium flame. The object-glass is provided with diaphragms
+  examination is a grating of fine wires, about fifty to the [[Inch|inch]],
+  backed by a sodium flame. The object-glass is provided with [[Diaphragm|diaphragms]]
   pierced with round holes or slits. One of these, of width equal, say,
   to one-tenth of an inch, is inserted in front of the object-glass, and
   the telescope, carefully focused all the while, is drawn gradually
@@ -1102,7 +1102,7 @@ series of years, the advantage of a large aperture in separating the
 components of close double stars was fully examined by W. R. Dawes.
 
 The resolving power of telescopes was investigated also by J. B. L.
-Foucault, who employed a scale of equal bright and dark alternate parts;
+[[Foucault]], who employed a scale of equal bright and dark alternate parts;
 it was found to be proportional to the aperture and independent of the
 focal length. In telescopes of the best construction and of moderate
 aperture the performance is not sensibly prejudiced by outstanding
@@ -1171,7 +1171,7 @@ whether applied to telescopes or microscopes.
   unnecessarily separated.
 
   In the above argument the whole space between the object and the lens
-  is supposed to be occupied by matter of one refractive index, and
+  is supposed to be occupied by matter of one refractive [[Index|index]], and
   [lambda] represents the wave-length _in this medium_ of the kind of
   light employed. If the restriction as to uniformity be violated, what
   we have ultimately to deal with is the wave-length in the medium
@@ -1301,7 +1301,7 @@ or preponderatingly, of one size.
   brightened n times.
 
   In his experiments upon this subject Fraunhofer employed plates of
-  glass dusted over with lycopodium, or studded with small metallic
+  glass dusted over with [[Lycopodium|lycopodium]], or studded with small metallic
   disks of uniform size; and he found that the diameters of the rings
   were proportional to the length of the waves and inversely as the
   diameter of the disks.
@@ -1403,7 +1403,7 @@ exactly the same phase, we see that an aberration nowhere exceeding
   caused by a proportionally less difference of temperature. S. P.
   Langley has proposed to obviate such ill-effects by stirring the air
   included within a telescope tube. It has long been known that the
-  definition of a carbon bisulphide prism may be much improved by a
+  definition of a [[Carbon Bisulphide|carbon bisulphide]] prism may be much improved by a
   vigorous shaking.
 
   We will now consider the application of the principle to the formation
@@ -1517,7 +1517,7 @@ exactly the same phase, we see that an aberration nowhere exceeding
   microscope, is of interest. The limiting efficiency of the microscope
   is attained when the angular aperture amounts to 180°; and it is
   evident that a lateral displacement of the point under observation
-  through ½[lambda] entails (at the old image) a phase-discrepancy of a
+  through ½[lambda] [[Entail|entails]] (at the old image) a phase-discrepancy of a
   whole period, one extreme ray being accelerated and the other retarded
   by half that amount. We may infer that the limits of efficiency in the
   two methods are the same when the length of the pointer is equal to
@@ -1596,7 +1596,7 @@ exactly the same phase, we see that an aberration nowhere exceeding
 
     t = [lambda]/[delta][mu]                 (7).
 
-8. _Diffraction Gratings._--Under the heading "Colours of Striated
+8. _Diffraction Gratings._--Under the heading "[[Colours]] of Striated
 Surfaces," Thomas Young (_Phil. Trans._, 1802) in his usual summary
 fashion gave a general explanation of these colours, including the law
 of sines, the striations being supposed to be straight, parallel and
@@ -1783,7 +1783,7 @@ the years 1817-1823, are republished in his _Collected Writings_
 
   From the value of Bm : B0 we see that no lateral spectrum can surpass
   the central image in brightness; but this result depends upon the
-  hypothesis that the ruling acts by opacity, which is generally very
+  [[Hypothesis|hypothesis]] that the ruling acts by opacity, which is generally very
   far from being the case in practice. In an engraved glass grating
   there is no opaque material present by which light could be absorbed,
   and the effect depends upon a difference of retardation in passing the
@@ -1953,7 +1953,7 @@ the years 1817-1823, are republished in his _Collected Writings_
   periodicity in the half interval, but complete periodicity only after
   the whole interval. The advantage of approximate bisection lies in the
   superior brilliancy of the surviving spectra; but in any case the
-  compound grating may be considered to be perfect in the longer
+  [[Compound|compound]] grating may be considered to be perfect in the longer
   interval, and the definition is as good as if the bisection were
   accurate.
 
@@ -1982,7 +1982,7 @@ the years 1817-1823, are republished in his _Collected Writings_
   grating are accelerated in an increasing degree, as we pass from the
   centre outwards, as compared with the phase they would possess were
   the central value of the grating interval maintained throughout. The
-  irregularity of spacing has thus the effect of a convex lens, which
+  irregularity of spacing has thus the effect of a [[Convex|convex]] lens, which
   accelerates the marginal relatively to the central rays. On the other
   side the effect is reversed. This kind of irregularity may clearly be
   present in a degree surpassing the usual limits, without loss of
@@ -2153,7 +2153,7 @@ the years 1817-1823, are republished in his _Collected Writings_
   1/100, and tan [phi]' = 1, mn might be as great as four millions
   before the error of phase would reach ¼[lambda]. If it were desired to
   use an angular aperture so large that the aberration according to (13)
-  would be injurious, Rowland points out that on his machine there would
+  would be injurious, Rowland points out that on his [[Machine|machine]] there would
   be no difficulty in applying a remedy by making [sigma] slightly
   variable towards the edges. Or, retaining [sigma] constant, we might
   attain compensation by so polishing the surface as to bring the
@@ -2228,7 +2228,7 @@ A much easier method, applicable to glass originals, is that of
 photographic reproduction by contact printing. In several papers dating
 from 1872, Lord Rayleigh (see _Collected Papers_, i. 157, 160, 199, 504;
 iv. 226) has shown that success may be attained by a variety of
-processes, including bichromated gelatin and the old bitumen process,
+processes, including bichromated [[Gelatin|gelatin]] and the old bitumen process,
 and has investigated the effect of imperfect approximation during the
 exposure between the prepared plate and the original. For many purposes
 the copies, containing lines up to 10,000 to the inch, are not inferior.
@@ -2854,7 +2854,7 @@ Again, by a known formula,
 
     2ax² - V²[lambda]y² - V²a[lambda]y = 0,
 
-  which represents a hyperbola with vertices at O and A.
+  which represents a [[Hyperbola|hyperbola]] with vertices at O and A.
 
   From (24), (26) we see that the width of the bands is of the order
   [sqrt] {b[lambda](a + b)/a}. From this we may infer the limitation
@@ -3458,7 +3458,7 @@ FOOTNOTES:
     transcends the separating power of the instrument.
 
   [8] "In the same way we may conclude that in flat gratings any
-    departure from a straight line has the effect of causing the dust in
+    departure from a straight line has the effect of causing the [[Dust|dust]] in
     the slit and the spectrum to have different foci--a fact sometimes
     observed." (Rowland, "On Concave Gratings for Optical Purposes,"
     _Phil. Mag._, September 1883).
@@ -3483,7 +3483,7 @@ FOOTNOTES:
 
   [11] H. Necker (_Phil. Mag._, November 1832); Fox Talbot (_Phil.
     Mag._, June 1833). "When the sun is about to emerge ... every branch
-    and leaf is lighted up with a silvery lustre of indescribable
+    and [[Leaf|leaf]] is lighted up with a silvery lustre of indescribable
     beauty.... The birds, as Mr Necker very truly describes, appear like
     flying brilliant sparks." Talbot ascribes the appearance to
     diffraction; and he recommends the use of a telescope.

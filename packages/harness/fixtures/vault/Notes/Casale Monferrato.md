@@ -8,9 +8,9 @@ topic: literature-theory
 
 CASALE MONFERRATO, a town and episcopal see of Piedmont, Italy, in the
 province of Alessandria, 21 m. N.N.W. by rail from the town of
-Alessandria. Pop. (1901) 18,874 (town); 31,370 (commune). It lies in the
+Alessandria. Pop. (1901) 18,874 (town); 31,370 ([[Commune|commune]]). It lies in the
 plain on the right bank of the Po, 377 ft. above sea-level, and is a
-junction for Mortara, Vercelli. Chivasso and Asti; it is also connected
+junction for Mortara, Vercelli. [[Chivasso]] and [[Asti]]; it is also connected
 by steam tramways with Alessandria, Vercelli and Montemagno. The fine
 Lombard Romanesque cathedral, originally founded in 742, was rebuilt in
 the early 12th century and consecrated in 1106; it suffered from

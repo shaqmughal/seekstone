@@ -6,8 +6,8 @@ topic: history
 
 # Cienfuegos
 
-CIENFUEGOS (originally FERNANDINA DE JAGUA), one of the principal cities
-of Cuba, in Santa Clara province, near the central portion of the S.
+CIENFUEGOS (originally [[Fernandina|FERNANDINA]] DE JAGUA), one of the principal cities
+of Cuba, in Santa [[Clara]] province, near the central portion of the S.
 coast, 195 m. E.S.E. of Havana. Pop. (1907) 30,100. Cienfuegos is served
 by the United railways and by steamers connecting with Santiago,
 Batabanó, Trinidad and the Isle of Pines. It lies about 6 m. from the
@@ -16,16 +16,16 @@ drawing 16 ft. have direct access to the wharves. A circular railway
 about the water-front, wharves and warehouses facilitates the loading
 and unloading of vessels. The city streets are broad and regularly laid
 out. There is a handsome cathedral; and the Tomas Terry theatre (given
-to the city by the heirs of one of the millionaire sugar planters of the
+to the city by the [[Heir|heirs]] of one of the millionaire sugar planters of the
 jurisdiction), the governor's house (1841-1844), the military and
 government hospitals, market place and railway station are worthy of
 note. In the Cathedral Square (Plaza de Armas), embracing two
 city-squares, and shaded--like all the plazas of the island--with
 laurels and royal palms, are a statue of Isabel the Catholic, and two
-marble lions given by Queen Isabel II.; elsewhere there are statues of
+[[Marble|marble]] lions given by Queen Isabel II.; elsewhere there are statues of
 General Clouet and Marshal Serrano, once captain-general. The city is
-lighted by gas and electricity, has an abundant water-supply, and cable
-connexion with Europe, the United States, other Antilles and South
+lighted by gas and electricity, has an abundant water-supply, and [[Cable|cable]]
+connexion with Europe, the United States, other [[Antilles]] and South
 America. The surrounding country is one of the prettiest and most
 fertile regions in Cuba, varied with woods, rivers, rocky gulches,
 beautiful cascades and charming tropic vegetation. Several of the
@@ -37,10 +37,10 @@ sugar trade on the south coast; tobacco too is exported.
 
 The bay of Jagua was visited by Columbus. The city was founded in 1819,
 with the aid of the Spanish government, by a Louisianian, General Luis
-de Clouet; it was destroyed by a hurricane and was rebuilt in 1825. Many
+de Clouet; it was destroyed by a [[Hurricane|hurricane]] and was rebuilt in 1825. Many
 naturalized foreign Catholics, including Americans, were among the
-original settlers. The settlement was first named in honour of Ferdinand
-VII., and later in honour of Captain-General José Cienfuegos Jovellanos.
+original settlers. The settlement was first named in honour of [[Ferdinand]]
+VII., and later in honour of Captain-General José Cienfuegos [[Jovellanos]].
 The harbour was known from the earliest times, and has been declared by
 Mahan to be the most important of the Caribbean Sea for strategic
 purposes. In 1740-1745 a fortification called Nuestra Señora de los

@@ -19,7 +19,7 @@ the philosophical and theological speculation. In early Greek philosophy
 the attempt to arrive at a physical explanation of existence led the
 Ionian thinkers to postulate various primal elements (e.g. water, fire,
 air) or simply the infinite [Greek: to ápeiron] (see IONIAN SCHOOL).
-Both Plato and Aristotle devoted much thought to the discussion as to
+Both Plato and [[Aristotle]] devoted much thought to the discussion as to
 which is most truly real, the finite objects of sense, or the universal
 idea of each thing laid up in the mind of God; what is the nature of
 that unity which lies behind the multiplicity and difference of
@@ -29,7 +29,7 @@ God is conceived as infinite in power, knowledge and goodness, uncreated
 and immortal: in some Oriental systems the end of man is absorption into
 the infinite, his perfection the breaking down of his human limitations.
 The metaphysical and theological conception is open to the agnostic
-objection that the finite mind of man is by hypothesis unable to cognize
+objection that the finite mind of man is by [[Hypothesis|hypothesis]] unable to cognize
 or apprehend not only an infinite object, but even the very conception
 of infinity itself; from this standpoint the Infinite is regarded as
 merely a postulate, as it were an unknown quantity (cf. [root]-1 in
@@ -44,7 +44,7 @@ impossible, for the infinite is by hypothesis unrelated.
 With this conception of _the_ infinite as absolutely unconditioned
 should be compared what may be described roughly as lesser infinities
 which can be philosophically conceived and mathematically demonstrated.
-Thus a point, which is by definition infinitely small, is as compared
+Thus a point, which is by [[Definition|definition]] infinitely small, is as compared
 with a line a unit: the line is infinite, made up of an infinite number
 of points, any pair of which have an infinite number of points between
 them. The line itself, again, in relation to the plane is a unit, while
@@ -139,7 +139,7 @@ He represented one of two variable quantities, e.g. the time that has
 elapsed since some epoch, by a length, called the "longitude," measured
 along a particular line; and he represented the other of the two
 quantities, e.g. the temperature at the instant, by a length, called the
-"latitude," measured at right angles to this line. He recognized that
+"[[Latitude|latitude]]," measured at right angles to this line. He recognized that
 the variation of the temperature with the time was represented by the
 line, straight or curved, which joined the ends of all the lines of
 "latitude." Oresme's longitude and latitude were what we should now call
@@ -163,7 +163,7 @@ finding the points at which the ordinate is a maximum or a minimum, the
 problem of drawing a tangent to the curve at an assigned point, and the
 problem of determining the area of the curve. The relation of the
 problem of maxima and minima to the problem of tangents was understood
-in the sense that maxima or minima arise when a certain equation has
+in the sense that maxima or minima arise when a certain [[Equation|equation]] has
 equal roots, and, when this is the case, the curves by which the problem
 is to be solved touch each other. The reduction of problems of maxima
 and minima to problems of contact was known to Pappus. The problem of
@@ -191,7 +191,7 @@ the lemma prefixed to the 12th book of Euclid's _Elements_ as follows:
 "If from the greater of two magnitudes there be taken more than its
 half, and from the remainder more than its half, and so on, there will
 at length remain a magnitude less than the smaller of the proposed
-magnitudes." The method adopted by Archimedes was more general. It may
+magnitudes." The method adopted by [[Archimedes]] was more general. It may
 be described as the enclosure of the magnitude to be evaluated between
 two others which can be brought by a definite process to differ from
 each other by less than any assigned magnitude. A simple example of its
@@ -291,7 +291,7 @@ natural philosophy of the 17th century led to new limiting processes.
   areas of such rectangles as SN. When the number of the points such as
   M is increased without limit, and the lengths of all the segments such
   as MN are diminished without limit, these two sums of areas tend to
-  limits. When they tend to the same limit the curvilinear figure ACDB
+  limits. When they tend to the same limit the [[Curvilinear|curvilinear]] figure ACDB
   has an area, and the limit is the measure of this area (see § 33
   below). The limit in question is the same whatever law may be adopted
   for inserting the points such as M between A and B, and for
@@ -323,7 +323,7 @@ natural philosophy of the 17th century led to new limiting processes.
   rules for evaluating integrals constitute the _integral calculus_.
 
 
-    Theorem of Inversion.
+    Theorem of [[Inversion]].
 
   6. The chief of these rules is obtained by regarding the extreme
   ordinate BD as variable. Let [xi] now denote the abscissa of B. The
@@ -572,7 +572,7 @@ natural philosophy of the 17th century led to new limiting processes.
     |   x^n   |      nx^(n-1)       |
     |         | for all values of n |
     +---------+---------------------+
-    | log_a x |     x^-1 log_a e    |
+    | [[Log|log]]_a x |     x^-1 log_a e    |
     +---------+---------------------+
     |   a^x   |     a^x log_e a     |
     +---------+---------------------+
@@ -660,7 +660,7 @@ of the higher analysis were in the first instance related to problems of
 the integral calculus. Johannes Kepler in his _Astronomia nova ... de
 motibus stellae Martis_ (1609) stated his laws of planetary motion, to
 the effect that the orbits of the planets are ellipses with the sun at a
-focus, and that the radii vectores drawn from the sun to the planets
+[[Focus|focus]], and that the radii vectores drawn from the sun to the planets
 describe equal areas in equal times. From these statements it is to be
 concluded that Kepler could measure the areas of focal sectors of an
 ellipse. When he made out these laws there was no method of evaluating
@@ -674,13 +674,13 @@ lengths.
 [Illustration: FIG. 5.]
 
   He had observed that the focal radius vector SP (fig. 5) is equal to
-  the perpendicular SZ drawn from S to the tangent at p to the auxiliary
+  the perpendicular SZ drawn from S to the tangent at p to the [[Auxiliary|auxiliary]]
   circle, and he had further established the theorem which we should now
-  express in the form--the differential element of the area ASp as Sp
+  express in the form--the differential element of the area [[Asp|ASp]] as Sp
   turns about S, is equal to the product of SZ and the differential
   ad[phi], where a is the radius of the auxiliary circle, and [phi] is
-  the angle ACp, that is the eccentric angle of P on the ellipse. The
-  area ASP bears to the area ASp the ratio of the minor to the major
+  the angle ACp, that is the [[Eccentric|eccentric]] angle of P on the ellipse. The
+  area ASP bears to the area ASp the ratio of the minor to the [[Major|major]]
   axis, a result known to Archimedes. Thus Kepler's radii are spaced
   according to the rule that the eccentric angles of their ends are
   equidifferent, and his "sum of radii" is proportional to the
@@ -711,9 +711,9 @@ focal radii of an ellipse.
 forgotten that the method by which logarithms were invented (1614) was
 effectively a method of infinitesimals. Natural logarithms were not
 invented as the indices of a certain base, and the notation e for the
-base was first introduced by Euler more than a century after the
+base was first introduced by [[Euler]] more than a century after the
 invention. Logarithms were introduced as numbers which increase in
-arithmetic progression when other related numbers increase in geometric
+[[Arithmetic|arithmetic]] progression when other related numbers increase in geometric
 progression. The two sets of numbers were supposed to increase together,
 one at a uniform rate, the other at a variable rate, and the increments
 were regarded for purposes of calculation as very small and as accruing
@@ -723,9 +723,9 @@ discontinuously.
   Cavalieri's Indivisibles.
 
 15. Kepler's methods of integration, for such they must be called, were
-the origin of Bonaventura Cavalieri's theory of the summation of
+the origin of [[Bonaventura]] Cavalieri's theory of the summation of
 indivisibles. The notion of a continuum, such as the area within a
-closed curve, as being made up of indivisible parts, "atoms" of area, if
+closed curve, as being made up of indivisible parts, "[[Atom|atoms]]" of area, if
 the expression may be allowed, is traceable to the speculations of early
 Greek philosophers; and although the nature of continuity was better
 understood by Aristotle and many other ancient writers yet the unsound
@@ -769,13 +769,13 @@ At this period scientific investigators communicated their results to
 one another through one or more intermediate persons. Such
 intermediaries were Pierre de Carcavy and Pater Marin Mersenne; and
 among the writers thus in communication were Bonaventura Cavalieri,
-Christiaan Huygens, Galileo Galilei, Giles Personnier de Roberval,
+Christiaan [[Huygens]], Galileo Galilei, [[Giles]] Personnier de Roberval,
 Pierre de Fermat, Evangelista Torricelli, and a little later Blaise
 Pascal; but the letters of Carcavy or Mersenne would probably come into
 the hands of any man who was likely to be interested in the matters
 discussed. It often happened that, when some new method was invented, or
 some new result obtained, the method or result was quickly known to a
-wide circle, although it might not be printed until after the lapse of a
+wide circle, although it might not be printed until after the [[Lapse|lapse]] of a
 long time. When Cavalieri was printing his two treatises there was much
 discussion of the problem of quadratures. Roberval (1634) regarded an
 area as made up of "infinitely" many "infinitely" narrow strips, each of
@@ -800,7 +800,7 @@ latter extension and the proofs were given in his memoir, _Proportionis
 geometricae in quadrandis parabolis et hyperbolis usus_, which appears
 to have received a final form before 1659, although not published until
 1679. Fermat did not use fractional or negative indices, but he regarded
-his problems as the quadratures of parabolas and hyperbolas of various
+his problems as the quadratures of parabolas and [[Hyperbola|hyperbolas]] of various
 orders. His method was to divide the interval of integration into parts
 by means of intermediate points the abscissae of which are in geometric
 progression. In the process of § 5 above, the points M must be chosen
@@ -864,7 +864,7 @@ and Kepler in the _Stereometria doliorum_ remarked that at the places
 where the ordinate passes from a smaller value to the greatest value and
 then again to a smaller value, its variation becomes insensible. Fermat
 in 1629 was in possession of a method which he then communicated to one
-Despagnet of Bordeaux, and which he referred to in a letter to Roberval
+Despagnet of [[Bordeaux]], and which he referred to in a letter to Roberval
 of 1636. He communicated it to René Descartes early in 1638 on receiving
 a copy of Descartes's _Géométrie_ (1637), and with it he sent to
 Descartes an account of his methods for solving the problem of tangents
@@ -926,8 +926,8 @@ the fundamental artifice of the infinitesimal calculus.
   Barrow's Differential Triangle.
 
 17. Among the comparatively few mathematicians who before 1665 could
-perform differentiations was Isaac Barrow. In his book entitled
-_Lectiones opticae et geometricae_, written apparently in 1663, 1664,
+perform differentiations was [[Isaac]] Barrow. In his book entitled
+_[[Lection|Lectiones]] opticae et geometricae_, written apparently in 1663, 1664,
 and published in 1669, 1670, he gave a method of tangents like that of
 Roberval and Torricelli, compounding two velocities in the directions of
 the axes of x and y to obtain a resultant along the tangent to a curve.
@@ -1025,7 +1025,7 @@ Newton's _Opticks_.
     Newton's method of Series.
 
   20. The tract _De Analysi per aequationes ..._ was sent by Newton to
-  Barrow, who sent it to John Collins with a request that it might be
+  Barrow, who sent it to John [[Collins]] with a request that it might be
   made known. One way of making it known would have been to print it in
   the _Philosophical Transactions_ of the Royal Society, but this course
   was not adopted. Collins made a copy of the tract and sent it to Lord
@@ -1044,7 +1044,7 @@ Newton's _Opticks_.
   of a curve v = x^m (m ± -1) in the form z = x^(m+1)/(m + 1). In the
   proof he transformed this formula to the form z^n = c^n x^p, where n
   and p are positive integers, substituted x + o for x and z + ov for z,
-  and expanded by the binomial theorem for a positive integral exponent,
+  and expanded by the [[Binomial|binomial]] theorem for a positive integral exponent,
   thus obtaining the relation
 
     z^n + nz^(n-1) ov + ... = c^n (x_p + px^(p-1)o + ...),
@@ -1158,7 +1158,7 @@ of the Fluxional Calculus and for the long delays which took place. At
 the time (1671) when Newton composed the _Methodus fluxionum_ he
 contemplated bringing out an edition of Gerhard Kinckhuysen's treatise
 on algebra and prefixing his tract to this treatise. In the same year
-his "Theory of Light and Colours" was published in the _Philosophical
+his "Theory of Light and [[Colours]]" was published in the _Philosophical
 Transactions_, and the opposition which it excited led to the
 abandonment of the project with regard to fluxions. In 1680 Collins
 sought the assistance of the Royal Society for the publication of the
@@ -1179,7 +1179,7 @@ method of fluxions a new method, that of "Prime and Ultimate Ratios." By
 the aid of this method it is possible, as Newton knew, and as was
 afterwards seen by others, to found the calculus of fluxions on an
 irreproachable method of limits. For the purpose of explaining his
-discoveries in dynamics and astronomy Newton used the method of limits
+discoveries in dynamics and [[Astronomy|astronomy]] Newton used the method of limits
 only, without the notation of fluxions, and he presented all his results
 and demonstrations in a geometrical form. There is no doubt that he
 arrived at most of his theorems in the first instance by using the
@@ -1234,7 +1234,7 @@ indivisibles. At first he proposed to use the word _omnia_ as an
 abbreviation for Cavalieri's "sum of all the lines," thus writing
 _omnia_ y for that which we write "[int] ydx," but within a day or two
 he wrote "[int] y". He regarded the symbol "[int]" as representing an
-operation which raises the dimensions of the subject of operation--a
+operation which raises the [[Dimension|dimensions]] of the subject of operation--a
 line becoming an area by the operation--and he devised his symbol "d" to
 represent the inverse operation, by which the dimensions are diminished.
 He observed that, whereas "[int]" represents "sum," "d" represents
@@ -1256,7 +1256,7 @@ August, stating some results which he had obtained, and which, as it
 seemed, could not be obtained easily by the method of series, and he
 asked for further information. Newton replied in a long letter to
 Oldenburg of the 24th of October 1676. In this letter he gave a much
-fuller account of his binomial theorem and indicated a method of proof.
+[[Fuller|fuller]] account of his binomial theorem and indicated a method of proof.
 Further he gave a number of results relating to quadratures; they were
 afterwards printed in the tract _De quadratura curvarum_. He gave many
 other results relating to the computation of natural logarithms and
@@ -1335,13 +1335,13 @@ recondita et analysi indivisibilium atque infinitorum_, in which
 Leibnitz described the method of using his new differential calculus for
 the problem of quadratures. This was the first publication of the
 notation [int] ydx. The new method was called _calculus summatorius_.
-The brothers Jacob (James) and Johann (John) Bernoulli were able by 1690
+The brothers [[Jacob]] (James) and Johann (John) Bernoulli were able by 1690
 to begin to make substantial contributions to the development of the new
 calculus, and Leibnitz adopted their word "integral" in 1695, they at
 the same time adopting his symbol "[int]." In 1696 the marquis de
 l'Hospital published the first treatise on the differential calculus
 with the title _Analyse des infiniment petits pour l'intelligence des
-lignes courbes_. The few references to fluxions in Newton's _Principia_
+[[Ligne|lignes]] courbes_. The few references to fluxions in Newton's _Principia_
 (1687) must have been quite unintelligible to the mathematicians of the
 time, and the publication of the fluxional notation and calculus by
 Wallis in 1693 was too late to be effective. Fluxions had been
@@ -1352,7 +1352,7 @@ developed in the writings of Leibnitz and the Bernoullis. Leibnitz
 (1695) was the first to differentiate a logarithm and an exponential,
 and John Bernoulli was the first to recognize the property possessed by
 an exponential (a^x) of becoming infinitely great in comparison with any
-power (x^n) when x is increased indefinitely. Roger Cotes (1722) was the
+power (x^n) when x is increased indefinitely. Roger [[Cotes]] (1722) was the
 first to differentiate a trigonometrical function. A great development
 of infinitesimal methods took place through the founding in 1696-1697 of
 the "Calculus of Variations" by the brothers Bernoulli.
@@ -1397,7 +1397,7 @@ understood by a person of ordinary intelligence. Leibnitz wrote to
 Sloane asking the society to stop these unjust attacks of Keill,
 asserting that in the review in the _Acta Eruditorum_ no one had been
 injured but each had received his due, submitting the matter to the
-equity of the Royal Society, and stating that he was persuaded that
+[[Equity|equity]] of the Royal Society, and stating that he was persuaded that
 Newton himself would do him justice. A committee was appointed by the
 society to examine the documents and furnish a report. Their report,
 presented in April 1712, concluded as follows:
@@ -1441,15 +1441,15 @@ fluxional notation could be used as well as the differential and
 integral notation, though perhaps not quite so easily. Up to about the
 middle of the 18th century important discoveries continued to be made by
 the use of the method of fluxions. It was the introduction of partial
-differentiation by Leonhard Euler (1734) and Alexis Claude Clairaut
+differentiation by Leonhard Euler (1734) and Alexis [[Claude]] Clairaut
 (1739), and the developments which followed upon the systematic use of
 partial differential coefficients, which led to Great Britain being left
 behind; and it was not until after the reintroduction of continental
-methods into England by Sir John Herschel, George Peacock and Charles
+methods into England by Sir John [[Herschel]], George Peacock and Charles
 Babbage in 1815 that British mathematics began to flourish again. The
 exclusion of continental mathematics from Great Britain was not
 accompanied by any exclusion of British mathematics from the continent.
-The discoveries of Brook Taylor and Colin Maclaurin were absorbed into
+The discoveries of Brook Taylor and Colin [[Maclaurin]] were absorbed into
 the rapidly growing continental analysis, and the more precise
 conceptions reached through a critical scrutiny of the true nature of
 Newton's fluxions and moments stimulated a like scrutiny of the basis of
@@ -1478,8 +1478,8 @@ the processes of the calculus could be justified by the methods of the
 ancient geometry, he never expressed himself very clearly on the subject
 of differentials, and he conveyed, probably without intending it, the
 impression that the calculus leads to correct results by compensation of
-errors. In England the method of fluxions had to face similar attacks.
-George Berkeley, bishop and philosopher, wrote in 1734 a tract entitled
+[[Error|errors]]. In England the method of fluxions had to face similar attacks.
+George [[Berkeley]], bishop and philosopher, wrote in 1734 a tract entitled
 _The Analyst; or a Discourse addressed to an Infidel Mathematician_, in
 which he proposed to destroy the presumption that the opinions of
 mathematicians in matters of faith are likely to be more trustworthy
@@ -1492,13 +1492,13 @@ nullity and finiteness, as he took Newton's moments to be conceived. The
 tract occasioned a controversy which had the important consequence of
 making it plain that all arguments about infinitesimals must be given
 up, and the calculus must be founded on the method of limits. During the
-controversy Benjamin Robins gave an exceedingly clear explanation of
+controversy [[Benjamin]] Robins gave an exceedingly clear explanation of
 Newton's theories of fluxions and of prime and ultimate ratios regarded
 as theories of limits. In this explanation he pointed out that Newton's
 _moment_ (Leibnitz's "differential") is to be regarded as so much of the
 actual difference between two neighbouring values of a variable as is
 needful for the formation of the fluxion (or differential coefficient)
-(see G. A. Gibson, "The Analyst Controversy," _Proc. Math. Soc._,
+(see G. A. [[Gibson]], "The Analyst Controversy," _Proc. Math. Soc._,
 Edinburgh, xvii., 1899). Colin Maclaurin published in 1742 a _Treatise
 of Fluxions_, in which he reduced the whole theory to a theory of
 limits, and demonstrated it by the method of Archimedes. This notion was
@@ -1513,7 +1513,7 @@ that Leibnitz's calculus was a calculus of mutually compensating errors,
 while Newton's method was entirely rigorous. D'Alembert's opinion of
 Leibnitz's calculus was expressed also by Lazare N. M. Carnot in his
 _Réflexions sur la métaphysique du calcul infinitésimal_ (1799) and by
-Joseph Louis de la Grange (generally called Lagrange) in writings from
+Joseph Louis de la [[Grange]] (generally called [[Lagrange]]) in writings from
 1760 onwards. Lagrange proposed in his _Théorie des fonctions
 analytiques_ (1797) to found the whole of the calculus on the theory of
 series. It was not until 1823 that a treatise on the differential
@@ -1541,8 +1541,8 @@ to be done, both in the rapidly growing department of complex variables,
 and in the regions opened up by the theory of expansions in
 trigonometric series. In both directions it was seen that rigorous
 demonstration demanded greater precision in regard to fundamental
-notions, and the requirement of precision led to a gradual shifting of
-the basis of analysis from geometrical intuition to arithmetical law. A
+notions, and the requirement of precision led to a [[Gradual|gradual]] shifting of
+the basis of analysis from geometrical [[Intuition|intuition]] to arithmetical law. A
 sketch of the outcome of this movement--the "arithmetization of
 analysis," as it has been called--will be found in FUNCTION. Its general
 tendency has been to show that many theories and processes, at first
@@ -1700,7 +1700,7 @@ differential and integral calculus will be useful in what follows.
   [f]´(x), is itself a function of x, and its differential coefficient
   is denoted by [f]´´(x) or d²y/dx². In the second of these notations
   d/dx is regarded as the symbol of an operation, that of
-  differentiation with respect to x, and the index 2 means that the
+  differentiation with respect to x, and the [[Index|index]] 2 means that the
   operation is repeated. In like manner we may express the results of n
   successive differentiations by [f]^(n)(x) or by d^n·y/dx^n. When the
   second differential coefficient exists, or the first is
@@ -2083,7 +2083,7 @@ differential and integral calculus will be useful in what follows.
   of x is differentiable, the differential coefficient which is formed
   in this way is called the "partial differential coefficient" of u or f
   with respect to x, and is denoted by ðu/ðx or ð[f]/ðx. The symbol "ð"
-  was appropriated for partial differentiation by C. G. J. Jacobi
+  was appropriated for partial differentiation by C. G. J. [[Jacobi]]
   (1841). It had before been written indifferently with "d" as a symbol
   of differentiation. Euler had written (df/dx) for the partial
   differential coefficient of f with respect to x. Sometimes it is
@@ -2106,7 +2106,7 @@ differential and integral calculus will be useful in what follows.
   tangents for a curve; and it also enables us to take the first step in
   the solution of the problem of maxima and minima for a function of
   several variables. If the equation of a surface is expressed in the
-  form z = [f](x, y), the direction cosines of the normal to the surface
+  form z = [f](x, y), the direction [[Cosin|cosines]] of the normal to the surface
   at any point are in the ratios ð[f]/ðx : ð[f]/ðy : = 1. If f is a maximum
   or a minimum at (x, y), then ð[f]/ðx and ð[f]/ðy vanish at that point.
 
@@ -2212,7 +2212,7 @@ differential and integral calculus will be useful in what follows.
     Jacobians.
 
   42. Many problems in which partial differential coefficients occur are
-  simplified by the introduction of certain determinants called
+  simplified by the introduction of certain [[Determinant|determinants]] called
   "Jacobians" or "functional determinants." They were introduced into
   Analysis by C. G. J. Jacobi (_J. f. Math._, Crelle, Bd. 22, 1841, p.
   319). The Jacobian of u1, u2, ... u_n with respect to x1, x2, ... x_n
@@ -2688,7 +2688,7 @@ differential and integral calculus will be useful in what follows.
   When p1 and p2 are imaginary the origin is the real point of
   intersection of two imaginary branches. In the real figure of the
   curve it is an _isolated point_. If u2 is a square, a(y - px)², the
-  origin is a _cusp_, and in general there is not a series for y in
+  origin is a _[[Cusp|cusp]]_, and in general there is not a series for y in
   integral powers of x, which is valid in the neighbourhood of the
   origin. The further investigation of cusps and multiple points belongs
   rather to analytical geometry and the theory of algebraic functions
@@ -3154,7 +3154,7 @@ differential and integral calculus will be useful in what follows.
      |  dx {  |         [f](x, y) dy },
     _/ a   { _/ [f]1(x)              }
 
-  and is called a "repeated integral." The identification of a surface
+  and is called a "repeated integral." The [[Identification|identification]] of a surface
   integral, such as [int][int][f](x, y)dxdy, with a repeated integral
   cannot always be made, but implies that the function satisfies certain
   conditions of continuity. In the same way volume integrals are usually
@@ -3494,8 +3494,8 @@ differential and integral calculus will be useful in what follows.
     _/ 0  _/ 0        _/ 0
 
   (x.) Integrations of rational functions through the volume of an
-  ellipsoid x²/a² + y²/b² + z²/c² = 1 are often effected by means of a
-  general theorem due to Lejeune Dirichlet (1839), which is as follows:
+  [[Ellipsoid|ellipsoid]] x²/a² + y²/b² + z²/c² = 1 are often effected by means of a
+  general theorem due to [[Lejeune]] Dirichlet (1839), which is as follows:
   when the domain of integration is that given by the inequality
 
      /x1\[alpha]1   /x2\^[alpha]2         /x_n\[alpha]_n
@@ -3564,11 +3564,11 @@ differential and integral calculus will be useful in what follows.
   chief authority is M. Cantor, _Geschichte d. Mathematik_ (3 Bde.,
   Leipzig, 1894-1901). For particular matters, or special periods, the
   following may be mentioned: H. G. Zeuthen, _Geschichte d. Math. im
-  Altertum u. Mittelalter_ (Copenhagen, 1896) and _Gesch. d. Math. im
+  Altertum u. Mittelalter_ ([[Copenhagen]], 1896) and _Gesch. d. Math. im
   XVI. u. XVII. Jahrhundert_ (Leipzig, 1903); S. Horsley, _Isaaci
   Newtoni opera quae exstant omnia_ (5 vols., London, 1779-1785); C. I.
-  Gerhardt, _Leibnizens math. Schriften_ (7 Bde., Leipzig, 1849-1863);
-  Joh. Bernoulli, _Opera omnia_ (4 Bde., Lausanne and Geneva, 1742).
+  [[Gerhardt]], _Leibnizens math. Schriften_ (7 Bde., Leipzig, 1849-1863);
+  Joh. Bernoulli, _Opera omnia_ (4 Bde., Lausanne and [[Geneva]], 1742).
   Other writings of importance in the history of the subject are cited
   in the course of the article. A list of some of the more important
   treatises on the differential and integral calculus is appended. The
@@ -3579,7 +3579,7 @@ differential and integral calculus will be useful in what follows.
   integralis_ (3 Bde., Petrop., 1768-1770); J. L. Lagrange, _Leçons sur
   le calcul des fonctions_ (Paris, 1806, _Oeuvres_, t. x.), and _Théorie
   des fonctions analytiques_ (Paris, 1797, 2nd ed., 1813, _Oeuvres_, t.
-  ix.); S. F. Lacroix, _Traité de calcul diff. et de calcul int._ (3
+  ix.); S. F. [[Lacroix]], _Traité de calcul diff. et de calcul int._ (3
   tt., Paris, 1808-1819). There have been numerous later editions; a
   translation by Herschel, Peacock and Babbage of an abbreviated edition
   of Lacroix's treatise was published at Cambridge in 1816. G. Peacock,
@@ -3595,8 +3595,8 @@ differential and integral calculus will be useful in what follows.
   later editions; B. Price, _Treatise on the Infinitesimal Calculus_ (2
   vols., Oxford, 1854), numerous later editions; D. Bierens de Haan,
   _Tables d'intégrales définies_ (Amsterdam, 1858); M. Stegemann,
-  _Grundriss d. Diff.- u. Int.-Rechnung_ (2 Bde., Hanover, 1862)
-  numerous later editions; J. Bertrand, _Traité de calc. diff. et int._
+  _Grundriss d. Diff.- u. Int.-Rechnung_ (2 Bde., [[Hanover]], 1862)
+  numerous later editions; J. [[Bertrand]], _Traité de calc. diff. et int._
   (2 tt., Paris, 1864-1870); J. A. Serret, _Cours de calc. diff. et
   int._ (2 tt., Paris, 1868, 2nd ed., 1880, German edition by Harnack,
   Leipzig, 1884-1886, later German editions by Bohlmann, 1896, and
@@ -3606,8 +3606,8 @@ differential and integral calculus will be useful in what follows.
   Calculus" in the 9th ed. of the _Ency. Brit._; C. Hermite, _Cours
   d'analyse_ (Paris, 1873); O. Schlömilch, _Compendium d. höheren
   Analysis_ (2 Bde., Leipzig, 1874) numerous later editions; J. Thomae,
-  _Einleitung in d. Theorie d. bestimmten Integrale_ (Halle, 1875); R.
-  Lipschitz, _Lehrbuch d. Analysis_ (2 Bde., Bonn, 1877, 1880); A.
+  _Einleitung in d. Theorie d. bestimmten Integrale_ ([[Halle]], 1875); R.
+  Lipschitz, _Lehrbuch d. Analysis_ (2 Bde., [[Bonn]], 1877, 1880); A.
   Harnack, _Elemente d. Diff.- u. Int.-Rechnung_ (Leipzig, 1882, Eng.
   trans. by Cathcart, London, 1891); M. Pasch, _Einleitung in d. Diff.-
   u. Int.-Rechnung_ (Leipzig, 1882); Genocchi and Peano, _Calcolo
@@ -3620,7 +3620,7 @@ differential and integral calculus will be useful in what follows.
   u. Int.-Rechnung_ (3 Bde., Leipzig, 1893-1899); C. Jordan, _Cours
   d'analyse_ (3 tt., Paris, 1893-1896); L. Kronecker, _Vorlesungen ü. d.
   Theorie d. einfachen u. vielfachen Integrale_ (Leipzig, 1894); J.
-  Perry, _The Calculus for Engineers_ (London, 1897); H. Lamb, _An
+  Perry, _The Calculus for Engineers_ (London, 1897); H. [[Lamb]], _An
   Elementary Course of Infinitesimal Calculus_ (Cambridge, 1897); G. A.
   Gibson, _An Elementary Treatise on the Calculus_ (London, 1901); É.
   Goursat, _Cours d'analyse mathématique_ (2 tt., Paris, 1902-1905);

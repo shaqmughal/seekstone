@@ -12,11 +12,11 @@ property, and still used in connexion with the transference of property
 in ships. The term has come to be applied to mortgages as well as to
 sales, and the expression "bill of sale" may now be understood to
 signify generally a document evidencing a sale or mortgage of personal
-chattels, unaccompanied by an actual transfer of possession to the
+[[Chattel|chattels]], unaccompanied by an actual transfer of possession to the
 purchaser or mortgagor.
 
 The first English legislation on the subject was the Bills of Sale Act
-1854, which, after reciting that "frauds were frequently committed upon
+1854, which, after reciting that "[[Fraud|frauds]] were frequently committed upon
 creditors by secret bills of sale of personal chattels, whereby persons
 are enabled to keep up the appearance of being in good circumstances and
 possessed of property, and the grantees or holders of such bills of sale
@@ -47,7 +47,7 @@ act which applies to absolute bills. Bills of sale given by way of
 security for the payment of money on or after the 1st of November 1882
 are governed by the act of 1882, which, however, does not apply to
 absolute bills. Section 4 of the act of 1878 defines a bill of sale as
-(1) including bills of sale, assignments, transfers, declarations of
+(1) including bills of sale, [[Assignment|assignments]], transfers, [[Declaration|declarations]] of
 trust without transfer, inventories of goods with receipt thereto
 attached, or receipts for purchase moneys of goods and other assurances
 of personal chattels; the term assurance has been best explained as a
@@ -55,21 +55,21 @@ document "on which the title of the transferee of the goods depends,
 either as the actual transfer of the property, or an agreement to
 transfer," _Marsden_ v. _Meadows_, 1881, 7 Q.B.D. 80; (2) powers of
 attorney, authorities or licences to take possession of personal
-chattels as security for any debt; these words would not include a power
-of distress for rent in an ordinary lease or bona fide hiring or hire
+chattels as security for any [[Debt|debt]]; these words would not include a power
+of distress for rent in an ordinary lease or [[Bona Fide|bona fide]] hiring or hire
 purchase agreements; (3) any agreement, whether intended or not to be
 followed by the execution of any other instrument, by which a right in
-equity to any personal chattels, or to any charge or security thereon,
+[[Equity|equity]] to any personal chattels, or to any charge or security thereon,
 shall be conferred; (4) any mode of disposition of trade machinery and
 attornments and other instruments giving powers of distress to secure a
 debt or advance. On the other hand, certain assurances and instruments
-are expressly exempt by statute from the definition: marriage
+are expressly exempt by statute from the [[Definition|definition]]: marriage
 settlements, assignments of ships, assignments for the benefit of
-creditors, bills of lading and dock warrants, and by the act of 1882,
+creditors, bills of lading and [[Dock|dock]] warrants, and by the act of 1882,
 debentures and debenture stock of a company. The expression "personal
 chattels" is defined as goods, furniture and other articles capable of
 complete transfer by delivery, and (when separately assigned or charged)
-fixtures and growing crops.
+[[Fixtures|fixtures]] and growing crops.
 
   _Absolute Bills._--Absolute bills of sale must be duly attested by a
   solicitor, and the attestation must state that before execution the
@@ -83,7 +83,7 @@ fixtures and growing crops.
   must be presented to, and the copies filed by, the registrar within
   seven clear days. In the case of absolute bills the effect of
   non-compliance does not affect the validity of the bill as between the
-  parties to it, but makes it void as against the trustee in bankruptcy
+  parties to it, but makes it void as against the trustee in [[Bankruptcy|bankruptcy]]
   and execution creditors of the grantor.
 
   _Bills by Way of Security._--All bills of sale given by way of
@@ -93,7 +93,7 @@ fixtures and growing crops.
   matter of verbal difference. The form given in the schedule to the act
   is as follows:--
 
-  This Indenture made the ___ day of ___ between A. B. of ___ of the one
+  This [[Indenture]] made the ___ day of ___ between A. B. of ___ of the one
   part and C. D. of ___ of the other part, witnesseth that in
   consideration of the sum of £ ___ now paid to A. B. by C. D, the
   receipt of which the said A. B. hereby acknowledges, he the said A. B.
@@ -105,8 +105,8 @@ fixtures and growing crops.
   will duly pay to the said C. D. the principal sum aforesaid together
   with the interest then due, by equal ___ payments of £ ___ on the ___
   day of ___ And the said A. B. doth also agree with the said C. D. that
-  he will (_here insert terms as to insurance, payment of rent, &c.,
-  which the parties may agree to for the maintenance or defeasance of
+  he will (_here insert terms as to [[Insurance|insurance]], payment of rent, &c.,
+  which the parties may agree to for the [[Maintenance|maintenance]] or [[Defeasance|defeasance]] of
   the security_). Provided always that the chattels hereby assigned
   shall not be liable to seizure or to be taken possession of by the
   said C. D. for any cause other than those specified in § 7 of the
@@ -135,8 +135,8 @@ fixtures and growing crops.
   Every bill of sale made or given in consideration of any sum under £30
   is void. By § 7 of the act personal chattels shall only be liable to
   be seized or taken possession of in the following cases:--(1) If the
-  grantor make default in payment of the debt or in the performance of
-  any covenant or agreement contained in the bill and necessary for
+  grantor make [[Default|default]] in payment of the debt or in the performance of
+  any [[Covenant|covenant]] or agreement contained in the bill and necessary for
   maintaining the security; (2) if the grantor becomes a bankrupt or
   suffers the goods to be distrained for rent, rates or taxes; (3) if
   the grantor fraudulently removes the goods from the premises; (4) if
@@ -158,14 +158,14 @@ fixtures and growing crops.
   The stamp duties payable on an absolute bill of sale are 2s. 6d. on
   every £25 secured up to £300; over £300, 5s. on every £50. On bills of
   sale by way of security, 1s. 3d. for every £50 up to £300 secured;
-  over £300, 2s. 6d. for every £100. The fees payable on filing a bill
+  over £300, 2s. 6d. for every £100. The [[Fee|fees]] payable on filing a bill
   of sale are, 5s. where the consideration (including further advances)
   does not exceed £100; above £100 and not exceeding £200, 10s.; above
   £200, £1.
 
   The various trade protection papers always publish the registration of
   a bill of sale, and the usual effect is, therefore, to destroy the
-  credit of any person giving one.     (T. A. I.)
+  [[Credit|credit]] of any person giving one.     (T. A. I.)
 
 ## References
 

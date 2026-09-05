@@ -1,6 +1,6 @@
 # Desk
 
-DESK (from Lat. _discus_, quoit, in med. sense of "table," cf. "dish"
+DESK (from Lat. _[[Discus|discus]]_, quoit, in med. sense of "table," cf. "dish"
 and Ger. _Tisch_, table, from same source), any kind of flat or sloping
 table for writing or reading. Its earliest shape was probably that with
 which we are familiar in pictures of the monastic _scriptorium_--rather
@@ -9,17 +9,17 @@ accommodation for writing materials, and no storage room for papers;
 drawers, cupboards and pigeon-holes were the evolution of periods when
 writing grew common, and when letters and other documents requiring
 preservation became numerous. It was long the custom to secure papers
-in chests or cabinets, whereas the modern desk serves the double purpose
+in chests or [[Cabinet|cabinets]], whereas the modern desk serves the double purpose
 of a writing-table and a storehouse for documents. The first development
 from the early stall-like desk consisted of the addition of a drawer;
-then the table came to be supported upon legs or columns, which, as in
-the many beautiful examples constructed by Boulle and his school, were
-often of elaborate grace. Eventually the legs were replaced by a series
+then the table came to be supported upon [[Leg|legs]] or columns, which, as in
+the many beautiful examples constructed by [[Boulle]] and his school, were
+often of elaborate [[Grace|grace]]. Eventually the legs were replaced by a series
 of superimposed drawers forming pedestals--hence the familiar pedestal
 writing-table.
 
 For a long period there were two distinct contemporary forms of
-desk--the table and the bureau or escritoire. The latter shape attained
+desk--the table and the [[Bureau|bureau]] or escritoire. The latter shape attained
 a popularity so great that, especially in England and America, it was
 found even in houses in which there was little occasion for writing. The
 English-speaking people of the 18th century were amazingly fond of
@@ -46,12 +46,12 @@ century, the period of the greatest _floraison_ of this combination,
 competed with each other in devising elegant frets for the glass fronts.
 Solid and satisfying to the eye, if somewhat severe in form, the
 mahogany bureau was usually an exceedingly presentable piece of
-furniture. Occasionally it had a _bombé_ front which mitigated its
+furniture. Occasionally it had a _[[Bomb|bomb]]é_ front which mitigated its
 severity; this was especially the case in the Dutch varieties, which
 were in a measure free adaptations of the French Louis Quinze _commode_.
 These Dutch bureaux, and the English ones made in imitation of them,
 were usually elaborately inlaid with floral designs in coloured woods;
-but whereas the Batavian marquetry was often rough and crude, the
+but whereas the Batavian [[Marquetry|marquetry]] was often rough and crude, the
 English work was usually of considerable excellence. Side by side with
 this form of writing apparatus was one variety or another of the
 writing-table proper. In so far as it is possible to generalize upon
@@ -84,7 +84,7 @@ numbers. This is indeed the old French form with a tambour cylinder, and
 it is now the desk that is most frequently met with all over the world
 for commercial purposes. Its popularity is due to its large
 accommodation, and to the facility with which the closing of the
-cylinder conceals all papers, and automatically locks every drawer. To
+cylinder conceals all papers, and automatically [[Lock|locks]] every drawer. To
 France we owe not only the invention of this ubiquitous form, but the
 construction of many of the finest and most historic desks that have
 survived--the characteristic marquetry writing-tables of the Boulle
@@ -95,7 +95,7 @@ furniture that, so far as we know, was ever constructed. This desk,
 which is now one of the treasures of the Louvre, was the work of several
 artist-artificers, chief among whom were Oeben and Riesener--Oeben, it
 may be added here as a matter of artistic interest, became the
-grandfather of Eugene Delacroix. The bureau is signed "Riesener fa. 1769
+grandfather of Eugene [[Delacroix]]. The bureau is signed "Riesener fa. 1769
 à l'Arsenal de Paris," but it has been established that, however great
 may have been the share of its construction which fell to him, the
 conception was that of Oeben. The work was ordered in 1760; it would
@@ -113,9 +113,9 @@ finish of its details. Its lines are large, flowing and harmonious, and
 although it is no longer exactly as it left the hands of its makers
 (Oeben died before it was finished) the alterations that have been made
 have hardly interfered with the general effect. For the head of the king
-for whom it was made that of Minerva in a helmet was substituted under
-his successor. The ciphers of Louis XV. have been removed and replaced
-by Sèvres plaques, and even the key which bore the king's initial
+for whom it was made that of Minerva in a [[Helmet|helmet]] was substituted under
+his successor. The [[Cipher|ciphers]] of Louis XV. have been removed and replaced
+by Sèvres plaques, and even the [[Key|key]] which bore the king's initial
 crowned with laurels and palm leaves, with his portrait on the one side,
 and the fleur de lys on the other, has been interfered with by an
 austere republicanism. Yet no tampering with details can spoil the

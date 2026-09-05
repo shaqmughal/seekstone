@@ -6,12 +6,12 @@ Christian Church.
 1. _Authorship and Date._--The earliest indication which we possess of
 the belief that the author was Luke, the companion of the Apostle Paul
 (Col. iv. 14; Philem. 24; 2 Tim. iv. 11), is found in Justin Martyr,
-who, in his _Dialogue with Trypho_ (c. 103), when making a statement
+who, in his _[[Dialogue]] with Trypho_ (c. 103), when making a statement
 found only in our Luke, instead of referring for it simply to the
 "Apostolic Memoirs," his usual formula, says that it is contained in the
 memoirs composed by "the Apostles and _those that followed them_." But
 the first distinct mention of Luke as the author of the Gospel is that
-by Irenaeus in his famous passage about the Four Gospels (_Adv. Haer._
+by [[Irenaeus]] in his famous passage about the Four Gospels (_Adv. Haer._
 III. i. 2, c. A.D. 180).
 
 This tradition is important in spite of the fact that it first comes
@@ -28,7 +28,7 @@ present form. This is intimated at the beginning of the second of them
 some parts much more strongly than in others, by stylistic
 characteristics which we may conveniently call "Lucan" without making a
 premature assumption as to the authorship. The writer is more versed
-than any other New Testament writer except the author of the Epistle to
+than any other New Testament writer except the author of the [[Epistle]] to
 the Hebrews, and very much more than most of them, in the literary Greek
 of the period of the rise of Christianity; and he has, also, like other
 writers, his favourite words, turns of expression and thoughts. The
@@ -144,11 +144,11 @@ be doubted whether these are in all respects accurate.
   Galilee to the Appointment of the Twelve._--In the main Luke here
   follows his Marcan document. He has, however, independent narratives
   of the visit of Jesus to Nazareth (iv. 16-30) and the call of the
-  first disciples (v. 1-11). The former, which in Mark is placed some
+  first [[Disciple|disciples]] (v. 1-11). The former, which in Mark is placed some
   way on in the Galilean ministry (vi. 1-6_a_), is given by Luke at the
   very beginning of it, perhaps because of the previous connexion of
   Jesus with Nazareth. But that it is not in its right position here,
-  before any mention of the work in Capernaum, appears from verse 23.
+  before any mention of the work in [[Capernaum]], appears from verse 23.
   Luke has also slightly altered the position of the call of the first
   disciples in the sequence of events.
 
@@ -168,7 +168,7 @@ be doubted whether these are in all respects accurate.
   parallel to one of them is placed later and differs considerably in
   form. Possibly this fact points to his Marcan document having been
   briefer than our Mark, and to its having afterwards received
-  interpolations (see MARK, GOSPEL OF ST).
+  [[Interpolation|interpolations]] (see MARK, GOSPEL OF ST).
 
   Chap. ix. 51-xviii. 14. _Incidents and Teaching connected with Journey
   towards Jerusalem._--This is another insertion into the Marcan
@@ -203,7 +203,7 @@ divine forgiveness, as set forth in the teaching of Jesus and manifested
 in His own attitude towards, and power over, the hearts of the outcasts
 among the people, is peculiarly prominent in this Gospel. This feature
 of Christ's ministry appears only in one passage of Mark; some other
-illustrations of it are mentioned in Matthew, but in Luke there are
+illustrations of it are mentioned in [[Matthew]], but in Luke there are
 several more which are peculiar to himself (see the three individual
 cases vii. 36 sqq.; xix. 1 sqq., xxiii. 40 sqq.; also the description at
 xv. 1, and the three parables that follow). These were "lost sheep of
@@ -252,7 +252,7 @@ represented as being the heirs of a blessed hereafter, simply on the
 ground that they are now poor. In the Beatitudes Christ's own disciples
 are addressed, who were blessed _though_ poor, whereas the rich as a
 class were opposed or indifferent to the kingdom of God. Again, the
-contrast between Lazarus and Dives in the future state pictures vividly
+contrast between [[Lazarus]] and Dives in the future state pictures vividly
 the reversals that are in store; but it is unreasonable to take it as
 implying that every poor man, whatever his moral character, will be
 blessed.
@@ -269,7 +269,7 @@ are peculiarly frequent and full (iv. 15, v. 25, 26, vii. 16, x. 17,
 xiii. 13, 17, xvii. 15-18, xviii. 43, xix. 6, 37, 38, xxiii. 47, xxiv.
 41, 52, 53. Cf. also xv. 5, 7, 10, 32).
 
-The peculiar charm which this Gospel has been generally felt to possess
+The peculiar [[Charm|charm]] which this Gospel has been generally felt to possess
 is largely due to the spiritual and ethical traits which have been
 noted. But from a purely literary point of view, also, it is
 distinguished by great excellences. The evangelist's phraseology is
@@ -296,8 +296,8 @@ manner of writing to the subject-matter in hand. And at all events it is
 worthy of note that we pass without any sense of jar from passages in
 one style to those in another.
 
-  See Godet, _Commentaire sur l'évangile de S. Luc_ (Eng. trans., 1875);
-  Plummer's _Comm. on St Luke_ (in international Series, 4th ed., 1906);
+  See [[Godet]], _Commentaire sur l'évangile de S. Luc_ (Eng. trans., 1875);
+  Plummer's _Comm. on St Luke_ (in [[International|international]] Series, 4th ed., 1906);
   W. Ramsay, _Was Christ born in Bethlehem?_ (3rd ed., 1905); A.
   Harnack, _Lukas der Arzt_ (1906); B. Weiss, _Die Quellen des
   Lukas-Evangeliums_ (1907); also books on the Four Gospels, or the

@@ -9,7 +9,7 @@ _Iphigenie_, and often stayed at Gabelbach in the neighbourhood. It has
 a grand-ducal palace, a Roman Catholic and two Evangelical churches, a
 sanatorium for nervous disorders, and several educational
 establishments. Its chief manufactures are glass and porcelain, toys,
-gloves and chemicals, and the town has tanneries and saw-mills. Formerly
+[[Glove|gloves]] and chemicals, and the town has tanneries and saw-mills. Formerly
 a part of the county of Henneberg, Ilmenau came in 1631 into the
 possession of electoral Saxony, afterwards passing to Saxe-Weimar.
 

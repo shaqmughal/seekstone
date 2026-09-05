@@ -34,7 +34,7 @@ an alleged "editing" of the school inspectors' reports, was inspired by
 a certain antagonism to Lingen's as well as to Lowe's methods. Shortly
 before the introduction of Forster's Education Act of 1870, he was
 transferred to the post of permanent secretary of the treasury. In this
-office, which he held till 1885, he proved a most efficient guardian of
+office, which he held till 1885, he proved a most efficient [[Guardian|guardian]] of
 the public purse, and he was a tower of strength to successive
 chancellors of the exchequer. It used to be said that the best
 recommendation for a secretary of the treasury was to be able to say

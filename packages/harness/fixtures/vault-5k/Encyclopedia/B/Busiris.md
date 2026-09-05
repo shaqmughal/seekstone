@@ -9,13 +9,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Busiris"
 
 BUSIRIS, in a Greek legend preserved in a fragment of Pherecydes, an
 Egyptian king, son of Poseidon and Lyssianassa. After Egypt has been
-afflicted for nine years with famine, Phrasius, a seer of Cyprus, arrived
+afflicted for nine years with famine, Phrasius, a seer of [[Cyprus]], arrived
 in Egypt and announced that the cessation of the famine would not take
 place until a foreigner was yearly sacrificed to Zeus or Jupiter. Busiris
 commenced by sacrificing the prophet, and continued the custom by offering
 a foreigner on the altar of the god. It is here that Busiris enters into
 the circle of the myths and _parerga_ of Heracles, who had arrived in Egypt
-from Libya, and was seized and bound ready to be killed and offered at the
+from [[Libya]], and was seized and bound ready to be killed and offered at the
 altar of Zeus in Memphis. Heracles burst the bonds which bound him, and,
 seizing his club, slew Busiris with his son Amphidamas and his herald
 Chalbes. [v.04 p.0874] This exploit is often represented on vase paintings

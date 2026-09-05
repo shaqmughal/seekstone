@@ -4,13 +4,13 @@ LABOUR PARTY, in Great Britain, the name given to the party in
 parliament composed of working-class representatives. As the result of
 the Reform Act of 1884, extending the franchise to a larger new
 working-class electorate, the votes of "labour" became more and more a
-matter of importance for politicians; and the Liberal party, seeking for
+matter of importance for politicians; and the [[Liberal Party|Liberal party]], seeking for
 the support of organized labour in the trade unions, found room for a
 few working-class representatives, who, however, acted and voted as
 Liberals. It was not till 1893 that the Independent Labour party,
 splitting off under Mr J. Keir Hardie (b. 1856) from the socialist
 organization known as the Social Democratic Federation (founded 1881),
-was formed at Bradford, with the object of getting independent
+was formed at [[Bradford]], with the object of getting independent
 candidates returned to parliament on a socialist programme. In 1900 Mr
 Keir Hardie, who as secretary of the Lanarkshire Miners' Union had stood
 unsuccessfully as a labour candidate for Mid-Lanark in 1888, and sat as

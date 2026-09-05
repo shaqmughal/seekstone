@@ -11,11 +11,11 @@ HALLE (known as HALLE-AN-DER-SAALE, to distinguish it from the small
 town of Halle in Westphalia), a town of Germany, in the Prussian
 province of Saxony, situated in a sandy plain on the right bank of the
 Saale, which here divides into several arms, 21 m. N.W. from Leipzig by
-the railway to Magdeburg. Pop. (1875), 60,503; (1885) 81,982; (1895)
+the railway to [[Magdeburg]]. Pop. (1875), 60,503; (1885) 81,982; (1895)
 116,304; (1905) 160,031. Owing to its situation at the junction of six
 important lines of railway, bringing it into direct communication with
-Berlin, Breslau, Leipzig, Frankfort-on-Main, the Harz country and
-Hanover, it has greatly developed in size and in commercial and
+Berlin, Breslau, Leipzig, [[Frankfort-On-Main|Frankfort-on-Main]], the Harz country and
+[[Hanover]], it has greatly developed in size and in commercial and
 industrial importance. It consists of the old, or inner, town surrounded
 by promenades, which occupy the site of the former fortifications, and
 beyond these of two small towns, Glaucha in the south and Neumarkt in
@@ -26,10 +26,10 @@ streets.
 
 The centre of the town proper is occupied by the imposing market square,
 on which stand the fine medieval town hall (restored in 1883) and the
-handsome Gothic Marienkirche, dating mainly from the 16th century, with
+handsome [[Gothic]] Marienkirche, dating mainly from the 16th century, with
 two towers connected by a bridge. In the middle of the square are a
 clock-tower (_Der rote Turm_) 276 ft. in height, and a bronze statue of
-Handel, the composer, a native of Halle. West of the market-square lies
+[[Handel]], the composer, a native of Halle. West of the market-square lies
 the Halle, or the Tal, where the brine springs (see below) issue. Among
 the eleven churches, nine Protestant and two Roman Catholic, may also be
 mentioned the St Moritzkirche, dating from the 12th century, with fine
@@ -45,7 +45,7 @@ famous university was founded by the elector Frederick III. of
 Brandenburg (afterwards king of Prussia), in 1694, on behalf of the
 jurist, Christian Thomasius (1655-1728), whom many students followed to
 Halle, when he was expelled from Leipzig through the enmity of his
-fellow professors. It was closed by Napoleon in 1806 and again in 1813,
+[[Fellow|fellow]] professors. It was closed by Napoleon in 1806 and again in 1813,
 but in 1815 was re-established and augmented by the removal to it of the
 university of Wittenberg, with which it thus became united. It has
 faculties of theology, law, medicine and philosophy. From the first it
@@ -56,14 +56,14 @@ botanical garden, a theological seminary, anatomical, pathological and
 physical institutes, hospitals, an agricultural institute--one of the
 foremost institutions of the kind in Germany--a meteorological
 institute, an observatory and a library of 180,000 printed volumes and
-800 manuscripts. Among other educational establishments must be
-mentioned the Francke'sche Stiftungen, founded in 1691 by August Hermann
+800 [[Manuscript|manuscripts]]. Among other educational establishments must be
+mentioned the Francke'sche Stiftungen, founded in 1691 by August [[Hermann]]
 Francke (1663-1727), a bronze statue of whom by Rauch was erected in
 1829 in the inner court of the building. They embrace an orphanage, a
 laboratory where medicines are prepared and distributed, a Bible press
 from which Bibles are issued at a cheap rate, and eight schools of
 various grades, attended in all by over 3000 pupils. The other principal
-institutions are the city gymnasium, the provincial lunatic asylum, the
+institutions are the city gymnasium, the provincial lunatic [[Asylum|asylum]], the
 prison, the town hospital and infirmary, and the deaf and dumb
 institute. The salt-springs of Halle have been known from a very early
 period. Some rise within the town and others on an island in the Saale;
@@ -72,15 +72,15 @@ and together their annual yield of salt is about 8500 tons.
 The workmen employed at the salt-works are of a peculiar race and are
 known as the _Halloren_. They have been usually regarded as descendants
 of the original Wendish inhabitants, or as Celtic immigrants, with an
-admixture of Frankish elements. They wear a distinct dress, the ordinary
-costume of about 1700, observe several ancient customs, and enjoy
+admixture of Frankish elements. They wear a distinct [[Dress|dress]], the ordinary
+[[Costume|costume]] of about 1700, observe several ancient customs, and enjoy
 certain exemptions and privileges derived from those of the ancient
 _Pfannerschaft_ (community of the salt-panners).
 
-Among the other industries of Halle are sugar refining, machine
-building, the manufacture of spirits, malt, chocolate, cocoa,
+Among the other industries of Halle are sugar refining, [[Machine|machine]]
+building, the manufacture of spirits, malt, chocolate, [[Cocoa|cocoa]],
 confectionery, cement, paper, chicory, lubricating and illuminating oil,
-wagon grease, carriages and playing cards, printing, dyeing and coal
+wagon grease, carriages and playing [[Cards|cards]], printing, dyeing and coal
 mining (soft brown coal). The trade, which is supervised by a chamber of
 commerce, is very considerable, the principal exports being machinery,
 raw sugar and petroleum. Halle is also noted as the seat of several
@@ -102,7 +102,7 @@ which it sells annually from 60,000 to 70,000 copies.
   burgrave. The conflict of interests and jurisdictions led to the usual
   internecine strife during the middle ages. The panners (_Pfanner_) of
   the Tal, feudatories or officials, became a close hereditary
-  aristocracy in perpetual rivalry with the gilds in the town; and both
+  [[Aristocracy|aristocracy]] in perpetual rivalry with the gilds in the town; and both
   resisted the pretensions of the archbishops. At the beginning of the
   12th century Halle had attained considerable importance, and in the
   13th and 14th centuries as a member of the Hanseatic League it carried
@@ -110,11 +110,11 @@ which it sells annually from 60,000 to 70,000 copies.
   resisted an army of 30,000 men under the elector of Saxony. Its
   liberty perished, however, as a result of the internal feud between
   the democratic gilds and the patrician panners. On the 20th of
-  September 1478 a demagogue and cobbler named Jakob Weissak, a member
+  September 1478 a [[Demagogue|demagogue]] and cobbler named [[Jakob]] Weissak, a member
   of the town council, with his confederates opened the gates to the
   soldiers of the archbishop. The townsmen were subdued, and to hold
   them in check the archbishop, Ernest of Saxony, built the castle of
-  Moritzburg. Notwithstanding the efforts of the archbishops of Mainz
+  Moritzburg. Notwithstanding the efforts of the archbishops of [[Mainz]]
   and Magdeburg, the Reformation found an entrance into the city in
   1522; and in 1541 a Lutheran superintendent was appointed. After the
   peace of Westphalia in 1648 the city came into the possession of the
@@ -130,7 +130,7 @@ which it sells annually from 60,000 to 70,000 copies.
   vols., 1755; 3rd edition, 1842-1844); Hoffbauer, _Geschichte der
   Universitat zu Halle_ (1806); _Halle in Vorzeit und Gegenwart_ (1851);
   Knauth, _Kurze Geschichte und Beschreibung der Stadt Halle_ (3rd ed.,
-  1861); vom Hagen, _Die Stadt Halle_ (1866-1867); Hertzberg,
+  1861); vom [[Hagen]], _Die Stadt Halle_ (1866-1867); Hertzberg,
   _Geschichte der Vereinigung der Universitaten von Wittenberg und
   Halle_ (1867); Voss, _Zur Geschichte der Autonomie der Stadt Halle_
   (1874); Schrader, _Geschichte der Friedrichs-Universitat zu Halle_

@@ -12,7 +12,7 @@ was Irish chancellor of the exchequer under Henry VIII.; another was a
 member of the Long Parliament; Robert's father for many years
 represented Montgomeryshire in parliament. His mother, to whom he was
 tenderly attached, and who had a powerful influence on his career, was a
-daughter, and with her sister Lady Sempill co-heir, of Nathaniel Gaskell
+daughter, and with her sister Lady Sempill co-heir, of Nathaniel [[Gaskell]]
 of Manchester. Robert was their eldest son. With his five sisters, all
 of whom were married in due time, he ever maintained the most
 affectionate relations. His only brother survived to 1825.
@@ -25,17 +25,17 @@ could read Horace in after life; and he must have laid in his youth the
 foundation of that clear and vigorous English style which marked all his
 despatches, and made Lord Chatham declare of one of his speeches in the
 House of Commons that it was the most eloquent he had ever heard. From
-his earliest years, however, his ambition was to lead his fellows; but
+his earliest years, however, his ambition was to lead his [[Fellows|fellows]]; but
 he never sacrificed honour, as the word was then understood, even to the
 fear of death. At eighteen he was sent out to Madras as a "factor" or
-"writer" in the civil service of the East India Company. The detention
+"writer" in the civil service of the [[East India Company]]. The detention
 of the ship in Brazil for nine months enabled him to acquire the
 Portuguese language, which, at a time when few or none of the Company's
 servants learned the vernaculars of India, he often found of use. For
 the first two years of his residence he was miserable. He felt keenly
 the separation from home; he was always breaking through the restraints
 imposed on young "writers"; and he was rarely out of trouble with his
-fellows, with one of whom he fought a duel. Thus early, too, the effect
+fellows, with one of whom he fought a [[Duel|duel]]. Thus early, too, the effect
 of the climate on his health began to show itself in those fits of
 depression during one of which he afterwards prematurely ended his life.
 The story is told of him by his companions, though he himself never
@@ -43,8 +43,8 @@ spoke of it, that he twice snapped a pistol at his head in vain. His one
 solace was found in the governor's library, where he sought to make up
 for past carelessness by a systematic course of study. He was just of
 age, when in 1746 Madras was forced to capitulate to Labourdonnais
-during the War of the Austrian Succession. The breach of that
-capitulation by Dupleix, then at the head of the French settlements in
+during the War of the Austrian Succession. The [[Breach|breach]] of that
+[[Capitulation|capitulation]] by Dupleix, then at the head of the French settlements in
 India, led Clive, with others, to escape from the town to the
 subordinate Fort St David, some 20 m. to the south. There, disgusted
 with the state of affairs and the purely commercial duties of an East
@@ -57,7 +57,7 @@ the forty years since the death of the emperor Aurangzeb, the power of
 the Great Mogul had gradually fallen into the hands of his provincial
 viceroys or _subadhars_. The three greatest of these were the nawab of
 the Deccan, or south and central India, who ruled from Hyderabad, the
-nawab of Bengal, whose capital was Murshidabad, and the nawab or wazir
+nawab of [[Bengal]], whose capital was Murshidabad, and the nawab or wazir
 of Oudh. The prize lay between Dupleix, who had the genius of an
 administrator, or rather intriguer, but was no soldier, and Clive, the
 first of a century's brilliant succession of those "soldier-politicals,"
@@ -86,8 +86,8 @@ scale, when Clive drew up a plan for dividing the enemy's forces, and
 offered to carry it out himself. The pretender, Chanda Sahib, had been
 made nawab of the Carnatic with Dupleix's assistance, while the British
 had taken up the cause of the more legitimate successor, Mahommed Ali.
-Chanda Sahib had left Arcot, the capital of the Carnatic, to reduce
-Trichinopoly, then held by a weak English battalion. Clive offered to
+Chanda Sahib had left [[Arcot]], the capital of the Carnatic, to reduce
+Trichinopoly, then held by a weak English [[Battalion|battalion]]. Clive offered to
 attack Arcot in order to force Chanda Sahib to raise the siege of
 Trichinopoly. But Madras and Fort St David could supply him with only
 200 Europeans and 300 sepoys. Of the eight officers who led them, four
@@ -106,7 +106,7 @@ Macaulay gives the following brilliant account of the siege:--
 
   "Raja Sahib proceeded to invest the fort, which seemed quite incapable
   of sustaining a siege. The walls were ruinous, the ditches dry, the
-  ramparts too narrow to admit the guns, and the battlements too low to
+  ramparts too narrow to admit the guns, and the [[Battlement|battlements]] too low to
   protect the soldiers. The little garrison had been greatly reduced by
   casualties. It now consisted of 120 Europeans and 200 sepoys. Only
   four officers were left, the stock of provisions was scanty, and the
@@ -129,7 +129,7 @@ Macaulay gives the following brilliant account of the siege:--
   contains no more touching instance of military fidelity, or of the
   influence of a commanding mind. An attempt made by the governor of
   Madras to relieve the place had failed; but there was hope from
-  another quarter. A body of 3000 Mahrattas, half soldiers, half
+  another quarter. A body of 3000 [[Mahrattas]], half soldiers, half
   robbers, under the command of a chief named Murari Rao had been hired
   to assist Mahommed Ali; but thinking the French power irresistible,
   and the triumph of Chanda Sahib certain, they had hitherto remained
@@ -162,7 +162,7 @@ Macaulay gives the following brilliant account of the siege:--
   himself, and cleared the raft in a few minutes. Where the moat was
   dry, the assailants mounted with great boldness; but they were
   received with a fire so heavy and so well directed, that it soon
-  quelled the courage even of fanaticism and of intoxication. The rear
+  quelled the courage even of fanaticism and of [[Intoxication|intoxication]]. The rear
   ranks of the English kept the front ranks supplied with a constant
   succession of loaded muskets, and every shot told on the living mass
   below. The struggle lasted about an hour; 400 of the assailants fell;
@@ -238,7 +238,7 @@ conclude a treaty, under which favourable terms were conceded to the
 Company's trade, the factories and plundered property were restored, and
 an English mint was established. In the accompanying agreement,
 offensive and defensive, Clive appears under the name by which he was
-always known to the natives of India, Sabut Jung, or "the daring in
+always known to the natives of India, Sabut [[Jung]], or "the daring in
 war." The hero of Arcot had, at Angria's stronghold, and now again under
 the walls of Calcutta, established his reputation as the first captain
 of the time. With 600 British soldiers, 800 sepoys, 7 field-pieces and
@@ -249,16 +249,16 @@ of Canterbury, gives a modest but vivid description of the battle, the
 importance of which has been overshadowed by Plassey. In spite of his
 double defeat and the treaty which followed it, the madness of the nawab
 burst forth again. As England and France were once more at war, Clive
-sent the fleet up the river against Chandernagore, while he besieged it
+sent the fleet up the river against [[Chandernagore]], while he besieged it
 by land. After consenting to the siege, the nawab sought to assist the
 French, but in vain. The capture of their principal settlement in India,
 next to Pondicherry, which had fallen in the previous war, gave the
 combined forces prize to the value of £130,000. The rule of
 Suraj-ud-Dowlah became as intolerable to his own people as to the
 British. They formed a confederacy to depose him, at the head of which
-was Jafar Ali Khan, his commander-in-chief. Associating with himself
+was Jafar Ali [[Khan]], his commander-in-chief. Associating with himself
 Admiral Watson, Governor Drake and Mr Watts, Clive made a treaty in
-which it was agreed to give the office of viceroy of Bengal, Behar and
+which it was agreed to give the office of viceroy of Bengal, [[Behar]] and
 Orissa to Jafar, who was to pay a million sterling to the Company for
 its losses in Calcutta and the cost of its troops, half a million to the
 British inhabitants of Calcutta, £200,000 to the native inhabitants, and
@@ -270,7 +270,7 @@ Calcutta, and the treachery at Chandernagore in spite of the treaty
 which followed that battle, the East India Company could treat the nawab
 only as an enemy. Clive, it is true, might have disregarded all native
 intrigue, marched on Murshidabad, and at once held the delta of the
-Ganges in the Company's name. But the time was not ripe for this, and
+[[Ganges]] in the Company's name. But the time was not ripe for this, and
 the consequences, with so small a force, might have been fatal. The idea
 of acting directly as rulers, or save under native charters and names,
 was not developed by events for half a century. The political morality
@@ -278,7 +278,7 @@ of the time in Europe, as well as the comparative weakness of the
 Company in India, led Clive not only to meet the dishonesty of his
 native associate by equal dishonesty, but to justify his conduct by the
 declaration, years after, in parliament, that he would do the same
-again. It became necessary to employ the richest Bengali trader,
+again. It became necessary to employ the richest [[Bengali]] trader,
 Omichund, as an agent between Jafar Ali and the British officials.
 Master of the secret of the confederacy against Suraj-ud-Dowlah, the
 Bengali threatened to betray it unless he was guaranteed, in the treaty
@@ -286,7 +286,7 @@ itself, £300,000. To dupe the villain, who was really paid by both
 sides, a second, or fictitious treaty, was shown him with a clause to
 this effect. This Admiral Watson refused to sign; "but," Clive deponed
 to the House of Commons, "to the best of his remembrance, he gave the
-gentleman who carried it leave to sign his name upon it; his lordship
+[[Gentleman|gentleman]] who carried it leave to sign his name upon it; his lordship
 never made any secret of it; he thinks it warrantable in such a case,
 and would do it again a hundred times; he had no interested motive in
 doing it, and did it with a design of disappointing the expectations of
@@ -314,7 +314,7 @@ and called a council of sixteen officers to decide, as he put it,
 "whether in our present situation, without assistance, and on our own
 bottom, it would be prudent to attack the nawab, or whether we should
 wait till joined by some country power?" Clive himself headed the nine
-who voted for delay; Major (afterwards Sir) Eyre Coote led the seven who
+who voted for delay; Major (afterwards Sir) [[Eyre]] Coote led the seven who
 counselled immediate attack. But, either because his daring asserted
 itself, or because, also, of a letter that he received from Jafar Ali,
 as has been said, Clive was the first to change his mind and to
@@ -329,12 +329,12 @@ since retreat, or even delay, would have put back the civilization of
 India for years. When, after the heavy rain, the sun rose brightly on
 the 22nd, the 3200 men and the 9 guns crossed the river and took
 possession of the grove and its tanks of water, while Clive established
-his headquarters in a hunting lodge, On the 23rd the engagement took
+his headquarters in a [[Hunting|hunting]] [[Lodge|lodge]], On the 23rd the engagement took
 place and lasted the whole day. Except the 40 Frenchmen and the guns
 which they worked, the enemy did little to reply to the British
 cannonade which, with the 39th Regiment, scattered the host, inflicting
 on it a loss of 500 men. Clive restrained the ardour of Major
-Kilpatrick, for he trusted to Jafar Ali's abstinence, if not desertion
+Kilpatrick, for he trusted to Jafar Ali's abstinence, if not [[Desertion|desertion]]
 to his ranks, and knew the importance of sparing his own small force. He
 lost hardly a white soldier; in all 22 sepoys were killed and 50
 wounded. His own account, written a month after the battle to the secret
@@ -382,7 +382,7 @@ of Oudh and Allahabad for the conquest of Bengal. He advanced as far as
 Patna, which he besieged with 40,000 men. Jafar Ali, in terror, sent his
 son to its relief, and implored the aid of Clive. Major Caillaud
 defeated the prince's army and dispersed it. Finally, at this period,
-Clive repelled the aggression of the Dutch, and avenged the massacre of
+Clive repelled the aggression of the Dutch, and avenged the [[Massacre|massacre]] of
 Amboyna, on that occasion when he wrote his famous letter, "Dear Forde,
 fight them immediately; I will send you the order of council to-morrow."
 Meanwhile he never ceased to improve the organization and drill of the
@@ -397,7 +397,7 @@ sought to recall him to their help there. But he had discerned the
 importance of the province even during his first visit to its rich
 delta, mighty rivers and teeming population. It should be noticed, also,
 that he had the kingly gift of selecting the ablest subordinates, for
-even thus early he had discovered the ability of young Warren Hastings,
+even thus early he had discovered the ability of young Warren [[Hastings]],
 destined to be his great successor, and, a year after Plassey, made him
 resident at the nawab's court.
 
@@ -457,7 +457,7 @@ only the viceroy of Oudh, but the emperor of Delhi himself, to invade
 Behar. After the first mutiny in the Bengal army, which was suppressed
 by blowing the sepoy ringleader from a gun, Major Munro, "the Napier of
 those times," scattered the united armies on the hard-fought field of
-Buxar. The emperor, Shah Alam, detached himself from the league, while
+[[Buxar]]. The emperor, Shah Alam, detached himself from the league, while
 the Oudh viceroy threw himself on the mercy of the British. Clive had
 now an opportunity of repeating in Hindustan, or Upper India, what he
 had accomplished for the good of Bengal. He might have secured what are
@@ -501,7 +501,7 @@ the acquisition of the dewany, the power formerly belonging to the
 soubah of those provinces is totally, in fact, vested in the East India
 Company. Nothing remains to him but the name and shadow of authority.
 This name, however, this shadow, it is indispensably necessary we should
-seem to venerate." On a wider arena, even that of the Great Mogul
+seem to venerate." On a wider [[Arena|arena]], even that of the Great Mogul
 himself, the shadow was kept up till it obliterated itself in the
 massacre of English people in the Delhi palace in 1857; and Queen
 Victoria was proclaimed, first, direct ruler on the 1st of November
@@ -512,10 +512,10 @@ was to create a pure and strong administration, such as alone would
 justify its possession by foreigners. The civil service was
 de-orientalized by raising the miserable salaries which had tempted its
 members to be corrupt, by forbidding the acceptance of gifts from
-natives, and by exacting covenants under which participation in the
+natives, and by exacting [[Covenant|covenants]] under which participation in the
 inland trade was stopped. Not less important were his military reforms.
 With his usual tact and nerve he put down a mutiny of the English
-officers, who chose to resent the veto against receiving presents and
+officers, who [[Chose|chose]] to resent the veto against receiving presents and
 the reduction of batta at a time when two Mahratta armies were marching
 on Bengal. His reorganization of the army, on the lines of that which he
 had begun after Plassey, and which was neglected during his second visit
@@ -548,7 +548,7 @@ peace and justice, and that, as we have seen, without blot on the gift,
 save in the matter of Omichund. The result, after the brilliant and
 honourable defences of his career which will be found in Almon's
 _Debates_ for 1773, was a compromise that saved England this time from
-the dishonour which, when Warren Hastings had to run the gauntlet, put
+the dishonour which, when Warren Hastings had to run the [[Gauntlet|gauntlet]], put
 it in the same category with France in the treatment of its public
 benefactors abroad. On a division the House, by 155 to 95, carried the
 motion that Lord Clive "did obtain and possess himself" of £234,000

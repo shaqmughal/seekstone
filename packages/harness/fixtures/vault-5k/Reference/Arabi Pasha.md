@@ -9,7 +9,7 @@ topic: botany
 ARABI PASHA (c. 1839-   ), more correctly AHMAD 'ARABI, to which in
 later years he added the epithet _al-Misri_, "the Egyptian," Egyptian
 soldier and revolutionary leader, was born in Lower Egypt in 1839 or
-1840 of a fellah family. Having entered the army as a conscript he was
+1840 of a [[Fellah|fellah]] family. Having entered the army as a conscript he was
 made an officer by Said Pasha in 1862, and was employed in the transport
 department in the Abyssinian campaign of 1875 under Ismail Pasha. A
 charge of peculation, unproved, was made against him in connexion with
@@ -19,7 +19,7 @@ rid of Turkish officers from the Egyptian army. Arabi also attended
 lectures at the mosque El Azhar and acquired a reputation as an orator.
 In 1878 he was employed by Ismail in fomenting a disturbance against the
 ministry of Nubar, Rivers Wilson and de Blignieres, and received in
-payment a wife from Ismail's harem and the command of a regiment. This
+payment a wife from Ismail's [[Harem|harem]] and the command of a regiment. This
 increased his influence with the secret society, which, under the feeble
 government of Tewfik Pasha and the Dual Control, began to agitate
 against Europeans. In all that followed Arabi was put forward as the

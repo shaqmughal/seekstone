@@ -1,8 +1,8 @@
 # Buisson
 
-BUISSON, FERDINAND (1841- ), French educationalist, was born at Paris on
+BUISSON, [[Ferdinand|FERDINAND]] (1841- ), French educationalist, was born at Paris on
 the 20th of December 1841. In 1868, when attached to the teaching staff of
-the Academy of Geneva, he obtained a philosophical fellowship. In 1870 he
+the Academy of [[Geneva]], he obtained a philosophical fellowship. In 1870 he
 settled in Paris, and in the following year was nominated an inspector of
 primary education. His appointment was, however, strongly opposed by the
 bishop of Orleans (who saw danger to clerical influence over the schools),
@@ -16,7 +16,7 @@ education. In 1879 he was promoted to the directorship of primary
 education, a post which he occupied until 1896, when he became professor of
 education at the Sorbonne. At the general election of 1902 he was returned
 to the chamber of deputies as a radical socialist by the XIII^{me}
-arrondissement of Paris. He supported the policy of M. Combes, and presided
+arrondissement of Paris. He supported the policy of M. [[Combes]], and presided
 over the commission for the separation of church and state.
 
 ## References

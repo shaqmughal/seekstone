@@ -3,7 +3,7 @@
 GERBIL, or GERBILLE, the name of a group of small, elegant, large-eyed,
 jumping rodents typified by the North African _Gerbillus aegyptiacus_
 (or _gerbillus_), and forming a special subfamily, _Gerbillinae_, of the
-rat tribe or _Muridae_. They are found over the desert districts of both
+rat tribe or _Muridae_. They are found over the [[Desert|desert]] districts of both
 Asia and Africa, and are classed in the genera _Gerbillus_ (or
 _Tatera_), _Pachyuromys_, _Meriones_, _Psammomys_ and _Rhombomys_, with
 further divisions into subgenera. They have elongated hind-limbs and

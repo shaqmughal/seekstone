@@ -4,7 +4,7 @@ FINE ARTS, the name given to a whole group of human activities, which
 have for their result what is collectively known as Fine Art. The arts
 which constitute the group are the five greater arts of architecture,
 sculpture, painting, music and poetry, with a number of minor or
-subsidiary arts, of which dancing and the drama are among the most
+subsidiary arts, of which dancing and the [[Drama|drama]] are among the most
 ancient and universal. In antiquity the fine arts were not explicitly
 named, nor even distinctly recognized, as a separate class. In other
 modern languages besides English they are called by the equivalent name
@@ -22,7 +22,7 @@ by variety and relation of contours, surfaces and intervals. But this,
 the commonly accepted account of the matter, does not really cover the
 ground. The idea conveyed by the words "love of beauty," even stretched
 to its widest, can hardly be made to include the love of caricature and
-the grotesque; and these are admittedly modes of fine art. Even the
+the [[Grotesque|grotesque]]; and these are admittedly modes of fine art. Even the
 terrible, the painful, the squalid, the degraded, in a word every
 variety of the significant, can be so handled and interpreted as to be
 brought within the province of fine art. A juster and more inclusive,
@@ -39,8 +39,8 @@ are subjects which have given rise to a formidable body of speculation
 and discussion, the chief phases of which will be found summarized under
 the heading AESTHETICS. In the present article we have only to attend to
 the concrete processes and results of the artistic activities of man; in
-other words, we shall submit (1) a definition of fine art in general,
-(2) a definition and classification of the principal fine arts
+other words, we shall submit (1) a [[Definition|definition]] of fine art in general,
+(2) a definition and [[Classification|classification]] of the principal fine arts
 severally, (3) some observations on their historical development.
 
 
@@ -63,7 +63,7 @@ that it is only by a metaphor that he uses the word art in this case at
 all; he calls attention to that which (if the songs of birds are as
 instinctive as we suppose) precisely makes the difference between the
 skylark's outpourings and his own. We are slow to allow the title of
-fine art to natural eloquence, to charm or dignity of manner, to
+fine art to natural eloquence, to [[Charm|charm]] or dignity of manner, to
 delicacy and tact in social intercourse, and other such graces of life
 and conduct, since, although in any given case they may have been
 deliberately cultivated in early life, or even through ancestral
@@ -83,7 +83,7 @@ person has never thought or long since ceased to think, and could not
 still be thinking without spoiling the charm by self-consciousness; and
 we call the result a gift of nature. But when we go on to notice that
 the same person is beautifully and appropriately dressed, since we know
-that it is impossible to dress without thinking of it, we put down the
+that it is impossible to [[Dress|dress]] without thinking of it, we put down the
 charm of this to judicious forethought and calculation and call the
 result a work of art.
 
@@ -112,7 +112,7 @@ for ever with mimicry and make-believe for their own satisfaction, with
 small regard or none to the presence or absence of witnesses. The
 original or rudimentary type of the profession of imitative sculptors or
 painters is the cave-dweller of prehistoric ages, who, when he rested
-from his day's hunting, first took up the bone handle of his weapon, and
+from his day's [[Hunting|hunting]], first took up the [[Bone|bone]] handle of his weapon, and
 with a flint either carved it into the shape, or on its surface
 scratched the outlines, of the animals of the chase. The original or
 rudimentary type of the architect, considered not as a mere builder but
@@ -120,7 +120,7 @@ as an artist, is the savage who, when his tribe had taken to live in
 tents or huts instead of caves, first arranged the skins and timbers of
 his tent or hut in one way because it pleased his eye, rather than in
 some other way which was as good for shelter. The original type of the
-artificer or adorner of implements, considered in the same light, was
+artificer or adorner of [[Implement|implements]], considered in the same light, was
 the other savage who first took it into his head to fashion his club or
 spear in one way rather than another for the pleasure of the eye only
 and not for any practical reason, and to ornament it with tufts or
@@ -214,10 +214,10 @@ to allow that character, we shall see that one reason is that such
 pleasures are not in their nature thus disinterested. Thus the sense of
 smell and taste have pleasures of their own like the senses of sight and
 hearing, and pleasures neither less poignant nor very much less capable
-of fine graduation and discrimination than those. Why, then, is the title
+of fine [[Graduation|graduation]] and discrimination than those. Why, then, is the title
 of fine art not claimed for any skill in arranging and combining them?
 Why are there no recognized arts of savours and scents corresponding in
-rank to the arts of forms, colours and sounds--or at least none among
+rank to the arts of forms, [[Colours|colours]] and sounds--or at least none among
 Western nations, for in Japan, it seems, there is a recognized and finely
 regulated social art of the combination and succession of perfumes? An
 answer commonly given is that sight and hearing are intellectual and
@@ -234,7 +234,7 @@ cannot be monopolized or used up. If against this it is contended that
 what the programme of a performance is in the musical art, the same is a
 _menu_ in the culinary, and that practically it is no less possible to
 serve up a thousand times and to a thousand different companies the same
-dinner than the same symphony, we must fall back upon that still more
+[[Dinner|dinner]] than the same symphony, we must fall back upon that still more
 fundamental form of the distinction between the aesthetic and
 non-aesthetic bodily senses, upon which the physiological psychologists
 of the English school lay stress. We must say that the pleasures of
@@ -300,7 +300,7 @@ little way towards success. All that can depend on rules, on knowledge,
 and on the application of knowledge by practice, the artist must indeed
 acquire, and the acquisition is often very complicated and laborious.
 But outside of and beyond such acquisitions he must trust to what is
-called genius or imagination, that is, to the spontaneous working
+called genius or [[Imagination|imagination]], that is, to the spontaneous working
 together of an incalculably complex group of faculties, reminiscences,
 preferences, emotions, instincts in his constitution. This
 characteristic of the activities of the artist is a direct consequence
@@ -386,13 +386,13 @@ do profess qualities of pleasantness, and upon which the ornaments
 intended to make them pleasurable are bestowed by machinery; and in
 speaking of these we are accustomed to the phrases art-industry,
 industrial art, art manufactures and the like. In these cases the
-industry or ingenuity which directs the machine is not fine art at all,
+industry or ingenuity which directs the [[Machine|machine]] is not fine art at all,
 since the object of the machine is simply to multiply as easily and as
 perfectly as possible a definite and prescribed impress or pattern. This
 is equally true whether the machine is a simple one, like the engraver's
 press, for producing and multiplying impressions from an engraved plate,
-or a highly complex one, like the loom, in which elaborate patterns of
-carpet or curtain are set for weaving. In both cases there exists behind
+or a highly complex one, like the [[Loom|loom]], in which elaborate patterns of
+carpet or [[Curtain|curtain]] are set for weaving. In both cases there exists behind
 the mechanical industry an industry which is one of fine art in its
 degree. In the case of the engraver's press, there exists behind the
 industry of the printer the art of the engraver, which, if the engraver
@@ -428,7 +428,7 @@ his construction according to his ideal, and is not the construction
 when it is done--so finished, so responsive in all its parts, so almost
 human--is not that worthy to be called a work of fine art? The answer is
 that the inventor has a definite and practical end before him; his ideal
-is not _free_; he deserves all credit as the perfector of a particular
+is not _free_; he deserves all [[Credit|credit]] as the perfector of a particular
 instrument for a prescribed function, but an artist, a free follower of
 the fine arts, he is not; although we may perhaps have to concede him a
 narrow sphere for the play of something like an artistic sense when he
@@ -508,7 +508,7 @@ sovereignty over that kingdom as the noblest prerogative of man.
 Schiller wrote his famous _Letters on the Aesthetic Education of Man_ in
 order to throw into popular currency, and at the same time to modify and
 follow up in a particular direction, certain metaphysical doctrines
-which had lately been launched upon the schools by Kant. The spirit of
+which had lately been launched upon the schools by [[Kant]]. The spirit of
 man, said Schiller after Kant, is placed between two worlds, the
 physical world or world of sense, and the moral world or world of will.
 Both of these are worlds of constraint or necessity. In the sensible
@@ -618,9 +618,9 @@ that man ought only to play with the beautiful, and that he is his best
 or ideal self only when he does so, yet it does not sufficiently
 indicate what kinds of play are beautiful nor why we are moved to adopt
 them. It does not show how the delights of the eye and spirit in
-contemplating forms, colours and movements, of the ear and spirit in
+contemplating forms, colours and movements, of the [[Ear|ear]] and spirit in
 apprehending musical and verbal sounds, or of the whole mind at once in
-following the comprehensive current of images called up by poetry--it
+following the comprehensive current of [[Image|images]] called up by poetry--it
 does not clearly show how delights like these differ from those yielded
 by other kinds of play or pastime, which are by common consent excluded
 from the sphere of fine art.
@@ -632,10 +632,10 @@ The chase, for instance, is a play or pastime which gives scope for any
 amount of premeditated skill; it has pleasures, for those who take part
 in it, which are in some degree analogous to the pleasures of the
 artist; we all know the claims made on behalf of the noble art of
-venerie (following true medieval precedent) by the knights and woodmen
+venerie (following true medieval precedent) by the [[Knight|knights]] and woodmen
 of Sir Walter Scott's romances. It is an obvious reply to say that
 though the chase is play to us, who in civilized communities follow it
-on no plea of necessity, yet to a not remote ancestry it was earnest; in
+on no plea of necessity, yet to a not remote ancestry it was [[Earnest|earnest]]; in
 primitive societies hunting does not belong to the class of optional
 activities at all, but is among the most pressing of utilitarian needs.
 But this reply loses much of its force since we have learnt how many of
@@ -645,13 +645,13 @@ It would be more to the point to remark that the pleasures of the
 sportsman are the only pleasures arising from the chase; his exertions
 afford pain to the victim, and no satisfaction to any class of
 recipients but himself; or at least the sympathetic pleasures of the
-lookers-on at a hunt or at a battle are hardly to be counted as
+lookers-on at a [[Hunt|hunt]] or at a battle are hardly to be counted as
 pleasures of artistic contemplation. The issue which they witness is a
 real issue; the skilled endeavours with which they sympathize are put
 forth for a definite practical result, and a result disastrous to one of
 the parties concerned.
 
-What then, it may be asked, about athletic games and sports, which hurt
+What then, it may be asked, about athletic [[Games|games]] and sports, which hurt
 nobody, have no connexion with the chase, and give pleasure to thousands
 of spectators? Here the difference is, that the event which excites the
 spectator's interest and pleasure at a race or match or athletic contest
@@ -665,7 +665,7 @@ different in kind from the feelings with which we contemplate a
 fictitious representation. For example, let the reader recall the
 feelings with which he may have watched a real fencing bout, and compare
 them with those with which he watches the simulated fencing bout in
-Shakespeare's _Hamlet_. The instance is a crucial one, because in the
+Shakespeare's _[[Hamlet]]_. The instance is a [[Crucial|crucial]] one, because in the
 fictitious case the excitement is heightened by the introduction of the
 poisoned foil, and by the tremendous consequences which we are aware
 will turn, in the representation, on the issue. Yet because the fencing
@@ -736,7 +736,7 @@ sources from which whole groups of the fine arts have sprung, and that
 all three in their origin served ends primarily or in great part
 utilitarian. Examining any of the rudimentary artistic activities of
 primitive man already mentioned: the decoration of the person with
-tattooings or strings of shells or teeth or feathers had primarily the
+tattooings or strings of shells or teeth or [[Feather|feathers]] had primarily the
 object of attracting or impressing the opposite sex, or terrifying an
 enemy, or indicating the tribal relations of the person so adorned; some
 of the same purposes were served by the scratches and tufts and markings
@@ -764,7 +764,7 @@ recurrence, flow, order and proportion. Leaping, shouting, and clapping
 hands is the human animal's most primitive way of seeking relief under
 the pressure of emotion; so soon as one such animal found out that he
 both expressed and relieved his emotions best, and communicated them
-best to his fellows, when he moved in regular rhythm and shouted in
+best to his [[Fellows|fellows]], when he moved in regular rhythm and shouted in
 regular time and with regular changes of pitch, he ceased to be a mere
 excited savage and became a primitive dancer, singer, musician--in a
 word, artist. So soon as another found himself taking pleasure in
@@ -837,7 +837,7 @@ or material element, in each art. Leaving aside that part of his
 doctrine which concerns, not the phenomena of the arts themselves, but
 their place in the dialectical world-plan or scheme of the universe,
 Hegel said in effect something like this. In certain ages and among
-certain races, as in Egypt and Assyria, and again in the Gothic age of
+certain races, as in Egypt and Assyria, and again in the [[Gothic]] age of
 Europe, mankind has only dim ideas for art to express, ideas
 insufficiently disengaged and realized, of which the expression cannot
 be complete or lucid, but only adumbrated and imperfect; the
@@ -879,11 +879,11 @@ The thinker on these subjects has, moreover, to consider the enumeration
 and classification of the lesser or subordinate fine arts. Whole
 clusters or families of these occur to the mind at once; such as
 _dancing_, an art subordinate to music, but quite different in kind;
-_acting_, an art auxiliary to _poetry_, from which in kind it differs no
+_acting_, an art [[Auxiliary|auxiliary]] to _poetry_, from which in kind it differs no
 less; _eloquence_ in all kinds, so far as it is studied and not merely
 spontaneous; and among the arts which fashion or dispose material
 objects, _embroidery_ and the weaving of patterns, _pottery_,
-_glassmaking_, _goldsmith's work_ and _jewelry_, _joiner's work_,
+_glassmaking_, _goldsmith's work_ and _[[Jewelry|jewelry]]_, _joiner's work_,
 _gardening_ (according to the claim of some), and a score of other
 dexterities and industries which are more than mere dexterities and
 industries because they add elements of beauty and pleasure to elements
@@ -946,7 +946,7 @@ differs from the rest.
   case of reading, of images raised by words in the mind. We have to
   wait, in music, while one note follows another in a theme, and one
   theme another in a movement; and in poetry, while one line with its
-  images follows another in a stanza, and one stanza another in a canto,
+  images follows another in a stanza, and one stanza another in a [[Canto|canto]],
   and so on. It is a convenient form of expressing both aspects of this
   difference between the two groups of arts, to say that architecture,
   sculpture and painting are arts which give shape to things in space,
@@ -955,7 +955,7 @@ differs from the rest.
   simple terms of the _shaping_ and the _speaking_ arts (the equivalent
   of the Ger. _bildende und redende Künste_) are not usual in English;
   but they seem appropriate and clear; the simplest alternatives for
-  their use is to speak of the _manual_ and the _vocal_ arts, or the
+  their use is to speak of the _[[Manual|manual]]_ and the _vocal_ arts, or the
   arts of _space_ and the arts of _time_. This is practically, if not
   logically, the most substantial and vital distinction upon which a
   classification of the fine arts can be based. The arts which surround
@@ -1036,7 +1036,7 @@ differs from the rest.
   different meanings which the idea of imitation bore to his mind and
   bears to ours. For Aristotle the idea of imitation or representation
   (_mimesis_) was extended so as to denote the expressing, evoking or
-  making manifest of anything whatever, whether material objects or
+  making [[Manifest|manifest]] of anything whatever, whether material objects or
   ideas or feelings. Music and dancing, by which utterance or expression
   is given to emotions that may be quite detached from all definite
   ideas or images, are thus for him varieties of imitation. He says,
@@ -1114,7 +1114,7 @@ differs from the rest.
   the successful effects of the great composers in evoking ideas of
   particular natural phenomena generally in the nature of real
   imitations or representations; although passages such as the notes of
-  the dove and nightingale in Haydn's _Creation_, and of the cuckoo in
+  the [[Dove|dove]] and nightingale in Haydn's _Creation_, and of the cuckoo in
   Beethoven's _Pastoral Symphony_, the bleating of the sheep in the _Don
   Quixote_ symphony of Richard Strauss, must be acknowledged to be
   exceptions. Again, it is a recognized fact concerning the effect of
@@ -1124,14 +1124,14 @@ differs from the rest.
   attempt to describe it in terms of vague emotion, and to say such and
   such a passage expresses, as the case may be, dejection or triumph,
   effort or the relaxation of effort, eagerness or languor, suspense or
-  fruition, anguish or glee. But their agreement comes to an end the
+  fruition, anguish or [[Glee|glee]]. But their agreement comes to an end the
   moment they begin to associate, in their interpretation, definite
   ideas with these vague emotions; then we find that what suggests in
   idea to one hearer the vicissitudes of war will suggest to another, or
   to the same at another time, the vicissitudes of love, to another
   those of spiritual yearning and aspiration, to another, it may be,
   those of changeful travel by forest, field and ocean, to another those
-  of life's practical struggle and ambition. The infinite variety of
+  of life's practical struggle and ambition. The [[Infinite|infinite]] variety of
   ideas which may thus be called up in different minds by the same
   strain of music is proof enough that the music is not _like_ any
   particular thing. The torrent of varied and entrancing emotion which
@@ -1183,7 +1183,7 @@ differs from the rest.
   interval, alternation of plain and decorated parts, regularity and
   variety in regularity, apparent stability, vastness, appropriateness
   and the rest. Only the materials of architecture are not volatile and
-  intangible like sound, but solid timber, brick, stone, metal and
+  intangible like sound, but solid timber, [[Brick|brick]], stone, metal and
   mortar, and the laws of weight and force according to which these
   materials have to be combined are much more severe and cramping than
   the laws of melody and harmony which regulate the combinations of
@@ -1255,7 +1255,7 @@ differs from the rest.
   stems, with lotus flowers for the capital. When we come to the
   fashion, not rare in Greek architecture, of carving this same
   sustaining member, the column, in complete human likeness, and
-  employing caryatids, canephori, atlases or the like, to support the
+  employing caryatids, canephori, [[Atlas|atlases]] or the like, to support the
   entablature of a building, it then becomes difficult to say whether we
   have to do with a work of architecture or of sculpture. The case, at
   any rate, is different from that in which the sculptor is called in to
@@ -1425,7 +1425,7 @@ differs from the rest.
   ratio which he may fix himself, so he can introduce into the third or
   depth dimension, thus arbitrarily reduced, a multitude of objects for
   which the sculptor in the round, having to observe the real ratio of
-  the three dimensions, has no room. He cam place one figure in slightly
+  the three dimensions, has no room. He [[Cam|cam]] place one figure in slightly
   raised outline emerging from behind the more fully raised outline of
   another, and by the same system can add to his representation rocks,
   trees, nay mountains and cities and birds on the wing. But the more he
@@ -1438,7 +1438,7 @@ differs from the rest.
   when we consider works executed wholly or in part in very low relief,
   whether Assyrian battle-pieces and hunting-pieces in alabaster or
   bronze, or the backgrounds carved in bronze, marble or wood by the
-  Italian sculptors who followed the example set by Ghiberti at the
+  Italian sculptors who followed the example set by [[Ghiberti]] at the
   Renaissance, we shall see that the principle of such work is not the
   principle of sculpture at all. Its effect depends little on qualities
   of surface-light and shadow, and mainly on qualities of contour, as
@@ -1568,7 +1568,7 @@ differs from the rest.
   Renaissance, Titian is above all things a painter in colour,
   Michelangelo in line, Leonardo in light-and-shade. Many academic
   painters in their day tried to combine the three methods in equal
-  balance; to the impetuous spirit of the great Venetian, Tintoretto, it
+  [[Balance|balance]]; to the impetuous spirit of the great Venetian, Tintoretto, it
   was alone given to make the attempt with a great measure of success. A
   great part of the effort of modern painting has been to get rid of the
   linear convention altogether, to banish line and develop the resources
@@ -1591,7 +1591,7 @@ differs from the rest.
   transparent substance, in glass painting; the craft of fitting
   together a multitude of solid cubes or cylinders so that their united
   surface forms a picture to the eye, as in mosaic; the craft of
-  spreading vitreous colours in a state of fusion so that they form a
+  spreading vitreous colours in a state of [[Fusion|fusion]] so that they form a
   picture when hardened, as in enamel; and even, it would seem, the
   crafts of weaving, tapestry, and embroidery, since these also yield to
   the eye a plane surface figured in imitation of nature. As drawing we
@@ -1673,7 +1673,7 @@ differs from the rest.
   so much of a poem as of a useful treatise. But from the _Works and
   Days_ down to the _Loves of the Plants_ there has been too much
   literature produced in this form for us to follow Aristotle here. We
-  shall do better to regard didactic poetry as a variety corresponding,
+  shall do better to regard [[Didactic Poetry|didactic poetry]] as a variety corresponding,
   among the speaking arts, to architecture and the other manual arts of
   which the first purpose is use, but which are capable of accompanying
   and adorning use by a pleasurable appeal to the emotions.
@@ -1843,7 +1843,7 @@ differs from the rest.
   expression and complexity of design, not only in relief-sculptures,
   like the great altar-friezes now at Berlin, but in detached groups,
   such as (_pace_ Lessing) the Laocoön itself. Many modern _virtuosi_ of
-  sculpture since Bernini have misspent their skill in trying to fix in
+  sculpture since [[Bernini]] have misspent their skill in trying to fix in
   marble both the restlessness of momentary actions and the flimsiness
   of fluttering tissues. In latter days Auguste Rodin, an innovating
   master with a real genius for his art, has attacked many problems of
@@ -1878,7 +1878,7 @@ differs from the rest.
   shadows and atmospheric effects are naturally associated with ideas of
   transition, mystery and evanescence. Hence painting is able to extend
   its range to another kind of facts over which sculpture has no power.
-  It can suggest and perpetuate in its imitation, without breach of its
+  It can suggest and perpetuate in its imitation, without [[Breach|breach]] of its
   true laws, many classes of facts which are themselves fugitive and
   transitory, as a smile, the glance of an eye, a gesture of horror or
   of passion, the waving of hair in the wind, the rush of horses, the
@@ -2138,7 +2138,7 @@ differs from the rest.
   Florentine painters, Sandro Botticelli is usually thought of as one
   who could never escape from the dictation of his own personal ideals,
   in obedience to which he is supposed to have invested all the
-  creations of his art with nearly the same conformation of brows, lips,
+  creations of his art with nearly the same conformation of brows, [[Lip|lips]],
   cheeks and chin, nearly the same looks of wistful yearning and
   dejection. There is some truth in this impression, though it is
   largely based on the works not of the master himself, but of pupils
@@ -2148,10 +2148,10 @@ differs from the rest.
   number of exercises which show him as an indefatigable student of
   objective characteristics and psychological expressions of an order
   the most opposed to this. And in this case again followers have
-  over-emphasized the master's predilections, Luini, Sodoma and the rest
+  over-emphasized the master's predilections, [[Luini]], Sodoma and the rest
   borrowing and repeating the mysterious smile of Leonardo till it
   becomes in their work an affectation cloying however lovely. Among
-  latter-day painters, Burne-Jones will occur to every reader as the
+  latter-day painters, [[Burne-Jones]] will occur to every reader as the
   type of an artist always haunted and dominated by ideals of an
   intensely personal cast partly engendered in his imagination by
   sympathy with the early Florentines. If we seek for examples of the
@@ -2187,7 +2187,7 @@ differs from the rest.
   emphasis, the snarling or jovial grossness of the peasants of Adrian
   Brauwer and the best of his Dutch compeers. Hence Shakespeare's
   Caliban and figures like those of Quilp and Quasimodo in the romances
-  of Dickens and Hugo; hence the cynic grimness of Goya's Caprices and
+  of [[Dickens]] and Hugo; hence the cynic grimness of Goya's Caprices and
   the profound and bitter impressiveness of Daumier's caricatures of
   Parisian bourgeois life; or again, in an angrier and more insulting
   and therefore less understanding temper, the brutal energy of the
@@ -2201,7 +2201,7 @@ differs from the rest.
   and known things, either for their own sakes literally, or for the
   sake of shadowing forth things not known but imagined. In either case
   they represent their originals, not indiscriminately as they are, but
-  sifted, simplified, enforced and enhanced to our apprehensions partly
+  sifted, simplified, enforced and enhanced to our [[Apprehension|apprehensions]] partly
   by the artist's power of making things conform to his own instincts
   and preferences, partly by his other power of interpreting and
   emphasizing the significant characters of the facts before him. Any
@@ -2296,7 +2296,7 @@ differs from the rest.
     The imitative arts and their technique: painting and sculpture.
 
   In the imitative arts, on the other hand, the sculptor, unless he is a
-  fraud, must be wholly his own executant in the original task of
+  [[Fraud|fraud]], must be wholly his own executant in the original task of
   modelling his design in the soft material of clay or wax, though he
   must accept the aid of assistants whether in the casting of his work
   in bronze or in first roughing it out from the block in marble. Too
@@ -2363,7 +2363,7 @@ differs from the rest.
   measure, and lacks the inborn love of and gift for words and their
   magic, he will be but a dumb or stammering poet all his days. There is
   no better witness on this point than Wordsworth. His own prolonged
-  lapses from verbal felicity, and continual habit of solemn meditation
+  [[Lapse|lapses]] from verbal felicity, and continual habit of solemn meditation
   on themes not always inspiring, might make us hesitate to choose him
   as an example of that particular love and gift. But Wordsworth could
   never have risen to his best and greatest self had he not truly
@@ -2454,7 +2454,7 @@ differs from the rest.
   sharply and absolutely separated. Didactic poetry, we have already
   acknowledged, is a branch of the poetic art which aims at practice and
   utility. Again, the hortatory and patriotic kinds of lyric poetry,
-  from the strains of Tyrtaeus to those of Arndt or Rouget de Lisle or
+  from the strains of Tyrtaeus to those of [[Arndt]] or Rouget de Lisle or
   Wordsworth's sonnets written in war-time, may fairly be said to belong
   to a phase of fine art which aims directly at one of the highest
   utilities, the stimulation of patriotic feeling and self-devotion. So
@@ -2466,7 +2466,7 @@ differs from the rest.
   melody was supposed to have a known effect upon the courage and moral
   temper of the hearer. Compare Milton, when he tells of the Dorian mood
   of flutes and soft recorders which assuaged the sufferings and renewed
-  the courage of Satan and his legions as they marched through hell. In
+  the courage of Satan and his legions as they marched through [[Hell|hell]]. In
   modern music, of which the elements, much more complex in themselves
   than those of ancient music, have the effect of stirring our fibres to
   moods of rapturous contemplation rather than of action, military
@@ -2621,7 +2621,7 @@ great birth of art, in that age, is the Gothic church. In this we find
 the art of applied sculpture exercised in fashions infinitely rich and
 various, but entirely in the service and for the adornment of the
 architecture; we find painting exercised in fashions more rudimentary
-still, principally in the forms of translucent imagery in the chancel
+still, principally in the forms of translucent imagery in the [[Chancel|chancel]]
 windows and tinted decorations on the walls and vaultings. From this
 stage again the process of the differentiation of the arts is repeated.
 It is by a new evolution or unfolding, and by one carried to much
@@ -2763,7 +2763,7 @@ devoted all the energies of his being.
 
 It is thus evident that the evolution theory, though it furnishes us
 with some instructive points of view for the history of the fine arts as
-for other things, is far from being the whole key to that history.
+for other things, is far from being the whole [[Key|key]] to that history.
 Another key, employed with results perhaps less really luminous than
 they are certainly showy and attractive, is that supplied by Taine.
 Taine's philosophy, which might perhaps be better called a natural
@@ -2789,7 +2789,7 @@ civilization when you know a few of the facts of both, and to say, the
 cloudy skies and mongrel industrial population of Protestant Amsterdam
 at such and such a date had their inevitable reflection in the art of
 Rembrandt; the wealth and pomp of the full-fleshed burghers and
-burgesses of Catholic Antwerp had theirs in the art of Rubens. But to do
+burgesses of Catholic [[Antwerp]] had theirs in the art of Rubens. But to do
 this in the precise and conclusive manner of Taine's treatises on the
 philosophy of art always means to ignore a large range of conditions or
 causes for which no corresponding effect is on the surface apparent, and
@@ -2862,7 +2862,7 @@ beyond the stage of its early severity. The European poetry of the
 middle ages, abundant and rich as it was alike in France and Provence,
 in Germany and Scandinavia, can yet not take rank, among the creations
 of human genius, beside the great masterpieces of Romanesque and Gothic
-architecture; it was in Italy only that Dante, before the end of that
+architecture; it was in Italy only that [[Dante]], before the end of that
 age, carried poetry to a place of equality if not of primacy among the
 arts. Taking the England of the Elizabethan age, we find the great
 outburst of our national genius in poetry contemporary with nothing more
@@ -2891,7 +2891,7 @@ Moments in history there have no doubt been when literature and the
 manual arts, and even music, have been swept simultaneously along a
 single stream of ideas and feelings. Such a moment was experienced in
 France in 1830 and the following years, when (to choose only a few of
-the greatest names) Hugo in poetry, Delacroix in painting, and Berlioz
+the greatest names) Hugo in poetry, [[Delacroix]] in painting, and Berlioz
 in music were roused to a high pitch of consentaneous inspiration by the
 new ideas and feelings of romanticism. But such moments are rare and
 exceptional. On the other hand, it is very possible to take the whole of
@@ -2955,7 +2955,7 @@ entablature, and under that system had invented and perfected her three
 successive modes or orders of architecture--the Doric, Ionic and
 Corinthian. The genius of Rome invented the round arch, and by help of
 that system erected throughout her subject world a thousand vast
-constructions--temple, palace, bath, amphitheatre, forum, aqueduct,
+constructions--temple, palace, bath, amphitheatre, [[Forum|forum]], aqueduct,
 triumphal gate and the rest--on a scale of monumental grandeur such as
 Greece had never known.
 
@@ -2972,7 +2972,7 @@ form, as it is called, in the barbarian-conquered regions of the west
 and north. Sculpture existed for centuries only in rudimentary and
 subordinate forms as applied to architecture; painting only in forms of
 rigid though sometimes impressive hieratic imagery, whether as mosaic in
-the apses and vaults of churches, as rude illumination in MSS. and
+the [[Apse|apses]] and vaults of churches, as rude illumination in MSS. and
 service-books, or as still ruder altar-painting carried on according to
 a frozen mechanical tradition. As time went on and medieval institutions
 developed themselves, a gradual vitality dawned in all these arts. In
@@ -2983,7 +2983,7 @@ Romans. The same vital impulse that informed the new Gothic architecture
 breathed into the still quite subordinate arts of sculpture and painting
 (the latter now including the craft of glass-painting for church
 windows) a new spirit whether of devotional intensity or sweetness, or
-of human pathos or rugged humour, with a new technical skill for its
+of human pathos or rugged [[Humour|humour]], with a new technical skill for its
 embodiment. We have not set down, as is usually done, a specifically
 Gothic period in art, for this reason. The characteristic of the whole
 Christian period is that its dominant art is architecture, chiefly
@@ -3049,7 +3049,7 @@ the schools of Brussels, of Bruges or of Antwerp. By about 1520 the
 artists of those schools had begun, except in portraiture, to lose their
 native vigour and originality by contact with the alien south. Among the
 great artists of Germany in the first half of the 16th century the work
-of one or two, like Burgkmair and Holbein, shows Italian influence
+of one or two, like [[Burgkmair]] and Holbein, shows Italian influence
 reconciled not unsuccessfully with native instinct; but Dürer, the
 greatest of them, remained in all essentials Gothic and German to the
 end. During the last half of the century, the Netherlands and Germany
@@ -3067,7 +3067,7 @@ Renaissance. The principles of the classical revival had during a
 century or more of transition been gradually absorbed, first by France,
 then by Germany, the Low Countries, and Spain, and last by England, each
 country modifying the style according to its degree of knowledge or
-ignorance, its needs, instincts and traditions. Sculpture, which in the
+[[Ignorance|ignorance]], its needs, instincts and traditions. Sculpture, which in the
 hands of the great masters of the earlier and later Renaissance in
 Italy had almost equalled its ancient glories, nay, in those of
 Michelangelo had actually surpassed them in the qualities at least of
@@ -3139,7 +3139,7 @@ of Watteau to those of Fragonard and Clodion. At the same time England
 produced one of the finest and at the same time most national and
 downright masters of the brush in Hogarth; two of the greatest
 aristocratic portrait-painters of the world in Reynolds and
-Gainsborough, each of whom modified according to his own instincts the
+[[Gainsborough]], each of whom modified according to his own instincts the
 tradition imported in the previous century by Van Dyck, the greatest
 pupil of Rubens (Reynolds fusing with this influence those of Rembrandt
 and the Venetians in almost equal shares). Pastoral landscape in the
@@ -3149,12 +3149,12 @@ topographical illustration led on to the ambitious, wide-ranging and
 often inspired experiments of Turner, and to the narrower but more
 secure achievements of Constable in the same field, and made this
 country the acknowledged pioneer of modern landscape art. In the
-meantime the wave of classical enthusiasm which passed over Europe in
+meantime the wave of classical [[Enthusiasm|enthusiasm]] which passed over Europe in
 the later years of the 18th century had produced in architecture
 generally a return to severer principles and purer lines, in reaction
 from the baroque and the rococo Renaissance styles of the preceding
 century and a half. In Italian sculpture, the same movement inspired
-during the Napoleonic period the over-honeyed accomplishment of Canova
+during the Napoleonic period the over-honeyed accomplishment of [[Canova]]
 and his school; in northern sculpture, the more truly antique but almost
 wholly imitative work of Thorwaldsen, and the pure and rhythmic grace of
 the English Flaxman, a true master of design though scarcely of
@@ -3206,7 +3206,7 @@ impulse of 1830 expressed itself best and most lastingly in the
 monumental work of Daumier both in caricature and romance, the
 impressive and significant treatment of peasant life and labour by J.F.
 Millet, the vitally truthful pastoral and landscape work of Troyon,
-Corot, Daubigny and the rest.
+[[Corot]], Daubigny and the rest.
 
 
   Contemporary tendencies.
@@ -3250,7 +3250,7 @@ stagnation.
   _Philosophie de l'art en Grèce_ (1869), _Philosophie de l'art en
   Italie_, _Philosophic de l'art dans les Pays-Bas_ (translations in 5
   vols. by J. Durand, New York, 1889); Karl Groos, _Die Spiele der
-  Menschen_ (1899; trans, by E.L. Baldwin, 1901), and _Die Spiele der
+  Menschen_ (1899; trans, by E.L. [[Baldwin]], 1901), and _Die Spiele der
   Tiere_ (2nd ed., 1907; trans, by E.L. Baldwin, 1898); Ernst Grosse,
   _Die Anfänge der Kunst_ (1894; trans, in the Anthropological Series,
   1894); Yrjö Hirn, _The Origins of Art_ (1900); G. Baldwin Brown, _The

@@ -22,7 +22,7 @@ advantage. From 1882 to 1885 he was chancellor of the exchequer, and the
 beer and spirit duty in his budget of the latter year was the occasion
 of the government's fall. Defeated at the general election at
 Pontefract, he was returned as a Home Ruler (one of the few Liberals who
-adopted this policy before Mr Gladstone's conversion) in 1886 for South
+adopted this policy before Mr Gladstone's [[Conversion|conversion]]) in 1886 for South
 Edinburgh, and was home secretary in the ministry of 1886. When the
 first Home Rule bill was introduced he demurred privately to its
 financial clauses, and their withdrawal was largely due to his threat of

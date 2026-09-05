@@ -13,7 +13,7 @@ Persian Gulf and bounded on the west by Arabistan, on the north by
 Isfahan and on the east by Kerman. It lies between 49 deg. 30' and 56
 deg. 10' E. and 26 deg. 20' and 31 deg. 45' N. and has an area of nearly
 60,000 sq. m. Fars is the same word as the Greek _Persis_, and,
-originally the name of only a part of the Persian empire (Iran), has
+originally the name of only a part of the Persian empire ([[Iran]]), has
 become the name which Europeans have applied to the whole (see PERSIS).
 The province is popularly, but not for administrative purposes, divided
 according to climate into _germsir_ and _sardsir_, or the warm and cold
@@ -29,7 +29,7 @@ the Persian Gulf is hot, sandy and barren and only the date palm thrives
 there. The other part comprehends inner Persis lying northwards; it
 enjoys a pleasant climate and has fertile and well-watered plains,
 gardens with trees of all kinds, rich pasturages and forests abounding
-with game; with the exception of the olive all fruits are produced in
+with [[Game|game]]; with the exception of the olive all fruits are produced in
 profusion, particularly the vine. Horses and other draught animals are
 reared in the province, and there are several lakes frequented by
 water-fowl, and streams of clear water flow through it, as for instance
@@ -78,7 +78,7 @@ the number of inhabited villages in each as they appear in lists dated
   |   |  (4) Rudbal           |               |         |           |
   | 8 | Ardakan               | Ardakan       |  5,000  |    10     |
   | 9 | Arsinjan              | Arsinjan      |  5,000  |    25     |
-  |10 | Asir                  | Asir          |    500  |    10     |
+  |10 | [[Asir]]                  | Asir          |    500  |    10     |
   |11 | Baiza                 | Baiza         |  2,000  |    55     |
   |12 | Bi-dshahr and Juvi-m  | Bidshahr      |  3,000  |    23     |
   |13 | Bovanat               | Surian        |    500  |    23     |
@@ -128,7 +128,7 @@ the number of inhabited villages in each as they appear in lists dated
   |39 | Kuh i Marreh Shikeft  | Shikeft       |         |    41     |
   |40 | Kunkuri               | Kazian        |         |    29     |
   |41 | Laristan              |               |         |           |
-  |   |  (1) Lar              | Lar           |  8,000  |    34     |
+  |   |  (1) [[Lar]]              | Lar           |  8,000  |    34     |
   |   |  (2) Bikhah Ihsham    | Bairam        |         |    11     |
   |   |  (3) Bikhah Fal       | Ishkenan      |         |    10     |
   |   |  (4) Jehangiriyeh     | Bastak        |  4,000  |    30     |
@@ -136,7 +136,7 @@ the number of inhabited villages in each as they appear in lists dated
   |   |  (6) Fumistan or      |               |         |           |
   |   |        Gavbandi       | Gavbandi      |         |    13     |
   |   |  (7) Kauristan        | Kauristan     |         |     4     |
-  |   |  (8) Lingah[1]        | Bander Lingah | 10,000  |    11     |
+  |   |  (8) Lingah[1]        | [[Bander Lingah]] | 10,000  |    11     |
   |   |  (9) Mazayijan        | Mazayijan     |         |     6     |
   |42 | Mahur Milati          | Jemalgird     |         |     5     |
   |43 | Maimand               | Maimand       |  5,000  |    14     |
@@ -149,7 +149,7 @@ the number of inhabited villages in each as they appear in lists dated
   |   |  (5) Fahlian        | |               |         |     7     |
   |   |  (6) Kakan          / |               |         |     5     |
   |46 | Mayin                 | Mayin         |         |     8     |
-  |47 | Mervast and Herat     | Mervast       |         |    14     |
+  |47 | Mervast and [[Herat]]     | Mervast       |         |    14     |
   |48 | Mervdasht             |               |         |           |
   |   |  (1) Upper Khafrek  \ |               |         |    14     |
   |   |  (2) Lower Khafrek   >| Fathabad      |  1,250  |    16     |

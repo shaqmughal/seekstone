@@ -7,7 +7,7 @@ type: note
 
 # Frigate
 
-FRIGATE (Fr. _fregate_, Span. and Port. _fragata_; the etymology of the
+FRIGATE (Fr. _fregate_, Span. and Port. _fragata_; the [[Etymology|etymology]] of the
 word is obscure; it has been derived from the Late Lat. _fabricata_,
 and the use of the Fr. _batiment_, for a vessel as well as a building is
 compared; another suggestion derives the word from the Gr. [Greek:

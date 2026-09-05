@@ -9,7 +9,7 @@ tags: [geography, mountains]
 # Caucasia
 
 CAUCASIA, or CAUCASUS, a governor-generalship of Russia, occupying the
-isthmus between the Black Sea and the Sea of Azov on the west and the
+isthmus between the [[Black Sea]] and the Sea of Azov on the west and the
 Caspian Sea on the east, as well as portions of the Armenian highlands.
 Its northern boundary is the Kuma-Manych depression, a succession of
 narrow, half-desiccated lakes and river-beds, only temporarily filled
@@ -30,9 +30,9 @@ territory, covering an area of 180,843 sq. m., and having in 1897
 9,248,695 inhabitants (51 per sq. m.), may be divided into four natural
 zones or sections:--(i.) the plains north of the Caucasus mountains,
 comprising the administrative division of Northern Caucasia; (ii.) the
-Caucasus range and the highlands of Daghestan; (iii.) the valleys of the
+Caucasus range and the highlands of [[Daghestan]]; (iii.) the valleys of the
 Rion and the Kura, between the Caucasus range and the highlands of
-Armenia; and (iv.) the highlands of Armenia.
+[[Armenia]]; and (iv.) the highlands of Armenia.
 
   (i.) The _plains of Northern Caucasia_, which include most of the
   provinces of Kuban and Terek and of the government of Stavropol, slope
@@ -50,7 +50,7 @@ Armenia; and (iv.) the highlands of Armenia.
   2,800,000 Russians, composed of Cossacks and peasant immigrants,
   settled chiefly along the rivers and grouped in large, wealthy
   villages. They carry on agriculture--wheat-growing on a large
-  scale--with the aid of modern agricultural machines, and breed cattle
+  scale--with the aid of modern agricultural [[Machine|machines]], and breed cattle
   and horses. Vines are extensively cultivated on the low levels, and a
   variety of domestic trades are prosecuted in the villages. The higher
   parts of the plains, which are deeply trenched by the upper
@@ -61,7 +61,7 @@ Armenia; and (iv.) the highlands of Armenia.
   Tatars and Turkomans occupy the steppes.
 
   (ii.) The _Caucasus range_ runs from north-west to south-east from the
-  Strait of Kerch to the Caspian Sea for a length of 900 m., with a
+  Strait of [[Kerch]] to the Caspian Sea for a length of 900 m., with a
   varying breadth of 30 to 140 m., and covers a surface of 12,000 sq. m.
   The orographical characteristics of the Caucasus are described in
   detail under that heading.
@@ -89,10 +89,10 @@ Armenia; and (iv.) the highlands of Armenia.
   the uniformity of the slope is interrupted by a plateau (2000-3000 ft.
   in altitude) along the southern foothills of the east central
   Caucasus, in the region known as Kakhetia, drained by the Alazan, a
-  left-hand tributary of the Kura. The deep, short gorges and glens
+  left-hand tributary of the Kura. The deep, short [[Gorges|gorges]] and glens
   which seam the southern slopes of the Caucasus are inhabited by
   Ossetes, Tushes, Pshavs and Khevsurs in the west, and by various
-  tribes of Lesghians in the east. In these high and stony valleys every
+  tribes of [[Lesghians]] in the east. In these high and stony valleys every
   available patch of ground is utilized for the cultivation of barley,
   even up to altitudes of 7000 and 8000 ft. above the level of the sea;
   but cattle-breeding is the principal resource of the mountaineers,
@@ -128,7 +128,7 @@ Armenia; and (iv.) the highlands of Armenia.
   and Arabs. This conjoint valley of the Rion-Kura was in remote
   antiquity the site of several Greek colonial settlements, later the
   seat of successive kingdoms of the Georgians, and for centuries it has
-  formed a bulwark against hostile invasions from the south and east. It
+  formed a [[Bulwark|bulwark]] against hostile invasions from the south and east. It
   is still inhabited chiefly by Georgian tribes--Gurians, Imeretians,
   Mingrelians, Svanetians--in the basin of the Rion, and by Georgians
   intermingled with Armenians in the valley of the Kura, while the
@@ -165,7 +165,7 @@ Armenia; and (iv.) the highlands of Armenia.
   with outer spurs. These double and triple ranges, which have a general
   elevation of 8500-10,000 ft., stretch from the south-east angle of the
   Black Sea, 400 m. south-eastwards to the Kara-dagh and Salavat
-  mountains in north Persia, and the latter link them on to the Elburz
+  mountains in north Persia, and the latter link them on to the [[Elburz]]
   mountains that skirt the southern end of the Caspian Sea. Various
   names are given to the different parts of the constituent ranges, or,
   perhaps more correctly, elongated groups of mountains. The Ajar,
@@ -238,7 +238,7 @@ Sukhum-kaleh, on the Black Sea, the corresponding range is only 27.3
 deg., between a January average of 48.8 deg. and an August average of
 76.1 deg. The highest mean temperatures for the whole year are those of
 Lenkoran (60.3 deg.) and of Sukhum-kaleh and Poti (about 58 deg.), and
-the lowest at Ardahan (5840 ft.), in the province of Kars, namely, 37.9
+the lowest at Ardahan (5840 ft.), in the province of [[Kars]], namely, 37.9
 deg., and at Gudaur (7245 ft.), a few miles south of Kasbek, namely,
 38.6 deg. The following table gives particulars of temperature averages
 at a few typical places:--
@@ -292,13 +292,13 @@ Amman_), another species of sheep in _O. gmelini_, and fallow deer
 the mouse (_Mus sylvaticus_) is very destructive, and beavers are met
 with in places. The birds of prey are the same as these of central
 Europe, and include the sea eagle, alpine vulture (_Gyps fulvus_),
-buzzard, kites (_Gypaetus barbatus_ and _Milvus ater_), hawks (e.g.
+buzzard, kites (_Gypaetus barbatus_ and _Milvus ater_), [[Hawk|hawks]] (e.g.
 _Astur nisus_), goshawk (_A. palumbarius_), fish-hawk (_Pandion
-haliaetus_) and owls. Among the smaller birds may be enumerated finches,
-the siskin, bullfinch, pipit, titmouse, wagtail, lark, fine-crested
+haliaetus_) and owls. Among the smaller birds may be enumerated [[Finch|finches]],
+the siskin, bullfinch, pipit, titmouse, wagtail, [[Lark|lark]], fine-crested
 wren, hedge-sparrow, corn-wren, nut-hatch, starling, swallow, martin,
 swift, thrush, butcher bird, shrike, dipper, yellow-hammer, ortolan and
-a warbler (_Accentor alpinus_). The game birds consist of grouse,
+a warbler (_Accentor alpinus_). The [[Game|game]] birds consist of grouse,
 blackcock, moorhen, quail and partridge. The pheasant derives its name
 from the ancient name (_Phasis_) of the Rion.
 
@@ -306,8 +306,8 @@ In the seas and rivers about 190 species of fishes have been enumerated.
 Of these, 115 species are Mediterranean, 30 are common to the Caspian
 Sea, and the remaining species are peculiar to the Black Sea. The most
 useful economically are several species of sturgeon and of herring,
-trout, barbel, chubb, bream, ray, sea-dace, carp, anchovy. Insects
-abound, especially Coleoptera. Flies, lice, gadflies and mosquitoes are
+trout, barbel, chubb, bream, ray, sea-dace, carp, anchovy. [[Insect|Insects]]
+abound, especially [[Coleoptera]]. Flies, lice, gadflies and mosquitoes are
 the worst of the insect plagues. There are several snakes, including the
 viper (_Pelias berus_).
 
@@ -331,7 +331,7 @@ According to the languages spoken the populations of Caucasia admit of
 being classified as follows,[1] according to Senator N. Trointsky,
 president of the Russian Census Committee for 1897.
 
-  ARYANS                4,901,412
+  [[Aryan|ARYANS]]                4,901,412
     _Slavs_                        3,183,870
       Great Russians                          1,829,793
       Little Russians                         1,305,463
@@ -372,7 +372,7 @@ president of the Russian Census Committee for 1897.
       Karachais                                  27,222
       Kumyks                                     83,408
       Kara-papaks                                29,902
-      Kalmucks                                   14,409
+      [[Kalmuck|Kalmucks]]                                   14,409
 
   CAUCASIANS            2,439,071
     _Georgians_ (including Imeretians,
@@ -395,7 +395,7 @@ president of the Russian Census Committee for 1897.
 _Religion_.--Most of the Russians and the Georgians belong to the
 Orthodox Greek Church (over 4,000,000 in all); but considerable numbers
 (estimated at nearly 122,000, though in reality probably a good many
-more) are Nonconformists of different denominations. The Georgian Lazes
+more) are Nonconformists of different [[Denomination|denominations]]. The Georgian Lazes
 are, however, Mussulmans. The Armenians are Christians, mostly of the
 national Gregorian Church (979,566), though 34,000 are Roman Catholics.
 The Caucasian races (except the Gregorians), together with the Turks and
@@ -408,7 +408,7 @@ _Industries_.--The principal occupation of the settled inhabitants is
 agriculture and of the nomadic the breeding of live stock, including
 camels. The cultivation of the soil is, however, attended in many parts
 with great difficulties owing to the scanty rainfall and the very
-primitive implements still in use, and in the valley of the Kura heavy
+primitive [[Implement|implements]] still in use, and in the valley of the Kura heavy
 losses are frequently incurred from depredations by locusts. But where
 irrigation is employed the yield of crops is excellent. Rye and wheat
 are the most important crops harvested in northern Caucasia, but oats,
@@ -417,7 +417,7 @@ principal crops are maize, rice, tobacco and cotton. The rice is grown
 chiefly in the valley of the Kura and in Lenkoran; the tobacco in the
 Rion valley and on the Black Sea coastlands, also to some extent in
 Kuban; and the cotton in the eastern provinces. Various kinds of fodder
-crops are grown in Transcaucasia, such as hay, rye-grass and lucerne. It
+crops are grown in Transcaucasia, such as [[Hay|hay]], rye-grass and lucerne. It
 is estimated that nearly 54,000 acres are under vineyards in northern
 Caucasia and some 278,000 acres in Transcaucasia, the aggregate yield of
 wine being 30 million gallons annually. The best wine grows in Kakhetia,
@@ -458,7 +458,7 @@ heavier refuse (_mazut_) is used as fuel. Naphtha is also obtained,
 though in much smaller quantities, in Terek and Kuban, in Tiflis and
 Daghestan. Numerous mineral springs (chalybeate and sulphurous) exist
 both north and south of the Caucasus ranges, e.g. at Pyatigorsk,
-Zhelesnovodsk, Essentuki, and Kislovodsk in Terek, and at Tiflis,
+Zhelesnovodsk, [[Essentuki]], and Kislovodsk in Terek, and at Tiflis,
 Abbas-tuman and Borzhom in the government of Tiflis.
 
 _Manufacturing_ industry is confined to a few articles and commodities,
@@ -467,7 +467,7 @@ tobacco factories, flour-mills, silk-winding mills (especially at Shusha
 and Jebrail in the south of Elisavetpol), distilleries and breweries. On
 the other hand, the domestic industries are extensively carried on and
 exhibit a high degree of technical skill and artistic taste. Carpets
-(especially at Shusha), silk, cotton and woollen goods, felts and fur
+(especially at Shusha), silk, cotton and woollen goods, felts and [[Fur|fur]]
 cloaks are made, and small arms in Daghestan and at Tiflis, Nukha and
 Sukhum-kaleh; silversmiths' work at Tiflis, Akhaltsikh and Kutais;
 pottery at Elisavetpol and Shusha; leather shoe-making at Alexandropol,
@@ -491,7 +491,7 @@ maize, wool, oilcake, carpets, rye, oats, liquorice and timber. The
 import trade reaches nothing like the same value, and what there is is
 confined almost entirely to Batum. The annual average vahie may be put
 at not quite L2,000,000, machinery and tin-plate being a long way the
-most important items. There is further a small transit trade through
+most important [[Item|items]]. There is further a small transit trade through
 Transcaucasia from Persia to the value of less than half a million
 sterling annually, and chiefly in carpets, cocoons and silk, wool, rice
 and boxwood; and further a sea-borne trade between Persia and Caucasian
@@ -506,7 +506,7 @@ central Caucasus range. Thence, or rather from the junction of Beslan,
 the Caspian, and from Petrovsk skirts the shore southwards as far as
 Baku, the distance from Vladikavkaz to Baku being 414 m. This railway,
 together with the driving roads over the Caucasus mountains via the
-Mamison pass (the Ossetic military road) and the Darial pass (the
+Mamison pass (the Ossetic military road) and the [[Darial]] pass (the
 Georgian military road), and the route across the Black Sea to Poti or
 Batum are the chief means of communication between southern Russia and
 Transcaucasia. Baku and Batum (also Poti) are connected by another main
@@ -531,7 +531,7 @@ submission to Alexander the Great in 323 B.C. The southern portion of
 Transcaucasia fell during the 1st century B.C. under the sway of
 Armenia, and with that country passed under the dominion of Rome, and so
 eventually of the Eastern empire. During the 3rd century A.D. Georgia
-and Armenia were invaded and in great part occupied by the Khazars, and
+and Armenia were invaded and in great part occupied by the [[Khazars]], and
 then for more than a thousand years the mountain fastnesses of this
 borderland between Europe and Asia were the refuge, or the
 resting-place, of successive waves of migration, as people after people
@@ -563,7 +563,7 @@ of Kuchuk-kainarji the Georgian principalities looked to their powerful
 northern neighbour as their protector against the southern aggressors
 the Turks. In 1783 George XIII., prince of Georgia and Mingrelia,
 formally put himself under the suzerainty of Russia, and after his death
-Georgia was converted (1801) into a Russian province. The same fate
+Georgia was converted (1801) into a Russian province. The same [[Fate|fate]]
 overtook Imeretia, nine years later. Meanwhile the Russians had also
 subdued the Ossetes (1802) and the Lesghian tribes (1803) of the middle
 Caucasus. By the peace of Gulistan in 1813 Persia ceded to Russia
@@ -577,7 +577,7 @@ which the mountaineers displayed in a harassing guerilla warfare. The
 animating spirit of their resistance was Shamyl (Samuel), a chief and
 priest of the Lesghians, who, a Mahommedan, proclaimed a "holy war"
 against the "infidel" aggressors. At first the Russians were able to
-continue their policy of conquest and annexation without serious check.
+continue their policy of conquest and [[Annexation|annexation]] without serious check.
 After acquiring the northern edge of the Armenian plateau, partly from
 Persia in 1828 and partly from Turkey in 1829, Russia crushed a rising
 which had broken out in the Caspian coast districts of Daghestan on the
@@ -595,14 +595,14 @@ the long opposition of the prophet-chief of the Lesghians was Prince
 Baryatinsky, who after three years of strenuous warfare succeeded in
 capturing Shamyl's stronghold of Weden, and then in surrounding that
 chieftain himself on the inaccessible rocky platform of Gunib in the
-heart of Daghestan. There the hitherto indomitable champion of Caucasian
+heart of Daghestan. There the hitherto indomitable [[Champion|champion]] of Caucasian
 independence was forced to surrender to the Russians on the 6th of
 September 1859. Nevertheless the spirit of resistance in these stubborn
 mountaineers was not finally broken until 1864, when the Russians
 eventually stifled all opposition in the difficult valleys and glens of
 the western Caucasus. But this was followed, during the next fourteen
 years, by the wholesale emigration of thousands upon thousands of
-Circassians, who sought an asylum in Turkish territory, leaving their
+Circassians, who sought an [[Asylum|asylum]] in Turkish territory, leaving their
 native region almost uninhabited and desolate, a condition from which it
 has not recovered even at the present day. During the Russo-Turkish War
 of 1877-78 the self-exiled Circassians and other Caucasian mountaineers,
@@ -631,7 +631,7 @@ combatants being in both cases inflamed by religious fanaticism.
 Complete anarchy prevailed at the worst centres of disorder, as Baku and
 Batum, the imperial authorities being more powerless to preserve even
 the semblance of order than they were in the interior of Russia. Many of
-the oil wells at Baku were burned, and massacres took place at that
+the oil wells at Baku were burned, and [[Massacre|massacres]] took place at that
 town, at Shusha, at Erivan, at Tiflis, at Batum, at Jebrail and at other
 places. An end was put to these disorders only by the mutual agreement
 of the two contestants, alike horrified and exhausted by the fierce

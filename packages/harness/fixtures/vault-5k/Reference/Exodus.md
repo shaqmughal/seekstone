@@ -30,7 +30,7 @@ the crossing of the Red Sea and the discomfiture of the Egyptians, the
 Song of Triumph, the sending of the manna and other incidents of the
 journeying through the wilderness (xiii. 17-xviii. 27), (h) the giving
 of the Law, including the Decalogue and the so-called Book of the
-Covenant, on Sinai-Horeb (xix.-xxiv.), (i) directions for the building
+[[Covenant]], on Sinai-Horeb (xix.-xxiv.), (i) directions for the building
 of the Tabernacle and for the consecration of the priests (xxv.-xxxi.),
 (j) the sin of the Golden Calf, and another earlier version of the first
 legislation (xxxii.-xxxiv.), (k) the construction of the Tabernacle and
@@ -52,7 +52,7 @@ preceded by an inquiry into the source of the various contents of the
 book.
 
 The sources from which the book of Exodus has been compiled are the same
-as those which form the basis of the book of Genesis, while the method
+as those which form the basis of the book of [[Genesis]], while the method
 of composition is very similar. Here, too, the strongly marked
 characteristics of P, or the Priestly Document, as opposed to JE, enable
 us to determine the extent of that document with comparative ease; but
@@ -92,7 +92,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   source that we owe the account of the birth of Moses and of his
   education at the court of Pharaoh (ii. 1-10). On reaching manhood
   Moses openly displays his sympathy with his brethren by slaying an
-  Egyptian, and has, in consequence, to flee to Midian, where he marries
+  Egyptian, and has, in consequence, to flee to Midian, where he [[Marri|marries]]
   Zipporah, the daughter of the priest of Midian (ii. 11-22). In this
   section the editor has undoubtedly made use of the parallel narrative
   of J, though it is impossible to determine the exact point at which
@@ -124,7 +124,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   taking an active part is iv. 29-31, where the mention of his name
   causes no little difficulty.[2] In E, on the other hand, Aaron is sent
   by God to meet Moses at Mt. Horeb, after the latter had taken leave of
-  Jethro, and, later on, accompanies him into the presence of Pharaoh.
+  [[Jethro]], and, later on, accompanies him into the presence of Pharaoh.
   The succeeding narrative (v. 1-vi. 1) is mainly taken from J, though
   E's account of the first interview with Pharaoh has been partially
   retained in v. 1, 2, 4. Moses and the elders ask leave to go three
@@ -164,7 +164,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   off from one another both by their linguistic features and by their
   difference of representation. The principal source is J, from which
   are derived six plagues, viz. killing of the fish in the river (vii.
-  14, 16, 17a, 18, 21a, 24, 25), frogs (viii. 1-4, 8-150), insects
+  14, 16, 17a, 18, 21a, 24, 25), frogs (viii. 1-4, 8-150), [[Insect|insects]]
   (viii. 20-32), murrain (ix. 1-7), hail (ix. 13-18, 23b, 24b, 25b-34),
   locusts (x. 1a, 3-11, 13b, 14b, 15a, c-19, 24-26, 28, 29), the threat
   to slay all the first-born (xi. 4-8). The most striking characteristic
@@ -334,7 +334,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   derived from E, but is clearly out of place in its present context.
   Its close connexion with the end of the wanderings is shown by (a) the
   description of Moses as an infirm old man; (b) the rôle played by
-  Joshua in contrast with xxiv. 13, xxxiii. 11, where he is introduced
+  [[Joshua]] in contrast with xxiv. 13, xxxiii. 11, where he is introduced
   as a young man and Moses' minister; and (c) the references elsewhere
   to the home of the Amalekites: according to Num. xiii. 29, xiv. 25,
   xliii. 45, they dwelt in the S. or S.W. of Judah near Kadesh (cf. 1
@@ -354,7 +354,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   which, owing to their contents, form the most important section in the
   book of Exodus, may be briefly analysed as follows. In ch. xix. we
   have a twofold description of the theophany on Mt. Sinai (or Horeb),
-  followed by the Decalogue in xx. 1-17. Alongside of this code we find
+  followed by the Decalogue in xx. 1-17. Alongside of this [[Code|code]] we find
   another, dealing in part with the civil and social (xxi. 2-xxii. 17),
   in part with the religious life of Israel, the so-called Book of the
   Covenant, xx. 22-xxiii. 19. Ch. xxiv. contains a composite narrative
@@ -409,14 +409,14 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   respectively. The narrative which introduces the covenant laws of J
   has been preserved partly in its present context, ch. xxxiv., partly
   in xxiv. 1, 2, 9-11; the narrative of E, on the other hand, has in
-  part disappeared owing to the interpolation of later material, in part
+  part disappeared owing to the [[Interpolation|interpolation]] of later material, in part
   has been retained in xxiv. 3-8. J's narrative xxiv. 1 f., 9-11 clearly
   forms the continuation of xix. 20 f., 11b, 13, 25, but the
   introductory words of v. 1, "and unto Moses he said," point to some
   omission. Originally, no doubt, it included the recital of the divine
   instructions to the people in accordance with xix. 21 f., 11b-13, the
   statement that Yahweh came down on the third day, and that a long
-  blast was blown on the trumpet (or ram's horn [[Hebrew: yovel], as
+  blast was blown on the trumpet (or ram's [[Horn|horn]] [[Hebrew: yovel], as
   opposed to [Hebrew: shofar] E]). From xxiv. 1 f. we learn that Moses
   and Aaron, Nadab and Abihu, and seventy of the elders were summoned to
   the top of the mountain, but that Moses alone was permitted to
@@ -432,7 +432,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   previous references to tables of stone and to Moses' breaking them
   belong to the parallel narrative of E. Moreover, the covenant here set
   forth (v. 10 f.) is clearly a new one, and contains no hint of any
-  previous legislation, nor of any breach of it by the people. In view
+  previous legislation, nor of any [[Breach|breach]] of it by the people. In view
   of these facts we are forced to conclude that 1b ("like unto the first
   ... brakest"), 4a ("and he hewed ... the first") and v. 28 ("the ten
   words") formed no part of the original narrative,[7] but were inserted
@@ -443,7 +443,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
 
   The legislation contained in xxxiv. 10-26, which may be described as
   the oldest legal code of the Hexateuch, is almost entirely religious.
-  It prohibits the making of molten images (v. 17), the use of leaven in
+  It prohibits the making of molten [[Image|images]] (v. 17), the use of [[Leaven|leaven]] in
   sacrifices (25a), the retention of the sacrifice until the morning
   (25b),[9] and the seething of a kid in its mother's milk (26b); and
   enjoins the observance of the three annual feasts and the Sabbath
@@ -652,7 +652,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   (c) _The Construction of the Tabernacle and its Furniture_ (ch.
   xxv.-xxxi., xxxv.-xl.).--It has long been recognized that the
   elaborate description of the Tabernacle and its furniture, and the
-  accompanying directions for the dress and consecration of the priests,
+  accompanying directions for the [[Dress|dress]] and consecration of the priests,
   contained in ch. xxv.-xxxi., have no claim to be regarded as an
   historical presentment of the Mosaic Tabernacle and its service. The
   language, style and contents of this section point unmistakably to the
@@ -705,7 +705,7 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   narrate how the commands of ch. xxv.-xxxi. were carried out, and
   practically repeat the earlier chapters _verbatim_, merely the tenses
   being changed, the most noticeable omissions being xxvii. 20 f. (oil
-  for the lamps), xxviii. 30 (Urim and Thummim), xxix. 1-37 (the
+  for the [[Lamp|lamps]]), xxviii. 30 (Urim and Thummim), xxix. 1-37 (the
   consecration of the priests, which recurs in Lev. viii.) and xxix.
   38-42 (the daily burnt-offering). Apart from the omissions the most
   striking difference between the two sections is the variation in
@@ -724,10 +724,10 @@ of the Tabernacle and its furniture (xxv.-xxxi., xxxv.-xl.).
   commentaries on Exodus included under the head of the Pentateuch, the
   following English works are especially worthy of mention: S.R. Driver,
   _Introd. to the Literature of the O.T._, and "Exodus" in the _Camb.
-  Bible_; B.W. Bacon, _The Triple Tradition of the Exodus_ (Hartford,
+  Bible_; B.W. Bacon, _The Triple Tradition of the Exodus_ ([[Hartford]],
   U.S.A., 1894), and A.H. McNeile, _The Book of Exodus_ (Westminster
   Commentaries) (1908); also the articles on "Exodus" by G.
-  Harford-Battersby (Hastings, _Dict. Bib._ vol. i.) and by G.F. Moore,
+  Harford-Battersby ([[Hastings]], _Dict. Bib._ vol. i.) and by G.F. Moore,
   _Ency. Biblica_, vol. ii.     (J. F. St.)
 
 
@@ -774,7 +774,7 @@ FOOTNOTES:
 
   [5] Unless we follow Riedel and read simply "and worshipped"
     ([Hebrew: vaishtahavu]) instead of "and drank" ([Hebrew: vaishtu]),
-    treating "and ate" ([Hebrew: vaiohlu]) as a later addition; cf. HDB,
+    treating "and [[Ate|ate]]" ([Hebrew: vaiohlu]) as a later addition; cf. HDB,
     extra vol. p. 631 note.
 
   [6] Vv. 6-9 are out of place here: they belong to the story of Moses'

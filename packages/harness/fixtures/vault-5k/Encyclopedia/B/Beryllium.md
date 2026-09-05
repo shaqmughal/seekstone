@@ -7,11 +7,11 @@ tags: [chemistry, exploration]
 
 # Beryllium
 
-BERYLLIUM, or GLUCINUM (symbol Be, atomic weight 9.1), one of the
+BERYLLIUM, or [[Glucinum|GLUCINUM]] (symbol Be, atomic weight 9.1), one of the
 metallic chemical elements, included in the same sub-group of the
-periodic classification as magnesium. It was prepared in the form of its
+periodic [[Classification|classification]] as magnesium. It was prepared in the form of its
 oxide in 1798 by L.N. Vauquelin (_Ann. de chimie_, 1798, xxvi. p. 155)
-from the mineral beryl, and though somewhat rare, is found in many
+from the mineral [[Beryl|beryl]], and though somewhat rare, is found in many
 minerals. It was first obtained, in an impure condition, in 1828 by
 A.A.B. Bussy (1794-1882) and F. Wohler by the reduction of the chloride
 with potassium, and in 1855 H.J. Debray prepared it, in a compact state,
@@ -29,7 +29,7 @@ ordinary temperatures in oxygen or air; it is readily attacked by
 hydrochloric and sulphuric acids, but scarcely acted on by nitric acid.
 It is also soluble in solutions of the caustic alkalis, with evolution
 of hydrogen a behaviour similar to that shown by aluminium. It combines
-readily with fluorine, chlorine and bromine, and also with sulphur,
+readily with fluorine, [[Chlorine|chlorine]] and bromine, and also with sulphur,
 selenium, phosphorus, &c.
 
 Considerable discussion has taken place at different times as to the
@@ -46,7 +46,7 @@ and O. Pettersson, and appears to increase rapidly with increasing
 temperature, the values obtained being 0.3973 at 20.2 deg. C., 0.4481 at
 73.2 deg. C. and 0.5819 at 256.8 deg. C.
 
-  Beryllium compounds are almost wholly prepared from beryl. The mineral
+  Beryllium [[Compound|compounds]] are almost wholly prepared from beryl. The mineral
   is fused with potassium carbonate, and, on cooling, the product is
   treated with sulphuric acid, the excess of which is removed by
   evaporation; water is then added and the silica is filtered off. On
@@ -62,8 +62,8 @@ temperature, the values obtained being 0.3973 at 20.2 deg. C., 0.4481 at
   steam is blown through the liquid, when beryllium oxide is
   precipitated. This process is repeated several times, and the final
   precipitate is dissolved in hydrochloric acid and precipitated by
-  ammonia, washed and dried. It has also been obtained by J. Gibson
-  (_Journ. of Chem. Soc._, 1893, lxiii. p. 909) from beryl by conversion
+  ammonia, washed and dried. It has also been obtained by J. [[Gibson]]
+  (_Journ. of Chem. Soc._, 1893, lxiii. p. 909) from beryl by [[Conversion|conversion]]
   of the beryllium into its fluoride.
 
   Beryllium oxide, beryllia or glucina, BeO, is a very hard white powder
@@ -85,7 +85,7 @@ temperature, the values obtained being 0.3973 at 20.2 deg. C., 0.4481 at
   solution of this salt, crystals of composition BeSO4.7H2O are
   obtained. Double sulphates of beryllium and the alkali metals are
   known, e.g. BeSO4.K2SO4.3H2O as are also many basic sulphates. The
-  nitrate Be(NO3)2.3H2O is prepared by adding barium nitrate to
+  nitrate Be(NO3)2.3H2O is prepared by adding [[Barium|barium]] nitrate to
   beryllium sulphate solution; it crystallizes with difficulty and is
   very deliquescent. It readily yields basic salts.
 
@@ -94,7 +94,7 @@ temperature, the values obtained being 0.3973 at 20.2 deg. C., 0.4481 at
   decomposed by water with the production of methane. Several basic
   carbonates are known, being formed by the addition of beryllium salts
   to solutions of the alkaline carbonates; the normal carbonate is
-  prepared by passing a current of carbon dioxide through water
+  prepared by passing a current of [[Carbon|carbon]] dioxide through water
   containing the basic carbonate in suspension, the solution being
   filtered and concentrated over sulphuric acid in an atmosphere of
   carbon dioxide. The crystals so obtained are very unstable and
@@ -115,7 +115,7 @@ temperature, the values obtained being 0.3973 at 20.2 deg. C., 0.4481 at
   721) obtained the values 9.113 from analyses of beryllium
   acetonyl-acetate and beryllium basic acetate.
 
-  For a bibliography see C.L. Parsons, _The Chemistry and Literature of
+  For a bibliography see C.L. Parsons, _The [[Chemistry]] and Literature of
   Beryllium_ (1909).
 
 ## References

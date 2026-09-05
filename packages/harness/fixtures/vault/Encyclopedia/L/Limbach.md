@@ -11,7 +11,7 @@ LIMBACH, a town in the kingdom of Saxony, in the manufacturing district
 of Chemnitz, 6 m. N.W. of that city. Pop. (1905) 13,723. It has a public
 park and a monument to the composer Pache. Its industries include the
 making of worsteds, cloth, silk and sewing-machines, and dyeing and
-bleaching.
+[[Bleaching|bleaching]].
 
 ## See also
 

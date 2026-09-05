@@ -7,7 +7,7 @@ topic: science-history
 # Goodwin Sands
 
 GOODWIN SANDS, a dangerous line of shoals at the entrance to the Strait
-of Dover from the North Sea, about 6 m. from the Kent coast of England,
+of [[Dover]] from the North Sea, about 6 m. from the Kent coast of England,
 from which they are separated by the anchorage of the Downs. For this
 they form a shelter. They are partly exposed at low water, but the sands
 are shifting, and in spite of lights and bell-buoys the Goodwins are

@@ -6,7 +6,7 @@ topic: history
 
 # Gosport
 
-GOSPORT, a seaport in the Fareham parliamentary division of Hampshire,
+GOSPORT, a seaport in the [[Fareham]] parliamentary division of [[Hampshire]],
 England, facing Portsmouth across Portsmouth harbour, 81 m. S.W. from
 London by the London & Southwestern railway. Pop. of urban district of
 Gosport and Alverstoke (1901), 28,884. A ferry and a floating bridge
@@ -18,7 +18,7 @@ harbour. The principal buildings are the town hall and market hall, and
 the church of Holy Trinity, erected in the time of William III. To the
 south at Haslar there is a magnificent naval hospital, capable of
 containing 2000 patients, and adjoining it a gunboat slipway and large
-barracks. To the north is the Royal Clarence victualling yard, with
+[[Barracks|barracks]]. To the north is the Royal [[Clarence]] victualling yard, with
 brewery, cooperage, powder magazines, biscuit-making establishment, and
 storehouses for various kinds of provisions for the royal navy.
 
@@ -44,7 +44,7 @@ Portsmouth harbour, and its convenience as a victualling station. For
 this reason also the town was particularly prosperous during the
 American and Peninsular Wars. About 1540 fortifications were built there
 for the defence of the harbour, and in the 17th century it was a
-garrison town under a lord-lieutenant.
+[[Garrison|garrison]] town under a lord-lieutenant.
 
 ## See also
 

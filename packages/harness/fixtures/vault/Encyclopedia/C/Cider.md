@@ -10,7 +10,7 @@ tags: [history, music-theory]
 
 CIDER, or CYDER (from the Fr. _cidre_, derived from the Lat. _sicera_ or
 _cisera_, Gr. [Greek: sikera], Heb. _sh[=e]k[=a]r_, strong drink), an
-alcoholic beverage made from apples.
+alcoholic beverage made from [[Apple|apples]].
 
 Cider and perry (the corresponding beverage made from pears) are liquors
 containing from as little as 2% of alcohol to 7 or 8%, seldom more, and
@@ -28,13 +28,13 @@ still survives an Norfolk, and has lately been revived in Kent, though,
 in both these counties, much of the fruit used in cider-making is
 imported from the west country and some from the continent. Speaking
 generally, the cider of Herefordshire is distinguished for its lightness
-and briskness, that of Somerset for its strength, and that of Devonshire
+and briskness, that of Somerset for its strength, and that of [[Devonshire]]
 for its lusciousness.
 
 Cider used to be made in the south of Ireland, but the industry had
 almost become extinct until revived by the Department of Agriculture,
-which in 1904 erected a cider-making plant at Drogheda, Co. Louth, gave
-assistance to private firms at Dungarvan, Co. Waterford, and Fermoy, Co.
+which in 1904 erected a cider-making plant at Drogheda, Co. [[Louth]], gave
+assistance to private firms at [[Dungarvan]], Co. Waterford, and [[Fermoy]], Co.
 Cork, and provided a travelling mill and press to work in the South
 Riding of Co. Tipperary. The results have been highly satisfactory, a
 large quantity of good cider having been produced.
@@ -47,25 +47,25 @@ vintage apples and pears best suited to Herefordshire and the districts
 adjoining. The following is the list drawn up by the committee:--
 
 _Apples_.--Old Foxwhelp, Cherry Pearmain, Cowarne Red, Dymock Red,
-Eggleton Styre, Kingston Black or Black Taunton, Skyrme's Kernel,
+Eggleton Styre, [[Kingston]] Black or Black Taunton, Skyrme's Kernel,
 Spreading Redstreak, Carrion apple, Cherry Norman, Cummy Norman, Royal
-Wilding, Handsome Norman, Strawberry Norman, White Bache or Norman,
+Wilding, Handsome Norman, Strawberry Norman, White [[Bache]] or Norman,
 Broad-leaved Norman, Argile Grise, Bramtôt, De Boutville, Fréquin
 Audièvre, Medaille d'Or, the last five being French sorts introduced
 from Normandy about 1880, and now established in the orchards of
 Herefordshire.
 
-_Pears_.--Taynton Squash, Barland, Oldfield, Moorcroft or Malvern Hill,
+_Pears_.--Taynton Squash, Barland, Oldfield, Moorcroft or [[Malvern]] Hill,
 Red-pear, Thurston's Red, Longland, Pine pear.
 
 No equally authoritative selection has been made for the Somerset and
 Devon districts, but the following varieties of cider apples are held in
-good repute in those parts:--Kingston Black, Jersey Chisel, Hangdowns,
+good repute in those parts:--Kingston Black, [[Jersey]] [[Chisel]], Hangdowns,
 Fair Maid of Devon, Woodbine, Duck's Bill, Slack-my-Girdle, Bottle
-Stopper, Golden Ball, Sugar-loaf, Red Cluster, Royal Somerset and
+Stopper, Golden [[Ball]], Sugar-loaf, Red Cluster, Royal Somerset and
 Cadbury (believed to be identical with the Royal Wilding of
 Herefordshire). As a rule the best cider apples are of small size.
-"Petites pommes, gros cidre," say the French.
+"Petites pommes, [[Gros|gros]] cidre," say the French.
 
 Cider and perry not being taxable liquors in England, it is impossible
 to estimate with even an approach to accuracy the amount of the annual
@@ -80,11 +80,11 @@ the world, but that the output is yearly increasing. A great proportion,
 however, of what passes as cider in France is _boisson_, i.e. cider to
 which water has been added in the process of making or at a subsequent
 stage; while much of the perry is disposed of to the makers of
-champagne. Although some cider is made in sixty-five departments, by far
+[[Champagne|champagne]]. Although some cider is made in sixty-five departments, by far
 the largest amount comes from the provinces of Normandy and Brittany. In
 Germany cider-making is a considerable and growing industry.
 Manufactories on a small scale exist in north Germany, as at Guben and
-Grünberg, but the centre of the industry is at Frankfort-on-Main,
+Grünberg, but the centre of the industry is at [[Frankfort-On-Main|Frankfort-on-Main]],
 Sachsenhausen and the neighbourhood, where there are five large and
 twenty-five small factories employing upwards of 1000 hands. Large
 quantities of cider fruit are imported from foreign countries, as,
@@ -98,7 +98,7 @@ cider and white wine rather than pure cider.
 The practice which formerly prevailed in England of making cider on the
 farm from the produce of the home orchards has within the last few years
 been to a large extent given up, and, as in Germany and many parts of
-France, farmers now sell their fruit to owners of factories where the
+France, [[Farmer|farmers]] now sell their fruit to owners of factories where the
 making of cider and perry is carried on as a business of itself. In
 these hand or horse power is superseded by steam and sometimes by
 electricity, as in the factory of E. Seigel in Grünberg, and the
@@ -106,7 +106,7 @@ old-fashioned appliances of the farm by modern mills and presses capable
 of turning out large quantities of liquor. The clearing of the juice,
 too, which used to be effected by running it through bags, is in the
 factories accomplished more quickly by forcing it through layers of
-compressed cotton in a machine of German origin known as Lumley's
+compressed cotton in a [[Machine|machine]] of German origin known as Lumley's
 filter. The actual process of cider and perry making is simple, and
 resembles that of making grape wine. The fruit is ground or crushed in
 machines of various construction, the latest and most powerful being of
@@ -129,11 +129,11 @@ most are harmful.
 
 Of late years the practice has largely obtained of using preservatives
 for the purpose of checking fermentation. The principal preservatives
-employed are salicylic and boracic acids and formalin. The two former
+employed are salicylic and boracic acids and [[Formalin|formalin]]. The two former
 are ineffective except in quantities likely to prove hurtful to health,
 while formalin, in itself a powerful and deleterious drug, though it
 stops fermentation, renders the liquor cloudy and undrinkable. Other
-foreign ingredients, such as saccharin and porcherine, both coal-tar
+foreign ingredients, such as saccharin and porcherine, both [[Coal-Tar|coal-tar]]
 derivatives--the latter a recent discovery of a French chemist, after
 whom it is named--are used by many makers, chiefly for the purpose of
 rendering bad and therefore unwholesome cider palatable and saleable.
@@ -141,7 +141,7 @@ Provided that cider and perry be properly filtered, and attention paid
 to perfect cleanliness of vessels and appliances, there is no need of
 preservatives or sweeteners, and their use ought to be forbidden by law
 in England, as it is in most continental states in the case of liquors
-to be consumed within their borders, though not, it is significant to
+to be consumed within their [[Borders|borders]], though not, it is significant to
 note, in the case of liquors intended for exportation.
 
 The wholesome properties of cider and perry when pure and unadulterated
@@ -159,7 +159,7 @@ occurrence of Asiatic cholera has ever been reported.
 
 The importance which the cider industry has of late attained in England
 has been marked by the establishment of the National Fruit and Cider
-Institute at Long Ashton near Bristol. This institute, founded in 1903
+Institute at Long Ashton near [[Bristol]]. This institute, founded in 1903
 at the instance of the Board of Agriculture, is supported by grants from
 the board, the Bath and West of England Society, the councils of the
 cider-producing counties of Hereford, Gloucester, Worcester, Monmouth,

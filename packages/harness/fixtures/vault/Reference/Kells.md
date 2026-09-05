@@ -1,11 +1,11 @@
 # Kells
 
-KELLS, a market town of county Meath, Ireland, on the Blackwater, 9(3/4)
+KELLS, a market town of county [[Meath]], Ireland, on the Blackwater, 9(3/4)
 m. N.W. of Navan on a branch of the Great Northern railway. Pop. of
 urban district (1901), 2428. The prosperity of the town depends chiefly
 upon its antiquarian remains. The most notable is St Columbkille's
 house, originally an oratory, but afterwards converted into a church,
-the chancel of which was in existence in 1752. The present church is
+the [[Chancel|chancel]] of which was in existence in 1752. The present church is
 modern, with the exception of the bell-tower, rebuilt in 1578. Near the
 church there is a fine though imperfect specimen of the ancient round
 tower, 99 ft. in height; and there are several ancient crosses, the
@@ -21,9 +21,9 @@ he is reported to have founded there are no remains, and the town owes
 its chief ecclesiastical importance to the bishopric founded about 807,
 and united to Meath in the 13th century. The ecclesiastical
 establishment was noted as a seat of learning, and a monument of this
-remains in the _Book of Kells_ an illuminated copy of the Gospels in
+remains in the _Book of Kells_ an illuminated copy of the [[Gospel|Gospels]] in
 Latin, containing also local records, dating from the 8th century, and
-preserved in the library of Trinity College, Dublin. The illumination is
+preserved in the library of Trinity College, Dublin. The [[Illumination|illumination]] is
 executed with extraordinary delicacy, and the work is asserted to be the
 finest extant example of early Christian art of this kind. Neighbouring
 antiquities are the church of Dulane, with a fine doorway, and the _dun_

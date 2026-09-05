@@ -8,7 +8,7 @@ tags: [theology-islamic, naturalists]
 
 # Gnathopoda
 
-GNATHOPODA, a term in zoological classification, suggested as an
+GNATHOPODA, a term in zoological [[Classification|classification]], suggested as an
 alternative name for the group Arthropoda (q.v.). The word, which means
 "jaw-footed," refers to the fact that in the members of the group, some
 of the lateral appendages or "feet" in the region of the mouth act as

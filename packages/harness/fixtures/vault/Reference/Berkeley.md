@@ -5,7 +5,7 @@ son of William Berkeley (an officer of customs who had, it seems, come
 to Ireland in the suite of Lord Berkeley of Stratton, lord lieutenant,
 1670-1672, to whom he was related), was born on the 12th of March 1685,
 in a cottage near Dysert Castle, Thomastown, Ireland. He passed from the
-school at Kilkenny to Trinity College, Dublin (1700), where, owing to
+school at [[Kilkenny]] to Trinity College, Dublin (1700), where, owing to
 the peculiar subtlety of his mind and his determination to accept no
 doctrine on the evidence of authority or convention, he left the beaten
 track of study and was regarded by some as a dunce, by others as a
@@ -13,8 +13,8 @@ genius. During his career at Dublin the works of Descartes and Newton
 were superseding the older text-books, and the doctrines of Locke's
 _Essay_ were eagerly discussed. Thus he "entered on an atmosphere which
 was beginning to be charged with the elements of reaction against
-traditional scholasticism in physics and in metaphysics" (A.C. Fraser).
-He became a fellow in 1707. His interest in philosophy led him to take a
+traditional scholasticism in physics and in metaphysics" (A.C. [[Fraser]]).
+He became a [[Fellow|fellow]] in 1707. His interest in philosophy led him to take a
 prominent share in the foundation of a society for discussing the new
 doctrines, and is further shown by his _Common Place Book_, one of the
 most valuable autobiographical records in existence, which throws much
@@ -24,7 +24,7 @@ creative thought focused in a new principle which is to revolutionize
 speculative science. There is no sign of any intimate knowledge of
 ancient or scholastic thought; to the doctrines of Spinoza, Leibnitz,
 Malebranche, Norris, the attitude is one of indifference or lack of
-appreciation, but the influence of Descartes and specially of Locke is
+appreciation, but the influence of Descartes and specially of [[Locke]] is
 evident throughout. The new principle (nowhere in the _Common Place
 Book_ explicitly stated) may be expressed in the proposition that no
 existence is conceivable--and therefore possible--which is not either
@@ -77,28 +77,28 @@ general happiness, thus working out a theological utilitarianism, which
 may be compared with the later expositions of Austin and J.S. Mill. From
 1707 he had been engaged as college tutor; in 1712 he paid a short visit
 to England, and in April 1713 he was presented by Swift at court. His
-abilities, his courtesy and his upright character made him a universal
-favourite. While in London he published his _Dialogues_ (1713), a more
+abilities, his [[Courtesy|courtesy]] and his upright character made him a universal
+favourite. While in London he published his _[[Dialogue|Dialogues]]_ (1713), a more
 popular exposition of his new theory; for exquisite facility of style
 these are among the finest philosophical writings in the English
-language. In November he became chaplain to Lord Peterborough, whom he
+language. In November he became [[Chaplain|chaplain]] to Lord Peterborough, whom he
 accompanied on the continent, returning in August 1714. He travelled
 again in 1715-1720 as tutor to the only son of Dr St George Ashe
-(?1658-1718, bishop successively of Cloyne, Clogher and Derry). In 1721,
+(?1658-1718, bishop successively of [[Cloyne]], [[Clogher]] and Derry). In 1721,
 during the disturbed state of social relations consequent on the
 bursting of the South Sea bubble he published an _Essay towards
 preventing the Ruin of Great Britain_, which shows the intense interest
 he took in practical affairs. In the same year he returned to Ireland as
-chaplain to the duke of Grafton, and was made divinity lecturer and
-university preacher. In 1722 he was appointed to the deanery of Dromore,
+chaplain to the duke of [[Grafton]], and was made divinity lecturer and
+university preacher. In 1722 he was appointed to the deanery of [[Dromore]],
 a post which seems to have entailed no duties, as we find him holding
 the offices of Hebrew lecturer and senior proctor at the university. The
 following year Miss Vanhomrigh, Swift's Vanessa, left him half her
-property. It would appear that he had only met her once at dinner. In
+property. It would appear that he had only met her once at [[Dinner|dinner]]. In
 1724 he was nominated to the rich deanery of Derry, but had hardly been
 appointed before he was using every effort to resign it in order to
 devote himself to his scheme of founding a college in the Bermudas, and
-extending its benefits to the Americans. With infinite exertion he
+extending its benefits to the Americans. With [[Infinite|infinite]] exertion he
 succeeded in obtaining from government a promise of L20,000, and after
 four years spent in preparation, sailed in September 1728, accompanied
 by some friends and by his wife, daughter of Judge Forster, whom he had
@@ -132,7 +132,7 @@ buried in Christ Church, Oxford.
   never extend to the unperceived matter, or substance, or cause which
   produced them, and it became a problem for speculative science to
   determine the grounds for the very belief in its existence. Philosophy
-  seemed about to end in scepticism or in materialism. Now Berkeley put
+  seemed about to end in scepticism or in [[Materialism|materialism]]. Now Berkeley put
   this whole problem in a new light by pointing out a preliminary
   question. Before we deduce results from such abstract ideas as cause,
   substance, matter, we must ask what in reality do these mean--what is
@@ -148,19 +148,19 @@ buried in Christ Church, Oxford.
   inconceivable. External things are things known to us in immediate
   perception. To this conclusion Berkeley seems, in the first place, to
   have been led by the train of reflection that naturally conducts to
-  subjective or egoistic idealism. It is impossible to overstep the
+  subjective or egoistic [[Idealism|idealism]]. It is impossible to overstep the
   limits of self-consciousness; whatever words I use, whatever notions I
   have, must refer to and find their meaning in facts of consciousness.
   But this is by no means the whole or even the principal part of
   Berkeley's philosophy; it is essentially a theory of causality, and
   this is brought out gradually under the pressure of difficulties in
   the first solution of the early problem. To merely subjective
-  idealism, sense percepts differ from ideas of imagination in degree,
+  idealism, sense percepts differ from ideas of [[Imagination|imagination]] in degree,
   not in kind; both belong to the individual mind. To Berkeley, however,
   the difference is fundamental; sense ideas are not due to our own
   activity; they must therefore be produced by some other will-by the
   divine intelligence. Sense experience is thus the constant action upon
-  our minds of supreme active intellect, and is not the consequence of
+  our minds of supreme active [[Intellect|intellect]], and is not the consequence of
   dead inert matter. It might appear, therefore, that sensible things
   had an objective existence in the mind of God; that an idea so soon as
   it passes out of our consciousness passes into that of God. This is an
@@ -190,7 +190,7 @@ buried in Christ Church, Oxford.
   divine ideas which find realization in our limited experience, in
   trying to interpret the divine language of which natural things are
   the words and letters, and in striving to bring human conceptions into
-  harmony with the divine thoughts. Instead, therefore, of fate or
+  harmony with the divine thoughts. Instead, therefore, of [[Fate|fate]] or
   necessity, or matter, or the unknown, a living, active mind is looked
   upon as the centre and spring of the universe, and this is the essence
   of the Berkeleian metaphysics.
@@ -204,7 +204,7 @@ buried in Christ Church, Oxford.
   satisfactory theory. _Suni Cogitationes_ has been regarded by thinkers
   who profess themselves Berkeleians as the one proposition warranted by
   consciousness; the empiricism of his philosophy has been eagerly
-  welcomed, while the spiritual intuition, without which the whole is to
+  welcomed, while the spiritual [[Intuition|intuition]], without which the whole is to
   Berkeley meaningless, has been cast aside. For this he is himself in
   no small measure to blame. The deeper spiritual intuition, present
   from the first, was only brought into clear relief in order to meet
@@ -247,16 +247,16 @@ buried in Christ Church, Oxford.
 
   BIBLIOGRAPHY.--The standard edition of Berkeley's works is that of A.
   Campbell Eraser in 4 vols. (i.-iii. _Works_; iv. _Life_, _Letters and
-  Dissertation_) published by the Clarendon Press (1871); this edition,
+  Dissertation_) published by the [[Clarendon]] Press (1871); this edition,
   revised throughout and largely re-written, was re-published by the
   same author (1901). Another complete edition edited by G. Sampson,
   with a biographical sketch by A.J. Balfour, and a useful
   bibliographical summary, appeared in 1897-1898. Prof. Fraser also
   published an excellent volume of selections (5th ed., 1899), and a
   short general account in a volume on Berkeley in the _Blackwood
-  Philos. Class._ For Berkeley's theory of vision see manuals of
+  Philos. Class._ For Berkeley's theory of vision see [[Manuals|manuals]] of
   psychology (e.g. G.F. Stout, Wm. James); for his ethical views H.
-  Sidgwick, _Hist, of Ethics_ (5th ed., 1902); A. Bain, _Mental and
+  Sidgwick, _Hist, of [[Ethics]]_ (5th ed., 1902); A. Bain, _Mental and
   Moral Science_ (1872). See also Sir L. Stephen, _English Thought in
   the 18th Century_ (3rd ed., 1902); J.S. Mill's _Dissertations_, vols.
   ii. and iv.; T. Huxley, _Critiques and Addresses_, pp. 320 seq.; G.S.

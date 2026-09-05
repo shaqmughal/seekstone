@@ -2,13 +2,13 @@
 
 GEODESY (from the Gr. [Greek: ge], the earth, and [Greek: daiein], to
 divide), the science of surveying (q.v.) extended to large tracts of
-country, having in view not only the production of a system of maps of
+country, having in view not only the production of a system of [[Map|maps]] of
 very great accuracy, but the determination of the curvature of the
-surface of the earth, and eventually of the figure and dimensions of the
+surface of the earth, and eventually of the figure and [[Dimension|dimensions]] of the
 earth. This last, indeed, may be the sole object in view, as was the
 case in the operations conducted in Peru and in Lapland by the
-celebrated French astronomers P. Bouguer, C.M. de la Condamine, P.L.M.
-de Maupertuis, A.C. Clairault and others; and the measurement of the
+celebrated French astronomers P. Bouguer, C.M. de [[La Condamine|la Condamine]], P.L.M.
+de [[Maupertuis]], A.C. [[Clairault]] and others; and the measurement of the
 meridian arc of France by P.F.A. Mechain and J.B.J. Delambre had for
 its end the determination of the true length of the "metre" which was to
 be the legal standard of length of France (see EARTH, FIGURE OF THE).
@@ -17,9 +17,9 @@ The basis of every extensive survey is an accurate triangulation, and
 the operations of geodesy consist in the measurement, by theodolites, of
 the angles of the triangles; the measurement of one or more sides of
 these triangles on the ground; the determination by astronomical
-observations of the azimuth of the whole network of triangles; the
+observations of the [[Azimuth|azimuth]] of the whole network of triangles; the
 determination of the actual position of the same on the surface of the
-earth by observations, first for latitude at some of the stations, and
+earth by observations, first for [[Latitude|latitude]] at some of the stations, and
 secondly for longitude; the determination of altitude for all stations.
 
 For the computation, the points of the actual surface of the earth are
@@ -29,7 +29,7 @@ the sea through the continents by a system of imaginary canals. For many
 purposes the mathematical surface is assumed to be a plane; in other
 cases a sphere of radius 6371 kilometres (20,900,000 ft.). In the case
 of extensive operations the surface must be considered as a compressed
-ellipsoid of rotation, whose minor axis coincides with the earth's axis,
+[[Ellipsoid|ellipsoid]] of rotation, whose minor axis coincides with the earth's axis,
 and whose compression, flattening, or ellipticity is about 1/298.
 
 
@@ -42,7 +42,7 @@ _Measurement of Base Lines._
   stated thus--To determine the number of times that a certain standard
   or unit of length is contained between two finely marked points on the
   surface of the earth at a distance of some miles asunder, so that the
-  error of the result may be pronounced to lie between certain very
+  [[Error|error]] of the result may be pronounced to lie between certain very
   narrow limits,--then the question demands very serious consideration.
   The representation of the unit of length by means of the distance
   between two fine lines on the surface of a bar of metal at a certain
@@ -54,7 +54,7 @@ _Measurement of Base Lines._
   temperature of both bars. If the measuring bar be not
   self-compensating for temperature, its expansion must be determined by
   very careful experiments. The thermometers required for this purpose
-  must be very carefully studied, and their errors of division and index
+  must be very carefully studied, and their errors of division and [[Index|index]]
   error determined.
 
   In order to avoid the difficulty in exactly determining the
@@ -83,7 +83,7 @@ _Measurement of Base Lines._
   introduced in 1827-1828 at Lough Foyle in Ireland. Ten base lines were
   measured in India in 1831-1869 by the same apparatus. This is a system
   of six compound-bars self-correcting for temperature. The bars may be
-  thus described: Two bars, one of brass and the other of iron, are laid
+  thus described: Two bars, one of [[Brass|brass]] and the other of iron, are laid
   in parallelism side by side, firmly united at their centres, from
   which they may freely expand or contract; at the standard temperature
   they are of the same length. Let AB be one bar, A'B' the other; draw
@@ -113,14 +113,14 @@ _Measurement of Base Lines._
   the Cape. The account of this operation will be found in a volume
   entitled _Verification and Extension of Lacaille's Arc of Meridian at
   the Cape of Good Hope_, by Sir Thomas Maclear, published in 1866. A
-  rediscussion has been given by Sir David Gill in his _Report on the
+  rediscussion has been given by Sir David [[Gill]] in his _Report on the
   Geodetic Survey of South Africa, &c., 1896_.
 
   A very simple base apparatus was employed by W. Struve in his
   triangulations in Russia from 1817 to 1855. This consisted of four
   wrought-iron bars, each two toises (rather more than 13 ft.) long; one
   end of each bar is terminated in a small steel cylinder presenting a
-  slightly convex surface for contact, the other end carries a contact
+  slightly [[Convex|convex]] surface for contact, the other end carries a contact
   lever rigidly connected with the bar. The shorter arm of the lever
   terminates below in a polished hemisphere, the upper and longer arm
   traversing a vertical divided arc. In measuring, the plane end of one
@@ -175,13 +175,13 @@ _Measurement of Base Lines._
   improvement was introduced by Edward Jaderin of Stockholm, who
   measures with stretched wires of about 24 metres long; these wires are
   about 1.65 mm. in diameter, and when in use are stretched by an
-  accurate spring balance with a tension of 10 kg.[2] The nature of the
+  accurate spring [[Balance|balance]] with a tension of 10 kg.[2] The nature of the
   ground has a very trifling effect on this method. The difficulty of
   temperature determinations is removed by employing wires made of
-  invar, an alloy of steel (64%) and nickel (36%) which has practically
+  [[Invar|invar]], an alloy of steel (64%) and nickel (36%) which has practically
   no linear expansion for small thermal changes at ordinary
   temperatures; this alloy was discovered in 1896 by Benoit and
-  Guillaume of the International Bureau of Weights and Measures at
+  [[Guillaume]] of the [[International]] [[Bureau]] of Weights and Measures at
   Breteuil. Apparently the future of base-line measurements rests with
   the invar wires of the Jaderin apparatus; next comes Porro's apparatus
   with invar bars 4 to 5 metres long.
@@ -226,7 +226,7 @@ _Measurement of Base Lines._
         "     "      1880     "        Brunner      .3924
     Base at Strehlen 1854     "        Bessel   2762.5824
         "     "      1879     "        Brunner      .5852
-    Old base at Bonn 1847     "        Bessel   2133.9095
+    Old base at [[Bonn]] 1847     "        Bessel   2133.9095
         "     "      1892     "          "          .9097
     New base at Bonn 1892     "          "      2512.9612
         "     "      1892     "        Brunner      .9696
@@ -235,7 +235,7 @@ _Measurement of Base Lines._
   part of a base line be ascertained by spirit levelling, in order that
   the measured length may be reduced to what it would have been had the
   measurement been made on the surface of the sea, produced in
-  imagination. Thus if l be the length of a measuring bar, h its height
+  [[Imagination|imagination]]. Thus if l be the length of a measuring bar, h its height
   at any given position in the measurement, r the radius of the earth,
   then the length radially projected on to the level of the sea is l(1 -
   h/r). In the Salisbury Plain base line the reduction to the level of
@@ -273,7 +273,7 @@ _Measurement of Base Lines._
   other prominent ground. In every case it is necessary that the precise
   centre of the station be marked by some permanent mark. In India no
   expense is spared in making permanent the principal trigonometrical
-  stations--costly towers in masonry being erected. It is essential that
+  stations--costly towers in [[Masonry|masonry]] being erected. It is essential that
   every trigonometrical station shall present a fine object for
   observation from surrounding stations.
 
@@ -303,7 +303,7 @@ _Measurement of Base Lines._
   adjustments of the theodolite, which are these: the line of
   collimation of the telescope must be perpendicular to its axis of
   rotation; this axis perpendicular to the vertical axis of the
-  instrument; and the latter perpendicular to the plane of the horizon.
+  instrument; and the latter perpendicular to the plane of the [[Horizon|horizon]].
   The micrometer microscopes must also measure correct quantities on the
   divided circle or circles. The method of observing is this. Let A, B,
   C ... be the stations to be observed taken in order of azimuth; the
@@ -345,7 +345,7 @@ _Measurement of Base Lines._
   The theodolites used in geodesy vary in pattern and in size--the
   horizontal circles ranging from 10 in. to 36 in. in diameter. In
   Ramsden's 36-in. theodolite the telescope has a focal length of 36 in.
-  and an aperture of 2.5 in., the ordinarily used magnifying power being
+  and an [[Aperture|aperture]] of 2.5 in., the ordinarily used magnifying power being
   54; this last, however, can of course be changed at the requirements
   of the observer or of the weather. The probable error of a single
   observation of a fine object with this theodolite is about 0".2. Fig.
@@ -363,7 +363,7 @@ _Measurement of Base Lines._
 
   For the observations of very distant stations it is usual to employ a
   heliotrope (from the Gr. [Greek: helios], sun; [Greek: tropos], a
-  turn), invented by Gauss at Gottingen in 1821. In its simplest form
+  turn), invented by [[Gauss]] at Gottingen in 1821. In its simplest form
   this is a plane mirror, 4, 6, or 8 in. in diameter, capable of
   rotation round a horizontal and a vertical axis. This mirror is placed
   at the station to be observed, and in fine weather it is kept so
@@ -379,10 +379,10 @@ _Measurement of Base Lines._
   bicycle-lamp, with a lens 5 in. in diameter. Particularly noteworthy
   are the trigonometrical connexions of Spain and Algeria, which were
   carried out in 1879 by Generals Ibanez and Perrier (over a distance of
-  270 km.), of Sicily and Malta in 1900, and of the islands of Elba and
+  270 km.), of Sicily and [[Malta]] in 1900, and of the islands of Elba and
   Sardinia in 1902 by Dr Guarducci (over distances up to 230 km.); in
   these cases artificial light was employed: in the first case electric
-  light and in the two others acetylene lamps.
+  light and in the two others acetylene [[Lamp|lamps]].
 
   [Illustration: FIG. 2.--Altazimuth Theodolite.]
 
@@ -392,13 +392,13 @@ _Measurement of Base Lines._
   The direction of the meridian is determined either by a theodolite or
   a portable transit instrument. In the former case the operation
   consists in observing the angle between a terrestrial
-  object--generally a mark specially erected and capable of illumination
+  object--generally a mark specially erected and capable of [[Illumination|illumination]]
   at night--and a close circumpolar star at its greatest eastern or
   western azimuth, or, at any rate, when very near that position. If the
   observation be made t minutes of time before or after the time of
   greatest azimuth, the azimuth then will differ from its maximum value
   by (450t)^2 sin 1" sin 2[delta]/ sin z, in seconds of angle, omitting
-  smaller terms, [delta] being the star's declination and z its zenith
+  smaller terms, [delta] being the star's [[Declination|declination]] and z its zenith
   distance. The collimation and level errors are very carefully
   determined before and after these observations, and it is usual to
   arrange the observations by the reversal of the telescope so that
@@ -453,7 +453,7 @@ _Measurement of Base Lines._
   one, even with only one mark, to determine the direction of the
   meridian in the course of an hour with a probable error of less than a
   second. The second mark enables one to complete the station more
-  rapidly and gives a check upon the work. As an instance, at Findlay
+  rapidly and gives a check upon the work. As an instance, at [[Findlay]]
   Seat, in latitude 57 deg. 35', the resulting azimuths of the two marks
   were 177 deg. 45' 37".29 [+-] 0".20 and 182 deg. 17' 15".61 [+-] 0".13,
   while the angle between the two marks directly measured by a
@@ -479,7 +479,7 @@ _Measurement of Base Lines._
           Sin m = sin b sin [phi]   - cos b cos [phi] sin a,
     Cos m sin n = sin b cos [phi]   + cos b sin [phi] sin a.
 
-  And these equations solve the problem, however large be the errors of
+  And these [[Equation|equations]] solve the problem, however large be the errors of
   the instrument. Supposing, as usual, a, b, m, n to be small, we have
   at once [tau] = n + c sec [delta] + m tan [delta], which is the
   correction to the observed time of transit. Or, eliminating m and n by
@@ -542,7 +542,7 @@ _Measurement of Base Lines._
 
   [Illustration: FIG. 4.--Zenith Telescope constructed for the
   International Stations at Mizusawa, Carloforte, Gaithersburg and
-  Ukiah, by Hermann Wanschaff, Berlin.]
+  Ukiah, by [[Hermann]] Wanschaff, Berlin.]
 
   The method of determining latitude by transits in the prime vertical
   has the disadvantage of being a somewhat slow process, and of
@@ -621,16 +621,16 @@ _Measurement of Base Lines._
   on one occasion) to take every star in his list during eleven hours on
   a stretch, namely, from 6 o'clock P.M. until 5 A.M., and this on a
   very cold November night on one of the highest points of the
-  Grampians. Observers accustomed to geodetic operations attain
+  [[Grampians]]. Observers accustomed to geodetic operations attain
   considerable powers of endurance. Shortly after the commencement of
   the observations on one of the hills in the Isle of Skye a storm
   carried away the wooden houses of the men and left the observatory
   roofless. Three observatory roofs were subsequently demolished, and
   for some time the observatory was used without a roof, being filled
   with snow every night and emptied every morning. Quite different,
-  however, was the experience of the same party when on the top of Ben
+  however, was the experience of the same party when on the top of [[Ben]]
   Nevis, 4406 ft. high. For about a fortnight the state of the
-  atmosphere was unusually calm, so much so, that a lighted candle could
+  atmosphere was unusually [[Calm|calm]], so much so, that a lighted [[Candle|candle]] could
   often be carried between the tents of the men and the observatory,
   whilst at the foot of the hill the weather was wild and stormy.
 
@@ -643,14 +643,14 @@ _Measurement of Base Lines._
   closes by the action of the clock an electric circuit every second. In
   order to record the minutes as well as seconds, one second in each
   minute, namely that numbered 0 or 60, is omitted. The seconds are
-  recorded on a chronograph, which consists of a cylinder revolving
+  recorded on a [[Chronograph|chronograph]], which consists of a cylinder revolving
   uniformly at the rate of one revolution per minute covered with white
   paper, on which a pen having a slow movement in the direction of the
   axis of the cylinder describes a continuous spiral. This pen is
   deflected through the agency of an electromagnet every second, and
   thus the seconds of the clock are recorded on the chronograph by
   offsets from the spiral curve. An observer having his hand on a
-  contact key in the same circuit can record in the same manner his
+  contact [[Key|key]] in the same circuit can record in the same manner his
   observed times of transits of stars. The method of determination of
   difference of longitude is, therefore, virtually as follows. After the
   necessary observations for instrumental corrections, which are
@@ -667,7 +667,7 @@ _Measurement of Base Lines._
   residual error.
 
   These errors can nevertheless be almost entirely avoided by using the
-  impersonal micrometer of Dr Repsold (Hamburg, 1889). In this device
+  impersonal micrometer of Dr Repsold ([[Hamburg]], 1889). In this device
   there is a movable micrometer wire which is brought by hand into
   coincidence with the star and moved along with it; at fixed points
   there are electrical contacts, which replace the fixed wires.
@@ -697,7 +697,7 @@ _Measurement of Base Lines._
   triangulation, of which the sides are of various lengths from 10 to
   111 miles. The largest triangle has one angle at Snowdon in Wales,
   another on Slieve Donard in Ireland, and a third at Scaw Fell in
-  Cumberland; each side is over a hundred miles and the spherical excess
+  [[Cumberland]]; each side is over a hundred miles and the spherical excess
   is 64". The more ordinary method of triangulation is, however, that of
   chains of triangles, in the direction of the meridian and
   perpendicular thereto. The principal triangulations of France, Spain,
@@ -741,8 +741,8 @@ _Measurement of Base Lines._
   curves. In order, therefore, that a spheroidal triangle may be exactly
   defined, it is necessary that the nature of the lines joining the
   three vertices be stated. In a mathematical point of view the most
-  natural definition is that the sides be geodetic or shortest lines.
-  C.C.G. Andrae, of Copenhagen, has also shown that other lines give a
+  natural [[Definition|definition]] is that the sides be geodetic or shortest lines.
+  C.C.G. Andrae, of [[Copenhagen]], has also shown that other lines give a
   less convenient computation.
 
   K.F. Gauss, in his treatise, _Disquisitiones generales circa
@@ -804,7 +804,7 @@ _Measurement of Base Lines._
   that is the shortest which is made by the normal plane. That is to
   say, the osculating plane at any point of a geodetic line contains the
   normal to the surface at that point. Imagine now three points in
-  space, A, B, C, such that AB = BC = c; let the direction cosines of AB
+  space, A, B, C, such that AB = BC = c; let the direction [[Cosin|cosines]] of AB
   be l, m, n, those of BC l', m', n', then x, y, z being the
   co-ordinates of B, those of A and C will be respectively--
 
@@ -874,7 +874,7 @@ _Measurement of Base Lines._
   64 kilometres, the maximum distance is 3 mm.
 
   An idea of the course of a longer geodetic line may be gathered from
-  the following example. Let the line be that joining Cadiz and St
+  the following example. Let the line be that joining [[Cadiz]] and St
   Petersburg, whose approximate positions are--
 
         Cadiz.               St Petersburg.
@@ -1004,7 +1004,7 @@ _Measurement of Base Lines._
 
     +------+------------------+--------------+--------------------+
     |      |          1       |        1     |           1        |
-    | Lat. | Log.------------.| Log.--------.| Log.--------------.|
+    | Lat. | [[Log]].------------.| Log.--------.| Log.--------------.|
     |      |     [rho] sin 1" |     n sin 1" |     2[rho]n sin 1" |
     +------+------------------+--------------+--------------------+
     |deg. '|                  |              |                    |
@@ -1246,7 +1246,7 @@ _Measurement of Base Lines._
   excellent series of formulae for the solution of the problem, to
   determine the azimuths, chord and distance along the surface from the
   geographical co-ordinates, was given in 1882 by Ch. M. Schols
-  (_Archives Neerlandaises_, vol. xvii.).
+  (_[[Archive|Archives]] Neerlandaises_, vol. xvii.).
 
 
   _Irregularities of the Earth's Surface._
@@ -1286,7 +1286,7 @@ _Measurement of Base Lines._
   inclined to that at P', and astronomical observations have shown that
   this inclination, the deflection or deviation, amounting ordinarily to
   one or two seconds, may in some cases exceed 10", or, as at the foot
-  of the Himalayas, even 60". By the expression "mathematical figure of
+  of the [[Himalaya|Himalayas]], even 60". By the expression "mathematical figure of
   the earth" we mean the surface of the sea produced in imagination so
   as to percolate the continents. We see then that the effect of the
   uneven distribution of matter in the crust of the earth is to produce
@@ -1339,7 +1339,7 @@ _Measurement of Base Lines._
   must be counteracted by subterranean tenuity.
 
   Suppose now that A, B, C, ... are the stations of a network of
-  triangulation projected on or lying on a spheroid of semiaxis major
+  triangulation projected on or lying on a spheroid of semiaxis [[Major|major]]
   and eccentricity a, e, this spheroid having its axis parallel to the
   axis of rotation of the earth, and its surface coinciding with the
   mathematical surface of the earth at A. Then basing the calculations
@@ -1406,7 +1406,7 @@ _Measurement of Base Lines._
   Ireland_ will be found the determination, from 75 equations, of the
   spheroid best representing the surface of the British Isles. Its
   elements are a = 20927005 [+-] 295 ft., b : a - b = 280 [+-] 8; and it
-  is so placed that at Greenwich Observatory [xi] = 1".864, [eta] =
+  is so placed that at [[Greenwich]] Observatory [xi] = 1".864, [eta] =
   -0".546.
 
   Taking Durham Observatory as the origin, and the tangent plane to the
@@ -1431,7 +1431,7 @@ _Measurement of Base Lines._
   direction of the attraction of the earth are altered, and the effect
   upon the latitude is a very small term expressed by the formula h (g'-
   g) sin 2 [phi] / ag, where g, g' are the values of gravity at the
-  equator and at the pole. This is h sin 2 [phi] / 5820 seconds, h being
+  [[Equator|equator]] and at the pole. This is h sin 2 [phi] / 5820 seconds, h being
   in metres, a quantity which may be neglected, since for ordinary
   mountain heights it amounts to only a few hundredths of a second. We
   can assume this amount as joined with the northern component of the
@@ -1443,7 +1443,7 @@ _Measurement of Base Lines._
   that time it diminishes, being at a minimum for a couple of hours
   before and after mid-day; later in the afternoon it again increases.
   This at least is the general march of the phenomenon, but it is by no
-  means regular. The vertical angles measured at the station on Hart
+  means regular. The vertical angles measured at the station on [[Hart]]
   Fell showed on one occasion in the month of September a refraction of
   double the average amount, lasting from 1 P.M. to 5 P.M. The mean
   value of the coefficient of refraction k determined from a very large
@@ -1495,7 +1495,7 @@ _Measurement of Base Lines._
 FOOTNOTES:
 
   [1] An arrangement acting similarly had been previously introduced by
-    Borda.
+    [[Borda]].
 
   [2] _Geodetic Survey of South Africa_, vol. iii. (1905), p. viii;
     _Les Nouveaux Appareils pour la mesure rapide des bases geod._, par

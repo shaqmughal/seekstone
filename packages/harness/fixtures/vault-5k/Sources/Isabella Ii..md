@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Isabella_I
 # Isabella Ii.
 
 ISABELLA II. (1830-1904), queen of Spain, was born in Madrid on the 10th
-of October 1830. She was the eldest daughter of Ferdinand VII., king of
+of October 1830. She was the eldest daughter of [[Ferdinand]] VII., king of
 Spain, and of his fourth wife, Maria Christina, a Neapolitan Bourbon,
 who became queen-regent on 29th September 1833, when her daughter, at
 the age of three years, was proclaimed on the death of the king. Queen
@@ -22,7 +22,7 @@ the minority of Isabella, to dispute her title, and her rights were only
 maintained through the gallant support of the army, the Cortes and the
 Liberals and Progressists, who at the same time established
 constitutional and parliamentary government, dissolved the religious
-orders, confiscated the property of the orders and of the Jesuits,
+orders, confiscated the property of the orders and of the [[Jesuits]],
 disestablished the Church property, and attempted to restore order in
 finances. After the Carlist war the queen-regent, Christina, resigned to
 make way for Espartero, the most successful and most popular general of
@@ -31,8 +31,8 @@ out in 1843 by a military and political _pronunciamiento_, led by
 Generals O'Donnell and Narvaez, who formed a cabinet, presided over by
 Joaquin Maria Lopez, and this government induced the Cortes to declare
 Isabella of age at thirteen. Three years later the Moderado party or
-Castilian Conservatives made their queen marry, at sixteen, her cousin,
-Prince Francisco de Assisi de Bourbon (1822-1902), on the same day (10th
+Castilian Conservatives made their queen marry, at sixteen, her [[Cousin|cousin]],
+Prince Francisco de [[Assisi]] de Bourbon (1822-1902), on the same day (10th
 October 1846) on which her younger sister married the duke of
 Montpensier. These marriages suited the views of France and Louis
 Philippe, who nearly quarrelled in consequence with Great Britain; but

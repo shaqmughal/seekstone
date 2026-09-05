@@ -20,7 +20,7 @@ youth--remaining there, after completing his studies at the university,
 till 1834, when he was arrested and tried on a charge of having
 assisted, with some other youths, at a festival during which verses by
 Sokolovsky, of a nature uncomplimentary to the emperor, were sung. The
-special commission appointed to try the youthful culprits found him
+special commission appointed to try the youthful [[Culprit|culprits]] found him
 guilty, and in 1835 he was banished to Viatka. There he remained till
 the visit to that city of the hereditary grand-duke (afterwards
 Alexander II.), accompanied by the poet Joukofsky, led to his being
@@ -33,7 +33,7 @@ was sent to Novgorod, where he led an official life, with the title of
 his will a very large property. Early in 1847 he left Russia, never to
 return. From Italy, on hearing of the revolution of 1848, he hastened to
 Paris, whence he afterwards went to Switzerland. In 1852 he quitted
-Geneva for London, where he settled for some years. In 1864 he returned
+[[Geneva]] for London, where he settled for some years. In 1864 he returned
 to Geneva, and after some time went to Paris, where he died on the 21st
 of January 1870.
 
@@ -43,18 +43,18 @@ Russian, on _Dilettantism in Science_, under the pseudonym of
 pardoned, not being allowed in those days to publish under their own
 names. His second work, also in Russian, was his _Letters on the Study
 of Nature_ (1845-1846). In 1847 appeared, his novel _Kto Vinovat?_
-(Whose Fault?), and about the same time were published in Russian
+(Whose [[Fault]]?), and about the same time were published in Russian
 periodicals the stories which were afterwards collected and printed in
 London in 1854, under the title of _Prervannuie Razskazui_ (Interrupted
 Tales). In 1850 two works appeared, translated from the Russian
-manuscript, _Vom anderen Ufer_ (From another Shore) and _Lettres de
+[[Manuscript|manuscript]], _Vom anderen Ufer_ (From another Shore) and _Lettres de
 France et d'Italie_. In French appeared also his essay _Du Developpement
 des idees revolutionnaires en Russie_, and his _Memoirs_, which, after
 being printed in Russian, were translated under the title of _Le Monde
 russe et la Revolution_ (3 vols., 1860-1862), and were in part
 translated into English as _My Exile to Siberia_ (2 vols., 1855). From a
 literary point of view his most important work is _Kto Vinovat?_ a story
-describing how the domestic happiness of a young tutor, who marries the
+describing how the domestic happiness of a young tutor, who [[Marri|marries]] the
 unacknowledged daughter of a Russian sensualist of the old type, dull,
 ignorant and genial, is troubled by a Russian sensualist of the new
 school, intelligent, accomplished and callous, without there being any

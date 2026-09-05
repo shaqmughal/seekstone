@@ -1,6 +1,6 @@
 # Hecato Of Rhodes
 
-HECATO OF RHODES, Greek Stoic philosopher and disciple of Panaetius
+HECATO OF RHODES, Greek Stoic philosopher and [[Disciple|disciple]] of Panaetius
 (Cicero, _De officiis_, iii. 15). Nothing else is known of his life, but
 it is clear that he was eminent amongst the Stoics of the period. He was
 a voluminous writer, but nothing remains. A list is preserved by

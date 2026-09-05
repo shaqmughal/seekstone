@@ -10,7 +10,7 @@ type: reference
 DE TABLEY, JOHN BYRNE LEICESTER WARREN, 3rd BARON (1835-1895), English
 poet, eldest son of George Fleming Leicester (afterwards Warren), 2nd
 Baron De Tabley, was born on the 26th of April 1835. He was educated at
-Eton and Christ Church, Oxford, where he took his degree in 1856 with
+[[Eton]] and Christ Church, Oxford, where he took his degree in 1856 with
 second classes in classics and in law and modern history. In the autumn
 of 1858 he went to Turkey as unpaid attaché to Lord Stratford de
 Redcliffe, and two years later was called to the bar. He became an
@@ -45,16 +45,16 @@ Lancaster. In the next year he published _Eclogues and Monodramas_,
 followed in 1865 by _Studies in Verse_. These volumes all displayed
 technical grace and much natural beauty; but it was not till the
 publication of _Philoctetes_ in 1866 that De Tabley met with any wide
-recognition. _Philoctetes_ bore the initials "M.A.," which, to the
-author's dismay, were interpreted as meaning Matthew Arnold. He at once
+recognition. _Philoctetes_ bore the [[Initials|initials]] "M.A.," which, to the
+author's dismay, were interpreted as meaning [[Matthew]] Arnold. He at once
 disclosed his identity, and received the congratulations of his friends,
 among whom were Tennyson, Browning and Gladstone. In 1867 he published
 _Orestes_, in 1870 _Rehearsals_ and in 1873 _Searching the Net_. These
 last two bore his own name, John Leicester Warren. He was somewhat
 disappointed by their lukewarm reception, and when in 1876 _The Soldier
-of Fortune_, a drama on which he had bestowed much careful labour,
+of Fortune_, a [[Drama|drama]] on which he had bestowed much careful labour,
 proved a complete failure, he retired altogether from the literary
-arena. It was not until 1893 that he was persuaded to return, and the
+[[Arena|arena]]. It was not until 1893 that he was persuaded to return, and the
 immediate success in that year of his _Poems, Dramatic and Lyrical_,
 encouraged him to publish a second series in 1895, the year of his
 death. The genuine interest with which these volumes were welcomed did
@@ -72,7 +72,7 @@ song." His ambition was always for the heights, a region naturally
 ice-bound at periods, but always a country of clear atmosphere and
 bright, vivid outlines.
 
-  See an excellent sketch by E. Gosse in his _Critical Kit-Kats_ (1896).
+  See an excellent sketch by E. [[Gosse]] in his _Critical Kit-Kats_ (1896).
                                                                 (A. WA.)
 
 ## See also

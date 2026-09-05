@@ -1,7 +1,7 @@
 # Baring-Gould
 
 BARING-GOULD, SABINE (1834- ), English novelist, was born at Exeter on the
-28th of January 1834. After graduating at Clare College, Cambridge, he
+28th of January 1834. After graduating at [[Clare]] College, Cambridge, he
 spent some years in travel, and became in 1864 curate of Horbury,
 Yorkshire; then perpetual curate of Dalton, in the same county, in 1867;
 and in 1871 rector of East Mersea, Essex. On his father's death in 1872 he

@@ -18,9 +18,9 @@ himself the right to take further action. Then unable to obtain redress
 in the courts of law, the merchant, in a _Fehdebrief_, threw down a
 challenge, not only to his aggressor, but to the whole of Saxony. Acts
 of lawlessness were soon attributed to him, and after an attempt to
-settle the feud had failed, the elector of Saxony, John Frederick I.,
+settle the feud had failed, the elector of Saxony, [[John Frederick]] I.,
 set a price upon the head of the angry merchant. Kohlhase now sought
-revenge in earnest. Gathering around him a band of criminals and of
+revenge in [[Earnest|earnest]]. Gathering around him a band of criminals and of
 desperadoes he spread terror throughout the whole of Saxony; travellers
 were robbed, villages were burned and towns were plundered. For some
 time the authorities were practically powerless to stop these outrages,
@@ -28,7 +28,7 @@ but in March 1540 Kohlhase and his principal associate, Georg
 Nagelschmidt, were seized, and on the 22nd of the month they were broken
 on the wheel in Berlin.
 
-  The life and fate of Kohlhase are dealt with in several dramas. See
+  The life and [[Fate|fate]] of Kohlhase are dealt with in several [[Drama|dramas]]. See
   Burkhardt, _Der historische Hans Kohlhase und H. von Kleists Michael
   Kohlhaas_ (Leipzig, 1864).
 

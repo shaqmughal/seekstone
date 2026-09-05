@@ -3,14 +3,14 @@
 BOMBAY CITY, the capital of Bombay Presidency, and the chief seaport of
 western India, situated in 18 deg. 55' N. and 72 deg. 54' E. The city
 stands on an island of the same name, which forms one of a group now
-connected by causeways with the mainland. The area is 22 sq. m.; and the
+connected by [[Causeway|causeways]] with the mainland. The area is 22 sq. m.; and the
 population of the town and island (1901) 776,006 (estimate in 1906,
 977,822). Bombay is the second most populous city in the Indian empire,
 having fallen behind Calcutta at the census of 1901. Its position on the
 side of India nearest to Europe, its advantages as a port and a railway
 centre, and its monopoly of the cotton industry, are counteracted by the
 fact that the region which it serves cannot vie with the valley of the
-Ganges in point of fertility and has no great waterway like the Ganges
+[[Ganges]] in point of fertility and has no great waterway like the Ganges
 or Brahmaputra. Nevertheless Bombay pushes Calcutta hard for supremacy
 in point of population and commercial prosperity.
 
@@ -29,7 +29,7 @@ m. between the extreme points of the two ranges of hills. On a slightly
 raised strip of land between the head of Back Bay and the harbour is
 situated the fort, the nucleus of the city of Bombay. From this point
 the land slopes westward towards the central plain, a low-lying tract,
-which before the construction of the embankment known as the Hornby
+which before the construction of the embankment known as the [[Hornby]]
 Vellard, used at high tide to be submerged by the sea. The town itself
 consists of well-built and unusually handsome native bazaars, and of
 spacious streets devoted to European commerce. In the native bazaar the
@@ -40,15 +40,15 @@ of India. The Taj Mahal hotel, which was built by the Tata family in
 1904, is the most palatial and modern hotel in India. The private houses
 of the European residents lie apart alike from the native and from the
 mercantile quarters of the town. As a rule, each is built in a large
-garden or compound; and although the style of architecture is less
+garden or [[Compound|compound]]; and although the style of architecture is less
 imposing than that of the stately residences in Calcutta, it is well
 suited to the climate, and has a beauty and comfort of its own. The
-favourite suburb is Malabar hill, a high ridge running out into the sea,
+favourite suburb is [[Malabar]] hill, a high ridge running out into the sea,
 and terraced to the top by handsome houses, which command one of the
 finest views, of its kind, in the world. Of recent years wealthy natives
 have been competing with Europeans for the possession of this desirable
 quarter. To the right of this ridge, looking towards the sea, runs
-another suburb known as Breach Candy, built close upon the beach and
+another suburb known as [[Breach]] Candy, built close upon the [[Beach|beach]] and
 within the refreshing sound of the waves. To the left of Malabar hill
 lies Back Bay, with a promontory on its farther shore, which marks the
 site of the old Bombay Fort; its walls are demolished, and the area is
@@ -62,17 +62,17 @@ harbour.
 
 No city in the world has a finer water-front than Bombay. The great line
 of public offices along the esplanade and facing Back Bay, which are in
-the Gothic style mixed with Saracenic, are not individually
+the [[Gothic]] style mixed with Saracenic, are not individually
 distinguished for architectural merit, but they have a cumulative effect
 of great dignity. The other most notable buildings in the city are the
 Victoria terminus of the Great Indian Peninsula railway and the Taj
 Mahal hotel. Towards the northern end of Malabar hill lie the Parsee
 Towers of Silence, where the Parsees expose their dead till the flesh is
-devoured by vultures, and then cast the bones into a well where they
-crumble into dust. The foundation-stone of a museum was laid by the
+devoured by vultures, and then cast the [[Bone|bones]] into a well where they
+crumble into [[Dust|dust]]. The foundation-stone of a museum was laid by the
 prince of Wales in 1905.
 
-_Local Government._--The port of Bombay (including docks and warehouses)
+_Local Government._--The port of Bombay (including [[Dock|docks]] and warehouses)
 is managed by a port trust, the members of which are nominated by the
 government from among the commercial community. The municipal government
 of the city was framed by an act of the Bombay legislative council
@@ -87,7 +87,7 @@ corporation. The members of the corporation include Europeans, Hindus,
 Mahommedans and Parsees. The Bombay University was constituted in 1857
 as an examining body, on the model of the university of London. The
 chief educational institutions in Bombay City are the government
-Elphinstone College, two missionary colleges (Wilson and St Xavier), the
+[[Elphinstone]] College, two missionary colleges (Wilson and St Xavier), the
 Grant medical college, the government law school, the Sir Jamsetjee
 Jeejeebhoy school of art, and the Victoria Jubilee technical institute.
 
@@ -117,7 +117,7 @@ influx of a great industrial population from the surrounding districts;
 but the decade 1891-1901 witnessed at least a temporary set-back owing
 to the ravages caused by plague and the effects of over-production. In
 addition to the actual mortality it inflicted, the plague caused an
-exodus of the population from the island, disorganized the labour at the
+[[Exodus|exodus]] of the population from the island, disorganized the labour at the
 docks and in the mills, and swallowed up large sums which were spent by
 the municipality on plague operations and sanitary improvements. After
 1901, however, both population and trade began to revive again. In 1901
@@ -128,7 +128,7 @@ to the diversity of races in India, no city in the world can show a
 greater variety of type than Bombay. The Mahratta race is the dominant
 element next to the European rulers, but in addition to them are a great
 and influential section of Parsee merchants, Arab traders from the Gulf,
-Afghans and Sikhs from northern India, Bengalis, Rajputs, Chinese,
+Afghans and Sikhs from northern India, [[Bengali|Bengalis]], Rajputs, Chinese,
 Japanese, Malays, negroes, Tibetans, Sinhalese and Siamese. Bombay is
 the great port and meeting-place of the Eastern world. Out of the large
 sections of its population, Hindu, Mahommedan, Parsee, Jain and
@@ -159,7 +159,7 @@ _aforamento_ the lands were gradually parcelled out into a number of
 fiefs granted, under the crown of Portugal, to individuals or to
 religious corporations in return for military service or equivalent
 quit-rents. The northern districts were divided among the Franciscans
-and Jesuits, who built a number of churches, some of which still
+and [[Jesuits]], who built a number of churches, some of which still
 survive. The intolerance of their rule did not favour the growth of the
 settlement, which in 1661, when it was transferred to the British, had a
 population of only 10,000. The English had, however, long recognized its
@@ -174,14 +174,14 @@ Catherine of Portugal on her marriage to Charles II., but was not
 actually occupied by the British until 1665, when they experienced much
 difficulty in overcoming the opposition of the Portuguese, and
 especially of the religious orders, to the cession. In 1668 it was
-transferred by the crown to the East India Company, who placed it under
+transferred by the crown to the [[East India Company]], who placed it under
 the factory of Surat.
 
 The real foundation of the modern city dates from this time, and was the
 work of Gerald Aungier (or Angier), brother of Francis Aungier, 3rd Lord
 Aungier of Longford and 1st earl of Longford in Ireland (d. 1700), who
 succeeded Sir George Oxenden as president of Surat in 1669 and died in
-1677. At this time Bombay was threatened by the Mahrattas from inland,
+1677. At this time Bombay was threatened by the [[Mahrattas]] from inland,
 by the Malabar pirates and the Dutch from the sea, and was cut off from
 the mainland by the Portuguese, who still occupied the island of
 Salsette and had established a customs-barrier in the channel between
@@ -190,7 +190,7 @@ directors, who refused to incur the expense of employing skilled
 engineers, Aungier succeeded in fortifying the town and shore; he also
 raised a force of militia and regulars, the latter mainly Germans (as
 more trustworthy than the riffraff collected in London by the Company's
-crimps). In 1672 Aungier transferred his headquarters to Bombay, and
+[[Crimp|crimps]]). In 1672 Aungier transferred his headquarters to Bombay, and
 after frightening off an imposing Dutch fleet, which in 1670 attempted
 to surprise the island, set to work to organize the settlement anew. To
 this task he brought a mind singularly enlightened and a sincere belief
@@ -199,9 +199,9 @@ religious intolerance, and in its cruel and contemptuous treatment of
 the natives, Portuguese rule had been alike oppressive. Aungier altered
 all this. With the consent of "a general assembly of the chief
 representatives of the people" he commuted the burdensome land tax for a
-fixed money payment; he protected all castes in the celebration of their
+fixed money payment; he protected all [[Caste|castes]] in the celebration of their
 religious ceremonies; and he forbade any compulsion of natives to carry
-burdens against their will. The result was that the population of Bombay
+[[Burden|burdens]] against their will. The result was that the population of Bombay
 increased rapidly; a special quarter was set apart for the banya, or
 capitalist, class of Hindus; while Parsees and Armenians flocked to a
 city where they were secure of freedom alike for their trade and their
@@ -213,7 +213,7 @@ he initiated the works for draining the foul tidal swamps; and, failing
 the consent of the Company to the erection of a regular hospital, he
 turned the law court into an infirmary. He also set up three courts of
 justice: a tribunal for petty causes under a factor with native
-assessors, a court of appeal under the deputy governor and members of
+[[Assessor|assessors]], a court of appeal under the deputy governor and members of
 council, and a court-martial. A regular police force was also
 established and a gaol built in the Bazaar.[1]
 
@@ -230,7 +230,7 @@ weak successor (Rolt, 1677-1682), the English waters, the value of which
 had now been proved, became the battle-ground between the rival navies,
 and for some years Bombay lay at the mercy of both. The Company's rule,
 moreover, was exposed to another danger. The niggardly policy of the
-board of directors, more intent on peaceful dividends than on warlike
+board of directors, more [[Intent|intent]] on peaceful dividends than on warlike
 rule, could not but be galling to soldiers of fortune. A mutiny at
 Bombay in 1674 had only been suppressed by the execution of the
 ringleader; and in 1683 a more formidable movement took place under
@@ -243,7 +243,7 @@ government under the immediate authority of the crown. He ruled with
 moderation, reformed the system of taxation, obtained notable
 concessions from the Mahrattas, and increased the trade of the port by
 the admission of "interlopers." But he failed to extend the rebellion
-beyond Bombay; and when a letter arrived, under the royal sign manual,
+beyond Bombay; and when a letter arrived, under the royal sign [[Manual|manual]],
 ordering him to surrender the fort to Sir John Child, appointed admiral
 and captain-general of the Company's forces, he obeyed.[2]
 
@@ -251,7 +251,7 @@ Meanwhile the Company had decided to consider Bombay as "an independent
 settlement, and the seat of the power and trade of the English in the
 East Indies." But a variety of causes set back the development of the
 city, notably the prevalence of plague and cholera due to the silting up
-of the creeks that divided its component islands; and it was not till
+of the [[Creek|creeks]] that divided its component islands; and it was not till
 after the amalgamation of the old and new companies in 1708 that the
 governor's seat was transferred from Surat to Bombay. In 1718 the city
 wall was completed; settlers began to stream in, especially from
@@ -266,7 +266,7 @@ influx of settlers from the mainland made the questions of supplies and
 of the protection of trade from piracy more pressing. The former was in
 part settled by the acquisition of Bankot (1755) as a result of an
 alliance with the peshwa, the latter by the successful expedition under
-Watson and Clive against Vijayadrug (1756). During this period, too, the
+Watson and [[Clive]] against Vijayadrug (1756). During this period, too, the
 importance of Bombay as a naval base, long since recognized, was
 increased by the building of a dock (1750), a second being added in
 1762. The year 1770 saw the beginning of the cotton trade with China,
@@ -283,7 +283,7 @@ congested parts, and greatly stimulated the tendency of the natives to
 build their houses and shops outside the walls of the fort in what are
 now some of the busiest parts of the city.
 
-The British victory over the Mahrattas and the annexation of the Deccan
+The British victory over the Mahrattas and the [[Annexation|annexation]] of the Deccan
 opened a new period of unrestricted development for Bombay. At this
 time, too (1819), its fortunes were vigorously fostered by Mountstuart
 Elphinstone, and in 1838 the population had risen to 236,000. But in the
@@ -310,7 +310,7 @@ FOOTNOTES:
   [1] Hunter, _Hist. of British India_, ii. pp. 212, &c.
 
   [2] See Hunter, op. cit. ii. 205, &c. He received a full pardon, was
-    appointed later to the command of a frigate in the royal navy, and
+    appointed later to the command of a [[Frigate|frigate]] in the royal navy, and
     fell while leading the assault on St Christopher's (June 21, 1690).
 
 
@@ -339,7 +339,7 @@ introducing portions of the native work into furniture of Western
 design. In the main, however, the conventional patterns are still
 adhered to. "Bombay boxes" are inlaid in geometrical patterns on wood.
 The inlaying materials consist of the wire, sandal wood, sapan wood,
-ebony, ivory and stags' horns, and the effect produced by the
+ebony, [[Ivory|ivory]] and stags' [[Horn|horns]], and the effect produced by the
 combination of minute pieces of these various substances is altogether
 peculiar and distinctive.
 

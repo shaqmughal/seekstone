@@ -17,24 +17,24 @@ community of worshippers is autonomous, and on the other from Papalism.
 The origin and development of episcopacy in the Christian Church, and
 the functions and attributes of bishops in the various churches, are
 dealt with elsewhere (see CHURCH HISTORY and BISHOP). Under the present
-heading it is proposed only to discuss briefly the various types of
+heading it is proposed only to [[Discus|discuss]] briefly the various types of
 episcopacy actually existing, and the different principles that they
 represent.
 
 The deepest line of cleavage is naturally between the view that
 episcopacy is a divinely ordained institution essential to the effective
-existence of a church as a channel of grace, and the view that it is
+existence of a church as a channel of [[Grace|grace]], and the view that it is
 merely a convenient form of church order, evolved as the result of a
 variety of historical causes, and not necessary to the proper
 constitution of a church. The first of these views is closely connected
 with the doctrine of the Apostolical Succession. According to this,
-Christ committed to his apostles certain powers of order and
+Christ committed to his [[Apostle|apostles]] certain powers of order and
 jurisdiction in the Church, among others that of transmitting these
 powers to others through "the laying on of hands"; and this power,
 whatever obscurity may surround the practice of the primitive Church
 (see APOSTLE, ad fin.) was very early confined to the order of bishops,
 who by virtue of a special consecration became the successors of the
-apostles in the function of handing on the powers and graces of the
+apostles in the function of handing on the powers and [[Graces|graces]] of the
 ministry.[1] A valid episcopate, then, is one derived in an unbroken
 series of "layings on of hands" by bishops from the time of the apostles
 (see ORDER, HOLY). This is the Catholic view, common to all the ancient
@@ -47,7 +47,7 @@ represents a very special conception of the Christian Church. In the
 fully developed episcopal system the bishop sums up in his own person
 the collective powers of the Church in his diocese, not by delegation of
 these powers from below, but by divinely bestowed authority from above.
-"Ecclesia est in episcopo," wrote St Cyprian (Cyp. iv. _Ep._ 9); the
+"[[Ecclesia]] est in episcopo," wrote St Cyprian (Cyp. iv. _Ep._ 9); the
 bishop, as the successor of the apostles, is the centre of unity in his
 diocese, the unity of the Church as a whole is maintained by the
 intercommunion of the bishops, who for this purpose represent their
@@ -60,18 +60,18 @@ has, of course, fallen upon evil days. The power of the collective
 episcopate to maintain Catholic unity was disproved long before it was
 overshadowed by the centralized authority of Rome; before the
 Reformation, its last efforts to assert its supremacy in the Western
-Church, at the councils of Basel and Constance, had broken down; and the
+Church, at the councils of [[Basel]] and Constance, had broken down; and the
 religious revolution of the 16th century left it largely discredited and
 exposed to a double attack, by the papal monarchy on the one hand and
 the democratic Presbyterian model on the other. Within the Roman
 Catholic Church the high doctrine of episcopacy continued to be
 maintained by the Gallicans and Febronians (see GALLICANISM and
-FEBRONIANISM) as against the claims of the Papacy, and for a while with
+[[Febronianism|FEBRONIANISM]]) as against the claims of the Papacy, and for a while with
 success; but a system which had failed to preserve the unity of the
 Church even when the world was united under the Roman empire could not
 be expected to do so in a world split up into a series of rival states,
 of which many had already reorganized their churches on a national
-basis. "Febronius," indeed, was in favour of a frank recognition of this
+basis. "Febronius," indeed, was in favour of a [[Frank|frank]] recognition of this
 national basis of ecclesiastical organization, and saw in Episcopacy the
 best means of reuniting the dissidents to the Catholic Church, which was
 to consist, as it were, of a free federation of episcopal churches under
@@ -102,7 +102,7 @@ the most important is the Church of England, which has preserved its
 ecclesiastical organization essentially unchanged since its foundation
 by St Augustine, and its daughter churches (see ENGLAND, CHURCH OF, and
 ANGLICAN COMMUNION). The Church of England since the Reformation has
-been the chief champion of the principle of Episcopacy against the papal
+been the chief [[Champion|champion]] of the principle of Episcopacy against the papal
 pretensions on the one hand and Presbyterianism and Congregationalism on
 the other. As to the divine origin of Episcopacy and, consequently, of
 its universal obligation in the Christian Church, Anglican opinion has
@@ -144,10 +144,10 @@ English clergy to revert to the principle _Ecclesia est in episcopo_,
 and the great periodical conferences of Anglican bishops from all parts
 of the world have something of the character, though they do not claim
 the ecumenical authority, of the general councils of the early Church
-(see LAMBETH CONFERENCES).
+(see [[Lambeth Conferences|LAMBETH CONFERENCES]]).
 
 Of the reformed Churches of the continent of Europe only the Lutheran
-Churches of Denmark, Iceland, Norway, Sweden and Finland preserve the
+Churches of [[Denmark]], [[Iceland]], Norway, Sweden and [[Finland]] preserve the
 episcopal system in anything of its historical sense; and of these only
 the two last can lay claim to the possession of bishops in the unbroken
 line of episcopal succession.[5] The superintendents (variously entitled
@@ -166,7 +166,7 @@ Episcopacy in a stricter sense is the system of the Moravian Brethren
 the case of the former, claim is laid to the unbroken episcopal
 succession through the Waldenses, and the question of their eventual
 intercommunion with the Anglican Church was accordingly mooted at the
-Lambeth Conference of 1908. The bishops of the Methodist Episcopal
+[[Lambeth]] Conference of 1908. The bishops of the Methodist Episcopal
 Church, on the other hand, derive their orders from Thomas Coke, a
 presbyter of the Church of England, who in 1784 was ordained by John
 Wesley, assisted by two other presbyters, "superintendent" of the
@@ -178,21 +178,21 @@ East and West.
 
 In all of these ancient churches episcopacy is regarded as of divine
 origin; and in those of them which reject the papal supremacy the
-bishops are still regarded as the guardians of the tradition of
+bishops are still regarded as the [[Guardian|guardians]] of the tradition of
 apostolic orthodoxy and the stewards of the gifts of the Holy Ghost to
-men (see ORTHODOX EASTERN CHURCH; ARMENIAN CHURCH; COPTS: _Coptic
+men (see ORTHODOX EASTERN CHURCH; ARMENIAN CHURCH; [[Copts|COPTS]]: _Coptic
 Church_, &c). In the West, Gallican and Febronian Episcopacy are
 represented by two ecclesiastical bodies: the Jansenist Church under the
-archbishop of Utrecht (see JANSENISM and UTRECHT), and the Old Catholics
+archbishop of Utrecht (see [[Jansenism|JANSENISM]] and UTRECHT), and the Old Catholics
 (q.v.). Of these the latter, who separated from the Roman communion
-after the promulgation of the dogma of papal infallibility, represent a
+after the promulgation of the dogma of papal [[Infallibility|infallibility]], represent a
 pure revolt of the system of Episcopacy against that of Papalism.
      (W. A. P.)
 
 
 FOOTNOTES:
 
-  [1] See Bishop C. Gore, _The Church and the Ministry_ (1887).
+  [1] See Bishop C. [[Gore]], _The Church and the Ministry_ (1887).
 
   [2] Neither the Articles nor the authoritative Homilies of the Church
     of England speak of episcopacy as essential to the constitution of a
@@ -229,13 +229,13 @@ FOOTNOTES:
     both by Roman Catholics and by Protestants. In 1528 Magnusson
     consecrated bishops to fill the vacant sees, and, assisted by one of
     these, Magnus Sommar, bishop of Strengness, he afterwards consecrated
-    the Reformer, Lawrence Peterson, as archbishop of Upsala, Sept. 22,
+    the Reformer, [[Lawrence]] Peterson, as archbishop of Upsala, Sept. 22,
     1531. Some doubt has been raised as to the validity of the
     consecration of Peterson's successor, also named Lawrence Peterson,
     in 1575, from the insufficiency of the documentary evidence of the
     consecration of his consecrator, Paul Justin, bishop of Abo. The
     integrity of the succession has, however, been accepted after
-    searching investigation by men of such learning as Grabe and Routh,
+    searching investigation by men of such learning as [[Grabe]] and Routh,
     and has been formally recognized by the convention of the American
     Episcopal Church. The succession to the daughter church of Finland,
     now independent, stands or falls with that of Sweden.
@@ -246,27 +246,27 @@ FOOTNOTES:
 EPISCOPIUS, SIMON (1583-1643), the Latin form of the name of Simon
 Bischop, Dutch theologian, was born at Amsterdam on the 1st of January
 1583. In 1600 he entered the university of Leiden, where he studied
-theology under Jacobus Arminius, whose teaching he followed. In 1610,
+theology under Jacobus [[Arminius]], whose teaching he followed. In 1610,
 the year in which the Arminians presented the famous Remonstrance to the
 states of Holland, he became pastor at Bleyswick, a small village near
 Rotterdam; in the following year he advocated the cause of the
-Remonstrants (q.v.) at the Hague conference. In 1612 he succeeded
-Francis Gomarus as professor of theology at Leiden, an appointment which
+Remonstrants (q.v.) at the [[Hague]] conference. In 1612 he succeeded
+Francis [[Gomarus]] as professor of theology at Leiden, an appointment which
 awakened the bitter enmity of the Calvinists, and, on account of the
-influence lent by it to the spread of Arminian opinions, was doubtless
-an ultimate cause of the meeting of the synod of Dort in 1618.
+influence [[Lent|lent]] by it to the spread of Arminian opinions, was doubtless
+an ultimate cause of the meeting of the synod of [[Dort]] in 1618.
 Episcopius was chosen as the spokesman of the thirteen representatives
 of the Remonstrants before the synod; but he was refused a hearing, and
 the Remonstrant doctrines were condemned without any explanation or
 defence of them being permitted. At the end of the synod's sittings in
 1619, Episcopius and the other twelve Arminian representatives were
 deprived of their offices and expelled from the country (see DORT, SYNOD
-OF). Episcopius retired to Antwerp and ultimately to France, where he
+OF). Episcopius retired to [[Antwerp]] and ultimately to France, where he
 lived partly at Paris, partly at Rouen. He devoted most of his time to
-writings in support of the Arminian cause; but the attempt of Luke
+writings in support of the Arminian cause; but the attempt of [[Luke]]
 Wadding (1588-1657) to win him over to the Romish faith involved him
 also in a controversy with that famous Jesuit. After the death (1625) of
-Maurice, prince of Orange, the violence of the Arminian controversy
+[[Maurice]], prince of Orange, the violence of the Arminian controversy
 began to abate, and Episcopius was permitted in 1626 to return to his
 own country. He was appointed preacher at the Remonstrant church in
 Rotterdam and afterwards rector of the Remonstrant college in Amsterdam.

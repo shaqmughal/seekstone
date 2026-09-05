@@ -2,8 +2,8 @@
 
 ANKLE, or ANCLE (a word common, in various forms, to Teutonic languages,
 probably connected in origin with the Lat. _angulus_, or Gr. [Greek:
-ankulos], bent), the joint which connects the foot with the leg (see
-JOINTS).
+ankulos], bent), the joint which connects the foot with the [[Leg|leg]] (see
+[[Joints|JOINTS]]).
 
 ## References
 

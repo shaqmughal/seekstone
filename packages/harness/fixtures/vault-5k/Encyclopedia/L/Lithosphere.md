@@ -5,7 +5,7 @@ sphere), the crust of the earth surrounding the earth's nucleus. The
 superficial soil, a layer of loose earthy material from a few feet to a
 few hundreds of feet in thickness, lies upon a zone of hard rock many
 thousands of feet in thickness but varying in character, and composed
-mainly of sandstones, shales, clays, limestones and metamorphic rocks.
+mainly of sandstones, shales, clays, [[Limestone|limestones]] and metamorphic rocks.
 These two layers form the lithosphere. All the tectonic movements of the
 solid nucleus produce changes in the mobile lithosphere. Volcanic and
 seismic activity is manifested, mountains are folded, levels change,
@@ -18,7 +18,7 @@ less permanent character.
 
 LITHUANIANS and LETTS, two kindred peoples of Indo-European origin,
 which inhabit several western provinces of Russia and the north-eastern
-parts of Poland and Prussia, on the shores of the Baltic Sea, and in the
+parts of Poland and Prussia, on the shores of the [[Baltic Sea]], and in the
 basins of the Niemen and of the Duna. Large colonies of Lithuanian and
 Lettic emigrants have been established in the United States. The two
 races number about 3,500,000, of whom 1,300,000 are Letts. Little is
@@ -31,8 +31,8 @@ together with two other branches of the same stem--the Borussians and
 the Letts--they occupied the south-eastern coast of the Baltic Sea from
 the Vistula to the Duna, extending north-east towards the Lakes
 Vierzi-järvi and Peipus, south-east to the watershed between the
-affluents of the Baltic and those of the Black Sea, and south to the
-middle course of the Vistula (Brest Litovsk)--a tract bounded by Finnish
+affluents of the Baltic and those of the [[Black Sea]], and south to the
+middle course of the Vistula ([[Brest]] Litovsk)--a tract bounded by Finnish
 tribes in the north, and by Slavs elsewhere.
 
 Inhabiting a forested, marshy country the Lithuanians have been able to
@@ -55,12 +55,12 @@ _Zemailey_), the "Lowlanders." To these main branches must be added the
 _Yatvyags_, or _Yadzvings_, a warlike, black-haired people who inhabited
 the forests at the upper tributaries of the Niemen and Bug, and the
 survivors of whom are easily distinguishable as a mixture with
-White-Russians and Mazurs in some parts of Grodno, Plotsk, Lomza and
+White-Russians and Mazurs in some parts of [[Grodno]], Plotsk, Lomza and
 Warsaw. Nestor's chronicle distinguishes also the _Zhemgala_, who later
 became known under the name of _Semigallia_, and in the 10th century
 inhabited the left bank of the Duna. Several authors consider also as
 Lithuanians the _Kors_ of Russian chronicles, or _Courons_ of Western
-authors, who inhabited the peninsula of Courland, and the _Golad_, a
+authors, who inhabited the peninsula of [[Courland]], and the _Golad_, a
 clan settled on the banks of the Porotva, tributary of the Moskva river,
 which seems to have been thrown far from the main stem during its
 migration to the north. The _Krivichi_, who inhabited what is now the
@@ -114,7 +114,7 @@ Keistut, soon became the more powerful. They represented two different
 tendencies which existed at that time in Lithuania. Olgierd, whose
 family relations attracted him towards the south, was the advocate of
 union with Russia; rather politician than warrior, he increased his
-influence by diplomacy and by organization. His wife and sons being
+influence by [[Diplomacy|diplomacy]] and by organization. His wife and sons being
 Christians, he also soon agreed to be baptized in the Greek Church.
 Keistut represented the revival of the Lithuanian nationality.
 Continually engaged in wars with Livonia, and remaining true to the
@@ -126,7 +126,7 @@ married the queen of Poland, Yadviga, after having been baptized in the
 Latin Church, was crowned, on the 14th of February 1386, king of Poland.
 At the beginning of the 15th century Lithuania extended her dominions as
 far east as Vyazma on the banks of the Moskva river, the present
-government of Kaluga, and Poutivl, and south-east as far as Poltava, the
+government of [[Kaluga]], and Poutivl, and south-east as far as Poltava, the
 shores of the Sea of Azov, and Haji-bey (Odessa), thus including Kiev
 and Lutsk. The union with Poland remained, however, but nominal until
 1569, when Sigismund Augustus was king of Poland. In the 16th century
@@ -135,7 +135,7 @@ centuries before, but it constituted a compact state, including Polotsk,
 Moghilev, Minsk, Grodno, Kovno, Vilna, Brest, and reaching as far
 south-east as Chernigov. From the union with Poland, the history of
 Lithuania becomes a part of Poland's history, Lithuanians and
-White-Russians partaking of the fate of the Polish kingdom (see POLAND:
+White-Russians partaking of the [[Fate|fate]] of the Polish kingdom (see POLAND:
 _History_). After its three partitions, they fell under the dominion of
 the Russian empire. In 1792 Russia took the provinces of Moghilev and
 Polotsk, and in 1793 those of Vilna, Troki, Novgorod-Syeversk, Brest and
@@ -162,9 +162,9 @@ lands as far as the government of Voronezh.
 
   The Lithuanians are well built; the face is mostly elongated, the
   features fine; the very fair hair, blue eyes and delicate skin
-  distinguish them from Poles and Russians. Their dress is usually plain
+  distinguish them from Poles and Russians. Their [[Dress|dress]] is usually plain
   in comparison with that of Poles, and the predominance in it of
-  greyish colours has been frequently noticed. Their chief occupation is
+  greyish [[Colours|colours]] has been frequently noticed. Their chief occupation is
   agriculture. The trades in towns are generally carried on by men of
   other races--mostly by Germans, Jews or Poles. The only exception is
   afforded to some extent by the Letts. The Samogitians are good
@@ -210,7 +210,7 @@ their structure the Baltic languages appear to be more primitive than
 the Slavonic. Lithuanian, for example, retains the archaic diphthongs
 which disappear in Slavonic--Lith. _véidas_, "face," Gr. [Greek: eidos],
 O.S. _vidu_. Among other noteworthy phonological characteristics of
-Lithuanian are the conversion of _k_ into a sibilant, the loss of _h_
+Lithuanian are the [[Conversion|conversion]] of _k_ into a sibilant, the loss of _h_
 and change of all aspirates into tenues and the retention of primitive
 consonantal noun-terminations, e.g. the final _s_ in Sans. _Vrkás_,
 Lith. _vilkas_, O.S. _vulku_. Lettic is phonologically less archaic than
@@ -222,7 +222,7 @@ fixed on the first syllable.
 
   In its morphology Lettic represents a later stage of development than
   Lithuanian, their mutual relationship being analogous to that between
-  Old High German and Gothic. Both languages have preserved seven out of
+  Old High German and [[Gothic]]. Both languages have preserved seven out of
   the eight Indo-European cases; Lithuanian has three numbers, but
   Lettic has lost the dual (except in _diwi_, "two" and _abbi_, "both");
   the neuter gender, which still appears in Lithuanian pronouns, has
@@ -290,11 +290,11 @@ of whom wrote in Lettic.
 
   BIBLIOGRAPHY.--Lithuanian dictionaries: Nesselmann, _Wörterbuch der
   litauischen Sprache_ (Königsberg, 1851); Kurschat, _Wörterbuch der
-  litauischen Sprache_ (Halle, 1870-1883); A. Juszkiewicz, _Litovskiy
+  litauischen Sprache_ ([[Halle]], 1870-1883); A. Juszkiewicz, _Litovskiy
   Slovar_ (St Petersburg, 1897, &c.); P. Saurusaitis, _An Abridged
   Dictionary of the English-Lithuanian Languages_, 2 pts. (Waterbury,
   Conn., 1899-1900); A. Lalis, _Dictionary of the Lithuanian and English
-  Languages_ (Chicago, 1903, &c.). Grammar and Linguistic: Schleicher,
+  Languages_ ([[Chicago]], 1903, &c.). Grammar and Linguistic: Schleicher,
   _Handbuch der litauischen Sprache_ (Prague, 1856-1857); O. Wiedemann,
   _Handbuch der litauischen Sprache_ (Strassburg, 1897); A.
   Bezzenberger, _Beiträge zur Geschichte der litauischen Sprache_

@@ -7,11 +7,11 @@ where Albert received an elementary education. Soon after leaving school
 he was apprenticed to a printer at Pont Audemer, where he produced a
 three-act play at the local theatre. He then joined a travelling company
 of actors to whom he acted as prompter. Inspired primarily by the study
-of Theodore de Banville, he published his _Vignes folles_ in 1857; his
+of Theodore de [[Banville]], he published his _Vignes folles_ in 1857; his
 best collection of lyrics, _Les Fleches d'or_, appeared in 1864; and a
-third volume, _Gilles et pasquins_, in 1872. After Glatigny settled in
+third volume, _[[Gill|Gilles]] et pasquins_, in 1872. After Glatigny settled in
 Paris he improvised at cafe concerts and wrote several one-act plays. On
-an expedition to Corsica with a travelling company he was on one
+an expedition to [[Corsica]] with a travelling company he was on one
 occasion arrested and put in irons for a week through being mistaken by
 the police for a notorious criminal. His marriage with Emma Dennie
 brought him great happiness, but the hardships of his life weakened his

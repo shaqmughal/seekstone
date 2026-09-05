@@ -8,7 +8,7 @@ id: 42-1634
 # Baliol
 
 BALIOL, JOHN DE (1249-1315), king of Scotland, was a son of John de Baliol
-(d. 1269) of Barnard Castle, Durham, by his wife Dervorguila, daughter of
+(d. 1269) of [[Barnard Castle]], Durham, by his wife Dervorguila, daughter of
 Alan, earl of Galloway, and became head of the Baliol family (see above)
 and lord of extensive lands in England, France and Scotland on his elder
 brother's death in 1278. Little else, however, is known of his early life.
@@ -19,7 +19,7 @@ whose pretensions were seriously considered. Claiming through his maternal
 grandmother, Margaret, the eldest daughter of David, earl of Huntingdon (d.
 1219), who was a grandson of King David I., Baliol's principal rival was
 Robert Bruce, earl of Annandale, and the dispute was the somewhat familiar
-one of the eldest by descent against the nearest of kin. Meanwhile the
+one of the eldest by descent against the nearest of [[Kin|kin]]. Meanwhile the
 English king, Edward I., was closely watching the trend of affairs in
 Scotland and was invited to settle this dispute. It is doubtful what
 rights, if any, the English kings had over Scotland, but when Edward met
@@ -32,7 +32,7 @@ Traversing the statements made in favour of Bruce, Baliol claimed by the
 principles of feudal law for an indivisible inheritance, and on the advice
 of the court Edward decided in his favour. Having sworn fealty to the
 English king, Baliol was crowned king of Scotland at Scone on the 30th of
-November 1292; in his new capacity he did homage to Edward at Newcastle,
+November 1292; in his new capacity he did [[Homage|homage]] to Edward at Newcastle,
 and in January 1293 released the English king from all promises and
 obligations made while the kingdom of Scotland was in his hands. These
 amicable relations were soon disturbed. A Scottish vassal carried his case

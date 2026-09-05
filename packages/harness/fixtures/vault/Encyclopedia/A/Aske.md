@@ -9,10 +9,10 @@ id: 42-5085
 
 # Aske
 
-ASKE, ROBERT (d. 1537), English rebel, was a country gentleman who
+ASKE, ROBERT (d. 1537), English rebel, was a country [[Gentleman|gentleman]] who
 belonged to an ancient family long settled in Yorkshire, his mother
 being a daughter of John, Lord Clifford. When in 1536 the insurrection
-called the "Pilgrimage of Grace" broke out in Yorkshire, Aske was made
+called the "Pilgrimage of [[Grace]]" broke out in Yorkshire, Aske was made
 leader; and marching with the banner of St Cuthbert and with the badge
 of the "five wounds," he occupied York on the 16th of October and on the
 20th captured Pontefract Castle, with Lord Darcy and the archbishop of
@@ -22,9 +22,9 @@ proclamation, announcing his intention of marching to London to declare
 the grievances of the commons to the sovereign himself, secure the
 expulsion of counsellors of low birth, and obtain restitution for the
 church. The whole country was soon in the hands of the rebels, a
-military organization with posts from Newcastle to Hull was established,
-and Hull was provided with cannon. Subsequently Aske, followed by 30,000
-or 40,000 men, proceeded towards Doncaster, where lay the duke of
+military organization with posts from Newcastle to [[Hull]] was established,
+and Hull was provided with [[Cannon|cannon]]. Subsequently Aske, followed by 30,000
+or 40,000 men, proceeded towards [[Doncaster]], where lay the duke of
 Norfolk with the royal forces, which, inferior in numbers, would
 probably have been overwhelmed had not Aske persuaded his followers to
 accept the king's pardon, and the promise of a parliament at York and to
@@ -46,11 +46,11 @@ excuse for breaking off the treaty and sending another army under
 Norfolk into Yorkshire. Possibly in these fresh circumstances Aske may
 have given cause for further suspicions of his loyalty, and in his last
 confession he acknowledged that communications to obtain aid had been
-opened with the imperial ambassador and were contemplated with Flanders.
+opened with the imperial ambassador and were contemplated with [[Flanders]].
 But it is more probable that the government had from the first
 treacherously affected to treat him with confidence to secure the
 secrets of the rebels and to effect his destruction. In March Norfolk
-congratulated Cromwell on the successful accomplishment of his task,
+congratulated [[Cromwell]] on the successful accomplishment of his task,
 having persuaded Aske to go to London on false assurances of security.
 He was arrested in April, tried before a commission at Westminster, and
 sentenced to death for high treason on the 17th of May; and on the 28th

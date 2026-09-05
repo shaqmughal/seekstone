@@ -2,14 +2,14 @@
 
 CAMERA OBSCURA, an optical apparatus consisting of a darkened chamber
 (for which its name is the Latin rendering) at the top of which is
-placed a box or lantern containing a convex lens and sloping mirror, or
+placed a [[Box|box]] or [[Lantern|lantern]] containing a [[Convex|convex]] lens and sloping mirror, or
 a prism combining the lens and mirror. If we hold a common reading lens
-(a magnifying lens) in front of a lamp or some other bright object and
+(a magnifying lens) in front of a [[Lamp|lamp]] or some other [[Bright|bright]] object and
 at some distance from it, and if we hold a sheet of paper vertically at
 a suitable distance behind the lens, we see depicted on the paper an
-image of the lamp. This image is inverted and perverted. If now we place
+[[Image|image]] of the lamp. This image is inverted and perverted. If now we place
 a plane mirror (e.g. a lady's hand glass) behind the lens and inclined
-at an angle of 45° to the horizon so as to reflect the rays of light
+at an angle of 45° to the [[Horizon|horizon]] so as to reflect the rays of light
 vertically downwards, we can produce on a horizontal sheet of paper an
 unperverted image of the bright object (fig. 1), i.e. the image has the
 same appearance as the object and is not perverted as when the
@@ -19,7 +19,7 @@ sketching from nature before the introduction of photography, although
 it is now scarcely to be seen except as an interesting side-show at
 places of popular resort. The image formed on the paper may be traced
 out by a pencil, and it will be noticed that in this case the image is
-real--not virtual as in the case of the camera lucida. Generally the
+real--not virtual as in the case of the [[Camera Lucida|camera lucida]]. Generally the
 mirror and lens are combined into a single piece of worked glass
 represented in section in fig. 2. Rays from external objects are first
 refracted at the convex surface _a b,_ then totally reflected at the
@@ -27,7 +27,7 @@ plane surface _a c,_ and finally refracted at the concave surface _b c_
 (fig. 2) so as to form an image on the sheet of paper _d e_. The curved
 surfaces take the place of the lens in fig. 1, and the plane surface
 performs the function of the mirror. The prism _a b c_ is fixed at the
-top of a small tent furnished with opaque curtains so as to prevent the
+top of a small tent furnished with opaque [[Curtain|curtains]] so as to prevent the
 diffused daylight from overpowering the image on the paper, and in the
 darkened tent the images of external objects are seen very distinctly.
 
@@ -41,10 +41,10 @@ vessels, the _periscope_ being simply a camera obscura under a new name.
 
 _History_.--The invention of this instrument has generally been
 ascribed, as in the ninth edition of this work, to the famous Neapolitan
-savant of the 16th century, Giovanni Battista della Porta, but as a
+savant of the 16th century, Giovanni Battista [[Della Porta|della Porta]], but as a
 matter of fact the principle of the simple camera obscura, or darkened
-chamber with a small aperture in a window or shutter, was well known and
-in practical use for observing eclipses long before his time. He was
+chamber with a small [[Aperture|aperture]] in a window or shutter, was well known and
+in practical use for observing [[Eclipse|eclipses]] long before his time. He was
 anticipated in the improvements he claimed to have made in it, and all
 he seems really to have done was to popularize it. The increasing
 importance of the camera obscura as a photographic instrument makes it
@@ -85,13 +85,13 @@ Witelo, a Pole.
 That Roger Bacon was acquainted with the principle of the camera obscura
 is shown by his attempt at solving Aristotle's problem stated above, in
 the treatise _De Speculis,_ and also from his references to Alhazen's
-experiments of the same kind, but although Dr John Freind, in his
-_History of Physick,_ has given him the credit of the invention on the
+experiments of the same kind, but although Dr John [[Freind]], in his
+_History of Physick,_ has given him the [[Credit|credit]] of the invention on the
 strength of a passage in the _Perspectiva_, there is nothing to show
 that he constructed any instrument of the kind. His arrangement of
 concave and plane mirrors, by which the realistic images of objects
 inside the house or in the street could be rendered visible though
-intangible, there alluded to, may apply to a camera on Cardan's
+intangible, there alluded to, may apply to a [[Camera|camera]] on Cardan's
 principle or to a method of aerial projection by means of concave
 mirrors, which Bacon was quite familiar with, and indeed was known long
 before his time. On the strength of similar arrangements of lenses and
@@ -108,7 +108,7 @@ first published in 1535. A later edition was published, together with a
 translation of Alhazen, by F. Risner in 1572.
 
 The first practical step towards the development of the camera obscura
-seems to have been made by the famous painter and architect, Leon
+seems to have been made by the famous painter and architect, [[Leon]]
 Battista Alberti, in 1437, contemporaneously with the invention of
 printing. It is not clear, however, whether his invention was a camera
 obscura or a show box, but in a fragment of an anonymous biography of
@@ -130,16 +130,16 @@ this connexion.
 G.B.I.T. Libri-Carucci dalla Sommaja (1803-1869), in his account of the
 invention of the camera obscura in Italy (_Histoire des sciences
 mathématiques en Italic,_ iv. 303), makes no mention of Alberti, but
-draws attention to an unpublished MS. of Leonardo da Vinci, which was
+draws attention to an unpublished MS. of [[Leonardo Da Vinci|Leonardo da Vinci]], which was
 first noticed by Venturi in 1797, and has since been published in
 facsimile in vol. ii. of J.G.F. Ravaisson-Mollien's reproductions of the
 MSS. in the Institut de France at Paris (MS. _D_, fol. 8 _recto_). After
 discussing the structure of the eye he gives an experiment in which the
 appearance of the reversed images of outside objects on a piece of paper
 held in front of a small hole in a darkened room, with their forms and
-colours, is quite clearly described and explained with a diagram, as an
+[[Colours|colours]], is quite clearly described and explained with a diagram, as an
 illustration of the phenomena of vision. Another similar passage is
-quoted by Richter from folio 404b of the reproduction of the _Codice
+quoted by Richter from [[Folio|folio]] 404b of the reproduction of the _Codice
 Atlantico,_ in Milan, published by the Italian government. These are
 probably the earliest distinct accounts of the natural phenomena of the
 camera obscura, but remained unpublished for some three centuries.
@@ -177,7 +177,7 @@ _De Radio Astronomico et Geometrico_ (1545). He says they can be used
 for observation of the moon and stars and also for longitudes. The same
 arrangement was used by Copernicus, Tycho Brahe, by M. Moestlin and his
 pupil Kepler--the latter applying it in 1607 to the observation of a
-transit of Mercury--also by Johann Fabricius, in 1611, for the first
+transit of Mercury--also by Johann [[Fabricius]], in 1611, for the first
 observations of sun-spots. It is interesting to note this early
 employment of the camera obscura in the field of astronomical research,
 in which its latest achievements have been of such pre-eminent value.
@@ -209,17 +209,17 @@ observations. The second edition, in which he in the same words
 discloses the use of a convex lens in the aperture as a secret he had
 intended to keep, was not published till 1589, thirty-one years after
 the first. In this interval the use of the lens was discovered and
-clearly described by Daniello Barbaro, a Venetian noble, patriarch of
-Aquileia, in his work _La Pratica della perspettiva_ (p. 192), published
+clearly described by Daniello [[Barbaro]], a Venetian noble, patriarch of
+[[Aquileia]], in his work _La Pratica della perspettiva_ (p. 192), published
 in 1568, or twenty-one years before Porta's mention of it. The lens used
 by Barbaro was an ordinary convex or old man's spectacle-glass; concave,
 he says, will not do. He shows how the paper must be moved till it is
-brought into the focus of the lens, the use of a diaphragm to make the
+brought into the [[Focus|focus]] of the lens, the use of a [[Diaphragm|diaphragm]] to make the
 image clearer, and also the application of the method for drawing in
 true perspective. That Barbaro was really the first to apply the lens to
-the camera obscura is supported by Marius Bettinus in his _Apiaria_
+the camera obscura is supported by [[Marius]] Bettinus in his _Apiaria_
 (1645), and by Kaspar Schott in his _Magia Universalis_ (1657), the
-former taunting Porta with the appropriation.
+former taunting Porta with the [[Appropriation|appropriation]].
 
 In an Italian translation of Euclid's _Optica_, with commentary,
 Egnacio Danti (1573), after discussing the effects of plane, convex and
@@ -237,7 +237,7 @@ probably the first notice of the application of the camera to
 cartography and the reproduction of drawings, which is one of its
 principal uses at the present time. In the _Diversarum Speculationum
 Mathematicarum el Physicarum_ (1585), by the Venetian Giovanni Battista
-Benedetti, there is a letter in which he discusses the simple camera
+[[Benedetti]], there is a letter in which he discusses the simple camera
 obscura and mentions the improvement some one had made in it by the use
 of a double convex lens in the aperture; he also says that the images
 could be made erect by reflection from any plane mirror.
@@ -332,7 +332,7 @@ Systematic or Cosmical Qualities of Things_ (ch. vi.), written about
 improved. It could be extended or shortened like a telescope. At one end
 of it paper was stretched, and at the other a convex lens was fitted in
 a hole, the image being viewed through an aperture at the top of the
-box. Robert Hooke, who was some time Boyle's assistant, described
+box. Robert [[Hooke]], who was some time Boyle's assistant, described
 (_Phil. Trans._, 1668, 3, p. 741) a camera lucida on the principle of
 the magic lantern, in which the images of illuminated and inverted
 objects were projected on any desired scale by means of a broad convex
@@ -374,12 +374,12 @@ and their combinations for telescopic projection, rules for finding
 foci, &c. He does not, however, mention the camera obscura as an
 instrument in use, but in John Harris's _Lexicon Technicum_ (1704) we
 find that the camera obscura with the arrangement called the "scioptric
-ball," and known as _scioptricks_, was on sale in London, and after this
+[[Ball|ball]]," and known as _scioptricks_, was on sale in London, and after this
 must have been in common use as a sketching instrument or as a show.
 
-Sir Isaac Newton, in his _Opticks_ (1704), explains the principle of the
+Sir [[Isaac]] Newton, in his _Opticks_ (1704), explains the principle of the
 camera obscura with single convex lens and its analogy with vision in
-illustration of his seventh axiom, which aptly embodies the correct
+illustration of his seventh [[Axiom|axiom]], which aptly embodies the correct
 solution of Aristotle's old problem. He also made great use of the
 simple dark chamber for his optical experiments with prisms, &c. Joseph
 Priestley (1772) mentions the application of the solar microscope, both

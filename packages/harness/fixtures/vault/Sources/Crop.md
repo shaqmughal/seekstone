@@ -15,13 +15,13 @@ Fr. as _croupe_, whence the English "crupper"; and in Ital. _groppo_,
 whence English "group"), the _ingluvies_, or pouched expansion of a
 bird's oesophagus, in which the food remains to undergo a preparatory
 process of digestion before being passed into the true stomach. From the
-meaning of "top" or "head," as applied to a plant, herb or flower, comes
+meaning of "top" or "head," as applied to a plant, [[Herb|herb]] or [[Flower|flower]], comes
 the common use of the word for the produce of cereals or other
 cultivated plants, the wheat-crop, the cotton-crop and the like, and
 generally, "the crops"; more particular expressions are the
 "white-crop," for such grain crops as barley or wheat, which whiten as
 they grow ripe and "green-crop" for such as roots or potatoes which do
-not, and also for those which are cut in a green state, like clover (see
+not, and also for those which are cut in a green state, like [[Clover|clover]] (see
 AGRICULTURE). Other uses, more or less technical, of the word are, in
 leather-dressing, for the whole untrimmed hide; in mining and geology,
 for the "outcrop" or appearance at the surface of a vein or stratum and,
@@ -30,7 +30,7 @@ dressing. A "hunting-crop" is a short thick stock for a whip, with a
 small leather loop at one end, to which a thong may be attached. From
 the verb "to crop," i.e. to take off the top of anything, comes "crop"
 meaning a closely cut head of hair, found in the name "croppy" given to
-the Roundheads at the time of the Great Rebellion, to the Catholics in
+the Roundheads at the time of the [[Great Rebellion]], to the Catholics in
 Ireland in 1688 by the Orangemen, probably with reference to the
 priests' tonsures, and to the Irish rebels of 1798, who cut their hair
 short in imitation of the French revolutionaries.

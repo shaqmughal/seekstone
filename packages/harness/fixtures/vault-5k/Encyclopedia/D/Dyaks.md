@@ -17,7 +17,7 @@ aliens, the Dyaks are of the same stock as the Malays. For themselves
 they have no general name; but, broken as they are into numerous tribes,
 they are distinguished by separate tribal names, many of which seem to
 be merely those of the rivers on which their settlements are situated.
-Sir Harry Keppel, who attempted to form a classification of the Dyaks
+Sir Harry Keppel, who attempted to form a [[Classification|classification]] of the Dyaks
 according to their ethnographical affinity, divides them into five
 principal branches. The first of these, which he calls the
 north-western, includes the natives of Sadong, Sarawak, Sambas, Landak,
@@ -42,7 +42,7 @@ are broad; the hair is black, and the colour of the skin a pure reddish
 brown, frequently, in the female, approaching the Chinese complexion.
 The beard is generally scanty, and in many tribes the men pull out all
 the hair of the face. Both sexes file, dye, and sometimes bore holes in
-the teeth and insert gold buttons. In dress there is considerable
+the teeth and insert gold buttons. In [[Dress|dress]] there is considerable
 variety, great alterations having resulted from foreign influence. The
 original and still prevailing style is simple, consisting of a
 waistcloth, generally of blue cotton, for the men, and a tight-fitting
@@ -50,13 +50,13 @@ petticoat for the women, who acquire a peculiar mincing gait from its
 interference with their walking. The favourite ornaments of both sexes
 are brass rings for the legs and arms, hoops of rattan decorated in
 various ways, necklaces of white and black beads, and crescent-shaped
-ear-rings of a large size. The lobes of the ears are distended sometimes
+[[Ear-Ring|ear-rings]] of a large size. The [[Lobe|lobes]] of the [[Ear|ears]] are distended sometimes
 nearly to the shoulders by disks of metal and bits of stick. Tattooing
 is practised by most of the tribes, and the skulls of infants are
 artificially deformed. The men usually go bare-headed, or wear a
 bright-coloured kerchief. The custom of betel-chewing being most
 universal, the betel-pouch is always worn at the side. The weapons in
-use are a curved sword and a long spear. The bow is unknown, but its
+use are a curved sword and a long spear. The [[Bow|bow]] is unknown, but its
 place among some tribes is partly supplied by the blowpipe, in the
 boring of which they show great skill. When going to war the Dyak wears
 a strong padded jacket, which proves no bad defence. A curious custom
@@ -79,12 +79,12 @@ ordeal by poison or otherwise. Offerings are made to the dead, and there
 is a very strong belief in the existence of evil spirits, and all kinds
 of calamities and diseases are ascribed to their malignity. Thus almost
 the whole medical system of the Dyaks consists in the application of
-appropriate charms or the offerings of conciliatory sacrifices. Many of
+appropriate [[Charm|charms]] or the offerings of conciliatory sacrifices. Many of
 those natives who have had much intercourse with the Malays have adopted
 a kind of mongrel Mahommedanism, with a mixture of Hindu elements. The
 transmigration of souls seems to be believed in by some tribes; and some
 have a system of successive heavens rising one above the other very much
-in the style of the Hindu cosmogony. In the treatment of their dead much
+in the style of the Hindu [[Cosmogony|cosmogony]]. In the treatment of their dead much
 variety prevails; they are sometimes buried, sometimes burned, and
 sometimes elevated on a lofty framework. The Dyaks have no exact
 calculation of the year, and simply name the months first month, second
@@ -122,11 +122,11 @@ whose mother the father has not at its birth presented skulls. The young
 man is not admitted to full tribal rights, nor can he woo a bride with
 any hope of success, until he has a skull or more to adorn his hut; a
 chief's authority would not be acknowledged without such trophies of his
-prowess. The strictest rules govern head-hunting; a period of fasting
+prowess. The strictest rules govern head-hunting; a period of [[Fasting|fasting]]
 and confession, of isolation in a taboo hut, precedes the expedition,
 for which the Dyak clothes himself in the skins of wild beasts and puts
 on an animal mask. The Dyak curiously enough prefers the head of a
-fellow-tribesman, and the hunt is usually one of ambush rather than of
+fellow-tribesman, and the [[Hunt|hunt]] is usually one of ambush rather than of
 open combat. Among some tribes it was not sufficient to kill the victim.
 He was tortured first, his body sprinkled with his own blood, and even
 his flesh eaten under the eyes of priests and priestesses who presided

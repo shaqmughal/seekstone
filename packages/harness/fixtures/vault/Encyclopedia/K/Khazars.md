@@ -11,38 +11,38 @@ KHAZARS (known also as Chozars, as [Greek: Akatziroi] or [Greek:
 Chazaroi] in Byzantine writers, as Khazirs in Armenian and Khwalisses in
 Russian chronicles, and Ugri Bielii in Nestor), an ancient people who
 occupied a prominent place amongst the secondary powers of the Byzantine
-state-system. In the epic of Firdousi Khazar is the representative name
+state-system. In the epic of [[Firdousi]] Khazar is the representative name
 for all the northern foes of Persia, and legendary invasions long before
 the Christian era are vaguely attributed to them. But the Khazars are an
 historic figure upon the borderland of Europe and Asia for at least 900
 years (A.D. 190-1100). The epoch of their greatness is from A.D. 600 to
-950. Their home was in the spurs of the Caucasus and along the shores of
+950. Their home was in the spurs of the [[Caucasus]] and along the shores of
 the Caspian--called by medieval Moslem geographers Bahr-al-Khazar ("sea
 of the Khazars"); their cities, all populous and civilized commercial
-centres, were Itil, the capital, upon the delta of the Volga, the "river
+centres, were Itil, the capital, upon the [[Delta|delta]] of the Volga, the "river
 of the Khazars," Semender (Tarkhu), the older capital, Khamlidje or
-Khalendsch, Belendscher, the outpost towards Armenia, and Sarkel on the
+Khalendsch, Belendscher, the outpost towards [[Armenia]], and Sarkel on the
 Don. They were the Venetians of the Caspian and the Euxine, the
-organizers of the transit between the two basins, the universal carriers
+organizers of the transit between the two basins, the universal [[Carrier|carriers]]
 between East and West; and Itil was the meeting-place of the commerce of
 Persia, Byzantium, Armenia, Russia and the Bulgarians of the middle
 Volga. The tide of their dominion ebbed and flowed repeatedly, but the
 normal Khazari may be taken as the territory between the Caucasus, the
-Volga and the Don, with the outlying province of the Crimea, or Little
+Volga and the Don, with the outlying province of the [[Crimea]], or Little
 Khazaria. The southern boundary never greatly altered; it did at times
 reach the Kur and the Aras, but on that side the Khazars were confronted
 by Byzantium and Persia, and were for the most part restrained within
 the passes of the Caucasus by the fortifications of Dariel. Amongst the
 nomadic Ugrians and agricultural Slavs of the north their frontier
-fluctuated widely, and in its zenith Khazaria extended from the Dnieper
+fluctuated widely, and in its zenith Khazaria extended from the [[Dnieper]]
 to Bolgari upon the middle Volga, and along the eastern shore of the
-Caspian to Astarabad.
+Caspian to [[Astarabad]].
 
   _Ethnology._--The origin of the Khazars has been much disputed, and
   they have been variously regarded as akin to the Georgians,
-  Finno-Ugrians and Turks. This last view is perhaps the most probable.
+  [[Finno-Ugrian|Finno-Ugrians]] and Turks. This last view is perhaps the most probable.
   Their king Joseph, in answer to the inquiry of Hasdai Ibn Shaprut of
-  Cordova (c. 958), stated that his people sprang from Thogarmah,
+  [[Cordova]] (c. 958), stated that his people sprang from Thogarmah,
   grandson of Japhet, and the supposed ancestor of the other peoples of
   the Caucasus. The Arab geographers who knew the Khazars best connect
   them either with the Georgians (Ibn Athir) or with the Armenians
@@ -56,7 +56,7 @@ Caspian to Astarabad.
   official titles recorded by Ibn Fadlan are those in use amongst the
   Tatar nations of that age, whether Huns, Bulgarians, Turks or Mongols.
   The names of their cities can be explained only by reference to
-  Turkish or Ugrian dialects (Klaproth, _Mém. sur les Khazars_; Howorth,
+  Turkish or Ugrian [[Dialect|dialects]] ([[Klaproth]], _Mém. sur les Khazars_; Howorth,
   _Khazars_). Some too amongst the medieval authorities (Ibn Hauqal and
   Istakhri) note a resemblance between the speech in use amongst the
   Khazars and the Bulgarians; and the modern Magyar--a Ugrian
@@ -65,7 +65,7 @@ Caspian to Astarabad.
   accounted for by the fact that the Khazars were at one time subject to
   the Huns (A.D. 448 et seq.), at another to the Turks (c. 580), which
   would sufficiently explain the signs of Tatar influence in their
-  polity, and also by the testimony of all observers, Greeks, Arabs and
+  polity, and also by the testimony of all observers, Greeks, [[Arabs]] and
   Russians, that there was a double strain within the Khazar nation.
   There were _Khazars_ and _Kara_ (black) _Khazars_. The Khazars were
   fair-skinned, black-haired and of a remarkable beauty and stature;
@@ -73,7 +73,7 @@ Caspian to Astarabad.
   Bagdad; while the Kara Khazars were ugly, short, and were reported by
   the Arabs almost as dark as Indians. The latter were indubitably the
   Ugrian nomads of the steppe, akin to the Tatar invaders of Europe, who
-  filled the armies and convoyed the caravans of the ruling caste. But
+  filled the armies and convoyed the [[Caravan|caravans]] of the ruling [[Caste|caste]]. But
   the Khazars proper were a civic commercial people, the founders of
   cities, remarkable for somewhat elaborate political institutions, for
   persistence and for good faith--all qualities foreign to the Hunnic
@@ -81,7 +81,7 @@ Caspian to Astarabad.
 
   They have been identified with the [Greek: Akatziroi] (perhaps
   Ak-Khazari, or White Khazars) who appear upon the lower Volga in the
-  Byzantine annals, and thence they have been deduced, though with less
+  Byzantine [[Annals|annals]], and thence they have been deduced, though with less
   convincing proof, either from the [Greek: Agathyrsoi] (Agathyrsi) or
   the [Greek: Katiaroi] of Herodotus, iv. 104. There was throughout
   historic times a close connexion which eventually amounted to
@@ -89,17 +89,17 @@ Caspian to Astarabad.
   of Moses of Chorene) who occupied the delta of the Volga; and the
   Barsileens can be traced through the pages of Ptolemy (_Geog._ v. 9),
   of Pliny (iv. 26), of Strabo (vii. 306), and of Pomponius Mela (ii. c.
-  1, p. 119) to the so-called Royal Scyths, [Greek: Skythai basilêes],
+  1, p. 119) to the so-called Royal Scyths, [Greek: Skythai [[Basil|basil]]êes],
   who were known to the Greek colonies upon the Euxine, and whose
   political superiority and commercial enterprise led to this rendering
   of their name. Such points, however, need not here be further pursued
   than to establish the presence of this white race around the Caspian
   and the Euxine throughout historic times. They appear in European
-  history as White Huns (Ephthalites), White Ugrians (Sar-ogours), White
+  history as White Huns ([[Ephthalites]]), White Ugrians (Sar-ogours), White
   Bulgarians. Owing to climatic causes the tract they occupied was
   slowly drying up. They were the outposts of civilization towards the
-  encroaching desert, and the Tatar nomadism that advanced with it. They
-  held in precarious subjection the hordes whom the conditions of the
+  encroaching [[Desert|desert]], and the Tatar nomadism that advanced with it. They
+  held in precarious subjection the [[Horde|hordes]] whom the conditions of the
   climate and the soil made it impossible to supplant. They bore the
   brunt of each of the great waves of Tatar conquests, and were
   eventually overwhelmed.
@@ -117,7 +117,7 @@ Caspian to Astarabad.
   inveterate feud with the Sassanids of Persia. It became therefore the
   policy of the Persian kings to call in the Khazars in every collision
   with the empire (200-350). During the 4th century however, the growing
-  power of Persia culminated in the annexation of eastern Armenia. The
+  power of Persia culminated in the [[Annexation|annexation]] of eastern Armenia. The
   Khazars, endangered by so powerful a neighbour, passed from under
   Persian influence into that remote alliance with Byzantium which
   thenceforth characterized their policy, and they aided Julian in his
@@ -135,14 +135,14 @@ Caspian to Astarabad.
   to the time of anarchy that succeeded it. Upon his death (454) the
   wild immigration which he had arrested revived. The Khazars and the
   Sarogours (i.e. White Ogors, possibly the Barsileens of the Volga
-  delta) were swept along in a flood of mixed Tatar peoples which the
+  delta) were swept along in a [[Flood|flood]] of mixed Tatar peoples which the
   conquests of the Avars had set in motion. The Khazars and their
   companions broke through the Persian defences of the Caucasus. They
   appropriated the territory up to the Kur and the Aras, and roamed at
-  large through Iberia, Georgia and Armenia. The Persian king implored
+  large through Iberia, [[Georgia]] and Armenia. The Persian king implored
   the emperor Leo I. to help him defend Asia Minor at the Caucasus
   (457), but Rome was herself too hard pressed, nor was it for fifty
-  years that the Khazars were driven back and the pass of Derbent
+  years that the Khazars were driven back and the pass of [[Derbent]]
   fortified against them (c. 507).
 
   Throughout the 6th century Khazaria was the mere highway for the wild
@@ -154,17 +154,17 @@ Caspian to Astarabad.
   Bosporus in the Crimea from the empire, and by the annihilation of the
   Ephthalites completed the ruin of the White Race of the plains from
   the Oxus to the Don. The empires of Turks and Avars, however, ran
-  swiftly their barbaric course, and the Khazars arose out of the chaos
+  swiftly their barbaric course, and the Khazars arose out of the [[Chaos|chaos]]
   to more than their ancient renown. They issued from the land of
   Barsilia, and extended their rule over the Bulgarian hordes left
   masterless by the Turks, compelling the more stubborn to migrate to
   the Danube (641). The agricultural Slavs of the Dnieper and the Oka
   were reduced to tribute, and before the end of the 7th century the
   Khazars had annexed the Crimea, had won complete command of the Sea of
-  Azov, and, seizing upon the narrow neck which separates the Volga from
+  [[Azov]], and, seizing upon the narrow neck which separates the Volga from
   the Don, had organized the portage which has continued since an
   important link in the traffic between Asia and Europe. The alliance
-  with Byzantium was revived. Simultaneously, and no doubt in concert,
+  with Byzantium was revived. Simultaneously, and no doubt in [[Concert|concert]],
   with the Byzantine campaign against Persia (589), the Khazars had
   reappeared in Armenia, though it was not till 625 that they appear as
   Khazars in the Byzantine annals. They are then described as "Turks
@@ -172,7 +172,7 @@ Caspian to Astarabad.
   and the Euxine, and took tribute of the Viatitsh, the Severians and
   the Polyane. The khakan, enticed by the promise of an imperial
   princess, furnished Heraclius with 40,000 men for his Persian war, who
-  shared in the victory over Chosroes at Nineveh.
+  shared in the victory over [[Chosroes]] at Nineveh.
 
   Meanwhile the Moslem empire had arisen. The Persian empire was struck
   down (637), and the Moslems poured into Armenia. The khakan, who had
@@ -183,7 +183,7 @@ Caspian to Astarabad.
   his chieftains were captured and compelled to embrace Islam (737), and
   till the decay of the Mahommedan empire Khazaria with all the other
   countries of the Caucasus paid an annual tribute of children and of
-  corn (737-861). Nevertheless, though overpowered in the end, the
+  [[Corn|corn]] (737-861). Nevertheless, though overpowered in the end, the
   Khazars had protected the plains of Europe from the Mahommedans, and
   made the Caucasus the limit of their conquests.
 
@@ -191,7 +191,7 @@ Caspian to Astarabad.
   rise of Russia the Khazars reached the zenith of their power. The
   merchants of Byzantium, Armenia and Bagdad met in the markets of Itil
   (whither since the raids of the Mahommedans the capital had been
-  transferred from Semender), and traded for the wax, furs, leather and
+  transferred from Semender), and traded for the wax, [[Fur|furs]], leather and
   honey that came down the Volga. So important was this traffic held at
   Constantinople that, when the portage to the Don was endangered by the
   irruption of a fresh horde of Turks (the Petchenegs), the emperor
@@ -205,14 +205,14 @@ Caspian to Astarabad.
   trade, and contended with Mahommedans and Christians for the
   theological allegiance of the Pagan people. The dynasty accepted
   Judaism (c. 740), but there was equal tolerance for all, and each man
-  was held amenable to the authorized code and to the official judges of
+  was held amenable to the authorized [[Code|code]] and to the official judges of
   his own faith. At the Byzantine court the khakan was held in high
   honour. The emperor Justinian Rhinotmetus took refuge with him during
   his exile and married his daughter (702). Justinian's rival Vardanes
-  in turn sought an asylum in Khazaria, and in Leo IV. (775) the
+  in turn sought an [[Asylum|asylum]] in Khazaria, and in Leo IV. (775) the
   grandson of a Khazar sovereign ascended the Byzantine throne. Khazar
   troops were amongst the bodyguard of the imperial court; they fought
-  for Leo VI. against Simeon of Bulgaria; and the khakan was honoured in
+  for Leo VI. against Simeon of [[Bulgaria]]; and the khakan was honoured in
   diplomatic intercourse with the seal of three solidi, which marked him
   as a potentate of the first rank, above even the pope and the
   Carolingian monarchs. Indeed his dominion became an object of
@@ -240,9 +240,9 @@ Caspian to Astarabad.
   even yet a great city, with baths and market-places and thirty
   mosques. But there was no domestic product nor manufacture; the
   kingdom depended solely upon the now precarious transit dues, and
-  administration was in the hands of a major domus also called khakan.
+  administration was in the hands of a [[Major|major]] domus also called khakan.
   At the assault of Swiatoslav of Kiev the rotten fabric crumbled into
-  dust. His troops were equally at home on land and water. Sarkel, Itil
+  [[Dust|dust]]. His troops were equally at home on land and water. Sarkel, Itil
   and Semender surrendered to him (965-969). He pushed his conquests to
   the Caucasus, and established Russian colonies upon the Sea of Azov.
   The principality of Tmutarakan, founded by his grandson Mstislav
@@ -264,15 +264,15 @@ Caspian to Astarabad.
   AUTHORITIES.--_Khazar_: The letter of King Joseph to R. Hasdai Ibn
   Shaprut, first published by J. Akrish, _Kol Mebasser_ (Constantinople,
   1577), and often reprinted in editions of Jehuda hal-Levy's _Kuzari_.
-  German translations by Zedner (Berlin, 1840) and Cassel, _Magyar.
+  German translations by Zedner (Berlin, 1840) and [[Cassel]], _Magyar.
   Alterth._ (Berlin, 1848); French by Carmoly, _Rev. Or._ (1841). Cf.
-  Harkavy, _Russische Revue_, iv. 69; Graetz, _Geschichte_, v. 364, and
+  Harkavy, _Russische Revue_, iv. 69; [[Graetz]], _Geschichte_, v. 364, and
   Carmoly, _Itinéraires de la Terre Sainte_ (Brussels, 1847).
   _Armenian_: Moses of Chorene; cf. Saint-Martin, _Mémoires historiques
   et géographiques sur l'Armènie_ (Paris, 1818). _Arabic_: The account
   of Ibn Fadlan (921) is preserved by Yakut, ii. 436 seq. See also
   Istakhry (ed. de Geoje, pp. 220 seq.), _Mas'udy_, ch. xvii. pp. 406
-  seq. of Sprenger's translation; _Ibn Haukal_ (ed. de Goeje, pp. 279
+  seq. of Sprenger's translation; _[[Ibn Haukal]]_ (ed. de Goeje, pp. 279
   seq.) and the histories of Ibn el Athir and Tabary. Much of the Arabic
   material has been collected and translated by Fraehn, "Veteres
   Memoriae Chasarorum" in _Mém. de St Pét._ (1822); Dorn (from the
@@ -286,7 +286,7 @@ Caspian to Astarabad.
   series, vol. iii.; id., _Tableaux hist. de l'Asie_ (Paris, 1823); id.,
   _Tabl. hist. de Caucases_ (1827); memoirs on the Khazars by Harkavy
   and by Howorth (_Congrès intern. des Orientalistes_, vol. ii.);
-  Latham, _Russian and Turk_, pp. 209-217; Vivien St Martin, _Études de
+  Latham, _Russian and Turk_, pp. 209-217; Vivien St [[Martin]], _Études de
   géog. ancienne_ (Paris, 1850); id., _Recherches sur les populations du
   Caucase_ (1847); id., "Sur les Khazars," in _Nouvelles ann. des
   voyages_ (1857); D'Ohsson, _Peuples du Caucase_ (Paris, 1828); S.

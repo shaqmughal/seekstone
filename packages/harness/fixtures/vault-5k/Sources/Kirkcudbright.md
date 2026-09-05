@@ -3,11 +3,11 @@
 KIRKCUDBRIGHT (pron. _Ker-kú-bri_), a royal and police burgh, and county
 town of Kirkcudbrightshire, Scotland. Pop. (1901), 2386. It is situated
 at the mouth of the Dee, 6 m. from the sea and 30 m. S.W. of Dumfries by
-the Glasgow & South-Western railway, being the terminus of a branch
+the [[Glasgow]] & South-Western railway, being the terminus of a branch
 line. The old form of the name of the town was Kilcudbrit, from the
 Gaelic _Cil Cudbert_, "the chapel of Cuthbert," the saint's body having
 lain here for a short time during the seven years that lapsed between
-its exhumation at Lindisfarne and the re-interment at Chester-le-Street.
+its [[Exhumation|exhumation]] at Lindisfarne and the re-interment at Chester-le-Street.
 The estuary of the Dee is divided at its head by the peninsula of St
 Mary's Isle, but though the harbour is the best in south-western
 Scotland, the great distance to which the tide retreats impairs its
@@ -19,7 +19,7 @@ the Greyfriars' or Franciscan convent founded by Alexander II., nor of
 the nunnery that was erected in the parish of Kirkcudbright. The
 ivy-clad ruins of Bomby castle, founded in 1582 by Sir Thomas Maclellan,
 ancestor of the barons of Kirkcudbright, stand at the end of the chief
-street. The town, which witnessed much of the international strife and
+street. The town, which witnessed much of the [[International|international]] strife and
 Border lawlessness, was taken by Edward I. in 1300. It received its
 royal charter in 1455. After the battle of Towton, Henry VI. crossed the
 Solway (August 1461) and landed at Kirkcudbright to join Queen Margaret
@@ -30,7 +30,7 @@ Roman Catholic, mustered his tenants here to act in concert with the
 Armada; but on the approach of King James VI. to Dumfries he took ship
 at Kirkcudbright and was speedily captured. The burgh is one of the
 Dumfries district group of parliamentary burghs. On St Mary's Isle was
-situated the seat of the earl of Selkirk, at whose house Robert Burns
+situated the seat of the earl of Selkirk, at whose house Robert [[Burns]]
 gave the famous Selkirk grace:--
 
   "Some ha'e meat; and canna eat,

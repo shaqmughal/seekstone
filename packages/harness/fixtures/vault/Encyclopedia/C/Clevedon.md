@@ -8,10 +8,10 @@ type: article
 # Clevedon
 
 CLEVEDON, a watering-place in the northern parliamentary division of
-Somersetshire, England, on the Bristol Channel, 15½ m. W. of Bristol on
+Somersetshire, England, on the [[Bristol]] Channel, 15½ m. W. of Bristol on
 a branch of the Great Western railway. Pop. of urban district (1901)
 5900. The cruciform church of St Andrew has Norman and later portions;
-it is the burial-place of Henry Hallam the historian, and members of his
+it is the burial-place of Henry [[Hallam]] the historian, and members of his
 family, including his sons Arthur and Henry. Clevedon Court is a
 remarkable medieval mansion, dating originally from the early part of
 the 14th century, though much altered in the Elizabethan and other

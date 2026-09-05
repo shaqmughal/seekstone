@@ -1,9 +1,9 @@
 # Leeuwarden
 
-LEEUWARDEN, the capital of the province of Friesland, Holland, on the
-canal between Harlingen and Groningen, 33 m. by rail W. of Groningen.
+LEEUWARDEN, the capital of the province of [[Friesland]], Holland, on the
+canal between [[Harlingen]] and [[Groningen]], 33 m. by rail W. of Groningen.
 Pop (1901) 32,203. It is one of the most prosperous towns in the
-country. To the name of the Frisian Hague, it is entitled as well by
+country. To the name of the Frisian [[Hague]], it is entitled as well by
 similarity of history as by similarity of appearance. As the Hague grew
 up round the court of the counts of Holland, so Leeuwarden round the
 court of the Frisian stadtholders; and, like the Hague, it is an
@@ -20,18 +20,18 @@ stadtholders. The fine mansion called the Kanselary was begun in 1502 as
 a residence for the chancellor of George of Saxony (1539), governor of
 Friesland, but was only completed in 1571 and served as a court house
 until 1811. It was restored at the end of the 19th century to contain
-the important provincial library and national archives. Other noteworthy
+the important provincial library and national [[Archive|archives]]. Other noteworthy
 buildings are the picturesque weigh-house (1595), the town hall (1715),
-the provincial courts (1850), and the great church of St Jacob, once the
-church of the Jacobins, and the largest monastic church in the
+the provincial courts (1850), and the great church of St [[Jacob]], once the
+church of the [[Jacobins]], and the largest monastic church in the
 Netherlands. The splendid tombs of the Frisian stadtholders buried here
-(Louis of Nassau, Anne of Orange, and others) were destroyed in the
+([[Louis Of Nassau|Louis of Nassau]], [[Anne]] of Orange, and others) were destroyed in the
 revolution 1795. The unfinished tower of Oldehove dates from 1529-1532.
 The museum of the Frisian Society is of modern foundation and contains a
 collection of provincial antiquities, including two rooms from
 Hindeloopen, an ancient village of Friesland, some 16th- and
 17th-century portraits, some Frisian works in silver of the 17th and
-18th centuries, and a collection of porcelain and faience.
+18th centuries, and a collection of porcelain and [[Faience|faience]].
 
 Leeuwarden is the centre of a flourishing trade, being easily accessible
 from all parts of the province by road, rail and canal. The chief

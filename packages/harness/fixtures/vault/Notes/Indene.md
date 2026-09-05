@@ -9,7 +9,7 @@ id: 42-8547
 
 # Indene
 
-INDENE, C9H8, a hydrocarbon found in the fraction of the coal tar
+INDENE, C9H8, a [[Hydrocarbon|hydrocarbon]] found in the fraction of the coal tar
 distillate boiling between 176° and 182° C., and from which it may be
 extracted by means of its picrate (G. Kramer, A. Spilker, Ber., 1890,
 23, p. 3276). It may also be obtained by distilling the calcium salt of
@@ -24,13 +24,13 @@ ortho-xylylene bromide obtained a hydrindene dicarboxylic ester,
     + C6H4:[CH2]2:C(CO2C2H5)2;
 
 this ester on hydrolysis yields the corresponding acid, which on heating
-loses carbon dioxide and gives the monocarboxylic acid of hydrindene.
-The barium salt of this acid, when heated, yields indene and not
+loses [[Carbon|carbon]] dioxide and gives the monocarboxylic acid of hydrindene.
+The [[Barium|barium]] salt of this acid, when heated, yields indene and not
 hydrindene, hydrogen being liberated (W. H. Perkin, _Jour. Chem. Soc._,
 1894, 65, p. 228). Indene vapour when passed through a red hot tube
 yields chrysene. It combines with nitrosyl chloride to form indene
 nitrosate (M. Dennstedt and C. Ahrens, _Ber._, 1895, 28, p. 1331) and it
-reacts with benzaldehyde, oxalic ester and formic ester (J. Thiele,
+reacts with [[Benzaldehyde|benzaldehyde]], oxalic ester and formic ester (J. Thiele,
 _Ber._, 1900, 33, p. 3395).
 
   On the derivatives of indene see W. v. Miller, _Ber._, 1890, 23, p.

@@ -1,10 +1,10 @@
 # Cinnamic Acid
 
 CINNAMIC ACID, or PHENYLACRYLIC ACID, C9H8O2 or C6H6.CH:CH.COOH, an acid
-found in the form of its benzyl ester in Peru and Tolu balsams, in
+found in the form of its benzyl ester in Peru and Tolu [[Balsam|balsams]], in
 storax and in some gum-benzoins. It can be prepared by the reduction of
 phenyl propiolic acid with zinc and acetic acid, by heating benzal
-malonic acid, by the condensation of ethyl acetate with benzaldehyde in
+[[Malonic Acid|malonic acid]], by the condensation of ethyl acetate with [[Benzaldehyde|benzaldehyde]] in
 the presence of sodium ethylate or by the so-called "Perkin reaction";
 the latter being the method commonly employed. In making the acid by
 this process benzaldehyde, acetic anhydride and anhydrous sodium acetate
@@ -22,7 +22,7 @@ fatty acid, and that the acetic anhydride plays the part of a
 dehydrating agent. Cinnamic acid crystallizes in needles or prisms,
 melting at 133° C; on reduction it gives _phenyl propionic acid_,
 C6H5.CH2.CH2.COOH. Nitric acid oxidizes it to benzoic acid and acetic
-acid. Potash fusion decomposes it into benzoic and acetic acids. Being
+acid. Potash [[Fusion|fusion]] decomposes it into benzoic and acetic acids. Being
 an unsaturated acid it combines directly with hydrochloric acid,
 hydrobromic acid, bromine, &c. On nitration it gives a mixture of ortho
 and para nitrocinnamic acids, the former of which is of historical
@@ -33,7 +33,7 @@ acid, C6H4(NH2)CH:CH.COOH, which is of theoretical importance, as it
 readily gives a quinoline derivative. An isomer of cinnamic acid known
 as _allo-cinnamic acid_ is also known.
 
-  For the oxy-cinnamic adds see COUMARIN.
+  For the oxy-cinnamic adds see [[Coumarin|COUMARIN]].
 
 ## See also
 

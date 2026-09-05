@@ -7,12 +7,12 @@ type: source
 
 # Folard
 
-FOLARD, JEAN CHARLES, CHEVALIER DE (1669-1752), French soldier and
-military author, was born at Avignon on the 13th of February 1669. His
+FOLARD, JEAN CHARLES, [[Chevalier|CHEVALIER]] DE (1669-1752), French soldier and
+military author, was born at [[Avignon]] on the 13th of February 1669. His
 military ardour was first awakened by reading Caesar's _Commentaries_,
 and he ran away from home and joined the army. He soon saw active
-service, and, young as he was, wrote a manual on partisan warfare, the
-manuscript of which passed with Folard's other papers to Marshal
+service, and, young as he was, wrote a [[Manual|manual]] on partisan warfare, the
+[[Manuscript|manuscript]] of which passed with Folard's other papers to Marshal
 Belleisle on the author's death. In 1702 he became a captain, and
 aide-de-camp to the duke of Vendôme, then in command of the French
 forces in Italy. In 1705, while serving under Vendôme's brother, the
@@ -24,12 +24,12 @@ elucidation of which he devoted most of his life. In 1706 he again
 rendered good service in Italy, and in 1708 distinguished himself
 greatly in the operations attempted by Vendôme and the duke of Burgundy
 for the relief of Lille, the failure of which was due in part to the
-disagreement of the French commanders; and it is no small testimony to
+disagreement of the French [[Commander|commanders]]; and it is no small testimony to
 the ability and tact of Folard that he retained the friendship of both.
-Folard was wounded at Malplaquet in 1709, and in 1711 his services were
+Folard was wounded at [[Malplaquet]] in 1709, and in 1711 his services were
 rewarded with the governorship of Bourbourg. He saw further active
-service in 1714 in Malta, under Charles XII. of Sweden in the north, and
-under the duke of Berwick in the short Spanish War of 1719. Charles XII.
+service in 1714 in [[Malta]], under Charles XII. of Sweden in the north, and
+under the duke of [[Berwick]] in the short Spanish War of 1719. Charles XII.
 he regarded as the first captain of all time, and it was at Stockholm
 that Folard began to formulate his tactical ideas in a commentary on
 Polybius. On his way back to France he was shipwrecked and lost all his
@@ -60,13 +60,13 @@ king certainly caused a _précis_ to be made by Colonel von Seers, and
 wrote a preface thereto expressing his views. The work (like others by
 Frederick) fell into unauthorized hands, and, on its publication (Paris,
 1760) under the title _Esprit du Chev. Folard_, created a great
-impression. "Thus kept within bounds," said the prince de Ligne,
+impression. "Thus kept within [[Bounds|bounds]]," said the prince de [[Ligne]],
 "Folard was the best author of the time." Frederick himself said tersely
 that "Folard had buried diamonds in a rubbish-heap." Thus began the
 controversy between line and column formations, which long continued and
 influenced the development of tactics up to the most modern times.
 Folard's principal adherents in the 18th century were Joly de Maizeroy
-and Menil Durand.
+and Menil [[Durand]].
 
   See _Mémoires pour servir à l'histoire de M. le Chevalier de Folard_
   (Paris and Regensburg, 1753), and for a detailed account of Folard's

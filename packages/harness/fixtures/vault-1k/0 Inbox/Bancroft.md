@@ -13,7 +13,7 @@ America since 1632, and his father, Aaron Bancroft, was distinguished as a
 revolutionary soldier, clergyman and author. The son was educated at
 Phillips Academy, Exeter, at Harvard University, at Heidelberg, Göttingen
 and Berlin. At Göttingen he studied Plato with Heeren, New Testament Greek
-with Eichhorn and natural science with Blumenbach. His heart was in the
+with [[Eichhorn]] and natural science with Blumenbach. His heart was in the
 work of Heeren, easily the greatest of historical critics then living, and
 the forerunner of the modern school; it was from this master that Bancroft
 caught his enthusiasm for minute pains-taking erudition. He concluded his
@@ -133,7 +133,7 @@ pace with them by ruthless revision, yet even the latest edition of his
 work disregards some minor facts which others knew for the insertion of
 much which the author alone knew.
 
-Bancroft's imagination and enthusiasm were alike exuberant. His pages
+Bancroft's [[Imagination|imagination]] and enthusiasm were alike exuberant. His pages
 abound in fine and acute insight. His generalizations are vivid and
 enlightening. He spared no pains to acquire true style, frequently
 rewriting his chapters, and sometimes testing passages of philosophy and

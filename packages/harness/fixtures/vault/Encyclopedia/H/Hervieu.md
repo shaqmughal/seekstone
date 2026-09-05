@@ -6,7 +6,7 @@ Neuilly (Seine) on the 2nd of November 1857. He was called to the bar in
 council, he qualified for the diplomatic service, but resigned on his
 nomination in 1881 to a secretaryship in the French legation in Mexico.
 He contributed novels, tales and essays to the chief Parisian papers and
-reviews, and published a series of clever novels, including _L'Inconnu_
+reviews, and published a series of [[Clever|clever]] novels, including _L'Inconnu_
 (1887), _Flirt_ (1890), _L'Exorcisee_ (1891), _Peints par eux-memes_
 (1893), an ironical study written in the form of letters, and
 _L'Armature_ (1895), dramatized in 1905 by Eugene Brieux. But his most

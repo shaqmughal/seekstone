@@ -1,10 +1,10 @@
 # Appenzell
 
 APPENZELL, one of the cantons of north-east Switzerland, entirely
-surrounded by the canton of St Gall; both were formed out of the
+surrounded by the canton of St [[Gall]]; both were formed out of the
 dominions of the prince abbots of St Gall, whence the name Appenzell
 (_abbatis cello_). It is an alpine region, particularly in its south
-portion, where rises the Alpstein limestone range (culminating in the
+portion, where rises the Alpstein [[Limestone|limestone]] range (culminating in the
 Santis, 8216 ft.), though towards the north the surface is composed
 rather of green hills, separating green hollows in which nestle neat
 villages and small towns. It is mainly watered by two streams that
@@ -26,7 +26,7 @@ Heiden (3745 inhabitants) in the north-east corner is the most
 frequented of the many goats' whey cure resorts for which the entire
 canton is famous (Urnasch and Gais are also in Ausser Rhoden). This
 half-canton is divided into three administrative districts, comprising
-twenty communes, and is mainly industrial, the manufacture of cotton
+twenty [[Commune|communes]], and is mainly industrial, the manufacture of cotton
 goods, muslins, and embroidery being very flourishing. It sends one
 member (elected by the _Landsgemeinde_) to the federal _Standerath_ and
 three to the federal _Nationalrath_ (elected by a direct popular vote).
@@ -41,7 +41,7 @@ village, while Weissbad (near it) and Gonten are the best-known goats'
 whey cure resorts. Embroidery and muslins are made in this half-canton,
 though wholly at home by the work-people. But it is very largely
 pastoral, containing 168 mountain pastures or "alps," maintaining each
-summer 4000 cows, and of an estimated capital value of 2,682,955 francs
+summer 4000 cows, and of an estimated capital value of 2,682,955 [[Franc|francs]]
 (the figures for Ausser Rhoden are respectively 100 alps, 2800 cows, and
 1,749,900 francs). Inner Rhoden is extremely conservative, and has the
 reputation of always rejecting any federal _Referendum_. For similar
@@ -94,7 +94,7 @@ singular is said to mean a "clearing," and occurs in 1070, long before
 the final separation. From 1798 to 1803 Appenzell, with the other
 domains of the abbot of St Gall, was formed into the canton Santis of
 the Helvetic Republic, but in 1803, on the creation of the new canton of
-St Gall, shrank back within its former boundaries. The oldest codes of
+St Gall, shrank back within its former boundaries. The oldest [[Code|codes]] of
 the laws and customs of the land date from 1409 and 1585, the original
 MS. of the latter (called the "Silver Book" from its silver clasps)
 being still used in Inner Rhoden when, at the close of the annual
@@ -104,9 +104,9 @@ either case with uplifted right hands.
 
   See also _Appenzellische Jahrbucher_ (3 series from 1854, Trogen); G.
   Baumberger, "_Juhu-Juuhu_"--_Appenzellerland und Appenzellerleut_
-  (Einsiedeln, 1903); J.G. Ebel, _Schilderung d. Gebirgsvolker d.
+  ([[Einsiedeln]], 1903); J.G. [[Ebel]], _Schilderung d. Gebirgsvolker d.
   Schweiz_, vol. i. (Leipzig, 1798); W. Kobelt, _Die Alpwirthschaft im
-  Kant. App. Inner Rhoden_ (Soleure, 1899); I.B. Richman, _Appenzell_
+  [[Kant]]. App. Inner Rhoden_ (Soleure, 1899); I.B. Richman, _Appenzell_
   (London, 1895); H. Ryffel, _Die schweiz. Landsgemeinden_ (Zurich,
   1903); J.J. Tobler and A. Struby, _Die Alpwirthschaft im Kant. App.
   Ausser Rhoden_ (Soleure, 1900); J.C. Zellweger, _Geschichte d. app.

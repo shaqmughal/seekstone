@@ -8,7 +8,7 @@ type: reference
 # Brakelond
 
 BRAKELOND, JOCELYN DE (fl. 1200), English monk, and author of a
-chronicle narrating the fortunes of the monastery of Bury St Edmunds
+chronicle narrating the fortunes of the monastery of [[Bury]] St Edmunds
 between 1173 and 1202. He is only known to us through his own work. He
 was a native of Bury St Edmunds; he served his novitiate under Samson of
 Tottington, who was at that time master of the novices, but afterwards
@@ -17,11 +17,11 @@ of religion in 1173, during the time of Abbot Hugo (1157-1180), through
 whose improvidence and laxity the abbey had become impoverished and the
 inmates dead to all respect for discipline. The fortunes of the abbey
 changed for the better with the election of Samson as Hugo's successor.
-Jocelyn, who became abbot's chaplain within four months of the election,
+Jocelyn, who became abbot's [[Chaplain|chaplain]] within four months of the election,
 describes the administration of Samson at considerable length. He tells
 us that he was with Samson night and day for six years; the picture
 which he gives of his master, although coloured by enthusiastic
-admiration, is singularly frank and intimate. It is all the more
+admiration, is singularly [[Frank|frank]] and intimate. It is all the more
 convincing since Jocelyn is no stylist. His Latin is familiar and easy,
 but the reverse of classical. He thinks and writes as one whose
 interests are wrapped up in his house; and the unique interest of his

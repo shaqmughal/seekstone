@@ -1,13 +1,13 @@
 # Emmanuel
 
 EMMANUEL, or IMMANUEL, a Hebrew symbolical proper name, meaning "God
-(is) with us." When in 734-733 B.C. Ahaz, king of Judah, alarmed at the
+(is) with us." When in 734-733 B.C. Ahaz, king of [[Judah]], alarmed at the
 preparations made against him by the Syro-Ephraimitish alliance, was
-inclined to seek aid from Tiglath-pileser of Assyria, the prophet Isaiah
+inclined to seek aid from Tiglath-pileser of Assyria, the prophet [[Isaiah]]
 endeavoured to allay his fear by telling him that the danger would pass
 away, and as a sign from Yahweh that this should be so, any young woman
 who should within the year bear a son, might call his name Immanuel in
-token of the divine protection accorded to Judah. For before the infant
+token of the divine protection accorded to Judah. For before the [[Infant|infant]]
 should come to even the immature intelligence of childhood the lands of
 the foe would be laid waste (Isaiah vii. 14-16). For other
 interpretations, especially as regards the mother, see _Ency. Bib._ col.

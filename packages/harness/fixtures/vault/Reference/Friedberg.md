@@ -13,14 +13,14 @@ the scene of Moreau's victory of the 24th of August 1796 over the
 Austrians.
 
 2. FRIEDBERG IN DER WETTERAU, in the grand duchy of Hesse-Darmstadt, on
-an eminence above the Usa, 14 m. N. of Frankfort-on-Main, on the railway
-to Cassel and at the junction of a line to Hanau. Pop. (1905) 7702. It
+an [[Eminence|eminence]] above the Usa, 14 m. N. of [[Frankfort-On-Main|Frankfort-on-Main]], on the railway
+to [[Cassel]] and at the junction of a line to Hanau. Pop. (1905) 7702. It
 is a picturesque town, still surrounded by old walls and towers, and
-contains many medieval buildings, of which the beautiful Gothic town
+contains many medieval buildings, of which the beautiful [[Gothic]] town
 church (Evangelical) and the old castle are especially noteworthy. The
 grand-ducal palace has a beautiful garden. The schools include technical
 and agricultural academies and a teachers' seminary. It has manufactures
-of sugar, gloves and leather, and breweries. Friedberg is of Roman
+of sugar, [[Glove|gloves]] and leather, and breweries. Friedberg is of Roman
 origin, but is first mentioned as a town in the 11th century. In 1211 it
 became a free imperial city, but in 1349 was pledged to the counts of
 Schwarzburg, and subsequently often changed hands, eventually in 1802

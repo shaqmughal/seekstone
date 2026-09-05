@@ -1,6 +1,6 @@
 # Damoh
 
-DAMOH, a town and district of British India, in the Jubbulpore division
+DAMOH, a town and district of British India, in the [[Jubbulpore]] division
 of the Central Provinces. The town has a railway station, 48 m. E. of
 Saugor. Pop. (1901) 13,355. It has a considerable cattle-market, and a
 number of small industries, such as weaving, dyeing and pottery-making.

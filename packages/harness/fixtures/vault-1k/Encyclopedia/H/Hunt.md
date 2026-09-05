@@ -16,11 +16,11 @@ Having embraced the loyalist side, Leigh Hunt's father was compelled to
 fly to England, where he took orders, and acquired some reputation as a
 popular preacher, but want of steadiness, want of orthodoxy, and want of
 interest conspired to prevent his obtaining any preferment. He was
-engaged by James Brydges, 3rd duke of Chandos, to act as tutor to his
+engaged by James Brydges, 3rd duke of [[Chandos]], to act as tutor to his
 nephew, James Henry Leigh, after whom Leigh Hunt was called. The boy
 was educated at Christ's Hospital, of which school he has left a lively
 account in his autobiography. As a boy at school he was an ardent
-admirer of Gray and Collins, writing many verses in imitation of them.
+admirer of Gray and [[Collins]], writing many verses in imitation of them.
 An impediment in his speech, afterwards removed, prevented his being
 sent to the university. "For some time after I left school," he says, "I
 did nothing but visit my school-fellows, haunt the book-stalls and write
@@ -52,7 +52,7 @@ _Reflector_, for which he wrote "The Feast of the Poets," a satire which
 gave offence to many contemporary poets, and particularly offended
 William Gifford of the _Quarterly_. The essays afterwards published
 under the title of the _Round Table_ (2 vols., 1816-1817), conjointly
-with William Hazlitt, appeared in the _Examiner_. In 1816 he made a
+with William [[Hazlitt]], appeared in the _Examiner_. In 1816 he made a
 permanent mark in English literature by the publication of his _Story of
 Rimini_. There is perhaps no other instance of a poem short of the
 highest excellence having produced so important and durable an effect in
@@ -123,7 +123,7 @@ of success for the _Liberal_. Hunt was now virtually a dependant upon
 Byron, whose least amiable qualities were called forth by the relation
 of patron to an unsympathetic dependant, burdened with a large and
 troublesome family. He was moreover incessantly wounded by the
-representations of his friends that he was losing caste by the
+representations of his friends that he was losing [[Caste|caste]] by the
 connexion. The _Liberal_ lived through four quarterly numbers,
 containing contributions no less memorable than Byron's "Vision of
 Judgment" and Shelley's translations from Faust; but in 1823 Byron
@@ -180,8 +180,8 @@ estates, settled an annuity of L120 upon him; and in 1847 Lord John
 Russell procured him a civil list pension of L200. The fruits of the
 improved comfort and augmented leisure of these latter years were
 visible in the production of some charming volumes. Foremost among these
-are the companion books, _Imagination and Fancy_ (1844), and _Wit and
-Humour_ (1846), two volumes of selections from the English poets. In
+are the companion books, _[[Imagination]] and Fancy_ (1844), and _Wit and
+[[Humour]]_ (1846), two volumes of selections from the English poets. In
 these Leigh Hunt shows himself within a certain range the most refined,
 appreciative and felicitous of critics. Homer and Milton may be upon the
 whole beyond his reach, though even here he is great in the detection of
@@ -192,7 +192,7 @@ continually bringing to light unsuspected beauties. His companion volume
 on the pastoral poetry of Sicily, quaintly entitled _A Jar of Honey from
 Mount Hybla_ (1848), is almost equally delightful. _The Town_ (2 vols.,
 1848) and _Men, Women and Books_ (2 vols., 1847) are partly made up from
-former material. _The Old Court Suburb_ (2 vols., 1855; ed. A. Dobson,
+former material. _The Old Court Suburb_ (2 vols., 1855; ed. A. [[Dobson]],
 1902) is an anecdotic sketch of Kensington, where he long resided before
 his final removal to Hammersmith. In 1850 he published his
 _Autobiography_ (3 vols.), a naive and accurate piece of

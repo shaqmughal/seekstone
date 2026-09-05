@@ -9,11 +9,11 @@ tags: [biography, medicine]
 # Bowdich
 
 BOWDICH, THOMAS EDWARD (1790-1824), English traveller and author, was
-born at Bristol in 1790. In 1814, through his uncle, J. Hope-Smith,
-governor of the British Gold Coast Settlements, he obtained a writership
+born at [[Bristol]] in 1790. In 1814, through his uncle, J. Hope-Smith,
+governor of the British [[Gold Coast]] Settlements, he obtained a writership
 in the service of the African Company of Merchants and was sent to Cape
-Coast. In 1817 he was sent, with two companions, to Kumasi on a mission
-to the king of Ashanti, and chiefly through his skilful diplomacy the
+Coast. In 1817 he was sent, with two companions, to [[Kumasi]] on a mission
+to the king of [[Ashanti]], and chiefly through his skilful [[Diplomacy|diplomacy]] the
 mission succeeded in its object of securing British control over the
 coast natives (see ASHANTI: _History_). In 1818 Bowdich returned to
 England, and in 1819 published an account of his mission and of the
@@ -26,7 +26,7 @@ control over the Gold Coast. From 1820 to 1822 Bowdich lived in Paris,
 studying mathematics and the natural sciences, and was on intimate terms
 with Cuvier, Humboldt and other savants. During his stay in France he
 edited several works on Africa, and also wrote scientific works. In
-1822, accompanied by his wife, he went to Lisbon, where, from a study of
+1822, accompanied by his wife, he went to [[Lisbon]], where, from a study of
 historic MSS., he published _An Account of the Discoveries of the
 Portuguese in ... Angola and Mozambique_ (London, 1824). In 1823 Bowdich
 and his wife, after some months spent in Madeira and Cape Verde Islands,

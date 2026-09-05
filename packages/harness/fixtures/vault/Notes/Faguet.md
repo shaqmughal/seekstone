@@ -9,10 +9,10 @@ type: note
 
 FAGUET, ÉMILE (1847-   ), French critic and man of letters, was born at
 La Roche sur Yon on the 17th of December 1847. He was educated at the
-normal school in Paris, and after teaching for some time in La Rochelle
-and Bordeaux he came to Paris. After acting as assistant professor of
+normal school in Paris, and after teaching for some time in [[La Rochelle]]
+and [[Bordeaux]] he came to Paris. After acting as assistant professor of
 poetry in the university he became professor in 1897. He was elected to
-the academy in 1900, and received the ribbon of the Legion of Honour in
+the academy in 1900, and received the ribbon of the [[Legion]] of Honour in
 the next year. He acted as dramatic critic to the _Soleil_; from 1892 he
 was literary critic to the _Revue bleue_; and in 1896 took the place of
 M. Jules Lemaître on the _Journal des débats_. Among his works are

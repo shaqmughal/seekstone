@@ -7,21 +7,21 @@ id: 42-3489
 
 # Lactantius Firmianus
 
-LACTANTIUS FIRMIANUS (c. 260-c. 340), also called Lucius Caelius (or
+LACTANTIUS FIRMIANUS (c. 260-c. 340), also called [[Lucius]] Caelius (or
 Caecilius) Lactantius Firmianus, was a Christian writer who from the
 beauty of his style has been called the "Christian Cicero." His history
-is very obscure. He was born of heathen parents in Africa about 260, and
+is very obscure. He was born of [[Heathen|heathen]] parents in Africa about 260, and
 became a pupil of Arnobius, whom he far excelled in style though his
 knowledge of the Scriptures was equally slight. About 290 he went to
-Nicomedia in Bithynia while Diocletian was emperor, to teach rhetoric,
+Nicomedia in Bithynia while [[Diocletian]] was emperor, to teach rhetoric,
 but found little work to do in that Greek-speaking city. In middle age
-he became a convert to Christianity, and about 306 he went to Gaul
+he became a convert to Christianity, and about 306 he went to [[Gaul]]
 (Trèves) on the invitation of Constantine the Great, and became tutor to
 his eldest son, Crispus. He probably died about 340.
 
 Lactantius' chief work, _Divinarum Institutionum Libri Septem_, is an
-"apology" for and an introduction to Christianity, written in exquisite
-Latin, but displaying such ignorance as to have incurred the charge of
+"[[Apology|apology]]" for and an introduction to Christianity, written in exquisite
+Latin, but displaying such [[Ignorance|ignorance]] as to have incurred the charge of
 favouring the Arian and Manichaean heresies. It seems to have been begun
 in Nicomedia about 304 and finished in Gaul before 311. Two long
 eulogistic addresses and most of the brief apostrophes to the emperor
@@ -41,9 +41,9 @@ consists in the knowledge of God. The sixth book, _De Vero Cultu_,
 describes the true worship of God, which is righteousness, and consists
 chiefly in the exercise of Christian love towards God and man. The
 seventh book, _De Vita Beata_, discusses, among a variety of subjects,
-the chief good, immortality, the second advent and the resurrection.
-Jerome states that Lactantius wrote an epitome of these _Institutions_,
-and such a work, which may well be authentic, was discovered in MS. in
+the chief good, [[Immortality|immortality]], the second advent and the resurrection.
+Jerome states that Lactantius wrote an [[Epitome|epitome]] of these _Institutions_,
+and such a work, which may well be [[Authentic|authentic]], was discovered in MS. in
 the royal library at Turin in 1711 by C. M. Pfaff.
 
 Besides the _Institutions_ Lactantius wrote several treatises: (1) _De
@@ -56,17 +56,17 @@ and beauty of the human body. (3) A celebrated incendiary treatise, _De
 Mortibus Persecutorum_, which describes God's judgments on the
 persecutors of his church from Nero to Diocletian, and has served as a
 model for numberless writings. _De Mort. Persecut._ is not in the
-earlier editions of Lactantius; it was discovered and printed by Baluze
+earlier editions of Lactantius; it was discovered and printed by [[Baluze]]
 in 1679. Many critics ascribe it to an unknown Lucius Caecilius; there
 are certainly serious differences of grammar, style and temper between
 it and the writings already mentioned. It was probably composed in
 Nicomedia, c. 315. Jerome speaks of Lactantius as a poet, and several
 poems have been attributed to him:--_De Ave Phoenice_ (which Harnack
-thinks makes use of 1 Clement), _De Passione Domini_ and _De
+thinks makes use of 1 [[Clement]]), _De Passione Domini_ and _De
 Resurrectione (Domini)_ or _De Pascha ad Felicem Episcopum_. The first
 of these may belong to Lactantius's heathen days, the second is a
 product of the Renaissance (c. 1500), the third was written by Venantius
-Fortunatus in the 6th century.
+[[Fortunatus]] in the 6th century.
 
   Editions: O. F. Fritzsche in E. G. Gersdorf's _Bibl. patr. eccl._ x.,
   xi. (Leipzig, 1842-1844); Migne, _Patr. Lat._ vi., vii.; S. Brandt and

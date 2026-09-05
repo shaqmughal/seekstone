@@ -8,16 +8,16 @@ type: source
 # Dasyure
 
 DASYURE, a bookname for any member of the zoological family
-_Dasyuridae_. (See MARSUPIALIA.) The name is better restricted to
+_Dasyuridae_. (See [[Marsupialia|MARSUPIALIA]].) The name is better restricted to
 animals of the typical genus _Dasyurus_, sometimes called true Dasyures.
 These are mostly inhabitants of the Australian continent and Tasmania,
 where in the economy of nature they take the place of the smaller
-predaceous Carnivora, the cats, civets and weasels of other parts of the
+predaceous Carnivora, the cats, [[Civet|civets]] and weasels of other parts of the
 world. They hide themselves in the daytime in holes among rocks or in
 hollow trees, but prowl about at night in search of the small living
 mammals and birds which constitute their prey, and are to some extent
 arboreal in habit. The spot-tailed dasyure (_D. maculatus_), about the
-size of a cat, inhabiting Tasmania and Southern Australia, has
+size of a cat, inhabiting Tasmania and Southern [[Australia]], has
 transversely striated pads on the soles of the feet. These organs are
 also present in the North Australian dasyure (_D. hallucatus_) and the
 Papuan _D. albopunctatus_, and are regarded by Oldfield Thomas as
@@ -27,7 +27,7 @@ geoffroyi_) from South Australia, these feet-pads are absent, whence
 these species are believed to seek their prey on the ground. The ursine
 dasyure (_Sarcophilus ursinus_), often called the "Tasmanian Devil,"
 constitutes a distinct genus. In size it may be compared to an English
-badger; the general colour of the fur is black tinged with brown, with
+badger; the general colour of the [[Fur|fur]] is black tinged with brown, with
 white patches on the neck, shoulders, rump and chest. It is a burrowing
 animal, of nocturnal habits, intensely carnivorous, and commits great
 depredations on the sheepyards and poultry-lofts of the settlers. In
@@ -41,7 +41,7 @@ as a lead pencil, but escaped by twisting this solid obstacle aside.
 
 
 DATE PALM. The dates[1] of commerce are the fruit of a species of palm,
-_Phoenix dactylifera_, a tree which ranges from the Canary Islands
+_Phoenix dactylifera_, a tree which ranges from the [[Canary Islands]]
 through Northern Africa and the south-east of Asia to India. It has been
 cultivated and much prized throughout most of these regions from the
 remotest antiquity. Its cultivation and use are described on the mural
@@ -70,14 +70,14 @@ heating,--a defect inherent to the preserved fruit everywhere; nor does
 its richness, however great, bring satiety; in short it is an article of
 food alike pleasant and healthy." In the oases of Sahara, and in other
 parts of Northern Africa, dates are pounded and pressed into a cake for
-food. The dried fruit used for dessert in European countries contains
+food. The dried fruit used for dessert in [[European Countries|European countries]] contains
 more than half its weight of sugar, about 6% of albumen, and 12% of
 gummy matter. All parts of the date palm yield valuable economic
 products. Its trunk furnishes timber for house-building and furniture;
-the leaves supply thatch; their footstalks are used as fuel, and also
+the leaves supply thatch; their footstalks are used as [[Fuel|fuel]], and also
 yield a fibre from which cordage is spun.
 
-_Date sugar_ is a valuable commercial product of the East Indies,
+_Date sugar_ is a valuable commercial product of the [[East Indies]],
 obtained from the sap or toddy of _Phoenix sylvestris_, the toddy palm,
 a tree so closely allied to the date palm that it has been supposed to
 be the parent stock of all the cultivated varieties. The juice, when not
@@ -89,14 +89,14 @@ farinifera_, growing in the hill country of southern India.
 
   For further details see Sir G. Watt, _Dictionary of the Economic
   Products of India_ (1892); and _The Date Palm_, U.S. Department of
-  Agriculture, Bureau of Plant Industry, Bulletin No. 53 (W. T.
+  Agriculture, [[Bureau]] of Plant Industry, Bulletin No. 53 (W. T.
   Swingle), 1904.
 
 
 FOOTNOTE:
 
-  [1] Lat. _dactylus_, finger, hence fruit of the date palm, gave O.
-    Fr. _date_, mod. _datte_; distinguish "date," in chronology, from
+  [1] Lat. _dactylus_, [[Finger|finger]], hence fruit of the date palm, gave O.
+    Fr. _date_, mod. _datte_; distinguish "date," in [[Chronology|chronology]], from
     Lat. _datum_, _data_, given, used at the beginning of a letter, &c.,
     to show time and place of writing, e.g. _Datum Romae_.
 

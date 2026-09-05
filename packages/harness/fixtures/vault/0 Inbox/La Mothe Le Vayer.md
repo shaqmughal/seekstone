@@ -7,15 +7,15 @@ topic: history
 # La Mothe Le Vayer
 
 LA MOTHE LE VAYER, FRANÇOIS DE (1588-1672), French writer, was born in
-Paris of a noble family of Maine. His father was an _avocat_ at the
+Paris of a noble family of [[Maine]]. His father was an _avocat_ at the
 parlement of Paris and author of a curious treatise on the functions of
 ambassadors, entitled _Legatus, seu De legatorum privilegiis, officio et
 munere libellus_ (1579) and illustrated mainly from ancient history.
 François succeeded his father at the parlement, but gave up his post
 about 1647 and devoted himself to travel and _belles lettres_. His
 _Considérations sur l'éloquence française_ (1638) procured him admission
-to the Academy, and his _De l'instruction de Mgr. le Dauphin_ (1640)
-attracted the attention of Richelieu. In 1649 Anne of Austria entrusted
+to the Academy, and his _De l'instruction de Mgr. le [[Dauphin]]_ (1640)
+attracted the attention of Richelieu. In 1649 [[Anne]] of Austria entrusted
 him with the education of her second son and subsequently with the
 completion of Louis XIV.'s education, which had been very much
 neglected. The outcome of his pedagogic labours was a series of books
@@ -29,9 +29,9 @@ ideas and morals was hailed with relish. Besides his educational works,
 he wrote _Jugement sur les anciens et principaux historiens grecs et
 latins_ (1646); a treatise entitled _Du peu de certitude qu'il y a en
 histoire_ (1668), which in a sense marks the beginning of historical
-criticism in France; and sceptical _Dialogues_, published posthumously
+criticism in France; and sceptical _[[Dialogue|Dialogues]]_, published posthumously
 under the pseudonym of Orosius Tubero. An incomplete edition of his
-works was published at Dresden in 1756-1759.
+works was published at [[Dresden]] in 1756-1759.
 
   See Bayle, _Dictionnaire critique_, article "Vayer"; L. Étienne,
   _Essai sur La Mothe Le Vayer_ (Paris, 1849).

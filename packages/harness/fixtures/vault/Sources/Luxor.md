@@ -14,8 +14,8 @@ The temple of Luxor is one of the greatest of the monuments of Thebes
 measures nearly 300 yds. from back to front. There may have been an
 earlier temple here, but the present structure, dedicated to the Theban
 triad of Ammon, Mut and Khons, was erected by Amenophis III. The great
-colonnade, which is its most striking feature, was apparently intended
-for the nave of a hypostyle hall like that of Karnak, but had to be
+[[Colonnade|colonnade]], which is its most striking feature, was apparently intended
+for the nave of a hypostyle hall like that of [[Karnak]], but had to be
 hastily finished without the aisles. After the heresy of Amenophis IV.
 (Akhenaton), the decoration of this incomplete work was taken in hand by
 Tutenkhamun and Haremhib. The axis of the temple ran from S.W. to N.E.;

@@ -85,14 +85,14 @@ Bohemia. Other varieties contain small amounts of mercury, tin,
 manganese or thallium. The elements gallium and indium were discovered
 in blende.
 
-Blende occurs in metalliferous veins, often in association with galena,
-also with chalcopyrite, barytes, fluorspar, &c. In ore-deposits
+Blende occurs in metalliferous veins, often in association with [[Galena|galena]],
+also with chalcopyrite, [[Barytes|barytes]], fluorspar, &c. In ore-deposits
 containing both lead and zinc, such as those filling cavities in the
 limestones of the north of England and of Missouri, the galena is
 usually found in the upper part of the deposit, the blende not being
 reached until the deeper parts are worked. Blende is also found
 sporadically in sedimentary rocks; for example, in nodules of
-clay-ironstone in the Coal Measures, in the cement-doggers of the Lias,
+clay-ironstone in the Coal Measures, in the cement-doggers of the [[Lias]],
 and in the casts of fossil shells. It has occasionally been found on the
 old timbers of mines. In these cases the zinc sulphide has probably
 arisen from the reduction of sulphate by organic matter.

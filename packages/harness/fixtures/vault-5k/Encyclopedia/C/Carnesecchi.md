@@ -17,7 +17,7 @@ and protonotary to the Curia, and was first secretary to the pope, in
 which capacity he conducted the correspondence with the nuncios (among
 them Pier Paolo Bergerio in Germany) and a host of other duties. By his
 conduct at the conference with Francis I. at Marseilles he won the
-favour of Catherine de' Medici and other influential personages at the
+favour of [[Catherine De' Medici|Catherine de' Medici]] and other influential personages at the
 French court, who in later days befriended him. He made the acquaintance
 of the Spanish reformer Juan de Valdes at Rome, and got to know him as a
 theologian at Naples, being especially drawn to him through the

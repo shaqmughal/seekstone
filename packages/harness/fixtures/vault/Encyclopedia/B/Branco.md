@@ -13,7 +13,7 @@ and Uraricoera, about 3 deg. N. lat. and 60 deg. 28' W. long., and
 flowing south by west to a junction with the Negro. It has rapids in its
 upper course, but the greater part of its length of 348 m. is navigable
 for steamers of light draught. The Takutu rises in the Roraima and
-Coirrit ranges on the Guiana frontier, while the Uraricoera rises in the
+Coirrit ranges on the [[Guiana]] frontier, while the Uraricoera rises in the
 Serra de Parima, on the Venezuelan frontier, and has a length of 360 m.
 before reaching the Branco. These are white water rivers, from which the
 Branco (white) derives its name, and at its junction with the Negro the

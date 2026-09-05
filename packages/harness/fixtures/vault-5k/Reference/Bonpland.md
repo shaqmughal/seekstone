@@ -17,7 +17,7 @@ office which he soon quitted in order to explore central South America.
 While journeying to Bolivia he was arrested in 1821, by command of Dr
 Francia, the dictator of Paraguay, who detained him until 1831. On
 regaining liberty he resided at San Borga in the province of Corrientes,
-until his removal in 1853 to Santa Anna, where he died on the 4th of May
+until his removal in 1853 to Santa [[Anna]], where he died on the 4th of May
 1858.
 
 ## See also

@@ -1,7 +1,7 @@
 # Hansard
 
-HANSARD, LUKE (1752-1828), English printer, was born on the 5th of July
-1752 in St Mary's parish, Norwich. He was educated at Boston grammar
+HANSARD, [[Luke|LUKE]] (1752-1828), English printer, was born on the 5th of July
+1752 in St Mary's parish, Norwich. He was educated at [[Boston]] grammar
 school, and was apprenticed to Stephen White, a Norwich printer. As soon
 as his apprenticeship had expired Hansard started for London with only a
 guinea in his pocket, and became a compositor in the office of John
@@ -15,7 +15,7 @@ Greek. He printed the _Journals of the House of Commons_ from 1774 till
 his death. The promptitude and accuracy with which Hansard printed
 parliamentary papers were often of the greatest service to
 government--notably on one occasion when the proof-sheets of the report
-of the Secret Committee on the French Revolution were submitted to Pitt
+of the Secret Committee on the [[French Revolution]] were submitted to Pitt
 twenty-four hours after the draft had left his hands. On the union with
 Ireland in 1801, the increase of parliamentary printing compelled
 Hansard to give up all private printing except when parliament was not
@@ -46,15 +46,15 @@ HANSEATIC LEAGUE. It is impossible to assign any precise date for the
 beginning of the Hanseatic League or to name any single factor which
 explains the origin of that loose but effective federation of North
 German towns. Associated action and partial union among these towns can
-be traced back to the 13th century. In 1241 we find Lubeck and Hamburg
+be traced back to the 13th century. In 1241 we find Lubeck and [[Hamburg]]
 agreeing to safeguard the important road connecting the Baltic and the
 North Sea. The first known meeting of the "maritime towns," later known
 as the Wendish group and including Lubeck, Hamburg, Luneburg, Wismar,
 Rostock and Stralsund, took place in 1256. The Saxon towns, during the
 following century, were joining to protect their common interests, and
 indeed at this period town confederacies in Germany, both North and
-South, were so considerable as to call for the declaration against them
-in the Golden Bull of 1356. The decline of the imperial power and the
+South, were so considerable as to call for the [[Declaration|declaration]] against them
+in the Golden [[Bull]] of 1356. The decline of the imperial power and the
 growing opposition between the towns and the territorial princes
 justified these defensive town alliances, which in South Germany took on
 a peculiarly political character. The relative weakness of territorial
@@ -68,7 +68,7 @@ While the political element in the development of the Hanseatic League
 must not be underestimated, it was not so formative as the economic. The
 foundation was laid for the growth of German towns along the southern
 shore of the Baltic by the great movement of German colonization of
-Slavic territory east of the Elbe. This movement, extending in time from
+Slavic territory east of the [[Elbe]]. This movement, extending in time from
 about the middle of the 11th to the middle of the 13th century and
 carrying a stream of settlers and traders from the North-west, resulted
 not only in the Germanization of a wide territory but in the extension
@@ -80,9 +80,9 @@ advance of conquest and colonization.
 
 The impetus of this remarkable movement of expansion not only carried
 German trade to the East and North within the Baltic basin, but
-reanimated the older trade from the lower Rhine region to Flanders and
-England in the West. Cologne and the Westphalian towns, the most
-important of which were Dortmund, Soest and Munster, had long controlled
+reanimated the older trade from the lower Rhine region to [[Flanders]] and
+England in the West. [[Cologne]] and the Westphalian towns, the most
+important of which were [[Dortmund]], Soest and Munster, had long controlled
 this commerce but now began to feel the competition of the active
 traders of the Baltic, opening up that direct communication by sea from
 the Baltic to western Europe which became the essential feature in the
@@ -94,7 +94,7 @@ outlying trading posts, the establishment of common factories, or
 "counters" (Komtors) at these points, with aldermen to administer
 justice and to secure trading privileges for the community of German
 merchants--such were some of the unifying influences which preceded the
-gradual formation of the League. In the century of energetic commercial
+[[Gradual|gradual]] formation of the League. In the century of energetic commercial
 development before 1350 the German merchants abroad led the way.
 
 Germans were early pushing as permanent settlers into the Scandinavian
@@ -108,7 +108,7 @@ find the Gothland association making in 1229 a treaty with a Russian
 prince and securing privileges for their branch trading station at
 Novgorod. According to the "Skra," the by-laws of the Novgorod branch,
 the four aldermen of the community of Germans, who among other duties
-held the keys of the common chest, deposited in Wisby, were to be chosen
+held the [[Key|keys]] of the common chest, deposited in Wisby, were to be chosen
 from the merchants of the Gothland association and of the towns of
 Lubeck, Soest and Dortmund. The Gothland association received in 1237
 trading rights in England, and shortly after the middle of the century
@@ -136,7 +136,7 @@ traders under Lubeck's leadership may be witnessed in the West. As a
 consequence of the close commercial relations early existing between
 England and the Rhenish-Westphalian towns, the merchants of Cologne were
 the first to possess a gild-hall in London and to form a "hansa" with
-the right of admitting other German merchants on payment of a fee. The
+the right of admitting other German merchants on payment of a [[Fee|fee]]. The
 charter of 1226, however, by which Emperor Frederick II. created Lubeck
 a free imperial city, expressly declared that Lubeck citizens trading in
 England should be free from the dues imposed by the merchants of Cologne
@@ -149,8 +149,8 @@ traders had secured a recognized foothold in the enlarged and unified
 organization, Cologne retained the controlling interest in the London
 settlement until 1476. Lubeck and Hamburg, however, dominated the German
 trade in the ports of the east coast, notably in Lynn and Boston, while
-they were strong in the organized trading settlements at York, Hull,
-Ipswich, Norwich, Yarmouth and Bristol. The counter at London, first
+they were strong in the organized trading settlements at York, [[Hull]],
+[[Ipswich]], Norwich, Yarmouth and [[Bristol]]. The counter at London, first
 called the Steelyard in a parliamentary petition of 1422, claimed
 jurisdiction over the other factories in England.
 
@@ -162,7 +162,7 @@ the "Merchants of the Roman Empire," and in the later organization of
 the counter at Bruges four or five of the six aldermen were chosen from
 towns east of the Elbe, with Lubeck steadily predominant. The Germans
 recognized the staple rights of Bruges for a number of commodities, such
-as wool, wax, furs, copper and grain, and in return for this material
+as wool, wax, [[Fur|furs]], copper and grain, and in return for this material
 contribution to the growing commercial importance of the town, they
 received in 1309 freedom from the compulsory brokerage which Bruges
 imposed on foreign merchants. The importance and independence of the
@@ -180,10 +180,10 @@ union, this counter played a leading part in Hanseatic policy. It was
 more Hanse than the Hanse towns.
 
 The last of the chief trading settlements, both in importance and in
-date of organization, was that at Bergen in Norway, where in 1343 the
+date of organization, was that at [[Bergen]] in Norway, where in 1343 the
 Hanseatics obtained special trade privileges. Scandinavia had early been
 sought for its copper and iron, its forest products and its valuable
-fisheries, especially of herring at Schonen, but it was backward in its
+[[Fisheries|fisheries]], especially of herring at Schonen, but it was backward in its
 industrial development and its own commerce had seriously declined in
 the 14th century. It had come to depend largely upon the Germans for the
 importation of all its luxuries and of many of its necessities, as well
@@ -195,7 +195,7 @@ seasonal, but it did not acquire the position of a regularly organized
 counter, reserved alone, in the North, for Bergen. The commercial
 relations with the North cannot be regarded as an important element in
 the union of the Hanse towns, but the geographical position of the
-Scandinavian countries, especially that of Denmark, commanding the Sound
+Scandinavian countries, especially that of [[Denmark]], commanding the Sound
 which gives access to the Baltic, compelled a close attention to
 Scandinavian politics on the part of Lubeck and the League and thus by
 necessitating combined political action in defence of Hanseatic
@@ -208,7 +208,7 @@ meet difficulties arising from internal dissension and still more from
 the political rivalries and trade jealousies of nascent nationalities.
 Flanders became a battle-field in the great struggle between France and
 England, and the war of trade prohibitions led to infractions of the
-German privileges in Bruges. An embargo on trade with Flanders, voted in
+German privileges in Bruges. An [[Embargo|embargo]] on trade with Flanders, voted in
 1358 by a general assembly, resulted by 1360 in the full restoration of
 German privileges in Flanders, but reduced the counter at Bruges to an
 executive organ of a united town policy. It is worth noting that in a
@@ -268,13 +268,13 @@ authority of the counter at Bruges, and at the time of the war with
 England (1469-1474) openly defied the League. In the East, the German
 Order, while enjoying Hanseatic privileges, frequently opposed the
 policy of the League abroad, and was only prevented by domestic troubles
-and its Hinterland enemies from playing its own hand in the Baltic.
+and its [[Hinterland]] enemies from playing its own hand in the Baltic.
 After the fall of the order in 1467, the towns of Prussia and Livland,
 especially Dantzig and Riga, pursued an exclusive trade policy even
 against their Hanseatic confederates. Lubeck, however, supported by the
-Bruges counter, despite the disaffection and jealousy on all sides
+Bruges counter, despite the disaffection and [[Jealousy|jealousy]] on all sides
 hampering and sometimes thwarting its efforts, stood steadfastly for
-union and the necessity of obedience to the decrees of the assemblies.
+union and the necessity of obedience to the [[Decree|decrees]] of the assemblies.
 Its headship of the League, hitherto tacitly accepted, was definitely
 recognized in 1418.
 
@@ -293,9 +293,9 @@ general assembly, but the League had no recognized federal judiciary.
 Lubeck, with the counters abroad, watched over the execution of the
 measures voted by the assembly, but there was no regular administrative
 organization. Money for common purposes was raised from time to time,
-as necessity demanded, by the imposition on Hanse merchandise of
+as necessity demanded, by the [[Imposition|imposition]] on Hanse merchandise of
 poundage dues, introduced in 1361, while the counters relied upon a
-small levy of like nature and upon fines to meet current needs. Even
+small [[Levy|levy]] of like nature and upon fines to meet current needs. Even
 this slender financial provision met with opposition. The German Order
 in 1398 converted the Hanseatic poundage to a territorial tax for its
 own purposes, and one of the chief causes for Cologne's disaffection a
@@ -316,7 +316,7 @@ historical right of the citizens of a town to participate in Hanseatic
 privileges abroad. At first the merchant Hansas had shared these
 privileges with almost any German merchant, and thus many little
 villages, notably those in Westphalia, ultimately claimed membership.
-Later, under the Hansa of the towns, the struggle for the maintenance of
+Later, under the Hansa of the towns, the struggle for the [[Maintenance|maintenance]] of
 a coveted position abroad led to a more exclusive policy. A few new
 members were admitted, mainly from the westernmost sphere of Hanseatic
 influence, but membership was refused to some important applicants. In
@@ -348,8 +348,8 @@ the English Merchant Adventurers could finally rejoice at the withdrawal
 of privileges from the Hanseatics and their concession to England, in
 return for the retention of the Steelyard, of a factory in Hamburg. In
 the Netherlands the Hanseatics clung to their position in Bruges until
-1540, while trade was migrating to the ports of Antwerp and Amsterdam.
-By the peace of Copenhagen in 1441, after the unsuccessful war of the
+1540, while trade was migrating to the ports of [[Antwerp]] and Amsterdam.
+By the peace of [[Copenhagen]] in 1441, after the unsuccessful war of the
 League with Holland, the attempted monopoly of the Baltic was broken,
 and, though the Hanseatic trade regulations were maintained on paper,
 the Dutch with their larger ships increased their hold on the herring
@@ -358,10 +358,10 @@ Russian trade new competitors were emerging in southern Germany. The
 Hanseatic embargo against Bruges from 1451 to 1457, its later war and
 embargo against England, the Turkish advance closing the Italian Black
 Sea trade with southern Russia, all were utilized by Nuremberg and its
-fellows to secure a land-trade outside the sphere of Hanseatic
-influence. The fairs of Leipzig and Frankfort-on-Main rose in
+[[Fellows|fellows]] to secure a land-trade outside the sphere of Hanseatic
+influence. The fairs of Leipzig and [[Frankfort-On-Main|Frankfort-on-Main]] rose in
 importance as Novgorod, the stronghold of Hanse trade in the East, was
-weakened by the attacks of Ivan III. The closing of the Novgorod counter
+weakened by the attacks of [[Ivan]] III. The closing of the Novgorod counter
 in 1494 was due not only to the development of the Russian state but to
 the exclusive Hanseatic policy which had stimulated the opening of
 competing trade routes.
@@ -380,7 +380,7 @@ found impossible to enforce the staple or to close the Sound against the
 Dutch, other features of the monopolistic system of trade regulations
 were still upheld. It was forbidden to admit an outsider to partnership
 or to co-ownership of ships, to trade in non-Hanseatic goods, to buy or
-sell on credit in a foreign mart or to enter into contracts for future
+sell on [[Credit|credit]] in a foreign mart or to enter into contracts for future
 delivery. The trade of foreigners outside the gates of Hanse towns or
 with others than Hanseatics was forbidden in 1417, and in the Eastern
 towns the retail trade of strangers was strictly limited. The whole
@@ -399,7 +399,7 @@ comparable in unity and energy with those of France and England, which
 could quell particularism at home, and abroad maintain in its vigour the
 trade which these towns had developed and defended with their imperfect
 union. Nothing was to be expected from the declining Empire. Still less
-was any co-operation possible between the towns and the territorial
+was any [[Co-Operation|co-operation]] possible between the towns and the territorial
 princes. The fatal result of conflict between town autonomy and
 territorial power had been taught in Flanders. The Hanseatics regarded
 the princes with a growing and exaggerated fear and found some relief in
@@ -421,12 +421,12 @@ buildings were sold at Bergen in 1775, at London in 1852 and at Antwerp
 in 1863.
 
   BIBLIOGRAPHY.--_Hansisches Urkundenbuch_, bearbeitet von K. Hohlbaum,
-  K. Kunze und W. Stein (10 vols., Halle und Leipzig, 1876-1907);
+  K. Kunze und W. Stein (10 vols., [[Halle]] und Leipzig, 1876-1907);
   _Hanserecesse_, erste Abtheilung, 1256-1430 (8 vols., Leipzig,
   1870-1897), zweite Abtheilung, 1431-1476 (7 vols., 1876-1892); dritte
   Abtheilung, 1477-1530 (7 vols., 1881-1905); _Hansische
   Geschichtsquellen_ (7 vols., 1875-1894; 3 vols., 1897-1906);
-  _Inventare hansischer Archive des sechzehnten Jahrhunderts_ (vols. 1
+  _Inventare hansischer [[Archive]] des sechzehnten Jahrhunderts_ (vols. 1
   and 2, 1896-1903); _Hansische Geschictsblatter_ (14 vols., 1871-1908).
   All the above-mentioned chief sources have been issued by the Verein
   fur hansische Geschichte. Of the secondary literature, the following
@@ -436,14 +436,14 @@ in 1863.
   herausgegeben von J. M. Lappenberg (2 vols., Hamburg, 1830); F. W.
   Barthold, _Geschichte der deutschen Hansa_ (3 vols., 2nd ed., Leipzig,
   1862); D. Schafer, _Die Hansestadte und Konig Waldemar von Danemark_
-  (Jena, 1879); W. Stein, _Beitrage zur Geschichte der deutschen Hanse
+  ([[Jena]], 1879); W. Stein, _Beitrage zur Geschichte der deutschen Hanse
   bis um die Mitte des funfzehnten Jahrhunderts_ (Giessen, 1900); E.
   Daenell, _Die Blutezeit der deutschen Hanse. Hansische Geschichte von
   der zweiten Halfte des XIV. bis zum letzten Viertel des XV.
   Jahrhunderts_ (2 vols., Berlin, 1905-1906); J. M. Lappenberg,
   _Urkundliche Geschichte des hansischen Stahlhofes zu London_ (Hamburg,
   1851); F. Keutgen, _Die Beziehungen der Hanse zu England im letzten
-  Drittel des vierzehnten Jahrhunderts_ (Giessen, 1890); R. Ehrenberg,
+  Drittel des vierzehnten Jahrhunderts_ (Giessen, 1890); R. [[Ehrenberg]],
   _Hamburg und England im Zeitalter der Konigin Elisabeth_ (Jena, 1896);
   W. Stein, _Die Genossenschaft der deutschen Kaufleute zu Brugge in
   Flandern_ (Berlin, 1890); H. Rogge, _Der Stapelzwang des hansischen

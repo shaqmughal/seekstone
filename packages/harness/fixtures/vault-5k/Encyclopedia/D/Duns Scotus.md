@@ -8,10 +8,10 @@ topic: history
 
 DUNS SCOTUS, JOHN (1265 or 1275-1308), one of the foremost of the
 schoolmen. His birthplace has been variously given as Duns in
-Berwickshire, Dunum (Down) in Ulster, and Dunstane in Northumberland,
+[[Berwickshire]], Dunum (Down) in Ulster, and Dunstane in Northumberland,
 but there is not sufficient evidence to settle the question. He joined
 the Franciscan order in early life, and studied at Merton College,
-Oxford, of which he is said to have been a fellow. He became remarkably
+Oxford, of which he is said to have been a [[Fellow|fellow]]. He became remarkably
 proficient in all branches of learning, but especially in mathematics.
 When his master, William Varron, removed to Paris in 1301, Duns Scotus
 was appointed to succeed him as professor of philosophy, and his
@@ -19,7 +19,7 @@ lectures attracted an immense number of students. Probably in 1304 he
 went to Paris, in 1307 he received his doctor's degree from the
 university, and in the same year was appointed regent of the theological
 school. His connexion with the university was made memorable by his
-defence of the doctrine of the Immaculate Conception, in which he
+defence of the doctrine of the [[Immaculate Conception]], in which he
 displayed such dialectical ingenuity as to win for himself the title
 _Doctor Subtilis_. The doctrine long continued to be one of the main
 subjects in dispute between the Scotists and the Thomists, or, what is
@@ -31,7 +31,7 @@ oath to defend the doctrine of the Immaculate Conception. In 1308 Duns
 Scotus was sent by the general of his order to Cologne, with the twofold
 object of engaging in a controversy with the Beghards and of assisting
 in the foundation of a university; according to some, his removal was
-due to jealousy. He was received with enthusiasm by the inhabitants but
+due to [[Jealousy|jealousy]]. He was received with [[Enthusiasm|enthusiasm]] by the inhabitants but
 died suddenly (it was said, of apoplexy) on the 8th of November in the
 same year. There was also a tradition that he had been buried alive.
 
@@ -40,7 +40,7 @@ influenced, by the antagonism between the Dominicans and the
 Franciscans. Further, while the genius of Aquinas was constructive, that
 of Duns Scotus was destructive; Aquinas was a philosopher, Duns a
 critic. The latter has been said to stand to the former in the relation
-of Kant to Leibnitz. In the matter of Universals, Duns was more of a
+of [[Kant]] to Leibnitz. In the matter of Universals, Duns was more of a
 realist and less of an eclectic than Aquinas. Theologically, the
 Thomistic system approximates to pantheism, while that of Scotus
 inclines distinctly to Pelagianism. The doctrine of the Immaculate
@@ -71,7 +71,7 @@ SCHOLASTICISM.)
   The most important of his works consisted of questions and
   commentaries on the writings of Aristotle, and on the _Sentences_ of
   Lombard, the so-called _Opus Oxoniense_ or _Anglicanum_. Complete
-  works, edited by Luke Wadding (13 vols., Lyons, 1639) and at Paris (26
+  works, edited by [[Luke]] Wadding (13 vols., [[Lyons]], 1639) and at Paris (26
   vols., 1891-1895). There is an edition of his _De modis significandi_
   or _Grammatica speculativa_, the first attempt to investigate the
   general laws of language, by F.M. Fernández García (Quaracchi,

@@ -9,7 +9,7 @@ Plauen-im-Vogtland, and in 1586 superintendent at Oelnitz. On the 20th
 of October 1595 he took his doctorate in theology at Jena, his thesis on
 the _Symbolum Athanasii_ (1597), gaining him similar honours at
 Wittenberg and Leipzig. He was promoted (1605) to be pastor and
-superintendent at Dresden, and transferred (1616) to the superintendence
+superintendent at [[Dresden]], and transferred (1616) to the superintendence
 at Meissen, where he died on the 24th of February 1624. His works
 consist chiefly of commentaries and expository discourses on prophetic
 books of the Old Testament, parts of the Psalter, the Lord's Prayer and

@@ -9,8 +9,8 @@ tags: [thermodynamics-theory, history]
 
 ANSONIA, a city of New Haven county, Connecticut, U.S.A., coextensive
 with the township of the same name, on the Naugatuck river, immediately
-N. of Derby and about 12 m. N.W. of New Haven. It is served by the New
-York, New Haven & Hartford railway, and by interurban electric lines
+N. of [[Derby]] and about 12 m. N.W. of New Haven. It is served by the New
+York, New Haven & [[Hartford]] railway, and by interurban electric lines
 running N., S. and E. Pop. (1900) 12,681, of whom 4296 were foreign
 born; (1910 census) 13,152. Land area about 5.4 sq. m. The city has
 extensive manufactures of heavy machinery, electric supplies, brass and

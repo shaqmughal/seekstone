@@ -9,7 +9,7 @@ id: 42-6898
 # Ascus
 
 ASCUS (Gr. [Greek: askos], a bag), a botanical term for the membranous
-sacs containing the reproductive spores in certain lichens and fungi.
+sacs containing the reproductive spores in certain [[Lichens|lichens]] and [[Fungi|fungi]].
 Various compounds of the word are used, e.g. _ascophorous_, producing
 asci; _ascospore_, the spore (or sporule) developed in the ascus;
 _ascogonium_, the organ producing it, &c.

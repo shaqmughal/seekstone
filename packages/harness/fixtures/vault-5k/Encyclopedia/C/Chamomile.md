@@ -1,10 +1,10 @@
 # Chamomile
 
-CHAMOMILE, or Camomile Flowers, the _flores anthemidis_ of the British
+CHAMOMILE, or Camomile Flowers, the _[[Flores|flores]] anthemidis_ of the British
 Pharmacopoeia, the flower-heads of _Anthemis nobilis_ (Nat. Ord.
-_Compositae_), a herb indigenous to England and western Europe. It is
+_Compositae_), a [[Herb|herb]] indigenous to England and western Europe. It is
 cultivated for medicinal purposes in Surrey, at several places in
-Saxony, and in France and Belgium,--that grown in England being much
+Saxony, and in France and [[Belgium]],--that grown in England being much
 more valuable than any of the foreign chamomiles brought into the
 market. In the wild plant the florets of the ray are ligulate and white,
 and contain pistils only, those of the disk being tubular and yellow;

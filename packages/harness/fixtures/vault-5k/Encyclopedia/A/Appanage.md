@@ -19,7 +19,7 @@ children of reigning or mediatized houses in Germany and Austria, which
 reverts to the state or to the head of the family on the extinction of
 the line of the original grantee. In English history the system of
 appanages never played any great part, and the term is now properly
-applied only to the appanages of the crown: the duchy of Cornwall,
+applied only to the appanages of the crown: the duchy of [[Cornwall]],
 assigned to the king's eldest son at birth, or on his father's accession
 to the crown, and the duchy of Lancaster. In the history of France,
 however, the appanage was a very important factor. The word denotes in

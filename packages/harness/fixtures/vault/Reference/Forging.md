@@ -1,6 +1,6 @@
 # Forging
 
-FORGING, the craft of the smith, or "blacksmith," exercised on malleable
+FORGING, the [[Craft|craft]] of the smith, or "blacksmith," exercised on malleable
 iron and steel, in the production of works of constructive utility and
 of ornament. It differs from founding (q.v.) in the fact that the metal
 is never melted. It is essentially a moulding process, the iron or steel
@@ -13,7 +13,7 @@ and "swaging"); (2) enlargement of a smaller to a larger portion
 ("upsetting"); (3) bending, or turning round to any angle of curvature;
 (4) uniting one piece of metal to another ("welding"); (5) the formation
 of holes by punching; and (6) severance, or cutting off. These include
-all the operations that are done at the anvil. In none of these
+all the operations that are done at the [[Anvil|anvil]]. In none of these
 processes, the last excepted, is the use of a sharp cutting tool
 involved, and therefore there is no violence done to the fibre of the
 malleable metal. Nor have the tools of the smith any sharp edges, except
@@ -29,10 +29,10 @@ calculated to secure maximum strength.
     Fullering and swaging.
 
   Fullering denotes the preliminary roughing-down of the material
-  between tools having convex edges; swaging, the completion or
+  between tools having [[Convex|convex]] edges; swaging, the completion or
   finishing process between swages, or dies of definite shape, nearly
   hemispherical in form. When a bar has to be reduced from larger to
-  smaller dimensions, it is laid upon a fuller or round-faced stake, set
+  smaller [[Dimension|dimensions]], it is laid upon a [[Fuller|fuller]] or round-faced stake, set
   in the anvil, or, in some cases, on a flat face (fig. 1), and blows
   are dealt upon that portion of the face which lies exactly opposite
   with a fullering tool A, grasped by a rather loosely-fitting handle
@@ -51,7 +51,7 @@ calculated to secure maximum strength.
   is, when practicable, adopted in preference to either upsetting or
   welding, because it is open to no objection, and involves no risk of
   damage to the material, while it improves the metal by consolidating
-  its fibres. But its limitations in anvil work lie in the tediousness
+  its [[Fibres|fibres]]. But its limitations in anvil work lie in the tediousness
   of the operation, when the part to be reduced is very much less in
   diameter, and very much longer, than the original piece of bar. Then
   there are other alternatives.
@@ -90,13 +90,13 @@ calculated to secure maximum strength.
   with a hot sett or to welding. The continuity of the fibre in iron is
   preserved by bending, and the risk of an imperfect weld is avoided.
   Hence it is a simple and safe process which is constantly being
-  performed at the anvil. An objection to sharp bends, or those having a
+  performed at the anvil. An objection to sharp [[Bend|bends]], or those having a
   small radius, is that the fibres become extended on the outer radius,
   the cross section being at the same time reduced below that of the bar
   itself. This is met by imparting a preliminary amount of upsetting to
   the part to be bent, sufficient to counteract the amount of reduction
   due to extension of the fibres. A familiar example is seen in the
-  corners of dip cranks.
+  corners of dip [[Crank|cranks]].
 
   [Illustration: FIG. 5.]
 
@@ -123,7 +123,7 @@ calculated to secure maximum strength.
   is suitable for iron, but steel must not be made so hot. A very few
   hammer blows suffice to effect the actual union; if the joint be
   faulty, no amount of subsequent hammering will weld it. The forms of
-  weld-joints include the scarf (figs. 8 and 9), the butt (fig. 10), the
+  weld-joints include the scarf (figs. 8 and 9), the [[Butt|butt]] (fig. 10), the
   V (fig. 11) and the glut, one form of which is shown in fig. 12; the
   illustrations are of bars prepared for welding. These forms give the
   smith a suitable choice for different conditions. A convexity is
@@ -137,8 +137,8 @@ calculated to secure maximum strength.
   requires borax applied on the joint while in the fire, and also dusted
   on the joint at the anvil and on the face of the latter itself.
   Electric welding is largely taking the place of the hand process, but
-  machines are required to maintain the parts in contact during the
-  passage of the current. Butt joints are employed, and a large quantity
+  [[Machine|machines]] are required to maintain the parts in contact during the
+  passage of the current. Butt [[Joints|joints]] are employed, and a large quantity
   of power is absorbed, but the output is immensely greater than that of
   hand-made welds.
 
@@ -172,7 +172,7 @@ calculated to secure maximum strength.
     Cutting-off.
 
   The cutting-off or severance of material is done either on hot or cold
-  metal. In the first case the chisels used, "hot setts," have keener
+  metal. In the first case the [[Chisel|chisels]] used, "hot setts," have keener
   cutting angles than those employed for the second, termed "cold
   setts." One sett is held in a hole in the anvil face, the "anvil
   chisel," the other is handled and struck with a sledge.
@@ -193,7 +193,7 @@ fibrous character of iron, the welding of which gives much less anxiety
 to the smith than that of steel. Welds in iron are frequently made
 without any flux, those in steel never. Though mention has only been
 made of iron and steel, other alloys are forged, as those of aluminium,
-delta metal, &c. But the essential operations are alike, the differences
+[[Delta|delta]] metal, &c. But the essential operations are alike, the differences
 being in temperature at which the forging is done and nature of the
 fluxes used for welding. For hardening and tempering, an important
 section of smith's work, see ANNEALING.
@@ -210,11 +210,11 @@ enlarging, bending, punching, &c., are extremely simple, and the most
 elaborate forged work involves only a repetition of these. The fact that
 the material used is entirely plastic when raised to a white heat is
 most favourable to the method of forging in matrices or dies. A white
-hot mass of metal can be placed in a matrix, and stamped into shape in a
+hot mass of metal can be placed in a [[Matrix|matrix]], and stamped into shape in a
 few blows under a hammer with as much ease as a medal can be stamped in
 steel dies under a coining press. But much detail is involved in the
 translation of the principle into practice. The parallel between coining
-dies and forging dies does not go far. The blank for the coin is
+dies and forging dies does not go far. The [[Blank|blank]] for the [[Coin|coin]] is
 prepared to such exact dimensions that no surplus material is left over
 by the striking of the coin, which is struck while cold. But the blank
 used in die forging is generally a shapeless piece, taken without any

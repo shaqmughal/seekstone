@@ -6,7 +6,7 @@ topic: language-studies
 
 # Euphrates
 
-EUPHRATES (Babylon. _Purattu_, Heb. _Perath_, Arab. _Frat_ or _Furat_,
+EUPHRATES ([[Babylon]]. _Purattu_, Heb. _Perath_, Arab. _Frat_ or _Furat_,
 Old Pers. _Ufratu_, Gr. [Greek: Euphratês]), the largest river of
 western Asia. It may be divided into three divisions, upper, lower and
 middle, each of which is distinguished by special physical features, and
@@ -24,7 +24,7 @@ boundary of the Roman empire, is regarded also by Orientals as the main
 stream. It rises in the Dumlu Dagh, N.N.W. of Erzerum, in a large
 circular pool (altitude, 8625 ft.), which is venerated by Armenians and
 Moslems, and flows south-east to the plain of Erzerum (5750 ft.). Thence
-it continues through a narrow valley W.S.W. to Erzingan (3900 ft.),
+it continues through a narrow valley W.S.W. to [[Erzingan]] (3900 ft.),
 receiving on its way the Ovajik Su (right), the Tuzla Su (left), and the
 Merjan and Chanduklu (right). Below Erzingan the Frat flows south-west
 through a rocky gorge to Kemakh (_Kamacha_; Armenian, _Gamukh_), where
@@ -44,14 +44,14 @@ by the Turks Murad Su (_Arsanias Fl_.; Armenian, _Aradzani_; Arab. _Nahr
 Arsanas_), rises south-west of Diadin, in the northern flank of the Ala
 Dagh (11,500 ft.), and flows west to the Alashgerd plain. Here it is
 joined by the Sharian Su from the west, and the two valleys form a great
-trough through which the caravan road from Erzerum to Persia runs. The
+trough through which the [[Caravan|caravan]] road from Erzerum to Persia runs. The
 united stream breaks through the mountains to the south, and, receiving
 on its way the Patnotz Su (left) and the Khinis Su (right), flows
 south-west, west and south, through the rich plain of Bulanik to the
 plain of Mush. Here it is joined by the Kara Su (_Teleboas_), which,
 rising near Lake Van, runs past Mush and waters the plain. The river now
 runs W.S.W. through a deep rocky gorge, in which it receives the Gunig
-Su (right), to Palu (where there are cuneiform inscriptions); and
+Su (right), to Palu (where there are [[Cuneiform|cuneiform]] inscriptions); and
 continues through more open country to its junction with the Frat Su.
 About 10 m. E.N.E. of Kharput the Murad is joined by its principal
 tributary, the Peri Su, which drains the wild mountain district, Dersim,
@@ -66,36 +66,36 @@ the Sivas-Malatia road runs, and the Tokhma Su, from Gorun (_Gauraina_)
 and Darende. At the ferry on the Malatia-Kharput road (cuneiform
 inscription) it flows eastwards in a valley about a quarter of a mile
 wide, but soon afterwards enters a remarkable gorge, and forces its way
-through Mount Taurus in a succession of rapids and cataracts. After
+through Mount Taurus in a succession of rapids and [[Cataract|cataracts]]. After
 running south-east through the grandest scenery, and closely approaching
 the source of the western Tigris, it turns south-west and leaves the
 mountains a few miles above Samsat (_Samosata_; altitude, 1500 ft.). The
-general direction of the great gorges of the Euphrates, Pyramus (Jihun)
+general direction of the great [[Gorges|gorges]] of the Euphrates, Pyramus (Jihun)
 and Sarus (Sihun) seems to indicate that their formation was primarily
 due to the same terrestrial movements that produced the Jordan-'Araba
 depression to the south. The length of the Frat is about 275 m.; of the
 Murad, 415 m.; and of the Euphrates from the junction to Samsat, 115 m.
 
 _Middle Division_.--The middle division, which extends from Samsat to
-Hit, is about 720 m. long. In this part of its course the Euphrates runs
+[[Hit]], is about 720 m. long. In this part of its course the Euphrates runs
 through an open, treeless and sparsely peopled country, in a valley a
 few miles wide, which it has eroded in the rocky surface. The valley bed
 is more or less covered with alluvial soil, and cultivated in places by
 artificial irrigation. The method of this irrigation is peculiar. Three
-or four piers or sometimes bridges of masonry are run out into the bed
+or four piers or sometimes bridges of [[Masonry|masonry]] are run out into the bed
 of the river, frequently from both sides at once, raising the level of
 the stream and thus giving a water power sufficient to turn the gigantic
 wheel or wheels, sometimes almost 40 ft. in diameter, which lift the
 water to a trough at the top of the dam, whence it is distributed among
 the gardens and melon patches, rice, cotton, tobacco, liquorice and
-durra fields, between the immediate bed of the river and the rocky banks
-which shut it out from the desert. The wheels, called _naoura_, are of
+durra [[Fields|fields]], between the immediate bed of the river and the rocky banks
+which shut it out from the [[Desert|desert]]. The wheels, called _naoura_, are of
 the most primitive construction, made of rough branches of trees, with
-palm leaf paddles, rude clay vessels being slung on the outer edge to
+palm [[Leaf|leaf]] paddles, rude clay vessels being slung on the outer edge to
 catch the water, of which they raise a prodigious amount, only a
 comparatively small part of which, however, is poured into the aqueducts
 on top of the dams. These latter are exceedingly picturesque, often
-consisting of a series of well-built Gothic arches, and give a peculiar
+consisting of a series of well-built [[Gothic]] [[Arches|arches]], and give a peculiar
 character to the scenery; but they are also great impediments to
 navigation. In some parts of the river 300 _naouras_ have been counted
 within a space of 130 m., but of late years many have fallen into decay.
@@ -106,23 +106,23 @@ is gradually being substituted for the _naoura_, no more of the latter
 being constructed to take the place of those which fall into decay.
 
 In this part of its course the rocky sides of the valley, which
-sometimes closely approach the river, are composed of marls and gypsum,
+sometimes closely approach the river, are composed of [[Marl|marls]] and [[Gypsum|gypsum]],
 with occasional selenite, overlaid with sandstone, with a topping of
-breccia or conglomerate, and rise at places to a height of 200 ft. or
-more. At one point, however, 26 m. above Deir, where lie the ruins of
-Halebiya, the river breaks through a basaltic dike, el-Hamme, some 300
+[[Breccia|breccia]] or conglomerate, and rise at places to a height of 200 ft. or
+more. At one point, however, 26 m. above [[Deir]], where lie the ruins of
+Halebiya, the river breaks through a basaltic [[Dike|dike]], el-Hamme, some 300
 to 500 ft. high. On either side of the river valley a steppe-like
 desert, covered in the spring with verdure, the rest of the year barren
 and brown, stretches away as far as the eye can see. Anciently the
 country on both sides of the Euphrates was habitable as far as the river
 Khabur; at the present time it is all desert from Birejik downward, the
-camping ground of Bedouin Arabs, the great tribe of Anazeh occupying
+camping ground of Bedouin [[Arabs]], the great tribe of Anazeh occupying
 _esh-Sham_, the right bank, and the Shammar the left bank, Mesopotamia
 of the Romans, now called el-Jezireh or the island. To these the
 semi-sedentary Arabs who sparsely cultivate the river valley, dwelling
 sometimes in huts, sometimes in caves, pay a tribute, called _kubbe_, or
 brotherhood, as do also the riverain towns and villages, except perhaps
-the very largest. The Turkish government also levies taxes on the
+the very largest. The Turkish government also [[Levi|levies]] taxes on the
 inhabitants of the river valley, and for this purpose, and to maintain a
 caravan route from the Mediterranean coast to Bagdad, maintains stations
 of a few _zaptiehs_ or _gens d'armes_, at intervals of about 8 hours
@@ -133,7 +133,7 @@ the river to-day are Samsat, Birejik, Deir, 'Ana and Hit.
 In early times the Euphrates was important as a boundary. It was the
 theoretical eastern limit of the Jewish kingdom; for a long time it
 separated Assyria from the Khita or Hittites; it divided the eastern
-from the western satrapies of Persia (Ezra iv. 17; Neh. ii. 7); and it
+from the western satrapies of Persia ([[Ezra]] iv. 17; Neh. ii. 7); and it
 was at several periods the boundary of the Roman empire. Until the
 advent of the nomads from central Asia, and the devastation of
 Mesopotamia and the opposite Syrian shore of the river, there were many
@@ -159,11 +159,11 @@ a little to the west of south, over a sandy or pebbly bed, past Jerablus
 (? _Europus, Carchemish_, the ancient Hittite capital), near which the
 Sajur (_Sagura_; _Sangar_ of the Assyrian inscriptions) enters from the
 west, to Meskene, 2 m. southward of which are the ruins of Barbalissus
-(Arab. _Balis_), the former port of Aleppo, now, owing to changes in the
+(Arab. _[[Bali|Balis]]_), the former port of Aleppo, now, owing to changes in the
 bed, some distance from the water. Six miles below this the ruins of
 Kal'at Dibse mark the site of the ancient Thapsacus (_Tiphsah_ of 1
 Kings iv. 24), the most important passage of the middle Euphrates, where
-both Cyrus, on his expedition against his brother, and Alexander the
+both [[Cyrus]], on his expedition against his brother, and Alexander the
 Great crossed that river, and the ancient port of Syria. Here the river
 turns quite sharply eastward. A day's journey beyond Meskene are the
 remains of Siffin (Roman _Sephe_), where Moawiya defeated the caliph Ali
@@ -177,7 +177,7 @@ Mesopotamian side of the river, are the extensive ruins of Haragla
 (_Heraclea_) and Rakka, once the capital of Harun al-Rashid
 (_Nicephorium_ of Alexander; _Callinicus_ of the Seleucids and Romans).
 Here the Belikh (_Bilechas_) joins the Euphrates, flowing southward
-through the biblical Aram Naharaim from Urfa (_Edessa_) and Harran
+through the biblical [[Aram]] Naharaim from Urfa (_Edessa_) and [[Harran]]
 (_Carrhae_); and from this point to el-Kaim four days' below Deir, the
 course of the river is south-easterly. Two days' journey beyond Rakka,
 where the Euphrates breaks through the basalt dike of el-Hamme, are two
@@ -186,7 +186,7 @@ Mesopotamian side called Zelebiya (Chanuga), and that on the Syrian,
 much the finer of the two, Halebiya or Zenobiya, the ancient Zenobia.
 Twenty-six miles farther down lies the town of Deir (q.v.), where the
 river divides into two channels and the river valley opens out into
-quite extensive plains. Here the roads from Damascus, by way of Palmyra,
+quite extensive plains. Here the roads from [[Damascus]], by way of Palmyra,
 and from Mosul, by way of the Khabur, reach the Euphrates, and here
 there must always have been a town of considerable commercial and
 strategic importance. The region is to-day covered with ruins and ruin
@@ -222,10 +222,10 @@ Salahiya, on a bluff on the Mesopotamian side of the river, are the
 conspicuous ruins Of el-'Irsi (_Corsote_?). Half a day's journey beyond,
 at a point where two great wadis enter the Euphrates, on the Syrian
 side, stands Jabriya, an unidentified ruined town of Babylonian type,
-with walls of unbaked brick, instead of the stone heretofore
+with walls of unbaked [[Brick|brick]], instead of the stone heretofore
 encountered. At this point the river turns sharply a little north of
 east, continuing on that course somewhat over 40 m. to 'Ana, where it
-bends again to the south-east. Just above 'Ana are rapids, and from this
+[[Bend|bends]] again to the south-east. Just above 'Ana are rapids, and from this
 point to Hit the river is full of islands, while the bed is for the most
 part narrow, leaving little cultivable land between it and the bluffs.
 'Ana itself, a very ancient town, of Babylonian origin, once sacred
@@ -244,9 +244,9 @@ Malcha; while Jibba has not been identified. The fourth city, Thilutha
 or Olabus, once occupied the present deserted island of Telbeis, half a
 day's journey below 'Ana. About half-way between 'Ana and Hit, in the
 neighbourhood of Haditha, the river has a breadth of 300 yds., with a
-depth of 18 ft., and a flood speed of 4 knots. At this point we begin to
+depth of 18 ft., and a [[Flood|flood]] speed of 4 [[Knot|knots]]. At this point we begin to
 encounter sulphur springs and bitter streams redolent with bitumen, a
-formation which reaches its climax at Hit (q.v.), where a small stream
+formation which reaches its [[Climax|climax]] at Hit (q.v.), where a small stream
 (the "river of Ahava" of Ezra viii. 21) enters the Euphrates from the
 Syrian side, on which, about 8 m. from its mouth, stands the small town
 of Kubeitha.
@@ -255,7 +255,7 @@ The middle Euphrates, from Samsat to Hit, is to-day an avenue of ruins,
 of which only the more conspicuous or important have been indicated
 here. It was from a remote period, antedating certainly 3000 B.C., the
 highway of empire and of commerce between east and west, more
-specifically between Babylonia or Irak and Syria, and numerous empires,
+specifically between Babylonia or [[Irak]] and Syria, and numerous empires,
 peoples and civilizations have left their records on its shores. Its
 time of greatest prosperity and importance was the period of the Abbasid
 caliphate, and Arabic geographers as late as A.D. 1200 mention an
@@ -276,11 +276,11 @@ neighbourhood of Warka, and no trace of rock, except at el-Haswa, above
 Hillah. At Hit the river is from 30 to 35 ft. in depth, with a breadth
 of 250 yds., and a current of 4 m. an hour, but from this point it
 diminishes in volume, receiving no new affluents but dissipating itself
-in canals and lagoons. At Feluja, in the latitude of Bagdad, the
+in canals and [[Lagoon|lagoons]]. At Feluja, in the [[Latitude|latitude]] of Bagdad, the
 Euphrates and Tigris closely approach each other, and then, widening
 out, enclose the plain of Babylonia (Arab. _Sawad_). Through this part
 of its course the current of the river, except where restricted by
-floating bridges--at Feluja, Mussaib, Hillah, Diwanieh and Samawa--does
+floating bridges--at Feluja, Mussaib, Hillah, [[Diwanieh]] and Samawa--does
 not normally exceed a mile an hour, and both on the main stream and on
 its canals the _jerd_ or ox-bucket takes the place of the _naoura_ or
 water-wheel for purposes of irrigation.
@@ -328,13 +328,13 @@ which Babylon was built, the artificial deviation, as is clear from the
 cuneiform inscriptions. In the time of Alexander the nomenclature was
 reversed, the right arm being known as Pallacopas. Under the Arabs the
 old designation again prevailed and the Euphrates is always described by
-the Arabian geographers as the river which flows direct to Kufa, while
+the Arabian geographers as the river which flows direct to [[Kufa]], while
 the present stream, passing along the ruins of Babylon to Hillah and
 Diwanieh, has been universally known as the Nahr Sura. Occidental
 geographers, however, have followed the Greek use, and so to-day we call
 the river of Babylon or Nahr Sura the Euphrates and the older westerly
 channel the Hindieh canal. At the present time the preservation of the
-embankments about the point of bifurcation demands the constant care of
+[[Embankment|embankments]] about the point of bifurcation demands the constant care of
 the Bagdad government. The object is to allow sufficient water to drain
 off to the westward for the due irrigation of the land, while the Hillah
 bed still retains the main volume of the stream, and is navigable to the
@@ -347,7 +347,7 @@ was again divided into several streams, and indeed the most famous of
 all the ancient canals was the Arakhat (_Archous_ of the Greeks and
 _Serrat_ and _Nil_ of the Arabs), which left that river just above
 Babylon and ran due east to the Tigris, irrigating all the central part
-of the Jezireh, and sending down a branch through Nippur and Erech to
+of the Jezireh, and sending down a branch through Nippur and [[Erech]] to
 rejoin the Euphrates a little above the modern Nasrieh. The Narss, also,
 the modern Daghara, which is still navigable to Nippur and beyond, left
 the Sura a little below Hillah; and at the present day another large
@@ -390,16 +390,16 @@ the control of the Turkish authorities, and navigation of the river
 between Korna and Suk-esh-Sheiukh is unsafe owing to the attacks of
 armed pirates. From Garmat Ali, where the Tigris and Euphrates at
 present unite,[1] under the title of Shatt-el-Arab, the river sweeps on
-to Basra, 1000 yds. in width and from 3 to 5 fathoms deep, navigable for
+to Basra, 1000 yds. in width and from 3 to 5 [[Fathom|fathoms]] deep, navigable for
 steamers of good size. From Korna to Basra the banks of the river are
 well cultivated and the date groves almost continuous; indeed this is
 the greatest date-producing region of the world. Twenty-five miles below
-Basra the river Karun from Shushter and Dizful throws off an arm, which
+Basra the river Karun from Shushter and [[Dizful]] throws off an arm, which
 seems to be artificial, into the Euphrates. This arm is named the
 Haffar, and at the confluence is situated the Persian town of Muhamrah,
 a place most conveniently located for trade. In this vicinity was
 situated, at the time of the Christian era, the Parthian city of
-Spasini-Charax, which was succeeded by Bahman Ardashir (_Bamishir_)
+Spasini-Charax, which was succeeded by Bahman [[Ardashir]] (_Bamishir_)
 under the Sassanians, and by Moharzi under the Arabs. The left bank of
 the river from this point belongs to Persia. It consists of an island
 named Abbadan, about 45 m. long, formed by alluvial deposits during the
@@ -429,7 +429,7 @@ irrigation were restored, sufficient grain could be grown to alter the
 conditions of the wheat supply of the world. At the present time,
 instead of the innumerable cities of former days, there is a succession
 of small towns along the course of the river--Ramadiya, Feluja, Mussaïb,
-Hillah, Diwanieh, Samawa, el-Khudr (an ancient daphne or sacred grove,
+Hillah, Diwanieh, Samawa, el-Khudr (an ancient [[Daphne|daphne]] or sacred grove,
 31° 11' 58" N., 76° 6' 9" E., the only one anywhere which preserves to
 this day its ancient charter of the inviolability of all life within its
 precincts), Nasrieh and Suk-esh-Sheiukh--by means of which the Turkish
@@ -458,14 +458,14 @@ introduction of steam navigation rendered the Red Sea accessible at all
 seasons of the year, the political correspondence of the home and Indian
 governments usually passed by the Euphrates route. Various plans were
 suggested for the development of this route as a means of goods as well
-as postal conveyance, and in 1835 Colonel F.R. Chesney was sent out at
+as postal [[Conveyance|conveyance]], and in 1835 Colonel F.R. Chesney was sent out at
 the head of an expedition with instructions to transport two steamers
 from the Mediterranean to the Euphrates, and, after putting them
 together at Birejik, to attempt the descent of the river to the sea. One
 of these steamers was lost in a squall during the passage down the river
 near el-'Irsi, but the other performed the voyage in safety and thus
 demonstrated the practicability of the downward navigation. Following on
-this first experiment, the East India Company, in 1841, proposed to
+this first experiment, the [[East India Company]], in 1841, proposed to
 maintain a permanent flotilla on the Tigris and Euphrates, and set two
 vessels, the "Nitocris" and the "Nimrod," under the command of Captain
 Campbell of the Indian navy, to attempt the ascent of the latter river.
@@ -475,14 +475,14 @@ expedition was to show that practically the river could not be used as a
 high-road of commerce, the continuous rapids and falls during the low
 season, caused mainly by the artificial obstructions of the irrigating
 dams, being insurmountable by ordinary steam power, and the aid of
-hundreds of hands being thus required to drag the vessels up the stream
+hundreds of hands being thus required to [[Drag|drag]] the vessels up the stream
 at those points by main force. Under Midhat Pasha, governor-general of
 Bagdad from 1866 to 1871, an attempt was made by the Turkish authorities
 to establish regular steam navigation on the Euphrates. Midhat caused
 many of the dams to be destroyed and for some years occasional steamers
 were run between Meskene and Hillah in flood time, from April to August.
 But with the transfer of Midhat this feeble attempt at navigation was
-abandoned. At the present time the river is navigated by sailing craft
+abandoned. At the present time the river is navigated by sailing [[Craft|craft]]
 of some size from Hit downward. Above that point there is no navigation
 except by the native rafts (_kellek_), which descend the river and are
 broken up on arrival at their point of destination. There is, however,
@@ -506,15 +506,15 @@ the railway question see BAGDAD.)
   BIBLIOGRAPHY.--Gen. F.R. Chesney, _Euphrates Expedition_ (1850); W.F.
   Ainsworth, _Researches in Assyria and Babylonia_ (1838), and _Personal
   Narrative of the Euphrates Expedition_ (1888); A.H. Layard, _Nineveh
-  and Babylon_ (1853); W.K. Loftus, _Chaldaea and Susiana_ (1857); Geo.
+  and Babylon_ (1853); W.K. [[Loftus]], _Chaldaea and Susiana_ (1857); Geo.
   Rawlinson, _Herodotus_, bk. 1, essay ix. (1862); A. Blunt, _Bedouin
   Tribes of the Euphrates_ (1873); Josef Cernik, _Studien-Expedition_
-  (1873); H. Kiepert, _Ruinenfelder Babyloniens_ (1883); Ed. Sachau,
+  (1873); H. [[Kiepert]], _Ruinenfelder Babyloniens_ (1883); Ed. Sachau,
   _Reise in Syrien u. Mesopotamien_ (1883), and _Am Euphrat u. Tigris_
   (1900); Guy Le Strange, "Description of Mesopotamia," in _Journal of
   the Royal Asiatic Society_ (1895), and _Baghdad under the Abbasid
   Caliphate_ (1901); J.P. Peters, _Nippur_ (1897); M. v. Oppenheim, _Vom
-  Mittelmeer zum Persischen Golf_ (1900); H.V. Geere, _By Nile and
+  Mittelmeer zum Persischen [[Golf]]_ (1900); H.V. Geere, _By Nile and
   Euphrates_ (1904); Baedeker, _Palestine and Syria_ (1906); Murray,
   _Handbook to Asia Minor_, &c., section iii.
        (H. C. R.; C. W. W.; J. P. Pe.)

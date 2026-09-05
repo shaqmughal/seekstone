@@ -1,6 +1,6 @@
 # Maximus Of Tyre
 
-MAXIMUS OF TYRE (CASSIUS MAXIMUS TYRIUS), a Greek rhetorician and
+MAXIMUS OF TYRE ([[Cassius|CASSIUS]] MAXIMUS TYRIUS), a Greek rhetorician and
 philosopher who flourished in the time of the Antonines and Commodus
 (2nd century A.D.). After the manner of the sophists of his age, he
 travelled extensively, delivering lectures on the way. His writings
@@ -116,7 +116,7 @@ researches of Rawlinson. But Max Müller undoubtedly did far more to
 popularize the subject than had been done, or could have been done, by
 any predecessor. He was on less sure ground in another department of the
 study of language--the problem of its origin. He wrote upon it as a
-disciple of Kant, whose _Critique of Pure Reason_ he translated. His
+[[Disciple|disciple]] of Kant, whose _Critique of Pure Reason_ he translated. His
 essays on mythology are among the most delightful of his writings, but
 their value is somewhat impaired by a too uncompromising adherence to
 the seductive generalization of the solar myth.

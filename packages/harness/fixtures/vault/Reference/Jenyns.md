@@ -2,7 +2,7 @@
 
 JENYNS, SOAME (1704-1787), English author, was born in London on the 1st
 of January 1704, and was educated at St John's College, Cambridge. In
-1742 he was chosen M.P. for Cambridgeshire, in which his property lay,
+1742 he was chosen M.P. for [[Cambridgeshire]], in which his property lay,
 and he afterwards sat for the borough of Dunwich and the town of
 Cambridge. From 1755 to 1780 he was one of the commissioners of the
 board of trade. He died on the 18th of December 1787.

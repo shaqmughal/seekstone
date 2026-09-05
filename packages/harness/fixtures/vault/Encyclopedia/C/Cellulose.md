@@ -10,13 +10,13 @@ CELLULOSE, the name given to both an individual--cellulose proper, in
 the restricted sense of a chemical individual--and to a group of
 substances, the celluloses or cellulose group, which constitute in
 infinitely varied forms the containing envelope of the plant cell. They
-are complex carbohydrates, or "saccharo-colloids" (Tollens), and are
+are complex [[Carbohydrate|carbohydrates]], or "saccharo-colloids" (Tollens), and are
 resolved by ultimate hydrolysis into monoses. The typical cellulose is
 represented by the empirical formula C6H10O5, identical with that of
 starch, with which it has many chemical analogies as well as
 physiological correlations. The representative "cellulose" is the main
 constituent of the cotton fibre substance, and is obtainable by treating
-the raw fibre with boiling dilute alkalis, followed by chlorine gas or
+the raw fibre with boiling dilute alkalis, followed by [[Chlorine|chlorine]] gas or
 bromine water, or simply by alkaline oxidants. The cellulose thus
 purified is further treated with dilute acids, and then exhaustively
 with alcohol and ether. Chemical filter-paper (Swedish) is practically
@@ -41,7 +41,7 @@ monoses, glucosamine and acetic acid. The celluloses of the phanerogams
 are generally associated, in a degree ranging from physical mixture to
 chemical union, with other complicated substances, constituting the
 "compound celluloses." The nature of the associated groups affords a
-convenient classification into pecto-celluloses, ligno-celluloses and
+convenient [[Classification|classification]] into pecto-celluloses, ligno-celluloses and
 cuto-celluloses. _Pecto-celluloses_ are so named because the associated
 substances--carbohydrates, together with their oxidation products, i.e.
 containing either two carbonyls (CO) in the unit group or carboxyl (CO.OH)
@@ -52,7 +52,7 @@ are characterized by the presence of benzenoid and furfuroid groups; and
 although essentially complex, they may be regarded as homogeneous, and are
 conveniently grouped under the name _lignone_. The lignone complex reacts,
 by its unsaturated groups, with the halogens. It is a complex containing
-but little hydroxyl; and is of relatively high carbon percentage
+but little hydroxyl; and is of relatively high [[Carbon|carbon]] percentage
 (55.0-57.0%). _Cuto-celluloses_ predominate in the protective coatings of
 plant organs, and are characterized by constituent groups, the
 decomposition products of which are compounds of the fatty series, and
@@ -65,7 +65,7 @@ another leading textile fibre in which the cellulose occurs associated
 with alkali-soluble colloidal carbohydrates. Pecto-celluloses are found
 in the stems of the Gramineae (cereal straws, esparto), and in the
 fibro-vascular bundles of monocotyledons used as textile and rope-making
-fibres. They are the chief constituents of the fleshy parenchyma of
+[[Fibres|fibres]]. They are the chief constituents of the fleshy parenchyma of
 fruits, tubers, rhizomes. Ligno-celluloses find their chemical
 representative in the jute fibre. They constitute the woods, and are
 therefore of the widest distribution and the highest industrial utility.
@@ -82,7 +82,7 @@ series, and of very high molecular weight.
 
 _Cellulose and Botanical Science._--The elaboration of cellulose, i.e.
 of the cell walls, and its morphological and physiological aspects are
-discussed in the articles PLANTS: _Physiology, Anatomy_: and CYTOLOGY;
+discussed in the articles PLANTS: _Physiology, Anatomy_: and [[Cytology|CYTOLOGY]];
 while in the article COAL the part played by cellulose in the formation
 of these deposits receives treatment: here we may deal with its general
 relation to agriculture. In the analysis of fodder plants and other
@@ -100,7 +100,7 @@ crude fibre in typical food-stuffs and agricultural produce:--
   +----------+-----------+--------------+-----------+
   | Wheat    |    2.8    | Rape         |    6.4    |
   | Barley   |    6.3    | Cotton       |    7.5    |
-  | Oats     |    9.0    | Beans        |   10.0    |
+  | Oats     |    9.0    | [[Bean|Beans]]        |   10.0    |
   | Maize    |    5.2    | Peas         |   10.0    |
   | Rye      |    8.0    | Lentils      |   10.0    |
   | Rice     |    2.5    | Vetches      |    7.2    |
@@ -113,9 +113,9 @@ crude fibre in typical food-stuffs and agricultural produce:--
   |Stems and Foliage|Per cent |  Fodder Crops.  |Per cent of| Cereal  |Per cent |
   | of Root Crops.  |of Fibre.|                 |  Fibre.*  | Straws. |of Fibre.|
   +-----------------+---------+-----------------+-----------+---------+---------+
-  | White Turnip    |   3.9   | Grasses         |   32.0    | Oats    |  60.68  |
-  | Swedish Turnip  |   4.2   | Meadow Hay      |   25.8    | Wheat   |  75.77  |
-  | Carrot          |   3.1   | Clover & Trefoil|   23.5    | Barley  |  71.74  |
+  | White Turnip    |   3.9   | [[Grasses]]         |   32.0    | Oats    |  60.68  |
+  | Swedish Turnip  |   4.2   | Meadow [[Hay]]      |   25.8    | Wheat   |  75.77  |
+  | Carrot          |   3.1   | [[Clover]] & Trefoil|   23.5    | Barley  |  71.74  |
   | Mangel          |   2.6   | Vetches         |   25.9    |         |         |
   | Parsnip         |   2.6   | Lucerne         |   26.7    |         |         |
   |                 |         | Sainfoin        |   28.7    |         |         |
@@ -155,19 +155,19 @@ mixed with other cellulosic matter which has served as litter, they add
 "fibre" to the soil and, as a mechanical diluent of the mineral soil
 components, maintain this in a more open condition, penetrable by the
 atmospheric gases, and promoting distribution of moisture. Further by
-breaking down, with production of "humus," a complex of colloidal
+breaking down, with production of "[[Humus|humus]]," a complex of colloidal
 "unsaturated" bodies of acid function, they fulfil important chemical
 functions by interaction with the mineral soil constituents.
 
-_Chemistry of Cellulose._--Purified cotton cellulose, which is the
+_[[Chemistry]] of Cellulose._--Purified cotton cellulose, which is the
 definitive prototype of the cellulose group or series, is a complex of
 monoses or their "residues." It is resolved by solution in sulphuric
-acid and subsequent hydrolysis of the esters thus produced into
+acid and subsequent hydrolysis of the [[Esters|esters]] thus produced into
 dextrose. This fundamental fact with its elementary composition, most
 simply expressed by the formula C6H10O5, has caused it to be regarded as
 a polyanhydride of dextrose. Forming, as it does, simple esters in the
 ratio of the reacting hydroxyls 3OH: C6H10O5, and taking into account
-its direct converson into [omega]-brom-methyl furfural (Fenton) a
+its direct converson into [omega]-brom-methyl furfural ([[Fenton]]) a
 constitutional formula has been proposed by A.G. Green (_Zeit. Farb.
 Textil Chem._ 3, pp. 97 and 309 (1904)), which is a useful
 generalization of its reactions, and its ultimate relations to the
@@ -178,7 +178,7 @@ simpler carbohydrates, viz.,
   CH(OH).CH.CH2 .
 
 Green considers, moreover, that a group thus formulated may consistently
-represent the actual dimensions of the reacting unit, but that unit of
+represent the actual [[Dimension|dimensions]] of the reacting unit, but that unit of
 larger dimensions, if postulated, is easily derived from the above by
 oxygen linkings.
 
@@ -220,7 +220,7 @@ characteristic as to form and appearance, e.g. bleached flax, hemp,
 ramie. It is hygroscopic, absorbing 6 to 7% its weight of moisture from
 the air. When dry, it is an electrical insulator, and has a specific
 inductive capacity of about 7: when wetted it is a conductor, and
-manifests electrolytic phenomena.[1] It is insoluble in water and in the
+[[Manifest|manifests]] electrolytic phenomena.[1] It is insoluble in water and in the
 ordinary solvents; it dissolves, however, in a 40-50% solution of zinc
 chloride, and in ammoniacal solutions of copper oxide (3% CuO, 15% NH3):
 from these solutions it is obtained as a highly hydrated, gelatinous
@@ -244,7 +244,7 @@ concentrated nitric acid, either alone or in the presence of sulphuric
 acid: the normal dinitrate represents a definite stage in the series of
 nitrates, and the ester at this point manifests the important property
 of solubility in various alcoholic solvents, notably ether-alcohol. Such
-nitrates are the basis of collodion, of artificial silk by the processes
+nitrates are the basis of [[Collodion|collodion]], of artificial silk by the processes
 of Chardonnet and Lehner, and of celluloid or xylonite. Higher nitrates
 are also obtainable up to the limit of the trinitrate, which is
 insoluble in ether or alcohol, but is soluble in nitroglycerin,
@@ -253,17 +253,17 @@ the most important modern explosives.
 
 Cellulose reacts directly with acetic anhydride to form low esters; in
 the presence of sulphuric acid the reaction proceeds to higher limits;
-the triacetate is soluble in chloroform. The acid sulphuric ester,
+the triacetate is soluble in [[Chloroform|chloroform]]. The acid sulphuric ester,
 C6H8O3(SO4H)2, is obtained by the action of sulphuric acid, but its
 relation to the original cellulose is doubtful. The monobenzoate and
 dibenzoate are formed by benzoyl chloride reacting on alkali-cellulose
-(see below). Cellulose xanthates are obtained from carbon bisulphide and
+(see below). Cellulose xanthates are obtained from [[Carbon Bisulphide|carbon bisulphide]] and
 alkali-cellulose; these are water soluble derivatives and the basis of
 "viscose," and of important industries. Mixed esters---aceto-sulphate,
 aceto-benzoate, nitrobenzoyl nitrates, aceto-nitro-sulphates--have also
 been investigated.
 
-Cellulose (cotton), when treated with a 15-20% caustic soda solution,
+Cellulose (cotton), when treated with a 15-20% [[Caustic|caustic]] soda solution,
 gives the compound C6H10O5.H2O.2NaOH, alkali-cellulose, the original
 riband-like form with reticulated walls of the cellulose being
 transformed into a smooth-walled cylinder. The structural changes in the
@@ -276,7 +276,7 @@ and fabrics be antagonized by mechanical means, a very high lustre is
 developed.
 
 Similar, but less definite compounds, are formed with the oxides of
-lead, manganese, barium, iron, aluminium and chromium. These
+lead, manganese, [[Barium|barium]], iron, aluminium and chromium. These
 derivatives, which also find industrial applications in the dyeing and
 printing of fabrics, differ but little in appearance from the original
 cellulose, and are without influence on its essential characteristics.
@@ -290,7 +290,7 @@ readily attacked by alkalis, with the production of soluble derivatives;
 some dextrose is formed in the original reaction. Hydrobromic acid in
 ethereal solution gives furfurane derivatives. Cold dilute acids have no
 perceptible action on cellulose. The actions of such acids are an
-important auxiliary to bleaching, dyeing and printing processes, but
+important [[Auxiliary|auxiliary]] to [[Bleaching|bleaching]], dyeing and printing processes, but
 they require careful limitation in respect of concentration and
 temperature. Cellulose is extremely resistant to the action of dilute
 alkalis: a 1-2% solution of sodium hydrate having little action at
@@ -311,11 +311,11 @@ induce decompositions which are resolutions into ultimate products of
 the lowest molecular dimensions, as hydrogen, carbon dioxide, methane,
 acetic acid and butyric acid (Omeliansky) (_Handb. Techn. Mykologie_ [F.
 Lafar] pp. 245-268), but generally the cellulose complex is extremely
-resistant to the organic ferments. Cellulose burns with a luminous flame
-to carbon dioxide and water; dry distillation gives a complicated
-mixture of gaseous and liquid products and a residue of charcoal or
+resistant to the organic ferments. Cellulose [[Burns|burns]] with a luminous flame
+to carbon dioxide and water; dry [[Distillation|distillation]] gives a complicated
+mixture of gaseous and liquid products and a residue of [[Charcoal|charcoal]] or
 pseudo-carbon. Chromic acid in sulphuric acid solutions effects a
-complete oxidation, i.e. combustion to water and carbonic acid.
+complete oxidation, i.e. [[Combustion|combustion]] to water and carbonic acid.
 
 _Ligno-celluloses._--These compounds have many of the characteristics of
 the cellulose esters; they are in effect ethereal compounds of cellulose
@@ -324,7 +324,7 @@ hydrolysis by weak alkalis or acids. The cellulose varies in amount from
 80 to 50%, and the lignone varies inversely as the degree of
 lignification, that is, from the lignified bast fibre of annuals, of
 which jute is a type, to the dense tissues of the perennial
-dicotyledonous woods, typified by the beech. The empirical formula of
+dicotyledonous woods, typified by the [[Beech|beech]]. The empirical formula of
 the lignone complex varies from C19H22O9 (jute) to C26H30O10 (pine
 wood). In certain reactions the non-cellulose or lignone constituents
 are selectively converted into soluble derivatives, and may be separated
@@ -355,7 +355,7 @@ acetic acid solution (A. Hantzsch, _Ber._ 20, p. 2033). The complex
 contains methoxy (OCH3) groups. There is also present a residue which is
 readily broken down by oxidizing agents, and indeed by simple
 hydrolysis, to acetic acid. Another important group of actual
-constituents are pentosanes--partially isolated as "wood gum" by
+constituents are pentosanes--partially isolated as "wood [[Gum|gum]]" by
 solution in alkalis--and furfural derivatives (hydroxy furfurals)
 derived from these. The actual constitutional relationships of these
 main groups, as well as the localization of the methoxy groups, are
@@ -366,7 +366,7 @@ cases reactions of certain constituents invariably present in the
 natural forms of the ligno-cellulose; which may be removed without
 affecting the essential character of the lignone complex. Aniline salts
 generally give a yellow coloration, dimethyl-para-phenylenediamine gives
-a deep red coloration, phloroglucin in hydrochloric acid gives a crimson
+a deep red coloration, phloroglucin in hydrochloric acid gives a [[Crimson|crimson]]
 coloration. Reactions more definitely characteristic of the lignone
 are:--ferric ferrocyanide, which is taken up and transformed into
 Prussian blue throughout the fibre, without affecting its structure,
@@ -408,13 +408,13 @@ all strengths effects complete resolution. Chromic acid in dilute
 solutions combines with the lignone complex, but in presence of
 hydrolysing acids total oxidation of the lignone is determined. The
 principal products are oxalic, carbonic, formic and acetic acids. This
-reaction is an index of constitution. Generally, the lignone is attacked
+reaction is an [[Index|index]] of constitution. Generally, the lignone is attacked
 under many conditions and by many reagents which are without action upon
 cellulose, by virtue of its unsaturated constitution, and its acid and
 aldehydic residues.
 
 _Cuto-cellulose._--A typical cuto-cellulose is the cuticle (peel) of the
-apple which, when purified by repeated hydrolytic treatment and finally
+[[Apple|apple]] which, when purified by repeated hydrolytic treatment and finally
 by alcohol and ether, gives a product of the composition C = 75.66%, H =
 11.37%, O = 14.97%. Hydrolysis by strong alkalis gives stearo-cutic
 acid, C28H48O4, and oleo-cutic acid, C14H20O4 (Fremy). Cork is a complex
@@ -541,7 +541,7 @@ which can be moulded, turned and fashioned.
 FOOTNOTE:
 
   [1] C.F. Cross and E.J. Bevan, _Jour. Chem. Soc._, 1895, 67, p. 449;
-    C.R. Darling, _Jour. Faraday Soc._ 1904; A. Campbell, _Trans. Roy.
+    C.R. Darling, _Jour. [[Faraday]] Soc._ 1904; A. Campbell, _Trans. Roy.
     Soc._ 1906.
 
 ## References

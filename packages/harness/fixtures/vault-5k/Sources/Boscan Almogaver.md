@@ -18,7 +18,7 @@ written in his youth, before 1526, in which year he became acquainted
 with the Venetian ambassador, Andrea Navagiero, who urged him to adopt
 Italian measures, and this advice gave a new turn to Boscan's activity.
 The remaining books contain a number of pieces in the Italian manner,
-the longest of these being _Hero y Leander_, a poem in blank verse,
+the longest of these being _Hero y Leander_, a poem in [[Blank|blank]] verse,
 based on Musaeus. Boscan's best effort, the _Octava Rima_, is a skilful
 imitation of Petrarch and Bembo. Boscan also published in 1534 an
 admirable translation of Castiglione's _Il Cortegiano_. Italian measures

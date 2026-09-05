@@ -25,9 +25,9 @@ chains of the open-link type are to a great extent made by machinery.
 For larger sizes the smith cuts off a length of iron rod of suitable
 diameter, forms it while hot to the shape of the link by repeated blows
 of his hammer, and welds together the two ends of the link, previously
-slipped inside its fellow, by the aid of the same tool; in some cases
+slipped inside its [[Fellow|fellow]], by the aid of the same tool; in some cases
 the bending is done in a mechanical press and the welding under a power
-hammer (see also CABLE). Weldless chains are also made; in A.G.
+hammer (see also [[Cable|CABLE]]). Weldless chains are also made; in A.G.
 Strathern's process, for instance, cruciform steel bars are pressed,
 while hot, into links, each without join and engaging with its
 neighbours. Chains used for transmitting power are known as

@@ -14,9 +14,9 @@ of the modern kingdom in 1830, its derivation from ancient times is
 clear and incontrovertible. Beginning with the Belgae and the Gallia
 Belgica of the Romans, the use of the adjective to distinguish the
 inhabitants of the south Netherlands can be traced through all stages of
-subsequent history. During the Crusades, and in the middle ages, the
+subsequent history. During the [[Crusades]], and in the middle ages, the
 term _Belgicae principes_ is of frequent occurrence, and when in 1790
-the Walloons rose against Austria during what was called the Brabant
+the Walloons rose against Austria during what was called the [[Brabant]]
 revolution, their leaders proposed to give the country the name of
 Belgique. Again in 1814, on the expulsion of the French, when there was
 much talk of founding an independent state, the same name was suggested
@@ -35,7 +35,7 @@ on the E. and S.E., and by France on the S. Its land frontiers measure
 793 m., divided as follows:--with Holland 269 m., with Prussia 60 m.,
 with the grand duchy 80 m. and with France 384 m. In addition it has a
 sea-coast of 42 m. The western portion of Belgium, consisting of the two
-Flanders, Antwerp and parts of Brabant and Hainaut, is flat, being
+[[Flanders]], [[Antwerp]] and parts of Brabant and Hainaut, is flat, being
 little above the level of the sea; and indeed at one point near Furnes
 it is 7 ft. below it. The same description applies more or less to the
 north-east, but in the south of Hainaut and the greater part of Brabant
@@ -44,15 +44,15 @@ altitudes rising to more than 600 ft. South of the Meuse, and in the
 district distinguished by the appellation "Between Sambre and Meuse,"
 the level is still greater, and the whole of the province of Luxemburg
 is above 500 ft., with altitudes up to 1650 ft. In the south-eastern
-part of the province of Liege there are several points exceeding 2000
+part of the province of [[Liege]] there are several points exceeding 2000
 ft. The highest of these is the Baraque de Michel close to the Prussian
 frontier, with an altitude of 2190 ft. The Baraque de Fraiture,
 north-east of La Roche, is over 2000 ft. While the greater part of
-western and northern Belgium is devoid of the picturesque, the Ardennes
+western and northern Belgium is devoid of the picturesque, the [[Ardennes]]
 and the Fagnes districts of "Between Sambre and Meuse" and Liege contain
-much pleasant and some romantic scenery. The principal charm of this
+much pleasant and some romantic scenery. The principal [[Charm|charm]] of this
 region is derived from its fine and extensive woods, of which that
-called St Hubert is the best known. There are no lakes in Belgium, but
+called St [[Hubert]] is the best known. There are no lakes in Belgium, but
 otherwise it is exceedingly well watered, being traversed by the Meuse
 for the greater part of its course, as well as by the Scheldt and the
 Sambre. The numerous affluents of these rivers, such as the Lys, Dyle,
@@ -63,7 +63,7 @@ Flanders, where they give a distinctive character to the country. But
 the most striking feature in Belgium, where so much is modern,
 utilitarian and ugly, is found in the older cities with their relics of
 medieval greatness, and their record of ancient fame. These, in their
-order of interest, are Bruges, Antwerp, Louvain, Brussels, Ghent, Ypres,
+order of interest, are Bruges, Antwerp, Louvain, Brussels, [[Ghent]], Ypres,
 Courtrai, Tournai, Furnes, Oudenarde and Liege. It is to them rather
 than to the sylvan scenes of the Ardennes that travellers and tourists
 flock.
@@ -76,19 +76,19 @@ winters are more severe.
 _Geology._--Belgium lies upon the northern side of an ancient mountain
 chain which has long been worn down to a low level and the remnants of
 which rise to the surface in the Ardennes, and extend eastward into
-Germany, forming the Eifel and Westerwald, the Hunsruck and the Taunus.
+Germany, forming the [[Eifel]] and Westerwald, the Hunsruck and the Taunus.
 Westward the chain lies buried beneath the Mesozoic and Tertiary beds of
 Belgium and the north of France, but it reappears in the west of England
-and Ireland. It is the "Hercynian chain" of Marcel Bertrand, and is
+and Ireland. It is the "Hercynian chain" of [[Marcel]] [[Bertrand]], and is
 composed entirely of Palaeozoic rocks. Upon its northern margin lie the
 nearly undisturbed Cretaceous and Tertiary beds which cover the greater
-part of Belgium. The latest beds which are involved in the folds of this
+part of Belgium. The latest beds which are involved in the [[Fold|folds]] of this
 mountain range belong to the Coal Measures, and the final elevation must
 have taken place towards the close of the Carboniferous period. The fact
-that in Belgium Jurassic beds are found upon the southern and not upon
+that in Belgium [[Jurassic]] beds are found upon the southern and not upon
 the northern margin indicates that in this region the chain was still a
 ridge in Jurassic times. In the Ardennes the rocks which constitute the
-ancient mountain chain belong chiefly to the Devonian System, but
+ancient mountain chain belong chiefly to the [[Devonian System]], but
 Cambrian beds rise through the Devonian strata, forming the masses of
 Rocroi, Stavelot, &c., which appear to have been islands in the Devonian
 sea. The Ordovician and Silurian are absent here, and the Devonian rests
@@ -99,23 +99,23 @@ through the overlying Tertiary deposits. Carboniferous beds occur in the
 north of the Palaeozoic area. Near Dinant they are folded amongst the
 Devonian beds, but the most important band runs along the northern
 border of the Ardennes. In this band lie the coalfields of Liege, and of
-Mons and Charleroi. It is a long and narrow trough, which is separated
-from the older rocks of the Ardennes by a great reversed fault, the
+Mons and [[Charleroi]]. It is a long and narrow trough, which is separated
+from the older rocks of the Ardennes by a great reversed [[Fault|fault]], the
 _faille du midi_. In the southern half of the trough the folding of the
 Coal Measures is intense; in the northern half it is much less violent.
 The structure is complicated by a thrust-plane which brings a mass of
 older beds upon the Coal Measures in the middle of the trough. Except
 along the southern border of the Ardennes, and at one or two points in
-the middle of the Palaeozoic massif, Triassic and Jurassic beds are
+the middle of the Palaeozoic [[Massif|massif]], Triassic and Jurassic beds are
 unknown in Belgium, and the Palaeozoic rocks are directly and
 unconformably overlaid by Cretaceous and Tertiary deposits. The
 Cretaceous beds are not extensive, but the Wealden deposits of
-Bernissart, with their numerous remains of Iguanodon, and the chalk of
+Bernissart, with their numerous remains of [[Iguanodon]], and the chalk of
 the district about the Dutch frontier near Maastricht, with its very
 late Cretaceous fauna, are of special interest.
 
 Exclusive of the Ardennes the greater part of Belgium is covered by
-Tertiary deposits. The Eocene, consisting chiefly of sands and marls,
+Tertiary deposits. The Eocene, consisting chiefly of sands and [[Marl|marls]],
 occupies the whole of the west of the country. The Oligocene forms a
 band stretching from Antwerp to Maastricht, and this is followed towards
 the north by a discontinuous strip of Miocene and a fairly extensive
@@ -140,7 +140,7 @@ _Area and Population._--The area comprises 2,945,503 hectares, or about
   | Flanders W. |      1249      |     845,732   |     677.8      |
   | Hainaut     |      1437      |   1,192,967   |     830.18     |
   | Liege       |      1117      |     863,254   |     772.8      |
-  | Limburg     |       931      |     255,359   |     274.28     |
+  | [[Limburg]]     |       931      |     255,359   |     274.28     |
   | Luxemburg   |      1706      |     225,963   |     132.45     |
   | Namur       |      1414      |     357,759   |     253        |
   +-------------+----------------+---------------+----------------+
@@ -210,12 +210,12 @@ constitutional, representative and hereditary monarchy." Having decided
 in favour of a monarchy, the provisional government first offered the
 throne to the due de Nemours, son of Louis-Philippe, but this offer was
 promptly withdrawn on the discovery that Europe would not endorse it. It
-was then offered to Prince Leopold of Saxe-Coburg, widower of the
-princess Charlotte of England, and accepted by him. The prince was
+was then offered to Prince [[Leopold]] of Saxe-Coburg, widower of the
+princess [[Charlotte]] of England, and accepted by him. The prince was
 proclaimed on the 4th of June 1831 as Leopold I., king of the Belgians,
 and on the 21st of July 1831 he was solemnly inaugurated in Brussels.
-The succession is vested in the heirs male of Leopold I., and should
-they ever make complete default the throne will be declared vacant, and
+The succession is vested in the [[Heir|heirs]] male of Leopold I., and should
+they ever make complete [[Default|default]] the throne will be declared vacant, and
 a national assembly composed of the two chambers elected in double
 strength will make a fresh nomination. In 1894 a new article numbered 61
 was inserted in the constitution providing that "in default of male
@@ -247,9 +247,9 @@ except a pass on the state railways, attached to the rank of senator.
 The chamber of representatives contained one hundred and fifty-two
 members until 1899, when the number was increased to one hundred and
 sixty-six. Deputies are elected for four years, but half the house is
-re-elected every two years. A deputy must be twenty-five years of age,
+re-elected every two years. A [[Deputy|deputy]] must be twenty-five years of age,
 and the members of both houses must be of Belgian nationality, born or
-naturalized. A deputy receives an annual honorarium of 4000 francs and a
+naturalized. A deputy receives an annual honorarium of 4000 [[Franc|francs]] and a
 railway pass. Down to 1893 the electorate was exceedingly small.
 Property and other qualifications kept the voting power in the hands of
 a limited class. This may be judged from the fact that in the year named
@@ -257,7 +257,7 @@ there were only 137,772 voters out of a population of 65 millions. In
 April 1894 the new electoral law altered the whole system. The property
 qualification was removed and every Belgian was given one vote on
 attaining twenty-five years of age and after one year's residence in his
-commune. At the same time the principle of multiple votes for certain
+[[Commune|commune]]. At the same time the principle of multiple votes for certain
 qualifications was introduced. The Belgian citizen on reaching the age
 of thirty-five, providing he is married or is a widower with legitimate
 offspring and pays five francs of direct taxes, gets a second vote. Two
@@ -270,12 +270,12 @@ change in the system of parliamentary elections was made in 1899-1900,
 when proportional representation was introduced. Proportional
 representation aims at the protection of minorities, and its working out
 is a little intricate, or at all events difficult to describe. The
-following has been accepted as a clear definition of what proportional
+following has been accepted as a clear [[Definition|definition]] of what proportional
 representation is:--electoral district has the number of its members
 apportioned in accordance with the total strength of each party or
 political programme in that district. As a rule there are only the three
 chief parties, viz. Catholic, Liberal and Socialist, but the presence of
-Catholic-Democrats or some other new faction may increase the total to
+Catholic-Democrats or some other new [[Faction|faction]] may increase the total to
 four or even five. The number of seats to be filled is divided by the
 number of parties or candidates, and then they are distributed in the
 proportion of the total followers or voters of each. The smallest
@@ -293,9 +293,9 @@ Catholic-Democrat.
 
 The king has one right which other constitutional rulers do not possess.
 He can initiate proposals for new laws (_projets de loi_). He is also
-charged with the executive power which he delegates to a cabinet
+charged with the executive power which he delegates to a [[Cabinet|cabinet]]
 composed of ministers chosen from the party representing the majority in
-the chamber. Down to 1884 the Liberal party had held power with very few
+the chamber. Down to 1884 the [[Liberal Party|Liberal party]] had held power with very few
 intervals since 1840. The Catholic party succeeded to office in 1884.
 The ministers represent departments for finance, foreign affairs,
 colonies, justice, the interior, science and arts, war, railways, posts
@@ -311,10 +311,10 @@ portfolios at the same time, but such cases are rare.
 The kingdom is divided into nine provinces which are subdivided into 342
 cantons and 2623 communes. The provinces are governed by a governor
 nominated by the king, the canton is a judicial division for marking the
-limit of the jurisdiction of each _juge de paix_, and the commune is the
+limit of the jurisdiction of each _[[Juge|juge]] de paix_, and the commune is the
 administrative unit, possessing self-government in all local matters.
 For each commune of 5000 inhabitants or over, a burgomaster is appointed
-by the communal council which is chosen by the electors of the commune.
+by the communal council which is chosen by the [[Electors|electors]] of the commune.
 As three years' residence is required these electors are fewer in number
 than those for the legislature. In 1902 there were 1,146,482 voters with
 2,007,704 votes, the principles of multiple votes, with, however, a
@@ -330,7 +330,7 @@ establishments of, and the benevolent institutions kept up by, the Roman
 Church. The grant to other cults amounted to 118,000 francs, but small
 as this sum may appear it is in due proportion to the relative numbers
 of each creed. The hierarchy of the Church of Rome in Belgium is
-composed of the archbishop of Malines, and the bishops of Liege, Ghent,
+composed of the archbishop of [[Malines]], and the bishops of Liege, Ghent,
 Bruges, Tournai and Namur. The archbishop receives L800, and the bishops
 L600 apiece from the state yearly. The pay of the village _cure_
 averages L80 a year and a house. Besides the regular clergy there are
@@ -340,7 +340,7 @@ work, and the development in such institutions is considerable.
 
 _Education._--Education, though not obligatory, is free for those who
 cannot pay for it. In the primary schools instruction in reading,
-writing, arithmetic, history and geography is obligatory. In 1904 there
+writing, [[Arithmetic|arithmetic]], history and [[Geography|geography]] is obligatory. In 1904 there
 were 7092 primary schools with 859,436 pupils of both sexes. Of these
 807,383 did not pay. Primary education is supposed to continue till the
 age of fourteen, but in practice it stops at twelve for all who do not
@@ -383,13 +383,13 @@ year 1904-1905 at each university was Ghent 899, Liege 1983, Brussels
 famed for the technical schools attached to it. There are also a large
 number of state-aided schools for special purposes; (1) for military
 instruction, there are the _Ecole Militaire_ at Brussels, the school of
-cadets at Namur, and army schools at different stations, e.g. Bouillon,
+[[Cadet|cadets]] at Namur, and army schools at different stations, e.g. Bouillon,
 &c. For officers in the army, there are the _Ecole de Guerre_ or staff
 college at Brussels with an average attendance of twenty, a riding
-school at Ypres where a course is obligatory for the cavalry and horse
+school at Ypres where a course is obligatory for the [[Cavalry|cavalry]] and horse
 artillery, and for soldiers in the army there are regimental schools and
 evening classes for illiterate soldiers. (2) For education in the arts,
-there is the Royal Academy of Fine Arts at Antwerp, and besides this
+there is the Royal Academy of [[Fine Arts]] at Antwerp, and besides this
 famous school of painting there are eighty-four academies for teaching
 drawing throughout the kingdom. In music, there are royal conservatoires
 at Brussels, Antwerp, Ghent, and Liege. Besides these there are
@@ -406,7 +406,7 @@ research and literary style the government awards periodical prizes
 which are very keenly contested.
 
 _Justice._--The administration of justice is very fully organized, and
-in the Code Belge, which was carefully compiled between 1831 and 1836
+in the [[Code]] Belge, which was carefully compiled between 1831 and 1836
 from the old laws of the nine provinces leavened by the Code Napoleon
 and modern exigencies, the Belgians claim that they possess an almost
 perfect statute-book. The courts of law in their order are _Cour de
@@ -435,7 +435,7 @@ held as the length of the calendar requires. Capital punishment is
 retained on the statute, but is never enforced, the prisoner on whom
 sentence of death is passed in due form in open court being relegated to
 imprisonment for life in solitary confinement and perpetual silence. The
-chief prisons are at Louvain, Ghent and St Gilles (Brussels), and the
+chief prisons are at Louvain, Ghent and St [[Gill|Gilles]] (Brussels), and the
 last named serves as a house of detention. At Merxplas, near the Dutch
 frontier, is the agricultural criminal colony at which an average number
 of two thousand prisoners are kept employed in comparative liberty
@@ -461,13 +461,13 @@ in the years stated as follows:--
   +-------+----------------------+---------------------+
 
 The revenue is made up from taxes, including customs, tolls, including
-returns from railway traffic, &c., and the balance comes from various
+returns from railway traffic, &c., and the [[Balance|balance]] comes from various
 revenues, return of capital, loans, &c. The following are the principal
-items of expenditure (1903):--
+[[Item|items]] of expenditure (1903):--
 
-  Service of debt                     143,065,352 francs
+  Service of [[Debt|debt]]                     143,065,352 francs
   Sovereign, senate, chamber, &c.       5,289,087    "
-  Departments, foreign office           3,751,636    "
+  Departments, [[Foreign Office|foreign office]]           3,751,636    "
        "       agriculture             12,253,957    "
        "       railways               165,086,019    "
        "       finance                 34,479,674    "
@@ -487,21 +487,21 @@ annually. The rate of interest on all the loans extant is 3%, except on
 one loan of 219,959,632 francs, which pays only 2-1/2%.
 
 _Army and National Defence._--The army is divided into the regular army,
-the gendarmerie, and the _garde civique_. The Belgian regular army is
-thus composed: infantry, one regiment of carabiniers, one of grenadiers,
+the [[Gendarmerie|gendarmerie]], and the _garde civique_. The Belgian regular army is
+thus composed: infantry, one regiment of [[Carabiniers|carabiniers]], one of grenadiers,
 three of _chasseurs a pied_, and fourteen of the line, all these
-regiments having 3 or 4 active and 3 or 4 reserve battalions apiece;
+regiments having 3 or 4 active and 3 or 4 reserve [[Battalion|battalions]] apiece;
 cavalry, two regiments of guides, two of _chasseurs a cheval_, and four
 of lancers, all light cavalry; artillery, four horse, thirty field, and
 seventy siege batteries on active service; engineers, 140 officers and
-2000 men. The train or commissariat has only 30 officers and 600 men on
+2000 men. The train or [[Commissariat|commissariat]] has only 30 officers and 600 men on
 the permanent establishment. Belgium retains the older form of
 conscription, and has not adopted the system of "universal service." The
-annual levy is small and substitution is permitted. In 1904 the number
+annual [[Levy|levy]] is small and substitution is permitted. In 1904 the number
 inscribed for service was 64,042. Of these only 12,525 were enrolled in
 the army, and of that number 1421 were volunteers, who took an
 engagement on receipt of a premium. The effective strength of the army
-in 1904 with the colours was 3406 officers and 40,382 men. To this total
+in 1904 with the [[Colours|colours]] was 3406 officers and 40,382 men. To this total
 has to be added the men on the active list, but either absent on leave
 or allowed to return to civil life, numbering 70,043. It is assumed that
 on mobilization these men are immediately available. The reserve
@@ -513,7 +513,7 @@ since 1870, but the total paper strength is 75,000 more than in that
 year. In the years 1900-1904 it increased by 8000 men. The gendarmerie
 is a mounted force composed of men picked for their physique and divided
 into three divisions. It numbers 67 officers and 3079 men, but has no
-reserve. It is in every sense a _corps d'elite_, and may be classed as
+reserve. It is in every sense a _[[Corps|corps]] d'elite_, and may be classed as
 first-rate heavy cavalry. The total strength of the _garde civique_ in
 1905 was 35,102, to which have to be added 8532 volunteers belonging to
 the corps of older formation, service in which counts on a par with the
@@ -523,14 +523,14 @@ does not pretend to possess military value. It is a defence against
 sedition and socialism. The defence of Belgium depends on five fortified
 positions. The fortified position and camp of Antwerp represents the
 true base of the national defence. Its detached forts shelter the city
-from bombardment, and so long as sea communication is open with England,
+from [[Bombardment|bombardment]], and so long as sea communication is open with England,
 Antwerp would be practically impregnable. Liege with twelve forts and
 Namur with nine forts are the fortified _tetes de pont_ protecting the
 two most important passages of the Meuse. The forts are constructed in
-concrete with armoured cupolas. Termonde on the Scheldt and Diest on the
+concrete with armoured [[Cupola|cupolas]]. Termonde on the Scheldt and [[Diest]] on the
 Dender are retained as nominally fortified positions, but neither, could
 resist a regular bombardment for more than a few hours, as their
-casemates are not bomb-proof.
+[[Casemate|casemates]] are not bomb-proof.
 
 The training camp of the Belgian army is at Beverloo in the province of
 Limburg, and at Braschaet not far from Antwerp are ranges for artillery
@@ -541,18 +541,18 @@ in military service.
 _Mines and Industry._--The principal mineral produced in Belgium is
 coal. This is found in the Borinage district near Mons and in the
 neighbourhood of Liege, but the working of an entirely new coal-field,
-which promises to attain vast dimensions, was commenced in 1906 in the
+which promises to attain vast [[Dimension|dimensions]], was commenced in 1906 in the
 Campine district of the province of Limburg. The coal mines of Belgium
 give employment to nearly 150,000 persons, and for some years the
 average output has exceeded 22,000,000 tons. Other minerals are iron,
 manganese, lead and zinc. The iron mines produce much less than
 formerly, and the want of iron is a grave defect in Belgian prosperity,
 as about L5,000,000 sterling worth of iron has to be imported annually,
-chiefly from French Lorraine. The chief metal industry of the country is
+chiefly from French [[Lorraine]]. The chief metal industry of the country is
 represented by the iron and steel works of Charleroi and Liege. Belgium
-is particularly rich in quarries of marble, granite and slate. Ghent is
+is particularly rich in quarries of [[Marble|marble]], granite and slate. Ghent is
 the capital of the textile industry, and all the towns of Flanders are
-actively engaged in producing woollen and cotton materials and in lace
+actively engaged in producing woollen and cotton materials and in [[Lace|lace]]
 manufacture. The bulk of the population is, however, engaged in
 agriculture, and the extent of land under cultivation of all kinds is
 about 6-1/2 million acres.
@@ -584,10 +584,10 @@ foreign states:--
   | Holland       | 240,873,000   "    | 268,781,000   "    |
   | United States | 222,301,000   "    |  86,324,000   "    |
   | Russia        | 212,119,000   "    |  26,671,000   "    |
-  | Argentina     | 198,913,000   "    |  41,508,000   "    |
+  | [[Argentina]]     | 198,913,000   "    |  41,508,000   "    |
   | British India | 141,669,000   "    |  25,860,000   "    |
   | Rumania       | 102,174,000   "    |   3,949,000   "    |
-  | Australia     |  58,190,000   "    |  12,087,000   "    |
+  | [[Australia]]     |  58,190,000   "    |  12,087,000   "    |
   | Congo State   |  53,100,000   "    |  14,049,000   "    |
   | China         |   8,770,000   "    |  25,546,000   "    |
   +---------------+--------------------+--------------------+
@@ -598,7 +598,7 @@ following Great Britain, the United States, Germany, France and Holland.
 The principal imports are food supplies and raw material such as cotton,
 wool, silk, flax, hemp and jute. Among minerals, iron ore, sulphur,
 copper, coal, tin, lead and diamonds are the most imported. The exports
-of greatest value are textiles, lace, coal, coke, briquettes, glass,
+of greatest value are textiles, lace, coal, coke, [[Briquette|briquettes]], glass,
 machinery, railway material and fire arms.
 
 _Shipping and Navigation._--Belgium has no state navy, although various
@@ -606,7 +606,7 @@ proposals have been made from time to time to establish an armed
 flotilla in connexion with the defence of Antwerp. The state, however,
 possesses a certain number of steamers. In 1904 they numbered sixty-five
 of 99,893 tons. These steamers are chiefly employed on the passenger
-route between Ostend and Dover. The total number of vessels entering the
+route between Ostend and [[Dover]]. The total number of vessels entering the
 only two ports of Belgium which carry on ocean commerce, namely Antwerp
 and Ostend, in 1904 was 7650 of a tonnage of 10,330,127. Among inland
 ports that of Ghent is the most important, 1127 ships of a tonnage of
@@ -615,7 +615,7 @@ ships sailing from the two ports first named were in the same year 7642
 and tonnage 10,298,405. The figures from Ghent were 1128 and 787,173
 tons. Whereas the lines of steamers from Ostend are chiefly with Dover
 and London, those from Antwerp proceed to all parts of the world. A
-steam service was established in 1906 from Hull to Bruges by Zeebrugge
+steam service was established in 1906 from [[Hull]] to Bruges by Zeebrugge
 and the ship canal.
 
 _Internal Communications._--The internal communications of Belgium of
@@ -641,7 +641,7 @@ of discount was 3% throughout the whole of the year.
 
 The mintage of Belgian money is carried out by a _directeur de la
 fabrication_ who is nominated by and responsible to the government. The
-gold coins are for 10 and 20 francs, silver for half francs, francs, 2
+gold [[Coin|coins]] are for 10 and 20 francs, silver for half francs, francs, 2
 francs and 5 francs. Nickel money is for 5, 10 and 20 centimes, and the
 copper coinage has been withdrawn from circulation.
 
@@ -684,14 +684,14 @@ HISTORY[1]
 
 The political severance of the northern and southern Netherlands may be
 conveniently dated from the opening of the year 1579. By the signing of
-the league of Arras (5th of January) the Walloon "Malcontents" declared
+the league of [[Arras]] (5th of January) the Walloon "Malcontents" declared
 their adherence to the cause of Catholicism and their loyalty to the
 Spanish king, and broke away definitely from the northern provinces, who
 bound themselves by the union of Utrecht (29th of January) to defend
 their rights and liberties, political and religious, against all foreign
 potentates. Brabant and Flanders were still indeed under the control of
 the prince of Orange and through his influence accepted in 1582 the duke
-of Anjou as their sovereign. The French prince was actually inaugurated
+of [[Anjou]] as their sovereign. The French prince was actually inaugurated
 duke of Brabant at Antwerp (February 1582) and count of Flanders at
 Bruges (July), but his misconduct speedily led to his withdrawal from
 the Netherlands, and even before the assassination of Orange (July 1584)
@@ -716,13 +716,13 @@ appointed governor-general, but he died after a short tenure of office
 (20th of February 1595) and was at the beginning of 1596 succeeded by
 his younger brother the cardinal archduke Albert. Philip was now nearing
 his end, and in 1598 he gave his eldest daughter Isabel in marriage to
-her cousin the archduke Albert, and erected the Netherlands into a
+her [[Cousin|cousin]] the archduke Albert, and erected the Netherlands into a
 sovereign state under their joint rule. The advent of the new
 sovereigns, officially known as "the archdukes," though greeted with
-enthusiasm in the Belgic provinces, was looked upon with suspicion by
+[[Enthusiasm|enthusiasm]] in the Belgic provinces, was looked upon with suspicion by
 the Dutch, who were as firmly resolved as ever to uphold their
 independence. The chief military event of the early years of their reign
-was the battle of Nieuport (2nd of July 1600), in which Maurice of
+was the battle of Nieuport (2nd of July 1600), in which [[Maurice]] of
 Nassau defeated the archduke Albert, and the siege of Ostend, which
 after a three years' heroic defence was surrendered (20th of September
 1604) to the archduke's general, Spinola. The Dutch, however, being
@@ -752,7 +752,7 @@ the well-being of the Belgian people, for during many years a close
 alliance bound together France and the United Provinces, and the
 Southern Netherlands were exposed to attack from both sides, and
 constantly suffered from the ravages of hostile armies. The cardinal
-archduke Ferdinand, governor-general from 1634-1641, was a capable
+archduke [[Ferdinand]], governor-general from 1634-1641, was a capable
 ruler, and by his military skill prevented in a succession of campaigns
 the forces of the enemy from overrunning the country. On the 30th of
 January 1648, Spain concluded a separate peace at Munster with the
@@ -765,13 +765,13 @@ course of years without a sea-port, and in the many wars that broke out
 between Spain and France were constantly exposed, as an outlying Spanish
 dependency, to the first attack, and peace when it came was usually
 purchased at the cost of some part of Belgian territory. By the treaty
-of the Pyrenees (1659) Artois (except St Omer and Aire) and a number of
+of the Pyrenees (1659) [[Artois]] (except St Omer and Aire) and a number of
 towns in Flanders, Hainaut, and Luxemburg were ceded to France.
 Subsequent French conquests, confirmed by the peace of Aix-la-Chapelle
-(1668), took away Lille, Douai, Charleroi, Oudenarde, Coutrai and
+(1668), took away Lille, [[Douai]], Charleroi, Oudenarde, Coutrai and
 Tournai. These were, indeed, partly restored to Belgium by the peace of
 Nijmwegen (1679); but on the other hand it lost Valenciennes, Nieuport,
-St Omer, Ypres and Charlemont, which were only in part recovered by the
+St Omer, Ypres and [[Charlemont]], which were only in part recovered by the
 peace of Ryswick (1697).
 
 
@@ -779,21 +779,21 @@ peace of Ryswick (1697).
 
   The Spanish succession.
 
-  The Grand Alliance.
+  The [[Grand Alliance]].
 
 The internal history of the Belgic provinces has little to record during
 this long period in which the ambition of Louis XIV. to possess himself
-of the Netherlands, in right of his wife the infanta Maria Theresa (see
+of the Netherlands, in right of his wife the infanta [[Maria Theresa]] (see
 SPANISH SUCCESSION), led to a series of invasions and desolating wars.
 The French king managed to incorporate a large slice of territory upon
 his northern frontier, but his main object was baffled by the steady
 resistance and able statesmanship of William III. of England and
 Holland. Meanwhile from 1692 onwards brighter prospects were opened out
 to the unfortunate Belgians by the nomination by the Spanish king of
-Maximilian Emanuel, elector of Bavaria, to be governor-general with
+[[Maximilian]] Emanuel, elector of Bavaria, to be governor-general with
 well-nigh sovereign powers. The elector had himself a claim to the
 inheritance as the husband of an Austrian archduchess, whose mother, the
-infanta Margaret, was the younger sister of the French queen. Maximilian
+infanta [[Margaret]], was the younger sister of the French queen. Maximilian
 Emanuel was an able man, who did his utmost to improve the condition of
 the country. He attempted to promote trade and restore prosperity to the
 impoverished land by the introduction of new customs laws and other
@@ -805,14 +805,14 @@ powers--England, France and Holland--agreed that on the demise of
 Charles II. the crown prince of Bavaria under his father's guardianship
 should be sovereign of Spain, Belgium and Spanish America. Charles II.
 himself shortly afterwards by will appointed the Bavarian prince heir to
-all his dominions. The death of the infant heir a few months later (6th
+all his dominions. The death of the [[Infant|infant]] heir a few months later (6th
 of February 1699) unfortunately destroyed any prospects of a peaceable
 settlement of the Spanish Succession. Charles II. was persuaded to name
 as his sole successor, Philip duke of Anjou, the second son of the
-dauphin, and on his death (on the 1st November 1700) Louis XIV. took
+[[Dauphin|dauphin]], and on his death (on the 1st November 1700) Louis XIV. took
 immediate steps to support his grandson's claims, in spite of his formal
 renunciation of such claims under the treaty of the Pyrenees. England
-and Holland were determined to prevent, however, at all costs the
+and Holland were determined to prevent, however, at all [[Costs|costs]] the
 acquisition of Belgium by a French prince, and a coalition, known as the
 Grand Alliance, was formed between these two powers and the empire to
 uphold the claims of the archduke Charles, second son of the emperor.
@@ -836,13 +836,13 @@ Bavaria induced the elector to take the side of France, and he was
 nominated by Philip V. vicar-general of the Netherlands. The unhappy
 Belgic provinces were again doomed for a number of years to be the
 battle-ground of the contending forces, and it was on Belgic soil that
-Marlborough won the great victories of Ramillies (1706) and of Oudenarde
+[[Marlborough]] won the great victories of Ramillies (1706) and of Oudenarde
 (1708), by which he was enabled to drive the French armies out of the
 Netherlands and to carry the war into French territory. At the general
 peace concluded at Utrecht (11th of April 1713) the long connexion
 between Belgium and Spain was severed, and this portion of the
 Burgundian inheritance of Charles V. placed under the sovereignty of the
-Habsburg claimant, who had, by the death of his brother, become the
+[[Habsburg]] claimant, who had, by the death of his brother, become the
 emperor Charles VI. The Belgic provinces now came for a full century to
 be known as the Austrian Netherlands. Yet such was the dread of France
 and the enfeebled state of the country that Holland retained the
@@ -862,7 +862,7 @@ Netherlands as an Austrian dependency, and he was driven to take strong
 measures to assert his authority. He selected as his victim a powerful
 popular leader at Brussels, Francis Anneesens, syndic of the gild of St
 Nicholas, who was beheaded on the 19th of September 1719. His name is
-remembered in Belgian annals as a patriot martyr to the cause of
+remembered in Belgian [[Annals|annals]] as a patriot martyr to the cause of
 liberty. The administration of de Prie was not, however, without its
 redeeming features. He endeavoured to create at Ostend a seaport,
 capable in some measure to take the place of Antwerp, and in 1722 a
@@ -894,7 +894,7 @@ the title of governor-general, but it was restored to Austria by the
 peace of Aix-la-Chapelle (1748). Belgium was undisturbed by the Seven
 Years' War (1756-1763), and during the long peace which followed enjoyed
 considerable prosperity. Charles of Lorraine thoroughly identified
-himself with the best interests of the country, and was the champion of
+himself with the best interests of the country, and was the [[Champion|champion]] of
 its liberties, and though he had at times to make a stand against the
 imperialistic tendencies of the chancellor Kaunitz, he was able to rely
 on the steady support of the empress, who appreciated the wise and
@@ -923,7 +923,7 @@ provoking opposition and disaster. Finding the United Provinces hampered
 by a war with England, he seized the opportunity to try to get rid of
 the impediments placed upon Belgian development by the Barrier and other
 treaties with Holland. He was able to compel the Dutch to withdraw their
-garrisons from the Barrier towns, but was wholly unsuccessful in his
+[[Garrison|garrisons]] from the Barrier towns, but was wholly unsuccessful in his
 high-handed attempt to free the navigation of the Scheldt. These efforts
 to coerce the Dutch, though marred by partial failure, were, however,
 calculated to win for Joseph II. popularity with his Belgian subjects;
@@ -933,7 +933,7 @@ and to change the time-honoured, if somewhat obsolete, system of civil
 government. He further excited the religious feelings of the people
 against him, by his edict of Tolerance (1780), and his later attempts at
 the reform of clerical abuses, which were pronounced to be an infraction
-of the Joyous Entry (see JOYEUSE ENTREE). Fierce opposition was aroused.
+of the Joyous Entry (see [[Joyeuse|JOYEUSE]] ENTREE). Fierce opposition was aroused.
 Numbers of malcontents left the country and organized themselves as a
 military force in Holland. As the discontent became more general, the
 insurgents returned, took several forts, defeated the Austrians at
@@ -961,7 +961,7 @@ however, did not suit views of the popular party, who, under the
 leadership of an advocate named Van der Noot, had possession of the
 reins of power, and were uplifted by their success. The terms offered in
 an imperial proclamation were rejected, and preparations were made to
-resist coercion by the _levee en masse_ of a national army. When,
+resist coercion by the _[[Levee|levee]] en masse_ of a national army. When,
 however, in November 1790, a powerful Austrian force entered the
 country, there was practically little opposition to its advance. The
 popular leaders fled, the form of government, as it existed at the end
@@ -1008,7 +1008,7 @@ Belgian provinces of the Netherlands had for one hundred and thirty
 years passed through totally different experiences, and had drifted
 farther and farther apart from one another in character, in habits, in
 ideas and above all in religion. In the south the policy of Alva and
-Philip II. had been wholly successful, and the Belgian people, Flemings
+Philip II. had been wholly successful, and the Belgian people, [[Fleming|Flemings]]
 and Walloons alike, were perhaps more devoted to the Catholic faith than
 any other in Europe. On the other hand the incorporation of the country
 for two decades in the French republic and empire had left deep traces
@@ -1118,12 +1118,12 @@ influential and middle-class citizens for the protection of life and
 property. The intelligence of these events in the capital soon spread
 through the provinces; and in most of the large towns similar scenes
 were enacted, beginning with plunderings and outrages, followed by the
-institution of burgher guards for the maintenance of peace. The leading
+institution of burgher [[Guards|guards]] for the [[Maintenance|maintenance]] of peace. The leading
 men of Brussels were most anxious not to push matters to extremities.
 They demanded the dismissal of the specially obnoxious minister, Van
 Maanen, and a separate administration for Belgium. The government,
 however, could not make up their minds what course to pursue, and by
-allowing things to drift ended by converting a popular riot into a
+allowing things to [[Drift|drift]] ended by converting a popular riot into a
 national revolt. The heir apparent, the prince of Orange (see WILLIAM
 II. of the Netherlands), was sent on a peaceful mission to Brussels, but
 furnished with such limited powers, as under the circumstances were
@@ -1133,7 +1133,7 @@ nothing but a separate administration of the two countries would restore
 tranquillity that he promised to use his influence with his father to
 bring about that object--on receiving assurances that the personal union
 under the house of Orange would be maintained. The king summoned an
-extraordinary session of the states-general, which met at the Hague on
+extraordinary session of the states-general, which met at the [[Hague]] on
 the 13th of September and was opened by a speech from the throne, which
 was firm and temperate, but by no means definite. The proceedings were
 dilatory, and the attitude of the Dutch deputies exceedingly
@@ -1194,7 +1194,7 @@ except those formally assigned to him. Ministers were to be appointed by
 him, but be responsible to the chambers. The legislature was composed of
 two chambers--the senate and the chamber of deputies. Both chambers were
 elected by the same voters, but senators required a property
-qualification,--the payment of at least 2000 florins in taxes. Senators
+qualification,--the payment of at least 2000 [[Florin|florins]] in taxes. Senators
 and deputies received salaries. The franchise was for that time a low
 one--every one who paid at least 20 florins in taxes had a vote. The
 choice of a king was more difficult than that of drawing up a
@@ -1281,7 +1281,7 @@ efforts on the part of the great powers to obtain his acquiescence,
 France and Great Britain resolved to have recourse to force. On the 5th
 of November their combined fleets sailed for the coast of Holland, and,
 on the 18th, a French army of 60,000 men, under the command of Marshal
-Gerard, crossed the Belgian frontier to besiege Antwerp. The Dutch
+[[Gerard]], crossed the Belgian frontier to besiege Antwerp. The Dutch
 garrison capitulated on the 23rd of December, and on the 31st the town
 was handed over to the Belgians, and the French troops withdrew across
 the frontier. The Dutch, however, still held two forts, which enabled
@@ -1321,7 +1321,7 @@ alliance between them. This continued to be the character of the
 government till 1840, but by degrees it had been growing more and more
 conservative, and was giving rise to dissatisfaction. A ministry was
 formed on more liberal principles, but it clashed with the Catholic
-aristocracy, who had the majority in the senate. A neutral ministry
+[[Aristocracy|aristocracy]], who had the majority in the senate. A neutral ministry
 under M. Charles Nothomb was then formed. In 1842 it carried a new law
 of primary instruction, which aroused the dislike of the anti-clerical
 Liberals. The Nothomb ministry retired in 1845. In March 1846 the king
@@ -1337,7 +1337,7 @@ Belgium to choose a homogeneous ministry from the party which possesses
 a working majority in the chamber. In 1848 a new electoral law was
 passed, which lowered the franchise to 20 florins' worth of property and
 doubled the number of electors. Hence it came to pass that Belgium
-passed safely through the crisis of the French revolution of 1848. The
+passed safely through the crisis of the [[French Revolution|French revolution]] of 1848. The
 extreme democratic and socialistic party made with French aid some
 spasmodic efforts to stir up a revolutionary movement, but they met with
 no popular sympathy; the throne of Leopold stood firmly based upon the
@@ -1381,7 +1381,7 @@ by his eldest son Leopold II., who was immediately proclaimed king and
 took the oath to the constitution on the 17th of December. On the
 outbreak of war between France and Germany in 1870, Belgium saw the
 difficulty and danger of her position, and lost no time in providing for
-contingencies. A large war credit was voted, the strength of the army
+contingencies. A large war [[Credit|credit]] was voted, the strength of the army
 was raised and strong bodies of troops were moved to the frontier. The
 feeling of danger to Belgium also caused great excitement in England.
 The British government declared its intention to maintain the integrity
@@ -1417,7 +1417,7 @@ and the Italian government, and the German _Kulturkampf_. The Belgian
 Ultramontanes agitated strongly in favour of the re-establishment of the
 temporal power and against the policy of Bismarck. Though
 discountenanced by the ministry, the violence of the Ultra-clericals
-compassed its downfall. They passed a law adopting the ballot in 1877,
+compassed its downfall. They passed a law adopting the [[Ballot|ballot]] in 1877,
 but at the election of the following year a Liberal majority was
 returned.
 
@@ -1431,7 +1431,7 @@ children belonging to other persuasions being dispensed from attendance.
 In 1879 a bill was passed for the secularization of primary education;
 but an attempt was made to conciliate the clergy by Art. 4, which
 enacted--"religious instruction is relegated to the care of families and
-the clergy of the various creeds. A place in the school may be put at
+the clergy of the various [[Creeds|creeds]]. A place in the school may be put at
 their disposal where the children may receive religious instruction," at
 hours other than those set apart for regular education. The bill
 likewise provided for a rigorous inspection of the communal schools. The
@@ -1460,7 +1460,7 @@ party have maintained their supremacy.
 
   Agitation for a revision of the constitution.
 
-  The Nyssens compromise.
+  The Nyssens [[Compromise|compromise]].
 
 A Catholic administration under M. Malou at once took in hand the
 schools question. A law was passed, despite violent protests from the
@@ -1497,7 +1497,7 @@ chambers were elected. The Catholics had a majority in both, but not
 enough to enable them to dispense with the assistance of the Liberals,
 the constitution requiring for every revision a two-thirds majority. The
 bills proposed for extending the franchise were all rejected (April 11th
-and 12th). Thereupon the council of the Labour party proclaimed a
+and 12th). Thereupon the council of the [[Labour Party|Labour party]] proclaimed a
 general strike. Fifty thousand workmen struck, in Brussels there were
 violent demonstrations, and the agitation assumed generally a dangerous
 aspect. Both the government and the opposition in the chambers saw that
@@ -1512,7 +1512,7 @@ twenty-five years, and of thirty years for the election of senators and
 provincial and communal councillors. For the four categories of
 elections a supplementary vote was given to (a) citizens who having
 attained the age of thirty-five years, and being married or widowers
-with children, paid at least 5 f. income tax, and (b) to citizens of the
+with children, paid at least 5 f. [[Income Tax|income tax]], and (b) to citizens of the
 age of twenty-five years possessing real estate to the value of 2000 f.
 or Belgian state securities yielding an income of at least 100 f. Two
 supplementary votes were bestowed upon citizens having certain
@@ -1546,7 +1546,7 @@ obstruction on the part of the Socialist deputies, and after a few
 months' tenure of office he gave way to M. Smet de Naeyer once more. The
 new cabinet at once (August 1899) introduced a bill giving complete
 proportional representation in parliamentary elections to all the
-arrondissements, and it was passed despite the defection of a number of
+[[Arrondissement|arrondissements]], and it was passed despite the defection of a number of
 Catholic deputies led by M. Woeste. The election in May 1900 resulted in
 the return of a substantial (though reduced) Catholic majority in both
 chambers.
@@ -1607,11 +1607,11 @@ development of the equatorial regions of Africa had led, in the creation
 of the Congo Free State, to results which had originally not been
 anticipated. The _Comite des Etudes du Haut Congo_, formed in 1878 at
 the instance of the king and mainly financed by him had developed into
-the International Association of the Congo, of which a Belgian officer,
+the [[International]] Association of the Congo, of which a Belgian officer,
 Colonel M. Strauch, was president. Through the efforts in Africa of H.M.
 Stanley a rudimentary state was created, and through the efforts of King
 Leopold in Europe the International Association was recognized during
-1884-1885 by the powers as an independent state. Declarations to this
+1884-1885 by the powers as an independent state. [[Declaration|Declarations]] to this
 effect were exchanged between the Belgian government and the Association
 on the 23rd of February 1885. In April of the same year the Belgian
 chambers authorized the king to be the chief of the state founded by the
@@ -1624,7 +1624,7 @@ became increasingly close. In 1889 King Leopold announced that he had
 by his will bequeathed the Congo state to Belgium, and in 1890 the
 Belgian government, in return for financial help, acquired the right of
 annexing the country under certain conditions. At later dates definite
-proposals for immediate annexation were considered but not adopted, the
+proposals for immediate [[Annexation|annexation]] were considered but not adopted, the
 king showing a strong disinclination to cede the state, while among the
 mass of the Belgians the disinclination to annex was equally strong. It
 was not until terrible reports as to the misgovernment of the Congo
@@ -1695,15 +1695,15 @@ to write plays before 1830. Edouard Smits (1789-1852) showed romantic
 tendencies in his tragedies of _Marie de Bourgogne_ (1823), _Elfrida_
 (1825), and _Jeanne de Flandre_ (1828). The first of these had a great
 success, partly no doubt because of its patriotic subject. For four
-years before 1830 Andre van Hasselt (q.v.) had been publishing his
+years before 1830 Andre van [[Hasselt]] (q.v.) had been publishing his
 verses in the _Sentinelle des Pays-Bas_, and from 1829 onwards he was an
 ardent romanticist. A burst of literary and artistic activity followed
 the Revolution; and van Hasselt's house became a centre of poets,
 artists and musicians of the romantic school. The best work of the
 Belgian romanticists is in the rich and picturesque prose of the 16th
-century romance of Charles de Coster (see DE COSTER), and in the
+century romance of Charles [[De Coster|de Coster]] (see DE COSTER), and in the
 melancholy and semi-philosophical writings of the moralist Octave Pirmez
-(q.v.). The _Poesies_ (1841) and the _Chansons_ (1866) of Antoine Clesse
+(q.v.). The _Poesies_ (1841) and the _Chansons_ (1866) of [[Antoine]] Clesse
 (1816-1889), have been compared with the work of Beranger; and the
 Catholic party found a champion against the liberals and revolutionists
 in the satirical poet, Benoit Quinet (b. 1819). Among the famous
@@ -1725,7 +1725,7 @@ narrowest sense, and regarded the movement as an indefensible invasion
 of foreign ideas. The best of the novelists of this period, excluding
 Charles de Coster, was perhaps Estelle Ruelens (_nee_ Crevecoeur;
 1821-1878); she wrote under the pseudonym of "Caroline Graviere." Her
-tales were collected by the bibliophile "P.L. Jacob" (Paris, 1873-1874).
+tales were collected by the bibliophile "P.L. [[Jacob]]" (Paris, 1873-1874).
 
 The whole of this literature derived more or less from foreign sources,
 and, with the exception of Charles de Coster and Octave Pirmez, produced
@@ -1750,13 +1750,13 @@ pen-name of "Max Waller." This review, which owed much of its success to
 Waller's energy, defended the intense preoccupation of the new writers
 with questions of style, and became the depository of the Parnassian
 tradition in Belgium. It had among its early contributors Georges
-Eekhoud, Albert Giraud, Iwan Gilkin and Georges Rodenbach. Edmond Picard
+Eekhoud, Albert [[Giraud]], Iwan Gilkin and Georges Rodenbach. Edmond Picard
 (b. 1836) was one of the foremost in the battle. He was well known as an
 advocate in Brussels, and made a considerable contribution to
-jurisprudence as the chief writer of the _Pandectes belges_ (1886-1890).
+[[Jurisprudence|jurisprudence]] as the chief writer of the _Pandectes belges_ (1886-1890).
 His _Pro arte_ (1886) was a kind of literary code for the young Belgian
 writers. His novels, of which _La Forge Roussel_ (1881) is a good
-example, were succeeded in 1902-1903 by two plays, _Jericho_ and
+example, were succeeded in 1902-1903 by two plays, _[[Jericho]]_ and
 _Fatigue de vivre_.
 
 Georges Eekhoud, born at Antwerp on the 27th of May 1854, was in some
@@ -1786,7 +1786,7 @@ beyond the limits of his own country.
 
 Many of the Belgian poets adhere to the classical form. Albert Giraud
 (born at Louvain in 1860) was faithful to the Parnassian tradition in
-his _Pierrot lunaire_ (1884), _Pierrot narcisse_ (1891) and _Hors du
+his _Pierrot lunaire_ (1884), _Pierrot narcisse_ (1891) and _[[Hor|Hors]] du
 siecle_ (1886). In the earlier works of Iwan Gilkin (born at Brussels in
 1858) the influence of Charles Baudelaire is predominant. He wrote
 _Damnation de l'artiste_ (1890), _Tenebres_ (1892), _Stances dorees_
@@ -1797,12 +1797,12 @@ French Academy in 1898, belong to the same group. Emile van Arenberghe
 Fernand Severin (b. 1867) in his _Poemes ingenus_ (1900) aims at
 simplicity of form, and seems to have learnt the art of his musical
 verse direct from Racine. With Severin is closely associated Georges
-Marlow (b. 1872), author of _L'Ame en exil_ (1895).
+[[Marlow]] (b. 1872), author of _L'Ame en exil_ (1895).
 
 Georges Rodenbach (1855-1898) spent most of his life in Paris and was an
-intimate of Edmond de Goncourt. He produced some Parisian and purely
+intimate of Edmond de [[Goncourt]]. He produced some Parisian and purely
 imitative work; but the best part of his production is the outcome of a
-passionate idealism of the quiet Flemish towns in which he had passed
+passionate [[Idealism|idealism]] of the quiet Flemish towns in which he had passed
 his childhood and early youth. In his best known work, _Bruges la Morte_
 (1892), he explains that his aim is to evoke the town as a living being,
 associated with the moods of the spirit, counselling, dissuading from
@@ -1817,7 +1817,7 @@ rather the sub-conscious self," says Emile Verhaeren, "recognized in the
 verse and prose of Maeterlinck its language or rather its stammering
 attempt at language." Maeterlinck was a native of Ghent, and the first
 poems of two of his fellow-townsmen also appeared in the _Pleiade_.
-These were Gregoire le Roy (b. 1862), author of _La Chanson d'un soir_
+These were [[Gregoire]] le Roy (b. 1862), author of _La Chanson d'un soir_
 (1886), and _Mon Coeur pleure d'autrefois_ (1889); and Charles van
 Lerberghe (b. 1861), author of a play, _Les Flaireurs_ (1890) and a
 collection of _Poemes_ (1897).
@@ -1830,11 +1830,11 @@ mythical city as a setting for his prose _contes_ in the _Legende
 d'Yperdamme_ (1897).
 
 Belgian literary activity extends also to historical research. Baron
-Kervyn de Lettenhove (1817-1891) wrote a _Histoire de Flandre_ (7 vols.,
+[[Kervyn De Lettenhove|Kervyn de Lettenhove]] (1817-1891) wrote a _Histoire de Flandre_ (7 vols.,
 1847-1855), and a number of monographs on separate points in Flemish and
 English history. Though an accurate historian, he allowed himself lo be
 prejudiced by his extreme Catholic views. He was a vehement defender of
-Mary Stuart. Louis Gachard (1800-1885) wrote many valuable works on 16th
+Mary Stuart. Louis [[Gachard]] (1800-1885) wrote many valuable works on 16th
 century history; Mgr. Nameche (1810-1893) completed the 29th volume of
 his _Cours d'histoire nationale_ before his death; Charles Piot (b.
 1812) edited the correspondence of Cardinal de Granvelle; Alphonse
@@ -1846,7 +1846,7 @@ Laveleye (q.v.). In aesthetics should be noted the historian of music,
 Francois Joseph Fetis (1784-1871); F.A. Gevaert (1828-1908), author of
 _Histoire et theorie de la musique d'antiquite_ (2 vols., 1875-1881);
 and Victor Mahillon (b. 1841) for his work in acoustics and his
-descriptive catalogue (1893-1900) of the museum of musical instruments
+descriptive [[Catalogue|catalogue]] (1893-1900) of the museum of musical instruments
 belonging to the Brussels conservatoire. In psychology Joseph Delboeuf
 (1831-1896) enjoyed a great reputation outside Belgium; Elisee Reclus
 (b. 1830), though a Frenchman by birth, completed his _Geographie
@@ -1865,7 +1865,7 @@ Genese d'un roman de Balzac_ (1901), _Une Page perdue de H. de Balzac_
   litterature francaise en Belgique de 1815 a 1830_ (1903); F. Nautet,
   _Histoire des lettres belges d'expression francaise_ (3 vols., 1892 et
   seq.), written from the point of view of young Belgium, and by no
-  means impartial; A. de Koninck, _Bibliographie nationale_ brought down
+  means impartial; A. de [[Koninck]], _Bibliographie nationale_ brought down
   to 1880; _Biographie nationale de Belgique_ (1866, &c.) in progress;
   see also articles by Emile Verhaeren in the _Revue des revues_ (15th
   June 1896), by Albert Mockel in the _Revue encyclopedique_ (24th July

@@ -7,14 +7,14 @@ the actor Junius Brutus Booth, and was born in Belair, Maryland, on the
 made his first appearance on the stage in 1813, and appeared in London
 at Covent Garden in 1815. He became almost at once a great favourite,
 and a rival of Kean, whom he was thought to resemble. To Kean's Othello
-nevertheless he played Iago on several occasions. Richard III., Hamlet,
-King Lear, Shylock and Sir Giles Overreach were his best parts, and in
+nevertheless he played Iago on several occasions. Richard III., [[Hamlet]],
+King [[Lear]], Shylock and Sir [[Giles]] Overreach were his best parts, and in
 America, whither he removed in 1821, they brought him great popularity.
 His eccentricities sometimes bordered on insanity, and his excited and
 furious fencing as Richard III. and as Hamlet frequently compelled the
-Richmond and Laertes to fight for their lives in deadly earnest.
+Richmond and Laertes to fight for their lives in deadly [[Earnest|earnest]].
 
-Edwin Booth's first regular appearance was at the Boston Museum on the
+Edwin Booth's first regular appearance was at the [[Boston]] Museum on the
 10th of September 1849, as Tressel to his father's Richard, in Colley
 Cibber's version of _Richard III._ He was lithe and graceful in figure,
 buoyant in spirits; his dark hair fell in waving curls across his brow,
@@ -49,7 +49,7 @@ subsequently hurled by the crime of the third. Edwin Booth did not
 reappear on the stage until the 3rd of January 1866, when he played
 Hamlet at the Winter Garden theatre, the audience showing by unstinted
 applause their conviction that the glory of the one brother would never
-be imperilled by the infamy of the other.
+be imperilled by the [[Infamy|infamy]] of the other.
 
 In 1868-1869 Edwin Booth built a theatre of his own--Booth's theatre, at
 the corner of 23rd Street and 6th Avenue, New York--and organized an
@@ -77,7 +77,7 @@ sensibility peculiarly fitted him. He probably played the part oftener
 than any other actor before or since. He visited London in 1851, and
 again in 1880 and in 1882, playing at the Haymarket theatre with
 brilliant success. In the last year he also visited Germany, where his
-acting was received with the highest enthusiasm. His last appearance was
+acting was received with the highest [[Enthusiasm|enthusiasm]]. His last appearance was
 in Brooklyn as Hamlet in 1891. Booth was twice married: in 1860 to Mary
 Devlin (d. 1863), and in 1869 to Mary F. McVicker (d. 1881). He left by
 his first wife one daughter, Edwina Booth Grossman, who published _Edwin
@@ -85,7 +85,7 @@ Booth: Recollections_ (New York, 1894).
 
   Edwin Booth's prompt-books were edited by William Winter (1878). In a
   series of volumes, _Actors and Actresses of Great Britain and
-  America_, edited by Lawrence Hutton and Brander Matthews, Edwin Booth
+  America_, edited by Lawrence Hutton and Brander [[Matthew|Matthews]], Edwin Booth
   contributed recollections of his father, which contain much valuable
   autobiographic material. For the same series Lawrence Barrett
   contributed an article on Edwin Booth. See also William Winter, _Life

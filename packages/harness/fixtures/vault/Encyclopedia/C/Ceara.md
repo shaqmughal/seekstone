@@ -35,7 +35,7 @@ lasting until June. The dry season, July to December, is sometimes
 broken by slight showers in September and October, but these are of very
 slight importance. The soil is thin and porous and does not retain
 moisture, consequently the long, dry season turns the country into a
-barren desert, relieved only by vegetation along the river courses and
+barren [[Desert|desert]], relieved only by vegetation along the river courses and
 mountain ranges, and by the hardy, widely-distributed carnahuba palm
 (_Copernicia cerifera_), which in places forms groves of considerable
 extent. Sometimes the rains fail altogether, and then a drought
@@ -56,7 +56,7 @@ The higher plateau is devoted almost exclusively to cattle-raising, once
 the principal industry of the state, though recurring seccas have been
 an insuperable obstacle to its profitable development. There is still a
 considerable export of cattle, hides and skins, but no effort is made to
-develop the production of jerked beef on a large scale. Horses are
+develop the production of jerked [[Beef|beef]] on a large scale. Horses are
 raised to a limited extent; also goats, sheep and swine. The principal
 agricultural products are cotton, coffee, sugar, mandioca and tropical
 fruits. The production of cotton has increased largely since the
@@ -117,8 +117,8 @@ one of the first provinces of Brazil to abolish slavery.
 
   See Rodolpho Theophilo, _Historia da Secca do Ceara, 1877 a 1880_
   (Fortaleza, 1883); Professor and Mrs Louis Agassiz, _A Journey in
-  Brazil_ (Boston, 1869); George Gardiner, _Travels in the Interior of
-  Brazil_ (London, 1846); C.F. Hartt, _Geology and Physical Geography of
+  Brazil_ ([[Boston]], 1869); George Gardiner, _Travels in the Interior of
+  Brazil_ (London, 1846); C.F. Hartt, _Geology and Physical [[Geography]] of
   Brazil_ (Boston, 1870); and H.H. Smith, _Brazil: the Amazon and the
   Coast_ (New York, 1879).
 

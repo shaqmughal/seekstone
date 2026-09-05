@@ -8,14 +8,14 @@ id: 42-8481
 # Gin
 
 GIN, an aromatized or compounded potable spirit, the characteristic
-flavour of which is derived from the juniper berry. The word "gin" is an
-abbreviation of Geneva, both being primarily derived from the Fr.
+flavour of which is derived from the juniper [[Berry|berry]]. The word "gin" is an
+abbreviation of [[Geneva]], both being primarily derived from the Fr.
 _genievre_ (juniper). The use of the juniper for flavouring alcoholic
 beverages may be traced to the invention, or perfecting, by Count de
 Morret, son of Henry IV. of France, of juniper wine. It was the custom
 in the early days of the spirit industry, in distilling spirit from
 fermented liquors, to add in the working some aromatic ingredients, such
-as ginger, grains of paradise, &c., to take off the nauseous flavour of
+as ginger, [[Grains Of Paradise|grains of paradise]], &c., to take off the nauseous flavour of
 the crude spirits then made. The invention of juniper wine, no doubt,
 led some one to try the juniper berry for this purpose, and as this
 flavouring agent was found not only to yield an agreeable beverage, but
@@ -24,8 +24,8 @@ generally made use of by makers of aromatized spirits thereafter. It is
 probable that the use of grains of paradise, pepper and so on, in the
 early days of spirit manufacture, for the object mentioned above,
 indirectly gave rise to the statements which are still found in current
-text-books and works of reference as to the use of Cayenne pepper,
-_cocculus indicus_, sulphuric acid and so on, for the purpose of
+text-books and works of reference as to the use of [[Cayenne Pepper|Cayenne pepper]],
+_[[Cocculus Indicus|cocculus indicus]]_, sulphuric acid and so on, for the purpose of
 adulterating spirits. It is quite certain that such materials are not
 used nowadays, and it would indeed, in view of modern conditions of
 manufacture and of public taste, be hard to find a reason for their use.
@@ -56,9 +56,9 @@ presence of the flavouring matter (principally juniper and coriander),
 and frequently this operation is repeated several times. The product so
 obtained constitutes the "dry" gin of commerce. Sweetened or cordialized
 gin is obtained by adding sugar and flavouring matter (juniper,
-coriander, angelica, &c.) to the dry variety. Inferior qualities of gin
+coriander, [[Angelica|angelica]], &c.) to the dry variety. Inferior qualities of gin
 are made by simply adding essential oils to plain spirit, the
-distillation process being omitted. The essential oil of juniper is a
+[[Distillation|distillation]] process being omitted. The essential oil of juniper is a
 powerful diuretic, and gin is frequently prescribed in affections of the
 urinary organs.
 
@@ -68,14 +68,14 @@ FOOTNOTE:
     [1] The precise origin of the term "Old Tom," as applied to
     unsweetened gin, appears to be somewhat obscure. In the English case
     of _Boord & Son_ v. _Huddart_ (1903), in which the plaintiffs
-    established their right to the "Cat Brand" trade-mark, it was proved
+    established their right to the "Cat [[Brand]]" trade-mark, it was proved
     before Mr Justice Swinfen Eady that this firm had first adopted about
-    1849 the punning association of the picture of a Tom cat on a barrel
+    1849 the punning association of the picture of a Tom cat on a [[Barrel|barrel]]
     with the name of "Old Tom"; and it was at one time supposed that this
     was due to a tradition that a cat had fallen into one of the vats,
     the gin from which was highly esteemed. But the term "Old Tom" had
     been known before that, and Messrs Boord & Son inform us that
-    previously "Old Tom" had been a man, namely "old Thomas Chamberlain
+    previously "Old Tom" had been a man, namely "old Thomas [[Chamberlain]]
     of Hodge's distillery"; an old label book in their possession (1909)
     shows a label and bill-head with a picture of "Old Tom" the man on
     it, and another label shows a picture of a sailor lad on shipboard

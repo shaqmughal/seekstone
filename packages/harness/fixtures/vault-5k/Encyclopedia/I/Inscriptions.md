@@ -1,14 +1,14 @@
 # Inscriptions
 
 INSCRIPTIONS (from Lat. _inscribere_, to write upon), the general term
-for writings cut on stone or metal, the subject matter of epigraphy. See
+for writings cut on stone or metal, the subject matter of [[Epigraphy|epigraphy]]. See
 generally WRITING and PALAEOGRAPHY. Under this heading it is convenient
 here to deal more specifically with four groups of ancient inscriptions,
 Semitic, Indian, Greek and Latin, but further information will be found
 in numerous separate articles on philological subjects. See especially
 CUNEIFORM, BABYLONIA AND ASSYRIA, SUMER, BEHISTUN, EGYPT (_Language and
-Writing_), ETHIOPIA, PHOENICIA, ARABIA, HITTITES, SABAEANS, MINAEANS,
-ETRURIA, AEGEAN CIVILIZATION, CRETE, CYPRUS, BRITAIN, SCANDINAVIAN
+Writing_), [[Ethiopia|ETHIOPIA]], PHOENICIA, ARABIA, HITTITES, SABAEANS, MINAEANS,
+ETRURIA, AEGEAN CIVILIZATION, CRETE, [[Cyprus|CYPRUS]], BRITAIN, SCANDINAVIAN
 LANGUAGES, TEUTONIC LANGUAGES, CENTRAL AMERICA: _Archaeology_, &c.
 
 
@@ -39,10 +39,10 @@ historically as relating to events indicated in 2 Kings i. 1, iii. 5,
 Hebrew--that is to say, another form of the same Canaanitish language.
 It was discovered in 1868 by the German missionary, Klein, on the site
 of Dibon, intact, but was afterwards broken up by the Arabs. The
-fragments,[2] collected with great difficulty by Clermont-Ganneau and
+fragments,[2] collected with great difficulty by [[Clermont-Ganneau]] and
 others, are now in the Louvre. Its genuineness was contested by A. Lowy
 (_Scottish Review_, 1887; republished, Berlin, 1903) and recently again
-by G. Jahn (appendix to _Das Buch Daniel_, Leipzig, 1904), but, although
+by G. [[Jahn]] (appendix to _Das [[Buch]] [[Daniel]]_, Leipzig, 1904), but, although
 there are many difficulties connected with the text, its authenticity is
 generally admitted.
 
@@ -93,7 +93,7 @@ Closely related to the Hebrews, both politically and in language, were
 the Phoenicians in North Syria. Their monuments in Phoenicia itself are
 few and not earlier than the Persian period. The oldest yet found,
 dating probably from the 5th or 4th century B.C., is that of Yehaw-milk,
-king of Gebal (modern Jebel) or Byblus, where it was found. It records
+king of Gebal (modern [[Jebel]]) or Byblus, where it was found. It records
 at some length the dedication of buildings, &c., to the goddess of
 Gebal. Of the 3rd century B.C. are the inscriptions on the sarcophagi of
 Tabnith and his son Eshmun'azar, kings of Sidon, and some records of
@@ -154,7 +154,7 @@ the 7th century.
 
 Of shorter inscriptions there is a long series from about the 8th
 century B.C., on bronze weights found at Nineveh (generally accompanied
-by an Assyrian version), and as "dockets"[7] to cuneiform
+by an Assyrian version), and as "[[Docket|dockets]]"[7] to cuneiform
 contract-tablets, giving a brief indication of the contents. Aramaic,
 being the commercial language of the East, was naturally used for this
 purpose in business documents. For the same reason it is found in the
@@ -169,8 +169,8 @@ trade purposes, as elsewhere, but also officially under the Persian
 rule. From Memphis there is a funeral inscription dated in the fourth
 year of Xerxes (482 B.C.), and a dedication on a bowl of about the same
 date. A stele recently published by de Vogue[9] is dated 458 B.C.
-Another which is now at Carpentras in France (place of origin unknown)
-is probably not much later. At Elephantine and Assuan in Upper Egypt, a
+Another which is now at [[Carpentras]] in France (place of origin unknown)
+is probably not much later. At Elephantine and [[Assuan]] in Upper Egypt, a
 number of ostraka have been dug up, dating from the 5th century B.C. and
 onward, all difficult to read and explain, but interesting for the
 popular character of their contents, style and writing. There was a
@@ -199,7 +199,7 @@ importance as the emporium on the trade route between Arabia and the
 Persian Gulf on the one side and Syria and Egypt on the other. The
 commercial activity of the people, however, was widely extended, and
 their monuments are found not only round Petra and in N. Arabia, but as
-far north as Damascus, and even in Italy, where there was a trading
+far north as [[Damascus]], and even in Italy, where there was a trading
 settlement at Puteoli. The inscriptions are mostly votive or sepulchral,
 and are often dated, but give little historical information except in so
 far as they fix the dates of Nabataean kings.
@@ -250,7 +250,7 @@ found at Jerusalem. Others were found by Sachau[20] at Edessa, of the
 2. _South Semitic._--The South Semitic class of inscriptions comprises
 the Minaean, Sabaean, Himyaritic and Lihyanitic in South Arabia, the
 Thamudic and Safaitic in the north and the Abyssinian. A great deal of
-material has been collected by Halevy, Glaser and Euting, and much
+material has been collected by Halevy, [[Glaser]] and Euting, and much
 valuable work has been done by them and by D. H. Muller, Hommel and
 Littmann. Many of the texts, however, are still unpublished and the rest
 is not very accessible (except so far as it has appeared in the
@@ -265,11 +265,11 @@ language, the two most important peoples, the Minaeans and Sabaeans,
 differ only dialectically, both writing forms of southern Arabic. The
 Minaean capital was at Ma'in, about 300 m. N. of Aden and 200 m. from
 the west coast. Here and in the neighbourhood numerous inscriptions were
-found, as well as in the north at al-'Ola.[22] Their chronology is much
+found, as well as in the north at al-'Ola.[22] Their [[Chronology|chronology]] is much
 disputed. D. H. Muller makes the Minaean power contemporary with the
 Sabaean, but Glaser (with whom Hommel and D. S. Margoliouth agree)
 contends that the Sabaeans followed the Minaeans, whom they conquered in
-820 B.C. Mention is made in a cuneiform text (Annals of Sargon, 715
+820 B.C. Mention is made in a cuneiform text ([[Annals]] of Sargon, 715
 B.C.) of Ithamar the Sabaean, who must be identical with one (it is not
 certain which) of the kings of that name mentioned in the Sabaean
 inscriptions. Their capital was Marib, a little south of Ma'in, and here
@@ -314,7 +314,7 @@ scrawled graffiti very like those of the Sinai peninsula. Their date is
 uncertain, but they cannot be much earlier than the Safaitic, which
 resemble them in most respects. These last are called after the
 mountainous district about 20 m. S.E. of Damascus. The inscriptions are,
-however, found not in Mount Safa itself but in the desert of al-Harrah
+however, found not in Mount Safa itself but in the [[Desert|desert]] of al-Harrah
 to the west and south and in the fertile plain of ar-Ruhbah to the east.
 They were first deciphered by Halevy,[25] whose work has been carried on
 and completed by Littmann.[26] Their date is again uncertain, since
@@ -358,7 +358,7 @@ The Mussulman inscriptions on stone were, it is believed, nearly always
 carved in relief; and various Hindu inscriptions were done in the same
 way in the Mussulman period: but only one instance of a stone record
 prepared in that manner can as yet be cited for the earlier period; it
-is an inscription on the pedestal of an image of Buddha, of the Gupta
+is an inscription on the pedestal of an [[Image|image]] of Buddha, of the Gupta
 period, found in excavations made not long ago at Sarnath.
 
 Amongst the inscriptions on metal there is one that stands out by
@@ -394,7 +394,7 @@ issued into private personal custody; and many of the known records of
 this class have come to notice through being produced by the modern
 possessors of them before official authorities, in the expectation of
 establishing privileges which (it is hardly necessary to say) have long
-since ceased to exist through the lapse of time, the dying out of
+since ceased to exist through the [[Lapse|lapse]] of time, the dying out of
 families of original holders, rights of conquest, and the many changes
 of government that have taken place: but others have been found buried
 in fields, and hidden in the walls and foundations of buildings. The
@@ -438,7 +438,7 @@ tablets, especially by the Buddhists; and their tablets usually present
 the so-called Buddhist formula or creed: "Of those conditions which
 spring from a cause, Tathagata (Buddha) has declared the cause and the
 suppression of them; it is of such matters that he, the great ascetic,
-discourses": but others, from Sunet in the Ludhiana district, Punjab,
+discourses": but others, from Sunet in the [[Ludhiana]] district, Punjab,
 show by the legends on them that the Saivas and Vaishnavas also
 habitually made pious offerings of this kind on occasions of visiting
 sacred places. Recent explorations, however, in the Gorakhpur and
@@ -454,7 +454,7 @@ monastery at Vethadipa, another of those places. And from Kathiawar we
 have a similar seal-stamp which describes itself as the property "of the
 prince and commander-in-chief Pushyena, son of the illustrious prince
 Ahivarman, whose royal pedigree extends back unbroken to Jayadratha."
-There are no indications that the use of brick for inscriptional
+There are no indications that the use of [[Brick|brick]] for inscriptional
 purposes was ever at all general in India, as it was in some other
 eastern lands: but there have been found in the Ghazipur district
 numerous bricks bearing the inscription "the glorious Kumaragupta," with
@@ -464,7 +464,7 @@ brick tablets bearing Buddhist texts, one of which is a version in
 Sanskrit of a short sermon preached by Buddha; and from the Jaunpur
 district we have a brick tablet bearing an inscription which registers a
 mortgage, made in A.D. 1217, of some lands as security for a loan.
-Inscribed earthenware relic-receptacles have been found in the Bhopal
+Inscribed earthenware relic-receptacles have been found in the [[Bhopal]]
 state: donative earthenware jars, bearing inscriptions, have been
 obtained near Charsadda in the North-West Frontier province: and from
 Kathiawar we have a piece of earthenware, apparently a fragment of a
@@ -502,22 +502,22 @@ means altogether destitute of the historical instinct, were not writers
 of historical books. In some of the _Puranas_, indeed, they have given us
 chapters which purport to present the succession of their kings from the
 commencement of the present age, the Kaliyuga, in 3102 B.C.: but the
-chronological details of those chapters disclose the fault of treating
+chronological details of those chapters disclose the [[Fault|fault]] of treating
 contemporaneous dynasties, belonging to different parts of India, as
 successive dynasties ruling over one and the same territory; with the
 result that they would place more than three centuries in the future from
 the present time the great Gupta kings who reigned in Northern India from
 A.D. 320 to about 530. They have given us, for Kashmir the
-_Rajataramgini_, the first eight cantos of which, written by Kalhana in
+_Rajataramgini_, the first eight [[Canto|cantos]] of which, written by Kalhana in
 A.D. 1148-49, purport to present the general history of that country,
-with occasional items relating to India itself, from 2448 B.C., and to
+with occasional [[Item|items]] relating to India itself, from 2448 B.C., and to
 give the exact length, even to months and days, of the reign of each king
 of Kashmir from 1182 B.C.: but, while we may accept Kalhana as fairly
 correct for his own time and for the preceding century or so, an
 examination of the details of his work quickly exposes its imaginative
 character and its unreliability for any earlier period: notably, he
 places towards the close of the period 2448 to 1182 B.C. the great Maurya
-king Asoka, whose real initial date was 264 B.C.; and he was obliged to
+king [[Asoka]], whose real initial date was 264 B.C.; and he was obliged to
 allot to one king, Ranaditya I., a reign of three centuries (A.D. 222 to
 522, as placed by him) simply in order to save his own chronology. They
 have given us historical romances, such as the _Harshacharita_ of Bana,
@@ -550,8 +550,8 @@ to about A.D. 350; or like the _Mahavamsa_, which, commenting on and
 amplifying the details of the _Dipavamsa_, takes up a similar account
 from the end of the period covered by that work. Even the Greek notices
 of India, commencing with the accounts of the Asiatic campaign of
-Alexander the Great, have told us more about its political history and
-geography during the earlier times than have the Hindus themselves: and
+Alexander the Great, have told us more about its [[Political History|political history]] and
+[[Geography|geography]] during the earlier times than have the Hindus themselves: and
 in fact, in mentioning Sandrokottos, i.e. Chandragupta, the grandfather
 of Asoka, and in furnishing details which fix his initial date closely
 about 320 B.C., the Greeks gave us the first means of making a start
@@ -580,7 +580,7 @@ is found in the great number of them and the wide area that is covered
 by them. They come from all parts of the country: from Shahbazgarhi in
 the north, in the Yusufzai subdivision of the Peshawar district, to the
 ancient Pandya territory in the extreme south of the peninsula; and from
-Assam in the east to Kathiawar in the west. For the time anterior to
+[[Assam]] in the east to Kathiawar in the west. For the time anterior to
 about A.D. 400, we already have available in published form, more or
 less complete, the contents of between 1100 and 1200 records, large and
 small; and the explorations of the Archaeological Department are
@@ -598,7 +598,7 @@ understood, often with also a mention of the year of the twelve-years
 or of the sixty-years cycle of the planet Jupiter; others in the regnal
 years of kings whose periods are now well fixed. And, in addition to
 usually stating the month and the day along with the year, the
-inscriptions sometimes give, under the influence of Hindu astrology,
+inscriptions sometimes give, under the influence of Hindu [[Astrology|astrology]],
 other details so exact that we can determine, even to the actual hour,
 the occurrence of the event registered by a particular record.
 
@@ -633,7 +633,7 @@ provincial governors and other high officials who had the royal
 authority to alienate state lands and to assign allotments from the
 state revenues: also, that many of them register, not simply the gift of
 small holdings, but grants of entire villages, and large and permanent
-assignments from the public revenues. It is to these facts that we are
+[[Assignment|assignments]] from the public revenues. It is to these facts that we are
 indebted for the great value of the records from the historical point of
 view. The donor of state lands or of an assignment from the public
 revenues must show his authority for his acts. A provincial governor or
@@ -672,7 +672,7 @@ the dividing-line between Aryavarta or the Uttarapatha and the
 Dakshinapatha, i.e. between Northern and Southern India, sometimes the
 Vindhya mountains, sometimes the river Nerbudda (Narmada, Narbada)
 which, flowing close along the south of the Vindhya range, empties
-itself into the gulf of Cambay near Broach, in Gujarat, Bombay. The
+itself into the gulf of [[Cambay]] near Broach, in Gujarat, Bombay. The
 river seems, on the whole, to furnish the better dividing-line of the
 two. But it does not reach, any more than the range exactly extends,
 right across India from sea to sea. And, to complete the dividing-line
@@ -683,7 +683,7 @@ which are in that same neighbourhood but on the south of the Maikal
 range, to the point where, after it has joined the Seonath, the united
 rivers flow into the Mahanadi, near Seori-Narayan in the Bilaspur
 district, Central Provinces, and then the Mahanadi itself, which flows
-into the bay of Bengal near Cuttack in Orissa. Even so, however, we have
+into the bay of [[Bengal]] near Cuttack in Orissa. Even so, however, we have
 only a somewhat rough dividing-line between the historical Northern and
 Southern India; and the distinction must not be understood too strictly
 in connexion with the territories lying close on the north and the south
@@ -710,7 +710,7 @@ discovery of records framed by some of his predecessors or by their
 subjects. But those discoveries have still to be made; and matters stand
 just now as follows. From before the time of Asoka we have an
 inscription on a relic-vase from a stupa or relic-mound at Piprahwa in
-the north-east corner of the Basti district, United Provinces, which
+the north-east corner of the [[Basti]] district, United Provinces, which
 preserves the memory of the slaughtered kinsmen of Buddha, the Sakyas of
 Kapilavastu according to the subsequent traditional nomenclature. We may
 perhaps place before his time the record on the Sohgaura plate, from the
@@ -773,7 +773,7 @@ Buddhist order; and, following a not infrequent custom of ancient Indian
 kings, he abdicated, took the vows of a monk, and withdrew to spend his
 remaining days in religious retirement in a cave-dwelling on Suvarnagiri
 (Songir), one of the hills surrounding the ancient city of Girivraja,
-below Rajagriha (Rajgir), in the Patna district in Behar. And there,
+below Rajagriha (Rajgir), in the Patna district in [[Behar]]. And there,
 about a year later, in his last moments, he delivered the address
 incorporated in this notification, proclaiming as the only true religion
 that which had been promulgated by Buddha, and expanding the topic of
@@ -798,7 +798,7 @@ the _Puranas_, placing them next after the line of Chandragupta and
 Asoka, indicate the period 183 to 71 B.C. Two of the records from the
 stupa at Bhattiprolu in the Kistna district, Madras, give us a king of
 those parts, reigning about 200 B.C., whose name appears both as Kubiraka
-and as Khubiraka. From Besnagar in the Gwalior state we have an
+and as Khubiraka. From Besnagar in the [[Gwalior]] state we have an
 inscription, referable to the period 175 to 135 B.C., which mentions a
 king of Central India, by name Bhagabhadra, and also mentions, as his
 contemporary, one of the Greek kings of the Punjab, Antalkidas, whose
@@ -829,7 +829,7 @@ the central part of his dominions.
 The dynasty of Kanishka was succeeded by another foreign ruler,
 Gondophernes, popularly known as Gondophares, whose coins indicate that,
 in addition to a large part of north-western India and Sind, his
-dominions included Kabul, Kandahar, and Seistan. This king is well known
+dominions included Kabul, [[Kandahar]], and Seistan. This king is well known
 to Christian tradition, in connexion with the mission of St Thomas the
 Apostle to the East. And the tradition is substantially supported by an
 inscription from Takht-i-Bahai in the Yusufzai country on the north-west
@@ -902,7 +902,7 @@ Harischandragad in the Western Ghauts, in the Ahmadnagar district.
 
 We can, of course, mention in this account only the most prominent of
 the inscriptional records. Keeping for the present to Southern India, we
-have from Banawasi in the North Kanara district, Bombay, and from
+have from Banawasi in the North [[Kanara]] district, Bombay, and from
 Malavallji in the Shimoga district, Mysore, two inscriptions of a king
 Harit putra-Satakarni of the Vinhukadda-Chutu family, reigning at
 Vaijayanti, i.e. Banawasi, which disclose the existence there of another
@@ -978,7 +978,7 @@ which they were written.
   the Kharoshthi alphabet was a more difficult and a longer task: it was
   virtually finished, some twenty years later, by the united efforts of
   C. Masson, Prinsep, C. L. Lassen, H. H. Wilson, E. Norris, Sir A.
-  Cunningham, and John Dowson; but there are still a few points of
+  [[Cunningham]], and John Dowson; but there are still a few points of
   detail in respect of which finality has not been attained.
 
   The Kharoshthi script was written from right to left, and is
@@ -988,7 +988,7 @@ which they were written.
   introduced into that territory, and that the Kharoshthi is an
   adaptation of it. Except in a few intrusive cases, the use of the
   Kharoshthi in India was limited to the valley of the Indus, and to the
-  Punjab as defined on the south by the territory watered by the Bias
+  Punjab as defined on the south by the territory watered by the [[Bias]]
   (Beas) and the Satlaj (Sutlej): and the eastern locality of the
   meeting of the two alphabets is marked by coins bearing Kharoshthi and
   Brahmi legends which come from the districts of the Jalandhar
@@ -1038,7 +1038,7 @@ which they were written.
   which was emphatically their national alphabet. The Brahmi alphabet is
   the parent of all the modern Hindu scripts, including on one side the
   Nagari or Devanagari, and on the other the widely dissimilar rounded
-  forms of the Kanarese, Tamil, Telugu, and other southern alphabets;
+  forms of the [[Kanarese]], Tamil, Telugu, and other southern alphabets;
   and the inscriptions enable us to trace clearly the gradual
   development of all the modern forms.
 
@@ -1059,7 +1059,7 @@ which they were written.
   In Northern India, the inscriptions of the period before 58 B.C.
   present various early Prakrits, i.e. vernaculars more or less derived
   from Sanskrit or brought into a line with it. From 58 B.C., however,
-  the influence of Sanskrit began to manifest itself in the
+  the influence of Sanskrit began to [[Manifest|manifest]] itself in the
   inscriptions, with the result that the records present from that time
   a language which is conveniently known as the mixed dialect, meaning
   neither exactly Prakrit nor exactly Sanskrit, but Prakrit with an
@@ -1127,7 +1127,7 @@ which they were written.
   in a record of the Chalukya king Mangalesa, of the period A.D. 597 to
   608, at Badami in the Bijapur district, Bombay. Tamil appears next,
   between about A.D. 610 and 675, in records of the Pallava king
-  Mahendravarman I. at Vallam in the Chingalpat (Chingleput) district,
+  Mahendravarman I. at Vallam in the Chingalpat ([[Chingleput]]) district,
   Madras, and of his great-grandson Paramesvaravarman I. from Kuram in
   the same district. Telugu appears certainly in A.D. 1011, in a record
   of the Eastern Chalukya king Vimaladitya; and it is perhaps given to
@@ -1167,7 +1167,7 @@ III. GREEK INSCRIPTIONS
 
 Etymologically the term inscription ([Greek: epigraphe]) would include
 much more than is commonly meant by it. It would include words engraved
-on rings, or stamped on coins,[28] vases, lamps, wine-jar handles,[29]
+on rings, or stamped on coins,[28] vases, [[Lamp|lamps]], wine-jar handles,[29]
 &c. But Boeckh was clearly right in excluding this _varia supellex_ from
 his _Corpus Inscriptionum Graecarum_, or only admitting it by way of
 appendix. Giving the term inscription a somewhat narrower sense, we
@@ -1193,11 +1193,11 @@ have thus survived in a more or less perfect condition.[33]
 
 Inscriptions were usually set up in temples, theatres, at the side of
 streets and roads, in [Greek: temene] or temple-precincts, and near
-public buildings generally. At Delphi and Olympia were immense numbers
+public buildings generally. At [[Delphi]] and Olympia were immense numbers
 of inscriptions--not only those engraved upon the gifts of victorious
 kings and cities, but also many of a more public character. At Delphi
 were inscribed the decrees of the Amphictyonic assembly, at Olympia
-international documents concerning the Peloponnesian cities; the
+[[International|international]] documents concerning the Peloponnesian cities; the
 Parthenon and Acropolis were crowded with treaties, laws and decrees
 concerning the Athenian confederation; the Heraeum at Samos, the
 Artemisium at Ephesus, and indeed every important sanctuary, abounded
@@ -1211,7 +1211,7 @@ concerned. Accordingly documents like the _Marmor Ancyranum_ and the
 _Edict of Diocletian_ have been restored by a comparison of the various
 fragments of copies set up in diverse quarters of the empire.
 
-Greek inscribed marbles varied considerably in their external
+Greek inscribed [[Marbles|marbles]] varied considerably in their external
 appearance. The usual form was the [Greek: stele], the normal type of
 which was a plain slab, from 3 to 4 or even 5 ft. high,[34] 3 or 4 in.
 thick, tapering slightly upwards from about 2 ft. wide at bottom to
@@ -1255,7 +1255,7 @@ records of the past. The history of a Greek city was literally written
 upon her stones.
 
 The primary value of an inscription lay in its documentary evidence (so
-Euripides, _Suppl._ 1202, fol.). In this way they are continually cited
+[[Euripides]], _Suppl._ 1202, fol.). In this way they are continually cited
 and put in evidence by the orators (e.g. see Demosth. _Fals. Leg._ 428;
 Aeschin. _In Ctes._ S 75). But the Greek historians also were not slow
 to recognize their importance. Herodotus often cites them (iv. 88, 90,
@@ -1273,7 +1273,7 @@ renewed interest in Greek literature. Cyriac of Ancona, early in the
 15th century, copied a vast number of inscriptions during his travels in
 Greece and Asia Minor; his MS. collections were deposited in the
 Barberini library at Rome, and have been used by other scholars. (See
-_Bull. Corr. Hellen._ i.; Larfeld in Muller's _Handbuch_ 1.^2, p. 368
+_[[Bull]]. Corr. Hellen._ i.; Larfeld in Muller's _Handbuch_ 1.^2, p. 368
 f.; Ziebarth, "de ant. Inscript. Syllogis" in _Ephem. Epigr._ ix.).
 Succeeding generations of travellers and scholars continued to collect
 and edit, and Englishmen in both capacities did much for this study.
@@ -1287,7 +1287,7 @@ and edit, and Englishmen in both capacities did much for this study.
   _Corpus Inscriptionum Graecarum_ was published in 1828, vol. ii. in
   1833. He lived to see the work completed, although other scholars were
   called in to help him to execute his great design; vol. iii., by
-  Franz, appeared in 1853; vol. iv., by Kirchhoff, in 1856.[35] The work
+  [[Franz]], appeared in 1853; vol. iv., by [[Kirchhoff]], in 1856.[35] The work
   is a masterpiece of lucid arrangement and profound learning, of
   untiring industry and brilliant generalization. Out of the publication
   of the _Corpus_ there grew up a new school of students, who devoted
@@ -1303,9 +1303,9 @@ and edit, and Englishmen in both capacities did much for this study.
   Epigraphices Graecae_ (1840).
 
   Meanwhile the liberation of Greece and increasing facilities for
-  visiting the Levant combined to encourage the growth of the subject,
+  visiting the [[Levant]] combined to encourage the growth of the subject,
   which has been advanced by the labours of many scholars, and chiefly
-  Ludwig Ross, Leake, Pittakys, Rangabe, Le Bas and later by Meier,
+  Ludwig Ross, [[Leake]], Pittakys, Rangabe, Le Bas and later by Meier,
   Sauppe, Kirchhoff, Kumanudes, Waddington, Kohler, Dittenberger,
   Homolle, Haussoullier, Wilhelm and others. Together with the
   development of this school of writers, there has gone on a systematic
@@ -1340,12 +1340,12 @@ and edit, and Englishmen in both capacities did much for this study.
   Newton, Hicks and Hirschfeld, _Greek Inscriptions in the British
   Museum_ (parts i.-iv.); and above all the _Inscriptiones Graecae_, a
   Corpus undertaken by the Berlin Academy (absorbing the _Corpus Inscr.
-  Attic._ and other similar collections). Of this work six complete
+  [[Attic]]._ and other similar collections). Of this work six complete
   volumes and parts of others have appeared (by 1906) representing
-  Attica, Argolis, Megaris, Boeotia, Phocis, Locris, Aetolia, Acarnania,
+  Attica, Argolis, Megaris, [[Boeotia]], Phocis, Locris, Aetolia, Acarnania,
   Ionian Islands, Aegean Islands (exc. Delos), Sicily, Italy and western
   Europe; they are edited by Kirchhoff, Kohler, Dittenberger, Frankel,
-  Hiller von Gaertringen, Kaibel and others. Of a similar Austrian
+  [[Hiller]] von Gaertringen, Kaibel and others. Of a similar Austrian
   publication dealing with Asia Minor (_Tituli Asiae Minoris_) only the
   first part (Lycian Inscriptions) has appeared. Of general selections
   of inscriptions on a smaller scale it is necessary to mention:
@@ -1353,7 +1353,7 @@ and edit, and Englishmen in both capacities did much for this study.
   vols.); the same, _Orientis Graeci Inscr. Selectae_ (2 vols.,
   1903-1905); Hicks, _Greek Historical Inscriptions_ (1st ed., 1882; 2nd
   ed., 1901); Michel, _Recueil d'inscriptions grecques_ (1900); Roberts
-  and Gardner, _Introd. to Gk. Epigraphy_ (2 vols., 1887-1905); Rohl,
+  and [[Gardner]], _Introd. to Gk. Epigraphy_ (2 vols., 1887-1905); Rohl,
   _Inscr. gr. antiquissimae_ (1882), and _Imagines Inscriptionum_ (2nd
   ed., 1898).
 
@@ -1372,7 +1372,7 @@ King Psammetichus recorded their names, as having explored the river up
 to the second cataract (_C.I.G._ 5126; Rohl, 482; Hicks^2, 3). Even if
 Psammetichus II. is meant, the inscription dates between 594 and 589
 B.C. Another, but later, instance is to be found in the fragmentary
-inscriptions on the columns dedicated by Croesus in the Ephesian temple
+inscriptions on the columns dedicated by [[Croesus]] in the Ephesian temple
 (c. 550 B.C.; _Gk. Inscr. in the Brit. Mus._ 518). Documents earlier
 than the Persian War are not very frequent; but after that period the
 stream of Greek inscriptions goes on, generally increasing in volume,
@@ -1387,7 +1387,7 @@ connected with religion; (3) those of a private character.
 
   1. Foremost among the inscriptions which illustrate Greek history and
   politics are the _decrees_ of senate and people ([Greek: psephismata
-  boules, ekklesias], &c.) upon every subject which could concern the
+  [[Boule|boules]], ekklesias], &c.) upon every subject which could concern the
   interests of the state. These abound from every part of Greece. It is
   true that a large number of them are honorary, i.e. merely decrees
   granting to strangers, who have done service to the particular city,
@@ -1398,9 +1398,9 @@ connected with religion; (3) those of a private character.
   honorary decree depends upon the individual and the services to which
   it refers. And even the mere headings and datings of the decrees from
   various states afford curious and valuable information upon the names
-  and titles of the local magistrates, the names of months and other
+  and titles of the local [[Magistrate|magistrates]], the names of months and other
   details. On the formulae, see Swoboda, _Die gr. Volksbeschlusse_
-  (1890). Droysen in his _Hellenismus_ (1877-1878) has shown how the
+  (1890). [[Droysen]] in his _Hellenismus_ (1877-1878) has shown how the
   history of Alexander and his successors is illustrated by contemporary
   [Greek: psephimata]. And when the student of Athenian politics of the
   5th and 4th centuries turns to the 1st and 2nd volumes of the _I.G._,
@@ -1415,7 +1415,7 @@ connected with religion; (3) those of a private character.
   Inscribed _laws_ ([Greek: nomoi]) occur with tolerable frequency. The
   following are examples:--A citation of a law of Draco's from the
   [Greek: protos axon] of Solon's laws (_I.G._ i. 61; cf. Dittenberger,
-  _Syll._^2 52); the Civil Codes of Gortyna (5th century, Dareste, &c.,
+  _Syll._^2 52); the Civil [[Code|Codes]] of Gortyna (5th century, Dareste, &c.,
   _Inscr. jurid. gr._ i. 352 ff.); a reassessment of the tribute payable
   by the Athenian allies in 425 B.C. (_I.G._ i. 37; Kohler _Urkunden und
   Untersuchungen zur Geschichte des delisch-attischen Bundes_, 1870, p.
@@ -1429,7 +1429,7 @@ connected with religion; (3) those of a private character.
   Reinach, _Recueil des inscr. juridiques gr._ (1891-1898).
 
   Besides the inscribed _treaties_ previously referred to, we may
-  instance the following: Between Athens and Chalcis in Euboea, 446 B.c.
+  instance the following: Between Athens and Chalcis in [[Euboea]], 446 B.c.
   (_I.G._ suppl. to vol. i. 27A); between Athens and Rhegium, 433 B.C.
   (Hicks^2, 51); between Athens and Leontini, dated the same day as the
   preceding (_ibid._ 52); between Athens and Boeotia, 395 B.C. (_ibid._
@@ -1496,7 +1496,7 @@ connected with religion; (3) those of a private character.
   Offerings in temples ([Greek: anathemata]) are often of great
   historical value, e.g. the dedications on the columns of Croesus at
   Ephesus mentioned above; Gelo's dedication at Delphi, 479 B.C.
-  (Hicks^2 16); the helmet of Hiero, now in the British Museum,
+  (Hicks^2 16); the helmet of [[Hiero]], now in the British Museum,
   dedicated at Olympia after his victory over the Etruscans, 474 B.C.
   (_C.I.G._ 16; Hicks^2 22); and the bronze base of the golden tripod
   dedicated at Delphi after the victory of Plataea, and carried off to
@@ -1546,7 +1546,7 @@ connected with religion; (3) those of a private character.
   revealed by the numerous dedications made by victorious competitors
   who record their successes (see Michel 915-960; Dittenberger,
   _Syll._^2 683 f.). The dedications and honorary inscriptions relating
-  to the Ephebi of later Athens (which occupy half of _I.G._ iii. pt.
+  to the [[Ephebi]] of later Athens (which occupy half of _I.G._ iii. pt.
   1), dreary as they seem, have yet thrown a curious light upon the
   academic life of Roman Athens (see A. Dumont, _Essai sur l'ephebie
   attique_; Reinach, _Traite_, pp. 408-418; Roberts and Gardner ii.
@@ -1663,7 +1663,7 @@ connected with religion; (3) those of a private character.
   (Oxford, 1891); Frankel and others, _Inschriften von Pergamon_ (2
   vols., Berlin 1890-1895); Comparetti, _Le Leggi di Gortyna_, &c.
   (_Monum. antichi_, iii., 1893); E. Hoffmann, _Sylloge epigrammatum
-  Graec._ (Halle a. S., 1893); O. Kern, _Inschriften von Magnesia am
+  Graec._ ([[Halle]] a. S., 1893); O. Kern, _Inschriften von Magnesia am
   Maeander_ (Berlin, 1900); S. Chabert, _Histoire sommaire des etudes
   d'epigraphie grecque_ (Paris, 1906); Hackl, _Merkantile Inschr. auf
   attischen Vasen (Munch, arch Stud._, 1909); Wilhelm, _Beitrage zur
@@ -1723,7 +1723,7 @@ Marcanova, Fra Felice Feliciano, Fra Michele Ferrarino, Fra Giocondo the
 architect of Verona, Marino Sanudo the Venetian polyhistor, and others.
 At the end of the 15th and the beginning of the 16th, the first printed
 collections can be recorded (Spreti's for Ravenna, 1489; Peutinger's for
-Augsburg, 1508; Huttich's for Mainz, 1520; Francesco degli Albertini's
+[[Augsburg]], 1508; Huttich's for Mainz, 1520; Francesco degli Albertini's
 for Rome, printed in 1521 by Jacopo Mazochi), while during the same
 century a long list of epigraphic travellers, like Pighius, Rambertus
 and Accursius, or antiquarian collectors, like Sigonius, Panvinius,
@@ -1734,22 +1734,22 @@ The series of printed epigraphic _Corpora_ begins with that of Apianus
 continued in those of Smetius (1558, but edited only after the author's
 death by Justus Lipsius, 1588), Gruter (with Joseph Scaliger's
 _Indices_, 1603, and re-edited by Graevius, 1707), Gudius (about 1660,
-edited by Hessel, 1731), Reinesius (1682), Fabretti (1699), Gori (1726),
+edited by Hessel, 1731), Reinesius (1682), [[Fabretti]] (1699), Gori (1726),
 Doni (1731), Muratori (1739), Maffei (1749), Donati (1765-1775). These
-collections, manuscript and printed, will never altogether lose their
+collections, [[Manuscript|manuscript]] and printed, will never altogether lose their
 value, as great numbers of inscriptions known to the ancient collectors
 have since been lost or destroyed. But, inasmuch as even towards the
 beginning of the 15th century, as well as afterwards, especially from
 the 16th down to a very recent period, all sorts of inaccuracies,
-interpolations and even downright falsifications, found their way into
+[[Interpolation|interpolations]] and even downright falsifications, found their way into
 the _Corpora_, these can be employed only with the greatest caution.
 Modern critical research in the field of epigraphy began with the
 detection of those forgeries (especially of the very extensive and
 skilful ones of Pirro Ligorio, the architect to the house of Este) by
-Maffei, Olivieri and Marini. The last-named scholar opens a new era of
+Maffei, Olivieri and [[Marini]]. The last-named scholar opens a new era of
 truly critical and scientific handling of Roman inscriptions (especially
 in his standard work on the _Atti dei fratelli arvali_, Rome, 1795); his
-disciple and successor, Count Bartolomeo Borghesi (who died at San
+[[Disciple|disciple]] and successor, Count Bartolomeo Borghesi (who died at San
 Marino in 1860), may be rightly called the founder of the modern science
 of Roman epigraphy.[38] Orelli's handy collection of Roman inscriptions
 (2 vols., Zurich, 1828) is a first attempt to make accessible to a
@@ -1772,12 +1772,12 @@ of Berlin.
   antiquissimae ad C. Caesaris mortem_ (1863; 2nd ed., part i., 1893);
   Ritschl's _Priscae Latinitatis monumenta epigraphica_ (Berlin, 1862,
   fol.) form the graphic illustration to vol. i., giving all extant
-  monuments of the republican epoch (with five _Supplementa_, Bonn,
+  monuments of the republican epoch (with five _Supplementa_, [[Bonn]],
   1862-1865; R. Garrucci's _Sylloge inscriptionum Latinarum aevi Romanae
   reipublicae usque ad C. Iulium Caesarem plenissima_, 2 vols., Turin,
   1875-1877, must be used with caution); vol. ii., _Inscr. Hispaniae_
   (1869; with Supplement, 1892); vol. iii., _Inscr. Asiae, provinciarum
-  Europae Graecarum, Illyrici_ (1873; with Supplements and Index,
+  Europae Graecarum, Illyrici_ (1873; with Supplements and [[Index]],
   1889-1902); vol. iv., _Inscr. parietariae Pompeianae Herculanenses
   Stabianae_ (the scratched and painted inscriptions chiefly of Pompeii)
   (1871; with Supplement, part i., 1898; part ii., 1909); vol. v.,
@@ -1796,9 +1796,9 @@ of Berlin.
   Apianus); within the single towns the order of subjects (_tituli
   sacri_, _magistratuum_, _privatorum_, &c., as in Smetius) is followed,
   with some few exceptions, where the monuments are so numerous (as in
-  the _forum_ of Rome and at Pompeii and Lambaesis) that they can be
+  the _[[Forum|forum]]_ of Rome and at Pompeii and Lambaesis) that they can be
   assigned to their original places. Running supplements to the _C.I.L._
-  are given in the _Ephemeris epigraphica, Corporis inscr. Latinarum
+  are given in the _[[Ephemeris]] epigraphica, Corporis inscr. Latinarum
   supplementum_ (Berlin, 1872 sqq.); and the new discoveries of each
   year are recorded in Cagnat's _L'Annee epigraphique_.
 
@@ -1815,10 +1815,10 @@ of Berlin.
   1857-1865; new edition, 1892); the _Altchristliche Inschriften der
   Rheinlande_ of Kraus (1890); the _Christliche Inschriften der Schweiz
   vom IV.-IX. Jahrhundert_ of Egli (1895); and the _Inscr. Hispaniae
-  Christianae and Inscr. Britanniae Christianae_ of Hubner (Berlin,
+  Christianae and Inscr. Britanniae Christianae_ of [[Hubner]] (Berlin,
   1871, 1876). As splendidly illustrated works on the Latin inscriptions
   of some districts Alphonse de Boissieu's _Inscriptions antiques de
-  Lyon_ (Lyons, 1846-1854), Ch. Robert's _Epigraphie romaine de la
+  Lyon_ ([[Lyons]], 1846-1854), Ch. Robert's _Epigraphie romaine de la
   Moselle_ (Paris, 1875), and J. C. Bruce's _Lapidarium septentrionale_
   (London and Newcastle, 1875) can be recommended. Besides the
   above-mentioned Orelli-Henzen collection, G. Wilmanns's _Exempla
@@ -1840,7 +1840,7 @@ inconsiderably according to the material of the monuments, their age and
 their origin. Carefully cut letters, especially when on a large scale,
 naturally differ from those scratched or painted on walls by
 non-professional hands, or hewn on rocks by soldiers; and small incised
-(or dotted) letters on metal or ivory and bone, and those painted on
+(or dotted) letters on metal or [[Ivory|ivory]] and [[Bone|bone]], and those painted on
 earthenware, or impressed on it or on glass before burning, are also
 necessarily of a different character. The letters, ordinarily drawn with
 _minium_ on the monument before being cut (and also often painted, after
@@ -1879,7 +1879,7 @@ dots [:.] are used). According to the technical skill of the different
 periods in stone-cutting this dot is in some very ancient inscriptions
 quadrangular, or similar to an oblique cross (X), or oblong (as a bold
 stroke), but, as a rule, triangular, and never circular. This triangular
-dot changes, by ornamentation, into a hook [Symbol] or a leaf [Symbol];
+dot changes, by ornamentation, into a hook [Symbol] or a [[Leaf|leaf]] [Symbol];
 the ivy-leaf-shaped dot is especially frequent in inscriptions from
 about the 2nd century downwards. The dot is always placed at the middle
 height of the letters, not, as now, at the foot of the line. In large
@@ -1933,7 +1933,7 @@ usually occupied, in the nomenclature, by the _tribus_), and on the
 other indications of origin used in the designation of individuals, the
 indexes to the above-named works give sufficient information; on the
 geographical distribution of the _tribus_ see Grotefend's _Imperium
-Romanum tributim descriptum_ (Hanover, 1863). For the abbreviations of
+Romanum tributim descriptum_ ([[Hanover]], 1863). For the abbreviations of
 official charges, urban and municipal, and, in the imperial period,
 civil and military (to which, beginning with the 4th century, some
 Christian designations are to be added), see also the explanations given
@@ -1977,7 +1977,7 @@ indicates the abbreviation.
   the poetical _elogia_. Of a somewhat different kind are the
   inscriptions scratched without much care on very simple earthen
   vessels which belonged to a _sepulcretum_ of the lower class, situated
-  outside the _porta Capena_ at Rome, on the Appian road, near the old
+  outside the _porta [[Capena]]_ at Rome, on the Appian road, near the old
   church of San Cesario (_C.I.L._ i. 882-1005, 1539, 1539 _a-d_ =
   _C.I.L._ vi. 8211-8397; Wil. 176); they can be ascribed to the period
   of the Gracchi. On these _ollae_, besides the name of the deceased,
@@ -1992,8 +1992,8 @@ indicates the abbreviation.
   (1011) verses become more and more frequent in epitaphs (see
   Buecheler, _Anthologia Latina_, ii.). In prose also short designations
   of the mental qualities of the deceased (_homo bonus_, _misericors_,
-  _amans pauperum_, or _uxor frugi_, _bona_, _pudica_ and the like),
-  short dialogues with the passer-by (originally borrowed from Greek
+  _amans pauperum_, or _uxor frugi_, _[[Bona|bona]]_, _pudica_ and the like),
+  short [[Dialogue|dialogues]] with the passer-by (originally borrowed from Greek
   poetry), as _vale salve_, _salvus ire_, _vale et tu_, _te rogo
   praeteriens dicas_ "_sit tibi terra levis_," &c. (Wil. 180), then
   indications of his condition in his lifetime, chiefly among the Greek
@@ -2009,7 +2009,7 @@ indicates the abbreviation.
   with Mommsen's note; Wil. 188). About the same time also the epitaphs
   more frequently state how long the deceased lived, which was formerly
   added only on certain occasions (e.g. in the case of a premature
-  death), and mostly in poetical form. The worship of the _dei Manes_,
+  death), and mostly in poetical form. The worship of the _dei [[Manes]]_,
   though undoubtedly very ancient, is not alluded to in the sepulchral
   inscriptions themselves until the close of the republic. Here and
   there, in this period, the tomb is designated as a (_locus_) _deum
@@ -2037,11 +2037,11 @@ indicates the abbreviation.
   fecit_, _sibi et suis_, &c.), and of the _instrumenta_. Testaments
   (like those of Dasumius of the year A.D. 109.--_C.I.L._ vi. 10229;
   Wil. 314; and T. Flavius Syntrophus--_C.I.L._ vi. 10239; Henz. 7321;
-  Wil. 313), or parts of them (like that on the tomb of a Gaul of the
+  Wil. 313), or parts of them (like that on the tomb of a [[Gaul]] of the
   tribe of the Lingones, belonging to Vespasian's time, Wil. 315),
   funeral orations (as those on Turia--_C.I.L._ vi. 1527; _Notizie degli
   scavi_ (1898), p. 412; Hirschfeld, _Wiener Studien Bormannheft_, p.
-  283; Fowler, _Classical Review_, xix. 261; on Murdia--_C.I.L._ vi.
+  283; [[Fowler]], _Classical Review_, xix. 261; on Murdia--_C.I.L._ vi.
   10230; Orel. 4860; Rudorff, _Abhandlungen der Konigl. Akademie der
   Wissenschaften zu Berlin_ (1868), p. 217 seq.; and that of Hadrian on
   the elder Matidia, found at Tivoli--Mommsen in the same _Abhandlungen_
@@ -2120,7 +2120,7 @@ indicates the abbreviation.
   Vertuleii--_C.I.L._ i. 1175; Henz. 5733; Wil. 142) vow a tenth part of
   their booty (_de praedad_, as is said on the basis erected by one of
   the Fourii of Tusculum--_C.I.L._ i. 63, 64; Henz. 5674; Wil. 18) or
-  gain, and out of this dedicate a gift to Hercules or other divinities
+  gain, and out of this dedicate a gift to [[Hercules]] or other divinities
   (see also _C.I.L._ i. 1503; Wil. 24; _C.I.L._ 1113; Wil. 43). Again,
   what one man had vowed, and had begun to erect, is, by his will,
   executed after his death by others (as the _propylum Cereris et
@@ -2177,7 +2177,7 @@ indicates the abbreviation.
   erected, are added. On all these details the indexes, especially that
   of Wil. (ii. 675), give further information. The objects themselves
   which are offered or erected begin to be named only in the later
-  period just as in the _tituli operum publicorum_ ("_basim donum
+  period just as in the _tituli operum publicorum_ ("_[[Basim|basim]] donum
   dant_," _C.I.L._ i. 1167; "_signum basim_," _C.I.L._ i. 1154;
   "_aram_," _C.I.L._ i. 1468; Orel. 1466; Wil. 52; _C.I.L._ i. 1109;
   Wil. 54); in the later period this custom becomes more frequent. It is
@@ -2238,7 +2238,7 @@ indicates the abbreviation.
   xxxiii., xxxiv. = Wil. 624, 625, 629-633). All these _elogia_ are
   written in the nominative. In the same way in the colonies statues
   seem to have been erected to their founders or other eminent men, as
-  in Aquileia (_C.I.L._ i. 538 = v. 873; Wil. 650; compare also _C.I.L._
+  in [[Aquileia]] (_C.I.L._ i. 538 = v. 873; Wil. 650; compare also _C.I.L._
   v. 862; Orel. 3827) and Luna (_C.I.L._ i. 539 = Wil. 651).
 
   But along with this primitive and genuine form of the _titulus
@@ -2258,14 +2258,14 @@ indicates the abbreviation.
   616; Orel. 574; Wil. 1107) and to his legate L. Afranius (at Bologna,
   but erected by the citizens of the Spanish colony Valentia, _C.I.L._
   i. 601; Henz. 5127; Wil. 1106). They are succeeded by the statues
-  raised to Caesar (at Bovianum, _C.I.L._ i. 620; Orel. 582; Wil. 1108),
+  raised to Caesar (at [[Bovianum]], _C.I.L._ i. 620; Orel. 582; Wil. 1108),
   and, after his death, _iussu populi Romani_, in virtue of a special
   law, at Rome (_C.I.L._ i. 626 = vi. 872; Orel. 586; Wil. 877). With
   him, as is well known, divine honours begin to be paid to the
   _princeps_, even during life. In this same form other historical
   persons of high merit also begin to be honoured by posterity, as, for
   example, Scipio the elder at Saguntum (_C.I.L._ ii. 3836; Wil. 653),
-  Marius at Cereatae Marianae, the place which bears his name (_C.I.L._
+  [[Marius]] at Cereatae Marianae, the place which bears his name (_C.I.L._
   x. 5782; Wil. 654). Of statues erected by the community of a
   municipium to a private person, that of L. Popillius Flaccus at
   Ferentinum seems to be the oldest example (_C.I.L._ i. 1164; Wil. 655,
@@ -2323,7 +2323,7 @@ indicates the abbreviation.
   of this class is that commemorating the restoration of the temple of
   the Capitoline Jupiter, begun, after its destruction by fire in the
   year 671 (83 B.C.), by Sulla and continued five years later by the
-  well-known orator and poet Q. Lutatius Catulus, but completed only
+  well-known orator and poet Q. Lutatius [[Catulus]], but completed only
   about twenty years afterwards. Here, after the name of Catulus in the
   nominative and the indication of the single parts of the building (as,
   for example, _substructionem et tabularium_), follows the solemn
@@ -2342,9 +2342,9 @@ indicates the abbreviation.
   year 733 (21 B.C.).[42] On privately erected buildings the founder
   after his name puts a simple _fecit_ (as also on sepulchral
   inscriptions); so, possibly, did Pompey, when he dedicated his theatre
-  as a temple of Venus Victrix and, on Cicero's clever advice, as Varro
+  as a temple of Venus Victrix and, on Cicero's [[Clever|clever]] advice, as Varro
   and Tiro had it from Cicero himself, inscribed on it COS. TERT (not
-  _tertium_ or _tertio_) (see Gellius, _Noct. Att._ x. 1). So Agrippa,
+  _tertium_ or _tertio_) (see [[Gellius]], _Noct. Att._ x. 1). So Agrippa,
   when he dedicated his Pantheon in the year 727 (27 B.C.), inscribed on
   it only the words _M. Agrippa, L. f. cos. tertium fecit_ (_C.I.L._ vi.
   896; Orel. 34; Wil. 731), as all who visit the Eternal City know. Of
@@ -2364,7 +2364,7 @@ indicates the abbreviation.
   soldiers, especially frequent in the Danubian provinces, Africa,
   Germany and Britain, give, in this way, manifold and circumstantial
   information as to the military administration of the Romans. On a
-  column found near the bridge over the Minho at Aquae Flaviae, the
+  column found near the bridge over the Minho at [[Aquae]] Flaviae, the
   modern Chaves in northern Portugal, ten communities inscribed their
   names, probably as contributors to the work, with those of the
   emperors (Vespasian and his sons), the imperial legate of the
@@ -2402,7 +2402,7 @@ indicates the abbreviation.
   Augustus inscribed on each milestone on his road across Spain "_a
   Baete et Jano Augusto ad Oceanum_" (e.g. _C.I.L._ ii. 4701; Wil. 832),
   Claudius on those of a road in Upper Italy founded by his father
-  Drusus "_viam Claudiam Augustam quam Drusus pater Alpibus bello
+  [[Drusus]] "_viam Claudiam Augustam quam Drusus pater Alpibus bello
   patefactis derexserat munit ab Altino (or a flumine Pado) ad flumen
   Danuvium_" (_C.I.L._ v. 8002, 8003; Orel. 648, 708; Henz, 5400; Wil.
   818). The later milestones vary greatly in form, but all contain most
@@ -2482,7 +2482,7 @@ indicates the abbreviation.
   inscriptions on measures and weights. The gold and silver plate used
   in the best Roman houses was also always marked with a note of its
   weight,--as is seen, for instance, on the different objects belonging
-  to the Hildesheim find (see _Hermes_, iii., 1868, p. 469 sq.;
+  to the [[Hildesheim]] find (see _Hermes_, iii., 1868, p. 469 sq.;
   _Philologus_, xxviii., 1869, p. 369), the Corbridge _lanx_ in
   Northumberland House (_C.I.L._ vii. 1268) and many others. A second
   species is formed by the _tesserae_, tokens or marks, mostly in
@@ -2493,7 +2493,7 @@ indicates the abbreviation.
   gladiatoria_ is by no means certain (see _C.I.L._ i. 717 sq., and
   _Hermes_, xxi. p. 266; _Rhein. Mus._ xli. p. 517; xlii. p. 122; _Berl.
   phil. Woch._, 1888, p. 24). The other circular _tesserae_ (the
-  so-called _tesserae theatrales_) of ivory or bone, with emblems and
+  so-called _tesserae theatrales_) of ivory or bone, with [[Emblem|emblems]] and
   short inscriptions, partly Greek and Latin, used to be attributed to
   the _ludi scaenici_ (see Henzen, _Annali dell' Instituto
   archeologico_, vol. xx., 1848, p. 273 sq., and vol. xxii., 1850, p.
@@ -2513,13 +2513,13 @@ indicates the abbreviation.
   are the inscriptions, mostly stamped or engraved in the mould, of pigs
   of silver, bronze and lead (and pewter), found in the Roman mines in
   Spain and England (see Hubner, "Romische Bleigruben in Britannien," in
-  _Rheinisches Museum fur Philologie_, vol. xi., 1857, p. 347 sq., and
+  _Rheinisches Museum [[Fur|fur]] Philologie_, vol. xi., 1857, p. 347 sq., and
   _C.I.L._ vii. 220 sq.; A. Way, _Archaeological Journal_, vol. xvi.,
   1859, p. 23, and vol. xxiii., 1866, p. 63). A fourth species of
   _tituli_ of this class is strictly related to the military
   institutions of the Roman empire. Many of the weapons are marked with
   the names of the bearer and of the military corps to which he
-  belonged,--so, for example, the buckles of their shields (see Hubner,
+  belonged,--so, for example, the [[Buckle|buckles]] of their shields (see Hubner,
   "Romische Schildbuckel," in _Archaologisch-epigraphische Mitteilungen
   aus Osterreich_, vol. ii., 1878, p. 105 sq.; by far the best extant
   specimen is the umbo of a legionary soldier of the eighth legion found
@@ -2614,7 +2614,7 @@ indicates the abbreviation.
   stamps, engraved mostly on steatite (or similar stones), and
   containing remedies against diseases of the eyes, to be stamped on the
   glass bowls in which such remedies were sold, or on the medicaments
-  themselves (see Grotefend, _Die Stempel der romischen Augenarzte
+  themselves (see [[Grotefend]], _Die Stempel der romischen Augenarzte
   gesammelt und erklart_ (Gottingen, 1867); de Villefosse and Thedenat,
   _Cachets d'oculistes romains_ (1882); Esperandieu, _Recueil des
   cachets d'oculistes romains_ (1894).
@@ -2648,7 +2648,7 @@ indicates the abbreviation.
   as will afterwards appear, the oldest document of the sacred class),
   of the second Tarquinius with Gabii (Dionysius iv. 58; Festus, _Epit._
   p. 56). They are followed, in the oldest republican period, by the
-  celebrated _foedera_ with Carthage; by the pacts of Sp. Cassius
+  celebrated _foedera_ with Carthage; by the pacts of Sp. [[Cassius]]
   Vecellinus with the Latini of the year 261 (493 B.C.), which Cicero
   seems to have seen still in the _forum_ behind the _rostra_, written
   on a bronze column (_Pro Balbo_, 23, 53; see also Livy ii. 33; Festus
@@ -2675,7 +2675,7 @@ indicates the abbreviation.
   172; Wil. 2839).
 
   Closely related to the _foedera_ are the pacts between communities and
-  private individuals, respecting _patronatus_ or _hospitium_ (_tabulae
+  private individuals, respecting _patronatus_ or _[[Hospitium|hospitium]]_ (_tabulae
   patronatus et hospitii_), also, when in small portable form, _tesserae
   hospitales_; cf. Plautus, _Poen._ 1047, of which many specimens from
   the end of the republic down to a late period of the empire have been
@@ -2696,7 +2696,7 @@ indicates the abbreviation.
   _Lacilbula_, in Spain, with one Q. Marius Balbus, of A.D. 5 (_C.I.L._
   ii. 1393); that of the _Bocchoritani_ on the island of Majorca, of
   A.D. 6 (_C.I.L._ ii. 3695; Wil. 2851); the four relating to C. Silius
-  Aviola, dating from A.D. 27 to 28, all found at Brescia (_C.I.L._ v.
+  Aviola, dating from A.D. 27 to 28, all found at [[Brescia]] (_C.I.L._ v.
   4919-4922); that of the _colonia Julia Aug. legionis vii. Tupusuctu_,
   in Africa, with the imperial legate Q. Julius Secundus, of A.D. 55
   (_C.I.L._ viii. 8837; Wil. 2851); that of two _gentilitates_, the
@@ -2707,7 +2707,7 @@ indicates the abbreviation.
   A.D. 185 (_C.I.L._ ii. 2960; Wil. 2854); that of the _Segisamonenses_,
   in Spain, of A.D. 239, now in the museum at Burgos (_Ephem. epigr._
   ii. 322); that of the _fabri subidiani_ (i.e. subaediani, qui sub aede
-  consistunt) of Cordova, of A.D. 348 (_C.I.L._ ii. 2211; Wil. 2861);
+  consistunt) of [[Cordova]], of A.D. 348 (_C.I.L._ ii. 2211; Wil. 2861);
   and, in addition to many others, those found together at Rome, on the
   site of the palace of Q. Aradius Valerius Proculus, and belonging to
   him and other members of his family, from divers African cities and
@@ -2798,8 +2798,8 @@ indicates the abbreviation.
   that _de hastis Martiis_ of 655 (99 B.C.) (Gellius iv. 6. 2). The only
   one belonging to the oldest period preserved in the original Latin
   form, of which only a part exists, together with the Greek
-  translation, is the _sc. Lutatianum_, relating to Asclepiades of
-  Clazomenae and his companions, dating from 676 (77 B.C.) (_C.I.L._ i.
+  translation, is the _sc. Lutatianum_, relating to [[Asclepiades]] of
+  [[Clazomenae]] and his companions, dating from 676 (77 B.C.) (_C.I.L._ i.
   203). The rest, belonging to the later epoch from Cicero downwards,
   about twenty in number, are mostly preserved only in an abridged form
   by ancient writers,--such as Cicero, Frontinus, Macrobius,--or in
@@ -2827,7 +2827,7 @@ indicates the abbreviation.
   populique Rom. actis_, p. 71 sq.), only a few of the more important
   may be mentioned here: the _lex Puteolana de parieti faciundo_ of 649
   (105 B.C.) (_C.I.L._ i. 577; Orel. 3697; Wil. 697); the two _decreta_
-  (or so-called _cenotaphia_) _Pisana_ in honour of Lucius and Gaius
+  (or so-called _cenotaphia_) _Pisana_ in honour of [[Lucius]] and Gaius
   Caesar, the grandsons of Augustus, of A.D. 3 (_C.I.L._ xi. 1420, 1421;
   Orel. 642, 643; Wil. 883); the _decretum Lanuvinum_ of A.D. 133,
   containing the regulations of a _collegium funeraticium_, styled
@@ -2842,7 +2842,7 @@ indicates the abbreviation.
   and the _lex collegii Aesculapii et Hygiae_, of 153 (_C.I.L._ vi.
   10,234; Orel. 2417; Wil. 320) need be mentioned here; many more exist.
   One of them, the _lex collegii Jovis Cerneni_, dating from A.D. 167,
-  found at Alburnus major in Dacia, is preserved on the original
+  found at Alburnus major in [[Dacia]], is preserved on the original
   _tabella cerata_ on which it was written (_C.I.L._ iii. 924; Henz.
   6087; Wil. 321).
 
@@ -2853,7 +2853,7 @@ indicates the abbreviation.
   preserved is that of L. Aemilius Paulus, when praetor in Hispania
   Baetica, dating from 189 B.C., for the Turris Lascutana in southern
   Spain (_C.I.L._ ii. 5041; Wil. 2837); of the same date is a Greek one
-  of Cn. Manlius, consul of the year 565, for the Heracleenses Cariae
+  of Cn. [[Manlius]], consul of the year 565, for the Heracleenses Cariae
   (Le Bas and Waddington n. 588). Then follow the famous _epistula
   consulum_ (falsely styled _senatus consultum_) _ad Teuranos de
   bacchanalibus_, dated 568 (186 B.C.) (_C.I.L._ i. 196); the sentence
@@ -2868,15 +2868,15 @@ indicates the abbreviation.
   of Venafrum (_C.I.L._ x. 4842; Henz. 6428; Wil. 784); that of
   Claudius, found in the Val di Nona, belonging to A.D. 46 (_C.I.L._ v.
   5050; Wil. 2842); of Vespasian for Sabora in Spain (_C.I.L._ ii.
-  1423), and for the Vanacini in Corsica (Orel. 4031); of Domitian for
-  Falerii (Orel. 3118); the epistles of Hadrian relating to Aezani in
+  1423), and for the Vanacini in [[Corsica]] (Orel. 4031); of Domitian for
+  Falerii (Orel. 3118); the [[Epistle|epistles]] of Hadrian relating to Aezani in
   Phrygia, added to a Greek decree of Avidius Quietus (_C.I.L._ iii.
   355; Henz. 6955), and relating to Smyrna, in Greek, with a short one
   of Antoninus Pius, in Latin (_C.I.L._ iii. 411; Orel. 3119); the
   decrees of Commodus relating to the _saltus Burunitanus_ in Africa
   (_C.I.L._ viii. 10,570; cf. _Eph. epigr._ v. 471); of Severus and
   Caracalla for Tyra (Akkerman in Moesia), Latin and Greek (_C.I.L._
-  iii. 781; Henz. 6429); of Valerian and Gallienus for Smyrna, also
+  iii. 781; Henz. 6429); of Valerian and [[Gallienus]] for Smyrna, also
   Latin and Greek (_C.I.L._ iii. 412); of Diocletian _de pretiis rerum
   venalium_, containing a long list of prices for all kinds of
   merchandise, preserved in divers copies more or less complete, in
@@ -2901,7 +2901,7 @@ indicates the abbreviation.
   form, the speech of the emperor Claudius, delivered in the senate,
   relating to the Roman citizenship of the Gauls, of which Tacitus gives
   an abstract (_Ann._ xi. 23), ought also to be mentioned here; it was
-  engraved on large bronze slabs by the public authority of Lugudunum
+  engraved on large bronze slabs by the public authority of [[Lugudunum]]
   (Lyons), where a large fragment of it is still preserved (Boissieu,
   _Inscriptions antiques de Lyon_, p. 132 sq.). Another sort of decrees,
   relating to a great variety of subjects, has to be mentioned,
@@ -2954,7 +2954,7 @@ indicates the abbreviation.
   the plebs of Narbo in southern France, of A.D. 764, but existing only,
   at Narbonne, in a copy, made perhaps in the 2nd century (_C.I.L._ xii.
   4333; Orel. 2489; Wil. 104), and that of an altar of Jupiter,
-  dedicated at Salonae in Dalmatia in A.D. 137, still existing in part
+  dedicated at Salonae in [[Dalmatia]] in A.D. 137, still existing in part
   at Padua (_C.I.L._ iii. 1933; Orel. 2490; Wil. 163). Another _lex
   fani_ still existing is that of a temple of Jupiter Liber at Furfo, a
   _vicus_ of southern Italy, of the year 696 (58 B.C.), but copied, in
@@ -2963,7 +2963,7 @@ indicates the abbreviation.
   sq.). The lists of objects belonging to some sanctuaries or to the
   ornaments of statues are curious, such as those of the _Diana
   Nemorensis_ at Nemi (Henz. _Hermes_, vol. vi., 1871, pp. 8 sq.), and
-  of a statue of Isis in Spain (Hubner, _Hermes_, vol. i., 1866, pp. 345
+  of a statue of [[Isis]] in Spain (Hubner, _Hermes_, vol. i., 1866, pp. 345
   sq.; compare _C.I.L._ ii. 2060, 3386, Orel. 2510, Wil. 210), and two
   _synopses_ from a temple at Cirta in Africa (Wil. 2736, 2737). The
   _sortes_ given by divinities may also be mentioned (see _C.I.L._ i.
@@ -2987,7 +2987,7 @@ indicates the abbreviation.
   Many other large monumental inscriptions bear some relation, more or
   less strict, to sacred or public buildings. Along with the official
   calendar exhibited on the walls of the residence of the _pontifex
-  maximus_, the list of the eponymous magistrates, inscribed by the
+  maximus_, the list of the [[Eponymous|eponymous]] magistrates, inscribed by the
   order of Augustus on large marble slabs, was publicly shown--the
   _fasti consulares_, the reconstruction and illustration of which
   formed the life-work of Borghesi. These have been collected, down to
@@ -3097,7 +3097,7 @@ indicates the abbreviation.
   an unsatisfactory work which is open to serious criticism. J. C.
   Egbert's _Introduction to the Study of Latin Inscriptions_ (1896) is
   designed for American and English students. For Christian inscriptions
-  Le Blant's _Manuel d'epigraphie chretienne d'apres les marbres de la
+  Le Blant's _[[Manuel]] d'epigraphie chretienne d'apres les marbres de la
   Gaule_ (Paris, 1869) may still be consulted with advantage.
        (E. Hu.; W. M. L.)
 
@@ -3138,7 +3138,7 @@ FOOTNOTES:
   [11] In _Mem. Acad. inscr._ 1^(re) ser. xi. 297. See also _Rep.
     d'epigr. sem._, for some smaller fragments, Nos. 244-248.
 
-  [12] Sayce and Cowley, _Aramaic Papyri_ (London, 1906).
+  [12] Sayce and [[Cowley]], _Aramaic Papyri_ (London, 1906).
 
   [13] Sachau, "Drei aram. Papyrusurkunden" _Abh. d. kgl. Preuss.
     Akad._ (Berlin, 1907).
@@ -3229,7 +3229,7 @@ FOOTNOTES:
     several volumes 4to (Paris, 1862 sqq.).
 
   [39] For other details of numerical notation, fractions, &c., see the
-    manuals of metrology.
+    [[Manual|manuals]] of metrology.
 
   [40] On the system of Roman nomenclature and the abbreviations
     employed in it see Cagnat's textbook, and for more detail Mommsen in

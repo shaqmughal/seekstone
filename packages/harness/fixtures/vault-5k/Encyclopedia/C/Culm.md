@@ -8,11 +8,11 @@ topic: history
 
 CULM, in geology, the name applied to a peculiar local phase of the
 Carboniferous system. In 1837 A. Sedgwick and R. I. Murchison classified
-into two divisions the dark shales, grits and impure limestones which
+into two divisions the dark shales, grits and impure [[Limestone|limestones]] which
 occupy a large area in Devonshire and extend into the neighbouring
-counties of Somerset and Cornwall. These two divisions were the Upper
+counties of Somerset and [[Cornwall]]. These two divisions were the Upper
 and Lower Culm Measures, so named from certain impure coals, locally
-called "culm,"[1] contained within the shales near Bideford.
+called "culm,"[1] contained within the shales near [[Bideford]].
 Subsequently, these two geologists, when prosecuting their researches in
 Germany and Austria, applied the same name to similar rocks which
 contained, amongst others, _Posidonomya Becheri_, common to the phase of
@@ -36,7 +36,7 @@ radiolaria. Ussher's subdivisions were introduced to satisfy the
 exigencies of geological mapping, but, as he pointed out, while they are
 necessary in some parts of the district and convenient in others, the
 lithological characters upon which they are founded are variable and
-inconstant. More recently E. A. N. Arber (1904-1907) clearly
+inconstant. More recently E. A. N. [[Arber]] (1904-1907) clearly
 demonstrated that no palaeontological subdivision of the Upper Culm
 (Middle and Upper) is possible, and that these strata, on the evidence
 of the fossil plants, represent the Middle Coal Measures of other parts
@@ -58,7 +58,7 @@ traversed by mineral veins, and in Moravia and Silesia. In the
 last-mentioned region the thickness of the Culm formation has been
 estimated by D. Stur at over 45,000 ft. In the east and south of the
 Schiefergebirge (a general term for the slaty mountains of the Hundsruck
-and Taunus range, the Westerwald and part of the Eifel district), the
+and Taunus range, the Westerwald and part of the [[Eifel]] district), the
 Culm shales pass upwards into a coarser deposit, the "Culm-grauwacke,"
 which attains a considerable thickness and superficial extent. Culm
 fossils appear in the Carnic Alps, in the Balkans and parts of Spain,

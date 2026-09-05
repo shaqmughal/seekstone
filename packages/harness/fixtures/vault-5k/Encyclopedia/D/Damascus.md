@@ -17,7 +17,7 @@ indicated in Babylonian monuments literally means "fortress of the
 Amorites"; could this be proved it would be valuable testimony to its
 antiquity if not its origin. The city is mentioned in the document that
 describes the battle of the four kings against five, inserted in the
-book of Genesis (ch. xiv.): Abram (Abraham) is reported to have pursued
+book of [[Genesis]] (ch. xiv.): Abram (Abraham) is reported to have pursued
 the routed kings to Hobah _north of Damascus_ (v. 15). The name of the
 steward of Abram's establishment is given in Genesis xv. 2, as _Dammesek
 Eliezer_, which is explained in the Aramaic and Syriac versions as
@@ -80,7 +80,7 @@ vassalage of Ahab, of which no direct record remains; and it was
 probably in the attempt to throw off this vassalage in 853, the year
 after the battle of Karkar, that Ahab met his death in battle with the
 Syrians (1 Kings xxii. 34-40). In the reign of Jehoram, Naaman, the
-Syrian general, came and was cleansed by the prophet Elisha of leprosy
+Syrian general, came and was cleansed by the prophet [[Elisha]] of leprosy
 (2 Kings v.).
 
 In 843 Hazael assassinated Ben-Hadad and made himself king of Damascus.
@@ -101,29 +101,29 @@ Damascus at the time, came up against him; at the same time the Edomites
 and the Philistines revolted. Ahaz appealed to Tiglath-Pileser III.,
 king of Assyria, sent him gifts, and besought his protection.
 Tiglath-Pileser invaded Syria, and in 732 succeeded in reducing Damascus
-(see also BABYLONIA AND ASSYRIA, _Chronology_, S 5, and JEWS, SS 10
+(see also BABYLONIA AND ASSYRIA, _[[Chronology]]_, S 5, and JEWS, SS 10
 sqq.).
 
 Except for the abortive rising under Sargon in 720, we hear nothing more
 of Damascus for a long period. In 333 B.C., after the battle of Issus,
 it was delivered over by treachery to Parmenio, the general of Alexander
-the Great; the harem and treasures of Darius had here been lodged. It
+the Great; the [[Harem|harem]] and treasures of Darius had here been lodged. It
 had a chequered history during the wars of the successors of Alexander,
 being occasionally in Egyptian hands. In 112 B.C. the empire of Syria
 was divided by Antiochus Grypus and Antiochus Cyzicenus; the city of
 Damascus fell to the share of the latter. Hyrcanus took advantage of the
-disputes of these rulers to advance his own kingdom. Demetrius Eucaerus,
+disputes of these rulers to advance his own kingdom. [[Demetrius]] Eucaerus,
 successor of Cyzicenus, invaded Palestine in 88 B.C., and defeated
 Alexander Jannaeus at Shechem. On his dethronement and captivity by the
 Parthians, Antiochus Dionysus, his brother, succeeded him, but was slain
 in battle by Haritha (Aretas) the Arab--the first instance of Arab
 interference with Damascene politics. Haritha yielded to Tigranes, king
-of Armenia, who in his turn was driven out by Q. Caecilius Metellus (son
+of [[Armenia]], who in his turn was driven out by Q. Caecilius Metellus (son
 of Scipio Nasica), the Roman general. In 63 Syria was made a Roman
 province.
 
 In the New Testament Damascus appears only in connexion with the
-miraculous conversion of St Paul (Acts ix., xxii., xxvi.), his escape
+miraculous [[Conversion|conversion]] of St Paul (Acts ix., xxii., xxvi.), his escape
 from Aretas the governor by being lowered in a basket over the wall
 (Acts ix. 25; 2 Cor. xi. 32, 33), and his return thither after his
 retirement in Arabia (Gal. i. 17).
@@ -146,17 +146,17 @@ passed through a period of unrest in which it was captured and ravaged
 by Egyptians, Carmathians and Seljuks in turn. The crusaders attacked
 Damascus in 1126, but never succeeded in keeping a firm hold of it, even
 during their brief domination of the country. It was the headquarters of
-Saladin in the wars with the Franks. Of its later history we need only
+Saladin in the wars with the [[Frank|Franks]]. Of its later history we need only
 mention the Mongolian capture in 1260; its Egyptian recapture by the
 Mameluke Kotuz; the ferocious raid of Timur (Tamerlane) in 1399; and the
 conquest by the Turkish sultan Selim, whereby it became a city of the
 Ottoman empire (1516). In its more recent history the only incidents
-that need be mentioned are its capture by Ibrahim Pasha, the Egyptian
+that need be mentioned are its capture by [[Ibrahim Pasha]], the Egyptian
 general, in 1832, when the city was first opened to the representatives
 of foreign powers; its revolt against Ibrahim's tyranny in 1834, which
 he crushed with the aid of the Druses; the return of the city to Turkish
 domination, when the Egyptians were driven out of Syria in 1840 by the
-allied powers; and the massacre of July 1860, when the Moslem population
+allied powers; and the [[Massacre|massacre]] of July 1860, when the Moslem population
 rose against the Christians, burnt their quarter, and slaughtered about
 3000 adult males.
 
@@ -186,13 +186,13 @@ winding passage which leads to the outer court, where the master has his
 reception room. From this another winding passage leads to the harem,
 which is the principal part of the house. The plan of all is the
 same--an open court, with a tesselated pavement, and one or two marble
-fountains; orange and lemon trees, flowering shrubs, and climbing plants
+[[Fountain|fountains]]; orange and lemon trees, flowering shrubs, and climbing plants
 give freshness and fragrance. All the apartments open into the court;
 and on the south side is an open alcove, with a marble floor, and raised
 dais round three sides, covered with cushions; the front wall is
 supported by an ornamented Saracenic arch. The decoration of some of the
 rooms is gorgeous, the walls being covered in part with mosaics and in
-part with carved work, while the ceilings are rich in arabesque
+part with carved work, while the [[Ceiling|ceilings]] are rich in [[Arabesque|arabesque]]
 ornaments, elaborately gilt. A few of the modern Jewish houses have been
 embellished at an enormous cost, but they are wanting in taste.
 
@@ -220,7 +220,7 @@ interest perished. It is estimated that there are over two hundred
 mosques in Damascus.
 
 _Products, Manufactures, &c._--Damascus occupies an important commercial
-position, being the market for the whole of the desert; it also is of
+position, being the market for the whole of the [[Desert|desert]]; it also is of
 great importance religiously, as being the starting-point for the Hajj
 pilgrimage from Syria to Mecca, which leaves on the 15th of the lunar
 month of Shawwal each year. This of course brings much trade to the
@@ -231,10 +231,10 @@ kind. It is connected with Beirut and Mezerib by railway, and at the end
 of the past century the great undertaking of running a line to Mecca was
 commenced. In the surrounding gardens and fields walnuts, apricots,
 wheat, barley, maize, &c. are grown. Its commercial importance is
-referred to by Ezekiel (xxvii. 18), who mentions its trade in wines and
-wool. The climate is good; in winter there is often hard frost and much
+referred to by [[Ezekiel]] (xxvii. 18), who mentions its trade in wines and
+wool. The climate is good; in winter there is often hard [[Frost|frost]] and much
 snow, and even in summer, with a day temperature of 100 deg. F., the
-nights are always cool. Fever, dysentery and ophthalmia, chiefly due to
+nights are always cool. [[Fever]], dysentery and ophthalmia, chiefly due to
 exposure to heavy dews and cold nights, are prevalent. Though still the
 market of the nomads, the surer and cheaper sea route has almost
 destroyed the transit trade to which it once owed its wealth, and has
@@ -255,12 +255,12 @@ the following table:--
 
 Most of the Christians belong to the Orthodox and Roman Catholic
 (United) Greek Churches; and there are also communities of Melchites,
-Jacobites, Maronites, Nestorians, Armenians and Protestants. There are
+[[Jacobites]], [[Maronites]], Nestorians, Armenians and Protestants. There are
 Protestant missions, founded 1843, and a British hospital.
 
   AUTHORITIES.--Lortet, _La Syrie d'aujourd'hui_, p. 567 f. (Paris,
-  1884); Von Oppenheim, _Vom Mittelmeer zum Persischen Golf_, i. 49 f.
-  (Berlin, 1899); G. A. Smith, _Historical Geography of the Holy Land_;
+  1884); Von Oppenheim, _Vom Mittelmeer zum Persischen [[Golf]]_, i. 49 f.
+  (Berlin, 1899); G. A. Smith, _Historical [[Geography]] of the Holy Land_;
   _Encyclopaedia Biblica_, art. "Damascus"; Consular Reports;
   Baedeker-Socin, _Handbook to Syria and Palestine_. For the Great
   Mosque see Dickie, Phene Spiers, and Sir C. W. Wilson in _Palestine

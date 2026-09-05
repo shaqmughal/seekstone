@@ -6,18 +6,18 @@ completion of his education in the Rabbinic College at Warsaw, Dr
 Ginsburg continued his study of the Hebrew Scriptures, with special
 attention to the Megilloth. The first result of these studies was a
 translation of the Song of Songs, with a commentary historical and
-critical, published in 1857. A similar translation of Ecclesiastes,
+critical, published in 1857. A similar translation of [[Ecclesiastes]],
 followed by treatises on the Karaites, on the Essenes and on the
 Kabbala, kept the author prominently before biblical students while he
 was preparing the first sections of his _magnum opus_, the critical
-study of the Massorah. Beginning in 1867 with the publication of Jacob
-ben Chajim's Introduction to the Rabbinic Bible, Hebrew and English,
+study of the Massorah. Beginning in 1867 with the publication of [[Jacob]]
+[[Ben|ben]] Chajim's Introduction to the Rabbinic Bible, Hebrew and English,
 with notices, and the Massoreth Ha-Massoreth of Elias Levita, in Hebrew,
 with translation and commentary, Dr Ginsburg took rank as an eminent
 Hebrew scholar. In 1870 he was appointed one of the first members of the
 committee for the revision of the English version of the Old Testament.
 His life-work culminated in the publication of the Massorah, in three
-volumes folio (1880-1886), followed by the Masoretico-critical edition
+volumes [[Folio|folio]] (1880-1886), followed by the Masoretico-critical edition
 of the Hebrew Bible (1894), and the elaborate introduction to it (1897).
 Dr Ginsburg had one predecessor in the field, the learned Jacob ben
 Chajim, who in 1524-1525 published the second Rabbinic Bible, containing
@@ -26,7 +26,7 @@ materials available nor was criticism sufficiently advanced for a
 complete edition. Dr Ginsburg took up the subject almost where it was
 left by those early pioneers, and collected portions of the Massorah
 from the countless MSS. scattered throughout Europe and the East. More
-recently Dr Ginsburg has published _Facsimiles of Manuscripts of the
+recently Dr Ginsburg has published _Facsimiles of [[Manuscript|Manuscripts]] of the
 Hebrew Bible_ (1897 and 1898), and _The Text of the Hebrew Bible in
 Abbreviations_ (1903), in addition to a critical treatise "on the
 relationship of the so-called Codex Babylonicus of A.D. 916 to the

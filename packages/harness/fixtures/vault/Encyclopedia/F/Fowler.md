@@ -12,9 +12,9 @@ FOWLER, SIR JOHN (1817-1898), English civil engineer, was born on the
 a land-surveyor. At the age of sixteen he became a pupil of John
 Towlerton Leather, the engineer of the Sheffield water-works. The
 latter's uncle, George Leather, was engineer of the Great Aire and
-Calder Navigation Company, of the Goole Docks, and other similar works,
+Calder Navigation Company, of the [[Goole]] [[Dock|Docks]], and other similar works,
 and Fowler passed occasionally into his employment, in which he acquired
-a thorough knowledge of hydraulic engineering. The era of railway
+a thorough knowledge of hydraulic [[Engineering|engineering]]. The era of railway
 construction soon swept both Fowler and his employers into its service,
 and one of his first employments was to oppose the route of the Midland
 railway, chosen by the Stephensons, which left Sheffield on a branch
@@ -26,12 +26,12 @@ the office of John Urpeth Rastrick, one of the leading railway engineers
 of the day, where he was employed in designing bridges for the line from
 London to Brighton, and also in surveying for railways in Lancashire. In
 1839 he went as representative of Mr Leather to take charge of the
-construction of the Stockton & Hartlepool railway and remained as
+construction of the Stockton & [[Hartlepool]] railway and remained as
 manager of the line after it was finished. In 1844 he began his
 independent career as an engineer, and from the first was largely
 employed, more particularly in laying out the small railway systems
 which eventually were amalgamated under the title of the Manchester,
-Sheffield & Lincolnshire. In the course of this work he designed a
+Sheffield & [[Lincolnshire]]. In the course of this work he designed a
 bridge known as Torksey Bridge, which was disallowed by the Board of
 Trade inspector, Captain (afterwards Field-Marshal Sir) Lintorn Simmons.
 The engineering profession espoused Fowler's side in the controversy
@@ -56,24 +56,24 @@ opposed to the project of a Channel tunnel to France, and in 1872 he
 endeavoured to obtain the consent of parliament to a Channel ferry
 scheme, whereby trains were to be transported across the strait in large
 ferry steamers. The proposal involved the making of enlarged harbours at
-Dover and Audresselles on the French coast, and the bill, after passing
+[[Dover]] and Audresselles on the French coast, and the bill, after passing
 the Commons, was thrown out by the casting vote of the chairman of a
 committee of the House of Lords. In 1875 he was enabled to render, in
 his private capacity, a signal service to the Italian government, which
 was much embarrassed by impracticable proposals pressed on it by
-Garibaldi for a rectification of the course of the Tiber and other
+[[Garibaldi]] for a rectification of the course of the Tiber and other
 engineering works. He had several interviews with the Italian patriot,
 and persuaded him of the impracticable nature of his plan, thereby
 obtaining for the government leisure to devise a more reasonable scheme.
 For eight years from 1871 he acted as general engineering adviser in
 Egypt to the Khedive Ismail. He projected a railway to the Sudan, and
 also the reparation of the barrage. These and many other plans came to
-an end owing to financial reasons. But the maps and surveys for the
+an end owing to financial reasons. But the [[Map|maps]] and surveys for the
 railway were given to the war office, and proved most useful to Lord
 Wolseley in his Nile expedition. For his service Fowler was made
 K.C.M.G. (1885). He was created a baronet in 1890 on the completion of
-the Forth bridge, of which with his partner Sir Benjamin Baker he was
-joint engineer. He died at Bournemouth on the 20th of November 1898.
+the Forth bridge, of which with his partner Sir [[Benjamin]] [[Baker]] he was
+joint engineer. He died at [[Bournemouth]] on the 20th of November 1898.
 
 ## References
 

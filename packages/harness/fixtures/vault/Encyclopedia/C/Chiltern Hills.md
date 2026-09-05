@@ -7,18 +7,18 @@ topic: chemistry
 # Chiltern Hills
 
 CHILTERN HILLS, or THE CHILTERNS, a range of chalk hills in England,
-extending through part of Oxfordshire, Buckinghamshire and Bedfordshire.
+extending through part of Oxfordshire, [[Buckinghamshire]] and Bedfordshire.
 Running from S.W. to N.E., they form a well-marked escarpment
 north-westward, while the south-eastern slope is long. The name of
 Chilterns is applied to the hills between the Thames in the
-neighbourhood of Goring and the headwaters of its tributary the Lea
-between Dunstable and Hitchin, the crest line between these points being
+neighbourhood of [[Goring]] and the headwaters of its tributary the [[Lea]]
+between Dunstable and [[Hitchin]], the crest line between these points being
 about 55 m. in length. But these hills are part of a larger chalk
 system, continuing the line of the White Horse Hills from Berkshire, and
 themselves continued eastward by the East Anglian ridge. The greatest
 elevation of the Chilterns is found in the centre from Watlington to
 Tring, where heights from 800 to 850 ft. are frequent. Westward towards
-the Thames gap the elevation falls away but little, but eastward the
+the Thames [[Gap|gap]] the elevation falls away but little, but eastward the
 East Anglian ridge does not often exceed 500 ft., though it continues
 the northward escarpment across Hertfordshire. There are several passes
 through the Chilterns, followed by main roads and railways converging on
@@ -26,7 +26,7 @@ London, which lies in the basin of which these hills form part of the
 northern rim. The most remarkable passes are those near Tring, Wendover
 and Prince's Risborough, the floors of which are occupied by the gravels
 of former rivers. The Chilterns were formerly covered with a forest of
-beech, and there is still a local supply of this wood for the
+[[Beech|beech]], and there is still a local supply of this wood for the
 manufacture of chairs and other articles in the neighbourhood of
 Wycombe.
 
@@ -60,7 +60,7 @@ this way in contemporary practice--those of the Chilterns and
 Northstead; and when a member wished to vacate his seat, he was
 accordingly spoken of as taking the Chiltern Hundreds.
 
-  1. _Steward and Bailiff of the Chiltern Hundreds, County Bucks._--The
+  1. _Steward and Bailiff of the Chiltern Hundreds, County [[Buck|Bucks]]._--The
   Chiltern Hundreds formed a bailiwick of the ordinary type. They are
   situated on the Chiltern Hills, and the depredations of the bandits,
   who found shelter within their recesses, became at an early period so
@@ -72,7 +72,7 @@ accordingly spoken of as taking the Chiltern Hundreds.
   appointment of steward was first used for parliamentary purposes in
   1750, the appointment being made by the chancellor of the exchequer
   (and at his discretion to grant or not), and the warrant bestowing on
-  the holder "all wages, fees, allowances and other privileges and
+  the holder "all wages, [[Fee|fees]], allowances and other privileges and
   pre-eminences." Up to the 19th century there was a nominal salary of
   20s. attached to the post. It was laid down in 1846 by the chancellor
   of the exchequer that the Chilterns could not be granted to more than
@@ -90,7 +90,7 @@ accordingly spoken of as taking the Chiltern Hundreds.
   1763, and was in more or less constant use until 1840, after which it
   disappeared. This manor comprised copyholds, the usual courts were
   held, and the stewardship was an actual and active office, the duties
-  being executed by a deputy steward. The manor was sold by public
+  being executed by a [[Deputy|deputy]] steward. The manor was sold by public
   auction in 1823 for £910, but in some manner the crown retained the
   right of appointing a steward for seventeen years after that date.
 
@@ -117,7 +117,7 @@ accordingly spoken of as taking the Chiltern Hundreds.
   1820. After 1820 it was discontinued and finally abolished in 1838.
 
   6. _Steward of the Manor of Old Shoreham, Sussex._--This manor
-  belonged to the duchy of Cornwall, and it is difficult to understand
+  belonged to the duchy of [[Cornwall]], and it is difficult to understand
   how it came to be regarded as a crown appointment. It was first used
   for parliamentary purposes in 1756, and then, occasionally, until
   1799, in which year it was sold by the duchy to the duke of Norfolk.

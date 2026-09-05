@@ -12,7 +12,7 @@ CHIH-LI ("Direct Rule"), the metropolitan province of China, in which is
 situated Peking, the capital of the empire. It contains eleven
 prefectural cities, and occupies an area of 58,950 sq. m. The population
 is 29,400,000, the vast majority of whom are resident in the plain
-country. This province forms part of the great delta plain of China
+country. This province forms part of the great [[Delta|delta]] plain of China
 proper, 20,000 sq. m. of which are within the provincial boundaries; the
 remainder of the territory consists of the mountain ranges which define
 its northern and western frontier. The plain of Chih-li is formed
@@ -20,13 +20,13 @@ principally by detritus deposited by the Pei-ho and its tributary the
 Hun-ho ("muddy river"), otherwise known as the Yung-ting-ko, and other
 streams having their sources in mountains of Shan-si and other ranges.
 It is bounded E. by the Gulf of Chih-li and Shan-tung, and S. by
-Shan-tung and Ho-nan. The proportion of Mahommedans among the population
+Shan-tung and [[Ho-Nan|Ho-nan]]. The proportion of Mahommedans among the population
 is very large. In Peking there are said to be as many as 20,000
 Mahommedan families, and in Pao-ting Fu, the capital of the province,
 there are about 1000 followers of the prophet. The extremes of heat and
 cold in Chih-li are very marked. During the months of December, January
 and February the rivers are frozen up, and even the Gulf of Chih-li is
-fringed with a broad border of ice. There are four rivers of some
+fringed with a broad border of [[Ice|ice]]. There are four rivers of some
 importance in the province: the Pei-ho, with the Hun-ho, which rises in
 the mountains in Mongolia and, flowing to the west of Peking, forms a
 junction with the Pei-ho at Tientsin; the Shang-si-ho, which rises in
@@ -37,7 +37,7 @@ above Tientsin; the Pu-to-ho, which rises in Shan-si, and after running
 a parallel course to Shang-si-ho on the south, empties itself in the
 same way into the Hun-ho; and the Lan-ho, which rises in Mongolia,
 enters the province on the north-east after passing to the west of
-Jehol, passes the city of Yung-p'ing Fu in its course (which is
+[[Jehol]], passes the city of Yung-p'ing Fu in its course (which is
 south-easterly) through Chih-li, and from thence winds its way to the
 north-eastern boundary of the Gulf of Chih-li. The province contains
 three lakes of considerable size. The largest is the Ta-lu-tsze Hu,
@@ -66,7 +66,7 @@ of the province, and hot and warm springs are very common at the foot of
 the hills along the northern and western edges of the province. The
 principal agricultural products are wheat, kao-liang, oats, millet,
 maize, pulse and potatoes. Fruits and vegetables are also grown in large
-quantities. Of the former the chief kinds are pears, apples, plums,
+quantities. Of the former the chief kinds are pears, [[Apple|apples]], plums,
 apricots, peaches, persimmons and melons. Tientsin is the Treaty Port of
 the province.
 

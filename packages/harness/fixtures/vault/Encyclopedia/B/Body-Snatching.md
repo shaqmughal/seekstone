@@ -10,7 +10,7 @@ id: 42-1977
 # Body-Snatching
 
 BODY-SNATCHING, the secret disinterring of dead bodies in churchyards in
-order to sell them for the purpose of dissection. Those who practised
+order to sell them for the purpose of [[Dissection|dissection]]. Those who practised
 body-snatching were frequently called resurrectionists or
 resurrection-men. Previous to the passing of the Anatomy Act 1832 (see
 ANATOMY: _History_), no licence was required in Great Britain for
@@ -27,7 +27,7 @@ examples of which may still be seen in Greyfriars' churchyard,
 Edinburgh.
 
   For a detailed history of body-snatching, see _The Diary of a
-  Resurrectionist_, edited by J.B. Bailey (London, 1896), which also
+  Resurrectionist_, edited by J.B. [[Bailey]] (London, 1896), which also
   contains a full bibliography and the regulations in force in foreign
   countries for the supply of bodies for anatomical purposes.
 

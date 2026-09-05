@@ -1,14 +1,14 @@
 # Mammary Gland
 
-MAMMARY GLAND (Lat. _mamma_), or female breast, the organ by means of
+MAMMARY GLAND (Lat. _mamma_), or female [[Breast|breast]], the organ by means of
 which the young are suckled, and the possession of which, in some region
 of the trunk, entitles the animal bearing it to a place in the order of
-Mammalia.
+[[Mammalia]].
 
 _Anatomy._--In the human female the gland extends vertically from the
 second to the sixth rib, and transversely from the edge of the sternum
 to the mid axillary line; it is embedded in the fat superficial to the
-pectoralis major muscle, and a process which extends toward the arm-pit
+pectoralis [[Major|major]] muscle, and a process which extends toward the arm-pit
 is sometimes called the axillary tail. A little below the centre of the
 glandular swelling is the _nipple_, surrounding which is a pigmented
 circular patch called the areola; this is studded with slight nodules,
@@ -34,11 +34,11 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
 
   [Illustration: (From A. F. Dixon, Cunningham's _Text Book of Anatomy_.)
 
-  FIG. 1.--Dissection of the Mammary Gland.]
+  FIG. 1.--[[Dissection]] of the Mammary Gland.]
 
   _Supernumerary nipples and glands_ are not uncommon, and, when they
   occur, are usually situated in the mammary line which extends from the
-  anterior axillary fold to the spine of the pubis; hence, when an extra
+  anterior axillary [[Fold|fold]] to the spine of the pubis; hence, when an extra
   nipple appears above the normal one, it is external to it, but, when
   below, it is nearer the middle line. The condition of extra breasts is
   known as _polymasty_, that of extra nipples as _polythely_, and it is
@@ -51,7 +51,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   milk is secreted, and one case at least is recorded of a man who
   suckled a child. A functional condition of the mammary glands in men
   is known as _gynaekomasty_. (For further details see _The Structure of
-  Man_, by R. Wiedersheim, translated by H. and M. Bernard, and edited
+  Man_, by R. Wiedersheim, translated by H. and M. [[Bernard]], and edited
   by G. B. Howes, London, 1895.)
 
   _Embryology._--There is every probability that the mammary glands are
@@ -68,7 +68,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   The glands grow little until the age of puberty, but their full
   development is not reached until the birth of the first child.
 
-  _Comparative Anatomy._--In the lower Mammals the mammary line, already
+  _[[Comparative Anatomy]]._--In the lower Mammals the mammary line, already
   mentioned, appears in the embryo as a ridge, and in those which have
   many young at a birth patches of this develop in the thoracic and
   abdominal regions to form the mammae, while the intervening parts of
@@ -80,10 +80,10 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   it seems to depend on the convenience of suckling in which part of the
   mammary line the glands are developed. In the pouched Mammals
   (Monotremes and Marsupials) inguinal mammae are found, and so they are
-  in most Ungulates as well as in the Cetacea. In the elephants,
+  in most Ungulates as well as in the [[Cetacea]]. In the [[Elephant|elephants]],
   Sirenia, Chiroptera and most of the Primates, on the other hand, they
   are confined to the pectoral region, and this is also the case in some
-  Rodents, e.g. the jumping hare (_Pedetes caffer_). In the monotremes
+  Rodents, e.g. the jumping [[Hare|hare]] (_Pedetes caffer_). In the monotremes
   the mammary pit remains throughout life, and the milk is conducted
   along the hairs to the young, but in other Mammals nipples are formed
   in one of two ways. One is that already described in Man, which is
@@ -95,7 +95,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   other Mammals, but as altered sweat glands. It is further of interest
   to notice that in these primitive Mammals the glands are equally
   developed in both sexes, and it is thought that among the bats the
-  male often assists in suckling the young (see G. Dobson, _Brit. Museum
+  male often assists in suckling the young (see G. [[Dobson]], _Brit. Museum
   Cat. of the Chiroptera_, London, 1878). These facts, together with the
   occasional occurrence of gynaekomasty in man, make it probable that
   the ancestral Mammal was an animal in which both sexes helped in the
@@ -112,7 +112,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   crack, or other wound, in a nipple which has been made sore by the
   infant's vigorous attempts to obtain food. Especially is this septic
   inflammation apt to occur if the nipple is depressed, or so badly
-  formed that the infant has difficulty in feeding from it. The inflamed
+  formed that the [[Infant|infant]] has difficulty in feeding from it. The inflamed
   breast is enlarged, tender and painful, and the skin over it is hot,
   and perhaps too reddened. The woman feels ill and feverish, and she
   may shiver, or have a definite rigor--which suggests that the
@@ -132,9 +132,9 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   is discovered, the relief to the vascular tension thus afforded will
   be nevertheless highly beneficial. The operation had better be done
   under a general anaesthetic, so that the surgeon can introduce a
-  probe, or his finger, into the wound, breaking down the partitions
+  probe, or his [[Finger|finger]], into the wound, breaking down the partitions
   which are likely to exist between separate abscesses, and thus enable
-  them to be drained through the one opening. As the discharge begins to
+  them to be drained through the one opening. As the [[Discharge|discharge]] begins to
   cease, the tenderness subsides, and gentle massage, or firm strapping
   of the breast, will prove useful. The general treatment will consist
   in the administration of an aperient, and, the tongue being clean, in
@@ -144,7 +144,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   disease small doses of morphia may be necessary. When the tongue has
   cleaned, a little wine may be given with advantage.
 
-  _Chronic Eczema_ around the nipple of a woman late in life, with,
+  _Chronic [[Eczema]]_ around the nipple of a woman late in life, with,
   perhaps, localized ulceration, is known as _Paget's Disease_. The
   importance of it is that cancerous infiltration is apt to pass from it
   along the milk-ducts and to involve the breast in malignant disease.
@@ -159,13 +159,13 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   _Chronic Mastitis_ is of frequent occurrence in women who are past
   middle age. The part of the breast involved is enlarged, hard, and
   more or less tender and painful. It is sometimes impossible clinically
-  to distinguish this disease from cancer. True, the tumour is not so
+  to distinguish this disease from [[Cancer|cancer]]. True, the tumour is not so
   definite or so hard as a cancer, nor is it attached to the skin, nor
   to the muscles of the chest wall, and if there are any glands
   secondarily enlarged in the arm-pit they are not so hard as they may
   be in cancer. But all these are questions of degree. It is, of course,
   highly inadvisable to leave it to time to clear up the diagnosis, for
-  a chronic mastitis, innocent at first, may eventually become
+  a chronic mastitis, [[Innocent|innocent]] at first, may eventually become
   cancerous. If in any case the difficulty of distinguishing a chronic
   mastitis from a malignant tumour of the breast is insuperable, the
   safest course is to remove the breast and have it examined by the
@@ -201,7 +201,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   cases there is a clear history of the attack having followed an
   injury. It is, thus, as if inflammatory changes in the breast were the
   direct cause of a later cancerous invasion. Though it is impossible to
-  affirm that heredity has a great influence in the incidence of cancer,
+  affirm that [[Heredity|heredity]] has a great influence in the incidence of cancer,
   it is, nevertheless, remarkable that the members of certain families
   are unusually prone to the disease.
 
@@ -221,7 +221,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   The cells of a cancerous breast are apt to be carried by the
   lymphatics to the lymphatic glands in the arm-pit, and by the
   bloodstream to the spinal column and to other parts of the skeleton,
-  and sometimes to the liver, which thus becomes large and hard, or to
+  and sometimes to the [[Liver|liver]], which thus becomes large and hard, or to
   the other breast.
 
   As the fibrous tissue around the tumour becomes invaded by the new
@@ -238,7 +238,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   frequent change of dressings, however, all unpleasant smell can be
   checked or prevented. As the ulcer extends it is apt to implicate
   large blood-vessels, so that serious, and sometimes alarming,
-  haemorrhages take place. And if the breast had previously been in
+  [[Haemorrhage|haemorrhages]] take place. And if the breast had previously been in
   pain, the bleeding is likely to give great relief. But repeated
   haemorrhages bring on increasing exhaustion, and thus materially
   hasten the end.
@@ -264,7 +264,7 @@ each lactiferous duct has a fusiform dilatation called the _ampulla_.
   applications of the rays are likely to be needed, and the case may
   possibly refuse to yield to their influence, and, after loss of
   valuable time, the disease may have eventually to be removed by the
-  knife. The great advantage which the treatment by the knife offers
+  [[Knife|knife]]. The great advantage which the treatment by the knife offers
   over every other method is that the growth can be cleanly, efficiently
   and promptly removed, and, with it, all the affected lymph-spaces, and
   the lymphatic glands which are secondarily implicated.

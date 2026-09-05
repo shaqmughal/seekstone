@@ -16,8 +16,8 @@ handling of the rifle; "manual alphabet," the formation of the letters
 of the alphabet by the fingers of one or both hands for communication
 with the deaf and dumb; and "manual acts," the breaking of the bread,
 and the taking of the cup in the hands by the officiating priest in
-consecrating the elements during the celebration of the Eucharist. The
-use of the word for tools and implements to be used by the hand, as
+consecrating the elements during the celebration of the [[Eucharist]]. The
+use of the word for tools and [[Implement|implements]] to be used by the hand, as
 distinct from machinery, only survives in the "manual fire-engine." From
 the late Latin use of _manuale_ as a substantive, meaning "handbook,"
 comes the use of the word for a book treating a subject in a concise
@@ -27,7 +27,7 @@ including communion out of the Mass, also the forms for churching,
 burials, &c. In the Roman Church such a book is usually called a
 _rituale_, "manual" being the name given to it in the English Church
 before the Reformation. The keyboard of an organ, as played by the
-hands, is called the "manual," in distinction from the "pedal" keys
+hands, is called the "manual," in distinction from the "pedal" [[Key|keys]]
 played by the feet.
 
 ## See also

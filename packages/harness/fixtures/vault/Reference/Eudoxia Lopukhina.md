@@ -13,22 +13,22 @@ youth of seventeen, married her on the 27th of January 1689 at the
 command of his mother, who hoped to wean him from the wicked ways of the
 German suburb of Moscow by wedding him betimes to a lady who was as
 pious as she was beautiful. The marriage was in every way unfortunate.
-Accustomed from her infancy to the monastic seclusion of the _terem_, or
-women's quarter, Eudoxia's mental horizon did not extend much beyond her
+Accustomed from her [[Infancy|infancy]] to the monastic seclusion of the _terem_, or
+women's quarter, Eudoxia's mental [[Horizon|horizon]] did not extend much beyond her
 embroidery-frame or her illuminated service-book. From the first her
 society bored Peter unspeakably, and after the birth of their second,
 short-lived son Alexander, he practically deserted her. In 1698 she was
 unceremoniously sent off to the Pokrovsky monastery at Suzdal for
 refusing to consent to a divorce, though it was not till June 1699 that
 she disappeared from the world beneath the hood of sister Elena. In the
-monastery, however, she was held in high honour by the archimandrite;
+monastery, however, she was held in high honour by the [[Archimandrite|archimandrite]];
 the nuns persisted in regarding her as the lawful empress; and she was
-permitted an extraordinary degree of latitude, unknown to Peter, who
+permitted an extraordinary degree of [[Latitude|latitude]], unknown to Peter, who
 dragged her from her enforced retreat in 1718 on a charge of adultery.
 As the evidence was collected by Peter's creatures, it is very doubtful
 whether Eudoxia was guilty, though she was compelled to make a public
 confession. She was then divorced and consigned to the remote monastery
-of Ladoga. Here she remained for ten years till the accession of her
+of [[Ladoga]]. Here she remained for ten years till the accession of her
 grandson, Peter II., when the reactionaries proposed to appoint her
 regent. She was escorted with great ceremony to Moscow in 1728 and
 exhibited to the people attired in the splendid, old-fashioned robes of

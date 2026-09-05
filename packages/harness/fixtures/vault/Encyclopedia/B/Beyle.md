@@ -8,38 +8,38 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Beyle"
 # Beyle
 
 BEYLE, MARIE HENRI (1783-1842), better known by his _nom de plume_ of
-STENDHAL, French author, was born at Grenoble on the 23rd of January
+STENDHAL, French author, was born at [[Grenoble]] on the 23rd of January
 1783. With his father, who was an _avocat_ in the parlement of Grenoble,
 he was never on good terms, but his intractable disposition sufficiently
 explains his unhappy childhood and youth. Until he was twelve years old
 he was educated by a priest, who succeeded in inspiring him with a
 lasting hatred of clericalism. He was then sent to the newly established
 Ecole Centrale at Grenoble, and in 1799 to Paris with a letter of
-introduction to the Daru family, with which the Beyles were connected.
+introduction to the [[Daru]] family, with which the Beyles were connected.
 Pierre Daru offered him a place in the ministry for war, and with the
 brothers Daru he followed Napoleon to Italy. Most of his time in Italy
-was spent at Milan, a city for which he conceived a lasting attachment.
+was spent at Milan, a city for which he conceived a lasting [[Attachment|attachment]].
 Much of his _Chartreuse de Parme_ seems to be autobiographical of this
 part of his life.
 
 He was a spectator of the battle of Marengo, and afterwards enlisted in
-a dragoon regiment. With rapid promotion he became adjutant to General
+a [[Dragoon|dragoon]] regiment. With rapid promotion he became adjutant to General
 Michaud; but after the peace of Amiens in 1802 he returned to study in
 Paris. There he met an actress, Melanie Guilbert, whom he followed to
-Marseilles. His father cut off his supplies on hearing of this escapade,
+[[Marseilles]]. His father cut off his supplies on hearing of this escapade,
 and Beyle was reduced to serving as clerk to a grocer. Melanie Guilbert,
 however, soon abandoned him to marry a Russian, and Beyle returned to
 Paris. Through the influence of Daru he obtained a place in the
-commissariat, which he filled with some distinction from 1806 to 1814.
-Charged with raising a levy in Brunswick of five million francs, he
+[[Commissariat|commissariat]], which he filled with some distinction from 1806 to 1814.
+Charged with raising a [[Levy|levy]] in Brunswick of five million [[Franc|francs]], he
 extracted seven; and during the retreat from Moscow he discharged his
 duties with efficiency. On the fall of Napoleon he refused to accept a
 place under the new regime, and retired to Milan, where he met Silvio
-Pellico, Manzoni, Lord Byron and other men of note. At Milan he
+Pellico, [[Manzoni]], Lord [[Byron]] and other men of note. At Milan he
 contracted a _liaison_ with a certain Angelina P., whom he had admired
 fruitlessly during his earlier residence in that city. In 1814 he
 published, under the pseudonym of Alexandre Cesar Bombet, his _Lettres
-ecrites de Vienne en Aulriche sur le celebre compositeur, Joseph Haydn,
+ecrites de Vienne en Aulriche sur le celebre compositeur, Joseph [[Haydn]],
 suivies d'une vie de Mozart, et de considerations sur Metastase et
 l'etat present de la musique en Italie_. His letters on Haydn were
 borrowed from the _Haydini_ (1812) of Joseph Carpani, and the section on
@@ -62,7 +62,7 @@ Rossini_ (1824), _D'un nouveau complot centre les industriels_ (1825),
 _Promenades dans Rome_ (1829), and his first novel, _Armance, ou
 quelques scenes de Paris en 1827_ (1827). After the Revolution of 1830
 he was appointed consul at Trieste, but the Austrian government refused
-to accept him, and he was sent to Civita Vecchia instead. _Le Rouge et
+to accept him, and he was sent to [[Civita Vecchia]] instead. _Le Rouge et
 le noir, chronique du XIX^e siecle_ (2 vols., 1830) appeared in Paris
 after his departure, but attracted small notice. He had published in
 1838 _Memoires d'un touriste_, and in 1839 _La Chartreuse de Parme_ (2
@@ -77,7 +77,7 @@ himself as a Milanese.
 
 His posthumous works include a fragmentary _Vie de Napoleon_ (1875);
 _Melanges d'art et de litterature_ (1867); _Chroniques italiennes_
-(1885), including "_L'Abbesse de Castro_," "_Les Cenci_," "_Vittoria
+(1885), including "_L'Abbesse de Castro_," "_Les [[Cenci]]_," "_Vittoria
 Accoramboni_," "_Vanina Vanini_," "_La Duchesse de Palliano_," some of
 which has appeared separately; _Romans et nouvelles_ and _Nouvelles
 inedites_ (1855); _Correspondance_ (2 vols., 1855); Lamiel (ed. C.
@@ -106,7 +106,7 @@ literary. In spite of his egotism and the limitations of his ideas, his
 acute analysis of the motives of his personages has appealed to
 successive generations of writers, and a great part of the development
 of the French novel must be traced to him. Brunetiere has pointed out
-(_Manual of French Lit._, Eng. trans., 1898) that Stendhal supplied the
+(_[[Manual]] of French Lit._, Eng. trans., 1898) that Stendhal supplied the
 Romanticists with the notion of the interchange of the methods and
 effects of poetry, painting and music, and that in his worship of
 Napoleon he agreed with their glorification of individual energy.
@@ -119,7 +119,7 @@ Bourget (_Essais de psychologie contemporaine_, 1883) cited _Le Rouge et
 le noir_ as one of the classic novels of analysis.
 
   The 1846 edition of _La Chartreuse de Parme_ contains a prefatory
-  notice by R. Colomb, and a reprint of Balzac's article. In addition to
+  notice by R. [[Colomb]], and a reprint of Balzac's article. In addition to
   the authorities already mentioned see the essay on Beyle (1850) by
   Prosper Merimee; A.A. Paton, _Henry Beyle, a Critical and Biographical
   Study_ (1874); Adolphe Paupe, _Histoire des oeuvres de Stendhal_
@@ -127,7 +127,7 @@ le noir_ as one of the classic novels of analysis.
   (_Revue des deux mondes_, February 1902), deprecating the excessive
   attention paid to Beyle's writings; and Edouard Rod, _Stendhal_ (1892)
   in the "Grands ecrivains francais" series. See also _Correspondance de
-  Stendhal, 1800-1842_, with preface by M. Barres (Paris, 1908).
+  Stendhal, 1800-1842_, with preface by M. [[Barre|Barres]] (Paris, 1908).
 
 
 FOOTNOTE:

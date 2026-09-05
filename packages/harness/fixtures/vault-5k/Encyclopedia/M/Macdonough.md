@@ -6,7 +6,7 @@ entered the United States navy in 1800. During his long service as a
 lieutenant he took part in the bombardment of Tripoli, and on a
 subsequent occasion showed great firmness in resisting the seizure of a
 seaman as an alleged deserter from the British navy, his ship at the
-time lying under the guns of Gibraltar. When war with England broke out,
+time lying under the guns of [[Gibraltar]]. When war with England broke out,
 in 1812, he was ordered to cruise in the lakes between Canada and the
 United States, with his headquarters on lake Champlain. He was
 instrumental in saving New York and Vermont from invasion by his
@@ -21,15 +21,15 @@ gold medal.
 
 MacDOWELL, EDWARD ALEXANDER (1861-1908), American musical composer, was
 born in New York City on the 18th of December 1861. His father, an
-Irishman of Belfast, had emigrated to America shortly before the boy's
+Irishman of [[Belfast]], had emigrated to America shortly before the boy's
 birth. He had a varied education in music, first under Spanish-American
-teachers, and then in Europe, at Paris (Debussy being a fellow pupil),
+teachers, and then in Europe, at Paris (Debussy being a [[Fellow|fellow]] pupil),
 Stuttgart, Wiesbaden and Weimar, where he was chiefly influenced by
 Joachim, Raff and Liszt. From 1879 to 1887 he lived in Germany, teaching
 and studying, and also appearing as solo pianist at important concerts.
 In 1884 he married Marian Nevins, of New York. In 1888 he returned to
-America, and settled in Boston till in 1896 he was made professor of
-music at Columbia University, New York. He resigned this post in 1904,
+America, and settled in [[Boston]] till in 1896 he was made professor of
+music at [[Columbia]] University, New York. He resigned this post in 1904,
 and in 1905 overwork and insomnia resulted in a complete cerebral
 collapse. He died on the 24th of January 1908. MacDowell's work gives
 him perhaps the highest place among American composers. Deeply
@@ -60,7 +60,7 @@ adjutant-general, chiefly at Washington, until 1861, being promoted
 major in 1856. In 1858-1859 he visited Europe. Whilst occupied in
 mustering volunteers at the capital, he was made brigadier-general in
 May 1861, and placed in command during the premature Virginian campaign
-of July, which ended in the defeat at Bull Run. Under McClellan he
+of July, which ended in the defeat at [[Bull]] Run. Under McClellan he
 became a corps commander and major-general of volunteers (March 1862).
 When the Peninsular campaign began McDowell's corps was detained against
 McClellan's wishes, sent away to join in the fruitless chase of

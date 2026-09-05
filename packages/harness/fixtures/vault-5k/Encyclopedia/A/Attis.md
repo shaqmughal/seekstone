@@ -2,7 +2,7 @@
 
 ATTIS, or ATYS, a deity worshipped in Phrygia, and later throughout the
 Roman empire, in conjunction with the Great Mother of the Gods. Like
-Aphrodite and Adonis in Syria, Baal and Astarte at Sidon, and Isis and
+[[Aphrodite]] and Adonis in Syria, Baal and Astarte at Sidon, and [[Isis]] and
 Osiris in Egypt, the Great Mother and Attis formed a duality which
 symbolized the relations between Mother Earth and her fruitage. Their
 worship included the celebration of mysteries annually on the return of
@@ -35,7 +35,7 @@ to grow, and his little finger to move. The little finger, _digitus_,
 [Greek: daktylos], is interpreted as the phallus by Georg Kaibel
 (_Gottinger Nachrichten_, 1901, p. 513). In Diodorus (in. 58, 59) the
 Mother is the carnal lover of Attis, and, when her father the king
-discovers her fault and kills her lover, roams the earth in wild grief.
+discovers her [[Fault|fault]] and kills her lover, roams the earth in wild grief.
 In Ovid (_Fasti_, iv. 223 ff.) she is inspired with chaste love for him,
 which he pledges himself to reciprocate. On his proving unfaithful, the
 Great Mother slays the nymph with whom he has sinned, whereupon in

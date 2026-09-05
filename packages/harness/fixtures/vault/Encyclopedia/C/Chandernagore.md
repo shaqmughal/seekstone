@@ -9,12 +9,12 @@ type: article
 
 CHANDERNAGORE, or CHANDARNAGAR, a French settlement in India, with a
 small adjoining territory, situated on the right bank of the river
-Hugli, 20 m. above Calcutta, in 22 deg. 51' 40" N, and 88 deg. 24' 50"
+[[Hugli]], 20 m. above [[Calcutta]], in 22 deg. 51' 40" N, and 88 deg. 24' 50"
 E. Area 3 sq. m.; pop. (1901) 25,000. Chandernagore has played an
-important part in the European history of Bengal. It became a permanent
+important part in the European history of [[Bengal]]. It became a permanent
 French settlement, in 1688, but did not rise to any importance till the
 time of Dupleix, during whose administration more than two thousand
-brick houses were erected in the town and a considerable maritime trade
+[[Brick|brick]] houses were erected in the town and a considerable maritime trade
 was carried on. In 1757 Chandernagore was bombarded by an English fleet
 under Admiral Watson and captured; the fortifications and houses were
 afterwards demolished. On peace being established the town was restored

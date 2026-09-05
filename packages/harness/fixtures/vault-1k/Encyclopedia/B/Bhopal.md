@@ -20,7 +20,7 @@ sea-level. The general inclination of the country is towards the north,
 in which direction most of the streams of the state flow, while others,
 passing through the Vindhya ranges, flow to the Nerbudda.
 
-Bhopal state was founded in 1723 by Dost Mahommed Khan, an Afghan
+Bhopal state was founded in 1723 by Dost Mahommed [[Khan]], an Afghan
 adventurer. In 1778, when General Thomas Goddard made his bold march
 across India, the state of Bhopal was the only Indian power that showed
 itself friendly; and in 1809 when another British expedition under

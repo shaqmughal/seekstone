@@ -2,15 +2,15 @@
 
 CAMERA (a Latin adaptation of Gr. [Greek: kamara], an arched chamber),
 in law, a word applied at one time to the English judges' chambers in
-Serjeants' Inn, as distinct from their bench in Westminster Hall. It was
+Serjeants' Inn, as distinct from their [[Bench|bench]] in Westminster Hall. It was
 afterwards applied to the judges' private room behind the court, and,
 hence, in the phrase _in camera_, to cases heard in private, i.e. in
 chambers. So far as criminal cases are concerned, the courts have no
 power to hear them in private, nor have they any power to order adults
 (men or women) out of court during the hearing. In civil proceedings at
 common law, it may also be laid down that the public cannot be excluded
-from the court; in _Malan_ v. _Young_, 1889, 6 T.L.R. 68, Mr Justice
-Denman held that he had power to hear the case _in camera_, but he
+from the court; in _[[Malan]]_ v. _Young_, 1889, 6 T.L.R. 68, Mr Justice
+[[Denman]] held that he had power to hear the case _in camera_, but he
 afterwards stated that there was considerable doubt among the judges as
 to the power to hear cases _in camera_, even by consent, and the case
 was, by consent of the parties, finally proceeded with before the judge
@@ -18,7 +18,7 @@ _as arbitrator_. In the court of chancery it is the practice to hear in
 private cases affecting wards of the court and lunatics, family disputes
 (by consent), and cases where a public trial would defeat the object of
 the action (_Andrew_ v. _Raeburn_, 1874, L.R. 9 Ch. 522). In an action
-for infringement of a patent for a chemical process the defendant was
+for infringement of a patent for a chemical process the [[Defendant|defendant]] was
 allowed to state a secret process _in camera (Badische Anilin und Soda
 Fabrik_ v. _Gillman_, 1883, 24 Ch. D. 156). The Court of Appeal has
 decided that it has power to sit in private; in _Mellor_ v. _Thompson_,

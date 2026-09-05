@@ -3,7 +3,7 @@
 LAY, a word of several meanings. Apart from obsolete and dialectical
 usages, such as the East Anglian word meaning "pond," possibly cognate
 with Lat. _lacus_, pool or lake, or its use in weaving for the batten of
-a loom, where it is a variant form of "lath," the chief uses are as
+a [[Loom|loom]], where it is a variant form of "lath," the chief uses are as
 follows: (1) A song or, more accurately, a short poem, lyrical or
 narrative, which could be sung or accompanied by music; such were the
 romances sung by minstrels. Such an expression as the "Lay of the
@@ -15,7 +15,7 @@ Welsh _llais_, and takes O. Mid. and High Ger. _leich_ as the probable
 source. (2) "Non-clerical" or "unlearned." In this sense "lay" comes
 directly from Fr. _lai_ (_laïque_, the learned form nearer to the Latin,
 is now used) from Lat. _laicus_, Gr. [Greek: laikos], of or belonging to
-the people ([Greek: laos], Attic [Greek: leôs]). The word is now
+the people ([Greek: laos], [[Attic]] [Greek: leôs]). The word is now
 specially applied to persons who are not in orders, and more widely to
 those who do not belong to other learned professions, particularly the
 law and medicine. The _New English Dictionary_ quotes two examples from
@@ -33,7 +33,7 @@ remains in force until it is revoked by the bishop or his successors, or
 till there is a new incumbent in the parish, when it has to be renewed.
 In a religious order a "lay brother" is freed from duties at religious
 services performed by the other members, and from their studies, but is
-bound by vows of obedience and chastity and serves the order by manual
+bound by vows of obedience and chastity and serves the order by [[Manual|manual]]
 labour. For "lay impropriator" see APPROPRIATION, and for "lay rector"
 see RECTOR and TITHES; see further LAYMEN, HOUSE OF. (3) "Lay" as a verb
 means "to make to lie down," "to place upon the ground," &c. The past

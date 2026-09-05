@@ -12,12 +12,12 @@ traditions relating to a reform of this order by St John of Meda are ill
 authenticated, his _Acta_ (_Acta sanctorum Boll._, Sept., vii. 320)
 being almost entirely unsupported by contemporary evidence. The
 "Chronicon anonymi Laudunensis canonici" (_Mon. Germ. hist. Scriptores_,
-xxvi. 449), at date 1178, states that a group of Lombards came to Rome
+xxvi. 449), at date 1178, states that a group of [[Lombards]] came to Rome
 with the intention of obtaining the pope's approval of the rule of life
 which they had spontaneously chosen; while continuing to live in their
 houses in the midst of their families, they wished to lead a more pious
 existence than of old, to abandon oaths and litigation, to content
-themselves with a modest dress, and all in a spirit of Catholic piety.
+themselves with a modest [[Dress|dress]], and all in a spirit of Catholic piety.
 The pope approved their resolve to live in humility and purity, but
 forbade them to hold assemblies and to preach in public; the chronicler
 adding that they infringed the pope's wish and thus drew upon themselves
@@ -55,16 +55,16 @@ independent Humiliati. Indeed, this tradition is confounded throughout
 the later 12th century with the history of the Waldenses. The "Chronicon
 Urspergense" (_Mon. Germ. hist. Scriptores_, xxiii. 376-377) mentions
 the Humiliati as one of the two Waldensian sects. The celebrated
-decretal promulgated in 1184 by Pope Lucius III. at the council of
+decretal promulgated in 1184 by Pope [[Lucius]] III. at the council of
 Verona against all heretics condemns at the same time as the "Poor Men
-of Lyons" "those who attribute to themselves falsely the name of
+of [[Lyons]]" "those who attribute to themselves falsely the name of
 Humiliati," at the very time when this name denoted an order recognized
 by the papacy. This order, though orthodox, was always held in tacit and
 ever-increasing suspicion, and, in consequence of grave disorders, Pius
 V. suppressed the entire congregation in February 1570-71.
 
   See Tiraboschi, _Vetera humiliatorum monumenta_ (Milan, 1766); K.
-  Muller, _Die Waldenser_ (Gotha, 1886); W. Preger, _Beitrage zur
+  Muller, _Die Waldenser_ ([[Gotha]], 1886); W. Preger, _Beitrage zur
   Geschichte der Waldensier_ (Munich, 1875).     (P. A.)
 
 ## See also

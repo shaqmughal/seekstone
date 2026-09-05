@@ -12,7 +12,7 @@ the use of "spinster" for an unmarried woman); thus the "distaff" or
 "spindle" side of a family refers to the female branch, as opposed to
 the "spear" or male branch. The 7th of January, the day after Epiphany,
 was formerly known as St Distaff's day, as women then began work again
-after the Christmas holiday.
+after the [[Christmas]] holiday.
 
 ## See also
 

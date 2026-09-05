@@ -7,23 +7,23 @@ tags: [science, geography]
 
 # Fuel
 
-FUEL (O. Fr. _feuaile_, popular Lat. _focalia_, from _focus_, hearth,
+FUEL (O. Fr. _feuaile_, popular Lat. _focalia_, from _[[Focus|focus]]_, hearth,
 fire), a term applicable to all substances that can be usefully employed
-for the production of heat by combustion. Any element or combination of
+for the production of heat by [[Combustion|combustion]]. Any element or combination of
 elements susceptible of oxidation may under appropriate conditions be
-made to burn; but only those that ignite at a moderate initial
+made to [[Burn|burn]]; but only those that ignite at a moderate initial
 temperature and burn with comparative rapidity, and, what is practically
 of more importance, are obtainable in quantity at moderate prices, can
 fairly be regarded as fuels. The elementary substances that can be so
-classed are primarily hydrogen, carbon and sulphur, while others finding
+classed are primarily hydrogen, [[Carbon|carbon]] and sulphur, while others finding
 more special applications are silicon, phosphorus, and the more readily
 oxidizable metals, such as iron, manganese, aluminium and magnesium.
-More important, however, than the elements are the carbohydrates or
+More important, however, than the elements are the [[Carbohydrate|carbohydrates]] or
 compounds of carbon, oxygen and hydrogen, which form the bulk of the
 natural fuels, wood, peat and coal, as well as of their liquid and
-gaseous derivatives--coal-gas, coal-tar, pitch, oil, &c., which have
+gaseous derivatives--coal-gas, [[Coal-Tar|coal-tar]], pitch, oil, &c., which have
 high values as fuel. Carbon in the elementary form has its nearest
-representative in the carbonized fuels, charcoal from wood and coke from
+representative in the carbonized fuels, [[Charcoal|charcoal]] from wood and coke from
 coal.
 
 
@@ -43,7 +43,7 @@ inflammable. The ends of imperfectly charred boughs from the charcoal
 heaps in this condition are used in Paris and other large towns in
 France for kindling purposes, under the name of _fumerons_. The
 inflammability, however, varies with the density,--the so-called hard
-woods, oak, beech and maple, taking fire less readily than the softer,
+woods, oak, [[Beech|beech]] and [[Maple|maple]], taking fire less readily than the softer,
 and, more especially, the coniferous varieties rich in resin. The
 calorific power of absolutely dry woods may as an average be taken at
 about 4000 units, and when air-dried, i.e. containing 25% of water, at
@@ -52,7 +52,7 @@ water evaporated by unit weight, are 3.68 and 4.44.
 
 Wood being essentially a flaming fuel is admirably adapted for use with
 heat-receiving surfaces of large extent, such as locomotive and marine
-boilers, and is also very clean in use. The absence of all cohesion in
+[[Boiler|boilers]], and is also very clean in use. The absence of all cohesion in
 the cinders or unburnt carbonized residue causes a large amount of
 ignited particles to be projected from the chimney, when a rapid draught
 is used, unless special spark-catchers of wire gauze or some analogous
@@ -70,7 +70,7 @@ previously either into charcoal or into inflammable gas.
 Peat includes a great number of substances of very unequal fuel value,
 the most recently formed spongy light brown kind approximating in
 composition to wood, while the dense pitchy brown compact substance,
-obtained from the bottom of bogs of ancient formation, may be compared
+obtained from the bottom of [[Bog|bogs]] of ancient formation, may be compared
 with lignite or even in some instances with coal. Unlike wood, however,
 it contains incombustible matter in variable but large quantity, from 5
 to 15% or even more. Much of this, when the amount is large, is often
@@ -88,11 +88,11 @@ often require a still higher temperature when prepared by pulping and
 compression or partial carbonization. Most kinds burn with a red smoky
 flame, developing a very strong odour, which, however, has its admirers
 in the same way that wood smoke has. This arises from the destructive
-distillation of imperfectly carbonized organic matter. The ash, like
+[[Distillation|distillation]] of imperfectly carbonized organic matter. The ash, like
 that of wood, is light and powdery, except when much sand is present,
 when it is of a denser character.
 
-Peat is principally found in high latitudes, on exposed high tablelands
+Peat is principally found in high [[Latitude|latitudes]], on exposed high tablelands
 and treeless areas in more temperate climates, and in the valleys of
 slow-flowing rivers,--as in Ireland, the west of Scotland, the tableland
 of Bavaria, the North German plain, and parts of the valleys of the
@@ -114,8 +114,8 @@ peat. When freshly raised, the proportion of water may be from 45 to 50%
 and even more, which is reduced from 28 to 20% by exposure to dry air.
 Most varieties, however, when fully dried, break up into powder, which
 considerably diminishes their utility as fuel, as they cannot be
-consolidated by coking. Lignite dust may, however, be compacted into
-serviceable blocks for burning, by pressure in machines similar to those
+consolidated by coking. Lignite [[Dust|dust]] may, however, be compacted into
+serviceable blocks for burning, by pressure in [[Machine|machines]] similar to those
 used for brickmaking, either in the wet state as raised from the mines
 or when kiln-dried at 200 deg. C. This method was adopted to a very large
 extent in Prussian Saxony. The calorific value varies between 3500 and
@@ -165,20 +165,20 @@ application is in the so-called "pyritic smelting," where ores of copper
 fluxes in a hot blast, without preliminary roasting, the sulphur and
 iron of the pyrites giving sufficient heat by oxidation to liquefy both
 slag and metal. Phosphorus, which is of value from its low igniting
-point, receives its only application in the manufacture of lucifer
+point, receives its only application in the manufacture of [[Lucifer|lucifer]]
 matches. The high temperature produced by burning phosphorus is in part
 due to the product of combustion (phosphoric acid) being solid, and
 therefore there is less heat absorbed than would be the case with a
 gaseous product. The same effect is observed in a still more striking
 manner with silicon, which in the only special case of its application
-to the production of heat, namely, in the Bessemer process of
+to the production of heat, namely, in the [[Bessemer]] process of
 steel-making, gives rise to an enormous increase of temperature in the
 metal, sufficient indeed to keep the iron melted. The absolute calorific
 value of silicon is lower than that of carbon, but the product of
 combustion (silica) being non-volatile at all furnace temperatures, the
 whole of the heat developed is available for heating the molten iron,
 instead of a considerable part being consumed in the work of
-volatilization, as is the case with carbonic oxide, which burns to waste
+volatilization, as is the case with carbonic oxide, which [[Burns|burns]] to waste
 in the air.
 
 
@@ -192,7 +192,7 @@ in the air.
   the method by which the burning is effected, whether by oxygen, air or
   a reducible metallic oxide. It is most conveniently determined in the
   laboratory by measuring the heat evolved during the combustion of a
-  given weight of the fuel. The method of Lewis Thompson is one of the
+  given weight of the fuel. The method of [[Lewis]] Thompson is one of the
   most useful. The calorimeter consists of a copper cylinder in which a
   weighed quantity of coal intimately mixed with 10-12 parts of a
   mixture of 3 parts of potassium chlorate and 1 of potassium nitrate is
@@ -210,13 +210,13 @@ in the air.
   evaporative value in pounds, subject only to a correction for the
   amount of heat absorbed by the mass of the instrument, for which a
   special coefficient is required and must be experimentally determined.
-  The ordinary bomb calorimeter is also used. An approximate method is
+  The ordinary [[Bomb|bomb]] calorimeter is also used. An approximate method is
   based upon the reduction of lead oxide by the carbon and hydrogen of
   the coal, the amount of lead reduced affording a measure of the oxygen
   expended, whence the heating power may be calculated, 1 part of pure
   carbon being capable of producing 34-1/2 times its weight of lead. The
   operation is performed by mixing the weighed sample with a large
-  excess of litharge in a crucible, and exposing it to a bright red heat
+  excess of litharge in a crucible, and exposing it to a [[Bright|bright]] red heat
   for a short time. After cooling, the crucible is broken and the
   reduced button of lead is cleaned and weighed. The results obtained by
   this method are less accurate with coals containing much disposable
@@ -256,7 +256,7 @@ in the air.
 
   The heats of combustion of elements and compounds will be found in
   most of the larger works on physical and chemical constants; a
-  convenient series is given in the _Annuaire du Bureau des Longitudes_,
+  convenient series is given in the _Annuaire du [[Bureau]] des Longitudes_,
   appearing in alternate years. The following figures for the principal
   fuel elements are taken from the issue for 1908; they are expressed in
   gramme "calories" or heat units, signifying the weight of water in
@@ -271,7 +271,7 @@ in the air.
     |              / |      "      as vapour           |  29,650   |
     | Carbon--       |                                 |           |
     |   Diamond      | Carbon Dioxide, CO2             |   7,868   |
-    |   Graphite     |    "      "                     |   7,900   |
+    |   [[Graphite]]     |    "      "                     |   7,900   |
     |   Amorphous    |    "      "                     |   8,133   |
     | Silicon--      |                                 |           |
     |   Amorphous    | Silicon Dioxide, SiO2           |   6,414   |
@@ -312,7 +312,7 @@ in the air.
   circumstances--the great increase in specific heat at high
   temperatures in compound gases such as water and carbon dioxide, and
   their instability when heated to 1800 deg. or 2000 deg. At such
-  temperatures dissociation to a notable extent takes place, especially
+  temperatures [[Dissociation|dissociation]] to a notable extent takes place, especially
   with the latter substance, which is also readily reduced to carbon
   monoxide when brought in contact with carbon at a red heat--a change
   which is attended with a large heat absorption. This effect is higher
@@ -338,16 +338,16 @@ in the air.
   conditions are met in the "Thermit" process of Goldschmidt, where
   finely divided aluminium is oxidized by the oxide of some similar
   metal, such as iron, manganese or chromium, the reaction being started
-  by a primer of magnesium and barium peroxide. The reaction is so
+  by a primer of magnesium and [[Barium|barium]] peroxide. The reaction is so
   rapidly effected that there is an enormous rise in temperature,
   estimated to be 5400 deg. F. (3000 deg. C.), which is sufficient to
   melt the most refractory metals, such as chromium. The slag consists
-  of alumina which crystallizes in the forms of corundum and ruby, and
+  of alumina which crystallizes in the forms of [[Corundum|corundum]] and ruby, and
   is utilized as an abrasive under the name of corubin.
 
   The chemical examination includes the determination of (1) moisture,
   (2) ash, (3) coke, (4) volatile matter, (5) fixed carbon in coke, (6)
-  sulphur, (7) chlorine, (8) phosphorus. Moisture is determined by
+  sulphur, (7) [[Chlorine|chlorine]], (8) phosphorus. Moisture is determined by
   noting the loss in weight when a sample is heated at 100 deg. for
   about one hour. The ash is determined by heating a sample in a muffle
   furnace until all the combustible matter has been burnt off. The ash,
@@ -399,7 +399,7 @@ in the air.
   gas-making should contain little sulphur, as the gases produced in the
   combustion are noxious and have very corrosive properties. Chlorine is
   rarely determined, but when present in quantity it corrodes copper and
-  brass boiler tubes, with which consequently chlorine-bearing coals
+  [[Brass|brass]] boiler tubes, with which consequently chlorine-bearing coals
   cannot be used. The element is determined by fusing with soda lime in
   a muffle, dissolving the residue in water and precipitating with
   silver nitrate. Phosphorus is determined in the ash by fusing it with
@@ -435,15 +435,15 @@ kerosene or illuminating oil, they are better adapted to produce fuel
 oil than either the Russian or the Pennsylvanian products. Texas oil did
 not hold its place in the market for long, because the influx of water
 into the wells lowered their yield, but discoveries of fuel oil in
-Mexico have come later and will help to maintain the balance of the
+Mexico have come later and will help to maintain the [[Balance|balance]] of the
 world's supply, although this is still a mere fraction of the assured
 supply of coal.
 
 With regard to the chemical properties of petroleum, it is not necessary
 to say more in the present place than that the lighter and more volatile
-constituents, known commercially as naphtha and benzene, must be removed
+constituents, known commercially as naphtha and [[Benzene|benzene]], must be removed
 by distillation in order to leave a residue composed principally of
-hydrocarbons which, while containing the necessary carbon for
+[[Hydrocarbon|hydrocarbons]] which, while containing the necessary carbon for
 combustion, shall be sufficiently free from volatile qualities to avoid
 premature ignition and consequent danger of explosion. Attempts have
 been made to use crude oil for fuel purposes, and these have had some
@@ -475,7 +475,7 @@ that was at first found possible in them. The German admiralty have
 fixed a flash-point of 187 deg. F., and have used oil of this standard
 with perfect safety, and at the same time with much higher measure of
 evaporative duty than has been attained in British war-vessels. In the
-British mercantile marine Lloyd's Register has permitted fuel with a
+British mercantile marine [[Lloyd'S|Lloyd's]] Register has permitted fuel with a
 flash-point as low as 150 deg. F. as a minimum, and no harm has
 resulted. The British Board of Trade, the department of the government
 which controls the safety of passenger vessels, has fixed a higher
@@ -524,7 +524,7 @@ fuel containing any large proportion of water.
 The laboratory and mechanical use of petroleum for fuel has already been
 referred to, but it was not until the year 1870 that petroleum was
 applied upon a wider and commercial scale. In the course of distillation
-of Russian crude petroleum for the production of kerosene or lamp oil,
+of Russian crude petroleum for the production of kerosene or [[Lamp|lamp]] oil,
 large quantities of refuse were produced--known by the Russian name of
 _astatki_--and these were found an incumbrance and useless for any
 commercial purpose. To a Russian oil-refiner gifted with mechanical
@@ -546,7 +546,7 @@ been a waste product now became a by-product of great value. Practically
 all the steam power in South Russia, both for factories and navigation
 of the inland seas and rivers, is now raised from _astatki_ fuel.
 
-In the Far East, including Burma and parts of China and Japan, the use
+In the Far East, including [[Burma]] and parts of China and [[Japan]], the use
 of liquid fuel spread rapidly during the years 1899, 1900 and 1901,
 owing entirely to the development of the Borneo oil-fields by the
 enterprise of Sir Marcus Samuel and the large British corporation known
@@ -563,14 +563,14 @@ more easily handled in transit, and saves nearly all the labour of
 stoking. So far the supplies for China and Japan have been exported from
 Borneo, but the discoveries of new oil-fields in California, of a
 character specially adapted for fuel, have encouraged the belief that it
-may be possible to supply Chile and Peru and other South American
+may be possible to supply [[Chile]] and Peru and other South American
 countries, where coal is extremely expensive, with Californian fuel; and
 it has also found its way across the Pacific to Japan. There are
 believed to be large deposits in West Africa, but in the meantime the
 only sources of supply to those parts of Africa where manufacture is
 progressing, i.e. South Africa and Egypt, are the oil-fields of Borneo
 and Texas, from which the import has well begun, from Texas to
-Alexandria via the Mediterranean, and from Borneo to Cape Town via
+Alexandria via the Mediterranean, and from Borneo to [[Cape Town]] via
 Singapore.
 
 In England, notwithstanding the fact that there exist the finest
@@ -597,11 +597,11 @@ temperature of 212 deg. F.), not only in laboratory practice, but in
 actual use on a large scale, and the saving of labour both in transit
 from the source of supply to the place of use and in the act of stoking
 the furnaces. The use of cranes, hand labour with shovels, wagons and
-locomotives, horses and carts, is unavoidable for the transit of coal;
+locomotives, horses and [[Cart|carts]], is unavoidable for the transit of coal;
 and labour to trim the coal, to stoke it when under combustion, and to
 handle the residual ashes, are all indispensable to steam-raising by
 coal. On the other hand, a system of pipes and pumps, and a limited
-quantity of skilled labour to manage them, is all that is necessary for
+quantity of skilled labour to [[Manage|manage]] them, is all that is necessary for
 the transit and combustion of petroleum fuel; and it is certain that
 even in England will be found places which, from topographical and other
 circumstances, will use petroleum more economically than coal as fuel
@@ -669,11 +669,11 @@ that the general adoption of the new fuel for marine purposes becomes a
 matter of urgency for the statesman, the merchant and the engineer. None
 of these can afford to neglect the new conditions, lest they be noted
 and acted upon by their competitors. Storage for supply now exists at a
-number of sea ports: London, Barrow, Southampton, Amsterdam, Copenhagen,
+number of sea ports: London, Barrow, Southampton, Amsterdam, [[Copenhagen]],
 New Orleans, Savannah, New York, Philadelphia, Singapore, Hong Kong,
-Madras, Colombo, Suez, Hamburg, Port Arthur, Rangoon, Calcutta, Bombay,
-Alexandria, Bangkok, Saigon, Penang, Batavia, Surabaya, Amoy, Swatow,
-Fuchow, Shanghai, Hankow, Sydney, Melbourne, Adelaide, Zanzibar,
+Madras, Colombo, Suez, [[Hamburg]], Port Arthur, Rangoon, [[Calcutta]], Bombay,
+Alexandria, Bangkok, Saigon, Penang, [[Batavia]], Surabaya, Amoy, Swatow,
+[[Fuchow]], Shanghai, Hankow, Sydney, Melbourne, Adelaide, Zanzibar,
 Mombasa, Yokohama, Kobe and Nagasaki; also in South African and South
 American ports.
 
@@ -686,8 +686,8 @@ from sources within the regions of the British empire. There is an
 enormous supply of shale under the north-eastern counties of England,
 but no oil that can be pumped--still less oil with a pressure above it
 so as to "gush" like the wells in America--and the only sources of
-liquid supply under the British flag appear to be in Burma and Trinidad.
-The Borneo fields are not under British control, although developed
+liquid supply under the British [[Flag|flag]] appear to be in Burma and Trinidad.
+The Borneo [[Fields|fields]] are not under British control, although developed
 entirely by British capital. The Italian admiralty have fitted several
 large warships with boiler apparatus to burn petroleum. The German
 admiralty are regularly using liquid fuel on the China station. The
@@ -695,7 +695,7 @@ Dutch navy have fitted coal fuel and liquid fuel furnaces in
 combination, so that the smaller powers required may be developed by
 coal alone, and the larger powers by supplementing coal fuel with oil
 fuel. The speeds of some vessels of the destroyer type have by this
-means been accelerated nearly two knots.
+means been accelerated nearly two [[Knot|knots]].
 
 [Illustration: FIG. 4.--Installation on ss. "Trochas."]
 
@@ -712,7 +712,7 @@ those of strategy and fighting efficiency than economy of evaporation.
 Indeed, the cost of constructing and maintaining in fighting efficiency
 a modern warship is so great that the utmost use strategically must be
 obtained from the vessel, and in this comparison the cost of fuel is
-relatively so small an item that its increase or decrease may be
+relatively so small an [[Item|item]] that its increase or decrease may be
 considered almost a negligible quantity. The desideratum in a warship is
 to obtain the greatest fighting efficiency based on the thickest
 armour, the heaviest and most numerous guns, the highest maximum speed,
@@ -741,10 +741,10 @@ one ship to the other even in comparatively rough weather.
 Smokelessness, so important a feature of sea strategy, has not always
 been attained by liquid fuel, but where the combustion is complete, by
 reason of suitable furnace arrangements and careful management, there is
-no smoke. The great drawback, however, to the use of liquid fuel in fast
+no smoke. The great [[Drawback|drawback]], however, to the use of liquid fuel in fast
 small vessels is the confined space allotted to the boilers, such
 confinement being unavoidable in view of the high power concentrated in
-a small hull. The British admiralty's experiments, however, have gone
+a small [[Hull|hull]]. The British admiralty's experiments, however, have gone
 far to solve the problem, and the quantity of oil which can be consumed
 by forced draught in confined boilers now more nearly equals the
 quantity of coal consumed under similar conditions. All recent vessels
@@ -779,21 +779,21 @@ and upwards in the Atlantic trade, the saving in cost of fuel is
 trifling compared with the advantage arising from the greater weight and
 space available for freight. Adopting a basis of 3 to 2 as between coal
 consumption and oil consumption, there is an increase of 1000 tons of
-dead weight cargo in even a medium-sized Atlantic steamer, and a
-collateral gain of about 100,000 cub. ft. of measurement cargo, by
+dead weight [[Cargo|cargo]] in even a medium-sized Atlantic steamer, and a
+[[Collateral|collateral]] gain of about 100,000 cub. ft. of measurement cargo, by
 reason of the ordinary bunkers being left quite free, and the oil being
 stored in the double bottom spaces hitherto unutilized except for the
 purpose of water ballast. The cleanliness and saving of time from
 bunkering by the use of oil fuel is also an important factor in
 passenger ships, whilst considerable additional speed is obtainable. The
-cost of the installation, however, is very considerable, as it includes
+cost of the [[Installation|installation]], however, is very considerable, as it includes
 not only burners and pipes for the furnaces, but also the construction
 of oil-tight tanks, with pumps and numerous valves and pipe connexions.
 
 [Illustration: FIG. 7.--Furnace on ss. "Ferdinand Laeisz." A, it is
-proposed to do away with this ring of brickwork as being useless; B, it
+proposed to do away with this ring of [[Brickwork|brickwork]] as being useless; B, it
 is proposed to fill this space up, thus continuing lining of furnace to
-combustion chamber, and also to fit protection bricks in way of saddle
+combustion chamber, and also to fit protection [[Brick|bricks]] in way of saddle
 plate.]
 
 [Illustration: FIG. 8.--Fuel Tanks, &c., of ss. "Murex."]
@@ -802,7 +802,7 @@ plate.]
 
   Fig. 2 shows a burner of Rusden and Eeles' patent as generally used on
   board ships for the purpose of injecting the oil. A is a movable cap
-  holding the packing B, which renders the annular spindle M oil and
+  holding the packing B, which renders the [[Annular|annular]] spindle M oil and
   steam tight. E is the outer casing containing the steam jacket from
   which the steam, after being fed through the steam-supply pipe G,
   passes into the annular space surrounding the spindle P. It will be
@@ -827,7 +827,7 @@ plate.]
   Fig. 6 shows the rings CC and details of the casting which forms the
   projection or exterior elongation of the furnace. The brickwork
   arrangement adopted for the double-ended boilers on the
-  Hamburg-American Steamship Company's "Ferdinand Laeisz" is represented
+  Hamburg-American Steamship Company's "[[Ferdinand]] Laeisz" is represented
   in fig. 7. The whole furnace is lined with fire-brick, and the burner
   is mounted upon a circular disk plate which covers the mouth of the
   furnace. The oil is injected not by steam pulverization, but by
@@ -889,7 +889,7 @@ distant from that where it has been generated.
   IV. Combustible Gases obtained by the partial combustion of coal, &c.
 
 I. _Natural Gas._--From time immemorial it has been known that in some
-parts of the Caucasus and of China large quantities of gases issue from
+parts of the [[Caucasus]] and of China large quantities of gases issue from
 the soil, sometimes under water, which can be lighted and burn with a
 luminous flame. The "eternal fires" of Baku belong to this class. In
 coal-mines frequently similar streams of gas issue from the coal; these
@@ -905,7 +905,7 @@ but at first very little use was made of it. Its industrial employment
 dates only from 1874, and became of great importance about ten years
 later. Nobody ever doubted that the gas found in these localities was an
 accumulation of many ages and that, being tapped by thousands of
-bore-holes, it must rapidly come to an end. This assumption was
+bore-holes, it must rapidly come to an end. This [[Assumption|assumption]] was
 strengthened by the fact that the "gas-wells," which at first gave out
 the gas at a pressure of 700 or 800, sometimes even of 1400 lb. per sq.
 in., gradually showed a more and more diminishing pressure and many of
@@ -936,7 +936,7 @@ from 0.45 to 0.55. The heating power of 1000 cub. ft. of natural gas is
 equal to from 80 to 120 lb., on the average 100 lb., of good coal, but
 it is really worth much more than this proportion would indicate, as it
 burns completely, without smoke or ashes, and without requiring any
-manual labour. It is employed for all domestic and for most industrial
+[[Manual|manual]] labour. It is employed for all domestic and for most industrial
 purposes.
 
 The origin of natural gas is not properly understood, even now. The most
@@ -972,7 +972,7 @@ volume is:
 
 There is always a large amount of mechanically suspended flue-dust in
 this gas. It is practically equal to a poor producer-gas (see below),
-and is everywhere used, first for heating the blast in Cowper stoves or
+and is everywhere used, first for heating the blast in [[Cowper]] stoves or
 similar apparatus, and secondly for raising all the steam required for
 the operation of the blast-furnace, that is, for driving the
 blowing-engines, hoisting the materials, &c. Where the iron ore is
@@ -1256,7 +1256,7 @@ valves, the smoke gases are passed through another chamber, and the cold
 air intended to feed the combustion is made to pass through the first
 chamber, where it takes up heat from the white-hot bricks, and is thus
 heated up to a bright red heat until the chamber is cooled down too far,
-when the draughts are again reversed. Sometimes the producer gas itself
+when the [[Draughts|draughts]] are again reversed. Sometimes the producer gas itself
 is heated up in this manner (especially when it has been cooled down by
 travelling a long distance); in that case four recuperator chambers must
 be provided instead of two. Another class of recuperators is not founded
@@ -1291,12 +1291,12 @@ to 3% hydrocarbons, and 64 to 68% N2.
 
 B. _Water Gas._--The reaction of steam on highly heated carbonaceous
 matter was first observed by Felice Fontana in 1780. This was four years
-before Henry Cavendish isolated hydrogen from water, and thirteen years
+before Henry [[Cavendish]] isolated hydrogen from water, and thirteen years
 before William Murdoch made illuminating gas by the distillation of
 coal, so that it was no wonder that Fontana's laboratory work was soon
 forgotten. Nor had the use of carburetted water gas, as introduced by
-Donovan in 1830 for illuminating purposes, more than a very short life.
-More important is the fact that during nine years the illumination of
+[[Donovan]] in 1830 for illuminating purposes, more than a very short life.
+More important is the fact that during nine years the [[Illumination|illumination]] of
 the town of Narbonne was carried on by incandescent platinum wire,
 heated by water gas, where also internally heated generators were for
 the first time regularly employed. The Narbonne process was abandoned in
@@ -1309,17 +1309,17 @@ adapted for carburetting the gas, secures a great commercial advantage
 to this kind of illuminant over coal gas, so that now three-fourths of
 all American gas-works employ carburetted water gas. In Europe the
 progress of this industry was naturally much less rapid, but here also
-since 1882, when the apparatus of Lowe and Dwight was introduced in the
+since 1882, when the apparatus of Lowe and [[Dwight]] was introduced in the
 town of Essen, great improvements have been worked out, principally by
 E. Blass, and by these improvements water gas obtained a firm footing
 also for certain heating purposes. The American process for making
-carburetted water gas, as an auxiliary to ordinary coal gas, was first
+carburetted water gas, as an [[Auxiliary|auxiliary]] to ordinary coal gas, was first
 introduced by the London Gas Light and Coke Company on a large scale in
 1890.
 
 Water gas in its original state is called "blue gas," because it burns
 with a blue, non-luminous flame, which produces a very high temperature.
-According to the equation C + H2O = CO + H2, this gas consists
+According to the [[Equation|equation]] C + H2O = CO + H2, this gas consists
 theoretically of equal volumes of carbon monoxide and hydrogen. We shall
 presently see why it is impossible to avoid the presence of a little
 carbon dioxide and other gases, but we shall for the moment treat of
@@ -1451,7 +1451,7 @@ steaming operation. In many cases, principally where no carburetting is
 practised, the blowing-up gas is simply burned at the mouth of the
 producer, and is thus altogether lost; and in no case can it be utilized
 without great waste. A very important improvement in this respect was
-effected by C. Dellwik and E. Fleischer. They found that the view that
+effected by C. Dellwik and E. [[Fleischer]]. They found that the view that
 it is unavoidable to burn the carbon to monoxide during the blowing-up
 holds good only for the pressure of blast formerly applied. This did not
 much exceed that which is required for overcoming the frictional
@@ -1476,7 +1476,7 @@ principally due to the circumstance that it forms a much smaller flame
 than coal gas, not to speak of Siemens gas, which contains at most 33%
 of combustible matter against 90% or more in water gas. The latter
 circumstance also allows the gas to be conducted and distributed in
-pipes of moderate dimensions. Its application, apart from its use as an
+pipes of moderate [[Dimension|dimensions]]. Its application, apart from its use as an
 illuminant (with which we are not concerned here), was formerly retarded
 by its high cost in comparison with Siemens gas and other sources of
 heat, but as this state of affairs has been changed by the modern
@@ -1496,7 +1496,7 @@ generated by the action of the air in the reaction C + O = CO. Such gas
 used to be frequently obtained in an accidental way by introducing
 liquid water or steam into an ordinary gas-producer for the purpose of
 facilitating its working by avoiding an excessive temperature, such as
-might cause the rapid destruction of the brickwork and the fusion of the
+might cause the rapid destruction of the brickwork and the [[Fusion|fusion]] of the
 ashes of the fuel into troublesome cakes. It was soon found that by
 proceeding in this way a certain advantage could be gained in regard to
 the consumption of fuel, as the heat abstracted by the steam from the
@@ -1506,7 +1506,7 @@ is hardly necessary to mention explicitly that the total heat obtained
 by any such process from a given quantity of carbon (or hydrogen) can in
 no case exceed that which is generated by direct combustion; some
 inventors, however, whether inadvertently or intentionally, have
-actually represented this to be possible, in manifest violation of the
+actually represented this to be possible, in [[Manifest|manifest]] violation of the
 law of the conservation of energy.
 
 Roughly speaking, this gas may be said to be produced by the combination
@@ -1526,7 +1526,7 @@ as 20%) and poorer in carbon monoxide (sometimes down to 20%) than
 Siemens gas; generally it contains more of CO2 than the latter. The
 proportion of nitrogen is always less, about 50%. It is therefore a more
 concentrated fuel than Siemens gas, and better adapted to the driving of
-gas-engines. It scarcely costs more to make than ordinary Siemens gas,
+gas-engines. It scarcely [[Costs|costs]] more to make than ordinary Siemens gas,
 except where the steam is generated and superheated in special
 apparatus, as is done in the Dowson producer, which, on the other hand,
 yields a correspondingly better gas. As is natural, its properties are
@@ -1576,13 +1576,13 @@ manufacture.     (G. L.)
 
 
 FUENTE OVEJUNA [_Fuenteovejuna_], a town of Spain, in the province of
-Cordova; near the sources of the river Guadiato, and on the Fuente del
+[[Cordova]]; near the sources of the river Guadiato, and on the Fuente del
 Arco-Belmez-Cordova railway. Pop. (1900) 11,777. Fuente Ovejuna is built
 on a hill, in a well-irrigated district, which, besides producing an
 abundance of wheat, wine, fruit and honey, also contains argentiferous
 lead mines and stone quarries. Cattle-breeding is an important local
-industry, and leather, preserved meat, soap and flour are manufactured.
-The parish church formerly belonged to the knights of Calatrava (c.
+industry, and leather, preserved [[Meat|meat]], soap and flour are manufactured.
+The parish church formerly belonged to the [[Knight|knights]] of Calatrava (c.
 1163-1486).
 
 ## See also

@@ -72,7 +72,7 @@ which pressed it down, and so held it at either one end or the other of
 the convex notch _aa_; and the only impediment to opening it was the
 wards which the key had to pass before it could turn in the keyhole. But
 it was always possible to find the shape of the wards by merely putting
-in a blank key covered with wax, and pressing it against them; and when
+in a [[Blank|blank]] key covered with wax, and pressing it against them; and when
 this had been done it was unnecessary to cut out the key into the
 complicated form of the wards (such as fig. 3), because no part of that
 key does any work except the edge _bc_ farthest from the pipe a; and so
@@ -103,7 +103,7 @@ with the obvious one of using more than one lever, was introduced in
 square pin a (fig. 6) is lifted by the key to the proper height and no
 higher, the bolt cannot move. Fig. 8 illustrates the key of such a lock
 with four levers, the different distances between the centre of the key
-barrel and the edge of the bit being adapted to lift the levers to the
+[[Barrel|barrel]] and the edge of the bit being adapted to lift the levers to the
 respective heights required. This lock differs from the modern lever
 lock only in the fact that Barron made his gating in the bolt and
 carried stumps on his levers, instead of having the main stump riveted

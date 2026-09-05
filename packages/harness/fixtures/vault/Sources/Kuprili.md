@@ -13,7 +13,7 @@ family of Turkish statesmen.
 
 1. MAHOMMED KUPRILI (c. 1586-1661) was the grandson of an Albanian who
 had settled at Kupri in Asia Minor. He began life as a scullion in the
-imperial kitchen, became cook, then purse-bearer to Khosrev Pasha, and
+imperial kitchen, became [[Cook|cook]], then purse-bearer to Khosrev Pasha, and
 so, by wit and favour, rose to be master of the horse, "pasha of two
 tails," and governor of a series of important cities and sanjaks. In
 1656 he was appointed governor of Tripoli; but before he had set out to
@@ -31,7 +31,7 @@ approaching downfall of Islam, was hanged. This impartial severity was a
 foretaste of Kuprili's rule, which was characterized throughout by a
 vigour which belied the expectations based upon his advanced years, and
 by a ruthlessness which in time grew to be almost blood-lust. His
-justification was the new life which he breathed into the decaying bones
+justification was the new life which he breathed into the decaying [[Bone|bones]]
 of the Ottoman empire.
 
 Having cowed the disaffected elements in the state, he turned his
@@ -61,7 +61,7 @@ Crete.
 Kuprili's restless energy continued to the last, exhibiting itself on
 one side in wholesale executions, on the other in vast building
 operations. By his orders castles were built at the mouth of the Don and
-on the bank of the Dnieper, outworks against the ever-aggressive Tatars,
+on the bank of the [[Dnieper]], outworks against the ever-aggressive Tatars,
 as well as on either shore of the Dardanelles. His last activity as a
 statesman was to spur the sultan on to press the war against Hungary. He
 died on the 31st of October 1661. The advice which, on his death-bed, he
@@ -88,14 +88,14 @@ Kuprili's influence with the sultan remained unshaken, and five years
 later Crete fell to his arms (1669). The next war in which he was called
 upon to take part was with Poland, in defence of the Cossacks, who had
 appealed to Turkey for protection. At first successful, Kuprili was
-defeated by the Poles under John Sobieski at Khotin and Lemberg; the
+defeated by the Poles under John Sobieski at Khotin and [[Lemberg]]; the
 Turks, however, continued to hold their own, and finally in October 1676
-consented to honourable terms of peace by the treaty of Zurawno (October
+consented to [[Honourable|honourable]] terms of peace by the treaty of Zurawno (October
 16, 1676), retaining Kaminiec, Podolia and the greater part of the
 Ukraine. Three days later Ahmed Kuprili died. His military capacity was
 far inferior to his administrative qualities. He was a liberal protector
 of art and literature, and the kindliness of his disposition formed a
-marked contrast to the cruelty of his father; but he was given to
+marked contrast to the [[Cruelty|cruelty]] of his father; but he was given to
 intemperance, and the cause of his death was dropsy brought on by
 alcoholic abuse.
 
@@ -119,12 +119,12 @@ expulsion from Hungary.
 younger brother of Mahommed Kuprili. After occupying various important
 posts he became grand vizier in 1697, and owing to his ability and
 energy the Turks were able to drive the Austrians back over the Save,
-and Turkish fleets were sent into the Black Sea and the Mediterranean.
-The efforts of European diplomacy succeeded in inducing Austria and
+and Turkish fleets were sent into the [[Black Sea]] and the Mediterranean.
+The efforts of European [[Diplomacy|diplomacy]] succeeded in inducing Austria and
 Turkey to come to terms by the treaty of Carlowitz, whereby Turkey was
 shorn of her chief conquests (1699). After this event Hussein Kuprili,
 surnamed "the Wise," devoted himself to the suppression of the revolts
-which had broken out in Arabia, Egypt and the Crimea, to the reduction
+which had broken out in Arabia, Egypt and the [[Crimea]], to the reduction
 of the Janissaries, and to the institution of administrative and
 financial reform. Unfortunately the intrigues against him drove him from
 office in 1702, and soon afterwards he died.

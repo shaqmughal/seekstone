@@ -3,7 +3,7 @@
 MARIE GALANTE, an island in the French West Indies. It lies in 15° 55´
 N. and 61° 17´ W., 16 m. S.E. of Guadeloupe, of which it is a
 dependency. It is nearly circular in shape and 55 sq. m. in area. A
-rocky limestone plateau, rising in the east to a height of 675 ft.,
+rocky [[Limestone|limestone]] plateau, rising in the east to a height of 675 ft.,
 occupies the centre of the island, and from it the land descends in a
 series of well-wooded terraces to the sea. The shores are rocky, there
 are no harbours, and the roadstead off Grand Bourg is difficult of

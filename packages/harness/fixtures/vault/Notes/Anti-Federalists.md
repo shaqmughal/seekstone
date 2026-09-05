@@ -6,7 +6,7 @@ topic: enlightenment
 
 # Anti-Federalists
 
-ANTI-FEDERALISTS, the name given in the political history of the United
+ANTI-FEDERALISTS, the name given in the [[Political History|political history]] of the United
 States to those who, after the formation of the federal Constitution of
 1787, opposed its ratification by the people of the several states. The
 "party" (though it was never regularly organized as such) was composed of
@@ -33,13 +33,13 @@ party gradually showed broad-construction, nationalistic tendencies; the
 Anti-Federalist party became a strict-construction party and advocated
 popular rights against the asserted aristocratic, centralizing tendencies
 of its opponent, and gradually was transformed into the
-Democratic-Republican party, mustered and led by Thomas Jefferson, who,
+Democratic-Republican party, mustered and led by Thomas [[Jefferson]], who,
 however, had approved the ratification of the Constitution and was not,
 therefore, an Anti-Federalist in the original sense of that term.
 
   See O.G. Libby, _Geographical Distribution of the Vote ... on the
   Federal Constitution, 1787-1788_ (University of Wisconsin, Bulletin,
-  1894); S.B. Harding, _Contest over the Ratification of the Federal
+  1894); S.B. [[Harding]], _Contest over the Ratification of the Federal
   Constitution in ... Massachusetts_ (Harvard University Studies, New
   York, 1896); and authorities on political and constitutional history
   in the article UNITED STATES.

@@ -20,7 +20,7 @@ the inhabitants of a town or district, or of a similar list of the users
 of a telephone supply, or of the members of a particular profession or
 trade. The name _Directoire_ or Directory was given to the body which
 held the executive power in France from October 1795 until November 1799
-(see FRENCH REVOLUTION).
+(see [[French Revolution|FRENCH REVOLUTION]]).
 
 ## See also
 

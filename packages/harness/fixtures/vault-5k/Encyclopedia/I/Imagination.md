@@ -12,7 +12,7 @@ process of reviving in the mind percepts of objects formerly given in
 sense perception. Since this use of the term conflicts with that of
 ordinary language, some psychologists have preferred to describe this
 process as "imaging" or "imagery" or to speak of it as "reproductive" as
-opposed to "productive" or "constructive" imagination (see IMAGE and
+opposed to "productive" or "constructive" imagination (see [[Image|IMAGE]] and
 PSYCHOLOGY). The common use of the term is for the process of forming in
 the mind new images which have not been previously experienced, or at
 least only partially or in different combinations. Thus the image of a
@@ -25,7 +25,7 @@ various spheres, however, even imagination is in practice limited: thus
 a man whose imaginations do violence to the elementary laws of thought,
 or to the necessary principles of practical possibility, or to the
 reasonable probabilities of a given case is regarded as insane. The same
-limitations beset imagination in the field of scientific hypothesis.
+limitations beset imagination in the field of scientific [[Hypothesis|hypothesis]].
 Progress in scientific research is due largely to provisional
 explanations which are constructed by imagination, but such hypotheses
 must be framed in relation to previously ascertained facts and in
@@ -44,7 +44,7 @@ such is specifically free. The dividing line between imagination and
 belief varies widely in different stages of mental development. Thus a
 savage who is ill frames an ideal reconstruction of the causes of his
 illness, and attributes it to the hostile magic of an enemy. In
-ignorance of pathology he is satisfied with this explanation, and
+[[Ignorance|ignorance]] of pathology he is satisfied with this explanation, and
 actually _believes_ in it, whereas such a hypothesis in the mind of
 civilized man would be treated as a pure effort of imagination, or even
 as a hallucination. It follows that the distinction between imagination

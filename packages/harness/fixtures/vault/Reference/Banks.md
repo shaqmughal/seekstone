@@ -1,7 +1,7 @@
 # Banks
 
 BANKS, THOMAS (1735-1805), English sculptor, son of a surveyor who was land
-steward to the duke of Beaufort, was born in London on the 29th of December
+steward to the duke of [[Beaufort]], was born in London on the 29th of December
 1735. He was taught drawing by his father, and in 1750 was apprenticed to a
 wood-carver. In his spare time he worked at sculpture, and before 1772,
 when he obtained a travelling studentship and proceeded to Rome, he had
@@ -13,8 +13,8 @@ his return he modelled his colossal "Achilles mourning the loss of
 Briseis," a work full of force and passion; and thereupon he was elected,
 in 1784, an associate of the Royal Academy and in the following year a full
 member. Among other works in St Paul's cathedral are the monuments to
-Captain Westcott and Captain Burges, and in Westminster Abbey to Sir Eyre
-Coote. His bust of Warren Hastings is in the National Portrait Gallery.
+Captain Westcott and Captain [[Burges]], and in Westminster Abbey to Sir [[Eyre]]
+[[Coote]]. His bust of Warren [[Hastings]] is in the National Portrait Gallery.
 Banks's best-known work is perhaps the colossal group of "Shakespeare
 attended by Painting and Poetry," now in the garden of New Place,
 Stratford-on-Avon. He died in London on the 2nd of February 1805.
@@ -50,7 +50,7 @@ he requires for his ordinary everyday wants. Some, the greater part by far,
 of the deposits enable the bank to make advances to men who employ the
 funds with which they are entrusted in reproductive industry, that is to
 say, in a manner which not only brings back a greater value than the amount
-originally lent to them, but assists the business development of the
+originally [[Lent|lent]] to them, but assists the business development of the
 country by setting on foot and maintaining enterprises of a profitable
 description. It is possible that some part may be employed in loans
 required through extravagance on the part of the borrower, but these can
@@ -70,8 +70,8 @@ for the ready transmission of money from those who owe money to those to
 whom it is due. This is particularly obvious when the debtor lives in one
 town or district and the creditor in another at a considerable distance,
 but the convenience is very great under any circumstances. Where an easy
-method of transmission of cash does not exist, we become aware that a "rate
-of exchange" exists as truly between one place and another in the same
+method of transmission of [[Cash|cash]] does not exist, we become aware that a "rate
+of [[Exchange|exchange]]" exists as truly between one place and another in the same
 country as between two places in different countries. The assistance that
 banking gives to the industries of a community, apart from these
 facilities, is constant and most valuable.
@@ -84,7 +84,7 @@ from the 16th century onwards may be divided into two classes, the one
 described as "exchange banks," the other as "banks of deposits." These last
 are banks which, besides receiving deposits, make loans, and thus associate
 themselves with the trade and general industries of a country. The exchange
-banks included in former years institutions like the Bank of Hamburg and
+banks included in former years institutions like the Bank of [[Hamburg]] and
 the Bank of Amsterdam. These were established to deal with foreign exchange
 and to facilitate trade with other countries. The others--founded at very
 different dates--were established as, or early became, banks of deposit,
@@ -101,7 +101,7 @@ any for the performance of the business. The object for which exchange
 banks were established was to turn the values with which they were
 entrusted into "current money," "bank money" as it was called, that is to
 say, into a currency which was accepted immediately by merchants without
-the necessity of testing the value of the coin or the bullion brought to
+the necessity of testing the value of the [[Coin|coin]] or the [[Bullion|bullion]] brought to
 them. The "value" they provided was equal to the "value" they received, the
 only difference being the amount of the small charge they made to their
 customers, who gained by dealing with them more than equivalent advantages.
@@ -114,21 +114,21 @@ these institutions.
 The Amsterdamsche Wisselbank, or exchange bank, known later as the Bank of
 Amsterdam, was established by the ordinance of the city of Amsterdam of
 31st January 1609. The increased commerce of Holland, which made Amsterdam
-a leading city in international dealings, led to the establishment of this
+a leading city in [[International|international]] dealings, led to the establishment of this
 bank, to which any person might bring money or bullion for deposit, and
 might withdraw at pleasure the money or the worth of the bullion. The
 ordinance which established the bank further required that all bills of 600
 gulden (£50), or upwards--this limit was, in 1643, lowered to 300 gulden
 (£25)--should be paid through the bank, or in other words, by the transfer
-of deposits or credits at the bank. These transfers came afterwards to be
+of deposits or [[Credit|credits]] at the bank. These transfers came afterwards to be
 known as "bank money." The charge for making the transfers was the sole
 source of income to the bank. The bank was established without any capital
 of its own, being understood to have actually in its vaults the whole
 amount of specie for which "bank money" was outstanding. This regulation
 was not, however, strictly observed. Loans were made at various dates to
-the Dutch East India Company. In 1795 a report was issued showing that the
+the [[Dutch East India Company]]. In 1795 a report was issued showing that the
 city of Amsterdam was largely indebted to the bank, which held as security
-the obligations of the states of Holland and West Friesland. The debt was
+the obligations of the states of Holland and West [[Friesland]]. The [[Debt|debt]] was
 paid, but it was too late to revive the bank, and in 1820 "the
 establishment which for generations had held the leading place in European
 commerce ceased to exist." (See _Chapters on the Theory and History of

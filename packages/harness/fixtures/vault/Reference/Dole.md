@@ -14,27 +14,27 @@ white, breeches of blue cloth, shoes and a shirt, and twenty pounds
 amongst them." Later doles usually took the form of bequests of land or
 money, the interest or rent of which was to be annually employed in
 charity. Often the distribution took place at the grave of the donor.
-Thus one William Robinson of Hull at his death in 1708 left money to buy
+Thus one William Robinson of [[Hull]] at his death in 1708 left money to buy
 annually a dozen loaves, costing a shilling each, to be given to twelve
-poor widows at his grave every Christmas. Lenten doles were also
-formerly common. A will of 1537 bade a barrel of white herrings and a
-case of red herrings be given yearly to the poor of Clavering, Essex, to
+poor widows at his grave every [[Christmas]]. Lenten doles were also
+formerly common. A will of 1537 bade a [[Barrel|barrel]] of white [[Herrings|herrings]] and a
+case of red herrings be given yearly to the poor of Clavering, [[Essex]], to
 help them tide over the fast. One or two London doles are still
-distributed, e.g. that of St Peter's, Walworth, where a Christmas dinner
+distributed, e.g. that of St Peter's, Walworth, where a Christmas [[Dinner|dinner]]
 is each year served to 300 parish poor in the crypt. No one under sixty
 is eligible, and the dinner is unique in that it is cooked in the
 church. A pilgrim's dole of bread and ale can be claimed by all
 wayfarers at the Hospital of St Cross, Winchester. This is said to have
-been founded by William of Wykeham. Emerson, when visiting Winchester,
+been founded by William of Wykeham. [[Emerson]], when visiting Winchester,
 claimed and received the dole. What were known as _Scrambling Doles_, so
-called because the meat and bread distributed were thrown among the poor
+called because the [[Meat|meat]] and bread distributed were thrown among the poor
 to be scrambled for, were not uncommon in England. Such a dole existed
-at St Briavel's, Gloucestershire, baskets of bread and cheese cut into
+at St Briavel's, Gloucestershire, baskets of bread and [[Cheese|cheese]] cut into
 small squares being thrown by the churchwardens from the gallery into
 the body of the church on Whit Sunday. At Wath near Ripon a testator in
 1810 ordered that forty penny loaves should be thrown from the church
 leads at midnight on every Christmas eve. The best known dole in the
-United States is the "Leake Dole of Bread." John Leake, a millionaire
+United States is the "[[Leake]] Dole of Bread." John Leake, a millionaire
 dying in 1792, left £1000 to Trinity Church, New York, the income to be
 laid out in wheaten loaves and distributed every Sabbath morning after
 service. The dole still survives, though the day has been altered to

@@ -24,7 +24,7 @@ officially neglected, and in 1874, only a short time before his death,
 they presented him with a gold medal. He died in Paris, on the 22nd of
 February 1875, and was buried at Père Lachaise.
 
-Of the painters classed in the Barbizon school it is probable that
+Of the painters classed in the [[Barbizon]] school it is probable that
 Corot will live the longest, and will continue to occupy the highest
 position. His art is more individual than Rousseau's, whose works are
 more strictly traditional; more poetic than that of Daubigny, who is,
@@ -36,7 +36,7 @@ Corot's works are somewhat arbitrarily divided into periods, but the
 point of division is never certain, as he often completed a picture
 years after it had been begun. In his first style he painted
 traditionally and "tight"--that is to say, with minute exactness, clear
-outlines, and with absolute definition of objects throughout. After his
+outlines, and with absolute [[Definition|definition]] of objects throughout. After his
 fiftieth year his methods changed to breadth of tone and an approach to
 poetic power, and about twenty years later, say from 1865 onwards, his
 manner of painting became full of "mystery" and poetry. In the last ten
@@ -63,13 +63,13 @@ is Corot's method and also how masterly are his results.
 The works of Corot are scattered over France and the Netherlands, Great
 Britain and America. The following may be considered as the first
 half-dozen: "Une Matinée" (1850), now in the Louvre; "Macbeth" (1859),
-in the Wallace collection: "Le Lac" (1861); "L'Arbre brisé" (1865):
-"Pastorale--Souvenir d'Italie" (1873), in the Glasgow Corporation Art
+in the Wallace collection: "Le [[Lac]]" (1861); "L'Arbre brisé" (1865):
+"Pastorale--Souvenir d'Italie" (1873), in the [[Glasgow]] Corporation Art
 Gallery; "Biblis" (1875). Corot had a number of followers who called
 themselves his pupils. The best known are Boudin, Lepine, Chintreuil,
 Français and Le Roux.
 
-  AUTHORITIES.--H. Dumesnil. _Souvenirs intimes_ (Paris, 1875);
+  AUTHORITIES.--H. [[Dumesnil]]. _Souvenirs intimes_ (Paris, 1875);
   Roger-Milès, _Les Artistes célèbres: Corot_ (Paris, 1891);
   Roger-Milès, _Album classique des chefs-d'oeuvres de Corot_ (Paris,
   1895); J. Rousseau, _Bibliothèque d'art moderne: Camille Corot_
@@ -100,7 +100,7 @@ in the Roman Catholic Church, a small square linen cloth, which at the
 service of the Mass is placed on the altar under the chalice and paten.
 It was originally large enough to cover the whole surface of the altar,
 and was folded over so as to cover the chalice--a custom still observed
-by the Carthusians. The chalice is now, however, covered by another
+by the [[Carthusians]]. The chalice is now, however, covered by another
 small square of linen, stiffened with cardboard, &c., known as the pall
 (_palla_). When not in use both corporal and pall are carried in a
 square silken pocket called the burse. The corporal must be blessed by

@@ -70,7 +70,7 @@ and has considerable trade.
   principal staple of trade.
 
   Luchu is noted for the production of particularly durable
-  vermilion-coloured lacquer, which is much esteemed for table utensils
+  vermilion-coloured [[Lacquer|lacquer]], which is much esteemed for table utensils
   in Japan. The islands also manufacture certain fabrics which are
   considered a speciality. These are _Riukiu-tsumugi_, a kind of fine
   pongee; the so-called _Satsuma-gasuri_, a cotton fabric greatly used
@@ -110,9 +110,9 @@ and has considerable trade.
   Places of worship are few, and the only function discharged by
   Buddhist priests seems to be to officiate at funerals. The people are
   distinguished by gentleness, courtesy and docility, as well as by
-  marked avoidance of crime. With the exception of petty thefts, their
+  marked [[Avoidance|avoidance]] of crime. With the exception of petty thefts, their
   Japanese administrators find nothing to punish, and for nearly three
-  centuries no such thing as a lethal weapon has been known in Luchu.
+  centuries no such thing as a [[Lethal|lethal]] weapon has been known in Luchu.
   Professor Chamberlain states that the Luchuan language resembles the
   Japanese in about the same degree as Italian resembles French, and
   says that they are sister tongues, many words being identical, others
@@ -128,7 +128,7 @@ Tametomo, a member of the famous Minamoto family, who, having been
 expelled from Japan, had come to Luchu and married there. The
 introduction of the arts of reading and writing are assigned to
 Shunten's reign. Chinese invasions of Luchu may be traced back to A.D.
-605, but they did not result in annexation; and it was in 1372 that
+605, but they did not result in [[Annexation|annexation]]; and it was in 1372 that
 China first obtained from the Luchuans recognition of supremacy. Luchuan
 relations with Japan had long been friendly, but at the end of the 16th
 century the king refused Japan assistance against Korea, and in 1609 the
@@ -158,7 +158,7 @@ chain of islands ceased to be disputed.
 
 Though Captain Broughton, of H.M.S. "Providence," was wrecked on
 Miyako-shima and subsequently visited Nafa in 1797, it was not till the
-"Alceste" and "Lyra" expedition in 1816-1817, under Captains Basil Hall
+"Alceste" and "[[Lyra]]" expedition in 1816-1817, under Captains Basil Hall
 and Murray Maxwell, that detailed information was obtained about Luchu.
 The people at that time showed a curious mixture of courtesy and
 shyness. From 1844 efforts were made by both Catholic (French) and

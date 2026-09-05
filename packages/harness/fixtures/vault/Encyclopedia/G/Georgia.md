@@ -20,13 +20,13 @@ Ocean, S. by Florida, and W. by Alabama. The total area of the state is
   well-defined characteristics. The largest and southernmost, a broad
   belt extending from the "fall-line" to a line passing through
   Clarkesville, Habersham county, Cartersville, Bartow county and
-  Buchanan, Haralson county (approximately), is known as the Piedmont
+  [[Buchanan]], Haralson county (approximately), is known as the Piedmont
   Belt or Plateau, being a region of faint relief eroded on highly
   complicated crystalline rocks. The Blue Ridge escarpment, a striking
   topographic feature in Virginia and the Carolinas, extends into
   Georgia along the north-eastern border of this belt, but is less
   strongly developed here than elsewhere, dying out entirely towards the
-  south-west. North of the Piedmont Belt lie the Appalachian Mountains
+  south-west. North of the Piedmont Belt lie the [[Appalachian Mountains]]
   Region and the Great Valley Region, the former to the east, the latter
   to the west of a dividing line from Cartersville northward. The former
   region consists of detached mountain masses of crystalline rocks, not
@@ -36,19 +36,19 @@ Ocean, S. by Florida, and W. by Alabama. The total area of the state is
   consists of folded sedimentary rocks, extensive erosion having removed
   the soft layers to form valleys, leaving the hard layers as ridges,
   both layers running in a N.E.-S.W. direction. In the extreme
-  north-west corner of the state is a small part of the Cumberland
+  north-west corner of the state is a small part of the [[Cumberland]]
   Plateau, represented by Lookout and Sand Mts.
 
   On the Blue Ridge escarpment near the N.E. corner of the state is a
   water-parting separating the waters which find their way respectively
   N.W. to the Tennessee river, S.W. to the Gulf of Mexico and S.E. to
-  the Atlantic Ocean; indeed, according to B.M. and M.R. Hall (_Water
+  the [[Atlantic Ocean]]; indeed, according to B.M. and M.R. Hall (_Water
   Resources of Georgia_, p. 2), "there are three springs in north-east
   Georgia within a stone's throw of each other that send out their
   waters to Savannah, Ga., to Apalachicola, Fla., and to New Orleans,
   La." The water-parting between the waters flowing into the Atlantic
   and those flowing into the Gulf extends from this point first S.E. for
-  a few miles, then turns S.W. to Atlanta, and from there extends S.S.E.
+  a few miles, then turns S.W. to [[Atlanta]], and from there extends S.S.E.
   to the Florida line. West of where the escarpment dies out, the Great
   Valley Region and a considerable portion of the Appalachian Mountains
   Region are drained by the Coosa, the Tallapoosa and their tributaries,
@@ -79,7 +79,7 @@ Ocean, S. by Florida, and W. by Alabama. The total area of the state is
 _Climate and Soils._--The climate of Georgia, though temperate, differs
 considerably in different parts of the state. All the nine climate belts
 in the United States, except that of southern Florida, are represented
-within its borders. The lowest mean annual temperature, 40 deg. F. and
+within its [[Borders|borders]]. The lowest mean annual temperature, 40 deg. F. and
 below, is that of some of the mountain tops of northern Georgia; from
 the mountain-sides to the Piedmont Plateau this mean temperature varies
 from 45 deg. to 60 deg.; on the Piedmont Plateau from 60 deg. to 65
@@ -89,25 +89,25 @@ the W. boundary at West Point, Troup county. The mean July temperature
 for the whole state is 81.8 deg.; for the part S. of the 80 deg.
 isotherm the average temperature for July is between 80 deg. and 85 deg.
 The average rainfall for the state is 49.3 in.; the maximum is 71.7 in.,
-at Rabun Gap in the extreme N.E. part of the state; the minimum is 39.4
+at Rabun [[Gap]] in the extreme N.E. part of the state; the minimum is 39.4
 at Swainsboro, Emanuel county, a little S.E. of the centre of the state.
 
 Georgia is also notable for the variety of its soils. In the Cumberland
-Plateau and Great Valley Regions are a red or brown loam, rich in
-decomposed limestone and calcareous shales, and sandy or gravelly loams.
+Plateau and Great Valley Regions are a red or brown [[Loam|loam]], rich in
+decomposed [[Limestone|limestone]] and calcareous shales, and sandy or gravelly loams.
 In the Piedmont Plateau and Appalachian Mountains Regions the surface
 soil is generally sandy, but in considerable areas the subsoil is a red
-clay derived largely from the decomposition of hornblende. By far the
+clay derived largely from the decomposition of [[Hornblende|hornblende]]. By far the
 greatest variety of soils is found in the Coastal Plain Region. Here the
 Central Cotton Belt, extending from the "fall-line" as far S. as a line
-bisecting Early county in the W. and passing through Baker, Worth,
-Dooly, Dodge, Laurens, Johnson, Jefferson and Burke counties, has three
+bisecting Early county in the W. and passing through [[Baker]], Worth,
+Dooly, Dodge, Laurens, Johnson, [[Jefferson]] and Burke counties, has three
 distinct kinds of soil; a sand, forming what is known as the sand-hill
 region; red clay derived from silicious rock in the red hills; and grey,
 sandy soils with a subsoil of yellow loam. South of the Cotton Belt is
 the Lime Sink Region, which includes Miller, Baker, Mitchell, Colquitt
-and Worth counties, the northern portions of Decatur, Grady, Thomas,
-Brooks and Lowndes, the eastern parts of Dooly and Lee, and the eastern
+and Worth counties, the northern portions of [[Decatur]], Grady, Thomas,
+Brooks and [[Lowndes]], the eastern parts of Dooly and [[Lee]], and the eastern
 portions of Berrien, Irwin, Wilcox, Dodge, and some parts of Burke,
 Screven and Bulloch. The soft limestone underlying this region is
 covered, in the uplands, with grey, sandy soils, which have a subsoil of
@@ -127,14 +127,14 @@ and the islands off the coast are exceedingly productive.
   climate and soils, a total of thirty-nine different mineral products
   being found within its borders. The most important is stone: in 1905
   the value of the granite quarried in the state was $971,207 (Georgia
-  ranking fifth in the United States), of the marble $774,550 (Georgia
+  ranking fifth in the United States), of the [[Marble|marble]] $774,550 (Georgia
   ranking third in the United States, Vermont and New York being first
   and second); in 1908 the granite was valued at $970,832 (Georgia
   ranking fifth in the United States), and the marble at $916,281
   (Georgia ranking second in the United States, Vermont being first).
   Generally more than one-fourth of the granite is used for paving;
   curb, building and monument stone are next in importance in the order
-  named. Stone Mountain (1686 ft.) in De Kalb county near Atlanta is a
+  named. Stone Mountain (1686 ft.) in De [[Kalb]] county near Atlanta is a
   remarkable mass of light-coloured muscovite granite, having a
   circumference at its base of 7 m. Stone Mountain granite was first
   quarried about 1850; it is extensively used as building material in
@@ -150,21 +150,21 @@ and the islands off the coast are exceedingly productive.
   Georgia, Rhode Island, Mississippi and Minnesota, in the Corcoran Art
   Gallery, Washington, D.C., and in St Luke's Hospital, New York City.
   It is sometimes used for the entire building, and sometimes only for
-  decoration. Other colours than the snowy white are found in the main
+  decoration. Other [[Colours|colours]] than the snowy white are found in the main
   marble belt of the state, which runs from Canton, Cherokee county, 60
   m. generally N. to the northern boundary of the state. Other deposits,
-  less well known, are the dark brown and light grey marbles of
+  less well known, are the dark brown and light grey [[Marbles|marbles]] of
   Whitfield county, which resemble the stone quarried in eastern
   Tennessee. Limestone and slate are quarried at Rock Mart, Polk county,
-  and there are cement quarries at Cement, near Kingston, Bartow county.
+  and there are cement quarries at Cement, near [[Kingston]], Bartow county.
   Iron deposits occur in Bartow, Polk and Floyd counties, where are the
   more important brown ores, and (red ores) in Walker and Chattooga
   counties. The quantity of iron ore mined in Georgia declined from 1890
   to 1900; it was 200,842 long tons in 1905 and 321,060 long tons in
-  1908, when 319,812 tons were brown haematite and 1248 tons were red
+  1908, when 319,812 tons were brown [[Haematite|haematite]] and 1248 tons were red
   haematite. Before the discovery of gold in California the Georgia
   "placers" were very profitable, the earliest mining being in 1829 by
-  placer miners from the fields of Burke county, North Carolina, who
+  placer miners from the [[Fields|fields]] of Burke county, North Carolina, who
   began work in what is now White county, and went thence to Habersham
   and Lumpkin counties. Dahlonega and Auraria, the latter named by John
   C. Calhoun, who owned a mine there, were the centres of this early
@@ -178,7 +178,7 @@ and the islands off the coast are exceedingly productive.
   the gold product of Georgia (see State Geol. Survey _Bulletin 19_) was
   about $17,500,000. Extensive clay deposits occur in all parts of the
   state, and are remarkable for their comparative freedom from
-  impurities and for their high fusion point; the most valuable are
+  impurities and for their high [[Fusion|fusion]] point; the most valuable are
   sedimentary, and form a belt several miles wide across the middle of
   the state from Augusta to Columbus. In 1908 the clay products of the
   state were valued at $1,928,611. More asbestos has been found in
@@ -199,13 +199,13 @@ and the islands off the coast are exceedingly productive.
   $137,524 (39,422 short tons), and the value of ammonium sulphate, coal
   tar, illuminating gas and gas coke was more than $800,000. Copper was
   mined in Fannin and Cherokee counties before the Civil War. In 1906
-  the copper mined was valued at $5057. Corundum was discovered on
-  Laurel Creek in Rabun county in 1871, and was worked there and at
+  the copper mined was valued at $5057. [[Corundum]] was discovered on
+  Laurel [[Creek]] in Rabun county in 1871, and was worked there and at
   Trackrock, Union county, especially between 1880 and 1893, but in
   later years low prices closed most of the mines. The limestone
   formations furnished most of the lime for domestic use. Sandstone,
-  ochre, slate, soapstone, graphite are also mined, and lead, zinc,
-  barytes, gypsum and even diamonds have been discovered but not
+  ochre, slate, soapstone, [[Graphite|graphite]] are also mined, and lead, zinc,
+  [[Barytes|barytes]], [[Gypsum|gypsum]] and even diamonds have been discovered but not
   exploited.
 
 _Agriculture._--The principal occupation in Georgia is agriculture,
@@ -226,9 +226,9 @@ Mississippi, averaging 1,467,121 commercial bales per annum; the crop in
 second only to the crop of Texas. The cause of this extensive
 cultivation of cotton is not a high average yield per acre, but the fact
 that before 1860 "Cotton was King," and that the market value of the
-staple when the Civil War closed was so high that farmers began to
+staple when the Civil War closed was so high that [[Farmer|farmers]] began to
 cultivate it to the exclusion of the cereals, whose production, Indian
-corn excepted, showed a decline during each decade from 1879 to 1899.
+[[Corn|corn]] excepted, showed a decline during each decade from 1879 to 1899.
 But in the 'nineties the price of the cotton fell below the cost of
 production, owing to the enormous supply, and this was accompanied by
 economic depression. These conditions have caused some diversification
@@ -236,18 +236,18 @@ of crops, and successful experiments in cattle-raising, movements
 encouraged by the Department of Agriculture and the leading newspapers.
 
 The principal cereals cultivated are Indian corn (product, 53,750,000
-bushels in 1908) and wheat; the cultivation of the latter, formerly
+[[Bushel|bushels]] in 1908) and wheat; the cultivation of the latter, formerly
 remunerative, declined on account of the competition of the Western
 States, but revived after 1899, largely owing to the efforts of the
 Georgia Wheat Growers' Association (organized in 1897), and in 1908 the
 yield was 2,208,000 bushels. The sugar-cane crop declined in value after
 1890, and each year more of it was made into syrup. In 1908 the tobacco
 crop was 2,705,625 lb., and the average farm price was 35 cents, being
-nearly as high as that of the Florida crop; Sumatra leaf for wrappers is
+nearly as high as that of the Florida crop; Sumatra [[Leaf|leaf]] for wrappers is
 grown successfully. The acreage and product of tobacco and peanuts
 increased from 1890 to 1900 respectively 188% and 319.2%, and 92.6% and
 129.9%, and in the production of sweet potatoes Georgia was in 1899
-surpassed only by North Carolina. Alfalfa and grasses grow well. Truck
+surpassed only by North Carolina. Alfalfa and [[Grasses|grasses]] grow well. Truck
 farming and the cultivation of orchard and small fruits have long been
 remunerative occupations; the acreage devoted to peaches doubled between
 1890 and 1900. Pecan nuts are an increasingly important crop.
@@ -270,7 +270,7 @@ remunerative occupations; the acreage devoted to peaches doubled between
   75%, while the area in cultivation increased only 15.6% between 1850
   and 1900. The tenantry system was also undergoing a change--the share
   system which developed in the years succeeding the Civil War being
-  replaced by a system of cash rental.
+  replaced by a system of [[Cash|cash]] rental.
 
 [Illustration: Georgia.]
 
@@ -278,7 +278,7 @@ _Manufactures._--Although excelled by Alabama in the manufacture of
 mineral products, and by North Carolina and South Carolina in the number
 and output of cotton mills, in 1900 and in 1905 Georgia surpassed each
 of those states in the total value of factory products, which was,
-however, less than the value of the factory products of Louisiana and
+however, less than the value of the factory products of [[Louisiana]] and
 Virginia among the southern states. The chief features of this
 industrial activity are its early beginning and steady, constant
 development. As far back as 1850 there were 1522 manufacturing
@@ -292,7 +292,7 @@ was $89,789,656, an increase of 57.7%, and the value of products
 in 1900, 3015 were conducted under the "factory system," and had a
 capital of $79,303,316 and products valued at $94,532,368. In 1905 there
 were 3219 factories, with a capital of $135,211,551 (an increase of
-70.5% over 1900), and a gross product valued at $151,040,455 (59.8%
+70.5% over 1900), and a [[Gross|gross]] product valued at $151,040,455 (59.8%
 greater than the value of the factory product in 1900).
 
   The most important manufacturing industries are those that depend upon
@@ -326,7 +326,7 @@ greater than the value of the factory product in 1900).
   $7,705,643 (second only to the product of Florida). From the same
   source was derived most of the lumber product valued[3] in 1900 at
   $13,341,160 (more than double what it was in 1890) and in 1905 at
-  $16,716,594. The other important woods are cypress, oak and poplar.
+  $16,716,594. The other important woods are [[Cypress|cypress]], oak and poplar.
 
   Fourth in value in 1905 (first, cotton goods; second, lumber and
   timber; third, cotton-seed oil and cake) were fertilizers, the value
@@ -338,7 +338,7 @@ greater than the value of the factory product in 1900).
   furnished by the rivers, which are generally navigable as far north as
   the "fall line" passing through Augusta, Milledgeville, Macon and
   Columbus; by ocean steamship lines which have piers at St Mary's,
-  Brunswick, Darien and Savannah; and by railways whose mileage in
+  Brunswick, [[Darien]] and Savannah; and by railways whose mileage in
   January 1909 was 6,871.8 m. The most important of the railways are the
   Central of Georgia, the Southern, the Atlantic Coast Line, the
   Seaboard Air Line, the Georgia and the Georgia Southern & Florida. In
@@ -368,12 +368,12 @@ the capital in 1795-1804, and Milledgeville in 1804-1868), with 89,872
 inhabitants. Savannah ranked second with 54,244, and Augusta third with
 39,441. In 1900 the other cities in the state with a population of more
 than 5000 were: Macon (23,272), Columbus (17,614), Athens (10,245),
-Brunswick (9081), Americus (7674), Rome (7291), Griffin (6857), Waycross
+Brunswick (9081), Americus (7674), Rome (7291), [[Griffin]] (6857), Waycross
 (5919), Valdosta (5613), and Thomasville (5322).
 
 The total membership of the churches in 1906 was about 1,029,037, of
-whom 596,319 were Baptists, 349,079 were Methodists, 24,040 were
-Presbyterians, 19,273 were Roman Catholics, 12,703 were Disciples of
+whom 596,319 were [[Baptists]], 349,079 were Methodists, 24,040 were
+Presbyterians, 19,273 were Roman Catholics, 12,703 were [[Disciple|Disciples]] of
 Christ, 9790 were Protestant Episcopalians, and 5581 were
 Congregationalists.
 
@@ -388,8 +388,8 @@ twenty-one years of age (except those mentioned below), who had lived in
 the state for one year immediately preceding an election and in the
 county six months, and had paid their taxes, were entitled to vote. From
 the suffrage and the holding of office are excluded idiots and insane
-persons and all those who have been convicted of treason, embezzlement,
-malfeasance in office, bribery or larceny, or any crime involving moral
+persons and all those who have been convicted of treason, [[Embezzlement|embezzlement]],
+malfeasance in office, [[Bribery|bribery]] or [[Larceny|larceny]], or any crime involving moral
 turpitude and punishable under the laws of the state by imprisonment in
 the penitentiary--this last disqualification, however, is removable by a
 pardon for the offence. Before 1909 there was no constitutional
@@ -420,10 +420,10 @@ years old, must at the time of his election have been a citizen of the
 United States for fifteen years and of the state for six years, and
 "shall not be eligible to re-election after the expiration of a second
 term, for the period of four years." In case of his "death, removal or
-disability," the duties of his office devolve in the first instance upon
+[[Disability|disability]]," the duties of his office devolve in the first instance upon
 the president of the Senate, and in the second upon the speaker of the
 House of Representatives. The governor's power of veto extends to
-separate items in appropriation bills, but in every case his veto may be
+separate [[Item|items]] in [[Appropriation|appropriation]] bills, but in every case his veto may be
 overridden by a two-thirds vote of the legislature. An amendment to the
 constitution may be proposed by a two-thirds vote of the legislature,
 and comes into effect on receiving a majority of the popular vote.
@@ -432,9 +432,9 @@ citizens of the United States, and must, at the time of their election,
 have been citizens of the state for four years, and of the senatorial
 district for one year; representatives must be at least twenty-one years
 old, and must, at the time of their election, have been citizens of the
-state for two years. By law, in Georgia, lobbying is a felony.
+state for two years. By law, in Georgia, [[Lobbying|lobbying]] is a felony.
 
-Habitual intoxication, wilful desertion for three years, cruel
+Habitual [[Intoxication|intoxication]], wilful [[Desertion|desertion]] for three years, cruel
 treatment, and conviction for an offence the commission of which
 involved moral turpitude and for which the offender has been sentenced
 to imprisonment for at least two years, are recognized as causes for
@@ -457,7 +457,7 @@ certificate of school attendance for 12 weeks (of which 6 weeks must be
 consecutive) of the preceding year; no child shall be employed without
 the filing of an affidavit as to age. Making a false affidavit as to age
 or as to other facts required by the act, and the violation of the act
-by any agent or representative of a factory or by any parent or guardian
+by any agent or representative of a factory or by any parent or [[Guardian|guardian]]
 of a child are misdemeanours.
 
 In 1907 a state law was passed prohibiting after the 1st of January 1908
@@ -465,16 +465,16 @@ the manufacture or sale of intoxicating liquors; nine-tenths of the
 counties of the state, under local option laws, were already "dry" at
 the passage of this bill. The law permits druggists to keep for sale no
 other form of alcoholic drink than pure alcohol; physicians prescribing
-alcohol must fill out a blank, specifying the patient's ailment, and
+alcohol must fill out a [[Blank|blank]], specifying the patient's ailment, and
 certifying that alcohol is necessary; the prescription must be filled
 the day it is dated, must be served directly to the physician or to the
 patient, must not call for more than a pint, and may not be refilled.[7]
 
-The state supports four benevolent institutions: a lunatic asylum for
+The state supports four benevolent institutions: a lunatic [[Asylum|asylum]] for
 the whites and a similar institution for the negroes, both at
 Milledgeville, an institute for the deaf and dumb at Cave Spring, and an
 academy for the blind at Macon. There are also a number of private
-charitable institutions, the oldest being the Bethesda orphan asylum,
+charitable institutions, the oldest being the [[Bethesda]] orphan asylum,
 near Savannah, founded by George Whitefield in 1739. The Methodist,
 Baptist, Roman Catholic and Protestant Episcopal Churches, and the
 Hebrews of the state also support homes for orphans. A penitentiary was
@@ -493,7 +493,7 @@ giving notice to his second employer of a prior and unfulfilled
 contract; or any employer of a labourer who had not completed the term
 of a prior contract. In September 1908, after an investigation which
 showed that many wardens had been in the pay of convict lessees and that
-terrible cruelty had been practised in convict camps, an extra session
+terrible [[Cruelty|cruelty]] had been practised in convict camps, an extra session
 of the legislature practically put an end to the convict lease or
 contract system; the act then passed provided that after the 31st of
 March 1909, the date of expiration of leases in force, no convicts may
@@ -535,7 +535,7 @@ state also supports the University of Georgia; and in 1906 $235,000 was
 expended for the support of higher education. In 1906-1907 eleven
 agricultural and mechanical arts colleges were established, one in each
 congressional district of the state. Of the colleges of the university,
-Franklin was the first state college chartered in America (1785); the
+[[Franklin]] was the first state college chartered in America (1785); the
 Medical College of Georgia, at Augusta, was opened in 1829; the State
 College of Agriculture and Mechanic Arts was established at Athens in
 1872; the North Georgia Agricultural College, at Dahlonega, was opened
@@ -553,19 +553,19 @@ at Hamilton. Among the institutions generally grouped as denominational
 are--Baptist: Mercer University, at Macon (Penfield, 1837; Macon, 1871),
 Shorter College (1877) at Rome, Spelman Seminary (1881) in Atlanta for
 negro women and girls, and Bessie Tift College, formerly Monroe College
-(1849) for women, at Forsyth; Methodist Episcopal: Emory College (1836),
+(1849) for women, at [[Forsyth]]; Methodist Episcopal: Emory College (1836),
 at Oxford, and Wesleyan Female College (1836) at Macon, both largely
 endowed by George Ingraham Seney (1837-1893), and the latter one of the
 earliest colleges for women in the country; Methodist Episcopal Church,
-South: Young Harris College (1855) at Young Harris, Andrew Female
-College (1854) at Cuthbert, and Dalton Female College (1872) at Dalton;
+South: Young [[Harris]] College (1855) at Young Harris, Andrew Female
+College (1854) at Cuthbert, and [[Dalton]] Female College (1872) at Dalton;
 Presbyterian: Agnes Scott College at Decatur; and African Methodist
 Episcopal: Morris Brown College (1885) at Atlanta. A famous school for
 negroes is the non-sectarian Atlanta University (incorporated in 1867,
 opened in 1869), which has trained many negroes for teaching and other
 professions. Non-sectarian colleges for women are: Lucy Cobb Institute
-(1858) at Athens, Cox College (1843) at College Park, near Atlanta, and
-Brenau College Conservatory (1878) at Gainesville.
+(1858) at Athens, [[Cox]] College (1843) at College Park, near Atlanta, and
+Brenau College Conservatory (1878) at [[Gainesville]].
 
   _Finance._--The assessed value of taxable property in 1910 was about
   $735,000,000. A general property tax, which furnishes about
@@ -575,7 +575,7 @@ Brenau College Conservatory (1878) at Gainesville.
   has increased faster than the taxable property, the state has been
   forced to contract several temporary loans since 1901, none of which
   has exceeded $200,000, the limit for each year set by the
-  Constitution. On the 1st of January 1910 the bonded debt was
+  Constitution. On the 1st of January 1910 the bonded [[Debt|debt]] was
   $6,944,000, mainly incurred by the extravagance of the Reconstruction
   administration (see _History_, below). Each year $100,000 of this debt
   is paid off, and there are annual appropriations for the payment of
@@ -589,7 +589,7 @@ Brenau College Conservatory (1878) at Gainesville.
 
   Banking in Georgia is in a prosperous condition. The largest class of
   depositors are the farmers, who more and more look to the banks for
-  credit, instead of to the merchants and cotton speculators. Hence the
+  [[Credit|credit]], instead of to the merchants and cotton speculators. Hence the
   number of banks in agricultural districts is increasing. The state
   treasurer is the bank examiner, and to him all banks must make a
   quarterly statement and submit their books for examination twice a
@@ -608,7 +608,7 @@ settlement was made at Savannah in 1733 under the personal supervision
 of Oglethorpe. The early colonists were German Lutherans (Salzburgers),
 Piedmontese, Scottish Highlanders, Swiss, Portuguese Jews and
 Englishmen; but the main tide of immigration, from Virginia and the
-Carolinas, did not set in until 1752. As a bulwark against the Spanish,
+Carolinas, did not set in until 1752. As a [[Bulwark|bulwark]] against the Spanish,
 the colony was successful, but as an economic experiment it was a
 failure. The trustees desired that there should be grown in the colony
 wine grapes, hemp, silk and medical plants (barilla, kali, cubeb, caper,
@@ -630,7 +630,7 @@ Under the new regime the colony was so prosperous that Sir James Wright
 revolt against the mother country through sympathy with the other
 colonies rather than through any grievance of their own. The centre of
 revolutionary ideas was St John's Parish, settled by New Englanders
-(chiefly from Dorchester, Massachusetts). The Loyalist sentiment was so
+(chiefly from [[Dorchester]], Massachusetts). The Loyalist sentiment was so
 strong that only five of the twelve parishes sent representatives to the
 First Provincial Congress, which met on the 18th of January 1775, and
 its delegates to the Continental Congress therefore did not claim seats
@@ -645,7 +645,7 @@ British seized Savannah, which they held until 1782, meanwhile reviving
 the British civil administration, and in 1779 they captured Augusta and
 Sunbury; but after 1780 the Revolutionary forces were generally
 successful. Civil affairs also fell into confusion. In 1777 a state
-constitution was adopted, but two factions soon appeared in the
+constitution was adopted, but two [[Faction|factions]] soon appeared in the
 government, led by the governor and the executive council respectively,
 and harmony was not secured until 1781.
 
@@ -655,10 +655,10 @@ delegates almost invariably gave their support to measures designed to
 strengthen the central government. Georgia was the fourth state to
 ratify (January 2, 1788), and one of the three that ratified
 unanimously, the Federal Constitution. But a series of conflicts between
-the Federal government and the state government caused a decline of this
+the [[Federal Government|Federal government]] and the state government caused a decline of this
 national sentiment and the growth of States Rights theories.
 
-First of these was the friction involved in the case, before the Supreme
+First of these was the [[Friction|friction]] involved in the case, before the Supreme
 Court of the United States, of _Chisolm_ v. _Georgia_, by which the
 plaintiff, one Alexander Chisolm, a citizen of South Carolina, secured
 judgment in 1793 against the state of Georgia (see 2 Dallas Reports
@@ -674,7 +674,7 @@ States by citizens of another state, or by citizens or subjects of any
 foreign state."
 
 The position of Congress and of the Supreme Court with reference to
-Georgia's policy in the Yazoo Frauds also aroused distrust of the
+Georgia's policy in the Yazoo [[Fraud|Frauds]] also aroused distrust of the
 Federal government. In 1795 the legislature granted for $500,000 the
 territory extending from the Alabama and Coosa rivers to the Mississippi
 river and between 35 deg. and 31 deg. N. lat. (almost all of the present
@@ -703,7 +703,7 @@ This decision greatly irritated the political leaders of Georgia, and
 the question of extinguishing the Indian titles, on which there had long
 been a disagreement, caused further and even more serious friction
 between the Federal and state authorities. The National government,
-until the administration of President Jackson, regarded the Indian
+until the administration of President [[Jackson]], regarded the Indian
 tribes as sovereign nations with whom it alone had the power to treat,
 while Georgia held that the tribes were dependent communities with no
 other right to the soil than that of tenants at will. In 1785 Georgia
@@ -720,7 +720,7 @@ the state in the latter year remonstrated in vigorous terms against the
 dilatory manner in which the National government was discharging its
 obligation, and the effect of this was that in 1825 a treaty was
 negotiated at Indian Springs by which nearly all the Lower Creeks agreed
-to exchange their remaining lands in Georgia for equal territory beyond
+to [[Exchange|exchange]] their remaining lands in Georgia for equal territory beyond
 the Mississippi. But President J.Q. Adams, learning that this treaty was
 not approved by the entire Creek nation, authorized a new one, signed at
 Washington in 1826, by which the treaty of 1825 was abrogated and the
@@ -746,7 +746,7 @@ and unalterable determination of this nation never again to cede one
 foot more of land," and that they could not "recognize the sovereignty
 of any state within the limits of their territory"; in 1827 they framed
 a constitution and organized a representative government. President
-Monroe and President J.Q. Adams treated the Cherokees with the courtesy
+Monroe and President J.Q. Adams treated the Cherokees with the [[Courtesy|courtesy]]
 due to a sovereign nation, and held that the United States had done all
 that was required to meet the obligation assumed in 1802. The Georgia
 legislature, however, contended that the United States had not acted in
@@ -762,7 +762,7 @@ Georgia court that had extended its jurisdiction into the Cherokee
 country (_Worcester_ v. _Georgia_). But the governor of Georgia declared
 that the decision was an attempt at usurpation which would meet with
 determined resistance, and President Jackson refused to enforce the
-decree. The President did, however, work for the removal of the Indians,
+[[Decree|decree]]. The President did, however, work for the removal of the Indians,
 which was effected in 1838.
 
 On account of these conflicts a majority of Georgians adopted the
@@ -790,7 +790,7 @@ legality of slavery in the Territories, a principle adopted by Congress
 in the Kansas Bill in 1854, and in 1847 ex-Governor Wilson Lumpkin
 (1783-1870) advocated the organization of the Southern states to resist
 the aggression of the North. Popular opinion at first opposed the
-Compromise of 1850, and some politicians demanded immediate secession
+[[Compromise]] of 1850, and some politicians demanded immediate secession
 from the Union; and the legislature had approved the Alabama Platform of
 1848. But Congressmen Robert Toombs, Alexander H. Stephens, Whigs, and
 Howell Cobb, a Democrat, upon their return from Washington, contended
@@ -817,7 +817,7 @@ interval by a return to approximately the former party alignment, but in
 party while most of the Whig leaders went over to the Democrats. The
 Know-Nothing party was nearly destroyed by its crushing defeat in 1856
 and in the next year the Democrats by a large majority elected for
-governor Joseph Emerson Brown (1821-1894) who by three successive
+governor Joseph [[Emerson]] Brown (1821-1894) who by three successive
 re-elections was continued in that office until the close of the Civil
 War. Although Governor Brown represented the poorer class of white
 citizens he had taken a course in law at Yale College, had practised
@@ -834,7 +834,7 @@ a Free-Soil resident in 1860 he would favour the establishment of an
 independent confederacy; later in the same year Governor Brown expressed
 himself to a similar effect and urged the improvement of the military
 service. On the 7th of November following the election of President
-Lincoln the governor, in a special message to the legislature,
+[[Lincoln]] the governor, in a special message to the legislature,
 recommended the calling of a convention to decide the question of
 secession, and Alexander H. Stephens was about the only prominent
 political leader who contended that Lincoln's election was insufficient
@@ -866,7 +866,7 @@ E. Johnston and General J.B. Hood proved ineffectual; and on the 1st of
 September Atlanta was taken. Then Sherman began his famous "march to the
 sea," from Atlanta to Savannah, which revealed the weakness of the
 Confederacy. In the spring of 1865, General J.H. Wilson with a body of
-cavalry entered the state from Alabama, seized Columbus and West Point
+[[Cavalry|cavalry]] entered the state from Alabama, seized Columbus and West Point
 on the 16th of April, and on the 10th of May captured Jefferson Davis,
 president of the Confederacy, at Irwinville in Irwin county.
 
@@ -890,7 +890,7 @@ political incapacity and social inferiority which the legislature had
 assigned to them, and therefore Georgia was placed under military
 government, as part of the third military district, by the
 Reconstruction Act of the 2nd of March 1867. Under the auspices of the
-military authorities registration of electors for a new state convention
+military authorities registration of [[Electors|electors]] for a new state convention
 was begun and 95,168 negroes and 96,333 whites were registered. The
 acceptance of the proposition to call the convention and the election of
 many conscientious and intelligent delegates were largely due to the
@@ -900,7 +900,7 @@ offered. The convention met in Atlanta on the 9th of December 1867 and
 by March 1868 had revised the constitution to meet the requirements of
 the Reconstruction Acts. The constitution was duly adopted by popular
 vote, and elections were held for the choice of a governor and
-legislature. Rufus Brown Bullock (b. 1834), Republican, was chosen
+legislature. Rufus Brown [[Bullock]] (b. 1834), Republican, was chosen
 governor, the Senate had a majority of Republicans, but in the House of
 Representatives a tie vote was cast for the election of a speaker. On
 the 21st of July the Fourteenth Amendment was ratified, and a section of
@@ -933,13 +933,13 @@ moderation. Although there was great political excitement, there was not
 as much extravagance in public administration as there was in other
 Southern States, the state debt increasing approximately from $6,600,000
 to $16,000,000. The explanation lies in the fact that there were
-comparatively few "carpet-baggers" or adventurers in the state, and that
+comparatively few "[[Carpet-Bagger|carpet-baggers]]" or adventurers in the state, and that
 a large number of conservative citizens, under the leadership of
 ex-Governor Brown, supported the Reconstruction policy of Congress and
 joined the Republican party.
 
 The election of 1871 gave the Democrats a majority in the legislature;
-Governor Bullock, fearing impeachment, resigned, and at a special
+Governor Bullock, fearing [[Impeachment|impeachment]], resigned, and at a special
 election James M. Smith was chosen to fill the unexpired term. After
 that the control of the Democrats was complete. In 1891 the Populist
 party was organized, but it never succeeded in securing a majority of
@@ -952,7 +952,7 @@ LIST OF GOVERNORS
   James Edward Oglethorpe[8]  1732-1743
   William Stephens[9]         1743-1751
   Henry Parker[9]             1751-1753
-  Patrick Graham[9]           1753-1754
+  Patrick [[Graham]][9]           1753-1754
 
     II. _Royal Administration._
 
@@ -965,23 +965,23 @@ LIST OF GOVERNORS
   William Ewen[10]               1775
   Archibald Bulloch[11]          1776
   Button Gwinnett[11]            1777
-  Jonathan Bryan[11]             1777
+  [[Jonathan]] Bryan[11]             1777
 
     IV. _Georgia as a State._
 
   John A. Treutlen[12]        1777-1778
-  John Houston                1778-1779
+  John [[Houston]]                1778-1779
   John Wereat[13]                1779
   George Walton               1779-1780
   Richard Hawley                 1780
   Stephen Heard[13]           1780-1781
   Myrick Davies[13]              1781
   Nathan Brownson             1781-1782
-  John Martin                 1782-1783
+  John [[Martin]]                 1782-1783
   Lyman Hall                  1783-1785
   Samuel Elbert               1785-1786
   Edward Telfair              1786-1787
-  George Matthews             1787-1788
+  George [[Matthew|Matthews]]             1787-1788
   George Handley              1788-1789
   George Walton               1789-1790     Democratic-Republican
   Edward Telfair              1790-1793          "         "
@@ -1011,10 +1011,10 @@ LIST OF GOVERNORS
   Herschell V. Johnson        1853-1856     Democrat
   Joseph E. Brown             1857-1865        "
   James Johnson[15]             1865           "
-  Charles J. Jenkins          1865-1868        "
+  Charles J. [[Jenkins]]          1865-1868        "
   Thomas H. Ruger               1868           "
   Rufus B. Bullock            1868-1871     Republican
-  Benjamin Conley[14]         1871-1872        "
+  [[Benjamin]] Conley[14]         1871-1872        "
   James M. Smith              1872-1876     Democrat
   Alfred H. Colquitt          1876-1882        "
   Alexander H. Stephens       1882-1883        "
@@ -1022,7 +1022,7 @@ LIST OF GOVERNORS
   Henry D. McDaniel           1883-1886        "
   John B. Gordon              1886-1890        "
   W.J. Northen                1890-1894        "
-  W.Y. Atkinson               1894-1898        "
+  W.Y. [[Atkinson]]               1894-1898        "
   A.D. Candler                1898-1902        "
   Joseph M. Terrell           1902-1907        "
   Hoke Smith                  1907-1909        "
@@ -1043,16 +1043,16 @@ LIST OF GOVERNORS
 
   The principal sources for public administration are the annual reports
   of the state officers, philanthropic institutions, the prison
-  commission and the railroad commission, and the revised Code of
+  commission and the railroad commission, and the revised [[Code]] of
   Georgia (Atlanta, 1896), adopted in 1895; see also L.F. Schmeckebier's
-  "Taxation in Georgia" (_Johns Hopkins University Studies_, vol.
+  "Taxation in Georgia" (_Johns [[Hopkins]] University Studies_, vol.
   xviii.) and "Banking in Georgia" (_Banker's Magazine_, vol. xlviii.).
   Education and social conditions are treated in C.E. Jones's _History
   of Education in Georgia_ (Washington, 1890), the Annual Reports of the
   School Commissioner, and various magazine articles, such as "Georgia
   Cracker in the Cotton Mill" (_Century Magazine_, vol. xix.) and "A
   Plea for Light" (_South Atlantic Quarterly_, vol. iii.). The view of
-  slavery given in Frances A. Kemble's _Journal of a Residence on a
+  slavery given in [[Franc|Frances]] A. Kemble's _Journal of a Residence on a
   Georgia Plantation in 1838-1839_ (New York, 1863) should be compared
   with R.Q. Mallard's _Plantation Life before Emancipation_ (Richmond,
   Va., 1897), and with F.L. Olmsted's _A Journey in the Seaboard Slave
@@ -1064,7 +1064,7 @@ LIST OF GOVERNORS
   of the Southern Indians, particularly of the Georgia Tribes_ (New
   York, 1873), for the aborigines; W.B. Stevens's _History of Georgia to
   1798_ (2 vols., Philadelphia, 1847-1859) and C.C. Jones, jun., History
-  of Georgia (2 vols., Boston, 1883) for the Colonial and Revolutionary
+  of Georgia (2 vols., [[Boston]], 1883) for the Colonial and Revolutionary
   periods; C.H. Haskins's _The Yazoo Land Companies_ (Washington, 1891);
   the excellent monograph (mentioned above) by U.B. Phillips for
   politics prior to 1860; Miss Annie H. Abel's monograph "The History of

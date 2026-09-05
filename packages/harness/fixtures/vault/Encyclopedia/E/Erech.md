@@ -2,17 +2,17 @@
 
 ERECH (_Uruk_ in the Babylonian inscriptions; Gr. _Orchoe_), the
 Biblical name of an ancient city of Babylonia, situated E. of the
-present bed of the Euphrates, on the line of the ancient Nil canal, in a
+present bed of the [[Euphrates]], on the line of the ancient Nil canal, in a
 region of marshes, about 140 m. S.S.E. from Bagdad. It was one of the
 oldest and most important cities of Babylonia, and the site of a famous
-temple, called E-Anna, dedicated to the worship of Nana, or Ishtar.
-Erech played a very important part in the political history of the
-country from an early time, exercising hegemony in Babylonia at a period
+temple, called E-Anna, dedicated to the worship of Nana, or [[Ishtar]].
+Erech played a very important part in the [[Political History|political history]] of the
+country from an early time, exercising [[Hegemony|hegemony]] in Babylonia at a period
 before the time of Sargon. Later it was prominent in the national
 struggles of the Babylonians against Elam (2000 B.C. and earlier), in
 which it suffered severely; recollections of these conflicts are
-embodied in the Gilgamesh epic, as it has come down to us through the
-library of Assur-bani-pal. Erech enjoyed much distinction in the later
+embodied in the [[Gilgamesh]] epic, as it has come down to us through the
+library of [[Assur-Bani-Pal|Assur-bani-pal]]. Erech enjoyed much distinction in the later
 times, as a seat of learning and of the worship of Ishtar, and
 Assur-bani-pal drew largely on its literary stores for his library at
 Nineveh, from which we derive our principal information concerning
@@ -21,10 +21,10 @@ continued in existence through the Persian and Seleucid periods. The
 ruins of the ancient site, known as Warka, which are among the largest
 in all Babylonia, forming an irregular circle nearly 6 m. in
 circumference, bounded by a wall, still standing in some places to the
-height of 40 ft., were explored and partially excavated by W.K. Loftus
+height of 40 ft., were explored and partially excavated by W.K. [[Loftus]]
 in 1850 and 1854. The most conspicuous ruin, now called Abu-Berdi,
-"Father of Marsh Grass," or Buwariye, "reed matting," because of the
-layers of reeds between each twelve courses of unbaked brick, is the
+"Father of Marsh Grass," or Buwariye, "reed [[Matting|matting]]," because of the
+layers of reeds between each twelve courses of unbaked [[Brick|brick]], is the
 _ziggurat_ (tower) of the ancient temple of E-Anna. It is about 100 ft.
 in height, and strikingly resembles in general appearance the ruins of
 the ziggurat of the temple of Enlil at Nippur. Second to this in size

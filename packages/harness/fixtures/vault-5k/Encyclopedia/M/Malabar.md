@@ -4,10 +4,10 @@ MALABAR, a district of British India, in the Madras Presidency.
 Geographically the name is sometimes extended to the entire western
 coast of the peninsula. Properly it should apply to the strip below the
 Ghats, which is inhabited by people speaking the Malayalam language, a
-branch of the Dravidian stock, who form a peculiar race, with castes,
+branch of the [[Dravidian]] stock, who form a peculiar race, with [[Caste|castes]],
 customs and traditions of their own. It would thus be coextensive with
 the old kingdom of Chera, including the modern states of Travancore and
-Cochin, and part of Kanara. In 1901 the total number of persons speaking
+Cochin, and part of [[Kanara]]. In 1901 the total number of persons speaking
 Malayalam in all India was 6,029,304.
 
 The district of Malabar extends for 145 m. along the coast, running
@@ -18,7 +18,7 @@ great range of the Western Ghats, only interrupted by the Palghat gap,
 looks down on a country broken by long spurs, extensive ravines, dense
 forests and tangled jungle. To the westward, gentler slopes and downs,
 and gradually widening valleys closely cultivated, succeed the forest
-uplands, till, nearer the seaboard, the low laterite table-lands shelve
+uplands, till, nearer the seaboard, the low [[Laterite|laterite]] table-lands shelve
 into rice plains and backwaters fringed with coco-nut palms. The coast
 runs in a south-easterly direction, and forms a few headlands and small
 bays, with a natural harbour in the south at Cochin. In the south there
@@ -34,7 +34,7 @@ industry. The forests are extensive and of great value, but they are
 almost entirely private property. The few tracts which are conserved
 have come into government hands by escheat or by contract. Wild animals
 include the elephant, tiger, panther, bison, _sambhar_, spotted deer,
-Nilgiri ibex, and bear. The population in 1901 was 2,800,555, showing an
+Nilgiri [[Ibex|ibex]], and bear. The population in 1901 was 2,800,555, showing an
 increase of 5.6% in the decade.
 
 The staple crop is rice, the next most important product being

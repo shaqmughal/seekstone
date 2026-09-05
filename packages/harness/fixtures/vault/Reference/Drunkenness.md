@@ -7,7 +7,7 @@ topic: geology
 # Drunkenness
 
 DRUNKENNESS, a term signifying generally a state resulting from
-excessive drinking, and usually associated with alcoholic intoxication,
+excessive drinking, and usually associated with alcoholic [[Intoxication|intoxication]],
 or alcohol poisoning. It may represent either an _act_ or a _habit_, the
 latter consisting in frequent repetitions of the former. As an act it
 may be an accident, most usually arising from the incautious use of one
@@ -17,13 +17,13 @@ vice which can result from the enfeeblement of the moral principle by
 persistent self-indulgence.
 
 What appears to be "intoxication" may arise from many different causes
-(e.g. epilepsy, fractured skull, intracranial haemorrhage, and the
-toxaemic coma of diabetes and uraemia), and the close resemblance
+(e.g. [[Epilepsy|epilepsy]], fractured skull, intracranial [[Haemorrhage|haemorrhage]], and the
+toxaemic [[Coma|coma]] of [[Diabetes|diabetes]] and uraemia), and the close resemblance
 between the pathological and the toxic phenomena has been the cause of
 many untoward accidents. Cold alone may produce such peculiar effects
 that Captain Parry said in his _Journal_, "I cannot help thinking that
 many a man may have been punished for intoxication who was only
-suffering from the benumbing effects of frost; for I have more than once
+suffering from the benumbing effects of [[Frost|frost]]; for I have more than once
 seen our people in a state so exactly resembling that of the most
 stupid intoxication, that I should certainly have charged them with the
 offence had I not been quite sure that no possible means were afforded
@@ -31,8 +31,8 @@ them on Melville Island to procure anything stronger than snow water."
 The same confusion is frequently found in cases which come before the
 police-courts, people being arrested as "drunk and disorderly" who can
 prove that the symptoms were not due to over-indulgence in drink at all.
-Some individuals have, moreover, a special idiosyncrasy or
-susceptibility to alcohol, due to heredity or to one of the sequelae of
+Some individuals have, moreover, a special [[Idiosyncrasy|idiosyncrasy]] or
+susceptibility to alcohol, due to [[Heredity|heredity]] or to one of the sequelae of
 sunstroke or cranial injury. The children of drunkards are usually very
 susceptible to the poison, becoming intoxicated by a far smaller
 quantity than is needed by a normal person.
@@ -49,14 +49,14 @@ palpitation and irregularity of the heart, as well as with more or less
 sleeplessness, mental irritability and muscular tremors, which in some
 culminate in paralysis; while positive intoxication has been known to be
 the result of the excessive use of strong tea. In short, from tea to
-haschisch we have, through hops, alcohol, tobacco and opium, a sort of
+haschisch we have, through [[Hop|hops]], alcohol, tobacco and opium, a sort of
 graduated scale of intoxicants, which stimulate in small doses and
 narcotize in larger,--the narcotic dose having no stimulating properties
 whatever, and only appearing to possess them from the fact that the
 agent can only be gradually taken up by the blood, and the system thus
 comes primarily under the influence of a stimulant dose. In certain
 circumstances and with certain agents--as in the production of
-chloroform narcosis--this precursory stage is capable of being much
+[[Chloroform|chloroform]] narcosis--this precursory stage is capable of being much
 abbreviated, if not altogether annihilated; while with other agents--as
 tea--the narcotic stage is by no means always or readily produced.
 
@@ -105,10 +105,10 @@ houses, trees, even the earth itself, seem drunken and unstable, he
 alone sober, till at last the final stage is reached, and he falls on
 the ground insensible--_dead drunk_ (alcoholic coma)--a state from
 which, after profound slumber, he at last awakes feverish, exhausted,
-sick and giddy, with ringing ears, a throbbing heart and a violent
+sick and giddy, with ringing [[Ear|ears]], a throbbing heart and a violent
 headache.
 
-The poison primarily affects the cerebral lobes, and the other parts of
+The poison primarily affects the cerebral [[Lobe|lobes]], and the other parts of
 the cerebro-spinal system are consecutively involved, till in the state
 of _dead-drunkenness_ the only parts not invaded by a benumbing
 paralysis are those automatic centres in the medulla oblongata which
@@ -124,7 +124,7 @@ system, the stomach suffers in every case; thus nutrition is interfered
 with by the defective ingestion of food, as well as by the
 mal-assimilation of that which is ingested; and from this cause, as well
 as by the peculiar local action of the various poisons, the various
-organic degenerations are induced (cirrhosis of the liver, &c.) which in
+organic degenerations are induced (cirrhosis of the [[Liver|liver]], &c.) which in
 most cases shorten the drunkard's days.
 
 The primary discomforts of an act of drunkenness are readily removed for
@@ -136,14 +136,14 @@ knowledge of the temporary relief to suffering which is sure to follow,
 and in spite of the consciousness that each repetition of the act only
 forges their chains more tightly. From this condition there is no hope
 of relief but in enforced abstinence; any one in this condition must be
-regarded as temporarily insane (see INSANITY and NEUROPATHOLOGY), and
-ought to be placed in an inebriate asylum till he regain sufficient
+regarded as temporarily insane (see [[Insanity|INSANITY]] and NEUROPATHOLOGY), and
+ought to be placed in an inebriate [[Asylum|asylum]] till he regain sufficient
 self-control to enable him to overcome his love for drink. Numerous
-"cures" have been started in recent years, which have often succeeded in
+"[[Cures|cures]]" have been started in recent years, which have often succeeded in
 individual cases. An anti-alcoholic serum obtained from alcoholized
 horses has been advocated by Dr Sapelier.
 
-For the law concerning drunkenness the reader is referred to INEBRIETY,
+For the law concerning drunkenness the reader is referred to [[Inebriety|INEBRIETY]],
 LAW OF. Its prevalence as a vice has varied considerably according to
 the state of education or comfort in different classes of society. In
 considering the extent to which intemperance has prevailed, the
@@ -186,7 +186,7 @@ it will be found that the "black" counties, without exception, lie to
 the north-west of this line. The worst counties in England and Wales in
 the matter of drunkenness are Northumberland, Durham and Glamorganshire,
 while Pembrokeshire and Lancashire follow close behind. The most sober
-counties, on the other hand, are Cambridgeshire, Suffolk, Oxfordshire
+counties, on the other hand, are [[Cambridgeshire]], Suffolk, Oxfordshire
 and Wiltshire. Averages based upon the returns of entire counties do
 not, however, afford a complete guide to the distribution of
 drunkenness, inasmuch as offences are not equally distributed over the
@@ -197,12 +197,12 @@ averages, notwithstanding favourable conditions in the rest of its area.
 Analysis of the prosecutions for drunkenness shows that about 24% of the
 total number of offences are committed by women. In the larger towns the
 proportion, as a rule, is higher. In London, 38% of the drunkenness is
-attributable to women; in Manchester, 36%; in Belfast and Glasgow, 32%.
-In Liverpool, on the other hand, the proportion is only 24%. The
+attributable to women; in Manchester, 36%; in [[Belfast]] and [[Glasgow]], 32%.
+In [[Liverpool]], on the other hand, the proportion is only 24%. The
 much-controverted question as to whether intemperance is increasing
 among women can hardly, however, be decided by an appeal to the criminal
 statistics. So far as these statistics throw any light at all upon the
-question, they suggest important local differences. A more direct clue
+question, they suggest important local differences. A more direct [[Clue|clue]]
 is afforded by the registrar-general's annual returns of deaths directly
 attributed to intemperance. The figures are given below. In order to
 eliminate accidental variations, the comparison is based upon the

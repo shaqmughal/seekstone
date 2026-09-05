@@ -35,9 +35,9 @@ pericardium or pleura.
 
 Erysipelas of the face usually begins with symptoms of general illness,
 the patient feeling languid, drowsy and sick, while frequently there is
-a distinct rigor followed with fever. Sore throat is sometimes felt, but
+a distinct rigor followed with [[Fever|fever]]. Sore throat is sometimes felt, but
 in general the first indication of the local affection is a red and
-painful spot at the side of the nose or on one of the cheeks or ears.
+painful spot at the side of the nose or on one of the cheeks or [[Ear|ears]].
 Occasionally it would appear that the inflammation begins in the throat,
 and reaches the face through the nasal fossae. The redness gradually
 spreads over the whole surface of the face, and is accompanied with
@@ -49,7 +49,7 @@ confined to the face and head. While the disease progresses, besides the
 pain, tenderness and heat of the affected parts, the constitutional
 symptoms are very severe. The temperature rises often to 105 deg. or
 higher, remains high for four or five days, and then falls by crisis.
-Delirium is a frequent accompaniment. The attack in general lasts for a
+[[Delirium]] is a frequent accompaniment. The attack in general lasts for a
 week or ten days, during which the inflammation subsides in the parts of
 the skin first attacked, while it spreads onwards in other directions,
 and after it has passed away there is, as already observed, some slight
@@ -64,7 +64,7 @@ this disease, so far from protecting from, appears rather to predispose
 to others. It is sometimes a complication in certain forms of exhausting
 disease, such as phthisis or typhoid fever, and is then to be regarded
 as of serious import. A very fatal form occasionally attacks new-born
-infants, particularly in the first four weeks of their lives. In
+[[Infant|infants]], particularly in the first four weeks of their lives. In
 epidemics of puerperal fever this form of erysipelas has been specially
 found to prevail.
 
@@ -93,7 +93,7 @@ produced. The town was said to have been founded by Ionians under
 Knopos, son of Codrus. Never a large city, it sent only eight ships to
 the battle of Lade. The Erythraeans owned for a considerable time the
 supremacy of Athens, but towards the close of the Peloponnesian war they
-threw off their allegiance to that city. After the battle of Cnidus,
+threw off their allegiance to that city. After the battle of [[Cnidus]],
 however, they received Conon, and paid him honours in an inscription,
 still extant. Erythrae was the birthplace of two prophetesses--one of
 whom, Sibylla, is mentioned by Strabo as living in the early period of
@@ -102,7 +102,7 @@ The ruins include well-preserved Hellenistic walls with towers, of which
 five are still visible. The acropolis (280 ft.) has the theatre on its
 N. slope, and eastwards lie many remains of Byzantine buildings. Modern
 Litri is a considerable place and port, extending from the ancient
-harbour to the acropolis. The smaller coasting steamers call, and there
+harbour to the acropolis. The smaller [[Coasting|coasting]] steamers call, and there
 is an active trade with Chios and Smyrna.
 
 ## References

@@ -1,16 +1,16 @@
 # Cryptography
 
 CRYPTOGRAPHY (from Gr. [Greek: kryptos], hidden, and [Greek: graphein],
-to write), or writing in cipher, called also steganography (from Gr.
+to write), or writing in [[Cipher|cipher]], called also steganography (from Gr.
 [Greek: stegane], a covering), the art of writing in such a way as to be
-incomprehensible except to those who possess the key to the system
+incomprehensible except to those who possess the [[Key|key]] to the system
 employed. The unravelling of the writing is called deciphering.
 Cryptography having become a distinct art, Bacon (Lord Verulam) classed
 it (under the name _ciphers_) as a part of grammar. Secret modes of
 communication have been in use from the earliest times. The
 Lacedemonians had a method called the _scytale_, from the staff ([Greek:
 skytale]) employed in constructing and deciphering the message. When the
-Spartan ephors wished to forward their orders to their commanders
+Spartan ephors wished to forward their orders to their [[Commander|commanders]]
 abroad, they wound slantwise a narrow strip of parchment upon the
 [Greek: skytale] so that the edges met close together, and the message
 was then added in such a way that the centre of the line of writing was
@@ -22,7 +22,7 @@ Polybius has enumerated other methods of cryptography.
 
 The art was in use also amongst the Romans. Upon the revival of letters
 methods of secret correspondence were introduced into private business,
-diplomacy, plots, &c.; and as the study of this art has always presented
+[[Diplomacy|diplomacy]], plots, &c.; and as the study of this art has always presented
 attractions to the ingenious, a curious body of literature has been the
 result.
 
@@ -32,9 +32,9 @@ has passed through many editions, and has supplied the basis upon which
 subsequent writers have worked. It was begun at the desire of the duke
 of Bavaria; but Trithemius did not at first intend to publish it, on the
 ground that it would be injurious to public interests. A
-_Steganographia_ published at Lyons (? 1551) and later at Frankfort
+_Steganographia_ published at [[Lyons]] (? 1551) and later at [[Frankfort]]
 (1606), is also attributed to him. The next treatises of importance were
-those of Giovanni Battista della Porta, the Neapolitan mathematician,
+those of Giovanni Battista [[Della Porta|della Porta]], the Neapolitan mathematician,
 who wrote _De furtivis litterarum notis_, 1563; and of Blaise de
 Vigenere, whose _Traite des chiffres_ appeared in Paris, 1587. Bacon
 proposed an ingenious system of cryptography on the plan of what is
@@ -43,13 +43,13 @@ influence of his great name, he gave an intimation as to the general
 opinion formed of it and as to the classes of men who used it. For when
 prosecuting the earl of Somerset in the matter of the poisoning of
 Overbury, he urged it as an aggravation of the crime that the earl and
-Overbury "had cyphers and jargons for the king and queen and all the
+Overbury "had cyphers and [[Jargon|jargons]] for the king and queen and all the
 great men,--things seldom used but either by princes and their
 ambassadors and ministers, or by such as work or practise against or, at
 least, upon princes."
 
 Other eminent Englishmen were afterwards connected with the art. John
-Wilkins, subsequently bishop of Chester, published in 1641 an anonymous
+Wilkins, subsequently bishop of [[Chester]], published in 1641 an anonymous
 treatise entitled _Mercury, or The Secret and Swift Messenger_,--a small
 but comprehensive work on the subject, and a timely gift to the
 diplomatists and leaders of the Civil War. The deciphering of many of
@@ -63,11 +63,11 @@ this art, formerly scarcely known to any but the secretaries of princes,
 &c., had grown very common and familiar during the civil commotions, "so
 that now there is scarce a person of quality but is more or less
 acquainted with it, and doth, as there is occasion, make use of it."
-Subsequent writers on the subject are John Falconer (_Cryptomenysis
+Subsequent writers on the subject are John [[Falconer]] (_Cryptomenysis
 patefacta_), 1685; John Davys (_An Essay on the Art of Decyphering: in
 which is inserted a Discourse of Dr Wallis_), 1737; Philip Thicknesse
 (_A Treatise on the Art of Decyphering and of Writing in Cypher_), 1772;
-William Blair (the writer of the comprehensive article "Cipher" in
+William [[Blair]] (the writer of the comprehensive article "Cipher" in
 Rees's _Cyclopaedia_), 1819; and G. von Marten (Cours _diplomatique_),
 1801 (a fourth edition of which appeared in 1851). Perhaps the best
 modern work on this subject is the _Kryptographik_ of J. L. Kluber
@@ -77,8 +77,8 @@ cryptography are classified. Amongst others of lesser merit who have
 treated of this art may be named Gustavus Selenus (i.e. Augustus, duke
 of Brunswick), 1624; Cospi, translated by Niceron in 1641; the marquis
 of Worchester, 1659; Kircher, 1663; Schott, 1665; Ludwig Heinrich
-Hiller, 1682; Comiers; 1690; Baring, 1737; Conrad, 1739, &c. See also a
-paper on _Elizabethan Cipher-books_ by A. J. Butler in the
+[[Hiller]], 1682; Comiers; 1690; [[Baring]], 1737; Conrad, 1739, &c. See also a
+paper on _Elizabethan Cipher-books_ by A. J. [[Butler]] in the
 Bibliographical Society's _Transactions_, London, 1901.
 
 Schemes of cryptography are endless in their variety. Bacon lays down
@@ -93,19 +93,19 @@ p. 13).
 
 The simplest and commonest of all the ciphers is that in which the
 writer selects in place of the proper letters certain other letters in
-regular advance. This method of transposition was used by Julius Caesar.
+regular advance. This method of transposition was used by [[Julius]] [[Caesar]].
 He, "per quartam elementorum literam," wrote _d_ for _a_, _e_ for _b_,
 and so on. There are instances of this arrangement in the Jewish rabbis,
-and even in the sacred writers. An illustration of it occurs in Jeremiah
+and even in the sacred writers. An illustration of it occurs in [[Jeremiah]]
 (xxv. 26), where the prophet, to conceal the meaning of his prediction
-from all but the initiated, writes _Sheshak_ instead of Babel (Babylon),
+from all but the initiated, writes _Sheshak_ instead of [[Babel]] ([[Babylon]]),
 the place meant; i.e. in place of using the second and twelfth letters
 of the Hebrew alphabet (_b_, _b_, _l_) from the beginning, he wrote the
 second and twelfth (_sh_, _sh_, _k_) from the end. To this kind of
-cipher-writing Buxtorf gives the name Athbash (from _a_ the first letter
+cipher-writing [[Buxtorf]] gives the name Athbash (from _a_ the first letter
 of the Hebrew alphabet, and _th_ the last; _b_ the second from the
 beginning, and _h_ the second from the end). Another Jewish cabalism of
-like nature was called Albam; of which an example is in Isaiah vii. 6,
+like nature was called Albam; of which an example is in [[Isaiah]] vii. 6,
 where Tabeal is written for Remaliah. In its adaptation to English this
 method of transposition, of which there are many modifications, is
 comparatively easy to decipher. A rough key may be derived from an
@@ -131,7 +131,7 @@ transposition, rules for deciphering may be derived from Breithaupt's
 _Ars decifratoria_ (1737), and other treatises.
 
 Bacon remarks that though ciphers were commonly in letters and alphabets
-yet they might be in words. Upon this basis codes have been constructed,
+yet they might be in words. Upon this basis [[Code|codes]] have been constructed,
 classified words taken from dictionaries being made to represent
 complete ideas. In recent years such codes have been adapted by
 merchants and others to communications by telegraph, and have served the
@@ -153,11 +153,11 @@ entirely of numerals purposely complicated, was in 1858 deciphered by
 Professor Wheatstone, the inventor of the ingenious crypto-machine, and
 printed by the Philobiblon Society. Other letters of the like character
 have been published in the _First Report of the Royal Commission on
-Historical Manuscripts_ (1870). In the second and subsequent reports of
+Historical [[Manuscript|Manuscripts]]_ (1870). In the second and subsequent reports of
 the same commission several keys to ciphers have been catalogued, which
 seem to refer themselves to the methods of cryptography under notice. In
 this connexion also should be mentioned the "characters," which the
-diarist Pepys drew up when clerk to Sir George Downing and secretary to
+diarist Pepys drew up when clerk to Sir George [[Downing]] and secretary to
 the earl of Sandwich and to the admiralty, and which are frequently
 mentioned in his journal. Pepys describes one of them as "a great large
 character," over which he spent much time, but which was at length
@@ -177,7 +177,7 @@ court of Vienna in 1524, of that used by Sir Thomas Smith at Paris in
 1563, and of that of Sir Edward Stafford in 1586; in all of which
 arbitrary marks are introduced. The first English system of
 shorthand--Bright's _Characterie_, 1588--almost belongs to the same
-category of ciphers. A favourite system of Charles I., used by him
+[[Category|category]] of ciphers. A favourite system of Charles I., used by him
 during the year 1646, was one made up of an alphabet of twenty-four
 letters, which were represented by four simple strokes varied in length,
 slope and position. This alphabet is engraved in Clive's _Linear System
@@ -198,7 +198,7 @@ of the working of these ciphers may be found in the treatises named in
 this article. The deciphering of them is one of the most difficult of
 tasks. A method of this kind is explained in the Latin and English lives
 of Dr John Barwick, whose correspondence with Hyde, afterwards earl of
-Clarendon, was carried on in cryptography. In a letter dated 20th
+[[Clarendon]], was carried on in cryptography. In a letter dated 20th
 February 1659/60, Hyde, alluding to the skill of his political opponents
 in deciphering, says that "nobody needs to fear them, if they write
 carefully in good cyphers." In his next he allays his correspondent's
@@ -219,7 +219,7 @@ apprehensiveness as to the deciphering of their letters.
   been in their power."
 
 An excellent modification of the key-word principle was constructed by
-Admiral Sir Francis Beaufort.
+Admiral Sir Francis [[Beaufort]].
 
 Ciphers have been constructed on the principle of altering the places of
 the letters without changing their powers. The message is first written

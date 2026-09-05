@@ -11,11 +11,11 @@ tags: [numismatics, mountains-studies]
 BERTAT (Arab. _Jebalain_), negroes of the Shangalla group of tribes,
 mainly agriculturists. They occupy the valleys of the Yabus and Tumat,
 tributaries of the Blue Nile. They are shortish and very black, with
-projecting jaws, broad noses and thick lips. By both sexes the hair is
+projecting jaws, broad noses and thick [[Lip|lips]]. By both sexes the hair is
 worn short or the head shaved; on cheeks and temple are tribal marks in
 the form of scars. The huts of the Bertat are circular, the floor raised
 on short poles. Their weapons are the spear, throwing-club, sword and
-dagger, and also the _kulbeda_ or throwing-knife. Blocks of salt are the
+[[Dagger|dagger]], and also the _kulbeda_ or throwing-knife. Blocks of salt are the
 favourite form of currency. Gold washing is practised. Nature worship
 still struggles against the spread of Mahommedanism. The Bertat,
 estimated to number some 80,000, c. 1880, were nearly exterminated

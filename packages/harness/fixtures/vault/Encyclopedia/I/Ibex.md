@@ -7,17 +7,17 @@ Tirol, but is now confined to the Alps which separate Valais from
 Piedmont, and to the lofty peaks of Savoy, where its existence is mainly
 due to game-laws. The ibex is a handsome animal, measuring about 4½ ft.
 in length and standing about 40 in. at the shoulder. The skin is covered
-in summer with a short fur of an ashy-grey colour, and in winter with
+in summer with a short [[Fur|fur]] of an ashy-grey colour, and in winter with
 much longer yellowish-brown hair concealing a dense fur beneath. The
-horns of the male rise from the crest of the skull, and after bending
+[[Horn|horns]] of the male rise from the crest of the skull, and after bending
 gradually backwards terminate in smooth tips; the front surface of the
-remainder carrying bold transverse ridges or knots. About 1 yd. is the
+remainder carrying bold transverse ridges or [[Knot|knots]]. About 1 yd. is the
 maximum recorded length of ibex-horns. The fact that the fore-legs are
 somewhat shorter than those behind enables the ibex to ascend mountain
 slopes with more facility than it can descend, while its hoofs are as
 hard as steel, rough underneath and when walking over a flat surface
 capable of being spread out. These, together with its powerful sinews,
-enable it to take prodigious leaps, to balance itself on the smallest
+enable it to take prodigious leaps, to [[Balance|balance]] itself on the smallest
 foothold and to scale almost perpendicular rocks. Ibex live habitually
 at a greater height than chamois or any other Alpine mammals, their
 vertical limit being the line of perpetual snow. There they rest in
@@ -35,7 +35,7 @@ frequently driven to the mountains along with the goats, in whose
 company they would afterwards return. Even wild ibex have been known to
 stray among the herds of goats, although they shun the society of
 chamois. Its flesh is said to resemble mutton, but has a flavour of
-game.
+[[Game|game]].
 
 [Illustration: The Ibex (_Capra ibex_).]
 

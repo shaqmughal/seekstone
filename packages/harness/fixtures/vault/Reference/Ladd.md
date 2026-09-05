@@ -8,10 +8,10 @@ Spring Street Congregational Church of Milwaukee in 1871-1879; and was
 professor of philosophy at Bowdoin College in 1879-1881, and Clark
 professor of metaphysics and moral philosophy at Yale from 1881 till
 1901, when he took charge of the graduate department of philosophy and
-psychology; he became professor emeritus in 1905. In 1879-1882 he
+psychology; he became professor [[Emeritus|emeritus]] in 1905. In 1879-1882 he
 lectured on theology at Andover Theological Seminary, and in 1883 at
-Harvard, where in 1895-1896 he conducted a graduate seminary in ethics.
-He lectured in Japan in 1892, 1899 (when he also visited the
+Harvard, where in 1895-1896 he conducted a graduate seminary in [[Ethics|ethics]].
+He lectured in [[Japan]] in 1892, 1899 (when he also visited the
 universities of India) and 1906-1907. He was much influenced by Lotze,
 whose _Outlines of Philosophy_ he translated (6 vols., 1877), and was
 one of the first to introduce (1879) the study of experimental
@@ -29,7 +29,7 @@ by him.
   philosophy," _Philosophy of the Mind_ (1891); _Philosophy of
   Knowledge_ (1897); _A Theory of Reality_ (1899); _Philosophy of
   Conduct_ (1902); and _Philosophy of Religion_ (2 vols., 1905); _In
-  Korea with Marquis Ito_ (1908); and _Knowledge, Life and Reality_
+  [[Korea]] with Marquis [[Ito]]_ (1908); and _Knowledge, Life and Reality_
   (1909).
 
 ## See also

@@ -8,15 +8,15 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Haupt"
 # Haupt
 
 HAUPT, MORITZ (1808-1874), German philologist, was born at Zittau, in
-Lusatia, on the 27th of July 1808. His early education was mainly
-conducted by his father, Ernst Friedrich Haupt, burgomaster of Zittau, a
+[[Lusatia]], on the 27th of July 1808. His early education was mainly
+conducted by his father, Ernst [[Friedrich]] Haupt, burgomaster of Zittau, a
 man of good scholarly attainment, who used to take pleasure in turning
 German hymns or Goethe's poems into Latin, and whose memoranda were
 employed by G. Freytag in the 4th volume of his _Bilder aus der
 deutschen Vergangenheit_. From the Zittau gymnasium, where he spent the
 five years 1821-1826, Haupt removed to the university of Leipzig with
 the intention of studying theology; but the natural bent of his mind and
-the influence of Professor G. Hermann soon turned all his energies in
+the influence of Professor G. [[Hermann]] soon turned all his energies in
 the direction of philosophy. On the close of his university course
 (1830) he returned to his father's house, and the next seven years were
 devoted to quiet work, not only at Greek, Latin and German, but at Old
@@ -30,8 +30,8 @@ he became professor extraordinarius (1841) and then professor ordinarius
 (1843); and in 1842 he married Louise Hermann, the daughter of his
 master and colleague. But the peaceful and prosperous course opening out
 before him at the university of Leipzig was brought to a sudden close.
-Having taken part in 1849 with Otto Jahn and Theodor Mommsen in a
-political agitation for the maintenance of the imperial constitution,
+Having taken part in 1849 with Otto [[Jahn]] and Theodor Mommsen in a
+political agitation for the [[Maintenance|maintenance]] of the imperial constitution,
 Haupt was deprived of his professorship by a decree of the 22nd of April
 1851. Two years later, however, he was called to succeed Lachmann at the
 university of Berlin; and at the same time the Berlin academy, which had
@@ -56,7 +56,7 @@ temperament. He died, of heart disease, on the 5th of February 1874.
   and Propertius (3rd ed., 1868), of Horace (3rd ed., 1871) and of
   Virgil (2nd ed., 1873). As early as 1836, with Hoffmann von
   Fallersleben, he started the _Altdeutsche Blatter_, which in 1841 gave
-  place to the _Zeitschrift fur deutsches Altertum_, of which he
+  place to the _Zeitschrift [[Fur|fur]] deutsches Altertum_, of which he
   continued editor till his death. Hartmann von Aue's _Erec_ (1839) and
   his _Lieder_, _Buchlein_ and _Der arme Heinrich_ (1842), Rudolf von
   Ems's _Guter Gerhard_ (1840) and Conrad von Wurzburg's _Engelhard_
@@ -67,7 +67,7 @@ temperament. He died, of heart disease, on the 5th of February 1874.
   in that direction. Three volumes of his _Opuscula_ were published at
   Leipzig (1875-1877).
 
-  See Kirchhoff, "Gedachtnisrede," in _Abhandl. der Konigl. Akad. der
+  See [[Kirchhoff]], "Gedachtnisrede," in _Abhandl. der Konigl. Akad. der
   Wissenschaften zu Berlin_ (1875); Otto Belger, _Moritz Haupt als
   Lehrer_ (1879); Sandys, _Hist. Class. Schol._ iii. (1908).
 

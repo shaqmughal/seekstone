@@ -4,12 +4,12 @@ CARBON (symbol C, atomic weight 12), one of the chemical non-metallic
 elements. It is found native as the diamond (q.v.), graphite (q.v.), as
 a constituent of all animal and vegetable tissues and of coal and
 petroleum. It also enters (as carbonates) into the composition of many
-minerals, such as chalk, dolomite, calcite, witherite, calamine and
+minerals, such as chalk, [[Dolomite|dolomite]], [[Calcite|calcite]], witherite, calamine and
 spathic iron ore. In combination with oxygen (as carbon dioxide) it is
 also found to a small extent in the atmosphere. It is a solid substance
 which occurs in several modifications, differing very much in their
 physical properties. _Amorphous carbon_ is obtained by the destructive
-distillation of many carbon compounds, the various kinds differing very
+distillation of many carbon [[Compound|compounds]], the various kinds differing very
 greatly as regards physical characters and purity, according to the
 substance used for their preparation. The most common varieties met with
 are lampblack, gas carbon, wood charcoal, animal charcoal and coke.
@@ -18,7 +18,7 @@ substances rich in carbon, with a limited supply of air; the products of
 combustion being conducted into condensing chambers in which cloths are
 suspended, on which the carbon collects. It is further purified by
 heating in closed vessels, but even then it still contains a certain
-amount of mineral matter and more or less hydrocarbons. It is used in
+amount of mineral matter and more or less [[Hydrocarbon|hydrocarbons]]. It is used in
 the manufacture of printer's ink, in the preparation of black paint and
 in calico printing. _Gas carbon_ is produced by the destructive
 distillation of coal in the manufacture of illuminating gas (see GAS:
@@ -30,8 +30,8 @@ for arc lights, and for the negative element in the Bunsen battery.
 _Charcoal_ is a porous form of carbon; several varieties exist. _Sugar
 charcoal_ is obtained by the carbonization of sugar. It is purified by
 boiling with acids, to remove any mineral matter, and is then ignited
-for a long time in a current of chlorine in order to remove the last
-traces of hydrogen. _Animal charcoal_ (bone black) is prepared by
+for a long time in a current of [[Chlorine|chlorine]] in order to remove the last
+traces of hydrogen. _Animal charcoal_ ([[Bone|bone]] black) is prepared by
 charring bones in iron retorts. It is a very impure form of carbon,
 containing on the average about 80% of calcium phosphate. It possesses a
 much greater decolorizing and absorbing power than wood charcoal. A
@@ -56,14 +56,14 @@ and the volatile products are condensed and utilized.
   as low as 300 deg. C., and is then a soft, very friable material
   possessing a low ignition point. When made at higher temperatures it
   is much more dense, and its ignition point is considerably higher.
-  Charcoal burns when heated in air, usually without the formation of
+  Charcoal [[Burns|burns]] when heated in air, usually without the formation of
   flame, although a flame is apparent if the temperature be raised. It
   is characterized by its power of absorbing gases; thus, according to
   J. Hunter [_Phil. Mag._, 1863 (4), 25, p. 363], one volume of charcoal
   absorbs (at 0 deg. C. and 760 mm. pressure) 171.7 ccs. of ammonia,
   86.3 ccs. of nitrous oxide, 67.7 ccs. of carbon monoxide, 21.2 ccs. of
   carbon dioxide, 17.9 ccs. of oxygen, 15.2 ccs. of nitrogen, and 4.4
-  ccs. of hydrogen [see also J. Dewar, _Ann. Chim. Phys._, 1904 (8), 3,
+  ccs. of hydrogen [see also J. [[Dewar]], _Ann. Chim. Phys._, 1904 (8), 3,
   p. 5]. It also has the power of absorbing colouring matters from
   solution. Charcoal is used as a fuel and as a reducing agent in
   metallurgical processes.
@@ -73,10 +73,10 @@ and the volatile products are condensed and utilized.
   of hydrogen (M. Berthelot); it also unites directly with fluorine,
   producing, chiefly, carbon tetrafluoride CF4. It burns when heated in
   an atmosphere of oxygen, forming carbon dioxide, and when heated in
-  sulphur vapour it forms carbon bisulphide (q.v.). When heated with
+  sulphur vapour it forms [[Carbon Bisulphide|carbon bisulphide]] (q.v.). When heated with
   nitrogenous substances, in the presence of carbonated or caustic
-  alkali, it forms cyanides. It combines directly with silicon, at the
-  temperature of the electric furnace, yielding _carborundum_, SiC; and
+  alkali, it forms [[Cyanide|cyanides]]. It combines directly with silicon, at the
+  temperature of the electric furnace, yielding _[[Carborundum|carborundum]]_, SiC; and
   H. Moissan has also shown that it will combine with many metals at
   the temperature of the electric furnace, to form carbides (q.v.).
 
@@ -113,7 +113,7 @@ and the volatile products are condensed and utilized.
   CH2(COOC2H5)2 = 2C2H4 + 2H2O + C3O2. At ordinary temperatures it is a
   colourless gas, possessing a penetrating and suffocating smell. It
   liquefies at 7 deg. C. It is an exceedingly reactive compound,
-  combining with water to form malonic acid, with hydrogen chloride to
+  combining with water to form [[Malonic Acid|malonic acid]], with hydrogen chloride to
   form malonyl chloride, and with ammonia to form malonamide. When kept
   for some time in sealed tubes it changes to a yellowish liquid, from
   which a yellow flocculent substance gradually separates, and finally
@@ -121,16 +121,16 @@ and the volatile products are condensed and utilized.
   polymeric form. Its vapour density agrees with the molecular formula
   C3O2, and this formula is also confirmed by exploding the gas with
   oxygen and measuring the amount of carbon dioxide produced (see
-  KETENES).
+  [[Ketenes|KETENES]]).
 
   _Carbon monoxide_, CO, is found to some extent in volcanic gases. It
   was first prepared in 1776 by J.M.F. Lassone (_Mem. Acad. Paris_) by
   heating zinc oxide with carbon, and was for some time considered to be
-  identical with hydrogen. Cruikshank concluded that it was an oxide of
+  identical with hydrogen. [[Cruikshank]] concluded that it was an oxide of
   carbon, a fact which was confirmed by Clement and J.B. Desormes (_Ann.
   Chim. Phys._, 1801, 38, p. 285). It may be prepared by passing carbon
   dioxide over red-hot carbon, or red-hot iron; by heating carbonates
-  (magnesite, chalk, &c.) with zinc dust or iron; or by heating many
+  ([[Magnesite|magnesite]], chalk, &c.) with zinc [[Dust|dust]] or iron; or by heating many
   metallic oxides with carbon. It may also be prepared by heating formic
   and oxalic acids (or their salts) with concentrated sulphuric acid (in
   the case of oxalic acid, an equal volume of carbon dioxide is
@@ -158,24 +158,24 @@ and the volatile products are condensed and utilized.
   CO.
 
   _Carbon dioxide_, CO2, is a gas first distinguished from air by van
-  Helmont (1577-1644), who observed that it was formed in fermentation
+  [[Helmont]] (1577-1644), who observed that it was formed in fermentation
   processes and during combustion, and gave to it the name _gas
   sylvestre_. J. Black (_Edin. Phys. and Lit. Essays_, 1755) showed that
   it was a constituent of the carbonated alkalis and called it "fixed
-  air." T.O. Bergman, in 1774, pointed out its acid character, and A.L.
+  air." T.O. [[Bergman]], in 1774, pointed out its acid character, and A.L.
   Lavoisier (1781-1788) first proved it to be an oxide of carbon by
   burning carbon in the oxygen obtained from the decomposition of
   mercuric oxide. It is a regular constituent of the atmosphere, and is
   found in many spring waters and in volcanic gases; it also occurs in
   the uncombined condition at the Grotto del Cane (Naples) and in the
-  Poison Valley (Java). It is a constituent of the minerals cerussite,
-  malachite, azurite, spathic iron ore, calamine, strontianite,
-  witherite, calcite aragonite, limestone, &c. It may be prepared by
+  Poison Valley (Java). It is a constituent of the minerals [[Cerussite|cerussite]],
+  malachite, [[Azurite|azurite]], spathic iron ore, calamine, strontianite,
+  witherite, calcite [[Aragonite|aragonite]], [[Limestone|limestone]], &c. It may be prepared by
   burning carbon in excess of air or oxygen, by the direct decomposition
   of many carbonates by heat, and by the decomposition of carbonates
   with mineral acids, M2CO8 + 2HCl = 2MCl + H2O + CO2. It is also
   formed in ordinary fermentation processes, in the combustion of all
-  carbon compounds (oil, gas, candles, coal, &c.), and in the process of
+  carbon compounds (oil, gas, [[Candle|candles]], coal, &c.), and in the process of
   respiration.
 
   It is a colourless gas, possessing a faint pungent smell and a
@@ -236,7 +236,7 @@ and the volatile products are condensed and utilized.
   _Carbon oxysulphide_, COS, was first prepared by C. Than in 1867
   (_Ann. Suppl._, 5, p. 236) by passing carbon monoxide and sulphur
   vapour through a tube at a moderate heat. It is also formed by the
-  action of sulphuretted hydrogen on the isocyanic esters, 2CONC2H5 +
+  action of sulphuretted hydrogen on the isocyanic [[Esters|esters]], 2CONC2H5 +
   H2S = COS + CO(NHC2H5)2, by the action of concentrated sulphuric acid
   on the isothiocyanic esters, RNCS + H2O = COS + RNH2, or of dilute
   sulphuric acid on the thiocyanates. In the latter reaction various

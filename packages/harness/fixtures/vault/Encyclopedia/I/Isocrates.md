@@ -7,7 +7,7 @@ type: source
 
 # Isocrates
 
-ISOCRATES (436-338 B.C.), Attic orator, was the son of Theodorus, an
+ISOCRATES (436-338 B.C.), [[Attic]] orator, was the son of Theodorus, an
 Athenian citizen of the deme of Erchia--the same in which, about 431
 B.C., Xenophon was born--who was sufficiently wealthy to have served the
 state as choregus. The fact that he possessed slaves skilled in the
@@ -16,19 +16,19 @@ is mentioned by the comic poet Strattis.[1] Several popular "sophists"
 are named as teachers of the young Isocrates. Like other sons of
 prosperous parents, he may have been trained in such grammatical
 subtleties as were taught by Protagoras or Prodicus, and initiated by
-Theramenes into the florid rhetoric of Gorgias, with whom at a later
+Theramenes into the florid rhetoric of [[Gorgias]], with whom at a later
 time (about 390 B.C.) he was in personal intercourse. He tells us that
 his father had been careful to provide for him the best education which
 Athens could afford. A fact of greater interest is disclosed by Plato's
 _Phaedrus_ (278 E). "Isocrates is still young, Phaedrus," says the
-Socrates of that dialogue, "but I do not mind telling you what I
+Socrates of that [[Dialogue|dialogue]], "but I do not mind telling you what I
 prophesy of him.... It would not surprise me if, as years go on, he
 should make all his predecessors seem like children in the kind of
 oratory to which he is now addressing himself, or if--supposing this
 should not content him--some divine impulse should lead him to greater
 things. My dear Phaedrus, a certain philosophy is inborn in him." This
 conversation is dramatically supposed to take place about 410 B.C. It is
-unnecessary to discuss here the date at which the _Phaedrus_ was
+unnecessary to [[Discus|discuss]] here the date at which the _Phaedrus_ was
 actually composed. From the passage just cited it is at least clear that
 there had been a time--while Isocrates could still be called "young"--at
 which Plato had formed a high estimate of his powers.
@@ -36,14 +36,14 @@ which Plato had formed a high estimate of his powers.
 Isocrates took no active part in the public life of Athens; he was not
 fitted, as he tells us, for the contests of the popular assembly or of
 the law-courts. He lacked strength of voice--a fatal defect in the
-ecclesia, when an audience of many thousands was to be addressed in the
+[[Ecclesia|ecclesia]], when an audience of many thousands was to be addressed in the
 open air; he was also deficient in "boldness." He was, in short, the
-physical opposite of the successful Athenian demagogue in the generation
+physical opposite of the successful Athenian [[Demagogue|demagogue]] in the generation
 after that of Pericles; by temperament as well as taste he was more in
 sympathy with the sedate decorum of an older school. Two ancient
 biographers have, however, preserved a story which, if true, would show
 that this lack of voice and nerve did not involve any want of moral
-courage. During the rule of the Thirty Tyrants, Critias denounced
+courage. During the rule of the Thirty Tyrants, [[Critias]] denounced
 Theramenes, who sprang for safety to the sacred hearth of the council
 chamber. Isocrates alone, it is said, dared at that moment to plead for
 the life of his friend.[2] Whatever may be the worth of the story, it
@@ -66,11 +66,11 @@ work which Isocrates afterwards preferred to ignore. Nowhere, indeed,
 does he say that he had not written forensic speeches. But he frequently
 uses a tone from which that inference might be drawn. He loves to
 contrast such petty concerns as engage the forensic writer with those
-larger and nobler themes which are treated by the politician. This helps
+larger and nobler themes which are treated by the politician. This [[Helps|helps]]
 to explain how it could be asserted--by his adopted son, Aphareus--that
 he had written nothing for the law-courts. Whether the assertion was due
-to false shame or merely to ignorance, Dionysius of Halicarnassus
-decisively disposes of it. Aristotle had, indeed, he says, exaggerated
+to false shame or merely to [[Ignorance|ignorance]], [[Dionysius]] of [[Halicarnassus]]
+decisively disposes of it. [[Aristotle]] had, indeed, he says, exaggerated
 the number of forensic speeches written by Isocrates; but some of those
 which bore his name were unquestionably genuine, as was attested by one
 of the orator's own pupils, Cephisodorus. The real vocation of Isocrates
@@ -83,31 +83,31 @@ _Panegyricus_--we see a really remarkable power of grasping a complex
 subject, of articulating it distinctly, of treating it, not merely with
 effect but luminously, at once in its widest bearings and in its most
 intricate details. Young men could learn more from Isocrates than the
-graces of style; nor would his success have been what it was if his
+[[Graces|graces]] of style; nor would his success have been what it was if his
 skill had been confined to the art of expression.
 
 It was about 392 B.C.--when he was forty-four--that he opened his school
-at Athens near the Lyceum. In 339 B.C. he describes himself as revising
+at Athens near the [[Lyceum]]. In 339 B.C. he describes himself as revising
 the _Panathenaicus_ with some of his pupils; he was then ninety-seven.
 The celebrity enjoyed by the school of Isocrates is strikingly attested
 by ancient writers. Cicero describes it as that school in which the
-eloquence of all Greece was trained and perfected: its disciples were
+eloquence of all Greece was trained and perfected: its [[Disciple|disciples]] were
 "brilliant in pageant or in battle,"[4] foremost among the accomplished
 writers or powerful debaters of their time. The phrase of Cicero is
 neither vague nor exaggerated. Among the literary pupils of Isocrates
-might be named the historians Ephorus and Theopompus, the Attic
-archaelogist Androtion, and Isocrates of Apollonia, who succeeded his
+might be named the historians [[Ephorus]] and Theopompus, the Attic
+archaelogist [[Androtion]], and Isocrates of [[Apollonia]], who succeeded his
 master in the school. Among the practical orators we have, in the
-forensic kind, Isaeus; in the political, Leodamas of Acharnae, Lycurgus
-and Hypereides. Hermippus of Smyrna (mentioned by Athenaeus) wrote a
+forensic kind, [[Isaeus]]; in the political, Leodamas of Acharnae, [[Lycurgus]]
+and Hypereides. [[Hermippus]] of Smyrna (mentioned by [[Athenaeus]]) wrote a
 monograph on the "Disciples of Isocrates." And scanty as are now the
-sources for such a catalogue, a modern scholar[5] has still been able to
+sources for such a [[Catalogue|catalogue]], a modern scholar[5] has still been able to
 recover forty-one names. At the time when the school of Isocrates was in
 the zenith of its fame it drew disciples, not only from the shores and
 islands of the Aegean, but from the cities of Sicily and the distant
-colonies of the Euxine. As became the image of its master's spirit, it
+colonies of the Euxine. As became the [[Image|image]] of its master's spirit, it
 was truly Panhellenic. When Mausolus, prince of Caria, died in 351 B.C.,
-his widow Artemisia instituted a contest of panegyrical eloquence in
+his widow [[Artemisia]] instituted a contest of panegyrical eloquence in
 honour of his memory. Among all the competitors there was not one--if
 tradition may be trusted--who had not been the pupil of Isocrates.
 
@@ -115,12 +115,12 @@ Meanwhile the teacher who had won this great reputation had also been
 active as a public writer. The most interesting and most characteristic
 works of Isocrates are those in which he deals with the public questions
 of his own day. The influence which he thus exercised throughout Hellas
-might be compared to that of an earnest political essayist gifted with a
+might be compared to that of an [[Earnest|earnest]] political essayist gifted with a
 popular and attractive style. And Isocrates had a dominant idea which
 gained strength with his years, until its realization had become, we
 might say, the main purpose of his life. This idea was the invasion of
 Asia by the united forces of Greece. The Greek cities were at feud with
-each other, and were severally torn by intestine faction. Political
+each other, and were severally torn by intestine [[Faction|faction]]. Political
 morality was become a rare and a somewhat despised distinction. Men who
 were notoriously ready to sell their cities for their private gain were,
 as Demosthenes says, rather admired than otherwise.[6] The social
@@ -131,28 +131,28 @@ and Greece was full of men who were ready to take service with any
 captain of mercenaries, or, failing that, with any leader of
 desperadoes. Isocrates draws a vivid and terrible picture of these
 evils. The cure for them, he firmly believed, was to unite the Greeks in
-a cause which would excite a generous enthusiasm. Now was the time, he
+a cause which would excite a generous [[Enthusiasm|enthusiasm]]. Now was the time, he
 thought, for that enterprise in which Xenophon's comrades had virtually
-succeeded, when the headlong rashness of young Cyrus threw away their
+succeeded, when the headlong rashness of young [[Cyrus]] threw away their
 reward with his own life.[7] The Persian empire was unsound to the
 core--witness the retreat of the Ten Thousand: let united Greece attack
 it and it must go down at the first onset. Then new wealth would flow
 into Greece; and the hungry pariahs of Greek society would be drafted
 into fertile homes beyond the Aegean.
 
-A bright vision; but where was the power whose spell was first to unite
+A [[Bright|bright]] vision; but where was the power whose spell was first to unite
 discordant Greece, and, having united it, to direct its strength against
 Asia? That was the problem. The first attempt of Isocrates to solve it
 is set forth in his splendid _Panegyricus_ (380 B.C.). Let Athens and
 Sparta lay aside their jealousies. Let them assume, jointly, a
 leadership which might be difficult for either, but which would be
 assured to both. That eloquent pleading failed. The next hope was to
-find some one man equal to the task. Jason of Pherae, Dionysius I. of
-Syracuse, Archidamus III., son of Agesilaus--each in turn rose as a
-possible leader of Greece before the imagination of the old man who was
+find some one man equal to the task. [[Jason]] of Pherae, Dionysius I. of
+Syracuse, [[Archidamus]] III., son of Agesilaus--each in turn rose as a
+possible leader of Greece before the [[Imagination|imagination]] of the old man who was
 still young in his enthusiastic hope, and one after another they failed
 him. But now a greater than any of these was appearing on the Hellenic
-horizon, and to this new luminary the eyes of Isocrates were turned with
+[[Horizon|horizon]], and to this new luminary the eyes of Isocrates were turned with
 eager anticipation. Who could lead united Greece against Asia so fitly
 as the veritable representative of the Heracleidae, the royal descendant
 of the Argive line--a king of half-barbarians it is true, but by race,
@@ -163,10 +163,10 @@ of Isocrates in Philip lasted at any rate down to the eve of
 Chaeronea.[8] Whether it survived that event is a doubtful point. The
 popular account of the orator's death ascribed it to the mental shock
 which he received from the news of Philip's victory. He was at Athens,
-in the palaestra of Hippocrates, when the tidings came. He repeated
-three verses in which Euripides names three foreign Conquerors of
+in the palaestra of [[Hippocrates]], when the tidings came. He repeated
+three verses in which [[Euripides]] names three foreign Conquerors of
 Greece--Danaus, Pelops, Cadmus--and four days later he died of voluntary
-starvation. Milton (perhaps thinking of Eli) seems to conceive the death
+starvation. Milton (perhaps thinking of [[Eli]]) seems to conceive the death
 of Isocrates as instantaneous:--
 
       "As that dishonest victory
@@ -215,15 +215,15 @@ to have taken money only from aliens; but, as might have been expected,
 the fame of his school exposed him to attacks on the ground of his
 gains, which his enemies studiously exaggerated. After the financial
 reform of 378 B.C. he was one of those 1200 richest citizens who
-constituted the twenty unions ([Greek: symmoriai]) for the assessment of
+constituted the twenty unions ([Greek: symmoriai]) for the [[Assessment|assessment]] of
 the war-tax ([Greek: eisphora]). He had discharged several public
 services ([Greek: leitourgiai]); in particular, he had thrice served as
 trierarch. He married Plathane, the widow of the "sophist" Hippias of
 Elis, and then adopted her son Aphareus, afterwards eminent as a
 rhetorician and a tragic poet. In 355 B.C. he had his first and only
 lawsuit. A certain Megaclides (introduced into the speech under the
-fictitious name of Lysimachus) challenged him to undertake the
-trierarchy or exchange properties. This was the lawsuit which suggested
+fictitious name of [[Lysimachus]]) challenged him to undertake the
+trierarchy or [[Exchange|exchange]] properties. This was the lawsuit which suggested
 the form of the discourse which he calls the _Antidosis_ ("exchange of
 properties"--353 B.C.)--his defence of his professional life.
 
@@ -269,7 +269,7 @@ diffusion of Hellenism.[10]
 
   1. The whole tone of Greek thought in that age had taken a bent
   towards monarchy in some form. This tendency may be traced alike in
-  the practical common sense of Xenophon and in the lofty idealism of
+  the practical common sense of Xenophon and in the lofty [[Idealism|idealism]] of
   Plato. There could be no better instance of it than a well-known
   passage in the _Politics_ of Aristotle. He is speaking of the gifts
   which meet in the Greek race--a race warlike, like the Europeans, but
@@ -293,7 +293,7 @@ diffusion of Hellenism.[10]
   invasion of Asia by Alexander, as captain-general of Greece, became
   the event which actually opened new and larger destinies to the Greek
   race. The old political life of the Greek cities was worn out; in the
-  new fields which were now opened, the empire of Greek civilization
+  new [[Fields|fields]] which were now opened, the empire of Greek civilization
   entered on a career of world-wide conquest, until Greece became to
   East and West more than all that Athens had been to Greece. Athens,
   Sparta, Thebes, ceased indeed to be the chief centres of Greek life;
@@ -306,7 +306,7 @@ diffusion of Hellenism.[10]
   two of his works--the oration _On the Peace_ and the _Areopagiticus_
   (both of 355 B.C.)--he deals specially with the politics of Athens.
   The speech _On the Peace_ relates chiefly to foreign affairs. It is an
-  eloquent appeal to his fellow-citizens to abandon the dream of
+  eloquent appeal to his fellow-citizens to abandon the [[Dream|dream]] of
   supremacy, and to treat their allies as equals, not as subjects. The
   fervid orator personifies that empire, that false mistress which has
   lured Athens, then Sparta, then Athens once more, to the verge of
@@ -316,7 +316,7 @@ diffusion of Hellenism.[10]
   Athenian life had lost its old tone. Apathy to public interests,
   dissolute frivolity, tawdry display and real poverty--these are the
   features on which Isocrates dwells. With this picture he contrasts the
-  elder democracy of Solon and Cleisthenes, and, as a first step towards
+  elder democracy of Solon and [[Cleisthenes]], and, as a first step towards
   reform, would restore to the Areopagus its general censorship of
   morals. It is here, and here alone--in his comments on Athenian
   affairs at home and abroad--that we can distinctly recognize the man
@@ -336,17 +336,17 @@ diffusion of Hellenism.[10]
   groundless imputation. It cannot be too distinctly understood that,
   when Isocrates speaks of his [Greek: philosophia], he means simply his
   theory or method of "culture"--to use the only modern term which is
-  really equivalent in latitude to the Greek word as then current.[13]
+  really equivalent in [[Latitude|latitude]] to the Greek word as then current.[13]
 
   The [Greek: philosophia], or practical culture, of Isocrates was not
   in conflict, because it had nothing in common, with the Socratic or
   Platonic philosophy. The personal influence of Socrates may, indeed,
   be traced in his work. He constantly desires to make his teaching bear
-  on the practical life. His maxims of homely moral wisdom frequently
+  on the practical life. His [[Maxims|maxims]] of homely moral wisdom frequently
   recall Xenophon's _Memorabilia_. But there the relation ends. Plato
   alludes to Isocrates in perhaps three places. The glowing prophecy in
   the _Phaedrus_ has been quoted; in the _Gorgias_ a phrase of Isocrates
-  is wittily parodied; and in the _Euthydemus_ Isocrates is probably
+  is wittily parodied; and in the _[[Euthydemus]]_ Isocrates is probably
   meant by the person who dwells "on the borderland between philosophy
   and statesmanship."[14] The writings of Isocrates contain a few more
   or less distinct allusions to Plato's doctrines or works, to the
@@ -356,7 +356,7 @@ diffusion of Hellenism.[10]
   "knowledge" of the contingencies which may arise in practical life.
   "Since it is impossible for human nature to acquire any science
   ([Greek: epistemen]) by which we should know what to do or to say, in
-  the next resort I deem those wise who, as a rule, can hit what is best
+  the next resort I deem those wise who, as a rule, can [[Hit|hit]] what is best
   by their opinions" ([Greek: doxas]).[16]
 
   Isocrates should be compared with the practical teachers of his day.
@@ -400,7 +400,7 @@ diffusion of Hellenism.[10]
   the history of literary style. The old Greek critics consider him as
   representing what they call the "smooth" or "florid" mode of
   composition ([Greek: glaphyra, anthera harmonia]) as distinguished
-  from the "harsh" ([Greek: austera]) style of Antiphon and the perfect
+  from the "harsh" ([Greek: austera]) style of [[Antiphon]] and the perfect
   "mean" ([Greek: mese]) of Demosthenes. Tried by a modern standard, the
   language of Isocrates is certainly not "florid." The only sense in
   which he merits the epithet is that (especially in his earlier work)
@@ -423,13 +423,13 @@ diffusion of Hellenism.[10]
   prose rhythm. He saw clearly both its powers and its limits; poetry
   has its strict rhythms and precise metres; prose has its metres and
   rhythms, not bound by a rigid framework, yet capable of being brought
-  under certain general laws which a good ear can recognize, and which a
+  under certain general laws which a good [[Ear|ear]] can recognize, and which a
   speaker or writer may apply in the most various combinations. This
   fundamental idea of prose rhythm, or number, is that which the style
   of Isocrates has imparted to the style of Cicero. When Quintilian (x.
   1. 108) says, somewhat hyperbolically, that Cicero has artistically
   reproduced (_effinxisse_) "the force of Demosthenes, the wealth of
-  Plato, the charm of Isocrates," he means principally this smooth and
+  Plato, the [[Charm|charm]] of Isocrates," he means principally this smooth and
   harmonious rhythm. Cicero himself expressly recognizes this original
   and distinctive merit of Isocrates.[19] Thus, through Rome, and
   especially through Cicero, the influence of Isocrates, as the founder
@@ -438,28 +438,28 @@ diffusion of Hellenism.[10]
   the nearest modern analogue of that kind in which Isocrates
   excelled--especially, perhaps, to that of the great French preachers.
   Isocrates was one of the three Greek authors, Demosthenes and Plato
-  being the others, who contributed most to form the style of Bossuet.
+  being the others, who contributed most to form the style of [[Bossuet]].
 
   WORKS.--The extant works of Isocrates consist of twenty-one speeches
   or discourses and nine letters.[20] Among these, the six forensic
   speeches represent the first period of his literary life--belonging to
   the years 403-393 B.C. All six concern private causes. They may be
-  classed as follows: 1. _Action for Assault_ ([Greek: dike aikias]),
+  classed as follows: 1. _Action for Assault_ ([Greek: [[Dike|dike]] aikias]),
   Or. xx., _Against Lochites_, 394 B.C. 2. _Claim to an Inheritance_
   ([Greek: epidikasia]), Or. xix., _Aegineticus_, end of 394 or early in
   393 B.C. 3. _Actions to Recover a Deposit_: (1) Or. xxi., _Against
   Euthynus_, 403 B.C.; (2) Or. xvii., _Trapeziticus_, end of 394 or
   early in 393 B.C. 4. _Action for Damage_ ([Greek: dike blabes]), Or.
   xvi., _Concerning the Team of Horses_, 397 B.C. 5. _Special Plea_
-  ([Greek: paragraphe]), Or. xviii., _Against Callimachus_, 402 B.C. Two
+  ([Greek: paragraphe]), Or. xviii., _Against [[Callimachus]]_, 402 B.C. Two
   of these have been regarded as spurious by G. E. Benseler, viz. Or.
-  xxi., on account of the frequent hiatus and the short compact periods,
+  xxi., on account of the frequent [[Hiatus|hiatus]] and the short compact periods,
   and Or. xvii., on the first of these grounds. But we are not warranted
   in applying to the early work of Isocrates those canons which his
   mature style observed. The genuineness of the speech against Euthynus
   is recognized by Philostratus; while the _Trapeziticus_--thrice named
   without suspicion by Harpocration--is treated by Dionysius, not only
-  as authentic, but as the typical forensic work of its author. The
+  as [[Authentic|authentic]], but as the typical forensic work of its author. The
   speech against Lochites--where "a man of the people" ([Greek: tou
   plethous eis]) is the speaker--exhibits much rhetorical skill. The
   speech [Greek: Peri tou zeugous] ("concerning the team of horses") has
@@ -468,14 +468,14 @@ diffusion of Hellenism.[10]
   and namesake (who is the speaker) for their value. This is not the
   only place in which Isocrates has marked his admiration for the genius
   of Alcibiades; it appears also in the _Philippus_ and in the
-  _Busiris_. But, among the forensic speeches, we must, on the whole,
+  _[[Busiris]]_. But, among the forensic speeches, we must, on the whole,
   give the palm to the _Aegineticus_--a graphic picture of ordinary
   Greek life in the islands of the Aegean. Here--especially in the
   narrative--Isocrates makes a near approach to the best manner of
-  Lysias.
+  [[Lysias]].
 
   The remaining fifteen orations or discourses do not easily lend
-  themselves to the ordinary classification under the heads of
+  themselves to the ordinary [[Classification|classification]] under the heads of
   "deliberative" and "epideictic." Both terms must be strained; and
   neither is strictly applicable to all the pieces which it is required
   to cover. The work of Isocrates travelled out of the grooves in which
@@ -508,7 +508,7 @@ diffusion of Hellenism.[10]
   by combining the mythical matter with some topic of practical
   interest--as, in the case of _Busiris_, with the institutions of
   Egypt, or, in that of Helen, with the reforms of Theseus. The
-  _Evagoras_ (Or. ix., 365 B.C.?), the earliest known biography, is a
+  _[[Evagoras]]_ (Or. ix., 365 B.C.?), the earliest known biography, is a
   laudatory epitaph on a really able man--the Greek king of the Cyprian
   Salamis. A passage of singular interest describes how, under his rule,
   the influences of Hellenic civilization had prevailed over the
@@ -535,7 +535,7 @@ diffusion of Hellenism.[10]
   Phaedrus und die Sophistenrede des Isokrates_, Prague, 1894). As this
   piece is the prelude to his career, its epilogue is the speech on the
   "Antidosis"--so called because it has the form of a speech made in
-  court in answer to a challenge to undertake the burden of the
+  court in answer to a challenge to undertake the [[Burden|burden]] of the
   trierarchy, or else exchange properties with the challenger. The
   discourse "Against the Sophists" had stated what his art was not; this
   speech defines what it is. His own account of his [Greek:
@@ -558,7 +558,7 @@ diffusion of Hellenism.[10]
   to the king of Macedon to assume that initiative in the war on Persia
   which Isocrates had ceased to expect from any Greek city. In the view
   of Demosthenes, Philip was the representative barbarian; in that of
-  Isocrates, he is the first of Hellenes, and the natural champion of
+  Isocrates, he is the first of Hellenes, and the natural [[Champion|champion]] of
   their cause.
 
   Of those discourses which concern the internal affairs of Greece, two
@@ -569,7 +569,7 @@ diffusion of Hellenism.[10]
   ecclesia in 373 B.C. In that year Plataea had for the second time in
   its history been destroyed by Thebes. The oration--an appeal to Athens
   to restore the unhappy town--is remarkable both for the power with
-  which Theban cruelty is denounced, and for the genuine pathos of the
+  which Theban [[Cruelty|cruelty]] is denounced, and for the genuine pathos of the
   peroration. The _Archidamus_ (Or. vi.) is a speech purporting to be
   delivered by Archidamus III., son of Agesilaus, in a debate at Sparta
   on conditions of peace offered by Thebes in 366 B.C. It was demanded
@@ -586,7 +586,7 @@ diffusion of Hellenism.[10]
   Greece against Persia. The date is probably 368 B.C. Next in
   chronological order stands the letter "To the Children of Jason"
   (vi.). Jason, tyrant of Pherae, had been assassinated in 370 B.C.; and
-  no fewer than three of his successors had shared the same fate.
+  no fewer than three of his successors had shared the same [[Fate|fate]].
   Isocrates now urges Thebe, the daughter of Jason, and her
   half-brothers to set up a popular government. The date is 359 B.C.[22]
   The letter to Archidamus III. (ix.)--the same person who is the
@@ -596,7 +596,7 @@ diffusion of Hellenism.[10]
   state of Greece; the date is about 356 B.C. The letter to Timotheus
   (vii., 345 B.C.), ruler of Heraclea on the Euxine, introduces an
   Athenian friend who is going thither, and at the same time offers some
-  good counsels to the benevolent despot. The letter "to the government
+  good counsels to the benevolent [[Despot|despot]]. The letter "to the government
   of Mytilene" (viii., 350 B.C.) is a petition to a newly established
   oligarchy, begging them to permit the return of a democratic exile, a
   distinguished musician named Agenor. The first of the two letters to
@@ -642,7 +642,7 @@ diffusion of Hellenism.[10]
   first three, of the same family, have Or. xv. entire; the last two are
   from the same original, and have Or. xv. incomplete.
 
-  J. G. Baiter and H. Sauppe in their edition (1850) follow [Gamma]
+  J. G. [[Baiter]] and H. Sauppe in their edition (1850) follow [Gamma]
   "even more constantly than Bekker." Their apparatus is enriched,
   however, by a MS. to which he had not access--Ambrosianus O. 144,
   [Epsilon], which in some cases, as they recognize, has alone preserved
@@ -654,12 +654,12 @@ diffusion of Hellenism.[10]
   from the statements of ancient writers. Thus, on the strength of the
   rule ascribed to Isocrates--[Greek: phoneenta me sympiptein]--Benseler
   would remove from the text every example of hiatus (on the MSS. of
-  Isocrates, see H. Burmann, _Die handschriftliche Uberlieferung des
+  Isocrates, see H. [[Burmann]], _Die handschriftliche Uberlieferung des
   Isocrates_, Berlin, 1885-1886, and E. Drerup, in _Leipziger Studien_,
   xvii., 1895).     (R. C. J.)
 
   EDITIONS.--In _Oratores Attici_, ed. Imm. Bekker (1823, 1828); W. S.
-  Dobson (1828); J. G. Baiter and Hermann Sauppe (1850). Separately
+  [[Dobson]] (1828); J. G. Baiter and [[Hermann]] Sauppe (1850). Separately
   _Ausgewahlte Reden, Panegyrikos und Areopagitikos_, by Rudolf
   Rauchenstein, 6th ed., Karl Munscher (1908); in Teubner's series, by
   G. E. Benseler (new ed., by F. Blass, 1886-1895) and by E. Drerup
@@ -694,7 +694,7 @@ FOOTNOTES:
 
   [4] Partim in pompa, partim in acie illustres (_De orat._ ii. 24).
 
-  [5] P. Sanneg, _De schola Isocratea_ (Halle, 1867).
+  [5] P. Sanneg, _De schola Isocratea_ ([[Halle]], 1867).
 
   [6] _De falsa legat._ p. 426 [Greek: ouch opos orgizonto e kolazein
     exioun tous tauta poiountas, all' apeblepon, ezeloun, etimon, andras
@@ -712,7 +712,7 @@ FOOTNOTES:
 
   [10] Isocrates, a loyal and genuine Hellene, can yet conceive of
     Hellenic culture as shared by men not of Hellenic blood (_Panegyr._
-    50). He is thus, as Ernst Curtius has ably shown, a forerunner of
+    50). He is thus, as Ernst [[Curtius]] has ably shown, a forerunner of
     Hellenism--analogous, in the literary province, to Epameinondas and
     Timotheus in the political (_History of Greece_, v. 116, 204, tr.
     Ward).
@@ -759,7 +759,7 @@ FOOTNOTES:
     Isocrates," _Journal of Philology_, v. 266 (1874). The fact that
     Thebe, widow of Alexander of Pherae, was the daughter of Jason is
     incidentally noticed by Plutarch in his life of Pelopidas, c. 28. It
-    is this fact which gives the clue to the occasion of the letter; cf.
+    is this fact which gives the [[Clue|clue]] to the occasion of the letter; cf.
     Diod. Sic. xvi. 14.
 
 ## See also

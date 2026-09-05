@@ -1,8 +1,8 @@
 # Fiorillo
 
 FIORILLO, JOHANN DOMINICUS (1748-1821), German painter and historian of
-art, was born at Hamburg on the 13th of October 1748. He received his
-first instructions in art at an academy of painting at Bayreuth; and in
+art, was born at [[Hamburg]] on the 13th of October 1748. He received his
+first instructions in art at an academy of painting at [[Bayreuth]]; and in
 1761, to continue his studies, he went first to Rome, and next to
 Bologna, where he distinguished himself sufficiently to attain in 1769
 admission to the academy. Returning soon after to Germany, he obtained

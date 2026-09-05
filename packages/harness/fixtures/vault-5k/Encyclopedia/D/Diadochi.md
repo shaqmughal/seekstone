@@ -10,7 +10,7 @@ type: article
 DIADOCHI (Gr. [Greek: diadechesthai], to receive from another), i.e.
 "Successors," the name given to the Macedonian generals who fought for
 the empire of Alexander after his death in 323 B.C. The name includes
-Antigonus and his son Demetrius Poliorcetes, Antipater and his son
+Antigonus and his son [[Demetrius]] Poliorcetes, Antipater and his son
 Cassander, Seleucus, Ptolemy, Eumenes and Lysimachus. The kingdoms into
 which the Macedonian empire was divided under these rulers are known as
 Hellenistic. The chief were Asia Minor and Syria under the SELEUCID

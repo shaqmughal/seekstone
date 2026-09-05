@@ -25,7 +25,7 @@ to 1889. This family is descended from Alphonso (d. 1461), a natural son
 of John I., king of Portugal (d. 1433), who was a natural son of King
 Peter I., and consequently belonged to the Portuguese branch of the
 Capetian family. Alphonso was made duke of Braganza in 1442, and in 1483
-his grandson, Duke Ferdinand II., lost his life through heading an
+his grandson, Duke [[Ferdinand]] II., lost his life through heading an
 insurrection against King John II. In spite of this Ferdinand's
 descendants acquired great wealth, and several of them held high office
 under the kings of Portugal. Duke John I. (d. 1583) married into the
@@ -53,7 +53,7 @@ of the family also became extinct in the male line. His only child,
 Isabella, married Louis Gaston of Orleans, count of Eu. The exiled king,
 Miguel, founded a branch of the family of Braganza which settled in
 Bavaria, and various noble families in Portugal are descended from
-cadets of this house. The title of duke of Braganza is now borne by the
+[[Cadet|cadets]] of this house. The title of duke of Braganza is now borne by the
 eldest son of the king of Portugal.
 
 ## See also

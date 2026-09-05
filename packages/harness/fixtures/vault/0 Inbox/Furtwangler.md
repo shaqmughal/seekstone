@@ -7,7 +7,7 @@ topic: theology
 # Furtwangler
 
 FURTWANGLER, ADOLF (1853-1907), German archaeologist, was born at
-Freiburg im Breisgau, and was educated there, at Leipzig and at Munich,
+[[Freiburg]] im [[Breisgau]], and was educated there, at Leipzig and at Munich,
 where he was a pupil of H. Brunn, whose comparative method in
 art-criticism he much developed. He took part in the excavations at
 Olympia in 1878, became an assistant in the Berlin Museum in 1880, and

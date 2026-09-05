@@ -1,7 +1,7 @@
 # Hutten
 
 HUTTEN, ULRICH VON (1488-1523), was born on the 21st of April 1488, at
-the castle of Steckelberg, near Fulda, in Hesse. Like Erasmus or
+the castle of Steckelberg, near [[Fulda]], in [[Hesse]]. Like Erasmus or
 Pirckheimer, he was one of those men who form the bridge between
 Humanists and Reformers. He lived with both, sympathized with both,
 though he died before the Reformation had time fully to develop. His
@@ -19,7 +19,7 @@ Benedictine house at Fulda; the thirst for learning there seized on him,
 and in 1505 he fled from the monastic life, and won his freedom with the
 sacrifice of his worldly prospects, and at the cost of incurring his
 father's undying anger. From the Fulda cloister he went first to
-Cologne, next to Erfurt, and then to Frankfort-on-Oder on the opening in
+[[Cologne]], next to Erfurt, and then to [[Frankfort-On-Oder|Frankfort-on-Oder]] on the opening in
 1506 of the new university of that town. For a time he was in Leipzig,
 and in 1508 we find him a shipwrecked beggar on the Pomeranian coast. In
 1509 the university of Greifswald welcomed him, but here too those who
@@ -35,7 +35,7 @@ patrons, thus beginning the long list of his satires and fierce attacks
 on personal or public foes. Rostock could not hold him long; he wandered
 on to Wittenberg and Leipzig, and thence to Vienna, where he hoped to
 win the emperor Maximilian's favour by an elaborate national poem on the
-war with Venice. But neither Maximilian nor the university of Vienna
+war with Venice. But neither [[Maximilian]] nor the university of Vienna
 would lift a hand for him, and he passed into Italy, where, at Pavia, he
 sojourned throughout 1511 and part of 1512. In the latter year his
 studies were interrupted by war; in the siege of Pavia by papal troops
@@ -45,8 +45,8 @@ soldier in the emperor's army.
 
 This dark period lasted no long time; in 1514 he was again in Germany,
 where, thanks to his poetic gifts and the friendship of Eitelwolf von
-Stein (d. 1515), he won the favour of the elector of Mainz, Archbishop
-Albert of Brandenburg. Here high dreams of a learned career rose on him;
+Stein (d. 1515), he won the favour of the elector of [[Mainz]], Archbishop
+Albert of Brandenburg. Here high [[Dream|dreams]] of a learned career rose on him;
 Mainz should be made the metropolis of a grand Humanist movement, the
 centre of good style and literary form. But the murder in 1515 of his
 relative Hans von Hutten by Ulrich, duke of Württemberg, changed the
@@ -56,28 +56,28 @@ obscurorum virorum_, and with the other launched scathing letters,
 eloquent Ciceronian orations, or biting satires against the duke. Though
 the emperor was too lazy and indifferent to smite a great prince, he
 took Hutten under his protection and bestowed on him the honour of a
-laureate crown in 1517. Hutten, who had meanwhile revisited Italy, again
+[[Laureate|laureate]] crown in 1517. Hutten, who had meanwhile revisited Italy, again
 attached himself to the electoral court at Mainz; and he was there when
 in 1518 his friend Pirckheimer wrote, urging him to abandon the court
 and dedicate himself to letters. We have the poet's long reply, in an
-epistle on his "way of life," an amusing mixture of earnestness and
+[[Epistle|epistle]] on his "way of life," an amusing mixture of earnestness and
 vanity, self-satisfaction and satire; he tells his friend that his
 career is just begun, that he has had twelve years of wandering, and
 will now enjoy himself a while in patriotic literary work; that he has
 by no means deserted the humaner studies, but carries with him a little
 library of standard books. Pirckheimer in his burgher life may have ease
-and even luxury; he, a knight of the empire, how can he condescend to
+and even luxury; he, a [[Knight|knight]] of the empire, how can he condescend to
 obscurity? He must abide where he can shine.
 
 In 1519 he issued in one volume his attacks on Duke Ulrich, and then,
 drawing sword, took part in the private war which overthrew that prince;
-in this affair he became intimate with Franz von Sickingen, the champion
+in this affair he became intimate with [[Franz]] von Sickingen, the [[Champion|champion]]
 of the knightly order (Ritterstand). Hutten now warmly and openly
 espoused the Lutheran cause, but he was at the same time mixed up in the
 attempt of the "Ritterstand" to assert itself as the militia of the
 empire against the independence of the German princes. Soon after this
 time he discovered at Fulda a copy of the manifesto of the emperor Henry
-IV. against Hildebrand, and published it with comments as an attack on
+IV. against [[Hildebrand]], and published it with comments as an attack on
 the papal claims over Germany. He hoped thereby to interest the new
 emperor Charles V., and the higher orders in the empire, in behalf of
 German liberties; but the appeal failed. What Luther had achieved by
@@ -91,7 +91,7 @@ could be connected with the new outburst of genuine German poetry. The
 Minnesinger was gone; the new national singer, a Luther or a Hans Sachs,
 was heralded by the stirring lines of Hutten's pen. These have in them a
 splendid natural swing and ring, strong and patriotic, though
-unfortunately addressed to knight and landsknecht rather than to the
+unfortunately addressed to knight and [[Landsknecht|landsknecht]] rather than to the
 German people.
 
 The poet's high dream of a knightly national regeneration had a rude
@@ -106,7 +106,7 @@ the knightly movement. This also came to a disastrous end in the capture
 of the Ebernberg, and Sickingen's death; the higher nobles had
 triumphed; the archbishops avenged themselves on Lutheranism as
 interpreted by the knightly order. With Sickingen Hutten also finally
-fell. He fled to Basel, where Erasmus refused to see him, both for fear
+fell. He fled to [[Basel]], where Erasmus refused to see him, both for fear
 of his loathsome diseases, and also because the beggared knight was sure
 to borrow money from him. A paper war consequently broke out between the
 two Humanists, which embittered Hutten's last days, and stained the
@@ -116,11 +116,11 @@ the large heart of Zwingli welcomed him; he helped him with money, and
 found him a quiet refuge with the pastor of the little isle of Ufnau on
 the Zurich lake. There the frail and worn-out poet, writing swift satire
 to the end, died at the end of August or beginning of September 1523 at
-the age of thirty-five. He left behind him some debts due to
+the age of thirty-five. He left behind him some [[Debt|debts]] due to
 compassionate friends; he did not even own a single book, and all his
 goods amounted to the clothes on his back, a bundle of letters, and that
 valiant pen which had fought so many a sharp battle, and had won for the
-poor knight-errant a sure place in the annals of literature.
+poor knight-errant a sure place in the [[Annals|annals]] of literature.
 
 Ulrich von Hutten is one of those men of genius at whom propriety is
 shocked, and whom the mean-spirited avoid. Yet through his short and
@@ -131,7 +131,7 @@ painful restlessness, Hutten had much in him that strong men could love.
 He passionately loved the truth, and was ever open to all good
 influences. He was a patriot, whose soul soared to ideal schemes and a
 grand utopian restoration of his country. In spite of all, his was a
-frank and noble nature; his faults chiefly the faults of genius
+[[Frank|frank]] and noble nature; his [[Fault|faults]] chiefly the faults of genius
 ill-controlled, and of a life cast in the eventful changes of an age of
 novelty. A swarm of writings issued from his pen; at first the smooth
 elegance of his Latin prose and verse seemed strangely to miss his real
@@ -146,9 +146,9 @@ Lucian.
   life. Besides these were many admirable poems in Latin and German. It
   is not known with certainty how far Hutten was the parent of the
   celebrated _Epistolae obscurorum virorum_, that famous satire on
-  monastic ignorance as represented by the theologians of Cologne with
+  monastic [[Ignorance|ignorance]] as represented by the theologians of Cologne with
   which the friends of Reuchlin defended him. At first the
-  cloister-world, not discerning its irony, welcomed the work as a
+  cloister-world, not discerning its [[Irony|irony]], welcomed the work as a
   defence of their position; though their eyes were soon opened by the
   favour with which the learned world received it. The _Epistolae_ were
   eagerly bought up; the first part (41 letters) appeared at the end of
@@ -168,8 +168,8 @@ Lucian.
   bitter portion of the satire. See W. Brecht, _Die Verfasser der
   Epistolae obscurorum virorum_ (1904).
 
-  For a complete catalogue of the writings of Hutten, see E. Böcking's
-  _Index Bibliographicus Huttenianus_ (1858). Böcking is also the editor
+  For a complete [[Catalogue|catalogue]] of the writings of Hutten, see E. Böcking's
+  _[[Index]] Bibliographicus Huttenianus_ (1858). Böcking is also the editor
   of the complete edition of Hutten's works (7 vols., 1859-1862). A
   selection of Hutten's German writings, edited by G. Balke, appeared in
   1891. Cp. S. Szamatolski, _Huttens deutsche Schriften_ (1891). The

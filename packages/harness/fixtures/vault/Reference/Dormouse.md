@@ -26,7 +26,7 @@ characters of the genera are given in the article RODENTIA it will
 suffice to state that the typical genus _Glis_ is represented by the
 large European edible dormouse, _G. vulgaris_ (or _G. glis_), a grey
 species with black markings known in Germany as _Siebenschläfer_; the
-genus ranges from continental Europe to Japan. The common dormouse
+genus ranges from continental Europe to [[Japan]]. The common dormouse
 _Muscardinus avellanarius_, ranging from England to Russia and Asia, is
 of the size of a mouse and mainly chestnut-coloured. The third genus is
 represented by the continental _lerot_, or garden-dormouse, _Eliomys
@@ -42,13 +42,13 @@ which they hibernate, waking up at times to feed on an accumulated store
 of nuts and other food. Before retiring they become very fat, and at
 such times the edible dormouse is a favourite article of diet on the
 Continent. At the beginning of the cold season the common dormouse
-retires to its nest, and curling itself up in a ball, becomes dormant. A
+retires to its nest, and curling itself up in a [[Ball|ball]], becomes dormant. A
 warmer day than usual restores it to temporary activity, and then it
 supplies itself with food from its autumn hoard, again becoming torpid
 till roused by the advent of spring. The young are generally four in
 number, and are produced twice a year. They are born blind, but in a
 marvellously short period are able to cater for themselves; and their
-hibernation begins later in the season than with the adults. The fur of
+[[Hibernation|hibernation]] begins later in the season than with the adults. The [[Fur|fur]] of
 the dormouse is tawny above and paler beneath, with a white patch on the
 throat. A second subfamily is represented by the Indian _Platacanthomys_
 and the Chinese _Typhlomys_, in which there are only three pairs of

@@ -7,15 +7,15 @@ topic: history
 # Cleopatra
 
 CLEOPATRA, the regular name of the queens of Egypt in the Ptolemaic
-dynasty after Cleopatra, daughter of the Seleucid Antiochus the Great,
+dynasty after Cleopatra, daughter of the Seleucid [[Antiochus]] the Great,
 wife of Ptolemy V., Epiphanes. The best known was the daughter of
 Ptolemy XIII. Auletes, born 69 (or 68) B.C. At the age of seventeen she
-became queen of Egypt jointly with her younger brother Ptolemy Dionysus,
+became queen of Egypt jointly with her younger brother Ptolemy [[Dionysus]],
 whose wife, in accordance with Egyptian custom, she was to become. A few
 years afterwards, deprived of all royal authority, she withdrew into
 Syria, and made preparation to recover her rights by force of arms. At
-this juncture Julius Caesar followed Pompey into Egypt. The personal
-fascinations of Cleopatra induced him to undertake a war on her behalf,
+this juncture [[Julius]] [[Caesar]] followed Pompey into Egypt. The personal
+[[Fascination|fascinations]] of Cleopatra induced him to undertake a war on her behalf,
 in which Ptolemy lost his life, and she was replaced on the throne in
 conjunction with a younger brother, of whom, however, she soon rid
 herself by poison. In Rome she lived openly with Caesar as his mistress
@@ -26,11 +26,11 @@ Octavian (see AUGUSTUS) declared war upon them and defeated them at
 Actium (31 B.C.). Cleopatra took to flight, and escaped to Alexandria,
 where Antony joined her. Having no prospect of ultimate success, she
 accepted the proposal of Octavian that she should assassinate Antony,
-and enticed him to join her in a mausoleum which she had built in order
+and enticed him to join her in a [[Mausoleum|mausoleum]] which she had built in order
 that "they might die together." Antony committed suicide, in the
 mistaken belief that she had already done so, but Octavian refused to
-yield to the charms of Cleopatra who put an end to her life, by applying
-an asp to her bosom, according to the common tradition, in the
+yield to the [[Charm|charms]] of Cleopatra who put an end to her life, by applying
+an [[Asp|asp]] to her bosom, according to the common tradition, in the
 thirty-ninth year of her age (29th of August, 30 B.C.). With her ended
 the dynasty of the Ptolemies, and Egypt was made a Roman province.
 Cleopatra had three children by Antony, and by Julius Caesar, as some

@@ -13,24 +13,24 @@ FICTIONS, or legal fictions, in law, the term used for false averments,
 the truth of which is not permitted to be called in question. English
 law as well as Roman law abounds in fictions. Sometimes they are merely
 the condensed expression of a rule of law,--e.g., the fiction of English
-law that husband and wife were one person, and the fiction of Roman law
+law that [[Husband And Wife|husband and wife]] were one person, and the fiction of Roman law
 that the wife was the daughter of the husband. Sometimes they must be
 regarded as reasons invented in order to justify a rule of law according
 to an implied ethical standard. Of this sort seems to be the fiction or
 presumption that every one knows the law, which reconciles the rule that
-ignorance is no excuse for crime with the moral commonplace that it is
+[[Ignorance|ignorance]] is no excuse for crime with the moral [[Commonplace|commonplace]] that it is
 unfair to punish a man for violating a law of whose existence he was
 unaware. Again, some fictions are deliberate falsehoods, adopted as true
 for the purpose of establishing a remedy not otherwise attainable. Of
-this sort are the numerous fictions of English law by which the
+this sort are the numerous fictions of [[English Law|English law]] by which the
 different courts obtained jurisdiction in private business, removed
 inconvenient restrictions in the law relating to land, &c.
 
 What to the scientific jurist is a stumbling-block is to the older
 writers on English law a beautiful device for reconciling the strict
-letter of the law with common sense and justice. Blackstone, in noticing
-the well-known fiction by which the court of king's bench established
-its jurisdiction in common pleas (viz. that the defendant was in custody
+letter of the law with common sense and justice. [[Blackstone]], in noticing
+the well-known fiction by which the court of king's [[Bench|bench]] established
+its jurisdiction in common pleas (viz. that the [[Defendant|defendant]] was in custody
 of the marshal of the court), says, "These fictions of law, though at
 first they may startle the student, he will find upon further
 consideration to be highly beneficial and useful; especially as this
@@ -44,7 +44,7 @@ abrogated law, makes the following harsh criticism as to others:--"Why
 the plain meanings which I have now stated should be obscured by the
 fictions to which I have just adverted I cannot conjecture. A wish on
 the part of the authors of the fictions to render the law as
-_uncognoscible_ as may be is probably the cause which Mr Bentham would
+_uncognoscible_ as may be is probably the cause which Mr [[Bentham]] would
 assign. I judge not, I confess, so uncharitably; I rather impute such
 fictions to the sheer imbecility (or, if you will, to the active and
 sportive fancies) of their grave and venerable authors, than to any
@@ -57,15 +57,15 @@ powers by and for hands which could not or durst not openly claim it,
 and but for the delusion thus produced could not exercise it." A
 partnership, he says, was formed between the kings and the judges
 against the interests of the people. "Monarchs found force, lawyers
-fraud; thus was the capital found" (_Historical Preface to the second
+[[Fraud|fraud]]; thus was the capital found" (_Historical Preface to the second
 edition of the Fragment on Government_).[1]
 
-Sir H. Maine (_Ancient Law_) supplies the historical element which is
+Sir H. [[Maine]] (_Ancient Law_) supplies the historical element which is
 always lacking in the explanations of Austin and Bentham. Fictions form
 one of the agencies by which, in progressive societies, positive law is
-brought into harmony with public opinion. The others are equity and
+brought into harmony with public opinion. The others are [[Equity|equity]] and
 statutes. Fictions in this sense include, not merely the obvious
-falsities of the English and Roman systems, but any assumption which
+falsities of the English and Roman systems, but any [[Assumption|assumption]] which
 conceals a change of law by retaining the old formula after the change
 has been made. It thus includes both the case law of the English and the
 _Responsa Prudentum_ of the Romans. "At a particular stage of social
@@ -80,7 +80,7 @@ removed by legislation, and one great obstacle to any reconstruction of
 the legal system has thus been partially removed. Where the real remedy
 stood in glaring contrast to the nominal rule, it has been openly
 ratified by statute. In ejectment cases the mysterious sham litigants
-have disappeared. The bond of entail can be broken without having
+have disappeared. The bond of [[Entail|entail]] can be broken without having
 recourse to the collusive proceedings of fine and recovery. Fictions
 have been almost entirely banished from the procedure of the courts. The
 action for damages on account of seduction, which is still nominally an

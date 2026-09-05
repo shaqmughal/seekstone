@@ -15,7 +15,7 @@ graduates of certain universities.
 
 In the American Protestant Episcopal Church a convocation is a voluntary
 deliberative conference of the clergy; it has no legislative function,
-and like the convocation of a university, assembles primarily to discuss
+and like the convocation of a university, assembles primarily to [[Discus|discuss]]
 matters of common interest.
 
 In England the name "convocation" is specifically given to an assembly
@@ -26,12 +26,12 @@ parliament of the realm is summoned, and which is also continued or
 discharged, as the case may be, whenever the parliament is prorogued or
 dissolved. These assemblies consist of two Houses, an upper and lower.
 In the upper house sit the archbishops and bishops, and in the lower the
-deans and archdeacons of every cathedral, the provost of Eton College,
+deans and [[Archdeacon|archdeacons]] of every cathedral, the provost of [[Eton]] College,
 with one proctor elected by each cathedral chapter and two by the
 beneficed clergy in each diocese in the province of Canterbury (in the
 province of York two proctors are elected by each archdeacon), with a
 prolocutor at their head. When and how this convocation originated is
-not historically clear. This much is known from authentic records, that
+not historically clear. This much is known from [[Authentic|authentic]] records, that
 the present constitution of the convocation of the prelates and clergy
 of the province of Canterbury was recognized as early as in the eleventh
 year of the reign of Edward I. (1283) as its normal constitution; and
@@ -47,7 +47,7 @@ power, and that it should be left to the benevolence of the clergy to
 grant such subsidies to the crown from the endowments of their churches
 as they should agree to in their own assemblies. It may be inferred,
 however, from the language of the various writs issued by the crown for
-the collection of the "aids" voted by the _Commune Concilium_ of the
+the collection of the "aids" voted by the _[[Commune]] Concilium_ of the
 realm in the reign of Henry III., that the clergy were unable to
 maintain the exemption of church property from being taxed to those
 "aids" during that king's reign; and it was not until some years had
@@ -62,7 +62,7 @@ present day to the metropolitan of each province, is identical in its
 purport with the writ issued by the crown in 1283 to the metropolitan of
 the province of Canterbury, after the clergy of that province had
 refused to meet at Northampton in the previous year, because they had
-not been summoned in lawful manner; whilst the mandates issued by the
+not been summoned in lawful manner; whilst the [[Mandate|mandates]] issued by the
 metropolitans in pursuance of the royal writs, and the citations issued
 by the bishops in pursuance of the mandates of their respective
 metropolitans, are identical in their purport and form with those used
@@ -127,7 +127,7 @@ Victoria (1852).
   First period.
 
 During the first of the five periods above mentioned, it would appear
-from the records preserved at Lambeth and at York that the metropolitans
+from the records preserved at [[Lambeth]] and at York that the metropolitans
 frequently convened congregations (so called) of their clergy without
 the authority of a royal writ, which were constituted precisely as the
 convocations were constituted, when the metropolitans were commanded to
@@ -137,7 +137,7 @@ acknowledgment of the supremacy of the crown in all ecclesiastical
 causes, he constrained the spirituality to declare, by what has been
 termed the Act of Submission on behalf of the clergy, that the
 convocation "is, always has been, and ought to be summoned by authority
-of a royal writ"; and this declaration was embodied in a statute of the
+of a royal writ"; and this [[Declaration|declaration]] was embodied in a statute of the
 realm (25 Henry VIII. c. 19), which further enacted that the convocation
 "should thenceforth make no provincial canons, constitutions or
 ordinances without the royal assent and licence." The spirituality was
@@ -166,7 +166,7 @@ England, which had been begun by Henry VIII.; the third was called
 together to reconstruct that work, which had been marred on the
 accession of Mary (the consort of Philip II. of Spain), whilst the
 fourth was summoned to re-establish the Church of England, the framework
-of which had been demolished during the great rebellion. On all of these
+of which had been demolished during the [[Great Rebellion|great rebellion]]. On all of these
 occasions the convocations worked hand in hand with the parliament of
 the realm under a licence and with the assent of the crown. Meanwhile
 the convocation of 1603 had framed a body of canons for the governance
@@ -193,7 +193,7 @@ spirituality silently waived its long-asserted right of voting its own
 subsidies to the crown, and submitted itself thenceforth to be assessed
 to the "aids" directly granted to the crown by parliament. An act was
 accordingly passed by the parliament in the following year 1665,
-entitled An act to grant a Royal Aid unto the King's Majesty, to which
+entitled An act to grant a Royal Aid unto the King's [[Majesty]], to which
 aid the clergy were assessed by the commissioners named in the statute
 without any objection being raised on their part or behalf,[1] there
 being a proviso that in so contributing the clergy should be relieved of
@@ -202,7 +202,7 @@ them in the convocation of a previous year. In consequence of this
 practical renunciation of their separate _status_, as regards their
 liability to taxation, the clergy have assumed and enjoyed in common
 with the laity the right of voting at the election of members of the
-House of Commons, in virtue of their ecclesiastical freeholds.
+House of Commons, in virtue of their ecclesiastical [[Freehold|freeholds]].
 
 The most important and the last work of the convocation during this
 second period of its activity was the revision of the Book of Common
@@ -213,7 +213,7 @@ Prayer which was completed in the latter part of 1661.
 
   Claim of Lower House to sit independently.
 
-  Bangorian controversy.
+  [[Bangorian Controversy|Bangorian controversy]].
 
   Fourth period.
 
@@ -227,7 +227,7 @@ alterations in the liturgy and in the canons, and to deliberate on the
 reformation of the ecclesiastical courts. A feeling, however, of panic
 seems to have come over the Lower House, which took up a position of
 violent antagonism to the Upper House. This circumstance led to the
-prorogation of the convocation and to its subsequent discharge without
+prorogation of the convocation and to its subsequent [[Discharge|discharge]] without
 any practical fruit resulting from the king's licence. Ten years elapsed
 during which the convocation was prorogued from time to time without any
 meeting of its members for business being allowed. The next convocation
@@ -245,7 +245,7 @@ authority, and upon the demise of the crown it disputed the fact of its
 sessions having expired, and as parliament was to continue for a short
 time, prayed that its sessions might be continued as a part of the
 parliament under the "praemunientes" clause. The next convocation was
-summoned in the first year of Queen Anne, when the Lower House, under
+summoned in the first year of Queen [[Anne]], when the Lower House, under
 the leadership of Dean Aldrich, its prolocutor, challenged the right of
 the archbishop to prorogue it, and presented a petition to the queen,
 praying her majesty to call the question into her own presence. The
@@ -257,8 +257,8 @@ the reign of Queen Anne the two Houses of convocation were engaged
 either in internecine strife, or in censuring sermons or books, as
 teaching latitudinarian or heretical doctrines; and, when it had been
 assembled concurrently with parliament on the accession of King George
-I., a great breach was before long created between the two houses by the
-Bangorian controversy. Dr Hoadly, bishop of Bangor, having preached a
+I., a great [[Breach|breach]] was before long created between the two houses by the
+Bangorian controversy. Dr [[Hoadly]], bishop of [[Bangor]], having preached a
 sermon before the king, in the Royal Chapel at St James's Palace in
 1717, against the principles and practice of the nonjurors, which had
 been printed by the king's command, the Lower House, which was offended
@@ -310,15 +310,15 @@ its functions as a deliberative body. In 1865, under licence from the
 crown, the Convocations of Canterbury and York framed new canons in
 place of the 36th, 37th, 38th and 40th canons of 1603, and amended the
 62nd and 102nd canons in 1888. In 1872 convocation was empowered by
-letters of business from the crown to frame resolutions on the subject
+letters of business from the crown to [[Frame|frame]] resolutions on the subject
 of public worship, which resolutions were afterwards incorporated in the
 Act of Uniformity Amendment Act 1872.
 
 As a deliberative body, convocation has done much useful work, but it
 suffers considerably from its unrepresentative nature. The non-beneficed
 clergy still remain without the franchise, but the establishment of
-Houses of Laymen (see LAYMEN, HOUSES OF) for both provinces has, to a
-certain extent, secured the co-operation of the lay element. Several
+Houses of [[Laymen]] (see LAYMEN, HOUSES OF) for both provinces has, to a
+certain extent, secured the [[Co-Operation|co-operation]] of the lay element. Several
 attempts have been made to promote legislation to enable the
 convocations to reform their constitutions and to enable them to unite
 for special purposes; in 1905 a bill was introduced into the House of
@@ -347,7 +347,7 @@ meet three times a year.
   on our behalf." In case the metropolitical see of Canterbury should be
   vacant, the writ of the crown is addressed to the dean and chapter of
   the metropolitical church of Canterbury in similar terms, as being the
-  guardians of the spiritualities of the see during a vacancy. Thereupon
+  [[Guardian|guardians]] of the spiritualities of the see during a vacancy. Thereupon
   the metropolitan, or, as the case may be, the dean and chapter of the
   metropolitical church, issue a mandate to the bishop of London, as
   dean of the province, and if the bishopric of London should be vacant,
@@ -357,7 +357,7 @@ meet three times a year.
   collegiate churches, and the archdeacons and other dignitaries of
   churches, and each chapter by one, and the clergy of each diocese by
   two sufficient proctors, to appear before the metropolitan or his
-  commissary, or, as the case may be, before the dean and chapter of the
+  [[Commissary|commissary]], or, as the case may be, before the dean and chapter of the
   metropolitical church or their commissary, in the chapter-house of the
   cathedral church of St Paul, London, if that place be named in the
   mandate, or elsewhere, with continuation and prorogation of days next
@@ -407,18 +407,18 @@ meet three times a year.
   is the governing rule.
 
   BIBLIOGRAPHY.--Wilkins, _Concilia Magnae Britannia et Hiberniae_ (4
-  vols. folio, 1737); Gibson, _Codex Juris Ecclesiastici Anglicani_ (2
+  vols. [[Folio|folio]], 1737); [[Gibson]], _Codex Juris Ecclesiastici Anglicani_ (2
   vols. folio, 1713); Johnson, _A Collection of all the Ecclesiastical
   Laws, Canons and Constitutions of the English Church_ (2 vols. 8vo,
   1720); Gibson, _Synodus Anglicana_ (8vo, 1702, re-edited by Dr Edward
-  Cardwell, 8vo, 1854); Shower, _A Letter to a Convocation Man
+  [[Cardwell]], 8vo, 1854); Shower, _A Letter to a Convocation Man
   concerning the Rights, Powers and Privileges of that Body_ (4to,
   1697); Wake, _The Authority of Christian Princes over their
   Ecclesiastical Synods asserted, occasioned by a late Pamphlet
-  intituled A Letter_ _to a Convocation Man_ (8vo, 1697); Atterbury,
+  intituled A Letter_ _to a Convocation Man_ (8vo, 1697); [[Atterbury]],
   _The Rights, Powers and Privileges of an English Convocation stated
   and vindicated in answer to a late book of Dr Wake's_ (8vo, 1700);
-  Burnet, _Reflections on a Book intituled The Rights, Powers and
+  [[Burnet]], _Reflections on a Book intituled The Rights, Powers and
   Privileges of an English Convocation stated and vindicated_ (4to,
   1700); Kennet, _Ecclesiastical Synods and Parliamentary Convocations
   of the Church of England historically stated and justly vindicated
@@ -426,23 +426,23 @@ meet three times a year.
   _The Power of the Lower House of Convocation to adjourn itself_ (4to,
   1701); Gibson, _The Right of the Archbishop to continue or prorogue
   the whole Convocation_ (4to, 1701); Kennet, _The Case of the
-  Praemunientes_ (4to, 1701); Hooper, _The Narrative of the Lower House
+  Praemunientes_ (4to, 1701); [[Hooper]], _The Narrative of the Lower House
   vindicated from the Exceptions of a Letter, intituled The Right of the
   Archbishop to continue or prorogue the Convocation_ (4to, 1702);
   Atterbury, _The Case of the Schedule stated_ (4to, 1702); Gibson, _The
   Schedule Reviewed, or the Right of the Archbishop to continue or
   prorogue the whole Convocation, cleared from the Exception of a late
   Vindication of the Narrative of the Lower House, and of a Book
-  intituled The Case of the Schedule stated_ (4to, 1702); Hody, _A
+  intituled The Case of the Schedule stated_ (4to, 1702); [[Hody]], _A
   History of the English Councils and Convocation, and of the Clergy's
   sitting in Parliament_ (8vo, 1702); Wake, _The State of the Church and
   Clergy of England in their Councils, Synods, Convocations,
   Conventions, and other Public Assemblies, occasioned by a book
   intituled The Rights, Powers and Privileges of an English Convocation_
   (fol., 1703); Burnet, _History of His Own Time_ (2 vols, folio, 1734),
-  re-edited by Dr Martin J. Routh (6 vols. 8vo, 1833); Hallam,
+  re-edited by Dr [[Martin]] J. Routh (6 vols. 8vo, 1833); [[Hallam]],
   _Constitutional History of England_ (3 vols. 8vo, 1832); Cardwell,
-  _Documentary Annals of the Reformed Church of England_ (2 vols.,
+  _Documentary [[Annals]] of the Reformed Church of England_ (2 vols.,
   1839); Cardwell, _A History of Conferences and other Proceedings
   connected with the revision of the Common Prayer_ (8vo, 1841);
   Cardwell, _Synodalia, a Collection of Articles of Religion, Canon and

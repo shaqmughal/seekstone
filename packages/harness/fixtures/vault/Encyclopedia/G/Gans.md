@@ -8,7 +8,7 @@ the Hegelian philosophy. In 1820, after taking his doctor's degree, he
 returned to Berlin as lecturer on law. In 1825 he turned Christian, and
 the following year was appointed extraordinary, and in 1828 ordinary,
 professor in the Berlin faculty of law. At this period the historical
-school of jurisprudence was coming to the front, and Gans, predisposed
+school of [[Jurisprudence|jurisprudence]] was coming to the front, and Gans, predisposed
 owing to his Hegelian tendencies to treat law historically, applied the
 method to one special branch--the right of succession. His great work,
 _Erbrecht in weltgeschichtlicher Entwicklung_ (1824, 1825, 1829 and
@@ -24,7 +24,7 @@ letzten funfzig Jahre_, Leipzig, 1833-1834) was prohibited. He died at
 Berlin on the 5th of May 1839. In addition to the works above mentioned,
 there may be noted the treatise on the fundamental laws of property
 (_Uber die Grundlage des Besitzes_, Berlin, 1829), a portion of a
-systematic work on the Roman civil law (_System des romischen
+systematic work on the Roman [[Civil Law|civil law]] (_System des romischen
 Civil-Rechts_, 1827), and a collection of his miscellaneous writings
 (_Vermischte Schriften_, 1832). Gans edited the _Philosophie der
 Geschichte_ in Hegel's _Werke_, and contributed an admirable preface.

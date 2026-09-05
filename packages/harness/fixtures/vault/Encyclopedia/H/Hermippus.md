@@ -15,12 +15,12 @@ of being a bully and a coward, and of carousing with his boon companions
 while the Lacedaemonians were invading Attica. He also accused Aspasia
 of impiety and offences against morality, and her acquittal was only
 secured by the tears of Pericles (Plutarch, _Pericles_, 32). In the
-[Greek: Artopolides] ("Bakeresses") he attacked the demagogue
+[Greek: Artopolides] ("Bakeresses") he attacked the [[Demagogue|demagogue]]
 Hyperbolus. The [Greek: Phormophoroi] (Mat-carriers) contains many
-parodies of Homer. Hermippus also appears to have written scurrilous
-iambic poems after the manner of Archilochus.
+parodies of [[Homer]]. Hermippus also appears to have written scurrilous
+iambic poems after the manner of [[Archilochus]].
 
-  Fragments in T. Kock, _Comicorum Atticorum fragmenta_, i. (1880), and
+  Fragments in T. [[Kock]], _Comicorum Atticorum fragmenta_, i. (1880), and
   A. Meineke, _Poetarum Graecorum comicorum fragmenta_ (1855).
 
 ## References

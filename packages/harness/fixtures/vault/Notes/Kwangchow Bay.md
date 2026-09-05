@@ -4,8 +4,8 @@ KWANGCHOW BAY (KWANGCHOW WAN), a coaling station on the south coast of
 China, acquired, along with other concessions, by the French government
 in April 1898. It is situated on the east side of the peninsula of
 Lienchow, in the province of Kwang-tung, and directly north of the
-island of Hainan. It is held on lease for 99 years on similar terms to
-those by which Kiaochow is held by Germany, Port Arthur by Japan and
+island of [[Hainan]]. It is held on lease for 99 years on similar terms to
+those by which Kiaochow is held by Germany, Port Arthur by [[Japan]] and
 Wei-hai-wei by Great Britain. The cession includes the islands lying in
 the bay; these enclose a roadstead 18 m. long by 6 m. wide, with
 admirable natural defences and a depth at no part of less than 33 ft.
@@ -17,7 +17,7 @@ right bank a strip 15 m. by 11 m. from Lei Chow Fu. The country is well
 populated; the capital and chief town is Lei Chow. The cession carries
 with it full territorial jurisdiction during the continuance of the
 lease. In January 1900 it was placed under the authority of the
-governor-general of Indo-China, who in the same month appointed a civil
+governor-general of [[Indo-China]], who in the same month appointed a civil
 administrator over the country, which was divided into three districts.
 The population of the territory is about 189,000. A mixed tribunal has
 been instituted, but the local organization is maintained for purposes

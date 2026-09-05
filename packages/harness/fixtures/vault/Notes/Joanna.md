@@ -8,19 +8,19 @@ type: reference
 # Joanna
 
 JOANNA (1479-1555), called the Mad (_la Loca_), queen of Castile and
-mother of the emperor Charles V., was the second daughter of Ferdinand
-and Isabella, king and queen of Spain, and was born at Toledo on the 6th
-of November 1479. Her youngest sister was Catherine of Aragon, the first
+mother of the emperor Charles V., was the second daughter of [[Ferdinand]]
+and [[Isabella]], king and queen of Spain, and was born at Toledo on the 6th
+of November 1479. Her youngest sister was [[Catherine Of Aragon|Catherine of Aragon]], the first
 wife of Henry VIII. In 1496 at Lille she was married to the archduke
-Philip the Handsome, son of the German King Maximilian I., and at Ghent,
+Philip the Handsome, son of the German King [[Maximilian]] I., and at [[Ghent]],
 in February 1500, she gave birth to the future emperor. The death of her
 only brother John, of her eldest sister Isabella, queen of Portugal, and
-then of the latter's infant son Miguel, made Joanna heiress of the
-Spanish kingdoms, and in 1502 the cortes of Castile and of Aragon
+then of the latter's [[Infant|infant]] son Miguel, made Joanna heiress of the
+Spanish kingdoms, and in 1502 the cortes of Castile and of [[Aragon]]
 recognized her and her husband as their future sovereigns. Soon after
 this Joanna's reason began to give way. She mourned in an extravagant
-fashion for her absent husband, whom at length she joined in Flanders;
-in this country her passionate jealousy, although justified by Philip's
+fashion for her absent husband, whom at length she joined in [[Flanders]];
+in this country her passionate [[Jealousy|jealousy]], although justified by Philip's
 conduct, led to deplorable scenes. In November 1504 her mother's death
 left Joanna queen of Castile, but as she was obviously incapable of
 ruling, the duties of government were undertaken by her father, and then

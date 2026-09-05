@@ -8,10 +8,10 @@ here, as in all purely popular sagas, motives borrowed from the forces
 and phenomena of nature were, in course of time, woven into events
 originally historical. While the saga of the Nibelungs crystallized in
 the 13th century into the _Nibelungenlied_ (q.v.), and the Low German
-Hilde-saga into the epic of _Gudrun_ (q.v.) the poems of the
+Hilde-saga into the epic of _[[Gudrun]]_ (q.v.) the poems of the
 _Heldenbuch_, in the more restricted use of that term, belong almost
 exclusively to two cycles, (1) the Ostrogothic saga of Ermanrich,
-Dietrich von Bern (i.e. Dietrich of Verona, Theodorich the Great) and
+[[Dietrich]] von [[Bern]] (i.e. Dietrich of Verona, Theodorich the Great) and
 Etzel (Attila), and (2) the cycle of Hugdietrich, Wolfdietrich and
 Ortnit, which like the _Nibelungen_ saga, was probably of Franconian
 origin. The romances of the _Heldenbuch_ are of varying poetic value;
@@ -22,16 +22,16 @@ medieval hero, and, under more favourable literary conditions, he might
 have become the centre of an epic more nationally German than even the
 _Nibelungenlied_ itself. Of the romances of this group, the chief are
 _Biterolf und Dietlieb_, evidently the work of an Austrian poet, who
-introduced many elements from the court epic of chivalry into a milieu
+introduced many elements from the court epic of [[Chivalry|chivalry]] into a milieu
 and amongst characters familiar to us from the _Nibelungenlied_. _Der
 Rosengarten_ tells of the conflicts which took place round Kriemhild's
 "rose garden" in Worms--conflicts from which Dietrich always emerges
 victor, even when he is confronted by Siegfried himself. In _Laurin und
 der kleine Rosengarten_, the Heldensage is mingled with elements of
 popular fairy-lore; it deals with the adventures of Dietrich and his
-henchman Witege with the wily dwarf Laurin, who watches over another
+[[Henchman|henchman]] Witege with the wily dwarf Laurin, who watches over another
 rose garden, that of the Tyrol. Similar in character are the adventures
-of Dietrich with the giants Ecke (_Eckenlied_) and Sigenot, with the
+of Dietrich with the [[Giant|giants]] Ecke (_Eckenlied_) and Sigenot, with the
 dwarf Goldemar, and the deeds of chivalry he performs for queen Virginal
 (_Dietrichs erste Ausfahrt_)--all of these romances being written in the
 fresh and popular tone characteristic of the wandering singers or
@@ -66,19 +66,19 @@ is not very high.
   the popular tastes of the time by being remodelled in rough
   _Knittelvers_ or doggerel; the author, or at least copyist, of the MS.
   was a certain Kaspar von dor Roen, of Munnerstadt in Franconia. This
-  version was printed by F. von der Hagen and S. Primisser in their
+  version was printed by F. von der [[Hagen]] and S. Primisser in their
   _Heldenbuch_ (1820-1825). _Das Heldenbuch_, which F. von der Hagen
   published in 2 vols, in 1855, was the first attempt to reproduce the
   original text by collating the MSS. A critical edition, based not
   merely on the oldest printed text--the only one which has any value
   for this purpose, as the others are all copies of it--but also on the
-  MSS., was published in 5 vols. by O. Janicke, E. Martin, A. Amelung
+  MSS., was published in 5 vols. by O. Janicke, E. [[Martin]], A. Amelung
   and J. Zupitza at Berlin (1866-1873). A selection, edited by E.
   Henrici, will be found in Kurschner's _Deutsche Nationalliteratur_,
   vol. 7 (1887). Recent editions have appeared of _Der Rosengarten_ and
   _Laurin_, by G. Holz (1893 and 1897). All the poems have been
   translated into modern German by K. Simrock and others. See F. E.
-  Sandbach, _The Heroic Saga-Cycle of Dietrich of Bern_ (1906). The
+  Sandbach, _The Heroic Saga-Cycle of [[Dietrich Of Bern|Dietrich of Bern]]_ (1906). The
   literature of the _Heldensage_ is very extensive. See especially W.
   Grimm, _Die deutsche Heldensage_ (3rd ed., 1889); L. Uhland,
   "Geschichte der deutschen Poesie im Mittelalter," _Schriften_, vol. i.

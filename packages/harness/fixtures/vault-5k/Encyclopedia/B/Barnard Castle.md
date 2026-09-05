@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Barnard_Ca
 # Barnard Castle
 
 BARNARD CASTLE, a market-town in the Barnard Castle parliamentary division
-of Durham, England, 17 m. W. of Darlington by a branch of the North Eastern
+of Durham, England, 17 m. W. of [[Darlington]] by a branch of the North Eastern
 railway. Pop. of urban district (1901) 4421. It is beautifully situated on
 the steep left bank of the Tees. A noteworthy building in the town is the
 octagonal town-hall, dating from 1747. There are a few picturesque old
@@ -19,7 +19,7 @@ the building of chief interest is the castle, which gives the town its
 name, and is the principal scene of Sir Walter Scott's _Rokeby_. The
 remains extend over a space of more than six acres. A remarkable building
 known as the Bowes' Mansion and Museum, bequeathed in 1874 to the town by a
-descendant of Sir George Bowes, contains a valuable collection of works of
+descendant of Sir George [[Bow|Bowes]], contains a valuable collection of works of
 art. In the vicinity of the town are Egglestone Abbey, beautifully situated
 on the Yorkshire bank of the river, Rokeby Park on the same bank, at the
 confluence of the Greta, and the massive 14th century castle of Raby to the
@@ -27,7 +27,7 @@ north-east. The principal manufacture is shoe-thread. The corn-market is
 important.
 
 As part of the lordship of Gainford, Barnard Castle is said to have been
-granted by William Rufus to Guy Baliol Bernard, son of Guy Baliol, who
+granted by William Rufus to Guy [[Baliol]] Bernard, son of Guy Baliol, who
 built the castle, and called it after himself, Castle Bernard. To the men
 of the town which grew up outside the castle walls he gave, about the
 middle of the 12th century, a charter making them burgesses and granting
@@ -45,8 +45,8 @@ then duke of Gloucester. In 1630 Barnard Castle was sold to Sir Henry Vane,
 and in the same year the castle is said to have been unroofed and
 dismantled for the sake of the materials of which it was built. Tanning
 leather was formerly one of the chief industries of the town. In 1614 an
-act for "knights and burgesses to have place in parliament for the county
-palatine and city of Durham and borough of Barnard [v.03 p.0411] Castle"
+act for "[[Knight|knights]] and burgesses to have place in parliament for the county
+palatine and city of Durham and borough of [[Barnard]] [v.03 p.0411] Castle"
 was brought into the House of Commons, but when the act was finally passed
 for the county and city of Durham, Barnard Castle was not included.
 

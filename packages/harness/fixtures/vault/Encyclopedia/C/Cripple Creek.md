@@ -10,7 +10,7 @@ type: article
 CRIPPLE CREEK, a city and the county-seat of Teller county, almost at
 the geographical centre of Colorado, U.S.A., one of the phenomenal
 mining camps of the West. Pop. (1900) 10,147 (1408 foreign-born);
-(1910) 6206. The city is served by three railways--the Colorado Springs
+(1910) 6206. The city is served by three railways--the [[Colorado Springs]]
 & Cripple Creek District (a branch of the Colorado & Southern), the
 Midland Terminal (which connects at Divide, 30 m. distant by rail, with
 the Colorado Midland), and the Florence & Cripple Creek. Cripple Creek
@@ -18,8 +18,8 @@ is situated on a mountain slope in a pocket amid the ranges, about 9600
 ft. above the sea at the head of the stream after which it is named. The
 municipal water-supply is drawn from Pike's Peak, 10 m. distant. The
 interest of the city is in its extraordinary mines and their history.
-Cripple Creek's site was frequently prospected after 1860, and "colours"
-and gold "float" were always found, but not until February 1891 was the
+Cripple Creek's site was frequently prospected after 1860, and "[[Colours|colours]]"
+and gold "[[Float|float]]" were always found, but not until February 1891 was the
 source discovered. Cripple Creek was at that time a cattle range. In
 1891 the output of gold in the district was valued at $449, in 1892 at
 $583,010, and in the next three years at $2,010,367, $2,908,702 and
@@ -51,17 +51,17 @@ more than 25 m. of workings above the 1100-ft. level. In 1903 the El
 Paso drain was completed, to unwater the western half of the field to
 the 880-ft. level, greatly increasing many mine values and outputs; in
 1906 the work of drainage was again taken up, and work on a long bore
-was begun in May 1907. There are smelters and cyanide extracters in the
+was begun in May 1907. There are smelters and [[Cyanide|cyanide]] extracters in the
 district, but the bulk of the ore product is shipped to other places for
 treatment. Among the towns around Cripple Creek in the same mining
 district is Victor, pop. (1910) 3162, incorporated in 1894, chartered as
 a city in 1898.
 
   See W. Lindgren and F. L. Ransome, _Geology and Gold Deposits of the
-  Cripple Creek District, Colorado_, with maps (Washington, 1906), being
+  Cripple Creek District, Colorado_, with [[Map|maps]] (Washington, 1906), being
   Professional Paper No. 54 of the United States Geological Survey; and
-  Benjamin McKie Rastall, _The Labor History of the Cripple Creek
-  District; A Study in Industrial Evolution_ (Madison, Wis., 1908), a
+  [[Benjamin]] McKie Rastall, _The Labor History of the Cripple Creek
+  District; A Study in Industrial Evolution_ ([[Madison]], Wis., 1908), a
   full account of the strikes of 1894 and of 1903-1904.
 
 

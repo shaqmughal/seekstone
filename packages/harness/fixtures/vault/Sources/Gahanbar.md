@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gahanbar"
 GAHANBAR, festivals of the ancient Avesta calendar celebrated by the
 Parsees at six seasons of the year which correspond with the six periods
 of creation: (1) _Maidhyozaremaya_ (mid spring), (2) _Maidhyoshema_
-(midsummer), (3) _Paitishahya_ (season of corn), (4) _Ayathrema_ (season
+(midsummer), (3) _Paitishahya_ (season of [[Corn|corn]]), (4) _Ayathrema_ (season
 of flocks), (5) _Maidhyarya_ (winter solstice), (6) _Hamaspathmaedha_
 (festival of sacrifices).
 

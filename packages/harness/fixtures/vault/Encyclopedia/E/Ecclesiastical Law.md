@@ -82,7 +82,7 @@ be noted that the "canon law" is not identical with the "ecclesiastical
 law" of the Roman Catholic Church. By the canon law is meant,
 substantially, the contents of the _Corpus juris canonici_, which have
 been largely superseded or added to by, e.g. the canons of the council
-of Trent and the Vatican decrees. The long projected codification of the
+of Trent and the Vatican [[Decree|decrees]]. The long projected codification of the
 whole of the ecclesiastical law of the Church of Rome, a work of
 gigantic labour, was not taken in hand until the pontificate of Pius X.
 (See also CANON LAW and ECCLESIASTICAL JURISDICTION.)
@@ -90,12 +90,12 @@ gigantic labour, was not taken in hand until the pontificate of Pius X.
 The ecclesiastical law of England is in complete dependence upon the
 authority of the state. The Church of England cannot be said, from a
 legal point of view, to have a corporate existence or even a
-representative assembly. The Convocation of York and the Convocation of
+representative assembly. The [[Convocation]] of York and the Convocation of
 Canterbury are provincial assemblies possessing no legislative or
 judicial authority; even such purely ecclesiastical questions as may be
 formally commended to their attention by "letters of business" from the
 crown can only be finally settled by act of parliament. The
-ecclesiastical courts are for the most part officered by laymen, whose
+ecclesiastical courts are for the most part officered by [[Laymen|laymen]], whose
 subordination to the archbishops and bishops is purely formal, and the
 final court of appeal is the Judicial Committee of the Privy Council. In
 like manner changes in the ecclesiastical law are made directly by
@@ -104,9 +104,9 @@ very large portion of the existing ecclesiastical law consists of acts
 of parliament.
 
 The sources of the ecclesiastical law of England are thus described by
-Dr. Richard Burn (_The Ecclesiastical Law_, 9th ed., 1842):--"The
+Dr. Richard [[Burn]] (_The Ecclesiastical Law_, 9th ed., 1842):--"The
 ecclesiastical law of England is compounded of these four main
-ingredients--the civil law, the canon law, the common law, and the
+ingredients--the [[Civil Law|civil law]], the canon law, the common law, and the
 statute law. And from these, digested in their proper rank and
 subordination, to draw out one uniform law of the church is the purport
 of this book. When these laws do interfere and cross each other, the
@@ -129,8 +129,8 @@ the Reformation the ecclesiastical supremacy of the pope was recognized,
 with certain limitations, in England, and the Church itself had some
 pretensions to ecclesiastical freedom. The freedom of the Church is, in
 fact, one of the standing provisions of those charters on which the
-English constitution was based. The first provision of Magna Carta is
-_quod ecclesia Anglicana libera sit_. By the various enactments of the
+English constitution was based. The first provision of [[Magna Carta]] is
+_quod [[Ecclesia|ecclesia]] Anglicana libera sit_. By the various enactments of the
 period of the Reformation the whole constitutional position of the
 Church, not merely with reference to the pope but with reference to the
 state, was definitely fixed. The legislative power of convocation was
@@ -144,7 +144,7 @@ acts of parliament, or expound them in any other sense than is truly and
 properly the exposition of them, the king's great courts of common law
 may prohibit and control them."
 
-The design of constructing a code of ecclesiastical laws was entertained
+The design of constructing a [[Code|code]] of ecclesiastical laws was entertained
 during the period of the Reformation, but never carried into effect. It
 is alluded to in various statutes of the reign of Henry VIII., who
 obtained power to appoint a commission to examine the old ecclesiastical
@@ -198,10 +198,10 @@ ENGLAND, CHURCH OF; ESTABLISHMENT; &c.)
 
   AUTHORITIES.--The number of works on ecclesiastical law is very great,
   and it must suffice here to mention a few of the more conspicuous
-  modern ones: Ferdinand Walter, _Lehrbuch des Kirchenrechts aller
-  christlichen Konfessionen_ (14th ed., Bonn, 1871); G. Phillips,
+  modern ones: [[Ferdinand]] Walter, _Lehrbuch des Kirchenrechts aller
+  christlichen Konfessionen_ (14th ed., [[Bonn]], 1871); G. Phillips,
   _Kirchenrecht_, Bde. i.-vii. (Regensburg, 1845-1872) incomplete; the
-  text-book by Cardinal Hergenroether (q.v.); P. Hinschius, _Kirchenrecht
+  text-book by Cardinal Hergenroether (q.v.); P. [[Hinschius]], _Kirchenrecht
   der Katholiken und Protestanten in Deutschland_, 6 Bde. (Berlin, 1869
   sqq.), only the Catholic part, a masterly and detailed survey of the
   ecclesiastical law, finished; Sir Robert Phillimore, _Eccl. Law of the

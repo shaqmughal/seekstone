@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hely-Hutch
 # Hely-Hutchinson
 
 HELY-HUTCHINSON, JOHN (1724-1794), Irish lawyer, statesman, and provost
-of Trinity College, Dublin, son of Francis Hely, a gentleman of County
+of Trinity College, Dublin, son of Francis Hely, a [[Gentleman|gentleman]] of County
 Cork, was educated at Trinity College, Dublin, and was called to the
-Irish bar in 1748. He took the additional name of Hutchinson on his
+Irish bar in 1748. He took the additional name of [[Hutchinson]] on his
 marriage in 1751 with Christiana Nixon, heiress of her uncle, Richard
 Hutchinson. He was elected member of the Irish House of Commons for the
 borough of Lanesborough in 1759, but after 1761 he represented the city
@@ -19,7 +19,7 @@ opposition to the government, and although he afterwards joined the
 administration he never abandoned his advocacy of popular measures. He
 was a man of brilliant and versatile ability, whom Lord Townshend, the
 lord lieutenant, described as "by far the most powerful man in
-parliament." William Gerard Hamilton said of him that "Ireland never
+parliament." William [[Gerard]] Hamilton said of him that "Ireland never
 bred a more able, nor any country a more honest man." Hely-Hutchinson
 was, however, an inveterate place-hunter, and there was point in Lord
 North's witticism that "if you were to give him the whole of Great
@@ -28,8 +28,8 @@ potato garden." After a session or two in parliament he was made a privy
 councillor and prime serjeant-at-law; and from this time he gave a
 general, though by no means invariable, support to the government. In
 1767 the ministry contemplated an increase of the army establishment in
-Ireland from 12,000 to 15,000 men, but the Augmentation Bill met with
-strenuous opposition, not only from Flood, Ponsonby and the habitual
+Ireland from 12,000 to 15,000 men, but the [[Augmentation]] Bill met with
+strenuous opposition, not only from [[Flood]], Ponsonby and the habitual
 opponents of the government, but from the Undertakers, or proprietors of
 boroughs, on whom the government had hitherto relied to secure them a
 majority in the House of Commons. It therefore became necessary for
@@ -38,7 +38,7 @@ Lord Townshend to turn to other methods for procuring support. Early In
 message from the king setting forth the necessity for the measure was
 laid before the House of Commons in Dublin. An address favourable to the
 government policy was, however, rejected; and Hely-Hutchinson, together
-with the speaker and the attorney-general, did their utmost both in
+with the speaker and the [[Attorney-General|attorney-general]], did their utmost both in
 public and private to obstruct the bill. Parliament was dissolved in May
 1768, and the lord lieutenant set about the task of purchasing or
 otherwise securing a majority in the new parliament. Peerages, pensions
@@ -49,7 +49,7 @@ parliament instead of an English one. The Augmentation Bill was carried
 in the session of 1769 by a large majority. Hely-Hutchinson's support
 had been so valuable that he received as reward an addition of L1000 a
 year to the salary of his sinecure of Alnagar, a major's commission in a
-cavalry regiment, and a promise of the secretaryship of state. He was at
+[[Cavalry|cavalry]] regiment, and a promise of the secretaryship of state. He was at
 this time one of the most brilliant debaters in the Irish parliament,
 and he was enjoying an exceedingly lucrative practice at the bar. This
 income, however, together with his well-salaried sinecure, and his place
@@ -62,8 +62,8 @@ qualified, and his appointment to it for purely political service to the
 government was justly criticized with much asperity. His conduct in
 using his position as provost to secure the parliamentary representation
 of the university for his eldest son brought him into conflict with
-Duigenan, who attacked him in _Lacrymae academicae_, and involved him in
-a duel with a Mr Doyle; while a similar attempt on behalf of his second
+[[Duigenan]], who attacked him in _Lacrymae academicae_, and involved him in
+a [[Duel|duel]] with a Mr [[Doyle]]; while a similar attempt on behalf of his second
 son in 1790 led to his being accused before a select committee of the
 House of Commons of impropriety as returning officer. But although
 without scholarship Hely-Hutchinson was an efficient provost, during
@@ -110,10 +110,10 @@ again awake, and awaken with them all the worst passions of the human
 mind."[1]
 
 In 1777 Hely-Hutchinson became secretary of state. When Grattan in 1782
-moved an address to the king containing a declaration of Irish
+moved an address to the king containing a [[Declaration|declaration]] of Irish
 legislative independence, Hely-Hutchinson supported the
 attorney-general's motion postponing the question; but on the 16th of
-April, after the Easter recess, he read a message from the lord
+April, after the [[Easter]] recess, he read a message from the lord
 lieutenant, the duke of Portland, giving the king's permission for the
 House to take the matter into consideration, and he expressed his
 personal sympathy with the popular cause which Grattan on the same day
@@ -146,10 +146,10 @@ FOOTNOTES:
   [1] _Irish Parl. Debates_, i. 309, 310.
 
   [2] It is generally supposed that the title conferred by this patent
-    was that of Viscount Suirdale, and such is the courtesy title by
-    which the heir apparent of the earls of Donoughmore is usually
-    styled. This, however, appears to be an error. In all the three
-    creations (barony 1783, viscountcy 1797, earldom 1800) the title is
+    was that of Viscount Suirdale, and such is the [[Courtesy|courtesy]] title by
+    which the [[Heir|heir]] apparent of the earls of Donoughmore is usually
+    styled. This, however, appears to be an [[Error|error]]. In all the three
+    creations ([[Barony|barony]] 1783, viscountcy 1797, earldom 1800) the title is
     "Donoughmore of Knocklofty." In 1821 the 1st earl was further created
     Viscount Hutchinson of Knocklofty in the peerage of the United
     Kingdom. The courtesy title of the earl's eldest son should,

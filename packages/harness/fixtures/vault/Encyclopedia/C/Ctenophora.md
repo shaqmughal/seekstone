@@ -8,7 +8,7 @@ topic: religion
 
 CTENOPHORA, in zoology, a class of jelly-fish which were briefly
 described by Professor T. H. Huxley in 1875 (see ACTINOZOA, _Ency.
-Brit._ 9th ed. vol. i.) as united with what we now term Anthozoa to
+Brit._ 9th ed. vol. i.) as united with what we now term [[Anthozoa]] to
 form the group Actinozoa; but little was known of the intimate structure
 of those remarkable and beautiful forms till the appearance in 1880 of
 C. Chun's Monograph of the Ctenophora occurring in the Bay of Naples.
@@ -18,13 +18,13 @@ is partly gelatinous but partly cellular; with eight meridianal rows of
 vibratile paddles formed of long fused or matted cilia; lacking
 nematocysts (except in one genus). An example common on the British
 coasts is furnished by _Hormiphora_ (_Cydippe_). In outward form this is
-an egg-shaped ball of clear jelly, having a mouth at the pointed (oral)
+an egg-shaped [[Ball|ball]] of clear jelly, having a mouth at the pointed (oral)
 pole, and a sense-organ at the broader (aboral) pole. It possesses eight
 meridians (costae) of iridescent paddles in constant vibration, which
 run from near one pole towards the other; it has also two pendent
 feathery tentacles of considerable length, which can be retracted into
 pouches. The mouth leads into an ectodermal stomodaeum ("stomach"), and
-the latter into an endodermal funnel (infundibulum); these two are
+the latter into an endodermal [[Funnel|funnel]] (infundibulum); these two are
 compressed in planes at right angles to one another, the sectional long
 axis of the stomodaeum lying in the so-called sagittal (stomodaeal or
 gastric) plane, that of the funnel in the transverse (tentacular or
@@ -32,7 +32,7 @@ funnel) plane. From the funnel, canals are given off in three
 directions; (a) a pair of paragastric (stomachal, or stomodaeal) canals
 run orally, parallel to the stomodaeum, and end blindly near the mouth;
 (b) a pair of perradial canals run in the transverse plane towards the
-equator of the animal; each of these becomes divided into two short
+[[Equator|equator]] of the animal; each of these becomes divided into two short
 canals at the base of the tentacle sheath which they supply, but has
 previously given off a pair of short interradial canals, which again
 bifurcate into two adradial canals; all these branches lie in the
@@ -41,12 +41,12 @@ into eight meridianal canals which run orally and aborally under the
 costae; (c) a pair of aboral vessels which run towards the sense-organ,
 each of which bifurcates; of the four vessels thus formed, two only open
 at the sides of the sense-organ, forming the so-called excretory
-apertures. These three sets of structures, with the funnel from which
+[[Aperture|apertures]]. These three sets of structures, with the funnel from which
 they rise, make up the endodermal coelenteron, or gastro-vascular
 system. The generative organs are endodermal by origin, borne at the
 sides of the meridianal canals as indicated by the signs [male]
 [female]. There exists a subepithelial plexus with nerve cells and
-fibres, similar to that of jelly-fishes. The sense-organ of the aboral
+[[Fibres|fibres]], similar to that of jelly-fishes. The sense-organ of the aboral
 pole is complex, and lies under a dome of fused cilia shaped like an
 inverted bell-jar; it consists of an otolith, formed of numerous
 calcareous spheroids, which is supported on four plates of fused cilia
@@ -54,10 +54,10 @@ termed balancers, but is otherwise free. The ciliated ectoderm below the
 organ is markedly thickened, and perhaps functionally represents a
 nerve-ganglion: from it eight ciliated furrows radiate outwards, two
 passing under each balancer as through an archway, and diverge each to
-the head of a meridianal costa. These ciliated furrows stain deeply with
+the head of a meridianal [[Costa|costa]]. These ciliated furrows stain deeply with
 osmic acid, and nervous impulses are certainly transmitted along them.
 Locomotion is effected by strokes of the paddles in an aboral direction,
-driving the animal mouth forwards through the water: each paddle or comb
+driving the animal mouth forwards through the water: each paddle or [[Comb|comb]]
 (Gr. [Greek: kteis]; hence Ctenophora) consists of a plate of fused or
 matted cilia set transversely to the costa. The myoepithelial cells
 (formerly termed neuro-muscular cells), characteristic of other
@@ -109,8 +109,8 @@ The Ctenophora are classified as follows:--
   meridianal and paragastric canals end blindly. An example of these has
   already been briefly described. The LOBATA are of the same general
   type as the first Order, except for the presence of four circumoral
-  auricles (processes of the subtransverse costae) and of a pair of
-  sagittal outgrowths or lobes, on to which the subsagittal costae are
+  [[Auricle|auricles]] (processes of the subtransverse costae) and of a pair of
+  sagittal outgrowths or [[Lobe|lobes]], on to which the subsagittal costae are
   continued. Small accessory tentacles lie in grooves, but there is no
   tentacular pouch; the meridianal vessels anastomose in the lobes. In
   the CESTOIDEA the body is compressed in the transverse plane,
@@ -154,7 +154,7 @@ Ctenophora among the Coelentera. The undivided coelenteron
 (gastro-vascular system) which constitutes the sole cavity of the body,
 the largely radial symmetry, the presence of endodermal generative
 organs on the coelenteric canals, the subepithelial nerve-plexus, the
-mesogloea-like matrix of the body--all these features indicate affinity
+mesogloea-like [[Matrix|matrix]] of the body--all these features indicate affinity
 to other Coelentera, but, as has been stated in the article under that
 title, the relation is by no means close. At what period the Ctenophora
 branched off from the line of descent, which culminated in the
@@ -206,9 +206,9 @@ for us to-day that ancestor from which Ctenophora and Turbellaria are
 alike derived. For details of this brilliant theory, the reader is
 referred to the original monograph.
 
-  LITERATURE.--G. C. Bourne, "The Ctenophora," in Ray Lankester's
+  LITERATURE.--G. C. [[Bourne]], "The Ctenophora," in Ray Lankester's
   _Treatise on Zoology_ (1900), where a bibliography is given; G.
-  Curreri, "Osservazioni sui ctenofori," _Boll. Soc. Zool. Ital._ (2),
+  Curreri, "Osservazioni sui ctenofori," _[[Boll]]. Soc. Zool. Ital._ (2),
   i. pp. 190-193 et ii. pp. 58-76; A. Garbe, "Untersuchungen uber die
   Entstehung der Geschlechtsorgane bei den Ctenophoren.," _Zeitschr.
   Wiss. Zool._ lxix. pp. 472-491; K. C. Schneider, _Lehrbuch der

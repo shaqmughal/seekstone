@@ -8,7 +8,7 @@ pianofortes and artificial manure. In the neighbourhood are mines of
 argentiferous copper, and the surrounding district and villages are
 occupied with smelting and similar works. Silver and sulphuric acid are
 the other chief products; nickel and gold are also found in small
-quantities. In the Kaiser Friedrich mine close by, the first
+quantities. In the Kaiser [[Friedrich]] mine close by, the first
 steam-engine in Germany was erected on the 23rd of August 1785.
 Hettstedt is mentioned as early as 1046; in 1220 it possessed a castle;
 and in 1380 it received civic privileges. When the countship of Mansfeld

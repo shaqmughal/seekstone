@@ -1,20 +1,20 @@
 # Cleruchy
 
-CLERUCHY (Gr. [Greek: klêrouchia], from [Greek: klêros], a lot, [Greek:
+CLERUCHY (Gr. [Greek: klêrouchia], from [Greek: klêros], a [[Lot|lot]], [Greek:
 echein], to have), in ancient Greek history a kind of colony composed of
-Athenian[1] citizens planted, practically as a garrison, in a conquered
+Athenian[1] citizens planted, practically as a [[Garrison|garrison]], in a conquered
 country. Strictly, the settlers (cleruchs) were not colonists, inasmuch
 as they retained their status as citizens of Athens (e.g. _ho dêmos ho
-en Hphaistia_), and their allotments were politically part of Attic
+en Hphaistia_), and their allotments were politically part of [[Attic]]
 soil. These settlements were of three kinds: (1) where the earlier
 inhabitants were extirpated or expatriated, and the settlers occupied
 the whole territory; (2) where the settlers occupied allotments in the
 midst of a conquered people; and (3) where the inhabitants gave up
 portions of land to settlers in return for certain pecuniary
 concessions. The primary object (cf. the 4000 cleruchs settled in 506
-B.C. upon the lands of the conquered oligarchs of Euboea, known as the
+B.C. upon the lands of the conquered oligarchs of [[Euboea]], known as the
 Hippobotae) was unquestionably military, and in the later days of the
-Delian League the system was the simplest precaution against
+[[Delian League]] the system was the simplest precaution against
 disaffection on the part of the allies, the strength of whose resentment
 may be gathered from an inscription (Hicks and Hill, 101 [81]), which,
 in setting forth the terms of the second Delian Confederacy, expressly
@@ -33,7 +33,7 @@ It is impossible to decide precisely how far the state retained control
 over the cleruchs. Certainly they were liable to military service and
 presumably to that taxation which fell upon Athenians at home. That they
 were not liable for the tribute which members of the Delian League paid
-is clear from the fact that the assessments of places where cleruchs
+is clear from the fact that the [[Assessment|assessments]] of places where cleruchs
 were settled immediately went down considerably (cf. the Periclean
 cleruchies, 450-445); indeed, this follows from their status as Athenian
 citizens, which is emphasized by the fact that they retained their
@@ -45,7 +45,7 @@ certain central authority (e.g. in the matter of jurisdiction, some
 case being tried by the Nautodicae at Athens); in fact we may assume
 that the more important cases, particularly those between a cleruch and
 a citizen at home, were tried before the Athenian dicasts. In a few
-cases, the cleruchs, e.g. in the case of Lesbos (427), were apparently
+cases, the cleruchs, e.g. in the case of [[Lesbos]] (427), were apparently
 allowed to remain in Athens receiving rent for their allotments from the
 original Lesbian owners (Thuc. iii. 50); but this represents the
 perversion of the original idea of the cleruchy to a system of reward

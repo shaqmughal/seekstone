@@ -9,7 +9,7 @@ topic: mathematics
 FINDLAY, SIR GEORGE (1829-1893), English railway manager, was of pure
 Scottish descent, and was born at Rainhill, in Lancashire, on the 18th
 of May 1829. For some time he attended Halifax grammar school, but left
-at the age of fourteen, and began to learn practical masonry on the
+at the age of fourteen, and began to learn practical [[Masonry|masonry]] on the
 Halifax railway, upon which his father was then employed. Two years
 later he obtained a situation on the Trent Valley railway works, and
 when that line was finished in 1847 went up to London. There he was for
@@ -18,11 +18,11 @@ London & North-Western railway at Camden Town, and years afterwards,
 when he had become general manager of that railway, he was able to point
 out stones which he had dressed with his own hands. For the next two or
 three years he was engaged in a higher capacity as supervisor of the
-mining and brickwork of the Harecastle tunnel on the North Staffordshire
+mining and [[Brickwork|brickwork]] of the Harecastle tunnel on the North Staffordshire
 line, and of the Walton tunnel on the Birkenhead, Lancashire & Cheshire
 Junction railway. In 1850 the charge of the construction of a section of
 the Shrewsbury & Hereford line was entrusted to him, and when the line
-was opened for traffic T. Brassey, the contractor, having determined to
+was opened for traffic T. [[Brassey]], the contractor, having determined to
 work it himself, installed him as manager. In the course of his duties
 he was brought for the first time into official relations with the
 London & North-Western railway, which had undertaken to work the

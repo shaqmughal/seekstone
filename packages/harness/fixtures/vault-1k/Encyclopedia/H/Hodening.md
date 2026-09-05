@@ -7,7 +7,7 @@ type: article
 
 # Hodening
 
-HODENING, an ancient Christmas custom still surviving in Wales, Kent,
+HODENING, an ancient [[Christmas]] custom still surviving in Wales, Kent,
 Lancashire and elsewhere. A horse's skull or a wooden imitation on a
 pole is carried round by a party of youths, one of whom conceals himself
 under a white cloth to simulate the horse's body, holding a lighted

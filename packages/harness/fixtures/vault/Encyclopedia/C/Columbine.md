@@ -15,7 +15,7 @@ delicate, long-stalked, deeply divided leaves with blunt segments, and a
 loose panicle of handsome drooping blue or white flowers, which are
 characterized by having all the five petals spurred. The plant occurs
 wild in woods and thickets in England and Ireland, and flowers in early
-summer. It is well known in cultivation as a favourite spring flower, in
+summer. It is well known in cultivation as a favourite spring [[Flower|flower]], in
 many varieties, some of which have red flowers.
 
 ## See also

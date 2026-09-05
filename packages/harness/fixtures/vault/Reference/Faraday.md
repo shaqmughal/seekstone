@@ -12,12 +12,12 @@ FARADAY, MICHAEL (1791-1867), English chemist and physicist, was born at
 Newington, Surrey, on the 22nd of September 1791. His parents had
 migrated from Yorkshire to London, where his father worked as a
 blacksmith. Faraday himself became apprenticed to a bookbinder. The
-letters written to his friend Benjamin Abbott at this time give a lucid
+letters written to his friend [[Benjamin]] Abbott at this time give a lucid
 account of his aims in life, and of his methods of self-culture, when
 his mind was beginning to turn to the experimental study of nature. In
 1812 Mr Dance, a customer of his master, took him to hear four lectures
-by Sir Humphry Davy. Faraday took notes of these lectures, and
-afterwards wrote them out in a fuller form. Under the encouragement of
+by Sir [[Humphry]] Davy. Faraday took notes of these lectures, and
+afterwards wrote them out in a [[Fuller|fuller]] form. Under the encouragement of
 Mr Dance, he wrote to Sir H. Davy, enclosing these notes. "The reply was
 immediate, kind and favourable." He continued to work as a journeyman
 bookbinder till the 1st of March 1813, when he was appointed assistant
@@ -25,17 +25,17 @@ in the laboratory of the Royal Institution of Great Britain on the
 recommendation of Davy, whom he accompanied on a tour through France,
 Italy and Switzerland from October 1813 to April 1815. He was appointed
 director of the laboratory in 1825; and in 1833 he was appointed
-Fullerian professor of chemistry in the institution for life, without
+Fullerian professor of [[Chemistry|chemistry]] in the institution for life, without
 the obligation to deliver lectures. He thus remained in the institution
 for fifty-four years. He died at Hampton Court on the 25th of August
 1867.
 
 Faraday's earliest chemical work was in the paths opened by Davy, to
-whom he acted as assistant. He made a special study of chlorine, and
-discovered two new chlorides of carbon. He also made the first rough
+whom he acted as assistant. He made a special study of [[Chlorine|chlorine]], and
+discovered two new chlorides of [[Carbon|carbon]]. He also made the first rough
 experiments on the diffusion of gases, a phenomenon first pointed out by
-John Dalton, the physical importance of which was more fully brought to
-light by Thomas Graham and Joseph Loschmidt. He succeeded in liquefying
+John [[Dalton]], the physical importance of which was more fully brought to
+light by Thomas [[Graham]] and Joseph Loschmidt. He succeeded in liquefying
 several gases; he investigated the alloys of steel, and produced several
 new kinds of glass intended for optical purposes. A specimen of one of
 these heavy glasses afterwards became historically important as the
@@ -71,7 +71,7 @@ was not there at the time, but coming in afterwards he heard the
 conversation on the expected rotation of the wire.
 
 In July, August and September of that year Faraday, at the request of R.
-Phillips, the editor of the _Annals of Philosophy_, wrote for that
+Phillips, the editor of the _[[Annals]] of Philosophy_, wrote for that
 journal an historical sketch of electromagnetism, and he repeated almost
 all the experiments he described. This led him in the beginning of
 September to discover the method of producing the continuous rotation of
@@ -92,7 +92,7 @@ forms a closed circuit, and on the other the two poles of the magnet
 have equal but opposite properties, and are inseparably connected, so
 that whatever tendency there is for one pole to circulate round the
 current in one direction is opposed by the equal tendency of the other
-pole to go round the other way, and thus the one pole can neither drag
+pole to go round the other way, and thus the one pole can neither [[Drag|drag]]
 the other round and round the wire nor yet leave it behind. The thing
 cannot be done unless we adopt in some form Faraday's ingenious
 solution, by causing the current, in some part of its course, to divide
@@ -100,10 +100,10 @@ into two channels, one on each side of the magnet, in such a way that
 during the revolution of the magnet the current is transferred from the
 channel in front of the magnet to the channel behind it, so that the
 middle of the magnet can pass across the current without stopping it,
-just as Cyrus caused his army to pass dryshod over the Gyndes by
+just as [[Cyrus]] caused his army to pass dryshod over the Gyndes by
 diverting the river into a channel cut for it in his rear.
 
-We must now go on to the crowning discovery of the induction of electric
+We must now go on to the crowning discovery of the [[Induction|induction]] of electric
 currents.
 
 In December 1824 he had attempted to obtain an electric current by means
@@ -131,7 +131,7 @@ to a unit of negative electrification, so that it is impossible to
 produce what Faraday called "an absolute charge of electricity" of one
 kind not related to an equal charge of the opposite kind. He also
 discovered the difference of the capacities of different substances for
-taking part in electric induction. Henry Cavendish had before 1773
+taking part in electric induction. Henry [[Cavendish]] had before 1773
 discovered that glass, wax, rosin and shellac have higher specific
 inductive capacities than air, and had actually determined the numerical
 ratios of these capacities, but this was unknown both to Faraday and to
@@ -193,7 +193,7 @@ action of magnetism was on the 13th of September 1845, the transparent
 substance being his own heavy glass. He began to work on the 30th of
 August 1845 on polarized light passing through electrolytes. After three
 days he worked with common electricity, trying glass, heavy optical
-glass, quartz, Iceland spar, all without effect, as on former trials. On
+glass, quartz, [[Iceland]] spar, all without effect, as on former trials. On
 the 13th of September he worked with lines of magnetic force. Air,
 flint, glass, rock-crystal, calcareous spar were examined, but without
 effect.
@@ -247,7 +247,7 @@ completeness with which he made his final statement of the laws of the
 phenomenon.
 
 These characteristics of his scientific spirit lie on the surface of his
-work, and are manifest to all who read his writings. But there was
+work, and are [[Manifest|manifest]] to all who read his writings. But there was
 another side of his character, to the cultivation of which he paid at
 least as much attention, and which was reserved for his friends, his
 family and his church. His letters and his conversation were always full
@@ -278,7 +278,7 @@ in Chemistry and Physics_.
   however it may appear to others, is to me of the utmost importance.
   High as man is placed above the creatures around him, there is a
   higher and far more exalted position within his view; and the ways are
-  infinite in which he occupies his thoughts about the fears, or hopes,
+  [[Infinite|infinite]] in which he occupies his thoughts about the fears, or hopes,
   or expectations of a future life. I believe that the truth of that
   future cannot be brought to his knowledge by any exertion of his
   mental powers, however exalted they may be; that it is made known to
@@ -323,11 +323,11 @@ As Dr Bence Jones concludes--
   Richard and John Edward Taylor, vols. i. and ii. (1844 and 1847); vol.
   iii. (1844); vol. iii. Richard Taylor and William Francis (1855);
   _Experimental Researches in Chemistry and Physics_, Taylor and Francis
-  (1859); _Lectures on the Chemical History of a Candle_ (edited by W.
-  Crookes) (Griffin, Bohn & Co., 1861); _On the Various Forces in
+  (1859); _Lectures on the Chemical History of a [[Candle]]_ (edited by W.
+  Crookes) ([[Griffin]], [[Bohn]] & Co., 1861); _On the Various Forces in
   Nature_ (edited by W. Crookes) (Chatto & Windus, no date).
 
-  BIOGRAPHIES.--_Faraday as a Discoverer_, by John Tyndall (Longmans,
+  BIOGRAPHIES.--_Faraday as a Discoverer_, by John Tyndall ([[Longmans]],
   1st ed. 1868, 2nd ed. 1870); _The Life and Letters of Faraday_, by Dr
   Bence Jones, secretary of the Royal Institution, in 2 vols. (Longmans,
   1870); _Michael Faraday_, by J.H. Gladstone, Ph.D., F.R.S. (Macmillan,

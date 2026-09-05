@@ -6,10 +6,10 @@ topic: natural-history-studies
 
 # Basil Iv.
 
-BASIL IV., SHUISKY (d. 1612), tsar of Muscovy, was during the reigns of
+[[Basil|BASIL]] IV., SHUISKY (d. 1612), tsar of Muscovy, was during the reigns of
 Theodore I. and Boris Godunov, one of the leading boyars of Muscovy. It was
 he who, in obedience to the secret orders of Tsar Boris, went to Uglich to
-inquire into the cause of the death of Demetrius, the infant son of Ivan
+inquire into the cause of the death of [[Demetrius]], the [[Infant|infant]] son of [[Ivan]]
 the Terrible, who had been murdered there by the agents of Boris. Shuisky
 obsequiously reported that it was a case of suicide; yet, on the death of
 Boris and the accession of his son Theodore II., the false boyar, in order
@@ -24,7 +24,7 @@ proclaimed him tsar (19th of May 1606). He reigned till the 19th of July
 1610, but was never generally recognized. Even in Moscow itself he had
 little or no authority, and was only not deposed by the dominant boyars
 because they had none to put in his place. Only the popularity of his
-heroic cousin, Prince Michael Skopin-Shuisky, who led his armies and fought
+heroic [[Cousin|cousin]], Prince Michael Skopin-Shuisky, who led his armies and fought
 his battles for him, and soldiers from Sweden, whose assistance he
 purchased by a disgraceful cession of Russian territory, kept him for a
 time on his unstable throne. In 1610 he was deposed, made a monk, and

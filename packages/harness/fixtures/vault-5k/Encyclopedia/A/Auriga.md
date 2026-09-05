@@ -22,7 +22,7 @@ Oenomaus, who was placed in the heavens by Hermes. Another myth has it
 to be Olenus, a son of Hephaestus, and father of Aega and Helice, two
 nymphs who nursed Zeus. Ptolemy catalogued fourteen stars, Tycho Brahe
 twenty-seven, and Hevelius forty in this constellation. Interesting
-stars are: [alpha] _Aurigae_ or _Capella_ (the goat), one of the
+stars are: [alpha] _Aurigae_ or _[[Capella]]_ (the goat), one of the
 brightest stars in the heavens, determined by Newall and Campbell to be
 a spectroscopic binary; [beta] _Aurigae_, a star of the second magnitude
 also a spectroscopic binary; [epsilon] _Aurigae_, an irregularly

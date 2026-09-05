@@ -18,7 +18,7 @@ are quite distinct from the somewhat similar orders of "virgins" and
 The order is recognized in the canons of the councils of Nicaea (325)
 and Chalcedon (451), and is frequently mentioned in the writings of
 Chrysostom (some of whose letters are addressed to deaconesses at
-Constantinople), Epiphanius, Basil, and indeed most of the more
+Constantinople), [[Epiphanius]], [[Basil]], and indeed most of the more
 important Fathers of the 4th and 5th centuries. Deaconesses, upon
 entering their office, were ordained much in the same way as deacons,
 but the ordination conveyed no sacerdotal powers or authority.
@@ -27,17 +27,17 @@ priestesses in any sense of the term, and that their mission was not to
 interfere with the functions allotted to priests but simply to perform
 certain offices in connexion with the care of women. Several specimens
 of the ordination service for deaconesses have been preserved (see
-Cecilia Robinson, _The Ministry of Deaconesses_, London, 1878, appendix
+[[Cecilia]] Robinson, _The Ministry of Deaconesses_, London, 1878, appendix
 B, p. 197). The functions of the deaconess were as follows: (1) To
 assist at the baptism of women, especially in connexion with the
-anointing of the body which in the ancient Church always preceded
-immersion; (2) to visit the women of the Church in their homes and to
+[[Anointing|anointing]] of the body which in the ancient Church always preceded
+[[Immersion|immersion]]; (2) to visit the women of the Church in their homes and to
 minister to the needs of the sick and afflicted; (3) according to the
 Apostolical Constitutions they acted as door-keepers in the church,
 received women as they entered and conducted them to their allotted
 seats. In the Western Church, on the other hand, we hear nothing of the
 order till the 4th century, when an attempt seems to have been made to
-introduce it into Gaul. Much opposition, however, was encountered, and
+introduce it into [[Gaul]]. Much opposition, however, was encountered, and
 the movement was condemned by the council of Orange in 441 and the
 council of Epaone in 517. In spite of the prohibition the institution
 made some headway, and traces of it are found later in Italy, but it
@@ -62,7 +62,7 @@ of the term--existed from the apostolic age.
 
 In modern times several attempts have been made to revive the order of
 deaconesses. In 1833 Pastor Fleidner founded "an order of deaconesses
-for the Rhenish provinces of Westphalia" at Kaiserswerth. The original
+for the Rhenish provinces of Westphalia" at [[Kaiserswerth]]. The original
 aim of the institution was to train nurses for hospital work, but its
 scope was afterwards extended and it trained its members for teaching
 and parish work as well. Kaiserswerth became the parent of many similar
@@ -78,7 +78,7 @@ for spiritual fellowship and common service. In 1861 Bishop Tait set
 apart Miss Elizabeth Ferard as a deaconess by the laying on of hands,
 and she became the first president of the London Deaconess Institution.
 Other dioceses gradually adopted the innovation. It has received the
-sanction of Convocation, and the Lambeth Conference in 1897 declared
+sanction of [[Convocation]], and the [[Lambeth]] Conference in 1897 declared
 that it "recognized with thankfulness the revival of the office of
 deaconess," though at the same time it protested against the
 indiscriminate use of the title and laid it down emphatically that the
@@ -90,7 +90,7 @@ supervision and control of the ecclesiastical authority in the parish.
   Review_, xlvii. 302 ff., art. "On the Early History and Modern Revival
   of Deaconesses" (London, 1899), and the works there referred to; D.
   Latas, [Greek: Christianike Archaiologia], i. 163-171 (Athens, 1883);
-  _Testamentum Domini_, ed. Rahmani (Mainz, 1899); L. Zscharnack, _Der
+  _Testamentum Domini_, ed. Rahmani ([[Mainz]], 1899); L. Zscharnack, _Der
   Dienst der Frau in den ersten Jahrhunderten der chr. Kirche_ (1902).
 
 ## See also

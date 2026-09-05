@@ -1,10 +1,10 @@
 # Godmanchester
 
 GODMANCHESTER, a municipal borough in the southern, parliamentary
-division of Huntingdonshire, England, on the right bank of the Ouse, 1
+division of [[Huntingdonshire]], England, on the right bank of the Ouse, 1
 m. S.S.E. of Huntingdon, on a branch of the Great Eastern railway. Pop.
 (1901) 2017. It has a beautiful Perpendicular church (St Mary's) and an
-agricultural trade, with flour mills. The town is governed by a mayor, 4
+agricultural trade, with flour mills. The town is governed by a [[Mayor|mayor]], 4
 aldermen and 12 councillors. Area, 4907 acres.
 
 A Romano-British village occupied the site of Godmanchester. The town
@@ -20,9 +20,9 @@ Godmanchester was formerly included for parliamentary purposes in the
 borough of Huntingdon, which has ceased to be separately represented
 since 1885. The incorporation charter of 1605 recites that the burgesses
 are chiefly engaged in agriculture, and grants them a fair, which still
-continues every year on Tuesday in Easter week.
+continues every year on Tuesday in [[Easter]] week.
 
-  See _Victoria County History, Huntingdon_; Robert Fox, _The History of
+  See _Victoria County History, Huntingdon_; Robert [[Fox]], _The History of
   Godmanchester_ (1831).
 
 ## References

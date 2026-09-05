@@ -8,7 +8,7 @@ course; of the drift of a speech, i.e. its general tendency. The word is
 also used in some technical senses, more immediately resulting from the
 action of driving something in. But the most important technical use of
 the word is in geology, as introduced by C. Lyell in 1840 in place of
-"Diluvium." The earlier geologists had been in the habit of dividing the
+"[[Diluvium]]." The earlier geologists had been in the habit of dividing the
 Quaternary deposits into an older Diluvium and a younger Alluvium; the
 latter is still employed in England, but the former has dropped out of
 use, though it is still retained by some continental writers. The
@@ -16,13 +16,13 @@ Alluvium was distinguished from Diluvium by the fact that its mammalian
 fossils were representatives of still living forms, but it is a matter
 of great difficulty to separate these two divisions in practice. "The
 term drift is now applied generally to the Quaternary deposits, which
-consist for the most part of gravel, sand, loam or brickearth and clay;
+consist for the most part of gravel, sand, [[Loam|loam]] or brickearth and clay;
 it naturally refers to strata laid down at some distance from the rocks
 to whose destruction they are largely due; but, although applied to
 river deposits, the word drift is more appropriately used in reference
-to the accumulations of the Glacial period.
+to the accumulations of the [[Glacial Period|Glacial period]].
 
-"The occurrence of stones and boulders far removed from their parent
+"The occurrence of stones and [[Boulder|boulders]] far removed from their parent
 source early attracted the attention of geologists, but for a long
 period the phenomena, now known as of glacial origin, were unexplained,
 and the drifts were looked upon as little more than 'extraneous
@@ -30,24 +30,24 @@ rubbish,' the product of geological agents, quite distinct from those
 which helped to form the more 'solid' rocks that underlie them." (See H.
 B. Woodward, _The Geology of England and Wales_, 2nd ed., 1887.) The
 conception of an underlying "solid" geological structure covered by a
-superficial mantle of "drift" is still retained for certain practical
+superficial [[Mantle|mantle]] of "drift" is still retained for certain practical
 purposes; thus, the Geological Survey of Great Britain issues many of
-the maps in two forms, the "Solid Edition," showing the "solid geology,"
+the [[Map|maps]] in two forms, the "Solid Edition," showing the "solid geology,"
 which embraces all igneous rocks and the stratified rocks older than
 Pleistocene, and the "Drift Edition," which shows only such older strata
 as are unobscured by drift.
 
 In writing and in conversation the geological expression "drift" is now
-usually understood to mean Glacial drift, including boulder clay and all
+usually understood to mean Glacial drift, including [[Boulder Clay|boulder clay]] and all
 the varieties of sand, gravel and clay deposits formed by the agency of
-ice sheets, glaciers and icebergs. But in the "Drift" maps many other
+[[Ice|ice]] sheets, glaciers and icebergs. But in the "Drift" maps many other
 types of deposit are indicated, such, for instance, as the ordinary
 modern alluvium of rivers, and the older river terraces (River-drift of
 various ages), including gravels, brickearth and loam; old raised sea
-beaches and blown-sand (Aeolian-drift); the "Head" of Cornwall and
+[[Beach|beaches]] and blown-sand (Aeolian-drift); the "Head" of [[Cornwall]] and
 Devon, an angular detritus consisting of stones with clay or loam;
-clay-with-flints, rainwash (landwash), scree and talus; the "Warp," a
-marine and estuarine silt and clay of the Humber; and also beds of peat
+[[Clay-With-Flints|clay-with-flints]], rainwash (landwash), scree and talus; the "Warp," a
+marine and estuarine silt and clay of the [[Humber]]; and also beds of peat
 and diatomite.
 
   See GLACIAL PERIOD; PLEISTOCENE; BOULDER CLAY. (J. A. H.)
@@ -73,7 +73,7 @@ rendering the common instinctive will of a body of men, large or small,
 amenable to the control of, and susceptible to a stimulus imparted by
 its commander's will.
 
-(2) A furrow made in the soil in which seed may be sown, and a machine
+(2) A furrow made in the soil in which seed may be sown, and a [[Machine|machine]]
 used for sowing seed in such furrows (see SOWING). The word is somewhat
 doubtful in origin. It may be the same as an obsolete word "drill," to
 trickle, flow in drops, also a small stream or flow of water, a rill,
@@ -95,7 +95,7 @@ figure, while immediately below the design is an intersection of all the
 nine threads with the first pick. It is essentially a warp-faced fabric;
 that is, the upper surface is composed mostly of warp threads. In the
 figure it will be seen that two out of every three threads appear on the
-surface, and, by introducing a greater number of threads per inch than
+surface, and, by introducing a greater number of threads per [[Inch|inch]] than
 picks per inch, the weft is made to occupy a still more subordinate
 position so far as the upper surface of the cloth is concerned. Although
 the weave shown is still extensively used in this branch, there are
@@ -116,20 +116,20 @@ DRINKING VESSELS.[1] The use of special vessels for drinking purposes
 may fairly be assumed to have had a natural origin and development. From
 a practical point of view it would soon be found desirable to provide
 vessels for liquids in addition to those serving to hold food. As in
-many other commonplace details of modern life, we must turn to the
+many other [[Commonplace|commonplace]] details of modern life, we must turn to the
 primitive races to understand how our present conditions were reached.
 In almost all parts of the world many of the products of nature are
 capable of serving such purposes, with little or no change at the hands
-of man; in tropical and sub-tropical climates the coco-nut and the gourd
+of man; in tropical and sub-tropical climates the coco-nut and the [[Gourd|gourd]]
 or calabash require but little change to adapt them as the most
-convenient of drinking utensils; the eggs of the larger birds, such as
+convenient of drinking utensils; the [[Egg|eggs]] of the larger birds, such as
 the ostrich or the emu, shells, like the nautilus and other univalves,
 as well as the deeper bivalves, are equally convenient. Such natural
 objects are in fact used by the uncivilized tribes of Africa, America
 and Polynesia, as well as, in some cases, by the white races who have
 intruded into those parts of the world, and adopted some of the native
 habits. In Paraguay, for example, the so-called "Paraguay tea," an
-infusion of the _yerba maté_ (_Ilex paraguayensis_), is drunk through a
+infusion of the _yerba [[Mat|mat]]é_ (_Ilex paraguayensis_), is drunk through a
 tube from a small gourd held in the hand, and often handsomely mounted
 in silver or even gold. In the same way, as we shall see, civilized man
 has adopted nearly all the natural forms that were found convenient by
@@ -154,13 +154,13 @@ followed, though for different reasons. Human ingenuity, though perhaps
 originally inspired by natural forms, is apt to turn aside into more
 artificial channels. The invention of the potter's art (see CERAMICS),
 where the plastic nature of the raw material renders it capable of
-infinite changes of form, gave rise to types of vessels having no
+[[Infinite|infinite]] changes of form, gave rise to types of vessels having no
 obvious or necessary relation to the productions of nature. In Britain
 and in northern Europe generally, the interments of the races of the
-Neolithic and Bronze Ages have furnished vessels of pottery of a
+Neolithic and [[Bronze Age|Bronze Ages]] have furnished vessels of pottery of a
 beaker-like form, to which the name of "drinking-cups" has been given.
 It must be confessed that the evidence for attributing such a use to
-them is slender, and mainly consists of the fact that their thin lips
+them is slender, and mainly consists of the fact that their thin [[Lip|lips]]
 would render them better adapted for the purpose than the other pottery
 vessels found with them, some of which, on equally slight grounds, have
 been called food vessels. The general use and acceptance of the term by
@@ -168,10 +168,10 @@ two generations of archaeologists is, however, an adequate reason for a
 passing mention in this place. In the later prehistoric times of Europe
 vessels of gold, bronze and other materials, including amber, were made,
 sometimes of elegant forms, and would seem to have been used as drinking
-vessels; still, this is again an assumption, though a fairly probable
+vessels; still, this is again an [[Assumption|assumption]], though a fairly probable
 one. A small gold cup with handle was found in a barrow at Rillaton,
 Cornwall; one of amber of a similar form was found at Hove, and a third
-of shale near Honiton. All of these doubtless may be referred to the
+of shale near [[Honiton]]. All of these doubtless may be referred to the
 Bronze Age.
 
 
@@ -187,7 +187,7 @@ bronze swords. This Trojan cup was found at a depth of 50 ft. below the
 present surface and about 18 ft. below the stratum of what Schliemann
 claimed to be the Homeric Troy. In his second city appears a different
 type of ware, somewhat fantastic in form, one vessel being in the form
-of a sow, while others foreshadow the _crater_ and _amphora_ of later
+of a sow, while others foreshadow the _[[Crater|crater]]_ and _amphora_ of later
 and more familiar Greek wares.
 
 But the drinking vessel to which Schliemann draws most attention is the
@@ -195,14 +195,14 @@ tall cup of a trumpet form furnished with two earlike loop handles. This
 curious and original type occurs also in the Third (or Homeric), Fourth
 and Sixth Cities, with little if any change. Schliemann devotes some
 pages to the discussion of the form, in which he sees the [Greek: depas
-amphikypellon][2] of Homer, which has been more usually understood to
-mean an hour-glass shaped cup, in which the distinguishing feature was
+amphikypellon][2] of [[Homer]], which has been more usually understood to
+mean an [[Hour-Glass|hour-glass]] shaped cup, in which the distinguishing feature was
 two cups, not two handles. He applies the same term to a drinking vessel
 of a very different form, found with several others in the Third City.
 This is a sauce-boat shaped vessel[3] of gold, made with a lip for
 pouring or drinking at either end, and with two loop handles. This
 equals those previously mentioned in originality of form; with it were
-found others of gold, silver and electrum (i.e. 4 parts of gold to 1 of
+found others of gold, silver and [[Electrum|electrum]] (i.e. 4 parts of gold to 1 of
 silver). Of these three were shaped like 18th-century coffee cups but
 wanting handles. In the Sixth City appear forms more nearly approaching
 those of later times, particularly prototypes of the _cantharus_ and
@@ -221,10 +221,10 @@ notably at Castor in Northamptonshire and in the New Forest, were
 factories where large numbers of _pocula_ or drinking cups were made;
 those made on the Rhine and at Castor bearing legends to indicate their
 use. Many of these are to be seen in the British Museum and in the
-Wallraf-Richartz Museum in Cologne.
+Wallraf-Richartz Museum in [[Cologne]].
 
 
-  Gothic and Scandinavian types.
+  [[Gothic]] and Scandinavian types.
 
 After the decline of Roman power, the Gothic and Scandinavian races who
 replaced the Romans in central and northern Europe brought with them
@@ -237,13 +237,13 @@ dead warrior all his property, or at least as much of it as he would be
 supposed to need, has preserved to our day the actual vessels in use by
 the pagan northmen who pervaded northern Europe from the 4th century
 onward. Saxon graves in Britain have furnished great numbers of drinking
-cups and horns, in many cases quite unbroken. From the remains, of which
-the chief series are in the British and Liverpool Museums, we can learn
+cups and [[Horn|horns]], in many cases quite unbroken. From the remains, of which
+the chief series are in the British and [[Liverpool]] Museums, we can learn
 a great deal to amplify the references in literature. The richest single
 interment that has yet been found was within the present churchyard at
 Taplow. Here under a huge mound lay buried a Saxon chieftain surrounded
 by his belongings; arms defensive and offensive, his drinking cups, and
-even his game of draughts. The drinking vessels consisted of five cows'
+even his [[Game|game]] of [[Draughts|draughts]]. The drinking vessels consisted of five cows'
 horns and four glass cups. The former were of great size, 2 ft. long,
 richly mounted at the mouth and at the point with silver bands embossed
 and gilt. The glasses also were of great size and of a type familiar in
@@ -261,17 +261,17 @@ vessel. A third form is a plain cup or bowl widely expanded at the mouth
 and with a rounded base, so that it could only be set down when empty,
 in fact a true "tumbler." This feature is in fact a very common one in
 the drinking vessels of the Saxon race. There are many other varieties,
-plain cylindrical goblets, generally with ornamental glass threads on
+plain cylindrical [[Goblet|goblets]], generally with ornamental glass threads on
 the outside, and a more usual type has a rounded body somewhat of the
 shape of an orange with a wide plain mouth. Many of all these classes
-were found in the famous cemetery known as the King's Field at Faversham
+were found in the famous cemetery known as the King's Field at [[Faversham]]
 in Kent (the relics from which are now in the British Museum), at
 Chessel Down in the Isle of Wight, and in the cemetery within the
-ancient camp on High Down, near Worthing. In Belgium, France and Germany
+ancient camp on High Down, near Worthing. In [[Belgium]], France and Germany
 the same types occur, and even as far north as Scandinavia, where they
-are found in association with Roman coins of the 4th century. On the
+are found in association with Roman [[Coin|coins]] of the 4th century. On the
 continent, however, additional types are found that do not occur in
-Britain--one of these is a drinking glass in the form of a hunting horn
+Britain--one of these is a drinking glass in the form of a [[Hunting|hunting]] horn
 with glass threads forming an ornamental design on the outside. From the
 wide distribution of these types, it seems certain that they sprang
 originally from a common centre, and the slender evidence available on
@@ -279,17 +279,17 @@ the subject seems to point to that centre having been somewhere on the
 lower Rhine. Although glass seems to have been popular and by no means
 rare as a material for drinking vessels, other materials also were used.
 A large number of the smaller pottery vessels would serve such a
-purpose, and in one grave at Broomfield in Essex two small wooden cups
+purpose, and in one grave at Broomfield in [[Essex]] two small wooden cups
 were found which, from their small size and thinness, were no doubt used
 for liquid.
 
 Of the later Saxon domestic utensils nothing remains, the habit of
-burying such objects with the dead having ceased on the gradual
-introduction of Christianity through the country. Manuscripts are our
+burying such objects with the dead having ceased on the [[Gradual|gradual]]
+introduction of Christianity through the country. [[Manuscript|Manuscripts]] are our
 only resource, and they are not only of great rarity, but in the main
 rudely and conventionally drawn in their details. In those of the 9th to
 the 11th century various simple forms are seen, some resembling our
-modern tumbler in shape, others like a dice box. Horns as drinking
+modern tumbler in shape, others like a dice [[Box|box]]. Horns as drinking
 vessels certainly retained their popularity at all times, surviving
 especially among the northern nations, and many of the vessels of this
 form were no doubt actual horns, though horn-shaped vessels were often
@@ -312,7 +312,7 @@ case, the similarity of the vessel represented to the ordinary
 non-liturgical form renders the conclusion somewhat weak. Among objects
 found under conditions which lend colour to their specific use as
 chalices are the bottoms of glass vessels found inserted in plaster in
-the Catacombs at Rome; but here again the Jesuit Padre Garrucci was
+the [[Catacomb|Catacombs]] at Rome; but here again the Jesuit Padre Garrucci was
 unable to find any evidence to support such a conclusion. It is not in
 fact until the 6th century that the sacred vessel would appear to have
 assumed a definite form. From about that time date the lost golden
@@ -326,7 +326,7 @@ have been chalices. Another chalice, in the same collection, of the 6th
 or 7th century, was found with a silver treasure at Lampsacus on the
 Hellespont. It is of silver, with a cylindrical body and small expanding
 foot; with it were found a number of silver spoons and dishes, the
-former inscribed with the names of Apostles, Greek hexameters and lines
+former inscribed with the names of [[Apostle|Apostles]], Greek hexameters and lines
 from Virgil's Eclogues. No doubt the whole was the treasure of a
 monastery, buried and never reclaimed. So far as evidence exists for the
 form of the chalice, the vase-shape with two handles seems to have been
@@ -358,7 +358,7 @@ which has survived to our own days.
 The materials of which chalices were made in the early centuries seem to
 have been as various as those of ordinary vessels. Glass was undoubtedly
 a favourite substance, perhaps from its lending itself readily to
-scrupulous cleanliness; but wood, horn, ivory and similar materials were
+scrupulous cleanliness; but wood, horn, [[Ivory|ivory]] and similar materials were
 undoubtedly in use, and were from time to time condemned as improper by
 the Fathers of the Church. Pewter was in common use, and it was not an
 unusual practice in the 12th and 13th centuries to place sacramental
@@ -369,7 +369,7 @@ silver chalices were no doubt always preferred when they could be
 obtained.
 
 It may be mentioned here that it was a common practice in the 16th
-century and later in England for laymen to make gifts to the church of
+century and later in England for [[Laymen|laymen]] to make gifts to the church of
 vessels of an entirely domestic character for use in the service. Many
 of these from their associations, and in the character of the designs
 upon them, were entirely unsuited for such purposes, and in our own
@@ -395,7 +395,7 @@ own time owe their preservation to the added refinement of a silver
 mount. Vessels of this kind are known as _mazer_ bowls, a word of
 uncertain origin, but undoubtedly, in the medieval sense, indicating
 wood of some more or less valuable kind, and not improbably, in the 16th
-century, maple or a wood of that appearance. Spenser in the "Shepherd's
+century, [[Maple|maple]] or a wood of that appearance. Spenser in the "Shepherd's
 Kalendar" speaks of "a mazer ywrought of the maple warre." Although such
 vessels are mentioned in the inventories and other contemporary records
 as far back as the 12th century, no example is known to exist of an
@@ -421,9 +421,9 @@ called a "print" with some device upon it, engraved and filled with
 enamel. The reason of this addition may conceivably be found in the fact
 that such bowls were sometimes made from the lower half of a gourd or
 calabash, in the centre of which would be a rough projection whence the
-fibres of the fruit had diverged. A rarer form of mazer has the
+[[Fibres|fibres]] of the fruit had diverged. A rarer form of mazer has the
 characters just mentioned and in addition is mounted upon a high foot,
-bringing it nearer to the category of standing cups or "hanaps." The
+bringing it nearer to the [[Category|category]] of standing cups or "hanaps." The
 famous Scrope mazer belonging to York Minster (early 15th century)
 stands upon three small feet. Of the hanap type examples are in the
 possession of Pembroke College, Cambridge (the Foundress' Cup), and All
@@ -438,7 +438,7 @@ above described are of English origin, with the exception of that made
 entirely of silver, which is thought to be French. Most of the
 continental forms differed from the English, and were more elaborately
 finished. One of the finest is that which belonged to Louis de Male,
-last count of Flanders. It is an exceedingly thin, shallow bowl of
+last count of [[Flanders]]. It is an exceedingly thin, shallow bowl of
 fine-grained wood, with a cover of the same make. The latter is
 surmounted by a silver figure of a falcon holding a shield in its mouth
 with the arms of the count. The foot is of silver with lozenge-shaped
@@ -482,13 +482,13 @@ death of Charles V. in 1380. The duc de Berri was not on friendly terms
 with his nephew Charles VI., but on their being reconciled he presented
 the young king with this cup. The troubles of his reign led to the
 invasion of France by Henry V. of England, and the ultimate appointment
-of his brother, John, duke of Bedford, as regent. The necessities of the
+of his brother, John, duke of [[Bedford]], as regent. The necessities of the
 half-insane Charles doubtless caused this cup and other valuables to
-pass into the possession of the regent in exchange for ready money, for
+pass into the possession of the regent in [[Exchange|exchange]] for ready money, for
 it appears in the duke of Bedford's will, under which it passed into the
 treasury of Henry VI. There it remained and appears in all subsequent
 royal inventories up to the time of James I. This monarch, whose motto
-was "Beati pacifici," received with joy the embassy sent from Spain in
+was "Beati pacifici," received with joy the [[Embassy|embassy]] sent from Spain in
 the year 1610 to conclude the first treaty of peace with England since
 the Armada, and showered upon the envoy, Don Juan de Velasco, constable
 of Castile, the most lavish and extravagant gifts. The constable, in
@@ -496,7 +496,7 @@ fact, was so impressed by the warmth of his reception that he printed an
 account of his embassy, and from this work the main story of the cup has
 eventually been traced. On his return to Spain the constable, a piously
 disposed man, presented this cup, with many other valuable gifts, to the
-convent of Santa Clara Medina de Pomar at Burgos, of which his sister
+convent of Santa [[Clara]] Medina de Pomar at [[Burgos]], of which his sister
 was Superior. Although it was a domestic vessel, a "hanap" in fact, the
 constable elected that it should be consecrated and made use of as a
 chalice at great festivals. And so it continued to be used from the
@@ -513,17 +513,17 @@ Baron Jerome Pichon for the sum of about £400, practically its weight in
 gold. The baron, after vainly trying to resell it at various sums from
 £20,000 downwards, eventually parted with it to Messrs Wertheimer of
 Bond Street for £8000, and that firm very liberally ceded it to Sir
-Wollaston Franks for the same sum, and it was finally secured by a
+Wollaston [[Franks]] for the same sum, and it was finally secured by a
 subscription for the British Museum.
 
 
 Plate I.
 
 [Illustration: FIG. 1.--ROMAN GLASS CUP. With representation of a
-chariot race. Found at Colchester.]
+chariot race. Found at [[Colchester]].]
 
 [Illustration: FIG. 2.--TEUTONIC GLASS CUP. From a grave at Selzen,
-Rhenish Hesse.]
+Rhenish [[Hesse]].]
 
 [Illustration: FIG. 3.--SAXON GLASS "TUMBLER."]
 
@@ -569,11 +569,11 @@ Burleigh.]
 century.]
 
 Such is the story of one of the most remarkable "hanaps" in existence.
-The word "hanap" is translated by Cotgrave in his French dictionary of
+The word "hanap" is translated by [[Cotgrave]] in his French dictionary of
 1660 as "a drinking cup or goblet," and probably was intended to mean
 what would be called a standing cup, that is, raised on a foot, to
 distinguish it from a bowl of the mazer class. Such vessels were chiefly
-used to ornament the dinner table or sideboard, in the way that
+used to ornament the [[Dinner|dinner]] table or sideboard, in the way that
 loving-cups are now used at civic banquets, where, almost alone in fact,
 the ancient ceremonial of the table is still observed to some extent;
 and the loving-cup is the direct descendant of the hanap of the middle
@@ -611,11 +611,11 @@ some of them were mounted with great richness. An excellent example is
 the famous drinking-horn in the possession of Queen's College, Oxford,
 dating from the 14th century. The medieval beliefs about "griffins'
 claws" still survived to this late date, and a horn cup in the British
-Museum bears the inscription "Ein Greifen Klau bin ich genannt, In Asia,
-Africa wohl bekannt." Another horn, probably that of an ibex, is in the
+Museum bears the inscription "Ein Greifen Klau [[Bin|bin]] ich genannt, In Asia,
+Africa wohl bekannt." Another horn, probably that of an [[Ibex|ibex]], is in the
 same institution, and has a silver mount inscribed "Gryphi unguis divo
 Cuthberto dunelmensi sacer." The elegant natural curve of the horn adds
-greatly to the charm of the vessel. In Germany the ingenuity of the
+greatly to the [[Charm|charm]] of the vessel. In Germany the ingenuity of the
 silversmith was turned in the direction of making vessels in the forms
 of animals, at times in allusion to the coat of arms of the patron.
 Stags, lions, bears and various birds are often found; the head
@@ -626,13 +626,13 @@ silver formed the drinking cup. This type is only found in wine-growing
 districts, the basket being used for carrying grapes. In Germany such
 cups are called "Buttenmann," in Switzerland "Tanzenmann." The royal and
 princely museums of Germany contain great numbers of such vessels, the
-Green Vault in Dresden in particular, while a good number are to be seen
-in our own great museums. A curious fancy, combining instruction with
+Green Vault in [[Dresden]] in particular, while a good number are to be seen
+in our own great museums. A curious [[Fancy|fancy]], combining instruction with
 conviviality, was to make cups in the form of a globe, terrestrial or
 celestial, which are still useful as showing the state of geographical
 or astronomical knowledge at the time. Several of those made in the 16th
 century are still in existence, one in the British Museum, a second at
-Nancy, and others are in Copenhagen and Zurich and in private
+Nancy, and others are in [[Copenhagen]] and Zurich and in private
 collections. The upper half of the globe is removable, leaving the lower
 as the drinking cup. Ivory both from the beauty of its colour and the
 evenness of its structure has been a favourite material for drinking
@@ -656,9 +656,9 @@ doubtless from their hands, are in the British Museum.
 
 The use of glass cups was not common in England until the 16th century,
 Venice having practically the monopoly of the supply. A silver-mounted
-glass goblet which belonged to the great Lord Burghley is, however, in
+glass goblet which belonged to the great Lord [[Burghley]] is, however, in
 the British Museum, where there is also a very large series of Venetian
-drinking glasses of various kinds, clear and lace glass as well as some
+drinking glasses of various kinds, clear and [[Lace|lace]] glass as well as some
 of the 15th-century goblets with enamelled designs, now of the greatest
 rarity. The relations of Venice with the East were of so intimate a
 character that the earlier forms of Venetian glasses were nearly
@@ -684,7 +684,7 @@ Another characteristic German type is the "wiederkom," a vessel more
 conspicuous for capacity than for its artistic qualities. It is usually
 a cylindrical vessel of green glass often holding as much as a quart,
 elaborately enamelled with coats of arms and views of well-known places;
-and at times when the cup was a wedding gift the figures of the bride
+and at times when the cup was a wedding gift the figures of the [[Bride|bride]]
 and bridegroom are seen upon it.
 
 A very fanciful kind of cup was known in England as a "yard of ale," a
@@ -709,7 +709,7 @@ always furnished with a hinged lid.
 
 A material that has one obvious merit, that of being practically
 unbreakable, is leather, and drinking cups were often made of it. The
-flagon called a "black jack" is the best-known, and examples are very
+flagon called a "black [[Jack|jack]]" is the best-known, and examples are very
 common, mostly of the 17th and 18th centuries. A quaint fashion was to
 have a leather cup made in the form of a lady's shoe; this, however, was
 confined to Germany and might be thought in somewhat questionable taste.
@@ -727,12 +727,12 @@ would inevitably spill some of the contents.
 
 The horn of the rhinoceros is much favoured by the Chinese as a material
 for drinking cups often of a somewhat archaic form. The dense structure
-of the horn is well adapted for the purpose, and its beautiful amber hue
+of the horn is well adapted for the purpose, and its beautiful amber [[Hue|hue]]
 makes the vessel a very agreeable object to the eye. The usual form is
 of a boat shape on a square foot, and the carved decoration is often
 copied from that of the bronze vessels of the earlier dynasties. Others
 are treated in a freer and more naturalistic manner, the bowl being
-formed as the flower of the magnolia, and the entire horn, at times more
+formed as the [[Flower|flower]] of the magnolia, and the entire horn, at times more
 than 2 ft. in length, is utilized in carrying out the design. One of
 this kind is in the Victoria and Albert Museum. Cups of the former type
 are commonly found imitated in ivory-white porcelain, and are known as
@@ -746,13 +746,13 @@ There is but little to be said about the vessels used in the drinking of
 tea and coffee. In Europe the type has practically remained unchanged
 since the introduction of tea and coffee drinking, except that in the
 18th century the tea-cups imported from China had no handles, and were
-generally thinner than the coffee cups. In Japan there is a ceremonious
+generally thinner than the coffee cups. In [[Japan]] there is a ceremonious
 way of drinking tea, known as _Cha no yu_. Here powdered green tea is
 used; the party assembles in a small pavilion in a garden, and the tea
-is made in accordance with a rigid etiquette. The infusion is stirred
+is made in accordance with a rigid [[Etiquette|etiquette]]. The infusion is stirred
 with a whisk in a rudely fashioned bowl, holding about a pint, and
 passed from one guest to another. The bowls are of very thick pottery,
-never of porcelain, and the most valued kind is that made in Korea. In
+never of porcelain, and the most valued kind is that made in [[Korea]]. In
 the drinking of rice spirit (saké) in Japan small wide shallow cups are
 used, made generally of porcelain, but sometimes of finely lacquered
 wood. Both kinds are usually ornamented with elaborate and sometimes
@@ -761,12 +761,12 @@ allusive designs.
 
   Savage utensils.
 
-Among savage races the most peculiar drinking ceremony is that of kava
+Among savage races the most peculiar drinking ceremony is that of [[Kava|kava]]
 drinking in Polynesia, principally in the Fijian, Tongan and Samoan
 groups. The best description of the process is given in Mariner's
 _Tonga_. The principal vessel is usually a large bowl, sometimes
 measuring 2 or 3 ft. in diameter, cut from a solid block of wood. It has
-four short legs and an ear at one side to which a rope of coco-nut fibre
+four short [[Leg|legs]] and an [[Ear|ear]] at one side to which a rope of coco-nut fibre
 is generally attached. The liquid is prepared in this bowl and ladled
 out in small cups often made of coco-nut shells, and these are handed
 round with great ceremony. Both the bowl and the cups become coated in
@@ -782,8 +782,8 @@ inner bark of the _hibiscus_. The liquor is slightly intoxicating.
 
 If the Polynesian method of preparing kava as a drink is distasteful to
 our ideas, the favourite drinking bowl of the old Tibetans is even more
-so. Friar Odoric (14th century), quoted by Yule, describes how the
-Tibetan youth "takes his father's head and straightway cooks and eats
+so. [[Friar]] Odoric (14th century), quoted by Yule, describes how the
+Tibetan youth "takes his father's head and straightway [[Cook|cooks]] and eats
 it, and of the skull he makes a goblet from which he and all his family
 always drink devoutly to the memory of the deceased father." This
 recalls Livy's account of the Boii in Upper Italy, who made a drinking

@@ -9,7 +9,7 @@ type: source
 
 FORSSELL, HANS LUDVIG (1843-1901), Swedish historian and political
 writer, the son of Adolf Forssell, a distinguished mathematician, was
-born at Gefle, where his father was professor, on 14th January 1843. At
+born at [[Gefle]], where his father was professor, on 14th January 1843. At
 the age of sixteen he became a student in Upsala University, where he
 distinguished himself, and where, in 1866, having taken the degree of
 doctor, he was appointed reader in history. At the age of thirty,
@@ -21,14 +21,14 @@ revenue, of which he continued to be president until the time of his
 death. In addition to the responsibilities which these offices devolved
 upon him, Forssell was constantly called to serve on royal commissions,
 and his political influence was immense. In spite of all these public
-duties, which he carried through with the utmost diligence, Forssell
+duties, which he carried through with the utmost [[Diligence|diligence]], Forssell
 also found leisure for an abundant literary activity. Of his historical
 writings the most important were: _The Administrative and Economical
 History of Sweden after Gustavus I._ (1869-1875) and _Sweden in 1571_
 (1872). He was also for several years, in company with the poet Wirsen,
 editor of the _Swedish Literary Review_. He published two volumes of
 _Studies and_ _Criticisms_ (1875, 1888). In the year 1881, at the death
-of the historian Anders Fryxell, Forssell was elected to the vacant seat
+of the historian Anders [[Fryxell]], Forssell was elected to the vacant seat
 on the Swedish Academy. The energy of Forssell was so great, and he
 understood so little the economy of strength, that he unquestionably
 overtaxed his vital force. His death, however, which occurred with great

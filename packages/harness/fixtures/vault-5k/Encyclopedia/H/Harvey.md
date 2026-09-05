@@ -8,7 +8,7 @@ topic: logic
 
 HARVEY, WILLIAM (1578-1657), English physician, the discoverer of the
 circulation of the blood, was the eldest son of Thomas Harvey, a
-prosperous Kentish yeoman, and was born at Folkestone on the 1st of
+prosperous Kentish yeoman, and was born at [[Folkestone]] on the 1st of
 April 1578. After passing through the grammar school of Canterbury, on
 the 31st of May 1593, having just entered his sixteenth year, he became
 a pensioner of Caius College, Cambridge, at nineteen he took his B.A.
@@ -16,10 +16,10 @@ degree, and soon after, having chosen the profession of medicine, he
 went to study at Padua under H. Fabricius and Julius Casserius. At the
 age of twenty-four Harvey became doctor of medicine, in April 1602.
 Returning to England in the first year of James I., he settled in
-London; and two years later he married the daughter of Dr Lancelot
+London; and two years later he married the daughter of Dr [[Lancelot]]
 Browne, who had been physician to Queen Elizabeth. In the same year he
 became a candidate of the Royal College of Physicians, and was duly
-admitted a fellow (June 1607). In 1609 he obtained the reversion of the
+admitted a [[Fellow|fellow]] (June 1607). In 1609 he obtained the reversion of the
 post of physician to St Bartholomew's hospital. His application was
 supported by the king himself and by Dr Henry Atkins (1558-1635), the
 president of the college, and on the death of Dr Wilkinson in the course
@@ -35,10 +35,10 @@ to his successor. In 1628, the year of the publication of the
 _Exercitatio anatomica de motu cordis et sanguinis_, he was elected
 treasurer of the College of Physicians, but at the end of the following
 year he resigned the office, in order, by command of Charles I., to
-accompany the young duke of Lennox (James Stuart, afterwards duke of
+accompany the young duke of [[Lennox]] (James Stuart, afterwards duke of
 Richmond) on his travels. He appears to have visited Italy, and returned
 in 1632. Four years later he accompanied the earl of Arundel on his
-embassy to the emperor Ferdinand II. He was eager in collecting objects
+embassy to the emperor [[Ferdinand]] II. He was eager in collecting objects
 of natural history, sometimes causing the earl anxiety for his safety by
 his excursions in a country infested by robbers in consequence of the
 Thirty Years' War. In a letter written on this journey, he says: "By the
@@ -47,35 +47,35 @@ anything to anatomise; only sum few miserable people, the reliques of
 the war and the plague, whom famine had made anatomies before I came."
 Having returned to his practice in London at the close of the year 1636,
 he accompanied Charles I. in one of his journeys to Scotland (1639 or
-1641). While at Edinburgh he visited the Bass Rock; he minutely
+1641). While at Edinburgh he visited the [[Bass Rock]]; he minutely
 describes its abundant population of sea-fowl in his treatise _De
 generatione_, and incidentally speaks of the account then credited of
-the solan goose growing on trees as a fable. He was in attendance on the
+the solan [[Goose|goose]] growing on trees as a fable. He was in attendance on the
 king at the battle of Edgehill (October 1642), where he withdrew under a
 hedge with the prince of Wales and the duke of York (then boys of twelve
 and ten years old), "and took out of his pocket a book and read. But he
-had not read very long before a bullet of a great gun grazed on the
+had not read very long before a [[Bullet|bullet]] of a great gun grazed on the
 ground near him, which made him remove his station," as he afterwards
 told John Aubrey. After the indecisive battle, Harvey followed Charles
 I. to Oxford, "where," writes the same gossiping narrator, "I first saw
 him, but was then too young to be acquainted with so great a doctor. I
 remember he came several times to our college (Trinity) to George
-Bathurst, B.D. who had a hen to hatch eggs in his chamber, which they
+Bathurst, B.D. who had a hen to hatch [[Egg|eggs]] in his chamber, which they
 opened daily to see the progress and way of generation." In Oxford he
 remained three years, and there was some chance of his being superseded
 in his office at St Bartholomew's hospital, "because he hath withdrawn
 himself from his charge, and is retired to the party in arms against the
 Parliament." It was no doubt at this time that his lodgings at Whitehall
 were searched, and not only the furniture seized but also invaluable
-manuscripts and anatomical preparations.[1]
+[[Manuscript|manuscripts]] and anatomical preparations.[1]
 
 While with the king at Oxford he was made warden of Merton College, but
-a year later, in 1646, that city surrendered to Fairfax, and Harvey
+a year later, in 1646, that city surrendered to [[Fairfax]], and Harvey
 returned to London. He was now sixty-eight years old, and, having
 resigned his appointments and relinquished the cares of practice, lived
 in learned retirement with one or other of his brothers. It was in his
 brother Daniel's house at Combe that Dr (afterwards Sir George) Ent, a
-faithful friend and disciple (1604-1689), visited him in 1650. "I found
+faithful friend and [[Disciple|disciple]] (1604-1689), visited him in 1650. "I found
 him," he says, "with a cheerful and sprightly countenance investigating,
 like Democritus, the nature of things. Asking if all were well with
 him--'How can that be,' he replied, 'when the state is so agitated with
@@ -107,7 +107,7 @@ both in his own country and abroad. He was known and honoured throughout
 Europe, and his own college (Caius) voted a statue in his honour (1652)
 _viro monumentis suis immortali_. In 1654 he was elected to the highest
 post in his profession, that of president of the college; but the
-following day he met the assembled fellows, and, declining the honour
+following day he met the assembled [[Fellows|fellows]], and, declining the honour
 for himself on account of the infirmities of age, recommended the
 re-election of the late president Dr Francis Prujean (1593-1666). He
 accepted, however, the office of consiliarius, which he again held in
@@ -166,19 +166,19 @@ arteries were not, as their name implies, merely air-pipes, but that
 they contained blood as well as vital air or spirit. And it had been
 gradually ascertained that the nerves ([Greek: neura]) which arose from
 the brain and conveyed "animal spirits" to the body were different from
-the tendons or sinews ([Greek: neura]) which attach muscles to bones.
-_First_, then, the physicians of the time of Thomas Linacre knew that
+the tendons or sinews ([Greek: neura]) which attach muscles to [[Bone|bones]].
+_First_, then, the physicians of the time of Thomas [[Linacre]] knew that
 the blood is not stagnant in the body. So did Shakespeare and Homer, and
 every augur who inspected the entrails of a victim, and every village
 barber who breathed a vein. Plato even uses the expression to [Greek: to
 aima kata panta ta mele sphodros peripheresthai]. But no one had a
 conception of a continuous stream returning to its source (a circulation
-in the true sense of the word) either in the system or in the lungs. If
-they used the word _circulatio_, as did Caesalpinus,[2] it was as
+in the true sense of the word) either in the system or in the [[Lung|lungs]]. If
+they used the word _circulatio_, as did [[Caesalpinus]],[2] it was as
 vaguely as the French policeman cries "Circulez." The movements of the
 blood were in fact thought to be slow and irregular in direction as well
 as in speed, like the "circulation" of air in a house, or the
-circulation of a crowd in the streets of a city. _Secondly_, they
+circulation of a [[Crowd|crowd]] in the streets of a city. _Secondly_, they
 supposed that one kind of blood flowed from the liver to the right
 ventricle of the heart, and thence to the lungs and the general system
 by the veins, and that another kind flowed from the left ventricle to
@@ -240,7 +240,7 @@ sent into the arteries, round by the smaller veins into the venae cavae,
 and by them to the right ventricle again--thus making a complete
 "circulation"; (4) that the blood in the arteries and that in the veins
 is the same blood; (5) that the action of the right and left sides of
-the heart, auricles, ventricles and valves, is the same, the mechanism
+the heart, [[Auricle|auricles]], ventricles and valves, is the same, the mechanism
 in both being for reception and propulsion of liquid and not of air,
 since the blood on the right side, though mixed with air, is still
 blood; (6) that the blood sent through the arteries to the tissues is
@@ -262,7 +262,7 @@ amicam in apertis relinquant, et in conspectu omnium deserant." He had,
 as we know, not only furnished himself with all the knowledge that books
 and the instructions of the best anatomists of Italy could give, but, by
 a long series of dissections, had gained a far more complete knowledge
-of the comparative anatomy of the heart and vessels than any
+of the [[Comparative Anatomy|comparative anatomy]] of the heart and vessels than any
 contemporary--we may almost say than any successor--until the times of
 John Hunter and J. F. Meckel. Thus equipped, he tells us that he began
 his investigations into the movements of the heart and blood by looking
@@ -270,7 +270,7 @@ at them--i.e. by seeing their action in living animals. After a modest
 preface, he heads his first chapter "Ex vivorum dissectione, qualis sit
 cordis motus." He minutely describes what he saw and handled in dogs,
 pigs, serpents, frogs and fishes, and even in slugs, oysters, lobsters
-and insects, in the transparent _minima squilla_, "quae Anglice dicitur
+and [[Insect|insects]], in the transparent _minima squilla_, "quae Anglice dicitur
 _a shrimp_," and lastly in the chick while still in the shell. In these
 investigations he used a _perspicillum_ or simple lens. He particularly
 describes his observations and experiments on the ventricles, the
@@ -295,7 +295,7 @@ externally, the muscular structure of the heart and the necessary
 working of its valves. The whole treatise, which occupies only 67 pages
 of large print in the quarto edition of 1766, is a model of accurate
 observation, patient accumulation of facts, ingenious experimentation,
-bold yet cautious hypothesis and logical deduction.
+bold yet cautious [[Hypothesis|hypothesis]] and logical deduction.
 
 In one point only was the demonstration of the circulation incomplete.
 Harvey could not discover the capillary channels by which the blood
@@ -324,7 +324,7 @@ Adams.
   perfection, and convinced his colleagues by actual demonstrations of
   the truth of what he advanced. He anticipates opposition, and even
   obloquy or loss, from the novelty of his views. These anticipations,
-  however, the event proved to have been groundless. If we are to credit
+  however, the event proved to have been groundless. If we are to [[Credit|credit]]
   Aubrey indeed, he found that after the publication of the _De motu_
   "he fell mightily in his practice; 'twas believed by the vulgar that
   he was crackbrained, and all the physicians were against him." But the
@@ -361,7 +361,7 @@ Adams.
   tamen valuit Harveius vel coram," writes P. M. Schlegel, who, however,
   afterwards succeeded in persuading the obstinate old Galenist to
   soften his opposition to the new doctrine, and thinks that his
-  complete conversion might have been effected if he had but lived a
+  complete [[Conversion|conversion]] might have been effected if he had but lived a
   little longer--"nec dubito quin concessisset tandem in nostra castra."
   While in Italy the following year Harvey visited his old university of
   Padua, and demonstrated his views to Professor Vessling. A few months
@@ -403,7 +403,7 @@ Adams.
   professor of anatomy at Rome, expounded the new doctrine in 1651. But
   the most illustrious converts were Jean Pecquet of Dieppe, the
   discoverer of the thoracic duct, and of the true course of the lacteal
-  vessels, and Thomas Bartholinus of Copenhagen, in his _Anatome ex
+  vessels, and Thomas Bartholinus of [[Copenhagen]], in his _Anatome ex
   omnium veterum recentiorumque observationibus, imprimis
   institutionibus beati mei parentis Caspari Bartholini, ad
   circulationem Harveianam et vasa lymphatica renovata_ (Leiden, 1651).
@@ -417,7 +417,7 @@ Adams.
   It has been made a reproach to Harvey that he failed to appreciate the
   importance of the discoveries of the lacteal and lymphatic vessels by
   G. Aselli, J. Pecquet and C. Bartholinus. In three letters on the
-  subject, one to Dr R. Morison of Paris (1652) and two to Dr Horst of
+  subject, one to Dr R. Morison of Paris (1652) and two to Dr [[Horst]] of
   Darmstadt (1655), a correspondent of Bartholin's, he discusses these
   observations, and shows himself unconvinced of their accuracy. He
   writes, however, with great moderation and reasonableness, and excuses
@@ -476,7 +476,7 @@ system which was never completed or finally revised.
   and afterwards of albumen. In chapter xlv. he describes two methods of
   production of the embryo from the ovum: one is _metamorphosis_, or the
   direct transformation of pre-existing material, as a worm from an egg,
-  or a butterfly from an _aurelia_ (chrysalis); the other is
+  or a butterfly from an _[[Aurelia|aurelia]]_ (chrysalis); the other is
   _epigenesis_, or development with addition of parts, the true
   generation observed in all higher animals. Chapters xlvi.-l. are
   devoted to the abstruse question of the efficient cause of generation,
@@ -492,7 +492,7 @@ system which was never completed or finally revised.
   masses (which he oddly names _vermiculus_), one of which develops into
   three vesicles, to form the cerebrum, cerebellum and eyes, the other
   into the breastbone and thorax; on the sixth or seventh day come the
-  viscera, and lastly, the feathers and other external parts. Harvey
+  viscera, and lastly, the [[Feather|feathers]] and other external parts. Harvey
   points out how nearly this order of development in the chick agrees
   with what he had observed in mammalian and particularly in human
   embryos. He notes the bifid apex of the foetal heart in man and the
@@ -541,7 +541,7 @@ their own profit), "and that a man could hardly tell by his bill what he
 did aim at." However this may have been,--and rational therapeutics was
 impossible when the foundation stone of physiology had only just been
 laid,--we know that Harvey was an active practitioner, performing such
-important surgical operations as the removal of a breast, and he turned
+important surgical operations as the removal of a [[Breast|breast]], and he turned
 his obstetric experience to account in his book on generation. Some good
 practical precepts as to the conduct of labour are quoted by Percivall
 Willughby (1596-1685). He also took notes of the anatomy of disease;
@@ -549,7 +549,7 @@ these unfortunately perished with his other manuscripts. Otherwise we
 might regard him as a forerunner of G. B. Morgagni; for Harvey saw that
 pathology is but a branch of physiology, and like it must depend first
 on accurate anatomy. He speaks strongly to this purpose in his first
-epistle to Riolan: "Sicut enim sanorum et boni habitus corporum
+[[Epistle|epistle]] to Riolan: "Sicut enim sanorum et boni habitus corporum
 dissectio plurimum ad philosophiam et rectam physiologiam facit, ita
 corporum morbosorum et cachecticorum inspectio potissimum ad pathologiam
 philosophicam." The only specimen we have of his observations in morbid
@@ -581,7 +581,7 @@ arteries which supplied it with blood (_De generat._ Exerc. xix.).
   discovery of the lacteals; the two to Nardi are short letters of
   friendship. All these letters were published by Sir George Ent in his
   collected works (Leiden, 1687). Of two MS. letters, one on official
-  business to the secretary Dorchester was printed by Dr Aveling, with a
+  business to the secretary [[Dorchester]] was printed by Dr Aveling, with a
   facsimile of the crabbed handwriting (_Memorials of Harvey_, 1875),
   and the other, about a patient, appears in Dr Robert Willis's _Life of
   Harvey_ (1878). _Praelectiones anatomiae universalis per me Gul.
@@ -625,8 +625,8 @@ arteries which supplied it with blood (_De generat._ Exerc. xix.).
   contemporary writings have been mentioned above. The following list
   gives some of the most remarkable in modern times: the article in
   Bayle's dictionary quoted above; _Anatomical Lectures_, by Wm. Hunter,
-  M.D. (1784); Sprengell, _Geschichte der Arzneikunde_ (Halle, 1800),
-  vol. iv.; Flourens, _Histoire de la circulation_ (1854); Lewes,
+  M.D. (1784); Sprengell, _Geschichte der Arzneikunde_ ([[Halle]], 1800),
+  vol. iv.; Flourens, _Histoire de la circulation_ (1854); [[Lewes]],
   _Physiology of Common Life_ (1859), vol. i. pp. 291-345; Ceradini, _La
   Scoperta della circolazione del sangue_ (Milan, 1876); Tollin, _Die
   Entdeckung des Blutkreislaufs durch Michael Servet_ (Jena, 1876);
@@ -648,7 +648,7 @@ FOOTNOTES:
     adversaria mea, multorum annorum laboribus parta, e museo meo
     summoverunt. Quo factum est ut observationes plurimae, praesertim de
     generatione insectorum, cum republicae literariae (ausim dicere)
-    detrimento, perierint."--_De gen._, Ex. lxviii. To this loss Cowley
+    detrimento, perierint."--_De gen._, Ex. lxviii. To this loss [[Cowley]]
     refers--
 
       "O cursed war! who can forgive thee this?

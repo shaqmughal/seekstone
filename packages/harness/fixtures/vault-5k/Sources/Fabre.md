@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fabre"
 
 # Fabre
 
-FABRE, FERDINAND (1830-1898), French novelist, was born at Bédarieux, in
+FABRE, [[Ferdinand|FERDINAND]] (1830-1898), French novelist, was born at Bédarieux, in
 Hérault, a very picturesque district of the south of France, which he
 made completely his own in literature. He was the son of a local
 architect, who failed in business, and Ferdinand was brought up by his
@@ -28,7 +28,7 @@ treated the subject which was to recur in almost all his books, the
 daily business of country priests in the Cevennes. This story enjoyed an
 immediate success with the literary class of readers; George Sand
 praised it, Sainte-Beuve hailed in its author "the strongest of the
-disciples of Balzac," and it was crowned by the French Academy. From
+[[Disciple|disciples]] of Balzac," and it was crowned by the French Academy. From
 this time forth Fabre settled down to the production of novels, of which
 at the time of his death he had published about twenty. Among these the
 most important were _Le Chevrier_ (1868), unique among his works as
@@ -54,7 +54,7 @@ limited and a monotonous talent, but within his own field he was as
 original as he was wholesome and charming.
 
   See also J. Lemaître, _Les Contemporains_, vol. ii.; G. Pellissier,
-  _Études de littérature contemporaine_ (1898); E.W. Gosse, _French
+  _Études de littérature contemporaine_ (1898); E.W. [[Gosse]], _French
   Profiles_ (1905).     (E. G.)
 
 
@@ -64,7 +64,7 @@ FABRE D'ÉGLANTINE, PHILIPPE FRANÇOIS NAZAIRE (1750-1794), French
 dramatist and revolutionist, was born at Carcassonne on the 28th of July
 1750. His real name was simple Fabre, the "d'Églantine" being added in
 commemoration of his receiving the golden eglantine of Clémence Isaure
-from the academy of the floral games at Toulouse. After travelling
+from the academy of the floral [[Games|games]] at Toulouse. After travelling
 through the provinces as an actor, he came to Paris, and produced an
 unsuccessful comedy entitled _Les Gens de lettres, ou le provincial à
 Paris_ (1787). A tragedy, _Augusta_, produced at the _Théâtre Français_,
@@ -74,7 +74,7 @@ a continuation of Molière's _Misanthrope_, but the hero of the piece is
 of a different character from the nominal prototype--an impersonation,
 indeed, of pure and simple egotism. On its publication the play was
 introduced by a preface, in which the author mercilessly satirizes the
-_Optimiste_ of his rival J.F. Collin d'Harleville, whose _Châteaux en
+_Optimiste_ of his rival J.F. [[Collin]] d'Harleville, whose _Châteaux en
 Espagne_ had gained the applause which Fabre's _Présomptueux_ (1789) had
 failed to win. The character of Philinte had much political
 significance. Alceste received the highest praise, and evidently
@@ -84,19 +84,19 @@ Cordeliers, and belonged also to the Jacobin club. He was chosen by
 Danton as his private secretary, and sat in the National Convention. He
 voted for the king's death, supporting the _maximum_ and the law of the
 suspected, and he was a bitter enemy of the Girondins. After the death
-of Marat he published a _Portrait de l'Ami du Peuple_. On the abolition
+of [[Marat]] he published a _Portrait de l'Ami du Peuple_. On the abolition
 of the Gregorian calendar he sat on the committee entrusted with the
 formation of the republican substitute, and to him was due a large part
 of the new nomenclature, with its poetic _Prairial and Floréal_, its
 prosaic _Primidi_ and _Duodi_. The report which he made on the subject,
 on the 24th of October, has some scientific value. On the 12th of
 January 1794 he was arrested by order of the committee of public safety
-on a charge of malversation and forgery in connexion with the affairs of
+on a charge of malversation and [[Forgery|forgery]] in connexion with the affairs of
 the Compagnie des Indes. Documents still existing prove that the charge
 was altogether groundless. During his trial Fabre showed the greatest
 calmness and sang his own well-known song of _Il pleut, il pleut,
-bergère, rentre tes blancs moutons_. He was guillotined on the 5th of
-April 1794. On his way to the scaffold he distributed his manuscript
+[[Berg|berg]]ère, rentre tes [[Blanc|blancs]] moutons_. He was guillotined on the 5th of
+April 1794. On his way to the scaffold he distributed his [[Manuscript|manuscript]]
 poems to the people.
 
 A posthumous play, _Les Précepteurs_, steeped with the doctrines of

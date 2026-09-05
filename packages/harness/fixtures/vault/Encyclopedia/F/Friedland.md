@@ -8,23 +8,23 @@ topic: ethics
 
 FRIEDLAND, a town of Prussia, on the Alle, 27 m. S.E. of Konigsberg
 (pop. 3000), famous as the scene of the battle fought between the French
-under Napoleon and the Russians commanded by General Bennigsen, on the
+under Napoleon and the Russians commanded by General [[Bennigsen]], on the
 14th of June 1807 (see NAPOLEONIC CAMPAIGNS). The Russians had on the
-13th driven the French cavalry outposts from Friedland to the westward,
+13th driven the French [[Cavalry|cavalry]] outposts from Friedland to the westward,
 and Bennigsen's main body began to occupy the town in the night. The
 army of Napoleon was set in motion for Friedland, but it was still
 dispersed on its various march routes, and the first stage of the
-engagement was thus, as usual, a pure "encounter-battle." The corps of
+engagement was thus, as usual, a pure "encounter-battle." The [[Corps|corps]] of
 Marshal Lannes as "general advanced guard" was first engaged, in the
 Sortlack Wood and in front of Posthenen (2.30-3 A.M. on the 14th). Both
 sides now used their cavalry freely to cover the formation of lines of
 battle, and a race between the rival squadrons for the possession of
-Heinrichsdorf resulted in favour of the French under Grouchy. Lannes in
+Heinrichsdorf resulted in favour of the French under [[Grouchy]]. Lannes in
 the meantime was fighting hard to hold Bennigsen, for Napoleon feared
 that the Russians meant to evade him again. Actually, by 6 A.M.
 Bennigsen had nearly 50,000 men across the river and forming up west of
 Friedland. His infantry, in two lines, with artillery, extended between
-the Heinrichsdorf-Friedland road and the upper bends of the river.
+the Heinrichsdorf-Friedland road and the upper [[Bend|bends]] of the river.
 Beyond the right of the infantry, cavalry and Cossacks extended the line
 to the wood N.E. of Heinrichsdorf, and small bodies of Cossacks
 penetrated even to Schwonau. The left wing also had some cavalry and,
@@ -45,11 +45,11 @@ divisions were added to the general reserve. The course of the previous
 operations had been such that both armies had still large detachments
 out towards Konigsberg. The afternoon was spent by the emperor in
 forming up the newly arrived masses, the deployment being covered by an
-artillery bombardment. At 5 o'clock all was ready, and Ney, preceded by
+artillery [[Bombardment|bombardment]]. At 5 o'clock all was ready, and Ney, preceded by
 a heavy artillery fire, rapidly carried the Sortlack Wood. The attack
 was pushed on toward the Alle. One of Ney's divisions (Marchand) drove
 part of the Russian left into the river at Sortlack. A furious charge of
-cavalry against Marchand's left was repulsed by the dragoon division of
+cavalry against Marchand's left was repulsed by the [[Dragoon|dragoon]] division of
 Latour-Maubourg. Soon the Russians were huddled together in the bends of
 the Alle, an easy target for the guns of Ney and of the reserve. Ney's
 attack indeed came eventually to a standstill; Bennigsen's reserve
@@ -59,7 +59,7 @@ in June and on firm ground the old mobility of the French reasserted its
 value. The infantry division of Dupont advanced rapidly from Posthenen,
 the cavalry divisions drove back the Russian squadrons into the now
 congested masses of foot on the river bank, and finally the artillery
-general Senarmont advanced a mass of guns to case-shot range. It was the
+general Senarmont advanced a mass of guns to [[Case-Shot|case-shot]] range. It was the
 first example of the terrible artillery preparations of modern warfare,
 and the Russian defence collapsed in a few minutes. Ney's exhausted
 infantry were able to pursue the broken regiments of Bennigsen's left

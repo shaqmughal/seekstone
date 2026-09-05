@@ -8,7 +8,7 @@ tags: [trade-routes, mechanics]
 # Guthrum
 
 GUTHRUM (GODRUM) (d. 890), king of East Anglia, first appears in the
-_English Annals_ in the year 875, when he is mentioned as one of three
+_English [[Annals]]_ in the year 875, when he is mentioned as one of three
 Danish kings who went with the host to Cambridge. He was probably
 engaged in the campaigns of the next three years, and after Alfred's
 victory at Edington in 878, Guthrum met the king at Aller in

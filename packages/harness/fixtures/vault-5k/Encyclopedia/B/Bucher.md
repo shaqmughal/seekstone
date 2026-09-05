@@ -23,7 +23,7 @@ amount of his confidence. It was he who drew up the text of the
 constitution of the North German Confederation; in 1870 he was sent on a
 very confidential mission to Spain in connexion with the Hohenzollern
 candidature for the Spanish crown; he assisted Bismarck at the final
-negotiations for the treaty of Frankfort, and was one of the secretaries to
+negotiations for the treaty of [[Frankfort]], and was one of the secretaries to
 the congress of Berlin; he also assisted Bismarck in the composition of his
 memoirs. Bucher, who was a man of great ability, had considerable
 influence, which was especially directed against the economic doctrines of
@@ -34,7 +34,7 @@ do with introducing it, and he did much to encourage anti-British feeling
 in Germany. He died at Glion, in Switzerland, on the 12th of October 1892.
 
 See Heinrich v. Poschinger, _Ein 48er: Lothar Buchers Leben und Werke_ (3
-vols., Berlin, 1890); Busch, _Bismarck: Some Secret Pages of his History_
+vols., Berlin, 1890); [[Busch]], _Bismarck: Some Secret Pages of his History_
 (London, 1898).
 
 (J. W. HE.)

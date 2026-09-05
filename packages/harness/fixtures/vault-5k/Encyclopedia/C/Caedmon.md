@@ -14,7 +14,7 @@ song Baeda gives a prose paraphrase, which may be literally rendered as
 follows:--"Now must we praise the author of the heavenly kingdom, the
 Creator's power and counsel, the deeds of the Father of glory: how He, the
 eternal God, was the author of all marvels--He, who first gave to the sons
-of men the heaven for a roof, and then, Almighty Guardian of mankind,
+of men the heaven for a roof, and then, Almighty [[Guardian]] of mankind,
 created the earth." Baeda explains that his version represents the sense
 only, not the arrangement of the words, because no poetry, however
 excellent, can be rendered into another language, without the loss of its
@@ -31,11 +31,11 @@ the remainder of his life his more learned brethren from time to time
 expounded to him the events of Scripture history and the doctrines of the
 faith, and all that he heard from them he reproduced in beautiful poetry.
 "He sang of the creation of the world, of the origin of mankind and of all
-the history of Genesis, of the exodus of Israel from Egypt and their
+the history of [[Genesis]], of the [[Exodus|exodus]] of Israel from Egypt and their
 entrance into the Promised Land, of many other incidents of Scripture
 history, of the Lord's incarnation, passion, resurrection and ascension, of
 the coming of the Holy Ghost and the teaching of the apostles. He also made
-many songs of the terrors of the coming judgment, of the horrors of hell
+many songs of the terrors of the coming judgment, of the horrors of [[Hell|hell]]
 and the sweetness of heaven; and of the mercies and the judgments of God."
 All his poetry was on sacred themes, and its unvarying aim was to turn men
 from sin to righteousness and the love of God. Although many amongst the
@@ -52,7 +52,7 @@ considerable time before Baeda finished his history in 731.
 
 The hymn said to have been composed by Caedmon in his dream is extant in its
 original language. A copy of it, in the poet's own Northumbrian dialect,
-and in a handwriting of the 8th century, appears on a blank page of the
+and in a handwriting of the 8th century, appears on a [[Blank|blank]] page of the
 Moore MS. of Baeda's History; and five other Latin MSS. of Baeda have the
 poem (but transliterated into a more southern dialect) as a marginal note.
 In the old English version of Baeda, ascribed to King Alfred, and certainly
@@ -67,7 +67,7 @@ paraphrase. But the form of the sentences in Baeda's prose shows a close
 adherence to the parallelistic structure of Old English verse, and the
 alliterating words in the poem are in nearly every case the most obvious
 and almost the inevitable equivalents of those used by Baeda. The sentence
-quoted above[1] can therefore have been meant only as an apology for the
+quoted above[1] can therefore have been meant only as an [[Apology|apology]] for the
 absence of those poetic graces that necessarily disappear in translations
 into another tongue. Even on the assumption that the existing verses are a
 retranslation, it would still be certain that they differ very slightly
@@ -90,7 +90,7 @@ convenience, and does not imply any belief in the correctness of the
 attribution. The so-called Caedmon poems are contained [v.04 p.0935] in a
 MS. written about A.D. 1000, which was given in 1651 by Archbishop Ussher
 to the famous scholar Francis Junius, and is now in the Bodleian library.
-They consist of paraphrases of parts of Genesis, Exodus and Daniel, and
+They consist of paraphrases of parts of Genesis, Exodus and [[Daniel]], and
 three separate poems the first on the lamentations of the fallen angels,
 the second on the "Harrowing of Hell," the resurrection, ascension and
 second coming of Christ, and the third (a mere fragment) on the temptation.
@@ -206,7 +206,7 @@ with an Old English terminal element in the name _Caedbaed_ (cp., however,
 the Irish name Cathbad), and hypocoristic forms of names containing it were
 borne by the English saints Ceadda (commonly known as St Chad) and his
 brother Cedd, called Ceadwealla in one MS. of the _Old English
-Martyrology_. A Cadmon witnesses a Buckinghamshire charter of about A.D.
+[[Martyrology]]_. A Cadmon witnesses a Buckinghamshire charter of about A.D.
 948.
 
 The older editions of the so-called "Caedmon's Paraphrase" by F. Junius
@@ -225,17 +225,17 @@ the order of the words."
 
 [2] The invention of these names was perhaps suggested by _Pericope Oollae
 et Oolibae_, which may have been a current title for the 23rd chapter of
-Ezekiel.
+[[Ezekiel]].
 
 [3] Stephens read the inscription on the top-stone as _Cadmon mae fauaepo_,
-which he rendered "Cadmon made me." But these words are mere jargon, not
+which he rendered "Cadmon made me." But these words are mere [[Jargon|jargon]], not
 belonging to any known or possible Old English dialect.
 
 [v.04 p.0936] CAELIA, the name of two ancient cities in Italy, (1) In
-Apulia (mod. _Ceglie di Bari_) on the Via Traiana, 5 m. S. of Barium. Coins
+Apulia (mod. _Ceglie di Bari_) on the Via Traiana, 5 m. S. of [[Barium]]. Coins
 found here bearing the inscription [Greek: Kailinon] prove that it was once
 an independent town. Discoveries of ruins and tombs have also been made.
-(2) In Calabria (mod. _Ceglie Messapica_) 25 m. W. of Brundusium, and 991
+(2) In [[Calabria]] (mod. _Ceglie Messapica_) 25 m. W. of Brundusium, and 991
 ft. above sea-level. It was in early times a place of some importance, as
 is indicated by the remains of a prehistoric _enceinte_ and by the
 discovery of several Messapian inscriptions.

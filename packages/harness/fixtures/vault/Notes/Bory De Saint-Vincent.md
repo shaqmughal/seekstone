@@ -7,13 +7,13 @@ type: note
 
 # Bory De Saint-Vincent
 
-BORY DE SAINT-VINCENT, JEAN BAPTISTE GEORGE MARIE (1780-1846), French
+BORY DE SAINT-VINCENT, JEAN [[Baptiste|BAPTISTE]] GEORGE MARIE (1780-1846), French
 naturalist, was born at Agen in 1780. He was sent as naturalist with
-Captain Nicholas Baudin's expedition to Australia in 1798, but left the
-vessel at Mauritius, and spent two years in exploring Reunion and other
+Captain Nicholas Baudin's expedition to [[Australia]] in 1798, but left the
+vessel at [[Mauritius]], and spent two years in exploring Reunion and other
 islands. Joining the army on his return, he was present at the battles
-of Ulm and Austerlitz, and in 1808 went to Spain with Marshal Soult. His
-attachment to the Napoleonic dynasty and dislike to the Bourbons were
+of Ulm and [[Austerlitz]], and in 1808 went to Spain with Marshal Soult. His
+[[Attachment|attachment]] to the Napoleonic dynasty and dislike to the [[Bourbon|Bourbons]] were
 shown in various ways during 1815, and his name was consequently placed
 on the list of the proscribed; but after wandering in disguise from
 place to place he was allowed quietly to return to Paris in 1820. In

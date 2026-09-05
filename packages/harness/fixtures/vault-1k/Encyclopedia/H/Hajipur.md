@@ -6,7 +6,7 @@ topic: geography-theory
 
 # Hajipur
 
-HAJIPUR, a town of British India, in the Muzaffarpur district of Bengal,
+HAJIPUR, a town of British India, in the Muzaffarpur district of [[Bengal]],
 on the Gandak, just above its confluence with the Ganges opposite Patna.
 Pop. (1901), 21,398. Hajipur figures conspicuously in the history of the
 struggles between Akbar and his rebellious Afghan governors of Bengal,
@@ -62,7 +62,7 @@ reproduced at Constantinople (1893).
   1697); a history of the Turkish empire from 1594 to 1655
   (Constantinople, 1870); a history of the naval wars of the Turks
   (Constantinople, 1729; chapters 1-4 translated by J. Mitchell, London,
-  1831); a general geography published at Constantinople, 1732 (Latin
+  1831); a general [[Geography|geography]] published at Constantinople, 1732 (Latin
   trans. by M. Norberg, London and Gotha, 1818; German trans. of part by
   J. von Hammer, Vienna, 1812; French trans. of part by V. de St Martin
   in his _Geography of Asia Minor_, vol. 1).

@@ -82,7 +82,7 @@ or more independent quantities x, y,...
   and the degree of accuracy of an interpolated value of u can be
   estimated. The second group comprises tables of values which are found
   experimentally, e.g. values of a physical quantity or of a statistical
-  ratio; these values are usually subject to certain "errors" of
+  ratio; these values are usually subject to certain "[[Error|errors]]" of
   observation or of random selection (see PROBABILITY). The methods of
   interpolation are usually the same in the two groups of cases, but
   special considerations have to be taken into account in the second
@@ -129,7 +129,7 @@ or more independent quantities x, y,...
   The differences of the successive values of u are called its _first
   differences_; these form a new series, the first differences of which
   are the _second differences_ of u; and so on. The systems of notation
-  of the differences are explained briefly below. For the fuller
+  of the differences are explained briefly below. For the [[Fuller|fuller]]
   discussion, reference should be made to DIFFERENCES, CALCULUS OF.
 
 
@@ -141,7 +141,7 @@ or more independent quantities x, y,...
   in which the first difference in u is constant, or nearly so. For
   example:--
 
-    _Example_ 1.--(u = log_10 x).   _Example_ 2.--(u = log_10 x).
+    _Example_ 1.--(u = [[Log|log]]_10 x).   _Example_ 2.--(u = log_10 x).
 
     +-------+--------+---------+     +------+--------+---------+
     |   x.  |    u.  |1st Diff.|     |  x.  |   u.   |1st Diff.|
@@ -290,7 +290,7 @@ or more independent quantities x, y,...
       .          .                                                                       |
       .          .                                                                      /
 
-  If a calculating machine is used, the formula (2) is most conveniently
+  If a calculating [[Machine|machine]] is used, the formula (2) is most conveniently
   written
 
     u_([theta]) = u0 + P1[theta]      \
@@ -362,7 +362,7 @@ or more independent quantities x, y,...
   consecutive ordinates, and consider that this is the graph of u, to
   the degree of accuracy given by the data. Similarly in using
   differences of a higher order we replace the graph by a curve whose
-  equation is of the form u = A + Bx + Cx^2 + Dx^3 + ... The various
+  [[Equation|equation]] is of the form u = A + Bx + Cx^2 + Dx^3 + ... The various
   forms that interpolation-formulae take are due to the various
   principles on which ordinates are selected for determining the values
   of A, B, C ...
@@ -434,7 +434,7 @@ or more independent quantities x, y,...
   be used. One is to calculate the sets of quantities which in the new
   table will be the successive differences, corresponding to u0, u1, ...
   and to find the intermediate terms by successive additions. A better
-  method is to use a formula due to J. D. Everett. If we write [phi] = 1
+  method is to use a formula due to J. D. [[Everett]]. If we write [phi] = 1
   - [theta], Everett's formula is, in its most symmetrical form,
 
                               ([theta] + 1)[theta]([theta] - 1)
@@ -775,7 +775,7 @@ or more independent quantities x, y,...
   curve which bears a general similarity to the unknown curve of
   frequency, and whose area and abscissa are so related that either can
   be readily calculated when the other is known. This may be called the
-  _auxiliary curve_. Denoting by [xi] the abscissa of this curve which
+  _[[Auxiliary|auxiliary]] curve_. Denoting by [xi] the abscissa of this curve which
   corresponds to area u, we find the value of [xi] corresponding to each
   of the given values of u. Then, tabulating [xi] in terms of x, we have
   a table in which, if the auxiliary curve has been well chosen,
@@ -936,7 +936,7 @@ or more independent quantities x, y,...
             (l - a) (l - b) (l - c) ...
 
   This is known as _Lagrange's formula_, but it is said to be due to
-  Euler. It is not convenient for practical use, since it does not show
+  [[Euler]]. It is not convenient for practical use, since it does not show
   how many terms have to be taken in any particular case.
 
   14. _Interpolation from Tables of Double Entry._--When u is a function
@@ -949,7 +949,7 @@ or more independent quantities x, y,...
   1, and [Delta]' differencing by changing y into y + 1. Then the
   formula is
 
-    u_(x, y) = (l + Delta)^x (1 + [Delta]')^y u_(0, 0);
+    u_(x, y) = (l + [[Delta]])^x (1 + [Delta]')^y u_(0, 0);
 
   and the right-hand side can be developed in whatever form is most
   convenient for the particular case.

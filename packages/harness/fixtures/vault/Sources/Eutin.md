@@ -8,17 +8,17 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Eutin"
 
 # Eutin
 
-EUTIN, a town of Germany, capital of the principality oi Lübeck, which
-is an enclave in the Prussian province of Schleswig-Holstein and belongs
+EUTIN, a town of Germany, capital of the principality oi Lü[[Beck|beck]], which
+is an [[Enclave|enclave]] in the Prussian province of Schleswig-Holstein and belongs
 to the grand-duchy of Oldenburg, picturesquely situated on the Lake
 Eutin, 20 m. N. from Lübeck by the railway to Kiel. Pop. (1905) 5204. It
 possesses a Roman Catholic and two Protestant churches, a palace with a
 fine park, and a monument to Weber, the composer, who was born here.
 Towards the end of the 18th century Eutin acquired some fame as the
 residence of a group of poets and writers, of whom the best-known were
-Johann Heinrich Voss, the brothers Stolberg, and Friedrich Heinrich
-Jacobi. In the neighbourhood is a beautiful tract of country, rich in
-beech forests and fjords, known as "the Holstein Switzerland," largely
+Johann Heinrich Voss, the brothers Stolberg, and [[Friedrich]] Heinrich
+[[Jacobi]]. In the neighbourhood is a beautiful tract of country, rich in
+[[Beech|beech]] forests and fjords, known as "the Holstein Switzerland," largely
 frequented in summer by the Hamburgers.
 
 Eutin was, according to tradition, founded by Count Adolf II. of

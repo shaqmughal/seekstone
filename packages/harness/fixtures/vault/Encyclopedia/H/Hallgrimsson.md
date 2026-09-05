@@ -7,17 +7,17 @@ tags: [medicine-studies, economics]
 
 # Hallgrimsson
 
-HALLGRIMSSON, JONAS (1807-1844), the chief lyrical poet of Iceland, was
+HALLGRIMSSON, [[Jonas|JONAS]] (1807-1844), the chief lyrical poet of [[Iceland]], was
 born in 1807 at Steinsstathir in Eyjafjartharsysla in the north of that
 island, and educated at the famous school of Bessastathr. In 1832 he went
-to the university of Copenhagen, and shortly afterwards turned his
+to the university of [[Copenhagen]], and shortly afterwards turned his
 attention to the natural sciences, especially geology. Having obtained
 pecuniary assistance from the Danish government, he travelled through
 all Iceland for scientific purposes in the years 1837-1842, and made
 many interesting geological observations. Most of his writings on
 geology are in Danish. His renown was, however, not acquired by his
 writings in that language, but by his Icelandic poems and short stories.
-He was well read in German literature, Heine and Schiller being his
+He was well read in German literature, [[Heine]] and Schiller being his
 favourites, and the study of the German masters and the old classical
 writers of Iceland opened his eyes to the corrupt state of Icelandic
 poetry and showed him the way to make it better. The misuse of the Eddic

@@ -10,7 +10,7 @@ tags: [empires, literature]
 # Gothite
 
 GOTHITE, or GOETHITE, a mineral composed of an iron hydrate, Fe2O3.H2O,
-crystallizing in the orthorhombic system and isomorphous with diaspore
+crystallizing in the orthorhombic system and isomorphous with [[Diaspore|diaspore]]
 and manganite (q.v.). It was first noticed in 1789, and in 1806 was
 named after the poet Goethe. Crystals are prismatic, acicular or scaly
 in habit; they have a perfect cleavage parallel to the brachypinacoid (M
@@ -19,8 +19,8 @@ structure also occur. The colour varies from yellowish or reddish to
 blackish-brown, and by transmitted light it is often blood-red; the
 streak is brownish-yellow; hardness, 5; specific gravity, 4.3. The best
 crystals are the brilliant, blackish-brown prisms with terminal
-pyramidal planes (fig.) from the Restormel iron mines at Lostwithiel,
-and the Botallack mine at St Just in Cornwall. A variety occurring as
+pyramidal planes (fig.) from the Restormel iron mines at [[Lostwithiel]],
+and the Botallack mine at St Just in [[Cornwall]]. A variety occurring as
 thin red scales at Siegen in Westphalia is known as Rubinglimmer or
 pyrrhosiderite (from Gr. [Greek: pyrros], flame-coloured, and [Greek:
 sideros], iron): a scaly-fibrous variety from the same locality is

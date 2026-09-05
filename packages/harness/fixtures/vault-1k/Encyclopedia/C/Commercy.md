@@ -20,7 +20,7 @@ century, and at that time its lords were dependent on the bishop of
 Metz. In 1544 it was besieged by Charles V. in person. For some time the
 lordship was in the hands of François Paul de Gondi, cardinal de Retz,
 who lived in the town for a number of years, and there composed his
-memoirs. From him it was purchased by Charles IV., duke of Lorraine. In
+memoirs. From him it was purchased by Charles IV., duke of [[Lorraine]]. In
 1744 it became the residence of Stanislas, king of Poland, who spent a
 great deal of care on the embellishment of the town, castle and
 neighbourhood.

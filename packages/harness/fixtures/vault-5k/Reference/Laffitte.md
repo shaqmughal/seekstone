@@ -8,8 +8,8 @@ Perregaux as head of the firm. The house of Perregaux, Laffitte et Cie.
 became one of the greatest in Europe, and Laffitte became regent (1809),
 then governor (1814) of the Bank of France and president of the Chamber
 of Commerce (1814). He raised large sums of money for the provisional
-government in 1814 and for Louis XVIII. during the Hundred Days, and it
-was with him that Napoleon deposited five million francs in gold before
+government in 1814 and for Louis XVIII. during the [[Hundred Days]], and it
+was with him that Napoleon deposited five million [[Franc|francs]] in gold before
 leaving France for the last time. Rather than permit the government to
 appropriate the money from the Bank he supplied two million from his own
 pocket for the arrears of the imperial troops after Waterloo. He was
@@ -56,7 +56,7 @@ parade his want of confidence in the man who had made him king.
 Thereupon, in March 1831, Laffitte resigned, begging pardon of God and
 man for the part he had played in raising Louis Philippe to the throne.
 He left office politically and financially a ruined man. His affairs
-were wound up in 1836, and next year he created a credit bank, which
+were wound up in 1836, and next year he created a [[Credit|credit]] bank, which
 prospered as long as he lived, but failed in 1848. He died in Paris on
 the 26th of May 1844.
 
@@ -65,7 +65,7 @@ the 26th of May 1844.
 
 FOOTNOTE:
 
-  [1] Apollinaire Antoine Maurice, comte d'Argout (1782-1858),
+  [1] Apollinaire Antoine [[Maurice]], comte d'Argout (1782-1858),
     afterwards reconciled to the July monarchy, and a member of the
     Laffitte Casimir-Périer and Thiers cabinets.
 

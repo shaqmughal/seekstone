@@ -13,7 +13,7 @@ person on behalf of another, a recommendation. The word is used in a
 liturgical sense for an office commending the souls of the dying and
 dead to the mercies of God. In feudal law the term is applied to the
 practice of a freeman placing himself under the protection of a lord
-(see FEUDALISM), and in ecclesiastical law to the granting of benefices
+(see FEUDALISM), and in [[Ecclesiastical Law|ecclesiastical law]] to the granting of [[Benefice|benefices]]
 _in commendam_. A benefice was held _in commendam_ when granted either
 temporarily until a vacancy was filled up, or to a layman, or, in case
 of a monastery or abbey, to a secular cleric to enjoy the revenues and

@@ -1,19 +1,19 @@
 # Carrickfergus
 
 CARRICKFERGUS, a seaport and watering-place of Co. Antrim, Ireland, in
-the east parliamentary division; on the northern shore of Belfast Lough,
+the east parliamentary division; on the northern shore of [[Belfast]] Lough,
 9½ m. N.E. of Belfast by the Northern Counties (Midland) railway. Pop.
 of urban district (1901) 4208. It stretches for about 1 m. along the
 shore of the Lough. The principal building is the castle, originally
-built by John de Courci towards the close of the 12th century, and
+built by John de [[Courci]] towards the close of the 12th century, and
 subsequently much enlarged. It stands on a projecting rock above the
 sea, and was formerly a place of much strength. It is still maintained
-as an arsenal, and mounted with heavy guns. The ancient donjon or keep,
+as an arsenal, and mounted with heavy guns. The ancient [[Donjon|donjon]] or keep,
 90 ft. in height, is still in good preservation. The town walls, built
 by Sir Henry Sidney, are still visible on the west and north, and the
 North Gate remains. The parish church of St Nicholas, an antiquated
 cruciform structure with curious Elizabethan work in the north transept,
-and monuments of the Chichester family, was originally a chapel or
+and monuments of the [[Chichester]] family, was originally a chapel or
 oratory dependent on a Franciscan monastery. The entrance to a
 subterranean passage between the two establishments is still visible
 under the communion-table of the church. The gaol, built on the site of
@@ -22,7 +22,7 @@ The court-house, which adjoins the gaol, is a modern building. The town
 has some trade in domestic produce, and in leather and linen
 manufactures, there being several flax spinning-mills and bleach-works
 in the immediate neighbourhood. Distilling is carried on. The harbour
-admits vessels of 500 tons. The fisheries are valuable, especially the
+admits vessels of 500 tons. The [[Fisheries|fisheries]] are valuable, especially the
 oyster fisheries. At Duncrue about 2 m. from the town, rock salt of
 remarkable purity and in large quantity is found in the Triassic
 sandstone. The neighbouring country is generally hilly, and Slieve True
@@ -32,7 +32,7 @@ In 1182, John de Courci, to whom Henry II. had granted all the parts of
 Ulster he could obtain possession of by the sword, fixed a colony in
 this district. The castle came in the 13th century into possession of
 the De Lacy family, who, being ejected, invited Edward Bruce to besiege
-it (1315). After a desperate resistance the garrison surrendered. In
+it (1315). After a desperate resistance the [[Garrison|garrison]] surrendered. In
 1386, the town was burned by the Scots, and in 1400 was destroyed by the
 combined Scots and Irish. Subsequently, it suffered much by famine and
 the occasional assaults of the neighbouring Irish chieftains, whose

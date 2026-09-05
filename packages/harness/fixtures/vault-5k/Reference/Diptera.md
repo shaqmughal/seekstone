@@ -9,8 +9,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Diptera"
 
 DIPTERA ([Greek: dis], double, [Greek: ptera], wings), a term (first
 employed in its modern sense by Linnaeus, _Fauna Suecica_, 1st ed.,
-1746, p. 306) used in zoological classification for one of the Orders
-into which the _Hexapoda_, or Insecta, are divided. The relation of the
+1746, p. 306) used in zoological [[Classification|classification]] for one of the Orders
+into which the _[[Hexapoda]]_, or Insecta, are divided. The relation of the
 Diptera (two-winged flies, or flies proper) to the other Orders is dealt
 with under Hexapoda (q.v.).
 
@@ -33,13 +33,13 @@ wing-veins, which are of great importance in the classification of
 Diptera, are usually few in number and chiefly longitudinal, there being
 a marked paucity of cross-veins. In a large number of Diptera an
 incision in the posterior margin of the wing, near the base, marks off a
-small lobe, the posterior lobe or alula, while connected with this but
+small [[Lobe|lobe]], the posterior lobe or alula, while connected with this but
 situated on the thorax itself there is a pair of membranous scales, or
 squamae, which when present serve to conceal the halteres. The antennae
 of Diptera, which are also extremely important in classification, are
 thread-like in the more primitive families, such as the _Tipulidae_
 (daddy-long-legs), where they consist of a considerable number of
-joints, all of which except the first two, and sometimes also the last
+[[Joints|joints]], all of which except the first two, and sometimes also the last
 two, are similar in shape; in the more specialized families, such as the
 _Tabanidae_ (horse-flies), _Syrphidae_ (hover-flies) or _Muscidae_
 (house-flies, blue-bottles and their allies), the number of antennal
@@ -49,7 +49,7 @@ is really a complex, which in many families bears in addition a jointed
 bristle (arista) or style, representing the terminal joints of the
 primitive antenna. Although in the case of the majority of Diptera the
 body is more or less clothed with hair, the hairy covering is usually so
-short that to the unaided eye the insects appear almost bare; some
+short that to the unaided eye the [[Insect|insects]] appear almost bare; some
 forms, however, such as the bee-flies (_Bombylius_) and certain
 robber-flies (_Asilidae_) are conspicuously hairy. Bristles are usually
 present on the legs, and in the case of many families on the body also;
@@ -71,7 +71,7 @@ slender bodies and long, delicate legs, or else they exhibit a more or
 less distinct resemblance to the common house-fly, having compact and
 stoutly built bodies and legs of moderate length. Diptera in general are
 not remarkable for brilliancy of coloration; as a rule they are dull and
-inconspicuous in hue, the prevailing body-tints being browns and greys;
+inconspicuous in [[Hue|hue]], the prevailing body-tints being browns and greys;
 occasionally, however, more especially in species (_Syrphidae_) that
 mimic Hymenoptera, the body is conspicuously banded with yellow; a few
 are metallic, such as the species of _Formosia_, found in the islands of
@@ -112,7 +112,7 @@ hand consist of the most highly specialized families, such as the
 _Syrphidae_ (hover-flies), _Oestridae_ (bot and warble flies), and
 _Muscidae_ (_sensu latiore_--the house-fly and its allies, including
 tsetse-flies, flesh-flies, _Tachininae_, or flies the larvae of which
-are internal parasites of caterpillars, &c). It is customary to divide
+are internal parasites of [[Caterpillar|caterpillars]], &c). It is customary to divide
 the Orthorrhapha into the two divisions Nematocera and Brachycera, in
 the former of which the antennae are elongate and in a more or less
 primitive condition, as described above, while in the latter these
@@ -127,7 +127,7 @@ consequence of the adoption of a parasitic mode of life, have undergone
 great structural modification, are further remarkable for their peculiar
 mode of reproduction, on account of which the families composing the
 group are often termed Pupipara. In these forms the pregnant female,
-instead of laying eggs, as Diptera usually do, or even producing a
+instead of laying [[Egg|eggs]], as Diptera usually do, or even producing a
 number of minute living larvae, gives birth at one time but to a single
 larva, which is retained within the oviduct of the mother until adult,
 and assumes the pupal state immediately on extrusion. The Pupipara are
@@ -168,8 +168,8 @@ earth's surface than are the representatives of any similar division of
 the animal kingdom. Flies seem capable of adapting themselves to
 extremes of cold equally as well as to those of heat, and species
 belonging to the order are almost invariably included in the collections
-brought back by members of Arctic expeditions. Others are met with in
-the most isolated localities; thus the Rev. A. E. Eaton discovered on
+brought back by members of [[Arctic]] expeditions. Others are met with in
+the most isolated localities; thus the Rev. A. E. [[Eaton]] discovered on
 the desolate shores of Kerguelen's Island apterous and semi-apterous
 Diptera (_Tipulidae_ and _Ephydridae_) of a degraded type adapted to the
 climatic peculiarities of the locality. Many bird parasites belonging to
@@ -212,7 +212,7 @@ literature includes a lengthy recital of instances of the presence of
 Dipterous larvae in various parts of the living human body, and the
 injuries caused thereby. That Diptera of the type of the common
 house-fly are often in large measure responsible for the spread of such
-diseases as cholera and enteric fever is undeniable, and as regards
+diseases as cholera and enteric [[Fever|fever]] is undeniable, and as regards
 blood-sucking forms, in addition to those to which reference has already
 been made, it is sufficient to mention the vast army of pests
 constituted by the midges, sand-flies, horse-flies, &c., from the
@@ -223,7 +223,7 @@ phytophagous forms, there can be no doubt that the destruction of
 grass-lands by "leather-jackets" (the larvae of crane-flies, or
 daddy-long-legs,--_Tipula oleracea_ and _T. paludosa_), of divers fruits
 by _Ceratitis capitata_ and species of _Dacus_, and of wheat and other
-crops by the Hessian-fly (_Mayetiola destructor_) and species of
+crops by the Hessian-fly (_Mayetiola [[Destructor|destructor]]_) and species of
 _Oscinis_, _Chlorops_, &c., is of very serious consequence.
 
 With many writers it is customary to treat the fleas as a sub-order of

@@ -2,7 +2,7 @@
 
 IGUVIUM (mod. Gubbio, q.v.), a town of Umbria, situated among the
 mountains, about 23 m. N.N.E. of Perusia and connected with it by a
-by-road, which joined the Via Flaminia near the temple of Jupiter
+by-road, which joined the Via [[Flaminia]] near the temple of Jupiter
 Appenninus, at the modern Scheggia. It appears to have been an important
 place in pre-Roman times, both from its coins and from the celebrated
 _tabulae Iguvinae_ (see below).
@@ -23,7 +23,7 @@ town does, while the Roman city lay in the lower ground. Here is the
 theatre, which, as an inscription records, was restored by Cn. Satrius
 Rufus in the time of Augustus. The diameter of the orchestra is 76½ ft.
 and of the whole 230 ft., so that it is a building of considerable size;
-the stage is well preserved and so are parts of the external arcades of
+the stage is well preserved and so are parts of the external [[Arcade|arcades]] of
 the auditorium. Not far off are ruins probably of ancient baths, and the
 concrete core of a large tomb with a vaulted chamber within.     (T. As.)
 
@@ -38,7 +38,7 @@ correctly _Eugubine_) _Tables_, which were discovered there in 1444,
 bought by the municipality in 1456, and are still preserved in the town
 hall. A Dominican, Leandro Alberti (_Descrizione d'Italia_, 1550),
 states that they were originally nine in number, and an independent
-authority, Antonio Concioli (_Statuta civitatis Eugubii_, 1673), states
+authority, [[Antonio]] Concioli (_Statuta civitatis Eugubii_, 1673), states
 that two of the nine were taken to Venice in 1540 and never reappeared.
 The existing seven were first published in a careful but largely
 mistaken transcript by Buonarotti in 1724, as an appendix to Dempster's
@@ -52,9 +52,9 @@ the Umbrian signs and the received order of the Tables, pointing out
 that those in Latin alphabet were the latest. He subsequently published
 what may be called the _editio princeps_ in 1841. The first edition,
 with a full commentary based on scientific principles, was that of
-Aufrecht and Kirchhoff in 1849-1851, and on this all subsequent
+Aufrecht and [[Kirchhoff]] in 1849-1851, and on this all subsequent
 interpretations are based (Bréal, Paris, 1875; Bücheler, _Umbrica_,
-Bonn, 1883, a reprint and enlargement of articles in Fleckeisen's
+[[Bonn]], 1883, a reprint and enlargement of articles in Fleckeisen's
 _Jahrbuch_, 1875, pp. 127 and 313). The text is everywhere perfectly
 legible, and is excellently represented in photographs by the marquis
 Ranghiasci-Brancaleone, published with Bréal's edition.
@@ -135,7 +135,7 @@ Ranghiasci-Brancaleone, published with Bréal's edition.
   Owing to the peculiar character of the Tables no grammatical statement
   about Umbrian is free from difficulty; and these bare outlines of its
   phonology must be supplemented by reference to the lucid discussion in
-  C. D. Buck's _Oscan and Umbrian Grammar_ (Boston, 1904), or to the
+  C. D. Buck's _Oscan and Umbrian Grammar_ ([[Boston]], 1904), or to the
   earlier and admirably complete _Oskischumbrische Grammatik_ of R. von
   Planta (Strassburg, 1892-1897). Some of the most important questions
   are discussed by R. S. Conway in _The Italic Dialects_, vol. ii. p.
@@ -150,7 +150,7 @@ Ranghiasci-Brancaleone, published with Bréal's edition.
   will be found in the grammars of Buck and von Planta already
   mentioned, and in the second volume of Conway, _op. cit._
 
-  _Chronology._ (I.) _The Relative Dates of the Tables._--At least four
+  _[[Chronology]]._ (I.) _The Relative Dates of the Tables._--At least four
   periods in the history of the dialect can be distinguished in the
   records we have left to us, by the help of the successive changes (a)
   in alphabet and (b) in language, which the Tables exhibit. Of these
@@ -227,7 +227,7 @@ Ranghiasci-Brancaleone, published with Bréal's edition.
   alphabet was adopted. Tables VI. and VII._a_ contain an expanded form
   of the same liturgical direction as Table I.
 
-  It is probable that further research will amend this classification in
+  It is probable that further research will amend this [[Classification|classification]] in
   detail, but its main lines are generally accepted.
 
   (II.) _Actual Date of the Tables._--Only the leading points can be
@@ -242,14 +242,14 @@ Ranghiasci-Brancaleone, published with Bréal's edition.
 
   (ii.) For an upper limit of date, in default of definite evidence, it
   seems imprudent to go back beyond the 5th century B.C., since neither
-  in Rome nor Campania have we any evidence of public written documents
+  in Rome nor [[Campania]] have we any evidence of public written documents
   of any earlier century. When more is known of the earliest Etruscan
   inscriptions it may become possible to date the Iguvine Tables by
   their alphabetic peculiarities as compared with their mother-alphabet,
   the Etruscan. The "Tuscan name" is denounced in the comprehensive
   curse of Table VI. b, 53-60, and we may infer that the town of Iguvium
   was independent but in fear of the Etruscans at the time when the
-  curse was first composed. The absence of all mention of either Gauls
+  curse was first composed. The absence of all mention of either [[Gaul|Gauls]]
   or Romans seems to prove that this time was at least earlier than 400
   B.C.; and the curse may have been composed long before it was written
   down.

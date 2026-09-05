@@ -2,7 +2,7 @@
 
 ASSESSOR (Lat. _assessare_, _assidere_, to sit by), a Roman term
 originally applied to a trained lawyer who sat beside a governor of a
-province or other magistrate, to instruct him in the administration of
+province or other [[Magistrate|magistrate]], to instruct him in the administration of
 the laws (see Roll, _De assessoribus magistratuum Romanorum_, Leipzig,
 1872). The system is still exemplified in Scotland, where it is usual in
 the larger towns for municipal magistrates, in the administration of

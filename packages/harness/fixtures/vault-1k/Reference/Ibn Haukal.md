@@ -7,7 +7,7 @@ topic: history
 # Ibn Haukal
 
 IBN HAUKAL, strictly IBN HAUQAL, a 10th century Arabian geographer.
-Nothing is known of his life. His work on geography, written in 977, is
+Nothing is known of his life. His work on [[Geography|geography]], written in 977, is
 only a revision and extension of the _Masalik ul-Mamalik_ of
 al-Istakhri, who wrote in 951. This itself was a revised edition of the
 _Kitab ul-Ashkal_ or _Suwar ul-Aqalim_ of Abu Zaid ul-Balkhi, who wrote

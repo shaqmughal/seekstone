@@ -16,7 +16,7 @@ pastorate on account of blindness in 1849, and died on the 1st of
 February 1855.
 
   See _Autobiography_ (2nd ed., Kiel, 1852); M. Baumgarten, _Ein Denkmal
-  fur C. Harms_ (Brunswick, 1855).
+  [[Fur|fur]] C. Harms_ (Brunswick, 1855).
 
 ## See also
 

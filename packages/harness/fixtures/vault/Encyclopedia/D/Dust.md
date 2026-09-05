@@ -88,17 +88,17 @@ be as high as 100,000 to 150,000 per c.c.
 The sources of dust particles in the atmosphere are numerous. In nature
 volcanoes supply a large quantity, and the meteoric matter constantly
 falling towards the earth and becoming dissipated by the intense heat
-produced by the friction of the atmosphere keep up a constant supply.
+produced by the [[Friction|friction]] of the atmosphere keep up a constant supply.
 Large quantities of dust are also raised from the surface of the earth
 by strong winds, from dusty roads and dry soil, and there is good reason
-for supposing that large quantities of sand are carried from the deserts
+for supposing that large quantities of sand are carried from the [[Desert|deserts]]
 by the wind and transported great distances, the sand, for instance,
 from the desert of Africa being carried to Europe. It is, however, to
 artificial causes that most of the dust is due. The burning of coal is
 the principal source of these, not only when the coal is burned with the
 production of smoke, but also when smokeless, and even when the coal is
 first converted into gas and burned in the most perfect forms of
-combustion. It results from this that while in the air over the
+[[Combustion|combustion]]. It results from this that while in the air over the
 uninhabited parts of the earth and over the ocean the number of
 particles is small, being principally produced by natural causes or
 carried from distant lands, they are much more numerous in inhabited
@@ -116,8 +116,8 @@ illustrates the purifying effect of some of these areas obtained from
 the results of hundreds of observations. The areas referred to are: (1)
 Mediterranean Sea, the observations being made on the south coast of
 France on the air blowing inshore; (2) the Alps, the observations being
-made on the Rigi Kulm; (3) the Highlands of Scotland, the observations
-being made at various places; and (4) the Atlantic Ocean, the
+made on the Rigi [[Kulm]]; (3) the Highlands of Scotland, the observations
+being made at various places; and (4) the [[Atlantic Ocean]], the
 observations being made on the west coast of Scotland, when the wind
 blew from the ocean.
 
@@ -139,14 +139,14 @@ to the nearest was over 60 m.
 E.D. Fridlander[1] made many observations on the dust of the atmosphere
 with the same instrument as employed by Aitken. In crossing the Atlantic
 he got no low numbers, always over 2000 per c.c., but in the Gulf of St
-Lawrence he got a reading as low as 280 per c.c. In crossing the Pacific
+[[Lawrence]] he got a reading as low as 280 per c.c. In crossing the Pacific
 the lowest obtained was 245, in the Indian Ocean 243, in the Arabian Sea
 280, in the Red Sea 383, and in the Mediterranean 875 per c.c. He has
 also made observations in Switzerland. The lowest number obtained by him
 was in the air at the top of the Bieshorn, 13,600 ft. above sea-level,
 where the number was as low as 157 per c.c. Professor G. Melander[2] of
-Helsingfors studied the dust in the atmosphere. His observations were
-made in Switzerland, Biskra in the Sahara, Finland, the borders of
+[[Helsingfors]] studied the dust in the atmosphere. His observations were
+made in Switzerland, Biskra in the Sahara, [[Finland]], the [[Borders|borders]] of
 Russia, and in Norway; but in none of these places were low numbers
 observed. The minimum numbers were over 300 per c.c., while maximum
 numbers in some cases went high.
@@ -156,7 +156,7 @@ of weather that there was a daily variation in the number of particles,
 a maximum near the hottest part of the day and a minimum in the morning,
 and attributed the rise in the numbers to the impure air of the valleys
 rising on the sun-heated slopes of the mountain or driven up by the
-wind. A. Rankin, at the Ben Nevis observatory, also observed this daily
+wind. A. Rankin, at the [[Ben]] Nevis observatory, also observed this daily
 variation, and his observations also indicate a yearly variation at that
 station, the numbers being highest in March, April and May. This may
 possibly be due to small rainfall in these months, but more probably to
@@ -169,8 +169,8 @@ scenery we at present enjoy, but we should have no haze in the
 atmosphere, none of the atmospheric effects that delight the artist. The
 white haze, the blue haze, the tender sunset glows of red, orange and
 yellow, would all be absent, and the moment the sun dipped below the
-horizon the earth would be in darkness; no twilight, no after-glows,
-such as those given some years ago by the volcanic dust from Krakatoa;
+[[Horizon|horizon]] the earth would be in darkness; no twilight, no after-glows,
+such as those given some years ago by the volcanic dust from [[Krakatoa]];
 none of the poetry of eventide. Why, it may be asked, is this so? Simply
 because all these are due to matter suspended in the air, to dust. Water
 has no such effects as long as it is a vapour, and if it condensed
@@ -278,7 +278,7 @@ can be calculated by the aid of the above tables.
 
 To show the hazing effects of dust it is not, however, necessary to use
 a dust counter. Aitken for some years made observations on the haze in
-the air at Falkirk by simply noting the direction of the wind, the
+the air at [[Falkirk]] by simply noting the direction of the wind, the
 wet-bulb depression at the time, and the transparency of the air.
 Falkirk is favourably situated for such observations owing to the
 peculiar distribution of the population surrounding it. The whole area

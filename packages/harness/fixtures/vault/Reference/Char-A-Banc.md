@@ -10,7 +10,7 @@ type: reference
 CHAR-A-BANC (Fr. for "benched carriage"), a large form of wagonette-like
 vehicle for passengers, but with benched seats arranged in rows,
 looking forward, commonly used for large parties, whether as public
-conveyances or for excursions.
+[[Conveyance|conveyances]] or for excursions.
 
 ## References
 

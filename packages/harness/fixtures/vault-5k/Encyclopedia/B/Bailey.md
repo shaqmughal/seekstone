@@ -2,7 +2,7 @@
 
 BAILEY (said to be a corruption of _Ballium_ by some, and derived by others
 from the Fr. _baille_, a corruption of _bataille_, because there the
-soldiers were drilled in battle array), the open space between the inner
+soldiers were drilled in battle [[Array|array]]), the open space between the inner
 and outer lines of a fortification. Sometimes there were more than one, as
 the Inner and Outer Bailey; there are in England the Old Bailey at London
 and at York, and the Upper and Nether Baileys at Colchester.
@@ -16,9 +16,9 @@ The term was first applied in England to the king's officers generally,
 such as sheriffs, mayors, &c., and more particularly to the chief officer
 of a hundred. The county within which the sheriff exercises his
 jurisdiction is still called his bailiwick, while the term bailiff is
-retained as a title by the chief magistrates of various towns and the
+retained as a title by the chief [[Magistrate|magistrates]] of various towns and the
 keepers of royal castles, as the high bailiff of Westminster, the bailiff
-of Dover Castle, &c. Under the manorial system, the bailiff, the steward
+of [[Dover]] Castle, &c. Under the manorial system, the bailiff, the steward
 and the reeve were important officers; the bailiff managed the property of
 the manor and superintended its cultivation (see Walter of Henley,
 _Husbandry_, R. Hist. Soc., 1890).
@@ -53,7 +53,7 @@ responsible for all the acts and defaults of himself, and of the bailiffs
 appointed to assist him, in the same way as a sheriff of a county is
 responsible for the acts and defaults of himself and his officers. By the
 same act (§49) bailiffs are answerable for any connivance, omission or
-neglect to levy any such execution. No action can be brought against a
+neglect to [[Levy|levy]] any such execution. No action can be brought against a
 bailiff acting under order of the court without six days' notice (§54). Any
 warrant to a bailiff to give possession of a tenement justifies him in
 entering upon the premises named in the warrant, and giving possession,
@@ -80,7 +80,7 @@ signifying a superior officer or magistrate of a municipal corporation.
 Bailies, by virtue of their office, are invested with certain judicial and
 administrative powers within the burgh for which they are appointed. They
 sit as police-court magistrates, being assisted usually by a paid legal
-adviser, called an "assessor," and, in the larger burghs, act as a
+adviser, called an "[[Assessor|assessor]]," and, in the larger burghs, act as a
 licensing court. It is usually said that a bailie is analogous to the
 English alderman, but this is only in so far as he is a person of superior
 dignity in the council, for, unlike an alderman, he continues to sit for
@@ -97,7 +97,7 @@ sanctuary (_q.v._).
 
 _Bailli_.--In France the bailiff (_bailli_), or seneschal in feudal days,
 was the principal officer of any noble importance. He it was who held the
-feudal court of assizes when the lord was not present himself. A great
+feudal court of [[Assize|assizes]] when the lord was not present himself. A great
 noble often also had a _prévôté_, where small matters were settled, and the
 preparatory steps taken relative to the more important cases reserved for
 the assizes. Among the great officers of the crown of France a
@@ -109,7 +109,7 @@ crusade, arranged for the administration of the kingdom during his absence,
 they figure as part of a general system. Probably the first royal bailiffs
 or seneschals were the seigniorial bailiffs of certain great fiefs that had
 been reunited to the crown, their functions still continuing after the
-annexation. Their essential function was at first the surveillance of the
+[[Annexation|annexation]]. Their essential function was at first the surveillance of the
 royal provosts (_prévôts_), who until then had had the sole administration
 of the various parts of the domain. They concentrated in their own hands
 the produce of the provostships, and they organized and led the men who by
@@ -119,7 +119,7 @@ enlarged as time went on, and they held periodical assizes in the principal
 centres of their districts. When the right of appeal was instituted, it was
 they who heard the appeals from sentences pronounced by inferior royal
 judges and by the seigniorial justices. Royal cases, and cases in which a
-noble was defendant, were also reserved for them. The royal _bailli_ or
+noble was [[Defendant|defendant]], were also reserved for them. The royal _bailli_ or
 seneschal (no real difference existed between the two offices, the names
 merely changing according to the district), was for long the king's
 principal representative in the provinces, [v.03 p.0219] and the
@@ -149,7 +149,7 @@ _bailliage_ having preserved the right to hold one assize each year at a
 certain locality in his district. The ancient bailiff or _bailli d'épée_
 still existed, however; the judgments in the tribunal of the bailliage were
 delivered in his name, and he was responsible for their execution. So long
-as the military service of the _ban_ and _arrière ban_, due to the king
+as the military service of the _[[Ban|ban]]_ and _arrière ban_, due to the king
 from all fief-holders, was maintained (and it was still in force at the end
 of the 17th century), it was the bailiffs who organized it. Finally the
 _bailliage_ became in principle the electoral district for the
@@ -159,7 +159,7 @@ Revolution. These judges, who were competent to decide questions as to the
 payment of seigniorial dues could not, legally at all events, themselves
 farm those revenues.
 
-See Dupont Ferrier, _Les Officiers royaux des bailliages et sénéchaussées
+See Dupont [[Ferrier]], _Les Officiers royaux des bailliages et sénéchaussées
 et les institutions monarchiques locales en France à la fin du moyen âge_
 (1902); Armand Brette, _Recueil de documents relatifs à la convocation des
 états-généraux de 1789_ (3 vols. 1904) (vol. iii. gives the condition of

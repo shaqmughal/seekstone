@@ -6,9 +6,9 @@ signifying translation, the title of the Chaldaean translation of the
 Bible), a comprehensive designation applied to all who act as
 intermediaries between Europeans and Orientals, from the hotel tout or
 travellers' guide, hired at a few shillings a day, to the chief dragoman
-of a foreign embassy whose functions include the carrying on of the most
+of a foreign [[Embassy|embassy]] whose functions include the carrying on of the most
 important political negotiations with the Ottoman government, or the
-dragoman of the imperial divan (the grand master of the ceremonies).
+dragoman of the imperial [[Divan|divan]] (the grand master of the ceremonies).
 
 The original employment of dragomans by the Turkish government arose
 from its religious scruples to use any language save those of peoples
@@ -47,12 +47,12 @@ decided on the foundation of a school for French dragomans at
 Constantinople, for which in later years was substituted the _École des
 langues orientales_ in Paris; most of the great powers eventually took
 some similar step, England also adopting in 1877 a system, since
-modified, for the selection and tuition of a corps of British-born
+modified, for the selection and tuition of a [[Corps|corps]] of British-born
 dragomans.
 
 The duties of an embassy dragoman are extensive and not easily defined.
 They have been described as partaking at once of those of a diplomatist,
-a magistrate, a legal adviser and an administrator. The functions of the
+a [[Magistrate|magistrate]], a legal adviser and an administrator. The functions of the
 first dragoman are mainly political; he accompanies the ambassador or
 minister at his audiences of the sultan and usually of the ministers,
 and it is he who is charged with the bulk of diplomatic negotiations at
@@ -77,7 +77,7 @@ dragoman usually attains the rank of minister plenipotentiary. The value
 of a tactful and efficient intermediary can hardly be over-estimated,
 and in the East a personal interview of a few minutes often results in
 the conclusion of some important matter which would otherwise require
-the exchange of a long and laborious correspondence. The more important
+the [[Exchange|exchange]] of a long and laborious correspondence. The more important
 consulates in the provinces of Turkey are also provided with one or more
 dragomans, whose duties, _mutatis mutandis_, are of a similar though
 less important nature. In the same way banks, railway companies and
@@ -96,10 +96,10 @@ he received a gold medal, an honour which, it is stated, was paid to a
 student of the academy only twice in the 19th century. In 1856 he was
 promoted staff-captain and in 1858 full captain, being sent in the
 latter year to study the military methods in vogue in other countries.
-He visited France, England and Belgium, and wrote voluminous reports on
+He visited France, England and [[Belgium]], and wrote voluminous reports on
 the instructional and manoeuvre camps of these countries at Châlons,
 Aldershot and Beverloo. In 1859 he was attached to the headquarters of
-the king of Sardinia during the campaign of Magenta and Solferino, and
+the king of Sardinia during the campaign of [[Magenta]] and Solferino, and
 immediately upon his return to Russia he was sent to the Nicholas
 Academy as professor of tactics. Dragomirov played a leading part in the
 reorganization of the educational system of the army, and acted also as
@@ -109,7 +109,7 @@ suppression of the Polish insurrection of 1863-64, returning to St
 Petersburg in the latter year as colonel and chief of staff to one of
 the Guard divisions. During the Austro-Prussian War of 1866, Dragomirov
 was attached to the headquarters of the II. Prussian army. He was
-present at the battles on the upper Elbe and at Königgrätz, and his
+present at the battles on the upper [[Elbe]] and at Königgrätz, and his
 comments on the operations which he witnessed are of the greatest value
 to the student of tactics and of the war of 1866.
 
@@ -122,7 +122,7 @@ Dragomirov being in charge of the delicate and difficult operation of
 crossing and landing under fire, and fulfilling his mission with
 complete success. Later, after the reverses before Plevna, he, with the
 cesarevich and Generals Todleben and Milutine, strenuously opposed the
-suggestion of the Grand-duke Nicholas that the Russian army should
+suggestion of the [[Grand-Duke|Grand-duke]] Nicholas that the Russian army should
 retreat into Rumania, and the demoralization of the greater part of the
 army was not permitted to spread to Dragomirov's division, which
 retained its discipline unimpaired and gave a splendid example to the
@@ -143,7 +143,7 @@ until 1903. He was promoted to the rank of general of infantry in 1891.
 His advanced age and failing health prevented his employment at the
 front during the Russo-Japanese war of 1904-5, but his advice was
 continually solicited by the general headquarters at St Petersburg, and
-while he disagreed with General Kuropatkin in many important questions
+while he disagreed with General [[Kuropatkin]] in many important questions
 of strategy and military policy, they both recommended a repetition of
 the strategy of 1812, even though the total abandonment of Port Arthur
 was involved therein. General Dragomirov died at Konotop on the 28th of
@@ -163,7 +163,7 @@ admitted in the war of 1866, the British infantry of the Peninsular War,
 but he sought to reach the ideal, not through the methods of repression
 against which the "advanced" tacticians revolted, but by means of
 thorough efficiency in the individual soldier and in the smaller units.
-He inculcated the "offensive at all costs," and the combination of
+He inculcated the "offensive at all [[Costs|costs]]," and the combination of
 crushing short-range fire and the bayonet charge. He carried out the
 ideas of Suvarov to the fullest extent, and many thought that he pressed
 them to a theoretical extreme unattainable in practice. His critics,

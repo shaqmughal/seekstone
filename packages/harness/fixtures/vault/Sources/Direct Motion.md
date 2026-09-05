@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Direct_Mot
 
 # Direct Motion
 
-DIRECT MOTION, in astronomy, the apparent motion of a body of the solar
+DIRECT MOTION, in [[Astronomy|astronomy]], the apparent motion of a body of the solar
 system on the celestial sphere in the direction from west to east; so
 called because this is the usual direction of revolution and rotation of
 the heavenly bodies.

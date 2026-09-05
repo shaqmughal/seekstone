@@ -4,17 +4,17 @@ HOFMANN, AUGUST WILHELM VON (1818-1892), German chemist, was born at
 Giessen on the 8th of April 1818. Not intending originally to devote
 himself to physical science, he first took up the study of law and
 philology at Gottingen, and the general culture he thus gained stood him
-in good stead when he turned to chemistry, the study of which he began
+in good stead when he turned to [[Chemistry|chemistry]], the study of which he began
 under Liebig. When, in 1845, a school of practical chemistry was started
 in London, under the style of the Royal College of Chemistry, Hofmann,
 largely through the influence of the Prince Consort, was appointed its
 first director. It was with some natural hesitation that he, then a
-_Privatdozent_ at Bonn, accepted the position, which may well have
+_Privatdozent_ at [[Bonn]], accepted the position, which may well have
 seemed rather a precarious one; but the difficulty was removed by his
 appointment as extraordinary professor at Bonn, with leave of absence
 for two years, so that he could resume his career in Germany if his
 English one proved unsatisfactory. Fortunately the college was more or
-less successful, owing largely to his enthusiasm and energy, and many of
+less successful, owing largely to his [[Enthusiasm|enthusiasm]] and energy, and many of
 the men who were trained there subsequently made their mark in chemical
 history. But in 1864 he returned to Bonn, and in the succeeding year he
 was selected to succeed E. Mitscherlich as professor of chemistry and
@@ -56,7 +56,7 @@ aniline. This substance he used to refer to as his first love, and it
 was a love to which he remained faithful throughout his life. His
 perception of the analogy between it and ammonia led to his famous work
 on the amines and ammonium bases and the allied organic phosphorus
-compounds, while his researches on rosaniline, which he first prepared
+[[Compound|compounds]], while his researches on rosaniline, which he first prepared
 in 1858, formed the first of a series of investigations on colouring
 matters which only ended with quinoline red in 1887. But in addition to
 these and numberless other investigations for which he was responsible
@@ -73,7 +73,7 @@ possessor of a clear and graceful, if somewhat florid, style, which
 showed to special advantage in his numerous obituary notices or
 encomiums (collected and published in three volumes _Zur Erinnerung an
 vorangegangene Freunde_, 1888). He also excelled as a speaker,
-particularly at gatherings of an international character, for in
+particularly at gatherings of an [[International|international]] character, for in
 addition to his native German he could speak English, French and Italian
 with fluency.
 

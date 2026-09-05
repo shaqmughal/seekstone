@@ -11,14 +11,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Electromet
 ELECTROMETER, an instrument for measuring difference of potential, which
 operates by means of electrostatic force and gives the measurement
 either in arbitrary or in absolute units (see UNITS, PHYSICAL). In the
-last case the instrument is called an absolute electrometer. Lord Kelvin
+last case the instrument is called an absolute electrometer. Lord [[Kelvin]]
 has classified electrometers into (1) Repulsion, (2) Attracted disk, and
 (3) Symmetrical electrometers (see W. Thomson, _Brit. Assoc. Report_,
 1867, or _Reprinted Papers on Electrostatics and Magnetization_, p.
 261).
 
 _Repulsion Electrometers._--The simplest form of repulsion electrometer
-is W. Henley's pith ball electrometer (_Phil. Trans._, 1772, 63, p. 359)
+is W. Henley's pith [[Ball|ball]] electrometer (_Phil. Trans._, 1772, 63, p. 359)
 in which the repulsion of a straw ending in a pith ball from a fixed
 stem is indicated on a graduated arc (see ELECTROSCOPE). A double pith
 ball repulsion electrometer was employed by T. Cavallo in 1777.
@@ -54,7 +54,7 @@ ball repulsion electrometer was employed by T. Cavallo in 1777.
 
 _Attracted Disk Electrometers._--A form of attracted disk absolute
 electrometer was devised by A. Volta. It consisted of a plane conducting
-plate forming one pan of a balance which was suspended over another
+plate forming one pan of a [[Balance|balance]] which was suspended over another
 insulated plate which could be electrified. The attraction between the
 two plates was balanced by a weight put in the opposite pan. A similar
 electric balance was subsequently devised by Sir W. Snow-Harris,[1] one
@@ -78,7 +78,7 @@ forces.
 
   His portable electrometer is shown in fig. 2. H H (see fig. 3) is a
   plane disk of metal called the guard plate, fixed to the inner coating
-  of a small Leyden jar (see fig. 2). At F a square hole is cut out of H
+  of a small [[Leyden]] jar (see fig. 2). At F a square hole is cut out of H
   H, and into this fits loosely without touching, like a trap door, a
   square piece of aluminium foil having a projecting tail, which carries
   at its end a stirrup L, crossed by a fine hair (see fig. 3). The
@@ -106,7 +106,7 @@ forces.
 
   where d is the distance between the two plates. If this distance is
   varied until the attracted disk comes into a definite sighted position
-  as seen by observing the end of the index through the lens, then since
+  as seen by observing the end of the [[Index|index]] through the lens, then since
   the force f is constant, being due to the torque applied by the wire
   for a definite angle of twist, it follows that the difference of
   potential of the two plates varies as their distance. If then two
@@ -167,9 +167,9 @@ between two plates which are connected to the opposite terminals of a
 dry pile so that a certain constant difference of potential exists
 between these plates. The original inventor of this instrument was
 T.G.B. Behrens (_Gilb. Ann._, 1806, 23), but it generally bears the name
-of J.G.F. von Bohnenberger, who slightly modified its form. G.T. Fechner
+of J.G.F. von Bohnenberger, who slightly modified its form. G.T. [[Fechner]]
 introduced the important improvement of using only one pile, which he
-removed from the immediate neighbourhood of the suspended leaf. W.G.
+removed from the immediate neighbourhood of the suspended [[Leaf|leaf]]. W.G.
 Hankel still further improved the dry pile electrometer by giving a slow
 motion movement to the two plates, and substituted a galvanic battery
 with a large number of cells for the dry pile, and also employed a
@@ -186,13 +186,13 @@ A vast improvement in this instrument was made by the invention of the
 quadrant electrometer by Lord Kelvin, which is the most sensitive form
 of electrometer yet devised. In this instrument (see fig. 5) a flat
 paddle-shaped needle of aluminium foil U is supported by a bifilar
-suspension consisting of two cocoon fibres. This needle is suspended in
+suspension consisting of two cocoon [[Fibres|fibres]]. This needle is suspended in
 the interior of a glass vessel partly coated with tin-foil on the
 outside and inside, forming therefore a Leyden jar (see fig. 6). In the
 bottom of the vessel is placed some sulphuric acid, and a platinum wire
 attached to the suspended needle dips into this acid. By giving a charge
 to this Leyden jar the needle can thus be maintained at a certain
-constant high potential. The needle is enclosed by a sort of flat box
+constant high potential. The needle is enclosed by a sort of flat [[Box|box]]
 divided into four insulated quadrants A, B, C, D (fig. 5), whence the
 name. The opposite quadrants are connected together by thin platinum
 wires. These quadrants are insulated from the needle and from the case,
@@ -203,12 +203,12 @@ The needle in its normal position is symmetrically placed with regard to
 the quadrants, and carries a mirror by means of which its displacement
 can be observed in the usual manner by reflecting the ray of light from
 it. If the two quadrants are at different potentials, the needle moves
-from one quadrant towards the other, and the image of a spot of light on
+from one quadrant towards the other, and the [[Image|image]] of a spot of light on
 the scale is therefore displaced. Lord Kelvin provided the instrument
 with two necessary adjuncts, viz. a replenisher or rotating
 electrophorus (q.v.), by means of which the charge of the Leyden jar
 which forms the enclosing vessel can be increased or diminished, and
-also a small aluminium balance plate or gauge, which is in principle the
+also a small aluminium balance plate or [[Gauge|gauge]], which is in principle the
 same as the attracted disk portable electrometer by means of which the
 potential of the inner coating of the Leyden jar is preserved at a known
 value.
@@ -225,7 +225,7 @@ value.
   the above expression indicates that the couple varies as the
   difference of the potentials between the quadrants.
 
-  Dr J. Hopkinson found, however, before 1885, that the above formula
+  Dr J. [[Hopkinson]] found, however, before 1885, that the above formula
   does not agree with observed facts (_Proc. Phys. Soc. Lond._, 1885, 7,
   p. 7). The formula indicates that the sensibility of the instrument
   should increase with the charge of the Leyden jar or needle, whereas
@@ -234,8 +234,8 @@ value.
   difference between the quadrants first increased and then diminished.
   He found that when the potential of the needle exceeded a certain
   value, of about 200 volts, for the particular instrument he was using
-  (made by White of Glasgow), the above formula did not hold good. W.E.
-  Ayrton, J. Perry and W.E. Sumpner, who in 1886 had noticed the same
+  (made by White of [[Glasgow]]), the above formula did not hold good. W.E.
+  [[Ayrton]], J. Perry and W.E. Sumpner, who in 1886 had noticed the same
   fact as Hopkinson, investigated the matter in 1891 (_Proc. Roy. Soc._,
   1891, 50, p. 52; _Phil. Trans._, 1891, 182, p. 519). Hopkinson had
   been inclined to attribute the anomaly to an increase in the tension
@@ -287,7 +287,7 @@ value.
   provided that the deflection of the needle is proportional to the
   potential difference of the quadrants. This use of the instrument was
   proposed simultaneously in 1881 by Professors Ayrton and G.F.
-  Fitzgerald and M.A. Potier. Suppose we have an inductive and a
+  [[Fitzgerald]] and M.A. Potier. Suppose we have an inductive and a
   non-inductive circuit in series, which is traversed by a periodic
   current, and that we desire to know the power being absorbed to the
   inductive circuit. Let v1, v2, v3 be the instantaneous potentials of
@@ -339,12 +339,12 @@ deflections are proportional to the potential difference producing them.
 The needle is charged to a potential of 50 to 200 volts by means of a
 dry pile or voltaic battery, or from a lighting circuit. To facilitate
 the communication of the charge to the needle, the quartz fibre and its
-attachments are rendered conductive by a thin film of solution of
+[[Attachment|attachments]] are rendered conductive by a thin film of solution of
 hygroscopic salt such as calcium chloride. The lightness of the needle
 enables the instrument to be moved without fear of damaging the
 suspension. The upper end of the quartz fibre is rotated by a torsion
 head, and a metal cover serves to screen the instrument from stray
-electrostatic fields. With a quartz fibre 0.009 mm. thick and 60 mm.
+electrostatic [[Fields|fields]]. With a quartz fibre 0.009 mm. thick and 60 mm.
 long, the needle being charged to 110 volts, the period and swing of the
 needle was 18 seconds. With the scale at a distance of two metres, a
 deflection of 130 mm. was produced by an electromotive force of 0.1
@@ -355,9 +355,9 @@ produced down a known resistance. In the same way it may be employed to
 measure high potentials by measuring the fall of potential down a
 fraction of a known non-inductive resistance. In this last case,
 however, the capacity of the electrometer used must be small, otherwise
-an error is introduced.[4]
+an [[Error|error]] is introduced.[4]
 
-  See, in addition to references already given, A. Gray, _Absolute
+  See, in addition to references already given, A. [[Gray]], _Absolute
   Measurements in Electricity and Magnetism_ (London, 1888), vol. i. p.
   254; A. Winkelmann, _Handbuch der Physik_ (Breslau, 1905), pp. 58-70,
   which contains a large number of references to original papers on
@@ -367,18 +367,18 @@ an error is introduced.[4]
 FOOTNOTES:
 
   [1] It is probable that an experiment of this kind had been made as
-    far back as 1746 by Daniel Gralath, of Danzig, who has some claims to
+    far back as 1746 by [[Daniel]] Gralath, of Danzig, who has some claims to
     have suggested the word "electrometer" in connexion with it. See Park
-    Benjamin, _The Intellectual Rise in Electricity_ (London, 1895), p.
+    [[Benjamin]], _The Intellectual Rise in Electricity_ (London, 1895), p.
     542.
 
-  [2] See Maxwell, _Treatise on Electricity and Magnetism_ (2nd ed.),
+  [2] See [[Maxwell]], _Treatise on Electricity and Magnetism_ (2nd ed.),
     i. 308.
 
   [3] See Maxwell, _Electricity and Magnetism_ (2nd ed., Oxford, 1881),
     vol. i. p. 311.
 
-  [4] See J.A. Fleming, _Handbook for the Electrical Laboratory and
+  [4] See J.A. [[Fleming]], _Handbook for the Electrical Laboratory and
     Testing Room_, vol. i. p. 448 (London, 1901).
 
 ## See also

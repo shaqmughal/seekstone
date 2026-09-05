@@ -18,9 +18,9 @@ laburnum or beane trefoyle (_Herball_, p. 1239), but the date of its
 introduction into England appears to be unknown. In France it is called
 _l'aubour_--a corruption from laburnum according to Du Hamel--as also
 _arbois_, i.e. _arc-bois_, "the wood having been used by the ancient
-Gauls for bows. It is still so employed in some parts of the Mâconnois,
+[[Gaul|Gauls]] for [[Bow|bows]]. It is still so employed in some parts of the Mâconnois,
 where the bows are found to preserve their strength and elasticity for
-half a century" (Loudon, _Arboretum_, ii. 590).
+half a century" (Loudon, _[[Arboretum]]_, ii. 590).
 
 Several varieties of this tree are cultivated, differing in the size of
 the flowers, in the form of the foliage, &c., such as the "oak-leafed"
@@ -48,7 +48,7 @@ avidity (_Gardener's Chronicle_, 1881, vol. xvi. p. 666). The seeds also
 are highly poisonous, possessing emetic as well as acrid narcotic
 principles, especially in a green state. Gerard (loc. cit.) alludes to
 the powerful effect produced on the system by taking the bruised leaves
-medicinally. Pliny states that bees will not visit the flowers (_N.H._
+medicinally. Pliny states that [[Bee|bees]] will not visit the flowers (_N.H._
 xvi. 31), but this is an error, as bees and butterflies play an
 important part in the fertilization of the flowers, which they visit for
 the nectar.

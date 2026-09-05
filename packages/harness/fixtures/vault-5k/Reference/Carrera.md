@@ -1,7 +1,7 @@
 # Carrera
 
 CARRERA, JOSÉ MIGUEL (1785-1821), the principal leader in the early
-fighting for the independence of Chile, was born at Santiago on the 15th
+fighting for the independence of [[Chile]], was born at Santiago on the 15th
 of October 1785. Sent to Spain for a military career, he served in the
 Spanish army in the Napoleonic war, but returned to Chile in July 1811,
 where his vigorous character and military experience enabled him by

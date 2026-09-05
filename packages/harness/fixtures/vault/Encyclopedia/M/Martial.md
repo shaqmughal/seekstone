@@ -9,13 +9,13 @@ the date of the publication of the different books of epigrams, and from
 these dates to determine those of various important events in his life.
 The place of his birth was Bilbilis, officially Augusta Bilbilis, in
 Spain. His name seems to imply that he was born a Roman citizen, but he
-speaks of himself as "sprung from the Celts and Iberians, and a
+speaks of himself as "sprung from the [[Celt|Celts]] and Iberians, and a
 countryman of the Tagus;" and, in contrasting his own masculine
 appearance with that of an effeminate Greek, he draws especial attention
 to "his stiff Spanish hair" (x. 65, 7). His parents, Fronto and
 Flaccilla, appear to have died in his youth (v. 34). His home was
 evidently one of rude comfort and plenty, sufficiently in the country to
-afford him the amusements of hunting and fishing, which he often recalls
+afford him the amusements of [[Hunting|hunting]] and fishing, which he often recalls
 with keen pleasure, and sufficiently near the town to afford him the
 companionship of many comrades, the few survivors of whom he looks
 forward to meeting again after his four-and-thirty years' absence (x.
@@ -40,7 +40,7 @@ Of the details of his life for the first twenty years or so after he
 came to Rome we do not know much. He published some juvenile poems of
 which he thought very little in his maturer years, and he laughs at a
 foolish bookseller who would not allow them to die a natural death (i.
-113). Martial had neither youthful passion nor youthful enthusiasm to
+113). Martial had neither youthful passion nor youthful [[Enthusiasm|enthusiasm]] to
 make him precociously a poet. His faculty ripened with experience and
 with the knowledge of that social life which was both his theme and his
 inspiration; and many of his best epigrams are among those written in
@@ -48,11 +48,11 @@ his last years. From many answers which he makes to the remonstrances of
 friends--among others to those of Quintilian--it may be inferred that he
 was urged to practise at the bar, but that he preferred his own lazy
 Bohemian kind of life. He made many influential friends and patrons, and
-secured the favour both of Titus and Domitian. From them he obtained
+secured the favour both of Titus and [[Domitian]]. From them he obtained
 various privileges, among others the _semestris tribunatus_, which
 conferred on him equestrian rank. He failed, however, in his application
 to the latter for more substantial advantages, although he commemorates
-the glory of having been invited to dinner by him, and also the fact
+the glory of having been invited to [[Dinner|dinner]] by him, and also the fact
 that he procured the privilege of citizenship for many persons in whose
 behalf he appealed to him. The earliest of his extant works, that known
 by the name of _Liber spectaculorum_, was first published at the opening
@@ -85,21 +85,21 @@ the Sabine territory, to which he occasionally retired from the bores
 and noises of the city (ii. 38, xii. 57). In his later years he had also
 a small house on the Quirinal, near the temple of Quirinus. At the time
 when his third book was brought out he had retired for a short time to
-Cisalpine Gaul, in weariness, as he tells us, of his unremunerative
+Cisalpine [[Gaul]], in weariness, as he tells us, of his unremunerative
 attendance on the levées of the great. For a time he seems to have felt
-the charm of the new scenes which he visited, and in a later book (iv.
+the [[Charm|charm]] of the new scenes which he visited, and in a later book (iv.
 25) he contemplates the prospect of retiring to the neighbourhood of
-Aquileia and the Timavus. But the spell exercised over him by Rome and
-Roman society was too great; even the epigrams sent from Forum Corneli
+[[Aquileia]] and the Timavus. But the spell exercised over him by Rome and
+Roman society was too great; even the epigrams sent from [[Forum]] Corneli
 and the Aemilian Way ring much more of the Roman forum, and of the
 streets, baths, porticos and clubs of Rome, than of the places from
 which they are dated. So too his motive for his final departure from
-Rome in A.D. 98 was a weariness of the burdens imposed on him by his
+Rome in A.D. 98 was a weariness of the [[Burden|burdens]] imposed on him by his
 social position, and apparently the difficulties of meeting the
 ordinary expenses of living in the metropolis (x. 96); and he looks
 forward to a return to the scenes familiar to his youth. The well-known
-epigram addressed to Juvenal (xii. 18) shows that for a time his ideal
-was realized; but the more trustworthy evidence of the prose epistle
+epigram addressed to [[Juvenal]] (xii. 18) shows that for a time his ideal
+was realized; but the more trustworthy evidence of the prose [[Epistle|epistle]]
 prefixed to book xii. proves that his contentment was of short duration,
 and that he could not live happily away from the literary and social
 pleasures of Rome. The one consolation of his exile was the society of a
@@ -109,7 +109,7 @@ always a patron or patroness--than his wife or mistress.
 
 During his life at Rome, although he never rose to a position of real
 independence, and had always a hard struggle with poverty, he seems to
-have known everybody, especially every one of any eminence at the bar or
+have known everybody, especially every one of any [[Eminence|eminence]] at the bar or
 in literature. In addition to Lucan and Quintilian, he numbered among
 his friends or more intimate acquaintances Silius Italicus, Juvenal, the
 younger Pliny; and there were many others of high position whose society
@@ -123,14 +123,14 @@ respectable author of the _Thebaid_ and the _Silvae_ should feel little
 admiration for either the life or the works of the Bohemian
 epigrammatist.
 
-Martial's faults are of the most glaring kind, and are exhibited without
+Martial's [[Fault|faults]] are of the most glaring kind, and are exhibited without
 the least concealment. Living under perhaps the worst of the many bad
 emperors who ruled the world in the 1st century, he addresses him and
 his favourites with the most servile flattery in his lifetime, censures
-him immediately after his death (xii. 6), and offers incense at the
+him immediately after his death (xii. 6), and offers [[Incense|incense]] at the
 shrine of his successor. He is not ashamed to be dependent on his
 wealthy friends and patrons for gifts of money, for his dinner, and even
-for his dress. We cannot feel sure that even what seem his sincerest
+for his [[Dress|dress]]. We cannot feel sure that even what seem his sincerest
 tributes of regard may not be prompted by the hope of payment. Further,
 there are in every book epigrams which cannot be read with any other
 feelings than those of extreme distaste.
@@ -139,20 +139,20 @@ These faults are so unmistakable and undeniable that many have formed
 their whole estimate of Martial from them, and have declined to make any
 further acquaintance with him. Even those who greatly admire his genius,
 and find the freshest interest in his representation of Roman life and
-his sketches of manners and character, do not attempt to palliate his
+his sketches of [[Manners|manners]] and character, do not attempt to palliate his
 faults, though they may partially account for them by reference to the
 morals of his age and the circumstances of his life. The age was one
 when literature had either to be silent or to be servile. Martial was
 essentially a man of letters: he was bound either to gain favour by his
 writings or to starve. Even Statius, whose writings are in other
 respects irreproachable, is nearly as fulsome in his adulation. The
-relation of client to patron had been recognized as an honourable one by
+relation of client to patron had been recognized as an [[Honourable|honourable]] one by
 the best Roman traditions. No blame had attached to Virgil or Horace on
-account of the favours which they received from Augustus and Maecenas,
+account of the favours which they received from Augustus and [[Maecenas]],
 or of the return which they made for these favours in their verse. That
 old honourable relationship had, however, greatly changed between
 Augustus and Domitian. Men of good birth and education, and sometimes
-even of high official position (Juv. i. 117), accepted the dole
+even of high official position (Juv. i. 117), accepted the [[Dole|dole]]
 (_sportula_). Martial was merely following a general fashion in paying
 his court to "a lord," and he made the best of the custom. In his
 earlier career he used to accompany his patrons to their villas at Baiae
@@ -167,15 +167,15 @@ public. Although there is the most cynical effrontery and want of
 self-respect in Martial's use of language, there is not much trace of
 the satyr in him--much less, many readers will think, than in Juvenal.
 
-It remains to ask, What were those qualities of nature and intellect
+It remains to ask, What were those qualities of nature and [[Intellect|intellect]]
 which enable us to read his best work--even the great body of his
 work--with the freshest sense of pleasure in the present day? He had the
 keenest capacity for enjoyment, the keenest curiosity and power of
 observation. He had also a very just discernment. It is rare to find any
 one endowed with so quick a perception of the ridiculous who is so
-little of a caricaturist. He was himself singularly free from cant,
+little of a caricaturist. He was himself singularly free from [[Cant|cant]],
 pedantry or affectation of any kind. Though tolerant of most vices, he
-had a hearty scorn of hypocrisy. There are few better satirists of
+had a hearty scorn of [[Hypocrisy|hypocrisy]]. There are few better satirists of
 social and literary pretenders in ancient or modern times. Living in a
 very artificial age, he was quite natural, hating pomp and show, and
 desiring to secure in life only what really gave him pleasure. To live
@@ -211,7 +211,7 @@ has penetrated more deeply into the heart of society, Martial has
 sketched its external aspect with a much fairer pencil and from a much
 more intimate contact with it. Martial was to Rome in the decay of its
 ancient virtue and patriotism what Menander was to Athens in its
-decline. They were both men of cosmopolitan rather than of a national
+decline. They were both men of [[Cosmopolitan|cosmopolitan]] rather than of a national
 type, and had a closer affinity to the life of Paris or London in the
 18th century than to that of Rome in the days of the Scipios or of
 Athens in the age of Pericles. The form of epigram was fitted to the
@@ -243,7 +243,7 @@ bears to this day the form impressed upon it by his unrivalled skill.
   (1875), a smaller selection with notes by Stephenson (1880); see also
   Edwin Post, _Selected Epigrams of Martial_ (1908), with introduction
   and notes. The translation into English verse by Elphinston (London,
-  1782) is famous for its absurdity, which drew an epigram from Burns.
+  1782) is famous for its absurdity, which drew an epigram from [[Burns]].
        (W. Y. S.)
 
 ## See also

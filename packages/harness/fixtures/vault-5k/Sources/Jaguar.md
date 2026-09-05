@@ -10,7 +10,7 @@ killed yearly. The jaguar is usually found singly (sometimes in pairs),
 and preys upon such quadrupeds as the horse, tapir, capybara, dogs or
 cattle. It often feeds on fresh-water turtles; sometimes following the
 reptiles into the water to effect a capture, it inserts a paw between
-the shells and drags out the body of the turtle by means of its sharp
+the shells and [[Drag|drags]] out the body of the turtle by means of its sharp
 claws. Occasionally after having tasted human flesh, the jaguar becomes
 a confirmed man-eater. The cry of this great cat, which is heard at
 night, and most frequently during the pairing season, is deep and hoarse
@@ -25,13 +25,13 @@ the head and sides of the face are thickly marked with small black
 spots, and the rest of body is covered with rosettes, formed of rings of
 black spots, with a black spot in the centre, and ranged lengthwise
 along the body in five to seven rows on each side. These black rings are
-heaviest along the back. The lips, throat, breast and belly, the inside
+heaviest along the back. The [[Lip|lips]], throat, [[Breast|breast]] and belly, the inside
 of the legs and the lower sides of tail are pure white, marked with
 irregular spots of black, those on the breast being long bars and on the
 belly and inside of legs large blotches. The tail has large black spots
 near the root, some with light centres, and from about midway of its
-length to the tip it is ringed with black. The ears are black behind,
-with a large buff spot near the tip. The nose and upper lip are light
+length to the tip it is ringed with black. The [[Ear|ears]] are black behind,
+with a large [[Buff|buff]] spot near the tip. The nose and upper lip are light
 rufous brown. The size varies, the total length of a very large specimen
 measuring 6 ft. 9 in.; the average length, however, is about 4 ft. from
 the nose to root of tail. In form the jaguar is thick-set; it does not

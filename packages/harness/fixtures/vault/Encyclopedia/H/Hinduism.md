@@ -15,19 +15,19 @@ centuries, on the foundation of the Brahmanical scriptures. The actual
 proportion of the total population of India (294 millions) included
 under the name of "Hindus" has been computed in the census report for
 1901 at something like 70% (206 millions); the remaining 30% being made
-up partly of the followers of foreign creeds, such as Mahommedans,
+up partly of the followers of foreign [[Creeds|creeds]], such as Mahommedans,
 Parsees, Christians and Jews, partly of the votaries of indigenous forms
 of belief which have at various times separated from the main stock, and
 developed into independent systems, such as Buddhism, Jainism and
 Sikhism; and partly of isolated hill and jungle tribes, such as the
-Santals, Bhils (Bhilla) and Kols, whose crude animistic tendencies have
+Santals, Bhils (Bhilla) and [[Kols]], whose crude animistic tendencies have
 hitherto kept them, either wholly or for the most part, outside the pale
 of the Brahmanical community. The name "Hindu" itself is of foreign
 origin, being derived from the Persians, by whom the river Sindhu was
 called Hindhu, a name subsequently applied to the inhabitants of that
 frontier district, and gradually extended over the upper and middle
 reaches of the Gangetic valley, whence this whole tract of country
-between the Himalaya and the Vindhya mountains, west of Bengal, came to
+between the [[Himalaya]] and the Vindhya mountains, west of [[Bengal]], came to
 be called by the foreign conquerors "Hindustan," or the abode of the
 Hindus; whilst the native writers called it "Aryavarta," or the abode
 of the Aryas.
@@ -63,7 +63,7 @@ thinkers as the necessary complement of a belief in the essential
 sameness of all the various spiritual units, however contaminated, to a
 greater or less degree, they may be by their material embodiment; and in
 their ultimate re-union with the _Paramatman_, or Supreme Self; and
-second, the assumption of a triple manifestation of the ceaseless
+second, the [[Assumption|assumption]] of a triple manifestation of the ceaseless
 working of that Absolute Spirit as a creative, conservative and
 destructive principle, represented respectively by the divine
 personalities of Brahma (masc.), Vishnu and Siva, forming the _Trimurti_
@@ -82,7 +82,7 @@ creed. Nay, when, on analysing the functions and attributes of those two
 divine figures, each of them is found to be but a compound of several
 previously recognized deities, sectarian worship may well be traced
 right up to the Vedic age. That the theory of the triple manifestation
-of the deity was indeed only a compromise between Brahmanical
+of the deity was indeed only a [[Compromise|compromise]] between Brahmanical
 aspirations and popular worship, probably largely influenced by the
 traditional sanctity of the number three, is sufficiently clear from the
 fact that, whilst Brahma, the creator, and at the same time the very
@@ -112,13 +112,13 @@ tribes scattered over the peninsula, just as they certainly did succeed
 in establishing the social prerogative of their own order over the
 length and breadth of India. They were, however, fated to fall far short
 of such a consummation; and at all times orthodox Brahmanism has had to
-wink at, or ignore, all manner of gross superstitions and repulsive
+wink at, or ignore, all manner of [[Gross|gross]] superstitions and repulsive
 practices, along with the popular worship of countless hosts of
 godlings, demons, spirits and ghosts, and mystic objects and symbols of
 every description. Indeed, according to a recent account by a close
 observer of the religious practices prevalent in southern India, fully
-four-fifths of the people of the Dravidian race, whilst nominally
-acknowledging the spiritual guidance of the Brahmans, are to this day
+four-fifths of the people of the [[Dravidian]] race, whilst nominally
+acknowledging the spiritual guidance of the [[Brahman|Brahmans]], are to this day
 practically given over to the worship of their nondescript local village
 deities (_grama-devata_), usually attended by animal sacrifices
 frequently involving the slaughter, under revolting circumstances, of
@@ -137,7 +137,7 @@ which no animal sacrifices are offered, the officiating priests are
 almost invariably Brahmans, this is practically never the case at the
 popular performance of those "gloomy and weird rites for the
 propitiation of angry deities, or the driving away of evil spirits, when
-the pujaris (or ministrants) are drawn from all other castes, even from
+the pujaris (or ministrants) are drawn from all other [[Caste|castes]], even from
 the Pariahs, the out-caste section of Indian society."
 
 
@@ -154,7 +154,7 @@ cardinal principle which underlies the system of caste is the
 preservation of purity of descent, and purity of religious belief and
 ceremonial usage. Now, that same principle had been operative from the
 very dawn of the history of Aryanized India. The social organism of the
-Aryan tribe did not probably differ essentially from that of most
+[[Aryan]] tribe did not probably differ essentially from that of most
 communities at that primitive stage of civilization; whilst the body of
 the people--the _Vis_ (or aggregate of _Vaisyas_)--would be mainly
 occupied with agricultural and pastoral pursuits, two professional
@@ -172,14 +172,14 @@ parts--they seem to have been signally successful in their endeavour to
 preserve their racial purity, probably by being able to clear a
 sufficiently extensive area of the original occupants for themselves
 with their wives and children to settle upon. The case was, however,
-very different in the adjoining valley of the Jumna and Ganges, the
+very different in the adjoining valley of the [[Jumna]] and [[Ganges]], the
 sacred _Madhyadesa_ or Middle-land of classical India. Here the Aryan
 immigrants were not allowed to establish themselves without undergoing a
 considerable admixture of foreign blood. It must remain uncertain
 whether it was that the thickly-populated character of the land scarcely
 admitted of complete occupation, but only of a conquest by an army of
 fighting men, starting from the Aryanized region--who might, however,
-subsequently draw women of their own kin after them--or whether, as has
+subsequently draw women of their own [[Kin|kin]] after them--or whether, as has
 been suggested, a second Aryan invasion of India took place at that time
 through the mountainous tracts of the upper Indus and northern Kashmir,
 where the nature of the road would render it impracticable for the
@@ -190,7 +190,7 @@ of the tall, fair-coloured, fine-nosed Aryan with the short-sized,
 dark-skinned, broad-nosed Dravidian; the latter type becoming more
 pronounced towards the lower strata of the social order.[4] Now, it was
 precisely in this part of India that mainly arose the body of literature
-which records the gradual rise of the Brahmanical hierarchy and the
+which records the [[Gradual|gradual]] rise of the Brahmanical hierarchy and the
 early development of the caste-system.
 
 The problem that now lay before the successful invaders was how to deal
@@ -238,7 +238,7 @@ born again into a higher grade of life. In later times, the strict
 adherence to caste duties would naturally receive considerable support
 from the belief in the transmigration of souls, already prevalent before
 Buddha's time, and from the very general acceptance of the doctrine of
-_karma_ ("deed"), or retribution, according to which a man's present
+_[[Karma|karma]]_ ("deed"), or retribution, according to which a man's present
 station and manner of life are the result of the sum-total of his
 actions and thoughts in his former existence; as his actions here will
 again, by the same automatic process of retribution, determine his
@@ -277,22 +277,22 @@ as to the original social organization of the subject race. Though
 doubtless divided into different tribes scattered over an extensive
 tract of land, the subjected aborigines were slumped together under the
 designation of Sudras, whose duty it was to serve the upper classes in
-all the various departments of manual labour, save those of a downright
+all the various departments of [[Manual|manual]] labour, save those of a downright
 sordid and degrading character which it was left to _vratyas_ or
-outcasts to perform. How, then, was the distribution of crafts and
+outcasts to perform. How, then, was the distribution of [[Craft|crafts]] and
 habitual occupations of all kinds brought about? Was the process one of
 spontaneous growth adapting an already existing social organization to a
 new order of things; or was it originated and perpetuated by regulation
 from above? Or was it rather that the status and duties of existing
 offices and trades came to be determined and made hereditary by some
-such artificial system as that by which the Theodosian Code succeeded
+such artificial system as that by which the Theodosian [[Code]] succeeded
 for a time in organizing the Roman society in the 5th century of our
-era? "It is well known" (says Professor Dill) "that the tendency of the
+era? "It is well known" (says Professor [[Dill]]) "that the tendency of the
 later Empire was to stereotype society, by compelling men to follow the
 occupation of their fathers, and preventing a free circulation among
 different callings and grades of life. The man who brought the grain
-from Africa to the public stores at Ostia, the baker who made it into
-loaves for distribution, the butchers who brought pigs from Samnium,
+from Africa to the public stores at Ostia, the [[Baker|baker]] who made it into
+loaves for distribution, the [[Butcher|butchers]] who brought pigs from Samnium,
 Lucania or Bruttium, the purveyors of wine and oil, the men who fed the
 furnaces of the public baths, were bound to their callings from one
 generation to another. It was the principle of rural serfdom applied to
@@ -300,7 +300,7 @@ social functions. Every avenue of escape was closed. A man was bound to
 his calling not only by his father's but also by his mother's condition.
 Men were not permitted to marry out of their gild. If the daughter of
 one of the baker caste married a man not belonging to it, her husband
-was bound to her father's calling. Not even a dispensation obtained by
+was bound to her father's calling. Not even a [[Dispensation|dispensation]] obtained by
 some means from the imperial chancery, not even the power of the Church
 could avail to break the chain of servitude." It can hardly be gainsaid
 that these artificial arrangements bear a very striking analogy to those
@@ -319,7 +319,7 @@ acceptance all over the Dravidian region of southern India, with its
 merest sprinkling of Aryan blood, if it were possible to assume that
 class arrangements of a similar kind must have already been prevalent
 amongst the aboriginal tribes prior to the advent of the Aryan. Whether
-a more intimate acquaintance with the manners and customs of those rude
+a more intimate acquaintance with the [[Manners|manners]] and customs of those rude
 tribes that have hitherto kept themselves comparatively free from Hindu
 influences may yet throw some light on this question, remains to be
 seen. But, by this as it may, the institution of caste, when once
@@ -344,7 +344,7 @@ married without paying a high price for a suitable bridegroom and
 incurring other heavy marriage expenses. It can hardly be doubted that
 this custom has been largely responsible for the crime of female
 infanticide, formerly so prevalent in India; as it also probably is to
-some extent for infant marriages, still too common in some parts of
+some extent for [[Infant|infant]] marriages, still too common in some parts of
 India, especially Bengal; and even for the all but universal repugnance
 to the re-marriage of widows, even when these had been married in early
 childhood and had never joined their husbands. Yet violations of these
@@ -365,7 +365,7 @@ been touched by a man of an inferior caste is so strong that, although
 the Shastras do not prohibit the eating of food cooked by a Kshatriya or
 Vaisya, yet the Brahmans, in most parts of the country, would not eat
 such food. For these reasons, every Hindu household--whether Brahman,
-Kshatriya or Sudra--that can afford to keep a paid cook generally
+Kshatriya or Sudra--that can afford to keep a paid [[Cook|cook]] generally
 entertains the services of a Brahman for the performance of its
 _cuisine_--the result being that in the larger towns the very name of
 Brahman has suffered a strange degradation of late, so as to mean only a
@@ -380,7 +380,7 @@ the Jat and Rajput; whilst of these the Jat who practises widow-marriage
 ranks below the Rajput who prides himself on his tradition of ceremonial
 orthodoxy--though racially there seems little, if any, difference
 between the two; and the Rajput, again, is looked down upon by the
-Babhan of Behar because he does not, like himself, scruple to handle the
+Babhan of [[Behar]] because he does not, like himself, scruple to handle the
 plough, instead of invariably employing low-caste men for this manual
 labour. So also when members of the Baidya, or physician, caste of
 Bengal, ranging next to that of the Brahman, farm land on tenure, "they
@@ -401,7 +401,7 @@ hired servants" (H. H. Risley, _Census Report_).
   infant-marriage or abandoning the re-marriage of widows; that the
   status of others has been modified by their pursuing some occupations
   in a special or peculiar way; that some can claim the services of the
-  village barber, the village palanquin-bearer, the village midwife,
+  village [[Barber|barber]], the village palanquin-bearer, the village midwife,
   &c., while others cannot; that some castes may not enter the
   courtyards of certain temples; that some castes are subject to special
   taboos, such as that they must not use the village well, or may draw
@@ -415,7 +415,7 @@ hired servants" (H. H. Risley, _Census Report_).
   representatives of the Kshatriyas; and these are followed by the
   mercantile groups supposed to be akin to the Vaisyas. When we leave
   the higher circles of the twice-born, the difficulty of finding a
-  uniform basis of classification becomes apparent. The ancient
+  uniform basis of [[Classification|classification]] becomes apparent. The ancient
   designation Sudra finds no great favour in modern times, and we can
   point to no group that is generally recognized as representing it. The
   term is used in Bombay, Madras and Bengal to denote a considerable
@@ -431,13 +431,13 @@ hired servants" (H. H. Risley, _Census Report_).
   status of the caste depends on the nature of its occupation and its
   habits in respect of diet. There are castes whose touch defiles the
   twice-born, but who do not commit the crowning enormity of eating
-  beef.... In western and southern India the idea that the social state
+  [[Beef|beef]].... In western and southern India the idea that the social state
   of a caste depends on whether Brahmans will take water and sweetmeats
   from its members is unknown, for the higher castes will as a rule take
   water only from persons of their own caste and sub-caste. In Madras
   especially the idea of ceremonial pollution by the proximity of an
   unclean caste has been developed with much elaboration. Thus the table
-  of social precedence attached to the Cochin report shows that while a
+  of social precedence attached to the [[Cochin]] report shows that while a
   Nayar can pollute a man of a higher caste only by touching him, people
   of the Kammalan group, including masons, blacksmiths, carpenters and
   workers in leather, pollute at a distance of 24 ft., toddy-drawers at
@@ -445,7 +445,7 @@ hired servants" (H. H. Risley, _Census Report_).
   of the Paraiyan (Pariahs) who eat beef the range of pollution is no
   less than 64 ft."
 
-In this bewildering maze of social grades and class distinctions, the
+In this bewildering [[Maze|maze]] of social grades and class distinctions, the
 Brahman, as will have been seen, continues to hold the dominant
 position, being respected and even worshipped by all the others. "The
 more orthodox Sudras carry their veneration for the priestly class to
@@ -453,7 +453,7 @@ such a degree that they will not cross the shadow of a Brahman, and it
 is not unusual for them to be under a vow not to eat any food in the
 morning, before drinking _Bipracharanamrita_, i.e. water in which the
 toe of a Brahman has been dipped. On the other hand, the pride of the
-Brahmans is such that they do not bow to even the images of the gods
+Brahmans is such that they do not [[Bow|bow]] to even the [[Image|images]] of the gods
 worshipped in a Sudra's house by Brahman priests" (Jog. Nath Bh.). There
 are, however, not a few classes of Brahmans who, for various reasons,
 have become degraded from their high station, and formed separate castes
@@ -463,7 +463,7 @@ lower castes, including the makers and dealers in spirituous liquors; as
 well as those who officiate at the great public shrines or places of
 pilgrimage where they might be liable to accept forbidden gifts, and, as
 a matter of fact, often amass considerable wealth; and those who
-officiate as paid priests at cremations and funeral rites, when the
+officiate as paid priests at [[Cremation|cremations]] and [[Funeral Rites|funeral rites]], when the
 wearing apparel and bedding of the deceased are not unfrequently claimed
 by them as their perquisites.
 
@@ -512,7 +512,7 @@ race with the upper classes, especially with the aristocratic landowners
 and still more so with the yeomanry, had probably been going on to such
 an extent as to have resulted in two fairly well-defined intermediate
 types of colour between the priestly order and the servile race and to
-have facilitated the ultimate division into four "colours" (_varna_). In
+have facilitated the ultimate division into four "[[Colours|colours]]" (_varna_). In
 course of time the process of intermingling, as we have seen, assumed
 such proportions that the priestly class, in their pride of blood, felt
 naturally tempted to recognize, as of old, only two "colours," the Aryan
@@ -541,12 +541,12 @@ apparent injustice involved in the unequal distribution of the good
 things in this world; and that, if the Sudra was strictly excluded from
 the religious rites and beliefs of the superior classes, this exclusion
 in no way involved the question of his ultimate emancipation and his
-union with the Infinite Spirit, which were as certain in his case as in
+union with the [[Infinite]] Spirit, which were as certain in his case as in
 that of any other sentient being. What it did make impossible for him
 was to attain that union immediately on the cessation of his present
 life, as he would first have to pass through higher and purer stages of
 mundane existence before reaching that goal; but in this respect he only
-shared the lot of all but a very few of the saintliest in the higher
+shared the [[Lot|lot]] of all but a very few of the saintliest in the higher
 spheres of life, since the ordinary twice-born would be liable to sink,
 after his present life, to grades yet lower than that of the Sudra.
 
@@ -566,17 +566,17 @@ assigned to them as their special domains. One of them, Kubera, the god
 of wealth, is a new figure; whilst another, Varuna, the most spiritual
 and ethical of Vedic deities--the king of the gods and the universe; the
 nightly, star-spangled firmament--has become the Indian Neptune, the god
-of waters. Indra, their chief, is virtually a kind of superior raja,
+of waters. [[Indra]], their chief, is virtually a kind of superior raja,
 residing in _svarga_, and as such is on visiting terms with earthly
 kings, driving about in mid-air with his charioteer Matali. As might
 happen to any earth-lord, Indra is actually defeated in battle by the
 son of the demon-king of Lanka (Ceylon), and kept there a prisoner till
-ransomed by Brahma and the gods conferring immortality on his conqueror.
+ransomed by Brahma and the gods conferring [[Immortality|immortality]] on his conqueror.
 A quaint figure in the pantheon of the heroic age is Hanuman, the
 deified chief of monkeys--probably meant to represent the aboriginal
 tribes of southern India--whose wonderful exploits as Rama's ally on the
 expedition to Lanka Indian audiences will never weary of hearing
-recounted. The Gandharvas figure already in the Veda, either as a single
+recounted. The [[Gandharva|Gandharvas]] figure already in the Veda, either as a single
 divinity, or as a class of genii, conceived of as the body-guard of Soma
 and as connected with the moon. In the later Vedic times they are
 represented as being fond of, and dangerous to, women; the Apsaras,
@@ -606,16 +606,16 @@ classes and both sexes. It has a perceptible influence on the Hindu
 character. I believe the remarkable freedom from infidelity which is to
 be seen in most Hindu families, in spite of their strange gregarious
 habits, can be traced to that influence; and little wonder" (B. M.
-Malabari, _Gujarat and the Gujaratis_). Hence also the universal
+[[Malabari]], _Gujarat and the Gujaratis_). Hence also the universal
 reverence paid to serpents (_naga_) since those early days; though
 whether it simply arose from the superstitious dread inspired by the
 insidious reptile so fatal to man in India, or whether the verbal
 coincidence with the name of the once-powerful non-Aryan tribe of Nagas
 had something to do with it must remain doubtful. Indian myth represents
 them as a race of demons sprung from Kadru, the wife of the sage
-Kasyapa, with a jewel in their heads which gives them their sparkling
+Kasyapa, with a [[Jewel|jewel]] in their heads which gives them their sparkling
 look; and inhabiting one of the seven beautiful worlds below the earth
-(and above the hells), where they are ruled over by three chiefs or
+(and above the [[Hell|hells]]), where they are ruled over by three chiefs or
 kings, Sesha, Vasuki and Takshaka; their fair daughters often entering
 into matrimonial alliances with men, like the mermaids of western
 legend.
@@ -629,22 +629,22 @@ genial Vishnu mainly out of a not very prominent solar deity of the same
 name; whilst the stern Siva, i.e. the kind or gracious one--doubtless a
 euphemistic name--has his prototype in the old fierce storm-god Rudra,
 the "Roarer," with certain additional features derived from other
-deities, especially Pushan, the guardian of flocks and bestower of
+deities, especially Pushan, the [[Guardian|guardian]] of flocks and bestower of
 prosperity, worked up therewith. The exact process of the evolution of
 the two deities and their advance in popular favour are still somewhat
 obscure. In the epic poems which may be assumed to have taken their
 final shape in the early centuries before and after the Christian era,
 their popular character, so strikingly illustrated by their inclusion in
 the Brahmanical triad, appears in full force; whilst their cult is
-likewise attested by the coins and inscriptions of the early centuries
+likewise attested by the [[Coin|coins]] and inscriptions of the early centuries
 of our era. The co-ordination of the two gods in the Trimurti does not
 by any means exclude a certain rivalry between them; but, on the
 contrary, a supreme position as the true embodiment of the Divine Spirit
 is claimed for each of them by their respective votaries, without,
-however, an honourable, if subordinate, place being refused to the rival
+however, an [[Honourable|honourable]], if subordinate, place being refused to the rival
 deity, wherever the latter, as is not infrequently the case, is not
 actually represented as merely another form of the favoured god. Whilst
-at times a truly monotheistic fervour manifests itself in the adoration
+at times a truly monotheistic fervour [[Manifest|manifests]] itself in the adoration
 of these two gods, the polytheistic instincts of the people did not fail
 to extend the pantheon by groups of new deities in connexion with them.
 Two of such new gods actually pass as the sons of Siva and his consort
@@ -652,14 +652,14 @@ Parvati, viz. Skanda--also called Kumara (the youth), Karttikeya, or
 Subrahmanya (in the south)--the six-headed war-lord of the gods; and
 Ganese, the lord (or leader) of Siva's troupes of attendants, being at
 the same time the elephant-headed, paunch-bellied god of wisdom; whilst
-a third, Kama (Kamadeva) or Kandarpa, the god of love, gets his popular
+a third, [[Kama]] (Kamadeva) or Kandarpa, the god of love, gets his popular
 epithet of Ananga, "the bodiless," from his having once, in frolicsome
 play, tried the power of his arrows upon Siva, whilst engaged in austere
 practices, when a single glance from the third (forehead) eye of the
 angry god reduced the mischievous urchin to ashes. For his chief
 attendant, the great god (Mahadeva, Mahesvara) has already with him the
 "holy" Nandi--presumably, though his shape is not specified, identical
-in form as in name with Siva's sacred bull of later times, the
+in form as in name with Siva's sacred [[Bull|bull]] of later times, the
 appropriate symbol of the god's reproductive power. But, in this
 respect, we also meet in the epics with the first clear evidence of what
 in after time became the prominent feature of the worship of Siva and
@@ -676,7 +676,7 @@ developed; the ten universally recognized "descents" being enumerated in
 the larger poem. Though Siva, too, assumes various forms, the
 incarnation theory is peculiarly characteristic of Vaishnavism; and the
 fact that the principal hero of the Ramayana (Rama), and one of the
-prominent warriors of the Mahabharata (Krishna) become in this way
+prominent warriors of the Mahabharata ([[Krishna]]) become in this way
 identified with the supreme god, and remain to this day the chief
 objects of the adoration of Vaishnava sectaries, naturally imparts to
 these creeds a human interest and sympathetic aspect which is wholly
@@ -692,11 +692,11 @@ features of a highly objectionable character.
   Second"? The Indian theosophist would doubtless have little difficulty
   in answering that question. For him there is only the One Absolute
   Being, the one reality that is all in all; whilst all the phenomenal
-  existences and occurrences that crowd upon our senses are nothing more
+  existences and occurrences that [[Crowd|crowd]] upon our senses are nothing more
   than an illusion of the individual soul estranged for a time from its
   divine source--an illusion only to be dispelled in the end by the
-  soul's fuller knowledge of its own true nature and its being one with
-  the eternal fountain of blissful being. But to the man of ordinary
+  soul's [[Fuller|fuller]] knowledge of its own true nature and its being one with
+  the eternal [[Fountain|fountain]] of blissful being. But to the man of ordinary
   understanding, unused to the rarefied atmosphere of abstract thought,
   this conception of a transcendental, impersonal Spirit and the
   unreality of the phenomenal world can have no meaning: what he
@@ -717,7 +717,7 @@ features of a highly objectionable character.
   universal divinity. The Hindus, like the pagans of antiquity, adore
   natural objects and forces--a mountain, a river or an animal. The
   Brahman holds all nature to be the vesture or cloak of indwelling,
-  divine energy, which inspires everything that produces awe or passes
+  divine energy, which inspires everything that produces [[Awe|awe]] or passes
   man's understanding" (Sir Alfred C. Lyall, _Brahminism_).
 
 
@@ -738,7 +738,7 @@ our era. It was probably also during this period that the female element
 was first definitely admitted to a prominent place amongst the divine
 objects of sectarian worship, in the shape of the wives of the principal
 gods viewed as their _sakti_, or female energy, theoretically identified
-with the _Maya_, or cosmic Illusion, of the idealistic Vedanta, and the
+with the _Maya_, or [[Cosmic|cosmic]] Illusion, of the idealistic Vedanta, and the
 _Prakriti_, or plastic matter, of the materialistic Sankhya philosophy,
 as the primary source of mundane things. The connubial relations of the
 deities may thus be considered "to typify the mystical union of the two
@@ -753,7 +753,7 @@ the _Saktas_.
   Sankara.
 
 In the midst of these conflicting tendencies, an attempt was made, about
-the latter part of the 8th century, by the distinguished Malabar
+the latter part of the 8th century, by the distinguished [[Malabar]]
 theologian and philosopher Sankara Acharya to restore the Brahmanical
 creed to something like its pristine purity, and thus once more to bring
 about a uniform system of orthodox Hindu belief. Though himself, like
@@ -795,7 +795,7 @@ of intelligent Brahmans generally.
   styled. That the tenets and practices of so characteristic a faith as
   Buddhism, so long prevalent in India, cannot but have left their marks
   on Hindu life and belief may readily be assumed, though it is not so
-  easy to lay one's finger on the precise features that might seem to
+  easy to lay one's [[Finger|finger]] on the precise features that might seem to
   betray such an influence. If the general tenderness towards animals,
   based on the principle of _ahimsa_, or inflicting no injury on
   sentient beings, be due to Buddhist teaching, that influence must have
@@ -824,7 +824,7 @@ of intelligent Brahmans generally.
   him. In the Veda no tendency shows itself as yet towards rendering
   divine honour to the cow; and though the importance assigned her in an
   agricultural community is easily understood, still the exact process
-  of her deification and her identification with the mother earth in the
+  of her deification and her [[Identification|identification]] with the mother earth in the
   time of Manu and the epics requires further elucidation. An idealized
   type of the useful quadruped--likewise often identified with the
   earth--presents itself in the mythical Cow of Plenty, or "wish-cow"
@@ -852,10 +852,10 @@ limits. In fact, the respectable Hindu, whilst owning special allegiance
 to one of the two gods as his _ishta devata_ (favourite deity), will not
 withhold his tribute of adoration from the other gods of the pantheon.
 The high-caste Brahman will probably keep at his home a salagram stone,
-the favourite symbol of Vishnu, as well as the characteristic emblems of
+the favourite symbol of Vishnu, as well as the characteristic [[Emblem|emblems]] of
 Siva and his consort, to both of which he will do reverence in the
 morning; and when he visits some holy place of pilgrimage, he will not
-fail to pay his homage at both the Saiva and the Vaishnava shrines
+fail to pay his [[Homage|homage]] at both the Saiva and the Vaishnava shrines
 there. Indeed, "sectarian bigotry and exclusiveness are to be found
 chiefly among the professional leaders of the modern brotherhoods and
 their low-caste followers, who are taught to believe that theirs are the
@@ -867,12 +867,12 @@ south), which marks the entrance of the sun into the sign of Capricorn
 and the beginning of its northward course (_uttarayana_) on the 1st day
 of the month Magha (c. Jan. 12); the _Ganesa-caturthi_, or 4th day of
 the light fortnight of Bhadra (August-September), considered the
-birthday of Ganesa, the god of wisdom; and the _Holi_, the Indian
+birthday of [[Ganesa]], the god of wisdom; and the _Holi_, the Indian
 Saturnalia in the month of Phalguna (February to March)--have nothing of
 a sectarian tendency about them; others again, which are of a distinctly
 sectarian character--such as the _Krishna-janmashtami_, the birthday of
 Krishna on the 8th day of the dark half of Bhadra, or (in the south) of
-Sravana (July-August), the _Durga-puja_ and the _Dipavali_, or lamp
+Sravana (July-August), the _Durga-puja_ and the _Dipavali_, or [[Lamp|lamp]]
 feast, celebrating Krishna's victory over the demon Narakasura, on the
 last two days of Asvina (September-October)--are likewise observed and
 heartily joined in by the whole community irrespective of sect. Widely
@@ -885,19 +885,19 @@ especially in southern India. Indeed there is hardly a village in India
 which cannot boast of a shrine dedicated to Siva, and containing the
 emblem of his reproductive power; for almost the only form in which the
 "Great God" is adored is the _Linga_, consisting usually of an upright
-cylindrical block of marble or other stone, mostly resting on a circular
+cylindrical block of [[Marble|marble]] or other stone, mostly resting on a circular
 perforated slab. The mystic nature of these emblems seems, however, to
 be but little understood by the common people; and, as H. H. Wilson
 remarks, "notwithstanding the acknowledged purport of this worship, it
 is but justice to state that it is unattended in Upper India by any
 indecent or indelicate ceremonies, and it requires a rather lively
-imagination to trace any resemblance in its symbols to the objects they
+[[Imagination|imagination]] to trace any resemblance in its symbols to the objects they
 are supposed to represent." In spite, however, of its wide diffusion,
 and the vast number of shrines dedicated to it, the worship of Siva has
 never assumed a really popular character, especially in northern India,
 being attended with scarcely any solemnity or display of emotional
 spirit. The temple, which usually stands in the middle of a court, is as
-a rule a building of very moderate dimensions, consisting either of a
+a rule a building of very moderate [[Dimension|dimensions]], consisting either of a
 single square chamber, surmounted by a pyramidal structure, or of a
 chamber for the linga and a small vestibule. The worshipper, having
 first circumambulated the shrine as often as he pleases, keeping it at
@@ -909,18 +909,18 @@ muttering a short prayer, and takes his departure. Amongst the many
 thousands of Lingas, twelve are usually regarded as of especial
 sanctity, one of which, that of Somnath in Gujarat, where Siva is
 worshipped as "the lord of Soma," was, however, shattered by Mahmud of
-Ghazni; whilst another, representing Siva as _Visvesvara_, or "Lord of
-the Universe," is the chief object of adoration at Benares, the great
+[[Ghazni]]; whilst another, representing Siva as _Visvesvara_, or "Lord of
+the Universe," is the chief object of adoration at [[Benares]], the great
 centre of Siva-worship. The Saivas of southern India, on the other hand,
 single out as peculiarly sacred five of their temples which are supposed
 to enshrine as many characteristic aspects (linga) of the god in the
 form of the five elements, the most holy of these being the shrine of
-Chidambaram (i.e. "thought-ether") in S. Arcot, supposed to contain the
+[[Chidambaram]] (i.e. "thought-ether") in S. [[Arcot]], supposed to contain the
 ether-linga. According to Pandit S. M. Natesa (_Hindu Feasts, Fasts and
 Ceremonies_), "the several forms of the god Siva in these sacred shrines
 are considered to be the bodies or casements of the soul whose natural
 bases are the five elements--earth, water, fire, air and ether. The
-apprehension of God in the last of these five as ether is, according to
+[[Apprehension|apprehension]] of God in the last of these five as ether is, according to
 the Saiva school of philosophy, the highest form of worship, for it is
 not the worship of God in a tangible form, but the worship of what, to
 ordinary minds, is vacuum, which nevertheless leads to the attainment of
@@ -958,7 +958,7 @@ applied to him.
   and also wear one or more pieces of cloth of the same colour. They
   worship Siva in his form of Bhairava, the "terrible." A sub-section of
   this order are the Dandi Dasnamis, or Dandi of ten names, so called
-  from their assuming one of the names of Sankara's four disciples, and
+  from their assuming one of the names of Sankara's four [[Disciple|disciples]], and
   six of their pupils. (2) _Yogis_ (or popularly, Jogis), i.e. adherents
   of the Yoga philosophy and the system of ascetic practices enjoined by
   it with the view of mental abstraction and the supposed attainment of
@@ -1005,7 +1005,7 @@ applied to him.
   escape the notice of the most superficial observer."
 
 
-  Lingayats.
+  [[Lingayat|Lingayats]].
 
 An independent Saiva sect, or, indeed, the only strictly Saiva sect, are
 the _Vira Saivas_, more commonly called _Lingayats_ (popularly Lingaits)
@@ -1016,7 +1016,7 @@ of their badge, their _Gurus_ are called _Jangamas_ ("movable"). This
 sect counts numerous adherents in southern India; the Census Report of
 1901 recording nearly a million and a half, including some 70 or 80
 different, mostly endogamous, castes. The reputed founder, or rather
-reformer, of the sect was Basava (or Basaba), a Brahman of the Belgaum
+reformer, of the sect was Basava (or Basaba), a Brahman of the [[Belgaum]]
 district who seems to have lived in the 11th or 12th century. According
 to the Basava-purana he early in life renounced his caste and went to
 reside at Kalyana, then the capital of the Chalukya kingdom, and later
@@ -1032,7 +1032,7 @@ Though the Lingayats still show a certain animosity towards the
 Brahmans, and in the Census lists are accordingly classed as an
 independent group beside the Hindus, still they can hardly be excluded
 from the Hindu community, and are sure sooner or later to find their way
-back to the Brahmanical fold.
+back to the Brahmanical [[Fold|fold]].
 
 
   Avatars.
@@ -1085,7 +1085,7 @@ Vaishnava reformers.
 The first successful Vaishnava reaction against Sankara's reconstructed
 creed was led by Ramanuja, a southern Brahman of the 12th century. His
 followers, the Ramanujas, or Sri-Vaishnavas as they are usually called,
-worship Vishnu (Narayana) with his consort Sri or Lakshmi (the goddess
+worship Vishnu (Narayana) with his consort Sri or [[Lakshmi]] (the goddess
 of beauty and fortune), or their incarnations Rama with Sita and Krishna
 with Rukmini. Ramanuja's doctrine, which is especially directed against
 the Linga-worship, is essentially based on the tenets of an old
@@ -1097,7 +1097,7 @@ the Ramanujas resembles a capital U (or, in the case of another
 division, a Y), painted with a white clay called gopi-chandana, between
 the hair and the root of the nose, with a red or yellow vertical stroke
 (representing the female element) between the two white lines. They also
-usually wear, like all Vaishnavas, a necklace of _tulasi_, or basil
+usually wear, like all Vaishnavas, a necklace of _tulasi_, or [[Basil|basil]]
 wood, and a rosary of seeds of the same shrub or of the lotus. Their
 most important shrines are those of Srirangam near Trichinopoly,
 Mailkote in Mysore, Dvaraka (the city of Krishna) on the Kathiawar
@@ -1121,7 +1121,7 @@ split into two sects, a northern one, recognizing the Vedas as their
 chief authority, and a southern one, basing their tenets on the Nalayir,
 a Tamil work of the Upanishad order. In point of doctrine, they differ
 in their view of the relation between God Vishnu and the human soul;
-whilst the former sect define it by the _ape_ theory, which makes the
+whilst the former sect define it by the _[[Ape|ape]]_ theory, which makes the
 soul cling to God as the young ape does to its mother, the latter
 explain it by the cat theory, by which Vishnu himself seizes and rescues
 the souls as the mother cat does her young ones.
@@ -1130,7 +1130,7 @@ the souls as the mother cat does her young ones.
   Madhvas.
 
 _Madhva Acharya_, another distinguished Vedanta teacher and founder of a
-Vaishnava sect, born in Kanara in A.D. 1199, was less intolerant of the
+Vaishnava sect, born in [[Kanara]] in A.D. 1199, was less intolerant of the
 Linga cult than Ramanuja, but seems rather to have aimed at a
 reconciliation of the Saiva and Vaishnava forms of worship. The
 _Madhvas_ or _Madhvacharis_ favour Krishna and his consort as their
@@ -1146,7 +1146,7 @@ India. Their sectarial mark is like the U of the Sri-Vaishnavas, except
 that their central line is black instead of red or yellow. Madhva--who
 after his initiation assumed the name Anandatirtha--composed numerous
 Sanskrit works, including commentaries on the Brahma sutras (i.e. the
-Vedanta aphorisms), the Gita, the Rigveda and many Upanishads. His
+Vedanta [[Aphorism|aphorisms]]), the Gita, the Rigveda and many Upanishads. His
 philosophical theory was a dualistic one, postulating distinctness of
 nature for the divine and the human soul, and hence independent
 existence, instead of absorption, after the completion of mundane
@@ -1177,9 +1177,9 @@ Jat and a barber--for, they argue, seeing that Bhagavan, the Holy One
 be born even in the lowest of castes. Ramananda's teaching was thus of a
 distinctly levelling and popular character; and, in accordance
 therewith, the Bhakta-mala and other authoritative writings of the sect
-are composed, not in Sanskrit, but in the popular dialects. A follower
+are composed, not in Sanskrit, but in the popular [[Dialect|dialects]]. A follower
 of this creed was the distinguished poet Tulsidas, the composer of the
-beautiful Hindi version of the Ramayana and other works which "exercise
+beautiful [[Hindi]] version of the Ramayana and other works which "exercise
 more influence upon the great body of Hindu population than the whole
 voluminous series of Sanskrit composition" (H. H. Wilson).
 
@@ -1215,7 +1215,7 @@ solicit alms; and, indeed, "the quaker-like spirit of the sect, their
 abhorrence of all violence, their regard for truth and the
 inobtrusiveness of their opinions render them very inoffensive members
 of the state" (H. H. Wilson). The doctrines of Kabir are taught, mostly
-in the form of dialogues, in numerous Hindi works, composed by his
+in the form of [[Dialogue|dialogues]], in numerous Hindi works, composed by his
 disciples and adherents, who, however, usually profess to give the
 teacher's own words.
 
@@ -1224,7 +1224,7 @@ greater zeal from the latter part of the 15th century by one of his
 followers, Nanak Shah, the promulgator of the creed of the _Nanak
 Shahis_ or _Sikhs_--i.e. (Sanskr.) _sishya_, disciples, whose guru, or
 teacher, he called himself--a peaceful sect at first until, in
-consequence of Mahommedan persecution, a martial spirit was infused into
+consequence of Mahommedan persecution, a [[Martial|martial]] spirit was infused into
 it by the tenth, and last, guru, Govind Shah, changing it into a
 political organization. Whilst originally more akin in its principles to
 the Moslem faith, the sect seems latterly to have shown tendencies
@@ -1251,7 +1251,7 @@ with these gods their wives, as their _saktis_, or female energies, the
 sexual element is, as a rule, only just allowed sufficient scope to
 enhance the emotional character of the rites of worship. In some of the
 later Vaishnava creeds, on the other hand, this element is far from
-being kept within the bounds of moderation and decency. The favourite
+being kept within the [[Bounds|bounds]] of moderation and decency. The favourite
 object of adoration with adherents of these sects is Krishna with his
 mate--but not the devoted friend and counsellor of the Pandavas and
 deified hero of epic song, nor the ruler of Dvaraka and wedded lord of
@@ -1263,7 +1263,7 @@ mistress Radha or Radhika. This episode in the legendary life of Krishna
 has every appearance of being a later accretion. After barely a few
 allusions to it in the epics, it bursts forth full-blown in the
 Harivansa, the Vishnu-purana, the Narada-Pancharatra and the
-Bhagavata-purana, the tenth canto of which, dealing with the life of
+Bhagavata-purana, the tenth [[Canto|canto]] of which, dealing with the life of
 Krishna, has become, through vernacular versions, especially the Hindi
 _Prem-sagar_, or "ocean of love," a favourite romance all over India,
 and has doubtless helped largely to popularize the cult of Krishna.
@@ -1273,7 +1273,7 @@ scarcely deserving that designation--that she makes her appearance, viz.
 in the Brahma-vaivarta, in which Krishna's amours in Nanda's cow-station
 are dwelt upon in fulsome and wearisome detail; whilst the poet
 Jayadeva, in the 12th century, made her love for the gay and inconstant
-boy the theme of his beautiful, if highly voluptuous, lyrical drama,
+boy the theme of his beautiful, if highly voluptuous, lyrical [[Drama|drama]],
 _Gita-govinda_.
 
   The earliest of the sects which associate Radha with Krishna in their
@@ -1308,7 +1308,7 @@ _Gita-govinda_.
   by Vallabha (Ballabha) Acharya and Chaitanya. In the forms of worship
   favoured by votaries of these creeds the emotional and erotic elements
   are allowed yet freer scope than in those that preceded them; and, as
-  an effective auxiliary to these tendencies, the use of the vernacular
+  an effective [[Auxiliary|auxiliary]] to these tendencies, the use of the vernacular
   dialects in prayers and hymns of praise takes an important part in the
   religious service. The Vallabhacharis, or, as they are usually called,
   from the title of their spiritual heads, the Gokulastha Gosains, i.e.
@@ -1341,7 +1341,7 @@ _Gita-govinda_.
   other Sanskrit works highly esteemed by his followers. In this sect,
   children are solemnly admitted to full membership at the early age of
   four, and even two, years of age, when a rosary, or necklace, of 108
-  beads of basil (tulsi) wood is passed round their necks, and they are
+  [[Bead|beads]] of basil (tulsi) wood is passed round their necks, and they are
   taught the use of the octo-syllabic formula _Sri-Krishnah saranam
   mama_, "Holy Krishna is my refuge." Another special feature of this
   sect is that their spiritual heads, the Gosains, also called
@@ -1350,7 +1350,7 @@ _Gita-govinda_.
   themselves to be habitually regaled by their adherents with choice
   kinds of food; and being regarded as the living representatives of the
   "lord of the Gopis" himself, they claim and receive in their own
-  persons all acts of attachment and worship due to the deity, even, it
+  persons all acts of [[Attachment|attachment]] and worship due to the deity, even, it
   is alleged, to the extent of complete self-surrender. In the final
   judgment of the famous libel case of the Bombay Maharajas, before the
   Supreme Court of Bombay, in January 1862, these improprieties were
@@ -1365,7 +1365,7 @@ _Gita-govinda_.
   years of the 19th century, by Sahajananda, a Brahman of the Oudh
   country, who subsequently assumed the name of Svami Narayana. Having
   entered on his missionary labours at Ahmadabad, and afterwards removed
-  to Jetalpur, where he had a meeting with Bishop Heber, he subsequently
+  to Jetalpur, where he had a meeting with Bishop [[Heber]], he subsequently
   settled at the village of Wartal, to the north-west of Baroda, and
   erected a temple to Lakshmi-Narayana, which, with another at
   Ahmadabad, forms the two chief centres of the sect, each being
@@ -1375,7 +1375,7 @@ _Gita-govinda_.
   Gujarat. Chaitanya, the founder of the great Vaishnava sect of
   Bengal, was the son of a high-caste Brahman of Nadiya, the famous
   Bengal seat of Sanskrit learning, where he was born in 1485, two years
-  after the birth of Martin Luther, the German reformer. Having married
+  after the birth of [[Martin]] Luther, the German reformer. Having married
   in due time, and a second time after the death of his first wife, he
   lived as a "householder" (_grihastha_) till the age of 24, when he
   renounced his family ties and set out as a religious mendicant
@@ -1394,7 +1394,7 @@ _Gita-govinda_.
   singing-parties (_sankirtan_), theatricals--in short anything
   calculated to produce the desired impression--would prove welcome to
   him. His doctrine of Bhakti distinguishes five grades of devotional
-  feeling in the _Bhaktas_, or faithful adherents: viz. (_santi_) calm
+  feeling in the _Bhaktas_, or faithful adherents: viz. (_santi_) [[Calm|calm]]
   contemplation of the deity; (_dasya_) active servitude; (_sakhya_)
   friendship or personal regard; (_vatsalya_) tender affection as
   between parents and children; (_madhurya_) love or passionate
@@ -1403,7 +1403,7 @@ _Gita-govinda_.
   scale of the great Puri festival of the Ratha-yatra, or
   "car-procession," in the month of Ashadha, when, amidst multitudes of
   pilgrims, the image of Krishna, together with those of his brother
-  Balarama and his sister Subhadra, is drawn along, in a huge car, by
+  Balarama and his sister Subhadra, is drawn along, in a huge [[Car|car]], by
   the devotees. Just as this festival was, and continues to be, attended
   by people from all parts of India, without distinction of caste or
   sex, so also were all classes, even Mahommedans, admitted by Chaitanya
@@ -1434,7 +1434,7 @@ _Gita-govinda_.
   Hindu to pronounce upon the real extent of the evil. None but a Hindu
   can enter any of the larger temples, and none but a Hindu priest
   really knows the truth about their inner mysteries"; whilst the
-  well-known native scholar Babu Rajendralal Mitra points out
+  well-known native scholar [[Babu]] Rajendralal Mitra points out
   (_Antiquities of Orissa_, i. 111) that "such as they are, these
   sculptures date from centuries before the birth of Chaitanya, and
   cannot, therefore, be attributed to his doctrines or to his followers.
@@ -1501,7 +1501,7 @@ questions asked by his consort Parvati, unfolds the mysteries of this
 occult creed.
 
   The principal seat of Sakta worship is the north-eastern part of
-  India--Bengal, Assam and Behar. The great majority of its adherents
+  India--Bengal, [[Assam]] and Behar. The great majority of its adherents
   profess to follow the right-hand practice; and apart from the implied
   purport and the emblems of the cult, their mode of adoration does not
   seem to offer any very objectionable features. And even amongst the
@@ -1524,7 +1524,7 @@ The divine object of the adoration of the Saktas, then, is Siva's
 wife--the _Devi_ (goddess), _Mahadevi_ (great goddess), or _Jagan-mata_
 (mother of the world)--in one or other of her numerous forms, benign or
 terrible. The forms in which she is worshipped in Bengal are of the
-latter category, viz. _Durga_, "the unapproachable," and _Kali_, "the
+latter [[Category|category]], viz. _[[Durga]]_, "the unapproachable," and _Kali_, "the
 black one," or, as some take it, the wife of _Kala_, "time," or death
 the great dissolver, viz. Siva. In honour of the former, the
 _Durga-puja_ is celebrated during ten days at the time of the autumnal
@@ -1536,14 +1536,14 @@ commonly called Dasara in western India. _Kali_, on the other hand, the
 most terrible of the goddess's forms, has a special service performed to
 her, at the _Kali-puja_, during the darkest night of the succeeding
 month; when she is represented as a naked black woman, four-armed,
-wearing a garland of heads of giants slain by her, and a string of
-skulls round her neck, dancing on the breast of her husband (Mahakala),
+wearing a garland of heads of [[Giant|giants]] slain by her, and a string of
+skulls round her neck, dancing on the [[Breast|breast]] of her husband (Mahakala),
 with gaping mouth and protruding tongue; and when she has to be
-propitiated by the slaughter of goats, sheep and buffaloes. On other
+propitiated by the slaughter of goats, sheep and [[Buffalo|buffaloes]]. On other
 occasions also Vamacharis commonly offer animal sacrifices, usually one
 or more kids; the head of the victim, which has to be severed by a
 single stroke, being always placed in front of the image of the goddess
-as a blood-offering (_bali_), with an earthen lamp fed with ghee burning
+as a blood-offering (_[[Bali|bali]]_), with an earthen lamp fed with ghee burning
 above it, whilst the flesh is cooked and served to the guests attending
 the ceremony, except that of buffaloes, which is given to the low-caste
 musicians who perform during the service. Even some adherents of this
@@ -1599,7 +1599,7 @@ consonant with godliness and divine perfection than the pranks of this
 juvenile god; and if poets and thinkers try to explain them away by dint
 of allegorical interpretation, the plain man will not for all their
 refinements take these amusing adventures any the less _au pied de la
-lettre_. No fault, in this respect, can assuredly be found with the
+lettre_. No [[Fault|fault]], in this respect, can assuredly be found with the
 legendary Rama, a very paragon of knightly honour and virtue, even as
 his consort Sita is the very model of a noble and faithful wife; and yet
 this cult has perhaps retained even more of the character of mere
@@ -1608,13 +1608,13 @@ doctrine of _karman_ (deed) or _karmavipaka_ ("the maturing of deeds")
 man himself--either in his present, or some future, existence--enjoys
 the fruit of, or has to atone for, his former good and bad actions,
 there could hardly be room in Hindu pantheism for a belief in the
-remission of sin by divine grace or vicarious substitution. And
+remission of sin by divine [[Grace|grace]] or vicarious substitution. And
 accordingly the "descents" or incarnations of the deity have for their
 object, not so much the spiritual regeneration of man as the deliverance
 of the world from some material calamity threatening to overwhelm it.
 The generally recognized principal Avatars do not, however, by any means
 constitute the only occasions of a direct intercession of the deity in
-worldly affairs, but--in the same way as to this day the eclipses of the
+worldly affairs, but--in the same way as to this day the [[Eclipse|eclipses]] of the
 sun and moon are ascribed by the ordinary Hindu to these luminaries
 being temporarily swallowed by the dragon _Rahu_ (or _Graha_, "the
 seizer")--so any uncommon occurrence would be apt to be set down as a
@@ -1632,15 +1632,15 @@ _Pitris_ ("fathers") or deceased ancestors, as entering largely into the
 everyday life and family relations of the Hindus. At stated intervals to
 offer reverential homage and oblations of food to the forefathers up to
 the third degree is one of the most sacred duties the devout Hindu has
-to discharge. The periodical performance of the commemorative rite of
+to [[Discharge|discharge]]. The periodical performance of the commemorative rite of
 obsequies called _Sraddha_--i.e. an oblation "made in faith" (_sraddha_,
 Lat. _credo_)--is the duty and privilege of the eldest son of the
 deceased, or, failing him, of the nearest relative who thereby
 establishes his right as next of kin in respect of inheritance; and
 those other relatives who have the right to take part in the ceremony
-are called _sapinda_, i.e. sharing in the _pindas_ (or balls of cooked
+are called _sapinda_, i.e. sharing in the _pindas_ (or [[Ball|balls]] of cooked
 rice, constituting along with libations of water the usual offering to
-the Manes)--such relationship being held a bar to intermarriage. The
+the [[Manes]])--such relationship being held a bar to intermarriage. The
 first _Sraddha_ takes place as soon as possible after the _antyeshti_
 ("final offering") or funeral ceremony proper, usually spread over ten
 days; being afterwards repeated once a month for a year, and
@@ -1655,7 +1655,7 @@ Fathers by the possibility of the living head of the family being
 afflicted with failure of offspring; this dire prospect compelling them
 to use but sparingly their little store of provisions, in case the
 supply should shortly cease altogether. At the same time one also meets
-with frank avowals of a superstitious fear lest any irregularity in the
+with [[Frank|frank]] avowals of a superstitious fear lest any irregularity in the
 performance of the obsequial rites should cause the Fathers to haunt
 their old home and trouble the peace of their undutiful descendant, or
 even prematurely draw him after them to the Pitri-loka or world of the
@@ -1671,7 +1671,7 @@ meet), Mathura, and especially Gaya and Kasi (Benares). But indeed the
 _tirtha-yatra_, or pilgrimage to holy bathing-places, is in itself
 considered an act of piety conferring religious merit in proportion to
 the time and trouble expended upon it. The number of such places is
-legion and is constantly increasing. The banks of the great rivers such
+[[Legion|legion]] and is constantly increasing. The banks of the great rivers such
 as the Ganga (Ganges), the Yamuna (Jumna), the Narbada, the Krishna
 (Kistna), are studded with them, and the water of these rivers is
 supposed to be imbued with the essence of sanctity capable of cleansing
@@ -1727,11 +1727,11 @@ the surest way of securing for him salvation and eternal bliss.
   1887); J. C. Oman, _Indian Life, Religious and Social_ (London, 1879);
   _The Mystics, Ascetics and Saints of India_ (London, 1903); _The
   Brahmans, Theists and Muslims of India_ (London, 1907); S. C. Bose,
-  _The Hindus as they are_ (2nd ed., Calcutta, 1883); J. Robson,
+  _The Hindus as they are_ (2nd ed., [[Calcutta]], 1883); J. Robson,
   _Hinduism and Christianity_ (Edinburgh and London, 3rd ed., 1905); J.
   Murray Mitchell, _Hinduism Past and Present_ (2nd ed., London, 1897);
   Jogendra Nath Bhattacharya, _Hindu Castes and Sects_ (Calcutta, 1896);
-  A. Barth, _The Religions of India_ (London, 1882); E. W. Hopkins, _The
+  A. [[Barth]], _The Religions of India_ (London, 1882); E. W. [[Hopkins]], _The
   Religions of India_ (London, 1896).     (J. E.)
 
 
@@ -1739,7 +1739,7 @@ FOOTNOTES:
 
   [1] "It is, perhaps, by surveying India that we at this day can best
     represent to ourselves and appreciate the vast external reform worked
-    upon the heathen world by Christianity, as it was organized and
+    upon the [[Heathen|heathen]] world by Christianity, as it was organized and
     executed throughout Europe by the combined authority of the Holy
     Roman Empire and the Church Apostolic." Sir Alfred C. Lyall, _Asiatic
     Studies_, i. 2.
@@ -1750,7 +1750,7 @@ FOOTNOTES:
   [3] "The effect of caste is to give all Hindu society a religious
     basis." Sir A. C. Lyall, _Brahmanism_.
 
-  [4] Thus, in Berar, "there is a strong non-Aryan leaven in the dregs
+  [4] Thus, in [[Berar]], "there is a strong non-Aryan [[Leaven|leaven]] in the dregs
     of the agricultural class, derived from the primitive races which
     have gradually melted down into settled life, and thus become fused
     with the general community, while these same races are still distinct
@@ -1765,7 +1765,7 @@ FOOTNOTES:
   [6] As in the case of Siva's traditional white complexion, it may not
     be without significance, from a racial point of view, that Vishnu,
     Rama and Krishna have various darker shades of colour attributed to
-    them, viz. blue, hyacinthine, and dark azure or dark brown
+    them, viz. blue, hyacinthine, and dark [[Azure|azure]] or dark brown
     respectively. The names of the two heroes meaning simply "black" or
     "dark," the blue tint may originally have belonged to Vishnu, who is
     also called _pitavasas_, dressed in yellow garment, i.e. the colours

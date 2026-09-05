@@ -8,7 +8,7 @@ tags: [mountains-theory, logic]
 # Candolle
 
 CANDOLLE, AUGUSTIN PYRAME DE (1778-1841), Swiss botanist, was born at
-Geneva on the 4th of February 1778. He was descended from one of the
+[[Geneva]] on the 4th of February 1778. He was descended from one of the
 ancient families of Provence, whence his ancestors had been expatriated
 for their religion in the middle of the 16th century. Though a weakly
 boy he showed great aptitude for study, and distinguished himself at
@@ -23,7 +23,7 @@ Cuvier, for whom he acted as deputy at the College de France in 1802,
 and to J.B. Lamarck, who afterwards confided to him the publication of
 the third edition of the _Flore francaise_ (1803-1815). The _Principes
 elementaires de botanique_, printed as the introduction to this work,
-contained the first exposition of his principle of classification
+contained the first exposition of his principle of [[Classification|classification]]
 according to the natural as opposed to the Linnean or artificial method.
 In 1804 he was granted the degree of doctor of medicine by the medical
 faculty of Paris, and published his _Essai sur les proprietes medicales

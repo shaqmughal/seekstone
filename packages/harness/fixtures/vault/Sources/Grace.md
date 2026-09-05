@@ -3,7 +3,7 @@
 GRACE, WILLIAM GILBERT (1848-   ), English cricketer, was born at
 Downend, Gloucestershire, on the 18th of July 1848. He found himself in
 an atmosphere charged with cricket, his father (Henry Mills Grace) and
-his uncle (Alfred Pocock) being as enthusiastic over the game as his
+his uncle (Alfred Pocock) being as enthusiastic over the [[Game|game]] as his
 elder brothers, Henry, Alfred and Edward Mills; indeed, in E. M. Grace
 the family name first became famous. A younger brother, George
 Frederick, also added to the cricket reputation of the family. "W. G."
@@ -14,29 +14,29 @@ splendid physique as well as with powers of self-restraint and
 determination. At the acme of his career he stood full 6 ft. 2 in.,
 being powerfully proportioned, loose yet strong of limb. A non-smoker,
 and very moderate in all matters, he kept himself in condition all the
-year round, shooting, hunting or running with the beagles as soon as the
+year round, shooting, [[Hunting|hunting]] or running with the beagles as soon as the
 cricket season was over. He was also a fine runner, 440 yds. over 20
-hurdles being his best distance; and it may be quoted as proof of his
+[[Hurdle|hurdles]] being his best distance; and it may be quoted as proof of his
 stamina that on the 30th of July 1866 he scored 224 not out for England
 _v._ Surrey, and two days later won a race in the National and Olympian
-Association meeting at the Crystal Palace. The title of "champion" was
+Association meeting at the [[Crystal Palace]]. The title of "[[Champion|champion]]" was
 well earned by one who for thirty-six years (1865-1900 inclusive) was
 actively engaged in first-class cricket. In each of these years he was
 invited to represent the Gentlemen in their matches against the Players,
 and, when an Australian eleven visited England, to play for the mother
 country. As late as 1899 he played in the first of the five
-international contests; in 1900 he played against the players at the
+[[International|international]] contests; in 1900 he played against the players at the
 Oval, scoring 58 and 3. At fifty-three he scored nearly 1300 runs in
 first-class cricket, made 100 runs and over on three different occasions
 and could claim an average of 42 runs. Moreover, his greatest triumphs
 were achieved when only the very best cricket grounds received serious
-attention; when, as some consider, bowling was maintained at a higher
-standard and when all hits had to be run out. He, with his two brothers,
+attention; when, as some consider, [[Bowling|bowling]] was maintained at a higher
+standard and when all [[Hit|hits]] had to be run out. He, with his two brothers,
 E. M. and G. F., assisted by some fine amateurs, made Gloucestershire in
 one season a first-class county; and it was he who first enabled the
 amateurs of England to meet the paid players on equal terms and to beat
 them. There was hardly a "record" connected with the game which did not
-stand to his credit. Grace was one of the finest fieldsmen in England,
+stand to his [[Credit|credit]]. Grace was one of the finest fieldsmen in England,
 in his earlier days generally taking long-leg and cover-point, in later
 times generally standing point. He was, at his best, a fine thrower,
 fast runner and safe "catch." As a bowler he was long in the first
@@ -50,13 +50,13 @@ L1500, being presented to him in the form of a clock and a cheque at
 Lord's ground by Lord Charles Russell on the 22nd of July 1879; the
 second, collected by the M.C.C., the county of Gloucestershire, the
 _Daily Telegraph_ and the _Sportsman_, amounted to about L10,000, and
-was presented to him in 1896. He visited Australia in 1873-1874
+was presented to him in 1896. He visited [[Australia]] in 1873-1874
 (captain), and in 1891-1892 with Lord Sheffield's Eleven (captain); the
 United States and Canada in 1872, with R. A. Fitzgerald's team.
 
   Dr Grace played his first great match in 1863, when, being only
   fifteen years of age, he scored 32 against the All-England Eleven and
-  the bowling of Jackson, Tarrant and Tinley; but the scores which first
+  the bowling of [[Jackson]], Tarrant and Tinley; but the scores which first
   made his name prominent were made in 1864, viz. 170 and 56 not out for
   the South Wales Club against the Gentlemen of Sussex. It was in 1865
   that he first took an active part in first-class cricket, being then 6
@@ -65,8 +65,8 @@ United States and Canada in 1872, with R. A. Fitzgerald's team.
   bowling powers, the best exposition of which was his aggregate of 13
   wickets for 84 runs for the Gentlemen of the South _v._ the Players of
   the South. His highest score was 400 not out, made in July 1876
-  against twenty-two of Grimsby; but on three occasions he was twice
-  dismissed without scoring in matches against odds, a fate that never
+  against twenty-two of [[Grimsby]]; but on three occasions he was twice
+  dismissed without scoring in matches against odds, a [[Fate|fate]] that never
   befell him in important cricket. In first-class matches his highest
   score was 344, made for the M.C.C. v. Kent at Canterbury, in August
   1876; two days later he made 177 for Gloucestershire _v._ Notts, and
@@ -75,7 +75,7 @@ United States and Canada in 1872, with R. A. Fitzgerald's team.
   strong bowling; thus in three consecutive innings Grace scored 839
   runs, and was only got out twice. His 344 was the third highest
   individual score made in a big match in England up to the end of 1901.
-  He also scored 301 for Gloucestershire _v._ Sussex at Bristol, in
+  He also scored 301 for Gloucestershire _v._ Sussex at [[Bristol]], in
   August 1896. He made over 200 runs on ten occasions, the most notable
   perhaps being in 1871, when he performed the feat twice, each time in
   benefit matches, and each time in the second innings, having been each
@@ -90,7 +90,7 @@ United States and Canada in 1872, with R. A. Fitzgerald's team.
   made over 100 in each of his "first appearances" at Oxford and
   Cambridge. Three times he made over 100 in each innings of the same
   match, viz. at Canterbury, in 1868, for South v. North of the Thames,
-  130 and 102 not out; at Clifton, in 1887, for Gloucestershire _v._
+  130 and 102 not out; at [[Clifton]], in 1887, for Gloucestershire _v._
   Kent, 101 and 103 not out; and at Clifton, in 1888, for
   Gloucestershire _v._ Yorkshire, 148 and 153. In 1869, playing at the
   Oval for the Gentlemen of the South _v._ the Players of the South,
@@ -105,7 +105,7 @@ United States and Canada in 1872, with R. A. Fitzgerald's team.
   highest aggregates were 2739 (1871), 2622 (1876), 2346 (1895), 2139
   (1873), 2135 (1896) and 2062 (1887). He scored three successive
   centuries in first-class cricket in 1871, 1872, 1873, 1874 and 1876.
-  Playing against Kent at Gravesend in 1895, he was batting, bowling or
+  Playing against Kent at [[Gravesend]] in 1895, he was batting, bowling or
   fielding during the whole time the game was in progress, his scores
   being 257 and 73 not out. He scored over 1000 runs and took over 100
   wickets in seven different seasons, viz. in 1874, 1665 runs and 129

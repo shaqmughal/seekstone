@@ -8,11 +8,11 @@ of various shapes and baked in such a way as to be crisp and short. In
 the United States of America biscuits of this kind are usually called
 crackers, but the word biscuit is used there, as also in the north of
 England, for vesiculated bread baked in little flat loaves or cakes.
-Earthenware, porcelain, &c., which has undergone its first baking and is
+Earthenware, porcelain, &c., which has undergone its first [[Baking|baking]] and is
 ready to be glazed is also known as biscuit or bisque.
 
 The raw material chiefly used in biscuit manufacture is flour, but many
-other substances, such as butter, sugar, salt, various flavouring
+other substances, such as [[Butter|butter]], sugar, salt, various flavouring
 essences, &c., are also employed. The flour used by the biscuit-maker
 differs somewhat from that preferred by the bread-baker. In the main the
 bread-baker wants flour of some strength, that is to say, flour capable
@@ -37,7 +37,7 @@ dough is delivered on a flat table, or it may go direct to a pair of
 rolls. These consist of iron rollers with a reversing motion, between
 which the dough is rolled backwards and forwards into sheets of uniform
 thickness. The next stage is the feeding of portions of this slab of
-dough to a cutting and panning machine. In details this apparatus
+dough to a cutting and panning [[Machine|machine]]. In details this apparatus
 differs as supplied by different makers, but the broad principle is the
 same in every case. The dough, after first passing through a pair of
 gauging rollers, which still further thin out the sheet and are capable
@@ -84,7 +84,7 @@ are used. Piping and sugar decoration is still necessarily done by hand,
 and the glaze on some fancy biscuits is imparted by spraying the moulded
 biscuit with very fine jets of fresh milk. Cracknels are made from a
 very stiff dough, and when cut out are thrown into coppers of boiling
-water. They speedily float to the top, remaining apart and not forming
+water. They speedily [[Float|float]] to the top, remaining apart and not forming
 into groups. From these coppers they are taken out in trays pierced so
 as to drain off the water. Then they go into vats of cold water, from
 which they are again removed, and after being strained of their moisture

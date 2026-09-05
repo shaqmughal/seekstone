@@ -1,6 +1,6 @@
 # Kilkenny
 
-KILKENNY, a county of Ireland, in the province of Leinster, bounded N.
+KILKENNY, a county of Ireland, in the province of [[Leinster]], bounded N.
 by Queen's County, E. by Carlow and Wexford, S. by Waterford, and W. by
 Waterford and Tipperary. The area is 511,775 acres, or about 800 sq. m.
 The greater part of Kilkenny forms the south-eastern extremity of the
@@ -26,8 +26,8 @@ portions of the bed are in the centre of the basin at Castlecomer.
 Hematitic iron of a rich quality is found in the Cambro-Silurian rocks
 at several places; and tradition asserts that silver shields were made
 about 850 B.C. at Argetros or Silverwood on the Nore. Manganese is
-obtained in some of the limestone quarries, and also near the Barrow.
-Marl is abundant in various districts. Pipeclay and potter's clay are
+obtained in some of the [[Limestone|limestone]] quarries, and also near the Barrow.
+[[Marl]] is abundant in various districts. Pipeclay and potter's clay are
 found, and also yellow ochre. Copper occurs near Knocktopher.
 
   The high synclinal coal-field forms the most important feature of the
@@ -39,12 +39,12 @@ found, and also yellow ochre. Copper occurs near Knocktopher.
   plant-remains, at Kiltorcan near Ballyhale. The Leinster granite
   appears mainly as inliers in the Silurian of the south-east. The
   Carboniferous sandstones furnish the hard pavement-slabs sold as
-  "Carlow flags." The black limestone with white shells in it at
+  "Carlow [[Flag|flags]]." The black limestone with white shells in it at
   Kilkenny is quarried as an ornamental marble. Good slates are quarried
   at Kilmoganny, in the Silurian inlier on the Slievenaman range.
 
 On account of the slope of the country, and the nature of the soil, the
-surface occupied by bog or wet land is very small, and the air is dry
+surface occupied by [[Bog|bog]] or wet land is very small, and the air is dry
 and healthy. So temperate is it in winter that the myrtle and arbutus
 grow in the open air. There is less rain than at Dublin, and vegetation
 is earlier than in the adjacent counties. Along the banks of the Suir,
@@ -79,7 +79,7 @@ Graigue. The county comprises 10 baronies and contains 134 civil
 parishes. The county includes the parliamentary borough of Kilkenny, and
 is divided into north and south parliamentary divisions, each returning
 one member. Kilkenny returned 16 members to the Irish parliament, two
-representing the county. Assizes are held at Kilkenny, and quarter
+representing the county. [[Assize|Assizes]] are held at Kilkenny, and quarter
 sessions at Kilkenny, Pilltown, Urlingford, Castlecomer, Callan, Grace's
 Old Castle and Thomastown. The county is in the Protestant diocese of
 Ossory and the Roman Catholic dioceses of Ossory and Kildare and

@@ -11,14 +11,14 @@ _canonica virgo_), a female beneficiary of a religious college. In the
 8th century chapters of canons were instituted in the Frankish empire,
 and in imitation of these certain women took common vows of obedience
 and chastity, though not of poverty. Like nuns they had common table and
-dormitory, and recited the breviary, but generally the rule was not so
+[[Dormitory|dormitory]], and recited the [[Breviary|breviary]], but generally the rule was not so
 strict as in the case of nuns. The canonesses often taught girls, and
 were also employed in embroidering ecclesiastical vestments and
 transcribing liturgical books. A distinction was drawn between regular
 and secular canonesses, the latter being of noble family and not
 practising any austerity. Some of their abbesses were notable feudal
 princesses. In Germany several foundations of this kind (e.g.
-Gandersheim, Herford and Quedlinburg), which were practically secular
+Gandersheim, [[Herford]] and Quedlinburg), which were practically secular
 institutions before the Reformation, adopted the Protestant faith, and
 still exist, requiring of their members the simple conditions of
 celibacy and obedience to their superior during membership. These

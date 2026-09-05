@@ -16,7 +16,7 @@ comic opera (1883), _Karel Skreta_ (1883), _Dite Tabera_, a prize opera
 princezna, Cernohorci_, a prize opera, and the two operas _Carovny Kvet_
 and _Gina_. His ballad _Svanda dudak_ acquired much popularity; he
 published a mass in D minor for male voices and another mass for a mixed
-choir; two songs to _Ave Maria_; a violin sonata and a string quartet in
+[[Choir|choir]]; two songs to _Ave Maria_; a violin sonata and a string quartet in
 F; and a quantity of songs and choruses, many of which have come to be
 regarded as national possessions of Bohemia. Bendl died on the 20th of
 September 1897 at Prague.

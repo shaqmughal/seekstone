@@ -1,7 +1,7 @@
 # Eschenburg
 
 ESCHENBURG, JOHANN JOACHIM (1743-1820), German critic and literary
-historian, was born at Hamburg on the 7th of December 1743. After
+historian, was born at [[Hamburg]] on the 7th of December 1743. After
 receiving his early education in his native town, he studied at Leipzig
 and Gottingen. In 1767 he was appointed tutor, and subsequently
 professor, at the Collegium Carolinum in Brunswick. The title of
@@ -16,7 +16,7 @@ and R. Hurd; and Germany owes also to him the first complete translation
 incomplete translation published by Wieland between 1762 and 1766.
 Eschenburg died at Brunswick on the 29th of February 1820.
 
-Besides editing, with memoirs, the works of Hagedorn, Zacharia and other
+Besides editing, with memoirs, the works of [[Hagedorn]], Zacharia and other
 German poets, he was the author of a _Handbuch der klassischen
 Literatur_ (1783); _Entwurf einer Theorie und Literatur der schonen
 Wissenschaften_ (1783); _Beispielsammlung zur Theorie und Literatur der
@@ -24,7 +24,7 @@ schonen Wissenschaften_ (8 vols., 1788-1795); _Lehrbuch der
 Wissenschaftskunde_ (1792); and _Denkmaler altdeutscher Dichtkunst_
 (1799). Most of these works have passed through several editions.
 Eschenburg was also a poet of some pretensions, and some of his
-religious hymns, e.g. _Ich will dich noch im Tod erheben_ and _Dir trau'
+religious hymns, e.g. _Ich will dich noch im Tod erheben_ and _[[Dir]] trau'
 ich, Gott, und wanke nicht_, are contained in many hymnals to this day.
 
 ## See also

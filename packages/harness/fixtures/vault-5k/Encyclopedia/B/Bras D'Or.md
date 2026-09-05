@@ -16,7 +16,7 @@ connected with the Atlantic by the Great and Little Bras d'Or channels,
 which are divided by Boulardeire Island. One channel is 25 m. long and
 from 1/4 m. to 3 m. broad, but is of little depth, the other (used by
 shipping) is 22 m. long, 1 to 1-1/2 m. wide, and has a depth of 60
-fathoms. The gulf or lake is itself divided into two basins, the inner
+[[Fathom|fathoms]]. The gulf or lake is itself divided into two basins, the inner
 waters being known as the Great Bras d'Or Lake. The waters are generally
 from 12 to 60 fathoms deep, but in the outer basin (known as the Little
 Bras d'Or Lake) are soundings said to reach nearly 700 ft. The shores of

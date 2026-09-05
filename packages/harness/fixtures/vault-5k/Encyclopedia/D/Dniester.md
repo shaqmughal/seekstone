@@ -2,8 +2,8 @@
 
 DNIESTER (_Tyras_ and _Danaster_ or _Danastris_ of classical authors,
 _Nistrul_ of the Rumanians, and _Turla_ of the Turks), a river of
-south-eastern Europe belonging to the basin of the Black Sea. It rises
-on the northern slope of the Carpathian mountains in Austrian Galicia,
+south-eastern Europe belonging to the basin of the [[Black Sea]]. It rises
+on the northern slope of the Carpathian mountains in Austrian [[Galicia]],
 and belongs for the first 350 m. of its course to Austrian, for the
 remaining 515 m. to Russian, territory. It drains an area of 29,670 sq.
 m., of which 16,500 sq. m. belong to Russia. It is excessively

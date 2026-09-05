@@ -2,8 +2,8 @@
 
 BARACOA, a seaport city of N.E. Cuba, in Santiago province. Pop. (1907)
 5633. The town lies under high hills on a small circular harbour accessible
-to small craft. The country round about is extremely rugged. The hill
-called the "Anvil of Baracoa" (about 3000 ft.) is remarkable for its
+to small [[Craft|craft]]. The country round about is extremely rugged. The hill
+called the "[[Anvil]] of Baracoa" (about 3000 ft.) is remarkable for its
 extremely regular formation. It completely dominates the city's background,
 and is a well-known sailors' landmark. The town is the trading centre of a
 large plantation region behind it and is the centre of the banana and
@@ -19,7 +19,7 @@ them, gave them welcome harbourage, and based a less precarious existence
 upon continuous illicit trade. Until the middle of the 18th century Baracoa
 was almost without connexion with Havana and Santiago. In the wars of the
 end of the century it was a place of deposit for French and Spanish
-corsairs. At this time, too, about 100 fugitive immigrant families from
+[[Corsair|corsairs]]. At this time, too, about 100 fugitive immigrant families from
 Santo Domingo greatly augmented its industrial importance. In 1807 an
 unsuccessful attack was made upon the city by an English force. In 1826 the
 port was opened to foreign commerce.

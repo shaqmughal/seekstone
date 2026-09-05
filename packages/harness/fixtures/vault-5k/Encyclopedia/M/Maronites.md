@@ -8,11 +8,11 @@ type: note
 # Maronites
 
 MARONITES (Arab. _Mawarina_), a Christian people of the Ottoman Empire
-in communion with the Papal Church, but forming a distinct denomination.
+in communion with the Papal Church, but forming a distinct [[Denomination|denomination]].
 The original seat and present home of the nucleus of the Maronites is Mt
 Lebanon; but they are also to be found in considerable force in
 Anti-Lebanon and Hermon, and more sporadically in and near Antioch, in
-Galilee, and on the Syrian coast. Colonies exist in Cyprus (with a large
+Galilee, and on the Syrian coast. Colonies exist in [[Cyprus]] (with a large
 convent near Cape Kormakiti), in Alexandria, and in the United States of
 America. These began to be formed during the troubles of 1860. The
 Lebanon community numbers about 300,000, and the total of the whole
@@ -35,7 +35,7 @@ against the Moslems. They were then called Mardaites or rebels, and were
 mainly Monothelite in the 12th century, and remained largely so even a
 century later. The last two facts are attested by William of Tyre and
 Barhebraeus. It seems most probable that the Lebanon offered refuge to
-Antiochene Monothelites flying from the ban of the Constantinopolitan
+Antiochene Monothelites flying from the [[Ban|ban]] of the Constantinopolitan
 Council of A.D. 680; that these converted part of the old mountain folk,
 who already held some kind of Incarnationist creed; and that their first
 patriarch and his successors, for about 500 years at any rate, were
@@ -70,7 +70,7 @@ Church government and discipline. The patriarch receives confirmation
 from Rome, and the political representation of the Maronites at
 Constantinople is in the hands of the vicar apostolic. Rome has
 incorporated most of the Maronite saints in her calendar, while refusing
-(despite their apologists) to canonize either of the reputed eponymous
+(despite their apologists) to canonize either of the reputed [[Eponymous|eponymous]]
 founders of Maronism.
 
 While retaining many local usages, the Maronite Church does not differ
@@ -85,8 +85,8 @@ Ishaya, the Halebiyeh (Aleppine) and the Beladiyeh or Libnaniyeh
 (local). The distinction of the last named dates only from the early
 18th century. The lower clergy are educated at the theological college
 of Ain Warka. There are five archbishoprics and five bishoprics under
-the patriarch, who alone can consecrate. The sees are Aleppo, Baalbek,
-Tripoli, Ehden, Damascus, Beirut, Tyre, Cyprus and Jebeil (held by the
+the patriarch, who alone can consecrate. The sees are Aleppo, [[Baalbek]],
+Tripoli, Ehden, [[Damascus]], Beirut, Tyre, Cyprus and Jebeil (held by the
 patriarch himself _ex officio_). There are also four prelates _in
 partibus_.
 
@@ -123,7 +123,7 @@ partibus_.
 
 
 MAROONS. A _nègre marron_ is defined by Littré as a fugitive slave who
-betakes himself to the woods; a similar definition of _cimarron_
+betakes himself to the woods; a similar [[Definition|definition]] of _cimarron_
 (apparently from _cima_, a mountain top) is given in the _Dictionary_ of
 the Spanish Academy. The old English form of the word is _symaron_ (see
 Hawkins's _Voyage_, § 68). The term "Maroons" is applied almost as a
@@ -139,11 +139,11 @@ county of Maros-Torda, 79 m. E. of Kolozsvár by rail. Pop. (1900),
 19,522. It is situated on the left bank of the Maros, and is a
 well-built town; once the capital of the territory of the Szeklers. On a
 hill dominating the town stands the old fortress, which contains a
-beautiful church in Gothic style built about 1446, where in 1571 the
+beautiful church in [[Gothic]] style built about 1446, where in 1571 the
 diet was held which proclaimed the equality of the Unitarian Church with
 the Roman Catholic, the Lutheran, and Calvinistic Churches. The Teleki
 palace contains the Teleki collections, which include a library of
-70,000 volumes and several valuable manuscripts (e.g. the Teleki Codex),
+70,000 volumes and several valuable [[Manuscript|manuscripts]] (e.g. the Teleki Codex),
 a collection of old Hungarian poems, and a manuscript of Tacitus,
 besides a collection of antiquities and another of minerals.
 Maros-Vásárhely has also an interesting Szekler industrial museum. The

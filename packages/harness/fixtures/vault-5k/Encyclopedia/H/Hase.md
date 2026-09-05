@@ -19,12 +19,12 @@ religious significance of various dogmas is discussed" (Otto
 Pfleiderer). More popular in style is his _Gnosis oder prot.-evang.
 Glaubenslehre_ (3 vols., 1827-1829; 2nd ed. in 2 vols., 1869-1870). But
 his reputation rests chiefly on his treatment of Church history in his
-_Kirchengeschichte, Lehrbuch zunachst fur akademische Vorlesungen_
+_Kirchengeschichte, Lehrbuch zunachst [[Fur|fur]] akademische Vorlesungen_
 (1834, 12th ed., 1900).
 
-  His biographical studies, Franz von Assisi (1856; 2nd ed., 1892),
+  His biographical studies, [[Franz]] von [[Assisi]] (1856; 2nd ed., 1892),
   _Katerina von Siena_ (1864; 2nd ed., 1892), _Neue Propheten_ (Die
-  Jungfrau von Orleans, Savonarola, Thomas Munzer) are judicious and
+  [[Jungfrau]] von Orleans, Savonarola, Thomas Munzer) are judicious and
   sympathetic. Other works are: _Hutterus redivivus oder Dogmatik der
   evang.-luth. Kirche_ (1827; 12th ed., 1883), in which he sought to
   present the teaching of the Protestant church in such a way as Hutter

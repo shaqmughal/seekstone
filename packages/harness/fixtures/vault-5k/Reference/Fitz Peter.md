@@ -20,8 +20,8 @@ over Walden priory Fitz Peter came into conflict with Longchamp, and
 revenged himself by taking an active part in the baronial agitation
 through which the regent was expelled from his office. The king,
 however, forgave Fitz Peter for his share in these proceedings; and,
-though refusing to give him formal investiture of the Essex earldom,
-appointed him justiciar in succession to Hubert Walter (1198). In this
+though refusing to give him formal [[Investiture|investiture]] of the Essex earldom,
+appointed him justiciar in succession to [[Hubert]] Walter (1198). In this
 capacity Fitz Peter continued his predecessor's policy of encouraging
 foreign trade and the development of the towns; many of the latter
 received, during his administration, charters of self-government. He was

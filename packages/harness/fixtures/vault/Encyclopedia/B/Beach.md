@@ -1,6 +1,6 @@
 # Beach
 
-BEACH, a word of unknown origin; probably an old dialect word meaning
+BEACH, a word of unknown origin; probably an old [[Dialect|dialect]] word meaning
 shingle, hence, by transference, the place covered by shingle. Beach
 sometimes denotes the material thrown up by the waves, sometimes the
 long resulting ridge, but more frequently the area between high and low
@@ -18,7 +18,7 @@ the shore. The currents sweep constantly eastward up channel, and the
 rough flint shingle is rolled along by wave action toward the Ventnor
 rampart, and ground finer and finer until it arrives as a very fine
 flinty gravel at Ventnor pier. The sweep of Sandown Bay follows, where
-the cliffs are composed for the most part of greensand, and here the
+the cliffs are composed for the most part of [[Greensand|greensand]], and here the
 beach at low water is sandy and smooth. The eastern end of the island is
 again composed of chalk with flints, and here the beach material as at
 the western end consists of very coarse flint shingle. In this, as in
@@ -44,7 +44,7 @@ beaches under the sand and mud of the now deeper water, or it retreats
 when the sea is withdrawn from the land or the land rises locally,
 leaving the old shingle stranded in a "raised beach," but its formation
 is in all cases due to the form and structure of the shore, the sapping
-action of the waves, the backward drag of the undertow plastering the
+action of the waves, the backward [[Drag|drag]] of the undertow plastering the
 shore with material, which is in turn bombarded by waves and swept by
 currents that cover the finer debris of the undertow with a layer of
 coarse fragments that are re-sorted by the daily action of currents and

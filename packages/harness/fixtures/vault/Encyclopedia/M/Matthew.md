@@ -6,7 +6,7 @@ topic: cartography
 
 # Matthew
 
-MATTHEW, GOSPEL OF ST, the first of the four canonical Gospels of the
+MATTHEW, [[Gospel|GOSPEL]] OF ST, the first of the four canonical Gospels of the
 Christian Church. The indications of the use of this Gospel in the two
 or three generations following the Apostolic Age (see GOSPEL) are more
 plentiful than of any of the others. Throughout the history of the
@@ -18,11 +18,11 @@ addition there has been from an early time the belief that it was the
 work of one of those publicans whose heart Jesus touched and of whose
 call to follow Him the three Synoptics contain an interesting account,
 but who is identified as Matthew (q.v.) only in this one (Matt. ix. 9-13
-= Mark ii. 13-17 = Luke v. 27-32).
+= Mark ii. 13-17 = [[Luke]] v. 27-32).
 
-1. _The Connexion of our Greek Gospel of Matthew with the Apostle whose
+1. _The Connexion of our Greek Gospel of Matthew with the [[Apostle]] whose
 name it bears._--The earliest reference to a writing by Matthew occurs
-in a fragment taken by Eusebius from the same work of Papias from which
+in a fragment taken by [[Eusebius]] from the same work of Papias from which
 he has given an account of the composition of a record by Mark (Euseb.
 _Hist. Eccl._ iii. 39; see MARK, GOSPEL OF ST). The statement about
 Matthew is much briefer and is harder to interpret. In spite of much
@@ -46,7 +46,7 @@ sayings than the composition of a work corresponding in form and
 character to our Gospel of Matthew.
 
 The next reference in Christian literature to a Gospel-record by Matthew
-is that of Irenaeus in his famous passage on the four Gospels (_Adv.
+is that of [[Irenaeus]] in his famous passage on the four Gospels (_Adv.
 haer._ iii. i. r). He says that it was written in Hebrew; but in all
 probability he regarded the Greek Gospel, which stood first in his, as
 it does in our, enumeration, as in the strict sense a translation of the
@@ -81,8 +81,8 @@ arrangement of the book itself is significant.
 
   (a) As to the general outline in the first half of the account of the
   Galilean ministry (iv. 23-xi. 30). Immediately after relating the call
-  of the first four disciples (iv. 18-22) the evangelist gives in iv. 23
-  a comprehensive summary of Christ's work in Galilee under its two
+  of the first four [[Disciple|disciples]] (iv. 18-22) the evangelist gives in iv. 23
+  a comprehensive summary of Christ's work in [[Galilee]] under its two
   chief aspects, teaching and healing. In the sequel both these are
   illustrated. First, he gives in the Sermon on the Mount (v.-vii.) a
   considerable body of teaching, of the kind required by the disciples
@@ -123,7 +123,7 @@ arrangement of the book itself is significant.
   his sources, he has combined other pieces, taken from other parts of
   the same source or from different sources, which seemed to him
   connected in subject, e.g. into the discourse spoken on a mountain,
-  when crowds from all parts were present, given in the Logian document,
+  when [[Crowd|crowds]] from all parts were present, given in the Logian document,
   he has introduced some pieces which, as we infer from Luke, stood
   separately in that document (cf. Matt. vi. 19-21 with Luke xii. 33,
   34; Matt. vi. 22, 23 with Luke xi. 34-36; Matt. vi. 24 with Luke xvi.
@@ -139,7 +139,7 @@ arrangement of the book itself is significant.
   attack (Luke xi. 14-16, 17-26, 29-32). These are some examples. He has
   in all in this manner constructed eight discourses or collections of
   sayings, into which the greater part of Christ's teaching is gathered:
-  (1) On the character of the heirs of the kingdom (v.-vii.); (2) The
+  (1) On the character of the [[Heir|heirs]] of the kingdom (v.-vii.); (2) The
   Mission address (x.); (3) Teaching suggested by the message of John
   the Baptist (xi.); (4) The reply to an accusation and a challenge
   (xii. 22-45); (5) The teaching by parables (xiii.); (6) On offences
@@ -158,7 +158,7 @@ arrangement of the book itself is significant.
   setting of this guard and their presence at the Resurrection, which at
   an earlier point arc peculiar to Matthew (xxvii. 62-66, xxviii. 4).
   And, further, this matter seems to belong to the same cycle of
-  tradition as the story of Pilate's wife and his throwing the guilt of
+  tradition as the story of Pilate's wife and his throwing the [[Guilt|guilt]] of
   the Crucifixion of Jesus upon the Jews, and the testimony borne by
   the Roman guard (as well as the centurion) who kept watch by the cross
   (xxvii. 15-26, 54), all which also are peculiar to this Gospel. It
@@ -172,7 +172,7 @@ arrangement of the book itself is significant.
   xxiv. 47, and by the present ending of Mark (xvi. 15), though neither
   of these mention Galilee as the place where it was given. The
   baptismal formula in Matt. xxviii. 19, is, however, peculiar, and in
-  view of its non-occurrence in the Acts and Epistles of the New
+  view of its non-occurrence in the Acts and [[Epistle|Epistles]] of the New
   Testament must be regarded as probably an addition in accordance with
   Church usage at the time the Gospel was written.
 
@@ -219,9 +219,9 @@ also specially concerned to show that prophecy is fulfilled in the life
 and work of Jesus, but the conception of this fulfilment which is
 presented to us is a large one; it is to be seen not merely in
 particular events or features of Christ's ministry, but in the whole new
-dispensation, new relations between God and men, and new rules of
+[[Dispensation|dispensation]], new relations between God and men, and new rules of
 conduct which Christ has introduced. The divine meaning of the work of
-Jesus is thus made apparent, while of the majesty and glory of His
+Jesus is thus made apparent, while of the [[Majesty|majesty]] and glory of His
 person a peculiarly strong impression is conveyed.
 
 Some illustrations in detail of these points are subjoined. Where there
@@ -231,12 +231,12 @@ in question.
 
   (a) _The Ministry of Jesus among the Jewish People as their promised
   Messiah, their rejection of Him, and the extension of the Gospel to
-  the Gentiles._ The mission to Israel: Matt. i. 21; iv. 23 (note in
+  the [[Gentile|Gentiles]]._ The mission to Israel: Matt. i. 21; iv. 23 (note in
   these passages the use of [Greek: ho laos], which here, as generally
   in Matthew, denotes the chosen nation), ix. 33, 35, xv. 31. For the
   rule limiting the work of Jesus while on earth see xv. 24 (and note
   [Greek: ixelthousa] in verse 22, which implies that Jesus had not
-  himself entered the heathen borders), and for a similar rule
+  himself entered the [[Heathen|heathen]] [[Borders|borders]]), and for a similar rule
   prescribed to the disciples, x. 5, 6 and 23.
 
   The rejection of Jesus by the people in Galilee, xi. 21; xiii. 13-15,
@@ -265,7 +265,7 @@ in question.
 
   (c) _The Teaching on the Kingdom of God._--Note the collection of
   parables "of the Kingdom" in xiii.; also the use of [Greek: hê
-  basileia] ("the Kingdom") without further definition as a term the
+  basileia] ("the Kingdom") without further [[Definition|definition]] as a term the
   reference of which could not be misunderstood, especially in the
   following phrases peculiar to this Gospel: [Greek: to euangelion tês
   basileias] ("the Gospel of the Kingdom") iv. 23, ix. 35, xxiv. 14; and
@@ -282,7 +282,7 @@ in question.
   the Old; the standard in mind is the law which "fulfilled" that
   previously given.
 
-  (e) _The Christian Ecclesia._--Chap. xvi. 18, xviii. 17.
+  (e) _The Christian [[Ecclesia]]._--Chap. xvi. 18, xviii. 17.
 
   (f) _The Messianic Dignity and Glory of Jesus._--The narrative in i.
   and ii. show the royalty of the new-born child. The title "Son of
@@ -319,7 +319,7 @@ Palestine, either personally or through the sources at his command, or
 both, his book was composed in Greek by the aid of Greek documents.
 
   See commentaries by Th. Zahn (1903) and W. C. Allen (in the series of
-  International Critical Commentaries, 1907); also books on the Four
+  [[International]] Critical Commentaries, 1907); also books on the Four
   Gospels or the Synoptic Gospels cited at the end of GOSPEL.
        (V. H. S.)
 

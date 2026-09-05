@@ -57,7 +57,7 @@ the sea. All volcanic action is now extinct.
   cure for old festering wounds, and for the bite of poisonous snakes.
 
 The name Lemnos is said by Hecataeus (ap. Steph. Byz.) to have been a
-title of Cybele among the Thracians, and the earliest inhabitants are
+title of [[Cybele]] among the Thracians, and the earliest inhabitants are
 said to have been a Thracian tribe, called by the Greeks Sinties, i.e.
 "the robbers." According to a famous legend the women were all deserted
 by their husbands, and in revenge murdered every man on the island. From
@@ -85,7 +85,7 @@ vicissitudes of its history in the 3rd century B.C. see Köhler in
 _Mittheil. Inst. Athen._ i. 261. The Romans declared it free in 197
 B.C., but gave it over in 166 to Athens, which retained nominal
 possession of it till the whole of Greece was made a Roman province. A
-colony of Attic cleruchs was established by Pericles, and many
+colony of [[Attic]] cleruchs was established by Pericles, and many
 inscriptions on the island relate to Athenians. After the division of
 the empire, Lemnos passed under the Byzantine emperors; it shared in the
 vicissitudes of the eastern provinces, being alternately in the power of
@@ -109,7 +109,7 @@ splendid harbour, which is now filled up. Its situation on the east
 explains why Miltiades attacked it first when he came from the
 Chersonese. It surrendered at once, whereas Myrina, with its very strong
 citadel built on a perpendicular rock, sustained a siege. It is said
-that the shadow of Mount Athos fell at sunset on a bronze cow in the
+that the shadow of Mount [[Athos]] fell at sunset on a bronze cow in the
 agora of Myrina. Pliny says that Athos was 87 m. to the north-west; but
 the real distance is about 40 English miles. One legend localized in
 Lemnos still requires notice. Philoctetes was left there by the Greeks
@@ -121,11 +121,11 @@ to flash the news of Troy's downfall home to Argos.
 
   See Rhode, _Res Lemnicae_; Conze, _Reise auf den Inseln des
   Thrakischen Meeres_ (from which the above-mentioned facts about the
-  present state of the island are taken); also Hunt in Walpole's
+  present state of the island are taken); also [[Hunt]] in Walpole's
   _Travels_; Belon du Mans, _Observations de plusieurs singularitez_,
   &c.; Finlay, _Greece under the Romans_; von Hammer, _Gesch. des Osman.
   Reiches; Gött. Gel. Anz._ (1837). The chief references in ancicnt
-  writers are _Iliad_ i. 593, v. 138, xiv. 229, &c.; Herod. iv. 145;
+  writers are _Iliad_ i. 593, v. 138, xiv. 229, &c.; [[Herod]]. iv. 145;
   Str. pp. 124, 330; Plin. iv. 23, xxxvi. 13.
 
 ## See also

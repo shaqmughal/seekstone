@@ -1,7 +1,7 @@
 # Battering Ram
 
-BATTERING RAM (Lat. _aries_, ram), a military engine used before the
-invention of cannon, for beating down the walls of besieged fortresses.
+BATTERING RAM (Lat. _[[Aries|aries]]_, ram), a military engine used before the
+invention of [[Cannon|cannon]], for beating down the walls of besieged fortresses.
 It consisted of a long heavy beam of timber, armed at the extremity with
 iron fashioned something like the head of a ram. In its simplest form
 the beam was carried in the hands of the soldiers, who assailed the

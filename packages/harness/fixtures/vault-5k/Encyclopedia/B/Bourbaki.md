@@ -17,7 +17,7 @@ that he first came to the front. In 1842 he was captain in the Zouaves;
 Zouaves; 1851, colonel; 1854, brigadier-general. In the Crimean War he
 commanded a portion of the Algerian troops; and at the Alma, Inkerman
 and Sevastopol Bourbaki's name became famous. In 1857 he was made
-general of division, commanding in 1859 at Lyons. His success in the war
+general of division, commanding in 1859 at [[Lyons]]. His success in the war
 with Italy was only second to that of MacMahon, and in 1862 he was
 proposed as a candidate for the vacant Greek throne, but declined the
 proffered honour. In 1870 the emperor entrusted him with the command of
@@ -26,17 +26,17 @@ round Metz.
 
 A curious incident of the siege of Metz is connected with Bourbaki's
 name. A man who called himself Regnier,[1] about the 21st of September,
-appeared at Hastings, to seek an interview with the refugee empress
+appeared at [[Hastings]], to seek an interview with the refugee empress
 Eugenie, and failing to obtain this he managed to get from the young
 prince imperial a signed photograph with a message to the emperor
 Napoleon. This he used, by means of a safe-conduct from Bismarck, as
-credentials to Marshal Bazaine, to whom he presented himself at Metz,
+[[Credentials|credentials]] to Marshal [[Bazaine]], to whom he presented himself at Metz,
 telling him on the empress's alleged authority that peace was about to
 be signed and that either Marshal Canrobert or General Bourbaki was to
 go to Hastings for the purpose. Bourbaki at once went to England, with
 Prussian connivance, as though he had a recognized mission, only to
 discover from the empress at Hastings that a trick had been played on
-him; and as soon as he could manage he returned to France. He offered
+him; and as soon as he could [[Manage|manage]] he returned to France. He offered
 his services to Gambetta and received the command of the Northern Army,
 but was recalled on the 19th of November and transferred to the Army of
 the Loire. In command of the hastily-trained and ill-equipped Army of
@@ -51,7 +51,7 @@ only 84,000 escaped from the Germans into Swiss territory. Bourbaki
 himself, rather than submit to the humiliation of a probable surrender,
 on the 26th of January 1871 delegated his functions to General
 Clinchant, and in the night fired a pistol at his own head, but the
-bullet, owing to a deviation of the weapon, was flattened against his
+[[Bullet|bullet]], owing to a deviation of the weapon, was flattened against his
 skull and his life was saved. General Clinchant carried Bourbaki into
 Switzerland, and he recovered sufficiently to return to France. In July
 1871 he again took the command at Lyons, and subsequently became
@@ -68,9 +68,9 @@ FOOTNOTE:
 
   [1] The whole Regnier affair remained a mystery; the man himself--who
     on following Bourbaki to England made the impression on Lord
-    Granville (see the _Life of Lord Granville_, by Lord Fitzmaurice, ii.
+    [[Granville]] (see the _Life of Lord Granville_, by Lord Fitzmaurice, ii.
     61) of being a "swindler" but honestly wishing to serve the
-    empress--was afterwards mixed up in the Humbert frauds of 1902-1903;
+    empress--was afterwards mixed up in the Humbert [[Fraud|frauds]] of 1902-1903;
     he published his own version of the affair in 1870 in a pamphlet,
     _Quel est votre nom?_ It has been suspected that on the part either
     of Bazaine or of the German authorities some undisclosed intrigue was
@@ -80,14 +80,14 @@ FOOTNOTE:
 
 
 BOURBON. The noble family of Bourbon, from which so many European kings
-have sprung, took its name from Bourbon l'Archambault, chief town of a
+have sprung, took its name from [[Bourbon L'Archambault|Bourbon l'Archambault]], chief town of a
 lordship which in the 10th century was one of the largest baronies of
 the kingdom of France. The limits of the lordship, which was called the
 Bourbonnais, were approximately those of the modern department of
-Allier, being on the N. the Nivernais and Berry, on the E. Burgundy and
+Allier, being on the N. the Nivernais and [[Berry]], on the E. Burgundy and
 Lyonnais, on the S. Auvergne and Marche and on the W. Berry. The first
 of the long line of Bourbons known in history was Adhemar or Aimar, who
-was invested with the barony towards the close of the 9th century.
+was invested with the [[Barony|barony]] towards the close of the 9th century.
 Matilda, heiress of the first house of Bourbon, brought this lordship to
 the family of Dampierre by her marriage, in 1196, with Guy of Dampierre,
 marshal of Champagne (d. 1215). In 1272 Beatrix, daughter of Agnes of
@@ -121,7 +121,7 @@ was succeeded by his grandson, Louis XVI., who perished on the scaffold.
 At the restoration the throne of France was occupied by Louis XVIII.,
 brother of Louis XVI., who in turn was succeeded by his brother Charles
 X. The second son of Charles X., the duc de Berry, left a son, Henri
-Charles Ferdinand Marie Dieudonne d'Artois, duc de Bordeaux, and comte
+Charles [[Ferdinand]] Marie Dieudonne d'Artois, duc de Bordeaux, and comte
 de Chambord (q.v.). From Louis XIV.'s brother, Philip, descended another
 claimant of the throne. Philip's son was the regent Orleans, whose
 great-grandson, "Philippe Egalite," perished on the scaffold in 1793.
@@ -206,7 +206,7 @@ I. _The French Bourbons_
                                        (1820-1883)            |                                        |                        |                 |
                                                               |                +-----------------------+              +---------+---------+       +-------+
                                                               |                |                       |              |         |         |               |
-                                                              |            Alphonso             Louis Ferdinand     Peter      Louis    Antony         Emmanuel,
+                                                              |            Alphonso             Louis Ferdinand     Peter      Louis    Antony         [[Emmanuel]],
                                                               |           (b. 1886)                (b. 1888)      (b. 1875)  (b. 1878) (b. 1881)    duke of Vendome
                                                               |                                                                                        (b. 1872)
                                                               |                                                                                           |
@@ -246,7 +246,7 @@ II. The Spanish and Italian Bourbons.
        |               |                          |                                |              |             |                           |                               |
        |              +------------+           +--+-------------+             Ferdinand II.    Francis,      Leopold,                     Louis,                        Charles II,
        |              |            |           |                |              (1810-1859)      count of     count of                    count of                         duke of
-  Isabella II. +   Francis       Henry,      Carlos,          Juan                 |            Trapani,     Syracuse                     Aquila                           Parma
+  Isabella II. +   Francis       Henry,      Carlos,          Juan                 |            Trapani,     Syracuse                     [[Aquila]]                           Parma
   (1830-1904)  | (1822-1902)     duke of     duke of       (1823-1887)             |          (1827-1892) (c. 1825-1860)                (1824-1897)                     (1799-1883)
                |                Seville[2]   Madrid             |                  |                                                        |                               |
                |               (1823-1870) (1818-1861)          |           +------------+-------------+----------+-----------+           +-+--------+                  Charles III,
@@ -260,7 +260,7 @@ II. The Spanish and Italian Bourbons.
         +------+---------+                      |                               |             |           |         |          |        |          |       duke of               count of
         |                |                    Jaime                         Ferdinand,     Charles     Gabriel   Francis    Philip    Renier    Gennaro     Parma                 Bardi
      Alphonso          Jaime                (b. 1870)                        duke of       (b. 1870)  (b. 1897) (b. 1888)  (b. 1885) (b. 1883) (b. 1882)  (b. 1848)             (1851-1905)
-   prince of the     (b. 1908)                                               Calabria         |                                                               |
+   prince of the     (b. 1908)                                               [[Calabria]]         |                                                               |
      Asturias                                                                (b. 1869)     Alphonso                                                    +------+----+-----------+
     (b. 1907)                                                                   |          (b. 1901)                                                   |           |           |
                                                                               Roger                                                                  Henry       Joseph      Elias
@@ -278,7 +278,7 @@ son Ferdinand II. Ferdinand II. died in 1859, and in the following year
 his successor Francis II. was deprived of his kingdom, which was
 incorporated into the gradually-uniting Italy.
 
-_Duchies of Lucca and Parma._--In 1748 the duchy of Parma was conferred
+_Duchies of [[Lucca]] and Parma._--In 1748 the duchy of Parma was conferred
 on Philip, youngest son of Philip V. of Spain. He was succeeded by his
 son Ferdinand in 1765. Parma was ceded to France in 1801, Ferdinand's
 son Louis being made king of Etruria, but the French only took
@@ -295,7 +295,7 @@ duchies were annexed by Victor Emmanuel to the new kingdom of Italy.
 
 _Bastard Branches._--There are numerous bastard branches of the family
 of Bourbon, the most famous being the Vendome branch, descended from
-Caesar, natural son of Henry IV., and the Maine and Toulouse branches,
+Caesar, natural son of Henry IV., and the [[Maine]] and Toulouse branches,
 descended from the two natural sons of Louis XIV. and Madame de
 Montespan.
 

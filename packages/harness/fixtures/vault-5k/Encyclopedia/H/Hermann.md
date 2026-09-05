@@ -1,6 +1,6 @@
 # Hermann
 
-HERMANN, FRIEDRICH BENEDICT WILHELM VON (1795-1868), German economist,
+HERMANN, [[Friedrich|FRIEDRICH]] BENEDICT WILHELM VON (1795-1868), German economist,
 was born on the 5th of December 1795, at Dinkelsbuhl in Bavaria. After
 finishing his primary education he was for some time employed in a
 draughtsman's office. He then resumed his studies, partly at the
@@ -31,7 +31,7 @@ himself, he rose rapidly. In 1837 he was placed on the council for
 superintendence of church and school work; in 1839 he was entrusted with
 the direction of the bureau of statistics; in 1845 he was one of the
 councillors for the interior; in 1848 he sat as member for Munich in the
-national assembly at Frankfort. In this assembly Hermann, with Johann
+national assembly at [[Frankfort]]. In this assembly Hermann, with Johann
 Heckscher and others, was mainly instrumental in organizing the
 so-called "Great German" party, and was selected as one of the
 representatives of their views at Vienna. Warmly supporting the customs

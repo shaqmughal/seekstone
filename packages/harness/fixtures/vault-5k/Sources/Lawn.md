@@ -1,8 +1,8 @@
 # Lawn
 
 LAWN, a very thin fabric made from level linen or cotton yarns. It is
-used for light dresses and trimmings, also for handkerchiefs. The terms
-lawn and cambric (q.v.) are often intended to indicate the same fabric.
+used for light [[Dress|dresses]] and trimmings, also for handkerchiefs. The terms
+lawn and [[Cambric|cambric]] (q.v.) are often intended to indicate the same fabric.
 The word "lawn" was formerly derived from the French name for the fabric
 _linon_, from _lin_, flax, linen, but Skeat (_Etym. Dict._, 1898,
 Addenda) and A. Thomas (_Romania_, xxix. 182, 1900) have shown that the

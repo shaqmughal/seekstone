@@ -2,15 +2,15 @@
 
 HISSAR, a district in Central Asia, lying between 66 deg. 30' and 70
 deg. E. and 39 deg. 15' and 37 deg. N. and dependent on the amir of
-Bokhara. It forms that part of the basin of the Amu-darya or Oxus which
+[[Bokhara]]. It forms that part of the basin of the Amu-darya or Oxus which
 lies on the north side of the river, opposite the Afghan province of
-Balkh. The western prolongation of the Tian-shan, which divides the
+[[Balkh]]. The western prolongation of the Tian-shan, which divides the
 basin of the Zarafshan from that of the upper Amu, after rising to a
 height of 12,300 ft., bifurcates in 67 deg. 45' E. The main chain, the
 southern arm of this bifurcation, designated the Hissar range, but
 sometimes called also Koh-i-tau, forms the N. and N.W. boundaries of
-Hissar. On the W. it is wholly bounded by the desert; the Amu limits it
-on the S. and S.E.; and Karateghin and Darvaz complete the boundary on
+Hissar. On the W. it is wholly bounded by the [[Desert|desert]]; the Amu limits it
+on the S. and S.E.; and [[Karateghin]] and Darvaz complete the boundary on
 the E. Until 1875 it was one of the least known tracts of Central Asia.
 Hissar is traversed from north to south by four tributaries of the Amu,
 viz. the Surkhab or Vakhsh, Kafirnihan, Surkhan and Shirabad-darya,
@@ -25,7 +25,7 @@ transverse range, whose rocks overhang and threaten to choke the
 tortuous and gloomy corridor (in places but five paces wide) which
 affords the only exit from the valley. In ancient times it was a vantage
 point of much importance and commanded one of the chief routes between
-Turkestan and India. Hsuan Tsang, the Chinese traveller, who passed
+Turkestan and India. [[Hsuan Tsang]], the Chinese traveller, who passed
 through it in the 7th century, states that there were then two folding
 doors or gates, cased with iron and hung with bells, placed across the
 pass. Clavijo, the Spanish ambassador to the court of Timur, heard of
@@ -59,7 +59,7 @@ kingdom, e.g. the Yue-chi. It was afterwards conquered by the
 Ephthalites or White Huns, who were subdued by the Turks in the early
 part of the 7th century. It then became subject successively to the
 Mahommedan invaders from Persia, and after to the Mongol dynasty of
-Jenghiz Khan, and to Timur and his successors. It subsequently became a
+Jenghiz [[Khan]], and to Timur and his successors. It subsequently became a
 cluster of Uzbeg states and was annexed by the amir of Bokhara (q.v.) in
 1869-1870, soon after the Russian occupation of Samarkand.
      (J. T. Be.; C. El.)

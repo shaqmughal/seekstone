@@ -16,9 +16,9 @@ Malta is about 17½ m. long by 8¼ broad; Gozo is 8¾ by 4½ m. This chain
 of islands stretches from N.E. to S.E. On the S.W. the declivities
 towards the sea are steep, and in places rise abruptly some 400 ft. from
 deep water. The general slope of these ridges is towards the N.W.,
-facing Sicily and snow-capped Etna, the source of cool evening breezes.
+facing Sicily and snow-capped [[Etna]], the source of cool evening [[Breeze|breezes]].
 The Bingemma range, rising 726 ft., is nearly at right angles to the
-axis of the main island. The geological "Great Fault" stretches from sea
+axis of the main island. The geological "Great [[Fault]]" stretches from sea
 to sea at the foot of these hills. There are good anchorages in the
 channels between Gozo and Comino, and between Comino and Malta. In
 addition to the harbours of Valletta, there are in Malta, facing N.W.,
@@ -27,7 +27,7 @@ Madalena, of St Julian and St Thomas; on the S.E. there is the large bay
 of Marsa Scirocco. There are landing places on the S.W. at Fomh-il-rih
 and Miggiarro. Mount Sceberras (on which Valletta is built) is a
 precipitous promontory about 1 m. long, pointing N.E. It rises out of
-deep water; well-sheltered creeks indent the opposite shores on both
+deep water; well-sheltered [[Creek|creeks]] indent the opposite shores on both
 sides. The waters on the S.E. form the "Grand Harbour," having a narrow
 entrance between Ricasoli Point and Fort St Elmo. The series of bays to
 the N.W., approached between the points of Tigne and St Elmo, is known
@@ -36,23 +36,23 @@ as the Marsamuscetto (or Quarantine) Harbour.
 Mighty fortifications and harbour works have assisted to make this ideal
 situation an emporium of Mediterranean trade. During the Napoleonic wars
 and the Crimean campaign the Grand Harbour was frequently overcrowded
-with shipping. The gradual supplanting of sail by steamships has made
+with shipping. The [[Gradual|gradual]] supplanting of sail by steamships has made
 Malta a coaling station of primary importance. But the tendency to great
 length and size in modern vessels caused those responsible for the civil
 administration towards the end of the 19th century to realize that the
 harbour accommodation was becoming inadequate for modern fleets and
-first-class liners. A breakwater was therefore planned on the Monarch
+first-class [[Liner|liners]]. A breakwater was therefore planned on the Monarch
 shoal, to double the available anchorage area and increase the frontage
 of deep-water wharves available in all weathers.
 
 
     Geology and Water Supply.
 
-  The Maltese Islands consist largely of Tertiary Limestone, with
-  somewhat variable beds of Crystalline Sandstone, Greensand and Marl or
+  The Maltese Islands consist largely of Tertiary [[Limestone]], with
+  somewhat variable beds of Crystalline Sandstone, [[Greensand]] and [[Marl]] or
   Blue Clay. The series appears to be in line with similar formations at
   Tripoli in Africa, Cagliari in Sardinia, and to the east of
-  Marseilles. To the south-east of the Great Fault (already mentioned)
+  [[Marseilles]]. To the south-east of the Great Fault (already mentioned)
   the beds are more regular, comprising, in descending order, (a) Upper
   Coralline Limestone; (b) Yellow, Black or Greensand; (c) Marl or Blue
   Clay; (d) White, Grey and Pale Yellow Sandstone; (e)
@@ -70,14 +70,14 @@ of deep-water wharves available in all weathers.
   south-east coast, which point to the islands being fragments of a
   former extensive plateau. The mammalian remains found in Pleistocene
   deposits are of exceptional interest. Among the more remarkable forms
-  are a species of hippopotamus, the elephant (including a pigmy
-  variety), and a gigantic dormouse. In the Coralline Limestone the
+  are a species of [[Hippopotamus|hippopotamus]], the [[Elephant|elephant]] (including a pigmy
+  variety), and a gigantic [[Dormouse|dormouse]]. In the Coralline Limestone the
   following fossils have been noted:--_Spondylus_, _Ostrea_, _Pecten_,
   _Cytherea_, _Arca_, _Terebratula_, _Orthis_, _Clavagella_, _Echinus_,
   _Cidaris_, _Nucleolites_, _Brissus_, _Spatangus_; in the Marl the
   _Nautilus zigzag_; in the Yellow, Black and Greensand shells of
   _Lenticulites complanatus_, teeth and vertebrae of _Squalidae_ and
-  _Cetacea_; in the Sandstone _Vaginula depressa_, _Crystallaria_,
+  _[[Cetacea]]_; in the Sandstone _Vaginula depressa_, _Crystallaria_,
   _Nodosaria_, _Brissus_, _Nucleolites_, _Pecten burdigallensis_,
   _Scalaria_, _Scutella subrotunda_, _Spatangus_, _Nautilus_, _Ostrea
   navicularis_ and _Pecten cristatus_ (see Captain Spratt's work and
@@ -87,7 +87,7 @@ of deep-water wharves available in all weathers.
   water, and holds up the rainfall, which soaks through the spongy mass
   of the superimposed coralline formations. Hence arise the springs
   which run perennially, several of which have been collected into the
-  gravitation water supplies of the Vignacourt and Fawara aqueducts. The
+  [[Gravitation|gravitation]] water supplies of the Vignacourt and Fawara aqueducts. The
   larger part of the water supply, however, is now derived by pumping
   from strata at about sea-level. These strata are generally impregnated
   with salt water, and are practically impenetrable to the rain-water of
@@ -100,7 +100,7 @@ of deep-water wharves available in all weathers.
   equalize its distribution.
 
 
-    Climate and Hygiene.
+    Climate and [[Hygiene]].
 
   The climate is, for the greater part of the year, temperate and
   healthy; the thermometer records an annual mean of 67° F. Between June
@@ -108,9 +108,9 @@ of deep-water wharves available in all weathers.
   December, January and February is 56°; March, May and November are
   mild. Pleasant north-east winds blow for an average of 150 days a
   year, cool northerly winds for 31 days, east winds 70 days, west for
-  34 days. The north-west "Gregale" (Euroclydon of Acts xxvii. 14) blows
+  34 days. The north-west "Gregale" ([[Euroclydon]] of Acts xxvii. 14) blows
   about the equinox, and occasionally, in the winter months, with almost
-  hurricane force for three days together; it is recorded to have caused
+  [[Hurricane|hurricane]] force for three days together; it is recorded to have caused
   the drowning of 600 persons in the harbour in 1555. This wind has been
   a constant menace to shipping at anchor; the new breakwater on the
   Monarch Shoal was designed to resist its ravages. The regular tides
@@ -120,13 +120,13 @@ of deep-water wharves available in all weathers.
   drought have extended over three years. Snow is seen once or twice in
   a generation; violent hailstorms occur. On the 19th of October 1898,
   exceptionally large hailstones fell--one, over 4 in. in length, being
-  brought to the governor, Sir Arthur Fremantle, for inspection.
-  Mediterranean (sometimes called "Malta") fever has been traced by
+  brought to the governor, Sir Arthur [[Fremantle]], for inspection.
+  Mediterranean (sometimes called "Malta") [[Fever|fever]] has been traced by
   Colonel David Bruce to a _Micrococcus melitensis_. The supply of water
   under pressure is widely distributed and excellent. There is a modern
   system of drainage for the towns, and all sewerage has been
   intercepted from the Grand Harbour. There are efficient hospitals and
-  asylums, a system of sanitary inspection, and modernized quarantine
+  [[Asylum|asylums]], a system of sanitary inspection, and modernized quarantine
   stations.
 
 
@@ -139,52 +139,52 @@ of deep-water wharves available in all weathers.
   polypodioides_; _Sargassum bacciferum_; the well-known gulf weed,
   probably transported from the Atlantic; _Zostera marina_, forming
   dense beds in muddy bays; the roots are cast up by storms and are
-  valuable to dress the fields. Among the land plants may be noted the
+  valuable to [[Dress|dress]] the [[Fields|fields]]. Among the land plants may be noted the
   blue anemone; the ranunculus along the road-sides, with a strong
   perfume of violets; the Malta heath, which flowers at all seasons;
   _Cynomorium coccineum_, the curious "Malta fungus," formerly so valued
   for medicinal purposes that a guard was set for its preservation under
-  the rule of the Knights; the pheasant's-eye; three species of mallow
+  the rule of the [[Knight|Knights]]; the pheasant's-eye; three species of [[Mallow|mallow]]
   and geranium; _Oxalis cernua_, a very troublesome imported weed;
   _Lotus edulis_; _Scorpiurus subvillosa_, wild and cultivated as
   forage; two species of the horseshoe-vetch; the opium poppy; the
   yellow and claret-coloured poppy; wild rose; _Crataegus azarolus_, of
   which the fruit is delicious preserved; the ice-plant; squirting
-  cucumber; many species of _Umbelliferae_; _Labiatae_, to which the
-  spicy flavour of the honey (equal to that of Mt Hymettus) is ascribed;
+  cucumber; many species of _Umbelliferae_; _[[Labiatae]]_, to which the
+  spicy flavour of the honey (equal to that of Mt [[Hymettus]]) is ascribed;
   snap-dragons; broom-rape; glass-wort; _Salsola soda_, which produces
   when burnt a considerable amount of alkali; there are fifteen species
-  of orchids; the _gladiolus_ and _iris_ are also found; _Urginia
+  of orchids; the _[[Gladiolus|gladiolus]]_ and _iris_ are also found; _Urginia
   scilla_, the medicinal squill, abounds with its large bulbous roots
-  near the sea; seventeen species of sedges and seventy-seven grasses
+  near the sea; seventeen species of sedges and seventy-seven [[Grasses|grasses]]
   have been recorded.
 
 
     Fauna.
 
-  There are four species of lizard and three snakes, none of which is
+  There are four species of [[Lizard|lizard]] and three snakes, none of which is
   venomous; a land tortoise, a turtle and a frog. Of birds very few are
   indigenous; the jackdaw, blue solitary thrush, spectacled warbler, the
-  robin, kestrel and the herring-gull. A bird known locally as _Hangi_,
+  robin, [[Kestrel|kestrel]] and the herring-gull. A bird known locally as _Hangi_,
   not met elsewhere in Europe, nests at Filfla. Flights of quail and
-  turtle doves, as well as teal and ducks, stay long enough to afford
+  turtle [[Dove|doves]], as well as teal and ducks, stay long enough to afford
   sport. Of migratory birds over two hundred species have been
-  enumerated. The only wild mammalia in the island are the hedgehogs,
+  enumerated. The only wild [[Mammalia|mammalia]] in the island are the hedgehogs,
   two species of weasel, the Norway rat, and the domestic mouse. The
   Maltese dog was never wild and has ceased to exist as a breed.
 
   Malta has several species of zoophytes, sponges, mollusca and
-  crustacea. Insect life is represented by plant-bugs, locusts,
-  crickets, grasshoppers, cockroaches, dragon-flies, butterflies,
-  numerous varieties of moths, bees and mosquitoes.
+  crustacea. [[Insect]] life is represented by plant-bugs, locusts,
+  crickets, [[Grasshopper|grasshoppers]], cockroaches, dragon-flies, butterflies,
+  numerous varieties of moths, [[Bee|bees]] and mosquitoes.
 
-  Among the fish may be mentioned the tunny, dolphin, mackerel, sardine,
-  sea-bream, dentice and pagnell; wrasse, of exquisite rainbow hue and
+  Among the fish may be mentioned the tunny, [[Dolphin|dolphin]], [[Mackerel|mackerel]], sardine,
+  sea-bream, dentice and pagnell; wrasse, of exquisite rainbow [[Hue|hue]] and
   good for food; members of the herring family, sardines, anchovies,
-  flying-fish, sea-pike; a few representatives of the cod family, and
+  [[Flying-Fish|flying-fish]], sea-pike; a few representatives of the [[Cod|cod]] family, and
   some flat fish; soles (very rare); _Cernus_ which grows to large size;
   several species of grey and red mullet; eleven species of _Triglidae_,
-  including the beautiful flying gurnard whose colours rival the
+  including the beautiful flying gurnard whose [[Colours|colours]] rival the
   angel-fish of the West Indies; and eighteen species of mackerel, all
   migratory.
 
@@ -194,7 +194,7 @@ of deep-water wharves available in all weathers.
   Population and Language.
 
 The real population of Malta, viz. of the country districts, is to be
-differentiated from the cosmopolitan fringe of the cities. There is
+differentiated from the [[Cosmopolitan|cosmopolitan]] fringe of the cities. There is
 continuous historical evidence that Malta remains to-day what Diodorus
 Siculus described it in the 1st century, "a colony of the Phoenicians";
 this branch of the Caucasian race came down the great rivers to the
@@ -210,12 +210,12 @@ with the African descendants of Ham. No subsequent invader of Malta
 attempted to displace the Phoenician race in the country districts. The
 Carthaginians governed settlements of kindred races with a light hand;
 the Romans took over the Maltese as "dedititii," not as a conquered
-race. Their conversion by St Paul added difference of religion to the
-causes which prevented mixture of race. The Arabs from Sicily came to
-eject the Byzantine garrison; they treated the Maltese as friends, and
+race. Their [[Conversion|conversion]] by St Paul added difference of religion to the
+causes which prevented mixture of race. The [[Arabs]] from Sicily came to
+eject the Byzantine [[Garrison|garrison]]; they treated the Maltese as friends, and
 were not sufficiently numerous to colonize. The Normans came as
 fellow-Christians and deliverers; they found very few Arabs in Malta.
-The fallacy that Maltese is a dialect of Arabia has been luminously
+The fallacy that Maltese is a [[Dialect|dialect]] of Arabia has been luminously
 disproved by A. E. Caruana, _Sull' origine della lingua Maltese_.
 
 The upper classes have Norman, Spanish and Italian origin. The knights
@@ -243,8 +243,8 @@ than the southern Italians. The women are generally smaller than the
 men, with black eyes, fine hair and graceful carriage. They are a
 thrifty and industrious people, prolific and devoted to their offspring,
 good-humoured, quick-tempered and impressionable. The food of the
-working classes is principally bread, with oil, olives, cheese and
-fruit, sometimes fish, but seldom meat; common wine is largely imported
+working classes is principally bread, with oil, olives, [[Cheese|cheese]] and
+fruit, sometimes fish, but seldom [[Meat|meat]]; common wine is largely imported
 from southern Europe. The Maltese are strict adherents to the Roman
 Catholic religion, and enthusiastic observers of festivals, fasts and
 ceremonials.
@@ -263,7 +263,7 @@ avert famine. A census of 1590 makes the population 30,500; in that year
 41,084; in 1632 to 50,113; in 1667 to 55,155; in 1667 11,000 are said to
 have died of plague out of the total population. At the end of the rule
 of the knights (1798) the population was estimated at 100,000; sickness,
-famine and emigration during the blockade of the French in Valletta
+famine and emigration during the [[Blockade|blockade]] of the French in Valletta
 probably reduced the inhabitants to 80,000. In 1829 the population was
 114,236; in 1836, 119,878 (inclusive of the garrison); in 1873, 145,605;
 at the census in 1901 the civil population was 184,742. Sanitation
@@ -275,7 +275,7 @@ done to promote emigration or to introduce manufactures.
   Valletta (pop. 1901, 24,685); it contains the palace of the Grand
   Masters, the magnificent Auberges of the several "Langues" of the
   Order, the unique cathedral of St John with the tombs of the Knights
-  and magnificent tapestries and marble work; a fine opera house and
+  and magnificent tapestries and [[Marble|marble]] work; a fine opera house and
   hospital are conspicuous. Between the inner fortifications of Valletta
   and the outer works, across the neck of the peninsula, is the suburb
   of Floriana (pop. 7278). To the south-east of Valletta, at the other
@@ -284,7 +284,7 @@ done to promote emigration or to introduce manufactures.
   often spoken of as "The Three Cities." The old capital, near the
   centre of the island is variously called Notabile, Città Vecchia
   (q.v.), and Medina, with its suburb Rabat, its population in 1901 was
-  7515; here are the catacombs and the ancient cathedral of Malta.
+  7515; here are the [[Catacomb|catacombs]] and the ancient cathedral of Malta.
   Across the Marsamuscetto Harbour of Valletta is a considerable modern
   town called Sliema. The villages of Malta are Mellieha, St Paul's Bay,
   Musta, Birchircara, Lia, Atterd, Balzan, Naxaro, Gargur, Misida, S.
@@ -305,7 +305,7 @@ are about 10,000 small holdings averaging about four acres and intensely
 cultivated. The grain crops are maize, wheat and barley; the two latter
 are frequently sown together. In 1906, 13,000 acres produced 17,975
 quarters of wheat and 12,000 quarters of barley. The principal fodder
-crops are green barley and a tall clover called "sulla" (_Hedysarum
+crops are green barley and a tall [[Clover|clover]] called "sulla" (_Hedysarum
 coronarum_), having a beautiful purple blossom. Vegetables of all sorts
 are easily grown, and a rotation of these is raised on land irrigated
 from wells and springs. Potatoes and onions are grown for exportation at
@@ -330,13 +330,13 @@ from Sicily in considerable quantities. Excellent honey is produced in
 Malta; at certain seasons tunny-fish and young dolphin (lampuca) are
 abundant; other varieties of fish are caught all the year round.
 
-About 5000 women and children are engaged in producing Maltese lace. The
+About 5000 women and children are engaged in producing Maltese [[Lace|lace]]. The
 weaving of cotton by hand-looms survives as a languishing industry.
 Pottery is manufactured on a small scale; ornamental carvings are made
 in Maltese stone and exported to a limited extent. The principal
 resources of Malta are derived from its being an important military
 station and the headquarters of the Mediterranean fleet. There are great
-naval docks, refitting yards, magazines and stores on the south-east
+naval [[Dock|docks]], refitting yards, magazines and stores on the south-east
 side of the Grand Harbour; small vessels of war have also been built
 here. Steamers of several lines call regularly, and there is a daily
 mail to Syracuse. The shipping cleared in 1905-1906 was 3524 vessels of
@@ -347,7 +347,7 @@ Local weights and measures include the cantar, 175 lb.; salm, one
 imperial quarter; cafiso, 4½ gallons; canna, 6 ft. 10½ in.; the tumolo
 (256 sq. ca.), about a third of an acre.
 
-The principal exports of local produce are potatoes, cumin seed,
+The principal exports of local produce are potatoes, [[Cumin|cumin]] seed,
 vegetables, oranges, goats and sheep, cotton goods and stone.
 
 To keep alive, in a fair standard of comfort, the population of 206,690,
@@ -367,7 +367,7 @@ immediate distress.
   £1,219,819; imports in transit, £5,876,981; exports (actual),
   £123,510; exports in transit £6,127,277; imports from the United
   Kingdom (actual), £218,461. In March 1907 there were 8159 depositors
-  in the government savings bank, with £569,731 to their credit.
+  in the government savings bank, with £569,731 to their [[Credit|credit]].
 
 _Government._--Malta is a crown colony, within the jurisdiction of a
 high commissioner and a commander-in-chief, to whom important questions
@@ -377,12 +377,12 @@ chief secretary. There is an executive council, now comprising eleven
 members with the governor as president. The legislative council, under
 letters patent of the 3rd of June 1903, is composed of the governor
 (president), ten official members, and eight elected members. There are
-eight electoral districts with a total of about 10,000 electors. A voter
+eight electoral districts with a total of about 10,000 [[Electors|electors]]. A voter
 is qualified on an income from property of £6, or by paying rent to the
 same amount, or having the qualifications required to serve as a common
 juror. There are no municipal institutions. Letters patent, orders in
 council, and local ordinances have the force of law. The laws of
-Justinian are still the basis of the common law, the Code of Rohan is
+Justinian are still the basis of the common law, the [[Code]] of Rohan is
 not altogether abrogated, and considerable weight is still given to the
 Roman Canon Law. The principal provisions of the Napoleonic Code and
 some English enactments have been copied in a series of ordinances
@@ -401,17 +401,17 @@ glaring incongruities.
   the percentage on those enrolled 84.6; the total enrolment was 18,719.
   The average cost per pupil in these schools was 35s. 11d. a year on
   daily attendance. There is a secondary school for girls in Valletta,
-  and one for boys in Gozo. A lyceum in Malta had an average attendance
+  and one for boys in Gozo. A [[Lyceum|lyceum]] in Malta had an average attendance
   of 464. The number of students at the university was about 150. The
   average cost per student in the lyceum was £8, 0s. 11d.; in the
-  university £26, 10s. 1d. The fees in these institutions are almost
+  university £26, 10s. 1d. The [[Fee|fees]] in these institutions are almost
   nominal, the middle-classes are thus educated at the expense of the
   masses. In the 18th century the government of the Knights and of the
   Inquisition did not favour the education of the people, after 1800
   British governors were slow to make any substantial change. About the
   middle of the 19th century it began to be recognized that the
   education of the people was more conducive to the safety of the
-  fortress than to leave in ignorance congested masses of southern race
+  fortress than to leave in [[Ignorance|ignorance]] congested masses of southern race
   liable to be swayed spasmodically by prejudice. At first an attempt
   was made to make Maltese a literary language by adapting the Arabic
   characters to record it in print. This failed for several reasons, the
@@ -441,9 +441,9 @@ glaring incongruities.
   colloquial English. A series of school books, in the Maltese language
   printed in Roman characters, with translations in English interlined
   in different type, was produced at the government printing office and
-  sold at cost price. The parents and guardians were called upon to
+  sold at cost price. The parents and [[Guardian|guardians]] were called upon to
   select whether each child should learn English or Italian next after
-  learning reading, writing and arithmetic in Maltese. About 89%
+  learning reading, writing and [[Arithmetic|arithmetic]] in Maltese. About 89%
   recorded their preference in favour of English at the outset; then, as
   a result of violent political agitation, this percentage was
   considerably lowered, but soon crept up again. Teachers and professors
@@ -500,7 +500,7 @@ Cittavecchia is the finest monument of this period in the islands.
 The Carthaginians came to Malta in the 6th century B.C., not as
 conquerors, but as friends of a sister Phoenician colony (Freeman,
 _Hist. Sicily_, i. 255): Carthage in her struggle with Rome was at last
-driven to levy oppressive tribute, whereupon the Maltese gave up the
+driven to [[Levy|levy]] oppressive tribute, whereupon the Maltese gave up the
 Punic garrison to Titus Sempronius under circumstances described by Livy
 (xxi. 51). The Romans did not treat the Maltese as conquered enemies,
 and at once gave them the privileges of a _municipium_; Cicero (_in
@@ -512,8 +512,8 @@ born in Malta, while his father was governor-general of Sicily; he
 certainly did not die in Malta. There is evidence from Cicero (_in
 Verrem_) that a very high stage of manufacturing and commercial
 prosperity, attained in Carthaginian times, continued in Malta under
-the Romans. The Phoenician temple of Juno, which stood on the site of
-Fort St Angelo, is also mentioned by Valerius Maximus. An inscription
+the Romans. The Phoenician temple of [[Juno]], which stood on the site of
+Fort St Angelo, is also mentioned by Valerius [[Maximus]]. An inscription
 records the restoration of the temple of Proserpine by Cheriston, a
 freed-man of Augustus and procurator of Malta. Diodorus Siculus (L. V.,
 c. 4) speaks of the importance and ornamentation of Maltese dwellings,
@@ -521,7 +521,7 @@ and to this day remains of palaces and dwellings of the Roman period
 indicate a high degree of civilization and wealth. When forced to select
 a place of exile, Cicero was at first (_ad Att._ III. 4, X. i. 8, 9)
 attracted to Malta, over which he had ruled as quaestor 75 B.C. Among
-his Maltese friends were Aulus Licinius and Diodorus. Lucius Castricius
+his Maltese friends were Aulus Licinius and Diodorus. [[Lucius]] Castricius
 is mentioned as a Roman governor under Augustus. Publius was "chief of
 the island" when St Paul was shipwrecked (Acts xxvii. 7); and is said to
 have become the first Christian bishop of Malta. The site where the
@@ -531,7 +531,7 @@ place of worship, which was rebuilt in 1090 by Count Roger, the Norman
 conqueror of Malta. The Maltese catacombs are strikingly similar to
 those of Rome, and were likewise used as places of burial and of refuge
 in time of persecution. They contain clear indication of the interment
-of martyrs. St Paul's Bay was the site of shipwreck of the apostle in
+of martyrs. St Paul's Bay was the site of shipwreck of the [[Apostle|apostle]] in
 A.D. 58; the "topon diathalasson" referred to in Acts is the strait
 between Malta and the islet of Selmun. The claim that St Paul was
 shipwrecked at Meleda off the Dalmatian coast, and not at Malta, has
@@ -552,13 +552,13 @@ A.D. 870, the Maltese joined forces against the Byzantine garrison, and
 3000 Greeks were massacred. Unable to garrison the island with a large
 force, the Arabs cleared a zone between the central stronghold, Medina,
 and the suburb called Rabat, to restrict the fortified area. Many Arab
-coins, some Kufic inscriptions and several burial-places were left by
+[[Coin|coins]], some Kufic inscriptions and several burial-places were left by
 the Arabs; but they did not establish their religion or leave a
 permanent impression on the Phoenician inhabitants, or deprive the
 Maltese language of the characteristics which differentiate it from
 Arabic. There is no historical evidence that the domination of the Goths
 and Vandals in the Mediterranean ever extended to Malta; there are fine
-Gothic arches in two old palaces at Notabile, but these were built after
+[[Gothic]] [[Arches|arches]] in two old palaces at Notabile, but these were built after
 the Norman conquest of Malta. In 1090 Count Roger the Norman (son of
 Tancred de Hauteville), then master of Sicily, came to Malta with a
 small retinue; the Arab garrison was unable to offer effective
@@ -578,10 +578,10 @@ the emperor Henry IV. of Germany became, in 1194, heiress of Sicily and
 Malta; she was the last of the Norman dynasty. The Grand Admiral of
 Sicily in 1223 was Henry, count of Malta. He had led 300 Maltese at the
 capture of two forts in Tripoli by the Genoese. In 1265 Pope Alexander
-IV. conferred the crown of Sicily on Charles of Anjou to the detriment
-of Manfred, from whom the French won the kingdom at the battle of
-Benevento. Under the will of Corradino a representative of the blood of
-Roger the Norman, Peter of Aragon claimed the succession, and it came to
+IV. conferred the crown of Sicily on Charles of [[Anjou]] to the detriment
+of [[Manfred]], from whom the French won the kingdom at the battle of
+[[Benevento]]. Under the will of Corradino a representative of the blood of
+Roger the Norman, Peter of [[Aragon]] claimed the succession, and it came to
 him by the revolution known as "the Sicilian Vespers" when 28,000 French
 were exterminated in Sicily. Charles held Malta for two years longer,
 when the Aragonese fleet met the French off Malta, and finally crushed
@@ -596,11 +596,11 @@ these incidences of feudalism by large payments to the Crown in return
 for charters covenanting that Malta should for ever be administered
 under the royal exchequer without the intervention of intermediary
 feudal lords. This compact was twice broken, and in 1428 the Maltese
-paid King Alfonso 30,000 florins for a confirmation of privileges, with
+paid King Alfonso 30,000 [[Florin|florins]] for a confirmation of privileges, with
 a proviso that entitled them to resist by force of arms any intermediate
 lord that his successors might attempt to impose. Under the Aragonese,
 Malta, as regards local affairs, was administered by a _Università_ or
-municipal commonwealth with wide and indefinite powers, including the
+municipal [[Commonwealth|commonwealth]] with wide and indefinite powers, including the
 election of its officers, Capitan di Verga, Jurats, &c. The minutes of
 the "Consiglio Popolare" of this period are preserved, showing it had no
 legislative power; this was vested in the king, and was exercised
@@ -610,7 +610,7 @@ Malta, Gozo and Tripoli in 1530 from the emperor Charles V., subject to
 a reversion in favour of the emperor's successor in the kingdom of
 Aragon should the knights leave Malta, and to the annual tribute of a
 falcon in acknowledgment that Malta was under the suzerainty of Spain.
-The Maltese, at first, challenged the grant as a breach of the charter
+The Maltese, at first, challenged the grant as a [[Breach|breach]] of the charter
 of King Alfonso, but eventually welcomed the knights. The Grand Master
 de l'Isle Adam, on entering the ancient capital of Notabile, swore for
 himself and his successors to maintain the rights and liberties of the
@@ -622,7 +622,7 @@ from the Maltese, and derived their principal revenues from estates of
 the Order in the richest countries of Europe. They accumulated wealth by
 war, or by privateering against the Turks and their allies. The African
 Arabs under Selim Pasha in 1551 ravaged Gozo, after an unsuccessful
-attempt on Malta, repulsed by cavalry under Upton, an English knight.
+attempt on Malta, repulsed by [[Cavalry|cavalry]] under Upton, an English knight.
 The Order of St John and the Christian Maltese now realized that an
 attempt to exterminate them would soon be made by Soliman II., and
 careful preparations were made to meet the attack.
@@ -637,7 +637,7 @@ of Rhodes, and in many naval engagements. He had been taken prisoner by
 Dragut, who made him row for a year as a galley slave till ransomed.
 This Grand Master had gained the confidence of Philip of Spain, the
 friendship of the viceroy of Sicily, of the pope and of the Genoese
-admiral, Doria. The Sultan placed his troops under the veteran Mustapha,
+admiral, [[Doria]]. The Sultan placed his troops under the veteran Mustapha,
 and his galleys under his youthful relative Piali, he hesitated to make
 either supreme and ordered them to await the arrival of Dragut with his
 Algerian allies, before deciding on their final plans. Meanwhile,
@@ -666,32 +666,32 @@ troops, faced his enemies in the open, and was driven in confusion to
 his ships on the 8th of September.
 
 The Order thus reached the highest pinnacle of its fame, and new knights
-flocked to be enrolled therein from the flower of the nobility of
+flocked to be enrolled therein from the [[Flower|flower]] of the nobility of
 Europe; La Valette refused a cardinal's hat, determined not to impair
 his independence. He made his name immortal by founding on Mt Sceberras
 "a city built by gentlemen for gentlemen" and making Valletta a
 magnificent example of fortification, unrivalled in the world. The pope
-and other sovereigns donated vast sums for this new bulwark of
+and other sovereigns donated vast sums for this new [[Bulwark|bulwark]] of
 Christianity, but, as its ramparts grew in strength, the knights were
 slow to seek the enemy in his own waters, and became false to their
 traditional strategy as a naval power. Nevertheless, they harassed
 Turkish commerce and made booty in minor engagements throughout the 16th
 and 18th centuries, and they took part as an allied Christian power in
-the great victory of Lepanto. With the growth of wealth and security the
-martial spirit of the Order began to wane, and so also did its friendly
+the great victory of [[Lepanto]]. With the growth of wealth and security the
+[[Martial|martial]] spirit of the Order began to wane, and so also did its friendly
 relations with the Maltese. The field for recruiting its members, as
 well as its landed estates, became restricted by the Reformation in
 England and Germany, and the French knights gradually gained a
-preponderance which upset the international equilibrium of the Order.
+preponderance which upset the [[International|international]] equilibrium of the Order.
 The election of elderly Grand Masters became prevalent, the turmoil and
 chances of frequent elections being acceptable to younger members. The
 civil government became neglected and disorganized, licentiousness
 increased, and riots began to be threatening. Expenditure on costly
 buildings was almost ceaseless, and kept the people alive. In 1614 the
-Vignacourt aqueduct was constructed. The Jesuits established a
+Vignacourt aqueduct was constructed. The [[Jesuits]] established a
 university, but they were expelled and their property confiscated in
 1768. British ships of war visited Malta in 1675, and in 1688 a fleet
-under the duke of Grafton came to Valletta. The fortifications of the
+under the duke of [[Grafton]] came to Valletta. The fortifications of the
 "Three Cities" were greatly strengthened under the Grand Master Cotoner.
 
 In 1722 the Turkish prisoners and slaves, then very numerous, formed a
@@ -708,7 +708,7 @@ of the French made the task of regenerating the Order evidently hopeless
 in the changed conditions of Christendom. On the death of Rohan the
 French knights disagreed as to the selection of his successor, and a
 minority were able to elect, in 1797, a German of weak character,
-Ferdinand Hompesch, as the last Grand Master to rule in Malta. Bonaparte
+[[Ferdinand]] Hompesch, as the last Grand Master to rule in Malta. [[Bonaparte]]
 had arranged to obtain Malta by treachery, and he took possession
 without resistance in June 1798; after a stay of six days he proceeded
 with the bulk of his forces to Egypt, leaving General Vaubois with 6000
@@ -722,7 +722,7 @@ Towards the close of the rule of the knights in Malta feudal
 institutions had been shaken to their foundations, but the transition to
 republican rule was too sudden and extreme for the people to accept it.
 The French plundered the churches, abolished monks, nuns and nobles, and
-set up forthwith the ways and doings of the French Revolution. Among
+set up forthwith the ways and doings of the [[French Revolution]]. Among
 other laws Bonaparte enacted that French should at once be the official
 language, that 30 young men should every year be sent to France for
 their education; that all foreign monks be expelled, that no new priests
@@ -739,7 +739,7 @@ The French soon discovered to their dismay that, from behind the rubble
 walls of every field, the agile Maltese were unassailable. The prospect
 of an English blockade of Malta encouraged the revolt, of which Canon
 Caruana became the leader. Nelson was appealed to, and with the aid of
-Portuguese allies he established a blockade and deputed Captain Ball, R.
+Portuguese allies he established a blockade and deputed Captain [[Ball]], R.
 N. (afterwards the first governor) to assume, on the 9th of February
 1799, the provisional administration of Malta and to superintend
 operations on land. Nelson recognized the movement in Malta as a
@@ -758,7 +758,7 @@ to the kingdom of the two Sicilies.
 The Treaty of Amiens (1802) provided for the restoration of the island
 to the Order of St John; against this the Maltese strongly protested,
 realizing that it would be followed by the re-establishment of French
-influence. The English flag was flown side by side with the Neapolitan,
+influence. The English [[Flag|flag]] was flown side by side with the Neapolitan,
 and England actually renewed war with France sooner than give up Malta.
 The Treaty of Paris (1814), with the acclamations of the Maltese,
 confirmed Great Britain in the aggregation of Malta to the empire.
@@ -769,7 +769,7 @@ British exchequer in aid of revenue, and for the importation of
 food-stuffs. The restoration of Church property, the re-establishment of
 law and administration on lines to which the people were accustomed
 before the French invasion, and the claiming for the Crown of the vast
-landed property of the knights, were the first cares of British civil
+landed property of the knights, were the first [[Car|cares]] of British civil
 rule. As successor to the Order, the Crown claimed and eventually
 established (by the negotiations in Rome of Sir Frederick Hankey, Sir
 Gerald Strickland and Sir Lintorn Simmons) with regard to the
@@ -789,13 +789,13 @@ developed, and many important reforms were introduced under the strong
 government of the masterful Sir Thomas Maitland; he acted promptly,
 without seeking popularity or fearing the reverse, and he ultimately
 gained more real respect than any other governor, not excepting the
-marquess of Hastings, who was a brilliant and sympathetic administrator.
-Trial by jury for criminal cases was established in 1829. A council of
+marquess of [[Hastings]], who was a brilliant and sympathetic administrator.
+Trial by [[Jury|jury]] for criminal cases was established in 1829. A council of
 government, of which the members were nominated, was constituted by
 letters patent in 1835, but this measure only increased the agitation
 for a representative legislature. Freedom of the press and many salutary
 innovations were brought about on a report of John Austin and G. C.
-Lewis, royal commissioners, appointed in 1836. The basis of taxation was
+[[Lewis]], royal commissioners, appointed in 1836. The basis of taxation was
 widened, sinecures abolished, schools opened in the country districts,
 legal procedure simplified, and Police established on an English
 footing. Queen Adelaide visited Malta in 1838 and founded the Anglican
@@ -805,7 +805,7 @@ Mr R. Moore O'Ferrall was appointed civil governor. In June 1849 the
 constitution of the council was altered to comprise ten nominated and
 eight elected members.
 
-The revolutions in Italy caused about this time many, including Crispi
+The revolutions in Italy caused about this time many, including [[Crispi]]
 and some of the most intellectual Italians, to take refuge in Malta.
 These foreigners introduced new life into politics and the press, and
 made it fashionable for educated Maltese to delude themselves with the
@@ -841,7 +841,7 @@ to cause agitation. Sir P. Julyan was appointed royal commissioner on
 the civil establishments, and Sir P. Keenan on education; their work
 revived the reform movement in 1881. Mr Savona led an agitation for a
 more sincere system of education on English lines. Fierce opposition
-ensued, and the _pari passu_ compromise was adopted to which reference
+ensued, and the _pari passu_ [[Compromise|compromise]] was adopted to which reference
 is made in the section on _Education_ above; Mr Savona was an able
 organizer, and began the real emancipation of the Maltese masses from
 educational ignorance; but he succumbed to agitation before
@@ -850,7 +850,7 @@ accomplishing substantial results.
 An executive council was established in 1881, and the franchise was
 extended in 1883. A quarter of a century of Sir Victor Houlton's policy
 of _laissez-faire_ was changed in 1883 by the appointment of Sir Walter
-Hely-Hutchinson as chief secretary. An attempt was made to utilize fully
+[[Hely-Hutchinson]] as chief secretary. An attempt was made to utilize fully
 the abilities of this eminent administrator by creating him civil
 lieutenant-governor, in whom to concentrate both the real and the
 nominal power of detailed administration; but the military authorities
@@ -892,10 +892,10 @@ leader of the anti-English agitation, were, as soon as elected, given
 seats in the executive council to cooperate with the government; but
 their aims were irreconcilable. Mizzi wanted to undo the educational
 forms of Mr Savona, to ensure the predominance of the Italian language
-and to work the council as a caucus. Strickland desired to replace
+and to work the council as a [[Caucus|caucus]]. Strickland desired to replace
 bureaucratic government by a system more in touch with the independent
 gentlemen of the country, and to introduce English ideas and precedents.
-Friction soon arose. Mizzi cared little for a constitution that did not
+[[Friction]] soon arose. Mizzi cared little for a constitution that did not
 make him complete master of the situation, and resigned his post in the
 government.
 
@@ -918,7 +918,7 @@ other works. Lepers were segregated by law.
 The Malta marriage question evoked widespread agitation; Sir A. Dingli
 had refrained from making any provision in his code as to marrying. The
 Maltese relied on the Roman Canon Law, the English on the common law of
-England, Scots or Irish had nothing but the English law to fall back
+England, Scots or Irish had nothing but the [[English Law|English law]] to fall back
 upon. Maltese authorities were ignorant of the disabilities of British
 Nonconformists at common law, and they had not perceived that persons
 with a British domicile could not evade their own laws by marrying in
@@ -930,7 +930,7 @@ precedents. Sir Lintorn Simmons was appointed envoy to the Holy See, to
 ascertain how far legislation might be pushed in the direction of civil
 marriage without justifying clerical agitation and obstruction in the
 council. He succeeded in coming to an agreement with Rome. Nevertheless
-Sir A. Dingli and ecclesiastics of all denominations, for conflicting
+Sir A. Dingli and ecclesiastics of all [[Denomination|denominations]], for conflicting
 reasons, swelled the opposition against the liberal concessions obtained
 from Leo XIII. The legal necessity for legislation in accordance with
 the agreement was, nevertheless, on a special reference, submitted to
@@ -948,7 +948,7 @@ exchequer fortress sites no longer required for defence. The reversion
 of such property was claimed for the local civil government, and the
 principles governing these rights were ultimately laid down by an order
 in council, which also determined military rights to restrict buildings
-within the range of forts. The co-operation of naval and military
+within the range of forts. The [[Co-Operation|co-operation]] of naval and military
 authorities was obtained for the construction, at imperial expense, of
 the breakwater designed to save Malta from being abandoned by long and
 deep draft modern vessels. British-born subjects were given the right to
@@ -965,11 +965,11 @@ who preferred popularity to reform and progress. The elected members
 demanded the recall of Sir G. Strickland on his refusing to change his
 policy. The military governor gave way, as regards making English the
 language of the courts on a fixed date, but educational reforms and the
-imposition of new taxes (those in Malta being 27s. 6d. per head, against
+[[Imposition|imposition]] of new taxes (those in Malta being 27s. 6d. per head, against
 93s. in England) were enacted by an order in council notwithstanding the
 agitation. Mr Mereweather was appointed chief secretary and civil
 lieutenant-governor in 1902, and Sir Gerald Strickland became governor
-and commander-in-chief of the Leeward Islands. Governor Sir F. Grenfell
+and commander-in-chief of the [[Leeward Islands]]. Governor Sir F. Grenfell
 was created a peer. Strenuous efforts were made to placate the Italian
 party in the administration of the educational reforms; but, as these
 were not repealed, elected members refused supply, and kept away from
@@ -977,7 +977,7 @@ the council. Persistence in this course led to the repeal by
 letters-patent of 1903 of the Strickland-Mizzi Constitution of 1887. In
 place of occasional orders in council for important matters in urgent
 cases, bureaucratic government with an official majority was again, with
-its drawbacks, fully re-established for all local affairs great and
+its [[Drawback|drawbacks]], fully re-established for all local affairs great and
 small. The representatives of the people were repeatedly re-elected,
 only to resign again and again as a protest against a restricted
 constitution.
@@ -1010,7 +1010,7 @@ constitution.
   Hardman, _Malta_, 1798-1815 (1909); A. Nieuterberg, _Malta_ (1879);
   Terrinoni, _La Presa di Malta_ (1860); Azzopardi, _Presa di Malta_
   (1864); Castagna, _Storia di Malta_ (1900); Boisredon, Ransijat,
-  _Blocus et siège de Malte_ (1802); Buchon, _Nouvelles recherches
+  _Blocus et siège de Malte_ (1802); [[Buchon]], _Nouvelles recherches
   historiques_; C. Samminniateli, Zabarella, _L' Assedio di Malta del
   1565_ (1902); Professor G. B. Mifsud, _Guida al corso di Procedura
   Penale Maltese_ (1907); P. de Bono Debono, _Storia della legislazione
@@ -1027,13 +1027,13 @@ constitution.
   their Geological Structure," _Scottish Geog. Mag._ (vol. vi., 1890);
   J. W. Gregory, "The Maltese Fossil Echinoidea and their evidence on
   the correlation of the Maltese Rocks," _Trans. Roy. Soc. Edin._ (vol.
-  xxxvi., 1892); J. H. Cook, _The Har Dalam Cavern, Malta, Evidences of
+  xxxvi., 1892); J. H. [[Cook]], _The Har Dalam Cavern, Malta, Evidences of
   Prehistoric Man in Malta_; _Collegamento geodetico delle isole maltesi
   con la Sicilia_ (1902); A. Zeri, _I porti delle isole del gruppo di
   Malta_ (1906); G. F. Bonamico, _Delle glossipietre di Malta_ (1688).
 
-  Brydone, Teonge, John Dryden jun., W. Tallack, Rev. H. Seddall,
-  Boisgolin, Rev. W. K. Bedford, W. H. Bartlett, St Priest. Msgr. Bres,
+  Brydone, Teonge, John [[Dryden]] jun., W. Tallack, Rev. H. Seddall,
+  Boisgolin, Rev. W. K. [[Bedford]], W. H. Bartlett, St Priest. Msgr. Bres,
   M. G. Borch, Oliver Drapper, John Davy, G. M. Letard, Taafe, Busuttil,
   T. MacGill, J. Quintana, have also written on Malta. For natural
   science see the works of Dr A. L. Adams, Professor E. Forbes, Captain
@@ -1049,7 +1049,7 @@ FOOTNOTES:
   [1] See T. Zammit, _The Halsaflieni prehistoric hypogeum at Casal
     Paula, Malta_ (Malta, 1910).
 
-  [2] Sometimes the pillar which represents the _baetylus_, which seems
+  [2] Sometimes the pillar which represents the _[[Baetylus|baetylus]]_, which seems
     to have been the object of worship, (see A. J. Evans in _Journal of
     Hellenic Studies_, xxi., 1901) stands free sometimes it serves as
     support to the table stone which covers the niche, and sometimes

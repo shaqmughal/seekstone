@@ -4,7 +4,7 @@ COMMONPLACE, a translation of the Gr. [Greek: koivòs tópos], i.e. a
 passage or argument appropriate to several cases; a "common-place book"
 is a collection of such passages or quotations arranged for reference
 under general heads either alphabetically or on some method of
-classification. To such a book the name _adversaria_ was given, which is
+[[Classification|classification]]. To such a book the name _adversaria_ was given, which is
 an adaptation of the Latin _adversaria scripta_, notes written on one
 side, the side opposite (_adversus_), of a paper or book. From its
 original meaning the word came to be used as meaning something

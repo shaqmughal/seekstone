@@ -20,26 +20,26 @@ agricultural land attached to it.
 Architecturally considered, the "grange" was usually a long building
 with high wooden roof, sometimes divided by posts or columns into a sort
 of nave and aisles, and with walls strongly buttressed. Sometimes these
-granges were of very great extent; one at St Leonards, Hampshire, was
+granges were of very great extent; one at St Leonards, [[Hampshire]], was
 originally 225 ft. long by 75 ft. wide, and a still larger one (303 ft.
-long) existed at Chertsey. Ancient granges, or tithe-barns, still exist
-at Glastonbury, Bradford-on-Avon, St Mary's Abbey, York, and at Coxwold.
+long) existed at [[Chertsey]]. Ancient granges, or tithe-barns, still exist
+at [[Glastonbury]], [[Bradford-On-Avon|Bradford-on-Avon]], St Mary's Abbey, York, and at Coxwold.
 A fine example at Peterborough was pulled down at the end of the 19th
 century. In France there are many examples in stone of the 12th, 13th
 and 14th centuries; some divided into a central and two side aisles by
-arcades in stone. Externally granges are noticeable on account of their
-great roofs and the slight elevation of the eaves, from 8 to 10 ft. only
+[[Arcade|arcades]] in stone. Externally granges are noticeable on account of their
+great roofs and the slight elevation of the [[Eaves|eaves]], from 8 to 10 ft. only
 in height. In the 15th century they were sometimes protected by moats
-and towers. At Ardennes in Normandy, where the grange was 154 ft. long;
+and towers. At [[Ardennes]] in Normandy, where the grange was 154 ft. long;
 Vauclerc near Laon, Picardy, 246 ft. long and in two storeys; at
-Perrieres, St Vigor, near Bayeux, and Ouilly near Falaise, all in
+Perrieres, St Vigor, near Bayeux, and Ouilly near [[Falaise]], all in
 Normandy; and at St Martin-au-Bois (Oise) are a series of fine examples.
 Attached to the abbey of Longchamps, near Paris, is one of the
 best-preserved granges in France, with walls in stone and internally
 divided into three aisles in oak timber of extremely fine construction.
 
 In the social economic movement in the United States of America, which
-began in 1867 and was known as the "Farmers' Movement," "grange" was
+began in 1867 and was known as the "[[Farmers' Movement]]," "grange" was
 adopted as the name for a local chapter of the Order of the Patrons of
 Husbandry, and the movement is thus often known as the "Grangers'
 Movement" (see FARMERS' MOVEMENT). There are a National Grange at

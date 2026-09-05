@@ -1,7 +1,7 @@
 # Beggar-My-Neighbour
 
 BEGGAR-MY-NEIGHBOUR, a simple card-game. An ordinary pack is divided
-equally between two players, and the cards are held with the backs
+equally between two players, and the [[Cards|cards]] are held with the backs
 upwards. The first player lays down his top card face up, and the
 opponent plays his top card on it, and this goes on alternately as long
 as no court-card appears; but if either player turns up a court-card,

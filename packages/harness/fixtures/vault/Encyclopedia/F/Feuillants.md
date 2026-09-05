@@ -8,7 +8,7 @@ type: note
 # Feuillants
 
 FEUILLANTS, CLUB OF THE, a political association which played a
-prominent part during the French Revolution. It was founded on the 16th
+prominent part during the [[French Revolution]]. It was founded on the 16th
 of July 1791 by several members of the Jacobin Club, who refused to sign
 a petition presented by this body, demanding the deposition of Louis
 XVI. Among the dissident members were B. Barère; and E.J. Sieyès, who
@@ -21,14 +21,14 @@ _Amis de la Constitution_, as being a sufficient indication of the line
 they intended to pursue. This consisted in opposing everything not
 contained in the Constitution; in their opinion, the latter was in need
 of no modification, and they hated alike all those who were opposed to
-it, whether _émigrés_ or Jacobins; they affected to avoid all political
+it, whether _émigrés_ or [[Jacobins]]; they affected to avoid all political
 discussion, and called themselves merely a "conservative assembly."
 
 This attitude they maintained after the Constituent Assembly had been
 succeeded by the Legislative, but not many of the new deputies became
 members of the club. With the rapid growth of extreme democratic ideas
 the Feuillants soon began to be looked upon as reactionaries, and to be
-classed with "aristocrats." They did, indeed, represent the aristocracy
+classed with "aristocrats." They did, indeed, represent the [[Aristocracy|aristocracy]]
 of wealth, for they had to pay a subscription of four louis, a large sum
 at that time, besides six livres for attendance. Moreover, the luxury
 with which they surrounded themselves, and the restaurant which they had

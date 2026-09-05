@@ -6,7 +6,7 @@ Pop. (1900) about 11,000. Argyrokastro is finely situated 1060 ft. above
 sea-level, on the eastern slopes of the Acroceraunian mountains, and
 near the left bank of the river Dhrynos, a left-hand tributary of the
 Viossa. It is the capital of a sanjak bearing the same name, and was
-formerly important as the headquarters of the local Moslem aristocracy,
+formerly important as the headquarters of the local Moslem [[Aristocracy|aristocracy]],
 partly owing to the mountainous and easily defensible nature of the
 district. It contains the ruins of an imposing castellated fort. A fine
 kind of snuff, known as _fuli_, is manufactured here. Argyrokastro has

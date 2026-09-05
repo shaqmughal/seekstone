@@ -10,8 +10,8 @@ type: source
 DESTOUCHES, PHILIPPE (1680-1754), French dramatist, whose real name was
 Néricault, was born at Tours in April 1680. When he was nineteen years
 of age he became secretary to M. de Puysieux, the French ambassador in
-Switzerland. In 1716 he was attached to the French embassy in London,
-where he remained for six years under the abbé Dubois. He contracted
+Switzerland. In 1716 he was attached to the French [[Embassy|embassy]] in London,
+where he remained for six years under the abbé [[Dubois]]. He contracted
 with a Lancashire lady, Dorothea Johnston, a marriage which was not
 avowed for some years. He drew a picture later of his own domestic
 circumstances in _Le Philosophe marié_ (1726). On his return to France
@@ -22,7 +22,7 @@ Melun, dying on the 4th of July 1754. His early comedies were: _Le
 Curieux Impertinent_ (1710), _L'Ingrat_ (1712), _L'Irrésolu_ (1713) and
 _Le Médisant_ (1715). The best of these is _L'Irrêsolu_, in which
 Dorante, after hesitating throughout the play between Julie and
-Célimène, marries Julie, but concludes the play with the reflection:--
+Célimène, [[Marri|marries]] Julie, but concludes the play with the reflection:--
 
    "J'aurais mieux fait, je crois, d'épouser Célimène."
 
@@ -43,7 +43,7 @@ Dissipateur_ (1736).
 
 
 
-DESTRUCTORS. The name destructors is applied by English municipal
+[[Destructor|DESTRUCTORS]]. The name destructors is applied by English municipal
 engineers to furnaces, or combinations of furnaces, commonly called
 "garbage furnaces" in the United States, constructed for the purpose of
 disposing by burning of town refuse, which is a heterogeneous mass of
@@ -51,9 +51,9 @@ material, including, besides general household and ash-bin refuse, small
 quantities of garden refuse, trade refuse, market refuse and often
 street sweepings. The mere disposal of this material is not, however, by
 any means the only consideration in dealing with it upon the destructor
-system. For many years past scientific experts, municipal engineers and
+system. For many years past scientific [[Expert|experts]], municipal engineers and
 public authorities have been directing careful attention to the
-utilization of refuse as fuel for steam production, and such progress in
+utilization of refuse as [[Fuel|fuel]] for steam production, and such progress in
 this direction has been made that in many towns its calorific value is
 now being utilized daily for motive-power purposes. On the other hand,
 that proper degree of caution which is obtained only by actual
@@ -85,7 +85,7 @@ The composition of house refuse, which must obviously affect its
 calorific value, varies considerably in different localities, according
 to the condition, habits and pursuits of the people. Towns situated in
 coal-producing districts invariably yield a refuse richer in unconsumed
-carbon than those remote therefrom. It is also often found that the
+[[Carbon|carbon]] than those remote therefrom. It is also often found that the
 refuse from different parts of the same town varies considerably--that
 from the poorest quarters frequently proving of greater calorific value
 than that from those parts occupied by the rich and middle classes. This
@@ -94,9 +94,9 @@ classes in neglecting to sift the ashes from their fires before
 disposing of them in the ash-bin. In Bermondsey, for example, the refuse
 has been found to possess an unusually high calorific value, and this
 experience is confirmed in other parts of the metropolis. Average refuse
-consists of breeze (cinder and ashes), coal and coke, fine dust,
+consists of [[Breeze|breeze]] (cinder and ashes), coal and coke, fine [[Dust|dust]],
 vegetable and animal matters, straw, shavings, cardboard, bottles, tins,
-iron, bones, broken crockery and other matters in very variable
+iron, [[Bone|bones]], broken crockery and other matters in very variable
 proportions according to the character of the district from which it is
 collected. In London the quantity of house refuse amounts approximately
 to 1¼ million tons per annum, which is equivalent to from 4 cwt. to 5
@@ -104,7 +104,7 @@ cwt. per head per annum, or to from 200 to 250 tons per 1000 of the
 population per annum. Statistics, however, vary widely in different
 districts. In the vicinity of the metropolis the amount varies from 2.5
 cwt. per head per annum at Leyton to 3.5 cwt. at Hornsey, and to as much
-as 7 cwt. at Ealing. In the north of England the total house refuse
+as 7 cwt. at [[Ealing]]. In the north of England the total house refuse
 collected, exclusive of street sweepings, amounts on the average to 8
 cwt. per head per annum. Speaking generally, throughout the country an
 amount of from 5 cwt. to 10 cwt. per head per annum should be allowed
@@ -122,10 +122,10 @@ both from a commercial and a sanitary point of view. Various methods
 have been practised. Sometimes the household ashes, &c., are mixed with
 pail excreta, or with sludge from a sewage farm, or with lime, and
 disposed of for agricultural purposes, and sometimes they are conveyed
-in carts or by canal to outlying and country districts, where they are
+in [[Cart|carts]] or by canal to outlying and country districts, where they are
 shot on waste ground or used to fill up hollows and raise the level of
 marshland. Such plans are economical when suitable outlets are
-available. To take the refuse out to sea in hopper barges and sink it in
+available. To take the refuse out to sea in hopper [[Barge|barges]] and sink it in
 deep water is usually expensive and frequently unsatisfactory. At
 Bermondsey, for instance, the cost of barging is about 2s. 9d. a ton,
 while the material may be destroyed by fire at a cost of from 10d. to
@@ -134,11 +134,11 @@ works. In other cases, as at Chelsea and various dust contractors'
 yards, the refuse is sorted and its ingredients are sold; the fine dust
 may be utilized in connexion with manure manufactories, the pots and
 pans employed in forming the foundations of roads, and the cinders and
-vegetable refuse burnt to generate steam. In the Arnold system, carried
+vegetable refuse burnt to generate steam. In the [[Arnold]] system, carried
 out in Philadelphia and other American towns, the refuse is sterilized
 by steam under pressure, the grease and fertilizing substances being
 extracted at the same time; while in other systems, such as those of
-Weil and Porno, and of Defosse, distillation in closed vessels is
+Weil and Porno, and of Defosse, [[Distillation|distillation]] in closed vessels is
 practised. But the destructor system, in which the refuse is burned to
 an innocuous clinker in specially constructed furnaces, is that which
 must finally be resorted to, especially in districts which have become
@@ -150,23 +150,23 @@ Types of destructors.
 Various types of furnaces and apparatus have from time to time been
 designed, and the subject has been one of much experiment and many
 failures. The principal towns in England which took the lead in the
-adoption of the refuse destructor system were Manchester, Birmingham,
-Leeds, Heckmondwike, Warrington, Blackburn, Bradford, Bury, Bolton,
-Hull, Nottingham, Salford, Ealing and London. Ordinary furnaces, built
+adoption of the refuse destructor system were Manchester, [[Birmingham]],
+[[Leeds]], Heckmondwike, Warrington, Blackburn, [[Bradford]], [[Bury]], [[Bolton]],
+[[Hull]], Nottingham, Salford, Ealing and London. Ordinary furnaces, built
 mostly by dust contractors, began to come into use in London and in the
 north of England in the second half of the 19th century, but they were
 not scientifically adapted to the purpose, and necessitated the
-admixture of coal or other fuel with the refuse to ensure its cremation.
+admixture of coal or other fuel with the refuse to ensure its [[Cremation|cremation]].
 The Manchester corporation erected a furnace of this description about
-the year 1873, and Messrs Mead & Co. made an unsatisfactory attempt in
-1870 to burn house refuse in closed furnaces at Paddington. In 1876
+the year 1873, and Messrs [[Mead]] & Co. made an unsatisfactory attempt in
+1870 to [[Burn|burn]] house refuse in closed furnaces at Paddington. In 1876
 Alfred Fryer erected his destructor at Manchester, and several other
 towns adopted this furnace shortly afterwards. Other furnaces were from
 time to time brought before the public, among which may be mentioned
 those of Pearce and Lupton, Pickard, Healey, Thwaite, Young, Wilkinson,
-Burton, Hardie, Jacobs and Odgen. In addition to these the "Beehive" and
+[[Burton]], Hardie, [[Jacobs]] and Odgen. In addition to these the "Beehive" and
 the "Nelson" destructors became well known. The former was introduced by
-Stafford and Pearson of Burnley, and one was erected in 1884 in the
+Stafford and Pearson of [[Burnley]], and one was erected in 1884 in the
 parish yard at Richmond, Surrey, but the results being unsatisfactory,
 it was closed during the following year. The "Nelson" furnace, patented
 in 1885 by Messrs Richmond and Birtwistle, was erected at
@@ -182,17 +182,17 @@ Stirling.
    Fryer's.
 
    The general arrangement of the destructor patented[1] by Alfred Fryer
-   in 1876 is illustrated in fig. 1. An installation upon this principle
+   in 1876 is illustrated in fig. 1. An [[Installation|installation]] upon this principle
    consists of a number of furnaces or cells, usually arranged in pairs
-   back to back, and enclosed in a rectangular block of brickwork having
+   back to back, and enclosed in a rectangular block of [[Brickwork|brickwork]] having
    a flat top, upon which the house refuse is tipped from the carts.
 
    [Illustration: FIG. 2.--Horsfall's Improved Destructor.]
 
    A large main flue, which also forms the dust chamber, is placed
-   underneath the furnace hearths. The Fryer furnace ordinarily burns
+   underneath the furnace hearths. The Fryer furnace ordinarily [[Burns|burns]]
    from 4 to 6 tons of refuse per cell per 24 hours. It will be observed
-   that the outlets for the products of combustion are placed at the
+   that the outlets for the products of [[Combustion|combustion]] are placed at the
    back near the refuse feed opening, an arrangement which is imperfect
    in design, inasmuch as while a charge of refuse is burning upon the
    furnace bars the charge which is to follow lies on the dead hearth
@@ -220,7 +220,7 @@ Stirling.
    labour--the cells being fed, stoked and clinkered automatically.
    There is no drying hearth, and the refuse carts tip direct into a
    shoot or hopper at the back which conducts the material directly on
-   to movable eccentric grate bars. These automatically traverse the
+   to movable [[Eccentric|eccentric]] grate bars. These automatically traverse the
    material forward into the furnace, and finally push it against a
    flap-door which opens and allows it to fall out. This apparatus is
    adapted for dealing with screened rather than unscreened refuse,
@@ -253,7 +253,7 @@ Stirling.
    the furnace over the dead plate; thus the gases distilled from the
    raw refuse are caused to pass on their way to the main flue over the
    hottest part of the furnace and through the flue opening in the
-   red-hot reverberatory arch. The steam jet, which plays an important
+   red-hot reverberatory [[Arch|arch]]. The steam jet, which plays an important
    part in the Horsfall furnace, forces air into the closed ash-pit at a
    pressure of about ¾ to 1 in. of water, and in this way a temperature
    varying from 1500° to 2000° F., as tested by a thermo-electric
@@ -263,8 +263,8 @@ Stirling.
    noxious vapours from reaching the chimney. The cells being charged
    and clinkered in rotation, when the fire in one is green, in the
    others it is at its hottest, and the products of combustion do not
-   reach the boiler surfaces until after they have been mixed in the
-   main flue. The cast iron boxes which are provided at the sides of the
+   reach the [[Boiler|boiler]] surfaces until after they have been mixed in the
+   main flue. The cast iron [[Box|boxes]] which are provided at the sides of the
    furnaces, and through which the blast air is conveyed on its way to
    the grate, prevent the adhesion of clinker to the side walls of the
    cells, and very materially preserve the brickwork, which otherwise
@@ -279,7 +279,7 @@ Stirling.
    rise to no nuisance, and may be located in populous neighbourhoods
    without danger to the public health or comfort. Installations were
    put down at Fulham (1901), Hammerton Street, Bradford (1900), West
-   Hartlepool (1904), and other places, and the surplus power generated
+   [[Hartlepool]] (1904), and other places, and the surplus power generated
    is employed in the production of electric energy.
 
 
@@ -325,7 +325,7 @@ Stirling.
    Rochdale, Hereford, Darwen, Nelson, Plumstead and Woolwich, at each
    of which towns the production of steam is an important consideration.
    Cells have also been laid down at Burton, Hunstanton, Blackburn and
-   Shipley, and more recently at Burnley, Cleckheaton, Lancaster,
+   Shipley, and more recently at Burnley, Cleckheaton, [[Lancaster]],
    Nelson, Sheerness and Weymouth. In general arrangement the destructor
    differs considerably from those previously described. The grates are
    placed side by side without separation except by dead plates, but, in
@@ -361,7 +361,7 @@ Stirling.
    a grate area of 25 sq. ft. The evaporative efficiency of the Rochdale
    furnaces varies from 1.39 lb. to 1.87 lb. of water (actual) per 1
    lb. of refuse burned, and an average steam-pressure of about 114
-   lb. per square inch is maintained. The cost of labour and
+   lb. per square [[Inch|inch]] is maintained. The cost of labour and
    supervision amounts to 10d. per ton of refuse dealt with. A
    Lancashire boiler (22 ft. by 6 ft. 6 in.) at the Sewage Outfall
    Works, Hereford, evaporates with refuse fuel 2980 lb. of water per
@@ -377,7 +377,7 @@ Stirling.
    The Beaman and Deas destructor[5] (fig. 4) has attracted much
    attention from public authorities, and successful installations are
    in operation at Warrington, Dewsbury, Leyton, Canterbury, Llandudno,
-   Colne, Streatham, Rotherhithe, Wimbledon, Bolton and elsewhere. Its
+   [[Colne]], Streatham, Rotherhithe, Wimbledon, Bolton and elsewhere. Its
    essential features include a level-fire grate with ordinary type
    bars, a high-temperature combustion chamber at the back of the cells,
    a closed ash-pit with forced draught, provision for the admission of
@@ -392,7 +392,7 @@ Stirling.
    ordinary stationary type. Vertically, under the fire-bridge, is an
    air-conduit, from the top of which lead air blast pipes 12 in. in
    diameter discharging into a hermetically closed ash-pit under the
-   grate area. The air is supplied from fans (Schiele's patent) at a
+   grate area. The air is supplied from [[Fan|fans]] (Schiele's patent) at a
    pressure of from 1½ to 2 in. of water, and is controlled by means of
    baffle valves worked by handles on either side of the furnace,
    conveniently placed for the attendant. The forced draught tends to
@@ -401,10 +401,10 @@ Stirling.
    red-hot fire-bridge, which is perforated longitudinally with
    air-passages connected with a small flue leading from a grated
    opening on the face of the brickwork outside; in this way an
-   auxiliary supply of heated oxygen is fed into the combustion chamber.
+   [[Auxiliary|auxiliary]] supply of heated oxygen is fed into the combustion chamber.
    This chamber, in which a temperature approaching 2000° F. is
-   attained, is fitted with large iron doors, sliding with balance
-   weights, which allow the introduction of infected articles, bad meat,
+   attained, is fitted with large iron doors, sliding with [[Balance|balance]]
+   weights, which allow the introduction of infected articles, bad [[Meat|meat]],
    &c., and also give access for the periodical removal of fine ash from
    the flues. The high temperatures attained are utilized by installing
    one boiler, preferably of the Babcock & Wilcox water-tube type, for
@@ -439,7 +439,7 @@ Stirling.
    Heenan.
 
    The Heenan furnaces are in operation at Farnworth, Gloucester,
-   Barrow-in-Furness, Northampton, Mansfield, Wakefield, Blackburn,
+   Barrow-in-Furness, Northampton, [[Mansfield]], Wakefield, Blackburn,
    Levenshulme, Kings Norton, Worthing, Birmingham and other places, and
    are now dealing with over 1200 tons of refuse per day. The general
    arrangement of this destructor somewhat resembles that of the Meldrum
@@ -488,7 +488,7 @@ Stirling.
    downwards, which are supported by a series of small wheels running on
    a central rail. A special feeding opening in the reverberatory arch
    of the cell of the width of the truck, situated over the drying
-   hearth, is formed by a firebrick arch fitted into a frame capable of
+   hearth, is formed by a firebrick arch fitted into a [[Frame|frame]] capable of
    being moved backwards and forwards by means of a lever. The charging
    truck, when empty, is brought under the tipping platform, and the
    carts tip directly into it. When one of the cells has to be fed, the
@@ -498,7 +498,7 @@ Stirling.
    covering arch. Then the movable arch is rolled back, the doors are
    released, and the contents are discharged into the cell, so that no
    handling of the refuse is required from tipping to feeding. This
-   apparatus is in operation at Liverpool, Shoreditch, Cambridge and
+   apparatus is in operation at [[Liverpool]], Shoreditch, Cambridge and
    elsewhere.
 
    Various forms of patent movable fire-bars have been employed in
@@ -531,7 +531,7 @@ Stirling.
 
    Travelling cranes for transporting refuse and feeding cells are
    sometimes employed at destructor stations, as, for example, at
-   Hamburg. Here the transportation of the refuse is effected by means
+   [[Hamburg]]. Here the transportation of the refuse is effected by means
    of specially constructed water-tight iron wagons, containing
    detachable boxes provided with two double-flap doors at the top for
    loading, and one flap-door at the back for unloading. There are
@@ -570,7 +570,7 @@ into the main flue, and thence go forward to the boilers, where their
 heat is absorbed and utilized. Forced draught, or in many cases, hot
 blast, is supplied from fans through a conduit commanding the whole of
 the cells. An inclined roadway, of as easy gradient as circumstances
-will admit, is provided for the conveyance of the refuse to the tipping
+will admit, is provided for the [[Conveyance|conveyance]] of the refuse to the tipping
 platform, from which it is fed through feed-holes into the furnaces. In
 the installation of a destructor, the choice of suitable plant and the
 general design of the works must be largely dependent upon local
@@ -616,7 +616,7 @@ FOOTNOTES:
     Deas Sludge Furnace, Patent No. 13,029 (1894).
 
   [6] _Compte Rendu des Travaux de la Société des Ingénieurs Civils de
-    France_, folio 775 (June 1897).
+    France_, [[Folio|folio]] 775 (June 1897).
 
   [7] Patent No. 15,482 (1885).
 

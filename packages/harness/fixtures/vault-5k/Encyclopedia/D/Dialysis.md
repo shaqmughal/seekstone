@@ -1,14 +1,14 @@
 # Dialysis
 
 DIALYSIS (from the Gr. [Greek: dia], through, [Greek: luein], to
-loosen), in chemistry, a process invented by Thomas Graham for
+loosen), in [[Chemistry|chemistry]], a process invented by Thomas [[Graham]] for
 separating colloidal and crystalline substances. He found that solutions
 could be divided into two classes according to their action upon a
-porous diaphragm such as parchment. If a solution, say of salt, be
+porous [[Diaphragm|diaphragm]] such as parchment. If a solution, say of salt, be
 placed in a drum provided with a parchment bottom, termed a "dialyser,"
 and the drum and its contents placed in a larger vessel of water, the
 salt will pass through the membrane. If the salt solution be replaced by
-one of glue, gelatin or gum, it will be found that the membrane is
+one of glue, [[Gelatin|gelatin]] or [[Gum|gum]], it will be found that the membrane is
 impermeable to these solutes. To the first class Graham gave the name
 "crystalloids," and to the second "colloids." This method is
 particularly effective in the preparation of silicic acid. By adding
@@ -22,7 +22,7 @@ through the parchment, while the silicic acid will be retained.
 DIAMAGNETISM. Substances which, like iron, are attracted by the pole of
 an ordinary magnet are commonly spoken of as magnetic, all others being
 regarded as non-magnetic. It was noticed by A. C. Becquerel in 1827 that
-a number of so-called non-magnetic bodies, such as wood and gum lac,
+a number of so-called non-magnetic bodies, such as wood and gum [[Lac|lac]],
 were influenced by a very powerful magnet, and he appears to have formed
 the opinion that the influence was of the same nature as that exerted
 upon iron, though much feebler, and that all matter was more or less

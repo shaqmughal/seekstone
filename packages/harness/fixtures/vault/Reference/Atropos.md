@@ -1,6 +1,6 @@
 # Atropos
 
-ATROPOS, in Greek mythology, the eldest of the three Fates (see FATE).
+ATROPOS, in Greek mythology, the eldest of the three [[Fate|Fates]] (see FATE).
 Her name, the "Unalterable" ([Greek: a]- privative, and [Greek:
 trepein], to turn), indicates her function, that of rendering the
 decisions of her sisters irreversible or immutable. Atropos is most

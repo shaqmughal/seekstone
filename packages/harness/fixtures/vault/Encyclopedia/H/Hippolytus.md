@@ -11,8 +11,8 @@ HIPPOLYTUS, THE CANONS OF. This book stands at the head of a series of
 Church Orders, which contain instructions in regard to the choice and
 ordination of Christian ministers, regulations as to widows and virgins,
 conditions of reception of converts from heathenism, preparation for and
-administration of baptism, rules for the celebration of the eucharist,
-for fasting, daily prayers, charity suppers, memorial meals,
+administration of baptism, rules for the celebration of the [[Eucharist|eucharist]],
+for [[Fasting|fasting]], daily prayers, charity suppers, memorial meals,
 first-fruits, &c. We shall give (1) a description of the book as we have
 it at present; (2) a brief statement of its relation to allied
 documents; (3) some remarks on the evidence for its date and authorship.
@@ -23,7 +23,7 @@ called to the book by Wansleben and Ludolf towards the end of the 17th
 century, but it was only in 1870 that it was edited by Haneberg, who
 added a Latin translation, and so made it generally accessible. In 1891
 H. Achelis reproduced this translation in a revised form, embodying it
-in a synopsis of allied documents. He suspected much interpolation and
+in a synopsis of allied documents. He suspected much [[Interpolation|interpolation]] and
 derangement of order, and consequently rearranged its contents with a
 free hand. In 1900 a German translation was made by H. Riedel, based on
 fresh MSS. These showed that the book, as hitherto edited, had been
@@ -50,7 +50,7 @@ added to our materials for the study of the book.
   the prayer of his ordination follows (5). Canons 6-9 deal with various
   classes in the Church. One who has suffered punishment for the faith
   (6) is to be counted a presbyter without ordination: "his confession
-  is his ordination." Readers and sub-deacons (7) are given the Gospel,
+  is his ordination." Readers and sub-deacons (7) are given the [[Gospel]],
   but are not ordained by laying-on of hands. A claim to ordination on
   the ground of gifts of healing (8) is to be admitted, if the facts are
   clear and the healing is from God. Widows are not ordained (9):
@@ -65,7 +65,7 @@ added to our materials for the study of the book.
   O devil, and all thy following"; and, again, immediately after the
   baptism. As he stands in the water, he declares his faith in response
   to an interrogatory creed; and after each of the three clauses he is
-  immersed. After the second anointing the bishop gives thanks "for that
+  immersed. After the second [[Anointing|anointing]] the bishop gives thanks "for that
   Thou hast made them worthy that they should be born again, and hast
   poured out Thy Holy Ghost upon them, so that they may belong, each one
   of them, to the body of the Church": he signs them with the cross on
@@ -78,7 +78,7 @@ added to our materials for the study of the book.
   church, and the fast of the passover-week. Canon 23 seems as if it
   closed the series, speaking, as it does, of "our brethren the bishops"
   who in their cities have made regulations "according to the commands
-  of our fathers the apostles": "let none of our successors alter them;
+  of our fathers the [[Apostle|apostles]]": "let none of our successors alter them;
   because it saith that the teaching is greater than the sea, and hath
   no end." We pass on, however, to regulations about the sick (24) who
   are to be visited by the bishop, "because it is a great thing for the
@@ -87,9 +87,9 @@ added to our materials for the study of the book.
   church-services. The "seven hours" are specified, with reasons for
   their observance (25): attendance at sermons is urged (26), "for the
   Lord is in the place where his lordship is proclaimed" (comp.
-  _Didache_ 4, part of the _Two Ways_). When there are no prayers in
+  _[[Didache]]_ 4, part of the _Two Ways_). When there are no prayers in
   church, reading at home is enjoined (27): "let the sun each morning
-  see the book upon thy knees" (comp. Ath. _Ad virg._, S 12, "Let the
+  see the book upon thy [[Knee|knees]]" (comp. Ath. _Ad virg._, S 12, "Let the
   sun when he ariseth see the book in thy hands"). Prayer must be
   preceded by the washing of the hands. "No believer must take food
   before communicating, especially on fast-days": only believers may
@@ -112,7 +112,7 @@ added to our materials for the study of the book.
   strange lines, of the temptations of our Lord, and is specially warned
   against spiritual pride and contempt of other men. The book closes
   with an appeal for love and mutual service, based on the parables in
-  St Matthew xxv.
+  St [[Matthew]] xxv.
 
 2. It is impossible to estimate the position of the Canons of Hippolytus
 without some reference to allied documents (see APOSTOLICAL
@@ -149,8 +149,8 @@ seventh book similarly expands and modifies the _Didache_ its eighth
 book begins by treating of "spiritual gifts," and then in c. 3 passes on
 to expand in like manner the Egyptian Church Order. The hand which has
 wrought up all these documents has been shown to be that of the
-interpolator of the Ignatian Epistles in the longer Greek recension. (d)
-The _Canons of Basil_ is the title of an Arabic work, of which a German
+interpolator of the Ignatian [[Epistle|Epistles]] in the longer Greek recension. (d)
+The _Canons of [[Basil]]_ is the title of an Arabic work, of which a German
 translation has been given us by Riedel, who thinks that they have come
 through Coptic from an original Greek book. They embody, in a modified
 form, considerable portions of the Canons of Hippolytus.
@@ -177,7 +177,7 @@ contradictory regulations (e.g. cc. 2 and 4 of the presbyters), and also
 suggest that they have received a considerable supplement (after c. 23).
 There is, however, no doubt that they present us with a more primitive
 stage of Church life than we find in the Egyptian Church Order. The
-mention of sub-deacons (which, after Riedel's fresh manuscript evidence,
+mention of sub-deacons (which, after Riedel's fresh [[Manuscript|manuscript]] evidence,
 cannot now be dismissed as due to interpolation) makes it difficult to
 assign a date much earlier than the middle of the 3rd century.
 
@@ -202,15 +202,15 @@ the attribution of a Coptic discourse on the _Dormitio Mariae_ to
 "Evodius, archbishop of the great city Rome, who was the second after
 Peter the apostle" (_Texts and Studies_, iv. 2-44)--Evodius being by
 tradition first bishop of Antioch. A whole group of books on Church
-Order bears the name of Clement of Rome; and the attribution of our
+Order bears the name of [[Clement]] of Rome; and the attribution of our
 canons to Hippolytus may be only an example of the same tendency. The
 fact that Hippolytus wrote a treatise _Concerning Spiritual Gifts_, and
 that some such treatise is not only referred to in the Latin preface to
 the Egyptian Church Order, but is actually found at the beginning of
 book viii. of the Apostolic Constitutions, introduces an interesting
 complication; but we cannot here pursue the matter further. Dom Morin's
-ingenious attribution of the canons to Dionysius of Alexandria (on the
-ground of Eusebius, _H.E._ vi. 46., 5) cannot be accepted in view of the
+ingenious attribution of the canons to [[Dionysius]] of Alexandria (on the
+ground of [[Eusebius]], _H.E._ vi. 46., 5) cannot be accepted in view of the
 broader church policy which that writer represents. If the Hippolytean
 authorship be given up, it is probable that Egypt will make the
 strongest claim to be the locality in which the canons were compiled in

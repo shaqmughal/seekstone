@@ -37,7 +37,7 @@ goniometer devised by Carangeot in 1783.
   precision, and is always used for the accurate measurement of the
   angles when small crystals with bright faces are available. As a rule,
   the smaller the crystal the more even are its faces, and when these
-  are smooth and bright they reflect sharply defined images of a bright
+  are smooth and bright they reflect sharply defined [[Image|images]] of a bright
   object. By turning the crystal about an axis parallel to the edge
   between two faces, the image reflected from a second face may be
   brought into the same position as that formerly occupied by the image
@@ -132,7 +132,7 @@ goniometer devised by Carangeot in 1783.
   the angles between the faces be measured directly; the positions of
   all the other faces, which need be observed only once, are fixed by
   the simultaneous readings of the two circles. These readings,
-  corresponding to the polar distance and azimuth, or latitude and
+  corresponding to the polar distance and azimuth, or [[Latitude|latitude]] and
   longitude readings of astronomical telescopes, must be plotted on a
   projection before the symmetry of the crystal is apparent; and
   laborious calculations are necessary in order to determine the indices

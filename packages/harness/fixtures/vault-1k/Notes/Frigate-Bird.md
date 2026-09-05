@@ -55,7 +55,7 @@ large companies, and O. Salvin has graphically described (_Ibis_, 1864,
 p. 375) one of their settlements off the coast of British Honduras,
 which he visited in May 1862. Here they chose the highest
 mangrove-trees[3] on which to build their frail nests, and seemed to
-prefer the leeward side. The single egg laid in each nest has a white
+prefer the leeward side. The single [[Egg|egg]] laid in each nest has a white
 and chalky shell very like that of a cormorant's. The nestlings are
 clothed in pure white down, and so thickly as to resemble puff-balls.
 When fledged, the beak, head, neck and belly are white, the legs and

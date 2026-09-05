@@ -9,7 +9,7 @@ topic: monarchy
 BILLINGTON, ELIZABETH (1768?-1818), British opera-singer, was born in
 London, her father being a German musician named Weichsel, and her
 mother a popular vocalist. She was trained in music, and at fourteen
-sang at a concert in Oxford. In 1783 she married James Billington, a
+sang at a [[Concert|concert]] in Oxford. In 1783 she married James Billington, a
 double-bass player. She had a voice of unusual compass, and as Rosetta
 in _Love in a Village_ she had a great success at Covent Garden in 1786,
 being engaged for the season at a salary of £1000, a large sum for those
@@ -19,7 +19,7 @@ and her husband went to Italy, and Mrs Billington appeared at Naples
 her by F. Bianchi), at Florence, at Venice and at Milan. Her husband
 died suddenly during the tour, and in 1799 she married a Frenchman named
 Felissent, whom, however, she left in 1801. Returning to England she
-appeared alternately at Covent Garden and Drury Lane, her professional
+appeared alternately at Covent Garden and [[Drury]] [[Lane]], her professional
 income during 1801 amounting to between £10,000 and £15,000.
 Henceforward she sang in Italian opera till the end of 1810, when
 ill-health forced her to abandon her profession. In 1817 she was

@@ -5,7 +5,7 @@ dialect, was born near Manchester, the son of humble parents, and started
 life in a textile factory, educating himself in his spare time. At about
 the age of thirty he began to contribute articles to local papers, and the
 republication of some of his sketches of Lancashire character in _A Summer
-Day in Daisy Nook_ (1859) attracted attention. In 1863 he definitely took
+Day in [[Daisy]] Nook_ (1859) attracted attention. In 1863 he definitely took
 to journalism and literature as his work, publishing in 1863 his
 _Chronicles of Waverlow_, and in 1864 a long story called _The Layrock of
 Langley Side_ (afterwards dramatized), followed by others. He started in

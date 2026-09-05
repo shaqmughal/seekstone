@@ -19,7 +19,7 @@ remained for the rest of his life. To his various court dignities that
 of organist at St Stephen's cathedral was added in 1704. He married the
 daughter of the government secretary Schnitzbaum. As a proof of the high
 favour in which he was held by the art-loving Charles VI., it is told
-that at the coronation of that emperor as king of Bohemia in 1723 an
+that at the [[Coronation|coronation]] of that emperor as king of Bohemia in 1723 an
 opera, _La Constanza e la Fortezza_, especially composed by Fux for the
 occasion, was given at Prague in an open-air theatre. Fux at the time
 was suffering from gout, but the emperor had him carried in a litter all
@@ -67,16 +67,16 @@ of the mainspring (see WATCH); and the application of the same term to a
 special kind of match may also be due to its resemblance to a spindle.
 Again, in heraldry, another form, "fusil," derived through the French
 from a Late Lat. diminutive (_fusillus_ or _fusellus_) of this same
-_fusus_, is used of a bearing, an elongated lozenge. According to other
+_fusus_, is used of a bearing, an elongated [[Lozenge|lozenge]]. According to other
 etymological authorities, however (see Skeat, _Etym. Dict._, 1898),
 "fuze" or "fuse," and "fusee" in the sense of match, are all forms
 derived through the Fr. fusil, from Late Lat. _focile_, steel for
-striking fire from a flint, from Lat. _focus_, hearth. The Fr. _fusil_
+striking fire from a flint, from Lat. _[[Focus|focus]]_, hearth. The Fr. _fusil_
 and English "fusil" were thus transferred to the "firelock," i.e. the
 light musket of the 17th century (see FUSILIER).
 
-In electrical engineering a "fuse" (always so spelled) is a safety
-device, commonly consisting of a strip or wire of easily fusible metal,
+In electrical [[Engineering|engineering]] a "fuse" (always so spelled) is a safety
+device, commonly consisting of a strip or wire of easily [[Fusible Metal|fusible metal]],
 which melts and thus interrupts the circuit of which it forms part,
 whenever that circuit, through some accident or derangement, is caused
 to carry a current larger than that for which it is intended. In this

@@ -9,7 +9,7 @@ type: reference
 
 HERO (Gr. [Greek: heros]), a term specially applied to warriors of
 extraordinary strength and courage, and generally to all who were
-distinguished from their fellows by superior moral, physical or
+distinguished from their [[Fellows|fellows]] by superior moral, physical or
 intellectual qualities. No satisfactory derivation of the word has been
 suggested.
 
@@ -38,7 +38,7 @@ Only one who has been a man can become a hero. The heroes are spirits of
 the dead, not demi-gods; their position is not intermediate between gods
 and men, but by the side of these they exist as a separate class.
 
-In Homer the term is applied especially to warrior princes, to kings and
+In [[Homer]] the term is applied especially to warrior princes, to kings and
 kings' sons, even to distinguished persons of lower rank, and free men
 generally. In Hesiod it is chiefly confined to those who fought before
 Troy and Thebes; in view of their supposed divine origin, he calls them
@@ -49,18 +49,18 @@ than men, even if of divine origin and of superior strength and prowess.
 But neither in Homer nor in Hesiod is there any trace of the idea that
 the heroes after death had any power for good or evil over the lives of
 those who survived them; and consequently, no cult. Nevertheless, traces
-of an earlier ancestor worship appear, e.g. in funeral games in honour
+of an earlier ancestor worship appear, e.g. in funeral [[Games|games]] in honour
 of Patroclus and other heroes, while the Hesiodic account of the five
 ages of man is a reminiscence of the belief in the continued existence
 of souls in a higher life. This pre-historic worship and belief, for a
 time obscured, were subsequently revived. According to Porphyry (_De
-abstinentia_, iv. 22), Draco ordered the inhabitants of Attica to honour
+abstinentia_, iv. 22), [[Draco]] ordered the inhabitants of Attica to honour
 the gods and heroes of their country "in accordance with the usage of
 their fathers" with offerings of first fruits and sacrificial cakes
 every year, thereby clearly pointing to a custom of high antiquity.
 Solon also ordered that the tombs of the heroes should be treated with
-the greatest respect, and Cleisthenes (q.v.) sought to create a
-pan-Athenian enthusiasm by calling his new tribes after Attic heroes and
+the greatest respect, and [[Cleisthenes]] (q.v.) sought to create a
+pan-Athenian [[Enthusiasm|enthusiasm]] by calling his new tribes after [[Attic]] heroes and
 setting up their statues in the Agora. Heroic honours were at first
 bestowed upon the founders of a colony or city, and the ancestors of
 families; if their name was not known, one was adopted from legend. In
@@ -79,12 +79,12 @@ largely instrumental in promoting hero-worship and keeping alive its due
 observance. Special importance was attached to the grave of the hero and
 to his bodily remains, with which the spirit of the departed was
 inseparably connected. The grave was regarded as his place of abode,
-from which he could only be absent for a brief period; hence his bones
+from which he could only be absent for a brief period; hence his [[Bone|bones]]
 were fetched from abroad (e.g. Cimon brought those of Theseus from
 Scyros), or if they could not be procured, at least a cenotaph was
 erected in his honour. Their relics also were carefully preserved: the
 house of Cadmus at Thebes, the hut of Orestes at Tegea, the stone on
-which Telamon had sat at Salamis (in Cyprus). Special shrines ([Greek:
+which Telamon had sat at Salamis (in [[Cyprus]]). Special shrines ([Greek:
 heroa]) were also erected in their honour, usually over their graves. In
 these shrines a complete set of armour was kept, in accordance with the
 idea that the hero was essentially a warrior, who on occasion came forth
@@ -94,21 +94,21 @@ were supposed to exercise an influence on human affairs, though not to
 the same extent, their sphere of action being confined to their own
 localities. Amongst the earliest known historical examples of the
 elevation of the dead to the rank of heroes are Timesius the founder of
-Abdera, Miltiades, son of Cypselus, Harmodius and Aristogiton and
+Abdera, Miltiades, son of Cypselus, [[Harmodius]] and Aristogiton and
 Brasidas, the victor of Amphipolis, who ousted the local Athenian hero
 Hagnon. In course of time admission to the rank of a hero became far
-more common, and was even accorded to the living, such as Lysimachus in
-Samothrace and the tyrant Nicias of Cos. Antiochus of Commagene
+more common, and was even accorded to the living, such as [[Lysimachus]] in
+Samothrace and the tyrant Nicias of Cos. [[Antiochus]] of Commagene
 instituted an order of priests to celebrate the anniversary of his birth
-and coronation in a special sanctuary, and the kings of Pergamum claimed
+and [[Coronation|coronation]] in a special sanctuary, and the kings of Pergamum claimed
 divine honours for themselves and their wives during their lifetime. The
 birthday of Eumenes was regularly kept, and every month sacrifice was
 offered to him and games held in his honour. In addition to persons of
 high rank, poets, legendary and others (Linus, Orpheus, Homer, Aeschylus
-and Sophocles), legislators and physicians (Lycurgus, Hippocrates), the
-patrons of various trades or handicrafts (artists, cooks, bakers,
+and Sophocles), legislators and physicians ([[Lycurgus]], [[Hippocrates]]), the
+patrons of various trades or handicrafts (artists, [[Cook|cooks]], [[Baker|bakers]],
 potters), the heads of philosophical schools (Plato, Democritus,
-Epicurus) received the honours of a cult. At Teos incense was offered
+[[Epicurus]]) received the honours of a cult. At Teos [[Incense|incense]] was offered
 before the statue of a flute-player during his lifetime. In some
 countries the honour became so general that every man after death was
 described as a hero in his epitaph--in Thessaly even slaves.
@@ -130,18 +130,18 @@ by his attribute the snake, and in many cases he appears under that form
 himself. On special occasions a sacrificial meal of cooked food was set
 out for the heroes, of which they were solemnly invited to partake. The
 fullest description of such a festival is the account given by Plutarch
-(_Aristides_, 21) of the festival celebrated by the Plataeans in honour
+(_[[Aristides]]_, 21) of the festival celebrated by the Plataeans in honour
 of their countrymen who had fallen at the battle of Plataea. On the 16th
 of the month Maimacterion, a long procession, headed by a trumpeter
 playing a warlike air, set out for the graves; wagons decked with myrtle
 and garlands of flowers followed, young men (who must be of free birth)
-carried jars of wine, milk, oil and perfumes; next came the black bull
+carried jars of wine, milk, oil and perfumes; next came the black [[Bull|bull]]
 destined for the sacrifice, the rear being brought up by the archon, who
 wore the purple robe of the general, a naked sword in one hand, in the
 other an urn. When he came near the tombs, he drew some water with
-which he washed the gravestones, afterwards anointing them with perfume;
+which he washed the gravestones, afterwards [[Anointing|anointing]] them with perfume;
 he then sacrificed the bull on the altar calling upon Zeus Chthonios and
-Hermes Psychopompos, and inviting them in company with the heroes to the
+[[Hermes]] Psychopompos, and inviting them in company with the heroes to the
 festival of blood. Finally, he poured a libation of wine with the words:
 "I drink to those who died for the freedom of the Hellenes."
 
@@ -160,7 +160,7 @@ _Teutonic Legend._
 Many of the chief characteristics of the ancient Greek heroes are
 reproduced in those of the Teutonic North, the parallel being in some
 cases very striking; Siegfried, for instance, like Achilles, is
-vulnerable only in one spot, and Wayland Smith, like Hephaestus, is
+vulnerable only in one spot, and Wayland Smith, like [[Hephaestus]], is
 lame. Superhuman qualities and powers, too, are commonly ascribed to
 both, an important difference, however, being that whatever worship may
 have been paid to the Teutonic heroes never crystallized into a cult.
@@ -169,16 +169,16 @@ and to those who are regarded as purely mythical. Of the latter the
 number has tended to diminish in the light of modern scholarship. The
 fashion during the 19th century set strongly in the other direction, and
 the "degraded gods" theory was applied not only to such conspicuous
-heroes as Siegfried, Dietrich and Beowulf, but to a host of minor
+heroes as Siegfried, [[Dietrich]] and Beowulf, but to a host of minor
 characters, such as the good marquis Rudeger of the Nibelungenlied and
 our own Robin Hood (both identified with Woden Hruodperaht). The
 reaction from one extreme has, indeed, tended to lead to another, until
 not only the heroes, but the very gods themselves, are being traced to
-very human, not to say commonplace, origins. Thus M. Henri de Tourville,
+very human, not to say [[Commonplace|commonplace]], origins. Thus M. Henri de Tourville,
 in his_ Histoire de la formation particulariste_ (1903), basing his
 argument on the _Ynglinga Saga_, interpreted in the light of "Social
 Science," reveals Odin, "the traveller," as a great "caravan-leader" and
-warrior, who, driven from Asgard--a trading city on the borders of the
+warrior, who, driven from Asgard--a trading city on the [[Borders|borders]] of the
 steppes east of the Don--by "the blows that Pompey aimed at
 Mithridates," brought to the north the arts and industries of the East.
 The argument is developed with convincing ingenuity, but it may be
@@ -199,8 +199,8 @@ looked for in the period of the so-called migration of nations (A.D.
 the oldest form of historical tradition; though this of course does not
 exclude the probability of the accretion of mythical elements round
 persons and episodes from the very first. As to the origin of the heroic
-sagas as we now have them, Tacitus tells us that the deeds of Arminius
-were still celebrated in song a hundred years after his death (_Annals_,
+sagas as we now have them, Tacitus tells us that the deeds of [[Arminius]]
+were still celebrated in song a hundred years after his death (_[[Annals]]_,
 ii. 88) and in the _Germania_ he speaks of "old songs" as the only kind
 of "annals" which the ancient Germans possessed; but, whatever relics of
 the old songs may be embedded in the Teutonic sagas, they have left no
@@ -211,34 +211,34 @@ connected with the migration period, the earliest traces of which are
 found in the works of historical writers such as Ammianus Marcellinus
 and Cassiodorus. According to Jordanes (the epitomator of Cassiodorus's
 _History of the Goths_) at the funeral of Attila his vassals, as they
-rode round the corpse, sang of his glorious deeds. The next step in the
+rode round the [[Corpse|corpse]], sang of his glorious deeds. The next step in the
 development of epic narrative was the single lay of an episodic
 character, sung by a single individual, who was frequently a member of a
 distinguished family, not merely a professional minstrel. Then, as
 different stories grew up round the person of a particular hero, they
 formed a connected cycle of legend, the centre of which was the person
-of the hero (e.g. Dietrich of Bern). The most important figures of these
+of the hero (e.g. [[Dietrich Of Bern|Dietrich of Bern]]). The most important figures of these
 cycles are the following.
 
-(1) Beowulf, king of the Geatas (Jutland), whose story in its present
+(1) Beowulf, king of the Geatas ([[Jutland]]), whose story in its present
 form was probably brought from the continent by the Angles. It is an
 amalgamation of the myth of Beowa, the slayer of the water-demon and the
 dragon, with the historical legend of Beowulf, nephew and successor of
 Hygelac (Chochilaicus), king of the Geatas, who was defeated and slain
 (c. 520) while ravaging the Frisian coast. The water-demon Grendel and
 the dragon (probably), by whom Beowulf is mortally wounded, have been
-supposed to represent the powers of autumn and darkness, the floods
+supposed to represent the powers of autumn and darkness, the [[Flood|floods]]
 which at certain seasons overflow the low-lying countries on the coast
 of the North Sea and sweep away all human habitations; Beowulf is the
 hero of spring and light who, after overcoming the spirit of the raging
 waters, finally succumbs to the dragon of approaching winter. Others
 regard him as a wind-hero, who disperses the pestilential vapours of the
-fens. Beowulf is also a culture-hero. His father Sceaf-Scyld (i.e. Scyld
+[[Fens|fens]]. Beowulf is also a culture-hero. His father Sceaf-Scyld (i.e. Scyld
 Scefing, "the protector with the sheaf") lands on the Anglian or
 Scandinavian coast when a child, in a rudderless ship, asleep on a sheaf
 of grain, symbolical of the means whereby his kingdom shall become
 great; the son indicates the blessings of a fixed habitation, secured
-against the attacks of the sea. (2) Hildebrand, the hero of the oldest
+against the attacks of the sea. (2) [[Hildebrand]], the hero of the oldest
 German epic. A loyal supporter of Theodoric, he follows his master, when
 threatened by Odoacer, to the court of Attila. After thirty years'
 absence, he returns to his home In Italy; his son Hadubrand, believing
@@ -256,14 +256,14 @@ deprived by Odoacer, or by Ermanaric, who in his altered character of a
 typical tyrant appears as his uncle and contemporary. He takes refuge in
 Hungary with Etzel (Attila), by whose aid he finally recovers his
 kingdom. In the later middle ages he is represented as fighting with
-giants, dragons and dwarfs, and finally disappears on a black horse.
+[[Giant|giants]], dragons and dwarfs, and finally disappears on a black horse.
 Some attempts have been made to identify him as a kind of Donar or god
 of thunder. (5) Siegfried (M.H. Ger. Sivrit), the hero of the
 _Niebelungenlied_, the Sigurd of the related northern sagas, is usually
 regarded as a purely mythical figure, a hero of light who is ultimately
 overcome by the powers of darkness, the mist-people (Niebelungen). He
 is, however, closely associated with historical characters and events,
-e.g. with the Burgundian king Gundahari (Gunther, Gunnar) and the
+e.g. with the Burgundian king Gundahari ([[Gunther]], Gunnar) and the
 overthrow of his house and nation by the Huns; the scholars have
 exercised considerable ingenuity in attempting to identify him with
 various historical figures. Theodor Abeling (_Das Nibelungenlied_,
@@ -278,18 +278,18 @@ Chrothildis, in revenge for the murder of her father Chilperich and of
 her mother, by Godomar; the Rhenish-Burgundian story of the ruin of
 Gundahari's kingdom by Attila's Huns. Herr Abeling identifies Siegfried
 (Sigurd) with Segeric, while--according to him--the heroine of the
-Nibelung sagas, Kriemhild (Gudrun), represents a confusion of two
+Nibelung sagas, [[Kriemhild]] ([[Gudrun]]), represents a confusion of two
 historical persons: Chrothildis, the wife of Clovis, and Ildico (Hilde),
 the wife of Attila. (See also the articles KRIEMHILD, NIBELUNGENLIED).
 
 (6) Hugdietrich, Wolfdietrich and Ortnit, whose legend, like that of
 Siegfried, is of Frankish origin. It is preserved in four versions, the
 best of which is the oldest, and has an historical foundation.
-Hugdietrich is the "Frankish Dietrich" (= Hugo Theodoric), king of
+Hugdietrich is the "Frankish Dietrich" (= [[Hugo]] Theodoric), king of
 Austrasia (d. 534), who like his son and successor Theodebert, was
 illegitimate; both had to fight for their inheritance with relatives.
 The transference of the scene to Constantinople is a reminiscence of the
-events of the Crusades and Theodebert's projected campaign against that
+events of the [[Crusades]] and Theodebert's projected campaign against that
 city. The version in which Hugdietrich gains access to his future wife
 by disguising himself as a woman has also a foundation in fact. As the
 myth of the Harlungen is connected with Ermanaric, so another Dioscuri
@@ -297,7 +297,7 @@ myth (of the Hartungen) is combined with the Ortnit-Wolfdietrich legend.
 The Hartungen are probably identical with the divine youths (mentioned
 in Tacitus as worshipped by the Vandal Naharvali or Nahanarvali), from
 whom the Vandal royal family, the Asdingi, claimed descent. Asdingi
-([Greek: Astiggoi]) would be represented in Gothic by Hazdiggos, "men
+([Greek: Astiggoi]) would be represented in [[Gothic]] by Hazdiggos, "men
 with women's hair" (cf. _muliebri ornatu_ in Tacitus), and in middle
 high German by Hartungen. (7) Rother, king of Lombardy. Desiring to wed
 the daughter of Constantine, king of Constantinople, he sends twelve
@@ -305,26 +305,26 @@ envoys to ask her in marriage. They are arrested and thrown into prison
 by the king. Rother, who appears under the name of Dietrich, sets out
 with an army, liberates the envoys and carries off the princess. One
 version places the scene in the land of the Huns. The character of
-Constantine in many respects resembles that of Alexius Comnenus; the
+Constantine in many respects resembles that of Alexius [[Comnenus]]; the
 slaying of a tame lion by one of the gigantic followers of Rother is
 founded on an incident which actually took place at the court of Alexius
 during the crusade of 1101 under duke Welf of Bavaria, when _King
 Rother_ was composed about 1160 by a Rhenish minstrel. Rother may be the
 Lombard king Rothari (636-650), transferred to the period of the
-Crusades. (8) Walther of Aquitaine, chiefly known from the Latin poem
-_Waltharius_, written by Ekkehard of St Gall at the beginning of the
+Crusades. (8) Walther of [[Aquitaine]], chiefly known from the Latin poem
+_Waltharius_, written by Ekkehard of St [[Gall]] at the beginning of the
 10th century, and fragments of an 8th-century Anglo-Saxon Epic
 _Waldere_. Walther is not an historical figure, although the legend
 undoubtedly represents typical occurrences of the migration period, such
 as the detention and flight of hostages of noble family from the court
-of the Huns, and the rescue of captive maidens by abduction. (9) Wieland
+of the Huns, and the rescue of [[Captive|captive]] maidens by abduction. (9) Wieland
 (Volundr), Wayland the Smith, the only Teutonic hero (his original home
 was lower Saxony) who firmly established himself in England. There is
 absolutely no historical background for his legend. He is a fire-spirit,
 who is pressed into man's service, and typifies the advance from the
 stone age to a higher stage of civilization (working in metals). As the
 lame smith he reminds us of Hephaestus, and in his flight with wings of
-Daedalus escaping from Minos. (10) Hogni (Hagen) and Hedin (Hetel),
+[[Daedalus]] escaping from Minos. (10) Hogni ([[Hagen]]) and Hedin (Hetel),
 whose personalities are overshadowed by the heroines Hilde and Gudrun
 (Kudrun, Kutrun). In one version occurs the incident of the never-ending
 battle between the forces of Hagen and Hedin. Every night Hilde revives
@@ -343,8 +343,8 @@ necklace myth in epic form. The historical background is the raids of
 the Teutonic maritime tribes on the coasts of England and Ireland.
 
 Famous heroes who are specially connected with England are Alfred the
-Great, Richard Coeur-de-Lion, King Horn, Havelok the Dane, Guy of
-Warwick, Sir Bevis of Hampton (or Southampton), Robin Hood and his
+Great, Richard Coeur-de-Lion, King [[Horn]], Havelok the Dane, Guy of
+Warwick, Sir [[Bevis Of Hampton|Bevis of Hampton]] (or Southampton), Robin Hood and his
 companions.
 
 
@@ -358,7 +358,7 @@ Conchobar and the hero Cuchulainn, "the Irish Achilles," the defender of
 Ulster against all Ireland, regarded by some as a solar hero. The second
 cycle contains the epics of Finn (Fionn, Fingal) mac Cumhail, and his
 son Oisin (Ossian), the bard and warrior, chiefly known from the
-supposed Ossianic poems of Macpherson. (See CELT, sec. _Celtic
+supposed Ossianic poems of Macpherson. (See [[Celt|CELT]], sec. _Celtic
 Literature_.)
 
 Of Brython origin is the cycle of King Arthur (Artus), the adopted
@@ -386,33 +386,33 @@ Sinfiotli turned themselves into wolves would be but a sign of
 exceptional powers to those who believed in werewolves; Fafnir assuming
 the form of a serpent would be no more incredible to the barbarous
 Teuton than the similar transformation of Proteus to the Greek. But in
-the characterization of their heroes the Celtic imagination runs riot,
+the characterization of their heroes the Celtic [[Imagination|imagination]] runs riot,
 and the quality of their persons and their acts becomes exaggerated
-beyond the bounds of any conceivable probability. Take, for instance,
-the description of some of Arthur's knights in the Welsh tale of
-_Kilhwch and Olwen_ (in the _Mabinogion_). Along with Kai and Bedwyr
-(Bedivere), Peredur (Perceval), Gwalchmai (Gawain), and many others, we
+beyond the [[Bounds|bounds]] of any conceivable probability. Take, for instance,
+the description of some of Arthur's [[Knight|knights]] in the Welsh tale of
+_Kilhwch and Olwen_ (in the _[[Mabinogion]]_). Along with Kai and Bedwyr
+(Bedivere), Peredur (Perceval), Gwalchmai ([[Gawain]]), and many others, we
 have such figures as Sgilti Yscandroed, whose way through the wood lay
 along the tops of the trees, and whose tread was so light that no blade
 of grass bent beneath his weight; Sol, who could stand all day upon one
-leg; Sugyn the son of Sugnedydd, who was "broad-chested" to such a
+[[Leg|leg]]; Sugyn the son of Sugnedydd, who was "broad-chested" to such a
 degree that he could suck up the sea on which were three hundred ships
 and leave nothing but dry land; Gweyyl, the son of Gwestad, who when he
-was sad would let one of his lips drop beneath his waist and turn up the
+was sad would let one of his [[Lip|lips]] drop beneath his waist and turn up the
 other like a cap over his head; and Uchtry Varyf Draws, who spread his
 red untrimmed beard over the eight-and-forty rafters of Arthur's hall.
 Such figures as these make no human impression, and criticism has busied
 itself in tracing them to one or other of the shadowy divinities of the
 Celtic pantheon. However this may be, remnants of their primitive
 superhuman qualities cling to the Celtic heroes long after they have
-been transfigured, under the influence of Christianity and chivalry,
+been transfigured, under the influence of Christianity and [[Chivalry|chivalry]],
 into the heroes of the medieval Arthurian romance, types--for the most
 part--of the knightly virtues as these were conceived by the middle
 ages; while shadowy memories of early myths live on, strangely
 disguised, in certain of the episodes repeated uncritically by the
 medieval poets. So Merlin preserves his diabolic origin; Arthur his
 mystic coming and his mystic passing; while Gawain, and after him
-Lancelot, journey across the river, as the Irish hero Bran had done
+[[Lancelot]], journey across the river, as the Irish hero Bran had done
 before them to the island of fair women--the Celtic vision of the realm
 of death.
 
@@ -421,12 +421,12 @@ Arthur himself, who tends however to become completely overshadowed by
 his knights, who make his court the starting-point of their adventures.
 Merlin (Myrddin), the famous wizard, bard and warrior, perhaps an
 historical figure, first introduced by Geoffrey of Monmouth, originally
-called Ambrose from the British leader Ambrosius Aurelianus, under whom
+called Ambrose from the British leader Ambrosius [[Aurelianus]], under whom
 he is said to have first served. Perceval (Parzival, Parsifal), the
 Welsh Peredur, "the seeker of the basin," the most intimately connected
 with the quest of the Grail (q.v.). Tristan (Tristram), the ideal lover
 of the middle ages, whose name is inseparably associated with that of
-Iseult. Lancelot, son of Ban king of Brittany, a creation of chivalrous
+Iseult. Lancelot, son of [[Ban]] king of Brittany, a creation of chivalrous
 romance, who only appears in Arthurian literature under French
 influence, known chiefly from his amour with Guinevere, perhaps in
 imitation of the story of Tristan and Iseult. Gawain (Welwain, Welsh
@@ -470,15 +470,15 @@ mild and dignified, while later he appears as a cruel and typical tyrant
 (as is also the case with Ermanaric). The basis of his legend is mainly
 historical, although the story of his journey to Constantinople and the
 East is mythical, and incidents have been transferred from the reign of
-Charles Martel to his. Charlemagne is chiefly venerated as the champion
-of Christianity against the heathen and the Saracens. (See CHARLEMAGNE,
+Charles Martel to his. Charlemagne is chiefly venerated as the [[Champion|champion]]
+of Christianity against the [[Heathen|heathen]] and the Saracens. (See CHARLEMAGNE,
 _ad fin._ "The Charlemagne Legends.")
 
 The most famous heroes who are associated with him are Roland, praefect
-of the marches of Brittany, the Orlando of Ariosto, slain at Roncevaux
+of the [[Marches|marches]] of Brittany, the Orlando of [[Ariosto]], slain at Roncevaux
 (Roncevalles) in the Pyrenees, and his friend and rival Oliver
 (Olivier); Ogier the Dane, the Holger Danske of Hans Andersen, and Huon
-of Bordeaux, probably both introduced from the Arthurian cycle; Renaud
+of [[Bordeaux]], probably both introduced from the Arthurian cycle; Renaud
 (Rinaldo) of Montauban, one of the four sons of Aymon, to whom the
 wonderful horse Bayard was presented by Charlemagne; the traitor Doon of
 Mayence; Ganelon, responsible for the treachery that led to the death of
@@ -487,17 +487,17 @@ William Fierabras, William au court nez, William of Toulouse, and
 William of Orange (all probably identical), and Vivien, the nephew of
 the latter and the hero of Aliscans. The late Charlemagne romances
 originated the legends, in English form, of _Sowdone of Babylone_, _Sir
-Otnel_, _Sir Firumbras_ and _Huon of Bordeaux_ (in which Oberon, the
-king of the fairies, the son of Julius Caesar and Morgan the Fay, was
+Otnel_, _Sir Firumbras_ and _[[Huon Of Bordeaux|Huon of Bordeaux]]_ (in which Oberon, the
+king of the fairies, the son of [[Julius]] [[Caesar]] and Morgan the Fay, was
 first made known to England).
 
-The chief remains of the Spanish heroic epic are some poems on the Cid,
-on the seven Infantes of Lara, and on Fernan Gonzalez, count of Castile.
+The chief remains of the Spanish heroic epic are some poems on the [[Cid]],
+on the seven [[Infant|Infantes]] of Lara, and on Fernan Gonzalez, count of Castile.
 The legend of Charlemagne as told in the _Cronica general_ of Alfonso X.
 created the desire for a national hero distinguished for his exploits
 against the Moors, and Roland was thus supplanted by Bernardo del
 Carpio. Another famous hero and centre of a 14th-century cycle of
-romance was Amadis of Gaul; its earliest form is Spanish, although the
+romance was Amadis of [[Gaul]]; its earliest form is Spanish, although the
 Portuguese have claimed it as a translation from their own language.
 There is no trace of a French original.
 
@@ -520,20 +520,20 @@ For the Persian, Indian, &c., heroes see the articles on the literature
 and religions of the various countries.
 
   AUTHORITIES.--On the subject generally, see J. G. T. Grasse, _Die
-  grossen Sagenkreise des Mittelalters_ (Dresden, 1842), forming part of
+  grossen Sagenkreise des Mittelalters_ ([[Dresden]], 1842), forming part of
   his _Lehrbuch einer Literargeschichte der beruhmtesten Volker des
   Mittelalters_; W. P. Ker, _Epic and Romance_ (2nd ed., 1908).
   TEUTONIC.--B. Symons, "Germanische Heldensage" in H. Paul's _Grundris
   der germanischen Philologie_, iii. (Strassburg, 1900), 2nd revised
   edition, separately printed (_ib._, 1905); W. Grimm, _Die deutsche
   Heldensage_ (1829, 3rd ed., 1889), still one of the most important
-  works; W. Muller, _Mythologie der deutschen Heldensage_ (Heilbronn,
+  works; W. Muller, _Mythologie der deutschen Heldensage_ ([[Heilbronn]],
   1886) and supplement, _Zur Mythologie der griechischen und deutschen
   Heldensage_ (_ib._, 1889); O. L. Jiriczek, _Deutsche Heldensagen_, i.
   (Strassburg, 1898) and _Die deutsche Heldensage_ (3rd revised edition,
   Leipzig, 1906); Chantepie de la Saussaye, _The Religion of the
-  Teutons_ (Eng. tr., Boston, U.S.A., 1902); J. G. Robertson, _History
-  of German Literature_ (1902). See also HELDENBUCH.
+  Teutons_ (Eng. tr., [[Boston]], U.S.A., 1902); J. G. Robertson, _History
+  of German Literature_ (1902). See also [[Heldenbuch|HELDENBUCH]].
 
   CELTIC.--M. H. d'Arbois de Jubainville, _Cours de litterature
   celtique_ (12 vols., 1883-1902), one vol. trans. into English by R. I.

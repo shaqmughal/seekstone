@@ -6,10 +6,10 @@ topic: art
 
 # Khilchipur
 
-KHILCHIPUR, a mediatized chiefship in Central India, under the Bhopal
+KHILCHIPUR, a mediatized chiefship in Central India, under the [[Bhopal]]
 agency; area, 273 sq. m.; pop. (1901), 31,143; estimated revenue, £7000;
 tribute payable to Sindhia, £700. The residence of the chief, who is a
-Khichi Rajput of the Chauhan clan, is at Khilchipur (pop. 5121).
+Khichi Rajput of the Chauhan [[Clan|clan]], is at Khilchipur (pop. 5121).
 
 ## See also
 

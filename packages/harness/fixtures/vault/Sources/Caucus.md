@@ -2,7 +2,7 @@
 
 CAUCUS, a political term used in America of a special form of party
 meeting, and in Great Britain of a system of party organization. The
-word originated in Boston, Massachusetts, in the early part of the 18th
+word originated in [[Boston]], Massachusetts, in the early part of the 18th
 century, when it was used as the name of a political club, the "Caucus"
 or "Caucas" club. Here public matters were discussed, and arrangements
 made for local elections and the choosing of candidates for offices. The
@@ -34,15 +34,15 @@ when the convention system was adopted, and the place of the local
 word is used in America of the meetings of a party in Congress and other
 legislative bodies and elsewhere which decide matters of policy and plan
 campaigns. "Caucus" came first into use in Great Britain in 1878. The
-Liberal Association of Birmingham (see LIBERAL PARTY) was organized by
-Mr Joseph Chamberlain and Mr F. Schnadhorst on strict disciplinary
+Liberal Association of [[Birmingham]] (see [[Liberal Party|LIBERAL PARTY]]) was organized by
+Mr Joseph [[Chamberlain]] and Mr F. Schnadhorst on strict disciplinary
 lines, more particularly with a view to election management and the
 control of voters on the principle of "vote as you are told." This
 managing body of the association, known locally as the "Six Hundred,"
 became the model for other Liberal associations throughout the country,
 and the Federation of Liberal Associations was organized on the same
 plan. It was to this supposed imitation of the American political
-"machine" that Lord Beaconsfield gave the name "caucus," and the name
+"[[Machine|machine]]" that Lord Beaconsfield gave the name "caucus," and the name
 came to be used, not in the American sense of a meeting, but of a
 closely disciplined system of party organization, chiefly used as a
 stock term of abuse applied by opponents to each other's party

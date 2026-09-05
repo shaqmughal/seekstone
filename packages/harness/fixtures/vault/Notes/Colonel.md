@@ -8,7 +8,7 @@ topic: biology
 
 COLONEL (derived either from Lat. _columna_, Fr. _colonne_, column, or
 Lat. _corona_, a crown), the superior officer of a regiment of infantry
-or cavalry; also an officer of corresponding rank in the general army
+or [[Cavalry|cavalry]]; also an officer of corresponding rank in the general army
 list. The colonelcy of a regiment formerly implied a proprietary right
 in it. Whether the colonel commanded it directly in the field or not, he
 always superintended its finance and interior economy, and the
@@ -21,8 +21,8 @@ given the colonelcy of a regiment, which has become almost purely an
 honorary office. The sovereign, foreign sovereigns, royal princes and
 others, hold honorary colonelcies, as colonels-in-chief or honorary
 colonels of many regiments. In other armies, the regiment being a
-fighting unit, the colonel is its active commander; in Great Britain the
-lieutenant-colonel commands in the field the battalion of infantry and
+fighting unit, the colonel is its active [[Commander|commander]]; in Great Britain the
+lieutenant-colonel commands in the field the [[Battalion|battalion]] of infantry and
 the regiment of cavalry. Colonels are actively employed in the army at
 large in staff appointments, brigade commands, &c. extra-regimentally.
 Colonel-general, a rank formerly used in many armies, still survives in

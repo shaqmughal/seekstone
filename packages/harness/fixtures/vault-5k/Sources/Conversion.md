@@ -91,7 +91,7 @@ own conversion? To this it is frequently answered that while the initial
 stage of conversion is and can be the work of the Holy Spirit alone, it
 lies with man to make it complete by accepting the proffered grace in
 repentance and faith (cf. Acts vii. 51, "Ye stiffnecked and
-uncircumcised in heart and ears, ye do always resist the Holy Ghost"). A
+uncircumcised in heart and [[Ear|ears]], ye do always resist the Holy Ghost"). A
 man may of his own free will avoid those surroundings which predispose
 him to such "resistance." The view that man cannot convert himself is
 clearly stated in Article X. by the Church of England. "The condition of
@@ -113,17 +113,17 @@ the criterion of its validity is generally taken to be the resultant
 change of a man's character as manifested in his mode of life and
 thought, in the abstention from sin, and in devotion to good works. (X.)
 
-3. _In English law_, conversion is the unauthorized exercise of dominion
+3. _In [[English Law|English law]]_, conversion is the unauthorized exercise of dominion
 by one person over the property (other than money or chattels real) of
 another, in a manner inconsistent with his rights of possession, or the
 unauthorized assumption by another of the powers of the true owner of
-goods. The history and exact definition of this form of actionable wrong
+goods. The history and exact [[Definition|definition]] of this form of actionable wrong
 have occupied the attention of many learned writers, and the incidents
 of actions to assert the rights of the true owner form a considerable
 part of treatises on the rules and forms of civil pleading. There are
 many ways in which the wrong may be committed. In some cases the
 exercise of the dominion may amount to an act of trespass or to a crime,
-e.g. where the taking amounts to larceny, or fraudulent appropriation by
+e.g. where the taking amounts to [[Larceny|larceny]], or fraudulent appropriation by
 a bailee or agent entrusted with the property of another (Larceny Acts
 of 1861 and 1901). But in such cases, except where money is taken, the
 civil remedy of the owner is by action for conversion or detention of
@@ -132,7 +132,7 @@ prosecution should precede restitution by the taker. The remedy in use
 in these cases used to be by what was called an action on the case for
 trover and conversion, the plaintiff putting aside all suggestions of
 trespass and of crime, and resting his case on the fiction that the
-defendant had found and used goods not his own. The fictitious averment
+[[Defendant|defendant]] had found and used goods not his own. The fictitious averment
 of loss was abolished in 1852, and under the present procedure, in which
 the old forms of action are not in use, the remedy is by a claim (still
 usually called conversion) for wrongfully depriving the true owner of
@@ -182,12 +182,12 @@ personalty land which has been directed so to be converted by a will,
 contract or settlement, or as converted into land personalty which has
 been by such instrument directed to be applied for purchase of realty.
 The rule is also applied where a vendor of land dies between the making
-of the contract of sale and its completion by conveyance of the land.
+of the contract of sale and its completion by [[Conveyance|conveyance]] of the land.
 The importance of the rule lies in the different destination of realty
 and personalty under the laws relating to inheritance and succession.
 
-  See Bullen and Leake, _Precedents of Pleading_ (3rd ed., 1868, 6th ed.
-  by Dodd and Chitty, 1905); F. Pollock, on _Torts_ (7th ed., 1904);
+  See Bullen and [[Leake]], _Precedents of Pleading_ (3rd ed., 1868, 6th ed.
+  by [[Dodd]] and Chitty, 1905); F. Pollock, on _Torts_ (7th ed., 1904);
   Clerk and Lindsell, on _Torts_ (3rd ed., 1904); Lewin, on _Trusts_
   (11th ed., 1904); Jarman, on _Wills_ (5th ed., 1893); Dart, _Vendors
   and Purchasers_ (11th ed., p. 301).     (W. F. C.)

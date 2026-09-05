@@ -16,7 +16,7 @@ praetor, he obtained the consulship.
 
 Flamininus was one of the first and most successful of the rising school
 of Roman statesmen, the opponents of the narrow patriotism of which Cato
-was the type, the disciples of Greek culture, and the advocates of a
+was the type, the [[Disciple|disciples]] of Greek culture, and the advocates of a
 wide imperial policy. His winning manners, his polished address, his
 knowledge of men, his personal fascination, and his intimate knowledge
 of Greek, all marked him out as the fittest representative of Rome in
@@ -29,11 +29,11 @@ the Aous by skilfully turning an impregnable position. Having thus
 practically made himself master of Macedonia, he proceeded to Greece,
 where Philip still had allies and supporters. The Achaean League (q.v.)
 at once deserted the cause of Macedonia, and Nabis, the tyrant of
-Sparta, entered into an alliance with Rome; Acarnania and Boeotia
+Sparta, entered into an alliance with Rome; Acarnania and [[Boeotia]]
 submitted in less than a year, and, with the exception of the great
 fortresses, Flamininus had the whole of Greece under his control. The
 demand of the Greeks for the expulsion of Macedonian garrisons from
-Demetrias, Chalcis and Corinth, as the only guarantee for the freedom of
+Demetrias, Chalcis and [[Corinth]], as the only guarantee for the freedom of
 Greece, was refused, and negotiations were broken off. Hostilities were
 renewed in the spring of 197, and Flamininus took the field supported by
 nearly the whole of Greece. At Cynoscephalae the Macedonian phalanx and
@@ -41,9 +41,9 @@ the Roman legion for the first time met in open fight, and the day
 decided which nation was to be master of Greece and perhaps of the
 world. It was a victory of superior tactics. The left wing of the Roman
 army was retiring in confusion before the Macedonian right led by Philip
-in person, when Flamininus, leaving them to their fate, boldly charged
+in person, when Flamininus, leaving them to their [[Fate|fate]], boldly charged
 the left wing under Nicanor, which was forming on the heights. Before
-the left wing had time to form, Flamininus was upon them, and a massacre
+the left wing had time to form, Flamininus was upon them, and a [[Massacre|massacre]]
 rather than a fight ensued. This defeat was turned into a general rout
 by a nameless tribune, who collected twenty companies and charged in the
 rear the victorious Macedonian phalanx, which in its pursuit had left
@@ -53,8 +53,8 @@ his foreign possessions, but retained his Macedonian kingdom almost
 entire. He was required to reduce his army, to give up all his decked
 ships except five, and to pay an indemnity of 1000 talents (£244,000).
 Ten commissioners arrived from Rome to regulate the final terms of
-peace, and at the Isthmian games a herald proclaimed to the assembled
-crowds that "the Roman people, and T. Quinctius their general, having
+peace, and at the Isthmian [[Games|games]] a herald proclaimed to the assembled
+[[Crowd|crowds]] that "the Roman people, and T. Quinctius their general, having
 conquered King Philip and the Macedonians, declare all the Greek states
 which had been subject to the king henceforward free and independent."
 Flamininus's last act before returning home was characteristic. Of the
@@ -67,7 +67,7 @@ triumph.
 
 In 192, on the rupture between the Romans and Antiochus III. the Great,
 Flamininus returned to Greece, this time as the civil representative of
-Rome. His personal influence and skilful diplomacy secured the wavering
+Rome. His personal influence and skilful [[Diplomacy|diplomacy]] secured the wavering
 Achaean states, cemented the alliance with Philip, and contributed
 mainly to the Roman victory at Thermopylae (191). In 183 he undertook
 an embassy to Prusias, king of Bithynia, to induce him to deliver up
@@ -77,7 +77,7 @@ peaceful and happy.
 
 There seems no doubt that Flamininus was actuated by a genuine love of
 Greece and its people. To attribute to him a Machiavellian policy, which
-foresaw the overthrow of Corinth fifty years later and the conversion of
+foresaw the overthrow of Corinth fifty years later and the [[Conversion|conversion]] of
 Achaea into a Roman province, is absurd and disingenuous. There is more
 force in the charge that his Hellenic sympathies prevented him from
 seeing the innate weakness and mutual jealousies of the Greek states of

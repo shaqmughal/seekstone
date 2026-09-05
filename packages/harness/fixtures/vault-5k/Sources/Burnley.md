@@ -11,10 +11,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Burnley"
 BURNLEY, a market town and municipal, county and parliamentary borough of
 Lancashire, England, at the junction of the rivers Brun and Calder, 213 m.
 N.N.W. of London and 29 m. N. of Manchester, on the Lancashire & Yorkshire
-railway and the Leeds & Liverpool Canal. Pop. (1891) 87,016; (1901) 97,043.
+railway and the [[Leeds]] & Liverpool Canal. Pop. (1891) 87,016; (1901) 97,043.
 The church of St Peter dates from the 14th century, but is largely
 modernized; among a series of memorials of the Towneley family is one to
-Charles Towneley (d. 1805), who collected the series of antique marbles,
+Charles Towneley (d. 1805), who collected the series of antique [[Marbles|marbles]],
 terra-cottas, bronzes, coins and gems which are named after him and
 preserved in the British Museum. In 1902 Towneley Hall and Park were
 acquired by the corporation, the mansion being adapted to use as a museum

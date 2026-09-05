@@ -36,7 +36,7 @@ emoluments. In the 17th century the vicarage of Llandingat was held by
 the celebrated Welsh poet and preacher, Rhys Prichard, commonly called
 "the vicar of Llandovery" (d. 1644). In the middle of the 19th century
 William Rees of Tonn published at Llandovery many important works
-dealing with early Welsh history and archaeology.
+dealing with early Welsh history and [[Archaeology|archaeology]].
 
 ## References
 

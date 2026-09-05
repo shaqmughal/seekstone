@@ -14,7 +14,7 @@ Jordanne, and is dominated from the north-west by the Roc Castanet,
 crowned by the castle of St Etienne, the keep of which dates from the
 11th century. Its streets are narrow and uninteresting, with the
 exception of one which contains, among other old houses, that known as
-the Maison des Consuls, a Gothic building of the 16th century, decorated
+the Maison des Consuls, a [[Gothic]] building of the 16th century, decorated
 with sculptured stone-work. Aurillac owes its origin to an abbey founded
 in the 9th century by St Geraud, and the abbey-church, rebuilt in the
 17th century in the Gothic style, is the chief building in the town. The
@@ -25,7 +25,7 @@ one of the most famous schools of France. Aurillac is the seat of a
 prefect, and its public institutions include tribunals of first instance
 and of commerce, a chamber of commerce, a lycee, training-colleges and a
 branch of the Bank of France. The chief manufactures are wooden shoes
-and umbrellas, and there is trade in cheese and in the cattle and horses
+and umbrellas, and there is trade in [[Cheese|cheese]] and in the cattle and horses
 reared in the neighbourhood.
 
 ## See also

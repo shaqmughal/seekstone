@@ -2,18 +2,18 @@
 
 LATONA (Lat. form of Gr. [Greek: Lêtô], Leto), daughter of Coeus and
 Phoebe, mother of Apollo and Artemis. The chief seats of her legend are
-Delos and Delphi, and the generally accepted tradition is a union of the
+Delos and [[Delphi]], and the generally accepted tradition is a union of the
 legends of these two places. Leto, pregnant by Zeus, seeks for a place
 of refuge to be delivered. After long wandering she reaches the barren
 isle of Delos, which, according to Pindar (Frag. 87, 88), was a
 wandering rock borne about by the waves till it was fixed to the bottom
 of the sea for the birth of Apollo and Artemis. In the oldest forms of
 the legend Hera is not mentioned; but afterwards the wanderings of Leto
-are ascribed to the jealousy of that goddess, enraged at her amour with
+are ascribed to the [[Jealousy|jealousy]] of that goddess, enraged at her amour with
 Zeus. The foundation of Delphi follows immediately on the birth of the
-god; and on the sacred way between Tempe and Delphi the giant Tityus
+god; and on the sacred way between Tempe and Delphi the [[Giant|giant]] Tityus
 offers violence to Leto, and is immediately slain by the arrows of
-Apollo and Artemis (_Odyssey_, xi. 576-581; Apollodorus i. 4). Such are
+Apollo and Artemis (_Odyssey_, xi. 576-581; [[Apollodorus]] i. 4). Such are
 the main facts of the Leto legend in its common literary form, which is
 due especially to the two Homeric hymns to Apollo. But Leto is a real
 goddess, not a mere mythological figure. The honour paid to her in

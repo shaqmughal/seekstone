@@ -8,13 +8,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Basel"
 
 # Basel
 
-BASEL, COUNCIL OF. A decree of the council of Constance (9th of October
-1417) sanctioned by Martin V. had obliged the papacy periodically to summon
+BASEL, COUNCIL OF. A [[Decree|decree]] of the council of Constance (9th of October
+1417) sanctioned by [[Martin]] V. had obliged the papacy periodically to summon
 general councils. At the expiry of the first term fixed by this decree,
 Martin V. did, in fact, call together at Pavia a council, which it was
 necessary to transfer almost at once to Siena, owing to an epidemic, and
 which had to be dissolved owing to circumstances still imperfectly known,
-just as it was beginning to discuss the subject of reform (1424). The next
+just as it was beginning to [[Discus|discuss]] the subject of reform (1424). The next
 council was due to assemble at the expiry of seven years, _i.e._ in 1431;
 with his usual punctuality, Martin V. duly convoked it for this date to the
 town of Basel, and selected to preside over it the cardinal Julian
@@ -25,9 +25,9 @@ From Italy, France and Germany the fathers were slow in appearing at Basel.
 Cesarini devoted all his energies to the war against the Hussites, until
 the disaster of Taus forced him hastily to evacuate Bohemia. The progress
 of heresy, the reported troubles in Germany, the war which had lately
-broken out between the dukes of Austria and Burgundy, and finally, the
+broken out between the [[Dukes|dukes]] of Austria and Burgundy, and finally, the
 small number of fathers who had responded to the summons of Martin V.,
-caused that pontiff's successor, Eugenius IV., to think that the synod of
+caused that pontiff's successor, [[Eugenius]] IV., to think that the synod of
 Basel was doomed to certain failure. This opinion, added to the desire
 which he had of himself presiding over the council, induced him to recall
 the fathers from Germany, whither his health, impaired of late, probably
@@ -55,7 +55,7 @@ resolved to resist this supremacy, though he did not dare openly to
 repudiate a very widespread doctrine considered by many to be the actual
 foundation of the authority of the popes before the schism. However, he
 soon realized the impossibility of treating the fathers of Basel as
-ordinary rebels, and tried a compromise; but as time went on, the fathers
+ordinary rebels, and tried a [[Compromise|compromise]]; but as time went on, the fathers
 became more and more intractable, and between him and them gradually arose
 an impassable barrier.
 
@@ -63,7 +63,7 @@ Abandoned by a number of his cardinals, condemned by most of the powers,
 deprived of his dominions by _condottieri_ who shamelessly invoked the
 authority of the council, the pope made concession after concession, and
 ended on the 15th of December 1433 by a pitiable surrender of all the
-points at issue in a bull, the terms of which were dictated by the fathers
+points at issue in a [[Bull|bull]], the terms of which were dictated by the fathers
 of Basel, that is, by declaring his bull of dissolution null and void, and
 recognizing that the synod had not ceased to be legitimately assembled. It
 would be wrong, however, to believe that Eugenius IV. ratified all the
@@ -88,7 +88,7 @@ holding of diocesan synods and provincial councils, are found also decrees
 aimed at some of the "rights" by which the popes had extended their power,
 and helped out their finances at the expense of the local churches. Thus
 annates (_q.v._) were abolished, the abuse of "reservation" of the
-patronage of benefices by the pope was much limited, and the right claimed
+patronage of [[Benefice|benefices]] by the pope was much limited, and the right claimed
 by the pope of "next presentation" to benefices not yet vacant (known as
 _gratiae expectativae_) was done away with altogether. By other decrees the
 jurisdiction of the court of Rome was much limited, and rules were even
@@ -96,7 +96,7 @@ made for the election of popes and the constitution of the Sacred College.
 The fathers continued to devote themselves to the subjugation of the
 Hussites; they also intervened, in rivalry with the pope, in the
 negotiations between France and England which led only to the treaty of
-Arras, concluded by Charles VII. with the duke of Burgundy; finally, they
+[[Arras]], concluded by Charles VII. with the duke of Burgundy; finally, they
 investigated and judged numbers of private cases, lawsuits between
 prelates, members of religious orders and holders of benefices, thus
 themselves falling into one of the serious abuses for which they had most
@@ -117,7 +117,7 @@ third with reform (_reformatorii_), the fourth with what they called
 majority--was ratified for the sake of form in general congregation, and if
 necessary led to decrees promulgated in session. It was on this account
 that the council could sometimes be called, not without exaggeration, "an
-assembly of copyists" or even "a set of grooms and scullions."
+assembly of copyists" or even "a set of [[Groom|grooms]] and scullions."
 
 Eugenius IV., however much he may have wished to keep on good terms with
 the fathers of Basel, was neither able nor willing to accept or observe all
@@ -130,7 +130,7 @@ where the union could be concluded in the presence of the pope and of the
 Latin council. Hence arose a double negotiation between him and Eugenius
 IV. on the one hand and the fathers of Basel on the other. The chief object
 of the latter was to fix the meeting-place at a place remote from the
-influence of the pope, and they persisted in suggesting Basel or Avignon or
+influence of the pope, and they persisted in suggesting Basel or [[Avignon]] or
 Savoy, which neither Eugenius nor the Greeks would on any account accept.
 The result was that Palaeologus accepted the offers of the pope, who, by a
 bull dated the 18th of September 1437, again pronounced the dissolution of
@@ -144,14 +144,14 @@ Cardinal Aleman, in affirming its oecumenical character. On the 24th of
 January 1438 it suspended Eugenius IV., and went on in spite of the
 intervention of most of the powers to pronounce his deposition (25th June
 1439), finally giving rise to a new schism by electing on the 4th of
-November Amadeus VIII., duke of Savoy, as pope, who took the name of Felix
+November Amadeus VIII., duke of Savoy, as pope, who took the name of [[Felix]]
 V.
 
 This schism lasted fully ten years, although the antipope found hardly any
 adherents outside of his own hereditary states, those of Alphonso of
-Aragon, of the Swiss confederation and certain universities. Germany
+[[Aragon]], of the Swiss confederation and certain universities. Germany
 remained neutral; Charles VII. of France confined himself to securing to
-his kingdom by the Pragmatic Sanction of Bourges, which became law on the
+his kingdom by the Pragmatic Sanction of [[Bourges]], which became law on the
 13th of July 1438, the benefit of a great number of the reforms decreed at
 Basel; England and Italy remained faithful to Eugenius IV. Finally, in 1447
 Frederick III., king of the Romans, after negotiations with Eugenius,
@@ -172,11 +172,11 @@ came through this trial victorious. The era of the great councils of the
 monarchical.
 
 AUTHORITIES.--Mansi, vol. xxix.-xxxi.; Aeneas Sylvius, _De rebus Basileae
-gestis_ (Fermo, 1803); Hefele, _Conciliengeschichte_, vol. vii.
+gestis_ ([[Fermo]], 1803); [[Hefele]], _Conciliengeschichte_, vol. vii.
 (Freiburg-im-Breisgau, 1874); O. Richter, _Die Organisation und
 Geschaftsordnung des Baseler Konzils_ (Leipzig, 1877); _Monumenta
 Conciliorum generalium seculi xv., Scriptorum_, vol. i., ii. and iii.
-(Vienna, 1857-1895); J. Haller, _Concilium Basiliense_, vol. i.-v. (Basel,
+(Vienna, 1857-1895); J. [[Haller]], _Concilium Basiliense_, vol. i.-v. (Basel,
 1896-1904); G. Perouse, _Le Cardinal Louis Aleman, président du concile de
 Bâle_ (Paris, 1904). Much useful material will also be found in J. C. L.
 Gieseler's _Ecclesiastical History_, vol. iv. p. 312, &c., notes (Eng.

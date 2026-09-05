@@ -11,7 +11,7 @@ CALBE, or KALBE, a town of Germany, on the Saale, in Prussian Saxony. It is
 known as Calbe-an-der-Saale, to distinguish it from the smaller town of
 Calbe on the Milde in the same province. Pop. (1905) 12,281. It is a
 railway junction, and among its industries are wool-weaving and the
-manufacture of cloth, paper, stoves, sugar and bricks. Cucumbers and onions
+manufacture of cloth, paper, stoves, sugar and [[Brick|bricks]]. Cucumbers and onions
 are cultivated, and soft coal is mined in the neighbourhood.
 
 ## See also

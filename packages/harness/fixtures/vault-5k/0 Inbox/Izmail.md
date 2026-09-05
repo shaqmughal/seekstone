@@ -21,7 +21,7 @@ garrison was 40,000 strong, and the assault cost the assailants 10,000
 and the defenders 30,000 men. The victory was the theme of one of the
 Russian poet G. R. Derzhavin's odes. In 1809 the town was again captured
 by the Russians; and, when in 1812 it was assigned to them by the
-Bucharest peace, they chose it as the central station for their Danube
+Bucharest peace, they [[Chose|chose]] it as the central station for their Danube
 fleet. It was about this time that the town of Tuchkov, with which it
 was later (1830) incorporated, grew up outside of the fortifications.
 These were dismantled in accordance with the treaty of Paris (1856), by

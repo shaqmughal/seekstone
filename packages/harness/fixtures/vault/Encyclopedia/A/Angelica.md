@@ -8,11 +8,11 @@ topic: philosophy
 
 ANGELICA, a genus of plants of the natural order _Umbelliferae_,
 represented in Britain by one species, _A. sylvestris_, a tall
-perennial herb with large bipinnate leaves and large compound umbels
+perennial [[Herb|herb]] with large bipinnate leaves and large compound umbels
 of white or purple flowers. The name Angelica is popularly given to
 a plant of an allied genus, _Archangelica officinalis_, the tender
 shoots of which are used in making certain kinds of aromatic
-sweetmeats. _Angelica balsam_ is obtained by extracting the roots with
+sweetmeats. _Angelica [[Balsam|balsam]]_ is obtained by extracting the roots with
 alcohol, evaporating and extracting the residue with ether. It is of
 a dark brown colour and contains angelica oil, angelica wax and
 angelicin, C_{18}_H_{30}_O. The essential oil of the roots of

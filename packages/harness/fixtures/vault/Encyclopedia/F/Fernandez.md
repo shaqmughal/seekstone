@@ -9,7 +9,7 @@ topic: mythology
 FERNANDEZ, JOHN (_João_, _Joam_), Portuguese traveller of the 15th
 century. He was perhaps the earliest of modern explorers in the upland
 of West Africa, and a pioneer of the European slave- and gold-trade of
-Guinea. We first hear of him (before 1445) as a captive of the Barbary
+Guinea. We first hear of him (before 1445) as a [[Captive|captive]] of the [[Barbary]]
 Moors in the western Mediterranean; while among these he acquired a
 knowledge of Arabic, and probably conceived the design of exploration in
 the interior of the continent whose coasts the Portuguese were now
@@ -27,10 +27,10 @@ Sahara, but also as to the racial affinities, language, script,
 religion, nomad habits, and trade of its inhabitants. These
 people--though Mahommedans, maintaining a certain trade in slaves, gold,
 &c., with the Barbary coast (especially with Tunis), and classed as
-"Arabs," "Berbers," and "Tawny Moors"--did not then write or speak
+"[[Arabs]]," "[[Berber|Berbers]]," and "Tawny Moors"--did not then write or speak
 Arabic. In 1446 and 1447 John Fernandez accompanied other expeditions to
 the Rio d'Ouro and other parts of West Africa in the service of Prince
-Henry. He was personally known to Gomes Eannes de Azurara, the historian
+Henry. He was personally known to Gomes Eannes de [[Azurara]], the historian
 of this early period of Portuguese expansion; and from Azurara's
 language it is clear that Fernandez' revelation of unknown lands and
 races was fully appreciated at home.

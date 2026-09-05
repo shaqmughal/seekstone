@@ -8,7 +8,7 @@ topic: philosophy-studies
 
 HANSOM, JOSEPH ALOYSIUS (1803-1882), English architect and inventor, was
 born in York on the 26th of October 1803. Showing an aptitude for
-designing and construction, he was taken from his father's joinery shop
+designing and construction, he was taken from his father's [[Joinery|joinery]] shop
 and apprenticed to an architect in York, and, by 1831, his designs for
 the Birmingham town hall were accepted and followed--to his financial
 undoing, as he had become bond for the builders. In 1834 he registered

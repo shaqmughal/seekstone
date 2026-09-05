@@ -34,11 +34,11 @@ From 1820 to 1830 Albany Fonblanque was successively employed upon the
 staff of _The Times_ and the _Morning Chronicle_, whilst he contributed
 to the _Examiner_, to the _London Magazine_ and to the _Westminster
 Review_. In 1828 the _Examiner_ newspaper, which had been purchased by
-the Rev. Dr Fellowes, author of the _Religion of the Universe_, &c., was
+the Rev. Dr [[Fellow|Fellowes]], author of the _Religion of the Universe_, &c., was
 given over to Fonblanque's complete control; and for a period of
 seventeen years (1830 to 1847) he not only sustained the high character
 for political independence and literary ability which the _Examiner_ had
-gained under the direction of Leigh Hunt and his brother, John Hunt, but
+gained under the direction of Leigh [[Hunt]] and his brother, John Hunt, but
 even compelled his political opponents to acknowledge a certain delight
 in the boldness and brightness of the wit directed against themselves.
 When it was proposed that the admirers and supporters of the paper
@@ -70,9 +70,9 @@ comparison with the course of social and political events in England
 from 1826 to 1837. As a journalist, he must be regarded in the light of
 a reformer. Journalism before his day was regarded as a somewhat
 discreditable profession; men of true culture were shy of entering the
-hot and dusty arena lest they should be confounded with the ruder
+hot and dusty [[Arena|arena]] lest they should be confounded with the ruder
 combatants who fought there before the public for hire. But the fact
-that Fonblanque, a man not only of strong and earnest political
+that Fonblanque, a man not only of strong and [[Earnest|earnest]] political
 convictions but also of exceptional literary ability, did not hesitate
 to choose this field as a worthy one in which both a politician and a
 man of letters might usefully as well as honourably put forth his best

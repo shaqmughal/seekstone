@@ -21,7 +21,7 @@ towards the right ([symbol]) or downwards ([symbol]) or aslant
 called by German Assyriologists a _Winkelhaken_, a word now sometimes
 adopted by English writers on the subject. The word cuneiform has passed
 into most modern languages, but the Germans use _Keilschrift_ (i.e.
-wedge-script) and the Arabs _mismari_ ([Arabic: mismari]) or
+wedge-script) and the [[Arabs]] _mismari_ ([Arabic: mismari]) or
 nail-writing.
 
 [Illustration]
@@ -34,9 +34,9 @@ front of which, in a semicircular form, rises a vast terrace-like
 platform. It is partly natural, but was walled up in front, levelled off
 and used as the base of great temples and palaces. The earliest
 European, at present known to us, who visited the site was a wandering
-friar Odoricus (about A.D. 1320), who does not seem to have noticed the
+[[Friar|friar]] Odoricus (about A.D. 1320), who does not seem to have noticed the
 inscriptions cut in the stone. These were first observed by Josaphat
-Barbaro, a Venetian traveller, about 1472. In 1621 the ruins were
+[[Barbaro]], a Venetian traveller, about 1472. In 1621 the ruins were
 visited by Pietro della Valle, who was the first to copy a few of the
 signs, which he sent in a letter to a friend in Naples. His copy was not
 well made, but it served the useful purpose of directing attention to an
@@ -56,7 +56,7 @@ that all the available material should be copied and published. The
 honour of performing this great task fell to Carsten Niebuhr, who
 visited Persepolis in March 1765, and in three weeks and a half copied
 all the texts, so well that little improvement has been made in them
-since. When Niebuhr returned to Denmark he studied carefully the little
+since. When Niebuhr returned to [[Denmark]] he studied carefully the little
 inscriptions and convinced himself that the guesses of some of his
 predecessors were correct, and that the inscriptions were to be read
 from left to right. He observed that three systems of writing were
@@ -77,8 +77,8 @@ which later investigation has not overthrown. Beyond this Niebuhr was
 not able to go, and not even one sign revealed its secret to his
 inquiry. When, however, he had published his copies (in 1777) there were
 other scholars ready to take up the difficult task. Two scholars
-independently, Olav Tychsen of Rostock and Friedrich Munter of
-Copenhagen, began work upon the problem. Tychsen first observed that
+independently, Olav Tychsen of Rostock and [[Friedrich]] Munter of
+[[Copenhagen]], began work upon the problem. Tychsen first observed that
 there occurred at irregular intervals in the inscriptions of the first
 class a wedge that pointed neither directly to the right nor downward,
 but inclined diagonally. This he suggested was the dividing sign used to
@@ -86,7 +86,7 @@ separate words. This very simple discovery later became of great
 importance in the hands of Munter. Tychsen also correctly identified the
 alphabetic signs for "_a_," "_d_," "_u_" and "_s_," but he failed to
 decipher an entire inscription, chiefly perhaps because, through an
-error in history, he supposed that they were written during the Parthian
+[[Error|error]] in history, he supposed that they were written during the Parthian
 dynasty (246 B.C.-A.D. 227). Munter was more fortunate than Tychsen in
 his historical researches, and this made him also more successful in
 linguistic attempts. He rightly identified the builders of Persepolis
@@ -103,12 +103,12 @@ stalemate. New methods must be found, and a new worker, with patience,
 persistence, power of combination, insight, the historical sense and the
 feeling for archaeological indications.
 
-In 1802 Georg Friedrich Grotefend (q.v.) was persuaded by the librarian
-of Gottingen University to essay the task. He began with the assumption
+In 1802 Georg Friedrich [[Grotefend]] (q.v.) was persuaded by the librarian
+of Gottingen University to essay the task. He began with the [[Assumption|assumption]]
 that there were three languages, and that of these the first was ancient
 Persian, the language of the Achaemenians, who had erected these palaces
 and caused these inscriptions to be written. For his first attempts at
-decipherment he chose two of these old Persian inscriptions and laid
+decipherment he [[Chose|chose]] two of these old Persian inscriptions and laid
 them side by side. They were of moderate length, and the frequent
 recurrence of the same signs in them seemed to indicate that their
 contents were similar. The method which he now pursued was so simple,
@@ -145,7 +145,7 @@ that in these two inscriptions he had the names of three rulers,
 grandfather, father and son. It was now easy to search the list of the
 Achaemenian dynasty and to find three names which would suit the
 conditions, and the three which he ventured to select were Hystaspes,
-Darius, Xerxes. According to his hypothesis the name at the beginning of
+[[Darius]], Xerxes. According to his [[Hypothesis|hypothesis]] the name at the beginning of
 inscription I. was Darius, and he was ready to translate his texts in
 part as follows:--
 
@@ -156,21 +156,21 @@ The form which he provisionally adopted for Darius was Darheush; later
 investigation has shown that it ought really to be read as Daryavush,
 but the error was not serious, and he had safely secured at least the
 letters D, A, R, SH. It was a most wonderful achievement, the importance
-of which he did not realize, for in it was the key to the decipherment
+of which he did not realize, for in it was the [[Key|key]] to the decipherment
 of three ancient languages. To very few men has it been given to make
 discoveries so important both for history and for philology.
 
 To Grotefend it was, however, not given to translate a whole text, or
 even to work out all the words whose meaning he had surmised. Rasmus
 Christian Rask (1787-1832), who followed him, found the plural ending in
-Persian, which had baffled him; and Eugene Burnouf (1801-1852), by the
+Persian, which had baffled him; and Eugene [[Burnouf]] (1801-1852), by the
 study of a list of Persian geographical names found at Naksh-i-Rustam,
 discovered at a single stroke almost all the characters of the Persian
 alphabet, and incidentally confirmed the values already determined by
 his predecessors.
 
 At the same time as Burnouf, the eminent Sanskrit scholar Professor
-Christian Lassen (1800-1876), of Bonn, was studying the same list of
+Christian [[Lassen]] (1800-1876), of [[Bonn]], was studying the same list of
 names; and his results were published at the same time. The controversy
 which resulted as to priority of discovery may be here passed over while
 we sum up the results in general conclusions. Lassen may certainly claim
@@ -205,8 +205,8 @@ for a man of another people, of different training and a fresh and
 unbiased mind, to put the capstone upon the decipherment, and he was
 already at work when Lassen's important researches appeared.
 
-Major (afterward Sir) Henry Rawlinson had gone out to India, in the
-service of the East India Company, while still a boy. There he had
+[[Major]] (afterward Sir) Henry Rawlinson had gone out to India, in the
+service of the [[East India Company]], while still a boy. There he had
 learned Persian and several of the Indian vernaculars. That was not the
 sort of training that had prepared Grotefend, Burnouf or Lassen, but it
 was the kind that the early travellers and copyists had enjoyed. In 1833
@@ -246,10 +246,10 @@ consecutive generations of the Persian monarchy; and it so happened that
 the first three names of Hystaspes, Darius and Xerxes, which I applied
 at hazard to the three groups, according to the succession, proved to
 answer in all respects satisfactorily and were, in fact, the true
-identification."
+[[Identification|identification]]."
 
 Rawlinson's next work was the copying of the great inscription of Darius
-on the rocks at Behistun (q.v.). He had first seen it in 1835, and as it
+on the rocks at [[Behistun]] (q.v.). He had first seen it in 1835, and as it
 was high up on the rocky face, and apparently inaccessible, he had
 studied it by means of a field-glass. He was not able to copy the whole
 of the Persian text, but in 1837, when he was more skilled in the
@@ -264,13 +264,13 @@ sensation, and a transcript sent in April to the Asiatic Society of
 Paris secured him an honorary membership in that distinguished body. He
 was now known, and many made haste to send him copies of everything
 important which had been published in Europe. The works of Burnouf,
-Niebuhr, le Brun and Porter came to his hands, and with such assistance
+Niebuhr, [[Le Brun|le Brun]] and Porter came to his hands, and with such assistance
 he made rapid progress, and in the winter of 1838-1839 his alphabet of
 ancient Persian was almost complete. In 1839 he was in Bagdad, his work
 written out and almost ready for publication. But he delayed, hoping for
 more light, and revising sign by sign with exhaustless patience. He
 expected to publish his preliminary memoir in the spring of 1840, when
-he was suddenly sent to Afghanistan as political agent at Kandahar. Here
+he was suddenly sent to Afghanistan as political agent at [[Kandahar]]. Here
 he was too busily engaged in war administration to attend to his
 favourite studies, which were not renewed until 1843 when he returned to
 Bagdad. There he received fresh copies and corrections of the Persepolis
@@ -296,7 +296,7 @@ the decipherment.
 
 The work of the decipherment of the old Persian texts was now complete
 for all practical purposes. But in 1846 there appeared a paper read
-before the Royal Irish Academy by the Rev. Edward Hincks of Killyleagh,
+before the Royal Irish Academy by the Rev. Edward Hincks of [[Killyleagh]],
 County Down, Ireland, whose keen criticisms of Lassen's work, and
 original contributions to the definite settlement of syllabic values,
 may be regarded as closing the period of decipherment of Persian
@@ -337,7 +337,7 @@ great advance was made by Hincks in 1846 and 1847. In these he
 determined successfully the values of several signs, settled the
 numerals, and was apparently on the high-road toward the translation of
 an entire Assyrian text. He was, however, too cautious to proceed so
-far, and the credit of first translating a short Assyrian text belongs
+far, and the [[Credit|credit]] of first translating a short Assyrian text belongs
 to Longperier, who in 1847 published the following as the translation of
 an entire text: "Glorious is Sargon, the great king, the (...) king,
 king of kings, king of the land of Assyria." It was nearly all correct,
@@ -347,7 +347,7 @@ to transliterate the Assyrian words. This was the great problem. In the
 Persian texts there were but forty-four signs, but in the third column
 of the Persepolis texts Grotefend had counted one hundred and thirty
 different characters, and estimated that in all the Babylonian texts
-known to him there were about three hundred different signs, while Botta
+known to him there were about three hundred different signs, while [[Botta]]
 discovered six hundred and forty-two in the texts found by him at
 Khorsabad. That was enough to make the stoutest heart quail, for a
 meaning must be found for every one of these signs. There could not be
@@ -424,15 +424,15 @@ alphabet. It has (1) simple syllables, consisting of one vowel and a
 consonant, or a vowel by itself, thus [symbol] "a," [symbol] ab,
 [symbol] ib, [symbol] ub, [symbol] ba, [symbol] bi, [symbol] bu. In
 addition to these the Assyrian had also (2) compound syllables, such as
-[symbol] bit, [symbol] bal, and (3) ideograms, or signs which express an
+[symbol] [[Bit|bit]], [symbol] bal, and (3) ideograms, or signs which express an
 entire word, such as [symbol] _beltu_, lady, [symbol] _abu_, father. The
 difficulty of reading this script is enormously increased by the fact
 that many signs are polyphonous, i.e. they may have more than one
 syllabic value and also be used as an ideogram. Thus the sign [symbol]
 has the ideographic values of _matu_, land, _shadu_, mountain,
 _kashadu_, to conquer, _napachu_, to arise (of the sun), and also the
-syllabic values _kur_, _mad_, _mat_, _shad_, _shat_, _lat_, _nad_,
-_nat_, _kin_ and _gin_. This method of writing must lead to ambiguity,
+syllabic values _kur_, _mad_, _[[Mat|mat]]_, _shad_, _shat_, _lat_, _nad_,
+_nat_, _[[Kin|kin]]_ and _[[Gin|gin]]_. This method of writing must lead to ambiguity,
 and this difficulty is helped somewhat by (4) determinatives, which are
 signs intended to indicate the class to which the word belongs. Thus,
 the [symbol] is placed before names of persons, and [symbol] (the
@@ -459,18 +459,18 @@ also adopted the cuneiform script with values of their own, and
 expressed a considerable literature in it. The discovery in 1887 of the
 Tell-el-Amarna tablets in upper Egypt showed that the same script was in
 use in the 15th century B.C., from Elam to the Mediterranean and from
-Armenia to the Persian Gulf for purposes of correspondence. There is
+[[Armenia]] to the Persian Gulf for purposes of correspondence. There is
 good reason to expect the discovery of its use by yet other peoples. It
 was one of the most widely used of all the forms of ancient writing.
 
   BIBLIOGRAPHY.--The history of the decipherment may be further studied
   in R. W. Rogers, _History of Babylonia and Assyria_, vol. i. (N.Y. and
-  London, 1900); and in A. J. Booth, _The Discovery and Decipherment of
+  London, 1900); and in A. J. [[Booth]], _The Discovery and Decipherment of
   the Trilingual Cuneiform Inscriptions_ (London, 1902), which is very
   exhaustive and accurate. The Sumerian question may best be studied in
   F. H. Weissbach, _Die Sumerische Frage_ (Leipzig, 1898), and Charles
-  Fossey, _Manuel d'Assyriologie_, tome i. (Paris, 1904). For
-  development and characteristics, see Friedrich Delitzsch, _Die
+  Fossey, _[[Manuel]] d'Assyriologie_, tome i. (Paris, 1904). For
+  development and characteristics, see Friedrich [[Delitzsch]], _Die
   Entstehung des altesten Schriftsystems_ (Leipzig, 1897); Paul
   Toscanne, _Les Signes sumeriens derives_ (Paris, 1905).     (R. W. R.)
 

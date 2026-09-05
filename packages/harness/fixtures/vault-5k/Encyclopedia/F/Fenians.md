@@ -30,14 +30,14 @@ called upon and to yield implicit obedience to the commands of their
 superior officers. The object of Stephens, O'Mahony and other leaders of
 the movement was to form a great league of Irishmen in all parts of the
 world against British rule in Ireland. The organization was modelled on
-that of the French Jacobins at the Revolution; there was a "Committee of
+that of the French [[Jacobins]] at the Revolution; there was a "Committee of
 Public Safety" in Paris, with a number of subsidiary committees, and
 affiliated clubs; its operations were conducted secretly by unknown and
 irresponsible leaders; and it had ramifications in every part of the
 world, the "Fenians," as they soon came to be generally called, being
 found in Australia, South America, Canada, and above all in the United
 States, as well as in the large centres of population in Great Britain
-such as London, Manchester and Glasgow. It is, however, noteworthy that
+such as London, Manchester and [[Glasgow]]. It is, however, noteworthy that
 Fenianism never gained much hold on the tenant-farmers or agricultural
 labourers in Ireland, although the scurrilous press by which it was
 supported preached a savage vendetta against the landowners, who were to
@@ -52,7 +52,7 @@ The Phoenix Club conspiracy in Kerry was easily crushed by the
 government, who had accurate knowledge from an informer of what was
 going on. Some twenty ringleaders were put on trial, including Donovan,
 and when they pleaded guilty were, with a single exception, treated with
-conspicuous leniency. But after a convention held at Chicago under
+conspicuous leniency. But after a convention held at [[Chicago]] under
 O'Mahony's presidency in November 1863 the movement began to show signs
 of life. About the same time the _Irish People_, a revolutionary journal
 of extreme violence, was started in Dublin by Stephens, and for two
@@ -87,12 +87,12 @@ movement to account in the settlement of the Alabama claims. The Fenian
 of the expedition was entrusted to John O'Neill, who crossed the Niagara
 river at the head of some 800 men on the 1st of June 1866, and captured
 Fort Erie. But large numbers of his men deserted, and at Ridgeway the
-Fenians were routed by a battalion of Canadian volunteers. On the 3rd of
+Fenians were routed by a [[Battalion|battalion]] of Canadian volunteers. On the 3rd of
 June the remnant surrendered to the American warship "Michigan"; and the
 tardy issue of President Johnson's proclamation enforcing the laws of
 neutrality brought the raid to an ignominious end; the prisoners were
 released, and the arms taken from the raiders were, according to Henri
-Le Caron, "returned to the Fenian organization, only to be used for the
+[[Le Caron]], "returned to the Fenian organization, only to be used for the
 same purpose some four years later." In December 1867, John O'Neill
 became president of the Brotherhood in America, which in the following
 year held a great convention in Philadelphia attended by over 400
@@ -108,7 +108,7 @@ the many trusted men stationed between Ogdensburg and St Albans," in
 preparation for the intended raid. It took place in April 1870, and
 proved a failure not less rapid or complete than the attempt of 1866.
 The Fenians under O'Neill's command crossed the Canadian frontier near
-Franklin, Vt., but were dispersed by a single volley from Canadian
+[[Franklin]], Vt., but were dispersed by a single volley from Canadian
 volunteers; while O'Neill himself was promptly arrested by the United
 States authorities acting under the orders of President Grant.
 
@@ -123,7 +123,7 @@ rolling stock on the railway to be appropriated for transport to
 Holyhead, where shipping was to be seized and a descent made on Dublin
 before the authorities should have time to interfere. This scheme was
 frustrated by information given to the government by the informer John
-Joseph Corydon, one of Stephens's most trusted agents. Some
+Joseph [[Corydon]], one of Stephens's most trusted agents. Some
 insignificant outbreaks in the south and west of Ireland brought "the
 rebellion of 1867" to an ignominious close. Most of the ringleaders were
 arrested, but although some of them were sentenced to death none was
@@ -149,7 +149,7 @@ sympathizers being, first, that as "political offenders" they should not
 have been treated as ordinary murderers; and, secondly, that as they had
 no deliberate intention to kill the police-sergeant, the shot that
 caused his death having been fired for the purpose of breaking open the
-lock of the van, the crime was at worst that of manslaughter. But even
+[[Lock|lock]] of the van, the crime was at worst that of [[Manslaughter|manslaughter]]. But even
 if these pleas rest on a correct statement of the facts they have no
 legal validity, and they afford no warrant for the title of the
 "Manchester martyrs" by which these criminals are remembered among the
@@ -158,14 +158,14 @@ escaped to the United States, where the former obtained employment in
 the New York custom-house.
 
 In the same month, November 1867, one Richard Burke, who had been
-employed by the Fenians to purchase arms in Birmingham, was arrested and
+employed by the Fenians to purchase arms in [[Birmingham]], was arrested and
 lodged in Clerkenwell prison in London. While he was awaiting trial a
 wall of the prison was blown down by gunpowder, the explosion causing
-the death of twelve persons, and the maiming of some hundred and twenty
+the death of twelve persons, and the [[Maiming|maiming]] of some hundred and twenty
 others. This outrage, for which Michael Barrett suffered the death
 penalty, powerfully influenced W.E. Gladstone in deciding that the
 Protestant Church of Ireland should be disestablished as a concession to
-Irish disaffection. In 1870, Michael Davitt (q.v.) was sentenced to
+Irish disaffection. In 1870, Michael [[Davitt]] (q.v.) was sentenced to
 fifteen years' penal servitude for participation in the Fenian
 conspiracy; and before he was released on ticket of leave the name
 Fenian had become practically obsolete, though the "Irish Republican
@@ -178,7 +178,7 @@ with the "constitutional movement" under the leadership of C.S. Parnell
 the agrarian revolution inaugurated by the Land League.
 
   See William O'Connor Morris, _Ireland from 1798 to 1898_ (London,
-  1898); _Two Centuries of Irish History, 1601-1870_, edited by R. Barry
+  1898); _Two Centuries of Irish History, 1601-1870_, edited by R. [[Barry]]
   O'Brien (London, 1907); Henri Le Caron, _Twenty-five Years in the
   Secret Service_ (London, 1892); Patrick J.P. Tynan, _The Irish
   National Invincibles and their Times_ (London, 1896); Justin M'Carthy,

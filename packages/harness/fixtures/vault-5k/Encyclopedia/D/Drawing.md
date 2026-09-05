@@ -5,10 +5,10 @@ substantive _drawing_ is confined by usage to its artistic sense,
 delineation or design. The word "draw," from a root common to the
 Teutonic languages (Goth, _dragan_, O.H.G. _drahan_, Mod. Ger. _tragen_,
 which all have the sense of "carry," O. Norse _draga_, A.S. _drazan_,
-_drazen_, "draw," cf. Lat. _trahere_), means to pull or "drag" (a word
+_drazen_, "draw," cf. Lat. _trahere_), means to pull or "[[Drag|drag]]" (a word
 of the same origin) as distinct from the action of pushing. It is thus
-used of traction generally, whether by men, animals or machines. The
-same idea is preserved in "drawing" as applied to the fine arts. We do
+used of traction generally, whether by men, animals or [[Machine|machines]]. The
+same idea is preserved in "drawing" as applied to the [[Fine Arts|fine arts]]. We do
 not usually say, or think, that a sculptor is drawing when he is using
 his chisel, although he may be expressing or defining forms, nor that an
 engraver is drawing when he is pushing the burin with the palm of the
@@ -45,7 +45,7 @@ reasons for believing that the words were often indiscriminately
 applied. Although the modern Italians have both _traire_ and _trarre_,
 they use _delineare_ still in the sense of artistic drawing, and also
 _adombrare_. The Greek verb [Greek: graphein] appears in English in
-"graphic" and in many compounds, such as photograph, &c. It is worth
+"graphic" and in many [[Compound|compounds]], such as photograph, &c. It is worth
 observing that the Greeks seem to have considered drawing and writing
 (q.v.) as essentially the same process, since they used the same word
 for both. This points to the early identity of the two arts when drawing
@@ -55,7 +55,7 @@ and simple kind. Even in the present day picture writing is not
 unfrequently resorted to by travellers as a means of making themselves
 intelligible. There is also a kind of art which is writing in the modern
 sense and drawing at the same time, such as the work of the medieval
-illuminators in their manuscripts.     (X.)
+illuminators in their [[Manuscript|manuscripts]].     (X.)
 
 _The Art of Drawing._--Rather than attempt here a historical survey of
 the various so-called "styles" of drawing, or write a personal
@@ -68,7 +68,7 @@ At the outset a distinction must be made between drawing as a means of
 symbolic or literary expression and drawing as the direct and only means
 of expressing the beauty of form. If Pharaoh wants to have it known that
 a hundred ducks were consumed at one meal in his court, he employs a
-draughtsman to register the fact on a frieze by picturing a row of cooks
+draughtsman to register the fact on a frieze by picturing a row of [[Cook|cooks]]
 occupied in preparing the hundred ducks. The artist in this case does
 not represent the scene as he must have known it in the kitchen, with
 all its variety of movement and composition (as an early Greek vase
@@ -88,7 +88,7 @@ amusing if they were done by the hand of Michelangelo, nor would the
 mystic designs of Blake be more full of meaning if drawn by Rembrandt,
 for in neither case do these works depend upon any subtle rendering of
 the forms of nature for their success, but upon the dramatic or
-intellectual imagination of the man who conceived them. When the witty
+intellectual [[Imagination|imagination]] of the man who conceived them. When the witty
 or ethical man is at the same time a master draughtsman his work has two
 values, the "literary" content and the beauty of his drawing of natural
 objects. But it must be borne in mind that these values are
@@ -113,7 +113,7 @@ appeal to the lover of nature independently of indirect considerations.
 
 What is the content of pure drawing? It is held by some that drawing or
 monochrome can suggest colour, and many people, some consciously, others
-unconsciously, attempt to represent in drawings the colours of figures
+unconsciously, attempt to represent in drawings the [[Colours|colours]] of figures
 and landscape. It seems a strange aberration to argue that by different
 intensities of the one colour various other colours can be suggested: it
 would not be more unreasonable to maintain that E flat and F could be
@@ -136,7 +136,7 @@ where a man has, for instance, a black hat or cloak. But in these few
 instances the "colour" tone is applied with such discretion that the
 true representation of the form is scarcely, perhaps only theoretically,
 impaired: they certainly have gained nothing in colour value because no
-specific colour is manifest in them. In Rembrandt's, Claude's or
+specific colour is [[Manifest|manifest]] in them. In Rembrandt's, Claude's or
 Turner's drawings of landscapes the formation of the country, the
 architecture, &c., is expressed by line, light and shade, and enhanced
 by shadows cast from clouds and trees. If, in the drawings of masters,
@@ -159,7 +159,7 @@ As the immediate purpose and content of drawing there remains the
 representation of form only. Drawing is, therefore, essentially the same
 activity as sculpture, and has no additional scope. "Pupils," says
 Donatello, "I give you the whole art of sculpture when I tell you to
-draw" (cited by Holroyd, _Michel Angelo_, p. 2 95), and the only
+draw" (cited by [[Holroyd]], _Michel Angelo_, p. 2 95), and the only
 practical teaching of drawing might be summed up by the inversion of the
 above.
 
@@ -251,13 +251,13 @@ draughtsmen see them.
 
 An attempt should be made to explain the psycho-physiological process
 that must take place in the mind of the real draughtsman. When we look
-at an object in nature we know its length and breadth by the flat image
+at an object in nature we know its length and breadth by the flat [[Image|image]]
 on the retina; we see also the light and shade, which at once gives us a
 correct idea of the object's depth or relief. But we do not, nor could
 we, have this idea from the flat image on the retina alone, i.e. from
 the mere perception of the light and shade: our knowledge of its depth
 is the result of experience, i.e. of our having from infancy remarked a
-certain dispensation of light and shade on, and peculiar to, every form
+certain [[Dispensation|dispensation]] of light and shade on, and peculiar to, every form
 we have touched or traversed, and so, by association and inference,
 being early enabled to have ideas of the depth of things by their
 various arrangements of lights and darks without having to touch or
@@ -290,9 +290,9 @@ inner-modelling, which also is done by vision alone, for the lights and
 darks of the original are copied down as so many flat patterns fitted
 together and gradated like a child's puzzle, and are not used merely as
 indication by which to "feel" the depth of the object. Such a procedure
-is as if in drawing a brick of which three sides were visible, one were
+is as if in drawing a [[Brick|brick]] of which three sides were visible, one were
 first to draw the entire contour (fig. 4, a), the subtle perspective of
-which he might get correct with some mechanical apparatus or by infinite
+which he might get correct with some mechanical apparatus or by [[Infinite|infinite]]
 mechanical pains, and then fill up the interior with its "shading" (fig.
 4, b). The method would be plainly laborious, unintelligent and
 unedifying, and in drawing the most complicated foreshortened forms of
@@ -380,9 +380,9 @@ same act of vision. Every complex form, even so simple as that of a
 kidney, for instance, must be first broken up into its component parts
 before it can be fully apprehended or remembered. Analogously with the
 above, Prof. Wundt has shown how the mind can apprehend _as separate
-units_ any number, of marbles for instance, up to five, after which
-every number must be split up into lots of twos, threes, fours and
-fives, or twenties, thirties and so on, before it can realize the full
+units_ any number, of [[Marbles|marbles]] for instance, up to five, after which
+every number must be split up into [[Lot|lots]] of twos, threes, fours and
+[[Fives|fives]], or twenties, thirties and so on, before it can realize the full
 content of that number in one and the same mental picture. So the only
 way to receive an intelligible idea of a complex form, such as a human
 figure, is first to discover in the figure itself, and then in all its
@@ -393,7 +393,7 @@ clearly will he conceive and distinguish in nature each subtle
 modification of these elementary forms, their direction, their relation
 to, and their dependence upon one another. The only difference between a
 good draughtsman and a bad one is the degree of subtlety of his
-apprehension. Unless the draughtsman has seen some such clear forms in
+[[Apprehension|apprehension]]. Unless the draughtsman has seen some such clear forms in
 his original, his labour to produce a work of art will be grievous and
 fruitless. All good drawing is stamped with this kind of structural
 insight. The more the artist adheres to nature, and the more finished
@@ -433,7 +433,7 @@ layman, towards nature, we can better explain his attitude towards works
 of art. The average man or artist has not a highly developed
 appreciation of form _per se_, whether it be the form of natural or
 manufactured objects. And it would seem that he is still less a
-disinterested spectator of the forms and features of his fellow beings
+disinterested spectator of the forms and features of his [[Fellow|fellow]] beings
 and animals, their movements, their colour, their value in a room or
 landscape. He has sentimental, moral or intellectual preferences. In
 other words, he likes or dislikes only those faces or figures which
@@ -475,7 +475,7 @@ visualization of the forms we know in nature?" and no other principle of
 judgment can be applicable to all drawing alike. Hence only those who
 have by natural endowment a clear sense of the forms of things, and who
 have made more than ordinary study of them, are in a position to apply
-to drawings the above criterion with any approach to infallibility. It
+to drawings the above criterion with any approach to [[Infallibility|infallibility]]. It
 is a fact that there are, and always have been, a certain number of
 people who agree perfectly in their appreciation of the works of certain
 draughtsmen of different times and countries, and who can state reasons
@@ -614,7 +614,7 @@ neither the knowledge of, nor the care for, the forms of nature by
 virtue of which alone these drawings are what they are, and by which
 alone they can be immediately appreciated.     (J. R. FO.)
 
-_Drawing-Office Work._--In modern engineering, few pieces of mechanism
+_Drawing-Office Work._--In modern [[Engineering|engineering]], few pieces of mechanism
 are ever produced in the shops until their design has been settled in
 the "drawing office," and embodied in suitable drawings showing general
 and detailed views. This is a broad statement to which there are
@@ -661,7 +661,7 @@ left to the decision of foremen and skilled hands is now determined by
 the drawing-office staff. Heterogeneity in details is thus avoided, and
 the drawings reflect accurately and fully the past as well as the
 present practice of the firm. To so great an extent is this the case
-that the preparation of the tools, appliances, templets, jigs and
+that the preparation of the tools, appliances, templets, [[Jig|jigs]] and
 fixtures used in the shops is often now not permitted to be undertaken
 until proper drawings have been prepared for them, though formerly the
 foreman's own hand sketches generally sufficed. The practice of turret
@@ -747,7 +747,7 @@ weights.     (J. G. H.)
 
 DRAWING AND QUARTERING, part of the penalty anciently ordained in
 England for treason. Until 1870 the full punishment for the crime was
-that the culprit be dragged on a hurdle to the place of execution; that
+that the [[Culprit|culprit]] be dragged on a [[Hurdle|hurdle]] to the place of execution; that
 he be hanged by the neck but not till he was dead; that he should be
 disembowelled or drawn and his entrails burned before his eyes; that his
 head be cut off and his body divided into four parts or quartered. This
@@ -761,9 +761,9 @@ this was so speedily done that when the executioners pulled out his
 heart he spoke and said 'Jesus, Jesus.'" Edward Marcus Despard and his
 six accomplices were in 1803 hanged, drawn and quartered for conspiring
 to assassinate George III. The sentence was last passed (though not
-carried out) upon the Fenians Burke and O'Brien in 1867. There is a
+carried out) upon the [[Fenians]] Burke and O'Brien in 1867. There is a
 tradition that Harrison the regicide, after being disembowelled, rose
-and boxed the ears of the executioner.
+and boxed the [[Ear|ears]] of the executioner.
 
 ## See also
 

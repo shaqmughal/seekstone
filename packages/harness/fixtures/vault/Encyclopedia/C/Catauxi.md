@@ -3,8 +3,8 @@
 CATAUXI, a numerous cannibal tribe of South American Indians of the
 Purus river district, Brazil. They are a fine warlike race, with
 remarkably clear complexions and handsome features; round wrists and
-ankles they wear rings of twisted hair. They cultivate mandioc, and make
-pottery and bark canoes.
+[[Ankle|ankles]] they wear rings of twisted hair. They cultivate mandioc, and make
+pottery and bark [[Canoe|canoes]].
 
 ## See also
 

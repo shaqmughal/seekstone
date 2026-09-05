@@ -2,7 +2,7 @@
 
 BACHAUMONT, LOUIS PETIT DE (1690-1771), French littérateur, was of noble
 family and was brought up at the court of Versailles. He passed his whole
-life in Paris as the centre of the _salon_ of Madame Doublet de Persan
+life in Paris as the centre of the _salon_ of Madame [[Doublet]] de Persan
 (1677-1771), where criticism of art and literature took the form of
 malicious gossip. A sort of register of news was kept in a journal of the
 _salon_, which dealt largely in scandals and contained accounts of books

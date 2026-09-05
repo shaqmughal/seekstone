@@ -10,7 +10,7 @@ tags: [history, art]
 BIRKENFELD, a town of Germany, capital of the principality of the same
 name, on the Zimmerbach, 25 m. S.E. of Trier and on the main line of
 railway from Bingerbrück to Neunkirchen. Pop. 2500. Close by, on an
-eminence, lie the ruins of the castle of Birkenfeld, dating from the
+[[Eminence|eminence]], lie the ruins of the castle of Birkenfeld, dating from the
 14th century, once the residence of the counts palatine of Zweibrücken.
 The town has an Evangelical and a Roman Catholic church, a grand-ducal
 high school and a hospital. Besides brewing and tanning, its industries
@@ -25,8 +25,8 @@ trinkets. The principality has an area of 312 sq. m. and a population
 (1900) of 43,409, chiefly Protestants. It is formed out of the former
 lordships of Dachstuhl and Oberstein, of part of the ancient countship of
 Sponheim, and sections of the duchy of Jülich, which were granted to the
-grand-duke of Oldenburg by the congress of Vienna in 1815. It is entirely
-an _enclave_ in Prussian territory, and though it is represented in the
+[[Grand-Duke|grand-duke]] of Oldenburg by the congress of Vienna in 1815. It is entirely
+an _[[Enclave|enclave]]_ in Prussian territory, and though it is represented in the
 Oldenburg diet, it is governed by a separate _Regierungskollegium_,
 consisting of a president and two members, who are responsible to the
 Oldenburg ministry.

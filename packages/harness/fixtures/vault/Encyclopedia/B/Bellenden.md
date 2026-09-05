@@ -7,7 +7,7 @@ type: source
 
 # Bellenden
 
-BELLENDEN (BALLANTYNE or BANNATYNE), JOHN (fl. 1533-1587), Scottish
+BELLENDEN ([[Ballantyne|BALLANTYNE]] or BANNATYNE), JOHN (fl. 1533-1587), Scottish
 writer, was born about the end of the 15th century, in the south-east of
 Scotland, perhaps in East Lothian. He appears to have been educated,
 first at the university of St Andrews and then at that of Paris, where
@@ -17,7 +17,7 @@ king's earliest years, and that the post he held was clerk of accounts.
 At the request of James he undertook translations of Boece's _Historia
 Scotorum_, which had appeared at Paris in 1527, and the first five books
 of Livy. As a reward for his versions, which he finished in 1533, he was
-appointed archdeacon of Moray and a canon of Ross. He was a strenuous
+appointed [[Archdeacon|archdeacon]] of Moray and a canon of Ross. He was a strenuous
 opponent of the Reformation and was compelled to go into exile. He is
 said by some authorities to have died at Rome in 1550; by others to have
 been still living in 1587. His translation of Boece, entitled _The
@@ -29,7 +29,7 @@ Maitland, in 1821. The translation of Livy was not printed till 1822
 the Advocates' library, Edinburgh (which was the basis of the normalized
 text of 1822), the other (c. 1550) in the possession of Mr Ogilvie
 Forbes of Boyndlie. An edition of the work was edited for the Scottish
-Text Society by Mr W.A. Craigie (2 vols. 1901, 1903). The second volume
+Text Society by Mr W.A. [[Craigie]] (2 vols. 1901, 1903). The second volume
 of this edition contains also a complete reprint of the portions of the
 holograph first draft which were discovered in the British Museum in
 1902. Two poems by Bellenden--_The Proheme to the Cosmographe_ and the

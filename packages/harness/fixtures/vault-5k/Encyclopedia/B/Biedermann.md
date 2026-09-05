@@ -7,12 +7,12 @@ tags: [thermodynamics-theory, history]
 
 # Biedermann
 
-BIEDERMANN, FRIEDRICH KARL (1812-1901), German publicist and historian,
+BIEDERMANN, [[Friedrich|FRIEDRICH]] KARL (1812-1901), German publicist and historian,
 was born at Leipzig on the 25th of September 1812, and after studying at
 Leipzig and Heidelberg became professor in the university of his native
 town in 1838. His early writings show him as an ardent advocate of
 German unity, and he was a member of the national parliament which met
-at Frankfort in 1848. Becoming a member of the Upper House of the
+at [[Frankfort]] in 1848. Becoming a member of the Upper House of the
 parliament of Saxony, he advocated union under the leadership of
 Prussia; and, subsequently losing his professorship, he retired to
 Weimar, where he edited the _Weimarische Zeitung_. Returning to Leipzig
@@ -25,7 +25,7 @@ Jahrhundert_ (Leipzig, 1854-1880); _Friedrich der grosse und sein
 Verhältnis zur Entwickelung des deutschen Geisteslebens_ (Brunswick,
 1859); _Geschichte Deutschlands 1815-1871_ (Berlin, 1891); _Deutsche
 Volks- und Kulturgeschichte_ (Wiesbaden, 1901). He also wrote the
-dramas, _Kaiser Heinrich IV._ (Weimar, 1861); _Kaiser Otto III._
+[[Drama|dramas]], _Kaiser Heinrich IV._ (Weimar, 1861); _Kaiser Otto III._
 (Leipzig, 1862); and _Der letzte Bürgermeister von Strassburg_ (Leipzig,
 1870).
 

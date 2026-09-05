@@ -1,7 +1,7 @@
 # Backwardation
 
 BACKWARDATION, or, as it is more often called for brevity, BACK, a
-technical term employed on the London Stock Exchange to express the amount
+technical term employed on the London Stock [[Exchange]] to express the amount
 charged for the loan of stock from one account to the other, and paid to
 the purchaser by the seller on a bear account (see ACCOUNT) in order to
 allow the seller to defer the delivery of the stock. The seller, having

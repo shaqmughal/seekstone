@@ -19,7 +19,7 @@ consisted mainly in the vicissitudes of a lasting feud with the de
 Lacys. In 1204 Hugh de Lacy utterly defeated de Courci in battle, and
 took him prisoner. De Courci, however, soon obtained his liberty,
 probably by giving hostages as security for a promise of submission
-which he failed to carry out, seeking an asylum instead with the
+which he failed to carry out, seeking an [[Asylum|asylum]] instead with the
 O'Neills of Tyrone. He again appeared in arms on hearing that Hugh de
 Lacy had obtained a grant of Ulster with the title of earl; and in
 alliance with the king of Man he ravaged the territory of Down; but was
@@ -33,7 +33,7 @@ de Courci and his wife Affreca were benefactors of the church, and
 founded several abbeys and priories in Ulster.
 
 A story is told that de Courci when imprisoned in the Tower volunteered
-to act as champion for King John in single combat against a knight
+to act as [[Champion|champion]] for King John in single combat against a [[Knight|knight]]
 representing Philip Augustus of France; that when he appeared in the
 lists his French opponent fled in panic; whereupon de Courci, to gratify
 the French king's desire to witness his prowess, "cleft a massive helmet

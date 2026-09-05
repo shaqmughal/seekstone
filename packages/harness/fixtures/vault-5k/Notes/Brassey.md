@@ -14,7 +14,7 @@ his early years he acquired the knowledge and practical experience which
 were the necessary foundation of his great reputation. His first
 engagement as railway contractor was entered upon in 1835, when he
 undertook the execution of a portion of the Grand Junction railway, on
-the invitation of the distinguished engineer Joseph Locke, who soon
+the invitation of the distinguished engineer Joseph [[Locke]], who soon
 afterwards entrusted him with the completion of the London and
 Southampton railway, a task which involved contracts to the amount of
 L4,000,000 sterling and the employment of a body of 3000 men. At the
@@ -42,7 +42,7 @@ sufficient to strain the energies of an ordinary mind. His profits were,
 of course, enormous, but prosperity did not intoxicate him; and when
 heavy losses came, as sometimes they did, he took them bravely and
 quietly. Among the greatest of his pecuniary disasters were those caused
-by the fall of the great Barentin viaduct on the Rouen and Havre
+by the fall of the great Barentin viaduct on the Rouen and [[Havre]]
 railway, and by the failure of Peto and Betts. Brassey was one of the
 first to aim at improving the relations between engineers and
 contractors, by setting himself against the corrupt practices which were
@@ -53,11 +53,11 @@ Large-hearted and generous to a rare degree, modest and simple in his
 taste and manners, he was conscious of his power as a leader in his
 calling, and knew how to use it wisely and for noble ends. Honours came
 to him unsought. The cross of the Legion of Honour was conferred on him.
-From Victor Emmanuel he received the cross of the Order of St Maurice
-and St Lazarus; and from the emperor of Austria the decoration of the
+From Victor [[Emmanuel]] he received the cross of the Order of St [[Maurice]]
+and St [[Lazarus]]; and from the emperor of Austria the decoration of the
 Iron Crown, which it is said had not before been given to a foreigner.
 He died at St Leonards on the 8th of December 1870. His life and labours
-are commemorated in a volume by Sir Arthur Helps (1872).
+are commemorated in a volume by Sir Arthur [[Helps]] (1872).
 
 He left three sons, of whom the eldest, THOMAS (b. 1836), was knighted
 and afterwards (1886) created BARON BRASSEY. Lord Brassey, who was
@@ -68,7 +68,7 @@ both before and after his elevation to the peerage did important work on
 naval and statistical inquiries for the government. In 1893-1805 he was
 president of the Institution of Naval Architects. In 1894 he was a
 lord-in-waiting, and from 1895 to 1900 was governor of Victoria. In 1908
-he was appointed lord warden of the Cinque Ports. His voyages in his
+he was appointed lord warden of the [[Cinque Ports]]. His voyages in his
 yacht "Sunbeam" from 1876 onwards, with his first wife (d. 1887), who
 published an interesting book on the subject, took him all over the
 world. Lord Brassey married a second time in 1890. Among other

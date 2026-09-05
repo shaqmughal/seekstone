@@ -1,6 +1,6 @@
 # Cor Anglais
 
-COR ANGLAIS, or ENGLISH HORN (Ger. _englisches Horn_ or _alt Hoboe_;
+COR ANGLAIS, or ENGLISH [[Horn|HORN]] (Ger. _englisches Horn_ or _alt Hoboe_;
 Ital. _corno inglese_), a wood-wind double-reed instrument of the oboe
 family, of which it is the tenor. It is not a horn, but bears the same
 relation to the oboe as the basset horn does to the clarinet. The cor
@@ -10,7 +10,7 @@ globular bell and a bent metal crook to which the double reed mouthpiece
 is attached. The fingering and method of producing the sound are so
 similar in both instruments that the player of the one can in a short
 time master the other, but as the cor anglais is pitched a fifth lower,
-the music must be transposed for it into a key a fifth higher than the
+the music must be transposed for it into a [[Key|key]] a fifth higher than the
 real sounds produced. The compass of the cor anglais extends over two
 octaves and a fifth:
 
@@ -47,7 +47,7 @@ FIG. 2.--Cor anglé, 18th century.]
 
   The origin of the name of the instrument is also a matter of
   conjecture. Two theories exist--one that cor anglais is a corruption
-  of _cor anglé_, a name given on account of the angular bend of the
+  of _cor anglé_, a name given on account of the angular [[Bend|bend]] of the
   early specimens. In that case the name, but not necessarily the
   instrument, probably originated in France early in the 18th century,
   for Gluck scored for two cors anglais in his Italian version of
@@ -67,7 +67,7 @@ FIG. 2.--Cor anglé, 18th century.]
   oboe, not globular like that of the cor anglais, a form to which the
   veiled quality of its _timbre_ is due. It is interesting in this
   connexion to recall some experiments in bending the cor anglais, which
-  do not appear to have led to any practical result. A French broadside
+  do not appear to have led to any practical result. A French [[Broadside|broadside]]
   (c. 1650), "La Musique," preserved in the British Museum, contains
   drawings of many musical instruments in use in the 17th century; among
   them are an oboe with keys in a perforated case, and two other wood
@@ -78,7 +78,7 @@ FIG. 2.--Cor anglé, 18th century.]
   by bending the tube in the elongated "S" shape of the _corno torto_ or
   bass Zinke, for which the drawing in question might be mistaken but
   for the bent crook inserted in the end for the reception of the reed,
-  which, however, is missing. The other hypothesis is that when the cor
+  which, however, is missing. The other [[Hypothesis|hypothesis]] is that when the cor
   anglais was given a bend in order to facilitate the handling, the name
   was adopted to mark its resemblance to a kind of hunting-horn said to
   be in use in England at the time. This suggestion does not seem to be
@@ -88,10 +88,10 @@ FIG. 2.--Cor anglé, 18th century.]
   of such a horn should be forthcoming to support the statement.
 
   The idea of bending the instrument is attributed to Giovanni or
-  Giuseppe Ferlendis of Bergamo,[3] brothers and virtuosi on the oboe.
+  Giuseppe Ferlendis of [[Bergamo]],[3] brothers and virtuosi on the oboe.
   One of these had settled in Salzburg, and both were equally renowned
-  as performers on the English horn. They visited Venice, Brescia,
-  Trieste, Vienna, London (in 1795) and Lisbon, where Giuseppe died. In
+  as performers on the English horn. They visited Venice, [[Brescia]],
+  Trieste, Vienna, London (in 1795) and [[Lisbon]], where Giuseppe died. In
   this case we might expect the name to have been given in Italian,
   _corno inglese_; yet Gluck in his Italian edition used the French name
   already in 1767, when Giuseppe was but twelve years old. We must await
@@ -100,7 +100,7 @@ FIG. 2.--Cor anglé, 18th century.]
   family of hautbois or oboes. The cor anglais was well known in England
   before 1774, for in a quaint book of travels through England,
   published in that year, we read that Signor Sougelder,[4] "an eminent
-  surgeon of Bristol," was a performer "on the English horn."
+  surgeon of [[Bristol]]," was a performer "on the English horn."
 
   The experiment of bending the cor anglais did not prove satisfactory,
   for the tube instead of being bored had to be cut out of two pieces of

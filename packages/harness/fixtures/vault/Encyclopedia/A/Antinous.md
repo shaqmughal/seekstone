@@ -9,19 +9,19 @@ extravagant respect to be paid to his memory. Not only were cities
 called after him, medals struck with his effigy, and statues erected to
 him in all parts of the empire, but he was raised to the rank of the
 gods, temples were built for his worship in Bithynia, Mantineia in
-Arcadia, and Athens, festivals celebrated in his honour and oracles
+[[Arcadia]], and Athens, festivals celebrated in his honour and oracles
 delivered in his name. The city of Antinoopolis was founded on the ruins
-of Besa where he died (Dio Cassius lix. 11; Spartianus, _Hadrian_). A
-number of statues, busts, gems and coins represented Antinous as the
+of Besa where he died ([[Dio Cassius]] lix. 11; Spartianus, _Hadrian_). A
+number of statues, busts, gems and [[Coin|coins]] represented Antinous as the
 ideal type of youthful beauty, often with the attributes of some special
 god. We still possess a colossal bust in the Vatican, a bust in the
 Louvre, a bas-relief from the Villa Albani, a statue in the Capitoline
 museum, another in Berlin, another in the Lateran, and many more.
 
-  See Levezow, _Uber den Antinous_ (1808); Dietrich, _Antinoos_ (1884);
+  See Levezow, _Uber den Antinous_ (1808); [[Dietrich]], _Antinoos_ (1884);
   Laban, _Der Gemutsausdruck des Antinoos_ (1891); _Antinous, A Romance
   of Ancient Rome_, from the German of A. Hausrath, by M. Saftord (New
-  York, 1882); Ebers, _Der Kaiser_ (1881).
+  York, 1882); [[Eber|Ebers]], _Der Kaiser_ (1881).
 
 
 
@@ -34,17 +34,17 @@ bank of the Orontes, about 20 m. from the sea and its port, Seleucia of
 Pieria (_Suedia_). Founded as a Greek city in 300 B.C. by Seleucus
 Nicator, as soon as he had assured his grip upon western Asia by the
 victory of Ipsus (301), it was destined to rival Alexandria in Egypt as
-the chief city of the nearer East, and to be the cradle of gentile
+the chief city of the nearer East, and to be the cradle of [[Gentile|gentile]]
 Christianity. The geographical character of the district north and
-north-east of the elbow of Orontes makes it the natural centre of Syria,
+north-east of the [[Elbow|elbow]] of Orontes makes it the natural centre of Syria,
 so long as that country is held by a western power; and only Asiatic,
 and especially Arab, dynasties have neglected it for the oasis of
-Damascus. The two easiest routes from the Mediterranean, lying through
+[[Damascus]]. The two easiest routes from the Mediterranean, lying through
 the Orontes gorge and the Beilan Pass, converge in the plain of the
-Antioch Lake (_Baluk Geut_ or _El Bahr_) and are met there by (1) the
+Antioch Lake (_Baluk Geut_ or _El [[Bahr]]_) and are met there by (1) the
 road from the Amanic Gates (Baghche Pass) and western Commagene, which
 descends the valley of the Kara Su, (2) the roads from eastern Commagene
-and the Euphratean crossings at Samosata (Samsat) and Apamea Zeugma
+and the Euphratean crossings at Samosata (Samsat) and [[Apamea]] Zeugma
 (Birejik), which descend the valleys of the Afrin and the Kuwaik, and
 (3) the road from the Euphratean ford at Thapsacus, which skirts the
 fringe of the Syrian steppe. Travellers by all these roads must proceed
@@ -62,14 +62,14 @@ spur of Casius, was to have security against invasion from the north,
 and command of the abundant waters of the mountain. One torrent, the
 Onopniktes ("donkey-drowner"), flowed through the new city, and many
 other streams came down a few miles west into the beautiful suburb of
-Daphne. The site appears not to have been found wholly uninhabited. A
+[[Daphne]]. The site appears not to have been found wholly uninhabited. A
 settlement, _Meroe_, boasting a shrine of Anait, called by the Greeks
 the "Persian Artemis," had long been located there, and was ultimately
 included in the eastern suburbs of the new city; and there seems to have
 been a village on the spur (Mt. Silpius), of which we hear in late
 authors under the name _Io_, or _Iopolis_. This name was always adduced
 as evidence by Antiochenes (e.g. Libanius) anxious to affiliate
-themselves to the Attic Ionians--an anxiety which is illustrated by the
+themselves to the [[Attic]] Ionians--an anxiety which is illustrated by the
 Athenian types used on the city's coins. At any rate, Io may have been a
 small early colony of trading Greeks (_Javan_). John Malalas mentions
 also a village, Bottia, in the plain by the river.
@@ -80,7 +80,7 @@ describes the first building and arrangement of this city (i. p. 300.
 17). The citadel was on Mt. Silpius and the city lay mainly on the low
 ground to the north, fringing the river. Two great colonnaded streets
 intersected in the centre. Shortly afterwards a second quarter was laid
-out, probably on the east and by Antiochus I., which, from an expression
+out, probably on the east and by [[Antiochus]] I., which, from an expression
 of Strabo, appears to have been the native, as contrasted with the
 Greek, town. It was enclosed by a wall of its own. In the Orontes, north
 of the city, lay a large island, and on this Seleucus II. Callinicus
@@ -93,12 +93,12 @@ Greek period we know nothing. In the 4th century A.D. it was about
 200,000 according to Chrysostom, who probably did not reckon slaves.
 About 4 m. west and beyond the suburb, Heraclea, lay the paradise of
 Daphne, a park of woods and waters, in the midst of which rose a great
-temple to the Pythian Apollo, founded by Seleucus I. and enriched with a
+temple to the Pythian [[Apollo]], founded by Seleucus I. and enriched with a
 cult-statue of the god, as Musagetes, by Bryaxis. A companion sanctuary
-of Hecate was constructed underground by Diocletian. The beauty and the
+of Hecate was constructed underground by [[Diocletian]]. The beauty and the
 lax morals of Daphne were celebrated all over the western world; and
 indeed Antioch as a whole shared in both these titles to fame. Its
-amenities awoke both the enthusiasm and the scorn of many writers of
+amenities awoke both the [[Enthusiasm|enthusiasm]] and the scorn of many writers of
 antiquity.
 
 Antioch became the capital and court-city of the western Seleucid empire
@@ -114,7 +114,7 @@ remain on the flank of Silpius, and of the royal palace, probably
 situated on the island. It enjoyed a great reputation for letters and the
 arts (Cicero _pro Archia_, 3); but the only names of distinction in these
 pursuits during the Seleucid period, that have come down to us, are
-Apollophanes, the Stoic, and one Phoebus, a writer on dreams. The mass of
+Apollophanes, the Stoic, and one Phoebus, a writer on [[Dream|dreams]]. The mass of
 the population seems to have been only superficially Hellenic, and to
 have spoken Aramaic in non-official life. The nicknames which they gave
 to their later kings were Aramaic; and, except Apollo and Daphne, the
@@ -129,10 +129,10 @@ city, to have occurred in 148 B.C., and to have done immense damage. The
 inhabitants were turbulent, fickle and notoriously dissolute. In the many
 dissensions of the Seleucid house they took violent part, and frequently
 rose in rebellion, for example against Alexander Balas in 147 B.C., and
-Demetrius II. in 129. The latter, enlisting a body of Jews, punished his
+[[Demetrius]] II. in 129. The latter, enlisting a body of Jews, punished his
 capital with fire and sword. In the last struggles of the Seleucid house,
 Antioch turned definitely against its feeble rulers, invited Tigranes of
-Armenia to occupy the city in 83, tried to unseat Antiochus XIII. in 65,
+[[Armenia]] to occupy the city in 83, tried to unseat Antiochus XIII. in 65,
 and petitioned Rome against his restoration in the following year. Its
 wish prevailed, and it passed with Syria to the Roman Republic in 64
 B.C., but remained a _civitas libera_.
@@ -141,16 +141,16 @@ The Romans both felt and expressed boundless contempt for the hybrid
 Antiochenes; but their emperors favoured the city from the first, seeing
 in it a more suitable capital for the eastern part of the empire than
 Alexandria could ever be, thanks to the isolated position of Egypt. To a
-certain extent they tried to make it an eastern Rome. Caesar visited it
+certain extent they tried to make it an eastern Rome. [[Caesar]] visited it
 in 47 B.C., and confirmed its freedom. A great temple to Jupiter
 Capitolinus rose on Silpius, probably at the instance of Octavian, whose
-cause the city had espoused. A forum of Roman type was laid out.
-Tiberius built two long colonnades on the south towards Silpius. Agrippa
+cause the city had espoused. A [[Forum|forum]] of Roman type was laid out.
+Tiberius built two long [[Colonnade|colonnades]] on the south towards Silpius. Agrippa
 and Tiberius enlarged the theatre, and Trajan finished their work.
 Antoninus Pius paved the great east to west artery with granite. A
-circus, other colonnades and great numbers of baths were built, and new
+[[Circus|circus]], other colonnades and great numbers of baths were built, and new
 aqueducts to supply them bore the names of Caesars, the finest being the
-work of Hadrian. The Roman client, King Herod, erected a long _stoa_ on
+work of Hadrian. The Roman client, King [[Herod]], erected a long _stoa_ on
 the east, and Agrippa encouraged the growth of a new suburb south of
 this. Under the empire we chiefly hear of the earthquakes which shook
 Antioch. One, in A.D. 37, caused the emperor Caligula to send two
@@ -166,13 +166,13 @@ November 528 and the 31st of October 588.
 
 At Antioch Germanicus died in A.D. 19, and his body was burnt in the
 forum. Titus set up the Cherubim, captured from the Jewish temple, over
-one of the gates. Commodus had Olympic games celebrated at Antioch, and
+one of the gates. Commodus had Olympic [[Games|games]] celebrated at Antioch, and
 in A.D. 266 the town was suddenly raided by the Persians, who slew many
 in the theatre. In 387 there was a great sedition caused by a new tax
 levied by order of Theodosius, and the city was punished by the loss of
 its metropolitan status. Zeno, who renamed it Theopolis, restored many
 of its public buildings just before the great earthquake of 526, whose
-destructive work was completed by the Persian Chosroes twelve years
+destructive work was completed by the Persian [[Chosroes]] twelve years
 later. Justinian made an effort to revive it, and Procopius describes
 his repairing of the walls; but its glory was past.
 
@@ -188,7 +188,7 @@ Julian visited the place in 362 the impudent population railed at him
 for his favour to Jewish and pagan rites, and to revenge itself for the
 closing of its great church of Constantine, burned down the temple of
 Apollo in Daphne. The emperor's rough and severe habits and his rigid
-administration prompted Antiochene lampoons, to which he replied in the
+administration prompted Antiochene [[Lampoon|lampoons]], to which he replied in the
 curious satiric _apologia_, still extant, which he called _Misopogon_.
 His successor, Valens, who endowed Antioch with a new forum having a
 statue of Valentinian on a central column, reopened the great church,
@@ -204,7 +204,7 @@ and decayed apace for more than 300 years; but in 969 it was recovered
 for Byzantium by Michael Burza and Peter the Eunuch. In 1084 the Seljuk
 Turks captured it but held it only fourteen years, yielding place to the
 crusaders, who besieged it for nine months, enduring frightful
-sufferings. Being at last betrayed, it was given to Bohemund, prince of
+sufferings. Being at last betrayed, it was given to [[Bohemund]], prince of
 Tarentum, and it remained the capital of a Latin principality for nearly
 two centuries. It fell at last to the Egyptian, Bibars, in 1268, after a
 great destruction and slaughter, from which it never revived. Little
@@ -217,41 +217,41 @@ figure, with Orontes as a youth issuing from under her feet.
 
 ANTAKIA, the modern town, is still of considerable importance. Pop.
 about 25,000, including Ansarieh, Jews, and a large body of Christians
-of several denominations about 8000 strong. Though superseded by Aleppo
+of several [[Denomination|denominations]] about 8000 strong. Though superseded by Aleppo
 (q.v.) as capital of N. Syria, it is still the centre of a large
 district, growing in wealth and productiveness with the draining of its
 central lake, undertaken by a French company. The principal cultures are
 tobacco, maize and cotton, and the mulberry for silk production.
 Liquorice also is collected and exported. In 1822 (as in 1872) Antakia
-suffered by earthquake, and when Ibrahim Pasha made it his headquarters
+suffered by earthquake, and when [[Ibrahim Pasha]] made it his headquarters
 in 1835, it had only some 5000 inhabitants. Its hopes, based on a
-Euphrates valley railway, which was to have started from its port of
+[[Euphrates]] valley railway, which was to have started from its port of
 Suedia (Seleucia), were doomed to disappointment, and it has suffered
 repeatedly from visitations of cholera; but it has nevertheless grown
 rapidly and will resume much of its old importance when a railway is
 made down the lower Orontes valley. It is a centre of American mission
 enterprise, and has a British vice-consul.
 
-  See C.O. Miiller, _Antiquitates Antiochenae_ (1839); A. Freund,
+  See C.O. Miiller, _Antiquitates Antiochenae_ (1839); A. [[Freund]],
   _Beitrage zur antiochenischen ... Stadtchronik_ (1882); R. Forster, in
-  _Jahrbuch_ of Berlin Arch. Institute, xii. (1897). Also authorities
+  _Jahrbuch_ of Berlin [[Arch]]. Institute, xii. (1897). Also authorities
   for SYRIA.     (D. G. H.)
 
 SYNODS OF ANTIOCH. Beginning with three synods convened between 264 and
 269 in the matter of Paul of Samosata, more than thirty councils were
 held in Antioch in ancient times. Most of these dealt with phases of the
 Arian and of the Christological controversies. The most celebrated took
-place in the summer of 341 at the dedication of the golden Basilica, and
+place in the summer of 341 at the [[Dedication|dedication]] of the golden [[Basilica]], and
 is therefore called _in encaeniis_ ([Greek: en egkainiois]), _in
 dedicatione_. Nearly a hundred bishops were present, all from the
 Orient, but the bishop of Rome was not represented. The emperor
-Constantius attended in person. The council approved three creeds (Hahn,
+Constantius attended in person. The council approved three [[Creeds|creeds]] ([[Hahn]],
 SS 153-155). Whether or no the so-called "fourth formula" (Hahn, S 156)
 is to be ascribed to a continuation of this synod or to a subsequent but
 distinct assembly of the same year, its aim is like that of the first
 three; while repudiating certain Arian formulas it avoids the Athanasian
-shibboleth "homoousios." The somewhat colourless compromise doubtless
-proceeded from the party of Eusebius of Nicomedia, and proved not
+shibboleth "homoousios." The somewhat colourless [[Compromise|compromise]] doubtless
+proceeded from the party of [[Eusebius]] of Nicomedia, and proved not
 inacceptable to the more nearly orthodox members of the synod. The
 twenty-five canons adopted regulate the so-called metropolitan
 constitution of the church. Ecclesiastical power is vested chiefly in
@@ -264,12 +264,12 @@ equal rank; re-trial may take place only before that authority to whom
 appeal regularly lies (see canons 3, 4, 6). Without due invitation, a
 bishop may not ordain, or in any other way interfere with affairs lying
 outside his proper territory; nor may he appoint his own successor.
-Penalties are set on the refusal to celebrate Easter in accordance with
-the Nicene decree, as well as on leaving a church before the service of
-the Eucharist is completed. The numerous objections made by eminent
+Penalties are set on the refusal to celebrate [[Easter]] in accordance with
+the Nicene [[Decree|decree]], as well as on leaving a church before the service of
+the [[Eucharist]] is completed. The numerous objections made by eminent
 scholars in past centuries to the ascription of these twenty-five canons
 to the synod _in encaeniis_ have been elaborately stated and probably
-refuted by Hefele. The canons formed part of the _Codex canonum_ used at
+refuted by [[Hefele]]. The canons formed part of the _Codex canonum_ used at
 Chalcedon in 451 and passed over into the later collections of East and
 West.
 

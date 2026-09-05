@@ -7,7 +7,7 @@ topic: literature
 # Bellabella
 
 BELLABELLA, the common name (popularized from the Indian corruption of
-Milbank) for a tribe of Kwakiutl Indians at Milbank, British Columbia,
+Milbank) for a tribe of Kwakiutl Indians at Milbank, British [[Columbia]],
 including the subtribes Kokaitk, Oetlitk and Ocalitk. They were
 converted to Christianity by Protestant missionaries, and number about
 300.

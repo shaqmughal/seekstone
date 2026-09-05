@@ -1,8 +1,8 @@
 # Gendarmerie
 
 GENDARMERIE, originally a body of troops in France composed of
-_gendarmes_ or men-at-arms. In the days of chivalry they were mounted
-and armed cap-à-pie, exactly as were the lords and knights, with whom
+_gendarmes_ or men-at-arms. In the days of [[Chivalry|chivalry]] they were mounted
+and armed cap-à-pie, exactly as were the lords and [[Knight|knights]], with whom
 they constituted the most important part of an army. They were attended
 each by five soldiers of inferior rank and more lightly armed. In the
 later middle ages the men-at-arms were furnished by owners of fiefs. But
@@ -11,8 +11,8 @@ _compagnies d'ordonnance_ which Charles VII. formed when the English
 were driven out of France, and which were distributed throughout the
 whole extent of the kingdom for preserving order and maintaining the
 king's authority. These companies, fifteen in number, were composed of
-100 lances or gendarmes fully equipped, each of whom was attended by at
-least three archers, one _coutillier_ (soldier armed with a cutlass) and
+100 [[Lance|lances]] or gendarmes fully equipped, each of whom was attended by at
+least three [[Archer|archers]], one _coutillier_ (soldier armed with a [[Cutlass|cutlass]]) and
 one _varlet_ (soldier's servant). The states-general of Orleans (1439)
 had voted a yearly subsidy of 1,200,000 livres in perpetuity to keep up
 this national soldiery, which replaced, and in fact was recruited

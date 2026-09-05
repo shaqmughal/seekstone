@@ -6,9 +6,9 @@ UNEMPLOYMENT). Historically the term is applied to the system of
 equitable labour exchanges established in England between 1832 and 1834
 by Robert Owen and his followers. The idea is said to have originated
 with Josiah Warren, who communicated it to Owen. Warren tried an
-experiment in 1828 at Cincinnati, opening an exchange under the title of
+experiment in 1828 at Cincinnati, opening an [[Exchange|exchange]] under the title of
 a "time store." He joined in starting another at Tuscarawas, Ohio, and a
-third at Mount Vernon, Indiana, but none were quite on the same line as
+third at Mount Vernon, [[Indiana]], but none were quite on the same line as
 the English exchanges. The fundamental idea of the English exchanges was
 to establish a currency based upon labour; Owen in _The Crisis_ for June
 1832 laid down that all wealth proceeded from labour and knowledge; that
@@ -35,8 +35,8 @@ trouble also arose with the proprietors of the premises, and the
 experiment came to an untimely end early in 1834.
 
   See F. Podmore's _Robert Owen_, ii. c. xvii. (1906); B. Jones,
-  _Co-operative Production_, c. viii. (1894); G. J. Holyoake, _History
-  of Co-operation_, c. viii. (1906).
+  _Co-operative Production_, c. viii. (1894); G. J. [[Holyoake]], _History
+  of [[Co-Operation|Co-operation]]_, c. viii. (1906).
 
 
 
@@ -45,12 +45,12 @@ LABOUR LEGISLATION. Regulation of labour,[1] in some form or another,
 whether by custom, royal authority, ecclesiastical rules or by formal
 legislation in the interests of a community, is no doubt as old as the
 most ancient forms of civilization. And older than all civilization is
-the necessity for the greater part of mankind to labour for maintenance,
+the necessity for the greater part of mankind to labour for [[Maintenance|maintenance]],
 whether freely or in bonds, whether for themselves and their families or
 for the requirements or superfluities of others. Even while it is clear,
-however, that manual labour, or the application of the bodily
+however, that [[Manual|manual]] labour, or the application of the bodily
 forces--with or without mechanical aid--to personal maintenance and the
-production of goods, remains the common lot of the majority of citizens
+production of goods, remains the common [[Lot|lot]] of the majority of citizens
 of the most developed modern communities, still there is much risk of
 confusion if modern technical terms such as "labour," "employer,"
 "labour legislation" are freely applied to conditions in bygone
@@ -66,7 +66,7 @@ master. An even more significant later change is seen in the steady
 development of a labour legislation, which arose in a clamant social
 need for the care of specially helpless "protected" persons in factories
 and mines, into a wider legislation for the promotion of general
-industrial health, safety and freedom for the worker from fraud in
+industrial health, safety and freedom for the worker from [[Fraud|fraud]] in
 making or carrying out wage contracts.
 
 If, then, we can discern these signs of important changes within so
@@ -74,7 +74,7 @@ short a period, great caution is needed in rapidly reviewing long
 periods of time prior to that industrial revolution which is traced
 mainly to the application of mechanical power to machinery in aid of
 manual labour, practically begun and completed within the second half of
-the 18th century. "In 1740 save for the fly-shuttle the loom was as it
+the 18th century. "In 1740 save for the fly-shuttle the [[Loom|loom]] was as it
 had been since weaving had begun ... and the law of the land was" (under
 the Act of Apprentices of 1503) "that wages in each district should be
 assessed by Justices of the Peace."[2] Turning back to still earlier
@@ -93,7 +93,7 @@ maladies known and regulated in our own times. Some of the maladies were
 described by Pliny and classed as "diseases of slaves." And he gave
 descriptions of processes, for example in the metal trades, as belonging
 entirely to his own day, which modern archaeological discoveries trace
-back through the earliest known Aryan civilizations to a prehistoric
+back through the earliest known [[Aryan]] civilizations to a prehistoric
 origin in the East, and which have never died out in western Europe, but
 can be traced in a concentrated manufacture with almost unchanged
 methods, now in France, now in Germany, now in England.
@@ -102,7 +102,7 @@ Little would be gained in such a sketch as this by an endeavour to piece
 together the scattered and scanty materials for a comparative history of
 the varying conditions and methods of labour regulation over so enormous
 a range. While our knowledge continually increases of the remains of
-ancient craft, skill and massed labour, much has yet to be discovered
+ancient [[Craft|craft]], skill and massed labour, much has yet to be discovered
 that may throw light on methods of organization of the labourers. While
 much, and in some civilizations most, of the labour was compulsory or
 forced, it is clear that too much has been sometimes assumed, and it is
@@ -111,7 +111,7 @@ beautiful earliest Egyptian products in metal work, weaving and other
 skilled craft work, were typical products of slave labour. Even in Rome
 it was only at times that the proportion of slaves valued as property
 was greater than that of hired workers, or, apart from capture in war or
-self-surrender in discharge of a debt, that purchase of slaves by the
+self-surrender in [[Discharge|discharge]] of a [[Debt|debt]], that purchase of slaves by the
 trader, manufacturer or agriculturist was generally considered the
 cheapest means of securing labour. As in early England the various
 stages of village industrial life, medieval town manufacture, and
@@ -121,7 +121,7 @@ even with the presence in part of slavery, so in other ages and
 civilizations the various methods of organization of labour are found to
 some extent together. The Germans in their primitive settlements were
 accustomed to the notion of slavery, and in the decline of the Roman
-Empire Roman captives from among the most useful craftsmen were carried
+Empire Roman [[Captive|captives]] from among the most useful craftsmen were carried
 away by their northern conquerors.
 
 The history and present details of the labour laws of various countries
@@ -129,7 +129,7 @@ are dealt with below in successive sections: (1) history of legislation
 in the United Kingdom; (2) the results as shown by the law in force in
 1909, with the corresponding facts for (3) Continental Europe and (4)
 the United States. Under other headings (TRADE-UNIONS, STRIKES AND
-LOCK-OUTS, ARBITRATION AND CONCILIATION, &c., &c.) are many details on
+LOCK-OUTS, [[Arbitration|ARBITRATION]] AND CONCILIATION, &c., &c.) are many details on
 cognate subjects.
 
 
@@ -152,9 +152,9 @@ next by the Norman invasion; the former brought in a vigour shown in
 growth of villages, increase in number of freemen, and formation of
 trading towns; the latter especially opened up new communications with
 the most civilized continental people, and was followed by a
-considerable immigration of artisans, particularly of Flemings. In Saxon
+considerable immigration of artisans, particularly of [[Fleming|Flemings]]. In Saxon
 England slavery in the strictest sense existed, as is shown in the
-earliest English laws, but it seems that the true slave class as
+earliest [[English Law|English laws]], but it seems that the true slave class as
 distinct from the serf class was comparatively small, and it may well be
 that the labour of an ordinary serf was not practically more severe, and
 the remuneration in maintenance and kind not much less than that of
@@ -188,11 +188,11 @@ export of wool from England, may be noted many agreements on the part of
 monasteries to sell their wool to Florentines, and during the same
 century absorption of alien artisans into the municipal system was
 practically completed. Charters of Henry I. provided for naturalization
-of these aliens. From the time of Edward I. to Edward III. a gradual
+of these aliens. From the time of Edward I. to Edward III. a [[Gradual|gradual]]
 transference of burgh customs, so far as recognized for the common good,
 to statute law was in progress, together with an assertion of the rights
 of the crown against ecclesiastical orders. "The statutes of Edward I.,"
-says Dr. Cunningham, "mark the first attempt to deal with Industry and
+says Dr. [[Cunningham]], "mark the first attempt to deal with Industry and
 Trade as a public matter which concerns the whole state, not as the
 particular affair of leading men in each separate locality." The first
 direct legislation for labour by statute, however, is not earlier than
@@ -221,7 +221,7 @@ and similar provisions with similar aims were confirmed by statutes of
 1360, 1368 and 1388, but the act of 1360, while prohibiting "all
 alliances and covins of masons, carpenters, congregations, chapters,
 ordinances and oaths betwixt them made," allowed "every lord to bargain
-or covenant for their works in gross with such labourers and artificers
+or [[Covenant|covenant]] for their works in [[Gross|gross]] with such labourers and artificers
 when it pleaseth them, so that they perform such works well and lawfully
 according to the bargain and covenant with them thereof made." Powers
 were given by the acts of 1368 and 1388 to justices to determine matters
@@ -257,7 +257,7 @@ practice a greater freedom to arrange rates when working within the
 city. Several of these statutes, and especially one of 1514, fixed the
 hours of labour when limiting wages. During March to September the
 limits were 5 A.M. to 7 or 8 P.M., with half an hour off for breakfast
-and an hour and a half off for mid-day dinner. In winter the outside
+and an hour and a half off for mid-day [[Dinner|dinner]]. In winter the outside
 limits were fixed by the length of daylight.
 
 Throughout the 15th century the rapidly increasing manufacture of cloth
@@ -282,7 +282,7 @@ but not primarily in the interests of the labourer. Thus night work was
 prohibited because it tended to secrecy and so to bad execution of work;
 working on holidays was prohibited to secure fair play between craftsmen
 and so on. The position of apprentices was made clear through
-indentures, but the position of journeymen was less certain. Signs are
+[[Indenture|indentures]], but the position of journeymen was less certain. Signs are
 not wanting of a struggle between journeymen and masters, and towards
 the end of the 15th century masters themselves, in at least the great
 wool trade, tended to develop from craftsmen into something more like
@@ -309,7 +309,7 @@ VI. against vagrancy differed rather in degree of severity than in
 principle from legislation for similar purposes in previous and
 subsequent reigns. The Statute of Labourers, passed in the fifth year of
 Elizabeth's reign (1562), as well as the poor law of the same year, was
-to a considerable extent both a consolidating and an amending code of
+to a considerable extent both a consolidating and an amending [[Code|code]] of
 law, and was so securely based on public opinion and deeply rooted
 custom that it was maintained in force for two centuries. It avowedly
 approves of principles and aims in earlier acts, regulating wages,
@@ -324,12 +324,12 @@ obligations on parallel lines for (a) artificers, (b) labourers in
 husbandry. Hiring was to be by the year, and any unemployed person
 qualified in either calling was bound to accept service on pain of
 imprisonment, if required, unless possessed of property of a specified
-amount or engaged in art, science or letters, or being a "gentleman."
+amount or engaged in art, science or letters, or being a "[[Gentleman|gentleman]]."
 Persons leaving a service were bound to obtain a testimonial, and might
 not be taken into fresh employment without producing such testimonial,
 or, if in a new district, until after showing it to the authorities of
 the place. A master might be fined £5, and a labourer imprisoned, and if
-contumacious, whipped, for breach of this rule. The carefully devised
+contumacious, whipped, for [[Breach|breach]] of this rule. The carefully devised
 scheme for technical training of apprentices embodied to a considerable
 extent the methods and experiences of the craft gilds. Hours of labour
 were as follows: "All artificers and labourers being hired for wages by
@@ -352,7 +352,7 @@ as regards hours of labour or regulation of fines deducted from wages is
 completely reversed, yet the difference is not great between the average
 length of hours of labour permissible under the present law for women
 and those hours imposed upon the adult labourer in Elizabeth's statute.
-Apart from the standpoint of compulsory imposition of fines, one
+Apart from the standpoint of compulsory [[Imposition|imposition]] of fines, one
 advantage in the definiteness of amount deductable from wages would
 appear to lie on the side of the earlier statute.
 
@@ -385,9 +385,9 @@ hands of employers and expansion of trade, followed closely by an
 unexampled development of invention in machinery and application of
 power to its use. completely altered the face of industrial England.
 From time to time, in respect of particular trades, provisions against
-truck and for payment of wages in current coin, similar to the act of
+truck and for payment of wages in current [[Coin|coin]], similar to the act of
 Edward IV. in the woollen industry, were found necessary, and this
-branch of labour legislation developed through the reigns of Anne and
+branch of labour legislation developed through the reigns of [[Anne]] and
 the four Georges until consolidation and amendment were effected, after
 the completion of the industrial revolution, in the Truck Act of 1831.
 From the close of the 17th century and during the 18th century the
@@ -440,7 +440,7 @@ prominence of suffering and injury to child life in the factory system
 to lead to parliamentary intervention.
 
 3. _From 1800 to the Codes of 1872 and 1878._--A serious outbreak of
-fever in 1784 in cotton mills near Manchester appears to have first
+[[Fever|fever]] in 1784 in cotton mills near Manchester appears to have first
 drawn widespread and influential public opinion to the overwork of
 children, under terribly dangerous and insanitary conditions, on which
 the factory system was then largely being carried on. A local inquiry,
@@ -452,7 +452,7 @@ county justices followed, in which they declared their intention in
 future to refuse "indentures of parish Apprentices whereby they shall be
 bound to Owners of Cotton Mills and other works in which children are
 obliged to work in the night or more than ten hours in the day." In 1795
-the Manchester Board of Health was formed, which, with fuller
+the Manchester Board of Health was formed, which, with [[Fuller|fuller]]
 information, more definitely advised legislation for the regulation of
 the hours and conditions of labour in factories. In 1802 the Health and
 Morals of Apprentices Act was passed, which in effect formed the first
@@ -502,7 +502,7 @@ young persons under eighteen years of age, as well as children,
 prohibiting night work between 8.30 P.M. and 5.30 A.M., and first
 providing for "inspectors" to enforce the law. This is the act which was
 based on the devoted efforts of Michael Sadler, with whose name in this
-connexion that of Lord Ashley, afterwards earl of Shaftesbury, was from
+connexion that of Lord [[Ashley]], afterwards earl of Shaftesbury, was from
 1832 associated. The importance of this act lay in its provision for
 skilled inspection and thus for enforcement of the law by an independent
 body of men unconnected with the locality in which the manufactures lay,
@@ -544,7 +544,7 @@ from underground working those under ten years, but it was not until
 other safeguards for health, life and limb in mines were seriously
 provided by law. With the exception of regulations against truck there
 was no protection for the miner before 1842; before 1814 it was not
-customary to hold inquests on miners killed by accidents in mines. From
+customary to hold [[Inquest|inquests]] on miners killed by accidents in mines. From
 1842 onwards considerable interaction in the development of the two sets
 of acts (mines and factories), as regards special protection against
 industrial injury to health and limb, took place, both in parliament and
@@ -559,8 +559,8 @@ Accidents adopted a suggestion of the inspectors for legislative
 extension of the practice of several colliery owners in framing special
 safety rules for working in mines. The act of 1855 provided seven
 general rules, relating to ventilation, fencing of disused shafts,
-proper means for signalling, proper gauges and valve for steam-boiler,
-indicator and brake for machine lowering and raising; also it provided
+proper means for signalling, proper [[Gauge|gauges]] and valve for steam-boiler,
+[[Indicator|indicator]] and brake for [[Machine|machine]] lowering and raising; also it provided
 that detailed special rules submitted by mine-owners to the secretary of
 state, might, on his approval, have the force of law and be enforceable
 by penalty. The Mines Act of 1860, besides extending the law to
@@ -604,7 +604,7 @@ the "general" safety rules, improvement of the method of formulating
 "special" safety rules, provision for certificated and competent
 management, and increased inspection. Several important matters were
 transferred from the special to the general rules, such as compulsory
-use of safety lamps where needed, regulation of use of explosives, and
+use of safety [[Lamp|lamps]] where needed, regulation of use of explosives, and
 securing of roofs and sides. Special rules, before being submitted to
 the secretary of state for approval, must be posted in the mine for two
 weeks, with a notice that objections might be sent by any person
@@ -615,7 +615,7 @@ the sections relating to daily control and supervision of every mine by
 a manager holding a certificate of competency from the secretary of
 state, after examination by a board of examiners appointed by the
 secretary of state, power being retained for him to cause later inquiry
-into competency of the holder of the certificate, and to cancel or
+into competency of the holder of the certificate, and to [[Cancel|cancel]] or
 suspend the certificate in case of proved unfitness.
 
 Returning to the development of factory and workshop law from the year
@@ -624,27 +624,27 @@ hours of women and young persons to 10 a day and fixed the daily limits
 between 6 A.M. and 6 P.M. (Saturday 6 A.M. to 2 P.M.)--lay in bringing
 trade after trade in some degree under the scope of this branch of law,
 which had hitherto only regulated conditions in textile factories.
-Bleaching and dyeing works were included by the acts of 1860 and 1862;
-lace factories by that of 1861; calendering and finishing by acts of
+[[Bleaching]] and dyeing works were included by the acts of 1860 and 1862;
+[[Lace|lace]] factories by that of 1861; calendering and finishing by acts of
 1863 and 1864; bakehouses became partially regulated by an act of 1863,
 with special reference to local authorities for administration of its
 clauses. The report of the third Children's Employment Commission
 brought together in accessible form the miserable facts relating to
 child labour in a number of unregulated industries in the year 1862, and
-the act of 1864 brought some of (these earthenware-making, lucifer
-match-making, percussion cap and cartridge making, paper-staining, and
+the act of 1864 brought some of (these earthenware-making, [[Lucifer|lucifer]]
+match-making, percussion cap and [[Cartridge|cartridge]] making, paper-staining, and
 fustian cutting) partly under the scope of the various textile factory
 acts in force. A larger addition of trades was made three years later,
 but the act of 1864 is particularly interesting in that it first
-embodied some of the results of inquiries of expert medical and sanitary
+embodied some of the results of inquiries of [[Expert|expert]] medical and sanitary
 commissioners, by requiring ventilation to be applied to the removal of
-injurious gases, dust, and other impurities generated in manufacture,
+injurious gases, [[Dust|dust]], and other impurities generated in manufacture,
 and made a first attempt to engraft part of the special rules system
 from the mines acts. The provisions for framing such rules disappeared
 in the Consolidating Act of 1878, to be revived in a better form later.
 The Sanitary Act of 1866, administered by local authorities, provided
 for general sanitation in any factories and workshops not under existing
-factory acts, and the Workshops Regulation Act of 1867, similarly to be
+[[Factory Acts|factory acts]], and the Workshops Regulation Act of 1867, similarly to be
 administered by local authorities, amended in 1870, practically
 completed the application of the main principle of the factory acts to
 all places in which manual labour was exercised for gain in the making
@@ -653,7 +653,7 @@ dangerous or injurious trades brought under regulation in 1864 and 1867
 (e.g. earthenware and lucifer match making, glass-making) ranked as
 "factories," although not using mechanical power, and for a time
 employment of less than fifty persons relegated certain workplaces to
-the category of "workshops," but broadly the presence or absence of such
+the [[Category|category]] of "workshops," but broadly the presence or absence of such
 motor power in aid of process was made and has remained the distinction
 between factories and workshops. The Factory Act of 1874, the last of
 the series before the great Consolidating Act of 1878, raised the
@@ -684,7 +684,7 @@ workshops, so as to bring about a standard working-day, and thus prevent
 the tendency in "the larger establishments to farm out work among the
 smaller, where it is done under less favourable conditions both sanitary
 and educational."[6] In these main directions, and that of simplifying
-definitions, summarizing special sanitary provisions that had been
+[[Definition|definitions]], summarizing special sanitary provisions that had been
 gradually introduced for various trades, and centralizing and improving
 the organization of the inspectorate, the Commission of 1876 on the
 Factory Acts made its recommendations, and the Factory Act of 1878 took
@@ -724,7 +724,7 @@ came into force 1st January 1902 (and became the principal act), was an
 amending as well as a consolidating act. Comparison of the two acts
 shows, however, that, in spite of the advantages of further
 consolidation and helpful changes in arrangement of sections and
-important additions which tend towards a specialized hygiene for factory
+important additions which tend towards a specialized [[Hygiene|hygiene]] for factory
 life, the fundamental features of the law as fought out in the 19th
 century remain undisturbed. So far as the law has altered in character,
 it has done so chiefly by gradual development of certain sanitary
@@ -783,7 +783,7 @@ health.
 The special measures from 1878 to 1889 gave valuable precedents for
 further developments of special hygiene in factory life, but the next
 advance in the Factory and Workshop Act 1891, following the House of
-Lords Committee on the sweating system and the Berlin International
+Lords Committee on the sweating system and the Berlin [[International]]
 Labour Conference, extended over much wider ground. Its principal
 objects were: (a) to render administration of the law relating to
 workshops more efficient, particularly as regards sanitation; with this
@@ -836,7 +836,7 @@ of the hours of labour. Second only in significance to these new
 developments was the addition, for the first time since 1867, of new
 classes of workplaces not covered by the general definitions in section
 93 of the Consolidating Act of 1878, viz.: (a) laundries (with special
-conditions as to hours, &c.); (b) docks, wharves, quays, warehouses and
+conditions as to hours, &c.); (b) [[Dock|docks]], wharves, quays, warehouses and
 premises on which machinery worked by power is temporarily used for the
 purpose of the construction of a building or any structural work in
 connexion with the building (for the purpose only of obtaining security
@@ -863,7 +863,7 @@ sanitation and safety, were developments of previous regulations, e.g.
 the fixing of a standard of overcrowding, provision of sanitary
 accommodation separate for each sex where the standard of the Public
 Health Act Amendment Act of 1890 had not been adopted by the competent
-local sanitary authority, power to order a fan or other mechanical means
+local sanitary authority, power to order a [[Fan|fan]] or other mechanical means
 to carry off injurious gas, vapour or other impurity (the previous power
 covering only dust). The fencing of machinery and definition of
 accidents were made more precise, young persons were prohibited from
@@ -903,7 +903,7 @@ state to fix a standard of sufficient ventilation; (b) drainage of wet
 floors; (c) the power of the secretary of state to define in certain
 cases what shall constitute sufficient and suitable sanitary
 accommodation. New safety provisions were those relating to--(a)
-Examination and report on steam boilers; (b) prohibition of employment
+Examination and report on steam [[Boiler|boilers]]; (b) prohibition of employment
 of a child in cleaning below machinery in motion; (c) power of the
 district council to make by-laws for escape in case of fire. The most
 important administrative alterations were: (a) a justice engaged in the
@@ -912,7 +912,7 @@ the same trade as, a person charged with an offence may not act at the
 hearing and determination of the charge; (b) ordinary supervision of
 sanitary conditions under which outwork is carried on was transferred to
 the district council, power being reserved to the Home Office to
-intervene in case of neglect or default by any district council.
+intervene in case of neglect or [[Default|default]] by any district council.
 
 
   Acts of 1903, 1906, 1907.
@@ -996,13 +996,13 @@ December 1901:--
   The person generally responsible for observance of the provisions of
   the law, whether these relate to health, safety, limitation of the
   hours of labour or other matters, is the _occupier_ (a term undefined
-  in the act) of the factory, workshop or laundry. There are, however,
+  in the act) of the factory, workshop or [[Laundry|laundry]]. There are, however,
   limits to his responsibility: (a) generally, where the occupier has
-  used due diligence to enforce the execution of the act, and can show
+  used due [[Diligence|diligence]] to enforce the execution of the act, and can show
   that another person, whether agent, servant, workman or other person,
   is the real offender; (b) specially in a factory the sections relating
   to employment of protected persons, where the owner or hirer of a
-  machine or implement driven by mechanical power is some person other
+  machine or [[Implement|implement]] driven by mechanical power is some person other
   than the occupier of the factory, the owner or hirer, so far as
   respects any offence against the act committed in relation to a person
   who is employed in connexion with the machine or implement, and is in
@@ -1077,7 +1077,7 @@ December 1901:--
   supplying water to a bakehouse must be quite separate from that
   supplying water to a water-closet, and the latter may not communicate
   directly with the bakehouse. Use of underground bakehouses (i.e. a
-  baking room with floor more than 3 ft. below the ground adjoining) is
+  [[Baking|baking]] room with floor more than 3 ft. below the ground adjoining) is
   prohibited, except where already used at the passing of the act;
   further, in these cases, after 1st January 1904, a certificate as to
   suitability in light, ventilation, &c., must be obtained from the
@@ -1088,7 +1088,7 @@ December 1901:--
   exceptions to the general law as he is empowered to grant. In
   factories, as distinct from workshops, a periodical lime washing (or
   washing with hot water and soap where paint and varnish have been
-  used) of all inside walls and ceilings once at least in every fourteen
+  used) of all inside walls and [[Ceiling|ceilings]] once at least in every fourteen
   months is generally required (in bakehouses once in six months). As
   regards sufficiency and suitability of sanitary accommodation, the
   standards determined by order of the secretary of state shall be
@@ -1144,7 +1144,7 @@ December 1901:--
   to neglect of any provision or special rule, the whole or any part of
   which may be applied for the benefit of the injured person or his
   family, as the secretary of state determines. When a death has
-  occurred by accident in a factory or workshop, the coroner must advise
+  occurred by accident in a factory or workshop, the [[Coroner|coroner]] must advise
   the factory inspector for the district of the place and time of the
   inquest. The secretary of state may order a formal investigation of
   the circumstances of any accident as in the case of mines. Careful and
@@ -1161,7 +1161,7 @@ December 1901:--
   ordinary work to any person working in the factory or workshop. In the
   case of (a) or (b) notice has also to be sent to the certifying
   surgeon by the occupier. Cases of lead, phosphorus, arsenical and
-  mercurial poisoning, or anthrax, contracted in any factory or workshop
+  mercurial poisoning, or [[Anthrax|anthrax]], contracted in any factory or workshop
   must similarly be reported and registered by the occupier, and the
   duty of reporting these cases is also laid on medical practitioners
   under whose observation they come. The list of classes of poisoning
@@ -1224,7 +1224,7 @@ December 1901:--
   conditions specified in the acts, for women, to meet seasonal or
   unforeseen pressure of business, or where goods of a perishable nature
   are dealt with, for young persons only in a very limited degree in
-  factories liable to stoppage for drought or flood, or for an
+  factories liable to stoppage for drought or [[Flood|flood]], or for an
   unfinished process. These and other cases of exceptional working are
   under minute and careful administrative regulations. Broadly these
   same regulations as to exceptional overtime may apply in _laundries_
@@ -1252,7 +1252,7 @@ December 1901:--
   eighteen, and overtime for women may never be later than 10 P.M. or
   before 6 A.M. Sunday work is prohibited except, under conditions, for
   Jews; and in factories, workshops and laundries six holidays
-  (generally the Bank holidays) must be allowed in the year. In
+  (generally the [[Bank Holidays|Bank holidays]]) must be allowed in the year. In
   creameries in which women and young persons are employed the secretary
   of state may by special order vary the beginning and end of the daily
   period of employment, and allow employment for not more than three
@@ -1264,7 +1264,7 @@ December 1901:--
   in the existing principal act, and the power to establish rules had
   been exercised between 1892 and 1901 in twenty-two trades or processes
   where injury arose either from handling of dangerous substances, such
-  as lead and lead compounds, phosphorus, arsenic or various chemicals,
+  as lead and lead compounds, phosphorus, [[Arsenic|arsenic]] or various chemicals,
   or where there is inhalation of irritant dust or noxious fumes, or
   where there is danger of explosion or infection of anthrax. Before the
   rule could be drawn up under the acts of 1891 to 1895, the secretary
@@ -1336,7 +1336,7 @@ December 1901:--
   electric accumulators; docks, processes of loading, unloading, &c.;
   tar distilling; factories in which self-acting mules are used; use of
   locomotives; spinning and weaving of flax, hemp and jute; manufacture
-  of paints and colours; heading of yarn dyed by means of lead
+  of paints and [[Colours|colours]]; heading of yarn dyed by means of lead
   compounds.
 
 
@@ -1361,7 +1361,7 @@ December 1901:--
   separately to each worker. The secretary of state has used his powers
   to extend this protection to non-textile workers, with suitable
   modifications, in various hardware industries, including pen-making,
-  locks, chains, in wholesale tailoring and making of wearing apparel,
+  [[Lock|locks]], chains, in wholesale tailoring and making of wearing apparel,
   in fustian cutting, umbrella-making, brush-making and a number of
   other piece-work trades. He further has in most of these and other
   trades used his power to extend this protection to outworkers.
@@ -1558,7 +1558,7 @@ coal and metalliferous mines.
   requires separate and sufficient sanitary conveniences for persons of
   each sex, was first extended by the act of 1887 to the portions of
   mines above ground in which girls and women are employed; underground
-  this matter is in metalliferous mines in Cornwall now provided for by
+  this matter is in metalliferous mines in [[Cornwall]] now provided for by
   special rules. Ventilation, the only other requirement in the acts
   that can be classed as sanitary, is provided for in every mine in the
   "general rules" which are aimed at securing safety of mines, and
@@ -1614,7 +1614,7 @@ coal and metalliferous mines.
   use; of rule 38, which strengthened the provision for periodical
   inspection of the mine by practical miners on behalf of the workmen at
   their own cost. With reference to the last-cited rule, during 1898 a
-  Prussian mining commission visited Great Britain, France and Belgium,
+  Prussian mining commission visited Great Britain, France and [[Belgium]],
   to study and compare the various methods of inspection by working
   miners established in these three countries. They found that, so far
   as the method had been applied, it was most satisfactory in Great
@@ -1696,7 +1696,7 @@ fix the times for the lowering and raising of the men to begin and be
 completed, and such times must be conspicuously posted at the pit head.
 These times must be approved by an inspector. The term "workman" in the
 act means any person employed in a mine below ground who is not an
-official of the mine (other than a fireman, examiner or deputy), or a
+official of the mine (other than a fireman, examiner or [[Deputy|deputy]]), or a
 mechanic or a horse keeper or a person engaged solely in surveying or
 measuring. In the case of a fireman, examiner, deputy, onsetter, pump
 minder, fanman or furnace man, the maximum period for which he may be
@@ -1732,7 +1732,7 @@ definition of a factory or workshop by reason only that such premises,
 _Kent_ v. _Astley_ that quarries in which the work, as a whole, was
 carried on in the open air were not factories; in a schedule to the same
 act quarries were defined as "any place not being a mine in which
-persons work in getting slate, stone, coprolites or other minerals." The
+persons work in getting slate, stone, [[Coprolites|coprolites]] or other minerals." The
 Factory Act of 1891 made it possible to bring these places in part under
 "special rules" adapted to meet the special risks and dangers of the
 operations carried on in them, and by order of the secretary of state
@@ -1809,7 +1809,7 @@ Health Act 1875.
   place belonging to or occupied with the places named, but the act does
   not apply to such wages as are paid by the resident, owner or occupier
   of the public-house, beer-shop and other places included in the
-  prohibition to any workman _bona fide_ employed by him. The penalty
+  prohibition to any workman _[[Bona Fide|bona fide]]_ employed by him. The penalty
   for an offence against this act is one not exceeding £10 (compare the
   limit of £20 for the corresponding offence under the Coal Mines Act),
   and all offences may be prosecuted and penalties recovered in England
@@ -1937,10 +1937,10 @@ a first offence, and for any subsequent offence a fine of not less than
 
   Persons benefited by Truck Acts.
 
-_Truck._--Setting aside the special Hosiery Manufacture (Wages) Act
+_Truck._--Setting aside the special [[Hosiery]] Manufacture (Wages) Act
 1874, aimed at a particular abuse appearing chiefly in the hosiery
 industry--the practice of making excessive charges on wages for
-machinery and frame rents--only two acts, those of 1887 and 1896, have
+machinery and [[Frame|frame]] rents--only two acts, those of 1887 and 1896, have
 been added to the general law against truck since the act of 1831, which
 repealed all prior Truck Acts and which remains the principal act.
 Further amendments of the law have been widely and strenuously demanded,
@@ -1974,7 +1974,7 @@ place or manner of expending his wages. Certain exemptions to the
 prohibition of payment otherwise than in coin were provided for in the
 act of 1831, if an agreement were made in writing and signed by the
 worker, viz. rent, victuals dressed and consumed under the employer's
-roof, medicine, fuel, provender for beasts of burden used in the trade,
+roof, medicine, [[Fuel|fuel]], provender for beasts of [[Burden|burden]] used in the trade,
 materials and tools for use by miners, advances for friendly societies
 or savings banks; in the case of fuel, provender and tools there was
 also a proviso that the charge should not exceed the real and true
@@ -2029,7 +2029,7 @@ in question were lace-clippers taking out work to do in their homes, and
 in the words of the High Court decision "though they do sometimes employ
 assistants are evidently, as a class, wage-earning manual labourers and
 not contractors in the ordinary and popular sense." The principle relied
-on in the decision was that in the case of _Ingram_ v. _Barnes_.
+on in the decision was that in the case of _Ingram_ v. _[[Barnes]]_.
 
 
     Meaning of "wages."
@@ -2163,7 +2163,7 @@ wider than in Great Britain, being in several countries not less than 11
 hours a day, and while in some, as in France, the normal limit is 10
 hours daily, yet the administrative discretion in granting exceptions is
 rather more elastic. The weekly half-holiday is a peculiarly British
-institution. On the other hand, in several European countries, notably
+institution. On the other hand, in several [[European Countries|European countries]], notably
 France, Austria, Switzerland and Russia, the legal maximum day applies
 to adult as well as youthful labour, and not only to specially protected
 classes of persons. As regards specialized sanitation for unhealthy
@@ -2191,7 +2191,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   workers. In 1851, under condition of notification to the local
   authorities, exceptions, still in force, were made to the general
   limitation, in favour of certain industries or processes, among others
-  for letterpress and lithographic printing, engineering works, work at
+  for letterpress and lithographic printing, [[Engineering|engineering]] works, work at
   furnaces and in heating workshops, manufacture of projectiles of war,
   and any work for the government in the interests of national defence
   or security. The limit of 12 hours was reduced, as regards works in
@@ -2252,7 +2252,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   one which protects apprentices against overwork (law of 22nd February
   1851), one (law of 29th December 1900) which requires that seats shall
   be provided for women and girls employed in retail sale of articles,
-  and a decree of the 28th of July 1904 defining in detail conditions of
+  and a [[Decree|decree]] of the 28th of July 1904 defining in detail conditions of
   hygiene in dormitories for workmen and shop assistants. The law
   relating to seats is enforced by the inspectors of factories. In
   France there is no special penal legislation against abuses of the
@@ -2279,7 +2279,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   women remain ordinarily unlimited by law, so are the hours of boys
   from 16 to 21. The law of Sunday rest dated the 17th of July 1905,
   however, applies to labour generally in all industrial and commercial
-  undertakings except transport and fisheries, with certain regulated
+  undertakings except transport and [[Fisheries|fisheries]], with certain regulated
   exceptions for (a) cases of breakdown or urgency due to _force
   majeure_, (b) certain repairs and cleaning, (c) perishable materials,
   (d) retail food supply. Young workers are excluded from the
@@ -2302,7 +2302,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   quarries, engineering and printing works. In some the daily limit is
   10 hours, but in more 10½ or 11 hours. In a few exceptionally
   unhealthy trades, such as the manufacture of lucifer matches,
-  vulcanization of india-rubber by means of carbon bi-sulphide, the age
+  vulcanization of india-rubber by means of [[Carbon|carbon]] bi-sulphide, the age
   of exclusion from employment has been raised, and in the last-named
   process hours have been reduced to 5, broken into two spells of 2½
   hours each. As a rule the conditions of health and safeguarding of
@@ -2325,7 +2325,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   authorizing the government to make regulations for every kind of risk
   in any undertaking, whether classed under the law of public health or
   not. By a special law of 1888 children and young persons under 18
-  years are excluded from employment as pedlars, hawkers or in circuses,
+  years are excluded from employment as pedlars, [[Hawker|hawkers]] or in [[Circus|circuses]],
   except by their parents, and then only if they have attained 14 years.
   Abuses of the truck system have, since 1887, been regulated with care.
   The chief objects of the law of 1887 were to secure payment in full to
@@ -2361,7 +2361,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   A.M. or after 7 P.M., Sunday work, and work on recognized holidays is
   generally prohibited, but there are exceptions. Overtime from 7 to 10
   P.M., under conditions, is allowed for women and young workers, and
-  Sunday work for women, for example, in butter and cheese making, and
+  Sunday work for women, for example, in [[Butter|butter]] and [[Cheese|cheese]] making, and
   night work for boys over 14 in certain industries. Employment of women
   within four weeks of childbirth is prohibited. Notices of working
   hours must be affixed in workplaces. Underground work in mines is
@@ -2404,7 +2404,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   workers of both sexes, and the general limit of the 11-hours' day,
   exclusive of at least one hour for meals, applies to men as well as
   women. The latter have, however, a legal claim, when they have a
-  household to manage, to leave work at the dinner-hour half an hour
+  household to [[Manage|manage]], to leave work at the dinner-hour half an hour
   earlier than the men. Men and unmarried women may be employed in such
   subsidiary work as cleaning before or after the general legal limits.
   On Saturdays and eves of the eight public holidays the 11-hours' day
@@ -2446,7 +2446,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   prohibits any charge for cleaning, warming or lighting workrooms or
   for hire of machinery. By the Federal law fines may not exceed half a
   day's wage. Administration of the Labour laws is divided between
-  inspectors appointed by the Federal Government and local authorities,
+  inspectors appointed by the [[Federal Government]] and local authorities,
   under supervision of the cantonal governments. The Federal Government
   forms a court of appeal against decisions of the cantonal
   governments.
@@ -2467,7 +2467,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   regulations for protection of life and limb of miners vary, as do the
   mining laws of the different states. To estimate the force of the
   Industrial Code in working, it is necessary to bear in mind the
-  complicated political history of the empire, the separate
+  complicated [[Political History|political history]] of the empire, the separate
   administration by the federated states, and the generally considerable
   powers vested in administration of initiating regulations. The
   Industrial Code expressly retains power for the states to initiate
@@ -2510,7 +2510,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   and even later if an educational certificate has not been obtained;
   until 14 years hours of employment may not exceed 6 in the 24. In
   processes and occupations under the scope of the Child Labour Law
-  children may not be employed by their parents or guardians before 10
+  children may not be employed by their parents or [[Guardian|guardians]] before 10
   years of age or by other employers before 12 years of age; nor between
   the hours of 8 P.M. and 8 A.M., nor otherwise than in full compliance
   with requirements of educational authorities for school attendance and
@@ -2535,7 +2535,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   Employment of protected persons in factory industries where there are
   special risks to health or morality may be forbidden or made dependent
   on special conditions. By the Child Labour Law employment of children
-  is forbidden in brickworks, stone breaking, chimney sweeping, street
+  is forbidden in [[Brickwork|brickworks]], stone breaking, chimney sweeping, street
   cleaning and other processes and occupations. By an order of the
   Federal Council in 1902 female workers were excluded from main
   processes in forges and rolling mills. All industrial employers alike
@@ -2545,7 +2545,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   ventilation to carry off dust, vapours and other impurities are
   especially required. Dining-rooms may be ordered by local authorities.
   Fencing and provision for safety in case of fire are required in
-  detail. The work of the trade accident insurance associations in
+  detail. The work of the trade accident [[Insurance|insurance]] associations in
   preventing accidents is especially recognized in provisions for
   special rules in dangerous or unhealthy industries. Officials of the
   state factory departments are bound to give opportunity to trustees of
@@ -2642,7 +2642,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   inspectorate is organized throughout under a central chief inspector.
 
   _Scandinavian Countries._--In Sweden the Factory Law was amended in
-  January 1901; in Denmark in July 1901. Until that year, however,
+  January 1901; in [[Denmark]] in July 1901. Until that year, however,
   Norway was in some respects in advance of the other two countries by
   its law of 1892, which applied to industrial works, including metal
   works of all kinds and mining. Women were thereby prohibited from
@@ -2669,7 +2669,7 @@ to be practically a seventh day rest, not necessarily Sunday.
   came into force, on the 1st of January 1902, that children under 12
   years have been excluded from factory labour. Control of child labour
   can be strengthened by municipal regulation, and this has been done in
-  Copenhagen by an order of the 23rd of May 1903. In Sweden the 12
+  [[Copenhagen]] by an order of the 23rd of May 1903. In Sweden the 12
   years' limit had for some time held in the larger factories; the scope
   has been extended so that it corresponds with the Norwegian law. The
   hours of children are, in Denmark, 6½ for those under 14 years; in
@@ -2807,7 +2807,7 @@ question of the education of young persons employed in manufacturing
 establishments. The regulation of hours of labour was warmly discussed
 in 1832, and several legislative committees and commissions reported
 upon it, but no specific action on the general question of hours of
-labour secured the indorsement of the Massachusetts legislature until
+labour secured the [[Indorsement|indorsement]] of the Massachusetts legislature until
 1874, although the day's labour of children under twelve years of age
 was limited to ten hours in 1842. Ten hours constituted a day's labour,
 on a voluntary basis, in many trades in Massachusetts and other parts of
@@ -2821,11 +2821,11 @@ nothing came of these petitions at that time. Again, in 1850, a similar
 effort was made, and also in 1851 and 1852, but the bills failed. Then
 there was a period of quiet until 1865, when an unpaid commission made a
 report relative to the hours of labour, and recommended the
-establishment of a bureau of statistics for the purpose of collecting
+establishment of a [[Bureau|bureau]] of statistics for the purpose of collecting
 data bearing upon the labour question. This was the first step in this
 direction in any country. The first bureau of the kind was established
 in Massachusetts in 1869, but meanwhile, in accordance with reports of
-commissions and the address of Governor Bullock in 1866, and the general
+commissions and the address of Governor [[Bullock]] in 1866, and the general
 sentiment which then prevailed, the legislature passed an act regulating
 in a measure the conditions of the employment of children in
 manufacturing establishments; and this is one of the first laws of the
@@ -2833,7 +2833,7 @@ kind in the United States, although the first legislation in the United
 States relating to the hours of labour which the writer has been able to
 find, and for which he can fix a date, was enacted by the state of
 Pennsylvania in 1849, the law providing that ten hours should be a day's
-work in cotton, woollen, paper, bagging, silk and flax factories.
+work in cotton, woollen, paper, [[Bagging|bagging]], silk and flax factories.
 
 
   Employment of children.
@@ -2861,7 +2861,7 @@ children employed in manufacturing and mechanical establishments was
 passed by the Massachusetts legislature. It differed from the act of the
 year previous in some respects, going deeper into the general question.
 It provided that no child under ten should be employed in any
-manufacturing or mechanical establishment of the commonwealth, and that
+manufacturing or mechanical establishment of the [[Commonwealth|commonwealth]], and that
 no child between ten and fifteen should be so employed unless he had
 attended school, public or private, at least three months during the
 year next preceding his employment. There were provisions relating to
@@ -2883,7 +2883,7 @@ the United States Bureau of Labour.
 A special piece of legislation which belongs to the commonwealth of
 Massachusetts, so far as experience shows, was that in 1872, providing
 for cheap morning and evening trains for the accommodation of working
-men living in the vicinity of Boston. Great Britain had long had such
+men living in the vicinity of [[Boston]]. Great Britain had long had such
 trains, which were called parliamentary trains. Under the Massachusetts
 law some of the railways running out of Boston furnished the
 accommodation required, and the system has since been in operation.
@@ -2906,11 +2906,11 @@ it did not abrogate the principles involved in earlier legislation,
 while in 1877 the commonwealth passed Factory Acts covering the general
 provisions of the British laws. It provided for the general inspection
 of factories and public buildings, the provisions of the law relating to
-dangerous machinery, such as belting, shafting, gearing, drums, &c.,
+dangerous machinery, such as belting, shafting, gearing, [[Drum|drums]], &c.,
 which the legislature insisted must be securely guarded, and that no
 machinery other than steam engines should be cleaned while running. The
 question of ventilation and cleanliness was also attended to. Dangers
-connected with hoistways, elevators and well-holes were minimized by
+connected with hoistways, [[Elevators|elevators]] and well-holes were minimized by
 their protection by sufficient trap-doors, while fire-escapes were made
 obligatory on all establishments of three or more storeys in height. All
 main doors, both inside and outside, of manufacturing establishments, as
@@ -2981,7 +2981,7 @@ found it wise to follow them.
   the Union. They prohibit overcrowding, and require proper ventilation,
   sufficient light and heat, the lime-washing or painting of walls and
   ceilings, the provision of exhaust fans and blowers in places where
-  dust or dangerous fumes are generated, guards on machinery, mechanical
+  dust or dangerous fumes are generated, [[Guards|guards]] on machinery, mechanical
   belts and gearing shifters, guards on elevators and hoistways,
   hand-rails on stairs, fire-escapes, &c.
 
@@ -3006,7 +3006,7 @@ found it wise to follow them.
   a day's labour, eight or ten hours respectively would be ruled as the
   day's labour in an action which might come before the courts. In a
   number of the states it is optional with the citizens to liquidate
-  certain taxes either by cash payments or by rendering personal
+  certain taxes either by [[Cash|cash]] payments or by rendering personal
   service. In the latter case the length of the working day is defined
   by law, eight hours being usually specified. The Federal government
   and nearly one-half of the states have laws providing that eight hours
@@ -3052,8 +3052,8 @@ found it wise to follow them.
   relief funds or other purposes, requiring the giving of notice of
   reduction of wages, &c.; (2) legislation granting certain privileges
   or affording special protection to working people with respect to
-  their wages, such as laws exempting wages from attachment, preferring
-  wage claims in assignments, and granting workmen liens upon buildings
+  their wages, such as laws exempting wages from [[Attachment|attachment]], preferring
+  wage claims in [[Assignment|assignments]], and granting workmen liens upon buildings
   and other constructions on which they have been employed.
 
 
@@ -3116,7 +3116,7 @@ found it wise to follow them.
   it a misdemeanour to break a contract of service and thereby endanger
   human life or expose valuable property to serious injury, or to make a
   contract of service and accept transportation or pecuniary
-  advancements with intent to defraud, prohibiting contracts of
+  advancements with [[Intent|intent]] to defraud, prohibiting contracts of
   employment whereby employés waive the right to damages in case of
   injury, &c. A Federal statute makes it a misdemeanour for any one to
   prepay the transportation or in any way assist or encourage the
@@ -3132,9 +3132,9 @@ found it wise to follow them.
   statutory provisions requiring the examination and licensing of
   persons practising certain trades other than those in the class of
   recognized professions. The Federal statute relates only to engineers
-  on steam vessels, masters, mates, pilots, &c. The occupations for
+  on steam vessels, masters, [[Mat|mates]], pilots, &c. The occupations for
   which examinations and licences are required by the various state laws
-  are those of barbers, horseshoers, elevator operators, plumbers,
+  are those of [[Barber|barbers]], horseshoers, elevator operators, plumbers,
   stationary firemen, steam engineers, telegraph operators on railroads
   and certain classes of mine workers and steam and street railway
   employés.
@@ -3158,7 +3158,7 @@ joining labour organizations, or to make it a condition of employment
 that they shall not belong to such bodies. Laws of this kind have
 generally been held to be unconstitutional. Nearly all the states have
 laws protecting trade unions in the use of the union label, insignia of
-membership, credentials, &c., and making it a misdemeanour to
+membership, [[Credentials|credentials]], &c., and making it a misdemeanour to
 counterfeit or fraudulently use them. A number of the states exempt
 labour organizations from the operations of the anti-trust and insurance
 acts.
@@ -3225,7 +3225,7 @@ the courts.
   publicity alone, some give the decisions the effect of judgments of
   courts of law which may be enforced by execution, while in other
   states disobedience to such decisions is punishable as for contempt of
-  court. The Federal statute applies only to common carriers engaged in
+  court. The Federal statute applies only to common [[Carrier|carriers]] engaged in
   interstate commerce, and provides for an attempt to be made at
   mediation by two designated government officials in controversies
   between common carriers and their employés, and, in case of the
@@ -3265,7 +3265,7 @@ injunction and punishment thereunder for contempt of court. It is a
 principle of law that when there are interferences, actual or
 threatened, with property or with rights of a pecuniary nature, and the
 common or statute law offers no adequate and immediate remedy for the
-prevention of injury, a court of equity may interpose and issue its
+prevention of injury, a court of [[Equity|equity]] may interpose and issue its
 order or injunction as to what must or must not be done, a violation of
 which writ gives the court which issued it the power to punish for
 contempt. The doctrine is that something is necessary to be done to stop
@@ -3277,7 +3277,7 @@ to frequently for the indirect protection of employés and of employers.
   AUTHORITIES.--ENGLISH: (a) Factory Legislation: Abraham and Davies,
   _Law relating to Factories and Workshops_ (London, 1897 and 1902);
   Redgrave, _Factory Acts_ (London, 1897); Royal Commission on Labour,
-  _Minutes of Evidence and Digests_, Group "C" (3 vols., 1892-1893),
+  _Minutes of Evidence and [[Digest|Digests]]_, Group "C" (3 vols., 1892-1893),
   _Assistant Commissioner's Report on Employment of Women_ (1893),
   _Fifth and Final Report of the Commission_ (1894); International
   Labour Conference at Berlin, _Correspondence, Commercial Series_ (C,
@@ -3304,11 +3304,11 @@ to frequently for the indirect protection of employés and of employers.
   Regulation Act_ 1887 (London, 1888). (c) Shops: _Statutes_: Shop Hours
   Acts 1892, 1893, 1896, Seats for Shop Assistants Act 1899; _Report of
   Select Committee of House of Commons on the Shop Hours Regulation Bill
-  1886_ (Eyre and Spottiswoode). (d) Truck: _Home Office Reports_:
+  1886_ ([[Eyre]] and Spottiswoode). (d) Truck: _Home Office Reports_:
   Annual Reports of H.M. Chief Inspector of Factories, especially
   1895-1900, Memorandum on the Law relating to Truck and Checkweighing
   Clauses of the Coal Mines Acts 1896, Memorandum relating to the Truck
-  Acts, by Sir Kenelm Digby, with text of Acts (1897).
+  Acts, by Sir Kenelm [[Digby]], with text of Acts (1897).
 
   CONTINENTAL EUROPE: _Annuaire de la législation du travail_
   (Bruxelles, 1898-1905); _Hygiène et sécurité des travailleurs dans les
@@ -3358,7 +3358,7 @@ FOOTNOTES:
     Legislation_, by B. L. Hutchins and A. Harrison (1903), pp. 5, 6.
 
   [6] Minutes of Evidence, House of Commons, 1876; quoted in _History
-    of Factory Legislation_, by Harrison and Hutchinson, p. 179.
+    of Factory Legislation_, by Harrison and [[Hutchinson]], p. 179.
 
 ## See also
 

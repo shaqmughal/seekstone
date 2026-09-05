@@ -10,7 +10,7 @@ type: source
 CATTLE (Norman Fr. _catel_, from Late Lat. _capitate_, wealth or
 property, a word applied in the feudal system to movable property and
 particularly to live stock, and surviving in its wider meaning as
-"chattel" or "chattle"), a general term for the cows and oxen of
+"[[Chattel|chattel]]" or "chattle"), a general term for the cows and oxen of
 agricultural use. For the zoological account, see BOVIDAE, and the
 subordinate articles there referred to; for details concerning
 dairy-farming, see DAIRY.
@@ -20,18 +20,18 @@ they undoubtedly were among the most important agents in the growth of
 early civilization. They are mentioned in the oldest written records of
 the Hebrew and Hindu peoples, and are figured on Egyptian monuments
 raised over 3000 years B.C.; while remains of domesticated specimens
-have been found in Swiss lake-dwellings along with the stone implements
-and other relics of Neolithic man. In infant communities a man's wealth
+have been found in Swiss lake-dwellings along with the stone [[Implement|implements]]
+and other relics of Neolithic man. In [[Infant|infant]] communities a man's wealth
 was measured by the number and size of his herds--Abraham, it is said,
 was rich in cattle--and oxen for a long period formed, as they still do
 among many savage or semi-savage tribes, the favourite medium of
-exchange between individuals and communities. After the introduction of
+[[Exchange|exchange]] between individuals and communities. After the introduction of
 a metal coinage into ancient Greece, this method of exchange was
-commemorated by stamping the image of an ox on the new money; while the
-connexion between cattle and coin as symbols of wealth has left its mark
+commemorated by stamping the [[Image|image]] of an ox on the new money; while the
+connexion between cattle and [[Coin|coin]] as symbols of wealth has left its mark
 on the languages of Europe, as is seen in the Latin word _pecunia_ and
 the English "pecuniary," derived from _pecus_, cattle. The value
-attached to cattle in ancient times is further shown by the Bull
+attached to cattle in ancient times is further shown by the [[Bull]]
 figuring among the signs of the zodiac; in its worship by the ancient
 Egyptians under the title of Apis; in the veneration which has always
 been paid to it by the Hindus, according to whose sacred legends it was
@@ -40,13 +40,13 @@ Deity to furnish the earth with animated beings; and in the important
 part it played in Greek and Roman mythology. The Hindus were not allowed
 to shed the blood of the ox, and the Egyptians could only do so in
 sacrificing to their gods. Both Hindus and Jews were forbidden to muzzle
-it when treading out the corn; to destroy it wantonly was a crime among
+it when treading out the [[Corn|corn]]; to destroy it wantonly was a crime among
 the Romans, punishable with exile.
 
 _Breeds_.--There exist in Britain four interesting remnants of what were
 at one time numerous enclosed herds of ancient forest cattle,[1] with
 black or red points, in parks at Chillingham, Cadzow, Vaynol (near
-Bangor, North Wales) and Chartley. A few of the last have been removed
+[[Bangor]], North Wales) and Chartley. A few of the last have been removed
 to Woburn. Other representatives of old stock are a resuscitated white
 Welsh breed with black points, derived from white specimens born of
 black Welsh cows; several herds of a white polled breed with black
@@ -57,9 +57,9 @@ related to the now extinct Glamorgan breed; the Shetland breed; and a
 few herds of Dutch cattle preserved for their superior milking powers.
 
 The prominent breeds of cattle in the British Isles[2] comprise the
-Shorthorn, Lincolnshire Red Shorthorn, Hereford, Devon, South Devon,
+Shorthorn, [[Lincolnshire]] Red Shorthorn, Hereford, Devon, South Devon,
 Sussex, Welsh, Longhorn, Red Polled, Aberdeen-Angus, Galloway, West
-Highland, Ayrshire, Jersey, Guernsey, Kerry and Dexter.
+Highland, Ayrshire, [[Jersey]], [[Guernsey]], Kerry and Dexter.
 
 The Shorthorn, Lincolnshire Red Shorthorn, Hereford, Devon, South Devon,
 Sussex, Longhorn and Red Polled breeds are native to England; the
@@ -80,7 +80,7 @@ cattle both at home and abroad. No census of breeds has ever been taken
 in the United Kingdom, but such an enumeration would show the Shorthorn
 far to exceed in numbers any other breed, whilst the great majority of
 cross-bred cattle contain Shorthorn blood. During the last quarter of
-the 18th century the brothers Charles Colling (1751-1836) and Robert
+the 18th century the brothers Charles [[Colling]] (1751-1836) and Robert
 Colling (1749-1820), by careful selection and breeding, improved the
 cattle of the Teeswater district in the county of Durham. If the
 Shorthorn did not originate thus, it is indisputable that the efforts of
@@ -90,7 +90,7 @@ the land of its birth, and the geographical name is far preferable, for
 the term "shorthorn" is applicable to a number of other breeds. Other
 skilled breeders turned their attention to the Shorthorns and
 established famous strains, the descendants of which can still be
-traced. By Thomas Booth, of Killerby and Warlaby in Yorkshire (1777),
+traced. By Thomas [[Booth]], of Killerby and Warlaby in Yorkshire (1777),
 the "Booth" strains of Shorthorns were originated; by Thomas Bates, of
 Kirklevington in Yorkshire, the "Bates" families[5] (1800).
 
@@ -111,7 +111,7 @@ the year 1875, when the sales took place of Lord Dunmore's and William
 Torr's herds, which realized extraordinary prices. In that black year of
 farming, 1879, prices were declining, and they continued to do so till
 within the last few years of the close of the 19th century, when there
-set in a gradual revival, stimulated largely by the commercial
+set in a [[Gradual|gradual]] revival, stimulated largely by the commercial
 prosperity of the country. The result of extremely high prices when
 line-bred animals were in fashion was a tendency to breed from all kinds
 of animals that were of the same tribe, without selection. A
@@ -121,7 +121,7 @@ was necessary. Meanwhile, for many years breeders in Aberdeenshire had
 been holding annual sales of young bulls and heifers from their herds.
 The late Amos Cruickshank began his annual sales in the 'forties, and
 the late W.T. Talbot-Crosbie had annual sales from his Shorthorn herd in
-the south-west of Ireland for a number of years. Many Aberdeen farmers
+the south-west of Ireland for a number of years. Many Aberdeen [[Farmer|farmers]]
 emigrated to Canada, and bought Shorthorn calves in their native county
 to take with them. The Cruickshanks held their bull sales at that time,
 and many of their animals were bought by the small breeders in Canada.
@@ -129,7 +129,7 @@ This continued until 1875, when the Cruickshanks had so much private
 demand that they discontinued their public sales. Subsequently, when
 Cruickshank sold his herd privately to James Nelson & Sons for
 exportation, the animals could not all be shipped, and W. Duthie, of
-Collynie, Aberdeenshire, bought some of the older cows, whilst J. Deane
+Collynie, Aberdeenshire, bought some of the older cows, whilst J. [[Deane]]
 Willis, of Bapton Monar, Wilts, bought the yearling heifers. Duthie
 thereupon resumed the sales that the Cruickshanks had relinquished, his
 averages being L30 in 1892, about L50 in 1893-1894, and L80 in 1895.
@@ -141,7 +141,7 @@ blood arose in the United States and Canada. A faithful contemporary
 history of the Shorthorn breed is to be found in _Thornton's Circular_,
 published quarterly since 1868; see also J. Sinclair, _History of
 Shorthorn Cattle_ (1907); R. Bruce, _Fifty Years among Shorthorns_
-(1907); A.H. Sanders, _Shorthorn Cattle_ (Chicago, 1901).
+(1907); A.H. Sanders, _Shorthorn Cattle_ ([[Chicago]], 1901).
 
 The _Lincolnshire Red Shorthorns_ are the best dual-purpose cattle--for
 milk and meat--that possess a pedigree record, in the United Kingdom,
@@ -151,11 +151,11 @@ tropical countries for crossing with the native breeds.
 The _Hereford_ breed is maintained chiefly in Herefordshire and the
 adjoining counties. Whilst a full red is the general colour of the body,
 the Herefords are distinguished by their white face, white chest and
-abdomen, and white mane. The legs up to the knee or hock are also often
+abdomen, and white mane. The [[Leg|legs]] up to the [[Knee|knee]] or hock are also often
 white. As a protection against the sun in a hot climate dark spots on
-the eyelids or round the orbits are valuable. The horns are moderately
+the eyelids or round the orbits are valuable. The [[Horn|horns]] are moderately
 long. Herefords, though they rear their own calves, have acquired but
-little fame as dairy cattle. They are very hardy, and produce beef of
+little fame as dairy cattle. They are very hardy, and produce [[Beef|beef]] of
 excellent quality. Being docile, they fatten easily and readily, and as
 graziers' beasts they are in high favour.
 
@@ -164,9 +164,9 @@ Hereford gradually replaced the Shorthorn of the western ranches, and it
 is now the most numerous ranch animal in the United States and Canada.
 The bulls beat the bulls of all other breeds in "rustling" capacity.
 
-In America the ranch-bred Herefords have got too small in the bone in
+In America the ranch-bred Herefords have got too small in the [[Bone|bone]] in
 recent years, and Shorthorns, chiefly of the Scottish type, are being
-introduced to increase their size by crossing. In the "feed lot" a
+introduced to increase their size by crossing. In the "feed [[Lot|lot]]" a
 well-bred Hereford steer feeds more quickly than either a Shorthorn or
 an Aberdeen-Angus.
 
@@ -177,7 +177,7 @@ quartered in the ordinary butchers' fashion, the hind-quarters outweigh
 the fore-quarters, which is a reversal of the prevailing rule.
 
 _North Devons_.--The "Rubies of the West," as they are termed from their
-hue, are reared chiefly in Devon and Somerset. The colour is a whole
+[[Hue|hue]], are reared chiefly in Devon and Somerset. The colour is a whole
 red, its depth or richness varying with the individual, and in summer
 becoming mottled with darker spots. The Devons stand somewhat low; they
 are neat and compact, and possess admirable symmetry. Although a smaller
@@ -198,7 +198,7 @@ also called "Hammers." With a somewhat ungainly head, lemon-yellow hair,
 yellow skin, and large but hardly handsome udder, the South Devon breed
 more resembles the Guernsey, with which it is supposed to be connected,
 than the trim-built cattle of the hills of North Devon. The cows are
-large, heavy milkers, and produce excellent butter. They are rarely
+large, heavy milkers, and produce excellent [[Butter|butter]]. They are rarely
 seen outside their locality except when they appear in the showyards.
 
 The _Sussex_ breed resembles the North Devon in many respects, but it is
@@ -209,8 +209,8 @@ thriving on poor rough pastures, the Sussex are highly valued in their
 native districts, where they were rapidly improved before the end of the
 19th century. They are essentially a beef-producing breed, the cows
 having little reputation as milkers. By stall-feeding they can be
-ripened for the butcher at an early age. Sussex cattle are said to "die
-well," that is, to yield a large proportion of meat in the best parts of
+ripened for the [[Butcher|butcher]] at an early age. Sussex cattle are said to "die
+well," that is, to yield a large proportion of [[Meat|meat]] in the best parts of
 the carcase.
 
 In the _Welsh_ breed of cattle black is the prevailing colour, and the
@@ -218,7 +218,7 @@ horns are fairly long. They do not mature very rapidly, but some of them
 grow eventually into great ponderous beasts, and their beef is of prime
 quality. The cows often possess considerable reputation as milkers. As
 graziers' beasts Welsh cattle are well known in the midland counties of
-England, where, under the name of "Welsh runts," large herds of bullocks
+England, where, under the name of "Welsh runts," large herds of [[Bullock|bullocks]]
 are fattened on the pastures or "topped up" in the yards in winter.
 
 All the remaining strains of Welsh cattle were recognized as one breed
@@ -226,8 +226,8 @@ in 1904, when the Welsh Black Cattle Society united into one register
 the Herd Books of North and South Wales.
 
 The _Longhorn_ or "Dishley" breed of cattle is one of the most
-interesting historically. It was with Longhorns that Robert Bakewell, of
-Dishley, Leicestershire (1726-1795), showed his remarkable skill as an
+interesting historically. It was with Longhorns that Robert [[Bakewell]], of
+Dishley, [[Leicestershire]] (1726-1795), showed his remarkable skill as an
 improver of cattle in the middle of the 18th century.[6] At one period
 Longhorns spread widely over England and Ireland, but, as the Shorthorns
 extended their domain, the Longhorns made way for them. They are big,
@@ -252,7 +252,7 @@ continue in milk. Not less are they valued as beef-producers, and, as
 they are hardy and docile, they fatten readily and mature fairly early.
 Hence, like the Lincolnshire Red Shorthorn, they may claim to be a
 dual-purpose breed. As beef cattle they are always seen to advantage at
-the Norwich Christmas cattle show, held annually in November.
+the Norwich [[Christmas]] cattle show, held annually in November.
 
 The _Aberdeen-Angus_, a polled, black breed, the cows of which are often
 termed "Doddies," belongs to Aberdeenshire and adjacent parts of
@@ -262,7 +262,7 @@ first-class show beasts, and yield beef of excellent quality. The cross
 between the Shorthorn and the Aberdeen-Angus is a favourite in the meat
 markets and at fat-stock competitions.
 
-The _Galloways_ are named from the district, Kirkcudbright and
+The _Galloways_ are named from the district, [[Kirkcudbright]] and
 Wigtonshire, in the south-west of Scotland, to which they are native.
 Like the Aberdeen-Angus cattle, they are hornless, and normally of a
 black colour. But, with a thicker hide and shaggy hair, suited to a wet
@@ -352,7 +352,7 @@ generations. As its milk is especially rich in fat (so rich that it
 requires to be diluted with a little water before it can be safely fed
 to calves), the Jersey has attained a wide reputation as a
 butter-producing breed. It is a great favourite in England, where many
-pure-bred herds exist. The colours most preferred are "whole" fawns of
+pure-bred herds exist. The [[Colours|colours]] most preferred are "whole" fawns of
 many shades. The light silver-grey, which was in high repute in England
 in the early 'seventies of the 19th century, is out of favour. Browns
 and brindles are rarely seen. The grey zone surrounding the black muzzle
@@ -370,7 +370,7 @@ counties of England and Scotland. They have not the refined and elegant
 appearance of the Jerseys, which, however, they exceed in size. They are
 usually of a rich yellowish-brown colour, patched with white, in some
 cases their colour almost meriting the appellation of "orange and
-lemon." The yellow colour inside the ears is a point always looked for
+[[Lemon|lemon]]." The yellow colour inside the [[Ear|ears]] is a point always looked for
 by judges. The cows, large-bellied and narrow in front, are truly
 wedge-shaped, the greatly developed udder adding to the expanse of the
 hinder part of the body. They yield an abundance of milk, rich in fat,
@@ -411,14 +411,14 @@ deer-like head and horn, light limbs and thin skin. The Dexter has
 coarser limbs, a square body, flat back, thick shoulder, short neck, and
 head and horn set on low.
 
-A herd of _Dexter-Shorthorns_ was founded by Major Barton at Straffan,
+A herd of _Dexter-Shorthorns_ was founded by [[Major]] [[Barton]] at Straffan,
 Ireland, in 1860, in which prominent characteristics of the two breeds
 have been permanently blended so that they breed true to type.
 
 As milk-producers, and therefore as dairy cattle, certain strains of the
 Shorthorn (registered as well as non-pedigree), the Lincolnshire Red
 Shorthorn, South Devon, Longhorn, Red Polled, Ayrshire, Jersey,
-Guernsey, Kerry and Dexter breeds have acquired eminence. Such breeds as
+Guernsey, Kerry and Dexter breeds have acquired [[Eminence|eminence]]. Such breeds as
 the Shorthorn, Lincolnshire Red Shorthorn, South Devon, Welsh, Red
 Polled and Dexter are claimed as useful beef-makers as well as
 milk-producers, and are classified as dual-purpose animals. The others
@@ -428,7 +428,7 @@ Polled. Black is the dominating colour of the Welsh, Aberdeen-Angus,
 Galloway, Kerry and Dexter. A yellowish hue is seen in the West
 Highland, Guernsey and South Devon breeds. Various shades of fawn colour
 are usual in Jersey cattle and also appear among Highlanders. The
-Herefords, though with red bodies, have white faces, manes, and dewlaps,
+Herefords, though with red bodies, have white faces, [[Manes|manes]], and dewlaps,
 whilst white prevails to a greater or less extent in the Shorthorn,
 Longhorn and Ayrshire breeds. The Shorthorn breed is exceedingly
 variable in colour; pure-bred specimens may be red, or white, or roan,
@@ -447,7 +447,7 @@ the British Isles.
   See generally the _Herd Books_ of the various breed societies.
        (W. Fr.; R. W.)
 
-_Rearing and Feeding._[7]--A calf at birth scales from one-twelfth to
+_Rearing and Feeding._[7]--A [[Calf|calf]] at birth scales from one-twelfth to
 one-fourteenth the weight of the dam. A sucking calf of one of the large
 breeds should gain 3 lb. per day for the first month, 2.5 lb. for the
 second, and 2 lb. during the later calf period. Colostrum, or first-day
@@ -489,7 +489,7 @@ digestible.]
 
   Digestible albuminoid nitrogen is the scarcest and consequently the
   costliest ingredient in food-stuffs, but, since the introduction of
-  vegetable proteid made by Mitchell's process from the castor bean, an
+  vegetable proteid made by Mitchell's process from the castor [[Bean|bean]], an
   easy and inexpensive means of balancing cattle food ratios is
   available. By this means the manurial value of the excrement is
   increased. The calculations necessary in arriving at a ratio are
@@ -524,7 +524,7 @@ knowledge necessary to select and mix common foods. Ground cake or
 linseed meal is, after a time, better given dry than cooked, being then
 better masticated and not so liable to produce indigestion.
 
-Grass or fine hay in racks is provided when the calf can chew the cud.
+Grass or fine [[Hay|hay]] in racks is provided when the calf can chew the cud.
 As cattle get older, live-weight-increase grows less. Smithfield
 weights[8] show that a good bullock up to a year old will increase 2 lb.
 daily, a two-year-old 1-3/4 lb., and a three-year-old a little over
@@ -532,7 +532,7 @@ daily, a two-year-old 1-3/4 lb., and a three-year-old a little over
 
 Cattle feeding on a farm consume crude produce that is inconvenient to
 market, and make farmyard manure; but there is frequently no profit
-left. To secure the balance on the right side the inlaid price per live
+left. To secure the [[Balance|balance]] on the right side the inlaid price per live
 cwt. requires to be 5s. less than the sale price--say 32s. per cwt. for
 lean cattle, and 37s. per cwt. for the animal when sold fat and capable
 of producing 60% of dressed beef. The ordinary animal yields only about
@@ -556,7 +556,7 @@ In cold and stormy districts cattle thrive best in covered courts, but
 in a mild climate they do equally well in open yards with shelter-sheds.
 The more air they get the less liable they are to tuberculosis--example
 Lincolnshire and the drier south-eastern counties. The ideal method of
-house-feeding cattle is singly in boxes 10 ft. square, where they are
+house-feeding cattle is singly in [[Box|boxes]] 10 ft. square, where they are
 undisturbed, and where the best manure is made because it is not washed
 by rain.
 
@@ -577,7 +577,7 @@ FOOTNOTES:
     American work.
 
   [3] Shorthorn Society of Great Britain and Ireland (1822). Sec. E.J.
-    Powell, 12 Hanover Square, London, W.
+    Powell, 12 [[Hanover]] Square, London, W.
 
   [4] C.J. Bates, "The Brothers Colling," _Jour. Roy. Agric. Soc._
     (1899).
@@ -586,10 +586,10 @@ FOOTNOTES:
     Contribution to the History of Pure Durham Cattle_
     (Newcastle-upon-Tyne, 1897).
 
-  [6] Housman, "Robert Bakewell," _Jour. Roy. Agric. Soc._ (1894).
+  [6] [[Housman]], "Robert Bakewell," _Jour. Roy. Agric. Soc._ (1894).
 
-  [7] See E. Wolff, _Farm Foods_, by H.H. Cousins (1895); A.D. Hall,
-    _Rothamsted Experiments_ (1905); R. Warington, _Chemistry of the
+  [7] See E. Wolff, _Farm Foods_, by H.H. [[Cousin|Cousins]] (1895); A.D. Hall,
+    _Rothamsted Experiments_ (1905); R. Warington, _[[Chemistry]] of the
     Farm_ (15th ed., 1902); W.A. Henry, _Feeds and Feeding_ (1907); H.W.
     Mumford, _Beef Production_ (1907); H.P. Armsby, _Animal Nutrition_
     (2nd ed., 1906); T. Shaw, _Animal Breeding_ (1903); R. Wallace, _Farm

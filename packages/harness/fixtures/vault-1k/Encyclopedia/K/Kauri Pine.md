@@ -18,7 +18,7 @@ compressed seed with a membranous wing. The timber is remarkable for its
 strength, durability and the ease with which it is worked. The resin,
 kauri-gum, is an amber-like deposit dug in large quantities from the
 sites of previous forests, in lumps generally varying in size from that
-of a hen's egg to that of a man's head. The colour is of a rich brown or
+of a hen's [[Egg|egg]] to that of a man's head. The colour is of a rich brown or
 amber yellow, or it may be almost colourless and translucent. It is of
 value for varnish-making.
 

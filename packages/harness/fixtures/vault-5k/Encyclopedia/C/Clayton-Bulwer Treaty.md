@@ -10,7 +10,7 @@ regions--Belize or British Honduras, the Mosquito Coast and the Bay
 Islands.[1] On the other hand, the United States, without territorial
 claims, held in reserve, ready for ratification, treaties with Nicaragua
 and Honduras, which gave her a certain diplomatic vantage with which to
-balance the _de facto_ dominion of Great Britain. Agreement on these
+[[Balance|balance]] the _de facto_ dominion of Great Britain. Agreement on these
 points being impossible and agreement on the canal question possible,
 the latter was put in the foreground. The resulting treaty had four
 essential points. It bound both parties not to "obtain or maintain" any
@@ -24,7 +24,7 @@ extend their protection by treaty stipulation to any other practicable
 communications, whether by canal or railway, across the isthmus which
 connects North and South America." Finally, it stipulated that neither
 signatory would ever "occupy, or fortify, or colonize, or assume or
-exercise any dominion over Nicaragua, Costa Rica, the Mosquito Coast or
+exercise any dominion over Nicaragua, [[Costa]] Rica, the Mosquito Coast or
 any part of Central America," nor make use of any protectorate or
 alliance, present or future, to such ends.
 
@@ -51,7 +51,7 @@ politically by either power. But great Britain claimed that the excepted
 "settlement" at Honduras was the "Belize" covered by the extreme British
 claim; that the Bay Islands were a dependency of Belize; and that, as
 for the Mosquito Coast, the abnegatory clauses being wholly prospective
-in intent, she was not required to abandon her protectorate. The United
+in [[Intent|intent]], she was not required to abandon her protectorate. The United
 States contended that the Bay Islands were not the "dependencies" of
 Belize, these being the small neighbouring islands mentioned in the same
 treaties; that the excepted "settlement" was the British-Honduras of
@@ -99,7 +99,7 @@ for the Panama Canal.
   of the Clayton-Bulwer Treaty_ (Ann Arbor, Mich., 1899); J.H. Latané,
   _Diplomatic Relations of the United States and Spanish America_
   (Baltimore, 1900); T.J. Lawrence, _Disputed Questions of Modern
-  International Law_ (2nd ed., Cambridge, England, 1885); Sir E.L.
+  [[International]] Law_ (2nd ed., Cambridge, England, 1885); Sir E.L.
   Bulwer in 99 _Quarterly Rev._ 235-286, and Sir H. Bulwer in 104
   _Edinburgh Rev._ 280-298.
 

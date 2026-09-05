@@ -11,7 +11,7 @@ is carried on between Ghazni and India by the Povindah kafilas, which
 yearly enter India in the late autumn and pass back again to the Afghan
 highlands in the early spring. The Povindah merchants invariably make
 use of the Gomal pass which leads to the British frontier at Dera Ismail
-Khan. The opening up of this pass and the British occupation of Wana, by
+[[Khan]]. The opening up of this pass and the British occupation of Wana, by
 offering protection to the merchants from Waziri blackmailing, largely
 increased the traffic.
 
@@ -58,7 +58,7 @@ of white marble standing on a plinth of the same, and bearing a Cufic
 inscription praying the mercy of God on the most noble Amir, the great
 king, the lord of church and state, Abul Kasim Mahmud, son of
 Sabuktagin. The tomb stands in a rude chamber, covered with a dome of
-clay, and hung with old shawls, ostrich eggs, tiger-skins and so forth.
+clay, and hung with old shawls, ostrich [[Egg|eggs]], tiger-skins and so forth.
 The village stands among luxuriant gardens and orchards, watered by a
 copious aqueduct. Sultan Baber celebrates the excellence of the grapes
 of Rauzah.
@@ -87,7 +87,7 @@ _Ho-si-na_ (i.e. probably _Ghazni_) as one of the capitals of _Tsaukuta_
 or Arachosia, a place of great strength. In early Mahommedan times the
 country adjoining Ghazni was called _Zabul_. When the Mahommedans first
 invaded that region Ghazni was a wealthy entrepot of the Indian trade.
-Of the extent of this trade some idea is given by Ibn Haukal, who states
+Of the extent of this trade some idea is given by [[Ibn Haukal]], who states
 that at Kabul, then a mart of the same trade, there was sold yearly
 indigo to the value of two million dinars (L1,000,000). The enterprise
 of Islam underwent several ebbs and flows over this region. The
@@ -123,7 +123,7 @@ literature. Mahmud died in 1030, and some fourteen kings of his house
 came after him; but though there was some revival of importance under
 Ibrahim (1059-1099), the empire never reached anything like the same
 splendour and power. It was overshadowed by the Seljuks of Persia, and
-by the rising rivalry of Ghor (q.v.), the hostility of which it had
+by the rising rivalry of [[Ghor]] (q.v.), the hostility of which it had
 repeatedly provoked. Bahram Shah (1118-1152) put to death Kutbuddin, one
 of the princes of Ghor, called king of the Jibal or Hill country, who
 had withdrawn to Ghazni. This prince's brother, Saifuddin Suri, came to
@@ -212,7 +212,7 @@ commanding engineer, Captain George Thomson, for blowing in the Kabul
 gate with powder in bags, was adopted, and carried out successfully, at
 the cost of 182 killed and wounded. Two years and a half later the
 Afghan outbreak against the British occupation found Ghazni garrisoned
-by a Bengal regiment of sepoys, but neither repaired nor provisioned.
+by a [[Bengal]] regiment of sepoys, but neither repaired nor provisioned.
 They held out under great hardships from the 16th of December 1841 to
 the 6th of March 1842, when they surrendered. In the autumn of the same
 year General Nott, advancing from Kandahar upon Kabul, reoccupied

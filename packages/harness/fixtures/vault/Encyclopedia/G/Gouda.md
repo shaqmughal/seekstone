@@ -11,21 +11,21 @@ in a fine open manner and, like other Dutch towns, is intersected by
 numerous canals. On its outskirts pleasant walks and fine trees have
 replaced the old fortifications. The Groote Markt is the largest
 market-square in Holland. Among the numerous churches belonging to
-various denominations, the first place must be given to the Groote Kerk
+various [[Denomination|denominations]], the first place must be given to the Groote Kerk
 of St John. It was founded in 1485, but rebuilt after a fire in 1552,
-and is remarkable for its dimensions (345 ft. long and 150 ft. broad),
+and is remarkable for its [[Dimension|dimensions]] (345 ft. long and 150 ft. broad),
 for a large and celebrated organ, and a splendid series of over forty
 stained-glass windows presented by cities and princes and executed by
 various well-known artists, including the brothers Dirk (d. c. 1577) and
 Wouter (d. c. 1590) Crabeth, between the years 1555 and 1603 (see
 _Explanation of the Famous and Renowned Glass Works, &c._, Gouda, 1876,
 reprinted from an older volume, 1718). Other noteworthy buildings are
-the Gothic town hall, founded in 1449 and rebuilt in 1690, and the
+the [[Gothic]] town hall, founded in 1449 and rebuilt in 1690, and the
 weigh-house, built by Pieter Post of Haarlem (1608-1669) and adorned
-with a fine relief by Barth. Eggers (d. c. 1690). The museum of
+with a fine relief by [[Barth]]. Eggers (d. c. 1690). The museum of
 antiquities (1874) contains an exquisite chalice of the year 1425 and
-some pictures and portraits by Wouter Crabeth the younger, Corn. Ketel
-(a native of Gouda, 1548-1616) and Ferdinand Bol (1616-1680). Other
+some pictures and portraits by Wouter Crabeth the younger, [[Corn]]. Ketel
+(a native of Gouda, 1548-1616) and [[Ferdinand]] Bol (1616-1680). Other
 buildings are the orphanage, the hospital, a house of correction for
 women and a music hall.
 
@@ -37,15 +37,15 @@ and largely manufactured. In winter-time it is considered a feat to
 skate hither from Rotterdam and elsewhere to buy such a pipe and return
 with it in one's mouth without its being broken. The mud from the Ysel
 furnishes the material for large brick-works and potteries; there are
-also a celebrated manufactory of stearine candles, a yarn factory, an
-oil refinery and cigar factories. The transit and shipping trade is
+also a celebrated manufactory of stearine [[Candle|candles]], a yarn factory, an
+oil refinery and [[Cigar|cigar]] factories. The transit and shipping trade is
 considerable, and as one of the principal markets of South Holland, the
-round, white Gouda cheeses are known throughout Europe. Boskoop, 5 m. N.
+round, white Gouda [[Cheese|cheeses]] are known throughout Europe. Boskoop, 5 m. N.
 by W. of Gouda on the Gouwe, is famous for its nursery gardens; and the
 little old-world town of Oudewater as the birthplace of the famous
-theologian Arminius in 1560. The town hall (1588) of Oudewater contains
+theologian [[Arminius]] in 1560. The town hall (1588) of Oudewater contains
 a picture by Dirk Stoop (d. 1686), commemorating the capture of the town
-by the Spaniards in 1575 and the subsequent sack and massacre.
+by the Spaniards in 1575 and the subsequent sack and [[Massacre|massacre]].
 
 ## See also
 

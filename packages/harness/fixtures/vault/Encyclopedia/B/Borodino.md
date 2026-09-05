@@ -16,10 +16,10 @@ make a direct frontal attack. The enemy's right centre near the village
 of Borodino was to be attacked by the viceroy of Italy, Eugene, who was
 afterwards to roll up the Russian line towards its centre, the so-called
 "great redoubt," which was to be attacked directly from the front by Ney
-and Junot. Farther to the French right, Davout was to attack frontally a
+and [[Junot]]. Farther to the French right, Davout was to attack frontally a
 group of field works on which the Russian left centre was formed; and
-the extreme right of the French army was composed of the weak corps of
-Poniatowski. The cavalry corps were assigned to the various leaders
+the extreme right of the French army was composed of the weak [[Corps|corps]] of
+Poniatowski. The [[Cavalry|cavalry]] corps were assigned to the various leaders
 named, and the Guard was held in reserve. The whole line was not more
 than about 2 m. long, giving an average of over 20 men per yard. When
 the Russians closed on their centre they were even more densely massed,
@@ -33,12 +33,12 @@ to the great redoubt, and for a time the advance of the French was
 suspended by Napoleon's order, owing to a cavalry attack by the Russians
 on Eugene's extreme left. When this alarm was ended the advance was
 resumed. Napoleon had now collected a sufficient target for his guns. A
-terrific bombardment by the artillery was followed by the decisive
+terrific [[Bombardment|bombardment]] by the artillery was followed by the decisive
 charge of the battle, made by great masses of cavalry. The horsemen,
 followed by the infantry, charged at speed, broke the Russian line in
 two, and the French squadrons entered the gorge of the great redoubt
 just as Eugene's infantry climbed up its faces. In a fearful _melee_ the
-Russian garrison of the redoubt was almost annihilated. The defenders
+Russian [[Garrison|garrison]] of the redoubt was almost annihilated. The defenders
 were now dislodged from their main line and the battle was practically
 at an end. Napoleon has been criticized for not using the Guard, which
 was intact, to complete the victory. There is, however, no evidence that
@@ -56,7 +56,7 @@ side of the French 31 general officers were killed, wounded or taken,
 and amongst the killed were General Montbrun, who fell at the head of
 his cavalry corps, and Auguste Caulaincourt, who took Montbrun's place
 and fell in the _melee_ in the redoubt. The Russians lost 22 generals,
-amongst them Prince Bagration, who died of his wounds after the battle,
+amongst them Prince [[Bagration]], who died of his wounds after the battle,
 and to whose memory a monument was erected on the battle-field by the
 tsar Nicholas I.
 

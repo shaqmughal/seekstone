@@ -8,7 +8,7 @@ tags: [geology-studies, biography]
 # Bureau
 
 BUREAU (a Fr. word from _burel_ or _bureau_, a coarse cloth used for
-coverings), a writing-table or desk (_q.v._), also in America a low chest
+coverings), a writing-table or [[Desk|desk]] (_q.v._), also in America a low chest
 of drawers. From the meaning of "desk," the word is applied to an office or
 place of business, and particularly a government department; in the United
 States the term is used of certain subdivisions of the executive

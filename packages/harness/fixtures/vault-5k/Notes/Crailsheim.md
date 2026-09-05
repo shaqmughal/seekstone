@@ -5,7 +5,7 @@ Wurttemberg, on the Jagst, a tributary of the Neckar, at the junction of
 railways to Heilbronn and Furth. Pop. (1900) 5251. There are two
 Evangelical churches and a Roman Catholic church, and a handsome town
 hall, with a tower 225 ft. high. The industrial establishments include
-extensive tanneries and machine workshops, and there is a brisk trade in
+extensive tanneries and [[Machine|machine]] workshops, and there is a brisk trade in
 cattle and agricultural produce.
 
 Crailsheim was incorporated as a town in 1338, successfully withstood a

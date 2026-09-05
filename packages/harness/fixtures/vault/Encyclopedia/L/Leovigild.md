@@ -21,10 +21,10 @@ by the fierce hostility between the orthodox Christians and those who
 professed Arianism. Internal and external dangers alike, however, failed
 to daunt Leovigild, who may fairly be called the restorer of the
 Visigothic kingdom. He turned first against the Byzantines, who were
-defeated several times; he took Cordova and chastised the Suevi; and
+defeated several times; he took [[Cordova]] and chastised the Suevi; and
 then by stern measures he destroyed the power of those unruly and
 rebellious chieftains who had reduced former kings to the position of
-ciphers. The chronicler tells how, having given peace to his people, he,
+[[Cipher|ciphers]]. The chronicler tells how, having given peace to his people, he,
 first of the Visigothic sovereigns, assumed the attire of a king and
 made Toledo his capital. He strengthened the position of his family and
 provided for the security of his kingdom by associating his two sons,
@@ -43,7 +43,7 @@ force, the old king triumphed. Hermenegild was captured; he refused to
 give up his faith and in March or April 585 he was executed. He was
 canonized at the request of Philip II., king of Spain, by Pope Sixtus V.
 About this time Leovigild put an end to the kingdom of the Suevi. During
-his last years he was engaged in a war with the Franks. He died at
+his last years he was engaged in a war with the [[Franks]]. He died at
 Toledo on the 21st of April 586 and was succeeded by his son Recared.
 
 ## References

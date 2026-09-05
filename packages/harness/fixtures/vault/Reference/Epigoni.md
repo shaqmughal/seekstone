@@ -13,7 +13,7 @@ their fathers, the Epigoni undertook a second expedition, which was
 completely successful. Thebes was forced to surrender and razed to the
 ground. In early times the war of the Epigoni was a favourite subject of
 epic poetry. The term is also applied to the descendants of the
-Diadochi, the successors of Alexander the Great.
+[[Diadochi]], the successors of Alexander the Great.
 
 ## See also
 

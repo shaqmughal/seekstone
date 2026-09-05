@@ -1,24 +1,24 @@
 # Fourier'S Series
 
 FOURIER'S SERIES, in mathematics, those series which proceed according
-to sines and cosines of multiples of a variable, the various multiples
+to sines and [[Cosin|cosines]] of multiples of a variable, the various multiples
 being in the ratio of the natural numbers; they are used for the
 representation of a function of the variable for values of the variable
 which lie between prescribed finite limits. Although the importance of
 such series, especially in the theory of vibrations, had been recognized
 by D. Bernoulli, Lagrange and other mathematicians, and had led to some
-discussion of their properties, J.B.J. Fourier (see above) was the first
+discussion of their properties, J.B.J. [[Fourier]] (see above) was the first
 clearly to recognize the arbitrary character of the functions which the
 series can represent, and to make any serious attempt to prove the
 validity of such representation; the series are consequently usually
 associated with the name of Fourier. More general cases of
 trigonometrical series, in which the multiples are given as the roots of
-certain transcendental equations, were also considered by Fourier.
+certain transcendental [[Equation|equations]], were also considered by Fourier.
 
   Before proceeding to the consideration of the special class of series
   to be discussed, it is necessary to define with some precision what is
   to be understood by the representation of an arbitrary function by an
-  infinite series. Suppose a function of a variable x to be arbitrarily
+  [[Infinite|infinite]] series. Suppose a function of a variable x to be arbitrarily
   given for values of x between two fixed values a and b; this means
   that, corresponding to every value of x such that a <= x <= b, a
   definite arithmetical value of the function is assigned by means of
@@ -915,7 +915,7 @@ certain transcendental equations, were also considered by Fourier.
   objected to by D'Alembert (1750) and also by Lagrange on the ground
   that irregular curves are inadmissible. D. Bernoulli (_Berlin
   Memoirs_, vol. ix., 1753) based a similar result to that of Euler on
-  physical intuition; his method was criticized by Euler (1753). The
+  physical [[Intuition|intuition]]; his method was criticized by Euler (1753). The
   question was then considered from a new point of view by Lagrange, in
   a memoir on the nature and propagation of sound (_Miscellanea
   Taurensia_, 1759; [_OE]uvres_, vol. i.), who, while criticizing
@@ -1026,7 +1026,7 @@ certain transcendental equations, were also considered by Fourier.
   B being a constant, and a a positive exponent. A somewhat wider
   condition is
 
-    {[f]([beta] + [delta]) - [f]([beta])} log [delta]) = 0,
+    {[f]([beta] + [delta]) - [f]([beta])} [[Log|log]] [delta]) = 0,
                                       [delta] = 0
 
   for which Lipschitz's results would hold. This last condition is
@@ -1088,8 +1088,8 @@ certain transcendental equations, were also considered by Fourier.
   AUTHORITIES.--The foregoing historical account has been mainly drawn
   from A. Sachse's work, "Versuch einer Geschichte der Darstellung
   willkurlicher Functionen einer Variabeln durch trigonometrische
-  Reihen," published in _Schlomilch's Zeitschrift fur Mathematik_,
-  Supp., vol. xxv. 1880, and from a paper by G.A. Gibson "On the History
+  Reihen," published in _Schlomilch's Zeitschrift [[Fur|fur]] Mathematik_,
+  Supp., vol. xxv. 1880, and from a paper by G.A. [[Gibson]] "On the History
   of the Fourier Series" (_Proc. Ed. Math. Soc._ vol. xi.). Reiff's
   _Geschichte der unendlichen Reihen_ may also be consulted, and also
   the first part of Riemann's memoir referred to above. Besides Dini's
@@ -1113,7 +1113,7 @@ certain transcendental equations, were also considered by Fourier.
   memoir by Baire (_Annali di matematica_, Series III. vol. iii.) is of
   great importance. Bromwich's _Theory of Infinite Series_ (1908)
   contains much information on the general theory of series. Bocher's
-  "Introduction to the Theory of Fourier's Series," _Annals of Math._,
+  "Introduction to the Theory of Fourier's Series," _[[Annals]] of Math._,
   Series II. vol. vii., 1906, will be found useful. See also Carslaw's
   _Introduction to the Theory of Fourier's Series and Integrals, and the
   Mathematical Theory of the Conduction of Heat_ (1906). A full account

@@ -11,9 +11,9 @@ CRANACH, LUCAS (1472-1553), German painter, was born at Cronach in upper
 Franconia, and learnt the art of drawing from his father. It has not
 been possible to trace his descent or the name of his parents. We are
 not informed as to the school in which he was taught, and it is a mere
-guess that he took lessons from the south German masters to whom Mathew
+guess that he took lessons from the south German masters to whom [[Mathew]]
 Grunewald owed his education. But Grunewald practised at Bamberg and
-Aschaffenburg, and Bamberg is the capital of the diocese in which
+[[Aschaffenburg]], and Bamberg is the capital of the diocese in which
 Cronach lies. According to Gunderam, the tutor of Cranach's children,
 Cranach signalized his talents as a painter before the close of the 15th
 century. He then drew upon himself the attention of the elector of
@@ -23,30 +23,30 @@ name appears for the first time in the public accounts on the 24th of
 June 1504, when he drew 50 gulden for the salary of half a year, as
 _pictor ducalis_. The only clue to Cranach's settlement previous to his
 Wittenberg appointment is afforded by the knowledge that he owned a
-house at Gotha, and that Barbara Brengbier, his wife, was the daughter
+house at [[Gotha]], and that Barbara Brengbier, his wife, was the daughter
 of a burgher of that city.
 
 Of his skill as an artist we have sufficient evidence in a picture dated
 1504. But as to the development of his manner prior to that date we are
-altogether in ignorance. In contrast with this obscurity is the light
+altogether in [[Ignorance|ignorance]]. In contrast with this obscurity is the light
 thrown upon Cranach after 1504. We find him active in several branches
 of his profession,--sometimes a mere house-painter, more frequently
 producing portraits and altar-pieces, a designer on wood, an engraver of
 copper-plates, and draughtsman for the dies of the electoral mint. Early
 in the days of his official employment he startled his master's
-courtiers by the realism with which he painted still life, game and
-antlers on the walls of the country palaces at Coburg and Lochau; his
+courtiers by the realism with which he painted still life, [[Game|game]] and
+antlers on the walls of the country palaces at [[Coburg]] and Lochau; his
 pictures of deer and wild boar were considered striking, and the duke
 fostered his passion for this form of art by taking him out to the
-hunting field, where he sketched "his grace" running the stag, or Duke
+[[Hunting|hunting]] field, where he sketched "his grace" running the stag, or Duke
 John sticking a boar. Before 1508 he had painted several altar-pieces
-for the Schlosskirche at Wittenberg in competition with Durer, Burgkmair
+for the Schlosskirche at Wittenberg in competition with Durer, [[Burgkmair]]
 and others; the duke and his brother John were portrayed in various
 attitudes and a number of the best woodcuts and copper-plates were
 published. Great honour accrued to Cranach when he went in 1509 to the
-Netherlands, and took sittings from the emperor Maximilian and the boy
+Netherlands, and took sittings from the emperor [[Maximilian]] and the boy
 who afterwards became Charles V. Till 1508 Cranach signed his works with
-the initials of his name. In that year the elector gave him the winged
+the [[Initials|initials]] of his name. In that year the elector gave him the winged
 snake as a motto, and this motto or _Kleinod_, as it was called,
 superseded the initials on all his pictures after that date. Somewhat
 later the duke conferred on him the monopoly of the sale of medicines at
@@ -64,7 +64,7 @@ the cowl, and Cranach was present as "one of the council" at the
 betrothal festival of Luther and Catherine Bora. The death at short
 intervals of the electors Frederick and John (1525 and 1532) brought no
 change in the prosperous situation of the painter; he remained a
-favourite with John Frederick I., under whose administration he twice
+favourite with [[John Frederick]] I., under whose administration he twice
 (1537 and 1540) filled the office of burgomaster of Wittenberg. But 1547
 witnessed a remarkable change in these relations. John Frederick was
 taken prisoner at the battle of Muhlberg, and Wittenberg was subjected
@@ -78,8 +78,8 @@ to revive the Papacy, which God will certainly not allow." During the
 siege Charles bethought him of Cranach, whom he remembered from his
 childhood and summoned him to his camp at Pistritz. Cranach came,
 reminded his majesty of his early sittings as a boy, and begged on his
-knees for kind treatment to the elector. Three years afterwards, when
-all the dignitaries of the Empire met at Augsburg to receive commands
+[[Knee|knees]] for kind treatment to the elector. Three years afterwards, when
+all the dignitaries of the Empire met at [[Augsburg]] to receive commands
 from the emperor, and when Titian at Charles's bidding came to take the
 likeness of Philip of Spain, John Frederick asked Cranach to visit the
 Swabian capital; and here for a few months he was numbered amongst the
@@ -93,7 +93,7 @@ date of 1504, is by far the most graceful creation of his pencil. The
 scene is laid on the margin of a forest of pines, and discloses the
 habits of a painter familiar with the mountain scenery of Thuringia.
 There is more of gloom in landscapes of a later time; and this would
-point to a defect in the taste of Cranach, whose stag hunts are
+point to a defect in the taste of Cranach, whose stag [[Hunt|hunts]] are
 otherwise not unpleasing. Cranach's art in its prime was doubtless
 influenced by causes which but slightly affected the art of the
 Italians, but weighed with potent consequence on that of the Netherlands
@@ -155,17 +155,17 @@ of Christ receiving little children show the kindliness of his
 disposition. But he was not exclusively a religious painter. He was
 equally successful, and often comically naave, in mythological scenes,
 as where Cupid, who has stolen a honeycomb, complains to Venus that he
-has been stung by a bee (Weimar, 1530; Berlin, 1534), or where Hercules
-sits at the spinning-wheel mocked by Omphale and her maids. Humour and
+has been stung by a [[Bee|bee]] (Weimar, 1530; Berlin, 1534), or where [[Hercules]]
+sits at the spinning-wheel mocked by Omphale and her maids. [[Humour]] and
 pathos are combined at times with strong effect in pictures such as the
-"Jealousy" (Augsburg, 1527; Vienna, 1530), where women and children are
+"[[Jealousy]]" (Augsburg, 1527; Vienna, 1530), where women and children are
 huddled into telling groups as they watch the strife of men wildly
 fighting around them. Very realistic must have been a lost canvas of
 1545, in which hares were catching and roasting sportsmen. In 1546,
 possibly under Italian influence, Cranach composed the "Fons Juventutis"
 of the Berlin Gallery, executed by his son, a picture in which hags are
-seen entering a Renaissance fountain, and are received as they issue
-from it with all the charms of youth by knights and pages.
+seen entering a Renaissance [[Fountain|fountain]], and are received as they issue
+from it with all the [[Charm|charms]] of youth by [[Knight|knights]] and pages.
 
 Cranach's chief occupation was that of portrait-painting, and we are
 indebted to him chiefly for the preservation of the features of all the
@@ -179,13 +179,13 @@ reproduction, that he received payment at Wittenberg in 1533. for "sixty
 pairs of portraits of the elector and his brother" in one day. Amongst
 existing likenesses we should notice as the best that of Albert, elector
 of Mainz, in the Berlin museum, and that of John, elector of Saxony, at
-Dresden.
+[[Dresden]].
 
 Cranach had three sons, all artists:--John Lucas, who died at Bologna in
 1536; Hans Cranach, whose life is obscure; and Lucas, born in 1515, who
 died in 1586.
 
-  See Heller, _Leben und Werke Lukas Cranachs_ (2nd ed., Bamberg, 1844);
+  See [[Heller]], _Leben und Werke Lukas Cranachs_ (2nd ed., Bamberg, 1844);
   Chr. Schuchard, _Lukas Cranachs des alteren Leben und Werke_ (3 vols.,
   Leipzig, 1851-1871); Warnecke, _Cranach der altere_ (Gorlitz, 1879);
   M. B. Lindau, _Lucas Cranach_ (1883); Lippmann, _Lukas Cranach,

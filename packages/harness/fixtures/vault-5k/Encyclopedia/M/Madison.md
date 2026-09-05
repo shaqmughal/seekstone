@@ -3,7 +3,7 @@
 MADISON, JAMES (1751-1836), fourth president of the United States, was
 born at Port Conway, in King George county, Virginia, on the 16th of
 March 1751. His first ancestor in America may possibly have been Captain
-Isaac Maddyson, a colonist of 1623 mentioned by John Smith as an
+[[Isaac]] Maddyson, a colonist of 1623 mentioned by John Smith as an
 excellent Indian fighter. His father, also named James Madison, was the
 owner of large estates in Orange county, Virginia. In 1769 the son
 entered the college of New Jersey (now Princeton University), where, in
@@ -44,13 +44,13 @@ Congress power to enforce its requisitions, and in 1783, in spite of the
 open opposition of the Virginia legislature, which considered the
 Virginian delegates wholly subject to its instructions, he advocated
 that the states should grant to Congress for twenty-five years authority
-to levy an import duty, and suggested a scheme to provide for the
+to [[Levy|levy]] an import duty, and suggested a scheme to provide for the
 interest on the debt not raised by the import duty--apportioning it
 among the states on the basis of population, counting three-fifths of
 the slaves, a ratio suggested by Madison himself. Accompanying this plan
 was an address to the states drawn up by Madison, and one of the ablest
 of his state papers. In the same year, with Oliver Ellsworth of
-Connecticut, Nathaniel Gorham of Massachusetts. Gunning Bedford of
+Connecticut, Nathaniel Gorham of Massachusetts. [[Gunning]] [[Bedford]] of
 Delaware, and John Rutledge of South Carolina, he was a member of the
 committee which reported on the Virginia proposal as to the terms of
 cession to the Confederation of the "back lands," or unoccupied Western
@@ -149,7 +149,7 @@ their objections in detail, calmly and with an intellectual power and
 earnestness that carried the convention. The result was a victory
 against an originally adverse public opinion and against the eloquence
 of the opponents of the constitution, for Madison and for his
-lieutenants, Edmund Pendleton, John Marshall, George Nicholas, Harry
+lieutenants, Edmund Pendleton, John [[Marshall]], George Nicholas, Harry
 Innes and Henry Lee. At the same time Madison's labours in behalf of the
 constitution alienated from him valuable political support in Virginia.
 He was defeated by Richard Henry Lee and William Grayson in his
@@ -189,7 +189,7 @@ the House of Representatives and labouring to confine the powers of the
 national government within the narrowest possible limits; his most
 important argument against Hamilton's Bank was that the constitution did
 not provide for it explicitly, and could not properly be construed into
-permitting its creation. Madison, Jefferson and Randolph were consulted
+permitting its creation. Madison, [[Jefferson]] and Randolph were consulted
 by Washington, and they advised him not to sign the bill providing for
 the Bank, but Hamilton's counter-argument was successful. On the same
 constitutional grounds Madison objected to the carrying out of the
@@ -224,7 +224,7 @@ so much larger than her import.
 In 1797 Madison retired from Congress, but not to a life of inactivity.
 In 1798 he joined Jefferson in opposing the Alien and Sedition Laws, and
 Madison himself wrote the resolutions of the Virginia legislature
-declaring that it viewed "the powers of the Federal government as
+declaring that it viewed "the powers of the [[Federal Government|Federal government]] as
 resulting from the compact to which the states are parties, as limited
 by the plain sense and intention of the instrument constituting that
 compact; as no further valid than they are authorized by the grants
@@ -234,7 +234,7 @@ the states, who are parties thereto, have the right and are in duty
 bound to interpose for arresting the progress of the evil, and for
 maintaining within their respective limits, the authorities, rights and
 liberties appertaining to them." The Virginia resolutions and the
-Kentucky resolutions (the latter having been drafted by Jefferson) were
+[[Kentucky]] resolutions (the latter having been drafted by Jefferson) were
 met by dissenting resolutions from the New England states, from New
 York, and from Delaware. In answer to these, Madison, who had become a
 member of the Virginia legislature in the autumn of 1799, wrote for the
@@ -247,7 +247,7 @@ became secretary of state in Jefferson's cabinet, a position for which
 he was well fitted both because he possessed to a remarkable degree the
 gifts of careful thinking and discreet and able speaking, and of large
 constructive ability; and because he was well versed in constitutional
-and international law and practised a fairness in discussion essential
+and [[International|international]] law and practised a fairness in discussion essential
 to a diplomat. During the eight years that he held the portfolio of
 state, he had continually to defend the neutral rights of the United
 States against the encroachments of European belligerents; in 1806 he
@@ -258,7 +258,7 @@ law--against the rule of war of 1756 extended by Great Britain in 1793
 and 1803.
 
 During Jefferson's presidency and whilst Madison was secretary of state,
-by the purchase of Louisiana, Madison's campaign begun in 1780 for the
+by the purchase of [[Louisiana]], Madison's campaign begun in 1780 for the
 free navigation of the Mississippi was brought to a successful close.
 The candidate in 1808 of the Republican party, although bitterly opposed
 in the party by John Randolph and George Clinton, Madison was elected
@@ -284,11 +284,11 @@ the November elections he was re-elected, defeating De Witt Clinton by
 128 votes to 89. His administration during the war was pitiably weak.
 His cabinet in great part had been dictated to him in 1809 by a
 senatorial clique, and it was hopelessly discordant; for two years he
-was to all intents and purposes his own secretary of state, Robert Smith
+was to all [[Intent|intents]] and purposes his own secretary of state, Robert Smith
 being a mere figure-head of whom he gladly got rid in 1811, giving
 Monroe the vacant place. Madison himself had attempted alternately to
 prevent war by his "commercial weapons" and to prepare the country for
-war, but he had met with no success, because of the tricky diplomacy of
+war, but he had met with no success, because of the tricky [[Diplomacy|diplomacy]] of
 Great Britain and of France, and because of the general distrust of him
 coupled with the particular opposition to the war of the prosperous New
 England Federalists, who suggested with the utmost seriousness that his
@@ -307,31 +307,31 @@ Montpelier (in Orange county, Virginia), which he left in no official
 capacity save in 1829, when he was a delegate to the state
 constitutional convention and served on several of its committees.
 Montpelier, like Jefferson's Monticello and Monroe's Oak-Hill, was an
-expensive bit of "gentleman farming," which with his generous Virginia
+expensive bit of "[[Gentleman|gentleman]] farming," which with his generous Virginia
 hospitality nearly ruined its owner financially. Madison's home was
 peculiarly a centre for literary travellers in his last years; when he
-was eighty-three he was visited by Harriet Martineau, who reported her
+was eighty-three he was visited by Harriet [[Martineau]], who reported her
 conversations with him in her _Retrospect of Western Travel_ (1838). He
 took a great interest in education--his library was left to the
 university of Virginia, where it was burned in 1895--in emancipation,
 and in agricultural questions, to the very last. He died at Montpelier
 on the 28th of June 1836. Madison married, in 1794, Dorothy Payne Todd
 (1772-1849), widow of John Todd, a Philadelphia lawyer. She had great
-social charm, and upon Madison's entering Jefferson's cabinet became
+social [[Charm|charm]], and upon Madison's entering Jefferson's cabinet became
 "first lady" in Washington society. Her plump beauty was often
 remarked--notably by Washington Irving--in contrast to her husband's
 delicate and feeble figure and wizened face--for even in his prime
 Madison was, as Henry Adams says, "a small man, quiet, somewhat precise
 in manner, pleasant, fond of conversation, with a certain mixture of
 ease and dignity in his address." Her son, spoiled by his mother and his
-step-father, became a wild young fellow, and added his debts to the
-heavy burden of Montpelier upon Madison.
+step-father, became a wild young [[Fellow|fellow]], and added his debts to the
+heavy [[Burden|burden]] of Montpelier upon Madison.
 
   Madison's portrait was painted by Gilbert Stuart and by Charles
   Willson Peale; Giuseppe Ceracchi made a marble bust of him in 1792 and
   John H. J. Browere another in 1827, now in possession of the Virginia
   Historical Society at Richmond. Though commonly dignified and a little
-  stiff he seems to have had a strong sense of humour and he was fond of
+  stiff he seems to have had a strong sense of [[Humour|humour]] and he was fond of
   telling a good story. Henry Clay, contrasting him with Jefferson, said
   that Jefferson had more genius, Madison more judgment and common
   sense; that Jefferson was a visionary and a theorist; Madison cool,
@@ -351,11 +351,11 @@ heavy burden of Montpelier upon Madison.
   the best history of the later period in which he was before the
   public, Henry Adams's _History of the United States from 1801 to 1817_
   (1889-1890), gives the clearest sketch and best criticism of him. The
-  lives of Madison are: J. Q. Adams's (Boston, 1850); W. C. Rives's
+  lives of Madison are: J. Q. Adams's ([[Boston]], 1850); W. C. Rives's
   (Boston, 1859-1869, 3 vols.), covering the period previous to 1797; S.
   H. Gay's (Boston, 1884) in the "American Statesmen Series"; and
   Gaillard Hunt's (New York, 1902). Madison's _Writings_ (7 vols., New
-  York, 1900-1906) were edited by Hunt, who also edited _The Journal of
+  York, 1900-1906) were edited by [[Hunt]], who also edited _The Journal of
   the Debates in the Convention which framed the Constitution of the
   United States, as Recorded by James Madison_ (2 vols., New York,
   1908). See also Mrs Madison's _Memoirs and Letters_ (Boston, 1887) and

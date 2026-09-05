@@ -2,7 +2,7 @@
 
 LOMZA, or LOMZHA, a government of Russian Poland, bounded N. by Prussia
 and the Polish government of Suwalki, E. by the Russian government of
-Grodno, S. by the Polish governments of Siedlce and Warsaw and W. by
+[[Grodno]], S. by the Polish governments of Siedlce and Warsaw and W. by
 that of Plock. It covers 4666 sq. m. It is mostly flat or undulating,
 with a few tracts in the north and south-west where the deeply cut
 valleys give a hilly aspect to the country. Extensive marshes overspread
@@ -15,10 +15,10 @@ in 1897, of whom 279,279 were women, and 69,834 lived in towns. The
 estimated population in 1906 was 653,100. By religion 77½% are Roman
 Catholics, 15½% Jews and 5½% members of the Orthodox Church. Agriculture
 is the predominant industry, the chief crops being rye, oats, wheat,
-barley, buckwheat, peas, potatoes, flax and hemp. Bees are extensively
+barley, [[Buckwheat|buckwheat]], peas, potatoes, flax and hemp. [[Bee|Bees]] are extensively
 kept, and large numbers of poultry, especially geese, are reared. Stock
 raising is carried on to some extent. The wood trade is important; other
-industries are the production of pottery, beer, flour, leather, bricks,
+industries are the production of pottery, [[Beer|beer]], flour, leather, [[Brick|bricks]],
 wooden wares, spirits, tobacco and sugar. There is only one railway
 (between Grodno and Warsaw); the Bug is navigable, but wood only is
 floated down the Narev. The government is divided into seven districts,

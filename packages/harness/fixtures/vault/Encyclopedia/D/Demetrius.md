@@ -8,9 +8,9 @@ type: source
 # Demetrius
 
 DEMETRIUS, PSEUDO- (or FALSE), the name by which three Muscovite princes
-and pretenders, who claimed to be Demetrius, son of Ivan the Terrible,
+and pretenders, who claimed to be Demetrius, son of [[Ivan]] the Terrible,
 are known in history. The real Demetrius had been murdered, while still
-a child, in 1591, at Uglich, his widowed mother's appanage.
+a child, in 1591, at Uglich, his widowed mother's [[Appanage|appanage]].
 
 1. In the reign of Tsar Boris Godunov (1598-1605), the first of these
 pretenders, whose origin is still obscure, emigrated to Lithuania and
@@ -27,7 +27,7 @@ for what he pretended to be and tried to enlist the sympathy of the
 Polish king, Sigismund III., in his favour. The king refused to support
 him officially, but his cause was taken up, as a speculation, by the
 Polish magnate Yury Mniszek, whose daughter Marina he afterwards wedded
-and crowned as his tsaritsa. The Jesuits also seem to have believed in
+and crowned as his tsaritsa. The [[Jesuits]] also seem to have believed in
 the man, who was evidently an unconscious impostor brought up from his
 youth to believe that he was the real Demetrius; numerous fugitives from
 Moscow also acknowledged him, and finally he set out, at the head of an
@@ -35,7 +35,7 @@ army of Polish and Lithuanian volunteers, Cossacks and Muscovite
 fugitives, to drive out the Godunovs, after being received into the
 Church of Rome. At the beginning of 1604 he was invited to Cracow, where
 Sigismund presented him to the papal nuncio Rangoni. His public
-conversion took place on the 17th of April. In October the false
+[[Conversion|conversion]] took place on the 17th of April. In October the false
 Demetrius crossed the Russian frontier, and shortly afterwards routed a
 large Muscovite army beneath the walls of Novgorod-Syeversk. The sudden
 death of Tsar Boris (April 13, 1605) removed the last barrier to the
@@ -46,7 +46,7 @@ crowned tsar by a new patriarch of his own choosing, the Greek Isidore.
 He at once proceeded to introduce a whole series of political and
 economical reforms. From all accounts, he must have been a man of
 original genius and extraordinary resource. He did his best to relieve
-the burdens of the peasantry; he formed the project of a grand alliance
+the [[Burden|burdens]] of the peasantry; he formed the project of a [[Grand Alliance|grand alliance]]
 between the emperor, the pope, Venice, Poland and Muscovy against the
 Turk; he displayed an amazing toleration in religious matters which made
 people suspect that he was a crypto-Arian; and far from being, as was
@@ -55,7 +55,7 @@ a dignified and independent attitude. But his extravagant opinion of his
 own authority (he lost no time in styling himself emperor), and his
 predilection for Western civilization, alarmed the ultra-conservative
 boyars (the people were always on his side), and a conspiracy was formed
-against him, headed by Basil Shuisky, whose life he had saved a few
+against him, headed by [[Basil]] Shuisky, whose life he had saved a few
 months previously. A favourable opportunity for the conspirators
 presented itself on the 8th of May 1606, when Demetrius was married to
 Marina Mniszek. Taking advantage of the hostility of the Muscovites
@@ -76,7 +76,7 @@ the Kreml on the night of the 17th of May.
 on the scene _circa_ 1607 at Starodub. He is supposed to have been
 either a priest's son or a converted Jew, and was highly educated,
 relatively to the times he lived in, knowing as he did the Russian and
-Polish languages and being somewhat of an expert in liturgical matters.
+Polish languages and being somewhat of an [[Expert|expert]] in liturgical matters.
 He pretended at first to be the Muscovite boyarin Nagi; but confessed,
 under torture, that he was Demetrius Ivanovich, whereupon he was taken
 at his word and joined by thousands of Cossacks, Poles and Muscovites.
@@ -93,10 +93,10 @@ her conscience by privately marrying this impostor, who in no way
 resembled her first husband), and brought him the support of the
 Lithuanian magnates Mniszek and Sapieha so that his forces soon exceeded
 100,000 men. He raised to the rank of patriarch another illustrious
-captive, Philaret Romanov, and won over the towns of Yaroslavl,
+[[Captive|captive]], Philaret Romanov, and won over the towns of Yaroslavl,
 Kostroma, Vologda, Kashin and other places to his allegiance. But a
 series of subsequent disasters, and the arrival of King Sigismund III.
-at Sinolensk, induced him to fly his camp disguised as a peasant and go
+at Sinolensk, induced him to [[Fly|fly]] his camp disguised as a peasant and go
 to Kostroma, where Marina joined him and he lived once more in regal
 state. He also made another but unsuccessful attack on Moscow, and,
 supported by the Don Cossacks, recovered a hold over all south-eastern
@@ -108,7 +108,7 @@ by a Tatar whom he had flogged.
 
 3. The third, a still more enigmatical person than his predecessors,
 supposed to have been a deacon called Siderka, appeared suddenly, "from,
-behind the river Yanza," in the Ingrian town of Ivangorod (Narva),
+behind the river Yanza," in the Ingrian town of [[Ivangorod]] (Narva),
 proclaiming himself the tsarevich Demetrius Ivanovich, on the 28th of
 March 1611. The Cossacks, ravaging the environs of Moscow, acknowledged
 him as tsar on the 2nd of March 1612, and under threat of vengeance in

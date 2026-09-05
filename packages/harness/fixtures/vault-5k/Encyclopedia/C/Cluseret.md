@@ -13,12 +13,12 @@ return to France he proclaimed himself a Socialist, opposed militarism,
 and became a member of the _Association Internationale des
 travailleurs_, a cosmopolitan Socialist organization, known as the
 "_Internationale_." On the proclamation of the Third Republic in 1871 he
-set to work to organize the social revolution, first at Lyons and
+set to work to organize the social revolution, first at [[Lyons]] and
 afterwards at Marseilles. His energy, his oratorical gifts, and his
 military experience gave him great influence among the working classes.
 On the news of the communist rising of the 18th of March 1871 he
 hastened to Paris, and on the 16th of April was elected a member of the
-commune. Disagreements with the other communist leaders led to his
+[[Commune|commune]]. Disagreements with the other communist leaders led to his
 arrest on the 1st of May, on a false charge of betraying the cause. On
 the 24th of the same month the occupation of Paris by the Versailles
 troops restored him to liberty, and he succeeded in escaping from

@@ -15,7 +15,7 @@ area of about 1650 sq. m., a population of 240,000, and is divided into
 the districts of Braunsberg, Heilsberg, Rossel and Allenstein.
 
 Ermeland was originally one of the eleven districts of old Prussia and
-was occupied by the Teutonic Knights (_Deutscher Orden_), being made in
+was occupied by the Teutonic [[Knight|Knights]] (_Deutscher Orden_), being made in
 1250 one of the four bishoprics of the country under their sway. The
 bishop of Ermeland shortly afterwards declared himself independent of
 the order, and became a prince of the Empire. In 1466 Ermeland, together
@@ -28,7 +28,7 @@ Hosius (1504-1579), the founder of the Jesuit college in Braunsberg.
 
   See Hipler, _Literaturgeschichte des Bisthums Ermeland_ (Braunsberg,
   1873); the _Monumenta historiae Warmiensis_ (Mainz, 1860-1864, and
-  Braunsberg, 1866-1872, 4 vols.); and Buchholz, _Abriss einer
+  Braunsberg, 1866-1872, 4 vols.); and [[Buchholz]], _Abriss einer
   Geschichte des Ermlands_ (Braunsberg, 1903.)
 
 ## References

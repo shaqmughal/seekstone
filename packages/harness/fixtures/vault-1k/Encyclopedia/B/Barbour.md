@@ -33,7 +33,7 @@ battle of Bannockburn. Patriotic as the sentiment is, it is in more general
 terms than is found in later Scots literature. The king is a hero of the
 chivalric type common in contemporary romance; freedom is a "noble thing"
 to be sought and won at all costs; the opponents of such freedom are shown
-in the dark colours which history and poetic propriety require; but there
+in the dark [[Colours|colours]] which history and poetic propriety require; but there
 is none of the complacency of the merely provincial habit of mind. The
 lines do not lack vigour; and there are passages of high merit, notably the
 oft-quoted section beginning "A! fredome is a noble thing." Despite a

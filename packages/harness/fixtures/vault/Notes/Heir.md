@@ -11,12 +11,12 @@ HEIR (Lat. _heres_, from a root meaning to grasp, seen in _herus_ or
 _erus_, master of a house, Gr. [Greek: cheir], hand, Sans, _harana_,
 hand), in law, technically one who succeeds, by descent, to an estate of
 inheritance, in contradistinction to one who succeeds to personal
-property, i.e. next of kin. The word is now used generally to denote the
+property, i.e. next of [[Kin|kin]]. The word is now used generally to denote the
 person who is entitled by law to inherit property, titles, &c., of
 another. The rules regulating the descent of property to an heir will be
 found in the articles INHERITANCE, SUCCESSION, &c.
 
-An _heir apparent_ (Lat. _apparens_, manifest) is he whose right of
+An _heir apparent_ (Lat. _apparens_, [[Manifest|manifest]]) is he whose right of
 inheritance is indefeasible, provided he outlives the ancestor, e.g. an
 eldest or only son.
 

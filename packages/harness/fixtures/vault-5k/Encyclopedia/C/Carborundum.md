@@ -1,10 +1,10 @@
 # Carborundum
 
-CARBORUNDUM, a silicide of carbon formed by the action of carbon on sand
+CARBORUNDUM, a silicide of [[Carbon|carbon]] formed by the action of carbon on sand
 (silica) at high temperatures, which on account of its great hardness is
 an important abrasive, and also has possible applications in the
 metallurgy of iron and steel. Its name was derived from _carbon_ and
-_corundum_ (a form of alumina), from a mistaken view as to its
+_[[Corundum|corundum]]_ (a form of alumina), from a mistaken view as to its
 composition. It was first obtained accidentally in 1891 by Acheson in
 America, when he was experimenting with the electric furnace in the hope
 of producing artificial diamonds. The experiments were followed up in an
@@ -12,7 +12,7 @@ incandescence furnace, which on a larger scale is now employed for the
 industrial manufacture of the product. A full description of the process
 has been given in the _Journ. Soc. Chem. Industry_, 1897, vol. xvi. p.
 863. The furnace is rectangular, about 16 ft. long and 5 ft. wide by 5
-ft. high, with massive brick end walls 2 ft. thick, through which are
+ft. high, with massive [[Brick|brick]] end walls 2 ft. thick, through which are
 built the carbon poles, consisting of bundles of 60 parallel 3-in.
 carbon rods, each 3 ft. in length, with a copper rod let into the outer
 end to connect it with a copper cap, which in turn is connected with one
@@ -33,7 +33,7 @@ about 1700 amperes at 190 volts is now switched on; as the mass becomes
 heated by the passage of the current the resistance diminishes, and the
 current is regulated until after about 2 hours or less from starting it
 is maintained constant at about 6000 amperes and 125 volts. Carbon
-monoxide is given off and burns freely around the sides and top of the
+monoxide is given off and [[Burns|burns]] freely around the sides and top of the
 furnace, tinged yellow after a time by the sodium in the salt mixed with
 the charge. Meanwhile a shrinkage takes place, which is made good by the
 addition of a further quantity of charge until the operation is

@@ -8,14 +8,14 @@ to study mathematics and natural science; in the effort to please both
 himself and his father he overworked himself and injured his health.
 During a period of enforced abstinence from study, he amused himself
 with field botany and entomology, to such good purpose that he was able
-to send Linnaeus specimens of several new kinds of insects, and in 1756
+to send Linnaeus specimens of several new kinds of [[Insect|insects]], and in 1756
 he succeeded in proving that, contrary to the opinion of that
 naturalist, _Coccus aquaticus_ was really the ovum of a kind of leech.
 In 1758, having returned to Upsala, he graduated there, and soon
 afterwards began to teach mathematics and physics at the university,
-publishing papers on the rainbow, the aurora, the pyroelectric phenomena
+publishing papers on the rainbow, the [[Aurora|aurora]], the pyroelectric phenomena
 of tourmaline, &c. In 1767 Johann Gottschalck Wallerius (1709-1785)
-having resigned the chair of chemistry and mineralogy, Bergman
+having resigned the chair of [[Chemistry|chemistry]] and mineralogy, Bergman
 determined to become a candidate, though he had paid no particular
 attention to chemistry. As evidence of his attainments he produced a
 memoir on the manufacture of alum, but his pretensions were strongly

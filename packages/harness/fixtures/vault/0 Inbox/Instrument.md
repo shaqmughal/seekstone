@@ -2,7 +2,7 @@
 
 INSTRUMENT (Lat. _instrumentum_, from _instruere_, to build up, furnish,
 arrange, prepare), that which can be used as a means to an end, hence a
-mechanical contrivance, implement or tool; the word is more particularly
+mechanical contrivance, [[Implement|implement]] or tool; the word is more particularly
 applied to the implements of applied science, in mathematics, surgery,
 surveying, &c., while those of the handicrafts are generally known as
 "tools." A specific use of the term is for the various contrivances used
@@ -14,7 +14,7 @@ of the Lat. _instrumentum_, a document, record. The term may be used in
 a wide sense, as a mere writing, meant only to form a record, or in a
 particular sense with reference to certain statutes. For example, the
 Stamp Act 1891 defines an instrument as an expression including every
-written document; for the purposes of the Forgery Act 1861 a post-office
+written document; for the purposes of the [[Forgery]] Act 1861 a post-office
 telegram accepting a wager has been defined as an instrument. In
 expressions such as "deed, will, or other written instrument" the word
 means any written document under which a right or liability, legal or
@@ -42,7 +42,7 @@ which orthodox tradition is so entirely divorced from the historical
 sense, and the history, when studied at all, so little illuminated by
 the permanent artistic significance of its subjects. When improvements
 in the structure of an instrument remove from the modern composer's
-memory an entire category of limitations which in classical music
+memory an entire [[Category|category]] of limitations which in classical music
 determined the very character of the instrument, the temptation is easy
 to regard the improvement as a kind of access of wisdom, in comparison
 with which not only the older form of the instrument, but the part that
@@ -50,7 +50,7 @@ it plays in classical music, is crude and archaic. But we should do
 better justice to improvements in an instrument if we really understood
 how far they give it, not merely new resources, but a new nature. And,
 moreover, those composers who have done most to realize this new nature
-(as Wagner has done for the brass instruments) have also retained, to an
+(as Wagner has done for the [[Brass|brass]] instruments) have also retained, to an
 extent unsuspected by their imitators, the definite character which the
 instrument had in its earlier form.
 
@@ -58,16 +58,16 @@ As it is with mechanical improvements, so is it to a still greater
 degree with changes in the function of timbre in art. Throughout the
 19th century so fatal was the hold obtained on the popular mind by the
 technical expert's view of instrumentation, that it was impossible to
-hear the works of Handel and Bach without "additional accompaniments"
+hear the works of [[Handel]] and Bach without "additional accompaniments"
 conceived in terms of art as irrelevant to those of 18th-century
 polyphonys as the terms of Turnerian landscape are irrelevant to the
 decoration of the outside walls of a cathedral. There is some reason to
 hope that the day of these misconceptions is passed; although there is
 also some reason to fear that on other grounds the present era may be
 known to posterity as an era of instrumentation comparable, in its
-gorgeous chaos of experiment and its lack of consistent ideas of harmony
+gorgeous [[Chaos|chaos]] of experiment and its lack of consistent ideas of harmony
 and form, only to the monodic period at the beginning of the 17th
-century, in which no one had ears for anything but experiments in
+century, in which no one had [[Ear|ears]] for anything but experiments in
 harmonic colour. We do not propose to concern ourselves here with those
 technical subjects which are the chief concern of standard treatises on
 instrumentation. Our task is simply to furnish the general reader with
@@ -117,13 +117,13 @@ magnificent, and admirably suited to the dignity of the trombone.
 Moreover, the opening theme is formed of slow arpeggios; and the more
 modern harmonic elements, though technically chromatic, consist, from
 the modern point of view, rather in swift changes between nearly related
-keys than in chromatic blurring of the main key. All this, especially in
+[[Key|keys]] than in chromatic blurring of the main key. All this, especially in
 a writer like Schutz, who is saturated with every progressive tendency
 of the time, seems to point to a deep sense of the appropriate style of
 trombone writing. Yet, so insensible is Schutz to the euphony of his own
 work, that he proposes, as an alternative for the first and second
 trombones, two violins an octave higher, the other parts remaining
-unaltered! Imagination boggles at the vileness of this effect.
+unaltered! [[Imagination]] boggles at the vileness of this effect.
 
 The chief work done in instrumentation in the 17th century is
 undoubtedly that of the Italian writers for the violin, who developed
@@ -135,10 +135,10 @@ distinguished from choral writing, has attained a definite artistic
 coherence. Choral writing itself has become different from what it was
 in the 16th century. The free use of discords and of wider intervals,
 together with the influence of the florid elements of solo-singing,
-enlarged the bounds of choral expression almost beyond recognition,
+enlarged the [[Bounds|bounds]] of choral expression almost beyond recognition,
 while they crowded into very narrow quarters the subtleties of
 16th-century music. These, however, by no means disappeared; and such
-devices as the crossing of parts in the second Kyrie of Bach's _B Minor
+devices as the crossing of parts in the second [[Kyrie]] of Bach's _B Minor
 Mass_ (bars 7, 8, 14, 15, 22, 23, 50) abundantly show that in the hands
 of the great masters artistic truths are not things which a change of
 date can make false.
@@ -147,19 +147,19 @@ But the treatment of instruments in Bach and Handel has a radical
 difference from that of the art which was soon to succeed it. It has
 precisely the same limitation as the treatment of form and emotion; it
 cannot change as the work proceeds. Its contrasts are like those of an
-architectural scheme, not those of a landscape or a drama. It admits of
+architectural scheme, not those of a landscape or a [[Drama|drama]]. It admits of
 the loveliest combinations of timbre, and it can alternate them in
 considerable variety. Modern composers have often produced their most
 characteristic orchestral effects with fewer contrasting elements than
 Bach uses in his _Trauer-Ode_, in the pastoral symphony in his
-_Christmas Oratorio_, in the first chorus of the cantata _Liebster Gott,
+_[[Christmas]] Oratorio_, in the first chorus of the cantata _Liebster Gott,
 wann werd' ich sterben_, and in many other cases; but the modern
 instrumental effects are as far outside Bach's scope as a long passage
 of preparation on the dominant leading to the return of a first subject
 is beyond the scope of a gigue in a suite. Bach's conception of the
 function of an instrument is that it holds a regular part in a
 polyphonic scheme; and his blending of tones is like the blending of
-colours in a purely decorative design.
+[[Colours|colours]] in a purely decorative design.
 
 Those instruments of which the tones and compass are most suitable for
 polyphonic melody are for the most part high in pitch; a circumstance
@@ -170,7 +170,7 @@ main threads in the design shall be supported where necessary by a
 simple harmonic filling-out on some keyed instrument capable of forming
 an unobtrusive background. The chords necessary in this part, which with
 its supporting bass is called the _continuo_, were indicated by figures;
-and the evanescent and delicate tones of the harpsichord lent themselves
+and the evanescent and delicate tones of the harpsichord [[Lent|lent]] themselves
 admirably to this purpose where solo voices and instruments were
 concerned. For the support of the chorus the more powerful organ was
 necessary. It is in the attempt to supply the place of this _continuo_
@@ -180,7 +180,7 @@ incapacity to grasp the nature of 18th-century instrumentation. The
 whole point of this filling-out is that, the polyphonic design of the
 main instruments being complete in itself, there is no room for any such
 additional inner parts as can attract attention. In the interest of
-euphony some harmonious sound is needed to bridge the great gap which
+euphony some harmonious sound is needed to bridge the great [[Gap|gap]] which
 almost always exists between the bass and the upper instruments, but
 this filling out must be of the softest and most atmospheric kind. Bach
 himself is known to have executed it in a very polyphonic style, and
@@ -225,7 +225,7 @@ de force_.
 _Symphonic Instrumentation._--The difference between decorative and
 symphonic instrumentation is admirably shown by Gluck. In the famous
 dedicatory letter of his _Alceste_ he mentions among other conceptions
-on which his reform of opera was to be based, that the co-operation of
+on which his reform of opera was to be based, that the [[Co-Operation|co-operation]] of
 the instruments ought to be regulated in proportion to the interest and
 the passion, a doctrine of which the true significance lies in its
 connexion with other conditions of opera which are incompatible with the
@@ -242,7 +242,7 @@ by the polyphonic device of the _continuo_, was for a long time solved
 only by methods which, in any hands but those of the greatest masters,
 were very inartistic conventions. In the new art the concentration of
 attention upon _form_, as a more important source of dramatic interest
-and climax than _texture_, resulted in a neglect of polyphony which
+and [[Climax|climax]] than _texture_, resulted in a neglect of polyphony which
 seriously damaged even Gluck's work, and which always had the grave
 inconvenience that while the new methods of blending and contrasting
 instruments stimulated an increase in the variety, if not in the size of
@@ -255,7 +255,7 @@ the pianoforte epitomizes the difference between polyphony and symphonic
 art, for it is the earliest device by which sounds are produced and
 prolonged in a way contrary to the spirit of "real" part-writing. It is
 possible to conceive of any number of notes struck and sustained by the
-fingers as consisting of so many quasi-vocal parts; but when a series of
+[[Finger|fingers]] as consisting of so many quasi-vocal parts; but when a series of
 single sounds is played and each sound continues to vibrate by means of
 a pedal which prevents the dampers from falling on the strings, then we
 are conscious that the sounds have been produced as from one part, and
@@ -263,7 +263,7 @@ that they nevertheless combine to form a chord; and this is as remote
 from the spirit of polyphonic part-writing as modern English is from
 classical Greek.
 
-The pianoforte trios of Haydn are perhaps the only works of first-rate
+The pianoforte trios of [[Haydn]] are perhaps the only works of first-rate
 artistic importance in which there is no doubt that the earlier stages
 of the new art do not admit of sufficient polyphony to give the
 instruments fair play. Haydn finds the pianoforte so completely capable
@@ -299,7 +299,7 @@ to their proper method of performance nowadays, when we take into
 consideration the greater strength of tone of the modern pianoforte,
 especially in the bass, and the fact that in no case could a violinist
 consent to play as an accompaniment such melodies as that at the
-beginning of the G major trio known as No. 1.
+beginning of the G [[Major|major]] trio known as No. 1.
 
 For Mozart there never was any such _embarras de richesse_ in any
 combination of instruments. His music is highly polyphonic, and modern
@@ -311,7 +311,7 @@ words, when the accompaniment is simple the tune is generally on the
 top. Haydn, when he was not tempted by the resources of an instrument so
 complete in itself as the pianoforte, soon learnt to write artistically
 perfect string quartets in which the first violin, though overwhelmingly
-the most important part, is nevertheless in perfect balance with the
+the most important part, is nevertheless in perfect [[Balance|balance]] with the
 other members of the scheme, inasmuch as they contribute exactly what
 their pitch and the little polyphonic elaboration admissible by the
 style will enable them to give. In the treatment of the orchestra
@@ -337,7 +337,7 @@ independent viola part. There is not room for one together with an
 independent violoncello part; the wonderful use of muted solo
 violoncellos in the slow movement of the _Pastoral Symphony_ being a
 special effect, like the earlier instance in Haydn's 12th _Salomon
-Symphony_. Otherwise, when Beethoven has anything special for the
+Symphony_. Otherwise, when [[Beethoven]] has anything special for the
 violoncellos to say, he invariably softens and deepens their singularly
 incisive cantabile tones by doubling them with the violas. In the
 orchestras of his day this was perhaps the only safe proceeding for
@@ -348,21 +348,21 @@ region of orchestral effect. Haydn's numerous examples of independent
 violoncello melodies are almost all either marked _solo_ or written for
 such small orchestras that they would be played as solos.
 
-Similar principles apply in infinite detail to the treatment of wind
+Similar principles apply in [[Infinite|infinite]] detail to the treatment of wind
 instruments, and we must never lose sight of them in speculating as to
 the reasons why the genius of Beethoven was able to carry
 instrumentation into worlds of which Haydn and Mozart never dreamt, or
 why, having gone so far, it left anything unexplored. A subject so vast
-and so incapable of classification cannot be discussed here, but its
+and so incapable of [[Classification|classification]] cannot be discussed here, but its
 aesthetic principles may be illustrated by the extreme case of the
-trumpets and horns, which in classical times had no scale except that of
+trumpets and [[Horn|horns]], which in classical times had no scale except that of
 the natural harmonic series. This could be fixed, within certain limits,
 at whatever pitch suited the composition; but on the horn it could be
 only very partially filled out by notes of a muffled quality produced by
 inserting the hand into the bell of the instrument, a device impossible
 on the trumpet. These instruments thus produced, in Haydn's and
 Beethoven's times, a very remarkable but closely limited series of
-effects, which, as Sir George Macfarren pointed out in the article
+effects, which, as Sir George [[Macfarren]] pointed out in the article
 "Music" in the 9th edition of the _Encyclopaedia Britannica_, gave them
 a peculiar character and function in strongly asserting the main notes
 of the key. An instance of this characteristic function, specially
@@ -419,8 +419,8 @@ symphony is as unintelligible from the point of view of Wagnerian opera
 as the opening of the _Rheingold_ is unintelligible from the point of
 view of symphony. But both are quite right. The modern Wagnerian
 conductor is apt to complain that Beethoven, in his four-bar phrase,
-drowns a melody which lies in the weakest register of the clarinet by a
-crowd of superfluous notes in oboes, horns and flutes. The complainer
+drowns a melody which lies in the weakest register of the [[Clarinet|clarinet]] by a
+[[Crowd|crowd]] of superfluous notes in oboes, horns and [[Flute|flutes]]. The complainer
 entirely overlooks the fact that this is the kind of music in which such
 a phrase will certainly be heard again before we have time to forget it;
 and as a matter of fact the strings promptly repeat it _fortissimo_ in a
@@ -446,7 +446,7 @@ perhaps, hardly anything which the makers and players of instruments can
 be trained to do which is too remote to be demanded by some extreme
 dramatic necessity in Wagner's scheme. But it is always some such
 extreme necessity that demands it, and never an appetite too jaded for
-natural resources. The crucial example of this is what Richard Strauss
+natural resources. The [[Crucial|crucial]] example of this is what Richard Strauss
 has ingeniously called the "al fresco" treatment of instruments in large
 orchestral masses (Berlioz-Strauss, _Instrumentationslehre_, edition
 Peters). Experience shows that in the modern orchestra there is safety
@@ -475,8 +475,8 @@ Gluck.
 
 Finally it must be remembered that musical euphony and emotional effect
 are inseparable from considerations of harmony and polyphony. Timbre
-itself is, as Helmholtz shows, a kind of harmony felt but not heard. Not
-even the imagination and skill of Berlioz could galvanize into permanent
+itself is, as [[Helmholtz]] shows, a kind of harmony felt but not heard. Not
+even the imagination and skill of [[Berlioz]] could galvanize into permanent
 artistic life an instrumentation based exclusively upon instruments,
 however suggestive his wonderful orchestral effects may have been to
 contemporary and later artists, who realize that artistic effects must
@@ -564,7 +564,7 @@ _Orchestral Schemes Typical of Different Periods._
   many oboes and bassoons as could be procured to double the top and
   bottom of his string-band. But his definite orchestral effects in
   certain places (e.g. "He led them forth like sheep," in _Israel in
-  Egypt_, and the music of the _Witch of Endor_, and the appearance of
+  Egypt_, and the music of the _Witch of [[Endor]]_, and the appearance of
   Samuel's spirit in Saul) are as modern as Gluck's.
 
   3. _Symphonic Orchestration._--Mozart's full symphonic scheme requires
@@ -582,7 +582,7 @@ _Orchestral Schemes Typical of Different Periods._
   Beethoven almost always has 2 flutes, and invariably 2 clarinets. In
   his 5th symphony he introduced 3 trombones and extended both the upper
   and lower extremes of the wind-band by a piccolo and a double bassoon.
-  "Turkish music," i.e. the big drum, cymbals and triangle, was used by
+  "Turkish music," i.e. the big [[Drum|drum]], cymbals and triangle, was used by
   Haydn in his _Military Symphony_, and Mozart in his _Entfuhrung_, for
   reasons of "local colour"; it appears as an extreme means of climax in
   the finale of Beethoven's 9th symphony.
@@ -593,7 +593,7 @@ _Orchestral Schemes Typical of Different Periods._
       Strings: as usual, but subject to minutely complex grouping.
       3 flutes (3rd to play piccolo when required).
     / 2 oboes.
-   |  1 cor anglais.
+   |  1 [[Cor Anglais|cor anglais]].
    |  3 bassoons.
    |  2 clarinets.
     \ 1 bass clarinet.
@@ -636,7 +636,7 @@ _Orchestral Schemes Typical of Different Periods._
     / Triangle.
    |  Cymbals.
    |  Big drum.
-    \ Gong.
+    \ [[Gong]].
       6 harps.
 
   5. _Chamber-music._--Bach's and his contemporaries' combinations with

@@ -17,7 +17,7 @@ PLATE II.
 Showing a typical scheme of internal decoration. The lower parts of the
 walls are covered with marble, and the upper surfaces and vaults with
 mosaics and paintings. Eleventh century. _From a Drawing by Sidney
-Barnsley._]
+[[Barnsley]]._]
 
 BYZANTINE ART.[1] By "Byzantine art" is meant the art of Constantinople
 (sometimes called _Byzantium_ in the middle ages as in antiquity), and of
@@ -43,7 +43,7 @@ eastern and western empires.
 
 The style may be said to have arisen from the orientalization of Roman art,
 and itself largely contributed to the formation of the Saracenic or
-Mahommedan styles. As Choisy well says, "The history of art in the Roman
+Mahommedan styles. As [[Choisy]] well says, "The history of art in the Roman
 epoch presents two currents, one with its source in Rome, the other in
 Hellenic Asia. When Rome fell the Orient returned to itself and to the
 freedom of exploring new ways. There was now a new form of society, the
@@ -65,7 +65,7 @@ properly, as Byzantinism. Choisy sees a distinction in the constructive
 types of Roman and Byzantine architecture, in that the former covered
 spaces by concreted vaults built on centres, which approximated to a sort
 of "monolithic" formation, whereas in the Byzantine style the vaults were
-built of brick and drawn forward in space without the help of preparatory
+built of [[Brick|brick]] and drawn forward in space without the help of preparatory
 support. Building in this way, it became of the greatest importance that
 the vaults should be so arranged as to bring about an equilibrium of
 thrusts. The distinction holds as between Rome in the 4th century and
@@ -75,13 +75,13 @@ is possible, in other centres of the empire where strong cement was not so
 readily obtainable, and wood was scarce, that the Byzantine _constructive_
 method was already known in classical times. Choisy, following Dieulafoy,
 would derive the Byzantine system of construction from Persia, but this
-proposition seems to depend on a mistaken chronology of the monuments as
+proposition seems to depend on a mistaken [[Chronology|chronology]] of the monuments as
 shown by Perrot and Chipiez in their _History of Art in Persia_. It seems
 probable that the erection of brick vaulting was indigenous in Egypt as a
 building method. Strzygowski, in his recent elaborate examination of the
 art-types found at the palace of Mashita (Mschatta), a remarkable ruin
 discovered by Canon Tristram in Moab, of which the most important parts
-have now been brought to the new Kaiser Friedrich Museum in Berlin, shows
+have now been brought to the new Kaiser [[Friedrich]] Museum in Berlin, shows
 that there are Persian ideas intermixed with Byzantine in its decoration,
 and there are also brick arches of high elliptical form in the structure.
 He seems disposed to date this work rather in the 5th than in the 6th
@@ -98,7 +98,7 @@ The course of the transition to Byzantine, the first mature Christian
 style, cannot be satisfactorily traced while, guided by Roman
 archaeologists, we continue to regard Rome as a source of Christian art
 apart from the rest of the world. Christianity itself was not of Rome, it
-was an eastern leaven in Roman society. Christian art even in that capital
+was an eastern [[Leaven|leaven]] in Roman society. Christian art even in that capital
 was, we may say, an eastern leaven in Roman art. If we set the year 450 for
 the beginning of Byzantine art, counting all that went before as early
 Christian, we get one thousand years to the Moslem conquest of
@@ -107,7 +107,7 @@ periods by the great iconoclastic schism (726-842) and the taking of
 Constantinople by the Crusaders in 1204. The first we may call the
 classical epoch of Byzantine art; it includes the mature period under
 Justinian (the central year of which we may put as 550), from which it
-declined until the settlement of the quarrel about images, 400 years in
+declined until the settlement of the quarrel about [[Image|images]], 400 years in
 all, to, say, 850. The second period, to which we may assign the limits
 850-1200, is, in the main, one of orientalizing influences, especially in
 architecture, although in MSS. and paintings there was, at one time, a
@@ -149,7 +149,7 @@ additions made to the octagon. Finally, at St Sophia (6th century) a
 combination was made which is perhaps the most remarkable piece of planning
 ever contrived. A central space of 100 ft. square is increased to 200 ft.
 in length by adding two hemicycles to it to the east and the west; these
-are again extended by pushing out three minor apses eastward, and two
+are again extended by pushing out three minor [[Apse|apses]] eastward, and two
 others, one on either side of a straight extension, to the west. This
 unbroken area, about 260 ft. long, the larger part of which is over 100 ft.
 wide, is entirely covered by a system of domical surfaces. Above the conchs
@@ -174,7 +174,7 @@ points, we approximate to the typical setting out of a plan of this time.
 Now add three apses on the east side opening from the three divisions, and
 opposite to the west put a narrow entrance porch running right across the
 front. Still in front put a square court. The court is the _atrium_ and
-usually has a fountain in the middle under a canopy resting on pillars. The
+usually has a [[Fountain|fountain]] in the middle under a canopy resting on pillars. The
 entrance porch is the _narthex_. The central area covered by the dome is
 the _solea_, the place for the choir of singers. Here also stood the
 _ambo_. Across the eastern side of the central square was a screen which
@@ -198,7 +198,7 @@ interior surfaces were adorned all over by mosaics or paintings in the
 higher parts of the edifice, and below with incrustations of marble slabs,
 which were frequently of very beautiful varieties, and disposed so that,
 although in one surface, the colouring formed a series of large panels. The
-choicer marbles were opened out so that the two surfaces produced by the
+choicer [[Marbles|marbles]] were opened out so that the two surfaces produced by the
 division formed a symmetrical pattern resembling somewhat the marking of
 skins of beasts.
 
@@ -225,7 +225,7 @@ the magnificent examples still remaining at Ravenna, portions of the
 original incrustation of St Sophia, Constantinople, those of the basilica
 at Parenzo, on the Gulf of Istria, and of St Catherines, Sinai. An
 interesting mosaic which is probably of this period, and has only recently
-been described, is at the small church of Keti in Cyprus. This, which may
+been described, is at the small church of [[Keti]] in [[Cyprus]]. This, which may
 be the only Byzantine mosaic in the British dominions, fills the conch of a
 tiny apse, but is none the less of great dignity. In the centre is a figure
 of the Virgin with the Holy Child in her arms standing between two angels
@@ -256,7 +256,7 @@ masses of balanced form, and such masses are arranged with strict regard
 for general symmetry. "The art," as Bayet says, "in losing something of
 life and liberty became so much the better fitted for the decoration of
 great edifices." The technical means were just as much simplified, and only
-a few frank colours were made sufficient, by skilful juxtaposition, to do
+a few [[Frank|frank]] [[Colours|colours]] were made sufficient, by skilful juxtaposition, to do
 all that was required of them. The fine pure blue, or bright gold,
 backgrounds on which the figures were spaced, as well as the broken surface
 incidental to the process, created an atmosphere which harmonized all
@@ -266,7 +266,7 @@ seem to have been applied with similar profusion in the imperial palace.
 Mosaic was only a more magnificent kind of painting, and painted design
 followed exactly the same laws; the difference is in the splendour of
 effect and in the solidity and depth of colour. Paintings, from the first,
-must have been of more grey and pearly hues. A large side chapel at the
+must have been of more grey and pearly [[Hue|hues]]. A large side chapel at the
 mosaic church at Constantinople is painted, and it is difficult to say
 which is really the more beautiful, the deep splendour of the one, or the
 tender yet gay colour of the other. The greatest thing in Byzantine art was
@@ -276,7 +276,7 @@ connected story. The typical character of the personages and scenes, the
 elimination of non-essentials, and the continuity of the tradition, brought
 about an intensity of expression such as may nowhere else be found. It is
 part of the limited greatness of this side of Byzantine art that there was
-no room in it for the gaiety and humour of the later medieval schools; all
+no room in it for the gaiety and [[Humour|humour]] of the later medieval schools; all
 was solemn, epical, cosmic. When such stories are displayed on the golden
 ground of arches and domes, and related in a connected cycle, the result
 produces, as it was intended to produce, a sense of the universal and
@@ -285,7 +285,7 @@ artists, they created imaginative types of the highest perfection. They
 clothed Christian ideas with forms so worthy, which have become so
 diffused, and so intimately one with the history, that we are apt to take
 them for granted, and not to see in them the superb results of Greek
-intuition and power of expression. Such a type is the Pantocrator,--the
+[[Intuition|intuition]] and power of expression. Such a type is the Pantocrator,--the
 Creator-Redeemer, the Judge inflexible and yet compassionate,--who is
 depicted at the zenith of all greater domes; such the Virgin with the Holy
 Child, enthroned or standing in the conchs of apses, all tenderness and
@@ -300,7 +300,7 @@ have been fixed into final types.
 We are apt to speak of the rigidity and fixity of Byzantine work, but the
 method is germane in the strictest sense to the result desired, and we
 should ask ourselves how far it is possible to represent such a serious and
-moving drama except by dealing with more or less unchangeable types. It
+moving [[Drama|drama]] except by dealing with more or less unchangeable types. It
 could be no otherwise. This art was not a matter of taste, it was a growth
 of thought, cast into an historical mould. Again, the artists had an
 extraordinary power of concentrating and abstracting the great things of a
@@ -318,7 +318,7 @@ remarkable invention is the _etomasia_, a splendid empty throne prepared
 for the Second Advent. The stories of the Old Testament are put into
 relation with the Gospel by way of type and anti-type. There are
 allegories: the anchorite life contrasted with the mad life of the world,
-the celestial ladder, &c., and fine impersonations, such as night and dawn,
+the celestial [[Ladder|ladder]], &c., and fine impersonations, such as night and dawn,
 mercy and truth, cities and rivers, are frequently found, especially in MS.
 pictures.
 
@@ -326,9 +326,9 @@ A few general schemes may be briefly summarized. St Sophia has the
 Pantocrator in the middle of the dome, and four cherubim of colossal size
 at the four corners; on the walls below were angels, prophets, saints and
 doctors. On the circle of the apse was enthroned the Virgin. To the right
-and left, high above the altar, were two archangels holding banners
+and left, high above the altar, were two archangels holding [[Banners|banners]]
 inscribed "Holy, Holy, Holy." These last are also found at Nicaea, and at
-the monastery of St Luke. The church of the Holy Apostles had the Ascension
+the monastery of St [[Luke]]. The church of the Holy Apostles had the Ascension
 in the central dome, and below, the Life of Christ. St Sophia, Salonica,
 also has the Ascension, a composition which is repeated on the central dome
 of St Mark's, Venice. In the eastern dome of the Venetian church is Christ
@@ -349,8 +349,8 @@ below these were the winds, hail and snow; and still lower mountains and
 trees and the life on the earth, with all of which were interwoven passages
 from the last three Psalms, forming a Benedicite. After St Mark's, Venice,
 the completest existing scheme of mosaics is that of the church of St Luke;
-those of Daphne, Athens, are the most beautiful. A complete series of
-paintings exists in one of the monastic churches on Mount Athos. The
+those of [[Daphne]], Athens, are the most beautiful. A complete series of
+paintings exists in one of the monastic churches on Mount [[Athos]]. The
 Pantocrator is at the centre of the dome, then comes a zone with the
 Virgin, St John Baptist and the orders of the angels. Then the prophets
 between the windows of the dome and the four evangelists in the
@@ -361,19 +361,19 @@ painted as well as the vaults. The mosaics overflowed from the interiors on
 to the external walls of buildings even in Roman days, and the same
 practice was continued on churches. The remains of an external mosaic of
 the 6th century exist on the west facade of the basilica at Parenzo. Christ
-is there seated amongst the seven candlesticks, and adored by saints. At
+is there seated amongst the seven [[Candlestick|candlesticks]], and adored by saints. At
 the basilica at Bethlehem the gable end was appropriately covered with a
 mosaic of the Nativity, also a work of the age of Justinian. In Rome, St
 Peter's and other churches had mosaics on the facades; a tradition
 represented, in a small way, at San Miniato, Florence. At Constantinople,
 according to Clavigo, the Spanish ambassador who visited that city about
 1400, the church of St Mary of the Fountain had its exterior richly worked
-in gold, azure and other colours; and it seems almost necessary to believe
+in gold, [[Azure|azure]] and other colours; and it seems almost necessary to believe
 that the bare front of the narthex of St Sophia was intended to be
-decorated in a similar manner. In Damascus the courtyard of the Great
+decorated in a similar manner. In [[Damascus]] the courtyard of the Great
 Mosque seems to have been adorned with mosaics; photographs taken before
 the fire in 1893 show patches on the central gable in some of the spandrels
-of the side colonnade and on the walls of the isolated octagonal treasury.
+of the side [[Colonnade|colonnade]] and on the walls of the isolated octagonal treasury.
 The mosaics here were of Byzantine workmanship, and their effect, used in
 such abundance, must have been of great splendour. In Jerusalem the mosque
 of Omar also had portions of the exterior covered with mosaics. We may
@@ -383,9 +383,9 @@ the sun, must have been even more glorious than the imagery of their
 interiors.
 
 Painted books were hardly different in their style from the paintings on
-the walls. Of the MSS. the Cottonian Genesis, now only a collection of
+the walls. Of the MSS. the Cottonian [[Genesis]], now only a collection of
 charred fragments, was an early example. The great _Natural History_ of
-Dioscorides of Vienna (c. 500) and the Joshua Roll of the Vatican, which
+Dioscorides of Vienna (c. 500) and the [[Joshua]] Roll of the Vatican, which
 have both been lately published in perfect facsimile, are magnificent
 works. In the former the plants are drawn with an accuracy of observation
 which was to disappear for a thousand years. The latter shows a series of
@@ -395,7 +395,7 @@ contain classical survivals, like personified rivers.
 In some of the miniatures of the later school of the art the classical
 revival of the 10th century was especially marked. Still later others show
 a very definite Persian influence in their ornamentation, where intricate
-arabesques almost of the style of eastern rugs are found.
+[[Arabesque|arabesques]] almost of the style of eastern rugs are found.
 
 _The Plastic Art._--If painting under the new conditions entered on a fresh
 course of power and conquest, if it set itself successfully to provide an
@@ -423,7 +423,7 @@ to this process the name of the "deep-dark" ground. A further step was to
 relieve the upper fretwork of carving from the ground altogether in certain
 places by cutting away the sustaining portions.
 
-[v.04 p.0910] The simplicity, the definition and crisp sharpness of some of
+[v.04 p.0910] The simplicity, the [[Definition|definition]] and crisp sharpness of some of
 the results are entirely delightful. The bluntness and weariness of many of
 the later modelled Roman forms disappear in the new energy of workmanship
 which was engaged in exploring a fresh field of beauty. These brightly
@@ -444,7 +444,7 @@ and contain modelled figures.
 
 Coins and medallions of even the best period of Byzantine art prove what a
 deep abyss separates them from the power over modelled relief shown in
-classical examples. The sculptural art is best displayed by ivory carvings,
+classical examples. The sculptural art is best displayed by [[Ivory|ivory]] carvings,
 although this is more to be attributed to their pictorial quality than to a
 feeling for modelling.
 
@@ -486,7 +486,7 @@ The process of enamelling dates from late classical times and Venturi
 supposes that it was invented in Alexandria. The cloisonne process,
 characteristic of Byzantine enamels, is thought by Kondakov to be derived
 from Persia, and to its study he has devoted a splendid volume. One of the
-finest examples of this cloisonne is the reliquary at Limburg on which the
+finest examples of this cloisonne is the reliquary at [[Limburg]] on which the
 enthroned Christ appears between St Mary and St John in the midst of the
 twelve apostles. An inscription tells that it was executed for the emperors
 Constantine and Romanus (948-959).
@@ -496,7 +496,7 @@ Kensington is of the greatest beauty in regard to the colour and clearness
 of the enamel. The cover, which is only about 41/2 by 3 ins., has in the
 centre a crucifixion with St Mary and St John to the right and left, while
 around are busts of the apostles. Christ is vested in a tunic. The ground
-colour is the green of emerald, the rest mostly blue and white. The
+colour is the green of [[Emerald|emerald]], the rest mostly blue and white. The
 cloisons are of gold. Two other Byzantine enamels are in the permanent
 collection at the Victoria and Albert Museum: one is a cross with the
 crucifixion on a background of the same emerald enamel; the other is a
@@ -504,7 +504,7 @@ small head of St Paul of remarkably fine workmanship.
 
 Ivory-working was another characteristic Byzantine art, although, like so
 many others it had its origin in antiquity. One of the earliest ivories of
-the Byzantine type is the diptych at Monza, showing a princess and a boy,
+the Byzantine type is the [[Diptych|diptych]] at Monza, showing a princess and a boy,
 supposed to be Galla Placidia and Valentinian III. This already shows the
 broad, flattened treatment which seems to mark the ivory work of the East.
 The majestic archangel of the British Museum, one of the largest panels
@@ -536,11 +536,11 @@ production of silk as for linen textiles. The Victoria and Albert Museum is
 particularly rich in early silks. One fine example, having rose-coloured
 stripes and repeated figures of Samson and the lion, must be of the great
 period of the 6th century. The description of St Sophia written at that
-time tells of the altar curtains that they bore woven images of Christ, St
+time tells of the altar [[Curtain|curtains]] that they bore woven images of Christ, St
 Peter and St Paul standing under tabernacles upon a crimson ground, their
 garments being enriched with gold embroidery. Later the patterns became
 more barbaric and of great scale, lions trampled across the stuff, and in
-large circles were displayed eagles, griffins and the like in a fine
+large circles were displayed eagles, [[Griffin|griffins]] and the like in a fine
 heraldic style. From the origin of the raw material in China and India and
 the ease of transport, such figured stuffs gathered up and distributed
 patterns over both Europe and Asia. The Persian influence is marked. There
@@ -552,7 +552,7 @@ varieties at the Victoria and Albert Museum, both of which are classed as
 Byzantine; it is difficult to say of many of these patterns whether they
 are Sassanian originals or Byzantine adaptations from them.
 
-AUTHORITIES.--A very complete bibliography is given by H. Leclercq, _Manuel
+AUTHORITIES.--A very complete bibliography is given by H. Leclercq, _[[Manuel]]
 d'archeologie chretienne_ (Paris, 1907). The current authorities for all
 that concerns Byzantine history or art [v.04 p.0911] are:--_Byzantinische
 Zeitschrift ..._ (Leipzig, 1892 seq.); _Oriens Christianus_ (Rome, 1900
@@ -563,7 +563,7 @@ oder Rom_ (Leipzig, 1901) and other works; Kondakov, _Les Emaux byz._
 (1892), and other works; C. Diehl, _Justinien et la civilis. byz._ (Paris,
 1901), and other works; G. Millet, _Le Monastere de Daphne_, &c. (Paris,
 1899), and other works; L.G. Schlumberger, _L'Epopee byz._ &c. (1896 seq.);
-A. Michel, _Histoire de l'art_, vol. i. (Paris, 1905); H. Brockhaus, _Die
+A. Michel, _Histoire de l'art_, vol. i. (Paris, 1905); H. [[Brockhaus]], _Die
 Kunst in den Athos-Klostern_ (Leipzig, 1891); E. Molinier, _Histoire
 generale des arts_, &c. i., _Ivoires_ (Paris, 1896); O. Dalton, _Catalogue
 of Early Christian Antiquities...of the British Museum_ (1901); A. van

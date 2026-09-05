@@ -16,7 +16,7 @@ commonly known as Vlachte Bos (_vlachte_, "wooded"; _bos_, "plain") or
 Flackebos, whence, by further corruption, the present name. Farming was
 the chief occupation of the early settlers. On the 23rd of August 1776
 the village was occupied by General Cornwallis's division of the
-invading force under Lord Howe, and on the 27th, at the disastrous
+invading force under [[Lord Howe]], and on the 27th, at the disastrous
 battle of Long Island (or "battle of Flatbush," as it is sometimes
 called), "Flatbush Pass," an important strategic point, was vigorously
 defended by General Sullivan's troops.

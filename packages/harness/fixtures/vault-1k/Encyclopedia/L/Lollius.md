@@ -19,7 +19,7 @@ young man, probably the son of this Lollius.
 
   See Suetonius, _Augustus_, 23, _Tiberius_, 12; Vell. Pat. ii. 97. 102;
   Tacitus, _Annals_, i. 10, iii. 48; Pliny, _Nat. Hist._ ix. 35 (58);
-  Dio Cassius, liv. 6; see also J. C. Tarver, _Tiberius the Tyrant_
+  Dio [[Cassius]], liv. 6; see also J. C. Tarver, _Tiberius the Tyrant_
   (1902), pp. 200 foll.
 
 ## See also

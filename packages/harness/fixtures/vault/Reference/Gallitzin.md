@@ -8,18 +8,18 @@ tags: [etymology, grammar-theory]
 
 # Gallitzin
 
-GALLITZIN, DEMETRIUS AUGUSTINE (1770-1840), American Roman Catholic
-priest, called "The Apostle of the Alleghanies," was born at the Hague
+GALLITZIN, [[Demetrius|DEMETRIUS]] AUGUSTINE (1770-1840), American Roman Catholic
+priest, called "The [[Apostle]] of the Alleghanies," was born at the [[Hague]]
 on the 22nd of December 1770. His name is a form of Golitsuin (q.v.),
 the Russian family from which he came. His father, Dimitri Alexeievich
 Gallitzin (1735-1803), Russian ambassador to Holland, was an intimate
-friend of Voltaire and a follower of Diderot; so, too, for many years
+friend of Voltaire and a follower of [[Diderot]]; so, too, for many years
 was his mother, Countess Adelheid Amalie von Schmettau (1748-1806),
 until a severe illness in 1786 led her back to the Roman Catholic
 church, in which she had been reared. At the age of seventeen he too
 became a member of that church. His father had planned for him a
 diplomatic or military career, and in 1792 he was aide-de-camp to the
-commander of the Austrian troops in Brabant; but, after the
+[[Commander|commander]] of the Austrian troops in [[Brabant]]; but, after the
 assassination of the king of Sweden, he, like all other foreigners, was
 dismissed from the service. He then set out to complete his education by
 travel, and on the 28th of October 1792 arrived in Baltimore, Maryland,
@@ -30,25 +30,25 @@ whence he was soon transferred to the Conewago district. His impulsive
 objection to some of Bishop Carroll's instructions was sharply rebuked,
 and he was recalled to Baltimore. But in 1796 he removed to Taneytown,
 Maryland, and in both Maryland and Pennsylvania worked with such
-misdirected zeal and autocratic manners that he was again reproved by
+misdirected zeal and autocratic [[Manners|manners]] that he was again reproved by
 his bishop in 1798. In the Alleghanies, in 1799, he planned a settlement
-in what is now Cambria county, Pennsylvania, and bought up much land
+in what is now [[Cambria]] county, Pennsylvania, and bought up much land
 which he gave or sold at low prices to Catholic immigrants, spending
 $150,000 or more in the purchase of some 20,000 acres in a spot
 singularly ill suited for such an enterprise. In 1808, after his
 father's death, he was disinherited by the emperor Alexander I. of
 Russia "by reason of your Catholic faith and your ecclesiastical
-profession"; and although his sister Anne repeatedly promised him his
+profession"; and although his sister [[Anne]] repeatedly promised him his
 half of the valuable estate and sent him money from time to time, after
 her death her brother received little or nothing from the estate. The
 priest, who after his father's death had in 1809 discarded the name of
 Augustine Smith, under which he had been naturalized, and had taken his
-real name, was soon deeply in debt. No small part was a loan from
+real name, was soon deeply in [[Debt|debt]]. No small part was a loan from
 Charles Carroll, and when Gallitzin was suggested for the see of
 Philadelphia in 1814, Bishop Carroll gave as an objection Gallitzin's
 "great load of debt rashly, though for excellent and charitable
 purposes, contracted." In 1815 Gallitzin was suggested for the bishopric
-of Bardstown, Kentucky, and in 1827 for the proposed see of Pittsburg,
+of Bardstown, [[Kentucky]], and in 1827 for the proposed see of Pittsburg,
 and he refused the bishopric of Cincinnati. He died at Loretto, the
 settlement he had founded in Cambria county, on the 6th of May 1840.
 Among his parishioners Gallitzin was a great power for good. His part in

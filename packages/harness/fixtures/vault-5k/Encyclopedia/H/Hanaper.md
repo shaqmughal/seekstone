@@ -1,7 +1,7 @@
 # Hanaper
 
 HANAPER, properly a case or basket to contain a "hanap" (O. Eng. _hnaep_:
-cf. Dutch _nap_), a drinking vessel, a goblet with a foot or stem; the
+cf. Dutch _nap_), a drinking vessel, a [[Goblet|goblet]] with a foot or stem; the
 term which is still used by antiquaries for medieval stemmed cups. The
 famous Royal Gold Cup in the British Museum is called a "hanap" in the
 inventory of Charles VI. of France. The word "hanaper" (Med. Lat.
@@ -15,9 +15,9 @@ Scargill-Bird, _Guide to the Public Records_ (1908). In Ireland it still
 survives in the office of the clerk of the crown and hanaper, from which
 are issued writs for the return of members of parliament for Ireland.
 From "hanaper" is derived the modern "hamper," a wicker or rush basket
-used for the carriage of game, fish, wine, &c. The verb "to hamper," to
+used for the carriage of [[Game|game]], fish, wine, &c. The verb "to hamper," to
 entangle, obstruct, hinder, especially used of disturbing the mechanism
-of a lock or other fastening so as to prevent its proper working, is of
+of a [[Lock|lock]] or other fastening so as to prevent its proper working, is of
 doubtful origin. It is probably connected with a root seen in the Icel.
 _hemja_, to restrain, and Ger. _hemmen_, to clog.
 

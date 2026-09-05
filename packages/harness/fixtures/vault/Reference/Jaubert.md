@@ -9,7 +9,7 @@ government. In 1802 he accompanied Sebastiani on his Eastern mission;
 and in 1804 he was at Constantinople. Next year he was despatched to
 Persia to arrange an alliance with the shah; but on the way he was
 seized and imprisoned in a dry cistern for four months by the pasha of
-Bayazid. The pasha's death freed Jaubert, who successfully accomplished
+[[Bayazid]]. The pasha's death freed Jaubert, who successfully accomplished
 his mission, and rejoined Napoleon at Warsaw in 1807. On the eve of
 Napoleon's downfall he was appointed chargé d'affaires at
 Constantinople. The restoration ended his diplomatic career, but in 1818

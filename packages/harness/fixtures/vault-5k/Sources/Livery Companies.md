@@ -25,22 +25,22 @@ ward-representatives to the trading companies. Henceforward, and for
 many years, the companies engrossed political and municipal power in the
 city of London.
 
-The trading fraternities assumed generally the character of corporations
+The trading [[Fraternities|fraternities]] assumed generally the character of corporations
 in the reign of Edward III. Many of them had been chartered before, but
 their privileges, hitherto exercised only on sufferance and by payment
 of their terms, were now confirmed by letters patent. Edward III.
 himself became a member of the fraternity of Linen Armourers, or
 Merchant Taylors, and other distinguished persons followed his example.
 From this time they are called livery companies, "from now generally
-assuming a distinctive dress or livery." The origin of the Grocers'
+assuming a distinctive [[Dress|dress]] or [[Livery|livery]]." The origin of the Grocers'
 Company is thus described: "Twenty-two persons, carrying on the business
-of pepperers in Soper's Lane, Cheapside, agree to meet together, to a
-dinner, at the Abbot of Bury's, St Mary Axe, and commit the particulars
+of pepperers in Soper's [[Lane]], Cheapside, agree to meet together, to a
+[[Dinner|dinner]], at the Abbot of Bury's, St Mary Axe, and commit the particulars
 of their formation into a trading society to writing. They elect after
 dinner two persons of the company so assembled--Roger Osekyn and
 Lawrence de Haliwell--as their first governors or wardens, appointing,
 at the same time, in conformity with the pious custom of the age, a
-priest or chaplain to celebrate divine offices for their souls" (Heath's
+priest or [[Chaplain|chaplain]] to celebrate divine offices for their souls" (Heath's
 "Account of the Grocers' Company," quoted in Herbert's _Twelve Great
 Livery Companies_, 1836, i. 43). The religious observances and the
 common feasts were characteristic features of those institutions. They
@@ -92,7 +92,7 @@ Persons might be members who had nothing to do with the craft, and the
 rise of great capitalists and the development of competition in trade
 made the regulation of industry by means of companies no longer
 possible. For an account of the "degeneration of craftgilds" a general
-reference may be made to Brentano, _On Gilds_ (1870), and C. Gross, _The
+reference may be made to Brentano, _On Gilds_ (1870), and C. [[Gross]], _The
 Gild Merchant_ (2 vols., 1890). The usurpation of power on the part of
 the richer members was not always effected without opposition. Brentano
 refers to a pamphlet on the Clothworkers' Company, published in 1649,
@@ -183,7 +183,7 @@ existence are the following:
   Basket Makers.  | Framework Knitters. | Playing Card
   Blacksmiths.    | Fruiterers.         |   Makers.
   Bowyers.        | Girdlers.           | Plumbers.
-  Brewers.        | Glass Sellers.      | Poulters.
+  [[Brewer|Brewers]].        | Glass Sellers.      | Poulters.
   Broderers.      | Glaziers.           | Saddlers.
   Butchers.       | Glovers.            | Salters.
   Carmen.         | Gold and Silver     | Scriveners.
@@ -191,16 +191,16 @@ existence are the following:
   Clockmakers.    | Goldsmiths.         | Silkthrowsters.
   Clothworkers.   | Grocers.            | Skinners.
   Coach and       | Gunmakers.          | Spectacle makers.
-    Coach-Harness | Haberdashers        | Stationers.
+    Coach-Harness | [[Haberdasher|Haberdashers]]        | Stationers.
     Makers.       | Horners.            | Tallow Chandlers.
-  Cooks.          | Innholders.         | Tin Plate Workers.
+  [[Cook|Cooks]].          | Innholders.         | Tin Plate Workers.
   Coopers.        | Ironmongers.        | Turners.
   Cordwainers.    | Joiners.            | Tylers and
   Curriers.       | Leathersellers.     |   Bricklayers.
-  Cutlers.        | Loriners.           | Upholders.
+  [[Cutler|Cutlers]].        | Loriners.           | Upholders.
   Distillers.     | Masons.             | Wax Chandlers.
   Drapers.        | Mercers.            | Weavers.
-  Dyers.          | Merchant Taylors.   | Wheelwrights.
+  [[Dyer|Dyers]].          | Merchant Taylors.   | Wheelwrights.
   Fanmakers.      | Musicians.          | Woolmen.
   Farriers.       |                     |
 
@@ -256,7 +256,7 @@ which the society still acts.
   Bowyers, Distillers, Glovers, Tin-Plate Workers and Weavers. The
   Commission estimated the annual income of the companies to be from
   £750,000 to £800,000, about £200,000 of that amount being trust
-  income, the balance corporate income.
+  income, the [[Balance|balance]] corporate income.
 
   AUTHORITIES.--In addition to the _Report_ referred to above the
   following works may be consulted: H. T. Riley, _Memorials of London
@@ -266,7 +266,7 @@ which the society still acts.
   1859-1862); J. Toulmin Smith, _English Gilds_ (published by Early
   English Text Society), with essay by L. Brentano (1870); W. Herbert,
   _History of the Twelve Great Livery Companies_ (1837); C. Gross, _The
-  Gild Merchant_ (2 vols., 1890); W. C. Hazlitt, _The Livery Companies
+  Gild Merchant_ (2 vols., 1890); W. C. [[Hazlitt]], _The Livery Companies
   of the City of London_ (1892), contains a précis of the Royal
   Commission; P. H. Ditchfield, _The City Companies of London_ (1904);
   G. Unwin, _The Gilds and Companies of London_ (1908).     (T. A. I.)
@@ -278,7 +278,7 @@ FOOTNOTE:
     "mistery;" it comes through the O. Fr. _mestier_, modern _métier_,
     from Lat. _ministerium_, service, employment, and meant a trade or
     craft, and hence the plays acted by craftsmen and members of gilds
-    were called "mystery plays" (see DRAMA). For the word meaning a
+    were called "mystery plays" (see [[Drama|DRAMA]]). For the word meaning a
     hidden or secret rite, with which this has so often been confused,
     see MYSTERY.
 

@@ -30,8 +30,8 @@ intelligent life of man is, consciously or unconsciously, a process of
 apperception, inasmuch as every act of attention involves the
 appercipient process.
 
-  See Karl Lange, _Ueber Apperception_ (6th ed. revised, Leipzig, 1899;
-  trans. E.E. Brown, Boston, 1893); G.F. Stout, _Analytic Psychology_
+  See Karl [[Lange]], _Ueber Apperception_ (6th ed. revised, Leipzig, 1899;
+  trans. E.E. Brown, [[Boston]], 1893); G.F. Stout, _Analytic Psychology_
   (London, 1896), bk. ii. ch. viii., and in general text-books of
   psychology; also PSYCHOLOGY.
 

@@ -4,7 +4,7 @@ BURNET, GILBERT (1643-1715), English bishop and historian, was born in
 Edinburgh on the 18th of September 1643, of an ancient and distinguished
 Scottish house. He was the youngest son of Robert Burnet (1592-1661), who
 at the Restoration became a lord of session with the title of Lord Crimond.
-Robert Burnet had refused to sign the Scottish Covenant, although the
+Robert Burnet had refused to sign the Scottish [[Covenant]], although the
 document was drawn up by his brother-in-law, Archibald Johnstone, Lord
 Warristoun. He therefore found it necessary to retire from his profession,
 and twice went into exile. He disapproved of the rising of the Scots, but
@@ -12,7 +12,7 @@ was none the less a severe critic of the government of Charles I. and of
 the action of the Scottish bishops. This moderate attitude he impressed on
 his son Gilbert, whose early education he directed. The boy entered
 Marischal College at the age of nine, and five years later graduated M.A.
-He then spent a year in the study of feudal and civil law before he
+He then spent a year in the study of feudal and [[Civil Law|civil law]] before he
 resolved to devote himself to theology. He became a probationer for the
 Scottish ministry in 1661 just before episcopal government was
 re-established in Scotland. His decision to accept episcopal orders led to
@@ -20,9 +20,9 @@ difficulties with his family, especially with his mother, who held rigid
 Presbyterian views. From this time dates his friendship with Robert
 Leighton (1611-1684), who greatly influenced his religious opinions.
 Leighton had, during a stay in the Spanish Netherlands, assimilated
-something of the ascetic and pietistic spirit of Jansenism, and was devoted
+something of the ascetic and pietistic spirit of [[Jansenism]], and was devoted
 to the interests of peace in the church. Burnet wisely refused to accept a
-benefice in the disturbed state of church affairs, but he wrote an
+[[Benefice|benefice]] in the disturbed state of church affairs, but he wrote an
 audacious letter to Archbishop Sharp asking him to take measures to restore
 peace. Sharp sent for Burnet, and dismissed his advice without apparent
 resentment. He had already made valuable acquaintances in Edinburgh, and he
@@ -51,10 +51,10 @@ ii. of the _Miscellanies_ of the Scottish Historical Society), in which he
 pointed out that they were departing from the custom of the primitive
 church by their excessive pretensions, and yet his attitude was far too
 moderate to please the Presbyterians. In 1669 he resigned his parish to
-become professor of divinity in the university of Glasgow, and in the same
+become professor of divinity in the university of [[Glasgow]], and in the same
 year he published an exposition of his ecclesiastical views in his _Modest
 and Free Conference between a Conformist and a Nonconformist_ (by "a lover
-of peace"). He was Leighton's right hand in the efforts at a compromise
+of peace"). He was Leighton's right hand in the efforts at a [[Compromise|compromise]]
 between the episcopal and the presbyterian principle. Meanwhile he had
 begun to differ from Lauderdale, whose policy after the failure of the
 scheme of "Accommodation" moved in the direction of absolutism and
@@ -63,18 +63,18 @@ divergence rapidly developed into opposition. He warily refused the offer
 of a Scottish bishopric, and published in 1673 his four "conferences,"
 entitled _Vindication of the Authority, Constitution and Laws of the Church
 and State of Scotland_, in which he insisted on the duty of passive
-obedience. It was partly through the influence of Anne (d. 1716), duchess
+obedience. It was partly through the influence of [[Anne]] (d. 1716), duchess
 of Hamilton in her own right, that he had been appointed at Glasgow, and he
 made common cause with the Hamiltons against Lauderdale. The duchess had
 made over to him the papers of her father and uncle, from which he compiled
-the _Memoirs of the Lives and Actions of James and William, dukes of
+the _Memoirs of the Lives and Actions of James and William, [[Dukes|dukes]] of
 Hamilton and Castleherald. In which an Account is given of the Rise and
 Progress of the Civil Wars of Scotland ... together with many letters ...
 written by King Charles I._ (London, 1677; Univ. Press, Oxford, 1852), a
 book which was published as the second volume of a _History of the Church
 of Scotland_, Spottiswoode's _History_ forming the first. This work
 established his reputation as an historian. Meanwhile he had clandestinely
-married in 1671 a cousin of Lauderdale, Lady Margaret Kennedy, daughter of
+married in 1671 a [[Cousin|cousin]] of Lauderdale, Lady [[Margaret]] Kennedy, daughter of
 John Kennedy, 6th earl of Cassilis, a lady who had already taken an active
 part in affairs in Scotland, and was eighteen years older than Burnet. The
 marriage was kept secret for three years, and Burnet renounced all claim to
@@ -87,7 +87,7 @@ to London to arrange for the publication of the Hamilton _Memoirs_, and he
 was treated with confidence by the duke of York. On his return to Scotland
 Lauderdale refused to receive him, and denounced him to Charles II. as one
 of the chief centres of Scottish discontent. Burnet found it wiser to
-retire to England on the plea of fulfilling his duties as royal chaplain.
+retire to England on the plea of fulfilling his duties as royal [[Chaplain|chaplain]].
 Once in London he resigned his professorship (September 1674) at Glasgow;
 but, although James remained his friend, Charles struck him off the roll of
 court chaplains in 1674, and it was in opposition to court influence that
@@ -96,12 +96,12 @@ Grimston, and appointed lecturer at St Clement's. He was summoned in April
 1675 before a committee of the House of Commons to give evidence against
 Lauderdale, and disclosed, without reluctance according to his enemies,
 confidences which had passed between him and the minister. He himself
-confesses in his autobiography that "it was a great error in me to appear
+confesses in his autobiography that "it was a great [[Error|error]] in me to appear
 in this matter," and his conduct cost him the patronage of the duke of
-York. In ecclesiastical matters he threw in his lot with Thomas Tillotson
+York. In ecclesiastical matters he threw in his [[Lot|lot]] with Thomas Tillotson
 and John Tenison, and at the time of the Revolution had written some
 eighteen polemics against encroachments of the Roman Catholic Church. At
-the suggestion of Sir William Jones, the attorney-general, he began his
+the suggestion of Sir William Jones, the [[Attorney-General|attorney-general]], he began his
 _History of the Reformation in England_, based on original documents. [v.04
 p.0852] In the necessary research he received some pecuniary help from
 Robert Boyle, but he was hindered in the preparation of the first part
@@ -109,17 +109,17 @@ Robert Boyle, but he was hindered in the preparation of the first part
 influence of Lauderdale. For this volume he received the thanks of
 parliament, and the second and third volumes appeared in 1681 and 1715. In
 this work he undertook to refute the statements of Nicholas Sanders, whose
-_De Origine et progressu schismatis Anglicani libri tres_ (Cologne, 1585)
+_De Origine et progressu schismatis Anglicani libri tres_ ([[Cologne]], 1585)
 was still, in the French translation of Maucroix, the commonly accepted
 account of the English reformation. Burnet's contradictions of Sanders must
 not, however, be accepted without independent investigation. At the time of
 the Popish Plot in 1678 he displayed some moderation, refusing to believe
-the charges made against the duke of York, though he chose this time to
+the charges made against the duke of York, though he [[Chose|chose]] this time to
 publish some anti-Roman pamphlets. He tried, at some risk to himself, to
 save the life of one of the victims, William Staly, and visited William
-Howard, Viscount Stafford, in the Tower. To the Exclusion Bill he opposed a
+[[Howard]], Viscount Stafford, in the Tower. To the Exclusion Bill he opposed a
 suggestion of compromise, and it is said that Charles offered him the
-bishopric of Chichester, "if he would come entirely into his interests."
+bishopric of [[Chichester]], "if he would come entirely into his interests."
 Burnet's reconciliation with the court was short-lived. In January 1680 he
 addressed to the king a long letter on the subject of his sins; he was
 known to have received the dangerous confidence of Wilmot, earl of
@@ -133,7 +133,7 @@ James II. retired to Paris. He had already begun the writing of his
 memoirs, which were to develop into the _History of His Own Time_.
 
 Burnet now travelled in Italy, Germany and Switzerland, finally settling in
-Holland at the Hague, where he won from the princess of Orange a confidence
+Holland at the [[Hague]], where he won from the princess of Orange a confidence
 which proved enduring. He rendered a signal service to William by inducing
 the princess to offer to leave the whole political power in her husband's
 hands in the event of their succession to the English crown. A prosecution
@@ -142,7 +142,7 @@ Scotland, and he took the precaution of naturalizing himself as a Dutch
 subject. Lady Margaret Burnet was dying when he left England, and n Holland
 he married a Dutch heiress of Scottish descent, Mary Scott. He returned to
 England with William and Mary, and drew up the English text of their
-declaration. His earlier views on the doctrine of non-resistance had been
+[[Declaration|declaration]]. His earlier views on the doctrine of non-resistance had been
 sensibly modified by what he saw in France after the revocation of the
 edict of Nantes and by the course of affairs at home, and in 1688 he
 published an _Inquiry into the Measures of Submission to the Supreme
@@ -163,12 +163,12 @@ ecclesiastical patronage passed through her hands, but after her death
 William III. appointed an ecclesiastical commission on which Burnet was a
 prominent member, for the disposal of vacant benefices. In 1696 and 1697 he
 presented memorials to the king suggesting that the first-fruits and tenths
-raised by the clergy should be devoted to the augmentation of the poorer
+raised by the clergy should be devoted to the [[Augmentation|augmentation]] of the poorer
 livings, and though his suggestions were not immediately accepted, they
 were carried into effect under Queen Anne by the provision known as Queen
-Anne's Bounty. His second wife died of smallpox in 1698, and in 1700 Burnet
+Anne's [[Bounty]]. His second wife died of smallpox in 1698, and in 1700 Burnet
 married again, his third wife being Elizabeth (1661-1709), widow of Robert
-Berkeley and daughter of Sir Richard Blake, a rich and charitable woman,
+[[Berkeley]] and daughter of Sir Richard [[Blake]], a rich and charitable woman,
 known by her _Method of Devotion_, posthumously published in 1710. In 1699
 he was appointed tutor to the royal duke of Gloucester, son of the Princess
 Anne, an appointment which he accepted somewhat against his will. His
@@ -188,13 +188,13 @@ James's, Clerkenwell.
 Burnet directed in his will that his most important work, the _History of
 His Own Time_, should appear six years after his death. It was published (2
 vols., 1724-1734) by his sons, Gilbert and Thomas, and then not without
-omissions. It was attacked in 1724 by John Cockburn in _A Specimen of some
+omissions. It was attacked in 1724 by John [[Cockburn]] in _A Specimen of some
 free and impartial Remarks_. Burnet's book naturally aroused much
 opposition, and there were persistent rumours that the MS. had been unduly
-tampered with. He has been freely charged with gross misrepresentation, an
+tampered with. He has been freely charged with [[Gross|gross]] misrepresentation, an
 accusation to which he laid himself open, for instance, in the account of
 the birth of James, the Old Pretender. His later intimacy with the
-Marlboroughs made him very lenient where the duke was concerned. The
+[[Marlborough|Marlboroughs]] made him very lenient where the duke was concerned. The
 greatest value of his work naturally lies in his account of transactions of
 which he had personal knowledge, notably in his relation of the church
 history of Scotland, of the Popish Plot, of the proceedings at the Hague
@@ -217,7 +217,7 @@ vi. pp. 45-101. Burnet's letters to his friend, George Savile, marquess of
 Halifax, were published by the Royal Historical Society (_Camden
 Miscellany_, vol. xi.). The _History of His Own Time_ (2 vols. fol.,
 1724-1734) ran through many editions before it was reprinted at the
-Clarendon Press (6 vols., 1823, and supplementary volume, 1833) with the
+[[Clarendon]] Press (6 vols., 1823, and supplementary volume, 1833) with the
 suppressed passages of the first volume and notes by the earls of Dartmouth
 and Hardwicke, with the remarks of Swift. This edition, under the direction
 of M.J. Routh, was enlarged in a second Oxford edition of 1833. A new
@@ -242,12 +242,12 @@ Reformation of the Church of England_ was edited (Clarendon Press, Oxford,
 
 Besides the works mentioned above may be noticed: _Some Passages of the
 Life and Death of John, Earl of Rochester_ (Lond., 1680; facsimile reprint,
-with introduction by Lord Ronald Gower, 1875); _The Life and Death of Sir
-Matthew Hale, Kt., sometime Lord Chief-Justice of his Majesties Court of
-Kings Bench_ (Lond., 1682), which is included in C. Wordsworth's
+with introduction by Lord Ronald [[Gower]], 1875); _The Life and Death of Sir
+[[Matthew]] [[Hale]], Kt., sometime Lord Chief-Justice of his Majesties Court of
+Kings [[Bench]]_ (Lond., 1682), which is included in C. Wordsworth's
 _Ecclesiastical Biography_ (vol. vi., 1818); _The History of the Rights of
 Princes in disposing of Ecclesiastical Benefices and Church Lands_ (Lond.,
-1682, 8vo); _The Life of William Bedell, D.D., Bishop of Kilmore in
+1682, 8vo); _The Life of William [[Bedell]], D.D., Bishop of Kilmore in
 Ireland_ (1685), containing the correspondence between Bedell and James
 Waddesdon of the Holy Inquisition on the subject of the Roman obedience;
 _Reflections on Mr Varillas's "History of the Revolutions that have
@@ -258,9 +258,9 @@ Rotterdam (1686); _A Discourse of the Pastoral Care_ (1692, 14th ed.,
 1821); _An Essay on the Memory of the late Queen_ (1695); _A Collection of
 various Tracts and Discourses written in the Years 1677 to 1704_ (3 vols.,
 1704); and _A Collection of Speeches, Prefaces, Letters, with a Description
-of Geneva and Holland_ (1713). Of his shorter religious and polemical works
-a catalogue is given in vol. vi. of the Clarendon Press edition of his
-_History_, and in Lowndes's _Bibliographer's Manual_. The following
+of [[Geneva]] and Holland_ (1713). Of his shorter religious and polemical works
+a [[Catalogue|catalogue]] is given in vol. vi. of the Clarendon Press edition of his
+_History_, and in Lowndes's _Bibliographer's [[Manual]]_. The following
 translations deserve to be mentioned:--_Utopia, written in Latin by Sir
 Thomas More, Chancellor of England: translated into English_ (1685); _A
 Relation of the Death of the Primitive Persecutors, written originally in

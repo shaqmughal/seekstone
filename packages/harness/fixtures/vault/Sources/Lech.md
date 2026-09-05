@@ -2,10 +2,10 @@
 
 LECH (_Licus_), a river of Germany in the kingdom of Bavaria, 177 m.
 long, with a drainage basin of 2550 sq. m. It rises in the Vorarlberg
-Alps, at an altitude of 6120 ft. It winds out of the gloomy limestone
+Alps, at an altitude of 6120 ft. It winds out of the gloomy [[Limestone|limestone]]
 mountains, flows in a north-north-easterly direction, and enters the
 plains at Füssen (2580 ft.), where it forms rapids and a fall, then
-pursues a northerly course past Augsburg, where it receives the Wertach,
+pursues a northerly course past [[Augsburg]], where it receives the Wertach,
 and joins the Danube from the right just below Donauwörth (1330 ft.). It
 is not navigable, owing to its torrential character and the gravel beds
 which choke its channel. More than once great historic events have been

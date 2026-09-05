@@ -10,14 +10,14 @@ diplomatist named Pedro Sabater, became a widow within a year, and in
 (1839), _Guatimozin_ (1846), and other novels of no great importance.
 She obtained, however, a series of successes on the stage with _Alfonso
 Munio_ (1844), a tragedy in the new romantic manner; with _Saul_ (1849),
-a biblical drama indirectly suggested by Alfieri; and with _Baltasar_
+a biblical [[Drama|drama]] indirectly suggested by Alfieri; and with _Baltasar_
 (1858), a piece which bears some resemblance to Byron's _Sardanapalus_.
 Her commerce with the world had not diminished her natural piety, and,
 on the death of her second husband, she found so much consolation in
 religion that she had thoughts of entering a convent. She died at Madrid
 on the 2nd of February 1873, full of mournful forebodings as to the
 future of her adopted country. It is impossible to agree with Villemain
-that "le genie de don Luis de Leon et de sainte Therese a reparu sous le
+that "le genie de don Luis de [[Leon]] et de sainte Therese a reparu sous le
 voile funebre de Gomez de Avellaneda," for she has neither the monk's
 mastery of poetic form nor the nun's sublime simplicity of soul. She has
 a grandiose tragical vision of life, a vigorous eloquence rooted in

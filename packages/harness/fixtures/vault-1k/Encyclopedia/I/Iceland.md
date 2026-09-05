@@ -1,6 +1,6 @@
 # Iceland
 
-ICELAND (Dan. _Island_), an island in the North Atlantic Ocean,
+ICELAND ([[Dan]]. _Island_), an island in the North Atlantic Ocean,
 belonging to Denmark. Its extreme northerly point is touched by the
 Arctic Circle; it lies between 13° 22´ and 24° 35´ W., and between 63°
 12´ and 66° 33´ N., and has an area of 40,437 sq. m. Its length is 298
@@ -65,7 +65,7 @@ but it rises gradually towards the interior, terminating in a
 ramification of valleys. Its maximum altitude is attained at 381 ft.
 near Geysir. On the west of Mount Hekla this plain connects by a regular
 slope directly with the tableland, to the great injury of its inhabited
-districts, which are thus exposed to the clouds of pumice dust and
+districts, which are thus exposed to the clouds of pumice [[Dust|dust]] and
 driftsand that cover large areas of the interior. Nevertheless the
 greater part of this lowland plain produces good grass, and is
 relatively well inhabited. The plain is drained by three
@@ -404,7 +404,7 @@ There are marine insurance societies and a school of navigation at
 Reykjavik. The export of fish and fish products has greatly increased.
 In 1849 to 1855 the annual average exported was 1480 tons; whereas at
 the close of the century (in 1899) it amounted to 11,339 tons and 68,079
-barrels of oil, valued at £276,596.
+[[Barrel|barrels]] of oil, valued at £276,596.
 
 _Commerce_.--From the first colonization of the island down to the 14th
 century the trade was in the hands of native Icelanders and Norsemen; in
@@ -461,7 +461,7 @@ death-rate of young children has especially diminished. This improvement
 is due to greater cleanliness, better dwellings, better nourishment, and
 the increase in the number of doctors. There are now doctors in all
 parts of the country, whereas formerly there were hardly any in the
-island. There is a modern asylum for leprosy at Laugarnes near
+island. There is a modern [[Asylum|asylum]] for leprosy at Laugarnes near
 Reykjavik, and a medical school at Reykjavik, opened in 1876. The
 general sanitary affairs of the island are under the control of a chief
 surgeon (national physician) who lives in Reykjavik, and has
@@ -532,10 +532,10 @@ Friends of the People, and the Archaeological Society of Reykjavik.
   Bugter" (1901); "Geog. og geol. Unders. ved den sydlige Del af
   Faxaflói paa Island" (1903); "Lavaörkener og Vulkaner paa Islands
   Höjland" (1905). See also C. S. Forbes, _Iceland_ (London, 1860); S.
-  Baring-Gould, _Iceland, its Scenes and Sagas_ (London, 1863); Sir R.
+  [[Baring-Gould]], _Iceland, its Scenes and Sagas_ (London, 1863); Sir R.
   F. Burton, _Ultima Thule_ (Edinburgh, 1875); W. T. McCormick, _A Ride
   across Iceland_ (London, 1892); J. Coles, Summer Travelling in Iceland
-  (London, 1882); H. J. Johnston Lavis, "Notes on the Geography,
+  (London, 1882); H. J. Johnston Lavis, "Notes on the [[Geography]],
   Geology, Agriculture and Economics of Iceland," _Scott. Geog. Mag._
   xi. (1895); W. Bisiker, _Across Iceland_ (London, 1902); J. Hann, "Die
   Anomalien der Witterung auf Island in dem Zeitraume 1851-1900, &c.,"
@@ -581,7 +581,7 @@ among these immigrants there was no small proportion of Irish blood. In
 _Table of Icelandic Literature and History._
 
   +------------+-----------------------------------------------------------------+
-  |            |              I. _The Commonwealth. 400 years._                  |
+  |            |              I. _The [[Commonwealth]]. 400 years._                  |
   |   Heroic   |                           |                                     |
   |    Age.    |                           |                                     |
   |            |                           |                                     |
@@ -803,7 +803,7 @@ reserved its essential rights, was disregarded by the absolute Danish
 monarchs; but, though new taxation was imposed, it was rather their
 careless neglect than their too active interference that damaged
 Iceland's interests. But for an English trade, which sprang up out of
-the half-smuggling, half-buccaneering enterprise of the Bristol
+the half-smuggling, half-buccaneering enterprise of the [[Bristol]]
 merchants, the island would have fared badly, for during the whole of
 the 15th century their trade with England, exporting sulphur, eiderdown
 (of which the English taught them the value), wool, and salt stock-fish,
@@ -886,7 +886,7 @@ lavished on the saga, a prose epic, while Icelandic poetry is to be
 rated very high for the one quality which its authors have ever aimed
 at--melody of sound. To these generalizations there are few exceptions,
 though Icelandic literature includes a group of poems which possess
-qualities of high imagination, deep pathos, fresh love of nature,
+qualities of high [[Imagination|imagination]], deep pathos, fresh love of nature,
 passionate dramatic power, and noble simplicity of language which
 Icelandic poetry lacks. The solution is that these poems do not belong
 to Iceland at all. They are the poetry of the "Western Islands."
@@ -1161,7 +1161,7 @@ blood is greatest. In comparing the Irish tales with the saga, there
 will be felt deep divergencies in matter, style and taste, the richness
 of one contrasting with the chastened simplicity of the other; the one's
 half-comic, half-earnest bombast is wholly unlike the other's grim
-humour; the marvellous, so unearthly in the one, is almost credible in
+[[Humour|humour]]; the marvellous, so unearthly in the one, is almost credible in
 the other; but in both are the keen grasp of character, the biting
 phrase, the love of action and the delight in blood which almost assumes
 the garb of a religious passion.
@@ -1264,7 +1264,7 @@ Of tales relating to the east there survive the Weapon-firth cycle--the
 tales of _Thorstein the White_ (c. 900), of _Thorstein the Staffsmitten_
 (c. 985), of _Gunnar Thidrand's Bane_ (1000-1008) and of the
 _Weapon-firth Men_ (975-990), all relating to the family of Hof and
-their friends and kin for several generations--and the story of
+their friends and [[Kin|kin]] for several generations--and the story of
 _Hrafnkell Frey's Priest_ (c. 960), the most idyllic of sagas and best
 of the eastern tales. Of later times there are _Droplaug's Sons' Saga_
 (997-1007), written probably about 1110, and preserved in the uncouth
@@ -1331,7 +1331,7 @@ The forged Icelandic sagas appear as early as the 13th century. They are
 very poor, and either worked up on hints given in genuine stories or
 altogether apocryphal.
 
-_History._--About the year of the battle of Hastings was born Ari Froði
+_History._--About the year of the battle of [[Hastings]] was born Ari Froði
 Thorgilsson (1067-1148), one of the blood of Queen Aud, who founded the
 famous historical school of Iceland, and himself produced its greatest
 monument in a work which can be compared for value with the English
@@ -1374,7 +1374,7 @@ his plan with regard to part of the east coast, a district with which
 Ari in his western home at Stad was little familiar. _Landnamabók_ has
 reached us in two complete editions, one edited by Sturla, who brought
 down the genealogies to his own grandfather and grandmother, Sturla and
-Gudny, and one by Hawk, who traces the pedigrees still later to himself.
+Gudny, and one by [[Hawk]], who traces the pedigrees still later to himself.
 
 Ari also wrote a _Book of Icelanders_ (_Islendingabók_, c. 1127), which
 has perished as a whole, but fragments of it are embedded in many sagas
@@ -1556,7 +1556,7 @@ contemporary history; it deals with the life of his own nephew,
 especially his career in Iceland from 1252 to 1258. The second part of
 _Islendinga_ (1242-1262), which relates to the second part of the civil
 war, telling of the careers of Thord Kakali, Kolbein the Young, Earl
-Gizur and Hrafn Oddsson. The end is imperfect, there being a blank of
+Gizur and Hrafn Oddsson. The end is imperfect, there being a [[Blank|blank]] of
 some years before the fragmentary ending to which an editor has affixed
 a notice of the author's death. The first part of _Islendinga_
 (1202-1242) tells of the beginning and first part of the civil wars, the
@@ -1591,7 +1591,7 @@ century. The former work, _Arna Saga Biskups_, is imperfect; it is the
 record of the struggles of church and state over patronage rights and
 glebes, written c. 1315; it now covers only the years 1269-1291; a great
 many documents are given in it, after the modern fashion. The latter,
-_Laurentius Saga Biskups_, by his disciple, priest Einar Haflidason, is
+_Laurentius Saga Biskups_, by his [[Disciple|disciple]], priest Einar Haflidason, is
 a charming biography of a good and pious man, whose chequered career in
 Norway and Iceland is picturesquely told (1324-1331). It is the last of
 the sagas. _Bishop Jon's Table-Talk_ (1325-1339) is also worth noticing;
@@ -1654,7 +1654,7 @@ Unger), and are the works of many authors, chiefly of the 13th and 14th
 centuries; amongst them are the lives of _SS. Edward the Confessor_,
 _Oswald of Northumbria_, _Dunstan_ and _Thomas of Canterbury_. Of the
 authors we know Priest Berg Gunsteinsson (d. 1211); Kygri-Biorn,
-bishop-elect (d. 1237); Bishop Brand (d. 1264); Abbot Runolf (d. 1307);
+bishop-elect (d. 1237); Bishop [[Brand]] (d. 1264); Abbot Runolf (d. 1307);
 Bishop Lawrence's son Arni (c. 1330); Abbot Berg (c. 1340), &c. A
 paraphrase of the historical books of the Bible was made by Bishop Brand
 (d. 1264), called _Gydinga Sögur_. About 1310 King Haakon V. ordered a
@@ -1833,7 +1833,7 @@ mentioned _The Oath_, a series of most beautiful ballads, with a
 tragical love-story of the 17th century as their base, but with many and
 happy satirical allusions to modern life; _Jörundr_, a long poem about
 the convict king, the Danish pirate Jörgensen, who nearly succeeded in
-making himself the master of Iceland, and _The Fate of the Gods_ and
+making himself the master of Iceland, and _The [[Fate]] of the Gods_ and
 _The Men of the West_ (the Americans), two poems which, with their
 anti-clerical and half-socialistic tendencies, have caused strong
 protests from orthodox Lutheran clergy. Near to this school, but still
@@ -1913,7 +1913,7 @@ political review, _Eimreiðin_ ("The Locomotive").
   See J. C. Poestion, _Islandische Dichter der Neuzeit_ (Leipzig, 1897);
   C. Küchler, _Geschichte der isländischen Dichtung der Neuzeit_
   (Leipzig, 1896); Ph. Schweitzer, _Island; Land und Leute_ (Leipzig,
-  1885); Alexander Baumgartner, _Island und die Faroer_ (Freiburg im
+  1885); Alexander Baumgartner, _Island und die Faroer_ ([[Freiburg]] im
   Breisgau, 1889).     (S. Bl.)
 
 
@@ -1933,7 +1933,7 @@ FOOTNOTES:
     _History_ of Finn Jonsson are the best authority.
 
   [6] Many of these poems were Englished in prose by the translator of
-    Mallet, by B. Thorpe in his _Sæmund's Edda_, and two or three by
+    [[Mallet]], by B. Thorpe in his _Sæmund's Edda_, and two or three by
     Messrs Morris and Magnussen, as appendices to their translation of
     _Volsunga Saga_. Earlier translations in verse are those in Dryden's
     _Miscellany_ (vol. vi), A. Cottle's _Edda_, Mathias's _Translations_,

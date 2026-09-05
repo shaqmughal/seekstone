@@ -1,20 +1,20 @@
 # Iquique
 
-IQUIQUE, a city and port of Chile, capital of the province of Tarapaca,
+IQUIQUE, a city and port of [[Chile]], capital of the province of Tarapaca,
 820 m. N. of Valparaiso, in 20 deg. 12' 15" S., 70 deg. 11' 15" W. Pop.
 (1895), 33,031; (1900, est.), 42,440. The coast here runs due N. and S.
 and the city is built on a narrow level plain between the sea and
 bluffs, the latter rising steeply 2000 ft. to the level of the great
-desert plain of Tarapaca, celebrated for its rich deposits of nitrate of
-soda. Facing the city is the low barren island of Serrano, or Iquique,
-which is connected with the mainland by a stone causeway 1500 ft. long,
+[[Desert|desert]] plain of Tarapaca, celebrated for its rich deposits of nitrate of
+soda. Facing the city is the low [[Barren Island|barren island]] of Serrano, or Iquique,
+which is connected with the mainland by a stone [[Causeway|causeway]] 1500 ft. long,
 and shelters the anchorage from southerly storms. A mole extending from
 the N.E. end of the island affords some further protection. The city is
 laid out in the rectangular plan, with broad streets and large squares.
 Water is brought by pipes from Pica, 50 m. distant. Iquique is a city of
 much commercial importance and is provided with banks, substantial
 business houses, newspapers, clubs, schools, railways, tramways,
-electric lights, telephone lines, and steamship and cable communication
+electric lights, telephone lines, and steamship and [[Cable|cable]] communication
 with the outside world. It exports iodine and immense quantities of
 nitrate of soda obtained from the desert region of the province. A large
 number of vessels are engaged in the nitrate trade, and Iquique ranks as

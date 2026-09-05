@@ -1,6 +1,6 @@
 # Lichens
 
-LICHENS, in botany, compound or dual organisms each consisting of an
+LICHENS, in botany, [[Compound|compound]] or dual organisms each consisting of an
 association of a higher fungus, with a usually unicellular, sometimes
 filamentous, alga. The fungal part of the organism nearly always
 consists of a number of the _Discomycetes_ or _Pyrenomycetes_, while the
@@ -20,7 +20,7 @@ situations where neither the alga nor fungus could exist alone. The
 enclosed alga is protected by the threads (hyphae) of the fungus, and
 supplied with water and salts and, possibly, organic nitrogenous
 substances; in its turn the alga by means of its green or blue-green
-colouring matter and the sun's energy manufactures carbohydrates which
+colouring matter and the sun's energy manufactures [[Carbohydrate|carbohydrates]] which
 are used in part by the fungus. An association of two organisms to their
 mutual advantage is known as _symbiosis_, and the lichen in botanical
 language is described as a symbiotic union of an alga and a fungus. This
@@ -62,7 +62,7 @@ The view of the dual nature of lichens had hitherto been based on
 analysis; the final proof of this view was now supplied by the actual
 _synthesis_ of a lichen from fungal and algal constituents. Rees in 1871
 produced the sterile thallus of a _Collema_ from its constituents; later
-Stahl did the same for three species. Later Bonnier (1886) succeeded in
+Stahl did the same for three species. Later [[Bonnier]] (1886) succeeded in
 producing fertile thalli by sowing lichen spores and the appropriate
 algae upon sterile glass plates or portions of bark, and growing them in
 sterilized air (fig. 1). Möller also in 1887 succeeded in growing small
@@ -90,7 +90,7 @@ into one another, and the distinction is not of classificatory value.
   From Strasburger's _Lehrbuch der Botanik_, by permission of Gustav
   Fischer.
 
-  FIG. 1.--_Xanthoria parietina._ By the fusion of the hyphae in the
+  FIG. 1.--_Xanthoria parietina._ By the [[Fusion|fusion]] of the hyphae in the
   middle of the mycelium a pseudo-parenchymatous cortical layer has
   begun to form.
 
@@ -123,7 +123,7 @@ into one another, and the distinction is not of classificatory value.
   very variable. In the dry and more typical state it is most frequently
   white or whitish, and almost as often greyish or greyish glaucous.
   Less commonly it is of different shades of brown, red, yellow and
-  black. In the moist state of the thallus these colours are much less
+  black. In the moist state of the thallus these [[Colours|colours]] are much less
   apparent, as the textures then become more or less translucent, and
   the thallus usually prevents the greenish colour of the gonidia (e.g.
   _Parmelia Borreri_, _Peltidea aphthosa_, _Umbilicaria pustulata_ and
@@ -326,7 +326,7 @@ germination, with the appropriate algal component.
   also there is considerable evidence for their original sexual nature,
   though they appear in that group to be functionless in all cases. The
   observations of Möller, &c., on the germination cannot be assumed to
-  negative the sexual hypothesis for the sexual cells of _Ulothrix_ and
+  negative the sexual [[Hypothesis|hypothesis]] for the sexual cells of _Ulothrix_ and
   _Ectocarpus_, for example are able to develop with or without fusion.
   The most satisfactory view in the present state of our knowledge seems
   to be that the spermatia are male cells which, while retaining their
@@ -374,7 +374,7 @@ constant in form and since the gonidia take no part in the formation of
 this organ or that of the apothecium it has the general structure
 characteristic of that division of fungi. The apothecia, though of the
 normal fungal type and usually disk-shaped, are somewhat more variable,
-and since the variations are of value in classification some more
+and since the variations are of value in [[Classification|classification]] some more
 details may be added.
 
 [Illustration: After Schwendener, from De Bary's _Vergleichende
@@ -624,7 +624,7 @@ before bearing apothecia. This slowness of growth is associated with
 great length of life and it is probable that individuals found growing
 on hard mountain rocks or on the trunks of aged trees are many hundreds
 of years old. It is possible that specimens of such long-lived species
-as _Lecidea geographica_ actually outrival in longevity the oldest
+as _Lecidea geographica_ actually outrival in [[Longevity|longevity]] the oldest
 trees.
 
 
@@ -653,7 +653,7 @@ They also differ very markedly from free living fungi in their chemical
 reactions.
 
 
-_Chemistry of Lichens._
+_[[Chemistry]] of Lichens._
 
   The chemistry of lichens is very complex, not yet fully investigated
   and can only be very briefly dealt with here. The wall of the hyphae
@@ -691,7 +691,7 @@ _Chemistry of Lichens._
   are included in the specific diagnoses. The substances used as tests
   in these reactions are caustic potash and calcium hypochlorite; the
   former being the substance dissolved in an equal weight of water and
-  the latter a saturated extract of bleaching powder in water. These
+  the latter a saturated extract of [[Bleaching|bleaching]] powder in water. These
   substances are represented by lichenologists by the signs K and CaCl
   respectively, and the presence or absence of the colour reactions are
   represented thus, K+, CaCl+, or K-, CaCl-. If the cortical layer
@@ -745,7 +745,7 @@ _Platysma juniperinum_, _Parmelia caperata_ and _P. conspersa_, _Physcia
 flavicans_, _Ph. parietina_ and _Ph. lychnea_, though like the preceding
 they do not form articles of commerce, being merely used locally by the
 natives of the regions in which they occur most plentifully. In addition
-to these, many exotic lichens, belonging especially to _Parmelia_ and
+to these, many [[Exotic|exotic]] lichens, belonging especially to _Parmelia_ and
 _Sticta_ (e.g. _Parmelia tinctorum_, _Sticta argyracea_), are rich in
 colouring matter, and, if obtained in sufficient quantity, would yield a
 dye in every way equal to archil. These pigments primarily depend upon
@@ -753,7 +753,7 @@ special acids contained in the thalli of lichens, and their presence may
 readily be detected by means of the reagents already noticed. In the
 process of manufacture, however, they undergo various changes, of which
 the chemistry is still but little understood. At one time also some
-species were used in the arts for supplying a gum as a substitute for
+species were used in the arts for supplying a [[Gum|gum]] as a substitute for
 gum-arabic. These were chiefly _Ramalina fraxinea_, _Evernia prunastri_
 and _Parmelia physodes_, all of which contain a considerable proportion
 of gummy matter (of a much inferior quality, however, to gum-arabic),
@@ -770,7 +770,7 @@ respect has long since been abandoned.
 many species for supplying food for man and beast. This results from
 their containing starchy substances, and in some cases a small quantity
 of saccharine matter of the nature of mannite. One of the most useful
-nutritious species is _Cetraria islandica_, "Iceland moss," which, after
+nutritious species is _Cetraria islandica_, "[[Iceland]] moss," which, after
 being deprived of its bitterness by boiling in water, is reduced to a
 powder and made into cakes, or is boiled and eaten with milk by the poor
 Icelander, whose sole food it often constitutes. Similarly _Cladonia
@@ -779,7 +779,7 @@ frequently eaten by man in times of scarcity, after being powdered and
 mixed with flour. Their chief importance, however, is that in Lapland
 and other northern countries they supply the winter food of the reindeer
 and other animals, who scrape away the snow and eagerly feed upon them.
-Another nutritious lichen is the "Tripe de Roche" of the arctic regions,
+Another nutritious lichen is the "Tripe de Roche" of the [[Arctic|arctic]] regions,
 consisting of several species of the _Gyrophorei_, which when boiled is
 often eaten by the Canadian hunters and Red Indians when pressed by
 hunger. But the most singular esculent lichen of all is the "manna
@@ -957,7 +957,7 @@ however, as is known, they are very limited in number (e.g. _Lecidea_,
 _Bouteillei_, _Strigula_).
 
 Sometimes various lichens occur abnormally in such unexpected habitats
-as dried dung of sheep, bleached bones of reindeer and whales, old
+as dried dung of sheep, bleached [[Bone|bones]] of reindeer and whales, old
 leather, iron and glass, in districts where the species are abundant. It
 is apparent that in many cases lichens are quite indifferent to the
 substrata on which they occur, whence we infer that the preference of

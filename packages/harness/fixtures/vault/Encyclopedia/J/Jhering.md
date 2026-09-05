@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Jhering"
 # Jhering
 
 JHERING, RUDOLF VON (1818-1892), German jurist, was born on the 22nd of
-August 1818 at Aurich in East Friesland, where his father practised as a
+August 1818 at Aurich in East [[Friesland]], where his father practised as a
 lawyer. Young Jhering entered the university of Heidelberg in 1836 and,
 after the fashion of German students, visited successively Göttingen and
 Berlin. G. F. Puchta, the author of _Geschichte des Rechts bei dem
@@ -17,14 +17,14 @@ admiration and influenced the bent of his mind. After graduating _doctor
 juris_, Jhering established himself in 1844 at Berlin as _privatdocent_
 for Roman law, and delivered public lectures on the _Geist des römischen
 Rechts_, the theme which may be said to have constituted his life's
-work. In 1845 he became an ordinary professor at Basel, in 1846 at
+work. In 1845 he became an ordinary professor at [[Basel]], in 1846 at
 Rostock, in 1849 at Kiel, and in 1851 at Giessen. Upon all these seats
 of learning he left his mark; beyond any other of his contemporaries he
-animated the dry bones of Roman law. The German juristic world was still
+animated the dry [[Bone|bones]] of Roman law. The German juristic world was still
 under the dominating influence of the Savigny cult, and the older school
 looked askance at the daring of the young professor, who essayed to
 adapt the old to new exigencies and to build up a system of natural
-jurisprudence. This is the keynote of his famous work, _Geist des
+[[Jurisprudence|jurisprudence]]. This is the keynote of his famous work, _Geist des
 römischen Rechts auf den verschiedenen Stufen seiner Entwickelung_
 (1852-1865), which for originality of conception and lucidity of
 scientific reasoning placed its author in the forefront of modern Roman
@@ -52,18 +52,18 @@ Jhering's individuality. The _Kampf um's Recht_ shows the firmness of
 his character, the strength of his sense of justice, and his juristic
 method and logic: "to assert his rights is the duty that every
 responsible person owes to himself." In the _Zweck im Recht_ is
-perceived the bent of the author's intellect. But perhaps the happiest
+perceived the bent of the author's [[Intellect|intellect]]. But perhaps the happiest
 combination of all his distinctive characteristics is to be found in his
 _Jurisprudenz des täglichen Lebens_ (1870; Eng. trans., 1904). A great
 feature of his lectures was his so-called _Praktika_, problems in Roman
 law, and a collection of these with hints for solution was published as
 early as 1847 under the title _Civilrechtsfälle ohne Entscheidungen_. In
 Göttingen he continued to work until his death on the 17th of September
-1892. A short time previously he had been the centre of a devoted crowd
-of friends and former pupils, assembled at Wilhelmshöhe near Cassel to
+1892. A short time previously he had been the centre of a devoted [[Crowd|crowd]]
+of friends and former pupils, assembled at Wilhelmshöhe near [[Cassel]] to
 celebrate the jubilee of his doctorate. Almost all countries were
 worthily represented, and this pilgrimage affords an excellent
-illustration of the extraordinary fascination and enduring influence
+illustration of the extraordinary [[Fascination|fascination]] and enduring influence
 that Jhering commanded. In appearance he was of middle stature, his face
 clean-shaven and of classical mould, lit up with vivacity and beaming
 with good nature. He was perhaps seen at his best when dispensing
@@ -91,7 +91,7 @@ of Roman law.
   und Ernst in der Jurisprudenz_ (1885); _Das Schuldmoment im römischen
   Privat-recht_ (1867); _Das Trinkgeld_ (1882); and among the papers he
   left behind him his _Vorgeschichte der Indoeuropäer_, a fragment, has
-  been published by v. Ehrenberg (1894). See for an account of his life
+  been published by v. [[Ehrenberg]] (1894). See for an account of his life
   also M. de Jonge, _Rudolf v. Jhering_ (1888); and A. Merkel, _Rudolf
   von Jhering_ (1893).     (P. A. A.)
 

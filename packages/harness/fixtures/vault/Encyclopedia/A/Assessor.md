@@ -2,7 +2,7 @@
 
 ASSESSOR (Lat. _assessare_, _assidere_, to sit by), a Roman term
 originally applied to a trained lawyer who sat beside a governor of a
-province or other magistrate, to instruct him in the administration of
+province or other [[Magistrate|magistrate]], to instruct him in the administration of
 the laws (see Roll, _De assessoribus magistratuum Romanorum_, Leipzig,
 1872). The system is still exemplified in Scotland, where it is usual in
 the larger towns for municipal magistrates, in the administration of
@@ -28,7 +28,7 @@ The term "assessor" is also very generally applied to persons appointed
 to ascertain and fix the value of rates, taxes, &c., and in this sense
 the word is used in the United States.
 
-In France and in all European countries where the civil law system
+In France and in all [[European Countries|European countries]] where the [[Civil Law|civil law]] system
 prevails, the term _assesseur_ is applied to those assistant judges who,
 with a president, compose a judicial court.
 

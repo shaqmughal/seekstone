@@ -11,7 +11,7 @@ tags: [horticulture, botany]
 HORIZON (Gr. [Greek: horizon], dividing), the apparent circle around
 which the sky and earth seem to meet. At sea this circle is well
 defined, the line being called the sea horizon, which divides the
-visible surface of the ocean from the sky. In astronomy the horizon is
+visible surface of the ocean from the sky. In [[Astronomy|astronomy]] the horizon is
 that great circle of the sphere the plane of which is at right angles to
 the direction of the plumb line. Sometimes a distinction is made between
 the rational and the apparent horizon, the former being the horizon as

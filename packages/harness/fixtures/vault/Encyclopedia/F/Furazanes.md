@@ -19,11 +19,11 @@ deg. C. oxyfurazanecarboxylic acid is obtained (A. Hantzsch and J.
 Urbahn, _Ber._, 1895, 28, p. 764). It crystallizes in prisms, which melt
 at 175 deg. C. Furazanecarboxylic acid is prepared by the action of a
 large excess of potassium permanganate on a hot solution of
-furazanepropionic acid. It melts at 107 deg. C, and dissolves in caustic
+furazanepropionic acid. It melts at 107 deg. C, and dissolves in [[Caustic|caustic]]
 soda, with a deep yellow colour and formation of nitrosocyanacetic acid
 (L. Wolff and P.F. Ganz, _Ber._, 1891, 24, p. 1167). Furoxane is an
 oxide of furazane, considered by H. Wieland to be identical with
-glyoxime peroxide; Kekules dibromnitroacetonitrile is dibromfuroxane.
+glyoxime peroxide; [[Kekule|Kekules]] dibromnitroacetonitrile is dibromfuroxane.
 
 The formulae of the compounds above mentioned are:
 

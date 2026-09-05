@@ -8,15 +8,15 @@ type: article
 # Mander
 
 MANDER, CAREL VAN (1548-1606), Dutch painter, poet and biographer, was
-born of a noble family at Meulebeke. He studied under Lucas de Heere at
-Ghent, and in 1568-1569 under Pieter Vlerick at Kortryck. The next five
+born of a noble family at Meulebeke. He studied under [[Lucas]] de Heere at
+[[Ghent]], and in 1568-1569 under Pieter Vlerick at Kortryck. The next five
 years he devoted to the writing of religious plays for which he also
 painted the scenery. Then followed three years in Rome (1574-1577),
-where he is said to have been the first to discover the catacombs. On
+where he is said to have been the first to discover the [[Catacomb|catacombs]]. On
 his return journey he passed through Vienna, where, together with the
-sculptor Hans Mont, he made the triumphal arch for the entry of the
+sculptor Hans Mont, he made the triumphal [[Arch|arch]] for the entry of the
 emperor Rudolph. After many vicissitudes caused by war, loss of fortune
-and plague, he settled at Haarlem where, in conjunction with Goltzius
+and plague, he settled at Haarlem where, in conjunction with [[Goltzius]]
 and Cornelisz, he founded a successful academy of painting. His fame is,
 however, principally based upon a voluminous biographical work on the
 paintings of various epochs--a book that has become for the northern

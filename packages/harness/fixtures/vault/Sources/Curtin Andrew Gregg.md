@@ -10,22 +10,22 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Curtin_And
 CURTIN ANDREW GREGG (1817-1894), American political leader, was born at
 Bellefonte, Centre county, Pennsylvania, on the 22nd of April 1817, the
 son of a native of Ireland who was a pioneer iron manufacturer in
-Pennsylvania. He graduated from the law department of Dickinson College
+Pennsylvania. He graduated from the law department of [[Dickinson]] College
 in 1837, was admitted to the bar in 1839, and successfully practised his
 profession. Entering politics as a Whig, he was chairman of the Whig
 state central committee in 1854, and from 1855 to 1858 was secretary of
-the commonwealth. In this capacity he was also _ex officio_ the
+the [[Commonwealth|commonwealth]]. In this capacity he was also _ex officio_ the
 superintendent of common schools, and rendered valuable services to his
 state in perfecting and expanding the free public school system, and in
 establishing state normal schools. Upon the organization of the
 Republican party he became one of its leaders in Pennsylvania, and in
 October 1860 was chosen governor of the state on its ticket, defeating
-Henry D. Foster, the candidate upon whom the Douglas and Breckinridge
+Henry D. Foster, the candidate upon whom the Douglas and [[Breckinridge]]
 Democrats and the Constitutional Unionists had united, by 32,000 votes,
 after a spirited campaign which was watched with intense interest by the
-entire country as an index of the result of the ensuing presidential
+entire country as an [[Index|index]] of the result of the ensuing presidential
 election. During the Civil War he was one of the closest and most
-constant advisers of President Lincoln, and one of the most efficient,
+constant advisers of President [[Lincoln]], and one of the most efficient,
 most energetic and most patriotic of the "war governors" of the North.
 Pennsylvania troops were the first to reach Washington after the
 president's call, and from first to last the state, under Governor

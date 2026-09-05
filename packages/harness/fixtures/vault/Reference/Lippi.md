@@ -10,21 +10,21 @@ LIPPI, the name of three celebrated Italian painters.
 
 I. FRA FILIPPO LIPPI (1406-1469), commonly called Lippo Lippi, one of
 the most renowned painters of the Italian quattrocento, was born in
-Florence--his father, Tommaso, being a butcher. His mother died in his
+Florence--his father, Tommaso, being a [[Butcher|butcher]]. His mother died in his
 childhood, and his father survived his wife only two years. His aunt, a
 poor woman named Monna Lapaccia, then took charge of the boy; and in
 1420, when fourteen years of age, he was registered in the community of
-the Carmelite friars of the Carmine in Florence. Here he remained till
-1432, and his early faculty for fine arts was probably developed by
-studying the works of Masaccio in the neighbouring chapel of the
+the Carmelite [[Friar|friars]] of the Carmine in Florence. Here he remained till
+1432, and his early faculty for [[Fine Arts|fine arts]] was probably developed by
+studying the works of [[Masaccio]] in the neighbouring chapel of the
 Brancacci. Between 1430 and 1432 he executed some works in the
 monastery, which were destroyed by a fire in 1771; they are specified by
 Vasari, and one of them was particularly marked by its resemblance to
 Masaccio's style. Eventually Fra Filippo quitted his convent, but it
 appears that he was not relieved from some sort of religious vow; in a
 letter dated in 1439 he speaks of himself as the poorest friar of
-Florence, and says he is charged with the maintenance of six
-marriageable nieces. In 1452 he was appointed chaplain to the convent of
+Florence, and says he is charged with the [[Maintenance|maintenance]] of six
+marriageable nieces. In 1452 he was appointed [[Chaplain|chaplain]] to the convent of
 S. Giovannino in Florence, and in 1457 rector (_Rettore Commendatario_)
 of S. Quirico at Legania, and his gains were considerable and uncommonly
 large from time to time; but his poverty seems to have been chronic, the
@@ -34,14 +34,14 @@ amours.
 Vasari relates some curious and romantic adventures of Fra Filippo,
 which modern biographers are not inclined to believe. Except through
 Vasari, nothing is known of his visits to Ancona and Naples, and his
-intermediate capture by Barbary pirates and enslavement in Barbary,
+intermediate capture by [[Barbary]] pirates and enslavement in Barbary,
 whence his skill in portrait-sketching availed to release him. This
 relates to a period, 1431-1437, when his career is not otherwise clearly
 accounted for. The doubts thrown upon his semi-marital relations with a
 Florentine lady appear, however, to be somewhat arbitrary; Vasari's
 account is circumstantial, and in itself not greatly improbable. Towards
 June 1456 Fra Filippo was settled in Prato (near Florence) for the
-purpose of fulfilling a commission to paint frescoes in the choir of the
+purpose of fulfilling a commission to paint frescoes in the [[Choir|choir]] of the
 cathedral. Before actually undertaking this work he set about painting,
 in 1458, a picture for the convent chapel of S. Margherita of Prato, and
 there saw Lucrezia Buti, the beautiful daughter of a Florentine,
@@ -62,7 +62,7 @@ very fine picture in the Pitti gallery, and the other in the same
 character in a Nativity in the Louvre, comes to very little; and it is
 reduced to nothing when the disputant adds that the Louvre painting is
 probably not done by Lippi at all. Besides, it appears more likely that
-not the Madonna in the Louvre but a S. Margaret in a picture now in the
+not the Madonna in the Louvre but a S. [[Margaret]] in a picture now in the
 Gallery of Prato is the original portrait (according to the tradition)
 of Lucrezia Buti.
 
@@ -70,21 +70,21 @@ The frescoes in the choir of Prato cathedral, being the stories of the
 Baptist and of St Stephen, represented on the two opposite wall spaces,
 are the most important and monumental works which Fra Filippo has left,
 more especially the figure of Salome dancing, and the last of the
-series, showing the ceremonial mourning over Stephen's corpse. This
+series, showing the ceremonial mourning over Stephen's [[Corpse|corpse]]. This
 contains a portrait of the painter, but which is the proper figure is a
 question that has raised some diversity of opinion. At the end wall of
-the choir are S. Giovanni Gualberto and S. Alberto, and on the ceiling
+the choir are S. Giovanni Gualberto and S. Alberto, and on the [[Ceiling|ceiling]]
 the four evangelists.
 
 The close of Lippi's life was spent at Spoleto, where he had been
-commissioned to paint, for the apse of the cathedral, some scenes from
+commissioned to paint, for the [[Apse|apse]] of the cathedral, some scenes from
 the life of the Virgin. In the semidome of the apse is Christ crowning
 the Madonna, with angels, sibyls and prophets. This series, which is not
 wholly equal to the one at Prato, was completed by Fra Diamante after
 Lippi's death. That Lippi died in Spoleto, on or about the 8th of
 October 1469, is an undoubted fact; the mode of his death is again a
 matter of dispute. It has been said that the pope granted Lippi a
-dispensation for marrying Lucrezia, but that, before the permission
+[[Dispensation|dispensation]] for marrying Lucrezia, but that, before the permission
 arrived, he had been poisoned by the indignant relatives either of
 Lucrezia herself, or of some lady who had replaced her in the inconstant
 painter's affections. This is now generally regarded as a fable; and
@@ -93,21 +93,21 @@ at the already mature age of fifty-two seems hardly plausible. Fra
 Filippo lies buried in Spoleto, with a monument erected to him by
 Lorenzo the Magnificent; he had always been zealously patronized by the
 Medici family, beginning with Cosimo, Pater Patriae. Francesco di
-Pesello (called Pesellino) and Sandro Botticelli were among his most
+Pesello (called Pesellino) and Sandro [[Botticelli]] were among his most
 distinguished pupils.
 
   In 1441 Lippi painted an altarpiece for the nuns of S. Ambrogio which
   is now a prominent attraction in the Academy of Florence, and has been
-  celebrated in Browning's well-known poem. It represents the coronation
+  celebrated in Browning's well-known poem. It represents the [[Coronation|coronation]]
   of the Virgin among angels and saints, of whom many are Bernardine
   monks. One of these, placed to the right, is a half-length portrait of
   Lippo, pointed out by an inscription upon an angel's scroll "Is
   perfecit opus." The price paid for this work in 1447 was 1200
   Florentine lire, which seems surprisingly large. For Germiniano
-  Inghirami of Prato he painted the "Death of St Bernard," a fine
+  Inghirami of Prato he painted the "Death of St [[Bernard]]," a fine
   specimen still extant. His principal altarpiece in this city is a
-  Nativity in the refectory of S. Domenico--the Infant on the ground
-  adored by the Virgin and Joseph, between Sts George and Dominic, in a
+  Nativity in the refectory of S. Domenico--the [[Infant]] on the ground
+  adored by the Virgin and Joseph, between Sts George and [[Dominic]], in a
   rocky landscape, with the shepherds playing and six angels in the sky.
   In the Uffizi is a fine Virgin adoring the infant Christ, who is held
   by two angels; in the National Gallery, London, a "Vision of St
@@ -161,7 +161,7 @@ are sufficient to prove that Lippino stood in the front rank of the
 artists of his time. The dignified and expressive figure of St Paul in
 the second-named subject has always been particularly admired, and
 appears to have furnished a suggestion to Raphael for his "Paul at
-Athens." Portraits of Luigi Pulci, Antonio Pollajuolo, Lippino himself
+Athens." Portraits of Luigi Pulci, [[Antonio]] Pollajuolo, Lippino himself
 and various others are in this series. In 1485 he executed the great
 altarpiece of the "Virgin and Saints," with several other figures, now
 in the Uffizi Gallery. Another of his leading works is the altarpiece
@@ -179,7 +179,7 @@ undertaking, the frescoes in the Strozzi chapel, in the church of S.
 Maria Novella in Florence--"Drusiana Restored to Life by St John, the
 Evangelist," "St John in the Cauldron of Boiling Oil" and two subjects
 from the legend of St Philip. These are conspicuous and attractive
-works, yet somewhat grotesque and exaggerated--full of ornate
+works, yet somewhat [[Grotesque|grotesque]] and exaggerated--full of ornate
 architecture, showy colour and the distinctive peculiarities of the
 master. Filippino, who had married in 1497, died in 1505. The best
 reputed of his scholars was Raffaellino del Garbo.
@@ -187,14 +187,14 @@ reputed of his scholars was Raffaellino del Garbo.
   Like his father, Filippino had a most marked original genius for
   painting, and he was hardly less a chief among the artists of his time
   than Fra Filippo had been in his; it may be said that in all the
-  annals of the art a rival instance is not to be found of a father and
+  [[Annals|annals]] of the art a rival instance is not to be found of a father and
   son each of whom had such pre-eminent natural gifts and leadership.
   The father displayed more of sentiment and candid sweetness of motive;
   the son more of richness, variety and lively pictorial combination. He
   was admirable in all matters of decorative adjunct and presentment,
   such as draperies, landscape backgrounds and accessories; and he was
   the first Florentine to introduce a taste for antique details of
-  costume, &c. He formed a large collection of objects of this kind, and
+  [[Costume|costume]], &c. He formed a large collection of objects of this kind, and
   left his designs of them to his son. In his later works there is a
   tendency to a mannered development of the extremities, and generally
   to facile overdoing. The National Gallery, London, possesses a good
@@ -212,11 +212,11 @@ works, which are marked by taste, delicacy and a strong turn for
 portrait-like naturalism. His maxim was "to poetize as he spoke, and to
 paint as he saw." After exercising his art for some time in Florence,
 and having married at the age of forty the daughter of a rich sculptor
-named Susini, Lippi went as court painter to Innsbruck, where he has
+named Susini, Lippi went as court painter to [[Innsbruck]], where he has
 left many excellent portraits. There he wrote his humorous poem named
 _Malmantile Racquistato_, which was published under the anagrammatic
 pseudonym of "Perlone Zipoli." Lippi was somewhat self-sufficient, and,
-when visiting Parma, would not look at the famous Correggios there,
+when visiting Parma, would not look at the famous [[Correggio|Correggios]] there,
 saying that they could teach him nothing. He died of pleurisy in 1664,
 in Florence.
 
@@ -228,10 +228,10 @@ in Florence.
   variety of popular tales; its principal subject-matter is an
   expedition for the recovery of a fortress and territory whose queen
   had been expelled by a female usurper. It is full of graceful or racy
-  Florentine idioms, and is counted by Italians as a "testo di lingua."
+  Florentine [[Idiom|idioms]], and is counted by Italians as a "testo di lingua."
   Lippi is more generally or more advantageously remembered by this poem
   than by anything which he has left in the art of painting. It was not
-  published until 1688, several years after his death. Lanzi as to
+  published until 1688, several years after his death. [[Lanzi]] as to
   Lorenzo Lippi's pictorial work, and Tiraboschi and other literary
   historians as to his writings, are among the best authorities.
        (W. M. R.)

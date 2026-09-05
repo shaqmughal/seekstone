@@ -8,11 +8,11 @@ topic: mechanics
 
 DOGS, ISLE OF, a district of London, England, on the north bank of the
 Thames, which surrounds it on three sides. It falls within the
-metropolitan borough of Poplar. It is occupied by docks, riverside works
+metropolitan borough of Poplar. It is occupied by [[Dock|docks]], riverside works
 and poor houses. The origin of the name is not known. The suggestion
 that it is corrupted from the Isle of Docks falls to the ground on the
-question of chronology; another, that there were royal kennels here, is
-improbable, though they were situated at Deptford in the 17th century.
+question of [[Chronology|chronology]]; another, that there were royal [[Kennel|kennels]] here, is
+improbable, though they were situated at [[Deptford]] in the 17th century.
 (See POPLAR.)
 
 ## See also

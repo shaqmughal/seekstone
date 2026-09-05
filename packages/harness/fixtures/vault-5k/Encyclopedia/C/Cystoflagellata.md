@@ -14,7 +14,7 @@ posterior to Haeckel's. _Noctiluca_ has thus the form of an apple with a
 long stalk. _Leptodiscus_ (R. Hertwig) has the form of a medusa without
 a proboscis--it is menisciform with the thin contractile margin produced
 inwards like a velum on the concave side, while the mouth is on the
-convex surface and the single flagellum springs from a blind tube on the
+[[Convex|convex]] surface and the single flagellum springs from a blind tube on the
 same surface. _Craspedotella_ (C. A. Kofoid), the third genus, is still
 more medusiform, with a broad velum, and the mouth in a convex central
 protrusion of the roof of the bell; and a thick flagellum springs from a
@@ -71,7 +71,7 @@ state it divides by fission down the oral groove; as a preliminary the
 external differentiations disappear, and the nucleus divides by modified
 mitosis; then the external organs are regenerated. Under circumstances
 not well made out, conjugation between two adults takes place by their
-fusion commencing at the oral region; flagella and pharynx disappear and
+[[Fusion|fusion]] commencing at the oral region; flagella and pharynx disappear and
 the nuclei fuse, while the cytoplasts condense into a sphere. The
 nucleus undergoes broad division, the young nuclei pass to the surface,
 which becomes imperfectly divided by grooves into as many rounded
@@ -88,8 +88,8 @@ has not yet been observed.
   _Jenaische Zeitschrift_, xi., 1877; C. Ischikawa, _Journal of the
   College of Science_ (Tokyo, 1894), xii., 1899; F. Doflein,
   "Conjugation of Noctiluca," _Zoologische Jahrbucher, Anatomie_, xiv.,
-  1900; C. A. Kofoid, "Craspedotella," in _Bull. Mus. Comp. Zool.
-  Harvard_, xlvi., 1905; O. Butschli, "Mastigophora," in _Protozoa_
+  1900; C. A. Kofoid, "Craspedotella," in _[[Bull]]. Mus. Comp. Zool.
+  Harvard_, xlvi., 1905; O. Butschli, "[[Mastigophora]]," in _Protozoa_
   (_Braun's Thierreich_, vol. i., _Protozoa_) (1883-1887).     (M. Ha.)
 
 ## See also

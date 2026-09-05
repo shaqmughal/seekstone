@@ -15,7 +15,7 @@ usage grants by charter have become all but obsolete, though in England
 this form is still used in the incorporation by the crown of such
 societies as the British Academy.
 
-The grant of the Great Charter by King John in 1215 (see MAGNA CARTA),
+The grant of the Great Charter by King John in 1215 (see [[Magna Carta|MAGNA CARTA]]),
 which guaranteed the preservation of English liberties, led to a special
 association of the word with constitutional privileges, and so in modern
 times it has been applied to constitutions granted by sovereigns to
@@ -60,11 +60,11 @@ English chartered companies, the "Merchant Adventurers" conducted its
 operations the most widely. Itself a development of very early trading
 gilds, at the height of its prosperity it employed as many as 50,000
 persons in the Netherlands, and the enormous influence it was able to
-exercise undoubtedly saved Antwerp from the institution of the
+exercise undoubtedly saved [[Antwerp]] from the institution of the
 Inquisition within its walls in the time of Charles V. In the reign of
 Elizabeth British trade with the Netherlands reached in one year
-12,000,000 ducats, and in that of James I. the company's yearly commerce
-with Germany and the Netherlands was as much as L1,000,000. Hamburg
+12,000,000 [[Ducat|ducats]], and in that of James I. the company's yearly commerce
+with Germany and the Netherlands was as much as L1,000,000. [[Hamburg]]
 afterwards was its principal depot, and it became known as the "Hamburg
 Company." In the "Merchant Adventurers'" enterprises is to be seen the
 germ of the trading companies which had so remarkable a development in
@@ -87,7 +87,7 @@ purely chartered company annexing territory is to be found in the action
 of this company in setting up a cross at Spitzbergen in 1613 with King
 James's arms upon it. Among other associations trading to the continent
 of Europe, receiving charters at this time, were the Turkey Company
-(Levant Co.) and the Eastland Company. Both the Russia and Turkey
+([[Levant]] Co.) and the Eastland Company. Both the Russia and Turkey
 Companies had an important effect upon British relations with those
 empires. They maintained British influence in those countries, and even
 paid the expenses of the embassies which were sent out by the English
@@ -98,10 +98,10 @@ until 1825.
 
 The chartered companies which were formed during this period for trade
 with the Indies and the New World have had a more wide-reaching
-influence in history. The extraordinary career of the East India Company
+influence in history. The extraordinary career of the [[East India Company]]
 (q.v.) is dealt with elsewhere.
 
-Charters were given to companies trading to Guinea, Morocco, Guiana and
+Charters were given to companies trading to Guinea, Morocco, [[Guiana]] and
 the Canaries, but none of these enjoyed a very long or prosperous
 existence, principally owing to the difficulties caused by foreign
 competition. It is when we turn to North America that the importance of
@@ -143,7 +143,7 @@ the old companies corresponded, the sovereign rights accorded to them
 being also quite in accordance with the views of the time. It would have
 been thought impossible then that private individuals could have found
 the funds or maintained the magnitude of such enterprises. It was only
-this necessity which induced statesmen like Colbert to countenance them,
+this necessity which induced statesmen like [[Colbert]] to countenance them,
 and Montesquieu took the same view (_Esprit des lois_, t. xx. c. 10).
 John de Witt's view was that such companies were not useful for
 colonization properly so called, because they want quick returns to pay
@@ -170,7 +170,7 @@ chance of participating in them.
 
 To sum up the causes of failure of the old chartered companies, they are
 to be attributed to (1) bad administration; (2) want of capital and
-credit; (3) bad economic organization; (4) distribution of dividends
+[[Credit|credit]]; (3) bad economic organization; (4) distribution of dividends
 made prematurely or fictitiously. But those survived the longest which
 extended the most widely their privileges to outsiders. According to
 contemporary protests, they had a most injurious effect on the commerce
@@ -210,7 +210,7 @@ It is true that they have certain advantages given them, for without
 these advantages no capital would risk itself in the lands where they
 carry on their operations. They often have very heavy corresponding
 obligations, as will be seen in the case of one (the East Africa) where
-the obligations were too onerous for the company to discharge, though
+the obligations were too onerous for the company to [[Discharge|discharge]], though
 they were inseparable from its position. The charters of modern
 companies differ in two points strongly from those of the old: they
 contain clauses prohibiting any monopoly of trade, and they generally
@@ -220,7 +220,7 @@ greater. In these charters state control has been made a distinguishing
 feature. It is to be exercised in almost all directions in which the
 companies may come into contact with matters political. Of course, it is
 inevitable in all disputes of the companies with foreign powers, and is
-extended over all decrees of the company regarding the administration of
+extended over all [[Decree|decrees]] of the company regarding the administration of
 its territories, the taxation of natives, and mining regulations. In all
 cases of dispute between the companies and the natives the secretary of
 state is _ex officio_ the judge, and to the secretary of state (in the
@@ -269,7 +269,7 @@ dividends in philanthropy."
 The existence of such companies to-day is justified in certain political
 and economic conditions only. It may be highly desirable for the
 government to occupy certain territories, but political exigencies at
-home will not permit it to incur the expenditure, or international
+home will not permit it to incur the expenditure, or [[International|international]]
 relations may make such an undertaking inexpedient at the time. In such
 a case the formation of a chartered company may be the best way out of
 the difficulty. But it has been demonstrated again and again that,
@@ -325,13 +325,13 @@ able, like the British, to develop along their own lines.
   following works deal with the subject of chartered companies
   generally: Bonnassieux, _Les Grandes Compagnies de commerce_ (Paris,
   1892); Chailly-Bert, _Les Compagnies de colonisation sous l'ancien
-  regime_ (Paris, 1898); Cawston and Keane, _The Early Chartered
-  Companies_ (London, 1896); W. Cunningham, _A History of British
-  Industry and Commerce_ (Cambridge, 1890, 1892); Egerton, _A Short
+  regime_ (Paris, 1898); Cawston and [[Keane]], _The Early Chartered
+  Companies_ (London, 1896); W. [[Cunningham]], _A History of British
+  Industry and Commerce_ (Cambridge, 1890, 1892); [[Egerton]], _A Short
   History of British Colonial Policy_ (London, 1897); J. Scott Keltie,
-  _The Partition of Africa_ (London, 1895); Leroy-Beaulieu, _De la
+  _The Partition of Africa_ (London, 1895); [[Leroy-Beaulieu]], _De la
   colonisation chez les peuples modernes_ (Paris, 1898); _Les Nouvelles
-  Societes anglo-saxonnes_ (Paris, 1897); MacDonald, _Select Charters
+  Societes anglo-saxonnes_ (Paris, 1897); [[Macdonald|MacDonald]], _Select Charters
   illustrative of American History, 1606-1775_ (New York, 1899); B.P.
   Poore, _Federal and State Constitutions_, &c (Washington, 1877; a more
   complete collection of American colonial charters); H.L. Osgood,
@@ -348,17 +348,17 @@ able, like the British, to develop along their own lines.
 CHARTERHOUSE. This name is an English corruption of the French _maison
 chartreuse_, a religious house of the Carthusian order. As such it
 occurs not uncommonly in England, in various places (e.g.
-Charterhouse-on-Mendip, Charterhouse Hinton) where the Carthusians were
+Charterhouse-on-Mendip, Charterhouse Hinton) where the [[Carthusians]] were
 established. It is most familiar, however, in its application to the
 Charterhouse, London. On a site near the old city wall, west of the
 modern thoroughfare of Aldersgate, a Carthusian monastery was founded in
-1371 by Sir Walter de Manny, a knight of French birth. After its
+1371 by Sir Walter de Manny, a [[Knight|knight]] of French birth. After its
 dissolution in 1535 the property passed through various hands. In 1558,
 while in the possession of Lord North, it was occupied by Queen
-Elizabeth during the preparations for her coronation, and James I. held
+Elizabeth during the preparations for her [[Coronation|coronation]], and James I. held
 court here on his first entrance into London. The Charterhouse was then
-in the hands of Thomas Howard, earl of Suffolk, but in May 1611 it came
-into those of Thomas Sutton (1532-1611) of Snaith, Lincolnshire. He
+in the hands of Thomas [[Howard]], earl of Suffolk, but in May 1611 it came
+into those of Thomas Sutton (1532-1611) of Snaith, [[Lincolnshire]]. He
 acquired a fortune by the discovery of coal on two estates which he had
 leased near Newcastle-on-Tyne, and afterwards, removing to London, he
 carried on a commercial career. In the year of his death, which took
@@ -369,22 +369,22 @@ school. The will was hotly contested but upheld in court, and the
 foundation was finally constituted to afford a home for eighty male
 pensioners ("gentlemen by descent and in poverty, soldiers that have
 borne arms by sea or land, merchants decayed by piracy or shipwreck, or
-servants in household to the King or Queen's Majesty"), and to educate
+servants in household to the King or Queen's [[Majesty]]"), and to educate
 forty boys. The school developed beyond the original intentions of its
 founder, and now ranks among the most eminent public schools in England.
 In 1872 it was removed, during the headmastership (1863-1897) of the
 Rev. William Haig-Brown (d. 1907), to new buildings near Godalming in
 Surrey, which were opened on the 18th of June in that year. The number
 of foundation scholarships is increased to sixty. The scholars are not
-now distinguished by wearing a special dress or by forming a separate
+now distinguished by wearing a special [[Dress|dress]] or by forming a separate
 house, though one house is known as Gownboys, preserving the former
 title of the scholars. The land on which the old school buildings stood
 in London was sold for new buildings to accommodate the Merchant
 Taylors' school, but the pensioners still occupy their picturesque home,
 themselves picturesque figures in the black gowns designed for them
-under the foundation. The buildings, of mellowed red brick, include a
+under the foundation. The buildings, of mellowed red [[Brick|brick]], include a
 panelled chapel, in which is the founder's tomb, a fine dining-hall,
-governors' room with ornate ceiling and tapestried walls, the old
+governors' room with ornate [[Ceiling|ceiling]] and tapestried walls, the old
 library, and the beautiful great staircase.
 
 ## See also

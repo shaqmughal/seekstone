@@ -1,9 +1,9 @@
 # Boyne
 
-BOYNE, a river of Ireland, which, rising in the Bog of Allen, near
-Carbery in Co. Kildare, and flowing in a north-easterly direction,
+BOYNE, a river of Ireland, which, rising in the [[Bog]] of Allen, near
+Carbery in Co. [[Kildare]], and flowing in a north-easterly direction,
 passes Trim, Navan and Drogheda, and enters the Irish Sea, 4 m. below
-the town last named. It is navigable for barges to Navan, 19 m. from its
+the town last named. It is navigable for [[Barge|barges]] to Navan, 19 m. from its
 mouth. Much of the scenery on its banks is beautiful, though never
 grand. About 2 m. west of Drogheda, an obelisk, 150 ft. in height, marks
 the spot where the forces of William III. gained a celebrated victory

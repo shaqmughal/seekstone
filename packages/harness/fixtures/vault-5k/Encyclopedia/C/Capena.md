@@ -10,7 +10,7 @@ itself is hardly mentioned, but under the empire a _municipium
 Capenatium foederatum_ is frequently mentioned in inscriptions. Of these
 several were found upon the hill known as Civitucola, about 4 m.
 north-east of the post station of _ad Vicesimum_ on the ancient Via
-Flaminia, a site which is well adapted for an ancient city. It lies on
+[[Flaminia]], a site which is well adapted for an ancient city. It lies on
 the north side of a dried-up lake, once no doubt a volcanic crater.
 Remains of buildings of the Roman period also exist there, while, in the
 sides of the hill of S. Martino which lies on the north-east,[1]
@@ -20,7 +20,7 @@ Roman times for fresh burials, were excavated in 1859-1864, and again in
 (W. Henzen, _Bullettino dell' Istituto_, 1864, 143; R. Paribeni,
 _Notizie degli Scavi_, 1905, 301). Similar tombs have also been found on
 the hills south of Civitucola. G.B. de Rossi, however, supposed that the
-games of which records (fragments of the _fasti ludorum_) were also
+[[Games|games]] of which records (fragments of the _fasti ludorum_) were also
 discovered at Civitucola, were those which were celebrated from time
 immemorial at the Lucus Feroniae, with which he therefore proposed to
 identify this site, placing Capena itself at S. Oreste, on the

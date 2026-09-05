@@ -6,10 +6,10 @@ topic: heraldry-theory
 
 # John Hervey
 
-JOHN HERVEY, 1st earl of Bristol (1665-1751), born on the 27th of August
-1665, was educated at Clare Hall, Cambridge, and became member of
-parliament for Bury St Edmunds in March 1694. In March 1703 he was created
-Baron Hervey of Ickworth, and in October 1714 was made earl of Bristol as a
+JOHN HERVEY, 1st earl of [[Bristol]] (1665-1751), born on the 27th of August
+1665, was educated at [[Clare]] Hall, Cambridge, and became member of
+parliament for [[Bury]] St Edmunds in March 1694. In March 1703 he was created
+Baron [[Hervey Of Ickworth|Hervey of Ickworth]], and in October 1714 was made earl of Bristol as a
 reward for his zeal in promoting the principles of the revolution and
 supporting the Hanoverian succession. He died on the 20th of January 1751.
 By his first wife, Isabella (d. 1693), daughter of Sir Robert Carr, Bart.,

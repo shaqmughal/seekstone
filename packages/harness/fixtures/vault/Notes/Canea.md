@@ -3,7 +3,7 @@
 CANEA, or KHANIA, the principal seaport and since 1841 the capital of
 Crete, finely situated on the northern coast of the island, about 25 m.
 from its western extremity, on the isthmus of the Akrotiri peninsula,
-which lies between the Bay of Canea and the Bay of Suda (latitude 35
+which lies between the Bay of Canea and the Bay of Suda ([[Latitude|latitude]] 35
 deg. 31' N., longitude 24 deg. 1' E.). Surrounded by a massive Venetian
 wall, it forms a closely built, irregular and overcrowded town, though
 of late years a few of its streets have been widened. The ordinary

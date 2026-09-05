@@ -12,7 +12,7 @@ id: 42-7117
 
 BRIBERY (from the O. Fr. _briberie_, begging or vagrancy, _bribe_, Mid.
 Lat. _briba_, signifying a piece of bread given to beggars; the Eng.
-"bribe" has passed through the meanings of alms, blackmail and extortion,
+"bribe" has passed through the meanings of alms, [[Blackmail|blackmail]] and extortion,
 to gifts received or given in order to influence corruptly). The public
 offence of bribery may be defined as the offering or giving of payment in
 some shape or form that it may be a motive in the performance of functions
@@ -30,13 +30,13 @@ who best deserve them, but on those who will pay most for them. Hence
 judicial corruption is an inveterate vice of imperfect civilization. There
 is, perhaps no other crime on which the force of law, if unaided by public
 opinion and morals, can have so little influence; for in other crimes, such
-as violence or fraud, there is generally some person immediately injured by
+as violence or [[Fraud|fraud]], there is generally some person immediately injured by
 the act, who can give his aid in the detection of the offender, but in the
 perpetration of the offence of bribery all the immediate parties obtain
 what they desire, and are satisfied.
 
-The purification of the bench from judicial bribery has been gradual in
-most of the European countries. In France it received an impulse in the
+The purification of the [[Bench|bench]] from judicial bribery has been [[Gradual|gradual]] in
+most of the [[European Countries|European countries]]. In France it received an impulse in the
 16th century from the high-minded chancellor, Michel de L'Hopital. In
 England judicial corruption has been a crime of remarkable rarity. Indeed,
 with the exception of a statute of 1384 (repealed by the Statute Law
@@ -45,14 +45,14 @@ bribery. The earliest recorded case was that of Sir William Thorpe, who in
 1351 was fined and removed from office for accepting bribes. Other
 celebrated cases were those of Michael de la Pole, chancellor of England,
 in 1387; Lord Chancellor Bacon in 1621; Lionel Cranfield, earl of
-Middlesex, in 1624; and Sir Thomas Parker, 1st earl of Macclesfield, in
+Middlesex, in 1624; and Sir Thomas Parker, 1st earl of [[Macclesfield]], in
 1725. In Scotland for some years after the Revolution the bench was not
 without a suspicion of interested partiality; but since the beginning of
 the 19th century, at least, there has been in all parts of the empire a
 perfect reliance on its purity. The same may be said of the higher class of
 ministerial officers. There is no doubt that in the period from the
 Revolution to the end of Queen Anne's reign, when a speaker of the House of
-Commons was expelled for bribery, and the great Marlborough could not clear
+Commons was expelled for bribery, and the great [[Marlborough]] could not clear
 his character from pecuniary dishonesty, there was much corruption in the
 highest official quarters. The level of the offence of official bribery has
 gradually descended, until it has become an extremely rare thing for the
@@ -60,7 +60,7 @@ humbler officers connected with the revenue to be charged with it. It has
 had a more lingering existence with those who, because their power is more
 of a constitutional than an official character, have been deemed less
 responsible to the public. During Walpole's administration there is no
-doubt that members of parliament were paid in cash for votes; and the
+doubt that members of parliament were paid in [[Cash|cash]] for votes; and the
 memorable saying, that every man has his price, has been preserved as a
 characteristic indication of his method of government. One of the forms in
 which administrative corruption is most difficult of eradication is the
@@ -76,7 +76,7 @@ dependence which lingered among them; and, indeed, it is often said, that
 bribery is essentially the defect of a free people, since it is the sale of
 that which is taken from others without payment.
 
-In English law bribery of a privy councillor or a juryman (see EMBRACERY)
+In [[English Law|English law]] bribery of a privy councillor or a juryman (see EMBRACERY)
 is punishable as a misdemeanour, as is the taking of a bribe by any
 judicial or ministerial officer. The buying and selling of public offices
 is also regarded at common law as a form of bribery. By the Customs
@@ -88,14 +88,14 @@ forfeit the sum of L200. Under the Inland Revenue Regulations Act 1890, the
 bribery of commissioners, collectors, officers or other persons employed in
 relation to the Inland Revenue involves a fine of L500. The Merchant
 Shipping Act 1894, ss. 112 and 398, makes provision for certain offences in
-the nature of bribery. Bribery is, by the Extradition Act 1906, [v.04
+the nature of bribery. Bribery is, by the [[Extradition]] Act 1906, [v.04
 p.0517] an extraditable offence. Administrative corruption was dealt with
 in the Public Bodies' Corrupt Practices Act 1889. The public bodies
 concerned are county councils, town or borough councils, boards,
 commissioners, select vestries and other bodies having local government,
 public health or poor law powers, and having for those purposes to
 administer rates raised under public general acts. The giving or receiving,
-promising, offering, soliciting or agreeing to receive any gift, fee, loan
+promising, offering, soliciting or agreeing to receive any gift, [[Fee|fee]], loan
 or advantage by any person as an inducement for any act or forbearance by a
 member, officer or servant of a public body in regard to the affairs of
 that body is made a misdemeanour in England and Ireland and a crime and
@@ -119,7 +119,7 @@ common law punishable by indictment or information, but numerous statutes
 have been passed dealing with it as a "corrupt practice." In this sense,
 the word is elastic in meaning and may embrace any method of corruptly
 influencing another for the purpose of securing his vote (see CORRUPT
-PRACTICES). Bribery at elections of fellows, scholars, officers and other
+PRACTICES). Bribery at elections of [[Fellows|fellows]], scholars, officers and other
 persons in colleges, cathedral and collegiate churches, hospitals and other
 societies was prohibited in 1588-1589 by statute (31 Eliz. c. 6). If a
 member receives any money, fee, reward or other profit for giving his vote
@@ -128,13 +128,13 @@ consideration he resigns to make room for a candidate, he forfeits double
 the amount of the bribe, and the candidate by or on whose behalf a bribe is
 given or promised is incapable of being elected on that occasion. The act
 is to be read at every election of fellows, &c., under a penalty of L40 in
-case of default. By the same act any person for corrupt consideration
-presenting, instituting or inducting to an ecclesiastical benefice or
+case of [[Default|default]]. By the same act any person for corrupt consideration
+presenting, instituting or inducting to an ecclesiastical [[Benefice|benefice]] or
 dignity forfeits two years' value of the benefice or dignity; the corrupt
-presentation is void, and the right to present lapses for that turn to the
+presentation is void, and the right to present [[Lapse|lapses]] for that turn to the
 crown, and the corrupt presentee is disabled from thereafter holding the
-same benefice or dignity; a corrupt institution or induction is void, and
-the patron may present. For a corrupt resignation or exchange of a benefice
+same benefice or dignity; a corrupt institution or [[Induction|induction]] is void, and
+the patron may present. For a corrupt resignation or [[Exchange|exchange]] of a benefice
 the giver and taker of a bribe forfeit each double the amount of the bribe.
 Any person corruptly procuring the ordaining of ministers or granting of
 licenses to preach forfeits L40, and the person so ordained forfeits L10

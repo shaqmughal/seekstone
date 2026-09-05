@@ -1,13 +1,13 @@
 # Diez
 
-DIEZ, FRIEDRICH CHRISTIAN (1794-1876), German philologist, was born at
+DIEZ, [[Friedrich|FRIEDRICH]] CHRISTIAN (1794-1876), German philologist, was born at
 Giessen, in Hesse-Darmstadt, on the 15th of March 1794. He was educated
 first at the gymnasium and then at the university of his native town.
 There he studied classics under Friedrich Gottlieb Welcker (1784-1868)
 who had just returned from a two years' residence in Italy to fill the
-chair of archaeology and Greek literature. It was Welcker who kindled in
+chair of [[Archaeology|archaeology]] and Greek literature. It was Welcker who kindled in
 him a love of Italian poetry, and thus gave the first bent to his
-genius. In 1813 he joined the Hesse corps as a volunteer and served in
+genius. In 1813 he joined the [[Hesse]] [[Corps|corps]] as a volunteer and served in
 the French campaign. Next year he returned to his books, and this short
 taste of military service was the only break in a long and uneventful
 life of literary labours. By his parents' desire he applied himself for
@@ -18,7 +18,7 @@ young scholar to explore the rich mine of Provençal literature which the
 French savant had opened up. This advice was eagerly followed, and
 henceforth Diez devoted himself to Romance literature. He thus became
 the founder of Romance philology. After supporting himself for some
-years by private teaching, he removed in 1822 to Bonn, where he held the
+years by private teaching, he removed in 1822 to [[Bonn]], where he held the
 position of privatdocent. In 1823 he published his first work, _An
 Introduction to Romance Poetry_; in the following year appeared _The
 Poetry of the Troubadours_, and in 1829 _The Lives and Works of the
@@ -27,10 +27,10 @@ The rest of his life was mainly occupied with the composition of the two
 great works on which his fame rests, the _Grammar of the Romance
 Languages_ (1836-1844), and the _Lexicon of the Romance
 Languages--Italian, Spanish and French_ (1853); in these two works Diez
-did for the Romance group of languages what Jacob Grimm did for the
+did for the Romance group of languages what [[Jacob]] Grimm did for the
 Teutonic family. He died at Bonn on the 29th of May 1876.
 
-  The earliest French philologists, such as Perion and Henri Estienne,
+  The earliest French philologists, such as Perion and Henri [[Estienne]],
   had sought to discover the origin of French in Greek and even in
   Hebrew. For more than a century Ménage's _Etymological Dictionary_
   held the field without a rival. Considering the time at which it was
@@ -47,16 +47,16 @@ Teutonic family. He died at Bonn on the 29th of May 1876.
   the discovered principles and rules of phonology, and not to swerve a
   foot's breadth from them unless plain, actual exceptions shall justify
   it; to follow the genius of the language, and by cross-questioning to
-  elicit its secrets; to gauge each letter and estimate the value which
+  elicit its secrets; to [[Gauge|gauge]] each letter and estimate the value which
   attaches to it in each position; and lastly to possess the true
   philosophic spirit which is prepared to welcome any new fact, though
   it may modify or upset the most cherished theory. Such is the
   historical method which Diez pursues in his grammar and dictionary. To
   collect and arrange facts is, as he tells us, the sole secret of his
   success, and he adds in other words the famous apophthegm of Newton,
-  "hypotheses non fingo." The introduction to the grammar consists of
+  "hypotheses non [[Fingo|fingo]]." The introduction to the grammar consists of
   two parts:--the first discusses the Latin, Greek and Teutonic elements
-  common to the Romance languages; the second treats of the six dialects
+  common to the Romance languages; the second treats of the six [[Dialect|dialects]]
   separately, their origin and the elements peculiar to each. The
   grammar itself is divided into four books, on phonology, on flexion,
   on the formation of words by composition and derivation, and on

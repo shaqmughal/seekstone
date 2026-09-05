@@ -6,8 +6,8 @@ domestic group. Those units which go to build up the domestic structure
 of modern society are parent, child, husband, wife, master and servant.
 The law which deals with the various relations subsisting between them
 is made up largely of the law of agency, of contract and of tort. See
-HUSBAND AND WIFE; MASTER AND SERVANT; CHILDREN, _Law relating to_;
-INFANT.
+[[Husband And Wife|HUSBAND AND WIFE]]; MASTER AND SERVANT; CHILDREN, _Law relating to_;
+[[Infant|INFANT]].
 
 ## See also
 

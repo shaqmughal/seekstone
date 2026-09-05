@@ -9,7 +9,7 @@ Francis Dana graduated at Harvard in 1762, was admitted to the bar in
 leader of the Sons of Liberty, and in 1774 was a member of the first
 provincial congress of Massachusetts. During a two years' visit to
 England he sought earnestly to gain friends to his colony's cause, but
-returned to Boston in April 1776 convinced that a friendly settlement of
+returned to [[Boston]] in April 1776 convinced that a friendly settlement of
 the dispute was impossible. He was a member of the Massachusetts
 executive council from 1776 to 1780, and a delegate to the Continental
 Congress from 1776 to 1778. As a member of the latter body he became
@@ -28,7 +28,7 @@ received by the empress Catherine. In February 1784 he was again chosen
 a delegate to Congress, and in January 1785 he became a justice of the
 Massachusetts supreme court. He was chief justice of this court from
 1791 to 1806, and presided with ability and rare distinction. He was an
-earnest advocate of the adoption of the Federal constitution, was a
+[[Earnest|earnest]] advocate of the adoption of the Federal constitution, was a
 member of the Massachusetts convention which ratified that instrument,
 and was one of the most influential advisers of the leaders of the
 Federalist party. His tastes were scholarly, and he was one of the
@@ -44,7 +44,7 @@ devoted. He became in 1814 a member of a literary society in Cambridge,
 known as the Anthology Club. This club began the publication of a
 monthly magazine, _The Monthly Anthology_, which gave way in 1815 to
 _The North American Review_. In the editorial control of this periodical
-he was associated with Jared Sparks and Edward T. Channing (1790-1856)
+he was associated with Jared Sparks and Edward T. [[Channing]] (1790-1856)
 until 1821, contributing essays and criticisms which attracted wide
 attention. In 1821-1822 he edited in New York a short-lived literary
 magazine, _The Idle Man_. He published his first volume of _Poems_ in
@@ -74,13 +74,13 @@ translated into several languages; and it came to be considered a
 classic. Immediately after the appearance of this book Dana began the
 practice of law, which brought him a large number of maritime cases. In
 1841 he published _The Seaman's Friend_, republished in England as _The
-Seaman's Manual_, which was long the highest authority on the legal
+Seaman's [[Manual]]_, which was long the highest authority on the legal
 rights and duties of seamen. After gaining recognition as one of the
 most prominent members of the Suffolk bar, he became associated in 1848
-with the Free Soil movement, and took a prominent part in the Buffalo
+with the Free Soil movement, and took a prominent part in the [[Buffalo]]
 convention of that year. This step, which caused him to be ostracized
 for a time from the Boston circles in which he had been reared, brought
-him the cases of the fugitive slaves, Shadrach, Sims and Burns, and of
+him the cases of the fugitive slaves, Shadrach, Sims and [[Burns]], and of
 the rescuers of Shadrach. On the night following the surrender of Burns
 (May 1854) Dana was brutally assaulted on the Boston streets. In 1853 he
 took a prominent part in the state constitutional convention. He allied
@@ -94,14 +94,14 @@ presidential campaign of 1860, and after Lincoln's inauguration he was
 appointed United States district attorney for Massachusetts. In this
 office in 1863 he won before the Supreme Court of the United States the
 famous prize case of the "Amy Warwick," on the decision in which
-depended the right of the government to blockade the Confederate ports,
-without giving the Confederate States an international status as
+depended the right of the government to [[Blockade|blockade]] the Confederate ports,
+without giving the Confederate States an [[International|international]] status as
 belligerents. He brought out in 1865 an edition of _Wheaton's
 International Law_, his notes constituting a most learned and valuable
 authority on international law and its bearings on American history and
-diplomacy; but immediately after its publication Dana was charged by the
-editor of two earlier editions, William Beach Lawrence, with infringing
-his copyright, and was involved in litigation which was continued for
+[[Diplomacy|diplomacy]]; but immediately after its publication Dana was charged by the
+editor of two earlier editions, William [[Beach]] [[Lawrence]], with infringing
+his [[Copyright|copyright]], and was involved in litigation which was continued for
 thirteen years. In such minor matters as arrangement of notes and
 verification of citations the court found against Dana, but in the main
 Dana's notes were vastly different from Lawrence's. In 1865 Dana
@@ -110,10 +110,10 @@ Reconstruction period he favoured the congressional plan rather than
 that of President Johnson, and on this account resigned the
 district-attorneyship. In 1867-1868 he was a member of the Massachusetts
 House of Representatives, and in 1867 was retained with William M.
-Evarts to prosecute Jefferson Davis, whose admission to bail he
+Evarts to prosecute [[Jefferson]] Davis, whose admission to bail he
 counselled. In 1877 he was one of the counsel for the United States
 before the commission which in accordance with the treaty of Washington
-met at Halifax, N.S., to arbitrate the fisheries question between the
+met at Halifax, N.S., to arbitrate the [[Fisheries|fisheries]] question between the
 United States and Great Britain. In 1878 he gave up his law practice and
 devoted the rest of his life to study and travel. He died in Rome,
 Italy, on the 9th of January 1882.

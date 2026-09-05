@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Keel"
 # Keel
 
 KEEL, the bottom timber or combination of plates of a ship or boat,
-extending longitudinally from bow to stern, and supporting the framework
+extending longitudinally from [[Bow|bow]] to stern, and supporting the framework
 (see SHIP-BUILDING). The origin of the word has been obscured by
 confusion of two words, the Old Norwegian _kjole_ (cf. Swedish _kol_)
 and a Dutch and German _kiel_. The first had the meaning of the English

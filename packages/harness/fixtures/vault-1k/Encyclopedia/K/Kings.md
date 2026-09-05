@@ -126,7 +126,7 @@ stage, as Ewald long ago recognized.
   unfavourable judgment upon all its rulers, not merely to the effect
   that they did evil in the sight of Yahweh but that they followed in
   the way of Jeroboam. But his opinion was manifestly not shared by
-  Elijah or Elisha, nor by the original narrator of the lives of these
+  Elijah or [[Elisha]], nor by the original narrator of the lives of these
   prophets. Moreover, the redactor in 1 Kings iii. 2 seq. regards
   worship at the high places as sinful after the building of the Temple,
   although even the best kings before Hezekiah made no attempt to
@@ -354,7 +354,7 @@ of his son Ahaziah (xxii. 51-53)[6] finds its conclusion in 2 Kings i.
 (v. 17b). Jehoram is again introduced in iii. 1-3 (note the variant
 synchronism), but the usual conclusion is wanting. In Judah, Jehoshaphat
 was succeeded by his son Jehoram, who had married Athaliah the daughter
-of Ahab and Jezebel (viii. 16-24); to the annalistic details (vv. 20-22)
+of Ahab and [[Jezebel]] (viii. 16-24); to the annalistic details (vv. 20-22)
 2 Chron. xxi. 11 sqq. adds a novel narrative. His son Ahaziah (viii. 25
 sqq.) is similarly denounced for his relations with Israel. He is again
 introduced in the isolated ix. 29, while Lucian's recension adds after
@@ -395,7 +395,7 @@ features of the narratives of Elijah and Elisha.
   The episode of Elijah and Ahaziah (2 Kings i.) is marked by the
   revelation through an angel. The prophet's name appears in an unusual
   form (viz. _eliyyah_, not -_yahu_), especially in vv. 2-8. The
-  prediction of Ahaziah's fate finds a parallel in 2 Chron. xxi. 12-15;
+  prediction of Ahaziah's [[Fate|fate]] finds a parallel in 2 Chron. xxi. 12-15;
   the more supernatural additions have been compared with the late story
   in 1 Sam. xix. 18-24. The ascension of Elijah (2 Kings ii.) is related
   as the introduction to the work of Elisha, which apparently begins
@@ -790,7 +790,7 @@ FOOTNOTES:
     of Israel_, p. 147. seq.; and K. Marti, _Ency. Bib._ art.
     "Chronology."
 
-  [13] Against earlier doubts by Havet (1878), Vernes (1887) and Horst
+  [13] Against earlier doubts by [[Havet]] (1878), Vernes (1887) and Horst
     (1888), see W. E. Addis, _Documents of Hexateuch_, ii. 2 sqq.; but
     the whole question has been reopened by E. Day (loc. cit. above) and
     R. H. Kennett (_Journ. Theol. Stud._, July 1906, 481 sqq.).

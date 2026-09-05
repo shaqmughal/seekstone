@@ -19,7 +19,7 @@ but a somewhat indifferent student, graduating at Harvard without
 special honours in 1838. During his college course he wrote a number of
 trivial pieces for a college magazine, and shortly after graduating
 printed for private circulation the poem which his class asked him to
-write for their graduation festivities.
+write for their [[Graduation|graduation]] festivities.
 
 He was uncertain at first what vocation to choose, and vacillated
 between business, the ministry, medicine and law. He decided at last to
@@ -31,7 +31,7 @@ experiments in writing did not encourage him to trust to this for
 support. An unhappy adventure in love deepened his sense of failure, but
 he became betrothed to Maria White in the autumn of 1840, and the next
 twelve years of his life were deeply affected by her influence. She was
-a poet of delicate power, but also possessed a lofty enthusiasm, a high
+a poet of delicate power, but also possessed a lofty [[Enthusiasm|enthusiasm]], a high
 conception of purity and justice, and a practical temper which led her
 to concern herself in the movements directed against the evils of
 intemperance and slavery. Lowell was already looked upon by his
@@ -45,7 +45,7 @@ his new emotions with a backward glance at the preceding period of
 depression and irresolution. The betrothal, moreover, stimulated Lowell
 to new efforts towards self-support, and though nominally maintaining
 his law office, he threw his energy into the establishment, in company
-with a friend, Robert Carter, of a literary journal, to which the young
+with a friend, Robert [[Carter]], of a literary journal, to which the young
 men gave the name of _The Pioneer_. It was to open the way to new ideals
 in literature and art, and the writers to whom Lowell turned for
 assistance--Hawthorne, Emerson, Whittier, Poe, Story and Parsons, none
@@ -62,7 +62,7 @@ The venture confirmed Lowell in his bent towards literature. At the
 close of 1843 he published a collection of his poems, and a year later
 he gathered up certain material which he had printed, sifted and added
 to it, and produced _Conversations on some of the Old Poets_. The
-dialogue form was used merely to secure an undress manner of approach to
+[[Dialogue|dialogue]] form was used merely to secure an undress manner of approach to
 his subject; there was no attempt at the dramatic. The book reflects
 curiously Lowell's mind at this time, for the conversations relate only
 partly to the poets and dramatists of the Elizabethan period; a slight
@@ -107,22 +107,22 @@ Lowell had acquired a reputation among men of letters and a cultivated
 class of readers, but this satire at once brought him a wider fame. The
 book was not premeditated; a single poem, called out by the recruiting
 for the abhorred Mexican war, couched in rustic phrase and sent to the
-_Boston Courier_, had the inspiriting dash and electrifying rat-tat-tat
+_[[Boston]] Courier_, had the inspiriting dash and electrifying rat-tat-tat
 of this new recruiting sergeant in the little army of Anti-Slavery
 reformers. Lowell himself discovered what he had done at the same time
 that the public did, and he followed the poem with eight others either
 in the _Courier_ or the _Anti-Slavery Standard_. He developed four
-well-defined characters in the process--a country farmer, Ezekiel
+well-defined characters in the process--a country farmer, [[Ezekiel]]
 Biglow, and his son Hosea; the Rev. Homer Wilbur, a shrewd old-fashioned
 country minister; and Birdofredum Sawin, a Northern renegade who enters
 the army, together with one or two subordinate characters; and his
-stinging satire and sly humour are so set forth in the vernacular of New
+stinging satire and sly [[Humour|humour]] are so set forth in the vernacular of New
 England as to give at once a historic dignity to this form of speech.
 (Later he wrote an elaborate paper to show the survival in New England
 of the English of the early 17th century.) He embroidered his verse with
-an entertaining apparatus of notes and mock criticism. Even his index
+an entertaining apparatus of notes and mock criticism. Even his [[Index|index]]
 was spiced with wit. The book, a caustic arraignment of the course taken
-in connexion with the annexation of Texas and the war with Mexico, made
+in connexion with the [[Annexation|annexation]] of Texas and the war with Mexico, made
 a strong impression, and the political philosophy secreted in its lines
 became a part of household literature. It is curious to observe how
 repeatedly this arsenal was drawn upon in the discussions in America
@@ -139,7 +139,7 @@ American edition of the _British Poets_, but the low state of his wife's
 health kept him in an uneasy condition, and when her death (27th October
 1853) released him from the strain of anxiety, there came with the grief
 a readjustment of his nature and a new intellectual activity. At the
-invitation of his cousin, he delivered a course of lectures on English
+invitation of his [[Cousin|cousin]], he delivered a course of lectures on English
 poets before the Lowell Institute in Boston in the winter of 1855. This
 first formal appearance as a critic and historian of literature at once
 gave him a new standing in the community, and was the occasion of his
@@ -155,7 +155,7 @@ rather than a close and special instructor. His power lay in the
 interpretation of literature rather than in linguistic study, and his
 influence over his pupils was exercised by his own fireside as well as
 in the relation, always friendly and familiar, which he held to them in
-the classroom. In 1856 he married Miss Frances Dunlap, a lady who had
+the classroom. In 1856 he married Miss [[Franc|Frances]] Dunlap, a lady who had
 since his wife's death had charge of his daughter Mabel.
 
 In the autumn of 1857 _The Atlantic Monthly_ was established, and Lowell
@@ -172,8 +172,8 @@ Atlantic_ during the same period that he published a second series of
 _The Biglow Papers_. Both his collegiate and editorial duties stimulated
 his critical powers, and the publication in the two magazines, followed
 by republication in book form, of a series of studies of great authors,
-gave him an important place as a critic. Shakespeare, Dryden, Lessing,
-Rousseau, Dante, Spenser, Wordsworth, Milton, Keats, Carlyle, Thoreau,
+gave him an important place as a critic. Shakespeare, [[Dryden]], Lessing,
+Rousseau, [[Dante]], Spenser, Wordsworth, Milton, Keats, Carlyle, Thoreau,
 Swinburne, Chaucer, Emerson, Pope, Gray--these are the principal
 subjects of his prose, and the range of topics indicates the catholicity
 of his taste. He wrote also a number of essays, such as "My Garden
@@ -188,7 +188,7 @@ stately odes.
 
 In 1877 Lowell, who had mingled so little in party politics that the
 sole public office he had held was the nominal one of elector in the
-Presidential election of 1876, was appointed by President Hayes minister
+Presidential election of 1876, was appointed by President [[Hay|Hayes]] minister
 resident at the court of Spain. He had a good knowledge of Spanish
 language and literature, and his long-continued studies in history and
 his quick judgment enabled him speedily to adjust himself to these new
@@ -253,7 +253,7 @@ singleness of his moral sight.
   Norton, in two volumes (New York, Harper & Brothers, 1899); _Life of
   James Russell Lowell_ (2 vols.), by Horace E. Scudder (Houghton,
   Mifflin & Co., 1901); _James Russell Lowell and his Friends_ (Boston,
-  1899), by Edward Everett Hale.     (H. E. S.*)
+  1899), by Edward [[Everett]] Hale.     (H. E. S.*)
 
 
 FOOTNOTE:

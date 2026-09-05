@@ -8,17 +8,17 @@ type: article
 # Cantharides
 
 CANTHARIDES, or SPANISH FLIES, the common blister-beetles (_Cantharis
-vesicatoria_) of European pharmacy. They are bright, iridescent,
-golden-green or bluish-coloured beetles (see COLEOPTERA), with the
-breast finely punctured and pubescent, head and thorax with a
+vesicatoria_) of European pharmacy. They are [[Bright|bright]], iridescent,
+golden-green or bluish-coloured beetles (see [[Coleoptera|COLEOPTERA]]), with the
+[[Breast|breast]] finely punctured and pubescent, head and thorax with a
 longitudinal channel, and elytra with two slightly elevated lines. The
-insect is from half-an-inch to an inch in length, and from one to two
+[[Insect|insect]] is from half-an-inch to an [[Inch|inch]] in length, and from one to two
 lines broad, the female being broader in the abdomen and altogether
 larger than the male. It is a native of the south of Europe, being found
 in Spain, France, Germany, Italy, Hungary and the south of Russia, and
-it is also obtained in Siberia. The Spanish fly is also occasionally
-found in the south of England. The insects feed upon ash, lilac, privet
-and jasmine leaves, and are found more rarely on elder, rose, apple and
+it is also obtained in Siberia. The Spanish [[Fly|fly]] is also occasionally
+found in the south of England. The insects feed upon ash, [[Lilac|lilac]], privet
+and [[Jasmine|jasmine]] leaves, and are found more rarely on elder, rose, [[Apple|apple]] and
 poplar trees. Their presence is made known by a powerful disagreeable
 odour, which penetrates to a considerable distance. They are collected
 for use at late evening or early morning, while in a dull bedewed
@@ -31,7 +31,7 @@ various other minute insects, to the attacks of which they are
 peculiarly liable. It has been shown by means of spectroscopic
 observations that the green colour of the elytra, &c., is due to the
 presence of chlorophyll; and that the variations of the spectral bands
-are sufficient, after the lapse of many years, to indicate with some
+are sufficient, after the [[Lapse|lapse]] of many years, to indicate with some
 certainty the kind of leaves on which the insects were feeding shortly
 before they were killed.
 
@@ -43,7 +43,7 @@ than one-half per cent, of cantharidin has been obtained from different
 samples; and it has been ascertained that the elytra or wing-sheaths of
 the insect, which alone are used in pharmacy, contain more of the active
 principle than the soft parts taken together; but apparently
-cantharidin is most abundant in the eggs and generative organs.
+cantharidin is most abundant in the [[Egg|eggs]] and generative organs.
 
 Cantharidin constitutes from 1/2 to 1% of cantharides. It has the
 formula C10H14O4, and on hydrolysis is converted into cantharinic acid,
@@ -90,12 +90,12 @@ absorption. It must always be employed with caution in the case of
 elderly persons and children; and it must not be applied to a paralysed
 limb (in which the power of healing is deficient), nor to parts upon
 which the patient lies, as otherwise a bed-sore is likely to follow its
-use. The drug is administered internally in certain cases of impotence
+use. The drug is administered internally in certain cases of [[Impotence|impotence]]
 and occasionally in other conditions. Its criminal employment is usually
 intended to heighten sexual desire, and has frequently led to death.
 
 The toxic symptoms have already been detailed, the patient usually dying
-from arrest of the renal functions. The treatment is far from
+from [[Arrest|arrest]] of the renal functions. The treatment is far from
 satisfactory, and consists in keeping up the strength and diluting the
 poison in the blood and in the urine by the administration of bland
 fluids, such as soda-water, milk and plain water, in quantities as large
@@ -120,7 +120,7 @@ is called in Hebrew _The Song of Songs_ (that is, _the choicest of
 songs_), or, according to the full title which stands as the first verse
 of the book, _The choicest of the songs of Solomon_. In the Western
 versions the book holds the third place among the so-called Solomonic
-writings, following Proverbs and Ecclesiastes. In Hebrew Bibles it
+writings, following Proverbs and [[Ecclesiastes]]. In Hebrew Bibles it
 stands among the _Megilloth_, the five books of the Hagiographa which
 have a prominent place in the Synagogue service. In printed Bibles and
 in German MSS. it is the first of these because it is read at the
@@ -129,17 +129,17 @@ Passover, which is the first great feast of the sacred year of the Jews.
 No part of the Bible has called forth a greater diversity of opinions
 than the Song of Solomon, and this for two reasons. In the first place,
 the book holds so unique a position in the Old Testament, that the
-general analogy of Hebrew literature is a very inadequate key to the
+general analogy of Hebrew literature is a very inadequate [[Key|key]] to the
 verbal difficulties, the artistic structure, and the general conception
 and purpose of the poem. In point of language the departures from
 ordinary Hebrew are almost always in the direction of Aramaic. Many
 forms unique in Biblical Hebrew are at once explained by the Aramaic
-dialects, but not a few are still obscure. The philological difficulties
+[[Dialect|dialects]], but not a few are still obscure. The philological difficulties
 of the book are, however, less fundamental than those which lie in the
 unique character of the Song of Solomon in point of artistic form, and
 in the whole atmosphere of thought and feeling in which it moves. Even
 in these respects it is not absolutely isolated. Parallels to the
-peculiar imagery may be found in the book of Hosea, in Ezekiel xvi. and
+peculiar imagery may be found in the book of Hosea, in [[Ezekiel]] xvi. and
 xxiii. and above all in the 45th Psalm; but such links of union to the
 general mass of the Old Testament literature are too slight to be of
 material assistance in the solution of the literary problem of the book.
@@ -171,7 +171,7 @@ were this possible it would be false art in the allegorist to hide away
 his sacred thoughts behind a screen of sensuous and erotic imagery, so
 complete and beautiful in itself as to give no suggestion that it is
 only the vehicle of a deeper sense. Apart from tradition, no one, in the
-present state of exegesis, would dream of allegorizing poetry which in
+present state of exegesis, would [[Dream|dream]] of allegorizing poetry which in
 its natural sense is so full of purpose and meaning, so apt in
 sentiment, and so perfect in imagery as the lyrics of Canticles. We are
 not at liberty to seek for allegory except where the natural sense is
@@ -188,7 +188,7 @@ arguments which have been adduced to prove that the Septuagint
 translation implies an allegorical exegesis are inadequate;[2] and Philo
 does not mention the book. Nor is there any allusion to Canticles in the
 New Testament. The first trace of an allegorical view identifying Israel
-with the "spouse" appears to be in the Fourth Book of Ezra, near the
+with the "spouse" appears to be in the Fourth Book of [[Ezra]], near the
 close of the 1st Christian century (v. 24, 26; vii. 26). Up to this time
 the canonicity of the Canticles was not unquestioned; and the final
 decision as to the sanctity of the book, so energetically carried
@@ -203,25 +203,25 @@ The form in which the allegorical theory became fixed in the synagogue
 is contained in the Midrash _Chazita_ and in the Targum, which is a
 commentary rather than a translation. The spouse is Israel, her royal
 lover the divine king, and the poem is explained as tracing the great
-events of the people's history from the Exodus to the Messianic glory
+events of the people's history from the [[Exodus]] to the Messianic glory
 and final restoration.[4]
 
 The authority of Origen, who, according to Jerome, surpassed himself in
 his commentary of ten volumes on this book, established the allegorical
 theory in the Christian church in the two main forms in which it has
-since prevailed. The bridegroom is Christ, the bride either the church
+since prevailed. The bridegroom is Christ, the [[Bride|bride]] either the church
 or the believing soul. The latter conception is, of course, that which
 lends itself most readily to purposes of mystical edification, and which
-has made Canticles the manual in all ages of a wide-spread type of
+has made Canticles the [[Manual|manual]] in all ages of a wide-spread type of
 religious contemplation. But the other view, which identifies the bride
 with the church, must be regarded as the standard of orthodox exegesis.
 Of course the allegorical principle admitted of very various
 modifications, and readily adapted itself to new religious developments,
 such as the rise of Mariolatry. Within the limits of the orthodox
-traditions the allegory took various colours, according as its mystical
+traditions the allegory took various [[Colours|colours]], according as its mystical
 or its prophetical aspect was insisted on. Among medieval commentators
-of the former class S. Bernard holds a pre-eminent place; while the
-second class is represented by Nicolaus de Lyra, who, himself a
+of the former class S. [[Bernard]] holds a pre-eminent place; while the
+second class is represented by Nicolaus de [[Lyra]], who, himself a
 converted Jew, modified the Jewish interpretation so as to find in the
 book an account of the _processus ecclesiae_ under the Old and New
 Testaments. The prophetic exegesis reached its culminating point in the
@@ -242,18 +242,18 @@ his people about his Egyptian marriage; and this was one of the heresies
 charged upon him after his death, which led to his condemnation at the
 second council of Constantinople (553 A.D.). A literal interpretation
 was not again attempted till in 1544 Chateillon (Castellio or Castalion)
-lost his regency at Geneva for proposing to expel the book from the
-canon as impure. Grotius (_Annot. in V.T._, 1644) took up a more
+lost his regency at [[Geneva]] for proposing to expel the book from the
+canon as impure. [[Grotius]] (_Annot. in V.T._, 1644) took up a more
 moderate position. Without denying the possibility of a secondary
 reference designed by Solomon to give his poem a more permanent value,
 he regards the Canticles as primarily an [Greek: oaristys] (conjugal
 prattle) between Solomon and Pharaoh's daughter. The distinction of a
 primary and secondary sense gradually became current not only among the
 Remonstrants, but in England (Lightfoot, Lowth) and even in Catholic
-circles (Bossuet, 1693). In the actual understanding of the book in its
+circles ([[Bossuet]], 1693). In the actual understanding of the book in its
 literal sense no great progress was made. Solomon was still viewed as
 the author, and for the most part the idea that the poem is a dramatic
-epithalamium was borrowed from Origen and the allegorists, and applied
+[[Epithalamium|epithalamium]] was borrowed from Origen and the allegorists, and applied
 to the marriage of Pharaoh's daughter.
 
 From Grotius to Lowth the idea of a typical reference designed by
@@ -270,18 +270,18 @@ picture it presents (1758).
 Then came Herder's exquisite little treatise on _Solomon's Songs of
 Love, the Oldest and Sweetest of the East_ (1778). Herder, possessing
 delicacy of taste and sympathetic poetical genius, delighted in the
-Canticles as the transparently natural expression of innocent and tender
+Canticles as the transparently natural expression of [[Innocent|innocent]] and tender
 love. He expressed the idea that the poem is simply a sequence of
 independent songs without inner unity, grouped so as to display various
 phases and stages of love in a natural order, culminating in the placid
 joys of wedded life. The theory of Herder, which refuses to acknowledge
-any continuity in the book, was accepted by Eichhorn on the part of
+any continuity in the book, was accepted by [[Eichhorn]] on the part of
 scholars, and with some hesitation by Goethe on the part of the poets.
 Commentaries based on this view are those of Dopke (1829), Magnus
 (1842), Noyes (1846).
 
 The prevalent view of the 19th century, however, recognizes in the poem
-a more or less pronounced dramatic character, and following Jacobi
+a more or less pronounced dramatic character, and following [[Jacobi]]
 (1771) distinguishes the shepherd, the true love of the Shulamite, from
 King Solomon, who is made to play an ignominious part. Propounded by
 Staudlin (1792) and Ammon (1795), this view was energetically carried
@@ -292,10 +292,10 @@ simple dramatic structure, and did not in his first publication (1826)
 venture to suppose that the poem had ever been acted on a stage. His
 less cautious followers have been generally tempted to dispose of
 difficulties by introducing more complicated action and additional
-interlocutors (so, for example, Hitzig, 1855; Ginsburg, 1857; Renan,
+interlocutors (so, for example, [[Hitzig]], 1855; [[Ginsburg]], 1857; Renan,
 1860); while Bottcher (1850) did his best to reduce the dramatic
 exposition to absurdity by introducing the complexities and stage
-effects of a modern operetta. Another view is that of Delitzsch (1851
+effects of a modern operetta. Another view is that of [[Delitzsch]] (1851
 and 1875) and his followers, who also plead for a dramatic form--though
 without supposing that the piece was ever acted--but adhere to the
 traditional notion that Solomon is the author, who celebrates his love
@@ -315,11 +315,11 @@ was able to accept in 1876.
 
 The centre of attraction is throughout a female figure, and the unity of
 this figure is the chief test of the unity of the book. In the long
-canto, i. 1-ii. 7, the heroine appears in a royal palace (i. 4) among the
+[[Canto|canto]], i. 1-ii. 7, the heroine appears in a royal palace (i. 4) among the
 daughters of Jerusalem, who are thus presumably ladies of the court of
 Zion. At i. 9, an additional interlocutor is introduced, who is plainly a
 king, and apparently Solomon (i. 9, 12). He has just risen from table,
-and praises the charms of the heroine with the air of a judge of beauty,
+and praises the [[Charm|charms]] of the heroine with the air of a judge of beauty,
 but without warmth. He addresses her simply as "my friend" (not as
 English version, "my love"). The heroine, on the contrary, is
 passionately in love, but nothing can be plainer than that the object of
@@ -329,7 +329,7 @@ of vineyards. Her beloved, whom she knows not where to find (i. 7), but
 who lies constantly on her heart and is cherished in her bosom like a
 spray of the sweet henna flowers which Oriental ladies delight to wear
 (i. 13, 14), is like herself a peasant--a shepherd lad (i. 7)--with whom
-she was wont to sit in the fresh greenwood under the mighty boughs of
+she was wont to sit in the fresh [[Greenwood|greenwood]] under the mighty boughs of
 the cedars (i. 16, 17). Even before the king's entrance the ladies of the
 court are impatient at so silly an affection, and advise her, "if she is
 really so witless," to begone and rejoin her plebeian lover (i. 8). To
@@ -345,13 +345,13 @@ moral of the scene is the spontaneity of true affection.
 Now, at viii. 5, a female figure advances leaning upon her beloved, with
 whom she claims inseparable union,--"for love is strong as death, its
 passion inflexible as the grave, its fire a divine flame which no waters
-can quench or floods drown. Yea, if a man would give all his wealth for
+can quench or [[Flood|floods]] drown. Yea, if a man would give all his wealth for
 love he would only be contemned." This is obviously the sentiment of ii.
 7, and the suitor, whose wealth is despised, must almost of necessity be
 identified with the king of chapter i., if, as seems reasonable, we
 place viii. ii, 12 in the mouth of the same speaker--"King Solomon has
 vineyards which bring him a princely revenue, and enrich even the
-farmers. Let him and them keep their wealth; my vineyard is before me"
+[[Farmer|farmers]]. Let him and them keep their wealth; my vineyard is before me"
 (i.e. I possess it in present fruition). The last expression is plainly
 to be connected with i. 6. But this happiness has not been reached
 without a struggle. The speaker has proved herself an impregnable
@@ -367,7 +367,7 @@ conduct and its reward (viii. 8, 9).
 
 If this analysis of the commencement and close of the book is correct,
 it is certain that the poem is in a sense dramatic, that is, that it
-uses dialogue and monologue to develop a story. The heroine appears in
+uses [[Dialogue|dialogue]] and monologue to develop a story. The heroine appears in
 the opening scene in a difficult and painful situation, from which in
 the last chapter she is happily extricated. But the dramatic progress
 which the poem exhibits scarcely involves a plot in the usual sense of
@@ -401,8 +401,8 @@ reminiscence of ii. 8-17 takes the form of a dialogue within the main
 dialogue of the poem, a picture within a picture--the picture of her
 beloved as he stood at her window in the early spring time, and of her
 own merry heart as she laughingly answered him in the song with which
-watchers of the vineyards frighten away the foxes. It is, of course, a
-fault of perspective that this reminiscence is as sharp in outline and
+watchers of the vineyards frighten away the [[Foxe|foxes]]. It is, of course, a
+[[Fault|fault]] of perspective that this reminiscence is as sharp in outline and
 as strong in colour as the main action. But no one can expect
 perspective in such early art, and recollection of the past is clearly
 enough separated from present reality by ii. 16, 17. The last monologue
@@ -410,9 +410,9 @@ enough separated from present reality by ii. 16, 17. The last monologue
 is tempered by maidenly shame, and a maiden's desire for her mother's
 counsel, is of special value for a right appreciation of the psychology
 of the love which the poem celebrates, and completes a picture of this
-flower of the northern valleys which is not only firm in outline, but
+[[Flower|flower]] of the northern valleys which is not only firm in outline, but
 delicate in touch. The subordinate action which supports the portraiture
-of the maiden of Galilee is by no means easy to understand.
+of the maiden of [[Galilee]] is by no means easy to understand.
 
 We come next to chapter vi., which again sings the praises of the
 heroine, and takes occasion in this connexion to introduce, with the
@@ -435,7 +435,7 @@ unique among women, the choice and only one of her mother. The unity of
 action can only be maintained by ignoring vii. 1-9, and taking the words
 of Solomon in chapter vi. in their obvious sense as implying that the
 king at length recognizes in the maiden qualities of soul unknown in the
-harem, a character which compels respect, as well as a beauty that
+[[Harem|harem]], a character which compels respect, as well as a beauty that
 inflames desire. The change of feeling which was wrought in the
 daughters of Jerusalem in the previous scene now extends to Solomon
 himself, and thus the glad utterances of vii. 10, seq., have a
@@ -449,14 +449,14 @@ first over the ladies of the court and then over the king.
 
 The attractiveness of the above theory cannot be denied; but it may be
 asked whether the attraction does not lie in the appeal to modern taste
-of a story which is largely the product of modern imagination. It
+of a story which is largely the product of modern [[Imagination|imagination]]. It
 supposes a freedom of intercourse between lovers inconceivable for the
 East. The initial situation of the maiden in the harem of Solomon is
 left as a problem for the reader to discover, until he comes to its
 supposed origin in vi. 11; the expedient might be granted in the case of
 one of Browning's _Men and Women_, but seems very improbable in the
 present case. The more elaborate dramatic theories can find no parallel
-in Semitic literature to the "drama" of Canticles, the book of Job being
+in Semitic literature to the "[[Drama|drama]]" of Canticles, the book of Job being
 no exception to this statement; whilst even the simpler theories ask us
 to believe that the essential parts of the story--the rape of the
 Shulamite, the change in Solomon's disposition, her release from the
@@ -466,13 +466,13 @@ from first to last is so difficult to prove. In the first chapter we
 listen to a woman speaker desiring to be kissed by the man who has
 brought her into his chambers, and speaking of "our bed"; in the last we
 leave her "leaning upon her beloved." The difficulties of detail are
-equally great. To suppose that all the male love-making, by hypothesis
+equally great. To suppose that all the male love-making, by [[Hypothesis|hypothesis]]
 unsuccessful, belongs to Solomon, whilst the heroine addresses her
 passionate words to the continuously absent shepherd, is obviously
 unconvincing; yet, if this shepherd speaks in iv. 8-v. 1, how are we to
 explain his appearance in the royal harem? This and other difficulties
 were acknowledged by Robertson Smith, notably the presence of vii. 1-9,
-which he proposed to set aside as an interpolation, because of its
+which he proposed to set aside as an [[Interpolation|interpolation]], because of its
 sensuality and of the difficulty of working it into the dramatic scheme.
 The fact that this passage has subsequently become the central element
 in the new interpretation of the book is, perhaps, a warning against
@@ -482,7 +482,7 @@ Attention has already been drawn to Herder's proposal, accepted by some
 later writers, including Diestel and Reuss, to regard the book as a
 collection of detached songs. This received new and striking
 confirmation from the anthropological data supplied by J.G. Wetstein
-(1873), Prussian consul at Damascus. His observations of the wedding
+(1873), Prussian consul at [[Damascus]]. His observations of the wedding
 customs of Syrian peasants led him to believe that Canticles is
 substantially a collection of songs originally sung at such festivities.
 Wetstein's contribution was republished shortly afterwards by Delitzsch,
@@ -493,7 +493,7 @@ his _History of the Jewish People_ (ii. p. 197), published in 1888; to
 Budde, however, belongs the distinction of the systematic and detailed
 use of Wetstein's suggestions, especially in his _Commentary_ (1898).
 This interpretation of the book is accepted by Kautzsch (1896),
-Siegfried (1898), Cheyne (1899), and other eminent scholars. The
+Siegfried (1898), [[Cheyne]] (1899), and other eminent scholars. The
 last-named states the theory tersely as follows: "The book is an
 anthology of songs used at marriage festivals in or near Jerusalem,
 revised and loosely connected by an editor without regard to temporal
@@ -510,7 +510,7 @@ Wetstein's own statements:--
   being over, and the sun still refreshing, not oppressive as in the
   following months, the weddings are celebrated in the open air on the
   village threshing-floor, which at this time of the year is with few
-  exceptions a flowery mead. ...We pass over the wedding-day itself with
+  exceptions a flowery [[Mead|mead]]. ...We pass over the wedding-day itself with
   its displays, the sword-dance of the bride, and the great feast. On
   the morrow, bridegroom and bride awake as king and queen. Already
   before sunrise they receive the leader of the bridesmen, as their
@@ -536,7 +536,7 @@ Wetstein's own statements:--
   on the first, shortly before midday on the other days, and continuing
   far into the night by the light of the fires that are kindled; on the
   last day alone all is over by sunset. During the whole week both
-  royalties are in marriage attire, must do no work and have no cares;
+  royalties are in marriage attire, must do no work and have no [[Car|cares]];
   they have only to look down from the _merteba_ (throne) on the sports
   carried on before them, in which they themselves take but a moderate
   part; the queen, however, occasionally gives a short dance to attract
@@ -552,7 +552,7 @@ to head (cf. vii. 1; "Why look ye on the Shulamite as (on) a dance of
 camps?" i.e. a war-dance). This dance receives its name from the fact
 that she dances it with a sword in her hand in the firelight on the
 evening of her wedding-day, and amid a circle of men and women, whilst
-such a _wasf_ as this is sung by the leader of the choir. The passage
+such a _wasf_ as this is sung by the leader of the [[Choir|choir]]. The passage
 relating to the litter of Solomon (iii. 6-11)--an old difficulty with
 the dramatizers--relates to the erection of the throne on the
 threshing-floor.[7] The terms "Solomon" and "the Shulamite" are
@@ -598,7 +598,7 @@ refrains "disturb not love" severally follow passages relating to the
 consummation of the sexual relation, whilst the two refrains "until the
 day break" appear to form an invitation and an answer in the same
 connexion, whilst the "Omnia vincit Amor" passage in the last chapter
-forms a natural climax (cf. Haupt's translation). So far, then, as this
+forms a natural [[Climax|climax]] (cf. Haupt's translation). So far, then, as this
 somewhat scanty evidence goes, it may point to some one hand which has
 given its semblance of unity to the book by underlining the joy of
 consummated love--to which the vineyard and garden figures throughout
@@ -651,7 +651,7 @@ the book is written, which shows frequent points of contact with new
 Hebrew.[11] On this ground, we may suppose the present form of the work
 to date from the Greek period, i.e. after 332 B.C. This is the date
 accepted by most recent writers, e.g. Kautzsch, Cheyne, Budde,
-Rothstein, Jacob, Haupt. This late date finds some confirmation in the
+Rothstein, [[Jacob]], [[Haupt]]. This late date finds some confirmation in the
 fact that Canticles belongs to the third and latest part of the Old
 Testament canon, and that its canonicity was still in dispute at the end
 of the 1st century A.D. The evidence offered for a north Israelite
@@ -689,7 +689,7 @@ FOOTNOTES:
 
   [1] An argument for the allegorical interpretation has been often
     drawn from Mahommedan mysticism--from the poems of Hafiz, and the
-    songs still sung by dervishes. See Jones, _Poeseos Asiaticae Com._
+    songs still sung by [[Dervish|dervishes]]. See Jones, _Poeseos Asiaticae Com._
     pt. in. cap. 9; Rosenmuller's remarks on Lowth's _Praelectio_, xxxi.,
     and Lane's _Modern Egyptians_, ch. xxiv. But there is no true analogy
     between the Old Testament and the pantheistic mysticism of Islam, and
@@ -710,16 +710,16 @@ FOOTNOTES:
     The Polyglots add a Latin version. A German version is given by
     Riedel in his very useful book, _Die Auslegung des Hohenliedes_
     (1898), which also reviews the interpretation of Canticles by
-    Hippolytus, Origen and later Greek writers.
+    [[Hippolytus]], Origen and later Greek writers.
 
   [5] Ewald and others make this song a distinct scene in the action of
-    the poem, supposing that the author here exhibits the honourable form
+    the poem, supposing that the author here exhibits the [[Honourable|honourable]] form
     of espousal by which Solomon thought to vanquish the scruples of the
     damsel. This view, however, seems to introduce a complication foreign
     to the plan of the book.
 
   [6] Wetstein, _Zeitschrift f. Ethn._, 1873, pp. 270-302; quoted and
-    condensed by Budde as above in _Comm_. p. xvii.; for a fuller
+    condensed by Budde as above in _Comm_. p. xvii.; for a [[Fuller|fuller]]
     reproduction of Wetstein in English see Harper, _The Song of Songs_,
     pp. 74-76.
 
@@ -728,7 +728,7 @@ FOOTNOTES:
     customs, such as those described by Frazer (_The Golden Bough_, ii.
     p. 181 f., 186).
 
-  [8] Castelli (_Il Cantico dei Cantici_, 1892) has written a very
+  [8] [[Castelli]] (_Il Cantico dei Cantici_, 1892) has written a very
     attractive little book on Canticles (quite apart from the Wetstein
     development) regarded as "a poem formed by a number of dialogues
     mutually related by a certain succession"; they require for their

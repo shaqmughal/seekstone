@@ -12,7 +12,7 @@ ARISTONICUS, of Alexandria, Greek grammarian, lived during the reigns of
 Augustus and Tiberius. He taught at Rome and wrote commentaries and
 grammatical treatises. His chief work was [Greek: Peri Saemeion
 Homaerou], in which he gave an account of the "critical marks" inserted
-by Aristarchus in the margin of his recension of the text of the _Iliad_
+by [[Aristarchus]] in the margin of his recension of the text of the _Iliad_
 and _Odyssey_. Important fragments are preserved in the scholia of the
 Venetian Codex A of the _Iliad_.
 

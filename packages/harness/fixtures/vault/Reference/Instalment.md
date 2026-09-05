@@ -5,7 +5,7 @@ to fix, arrange; the change is probably due to the influence of the verb
 "install"), the payment of a sum of money at stated intervals and in
 fixed portions instead of in a lump sum; hence the sums of money as they
 fall due at the periods agreed upon. For the system of purchase by
-deferred payments or instalments see HIRE-PURCHASE AGREEMENT.
+deferred payments or instalments see [[Hire-Purchase Agreement|HIRE-PURCHASE AGREEMENT]].
 
 ## References
 

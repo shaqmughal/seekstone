@@ -8,10 +8,10 @@ significance. Their number varies in the different species. The head
 bears four setae, and some of the ridges bear a pair either dorsally or
 ventrally. The setae are movable. Two pigment spots between the fourth
 and fifth ridges are regarded as eyes. The Desmoscolecida move by
-looping their bodies like geometrid caterpillars or leeches, as well as
+looping their bodies like geometrid [[Caterpillar|caterpillars]] or leeches, as well as
 by creeping on their setae. The mouth is terminal, and leads into a
 muscular oesophagus which opens into a straight intestine terminating in
-an anus, which is said to be dorsal in position. The sexes are distinct.
+an [[Anu|anus]], which is said to be dorsal in position. The sexes are distinct.
 The testis is single, and its duct opens into the intestine and is
 provided with two chitinous spicules. The ovary is also single, opening
 independently and anterior to the anus. The nervous system is as yet
@@ -26,7 +26,7 @@ unknown.
    Panceri.)]
 
 There are several species. _D. minutus_ Clap. has been met with in the
-English Channel. Others are _D. nematoides_ Greef, _D. adelphus_ Greef,
+[[English Channel]]. Others are _D. nematoides_ Greef, _D. adelphus_ Greef,
 _D. chaetogaster_ Greef, _D. elongatus_ Panceri, _D. lanuginosa_
 Panceri. _Trichoderma oxycaudatum_ Greef is 0.3 mm. long, and is also a
 "ringed creature with long hair-like bristles." The male has two
@@ -38,7 +38,7 @@ however, are very ignorant of the internal anatomy of these forms, and
 until we know more it is impossible to arrive at a very definite
 conclusion as to their position in the animal kingdom.
 
-   See Panceri, _Atti Acc. Napoli._ vii. (1878); Greef, _Arch. Naturg._
+   See Panceri, _Atti Acc. Napoli._ vii. (1878); Greef, _[[Arch]]. Naturg._
    35 (i.) (1869), p. 112.                                  (A. E. S.)
 
 ## See also

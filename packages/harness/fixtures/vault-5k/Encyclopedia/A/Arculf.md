@@ -1,6 +1,6 @@
 # Arculf
 
-ARCULF, a Gallican bishop and pilgrim-traveller, who visited the Levant
+ARCULF, a Gallican bishop and pilgrim-traveller, who visited the [[Levant]]
 about 680, and was the earliest Christian traveller and observer of any
 importance in the Nearer East after the rise of Islam. On his return he
 was driven by contrary winds to Britain, and so came to Iona, where he
@@ -17,7 +17,7 @@ of the Inhabited Earth, and later became one of the favourite Palestine
 wonders. Besides a valuable account of the principal sacred sites of
 Judaea, Samaria and Galilee as they existed in the 7th century, he also
 gives important information as to Alexandria and Constantinople, briefly
-describes Damascus and Tyre, the Nile and the Lipari volcanoes, and
+describes [[Damascus]] and Tyre, the Nile and the Lipari volcanoes, and
 refers to the caliph Moawiya I. (A.D. 661-680), whom he pictures as
 befriending Christians and rescuing the "sudarium" of Christ from the
 Jews. Arculf's record is especially useful from its plans, drawn from
@@ -31,7 +31,7 @@ seems to have attracted notice in Britain.
 
   Thirteen MSS, of the original Arculf-Adamnan narrative exist, and
   fully 100 of Bede's abridgment: of the former, the most important,
-  containing all the plans, are (1) Bern, Canton Library, 582, of 9th
+  containing all the plans, are (1) [[Bern]], Canton Library, 582, of 9th
   cent.; (2) Paris, National Library, Lat. 13,048, of 9th cent.; a
   third MS., London, B. Mus., Cotlon, Tib. D. V., of 8th-9th cents.,
   though damaged by fire and lacking the illustrations, is of value for
@@ -40,7 +40,7 @@ seems to have attracted notice in Britain.
   Descriptiones Terrae Sanctae_; we may also mention that of 1870, by
   Delpit, in his _Essai sur les anciens pelerinages a Jerusalem_; see
   also Delpit's remarks upon Arculf in the same work, pp. 260-304;
-  Beazley, _Dawn of Modern Geography_, i. 131-40 (1897).
+  Beazley, _Dawn of Modern [[Geography]]_, i. 131-40 (1897).
 
 ## See also
 

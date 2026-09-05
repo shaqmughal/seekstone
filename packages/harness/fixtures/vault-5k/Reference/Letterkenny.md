@@ -1,6 +1,6 @@
 # Letterkenny
 
-LETTERKENNY, a market town of Co. Donegal, Ireland, 23 m. W. by S. of
+LETTERKENNY, a market town of Co. [[Donegal]], Ireland, 23 m. W. by S. of
 Londonderry by the Londonderry and Lough Swilly and Letterkenny railway.
 Pop. (1901) 2370. It has a harbour at Port Ballyrane, 1 m. distant on
 Lough Swilly. In the market square a considerable trade in grain, flax

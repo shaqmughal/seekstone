@@ -1,17 +1,17 @@
 # Jenks
 
-JENKS, JEREMIAH WHIPPLE (1856-   ), American economist, was born in St
+JENKS, [[Jeremiah|JEREMIAH]] WHIPPLE (1856-   ), American economist, was born in St
 Clair, Michigan, on the 2nd of September 1856. He graduated at the
 university of Michigan in 1878; taught Greek, Latin and German in Mt.
 Morris College, Illinois; studied in Germany, receiving the degree of
-Ph.D. from the university of Halle in 1885; taught political science and
-English literature at Knox College, Galesburg, Ill., in 1886-1889; was
-professor of political economy and social science at Indiana State
+Ph.D. from the university of [[Halle]] in 1885; taught political science and
+English literature at [[Knox]] College, [[Galesburg]], Ill., in 1886-1889; was
+professor of political economy and social science at [[Indiana]] State
 University in 1889-1891; and was successively professor of political,
 municipal and social institutions (1891-1892), professor of political
 economy and civil and social institutions (1892-1901), and after 1901
-professor of political economy and politics at Cornell University. In
-1899-1901 he served as an expert agent of the United States industrial
+professor of political economy and politics at [[Cornell University]]. In
+1899-1901 he served as an [[Expert|expert]] agent of the United States industrial
 commission on investigation of trusts and industrial combinations in the
 United States and Europe, and contributed to vols. i., viii. and xiii.
 of this commission's report (1900 and 1901), vol. viii. being a report,
@@ -19,18 +19,18 @@ written wholly by him, on industrial combinations in Europe. In
 1901-1902 he was special commissioner of the United States war
 department on colonial administration, and wrote a _Report on Certain
 Economic Questions in the English and Dutch Colonies in the Orient_,
-published (1902) by the bureau of insular affairs; and in 1903 he was
+published (1902) by the [[Bureau|bureau]] of insular affairs; and in 1903 he was
 adviser to the Mexican ministry of finance on projected currency
 changes. In 1903-1904 he was a member of the United States commission on
-international exchange, in especial charge of the reform of currency in
+[[International|international]] [[Exchange|exchange]], in especial charge of the reform of currency in
 China; in 1905 he was special representative of the United States with
 the imperial Chinese special mission visiting the United States. In 1907
 he became a member of the United States immigration commission. Best
 known as an expert on "trusts," he has written besides on elections,
-ballot reform, proportional representation, on education (especially as
+[[Ballot|ballot]] reform, proportional representation, on education (especially as
 a training for citizenship), on legislation regarding highways, &c.
 
-  His principal published works are _Henry C. Carey als Nationalökonom_
+  His principal published works are _Henry C. [[Carey]] als Nationalökonom_
   (Halle a. S., 1885); _The Trust Problem_ (1900; revised 1903); _Great
   Fortunes_ (1906); _Citizenship and the Schools_ (1906); and
   _Principles of Politics_ (1909).
@@ -52,9 +52,9 @@ partially destroyed in 1830, covered a large area in the south-west
 portion of the city. It was built on the site of the ancient palace of
 the Songhoi kings. The architecture of many of the buildings bears a
 resemblance to Egyptian, the façades of the houses being adorned with
-great buttresses of pylonic form. There is little trace of the influence
+great [[Buttress|buttresses]] of pylonic form. There is little trace of the influence
 of Moorish or Arabian art. The buildings are mostly constructed of clay
-made into flat long bricks. Massive clay walls surround the city. The
+made into flat long [[Brick|bricks]]. Massive clay walls surround the city. The
 inhabitants are great traders and the principal merchants have
 representatives at Timbuktu and all the chief places on the Niger. The
 boats built at Jenné are famous throughout the western Sudan.
@@ -69,7 +69,7 @@ GUINEA). Subsequently, under the control of Moorish, Tuareg and Fula
 invaders, the importance of the city greatly declined. With the advent
 of the French, commerce again began to flourish.
 
-  See F. Dubois, _Tombouctou la mystérieuse_ (Paris, 1897), in which
+  See F. [[Dubois]], _Tombouctou la mystérieuse_ (Paris, 1897), in which
   several chapters are devoted to Jenné; also SONGHOI; TIMBUKTU; and
   SENEGAL.
 

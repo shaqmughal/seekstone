@@ -32,7 +32,7 @@ understood is also ungrammatical. In other words, it is contrary to the
 habit of a language, as determined by common usage and consent.
 
 In this way we can explain how it happens that the grammar of a
-cultivated dialect and that of a local dialect in the same country so
+cultivated [[Dialect|dialect]] and that of a local dialect in the same country so
 frequently disagree. Thus, in the dialect of West Somerset, _thee_ is
 the nominative of the second personal pronoun, while in cultivated
 English the plural accusative _you_ (A.-S. _eow_) has come to represent
@@ -59,11 +59,11 @@ another is to misconceive the whole nature of the latter and seriously
 to mislead the learner. Chinese grammar, for instance, can never be
 understood until we discard, not only the terminology of European
 grammar, but the very conceptions which underlie it, while the
-polysynthetic idioms of America defy all attempts to discover in them
+polysynthetic [[Idiom|idioms]] of America defy all attempts to discover in them
 "the parts of speech" and the various grammatical ideas which occupy so
 large a place in our school-grammars. The endeavour to find the
 distinctions of Latin grammar in that of English has only resulted in
-grotesque errors, and a total misapprehension of the usage of the
+[[Grotesque|grotesque]] [[Error|errors]], and a total misapprehension of the usage of the
 English language.
 
 
@@ -71,19 +71,19 @@ English language.
 
 It is to the Latin grammarians--or, more correctly, to the Greek
 grammarians, upon whose labours those of the Latin writers were
-based--that we owe the classification of the subjects with which grammar
-is commonly supposed to deal. The grammar of Dionysius Thrax, which he
+based--that we owe the [[Classification|classification]] of the subjects with which grammar
+is commonly supposed to deal. The grammar of [[Dionysius]] Thrax, which he
 wrote for Roman schoolboys in the time of Pompey, has formed the
 starting-point for the innumerable school-grammars which have since seen
 the light, and suggested that division of the matter treated of which
 they have followed. He defines grammar as a practical acquaintance with
 the language of literary men, and as divided into six parts--accentuation
-and phonology, explanation of figurative expressions, definition,
-etymology, general rules of flexion and critical canons. Of these,
+and phonology, explanation of figurative expressions, [[Definition|definition]],
+[[Etymology|etymology]], general rules of flexion and critical canons. Of these,
 phonology and accentuation, or prosody, can properly be included in
 grammar only in so far as the construction of a sentence and the
 grammatical meaning of a word are determined by accent or letter-change;
-the accentual difference in English, for example, between _incense_ and
+the accentual difference in English, for example, between _[[Incense|incense]]_ and
 _incense_ belongs to the province of grammar, since it indicates a
 difference between noun and verb; and the changes of vowel in the Semitic
 languages, by which various nominal and verbal forms are distinguished
@@ -120,7 +120,7 @@ distorted by a false theory in regard to them, while they will certainly
 not be presented in a complete form if the grammarian is ignorant of the
 true theory they presuppose. The Semitic verb, for example, remains
 unintelligible so long as the explanation of its forms is sought in the
-conjugation of the Aryan verb, since it has no tenses in the Aryan sense
+conjugation of the [[Aryan]] verb, since it has no tenses in the Aryan sense
 of the word, but denotes relation and not time.
 
 A good practical grammar of a language, therefore, should be based on a
@@ -177,12 +177,12 @@ comparative grammar, comparative grammar is to universal grammar.
 Universal grammar, as founded on the results of the scientific study of
 speech, is thus essentially different from that "universal grammar" so
 much in vogue at the beginning of the 19th century, which consisted of a
-series of a priori assumptions based on the peculiarities of European
+series of a priori [[Assumption|assumptions]] based on the peculiarities of European
 grammar and illustrated from the same source. But universal grammar, as
-conceived by modern science, is as yet in its infancy; its materials are
+conceived by modern science, is as yet in its [[Infancy|infancy]]; its materials are
 still in the process of being collected. The comparative grammar of the
 Indo-European languages is alone in an advanced state, those of the
-Semitic idioms, of the Finno-Ugrian tongues and of the Bantu dialects of
+Semitic idioms, of the [[Finno-Ugrian]] tongues and of the Bantu dialects of
 southern Africa are still in a backward condition; and the other
 families of speech existing in the world, with the exception of the
 Malayo-Polynesian and the Sonorian of North America, have not as yet
@@ -209,7 +209,7 @@ polysynthetic languages of America the sentence is conceived as a whole,
 not composed of independent words, but, like the thought which it
 expresses, one and indivisible. What we should denote by a series of
 words is consequently denoted by a single long compound--_kuligatchis_
-in Delaware, for instance, signifying "give me your pretty little paw,"
+in [[Delaware]], for instance, signifying "give me your pretty little paw,"
 and _aglekkigiartorasuarnipok_ in Eskimo, "he goes away hastily and
 exerts himself to write." Individual words can be, and often are,
 extracted from the sentence; but in this case they stand, as it were,
@@ -367,7 +367,7 @@ _through_, the Sans. _tar-ami_, "I pass over," and to have primarily
 signified "one that goes through" a thing. Thus, too, the Eng. _head_ or
 _hood_, in words like _godhead_ and _brotherhood_, is the A.-S. _had_,
 "character" or "rank"; _dom_, in kingdom, the A.-S. _dom_, "judgment";
-and _lock_ or _ledge_, in _wedlock_ and _knowledge_, the A.-S. _lac_,
+and _[[Lock|lock]]_ or _ledge_, in _wedlock_ and _knowledge_, the A.-S. _[[Lac|lac]]_,
 "sport" or "gift." In all these cases the "empty words," after first
 losing every trace of their original significance, have followed the
 general analogy of the language and assumed the form and functions of
@@ -389,7 +389,7 @@ characteristic type of the inflexional languages than is the
 Indo-European.
 
 The primitive Indo-European noun possessed at least eight
-cases--nominative, accusative, vocative, instrumental, dative, genitive,
+cases--nominative, accusative, vocative, instrumental, [[Dative|dative]], genitive,
 ablative and locative. M. Bergaigne has attempted to show that the first
 three of these, the "strong cases" as they are termed, are really
 abstracts formed by the suffixes _-as_ (_-s_), _-an, -m, -t, -i, -a_ and
@@ -457,7 +457,7 @@ stems in _i_ or _ya_ and u (like [Greek: naus] and [Greek: nekus],
 feminine. Even stems in _o_ and _a_ (of the second and first
 declensions), though the first are generally masculine and the second
 generally feminine, by no means invariably maintain the rule; and
-feminines like _humus_ and [Greek: hodos], or masculines like _advena_
+feminines like _[[Humus|humus]]_ and [Greek: hodos], or masculines like _advena_
 and [Greek: polites], show that there was a time when these stems also
 indicated no particular gender, but owed their subsequent adaptation,
 the one to mark the masculine and the other to mark the feminine, to the
@@ -565,7 +565,7 @@ have been felt at the outset between the noun and the verb. Indeed, the
 growth of the verb was a slow process. There was a time in the history
 of Indo-European speech when it had not as yet risen to the
 consciousness of the speaker, and in the period when the noun did not
-possess a plural there was as yet also no verb. The attachment of the
+possess a plural there was as yet also no verb. The [[Attachment|attachment]] of the
 first and second personal pronouns, or of suffixes resembling them, to
 certain stems, was the first stage in the development of the latter.
 Like the Semitic verb, the Indo-European verb seems primarily to have
@@ -577,7 +577,7 @@ symbolized by a distinction of pronunciation, the root-syllable of the
 aorist being an abbreviated form of that of the present. This
 abbreviation was due to a change in the position of the accent (which
 was shifted from the stem-syllable to the termination), and this change
-again was probably occasioned by the prefixing of the so-called augment
+again was probably occasioned by the prefixing of the so-called [[Augment|augment]]
 to the aorist, which survived into historical times only in Sanskrit,
 Zend and Greek, and the origin of which is still a mystery. The weight
 of the first syllable in the aorist further caused the person-endings to
@@ -616,7 +616,7 @@ large class of adjectives and genitives (like the Greek [Greek: hippoio]
 for [Greek: hipposio]); in this case future time will have been regarded
 as an attribute of the subject, no distinction being drawn, for
 instance, between "rising sun" and "the sun will rise." It is possible,
-however, that the auxiliary verb _as_, "to be," enters into the
+however, that the [[Auxiliary|auxiliary]] verb _as_, "to be," enters into the
 composition of the future; if so, the future will be the product of the
 second stage in the development of the Indo-European verb when new forms
 were created by means of composition. The sigmatic or first aorist is in
@@ -637,7 +637,7 @@ from nouns whose stems terminated in the suffixes in question. Thus in
 Greek we have aorists and perfects in [Greek: -ka], and the
 characteristics of the two passive aorists, _ye_ and _the_, are more
 probably the suffixes of nominal stems than the roots of the two verbs
-_ya_, "to go," and _dha_, "to place," as Bopp supposed. How late some of
+_ya_, "to go," and _dha_, "to place," as [[Bopp]] supposed. How late some of
 these new formations were may be seen in Greek, where the Homeric poems
 are still ignorant of the weak future passive, the optative future, and
 the aspirated perfect, and where the strong future passive occurs but
@@ -668,7 +668,7 @@ after that which defines it; and Bergaigne has made it clear that the
 original order of the sentence was (1) object, (2) verb, and (3)
 subject. Greater complication of thought and its expression, the
 connexion of sentences by the aid of conjunctions, and rhetorical
-inversion caused that dislocation of the original order of the sentence
+[[Inversion|inversion]] caused that dislocation of the original order of the sentence
 which reaches its culminating point in the involved periods of Latin
 literature. Our own language still remains true, however, to the syntax
 of the parent Indo-European when it sets both adjective and genitive
@@ -679,7 +679,7 @@ placing the predicate in opposition to the subject and accordingly after
 it. The opposition was of itself sufficient to indicate the logical
 copula or substantive verb; indeed, the word which afterwards commonly
 stood for the latter at first signified "existence," and it was only
-through the wear and tear of time that a phrase like _Deus bonus est_,
+through the wear and tear of time that a phrase like _[[Deus]] bonus est_,
 "God exists as good," came to mean simply "God is good." It is needless
 to observe that neither of the two articles was known to the parent
 Indo-European; indeed, the definite article, which is merely a decayed
@@ -708,7 +708,7 @@ of forms. To speak of an adjective "agreeing" with its substantive is as
 misleading as to speak of a verb "governing" a case. In fact, the
 distinction between noun and adjective is inapplicable to English
 grammar, and should be replaced by a distinction between objective and
-attributive words. In a phrase like "this is a cannon," _cannon_ is
+attributive words. In a phrase like "this is a [[Cannon|cannon]]," _cannon_ is
 objective; in a phrase like "a cannon-ball," it is attributive; and to
 call it a substantive in the one case and an adjective in the other is
 only to introduce confusion. With the exception of the nominative, the
@@ -724,7 +724,7 @@ influence of classical grammar. The combination of noun or pronoun and
 preposition results in a compound attribute. As for the verb, Sweet has
 well said that "the really characteristic feature of the English finite
 verb is its inability to stand alone without a pronominal prefix." Thus
-"dream" by itself is a noun; "I dream" is a verb. The place of the
+"[[Dream|dream]]" by itself is a noun; "I dream" is a verb. The place of the
 pronominal prefix may be taken by a noun, though both poetry and vulgar
 English frequently insert the pronoun even when the noun precedes. The
 number of inflected verbal forms is but small, being confined to the
@@ -734,7 +734,7 @@ belonging to the province of the lexicographer rather than to that of
 the grammarian. The inflected subjunctive (_be, were, save_ in "God save
 the King," &c.) is rapidly disappearing. New inflected forms, however,
 are coming into existence; at all events, we have as good a right to
-consider _wont, shant, cant_ new inflected forms as the French _aimerai
+consider _wont, shant, [[Cant|cant]]_ new inflected forms as the French _aimerai
 (amare habeo), aimerais (amare habebam)_. If the ordinary grammars are
 correct in treating forms like "I am loving," "I was loving," "I did
 love," as separate tenses, they are strangely inconsistent in omitting
@@ -753,7 +753,7 @@ Rome. The necessities of rhetoric obliged the Sophists to investigate
 the structure of the Greek language, and to them was accordingly due the
 first analysis of Greek grammar. Protagoras distinguished the three
 genders and the verbal moods, while Prodicus busied himself with the
-definition of synonyms. Aristotle, taking the side of Democritus, who
+definition of synonyms. [[Aristotle]], taking the side of Democritus, who
 had held that the meaning of words is put into them by the speaker, and
 that there is no necessary connexion between sound and sense, laid down
 that words "symbolize" objects according to the will of those who use
@@ -769,15 +769,15 @@ particles, determined a fifth part of speech, [Greek: pandektes] or
 "adverb," confined the term "case" to the flexions of the nouns,
 distinguishing the four principal cases by names, and divided the verb
 into its tenses, moods and classes. Meanwhile the Alexandrian critics
-were studying the language of Homer and the Attic writers, and comparing
+were studying the language of [[Homer]] and the [[Attic]] writers, and comparing
 it with the language of their own day, the result being a minute
 examination of the facts and rules of grammar. Two schools of
-grammarians sprang up--the Analogists, headed by Aristarchus, who held
+grammarians sprang up--the Analogists, headed by [[Aristarchus]], who held
 that a strict law of analogy existed between idea and word, and refused
 to admit exceptions to the grammatical rules they laid down, and the
 Anomalists, who denied general rules of any kind, except in so far as
 they were consecrated by custom. Foremost among the Anomalists was
-Crates of Mallos, the leader of the Pergamenian school, to whom we owe
+[[Crates]] of Mallos, the leader of the Pergamenian school, to whom we owe
 the first formal Greek grammar and collection of the grammatical facts
 obtained by the labours of the Alexandrian critics, as well as an
 attempt to reform Greek orthography. The immediate cause of this grammar
@@ -795,7 +795,7 @@ perpetuated to our own day. Thus _tenues_ is a mistranslation of the
 object"; _infinitivus_ of [Greek: aparemphatos], "without a secondary
 meaning" of tense or person. New names were coined to denote forms
 possessed by Latin and not by Greek; _ablative_, for instance, was
-invented by Julius Caesar, who also wrote a treatise _De analogia_. By
+invented by [[Julius]] [[Caesar]], who also wrote a treatise _De analogia_. By
 the 2nd century of the Christian era the dispute between the Anomalists
 and the Analogists was finally settled, analogy being recognized as the
 principle that underlies language, though every rule admits of
@@ -841,16 +841,16 @@ and then breaking up this expression into its several elements.
   Pezzi, _Aryan Philology according to the most recent Researches_,
   translated by E. S. Roberts (London, 1879); Sayce, _Introduction to
   the Science of Language_ (London, 1879); Lersch, _Die
-  Sprachphilosophie der Alten_ (Bonn, 1838-1841); Steinthal, _Geschichte
+  Sprachphilosophie der Alten_ ([[Bonn]], 1838-1841); Steinthal, _Geschichte
   der Sprachwissenschaft bei den Griechen und Romern mit besonderer
   Rucksicht auf die Logik_ (Berlin, 1863, 2nd ed. 1890); Delbruck,
   _Ablativ localis instrumentalis im Altindischen, Lateinischen,
-  Griechischen, und Deutschen_ (Berlin, 1864); Jolly, _Ein Kapitel
+  Griechischen, und Deutschen_ (Berlin, 1864); [[Jolly]], _Ein Kapitel
   vergleichender Syntax_ (Munich, 1873); Hubschmann, _Zur Casuslehre_
   (Munich, 1875); Holzweissig, _Wahrheit und Irrthum der localistischen
   Casustheorie_ (Leipzig, 1877); Draeger, _Historische Syntax der
   lateinischen Sprache_ (Leipzig, 1874-1876); Sweet, _Words, Logic, and
-  Grammar_ (London, 1876); P. Giles, _Manual of Comp. Philology_ (1901);
+  Grammar_ (London, 1876); P. [[Giles]], _[[Manual]] of Comp. Philology_ (1901);
   C. Abel, _Agypt.-indo-eur. Sprachverwandschaft_ (1903); Brugmann and
   Delbruck, _Grundriss d. vergl. Gram. d. indogerm. Spr._ (1886-1900);
   Fritz Mauthner, _Beitrage zu einer Kritik der Sprache_ vol. iii.

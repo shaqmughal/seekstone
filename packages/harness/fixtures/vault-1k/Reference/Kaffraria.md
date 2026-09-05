@@ -112,7 +112,7 @@ Keiskamma River. The region east of that river as far as the Kei River
 became in 1847 the Crown colony of British Kaffraria, and was annexed to
 Cape Colony in 1865. The Transkeian territories remained in nominal
 independence until 1875, when the Tembu sought British protection. An
-inter-tribal war in 1877 between Fingo and Gcaleka resulted in the
+inter-tribal war in 1877 between [[Fingo]] and Gcaleka resulted in the
 territory of the Gcaleka chief Kreli being occupied by the British. It
 was not, however, till 1879 that Fingoland and the Idutywa Reserve,
 together with the district then commonly called Noman's-land, were

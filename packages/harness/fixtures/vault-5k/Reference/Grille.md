@@ -11,13 +11,13 @@ windows of mansions not only in Spain but in Italy and Germany. In
 England the most beautiful example is that in front of Queen Eleanor's
 tomb in Westminster Abbey, in wrought iron. The finest grilles in Italy
 are the enclosures of the tombs of the Della Scalas at Verona (end of
-13th century), in Germany the grille of the cenotaph of Maximilian at
-Innsbruck (early 16th century) and in France those which enclose the
+13th century), in Germany the grille of the cenotaph of [[Maximilian]] at
+[[Innsbruck]] (early 16th century) and in France those which enclose the
 Place Stanislaus, the Place de la Carriere and the churches of Nancy,
 which were wrought by Jean Lamour in the middle of the 18th century.
 Generally, however, throughout Germany the wrought iron grilles are fine
 examples of forging, and they are employed for the enclosures of the
-numerous fountains, in the tympana of gateways, and for the protection
+numerous [[Fountain|fountains]], in the tympana of gateways, and for the protection
 of windows. At Danzig in the Marienkirche are some fine examples in
 brass.
 

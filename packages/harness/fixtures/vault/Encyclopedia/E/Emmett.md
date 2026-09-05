@@ -7,7 +7,7 @@ type: source
 
 # Emmett
 
-EMMETT, DANIEL DECATUR (1815-1904), American songwriter, was born at
+EMMETT, [[Daniel|DANIEL]] [[Decatur|DECATUR]] (1815-1904), American songwriter, was born at
 Mount Vernon, Ohio. He started the "negro minstrel" performances, which
 from 1842 onwards became so popular in America and England, and he
 composed a number of songs which had a great temporary vogue. He is

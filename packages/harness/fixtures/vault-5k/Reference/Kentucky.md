@@ -8,7 +8,7 @@ topic: geography
 
 KENTUCKY, a South Central State of the United States of America,
 situated between 36° 30´ and 39° 6´ N., and 82° and 89° 38´ W. It is
-bounded N., N.W., and N.E. by Illinois, Indiana and Ohio; E. by the Big
+bounded N., N.W., and N.E. by Illinois, [[Indiana]] and Ohio; E. by the Big
 Sandy river and its E. fork, the Tug, which separates it from West
 Virginia, and by Virginia; S.E. and S. by Virginia and Tennessee; and W.
 by the Mississippi river, which separates it from Missouri. It has an
@@ -22,7 +22,7 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   more level lowland at the western extremity. The narrow mountain belt
   is part of the western edge of the Appalachian Mountain Province in
   which parallel ridges of folded mountains, the Cumberland and the
-  Pine, have crests 2000-3000 ft. high, and the Big Black Mountain rises
+  Pine, have crests 2000-3000 ft. high, and the Big [[Black Mountain]] rises
   to 4000 ft. The highest point in the state is The Double on the
   Virginia state line, in the eastern part of Harlan county with an
   altitude of over 4100 ft. The entire eastern quarter of the state,
@@ -45,8 +45,8 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   Plateau; a peculiar feature of the southern portion of it is the
   numerous circular depressions (sink holes) in the surface and the
   cavernous region beneath. Kentucky is noted for its caves, the
-  best-known of which are Mammoth Cave and Colossal Cavern (qq.v.). The
-  caves are cut in the beds of limestone (lying immediately below the
+  best-known of which are Mammoth Cave and [[Colossal Cavern]] (qq.v.). The
+  caves are cut in the beds of [[Limestone|limestone]] (lying immediately below the
   coal-bearing series) by streams that pass beneath the surface in the
   "sink holes," and according to Professor N. S. Shaler there are
   altogether "doubtless a hundred thousand miles of ways large enough to
@@ -61,7 +61,7 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   in particular, the blue-grass (_Poa compressa_ and _Poa pratensis_)
   spreads a mat, green, thick, fine and soft, over much of the country,
   and it is a good winter pasture; about the middle of June it blooms,
-  and, owing to the hue of its seed vessels, gives the landscape a
+  and, owing to the [[Hue|hue]] of its seed vessels, gives the landscape a
   bluish hue. Another lowland area embraces that small part of the state
   in the extreme south-east which lies west of the Tennessee river; this
   belongs to that part of the Coastal Plain Region which extends north
@@ -88,17 +88,17 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   bears, panthers, lynx, wolves, foxes, beavers, otters, minks,
   musk-rats, rabbits, squirrels, raccoons, woodchucks, opossums and
   skunks, and the streams were inhabited by trout, perch,
-  buffalo-fish, sun-fish, mullet, eels, and suckers. Of the larger game
+  buffalo-fish, sun-fish, mullet, eels, and suckers. Of the larger [[Game|game]]
   there remain only a few deer, bears and lynx in the mountain
   districts, and the numbers of small game and fish have been greatly
   reduced. In its primeval state Kentucky was generally well timbered,
   but most of the middle section has been cleared and here the blue
   grass is now the dominant feature of the flora. Extensive forest areas
-  still remain both in the east and the west. In the east oak, maple,
-  beech, chestnut, elm, tulip-tree (locally "yellow poplar"), walnut,
+  still remain both in the east and the west. In the east oak, [[Maple|maple]],
+  beech, chestnut, [[Elm|elm]], tulip-tree (locally "yellow poplar"), walnut,
   pine and cedar trees are the most numerous; in the west the forests
-  are composed largely of cypress, ash, oak, hickory, chestnut, walnut,
-  beech, tulip-tree, gum and sycamore trees. Locust, pawpaw, cucumber,
+  are composed largely of [[Cypress|cypress]], ash, oak, hickory, chestnut, walnut,
+  beech, tulip-tree, [[Gum|gum]] and sycamore trees. Locust, pawpaw, cucumber,
   buck-eye, black mulberry and wild cherry trees also abound, and the
   grape, raspberry and strawberry are native fruits.
 
@@ -145,12 +145,12 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   155,189 contained less than 100 acres, 76,450 contained between 100
   and 500 acres, and 558 contained more than 1000 acres; 152,216 or
   64.86%, were operated by owners or part owners, of whom 5320 were
-  negroes; 16,776 by cash tenants, of whom 789 were negroes; and 60,289
+  negroes; 16,776 by [[Cash|cash]] tenants, of whom 789 were negroes; and 60,289
   by share tenants, of whom 4984 were negroes. In 1900 the value of farm
   land and improvements was $291,117,430; of buildings on farms,
   $90,887,460; of livestock, $73,739,106. In the year 1899 the value of
   all farm products was $123,266,785 (of which $21,128,530 was the value
-  of products fed to livestock), including the following items: crops,
+  of products fed to livestock), including the following [[Item|items]]: crops,
   $74,783,365; animal products, $44,303,940; and forest products,
   $4,179,840. The total acreage of all crops in 1899 was 6,582,696.
   Indian corn is the largest and most valuable crop. As late as 1849,
@@ -183,7 +183,7 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   in 1899 to 10.6 cents in 1909. The two most important tobacco-growing
   districts are: the Black Patch, in the extreme south-west corner of
   the state, which with the adjacent counties in Tennessee grows a black
-  heavy leaf bought almost entirely by the agents of foreign governments
+  heavy [[Leaf|leaf]] bought almost entirely by the agents of foreign governments
   (especially Austria, Spain and Italy) and called "regie" tobacco; and
   the Blue Grass Region, as far east as Maysville, and the hill country
   south and east, whose product, the red and white Burley, is a
@@ -246,7 +246,7 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   valued at $468,454, was 87.7% of the hemp crop of the whole country.
   But the competition of cheaper labour in other countries reduced the
   profits on this plant and the product of 1899 was a decrease from
-  78,818,000 lb. in 1859. Hay and forage, the fourth in value of the
+  78,818,000 lb. in 1859. [[Hay]] and forage, the fourth in value of the
   state's crops in 1899, were grown on 683,139 acres and amounted to
   776,534 tons, valued at $6,100,647; in 1909 the acreage of hay was
   480,000 and the crop of 653,000 tons was valued at $7,771,000. In 1899
@@ -342,7 +342,7 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   product values in 1900 and in 1905, are iron and steel ($5,004,572 in
   1900; $6,167,542 in 1905); railway cars ($4,248,029 in 1900;
   $5,739,071 in 1905); packed meats ($5,177,167 in 1900; $5,693,731 in
-  1905); foundry and machine shop products ($4,434,610 in 1900;
+  1905); foundry and [[Machine|machine]] shop products ($4,434,610 in 1900;
   $4,699,559 in 1905); planing mill products, including sash, doors and
   blinds ($1,891,517 in 1900; $4,593,251 in 1905--an increase already
   remarked); carriages and wagons ($2,849,713 in 1900; $4,059,438 in
@@ -351,9 +351,9 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   Other important manufactures (each with a product value in 1905 of
   more than one million dollars) were cotton-seed oil and cake (in 1900
   Kentucky was fifth and in 1905 sixth among the states in the value of
-  cotton-seed oil and cake), cooperage, agricultural implements, boots
-  and shoes, cigars and cigarettes, saddlery and harness, patent
-  medicines and compounds, cotton goods, furniture, confectionery,
+  cotton-seed oil and cake), cooperage, agricultural [[Implement|implements]], boots
+  and shoes, [[Cigar|cigars]] and cigarettes, saddlery and [[Harness|harness]], patent
+  medicines and [[Compound|compounds]], cotton goods, furniture, confectionery,
   carriage and wagon materials, wooden packing boxes, woollen goods,
   pottery and terra cotta ware, structural iron-work, and turned and
   carved wood. Louisville is the great manufacturing centre, the value
@@ -372,8 +372,8 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   amounted to 10,753,124 short tons, and in 1902 to 6,766,984 short tons
   as compared with 2,399,755 tons produced in 1889. In 1902 the amount
   was about equally divided between the eastern coalfield, which is for
-  the most part in Greenup, Boyd, Carter, Lawrence, Johnson, Lee,
-  Breathitt, Rockcastle, Pulaski, Laurel, Knox, Bell and Whitley
+  the most part in Greenup, Boyd, [[Carter]], Lawrence, Johnson, Lee,
+  Breathitt, Rockcastle, Pulaski, Laurel, [[Knox]], Bell and Whitley
   counties, and has an area of about 11,180 sq. m., and the western
   coalfield, which is in Henderson, Union, Webster, Daviess, Hancock,
   McLean, Ohio, Hopkins, Butler, Muhlenberg and Christian counties, and
@@ -405,10 +405,10 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   to 6000 tons; in 1840 it was 23,527 tons and in 1860 it was 285,760
   tons.
 
-  Petroleum was discovered on Little Rennick's Creek, near Burkesville,
+  Petroleum was discovered on Little Rennick's [[Creek]], near Burkesville,
   in Cumberland county, in 1829, when a flowing oil well (the "American
   well," whose product was sold as "American oil" to heal rheumatism,
-  burns, &c.) was struck by men boring for a "salt well," and after a
+  [[Burns|burns]], &c.) was struck by men boring for a "salt well," and after a
   second discovery in the 'sixties at the mouth of Crocus Creek a small
   but steady amount of oil was got each year. Great pipe lines from
   Parkersburg, West Virginia, to Somerset, Pulaski county, and with
@@ -417,11 +417,11 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   tier," from Wayne to Allen county, including Barren county; farther
   east, Knox county, and Floyd and Knott counties; to the north-east the
   Ragland field in Bath and Rowan counties on the Licking river. In 1902
-  the petroleum produced in the state amounted to 248,950 barrels,
+  the petroleum produced in the state amounted to 248,950 [[Barrel|barrels]],
   valued at $172,837, a gain in quantity of 81.4% over 1901. Kentucky is
   the S.W. extreme of the natural gas region of the west flank of the
   Appalachian system; the greatest amount is found in Martin county in
-  the east, and Breckinridge county in the north-west. The value of the
+  the east, and [[Breckinridge]] county in the north-west. The value of the
   state's natural gas output increased from $38,993 in 1891 to $99,000
   in 1896, $286,243 in 1900, $365,611 in 1902, and $380,176 in 1907.
 
@@ -433,19 +433,19 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   only 35,000 tons were mined, valued at the mines at $35,000.
 
   In 1898 there began an increased activity in the mining of fluorspar,
-  and Crittenden, Fayette and Livingston counties produced in 1902,
+  and [[Crittenden]], Fayette and [[Livingston]] counties produced in 1902,
   29,030 tons (valued at $143,410) of this mineral, in 1903 30,835 tons
   (valued at $153,960) and in 1904 19,096 tons (valued at $111,499),
   amounts (and values) exceeding those produced in any other state for
   these years; but in 1907 the quantity (21,058 tons) was less than the
   output of Illinois. Lead and zinc are mined in small quantities near
-  Marion in Crittenden county and elsewhere in connexion with mining for
+  [[Marion]] in Crittenden county and elsewhere in connexion with mining for
   fluorspar; in 1907 the output was 75 tons of lead valued at $7950 and
-  358 tons of zinc valued at $42,244. Jefferson, Jessamine, Warren,
+  358 tons of zinc valued at $42,244. [[Jefferson]], Jessamine, Warren,
   Grayson and Caldwell counties have valuable quarries of an excellent
-  light-coloured öolitic limestone, resembling the Bedford limestone of
+  light-coloured öolitic limestone, resembling the [[Bedford]] limestone of
   Indiana, and best known under the name of the finest variety, the
-  "Bowling Green stone" of Warren county; and sandstones good for
+  "[[Bowling Green]] stone" of Warren county; and sandstones good for
   structural purposes are found in both coal regions, and especially in
   Rowan county. In 1907 the total value of limestone quarried in the
   state was $891,500, and of all stone, $1,002,450. Fire and pottery
@@ -477,9 +477,9 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   hundred million of years ago the rocks of Kentucky were laid down." To
   these springs in prehistoric and historic times came annually great
   numbers of animals for salt, and in the marshes and swamps around some
-  of them, especially Big Bone Lick (in Boone county, about 20 m. S.W.
+  of them, especially Big [[Bone]] Lick (in Boone county, about 20 m. S.W.
   of Cincinnati) have been found many bones of extinct mammals, such as
-  the mastodon and the long-legged bison.[3] The early settlers and the
+  the [[Mastodon|mastodon]] and the long-legged bison.[3] The early settlers and the
   Indians came to the springs to shoot large game for food, and by
   boiling the waters the settlers obtained valuable supplies of salt.
   Several of the Kentucky springs have been somewhat frequented as
@@ -493,11 +493,11 @@ of the Ohio river, over which it has jurisdiction, are water surface.
 
   Pearls are found in the state, especially in the Cumberland River, and
   it is supposed that there are diamonds in the kimberlite deposits in
-  Elliott county.
+  [[Elliott]] county.
 
   _Transportation._--Kentucky in 1909 had 3,503.98 m. of railway.
   Railway building was begun in the state in 1830, and in 1835 the first
-  train drawn by a steam locomotive ran from Lexington to Franklin, a
+  train drawn by a steam locomotive ran from Lexington to [[Franklin]], a
   distance of 27 m. Not until 1851 was the line completed to Louisville.
   Kentucky's trade during the greater part of the 19th century was very
   largely with the South, and with the facilities which river navigation
@@ -506,7 +506,7 @@ of the Ohio river, over which it has jurisdiction, are water surface.
   the next ten years it increased to 2,942, and railways were in
   considerable measure substituted for water craft. The principal lines
   are the Louisville & Nashville, the Chesapeake & Ohio, the Illinois
-  Central, and the Cincinnati Southern (Queen & Crescent route). Most of
+  Central, and the Cincinnati Southern (Queen & [[Crescent]] route). Most of
   the lines run south or south-west from Cincinnati and Louisville, and
   the east border of the state still has a small railway mileage and
   practically no wagon roads, most of the travel being on horseback. The
@@ -536,9 +536,9 @@ barriers of nature, separated them from the other inhabitants of the
 state. In their speech several hundred words persist which elsewhere
 have been obsolete for three centuries or occur only in dialects in
 England. Their life is still in many respects very primitive; their
-houses are generally built of logs, their clothes are often of homespun,
+houses are generally built of [[Log|logs]], their clothes are often of homespun,
 Indian corn and ham form a large part of their diet, and their means of
-transportation are the saddle-horse and sleds and wheeled carts drawn by
+transportation are the saddle-horse and sleds and wheeled [[Cart|carts]] drawn by
 oxen or mules. In instincts and in character, also, the typical
 "mountaineers" are to a marked degree primitive; they are, for the most
 part, very ignorant; they are primitively hospitable and are
@@ -552,7 +552,7 @@ appears particularly in their attitude toward revenue officers sent to
 discover and close illicit stills for the distilling from Indian corn of
 so-called "moon-shine" whisky (consisting largely of pure alcohol). The
 taking of life and "moon-shining," however, have become less and less
-frequent among them, and Berea College, at Berea, the Lincoln Memorial
+frequent among them, and [[Berea]] College, at Berea, the Lincoln Memorial
 University, and other schools in Kentucky and adjoining states have done
 much to educate them and bring them more in harmony with the outside
 community.
@@ -567,7 +567,7 @@ community.
   In 1910 the following cities each had a population of more than 5000.
   Louisville (223,928), Covington (53,270), Lexington (35,099), Newport
   (30,309), Paducah (22,760), Owensboro (16,011), Henderson (11,452),
-  Frankfort, the capital (10,465), Hopkinsville (9419), Bowling Green
+  [[Frankfort]], the capital (10,465), Hopkinsville (9419), Bowling Green
   (9173), Ashland (8688), Middlesboro (7305), Winchester (7156), Dayton
   (6979), Bellevue (6683), Maysville (6141), Mayfield (5916), Paris
   (5859), Danville (5420), Richmond (5340). Of historical interest are
@@ -580,14 +580,14 @@ community.
   inventor, who built his first boat here. The Nazareth Literary and
   Benevolent Institution, at Nazareth (2 m. N. of Bardstown), was
   founded in 1829 and is a well-known Roman Catholic school for girls.
-  Boonesborough, founded by Daniel Boone in 1775, in what is now Madison
+  Boonesborough, founded by [[Daniel]] Boone in 1775, in what is now [[Madison]]
   county, long ago ceased to exist, though a railway station named
   Boone, on the Louisville & Nashville railroad, is near the site of the
   old settlement.
 
   In 1906 there were 858,324 communicants of different religious
-  denominations in the state, including 311,583 Baptists, 165,908 Roman
-  Catholics, 156,007 Methodists, 136,110 Disciples of Christ, 47,822
+  [[Denomination|denominations]] in the state, including 311,583 [[Baptists]], 165,908 Roman
+  Catholics, 156,007 Methodists, 136,110 [[Disciples Of Christ|Disciples of Christ]], 47,822
   Presbyterians and 8091 Protestant Episcopalians.
 
 _Administration._--Kentucky is governed under a constitution adopted in
@@ -609,7 +609,7 @@ if not chartered in the state, their right to carry on business in the
 state. The executive is composed of a governor, a lieutenant-governor, a
 treasurer, an auditor of public accounts, a register of the land office,
 a commissioner of agriculture, labour, and statistics, a secretary of
-state, an attorney-general and a superintendent of public instruction.
+state, an [[Attorney-General|attorney-general]] and a superintendent of public instruction.
 All are chosen by popular vote for four years and are ineligible for
 immediate re-election, and each must be at least 30 years of age and
 must have been a resident citizen of the state for two years next
@@ -658,24 +658,24 @@ inhibition on successive terms did not apply in such a case.
   five to seven judges (seven in 1909), elected, one from each appellate
   district, for a term of eight years. The senior judge presides as
   chief justice and in case two or more have served the same length of
-  time one of them is chosen by lot. The governor may for any reasonable
+  time one of them is chosen by [[Lot|lot]]. The governor may for any reasonable
   cause remove judges on the address of two-thirds of each house of the
   legislature. The counties are grouped into judicial circuits, those
   containing a population of more than 150,000 constituting separate
   districts; each district has a judge and a commonwealth's attorney.
   The county officials are the judge, clerk, attorney, sheriff, jailor,
-  coroner, surveyor and assessor, elected for four years. Each county
+  [[Coroner|coroner]], surveyor and [[Assessor|assessor]], elected for four years. Each county
   contains from three to eight justice of the peace districts. The
   financial board of the county is composed of the county judge and the
   justices of the peace, or of the county judge and three commissioners
   elected on a general ticket.
 
   The municipalities are divided into six classes according to
-  population, a classification which permits considerable special local
+  population, a [[Classification|classification]] which permits considerable special local
   legislation in spite of the constitutional inhibition. Marriages
   between whites and persons of negro descent are prohibited by law, and
   a marriage of insane persons is legally void. Among causes for
-  absolute divorce are adultery, desertion for one year, habitual
+  absolute divorce are adultery, [[Desertion|desertion]] for one year, habitual
   drunkenness for one year, cruelty, ungovernable temper, physical
   incapacity at time of marriage, and the joining by either party of any
   religious sect which regards marriage as unlawful. A homestead law
@@ -704,7 +704,7 @@ inhibition on successive terms did not apply in such a case.
   the governor. There are a deaf and dumb institution at Danville
   (1823), an institution for the blind at Louisville (1842), and an
   institution for the education of feeble-minded children at Frankfort
-  (1860). The Eastern Lunatic Asylum at Lexington, established in 1815
+  (1860). The Eastern Lunatic [[Asylum]] at Lexington, established in 1815
   as a private institution, came under the control of the state in 1824.
   The Central Lunatic Asylum at Anchorage, founded in 1869 as a house of
   refuge for young criminals, became an asylum in 1873. The Western
@@ -723,7 +723,7 @@ inhibition on successive terms did not apply in such a case.
   payment of teachers, who have consequently been underpaid. The rural
   teachers, however, have been paid from the state fund, so that the
   poorer districts receive aid from the richer districts of the
-  commonwealth. The rural schools are supervised by a superintendent in
+  [[Commonwealth|commonwealth]]. The rural schools are supervised by a superintendent in
   each county. Throughout the state white and negro children are taught
   in separate schools. The state makes provision for revenue for school
   purposes as follows: (1) the interest on the Bond of the Commonwealth
@@ -797,7 +797,7 @@ inhibition on successive terms did not apply in such a case.
   district, at Bowling Green. Under the law establishing State Normal
   Schools, each county is entitled to one or more appointments of
   scholarships, one annually for every 500 white school children listed
-  in the last school census. A Kentucky Normal and Industrial School
+  in the last school census. A Kentucky Normal and [[Industrial School]]
   (1886) for negroes is maintained at Frankfort. Among the private and
   denominational colleges in Kentucky are Central University
   (Presbyterian), at Danville; Transylvania University, at Lexington;
@@ -843,7 +843,7 @@ notable feature of American history since the close of the Seven Years'
 War (1763). Kentucky was the first settlement in this movement, the
 first state west of the Alleghany Mountains admitted into the Union. In
 1763 the Kentucky country was claimed by the Cherokees as a part of
-their hunting grounds, by the Six Nations (Iroquois) as a part of their
+their [[Hunting|hunting]] grounds, by the Six Nations (Iroquois) as a part of their
 western conquests, and by Virginia as a part of the territory granted to
 her by her charter of 1609, although it was actually inhabited only by a
 few Chickasaws near the Mississippi river and by a small tribe of
@@ -921,7 +921,7 @@ separation from Virginia, but also from the United States, and for the
 formation of a close alliance with the Spanish at New Orleans. Although
 most of the settlers were too loyal to be led into any such plot they
 generally agreed that it might have a good effect by bringing pressure
-to bear upon the Federal government. Congress passed a preliminary act
+to bear upon the [[Federal Government|Federal government]]. Congress passed a preliminary act
 in February 1791, and the state was formally admitted into the Union on
 the 1st of June 1792. In the Act of 1776 for dividing Fincastle county,
 Virginia, the ridge of the Cumberland Mountains was named as a part of
@@ -931,7 +931,7 @@ of the boundary between the states of Virginia and Kentucky they, in
 ridge. A dispute with Tennessee over the southern boundary was settled
 in a similar manner in 1820.[8] The constitution of 1792 provided for
 manhood suffrage and for the election of the governor and of senators by
-an electoral college. General Isaac Shelby was the first governor. The
+an electoral college. General [[Isaac]] Shelby was the first governor. The
 people still continued to have troubles with the Indians and with the
 Spanish at New Orleans. The Federal government was slow to act, but its
 action when taken was effective. The power of the Indians was overthrown
@@ -939,7 +939,7 @@ by General Anthony Wayne's victory in the battle of Fallen Timbers,
 fought the 20th of August 1794 near the rapids of the Maumee river a few
 miles above the site of Toledo, Ohio; and the Mississippi question was
 settled temporarily by the treaty of 1795 and permanently by the
-purchase of Louisiana in 1803. In 1798-1799 the legislature passed the
+purchase of [[Louisiana]] in 1803. In 1798-1799 the legislature passed the
 famous Kentucky Resolutions in protest against the alien and sedition
 acts.
 
@@ -1032,7 +1032,7 @@ were drawn toward the South by their interest in slavery and by their
 social relations, and toward the North by business ties and by a
 national sentiment which was fostered by the Clay traditions. They
 naturally assumed the leadership in the Constitutional Union movement of
-1860, casting the vote of the state for Bell and Everett. After the
+1860, casting the vote of the state for Bell and [[Everett]]. After the
 election of President Lincoln they also led in the movement to secure
 the adoption of the Crittenden Compromise or some other peaceful
 solution of the difficulties between the North and the South.
@@ -1044,7 +1044,7 @@ of Federal and inter-state relations of Kentucky;" later too, in reply
 to the president's call for volunteers, he declared, "Kentucky will
 furnish no troops for the wicked purpose of subduing her sister Southern
 States." Under these conditions the Unionists asked only for the
-maintenance of neutrality, and a resolution to this effect was carried
+[[Maintenance|maintenance]] of neutrality, and a resolution to this effect was carried
 by a bare majority--48 to 47. Some of the secessionists took this as a
 defeat and left the state immediately to join the Confederate ranks. In
 the next month there was an election of congressmen, and an
@@ -1076,7 +1076,7 @@ London, Laurel county, and on the 19th of January 1862, in an engagement
 near Mill Springs, Wayne county, with about an equal force under General
 George H. Thomas, he was killed and his force was utterly routed. In
 1862 General Braxton Bragg in command of the Confederates in eastern
-Tennessee, eluded General Don Carlos Buell, in command of the Federal
+Tennessee, eluded General Don Carlos [[Buell]], in command of the Federal
 Army of the Ohio stationed there, and entering Kentucky in August 1862
 proceeded slowly toward Louisville, hoping to win the state to the
 Confederate cause and gain recruits for the Confederacy in the state.
@@ -1138,16 +1138,16 @@ Republicans again elected their candidate for governor.
   William Owsley                           "         1844-1848
   John J. Crittenden[+]                    "         1848-1850
   John L. Helm[+]                      Democrat      1850-1851
-  Lazarus W. Powell                        "         1851-1855
+  [[Lazarus]] W. Powell                        "         1851-1855
   Charles S. Morehead                  American      1855-1859
   Beriah Magoffin                      Democrat      1859-1862
   James F. Robinson                        "         1862-1863
   Thomas E. Bramlette                      "         1863-1867
   John L. Helm*                            "         1867
   John W. Stevenson[++]                    "         1867-1871
-  Preston H. Leslie[++]                    "         1871-1875
+  Preston H. [[Leslie]][++]                    "         1871-1875
   James B. McCreary                        "         1875-1879
-  Luke P. Blackburn                        "         1879-1883
+  [[Luke]] P. Blackburn                        "         1879-1883
   J. Proctor Knott                         "         1883-1887
   Simon B. Buckner                         "         1887-1891
   John Y. Brown                            "         1891-1895
@@ -1175,17 +1175,17 @@ Republicans again elected their candidate for governor.
   _Biennial Reports of the Bureau of Agriculture, Labor and Statistics_,
   the _Reports_ of the United States Census and various publications of
   the U.S. Geological Survey, and other publications listed in Bulletin
-  301 (_Bibliography and Index of North American Geology_ for 1901-1905)
+  301 (_Bibliography and [[Index]] of North American Geology_ for 1901-1905)
   and other bibliographies of the Survey. For an early description, see
   Gilbert Imlay, _A Topographical Description of the Western Territory
   of North America_ (London, 3rd ed., 1797), in which John Filson's
   "Discovery, Settlement and Present State of Kentucke" (1784) is
   reprinted. For a brief description of the Blue Grass Region, see James
-  Lane Allen's _The Blue Grass Region of Kentucky and other Kentucky
+  [[Lane]] Allen's _The Blue Grass Region of Kentucky and other Kentucky
   Articles_ (New York, 1900). An account of the social and industrial
   life of the people in the "mountain" districts is given in William H.
   Haney's _The Mountain People of Kentucky_ (Cincinnati, 1906). For
-  administration, see the _Official Manual for the Use of the Courts,
+  administration, see the _Official [[Manual]] for the Use of the Courts,
   State and County Officials and General Assembly of the State of
   Kentucky_ (Lexington), which contains the Constitution of 1891; _The
   Report of the Debates and Proceedings of the Convention ... of 1849_
@@ -1197,18 +1197,18 @@ Republicans again elected their candidate for governor.
   editions, 1881, 1887); and the _Annual Reports_ of state officers and
   boards. For history see R. M. McElroy's _Kentucky in the Nation's
   History_ (New York, 1909, with bibliography); or (more briefly) N. S.
-  Shaler's _Kentucky_ (Boston, 1885), in the American Commonwealths
+  Shaler's _Kentucky_ ([[Boston]], 1885), in the American Commonwealths
   Series. John M. Brown's _The Political Beginnings of Kentucky_
   (Louisville, 1889) is a good monograph dealing with the period before
   1792; it should be compared with Thomas M. Green's _The Spanish
   Conspiracy: A Review of Early Spanish Movements in the Southwest_
   (Cincinnati, 1891), written in reply to it. Among older histories are
-  Humphrey Marshall, _The History of Kentucky ... and the Present State
+  Humphrey [[Marshall]], _The History of Kentucky ... and the Present State
   of the Country_ (2 vols., Frankfort, 1812, 1824), extremely
-  Federalistic in tone; Mann Butler, _History of Kentucky from its
+  Federalistic in tone; [[Mann]] Butler, _History of Kentucky from its
   Exploration and Settlement by the Whites to the close of the
   Southwestern Campaign of 1813_ (Louisville, 1834; 2nd ed., Cincinnati,
-  1836), and Lewis Collins, _The History of Kentucky_ (2 vols., revised
+  1836), and [[Lewis]] [[Collins]], _The History of Kentucky_ (2 vols., revised
   edition, Covington, Ky., 1874), a valuable store-house of facts, the
   basis of Shaler's work. E. D. Warfield's _The Kentucky Resolutions_ of
   1798 (New York, 2nd ed., 1887) is an excellent monograph. For the
@@ -1227,7 +1227,7 @@ Republicans again elected their candidate for governor.
   (1884); Thomas Speed, _The Wilderness Road_ (1886); W. H. Perrin, _The
   Pioneer Press of Kentucky_ (1888); G. W. Ranck, _Boonesborough: Its
   Founding, Pioneer Struggles, Indian Experiences, Transylvania Days and
-  Revolutionary Annals_ (1901), and _The Centenary of Kentucky_ (1892),
+  Revolutionary [[Annals]]_ (1901), and _The Centenary of Kentucky_ (1892),
   containing an address, "The State of Kentucky: its Discovery,
   Settlement, Autonomy and Progress in a Hundred Years," by Reuben T.
   Durrett.
@@ -1275,7 +1275,7 @@ FOOTNOTES:
 
   [8] The southern boundary to the Tennessee river was surveyed in
     1779-1780 by commissioners representing Virginia and North Carolina,
-    and was supposed to be run along the parallel of latitude 36° 30´,
+    and was supposed to be run along the parallel of [[Latitude|latitude]] 36° 30´,
     but by mistake was actually run north of that parallel. By a treaty
     of 1819 the Indian title to the territory west of the Tennessee was
     extinguished, and commissioners then ran a line along the parallel of

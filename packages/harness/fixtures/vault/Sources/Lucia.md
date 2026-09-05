@@ -10,8 +10,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lucia"
 LUCIA (or LUCY), ST, virgin and martyr of Syracuse, whose name figures
 in the canon of the mass, and whose festival is celebrated on the 13th
 of December. According to the legend, she lived in the reign of
-Diocletian. Her mother, having been miraculously cured of an illness at
-the sepulchre of St Agatha in Catania, was persuaded by Lucia to
+[[Diocletian]]. Her mother, having been miraculously cured of an illness at
+the sepulchre of St Agatha in [[Catania]], was persuaded by Lucia to
 distribute all her wealth to the poor. The youth to whom the daughter
 had been betrothed forthwith denounced her to Pascasius, the prefect,
 who ordered that she should be taken away and subjected to shameful

@@ -9,13 +9,13 @@ admiration of the hostess, a very fine woman, there sprang a scandalous
 story which attributed Davenant's paternity to Shakespeare, a legend
 which there is reason to believe Davenant himself encouraged, but which
 later criticism has cast aside as spurious. In 1621 the vintner was made
-mayor of Oxford, and in the same year his son left the grammar school of
+[[Mayor|mayor]] of Oxford, and in the same year his son left the grammar school of
 All Saints, where his master had been Edward Sylvester, and was entered
-an undergraduate of Lincoln College, Oxford. He did not stay at the
+an undergraduate of [[Lincoln]] College, Oxford. He did not stay at the
 university, however, long enough to take a degree, but was hurried away
 to appear at court as a page, in the retinue of the gorgeous duchess of
 Richmond. From her service he passed into that of Fulke Greville, Lord
-Brooke, in whose house he remained until the murder of that eminent man
+[[Brooke]], in whose house he remained until the murder of that eminent man
 in 1628. This blow threw him upon the world, not altogether without
 private means, but greatly in need of a profitable employment.
 
@@ -24,13 +24,13 @@ play, the tragedy of _Albovine_. It was not a very brilliant
 performance, but it pleased the town, and decided the poet to pursue a
 dramatic career. The next year saw the production at Blackfriars of _The
 Cruel Brother_, a tragedy, and _The Just Italian_, a tragi-comedy. Inigo
-Jones, the court architect, for whom Ben Jonson had long supplied the
+Jones, the court architect, for whom [[Ben]] [[Jonson]] had long supplied the
 words of masques and complimentary pieces, quarrelled with his great
 colleague in the year 1634, and applied to William Davenant for verses.
 The result was _The Temple of Love_, performed by the queen and her
 ladies at Whitehall on Shrove Tuesday, 1634, and printed in that year.
 Another masque, _The Triumphs of the Prince D'Amour_, followed in 1636.
-The poet returned to the legitimate drama by the publication of the
+The poet returned to the legitimate [[Drama|drama]] by the publication of the
 tragi-comedy of _The Platonic Lovers_, and the famous comedy of _The
 Wits_, in 1636, the latter of which, however, had been licensed in 1633.
 The masque of _Britannica Triumphans_ (1637) brought him into some
@@ -40,15 +40,15 @@ thoroughly ingratiated himself with the court; and on the death of Ben
 Jonson in 1637 he was rewarded with the office of poet-laureate, to the
 exclusion of Thomas May, who considered himself entitled to the honour.
 It was shortly after this event that Davenant collected his minor
-lyrical pieces in a volume entitled _Madagascar and other Poems_ (1638);
-and in 1639 he became manager of the new theatre in Drury Lane. The
+lyrical pieces in a volume entitled _[[Madagascar]] and other Poems_ (1638);
+and in 1639 he became manager of the new theatre in [[Drury]] [[Lane]]. The
 civil war, however, put a check upon this prosperous career; and he was
 among the most active partisans of royalty through the whole of that
 struggle for supremacy.
 
 As early as May 1642, Davenant was accused before the Long Parliament of
 being mainly concerned in a scheme to seduce the army to overthrow the
-Commons. He was accordingly apprehended at Faversham, and imprisoned for
+Commons. He was accordingly apprehended at [[Faversham]], and imprisoned for
 two months in London; he then attempted to escape to France, and
 succeeded in reaching Canterbury, where he was recaptured. Escaping a
 second time, he made good his way to the queen, with whom he remained in
@@ -90,15 +90,15 @@ friends, obtained permission to open a sort of theatre at Rutland House,
 in Charterhouse Yard, where, on the 21st of May 1656, he began a series
 of representations, which he called _operas_, as an inoffensive term.
 This word was then first introduced into the English language. The
-opening piece was a kind of dialogue defending the drama in the
+opening piece was a kind of [[Dialogue|dialogue]] defending the drama in the
 abstract. This was followed by his own _Siege of Rhodes_, printed the
 same year, which was performed with stage decorations and machinery of a
 kind hitherto quite unthought of in England. Two other innovations in
 its production were the introduction of recitative and the appearance of
 a woman, Mrs Coleman, on the stage. He continued until the Restoration
-to produce ephemeral works of this kind, only one of which, _The Cruelty
+to produce ephemeral works of this kind, only one of which, _The [[Cruelty]]
 of the Spaniards in Peru_, in 1658, was of sufficient literary merit to
-survive. In 1660 he had the infinite satisfaction of being able to
+survive. In 1660 he had the [[Infinite|infinite]] satisfaction of being able to
 preserve the life of that glorious poet who had, nine years before,
 saved his own from a not less imminent danger. The mutual relations of
 Milton and Davenant do honour to the generosity of two men who,
@@ -106,7 +106,7 @@ sincerely opposed in politics, knew how to forget their personal anger
 in their common love of letters. In 1659 Davenant suffered a short
 imprisonment for complicity in Sir George Booth's revolt. Under Charles
 II. Davenant flourished in the dramatic world; he opened a new theatre
-in Lincoln's Inn Fields, which he called the Duke's; and he introduced a
+in Lincoln's Inn [[Fields]], which he called the Duke's; and he introduced a
 luxury and polish into the theatrical life which it had never before
 known in England. Under his management, the great actors of the
 Restoration, Betterton and his coevals, took their peculiar French style
@@ -121,15 +121,15 @@ and only one of which survived their author on the stage. He died at his
 house in Lincoln's Inn Fields on the night of the 7th of April 1668, and
 two days afterwards was buried in Poets' Corner, Westminster Abbey, with
 the inscription "O rare Sir William Davenant!" In 1672 his writings were
-collected in folio. His last work had been to travesty Shakespeare's
-_Tempest_ in company with Dryden.
+collected in [[Folio|folio]]. His last work had been to travesty Shakespeare's
+_Tempest_ in company with [[Dryden]].
 
 The personal character, adventures and fame of Davenant, and more
 especially his position as a leading reformer, or rather debaser, of the
 stage, have always given him a prominence in the history of literature
 which his writings hardly justify. His plays are utterly unreadable, and
-his poems are usually stilted and unnatural. With Cowley he marks the
-process of transition from the poetry of the imagination to the poetry
+his poems are usually stilted and unnatural. With [[Cowley]] he marks the
+process of transition from the poetry of the [[Imagination|imagination]] to the poetry
 of the intelligence; but he had far less genius than Cowley, and his
 influence on English drama must be condemned as wholly deplorable.
      (E. G.)

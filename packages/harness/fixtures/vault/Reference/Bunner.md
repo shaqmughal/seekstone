@@ -19,12 +19,12 @@ Midge_, followed in 1887 by _The Story of a New York House_. But his best
 efforts in fiction were his short stories and sketches--_Short Sixes_
 (1891), _More Short Sixes_ (1894), _Made in France_ (1893), _Zadoc Pine and
 Other Stories_ (1891), _Love in Old Cloathes and Other Stories_ (1896), and
-_Jersey Street and Jersey Lane_ (1896). His verses--_Airs from Arcady and
+_[[Jersey]] Street and Jersey [[Lane]]_ (1896). His verses--_Airs from Arcady and
 Elsewhere_ (1884), containing the well-known poem, _The Way to Arcady;
 Rowen_ (1892); and _Poems_ (1896), edited by his friend Brander
-Matthews--display a light play of imagination and a delicate workmanship.
-He also wrote clever _vers de societe_ and parodies. Of his several plays
-(usually written in collaboration), the best was _The Tower of Babel_
+Matthews--display a light play of [[Imagination|imagination]] and a delicate workmanship.
+He also wrote [[Clever|clever]] _vers de societe_ and parodies. Of his several plays
+(usually written in collaboration), the best was _The Tower of [[Babel]]_
 (1883).
 
 ## References

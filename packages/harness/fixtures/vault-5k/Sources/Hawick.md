@@ -16,7 +16,7 @@ village on the flat meadow," or _haga-wic_, "the fenced-in dwelling,"
 the Gadeni being supposed to have had a settlement at this spot. Hawick
 is a substantial and flourishing town, the prosperity of which dates
 from the beginning of the 19th century, its enterprise having won for it
-the designation of "The Glasgow of the Borders." The municipal
+the designation of "The [[Glasgow]] of the Borders." The municipal
 buildings, which contain the free library and reading-room, stand on the
 site of the old town hall. The Buccleuch memorial hall, commemorating
 the 5th duke of Buccleuch, contains the Science and Art Institute and a
@@ -25,7 +25,7 @@ furnishes both secondary and technical education. The only church of
 historical interest is that of St Mary's, the third of the name, built
 in 1763. The first church, believed to have been founded by St Cuthbert
 (d. 687), was succeeded by one dedicated in 1214, which was the scene of
-the seizure of Sir Alexander Ramsay of Dalhousie in 1342 by Sir William
+the seizure of Sir Alexander Ramsay of [[Dalhousie]] in 1342 by Sir William
 Douglas. The modern Episcopal church of St Cuthbert was designed by Sir
 Gilbert Scott. The Moat or Moot hill at the south end of the town--an
 earthen mound 30 ft. high and 300 ft. in circumference--is conjectured
@@ -43,9 +43,9 @@ St Leonard's Park and race-course are situated on the Common, 2 m. S.W.
 The town is governed by a provost, bailies and council, and unites with
 Selkirk and Galashiels (together known as the Border burghs) to send a
 member to parliament. The leading industries are the manufacture of
-hosiery, established in 1771, and woollens, dating from 1830, including
+[[Hosiery|hosiery]], established in 1771, and woollens, dating from 1830, including
 blankets, shepherd's plaiding and tweeds. There are, besides, tanneries,
-dye works, oil-works, saw-mills, iron-founding and engineering works,
+dye works, oil-works, saw-mills, iron-founding and [[Engineering|engineering]] works,
 quarries and nursery gardens. The markets for live stock and grain are
 also important.
 
@@ -54,15 +54,15 @@ which was confirmed by the infant Queen Mary in 1545, and remained in
 force until 1861, when the corporation was reconstituted by act of
 parliament. Owing to its situation Hawick was often imperilled by Border
 warfare and marauding freebooters. Sir Robert Umfraville (d. 1436),
-governor of Berwick, burned it about 1417, and in 1562 the regent Moray
+governor of [[Berwick]], burned it about 1417, and in 1562 the regent Moray
 had to suppress the lawless with a strong hand. Neither of the Jacobite
-risings aroused enthusiasm. In 1715 the discontented Highlanders
+risings aroused [[Enthusiasm|enthusiasm]]. In 1715 the discontented Highlanders
 mutinied on the Common, 500 of them abandoning their cause, and in 1745
 Prince Charles Edward's cavalry passed southward through the town. In
-1514, the year after the battle of Flodden, in which the burghers had
+1514, the year after the battle of [[Flodden]], in which the burghers had
 suffered severely, a number of young men surprised an English force at
 Hornshole, a spot on the Teviot 2 m. below the town, routed them and
-bore away their flag. This event is celebrated every June in the
+bore away their [[Flag|flag]]. This event is celebrated every June in the
 ceremony of "Riding the Common"--in which a facsimile of the captured
 pennon is carried in procession to the accompaniment of a chorus
 "Teribus, ye Teri Odin," supposed to be an invocation to Thor and
@@ -79,7 +79,7 @@ newspaper and the first financial member of the council for India.
   nearer Hawick, was once the home of a branch of the Douglases, and it
   is said that in Cavers House are still preserved the pennon that was
   borne before the Douglas at the battle of Otterburn (Chevy Chase), and
-  the gauntlets that were then taken from the Percy (1388). Two m. S.W.
+  the [[Gauntlet|gauntlets]] that were then taken from the Percy (1388). Two m. S.W.
   of Hawick is the massive peel of Goldielands--the "watch-tower of
   Branxholm," a well-preserved typical Border stronghold. One mile
   beyond it, occupying a commanding site on the left bank of the Teviot,

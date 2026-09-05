@@ -1,7 +1,7 @@
 # Hjorring
 
 HJORRING, an ancient town of Denmark, capital of the _amt_ (county) of
-its name, in the northern insular part of the peninsula of Jutland. Pop.
+its name, in the northern insular part of the peninsula of [[Jutland]]. Pop.
 (1901) 7901. It lies 7 m. inland from the shore of Jammer Bay, a stretch
 of coast notoriously dangerous to shipping. On the coast is Lonstrup, a
 favoured seaside resort. In this neighbourhood as well as to the

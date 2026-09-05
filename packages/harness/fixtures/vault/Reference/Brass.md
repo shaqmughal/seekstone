@@ -20,7 +20,7 @@ zinc).
 
 In England there is good evidence of the manufacture of brass with zinc
 at the end of the 16th century, for Queen Elizabeth by patent granted to
-William Humfrey and Christopher Schutz the exclusive right of working
+William Humfrey and [[Christopher]] Schutz the exclusive right of working
 calamine and making brass. This right subsequently devolved upon a body
 called the "Governors, Assistants and Societies of the City of London of
 and for the Mineral and Battery Works," which continued to exercise its
@@ -30,7 +30,7 @@ When a small percentage of zinc is present, the colour of brass is
 reddish, as in _tombac_ or red brass, which contains about 10%. With
 about 20% the colour becomes more yellow, and a series of metals is
 obtained which simulate gold more or less closely; such are _Dutch
-metal, Mannheim gold, similar_ and _pinchbeck_, the last deriving its
+metal, [[Mannheim]] gold, similar_ and _pinchbeck_, the last deriving its
 name from a London clockmaker, Christopher Pinchbeck, who invented it in
 1732. Ordinary brass contains about 30% of zinc, and when 40% is
 present, as in _Muntz, yellow_ or _patent_ metal (invented by G.F. Muntz
@@ -48,7 +48,7 @@ tensile strength, accompanied, however, by a smaller percentage of
 elongation and a materially increased tendency to produce unsound
 castings. The quality of copper-zinc alloys is improved by the addition
 of a small quantity of iron, a fact of which advantage is taken in the
-production of Aich's metal and delta metal. Of the latter there are
+production of Aich's metal and [[Delta|delta]] metal. Of the latter there are
 several varieties, modified in composition to suit different purposes.
 Some of them possess high tensile strength and ductility. They are
 remarkably resistant to corrosion by sea-water, and are well suited for

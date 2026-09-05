@@ -14,7 +14,7 @@ the English Channel, at the head of an inlet or estuary which receives
 only small streams, on a sharply sloping site. The church of St Edmund
 is mainly Perpendicular, but there are Transitional Norman and Early
 English portions. The town-hall contains a natural history museum. A
-house called Pindar Lodge stands on the site of the birthplace of John
+house called Pindar [[Lodge]] stands on the site of the birthplace of John
 Wolcot ("Peter Pindar," 1738-1819). William Cookworthy (1705-1780), a
 porcelain manufacturer, the first to exploit the deposits of kaolin in
 the south-west of England, was also born at Kingsbridge. The township of
@@ -25,7 +25,7 @@ are carried on.
 Kingsbridge (_Kyngysbrygge_) was formerly included in the manor of
 Churchstow, the first trace of its separate existence being found in the
 Hundred Roll of 1276, which records that in the manor of Churchstow
-there is a new borough, which has a Friday market and a separate assize
+there is a new borough, which has a Friday market and a separate [[Assize|assize]]
 of bread and ale. The name Kingsbridge however does not appear till half
 a century later. When Kingsbridge became a separate parish is not
 certainly known, but it was before 1414 when the church was rebuilt and

@@ -33,7 +33,7 @@ the foundation of the subsequent enmity between the two leaders.
 
 By this time Marius was generally recognized as the ablest general of
 the day, and was appointed to the chief command against the Cimbri and
-Teutones. Two Roman armies had been destroyed near the Lake of Geneva,
+Teutones. Two Roman armies had been destroyed near the Lake of [[Geneva]],
 and it seemed as if a repetition of the disaster of the Allia and the
 capture of Rome itself might not be impossible. Marius, out of
 unpromising materials and a demoralized soldiery, organized a
@@ -84,7 +84,7 @@ January 86.
 Marius was not only a great general, but also a great military reformer.
 From his time a citizen militia was replaced by a professional soldiery,
 which had hitherto been little liked by the Roman people. He further
-made the cohort the military unit instead of the maniple, and his
+made the cohort the military unit instead of the [[Maniple|maniple]], and his
 cavalry and light-armed troops were drawn from foreign countries, so
 that it may be said that Marius was the originator of the mercenary
 army. The Roman soldier was henceforth a man who had no trade but war. A
@@ -106,7 +106,7 @@ to his taste.
   Cicero's works, Sallust's _Jugurtha_, the epitomes of the lost books
   of Livy, Plutarch's _Lives_ of Sulla and Marius, Velleius Paterculus,
   Florus and Appian's _Bellum civite_. See F. D. Gerlach, _Marius und
-  Sulla_ (Basel, 1856); I. Gilles, _Campagne de Marius dans la Gaule_
+  Sulla_ (Basel, 1856); I. [[Gill|Gilles]], _Campagne de Marius [[Dan|dans]] la Gaule_
   (1870); W. Votsch, _Marius als Reformator des römischen Heerwesens_
   (with notes and references to ancient authorities, 1886); A. H. J.
   Greenidge, _History of Rome_, vol. i. (1904); also ROME: _History_,

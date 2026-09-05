@@ -16,7 +16,7 @@ of seed-leaves or cotyledons, in the plantlet or embryo contained in the
 seed. The embryo is generally surrounded by a larger or smaller amount
 of foodstuff (endosperm) which serves to nourish it in its development
 to form a seedling when the seed germinates; frequently, however, as in
-pea or bean and their allies, the whole of the nourishment for future
+pea or [[Bean|bean]] and their allies, the whole of the nourishment for future
 use is stored up in the cotyledons themselves, which then become thick
 and fleshy. In germination of the seed the root of the embryo (radicle)
 grows out to get a holdfast for the plant; this is generally followed by
@@ -28,7 +28,7 @@ is the first stem-bud (the plumule of the embryo), by the further growth
 and development of which the aerial portion of the plant, consisting of
 stem, leaves and branches, is formed, while the development of the
 radicle forms the root-system. The size and manner of growth of the
-adult plant show a great variety, from the small herb lasting for one
+adult plant show a great variety, from the small [[Herb|herb]] lasting for one
 season only, to the forest tree living for centuries. The arrangement of
 the conducting tissue in the stem is characteristic; a transverse
 section of the very young stem shows a number of distinct conducting
@@ -41,9 +41,9 @@ A similar growth occurs in the root. This increase in the diameter of
 stem and root is correlated with the increase in leaf-area each season,
 due to the continued production of new leaf-bearing branches. A
 characteristic of the class is afforded by the complicated network
-formed by the leaf-veins,--well seen in a skeleton leaf, from which the
+formed by the leaf-veins,--well seen in a skeleton [[Leaf|leaf]], from which the
 soft parts have been removed by maceration. The parts of the flower are
-most frequently arranged in fives, or multiples of fives; for instance,
+most frequently arranged in [[Fives|fives]], or multiples of fives; for instance,
 a common arrangement is as follows,--five sepals, succeeded by five
 petals, ten stamens in two sets of five, and five or fewer carpels; an
 arrangement in fours is less frequent, while the arrangement in threes,

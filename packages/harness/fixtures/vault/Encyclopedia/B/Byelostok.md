@@ -1,7 +1,7 @@
 # Byelostok
 
 BYELOSTOK (Polish, _Bialystok_), a town of West Russia, in the government
-of and 53 m. by rail S.W. of the city of Grodno, on the main railway line
+of and 53 m. by rail S.W. of the city of [[Grodno]], on the main railway line
 from Moscow to Warsaw, at its junction with the Kiev-Grayevo (Prussian
 frontier) line. Founded in 1320, it became part of Prussia after the third
 partition of Poland, but was annexed to Russia in 1807, after the peace of

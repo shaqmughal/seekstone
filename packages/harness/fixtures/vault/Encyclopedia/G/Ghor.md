@@ -2,7 +2,7 @@
 
 GHOR, or GHUR, an ancient kingdom of Afghanistan. The name of Ghor was
 in the middle ages, and indeed locally still is, applied to the
-highlands east of Herat, extending eastward to the upper Helmund valley,
+highlands east of [[Herat]], extending eastward to the upper [[Helmund]] valley,
 or nearly so. Ghor is the southern portion of that great peninsula of
 strong mountain country which forms the western part of modern
 Afghanistan. The northern portion of the peninsula was in the middle
@@ -11,31 +11,31 @@ _Juzjana_ (on the east), whilst the basin of the Herat river, and all
 south of it, constituted Ghor. The name as now used does not include the
 valley of the Herat river; on the south the limit seems to be the
 declivity of the higher mountains dominating the descent to the lower
-Helmund, and the road from Farah to Kandahar. It is in Ghor that rise
+Helmund, and the road from Farah to [[Kandahar]]. It is in Ghor that rise
 all those affluents of the closed basin of Seistan, the Hari-rud, the
 Farah-rud, the Khash-rud, besides other considerable streams joining the
-Helmund above Girishk.
+Helmund above [[Girishk]].
 
-Ghor is mentioned in the Shahnama of Firdousi (A.D. 1010), and in the
+Ghor is mentioned in the Shahnama of [[Firdousi]] (A.D. 1010), and in the
 Arab geographers of that time, though these latter fail in details
 almost as much as we moderns, thus indicating how little accessible the
-country has been through all ages. Ibn Hau[k.]al's map of Khorasan (c.
+country has been through all ages. Ibn Hau[k.]al's [[Map|map]] of [[Khorasan]] (c.
 976) shows _Jibal-al-Ghur_, "the hill-country of Ghor," as a circle
 ring-fenced with mountains. His brief description speaks of it as a land
 fruitful in crops, cattle and flocks, inhabited by infidels, except a
 few who passed for Mahommedans, and indicates that, like other pagan
 countries surrounded by Moslem populations, it was regarded as a store
 of slaves for the faithful. The boundary of Ghor in ascending the valley
-of the Hari-rud was six and a half easy marches from Herat, at Chist,
+of the Hari-rud was six and a half easy [[Marches|marches]] from Herat, at Chist,
 two marches above Obeh.
 
 The chief part of the present population of Ghor are Taimanis, belonging
-to the class of nomad or semi-nomad clans called Aimak, intermingled
+to the class of nomad or semi-nomad [[Clan|clans]] called Aimak, intermingled
 with Zuris and Tajiks.
 
 The people and princes of Ghor first become known to us in connexion
 with the Ghaznevid dynasty, and the early medieval histories of Ghor and
-Ghazni are so intertwined that little need be added on that subject to
+[[Ghazni]] are so intertwined that little need be added on that subject to
 what will be found under GHAZNI (q.v.). What we read of Ghor shows it as
 a country of lofty mountains and fruitful valleys, and of numerous
 strongholds held by a variety of hill-chieftains ruling warlike clans
@@ -71,7 +71,7 @@ extended both in India and in the west by his nephews Ghiyasuddin
 Mahommed b. Sam and Mahommed Ghori (Muizuddin b. Sam or Shahabuddin b.
 Sam), and for a brief period during their rule it was boasted, with no
 great exaggeration, that the public prayer was read in the name of the
-Ghori from the extremity of India to the borders of Babylonia, and from
+Ghori from the extremity of India to the [[Borders|borders]] of Babylonia, and from
 the Oxus to the Straits of Ormus. After the death of Mahommed Ghori,
 Mahmud the son of Ghiyasuddin was proclaimed sovereign (1200) throughout
 the territories of Ghor, Ghazni and Hindustan. But the Indian dominion,
@@ -79,13 +79,13 @@ from his uncle's death, became entirely independent, and his actual
 authority was confined to Ghor, Seistan and Herat. The whole kingdom
 fell to pieces before the power of Mahommed Shah of Khwarizm and his son
 Jelaluddin (c. 1214-1215), a power in its turn to be speedily shattered
-by the Mongol flood.
+by the Mongol [[Flood|flood]].
 
 Besides the thrones of Ghor and Ghazni, the Shansabaniah family, in the
 person of Fakhruddin, the eldest of the seven sons of Malik 'Izzuddin,
 founded a kingdom in the Oxus basin, having its seat at BAMIAN (q.v.),
 which endured for two or three generations, till extinguished by the
-power of Khwarizm (1214). And the great Mussulman empire of Delhi was
+power of Khwarizm (1214). And the great Mussulman empire of [[Delhi]] was
 based on the conquests of Muizuddin the Ghorian, carried out and
 consolidated by his Turki freedmen, Kutbuddin Aibak and his successors.
 The princes of Ghor experienced, about the middle of the 13th century,
@@ -96,12 +96,12 @@ Ghiyasuddin Ghori, whilst his other grandfather was that prince's
 favourite minister. In 1245 Shamsuddin held the lordship of Ghor in some
 kind of alliance with, or subordination to, the Mongols, who had not yet
 definitively established themselves in Persia; and in 1248 he received
-from the Great Khan Mangu an investiture of all the provinces from Merv
+from the Great [[Khan]] Mangu an [[Investiture|investiture]] of all the provinces from Merv
 to the Indus, including by name Sijistan (or Seistan), Kabul, Tirah
 (adjoining the Khyber pass), and Afghanistan (a very early occurrence of
 this name), which he ruled from Herat. He stood well with Hulagu, and
 for a long time with his son Abaka, but at last incurred the latter's
-jealousy, and was poisoned when on a visit to the court at Tabriz
+[[Jealousy|jealousy]], and was poisoned when on a visit to the court at Tabriz
 (1276). His son Ruknuddin Kurt was, however, invested with the
 government of Khorasan (1278), but after some years, mistrusting his
 Tatar suzerains, he withdrew into Ghor, and abode in his strong fortress
@@ -115,8 +115,8 @@ Jagatai. It is possible that the Kurts might have established a lasting
 Tajik kingdom at Herat, but in the time of the last of the dynasty,
 Ghiyasuddin Pir-'Ali, Tatardom, reorganized and re-embodied in the
 person of Timur, came against Herat, and carried away the king and the
-treasures of his dynasty (1380). A revolt and massacre of his garrison
-provoked Timur's vengeance; he put the captive king to death, came
+treasures of his dynasty (1380). A revolt and [[Massacre|massacre]] of his [[Garrison|garrison]]
+provoked Timur's vengeance; he put the [[Captive|captive]] king to death, came
 against the city a second time, and showed it no mercy (1383). Ghor has
 since been obscure in history.
 
@@ -133,14 +133,14 @@ local tradition that this place was the ancient capital of Ghor. The
 valleys of the Taimani tribes though narrow are fertile and well
 cultivated, and there are many walled villages and forts about Parjuman
 and Zarni in the south-eastern districts. The peak of "Chalap Dalan"
-(described by Ferrier as "one of the highest in the world") is the
+(described by [[Ferrier]] as "one of the highest in the world") is the
 Koh-i-Kaisar, which is a trifle over 13,000 ft. in height. All the
 country now known as Ghor was mapped during the progress of the
 Russo-Afghan boundary delimitation.
 
   See the "Tabakat-i-Nasiri," in the _Bibl. Indica_, transl. by Raverty;
-  _Journal asiatique_, ser. v. tom. xvii.; "Ibn Haukal," in _J. As. Soc.
-  Beng._ vol. xxii.; Ferrier's _Caravan Journeys_; Hammer's _Ilkhans_,
+  _Journal asiatique_, ser. v. tom. xvii.; "[[Ibn Haukal]]," in _J. As. Soc.
+  Beng._ vol. xxii.; Ferrier's _[[Caravan]] Journeys_; Hammer's _Ilkhans_,
   &c.
 
 ## References

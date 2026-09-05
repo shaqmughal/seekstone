@@ -7,21 +7,21 @@ id: 42-5104
 
 # Embrun
 
-EMBRUN, a town in the department of the Hautes Alpes in S.E. France. It
+EMBRUN, a town in the department of the [[Hautes Alpes]] in S.E. France. It
 is built at a height of 2854 ft. on a plateau that rises above the right
-bank of the Durance. It is 27½ m. by rail from Briançon and 24 m. from
-Gap. Its ramparts were demolished in 1884. In 1906 the communal pop.
-(including the garrison) was 3752. Besides the Tour Brune (11th century)
+bank of the [[Durance]]. It is 27½ m. by rail from [[Brian]]çon and 24 m. from
+[[Gap]]. Its ramparts were demolished in 1884. In 1906 the communal pop.
+(including the [[Garrison|garrison]]) was 3752. Besides the Tour Brune (11th century)
 and the old archiepiscopal palace, now occupied by government offices,
-barracks, &c., the chief object of interest in Embrun is its splendid
+[[Barracks|barracks]], &c., the chief object of interest in Embrun is its splendid
 cathedral church, which dates from the second half of the 12th century.
 Above its side door, called the _Réal_, there existed till 1585 (when it
-was destroyed by the Huguenots) a fresco, probably painted in the 13th
+was destroyed by the [[Huguenots]]) a fresco, probably painted in the 13th
 century, representing the Madonna: this was the object of a celebrated
 pilgrimage for many centuries. Louis XI. habitually wore on his hat a
-leaden image of this Madonna, for which he had a very great veneration,
+leaden [[Image|image]] of this Madonna, for which he had a very great veneration,
 since between 1440 and 1461, during the lifetime of his father, he had
-been the dauphin, and as such ruler of this province.
+been the [[Dauphin|dauphin]], and as such ruler of this province.
 
 Embrun was the _Eburodunum_ or _Ebredunum_ of the Romans, and the chief
 town of the province of the Maritime Alps. The episcopal see was founded
@@ -33,15 +33,15 @@ Viennois. In 1791 the archiepiscopal see was suppressed, the region
 being then transferred to the diocese of Gap, so that the once
 metropolitan cathedral church is now simply a parish church. The town
 was sacked in 1585 by the Huguenots and in 1692 by the duke of Savoy.
-Henri Arnaud (1641-1721), the Waldensian pastor and general, was born at
+Henri [[Arnaud]] (1641-1721), the Waldensian pastor and general, was born at
 Embrun.
 
   See A. Albert, _Histoire du diocèse d'Embrun_ (2 vols., Embrun, 1783);
   M. Fornier, _Histoire générale des Alpes Maritimes ou Cottiennes et
   particulière de leur métropolitaine Embrun_ (written 1626-1643),
-  published by the Abbé Paul Guillaume (3 vols., Paris and Gap,
-  1890-1891); A. Fabre, _Recherches historiques sur le pèlerinage des
-  rois de France à N.D. d'Embrun_ (Grenoble, 1859); A. Sauret, _Essai
+  published by the Abbé Paul [[Guillaume]] (3 vols., Paris and Gap,
+  1890-1891); A. [[Fabre]], _Recherches historiques sur le pèlerinage des
+  rois de France à N.D. d'Embrun_ ([[Grenoble]], 1859); A. Sauret, _Essai
   historique sur la ville d'Embrun_ (Gap, 1860).     (W. A. B. C.)
 
 
@@ -59,9 +59,9 @@ existence rapid growth and considerable changes of form and structure.
 During these changes, which constitute the development of the animal,
 the young organism may be incapable of leading a free life and obtaining
 its own food. In such cases it is either contained in the body of the
-parent or it is protruded and lies quiescent within the egg membranes;
+parent or it is protruded and lies quiescent within the [[Egg|egg]] membranes;
 or it may be capable of leading an independent life, possessing in a
-functional condition all the organs necessary for the maintenance of its
+functional condition all the organs necessary for the [[Maintenance|maintenance]] of its
 existence. In the former case the young organism is called an
 _embryo_,[1] in the latter a _larva_. It might thus be concluded that
 embryology would exclude the study of larvae, in which the whole or the
@@ -98,14 +98,14 @@ be excluded from any account of development, which clearly implies
 progression, not retrogression. But, as so often happens in the study of
 organisms, formulae which apply quite satisfactorily to one group
 require modifications when others are considered. Does sexual maturity
-always mark the attainment of the adult state? Is the Axolotl adult when
+always mark the attainment of the adult state? Is the [[Axolotl]] adult when
 it acquires its reproductive organs? Can a larval Ctenophore, which
 acquires functional reproductive glands and still possesses the power of
 passing into the form ordinarily described as adult in that group, be
 considered to have reached the end of its development? Or--to take the
 case of those animals, such as _Amphioxus_, _Balanoglossus_, and many
 segmented worms in which important developmental processes occur, e.g.
-formation of new gill slits, of gonadial sacs, or even of whole segments
+formation of new [[Gill|gill]] slits, of gonadial sacs, or even of whole segments
 of the body, long after the power of reproduction has been acquired--how
 is the attainment of the adult state to be defined, for it is clear that
 in them the attainment of sexual maturity does not correspond with the
@@ -159,7 +159,7 @@ while the spermatozoon possesses in almost all cases the power of
 locomotion. The object with which these two minute and simple organisms
 are produced is to fuse with one another and give rise to one resultant
 uninucleated (for the nuclei fuse) organism or cell, which is called the
-_zygote_. This process of fusion between the two kinds of reproductive
+_zygote_. This process of [[Fusion|fusion]] between the two kinds of reproductive
 cells, which are termed _gametes_, is called conjugation: it is the
 process which is sometimes spoken of as the fertilization of the ovum,
 and its result is the establishment of a new individual. This new
@@ -203,7 +203,7 @@ called forth in the early stages of the process, constitutes the science
 of Embryology. With regard to the manifestation of these properties,
 certain points must be clearly understood at the outset:--(1) If the
 zygote is withheld from the appropriate external influences, e.g. if a
-plant-seed be kept in a box free from moisture or at a low temperature,
+plant-seed be kept in a [[Box|box]] free from moisture or at a low temperature,
 no properties are evolved, and the zygote remains apparently unchanged;
 (2) the acquisition of the properties which constitutes the growth and
 development of the organism proceeds in a perfectly definite sequence,
@@ -230,7 +230,7 @@ death. For many organisms the conditions of existence are well known for
 all stages of life, and can be easily imitated, so that they can be
 reared artificially and kept alive and made to breed in
 confinement--e.g. the common fowl. But in a large number of cases it is
-not possible, through ignorance of the proper conditions, or on account
+not possible, through [[Ignorance|ignorance]] of the proper conditions, or on account
 of the difficulty of imitating them, to make the organism evolve all its
 properties. For instance, there are many marine larvae which have never
 been reared beyond a certain point, and there are some organisms which,
@@ -252,7 +252,7 @@ _Physiology of Development_) has been applied to this branch of study
   prevents the entrance of others. If than one spermatozoon enters, a
   corresponding number of male pronuclei are formed, and the subsequent
   development, if it takes place at all, is abnormal and soon ceases. An
-  egg by ill-treatment (influence of chloroform, carbonic acid, &c.) can
+  egg by ill-treatment (influence of [[Chloroform|chloroform]], carbonic acid, &c.) can
   be made to take more than one spermatozoon. In some animals it appears
   that several spermatozoa may normally enter the ovum (some Arthropoda,
   Selachians, Amphibians and Mammals), but of these only one forms a
@@ -272,10 +272,10 @@ _Physiology of Development_) has been applied to this branch of study
   three polar bodies as well as the ovum resulting from the division of
   the oöcyte or progamete. Sometimes the ovum arises from the oöcyte by
   one division only, and there is only one polar body (e.g. mouse,
-  Sobotta, _Arch. f. mikr. Anat., 1895_, p. 15). The polar bodies are
+  Sobotta, _[[Arch]]. f. mikr. Anat., 1895_, p. 15). The polar bodies are
   oval, but as a rule they are so small as to be incapable of
   fertilization. They may therefore be regarded as abortive ova. In one
-  case, however (see Francotte, _Bull. Acad. Belg._ (3), xxxiii., 1897,
+  case, however (see Francotte, _[[Bull]]. Acad. Belg._ (3), xxxiii., 1897,
   p. 278), the first formed polar body is nearly as large as the ovum,
   and is sometimes fertilized and develops. The spermatogonia are the
   cells of the testis; these produce by division the spermatocytes
@@ -288,7 +288,7 @@ _Physiology of Development_) has been applied to this branch of study
   from it only in the fact that all the four products of the progamete
   become functional gametes, whereas in the female only one, the ovum,
   becomes functional, the other three (polar bodies) being abortive. In
-  the spermatogenesis of the bee, however, the spermatocyte only divides
+  the spermatogenesis of the [[Bee|bee]], however, the spermatocyte only divides
   once, giving rise to a small polar-body-like structure and one
   spermatid (Meves, _Anat. Anzeiger_, 24, 1904, pp. 29-32). The nucleus
   of the male gamete is not called the male pronucleus, as would be
@@ -311,8 +311,8 @@ _Physiology of Development_) has been applied to this branch of study
   reducing (_maiotic_) divisions. It is not certain, however, that this
   phenomenon is of universal occurrence, or has the significance which
   is ordinarily attributed to it. In the parthenogenetic ova of certain
-  insects, e.g. _Rhodites rosae_ (Henking), _Nematus lacteus_
-  (Doncaster, _Quart. Journal Mic. Science_, 49, 1906, pp. 561-589),
+  [[Insect|insects]], e.g. _Rhodites rosae_ (Henking), _Nematus lacteus_
+  ([[Doncaster]], _Quart. Journal Mic. Science_, 49, 1906, pp. 561-589),
   reduction does not occur, though two polar bodies are formed.
 
 
@@ -362,16 +362,16 @@ _Physiology of Development_) has been applied to this branch of study
   ova form only one polar body. But, as we have seen, this is sometimes
   the case in eggs which are fertilized, and parthenogenetic ova are
   known which form two polar bodies, e.g. ova of the honey-bee which
-  produce drones (_Morph. Jahrb._ xv., 1889, p. 85). ova of Rotifera
+  produce [[Drone|drones]] (_Morph. Jahrb._ xv., 1889, p. 85). ova of Rotifera
   which produce males (_Zool. Anzeiger_, xx., 1897, p. 455), ova of some
-  saw-flies and gall flies which produce females (L. Doncaster, _Quart.
+  saw-flies and [[Gall|gall]] flies which produce females (L. Doncaster, _Quart.
   Journ. Mic. Sc._, 49, 1906, pp. 561-589). Again it has been asserted
   that in parthenogenetic eggs the polar bodies are not extruded from
   the ovum; in such cases, though the nucleus divides, those of its
   products which would in other cases be extruded in polar bodies remain
   in the protoplasm of the ovum. But this is not a universal rule, for
   in some cases of parthenogenesis polar bodies are extruded in the
-  usual way (_Aphis_, some Lepidoptera), and in some fertilized eggs the
+  usual way (_Aphis_, some [[Lepidoptera]]), and in some fertilized eggs the
   polar bodies are retained in the ovum.
 
   It is quite probable that parthenogenesis is more common than has been
@@ -447,7 +447,7 @@ _Physiology of Development_) has been applied to this branch of study
   character? Or does it depend upon the conditions to which the zygote
   is subjected in its development? In other words, is it an acquired
   character? It is impossible in the present state of knowledge to
-  answer these questions satisfactorily, but the balance of evidence
+  answer these questions satisfactorily, but the [[Balance|balance]] of evidence
   appears to favour the view that sex is an unalterable, inborn
   character. Thus those twins which are believed to come from a split
   zygote are always of the same sex, members of the same litter which
@@ -536,8 +536,8 @@ so-called segments are continuous with the central undivided yolk-mass.
 It sometimes happens that in Arthropods the egg breaks up into masses,
 which cannot be said to have the value of cells, as they are frequently
 without nuclei. In other eggs, characterized by a considerable amount of
-yolk, e.g. the ova of Cephalopoda, and of the Vertebrata with much yolk,
-the first nucleus takes up an eccentric position in a small patch of
+yolk, e.g. the ova of [[Cephalopoda]], and of the Vertebrata with much yolk,
+the first nucleus takes up an [[Eccentric|eccentric]] position in a small patch of
 protoplasm which is comparatively free from yolk-particles. This patch
 is the germinal disc, and the nuclear divisions are confined to it and
 to the transitional region, where it merges into the denser yolk which
@@ -569,7 +569,7 @@ cells. But there still remain to be mentioned those small eggs in which
 the amount of yolk is inconsiderable, and in which division of the
 nuclei does appear to be accompanied by a complete division of the
 surrounding protoplasm into separate unconnected cells--ova of many
-Annelida, Mollusca, Echinoderma, &c., and of Mammalia amongst
+[[Annelida]], Mollusca, Echinoderma, &c., and of [[Mammalia]] amongst
 Vertebrata. In the case of these also (G.F. Andrews, _Zool. Bulletin_,
 ii., 1898) it has been shown that the apparently separate spheres are
 connected by a number of fine anastomosing threads of a hyaline
@@ -609,8 +609,8 @@ they lie like sheets one above the other, the epiblast, hypoblast and
 mesoblast. The layers are sometimes spoken of as the primary organs, and
 their importance lies in the fact that they are supposed to be generally
 homologous throughout the series of the Metazoa. This view, which is
-based partly on their origin and partly on their fate, had great
-influence on the science of comparative anatomy during the last thirty
+based partly on their origin and partly on their [[Fate|fate]], had great
+influence on the science of [[Comparative Anatomy|comparative anatomy]] during the last thirty
 years of the 19th century, for the homology of the layers being admitted,
 they afforded a kind of final court of appeal in determining questions of
 doubtful homologies between adult organs. Great importance was therefore
@@ -672,8 +672,8 @@ Mammalia, in which the differentiation of the segmented ovum is not into
 ectoderm and endoderm, and the case of the sponges, the most important
 of these difficulties concern the stomodaeum and proctodaeum. The best
 case to examine is that of _Peripatus capensis_, in which the blastopore
-is at first a long slit, and gives rise to both the mouth and the anus
-of the adult. Here there is always found at the lips of the blastopore,
+is at first a long slit, and gives rise to both the mouth and the [[Anu|anus]]
+of the adult. Here there is always found at the [[Lip|lips]] of the blastopore,
 and extending for a short distance inwards as enteric lining, a certain
 amount of tissue, which by its characters must be regarded as ectoderm.
 Now, in the closure of the blastopore between the mouth and anus, this
@@ -780,13 +780,13 @@ same embryonic layer, have therefore in themselves but little value.
   sense of the word connective tissue, because it gives rise to many
   organs having nothing whatever to do with connective tissue. For
   instance, in Vertebrata this tissue gives rise to nervous tissue,
-  blood-vessels, renal tubules, smooth muscular fibres, and other
+  blood-vessels, renal tubules, smooth muscular [[Fibres|fibres]], and other
   structures, as well as to connective and skeletal tissues. The
   Vertebrata, indeed, are remarkable for the fact that the epithelial
   tissues of the so-called mesoderm, e.g. the epithelial lining of the
   body-cavity, and of the renal tubules and urogenital tracts, all pass
   through the mesenchymatous condition, whereas in _Amphioxus_,
-  _Balanoglossus_ and presumably _Sagitta_ and the Brachiopoda, all the
+  _Balanoglossus_ and presumably _Sagitta_ and the [[Brachiopoda]], all the
   mesodermal tissues pass through the epithelial condition, most of the
   mesodermal tissues of the adult retaining this condition permanently.
   As has been implied in the above account, mesenchyme is usually formed
@@ -838,7 +838,7 @@ the mouth and anus arising as independent perforations later. Here no
 one would doubt the homology of the mouth and anus throughout the group;
 yet within the limits of a single genus--_Peripatus_--they show the most
 diverse modes of development. In Annelids the blastopore sometimes
-becomes the mouth (most Chaetopoda); sometimes it becomes the anus
+becomes the mouth (most [[Chaetopoda]]); sometimes it becomes the anus
 (_Serpula_); sometimes it closes up, giving rise to neither, though in
 this case it may assume the form of a long slit along the ventral
 surface before disappearing. In Mollusca its fate presents the same
@@ -869,10 +869,10 @@ anus, and sometimes to either.
   remains open longer than the rest, as the neurenteric canal. In a few
   forms (e.g. Newt, _Lepidosiren_, &c.) the very hindermost portion of
   the slit-like blastopore remains permanently open as the anus, and
-  from such cases it can be shown that the neurenteric aperture (when
+  from such cases it can be shown that the neurenteric [[Aperture|aperture]] (when
   present) is derived from a portion of the blastopore just anterior to
   its hindermost end. The words "hindermost" and "anterior" are used on
-  the assumption that the whole blastopore has retained its dorsal
+  the [[Assumption|assumption]] that the whole blastopore has retained its dorsal
   position; as a matter of fact the hindermost part of it--the part
   which persists or reopens as the anus--loses this position in the
   course of development and becomes shifted on to the ventral surface.
@@ -880,7 +880,7 @@ anus, and sometimes to either.
   1900), in Elasmobranchii, and in Amniota (primitive streak). Moreover,
   in _Lepidosiren_, and possibly in some other forms, the anus, i.e. the
   hind end of the blastopore, is at first contained within the medullary
-  plate and bounded behind by the medullary folds. Later the portions of
+  plate and bounded behind by the medullary [[Fold|folds]]. Later the portions of
   the medullary plate in the neighbourhood of the anus completely
   atrophy, and this relation is lost. This extension of the hind end of
   the blastopore on to the ventral surface, and atrophy of the portion
@@ -985,7 +985,7 @@ derivate.
   embryo becomes bent ventralwards in its anterior portion, in such a
   manner that the anterior end, which is represented in the adult by the
   infundibulum, comes to project backwards beneath the mid-brain. This
-  bend, which is called the cranial flexure, takes place through the
+  [[Bend|bend]], which is called the cranial flexure, takes place through the
   mid-brain, so that the hind-brain is unaffected by it. The cranial
   flexure is not, however, confined to the brain: the anterior end of
   the notochord, which at first extends almost to the front end of the
@@ -1005,7 +1005,7 @@ derivate.
   fore-brain remains relatively small throughout life as the
   infundibulum, and the junction of this part of the fore-brain with the
   part which is so largely developed, as the rudiment of the cerebrum,
-  is marked by the attachment of the optic chiasma. The optic nerve,
+  is marked by the [[Attachment|attachment]] of the optic chiasma. The optic nerve,
   indeed, is morphologically the first cranial nerve, the olfactory
   being the second; both are attached to what is morphologically the
   dorsal side of the nerve tube. The morphological anterior end of the
@@ -1036,7 +1036,7 @@ derivate.
   by invagination in other groups; for instance, the cerebral ganglia of
   _Dentalium_ are formed from the walls of two invaginations of
   ectoderm, which eventually disappear at the anterior end of the body
-  (A. Kowalevsky, _Ann. Mus. Hist. Nat. Marseilles_, "Zoology," vol.
+  (A. Kowalevsky, _Ann. Mus. Hist. Nat. [[Marseilles]]_, "Zoology," vol.
   i.). In _Peripatus_ the cerebral ganglia arise in a similar way, but
   in this case the cavities of the invagination become separated from
   the skin and persist as two hollow appendages on the lower side of the
@@ -1134,7 +1134,7 @@ organs are contained.
   nerves have begun to be differentiated. The process may also be traced
   in the embryos of _Peripatus_, where the main features are essentially
   similar to those above described (op. cit. p. 131). The development of
-  the motor nerves has been worked out in _Lepidosiren_ by J. Graham
+  the motor nerves has been worked out in _Lepidosiren_ by J. [[Graham]]
   Kerr (_Trans. Roy. Soc. of Edinburgh_, 41, 1904. p. 119).
 
 To sum up, the development of nerves is not, as has been recently urged,
@@ -1170,7 +1170,7 @@ up more or less completely into three parts, namely, body-cavity, renal
 organs, generative glands, presents in different animals both these
 methods of development. In certain animals it develops by the direct
 modification of a part of the primitive enteron, while in others it
-arises by the gradual shaping of a mass of tissue which consists of a
+arises by the [[Gradual|gradual]] shaping of a mass of tissue which consists of a
 compact mass of nuclei derived by nuclear proliferation from one or more
 of the pre-existing tissues of the body. Inasmuch as the first rudiment
 of the coelom nearly always makes its appearance at an early stage, when
@@ -1321,7 +1321,7 @@ features--namely, paired pharyngeal apertures, a simple tubular heart,
 and a single ventral aorta giving off right and left a number of
 branches which pass between the pharyngeal apertures--which permanently
 characterize those organs in fishes. The skeleton, largely bony in the
-adult, passes through a stage in which it is entirely without bone, and
+adult, passes through a stage in which it is entirely without [[Bone|bone]], and
 consists mainly of cartilage--the form which it permanently possesses in
 certain fishes. Further, the Vertebrate embryo possesses for a time a
 notochord, a segmented muscular system, a continuity between the
@@ -1339,7 +1339,7 @@ groups continuous with the ectoderm, and the retina is at one stage a
 portion of the wall of the medullary canal. In the embryos of the lower
 Vertebrates many other instances of the same interesting character might
 be mentioned; for instance, the presence of a coelomic sac close to the
-eye, of another in the jaw, and of a third near the ear (Elasmobranchs),
+eye, of another in the jaw, and of a third near the [[Ear|ear]] (Elasmobranchs),
 the opening of the Müllerian duct into the front end of the Wolffian
 duct, and the presence of an aperture of communication between the
 muscle-plate coelom and the nephridial coelom.
@@ -1392,7 +1392,7 @@ That this is going too far a little reflection will show. For if it be
 admitted that all so-called vestigial structures had once the same
 function as the homologous structures when fully developed in other
 animals, it becomes necessary to admit that male mammals must once have
-had fully developed mammary glands and suckled the young, that female
+had fully developed [[Mammary Gland|mammary glands]] and suckled the young, that female
 mammals formerly were provided with a functional penis, and that in
 species in which the females have a trace of the secondary sexual
 characters of the male the latter were once common to both sexes. The
@@ -1416,12 +1416,12 @@ greatly differing from birds now living, are known to have had teeth, it
 must be allowed that there is some warrant for the assumption. Yet in no
 single case has it been certainly shown that any trace of teeth has been
 developed in the embryo. The same remark applies to a large number of
-similar cases; for instance, the reduced digits of the bird's hand and
+similar cases; for instance, the reduced [[Digit|digits]] of the bird's hand and
 foot and the limbs of snakes. Moreover, organs which are supposed to
 have become recently reduced and functionless in the adult are also
 reduced in the embryo; for instance, digits 3 and 4 of the horse's foot,
 the hind limbs of whales (G.A. Guldberg and F. Nansen, "On the
-Development and Structure of Whales," _Bergen Museum_, 1894), the
+Development and Structure of Whales," _[[Bergen]] Museum_, 1894), the
 spiracle of Elasmobranchii. In fact, considerations of this kind
 distinctly point to the view that any tendency to the reduction or
 enlargement of an organ in the adult is shared approximately to the same
@@ -1533,7 +1533,7 @@ the adult.
 In its scientific and systematic form embryology may be considered as
 having only taken birth within the last century, although the germ from
 which it sprung was already formed nearly half a century earlier. The
-ancients, it is true, as we see by the writings of Aristotle and Galen,
+ancients, it is true, as we see by the writings of [[Aristotle]] and Galen,
 pursued the subject with interest, and the indefatigable Greek
 naturalist and philosopher had even made continued series of
 observations on the progressive stages of development in the incubated
@@ -1550,7 +1550,7 @@ observation and more solid information. This is apparent in most of the
 works treating of generation during the 16th and part of the 17th
 centuries.[2]
 
-Harvey was the first to give, in the middle of the latter century, a new
+[[Harvey]] was the first to give, in the middle of the latter century, a new
 life and direction to investigation of this subject, by his discovery of
 the connexion between the cicatricula of the yolk and the rudiments of
 the chick, and by his faithful description of the successive stages of
@@ -1590,7 +1590,7 @@ The works of Walter Needham (1667), Regnier de Graaf (1673), Swammerdam
 important contributions to the knowledge of our subject, as tending to
 show the similarity in the mode of production from ova in a variety of
 animals with that previously best known in birds. The observations more
-especially of de Graaf, Nicolas Steno and J. van Horne gave much greater
+especially of de Graaf, Nicolas Steno and J. van [[Horne]] gave much greater
 precision to the knowledge of the connexion between the origin of the
 ovum of quadrupeds and the vesicles of the ovary now termed Graafian,
 which de Graaf showed always burst and discharged their contents on the
@@ -1598,7 +1598,7 @@ occurrence of pregnancy.
 
 These observations bring us to the period of Boerhaave and Albinus in
 the earlier part of the 18th century, and in the succeeding years to
-that of Haller, whose vast erudition and varied and accurate original
+that of [[Haller]], whose vast erudition and varied and accurate original
 observations threw light upon the entire process of reproduction in
 animals, and brought its history into a more systematic and intelligible
 form. A considerable part of the seventh and the whole of the eighth
@@ -1626,7 +1626,7 @@ different from that now bearing the name, and which implied belief in
 the pre-existence of the organs of the embryo in the germ, according to
 the theory of encasement (_emboîtement_) or inclusion supported by
 Leibnitz and Bonnet. (See the interesting work of Bonnet,
-_Considérations sur les corps organisés_, Amsterdam, 1762, for an
+_Considérations sur les [[Corps|corps]] organisés_, Amsterdam, 1762, for an
 account of his own views and those of Haller.)
 
 It was reserved for Caspar Frederick Wolff (1733-1794), a German by
@@ -1639,7 +1639,7 @@ ascertained facts, and to have laid the first foundation of the
 morphological science of embryology. Wolff's work, entitled _Theoria
 generationis_, first published as an inaugural Dissertation at Berlin in
 1759, was republished with additions in German at Berlin in 1764, and
-again in Latin at Halle in 1774. Wolff also wrote a "Memoir on the
+again in Latin at [[Halle]] in 1774. Wolff also wrote a "Memoir on the
 Development of the Intestine" in _Nov. comment. acad. Petropol_., 1768
 and 1769. But it was not till the latter work was translated into German
 by J.F. Meckel, and appeared in his _Archiv_ for 1812, that Wolff's
@@ -1664,7 +1664,7 @@ generalization that the processes of embryonic formation and of adult
 growth and nutrition are all of a like nature in both plants and
 animals. No advance, however, was made upon the basis of Wolff's
 discoveries till the year 1817, when the researches of C.H. Pander on
-the development of the chick gave a fuller and more exact view of the
+the development of the chick gave a [[Fuller|fuller]] and more exact view of the
 phenomena less clearly indicated by Wolff, and laid down with greater
 precision a plan of the formation of parts in the embryo of birds, which
 may be regarded as the foundation of the views of all subsequent
@@ -1675,15 +1675,15 @@ the process of embryonic development was thus held in abeyance for more
 than half a century, the interval was not unproductive of observations
 having an important bearing on the knowledge of the anatomy of the
 foetus and the function of reproduction. The great work of William
-Hunter on the human gravid uterus, containing unequalled pictorial
+[[Hunter]] on the human gravid uterus, containing unequalled pictorial
 illustrations of its subject from the pencil of Rymsdyk and other
 artists, was published in 1775;[3] and during a large part of the same
 period numerous communications to the _Memoirs_ of the Royal Society
 testified to the activity and genius of his brother, John Hunter, in the
 investigation of various parts of comparative embryology. But it is
-mainly in his rich museum, and in the manuscripts and drawings which he
+mainly in his rich museum, and in the [[Manuscript|manuscripts]] and drawings which he
 left, and which have been in part described and published in the
-catalogue of his wonderful collection, that we obtain any adequate idea
+[[Catalogue|catalogue]] of his wonderful collection, that we obtain any adequate idea
 of the unexampled industry and wide scope of research of that great
 anatomist and physiologist.
 
@@ -1757,7 +1757,7 @@ Thiere_, the second part of which, still leaving the work incomplete,
 did not appear till 1838. In this work, distinguished by the fulness,
 richness and extreme accuracy of the observations and descriptions, as
 well as by the breadth and soundness of the general views on embryology
-and allied branches of biology which it presents, he gave a detailed
+and allied branches of [[Biology|biology]] which it presents, he gave a detailed
 account not only of the whole progress of development of the chick as
 observed day by day during the incubation of the egg, but he also
 described what was known, and what he himself had investigated by
@@ -1783,7 +1783,7 @@ nervous system, in the two muscular and osseous tubes which form the
 walls of the body, and in the intestinal canal; and he followed out with
 admirable clearness the steps by which from these fundamental systems
 the other organs arise secondarily, such as the organs of sense, the
-glands, lungs, heart, vascular glands, Wolffian bodies, kidneys and
+glands, [[Lung|lungs]], heart, vascular glands, Wolffian bodies, kidneys and
 generative organs.
 
 To complete von Baer's system there was mainly wanting a more minute
@@ -1870,22 +1870,22 @@ human embryology; the researches of Coste in comparative embryology in
 1837; the publication of Johannes Müller's great work on physiology, and
 Rudolph Wagner's smaller text-book, in both of which the subject of
 embryology received a very full treatment, together with the excellent
-_Manual of the Development of the Foetus_, by Valentin, in 1835, the
+_[[Manual]] of the Development of the Foetus_, by Valentin, in 1835, the
 first separate and systematic work on the whole subject, now secured to
 embryology its permanent place among the biological sciences on the
 Continent; while in this country attention was drawn to the subject by
 the memoirs of Allen Thomson (1831), Th. Wharton Jones (1835-1838) and
-Martin Barry (1839-1840).
+[[Martin]] [[Barry]] (1839-1840).
 
 Among the more remarkable special discoveries which belong to the period
 now referred to, a few may be mentioned, as, for example, that of the
 chorda dorsalis by von Baer, a most important one, which may be regarded
-as the key to the whole of vertebral morphology; the phenomenon of yolk
+as the [[Key|key]] to the whole of vertebral morphology; the phenomenon of yolk
 segmentation, now known to be universal among animals, but which was
 only first carefully observed in Batrachia by Prévost and Dumas (though
 previously casually noticed by Swammerdam), and was soon afterwards
 followed out by Rusconi and von Baer in fishes; the discovery of the
-branchial clefts, plates and vascular arches in the embryos of the
+branchial clefts, plates and vascular [[Arches|arches]] in the embryos of the
 higher abranchiate animals by H. Rathke in 1825-1827; the able
 investigation of the transformations of these arches by Reichert in
 1837; and the researches on the origin and development of the urinary
@@ -1910,7 +1910,7 @@ guinea-pig and the roe-deer, and appeared in succession in the years
 Next may be mentioned the great work of Coste, entitled _Histoire gén.
 et particul. du développement des animaux_, of which, however, only four
 fasciculi appeared between the years 1847 and 1859, leaving the work
-incomplete. In this work, in the large folio form, beautiful
+incomplete. In this work, in the large [[Folio|folio]] form, beautiful
 representations are given of the author's valuable observations on human
 embryology, and on that of various mammals, birds and fishes, and of the
 author's discovery in 1847 of the process of partial yolk segmentation
@@ -1921,7 +1921,7 @@ mammals.
 The development of reptiles received important elucidation from the
 researches of Rathke, in his history of the development of serpents,
 published at Königsberg in 1839, and in a similar work on the turtle in
-1848, as well as in a later one on the crocodile in 1866, along with
+1848, as well as in a later one on the [[Crocodile|crocodile]] in 1866, along with
 which may be associated the observations of H.J. Clark on the
 "Embryology of the Turtle," published in Agassiz's _Contributions to
 Natural History, &c._, 1857.
@@ -1943,7 +1943,7 @@ is in some shape or other the invariable precursor of embryonic
 formation.
 
 The first considerable work on the development of a division of the
-invertebrates was that of Maurice Herold of Marburg on spiders, _De
+invertebrates was that of [[Maurice]] Herold of [[Marburg]] on spiders, _De
 generatione aranearum ex ovo_, published at Marburg in 1824, in which
 the whole phenomena of the formative processes in that animal are
 described with remarkable clearness and completeness. A few years later
@@ -1993,14 +1993,14 @@ embryology, the publication of Darwin's great idea ushered in a third.
 Whereas hitherto the facts of anatomy and development were loosely held
 together by the theory of types which owed its origin and maintenance to
 Cuvier, L. Agassiz, J. Müller and R. Owen, they were now combined into
-one organic whole by the theory of descent and by the hypothesis of
+one organic whole by the theory of descent and by the [[Hypothesis|hypothesis]] of
 recapitulation which was deduced from that theory. First clearly
-enunciated by Johann Müller in his well-known work _Für Darwin_
+enunciated by Johann Müller in his well-known work _Für [[Darwin]]_
 published in 1864 (rendered in England as _Facts for Darwin_, 1869), the
 view that a knowledge of embryonic and larval histories would lay bare
 the secrets of race history and enable the course of evolution to be
 traced and so lead to the discovery of the natural system of
-classification, gave a powerful stimulus to embryological research. The
+[[Classification|classification]], gave a powerful stimulus to embryological research. The
 first fruits of this impetus were gathered by Alexander Agassiz, A.
 Kowalewsky and E. Metschnikoff. Agassiz, in his memoir on the
 _Embryology of the Starfish_ published in 1864, showed that the
@@ -2048,16 +2048,16 @@ greatly improved. Since Anton Dohrn founded the Stazione Zoologica at
 Naples in 1872, observatories for the study of marine organisms have
 been established in most countries. Of journeys which have been made to
 distant countries and which have resulted in important contributions to
-embryology, may be mentioned the expedition (1884-1886) of the cousins
+embryology, may be mentioned the expedition (1884-1886) of the [[Cousin|cousins]]
 Sarasin to Ceylon (development of Gymnophiona), of E. Selenka to Brazil
-and the East Indies (development of Marsupials, Primates and other
+and the [[East Indies]] (development of Marsupials, Primates and other
 mammals, 1877, 1889, 1892), of A.A.W. Hubrecht to the East Indies (1890,
-development of _Tarsius_), of W.H. Caldwell to Australia (1883-1884,
+development of _Tarsius_), of W.H. Caldwell to [[Australia]] (1883-1884,
 discovery of the nature of the ovum and oviposition of _Echidna_ and of
 _Ceratodus_), of A. Sedgwick to the Cape (1883, development of
 _Peripatus_), of J. Graham Kerr to Paraguay (1896, development of
 _Lepidosiren_), of R. Semon to Australia and the Malay Archipelago
-(1891-1893, development of Monotremata, Marsupialia), and of J.S.
+(1891-1893, development of Monotremata, [[Marsupialia]]), and of J.S.
 Budgett to Africa (1898, 1900, 1901, 1903, development of _Polypterus_).
 
 In methods, while great improvements have been made in the processes of
@@ -2084,9 +2084,9 @@ which develops as a split in the embryonic mesoblast, and (3) the
 epicoelic which was enclosed by folds of the skin and lined by ectoderm
 (e.g. atrial cavity of Tunicates, &c.). This suggestion was of great
 importance, because it led the embryologists of the day (Balfour, the
-brothers Hertwig, Lankester and others) to discuss the question as to
+brothers Hertwig, Lankester and others) to [[Discus|discuss]] the question as to
 whether there was not more than one kind of body-cavity. The Hertwigs
-(_Coelomtheorie_, Jena, 1881) distinguished two kinds, the enterocoel
+(_Coelomtheorie_, [[Jena]], 1881) distinguished two kinds, the enterocoel
 and the pseudocoel. The former, to which they limited the use of the
 word coelom, and which is developed directly or indirectly from the
 enteron, is found in Annelida, Arthropoda, Echinodermata, Chordata, &c.
@@ -2195,7 +2195,7 @@ completed by subsequent workers, among whom may be mentioned E. van
 Beneden, J.B. Carnoy, G. Platner, T. Boveri, O. Hertwig, A. Brauer. The
 subject is still being actively pursued, and hopes are entertained that
 some relation may be found between the behaviour of the chromosomes and
-the facts of heredity.
+the facts of [[Heredity|heredity]].
 
 Since 1874 (W. His, _Unsere Körperform und das physiologische Problem
 ihrer Entstehung_) a new branch of embryology, which concerns itself
@@ -2205,7 +2205,7 @@ in 1894 founded the _Archiv für Entwickelungsmechanik der Organismen_,
 T. Boveri and Y. Delage who discovered and elucidated the phenomenon of
 merogony, J. Loeb who discovered artificial parthenogenesis, O. and R.
 Hertwig, H. Driesch, C. Herbst, E. Maupas, A. Weismann, T.H. Morgan,
-C.B. Davenport (_Experimental Morphology_, 2 vols., 1899) and many
+C.B. [[Davenport]] (_Experimental Morphology_, 2 vols., 1899) and many
 others.
 
 In the elucidation of remarkable life-histories we may point in the
@@ -2224,14 +2224,14 @@ zool. exp._ (3), 9, p. 81, 1901), of Delage (_Comptes rendus_, 103,
 life-history of the Aphidae (_Bull. U.S. Dep. Agric. Ent._, technical
 series, 9, 1901). The work of C. Grobben (_Arbeiten zool. Inst. Wien_,
 4, 1882) and of B. Uljanin ("Die Arten der Gattung Doliolum," _Fauna u.
-Flora des Golfes von Neapel_, 1884) on the extraordinary life-history
+Flora des [[Golf|Golfes]] von Neapel_, 1884) on the extraordinary life-history
 and migration of the buds in _Doliolum_ must also be mentioned. In pure
 embryological morphology we have had Heymons' elucidation of the
 Arthropod head, the work of Hatschek on Annelid and other larvae, the
-works of H. Bury and of E.W. MacBride which have marked a distinct
+works of H. [[Bury]] and of E.W. MacBride which have marked a distinct
 advance in our knowledge of the development of Echinodermata, of K.
 Mitsukuri, who has founded since 1882 an important school of embryology
-in Japan, on the early development of Chelonia and Aves, of A. Brauer
+in [[Japan]], on the early development of Chelonia and Aves, of A. Brauer
 and G.C. Price on the development of vertebrate excretory organs, of Th.
 W. Bischoff, E. van Beneden, E. Selenka, A.A.W. Hubrecht, R. Bonnet, F.
 Keibel and R. Assheton on the development of mammals, of A.A.W. Hubrecht
@@ -2241,7 +2241,7 @@ Dipnoan and Ganoid fishes, of A. Kowalewsky, B. Hatschek, A. Willey and
 E.W. MacBride on the development of Amphioxus, of B. Dean on the
 development of Bdellostoma, of A. Götte on the development of Amphibia,
 of H. Strahl and L. Will on the early development of reptiles, of T.H.
-Huxley, C. Gegenbaur and W.K. Parker on the development of the
+Huxley, C. [[Gegenbaur]] and W.K. Parker on the development of the
 vertebrate skeleton, of van Wijhe on the segmentation of the vertebrate
 head, by which the modern theory of head-segmentation, previously
 adumbrated by Balfour, was first established, of Leche and Röse on the
@@ -2269,11 +2269,11 @@ embryonic tissues.
   1837); F.M. Balfour, _A Monograph on the Development of Elasmobranch
   Fishes_ (London, 1878); _A Treatise on Comparative Embryology_, vols.
   i. and ii. (London, 1885) (still the most important work on Vertebrate
-  Embryology); M. Duval, _Atlas d'Embryologie_ (Paris, 1889); M. Foster
+  Embryology); M. [[Duval]], _[[Atlas]] d'Embryologie_ (Paris, 1889); M. Foster
   and F.M. Balfour, _Elements of Embryology_ (London, 1883); O. Hertwig,
   _Lehrbuch der Entwicklungsgeschichte des Menschen u. der Wirbeltiere_
   (6th ed., Jena, 1898); A. Kölliker, _Entwicklungsgeschichte des
-  Menschen u. der höheren Tiere_ (Leipzig, 1879); A.M. Marshall,
+  Menschen u. der höheren Tiere_ (Leipzig, 1879); A.M. [[Marshall]],
   _Vertebrate Embryology_ (London, 1893).     (A. Se.*)
 
 
@@ -2355,7 +2355,7 @@ bilateral cleavage stages.
   orientation of the egg's plasma in those forms, the segmented eggs of
   which represent aequipotential systems; this orientation is capable of
   a sort of regulation or restoration after disturbances of any sort; in
-  the egg of the Ctenophora such a regulation is not possible, and in
+  the egg of the [[Ctenophora]] such a regulation is not possible, and in
   the frog's egg it is facultative, i.e. possible under certain
   conditions, but impossible under others. Should this interpretation be
   right, the difference between the eggs of different animals would not
@@ -2423,7 +2423,7 @@ not hold for all, and the only thing we can say is, that the unknown
 primary organization of the egg is here responsible. (Compare the papers
 on "cell-lineage" of E.B. Wilson, F.R. Lillie, H.S. Jennings, O.
 Zurstrassen and others.) Of the inner factors of ontogeny there is
-another category that may be called physical, that already spoken of
+another [[Category|category]] that may be called physical, that already spoken of
 being physiological. The most important of these is the capillarity of
 the cell surfaces. Berthold was the first to call attention to its role
 in the arrangement of cell composites, and afterwards the matter was
@@ -2481,7 +2481,7 @@ experiments have not been carried out far enough to get exact results.
 Formative stimuli in a narrower meaning of the word, i.e. stimuli
 affecting the origin of embryonic organs, have long been known in
 botany; in zoology we know (especially from Loeb) a good deal about the
-influence of light, gravitation, contact, &c., on the formation of
+influence of light, [[Gravitation|gravitation]], contact, &c., on the formation of
 organs in hydroids, but these forms are very plant-like in many
 respects; as to free-living animals, Herbst proved that the formation of
 the arms of the pluteus larva depends on the existence of the calcareous
@@ -2546,7 +2546,7 @@ for all other experiments on "self-differentiation," whether analytical
   Vitalism.
 
 Can we understand differentiation by means of the laws of natural
-phenomena offered to us by physics and chemistry? Most people would say
+phenomena offered to us by physics and [[Chemistry|chemistry]]? Most people would say
 yes, though not yet. Driesch has tried to show that we are absolutely
 not able to understand development, at any rate one part of it, i.e. the
 localization of the various successive steps of differentiation. But it
@@ -2587,10 +2587,10 @@ FOOTNOTES:
 
   [2] It may be proper to mention, as authors of this period who made
     special researches on the development of the embryo--(1) Volcher
-    Coiter of Groningen, who, along with Aldrovandus of Bologna, made a
+    Coiter of [[Groningen]], who, along with Aldrovandus of Bologna, made a
     series of observations on the formation of the chick, day by day, in
     the incubated egg, which were described in a work published in 1573,
-    and (2) Hieronymus Fabricius (ab Aquapendente), who, in his work _De
+    and (2) Hieronymus [[Fabricius]] (ab Aquapendente), who, in his work _De
     formato foetu_, first published at Padua in 1600, gave an interesting
     account, illustrated by many fine engravings, of uterogestation and
     the foetus of a number of quadrupeds and other animals, and in a
@@ -2607,7 +2607,7 @@ FOOTNOTES:
 
   [3] Along with the work of W. Hunter must be mentioned a large
     collection of unpublished observations by Dr James Douglas, which are
-    preserved in the Hunterian Museum of Glasgow University.
+    preserved in the Hunterian Museum of [[Glasgow]] University.
 
 ## See also
 

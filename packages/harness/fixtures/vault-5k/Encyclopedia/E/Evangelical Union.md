@@ -1,6 +1,6 @@
 # Evangelical Union
 
-EVANGELICAL UNION, a religious denomination which originated in the
+EVANGELICAL UNION, a religious [[Denomination|denomination]] which originated in the
 suspension of the Rev. James Morison (1816-1893), minister of a United
 Secession congregation in Kilmarnock, Scotland, for certain views
 regarding faith, the work of the Holy Spirit in salvation, and the
@@ -30,7 +30,7 @@ in 1896, after prolonged negotiation, the Evangelical Union was
 incorporated with the Congregational Union of Scotland.
 
   See _The Evangelical Union Annual; History of the Evangelical Union_,
-  by F. Ferguson (Glasgow, 1876); _The Worthies of the E. U._ (1883); W.
+  by F. Ferguson ([[Glasgow]], 1876); _The Worthies of the E. U._ (1883); W.
   Adamson, _Life of Dr James Morison_ (1898).
 
 ## References

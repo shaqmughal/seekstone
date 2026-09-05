@@ -2,15 +2,15 @@
 
 CLAYTON-BULWER TREATY, a famous treaty between the United States and
 Great Britain, negotiated in 1850 by John M. Clayton and Sir Henry
-Lytton Bulwer (Lord Dalling), in consequence of the situation created by
+[[Lytton]] Bulwer (Lord Dalling), in consequence of the situation created by
 the project of an interoceanic canal across Nicaragua, each signatory
-being jealous of the activities of the other in Central America. Great
+being jealous of the activities of the other in [[Central America]]. Great
 Britain had large and indefinite territorial claims in three
 regions--Belize or British Honduras, the Mosquito Coast and the Bay
 Islands.[1] On the other hand, the United States, without territorial
 claims, held in reserve, ready for ratification, treaties with Nicaragua
 and Honduras, which gave her a certain diplomatic vantage with which to
-balance the _de facto_ dominion of Great Britain. Agreement on these
+[[Balance|balance]] the _de facto_ dominion of Great Britain. Agreement on these
 points being impossible and agreement on the canal question possible,
 the latter was put in the foreground. The resulting treaty had four
 essential points. It bound both parties not to "obtain or maintain" any
@@ -24,13 +24,13 @@ extend their protection by treaty stipulation to any other practicable
 communications, whether by canal or railway, across the isthmus which
 connects North and South America." Finally, it stipulated that neither
 signatory would ever "occupy, or fortify, or colonize, or assume or
-exercise any dominion over Nicaragua, Costa Rica, the Mosquito Coast or
+exercise any dominion over Nicaragua, [[Costa Rica]], the Mosquito Coast or
 any part of Central America," nor make use of any protectorate or
 alliance, present or future, to such ends.
 
 The treaty was signed on the 19th of April, and was ratified by both
-governments; but before the exchange of ratifications Lord Palmerston,
-on the 8th of June, directed Sir H. Bulwer to make a "declaration" that
+governments; but before the [[Exchange|exchange]] of ratifications Lord Palmerston,
+on the 8th of June, directed Sir H. Bulwer to make a "[[Declaration|declaration]]" that
 the British government did not understand the treaty "as applying to Her
 Majesty's settlement at Honduras, or its dependencies." Mr Clayton made
 a counter-declaration, which recited that the United States did not
@@ -48,10 +48,10 @@ Britain through the territory held by her at its mouth--the United
 States losing the above-mentioned treaty advantages,--just as the
 explicit abnegations of the treaty rendered impossible such control
 politically by either power. But great Britain claimed that the excepted
-"settlement" at Honduras was the "Belize" covered by the extreme British
-claim; that the Bay Islands were a dependency of Belize; and that, as
+"settlement" at Honduras was the "[[Belize]]" covered by the extreme British
+claim; that the [[Bay Islands]] were a dependency of Belize; and that, as
 for the Mosquito Coast, the abnegatory clauses being wholly prospective
-in intent, she was not required to abandon her protectorate. The United
+in [[Intent|intent]], she was not required to abandon her protectorate. The United
 States contended that the Bay Islands were not the "dependencies" of
 Belize, these being the small neighbouring islands mentioned in the same
 treaties; that the excepted "settlement" was the British-Honduras of
@@ -89,7 +89,7 @@ Clayton-Bulwer Treaty.[3] The new policy was based on national
 self-interest. The arguments advanced on its behalf were quite
 indefensible in law and history, and although the position of the United
 States in 1850-1860 was in general the stronger in history, law and
-political ethics, that of Great Britain was even more conspicuously the
+political [[Ethics|ethics]], that of Great Britain was even more conspicuously the
 stronger in the years 1880-1884. In 1885 the former government reverted
 to its traditional policy, and the Hay-Pauncefote Treaty of 1902, which
 replaced the Clayton-Bulwer Treaty, adopted the rule of neutralization
@@ -98,8 +98,8 @@ for the Panama Canal.
   See the collected diplomatic correspondence in I.D. Travis, _History
   of the Clayton-Bulwer Treaty_ (Ann Arbor, Mich., 1899); J.H. Latané,
   _Diplomatic Relations of the United States and Spanish America_
-  (Baltimore, 1900); T.J. Lawrence, _Disputed Questions of Modern
-  International Law_ (2nd ed., Cambridge, England, 1885); Sir E.L.
+  (Baltimore, 1900); T.J. [[Lawrence]], _Disputed Questions of Modern
+  [[International]] Law_ (2nd ed., Cambridge, England, 1885); Sir E.L.
   Bulwer in 99 _Quarterly Rev._ 235-286, and Sir H. Bulwer in 104
   _Edinburgh Rev._ 280-298.
 
@@ -124,7 +124,7 @@ FOOTNOTES:
     object," which had failed, and the treaty had determined as a special
     contract; moreover, none of the additional treaties to embody the
     "general principle" had been negotiated, and Great Britain had not
-    even offered co-operation in the protection and neutrality-guarantee
+    even offered [[Co-Operation|co-operation]] in the protection and neutrality-guarantee
     of the Panama railway built in 1850-1855, so that her rights had
     lapsed; certain engagements of the treaty she had violated, and
     therefore the whole treaty was voidable, &c.

@@ -14,20 +14,20 @@ mainly to Marshal Niel) were set in motion, and, since these required
 time to mature, recourse was had to foreign alliances in the hope of
 delaying the impending rupture. In the first week of June 1870, General
 Lebrun, as a confidential agent of the emperor Napoleon III., was sent
-to Vienna to concert a plan of joint operations with Austria against
+to Vienna to [[Concert|concert]] a plan of joint operations with Austria against
 Prussia. Italy was also to be included in the alliance, and it was
 agreed that in case of hostilities the French armies should concentrate
 in northern Bavaria, where the Austrians and Italians were to join them,
-and the whole immense army thus formed should march via Jena on Berlin.
+and the whole immense army thus formed should march via [[Jena]] on Berlin.
 To what extent Austria and Italy committed themselves to this scheme
-remains uncertain, but that the emperor Napoleon believed in their _bona
+remains uncertain, but that the emperor Napoleon believed in their _[[Bona|bona]]
 fides_ is beyond doubt.
 
 Whether the plan was betrayed to Prussia is also uncertain, and almost
 immaterial, for Moltke's plans were based on an accurate estimate of the
 time it would take Austria to mobilize and on the effect of a series of
 victories on French soil. At any rate Moltke was not taken into
-Bismarck's confidence in the affair of Ems in July 1870, and it is to be
+Bismarck's confidence in the affair of [[Ems]] in July 1870, and it is to be
 presumed that the chancellor had already satisfied himself that the
 schemes of operations prepared by the chief of the General Staff fully
 provided against all eventualities. These schemes were founded on
@@ -36,7 +36,7 @@ France--in the first place the defeat of the French field armies and in
 the second the occupation of Paris. On these lines plans for the
 strategic deployment of the Prussian army were prepared by the General
 Staff and kept up to date year by year as fresh circumstances (e.g. the
-co-operation of the minor German armies) arose and new means of
+[[Co-Operation|co-operation]] of the minor German armies) arose and new means of
 communication came into existence. The campaign was actually opened on a
 revise of 1868-1869, to which was added, on the 6th of May 1870, a
 secret memorandum for the General Staff.
@@ -54,7 +54,7 @@ vigorous offensive was so much in harmony with their traditions that
 the German plan had to be framed so as to meet such emergencies. On the
 whole, Moltke concluded that the enemy could not undertake this
 offensive before the eighth day after mobilization. At that date about
-five French army corps (150,000 men) could be collected near Metz, and
+five French army [[Corps|corps]] (150,000 men) could be collected near Metz, and
 two corps (70,000) near Strassburg; and as it was six days' march from
 Metz to the Rhine, no serious attack could be delivered before the
 fourteenth day, by which day it could be met by superior forces near
@@ -70,7 +70,7 @@ concentrate by road, and the remaining nine were distributed to the nine
 through railway lines available. These ten corps were grouped in three
 armies, and as the French might violate Belgian neutrality or endeavour
 to break into southern Germany, two corps (Prussian Guard and Saxon XII.
-corps) were temporarily held back at a central position around Mainz,
+corps) were temporarily held back at a central position around [[Mainz]],
 whence they could move rapidly up or down the Rhine valley. If Belgian
 neutrality remained unmolested, the reserve would join the III. army on
 the left wing, giving it a two to one superiority over its adversary;
@@ -82,8 +82,8 @@ to it; two corps for the present formed the III. army, and the remaining
 five were assigned to the II. army in the centre.
 
 When (16th-17th July) the South German states decided to throw in their
-lot with the rest, their three corps were allotted to the III. army, the
-Guards and Saxons to the II. army, whilst the three corps originally
+[[Lot|lot]] with the rest, their three corps were allotted to the III. army, the
+[[Guards]] and Saxons to the II. army, whilst the three corps originally
 left behind were finally distributed one to each army, so that up to the
 investment of Metz the order of battle was as follows:
 
@@ -93,7 +93,7 @@ investment of Metz the order of battle was as follows:
           I. Army:           /   (I. corps, v. Manteuffel)
     General v. Steinmetz    <   VII.   "    v. Zastrow
     (C. of S., v. Sperling)  | VIII.   "    v. Goeben
-                             \ (1st) and 3rd cavalry divisions
+                             \ (1st) and 3rd [[Cavalry|cavalry]] divisions
 
                                                      Total       85,000
 
@@ -140,15 +140,15 @@ able to inform Moltke on the 22nd of July (seventh day of mobilization)
 that the French stood from right to left in the following order, on or
 near the frontier:
 
-  1st corps      Marshal MacMahon, duke of Magenta, Strassburg
-  5th corps      General de Failly, Saargemuend and Bitche
-  2nd corps      General Frossard, St Avold
+  1st corps      Marshal MacMahon, duke of [[Magenta]], Strassburg
+  5th corps      General de [[Failly]], Saargemuend and Bitche
+  2nd corps      General [[Frossard]], St Avold
   4th corps      General de Ladmirault, Thionville
                      With, behind them:
-  3rd corps      Marshal Bazaine, Metz
-  Guard          General Bourbaki, Nancy
-  6th corps      Marshal Canrobert, Chalons
-  7th corps      General Felix Douay, Belfort
+  3rd corps      Marshal [[Bazaine]], Metz
+  Guard          General [[Bourbaki]], Nancy
+  6th corps      Marshal [[Canrobert]], Chalons
+  7th corps      General [[Felix]] Douay, Belfort
 
 If therefore they began a forward movement on the 23rd (eighth day) the
 case foreseen by Moltke had arisen, and it became necessary to detrain
@@ -167,7 +167,7 @@ who, thanks to Moltke's premature action, were for the moment at a very
 serious disadvantage. But the French generals were unequal to their
 responsibilities. It is now clear that, had the great Napoleon and his
 marshals been in command, they would have made light of the want of
-cooking pots, cholera belts, &c., and, by a series of rapid marches,
+cooking pots, cholera belts, &c., and, by a series of rapid [[Marches|marches]],
 would have concentrated odds of at least three to one upon the heads of
 the Prussian columns as they struggled through the defiles of the Hardt,
 and won a victory whose political results might well have proved
@@ -182,7 +182,7 @@ pleaded that he could not move until his trains were complete.
 Fortunately for the Germans, the French intelligence service not only
 failed to inform the staff of this extraordinary opportunity, but it
 allowed itself to be hypnotized by the most amazing rumours. In
-imagination they saw armies of 100,000 men behind every forest, and, to
+[[Imagination|imagination]] they saw armies of 100,000 men behind every forest, and, to
 guard against these dangers, the French troops were marched and
 counter-marched along the frontiers in the vain hope of discovering an
 ideal defensive position which should afford full scope to the power of
@@ -197,7 +197,7 @@ On this day the French corps held the following positions from right to
 left:
 
   1st corps      Hagenau
-  2nd corps      Forbach
+  2nd corps      [[Forbach]]
   3rd corps      St Avold
   4th corps      Bouzonville
   5th corps      Bitche
@@ -211,7 +211,7 @@ left:
 The French 2nd corps was directed to advance on the following morning
 direct on Saarbruecken, supported on the flanks by two divisions from the
 5th and 3rd corps. The order was duly carried out, and the Prussians
-(one battalion, two squadrons and a battery), seeing the overwhelming
+(one [[Battalion|battalion]], two squadrons and a battery), seeing the overwhelming
 numbers opposed to them, fell back fighting and vanished to the
 northward, having given a very excellent example of steadiness and
 discipline to their enemy.[1] The latter contented themselves by
@@ -227,7 +227,7 @@ Meanwhile, Steinmetz, left without instructions and fearing for the
 safety of the II. army, the heads of whose columns were still in the
 defiles of the Hardt, moved the I. army from the neighbourhood of Merzig
 obliquely to his left front, so as to strike the flank of the French
-army if it continued its march towards Kaiserslautern, in which
+army if it continued its march towards [[Kaiserslautern]], in which
 direction it appeared to be heading.
 
 
@@ -269,16 +269,16 @@ orders to this effect were issued on the evening of the 5th. In
 pursuance of these orders, the advance guard of the 14th division
 (Lieutenant General von Kameke) reached Saarbruecken about 9 A.M. on the
 6th, where the Germans found to their amazement that the bridges were
-intact. To secure this advantage was the obvious duty of the commander
+intact. To secure this advantage was the obvious duty of the [[Commander|commander]]
 on the spot, and he at once ordered his troops to occupy a line of low
 heights beyond the town to serve as a bridge-head. As the leading troops
 deployed on the heights Frossard's guns on the Spicheren Plateau opened
 fire, and the advanced guard battery replied. The sound of these guns
 unchained the whole fighting instinct carefully developed by a long
 course of Prussian manoeuvre training. Everywhere, generals and troops
-hurried towards the cannon thunder. Kameke, even more in the dark than
+hurried towards the [[Cannon|cannon]] thunder. Kameke, even more in the dark than
 Steinmetz as to Moltke's intentions and the strength of his adversaries,
-attacked at once, precisely as he would have done at manoeuvres, and in
+attacked at once, precisely as he would have done at [[Manoeuvres|manoeuvres]], and in
 half an hour his men were committed beyond recall. As each fresh unit
 reached the field it was hurried into action where its services were
 most needed, and each fresh general as he arrived took a new view of the
@@ -401,7 +401,7 @@ of Gravelotte-St Privat.
 
 We return now to the I. army at Saarbruecken. Its position on the morning
 of the 7th of August gave cause for the gravest anxiety. At daylight a
-dense fog lay over the country, and through the mist sounds of heavy
+dense [[Fog|fog]] lay over the country, and through the mist sounds of heavy
 firing came from the direction of Forbach, where French stragglers had
 rallied during the night. The confusion on the battlefield was
 appalling, and the troops in no condition to go forward. Except the 3rd,
@@ -431,7 +431,7 @@ The prince forthwith deflected the march of the Guards, IV. and X.
 corps, towards Rohrbach, whilst the IX. and XII. closed up to supporting
 distance behind them. Thus, as Steinmetz moved away to the west and
 north, Frederick Charles was diverging to the south and east, and a
-great gap was opening in the very centre of the German front. This was
+great [[Gap|gap]] was opening in the very centre of the German front. This was
 closed only by the III. corps, still on the battle-field, and by
 portions of the X. near Saargemuend,[2] whilst within striking distance
 lay 130,000 French troops, prevented only by the incapacity of their
@@ -469,7 +469,7 @@ These were based, not on an exact knowledge of where the French army
 actually stood, but on the opinion Moltke had formed as to where it
 ought to have been on military grounds solely, overlooking the fact that
 the French staff were not free to form military decisions but were
-compelled to bow to political expediency.
+compelled to [[Bow|bow]] to political expediency.
 
 Actually on the 7th of August the emperor had decided to attack the
 Germans on the 8th with the whole Rhine Army, but this decision was
@@ -485,11 +485,11 @@ the whole army took up a strong position on the French Nied.
 Meanwhile the II. German army had received its orders to march in a line
 of army corps on a broad front in the general direction of
 Pont-a-Mousson, well to the south of Metz. The I. army was to follow by
-short marches in echelon on the right; only the III. corps was directed
+short marches in [[Echelon|echelon]] on the right; only the III. corps was directed
 on Falkenberg, a day's march farther towards Metz along the St
 Avold-Metz road. The movement was begun on the 10th, and towards evening
 the French army was located on the right front of the III. corps. This
-entirely upset Moltke's hypothesis, and called for a complete
+entirely upset Moltke's [[Hypothesis|hypothesis]], and called for a complete
 modification of his plans, as the III. corps alone could not be expected
 to resist the impact of Bazaine's five corps. The III. corps therefore
 received orders to stand fast for the moment, and the remainder of the
@@ -586,12 +586,12 @@ Tour).
 
 Meanwhile Prince Frederick Charles, at Pont-a-Mousson, was still
 confident in the French retreat to the Meuse, and had even issued orders
-for the 17th on that assumption. Firing had been heard since 9.15 A.M.,
+for the 17th on that [[Assumption|assumption]]. Firing had been heard since 9.15 A.M.,
 and about noon Alvensleben's first report had reached him, but it was
 not till after 2 that he realized the situation. Then, mounting his
 horse, he covered the 15 m. to Flavigny over crowded and difficult roads
 within the hour, and on his arrival abundantly atoned for his strategic
-errors by his unconquerable determination and tactical skill. When
+[[Error|errors]] by his unconquerable determination and tactical skill. When
 darkness put a stop to the fighting, he considered the position.
 Cancelling all previous orders, he called all troops within reach to the
 battle-field and resigned himself to wait for them. The situation was
@@ -615,8 +615,8 @@ About noon the king and Moltke drove up to the ground, and there was an
 animated discussion as to what the French would do next. Aware of their
 withdrawal from his immediate front, Prince Frederick Charles reverted
 to his previous idea and insisted that they were in full retreat towards
-the north, and that their entrenchments near Point du Jour and St Hubert
-(see map in article METZ) were at most a rearguard position. Moltke was
+the north, and that their entrenchments near Point du Jour and St [[Hubert]]
+(see [[Map|map]] in article METZ) were at most a rearguard position. Moltke was
 inclined to the same view, but considered the alternative possibility of
 a withdrawal towards Metz, and about 2 P.M. orders were issued to meet
 these divergent opinions. The whole army was to be drawn up at 6 A.M. on
@@ -659,7 +659,7 @@ lay inactive 30 m. away.
 
   Bazaine in Metz.
 
-This seems a fitting place to discuss the much-disputed point of
+This seems a fitting place to [[Discus|discuss]] the much-disputed point of
 Bazaine's conduct in allowing himself to be driven back into Metz when
 fortune had thrown into his hands the great opportunity of the 16th and
 17th of August. He had been appointed to command on the 10th, but the
@@ -678,7 +678,7 @@ months. What use the French government might choose to make of the
 breathing space thus secured was their business, not his; and subsequent
 events showed that, had they not forced MacMahon's hand, the existence
 of the latter's nucleus army of trained troops might have prevented the
-investment of Paris. Bazaine was condemned by court-martial after the
+investment of Paris. Bazaine was condemned by [[Court-Martial|court-martial]] after the
 war, but if the case were reheard to-day it is certain that no charge of
 treachery could be sustained.
 
@@ -686,7 +686,7 @@ On the German side the victory at St Privat was at once followed up by
 the headquarters. Early on the 19th the investment of Bazaine's army in
 Metz was commenced. A new army, the Army of the Meuse (often called the
 IV.), was as soon as possible formed of all troops not required for the
-maintenance of the investment, and marched off under the command of the
+[[Maintenance|maintenance]] of the investment, and marched off under the command of the
 crown prince of Saxony to discover and destroy the remainder of the
 French field army, which at this moment was known to be at Chalons.
 
@@ -741,7 +741,7 @@ open. By 11 A.M. the XI. corps (III. army) had already closed that line,
 and about noon the Saxons (Army of the Meuse) moving round between the
 town and the Belgian frontier joined hands with the XI., and the circle
 of investment was complete. The battle of Sedan was closed about 4.15
-P.M. by the hoisting of the white flag. Terms were agreed upon during
+P.M. by the hoisting of the white [[Flag|flag]]. Terms were agreed upon during
 the night, and the whole French army, with the emperor, passed into
 captivity.     (F. N. M.)
 
@@ -755,7 +755,7 @@ progress,[4] and Paris, if not so defenceless as in 1814, was more
 populous. Starvation was the best method of attacking an overcrowded
 fortress, and the Parisians were not thought to be proof against the
 deprivation of their accustomed luxuries. Even Moltke hoped that by the
-end of October he would be "shooting hares at Creisau," and with this
+end of October he would be "shooting [[Hare|hares]] at Creisau," and with this
 confidence the German III. and IV. armies left the vicinity of Sedan on
 the 4th of September. The march called for no more than good staff
 arrangements, and the two armies arrived before Paris a fortnight later
@@ -766,7 +766,7 @@ place on the 4th of September to a republican Government of National
 Defence, which made its appeal to, and evoked, the spirit of 1792.
 Henceforward the French nation, which had left the conduct of the war to
 the regular army and had been little more than an excited spectator,
-took the burden upon itself.
+took the [[Burden|burden]] upon itself.
 
 The regular army, indeed, still contained more than 500,000 men (chiefly
 recruits and reservists), and 50,000 sailors, marines, douaniers, &c.,
@@ -787,14 +787,14 @@ weeks immediately following Sedan, we must briefly allude to the sieges
 conducted by the Germans--Paris (q.v.), Metz (q.v.) and Belfort (q.v.)
 excepted. Old and ruined as many of them were, the French fortresses
 possessed considerable importance in the eyes of the Germans.
-Strassburg, in particular, the key of Alsace, the standing menace to
+Strassburg, in particular, the [[Key|key]] of Alsace, the standing menace to
 South Germany and the most conspicuous of the spoils of Louis XIV.'s
 _Raubkriege_, was an obvious target. Operations were begun on the 9th of
 August, three days after Woerth, General v. Werder's corps (Baden troops
-and Prussian Landwehr) making the siege. The French commandant, General
+and Prussian [[Landwehr]]) making the siege. The French commandant, General
 Uhrich, surrendered after a stubborn resistance on the 28th of
 September. Of the smaller fortresses many, being practically unarmed and
-without garrisons, capitulated at once. Toul, defended by Major Huck
+without [[Garrison|garrisons]], capitulated at once. Toul, defended by [[Major]] Huck
 with 2000 mobiles, resisted for forty days, and drew upon itself the
 efforts of 13,000 men and 100 guns. Verdun, commanded by General Guerin
 de Waldersbach, held out till after the fall of Metz. Some of the
@@ -807,10 +807,10 @@ blown up by the soldiers in charge and 300 French and a few German
 soldiers were killed by the explosion. But as the Germans advanced,
 their lines of communication were thoroughly organized, and the belt of
 country between Paris and the Prussian frontier subdued and garrisoned.
-Most of these fortresses were small town enceintes, dating from Vauban's
+Most of these fortresses were small town [[Enceinte|enceintes]], dating from Vauban's
 time, and open, under the new conditions of warfare, to concentric
-bombardment from positions formerly out of range, upon which the
-besieger could place as many guns as he chose to employ. In addition
+[[Bombardment|bombardment]] from positions formerly out of range, upon which the
+besieger could place as many guns as he [[Chose|chose]] to employ. In addition
 they were usually deficient in armament and stores and garrisoned by
 newly-raised troops. Belfort, where the defenders strained every nerve
 to keep the besiegers out of bombarding range, and Paris formed the only
@@ -819,20 +819,20 @@ exceptions to this general rule.
 
   The "Defense Nationale."
 
-The policy of the new French government was defined by Jules Favre on
+The policy of the new French government was defined by Jules [[Favre]] on
 the 6th of September. "It is for the king of Prussia, who has declared
 that he is making war on the Empire and not on France, to stay his hand;
-we shall not cede an inch of our territory or a stone of our
+we shall not cede an [[Inch|inch]] of our territory or a stone of our
 fortresses." These proud words, so often ridiculed as empty bombast,
 were the prelude of a national effort which re-established France in the
 eyes of Europe as a great power, even though provinces and fortresses
 were ceded in the peace that that effort proved unable to avert. They
-were translated into action by Leon Gambetta, who escaped from Paris in
+were translated into action by [[Leon]] Gambetta, who escaped from Paris in
 a balloon on the 7th of October, and established the headquarters of the
 defence at Tours, where already the "Delegation" of the central
 government--which had decided to remain in Paris--had concentrated the
 machinery of government. Thenceforward Gambetta and his principal
-assistant de Freycinet directed the whole war in the open country,
+assistant de [[Freycinet]] directed the whole war in the open country,
 co-ordinating it, as best they could with the precarious means of
 communication at their disposal, with Trochu's military operations in
 and round the capital. His critics--Gambetta's personality was such as
@@ -863,7 +863,7 @@ one else would have taken any course whatever.
 On the approach of the enemy Paris hastened its preparations for defence
 to the utmost, while in the provinces, out of reach of the German
 cavalry, new army corps were rapidly organized out of the few
-constituted regular units not involved in the previous catastrophes, the
+constituted regular units not involved in the previous [[Catastrophe|catastrophes]], the
 depot troops and the mobile national guard. The first-fruits of these
 efforts were seen in Beauce, where early in October important masses of
 French troops prepared not only to bar the further progress of the
@@ -908,9 +908,9 @@ disappeared from view. The victory had emboldened the "fog of war" to
 make renewed efforts, and resistance to the pressure of the German
 cavalry grew day by day. The Bavarians were reinforced by two Prussian
 divisions and by all available cavalry commands, and constituted as an
-"army detachment" under the grand-duke Friedrich Franz of
+"army detachment" under the [[Grand-Duke|grand-duke]] [[Friedrich]] [[Franz]] of
 Mecklenburg-Schwerin to deal with the Army of the Loire, the strength of
-which was far from being accurately known. Meantime the capitulation of
+which was far from being accurately known. Meantime the [[Capitulation|capitulation]] of
 Metz on the 28th of October had set free the veterans of Prince
 Frederick Charles, the best troops in the German army, for field
 operations. The latter were at first misdirected to the upper Seine, and
@@ -937,7 +937,7 @@ required heavy guns and constant replenishment of ammunition and stores.
 The rapidity of the German invasion had left no time for the proper
 organization and full garrisoning of these communications, which were
 now threatened, not merely by the Army of the Loire, but by other forces
-assembling on the area protected by Langres and Belfort. The latter,
+assembling on the area protected by [[Langres]] and Belfort. The latter,
 under General Cambriels, were held in check and no more by the Baden
 troops and reserve units (XIV. German corps) under General Werder, and
 eventually without arousing attention they were able to send 40,000 men
@@ -954,10 +954,10 @@ of Loigny-Poupry on the 2nd of December and the second capture of
 Orleans after heavy fighting on the 4th of December.
 
 The result of the capture of Orleans was the severance of the two wings
-of the French army, henceforward commanded respectively by Chanzy and
+of the French army, henceforward commanded respectively by [[Chanzy]] and
 Bourbaki. The latter fell back at once and hastily, though not closely
-pursued, to Bourges. But Chanzy, opposing the Detachment between
-Beaugency and the Forest of Marchenoir, was of sterner metal, and in the
+pursued, to [[Bourges]]. But Chanzy, opposing the Detachment between
+[[Beaugency]] and the Forest of Marchenoir, was of sterner metal, and in the
 five days' general engagement around Beaugency (December 7-11) the
 Germans gained little or no real advantage. Indeed their solitary
 material success, the capture of Beaugency, was due chiefly to the fact
@@ -968,12 +968,12 @@ Frederick Charles, leaving a mere screen to impose upon Bourbaki (who
 allowed himself to be deceived and remained inactive), hurried thither
 with the II. army. After that Chanzy was rapidly driven north-westward,
 though always presenting a stubborn front. The Delegation left Tours and
-betook itself to Bordeaux, whence it directed the government for the
+betook itself to [[Bordeaux]], whence it directed the government for the
 rest of the war. But all this continuous marching and fighting, and the
 growing severity of the weather, compelled Prince Frederick Charles to
 call a halt for a few days. About the 19th of December, therefore, the
 Germans (II. army and Detachment) were closed up in the region of
-Chartres, Orleans, Auxerre and Fontainebleau, Chanzy along the river
+Chartres, Orleans, Auxerre and [[Fontainebleau]], Chanzy along the river
 Sarthe about Le Mans and Bourbaki still passive towards Bourges.
 
 During this, as during other halts, the French government and its
@@ -986,11 +986,11 @@ the long line of the Germans' communications. This movement, bold to the
 point of extreme rashness judged by any theoretical rules of strategy,
 seems to have been suggested by de Freycinet. As the execution of it
 fell actually into incapable hands, it is difficult to judge what would
-have been the result had a Chanzy or a Faidherbe been in command of the
+have been the result had a Chanzy or a [[Faidherbe]] been in command of the
 French. At any rate it was vicious in so far as immediate advantages
 were sacrificed to hopes of ultimate success which Gambetta and de
 Freycinet did wrong to base on Bourbaki's powers of generalship. Late in
-December, for good or evil, Bourbaki marched off into Franche-Comte and
+December, for good or evil, Bourbaki marched off into [[Franche-Comte]] and
 ceased to be a factor in the Loire campaign. A mere calculation of time
 and space sufficed to show the German headquarters that the moment had
 arrived to demolish the stubborn Chanzy.
@@ -1015,14 +1015,14 @@ invaders had been subjected may be gathered from the fact that army
 corps, originally 30,000 strong, were in some cases reduced to 10,000
 and even fewer bayonets. And at this moment Bourbaki was at the head of
 120,000 men! Indeed, so threatening seemed the situation on the Loire,
-though the French south of that river between Gien and Blois were mere
+though the French south of that river between Gien and [[Blois]] were mere
 isolated brigades, that the prince hurried back from Le Mans to Orleans
 to take personal command. A fresh French corps, bearing the number 25,
 and being the twenty-first actually raised during the war, appeared in
 the field towards Blois. Chanzy was again at the head of 156,000 men. He
 was about to take the offensive against the 40,000 Germans left near Le
 Mans when to his bitter disappointment he received the news of the
-armistice. "We have still France," he had said to his staff, undeterred
+[[Armistice|armistice]]. "We have still France," he had said to his staff, undeterred
 by the news of the capitulation of Paris, but now he had to submit, for
 even if his improvised army was still cheerful, there were many
 significant tokens that the people at large had sunk into apathy and
@@ -1041,7 +1041,7 @@ the continuance of the war and the ceaseless sniping of the
 franc-tireur's rifle and the peasant's shot-gun. On the French side the
 continual efforts of the statesmen to stimulate the generals to decisive
 efforts, coupled with actual suggestions as to the plans of the campaign
-to be followed (in default, be it said, of the generals themselves
+to be followed (in [[Default|default]], be it said, of the generals themselves
 producing such plans), and the professional soldiers' distrust of
 half-trained troops, acted and reacted upon one another in such a way as
 to neutralize the powerful, if disconnected and erratic, forces that the
@@ -1106,7 +1106,7 @@ fresh effort when he received orders to suspend hostilities.
 
 The last episode is Bourbaki's campaign in the east, with its mournful
 close at Pontarlier. Before the crisis of the last week of November, the
-French forces under General Cremer, Cambriels' successor, had been so
+French forces under General [[Cremer]], Cambriels' successor, had been so
 far successful in minor enterprises that, as mentioned above, the right
 wing of the Loire army, severed from the left by the battle of Orleans
 and subsequently held inactive at Bourges and Nevers, was ordered to
@@ -1128,7 +1128,7 @@ attained.
   The campaign in the East.
 
 Werder, the German commander, warned of the imposing concentration of
-the French, evacuated Dijon and Dole just in time to avoid the blow and
+the French, evacuated Dijon and [[Dole]] just in time to avoid the blow and
 rapidly drew together his forces behind the Ognon above Vesoul. A
 furious attack on one of his divisions at Villersexel (January 9) cost
 him 2000 prisoners as well as his killed and wounded, and Bourbaki,
@@ -1141,7 +1141,7 @@ cannon shot of Belfort. The cumbrous French army moved up and attacked
 him there with 150,000 against 60,000 (January 15-17, 1871). It was at
 last repulsed, thanks chiefly to Bourbaki's inability to handle his
 forces, and, to the bitter disappointment of officers and men alike, he
-ordered a retreat, leaving Belfort to its fate.
+ordered a retreat, leaving Belfort to its [[Fate|fate]].
 
 Ere this, so urgent was the necessity of assisting Werder, Manteuffel
 had been placed at the head of a new Army of the South. Bringing two
@@ -1150,7 +1150,7 @@ the armies around Paris, and a fourth from the II. army, Manteuffel
 hurried southward by Langres to the Saone. Then, hearing of Werder's
 victory on the Lisaine, he deflected the march so as to cut off
 Bourbaki's retreat, drawing off the left flank guard of the latter
-(commanded with much _eclat_ and little real effect by Garibaldi) by a
+(commanded with much _eclat_ and little real effect by [[Garibaldi]]) by a
 sharp feint attack on Dijon. The pressure of Werder in front and
 Manteuffel in flank gradually forced the now thoroughly disheartened
 French forces towards the Swiss frontier, and Bourbaki, realizing at
@@ -1215,7 +1215,7 @@ ratification of the treaty of Frankfurt the 23rd of May 1871.
   1871; English translation); G. Lehmann, _Die Mobilmachung_ 1870-1871
   (Berlin, 1905).
 
-  For the war in Lorraine: Prince Kraft of Hohenlohe-Ingelfingen,
+  For the war in [[Lorraine]]: Prince Kraft of Hohenlohe-Ingelfingen,
   _Briefe ueber Strategie_ (English translation, _Letters on Strategy_);
   F. Foch, _Conduite de la guerre_, pt. ii.; H. Bonnal, _Manoeuvre de
   Saint Privat_ (Paris, 1904-1906); Maistre, _Spicheren_ (Paris, 1908);
@@ -1224,16 +1224,16 @@ ratification of the treaty of Frankfurt the 23rd of May 1871.
   (English translation), and _24 Stunden Moltke'schen Strategie_
   (Berlin, 1892; English and French translations).
 
-  For the war in Alsace and Champagne: H. Kunz, _Schlacht von Woerth_
+  For the war in Alsace and [[Champagne]]: H. Kunz, _Schlacht von Woerth_
   (Berlin, 1891), and later works by the same author; H. Bonnal,
   _Froeschweiler_ (Paris, 1899); Hahnke, _Die Operationen des III. Armee
   bis Sedan_ (Berlin, 1873; French translation).
 
-  For the war in the Provinces: v. der Goltz, _Leon Gambetta und seine
+  For the war in the Provinces: v. der [[Goltz]], _Leon Gambetta und seine
   Armeen_ (Berlin, 1877); _Die Operationen der II. Armee an die Loire_
   (Berlin, 1875); _Die sieben Tage von Le Mans_ (Berlin, 1873); Kunz,
   _Die Zusammensetzung der franzoes. Provinzialheeren_; de Freycinet, _La
-  Guerre en province_ (Paris, 1871); L. A. Hale, _The People's War_
+  Guerre en province_ (Paris, 1871); L. A. [[Hale]], _The People's War_
   (London, 1904); Hoenig, _Volkskrieg an die Loire_ (Berlin, 1892);
   Blume, _Operationen v. Sedan bis zum Ende d. Kriegs_ (Berlin, 1872;
   English translation); v. Schell, _Die Operationen der I. Armee unter

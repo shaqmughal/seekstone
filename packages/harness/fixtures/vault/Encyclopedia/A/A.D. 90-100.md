@@ -7,14 +7,14 @@ the history of the rite in the centuries which followed has been sketched,
 for we know more clearly what baptism became after the year 100 than what
 it was before. And that method on which a great scholar[1] insisted when
 studying the old Persian religion is doubly to be insisted on in the study
-of the history of baptism and the cognate institution, the eucharist,
+of the history of baptism and the cognate institution, the [[Eucharist|eucharist]],
 namely, to avoid equally "the narrowness of mind which clings to matters of
 fact without rising to their cause and connecting them with the series of
 associated phenomena, and the wild and uncontrolled spirit of comparison,
 which, by comparing everything, confounds everything."
 
 Our earliest detailed accounts of baptism are in the _Teaching of the
-Apostles_ (c. 90-120) and in Justin Martyr.
+[[Apostle|Apostles]]_ (c. 90-120) and in Justin Martyr.
 
 The _Teaching_ has the following:--
 
@@ -37,13 +37,13 @@ ways, the one of life and the other of death, with which the tract begins.
 This body of moral teaching is older than the rest of the tract, and may go
 back to the year A.D. 80.
 
-Justin thus describes the rite in ch. lxi. of his first _Apology_, (c.
+Justin thus describes the rite in ch. lxi. of his first _[[Apology]]_, (c.
 140):--
 
 "I will also relate the manner in which we dedicated ourselves to God when
 we had been made new through Christ. As many as are persuaded and believe
 that what we teach and say is true, and undertake to be able to live
-accordingly, are instructed to pray and entreat God with fasting, for the
+accordingly, are instructed to pray and entreat God with [[Fasting|fasting]], for the
 remission of their sins that are past, we praying and fasting with them.
 Then they are brought by us where there is water, and are regenerated in
 the same manner in which we were ourselves regenerated. For in the name of
@@ -56,13 +56,13 @@ In the sequel Justin adds:--
 repented of his sins, the name of God the Father and Lord of the universe,
 he who leads to the laver the person that is to be washed calling Him by
 this name alone. For no one can utter the name of the ineffable God, and
-this washing is called Illumination (Gr. [Greek: phôtismos]), because they
+this washing is called [[Illumination]] (Gr. [Greek: phôtismos]), because they
 who learn these things are illuminated in their understandings. And in the
 name of Jesus Christ, who was crucified under Pontius Pilate, and in the
 name of the Holy Ghost, who through the prophets foretold all things about
 Jesus, he who is illuminated is washed."
 
-In ch. xiv. of the dialogue with Trypho, Justin asserts, as against Jewish
+In ch. xiv. of the [[Dialogue|dialogue]] with Trypho, Justin asserts, as against Jewish
 rites of ablution, that Christian baptism alone can purify those who have
 repented. "This," he says, "is the water of life. But the cisterns which
 you have dug for yourselves are broken and profitless to you. For what is
@@ -71,7 +71,7 @@ the soul from wrath, from envy and from hatred; and, lo! the body is pure."
 
 In ch. xliii. of the same dialogue Justin remarks that "those who have
 approached God through Jesus Christ have received a circumcision, not
-carnal, but spiritual, after the manner of Enoch."
+carnal, but spiritual, after the manner of [[Enoch]]."
 
 In after ages baptism was regularly called illumination. Late in the 2nd
 century Tertullian describes the rite of baptism in his treatise _On the
@@ -84,7 +84,7 @@ Resurrection of the Flesh_, thus:
 3. The flesh is sealed (_i.e._ signed with the cross), that the soul also
 may be protected.
 
-4. The flesh is overshadowed with imposition of hands, that the soul also
+4. The flesh is overshadowed with [[Imposition|imposition]] of hands, that the soul also
 may be illuminated by the Spirit.
 
 5. The flesh feeds on the body and blood of Christ, that the soul also may
@@ -97,7 +97,7 @@ keeping of vigils.)
 
 Before stepping into the font, which both sexes did quite naked, the
 neophytes had to renounce the devil, his pomps and angels. Baptisms were
-usually conferred at Easter and in the season of Pentecost which ensued,
+usually conferred at [[Easter]] and in the season of Pentecost which ensued,
 and by the bishop or by priests and deacons commissioned by him.
 
 Such are the leading features of the rite in Tertullian, and they reappear
@@ -120,16 +120,16 @@ so-called Apostles' Creed, originally compiled as we now have it to exclude
 Marcionites. In the East various other symbols were used. (e) There
 followed an act of unction, made in the East with the oil of the
 catechumens blessed only by the priest, in the West with the priest's
-saliva applied to the lips and ears. The latter was accompanied by the
+saliva applied to the [[Lip|lips]] and [[Ear|ears]]. The latter was accompanied by the
 following formula: "Effeta, that is, be thou opened unto odour of
 sweetness. But do thou flee, O Devil, for the judgment of God is at hand."
 (f) Renunciation of Satan. The catechumens turned to the west in
 pronouncing this; then turning to the east they recited the creed. (g) They
 stepped into the font, but were not usually immersed, and the priest
 recited the baptismal formula over them as he poured water, generally
-thrice, over their heads. (h) They were anointed all over with chrism or
+thrice, over their heads. (h) They were anointed all over with [[Chrism|chrism]] or
 scented oil, the priest reciting an appropriate formula. Deacons anointed
-the males, deaconesses the females. (i) They put on white garments and
+the males, [[Deaconess|deaconesses]] the females. (i) They put on white garments and
 often baptismal wreaths or chaplets as well. In some churches they had worn
 cowls during the catechumenate, in sign of repentance of their sins. (j)
 They received the sign of the cross on the brow; the bishop usually dipped
@@ -148,7 +148,7 @@ were not its origin.
 
 Certain features of baptism as used during the earlier centuries must now
 be noticed. They are the following:--(1) Use of fonts; (2) Status of
-baptizer; (3) Immersion, submersion or aspersion; (4) Exorcism; (5)
+baptizer; (3) [[Immersion]], submersion or aspersion; (4) Exorcism; (5)
 Baptismal formula and trine immersion; (6) The age of baptism; (7)
 Confirmation; (8) _Disciplina arcani_; (9) Regeneration; (10) Relation to
 repentance; (11) Baptism for the dead; (12) Use of the name; (13) Origin of
@@ -175,18 +175,18 @@ whether one is washed in the sea or in a pool, in a river or spring, in a
 lake or a ditch. Nor can we distinguish between those whom John baptized
 (_tinxit_) in the Jordan and those whom Peter baptized in the Tiber." The
 custom of baptizing in the rivers when they are annually blessed at
-Epiphany, the feast of the Lord's baptism, still survives in Armenia and in
+Epiphany, the feast of the Lord's baptism, still survives in [[Armenia]] and in
 the East generally. Those of the Armenians and Syrians who have retained
 adult baptism use rivers alone at any time of year.
 
-The church of Tyre described by Eusebius (_H.E._ x. 4) seems to have had a
+The church of Tyre described by [[Eusebius]] (_H.E._ x. 4) seems to have had a
 font, and the church order of Macarius, bishop of Jerusalem (_c._ 311-335),
 orders the font to be placed in the same building as the altar, behind it
 and on the right hand; but the same order lays down that a font is not
 essential in cases of illness for "the Holy Spirit is not hindered by want
 of a vessel."
 
-2. _Status of Baptizer._--Ignatius (_Smyrn._ viii.) wrote that it is not
+2. _Status of Baptizer._--[[Ignatius]] (_Smyrn._ viii.) wrote that it is not
 lawful to baptize or hold an _agap[=e]_ (Lord's Supper) without the bishop.
 So Tertullian (_de Bapt._ xvii.) reserves the right of admitting to baptism
 and of conferring it to the _summus sacerdos_ or bishop, Cyprian (_Epist._
@@ -195,8 +195,8 @@ and although in outlying parts of Christendom deacons claimed the right,
 the official churches accorded it to presbyters alone and none but bishops
 could perform the confirmation or seal. In the Montanist churches women
 baptized, and of this there are traces in the earliest church and in the
-Caucasus. Thus St Thekla baptized herself in her own blood, and St Nino,
-the female evangelist of Georgia, baptized king Mirian (see "Life of Nino,"
+[[Caucasus]]. Thus St Thekla baptized herself in her own blood, and St Nino,
+the female evangelist of [[Georgia]], baptized king Mirian (see "Life of Nino,"
 _Studia Biblica_, 1903). In cases of imminent death a layman or a woman
 could baptize, and in the case of new-born children it is often necessary.
 
@@ -212,14 +212,14 @@ favour of submersion, and are often to be regarded as merely rhetorical.
 The rubrics of the MSS., it is true, enjoin total immersion, but it only
 came into general vogue in the 7th century, "when the growing rarity of
 adult baptism made the Gr. word [Greek: baptizô]) patient of an
-interpretation that suited that of infants only."[2] The _Key of Truth_,
-the manual of the old Armenian Baptists, archaically prescribes that the
-penitent admitted into the church shall advance on his knees into the
+interpretation that suited that of [[Infant|infants]] only."[2] The _[[Key]] of Truth_,
+the [[Manual|manual]] of the old Armenian [[Baptists]], archaically prescribes that the
+penitent admitted into the church shall advance on his [[Knee|knees]] into the
 middle of the water and that the elect one or bishop shall then pour water
 over his head.
 
 4. _Exorcism._--The _Didach[=e]_ and Justin merely prescribe fasting, the
-use of which was to hurry the exit of evil spirits who, in choosing a
+use of which was to [[Hurry|hurry]] the exit of evil spirits who, in choosing a
 _nidus_ or tenement, preferred a well-fed body to an emaciated one,
 according to the belief embodied in the interpolated saying of Matt. xvii.
 21: "This kind (of demon) goeth not forth except by prayer and fasting."
@@ -227,10 +227,10 @@ The exorcisms tended to become longer and longer, the later the rite. The
 English prayer-book excludes them, as it also excludes the renunciation of
 the devil and all his angels, his pomps and works. These elements were old,
 but scarcely primitive; and the archaic rite of the _Key of Truth_ (see
-PAULICIANS) is without them. Basil, in his work _On the Holy Spirit_,
-confesses his ignorance of how these and other features of his baptismal
+PAULICIANS) is without them. [[Basil]], in his work _On the Holy Spirit_,
+confesses his [[Ignorance|ignorance]] of how these and other features of his baptismal
 rite had originated. He instances the blessing of the water of baptism, of
-the oil of anointing and of the baptizand himself, the use of anointing him
+the oil of [[Anointing|anointing]] and of the baptizand himself, the use of anointing him
 with oil, trine immersion, the formal renunciation of Satan and his angels.
 All these features, he says, had been handed down in an unpublished and
 unspoken teaching, in a silent and sacramental tradition.
@@ -266,10 +266,10 @@ tinguimur_: "Not once, but thrice, for the several names, into the several
 persons, are we dipped" (_adv. Prax._ xxvi.). And Jerome says: "We are
 thrice plunged, that the one sacrament of the Trinity may be shown forth."
 On the other hand, in numerous fathers of East and West, _e.g._ Leo of
-Rome, Athanasius, Gregory of Nyssa, Theophylactus, Cyril of Jerusalem and
+Rome, [[Athanasius]], Gregory of Nyssa, Theophylactus, [[Cyril]] of Jerusalem and
 others, trine immersion was regarded as being symbolic of the three days'
 entombment of Christ; and in the Armenian baptismal rubric this
-interpretation is enjoined, as also in an epistle of Macarius of Jerusalem
+interpretation is enjoined, as also in an [[Epistle|epistle]] of Macarius of Jerusalem
 addressed to the Armenians (_c._ 330). In Armenian writers this
 interpretation is further associated with the idea of baptism into the
 death of Christ.
@@ -277,7 +277,7 @@ death of Christ.
 Trine immersion then, as to the origin of which Basil confesses his
 ignorance, must be older than either of the rival explanations. These are
 clearly aetiological, and invented to explain an existing custom, which the
-church had adopted from its pagan medium. For pagan lustrations were
+church had adopted from its pagan medium. For pagan [[Lustration|lustrations]] were
 normally threefold; thus Virgil writes (_Aen._ vi. 229): _Ter socios pura
 circumtulit unda._ Ovid (_Met._ vii. 189 and _Fasti_, iv. 315), Persius
 (ii. 16) and Horace (_Ep._ i. 1. 37) similarly speak of trine lustrations;
@@ -298,14 +298,14 @@ itself as the analogue of Christ's circumcision.
 On the fortieth day from birth another rite is prescribed, of _churching_
 the child, which is now taken _into_ the church with its mother. Both are
 blessed by the clergy, whose petition now is that God "may preserve this
-child and cause him to grow up by the unseen grace of His power and made
+child and cause him to grow up by the unseen [[Grace|grace]] of His power and made
 him worthy _in due season_ of the washing of baptism." As the first rite
 corresponds to the circumcision and naming of Jesus, so does the second to
 His presentation in the temple. These two rites really begin the
 catechumenate or period of instruction in the faith and discipline of the
 church. It depended on the individual how long he would wait for
 initiation. Whenever he felt inclined, he gave in his name as a candidate.
-This was usually done at the beginning of Lent. The bishop and clergy next
+This was usually done at the beginning of [[Lent]]. The bishop and clergy next
 examined the candidates one by one, and ascertained from their neighbours
 whether they had led such exemplary lives as to be worthy of admission. In
 case of strangers from another church certificates of character had to be
@@ -323,8 +323,8 @@ grace. Tertullian, however, in his work _On Baptism_, holds that even that
 is not always enough. Some girls and boys at Carthage had asked to be
 baptized, and there were some who urged the granting of their request on
 the score that Christ said: "Forbid them not to come unto Me" (Matt. xix.
-14), and: "To each that asketh thee give" (Luke vi. 30). Tertullian replies
-that "We must beware of giving the holy thing to dogs and of casting pearls
+14), and: "To each that asketh thee give" ([[Luke]] vi. 30). Tertullian replies
+that "We must beware of giving the holy thing to [[Dogs|dogs]] and of casting pearls
 before swine." He cites 1 Tim. v. 22: "Lay not on thy hands hastily, lest
 thou share in another's sins." He denies that the precedents of the eunuch
 baptized by Philip or of Paul baptized _without hesitation_ by Simon (to
@@ -337,7 +337,7 @@ salvation, so that we may be sure of giving it only to those who really
 want it. Especially let the unmarried postpone it. The risks of the age of
 puberty are extreme. Let people have married or be anyhow steeled in
 continence before they are admitted to baptism. It would appear from the
-homilies of Aphraates (_c._ 340) that in the Syriac church also it was
+homilies of [[Aphraates]] (_c._ 340) that in the Syriac church also it was
 usual to renounce the married relation after baptism. Cyril of Jerusalem,
 in his _Catecheses_, insists on "the longing for the heavenly polity, on
 the goodly resolution and attendant hope" of the catechumen (_Pro. Cat._
@@ -356,7 +356,7 @@ works (_c._ 250.) we already hear of new-born infants being baptized. In
 the same region of Africa, however, Monica would not let her son Augustine
 be baptized in boyhood, though he clamoured to be. She was a conservative.
 In the Greek world thirty was a usual age in the 4th century for persons to
-be baptized, in imitation of Christ. It is still the age preferred by the
+be baptized, in [[Imitation Of Christ|imitation of Christ]]. It is still the age preferred by the
 Baptists of Armenia. But it was often delayed until the deathbed, for the
 primitive idea that mortal sins committed after baptism were sins against
 the Holy Spirit and unforgivable, still influenced men, and survived among
@@ -411,7 +411,7 @@ practise it, and not water baptism.
 and Lord's Prayer was a solemn rite. Cyril of Jerusalem, in his instruction
 of the catechumens, urges them to learn the Creed by heart, but not write
 it down. On no account must they divulge it to unbaptized persons. The same
-rule already meets us in Clement of Alexandria before the year 200. In time
+rule already meets us in [[Clement]] of Alexandria before the year 200. In time
 this rule gave rise to what is called the _Disciplina arcani._ Following
 the fashion of the pagan mysteries in which men were only permitted to gaze
 upon the sacred objects after minute lustrations and scrupulous
@@ -421,9 +421,9 @@ divulged either to the unbaptized or to the pagans. And yet Justin Martyr,
 Tertullian and other apologists of the 2nd century had found nothing to
 conceal from the eye and ear of pagan emperors and their ministers. In the
 3rd century this love of mystification reached the pitch of hiding even the
-gospels from the unclean eyes of pagans. Probably Mgr. Pierre Battifol is
+[[Gospel|gospels]] from the unclean eyes of pagans. Probably Mgr. Pierre Battifol is
 correct in supposing that the _Disciplina arcani_ was more or less of a
-make-believe, a bit of belletristic trifling on the part of the
+make-believe, a [[Bit|bit]] of belletristic trifling on the part of the
 over-rhetorical Fathers of the 4th and 5th centuries.[3] It is in them that
 the atmosphere of mystery attains a maximum of intensity. They clearly felt
 themselves called upon to out-trump the pagan _Mystae_. Yet it is
@@ -455,7 +455,7 @@ the writer has in view water baptism or any rite at all as the means and
 occasion of regeneration. In the conversation with Nicodemus we seem to
 overhear a protest against the growing tendency of the last years of the
 1st century to substitute formal sacraments for the free afflatus of the
-spirit, and to "crib, cabin and confine" the gift of prophecy.
+spirit, and to "[[Crib|crib]], cabin and confine" the gift of prophecy.
 
 The passage where re-birth is best put forward in connexion with baptism is
 Luke iii. 22, where ancient texts, including the _Gospel of the Hebrews_,
@@ -463,7 +463,7 @@ read, "Thou art my beloved Son, this day have I begotten Thee." These words
 were taken in the sense that Jesus was then re-born of the Spirit an
 adoptive Son of God and Messiah; and with this reading is bound up the
 entire adoptionist school of Christology. It apparently underlies the
-symbolizing of Christ as a fish in the art of the catacombs, and in the
+symbolizing of Christ as a fish in the art of the [[Catacomb|catacombs]], and in the
 literature of the 2nd century. Tertullian prefaces with this idea his work
 on baptism. _Nos pisciculi secundum_ [Greek: ICHTHUN] _nostrum Jesum
 Christum in aqua nascimur_. "We little fishes, after the example of our
@@ -479,7 +479,7 @@ ICHTHUS] is made up of the letters which begin the Greek words meaning
 "Jesus Christ, Son of God, Saviour." An entire mythology soon grew up
 around the idea of re-birth. The font was viewed as the womb of the virgin
 mother church, who was in some congregations, for example, in the early
-churches of Gaul, no abstraction, but a divine aeon watching over and
+churches of [[Gaul]], no abstraction, but a divine aeon watching over and
 sympathizing with the children of her womb, the recipient even of hymns of
 praise and humble supplications. Other mythoplastic growths succeeded, one
 of which must be noticed. The sponsors or _anadochi_, who, after the
@@ -503,7 +503,7 @@ by which, after a fresh term of repentance, marked by austerities more
 strict than any Trappist monk imposes on himself to-day, the persons lapsed
 from grace could re-enter the church. In effect this rite was a repetition
 of baptism, the water of the font alone being omitted. Such restoration
-could in the earlier church only be effected once. A second lapse from the
+could in the earlier church only be effected once. A second [[Lapse|lapse]] from the
 state of grace entailed perpetual exclusion from the sacraments, the means
 of salvation. As has been remarked above, the terror of post-baptismal sin
 and the fact that only one restoration was allowable influenced many as
@@ -547,7 +547,7 @@ prayers, purifications and consecrations. For a name carried with it, for
 those who were so blessed as to be acquainted with it, whatever power and
 influence its owner wielded in heaven or on earth or under the earth. A vow
 or prayer formulated in or through a certain name was fraught with the
-prestige of him whose name it was. Thus the psalmist addressing Jehovah
+prestige of him whose name it was. Thus the psalmist addressing [[Jehovah]]
 cries (Ps. liv. 1): "Save me, O God, by Thy name, and judge me in Thy
 might." And in Acts iii. 16, it is the name itself which renders strong and
 whole the man who believed therein. In Acts xviii. 15, the Jews assail Paul
@@ -584,21 +584,21 @@ the law. So Epictetus remarks that he only really understands Judaism who
 knows "the baptized Jew" ([Greek: ton bebammenon]). We gather from Acts
 xix. 4, that John had merely baptized in the name of the coming Messiah,
 without identifying him with Jesus of Nazareth. The apostolic age supplied
-this identification, and the normal use during it seems to have been "into
+this [[Identification|identification]], and the normal use during it seems to have been "into
 Christ Jesus," or "in the name of the Lord Jesus Christ," or "of Jesus
 Christ" simply, or "of the Lord Jesus Christ." Paul explains these formulas
 as being equivalent to "into the death of Christ Jesus," as if the faithful
-were in the rite raised from death into everlasting life. The _likeness_ of
+were in the rite raised from death into [[Everlasting|everlasting]] life. The _likeness_ of
 the baptismal ceremony with Christ's death and resurrection ensured a real
 union with him of the believer who underwent the ceremony, according to the
 well-known principle _in sacris simulata pro veris accipi_.
 
 But opinion was still fluid about baptism in the apostolic age, especially
 as to its connexion with the descent of the Spirit. The Spirit falls on the
-disciples and others at Pentecost without any baptism at all, and Paul
+[[Disciple|disciples]] and others at Pentecost without any baptism at all, and Paul
 alone of the apostles was baptized. So far was the afflatus of the Spirit
 from being conditioned by the rite, that in Acts x. 44 ff., the gift of the
-Spirit was first poured out upon the Gentiles who heard the word preached
+Spirit was first poured out upon the [[Gentile|Gentiles]] who heard the word preached
 so that they spoke with tongues, and it was only after these manifestations
 that they were baptized with water in the name of Jesus Christ at the
 instance of Peter. We can divine from this passage why Paul was so eager
@@ -606,9 +606,9 @@ himself to preach the word, and left it to others to baptize.
 
 But as a rule the repentant underwent baptism in the name of Christ Jesus,
 and washed away their sins before hands were laid upon them unto reception
-of the Spirit. Apollos, who only knew the baptism of John (Acts xviii. 24),
+of the Spirit. [[Apollos]], who only knew the baptism of John (Acts xviii. 24),
 needed only instruction in the prophetic _gnosis_ at the hands of Priscilla
-and Aquila in order to become a full disciple. On the other hand, in Acts
+and [[Aquila]] in order to become a full disciple. On the other hand, in Acts
 xix. 1-7, twelve disciples, for such they were already accounted, who had
 been baptized into John's baptism, _i.e._ into the name of him that should
 follow John, but had not even heard of the Holy Spirit, are at Paul's
@@ -652,7 +652,7 @@ attributed to Jesus, namely, Mark xvi. 16 and Matt. xxviii. 18-20. Of these
 the first is part of an appendix headed "of Ariston the elder" in an old
 Armenian codex, and taken perhaps from the lost compilations of Papias; as
 to the other text, it has been doubted by many critics, _e.g._ Neander,
-Harnack, Dr Armitage Robinson and James Martineau, whether it represents a
+Harnack, Dr Armitage Robinson and James [[Martineau]], whether it represents a
 real utterance of Christ and not rather the liturgical usage of the region
 in which the first gospel was compiled. The circumstance, unknown to these
 critics when they made their conjectures, that Eusebius Pamphili, in nearly
@@ -681,7 +681,7 @@ _mancipium_, while after each sale the fictitious vendee enfranchized the
 son, by _manumissio vindicta_, _i.e._ by laying his rod (_vindicta_) on the
 slave and claiming him as free (_vindicatio in libertatem_). Then the owner
 also laid his rod on the slave, declaring his intention to enfranchise him,
-and the _praetor_ by his _addictor_ confirmed the owner's declaration. The
+and the _praetor_ by his _addictor_ confirmed the owner's [[Declaration|declaration]]. The
 third _manumission_ thus gave to the son and slave his freedom. It is
 possible that this common ceremony of Roman law suggested the triple
 _abrenunciatio_ of Satan. Like the legal ceremony, baptism freed the
@@ -690,7 +690,7 @@ had power of death over him. And as the legal manumission dissolved a son's
 previous agnatic relationships, so, too, the person baptized gave up father
 and mother, &c., and became one of a society of brethren the bond between
 whom was not physical but spiritual. The idea of adoption in baptism as a
-son and heir of God was almost certainly taken by Paul from Roman law.
+son and [[Heir|heir]] of God was almost certainly taken by Paul from Roman law.
 
 The ceremony of turning to the west three times with renunciation of the
 Evil One, then to the east, is exactly paralleled in a rite of purification
@@ -713,7 +713,7 @@ In a Paris papyrus edited by Albr. Dieterich (Leipzig, 1903) under the
 title of _Eine Mithrasliturgie_, an ancient mystic describes his re-birth
 in impressive language. In a prayer addressed to "First birth of my birth,
 first beginning (_or_ principle) of my beginning, first spirit of the
-spirit in me," he prays "to be restored to his deathless birth (_genesis_),
+spirit in me," he prays "to be restored to his deathless birth (_[[Genesis|genesis]]_),
 albeit he is let and hindered by his underlying nature, to the end that
 according to the pressing need and spur of his longing he may gaze upon the
 deathless principle with deathless spirit, through the deathless water,
@@ -742,16 +742,16 @@ _Catecheses_; Basil, _De Spiritu Sancto; Constitutiones Apostolicae_;
 Gregory Nazianzen, _Orat. 40_; Gregory Nyss., _Oratio in eos qui differunt
 baptismum; Sacramentary_ of Serapion of Thmuis; Augustine, _De Baptismo
 contra Donatistas_; Jac. Goar, _Rituale Graecorum_ (gives the current Greek
-rites); F. C. Conybeare, _Rituale Armenorum_ (the oldest forms of Armenian
-and Greek rites); Gerard G. Vossius, _De Baptismo_ (Amsterdam, 1648);
+rites); F. C. [[Conybeare]], _Rituale Armenorum_ (the oldest forms of Armenian
+and Greek rites); [[Gerard]] G. Vossius, _De Baptismo_ (Amsterdam, 1648);
 Edmond Martene, _De Ant. Ecclesiae Ritibus_ (gives Western rites) (Bassani,
-1788). The modern literature is infinite; perhaps the most exhaustive works
-are W. F. Höfling, _Das Sacrament der Taufe_ (Erlangen, 1859): Jos.
+1788). The modern literature is [[Infinite|infinite]]; perhaps the most exhaustive works
+are W. F. Höfling, _Das Sacrament der Taufe_ ([[Erlangen]], 1859): Jos.
 Bingham's _Antiquities_ (London, 1834), and W. Wall, _On Infant Baptism_
 (London, 1707); J. Anrich, _Das antike Mysterienwesen_ (Göttingen, 1894),
 details the corresponding rites of the Greek mysteries, also A. Dieterich,
 _Eine Mithras Liturgie_ (Leipzig, 1903); J. C. Suicer, _Thesaurus, sub voce
-[Greek: baptisma]_; Ad. Harnack, _Dogmengeschichte_ (Freiburg im Br. 1894);
+[Greek: baptisma]_; Ad. Harnack, _Dogmengeschichte_ ([[Freiburg]] im Br. 1894);
 L. Duchesne, _Origines du culte chrétien_ (Paris, 1898); Mgr. P. Batiffol,
 _Etudes historiques_ (Paris, 1904); J. C. W. Augusti, _Denkwürdigkeiten_
 (Leipzig, 1829-1831); _Monumenta Ecclesiae Liturgica_ by Dom Cabrol and Dom
@@ -761,10 +761,10 @@ early Fathers); Corblet, _Histoire du sacrement de baptême_ (2 vols. Paris,
 
 (F. C. C.)
 
-[1] James Darmesteter, in "Introd. to the Vendidad," in the _Sacred Books
+[1] James [[Darmesteter]], in "Introd. to the Vendidad," in the _Sacred Books
 of the East_.
 
-[2] Rogers' essay on Baptism and Christian Archaeology in _Studia Biblica_,
+[2] Rogers' essay on Baptism and Christian [[Archaeology]] in _Studia Biblica_,
 vol. v.
 
 [3] _Études historiques, Essai sur Disc. arc._ (Paris 1902).

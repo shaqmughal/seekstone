@@ -12,7 +12,7 @@ Adrianople. Pop. (1905), about 8000, of whom three-fourths are Turks and
 the remainder Greeks, Jews or Armenians. Gumuljina is situated on the
 river Karaja-Su, south of the eastern extremity of the Rhodope range of
 mountains and 13 m. inland from the Aegean Sea. It has a station on the
-railway between Salonica and Dedeagatch. The district produces wheat,
+railway between Salonica and [[Dedeagatch]]. The district produces wheat,
 maize, barley and tobacco; sericulture and viticulture are both
 practised on a limited scale. A cattle fair is held annually on Greek
 Palm Sunday. Copper and antimony are found in the neighbourhood.

@@ -14,7 +14,7 @@ was born at Chantilly on the 2nd of August 1772. He was educated
 privately by the abbé Millot, and received a military training from the
 commodore de Virieux. He early showed the warlike spirit of the house of
 Condé, and began his military career in 1788. On the outbreak of the
-French Revolution he "emigrated" with very many of the nobles a few days
+[[French Revolution]] he "emigrated" with very many of the nobles a few days
 after the fall of the Bastille, and remained in exile, seeking to raise
 forces for the invasion of France and the restoration of the old
 monarchy. In 1792, on the outbreak of war, he held a command in the
@@ -24,7 +24,7 @@ serve under his father and grandfather in what was known as the Condé
 army, and on several occasions distinguished himself by his bravery and
 ardour in the vanguard. On the dissolution of that force after the peace
 of Lunéville (February 1801) he married privately the princess
-Charlotte, niece of Cardinal de Rohan, and took up his residence at
+[[Charlotte]], niece of Cardinal de Rohan, and took up his residence at
 Ettenheim in Baden, near the Rhine. Early in the year 1804 Napoleon,
 then First Consul of France, heard news which seemed to connect the
 young duke with the Cadoudal-Pichegru conspiracy then being tracked by
@@ -45,9 +45,9 @@ by orders from Savary (q.v.), who had come charged with instructions.
 Savary intervened to prevent all chance of an interview between the
 condemned and the First Consul; and the duke was shot in the moat of the
 castle, near a grave which had already been prepared. With him ended the
-house of Condé. In 1816 the bones were exhumed and placed in the chapel
+house of Condé. In 1816 the [[Bone|bones]] were exhumed and placed in the chapel
 of the castle. It is now known that Josephine and Mme de Rémusat had
-begged Napoleon for mercy towards the duke; but nothing would bend his
+begged Napoleon for mercy towards the duke; but nothing would [[Bend|bend]] his
 will. The blame which the apologists of the emperor have thrown on
 Talleyrand or Savary is undeserved. On his way to St Helena and at
 Longwood he asserted that, in the same circumstances, he would do the

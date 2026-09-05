@@ -8,7 +8,7 @@ orders of council, promotions and appointments to commissions in the
 army and navy, all appointments to offices of state, and such other
 orders, rules and regulations as are directed by act of parliament to be
 published therein. It also contains notices of proceedings in
-bankruptcy, dissolutions of partnership, &c. By the Documentary Evidence
+[[Bankruptcy|bankruptcy]], dissolutions of partnership, &c. By the Documentary Evidence
 Act 1868 the production of a copy of the _Gazette_ is prima facie
 evidence of royal proclamations and government orders and regulations.
 Similar gazettes are also published in Edinburgh and Dublin. Most

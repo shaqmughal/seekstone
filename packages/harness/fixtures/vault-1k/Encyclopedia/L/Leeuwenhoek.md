@@ -5,7 +5,7 @@ was born at Delft on the 24th of October 1632. For a short time he was
 in a merchant's office in Amsterdam, but early devoted himself to the
 manufacture of microscopes and to the study of the minute structure of
 organized bodies by their aid. He appears soon to have found that single
-lenses of very short focus were preferable to the compound microscopes
+lenses of very short [[Focus|focus]] were preferable to the compound microscopes
 then in use; and it is clear from the discoveries he made with these
 that they must have been of very excellent quality. His discoveries were
 for the most part made public in the _Philosophical Transactions_ of the
@@ -31,7 +31,7 @@ dicotyledonous plants.
   animal life were in opposition to the doctrine that they could be
   "produced spontaneously, or bred from corruption." Thus he showed that
   the weevils of granaries, in his time commonly supposed to be bred
-  _from_ wheat, as well as _in_ it, are grubs hatched from eggs
+  _from_ wheat, as well as _in_ it, are grubs hatched from [[Egg|eggs]]
   deposited by winged insects. His chapter on the flea, in which he not
   only describes its structure, but traces out the whole history of its
   metamorphoses from its first emergence from the egg, is full of
@@ -39,7 +39,7 @@ dicotyledonous plants.
   its incidental revelation of the extraordinary ignorance then
   prevalent in regard to the origin and propagation of "this minute and
   despised creature," which some asserted to be produced from sand,
-  others from dust, others from the dung of pigeons, and others from
+  others from [[Dust|dust]], others from the dung of pigeons, and others from
   urine, but which he showed to be "endowed with as great perfection in
   its kind as any large animal," and proved to breed in the regular way
   of winged insects. He even noted the fact that the pupa of the flea is

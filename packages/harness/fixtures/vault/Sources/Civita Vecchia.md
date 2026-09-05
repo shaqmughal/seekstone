@@ -29,16 +29,16 @@ under the name Cencelle as a feudal castle until the 15th century. In
 the meantime, however, the inhabitants returned to the old town by the
 shore in 889 and rebuilt it, giving it the name Civitas Vetus, the
 modern Civita Vecchia (see O. Marucchi in _Nuovo Bullettino di
-archeologia cristiana_, vi., 1900, p. 195 seq.). In 1508 Pope Julius II.
+archeologia cristiana_, vi., 1900, p. 195 seq.). In 1508 Pope [[Julius]] II.
 began the construction of the castle from the designs of Bramante,
 Michelangelo being responsible for the addition of the central tower. It
 is considered by Burckhardt the finest building of its kind. Pius IV.
 added a convict prison. The arsenal was built by Alexander VII. and
-designed by Bernini. Civita Vecchia was the chief port of the Papal
+designed by [[Bernini]]. Civita Vecchia was the chief port of the Papal
 State and has still a considerable trade. There are cement factories in
-the town, and calcium carbide is an important article of export. The
+the town, and calcium [[Carbide|carbide]] is an important article of export. The
 principal imports are coal, cattle for the home markets, and fire-bricks
-from the United Kingdom. Three miles N.E. were the _Aquae Tauri_, warm
+from the United Kingdom. Three miles N.E. were the _[[Aquae]] Tauri_, warm
 springs, now known as _Bagni della Ferrata_: considerable remains of the
 Roman baths are still preserved. About 1 m. W. of these are other hot
 springs, those of the _Ficoncella_, also known in Roman times.

@@ -13,7 +13,7 @@ Pop. (1891) 23,979; (1901) 33,031. The nucleus of the town, the ancient
 village, lies south of the highroad to Uxbridge, west of the open Ealing
 Common. The place is wholly residential. At St Mary's church, almost
 wholly rebuilt c. 1870, are buried John Oldmixon, the historian (d.
-1742), and Horne Tooke (d. 1812). The church of All Saints (1905)
+1742), and [[Horne]] Tooke (d. 1812). The church of All Saints (1905)
 commemorates Spencer Perceval, prime minister, who was assassinated in
 the House of Commons in 1812. It was erected under the will of his
 daughter Frederica, a resident of Ealing. Gunnersbury Park, south of

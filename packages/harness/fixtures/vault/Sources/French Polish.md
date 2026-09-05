@@ -2,7 +2,7 @@
 
 FRENCH POLISH, a liquid for polishing wood, made by dissolving shellac
 in methylated spirit. There are four different tints, brown, white,
-garnet and red, but the first named is that most extensively used. All
+[[Garnet|garnet]] and red, but the first named is that most extensively used. All
 the tints are made in the same manner, with the exception of the red,
 which is a mixture of the brown polish and methylated spirit with either
 Saunders wood or Bismarck brown, according to the strength of colour

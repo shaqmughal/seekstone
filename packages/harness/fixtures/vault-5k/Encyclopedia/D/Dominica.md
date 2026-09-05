@@ -30,7 +30,7 @@ india-rubber trees, spices and all tropical fruits grow luxuriantly in
 the rich brown mould of the lowlands. There are some thirty streams of
 considerable size, besides numerous mountain torrents, and this
 abundance of water renders the island very fertile. The fisheries are
-productive, and honey and wax are furnished by wild bees, originally
+productive, and honey and wax are furnished by wild [[Bee|bees]], originally
 introduced from Europe. The temperature varies from 78° to 86° F. in the
 hot season from August to October, and from 72° to 84° in the cooler
 months; the rainfall varies in different parts from 50 to 162 in. per
@@ -38,10 +38,10 @@ annum, but the porous soil soon absorbs the rain, rendering the
 atmosphere dry and invigorating.
 
 The manufactures include sugar, lime-juice and essential oils; the
-exports are coffee, cocoa, sugar, limes and lime-juice, essential oils
+exports are coffee, [[Cocoa|cocoa]], sugar, limes and lime-juice, essential oils
 and fruit of all kinds. The inhabitants in 1901 numbered 28,894. The
 majority are negroes; the whites are of French and British descent.
-There are also a few Caribs, the remnant of the aboriginal population. A
+There are also a few [[Caribs]], the remnant of the aboriginal population. A
 French _patois_ is the language of the peasantry, but English is
 generally understood. The capital, Roseau (5764), is a fortified town
 and a port; Portsmouth, the only other town, possesses the better

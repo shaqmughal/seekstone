@@ -7,8 +7,8 @@ topic: history
 # Lawn
 
 LAWN, a very thin fabric made from level linen or cotton yarns. It is
-used for light dresses and trimmings, also for handkerchiefs. The terms
-lawn and cambric (q.v.) are often intended to indicate the same fabric.
+used for light [[Dress|dresses]] and trimmings, also for handkerchiefs. The terms
+lawn and [[Cambric|cambric]] (q.v.) are often intended to indicate the same fabric.
 The word "lawn" was formerly derived from the French name for the fabric
 _linon_, from _lin_, flax, linen, but Skeat (_Etym. Dict._, 1898,
 Addenda) and A. Thomas (_Romania_, xxix. 182, 1900) have shown that the
@@ -18,7 +18,7 @@ Françoÿse_ (1530), showing that the early name of the fabric was _Laune
 lynen_. An early form of the word was "laund," probably due to an
 adaptation to "laund," lawn, glade or clearing in a forest, now used of
 a closely-mown expanse of grass in a garden, park, &c. (see GRASS and
-HORTICULTURE). This word comes from O. Fr. _launde_, mod. _lande___,
+[[Horticulture|HORTICULTURE]]). This word comes from O. Fr. _launde_, mod. _lande___,
 wild, heathy or sandy ground, covered with scrub or brushwood, a word of
 Celtic origin; cf. Irish and Breton _lann_, heathy ground, also
 enclosure, land; Welsh _llan_, enclosure. It is cognate with "land,"

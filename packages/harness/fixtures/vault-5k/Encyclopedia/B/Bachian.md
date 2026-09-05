@@ -22,8 +22,8 @@ mountain of Labua reaching 6950 ft. Coal and other minerals have been
 discovered. A large portion of the island is richly wooded, and sago,
 cocoa-nuts and cloves (which are indigenous) are abundantly produced.
 Bachian is remarkable as the most eastern point on the globe inhabited by
-any of the _Quadrumana_, a black ape occurring here as in Celebes. The
-island is very rich in birds and insects. The interior of the island is
+any of the _Quadrumana_, a black [[Ape|ape]] occurring here as in Celebes. The
+island is very rich in birds and [[Insect|insects]]. The interior of the island is
 uninhabited and none of the dwellers on the coast are indigenous. They
 consist of the Sirani or Christian descendants of the Portuguese, of
 Malays, with a Papuan element, Galela men from the north of Halmahera,

@@ -1,6 +1,6 @@
 # Ionia
 
-IONIA, in ancient geography, the name given to a portion of the W. coast
+IONIA, in ancient [[Geography|geography]], the name given to a portion of the W. coast
 of Asia Minor, adjoining the Aegean Sea and bounded on the E. by Lydia.
 It consisted of a narrow strip of land near the coast, which together
 with the adjacent islands was occupied by immigrant Greeks of the Ionic
@@ -12,11 +12,11 @@ of the Ionic race in Attica, by the statement that the colonists were
 led by Neleus and Androclus, sons of Codrus, the last king of Athens. In
 accordance with this view the "Ionic migration," as it was called by
 later chronologers, was dated by them one hundred and forty years after
-the Trojan war, or sixty years after the return of the Heraclidae into
+the Trojan war, or sixty years after the return of the [[Heraclidae]] into
 the Peloponnese. Without assigning any definite date, we may say that
 recent research has tended to support the popular Greek idea that Ionia
 received its main Greek element rather late--after the descent of the
-Dorians, and, therefore, after any part of the Aegean period. The only
+[[Dorians]], and, therefore, after any part of the Aegean period. The only
 Aegean objects yet found (1910) in or near Ionia are some sherds of the
 very latest Minoan age at Miletus. It is not probable that all the Greek
 colonists were of the not numerous Ionian race. Herodotus tells us (i.
@@ -24,8 +24,8 @@ colonists were of the not numerous Ionian race. Herodotus tells us (i.
 of Greece (a fact indicated also by the local traditions of the cities),
 and that they intermarried with the native races. A striking proof of
 this was the fact that so late as the time of the historian distinct
-dialects were spoken by the inhabitants of different cities within the
-limits of so restricted an area. E. Curtius supposed that the population
+[[Dialect|dialects]] were spoken by the inhabitants of different cities within the
+limits of so restricted an area. E. [[Curtius]] supposed that the population
 of this part of Asia was aboriginally of Ionic race and that the
 settlers from Greece found the country in the possession of a kindred
 people. The last contention is probably true; but the kinship was
@@ -37,7 +37,7 @@ arrangement copied as it was supposed from the constitution of the
 Ionian cities in Greece which had originally occupied the territory in
 the north of the Peloponnese subsequently held by the Achaeans. These
 were (from south to north)--Miletus, Myus, Priene, Ephesus, Colophon,
-Lebedus, Teos, Erythrae, Clazomenae and Phocaea, together with Samos and
+Lebedus, Teos, Erythrae, [[Clazomenae]] and Phocaea, together with Samos and
 Chios. Smyrna (q.v.), originally an Aeolic colony, was afterwards
 occupied by Ionians from Colophon, and became an Ionian city,--an event
 which had taken place before the time of Herodotus. But at what period
@@ -97,13 +97,13 @@ corresponding in some measure to that of Smyrna at the present day.
   Ephesus. This event may be referred to the middle of the 7th century
   B.C. About 700 B.C. Gyges, first Mermnad king of Lydia, invaded the
   territories of Smyrna and Miletus, and is said to have taken Colophon
-  as his son Ardys did Priene. But it was not till the reign of Croesus
+  as his son Ardys did Priene. But it was not till the reign of [[Croesus]]
   (560-545 B.C.) that the cities of Ionia successively fell under Lydian
-  rule. The defeat of Croesus by Cyrus was followed by the conquest of
+  rule. The defeat of Croesus by [[Cyrus]] was followed by the conquest of
   all the Ionian cities. These became subject to the Persian monarchy
   with the other Greek cities of Asia. In this position they enjoyed a
   considerable amount of autonomy, but were for the most part subject to
-  local despots, most of whom were creatures of the Persian king. It was
+  local [[Despot|despots]], most of whom were creatures of the Persian king. It was
   at the instigation of one of these despots, Histiaeus (q.v.) of
   Miletus, that in about 500 B.C. the principal cities broke out into
   insurrection against Persia. They were at first assisted by the
@@ -119,7 +119,7 @@ corresponding in some measure to that of Smyrna at the present day.
   and the battle of Mycale (479 B.C.), in which the defeat of the
   Persians was in great measure owing to the Ionians, secured their
   emancipation. They henceforth became the dependent allies of Athens
-  (see DELIAN LEAGUE), though still retaining their autonomy, which they
+  (see [[Delian League|DELIAN LEAGUE]]), though still retaining their autonomy, which they
   preserved until the peace of Antalcidas in 387 B.C. once more placed
   them as well as the other Greek cities in Asia under the nominal
   dominion of Persia. They appear, however, to have retained a
@@ -132,7 +132,7 @@ corresponding in some measure to that of Smyrna at the present day.
   prosperity both under these Greek dynasties and after they became part
   of the Roman province of Asia.
 
-Ionia has laid the world under its debt not only by giving birth to a
+Ionia has laid the world under its [[Debt|debt]] not only by giving birth to a
 long roll of distinguished men of letters and science (see IONIAN SCHOOL
 OF PHILOSOPHY), but by originating the distinct school of art which
 prepared the way for the brilliant artistic development of Athens in the
@@ -148,22 +148,22 @@ the Ionic school; but whether this was so or not, it is certain that
 from the 8th century onwards we find the true spirit of Hellenic art,
 stimulated by commercial intercourse with eastern civilizations, working
 out its development chiefly in Ionia and its neighbouring isles. The
-great names of this school are Theodorus and Rhoecus of Samos; Bathycles
+great names of this school are Theodorus and Rhoecus of Samos; [[Bathycles]]
 of Magnesia on the Maeander; Glaucus, Melas, Micciades, Archermus,
-Bupalus and Athenis of Chios. Notable works of the school still extant
+[[Bupalus And Athenis|Bupalus and Athenis]] of Chios. Notable works of the school still extant
 are the famous archaic female statues found on the Athenian Acropolis in
 1885-1887, the seated statues of Branchidae, the Nike of Archermus found
-at Delos, and the objects in ivory and electrum found by D. G. Hogarth
+at Delos, and the objects in [[Ivory|ivory]] and [[Electrum|electrum]] found by D. G. [[Hogarth]]
 in the lower strata of the Artemision at Ephesus in 1904-1905 (see GREEK
 ART).
 
   BIBLIOGRAPHY.--Beside general authorities under ASIA MINOR see
-  especially F. Beaufort, _Ionian Antiquities_ (1811); R. Chandler, &c.,
+  especially F. [[Beaufort]], _Ionian Antiquities_ (1811); R. Chandler, &c.,
   _Ionian Antiquities_ (1769 ff.); Histories of Greek Sculpture by A. S.
-  Murray, M. Collignon and E. A. Gardner, and special works cited under
+  Murray, M. Collignon and E. A. [[Gardner]], and special works cited under
   particular cities; E. Curtius, _Die Ionier vor der ionischen
   Wanderung_ (1855); D. G. Hogarth, _Ionia and the East_ (1909), with
-  map.     (E. H. B.; D. G. H.)
+  [[Map|map]].     (E. H. B.; D. G. H.)
 
 ## See also
 

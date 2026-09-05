@@ -31,7 +31,7 @@ oasis of olive and palm trees.
 The Gulf of Gabes, the _Syrtis Minor_ of the ancients, is a
 semi-circular shallow indentation of the Mediterranean, about 50 m.
 across from the Kerkenna Islands, opposite Sfax on its northern shore,
-to Jerba Island, which lies at its southern end. The waters of the gulf
+to [[Jerba]] Island, which lies at its southern end. The waters of the gulf
 abound in fish and sponge.
 
 ## See also

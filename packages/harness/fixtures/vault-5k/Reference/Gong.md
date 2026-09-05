@@ -18,7 +18,7 @@ alloy in the soft state, harden the finished gongs by heating them to a
 cherry-red and allowing them to cool slowly. These properties of the
 alloy long remained a secret, said to have been first discovered in
 Europe by Jean Pierre Joseph d'Arcet at the beginning of the 19th
-century. Riche and Champion are said to have succeeded in producing
+century. Riche and [[Champion]] are said to have succeeded in producing
 tam-tams having all the qualities and timbre of the Chinese instruments.
 The composition of the alloy of bronze used for making gongs is stated
 to be as follows:[1] Copper, 76.52; Tin, 22.43; Lead, 0.62; Zinc, 0.23;
@@ -32,7 +32,7 @@ particular ways of striking the disk.
 
   The gong has been effectively used in the orchestra to intensify the
   impression of fear and horror in melodramatic scenes. The tam-tam was
-  first introduced into a western orchestra by Francois Joseph Gossec in
+  first introduced into a western orchestra by Francois Joseph [[Gossec]] in
   the funeral march composed at the death of Mirabeau in 1791. Gaspard
   Spontini used it in _La Vestale_ (1807), in the finale of act II., an
   impressive scene in which the high pontiff pronounces the anathema on
@@ -43,7 +43,7 @@ particular ways of striking the disk.
   are now used at Bayreuth in _Parsifal_ to reinforce the bell
   instruments, although there is no indication given in the score (see
   PARSIFAL). The tam-tam has been treated from its ethnographical side
-  by Franz Heger.[1]     (K. S.)
+  by [[Franz]] Heger.[1]     (K. S.)
 
 
 FOOTNOTES:

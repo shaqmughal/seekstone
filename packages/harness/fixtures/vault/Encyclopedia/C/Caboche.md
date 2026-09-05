@@ -12,7 +12,7 @@ had relations with John the Fearless, duke of Burgundy, since 1411, and was
 prominent in the seditious disturbances which broke out in April and May,
 following on the _Etats_ of February 1413. In April he stirred the people
 to the point of revolt, and was among the first to enter the hotel of the
-dauphin. When the butchers had made themselves masters of Paris, Caboche
+[[Dauphin|dauphin]]. When the [[Butcher|butchers]] had made themselves masters of Paris, Caboche
 became bailiff (_huissier d'armes_) and warden of the bridge of Charenton.
 Upon the publication of the great ordinance of May 26th, he used all his
 efforts to prevent conciliation between the Burgundians and the Armagnacs.

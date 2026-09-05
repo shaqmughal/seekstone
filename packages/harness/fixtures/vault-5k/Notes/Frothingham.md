@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Frothingha
 # Frothingham
 
 FROTHINGHAM, OCTAVIUS BROOKS (1822-1895), American clergyman and author,
-was born in Boston on the 26th of November 1822, son of Nathaniel
+was born in [[Boston]] on the 26th of November 1822, son of Nathaniel
 Langdon Frothingham (1793-1870), a prominent Unitarian preacher of
 Boston, and through his mother's family related to Phillips Brooks. He
 graduated from Harvard College in 1843 and from the Divinity School in
@@ -35,12 +35,12 @@ an anti-slavery leader when abolition was not popular even in New
 England, and a radical and rationalist when it was impossible for him to
 stay conveniently in the Unitarian Church, but he was the first
 president of the National Free Religious Association (1867) and an early
-and ardent disciple of Darwin and Spencer. To his radical views he was
+and ardent [[Disciple|disciple]] of Darwin and Spencer. To his radical views he was
 always faithful. It is a mistake to say that he grew more conservative
 in later years; but his judgment grew more generous and catholic. He was
 a greater orator than man of letters, and his sermons in New York were
 delivered to large audiences, averaging one thousand at the Masonic
-Temple, and were printed each week; in eloquence and in the charm of his
+Temple, and were printed each week; in eloquence and in the [[Charm|charm]] of his
 spoken word he was probably surpassed in his day by none save George
 William Curtis. Personally he seemed cold and distant, partly because of
 his impressive appearance, and partly because of his own modesty, which

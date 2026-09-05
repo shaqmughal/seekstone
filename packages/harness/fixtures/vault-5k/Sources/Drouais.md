@@ -1,7 +1,7 @@
 # Drouais
 
 DROUAIS, JEAN GERMAIN (1763-1788), French historical painter, was born
-at Paris on the 25th of November 1763. His father, François Hubert
+at Paris on the 25th of November 1763. His father, François [[Hubert]]
 Drouais, and his grandfather, Hubert Drouais, were well-known portrait
 painters; and it was from his father that he received his first artistic
 instruction. He was afterwards entrusted to the care of Brenet, an
@@ -25,10 +25,10 @@ success making him only the more eager to perfect himself in his art, he
 accompanied David to Rome, where he worked even more assiduously than in
 Paris. He was most strongly influenced by the remains of ancient art and
 by the works of Raphael. Goethe, who was at Rome at the time it was
-finished, has recorded the deep impression made by his "Marius at
+finished, has recorded the deep impression made by his "[[Marius]] at
 Minturno," which he characterizes as in some respects superior to the
 work of David, his master. The last picture which he completed was his
-"Philoctetus on the Island of Lemnos." He died on the 15th of July
+"Philoctetus on the Island of [[Lemnos]]." He died on the 15th of July
 1788. A monument to his memory was erected by his fellow-students in the
 church of Santa Maria in the Via Lata.
 

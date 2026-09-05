@@ -2,10 +2,10 @@
 
 APOLLONIUS OF TYRE, a medieval tale supposed to be derived from a lost
 Greek original. The earliest mention of the story is in the _Carmina_
-(Bk. vi. 8, II. 5-6) of Venantius Fortunatus, in the second half of the
+(Bk. vi. 8, II. 5-6) of Venantius [[Fortunatus]], in the second half of the
 6th century, and the romance may well date from three centuries earlier.
 It bears a marked resemblance to the _Antheia and Habrokomes_ of
-Xenophon of Ephesus. The story relates that King Antiochus, maintaining
+Xenophon of Ephesus. The story relates that King [[Antiochus]], maintaining
 incestuous relations with his daughter, kept off her suitors by asking
 them a riddle, which they must solve on pain of losing their heads.
 Apollonius of Tyre solved the riddle, which had to do with Antiochus's
@@ -13,10 +13,10 @@ secret. He returned to Tyre, and, to escape the king's vengeance, set
 sail in search of a place of refuge. In Cyrene he married the daughter
 of King Archistrates, and presently, on receiving news of the death of
 Antiochus, departed to take possession of the kingdom of Antioch, of
-which he was, for no clear reason, the heir. On the voyage his wife
+which he was, for no clear reason, the [[Heir|heir]]. On the voyage his wife
 died, or rather seemed to die, in giving birth to a daughter, and the
 sailors demanded that she should be thrown overboard. Apollonius left
-his daughter, named Tarsia, at Tarsus in the care of guardians who
+his daughter, named Tarsia, at Tarsus in the care of [[Guardian|guardians]] who
 proved false to their trust. Father, mother, and daughter were only
 reunited after fourteen years' separation and many vicissitudes. The
 earliest Latin MS. of this tale, preserved at Florence, dates from the
@@ -35,11 +35,11 @@ little change in its outlines as set forth in the Shakespearian play of
 _Pericles_.
 
   The Latin tale is preserved in about 100 MSS., and was printed by M.
-  Velser (Augsburg, 1595), by J. Lapaume in _Script. Erot_. (Didot,
+  Velser ([[Augsburg]], 1595), by J. Lapaume in _Script. Erot_. (Didot,
   Paris, 1856), and by A. Riese in the _Bibl. Teubneriana_ (1871, new
   ed. 1893). The most widespread versions in the middle ages were those
   of Godfrey of Viterbo in his _Pantheon_ (1185), where it is related as
-  authentic history, and in the _Gesta Romanorum_ (cap. 153), which
+  [[Authentic|authentic]] history, and in the _Gesta Romanorum_ (cap. 153), which
   formed the basis of the German folk-tale by H. Steinhowel (Augsburg,
   1471), the Dutch version (Delft, 1493), the French in _Le Violier des
   histoires romaines_ (Paris, 1521), the English, by Laurence Twine
@@ -47,16 +47,16 @@ _Pericles_.
   Hungarian tales.
 
   In England a translation was made as early as the 11th century (ed. B.
-  Thorpe, 1834, and J. Zupitza in _Archiv fur neuere Sprachen_, 1896);
+  Thorpe, 1834, and J. Zupitza in _Archiv [[Fur|fur]] neuere Sprachen_, 1896);
   there is a Middle English metrical version (J.O. Halliwell, _A New
   Boke about Shakespeare_, 1850), by a poet who says he was vicar of
-  Wimborne; John Gower uses the tale as an example of the seventh deadly
-  sin in the eighth book of his _Confessio Amantis_; Robert Copland
+  Wimborne; John [[Gower]] uses the tale as an example of the seventh deadly
+  sin in the eighth book of his _Confessio Amantis_; Robert [[Copland]]
   translated a prose romance of _Kynge Apollyne of Thyre_ (Wynkyn de
   Worde, 1510) from the French; _Pericles_ was entered at Stationers'
   Hall in 1607, and was followed in the next year by George Wilkins's
   novel, _The Painfull Adventures of Pericles, Prynce of Tyre_ (ed.
-  Tycho Mommsen, Oldenburg, 1857), and George Lillo drew his play
+  Tycho Mommsen, Oldenburg, 1857), and George [[Lillo]] drew his play
   _Marina_ (1738) from the piece associated with Shakespeare; _Orendel_,
   by a Middle High German minnesinger, contains some of the episodes of
   _Apollonius_; Heinrich von Neustadt wrote a poem of 20,000 lines on
@@ -66,7 +66,7 @@ _Pericles_.
   Blaives_ (13th cent.), and it also appears in Italian and medieval
   Greek. See A.H. Smyth, _Shakespeare's Pericles and Apollonius of Tyre_
   (Philadelphia, 1898); Elimar Klebs, _Die Erzahlung van A. aus Tyrus_
-  (Berlin, 1899); S. Singer, _Apollonius van Tyrus_ (Halle, 1895).
+  (Berlin, 1899); S. Singer, _Apollonius van Tyrus_ ([[Halle]], 1895).
 
 ## See also
 

@@ -18,7 +18,7 @@ coal at the numerous surrounding collieries. Freeland is the seat of the
 Mining and Mechanical Institute of the Anthracite Region, chartered in
 1894, modelled after the German _Steigerschulen_, with elementary and
 secondary departments and a night school for workmen. The borough has
-foundries and machine shops of considerable importance, and manufactures
+foundries and [[Machine|machine]] shops of considerable importance, and manufactures
 silk, overalls, beer and hames. Freeland was first settled about 1842,
 was laid out in 1870, and was incorporated in 1876.
 

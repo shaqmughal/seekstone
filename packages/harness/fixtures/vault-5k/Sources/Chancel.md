@@ -1,8 +1,8 @@
 # Chancel
 
-CHANCEL (through O. Fr. from Lat. plur. _cancelli_, dim. of _cancer_,
+CHANCEL (through O. Fr. from Lat. plur. _cancelli_, dim. of _[[Cancer|cancer]]_,
 grating, lattice, probably connected with an Indo-European root _Kar_-,
-to bend; cf. circus, curve, &c.), in the earliest and strictest sense
+to [[Bend|bend]]; cf. circus, curve, &c.), in the earliest and strictest sense
 that part of a church near the altar occupied by the deacons and
 sub-deacons assisting the officiating priest, this space having
 originally been separated from the rest of the church by _cancelli_ or
@@ -13,7 +13,7 @@ or in an open place. It is thus used of the bar in a court of justice
 or screen in the ancient basilica, which separated the _bema_, or raised
 tribunal, from the rest of the building. The use of the name in
 ecclesiastical buildings is thus natural, for the altar stood in the
-place occupied by the _bema_ in the apse of the basilica. From the
+place occupied by the _bema_ in the [[Apse|apse]] of the basilica. From the
 screen the term was early transferred to the space _inter cancellos_,
 i.e. the _locus altaris cancellis septus_. This railed-off space is now
 generally known among Roman Catholics as the "sanctuary," the word
@@ -37,7 +37,7 @@ by the presence of a "chancel arch," and by a chancel or rood screen
 however, they were massive stone screens, which in certain cases were
 continued on either side between the piers of the choir and (on the
 European continent) round the east end of the sanctuary, as in the
-cathedrals of Paris, Bourges, Limoges, Amiens and Chartres. These
+cathedrals of Paris, [[Bourges]], Limoges, Amiens and Chartres. These
 screens served the purpose, in collegiate and conventual churches, of
 cutting off the space reserved for the services conducted for and by the
 members of the chapter or community. For popular services a second high

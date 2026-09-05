@@ -13,10 +13,10 @@ Magdalen College, Oxford.
 
 - Balfour, Sir James.
 
-P. Gi. - PETER GILES, M.A., LITT.D., LL.D.
-Fellow and Classical Lecturer of Emmanuel College, Cambridge. University
+P. Gi. - PETER [[Giles|GILES]], M.A., LITT.D., LL.D.
+[[Fellow]] and Classical Lecturer of [[Emmanuel]] College, Cambridge. University
 Reader in Comparative Philology. Formerly Secretary of the Cambridge
-Philological Society. Author of _Manual of Comparative Philology_; &c.
+Philological Society. Author of _[[Manual]] of Comparative Philology_; &c.
 
 - B.
 

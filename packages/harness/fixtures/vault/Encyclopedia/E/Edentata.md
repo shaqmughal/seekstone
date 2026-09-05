@@ -7,17 +7,17 @@ topic: revolution
 # Edentata
 
 EDENTATA, the name assigned by Cuvier to an order of placental mammals
-apparently typified by the South American anteater, but likewise
-including the sloths and armadillos of the same country, and the Old
+apparently typified by the South American [[Anteater|anteater]], but likewise
+including the sloths and [[Armadillo|armadillos]] of the same country, and the Old
 World aard-varks and pangolins. Only the anteaters and pangolins are
-absolutely without teeth (Lat. _e_, out, _dens_, tooth), and the name is
+absolutely without teeth (Lat. _e_, out, _[[Dens|dens]]_, tooth), and the name is
 strictly applicable only to those two groups; but in all the existing
 representatives of the order teeth are absent from the front of the
 jaws, while the cheek-teeth are devoid of roots and of enamel, and only
-very exceptionally have deciduous predecessors. Practically this is all
-the definition that can be given to the assemblage, which is possibly an
+very exceptionally have [[Deciduous|deciduous]] predecessors. Practically this is all
+the [[Definition|definition]] that can be given to the assemblage, which is possibly an
 artificial one. It may be mentioned, however, that there is not
-unfrequently a separate coracoid bone.
+unfrequently a separate coracoid [[Bone|bone]].
 
 Edentates may be divided into three distinct sections or suborders,
 firstly the Xenarthra, or Edentata Vera, of America, secondly the
@@ -56,21 +56,21 @@ of upper and four of lower teeth, the normally-formed tongue and the
 rudimentary tail. The species are arboreal and feed on leaves; all being
 confined to the forests of tropical America. Externally sloths are
 clothed with long coarse, crisp hair; the head is short and rounded, and
-the external ears inconspicuous. The teeth are subcylindrical, of
+the external [[Ear|ears]] inconspicuous. The teeth are subcylindrical, of
 persistent growth, consisting of a central axis of vasodentine, with a
 thin investment of hard dentine, and a thick outer coating of cement;
 without any succession. Fore-limbs greatly longer than the hind-limbs;
-the extremities terminating in narrow, curved feet; with the digits
+the extremities terminating in narrow, curved feet; with the [[Digit|digits]]
 never exceeding three in number, and encased for nearly their whole
 length in a common integument, and armed with long, strong claws.
 Stomach complex. No caecum. Placenta deciduate and dome-like, composed
-of an aggregation of numerous discoidal lobes.
+of an aggregation of numerous discoidal [[Lobe|lobes]].
 
 A remarkable feature connected with sloths is the development of a green
 colour in their hair, due to the growth of an alga. According to Dr
 W.G. Ridewood, in the three-toed sloth the hair is invested with a thick
 extra-cortical layer. "The hair has a tendency to crack in a transverse
-direction, and in the cracks there come to lodge unicellular algae, to
+direction, and in the cracks there come to [[Lodge|lodge]] unicellular algae, to
 which Kuhn has given the name _Pleurococcus bradypi_. The moisture of
 the climate in which _Bradypus_ lives enables the alga to live and
 propagate in this curious position, and the sloth acquires a general
@@ -105,7 +105,7 @@ inwards so that it cannot be applied to the ground in walking. The
 tongue is short and soft, and the stomach large and complex, bearing
 some resemblance to that of ruminants. The windpipe or trachea has the
 remarkable peculiarity--not unfrequent among birds and reptiles--of
-being folded on itself before it reaches the lungs. The two teats are
+being folded on itself before it reaches the [[Lung|lungs]]. The two teats are
 pectoral in position. The premaxilla is rudimentary and loosely attached
 to the maxilla. Except in _B. torquatus_, there is no perforation in the
 lower end of the humerus. Some of the species are covered uniformly with
@@ -114,10 +114,10 @@ hairs around the shoulders (_B. torquatus_); some have the hair of the
 face shorter than that of the rest of the head and neck; and others have
 a remarkable-looking patch of soft, short hair on the back between the
 shoulders, consisting, when best marked, of a median stripe of glossy
-black, bordered on each side by bright orange, yellow or white. There
+black, bordered on each side by [[Bright|bright]] orange, yellow or white. There
 are also structural differences in the skulls, as in the amount of
 inflation of the pterygoid bones. The habits of all are apparently
-alike. They are natives of Guiana, Brazil and Peru, and two species (_B.
+alike. They are natives of [[Guiana]], Brazil and Peru, and two species (_B.
 infuscatus_ and _B. castaneiceps_) extend north of the Isthmus of Panama
 as far as Nicaragua. Of the former of these a specimen in captivity
 uttered a shrill sound like a monkey when forcibly pulled away from the
@@ -142,7 +142,7 @@ perforation, or foramen, on the inner side of the lower end of the
 humerus. _C. didactylus_, which has been longest known, and is commonly
 called by the native name of unau, inhabits the forests of Brazil. _C.
 hoffmanni_ has a more northern geographical range, extending from
-Ecuador through Panama to Costa Rica. Its voice, which is seldom heard,
+Ecuador through Panama to [[Costa Rica]]. Its voice, which is seldom heard,
 is like the bleat of a sheep, and if the animal is seized it snorts
 violently. Both species are very variable in external coloration (see
 SLOTH).
@@ -150,7 +150,7 @@ SLOTH).
 The second family is that of the anteaters, _Myrmecophagidae_,
 distinguished from the last by the absence of teeth, the elongated
 tongue and the long tail. The long and slender head has a tubular mouth,
-with a small terminal aperture through which the worm-like tongue,
+with a small terminal [[Aperture|aperture]] through which the worm-like tongue,
 covered with the sticky secretion of the enormous submaxillary salivary
 glands, is rapidly protruded in feeding, and withdrawn again with the
 adhering particles of food which are then sucked into the gullet. In the
@@ -158,7 +158,7 @@ foot the third toe is greatly developed, and has a long sickle-like
 claw; the others are reduced or suppressed. The hind-foot has four or
 five subequal digits with claws. The long tail is sometimes prehensile.
 Placenta dome-like or discoidal. Externally the body is covered with
-hair. Anteaters feed exclusively on animal substances, mostly insects.
+hair. Anteaters feed exclusively on animal substances, mostly [[Insect|insects]].
 One species is terrestrial, the others arboreal; none burrow in the
 ground. They are all inhabitants of tropical America. In the typical
 genus _Myrmecophaga_ the skull is remarkably elongated and narrow, with
@@ -167,7 +167,7 @@ produced into a long tubular rostrum, rounded above and flattened below,
 with terminal nostrils, and composed of the mesethmoid (ossified for
 more than half its length), the vomer, the maxillae, and the long and
 narrow nasal bones, the premaxillae being extremely short and confined
-to the margin of the nostrils. The zygomatic arch is incomplete, the
+to the margin of the nostrils. The zygomatic [[Arch|arch]] is incomplete, the
 rod-like jugal only articulating with the maxilla in front, and not
 reaching the short zygomatic process of the squamosal. The lachrymal
 foramen is in front of the margin of the orbit. There are no
@@ -204,7 +204,7 @@ pectoral.
 
 The tamandua anteaters (_Tamandua_, or _Uroleptes_), of which several
 species (or races) are now recognized, are smaller animals than the
-last, in which the head is much less elongated, the fur short and
+last, in which the head is much less elongated, the [[Fur|fur]] short and
 bristly, and the tail, tapering, prehensile, with the under side
 throughout, and the whole of the terminal portion naked and scaly. The
 stomach is similar to that of _Myrmecophaga_, but with the muscular
@@ -218,7 +218,7 @@ D 17, L 2, S 5, Ca 37. There are very rudimentary clavicles.
 [Illustration: FIG. 2.--Tamandua Anteater (_Tamandua tetradactyla_).]
 
 The last representative of the family is the tiny golden-haired pigmy or
-two-toed anteater, _Cyclopes_ (or _Cycloturus_) _didactylus_, in which
+two-toed anteater, _[[Cyclopes]]_ (or _Cycloturus_) _didactylus_, in which
 the skull is much shorter even than in the preceding genus, and arched
 considerably in the longitudinal direction. It differs from that of the
 other members of the family mainly in the long canal for the posterior
@@ -243,7 +243,7 @@ and parallel with it and extending to about double its length is a
 greatly elongated sesamoid ossicle. These together support a prominent
 cushion to which the nails are opposed in climbing. Stomach pyriform,
 with muscular walls, but no distinct gizzard-like portion. The
-commencement of the colon provided with two small caeca, narrow at the
+commencement of the [[Colon|colon]] provided with two small caeca, narrow at the
 base, but rather dilated at their terminal blind ends, and communicating
 with the general cavity by very minute apertures. Tail longer than the
 body, tapering, bare on the under surface and prehensile. Fur soft and
@@ -273,7 +273,7 @@ simple, of persistent growth and usually without milk predecessors.
 Zygomatic arch of skull complete. Cervical vertebrae with extremely
 short, broad and depressed bodies; the first free, but the second and
 third, and often several of the others united together both by their
-bodies and arches. Clavicles well developed. A third trochanter on the
+bodies and [[Arches|arches]]. Clavicles well developed. A third trochanter on the
 femur. Tibia and fibula united at their lower extremities. Fore-feet
 with strongly developed, curved claws, adapted for digging and
 scratching, three, four or five in number. Hind-feet plantigrade, with
@@ -352,7 +352,7 @@ group. It is found, though not abundantly, in Surinam, Brazil and
 Paraguay. Others, such as _T. hispidus_ and _T. lugubris_, have been
 described.
 
-In the giant armadillo (_Priodon gigas_) the teeth are variable in
+In the [[Giant|giant]] armadillo (_Priodon gigas_) the teeth are variable in
 number, and generally differ on the two sides of each jaw, being usually
 from 20 to 25 on each side above and below, so that as many as a hundred
 may be present altogether; but as life advances the anterior teeth fall
@@ -394,14 +394,14 @@ kind of tripartite hoof; the first and fifth much shorter, with more
 compressed nails.
 
 The armadillos of this genus have the power of rolling themselves up
-into a ball, the shield on the top of the head and the tuberculated
+into a [[Ball|ball]], the shield on the top of the head and the tuberculated
 dorsal surface of the tail exactly fitting into and filling up the
 apertures left by the notches at either end of the body-armour. This
 appears to be their usual means of defence when frightened or surprised,
 as they do not burrow like the other species. They run very quickly,
 with a very peculiar gait, only the tips of the claws of the fore-feet
 touching the ground. In addition to the apar, there are the Argentine
-and Bolivian _T. conurus_, and _T. muriei_ from Argentina or Patagonia.
+and Bolivian _T. conurus_, and _T. muriei_ from [[Argentina]] or Patagonia.
 
 The last group of existing armadillos forms the genus _Tatusia_ and the
 subfamily _Tatusiinae_; the subfamily rank being based on the fact that
@@ -505,7 +505,7 @@ in transverse section. A series of milk-teeth is developed. Skull
 moderately elongated with the facial portion subcylindrical and slightly
 tapering, and the zygoma complete and slender. The palate ends
 posteriorly in the thickened transverse border of the palatines, and is
-not continued back by the pterygoids. The tympanic is annular, and not
+not continued back by the pterygoids. The tympanic is [[Annular|annular]], and not
 welded to the surrounding bones. The lower jaw is slender anteriorly,
 but rises high posteriorly, with a slender recurved coronoid, and an
 ascending pointed process on the hinder edge below the condyle, which is
@@ -526,7 +526,7 @@ body, cylindrical, thick at the base, tapering to the extremity.
 According to the researches of Dr E. Lonnberg, the teeth of the
 aard-varks correspond only to the roots of those of other mammals, the
 crowns being unrepresented, except to a very small degree when the teeth
-first cut the gum. This explanation renders the peculiar internal
+first cut the [[Gum|gum]]. This explanation renders the peculiar internal
 structure of these teeth much less difficult to understand than if they
 represented both crown and root. In Dr Lonnberg's opinion, the teeth
 indicate the descent of the aard-vark from an ungulate stock,--a view in
@@ -566,7 +566,7 @@ consisting of a mass of complex secreting follicles, the ducts of which
 terminate in a common orifice. No caecum, but a gall-bladder. Head
 small, depressed, narrow, and pointed in front, with a very small
 mouth-opening. Eyes and ears very small. Body elongated, narrow. Tail
-more or less elongated, convex above, flat underneath. Limbs short, and
+more or less elongated, [[Convex|convex]] above, flat underneath. Limbs short, and
 in walking the surface and outer sides of the phalanges of the two outer
 digits of the front feet alone rest on the ground, with the points of
 the nails turning upwards and inwards. The third toe the longest, with a
@@ -586,7 +586,7 @@ and the other the African, as represented by the large _M. gigantea_,
 _M. temminchi_, the long-tailed _M. macrura_, and the small arboreal _M.
 tricuspis_. In the Asiatic group the middle series of scales continues
 to the tip of the tail; but in the African forms this row splits into
-two a few inches from the tail-tip. The latter have also no hairs
+two a few [[Inch|inches]] from the tail-tip. The latter have also no hairs
 between the scales and no external ears. The climbing species have a
 small bare patch on the under side of the tail near the tip (see
 PANGOLIN).
@@ -602,7 +602,7 @@ exceedingly large one, and extends in South America from the Miocene to
 the Pleistocene, and was also represented during the latter epoch in
 North America. It serves to connect the _Bradypodidae_ with
 _Myrmecophagidae_. The alleged occurrence of an allied form in
-Madagascar is somewhat doubtful (see MEGATHERIUM and MYLODON).
+[[Madagascar]] is somewhat doubtful (see MEGATHERIUM and MYLODON).
 
 Of _Dasypodidae_ numerous representatives occur in the South American
 Tertiaries. From the higher beds many of the species are referable to
@@ -621,7 +621,7 @@ armadillos, although some of their smaller Santa Cruz representatives
 (see GLYPTODON).
 
 A very remarkable Santa Cruz armadillo, _Peltephilus_, has an altogether
-peculiar type of head-shield, developed into horns in front of the eyes;
+peculiar type of head-shield, developed into [[Horn|horns]] in front of the eyes;
 and, what is still more noteworthy, teeth in the front of the jaws,
 thereby rendering the ordinary definition of the order Edentata
 incorrect. It has been made the type of a distinct family,
@@ -675,20 +675,20 @@ doubt as to the correctness of the determination.
 
 The alleged occurrence of remains of giant pangolins in the upper
 Tertiary of Europe is due to misidentification (see ANCYLOPODA). By some
-authorities the Eocene group of Ganodonta has been affiliated to the
+authorities the Eocene group of [[Ganodonta]] has been affiliated to the
 Edentata, but this reference is not accepted by Prof. W.B. Scott.
 
   AUTHORITIES.--The above article is to some extent based on the
-  articles by Sir W.H. Flower in the 9th edition of this work. See also
+  articles by Sir W.H. [[Flower]] in the 9th edition of this work. See also
   O. Thomas, "A Milk-dentition in _Orycteropus_," _Proc. Royal Soc._
   vol. xlvii. (1890); R. Lydekker, "The Extinct Edentates of Argentina,"
-  _Palaeont. Argentina_, vol. iii., An. Mus. (La Plata, 1894); C.W.
+  _Palaeont. Argentina_, vol. iii., An. Mus. ([[La Plata]], 1894); C.W.
   Andrews, "On a Skull of _Orycteropus gaudryi_ from Samos," _Proc.
   Zool. Soc. London_ (1896); G.E. Smith, "The Brain in the Edentata,"
-  _Trans. Linn. Soc. London_, vol. vii. (1899); W.B. Scott, "Mammalia of
+  _Trans. Linn. Soc. London_, vol. vii. (1899); W.B. Scott, "[[Mammalia]] of
   the Santa Cruz Beds--_Dasypoda_," _Rep. Princeton Exped. to
   Patagonia_, vol. v. (1903); H.F. Osborn, "An Armadillo from the Middle
-  Eocene of North America," _Bull. Amer. Mus._ vol. xx. art. 12 (1904);
+  Eocene of North America," _[[Bull]]. Amer. Mus._ vol. xx. art. 12 (1904);
   J.A. Allen, "The Tamandua Anteaters," _T.C._, art. 33 (1904); F.
   Ameghino, "Les Edentes fossiles de France et d'Allemagne," _Ann. Mus.
   Buenos Aires_, vol. xiii. (1905); E. Lonnberg, "On a new

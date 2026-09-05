@@ -28,8 +28,8 @@ linen cloth of ceremony (_pallium linostinum_) worn in the 4th century
 by the Roman clergy over the left arm, and peculiar at that time to
 them. Its ultimate origin is obscure, but is probably traceable to some
 ceremonial handkerchiefs commonly carried by Roman dignitaries, e.g.
-those with which the magistrates were wont to signal the opening of the
-games of the circus. As late as the 9th century, indeed, the maniple was
+those with which the [[Magistrate|magistrates]] were wont to signal the opening of the
+[[Games|games]] of the circus. As late as the 9th century, indeed, the maniple was
 still a handkerchief, held folded in the left hand. By what process it
 became changed into a narrow strip is not known; the earliest extant
 specimen of the band-like maniple is that found in the grave of St
@@ -60,7 +60,7 @@ middle with a cross or a sword (the "sword of the Spirit," which it is
 supposed to symbolize); sometimes, however, the space within the border
 is embroidered with pictures. It is worn only by bishops and the higher
 clergy, and derives its name from the fact that it hangs down over the
-knee ([Greek: gony]). It is worn on the right side, under the
+[[Knee|knee]] ([Greek: gony]). It is worn on the right side, under the
 _phelonion_, but when the _sakkos_ is worn instead of the _phelonion_,
 by metropolitans, &c., it is attached to this. The _epigonation_, like
 the maniple, was originally a cloth held in the hand; a fact
@@ -73,9 +73,9 @@ half of the 12th century, probably marks the date of the complete
 conventionalizing of the original cloth into the present stiff
 embroidered square; but the earliest representations of the vestment in
 its actual form date from the 14th century, e.g. the mosaic of St
-Athanasius in the chapel of St Zeno in St Mark's at Venice.
+[[Athanasius]] in the chapel of St Zeno in St Mark's at Venice.
 
-  See J. Braun, S. J., _Die liturgische Gewandung_ (Freiburg im
+  See J. Braun, S. J., _Die liturgische Gewandung_ ([[Freiburg]] im
   Breisgau, 1907), pp. 515-561. and the bibliography to VESTMENTS.
 
 

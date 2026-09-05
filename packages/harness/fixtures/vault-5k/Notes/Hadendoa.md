@@ -7,7 +7,7 @@ type: note
 
 # Hadendoa
 
-HADENDOA (from Beja _Hada_, chief, and _endowa_, people), a nomad tribe
+HADENDOA (from [[Beja]] _Hada_, chief, and _endowa_, people), a nomad tribe
 of Africans of "Hamitic" origin. They inhabit that part of the eastern
 Sudan extending from the Abyssinian frontier northward nearly to Suakin.
 They belong to the Beja people, of which, with the Bisharin and the
@@ -15,13 +15,13 @@ Ababda, they are the modern representatives. They are a pastoral people,
 ruled by a hereditary chief who is directly responsible to the
 (Anglo-Egyptian) Sudan government. Although the official capital of the
 Hadendoa country is Miktinab, the town of Fillik on an affluent of the
-Atbara is really their headquarters. A third of the total population is
+[[Atbara]] is really their headquarters. A third of the total population is
 settled in the Suakin country. Osman Digna, one of the best-known chiefs
 during the Madhia, was a Hadendoa, and the tribe contributed some of the
 fiercest of the dervish warriors in the wars of 1883-98. So determined
 were they in their opposition to the Anglo-Egyptian forces that the name
 Hadendoa grew to be nearly synonymous with "rebel." But this was the
-result of Egyptian misgovernment rather than religious enthusiasm; for
+result of Egyptian misgovernment rather than religious [[Enthusiasm|enthusiasm]]; for
 the Hadendoa are true Beja, and Mahommedans only in name. Their
 elaborate hairdressing gained them the name of "Fuzzy-wuzzies" among the
 British troops. They earned an unenviable reputation during the wars by

@@ -8,12 +8,12 @@ topic: geography
 
 BAYEUX TAPESTRY, THE. This venerable relic consists of a band of linen,
 231 ft. long and 20 in. wide, now light brown with age, on which have
-been worked with a needle, in worsteds of eight colours, scenes
+been worked with a needle, in worsteds of eight [[Colours|colours]], scenes
 representing the conquest of England by the Normans. Of these scenes
 there are seventy-two, beginning with Harold's visit to Bosham on his
 way to Normandy, and ending with the flight of the English from the
-battle of Hastings, though the actual end of the strip has perished.
-Along the top and the bottom run decorative borders with figures of
+battle of [[Hastings]], though the actual end of the strip has perished.
+Along the top and the bottom run decorative [[Borders|borders]] with figures of
 animals, scenes from fables of Aesop and of Phaedrus, from husbandry and
 the chase, and occasionally from the story of the Conquest itself (see
 EMBROIDERY; Plate I. fig. 7). Formerly known as the _Toile de St Jean_,
@@ -21,7 +21,7 @@ it was used on certain feast days to decorate the nave of Bayeux
 cathedral. Narrowly escaping the perils of the Revolution, it was
 exhibited in Paris, by Napoleon's desire, in 1803-1804, and has since
 been in civil custody at Bayeux, where it is now exhibited under glass.
-In the Franco-German War (1871) it was hastily taken down and concealed.
+In the [[Franco-German War]] (1871) it was hastily taken down and concealed.
 
 "The noblest monument in the world relating to our old English history,"
 as William Stukeley described it in 1746, it has been repeatedly
@@ -38,33 +38,33 @@ half-brother Odo, bishop of Bayeux, and this view, which is now
 accepted, is confirmed by the fact that three of the bishop's followers
 mentioned in Domesday Book are among the very few named figures on the
 tapestry. That Odo had it executed for his cathedral seems tolerably
-certain, but whether it was worked by English fingers or not has been
+certain, but whether it was worked by English [[Finger|fingers]] or not has been
 disputed, though some of the words upon it have been held to favour that
 view. Freeman emphatically pronounced it to be "a contemporary work,"
 and historically "a primary authority ... in fact the highest authority
 on the Norman side." As some of its evidence is unique, the question of
 its authority is important, and Freeman's conclusions have been
-practically confirmed by recent discussion. In 1902 M. Marignan
+practically confirmed by recent discussion. In 1902 M. [[Marignan]]
 questioned, on archaeological grounds, the date assigned to the
-tapestry, as the Abbe de la Rue had questioned it ninety years before;
+tapestry, as the Abbe [[De La Rue|de la Rue]] had questioned it ninety years before;
 but his arguments were refuted by Gaston Paris and M. Lanore, and the
 authority of the tapestry was vindicated. The famous relic appears to be
 the solitary survivor of a class, for Abbot Baudri described in Latin
 verse a similar work executed for Adela, daughter of the Conqueror, and
 in earlier days the widow of Brihtnoth had wrought a similar record of
-her husband's exploits and death at the hard-fought battle of Maldon
+her husband's exploits and death at the hard-fought battle of [[Maldon]]
 (991).
 
 [Illustration: PLATE I.
 
-  1. SIEGE OF DINANT. Note the wooden castle on a mound, and the knight
-  handing over the keys on his lance tip.
+  1. SIEGE OF DINANT. Note the wooden castle on a mound, and the [[Knight|knight]]
+  handing over the [[Key|keys]] on his [[Lance|lance]] tip.
 
   2. THE FUNERAL OF EDWARD THE CONFESSOR AT WESTMINSTER ABBEY.
 
-  3. CORONATION OF HAROLD.
+  3. [[Coronation|CORONATION]] OF HAROLD.
 
-  4. APPEARANCE OF HALLEY'S COMET.
+  4. APPEARANCE OF HALLEY'S [[Comet|COMET]].
 
   5. THE NORMANS CARRY THEIR ARMS TO THE SHIPS. (_By permission of G,
   Bell & Sons._)]
@@ -77,19 +77,19 @@ her husband's exploits and death at the hard-fought battle of Maldon
 
   8. HAROLD'S ADVANCE ANNOUNCED TO WILLIAM. THE BURNING OF HASTINGS.
 
-  9. THE NORMAN CAVALRY ATTACKS THE ENGLISH SHIELD WALL.
+  9. THE NORMAN [[Cavalry|CAVALRY]] ATTACKS THE ENGLISH SHIELD WALL.
 
-  10. WILLIAM RAISES HIS HELMET TO RALLY HIS MEN.
+  10. WILLIAM RAISES HIS [[Helmet|HELMET]] TO RALLY HIS MEN.
 
-  11. ODO, BISHOP OF BAYEUX, WIELDING HIS MACE.
+  11. ODO, BISHOP OF BAYEUX, WIELDING HIS [[Mace|MACE]].
 
   (_By permission of G. Bell & Sons._)]
 
   See E.A. Freeman, _Norman Conquest_, vol. iii. (ed. 1875), with
   summary of the discussion to date; _Archaeologia_, vols. xvii.--xix.;
-  Dawson Turner, _Tour in Normandy_ (1820); C.A. Stothard's
+  [[Dawson]] Turner, _Tour in Normandy_ (1820); C.A. Stothard's
   illustrations in _Vetusta Monumenta_, vol. vi.; _Gentleman's
-  Magazine_, 1837; Bolton Corney, _Researches and Conjectures on the
+  Magazine_, 1837; [[Bolton]] Corney, _Researches and Conjectures on the
   Bayeux Tapestry_ (1836-1838); A. de Caumont, "Un mot sur ... la
   tapisserie de Bayeux," in _Bulletin monumental de Vinstilut des
   provinces_, vol. viii. (1841); J. Laffetay, _Notice historique et
@@ -111,10 +111,10 @@ father Murad I. on the latter's assassination on the field of Kossovo,
 his brother Yakub, who had distinguished himself in the battle. His arms
 were successful both in Europe and Asia, and he was the first Ottoman
 sovereign to be styled "sultan," which title he induced the titular
-Abbasid caliph to confer on him. After routing the chivalry of
+Abbasid caliph to confer on him. After routing the [[Chivalry|chivalry]] of
 Christendom at the battle of Nikopoli in 1396, he pursued his victorious
 career in Greece, and Constantinople would doubtless have fallen before
-his attack, had not the emperor Manuel Palaeologus bought him off by
+his attack, had not the emperor [[Manuel]] Palaeologus bought him off by
 timely concessions which reduced him practically to the position of
 Bayezid's vassal. But his conquests met with a sudden and overpowering
 check at the hands of Timur (Tamerlane). Utterly defeated at Angora by
@@ -122,7 +122,7 @@ the Mongol invader, Bayezid became his prisoner, and died in captivity
 some months later, in March 1403.
 
 Bayezid first married Devlet Shah Khatun, daughter of the prince of
-Kermian, who brought him in dowry Kutaiah and its dependencies. Two
+Kermian, who brought him in [[Dowry|dowry]] [[Kutaiah]] and its dependencies. Two
 years before his accession he also married a daughter of the emperor
 John Palaeologus.
 
@@ -137,13 +137,13 @@ new sultan. Before he could establish himself on the throne a long
 struggle ensued with his brother Prince Jem. Being routed, Jem fled for
 refuge to the knights of St John at Rhodes, who, in spite of a
 safe-conduct granted to him, accepted a pension from Bayezid as the
-price for keeping him a close prisoner. (See AUBUSSON, PIERRE D'.)
+price for keeping him a close prisoner. (See [[Aubusson|AUBUSSON]], PIERRE D'.)
 
 So long as Jem lived he was a perpetual menace to the sultan's peace,
 and there was considerable rivalry among the sovereigns of Europe for
 the possession of so valuable an instrument for bringing pressure to
 bear upon the Porte for the purpose of extracting money or concessions.
-By common consent the prince was ultimately entrusted to Pope Innocent
+By common consent the prince was ultimately entrusted to Pope [[Innocent]]
 VIII., who used him not only to extract an annual tribute out of the
 sultan, but to prevent the execution of Bayezid's ambitious designs in
 the Mediterranean. His successor, Alexander VI., used him for a more
@@ -158,15 +158,15 @@ had been deliberately encouraged by the pope.
 
 Whether as a result of his fear of the rivalry of Jem, or of his
 personal character, Bayezid showed little of the aggressive spirit of
-his warlike predecessors; and Machiavelli said that another such sultan
+his warlike predecessors; and [[Machiavelli]] said that another such sultan
 would cause Turkey to cease being a menace to Europe. He abandoned the
 attack on Rhodes at the first check, made concessions, for the sake of
 peace, to Venice and reduced the tribute due fiom Ragusa. His wars were
 of the nature of raids, on the Dalmatian coast and into Croatia,
 Hungary, Moldavia and Poland. The threat of the growing power in the
-Aegean of Venice, which had acquired Cyprus in 1489, at last roused him
+Aegean of Venice, which had acquired [[Cyprus]] in 1489, at last roused him
 to a more serious effort; and in 1499 the war broke out with the
-republic, which ended in 1502 by the annexation to Turkey of Lepanto and
+republic, which ended in 1502 by the [[Annexation|annexation]] to Turkey of [[Lepanto]] and
 Modon, Coron and Navarino in the Morea. Bayezid himself conducted the
 siege of Modon in 1500.
 
@@ -180,19 +180,19 @@ Persia too, where the decisive battle of Shurur (1502) had raised to
 power Ismail, the first of the modern line of shahs, danger threatened
 the sultan, and the latter years of his reign were troubled by the
 spread, under the influence of the new Persian power, of the Shi'ite
-doctrine in Kurdistan and Asia Minor. The forces destined to maintain
+doctrine in [[Kurdistan]] and Asia Minor. The forces destined to maintain
 his authority in Asia had been entrusted by Bayezid to his three sons,
 Ahmed, Corcud and Selim; and the sultan's declining years were
 embittered by their revolts and rivalry. Soon after the great earthquake
 of 1509, which laid Constantinople in ruins, Selim, the ungovernable
 pasha of Trebizond, whose vigorous rule in Asia had given Europe an
-earnest of his future career as sultan, appeared before Adrianople,
+[[Earnest|earnest]] of his future career as sultan, appeared before Adrianople,
 where Bayezid had sought refuge. The sultan had designated Ahmed as his
 successor, but Selim, though temporarily defeated, succeeded in winning
 over the janissaries. On the 25th of April 1512 Bayezid was forced to
 abdicate in his favour, and died a few days later.
 
-  See J.B. Bury in the _Cambridge Modern History_, vol. i. chap. iii.
+  See J.B. [[Bury]] in the _Cambridge Modern History_, vol. i. chap. iii.
   and bibliography p. 700.
 
 ## See also

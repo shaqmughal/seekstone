@@ -19,7 +19,7 @@ development. Its principal productions are coffee, sugar, and cacao,
 and--less important--cotton, tobacco, cocoanuts, timber, indigo and
 dyewoods. Its more important towns are the capital, Barcelona, Maturin
 (pop. 14,473), capital of a district of the same name, and Cumana
-(10,000), on the gulf of Cariaco, founded in 1520 and one of the oldest
+(10,000), on the gulf of [[Cariaco]], founded in 1520 and one of the oldest
 towns of the continent.
 
 ## See also

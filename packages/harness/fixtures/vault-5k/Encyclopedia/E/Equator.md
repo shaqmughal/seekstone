@@ -1,7 +1,7 @@
 # Equator
 
 EQUATOR (Late Lat. _aequator_, from _aequare_, to make equal), in
-geography, that great circle of the earth, equidistant from the two
+[[Geography|geography]], that great circle of the earth, equidistant from the two
 poles, which divides the northern from the southern hemisphere and lies
 in a plane perpendicular to the axis of the earth; this is termed the
 "geographical" or "terrestrial equator." In astronomy, the "celestial

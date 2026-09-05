@@ -18,9 +18,9 @@ mathematical school-books in his spare time to eke out his resources. He
 was far however from neglecting the science and art of war, for thus
 early he had begun to make his name as a theorist as well as a
 mathematician. After serving as instructor in mathematics to the young
-prince Louis, he took part with credit in the expedition into Holland,
+prince Louis, he took part with [[Credit|credit]] in the expedition into Holland,
 and was given the order _Pour le mérite_. On returning to Prussia he
-became mathematical instructor at the school of military engineering,
+became mathematical instructor at the school of military [[Engineering|engineering]],
 leaving this post in 1792 to take part as a general staff officer in the
 war against France. He was awarded a prebend at Minden for his services
 as a topographical engineer on the day of Valmy, and after serving
@@ -51,15 +51,15 @@ In 1805 came threats of the war with Napoleon which Massenbach had
 strongly opposed. He was made quartermaster-general (chief of staff) to
 Prince Hohenlohe, over whom he soon obtained a fatal ascendancy. War was
 averted for a moment by the result of the battle of Austerlitz, but it
-broke out in earnest in October 1806. Massenbach's influence clouded all
+broke out in [[Earnest|earnest]] in October 1806. Massenbach's influence clouded all
 the Prussian operations. The battles of Jena and Auerstädt were lost,
-and the capitulation of Prince Hohenlohe's army was negotiated. Even
+and the [[Capitulation|capitulation]] of Prince Hohenlohe's army was negotiated. Even
 suggestions of disloyalty were not wanting; an attempt to try him by
 court-martial was only frustrated by Prince Hohenlohe's action in taking
 upon himself, as commander-in-chief, the whole responsibility for
 Massenbach's actions. He then retired to his estate in the Posen
 province, and occupied himself in writing pamphlets, memoirs, &c. When
-his estates passed into the grand duchy of Warsaw, he chose to remain a
+his estates passed into the grand duchy of Warsaw, he [[Chose|chose]] to remain a
 Prussian subject, and on the outbreak of the war of liberation he asked
 in vain for a post on the Prussian staff. After the fall of Napoleon he
 took part in Württemberg politics, was expelled from Stuttgart and
@@ -71,7 +71,7 @@ having recovered from an accident, pardoned those whom he considered to
 have wronged him most deeply. He died on the 21st of November 1827, at
 his estate of Bialokoscz, Posen.
 
-  The obituary in _Neuer Nekrolog der Deutschen_, pt. ii. (Ilmenau,
+  The obituary in _Neuer Nekrolog der Deutschen_, pt. ii. ([[Ilmenau]],
   1827) is founded on a memoir (_Der Oberst C. v. Massenbach_) which was
   published at the beginning of his imprisonment.
 

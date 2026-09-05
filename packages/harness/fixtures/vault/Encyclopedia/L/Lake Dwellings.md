@@ -1,28 +1,28 @@
 # Lake Dwellings
 
-LAKE DWELLINGS, the term employed in archaeology for habitations
+LAKE DWELLINGS, the term employed in [[Archaeology|archaeology]] for habitations
 constructed, not on the dry land, but within the margins of lakes or
-creeks at some distance from the shore.
+[[Creek|creeks]] at some distance from the shore.
 
 The villages of the Guajiros in the Gulf of Maracaibo are described by
 Goering as composed of houses with low sloping roofs perched on lofty
 piles and connected with each other by bridges of planks. Each house
 consisted of two apartments; the floor was formed of split stems of
-trees set close together and covered with mats; they were reached from
-the shore by dug-out canoes poled over the shallow waters, and a notched
-tree trunk served as a ladder. The custom is also common in the
+trees set close together and covered with [[Mat|mats]]; they were reached from
+the shore by dug-out [[Canoe|canoes]] poled over the shallow waters, and a notched
+tree trunk served as a [[Ladder|ladder]]. The custom is also common in the
 estuaries of the Orinoco and Amazon. A similar system prevails in New
-Guinea. Dumont d'Urville describes four such villages in the Bay of
+Guinea. [[Dumont D'Urville|Dumont d'Urville]] describes four such villages in the Bay of
 Dorei, containing from eight to fifteen blocks or clusters of houses,
 each block separately built on piles, and consisting of a row of
-distinct dwellings. C. D. Cameron describes three villages thus built on
+distinct dwellings. C. D. [[Cameron]] describes three villages thus built on
 piles in Lake Mohrya, or Moria, in Central Africa, the motive here being
 to prevent surprise by bands of slave-catchers. Similar constructions
-have been described by travellers, among the Dyaks of Borneo, in
-Celebes, in the Caroline Islands, on the Gold Coast of Africa, and in
+have been described by travellers, among the [[Dyaks]] of Borneo, in
+Celebes, in the Caroline Islands, on the [[Gold Coast]] of Africa, and in
 other places.
 
-Hippocrates, writing in the 5th century B.C., says of the people of the
+[[Hippocrates]], writing in the 5th century B.C., says of the people of the
 Phasis that their country is hot and marshy and subject to frequent
 inundations, and that they live in houses of timber and reeds
 constructed in the midst of the waters, and use boats of a single tree
@@ -38,23 +38,23 @@ over the water, as in the time of Herodotus."
 
 The records of the wars in Ireland in the 16th century show that the
 petty chieftains of that time had their defensive strongholds
-constructed in the "freshwater lochs" of the country, and there is
+constructed in the "freshwater [[Loch|lochs]]" of the country, and there is
 record evidence of a similar system in the western parts of Scotland.
 The archaeological researches of the past fifty years have shown that
 such artificial constructions in lakes were used as defensive dwellings
 by the Celtic people from an early period to medieval times (see
-CRANNOG). Similar researches have also established the fact that in
+[[Crannog|CRANNOG]]). Similar researches have also established the fact that in
 prehistoric times nearly all the lakes of Switzerland, and many in the
 adjoining countries--in Savoy and the north of Italy, in Austria and
-Hungary and in Mecklenburg and Pomerania--were peopled, so to speak, by
+Hungary and in [[Mecklenburg]] and Pomerania--were peopled, so to speak, by
 lake-dwelling communities, living in villages constructed on platforms
 supported by piles at varying distances from the shores. The principal
-groups are those in the Lakes of Bourget, Geneva, Neuchâtel, Bienne,
+groups are those in the Lakes of Bourget, [[Geneva]], Neuchâtel, Bienne,
 Zürich and Constance lying to the north of the Alps, and in the Lakes
-Maggiore, Varese, Iseo and Garda lying to the south of that mountain
+Maggiore, Varese, [[Iseo]] and [[Garda]] lying to the south of that mountain
 range. Many smaller lakes, however, contain them, and they are also
 found in peat moors on the sites of ancient lakes now drained or silted
-up, as at Laibach in Carniola. In some of the larger lakes the number of
+up, as at [[Laibach]] in [[Carniola]]. In some of the larger lakes the number of
 settlements has been very great. Fifty are enumerated in the Lake of
 Neuchâtel, thirty-two in the Lake of Constance, twenty-four in the Lake
 of Geneva, and twenty in the Lake of Bienne. The site of the lake
@@ -86,7 +86,7 @@ when the bottom was rocky so that the piles could not be driven, they
 were steadied at their bases by being enveloped in a mound of loose
 stones, in the manner in which the foundations of piers and breakwaters
 are now constructed. In cases where piles have not been used, as at
-Niederwil and Wauwyl, the substructure is a mass of fascines or faggots
+Niederwil and Wauwyl, the substructure is a mass of fascines or [[Faggot|faggots]]
 laid parallel and crosswise upon one another with intervening layers of
 brushwood or of clay and gravel, a few piles here and there being fixed
 throughout the mass to serve as guides or stays. At Niederwil the
@@ -125,29 +125,29 @@ and 12 ft. wide, while at Robenhausen they were about 27 ft. long by
 about 22 ft. wide.
 
 The character of the relics shows that in some cases the settlements
-have been the dwellings of a people using no materials but stone, bone
-and wood for their implements, ornaments and weapons; in others, of a
+have been the dwellings of a people using no materials but stone, [[Bone|bone]]
+and wood for their [[Implement|implements]], ornaments and weapons; in others, of a
 people using bronze as well as stone and bone; and in others again the
 occasional use of iron is disclosed. But, though the character of the
 relics is thus changed, there is no corresponding change in the
 construction and arrangements of the dwellings. The settlement in the
-Lake of Moosseedorf, near Bern, affords the most perfect example of a
+Lake of Moosseedorf, near [[Bern]], affords the most perfect example of a
 lake dwelling of the Stone age. It was a parallelogram 70 ft. long by 50
 ft. wide, supported on piles, and having a gangway built on faggots
 connecting it with the land. The superstructure had been destroyed by
 fire. The implements found in the relic bed under it were axe-heads of
-stone, with their haftings of stag's horn and wood; a flint saw, set in
-a handle of fir wood and fastened with asphalt; flint flakes and
-arrow-heads; harpoons of stag's horn with barbs; awls, needles, chisels,
-fish-hooks and other implements of bone; a comb of yew wood 5 in. long;
-and a skate made out of the leg bone of a horse. The pottery consisted
+stone, with their haftings of stag's [[Horn|horn]] and wood; a flint saw, set in
+a handle of fir wood and fastened with [[Asphalt|asphalt]]; flint flakes and
+arrow-heads; harpoons of stag's horn with barbs; awls, needles, [[Chisel|chisels]],
+fish-hooks and other implements of bone; a [[Comb|comb]] of yew wood 5 in. long;
+and a skate made out of the [[Leg|leg]] bone of a horse. The pottery consisted
 chiefly of roughly-made vessels, some of which were of large size,
 others had holes under the rims for suspension, and many were covered
 with soot, the result of their use as culinary vessels. Burnt wheat,
 barley and linseed, with many varieties of seeds and fruits, were
 plentifully mingled with the bones of the stag, the ox, the swine, the
 sheep and the goat, representing the ordinary food of the inhabitants,
-while remains of the beaver, the fox, the hare, the dog, the bear, the
+while remains of the beaver, the [[Fox|fox]], the [[Hare|hare]], the dog, the bear, the
 horse, the elk and the bison were also found.
 
 The settlement of Robenhausen, in the moor which was formerly the bed of
@@ -156,14 +156,14 @@ after the introduction of bronze. The site covers nearly 3 acres, and is
 estimated to have contained 100,000 piles. In some parts three distinct
 successions of inhabited platforms have been traced. The first had been
 destroyed by fire. It is represented at the bottom of the lake by a
-layer of charcoal mixed with implements of stone and bone and other
+layer of [[Charcoal|charcoal]] mixed with implements of stone and bone and other
 relics highly carbonized. The second is represented above the bottom by
 a series of piles with burnt heads, and in the bottom by a layer of
-charcoal mixed with corn, apples, cloth, bones, pottery and implements
+charcoal mixed with [[Corn|corn]], [[Apple|apples]], cloth, bones, pottery and implements
 of stone and bone, separated from the first layer of charcoal by 3 ft.
 of peaty sediment intermixed with relics of the occupation of the
 platform. The piles of the third settlement do not reach down to the
-shell marl, but are fixed in the layers representing the first and
+shell [[Marl|marl]], but are fixed in the layers representing the first and
 second settlements. They are formed of split oak trunks, while those of
 the two first settlements are round stems chiefly of soft wood. The huts
 of this last settlement appear to have had cattle stalls between them,
@@ -171,11 +171,11 @@ the droppings and litter forming heaps at the lake bottom. The bones of
 the animals consumed as food at this station were found in such numbers
 that 5 tons were collected in the construction of a watercourse which
 crossed the site. Among the wooden objects recovered from the relic beds
-were tubs, plates, ladles and spoons, a flail for threshing corn, a last
-for stretching shoes of hide, celt handles, clubs, long-bows of yew,
-floats and implements of fishing and a dug-out canoe 12 ft. long. No
+were tubs, plates, ladles and spoons, a [[Flail|flail]] for threshing corn, a last
+for stretching shoes of hide, [[Celt|celt]] handles, clubs, long-bows of yew,
+[[Float|floats]] and implements of fishing and a dug-out canoe 12 ft. long. No
 spindle-whorls were found, but there were many varieties of cloth,
-platted and woven, bundles of yarn and balls of string. Among the tools
+platted and woven, bundles of yarn and [[Ball|balls]] of string. Among the tools
 of bone and stag's horn were awls, needles, harpoons, scraping tools and
 haftings for stone axe-heads. The implements of stone were chiefly
 axe-heads and arrow-heads. Of clay and earthenware there were many
@@ -184,16 +184,16 @@ pots made of clay and horse dung and still retaining the drossy coating
 of the melted bronze.
 
 The settlement of Auvernier in the Lake of Neuchâtel is one of the
-richest and most considerable stations of the Bronze age. It has yielded
+richest and most considerable stations of the [[Bronze Age|Bronze age]]. It has yielded
 four bronze swords, ten socketed spear-heads, forty celts or axe-heads
 and sickles, fifty knives, twenty socketed chisels, four hammers and an
-anvil, sixty rings for the arms and legs, several highly ornate torques
+[[Anvil|anvil]], sixty rings for the arms and legs, several highly ornate torques
 or twisted neck rings, and upwards of two hundred hair pins of various
 sizes up to 16 in. in length, some having spherical heads in which
 plates of gold were set. Moulds for sickles, lance-heads and bracelets
 were found cut in stone or made in baked clay. From four to five hundred
 vessels of pottery finely made and elegantly shaped are indicated by the
-fragments recovered from the relic bed. The Lac de Bourget, in Savoy,
+fragments recovered from the relic bed. The [[Lac]] de Bourget, in Savoy,
 has eight settlements, all of the Bronze age. These have yielded upwards
 of 4000 implements, weapons and ornaments of bronze, among which were a
 large proportion of moulds and founders' materials. A few stone
@@ -219,7 +219,7 @@ exhibited so many indications of capacity, intelligence, industry and
 social organization that they cannot be considered as presenting, even
 in their Stone age, a very low condition of culture or civilization.
 Their axes were made of tough stones, sawn from the block and ground to
-the fitting shape. They were fixed by the butt in a socket of stag's
+the fitting shape. They were fixed by the [[Butt|butt]] in a socket of stag's
 horn, mortised into a handle of wood. Their knives and saws of flint
 were mounted in wooden handles and fixed with asphalt. They made and
 used an endless variety of bone tools. Their pottery, though roughly
@@ -269,7 +269,7 @@ inhabitants practised agriculture and kept the common domestic animals,
 while their tools, weapons and ornaments were mainly of similar
 character to those of the contemporary lake dwellers of the adjoining
 regions. Some of the Italian terremare show quadrangular constructions
-made like the modern log houses, of undressed tree trunks superposed
+made like the modern [[Log|log]] houses, of undressed tree trunks superposed
 longitudinally and overlapping at the ends, as at Castione in the
 province of Parma. A similar mode of construction is found in the
 pile-village on the banks of the Save, near Donja Dolina in Bosnia,
@@ -287,16 +287,16 @@ medieval times.
 
   AUTHORITIES.--The materials for the investigation of this singular
   phase of prehistoric life were first collected and systematized by Dr
-  Ferdinand Keller (1800-1881), of Zürich, and printed in _Mittheilungen
+  [[Ferdinand]] Keller (1800-1881), of Zürich, and printed in _Mittheilungen
   der Antiquarischen Gesellschaft in Zürich_, vols, ix.-xxii., 4to
   (1855-1886). The substance of these reports has been issued as a
   separate work in England, _The Lake Dwellings of Switzerland and other
   parts of Europe_, by Dr Ferdinand Keller, translated and arranged by
-  John Edward Lee, 2nd ed. (2 vols. 8vo, London, 1878). Other works on
+  John Edward [[Lee]], 2nd ed. (2 vols. 8vo, London, 1878). Other works on
   the same subject are Frédéric Troyon, _Habitations lacustres des temps
-  anciens et modernes_ (Lausanne, 1860); E. Desor, _Les Palafittes ou
+  anciens et modernes_ (Lausanne, 1860); E. [[Desor]], _Les Palafittes ou
   constructions lacustres du lac de Neuchâtel_ (Paris, 1865); E. Desor
-  and L. Favre, _Le Bel Âge du bronze lacustre en Suisse_ (Paris, 1874);
+  and L. [[Favre]], _Le [[Bel]] Âge du bronze lacustre en Suisse_ (Paris, 1874);
   A. Perrin, _Étude préhistorique sur la Savoie spécialement à l'époque
   lacustre_ (_Les Palafittes du lac de Bourget_, Paris, 1870); Ernest
   Chantre, _Les Palafittes ou constructions lacustres du lac de Paladru_

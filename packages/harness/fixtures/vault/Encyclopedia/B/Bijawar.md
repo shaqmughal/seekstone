@@ -9,7 +9,7 @@ of its resources.
 The state takes its name from the chief town, Bijawar (pop. in 1901,
 5220), which was founded by Bijai Singh, one of the Gond chiefs of Garha
 Mandla, in the 17th century. It was conquered in the 18th century by
-Chhatarsal, the founder of Panna, a Rajput of the Bundela clan, by whose
+Chhatarsal, the founder of Panna, a Rajput of the Bundela [[Clan|clan]], by whose
 descendants it is still held. It was confirmed to Ratan Singh in 1811 by
 the British government for the usual deed of allegiance. In 1857 Bhan
 Pratap Singh rendered signal services to the British during the Mutiny,

@@ -41,9 +41,9 @@ Hot springs are numerous, and some of them, as those of Vals, St
 Laurent-les-Bains, Celles and Neyrac, are largely resorted to. Ardeche
 is served by the Paris-Lyon-Mediterranee railway and has some 43 m. of
 navigable waterway. The department is divided into the arrondissements
-of Privas, Largentiere and Tournon, with 31 cantons and 342 communes. It
+of Privas, Largentiere and Tournon, with 31 cantons and 342 [[Commune|communes]]. It
 forms the diocese of Viviers and part of the archiepiscopal province of
-Avignon. It is in the region of the XV. army corps, and within the
+[[Avignon]]. It is in the region of the XV. army corps, and within the
 circumscription of the _academie_ (educational division) of Grenoble.
 Its court of appeal is at Nimes. Privas, the capital, Annonay, Aubenas,
 Largentiere and Tournon are the principal towns. Bourg-St Andeol,

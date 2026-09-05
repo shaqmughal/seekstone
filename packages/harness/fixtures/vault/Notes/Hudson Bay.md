@@ -10,13 +10,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hudson_Bay
 
 HUDSON BAY (less often, but more correctly, Hudson's Bay), an inland sea
 in the N.E. of Canada, extending from 78 deg. to 95 deg. W. and from 51
-deg. to 70 deg. N. On the east it is connected with the Atlantic Ocean
-by Hudson Strait, and on the north with the Arctic Ocean by Fox Channel
+deg. to 70 deg. N. On the east it is connected with the [[Atlantic Ocean]]
+by [[Hudson]] Strait, and on the north with the [[Arctic]] Ocean by [[Fox]] Channel
 and Fury and Hecla Strait. Its southern extremity between 55 deg. and 51
 deg. N. is known as James Bay. It is 590 m. in width, and 1300 from S.
 to N., including James Bay (350 m.) and Fox Channel (350 m.). The
 customary use of the term includes James Bay, but not Fox Channel. The
-average depth of water is about 70 fathoms, deepening at the entrance of
+average depth of water is about 70 [[Fathom|fathoms]], deepening at the entrance of
 Hudson Strait to 100 fathoms. James Bay is much shallower, and unfit for
 shipping save for a central channel leading to the mouth of the Moose
 river. The centre and west of the main bay are absolutely free from
@@ -29,7 +29,7 @@ Into Hudson and James Bays flow numerous important rivers, so much so
 that the water of the latter is rather brackish than salt. Beginning at
 the north-west, the chief of these are Churchill, Nelson (draining Lake
 Winnipeg, and the numerous inland rivers of which it is the basin),
-Hayes (the old boat route of the _voyageurs_ to Winnipeg), Severn,
+[[Hay|Hayes]] (the old boat route of the _voyageurs_ to Winnipeg), Severn,
 Albany, Moose, Rupert river (draining Lake Mistassini), Nottaway, East
 Main, Great Whale and Little Whale.
 
@@ -43,13 +43,13 @@ Cambrian rocks, of which the islands are composed. Coal, plumbago, iron
 and other minerals have been found in various districts near the coast.
 The climate is harsh, though vegetables and certain root crops ripen in
 the open air as far north as Fort Churchill; cattle flourish, and are
-fed chiefly on the native grasses; spruce, balsam and poplar grow to a
+fed chiefly on the native [[Grasses|grasses]]; spruce, [[Balsam|balsam]] and poplar grow to a
 fair size as far as the northern limit of James Bay. Caribou, musk ox
 and other animals are still found in large numbers, and there is an
-abundance of feathered game--ducks, geese, loons and ptarmigan; hunting
+abundance of feathered game--ducks, geese, loons and ptarmigan; [[Hunting|hunting]]
 and fishing form the chief occupations of the Indians and Eskimo who
 live in scattered bands near the shore. The bay abounds with fish, of
-which the chief are cod, salmon, porpoise and whales. The last have long
+which the chief are [[Cod|cod]], salmon, porpoise and whales. The last have long
 been pursued by American whalers, whose destructive methods have so
 greatly depleted the supply that the government of Canada is anxious to
 declare the bay a _mare clausum_.
@@ -65,14 +65,14 @@ over.
   After three centuries of exploration, the navigability of Hudson Bay
   and Strait remains a vexed question. To Canada it is one of great
   commercial interest, and numerous expeditions have been made and
-  reports issued by the Geological Survey. From Winnipeg to Liverpool
+  reports issued by the Geological Survey. From Winnipeg to [[Liverpool]]
   via Churchill is over 500 m. less than via Montreal, and from Edmonton
   to Liverpool almost 1000 m. less. Were navigation open for a
   sufficient time, such a route for the grain of the Canadian and
   American west would be of enormous advantage. But the inlet from the
-  Arctic sends down masses of heavy ice, which drift about in the bay
+  Arctic sends down masses of heavy [[Ice|ice]], which [[Drift|drift]] about in the bay
   and the strait. Past the mouth of the strait flows a stream often over
-  100 m. wide, of berg and floe ice, carried by the Arctic current.
+  100 m. wide, of [[Berg|berg]] and [[Floe|floe]] ice, carried by the Arctic current.
   Owing to the proximity of the Magnetic Pole (in Boothia) the compass
   often refuses to work. For sailing ships, such as the Hudson's Bay
   Company has long employed, the season for safe navigation is from the
@@ -84,7 +84,7 @@ over.
   available is Fort Churchill, at the mouth of the Churchill river,
   which is large and easy of access. Moose Factory (at the foot of James
   Bay) and York Factory (at the mouth of the Nelson) are mere
-  roadsteads. Marble Island, south of Chesterfield Inlet, where the
+  roadsteads. [[Marble]] Island, south of [[Chesterfield]] Inlet, where the
   whalers winter, is too far north for regular shipping.
 
   The Cabots entered the strait in 1498, and during the next century a

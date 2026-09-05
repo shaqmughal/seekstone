@@ -1,8 +1,8 @@
 # Cerutti
 
-CERUTTI, GIUSEPPE ANTONIO GIACHIMO (1738-1792), French author and
+CERUTTI, GIUSEPPE [[Antonio|ANTONIO]] GIACHIMO (1738-1792), French author and
 politician, was born at Turin on the 13th of June 1738. He joined the
-Society of Jesus and became professor at the Jesuit college at Lyons. In
+Society of Jesus and became professor at the Jesuit college at [[Lyons]]. In
 1762, in reply to the attacks on his order, he published an _Apologie
 generale de l'institut et de la doctrine des Jesuites_, which won him
 much fame and some exalted patronage; notably that of the ex-king
@@ -21,7 +21,7 @@ September 1790, in collaboration with Rabaut Saint-Etienne and Philippe
 Antoine Grouvelle. Its character and objects are explained by its
 title: _La Feuille villageoise, adressee chaque semaine a tous les
 villages de France pour les instruire des lois, des evenements, des
-decouvertes qui interessent tout ban citoyen, &c._ It was continued by
+decouvertes qui interessent tout [[Ban|ban]] citoyen, &c._ It was continued by
 Grouvelle after Cerutti's death, the last number appearing on the 2nd of
 August 1795.
 

@@ -1,6 +1,6 @@
 # Istahbanat
 
-ISTAHBANAT, a town and district of Persia in the province of Fars. The
+ISTAHBANAT, a town and district of Persia in the province of [[Fars]]. The
 district, which is very fertile, extends for nearly 50 m. east and west
 along the southern shore of the Bakhtegan lake and produces much grain,
 cotton, good tobacco and excellent fruit, particularly pomegranates and

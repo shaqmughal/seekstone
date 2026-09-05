@@ -3,14 +3,14 @@
 LAIRD, MACGREGOR (1808-1861), Scottish merchant, pioneer of British
 trade on the Niger, was born at Greenock in 1808, the younger son of
 William Laird, founder of the Birkenhead firm of shipbuilders of that
-name. In 1831 Laird and certain Liverpool merchants formed a company for
+name. In 1831 Laird and certain [[Liverpool]] merchants formed a company for
 the commercial development of the Niger regions, the lower course of the
 Niger having been made known that year by Richard and John Lander. In
 1832 the company despatched two small ships to the Niger, one, the
 "Alburkah," a paddle-wheel steamer of 55 tons designed by Laird, being
 the first iron vessel to make an ocean voyage. Macgregor Laird went with
 the expedition, which was led by Richard Lander and numbered forty-eight
-Europeans, of whom all but nine died from fever or, in the case of
+Europeans, of whom all but nine died from [[Fever|fever]] or, in the case of
 Lander, from wounds. Laird went up the Niger to the confluence of the
 Benue (then called the Shary or Tchadda), which he was the first white
 man to ascend. He did not go far up the river but formed an accurate
@@ -46,7 +46,7 @@ His elder brother, JOHN LAIRD (1805-1874), was one of the first to use
 iron in the construction of ships; in 1829 he made an iron lighter of 60
 tons which was used on canals and lakes in Ireland; in 1834 he built the
 paddle steamer "John Randolph" for Savannah, U.S.A., stated to be the
-first iron ship seen in America. For the East India Company he built in
+first iron ship seen in America. For the [[East India Company]] he built in
 1839 the first iron vessel carrying guns and he was also the designer of
 the famous "Birkenhead." A Conservative in politics, he represented
 Birkenhead in the House of Commons from 1861 to his death.
@@ -55,7 +55,7 @@ Birkenhead in the House of Commons from 1861 to his death.
 
 
 LAÏS, the name of two Greek courtesans, generally distinguished as
-follows. (1) The elder, a native of Corinth, born _c._ 480 B.C., was
+follows. (1) The elder, a native of [[Corinth]], born _c._ 480 B.C., was
 famous for her greed and hardheartedness, which gained her the nickname
 of _Axine_ (the axe). Among her lovers were the philosophers Aristippus
 and Diogenes, and Eubatas (or Aristoteles) of Cyrene, a famous runner.
@@ -64,16 +64,16 @@ Craneion near Corinth, surmounted by a lioness tearing a ram. (2) The
 younger, daughter of Timandra the mistress of Alcibiades, born at
 Hyccara in Sicily _c._ 420 B.C., taken to Corinth during the Sicilian
 expedition. The painter Apelles, who saw her drawing water from the
-fountain of Peirene, was struck by her beauty, and took her as a model.
+[[Fountain|fountain]] of Peirene, was struck by her beauty, and took her as a model.
 Having followed a handsome Thessalian to his native land, she was slain
-in the temple of Aphrodite by women who were jealous of her beauty. Many
-anecdotes are told of a Laïs by Athenaeus, Aelian, Pausanias, and she
+in the temple of [[Aphrodite]] by women who were jealous of her beauty. Many
+anecdotes are told of a Laïs by [[Athenaeus]], Aelian, Pausanias, and she
 forms the subject of many epigrams in the Greek Anthology; but, owing to
 the similarity of names, there is considerable uncertainty to whom they
 refer. The name itself, like Phryne, was used as a general term for a
 courtesan.
 
-  See F. Jacobs, _Vermischte Schriften_, iv. (1830).
+  See F. [[Jacobs]], _Vermischte Schriften_, iv. (1830).
 
 ## See also
 

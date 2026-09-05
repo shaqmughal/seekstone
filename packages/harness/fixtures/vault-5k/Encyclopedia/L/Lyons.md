@@ -9,7 +9,7 @@ type: reference
 
 LYONS (Fr. _Lyon_), a city of eastern France, capital of the department
 of Rhône, 315 m. S.S.E. of Paris and 218 m. N. by W. of Marseilles on
-the Paris-Lyon railway. Pop. (1906) town, 430,186; commune, 472,114.
+the Paris-Lyon railway. Pop. (1906) town, 430,186; [[Commune|commune]], 472,114.
 Lyons, which in France is second only to Paris in commercial and
 military importance, is situated at the confluence of the Rhône and the
 Saône at an altitude of 540 to 1000 ft. above sea-level. The rivers,
@@ -38,7 +38,7 @@ formerly met on the site of this quarter, till, in the 18th century, the
 sculptor Perrache reclaimed it; on the peninsula thus formed stands the
 principal railway station, the Gare de Perrache with the Cours du Midi,
 the most extensive promenade in Lyons, stretching in front of it. Here,
-too, are the docks of the Saône, factories, the arsenal, gas-works and
+too, are the [[Dock|docks]] of the Saône, factories, the arsenal, gas-works and
 prisons. The Rhône, less confined than the Saône, flows swiftly in a
 wide channel, broken when the water is low in spring by pebbly islets.
 On the right hand it skirts first St Clair, sloping upwards to
@@ -49,7 +49,7 @@ together with its lake, comprises some 285 acres, and contains a
 zoological collection, botanical and pharmaceutical gardens, and the
 finest greenhouses in France, with unique collections of orchids,
 palm-trees and _Cycadaceae_. It is defended from the Rhône by the Quai
-de la Tête d'Or, while on the east the railway line to Geneva separates
+de la Tête d'Or, while on the east the railway line to [[Geneva]] separates
 it from the race-course. Brotteaux is a modern residential quarter.
 Guillotière to the south consists largely of workmen's dwellings,
 bordering wide, airy thoroughfares. To the east extend the manufacturing
@@ -69,13 +69,13 @@ the two preserving a portion of the old structure.
 
 Of the ancient buildings Nôtre-Dame de Fourvière is the most celebrated.
 The name originally applied to a small chapel built in the 9th century
-on the site of the old forum (_forum vetus_) from which it takes its
+on the site of the old [[Forum|forum]] (_forum vetus_) from which it takes its
 name. It has been often rebuilt, the chief feature being a modern
-Romanesque tower surmounted by a cupola and statue of the Virgin. In
+Romanesque tower surmounted by a [[Cupola|cupola]] and statue of the Virgin. In
 1872 a basilica was begun at its side in token of the gratitude of the
 city for having escaped occupation by the German troops. The building,
 finished in 1894, consists of a nave without aisles flanked at each
-exterior corner by a turret and terminating in an apse. The façade, the
+exterior corner by a turret and terminating in an [[Apse|apse]]. The façade, the
 lower half of which is a lofty portico supported on four granite
 columns, is richly decorated on its upper half with statuary and
 sculpture. Marble and mosaic have been lavishly used in the
@@ -84,11 +84,11 @@ gallery from which, according to an old custom, a benediction is
 pronounced upon the town annually on the 8th of September. From this
 gallery a magnificent view of the city and the surrounding country can
 be obtained. At the foot of the hill of Fourvière rises the cathedral of
-St Jean, one of the finest examples of early Gothic architecture in
+St Jean, one of the finest examples of early [[Gothic]] architecture in
 France. Begun in the 12th century, to the end of which the transept and
 choir belong, it was not finished till the 15th century, the gable and
 flanking towers of the west front being completed in 1480. A triple
-portal surmounted by a line of arcades and a rose window gives entrance
+portal surmounted by a line of [[Arcade|arcades]] and a rose window gives entrance
 to the church. Two additional towers, that to the north containing one
 of the largest bells in France, rise at the extremities of the transept.
 The nave and choir contain fine stained glass of the 13th and 14th
@@ -120,7 +120,7 @@ Romanesque architecture; that of St Bonaventure, originally a chapel of
 the Cordeliers, was rebuilt in the 15th and 19th centuries. With the
 exception of the imposing prefecture, the vast buildings of the
 faculties, which are in the Guillotière quarter, and the law court, the
-colonnade of which overlooks the Saône from its right bank, the chief
+[[Colonnade|colonnade]] of which overlooks the Saône from its right bank, the chief
 civil buildings are in the vicinity of the Place des Terreaux. The east
 side of this square (so called from the _terreaux_ or earth with which
 the canal formerly connecting the Rhône and the Saône hereabouts was
@@ -128,7 +128,7 @@ filled) is formed by the hotel de ville (17th century), the east façade
 of which, towards the Grand Theatre, is the more pleasing. The south
 side of the square is occupied by the Palais des Arts, built in the 17th
 century as a Benedictine convent and now accommodating the school of
-fine arts, the museums of painting and sculpture, archaeology and
+[[Fine Arts|fine arts]], the museums of painting and sculpture, archaeology and
 natural history, and the library of science, arts and industry. The
 museums are second in importance only to those of Paris. The collection
 of antiquities, rich in Gallo-Roman inscriptions, contains the bronze
@@ -152,7 +152,7 @@ library and a collection of globes, among them the great terrestrial
 globe made at Lyons in 1701, indicating the great African lakes.
 
 The Hôtel Dieu, instituted according to tradition in the beginning of
-the 6th century by King Childebert, is still one of the chief charitable
+the 6th century by King [[Childebert]], is still one of the chief charitable
 establishments in the city. The present building dates from the 18th
 century; its façade, fronting the west quay of the Rhône for over 1000
 ft., was begun according to the designs of Soufflot, architect of the
@@ -167,7 +167,7 @@ monuments are the equestrian statue of Louis XIV. in the Place
 Bellecour, the monuments of President Carnot, Marshal Suchet, the
 physicist André-Marie Ampère, and those in honour of the Republic and in
 memory of the citizens of the department who fell in the war of 1870-71.
-The most noteworthy fountain is that in the Place des Terreaux with the
+The most noteworthy [[Fountain|fountain]] is that in the Place des Terreaux with the
 leaden group by Bartholdi representing the rivers on their way to the
 ocean.
 
@@ -178,7 +178,7 @@ Pilat, can still be traced. Magnificent remains of the latter work may
 be seen at St Irénée and Chaponost. Traces also exist along the Rhône of
 a subterranean canal conveying the water of the river to a _naumachia_
 (lake for mimic sea-fights). Agrippa made Lyons the starting-point of
-the principal Roman roads throughout Gaul; and it remains an important
+the principal Roman roads throughout [[Gaul]]; and it remains an important
 centre in the general system of communication owing to its position on
 the natural highway from north to south-eastern France. The Saône above
 the town and the Rhône below have large barge and steamboat traffic. The
@@ -234,7 +234,7 @@ Croix-Rousse, Fourvière and St Just.
   Lyons is the headquarters of the XIV. army-corps, the seat of an
   archbishop who holds the title of primate of the Gauls and also that
   of archbishop of Vienne, and of a prefect, a court of appeal, a court
-  of assizes, tribunals of commerce and of first instance, and of two
+  of [[Assize|assizes]], tribunals of commerce and of first instance, and of two
   boards of trade arbitration (_conseils de prud'hommes_). It is the
   centre of an _academie_ (educational division) and has a university
   with faculties of law, letters, science and medicine and pharmacy.
@@ -246,13 +246,13 @@ Croix-Rousse, Fourvière and St Just.
   competent designers for the textile manufactures, but has also done
   much for painting and sculpture; an army medical school, schools of
   drawing, agriculture, music, commerce (_école supérieure de
-  commerce_), weaving, tanning, watch-making and applied chemistry, and
+  commerce_), weaving, tanning, watch-making and applied [[Chemistry|chemistry]], and
   the écoles La Martiniere for free instruction in science and art as
   applied to industry. The veterinary school, instituted in 1761, was
   the first of its kind in Europe; its laboratory for the study of
   comparative physiology is admirably equipped. Besides the _Académie
   des Sciences, Belles Lettres et Arts_ (founded in 1700), Lyons
-  possesses societies of agriculture, natural history, geography,
+  possesses societies of agriculture, natural history, [[Geography|geography]],
   horticulture, &c.
 
 
@@ -265,31 +265,31 @@ Croix-Rousse, Fourvière and St Just.
   and Henry IV. From time to time new kinds of fabrics were
   invented--silk stuffs woofed with wool or with gold and silver
   threads, shawls, watered silks, poplins, velvets, satinades, moires,
-  &c. In the beginning of the 19th century J. M. Jacquard introduced his
-  famous loom by which a single workman was enabled to produce elaborate
-  fabrics as easily as the plainest web, and by changing the "cartoons"
+  &c. In the beginning of the 19th century J. M. [[Jacquard]] introduced his
+  famous [[Loom|loom]] by which a single workman was enabled to produce elaborate
+  fabrics as easily as the plainest web, and by changing the "[[Cartoon|cartoons]]"
   to make the most different textures on the same looms. In the 17th
   century the silk manufacture employed at Lyons, 9000 to 12,000 looms.
   After the revocation of the edict of Nantes the number sank to 3000 or
   4000; but after the Reign of Terror was past it rose again about 1801
   to 12,000. Towards the middle of the 19th century the weaving branch
-  of the industry began to desert Lyons for the surrounding districts.
+  of the industry began to [[Desert|desert]] Lyons for the surrounding districts.
   The city remains the business centre for the trade and carries on
   dyeing, printing and other accessory processes. Lyons disputes with
   Milan the position of the leading silk market of Europe. In 1905 the
   special office (_la Condition des soies_) which determines the weight
   of the silk examined over 4700 tons of silk. France furnished barely
   one-tenth of this quantity, two-thirds came from China and Japan, the
-  rest from Italy and the Levant. The traders of Lyons re-export
+  rest from Italy and the [[Levant]]. The traders of Lyons re-export
   seven-twelfths of these silks, the industries of the town employing
   the remainder. An almost equal quantity of cotton, wool and waste-silk
   threads is mixed with the silk. A few thousand hand-looms are still
   worked in the town, more especially producing the richest materials,
-  50,000 or 55,000 in the surrounding districts, and some 33,000 machine
+  50,000 or 55,000 in the surrounding districts, and some 33,000 [[Machine|machine]]
   looms in the suburbs and neighbouring departments. Allied industries
   such as dyeing, finishing and printing, employ 12,000 workers.
   Altogether 300,000 workpeople depend upon the silk industry. In 1905
-  the total value of the manufacture was £15,710,000, the chief items
+  the total value of the manufacture was £15,710,000, the chief [[Item|items]]
   being pure silk textures (plain) £3,336,000; textures of silk mixed
   with other materials £3,180,000; silk and foulards £1,152,000; muslins
   £3,800,000, this product having increased from £100,000 in 1894.
@@ -302,7 +302,7 @@ Croix-Rousse, Fourvière and St Just.
   the requirements of the silk trade. Large quantities of mineral and
   vegetable colouring matters are produced and there is besides a large
   output of glue, gelatine, superphosphates and phosphorus, all made
-  from bones and hides, of picric, tartaric, sulphuric and hydrochloric
+  from [[Bone|bones]] and hides, of picric, tartaric, sulphuric and hydrochloric
   acids, sulphates of iron and copper, and pharmaceutical and other
   chemical products.
 
@@ -318,11 +318,11 @@ Croix-Rousse, Fourvière and St Just.
   dried flour-paste (macaroni, vermicelli, &c.), brewing, hat-making,
   the manufacture of chocolate, and the pork-butcher's industry. Apart
   from the dealings in silk and silk goods, trade is in cloth, coal and
-  charcoal, metals and metal goods, wine and spirits, cheese and
+  charcoal, metals and metal goods, wine and spirits, [[Cheese|cheese]] and
   chestnuts. Four miles south-west of Lyons is Oullins (pop. 9859) which
   has the important works of the Paris-Lyon railway.
 
-  Lyons is the seat of important financial companies; of the Credit
+  Lyons is the seat of important financial companies; of the [[Credit]]
   Lyonnais, which does business to the amount of £200,000,000 annually
   in Lyons alone; also of coal and metallurgical companies and gas
   companies, the former extending their operations as far as Russia, the
@@ -332,8 +332,8 @@ _History._--The earliest Gallic occupants of the territory at the
 confluence of the Rhône and the Saône were the Segusians. In 59 B.C.
 some Greek refugees from the banks of the Hérault, having obtained
 permission of the natives to establish themselves beside the
-Croix-Rousse, called their new town by the Gallic name Lugudunum (q.v.)
-or Lugdunum; and in 43 B.C. Lucius Munatius Plancus brought a Roman
+Croix-Rousse, called their new town by the Gallic name [[Lugudunum]] (q.v.)
+or Lugdunum; and in 43 B.C. [[Lucius]] Munatius Plancus brought a Roman
 colony to Fourvières from Vienne. This settlement soon acquired
 importance, and was made by Agrippa the starting-point of four great
 roads. Augustus, besides building aqueducts, temples and a theatre, gave
@@ -346,12 +346,12 @@ afterwards rebuilt in a much finer style with money given by Nero; it
 was also adorned by Trajan, Adrian and Antoninus. The martyrdom of
 Pothinus and Blandina occurred under Marcus Aurelius (A.D. 177), and
 some years later a still more savage persecution of the Christians took
-place under Septimius Severus, in which Irenaeus, according to some
+place under Septimius Severus, in which [[Irenaeus]], according to some
 authors, perished.
 
 After having been ravaged by the barbarians and abandoned by the empire,
 Lyons in 478 became capital of the kingdom of the Burgundians. It
-afterwards fell into the hands of the Franks, and suffered severely from
+afterwards fell into the hands of the [[Frank|Franks]], and suffered severely from
 the Saracens, but revived under Charlemagne, and after the death of
 Charles the Bald became part of the kingdom of Provence. From 1032 it
 was a fief of the emperor of Germany. Subsequently the authority over
@@ -366,7 +366,7 @@ X., in 1274, at which five hundred bishops met. Pope Clement V. was
 crowned here in 1305, and his successor, John XXII., elected in 1316.
 The Protestants obtained possession of the place in 1562; their acts of
 violence were fiercely avenged in 1572 after the St Bartholomew
-massacre. Under Henry III. Lyons sided with the League; but it
+[[Massacre|massacre]]. Under Henry III. Lyons sided with the League; but it
 pronounced in favour of Henry IV. The executions of Henri d'Effiat,
 marquis of Cinq-Mars, and of François de Thou, who had plotted to
 overthrow Richelieu, took place on the Place des Terreaux in 1642. In
@@ -383,7 +383,7 @@ Bellecour, reopened the churches, and made the bridge of Tilsit over the
 Saône between Bellecour and the cathedral. In 1814 and 1815 Lyons was
 occupied by the Austrians. In 1831, 1834, 1849, 1870 and 1871 it was the
 scene of violent industrial or political disturbances. In 1840 and 1856
-disastrous floods laid waste portions of the city. International
+disastrous floods laid waste portions of the city. [[International]]
 exhibitions were held here in 1872 and 1894, the latter occasion being
 marked by the assassination of President Carnot.
 

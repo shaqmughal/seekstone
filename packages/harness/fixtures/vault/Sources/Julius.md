@@ -13,7 +13,7 @@ JULIUS, the name of three popes.
 JULIUS I., pope from 337 to 352, was chosen as successor of Marcus after
 the Roman see had been vacant four months. He is chiefly known by the
 part which he took in the Arian controversy. After the Eusebians had, at
-a synod held in Antioch, renewed their deposition of Athanasius they
+a synod held in Antioch, renewed their deposition of [[Athanasius]] they
 resolved to send delegates to Constans, emperor of the West, and also to
 Julius, setting forth the grounds on which they had proceeded. The
 latter, after expressing an opinion favourable to Athanasius, adroitly
@@ -26,9 +26,9 @@ council of Sardica in Illyria was held, which was attended only by
 seventy-six Eastern bishops, who speedily withdrew to Philippopolis and
 deposed Julius, along with Athanasius and others. The Western bishops
 who remained confirmed the previous decisions of the Roman synod; and by
-its 3rd, 4th and 5th decrees relating to the rights of revision, the
+its 3rd, 4th and 5th [[Decree|decrees]] relating to the rights of revision, the
 council of Sardica endeavoured to settle the procedure of ecclesiastical
-appeals. Julius on his death in April 352 was succeeded by Liberius.
+appeals. Julius on his death in April 352 was succeeded by [[Liberius]].
      (L. D.*)
 
 JULIUS II. (Giuliano della Rovere), pope from the 1st of November 1503
@@ -36,14 +36,14 @@ to the 21st of February 1513, was born at Savona in 1443. He was at
 first intended for a commercial career, but later was sent by his uncle,
 subsequently Sixtus IV., to be educated among the Franciscans, although
 he does not appear to have joined that order. He was loaded with favours
-during his uncle's pontificate, being made bishop of Carpentras, bishop
-of Bologna, bishop of Vercelli, archbishop of Avignon, cardinal-priest
+during his uncle's pontificate, being made bishop of [[Carpentras]], bishop
+of Bologna, bishop of Vercelli, archbishop of [[Avignon]], cardinal-priest
 of S. Pietro in Vincoli and of Sti Dodici Apostoli, and cardinal-bishop
-of Sabina, of Frascati, and finally of Ostia and Velletri. In 1480 he
+of Sabina, of [[Frascati]], and finally of Ostia and Velletri. In 1480 he
 was made legate to France, mainly to settle the question of the
 Burgundian inheritance, and acquitted himself with such ability during
 his two years' stay that he acquired an influence in the college of
-cardinals which became paramount during the pontificate of Innocent
+cardinals which became paramount during the pontificate of [[Innocent]]
 VIII. A rivalry, however, growing up between him and Roderigo Borgia, he
 took refuge at Ostia after the latter's election as Alexander VI., and
 in 1494 went to France, where he incited Charles VIII. to undertake the
@@ -60,7 +60,7 @@ won the support of Cesare Borgia and was unanimously elected pope.
 Julius II. from the beginning repudiated the system of nepotism which
 had flourished under Sixtus IV., Innocent VIII. and Alexander VI., and
 set himself with courage and determination to restore, consolidate and
-extend the temporal possessions of the Church. By dexterous diplomacy he
+extend the temporal possessions of the Church. By dexterous [[Diplomacy|diplomacy]] he
 first succeeded (1504) in rendering it impossible for Cesare Borgia to
 remain in Italy. He then pacified Rome and the surrounding country by
 reconciling the powerful houses of Orsini and Colonna and by winning the
@@ -71,16 +71,16 @@ occupied. The alliance at first resulted only in compelling the
 surrender of a few unimportant fortresses in the Romagna; but Julius
 freed Perugia and Bologna in the brilliant campaign of 1506. In 1508 he
 concluded against Venice the famous league of Cambray with the emperor
-Maximilian, Louis XII. of France and Ferdinand of Aragon, and in the
+[[Maximilian]], Louis XII. of France and [[Ferdinand]] of [[Aragon]], and in the
 following year placed the city of Venice under an interdict. By the
 single battle of Agnadello the Italian dominion of Venice was
 practically lost; but as the allies were not satisfied with merely
 effecting his purposes, the pope entered into a combination with the
 Venetians against those who immediately before had been engaged in his
 behalf. He absolved the Venetians in the beginning of 1510, and shortly
-afterwards placed the ban on France. At a synod convened by Louis XII.
+afterwards placed the [[Ban|ban]] on France. At a synod convened by Louis XII.
 at Tours in September, the French bishops announced their withdrawal
-from the papal obedience and resolved, with Maximilian's co-operation,
+from the papal obedience and resolved, with Maximilian's [[Co-Operation|co-operation]],
 to seek the deposition of Julius. In November 1511 a council actually
 met at Pisa for this object, but its efforts were fruitless. Julius
 forthwith formed the Holy league with Ferdinand of Aragon and with
@@ -93,11 +93,11 @@ the Church, and with a war against the Turks. This council, which is
 known as the Fifth Lateran, assembled on the 3rd of May 1512, condemned
 the celebrated pragmatic sanction of the French church, and was still
 in session when Julius died. In the midst of his combats, Julius never
-neglected his ecclesiastical duties. His bull of the 14th of January
+neglected his ecclesiastical duties. His [[Bull|bull]] of the 14th of January
 1505 against simony in papal elections was re-enacted by the Lateran
 council (February 16, 1513). He condemned duelling by bull of the 24th
 of February 1509. He effected some reforms in the monastic orders; urged
-the conversion of the sectaries in Bohemia; and sent missionaries to
+the [[Conversion|conversion]] of the sectaries in Bohemia; and sent missionaries to
 America, India, Abyssinia and the Congo. His government of the Papal
 States was excellent. Julius is deserving of particular honour for his
 patronage of art and literature. He did much to improve and beautify
@@ -113,7 +113,7 @@ Church that his temporal policy eclipsed his spiritual office. Though
 not despising the Machiavellian arts of statecraft so universally
 practised in his day, he was nevertheless by nature plain-spoken and
 sincere, and in his last years grew violent and crabbed. He died of a
-fever on the 21st of February 1513, and was succeeded by Leo X.
+[[Fever|fever]] on the 21st of February 1513, and was succeeded by Leo X.
 
   See L. Pastor, _History of the Popes_, vol. vi., trans. by F. I.
   Antrobus (1898); M. Creighton, _History of the Papacy_, vol. v.
@@ -122,10 +122,10 @@ fever on the 21st of February 1513, and was succeeded by Leo X.
   _Conciliengeschichte_, vol. viii., 2nd ed.; J. Klaczko, _Rome et la
   renaissance ... Jules II._ (1898), trans. into English by J. Dennie
   (New York, 1903); M. Brosch, _Papst Julius II. u. die Gründung des
-  Kirchenstaates_ (1878); A. J. Dumesnil, _Histoire de Jules II._
+  Kirchenstaates_ (1878); A. J. [[Dumesnil]], _Histoire de Jules II._
   (1873); J. J. I. von Döllinger, _Beiträge zur polit., kirchl., u.
   Cultur-Geschichte der sechs letzten Jahrhunderte_, vol. iii. (1882);
-  A. Schulte, _Die Fugger in Rom 1495-1523, mit Studien zur Gesch. des
+  A. Schulte, _Die [[Fugger]] in Rom 1495-1523, mit Studien zur Gesch. des
   kirchlichen Finanzwesens jener Zeit_ (1904).     (C. H. Ha.)
 
 JULIUS III. (Giovanni Maria del Monte), pope from 1550 to 1555, was born
@@ -150,7 +150,7 @@ that of Paul III.; but he provided for his family out of the offices and
 revenues of the Church, and advanced unworthy favourites to the
 cardinalate. What progress reform made during his pontificate was due to
 its acquired momentum, rather than to the zeal of the pope. Yet under
-Julius steps were taken to abolish plurality of benefices and to restore
+Julius steps were taken to abolish plurality of [[Benefice|benefices]] and to restore
 monastic discipline; the Collegium Germanicum, for the conversion of
 Germans, was established in Rome, 1552; and England was absolved by the
 cardinal-legate Pole, and received again into the Roman communion

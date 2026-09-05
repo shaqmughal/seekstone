@@ -7,11 +7,11 @@ school, becoming a member of a touring theatrical company under the assumed
 name of Barrington. At Limerick races he joined the manager of the company
 in pocket-picking. The manager was detected and sentenced to
 transportation, and Barrington fled to London, where he assumed clerical
-dress and continued his pocket-picking. At Covent Garden theatre he robbed
+[[Dress|dress]] and continued his pocket-picking. At Covent Garden theatre he robbed
 the Russian prince Orlov of a snuff-box, said to be worth £30,000. He was
 [v.03 p.0437] detected and arrested, but as Prince Orlov declined to
 prosecute, was discharged, though subsequently he was sentenced to three
-years' hard labour for pocket-picking at Drury Lane theatre. On his release
+years' hard labour for pocket-picking at [[Drury]] [[Lane]] theatre. On his release
 he was again caught at his old practices and sentenced to five years' hard
 labour, but influence secured his release on the condition that he left
 England. He accordingly went for a short time to Dublin, and then returned
@@ -27,7 +27,7 @@ principal actors being convicts, and Barrington wrote the prologue to the
 first production. This prologue has obtained a wide publicity. It begins:--
 
  "From distant climes, o'er widespread seas, we come,
-  Though not with much _éclat_ or beat of drum;
+  Though not with much _éclat_ or beat of [[Drum|drum]];
   True patriots we, for, be it understood,
   We left our country for our country's good."
 

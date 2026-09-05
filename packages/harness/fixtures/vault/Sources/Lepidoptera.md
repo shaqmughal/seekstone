@@ -1,9 +1,9 @@
 # Lepidoptera
 
 LEPIDOPTERA (Gr. [Greek: lepis], a scale or husk, and [Greek: pteron], a
-wing), a term used in zoological classification for one of the largest
-and best-known orders of the class Hexapoda (q.v.), in order that
-comprises the insects popularly called butterflies and moths. The term
+wing), a term used in zoological [[Classification|classification]] for one of the largest
+and best-known orders of the class [[Hexapoda]] (q.v.), in order that
+comprises the [[Insect|insects]] popularly called butterflies and moths. The term
 was first used by Linnaeus (1735) in the sense still accepted by modern
 zoologists, and there are few groups of animals as to whose limits and
 distinguishing characters less controversy has arisen.
@@ -11,7 +11,7 @@ distinguishing characters less controversy has arisen.
 [Illustration: After Edwards, Riley and Howard's _Insect Life_, vol. 3
 (U.S. Dept. Agr.).
 
-FIG. 1.--e, _Crytophasa unipuctata_, Donov., Australia. a, Larva; c,
+FIG. 1.--e, _Crytophasa unipuctata_, Donov., [[Australia]]. a, Larva; c,
 pupa, natural size; b, 2nd and 3rd abdominal segments of larva; d,
 cremaster of pupa, magnified.]
 
@@ -20,8 +20,8 @@ _Characters._--The name of the order indicates the fact that the wings
 structures--the scales (fig. 7)--that may be regarded as modified
 arthropodan "hairs." Such scales are not peculiar to the
 Lepidoptera--they are found also on many of the Aptera, on the Psocidae,
-a family of Corrodentia, on some Coleoptera (beetles) and on the gnats
-(Culicidae), a family of Diptera. The most distinctive structural
+a family of Corrodentia, on some [[Coleoptera]] (beetles) and on the [[Gnat|gnats]]
+(Culicidae), a family of [[Diptera]]. The most distinctive structural
 features of the Lepidoptera are to be found in the jaws. The mandibles
 are mere vestiges or entirely absent; the second maxillae are usually
 reduced to a narrow transverse mentum which bears the scale-covered
@@ -30,8 +30,8 @@ on their inner faces, so as to form when apposed a tubular proboscis
 adapted for sucking liquid food.
 
 All Lepidoptera are hatched as the eruciform soft-bodied type of larva
-(fig. 1, a) known as the caterpillar, with biting mandibles, three pairs
-of thoracic legs and with a variable number (usually five pairs) of
+(fig. 1, a) known as the [[Caterpillar|caterpillar]], with biting mandibles, three pairs
+of thoracic [[Leg|legs]] and with a variable number (usually five pairs) of
 abdominal prolegs, which carry complete or incomplete circles of
 hooklets. The pupa in a single family only is free (i.e. with the
 appendages free from the body), and mandibulate. In the vast majority of
@@ -77,14 +77,14 @@ FIG. 3.--A, Mandible, and B, 1st maxilla of _Micropteryx_
   adapted for sucking liquid food, and the suctorial proboscis (often
   erroneously called a "tongue") is formed as was shown by J. C. Savigny
   in 1816 by two elongated and flexible outgrowths of the first
-  maxillae, usually regarded as representing the outer lobes or galeae
+  maxillae, usually regarded as representing the outer [[Lobe|lobes]] or galeae
   (fig. 4, A, B, g). These structures are grooved along their inner
   faces and by means of a series of interlocking hair-like bristles can
   be joined together so as to form a tubular sucker (fig. 4, C). At
   their extremities they are beset with club-like sense-organs, whose
   apparent function is that of taste. The proboscis when in use is
   stretched out in front of the head and inserted into the corolla of a
-  flower or elsewhere, for the absorption of liquid nourishment. When at
+  [[Flower|flower]] or elsewhere, for the absorption of liquid nourishment. When at
   rest, the proboscis is rolled up into a close spiral beneath the head
   and between the labial palps (fig. 4, A, p). Only in the genus
   _Micropteryx_ mentioned above is the lacinia of the maxilla (as A.
@@ -100,7 +100,7 @@ FIG. 3.--A, Mandible, and B, 1st maxilla of _Micropteryx_
   characters in classification.
 
   [Illustration: FIG. 4.--Arrangement of the jaws in a typical Moth.
-  Somewhat diagrammatic and in part after E. Burgess and V. L. Kellogg
+  Somewhat diagrammatic and in part after E. [[Burges|Burgess]] and V. L. [[Kellogg]]
   (_Amer. Nat._ xiv. xxix.).
 
     A, Front view of head.
@@ -153,8 +153,8 @@ FIG. 3.--A, Mandible, and B, 1st maxilla of _Micropteryx_
   radial nervure; its anal area is, however, often more strongly
   developed than that of the forewing. The two wings of a side are
   usually kept together during flight by a few stout bristles--the
-  frenulum--(fig. 5, f) projecting from the base of the costa of the
-  hindwing and fitting beneath a membranous fold or a few thickened
+  frenulum--(fig. 5, f) projecting from the base of the [[Costa|costa]] of the
+  hindwing and fitting beneath a membranous [[Fold|fold]] or a few thickened
   scales--the retinaculum--on the under surface of the forewing. In
   butterflies there is no frenulum, but a costal outgrowth of the
   hindwing subserves the same function. In the most primitive moths a
@@ -199,8 +199,8 @@ FIG. 3.--A, Mandible, and B, 1st maxilla of _Micropteryx_
   specially modified scales--the androconia (fig. 7, C)--which are
   formed by glandular cells and diffuse a scented secretion. In some
   cases, the androconia are mixed among the ordinary scales; in others
-  they are associated into conspicuous "brands" (see fig. 66). The
-  admirable colours of the wings of the Lepidoptera are due partly to
+  they are associated into conspicuous "[[Brand|brands]]" (see fig. 66). The
+  admirable [[Colours|colours]] of the wings of the Lepidoptera are due partly to
   pigment in the scales--as in the case of yellows, browns, reds and
   blacks--partly to "interference" effects from the fine striae on the
   scales--as with the blues, purples and greens.
@@ -235,7 +235,7 @@ FIG. 3.--A, Mandible, and B, 1st maxilla of _Micropteryx_
   deferentia or into the ejaculatory duct. In a few families--the
   Hepialidae and Saturniidae for example--the testes retain the
   primitive paired arrangement. These details have been worked out by
-  various students, among whom W. H. Jackson and W. Petersen deserve
+  various students, among whom W. H. [[Jackson]] and W. Petersen deserve
   special mention. Summing up the developmental history of the genital
   ducts, Jackson remarks that there is "an Ephemeridal stage, which ends
   towards the close of larval life, an Orthopteran stage, indicated
@@ -251,7 +251,7 @@ Europe.]
 _Development._--Many observations have been made on the embryology of
 the Lepidoptera; for some of the more important results of these see
 HEXAPODA. The post-embryonic development of Lepidoptera is more
-familiar, perhaps, than that of any other group of animals. The egg
+familiar, perhaps, than that of any other group of animals. The [[Egg|egg]]
 shows great variation in its outward form, the outer envelope or chorion
 being in some families globular, in others flattened, in others again
 erect and sub-conical or cylindrical; while its surface often exhibits a
@@ -304,14 +304,14 @@ behind. Magnified. (From Miall and Denny after Lyonnet.)
   on the prothorax and on the first eight abdominal segments. Various
   tubercles may become coalesced or aborted (fig. 10, B); often, in
   conjunction with the spines that they bear, the tubercles serve as a
-  valuable protective armature for the caterpillar. Much discussion has
+  valuable protective [[Armature|armature]] for the caterpillar. Much discussion has
   taken place as to whether the abdominal prolegs are or are not
   developed directly from the embryonic abdominal appendages. In the
   more lowly families of Lepidoptera, these organs are provided at the
   extremity with a complete circle of hooklets, but in the more highly
   organized families, only the inner half of this circle is retained.
 
-  [Illustration: B, after Grote, _Mitt. aus dem Roemer Museum_, No. 6.
+  [Illustration: B, after [[Grote]], _Mitt. aus dem Roemer Museum_, No. 6.
 
   FIG. 10.--Abdominal segments of Caterpillars, to show arrangement of
   tubercles; the arrows point anteriorly. A, Generalized condition; B,
@@ -342,7 +342,7 @@ behind. Magnified. (From Miall and Denny after Lyonnet.)
   of the Eriocraniidae (often called the Micropterygidae) the pupa
   resembles that of a caddis-fly (_Trichopteron_) being active before
   the emergence of the imago and provided with strong mandibles by means
-  of which it bites its way out of the cocoon. The importance of the
+  of which it [[Bit|bites]] its way out of the cocoon. The importance of the
   pupa in the phylogeny and classification of the Lepidoptera has lately
   been demonstrated by T. A. Chapman in a valuable series of papers.
   Sometimes organs are present in the pupa which are undeveloped in the
@@ -357,7 +357,7 @@ suction of liquids has already been mentioned in connexion with the
 structure of the maxillae and the food-canal. Nectar from flowers is the
 usual food of moths and butterflies, most of which alight on a blossom
 before thrusting the proboscis into the corolla of the flower, while
-others--the hawk moths (Sphingidae) for example--remain poised in the
+others--the [[Hawk|hawk]] moths (Sphingidae) for example--remain poised in the
 air in front of the flower by means of excessively rapid vibration of
 the wings, and quickly unrolling the proboscis sip the nectar. Certain
 flowers with remarkably long tubular corollas seem to be specially
@@ -367,7 +367,7 @@ certain moths can pierce the envelope of a succulent fruit with the
 rough cuticular outgrowths at the tips of the maxillae, so as to reach
 the soft tissue within. Animal juices attract other Lepidoptera, which
 have been observed to suck blood from a wounded mammal; while putrid
-meat is a familiar "lure" for the gorgeous "purple emperor" butterfly
+[[Meat|meat]] is a familiar "lure" for the gorgeous "purple emperor" butterfly
 (_Apatura iris_). The water of streams or the dew on leaves may be
 frequently sought by Lepidoptera desirous of quenching their thirst,
 possibly with fatal results, the insects being sometimes drowned in
@@ -385,7 +385,7 @@ vanessid butterflies, for example, emerge from the pupa in the late
 summer and live through the winter in sheltered situations, reappearing
 to lay their eggs in the succeeding spring. Many species, such as the
 vapourer moths (_Orgyia_), lay eggs in the autumn, which remain
-unhatched through the winter. The eggs of the well-known magpie moths
+unhatched through the winter. The eggs of the well-known [[Magpie|magpie]] moths
 (_Abraxas_) hatch in autumn and the caterpillar hibernates while still
 quite small, awaiting for its growth the abundant food-supply to be
 afforded by the next year's foliage. The codlin moths (_Carpocapsa_)
@@ -419,7 +419,7 @@ burrow into woody shoots in autumn. All who have tried to rear
 caterpillars know that, while those of some species will feed only on
 one particular species of plant, others will eat several species of the
 same genus or family, while others again are still less particular, some
-being able to feed on almost any green herb. It is curious to note how
+being able to feed on almost any green [[Herb|herb]]. It is curious to note how
 certain species change their food in different localities, a caterpillar
 confined to one plant in some localities being less particular
 elsewhere. Individual aberrations in food are of special interest in
@@ -430,7 +430,7 @@ vegetable diet is remarkable. The vast majority of caterpillars eat
 leaves, usually devouring them openly, and, if of large size, quickly
 reducing the amount of foliage on the plant. But many small caterpillars
 keep, apparently for the sake of concealment, to the under surface of
-the leaf, while others burrow into the green tissue, forming a
+the [[Leaf|leaf]], while others burrow into the green tissue, forming a
 characteristic sinuous "mine" between the two leaf-skins. In several
 families we find the habit of burrowing in woody stems,--the "goat"
 (_Cossus_, fig. 8) and the clearwings (Sesiidae), for example, while
@@ -440,7 +440,7 @@ usually shown by the quicker growth of the numerous caterpillars that
 feed on it, as compared with the slower development of the wood and
 root-feeding species. Aquatic larvae are very rare among the
 Lepidoptera. The caterpillars of the pyralid "china-mark" moths
-(_Hydrocampa_, fig. 13), however, live under water, feeding on duckweed
+(_Hydrocampa_, fig. 13), however, live under water, feeding on [[Duckweed|duckweed]]
 (_Lemna_) and breathing atmospheric air, a film of which is enclosed in
 a spun-up shelter beneath the leaves, while the larvae of _Paraponyx_,
 which feed on _Stratiotes_, have closed spiracles and breathe dissolved
@@ -458,7 +458,7 @@ caterpillars of some pyralid moths (_Ephestia_), while others (_Asopia_,
 _Aglossa_) feed upon kitchen refuse. Two species of crambid moths
 (_Aphomia sociella_ and _Galleria melonella_) find a home in bee-hives,
 where their caterpillars feed upon the wax, while the waxy secretion
-from the body of the great American lantern-fly (_Fulgora candelaria_)
+from the body of the great American [[Lantern-Fly|lantern-fly]] (_Fulgora candelaria_)
 serves both as shelter and food for the caterpillar of the moth
 _Epipyrops anomala_. Very few caterpillars have developed a thoroughly
 carnivorous habit. That of _Cosmia trapezina_ feeds on oak and other
@@ -472,7 +472,7 @@ live together in peace while their food is moist, but devour each other
 when it dries up; this is true cannibalism--a term which should not be
 applied to the habit of preying on another species. A few carnivorous
 caterpillars do not attack other caterpillars, but prey upon insects of
-another order; among these _Fenescia tarquinius_, which eats aphides,
+another order; among these _Fenescia tarquinius_, which eats [[Aphides|aphides]],
 and _Erastria scitula_, which feeds upon scale insects, must be reckoned
 as benefactors to mankind. The life-history of the latter moth has been
 worked out by H. Rouzaud. It inhabits the shores of the Mediterranean,
@@ -509,7 +509,7 @@ the case of the small ermine moths (_Hyponomeuta_) the caterpillars
 remain associated throughout their lives and pupate in cocoons on the
 mass of web produced by their common labour. But the larger, spiny
 caterpillars of the vanessid butterflies usually scatter away from the
-nest of their infancy when they have attained a certain size.
+nest of their [[Infancy|infancy]] when they have attained a certain size.
 
 [Illustration: FIG. 15.--Larva of _Orgyia gonostigma_. Europe.]
 
@@ -555,7 +555,7 @@ wood, as with the timber-burrowing larva of the "goat" (_Cossus_). In
 many families of Lepidoptera we can trace a degeneration of the cocoon.
 Thus, the pupae of most owl moths (Noctuidae) and hawk moths
 (Sphingidae) lie buried in an earthen cell. Among the butterflies we
-find that the cocoon is reduced to a pad of silk which gives attachment
+find that the cocoon is reduced to a pad of silk which gives [[Attachment|attachment]]
 to the cremaster; in the Pieridae there is in addition a girdle of silk
 around the waist-region of the pupa, but the pupae of the Nymphalidae
 (figs. 11, 65) simply hang from the supporting pad by the tail-end.
@@ -612,7 +612,7 @@ forewings (fig. 34, f) often have the latter dull and mottled, while the
 former are sometimes highly coloured. Butterflies whose normal resting
 attitude is with the wings closed vertically over the back (fig. 63) so
 that the under surface is exposed to view, often have this under surface
-mottled and inconspicuous although the upper surface may be bright with
+mottled and inconspicuous although the upper surface may be [[Bright|bright]] with
 flashing colours. Various degrees of such "protective resemblance" can
 be traced, culminating in the wonderful "imitation" of its surroundings
 shown by the tropical "leaf-butterflies" (_Kallima_), the under surfaces
@@ -628,7 +628,7 @@ the first to observe it, in his work _The Malay Archipelago_:--
   slightly curved or shrivelled. The tail of the hindwings forms a
   perfect stalk and touches the stick, while the insect is supported by
   the middle pair of legs, which are not noticed among the twigs and
-  fibres that surround it. The head and antennae are drawn back between
+  [[Fibres|fibres]] that surround it. The head and antennae are drawn back between
   the wings so as to be quite concealed, and there is a little notch
   hollowed out at the very base of the wings, which allows the head to
   be retracted sufficiently."
@@ -640,7 +640,7 @@ up and down. Some genera and families of Lepidoptera, believed to
 secrete noxious juices that render them distasteful, are adorned with
 the staring contrasts of colour usually regarded as "warning," while
 other genera, belonging to harmless families sought for as food by birds
-and lizards, are believed to obtain complete or partial immunity by
+and [[Lizard|lizards]], are believed to obtain complete or partial immunity by
 their likeness to the conspicuous noxious groups. (See MIMICRY.)
 
 [Illustration: FIG. 17.--Vapourer Moth (_Ocneria detrita_). S. Europe.
@@ -650,7 +650,7 @@ Sexual dimorphism is frequent among the Lepidoptera. In many families
 this takes the form of more elaborate feelers in the male than in the
 female moth. Such complex feelers (fig. 2) bear numerous sensory
 (olfactory) nerve-endings and give to the males that possess them a
-wonderful power of discovering their mates. A single captive female of
+wonderful power of discovering their [[Mat|mates]]. A single [[Captive|captive]] female of
 the Endromidae or Lasiocampidae often causes hundreds of males of her
 species to "assemble" around her prison, and this character is made use
 of by collectors who want to secure specimens. In many
@@ -664,7 +664,7 @@ female, but she appears to exercise no choice in pairing. In some cases
 the female is attracted by the male, and here a modified form of sexual
 selection appears to be operative. The ghost swift moth (_Hepialus
 humuli_) affords a curious and interesting example of this condition, the
-female showing the usual brown and buff coloration of her genus, while
+female showing the usual brown and [[Buff|buff]] coloration of her genus, while
 the wings of the male are pure white, rendering him conspicuous in the
 dusky evening when pairing takes place. But in the northernmost haunts
 of the species, where there is no midsummer night, the male closely
@@ -679,14 +679,14 @@ caterpillars are often active and travel far.
 
 _Distribution and Migration._--The range of the Lepidoptera is
 practically world-wide; they are absent from the most remote and
-inhospitable of the arctic and antarctic lands, but even Kerguelen
+inhospitable of the [[Arctic|arctic]] and antarctic lands, but even Kerguelen
 possesses a few small indigenous moths. Many of the large and dominant
 families have a range wide as that of the order, and certain species
 that have attached themselves to man--like the meal moths and the
-clothes moths--have become almost cosmopolitan. Interesting and
+clothes moths--have become almost [[Cosmopolitan|cosmopolitan]]. Interesting and
 suggestive restrictions of range can, however, be often traced. Although
-butterflies have been found in 82° N. latitude in Greenland, they are
-unknown in Iceland, and only a few species of the group reach New
+butterflies have been found in 82° N. [[Latitude|latitude]] in Greenland, they are
+unknown in [[Iceland]], and only a few species of the group reach New
 Zealand. Three large sections--the Ithomiinae, Heliconiinae and
 Brassolinae--of the great butterfly family Nymphalidae are peculiar to
 the Neotropical region, while the Morphinae, a characteristically South
@@ -705,12 +705,12 @@ plants on which their larvae feed.
 Nevertheless certain species of powerful flight, and some that might be
 thought feeble on the wing, often cross sea-channels and establish or
 reinforce distant colonies. Caterpillars of the great death's head moth
-(_Acherontia atropos_) are found every summer feeding in British and
-Irish potato fields, but it is doubtful if any of the pupae resulting
+(_Acherontia [[Atropos|atropos]]_) are found every summer feeding in British and
+Irish potato [[Fields|fields]], but it is doubtful if any of the pupae resulting
 from them survive the winter in our climate. It is believed by Tutt that
 the species is only maintained by a fresh immigration of moths from the
 South each summer. Hosts of white butterflies (_Pieris_) have been
-frequently observed crossing the English Channel from France to Kent.
+frequently observed crossing the [[English Channel]] from France to Kent.
 Migrating swarms of Lepidoptera have often been met by sailors in
 mid-ocean; thus, Tutt records the presence around a sailing ship in the
 Atlantic of such a swarm of the rather feeble moth _Deiopeia pulchella_,
@@ -719,21 +719,21 @@ is connected with the gregarious habits of many Lepidoptera. For
 example, H. W. Bates states that at one place in South America he
 noticed eighty different species flying about in enormous numbers in the
 sunshine, and these, with few exceptions, were males, the females
-remaining within the forest shades. Darwin describes a "butterfly
+remaining within the forest shades. [[Darwin]] describes a "butterfly
 shower," which he observed 10 m. off the South American coast, extending
 as far as the eye could reach; "even by the aid of the telescope," he
 adds, "it was not possible to see a space free from butterflies." Sir J.
-Emerson Tennent, witnessed in Ceylon a mighty host of butterflies of
-white or pale yellow hue, "apparently miles in breadth and of such
+[[Emerson]] Tennent, witnessed in Ceylon a mighty host of butterflies of
+white or pale yellow [[Hue|hue]], "apparently miles in breadth and of such
 prodigious extension as to occupy hours and even days uninterruptedly in
 their passage." Observations at Heligoland by H. Gätke have shown that
 migrating moths "travel under the same conditions as migrating birds,
 and for the most part in their company, in an east to west direction;
-they fly in swarms, the numbers of which defy all attempts at
+they [[Fly|fly]] in swarms, the numbers of which defy all attempts at
 computation and can only be expressed by millions." The painted lady
 butterfly (_Pyrameis cardui_) comes in repeated swarms from the
 Mediterranean region into northern and western Europe, while in North
-America companies of the monarch (_Anosia archippus_) invade Canada
+America companies of the monarch (_Anosia [[Archippus|archippus]]_) invade Canada
 every summer from the United States, and are believed to return
 southwards in autumn. This latter species has, during the last
 half-century, extended its range south-westwards across the Pacific and
@@ -827,7 +827,7 @@ to the preparatory stages if a truly natural system is to be reached.
   provided with conspicuous palps, have no laciniae and form a proboscis
   as in Lepidoptera generally. The abdomen of the female carries a
   serrate piercing process, and the eggs are laid in the leaves of
-  deciduous trees, the white larvae, with aborted legs, mining in the
+  [[Deciduous|deciduous]] trees, the white larvae, with aborted legs, mining in the
   leaf tissue. The fully-fed larva winters in an underground cocoon and
   then changes into the most remarkable of all known lepidopterous
   pupae, with relatively enormous toothed mandibles which bite a way out
@@ -842,7 +842,7 @@ to the preparatory stages if a truly natural system is to be reached.
   with the maxillae in a vestigial condition, no food being taken after
   the attainment of the perfect state. The larvae (fig. 12) feed either
   on roots or in the wood of trees and shrubs, not attaining their
-  growth in less than a year and some large exotic species living for
+  growth in less than a year and some large [[Exotic|exotic]] species living for
   two or three. The family is world-wide in range, and Australia
   possesses some almost gigantic and strangely coloured genera.
 
@@ -883,7 +883,7 @@ to the preparatory stages if a truly natural system is to be reached.
   strengthened by chips of wood, or in a subterranean cocoon. The family
   is fairly well represented in the tropics; the British fauna possesses
   only three species, of which the "goat" (_Cossus cossus_) and the
-  "leopard" (_Zeuzera pyrina_) are well known, the caterpillars of both
+  "[[Leopard|leopard]]" (_Zeuzera pyrina_) are well known, the caterpillars of both
   being often injurious to timber and fruit trees.
 
   The _Tortricidae_ are a large family of small moths (see fig. 1),
@@ -899,7 +899,7 @@ to the preparatory stages if a truly natural system is to be reached.
   viridana_) which often ravages the foliage of oak plantations. The
   larvae of the pine-shoot moths (_Retinia_) shelter in solidified
   resinous exudations from their coniferous food-plants, while the
-  codlin-moth caterpillar (_Carpocapsa pomonella_) feeds in apples and
+  codlin-moth caterpillar (_Carpocapsa pomonella_) feeds in [[Apple|apples]] and
   pears, growing with the growth of the fruit which affords them both
   provender and home. The antics of "jumping-beans" are due to the
   movements of tortricid caterpillars within the substance of the seed.
@@ -926,7 +926,7 @@ to the preparatory stages if a truly natural system is to be reached.
 
   [Illustration: FIG. 21.--_Neurosymploca concinna._ S. Africa.]
 
-  The _Zygaenidae_ (burnet moths) are a large family of day-flying moths
+  The _Zygaenidae_ ([[Burnet|burnet]] moths) are a large family of day-flying moths
   (fig. 21) adorned with brilliant metallic colours. The feelers are
   long, stout in the middle and tapering, bearing numerous long or short
   pectinations. The well-developed maxillae have vestigial palps. The
@@ -1033,7 +1033,7 @@ to the preparatory stages if a truly natural system is to be reached.
   This group includes a number of moths of delicate build with elongate
   legs, the maxillae and their palps being usually well developed. The
   forewings have two anal nervures, the hindwings three (fig. 30, h, i);
-  in the hindwing the sub-costal nervure bends towards and often
+  in the hindwing the sub-costal nervure [[Bend|bends]] towards and often
   connects with the radial, and the frenulum is usually present. The egg
   is flat. The larva has complete circles of hooklets on its five pairs
   of prolegs, and the pupa (usually completely obtect) does not move at
@@ -1049,17 +1049,17 @@ to the preparatory stages if a truly natural system is to be reached.
   segments. The _Orneodidae_ (multiplume moths) have all the wings
   six-cleft. Our British species, _Orneodes hexadactyla_ (fig. 29), is
   an exquisite little insect, whose larva feeds on the blossoms of
-  honeysuckle. The pupa is completely obtect, with only two free
+  [[Honeysuckle|honeysuckle]]. The pupa is completely obtect, with only two free
   abdominal segments. The _Pyralidae_ (figs. 13, 30), a large family
   with numerous divisions, have entire wings, and their pupae are
   obtect. The caterpillars feed in some kind of shelter, some spinning a
   loose case among the leaves of their food-plant, others burrowing into
-  dry vegetable substances or eating the waxen cells of bees. Several
+  dry vegetable substances or eating the waxen cells of [[Bee|bees]]. Several
   species of this group, such as the Mediterranean flour moth, _Ephestia
   kühniella_ (fig. 30), become serious pests in storehouses and
   granaries, their larvae devouring flour and similar food-stuffs.
 
-  [Illustration: After Riley and Howard, _Insect Life_, vol. 2 (U.S.
+  [Illustration: After Riley and [[Howard]], _Insect Life_, vol. 2 (U.S.
   Dept. Agr.).
 
   FIG. 30.--Flour Moth (_Ephestia kühniella_).
@@ -1121,11 +1121,11 @@ to the preparatory stages if a truly natural system is to be reached.
   "tussocks" by the slender upturned terminal segment of the labial
   palps and by the development of the maxillae.
 
-  [Illustration: FIG. 32.--_Ophideres imperator._ Madagascar.]
+  [Illustration: FIG. 32.--_Ophideres imperator._ [[Madagascar]].]
 
   [Illustration: FIG. 33.--_Cyligramma fluctuosa._ W. Africa.]
 
-  [Illustration: From Mally, _Bull._ 24, _Div. Ent. U.S. Dept. Agr._
+  [Illustration: From Mally, _[[Bull]]._ 24, _Div. Ent. U.S. Dept. Agr._
 
   FIG. 34.--e, f, _Heliothis armigera._ Europe, c, Larva; d, pupa in
   cell. Natural size. a, b, Egg, highly magnified.]
@@ -1240,7 +1240,7 @@ to the preparatory stages if a truly natural system is to be reached.
   and the maxillae very well developed. The hindwing carries a frenulum
   and has its sub-costal nervure connected with the radial by a short
   bar. The caterpillars have the full number of prolegs, and, in many
-  genera, carry a prominent dorsal horn on the eighth abdominal segment
+  genera, carry a prominent dorsal [[Horn|horn]] on the eighth abdominal segment
   (fig. 46b). The pupa lies in an earthen cell. On account of their
   powerful flight the moths of this family have a wide range; certain
   species--like _Acherontia atropos_ and _Protoparce
@@ -1389,7 +1389,7 @@ to the preparatory stages if a truly natural system is to be reached.
 
   [Illustration: FIG. 58.--_Papilio machaon_ (Swallow-tail.). Europe.]
 
-  [Illustration: FIG. 59.--_Parnassius apollo_ (Apollo). European Alps.]
+  [Illustration: FIG. 59.--_Parnassius [[Apollo|apollo]]_ (Apollo). European Alps.]
 
   The _Papilionidae_ are large butterflies with ample wings, and all six
   legs fully developed in both sexes. The forewing has five radial and
@@ -1449,7 +1449,7 @@ to the preparatory stages if a truly natural system is to be reached.
     5, Cubital.
     6, 7, 8, Anal nervures.]
 
-  [Illustration: FIG. 68.--_Nymphalis jason._ W. Africa. Upper and under
+  [Illustration: FIG. 68.--_Nymphalis [[Jason|jason]]._ W. Africa. Upper and under
   surface.]
 
   [Illustration: FIG. 69.--Larva and Pupa of _Apatura ilia_.]
@@ -1494,7 +1494,7 @@ to the preparatory stages if a truly natural system is to be reached.
   and a vast assemblage of exotic genera (figs. 68, 70), characterized
   by the "open" discoidal areolets (fig. 67) owing to the absence of the
   transverse "disco-cellular" nervules. In the _Morphinae_--including
-  some magnificent South American insects with deep or azure blue wings,
+  some magnificent South American insects with deep or [[Azure|azure]] blue wings,
   and a few rather dull-coloured Oriental genera--the areolets are
   closed in the forewings and often in the hindwings. The larvae of the
   Morphinae (fig. 71) are smooth or hairy with a curiously forked
@@ -1544,17 +1544,17 @@ to the preparatory stages if a truly natural system is to be reached.
   earliest and most famous of entomological writings. W. F. Kirby's
   _Handbook to the Order Lepidoptera_ (5 vols., London, 1894-1897)
   should be consulted for references to the older systematic writers
-  such as Linnaeus, J. C. Fabricius, J. Hübner, P. Cramer, E. Doubleday
-  and W. C. Hewitson. Kirby's _Catalogues_ are also invaluable for the
+  such as Linnaeus, J. C. [[Fabricius]], J. Hübner, P. Cramer, E. [[Doubleday]]
+  and W. C. Hewitson. Kirby's _[[Catalogue|Catalogues]]_ are also invaluable for the
   systematist. For the jaws of the Lepidoptera see F. Darwin, _Quart.
   Journ. Mic. Sci._ xv. (1875); E. Burgess, _Amer. Nat._ xiv. (1880); A.
   Walter, _Jen. Zeits. f. Naturw._ xviii. (1885); W. Breitenbach, Ib.
   xv. (1882); V. L. Kellogg, _Amer. Nat._ xxix. (1895). The last-named
   deals also with wing structure, which is further described by A.
   Spuler, _Zeits. wiss. Zool._ liii. (1892) and _Zool. Jahrb. Anat._
-  viii. (1895); A. R. Grote, _Mitt. aus dem Roemer-Museum_ (Hildesheim,
+  viii. (1895); A. R. Grote, _Mitt. aus dem Roemer-Museum_ ([[Hildesheim]],
   1896-1897); G. Enderlein, _Zool. Jahrb. Anat._ xvi. (1903), and many
-  others. For scales see A. G. Mayer, _Bull. Mus. Comp. Zool. Harvard_,
+  others. For scales see A. G. [[Mayer]], _Bull. Mus. Comp. Zool. Harvard_,
   xxix. (1896). For internal anatomy W. H. Jackson, _Trans. Linn. Soc.
   Zool._ (2) v. (1891), and W. Petersen, _Mem. Acad. Imp. Sci. St
   Petersburg_ (8) ix. (1900). The early stages and transformations of
@@ -1566,7 +1566,7 @@ to the preparatory stages if a truly natural system is to be reached.
   _Studies in the Theory of Descent_ (London, 1882) and _Entomologist_,
   xxix. (1896); F. Merrifield, _Trans. Entom. Soc. Lond._ (1890, 1893,
   1905); M. Standfuss, _Handbuch der paläarktischen
-  Gross-schmetterlinge_ (Jena, 1896); R. Trimen, _Proc. Ent. Soc. Lond._
+  Gross-schmetterlinge_ ([[Jena]], 1896); R. Trimen, _Proc. Ent. Soc. Lond._
   (1898); E. B. Poulton, _Colours of Animals_ (London, 1890); _Trans.
   Entom. Soc._ (1892 and 1903), and _Journ. Linn. Soc. Zool._ xxvi.
   (1898); F. E. Beddard, _Animal Coloration_ (London, 1892). For

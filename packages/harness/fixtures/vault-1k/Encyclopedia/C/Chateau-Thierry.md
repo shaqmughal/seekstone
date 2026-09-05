@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chateau-Th
 CHATEAU-THIERRY, a town of northern France, capital of an arrondissement
 in the department of Aisne, 59 m. E.N.E. of Paris on the Eastern railway
 to Nancy. Pop. (1906) 6872. Chateau-Thierry is built on rising ground on
-the right bank of the Marne, over which a fine stone bridge leads to the
+the right bank of the [[Marne]], over which a fine stone bridge leads to the
 suburb of Marne. On the quay stands a marble statue erected to the
 memory of La Fontaine, who was born in the town in 1621; his house is
 still preserved in the street that bears his name. On the top of a hill

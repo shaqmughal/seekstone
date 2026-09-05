@@ -24,23 +24,23 @@ foster-parents is enough to account for much of the interest which has
 been so long felt in its history; but this habit is shared probably by
 many of its Old World relatives, as well as in the New World by birds
 which are not in any degree related to it. The cuckoo is a summer
-visitant to the whole of Europe, reaching even far within the Arctic
+visitant to the whole of Europe, reaching even far within the [[Arctic]]
 circle, and crossing the Mediterranean from its winter quarters in
 Africa at the end of March or beginning of April. Its arrival is at once
 proclaimed by the peculiar and in nearly all languages onomatopoeic cry
 of the cock--a true song in the technical sense of the word, since it is
 confined to the male sex and to the season of love. In a few days the
-cock is followed by the hen, and amorous contests between keen and
+[[Cock|cock]] is followed by the hen, and amorous contests between keen and
 loud-voiced suitors are to be commonly noticed, until the respective
 pretensions of the rivals are decided. Even by night they are not
 silent; but as the season advances the song is less frequently heard,
 and the cuckoo seems rather to avoid observation as much as possible,
 the more so since whenever it shows itself it is a signal for all the
 small birds of the neighbourhood to be up in its pursuit, just as though
-it were a hawk, to which indeed its mode of flight and general
+it were a [[Hawk|hawk]], to which indeed its mode of flight and general
 appearance give it an undoubted resemblance--a resemblance that misleads
 some into confounding it with the birds of prey, instead of recognizing
-it as a harmless if not a beneficial destroyer of hairy caterpillars.
+it as a harmless if not a beneficial destroyer of hairy [[Caterpillar|caterpillars]].
 Thus pass away some weeks. Towards the middle or end of June its
 "plain-song" cry alters; it becomes rather hoarser in tone, and its
 first syllable or note is doubled. Soon after it is no longer heard at
@@ -52,7 +52,7 @@ diligent search for and peering into the nests of several of the
 commonest little birds--more especially the pied wagtail (_Motacilla
 lugubris_), the titlark (_Anthus pratensis_), the reed-wren
 (_Acrocephalus streperus_), and the hedge-sparrow (_Accentor
-modularis_)--will be rewarded by the discovery of the egg of the
+modularis_)--will be rewarded by the discovery of the [[Egg|egg]] of the
 mysterious stranger which has been surreptitiously introduced, and those
 who wait till this egg is hatched may be witnesses (as was Edward Jenner
 in the 18th century) of the murderous eviction of the rightful tenants
@@ -65,7 +65,7 @@ actions of his foster-parents become, when he is full grown, almost
 ludicrous, for they often have to perch between his shoulders to place
 in his gaping mouth the delicate morsels he is too indolent or too
 stupid to take from their bills. Early in September he begins to shift
-for himself, and then follows the seniors of his kin to more southern
+for himself, and then follows the seniors of his [[Kin|kin]] to more southern
 climes.
 
 So much caution is used by the hen cuckoo in choosing a nest in which to
@@ -76,8 +76,8 @@ therein by sitting upon the fabric as birds commonly do; and there have
 been a few fortunate observers who have actually seen the deposition of
 the egg upon the ground by the cuckoo, who, then taking it in her bill,
 introduces it into the nest. Of these, the earliest in Great Britain
-seem to have been two Scottish lads, sons of Mr Tripeny, a farmer in
-Coxmuir, who, as recorded by Macgillivray (_Brit. Birds_, iii. 130, 131)
+seem to have been two Scottish lads, sons of Mr Tripeny, a [[Farmer|farmer]] in
+Coxmuir, who, as recorded by [[Macgillivray]] (_Brit. Birds_, iii. 130, 131)
 from information communicated to him by Mr Durham Weir, saw most part of
 the operation performed, June 24, 1838. But perhaps the most
 satisfactory evidence on the point is that of Adolf Muller, a forester
@@ -88,7 +88,7 @@ Cuckoos, too, have been not unfrequently shot as they were carrying a
 cuckoo's egg, presumably their own, in their bill, and this has probably
 given rise to the vulgar, but seemingly groundless, belief that they
 suck the eggs of other kinds of birds. More than this, Mr G. D. Rowley,
-who had much experience of cuckoos, declares (_Ibis_, 1865, p. 186) his
+who had much experience of cuckoos, declares (_[[Ibis]]_, 1865, p. 186) his
 opinion to be that traces of violence and of a scuffle between the
 intruder and the owners of the nest at the time of introducing the egg
 often appear, whence we are led to suppose that the cuckoo ordinarily,
@@ -114,7 +114,7 @@ whom were naturally sceptical as to its truth, since no likeness
 whatever is ordinarily apparent in the very familiar case of the
 blue-green egg of the hedge-sparrow and that of the cuckoo, which is so
 often found beside it.[1] Dr Baldamus based his notion on a series of
-eggs in his cabinet,[2] a selection from which he figured in
+eggs in his [[Cabinet|cabinet]],[2] a selection from which he figured in
 illustration of his paper, and, however the thing may be accounted for,
 it seems impossible to resist, save on one supposition, the force of the
 testimony these specimens afford. This one supposition is that the eggs
@@ -128,13 +128,13 @@ criteria to Dr Baldamus's series, most of the specimens stood the test
 very well.
 
 There are some other considerations to be urged. For instance, Herr
-Braune, a forester at Greiz in the principality of Reuss (_Naumannia,
+Braune, a forester at [[Greiz]] in the principality of Reuss (_Naumannia,
 tom. cit._ pp. 307, 313), shot a hen cuckoo as she was leaving the nest
 of an icterine warbler (_Hypolais icterina_). In the oviduct of this
 cuckoo he found an egg coloured very like that of the warbler, and on
 looking into the nest he found there an exactly similar egg, which there
 can be no reasonable doubt had just been laid by that very cuckoo.
-Moreover, Herr Grunack (_Journ. fur Orn._, 1873, p. 454) afterwards
+Moreover, Herr Grunack (_Journ. [[Fur|fur]] Orn._, 1873, p. 454) afterwards
 found one of the most abnormally coloured specimens, quite unlike the
 ordinary egg of the cuckoo, to contain an embryo so fully formed as to
 show the characteristic zygodactyl feet of the bird, thus proving
@@ -143,7 +143,7 @@ unquestionably its parentage.
 On the other hand, we must bear in mind the numerous instances in which
 not the least similarity can be traced--as in the not uncommon case of
 the hedge-sparrow already mentioned, and if we attempt any explanatory
-hypothesis it must be one that will fit all round. Such an explanation
+[[Hypothesis|hypothesis]] it must be one that will fit all round. Such an explanation
 seems to be this. We know that certain kinds of birds resent
 interference with their nests much less than others, and among them it
 may be asserted that the hedge-sparrow will patiently submit to various
@@ -151,7 +151,7 @@ experiments. She will brood with complacency the egg of a redbreast
 (_Erithacus rubecula_), so unlike her own, and for aught we know to the
 contrary may even be colour-blind. In the case of such a species there
 would be no need of anything further to ensure success--the terror of
-the nest-owner at seeing her home invaded by a hawk-like giant, and some
+the nest-owner at seeing her home invaded by a hawk-like [[Giant|giant]], and some
 of her treasures tossed out, would be enough to stir her motherly
 feelings so deeply that she would without misgiving, if not with joy
 that something had been spared to her, resume the duty of incubation so
@@ -171,7 +171,7 @@ egg-shell can be in some mysterious way affected by the action of
 external objects on the perceptive faculties of the mother is a notion
 too wild to be seriously entertained. Consequently, only one explanation
 of the facts can here be suggested. Every one who has sufficiently
-studied the habits of animals will admit the influence of heredity. That
+studied the habits of animals will admit the influence of [[Heredity|heredity]]. That
 there is a reasonable probability of each cuckoo most commonly putting
 her eggs in the nest of the same species of bird, and of this habit
 being transmitted to her posterity, does not seem to be a very violent
@@ -212,7 +212,7 @@ this kind of natural selection would be most needed in those cases where
 the species are not easily duped--that is, in those cases which occur
 the least frequently. Here it is we find it, for observation shows that
 eggs of the cuckoo deposited in nests of the red-backed shrike (_Lanius
-collurio_), of the bunting (_Emberiza miliaria_), and of the icterine
+collurio_), of the [[Bunting|bunting]] (_Emberiza miliaria_), and of the icterine
 warbler approximate in their colouring to eggs of those species--species
 in whose nests the cuckoo rarely (in comparison with others) deposits
 eggs. Of species which are more easily duped, such as the hedge-sparrow,
@@ -220,11 +220,11 @@ mention has already been made.
 
 More or less nearly allied to the British cuckoo are many other forms of
 the genus from various parts of Africa, Asia and their islands, while
-one even reaches Australia. In some cases the chief difference is said
+one even reaches [[Australia]]. In some cases the chief difference is said
 to lie in the diversity of voice--a character only to be appreciated by
 those acquainted with the living birds, and though of course some regard
 should be paid to this distinction, the possibility of birds using
-different "dialects" according to the locality they inhabit must make it
+different "[[Dialect|dialects]]" according to the locality they inhabit must make it
 a slender specific diagnostic. All these forms are believed to have
 essentially the same habits as the British cuckoo, and, as regards
 parasitism the same is to be said of the large cuckoo of southern Europe
@@ -235,7 +235,7 @@ cuckoo, having built a nest and hatched its young, is on record, but the
 later observations of others tend to cast doubt on the credibility of
 the ancient report. It is worthy of remark that the eggs of this bird so
 closely resemble those of one of the pies in whose nest they have been
-found, that even expert zoologists have been deceived by them, only to
+found, that even [[Expert|expert]] zoologists have been deceived by them, only to
 discover the truth when the cuckoo's embryo had been extracted from the
 supposed pie's egg. This species of cuckoo, easily distinguishable by
 its large size and long crest, has more than once made its appearance as
@@ -249,7 +249,7 @@ parental responsibilities. Among these especially are the birds placed
 in or allied to the genera _Centropus_ and _Coua_--the former having a
 wide distribution from Egypt to New South Wales, living much on the
 ground and commonly called lark-heeled cuckoos; the latter bearing no
-English name, and limited to the island of Madagascar. These build a
+English name, and limited to the island of [[Madagascar]]. These build a
 nest, not perhaps in a highly finished style of architecture, but one
 that serves its end.
 
@@ -269,13 +269,13 @@ chiefly dwells, and the second is said to be due to its pheasant-like
 (_faisan_ corrupted into _paisano_, properly a countryman) appearance as
 it runs on the ground. Indeed, one of the two species of the genus was
 formerly described as a _Phasianus_. They both have short wings, and
-seem never to fly, but run with great rapidity. Returning to arboreal
+seem never to [[Fly|fly]], but run with great rapidity. Returning to arboreal
 forms, the genera _Neomorphus_, _Diplopterus_, _Saurothera_ and _Piaya_
 (the last two commonly called rain-birds, from the belief that their cry
 portends rain) may be noticed--all of them belonging to the Neotropical
-region; but perhaps the most curious form of American cuckoos is the ani
+region; but perhaps the most curious form of American cuckoos is the [[Ani|ani]]
 (_Crotophaga_), of which three species inhabit the same region. The
-best-known species (_C. ani_) is found throughout the Antilles and on
+best-known species (_C. ani_) is found throughout the [[Antilles]] and on
 the opposite continent. In most of the British colonies it is known as
 the black witch, and is accused of various malpractices--it being, in
 truth, a perfectly harmless if not a beneficial bird. As regards its

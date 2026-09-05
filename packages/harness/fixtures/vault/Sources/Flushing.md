@@ -11,22 +11,22 @@ care of the Dutch government, to become a great commercial port. In 1872
 the railway was opened which, in conjunction with the regular day and
 night service of steamers to Queenborough in the county of Kent, forms
 one of the main routes between England and the east of Europe. In 1873
-the great harbour, docks and canal works were completed. Yet the
-navigation of the port remains far behind that of Rotterdam or Antwerp,
+the great harbour, [[Dock|docks]] and canal works were completed. Yet the
+navigation of the port remains far behind that of Rotterdam or [[Antwerp]],
 the tonnage being in 1899 about 7.9% of that of the kingdom. As a summer
 resort, however, Flushing has acquired considerable popularity,
-sea-baths and a large modern hotel being situated on the fine beach
+sea-baths and a large modern hotel being situated on the fine [[Beach|beach]]
 about three-quarters of a mile north-west of the town. It possesses a
 town hall, containing a collection of local antiquities, a theatre, an
-exchange, an academy of sciences and a school of navigation. The
+[[Exchange|exchange]], an academy of sciences and a school of navigation. The
 Jakobskerk, or Jacob's church, founded in 1328, contains monuments to
-Admiral de Ruyter (1607-1676) and the poet Jacob Bellamy (1757-1786),
+Admiral de Ruyter (1607-1676) and the poet [[Jacob]] Bellamy (1757-1786),
 who were natives of Flushing. The chief industries of the town are
 connected with the considerable manufacture of machinery, the state
-railway-workshops, shipbuilding yards, Krupp iron and steel works'
+railway-workshops, shipbuilding yards, [[Krupp]] iron and steel works'
 depot, brewing, and oil and soap manufacture. The chief imports are
 colonial produce and wine, wood and coal. The exports include
-agricultural produce (wheat and beans), shrimps and meat.
+agricultural produce (wheat and [[Bean|beans]]), shrimps and [[Meat|meat]].
 
 ## See also
 

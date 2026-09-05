@@ -3,9 +3,9 @@
 ELSFLETH, a maritime town of Germany, in the grand-duchy of Oldenburg,
 in a fertile district at the confluence of the Hunte with the Weser, on
 the railway Hude-Nordenham. Pop. 2000. It has an Evangelical church, a
-school of navigation, a harbour and docks. It has considerable trade in
-corn and timber and is one of the centres of the North Sea herring
-fishery.
+school of navigation, a harbour and [[Dock|docks]]. It has considerable trade in
+[[Corn|corn]] and timber and is one of the centres of the North Sea herring
+[[Fishery|fishery]].
 
 ## References
 

@@ -1,7 +1,7 @@
 # Caterpillar
 
-CATERPILLAR, the popular name of the larva of various insects,
-particularly of butterflies and moths (see LEPIDOPTERA, HEXAPODA,
+CATERPILLAR, the popular name of the larva of various [[Insect|insects]],
+particularly of butterflies and moths (see LEPIDOPTERA, [[Hexapoda|HEXAPODA]],
 METAMORPHOSIS). The word appears first in the form _caterpyl_
 (_Promptorium Parvulorum_, about the middle of the 15th century). This
 may be the original form, with the addition of -ar or -er; if so, it

@@ -9,14 +9,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Brindisi"
 # Brindisi
 
 BRINDISI (anc. _Brundisium_, _q.v._), a seaport town and archiepiscopal see
-of Apulia, Italy, in the province of Lecce, 24 m. N.W. by rail from the
+of Apulia, Italy, in the province of [[Lecce]], 24 m. N.W. by rail from the
 town of Lecce, and 346 m. from Ancona. Pop.(1861) 8000; (1871) 13,755;
 (1901) 25,317. The chief importance of Brindisi is due to its position as a
 starting-point for the East. The inner harbour, admirably sheltered and 27
 to 30 ft. in depth, allows ocean steamers to lie at the quays. Brindisi
 has, however, been abandoned by the large steamers of the Peninsular &
 Oriental Steam Navigation Company, which had called there since 1870, but
-since 1898 call at Marseilles instead; small express boats, carrying the
+since 1898 call at [[Marseilles]] instead; small express boats, carrying the
 mails, still leave every week, connecting with the larger steamers at Port
 Said; but the number of passengers leaving the port, which for the years
 1893-1897 averaged 14,728, was only 7608 in 1905, and only 943 of these
@@ -34,9 +34,9 @@ harbour; it is now a convict prison. The cathedral, ruined by earthquakes,
 was restored in 1743-1749, but has some remains of its mosaic pavement
 (1178). The baptismal church of S. Giovanni al Sepolcro (11th century) is
 now a museum. The town was captured in 836 by the Saracens, and destroyed
-by them; but was rebuilt in the 11th century by Lupus the protospatharius,
+by them; but was rebuilt in the 11th century by [[Lupus]] the protospatharius,
 Byzantine governor. In 1071 it fell into the hands of the Normans, and
-frequently appears in the history of the Crusades. Early in the 14th
+frequently appears in the history of the [[Crusades]]. Early in the 14th
 century the inner port was blocked by Giovanni Orsini, prince of Taranto;
 the town was devastated by pestilence in 1348, and was plundered in 1352
 and 1383; but even greater damage was done by the earthquake of 1456.

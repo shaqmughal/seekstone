@@ -1,7 +1,7 @@
 # Keyboard
 
-KEYBOARD, or MANUAL (Fr. _clavier_; Ger. _Klaviatur_; Ital.
-_tastatura_), a succession of keys for unlocking sound in stringed, wind
+KEYBOARD, or [[Manual|MANUAL]] (Fr. _clavier_; Ger. _Klaviatur_; Ital.
+_tastatura_), a succession of [[Key|keys]] for unlocking sound in stringed, wind
 or percussion musical instruments, together with the case or board on
 which they are arranged. The two principal types of keyboard instruments
 are the organ and the piano; their keyboards, although similarly
@@ -14,7 +14,7 @@ influence on the quality and intensity of the sound. The keyboard of the
 piano, on the contrary, besides its purely mechanical function, also
 forms a sympathetic vehicle of transmission for the performer's
 rhythmical and emotional feeling, in consequence of the faithfulness
-with which it passes on the impulses communicated by the fingers. The
+with which it passes on the impulses communicated by the [[Finger|fingers]]. The
 keyboard proper does not, in instruments of the organ and piano types,
 contain the complete mechanical apparatus for directly unlocking the
 sound, but only that external part of it which is accessible to the
@@ -23,17 +23,17 @@ performer.
   The first instrument provided with a keyboard was the organ; we must
   therefore seek for the prototype of the modern keyboard in connexion
   with the primitive instrument which marks the transition between the
-  mere syrinx provided with bellows, in which all the pipes sounded at
+  mere syrinx provided with [[Bellows|bellows]], in which all the pipes sounded at
   once unless stopped by the fingers, and the first organ in which sound
   was elicited from a pipe only when unlocked by means of some
   mechanical contrivance. The earliest contrivance was the simple
   slider, unprovided with a key or touch-piece and working in a groove
-  like the lid of a box, which was merely pushed in or drawn out to open
+  like the lid of a [[Box|box]], which was merely pushed in or drawn out to open
   or close the hole that formed the communication between the wind chest
   and the hole in the foot of the pipe. These sliders fulfilled in a
   simple manner the function of the modern keys, and preceded the groove
   and pallet system of the modern organ. We have no clear or trustworthy
-  information concerning the primitive organ with sliders. Athanasius
+  information concerning the primitive organ with sliders. [[Athanasius]]
   Kircher[1] gives a drawing of a small mouth-blown instrument under the
   name of _Magraketha_ (_Mashroqitha'_, Dan. iii. 5), and Ugolini[2]
   describes a similar one, but with a pair of bellows, as the magrephah
@@ -41,14 +41,14 @@ performer.
   organ in central and western Europe from the 8th to the 15th century,
   of which we are able to study the various stages, we may conclude that
   in principle both drawings were probably fairly representative, even
-  if nothing better than efforts of the imagination to illustrate a
+  if nothing better than efforts of the [[Imagination|imagination]] to illustrate a
   text.
 
   The invention of the keyboard with balanced keys has been placed by
   some writers as late as the 13th or 14th century, in spite of its
-  having been described by both Hero of Alexandria and Vitruvius and
+  having been described by both [[Hero Of Alexandria|Hero of Alexandria]] and Vitruvius and
   mentioned by poets and writers. The misconception probably arose from
-  the easy assumption that the organ was the product of Western skill
+  the easy [[Assumption|assumption]] that the organ was the product of Western skill
   and that the primitive instruments with sliders found in 11th century
   documents[4] represent the sum of the progress made in the evolution;
   in reality they were the result of a laborious effort to reconquer a
@@ -61,7 +61,7 @@ performer.
   describes the following contrivances: attached to the slider is a
   three-limbed, pivoted elbow-key, which, when depressed, pushes the
   slider inwards; in order to provide for its automatic return when the
-  finger is lifted from the key, a slip of horn is attached by a gut
+  finger is lifted from the key, a slip of [[Horn|horn]] is attached by a gut
   string to each elbow-key. When the key is depressed and the slider
   pushed home, the gut string pulls the slip of horn and straightens it.
   As soon as the key is released, the piece of horn, regaining its
@@ -90,12 +90,12 @@ performer.
   keys made their appearance, one or two to the octave, inserted between
   the others in the position of our black keys but not raised. An
   example of this keyboard is reproduced by J. F. Riaño[7] from a fresco
-  in the Cistercian monastery of Nuestra Señora de Piedra in Aragon,
+  in the Cistercian monastery of Nuestra Señora de Piedra in [[Aragon]],
   dated 1390.
 
   So far the history of the keyboard is that of the organ. The only
   stringed instruments with keys before this date were the _organistrum_
-  and the _hurdy-gurdy_, in which little tongues of wood manipulated by
+  and the _[[Hurdy-Gurdy|hurdy-gurdy]]_, in which little tongues of wood manipulated by
   handles or keys performed the function of the fingers in stopping the
   strings on the neck of the instruments, but they did not influence the
   development of the keyboard. The advent of the immediate precursors of
@@ -105,15 +105,15 @@ performer.
   _clavicymbalum_ with narrow additional keys let in between the wider
   ones, one to every group of two large keys. The same arrangement
   prevailed in a _clavicymbalum_ figured in an anonymous MS. attributed
-  to the 14th century, preserved in the public library at Ghent[9]; from
-  the lettering over the jacks and strings, of which there are but
+  to the 14th century, preserved in the public library at [[Ghent]][9]; from
+  the lettering over the [[Jack|jacks]] and strings, of which there are but
   eight, it would seem as though the draughtsman had left the
   accidentals out of the scheme of notation. These are the earliest
   known representations of instruments with keyboards. The exact date at
   which our chromatic keyboard came into use has not been discovered,
   but it existed in the 15th century and may be studied in the picture
-  of St Cecilia playing the organ on the Ghent altarpiece painted by the
-  brothers Hubert and Jan van Eyck. Praetorius distinctly states that
+  of St [[Cecilia]] playing the organ on the Ghent altarpiece painted by the
+  brothers [[Hubert]] and Jan van [[Eyck]]. Praetorius distinctly states that
   the large Halberstadt organ had the keyboard which he figures (plates
   xxiv. and xxv.) from the outset, and reproduces the inscription
   asserting that the organ was built in 1361 by the priest Nicolas Fabri
@@ -124,7 +124,7 @@ performer.
   middle ages.
 
   At the beginning of the 16th century, to facilitate the playing of
-  contrapuntal music having a drone bass or _point d'orgue_, the
+  contrapuntal music having a [[Drone|drone]] bass or _point d'orgue_, the
   arrangement of the pipes of organs and of the strings of spinets and
   harpsichords was altered, with the result that the lowest octave of
   the keyboard was made in what is known as short measure, or mi, ré,
@@ -156,7 +156,7 @@ performer.
 
   This arrangement, which accomplishes its object without sacrifice, was
   to be found early in the 17th century in the organs of the monasteries
-  of Riddageshausen and of Bayreuth in Vogtland.
+  of Riddageshausen and of [[Bayreuth]] in Vogtland.
 
   See A. J. Hipkins, _History of the Pianoforte_ (London, 1896), and the
   older works of Girolamo Diruta (1597), Praetorius (1618), and Mersenne
@@ -175,13 +175,13 @@ FOOTNOTES:
 
   [4] See the Cividale Prayer Book of St Elizabeth in Arthur Haseloff's
     _Eine Sächs.-thüring. Malerschule_, pl. 26, No. 57, also Bible of St
-    Etienne Harding at Dijon (see ORGAN: _History_).
+    Etienne [[Harding]] at Dijon (see ORGAN: _History_).
 
   [5] See the original Greek with translation by Charles Maclean in
     "The Principle of the Hydraulic Organ," _Intern. Musikges._ vi. 2,
     219-220 (Leipzig 1905).
 
-  [6] See Clément Loret's account in _Revue archéologique_, pp. 76-102
+  [6] See Clément Loret's account in _Revue [[Arch|arch]]éologique_, pp. 76-102
     (Paris, 1890).
 
   [7] _Early Hist. of Spanish Music_ (London, 1807).

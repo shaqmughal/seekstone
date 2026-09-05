@@ -17,12 +17,12 @@ edition of the New Testament published by Erasmus in 1516.
 "Immediately," he records, "I felt a marvellous comfort and quietness."
 The Scriptures now became his chief study, and his influence led other
 young Cambridge men to think along the same lines. Among his friends
-were Matthew Parker, the future archbishop of Canterbury, and Hugh
+were [[Matthew]] Parker, the future archbishop of Canterbury, and Hugh
 Latimer. Latimer, previously a strenuous conservative, was completely
 won over, and a warm friendship sprang up between him and Bilney. "By
 his confession," said Latimer, "I learned more than in twenty years
 before." In 1525 Bilney obtained a licence to preach throughout the
-diocese of Ely. He denounced saint and relic worship, together with
+diocese of [[Ely]]. He denounced saint and relic worship, together with
 pilgrimages to Walsingham and Canterbury, and refused to accept the
 mediation of the saints. The diocesan authorities raised no objection,
 for, despite his reforming views in these directions, he was to the last
@@ -41,9 +41,9 @@ than a year in the Tower, he was released in 1529, and went back to
 Cambridge. Here he was overcome with remorse for his apostasy, and after
 two years determined to preach again what he had held to be the truth.
 The churches being no longer open to him, he preached openly in the
-fields, finally arriving in Norwich, where the bishop, Richard Nix,
+[[Fields|fields]], finally arriving in Norwich, where the bishop, Richard Nix,
 caused him to be arrested. Articles were drawn up against him by
-Convocation, he was tried, degraded from his orders and handed over to
+[[Convocation]], he was tried, degraded from his orders and handed over to
 the civil authorities to be burned. The sentence was carried out in
 London on the 19th of August 1531. A parliamentary inquiry was
 threatened into this case, not because parliament approved of Bilney's

@@ -4,9 +4,9 @@ ECHIUROIDEA (Gr. [Greek: echis], adder, and [Greek: oura], tail), the
 zoological name for a small group of marine animals which show in their
 larval life-history a certain degree of segmentation, and are therefore
 grouped by some authorities as Annelids. Formerly, together with the
-Sipunculoidea and Priapuloidea, they made up the class Gephyrea, but on
-the ground that they retain in the adult a large preoral lobe (the
-proboscis), that they have anal vesicles, that their anus is terminal,
+Sipunculoidea and Priapuloidea, they made up the class [[Gephyrea]], but on
+the ground that they retain in the adult a large preoral [[Lobe|lobe]] (the
+proboscis), that they have anal vesicles, that their [[Anu|anus]] is terminal,
 that setae are found, and finally that they are segmented in the larval
 stage, they have been removed from the class, which by the proposed
 further separation of the Priapuloidea on account of their unique renal
@@ -20,7 +20,7 @@ Echiuroids are animals of moderate size, varying roughly from one to six
 or seven centimetres in length, exclusive of the proboscis. This organ
 is capable of very considerable extension, and may attain a length in
 _Bonellia viridis_ of about a metre and a half (fig. 1). It is grooved
-ventrally and ciliated. At its attachment to the body the groove sinks
+ventrally and ciliated. At its [[Attachment|attachment]] to the body the groove sinks
 into the mouth. In _Bonellia_ the proboscis is forked at its free end,
 but in the other genera it is short and unforked. The body is somewhat
 sausage-shaped, with the anus at the posterior extremity, surrounded in
@@ -28,16 +28,16 @@ _Echiurus_ by a single or double ring of setae. The skin is usually
 wrinkled, and in _B. viridis_, _Thalassema lankesteri_, _Th. baronii_,
 _Hamingia arctica_, and in the larva of many species, is of a lively
 green colour. A pair of curved bristles, formed in true setal sacs as in
-Chaetopoda, project from the body a short distance behind the mouth, and
+[[Chaetopoda]], project from the body a short distance behind the mouth, and
 are moved by special muscles; they are of use in helping the animal to
 move slowly about, and they take a large share in the burrowing
-movements (C.B. Wilson, _Biol. Bull._, 1900), for some species tunnel in
+movements (C.B. Wilson, _Biol. [[Bull]]._, 1900), for some species tunnel in
 the mud and sand and form more or less permanent burrows, the walls of
 which are strengthened by mucus secreted from the skin. The openings of
-the burrows become silted up, leaving, however, a small aperture through
+the burrows become silted up, leaving, however, a small [[Aperture|aperture]] through
 which the proboscis is extruded. This organ carefully searches the
 neighbourhood for particles of food. When these are found the grooved
-proboscis folds its walls inwards, and the cilia pass the particles down
+proboscis [[Fold|folds]] its walls inwards, and the cilia pass the particles down
 the tube thus formed to the mouth. Echiuroids also move by extending the
 proboscis, which takes hold of some fixed object, and, then contracting,
 draws the body forwards. Recently it has been shown that _Echiurus_
@@ -69,7 +69,7 @@ left side.
   muscular skin is lined by a layer of epithelium. The coelomic
   body-cavity is spacious. It does not extend into the proboscis, which
   is a solid organ traversed by the nervous and vascular rings, but
-  otherwise largely built up of muscle fibres and connective tissue.
+  otherwise largely built up of muscle [[Fibres|fibres]] and connective tissue.
   Many sense-cells lie in the epidermis. The ciliated ventral groove of
   the proboscis leads at its base into the simple mouth, which gives
   access to the thin-walled alimentary canal. This is longer than the
@@ -77,17 +77,17 @@ left side.
   are supported by strands of connective tissue, which in some species
   are united so as to form a dorsal mesentery, whilst traces of a
   ventral mesentery are met with anteriorly and posteriorly (H.L.
-  Jameson, _Zool. Jahrb. Anat._, 1899). The alimentary canal is
+  [[Jameson]], _Zool. Jahrb. Anat._, 1899). The alimentary canal is
   divisible into fore-gut, mid-gut and hind-gut, and the first-named can
   be further divided into pharynx, oesophagus, gizzard and crop, mainly
   on histological grounds. The mid-gut is characterized by the presence
-  of a ciliated groove, from which arises the collateral intestine or
+  of a ciliated groove, from which arises the [[Collateral|collateral]] intestine or
   siphon, a second tube which rejoins the alimentary canal lower down.
   Similar collateral intestines are familiar in the Echinids and certain
   Polychaets (Capitellidae). The rectum receives the openings of a pair
   of very characteristic organs, the anal vesicles. Each consists of a
   branching tube, the tips of whose twigs terminate in minute ciliated
-  funnels. The anal vesicles are thought to be excretory; whether this
+  [[Funnel|funnels]]. The anal vesicles are thought to be excretory; whether this
   be so or not, they undoubtedly have some influence on the amount of
   fluid found in the coelom. The coelomic fluid contains as a rule both
   amoeboid and rounded corpuscles, and, when ripe, the products of the
@@ -107,7 +107,7 @@ left side.
   the dorsal vessel. In _Echiurus_ and _Thalassema_ the same vessel
   forms a ring round a stout muscle, which connects the bases of the two
   ventral setae before passing to surround the intestine. Amoeboid
-  corpuscles float in the fluid contents. The nephridia vary in number
+  corpuscles [[Float|float]] in the fluid contents. The nephridia vary in number
   from a single one in _Bonellia_ to three pairs in many species of
   _Thalassema_. Their external openings are ventral, and on the same
   level as the ciliated funnel-shaped nephrostomes. The posterior wall
@@ -116,7 +116,7 @@ left side.
   starts from a circumoesophageal ring. This ring is involved in the
   growth of the proboscis, and is drawn out with it. Thus there is a
   lateral nerve near each edge of the proboscis which unites with its
-  fellow dorsally above the oesophagus at the tip of the proboscis, and
+  [[Fellow|fellow]] dorsally above the oesophagus at the tip of the proboscis, and
   ventrally beneath the oesophagus, where they fuse to form the ventral
   nerve-cord. There are no specialized ganglia, but ganglion-cells are
   scattered uniformly along the nerve-cords. The ventral cord gives off
@@ -158,20 +158,20 @@ left side.
   parasite which is the fully-formed male. This now creeps along the
   body of the female and takes up its home in her nephridia.
 
-_Classification and Distribution._--The Echiuroidea consists of the
+_[[Classification]] and Distribution._--The Echiuroidea consists of the
 following genera:--(1) _Bonellia_ (Rol.), with four species, widely
 distributed, but inhabiting the temperate and warmer waters of each
 hemisphere. (2) _Echiurus_ (Guerin-Meneville), with four species. This
-genus reaches from the Arctic waters of both hemispheres into the cooler
+genus reaches from the [[Arctic]] waters of both hemispheres into the cooler
 temperate regions. (3) _Hamingia_ (Kor. and Dan.), with one species,
 which has been taken in the Arctic Sea and the Hardanger Fjord. (4)
 _Saccosoma_ (Kor. and Dan.) was described from a single specimen dredged
-about half-way between Iceland and Norway. (5) _Thalassema_ (Gaertner,
-Lamarck), with twenty-one species. This genus is in the main a denizen
+about half-way between [[Iceland]] and Norway. (5) _Thalassema_ (Gaertner,
+[[Lamarck]]), with twenty-one species. This genus is in the main a [[Denizen|denizen]]
 of the warmer waters of the globe. Sixteen species are found only in
 tropical or subtropical seas, three species are Mediterranean (_Mt.
 Stat. Neapel_, 1899), whilst three species are from the eastern
-Atlantic, where the temperature is modified by the Gulf Stream (Shipley;
+Atlantic, where the temperature is modified by the [[Gulf Stream]] (Shipley;
 see Willey's _Zoological Results_, part iii. 1899; _Proc. Zool. Soc.
 Lond._, 1898, 1899; and _Cambridge Natural History_, ii.). The following
 are found in the British area:--_E. pallasii_ (Guerin-Meneville), _Th.

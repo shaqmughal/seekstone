@@ -10,7 +10,7 @@ type: note
 MAMIANI DELLA ROVERE, TERENZIO, COUNT (1802-1885), Italian writer and
 statesman, was born at Pesaro in 1799. Taking part in the outbreaks at
 Bologna arising out of the accession of Pope Gregory XVI., he was
-elected deputy for Pesaro to the assembly, and subsequently appointed
+elected [[Deputy|deputy]] for Pesaro to the assembly, and subsequently appointed
 minister of the interior; but on the collapse of the revolutionary
 movement he was exiled. He returned to Italy after the amnesty of 1846,
 and in 1848 he was entrusted with the task of forming a ministry. He
@@ -24,7 +24,7 @@ had founded at Genoa in 1849 the Academy of Philosophy, and in 1855 had
 been appointed professor of the history of philosophy at Turin; and he
 published several volumes, not only on philosophical and social
 subjects, but of poetry, among them _Rinnovamente della filosofia antica
-italiana_ (1836), _Teoria della Religione e dello stato_ (1869), _Kant e
+italiana_ (1836), _Teoria della Religione e dello stato_ (1869), _[[Kant]] e
 l'ontologia_ (1879), _Religione dell' avenire_ (1880), _Di un nuovo
 diritto europeo_ (1843, 1857). He died at Rome on the 21st of May, 1885.
 

@@ -12,11 +12,11 @@ _gradus_, step), advancing or taking place by degrees or step by step;
 hence used of a slow progress or a gentle declivity or slope, opposed to
 steep or precipitous. As a substantive, "gradual" (Med. Lat. _graduale_
 or _gradale_) is used of a service book or antiphonal of the Roman
-Catholic Church containing certain antiphons, called "graduals," sung at
-the service of the Mass after the reading or singing of the Epistle.
+Catholic Church containing certain [[Antiphon|antiphons]], called "graduals," sung at
+the service of the Mass after the reading or singing of the [[Epistle]].
 This antiphon received the name either because it was sung on the steps
 of the altar or while the deacon was mounting the steps of the ambo for
-the reading or singing of the Gospel. For the so-called Gradual Psalms,
+the reading or singing of the [[Gospel]]. For the so-called Gradual Psalms,
 cxx.-cxxxiv., the "songs of degrees," LXX. [Greek: ode ana bathmon], see
 PSALMS, BOOK OF.
 

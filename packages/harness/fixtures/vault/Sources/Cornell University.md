@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Cornell_Un
 # Cornell University
 
 CORNELL UNIVERSITY, one of the largest of American institutions of
-higher education, situated at Ithaca, New York. Its campus is finely
+higher education, situated at [[Ithaca]], New York. Its campus is finely
 situated on a hill above the main part of the city; it lies between Fall
-Creek and Cascadilla Creek (each of which has cut a deep gorge), and
+[[Creek]] and Cascadilla Creek (each of which has cut a deep gorge), and
 commands a beautiful view of the valley and of Lake Cayuga. The
 university is co-educational (since 1872), and comprises the graduate
 school, with 306 students in 1909; the college of arts and sciences (902
@@ -25,8 +25,8 @@ state legislature in 1894; the New York state college of agriculture
 (413 students), established as such by the state legislature in
 1904,--the teaching of agriculture had from the beginning been an
 important part of the university's work,--with an agricultural
-experiment station, established in 1887 by the Federal government; the
-college of architecture (133 students); the college of civil engineering
+experiment station, established in 1887 by the [[Federal Government|Federal government]]; the
+college of architecture (133 students); the college of civil [[Engineering|engineering]]
 (569 students); and the Sibley College of mechanical engineering and
 mechanic arts (1163 students), named in honour of Hiram Sibley
 (1807-1888), a banker of Rochester, N.Y., who gave $180,000 for its
@@ -39,36 +39,36 @@ especially for teachers) and 364 in the "short winter course in
 agriculture" in 1909. Nearly all the states and territories of the
 United States and thirty-two foreign countries were represented--e.g.
 there were 33 students from China, 12 from the Argentine Republic, 6
-from India, 10 from Japan, 10 from Mexico, 5 from Peru, &c.
+from India, 10 from [[Japan]], 10 from Mexico, 5 from Peru, &c.
 
 In the W. central part of the campus is the university library building,
 which, with an endowment (1891) of $300,000 for the purchase of books
 and periodicals, was the gift of Henry Williams Sage (1814-1897), second
 president of the board of trustees; in 1906 it received an additional
-endowment fund of about $500,000 by the bequest of Prof. Willard Fiske.
+endowment fund of about $500,000 by the bequest of Prof. Willard [[Fiske]].
 The building, of light grey Ohio sandstone, houses the general library
 (300,050 volumes in 1909), the seminary and department libraries (7284
 volumes), and the forestry library (1007 volumes). Among the special
 collections of the general library are the classical library of Charles
-Anthon, the philological library of Franz Bopp, the Goldwin Smith
+[[Anthon]], the philological library of [[Franz]] [[Bopp]], the Goldwin Smith
 library (1869), the White architectural and historical libraries, the
 Spinoza collection presented by Andrew D. White (1894), the library of
 Jared Sparks, the Samuel J. May collection of works on the history of
 slavery, the Zarncke library, especially rich in Germanic philology and
 literature, the Eugene Schuyler collection of Slavic folk-lore,
 literature and history, the Willard Fiske Rhaeto-Romanic, Icelandic,
-Dante and Petrarch collections, and the Herbert H. Smith collection of
+[[Dante]] and Petrarch collections, and the Herbert H. Smith collection of
 works on Latin America (in addition there are college and department
 libraries--that of the college of law numbers 38,735 volumes--bringing
 the total to 353,638 bound volumes in 1909). Among the other buildings
-are: Morse Hall, Franklin Hall, Sibley College, Lincoln Hall (housing
+are: Morse Hall, [[Franklin]] Hall, Sibley College, [[Lincoln]] Hall (housing
 the college of civil engineering), Goldwin Smith Hall (for language and
 history), Stimson Hall (given by Dean Sage to the medical college),
 Boardman Hall (housing the college of law), Morrill Hall (containing the
 psychological laboratory), McGraw Hall and White Hall--these, with the
 library, forming the quadrangle; S. of the quadrangle, Sage chapel (with
-beautiful interior decorations), Barnes Hall (the home of the Cornell
-University Christian Association), Sage College (a dormitory for women),
+beautiful interior decorations), [[Barnes]] Hall (the home of the Cornell
+University Christian Association), Sage College (a [[Dormitory|dormitory]] for women),
 and the armoury and gymnasium; E. of the quadrangle, the Rockefeller
 Hall of Physics (1906) and the New York State College of Agriculture
 (completed in 1907); and S.E. of the quadrangle the New York State
@@ -76,7 +76,7 @@ Veterinary College and the Fuertes Observatory. The university is
 well-equipped with laboratories, the psychological laboratory, the
 laboratories of Sibley college and the hydraulic laboratory of the
 college of civil engineering being especially noteworthy; the last is on
-Fall Creek, where a curved concrete masonry dam has been built, forming
+Fall Creek, where a curved concrete [[Masonry|masonry]] dam has been built, forming
 Beebe Lake. East of the campus is the university playground and athletic
 field (55 acres), built with funds raised from the alumni. Cayuga Lake
 furnishes opportunity for rowing, and the Cornell crews are famous.
@@ -88,27 +88,27 @@ direction of a U.S. army officer detailed as commandant.
 The reputation of the university is particularly high in mechanical
 engineering; Sibley college was built up primarily under Prof. Robert
 Henry Thurston (1839-1903), a well-known engineer, its director in
-1885-1903. The college includes the following departments: machine
+1885-1903. The college includes the following departments: [[Machine|machine]]
 design and construction, experimental engineering, power engineering,
 and electrical engineering. The "Susan Linn Sage School of Philosophy,"
 so called since the gift (1891) of $200,000 from Henry W. Sage in memory
 of his wife, issues _The Philosophical Review_ and _Cornell Studies in
 Philosophy_, and is well known for the psychological laboratory
 investigations under Prof. E. B. Titchener (b. 1867). Equally well known
-are the college of agriculture under Prof. Liberty Hyde Bailey (b.
+are the college of agriculture under Prof. Liberty Hyde [[Bailey]] (b.
 1858); the "Cornell School" of Latin grammarians, led first by Prof. W.
-G. Hale and then by Prof. C. E. Bennett; the department of entomology
+G. [[Hale]] and then by Prof. C. E. [[Bennett]]; the department of [[Entomology|entomology]]
 under Prof. J. H. Comstock (b. 1849), the department of physics under
 Prof. E. L. Nichols (b. 1854), and other departments. The university
 publishes _Cornell Studies in Classical Philology_, the _Journal of
-Physical Chemistry_, the _Physical Review_, _Publications of Cornell
+Physical [[Chemistry]]_, the _Physical Review_, _Publications of Cornell
 University Medical College_, various publications of the college of
 agriculture, and _Studies in History and Political Science_ (of "The
 President White School of History and Political Science"). Among the
 student publications are _The Cornell Era_ (1868, weekly), _The Cornell
 Daily Sun_ (1880), _The Sibley Journal of Engineering_ (1882), _The
 Cornell Magazine_, a literary monthly, and _The Cornell Widow_ (1892), a
-comic tri-weekly. The regular annual tuition fee is $100, but in
+comic tri-weekly. The regular annual tuition [[Fee|fee]] is $100, but in
 medicine, in architecture, and in civil and mechanical engineering it is
 $150. In the veterinary and agricultural colleges there are no tuition
 fees for residents of New York state. There are 150 free-tuition state
@@ -119,7 +119,7 @@ scholarships (annual value, $300-600 each). In the college of arts and
 sciences the elective system, with certain restrictions, obtains.
 
 The university has always been absolutely non-sectarian; its charter
-prescribes that "persons of every religious denomination, or of no
+prescribes that "persons of every religious [[Denomination|denomination]], or of no
 religious denomination, shall be equally eligible to all offices and
 appointments" and that "at no time shall a majority of the board (of
 trustees) be of one religious sect or of no religious sect." There is,
@@ -149,9 +149,9 @@ $336,100; the campus and buildings were valued at about $4,263,400, and
 the Library, collections, apparatus, &c. at about $1,826,100.
 
 The university was incorporated by the legislature of New York state on
-the 27th of April 1865, and was named in honour of Ezra Cornell,[1] its
+the 27th of April 1865, and was named in honour of [[Ezra]] Cornell,[1] its
 principal benefactor. In 1864 Cornell, at the suggestion of Andrew D.
-White, his fellow member of the state senate, decided to found a
+White, his [[Fellow|fellow]] member of the state senate, decided to found a
 university of a new type--which should be broad and liberal in its
 scope, should be absolutely non-sectarian, and which should recognize
 and meet the growing need for practical training and adequate
@@ -159,7 +159,7 @@ instruction in the sciences as well as in the humanities. He offered to
 the state as an endowment $500,000 (with 200 acres of land) on condition
 that the state add to this fund the proceeds of the sales of public
 lands granted to it by the Morrill Act of 1862 for "the endowment,
-support and maintenance of at least one college, where the leading
+support and [[Maintenance|maintenance]] of at least one college, where the leading
 object shall be ... to teach such branches of learning as are related to
 agriculture and the mechanic arts.... "[2] The charter provided that
 "such other branches of science and knowledge may be embraced in the
@@ -183,8 +183,8 @@ non-resident lecturers. On the 7th of October 1868 the Cornell
 University opened with some confusion due to the condition of the
 campus, and to the presence of 412 would-be pupils, many of whom
 expected to "work their way through." The brilliance of the faculty and
-especially of its non-resident members (including J. R. Lowell, Louis
-Agassiz, G. W. Curtis, Bayard Taylor, Theodore D. Dwight, and Goldwin
+especially of its non-resident members (including J. R. [[Lowell]], Louis
+Agassiz, G. W. Curtis, Bayard Taylor, Theodore D. [[Dwight]], and Goldwin
 Smith, who was a resident professor in 1866-1869), was to a degree
 over-shadowed during the fifteen years 1868-1882 by financial
 difficulties. But Ezra Cornell himself paid many salaries during early
@@ -206,8 +206,8 @@ Cornell were sold, bringing a net return of about $4,800,000. The
 university was put on a sound financial footing; the number of students,
 less in 1881-1882 than in 1868 at the opening of the university, again
 increased, so that it was 585 in 1884-1885, and 2120 in 1897-1898. The
-presidents of the university have been: Andrew Dickson White, 1865-1885;
-Charles Kendall Adams, 1885-1892; and Jacob Gould Schurman.
+presidents of the university have been: Andrew [[Dickson]] White, 1865-1885;
+Charles Kendall Adams, 1885-1892; and [[Jacob]] Gould Schurman.
 
 
 FOOTNOTES:

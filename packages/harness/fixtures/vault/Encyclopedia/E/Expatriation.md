@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Expatriati
 
 EXPATRIATION (from Late Lat. _expatriare_, to exile, and _patria_,
 native land), a term used in a general sense for the banishment of a
-person from his own country. In international law expatriation is the
+person from his own country. In [[International|international]] law expatriation is the
 renunciation or change of allegiance to one's native or adopted country.
 It may take place either by a voluntary act or by operation of law. Some
 countries, as France and England, disclaim their subjects if they become

@@ -9,11 +9,11 @@ tags: [history, genealogy-studies]
 
 # Lange
 
-LANGE, FRIEDRICH ALBERT (1828-1875), German philosopher and sociologist,
+LANGE, [[Friedrich|FRIEDRICH]] ALBERT (1828-1875), German philosopher and sociologist,
 was born on the 28th of September 1828, at Wald, near Solingen, the son
-of the theologian, J. P. Lange (q.v.). He was educated at Duisburg,
-Zürich and Bonn, where he distinguished himself by gymnastics as much as
-by study. In 1852 he became schoolmaster at Cologne; in 1855
+of the theologian, J. P. Lange (q.v.). He was educated at [[Duisburg]],
+Zürich and [[Bonn]], where he distinguished himself by gymnastics as much as
+by study. In 1852 he became schoolmaster at [[Cologne]]; in 1855
 _privatdozent_ in philosophy at Bonn; in 1858 schoolmaster at Duisburg,
 resigning when the government forbade schoolmasters to take part in
 political agitation. Lange then entered on a career of militant
@@ -27,9 +27,9 @@ Ansichten über die sociale Frage_ (1866). In 1866, discouraged by
 affairs in Germany, he moved to Winterthur, near Zürich, to become
 connected with the democratic newspaper, _Winterthurer Landbote_. In
 1869 he was _Privatdozent at Zürich_, and next year professor. The
-strong French sympathies of the Swiss in the Franco-German War led to
+strong French sympathies of the Swiss in the [[Franco-German War]] led to
 his speedy resignation. Thenceforward he gave up politics. In 1872 he
-accepted a professorship at Marburg. Unhappily, his vigorous frame was
+accepted a professorship at [[Marburg]]. Unhappily, his vigorous [[Frame|frame]] was
 already stricken with disease, and, after a lingering illness, he died
 at Marburg, on the 23rd of November 1875, diligent to the end. His
 _Logische Studien_ was published by H. Cohen in 1877 (2nd ed., 1894).
@@ -38,7 +38,7 @@ written, with wide scientific knowledge and more sympathy with English
 thought than is usual in Germany, is rather a didactic exposition of
 principles than a history in the proper sense. Adopting the Kantian
 standpoint that we can know nothing but phenomena, Lange maintains that
-neither materialism nor any other metaphysical system has a valid claim
+neither [[Materialism|materialism]] nor any other metaphysical system has a valid claim
 to ultimate truth. For empirical phenomenal knowledge, however, which is
 all that man can look for, materialism with its exact scientific methods
 has done most valuable service. Ideal metaphysics, though they fail of
@@ -54,9 +54,9 @@ Darwinian principle of struggle for existence.
   See O. A. Ellissen, _F. A. Lange_ (Leipzig, 1891), and in _Monatsch.
   d. Comeniusgesell_. iii., 1894, 210 ff.; H. Cohen in _Preuss_.
   _Jahrb._ xxvii., 1876, 353 ff.; Vaihinger, _Hartmann, Dühring und
-  Lange_ (Iserlohn, 1876); J. M. Bösch, _F. A. Lange und sein Standpunkt
-  d. Ideals_ (Frauenfeld, 1890); H. Braun, _F. A. Lange, als
-  Socialökonom_ (Halle, 1881).     (H. St.)
+  Lange_ ([[Iserlohn]], 1876); J. M. Bösch, _F. A. Lange und sein Standpunkt
+  d. Ideals_ ([[Frauenfeld]], 1890); H. Braun, _F. A. Lange, als
+  Socialökonom_ ([[Halle]], 1881).     (H. St.)
 
 ## See also
 

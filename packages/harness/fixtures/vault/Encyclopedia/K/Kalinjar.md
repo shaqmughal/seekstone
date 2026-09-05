@@ -6,11 +6,11 @@ rock, the termination of the Vindhya range, at an elevation of 1203 ft.,
 overlooking the plains of Bundelkhand. Kalinjar is the most
 characteristic specimen of the hill-fortresses, originally hill-shrines,
 of central India. Its antiquity is proved by its mention in the
-_Mahabharata_. It was besieged by Mahmud of Ghazni in 1023, and here the
+_Mahabharata_. It was besieged by Mahmud of [[Ghazni]] in 1023, and here the
 Afghan emperor Sher Shah met his death in 1545, and Kalinjar played a
 prominent part in history down to the time of the Mutiny in 1857, when
-it was held by a small British garrison. Both the fort and the town,
-which stands at the foot of the hill, are of interest to the antiquary
+it was held by a small British [[Garrison|garrison]]. Both the fort and the town,
+which stands at the foot of the hill, are of interest to the [[Antiquary|antiquary]]
 on account of their remains of temples, sculptures, inscriptions and
 caves.
 

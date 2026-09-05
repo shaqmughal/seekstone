@@ -34,7 +34,7 @@ still grown in gardens of the northern and middle states.
   native of Persia and Afghanistan, a shrub 4 to 7 ft. high with
   bluish-purple or white flowers. Of other species, _S. Josikaea_, from
   Transylvania, has scentless bluish-purple flowers; _S. Emodi_, a
-  native of the Himalayas, is a handsome shrub with large ovate leaves
+  native of the [[Himalaya|Himalayas]], is a handsome shrub with large ovate leaves
   and dense panicles of purple or white strongly scented flowers. Lilacs
   grow freely and flower profusely in almost any soil and situation, but
   when neglected are apt to become choked with suckers which shoot up in

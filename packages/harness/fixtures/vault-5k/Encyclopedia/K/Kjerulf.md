@@ -7,7 +7,7 @@ topic: politics
 # Kjerulf
 
 KJERULF, HALFDAN (1815-1868), Norwegian musical composer, the son of a
-high government official, was born at Christiania on the 15th of
+high government official, was born at [[Christiania]] on the 15th of
 September 1815. His early education was at Christiania University, for a
 legal career, and not till he was nearly 26--on the death of his
 father--was he able to devote himself entirely to music. As a fact, he

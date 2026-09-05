@@ -5,7 +5,7 @@ at Waltershausen near Gotha, on the 13th of March 1809. He investigated
 the geology of the Thuringer Waldes, of which he published a map in
 1846. He was author of a work entitled _Uber die Gliederung der oberen
 Juraformation und der Wealden-Bildung im nordwestlichen Deutschland_
-(Prague, 1863), also of a geological map of Hanover (1865). He died at
+(Prague, 1863), also of a geological map of [[Hanover]] (1865). He died at
 Halle on the 28th of September 1876.
 
 His son, CARL HERMANN CREDNER (1841-   ), was born at Gotha on the 1st

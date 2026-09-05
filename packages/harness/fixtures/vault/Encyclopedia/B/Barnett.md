@@ -1,7 +1,7 @@
 # Barnett
 
 BARNETT, SAMUEL AUGUSTUS (1844- ), English clergyman and social reformer,
-was born at Bristol on the 8th of February 1844, the son of Francis
+was born at [[Bristol]] on the 8th of February 1844, the son of Francis
 Augustus Barnett, an iron manufacturer. After leaving Wadham College,
 Oxford, in 1866, he visited the United States. Next year he was ordained to
 the curacy of St Mary's, Bryanston Square, and took priest's orders in
@@ -10,12 +10,12 @@ and in the next year married Henrietta Octavia Rowland, who had been a
 co-worker with Miss Octavia Hill and was no less ardent a philanthropist
 than her husband. Mr and Mrs Barnett worked hard for the poor of their
 parish, opening evening schools for adults, providing them with music and
-reasonable entertainment, and serving on the board of guardians and on the
+reasonable entertainment, and serving on the board of [[Guardian|guardians]] and on the
 managing committees of schools. Mr Barnett did much to discourage outdoor
 relief, as tending to the pauperization of the neighbourhood. At the same
 time the conditions of indoor relief were improved, and the various
-charities were co-ordinated, by co-operation with the Charity Organization
-Society and the parish board of guardians. In 1875 Arnold Toynbee paid a
+charities were co-ordinated, by [[Co-Operation|co-operation]] with the Charity Organization
+Society and the parish board of guardians. In 1875 [[Arnold]] Toynbee paid a
 visit, the first of many, to Whitechapel, and Mr Barnett, who kept in
 constant touch with Oxford, formed in 1877 a small committee, over which he
 presided himself, to consider the organization of university extension in

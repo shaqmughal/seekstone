@@ -55,7 +55,7 @@ his writings and teachings advocated the use of the speculum and sound.
 This was followed in 1840 by the writings of Simpson in England and
 Huguier in France. In 1845 John Hughes Bennett published his great work
 on inflammation of the uterus, and in 1850 Tilt published his book on
-ovarian inflammation. The credit of being the first to perform the
+ovarian inflammation. The [[Credit|credit]] of being the first to perform the
 operation of ovariotomy is now credited to McDowell of Kentucky in 1809,
 and to Robert Lawson Tait (1845-1899) in 1883 the first operation for
 ruptured ectopic gestation.
@@ -189,7 +189,7 @@ ruptured ectopic gestation.
   enjoined, douches of carbolic acid (1 in 40) or of perchloride of
   mercury (1 in 2000) should be ordered morning and evening, the vagina
   being packed with tampons of iodoform gauze. Saline purgatives and
-  alkaline diuretics should be given, (c) Chronic vaginitis (leucorrhoea
+  alkaline [[Diuretics|diuretics]] should be given, (c) Chronic vaginitis (leucorrhoea
   or "the whites") may follow acute conditions and persist indefinitely.
   The vagina is rarely the seat of tumours, but cysts are common.
 
@@ -546,7 +546,7 @@ ruptured ectopic gestation.
   is fairly frequent, sarcoma being the most usual ovarian tumour
   occurring before puberty. Carcinoma of the ovary is rarely primary,
   but it is a common situation for secondary cancer to that of the
-  breast, gall-bladder or gastro-intestinal tract. The treatment of all
+  [[Breast|breast]], gall-bladder or gastro-intestinal tract. The treatment of all
   rapidly-growing tumours of the ovary is removal.
 
   _Diseases of the Pelvic Peritoneum and Connective Tissue._--Women are
@@ -566,7 +566,7 @@ ruptured ectopic gestation.
   may be due to tumours of the abdominal viscera or to tuberculosis of
   the peritoneum. (4) Pelvic cellulitis (parametritis) signifies the
   inflammation of the connective tissue between the folds of the broad
-  ligament (mesometrium). The general causes are septic changes
+  [[Ligament|ligament]] (mesometrium). The general causes are septic changes
   following abortion, delivery at term (especially instrumental
   delivery), following operations on the uterus or salpingitis. The
   symptoms are chill followed by severe intrapelvic pain and tension,
@@ -591,7 +591,7 @@ ruptured ectopic gestation.
   Bland-Sutton and Giles, _Diseases of Women_ (1906); C. Lockyer,
   "Lutein Cysts in association with Chorio-Epithelioma," _Journal of
   Obstetrics and Gynaecology_ (January, 1905); W. Stewart McKay,
-  _History of Ancient Gynaecology_; Hart and Barbour, _Diseases of
+  _History of Ancient Gynaecology_; Hart and [[Barbour]], _Diseases of
   Women_; Howard Kelly, _Operative Gynaecology_.     (H. L. H.)
 
 ## See also

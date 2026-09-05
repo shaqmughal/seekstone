@@ -10,7 +10,7 @@ type: source
 GIRODET DE ROUSSY, ANNE LOUIS (1767-1824), French painter, better known
 as Girodet-Trioson, was born at Montargis on the 5th of January 1767. He
 lost his parents in early youth, and the care of his fortune and
-education fell to the lot of his guardian, M. Trioson, "medecin de
+education fell to the [[Lot|lot]] of his [[Guardian|guardian]], M. Trioson, "medecin de
 mesdames," by whom he was in later life adopted. After some preliminary
 studies under a painter named Luquin, Girodet entered the school of
 David, and at the age of twenty-two he successfully competed for the
@@ -27,11 +27,11 @@ Saisons," executed for the king of Spain (repeated for Compiegne), and
 shows itself to a ludicrous extent in his "Fingal" (St Petersburg,
 Leuchtenberg collection), executed for Napoleon I. in 1802. This work
 unites the defects of the classic and romantic schools, for Girodet's
-imagination ardently and exclusively pursued the ideas excited by varied
+[[Imagination|imagination]] ardently and exclusively pursued the ideas excited by varied
 reading both of classic and of modern literature, and the impressions
 which he received from the external world afforded him little stimulus
 or check; he consequently retained the mannerisms of his master's
-practice whilst rejecting all restraint on choice of subject. The credit
+practice whilst rejecting all restraint on choice of subject. The [[Credit|credit]]
 lost by "Fingal" Girodet regained in 1806, when he exhibited "Scene de
 Deluge" (Louvre), to which (in competition with the "Sabines" of David)
 was awarded the decennial prize. This success was followed up in 1808 by

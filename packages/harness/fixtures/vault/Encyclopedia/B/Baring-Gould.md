@@ -1,10 +1,10 @@
 # Baring-Gould
 
 BARING-GOULD, SABINE (1834- ), English novelist, was born at Exeter on the
-28th of January 1834. After graduating at Clare College, Cambridge, he
-spent some years in travel, and became in 1864 curate of Horbury,
-Yorkshire; then perpetual curate of Dalton, in the same county, in 1867;
-and in 1871 rector of East Mersea, Essex. On his father's death in 1872 he
+28th of January 1834. After graduating at [[Clare]] College, Cambridge, he
+spent some years in travel, and became in 1864 [[Curate|curate]] of Horbury,
+Yorkshire; then perpetual curate of [[Dalton]], in the same county, in 1867;
+and in 1871 rector of East Mersea, [[Essex]]. On his father's death in 1872 he
 inherited the estate of Lew Trenchard, North Devon, where his family had
 been settled for nearly three centuries, and he exchanged his Essex living
 for the rectory of Lew Trenchard in 1881. He had a ready pen, and began
@@ -13,7 +13,7 @@ folk-lore, religion, mythology, from 1854 onwards. His novel _Mehalah_
 (1880), the scene of which is laid on the east coast of England, was an
 excellent story, and among many others may be mentioned _John Herring_
 (1883), a tale of the west country; _Court Royal_ (1886); _Red Spider_
-(1887); _The Pennycomequicks_ (1889); _Cheap Jack Zita_ (1893); and _Broom
+(1887); _The Pennycomequicks_ (1889); _Cheap [[Jack]] Zita_ (1893); and _Broom
 Squire_ (1896), a Sussex tale. His contributions to the study of
 topography, antiquities and folk-lore, while popularly written, were also
 full of serious research and real learning, notably his _Book of

@@ -1,7 +1,7 @@
 # Kavass
 
 KAVASS, or CAVASS (adapted from the Turkish _qawwas_, a bow-maker;
-Arabic _qaws_, a bow), a Turkish name for an armed police-officer; also
+Arabic _qaws_, a [[Bow|bow]]), a Turkish name for an armed police-officer; also
 for a courier such as it is usual to engage when travelling in Turkey.
 
 ## See also

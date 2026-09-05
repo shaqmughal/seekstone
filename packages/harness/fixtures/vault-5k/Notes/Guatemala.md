@@ -11,7 +11,7 @@ GUATEMALA (sometimes incorrectly written GUATIMALA), a name now
 restricted to the republic of Guatemala and to its chief city, but
 formerly given to a captaincy-general of Spanish America, which included
 the fifteen provinces of Chiapas, Suchitepeques, Escuintla, Sonsonate,
-San Salvador, Vera Paz and Peten, Chiquimula, Honduras, Nicaragua, Costa
+San Salvador, Vera Paz and Peten, Chiquimula, Honduras, Nicaragua, [[Costa]]
 Rica, Totonicapam, Quezaltenango, Solola, Chimaltenango and
 Sacatepeques,--or, in other words, the whole of Central America (except
 Panama) and part of Mexico. The name is probably of Aztec origin, and is
@@ -89,7 +89,7 @@ which it follows eastwards to the Gulf of Honduras.
   and drains into the Atlantic is varied by innumerable terraces, ridges
   and underfalls; but its general configuration is admirably compared by
   E. Reclus with the appearance of "a stormy sea breaking into parallel
-  billows" (_Universal Geography_, ed. E. G. Ravenstein, div. xxxiii.,
+  billows" (_Universal [[Geography]]_, ed. E. G. Ravenstein, div. xxxiii.,
   p. 212). The parallel ranges extend east and west with a slight
   southerly curve towards their centres. A range called the Sierra de
   Chama, which, however, changes its name frequently from place to
@@ -126,14 +126,14 @@ which it follows eastwards to the Gulf of Honduras.
   Chiapas follows a similar course.
 
   There are several extensive lakes in Guatemala. The Lake of Peten or
-  Laguna de Flores, in the centre of the department of Peten, is an
+  Laguna de [[Flores]], in the centre of the department of Peten, is an
   irregular basin about 27 m. long, with an extreme breadth of 13 m. In
   an island in the western portion stands Flores, a town well known to
   American antiquaries for the number of ancient idols which have been
   recovered from its soil. On the shore of the lake is the stalactite
   cave of Jobitsinal, of great local celebrity; and in its depths,
   according to the popular legend, may still be discerned the stone
-  image of a horse that belonged to Cortes. The Golfo Dulce is, as its
+  [[Image|image]] of a horse that belonged to Cortes. The Golfo Dulce is, as its
   name implies, a fresh-water lake, although so near the Atlantic. It is
   about 36 m. long, and would be of considerable value as a harbour if
   the bar at the mouth of the Rio Dulce did not prevent the upward
@@ -148,10 +148,10 @@ which it follows eastwards to the Gulf of Honduras.
   The geology, fauna and flora of Guatemala are discussed under CENTRAL
   AMERICA. The bird-life of the country is remarkably rich; one bird of
   magnificent plumage, the quetzal, quijal or quesal (_Trogon
-  resplendens_), has been chosen as the national emblem.
+  resplendens_), has been chosen as the national [[Emblem|emblem]].
 
   _Climate._--The climate is healthy, except on the coasts, where
-  malarial fever is prevalent. The rainy season in the interior lasts
+  malarial [[Fever|fever]] is prevalent. The rainy season in the interior lasts
   from May to October, but on the coast sometimes continues till
   December. The coldest month is January, and the warmest is May. The
   average temperatures for these months at places of different
@@ -201,7 +201,7 @@ which it follows eastwards to the Gulf of Honduras.
   abundance, especially where the soil is largely of volcanic origin, as
   in the Altos and Sierra Madre. Parts of the Peten district are equally
   fertile, maize in this region yielding two hundredfold from unmanured
-  soil. The vegetable products of Guatemala include coffee, cocoa,
+  soil. The vegetable products of Guatemala include coffee, [[Cocoa|cocoa]],
   sugar-cane, bananas, oranges, vanilla, aloes, agave, ipecacuanha,
   castor-oil, sarsaparilla, cinchona, tobacco, indigo and the wax-plant
   (_Myrica cerifera_).
@@ -233,7 +233,7 @@ belong to the Maya family; but parts of central and eastern Guatemala
 are peopled by tribes distinct from the Mayas and not found in Mexico.
 In the 16th century the Mayas and Quiches had attained a high level of
 civilization (see CENTRAL AMERICA, _Archaeology_), and at least two of
-the Guatemalan languages, Quiche and Cakchiquel, possess the rudiments
+the Guatemalan languages, Quiche and [[Cakchiquel]], possess the rudiments
 or the relics of a literature. The Quiche _Popol Vuh_, or "Book of
 History," which was translated into Spanish by the Dominican friar
 Ximenes, and edited with a French version by Brasseur de Bourbourg, is
@@ -248,20 +248,20 @@ religious, but with a few exceptions are thriftless, indolent and
 inveterate gamblers. Their _confradias_, or brotherhoods, each with its
 patron saint and male and female chiefs, exist largely to organize
 public festivals, and to purchase wooden masks, costumes and decorations
-for the dances and dramas in which the Indians delight. These dramas,
+for the dances and [[Drama|dramas]] in which the Indians delight. These dramas,
 which deal with religious and historical subjects, are of Indian origin,
 and somewhat resemble the mystery-plays of medieval Europe, a
 resemblance heightened by the introduction, due to Spanish missionaries,
 of Christian saints and heroes such as Charlemagne. The Indians are
 devoted to bull-fighting and cock-fighting. Choral singing is a popular
-amusement, and is accompanied by the Spanish guitar and native
+amusement, and is accompanied by the Spanish [[Guitar|guitar]] and native
 wind-instruments. The Indians have a habit of consuming a yellowish
 edible earth containing sulphur; on pilgrimages they obtain images
 moulded of this earth at the shrines they visit, and eat the images as a
-prophylactic against disease. Maize, beans and bananas, varied
+prophylactic against disease. Maize, [[Bean|beans]] and bananas, varied
 occasionally with dried meat and fresh pork, form their staple diet;
 drunkenness is common on pay-days and festivals, when large quantities
-of a fiery brandy called _chicha_ are consumed.
+of a fiery [[Brandy|brandy]] called _chicha_ are consumed.
 
   _Chief Towns._--The capital of the republic, Guatemala or Guatemala la
   Nueva (pop. 1905 about 97,000) and the cities of Quezaltenango
@@ -276,12 +276,12 @@ of a fiery brandy called _chicha_ are consumed.
   and Champerico were, like Quezaltenango, Solola, and other towns,
   temporarily ruined by the earthquake of the 18th of April 1902. Santa
   Cruz Quiche, 25 m. N.E. of Totonicapam, was formerly the capital of
-  the Quiche kings, but has now a Ladino population. Livingston, a
+  the Quiche kings, but has now a Ladino population. [[Livingston]], a
   seaport at the mouth of the Polochic (here called the Rio Dulce), was
-  founded in 1806, and subsequently named after the author of a code of
+  founded in 1806, and subsequently named after the author of a [[Code|code]] of
   Guatemalan laws; few vestiges remain of the Spanish settlement of
   Sevilla la Nueva, founded in 1844, and of the English colony of
-  Abbotsville, founded in 1825,--both near Livingston. La Libertad, also
+  Abbotsville, founded in 1825,--both near Livingston. La [[Libertad]], also
   called by its Indian name of Sacluc, is the principal town of Peten.
 
   _Shipping and Communications._--The republic is in regular steam
@@ -294,7 +294,7 @@ of a fiery brandy called _chicha_ are consumed.
   harbour on the south coast, has been almost entirely abandoned since
   1853. Gualan, on the Motagua, and Panzos, on the Polochic, are small
   river-ports. The principal towns are connected by wagon roads, towards
-  the construction and maintenance of which each male inhabitant is
+  the construction and [[Maintenance|maintenance]] of which each male inhabitant is
   required to pay two pesos or give four days' work a year. There are
   coach routes between the capital and Quezaltenango, but over a great
   portion of the country transport is still on mule-back. All the
@@ -351,7 +351,7 @@ of a fiery brandy called _chicha_ are consumed.
   their homes.
 
   By the Land Act of 1894 the state domains, except on the coasts and
-  frontiers, were divided into lots for sale. The largest holding
+  frontiers, were divided into [[Lot|lots]] for sale. The largest holding
   tenable by one person under this act was fixed at 50 caballerias, or
   5625 acres; the price varies from L40 to L80 per caballeria of 112-1/2
   acres. Free grants of uncultivated land are sometimes made to
@@ -403,7 +403,7 @@ of a fiery brandy called _chicha_ are consumed.
   development and justice, L29,000 to the army and the remainder largely
   to education. The gold value of the currency peso (75 = L1 in 1903, 70
   = L1 in 1904, 58 = L1 in 1905) fluctuates between limits so wide that
-  conversion into sterling (especially for a series of years), with any
+  [[Conversion|conversion]] into sterling (especially for a series of years), with any
   pretension to accuracy, is impracticable. In 1899 the rate of exchange
   moved between 710% and 206% premium on gold. According to the official
   statement, the gold debt, which runs chiefly at 4% and is held in
@@ -450,7 +450,7 @@ men with 500 pupils and one for women with 300. At Quezaltenango there
 are two similar institutes, and at Chiquimula there are other two. To
 each of the six there is a school for teachers attached, and within the
 republic there are four other schools for teachers. For professional
-instruction (law, medicine, engineering) there are schools supported by
+instruction (law, medicine, [[Engineering|engineering]]) there are schools supported by
 private funds, but aided occasionally by the government. Other
 educational establishments are a school of art, a national conservatory
 of music, a commercial college, four trades' schools with more than 600
@@ -480,7 +480,7 @@ were annexed to the Mexican empire of Iturbide from 1822 to 1823, and
 united to form a federal republic from 1823 to 1839. In Guatemala the
 Clerical, Conservative or anti-Federal party was supreme; after a
 protracted struggle it overthrew the Liberals or Federalists, and
-declared the country an independent republic, with Rafael Carrera
+declared the country an independent republic, with Rafael [[Carrera]]
 (1814-1865) as president. In 1845 an attempt to restore the federal
 union failed; in 1851 Carrera defeated the Federalist forces of Honduras
 and Salvador at La Arada near Chiquimula, and was recognized as the
@@ -498,7 +498,7 @@ concert with the Clerical party, and endeavoured to maintain friendly
 relations with the European governments. Carrera's successor was General
 Cerna, who had been recommended by him for election. The Liberal party
 began to rise in influence about 1870, and in May 1871 Cerna was
-deposed. The archbishop of Guatemala and the Jesuits were driven into
+deposed. The archbishop of Guatemala and the [[Jesuits]] were driven into
 exile as intriguers in the interests of the Clericals. Pres. Rufino
 Barrios (1835-1885), elected in 1873, governed the country after the
 manner of a dictator; he expelled the Jesuits, confiscated their
@@ -516,7 +516,7 @@ five states. President Zaldivar, of Salvador, had been his friend, but
 after the issue of the decree of union he entered into a defensive
 alliance with Costa Rica and Nicaragua. In March Barrios invaded
 Salvador, and on the 2nd of April a battle was fought, in which the
-Guatemalan president was killed. He was succeeded by General Manuel
+Guatemalan president was killed. He was succeeded by General [[Manuel]]
 Barillas. No further effort was made to force on the union, and on the
 16th of April the war was formally ended. Peace, however, only provided
 opportunity for domestic conspiracy, with assassination and revolution
@@ -542,8 +542,8 @@ and the revolution speedily became a war, in which Honduras, Costa Rica
 and Salvador were openly involved against Guatemala, while Nicaragua was
 hostile. But Cabrera held his ground, and even gained several indecisive
 victories. The intervention of President Roosevelt and of President Diaz
-of Mexico brought about an armistice on the 19th of July, and the
-so-called "Marblehead Pact" was signed on the following day on board the
+of Mexico brought about an [[Armistice|armistice]] on the 19th of July, and the
+so-called "[[Marblehead]] Pact" was signed on the following day on board the
 United States cruiser "Marblehead." Its terms were embodied in a treaty
 signed (28th of September) by representatives of the four belligerent
 states, Nicaragua taking no part in the negotiations. The treaty
@@ -570,7 +570,7 @@ subsequent disputes by the arbitration of the United States and Mexico.
   J. Mendez, _Guia del immigrante en la republica de Guatemala_
   (Guatemala, 1895); Karl Sapper, "Grundzuge der physikalischen
   Geographie von Guatemala," Erganzungsheft No. 115, _Petermann's
-  Mitteilungen_ (Gotha, 1894); _Anuario de estadistica de la republica
+  Mitteilungen_ ([[Gotha]], 1894); _Anuario de estadistica de la republica
   de Guatemala_ (Guatemala); _Memoria de la Secretaria de Instruccion
   Publica_ (Guatemala, 1899); _Handbook of Guatemala_, revised (Bureau
   of the American Republics, Washington, 1897); _United States Consular

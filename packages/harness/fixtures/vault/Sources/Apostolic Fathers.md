@@ -2,7 +2,7 @@
 
 APOSTOLIC FATHERS, a term used to distinguish those early Christian
 writers who were believed to have been the personal associates of the
-original Apostles. While the title "Fathers" was given from at least the
+original [[Apostle|Apostles]]. While the title "Fathers" was given from at least the
 beginning of the 4th century to church writers of former days, as being
 the parents of Christian belief and thought for later times, the
 expression "Apostolic Fathers" dates only from the latter part of the
@@ -10,7 +10,7 @@ expression "Apostolic Fathers" dates only from the latter part of the
 exists already in the title "Patres aevi apostolici, sive SS. Patrum qui
 temporibus apostolicis floruerunt ... opera," under which in 1672 J.B.
 Cotelier published at Paris the writings current under the names of
-Barnabas, Clement of Rome, Hermas, Ignatius and Polycarp. But the name
+Barnabas, [[Clement]] of Rome, [[Hermas]], [[Ignatius]] and Polycarp. But the name
 itself is due to their next editor, Thomas Ittig (1643-1710), in his
 _Bibliotheca Patrum Apostolicorum_ (1699), who, however, included under
 this title only Clement, Ignatius and Polycarp. Here already appears the
@@ -19,18 +19,18 @@ continued ever since, and makes the contents of the "Apostolic Fathers"
 differ so much from editor to editor. Thus the Oratorian Andrea Gallandi
 (1700-1779), in re-issuing Cotelier's collection in his _Bibliotheca
 Veterum Patrum_ (1765-1781), included the fragments of Papias and the
-Epistle to Diognetus, to which recent editors have added the citations
-from the "Elders" of Papias's day found in Irenaeus and, since 1883, the
-_Didache_.
+[[Epistle]] to Diognetus, to which recent editors have added the citations
+from the "Elders" of Papias's day found in [[Irenaeus]] and, since 1883, the
+_[[Didache]]_.
 
 The degree of historic claim which these various writings have to rank
-as the works[1] of Apostolic Fathers varies greatly on any definition of
+as the works[1] of Apostolic Fathers varies greatly on any [[Definition|definition]] of
 "apostolic." Originally the epithet was meant to be taken strictly, viz.
 as denoting those whom history could show to have been personally
 connected, or at least coeval, with one or more apostles; and an effort
 was made, as by Cotelier, to distinguish the writings rightly and
 wrongly assigned to such. Thus editions tended to vary with the
-historical views of editors. But the convenience of the category
+historical views of editors. But the convenience of the [[Category|category]]
 "Apostolic Fathers" to express not only those who might possibly have
 had some sort of direct contact with apostles--such as "Barnabas,"
 Clement, Ignatius, Papias, Polycarp--but also those who seemed specially
@@ -55,7 +55,7 @@ not to mention what remains of Gnostic and other minority types. The
 _Preaching and Apocalypse_ of Peter, for instance, are quite typical of
 the same period, and help us to read between the lines of the Apostolic
 Fathers. Yet they do not really add much to what is there already, and
-they have the drawbacks of pseudonymity; they lack concrete and personal
+they have the [[Drawback|drawbacks]] of pseudonymity; they lack concrete and personal
 qualities; they are general expressions of tendencies which we cannot
 well locate or measure, save by means of the Apostolic Fathers
 themselves or of their earliest Catholic successors.
@@ -63,7 +63,7 @@ themselves or of their earliest Catholic successors.
 (A) In _external features_ the group is far from homogeneous, a fact
 which has led to their being disintegrated as a group in certain
 histories of early Christian literature (e.g. those of Harnack and
-Kruger), and classed each under its own literary type--so sacrificing to
+[[Kruger]]), and classed each under its own literary type--so sacrificing to
 outer form, which is quite secondary in primitive Christian writings,
 the more significant fact of religious affinity. Its original members,
 those still best entitled to their name in any strict sense, are
@@ -97,9 +97,9 @@ Nor is this pre-literary and vital quality really absent even from the
 writing which is least entitled to a place among "Apostolic Fathers,"
 the Epistle to Diognetus. This beautiful picture of the Christian life
 as a realized ideal, and of Christians as "the soul" of the world, owes
-its inclusion to a double error: first, to the accidental attachment at
+its inclusion to a double [[Error|error]]: first, to the accidental [[Attachment|attachment]] at
 the end of another fragment (S ii), which opens with the writer's claim
-to stand forth as a teacher as being "a disciple of apostles"; and next,
+to stand forth as a teacher as being "a [[Disciple|disciple]] of apostles"; and next,
 to mistaken exegesis of this phrase as implying personal relations with
 apostles, rather than knowledge of their teaching, written or oral.
 Whether in form addressed to Diognetus, the tutor of Marcus Aurelius, as
@@ -109,14 +109,14 @@ likely, to cultured Greeks generally, personified under the significant
 name "Diognetus" ("Heaven-born," of. Acts xvii. 28 along with S iii.
 4)--the epistle is in any case an "open letter" of an essentially
 literary type. Further, its opening seems modelled on the lines of the
-preface to Luke's Gospel, to which, along with Acts, it may owe
+preface to Luke's [[Gospel]], to which, along with Acts, it may owe
 something of its very conception as a reasoned appeal to the lover of
 truth. But while literary in form and conception, its appeal is in
 spirit so personal a testimony to what the Gospel has done for the
-writer and his fellow Christians, that it is akin to the piety of the
+writer and his [[Fellow|fellow]] Christians, that it is akin to the piety of the
 Apostolic Fathers as a group. It is true that it has marked affinities,
-e.g. in its natural theology, with the earliest Apologists, Aristides
-and Justin, even as it is itself in substance an apology addressed not
+e.g. in its natural theology, with the earliest Apologists, [[Aristides]]
+and Justin, even as it is itself in substance an [[Apology|apology]] addressed not
 to the State, but to thoughtful public opinion. But this only means that
 we cannot draw a hard and fast line between groups of early Christian
 writings at a time when practical religious interests overshadowed all
@@ -126,7 +126,7 @@ If thus related to the Apologists of the middle of the 2nd century, the
 Epistle to Diognetus has also points of contact with one of the most
 practical and least literary writings found among our Apostolic Fathers,
 viz. the homily originally known as the Second Epistle of Clement (for
-this ascription, as for other details, see CLEMENTINE LITERATURE). The
+this ascription, as for other details, see [[Clementine Literature|CLEMENTINE LITERATURE]]). The
 recovery of its concluding sections in the same MS. which brought the
 _Didache_ to light, proves beyond question that we have here the
 earliest extant sermon preached before a Christian congregation, about
@@ -148,7 +148,7 @@ Hermas among the Apostolic Fathers (though there are traces of it also
 in the _Didache_ and in Ignatius, _ad Eph._ xx.), is a genuinely
 primitive trait and goes far to explain the vogue which the _Shepherd_
 enjoyed in the generations immediately succeeding, as also the influence
-of its disciplinary policy, which is its prophetic "burden" (see HERMAS,
+of its disciplinary policy, which is its prophetic "[[Burden|burden]]" (see HERMAS,
 SHEPHERD OF).
 
 We come finally to the anonymous _Teaching of the Twelve Apostles_ and
@@ -160,13 +160,13 @@ fundamental usages of church life as practised in some conservative
 region (probably within Syria) about the last quarter of the 1st century
 and perhaps even later. The whole is put forth as substantially the
 apostolic teaching (_Didache_) on the subjects in question. This is
-probably a _bona fide_ claim. It expresses the feeling common to the
+probably a _[[Bona Fide|bona fide]]_ claim. It expresses the feeling common to the
 Apostolic Fathers and general in the sub-apostolic age, at any rate in
 regions where apostles had once laboured, that local tradition, as held
 by the recognized church leaders, did but continue apostolic doctrine
 and practice. Into later developments of this feeling an increasing
 element of illusion entered, and all other written embodiments of it
-known to us take the form of literary fictions, more or less bold. It is
+known to us take the form of literary [[Fictions|fictions]], more or less bold. It is
 in contrast to these that the _Didache_ is justly felt to be genuinely
 primitive and of a piece with the Apostolic Fathers. Thus while its form
 would by analogy tend _per se_ to awaken suspicion, its contents remove
@@ -207,7 +207,7 @@ its bearing on the history of the Canonical Scriptures of the New
 Testament, see _The New Testament in the Apostolic Fathers_, Oxford,
 1905). As Lightfoot points out (_Apostolic Fathers_, pt. i. vol. i. p.
 7), however, personality, with its variety of temperament and emphasis,
-largely colours the Apostolic Fathers, especially the primary group.
+largely [[Colours|colours]] the Apostolic Fathers, especially the primary group.
 Clement has all the Roman feeling for duly constituted order and
 discipline; Ignatius has the Syrian or semi-oriental passion of
 devotion, showing itself at once in his mystic love for his Lord and his
@@ -254,7 +254,7 @@ Apostolic Fathers; that may favour, not hinder, religious insight. There
 is a want of depth in Christian experience, in the power of realizing
 relative spiritual values in the light of the master principle involved
 in the distinctively Christian consciousness, such as could raise
-Clement above a verbal eclecticism, rather than comprehensiveness, in
+Clement above a verbal [[Eclecticism|eclecticism]], rather than comprehensiveness, in
 the use of Apostolic language. As R.W. Dale remarks, in a note on
 Reuss's too severe words (Eng. trans. ii. 295): "The vital force of the
 Apostolic convictions gave to Apostolic thought a certain organic and
@@ -270,8 +270,8 @@ expected" (ii. p. 294, cf. 541).
 
 In fact the perspective of the Gospel was seriously changed and its most
 distinctive features obscured. This was specially the case with the
-experimental doctrines of grace. Here the central glory of the Cross as
-"the power of God unto salvation" suffered some eclipse, although the
+experimental doctrines of [[Grace|grace]]. Here the central glory of the Cross as
+"the power of God unto salvation" suffered some [[Eclipse|eclipse]], although the
 passion of Christ was felt to be a transcendent act of Divine Grace in
 one way or another. But even more serious was the loss of an adequate
 sense of the contrast between "grace" and "works" as conditions of
@@ -280,7 +280,7 @@ principle_, as related to human egoism and the instinct to seek
 salvation as a reward for merit. The passages in which these things are
 laid bare by Paul's remorseless analysis of his own experience "under
 Law" seem to have made practically no impression on the Apostolic
-Fathers as a whole. Gentile Christians had not felt the fang of the Law
+Fathers as a whole. [[Gentile]] Christians had not felt the fang of the Law
 as the ex-Pharisee had occasion to feel it. Even if first trained in the
 Hellenistic synagogues of the Dispersion, as was often the case, they
 apprehended the Law on its more helpful and less exacting side, and had
@@ -295,7 +295,7 @@ Ignatius is quite free from it, while Polycarp and "Barnabas" are less
 under its influence than are the _Didache_, Clement, the Homilist and
 Hermas. It conceives salvation as a "wages" ([Greek: osthos]) to be
 earned or forfeited; and regards certain good works, such as prayer,
-fasting, alms--especially the last--as efficacious to cancel sins. The
+[[Fasting|fasting]], alms--especially the last--as efficacious to [[Cancel|cancel]] sins. The
 reality of this tendency, particularly at Rome, betrays itself in
 Hermas, who teaches the supererogatory merit of alms gained by the
 self-denial of fasting (_Sim_. v. 3. 3 ff.). Marcion's reaction, too,
@@ -330,7 +330,7 @@ of the sub-apostolic Church, even when face to face with their written
 words. This theological "retrogression" is of much significance for the
 history of dogma, (c) On the other hand, there is great religious and
 moral continuity, beneath even theological discontinuity, in the life
-working below all conscious apprehension of the deeper ideas involved
+working below all conscious [[Apprehension|apprehension]] of the deeper ideas involved
 (E. von Dobschutz, _Christian Life in the Primitive Church_, 1905).
 There is continuity in character; the Apostolic Fathers strike us as
 truly good men, with a goodness raised to a new type and power. This is
@@ -345,7 +345,7 @@ they were themselves genuine "epistles of Christ."
   (1902), Band i., and in _Neutestamentliche Apokryphen_, with
   _Handbuch_ thereto, edited by E. Hennecke (Tubingen, 1904). The
   fullest discussion in English of the teaching of Barnabas, Clement,
-  Ignatius and Polycarp is by J. Donaldson, _The Apostolical Fathers_
+  Ignatius and Polycarp is by J. [[Donaldson]], _The Apostolical Fathers_
   (1874), which, however, suffers from the imperfect state of the texts
   when he wrote. The most useful edition for ready reference, containing
   critical texts (up to date) and good translations, is Lightfoot's

@@ -1,19 +1,19 @@
 # Inebriety
 
 INEBRIETY, LAW OF. The legal relations to which inebriety (Lat. _in_,
-intensive, and _ebrietas_, drunkenness) gives rise are partly civil and
+intensive, and _ebrietas_, [[Drunkenness|drunkenness]]) gives rise are partly civil and
 partly criminal.
 
 I. _Civil Capacity._--The law of England as to the civil capacity of the
 drunkard is practically identified with, and has passed through
 substantially the same stages of development as the law in regard to the
-civil capacity of a person suffering from mental disease (see INSANITY).
+civil capacity of a person suffering from mental disease (see [[Insanity|INSANITY]]).
 Unless (see III. _inf._) a modification is effected in his condition by
 the fact that he has been brought under some form of legal control, a
-man may, in spite of intoxication, enter into a valid marriage or make a
+man may, in spite of [[Intoxication|intoxication]], enter into a valid marriage or make a
 valid will, or bind himself by a contract, if he is sober enough to know
 what he is doing, and no improper advantage of his condition is taken
-(cf. _Matthews_ v. _Baxter_, 1873, L.R. 8 Ex. 132; _Imperial Loan Co._
+(cf. _[[Matthew|Matthews]]_ v. _Baxter_, 1873, L.R. 8 Ex. 132; _Imperial Loan Co._
 v. _Stone_, 1892, 1 Q.B. 599). The law is the same in Scotland and in
 Ireland; and the Sale of Goods Act 1893 (which applies to the whole
 United Kingdom) provides that where necessaries are sold and delivered
@@ -33,23 +33,23 @@ contractual capacity unless it is of such a degree as to prevent the
 person labouring under it from understanding the nature of the
 transaction into which he is entering (Bouvier, _Law Dict._, s.v.
 "Drunkenness"; and cf. _Waldron_ v. _Angleman_, 1004, 58 Atl. 568;
-_Fowler_ v. _Meadow Brook Water Co._, 1904, 57 Atl. 959; 208 Penn.,
+_[[Fowler]]_ v. _Meadow Brook Water Co._, 1904, 57 Atl. 959; 208 Penn.,
 473). The same rule is by implication adopted in the Indian Contract Act
 (Act ix. of 1872), which provides (s. 12) that "a person is ... of sound
 mind for the purpose of making a contract if, at the time when he makes
 it, he is capable of understanding it and of forming a rational judgment
 as to its effect upon his interests." In some legal systems, however,
 habitual drunkenness is a ground for divorce or judicial separation
-(Sweden, Law of the 27th of April 1810; France, Code Civil, Art. 231,
+(Sweden, Law of the 27th of April 1810; France, [[Code]] Civil, Art. 231,
 _Hirt_ v. _Hirt_, Dalloz, 1898, pt. ii., p. 4, and n. 4).
 
-II. _Criminal Responsibility._--In English law, drunkenness, unlike
+II. _Criminal Responsibility._--In [[English Law|English law]], drunkenness, unlike
 insanity, was at one time regarded as in no way an excuse for crime.
 According to Coke (Co. Litt., 247) a drunkard, although he suffers from
 acquired insanity, _dementia affectata_, is _voluntarius daemon_, and
 therefore has no privilege in consequence of his state; "but what hurt
 or ill soever he doth, his drunkenness doth aggravate it." Sir Matthew
-Hale (P.C. 32) took a more moderate view, viz. that a person under the
+[[Hale]] (P.C. 32) took a more moderate view, viz. that a person under the
 influence of this voluntarily contracted madness "shall have the same
 judgment as if he were in his right senses"; and admitted the existence
 of two "allays" or qualifying circumstances: (1) _temporary_ frenzy
@@ -60,14 +60,14 @@ undergone considerable development and modification.
 Although the general principle that drunkenness is not an excuse for
 crime is still steadily maintained (see Russell, _Crimes_, 6th ed., i.
 144; Archbold, _Cr. Pl._, 23rd ed., p. 29), it is settled law that where
-a particular intent is one of the constituent elements of an offence,
+a particular [[Intent|intent]] is one of the constituent elements of an offence,
 the fact that a prisoner was intoxicated at the time of its commission
 is relevant evidence to show that he had not the capacity to form that
-intent. Drunkenness is also a circumstance of which a jury may take
+intent. Drunkenness is also a circumstance of which a [[Jury|jury]] may take
 account in considering whether an act was premeditated, or whether a
 prisoner acted in self-defence or under provocation, when the question
 is whether the danger apprehended or the provocation was sufficient to
-justify his conduct or to alter its legal character. Moreover, _delirium
+justify his conduct or to alter its legal character. Moreover, _[[Delirium|delirium]]
 tremens_, if it produce such a degree of madness as to render a person
 incapable of distinguishing right from wrong, relieves him from criminal
 responsibility for any act committed by him while under its influence;
@@ -77,7 +77,7 @@ derangement occasioned by drink. The law of Scotland accepts, if it does
 not go somewhat beyond, the later developments of that of England in
 regard to criminal responsibility in drunkenness. Indian law on the
 point is similar to the English (Indian Penal Code, Act. xlv. of 1860,
-ss. 85, 86; Mayne, _Crim. Law of India_, ed. 1896, p. 391). In the
+ss. 85, 86; [[Mayne]], _Crim. Law of India_, ed. 1896, p. 391). In the
 United States the same view is the prevalent legal doctrine (see Bishop,
 _Crim. Law_, 8th ed., i, ss. 397-416). The Criminal Code of Queensland
 (No. 9 of 1899, Art. 28) provides that a person who becomes intoxicated
@@ -97,14 +97,14 @@ intoxication, be deemed to have done any act involuntarily, or be exempt
 from any liability to punishment for any act: and a person who does an
 act while in a state of intoxication shall be deemed to have intended
 the natural and probable consequences of his act." There is a similar
-provision in the Criminal Code of the Gold Coast Colony (No. 12 of 1892,
+provision in the Criminal Code of the [[Gold Coast]] Colony (No. 12 of 1892,
 s. 54). Under the French Penal Code (Art. 64), "_il n'y a ni crime, ni
 délit, lorsque le prévenu était en état de démence au temps de l'action
 ou lorsqu'il aura été contraint par une force à laquelle il n' a pu
-résister_." According to the balance of authority (Dalloz, _Rép._ tit.,
+résister_." According to the [[Balance|balance]] of authority (Dalloz, _Rép._ tit.,
 Peine, ss. 402 et seq.) intoxication is not assimilated to insanity,
 within the meaning of this article, but it may be and is taken account
-of by juries as an extenuating circumstance (Ortolan, _Droit Pénal_ i.
+of by juries as an extenuating circumstance (Ortolan, _[[Droit]] Pénal_ i.
 s. 323: Chauveau et Hélie i. s. 360). A provision in the German Penal
 Code (Art. 51) that an act is not punishable if its author, at the time
 of committing it, was in a condition of unconsciousness, or morbid
@@ -121,7 +121,7 @@ question how far drunkenness itself is a crime. Mere private
 intoxication is not, either in England or in the United States (Bishop,
 _Crim. Law_, 8th ed., i. s. 399) indictable as an offence at common law;
 but in all civilized countries public drunkenness is punishable when it
-amounts to a breach of the peace (see LIQUOR LAWS) or contravention of
+amounts to a [[Breach|breach]] of the peace (see LIQUOR LAWS) or contravention of
 public order; and modern legislation in many countries provides for
 deprivation of personal liberty for long periods in case of a frequent
 repetition of the offence. Reference may be made in this connexion to
@@ -142,34 +142,34 @@ New South Wales (Liquor Act 1898, ss. 52, 53); Cape of Good Hope (No. 28
 of 1883, s. 89); New York (Rev. Stats. 1889-1892, c. 20, Title iv.);
 California (Act to prevent sale of liquor to drunkards, 1889);
 Massachusetts (Pub. Stats., ed. 1902, c. 100, s. 9). (d) Laws regulating
-the appointment of some person or persons to act as guardian or
+the appointment of some person or persons to act as [[Guardian|guardian]] or
 guardians, or who may be endowed with legal powers over the person and
 estate of an inebriate. Thus in France (Code Civil, Arts. 489 et seq.),
 Germany (Civil Code, Art. 6 (39)) and Austria-Hungary (_Bürgerliches
 Gesetz-Buch_, ss. 21, 269, 270, 273), an inebriate may be judicially
 interdicted if he is squandering his property and thereby exposing his
 family to future destitution. Provision is also made for the
-interdiction of inebriates by the laws of Nova Scotia (Rev. Stats. 1900,
+[[Interdiction|interdiction]] of inebriates by the laws of Nova Scotia (Rev. Stats. 1900,
 c. 126, s. 2), Manitoba (Rev. Stat. 1902, c. 103, ss. 30 et seq.),
-British Columbia (Rev. Stat. 1897, c. 66), New South Wales (Inebriates
+[[British Columbia]] (Rev. Stat. 1897, c. 66), New South Wales (Inebriates
 Act 1900, s. 5), Tasmania (Inebriates Act 1885, No. 17, s. 23); Canton
 of Bâle (Trustee Law of the 23rd of Feb. 1880, s. 11), Orange River
 Colony (Code Laws, c. 108, s. 30), Maryland (Code General Laws, c. 474,
 s. 47). (e) Control for the purpose of reformation. Legislation of this
 character provides reformatory treatment: (1) for the inebriate who
 makes a voluntary application for admission; (2) by compulsory seclusion
-for the inebriate who refuses consent to treatment and yet manages to
+for the inebriate who refuses consent to treatment and yet [[Manage|manages]] to
 keep out of the reach of the law; (3) for the inebriate who is a
 police-court recidivist, or who has committed crime, caused or
 contributed to by drink. The legislation of the Cape of Good Hope
 (Inebriates Act 1896) and of North Dakota (Habitual Drunkards Act 1895)
 provides for the first of these methods of treatment alone. Compulsory
 detention for ordinary inebriates only is provided for by the laws of
-Delaware (Act of 1898), Massachusetts (Rev. Laws, c. 87), and of the
+[[Delaware]] (Act of 1898), Massachusetts (Rev. Laws, c. 87), and of the
 Cantons of Berne (Law of the 24th of Nov. 1883) and Bâle (Law of the
 21st of Feb. 1901). All three methods of treatment are in force in New
 South Wales (Inebriates Act 1900), Queensland (Inebriates Institutions
-Act 1896) and South Australia (Inebriates Act 1881). Provision is made
+Act 1896) and South [[Australia]] (Inebriates Act 1881). Provision is made
 only for voluntary application and compulsory detention of ordinary
 inebriates in Victoria (Inebriates Act 1890), Tasmania (Inebriates Act
 1885; Inebriates Hospitals Act 1892) and New Zealand (Inebriates
@@ -191,11 +191,11 @@ habitual drunkenness made him a "lunatic" in the legal sense of the
 term, but where it created, such a state of disease and consequential
 "mental infirmity" as to bring his case within section 116 of the Lunacy
 Act 1890, the effect of which is explained in the article Insanity. Any
-"habitual drunkard" within the above definition may obtain admission to
+"habitual drunkard" within the above [[Definition|definition]] may obtain admission to
 a "licensed retreat" on a written application to the licensee, stating
 the time (the maximum period is two years) that he undertakes to remain
 in the retreat. The application must be accompanied by the statutory
-declaration of two persons that the applicant is an habitual drunkard,
+[[Declaration|declaration]] of two persons that the applicant is an habitual drunkard,
 and its signature must be attested by a justice of the peace who has
 satisfied himself as to the fact, and who is required to state that the
 applicant understood the nature and effect of his application. Licences
@@ -208,8 +208,8 @@ be renewed by the licensing authority on payment of a stamp duty of the
 same amount as on the original grant. When an habitual drunkard has once
 been committed to a retreat, he must remain in the retreat for the time
 that he has fixed in his application, subject to certain statutory
-provisions similar to those prescribed by the Lunacy Acts for asylums as
-to leave of absence and discharge; and he may be retaken and brought
+provisions similar to those prescribed by the Lunacy Acts for [[Asylum|asylums]] as
+to leave of absence and [[Discharge|discharge]]; and he may be retaken and brought
 back to the retreat under a justice's warrant. The term of detention may
 be extended on its expiry, or an inebriate may be readmitted, on a fresh
 application, without any statutory declaration, and without the
@@ -258,7 +258,7 @@ on indictment, or, if he consent, on summary conviction, be sent for
 detention in any certified inebriate reformatory. The expenses of
 prosecuting habitual drunkards under the above provisions are payable
 out of the local rates upon an order to that effect by the judge of
-assize or chairman of quarter-sessions if the prosecution be on
+[[Assize|assize]] or chairman of quarter-sessions if the prosecution be on
 indictment, or by a court of summary jurisdiction if the offence is
 dealt with summarily.
 

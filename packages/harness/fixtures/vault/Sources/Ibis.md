@@ -10,12 +10,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ibis"
 
 IBIS, one of the sacred birds of the ancient Egyptians. James Bruce
 identified this bird with the _Abu-Hannes_ or "Father John" of the
-Abyssinians, and in 1790 it received from Latham (_Index
+Abyssinians, and in 1790 it received from Latham (_[[Index]]
 ornithologicus_, p. 706) the name of _Tantalus aethiopicus_. This
 determination was placed beyond question by Cuvier (_Ann. du Muséum_,
 iv. 116-135) and Savigny (_Hist. nat. et mythol. de l'ibis_) in 1805.
 They, however, removed it from the Linnaean genus _Tantalus_ and,
-Lacépède having some years before founded a genus _Ibis_, it was
+[[Lac]]épède having some years before founded a genus _Ibis_, it was
 transferred thither, and is now generally known as _I. aethiopica_,
 though some speak of it as _I. religiosa_. No attempt can here be made
 to treat the ibis from a mythological or antiquarian point of view.
@@ -24,8 +24,8 @@ Wilkinson (_Ancient Egyptians_, ser. 2, vol. ii. pp. 217-224) added some
 of the results of later research, and Renouf in his _Hibbert Lectures_
 explains the origin of the myth.
 
-The ibis is chiefly an inhabitant of the Nile basin from Dongola
-southward, as well as of Kordofan and Sennar; whence about midsummer it
+The ibis is chiefly an inhabitant of the Nile basin from [[Dongola]]
+southward, as well as of [[Kordofan]] and Sennar; whence about midsummer it
 moves northwards to Egypt.[1] In Lower Egypt it bears the name of
 _Abu-mengel_, or "father of the sickle," from the form of its bill, but
 it does not stay long in that country, disappearing when the Nile has
@@ -33,31 +33,31 @@ subsided. Hence most travellers have failed to meet with it there[2]
 (since their acquaintance with the birds of Egypt is limited to those
 which frequent the country in winter), and writers have denied generally
 to this species a place in its modern fauna (cf. Shelley, _Birds of
-Egypt_, p. 261). However, in 1864, von Heuglin (_Journ. für
+Egypt_, p. 261). However, in 1864, von [[Heuglin]] (_Journ. für
 Ornithologie_, 1865, p. 100) saw a young bird which had been shot in the
-Delta, and E. C. Taylor (_Ibis_, 1878, p. 372) saw an adult which had
+[[Delta]], and E. C. Taylor (_Ibis_, 1878, p. 372) saw an adult which had
 been killed near Lake Menzal in 1877. The story told to Herodotus of its
 destroying snakes is, according to Savigny, devoid of truth, but Cuvier
 states that he discovered partly digested remains of a snake in the
 stomach of a mummied ibis.
 
 The ibis is somewhat larger than a curlew, _Numenius arquata_, which
-bird it resembles, with a much stouter bill and stouter legs. The head
+bird it resembles, with a much stouter bill and stouter [[Leg|legs]]. The head
 and greater part of the neck are bare and black. The plumage is white,
 except the primaries, which are black, and a black plume, formed by the
 secondaries, tertials and lower scapulars, and richly glossed with
 bronze, blue and green, which curves gracefully over the hind-quarters.
 The bill and feet are also black. The young lack the ornamental plume,
-and in them the head and neck are clothed with short black feathers,
+and in them the head and neck are clothed with short black [[Feather|feathers]],
 while the bill is yellow. The nest is placed in bushes or high trees,
 the bird generally building in companies, and in the middle of August
 von Heuglin (_Orn. Nord-Ost-Afrikas_, p. 1138) found that it had from
-two to four young or much incubated eggs.[3] These are of a dingy white,
+two to four young or much incubated [[Egg|eggs]].[3] These are of a dingy white,
 splashed, spotted and speckled with reddish-brown.
 
 Congeneric with the typical ibis are two or three other species, the _I.
 melanocephala_ of India, the _I. molucca_ or _I. strictipennis_, of
-Australia, and the _I. bernieri_ of Madagascar, all of which closely
+[[Australia]], and the _I. bernieri_ of [[Madagascar]], all of which closely
 resemble _I. aethiopica_; while many other forms not very far removed
 from it, though placed by authors in distinct genera,[4] are known.
 Among these are several beautiful species such as the Japanese
@@ -70,7 +70,7 @@ Africa, Asia and Australia. This bird, believed to be the second kind of
 ibis spoken of by Herodotus, is rather smaller than the sacred ibis, and
 mostly of a dark chestnut colour with brilliant green and purple
 reflections on the upper parts, exhibiting, however, when young none of
-the rufous hue. This species lays eggs of a deep sea-green colour,
+the rufous [[Hue|hue]]. This species lays eggs of a deep sea-green colour,
 having wholly the character of heron's eggs, and it often breeds in
 company with herons, while the eggs of all other ibises whose eggs are
 known resemble those of the sacred ibis. Though ibises resemble the
@@ -92,7 +92,7 @@ FOOTNOTES:
     southern Russia).
 
   [2] E. C. Taylor remarked (_Ibis_, 1859, p. 51), that the buff-backed
-    heron, _Ardea bubulcus_, was made by the tourists' dragomans to do
+    heron, _[[Ardea]] bubulcus_, was made by the tourists' [[Dragoman|dragomans]] to do
     duty for the "sacred ibis," and this seems to be no novel practice,
     since by it, or something like it, Hasselqvist was misled, and
     through him Linnaeus.
@@ -103,7 +103,7 @@ FOOTNOTES:
   [4] For some account of these may be consulted Dr Reichenow's paper
     in _Journ. für Ornithologie_ (1877), pp. 143-156; Elliot's in _Proc.
     Zool. Society_ (1877), pp. 477-510; and that of Oustalet in _Nouv.
-    Arch. du Muséum_, ser. 2, vols. i. pp. 167-184.
+    [[Arch]]. du Muséum_, ser. 2, vols. i. pp. 167-184.
 
   [5] It is a popular error--especially among painters--that this bird
     was the sacred ibis of the Egyptians.

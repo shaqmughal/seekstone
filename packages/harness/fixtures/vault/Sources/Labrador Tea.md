@@ -9,11 +9,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Labrador_T
 # Labrador Tea
 
 LABRADOR TEA, the popular name for a species of _Ledum_, a small
-evergreen shrub growing in bogs and swamps in Greenland and the more
+evergreen shrub growing in [[Bog|bogs]] and swamps in Greenland and the more
 northern parts of North America. The leaves are tough, densely covered
 with brown wool on the under face, fragrant when crushed and have been
 used as a substitute for tea. The plant is a member of the heath family
-(Ericaceae).
+([[Ericaceae]]).
 
 ## References
 

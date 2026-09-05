@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Conveyanci
 
 # Conveyancing
 
-CONVEYANCING, in English law, the art or science of conveying or
+CONVEYANCING, in [[English Law|English law]], the art or science of conveying or
 effecting the transfer of property, or modifying interests in relation
 to property, by means of written documents.
 
@@ -19,12 +19,12 @@ the change, generally accompanied by some public ceremony, in the actual
 physical possession: the function of documents, where used, being merely
 the preservation of evidence. Thus, in Great Britain in the feudal
 period, the common mode of conveying an immediate freehold was by
-_feoffment with livery of seisin_--a proceeding in which the transferee
+_[[Feoffment|feoffment]] with [[Livery|livery]] of seisin_--a proceeding in which the transferee
 was publicly invested with the feudal possession or _seisin_, usually
 through the medium of some symbolic act performed in the presence of
 witnesses upon the land itself. A deed or charter of feoffment was
 commonly executed at the same time by way of record, but formed no
-essential part of the conveyance. In the language of the old rule of the
+essential part of the [[Conveyance|conveyance]]. In the language of the old rule of the
 common law, the immediate freehold in corporeal hereditaments lay in
 livery, whereas reversions and remainders and all incorporeal
 hereditaments lay in grant, i.e. passed by the delivery of the deed of
@@ -34,7 +34,7 @@ private conveyancing by simple deed was established, constitutes a long
 chapter in English legal history.
 
   The land of a feudal owner was subject to the risk of forfeiture for
-  treason, and to military and other burdens. The common law did not
+  treason, and to military and other [[Burden|burdens]]. The common law did not
   allow him to dispose of it by will. By the law of mortmain religious
   houses were prohibited from acquiring it. The desire to escape from
   these burdens and limitations gave rise to the practice of making
@@ -65,7 +65,7 @@ chapter in English legal history.
 
   But the statute not only failed to abolish uses: it also opened the
   way to the evasion of the public ceremony of livery of seisin, and the
-  avoidance of all notoriety in conveyances. Other ways, besides an
+  [[Avoidance|avoidance]] of all notoriety in conveyances. Other ways, besides an
   actual feoffment to uses, of creating a use had been in vogue before
   the statute. If A bargained with B, in writing or not, for the sale of
   land, and B paid the price, but A remained in legal possession, the
@@ -125,7 +125,7 @@ certainly since printing became common. The modern precedent is, upon
 the whole, concise and businesslike. The prolixity which formerly
 characterized most legal documents has largely disappeared, mainly
 through the operation of statutes which enable many clauses previously
-inserted at great length to be, in some cases, e.g. covenants for title,
+inserted at great length to be, in some cases, e.g. [[Covenant|covenants]] for title,
 incorporated by the use of a few prescribed words, and in others safely
 omitted altogether. The Solicitors' Remuneration Act 1881, has also
 assisted the process of curtailment, for there is now little or no
@@ -140,7 +140,7 @@ businesslike as possible.
 
 It is not usual for land to be sold without a formal agreement in
 writing being entered into. This precaution is due, partly to the
-Statute of Frauds (§ 4), which renders a contract for the sale of land
+Statute of [[Fraud|Frauds]] (§ 4), which renders a contract for the sale of land
 unenforceable by action "unless the agreement upon which such action
 shall be brought, or some memorandum or note thereof, shall be in
 writing and signed by the party to be charged therewith or some other
@@ -415,7 +415,7 @@ solicitor at the expense of the lessee; but the cost of the counterpart
 lessor.
 
 
-  Assignment of leaseholds.
+  [[Assignment]] of leaseholds.
 
 Upon the sale and conveyance of a leasehold property substantially the
 same procedure is observed as above indicated in the case of a freehold.
@@ -472,7 +472,7 @@ but they are absolute and not qualified in the manner above pointed out.
   terms: (1) a power of sale exercisable after the mortgage money has
   become due (a) if notice requiring payment has been served and not
   complied with for three months, (b) if any interest is in arrear for
-  two months, or (c) there has been a breach of some obligation under
+  two months, or (c) there has been a [[Breach|breach]] of some obligation under
   the deed or the act other than the covenant for payment of the
   mortgage money or interest; (2) a power to insure subject to certain
   restrictions; (3) a power, when entitled to sell, to appoint a
@@ -525,7 +525,7 @@ generally conveys "as settlor," by which only a covenant for further
 assurance is implied under the Conveyancing Act 1881. Personal
 settlements are most often made upon marriage. The settled property is
 vested in trustees, either by the settlement itself, or in the case of
-cash, mortgage debts, stocks or shares, by previous delivery or
+[[Cash|cash]], mortgage debts, stocks or shares, by previous delivery or
 transfer, upon trusts declared by the instrument.
 
   The normal trusts after the marriage are (1) for investment; (2) for
@@ -545,7 +545,7 @@ transfer, upon trusts declared by the instrument.
   the trustees with the consent of the parents whilst respectively
   living to raise a part (usually a half) of the share of a child and
   apply it for his or her advancement or benefit. Power to apply income,
-  after the death of the life tenants, for the maintenance and education
+  after the death of the life tenants, for the [[Maintenance|maintenance]] and education
   of infants entitled in expectancy, is conferred upon trustees by the
   Conveyancing Act 1881. The ultimate trusts in the event of there being
   no children who attain vested interests are (1) of the husband's
@@ -553,7 +553,7 @@ transfer, upon trusts declared by the instrument.
   persons as she shall when discovert by deed, or whether covert or
   discovert by will, appoint, and in default of appointment, for her
   absolutely if she survive the husband, but if not, then for her next
-  of kin under the Statute of Distributions, excluding the husband. For
+  of [[Kin|kin]] under the Statute of Distributions, excluding the husband. For
   all ordinary purposes the trustees have now under various statutes
   sufficient powers and indemnities. They may, however, in some cases
   need special protection against liability. A power of appointing new
@@ -653,11 +653,11 @@ The general prevalence of public registry systems has had an influence
 in the development of American jurisprudence in the direction of
 supporting provisions in wills and conveyances, which, unless generally
 known, might tend to mislead and deceive, such as spendthrift trusts
-(_Nichols_ v. _Eaton_, 91 United States Reports, 716).
+(_Nichols_ v. _[[Eaton]]_, 91 United States Reports, 716).
 
 Conveyances of real estate are simple in form, and are often prepared by
 those who have had no professional training for the purpose. Printed
-blanks, sold at the law-stationers, are commonly employed. The lawyers
+[[Blank|blanks]], sold at the law-stationers, are commonly employed. The lawyers
 in each state have devised forms for such blanks, sometimes peculiar in
 some points to the particular state, and sometimes copied verbatim from
 those in use elsewhere. Deeds intended to convey an absolute estate are
@@ -675,7 +675,7 @@ release deeds, another for recording mortgage deeds, another for leases,
 &c.
 
   AUTHORITIES.--Davidson, _Precedents and Forms in Conveyancing_
-  (London, 1877 and 1885); Key and Elphinstone, _Compendium of
+  (London, 1877 and 1885); [[Key]] and [[Elphinstone]], _Compendium of
   Precedents in Conveyancing_ (London, 1904); Elphinstone, _Introduction
   to Conveyancing_ (London, 1900); Prideaux, _Precedents in
   Conveyancing_ (1904); Pollock, _The Land Laws_ (London, 1896).
@@ -691,7 +691,7 @@ article, however, are included a variety of appliances for moving
 materials in horizontal, vertical and combined horizontal and vertical
 directions. The material so handled may be conveyed in a practically
 uninterrupted stream, as in the case of worms, bands and pushplate
-conveyors, or elevators carrying grain or coal, &c.; or it may be
+conveyors, or [[Elevators|elevators]] carrying grain or coal, &c.; or it may be
 conveyed from one point to another, intermittently, that is to say in a
 succession of separate loads, as happens with single bucket elevators,
 furnace hoists, rope and chain haulage, and also in the case of ropeways
@@ -712,7 +712,7 @@ simultaneously quenching and conveying the glowing material, has been
 solved. Perhaps an even more astonishing piece of work is the
 manipulation of the iron from the blast furnace; for instance, liquid
 metal is drawn from a furnace into pouring pots which in their turn
-discharge it to and distribute it over a pig-iron casting machine, which
+discharge it to and distribute it over a pig-iron casting [[Machine|machine]], which
 is practically a conveyor for liquid metal, consisting of a strand of
 moving moulds from which the solidified pigs, after cooling in water,
 are automatically removed after reaching the loading terminal over the
@@ -787,7 +787,7 @@ very considerable; a continuous worm of 18 to 20 in. diameter running at
 60 revolutions per minute will convey 50 tons of grain per hour over a
 distance of a hundred feet at an expenditure of 18½ to 19 H.P. A
 material like cement would require rather more power because of the
-greater friction of the cement against the blades and the trough.
+greater [[Friction|friction]] of the cement against the blades and the trough.
 Delivery from a worm conveyor can be effected at any desired point, all
 that is necessary being to cut an outlet, which should preferably be as
 wide as the diameter of the worm, because the worm delivers only on its
@@ -804,7 +804,7 @@ also requires more power. Its efficiency is, moreover, easily impaired
 if run at too high a speed, because the centrifugal force asserts itself
 and counteracts the propulsion, which in this case is effected by
 gravity. Some experiments made in 1868 by George Fosbery Lyster,
-engineer of the Liverpool docks, gave convincing results (see _Proc.
+engineer of the Liverpool [[Dock|docks]], gave convincing results (see _Proc.
 Inst. Mech. Eng._, August 1869). The tubular worm conveyor is suitable
 where a granular material has to be moved over a comparatively short
 distance, say from one building to another on the same level, and where
@@ -827,7 +827,7 @@ a dry state, or poultry food, this appliance is thoroughly well adapted
 for the work. On the other hand, there is a grinding action exercised on
 any material conveyed, and when hard or cutting substances are handled
 the wear and tear on the conveyor blades, trough and bearings is very
-great, and the power absorbed by a worm conveyor is a sensible item.
+great, and the power absorbed by a worm conveyor is a sensible [[Item|item]].
 
 _Band Conveyors._--The inventor of band conveyors for the handling of
 grain and minerals was G. F. Lyster, who, as already mentioned, in 1868
@@ -863,7 +863,7 @@ any distance apart by the use of two additional pulleys for the
 terminals. This arrangement would be in place where it was desired, as
 it might be, to run one strand of the band along the top floor of the
 granary to distribute, while the other strand travelled along the
-ground-floor or basement to withdraw, the grain.
+ground-floor or [[Basement|basement]] to withdraw, the grain.
 
 [Illustration: FIG. 6.--Throw-off Carriage for Band Conveyor.]
 
@@ -907,7 +907,7 @@ and tear, are often made of solid india-rubber extending to nearly half
 the thickness of the band in the middle, and tapering off towards the
 edges, while the surface facing the guide rollers is of insertion coated
 with india-rubber. Bands properly prepared and stretched will bear a
-strain of 3 tons to the square inch. Balata bands may be used in place
+strain of 3 tons to the square [[Inch|inch]]. Balata bands may be used in place
 of india-rubber, but though less expensive are not so lasting. Bands
 that have to carry coal or minerals are usually curved along the entire
 length of the upper or loaded strand into a trough shape by guide
@@ -982,9 +982,9 @@ pushing agent, such as belong to worm, push-plate and cable trough
 conveyors. For materials requiring gentle treatment, this type of
 conveyor is eminently suitable. There are different kinds of vibrating
 trough conveyors. In one type the trough is caused to make a
-reciprocating motion by means of a crank and connecting rod, the trough
+reciprocating motion by means of a [[Crank|crank]] and connecting rod, the trough
 itself being supported on rollers. In another type the trough is
-actuated by a cam, or by cranks with some kind of quick return motion.
+actuated by a [[Cam|cam]], or by cranks with some kind of quick return motion.
 In the appliance known as the Zimmer or swinging conveyor the trough is
 supported in its reciprocating motion by means of laminated spring legs
 set obliquely to the trough. These legs are securely bolted at one end
@@ -1121,7 +1121,7 @@ effected automatically. Whilst such a plant has the advantage of
 requiring only one driving gear, a breakdown at one point of the
 installation means the stoppage of the whole.
 
-  Among typical conveyors on this system is the Hunt conveyor (fig. 10),
+  Among typical conveyors on this system is the [[Hunt]] conveyor (fig. 10),
   which consists of a double link carrying a series of pivoted buckets
   which are free to revolve on their axes at all points, except at that
   point at which they discharge. This operation is effected by a cam
@@ -1130,7 +1130,7 @@ installation means the stoppage of the whole.
   pawls which engage with the cross studs of the chain and have a
   central thrusting action. Another well-known appliance of this type is
   the pan bucket conveyor. This consists of a continuous trough built in
-  sections and supported on axles and guide wheels running on suitable
+  sections and supported on [[Axle|axles]] and guide wheels running on suitable
   rails. There is one axle to each section, and in each section of the
   trough a bucket is pivoted to the sides. There are several other
   conveyors of this type, amongst which the "Tipit" should be mentioned.
@@ -1138,7 +1138,7 @@ installation means the stoppage of the whole.
   any curve backwards or forwards in both planes, and is therefore
   adaptable for installations when the typical gravity bucket would be
   useless. The buckets of this conveyor are coupled together by a link
-  in the middle, which obviously allows more latitude in negotiating
+  in the middle, which obviously allows more [[Latitude|latitude]] in negotiating
   curves than the double chain of most of the other types.
 
 _Pneumatic Grain Elevators_ have been employed with good effect in
@@ -1170,7 +1170,7 @@ Duckham, the process is somewhat different. An air-tight tank or
 receiver, 8 to 10 ft. in diameter and 10 to 20 ft. high, is fitted with
 a hopper bottom, and is erected, if floating, on a barge, at a
 sufficient height to allow grain falling from the hopper bottom, and
-passing through an air lock, to be delivered by gravity through a shoot
+passing through an air [[Lock|lock]], to be delivered by gravity through a shoot
 into the vessel being loaded. A pipe connects the vacuum tank with the
 exhaust pumps. Several flexible pipes of sufficient length to reach any
 corner of the ship to be unloaded, may be connected with the vacuum
@@ -1195,8 +1195,8 @@ From this section the grain is discharged by an outlet pipe by the
 agency of compressed air. A similar system was introduced by Messrs
 Haviland & Farmer, who have, however, since abandoned it on account of
 difficulties connected with the application of the blast, which was
-found to abrade the grain rather severely, especially at the bends in
-the pipes. An even greater objection was the delivery of dust with the
+found to abrade the grain rather severely, especially at the [[Bend|bends]] in
+the pipes. An even greater objection was the delivery of [[Dust|dust]] with the
 grain, which made it impossible for trimmers to remain in the hold while
 the elevator was at work. Messrs Haviland and Farmer now work on the
 suction system, in which they claim to have introduced several
@@ -1212,7 +1212,7 @@ capable of elevating 160 tons of grain per hour with 375 i.h.p.
 
 The only objection to pneumatic elevators appears to be that of expense.
 The cost of installation is relatively heavy, and the power required for
-working is large. But in dealing with vessels carrying heavy cargoes of
+working is large. But in dealing with vessels carrying heavy [[Cargo|cargoes]] of
 grain the saving of labour and demurrage is sufficient to justify the
 large outlay of capital required in ports where there is sufficient
 grain traffic.
@@ -1287,7 +1287,7 @@ lieu of human arms, by endless ropes or even small locomotives.
   travel is about 45 ft. per minute, while the capacity when handling
   coke from 20 ft. retorts is some 30 tons per hour.
 
-  A conveyor made by Messrs Graham, Morton & Co., consists of a
+  A conveyor made by Messrs [[Graham]], Morton & Co., consists of a
   travelling tray, the sections of which are joined together by steel
   spindles provided with a roller at each end, the latter running on
   suitable rails. These sections consist of steel castings with a number
@@ -1305,9 +1305,9 @@ lieu of human arms, by endless ropes or even small locomotives.
   wheel. The chain of buckets runs in the trough, the sides forming the
   rails for the supporting rollers. The conveyor is covered in along its
   whole length, and forms a sort of flue which is connected at each
-  bench with a number of shoots through which the coke drops into the
+  [[Bench|bench]] with a number of shoots through which the coke drops into the
   conveyor buckets. A pipe of large diameter is connected with an
-  exhaust fan, which draws away the fumes created by the quenching
+  exhaust [[Fan|fan]], which draws away the fumes created by the quenching
   process, and sends them into a chimney discharging into the open. The
   chain and buckets, being carried on rollers which run on the outer
   edge of the trough, cannot come in contact either with the hot coke
@@ -1326,7 +1326,7 @@ lieu of human arms, by endless ropes or even small locomotives.
   the supporting wheels.
 
   The West hot coke conveyor consists of a strongly-built trough in
-  which a single wide chain partly carries and partly drags the coke. In
+  which a single wide chain partly carries and partly [[Drag|drags]] the coke. In
   the trough is a false bottom, the plates of which are loosely fixed
   and kept in position by angle irons on which the chain drags. By two
   arm-like extensions the links of the chain are widened right across
@@ -1351,7 +1351,7 @@ lieu of human arms, by endless ropes or even small locomotives.
   cast or wrought iron, or mild steel, 20 to 36 in. wide and 3 to 6 in.
   deep. Double endless chains run in the corners of the trough, the two
   chains being connected together by round cross bars set 30 in. apart,
-  so as to form a sort of ladder. The hot coke is carried or dragged
+  so as to form a sort of [[Ladder|ladder]]. The hot coke is carried or dragged
   along by these bars. One end of the trough is closed and the other is
   bent upwards with a view to retaining the quenching water. As the hot
   coke is dragged along it is subjected to the action of jets of water.
@@ -1364,8 +1364,8 @@ lieu of human arms, by endless ropes or even small locomotives.
   horizontal have been surmounted. In a modification of the De Brouwer
   conveyor, installed at the Cassel gas works, the bars which form the
   rungs of the conveyor were replaced by cast iron rakes. In another
-  modified form, the work of F. A. Marshall, to be found in the
-  Copenhagen gas works, sluices are provided for withdrawing an excess
+  modified form, the work of F. A. [[Marshall]], to be found in the
+  [[Copenhagen]] gas works, sluices are provided for withdrawing an excess
   of water at any point in the trough.
 
   In Great Britain a hot coke conveyor has been designed on similar
@@ -1399,7 +1399,7 @@ more scope for cooling the coke in front of the oven before it is
 removed to the conveyor, the work being all effected in the open.
 
 _Elevators._--This term is here confined to its proper meaning (in
-English engineering treatises) of a device for raising material in a
+English [[Engineering|engineering]] treatises) of a device for raising material in a
 vertical or slanting direction by means of buckets attached to endless
 belts or chains. Lifts for passengers are also sometimes termed
 elevators (q.v.), and in America the term is also currently applied to
@@ -1535,7 +1535,7 @@ all these cases the elevator is fed with the material in a continuous
 stream, and by some mechanical means; whether by band, worm or shoot, is
 immaterial. Elevators of a somewhat different and more substantial
 construction may be and are often used for handling filled sacks,
-barrels, carcases of animals and other bulky objects, which cannot be
+[[Barrel|barrels]], carcases of animals and other bulky objects, which cannot be
 delivered in a uniform stream, but may have to be conveyed by the
 elevator intermittently. The ordinary buckets used for grain or coal are
 replaced by other appliances for gripping and holding the object to be
@@ -1551,7 +1551,7 @@ material of too large a bulk to be handled economically by ordinary
 elevators, and is employed for lifting in either a vertical or, more
 often, an inclined direction.
 
-For elevating materials, such as large coal, iron ore, limestone, &c.,
+For elevating materials, such as large coal, iron ore, [[Limestone|limestone]], &c.,
 which are too large to be fed into ordinary elevators, and must
 therefore be handled intermittently, the single bucket elevator or hoist
 may be used with advantage. But as the essential use of mechanical
@@ -1639,7 +1639,7 @@ pulleys suspended on posts; to the rope were attached a number of small
 buckets, which evidently carried earth from a hill outside the city to
 the rampart inside the moat. The rope was probably of hemp. Modern
 ropeways worked with wire ropes date from about 1860, when a ropeway was
-erected in the Harz Mountains. Since then several systems have been
+erected in the [[Harz Mountains]]. Since then several systems have been
 evolved, but in the main ropeways may be divided into the single and
 double rope class.
 
@@ -1701,7 +1701,7 @@ be covered by a railway with less than 15 m. of line graded at 1 in 40.
   of Ropeways Limited should be noted, which favours a single rope
   system. Their engineer, J. Pearce Roe, introduced multiple sheaves for
   supporting the rope at each standard. Thus the rope may pass over one,
-  two or four sheaves, which are provided with balance beams that have
+  two or four sheaves, which are provided with [[Balance|balance]] beams that have
   the advantage of adjusting themselves to the angle caused by the rope
   passing over the sheaves, thus equalizing the pressure over a number
   of sheaves. A ropeway erected on this system in Japan spans 4000 yds.
@@ -1770,7 +1770,7 @@ very useful when fitted with a self-filling drag bucket, which will take
 the place of a great number of hands. Cableways can be worked at a great
 speed, but a good mean speed would be 500 to 750 ft. for conveying and
 200 to 300 ft. for hoisting. A cableway used in excavating work in
-Chicago was credited with a capacity of 400 to 600 cub. yds. per day at
+[[Chicago]] was credited with a capacity of 400 to 600 cub. yds. per day at
 a total cost of 2d. per yard, including labour, coal, oil, waste, &c.
 
 _Coaling Ships at Sea._--In the coaling of ships at sea the cableway has
@@ -1779,11 +1779,11 @@ be carried out present many difficulties, especially in rough water. One
 of the chief obstacles is the maintenance of the necessary tension on
 the cable used in conveying the coal from the collier to the ship. The
 first test in coaling ships at sea, made by the British admiralty, took
-place in 1890 in the Atlantic at a point 500 m. south of the Azores in
-water 2000 fathoms deep. Ten ships of war were coaled, each vessel
+place in 1890 in the Atlantic at a point 500 m. south of the [[Azores]] in
+water 2000 [[Fathom|fathoms]] deep. Ten ships of war were coaled, each vessel
 taking enough coal to enable it to steam back to Torbay, 1800 m. away.
 In this case the collier was lashed alongside the battleship it was
-feeding, thick fenders being interposed to prevent damage, but
+feeding, thick [[Fender|fenders]] being interposed to prevent damage, but
 nevertheless as the colliers got light they pitched considerably, and
 one or two sustained dents in their sides. The ships did not roll, being
 kept bows-on to the swell, which became heavy before the coaling was
@@ -1795,7 +1795,7 @@ The most practicable method of coaling at sea yet devised is the marine
 cableway of Spencer Miller, which has been tried with some success in
 the American navy. It is intended for use between vessels 350 to 500 ft.
 apart. The ship being coaled takes the collier in tow, steaming at the
-rate of 4 to 8 knots; it has been found that a speed of five knots in
+rate of 4 to 8 [[Knot|knots]]; it has been found that a speed of five knots in
 moderately rough water will keep the cableway taut and maintain a
 sufficient distance between the crafts. The collier is fitted with an
 engine having double cylinders and double friction drums, which is
@@ -1862,7 +1862,7 @@ _Telpherage._--A telpher ropeway or cableway may be defined as a ropeway
 or cableway worked and controlled electrically, only a rail rope being
 required besides the live rail or wire from which the electric current
 is taken. Telpherage was devised by Professor Fleeming Jenkin in 1881,
-and developed by him in conjunction with Professors W. E. Ayrton and J.
+and developed by him in conjunction with Professors W. E. [[Ayrton]] and J.
 Perry. The telpher itself consists of a light two-wheeled truck,
 carrying the driving motors, which, to avoid gearing or other
 complicated mechanism, are usually coupled directly to the axles of the
@@ -1873,7 +1873,7 @@ adapted to any kind of material. In many cases the whole load may be
 suspended from the telpher, or the load, especially if of some length,
 may be supported at one end by a telpher, and at the other end by what
 is known as a trailer, or again, two telphers may be installed, one at
-each end of the load. The telpher carries a small trolley sheave or bow
+each end of the load. The telpher carries a small trolley sheave or [[Bow|bow]]
 which serves to collect the current from a trolley wire stretched a
 little above the rail. Frequently the telpher is accompanied by an
 attendant who manipulates it, but by dividing the trolley wire into

@@ -4,16 +4,16 @@ CROWNE, JOHN (d. c. 1703), British dramatist, was a native of Nova
 Scotia. His father "Colonel" William Crowne, accompanied the earl of
 Arundel on a diplomatic mission to Vienna in 1637, and wrote an account
 of his journey. He emigrated to Nova Scotia where he received a grant of
-land from Cromwell, but the French took possession of his property, and
+land from [[Cromwell]], but the French took possession of his property, and
 the home government did nothing to uphold his rights. When the son came
-to England his poverty compelled him to act as gentleman usher to an
+to England his poverty compelled him to act as [[Gentleman|gentleman]] usher to an
 Independent lady of quality, and his enemies asserted that his father
 had been an Independent minister. He began his literary career with a
 romance, _Pandion and Amphigenia, or the History of the coy Lady of
 Thessalia_ (1665). In 1671 he produced a romantic play, _Juliana, or the
 Princess of Poland_, which has, in spite of its title, no pretensions to
-rank as an historical drama. The earl of Rochester procured for him,
-apparently with the sole object of annoying Dryden by infringing on his
+rank as an historical [[Drama|drama]]. The earl of Rochester procured for him,
+apparently with the sole object of annoying [[Dryden]] by infringing on his
 rights as poet-laureate, a commission to supply a masque for performance
 at court. _Calisto_ gained him the favour of Charles II., but Rochester
 proved a fickle patron, and his favour was completely alienated by the
@@ -40,7 +40,7 @@ which heroic love was, in the fashion of the French romances, made the
 leading motive. The prosaic level of his style saved him as a rule from
 the rant to be found in so many contemporary heroic plays, but these
 pieces are of no particular interest. He was much more successful in
-comedy of the kind that depicts "humours."
+comedy of the kind that depicts "[[Humour|humours]]."
 
   _The History of Charles the Eighth of France, or The Invasion of
   Naples by the French_ (1672) was dedicated to Rochester. In _Timon_,
@@ -48,10 +48,10 @@ comedy of the kind that depicts "humours."
   piece--"whilst sporting waves smil'd on the rising sun"--was held up
   to ridicule. _The Ambitious Statesman, or The Loyal Favourite_ (1679),
   one of the most extravagant of his heroic efforts, deals with the
-  history of Bernard d'Armagnac, Constable of France, after the battle
+  history of [[Bernard]] d'Armagnac, Constable of France, after the battle
   of Agincourt; _Thyestes, A Tragedy_ (1681), spares none of the horrors
   of the Senecan tragedy, although an incongruous love story is
-  interpolated; _Darius, King of Persia_ (1688), _Regulus_ (acted 1692,
+  interpolated; _[[Darius]], King of Persia_ (1688), _Regulus_ (acted 1692,
   pr. 1694) and _Caligula_ (1698) complete the list of his tragedies.
   _The Country Wit: A Comedy_ (acted 1675, pr. 1693), derived in part
   from Moliere's _Le Sicilien, ou l'amour peintre_, is remembered for

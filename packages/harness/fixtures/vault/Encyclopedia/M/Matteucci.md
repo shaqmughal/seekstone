@@ -13,7 +13,7 @@ Paris, he became professor of physics successively at Bologna (1832),
 Ravenna (1837) and Pisa (1840). From 1847 he took an active part in
 politics, and in 1860 was chosen an Italian senator, at the same time
 becoming inspector-general of the Italian telegraph lines. Two years
-later he was minister of education. He died near Leghorn on the 25th of
+later he was minister of education. He died near [[Leghorn]] on the 25th of
 June 1868.
 
   He was the author of four scientific treatises: _Lezioni di fisica_ (2

@@ -6,7 +6,7 @@ topic: exploration-theory
 
 # Garrison
 
-GARRISON, WILLIAM LLOYD (1805-1879), the American anti-slavery leader,
+GARRISON, WILLIAM [[Lloyd|LLOYD]] (1805-1879), the American anti-slavery leader,
 was born in Newburyport, Massachusetts, U.S.A., on the 10th of December
 1805. His parents were from the British province of New Brunswick. The
 father, Abijah, a sea-captain, went away from home when William was a
@@ -17,15 +17,15 @@ high character, charming in person and eminent for piety. She died in
 opportunities. His mother first set him to learn the trade of a
 shoemaker, first at Newburyport, and then, after 1815, at Baltimore,
 Maryland, and, when she found that this did not suit him, let him try
-his hand at cabinet-making (at Haverhill, Mass.). But this pleased him
+his hand at cabinet-making (at [[Haverhill]], Mass.). But this pleased him
 no better. In October 1818, when he was in his fourteenth year, he was
 made more than content by being indentured to Ephraim W. Allen,
 proprietor of the Newburyport _Herald_, to learn the trade of a printer.
-He soon became an expert compositor, and after a time began to write
-anonymously for the _Herald_. His communications won the commendation of
+He soon became an [[Expert|expert]] compositor, and after a time began to write
+anonymously for the _Herald_. His communications won the [[Commendation|commendation]] of
 the editor, who had not at first the slightest suspicion that he was the
 author. He also wrote for other papers with equal success. A series of
-political essays, written by him for the Salem _Gazette_, was copied by
+political essays, written by him for the Salem _[[Gazette]]_, was copied by
 a prominent Philadelphia journal, the editor of which attributed them to
 the Hon. Timothy Pickering, a distinguished statesman of Massachusetts.
 His skill as a printer won for him the position of foreman, while his
@@ -34,7 +34,7 @@ temporarily called away from his post, left the paper in his charge.
 
 The printing-office was for him, what it has been for many another poor
 boy, no mean substitute for the academy and for the college. He was full
-of enthusiasm for liberty; the struggle of the Greeks to throw off the
+of [[Enthusiasm|enthusiasm]] for liberty; the struggle of the Greeks to throw off the
 Turkish yoke enlisted his warmest sympathy, and at one time he seriously
 thought of entering the West Point Academy and fitting himself for a
 soldier's career. His apprenticeship ended in 1826, when he began the
@@ -42,7 +42,7 @@ publication of a new paper (actually the old one under a new name), the
 _Free Press_, in his native place. The paper, whose motto was "Our
 Country, our Whole Country, and nothing but our Country," was full of
 spirit and intellectual force, but Newburyport was a sleepy place and
-the enterprise failed. Garrison then went to Boston, where, after
+the enterprise failed. Garrison then went to [[Boston]], where, after
 working for a time as a journeyman printer, he became the editor of the
 _National Philanthropist_, the first journal established in America to
 promote the cause of total abstinence from intoxicating liquors. His
@@ -53,14 +53,14 @@ Times_ at Bennington, Vermont, to support the re-election of John Quincy
 Adams to the presidency of the United States. The new paper, though
 attractive in many ways, and full of force and fire, was too far ahead
 of public sentiment on moral questions to win a large support. In Boston
-he had met Benjamin Lundy (q.v.), who had for years been preaching the
+he had met [[Benjamin]] [[Lundy]] (q.v.), who had for years been preaching the
 abolition of slavery. Garrison had been deeply moved by Lundy's appeals,
 and after going to Vermont he showed the deepest interest in the slavery
 question. Lundy was then publishing in Baltimore a small monthly paper,
 entitled _The Genius of Universal Emancipation_, and he resolved to go
 to Bennington and invite Garrison to join him in the editorship. With
 this object in view he walked from Boston to Bennington, through the
-frost and snow of a New England winter, a distance of 125 m. His mission
+[[Frost|frost]] and snow of a New England winter, a distance of 125 m. His mission
 was successful. Garrison was deeply impressed by the good Quaker's zeal
 and devotion, and he resolved to join him and devote himself thereafter
 to the work of abolishing slavery.
@@ -70,7 +70,7 @@ and thenceforth the _Genius_ was published weekly, under the joint
 editorship of the two men. It was understood, however, that Garrison
 would do most of the editorial work, while Lundy would spend most of his
 time in lecturing and procuring subscribers. On one point the two
-editors differed radically, Lundy being the advocate of gradual and
+editors differed radically, Lundy being the advocate of [[Gradual|gradual]] and
 Garrison of immediate emancipation. The former was possessed with the
 idea that the negroes, on being emancipated, must be colonized somewhere
 beyond the limits of the United States; the latter held that they should
@@ -78,16 +78,16 @@ be emancipated on the soil of the country, with all the rights of
 freemen. In view of this difference it was agreed that each should speak
 on his own individual responsibility in the paper, appending his initial
 to each of his articles for the information of the reader. It deserves
-mention here that Garrison was then in utter ignorance of the change
+mention here that Garrison was then in utter [[Ignorance|ignorance]] of the change
 previously wrought in the opinions of English abolitionists by Elizabeth
 Heyrick's pamphlet in favour of immediate, in distinction from gradual
 emancipation. The sinfulness of slavery being admitted, the duty of
 immediate emancipation to his clear ethical instinct was perfectly
-manifest. He saw that it would be idle to expose and denounce the evils
+[[Manifest|manifest]]. He saw that it would be idle to expose and denounce the evils
 of slavery, while responsibility for the system was placed upon former
 generations, and the duty of abolishing it transferred to an indefinite
 future. His demand for immediate emancipation fell like a tocsin upon
-the ears of slaveholders. For general talk about the evils of slavery
+the [[Ear|ears]] of slaveholders. For general talk about the evils of slavery
 they cared little, but this assertion that every slave was entitled to
 instant freedom filled them with alarm and roused them to anger, for
 they saw that, if the conscience of the nation were to respond to the
@@ -96,11 +96,11 @@ had become a vehicle for this dangerous doctrine, was a paper to be
 feared and intensely hated. Baltimore was then one of the centres of the
 domestic slave trade, and upon this traffic Garrison heaped the
 strongest denunciations. A vessel owned in Newburyport having taken a
-cargo of slaves from Baltimore to New Orleans, he characterized the
+[[Cargo|cargo]] of slaves from Baltimore to New Orleans, he characterized the
 transaction as an act of "domestic piracy," and avowed his purpose to
-"cover with thick infamy" those engaged therein. He was thereupon
+"cover with thick [[Infamy|infamy]]" those engaged therein. He was thereupon
 prosecuted for libel by the owner of the vessel, fined $50, mulcted in
-costs, and, in default of payment, committed to gaol. His imprisonment
+[[Costs|costs]], and, in [[Default|default]] of payment, committed to gaol. His imprisonment
 created much excitement, and in some quarters, in spite of the
 pro-slavery spirit of the time, was a subject of indignant comment in
 public as well as private. The excitement was fed by the publication of
@@ -110,7 +110,7 @@ _Freedom of Mind_, is remarkable for freshness of thought and terseness
 of expression.
 
 John G. Whittier, the Quaker poet, interceded with Henry Clay to pay
-Garrison's fine and thus release him from prison. To the credit of the
+Garrison's fine and thus release him from prison. To the [[Credit|credit]] of the
 slaveholding statesman it must be said that he responded favourably, but
 before he had time for the requisite preliminaries Arthur Tappan, a
 philanthropic merchant of New York, contributed the necessary sum and
@@ -151,7 +151,7 @@ was intensified by opposition, and he resolved to go forward, trusting
 in God for success.
 
 On the 1st of January 1831, without a dollar of capital, and without a
-single subscriber, he and his partner Isaac Knapp (1804-1843) issued the
+single subscriber, he and his partner [[Isaac]] Knapp (1804-1843) issued the
 first number of the _Liberator_, avowing their "determination to print
 it as long as they could subsist on bread and water, or their hands
 obtain employment." Its motto was, "Our country is the world--our
@@ -162,10 +162,10 @@ equivocate--I will not excuse--I will not retreat a single inch--and I
 will be heard." Help came but slowly. For many months Garrison and his
 brave partner, who died long before the end of the conflict, made their
 bed on the floor of the room, "dark, unfurnished and mean," in which
-they printed their paper, and where Mayor Harrison Gray Otis of Boston,
-in compliance with the request of Governor Robert Y. Hayne of South
+they printed their paper, and where [[Mayor]] Harrison [[Gray]] Otis of Boston,
+in compliance with the request of Governor Robert Y. [[Hayne]] of South
 Carolina, "ferreted them out" in "an obscure hole," "their only visible
-auxiliary a negro boy." But the paper founded under such inauspicious
+[[Auxiliary|auxiliary]] a negro boy." But the paper founded under such inauspicious
 circumstances exerted a mighty influence, and lived to record not only
 President Lincoln's proclamation of emancipation, but the adoption of an
 amendment to the constitution of the United States for ever prohibiting
@@ -218,7 +218,7 @@ in London, and Garrison was at once admitted to their councils and
 treated with distinguished consideration. He took home with him a
 "protest" against the American Colonization Society, signed by
 Wilberforce, Zachary Macaulay, Samuel Gurney, William Evans, S.
-Lushington, T. Fowell Buxton, James Cropper, Daniel O'Connell and
+Lushington, T. Fowell Buxton, James Cropper, [[Daniel]] O'Connell and
 others, in which they declared their deliberate judgment that "its
 precepts were delusive," and "its real effects of the most dangerous
 nature." He also received assurances of the cordial sympathy of British
@@ -233,12 +233,12 @@ with the "protest" against the Colonization Society, and announced that
 he had engaged the services of George Thompson as a lecturer against
 American slavery, there were fresh outbursts of rage on every hand. The
 American Anti-Slavery Society was organized in December of that year
-(1833), putting forth a masterly declaration of its principles and
-purposes from the pen of Garrison. This added fresh fuel to the public
+(1833), putting forth a masterly [[Declaration|declaration]] of its principles and
+purposes from the pen of Garrison. This added fresh [[Fuel|fuel]] to the public
 excitement, and when Thompson came over in the next spring, the
 hostility to the cause began to manifest itself in mobs organized to
 suppress the discussion of the slavery question. Now began what Harriet
-Martineau called "the martyr age in America." In the autumn of 1835
+[[Martineau]] called "the martyr age in America." In the autumn of 1835
 Thompson was compelled, in order to save his life, to embark secretly
 for England. Just before his departure the announcement that he would
 address the Woman's Anti-Slavery Society of Boston created "a mob of
@@ -276,7 +276,7 @@ into effect, are virtually written in human blood; and that the
 followers of Jesus should instinctively shun their stations of honor,
 power, and emolument--at the same time 'submitting to every ordinance of
 man for the Lord's sake' and offering no physical resistance to any of
-their mandates, however unjust or tyrannical." These views were very
+their [[Mandate|mandates]], however unjust or tyrannical." These views were very
 distasteful to many, who, moreover, felt that Garrison greatly injured
 abolitionism by causing it to be associated in men's minds with these
 unpopular views on other subjects. The dissentients from his opinions
@@ -284,7 +284,7 @@ determined to form an anti-slavery political party, while he believed in
 working by moral rather than political party instrumentalities. These
 differences led to the organization of a new National Anti-Slavery
 Society in 1840, and to the formation of the "Liberty Party" (q.v.) in
-politics. (See BIRNEY, JAMES G.) The two societies sent their delegates
+politics. (See [[Birney|BIRNEY]], JAMES G.) The two societies sent their delegates
 to the World's Anti-Slavery Convention in London in 1840, and Garrison
 refused to take his seat in that body, because the women delegates from
 the United States were excluded. The discussions of the next few years
@@ -298,7 +298,7 @@ and the national government was constitutionally bound to assist in the
 capture of fugitive slaves, and to suppress every attempt on their part
 to gain their freedom by force. In view of these provisions, Garrison,
 adopting a bold scriptural figure of speech, denounced the constitution
-as "a covenant with death and an agreement with hell," and chose as his
+as "a [[Covenant|covenant]] with death and an agreement with [[Hell|hell]]," and [[Chose|chose]] as his
 motto, "No union with slaveholders."
 
 One class of Abolitionists sought to evade the difficulty by strained
@@ -310,7 +310,7 @@ the president from 1843 to the day of emancipation, was during all this
 period the nucleus of an intense and powerful moral agitation, which was
 greatly valued by many of the most faithful workers in the field of
 politics, who respected Garrison for his fidelity to his convictions. On
-the other hand, he always had the highest respect for every earnest and
+the other hand, he always had the highest respect for every [[Earnest|earnest]] and
 faithful opponent of slavery, however far their special views might
 differ. When in 1861 the Southern states seceded from the Union and took
 up arms against it, he saw clearly that slavery would perish in the
@@ -320,7 +320,7 @@ foundations of liberty, justice and equality to all men. He therefore
 ceased from that hour to advocate disunion, and devoted himself to the
 task of preparing the way for and hastening on the inevitable event. His
 services at this period were recognized and honoured by President
-Lincoln and others in authority, and the whole country knew that the
+[[Lincoln]] and others in authority, and the whole country knew that the
 agitation which made the abolition of slavery feasible and necessary was
 largely due to his uncompromising spirit and indomitable courage.
 
@@ -339,7 +339,7 @@ seventy-fourth year of his age, and was buried in Boston, after a most
 impressive funeral service, four days later. In 1843 a small volume of
 his _Sonnets and other Poems_ was published, and in 1852 appeared a
 volume of _Selections from his Writings and Speeches_. His wife, Helen
-Eliza Benson, died in 1876. Four sons and one daughter survived them.
+Eliza [[Benson]], died in 1876. Four sons and one daughter survived them.
 
 Garrison's son, WILLIAM LLOYD GARRISON (1838-1909), was a prominent
 advocate of the single tax, free trade, woman's suffrage, and of the

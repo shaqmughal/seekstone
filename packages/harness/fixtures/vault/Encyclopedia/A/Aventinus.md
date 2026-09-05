@@ -1,18 +1,18 @@
 # Aventinus
 
 AVENTINUS (1477-1534), the name taken by JOHANN TURMAIR, author of the
-_Annales Boiorum_, or _Annals of Bavaria_, from Aventinum, the Latin name
+_Annales Boiorum_, or _[[Annals]] of Bavaria_, from Aventinum, the Latin name
 of the town of Abensberg, where he was born on the 4th of July 1477. Having
 studied at Ingolstadt, Vienna, Cracow and Paris, he returned to Ingolstadt
 in 1507, and in 1509 was appointed tutor to Louis and Ernest, the two
 younger sons of Albert the Wise, the late duke of Bavaria-Munich. He
-retained this position until 1517, wrote a Latin grammar, and other manuals
+retained this position until 1517, wrote a Latin grammar, and other [[Manuals|manuals]]
 for the use of his pupils, and in 1515 travelled in Italy with Ernest.
 Encouraged by William IV., duke of Bavaria, he began to write the _Annales
 Boiorum_, about 1517, and finishing this book in 1521, undertook a German
 version of it, entitled _Bayersche Chronik_, which he completed some years
 later. He assisted to found the _Sodalitas litteraria Angilostadensis_,
-under the auspices of which several old manuscripts were brought to light.
+under the auspices of which several old [[Manuscript|manuscripts]] were brought to light.
 Although Aventinus did not definitely adopt the reformed faith, he
 sympathized with the reformers and their teaching, and showed a strong
 dislike for the monks. On this account he.was imprisoned in 1528, but his
@@ -25,7 +25,7 @@ Papacy. He took immense pains with his work, and to some degree anticipated
 the modern scientific method of writing history. The _Annales_ were first
 published in 1554, but many important passages were omitted in this
 edition, as they reflected on the Roman Catholics. A more complete edition
-was published at Basel in 1580 by Nicholas Cisner. Aventinus, who has been
+was published at [[Basel]] in 1580 by Nicholas Cisner. Aventinus, who has been
 called the "Bavarian Herodotus," wrote other books of minor importance, and
 a complete edition of his works was published at Munich (1881-1886). More
 recently a new edition (six vols.) has appeared.
@@ -48,7 +48,7 @@ Chinese, is said to occur in the Bellary district in India.
 
 Aventurine felspar, known also as Sun-stone (_q.v._) is found principally
 at Tvedestrand in south Norway, and is a variety of oligoclase enclosing
-micaceous scales of haematite. Other kinds of felspar, even orthoclase, may
+micaceous scales of [[Haematite|haematite]]. Other kinds of felspar, even orthoclase, may
 however also show the aventurine appearance. Both plagioclastic and
 orthoclastic aventurine occur at several localities in the United States.
 

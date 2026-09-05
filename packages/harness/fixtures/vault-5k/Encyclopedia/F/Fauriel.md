@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fauriel"
 FAURIEL, CLAUDE CHARLES (1772-1844), French historian, philologist and
 critic, was born at St Etienne on the 21st of October 1772. Though the
 son of a poor joiner, he received a good education in the Oratorian
-colleges of Tournon and Lyons. He was twice in the army--at Perpignan in
+colleges of Tournon and [[Lyons]]. He was twice in the army--at Perpignan in
 1793, and in 1796-1797 at Briancon, as private secretary to General J.
 Servan de Gerbey (1741-1808); but he preferred the civil service and the
 companionship of his friends and his books. In 1794 he returned to St
@@ -40,7 +40,7 @@ Empire a rallying point for the dissentient republicans. Fauriel was
 introduced by Madame de Stael to the literary circle of Auteuil, which
 gathered round Destutt de Tracy. Those who enjoyed his closest intimacy
 were the physiologist Cabanis (Madame de Condorcet's brother-in-law),
-the poet Manzoni, the publicist Benjamin Constant, and Guizot. Later
+the poet [[Manzoni]], the publicist Benjamin Constant, and Guizot. Later
 Tracy introduced to him Aug. Thierry (1821) and perhaps Thiers and
 Mignet. During his connexion with Auteuil, Fauriel's attention was
 naturally turned to philosophy, and for some years he was engaged on a
@@ -57,7 +57,7 @@ The Revolution of July, which put his friends in power, opened to him
 the career of higher education. In 1830 he became professor of foreign
 literature at the Sorbonne. The _Histoire de la Gaule meridionale sous
 la domination des conquerants germains_ (4 vols., 1836) was the only
-completed section of a general history of southern Gaul which he had
+completed section of a general history of southern [[Gaul]] which he had
 projected. In 1836 he was elected a member of the Academy of
 Inscriptions, and in 1837 he published (with an introduction the
 conclusions of which would not now all be endorsed) a translation of a
@@ -66,9 +66,9 @@ After his death his friend Mary Clarke (afterwards Madame J. Mohl)
 published his _Histoire de la litterature provencale_ (3 vols.,
 1846)--his lectures for 1831-1832. Fauriel was biased in this work by
 his preconceived and somewhat fanciful theory that Provence was the
-cradle of the _chansons de geste_ and even of the Round Table romances;
+cradle of the _[[Chansons De Geste|chansons de geste]]_ and even of the Round Table romances;
 but he gave a great stimulus to the scientific study of Old French and
-Provencal. _Dante et les origines de la langue et de la litterature
+Provencal. _[[Dante]] et les origines de la langue et de la litterature
 italiennes_ (2 vols.) was published in 1854.
 
   Fauriel's _Memoires_, found with Condorcet's papers, are in the

@@ -27,13 +27,13 @@ from which a fine view is obtained.
 BILL. There are three words in English with distinct meanings and
 derivations. (1) A written, originally sealed, document. The word is
 derived from the Early English _bille_, Anglo-Latin _billa_, from Latin
-_bulla_, in the medieval sense of "seal." It is a doublet, therefore, of
-"bull." (2) A common Teutonic word for a long-handled cutting weapon (O.
+_bulla_, in the medieval sense of "seal." It is a [[Doublet|doublet]], therefore, of
+"[[Bull|bull]]." (2) A common Teutonic word for a long-handled cutting weapon (O.
 Eng. _bil, billes_, sword or falchion, O. Sax. _bill_, M.H.G. _Bil_,
 Mod. Ger. _Bille_, a pickaxe; no connexion with Ger. _Beil_, an axe), of
 which the name and shape is preserved in the hedging-bills used for
 pruning hedges and lopping the branches of trees. For an account of the
-weapon see (2) below. (3) The beak of a bird. This may be connected with
+weapon see (2) below. (3) The [[Beak|beak]] of a bird. This may be connected with
 (2), but it does not appear in any Teutonic language other than English.
 
 (1) In the sense of a document the word is used in various connexions in
@@ -48,17 +48,17 @@ assented to by the king, and afterwards enrolled by the judges. A bill
 consists of a preamble, reciting the necessity for legislation, and
 clauses which contain the enactments. (For procedure see PARLIAMENT.)
 
-A _Bill in Chancery_, in former days, in English law, was a written
+A _Bill in Chancery_, in former days, in [[English Law|English law]], was a written
 statement of the plaintiff's case whereby he complained of the wrong
 upon which the suit was based and prayed for relief. By the Judicature
 Acts 1873 and 1875 its place was taken by a writ and statement of claim
 (see PLEADING).
 
 A _Bill of Indictment_ is a presentment against a prisoner, charging him
-with an offence, and presented at quarter sessions or assizes to the
-grand jury (see INDICTMENT).
+with an offence, and presented at quarter sessions or [[Assize|assizes]] to the
+grand [[Jury|jury]] (see INDICTMENT).
 
-A _Bill of Costs_ is an account setting forth the charges and
+A _Bill of [[Costs]]_ is an account setting forth the charges and
 disbursements incurred by a solicitor in the conduct of his client's
 business. The delivery of a bill of costs is by statute a condition
 necessary before the solicitor can sue upon it (see COSTS).
@@ -69,7 +69,7 @@ either in directing the jury, or in refusing or admitting evidence or
 otherwise. The bill of exceptions was tendered at any time before the
 verdict by counsel of the dissatisfied party, who required the judge to
 seal it. The case proceeded to the jury, and judgment being given, the
-point raised was brought before a court of error. Bills of exceptions
+point raised was brought before a court of [[Error|error]]. Bills of exceptions
 were confined to civil cases. They were abolished by the Judicature Act
 1875, and a "motion for a new trial" substituted (see TRIAL).
 
@@ -84,7 +84,7 @@ it; a "foul" bill, that such a disease actually exists at the time of
 the ship's departure. Bills of health are necessary where the
 destination of the ship is a country whose laws require the production
 of such a bill before the ship is allowed into port, and where, in
-default of such production, the ship is subjected to quarantine.
+[[Default|default]] of such production, the ship is subjected to quarantine.
 
 A _Bill of Mortality_ in England was a weekly return issued under the
 supervision of the company of parish clerks showing the number of deaths
@@ -99,7 +99,7 @@ whence was issued weekly a return of all the deaths from plague and
 other causes in the various parishes, as well as a list of those
 parishes which were free from plague. Bills of mortality are usually
 said to date from 1538, when parish registers were established by
-Cromwell (Lord Essex), but there is extant a bill which dates from
+[[Cromwell]] (Lord [[Essex]]), but there is extant a bill which dates from
 August 1535, and one which is possibly even earlier than this. It is
 certain that they first began to be compiled in a recognized manner in
 December 1603, and they were continued regularly from that date down to
@@ -107,14 +107,14 @@ December 1603, and they were continued regularly from that date down to
 superseded by the registrar-general's returns. It was not till 1728,
 when the _ages_ of the dead were first introduced, that bills of
 mortality acquired any considerable statistical value. It was on the
-data thus furnished that the science of life insurance was founded.
+data thus furnished that the science of life [[Insurance|insurance]] was founded.
 
 A _Bill of Particulars_ was, in law, a statement in writing, informing
 each party to a suit the precise nature of the case they had to meet. It
 contained the plaintiff's cause of action or the defendant's set-off.
 Particulars are now usually indorsed on the pleadings (see PLEADING).
 
-A _Bill of Peace_ is, in equity, a suit brought by a person to establish
+A _Bill of Peace_ is, in [[Equity|equity]], a suit brought by a person to establish
 and perpetuate a right which he claims, and which from its nature may be
 controverted by different persons at different times and by different
 actions; or where several attempts have already been unsuccessfully made
@@ -144,21 +144,21 @@ the goods are taken to the king's warehouse, and if perfect entry is not
 made within one month and all duties and charges paid, they are sold for
 payment thereof. See the Customs Consolidation Act 1876.
 
-A _Bill of Store_ is a license granted by the custom-house to re-import
+A _Bill of Store_ is a license granted by the [[Custom-House|custom-house]] to re-import
 British goods into the United Kingdom. All British goods re-imported
 into the United Kingdom are entered as foreign, unless re-imported
 within ten years after their exportation and unless the property in the
 goods continues and remains in the person by whom they were exported.
 But in such case they may be entered as British goods, by bill of store,
-with the exception of corn, grain, meal, flour and hops.
+with the exception of [[Corn|corn]], grain, meal, flour and [[Hop|hops]].
 
 A _Bill of Victualling_ or _Victualling Bill_, in its original meaning,
 is a list of all stores for shipment, but now an order from an export
 officer of the customs for the shipment from a bonded warehouse or for
-drawback of such stores as may be required and allowed with reference to
+[[Drawback|drawback]] of such stores as may be required and allowed with reference to
 the number of the crew and passengers on board a ship proceeding on an
 oversea voyage. It is made out by the master and countersigned by the
-collector of customs. Its object is to prevent frauds on the revenue. No
+collector of customs. Its object is to prevent [[Fraud|frauds]] on the revenue. No
 such stores are supplied for the use of any ship nor any articles taken
 on board deemed to be stores unless they are borne upon the victualling
 bill, and any such stores relanded at any place in the United Kingdom
@@ -168,8 +168,8 @@ treble the value of the stores or £100. A victualling bill serves as a
 certificate of clearance when there is nothing but stores on board the
 ship.
 
-  See also ADVENTURE, ATTAINDER, INDEMNITY, LETTER OF CREDIT, BILL OF
-  EXCHANGE, BILL OF RIGHTS and BILL OF SALE; for a _bill of lading_ see
+  See also ADVENTURE, [[Attainder|ATTAINDER]], [[Indemnity|INDEMNITY]], LETTER OF [[Credit|CREDIT]], BILL OF
+  [[Exchange|EXCHANGE]], BILL OF RIGHTS and [[Bill Of Sale|BILL OF SALE]]; for a _bill of lading_ see
   AFFREIGHTMENT.     (T. A. I.)
 
 (2) In the sense of a weapon, the primitive forms of a bill suggest
@@ -190,7 +190,7 @@ bill as their chief arm, while seventy-one bowmen are to march on foot
 with seventy-six billmen. In the 16th century the bill, with the
 halbert, fell out of use among regular troops, the pike taking their
 place on account of the longer staff, which made it a better defence
-against cavalry. It remained during the 17th century as a watchman or
+against [[Cavalry|cavalry]]. It remained during the 17th century as a watchman or
 constable's weapon, although rudely-fashioned bills were seen in
 Sedgemoor fight.     (O. Ba.)
 

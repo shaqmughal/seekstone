@@ -6,10 +6,10 @@ course of the Tanaro, about 35 m. due south of Turin. The town retained
 its position as a tribal centre in the reorganization of Augustus, whose
 name it bears, and was erected on a systematic plan. Considerable
 remains of public buildings, constructed in concrete faced with small
-stones with bands of brick at intervals, an amphitheatre with a major
+stones with bands of [[Brick|brick]] at intervals, an amphitheatre with a [[Major|major]]
 axis of 390 ft. and a minor axis of 305 ft., a theatre with a stage 133
 ft. in length, and near it the foundations of what was probably a
-basilica, an open space (no doubt the forum), an aqueduct, baths, &c.,
+[[Basilica|basilica]], an open space (no doubt the [[Forum|forum]]), an aqueduct, baths, &c.,
 have been discovered by recent excavations, and also one of the city
 gates, flanked by two towers 22 ft. sq.
 

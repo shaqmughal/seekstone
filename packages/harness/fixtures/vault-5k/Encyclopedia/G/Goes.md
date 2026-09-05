@@ -19,13 +19,13 @@ freedom by a heavy ransom. He was rewarded, however, by a grant of arms
 from Charles V. He finally returned to Portugal in 1545, with a view of
 becoming tutor to the king's son, but he failed to obtain this post,
 owing to the denunciations of Father Simon Rodriguez, provincial of the
-Jesuits, who accused Goes of favouring the Lutheran doctrines and of
-being a disciple of Erasmus. Nevertheless in 1548 he was appointed chief
+[[Jesuits]], who accused Goes of favouring the Lutheran doctrines and of
+being a [[Disciple|disciple]] of Erasmus. Nevertheless in 1548 he was appointed chief
 keeper of the archives and royal chronicler, and at once introduced some
 much-needed reforms into the administration of his office.
 
 In 1558 he was given a commission to write a history of the reign of
-King Manoel, a task previously confided to Joao de Barros, but
+King Manoel, a task previously confided to Joao de [[Barros]], but
 relinquished by him. It was an onerous undertaking for a conscientious
 historian, since it was necessary to expose the miseries as well as
 relate the glories of the period, and so to offend some of the most
@@ -76,14 +76,14 @@ critical spirit, and Damiao de Goes has the honour of having been the
 first Portuguese royal chronicler to deserve the name of an historian.
 
   His Portuguese works include _Chronica do felicissimo rei Dom Emanuel_
-  (parts i. and ii., Lisbon, 1566, parts iii. and iv., ib. 1567). Other
+  (parts i. and ii., [[Lisbon]], 1566, parts iii. and iv., ib. 1567). Other
   editions appeared in Lisbon in 1619 and 1749 and in Coimbra in 1790.
   _Chronica do principe Dom Joam_ (Lisbon, 1558), with subsequent
   editions in 1567 and 1724 in Lisbon and in 1790 in Coimbra. _Livro de
   Marco Tullio Ciceram chamado Catam Mayor_ (Venice, 1538). This is a
   translation of Cicero's _De senectute_. His Latin works, published
   separately, comprise: (1) _Legatio magni imperatoris Presbiteri
-  Joannis, &c._ (Antwerp, 1532); (2) _Legatio Davidis Ethiopiae regis,
+  Joannis, &c._ ([[Antwerp]], 1532); (2) _Legatio Davidis Ethiopiae regis,
   &c._ (Bologna, 1533); (3) _Commentarii rerum gestarum in India_
   (Louvain, 1539); (4) _Fides, religio, moresque Aethiopum_ (Louvain,
   1540), incorporating Nos. (1) and (2); (5) _Hispania_ (Louvain, 1542);
@@ -109,8 +109,8 @@ first Portuguese royal chronicler to deserve the name of an historian.
   friends, so that they are rare. (B) Guilherme J. C. Henriques,
   _Ineditos Goesianos_, vol. i. (Lisbon, 1896), vol. ii. (containing the
   proceedings at the trial by the Inquisition) (Lisbon, 1898). (C) A. P.
-  Lopes de Mendonca, _Damiao de Goes e a Inquisicao de Portugal_
-  (Lisbon, 1859). (D) Dr Sousa Viterbo, _Damiao de Goes e D. Antonio
+  [[Lopes]] de Mendonca, _Damiao de Goes e a Inquisicao de Portugal_
+  (Lisbon, 1859). (D) Dr Sousa Viterbo, _Damiao de Goes e D. [[Antonio]]
   Pinheiro_ (Coimbra, 1895). (E) Dr Theophilo Braga, _Historia da
   Universidade de Coimbra_ (Lisbon, 1892), i. 374-380. (F) Menendez y
   Pelayo, _Historia de los Heter. Espanoles_, ii. 129-143.     (E. Pr.)

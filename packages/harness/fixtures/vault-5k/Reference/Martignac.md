@@ -24,7 +24,7 @@ compromise. On the 4th of January 1828 he was appointed minister of the
 interior, and, though not bearing the title of president, became the
 virtual head of the cabinet. He succeeded in passing the act abolishing
 the press censorship, and in persuading the king to sign the ordinances
-of the 16th of June 1828 on the Jesuits and the little seminaries. He
+of the 16th of June 1828 on the [[Jesuits]] and the little seminaries. He
 was exposed to attack from both the extreme Left and the extreme Right,
 and when in April 1829 a coalition of these groups defeated him in the
 chamber, Charles X., who had never believed in the policy he

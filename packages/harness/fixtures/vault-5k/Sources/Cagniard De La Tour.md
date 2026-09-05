@@ -12,7 +12,7 @@ CAGNIARD DE LA TOUR, CHARLES (1777-1859), French engineer and physicist,
 was born in Paris on the 31st of March 1777, and after attending the Ecole
 Polytechnique became one of the _ingenieurs geographiques_. He was made a
 baron in 1818, and died in Paris on the 5th of July 1859. He was the author
-of numerous inventions, including the cagniardelle, a blowing machine,
+of numerous inventions, including the cagniardelle, a blowing [[Machine|machine]],
 which consists essentially of an Archimedean screw set obliquely in a tank
 of water in such a way that its lower end is completely and its upper end
 partially immersed, and operated by being rotated in the opposite direction

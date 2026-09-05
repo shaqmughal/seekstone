@@ -13,7 +13,7 @@ was born in Cambridge, Massachusetts, on the 22nd of December 1823. He
 was a descendant of Francis Higginson (1588-1630), who emigrated from
 Leicestershire to the colony of Massachusetts Bay and was a minister of
 the church of Salem, Mass., in 1629-1630; and a grandson of Stephen
-Higginson (1743-1828), a Boston merchant, who was a member of the
+Higginson (1743-1828), a [[Boston]] merchant, who was a member of the
 Continental Congress in 1783, took an active part in suppressing Shay's
 Rebellion, was the author of the "Laco" letters (1789), and rendered
 valuable services to the United States government as navy agent from the
@@ -24,7 +24,7 @@ Society (Unitarian) of Newburyport, Massachusetts, and of the Free
 Church at Worcester in 1852-1858. He was a Free Soil candidate for
 Congress (1850), but was defeated; was indicted with Wendell Phillips
 and Theodore Parker for participation in the attempt to release the
-fugitive slave, Anthony Burns, in Boston (1853); was engaged in the
+fugitive slave, Anthony [[Burns]], in Boston (1853); was engaged in the
 effort to make Kansas a free state after the passage of the
 Kansas-Nebraska Bill of 1854; and during the Civil War was captain in
 the 51st Massachusetts Volunteers, and from November 1862 to October
@@ -50,7 +50,7 @@ rights for the two sexes.
   and Kindred Papers_ (1897); _Henry Wadsworth Longfellow_ (in "American
   Men of Letters" series, 1902); _John Greenleaf Whittier_ (in "English
   Men of Letters" series, 1902); _A Reader's History of American
-  Literature_ (1903), the Lowell Institute lectures for 1903, edited by
+  Literature_ (1903), the [[Lowell]] Institute lectures for 1903, edited by
   Henry W. Boynton; and _Life and Times of Stephen Higginson_ (1907).
   His volumes of reminiscence, _Cheerful Yesterdays_ (1898), _Old
   Cambridge_ (1899), _Contemporaries_ (1899), and _Part of a Man's Life_

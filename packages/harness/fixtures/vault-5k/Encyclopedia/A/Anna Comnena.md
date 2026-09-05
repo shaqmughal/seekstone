@@ -1,6 +1,6 @@
 # Anna Comnena
 
-ANNA COMNENA, daughter of the emperor Alexius I. Comnenus, the first
+ANNA COMNENA, daughter of the emperor Alexius I. [[Comnenus]], the first
 woman historian, was born on the 1st of December 1083. She was her
 father's favourite and was carefully trained in the study of poetry,
 science and Greek philosophy. But, though learned and studious, she was
@@ -12,7 +12,7 @@ his son and give the crown to her husband. Still undeterred, she entered
 into a conspiracy to depose her brother after his accession; and when
 her husband refused to join in the enterprise, she exclaimed that
 "nature had mistaken their sexes, for he ought to have been the woman."
-The plot being discovered, Anna forfeited her property and fortune,
+The plot being discovered, [[Anna]] forfeited her property and fortune,
 though, by the clemency of her brother, she escaped with her life.
 Shortly afterwards, she retired into a convent and employed her leisure
 in writing the _Alexiad_--a history, in Greek, of her father's life and
@@ -23,12 +23,12 @@ prominently. Trifling acts of her father are described at length in
 exaggerated terms, while little notice is taken of important
 constitutional matters. A determined opponent of the Latin church and an
 enthusiastic admirer of the Byzantine empire, Anna Comnena regards the
-Crusades as a danger both political and religious. Her models are
+[[Crusades]] as a danger both political and religious. Her models are
 Thucydides, Polybius and Xenophon, and her style exhibits the striving
 after Atticism characteristic of the period, with the result that the
-language is highly artificial. Her chronology especially is defective.
+language is highly artificial. Her [[Chronology|chronology]] especially is defective.
 
-  Editions in Bonn _Corpus Scriptorum Hist. Byz._, by J. Schopen and A.
+  Editions in [[Bonn]] _Corpus Scriptorum Hist. Byz._, by J. Schopen and A.
   Reifferscheid (1839-1878), with Du Cange's valuable commentary; and
   Teubner series, by A. Reifferscheid (1884). See also C. Krumbacher,
   _Geschichte der byzantinischen Literatur_ (2nd ed. 1897); C. Neumann,

@@ -23,21 +23,21 @@ regarded as _religiosi_--that is, all important business in public and
 private life was suspended. Offerings were made to propitiate the dead:
 libations of water, wine, warm milk, honey, oil, and the blood of
 sacrificial victims--black sheep, pigs and oxen (_suovetaurilia_)--was
-poured upon the graves; ointment and incense were offered, lamps were
+poured upon the graves; ointment and incense were offered, [[Lamp|lamps]] were
 lighted, and the grave was adorned with garlands of flowers, especially
-roses and violets. Beans, eggs, lentils, salt, bread and wine, placed on
+roses and violets. [[Bean|Beans]], [[Egg|eggs]], lentils, salt, bread and wine, placed on
 the grave, formed the chief part of a meal partaken of by the mourners.
 There was also a public state festival in honour of the dead, called
 Parentalia, held from the 13th to the 21st of February, the last month
 of the old Roman year, the last day of the festival being called
 Feralia. During its continuance all the temples were shut, marriages
-were forbidden, and the magistrates had to appear without the insignia
+were forbidden, and the [[Magistrate|magistrates]] had to appear without the insignia
 of their office.
 
 There was considerable analogy between the Manes and the received idea
 of "souls"--and there was a corresponding idea that they could be
 conjured up and appear as ghosts. They were also supposed to have the
-power of sending dreams. It is to be noticed that, unlike the Lares, the
+power of sending dreams. It is to be noticed that, unlike the [[Lar|Lares]], the
 Manes are never spoken of singly.
 
   For authorities, see LARES and PENATES.

@@ -22,7 +22,7 @@ vigorous secondary growth, amidst which the charred trunks of trees rise
 at frequent intervals, the greater part of the forest of the island
 having been destroyed by great accidental conflagrations. Labuan was
 ceded to Great Britain in 1846, chiefly through the instrumentality of
-Sir James Brooke, the first raja of Sarawak, and was occupied two years
+Sir James [[Brooke]], the first raja of Sarawak, and was occupied two years
 later.
 
 At the time of its cession the island was uninhabited, but in 1881 the
@@ -42,12 +42,12 @@ Coalfields Ltd. The harbour is a fine one, and the above-named company
 possesses three wharves capable of berthing the largest Eastern-going
 ocean steamers. To-day Labuan chiefly exists as a trading depôt for the
 natives of the neighbouring coast of Borneo, who sell their
-produce--beeswax, edible birds-nests, camphor, gutta, trepang, &c.,--to
+produce--beeswax, edible birds-nests, camphor, [[Gutta|gutta]], trepang, &c.,--to
 Chinese shopkeepers, who resell it in Singapore. There is also a
 considerable trade in sago, much of which is produced on the mainland,
 and there are three small sago-factories on the island where the raw
 product is converted into flour. The Eastern Extension Telegraph Company
-has a central station at Labuan with cables to Singapore, Hong-Kong and
+has a central station at Labuan with [[Cable|cables]] to Singapore, Hong-Kong and
 British North Borneo. Monthly steam communication is maintained by a
 German firm between Labuan, Singapore and the Philippines. The colony
 joined the Imperial Penny Postage Union in 1889. There are a few miles
@@ -59,16 +59,16 @@ sailors' club, built by the Roman Catholic mission. The bishop of
 Singapore and Sarawak is also bishop of Labuan. The European graveyard
 has repeatedly been the scene of outrages perpetrated, it is believed,
 by natives from the mainland of Borneo, the graves being rifled and the
-hair of the head and other parts of the corpses being carried off to
+hair of the head and other parts of the [[Corpse|corpses]] being carried off to
 furnish ornaments to weapons and ingredients in the magic philtres of
 the natives. Pulau Dat, a small island in the near neighbourhood of
-Labuan, is the site of a fine coco-nut plantation whence nuts and copra
+Labuan, is the site of a fine coco-nut plantation whence nuts and [[Copra|copra]]
 are exported in bulk. The climate is hot and very humid.
 
   Until 1869 the expenditure of the colony was partly defrayed by
   imperial grants-in-aid, but after that date it was left to its own
-  resources. A garrison of imperial troops was maintained until 1871,
-  when the troops were withdrawn after many deaths from fever and
+  resources. A [[Garrison|garrison]] of imperial troops was maintained until 1871,
+  when the troops were withdrawn after many deaths from [[Fever|fever]] and
   dysentery had occurred among them. Since then law and order have been
   maintained without difficulty by a small mixed police force of
   Punjabis and Malays. From the 1st of January 1890 to the 1st of
@@ -78,7 +78,7 @@ are exported in bulk. The climate is hot and very humid.
   Labuan. This arrangement did not work satisfactorily and called forth
   frequent petitions and protests from the colonists. Labuan was then
   placed under the government of the Straits Settlements, and is
-  administered by a deputy governor who is a member of the Straits Civil
+  administered by a [[Deputy|deputy]] governor who is a member of the Straits Civil
   Service.
 
 ## See also

@@ -13,7 +13,7 @@ To its founder is traced by some the origin of the term "blarney," since
 he delayed by persuasion and promises the surrender of the castle to the
 lord president. Richard Millikin's song, "The Groves of Blarney" (c.
 1798), contributed to the fame of the castle, which is also bound up
-with the civil history of the county and the War of the Great Rebellion.
+with the civil history of the county and the War of the [[Great Rebellion]].
 
 ## See also
 

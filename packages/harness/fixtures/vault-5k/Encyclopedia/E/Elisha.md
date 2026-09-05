@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Elisha"
 # Elisha
 
 ELISHA (a Hebrew name meaning "God is deliverance"), in the Bible, the
-disciple and successor of Elijah, was the son of Shaphat of Abel-meholah
+[[Disciple|disciple]] and successor of Elijah, was the son of Shaphat of Abel-meholah
 in the valley of the Jordan. He was symbolically elected to the
 prophetic office by Elijah some time during the reign of Ahab (1 Kings
 xix. 19-21), and he survived until the reign of Joash. His career thus
@@ -17,7 +17,7 @@ relation between Elijah and Elisha was of a particularly close kind, but
 the difference between them is much more striking than the resemblance.
 Elijah is the prophet of the wilderness, wandering, rugged and austere;
 Elisha is the prophet of civilized life, of the city and the court, with
-the dress, manners and appearance of ordinary "grave citizens." Elijah
+the [[Dress|dress]], manners and appearance of ordinary "grave citizens." Elijah
 is the messenger of vengeance--sudden, fierce and overwhelming; Elisha
 is the messenger of mercy and restoration. Elijah's miracles, with few
 exceptions, are works of wrath and destruction; Elisha's miracles, with
@@ -26,7 +26,7 @@ is the "prophet as fire" (Ecclus, xlviii. 1), an abnormal agent working
 for exceptional ends; Elisha is the "holy man of God which passeth by us
 continually" (2 Kings iv. 9), mixing in the common life of the people.
 
-It is impossible to draw up a detailed chronology of his life. In most
+It is impossible to draw up a detailed [[Chronology|chronology]] of his life. In most
 of the events narrated no further indication of time is given than by
 the words "the king of Israel," the name not being specified. There are
 some instances in which the order of time is obviously the reverse of
@@ -55,7 +55,7 @@ to three of the miracles, and leaves unexplained a much larger number
 which are not only not repetitions of those of Elijah, but have an
 entirely opposite character. The healing of the water of Jericho by
 putting salt in it (ii. 19-22), the provision of water for the army of
-Jehoshaphat in the arid desert (iii. 6-20), the neutralizing by meal of
+Jehoshaphat in the arid [[Desert|desert]] (iii. 6-20), the neutralizing by meal of
 the poison in the pottage of the famine-stricken sons of the prophets at
 Jericho (iv. 38-41), the healing of Naaman the Syrian (v. 1-19), and the
 recovery of the iron axehead that had sunk in the water (vi. 1-7), are
@@ -76,13 +76,13 @@ one's elders.[1] The leprosy brought upon Gehazi (v. 20-27), though a
 miracle of judgment, scarcely belongs to the same class as the other;
 and it will be observed that Gehazi's subsequent relations with the
 court (viii. 1-6) ignore the disease, a fatal hindrance to intercourse.
-Further, the healing of Naaman (alluded to in Luke iv. 27) presupposes
+Further, the healing of Naaman (alluded to in [[Luke]] iv. 27) presupposes
 peaceful relations between Israel and the Syrians, with which, however,
 contrast ch. vi. The wonder-working power of Elisha is represented as
 continuing even after his death. As the feeding of the hundred men and
 the cure of leprosy connect his work with that of Jesus, so the story
 that a dead man who was cast into his sepulchre was brought to life by
-the mere contact with his bones (2 Kings xiii. 21, cf. Ecclus. xlviii.
+the mere contact with his [[Bone|bones]] (2 Kings xiii. 21, cf. Ecclus. xlviii.
 12-14) is the most striking instance of an analogy between his miracles
 and those recorded of medieval saints. Stanley (_Jewish Church_, 4th
 ed., ii. 276) in reference to this has remarked that in the life of
@@ -119,7 +119,7 @@ himself came ("messenger" in vi. 33 should rather be _king_), predicted
 a great plenty within twenty-four hours. This was fulfilled by the
 flight of the Syrian army under the circumstances stated in ch. vii.
 After the episode with regard to the woman of Shunem (viii. 1-6), which
-is out of its chronological order, Elisha is represented as at Damascus
+is out of its chronological order, Elisha is represented as at [[Damascus]]
 (viii. 7-15). The reverence with which the foreign monarch Benhadad
 addressed Elisha deserves to be noted as showing the extent of the
 prophet's influence. In sending to know the issue of his illness, the
@@ -168,7 +168,7 @@ greater predecessor.
   on the 14th of June, under which date his life is entered in the _Acta
   sanctorum_.
 
-  See especially, W.R. Smith, _Prophets of Israel_ (Index, s.v.), and
+  See especially, W.R. Smith, _Prophets of Israel_ ([[Index]], s.v.), and
   the literature to ELIJAH; KINGS, BOOKS OF; PROPHET.
        (W. R. S.; S. A. C.)
 
@@ -196,7 +196,7 @@ FOOTNOTES:
     seems to lie between Gilgal and Jericho; but v. 25 shows that Gilgal
     was not originally represented as Elisha's residence in this
     narrative, which belongs to the Carmel-Dothan series. On the other
-    hand, for the identification with the Gilgal (Jiljilia) S.W. of
+    hand, for the [[Identification|identification]] with the Gilgal (Jiljilia) S.W. of
     Shiloh, see G.A. Smith, _Ency. Bib._ (s.v. Gilgal); Burney, _op.
     cit._, p. 264; Skinner, _Century Bible_: _Kings_, p. 278.
 

@@ -23,7 +23,7 @@ The neuter term _brahma_ is used in the _Rigveda_ both in the abstract
 sense of "devotion, worship," and in the concrete sense of "devotional
 rite, prayer, hymn." The spirit of Vedic worship is pervaded by a devout
 belief in the efficacy of invocation and sacrificial offering. The
-earnest and well-expressed prayer or hymn of praise cannot fail to draw
+[[Earnest|earnest]] and well-expressed prayer or hymn of praise cannot fail to draw
 the divine power to the worshipper and make it yield to his
 supplication; whilst offerings, so far from being mere acts of devotion
 calculated to give pleasure to the god, constitute the very food and
@@ -33,10 +33,10 @@ and worship which found an early expression in the term _brahma_; and
 its independent existence as an active moral principle in shaping the
 destinies of man became recognized in the Vedic pantheon in the
 conception of a god _Brihaspati_ or _Brahmanaspati_, "lord of prayer or
-devotion," the divine priest and the guardian of the pious worshipper.
+devotion," the divine priest and the [[Guardian|guardian]] of the pious worshipper.
 By a natural extension of the original meaning, the term _brahma_, in
 the sense of sacred utterance, was subsequently likewise applied to the
-whole body of sacred writ, the _tri-vidya_ or "triple lore" of the Veda;
+whole body of sacred writ, the _tri-vidya_ or "triple [[Lore|lore]]" of the Veda;
 whilst it also came to be commonly used as the abstract designation of
 the priestly function and the Brahmanical order generally, in the same
 way as the term _kshatra_, "sway, rule," came to denote the aggregate of
@@ -55,7 +55,7 @@ hymn" (_brahman_, n.); and the same term came subsequently to be used
 not only for one of the sacerdotal order generally, but also, and more
 commonly, as the designation of a special class of priests who
 officiated as superintendents during sacrificial performances, the
-complicated nature of which required the co-operation of a whole staff
+complicated nature of which required the [[Co-Operation|co-operation]] of a whole staff
 of priests, and who accordingly were expected to possess a competent
 knowledge of the entire course of ritual procedure, including the
 correct form and mystic import of the sacred texts to be repeated or
@@ -66,7 +66,7 @@ pervading it (_brahma_), the complete realization of theocratic
 aspirations required but a single step, which was indeed taken in the
 theosophic speculations of the later Vedic poets and the authors of the
 Brahmanas (q.v.), viz. the recognition of this abstract notion of the
-Brahma as the highest cosmic principle and its identification with the
+Brahma as the highest [[Cosmic|cosmic]] principle and its [[Identification|identification]] with the
 pantheistic conception of an all-pervading, self-existent spiritual
 substance, the primary source of the universe; and subsequently coupled
 therewith the personification of its creative energy in the form of
@@ -82,13 +82,13 @@ the priest of the gods. Moreover, the exact relationship between
 Prajapati and the Brahma (n.) is hardly as yet defined with sufficient
 precision; it is rather one of simple identification: in the beginning
 the Brahma was the All, and Prajapati is the Brahma. It is only in the
-institutes of Manu, where we find the system of castes propounded in its
+institutes of Manu, where we find the system of [[Caste|castes]] propounded in its
 complete development, that Brahma has his definite place assigned to him
-in the cosmogony. According to this work, the universe, before
+in the [[Cosmogony|cosmogony]]. According to this work, the universe, before
 undiscerned, was made discernible in the beginning by the sole,
 self-existent lord Brahma (n.). He, desirous of producing different
 beings from his own self, created the waters by his own thought, and
-placed in them a seed which developed into a golden egg; therein was
+placed in them a seed which developed into a golden [[Egg|egg]]; therein was
 born Brahma (m.), the parent of all the worlds; and thus "that which is
 the undiscrete Cause, eternal, which is and is not, from it issued that
 male who is called in the world Brahma." Having dwelt in that egg for a
@@ -105,8 +105,8 @@ floating on the primordial waters. In artistic representations, Brahma
 usually appears as a bearded man of red colour with four heads crowned
 with a pointed, tiara-like head-dress, and four hands holding his
 sceptre, or a sacrificial spoon, a bundle of leaves representing the
-Veda, a bottle of water of the Ganges, and a string of beads or his bow
-Parivita. His vehicle (_vahana_) is a goose or swan (_hamsa_), whence he
+Veda, a bottle of water of the [[Ganges]], and a string of [[Bead|beads]] or his [[Bow|bow]]
+Parivita. His vehicle (_vahana_) is a [[Goose|goose]] or swan (_hamsa_), whence he
 is also called _Hamsavhana_; and his consort is Sarasvati, the goddess
 of learning.
 

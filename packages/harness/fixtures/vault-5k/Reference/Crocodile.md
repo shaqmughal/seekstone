@@ -24,7 +24,7 @@ The Crocodilia form a separate order of reptiles with many
 peculiarities. The premaxillae are short and always enclose the
 nostrils. The posterior nares or choanae open far behind in the roof of
 the mouth, in recent forms within the pterygoids. The under jaws are
-hinged on to the quadrate bones, which extend obliquely backwards, and
+hinged on to the quadrate [[Bone|bones]], which extend obliquely backwards, and
 are immovably wedged in between the squamosal and the lateral occipital
 wings. The teeth form a complete series in the under jaw, and in the
 upper jaw on the premaxillary and maxillary bones. They are conical and
@@ -37,9 +37,9 @@ mostly interlock, a feature which increases with the slenderness of the
 snout. In old specimens some of the longer, lower teeth work their tips
 into deep pits, and ultimately even perforate the corresponding parts of
 the upper jaw. The first and second vertebrae each have a pair of long,
-movable ribs. There is a compound abdominal sternum. The so-called pubic
+movable ribs. There is a [[Compound|compound]] abdominal sternum. The so-called pubic
 bones are large and movable. There are five fingers and four toes,
-provided with claws, excepting the outer digits.
+provided with claws, excepting the outer [[Digit|digits]].
 
 The tongue is flat and thick, attached by its whole under surface; its
 hinder margin is raised into a transverse fold, which, by meeting a
@@ -61,7 +61,7 @@ system has attained the highest state of development of all reptiles.
 The heart is practically quadrilocular, the right and left halves being
 completely partitioned, except for a small communication, the _foramen
 Panizzae_, between the right and left aortae where these cross each
-other on leaving their respective ventricles. The outer ear lies in a
+other on leaving their respective ventricles. The outer [[Ear|ear]] lies in a
 recess which can be closed tightly by a dorsal flap of skin. The power
 of hearing is acute, and so is the sight, the eyes being protected by
 upper and lower lids and by a nictitating membrane. The skin of the
@@ -74,10 +74,10 @@ minus, the epidermis and the horny coverings of the scutes. All the
 Crocodilia possess two pairs of musk-glands in the skin; one is situated
 on the inner side of the lower jaw. The opening of the glands is
 slit-like and leads into a pocket, which is filled with a smeary,
-strongly scented matter. The other pair lies just within the lips of the
+strongly scented matter. The other pair lies just within the [[Lip|lips]] of the
 cloacal opening.
 
-Propagation takes place by eggs, which are oval, quite white, with a
+Propagation takes place by [[Egg|eggs]], which are oval, quite white, with a
 very hard and strong shell. Their size varies from 2 to 4 in. in length,
 according to the size of the species and the age of the female. She lays
 several dozen eggs in a carefully prepared nest. The Nile crocodile
@@ -100,14 +100,14 @@ hunting-grounds, they sometimes undertake long wanderings over land. But
 the water is their true element. They swim rapidly, propelled by the
 powerful tail and by the mostly webbed limbs, or they submerge
 themselves, with only the tip of the nose and the eyes showing, or
-sometimes also the back. They then look like floating logs; and thus
-they float or gently approach their prey, which consists of anything
+sometimes also the back. They then look like floating [[Log|logs]]; and thus
+they [[Float|float]] or gently approach their prey, which consists of anything
 they can overpower. Many a large mammal coming to drink at its
 accustomed place is dragged into the water by the lurking monster.
 Certainly there are occasional man-eaters amongst them, and in some
 countries they are much feared. As a rule, however, they are so wary and
 suspicious that they are very difficult to approach, and their haunts
-are so well stocked with fish and other game that they make off and hide
+are so well stocked with fish and other [[Game|game]] that they make off and hide
 rather than attack a man swimming in their waters. But if a dog is sent
 in there will be a sudden yelp, the splash from a big tail, and a
 widening eddy.
@@ -138,7 +138,7 @@ crocodile's nest.
 
   Considering the interest which is taken in crocodiles and their
   allies, on account of their size, their dangerous nature and the
-  sporting trophies which they yield, the following "key," based upon
+  sporting trophies which they yield, the following "[[Key|key]]," based upon
   easily ascertained characters of the skull, is given.
 
   I. Snout very long and slender. The mandibular symphysis extends
@@ -176,7 +176,7 @@ crocodile's nest.
 
 The genus _Cracodilus_ contains seven species. _C. vulgaris_ or
 _niloticus_ of most of Africa, is found from the Senegal to Egypt and to
-Madagascar, reaching a length of 15 ft. It has eighteen or nineteen
+[[Madagascar]], reaching a length of 15 ft. It has eighteen or nineteen
 upper and fifteen lower teeth on each side. _C. palustris_, the "mugger"
 or "marsh crocodile" of India and Ceylon, extends westwards into
 Baluchistan, eastwards into the Malay islands. It has nineteen upper and
@@ -187,9 +187,9 @@ _biporcatus_ is easily recognised by the prominent longitudinal ridge
 which extends in front of each eye. Specimens of more than 20 ft. in
 length are not uncommon, and a monster of 33 ft. is on record. It is
 essentially an inhabitant of tidal waters and estuaries, and often goes
-out to sea; hence its wide distribution, from the whole coast of Bengal
+out to sea; hence its wide distribution, from the whole coast of [[Bengal]]
 to southern China, to the northern coasts of Australia and even to the
-Fiji islands. Australians are in the habit of calling their crocodiles
+[[Fiji]] islands. Australians are in the habit of calling their crocodiles
 alligators. _C. cataphractus_ is the common crocodile of West Africa,
 easily recognised by the slender snout which resembles that of the
 gavial, but the mandibular symphysis does not reach beyond the eighth

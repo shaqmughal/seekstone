@@ -1,24 +1,24 @@
 # Ground-Ice
 
-GROUND-ICE,[1] ice formed at the bottom of streams while the temperature
+GROUND-ICE,[1] [[Ice|ice]] formed at the bottom of streams while the temperature
 of the water is above freezing-point. Everything points to radiation as
 the prime cause of the formation of ground-ice. It is formed only under
 a clear sky, never in cloudy weather; it is most readily formed on dark
 rocks, and never under any covering such as a bridge, and rarely under
-surface-ice. Professor Howard T. Barnes of McGill University concludes
+surface-ice. Professor [[Howard]] T. [[Barnes]] of McGill University concludes
 that the radiation from a river bed in cold and clear nights goes
 through the water in long rays that penetrate much more easily from
 below upwards than the sun's heat rays from above downwards, which are
 mostly absorbed by the first few feet of water. On a cold clear night,
 therefore, the radiation from the bottom is excessive, and loosely-grown
 spongy masses of anchor-ice form on the bottom, which on the following
-bright sunny day receive just sufficient heat from the sun to detach the
+[[Bright|bright]] sunny day receive just sufficient heat from the sun to detach the
 mass of ice, which rises to the surface with considerable force. It is
 probable that owing to surface tension a thin film of stationary water
-rests upon the boulders and sand over which a stream flows, and that
+rests upon the [[Boulder|boulders]] and sand over which a stream flows, and that
 this, becoming frozen owing to radiation, forms the foundation for the
 anchor-ice and produces a surface upon which the descending frazil-ice
-(see below) can lodge. The theory of radiation from the boulders is
+(see below) can [[Lodge|lodge]]. The theory of radiation from the boulders is
 supported by the fact that as the ice is formed upon them in response to
 a sudden fall in the air temperature, it is only released under the
 influence of a strong rise of temperature during the morning. It may not
@@ -28,13 +28,13 @@ spongy texture and frequently carries gravel with it when it rises. It
 is said that the bottom of Lake Erie is strewn with gravel that has been
 floated down in this way. This "anchor-ice," as it was called by
 Canadian trappers, frequently forms dams across narrow portions of the
-river where the floating masses are caught. Dr H. Landor pointed out
-that the Mackenzie and Mississippi rivers, which rise in the same region
+river where the floating masses are caught. Dr H. [[Landor]] pointed out
+that the [[Mackenzie]] and Mississippi rivers, which rise in the same region
 and flow in opposite directions, carry ground-ice from their head-waters
 for a considerable distance down stream, and suggested that here and in
 Siberia many forms of vegetable and animal life may be distributed from
 a centre by this agency, since the material carried by the floating ice
-would contain the seeds and eggs or larvae of many forms.
+would contain the seeds and [[Egg|eggs]] or larvae of many forms.
 
 Besides ground-ice and anchor-ice this formation is called also
 bottom-ice, ground-gru and lappered ice, the two last names being

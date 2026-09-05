@@ -3,29 +3,29 @@
 MALTON, a market town in the Thirsk and Malton parliamentary division of
 Yorkshire, England, 21 m. N.E. of York by a branch of the North Eastern
 railway. The town comprises Old Malton and New Malton in the North
-Riding, and Norton on the opposite side of the river Derwent, in the
+Riding, and Norton on the opposite side of the river [[Derwent]], in the
 East Riding. Pop. of urban district of Malton (1901), 4758; of urban
 district of Norton 3842. The situation, on the wooded hills rising from
 the narrow valley, is very picturesque. The church of St Michael is a
 fine late Norman building with perpendicular tower; the church of St
 Leonard, of mixed architecture, with square tower and spire, has three
-Norman arches and a Norman font. The church of St Mary at Old Malton was
+Norman [[Arches|arches]] and a Norman font. The church of St Mary at Old Malton was
 attached to a Gilbertine priory founded in 1150; it is transitional
 Norman and Early English, with later insertions. Remains of the priory
 are scanty, but include a crypt under a modern house. In the
 neighbourhood of Malton are the slight but beautiful fragments of
 Kirkham Abbey, an Early English Augustinian foundation of Walter l'Espec
-(1131); and the fine mansion of Castle Howard, a massive building by
+(1131); and the fine mansion of Castle [[Howard]], a massive building by
 Vanbrugh, the seat of the earls of Carlisle, containing a noteworthy
-collection of pictures. Malton possesses a town-hall, a corn exchange, a
-museum, and a grammar-school founded in 1547. There are iron and brass
-foundries, agricultural implement works, corn mills, tanneries and
+collection of pictures. Malton possesses a town-hall, a [[Corn|corn]] [[Exchange|exchange]], a
+museum, and a grammar-school founded in 1547. There are iron and [[Brass|brass]]
+foundries, agricultural [[Implement|implement]] works, corn mills, tanneries and
 breweries. In the neighbourhood are lime and whinstone quarries.
 
 Traces of a Romano-British village exist on the east side of the town,
 but there appears to be no history of Malton before the Norman Conquest.
 The greater part of Malton belonged to the crown in 1086 and was
-evidently retained until Henry I. gave the castle and its appurtenances
+evidently retained until Henry I. gave the castle and its [[Appurtenances|appurtenances]]
 to Eustace son of John, whose descendants took the name of Vescy.
 Eustace meditated the deliverance of Malton Castle to King David of
 Scotland in 1138, but his plans were altered owing to the battle of the

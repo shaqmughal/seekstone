@@ -59,16 +59,16 @@ sailors' club, built by the Roman Catholic mission. The bishop of
 Singapore and Sarawak is also bishop of Labuan. The European graveyard
 has repeatedly been the scene of outrages perpetrated, it is believed,
 by natives from the mainland of Borneo, the graves being rifled and the
-hair of the head and other parts of the corpses being carried off to
+hair of the head and other parts of the [[Corpse|corpses]] being carried off to
 furnish ornaments to weapons and ingredients in the magic philtres of
 the natives. Pulau Dat, a small island in the near neighbourhood of
-Labuan, is the site of a fine coco-nut plantation whence nuts and copra
+Labuan, is the site of a fine coco-nut plantation whence nuts and [[Copra|copra]]
 are exported in bulk. The climate is hot and very humid.
 
   Until 1869 the expenditure of the colony was partly defrayed by
   imperial grants-in-aid, but after that date it was left to its own
   resources. A garrison of imperial troops was maintained until 1871,
-  when the troops were withdrawn after many deaths from fever and
+  when the troops were withdrawn after many deaths from [[Fever|fever]] and
   dysentery had occurred among them. Since then law and order have been
   maintained without difficulty by a small mixed police force of
   Punjabis and Malays. From the 1st of January 1890 to the 1st of

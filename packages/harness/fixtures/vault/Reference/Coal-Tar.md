@@ -2,7 +2,7 @@
 
 COAL-TAR, the black, viscous, sometimes semi-solid, fluid of peculiar
 smell, which is condensed together with aqueous "gas liquor" when the
-volatile products of the destructive distillation of coal are cooled
+volatile products of the destructive [[Distillation|distillation]] of coal are cooled
 down. It is also called "gas-tar," because it was formerly exclusively,
 and even now is mostly, obtained as a by-product in the manufacture of
 coal-gas, but the tar obtained from the modern coke-ovens, although not
@@ -20,12 +20,12 @@ been used by the gas-maker. All these materials--bog-head shale,
 bituminous lignite and so forth--by destructive distillation yield more
 or less paraffinoid oils, which render the purification of the benzols
 very difficult and sometimes nearly impossible for the purposes of the
-manufacturer of coal-tar colours.
+manufacturer of coal-tar [[Colours|colours]].
 
 Neither too high nor too low a temperature should have been observed in
 gas-making in order to obtain a good quality of tar. Since in recent
 times most gas retorts have been provided with heating arrangements
-based on the production of gaseous fuel from coke, which produce higher
+based on the production of gaseous [[Fuel|fuel]] from coke, which produce higher
 temperatures than direct firing and have proved a great economy in the
 process of gas-making itself, the tar has become of decidedly inferior
 quality for the purposes of the tar-distillers, and in particular yields
@@ -33,14 +33,14 @@ much less benzol than formerly.
 
 Entirely different from gas-tar is the tar obtained as a by-product from
 those (Scottish) blast furnaces which are worked with splint-coal. This
-tar contains very little aromatic hydrocarbons, and the phenols are of
+tar contains very little aromatic [[Hydrocarbon|hydrocarbons]], and the phenols are of
 quite a different character from those obtained in the working of
 gas-tar. The same holds good of oil-gas tars and similar substances.
 These should not be worked up like gas-tars.
 
 The ordinary yield of tar in the manufacture of coal-gas is between 4
 and 5% of the weight of the coal. Rather more is obtained when passing
-the gas through the apparatus of E. Pelouze and P. Audouin, where it is
+the gas through the apparatus of E. Pelouze and P. [[Audouin]], where it is
 exposed to several shocks against solid surfaces, or by carrying on the
 process at the lowest possible temperature, as proposed by H. J. Davis,
 but this "carbonizing process" can only pay under special circumstances,
@@ -48,7 +48,7 @@ and is probably no longer in practical use.
 
 All coal-tars have a specific gravity above that of water, in most cases
 between 1.12 and 1.20, but exceptionally up to 1.25. The heavier tars
-contain less benzol than the lighter tars, and more "fixed carbon,"
+contain less benzol than the lighter tars, and more "fixed [[Carbon|carbon]],"
 which remains behind when the tars are exhausted of benzol and is a
 decidedly objectionable constituent. All tars also mechanically retain a
 certain quantity of water (or rather gas-liquor), say, 4% on the
@@ -61,7 +61,7 @@ removed in the ordinary way or by special "separators."
 The tar itself is a mixture of exceedingly complex character. The great
 bulk of its constituents belongs to the class of "aromatic"
 hydrocarbons, of very different composition and degrees of volatility,
-beginning with the simplest and most volatile, benzene (C6H6), and
+beginning with the simplest and most volatile, [[Benzene|benzene]] (C6H6), and
 ending with an entirely indistinguishable mass of non-volatile bodies,
 which compose the pitch left behind in the tar-stills. The hydrocarbons
 mostly belong to the benzene series CnH2n-6, the naphthalene series
@@ -70,7 +70,7 @@ quantities of "fatty" ("aliphatic") hydrocarbons are never absent, even
 in pure tars, and are found in considerable quantities when shales and
 similar matters have been mixed with the coal in the gas-retorts. They
 belong mostly to the paraffins CnH2n+2, and the olefines CnH2n. The
-"asphalt" or soluble part of the pitch is also a mixture of
+"[[Asphalt|asphalt]]" or soluble part of the pitch is also a mixture of
 hydrocarbons, of the formula CnH2n; even the "carbon," left behind after
 treating the pitch with all possible solvents is never pure carbon, but
 contains a certain quantity of hydrogen, although less than any of the
@@ -105,20 +105,20 @@ is previously boiled in order to remove its more volatile constituents.
 No preparation whatever is needed if the tar is to be used as _fuel_,
 either for heating the gas-retorts or for other purposes. Its
 heating-value is equal to the same weight of best coal, but it is very
-difficult to burn it completely without producing a great deal of
-evil-smelling smoke. This drawback has been overcome by employing the
-same means as have been found suitable for the combustion of the heavy
+difficult to [[Burn|burn]] it completely without producing a great deal of
+evil-smelling smoke. This [[Drawback|drawback]] has been overcome by employing the
+same means as have been found suitable for the [[Combustion|combustion]] of the heavy
 petroleum residues, called "masut," viz. converting the tar into a fine
 spray by means of steam or compressed air. When the gas-maker cannot
 conveniently or profitably dispose of his tar for other purposes, he
-burns it by the above means under his retorts.
+[[Burns|burns]] it by the above means under his retorts.
 
 Several processes have also been patented for producing _illuminating
 gas_ from tar, the most notable of which is the Dinsmore process. This
 process has been adversely criticized by very competent gas-makers, and
 no great success can be expected in this line.
 
-Coal-tar is very much employed for painting wood, iron, brickwork, or
+Coal-tar is very much employed for painting wood, iron, [[Brickwork|brickwork]], or
 stone, as a preventive against the influence of weather or the far more
 potent action of corrosive chemicals. This, of course, can be done only
 where appearance is no object, for instance in chemical works, where all
@@ -145,7 +145,7 @@ by itself and as a grounding for tiles or slates. In the former case it
 must be kept in repair by repainting with tar from time to time, a top
 covering of sand or small gravel being put on after every coat of paint.
 
-Coal-tar is also employed for the manufacture of _lamp-black_. This is
+Coal-tar is also employed for the manufacture of _[[Lamp-Black|lamp-black]]_. This is
 done by burning the tar in ovens, connected with brick-chambers in which
 the large quantity of soot, formed in this process, deposits before the
 gases escape through the chimney. Numerous patents have been taken out
@@ -166,23 +166,23 @@ by-product thereof, are carried out on a much larger scale in that than
 in any other country. The first attempts in this line were made in 1815
 by F. C. Accum, and in 1822 by Dr G. D. Longstaff and Dr Dalston. At
 first the aim was simply to obtain "naphtha," used in the manufacture of
-india-rubber goods, for burning in open lamps and for some descriptions
+india-rubber goods, for burning in open [[Lamp|lamps]] and for some descriptions
 of varnish; the great bulk of the tar remained behind and was used as
 fuel or burned for the purpose of obtaining lamp-black.
 
 It is not quite certain who first discovered in the coal-naphtha the
 presence of benzene (q.v.), which had been isolated from oil-gas by M.
-Faraday as far back as 1825. John Leigh claims to have shown coal-tar
+[[Faraday]] as far back as 1825. John Leigh claims to have shown coal-tar
 benzene and nitro-benzene made from it at the British Association
 meeting held at Manchester in 1842, but the report of the meeting says
 nothing about it, and the world in general learned the presence of
 benzene in coal-tar only from the independent discovery of A. W.
-Hofmann, published in 1845. And it was most assuredly in Hofmann's
-London laboratory that Charles Mansfield worked out that method of
+[[Hofmann]], published in 1845. And it was most assuredly in Hofmann's
+London laboratory that Charles [[Mansfield]] worked out that method of
 fractional distillation of the coal-tar and of isolating the single
 hydrocarbons which laid the foundation of that industry. His patent,
 numbered 11,960 and dated November 11th, 1847, is the classical
-land-mark of it. About the same time, in 1846, Brönner, at Frankfort,
+land-mark of it. About the same time, in 1846, Brönner, at [[Frankfort]],
 brought his "grease-remover" into the trade, which consisted of the most
 volatile coal-tar oils, of course not separated into the pure
 hydrocarbons; he also sold water-white "creosote" and heavy tar-oils for
@@ -200,9 +200,9 @@ uses of this hydrocarbon for a long time remained much behind the
 quantities which are producible from coal-tar, until the manufacture of
 synthetic indigo opened out a wide field for it. The last of the great
 discoveries in that line was the preparation of alizarine from
-anthracene by C. Graebe and C. T. Liebermann, in 1868, soon followed by
+anthracene by C. Graebe and C. T. [[Liebermann]], in 1868, soon followed by
 patents for its practical manufacture by Sir W. H. Perkin in England,
-and by Graebe, Liebermann and H. Caro in Germany.
+and by Graebe, Liebermann and H. [[Caro]] in Germany.
 
 The present extension of the industry of coal-tar distilling can be only
 very roughly estimated from the quantity of coal-tar produced in various
@@ -238,7 +238,7 @@ of tar.
   increasing the heating surface and of raising the level of the pitch
   remaining at the end of the operation above the fire-flues. The fuel
   is consumed on the fire-grate a, and, after having traversed the holes
-  bb in the annular wall e built below the still, the furnace gases are
+  bb in the [[Annular|annular]] wall e built below the still, the furnace gases are
   led around the still by means of the flue d, whence they pass to the
   chimney. Cast-iron necks are provided in the top for the outlet of the
   vapours, for a man-hole, supply-pipe, thermometer-pipe, safety valve,
@@ -247,7 +247,7 @@ of tar.
   overflow pipe which comes into action on filling the still. In the
   lowest part of the bottom there is a running-off valve or tap. In some
   cases (but only exceptionally) a perpendicular shaft is provided, with
-  horizontal arms, and chains hanging down from these drag along the
+  horizontal arms, and chains [[Hanging|hanging]] down from these [[Drag|drag]] along the
   bottom for the purpose of keeping it clean and of facilitating the
   escape of the vapours. This arrangement is quite unnecessary where the
   removal of the vapours is promoted by the injection of steam, but this
@@ -284,8 +284,8 @@ of tar.
 
   The tar-stills are set in brickwork in such a manner that there is no
   over-heating of their contents. For this purpose the fire-grate is
-  placed at a good distance from the bottom or even covered by a brick
-  arch so that the flame does not touch the still-bottom at all and acts
+  placed at a good distance from the bottom or even covered by a [[Brick|brick]]
+  [[Arch|arch]] so that the flame does not touch the still-bottom at all and acts
   only indirectly, but the sides of the still are always directly
   heated. The fire-flue must not be carried up to a greater height than
   is necessary to provide against the overheating of any part of the
@@ -302,7 +302,7 @@ of tar.
   continuous fall towards the bottom. A steam-pipe (b) is provided for
   heating the cooling water, which is necessary during the later part of
   the operation to prevent the stopping up of the pipes by the
-  solidification of the distillates. A cock (a) allows steam to be
+  solidification of the distillates. A [[Cock|cock]] (a) allows steam to be
   injected into the condensing worm in order to clear any obstruction.
 
   [Illustration: FIG. 2.--Condensing Worm (Plan)]
@@ -324,7 +324,7 @@ of tar.
   still, and a second fraction as "light oil," up to 210° C., but more
   usually these two are not separated in the first distillation, and the
   first or "light oil" fraction then embraces everything which comes
-  over until the drops no longer float on, but show the same specific
+  over until the drops no longer [[Float|float]] on, but show the same specific
   gravity as water. The specific gravity of this fraction varies from
   0.91 to 0.94. The next fraction is the "middle oil" or "carbolic oil,"
   of specific gravity 1.01, boiling up to 240° C.; it contains most of
@@ -393,7 +393,7 @@ of tar.
   of during the colder season or without a long carriage, even the hard
   pitch is preferably softened within the still by pumping back a
   sufficient quantity of heavy oil, previously deprived of anthracene.
-  This makes it much easier to discharge the still. When the contents
+  This makes it much easier to [[Discharge|discharge]] the still. When the contents
   consist of soft pitch they are run off without much trouble, but hard
   pitch not merely emits extremely pungent vapours, but is mostly at so
   high a temperature that it takes fire in the air. Hard pitch must,
@@ -401,11 +401,11 @@ of tar.
   down out of contact with air, until it can be drawn out into the open
   pots where its solidification is completed.
 
-  Most of the pitch is used for the manufacture of "briquettes" ("patent
+  Most of the pitch is used for the manufacture of "[[Briquette|briquettes]]" ("patent
   fuel"), for which purpose it should soften between 55° and 80° C.
   according to the requirements of the buyer. In Germany upwards of
   50,000 tons are used annually in that industry; much of it is imported
-  from the United Kingdom, whence also France and Belgium are provided.
+  from the United Kingdom, whence also France and [[Belgium]] are provided.
   Apart from the softening point the pitch is all the more valued the
   more constituents it contains which are soluble in xylene. The portion
   insoluble in this is denoted as "fixed carbon." If the briquette
@@ -432,7 +432,7 @@ of tar.
   goes to the middle-oil fraction.
 
   The "first runnings" are now "washed" in various ways, of which we
-  shall describe one of the best. The oil is mixed with dilute caustic
+  shall describe one of the best. The oil is mixed with dilute [[Caustic|caustic]]
   soda solution, and the solution of phenols thus obtained is worked up
   with that obtained from the next fractions. After this follows a
   treatment with dilute sulphuric acid (spec. grav. 1.3), to extract the
@@ -533,9 +533,9 @@ of tar.
   C., and crystallizes out in a nearly pure state. The oily portion
   remaining behind, about 60% of this distillate, contains about 30%
   phenols and 3% bases. It has highly disinfectant properties and is
-  frequently converted into special disinfectants, e.g. by mixing it
+  frequently converted into special [[Disinfectants|disinfectants]], e.g. by mixing it
   with four times its volume of slaked lime, which yields "disinfectant
-  powder" for stables, railway cars, &c. Mixtures of potash soaps (soft
+  powder" for stables, railway [[Car|cars]], &c. Mixtures of potash soaps (soft
   soaps) with this oil have the property of yielding with water
   emulsions which do not settle for a long time and are found in the
   trade as "creolin," "sapocarbol," "lysol," &c.
@@ -562,7 +562,7 @@ of tar.
   280° and 400° C. It is liquid at 60° C., but on cooling about 6 to 10%
   of crude anthracene separates as greenish-yellow, sandy crystals,
   containing about 30% of real anthracene, together with a large
-  percentage of carbazol and phenanthrene. This crystallization takes
+  percentage of [[Carbazol|carbazol]] and phenanthrene. This crystallization takes
   about a week. The crude anthracene is separated from the mother oils
   by filter presses, followed by centrifugals or by hot hydraulic
   presses. The liquid oils are redistilled, in order to obtain more
@@ -577,7 +577,7 @@ of tar.
 
   BIBLIOGRAPHY.--The principal work on Coal-tar is G. Lunge's _Coal-tar
   and Ammonia_ (3rd ed., 1900). Consult also G. P. Sadtler, _Handbook of
-  Industrial Organic Chemistry_ (1891), and the article
+  Industrial Organic [[Chemistry]]_ (1891), and the article
   "Steinkohlentheer," Kraemer and Spreker, in _Encyklopädisches Handbuch
   der technischen Chemie_ (4th ed., 1905, viii. 1).     (G. L.)
 
@@ -585,7 +585,7 @@ of tar.
 FOOTNOTE:
 
   [1] The illustrations in this article are from Prof. G. Lunge's _Coal
-    Tar and Ammonia_, by permission of Friedrich Vieweg u. Sohn.
+    Tar and Ammonia_, by permission of [[Friedrich]] Vieweg u. Sohn.
 
 ## See also
 

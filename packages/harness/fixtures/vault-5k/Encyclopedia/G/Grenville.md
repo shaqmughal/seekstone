@@ -11,16 +11,16 @@ id: 42-2129
 
 GRENVILLE, WILLIAM WYNDHAM GRENVILLE, BARON (1759-1834), English
 statesman, youngest son of George Grenville, was born on the 25th of
-October 1759. He was educated at Eton and Christ Church, Oxford, gaining
+October 1759. He was educated at [[Eton]] and Christ Church, Oxford, gaining
 the chancellor's prize for Latin verse in 1779. In February 1782
 Grenville was returned to parliament as member for the borough of
 Buckingham, and in the following September he became secretary to the
 lord lieutenant of Ireland, who at this time was his brother, Earl
 Temple, afterwards marquess of Buckingham. He left office in June 1783,
 but in the following December he became paymaster-general of the forces
-under his cousin, William Pitt, and in 1786 vice-president of the
+under his [[Cousin|cousin]], William Pitt, and in 1786 vice-president of the
 committee of trade. In 1787 he was sent on an important mission to the
-Hague and Versailles with reference to the affairs of Holland. In
+[[Hague]] and Versailles with reference to the affairs of Holland. In
 January 1789 he was chosen speaker of the House of Commons, but he
 vacated the chair in the same year on being appointed secretary of state
 for the home department; about the same time he resigned his other
@@ -53,7 +53,7 @@ in March 1807 they resigned. Grenville's attitude in this matter was
 somewhat aggressive; his colleagues were not unanimous in supporting
 him, and Sheridan, one of them, said "he had known many men knock their
 heads against a wall, but he had never before heard of any man who
-collected the bricks and built the very wall with an intention to knock
+collected the [[Brick|bricks]] and built the very wall with an intention to knock
 out his own brains against it."
 
 Lord Grenville never held office again, although he was requested to do
@@ -63,7 +63,7 @@ and during the remaining years of his active political career, which
 ended in 1823, he generally voted with the Whigs, although in 1815 he
 separated himself from his colleague, Charles Grey, and supported the
 warlike policy of Lord Liverpool. In 1819, when the marquess of
-Lansdowne brought forward his motion for an inquiry into the causes of
+[[Lansdowne]] brought forward his motion for an inquiry into the causes of
 the distress and discontent in the manufacturing districts, Grenville
 delivered an alarmist speech advocating repressive measures. His
 concluding years were spent at Dropmore, Buckinghamshire, where he died
@@ -84,7 +84,7 @@ English, Greek and Italian, and an _Essay on the Supposed Advantages of
 a Sinking Fund_ (1828).
 
   The Dropmore MSS. contain much of Grenville's correspondence, and on
-  this the Historical Manuscripts Commission has published a report.
+  this the Historical [[Manuscript|Manuscripts]] Commission has published a report.
 
 ## See also
 

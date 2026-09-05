@@ -26,7 +26,7 @@ goniometer devised by Carangeot in 1783.
   The angle between the rules, as read on the graduated semicircle, then
   gives the angle between the two faces. The rules are slotted, so that
   they may be shortened and their tips applied to a crystal partly
-  embedded in its matrix. The instrument represented in fig. 1 is
+  embedded in its [[Matrix|matrix]]. The instrument represented in fig. 1 is
   practically the same in all its details as that made for Carangeot,
   and it is employed at the present day for the approximate measurement
   of large crystals with dull and rough faces. S. L. Penfield (1900) has
@@ -35,9 +35,9 @@ goniometer devised by Carangeot in 1783.
 
   _The Reflecting Goniometer._--This is an instrument of far greater
   precision, and is always used for the accurate measurement of the
-  angles when small crystals with bright faces are available. As a rule,
+  angles when small crystals with [[Bright|bright]] faces are available. As a rule,
   the smaller the crystal the more even are its faces, and when these
-  are smooth and bright they reflect sharply defined images of a bright
+  are smooth and bright they reflect sharply defined [[Image|images]] of a bright
   object. By turning the crystal about an axis parallel to the edge
   between two faces, the image reflected from a second face may be
   brought into the same position as that formerly occupied by the image
@@ -132,7 +132,7 @@ goniometer devised by Carangeot in 1783.
   the angles between the faces be measured directly; the positions of
   all the other faces, which need be observed only once, are fixed by
   the simultaneous readings of the two circles. These readings,
-  corresponding to the polar distance and azimuth, or latitude and
+  corresponding to the polar distance and [[Azimuth|azimuth]], or [[Latitude|latitude]] and
   longitude readings of astronomical telescopes, must be plotted on a
   projection before the symmetry of the crystal is apparent; and
   laborious calculations are necessary in order to determine the indices
@@ -172,7 +172,7 @@ goniometer devised by Carangeot in 1783.
   measuring the plane angles of a crystal face or section, being the
   same in principle as the contact goniometer.
 
-  For fuller descriptions of goniometers reference may be made to the
+  For [[Fuller|fuller]] descriptions of goniometers reference may be made to the
   text-books of Crystallography and Mineralogy, especially to P. H.
   Groth, _Physikalische Krystallographie_ (4th ed., Leipzig, 1905). See
   also C. Leiss, _Die optischen Instrumente der Firma R. Fuess, deren

@@ -14,8 +14,8 @@ Cicero held an unfavourable opinion of his methods, which were approved
 by Quintilian, although he considers that Hermagoras neglected the
 practical side of rhetoric for the theoretical. According to Suidas and
 Strabo, he was the author of [Greek: technai rhetorikai] (rhetorical
-manuals) and of other works, which should perhaps be attributed to his
-younger namesake, surnamed Carion, the pupil of Theodorus of Gadara.
+[[Manuals|manuals]]) and of other works, which should perhaps be attributed to his
+younger namesake, surnamed Carion, the pupil of Theodorus of [[Gadara]].
 
   See Strabo xiii. p. 621; Cicero, _De inventione_, i. 6. 8, _Brutus_,
   76, 263. 78, 271; Quintilian, _Instit._ iii. 1. 16, 3. 9, 11. 22; C.

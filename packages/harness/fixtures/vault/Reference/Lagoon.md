@@ -8,7 +8,7 @@ protected from wave action. Under these conditions a bar may be raised
 above sea-level or a spit may grow until its end touches the land. The
 enclosed shallow water is then isolated in a wide stretch, the seaward
 banks broaden, and the lagoon becomes a permanent area of still shallow
-water with peculiar faunal features. In the old lake plains of Australia
+water with peculiar faunal features. In the old lake plains of [[Australia]]
 there are occasional wide and shallow depressions where water collects
 permanently. Large numbers of aquatic birds, black swans, wild duck,
 teal, migrant spoon-bills or pelicans, resort to these fresh-water

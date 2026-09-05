@@ -10,7 +10,7 @@ tags: [anthropology-theory, africa]
 
 LIONNE, HUGUES DE (1611-1671), French statesman, was born at Grenoble on
 the 11th of October 1611, of an old family of Dauphiné. Early trained
-for diplomacy, his remarkable abilities attracted the notice of Cardinal
+for [[Diplomacy|diplomacy]], his remarkable abilities attracted the notice of Cardinal
 Mazarin, who sent him as secretary of the French embassy to the congress
 of Münster, and, in 1642, on a mission to the pope. In 1646 he became
 secretary to the queen regent; in 1653 obtained high office in the

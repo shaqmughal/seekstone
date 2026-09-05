@@ -8,7 +8,7 @@ tags: [music, republic-studies]
 # Asperges
 
 ASPERGES ("thou wilt sprinkle," from the Latin verb _aspergere_), the
-ceremony of sprinkling the people with holy water before High Mass in
+ceremony of sprinkling the people with [[Holy Water|holy water]] before High Mass in
 the Roman Catholic Church, so called from the first word of the verse
 (Ps. iv. 9) _Asperges me, Domini, hyssopo et mundabor_, with which the
 priest begins the ceremony. The brush used for sprinkling is an

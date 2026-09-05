@@ -18,7 +18,7 @@ between 116° and 134° E., and is wedged in between China and Mongolia on
 the west and north-west, and Korea and the Russian territory on the Amur
 on the east and north. More definitely, it is bounded N. by the Amur, E.
 by the Usuri, S. by the Gulf of Liao-tung, the Yellow Sea and Korea, and
-W. by Chih-li and Mongolia. The territory thus defined is about 800 m.
+W. by [[Chih-Li|Chih-li]] and Mongolia. The territory thus defined is about 800 m.
 in length and 500 m. in width, and contains about 390,000 sq. m. It is
 divided into three provinces, viz. Hei-lung-kiang or Northern Manchuria,
 Kirin or Central Manchuria, and Sheng-king or Southern Manchuria.
@@ -127,12 +127,12 @@ on the Nonni and Khailar in the west.
   wild animals also are those known in Europe, with the addition of
   tigers and panthers. Bears, wild boars, hares, wolves, foxes and wild
   cats are very common, and in the north sables are found in great
-  numbers. One of the most noticeable of the birds is the Mongolian lark
+  numbers. One of the most noticeable of the birds is the Mongolian [[Lark|lark]]
   (_Melanocorypha mongolica_), which is found in a wild state both in
-  Manchuria and in the desert of Mongolia. This bird is exported in
+  Manchuria and in the [[Desert|desert]] of Mongolia. This bird is exported in
   large numbers to northern China, where it is much prized on account of
   its extraordinary power of imitation. The Manchurian crane is common,
-  as also are eagles, cuckoos, laughing doves, &c. Insects abound, owing
+  as also are eagles, cuckoos, laughing [[Dove|doves]], &c. [[Insect|Insects]] abound, owing
   to the swampy nature of much of the country. The rivers are well
   stocked with fish, especially with salmon, which forms a common
   article of food. In such immense shoals do these fish appear in some
@@ -148,7 +148,7 @@ on the Nonni and Khailar in the west.
   Radevska, and at Chia-pi-kou, on an affluent of the upper Sungari.
   Indigo and opium are the most lucrative crops. The indigo plant is
   grown in large quantities in the plain country to the north of Mukden,
-  and is transported thence to the coast in carts, each of which carries
+  and is transported thence to the coast in [[Cart|carts]], each of which carries
   rather more than a ton weight of the dye. The poppy is cultivated
   wherever it will grow, the crop being far more profitable than that of
   any other product. Cotton, tobacco, pulse, millet, wheat and barley
@@ -221,7 +221,7 @@ dynasty (1122-225 B.C.) they were known as Sewshin, and at subsequent
 periods as Yih-low, Wuh-keih, Moh-hoh, Pohai, Nüchih and according to
 the Chinese historians also as Khitan. Throughout their history they
 appear as a rude people, the tribute they brought to the Chinese court
-consisting of stone arrow-heads, hawks, gold, and latterly ginseng.
+consisting of stone arrow-heads, [[Hawk|hawks]], gold, and latterly ginseng.
 Assuming that, as the Chinese say, the Khitans were Manchus, the first
 appearance of the Manchus, as a people, in China dates from the
 beginning of the 10th century, when the Khitans, having first conquered
@@ -230,17 +230,17 @@ the Liao or Iron dynasty in the northern portion of the empire. These
 invaders were in their turn overthrown two centuries later by another
 invasion from Manchuria. These new conquerors were Nüchihs, and
 therefore direct ancestors of the Manchus. On assuming the imperial
-yellow in China their chief adopted the title of Kin or "Golden" for his
+yellow in China their chief adopted the title of [[Kin]] or "Golden" for his
 dynasty. "Iron" (Liao), he said, "rusts, but gold always keeps its
 purity and colour, therefore my dynasty shall be called Kin." In a
 little more than a century, however, the Kins were driven out of China
-by the Mongols under Jenghiz Khan. But before the close of their rule a
+by the Mongols under Jenghiz [[Khan]]. But before the close of their rule a
 miraculous event occurred on the Chang-pai-Shan mountains which is
 popularly believed to have laid the seeds of the greatness of the
 present rulers of the empire. Three heaven-born maidens, so runs the
 legend, were bathing one day in a lake under the Chang-pai-Shan
-mountains when a passing magpie dropped a ripe red fruit into the lap of
-one of them. The maiden ate the fruit, and in due course a child was
+mountains when a passing [[Magpie|magpie]] dropped a ripe red fruit into the lap of
+one of them. The maiden [[Ate|ate]] the fruit, and in due course a child was
 born to her, whom she named Aisin Gioro, or the Golden. When quite a lad
 Aisin Gioro was elected chief over three contending clans, and
 established his capital at Otoli near the Chang-pai-Shan mountains. His

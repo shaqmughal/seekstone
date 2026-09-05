@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Canephorae
 CANEPHORAE (Gr. [Greek: kaneon], a basket, and [Greek: ferein], to
 carry), "basket-bearers," the title given of old to Athenian maidens of
 noble family, annually chosen to carry on their heads baskets with
-sacrificial implements and apparatus at the Panathenaic and other
+sacrificial [[Implement|implements]] and apparatus at the Panathenaic and other
 festivals. The term (also in the form _Canephori_) is applied in
 architecture to figures of either sex carrying on their heads baskets,
 containing edibles or material for sacrifices. The term might well be

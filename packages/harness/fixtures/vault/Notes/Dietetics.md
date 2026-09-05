@@ -6,7 +6,7 @@ part of the subject which has to do with the composition and nutritive
 values of foods and their adaptation to the use of people in health. The
 principal topics considered are: (1) Food and its functions; (2)
 Metabolism of matter and energy; (3) Composition of food materials; (4)
-Digestibility of food; (5) Fuel value of food; (6) Food consumption; (7)
+Digestibility of food; (5) [[Fuel]] value of food; (6) Food consumption; (7)
 Quantities of nutrients needed; (8) Hygienic economy of food; (9)
 Pecuniary economy of food.
 
@@ -22,14 +22,14 @@ substance or previously acquired nutritive material from consumption.
 When the amount of food taken into the body is in excess of immediate
 needs, the surplus may be stored for future consumption.
 
-Ordinary food materials, such as meat, fish, eggs, vegetables, &c.,
-consist of inedible materials, or _refuse_, e.g. bone of meat and fish,
+Ordinary food materials, such as [[Meat|meat]], fish, [[Egg|eggs]], vegetables, &c.,
+consist of inedible materials, or _refuse_, e.g. [[Bone|bone]] of meat and fish,
 shell of eggs, rind and seed of vegetables; and _edible material_, as
 flesh of meat and fish, white and yolk of eggs, wheat flour, &c. The
 edible material is by no means a simple substance, but consists of
 _water_, and some or all of the compounds variously designated as food
 stuffs, proximate principles, nutritive ingredients or nutrients, which
-are classified as _protein_, _fats_, _carbohydrates_ and _mineral
+are classified as _protein_, _fats_, _[[Carbohydrate|carbohydrates]]_ and _mineral
 matters_. These have various functions in the nourishment of the body.
 
 The _refuse_ commonly contains compounds similar to those in the food
@@ -52,8 +52,8 @@ perhaps the very small amount involved in their chemical transformation.
 Protein[1] is a term used to designate the whole group of nitrogenous
 compounds of food except the nitrogenous fats. It includes the
 albuminoids, as albumin of egg-white, and of blood serum, myosin of meat
-(muscle), casein of milk, globulin of blood and of egg yolk, fibrin of
-blood, gluten of flour; the gelatinoids, as gelatin and allied
+(muscle), casein of milk, globulin of blood and of egg yolk, [[Fibrin|fibrin]] of
+blood, gluten of flour; the gelatinoids, as [[Gelatin|gelatin]] and allied
 substances of connective tissue, collagen of tendon, ossein of bone and
 the so-called extractives (e.g. creatin) of meats; and the amids (e.g.
 asparagin) and allied compounds of vegetables and fruits.
@@ -68,18 +68,18 @@ purpose. When their supply in the food is in excess of the needs of the
 body, the surplus proteids may be converted into body fat and stored.
 
 The so-called extractives, which are the principal constituents of meat
-extract, beef tea and the like, act principally as stimulants and
+extract, [[Beef|beef]] tea and the like, act principally as stimulants and
 appetizers. It has been believed that they serve neither to build tissue
 nor to yield energy, but recent investigations[2] indicate that creatin
 may be metabolized in the body.
 
 The _fats_ of food include both the animal fats and the vegetable oils.
 The _carbohydrates_ include such compounds as starches, sugars and the
-fibre of plants or cellulose, though the latter has but little value as
+fibre of plants or [[Cellulose|cellulose]], though the latter has but little value as
 food for man. The more important function of both these classes of
 nutrients is to supply energy to the body to meet its requirements above
 that which it may obtain from the proteids. It is not improbable that
-the atoms of their molecules as well as those from the proteids are
+the [[Atom|atoms]] of their molecules as well as those from the proteids are
 built up into the protoplasmic substance of the tissues. In this sense,
 these nutrients may be considered as being utilized also for the
 formation of tissue; but they are rather the accessory ingredients,
@@ -107,7 +107,7 @@ valuable as a brain food has no foundation in observed fact.
 
 2. _Metabolism of Matter and Energy._--The processes of nutrition thus
 consist largely of the transformation of food into body material and the
-conversion of the potential energy of both food and body material into
+[[Conversion|conversion]] of the potential energy of both food and body material into
 the kinetic energy of heat and muscular work and other forms of energy.
 These various processes are generally designated by the term metabolism.
 The metabolism of matter in the body is governed largely by the needs of
@@ -128,7 +128,7 @@ results obtained in a large amount of such research, it seems probable
 that the law obtains in the living organism in general.
 
 The first attempt at such demonstration was made by M. Rubner[3] in
-1894, experimenting with dogs doing no external muscular work. The
+1894, experimenting with [[Dogs|dogs]] doing no external muscular work. The
 income of energy (as heat) was computed, but the heat eliminated was
 measured. In the average of eight experiments continuing forty-five
 days, the two quantities agreed within 0.47%, thus demonstrating what it
@@ -161,15 +161,15 @@ making a total of over 270 days.
   |                          |    %   |    %   |    %    |   %  |    %    |    %   | Calories. |
   |Beef, fresh (medium fat)--|        |        |         |      |         |        |           |
   |  Chuck                   |  16.3  |  52.6  |  15.5   | 15.0 |   . .   |   0.8  |    910    |
-  |  Loin                    |  13.3  |  52.5  |  16.1   | 17.5 |   . .   |   0.9  |   1025    |
+  |  [[Loin]]                    |  13.3  |  52.5  |  16.1   | 17.5 |   . .   |   0.9  |   1025    |
   |  Ribs                    |  20.8  |  43.8  |  13.9   | 21.2 |   . .   |   0.7  |   1135    |
   |  Round                   |   7.2  |  60.7  |  19.0   | 12.8 |   . .   |   1.0  |    890    |
   |  Shoulder                |  16.4  |  56.8  |  16.4   |  9.8 |   . .   |   0.9  |    715    |
   |Beef, dried and smoked    |   4.7  |  53.7  |  26.4   |  6.9 |   . .   |   8.9  |    790    |
   |Veal--                    |        |        |         |      |         |        |           |
-  |  Leg                     |  14.2  |  60.1  |  15.5   |  7.9 |   . .   |   0.9  |    625    |
+  |  [[Leg]]                     |  14.2  |  60.1  |  15.5   |  7.9 |   . .   |   0.9  |    625    |
   |  Loin                    |  16.5  |  57.6  |  16.6   |  9.0 |   . .   |   0.9  |    685    |
-  |  Breast                  |  21.3  |  52.0  |  15.4   | 11.0 |   . .   |   0.8  |    745    |
+  |  [[Breast]]                  |  21.3  |  52.0  |  15.4   | 11.0 |   . .   |   0.8  |    745    |
   |Mutton--                  |        |        |         |      |         |        |           |
   |  Leg                     |  18.4  |  51.2  |  15.1   | 14.7 |   . .   |   0.8  |    890    |
   |  Loin                    |  16.0  |  42.0  |  13.5   | 28.3 |   . .   |   0.7  |   1415    |
@@ -180,44 +180,44 @@ making a total of over 270 days.
   |  Ham, smoked and salted  |  13.6  |  34.8  |  14.2   | 33.4 |   . .   |   4.2  |   1635    |
   |  Fat, salt               |  . .   |   7.9  |   1.9   | 86.2 |   . .   |   3.9  |   3555    |
   |  Bacon                   |   7.7  |  17.4  |   9.1   | 62.2 |   . .   |   4.1  |   2715    |
-  |  Lard, refined           |  . .   |  . .   |  . .    |100.0 |   . .   |  . .   |   4100    |
+  |  [[Lard]], refined           |  . .   |  . .   |  . .    |100.0 |   . .   |  . .   |   4100    |
   |Chicken                   |  25.9  |  47.1  |  13.7   | 12.3 |   . .   |   0.7  |    765    |
   |Turkey                    |  22.7  |  42.4  |  16.1   | 18.4 |   . .   |   0.8  |   1060    |
-  |Goose                     |  17.6  |  38.5  |  13.4   | 29.8 |   . .   |   0.7  |   1475    |
+  |[[Goose]]                     |  17.6  |  38.5  |  13.4   | 29.8 |   . .   |   0.7  |   1475    |
   |Eggs                      |  11.2  |  65.5  |  13.1   |  9.3 |   . .   |   0.9  |    635    |
-  |Cod, fresh                |  29.9  |  58.5  |  11.1   |  0.2 |   . .   |   0.8  |    220    |
+  |[[Cod]], fresh                |  29.9  |  58.5  |  11.1   |  0.2 |   . .   |   0.8  |    220    |
   |Cod, salted               |  24.9  |  40.2  |  16.0   |  0.4 |   . .   |  18.5  |    325    |
-  |Mackerel, fresh           |  44.7  |  40.4  |  10.2   |  4.2 |   . .   |   0.7  |    370    |
+  |[[Mackerel]], fresh           |  44.7  |  40.4  |  10.2   |  4.2 |   . .   |   0.7  |    370    |
   |Herring, smoked           |  44.4  |  19.2  |  20.5   |  8.8 |   . .   |   7.4  |    755    |
   |Salmon, tinned            |  . .   |  63.5  |  21.8   | 12.1 |   . .   |   2.6  |    915    |
   |Oysters, shelled          |  . .   |  88.3  |   6.0   |  1.3 |    3.3  |   1.1  |    225    |
-  |Butter                    |  . .   |  11.0  |   1.0   | 85.0 |   . .   |   3.0  |   3410    |
-  |Cheese                    |  . .   |  34.2  |  25.9   | 33.7 |    2.4  |   3.8  |   1885    |
+  |[[Butter]]                    |  . .   |  11.0  |   1.0   | 85.0 |   . .   |   3.0  |   3410    |
+  |[[Cheese]]                    |  . .   |  34.2  |  25.9   | 33.7 |    2.4  |   3.8  |   1885    |
   |Milk, whole               |  . .   |  87.0  |   3.3   |  4.0 |    5.0  |   0.7  |    310    |
   |Milk, skimmed             |  . .   |  90.5  |   3.4   |  0.3 |    5.1  |   0.7  |    165    |
   |Oatmeal                   |  . .   |   7.7  |  16.7   |  7.3 |   66.2  |   2.1  |   1800    |
-  |Corn (maize) meal         |  . .   |  12.5  |   9.2   |  1.9 |   75.4  |   1.0  |   1635    |
+  |[[Corn]] (maize) meal         |  . .   |  12.5  |   9.2   |  1.9 |   75.4  |   1.0  |   1635    |
   |Rye flour                 |  . .   |  12.9  |   6.8   |  0.9 |   78.7  |   0.7  |   1620    |
-  |Buckwheat flour           |  . .   |  13.6  |   6.4   |  1.2 |   77.9  |   0.9  |   1605    |
+  |[[Buckwheat]] flour           |  . .   |  13.6  |   6.4   |  1.2 |   77.9  |   0.9  |   1605    |
   |Rice                      |  . .   |  12.3  |   8.0   |  0.3 |   79.0  |   0.4  |   1620    |
   |Wheat flour, white        |  . .   |  12.0  |  11.4   |  1.0 |   75.1  |   0.5  |   1635    |
-  |Wheat flour, graham       |  . .   |  11.3  |  13.3   |  2.2 |   71.4  |   1.8  |   1645    |
+  |Wheat flour, [[Graham|graham]]       |  . .   |  11.3  |  13.3   |  2.2 |   71.4  |   1.8  |   1645    |
   |Wheat, breakfast food     |  . .   |   9.6  |  12.1   |  1.8 |   75.2  |   1.3  |   1680    |
   |Wheat bread, white        |  . .   |  35.3  |   9.2   |  1.3 |   53.1  |   1.1  |   1200    |
   |Wheat bread, graham       |  . .   |  35.7  |   8.9   |  1.8 |   52.1  |   1.5  |   1195    |
   |Rye bread                 |  . .   |  35.7  |   9.0   |  0.6 |   53.2  |   1.5  |   1170    |
-  |Biscuit (crackers)        |  . .   |   6.8  |   9.7   | 12.1 |   69.7  |   1.7  |   1925    |
+  |[[Biscuit]] (crackers)        |  . .   |   6.8  |   9.7   | 12.1 |   69.7  |   1.7  |   1925    |
   |Macaroni                  |  . .   |  10.3  |  13.4   |  0.9 |   74.1  |   1.3  |   1645    |
   |Sugar                     |  . .   |  . .   |  . .    | . .  |  100.0  |  . .   |   1750    |
   |Starch (corn starch)      |  . .   |  . .   |  . .    | . .  |   90.0  |  . .   |   1680    |
-  |Beans, dried              |  . .   |  12.6  |  22.5   |  1.8 |   59.6  |   3.5  |   1520    |
+  |[[Bean|Beans]], dried              |  . .   |  12.6  |  22.5   |  1.8 |   59.6  |   3.5  |   1520    |
   |Peas, dried               |  . .   |  9.5   |  24.6   |  1.0 |   62.0  |   2.9  |   1565    |
-  |Beets                     |  20.0  |  70.0  |   1.3   |  0.1 |    7.7  |   0.9  |    160    |
+  |[[Beets]]                     |  20.0  |  70.0  |   1.3   |  0.1 |    7.7  |   0.9  |    160    |
   |Cabbage                   |  50.0  |  44.2  |   0.7   |  0.2 |    4.5  |   0.4  |    100    |
   |Potatoes                  |  20.0  |  62.6  |   1.8   |  0.1 |   14.7  |   0.8  |    295    |
   |Sweet potatoes            |  20.0  |  55.2  |   1.4   |  0.6 |   21.9  |   0.9  |    440    |
   |Tomatoes                  |  . .   |  94.3  |   0.9   |  0.4 |    3.9  |   0.5  |    100    |
-  |Apples                    |  25.0  |  63.3  |   0.3   |  0.3 |   10.8  |   0.3  |    190    |
+  |[[Apple|Apples]]                    |  25.0  |  63.3  |   0.3   |  0.3 |   10.8  |   0.3  |    190    |
   |Bananas                   |  35.0  |  48.9  |   0.8   |  0.4 |   14.3  |   0.6  |    260    |
   |Grapes                    |  25.0  |  58.0  |   1.0   |  1.2 |   14.4  |   0.4  |    295    |
   |Strawberries              |   5.0  |  85.9  |   0.9   |  0.6 |    7.0  |   0.6  |    150    |
@@ -231,7 +231,7 @@ In some cases the subjects were at rest; in others they performed
 varying amounts of external muscular work on an apparatus by means of
 which the amount of work done was measured. In some cases they fasted,
 and in others they received diets generally not far from sufficient to
-maintain nitrogen, and usually carbon, equilibrium in the body. In these
+maintain nitrogen, and usually [[Carbon|carbon]], equilibrium in the body. In these
 experiments the amount of energy expended by the body as heat and as
 external muscular work measured in terms of heat agreed on the average
 very closely with the amount of heat that would be produced by the
@@ -323,7 +323,7 @@ cases of disordered digestion.
   |   mixed diet             |    97    |    97    |       98       |
   | Potatoes                 |    73    |    ..    |       98       |
   | Beets, carrots, &c.      |    72    |    ..    |       97       |
-  | Cabbage, lettuce, &c.    |    ..    |    ..    |       83       |
+  | Cabbage, [[Lettuce|lettuce]], &c.    |    ..    |    ..    |       83       |
   | Legumes                  |    78    |    90    |       95       |
   | Oatmeal                  |    78    |    90    |       97       |
   | Corn meal                |    80    |    ..    |       99       |
@@ -370,7 +370,7 @@ the excreta is available and the actual digestibility may be
 ascertained.
 
 Experimental inquiry of this nature has been very active in recent
-years, especially in Europe, the United States and Japan; and the
+years, especially in Europe, the United States and [[Japan]]; and the
 results of considerably over 1000 digestion experiments with single
 foods or combinations of food materials are available. These were mostly
 with men, but some were with women and with children. The larger part of
@@ -387,7 +387,7 @@ diet.
 measured as the amount of heat evolved when the food is completely
 oxidized. In the laboratory this is determined by burning the food in
 oxygen in a calorimeter. The results, which are known as the heat of
-combustion of the food, are expressed in calories, one calory being the
+[[Combustion|combustion]] of the food, are expressed in calories, one calory being the
 amount of heat necessary to raise the temperature of one kilogram of
 water one degree centigrade. But it is to be observed that this unit is
 employed simply from convenience, and without implication as to what
@@ -478,7 +478,7 @@ energy necessary to raise one ton through one foot.
     |     _Professional and Business Men._     |        |      |      |        |         |
     | Japanese professional men.               |   13   |   75 |   15 |   408  |   2190  |
     | Japanese students                        |    8   |   85 |   18 |   537  |   2800  |
-    | Japanese military cadets                 |   11   |   98 |   20 |   611  |   3185  |
+    | Japanese military [[Cadet|cadets]]                 |   11   |   98 |   20 |   611  |   3185  |
     | German physicians                        |    2   |  121 |   90 |   317  |   2685  |
     | Swedish medical students                 |    5   |  117 |  108 |   291  |   2725  |
     | Danish physicians                        |    1   |  124 |  133 |   242  |   2790  |
@@ -537,7 +537,7 @@ and persons at active work more than those at sedentary occupation. The
 navvy, for example, who is constantly using up more nutritive material
 or body tissue to supply the energy required for his muscular work needs
 more protein and energy in his food than a bookkeeper who sits at his
-desk all day.
+[[Desk|desk]] all day.
 
 In making allowance for these differences, the various individuals are
 commonly compared with a man at moderately active muscular work, who is
@@ -549,9 +549,9 @@ work, boy 12 or girl 13-14 years old, .7; boy 10-11 or girl 10-12 years
 old, .6; child 6-9 years old, .5; child 2-5 years old, .4; child under 2
 years, .3. These factors are by no means absolute or final, but are
 based in part upon experimental data and in part upon arbitrary
-assumption.
+[[Assumption|assumption]].
 
-The total number of dietary studies on record is very large, but not all
+The total number of [[Dietary|dietary]] studies on record is very large, but not all
 of them are complete enough to furnish reliable data. Upwards of 1000
 are sufficiently accurate to be included in statistical averages of food
 consumed by people in different circumstances, nearly half of which have
@@ -612,7 +612,7 @@ have hitherto been most commonly accepted in Europe and America.
 8. _Hygienic Economy of Food._--For people in good health, there are two
 important rules to be observed in the regulation of the diet. One is to
 choose the foods that "agree" with them, and to avoid those which they
-cannot digest and assimilate without harm; and the other is to use such
+cannot [[Digest|digest]] and assimilate without harm; and the other is to use such
 sorts and quantities of foods as will supply the kinds and amounts of
 nutrients needed by the body and yet to avoid burdening it with
 superfluous material to be disposed of at the cost of health and
@@ -695,7 +695,7 @@ useful purpose.
   |                      | 1  3  |    .80   |   .01  |  .64 |    ..   |  2,770  |
   |                      | 1  0  |   1.00   |   .01  |  .81 |    ..   |  3,460  |
   |                      |       |          |        |      |         |         |
-  | Margarine            | 0  4  |   3.00   |    ..  | 2.37 |    ..   | 10,080  |
+  | [[Margarine]]            | 0  4  |   3.00   |    ..  | 2.37 |    ..   | 10,080  |
   |                      |       |          |        |      |         |         |
   | Eggs, 2s. a dozen    | 1  4  |    .75   |   .10  |  .07 |    ..   |    475  |
   |   "   1½s. a dozen   | 1  0  |   1.00   |   .13  |  .09 |    ..   |    635  |
@@ -761,7 +761,7 @@ should be taken to ensure it for the sake of health as well as of
 decency. Cleanliness in this connexion means not only absence of visible
 dirt, but freedom from undesirable bacteria and other minute organisms
 and from worms and other parasites. If food, raw or cooked, is kept in
-dirty places, peddled from dirty carts, prepared in dirty rooms and in
+dirty places, peddled from dirty [[Cart|carts]], prepared in dirty rooms and in
 dirty dishes, or exposed to foul air, disease germs and other offensive
 and dangerous substances may easily enter it.
 
@@ -777,7 +777,7 @@ the finest in appearance and flavour and which is sold at the highest
 price, is not generally the most economical.
 
 The price of food is not regulated largely by its value for nutriment.
-Its agreeableness to the palate or to the buyer's fancy is a large
+Its agreeableness to the palate or to the buyer's [[Fancy|fancy]] is a large
 factor in determining the current demand and market price. There is no
 more nutriment in an ounce of protein or fat from the tender-loin of
 beef than from the round or shoulder. The protein of animal food has,
@@ -811,19 +811,19 @@ palatable, nutritious and healthful diet.
   Department of Agriculture. NUTRITION AND DIETETICS:--Armsby,
   _Principles of Animal Nutrition_; Lusk, _The Science of Nutrition_;
   Burney Yeo, _Food in Health and Disease_; Munk and Uffelmann, _Die
-  Ernährung des gesunden und kranken Menschen_; Von Leyden,
+  Ernährung des gesunden und kranken Menschen_; Von [[Leyden]],
   _Ernährungstherapie und Diätetik_; Dujardin-Beaumetz, Hygiène
   alimentaire; Hutchison, _Food and Dietetics_; R. H. Chittenden,
   _Physiological Economy in Nutrition_ (1904), _Nutrition of Man_
-  (1907); Atwater, "Chemistry and Economy of Food," Bul. 21, Office of
+  (1907); Atwater, "[[Chemistry]] and Economy of Food," Bul. 21, Office of
   Experiment Stations, U.S. Department of Agriculture. See also other
   Bulletins of the same office on composition of food, results of
   dietary studies, metabolism experiments, &c., in the United States.
   GENERAL METABOLISM:--Voit, _Physiologie des allgemeinen Stoffwechsels
-  und der Ernährung_; Hermann, _Handbuch der Physiologie_, Bd. vi.; Von
+  und der Ernährung_; [[Hermann]], _Handbuch der Physiologie_, Bd. vi.; Von
   Noorden, _Pathologie des Stoffwechsels_; Schäfer, _Text-Book of
   Physiology_, vol. i.; Atwater and Langworthy, "Digest of Metabolism
-  Experiments," Bull. 45, Office of Experiment Stations, U.S. Department
+  Experiments," [[Bull]]. 45, Office of Experiment Stations, U.S. Department
   of Agriculture.     (W. O. A.; R. D. M.)
 
 
@@ -832,7 +832,7 @@ FOOTNOTES:
   [1] The terms applied by different writers to these nitrogenous
     compounds are conflicting. For instance, the term "proteid" is
     sometimes used as protein is here used, and sometimes to designate
-    the group here called albuminoids. The classification and terminology
+    the group here called albuminoids. The [[Classification|classification]] and terminology
     here followed are those tentatively recommended by the Association of
     American Agricultural Colleges and Experiment Stations.
 
@@ -844,12 +844,12 @@ FOOTNOTES:
     Office of Experiment Stations, Bul. No. 45, _A Digest of Metabolism
     Experiments_, by W. O. Atwater and C. F. Langworthy.
 
-  [5] _Arch. physiol. norm. et path._ (1894) 4.
+  [5] _[[Arch]]. physiol. norm. et path._ (1894) 4.
 
   [6] U.S. Department of Agriculture, Office of Experiment Stations,
     Bulletins Nos. 63, 69, 109, 136, 175. For a description of the
     respiration calorimeter here mentioned see also publication No. 42 of
-    the Carnegie Institution of Washington.
+    the [[Carnegie]] Institution of Washington.
 
   [7] _Ztschr. Biol._ 21 (1885), p. 377.
 

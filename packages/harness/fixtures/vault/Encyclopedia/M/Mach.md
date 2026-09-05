@@ -9,7 +9,7 @@ of German in the Prague University. In 1901 he was made a member of the
 Austrian house of peers. In philosophy he began with a strong
 predilection for the physical side of psychology, and at an early age he
 came to the conclusion that all existence is sensation, and, after a
-lapse into noümenalism under the influence of Fechner's _Psychophysics_,
+[[Lapse|lapse]] into noümenalism under the influence of Fechner's _Psychophysics_,
 finally adopted a universal physical phenomenalism. The Ego he considers
 not an entity sharply distinguished from the Non-ego, but merely, as it
 were, a medium of continuity of sensory impressions. His whole theory
@@ -21,7 +21,7 @@ appears to be vitiated by the confusion of physics and psychology.
   1872); _Grundlinien d. Lehre v. d. Bewegungsempfindungen_ (Leipzig,
   1875); _Die Mechanik in ihrer Entwickelung_ (Leipzig, 1883; rev. ed.,
   1908; Eng. trans., T. J. McCormack, 1902); _Beiträge zur Analyse d.
-  Empfindungen_ (Jena, 1886), 5th ed., 1906, entitled _Die Analyse d.
+  Empfindungen_ ([[Jena]], 1886), 5th ed., 1906, entitled _Die Analyse d.
   Empfindungen; Leitfaden d. Physik für Studierende_ (Prague, 1881, in
   collaboration); _Populärwissenschaftliche Vorlesungen_ (3rd ed.,
   Leipzig, 1903); _Die Prinzipien d. Wärmelehre_ (2nd ed., 1900);

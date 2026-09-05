@@ -8,7 +8,7 @@ type: article
 # Magnesite
 
 MAGNESITE, a mineral consisting of magnesium carbonate, MgCO3, and
-belonging to the calcite group of rhombohedral carbonates. It is rarely
+belonging to the [[Calcite|calcite]] group of rhombohedral carbonates. It is rarely
 found in crystals or crystalline masses, being usually compact or earthy
 and intermixed with more or less hydrous magnesium silicate
 (meerschaum). The compact material has the appearance of unglazed
@@ -22,12 +22,12 @@ near Ivrea in Piedmont. Breunnerite is a ferriferous variety.
 
   Magnesite is a product of alteration of magnesium silicates, and
   occurs as veins and patches in serpentine, talc-schist or
-  dolomite-rock. It is extensively mined in the island of Euboea in the
+  dolomite-rock. It is extensively mined in the island of [[Euboea]] in the
   Grecian Archipelago, near Salem in Madras, and in California, U.S.A.
   It is principally used for the manufacture of highly refractory
   fire-bricks for lining steel furnaces and electric furnaces; also for
   making plaster, tiles and artificial stone; for the preparation of
-  magnesium salts (Epsom salts, &c.); for whitening; paper-pulp and
+  magnesium salts ([[Epsom Salts|Epsom salts]], &c.); for whitening; paper-pulp and
   wool; and as a paint.
 
 
@@ -42,7 +42,7 @@ substances were entirely different; and in 1808 Davy pointed out that it
 was the oxide of a metal, which, however, he was not able to isolate.
 Magnesium is found widely distributed in nature, chiefly in the forms of
 silicate, carbonate and chloride, and occurring in the minerals olivine,
-hornblende, talc, asbestos, meerschaum, augite, dolomite, magnesite,
+[[Hornblende|hornblende]], talc, asbestos, meerschaum, augite, [[Dolomite|dolomite]], magnesite,
 carnallite, kieserite and kainite. The metal was prepared (in a state
 approximating to purity) by A. A. B. Bussy (_Jour. de pharm._ 1829, 15,
 p. 30; 1830, 16, p. 142), who fused the anhydrous chloride with
@@ -50,19 +50,19 @@ potassium; H. Sainte Claire Deville's process, which used to be employed
 commercially, was essentially the same, except that sodium was
 substituted for potassium (_Comptes rendus_, 1857, 44, p. 394), the
 product being further purified by redistillation. It may also be
-prepared by heating a mixture of carbon, oxide of iron and magnesite to
-bright redness; and by heating a mixture of magnesium ferrocyanide and
-sodium carbonate, the double cyanide formed being then decomposed by
+prepared by heating a mixture of [[Carbon|carbon]], oxide of iron and magnesite to
+[[Bright|bright]] redness; and by heating a mixture of magnesium ferrocyanide and
+sodium carbonate, the double [[Cyanide|cyanide]] formed being then decomposed by
 heating it with metallic zinc. Electrolytic methods have entirely
 superseded the older methods. The problem of magnesium reduction is in
 many respects similar to that of aluminium extraction, but the lightness
 of the metal as compared, bulk for bulk, with its fused salts, and the
-readiness with which it burns when exposed to air at high temperatures,
+readiness with which it [[Burns|burns]] when exposed to air at high temperatures,
 render the problem somewhat more difficult.
 
   Moissan found that the oxide resisted reduction by carbon in the
   electric furnace, so that electrolysis of a fusible salt of the metal
-  must be resorted to. Bunsen, in 1852, electrolysed fused magnesium
+  must be resorted to. [[Bunsen]], in 1852, electrolysed fused magnesium
   chloride in a porcelain crucible. In later processes, carnallite (a
   natural double chloride of magnesium and potassium) has commonly,
   after careful dehydration, been substituted for the single chloride.
@@ -76,7 +76,7 @@ render the problem somewhat more difficult.
   of solidified salt may there be formed, and so prevent the creeping of
   the electrolyte over the top. The carbon anode passes through the
   cover of a porcelain cylinder, open at the bottom, and provided with a
-  side-tube at the top to remove the chlorine formed during
+  side-tube at the top to remove the [[Chlorine|chlorine]] formed during
   electrolysis. The operation is conducted at a dull red heat (about
   760° C. or 1400° F.), the current density being about 0.64 amperes per
   sq. in. of cathode surface, and the pressure about 7 volts. The
@@ -91,7 +91,7 @@ render the problem somewhat more difficult.
   out, run together in a plumbago crucible without flux, and poured into
   a suitable mould. Smaller pieces are thrown into a bath of melted
   carnallite and pressed together with an iron rod, the bath being then
-  heated until the globules of metal float to the top, when they may be
+  heated until the globules of metal [[Float|float]] to the top, when they may be
   removed in perforated iron ladles, through the holes in which the
   fused chloride can drain away, but through which the melted magnesium
   cannot pass by reason of its high surface tension. The globules are
@@ -113,7 +113,7 @@ the liberation of hydrogen and the formation of magnesia. At high
 temperatures it acts as a reducing agent, reducing silica to silicon,
 boric acid to boron, &c. (H. Moissan, _Comptes rendus_, 1892, 114, p.
 392). It combines directly with nitrogen, when heated in the gas, to
-form the nitride Mg3N2 (see ARGON). It is rapidly dissolved by dilute
+form the nitride Mg3N2 (see [[Argon|ARGON]]). It is rapidly dissolved by dilute
 acids, with the evolution of hydrogen and the formation of magnesium
 salts. It precipitates many metals from solutions of their salts.
 
@@ -128,7 +128,7 @@ salts. It precipitates many metals from solutions of their salts.
   Houdard (_Abst. J. C. S._, 1907, ii. p. 621) by fusing the oxide and
   sulphide in the electric furnace. _Magnesium hydroxide_ Mg(OH)2,
   occurs native as the minerals brucite and némalite, and is prepared by
-  precipitating solutions of magnesium salts by means of caustic soda or
+  precipitating solutions of magnesium salts by means of [[Caustic|caustic]] soda or
   potash. An artificial brucite was prepared by A. de Schulten (_Comptes
   rendus_, 1885, 101, p. 72) by boiling magnesium chloride with caustic
   potash and allowing the solution to cool. Magnesium hydroxide is a
@@ -137,7 +137,7 @@ salts. It precipitates many metals from solutions of their salts.
   possesses an alkaline reaction and absorbs carbon dioxide. It is
   employed in the manufacture of cements.
 
-  When magnesium is heated in fluorine or chlorine or in the vapour of
+  When magnesium is heated in [[Fluorine|fluorine]] or chlorine or in the vapour of
   bromine or iodine there is a violent reaction, and the corresponding
   halide compounds are formed. With the exception of the fluoride, these
   substances are readily soluble in water and are deliquescent. The
@@ -203,7 +203,7 @@ salts. It precipitates many metals from solutions of their salts.
   _Ann._, 1862, 123, p. 228; see also W. Eidmann and L. Moeser, _Ber._,
   1901, 34, p. 390). When heated in dry oxygen it becomes incandescent,
   forming magnesia. Water decomposes it with liberation of ammonia and
-  formation of magnesium hydroxide. The chlorides of nickel, cobalt,
+  formation of magnesium hydroxide. The chlorides of nickel, [[Cobalt|cobalt]],
   chromium, iron and mercury are converted into nitrides when heated
   with it, whilst the chlorides of copper and platinum are reduced to
   the metals (A. Smits, _Rec. Pays Bas_, 1896, 15, p. 135). _Magnesium
@@ -223,7 +223,7 @@ salts. It precipitates many metals from solutions of their salts.
   as colourless, strongly smelling, mobile liquids, which are
   spontaneously inflammable and are readily decomposed by water. The
   compounds formed by the action of magnesium on alkyl iodides in the
-  cold have been largely used in synthetic organic chemistry since V.
+  cold have been largely used in synthetic organic [[Chemistry|chemistry]] since V.
   Grignard (_Comptes rendus_, 1900 et seq.) observed that magnesium and
   alkyl or aryl halides combined together in presence of anhydrous ether
   at ordinary temperatures (with the appearance of brisk boiling) to
@@ -235,7 +235,7 @@ salts. It precipitates many metals from solutions of their salts.
   considers that they contain two molecules of ether. In preparing the
   Grignard reagent the commencement of the reaction is accelerated by a
   trace of iodine. W. Tschelinzeff (_Ber._, 1904, 37, p. 4534) showed
-  that the ether may be replaced by benzene containing a small quantity
+  that the ether may be replaced by [[Benzene|benzene]] containing a small quantity
   of ether or anisole, or a few drops of a tertiary amine. With
   unsaturated alkyl halides the products are only slightly soluble in
   ether, and two molecules of the alkyl compound are brought into the
@@ -250,11 +250,11 @@ salts. It precipitates many metals from solutions of their salts.
   being removed as a basic halide salt.
 
   _Applications._--For the formation of primary and secondary alcohols
-  see ALDEHYDES and KETONES. Formaldehyde behaves abnormally with
+  see ALDEHYDES and [[Ketones|KETONES]]. Formaldehyde behaves abnormally with
   magnesium benzyl bromide (M. Tiffeneau, _Comptes rendus_, 1903, 137,
   p. 573). forming ortho-tolylcarbinol, CH3·C6H4·CH2OH, and not
   benzylcarbinol, C6H5CH2·CH2OH (cf. the reaction of formaldehyde on
-  phenols: O. Manasse, _Ber._ 1894, 27, p. 2904). Acid esters yield
+  phenols: O. Manasse, _Ber._ 1894, 27, p. 2904). Acid [[Esters|esters]] yield
   carbinols, many of which are unstable and readily pass over into
   unsaturated compounds, especially when warmed with acetic anhydride:
   R·CO2R´(R´´)2·R·:C·OMgX -> (R´´)2R·:C·OH.
@@ -312,7 +312,7 @@ quantity of water that passes into the bowel, a fact to be borne in mind
 when the salt is administered for the purpose of draining superfluous
 fluid from the system, as in dropsy. The oxide and carbonate of
 magnesium are also invaluable as antidotes, since they form insoluble
-compounds with oxalic acid and salts of mercury, arsenic, and copper.
+compounds with oxalic acid and salts of mercury, [[Arsenic|arsenic]], and copper.
 The result is to prevent the local corrosive action of the poison and to
 prevent absorption of the metals. As alkaloids are insoluble in alkaline
 solutions, the oxide and carbonate--especially the former--may be given
@@ -328,7 +328,7 @@ carbonate of magnesium are from half a drachm to a drachm.
 
 
 
-MAGNETISM. The present article is a digest, mainly from an experimental
+MAGNETISM. The present article is a [[Digest|digest]], mainly from an experimental
 standpoint, of the leading facts and principles of magnetic science. It
 is divided into the following sections:
 
@@ -338,11 +338,11 @@ is divided into the following sections:
 
   3. Magnetic Measurements.
 
-  4. Magnetization in Strong Fields.
+  4. Magnetization in Strong [[Fields]].
 
   5. Magnetization in Weak Fields.
 
-  6. Changes of Dimensions attending Magnetization.
+  6. Changes of [[Dimension|Dimensions]] attending Magnetization.
 
   7. Effects of Mechanical Stress on Magnetization.
 
@@ -362,7 +362,7 @@ is divided into the following sections:
 
 Of these thirteen sections, the first contains a simple description of
 the more prominent phenomena, without mathematical symbols or numerical
-data. The second includes definitions of technical terms in common use,
+data. The second includes [[Definition|definitions]] of technical terms in common use,
 together with so much of the elementary theory as is necessary for
 understanding the experimental work described in subsequent portions of
 the article; a number of formulae and results are given for purposes of
@@ -382,7 +382,7 @@ small fragments of iron or steel. Ore endowed with this curious property
 was well known to the ancient Greeks and Romans, who, because it
 occurred plentifully in the district of Magnesia near the Aegean coast,
 gave it the name of _magnes_, or the _Magnesian stone_. In
-English-speaking countries the ore is commonly known as _magnetite_, and
+English-speaking countries the ore is commonly known as _[[Magnetite|magnetite]]_, and
 pieces which exhibit attraction as _magnets_; the cause to which the
 attractive property is attributed is called _magnetism_, a name also
 applied to the important branch of science which has been evolved from
@@ -432,7 +432,7 @@ _electromagnet_, a valuable device by means of which a magnet can be
 instantly made and unmade at will. With suitable arrangements of iron
 and coil and a sufficiently strong current, the intensity of the
 temporary magnetization may be very high, and electromagnets capable of
-lifting weights of several tons are in daily use in engineering works
+lifting weights of several tons are in daily use in [[Engineering|engineering]] works
 (see ELECTROMAGNETISM). If the bar inserted into the coil is of hardened
 steel instead of iron, the magnetism will be less intense, but a larger
 proportion of it will be retained after the current has been cut off.
@@ -444,7 +444,7 @@ longer of any interest except as a scientific curiosity.
 Some of the principal phenomena of magnetism may be demonstrated with
 very little apparatus; much may be done with a small bar-magnet, a
 pocket compass and a few ounces of iron filings. Steel articles, such as
-knitting or sewing needles and pieces of flat spring, may be readily
+[[Knitting|knitting]] or sewing needles and pieces of flat spring, may be readily
 magnetized by stroking them with the bar-magnet; after having produced
 magnetism in any number of other bodies, the magnet will have lost
 nothing of its own virtue. The compass needle is a little steel magnet
@@ -464,7 +464,7 @@ whatever except iron or other magnetizable metal. The poles of a piece
 of magnetized steel may be at once distinguished if the two ends are
 successively presented to the compass; that end which attracts the south
 pole of the compass needle (and is therefore north) may be marked for
-easy identification.
+easy [[Identification|identification]].
 
 Similar magnetic poles are not merely indifferent to each other, but
 exhibit actual repulsion. This can be more easily shown if the compass
@@ -479,7 +479,7 @@ action. Denoting the two pairs of magnetic poles by N, S and N´, S´,
 there is attraction between N and S´, and between S and N´; repulsion
 between N and N´, and between S and S´. Hence it is not very easy to
 determine experimentally the law of magnetic force between poles. The
-difficulty was overcome by C. A. Coulomb, who by using very long and
+difficulty was overcome by C. A. [[Coulomb]], who by using very long and
 thin magnets, so arranged that the action of their distant poles was
 negligible, succeeded in establishing the law, which has since been
 confirmed by more accurate methods, that _the force of attraction or
@@ -500,7 +500,7 @@ or unlike.
 If a wire of soft iron is substituted for the suspended magnetic needle,
 either pole of the bar-magnet will attract either end of the wire
 indifferently. The wire will in fact become temporarily magnetized by
-induction, that end of it which is nearest to the pole of the magnet
+[[Induction|induction]], that end of it which is nearest to the pole of the magnet
 acquiring opposite polarity, and behaving as if it were the pole of a
 permanent magnet. Even a permanent magnet is susceptible of induction,
 its polarity becoming thereby strengthened, weakened, or possibly
@@ -523,12 +523,12 @@ induction flows through a piece of iron or other magnetizable substance
 placed near the magnet, a south pole is developed where the flux enters
 and a north pole where it leaves the substance. Outside the magnet the
 direction of the magnetic induction is generally the same as that of the
-magnetic force. A map indicating the direction of the force in different
+magnetic force. A [[Map|map]] indicating the direction of the force in different
 parts of the field due to a magnet may be constructed in a very simple
 manner. A sheet of cardboard is placed above the magnet, and some iron
 filings are sifted thinly and evenly over the surface: if the cardboard
 is gently tapped, the filings will arrange themselves in a series of
-curves, as shown in fig. 1. This experiment suggested to Faraday the
+curves, as shown in fig. 1. This experiment suggested to [[Faraday]] the
 conception of "lines of force," of which the curves formed by the
 filings afford a rough indication; Faraday's lines are however not
 confined to the plane of the cardboard, but occur in the whole of the
@@ -580,7 +580,7 @@ of known length vibrates.
 It is to the non-uniformity of the field surrounding a magnet that the
 apparent attraction between a magnet and a magnetizable body such as
 iron is ultimately due. This was pointed out by W. Thomson (afterwards
-Lord Kelvin) in 1847, as the result of a mathematical investigation
+Lord [[Kelvin]]) in 1847, as the result of a mathematical investigation
 undertaken to explain Faraday's experimental observations. If the
 inductively magnetized body lies in a part of the field which happens to
 be uniform there will be no resulting force tending to move the body,
@@ -599,14 +599,14 @@ either higher or lower than its centre. For the practical observation of
 this phenomenon it is usual to employ a needle which can turn freely in
 the plane of the magnetic meridian upon a horizontal axis passing
 through the centre of gravity of the needle. The angle which the
-magnetic axis makes with the plane of the horizon is called the
+magnetic axis makes with the plane of the [[Horizon|horizon]] is called the
 _inclination_ or _dip._ Along an irregular line encircling the earth in
-the neighbourhood of the geographical equator the needle takes up a
+the neighbourhood of the geographical [[Equator|equator]] the needle takes up a
 horizontal position, and the dip is zero. At places north of this line,
 which is called the _magnetic equator_, the north end of the needle
 points downwards, the inclination generally becoming greater with
 increased distance from the equator. Within a certain small area in the
-Arctic Circle (about 97° W. long., 70° N. lat.) the north pole of the
+[[Arctic]] Circle (about 97° W. long., 70° N. lat.) the north pole of the
 needle points vertically downwards, the dip being 90°. South of the
 magnetic equator the south end of the needle is always inclined
 downwards, and there is a spot within the Antarctic Circle (148° E.
@@ -622,7 +622,7 @@ however the names assigned to the terrestrial magnetic poles correspond
 with their geographical situations. Within a limited space, such as that
 contained in a room, the field due to the earth's magnetism is sensibly
 uniform, the lines of force being parallel straight lines inclined to
-the horizon at the angle of dip, which at Greenwich in 1910 was about
+the horizon at the angle of dip, which at [[Greenwich]] in 1910 was about
 67°. It is by the horizontal component of the earth's total force that
 the compass-needle is directed.
 
@@ -655,7 +655,7 @@ at the two ends respectively, be broken in the middle; each half will be
 found to possess a north and a south pole, the appropriate supplementary
 poles appearing at the broken ends. One of the fragments may again be
 broken, and again two bipolar magnets will be produced; and the
-operation may be repeated, at least in imagination, till we arrive at
+operation may be repeated, at least in [[Imagination|imagination]], till we arrive at
 molecular magnitudes and can go no farther. This experiment proves that
 the condition of magnetization is not confined to those parts where
 polar phenomena are exhibited, but exists throughout the whole body of
@@ -678,7 +678,7 @@ attached to a cork and floated upon water will set itself with its axis
 in the magnetic meridian, but it will be drawn neither northward nor
 southward; the forces acting upon the two poles have therefore no
 horizontal resultant. And again if a piece of steel is weighed in a
-delicate balance before and after magnetization, no change whatever in
+delicate [[Balance|balance]] before and after magnetization, no change whatever in
 its weight can be detected; there is consequently no upward or downward
 resultant force due to magnetization; the contrary parallel forces
 acting upon the poles of the magnet are equal, constituting a couple,
@@ -699,10 +699,10 @@ which are attracted, or rather which tend, like iron, to move from
 weaker to stronger parts of the magnetic field, are termed
 _paramagnetic_; those which are repelled, or tend to move from stronger
 to weaker parts of the field, are termed diamagnetic. Between the
-ferromagnetics and the paramagnetics there is an enormous gap. The
+ferromagnetics and the paramagnetics there is an enormous [[Gap|gap]]. The
 maximum magnetic susceptibility of iron is half a million times greater
 than that of liquid oxygen, one of the strongest paramagnetic substances
-known. Bismuth, the strongest of the diamagnetics, has a negative
+known. [[Bismuth]], the strongest of the diamagnetics, has a negative
 susceptibility which is numerically 20 times less than that of liquid
 oxygen.
 
@@ -771,7 +771,7 @@ properties in all directions.
   a vector quantity, by the block letter H, or the German character [H].
   Magnetic force is sometimes, and perhaps more suitably, termed
   _magnetic intensity_; it corresponds to the intensity of gravity g in
-  the theory of heavy bodies (see Maxwell, _Electricity and Magnetism_,
+  the theory of heavy bodies (see [[Maxwell]], _Electricity and Magnetism_,
   § 12 and § 68, footnote). A _line of force_ is a line drawn through a
   magnetic field in the direction of the force at each point through
   which it passes. A _uniform magnetic field_ is one in which H has
@@ -882,7 +882,7 @@ properties in all directions.
 
     V = m(l/r = l/r´).  (8)
 
-  When V is constant, this equation represents an equipotential surface.
+  When V is constant, this [[Equation|equation]] represents an equipotential surface.
 
   The equipotential surfaces are two series of ovoids surrounding the
   two poles respectively, and separated by a plane at zero potential
@@ -945,7 +945,7 @@ properties in all directions.
 
   its direction being along the axis OX. For a point in the line OY
   bisecting the magnet perpendicularly, [theta] = [pi]/2 therefore cos
-  [theta] = 0, and the point D is at an infinite distance. The magnitude
+  [theta] = 0, and the point D is at an [[Infinite|infinite]] distance. The magnitude
   of the force is in this case
 
     F_y = M/r³,  (16)
@@ -988,9 +988,9 @@ properties in all directions.
 
     MM´ cos [phi]/r³,  (20)
 
-  tending to increase [phi]; this is the "broadside on" position. These
+  tending to increase [phi]; this is the "[[Broadside|broadside]] on" position. These
   two positions are sometimes called the first and second (or A and B)
-  principal positions of Gauss. The components X, Y, parallel and
+  principal positions of [[Gauss]]. The components X, Y, parallel and
   perpendicular to r, of the force between the two magnets SN and S´N´
   are
 
@@ -1034,7 +1034,7 @@ properties in all directions.
   It can be shown that uniform magnetization is possible only when the
   form of the body is ellipsoidal. (Maxwell, _Electricity and
   Magnetism_, II., § 437). The cases of greatest practical importance
-  are those of a sphere (which is an ellipsoid with three equal axes)
+  are those of a sphere (which is an [[Ellipsoid|ellipsoid]] with three equal axes)
   and an ovoid or prolate ellipsoid of revolution. The potential due to
   a uniformly magnetized sphere of radius a for an external point at a
   distance r from the centre is
@@ -1052,7 +1052,7 @@ properties in all directions.
   definitely situated poles, it it usual to employ one having the form
   of an ovoid, or elongated ellipsoid of revolution, instead of a
   rectangular or cylindrical bar. If the magnetization is parallel to
-  the major axis, and the lengths of the major and minor axes are 2a and
+  the [[Major|major]] axis, and the lengths of the major and minor axes are 2a and
   2c, the poles are situated at a distance equal to (2/3)a from the
   centre, and the magnet will behave externally like a simple solenoid
   of length (4/3)a. The internal force F is opposite to the direction of
@@ -1095,7 +1095,7 @@ properties in all directions.
   these reasons it is often said that in empty space (and practically in
   air and other non-magnetic substances) B and H are identical. Inside a
   magnetized body, B is the force that would be exerted on a unit pole
-  if placed in a narrow crevasse cut in the body, the walls of the
+  if placed in a narrow [[Crevasse|crevasse]] cut in the body, the walls of the
   crevasse being perpendicular to the direction of the magnetization
   (Maxwell, § § 399, 604); and its numerical value, being partly due to
   the free magnetism on the walls, is generally very different from that
@@ -1218,12 +1218,12 @@ properties in all directions.
   electricity. For the elementary theory of the magnetic circuit see
   ELECTRO-MAGNETISM.
 
-  _Hysteresis, Coercive Force, Retentiveness._--It is found that when a
+  _[[Hysteresis]], Coercive Force, Retentiveness._--It is found that when a
   piece of ferromagnetic metal, such as iron, is subjected to a magnetic
   field of changing intensity, the changes which take place in the
   induced magnetization of the iron exhibit a tendency to lag behind
   those which occur in the intensity of the field--a phenomenon to which
-  J. A. Ewing (_Phil. Trans._ clxxvi. 524) has given the name of
+  J. A. [[Ewing]] (_Phil. Trans._ clxxvi. 524) has given the name of
   _hysteresis_ (Gr. [Greek: hystereô], to lag behind). Thus it happens
   that there is no definite relation between the magnetization of a
   piece of metal which has been previously magnetized and the strength
@@ -1240,7 +1240,7 @@ properties in all directions.
   _retentiveness_, or _retentivity_, of the metal.[8] Steel, which is
   well suited for the construction of permanent magnets, is said to
   possess great "coercive force." To this term, which had long been used
-  in a loose and indefinite manner, J. Hopkinson supplied a precise
+  in a loose and indefinite manner, J. [[Hopkinson]] supplied a precise
   meaning (_Phil. Trans._ clxxvi. 460). The _coercive force_, or
   _coercivity_, of a material is that reversed magnetic force which,
   while it is acting, just suffices to reduce the residual induction to
@@ -1272,7 +1272,7 @@ properties in all directions.
   where
 
               / 1     \   / 1      1 + e \
-    N = 4[pi]( --- - 1 ) ( --- log -----  ),
+    N = 4[pi]( --- - 1 ) ( --- [[Log|log]] -----  ),
               \ e2    /   \ 2e     1 - e /
 
   e being the eccentricity (see Maxwell's _Treatise_, § 438). Since I =
@@ -1601,7 +1601,7 @@ the magnet point east and west, then MH = C[theta], or M = C[theta]/H,
 where C is the torsional couple for 1°. A bifilar suspension is
 sometimes used instead of a single wire. If P is the weight of the
 magnet, l the length of each of the two threads, 2a the distance between
-their upper points of attachment, and 2b that between the lower points,
+their upper points of [[Attachment|attachment]], and 2b that between the lower points,
 then, approximately, MH = P(ab/l) sin [theta]. It is often sufficient to
 find the ratio of the moment of one magnet to that of another. If two
 magnets having moments M, M´ are arranged at right angles to each other
@@ -1647,7 +1647,7 @@ suspended by a single fibre of unspun silk; this arrangement, when
 enclosed in a case with a glazed front to protect it from currents of
 air, constitutes a simple but efficient magnetometer. Deflections of the
 suspended needle are indicated by the movement of a narrow beam of light
-which the mirror reflects from a lamp and focusses upon a graduated
+which the mirror reflects from a [[Lamp|lamp]] and focusses upon a graduated
 cardboard scale placed at a distance of a few feet; the angular
 deflection of the beam of light is, of course, twice that of the needle.
 The suspended needle is, in the absence of disturbing causes, directed
@@ -1914,7 +1914,7 @@ of the coil, n the number of turns of wire, and R the resistance of the
 circuit. Under the influence of the transient current, the galvanometer
 needle undergoes a momentary deflection, or "throw," which is
 proportional to Q, and therefore to [delta]B, and thus, if we know the
-deflection produced by the discharge through the galvanometer of a given
+deflection produced by the [[Discharge|discharge]] through the galvanometer of a given
 quantity of electricity, we have the means of determining the value of
 [delta]B.
 
@@ -1924,7 +1924,7 @@ quantity of electricity, we have the means of determining the value of
   swing has well begun; an instrument of the d'Arsonval form is
   recommended, not only because it is unaffected by outside magnetic
   influence, but also because the moving part can be instantly brought
-  to rest by means of a short-circuit key, thus effecting a great saving
+  to rest by means of a short-circuit [[Key|key]], thus effecting a great saving
   of time when a series of observations is being made. In practice it is
   usual to standardize or "calibrate" the galvanometer by causing a
   known change of induction to take place within a standard coil
@@ -1945,7 +1945,7 @@ quantity of electricity, we have the means of determining the value of
   current as the source of a known induction. A primary coil of length
   l, having n turns, is wound upon a cylinder made of non-conducting and
   non-magnetic material, and upon the middle of the primary a secondary
-  or induction coil is closely fitted. When a current of strength i is
+  or [[Induction Coil|induction coil]] is closely fitted. When a current of strength i is
   suddenly interrupted in the primary, the increment of induction
   through the secondary is sensibly equal to 4[pi]in/l units. All the
   data required for standardizing the galvanometer can in this way be
@@ -1969,7 +1969,7 @@ quite insensible at the middle portion; H therefore is equal to H0.
   instrument is of the d'Arsonval type; its coil turns in a strong
   uniform field, and is suspended in such a manner that torsion is
   practically negligible, the swings of the coil being limited by
-  damping influences, chiefly electromagnetic. The index therefore
+  damping influences, chiefly electromagnetic. The [[Index|index]] therefore
   remains almost stationary at the limit of its deflection, and the
   deflection is approximately the same whether the change of induction
   occurs suddenly or gradually.
@@ -2011,7 +2011,7 @@ The closed figure a c d e a is variously called a _hysteresis curve_ or
 _diagram_ or _loop_. The area [int] H dB enclosed by it represents the
 work done in carrying a cubic centimetre of the iron through the
 corresponding magnetic cycle; expressed in ergs this work is (1/4)[pi]
-[int] H dB.[21] To quote an example given by J. A. Fleming, it requires
+[int] H dB.[21] To quote an example given by J. A. [[Fleming]], it requires
 about 18 foot-pounds of work to make a complete magnetic cycle in a
 cubic foot of wrought iron, strongly magnetized first one way and then
 the other, the work so expended taking the form of heat in the mass.
@@ -2042,7 +2042,7 @@ the other, the work so expended taking the form of heat in the mass.
   coil is represented in the diagram by three turns of wire wound over a
   much longer primary coil. The short-circuit key F is kept closed
   except when an observation is about to be made; its object is to
-  arrest the swing of the d'Arsonval galvanometer G2. By means of the
+  [[Arrest|arrest]] the swing of the d'Arsonval galvanometer G2. By means of the
   three-way switch C the battery current may be sent either into the
   primary of E, for the purpose of calibrating the galvanometer, or into
   the magnetizing coil of the ring under test. When it is desired to
@@ -2084,7 +2084,7 @@ the special qualities of the metals from which they were respectively
 obtained. The distinguishing feature of the first is the steepness of
 its outlines; this indicates that the induction increases rapidly in
 relation to the magnetic force, and hence the metal is well suited for
-the construction of dynamo magnets. The second has a very small area,
+the construction of [[Dynamo|dynamo]] magnets. The second has a very small area,
 showing that the work done in reversing the magnetization is small; the
 metal is therefore adapted for use in alternating current transformers.
 On the other hand, the form of the third curve, with its large
@@ -2107,9 +2107,9 @@ degree; such a metal would be chosen for making good permanent magnets.
   hysteresis. The deflection is indicated by a pointer upon a graduated
   scale, the readings being interpreted by comparison with two standard
   specimens supplied with the instrument. G. F. Searle and T. G.
-  Bedford[23] have introduced the method of measuring hysteresis by
+  [[Bedford]][23] have introduced the method of measuring hysteresis by
   means of an electro-dynamometer used ballistically. The fixed and
-  suspended coils of the dynamometer are respectively connected in
+  suspended coils of the [[Dynamometer|dynamometer]] are respectively connected in
   series with the magnetizing solenoid and with a secondary wound upon
   the specimen. When the magnetizing current is twice reversed, so as to
   complete a cycle, the sum of the two deflections, multiplied by a
@@ -2191,7 +2191,7 @@ degree; such a metal would be chosen for making good permanent magnets.
   quantity really concerned, W is more appropriately expressed in terms
   of I, the magnetic moment per unit of volume, than of B, he suggests
   an experiment to determine whether the mechanical work required to
-  effect the complete magnetic reversal of a crowd of small compass
+  effect the complete magnetic reversal of a [[Crowd|crowd]] of small compass
   needles (representative of magnetic molecules) is proportional to the
   1.6th power of the aggregate maximum magnetic moment before or after
   completion of the cycle.
@@ -2225,7 +2225,7 @@ resemble one another as regards their magnetic properties. Curves of
 magnetization (which express the relation of I to H) have a close
 resemblance to those of induction; and, indeed, since B = H + 4[pi]I,
 and 4[pi]I (except in extreme fields) greatly exceeds H in numerical
-value, we may generally, without serious error, put I = B/4[pi], and
+value, we may generally, without serious [[Error|error]], put I = B/4[pi], and
 transform curves of induction into curves of magnetization by merely
 altering the scale to which the ordinates are referred. A scale for the
 approximate transformation for the curves in fig. 12 is given at the
@@ -2239,7 +2239,7 @@ but the effect would be no less conspicuous in the iron curve if the
 abscissae were plotted to a larger scale. During the second stage small
 increments of magnetizing force are attended by relatively large
 increments of magnetization, as is indicated by the steep ascent of the
-curve. Then the curve bends over, forming what is often called a "knee,"
+curve. Then the curve [[Bend|bends]] over, forming what is often called a "[[Knee|knee]],"
 and a third stage is entered upon, during which a considerable increase
 of magnetizing force has little further effect upon the magnetization.
 When in this condition the metal is popularly said to be "saturated."
@@ -2271,7 +2271,7 @@ containing nearly 99.9% of the pure metal.
   |          |           Magnetic Induction.           |
   | Magnetic +--------+----------+----------+----------+
   |  Force.  |  Pure  | Low Moor |  Steel   |  Steel   |
-  |          |  Iron. |   Iron.  | Forging. | Casting. |
+  |          |  Iron. |   Iron.  | [[Forging]]. | Casting. |
   +----------+--------+----------+----------+----------+
   |     5    | 12,700 |  10,900  |  12,300  |   9,600  |
   |    10    | 14,980 |  13,120  |  14,920  |  13,050  |
@@ -2336,7 +2336,7 @@ a frequency of 100 double reversals, or cycles, per second. In many
 experiments, however, different inductions and frequencies are employed,
 and the hysteresis-loss is often expressed as ergs per cubic centimetre
 per cycle and sometimes as horse-power per ton. In order to save
-arithmetical labour it is convenient to be provided with conversion
+arithmetical labour it is convenient to be provided with [[Conversion|conversion]]
 factors for reducing variously expressed results to the standard form.
 The rate at which energy is lost being proportional to the frequency, it
 is obvious that the loss at frequency 100 may be deduced from that at
@@ -2381,7 +2381,7 @@ fall in a straight line meeting the horizontal axis, inferred that the
 induction corresponding to the point B--about 17,500--was the highest
 that could be produced by any magnetizing force, however great. It has,
 however, been shown that, if the magnetizing force is carried far
-enough, the curve always becomes convex to the axis instead of meeting
+enough, the curve always becomes [[Convex|convex]] to the axis instead of meeting
 it. The full line shows the result of an experiment in which the
 magnetizing force was carried up to 585,[28] but though the force was
 thus increased ninefold, the induction only reached 19,800, and the
@@ -2435,7 +2435,7 @@ having holes bored through it to fit the bars, which are clamped in
 position by set-screws. Induction coils are wound on the middle parts of
 both bars, and are connected in series. With this arrangement it is
 possible to find the actual value of the magnetizing force, corrected
-for the effects of joints and other sources of error. Two sets of
+for the effects of [[Joints|joints]] and other sources of error. Two sets of
 observations are taken, one when the blocks are fixed at the ends of the
 bars, and another when they are nearer together, the clear length of the
 bars between them and of the magnetizing coils being reduced to
@@ -2450,7 +2450,7 @@ by observing the force required to draw apart the two portions of a
 divided rod or ring when held together by their mutual attraction. If a
 transverse cut is made through a bar whose magnetization is I and the
 two ends are placed in contact, it can be shown that this force is
-2[pi]I² dynes per unit of area (Mascart and Joubert, _Electricity and
+2[pi]I² dynes per unit of area (Mascart and [[Joubert]], _Electricity and
 Magnetism_, § 322); and if the magnetization of the bar is due to an
 external field H produced by a magnetizing coil or otherwise, there is
 an additional force equal to HI. Thus the whole force, when the two
@@ -2562,7 +2562,7 @@ ranging up to very high intensities (_Phil. Mag._, 1895, 39, 254, and
 
   where P is the pull in grammes weight, S the sectional area of the rod
   in square cm., and g = 981. If the pull is measured in pounds and the
-  area in square inches, the formula may be written B = 1317 ×
+  area in square [[Inch|inches]], the formula may be written B = 1317 ×
   [root](P/S) + H. The instrument exhibited by Thompson would, without
   undue heating, take a current of 30 amperes, which was sufficient to
   produce a magnetizing force of 1000 units. A testing apparatus of a
@@ -2729,7 +2729,7 @@ thickness of the substance arranged as a plate at right angles to the
 direction of the field, and [omega] Verdet's constant for the substance.
 
   For the practical measurement of field intensity du Bois has used
-  plates of the densest Jena flint glass. These are preferably made
+  plates of the densest [[Jena]] flint glass. These are preferably made
   slightly wedge-shape, to avoid the inconvenience resulting from
   multiple internal reflections, and they must necessarily be rather
   thin, so that double refractions due to internal strain may not exert
@@ -2770,7 +2770,7 @@ experiments in which a coil was used were made by du Bois (_Phil. Mag._,
 under forces ranging from about 100 to 1250 units. Since the
 demagnetizing factor was 0.052, the strongest field due to the coil was
 about 1340; but though arrangements were provided for cooling the
-apparatus by means of ice, great difficulty was experienced owing to
+apparatus by means of [[Ice|ice]], great difficulty was experienced owing to
 heating. Du Bois's results, which, as given in his papers, show the
 relation of H to the magnetic moment per unit of mass, have been reduced
 by Ewing to the usual form, and are indicated in fig. 22, the earlier
@@ -2916,7 +2916,7 @@ of magnetic induction to magnetic force may be expressed by
 
 _Tractive Force of a Magnet._--Closely connected with the results just
 discussed is the question what is the greatest tractive force that can
-be exerted by a magnet. In the year 1852 J. P. Joule (_Phil. Mag._,
+be exerted by a magnet. In the year 1852 J. P. [[Joule]] (_Phil. Mag._,
 1852, 3, 32) expressed the opinion that no "force of current could give
 an attraction equal to 200 lb. per sq. in.," or 14,000 grms. per square
 centimetre, and a similar view prevailed among high authorities more
@@ -2966,7 +2966,7 @@ inclined straight line, [kappa] being therefore a known function of H.
 If these equations could be assumed to hold when H is indefinitely
 small, it would follow that [kappa] has a finite initial value, from
 which there would be no appreciable deviation in fields so weak that bH
-was negligibly small in comparison with a. Such an assumption could not,
+was negligibly small in comparison with a. Such an [[Assumption|assumption]] could not,
 however, without dangerous extrapolation, be founded upon the results of
 Baur's experiments, which did not go far enough to justify it. In some
 experiments carried out in 1887, Lord Rayleigh (_Phil. Mag._, 1887, 23,
@@ -2978,7 +2978,7 @@ which may therefore with great probability be assumed to represent the
 initial value of [kappa] for the specimen in question. Experiments with
 annealed iron gave less satisfactory results, on account of the slowness
 with which the metal settled down into a new magnetic state, thus
-causing a "drift" of the magnetometer needle, which sometimes persisted
+causing a "[[Drift|drift]]" of the magnetometer needle, which sometimes persisted
 for several seconds. Apart from this complication, it appeared that I
 was proportional to H when the value of H was less than 0.02.
 
@@ -2987,7 +2987,7 @@ was proportional to H when the value of H was less than 0.02.
   655), who found the limiting values of [kappa] to be 7.5 to 9.5 for
   iron, and 11.2 to 13.5 for steel, remaining constant up to H = .06; by
   P. Culmann (_Elekt. Zeit._, 1893, 14, 345; _Wied. Ann._, 1895, 56,
-  602); and by L. Holborn (_Berl. Ber._, 1897, p. 95, and _Wied. Ann._,
+  602); and by L. [[Holborn]] (_Berl. Ber._, 1897, p. 95, and _Wied. Ann._,
   1897, 61, 281). The latter gives values of the constants a and b for
   different samples of iron and steel, some of which are shown in the
   following table:--
@@ -3051,7 +3051,7 @@ general slightly changed by magnetization. The phenomenon was first
 noticed by J. P. Joule, who in 1842 and 1847 described some experiments
 which he had made upon bars of iron and steel. His observations, were
 for the most part confirmed by a number of subsequent workers, notably
-by A. M. Mayer; but with the single exception of the discovery by W. F.
+by A. M. [[Mayer]]; but with the single exception of the discovery by W. F.
 Barrett in 1882 that a nickel bar contracts when magnetized, nothing of
 importance was added by Joule's results for nearly forty years. Later
 researches have however thrown much new light upon a class of phenomena
@@ -3252,7 +3252,7 @@ various results are dependent upon the physical condition of the metals.
 
   Attempts have been made to explain magnetic deformation by various
   theories of magnetic stress,[34] notably that elaborated by G. R.
-  Kirchhoff (_Wied. Ann._, 1885, 24, 52, and 1885, 25, 601), but so far
+  [[Kirchhoff]] (_Wied. Ann._, 1885, 24, 52, and 1885, 25, 601), but so far
   with imperfect success. E. Taylor Jones showed in 1897 that only a
   small proportion of the contraction exhibited by a nickel wire when
   magnetized could be accounted for on Kirchhoff's theory from the
@@ -3262,7 +3262,7 @@ various results are dependent upon the physical condition of the metals.
   calculation, though in nearly all cases there was agreement as to
   quality. They consider, however, that Kirchhoff's theory, which
   assumes change of magnetization to be simply proportional to strain,
-  is still in its infancy, the present stage of its evolution being
+  is still in its [[Infancy|infancy]], the present stage of its evolution being
   perhaps comparable with that reached by the theory of magnetization at
   the time when the ratio I/H was supposed to be constant. In the light
   of future researches further development may reasonably be expected.
@@ -3322,7 +3322,7 @@ especially at the hands of J. A. Ewing, C. G. Knott and the
 indefatigable physicists of Tokyo University. The results of their
 experiments embrace a multiplicity of details of which it is impossible
 to give an adequate summary. Only a few of the most important can be
-mentioned here; the reader who wishes for fuller information should
+mentioned here; the reader who wishes for [[Fuller|fuller]] information should
 consult the original papers.[39]
 
 It was first discovered by E. Villari in 1868 that the magnetic
@@ -3472,7 +3472,7 @@ statements:--
   effects may possibly be dependent upon the physical condition of the
   metals. In the same paper Nagaoka and Honda describe an important
   experiment on the effect of transverse stress. An iron tube, having
-  its ends closed by brass caps, was placed inside a compressing vessel
+  its ends closed by [[Brass|brass]] caps, was placed inside a compressing vessel
   into which water was forced until the pressure upon the outer surface
   of the tube reached 250 atmospheres. The experiment was the reverse of
   one made by Kelvin with a gun-barrel subjected to internal hydrostatic
@@ -3522,7 +3522,7 @@ the spiral lines of magnetization produces the Wiedemann twist. Iron
 (moderately magnetized) expands along the lines of magnetization, and
 therefore for a right-handed spiral exhibits a right-handed twist. This
 explanation was not accepted by Wiedemann,[45] who thought that the
-effect was accounted for by molecular friction. Now nickel contracts
+effect was accounted for by molecular [[Friction|friction]]. Now nickel contracts
 instead of lengthening when it is magnetized, and an experiment by Knott
 showed, as he expected, that _caeteris paribus_ a nickel wire twists in
 a sense opposite to that in which iron twists. The Wiedemann effect
@@ -3658,7 +3658,7 @@ carried the magnetizing current; the secondary, which was wound inside
 the other, could be connected either with a ballistic galvanometer for
 determining the induction, or with a Wheatstone's bridge for measuring
 the resistance, whence the temperature was calculated. The ring thus
-prepared was placed in a cast-iron box and heated in a gas furnace. The
+prepared was placed in a cast-iron [[Box|box]] and heated in a gas furnace. The
 following are the chief results of Hopkinson's experiments: For small
 magnetizing forces the magnetization of iron steadily increases with
 rise of temperature till the critical temperature is approached, when
@@ -3687,7 +3687,7 @@ being embodied in a paper containing twelve pages of tables and upwards
 of 120 curves. As in Hopkinson's experiments, ring magnets were
 employed; these were wound with primary and secondary coils of insulated
 platinum wire, which would bear a much higher temperature than copper
-without oxidation or fusion. A third platinum coil, wound
+without oxidation or [[Fusion|fusion]]. A third platinum coil, wound
 non-inductively between the primary and the secondary, served to carry
 the current by which the ring was heated; a current of 4.6 amperes, with
 16 volts across the terminals, was found sufficient to maintain the ring
@@ -3793,7 +3793,7 @@ iron.
   M. P. Ledeboer,[52] H. Tomlinson,[53] P. Curie,[54] and W. Kunz,[55]
   R. L. Wills,[56] J. R. Ashworth[57] and E. P. Harrison.[58]
 
-_Low Temperature._--J. A. Fleming and J. Dewar (_Proc. Roy. Soc._, 1896,
+_Low Temperature._--J. A. Fleming and J. [[Dewar]] (_Proc. Roy. Soc._, 1896,
 60, 81) were the first to experiment on the permeability and hysteresis
 of iron at low temperatures down to that of liquid air (-186° C.).
 Induction curves of an annealed soft-iron ring were taken first at a
@@ -3861,7 +3861,7 @@ investigated the changes which occurred in permanently magnetized
 metals when cooled to the temperature of liquid air. The metals, which
 were prepared in the form of small rods, were magnetized between the
 poles of an electromagnet and tested with a magnetometer at temperatures
-of -186° and 15°. The first immersion into liquid air generally produced
+of -186° and 15°. The first [[Immersion|immersion]] into liquid air generally produced
 a permanent decrease of magnetic moment, and there was sometimes a
 further decrease when the metal was warmed up again; but after a few
 alternations of temperature the changes of moment became definite and
@@ -3939,7 +3939,7 @@ Hopkinson's curves:--
   Honda and Shimizu (_loc. cit._) have determined the two critical
   temperatures for eleven nickel-steel ovoids, containing from 24.04 to
   70.32% of nickel, under a magnetizing force of 400, and illustrated by
-  an interesting series of curves, the gradual transformation of the
+  an interesting series of curves, the [[Gradual|gradual]] transformation of the
   magnetic properties as the percentage of nickel was decreased. They
   found that the hysteresis-loss, which at ordinary temperatures is very
   small, was increased in liquid air, the increase for the alloys
@@ -3947,7 +3947,7 @@ Hopkinson's curves:--
   applies only for very weak inductions when the alloys are at the
   ordinary temperature, but at the temperature of liquid air it becomes
   applicable through a wide range of inductions. According to C. E.
-  Guillaume[64] the temperature at which the magnetic susceptibility of
+  [[Guillaume]][64] the temperature at which the magnetic susceptibility of
   nickel-steel is recovered is lowered by the presence of chromium; a
   certain alloy containing chromium was not rendered magnetic even by
   immersion in liquid air. Experiments on the subject have also been
@@ -4057,7 +4057,7 @@ annealed.
     | Un.  | Fe, 85.77; C, 1.23; Mn, 13.            |       0       |
     | An.  | Fe, 84.64; C, 0.15; Mn, 15.2           |       0       |
     | An.  | Fe, 80.16; C, 0.8; Mn, 5.04; Ni, 14.55.|       3       |
-    | Un.  | Ditto                                  |       0       |
+    | Un.  | [[Ditto]]                                  |       0       |
     | Un.  | Fe, 75.36; C, 0.6; Mn, 5.04; Ni, 19.   |       3       |
     | An.  | Fe, 86.61; C, 1.08; Mn, 10.2; W, 2.11. |       5       |
     +------+----------------------------------------+---------------+
@@ -4087,7 +4087,7 @@ annealed.
   which has been claimed for aluminium-iron cannot yet be regarded as
   established.
 
-A number of iron alloys have been examined by Mme. Curie (_Bull. Soc.
+A number of iron alloys have been examined by Mme. Curie (_[[Bull]]. Soc.
 d'Encouragement_, 1898, pp. 36-76), chiefly with the object of
 determining their suitability for the construction of permanent magnets.
 Her tests appear to show that molybdenum is even more effective than
@@ -4169,11 +4169,11 @@ conductors is known to be temporarily changed by the action of a
 magnetic field, but except in the case of bismuth the effect is very
 small.
 
-  A. Gray and E. Taylor Jones (_Proc. Roy. Soc._, 1900, 67, 208) found
+  A. [[Gray]] and E. Taylor Jones (_Proc. Roy. Soc._, 1900, 67, 208) found
   that the resistance of a soft iron wire was increased by about 1/700
   in a field of 320 C.G.S. units. The effect appeared to be closely
   connected with the intensity of magnetization, being approximately
-  proportional to I. G. Barlow (_Proc. Roy. Soc._, 1903, 71, 30),
+  proportional to I. G. [[Barlow]] (_Proc. Roy. Soc._, 1903, 71, 30),
   experimenting with wires of iron, steel and nickel, showed that in
   weak fields the change of resistance was proportional to a function
   aI^2 + bI^4 + cI^6, where a, b and c are constants for each specimen.
@@ -4189,7 +4189,7 @@ small.
   the effect was largely dependent upon temperature (see also P. Lenard,
   _Wied. Ann._, 1890, 39, 619). Among the most important experiments on
   the influence of magnetic force at different temperatures are those of
-  J. B. Henderson and of Dewar and Fleming. Henderson (_Phil. Mag._,
+  J. B. [[Henderson]] and of Dewar and Fleming. Henderson (_Phil. Mag._,
   1894, 38, 488) used a little spiral of the pure electrolytic bismuth
   wire prepared by Hartmann and Braun; this was placed between the
   pole-pieces of an electromagnet and subjected to fields of various
@@ -4262,7 +4262,7 @@ experimenters have endeavoured to find a Hall effect in liquids, but
 such results as have been hitherto obtained are by no means free from
 doubt. E. A. Marx (_Ann. d. Phys._, 1900, 2, 798) observed a
 well-defined Hall effect in incandescent gases. A large effect,
-proportional to the field, has been found by H. A. Wilson (_Cam. Phil.
+proportional to the field, has been found by H. A. Wilson (_[[Cam]]. Phil.
 Soc. Proc._, 1902, 11, pp. 249, 391) in oxygen, hydrogen and air at low
 pressures, and by C. D. Child (_Phys. Rev._, 1904, 18, 370) in the
 electric arc.
@@ -4283,7 +4283,7 @@ a magnetic field acts normally upon a thin plate of metal traversed by
 an electric current. It is remarkable that if a flow of heat be
 substituted for a current of electricity a closely allied group of
 "thermo-magnetic effects" is presented. The two classes of phenomena
-have been collated by M. G. Lloyd (_Am. Journ. Sci._, 1901, 12, 57), as
+have been collated by M. G. [[Lloyd]] (_Am. Journ. Sci._, 1901, 12, 57), as
 follows:--
 
    _Galvano-Magnetic Effects._              _Thermo-Magnetic Effects._
@@ -4379,7 +4379,7 @@ hysteresis were altogether disregarded. The subject, which is of
 importance in connexion with theories of magnetostriction, has been
 investigated by K. Honda and T. Terada in a research remarkable for its
 completeness and the ingenuity of the experimental methods employed.[90]
-The results are too numerous to discuss in detail; some of those to
+The results are too numerous to [[Discus|discuss]] in detail; some of those to
 which special attention is directed are the following: In Swedish iron
 and tungsten-steel the change of elastic constants (Young's modulus and
 rigidity) is generally positive, but its amount is less than 0.5%;
@@ -4409,7 +4409,7 @@ indicated by a galvanometer connected with the plates.
   concentration and magnetic condition of the electrolyte; these may be
   avoided by working with weak solutions, exposing only a small surface
   in a non-polar region of the metal, and substituting a capillary
-  electrometer for the galvanometer generally used. When such
+  [[Electrometer|electrometer]] for the galvanometer generally used. When such
   precautions are adopted it is found that the "electromotive force of
   magnetization" is, for a given specimen, perfectly definite both in
   direction and in magnitude; it is independent of the nature of the
@@ -4435,7 +4435,7 @@ indicated by a galvanometer connected with the plates.
   the susceptibility [kappa] with accuracy, it has not yet been possible
   to submit this formula to a quantitative test, but it is said to
   afford an indication of the results given by actual experiment. It has
-  been discovered by E. L. Nichols and W. S. Franklin (_Am. Journ.
+  been discovered by E. L. Nichols and W. S. [[Franklin]] (_Am. Journ.
   Sci._, 1887, 34, 419; 1888, 35, 290) that the transition from the
   "passive" to the active state of iron immersed in strong nitric acid
   is facilitated by magnetization, the temperature of transition being
@@ -4503,7 +4503,7 @@ results for oxygen at -182° C. were
 
 In the second series, to which greater importance is attached,
 measurements were made of the force exerted in a divergent field upon
-small balls of copper, silver and other substances, first when the balls
+small [[Ball|balls]] of copper, silver and other substances, first when the balls
 were in air and afterwards when they were immersed in liquid oxygen. If
 V is the volume of a ball, H the strength of the field at its centre,
 and [kappa]´ its apparent susceptibility, the force in the direction x
@@ -4634,7 +4634,7 @@ elements:--
    Element.   [kappa] × 10^6. |    Element.   [kappa] × 10^6.
                               |
   Copper           -0.82      |   Tellurium       - 2.10
-  Silver           -1.51      |   Graphite        + 2
+  Silver           -1.51      |   [[Graphite]]        + 2
   Gold             -3.07      |   Aluminium       + 1.80
   Zinc             -0.96      |   Platinum        +22
   Tin              +0.46      |   Palladium       +50 to 60
@@ -4658,7 +4658,7 @@ According to the notation adopted by Meyer the atomic susceptibility k =
 [kappa] × atomic-weight/(density × 1000).
 
   Meyer thinks that the susceptibilities of the metals praseodymium,
-  neodymium, ytterbium, samarium, gadolinium, and erbium, when obtained
+  neodymium, ytterbium, samarium, [[Gadolinium|gadolinium]], and [[Erbium|erbium]], when obtained
   in a pure form, will be found to equal or even exceed those of the
   well-known ferromagnetic metals. Many of their compounds are very
   strongly magnetic; erbium, for example, in Er2O3 being four times as
@@ -4777,7 +4777,7 @@ needles turn over, and is ultimately frittered down into heat. Hence in
 performing a cycle there is a waste of energy corresponding to what has
 been termed hysteresis-loss.
 
-Supposing Ewing's hypothesis to be correct, it is clear that if the
+Supposing Ewing's [[Hypothesis|hypothesis]] to be correct, it is clear that if the
 magnetization of a piece of iron were reversed by a strong rotating
 field instead of by a field alternating through zero, the loss of energy
 by hysteresis should be little or nothing, for the molecules would
@@ -4848,7 +4848,7 @@ experiment which had been proposed by Maxwell, showed that a revolving
 electric charge produced the same magnetic effects as a current. Since
 that date it has more than once been suggested that the molecular
 currents producing magnetism might be due to the revolution of one or
-more of the charged atoms or "ions" constituting the molecule. None of
+more of the charged [[Atom|atoms]] or "[[Ion|ions]]" constituting the molecule. None of
 the detailed hypotheses which were based on this idea stood the test of
 criticism, but towards the end of the 19th century the researches of J.
 J. Thomson and others once more brought the conception of moving
@@ -4908,7 +4908,7 @@ revolutions, and retarding those which are left-handed, will induce in
 the substance a resultant magnetization opposite in direction to the
 field itself; a body composed of such symmetrical molecules is therefore
 diamagnetic. If however the structure of the molecule is such that the
-electrons revolving around its atoms do not exactly cancel one another's
+electrons revolving around its atoms do not exactly [[Cancel|cancel]] one another's
 effects, the molecule constitutes a little magnet, which under the
 influence of an external field will tend to set itself with its axis
 parallel to the field. Ordinarily a substance composed of asymmetrical
@@ -4930,9 +4930,9 @@ temperature, in accordance with the law of Curie.
 
 The most conspicuous property of the lodestone, its attraction for iron,
 appears to have been familiar to the Greeks at least as early as 800
-B.C., and is mentioned by Homer, Plato, Aristotle, Theophrastus and
+B.C., and is mentioned by [[Homer]], Plato, [[Aristotle]], Theophrastus and
 others. A passage in _De rerum natura_ (vi. 910-915) by the Roman poet,
-Lucretius (96-55 B.C.), in which it is stated that the stone can support
+[[Lucretius]] (96-55 B.C.), in which it is stated that the stone can support
 a chain of little rings, each adhering to the one above it, indicates
 that in his time the phenomenon of magnetization by induction had also
 been observed. The property of orientation, in virtue of which a freely
@@ -4967,7 +4967,7 @@ certainty were freely supplemented by a number of ill-founded
 conjectures, and sometimes even by "figments and falsehoods, which in
 the earliest times, no less than nowadays, used to be put forth by raw
 smatterers and copyists to be swallowed of men."[95] Thus it was taught
-that "if a lodestone be anointed with garlic, or if a diamond be near,
+that "if a lodestone be anointed with [[Garlic|garlic]], or if a diamond be near,
 it does not attract iron," and that "if pickled in the salt of a sucking
 fish, there is power to pick up gold which has fallen into the deepest
 wells." There were said to be "various kinds of magnets, some of which
@@ -4977,9 +4977,9 @@ such great powers of attraction that ships are built with wooden pegs,
 lest the iron nails should be drawn from the timber." Certain occult
 powers were also attributed to the stone. It was "of use to thieves by
 its fume and sheen, being a stone born, as it were, to aid theft," and
-even opening bars and locks; it was effective as a love potion, and
+even opening bars and [[Lock|locks]]; it was effective as a love potion, and
 possessed "the power to reconcile husbands to their wives, and to recall
-brides to their husbands." And much more of the same kind, which, as
+[[Bride|brides]] to their husbands." And much more of the same kind, which, as
 Gilbert says, had come down "even to [his] own day through the writings
 of a host of men, who, to fill out their volumes to a proper bulk, write
 and copy out pages upon pages on this, that and the other subject, of
@@ -4992,7 +4992,7 @@ his actual discoveries. Careful experiment and observation, not the
 inner consciousness, are, he insists, the only foundations of true
 science. Nothing has been set down in his book "which hath not been
 explored and many times performed and repeated" by himself. "It is very
-easy for men of acute intellect, apart from experiment and practice, to
+easy for men of acute [[Intellect|intellect]], apart from experiment and practice, to
 slip and err." The greatest of Gilbert's discoveries was that the globe
 of the earth was magnetic and a magnet; the evidence by which he
 supported this view was derived chiefly from ingenious experiments made
@@ -5018,7 +5018,7 @@ poles varies inversely as the square of the distance between them.
 Several previous attempts had been made to discover the law of force,
 with various results, some of which correctly indicated the inverse
 square; in particular the German astronomer, J. Tobias Mayer (_Gött.
-Anzeiger_, 1760), and the Alsatian mathematician, J. Heinrich Lambert
+Anzeiger_, 1760), and the Alsatian mathematician, J. Heinrich [[Lambert]]
 (_Hist. de l'Acad. Roy. Berlin_, 1766, p. 22), may fairly be credited
 with having anticipated the law which was afterwards more satisfactorily
 established by Coulomb. The accuracy of this law was in 1832 confirmed
@@ -5148,7 +5148,7 @@ of other problems which are still obscure.
   additions); J. C. Maxwell, _Treatise on Electricity and Magnetism_
   (3rd ed., Oxford, 1892); E. Mascart and J. Joubert, _Leçons sur
   l'électricité et le magnétisme_ (2nd ed., Paris, 1896-1897; trans.,
-  not free from errors, by E. Atkinson, London, 1883); J. A. Ewing,
+  not free from errors, by E. [[Atkinson]], London, 1883); J. A. Ewing,
   _Magnetic Induction in Iron and other Metals_ (3rd ed., London,
   1900); J. J. Thomson, _Recent Researches in Electricity and Magnetism_
   (Oxford, 1893); _Elements of Mathematical Theory of Electricity and
@@ -5158,7 +5158,7 @@ of other problems which are still obscure.
   _Magnets and Electric Currents_ (London, 1898); C. Maurain, _Le
   magnétisme du fer_ (Paris, 1899; a lucid summary of the principal
   facts and laws, with special regard to their practical application);
-  _Rapports présentés au Congrès international de physique_, vol. ii.
+  _Rapports présentés au Congrès [[International|international]] de physique_, vol. ii.
   (Paris, 1900); G. C. Foster and A. W. Porter, _Treatise on Electricity
   and Magnetism_ (London, 1903); A. Winkelmann, _Handbuch der Physik_,
   vol. v. part i. (2nd ed., Leipzig, 1905; the most exhaustive
@@ -5183,7 +5183,7 @@ FOOTNOTES:
   [5] The principal theoretical investigations are summarized in
     Mascart and Joubert's _Electricity and Magnetism_, i. 391-398 and ii.
     646-657. The case of a long iron bar has been experimentally studied
-    with great care by C. G. Lamb, _Proc. Phys. Soc._, 1899, 16, 509.
+    with great care by C. G. [[Lamb]], _Proc. Phys. Soc._, 1899, 16, 509.
 
   [6] _Wied. Ann._, 1884, 22, 411.
 
@@ -5219,7 +5219,7 @@ FOOTNOTES:
 
   [19] See C. G. Lamb, _Proc. Phys. Soc._, 1899, 16, 517.
 
-  [20] _Soc. Franc. Phys. Séances_, 1904, 1, 27.
+  [20] _Soc. [[Franc]]. Phys. Séances_, 1904, 1, 27.
 
   [21] E. G. Warburg, _Wied. Ann._ 1881, 13, 141; Ewing, _Phil.
     Trans._, 1885, 176, 549; Hopkinson, _Phil. Trans._ 1885, 176, 466.
@@ -5351,7 +5351,7 @@ FOOTNOTES:
 
   [58] _Phil. Mag._, 1904, 8, 179.
 
-  [59] A. M. Thiessen (_Phys._, 1899, 8, 65) and G. Claude (C. R.,
+  [59] A. M. Thiessen (_Phys._, 1899, 8, 65) and G. [[Claude]] (C. R.,
     1899, 129, 409) found that for considerable inductions (B = 15,000)
     the permeability and hysteresis-loss remained nearly constant down to
     -186°; for weak inductions both notably diminished with temperature.
@@ -5417,7 +5417,7 @@ FOOTNOTES:
     are quoted by Lloyd, _loc. cit._
 
   [81] P. Drude, _Ann. d. Phys._, 1900, 1, 566; 1900, 3, 369; 1902, 7,
-    687. See also E. van Everdingen, _Arch. Néerlandaises_, 1901, 4, 371;
+    687. See also E. van Everdingen, _[[Arch]]. Néerlandaises_, 1901, 4, 371;
     G. Barlow, _Ann. d. Phys._, 1903, 12, 897; H. Zahn, ibid. 1904, 14,
     886; 1905, 16, 148.
 

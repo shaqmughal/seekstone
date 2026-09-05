@@ -18,7 +18,7 @@ official in continental armies, by whose agency the troops, in their
 relation to the civil inhabitants, were placed upon semi-political
 control. In French military law, _commissaires du gouvernement_
 represent the ministry of war on military tribunals, and more or less
-correspond to the British judge-advocate (see COURT-MARTIAL).
+correspond to the British judge-advocate (see [[Court-Martial|COURT-MARTIAL]]).
 
 ## See also
 

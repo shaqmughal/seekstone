@@ -11,7 +11,7 @@ HILDEBERT, HYDALBERT, GILDEBERT or ALDEBERT (c. 1055-1133), French
 writer and ecclesiastic, was born of poor parents at Lavardin, near
 Vendome, and was intended for the church. He was probably a pupil of
 Berengarius of Tours, and became master (_scholasticus_) of the school
-at Le Mans; in 1091 he was made archdeacon and in 1096 bishop of Le
+at Le Mans; in 1091 he was made [[Archdeacon|archdeacon]] and in 1096 bishop of Le
 Mans. He had to face the hostility of a section of his clergy and also
 of the English king, William II., who captured Le Mans and carried the
 bishop with him to England for about a year. Hildebert then travelled to
@@ -22,7 +22,7 @@ clergy, especially the bishop. Hildebert compelled him to leave the
 neighbourhood of Le Mans, but the effects of his preaching remained. In
 1125 Hildebert was translated very unwillingly to the archbishopric of
 Tours, and there he came into conflict with the French king Louis VI.
-about the rights of ecclesiastical patronage and with the bishop of Dol
+about the rights of ecclesiastical patronage and with the bishop of [[Dol]]
 about the authority of his see in Brittany. He presided over the synod
 of Nantes, and died at Tours probably on the 18th of December 1133.
 Hildebert, who built part of the cathedral at Le Mans, has received from
@@ -33,11 +33,11 @@ versificator_.
 
 The extant writings of Hildebert consist of letters, poems, a few
 sermons, two lives and one or two treatises. An edition of his works
-prepared by the Maurist, Antoine Beaugendre, and entitled _Venerabilis
+prepared by the Maurist, [[Antoine]] Beaugendre, and entitled _Venerabilis
 Hildeberti, primo Cenomannensis episcopi, deinde Turonensis
 archiepiscopi, opera tam edita quam inedita_, was published in Paris in
 1708 and was reprinted with additions by J. J. Bourasse in 1854. These
-editions, however, are very faulty. They credit Hildebert with numerous
+editions, however, are very faulty. They [[Credit|credit]] Hildebert with numerous
 writings which are the work of others, while some genuine writings are
 omitted. The revelation of this fact has affected Hildebert's position
 in the history of medieval thought. His standing as a philosopher rested
@@ -55,13 +55,13 @@ too were very popular. Hildebert attained celebrity also as a preacher
 both in French and Latin, but only a few of his sermons are in
 existence, most of the 144 attributed to him by his editors being the
 work of Peter Lombard and others. The _Vitae_ written by Hildebert are
-the lives of Hugo, abbot of Cluny, and of St Radegunda. Undoubtedly
+the lives of [[Hugo]], abbot of [[Cluny]], and of St Radegunda. Undoubtedly
 genuine is also his _Liber de querimonia et conflictu carnis et spiritus
 seu animae_. Hildebert was an excellent Latin scholar, being acquainted
 with Cicero, Ovid and other authors, and his spirit is rather that of a
 pagan than of a Christian writer.
 
-  See B. Haureau, _Les Melanges poetiques d'Hildebert de Lavardin_
+  See B. [[Haureau]], _Les Melanges poetiques d'Hildebert de Lavardin_
   (Paris, 1882), and _Notices et extraits de quelques manuscrits latins
   de la Bibliotheque nationale_ (Paris, 1890-1893); Comte P. de
   Deservillers, _Un Eveque au XII^e siecle, Hildebert et son temps_

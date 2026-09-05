@@ -28,7 +28,7 @@ unanimous in describing Bestuzhev as the arch-plotter in this miserable
 affair; yet, while the active agents were banished to Siberia, Bestuzhev
 was not even censured. The Sinclair murder led ultimately to the
 Swedish-Russian War of 1741, when Bestuzhev was transferred first to
-Hamburg and subsequently to Hanover, where he endeavoured to conclude an
+Hamburg and subsequently to [[Hanover]], where he endeavoured to conclude an
 alliance between Great Britain and Russia. On his return to Russia in
 1743, he was made grand marshal, and married Anna, the widow of Paul
 Yaguzhinsky, Peter the Great's famous pupil. A few months later his wife

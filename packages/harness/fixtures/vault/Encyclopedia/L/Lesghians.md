@@ -2,8 +2,8 @@
 
 LESGHIANS, or LESGHIS (from the Persian _Leksi_, called Leki by the
 Grusians or Georgians, Armenians and Ossetes), the collective name for a
-number of tribes of the eastern Caucasus, who, with their kinsfolk the
-Chechenzes, have inhabited Daghestan from time immemorial. They spread
+number of tribes of the eastern [[Caucasus]], who, with their kinsfolk the
+[[Chechenzes]], have inhabited [[Daghestan]] from time immemorial. They spread
 southward into the Transcaucasian circles Kuba, Shemakha, Nukha and
 Sakataly. They are mentioned as [Greek: Lêchai] by Strabo and Plutarch
 along with the [Greek: Gêlai] (perhaps the modern Galgai, a Chechenzian
@@ -15,7 +15,7 @@ in the reign of the Armenian king Baba (A.D. 370-377), in which Shagir,
 king of the Lekians, was slain. The most important of the Lesghian
 tribes are the Avars (q.v.), the Kasimukhians or Lakians, the Darghis
 and the Kurins or Lesghians proper. Komarov[1] gives the total number
-of the tribes as twenty-seven, all speaking distinct dialects. Despite
+of the tribes as twenty-seven, all speaking distinct [[Dialect|dialects]]. Despite
 this, the Lesghian peoples, with the exception of the Udi and Kubatschi,
 are held to be ethnically identical. The Lesghians are not usually so
 good-looking as the Circassians or the Chechenzes. They are tall,
@@ -26,7 +26,7 @@ disposition they are intelligent, bold and persistent, and capable of
 reckless bravery, as was proved in their struggle to maintain their
 independence. They are capable of enduring great physical fatigue. They
 live a semi-savage life on their mountain slopes, for the most part
-living by hunting and stock-breeding. Little agriculture is possible.
+living by [[Hunting|hunting]] and stock-breeding. Little agriculture is possible.
 Their industries are mainly restricted to smith-work and cutlery and the
 making of felt cloaks, and the women weave excellent shawls. They are
 for the most part fanatical Mahommedans.
@@ -40,7 +40,7 @@ for the most part fanatical Mahommedans.
 
 FOOTNOTE:
 
-  [1] _Ethnological Map of Daghestan._
+  [1] _Ethnological [[Map]] of Daghestan._
 
 ## See also
 

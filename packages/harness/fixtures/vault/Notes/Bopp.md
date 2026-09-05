@@ -1,12 +1,12 @@
 # Bopp
 
-BOPP, FRANZ (1791-1867), German philologist, was born at Mainz on the
+BOPP, [[Franz|FRANZ]] (1791-1867), German philologist, was born at [[Mainz]] on the
 14th of September 1791. In consequence of the political troubles of that
-time, his parents removed to Aschaffenburg, in Bavaria, where he
-received a liberal education at the Lyceum. It was here that his
+time, his parents removed to [[Aschaffenburg]], in Bavaria, where he
+received a liberal education at the [[Lyceum]]. It was here that his
 attention was drawn to the languages and literature of the East by the
 eloquent lectures of Karl J. Windischmann, who, with G.F. Creuzer, J.J.
-Gorres, and the brothers Schlegel, was full of enthusiasm for Indian
+Gorres, and the brothers Schlegel, was full of [[Enthusiasm|enthusiasm]] for Indian
 wisdom and philosophy. And further, Fr. Schlegel's book, _Uber die
 Sprache und Weisheit der Indier_ (Heidelberg, 1808), which was just then
 exerting a powerful influence on the minds of German philosophers and
@@ -17,13 +17,13 @@ the study of Sanskrit. There he enjoyed the society of such eminent men
 as A.L. Chezy, S. de Sacy, L.M. Langles, and, above all, of Alexander
 Hamilton (1762-1824), who had acquired, when in India, an acquaintance
 with Sanskrit, and had brought out, conjointly with Langles, a
-descriptive catalogue of the Sanskrit manuscripts of the Imperial
+descriptive [[Catalogue|catalogue]] of the Sanskrit [[Manuscript|manuscripts]] of the Imperial
 library. At that library Bopp had access not only to the rich collection
 of Sanskrit manuscripts, most of which had been brought from India by
 Father Pons early in the 18th century, but also to the Sanskrit books
-which had up to that time issued from the Calcutta and Serampore
+which had up to that time issued from the [[Calcutta]] and Serampore
 presses. The first fruit of his four years' study in Paris appeared at
-Frankfort-On-Main in 1816, under the title _Uber das Conjugationssystem
+[[Frankfort-On-Main]] in 1816, under the title _Uber das Conjugationssystem
 der Sanskritsprache in Vergleichung mit jenem der griechischen,
 lateinischen, persischen und germanischen Sprache_, and it was
 accompanied with a preface from the pen of Windischmann. In this first
@@ -39,16 +39,16 @@ languages compared.
 
 After a brief sojourn in Germany, Bopp came to London, where he made the
 acquaintance of Sir Charles Wilkins and H.T. Colebrooke, and became the
-friend of Wilhelm von Humboldt, then Prussian ambassador at the court of
+friend of Wilhelm von [[Humboldt]], then Prussian ambassador at the court of
 St James's, to whom he gave instruction in Sanskrit. He brought out, in
-the _Annals of Oriental Literature_ (London, 1820), an essay entitled,
+the _[[Annals]] of Oriental Literature_ (London, 1820), an essay entitled,
 "Analytical Comparison of the Sanskrit, Greek, Latin and Teutonic
 Languages," in which he extended to all parts of the grammar what he had
 done in his first book for the verb alone. He had previously published a
 critical edition, with a Latin translation and notes, of the story of
 _Nala and Damayanti_ (London, 1819), the most beautiful episode of the
 Mahabharata. Other episodes of the Mahabharata--_Indralokagamanam_,
-and three others (Berlin, 1824); _Diluvium_, and three others (Berlin,
+and three others (Berlin, 1824); _[[Diluvium]]_, and three others (Berlin,
 1829); and a new edition of _Nala_ (Berlin, 1832)--followed in due
 course, all of which, with A.W. Schlegel's edition of the _Bhagavadgita_
 (1823), proved excellent aids in initiating the early student into the
@@ -87,7 +87,7 @@ grammatical structure of the languages as deduced from their
 intercomparison, to trace their phonetic laws, and to investigate the
 origin of their grammatical forms. The first and second points were
 subservient to the third. As Bopp's researches were based on the best
-available sources, and incorporated every new item of information that
+available sources, and incorporated every new [[Item|item]] of information that
 came to light, so they continued to widen and deepen in their progress.
 Witness his monographs on the vowel system in the Teutonic languages
 (1836), on the Celtic languages (1839), on the Old-Prussian (1853) and

@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Arbois_De_
 ARBOIS DE JUBAINVILLE, MARIE HENRI D' (1827-1910), French historian and
 philologist, was born at Nancy on the 5th of December 1827. In 1851 he
 left the Ecole des Chartes with the degree of palaeographic archivist.
-He was placed in control of the departmental archives of Aube, and
+He was placed in control of the departmental archives of [[Aube]], and
 remained in that position until 1880, when he retired on a pension. He
 published several volumes of inventorial abstracts, a _Repertoire
 archeologique du departement_ in 1861; a valuable _Histoire des ducs et
@@ -19,7 +19,7 @@ comtes de Champagne depuis le VI^e siecle jusqu'a la fin du XI^e_, which
 was published between 1859 and 1869 (8 vols.), and in 1880 an
 instructive monograph upon _Les Intendants de Champagne_. But already he
 had become attracted towards the study of the most ancient inhabitants
-of Gaul; in 1870 he brought out an _Etude sur la declinaison des noms
+of [[Gaul]]; in 1870 he brought out an _Etude sur la declinaison des noms
 propres dans la langue franque a l'epoque merovingienne_; and in 1877 a
 learned work upon _Les Premiers Habitants de l'Europe_ (2nd edition in 2
 vols. 1889 and 1894). Next he concentrated his efforts upon the field of
@@ -30,7 +30,7 @@ celtique_ which in 1908 extended to twelve volumes. For this he himself
 edited the following works: _Introduction a l'etude de la litterature
 celtique_ (1883); _L'Epopee celtique en Irlande_ (1892); _Etudes sur le
 droit celtique_ (1895); and _Les Principaux Auteurs de l'antiquite a
-consulter sur l'histoire des Celtes_ (1902). He was among the first in
+consulter sur l'histoire des [[Celtes]]_ (1902). He was among the first in
 France to enter upon the study of the most ancient monuments of Irish
 literature with a solid philological preparation and without empty
 prejudices. We owe to him also _Les Celtes depuis les temps les plus
@@ -40,7 +40,7 @@ studies upon the Gaulish names of persons and places took synthetic form
 in the _Recherches sur l'origine de la propriete fonciere_ (1890), which
 illumined one of the most interesting aspects of the Roman occupation of
 Gaul. _The Recueil de memoires concernant la litterature et l'histoire
-celtiques_, made by the most notable among his disciples on the occasion
+celtiques_, made by the most notable among his [[Disciple|disciples]] on the occasion
 of his seventy-eighth birthday (1906), was a well-deserved tribute to
 his persevering and fruitful industry. He died in February 1910.
      (C. B.*)

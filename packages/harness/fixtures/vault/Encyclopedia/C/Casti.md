@@ -9,7 +9,7 @@ of Metastasio, he was appointed _Poeta Cesario_, or poet-laureate of
 Austria, in which capacity he applied himself with great success to the
 opera bouffe; but in 1796 he resigned this post, in order that he might
 not be hampered by political relations; and he spent the close of his
-life as a private gentleman at Paris, where he died in 1803. Casti is
+life as a private [[Gentleman|gentleman]] at Paris, where he died in 1803. Casti is
 best known as the author of the _Novelle galanti_, and of _Gli Animali
 parlanti_, a poetical allegory, over which he spent eight years
 (1794-1802), and which, notwithstanding its tedious length, excited so

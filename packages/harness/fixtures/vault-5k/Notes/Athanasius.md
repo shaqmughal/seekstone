@@ -15,7 +15,7 @@ house by Bishop Alexander, who recognized the validity of this
 proceeding. It is certain that Athanasius was young when he took orders,
 and that he must soon have entered into close relations with his bishop,
 whom, after the outbreak of the Arian controversy, he accompanied as
-archdeacon to the council of Nicaea. In the sessions and discussions of
+[[Archdeacon|archdeacon]] to the council of Nicaea. In the sessions and discussions of
 the council he could take no part; but in unofficial conferences he took
 sides vigorously, according to his own evidence, against the Arians, and
 was certainly not without influence. He had already, before the opening
@@ -42,7 +42,7 @@ seemed to him to be pagans, who worship the creature, instead of the God
 who created all things, since they teach two gods, one having no
 beginning, the other having a beginning in Time and therefore of the
 same nature as the heathen gods, since, like them, he is a creature.
-Athanasius has no terms for the definition of the Persons in the one
+Athanasius has no terms for the [[Definition|definition]] of the Persons in the one
 "Divine" ([Greek: to theion]), which are in their substance one; and yet
 he is certain that this "Divine" is not mere abstraction, but something
 truly personal: "They are One," so he wrote later in his _Discourses
@@ -53,7 +53,7 @@ own Son, as the heretic Sabellius imagined. But they are two, for the
 Father is Father, and the Son is not the same, but, again, the Son is
 Son, and not the Father himself. But their Nature ([Greek: physis]) is
 one, for the Begotten is not dissimilar ([Greek: anomoios]) to the
-Begetter, but his image, and everything that is the Father's is also the
+Begetter, but his [[Image|image]], and everything that is the Father's is also the
 Son's."
 
 Five months after the return from the council of Nicaea Bishop Alexander
@@ -89,15 +89,15 @@ against the prince-bishop of Alexandria. Probably there was in the very
 greatness of his character and the extent of his popular influence a
 certain species of dominance which lent a colour of truth to some of the
 things said against him. On the present occasion his accusers succeeded
-at once in arousing the imperial jealousy. Without obtaining a hearing,
-he was banished at the end of 335 to Treves in Gaul. This was the first
+at once in arousing the imperial [[Jealousy|jealousy]]. Without obtaining a hearing,
+he was banished at the end of 335 to Treves in [[Gaul]]. This was the first
 banishment of Athanasius, which lasted about one year and a half. It was
 brought to a close by the death of Constantine, and the accession as
 emperor of the West of Constantine II., who, in June 337, allowed
 Athanasius to return to Alexandria.
 
 He reached his see on the 23rd of November 337, and, as he himself has
-told us, "the people ran in crowds to see his face; the churches were
+told us, "the people ran in [[Crowd|crowds]] to see his face; the churches were
 full of rejoicing; thanksgivings were everywhere offered up; the
 ministers and clergy thought the day the happiest in their lives." But
 this period of happiness was destined to be short-lived. His position as
@@ -133,7 +133,7 @@ like "another Nile" to meet him afar off as he approached the city.
 
 The six years of his residence in the West had given Athanasius the
 opportunity of displaying a momentous activity. He made long journeys in
-Italy, in Gaul, and as far as Belgium. Everywhere he laboured for the
+Italy, in Gaul, and as far as [[Belgium]]. Everywhere he laboured for the
 Nicene faith, and the impression made by his personality was so great
 that to hold fast the orthodox faith and to defend Athanasius were for
 many people one and the same thing. This was shown when, after the death
@@ -171,7 +171,7 @@ all the great _Orations or Discourses against the Arians_, which furnish
 the best exposition of his theological principles.
 
 During his absence the see of Alexandria was left without a pastor. It
-is true that George of Cappadocia had taken his place; but he could only
+is true that George of [[Cappadocia]] had taken his place; but he could only
 maintain himself for a short while (February 357-October 358). The great
 majority of the population remained faithful to the exile. At length, in
 November 361, the way was opened to him for his return to his see by the

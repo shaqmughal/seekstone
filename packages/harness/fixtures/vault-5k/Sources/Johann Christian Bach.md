@@ -17,7 +17,7 @@ was in 1762 invited to London and there spent the rest of his life. For
 twenty years he was the most popular musician in England, his dramatic
 works, produced at the King's theatre, were received with great cordiality,
 he was appointed music-master to the queen, and his concerts, given in
-partnership with Abel at the Hanover Square rooms, soon became the most
+partnership with Abel at the [[Hanover]] Square rooms, soon became the most
 fashionable of public entertainments. He is of some historical interest as
 the first composer who preferred the pianoforte to the older
 keyed-instruments; but his works, though elegant and pleasing, were

@@ -11,7 +11,7 @@ LANGENSALZA, a town in the Prussian province of Saxony, on the Salza,
 about 20 m. N. W. from Erfurt. Pop. (1905) 12,545. Near it are the
 remains of the old Benedictine monastery of Homburg or Hohenburg, where
 the emperor Henry IV. defeated the Saxons in 1075. The manufacture of
-cloth is the chief industry; lace, starch, machines, cigars and
+cloth is the chief industry; lace, starch, [[Machine|machines]], [[Cigar|cigars]] and
 chemicals are also produced, while spinning, dyeing, brewing and
 printing are carried on. There is a sulphur bath in the neighbourhood,
 situated in a pleasant park, in which there are monuments to those who

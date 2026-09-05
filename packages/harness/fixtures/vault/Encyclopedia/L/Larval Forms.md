@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Larval_For
 
 # Larval Forms
 
-LARVAL FORMS, in biology. As is explained in the article on EMBRYOLOGY
+LARVAL FORMS, in [[Biology|biology]]. As is explained in the article on EMBRYOLOGY
 (q.v.), development and life are coextensive, and it is impossible to
 point to any period in the life of an organism when the developmental
 changes cease. Nevertheless it is customary to speak of development as
@@ -17,7 +17,7 @@ form characteristic of the species. Using the word in this restricted
 sense, it is pointed out in the same article that the developmental
 period frequently presents two phases, the embryonic and the larval.
 During the embryonic phase the development occurs under protection,
-either within the egg envelopes, or within the maternal body, or in a
+either within the [[Egg|egg]] envelopes, or within the maternal body, or in a
 brood pouch. At the end of this phase the young organism becomes free
 and uses, as a rule, its own mouth and digestive organs. If this happens
 before it has approximately acquired the adult form, it is called a
@@ -32,15 +32,15 @@ and the adult begins. This is only what would be expected when it is
 remembered that the developmental changes never cease. It might be held
 that the presence of functional reproductive organs, or the possibility
 of rapidly acquiring them, marks off the adult phase of life from the
-larval. But this test sometimes fails. In certain of the Ctenophora
+larval. But this test sometimes fails. In certain of the [[Ctenophora]]
 there is a double sexual life; the larva becomes sexually mature and
 lays eggs, which are fertilized and develop; it then loses its
 generative organs and develops into the adult, which again develops
-reproductive organs (_dissogony_; see Chun, _Die Ctenophoren des Golfes
+reproductive organs (_dissogony_; see Chun, _Die Ctenophoren des [[Golf|Golfes]]
 von Neapel_, 1880). In certain Amphibia the larva may develop sexual
-organs and breed (axolotl), but in this case (_neoteny_) it is doubtful
+organs and breed ([[Axolotl|axolotl]]), but in this case (_neoteny_) it is doubtful
 whether further development may occur in the larva. A very similar
-phenomenon is found in certain insect larvae (_Cecidomyia_), but in this
+phenomenon is found in certain [[Insect|insect]] larvae (_Cecidomyia_), but in this
 case ova alone are produced and develop parthenogenetically
 (paedogenesis). Again in certain Trematoda larval stages known as the
 sporocyst and redia produce ova which have the power of developing
@@ -95,7 +95,7 @@ continues until the end of the life-cycle. The essential condition of
 success in this process is that the organism should always shift into
 the environment to which its new structure is suited, any failure in
 this leading to impairment of the organism. In most cases the shifting
-of the environment is a very gradual process, and the morphological
+of the environment is a very [[Gradual|gradual]] process, and the morphological
 changes in connexion with each step of it are but slight. In some cases,
 however, jumps are made, and whenever such jumps occur we get the
 morphological phenomenon termed metamorphosis. It would be foreign to
@@ -143,7 +143,7 @@ derived from some adult stage in the remote past, when the organism
 progressed no further in its life-cycle than the stage of structure
 revealed by such a larval form. We may perhaps have a right to take up
 this position, but it is of no advantage to us to do so, because it
-leads us into the realm of pure fancy. Moreover, it assumes that an
+leads us into the realm of pure [[Fancy|fancy]]. Moreover, it assumes that an
 answer can be given to the question asked above--has the life-cycle of
 organisms contracted or expanded as the result of evolution? This
 question has not been satisfactorily answered. Indeed we may go further
@@ -166,7 +166,7 @@ animal kingdom, we may illustrate these points, which are facts of
 fundamental importance in the study of larvae, by a reference to
 specific cases.
 
-The two great groups, Annelida and Mollusca, which by their adult
+The two great groups, [[Annelida]] and Mollusca, which by their adult
 structure present considerable affinity with one another, agree in
 possessing a very similar larval form, known as the _trochosphere_ or
 _trochophore_.
@@ -183,10 +183,10 @@ FIG. 1.--Trochosphere Larva of the Chaetopod _Pomatoceros trigueter_, L.
   4. Mouth.
   5. Excretory organ.
   6. Mesoblastic band.
-  7. Anus.]
+  7. [[Anu|Anus]].]
 
   A typical trochosphere larva (figs. 1, 2) possesses a small,
-  transparent body divided into a large preoral lobe and a small
+  transparent body divided into a large preoral [[Lobe|lobe]] and a small
   postoral region. The mouth (4) is on the ventral surface at the
   junction of the preoral lobe with the hinder part of the body, and
   there is an anus (7) at the hind end. Connecting the two is a curved
@@ -206,7 +206,7 @@ FIG. 1.--Trochosphere Larva of the Chaetopod _Pomatoceros trigueter_, L.
   and floating in the so-called body cavity, into which, however, they
   do not open. These are the primitive kidneys. The body cavity, which
   is a space between the ectoderm and alimentary canal, is not lined by
-  mesoderm and is traversed by a few muscular fibres. Such a larva is
+  mesoderm and is traversed by a few muscular [[Fibres|fibres]]. Such a larva is
   found, almost as described, in many Chaetopods (fig. 1), in _Echiurus_
   (fig. 2), in many Gastropods (fig. 3), and Lamellibranchiates (fig.
   4). This typical structure of the larva is often departed from, and
@@ -377,7 +377,7 @@ f, adhesive pit.]
 
 The following groups have larvae which cannot be related to other
 larvae: the Porifera, Coelenterata, Turbellaria and Nemertea,
-Brachiopoda, Myriapoda, Insecta, Crustacea, Tunicata. We may shortly
+[[Brachiopoda]], Myriapoda, Insecta, Crustacea, Tunicata. We may shortly
 notice the larvae of the two latter.
 
 [Illustration: After Metschnikoff.
@@ -457,9 +457,9 @@ danger of being swept out to sea by currents.
   1. The association of larvae with small eggs. This is a true statement
   as far as it goes, but in some cases small eggs do not give rise to
   larvae, some special form of nutriment being provided by the parent,
-  e.g. Mammalia, in which there is a uterine nutrition by means of a
+  e.g. [[Mammalia]], in which there is a uterine nutrition by means of a
   placenta; some Gastropoda (e.g. _Helix waltoni_, _Bulimus_), in which,
-  though the ovum is not specially large, it floats in a large quantity
+  though the ovum is not specially large, it [[Float|floats]] in a large quantity
   of albumen at the expense of which the development is completed; some
   Lamellibranchiata (_Cyclas_, &c.), Echinodermata (many _Ophiurids_,
   &c.), &c., in which development takes place in a brood pouch. In the
@@ -467,7 +467,7 @@ danger of being swept out to sea by currents.
   yolk and no special arrangements for parental care, a larva is formed.
   No better group than the Mollusca can be taken to illustrate this
   point, for in them we find every kind of development from the
-  completely embryonic development of the Cephalopoda, with their large
+  completely embryonic development of the [[Cephalopoda]], with their large
   heavily-yolked eggs, to the development of most marine
   Lamellibranchiata and many Gastropoda, in which the embryonic period
   is short and there is a long larval development. The Mollusca are
@@ -483,7 +483,7 @@ danger of being swept out to sea by currents.
   nauplius and cypris larvae, to _Phoronis_ with its remarkable
   _actinotrocha_, to the Crinoidea, Polyzoa, &c. There are a few
   exceptions to this rule, e.g. the Molgulidae amongst the fixed
-  Tunicata, _Tubularia_, _Myriothela_, &c., among the Hydrozoa.
+  Tunicata, _Tubularia_, _Myriothela_, &c., among the [[Hydrozoa]].
 
   3. Internal parasites generally have a stage which may be called
   larval, in which they are transferred either by active or passive

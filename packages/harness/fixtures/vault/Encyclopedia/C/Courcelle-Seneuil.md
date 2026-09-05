@@ -10,7 +10,7 @@ and was a frequent contributor to the republican papers. On the
 establishment of the second republic in 1848 he became director of the
 public domains. After the _coup d'etat_ of Napoleon III. in 1851 he went
 to South America, and held the professorship of political economy at the
-National Institute of Santiago, in Chile, from 1853 to 1863, when he
+National Institute of Santiago, in [[Chile]], from 1853 to 1863, when he
 returned to France. In 1879 he was made a councillor of state, and in
 1882 was elected a member of the _Academie des sciences morales et
 politiques_. He died at Paris on the 29th of June 1892.

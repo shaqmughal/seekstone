@@ -1,10 +1,10 @@
 # Gimbal
 
-GIMBAL, a mechanical device for hanging some object so that it should
+GIMBAL, a mechanical device for [[Hanging|hanging]] some object so that it should
 keep a horizontal and constant position, while the body from which it is
 suspended is in free motion, so that the motion of the supporting body
 is not communicated to it. It is thus used particularly for the
-suspension of compasses or chronometers and lamps at sea, and usually
+suspension of compasses or chronometers and [[Lamp|lamps]] at sea, and usually
 consists of a ring freely moving on an axis, within which the object
 swings on an axis at right angles to the ring.
 

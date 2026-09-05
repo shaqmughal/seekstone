@@ -1,10 +1,10 @@
 # Dover
 
 DOVER, a seaport and municipal and parliamentary borough of Kent,
-England, one of the Cinque Ports, 76 m. E.S.E. of London by the
+England, one of the [[Cinque Ports]], 76 m. E.S.E. of London by the
 South-Eastern & Chatham railway. Pop. (1891) 33,503; (1901) 41,794. It
 is situated at the mouth of a small stream, the Dour, whose valley here
-breaches the high chalk cliffs which fringe the coast on either hand. It
+[[Breach|breaches]] the high chalk cliffs which fringe the coast on either hand. It
 is an exceptionally healthy locality, and the steep shore and open downs
 make it an agreeable summer resort. The better residential quarters lie
 along the seaboard and on the higher ground, notably on a western spur
@@ -12,21 +12,21 @@ of the Castle Hill. The dominant object of the place is the castle, on
 the east height, 375 ft. above sea-level, between which and the
 batteries on the western heights lies the old town. The castle occupies
 a space of 35 acres. Within its precincts are a Roman _pharos_ or
-lighthouse, still exhibiting the Roman masonry; the ancient fortress
+lighthouse, still exhibiting the Roman [[Masonry|masonry]]; the ancient fortress
 church (St Mary in Castro); some remains of the Saxon fort; and the
 massive keep and subsidiary defences (such as the Constable's,
 Avranche's, and other towers) of the Norman building. The church,
 substantially unaltered, forms an almost unique Christian relic. It has
 been called Roman, but is later. It is cruciform in shape, and the walls
 are built mainly of flint, but jambs and arches are formed of Roman
-bricks. At the end of the 12th century it was remodelled and given an
+[[Brick|bricks]]. At the end of the 12th century it was remodelled and given an
 Early English character. In the beginning of the 18th century it was
 dismantled and turned into a storehouse; and so continued until 1863,
 when, having been restored by Sir G. G. Scott, it was again opened for
 divine service, and is now the chapel of the castle garrison.
 
 The view from the castle keep includes on a clear day the line of cliffs
-from Folkestone to Ramsgate on the one side, and from Boulogne to
+from [[Folkestone]] to Ramsgate on the one side, and from Boulogne to
 Gravelines on the other side of the strait. The cliffs are honeycombed
 in all directions with military works. They are covered by modern works
 on the north side known as Fort Burgoyne, and additional works extend
@@ -34,7 +34,7 @@ eastwards towards St Margaret's Bay. The western heights, where is the
 foundation of another Roman lighthouse, form a further circuit of
 fortifications. They are still more elevated than the castle. A military
 shaft, locally known as the Corkscrew Staircase, affords communication
-between the barracks and the town. Remains were discovered here in 1854
+between the [[Barracks|barracks]] and the town. Remains were discovered here in 1854
 of a round church of the Templars (Holy Sepulchre), 32 ft. in diameter;
 the church, doubtless, in which King John made his submission to the
 Papal Nuncio in 1213. Archcliffe Fort lies to the south-west of old
@@ -56,7 +56,7 @@ town in the beginning of the 8th century, and in 1139 became a
 Benedictine priory under the jurisdiction of that at Canterbury, to
 which see the lands are still attached. The interior of the refectory is
 very fine. In High Street may be seen the noble hall and truncated
-fabric of the Maison Dieu founded by Hubert de Burgh in the 13th century
+fabric of the Maison Dieu founded by [[Hubert]] de Burgh in the 13th century
 for the reception of pilgrims of all nations. From the time of Henry
 VIII. to 1830 it was used as a crown victualling office, but was
 subsequently purchased by the corporation and adapted as a town hall.
@@ -78,7 +78,7 @@ Dover is the only one of the Cinque Ports which is still a great port.
 It is one of the principal ports for passenger communications across the
 Channel, steamers connecting it with Calais and Ostend. The Admiralty
 pier was begun in 1847 and practically completed to a length of about
-2000 ft. in 1871. In 1888 the gates of Wellington dock were widened to
+2000 ft. in 1871. In 1888 the gates of Wellington [[Dock|dock]] were widened to
 admit a larger type of Channel steamers; new coal stores were erected on
 the Northampton quay; the slipway was lengthened 40 ft., and widened for
 the reception of vessels up to 800 tons. In 1891 it was resolved to
@@ -103,7 +103,7 @@ breakwaters, with a united length of rather more than 1¾ m., are each
 built of massive concrete blocks in the form of a practically vertical
 wall founded on the solid chalk and rising to a quay level of 10 ft.
 above high water. Two entrances, one 800 ft. and the other 600 ft. in
-width, with a depth of about seven fathoms at low water, are situated at
+width, with a depth of about seven [[Fathom|fathoms]] at low water, are situated at
 either end of the detached breakwater. The plan also included the
 reclamation of the foreshore at the foot of the cliffs, between the
 castle jetty and the root of the eastern breakwater, by means of a
@@ -127,7 +127,7 @@ of shires and hundreds, with the right to be impleaded only at Shepway,
 and other privileges, which were confirmed by subsequent kings, with
 additions, down to James II. During the middle ages Dover Castle was an
 object of contention both in civil wars and foreign invasions, and was
-considered the key to England; the constable of the castle, who from the
+considered the [[Key|key]] to England; the constable of the castle, who from the
 reign of John was appointed by the crown, was also warden of the Cinque
 Ports. The castle was successfully defended in 1216 against the French
 under the dauphin Louis by Hubert de Burgh, who was also the founder of
@@ -144,7 +144,7 @@ of September.
 After the decay of Richborough harbour the passage from Dover to
 Whitsand, and later to Calais, became the accustomed route to France,
 and by a statute of 1465 no one might ship for Calais except at Dover.
-The guardians of the harbour were incorporated by James I. in 1607.
+The [[Guardian|guardians]] of the harbour were incorporated by James I. in 1607.
 
   See S. P. H. Statham, _History of the Castle, Town and Port of Dover_
   (London, 1899); and _Dover Charters and other Documents_ (London,
@@ -161,9 +161,9 @@ French, to their aid. Having been recently defeated in Lincoln, they
 were hard pressed, and reinforcements were sent to them from Calais in a
 fleet commanded by a pirate and mercenary soldier called Eustace the
 Monk. His real name is uncertain, but according to the chronicle of
-Lanercost it was Matthew. He passed the Straits of Dover with a numerous
-flotilla laden with military machines and stores, and also carrying many
-knights and soldiers. The Monk's fleet was seen from Dover, where the
+Lanercost it was [[Matthew]]. He passed the Straits of Dover with a numerous
+flotilla laden with military [[Machine|machines]] and stores, and also carrying many
+[[Knight|knights]] and soldiers. The Monk's fleet was seen from Dover, where the
 regent, Hubert de Burgh, lay with a naval force of the Cinque Ports,
 said to have been very small. Sixteen vessels of large size for the
 time, and a number of smaller craft, is said to have been their total
@@ -177,14 +177,14 @@ they were to windward of his fleet the Cinque Port ships bore down on
 the enemy. As they approached they threw unslaked lime in the air and
 the wind blew it in the faces of the French. This form of attack, and
 the flights of arrows discharged by the English (which flew with the
-wind), produced confusion in the crowded benches of the French vessels,
+wind), produced confusion in the crowded [[Bench|benches]] of the French vessels,
 which in most cases must have been little more than open boats. It is
 further said that in some cases at least the English vessels were
-"bearded," that is to say, strengthened by iron bands across the bows
+"bearded," that is to say, strengthened by iron bands across the [[Bow|bows]]
 for ramming, and that they sank many of the French. The Monk was
 certainly defeated, and his fleet was entirely scattered, sunk or taken.
 His own vessel was captured. Eustace, who had concealed himself in the
-bilge, was dragged out. In answer to his appeals for quarter and
+[[Bilge|bilge]], was dragged out. In answer to his appeals for quarter and
 promises to pay ransom, he was told by Richard, the bastard son of King
 John, that he was a traitor who would not be allowed to deceive more
 men. His head was struck off by Richard, and was sent round the ports on
@@ -230,7 +230,7 @@ an associate of the devil.
 
   The evidence concerning Eustace is collected by Herren Wendelin
   Forster and Johann Trost, in their edition of the French poem
-  "Wistasse le moine" (Halle, 1891). See for the battle Sir N. Harris
+  "Wistasse le moine" ([[Halle]], 1891). See for the battle Sir N. [[Harris]]
   Nicolas, _History of the Royal Navy_ (London, 1847).
 
 ## See also

@@ -59,7 +59,7 @@ the Severn and Usk, and had destroyed the forces of the younger Montfort
 at Kenilworth before he could effect a junction with the main body, the
 royalist forces approached Evesham in the morning of the 4th of August
 in time to intercept Leicester's march towards Kenilworth. Caught in the
-bend of the river Avon by the converging columns, and surrounded on all
+[[Bend|bend]] of the river Avon by the converging columns, and surrounded on all
 sides, the old earl attempted to cut his way out of the town to the
 northward. At first the fury of his assault forced back the superior
 numbers of the prince; but Simon's Welsh levies melted away and his

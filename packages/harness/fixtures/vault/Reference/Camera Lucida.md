@@ -11,18 +11,18 @@ CAMERA LUCIDA, an optical instrument invented by Dr William Hyde
 Wollaston for drawing in perspective. Closing one eye and looking
 vertically downwards with the other through a slip of plain glass, e.g.
 a microscope cover-glass, held close to the eye and inclined at an angle
-of 45° to the horizon, one can see the images of objects in front,
+of 45° to the [[Horizon|horizon]], one can see the [[Image|images]] of objects in front,
 formed by reflection from the surface of the glass, and at the same
 time one can also see through the transparent glass. The virtual images
 of the objects appear projected on the surface of a sheet of paper
 placed beneath the slip of glass, and their outline can be accurately
 traced with a pencil. This is the simplest form of the camera lucida.
 The image (see fig. 1) is, however, inverted and perverted, and it is
-not very bright owing to the poor reflecting power of unsilvered glass.
+not very [[Bright|bright]] owing to the poor reflecting power of unsilvered glass.
 The brightness of the image is sometimes increased by silvering the
 glass; and on removing a small portion of the silver the observer can
 see the image with part of the pupil while he sees the paper through the
-unsilvered aperture with the remaining part. This form of the instrument
+unsilvered [[Aperture|aperture]] with the remaining part. This form of the instrument
 is often used in conjunction with the microscope, the mirror being
 attached to the eye-piece and the tube of the microscope being placed
 horizontally.
@@ -55,7 +55,7 @@ Before the application of photography, the camera lucida was of
 considerable importance to draughtsmen. The advantages claimed for it
 were its cheapness, smallness and portability; that there was no
 appreciable distortion, and that its field was much larger than that of
-the camera obscura. It was used largely for copying, for reducing or for
+the [[Camera Obscura|camera obscura]]. It was used largely for copying, for reducing or for
 enlarging existing drawings. It will readily be understood, for example,
 that a copy will be half-size if the distance of the object from the
 instrument is double the distance of the instrument from the copy.

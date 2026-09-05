@@ -11,7 +11,7 @@ DAWSON, SIR JOHN WILLIAM (1820-1899), Canadian geologist, was bom at
 Pictou, Nova Scotia, on the 30th of October 1820. Of Scottish descent,
 he went to Edinburgh to complete his education, and graduated at the
 university in 1842, having gained a knowledge of geology and natural
-history from Robert Jameson. On his return to Nova Scotia in 1842 he
+history from Robert [[Jameson]]. On his return to Nova Scotia in 1842 he
 accompanied Sir Charles Lyell on his first visit to that territory.
 Subsequently he was appointed to the post of superintendent of education
 (1850-1853); at the same time he entered zealously into the geology of
@@ -26,7 +26,7 @@ Montreal, an institution which under his influence attained a high
 reputation. He was elected F.R.S. in 1862. When the Royal Society of
 Canada was constituted he was the first to occupy the presidential
 chair, and he also acted as president of the British Association at its
-meeting at Birmingham in 1886, and of the American Association for the
+meeting at [[Birmingham]] in 1886, and of the American Association for the
 Advancement of Science. Sir William Dawson's name is especially
 associated with the _Eozoon canadense_, which in 1864 he described as an
 organism having the structure of a foraminifer. It was found in the

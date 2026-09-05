@@ -18,20 +18,20 @@ headquarters are at Anderacha, about 12 m. S.S.W. of Bonga. Jiren, the
 capital of Jimma, 60 m. N.E. of Bonga, is a still more important town,
 its weekly market being attended by some 20,000 persons.
 
-A great variety of races inhabit these countries of southern Ethiopia.
+A great variety of races inhabit these countries of southern [[Ethiopia]].
 The Kaficho (people of Kaffa proper) are said to be of the same stock as
 the northern Abyssinians and to have been separated from the rest of the
 country by the Mahommedan invasion of the 16th century. Thus Jimma,
-immediately north of Kaffa proper, is peopled by Mahommedan Gallas. The
+immediately north of Kaffa proper, is peopled by Mahommedan [[Gallas]]. The
 Kaficho, though much mixed with Galla blood, retained their Christianity
 and a knowledge of Geez, the ecclesiastical tongue of Abyssinia. The
 ordinary language of the Kaficho has no outward resemblance to modern
-Abyssinian. Their speech was, however, stated by Dr C. T. Beke (c. 1850)
+Abyssinian. Their speech was, however, stated by Dr C. T. [[Beke]] (c. 1850)
 to be cognate with the Gonga tongue, spoken in a portion of Damot, on
 the northern side of the Abai. Kaffa, after having been ruled by
 independent sovereigns, who were also suzerains of the neighbouring
 states, was about 1895 conquered by the Abyssinians. The first European
-explorer of Kaffa was Antoine de'Abbadie, who visited it in 1843. Not
+explorer of Kaffa was [[Antoine]] de'Abbadie, who visited it in 1843. Not
 until the early years of the 20th century was the country accurately
 mapped.
 

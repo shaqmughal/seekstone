@@ -17,23 +17,23 @@ growing on their backs. In the spring the fish approaches the shores to
 spawn, clearing out a hollow on a stony bottom in which it deposits an
 immense quantity of pink-coloured ova. Fishermen assert that the male
 watches the spawn until the young are hatched, a statement which
-receives confirmation from the fact that the allied gobies, or at least
+receives confirmation from the fact that the allied [[Gobi|gobies]], or at least
 some of them, take similar care of their progeny. The vernacular name,
-"cock and hen paddle," given to the lump-fish on some parts of the
+"[[Cock|cock]] and hen paddle," given to the lump-fish on some parts of the
 coast, is probably expressive of the difference between the two sexes in
 their outward appearance, the male being only half or one-third the size
-of the female, and assuming during the spawning season a bright blue
+of the female, and assuming during the spawning season a [[Bright|bright]] blue
 coloration, with red on the lower parts. This fish is generally not
-esteemed as food, but Franz Faber (_Fische Islands_, p. 53) states that
+esteemed as food, but [[Franz]] Faber (_Fische Islands_, p. 53) states that
 the Icelanders consider the flesh of the male as a delicacy.[1] The
-bones are so soft, and contain so little inorganic matter, that the old
+[[Bone|bones]] are so soft, and contain so little inorganic matter, that the old
 ichthyologists placed the lump-sucker among the cartilaginous fishes.
 
 
 FOOTNOTE:
 
   [1] The "cock-padle" was formerly esteemed also in Scotland, and
-    figures in the _Antiquary_, chap. xi.
+    figures in the _[[Antiquary]]_, chap. xi.
 
 ## References
 

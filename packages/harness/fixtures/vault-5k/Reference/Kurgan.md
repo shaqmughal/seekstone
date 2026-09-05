@@ -15,7 +15,7 @@ left bank of the Tobol, in a wealthy agricultural district. Pop. (1897),
 river Tobol, it has become second only to Tyumen as a commercial centre.
 It has a public library and a botanic garden. There is a large trade in
 cattle with Petropavlovsk, and considerable export of grain, tallow,
-meat, hides, butter, game and fish, there being three large fairs in the
+meat, hides, [[Butter|butter]], [[Game|game]] and fish, there being three large fairs in the
 year. In the vicinity are a great number of prehistoric kurgans or
 burial-mounds.
 

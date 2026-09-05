@@ -10,7 +10,7 @@ type: source
 LIGAMENT (Lat. _ligamentum_, from _ligare_, to bind), anything which
 binds or connects two or more parts; in anatomy a piece of tissue
 connecting different parts of an organism (see CONNECTIVE TISSUES and
-JOINTS).
+[[Joints|JOINTS]]).
 
 ## See also
 

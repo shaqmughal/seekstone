@@ -8,11 +8,11 @@ tags: [antiquity-studies, geography]
 # Laud
 
 LAUD, WILLIAM (1573-1645), English archbishop, only son of William Laud,
-a clothier, was born at Reading on the 7th of October 1573. He was
+a [[Clothier|clothier]], was born at Reading on the 7th of October 1573. He was
 educated at Reading free school, matriculated at St John's college,
 Oxford, in 1589, gained a scholarship in 1590, a fellowship in 1593, and
 graduated B.A. in 1594, proceeding to D.D. in 1608. In 1601 he took
-orders, in 1603 becoming chaplain to Charles Blount, earl of Devonshire.
+orders, in 1603 becoming [[Chaplain|chaplain]] to Charles [[Blount]], earl of [[Devonshire]].
 Laud early took up a position of antagonism to the Calvinistic party in
 the church, and in 1604 was reproved by the authorities for maintaining
 in his thesis for the degree of B.D. "that there could be no true church
@@ -28,7 +28,7 @@ Lord Chancellor Ellesmere, Laud was made president of St John's, and in
 archdeaconry of Huntingdon, and in 1616 the deanery of Gloucester. Here
 he repaired the fabric and changed the position of the communion table,
 a matter which aroused great religious controversy, from the centre of
-the choir to the east end, by a characteristic tactless exercise of
+the [[Choir|choir]] to the east end, by a characteristic tactless exercise of
 power offending the bishop, who henceforth refused to enter the
 cathedral. In 1617 he went with the king to Scotland, and aroused
 hostility by wearing the surplice. In 1621 he became bishop of St
@@ -36,15 +36,15 @@ David's, when he resigned the presidentship of St John's.
 
 In April 1622 Laud, by the king's orders, took part in a controversy
 with Percy, a Jesuit, known as Fisher, the aim of which was to prevent
-the conversion of the countess of Buckingham, the favourite's mother, to
+the [[Conversion|conversion]] of the countess of Buckingham, the favourite's mother, to
 Romanism, and his opinions expressed on that occasion show considerable
 breadth and comprehension. While refusing to acknowledge the Roman
 Church as _the_ true church, he allowed it to be _a_ true church and a
 branch of the Catholic body, at the same time emphasizing the perils of
-knowingly associating with error; and with regard to the English Church
+knowingly associating with [[Error|error]]; and with regard to the English Church
 he denied that the acceptance of all its articles was necessary. The
 foundation of belief was the Bible, not any one branch of the Catholic
-church arrogating to itself infallibility, and when dispute on matters
+church arrogating to itself [[Infallibility|infallibility]], and when dispute on matters
 of faith arose, "a lawful and free council, determining according to
 Scripture, is the best judge on earth." A close and somewhat strange
 intimacy, considering the difference in the characters and ideals of the
@@ -73,10 +73,10 @@ valuable reforms at Oxford being due to his activity, including the
 codification of the statutes, the statute by which public examinations
 were rendered obligatory for university degrees, and the ordinance for
 the election of proctors, the revival of the college system, of moral
-and religious discipline and order, and of academic dress. He founded or
+and religious discipline and order, and of academic [[Dress|dress]]. He founded or
 endowed various professorships, including those of Hebrew and Arabic,
 and the office of public orator, encouraged English and foreign
-scholars, such as Voss, Selden and Jeremy Taylor, founded the university
+scholars, such as Voss, Selden and [[Jeremy]] Taylor, founded the university
 printing press, procuring in 1633 the royal patent for Oxford, and
 obtained for the Bodleian library over 1300 MSS., adding a new wing to
 the building to contain his gifts. His rule at Oxford was marked by a
@@ -85,13 +85,13 @@ the new buildings, and was its second founder. Of his chancellorship he
 himself wrote a history, and the Laudian tradition long remained the
 great standard of order and good government in the university. Elsewhere
 he showed his liberality and his zeal for reform. He was an active
-visitor of Eton and Winchester, and endowed the grammar school at
+visitor of [[Eton]] and Winchester, and endowed the grammar school at
 Reading, where he was himself educated. In London he procured funds for
 the restoration of the dilapidated cathedral of St Paul's.
 
 He was far less great as a ruler in the state, showing as a judge a
 tyrannical spirit both in the star chamber and high-commission court,
-threatening Felton, the assassin of Buckingham, with the rack, and
+threatening [[Felton]], the assassin of Buckingham, with the rack, and
 showing special activity in procuring a cruel sentence in the former
 court against Alexander Leighton in June 1630 and against Henry
 Sherfield in 1634. His power was greatly increased after his return from
@@ -121,7 +121,7 @@ houses to search for persons holding conventicles and bring them before
 the commissioners. He took pleasure in displaying his power over the
 great, and in punishing them in the spiritual courts for moral offences.
 In 1637 he took part in the sentence of the star chamber on Prynne,
-Bastwick and Burton, and in the same year in the prosecution of Bishop
+[[Bastwick]] and [[Burton]], and in the same year in the prosecution of Bishop
 Williams. He urged Strafford in Ireland to carry out the same reforms
 and severities.
 
@@ -139,7 +139,7 @@ the memorable meeting of the committee of eight on the 5th of May 1640,
 and for the employment of any means for carrying it on. "Tried all
 ways," so ran the notes of his speech, "and refused all ways. By the law
 of God and man you should have subsistence and lawful to take it."
-Though at first opposed to the sitting of convocation, after the
+Though at first opposed to the sitting of [[Convocation|convocation]], after the
 dissolution of parliament, as an independent body, on account of the
 opposition it would arouse, he yet caused to be passed in it the new
 canons which both enforced his ecclesiastical system and assisted the
@@ -147,7 +147,7 @@ king's divine right, resistance to his power entailing "damnation."
 Laud's infatuated policy could go no further, and the _etcetera_ oath,
 according to which whole classes of men were to be forced to swear
 perpetual allegiance to the "government of this church by archbishops,
-bishops, deans and archdeacons, &c.," was long remembered and derided.
+bishops, deans and [[Archdeacon|archdeacons]], &c.," was long remembered and derided.
 His power now quickly abandoned him. He was attacked and reviled as the
 chief author of the troubles on all sides. In October he was ordered by
 Charles to suspend the _etcetera_ oath. The same month, when the high
@@ -159,10 +159,10 @@ appeared at the window of his cell to give him his blessing on his way
 to execution, and fainted as he passed by. For some time he was left
 unnoticed in confinement. On the 31st of May 1643, however, Prynne
 received orders from the parliament to search his papers, and published
-a mutilated edition of his diary. The articles of impeachment were sent
+a mutilated edition of his diary. The articles of [[Impeachment|impeachment]] were sent
 up to the Lords in October, the trial beginning on the 12th of March
 1644, but the attempt to bring his conduct under a charge of high
-treason proving hopeless, an attainder was substituted and sent up to
+treason proving hopeless, an [[Attainder|attainder]] was substituted and sent up to
 the Lords on the 22nd of November. In these proceedings there was no
 semblance of respect for law or justice, the Lords yielding (4th of
 January 1645) to the menaces of the Commons, who arrogated to themselves
@@ -174,10 +174,10 @@ punishment for high treason, was granted. He suffered death on the 10th
 of January on Tower Hill, asserting his innocence of any offence known
 to the law, repudiating the charge of "popery," and declaring that he
 had always lived in the Protestant Church of England. He was buried in
-the chancel of All Hallows, Barking, whence his body was removed on the
+the [[Chancel|chancel]] of All Hallows, Barking, whence his body was removed on the
 24th of July 1663 to the chapel of St John's College, Oxford.
 
-Laud never married. He is described by Fuller as "low of stature, little
+Laud never married. He is described by [[Fuller]] as "low of stature, little
 in bulk, cheerful in countenance (wherein gravity and quickness were all
 compounded), of a sharp and piercing eye, clear judgment and (abating
 the influence of age) firm memory." His personality, on account of the
@@ -191,7 +191,7 @@ partiality for Rome is unfounded. At the same time the circumstances of
 the period, the fact that various schemes of union with Rome were
 abroad, that the missions of Panzani and later of Conn were gathering
 into the Church of Rome numbers of members of the Church of England who,
-like Laud himself, were dissatisfied with the Puritan bias which then
+like Laud himself, were dissatisfied with the Puritan [[Bias|bias]] which then
 characterized it, the incident mentioned by Laud himself of his being
 twice offered the cardinalate, the movement carried on at the court in
 favour of Romanism, and the fact that Laud's changes in ritual, however
@@ -205,11 +205,11 @@ far stronger incentive to the rebellion against the arbitrary power of
 the crown, than even the violation of constitutional liberties; and to
 Laud, therefore, more than to Strafford, to Buckingham, or even perhaps
 to Charles himself, is especially due the responsibility for the
-catastrophe. He held fast to the great idea of the catholicity of the
+[[Catastrophe|catastrophe]]. He held fast to the great idea of the catholicity of the
 English Church, to that conception of it which regards it as a branch of
 the whole Christian church, and emphasizes its historical continuity and
-identity from the time of the apostles, but here again his policy was at
-fault; for his despotic administration not only excited and exaggerated
+identity from the time of the [[Apostle|apostles]], but here again his policy was at
+[[Fault|fault]]; for his despotic administration not only excited and exaggerated
 the tendencies to separatism and independentism which finally prevailed,
 but excluded large bodies of faithful churchmen from communion with
 their church and from their country. The emigration to Massachusetts in
@@ -219,7 +219,7 @@ he destroyed with the other.
 
 Passing to the more indirect influence of Laud on his times, we can
 observe a narrowness of mind and aim which separates him from a man of
-such high imagination and idealism as Strafford, however closely
+such high [[Imagination|imagination]] and [[Idealism|idealism]] as Strafford, however closely
 identified their policies may have been for the moment. The chief
 feature of Laud's administration is attention to countless details, to
 the most trivial of which he attached excessive importance, and which
@@ -229,10 +229,10 @@ essential was its visibility. This was the source of his intense dislike
 of the Puritan and Nonconformist conception of the church, which
 afforded no tangible or definite form. Hence the necessity for outward
 conformity, and the importance attached to ritual and ceremony, unity in
-which must be established at all costs, in contrast to dogma and
+which must be established at all [[Costs|costs]], in contrast to dogma and
 doctrine, in which he showed himself lenient and large-minded, winning
-over Hales by friendly discussion, and encouraging the publication of
-Chillingworth's _Religion of Protestants_. He was not a bigot, but a
+over [[Hales]] by friendly discussion, and encouraging the publication of
+Chillingworth's _Religion of Protestants_. He was not a [[Bigot|bigot]], but a
 martinet. The external form was with him the essential feature of
 religion, preceding the spiritual conception, and in Laud's opinion
 being the real foundation of it. In his last words on the scaffold he
@@ -241,7 +241,7 @@ uniformity in the external service of God; and Bacon's conception of a
 spiritual union founded on variety and liberty was one completely beyond
 his comprehension.
 
-This narrow materialism was the true cause of his fatal influence both
+This narrow [[Materialism|materialism]] was the true cause of his fatal influence both
 in church and state. In his own character it produced the somewhat
 blunted moral sense which led to the few incidents in his career which
 need moral defence, his performance of the marriage ceremony between his
@@ -259,11 +259,11 @@ duty and godliness, even extending its activity into state affairs as a
 mediator and a moderator, was not sufficient. Its power must be material
 and visible, embodied in great places of secular administration and
 enthroned in high offices of state. Thus the church, descending into the
-political arena, became identified with the doctrines of one political
+political [[Arena|arena]], became identified with the doctrines of one political
 party in the state--doctrines odious to the majority of the nation--and
 at the same time became associated with acts of violence and injustice,
 losing at once its influence and its reputation. Equally disastrous to
-the state was the identification of the king's administration with one
+the state was the [[Identification|identification]] of the king's administration with one
 party in the church, and that with the party in an immense minority not
 only in the nation but even among the clergy themselves.
 
@@ -275,9 +275,9 @@ only in the nation but even among the clergy themselves.
   of Laud's career can be studied in T. Longueville's _Life of Laud, by
   a Romish Recusant_ (1894); _Congregational Union Jubilee Lectures_,
   vol. i. (1882); J. B. Mozley's _Essay on Laud; Archbishop Laud_, by A.
-  C. Benson (1887); _Wm. Laud_, by W. H. Hutton (1895); _Archbishop Laud
-  Commemoration_, ed. by W. F. Collins (lectures, bibliography,
-  catalogue of exhibits, 1895); Hook's _Lives of the Archbishops of
+  C. [[Benson]] (1887); _Wm. Laud_, by W. H. Hutton (1895); _Archbishop Laud
+  Commemoration_, ed. by W. F. [[Collins]] (lectures, bibliography,
+  [[Catalogue|catalogue]] of exhibits, 1895); Hook's _Lives of the Archbishops of
   Canterbury_; and H. Bell, _Archbishop Laud and Priestly Government_
   (1907).     (P. C. Y.)
 

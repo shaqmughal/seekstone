@@ -2,7 +2,7 @@
 
 GOSSEC, FRANCOIS JOSEPH (1734-1829), French musical composer, son of a
 small farmer, was born at the village of Vergnies, in Belgian Hainaut,
-and showing early a taste for music became a choir-boy at Antwerp. He
+and showing early a taste for music became a choir-boy at [[Antwerp]]. He
 went to Paris in 1751 and was taken up by Rameau. He became conductor of
 a private band kept by La Popeliniere, a wealthy amateur, and gradually
 determined to do something to revive the study of instrumental music in
@@ -10,7 +10,7 @@ France. He had his own first symphony performed in 1754, and as
 conductor to the Prince de Conde's orchestra he produced several operas
 and other compositions of his own. He imposed his influence upon French
 music with remarkable success, founded the Concert des Amateurs in 1770,
-organized the Ecole de Chant in 1784, was conductor of the band of the
+organized the Ecole de [[Chant]] in 1784, was conductor of the band of the
 Garde Nationale at the Revolution, and was appointed (with Mehul and
 Cherubini) inspector of the Conservatoire de Musique when this
 institution was created in 1795. He was an original member of the

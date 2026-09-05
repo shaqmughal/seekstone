@@ -1,14 +1,14 @@
 # Kizlyar
 
-KIZLYAR (KIZLIAR, or KIZLAR), a town of Russia, in Caucasia, in the
-province of Terek, 120 m. N.E. of Vladikavkaz, in the low-lying delta of
+KIZLYAR (KIZLIAR, or KIZLAR), a town of Russia, in [[Caucasia]], in the
+province of Terek, 120 m. N.E. of Vladikavkaz, in the low-lying [[Delta|delta]] of
 the river Terek, about 35 m. from the Caspian. The population decreased
 from 8309 in 1861 to 7353 in 1897. The town lies to the left of the main
 stream between two of the larger secondary branches, and is subject to
 flooding. The town proper, which spreads out round the citadel, has
 Tatar, Georgian and Armenian quarters. The public buildings include the
 Greek cathedral, dating from 1786; a Greek nunnery, founded by the
-Georgian chief Daniel in 1736; the Armenian church of SS Peter and Paul,
+Georgian chief [[Daniel]] in 1736; the Armenian church of SS Peter and Paul,
 remarkable for its size and wealth. The population is mainly supported
 by the gardens and vineyards irrigated by canals from the river. A
 government vineyard and school of viticulture are situated 3½ m. from

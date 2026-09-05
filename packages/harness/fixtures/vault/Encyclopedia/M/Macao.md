@@ -25,19 +25,19 @@ destroyed by fire in 1835. The Hospital da Misericordia (1569) was
 rebuilt in 1640. The Camoens grotto, where the exiled poet found leisure
 to celebrate the achievements of his ungrateful country, lies in a
 secluded spot to the north of the town, which has been partly left in
-its native wildness strewn with huge granite boulders and partly
+its native wildness strewn with huge granite [[Boulder|boulders]] and partly
 transformed into a fine botanical garden. During the south-west (summer)
 monsoon great quantities (67 in.) of rain fall, especially in July and
 August. The mean temperature is 74.3° F.; in July, the hottest month,
 the temperature is 84.2°; in February, the coldest, it is 59 deg. On the
-whole the climate is moist. Hurricanes are frequent. Of the Portuguese
+whole the climate is moist. [[Hurricane|Hurricanes]] are frequent. Of the Portuguese
 inhabitants more than three-fourths are natives of Macao--a race very
 inferior in point of physique to their European ancestors. Macao is
 connected with Hong-Kong by a daily steamer. Being open to the
-south-west sea breezes, it is a favourite place of resort from the
+south-west sea [[Breeze|breezes]], it is a favourite place of resort from the
 oppressive heat of Hong-Kong. It is ruled by a governor, and, along with
-Timor (East Indies), constitutes a bishopric, to which belong also the
-Portuguese Christians in Malacca and Singapore. Though most of the land
+Timor ([[East Indies]]), constitutes a bishopric, to which belong also the
+Portuguese Christians in [[Malacca]] and Singapore. Though most of the land
 is under garden cultivation, the mass of the people is dependent more or
 less directly on mercantile pursuits; for, while the exclusive policy
 both of Chinese and Portuguese which prevented Macao becoming a free
@@ -46,14 +46,14 @@ commerce in eastern Asia to be outstripped by its younger and more
 liberal rivals, the local, though not the foreign, trade of the place is
 still of very considerable extent. Since the middle of the 19th century,
 indeed, much of it has run in the most questionable channels; the
-nefarious coolie traffic gradually increased in extent and in cruelty
+nefarious [[Coolie|coolie]] traffic gradually increased in extent and in [[Cruelty|cruelty]]
 from about 1848 till it was prohibited in 1874, and much of the actual
 trade is more or less of the nature of smuggling. The commodities
 otherwise mostly dealt in are opium, tea, rice, oil, raw cotton, fish
 and silk. The total value of exports and imports was in 1876-1877
 upwards of £1,536,000. In 1880 it had increased to £2,259,250, and in
 1898 to £3,771,615. Commercial intercourse is most intimate with
-Hong-Kong, Canton, Batavia and Goa. The preparation and packing of tea
+Hong-Kong, Canton, [[Batavia]] and Goa. The preparation and packing of tea
 is the principal industry in the town. In fishing a large number of
 boats and men are employed.
 

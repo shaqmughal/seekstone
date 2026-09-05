@@ -62,7 +62,7 @@ _again_ all that thou sawest before, to wit the sum of the things
 profitable for thee. First of all write thou my mandates and
 similitudes; and _the rest_, as I will show thee, so shalt thou write."
 This programme is fulfilled in the xii. _Mandates_--perhaps suggested by
-the _Teaching of the Twelve Apostles_ (see DIDACHE), which Hermas
+the _Teaching of the Twelve Apostles_ (see [[Didache|DIDACHE]]), which Hermas
 knows--and _Similitudes_ i.-viii., while _Simil._ ix. is "the rest" and
 constitutes a distinct "book" (_Sim._ ix. 1. 1, x. 1. 1). In this latter
 the building of the Tower, already shown in outline in _Vis._ iii., is
@@ -159,7 +159,7 @@ most of the Ante-Nicene period.
   supererogation, in fulfilment of counsels of perfection, on lines
   already seen in _Did._ vi. 2, cf. i. 4, and reappearing in the two
   types of Christian recognized by Clement and Origen and in later
-  Catholicism. Again his doctrine of fasting is a spiritualizing of a
+  Catholicism. Again his doctrine of [[Fasting|fasting]] is a spiritualizing of a
   current _opus operatum_ conception on Jewish lines as though "keeping
   a watch" (_statio_) in that way atoned for sins (_Sim._ v.). The
   Shepherd enjoins instead, first, as "a perfect fast," a fast "from
@@ -212,7 +212,7 @@ FOOTNOTES:
     "Clement" is possible; but none justifies us in assigning even to
     this _Vision_ a date consistent with that usually given to the
     traditional bishop of this name (see CLEMENT I.). Yet we may have to
-    correct the dubious chronology of the first Roman bishops by this
+    correct the dubious [[Chronology|chronology]] of the first Roman bishops by this
     datum, and prolong his life to about A.D. 110. This is Harnack's date
     for the nucleus of _Vis._ ii., though he places our _Vis._ i.-iii.
     later in Trajan's reign, and thinks _Vis._ iv. later still.

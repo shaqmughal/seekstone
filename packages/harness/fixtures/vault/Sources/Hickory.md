@@ -10,15 +10,15 @@ timber is both strong and heavy, and remarkable for its extreme
 elasticity, but it decays rapidly when exposed to heat and moisture, and
 is peculiarly subject to the attacks of worms. It is very extensively
 employed in manufacturing musket stocks, axle-trees, screws, rake teeth,
-the bows of yokes, the wooden rings used on the rigging of vessels,
+the [[Bow|bows]] of yokes, the wooden rings used on the rigging of vessels,
 chair-backs, axe-handles, whip-handles and other purposes requiring
 great strength and elasticity. Its principal use in America is for
 hoop-making; and it is the only American wood found perfectly fit for
 that purpose.
 
-The wood of the hickory is of great value as fuel, on account of the
-brilliancy with which it burns and the ardent heat which it gives out,
-the charcoal being heavy, compact and long-lived. The species which
+The wood of the hickory is of great value as [[Fuel|fuel]], on account of the
+brilliancy with which it [[Burns|burns]] and the ardent heat which it gives out,
+the [[Charcoal|charcoal]] being heavy, compact and long-lived. The species which
 furnish the best wood are _Carya alba_ (shell-bark hickory), _C.
 tomentosa_ (mockernut), _C. olivaeformis_ (pecan or pacane nut), and _C.
 porcina_ (pig-nut), that of the last named, on account of its extreme

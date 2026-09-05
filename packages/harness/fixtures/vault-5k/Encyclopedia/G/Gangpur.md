@@ -7,7 +7,7 @@ type: note
 
 # Gangpur
 
-GANGPUR, a tributary state of Orissa, Bengal, included until 1905 among
+GANGPUR, a tributary state of Orissa, [[Bengal]], included until 1905 among
 the Chota Nagpur States. It is bounded N. by Ranchi district, E. by the
 Singhbhum district, S. by Sambalpur and Bamra, and W. by Raigarh in the
 Central Provinces. The country is for the most part an undulating plain,

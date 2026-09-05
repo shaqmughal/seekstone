@@ -8,16 +8,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fort_Edwar
 # Fort Edward
 
 FORT EDWARD, a village of Washington county, New York, U.S.A., in the
-township of Fort Edward, on the Hudson river, 56 m. by rail N. of
+township of Fort Edward, on the [[Hudson]] river, 56 m. by rail N. of
 Albany. Pop. of the village (1900) 3521, of whom 385 were foreign-born;
 (1905) 3806; (1910) 3762; of the township, including the village
 (1900), 5216; (1905), 5300; (1910), 5740. The village lies mostly at the
 foot of a steep hill, is at the junction of the main line and the Glens
-Falls branch of the Delaware & Hudson railway, and is also served by
-electric line to Albany and Glens Falls; the barge canal connecting Lake
+Falls branch of the [[Delaware]] & Hudson railway, and is also served by
+electric line to Albany and Glens Falls; the [[Barge|barge]] canal connecting Lake
 Champlain and the Hudson river enters the Hudson here. The river
 furnishes good water-power, which is used in the manufacture of paper
-and wood pulp, the leading industry. Shirts and pottery (flower pots,
+and wood pulp, the leading industry. Shirts and pottery ([[Flower|flower]] pots,
 jars and drain tile) are manufactured also. The village is the seat of
 the Fort Edward Collegiate Institute, a non-sectarian school for girls,
 which was founded in 1854 and until 1893 was coeducational. The village
@@ -31,7 +31,7 @@ afterwards John Henry Lydius (1693-1791) established a settlement and
 protected it by a new fort, named Fort Lydius, but this was destroyed by
 the French and Indians in 1745. In 1755, a third fort was built by
 General Phineas Lyman (1716-1774), as preliminary to the expedition
-against Crown Point under General William Johnson, and was named Fort
+against [[Crown Point]] under General William Johnson, and was named Fort
 Lyman; in 1756 Johnson renamed it Fort Edward in honour of Edward, Duke
 of York. In the War for Independence Fort Edward was the headquarters of
 General Philip Schuyler while he and his troops were blocking the march

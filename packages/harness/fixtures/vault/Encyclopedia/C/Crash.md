@@ -13,8 +13,8 @@ simplest and coarsest type of the cloth being known as "Russia crash."
 The latter is made from grey flax or tow yarns, and sometimes from
 boiled yarns. The simple term "crash" is given to all these narrow
 cloths, but the above distinction is very convenient, as also are the
-following: grey, boiled, bleached, plain, twilled and fancy crash. A
-large variety obtains with and without fancy borders, while of late
+following: grey, boiled, bleached, plain, twilled and [[Fancy|fancy]] crash. A
+large variety obtains with and without fancy [[Borders|borders]], while of late
 years cotton has been introduced as warp, as well as mixed and jute
 yarns for weft. After the cloth has passed through all the finishing
 operations, it is cut up into lengths of about 3 yds., the two ends sewn

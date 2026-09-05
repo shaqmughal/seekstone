@@ -5,17 +5,17 @@ according to Coke, because he was a _keeper_ of the pleas of the crown
 (_custos placitorum coronae_). At what period the office of coroner was
 instituted is a matter of considerable doubt; some modern authorities
 (Stubbs, _Select Charters_, 260; Pollock and Maitland, _Hist. Eng. Law_,
-i. 519) date its origin from 1194, but C. Gross (_Political Science
+i. 519) date its origin from 1194, but C. [[Gross]] (_Political Science
 Quarterly_, vol. vii.) has shown that it must have existed before that
 date. The office was always elective, the appointment being made by the
 freeholders of the county assembled in county court. By the Statute of
 Westminster the First it was ordered that none but lawful and discreet
-knights should be chosen as coroners, and in one instance a person was
+[[Knight|knights]] should be chosen as coroners, and in one instance a person was
 actually removed from office for insufficiency of estate. Lands to the
 value of £20 per annum (the qualification for knighthood) were
 afterwards deemed sufficient to satisfy the requirements as to estate
 which ought to be insisted on in the case of a coroner. The complaint of
-Blackstone shows the transition of the office from its original
+[[Blackstone]] shows the transition of the office from its original
 dignified and honorary character to a paid appointment in the public
 service, "Now, indeed, through the culpable neglect of gentlemen of
 property, this office has been suffered to fall into disrepute, and get
@@ -45,7 +45,7 @@ chancellor may, if he thinks fit, remove any coroner from his office for
 inability or misbehaviour in the discharge of his duty.
 
 Coroners are of three kinds: (1) coroners by virtue of their office,
-e.g. the lord chief justice of the king's bench is the principal coroner
+e.g. the lord chief justice of the king's [[Bench|bench]] is the principal coroner
 of England; the puisne judges of the king's bench are sovereign
 coroners--they may exercise their jurisdiction within any part of the
 realm, even in the verge[1] or other exempt liberties or franchises; (2)
@@ -88,17 +88,17 @@ jurisdiction, where there is reasonable cause to suspect that such
 person has died either a violent or an unnatural death, or has died a
 sudden death of which the cause is unknown, or that such person has died
 in prison, or in such place or under such circumstances as to require an
-inquest in pursuance of any act" (S. 3), and upon treasure-trove (S.
+[[Inquest|inquest]] in pursuance of any act" (S. 3), and upon treasure-trove (S.
 36). The inquisition must be _super visum corporis_ (that is, after
 "viewing the body"); the evidence is taken on oath; and any party
 suspected may tender evidence. The Coroners Act 1887, S. 21, gives power
 to the coroner to summon medical witnesses and to direct the performance
 of a post-mortem examination. The verdict must be that of twelve at
 least of the jury. If any person is found guilty of murder or other
-homicide, the coroner shall commit him to prison for trial; he shall
+[[Homicide|homicide]], the coroner shall commit him to prison for trial; he shall
 also certify the material evidence to the court, and bind over the
 proper persons to prosecute or to give evidence at the trial. He may in
-his discretion accept bail for a person found guilty of manslaughter.
+his discretion accept bail for a person found guilty of [[Manslaughter|manslaughter]].
 Since the abolition of public executions, the coroner is required to
 hold an inquest on the body of any criminal on whom sentence of death
 has been carried into effect. The duty of coroners to inquire into

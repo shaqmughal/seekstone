@@ -33,12 +33,12 @@ birthplace of St Stephen, the first prince crowned "apostolic king" of
 Hungary. During the early times of the Hungarian monarchy it was the
 most important mercantile centre in the country, and it was the
 meeting-place of the diets of 1016, 1111, 1114 and 1256. It was almost
-completely destroyed by Tatar hordes in 1241, but was rebuilt and
+completely destroyed by Tatar [[Horde|hordes]] in 1241, but was rebuilt and
 fortified by King Bela IV. In 1543 it fell into the hands of the Turks,
 from whom it was recovered, in 1595, by Carl von Mansfeld. In 1604 it
 reverted to the Turks, who held it till 1683, when it was regained by
 the united forces of John Sobieski, king of Poland, and Prince Charles
-of Lorraine. It was created an archbishopric in 1001. During the Turkish
+of [[Lorraine]]. It was created an archbishopric in 1001. During the Turkish
 occupation of the town the archbishopric was removed to Tyrnau, while
 the archbishop himself had his residence in Pressburg. Both returned to
 Esztergom in 1820. In 1708 it was declared a free city by Joseph I. On

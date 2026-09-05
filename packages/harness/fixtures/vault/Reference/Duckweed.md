@@ -16,11 +16,11 @@ with a well-developed sheath grows downwards into the water. The
 flowers, which are rarely found in Britain, are developed in one of the
 lateral pockets. The inflorescence is a very simple one, consisting of
 one or two male flowers each comprising a single stamen, and a female
-flower comprising a flask-shaped pistil. The order Lemnaceae to which
+[[Flower|flower]] comprising a flask-shaped pistil. The order Lemnaceae to which
 they belong is regarded as representing a very reduced type nearly
 allied to the Aroids. It is represented in Britain by four species of
 _Lemna_, and a still smaller and simpler plant, _Wolffia_, in which the
-fronds are only one-twentieth of an inch long and have no roots.
+fronds are only one-twentieth of an [[Inch|inch]] long and have no roots.
 
 [Illustration:
 

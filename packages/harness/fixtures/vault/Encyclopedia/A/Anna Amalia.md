@@ -9,7 +9,7 @@ topic: religion
 ANNA AMALIA (1739-1807), duchess of Saxe-Weimar, daughter of Charles I.,
 duke of Brunswick-Wolfenbuttel, was born at Wolfenbuttel on the 24th of
 October 1739, and married Ernest, duke of Saxe-Weimar, 1756. Her husband
-died in 1758, leaving her regent for their infant son, Charles Augustus.
+died in 1758, leaving her regent for their [[Infant|infant]] son, Charles Augustus.
 During the protracted minority she administered the affairs of the duchy
 with the greatest prudence, strengthening its resources and improving
 its position in spite of the troubles of the Seven Years' War. She was a

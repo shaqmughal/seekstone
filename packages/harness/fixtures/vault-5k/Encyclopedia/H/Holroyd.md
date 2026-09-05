@@ -1,6 +1,6 @@
 # Holroyd
 
-HOLROYD, SIR CHARLES (1861-   ), British artist, was born in Leeds on the
+HOLROYD, SIR CHARLES (1861-   ), British artist, was born in [[Leeds]] on the
 9th of April 1861. He received his art education under Professor Legros
 at the Slade School, University College, London, where he had a
 distinguished career. After passing six months at Newlyn, where he
@@ -23,14 +23,14 @@ profound technical knowledge of the art. Among the best known are the
 and the "Eve" series, together with the plates, "The Flight into Egypt,"
 "The Prodigal Son," "A Barn on Tadworth Common" (etched in the open
 air), and "The Storm." His etched heads of "Professor Legros," "Lord
-Courtney" and "Night," are admirable alike in knowledge and in likeness.
+[[Courtney]]" and "Night," are admirable alike in knowledge and in likeness.
 His principal dry-point is "The Bather." In all his work Holroyd
 displays an impressive sincerity, with a fine sense of composition, and
 of style, allied to independent and modern feeling. He was appointed the
 first keeper of the National Gallery of British Art (Tate Gallery), and
 on the retirement of Sir Edward Poynter in 1906 he received the
 directorship of the National Gallery. He was knighted in 1903. His
-_Michael Angelo Buonarotti_ (London, Duckworth, 1903) is a scholarly
+_Michael Angelo Buonarotti_ (London, [[Duckworth]], 1903) is a scholarly
 work of real value.
 
 ## See also

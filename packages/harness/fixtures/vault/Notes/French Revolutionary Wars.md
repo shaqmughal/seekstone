@@ -2,7 +2,7 @@
 
 FRENCH REVOLUTIONARY WARS (1792-1800), the general name for the first
 part of the series of French wars which went on continuously, except for
-some local and temporary cessations of hostilities, from the declaration
+some local and temporary cessations of hostilities, from the [[Declaration|declaration]]
 of war against Britain in 1792 to the final overthrow of Napoleon in
 1815. The most important of these cessations--viz. the peace of
 1801-1803--closes the "Revolutionary" and opens the "Napoleonic" era of
@@ -22,7 +22,7 @@ Austrian outposts, crying _Nous sommes trahis_, and murdered their
 general (April 29). The commanders-in-chief of the armies that were
 formed became one after another "suspects"; and before a serious action
 had been fought, the three armies of Rochambeau, Lafayette and Luckner
-had resolved themselves into two commanded by Dumouriez and Kellermann.
+had resolved themselves into two commanded by [[Dumouriez]] and Kellermann.
 Thus the disciplined soldiers of the Allies had apparently good reason
 to consider the campaign before them a military promenade. On the Rhine,
 a combined army of Prussians, Austrians, Hessians and _emigres_ under
@@ -33,7 +33,7 @@ were to besiege Lille, and in the south the Piedmontese also took the
 field. The first step, taken against Brunswick's advice, was the issue
 (July 25) of a proclamation which, couched in terms in the last degree
 offensive to the French nation, generated the spirit that was afterwards
-to find expression in the "armed nation" of 1793-4, and sealed the fate
+to find expression in the "armed nation" of 1793-4, and sealed the [[Fate|fate]]
 of Louis XVI. The duke, who was a model sovereign in his own
 principality, sympathized with the constitutional side of the
 Revolution, while as a soldier he had no confidence in the success of
@@ -45,7 +45,7 @@ commandant, Colonel Beaurepaire, shot himself in despair, and the place
 surrendered on the 3rd of September. Brunswick now began his march on
 Paris and approached the defiles of the Argonne. But Dumouriez, who had
 been training his raw troops at Valenciennes in constant small
-engagements, with the purpose of invading Belgium, now threw himself
+engagements, with the purpose of invading [[Belgium]], now threw himself
 into the Argonne by a rapid and daring flank march, almost under the
 eyes of the Prussian advanced guard, and barred the Paris road,
 summoning Kellermann to his assistance from Metz. The latter moved but
@@ -81,14 +81,14 @@ France.
 Meanwhile, the French forces in the south had driven back the
 Piedmontese and had conquered Savoy and Nice. Another French success was
 the daring expedition into Germany made by Custine from Alsace. Custine
-captured Mainz itself on the 21st of October and penetrated as far as
+captured [[Mainz]] itself on the 21st of October and penetrated as far as
 Frankfurt. In the north the Austrian siege of Lille had completely
 failed, and Dumouriez now resumed his interrupted scheme for the
 invasion of the Netherlands. His forward movement, made as it was late
 in the season, surprised the Austrians, and he disposed of enormously
 superior forces. On the 6th of November he won the first great victory
 of the war at Jemappes near Mons and, this time advancing boldly, he
-overran the whole country from Namur to Antwerp within a month.
+overran the whole country from Namur to [[Antwerp]] within a month.
 
 Such was the prelude of what is called the "Great War" in England and
 the "Epopee" in France. Before going further it is necessary to
@@ -110,7 +110,7 @@ campaigns the archetype of modern warfare.
   nevertheless that free enlistment alone befitted a free people, and
   the regular army was left unaltered in form. However, a National Guard
   came into existence side by side with it, and the history of French
-  army organization in the next few years is the history of the fusion
+  army organization in the next few years is the history of the [[Fusion|fusion]]
   of these two elements. The first step, as regards the regular army,
   was the abolition of proprietary rights, the serial numbering of
   regiments throughout the Army, and the disbandment of the _Maison du
@@ -121,12 +121,12 @@ campaigns the archetype of modern warfare.
   discipline became impossible owing to the frequent intervention of the
   civil authorities in matters affecting it, the denunciation of
   generals, and especially the wild words and wild behaviour of
-  "Volunteer" (embodied national guard) battalions.
+  "Volunteer" (embodied national guard) [[Battalion|battalions]].
 
   When war came, it was soon found that the regulars had fallen too low
   in numbers and that the national guard demanded too high pay, to
   admit of developing the expected field strength. Arms, discipline,
-  training alike were wanting to the new levies, and the repulse of
+  training alike were wanting to the new [[Levi|levies]], and the repulse of
   Brunswick was effected by manoeuvring and fighting on the old lines
   and chiefly with the old army. The cry of _La patrie en danger_, after
   giving, at the crisis, the highest moral support to the troops in the
@@ -138,10 +138,10 @@ campaigns the archetype of modern warfare.
   But in the spring of 1793, confronted by a far more serious peril, the
   government took strong measures. Universal liability was asserted, and
   passed into law. Yet even now whole classes obtained exemption and the
-  right of substitution as usual forced the burden of service on the
+  right of substitution as usual forced the [[Burden|burden]] of service on the
   poorer classes, so that of the 100,000 men called on for the regular
   army and 200,000 for the Volunteers, only some 180,000 were actually
-  raised. Desertion, generally regarded as the curse of professional
+  raised. [[Desertion]], generally regarded as the curse of professional
   armies, became a conspicuous vice of the defenders of the Republic,
   except at moments when a supreme crisis called forth supreme
   devotion--moments which naturally were more or less prolonged in
@@ -153,8 +153,8 @@ campaigns the archetype of modern warfare.
 
     Universal service of the "Amalgam."
 
-  While this unsatisfactory general levy was being made, defeats,
-  defections and invasion in earnest came in rapid succession, and to
+  While this unsatisfactory general [[Levy|levy]] was being made, defeats,
+  defections and invasion in [[Earnest|earnest]] came in rapid succession, and to
   deal with the almost desperate emergency, the ruthless Committee of
   Public Safety sprang into existence. "The levy is to be universal.
   Unmarried citizens and widowers without children of ages from 18 to 25
@@ -176,7 +176,7 @@ campaigns the archetype of modern warfare.
   army gradually evolved its true leaders and obeyed them. It was,
   therefore, an army of individual citizen-soldiers of the best type,
   welded by the enemy's fire, and conscious of its own solidarity in the
-  midst of the Revolutionary chaos.
+  midst of the Revolutionary [[Chaos|chaos]].
 
   After 1794 the system underwent but little radical change until the
   end of the Revolutionary period. Its regiments grew in military value
@@ -184,7 +184,7 @@ campaigns the archetype of modern warfare.
   of 1796. In 1795 the French forces (now all styled National Guard)
   consisted of 531,000 men, of whom 323,000 were infantry (100
   3-battalion demi-brigades), 97,000 light infantry (30 demi-brigades),
-  29,000 artillery, 20,000 engineers and 59,000 cavalry. This novel army
+  29,000 artillery, 20,000 engineers and 59,000 [[Cavalry|cavalry]]. This novel army
   developed novel fighting methods, above all in the infantry. This arm
   had just received a new drill-book, as the result of a prolonged
   controversy (see INFANTRY) between the advocates of "lines" and
@@ -215,7 +215,7 @@ campaigns the archetype of modern warfare.
   found in keeping as many troops as possible out of the firing line.
   From 1794 onwards the latter becomes thinner and thinner, and instead
   of the drill-book form, with half the army firing in line (practically
-  in hordes) and the other half in support in columns, we find the rear
+  in [[Horde|hordes]]) and the other half in support in columns, we find the rear
   lines becoming more and more important and numerous, till at last the
   fire of the leading line (skirmishers) becomes insignificant, and the
   decision rests with the bayonets of the closed masses in rear. Indeed,
@@ -242,7 +242,7 @@ campaigns the archetype of modern warfare.
   obeyed new leaders.
 
   In artillery matters this period, 1792-1796, marks an important
-  progress, due above all to Gribeauval (q.v.) and the two du Teils,
+  progress, due above all to [[Gribeauval]] (q.v.) and the two du Teils,
   Jean Pierre (1722-1794) and Jean (1733-1820) who were Napoleon's
   instructors. The change was chiefly in organization and equipment--the
   great tactical development of the arm was not to come until the time
@@ -251,11 +251,11 @@ campaigns the archetype of modern warfare.
   field."
 
   The engineers, like the artillery, were a technical and non-noble
-  corps. They escaped, therefore, most of the troubles of the
+  [[Corps|corps]]. They escaped, therefore, most of the troubles of the
   Revolution--indeed the artillery and engineer officers, Napoleon and
   Carnot amongst them, were conspicuous in the political regeneration of
   France--and the engineers carried on with little change the traditions
-  of Vauban and Cormontaingne (see FORTIFICATION AND SIEGECRAFT). Both
+  of Vauban and [[Cormontaingne]] (see FORTIFICATION AND SIEGECRAFT). Both
   these corps were, after the Revolution as before it, the best in
   Europe, other armies admitting their superiority and following their
   precepts.
@@ -294,13 +294,13 @@ campaigns the archetype of modern warfare.
   Above all, the decision-compelling spirit was reinforced by the
   presence of the emissaries of the Committee of Public Safety, the
   "representatives on mission" who practically controlled the
-  guillotine. There were civil officials with the armies of the Allies
+  [[Guillotine|guillotine]]. There were civil officials with the armies of the Allies
   too, but their chief function was not to infuse desperate energy into
   the military operations, but to see that the troops did not maltreat
   civilians. Such were the fundamental principles of the "New French"
   method of warfare, from which the warfare of to-day descends in the
   direct line. But it was only after a painful period of trial and
-  error, of waste and misdirection, that it became possible for the
+  [[Error|error]], of waste and misdirection, that it became possible for the
   French army to have evolved Napoleon, and for Napoleon to evolve the
   principles and methods of war that conformed to and profited to the
   utmost by the new conditions.
@@ -317,7 +317,7 @@ CAMPAIGNS IN THE NETHERLANDS
 The year 1793 opened disastrously for the Republic. As a consequence of
 Jemappes and Valmy, France had taken the offensive both in Belgium,
 which had been overrun by Dumouriez's army, and in the Rhine countries,
-where Custine had preached the new gospel to the sentimental and
+where Custine had preached the new [[Gospel|gospel]] to the sentimental and
 half-discontented Hessians and Mainzers. But the execution of Louis XVI.
 raised up a host of new and determined enemies. England, Holland,
 Austria, Prussia, Spain and Sardinia promptly formed the First
@@ -330,8 +330,8 @@ command of the sea (see _Naval Operations_, below).
 
 In the Low Countries, while Dumouriez was beginning his proposed
 invasion of Holland, Prince Josias of Saxe-Coburg, the new Austrian
-commander on the Lower Rhine, advanced with 42,000 men from the region
-of Cologne, and drove in the various detachments that Dumouriez had
+[[Commander|commander]] on the Lower Rhine, advanced with 42,000 men from the region
+of [[Cologne]], and drove in the various detachments that Dumouriez had
 posted to cover his right. The French general thereupon abandoned his
 advance into Holland, and, with what forces he could gather, turned
 towards the Meuse. The two armies met at Neerwinden (q.v.) on the 18th
@@ -339,7 +339,7 @@ of March 1793. Dumouriez had only a few thousand men more than his
 opponent, instead of the enormous superiority he had had at Jemappes.
 Thus the enveloping attack could not be repeated, and in a battle on
 equal fronts the old generalship and the old armies had the advantage.
-Dumouriez was thoroughly defeated, the house of cards collapsed, and the
+Dumouriez was thoroughly defeated, the house of [[Cards|cards]] collapsed, and the
 whole of the French forces retreated in confusion to the strong line of
 border fortresses, created by Louis XIV. and Vauban.[1] Dumouriez,
 witnessing the failure of his political schemes, declared against the
@@ -353,7 +353,7 @@ the darkest hour he seized the reins without orders and without
 reference to seniority, and began to reconstruct the force and the
 spirit of the shattered army by wise administration and dithyrambic
 proclamations. Moreover, he withdrew it well behind Valenciennes out of
-reach of a second reverse. The region of Dunkirk and Cassel, the camp of
+reach of a second reverse. The region of Dunkirk and [[Cassel]], the camp of
 La Madeleine near Lille, and Bouchain were made the rallying points of
 the various groups, the principal army being at the last-named. But the
 blow of Neerwinden had struck deep, and the army was for long incapable
@@ -368,13 +368,13 @@ were left ragged and shoeless to the profit of the "patriot" corps.
 
 France was in fact defenceless, and the opportunity existed for the
 military promenade to Paris that the allied statesmen had imagined in
-1792. But Coburg now ceased to be a purely Austrian commander, for one
+1792. But [[Coburg]] now ceased to be a purely Austrian commander, for one
 by one allied contingents, with instructions that varied with the
 political aims of the various governments, began to arrive. Moreover, he
 had his own views as to the political situation, fearing especially to
 be the cause of the queen's death as Brunswick had been of the king's,
 and negotiated for a settlement. The story of these negotiations should
-be read in Chuquet's _Valenciennes_--it gives the key to many mysteries
+be read in Chuquet's _Valenciennes_--it gives the [[Key|key]] to many mysteries
 of the campaign and shows that though the revolutionary spirit had
 already passed all understanding, enlightened men such as Coburg and his
 chief-of-staff Mack sympathized with its first efforts and thought the
@@ -401,7 +401,7 @@ politique_ with which it was neither his business nor his inclination to
 meddle. He had no more compunction, therefore, in selling his worst
 goods at the best price to the army commissaries than in doing so to his
 ordinary customers. It followed that, owing to the distance between
-Vienna and Valenciennes, and the exorbitant prices charged by carters
+Vienna and Valenciennes, and the exorbitant prices charged by [[Carter|carters]]
 and horse-owners, a mere concentration of Austrian troops at the latter
 place cost as much as a campaign, and the transport expenses rose to
 such a figure that Coburg's first duty was to find a strong place to
@@ -410,7 +410,7 @@ purchased, and to have it as near as possible to the front to save the
 hire of vehicles. As for the other governments which Coburg served as
 best he could, the object of the war was material concessions, and it
 would be easy to negotiate for the cession of Dunkirk and Valenciennes
-when the British and Austrian colours already waved there. The Allies,
+when the British and Austrian [[Colours|colours]] already waved there. The Allies,
 therefore, instead of following up their advantage over the French field
 army and driving forward on the open Paris road, set their faces
 westward, intending to capture Valenciennes, Le Quesnoy, Dunkirk and
@@ -420,8 +420,8 @@ Lille one after the other.
   Dampierre at Valenciennes.
 
 Dampierre meanwhile grew less confident as responsibility settled upon
-his shoulders. Quite unable to believe that Coburg would bury himself in
-a maze of rivers and fortresses when he could scatter the French army to
+his shoulders. Quite unable to believe that Coburg would [[Bury|bury]] himself in
+a [[Maze|maze]] of rivers and fortresses when he could scatter the French army to
 the winds by a direct advance, he was disquieted and puzzled by the
 Austrian investment of Conde. This was followed by skirmishes around
 Valenciennes, so unfavourable to the French that their officers felt it
@@ -429,7 +429,7 @@ would be madness to venture far beyond the support of the fortress guns.
 But the representatives on mission ordered Dampierre, who was
 reorganizing his army at Bouchain, to advance and occupy Famars camp,
 east of Valenciennes, and soon afterwards, disregarding his protests,
-bade him relieve Conde at all costs. His skill, though not commensurate
+bade him relieve Conde at all [[Costs|costs]]. His skill, though not commensurate
 with his personal courage and devotion, sufficed to give him the idea of
 attacking Coburg on the right bank of the Scheldt while Clerfayt, with
 the corps covering the siege of Conde, was on the left, and then to turn
@@ -444,7 +444,7 @@ Republicans in disorder to their entrenchments. Dampierre's
 discouragement now became desperation, and, urged on by the
 representatives (who, be it said, had exposed their own lives freely
 enough in the action), he attacked Clerfayt on the 8th at Raismes. The
-troops fought far better in the woods and hamlets west of the Scheldt
+troops fought far better in the woods and [[Hamlet|hamlets]] west of the Scheldt
 than they had done in the plains to the east. But in the heat of the
 action Dampierre, becoming again the brilliant soldier that he had been
 before responsibility stifled him, risked and lost his life in leading a
@@ -452,10 +452,10 @@ storming party, and his men retired sullenly, though this time in good
 order, to Valenciennes. Two days later the French gave up the open field
 and retired into Valenciennes. Dampierre's remains were by a vote of the
 Convention ordered to be deposited in the Pantheon. But he was a
-"ci-devant" noble, the demagogues denounced him as a traitor, and the
+"ci-devant" noble, the [[Demagogue|demagogues]] denounced him as a traitor, and the
 only honour finally paid to the man who had tided over the weeks of
 greatest danger was the placing of his bust, in the strange company of
-those of Brutus and Marat, in the chamber of deputies.
+those of Brutus and [[Marat]], in the chamber of deputies.
 
 Another pause followed, Coburg awaiting the British contingent under the
 duke of York, and the Republicans endeavouring to assimilate the
@@ -489,15 +489,15 @@ the idea was abandoned in view of the growing seriousness of the Vendean
 insurrection (see VENDEE). Custine, therefore, could do no more than
 continue the work of reorganization. Military operations were few.
 Coburg, who had all this time succeeded in remaining concentrated, now
-found himself compelled to extend leftwards towards Flanders,[3] for
+found himself compelled to extend leftwards towards [[Flanders]],[3] for
 Custine had infused some energy into the scattered groups of the
-Republicans in the region of Douai, Lille and Dunkirk--and during this
-respite the Paris Jacobins sent to the guillotine both Custine and his
+Republicans in the region of [[Douai]], Lille and Dunkirk--and during this
+respite the Paris [[Jacobins]] sent to the guillotine both Custine and his
 successor La Marliere before July was ended. Both were "ci-devant"
 nobles and, so far as is ascertainable, neither was guilty of anything
 worse than attempts to make his orders respected by, and himself popular
 with, the soldiers. By this time, owing to the innumerable denunciations
-and arrests, the confusion in the Army of the North was at its height,
+and [[Arrest|arrests]], the confusion in the Army of the North was at its height,
 and no further attempt was made either to relieve Valenciennes and
 Conde, or to press forward from Lille and Dunkirk. Conde, starved out as
 Coburg desired, capitulated on the 10th of June, and the Austrians, who
@@ -505,21 +505,21 @@ had done their work as soldiers, but were filled with pity for their
 suffering and distracted enemies, marched in with food for the women and
 children. Valenciennes, under the energetic General Ferrand, held out
 bravely until the fire of the Allies became intolerable, and then the
-civil population began to plot treachery, and to wear the Bourbon
-cockade in the open street. Ferrand and the representatives with him
+civil population began to plot treachery, and to wear the [[Bourbon]]
+[[Cockade|cockade]] in the open street. Ferrand and the representatives with him
 found themselves obliged to surrender to the duke of York, who commanded
 the siege corps, on the 28th of July, after rejecting the first draft of
-a capitulation sent in by the duke and threatening to continue the
+a [[Capitulation|capitulation]] sent in by the duke and threatening to continue the
 defence to the bitter end. Impossible as this was known to be--for
 Valenciennes seemed to have become a royalist town--Ferrand's soldierly
-bearing carried the day, and honourable terms were arranged. The duke
-even offered to assist the garrison in repressing disorder. Shortly
+bearing carried the day, and [[Honourable|honourable]] terms were arranged. The duke
+even offered to assist the [[Garrison|garrison]] in repressing disorder. Shortly
 after this the wreck of the field army was forced to evacuate Caesar's
-Camp after an unimportant action (Aug. 7-8) and retired on Arras. By
+Camp after an unimportant action (Aug. 7-8) and retired on [[Arras]]. By
 this they gave up the direct defence of the Paris road, but placed
 themselves in a "flank position" relatively to it, and secured to
 themselves the resources and reinforcements available in the region of
-Dunkirk-Lille. Bouchain and Cambrai, Landrecies and Le Quesnoy, were
+Dunkirk-Lille. Bouchain and [[Cambrai]], Landrecies and Le Quesnoy, were
 left to their own garrisons.
 
 With this ended the second episode of the amazing campaign of 1793.
@@ -547,9 +547,9 @@ officers Berthelmy and Gay-Vernon, the latter of whom, an exceptionally
 capable officer, had been Custine's chief of staff and was consequently
 under suspicion. At one moment, indeed, operations had to be suspended
 altogether because his papers were seized by the civil authorities, and
-amongst them were all the confidential memoranda and maps required for
+amongst them were all the confidential memoranda and [[Map|maps]] required for
 the business of headquarters. It was the darkest hour. The Vendeans, the
-people of Lyons, Marseilles and Toulon, were in open and hitherto
+people of [[Lyons]], [[Marseilles]] and Toulon, were in open and hitherto
 successful revolt. Valenciennes had fallen and Coburg's hussar parties
 pressed forward into the Somme valley. Again the Allies had the decision
 of the war in their own hands. Coburg, indeed, was still afraid, on
@@ -557,7 +557,7 @@ Marie Antoinette's account, of forcing the Republicans to extremities,
 and on military grounds too he thought an advance on Paris hazardous.
 But, hazardous or not, it would have been attempted but for the English.
 The duke of York had definite orders from his government to capture
-Dunkirk--at present a nest of corsairs which interfered with the Channel
+Dunkirk--at present a nest of [[Corsair|corsairs]] which interfered with the Channel
 trade, and in the future, it was hoped, a second Gibraltar--and after
 the fall of Valenciennes and the capture of Caesar's Camp the English
 and Hanoverians marched away, via Tournai and Ypres, to besiege the
@@ -585,7 +585,7 @@ decisive importance, for at the moment of its inception the duke of York
 was already on the march. Fighting _en route_ a very severe but
 successful action (Lincelles, Aug. 18) with the French troops encamped
 near Lille, the Anglo-Hanoverians entered the district--densely
-intersected with canals and morasses--around Dunkirk and Bergues on the
+intersected with canals and morasses--around Dunkirk and [[Bergues]] on the
 21st and 22nd. On the right, by way of Furnes, the British moved towards
 Dunkirk and invested the east front of the weak fortress, while on the
 left the Hanoverian field marshal v. Freytag moved via Poperinghe on
@@ -623,7 +623,7 @@ York's forces. Beginning with an attack on the Dutch posts north and
 east of Lille, the army was then to press forward towards Furnes, the
 left wing holding Freytag's left wing in check, and the right swinging
 inwards and across the line of retreat of both allied corps. At that
-moment all men were daring, and the scheme was adopted with enthusiasm.
+moment all men were daring, and the scheme was adopted with [[Enthusiasm|enthusiasm]].
 On the 28th of August, consequently, the Dutch posts were attacked and
 driven away by the mobile forces at Lille, aided by parts of the main
 army from Arras. But even before they had fired their last shot the
@@ -681,7 +681,7 @@ permission of Macmillan & Co., Ltd.]
 
 Houchard despatched a column, guided by his staff officer Berthelmy, to
 turn the Hanoverians' left, but this column lost its way in the dense
-country about Loo. The centre waited motionless under the fire of the
+country about [[Loo]]. The centre waited motionless under the fire of the
 allied guns near Hondschoote. In vain the representative Delbrel
 implored the general to order the advance. Houchard was obstinate, and
 ere long the natural result followed. Though Delbrel posted himself in
@@ -706,7 +706,7 @@ many, serves to show that the representatives on mission were no mere
 savage marplots, as is too generally assumed. They were often wise and
 able men, brave and fearless of responsibility in camp and in action.
 Jourdan led on the reserves, and the men fighting in the bushes on
-either side of the road heard their drums to right and left. Jourdan
+either side of the road heard their [[Drum|drums]] to right and left. Jourdan
 fell wounded, but Delbrel headed a wild irregular bayonet charge which
 checked the Hanoverians, and Houchard himself, in his true place as a
 cavalry leader, came up with 500 fresh sabres and flung himself on the
@@ -775,7 +775,7 @@ Houchard's offensive died away completely, and he halted his army
 Douai and Arras, hoping thereby to succour Bouchain, Cambrai or Arras,
 whichever should prove to be Coburg's next objective. After standing
 still for several days, a prey to all the conflicting rumours that
-reached his ears, he came to the conclusion that Coburg was about to
+reached his [[Ear|ears]], he came to the conclusion that Coburg was about to
 join the duke of York in a second siege of Dunkirk, and began to close
 on his left. But his conclusion was entirely wrong. The Allies were
 closing on _their_ left inland to attack Maubeuge. Coburg drew in
@@ -787,8 +787,8 @@ and, above all, the siege that was the object of the concentration was
 calculated to last four weeks, i.e. gave the French four weeks unimpeded
 liberty of action.
 
-Houchard was now denounced and brought captive to Paris. Placed upon his
-trial, he offered a calm and reasoned defence of his conduct, but when
+Houchard was now denounced and brought [[Captive|captive]] to Paris. Placed upon his
+trial, he offered a [[Calm|calm]] and reasoned defence of his conduct, but when
 the intolerable word "coward" was hurled at him by one of his judges he
 wept with rage, pointing to the scars of his many wounds, and then, his
 spirit broken, sank into a lethargic indifference, in which he remained
@@ -859,12 +859,12 @@ Terror.
   period of trial and error, of denunciations and indiscipline, and of
   wholly trivial fighting, before the Republicans recovered themselves.
   But in the end the ragged enthusiasts found their true leader in
-  Lazare Hoche, and, though defeated by Brunswick at Pirmasens and
-  Kaiserslautern, they managed to develop almost their full strength
+  Lazare [[Hoche]], and, though defeated by Brunswick at Pirmasens and
+  [[Kaiserslautern]], they managed to develop almost their full strength
   against Wurmser in Alsace. On the 26th of December the latter, who had
   already undergone a series of partial reverses, was driven by main
   force from the lines of Weissenburg, after which Hoche advanced into
-  the Palatinate and delivered Landau, and Pichegru moved on to
+  the Palatinate and delivered [[Landau]], and Pichegru moved on to
   recapture Mainz, which had surrendered in July. On the Spanish
   frontier both sides indulged in a fruitless war of posts in broken
   ground. The Italian campaign of 1793, equally unprofitable, will be
@@ -878,8 +878,8 @@ Terror.
 
 For 1794 Carnot planned a general advance of all the northern armies,
 that of the North (Pichegru) from Dunkirk-Cassel by Ypres and Oudenarde
-on Brussels, the minor Army of the Ardennes to Charleroi, and the Army
-of the Moselle (Jourdan) to Liege, while between Charleroi and Lille
+on Brussels, the minor Army of the [[Ardennes]] to [[Charleroi]], and the Army
+of the Moselle (Jourdan) to [[Liege]], while between Charleroi and Lille
 demonstrations were to be made against the hostile centre. He counted
 upon little as regards the two armies near the Meuse, but hoped to force
 on a decisive battle by the advance of the left wing towards Ypres.
@@ -934,7 +934,7 @@ offensive. Clerfayt's corps was to be between Rousselaer and Menin on
 the 16th, and the next day to force its way across the Lys at Werwick
 and connect with the main army. The main army was to advance in four
 columns. The first three, under the duke of York, were to move off, at
-daylight on the 17th, by Dottignies, Leers and Lannoy respectively to
+daylight on the 17th, by Dottignies, [[Leer|Leers]] and [[Lannoy]] respectively to
 the line Mouscron-Tourcoing-Mouveaux. The fourth and fifth under Kinsky
 and the archduke Charles were to defeat the French corps on the upper
 Marque, and then, leaving Lille on their left and guaranteeing
@@ -960,7 +960,7 @@ representative of the old school, or in that of Scharnhorst, the founder
 of the new.
 
 Souham, who commanded in the temporary absence of Pichegru, had formed
-his own plan. Finding himself with the major part of his forces between
+his own plan. Finding himself with the [[Major|major]] part of his forces between
 York and Clerfayt, he had decided to impose upon the former by means of
 a covering detachment, and to fall upon Clerfayt near Rousselaer with
 the bulk of his forces. This plan, based as it was on a sound
@@ -1018,7 +1018,7 @@ compelled to keep troops at Leers and Watrelos to protect his rear,
 which seriously weakened his hold on Tourcoing. The third column, led by
 the duke of York, advanced from Templeuve on Lannoy, at the same time
 securing its left by expelling the French from Willems. Lannoy was
-stormed by the British Guards under Sir R. Abercromby with such vigour
+stormed by the British [[Guards]] under Sir R. Abercromby with such vigour
 that the cavalry which had been sent round the village to cut off the
 French retreat had no time to get into position. Beyond Lannoy, the
 French resistance, still disjointed, became more obstinate as the
@@ -1033,7 +1033,7 @@ now nightfall, and the duke having attained his objective point prepared
 to hold it against a counter attack.
 
 Kinsky meanwhile with the fourth column had made feints opposite
-Pont-a-Tressin, and had forced the passage of the Marque near Bouvines
+Pont-a-Tressin, and had forced the passage of the Marque near [[Bouvines]]
 with his main body. But Bonnaud gave ground so slowly that up to 4 P.M.
 Kinsky had only progressed a few hundred paces from his crossing point.
 The fifth column, which was behind time on the 16th, did not arrive at
@@ -1133,7 +1133,7 @@ numerical superiority which the French possessed at the decisive point
 is the best testimony at once to Souham's generalship and to Vandamme's
 bravery. As for the Allies, those of them who took part in the battle at
 all, generals and soldiers, covered themselves with glory, but the
-inaction of two-thirds of Coburg's army was the bankruptcy declaration
+inaction of two-thirds of Coburg's army was the [[Bankruptcy|bankruptcy]] declaration
 of the old strategical system. The Allies lost, on this day, about 4000
 killed and wounded and 1500 prisoners besides 60 guns. The French loss,
 which was probably heavier, is not known. The duke of York defeated,
@@ -1189,7 +1189,7 @@ from Nechin. The defenders of Templeuve then fell back, and the
 attacking swarms--a dissolved line of battle--fringed the brook beyond
 Templeuve, on the other side of which was the Allies' main position, and
 even for a moment seized Blandain. Meanwhile the French at Nechin, in
-concert with the main attack, pressed on towards Ramegnies.
+[[Concert|concert]] with the main attack, pressed on towards Ramegnies.
 
 Macdonald's and other brigades had forced the Espierre rivulet and
 driven von dem Bussche's Hanoverians partly over the Scheldt (they had a
@@ -1214,9 +1214,9 @@ to be given by Jourdan's far-distant Army of the Moselle, to which we
 now turn.
 
 The Army of the Moselle had been ordered to assemble a striking force on
-its left wing, without prejudicing the rest of its cordon in Lorraine,
+its left wing, without prejudicing the rest of its cordon in [[Lorraine]],
 and with this striking force to operate towards Liege and Namur. Its
-first movement on Arlon, in April, was repulsed by a small Austrian
+first movement on [[Arlon]], in April, was repulsed by a small Austrian
 corps under Beaulieu that guarded this region. But in the beginning of
 May the advance was resumed though the troops were ill-equipped and
 ill-fed, and requisitions had reduced the civil population to
@@ -1232,7 +1232,7 @@ of marching and subsisting them.
 Its commander was "to keep in mind the purpose of cutting the
 communications between Luxemburg and Namur, and was therefore to throw
 out strong bodies against the enemy daily and at different points, to
-parry the enemy's movements by rapid marches, to prevent any transfer
+parry the enemy's movements by rapid [[Marches|marches]], to prevent any transfer
 of troops to Belgium, and lastly to seek an occasion for giving battle,
 for cutting off his convoys and for seizing his magazines." So much for
 the purpose. The method of achieving it is defined as follows. "General
@@ -1298,7 +1298,7 @@ in disgust,--reached Ciney, and there heard that the enemy had fallen
 back to a strongly entrenched position on the east bank of the Meuse
 near Namur. Jourdan was preparing to attack them there, when
 considerations of quite another kind intervened to change his direction,
-and thereby to produce the drama of Charleroi and Fleurus--which
+and thereby to produce the [[Drama|drama]] of Charleroi and Fleurus--which
 military historians have asserted to be the foreseen result of the
 initial plan.
 
@@ -1344,7 +1344,7 @@ these sansculottes, shoeless and hungry, unchained a mysterious force
 that preceded our columns and aided the achievement of military
 success."
 
-Friction, however, arose between Jourdan and the generals of the
+[[Friction]], however, arose between Jourdan and the generals of the
 Ardennes Army, to whom the representatives thought it well to give a
 separate mission. This detachment of 18,000 men was followed by another,
 of 16,000, to keep touch with Maubeuge. Deducting another 6000 for the
@@ -1368,7 +1368,7 @@ successfully, and after a severe struggle the French had to abandon
 their positions and their siege works and to recross the Sambre (June
 16). But the army was not beaten. On the contrary, it was only desirous
 of having its revenge for a stroke of ill-fortune, due, the soldiers
-said, to the fog and to the want of ammunition. The fierce threats of
+said, to the [[Fog|fog]] and to the want of ammunition. The fierce threats of
 St Just (who had joined the army) to _faire tomber les tetes_ if more
 energy were not shown were unnecessary, and within two days the army was
 advancing again. On the 18th Jourdan's columns recrossed the river and
@@ -1395,7 +1395,7 @@ withdrawn 12,000 Austrians from the centre of his cordon opposite
 Pichegru, and made forced marches to join the prince of Orange. On the
 24th of June he had collected 52,000 men at various points round
 Charleroi, and on the 25th he set out to relieve the little fortress.
-But he was in complete ignorance of the state of affairs at Charleroi.
+But he was in complete [[Ignorance|ignorance]] of the state of affairs at Charleroi.
 Signal guns were fired, but the woods drowned even the roar of the siege
 batteries, and at last a party under Lieutenant Radetzky made its way
 through the covering army and discovered that the place had fallen. The
@@ -1436,7 +1436,7 @@ Roux and Marchiennes, but somewhat after noon the French, under the
 direction for the most part of Kleber, began a series of counterstrokes
 which recovered the lost ground, and about 5, without waiting for
 Coburg's instructions, the prince retired north-westward off the
-battlefield. The French centre division, under Morlot, made a gradual
+battlefield. The French centre division, under Morlot, made a [[Gradual|gradual]]
 fighting retreat on Gosselies, followed up by the Quasdanovich column
 and part of Kaunitz's force. No serious impression was made on the
 defenders, chiefly because the brook west of Mellet was a serious
@@ -1468,10 +1468,10 @@ and the remnant of Marceau's troops) above Campinaire and Lambusart. The
 disciplined resolution of the imperial battalions, and the enthusiasm of
 the French Revolutionaries, were each at their height. The Austrians
 came on time after time over ground that was practically destitute of
-cover. Villages, farms and fields of corn caught fire. The French grew
+cover. Villages, farms and [[Fields|fields]] of [[Corn|corn]] caught fire. The French grew
 more and more excited--"No retreat to-day!" they called out to their
 leaders, and finally, clamouring to be led against the enemy, they had
-their wish. Lefebvre seized the psychological moment when the fourth
+their wish. [[Lefebvre]] seized the psychological moment when the fourth
 attack of the Allies had failed, and (though he did not know it) the
 order to retreat had come from Coburg. The losses of the unit that
 delivered it were small, for the charge exactly responded to the moral
@@ -1510,7 +1510,7 @@ dissemination of the army.
   in midwinter through a country bare of supplies and densely
   intersected with dykes and meres. The crowning incident was the
   dramatic capture of the Dutch fleet, frozen in at the Texel, by a
-  handful of hussars who rode over the ice and browbeat the crews of the
+  handful of hussars who rode over the [[Ice|ice]] and browbeat the crews of the
   well-armed battleships into surrender. It was many years before a
   prince of Orange ruled again in the United provinces, while the
   Austrian whitecoats never again mounted guard in Brussels.
@@ -1523,7 +1523,7 @@ dissemination of the army.
   Revolution came to an inglorious end. Poland now occupied the thoughts
   of European statesmen, and Austria began to draw her forces on to the
   east. England stopped the payment of subsidies, and Prussia made the
-  Peace of Basel on the 5th of April 1795. On the Spanish frontier the
+  Peace of [[Basel]] on the 5th of April 1795. On the Spanish frontier the
   French under General Dugommier (who was killed in the last battle)
   were successful in almost every encounter, and Spain, too, made peace.
   Only the eternal enemies, France and Austria, were left face to face
@@ -1541,8 +1541,8 @@ dissemination of the army.
   attack on Neuwied with an advance in force via Dusseldorf, reunited
   his wings beyond the river near Neuwied, and drove back the Austrians
   in a series of small engagements to the Main, while Pichegru passed at
-  Mannheim and advanced towards the Neckar. But ere long both were
-  beaten, Jourdan at Hochst and Pichegru at Mannheim, and the investment
+  [[Mannheim]] and advanced towards the Neckar. But ere long both were
+  beaten, Jourdan at [[Hochst]] and Pichegru at Mannheim, and the investment
   of Mainz had to be abandoned. This was followed by the invasion of the
   Palatinate by Clerfayt and the retreat of Jourdan to the Moselle. The
   position was further compromised by secret negotiations between
@@ -1570,7 +1570,7 @@ and the glory of freeing the serf easily merged itself in the glory of
 defeating the serf's masters. But a still more pressing motive for
 carrying the war into the enemy's country was the fact that France and
 the lands she had overrun could no longer subsist her armies. The
-Directory frankly told its generals, when they complained that their men
+[[Directory]] frankly told its generals, when they complained that their men
 were starving and ragged, that they would find plenty of subsistence
 beyond the Rhine.
 
@@ -1578,7 +1578,7 @@ On her part, Austria, no longer fettered by allied contingents nor by
 the expenses of a far distant campaign, could put forth more strength
 than on former campaigns, and as war came nearer home and the citizen
 saw himself threatened by "revolutionizing" and devastating armies, he
-ceased to hamper or to swindle the troops. Thus the duel took place on
+ceased to hamper or to swindle the troops. Thus the [[Duel|duel]] took place on
 the grandest scale then known in the history of European armies. Apart
 from the secondary theatre of Italy, the area embraced in the struggle
 was a vast triangle extending from Dusseldorf to Basel and thence to
@@ -1607,7 +1607,7 @@ concentration to deliver blow after blow, and to do his utmost to break
 them up completely. A fortnight later Moreau (Army of the
 Rhine-and-Moselle, 78,000) was ordered to take advantage of Jourdan's
 move, which would draw most of the Austrian forces to the Mainz region,
-to enter the Breisgau and Suabia. "You will attack Austria at home, and
+to enter the [[Breisgau]] and Suabia. "You will attack Austria at home, and
 capture her magazines. You will enter a new country, the resources of
 which, properly handled, should suffice for the needs of the Army of the
 Rhine-and-Moselle."
@@ -1630,7 +1630,7 @@ Moreau's progress he returned to the Neckar country with 20,000 men,
 leaving Feldzeugmeister v. Wartensleben with 36,000 to observe Jourdan.
 In later years he admitted himself that his own force was far too small
 to deal with Moreau, who, he probably thought, would retire after a few
-manoeuvres.
+[[Manoeuvres|manoeuvres]].
 
 
   The archduke's plan.
@@ -1712,7 +1712,7 @@ enterprise and ignore the fears of the generals at the front. But the
 latter were justified in one important respect; their operating armies
 had seriously diminished in numbers, Jourdan disposing of not more than
 45,000 and Moreau of about 50,000. The archduke had now, owing to the
-arrival of a few detachments from the Black Forest and elsewhere, about
+arrival of a few detachments from the [[Black Forest]] and elsewhere, about
 34,000 men, Wartensleben almost exactly the same, and the former, for
 some reason which has never been fully explained but has its
 justification in psychological factors, suddenly turned and fought a
@@ -1721,7 +1721,7 @@ not, however, give him much respite, and on the 12th and 13th he retired
 over the Danube. At this date Wartensleben was about Amberg, almost as
 far away from the other army as he had been on the Rhine, owing to the
 necessity of retreating round instead of through the principality of
-Bayreuth, which was a Prussian possession and could therefore make its
+[[Bayreuth]], which was a Prussian possession and could therefore make its
 neutrality respected.
 
 Hitherto Charles had intended to unite his armies on the Danube against
@@ -1730,7 +1730,7 @@ combination grew out of circumstances and in particular out of the
 brilliant reconnaissance work of a cavalry brigadier of the Lower Rhine
 Army, Nauendorff. This general's reports--he was working in the country
 south and south-east of Nurnberg, Wartensleben being at
-Amberg--indicated first an advance of Jourdan's army from Forchheim
+Amberg--indicated first an advance of Jourdan's army from [[Forchheim]]
 through Nurnberg to the _south_, and induced the archduke, on the 12th,
 to begin a concentration of his own army towards Ingolstadt. This was a
 purely defensive measure, but Nauendorff reported on the 13th and 14th
@@ -1750,7 +1750,7 @@ front, its leader being now sure that at some point on his line he would
 encounter the French, whether they were heading for Ratisbon or Amberg.
 Meanwhile, the Directory had, still acting on the theory of the
 archduke's weakness, ordered Moreau to combine the operations with those
-of Bonaparte in Italian Tirol, and Jourdan to turn both flanks of his
+of [[Bonaparte]] in Italian Tirol, and Jourdan to turn both flanks of his
 immediate opponent, and thus to prevent his joining the archduke, as
 well as his retreat into Bohemia. And curiously enough it was this
 latter, and not Moreau's move, which suggested to the archduke that his
@@ -1798,7 +1798,7 @@ highest point, and deservedly, for he wrested victory from the most
 desperate circumstances by the skilful and resolute employment of his
 one advantage. But this was only possible because Moreau and Jourdan
 were content to accept strategical failure without seeking to redress
-the balance by hard fighting. The great question of this campaign is,
+the [[Balance|balance]] by hard fighting. The great question of this campaign is,
 why did Moreau and Jourdan fail against inferior numbers, when in Italy
 Bonaparte with a similar army against a similar opponent won victory
 after victory against equal and superior forces? The answer will not be
@@ -1810,7 +1810,7 @@ word had been said at Fleurus. The troops were still the nation; they no
 longer fought for a cause and for bare existence, and Moreau and Jourdan
 were too closely allied in ideas and sympathies with the misplaced
 citizen soldiers they commanded to be able to dominate their collective
-will. In default of a cause, however, soldiers will fight for a man, and
+will. In [[Default|default]] of a cause, however, soldiers will fight for a man, and
 this brings us by a natural sequence of ideas to the war in Italy.
 
 
@@ -1822,7 +1822,7 @@ out of which Napoleon's first campaign arose can be best considered in
 connexion with that campaign itself, from which indeed the previous
 operations derive such light as they possess. It has been mentioned that
 in 1792 the French overran Savoy and Nice. In 1793 the Sardinian army
-and a small auxiliary corps of Austrians waged a desultory mountain
+and a small [[Auxiliary|auxiliary]] corps of Austrians waged a desultory mountain
 warfare against the Army of the Alps about Briancon and the Army of
 Italy on the Var. That furious offensive on the part of the French,
 which signalized the year 1793 elsewhere, was made impossible here by
@@ -1853,7 +1853,7 @@ Riviera. All met with success, thanks to Massena's bold handling of the
 centre column. Not only was Oneglia captured, but also the Col di Tenda.
 Napoleon Bonaparte served in these affairs on the headquarter staff.
 Meantime the Army of the Alps had possessed itself of the Little St
-Bernard and Mont Cenis, and the Republicans were now masters of several
+[[Bernard]] and Mont Cenis, and the Republicans were now masters of several
 routes into Piedmont (May). But the Alpine roads merely led to
 fortresses, and both Carnot and Bonaparte--Napoleon had by now
 captivated the younger Robespierre and become the leading spirit in
@@ -1876,7 +1876,7 @@ here again Napoleon proposed a concentration of effort on the primary
 and economy of force in the secondary objective. About the same time, in
 a memoir on the war in general, he laid down his most celebrated maxim:
 "The principles of war are the same as those of a siege. Fire must be
-concentrated on one point, and as soon as the breach is made, the
+concentrated on one point, and as soon as the [[Breach|breach]] is made, the
 equilibrium is broken and the rest is nothing." In the domain of tactics
 he was and remains the principal exponent of the art of breaking the
 equilibrium, and already he imagined the solution of problems of policy
@@ -1886,7 +1886,7 @@ but concentrate our attack." Napoleon argued that Austria could be
 effectively wounded by an offensive against Piedmont, and even more
 effectively by an ulterior advance from Italian soil into Germany. In
 pursuance of the single aim he asked for the appointment of a single
-commander-in-chief to hold sway from Bayonne to the Lake of Geneva, and
+commander-in-chief to hold sway from Bayonne to the Lake of [[Geneva]], and
 for the rejection of all schemes for "revolutionizing" Italy till after
 the defeat of the arch-enemy.
 
@@ -1924,13 +1924,13 @@ disposed and which they significantly called the _chemin de canon_.
 The plan, however, came to nothing; the Committee, which now changed its
 personnel at fixed intervals, was in consequence wavering and
 non-committal, troops were withdrawn for a projected invasion of
-Corsica, and in November 1794 Dumerbion was replaced by Scherer, who
+[[Corsica]], and in November 1794 Dumerbion was replaced by Scherer, who
 assembled only 17,000 of his 54,000 effectives for field operations, and
 selected as his line of advance the Col di Tenda-Coni road. Scherer,
 besides being hostile to any suggestion emanating from Napoleon, was
 impressed with the apparent danger to his right wing concentrated in the
 narrow Riviera, which it was at this stage impossible to avert by a
-sudden and early assumption of the offensive. After a brief tenure
+sudden and early [[Assumption|assumption]] of the offensive. After a brief tenure
 Scherer was transferred to the Spanish frontier, but Kellermann, who now
 received command of the Army of Italy in addition to his own, took the
 same view as his predecessor--the view of the ordinary general. But not
@@ -1950,7 +1950,7 @@ promptly pointed out. Up to this, Napoleon said, the French commanded
 the mountain crest, and therefore covered Savoy and Nice, and also
 Oneglia, Loano and Vado, the ports of the Riviera. But now that Vado was
 lost the breach was made. Genoa was cut off, and the south of France was
-the only remaining resource for the army commissariat. Vado must
+the only remaining resource for the army [[Commissariat|commissariat]]. Vado must
 therefore be retaken and the line reopened to Genoa, and to do this it
 was essential first to close up the over-extended cordon--and with the
 greatest rapidity, lest the enemy, with the shorter line to move on,
@@ -2009,16 +2009,16 @@ his cold resolution nor disturbed his balance.
 The Army of Italy spent the winter of 1795-1796 as before in the narrow
 Riviera, while on the one side, just over the mountains, lay the
 Austro-Sardinians, and on the other, out of range of the coast batteries
-but ready to pounce on the supply ships, were the British frigates. On
+but ready to pounce on the supply ships, were the British [[Frigate|frigates]]. On
 Bonaparte's left Kellermann, with no more than 18,000, maintained a
-string of posts between Lake Geneva and the Argentera as before. Of the
+string of posts between [[Lake Geneva]] and the Argentera as before. Of the
 Army of Italy, 7000 watched the Tenda road and 20,000 men the
 coast-line. There remained for active operations some 27,000 men,
 ragged, famished and suffering in every way in spite of their victory of
 Loano. The Sardinian and Austrian auxiliaries (Colli), 25,000 men, lay
 between Mondovi and Ceva, a force strung out in the Alpine valleys
 opposed Kellermann, and the main Austrian army (commanded by Beaulieu),
-in widely extended cantonments between Acqui and Milan, numbered 27,000
+in widely extended [[Cantonment|cantonments]] between Acqui and Milan, numbered 27,000
 field troops. Thus the short-lived concentration of all the allied
 forces for the battle against Scherer had ended in a fresh separation.
 Austria was far more concerned with Poland than with the moribund French
@@ -2075,12 +2075,12 @@ Alessandria. Hence Carcare, where the road from Acqui joined the
 "cannon-road," was the first objective of his march, and from there he
 could manoeuvre and widen the breach between the allied armies. His
 scattered left wing would assist in the attack on the Sardinians as well
-as it could--for the immediate attack on the Austrians its co-operation
+as it could--for the immediate attack on the Austrians its [[Co-Operation|co-operation]]
 would of course have been out of the question. In any case he grudged
 every week spent in administrative preparation. The delay due to this,
 as a matter of fact, allowed a new situation to develop. Beaulieu was
 himself the first to move, and he moved towards Genoa instead of towards
-his Allies. The gap between the two allied wings was thereby widened,
+his Allies. The [[Gap|gap]] between the two allied wings was thereby widened,
 but it was no longer possible for the French to use it, for their plan
 of destroying Colli _while Beaulieu was ineffective_ had collapsed.
 
@@ -2103,7 +2103,7 @@ army lay east of Savona. He therefore made Voltri the objective of a
 converging attack, not with the intention of destroying the French army
 but with that of "cutting its communications with Genoa," and expelling
 it from "the only place in the Riviera where there were sufficient ovens
-to bake its bread." (Beaulieu to the Aulic Council, 15 April.) The
+to [[Bake|bake]] its bread." (Beaulieu to the Aulic Council, 15 April.) The
 Sardinians and auxiliary Austrians were ordered to extend leftwards on
 Dego to close the gap that Beaulieu's advance on Genoa-Voltri opened up,
 which they did, though only half-heartedly and in small force, for,
@@ -2119,13 +2119,13 @@ operation against granaries and bakeries became the first act of a
 decisive campaign.
 
 On the night of the 9th of April the French were grouped as follows:
-brigades under Garnier and Macquard at the Finestre and Tenda passes,
+brigades under [[Garnier]] and Macquard at the Finestre and Tenda passes,
 Serurier's division and Rusca's brigade east of Garessio; Augereau's
 division about Loano, Meynier's at Finale, Laharpe's at Savona with an
 outpost on the Monte Legino, and Cervoni's brigade at Voltri. Massena
 was in general charge of the last-named units. The cavalry was far in
 rear beyond Loano. Colli's army, excluding the troops in the valleys
-that led into Dauphine, was around Coni and Mondovi-Ceva, the latter
+that led into [[Dauphine]], was around Coni and Mondovi-Ceva, the latter
 group connecting with Beaulieu by a detachment under Provera between
 Millesimo and Carcare. Of Beaulieu's army, Argenteau's division, still
 concentrating to the front in many small bodies, extended over the area
@@ -2268,7 +2268,7 @@ compared with Colli's unbeaten and now fairly concentrated army about
 Ceva and Montezemolo.
 
 On the afternoon of the 16th the real advance was begun by Augereau's
-division, reinforced by other troops. Rusca joined Augereau towards
+division, reinforced by other troops. Rusca joined [[Augereau]] towards
 evening, and Serurier approached Ceva from the south. Colli's object was
 now to spin out time, and having repulsed a weak attack by Augereau, and
 feeling able to repeat these tactics on each successive spur of the
@@ -2278,7 +2278,7 @@ side, and by the news that no enemy remained at Sassello, Bonaparte
 released Massena from Dego, leaving only Laharpe there, and brought him
 over towards the right of the main body, which thus on the evening of
 the 17th formed a long straggling line on both sides of Ceva, Serurier
-on the left, echeloned forward, Augereau, Joubert and Rusca in the
+on the left, echeloned forward, Augereau, [[Joubert]] and Rusca in the
 centre, and Massena, partly as support, partly as flank guard, on
 Augereau's right rear. Serurier had been bidden to extend well out and
 to strive to get contact with Massena, i.e. to encircle the enemy. There
@@ -2326,7 +2326,7 @@ But Colli halted again at Vico, half-way to Mondovi (in order, it is
 said, to protect the evacuation of a small magazine he had there), and
 while he was in this unfavourable situation the pursuers came on with
 true Republican swiftness, lapped round his flanks and crushed him. A
-few days later (27th April), the armistice of Cherasco put an end to the
+few days later (27th April), the [[Armistice|armistice]] of Cherasco put an end to the
 campaign before the Austrians moved a single battalion to his
 assistance.
 
@@ -2399,7 +2399,7 @@ assistance.
   all_ as an army. But on the news from Voltri and Monte Legino he
   swiftly "concentrated fire, made the breach, and broke the
   equilibrium" at the spot where the interests and forces of the two
-  Allies converged and diverged. The hypothesis in the first case was
+  Allies converged and diverged. The [[Hypothesis|hypothesis]] in the first case was
   that the Austrians were practically non-existent, and the whole object
   in the second was to breach the now connected front of the Allies
   ("strategic penetration") and to cause them to break up into two
@@ -2423,7 +2423,7 @@ assistance.
   in a position of relative superiority (at first about 3 to 2 and
   ultimately 2 to 1) to the immediate antagonist. "The essence of
   strategy," said Napoleon in 1797, "is, with a weaker army, always to
-  have more force at the crucial point than the enemy. But this art is
+  have more force at the [[Crucial|crucial]] point than the enemy. But this art is
   taught neither by books nor by practice; it is a matter of tact." In
   this he expressed the result of his victories on his own mind rather
   than a preconceived formula which produced those victories. But the
@@ -2510,7 +2510,7 @@ picked body of troops, set out for a forced march on Piacenza, and that
 night the advanced guard was 30 m. on the way, at Castel San Giovanni,
 and Laharpe's and the cavalry divisions at Stradella, 10 m. behind them.
 Augereau was at Broni, Massena at Sale and Serurier near Valenza, the
-whole forming a rapidly extending fan, 50 m. from point to point. If the
+whole forming a rapidly extending [[Fan|fan]], 50 m. from point to point. If the
 Piacenza detachment succeeded in crossing, the army was to follow
 rapidly in its track. If, on the other hand, Beaulieu fell back to
 oppose the advanced guard, the Valenza divisions would take advantage of
@@ -2521,7 +2521,7 @@ On the morning of the 7th, the swift advanced guard under General
 Dallemagne crossed at Piacenza,[11] and, hearing of this, Bonaparte
 ordered every division except Serurier's thither with all possible
 speed. In the exultation of the moment he mocked at Beaulieu's
-incapacity, but the old Austrian was already on the alert. This game of
+incapacity, but the old Austrian was already on the alert. This [[Game|game]] of
 manoeuvres he understood; already one of his divisions had arrived in
 close proximity to Dallemagne and the others were marching eastward by
 all available roads. It was not until the 8th that the French, after a
@@ -2596,7 +2596,7 @@ successful and too sanguine young general, ordered him to turn over the
 command in Upper Italy to Kellermann, and to take an expeditionary corps
 himself into the heart of the Peninsula, there to preach the Republic
 and the overthrow of princes. Napoleon absolutely refused, and offered
-his resignation. In the end (partly by bribery) he prevailed, but the
+his resignation. In the end (partly by [[Bribery|bribery]]) he prevailed, but the
 incident reawakened his desire to close with Beaulieu. This indeed he
 could now do with a free hand, since not only had the Milanese been
 effectively occupied, but also the treaty with Sardinia had been
@@ -2612,7 +2612,7 @@ and ruthlessly. Bringing back a small portion of the army with him, he
 punished Milan on the 25th, sacked and burned Binasco on the 26th, and
 on the evening of the latter day, while his cavalry swept the open
 country, he broke his way into Pavia with 1500 men and beat down all
-resistance. Napoleon's cruelty was never purposeless. He deported
+resistance. Napoleon's [[Cruelty|cruelty]] was never purposeless. He deported
 several scores of hostages to France, executed most of the mob leaders,
 and shot the French officer who had surrendered. In addition, he gave
 his 1500 men three hours' leave to pillage. Then, as swiftly as they had
@@ -2634,7 +2634,7 @@ postponed, and the Army of Italy (now reinforced from the Army of the
 Alps and counting 42,000 effectives) was again disposed in a protective
 "zone of manoeuvre," with a strong central reserve. Over 8000 men,
 however, garrisoned the fortresses of Piedmont and Lombardy, and the
-effective blockade of Mantua and political expeditions into the heart of
+effective [[Blockade|blockade]] of Mantua and political expeditions into the heart of
 the Peninsula soon used up the whole of this reserve.
 
 Moreover, no siege artillery was available until the Austrians in the
@@ -2646,12 +2646,12 @@ began his advance from Trent with 55,000 men to relieve Mantua.
   Siege of Mantua.
 
 The protective system on which his attack would fall in the first
-instance was now as follows:--Augereau (6000) about Legnago, Despinoy
+instance was now as follows:--Augereau (6000) about [[Legnago]], Despinoy
 (8000) south-east of Verona, Massena (13,000) at Verona and Peschiera,
 with outposts on the Monte Baldo and at La Corona, Sauret (4500) at Salo
 and Gavardo. Serurier (12,000) was besieging Mantua, and the only
 central reserve was the cavalry (2000) under Kilmaine. The main road to
-Milan passed by Brescia. Sauret's brigade, therefore, was practically a
+Milan passed by [[Brescia]]. Sauret's brigade, therefore, was practically a
 detached post on the line of communication, and on the main defensive
 front less than 30,000 men were disposed at various points between La
 Corona and Legnago (30 m. apart), and at a distance of 15 to 20 m. from
@@ -2659,7 +2659,7 @@ Mantua. The strength of such a disposition depended on the fighting
 power and handiness of the troops, who in each case would be called upon
 to act as a rearguard to gain time. Yet the lie of the country scarcely
 permitted a closer grouping, unless indeed Bonaparte fell back on the
-old-time device of a "circumvallation," and shut himself up, with the
+old-time device of a "[[Circumvallation|circumvallation]]," and shut himself up, with the
 supplies necessary for the calculated duration of the siege, in an
 impregnable ring of earthworks round Mantua. This, however, he could not
 have done even if he had wished, for the wave of revolt radiating from
@@ -2695,7 +2695,7 @@ Positions of the night of 2-3 August 1796 shown approximately.]
   undeniably succeeded.
 
 The Austrians formed three corps, one (Quasdanovich, 18,000 men)
-marching round the west side of the Lake of Garda on Gavardo, Salo and
+marching round the west side of the Lake of [[Garda]] on Gavardo, Salo and
 the Brescia road, the second (under Wurmser, about 30,000) moving
 directly down the Adige, and the third (Davidovich, 6000) making a
 detour by the Brenta valley and heading for Verona by Vicenza.
@@ -2862,7 +2862,7 @@ this plan, Bonaparte, though protesting against an Alpine venture being
 made so late in the year, prepared to execute, drawing in reinforcements
 and collecting great quantities of supplies in boats on the Adige and
 Lake Garda. Wurmser was thought to have posted his main body near Trent,
-and to have detached one division to Bassano "to cover Trieste." The
+and to have detached one division to [[Bassano]] "to cover Trieste." The
 French advanced northward on the 2nd, in three disconnected columns
 (precisely as Wurmser had done in the reverse direction at the end of
 July)--Massena (13,000) from Rivoli to Ala, Augereau (9000) from Verona
@@ -2883,7 +2883,7 @@ army in the struggle for the preservation of a fortress, and we must
 conclude that there were weighty reasons which actuated so notoriously
 cautious a body as the Council of War in making this unconditional
 venture. While Mantua stood, Napoleon, for all his energy and
-sanguineness, could not press forward into Friuli and Carniola, and
+sanguineness, could not press forward into [[Friuli]] and [[Carniola]], and
 immunity from a Republican visitation was above all else important for
 the Vienna statesmen, governing as they did more or less discontented
 and heterogeneous populations that had not felt the pressure of war for
@@ -2898,7 +2898,7 @@ magnitude. The only practicable alternative was to strengthen Mantua as
 opportunities offered themselves, and to prolong the passive resistance
 as much as possible. Napoleon's own practice in providing for secondary
 theatres of war was to economize forces and to delay a decision, and the
-fault of the Austrians, viewed from a purely military standpoint, was
+[[Fault|fault]] of the Austrians, viewed from a purely military standpoint, was
 that they squandered, instead of economizing, their forces to gain time.
 If we neglect pure theory, and regard strategy as the handmaiden of
 statesmanship--which fundamentally it is--we cannot condemn the Vienna
@@ -3005,7 +3005,7 @@ reserves had proved insufficient, and Kilmaine had to be called up from
 Mantua, which was thus for the third time freed from the blockaders.
 Again the alternatives were retreat, in whatever order was possible to
 Republican armies, and beating the nearest enemy at any sacrifice.
-Napoleon chose the latter, though it was not until the evening of the
+Napoleon [[Chose|chose]] the latter, though it was not until the evening of the
 14th that he actually issued the fateful order.
 
 The Austrians, too, had selected the 15th as the date of their final
@@ -3019,16 +3019,16 @@ himself from their convoys, to fight to the last. On the 15th he had
 written to the Directory, "The weakness and the exhaustion of the army
 causes me to fear the worst. We are perhaps on the eve of losing Italy."
 In this extremity of danger the troops passed the Adige in three columns
-near Ronco and Albaredo, and marched forward along the dikes, with deep
+near Ronco and Albaredo, and marched forward along the [[Dike|dikes]], with deep
 marshes and pools on either hand. If Napoleon's intention was to reach
-the dry open ground of S. Bonifacio in rear of the Austrians, it was not
+the dry open ground of S. [[Bonifacio]] in rear of the Austrians, it was not
 realized, for the Austrian army, instead of being at the gates of
 Verona, was still between Caldiero and S. Bonifacio, heading, as we
 know, for Zevio. Thus Alvintzi was able, easily and swiftly, to wheel to
 the south.
 
 
-  Arcola.
+  [[Arcola]].
 
 The battle of Arcola almost defies description. The first day passed in
 a series of resultless encounters between the heads of the columns as
@@ -3036,7 +3036,7 @@ they met on the dikes. In the evening Bonaparte withdrew over the Adige,
 expecting at every moment to be summoned to Vaubois's aid. But
 Davidovich remained inactive, and on the 16th the French again crossed
 the river. Massena from Ronco advanced on Porcile, driving the Austrians
-along the causeway thither, but on the side of Arcola, Alvintzi had
+along the [[Causeway|causeway]] thither, but on the side of Arcola, Alvintzi had
 deployed a considerable part of his forces on the edge of the marshes,
 within musket shot of the causeway by which Bonaparte and Augereau had
 to pass, along the Austrian front, to reach the bridge of Arcola. In
@@ -3072,7 +3072,7 @@ spirit on the first day, and yet on the second and third Bonaparte had
 so thoroughly imbued them with his own will to conquer that in the end
 they prevailed over an enemy nearly twice their own strength.
 
-The climax was reached just in time, for on the 17th Vaubois was
+The [[Climax|climax]] was reached just in time, for on the 17th Vaubois was
 completely defeated at Rivoli and withdrew to Peschiera, leaving the
 Verona and Mantua roads completely open to Davidovich. But on the 19th
 Napoleon turned upon him, and combining the forces of Vaubois, Massena
@@ -3119,7 +3119,7 @@ Castelnuovo, where Victor joined him, and ahead of them both Massena was
 hurried on to Rivoli. Napoleon himself joined Joubert on the night of
 the 13th. There he saw the watch-fires of the enemy in a semicircle
 around him, for Alvintzi, thinking that he had only to deal with one
-division, had begun a widespread enveloping attack. The horns of this
+division, had begun a widespread enveloping attack. The [[Horn|horns]] of this
 attack were as yet so far distant that Napoleon, instead of extending on
 an equal front, only spread out a few regiments to gain an hour or two
 and to keep the ground for Massena and Rey, and on the morning of
@@ -3170,7 +3170,7 @@ hold a much larger force of the enemy.
   with it what was left of Wurmser's army, surrendered.
 
 
-    Leoben.
+    [[Leoben]].
 
   The campaign of 1797, which ended the war of the First Coalition, was
   the brilliant sequel of these hard-won victories. Austria had decided
@@ -3210,13 +3210,13 @@ hold a much larger force of the enemy.
   _History_; NAPOLEON, &c.). A very brief summary must here suffice.
   Napoleon left Toulon on the 19th of May 1798, at the same time as his
   army (40,000 strong in 400 transports) embarked secretly at various
-  ports. Nelson's fleet was completely evaded, and, capturing Malta _en
+  ports. Nelson's fleet was completely evaded, and, capturing [[Malta]] _en
   route_, the armada reached the coast of Egypt on the 1st of July. The
   republicans stormed Alexandria on the 2nd. Between Embabeh and Gizeh,
   on the left bank of the Nile, 60,000 Mamelukes were defeated and
   scattered on the 21st (battle of the Pyramids), the French for the
   most part marching and fighting in the chequer of infantry squares
-  that afterwards became the classical formation for desert warfare.
+  that afterwards became the classical formation for [[Desert|desert]] warfare.
   While his lieutenants pursued the more important groups of the enemy,
   Napoleon entered Cairo in triumph, and proceeded to organize Egypt as
   a French protectorate. Meantime Nelson, though too late to head off
@@ -3244,7 +3244,7 @@ hold a much larger force of the enemy.
   transport for the army back to France. But this convention was
   disavowed by the British government, and Kleber prepared to hold his
   ground. On the 20th of March 1800 he thoroughly defeated the Turkish
-  army at Heliopolis and recovered Cairo, and French influence was once
+  army at [[Heliopolis]] and recovered Cairo, and French influence was once
   more in the ascendant in Egypt, when its director was murdered by a
   fanatic on the 14th of June, the day of Marengo. Kleber's successor,
   the incompetent Menou, fell an easy victim to the British
@@ -3252,11 +3252,11 @@ hold a much larger force of the enemy.
   forced their way ashore at Aboukir on the 8th of March. On the 21st,
   Abercromby won a decisive battle, and himself fell in the hour of
   victory (see ALEXANDRIA: _Battle of 1801_). His successor, General
-  Hely Hutchinson, slowly followed up this advantage, and received the
+  Hely [[Hutchinson]], slowly followed up this advantage, and received the
   surrender of Cairo in July and of Alexandria in August, the debris of
   the French army being given free passage back to France. Meantime a
   mixed force of British and native troops from India, under Sir David
-  Baird, had landed at Kosseir and marched across the desert to Cairo.
+  [[Baird]], had landed at Kosseir and marched across the desert to Cairo.
 
 
 THE WAR OF THE SECOND COALITION
@@ -3271,13 +3271,13 @@ Coalition. The war began with an advance into the Roman States by a
 worthless and ill-behaved Neapolitan army (commanded, much against his
 will, by Mack), which the French troops under Championnet destroyed with
 ease. Championnet then revolutionized Naples. After this unimportant
-prelude the curtain rose on a general European war. The Directory which
+prelude the [[Curtain|curtain]] rose on a general European war. The Directory which
 now had at its command neither numbers nor enthusiasm, prepared as best
 it could to meet the storm. Four armies, numbering only 160,000, were
 set on foot, in Holland (Brune, 24,000); on the Upper Rhine (Jourdan,
 46,000); in Switzerland, which had been militarily occupied in 1798
 (Massena, 30,000); and in upper Italy (Scherer, 60,000). In addition
-there was Championnet's army, now commanded by Macdonald, in southern
+there was Championnet's army, now commanded by [[Macdonald]], in southern
 Italy. All these forces the Directory ordered, in January and February
 1799, to assume the offensive.
 
@@ -3304,15 +3304,15 @@ The French secondary army in Switzerland was in the hands of the bold
 and active Massena. The forces of both sides in the Alpine region were,
 from a military point of view, mere flank guards to the main armies on
 the Rhine and the Adige. But unrest, amounting to civil war, among the
-Swiss and Grison peoples tempted both governments to give these flank
+Swiss and [[Grison]] peoples tempted both governments to give these flank
 guards considerable strength.[13]
 
 
   Massena in Switzerland.
 
-The Austrians in the Vorarlberg and Grisons were under Hotze, who had
+The Austrians in the Vorarlberg and [[Grisons]] were under Hotze, who had
 13,000 men at Bregenz, and 7000 commanded by Auffenberg around Chur,
-with, between them, 5000 men at Feldkirch and a post of 1000 in the
+with, between them, 5000 men at [[Feldkirch]] and a post of 1000 in the
 strong position of the Luziensteig near Mayenfeld. Massena's available
 force was about 20,000, and he used almost the whole of it against
 Auffenberg. The Rhine was crossed by his principal column near
@@ -3325,14 +3325,14 @@ meanwhile holding off Hotze by a hard-fought combat at Feldkirch (March
 15,000 men was repulsed and the advance of his left wing came to a
 standstill.
 
-Behind Auffenberg and Hotze was Bellegarde in Tirol with some 47,000
-men. Most of these were stationed north of Innsbruck and Landeck,
+Behind Auffenberg and Hotze was [[Bellegarde]] in Tirol with some 47,000
+men. Most of these were stationed north of [[Innsbruck]] and Landeck,
 probably as a sort of strategic reserve to the archduke. The rest, with
 the assistance of the Tirolese themselves, were to ward off irruptions
 from Italy. Here the French offensive was entrusted to two columns, one
 from Massena's command under Lecourbe, the other from the Army of Italy
 under Dessolle. Simultaneously with Massena, Lecourbe marched from
-Bellinzona with 10,000 men, by the San Bernadino pass into the Splugen
+[[Bellinzona]] with 10,000 men, by the San Bernadino pass into the Splugen
 valley, and thence over the Julier pass into the upper Engadine. A small
 Austrian force under Major-General Loudon attacked him near Zernetz, but
 was after three days of rapid manoeuvres and bold tactics driven back to
@@ -3413,7 +3413,7 @@ feelings can be imagined--how to attack with the bayonet, his next to
 order the whole army forward. The Allies broke camp on the 17th, 18th
 and 19th of April, and on the 20th, after a forced march of close on 30
 m., they passed the Chiese. Brescia had a French garrison, but Suvarov
-soon cowed it into surrender by threats of a massacre, which no one
+soon cowed it into surrender by threats of a [[Massacre|massacre]], which no one
 doubted that he would carry into execution. At the same time,
 dissatisfied with the marching of the Austrian infantry, he sent the
 following characteristic reproof to their commander: "The march was in
@@ -3441,7 +3441,7 @@ of the exactions of their commissaries. The strange Cossack cavalry that
 western Europe had never yet seen entered Milan on the 29th of April,
 eleven days after passing the Mincio, and next day the city received
 with enthusiasm the old field marshal, whose exploits against the Turks
-had long invested him with a halo of romance and legend. Here, for the
+had long invested him with a [[Halo|halo]] of romance and legend. Here, for the
 moment, his offensive culminated. He desired to pass into Switzerland
 and to unite his own, the archduke's, Hotze's and Bellegarde's armies in
 one powerful mass. But the emperor would not permit the execution of
@@ -3456,7 +3456,7 @@ reason of losses and detachments for sieges, to half that number, and
 serious differences arose between the Vienna government and himself. If
 he offended the pride of the Austrian army, he was at least respected as
 a leader who gave it victories, but in Vienna he was regarded as a
-madman who had to be kept within bounds. But at last, when he was
+madman who had to be kept within [[Bounds|bounds]]. But at last, when he was
 becoming thoroughly exasperated by this treatment, Macdonald came within
 striking distance and the active campaign recommenced. In the second
 week of June, Moreau, who had retired into the Apennines about Gavi,
@@ -3476,7 +3476,7 @@ detachments, he manoeuvred them in the Napoleonic fashion.
   The Trebbia.
 
 On the 14th Macdonald was calculated to be between Modena, Reggio and
-Carpi, but his destination was uncertain. Would he continue to hug the
+[[Carpi]], but his destination was uncertain. Would he continue to [[Hug|hug]] the
 Apennines to join Moreau, or would he strike out northwards against
 Kray, who with 20,000 men was besieging Mantua? From Alessandria it is
 four marches to Piacenza and nine to Mantua, while from Reggio these
@@ -3534,7 +3534,7 @@ the Rhine between Mayenfeld and Chur, and their wholly victorious right
 far within Tirol between Glurns, Nauders and Landeck. But neither the
 centre nor the right could maintain itself. The forward impulse given by
 Suvarov spread along the whole Austrian front from left to right.
-Dessolles' column (now under Loison) was forced back to Chiavenna.
+Dessolles' column (now under Loison) was forced back to [[Chiavenna]].
 Bellegarde drove Lecourbe from position to position towards the Rhine
 during April. There Lecourbe added to the remnant of his expeditionary
 column the outlying bodies of Massena's right wing, but even so he had
@@ -3613,7 +3613,7 @@ to continue it, the Vienna government desired him to return to Germany.
 An Anglo-Russian expedition was about to land in Holland,[14] and the
 French were assembling fresh forces on the Rhine, and, with the double
 object of preventing an invasion of South Germany and of inducing the
-French to augment their forces in Alsace at the expense of those in
+French to [[Augment|augment]] their forces in Alsace at the expense of those in
 Holland, the archduke left affairs in Switzerland to Hotze and Korsakov,
 and marched away with 35,000 men to join the detachment of Sztarray
 (20,000) that he had placed in the Black Forest before entering
@@ -3718,7 +3718,7 @@ the Devil's Bridge. Discovering this, he left the road, threw his guns
 into the river and made his way by fords and water-meadows to Goschenen,
 where by a furious attack he cleared the Disentis troops off his line of
 retreat. His rearguard meantime held the ruined Devil's Bridge. This
-point and the tunnel leading to it, called the Urner Loch, the Russians
+point and the tunnel leading to it, called the Urner [[Loch]], the Russians
 attempted to force, with the most terrible losses, battalion after
 battalion crowding into the tunnel and pushing the foremost ranks into
 the chasm left by the broken bridge. But at last a ford was discovered
@@ -3758,14 +3758,14 @@ Bonaparte, who returned from Egypt with the prestige of a recent
 victory, in his natural place as civil and military head of France. In
 the course of the campaign the field strength of the French had been
 gradually augmented, and in spite of losses now numbered 227,000 at the
-front. These were divided into the Army of Batavia, Brune (25,000), the
+front. These were divided into the Army of [[Batavia]], Brune (25,000), the
 Army of the Rhine, Moreau (146,000), the Army of Italy, Massena
 (56,000), and, in addition, there were some 100,000 in garrisons and
 depots in France.
 
 Most of these field armies were in a miserable condition owing to the
 losses and fatigues of the last campaign. The treasury was empty and
-credit exhausted, and worse still--for spirit and enthusiasm, as in
+[[Credit|credit]] exhausted, and worse still--for spirit and enthusiasm, as in
 1794, would have remedied material deficiencies--the conscripts obtained
 under Jourdan's law of 1798 (see CONSCRIPTION) came to their regiments
 most unwillingly. Most of them, indeed, deserted on the way to join the
@@ -3798,7 +3798,7 @@ division was formed from some depleted corps of the Army of Italy and
 from the depots of those in Egypt. Chambarlhac's, chiefly of young
 soldiers, lost 5% of its numbers on the way to Dijon from desertion--a
 loss which appeared slight and even satisfactory after the wholesale
-_debandade_ of the winter months. Lechi's Italian legion was newly
+_debandade_ of the winter months. Lechi's Italian [[Legion|legion]] was newly
 formed from Italian refugees. Boudet's division was originally assembled
 from some of the southern garrison towns, but the units composing it
 were frequently changed up to the beginning of May. The cavalry was
@@ -3813,16 +3813,16 @@ imagine one which required more accurate and detailed staff work to
 assemble it--correspondence with the district commanders, with the
 adjutant-generals of the various armies, and orders to the civil
 authorities on the lines of march, to the troops themselves and to the
-arsenals and magazines. No one but Napoleon, even aided by a Berthier,
+arsenals and magazines. No one but Napoleon, even aided by a [[Berthier]],
 could have achieved so great a task in six weeks, and the great captain,
-himself doing the work that nowadays is apportioned amongst a crowd of
+himself doing the work that nowadays is apportioned amongst a [[Crowd|crowd]] of
 administrative staff officers, still found time to administer France's
 affairs at home and abroad, and to think out a general plan of campaign
 that embraced Moreau's, Massena's and his own armies.
 
 The Army of the Rhine, by far the strongest and best equipped, lay on
 the upper Rhine. The small and worn-out Army of Italy was watching the
-Alps and the Apennines from Mont Blanc to Genoa. Between them
+Alps and the Apennines from Mont [[Blanc]] to Genoa. Between them
 Switzerland, secured by the victory of Zurich, offered a starting-point
 for a turning movement on either side--this year the advantage of the
 flank position was recognized and acted upon. The Army of Reserve was
@@ -3831,7 +3831,7 @@ general plan was that the Army of Reserve should march through
 Switzerland to close on the right wing of the Army of the Rhine. Thus
 supported to whatever degree might prove to be necessary, Moreau was to
 force the passage of the Rhine about Schaffhausen, to push back the
-Austrians rapidly beyond the Lech, and then, if they took the offensive
+Austrians rapidly beyond the [[Lech]], and then, if they took the offensive
 in turn, to hold them in check for ten or twelve days. During this
 period of guaranteed freedom the decisive movement was to be made. The
 Army of Reserve, augmented by one large corps of the Army of the Rhine,
@@ -3906,7 +3906,7 @@ of the French appeared before it on the 19th, and after three wasted
 days the infantry managed to find a difficult mountain by-way and to
 pass round the obstacle. Ivrea was occupied on the 23rd, and Napoleon
 hoped to assemble the whole army there by the 27th. But except for a few
-guns that with infinite precautions were smuggled one by one through the
+guns that with [[Infinite|infinite]] precautions were smuggled one by one through the
 streets of Bard, the whole of the artillery, as well as a detachment
 (under Chabran) to besiege the fort, had to be left behind. Bard
 surrendered on the 2nd of June, having delayed the infantry of the
@@ -3927,7 +3927,7 @@ had passed over the Mont Cenis and was now in the valley of the Dora
 Riparia, Moncey's corps of the Army of the Rhine, which had at last been
 extorted from Moreau and was due to pass the St Gothard before the end
 of May, Chabran's division left to besiege Bard, and a small force under
-Bethencourt, which was to cross the Simplon and to descend by Arona
+[[Bethencourt]], which was to cross the Simplon and to descend by Arona
 (this place proved in the event a second Bard and immobilized
 Bethencourt until after the decisive battle). Thus it was only the
 simplest part of Napoleon's task to concentrate half of his army at
@@ -3943,7 +3943,7 @@ guidance, the First Consul ordered Lannes (advanced guard) to push out
 on the Turin road, "in order to deceive the enemy and to obtain news of
 Turreau," and Duhesme's and Murat's corps to proceed along the Milan
 road. On the 27th, after Lannes had on the 26th defeated an Austrian
-column near Chivasso, the main body was already advancing on Vercelli.
+column near [[Chivasso]], the main body was already advancing on Vercelli.
 
 
     The march to Milan.
@@ -3955,7 +3955,7 @@ column near Chivasso, the main body was already advancing on Vercelli.
   Correspondence_, v. 30, pp. 375-377), in itself an unconvincing appeal
   to the rules of strategy as laid down by the theorists--which rules
   his own practice throughout transcended--gives, when closely examined,
-  some at least of the necessary clues. He says in effect that by
+  some at least of the necessary [[Clue|clues]]. He says in effect that by
   advancing directly on Turin he would have "risked a battle against
   equal forces without an assured line of retreat, Bard being still
   uncaptured." It is indeed strange to find Napoleon shrinking before
@@ -4028,7 +4028,7 @@ leaving a small force to combine with Turreau (whose column had not been
 able to advance into the plain) in demonstrations towards Turin, he
 moved off, still acting as right flank guard to the army, in the
 direction of Pavia. The main body meanwhile, headed by Murat, advanced
-on Milan by way of Vercelli and Magenta, forcing the passage of the
+on Milan by way of Vercelli and [[Magenta]], forcing the passage of the
 Ticino on the 31st of May at Turbigo and Buffalora. On the same day the
 other divisions closed up to the Ticino,[19] and faithful to his
 principles Napoleon had an examination made of the little fortress of
@@ -4038,8 +4038,8 @@ occupied Milan, and in the evening of the same day the headquarters
 entered the great city, the Austrian detachment under Vukassovich (the
 flying right wing of Melas's general cordon system in Piedmont) retiring
 to the Adda. Duhesme's corps forced that river at Lodi, and pressed on
-with orders to organize Crema and if possible Orzinovi as temporary
-fortresses. Lechi's Italians were sent towards Bergamo and Brescia.
+with orders to organize [[Crema]] and if possible Orzinovi as temporary
+fortresses. Lechi's Italians were sent towards [[Bergamo]] and Brescia.
 Lannes meantime had passed Vercelli, and on the evening of the 2nd his
 cavalry reached Pavia, where, as at Milan, immense stores of food,
 equipment and warlike stores were seized.
@@ -4119,7 +4119,7 @@ excepted) were hurried towards Lannes's point of passage, as Murat had
 not yet secured Piacenza. On the 7th, while Duhesme continued to push
 back Vukassovich and seized Cremona, Murat at last captured Piacenza,
 finding there immense magazines. Meantime the army, division by
-division, passed over, slowly owing to a sudden flood, near Belgiojoso,
+division, passed over, slowly owing to a sudden [[Flood|flood]], near Belgiojoso,
 and Lannes's advanced guard was ordered to open communication with Murat
 along the main road Stradella-Piacenza. "Moments are precious" said the
 First Consul. He was aware that Elsnitz was retreating before Suchet,
@@ -4322,7 +4322,7 @@ reassembled his forces, hitherto scattered in a long weak line from the
 Neckar to Schaffhausen. Moreau continued his advance, extending his
 forces up to and over the Danube below Ulm, and winning several combats,
 of which the most important was that of Hochstadt, fought on the famous
-battlegrounds of 1703 and 1704, and memorable for the death of La Tour
+battlegrounds of 1703 and 1704, and memorable for the death of [[La Tour]]
 d'Auvergne, the "First Grenadier of France" (June 19). Finding himself
 in danger of envelopment, Kray now retired, swiftly and skilfully,
 across the front of the advancing French, and reached Ingolstadt in
@@ -4363,7 +4363,7 @@ afforded him by the archduke's halt, Moreau was able to see clearly into
 the enemy's plans and dispositions. On the 3rd of December, while the
 Austrians in many disconnected columns were struggling through the dark
 and muddy forest paths about Hohenlinden, Moreau struck the decisive
-blow. While Ney and Grouchy held fast the head of the Austrian main
+blow. While Ney and [[Grouchy]] held fast the head of the Austrian main
 column at Hohenlinden, Richepanse's corps was directed on its left
 flank. In the forest Richepanse unexpectedly met a subsidiary Austrian
 column which actually cut his column in two. But profiting by the
@@ -4415,9 +4415,9 @@ Napoleonic Wars.
   Scharnhorst, _Ursache des Glucks der Franzosen 1793-1794_ (reprinted
   in A. Weiss's _Short German Military Readings_, London, 1892); E.
   D'Hauterive, _L'Armee sous la Revolution_; C. Rousset, _Les
-  Volontaires_; Max Jahns, _Das franzosische Heer_; Shadwell, _Mountain
+  Volontaires_; Max [[Jahn|Jahns]], _Das franzosische [[Heer]]_; Shadwell, _Mountain
   Warfare_; works of Colonel Camon (_Guerre Napoleonienne_, &c.);
-  Austrian War Office, Krieg gegen die franz. Revolution 1792-1797
+  Austrian War Office, Krieg gegen die [[Franz|franz]]. Revolution 1792-1797
   (Vienna, 1905); Archduke Charles, _Grundsatze der Strategie_ (1796
   campaign in Germany), and _Gesch. des Feldzuges 1799 in Deutschl. und
   der Schweiz_; v. Zeissberg, _Erzherzog Karl_; the old history called
@@ -4432,7 +4432,7 @@ Napoleonic Wars.
 
 NAVAL OPERATIONS
 
-The naval side of the wars arising out of the French Revolution was
+The naval side of the wars arising out of the [[French Revolution]] was
 marked by unity, and even by simplicity. France had but one serious
 enemy, Great Britain, and Great Britain had but one purpose, to beat
 down France. Other states were drawn into the strife, but it was as the
@@ -4440,7 +4440,7 @@ allies, the enemies and at times the victims, of the two dominating
 powers. The field of battle was the whole expanse of the ocean and the
 landlocked seas. The weapons, the methods and the results were the same.
 When a general survey of the whole struggle is taken, its unity is
-manifest. The Revolution produced a profound alteration in the
+[[Manifest|manifest]]. The Revolution produced a profound alteration in the
 government of France, but none in the final purposes of its policy. To
 secure for France its so-called "natural limits"--the Rhine, the Alps,
 the Pyrenees and the ocean; to protect both flanks by reducing Holland
@@ -4457,7 +4457,7 @@ operating against the Austrians and their allies in northern Italy. In
 December Latouche Treville was sent with another squadron to cow the
 Bourbon rulers of Naples. The extreme feebleness of their opponents
 alone saved the French from disaster. Mutinies, which began within ten
-days of the storming of the Bastille (14th of July 1789), had
+days of the storming of the [[Bastille]] (14th of July 1789), had
 disorganized their navy, and the effects of these disorders continued to
 be felt so long as the war lasted. In February 1793 war broke out with
 Great Britain and Holland. In March Spain was added to the list of the
@@ -4469,9 +4469,9 @@ few diminutive and ill-appointed squadrons, manned by mutinous crews,
 which kept close to the coast. The British navy was in excellent order,
 but the many calls made on it for the protection of world-wide commerce
 and colonial possessions caused the operations in the Channel to be
-somewhat languid. Lord Howe cruised in search of the enemy without being
+somewhat languid. [[Lord Howe]] cruised in search of the enemy without being
 able to bring them to action. The severe blockade which in the later
-stages of the war kept the British fleet permanently outside of Brest
+stages of the war kept the British fleet permanently outside of [[Brest]]
 was not enforced in the earlier stages. Lord Howe preferred to save his
 fleet from the wear and tear of perpetual cruising by maintaining his
 headquarters at St Helens, and keeping watch on the French ports by
@@ -4513,7 +4513,7 @@ the blackest pages of the French Revolution. The Spanish fleet took no
 further part in the war. Lord Hood now turned to the occupation of
 Corsica, where the intervention of the British fleet was invited by the
 patriotic party headed by Pascual Paoli. The French ships left at Toulon
-were refitted and came to sea in the spring of 1794, but Admiral Martin
+were refitted and came to sea in the spring of 1794, but Admiral [[Martin]]
 who commanded them did not feel justified in giving battle, and his
 sorties were mere demonstrations. From the 25th of January 1794 till
 November 1796 the British fleet in the Mediterranean was mainly occupied
@@ -4536,7 +4536,7 @@ with France it was the natural policy of the British government to
 seize on its enemy's colonial possessions, not only because of their
 intrinsic value, but because they were the headquarters of active
 privateers. The occupation of the little fishing stations of St Pierre
-and Miquelon (14th May 1793) and of Pondicherry in the East Indies (23rd
+and Miquelon (14th May 1793) and of Pondicherry in the [[East Indies]] (23rd
 Aug. 1793) were almost formal measures taken at the beginning of every
 war. But the French West Indian islands possessed intrinsic strength
 which rendered their occupation a service of difficulty and hazard. In
@@ -4548,7 +4548,7 @@ a lively series of operations, in which there were some marked
 alternations of fortune, took place in and about Martinique and
 Guadaloupe. The British squadron, and the contingent of troops it
 carried, after a first repulse, occupied them both in March and April,
-together with Santa Lucia. A vigorous counter-attack was carried out by
+together with Santa [[Lucia]]. A vigorous counter-attack was carried out by
 the Terrorist Victor Hugues with ability and ferocity. Guadaloupe and
 Santa Lucia were recovered in August. Yet on the whole the British
 government was successful in its policy of destroying the French naval
@@ -4560,9 +4560,9 @@ menaced, in consequence of the advance of the French armies on land. The
 invasion of Holland in 1794 led to the downfall of the house of Orange,
 and the establishment of the Batavian Republic. War with Great Britain
 under French dictation followed in January 1795. In that year a British
-expedition under the command of Admiral Keith Elphinstone (afterwards
+expedition under the command of Admiral [[Keith]] [[Elphinstone]] (afterwards
 Lord Keith) occupied the Dutch colony at the Cape (August-September) and
-their trading station in Malacca. The British colonial empire was again
+their trading station in [[Malacca]]. The British colonial empire was again
 extended, and the command of the sea by its fleet confirmed. But the
 necessity to maintain a blockading force in the German Ocean imposed a
 fresh strain on its naval resources, and the hostility of Holland closed
@@ -4582,14 +4582,14 @@ attack on the heart of the British empire began to take shape. While
 Spain occupied one part of the British fleet to the south, and Holland
 another in the north, a French expedition, which was to have been aided
 by a Dutch expedition from the Texel, was prepared at Brest. The Dutch
-were confined to harbour by the vigilant blockade of Admiral Duncan,
+were confined to harbour by the vigilant blockade of Admiral [[Duncan]],
 afterwards Lord Camperdown. But in December 1796 a French fleet
-commanded by Admiral Morard de Galle, carrying 13,000 troops under
+commanded by Admiral Morard de [[Galle]], carrying 13,000 troops under
 General Hoche, was allowed to sail from Brest for Ireland, by the slack
 management of the blockade under Admiral Colpoys. Being ill-fitted,
 ill-manned and exposed to constant bad weather the French ships were
 scattered. Some reached their destination, Bantry Bay, only to be driven
-out again by north-easterly gales. The expedition finally returned after
+out again by north-easterly [[Gale|gales]]. The expedition finally returned after
 much suffering, and in fragments, to Brest. Yet the year 1797 was one of
 extreme trial to Great Britain. The victory of Sir John Jervis over the
 Spaniards near Cape Saint Vincent on the 14th of February (see SAINT
@@ -4605,14 +4605,14 @@ fleet was for a time menaced in its very existence by a succession of
 mutinies, the result of much neglect of the undoubted grievances of the
 sailors. The victory of Camperdown, completing what the victory of Cape
 Saint Vincent had begun, seemed to put Great Britain beyond fear of
-invasion. But the government of the Republic was intent on renewing the
+invasion. But the government of the Republic was [[Intent|intent]] on renewing the
 attempt. The successes of Napoleon at the head of the army of Italy had
 reduced Austria to sign the peace of Campo Formio, on the 17th of
 October 1797, and he was appointed commander of the new army of
 invasion. It was still thought necessary to maintain the bulk of the
 British fleet in European waters, within call in the ocean. The
 Mediterranean was left free to the French, whose squadrons cruised in
-the Levant, where the Republic had become possessed of the Ionian
+the [[Levant]], where the Republic had become possessed of the Ionian
 Islands by the plunder of Venice. The absence of a British force in the
 Mediterranean offered to the government of the French Republic an
 alternative to an invasion of Great Britain or Ireland, which promised
@@ -4628,7 +4628,7 @@ the anchorage of Aboukir on the 1st of August gave it the complete
 command of the sea. A second invasion of Ireland on a smaller scale was
 attempted and to some extent carried out, while the great attack by
 Egypt was in progress. One French squadron of four frigates carrying
-1150 soldiers under General Humbert succeeded in sailing from Rochefort
+1150 soldiers under General [[Humbert]] succeeded in sailing from Rochefort
 on the 6th of August. On the 22nd Humbert was landed at Killala Bay, but
 after making a vigorous raid he was compelled to surrender at
 Ballinamuck on the 8th of September. Eight days after his surrender,
@@ -4657,7 +4657,7 @@ for the eastern Mediterranean. On the 13th of August he was back at
 Brest, bringing with him a Spanish squadron carried off as a hostage for
 the fidelity of the government at Madrid to its disastrous alliance with
 France. On the day on which Bruix re-entered Brest, the 13th of August
-1799, a combined Russian and British expedition sailed from the Downs to
+1799, a combined Russian and British expedition sailed from the [[Downs]] to
 attack the French army of occupation in the Batavian Republic. The
 military operations were unsuccessful, and terminated in the withdrawal
 of the allies. But the naval part was well executed. Vice-admiral
@@ -4668,7 +4668,7 @@ republic. In spite of the failure on land, the expedition did much to
 confirm the naval supremacy of Great Britain by the entire suppression
 of the most seamanlike of the forces opposed to it.
 
-  Authorities.--Chevalier, _Histoire de la marine francaise sous la
+  Authorities.--[[Chevalier]], _Histoire de la marine francaise sous la
   premiere Republique_ (Paris, 1886); James's _Naval History_ (London,
   1837); Captain Mahan, _Influence of Sea Power upon the French
   Revolution and the Empire_ (London, 1892). The French schemes of
@@ -4696,7 +4696,7 @@ FOOTNOTES:
     caught in the open at Avesnes-le-Sec by 5 squadrons of the allied
     cavalry and literally annihilated.
 
-  [5] One of the generals at Maubeuge, Chancel, was guillotined.
+  [5] One of the generals at Maubeuge, [[Chancel]], was guillotined.
 
   [6] Each of the fifteen armies on foot had been allotted certain
     departments as supply areas, Jourdan's being of course far away in

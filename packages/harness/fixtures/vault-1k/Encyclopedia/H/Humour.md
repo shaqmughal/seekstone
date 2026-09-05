@@ -72,19 +72,19 @@ begotten of the colder parts of the chylus (or white juice coming out of
 the meat digested in the stomach) in the liver. His office is to nourish
 and moisten the members of the body," &c. "Choler is hot and dry,
 begotten of the hotter parts of the chylus, and gathered to the gall. It
-helps the natural heat and senses. Melancholy, cold and dry, thick,
+[[Helps|helps]] the natural heat and senses. Melancholy, cold and dry, thick,
 black and sour, begotten of the more feculent part of nourishment, and
 purged from the spleen, is a bridle to the other two hot humours, blood
 and choler, preserving them in the blood, and nourishing the bones."
 Mention must also be made of serum, and of "those excrementitious
-humours of the third concoction, sweat and tears." An exact balance of
+humours of the third concoction, sweat and tears." An exact [[Balance|balance]] of
 the four primary humours makes the justly constituted man, and allows
 for the undisturbed production of the "concoctions"--or processes of
 digestion and assimilation. Literature seized upon these terms and
 definitions. Sometimes it applied them gravely in the moral and
 intellectual sphere. Thus the Jesuit Bouhours, a French critic of the
 17th century, in his _Entretiens d'Ariste et d'Eugene_, says that in the
-formation of a _bel esprit_, "La bile donne le brillant et la
+formation of a _[[Bel|bel]] esprit_, "La bile donne le brillant et la
 penetration, la melancolie donne le bon sens et la solidite; le sang
 donne l'agrement et la delicatesse." It was, in fact, taken for granted
 that the character and intellect of men were produced by--were, so to
@@ -250,7 +250,7 @@ at or despise in a still more contemptible or striking point of view."
 Hazlitt's definition will, indeed, not stand analysis. The element of
 comparison is surely as necessary for humour as for wit. Yet his
 classification is valuable as illustrating the growth of the meaning of
-the word. Observe that Hazlitt has transferred to wit that power of
+the word. Observe that [[Hazlitt]] has transferred to wit that power of
 pleasing as by a flattering sense of our own superiority which Goldsmith
 attributed to humour. He had not thought, and had not heard, that
 sympathy is necessary to complete humour. He cannot have thought it

@@ -6,7 +6,7 @@ topic: art
 
 # Fold
 
-FOLD, a pleat or bend in a flexible material, or a curve in any surface,
+FOLD, a pleat or [[Bend|bend]] in a flexible material, or a curve in any surface,
 whence its particular application in geology with which this article
 deals. The verb "to fold" (O. Eng. _fealdan_) meant originally to double
 back a piece of cloth or other material so as to form a pleat, whence
@@ -49,7 +49,7 @@ may be found descending to the surface again with a contrary dip, the
 intervening portion of the undulation having been worn away.
 
 [Illustration: FIG. 1.--Section of the Isle of Wight--a Monoclinal
-Curve, a, Chalk; b, Woolwich and Reading beds; c, London clay; d,
+Curve, a, Chalk; b, Woolwich and Reading beds; c, [[London Clay|London clay]]; d,
 Bagshot series; e, Headon series; f, g, Osborne and Bembridge series.]
 
 The curvature occasionally shows itself among horizontal or gently
@@ -58,7 +58,7 @@ immediate resumption of the previous flat or sloping character. The
 strata are thus bent up and continue on the other side of the tilt at a
 higher level. Such bends are called _monoclines_, _monoclinal folds_ or
 _flexures_, because they present only one fold, or one half of a fold,
-instead of the two which we see in an arch or trough. The most notable
+instead of the two which we see in an [[Arch|arch]] or trough. The most notable
 instance of this structure in Britain is that of the Isle of Wight, of
 which a section is given in fig. 1. The Cretaceous rocks on the south
 side of the island rapidly rise in inclination till they become nearly
@@ -70,7 +70,7 @@ survey of the Colorado region.
 [Illustration: FIG. 2.--Plan of Anticlinal and Synclinal Folds.]
 
 It much more frequently happens that the strata have been bent into
-arches and troughs, so that they can be seen dipping under the surface
+[[Arches|arches]] and troughs, so that they can be seen dipping under the surface
 on one side of the axis of a fold, and rising up again on the other
 side. Where they dip away from the axis of movement the structure is
 termed an _anticline_ or _anticlinal fold_; where they dip towards the
@@ -120,7 +120,7 @@ has taken place about an "axial plane" (often called the "axis"), which
 in the examples illustrated in fig. 3 would pass through the points A and
 B, perpendicularly to the horizontal line CD. In powerfully folded
 regions the axial planes of the folds are no longer upright; they may be
-moderately inclined, producing an "inversion," "inverted fold" or
+moderately inclined, producing an "[[Inversion|inversion]]," "inverted fold" or
 "overfold." When the inclination of the axial plane is great a "recumbent
 overfold" is produced (Fr. _pli couché_, Ger, _liegende Falte_). In a
 fold of this kind (fig. 4) we have an "arch limb" (a), a middle limb (b)
@@ -152,7 +152,7 @@ or "cuvettes." The dip in cases of this kind has been described as
 _Complex Folding._--Sometimes a simple fold has been itself subjected
 to further folding repeated more than once, it is then termed a
 "refolded fold" (Fr. _pli replié_); fine examples may be observed in the
-Alps and in other mountain chains. A great regional major fold
+Alps and in other mountain chains. A great regional [[Major|major]] fold
 containing within itself a number of minor "special" or subsidiary folds
 is described as a "geanticline" (Fr. _structure en éventail composé_),
 or as a "geosyncline" (Fr. _structure en éventail renversé_). Even folds
@@ -165,9 +165,9 @@ single hand specimen. In "frilling" or "frilled structure" the folds
 have still smaller amplitude, and in many highly corrugated rocks minute
 folds are observable with the microscope that do not appear to the
 unaided eye. When a series of adjacent isoclinal overfolds has passed
-into a series of thrusts (see FAULT), the so-called "imbricated"
+into a series of thrusts (see [[Fault|FAULT]]), the so-called "imbricated"
 structure (Fr. _structure imbriquée_, Ger. _Schuppenstruktur_) is
-generated. Occasionally crust-blocks resembling "graben" and "horsts"
+generated. Occasionally crust-blocks resembling "graben" and "[[Horst|horsts]]"
 are circumscribed by folds instead of faults; when this is so they have
 been called respectively "infolded graben" or "overfolded horsts."
 
@@ -176,7 +176,7 @@ marked influence on the nature of the folding; some beds have yielded
 much more readily than others, certain beds will be found to be faulted,
 while those above and below have folded without fracture. In many
 examples of apparent plasticity it can be shown that this effect has
-been produced by an infinite number of minute slippings within the rock
+been produced by an [[Infinite|infinite]] number of minute slippings within the rock
 substance.
 
 [Illustration: FIG. 5.--Curved and Contorted Rocks, near Old Head of
@@ -196,7 +196,7 @@ saturated layer under pressure.
   For a discussion of the question of the distribution and arrangement
   of the great folded regions of the earth's crust, see E. Suess, _Das
   Antlitz der Erde_, English translation. _The Face of the Earth_, vols.
-  i., ii., iii., iv. (Oxford). See also E. de Margerie and A. Heim, _Les
+  i., ii., iii., iv. (Oxford). See also E. de Margerie and A. [[Heim]], _Les
   Dislocations de l'écorce terrestre_ (Zurich, 1888); A. Rothpletz,
   _Geotektonische Probleme_ (Stuttgart, 1894).
 

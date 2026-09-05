@@ -7,7 +7,7 @@ type: article
 
 # Antietam
 
-ANTIETAM, the name of a Maryland creek, near which, on the 16th-17th of
+ANTIETAM, the name of a Maryland [[Creek|creek]], near which, on the 16th-17th of
 September 1862, was fought the battle of Antietam or Sharpsburg (see
 AMERICAN CIVIL WAR), between the Federals under McClellan and the
 Confederates commanded by Lee. General McClellan had captured the passes
@@ -16,18 +16,18 @@ marched to meet Lee's forces which, hitherto divided, had, by the 16th,
 successfully concentrated between the Antietam and the Potomac. The
 Confederate Army of Northern Virginia occupied a position which, in
 relation to the surrounding country, may be compared to the string of a
-bow in the act of being drawn, Lee's left wing forming the upper half of
+[[Bow|bow]] in the act of being drawn, Lee's left wing forming the upper half of
 the string, his right the lower, and the Potomac in his rear the bow
 itself. The town of Sharpsburg represents the fingers of the archer
 drawing the bow. The right wing of the position was covered by the
 Antietam as it approaches the Potomac, the upper course of that stream
-formed no part of the battlefield. Generals Longstreet and Jackson
+formed no part of the battlefield. Generals [[Longstreet]] and Jackson
 commanded the right and left wings. The division of A.P. Hill was at
 Harper's Ferry, but had received orders to rejoin Lee. McClellan's
 troops appeared late on the 16th, and Hooker was immediately sent across
 the upper Antietam. He had a sharp fight with Jackson's men, but night
 soon put an end to the contest. Early on the 19th the corps of Sumner
-and Mansfield followed Hooker across the upper stream whilst McClellan's
+and [[Mansfield]] followed Hooker across the upper stream whilst McClellan's
 left wing (Burnside's corps) drew up opposite Lee's extreme right. The
 Federal leader intended to hold back his centre whilst these two forces
 were rolling up Lee's wings. The battle began with a furious assault on
@@ -47,11 +47,11 @@ driven back in great confusion with nearly half their number killed and
 wounded; and their retreat involved the gallant remnants of Mansfield's
 corps. Soon afterwards the Federal divisions of French and Richardson
 attacked D.H. Hill, whose men were now exhausted by continuous fighting.
-Here occurred the fighting in the "Bloody Lane," north of Sharpsburg
+Here occurred the fighting in the "Bloody [[Lane]]," north of Sharpsburg
 which French and Richardson eventually carried. Opposed as they were by
 D.H. Hill, whose men had fought the battle of South Mountain and had
 already been three times engaged _a fond_ on this day, proper support
-must have enabled the Federals to crush Lee's centre, but Franklin and
+must have enabled the Federals to crush Lee's centre, but [[Franklin]] and
 Porter in reserve were not allowed by McClellan to move forward and the
 opportunity passed. Burnside, on the southern wing, had received his
 orders late, and acted on them still later. The battle was over on the

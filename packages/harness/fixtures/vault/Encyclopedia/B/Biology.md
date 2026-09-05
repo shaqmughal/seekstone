@@ -30,7 +30,7 @@ These distinctive properties of living matter are--
   The properties of living matter.
 
 1. Its _chemical composition_--containing, as it invariably does, one or
-more forms of a complex compound of carbon, hydrogen, oxygen and
+more forms of a complex compound of [[Carbon|carbon]], hydrogen, oxygen and
 nitrogen, the so-called protein or albumin (which has never yet been
 obtained except as a product of living bodies), united with a large
 proportion of water, and forming the chief constituent of a substance
@@ -55,14 +55,14 @@ the agency of the living matter itself. In either case, the addition of
 molecules to those which already existed takes place, not at the surface
 of the living mass, but by interposition between the existing molecules
 of the latter. If the processes of disintegration and of reconstruction
-which characterize life balance one another, the size of the mass of
+which characterize life [[Balance|balance]] one another, the size of the mass of
 living matter remains stationary, while, if the reconstructive process
 is the more rapid, the living body _grows_. But the increase of size
 which constitutes growth is the result of a process of molecular
 intussusception, and therefore differs altogether from the process of
 growth by accretion, which may be observed in crystals and is effected
 purely by the external addition of new matter--so that, in the
-well-known aphorism of Linnaeus, the word "grow" as applied to stones
+well-known [[Aphorism|aphorism]] of Linnaeus, the word "grow" as applied to stones
 signifies a totally different process from what is called "growth" in
 plants and animals.
 
@@ -94,10 +94,10 @@ or organization.
   Life conditioned by moisture.
 
 As has been said, a large proportion of water enters into the
-composition of all living matter; a certain amount of drying arrests
+composition of all living matter; a certain amount of drying [[Arrest|arrests]]
 vital activity, and the complete abstraction of this water is absolutely
 incompatible with either actual or potential life. But many of the
-simpler forms of life may undergo desiccation to such an extent as to
+simpler forms of life may undergo [[Desiccation|desiccation]] to such an extent as to
 arrest their vital manifestations and convert them into the semblance of
 not-living matter, and yet remain potentially alive. That is to say, on
 being duly moistened they return to life again. And this revivification
@@ -162,7 +162,7 @@ The broad distinctions which, as a matter of fact, exist between every
 known form of living substance and every other component of the material
 world, justify the separation of the biological sciences from all
 others. But it must not be supposed that the differences between living
-and not-living matter are such as to justify the assumption that the
+and not-living matter are such as to justify the [[Assumption|assumption]] that the
 forces at work in the one are different from those which are to be met
 with in the other. Considered apart from the phenomena of consciousness,
 the phenomena of life are all dependent upon the working of the same
@@ -173,7 +173,7 @@ operations, as we employ the names of "electricity" and "electrical
 force" to denote others; but it ceases to be proper to do so, if such a
 name implies the absurd assumption that "electricity" and "vitality" are
 entities playing the part of efficient causes of electrical or vital
-phenomena. A mass of living protoplasm is simply a molecular machine of
+phenomena. A mass of living protoplasm is simply a molecular [[Machine|machine]] of
 great complexity, the total results of the working of which, or its
 vital phenomena, depend--on the one hand, upon its construction, and,
 on the other, upon the energy supplied to it; and to speak of "vitality"
@@ -181,7 +181,7 @@ as anything but the name of a series of operations is as if one should
 talk of the "horologity" of a clock.
 
 
-  Classification of the phenomena of life.
+  [[Classification]] of the phenomena of life.
 
 Living matter, or protoplasm and the products of its metamorphosis, may
 be regarded under four aspects:--
@@ -218,9 +218,9 @@ _Distribution_. PHYSIOLOGY and its allied articles deal with the subject
 generally and in relation to man, while the special physiology of plants
 is dealt with in a section of the article PLANTS. Aetiology is treated
 of under the heading EVOLUTION. But practical necessity has given rise
-to the existence of many other divisions; see CYTOLOGY, for the
+to the existence of many other divisions; see [[Cytology|CYTOLOGY]], for the
 structure of cells; EMBRYOLOGY, for the development of individual
-organisms; HEREDITY and REPRODUCTION, for the relations between parents
+organisms; [[Heredity|HEREDITY]] and REPRODUCTION, for the relations between parents
 and offspring.     (T. H. H.; P. C. M.)
 
 ## See also

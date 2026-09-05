@@ -22,12 +22,12 @@ elevations correspond to the concha and to the fossae of the helix and
 antihelix. The pinna can be slightly moved by the anterior, superior and
 posterior auricular muscles, and in addition to these there are four
 small intrinsic muscles on the external surface, known as the helicis
-major and minor, the tragicus and the antitragicus, and two on the
+[[Major|major]] and minor, the tragicus and the antitragicus, and two on the
 internal surface called the obliquus and transversus. The external
 auditory meatus (fig. 1, n) is a tube running at first forward and
 upward, then a little backward and then forward and slightly downward;
 of course all the time it is also running inward until the tympanic
-membrane is reached. The tube is about an inch long, its outer third
+membrane is reached. The tube is about an [[Inch|inch]] long, its outer third
 being cartilaginous and its inner two-thirds bony. It is lined by skin
 in its whole length, the sweat glands of which are modified to secrete
 the wax or cerumen.
@@ -46,7 +46,7 @@ the wax or cerumen.
   l, Eustachian tube.           8 and 9, facial and auditory nerves.]
 
 The middle ear or tympanum (fig. 1, p) is a small cavity in the temporal
-bone, the shape of which may perhaps be realized by imagining a hock
+[[Bone|bone]], the shape of which may perhaps be realized by imagining a hock
 bottle subjected to lateral pressure in such a way that its circular
 section becomes triangular, the base of the triangle being above. The
 neck of the bottle, also laterally compressed, will represent the
@@ -61,14 +61,14 @@ chorda tympani to come through from the facial nerve. The roof is formed
 by a very thin plate of bone, called the tegmen tympani, which separates
 the cavity from the middle fossa of the skull. Below the roof the upper
 part of the tympanum is somewhat constricted off from the rest, and to
-this part the term "attic" is often applied. The floor is a mere groove
+this part the term "[[Attic|attic]]" is often applied. The floor is a mere groove
 formed by the meeting of the external and internal walls. The outer wall
 is largely occupied by the tympanic membrane (fig. 1, o), which entirely
 separates the middle ear from the external auditory meatus; it is
 circular, and so placed that it slopes from above, downward and inward,
 and from behind, forward and inward. Externally it is lined by skin,
 internally by mucous membrane, while between the two is a firm fibrous
-membrane, convex inward about its centre to form the umbo. Just in front
+membrane, [[Convex|convex]] inward about its centre to form the umbo. Just in front
 of the membrane on the outer wall is the Glaserian fissure leading to
 the glenoid cavity, and close to this is the canal of Huguier for the
 chorda tympani nerve. The inner wall shows a promontory caused by the
@@ -116,7 +116,7 @@ is stratified.
   SC, Semicircular canals.
          (After Waldeyer.)]
 
-The internal ear or labyrinth consists of a bony and a membranous part,
+The internal ear or [[Labyrinth|labyrinth]] consists of a bony and a membranous part,
 the latter of which is contained in the former. The bony labyrinth is
 composed of the vestibule, the semicircular canals and the cochlea. The
 vestibule lies just internal to the posterior part of the tympanum, and
@@ -133,7 +133,7 @@ semicircular canals open into the vestibule; of these the external (fig.
 at their other ends they open separately. The three canals have
 therefore five openings into the vestibule instead of six. One end of
 each canal is dilated to form its ampulla. The superior semicircular
-canal is vertical, and the two pillars of its arch are nearly external
+canal is vertical, and the two pillars of its [[Arch|arch]] are nearly external
 and internal; the external canal is horizontal, its two pillars being
 anterior and posterior, while the convexity of the arch of the posterior
 canal is backward and its two pillars are superior and inferior.
@@ -150,7 +150,7 @@ spiralis.
 
 [Illustration: FIG. 3.--cl, Columnar cells covering the crista acustica;
 p, peripheral, and c, central processes of auditory cells; n, nerve
-fibres. (After Ruedinger.)]
+[[Fibres|fibres]]. (After Ruedinger.)]
 
 The membranous labyrinth lies in the bony labyrinth, but does not fill
 it; between the two is the fluid called perilymph, while inside the
@@ -176,7 +176,7 @@ dr). A section through each turn of the cochlea shows the bony lamina
 spiralis, already noticed, which is continued right across the canal by
 the basilar membrane (fig. 4, bm), thus cutting the canal into an upper
 and lower half and connected with the outer wall by the strong spiral
-ligament (fig. 4, sl). Near the free end of the lamina spiralis another
+[[Ligament|ligament]] (fig. 4, sl). Near the free end of the lamina spiralis another
 membrane called the membrane of Reissner (fig. 4, mR) is attached, and
 runs outward and upward to the outer wall, taking a triangular slice out
 of the upper half of the section. There are now three canals seen in
@@ -191,7 +191,7 @@ vestibule, but that in the scala tympani bathes the inner surface of the
 membrane stretched across the fenestra rotunda, and also communicates
 with the subarachnoid space through the aqueductus cochleae, which opens
 into the posterior cranial fossa. The scala media containing endolymph
-communicates, as has been shown, with the saccule through the canalis
+communicates, as has been shown, with the saccule through the [[Canalis|canalis]]
 reuniens, while, at the apex of the cochlea, it ends in a blind
 extremity of considerable morphological interest called the lagena.
 
@@ -225,7 +225,7 @@ Central Coil of Cochlea (Retzius).
 (From R. Howden--Cunningham's _Text-Book of Anatomy_.)]
 
   For further details see _Text-Book of Anatomy_, edited by D.J.
-  Cunningham (Edinburgh, 1906); Quain's _Elements of Anatomy_ (London,
+  [[Cunningham]] (Edinburgh, 1906); Quain's _Elements of Anatomy_ (London,
   1893); Gray's _Anatomy_ (London, 1905); _A Treatise on Anatomy_,
   edited by H. Morris (London, 1902); _A Text-Book of Human Anatomy_, by
   A. Macalister (London, 1889).
@@ -235,7 +235,7 @@ the dorsal end of the hyomandibular cleft or, more strictly speaking,
 pouch. Those for the tragus and anterior part of the helix belong to the
 first or mandibular arch, while those for the antitragus, antihelix and
 lobule come from the second or hyoid arch. The tubercle for the helix is
-dorsal to the end of the cleft where the two arches join. The external
+dorsal to the end of the cleft where the two [[Arches|arches]] join. The external
 auditory meatus, tympanum and Eustachian tube are remains of the
 hyomandibular cleft, the membrana tympani being a remnant of the cleft
 membrane and therefore lined by ectoderm outside and entoderm inside.
@@ -245,7 +245,7 @@ plate which connects the dorsal ends of the hyoid and mandibular bars
 (_Anatomischer Anzeiger_, Bd. xix., 1901, p. 396). Other papers which
 should be consulted are those of E. Gaupp, _Anatom. Hefte, Ergebnisse_,
 Bd. 8, 1898, p. 991, and J.A. Hammar, _Archiv f. mikr. Anat._ lix.,
-1902. These papers will give a clue to the immense literature of the
+1902. These papers will give a [[Clue|clue]] to the immense literature of the
 subject. The internal ear first appears as a pit from the cephalic
 ectoderm, the mouth of which in Man and other mammals closes up, so that
 a pear-shaped cavity is left. The stalk of the pear which is nearest the
@@ -262,22 +262,22 @@ petrous bone is formed by a process of chondrification and ossification.
   See W. His, Junr., _Archiv f. Anat. und Phys._, 1889, supplement, p.
   1; also Streeter, _Am. Journ. of Anat._ vi., 1907.
 
-_Comparative Anatomy._--The ectodermal inpushing of the internal ear has
+_[[Comparative Anatomy]]._--The ectodermal inpushing of the internal ear has
 probably a common origin with the organs of the lateral line of fish. In
 the lower forms the ductus endolymphaticus retains its communication
 with the exterior on the dorsum of the head, and in some Elasmobranchs
 the opening is wide enough to allow the passage of particles of sand
 into the saccule. It is probable that this duct is the same which,
 taking a different direction and losing its communication with the skin,
-abuts on the posterior cranial fossa of higher forms (see Rudolf Krause,
+abuts on the posterior cranial fossa of higher forms (see Rudolf [[Krause]],
 "Die Entwickelung des Aq. vestibuli seu d. Endelymphaticus," _Anat.
 Anzeiger_, Bd. xix., 1901, p. 49). In certain Teleostean fishes the swim
-bladder forms a secondary communication with the internal ear by means
+[[Bladder|bladder]] forms a secondary communication with the internal ear by means
 of special ossicles (see G. Ridewood, _Journ. Anat. & Phys._ vol.
 xxvi.). Among the Cyclostomata the external semicircular canals are
 wanting; Petromyzon has the superior and posterior only, while in Myxine
 these two appear to be fused so that only one is seen. In higher types
-the three canals are constant. Concretions of carbonate of lime are
+the three canals are constant. [[Concretion|Concretions]] of carbonate of lime are
 present in the internal ears of almost all vertebrates; when these are
 very small they are called otoconia, but when, as in most of the
 teleostean fishes, they form huge concretions, they are spoken of as
@@ -306,25 +306,25 @@ forms a minute terminal appendage. At the same time indications of the
 scalae tympani and vestibuli appear. As in the Amphibia the ductus
 endolymphaticus sometimes extends into the cranial cavity and on into
 other parts of the body. Snakes have no tympanic membrane. In the birds
-the cochlea resembles that of the crocodiles, but the posterior
+the cochlea resembles that of the [[Crocodile|crocodiles]], but the posterior
 semicircular canal is above the superior where they join one another. In
-certain lizards and birds (owls) a small fold of skin represents the
+certain [[Lizard|lizards]] and birds (owls) a small [[Fold|fold]] of skin represents the
 first appearance of an external ear. In the monotremes the internal ear
 is reptilian in its arrangement, but above them the mammals always have
 a spirally twisted cochlea, the number of turns varying from one and a
-half in the Cetacea to nearly five in the rodent _Coelogenys_. The
+half in the [[Cetacea]] to nearly five in the rodent _Coelogenys_. The
 lagena is reduced to a mere vestige. The organ of Corti is peculiar to
 mammals, and the single columella of the middle ear is replaced by the
-three ossicles already described in Man (see Alban Doran, "Morphology of
+three ossicles already described in Man (see Alban [[Doran]], "Morphology of
 the Mammalian Ossicula auditus," _Proc. Linn. Soc._, 1876-1877, xiii.
 185; also _Trans. Linn. Soc._ 2nd Ser. Zool. i. 371). In some mammals,
 especially Carnivora, the middle ear is enlarged to form the tympanic
 bulla, but the mastoid cells are peculiar to Man.
 
   For further details see G. Retzius, _Das Gehoerorgan der Wirbelthiere_
-  (Stockholm, 1881-1884); Catalogue of the Museum of the R. College of
+  (Stockholm, 1881-1884); [[Catalogue]] of the Museum of the R. College of
   Surgeons--Physiological Series, vol. iii. (London, 1906); R.
-  Wiedersheim's _Vergleichende Anatomie der Wirbeltiere_ (Jena, 1902).
+  Wiedersheim's _Vergleichende Anatomie der Wirbeltiere_ ([[Jena]], 1902).
        (F. G. P.)
 
 
@@ -341,33 +341,33 @@ Toynbee's book in 1860 containing his valuable anatomical and
 pathological observations. Von Troeltsch of Wuerzburg, following on the
 lines of Wilde and Toynbee, produced two well-known works in 1861 and
 1862, laying the foundation of the study in Germany. In that country and
-in Austria he was followed by Hermann Schwartze, Politzer, Gruber,
+in Austria he was followed by [[Hermann]] Schwartze, Politzer, [[Gruber]],
 Weber-Liel, Ruedinger, Moos and numerous others. France produced Itard,
-de la Charriere, Meniere, Loewenberg and Bonnafont; and Belgium, Charles
+de la Charriere, Meniere, Loewenberg and Bonnafont; and [[Belgium]], Charles
 Delstanche, father and son. In Great Britain the work was carried on by
 James Hinton (1874), Peter Allen (1871), Patterson Cassells and Sir
 William Dalby. In America we may count among the early otologists Edward
-H. Clarke (1858), D.B. St John Roosa, H. Knapp, Clarence J. Blake,
-Albert H. Buck and Charles Burnett. Other workers all over the world are
+H. Clarke (1858), D.B. St John Roosa, H. Knapp, [[Clarence]] J. [[Blake]],
+Albert H. [[Buck]] and Charles [[Burnett]]. Other workers all over the world are
 too numerous to mention.
 
 _Various Diseases and Injuries._--Diseases of the ear may affect any of
 the three divisions, the external, middle or internal ear. The commoner
-affections of the _auricle_ are eczema, various tumours (simple and
+affections of the _[[Auricle|auricle]]_ are [[Eczema|eczema]], various tumours (simple and
 malignant), and serous and sebaceous cysts. Haematoma auris
 (othaematoma), or effusion of blood into the auricle, is often due to
 injury, but may occur spontaneously, especially in insane persons. The
 chief diseases of the _external auditory canal_ are as follows:--impacted
 cerumen (or wax), circumscribed (or furuncular) inflammation, diffuse
 inflammation, strictures due to inflammatory affections, bony growths,
-fungi (otomycosis), malignant disease, caries and necrosis, and foreign
+[[Fungi|fungi]] (otomycosis), malignant disease, caries and necrosis, and foreign
 bodies.
 
 Diseases of the _middle ear_ fall into two categories, suppurative and
 non-suppurative (i.e. with and without the formation of pus).
 Suppurative inflammation of the middle ear is either acute or chronic,
-and is in either case accompanied by perforation of the drum head and
-discharge from the ear. The chief importance of these affections, in
+and is in either case accompanied by perforation of the [[Drum|drum]] head and
+[[Discharge|discharge]] from the ear. The chief importance of these affections, in
 addition to the symptoms of pain, deafness, discharge, &c., is the
 serious complications which may ensue from their neglect, viz. aural
 polypi, caries and necrosis of the bone, affections of the mastoid
@@ -376,12 +376,12 @@ and the still more serious intracranial and vascular infective diseases,
 such as abscess in the brain (cerebrum or cerebellum), meningitis, with
 subdural and extradural abscesses, septic thrombosis of the sigmoid and
 other venous sinuses, and pyaemia. It is owing to the possibility of
-these complications that life insurance companies usually, and rightly,
+these complications that life [[Insurance|insurance]] companies usually, and rightly,
 inquire as to the presence of ear discharge before accepting a life.
-Patterson Cassells of Glasgow urged this special point as long ago as
+Patterson Cassells of [[Glasgow]] urged this special point as long ago as
 1877. Acute suppurative disease of the middle ear is often due to the
-exanthemata, scarlatina, measles and smallpox, and to bathing and
-diving. It may also be caused by influenza, diphtheria and pulmonary
+exanthemata, scarlatina, [[Measles|measles]] and smallpox, and to bathing and
+diving. It may also be caused by [[Influenza|influenza]], diphtheria and pulmonary
 phthisis.
 
 Non-suppurative disease of the middle ear may be acute or chronic. In
@@ -424,7 +424,7 @@ peculiarities of this organ of sense, and especially to its close
 relationship, on the one hand to the nose and naso-pharynx, and on the
 other hand to the cranium and its contents. The chief advance in aural
 surgery in recent years has been in the surgery of the mastoid process
-and antrum. The pioneers of this work were H. Schwartze of Halle, and
+and antrum. The pioneers of this work were H. Schwartze of [[Halle]], and
 Stacke of Erfurt, who have been followed by a host of workers in all
 parts of the world. This development led to increased attention being
 paid to the intracranial complications of suppurative ear disease, in
@@ -434,7 +434,7 @@ years.
 _Effects of Diseases of the Nose on the Ear._--The influence of diseases
 of the nose and naso-pharynx on ear diseases was brought out by
 Loewenberg of Paris, Voltolini of Breslau, and especially by Wilhelm
-Meyer of Copenhagen, the discoverer of adenoid vegetations of the
+Meyer of [[Copenhagen]], the discoverer of adenoid vegetations of the
 naso-pharynx ("adenoids"), who recognized the great importance of this
 disease and gave an inimitable account of it in the _Trans. of the Royal
 Medical and Chirurgical Society of London_, 1870, and the _Archiv fuer
@@ -447,7 +447,7 @@ associated with enlargement of the faucial tonsils.
   _Journals._--In 1864 the _Archiv fuer Ohrenheilkunde_ was started by
   Politzer and Schwartze, and, in 1867, the _Monatsschrift fuer
   Ohrenheilkunde_ (a monthly publication) was founded by Voltolini,
-  Gruber, Weber-Liel and Ruedinger. Appearing first as the _Archives of
+  Gruber, Weber-Liel and Ruedinger. Appearing first as the _[[Archive|Archives]] of
   Ophthalmology and Otology_, simultaneously in English and German, in
   1869, the _Archives of Otology_ became a separate publication under
   the editorship of Knapp, Moos and Roosa in 1879. Amongst other
@@ -463,9 +463,9 @@ associated with enlargement of the faucial tonsils.
   original papers and cases. The Otological Society of the United
   Kingdom was founded in 1900.
 
-  _International Congresses._--International Otological congresses have
-  been held at intervals of about four years at New York, Milan, Basel,
-  Brussels, Florence, London and Bordeaux (1904). The proceedings of the
+  _[[International]] Congresses._--International Otological congresses have
+  been held at intervals of about four years at New York, Milan, [[Basel]],
+  Brussels, Florence, London and [[Bordeaux]] (1904). The proceedings of the
   congresses appear as substantial volumes.
 
   _Hospitals._--The earliest record of a public institution for the
@@ -485,7 +485,7 @@ associated with enlargement of the faucial tonsils.
   present state of otological science to _A Text-Book of the Diseases of
   the Ear for Students and Practitioners_, by Professor Dr Adam
   Politzer, transl. by Milton J. Ballin, Ph.B., M.D., and Clarence J.
-  Heller, M.D. (4th edition, London, 1902).     (E. C. B.*)
+  [[Heller]], M.D. (4th edition, London, 1902).     (E. C. B.*)
 
 ## See also
 

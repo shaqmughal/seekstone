@@ -47,7 +47,7 @@ of the same kind, developed directly into the new organism, then
 heredity would simply be a delayed case of what is called organic
 symmetry, the tendency of similar living material to develop in similar
 ways under the stimulus of similar external conditions. The cases in
-which this happens are very rare. In the Diptera the first division of
+which this happens are very rare. In the [[Diptera]] the first division of
 the egg-cell separates the nuclear material of the subsequent
 reproductive cells from the material that is elaborated into the new
 organism to contain these cells. In the _Daphnidae_ and in _Sagitta_ a
@@ -121,8 +121,8 @@ organs of the new individual, to be ready to form the germ-cells of the
 next generation. In this mode the continuity of the germ-plasm from
 individual to individual is maintained. This also is the immortality of
 the germ-cells, or rather of the germ-plasm, the part of the theory
-which has laid so large a hold on the popular imagination, although it
-is really no more than a reassertion in new terms of biogenesis. With
+which has laid so large a hold on the popular [[Imagination|imagination]], although it
+is really no more than a reassertion in new terms of [[Biogenesis|biogenesis]]. With
 this also is connected the celebrated denial of the inheritance of
 acquired characters. It seemed a clear inference that, if the hereditary
 mass for the daughters were separated off from the hereditary mass that
@@ -175,14 +175,14 @@ observations on the process of development were not sufficient in bulk
 nor in clarity of interpretation to convince his contemporaries.
 Naturally the improved methods and vastly greater knowledge of modern
 days have made evolution in the old sense an impossible conception; we
-know that the egg is morphologically unlike the adult, that various
+know that the [[Egg|egg]] is morphologically unlike the adult, that various
 external conditions are necessary for its subsequent progress through a
 slow series of stages, each of which is unlike the adult, but gradually
 approaching it until the final condition is reached. None the less,
 Weismann's theory supposes that the important determining factor in
 these gradual changes lies in the historical architecture of the
 germ-plasm, and from the theoretical point of view his theory remains
-strictly an unfolding, a becoming manifest of hidden complexity.
+strictly an unfolding, a becoming [[Manifest|manifest]] of hidden complexity.
 
 _Hertwig's View._--The chief modern holder of the rival view, and the
 writer who has put together in most cogent form the objections to
@@ -319,7 +319,7 @@ be discounted from the complexity of the germinal mass. If, for
 instance, as H. Driesch and Hertwig have argued, much of the
 differentiation of cells and tissues is a function of locality and is
 due to the action of different external forces on similar material, then
-just so much burden is removed from what evolutionists have to explain.
+just so much [[Burden|burden]] is removed from what evolutionists have to explain.
 That much remains cannot be doubted. Two eggs similar in appearance
 develop side by side in the same sea-water, one becoming a mollusc, the
 other an _Amphioxus_. Hertwig would say that the slight differences in
@@ -351,11 +351,11 @@ individual, are transmissible, the certainty with which any character
 appears being almost in direct proportion to its rank in the descending
 scale from order to individual. The transmitted characters are
 anatomical, down to the most minute detail; physiological, including
-such phenomena as diatheses, timbre of voice and even compound
+such phenomena as diatheses, timbre of voice and even [[Compound|compound]]
 phenomena, such as _gaucherie_ and peculiarity of handwriting;
 psychological; pathological; teratological, such as syndactylism and all
 kinds of individual variations. Either sex may transmit characters which
-in themselves are necessarily latent, as, for instance, a bull may
+in themselves are necessarily latent, as, for instance, a [[Bull|bull]] may
 transmit a good milking strain. In forms of asexual reproduction, such
 as division, budding, propagation by slips and so forth, every character
 of the parent may appear in the descendant, and apparently even in the
@@ -380,7 +380,7 @@ the germ-plasm of the subsequent generations, in those cases where an
 embryological development separates parent and offspring. The
 development of any normal, so-called "innate," character, such as, say,
 the assumption of the normal human shape and relations of the frontal
-bone, requires the co-operation of many factors external to the
+[[Bone|bone]], requires the co-operation of many factors external to the
 developing embryo, and the absence of abnormal distorting factors. When
 we say that such an innate character is transmitted, we mean only that
 the germ-plasm has such a constitution that, in the presence of the
@@ -463,14 +463,14 @@ question extremely doubtful. The inheritance of the effects of use and
 disuse is not proved. The inheritance of the effects of changed
 conditions of life is quite uncertain. Nageli grew Alpine plants at
 Munich, but found that the change was produced at once and was not
-increased in a period of thirteen years. Alphonse de Candolle starved
+increased in a period of thirteen years. Alphonse de [[Candolle]] starved
 plants, with the result of producing better blooms, and found that
 seedlings from these were also above the average in luxuriance of
 blossom, but in these experiments the effects of selection during the
 starvation, and of direct effect on the nutrition of the seeds, were not
 eliminated. Such results are typical of the vast number of experiments
 and observations recorded. The empirical issue is doubtful, with a
-considerable balance against the supposed inheritance of acquired
+considerable [[Balance|balance]] against the supposed inheritance of acquired
 characters.
 
 _Empirical Study of Effects of Amphimixis._--Inheritance is
@@ -482,7 +482,7 @@ any character to be intermediate between the conditions in the parents;
 effective than the other in stamping the offspring (thus, for instance,
 Negroes, Jews and Chinese are stated to be prepotent in crosses);
 "exclusive" inheritance, where the character of the offspring is
-definitely that of one of the parents. Such a classification depends on
+definitely that of one of the parents. Such a [[Classification|classification]] depends on
 the interpretation of the word character, and rests on no certain
 grounds. An apparently blended character or a prepotent character may on
 analysis turn out to be due to the inheritance of a certain proportion
@@ -505,7 +505,7 @@ There is another fundamental difficulty in making empirical comparisons
 between the characters of parents and offspring. At first sight it seems
 as if this mode of work were sufficiently direct and simple, and
 involved no more than a mere collection of sufficient data. The cranial
-index, or the height of a human being and of so many of his ancestors
+[[Index|index]], or the height of a human being and of so many of his ancestors
 being given, it would seem easy to draw an inference as to whether or no
 in these cases brachycephaly or stature were inherited. But our modern
 conceptions of the individual and the race make it plain that the
@@ -514,7 +514,7 @@ is not a particular measurement, but a curve of variations derived from
 statistics, and any individual with regard to the particular character
 may be referable to any point of the curve. A tall race like the modern
 Scots may contain individuals of any height within the human limits; a
-dolichocephalic race like the modern Spaniards may contain extremely
+[[Dolichocephalic|dolichocephalic]] race like the modern Spaniards may contain extremely
 round-headed individuals. What is meant by saying that one race is tall
 or the other dolichocephalic, is merely that if a sufficiently large
 number be chosen at random, the average height of the one race will be
@@ -535,7 +535,7 @@ of empirical data. One interesting conclusion, which may be called the
 height, which appears to be a blend of the male and female characters,
 whether or no the apparent blend is really due to an exclusive
 inheritance of separate components, may be given from the work of F.
-Galton and K. Pearson. Each parent, on the average, contributes 1/4 or
+[[Galton]] and K. Pearson. Each parent, on the average, contributes 1/4 or
 (0.5)^2, each grandparent 1/16 or (0.5)^4, and each ancestor of n^th
 place (0.5)^(2n). But this, like all other deductions, is applicable
 only to the mass of cases and not to any individual case.
@@ -565,7 +565,7 @@ may be instances merely of normal regression. Many cases of more
 abnormal structure, which are really due to abnormal embryonic or
 post-embryonic development, are set down to atavism, as, for instance,
 the cervical fistulae, which have been regarded as atavistic
-persistences of the gill clefts. It is also used to imply the reversion
+persistences of the [[Gill|gill]] clefts. It is also used to imply the reversion
 that takes place when domestic varieties are set free and when species
 or varieties are crossed (see HYBRIDISM). Atavism is, in fact, a
 misleading name covering a number of very different phenomena.
@@ -593,7 +593,7 @@ him. (See TELEGONY.)
   Study of Variation_ (1894); Y. Delage, _La Structure du protoplasma et
   les theories sur l'heredite_ (a very full discussion and list of
   literature); G. H. T. Eimer, _Organic Evolution_, Eng. trans. by
-  Cunningham (1890); J. C. Ewart, _The Penycuik Experiments_ (1899); F.
+  [[Cunningham]] (1890); J. C. [[Ewart]], _The Penycuik Experiments_ (1899); F.
   Galton, _Natural Inheritance_ (1887); O. Hertwig, _Evolution or
   Epigenesis?_ Eng. trans. by P. C. Mitchell (1896); K. Pearson, _The
   Grammar of Science_ (1900); Verworn, _General Physiology_, Eng. trans.

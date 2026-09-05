@@ -16,7 +16,7 @@ victorious expedition (1229) against the Balearic Islands, Lull was
 married at an early age to Bianca Picany, and, according to his own
 account, led a dissipated life till 1266 when, on five different
 occasions, he beheld the vision of Christ crucified. After his
-conversion, he resolved to devote himself to evangelical work among the
+[[Conversion|conversion]], he resolved to devote himself to evangelical work among the
 heathen, to write an exposure of infidel errors, and to promote the
 teaching of foreign tongues in seminaries. He dedicated nine years to
 the study of Arabic, and in 1275 showed such signs of mental exaltation
@@ -40,11 +40,11 @@ His efforts to interest Clement V. and Boniface VIII. in his favourite
 project of establishing missionary colleges were unavailing; but a visit
 to Paris in 1298 was attended with a certain measure of success. He was,
 however, disappointed in his main object, and in 1300 he sailed to
-Cyprus to seek support for his plan of teaching Oriental languages in
+[[Cyprus]] to seek support for his plan of teaching Oriental languages in
 universities and monasteries. He was rebuffed once more, but continued
 his campaign with undiminished energy. Between 1302 and 1305 he wrote
-treatises at Genoa, lectured at Paris, visited Lyons in the vain hope of
-enlisting the sympathies of Pope Clement V., crossed over to Bougie in
+treatises at Genoa, lectured at Paris, visited [[Lyons]] in the vain hope of
+enlisting the sympathies of Pope Clement V., crossed over to [[Bougie]] in
 Africa, preached the gospel, and was imprisoned there for six months. On
 being released he lectured with increasing effect at Paris, attended the
 General Council at Vienne in 1311, and there witnessed the nominal
@@ -60,21 +60,21 @@ is laid by one biographer at Tunis instead of Bougie.
   The circumstances of Lull's death caused him to be regarded as a
   martyr, local patriotism helped to magnify his merits, and his
   fantastic doctrines found many enthusiastic partisans. The _doctor
-  illuminatus_ was venerated throughout Catalonia and afterwards
+  illuminatus_ was venerated throughout [[Catalonia]] and afterwards
   throughout Spain, as a saint, a thinker and a poet; but his doctrines
   were disapproved by the powerful Dominican order, and in 1376 they
-  were formally condemned in a papal bull issued at the instance of the
+  were formally condemned in a papal [[Bull|bull]] issued at the instance of the
   inquisitor, Nicolas Emeric. The authenticity of this document was
   warmly disputed by Lull's followers, and the bull was annulled by
   Martin V. in 1417. The controversy was renewed in 1503 and again in
-  1578; but the general support of the Jesuits and the staunch fidelity
+  1578; but the general support of the [[Jesuits]] and the staunch fidelity
   of the Majorcans saved Lull from condemnation. His philosophical
   treatises abound with incoherent formulae to which, according to their
   inventor, every demonstration in every science may be reduced, and
   posterity has ratified Bacon's disdainful verdict on Lull's
   pretensions as a thinker; still the fact that he broke away from the
   scholastic system has recommended him to the historians of philosophy,
-  and the subtle ingenuity of his dialectic has compelled the admiration
+  and the subtle ingenuity of his [[Dialectic|dialectic]] has compelled the admiration
   of men so far apart in opinion as Giordano Bruno and Leibniz.
 
   The speculations of Lull are now obsolete outside Majorca where his
@@ -94,10 +94,10 @@ is laid by one biographer at Tunis instead of Bougie.
   Rosselló; _Obras de Ramon Lull_ (Palma, in progress), edited by G.
   Rosselló; José R. de Luanco, _Ramon Lull, considerado como alquimista_
   (Barcelona, 1870) and _La Alquimia en España_ (2 vols., Barcelona,
-  1889-1897); K. Hofmann, "Ein Katalanische Thierepos," in the Bavarian
+  1889-1897); K. [[Hofmann]], "Ein Katalanische Thierepos," in the Bavarian
   Academy's _Abhandlungen_ (Munich, 1872), vol. xii. pp. 173-240; M.
   Menéndez y Pelayo, _Origenes de la novela_ (Madrid, 1905), pp. 72-86;
-  Havelock Ellis in _Contemporary Review_ (May 1906).     (J. F.-K.)
+  [[Havelock]] Ellis in _Contemporary Review_ (May 1906).     (J. F.-K.)
 
 
 FOOTNOTE:

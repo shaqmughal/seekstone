@@ -69,7 +69,7 @@ In 1654 the Spaniards regained Tortuga from the French, into whose hands it
 again, however, fell after six years. But this state of affairs was too
 insecure even for these rovers, and they would speedily have succumbed had
 not a refuge been found for them by the fortunate conquest of Jamaica in
-1655 by the navy of the English Commonwealth. These conquests were not made
+1655 by the navy of the English [[Commonwealth]]. These conquests were not made
 without the aid of the buccaneers themselves. The taking and re-taking of
 Tortuga by the French was always with the assistance of the roving
 community; and at the conquest of Jamaica the English navy had the same
@@ -84,7 +84,7 @@ extends from the period of their rise to the capture of Panama by Morgan in
 till near its close, by government restriction. The second, from 1671 to
 the time of their greatest power, 1685, when the scene of their operations
 was no longer merely the Caribbean, but principally the whole range of the
-Pacific from California to Chile. The third and last period extends from
+Pacific from California to [[Chile]]. The third and last period extends from
 that year onwards; it was a time of disunion and disintegration, when the
 independence and rude honour of the previous periods had degenerated into
 unmitigated vice and brutality.
@@ -248,7 +248,7 @@ The principles which bound the buccaneers together were, first the desire
 for adventure and gain, and, in the second place, hatred of the Spaniard.
 The first was hardly a sufficient bond of union, among men of different
 nationalities, when booty could be had nearly always by private venture
-under the colours of the separate European powers. Of greater validity was
+under the [[Colours|colours]] of the separate European powers. Of greater validity was
 their second and great principle of union, namely, that they warred not
 with one another, nor with every one, but with a single and a common foe.
 For while the buccaneer forces included English, French and Dutch sailors,
@@ -281,7 +281,7 @@ A work published at Amsterdam in 1678, entitled _De Americaensche Zee
 Roovers_, from the pen of a buccaneer named Exquemelin, was translated into
 several European languages, receiving additions at the hands of the
 different translators. The French translation by Frontignieres is named
-_Histoire des avanturiers qui se sont signalez dans les Indes_; the English
+_Histoire des avanturiers qui se sont signalez [[Dan|dans]] les Indes_; the English
 edition is entitled _The Bucaniers of America._ Other works are Raynal's
 _History of the Settlements and Trade of the Europeans in the East and West
 Indies_, book x., English translation 1782; Dampier's _Voyages_; Geo. W.

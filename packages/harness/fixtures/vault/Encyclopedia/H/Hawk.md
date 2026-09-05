@@ -4,13 +4,13 @@ HAWK (O. Eng. _hafoc_ or _heafoc_, a common Teutonic word, cf. Dutch
 _havik_, Ger. _Habicht_; the root is _hab_-, _haf_-, to hold, cf. Lat.
 _accipiter_, from _capere_), a word of somewhat indefinite meaning,
 being often used to signify all diurnal birds-of-prey which are neither
-vultures nor eagles, and again more exclusively for those of the
-remainder which are not buzzards, falcons, harriers or kites. Even with
+vultures nor [[Eagle|eagles]], and again more exclusively for those of the
+remainder which are not buzzards, falcons, [[Harrier|harriers]] or [[Kite|kites]]. Even with
 this restriction it is comprehensive enough, and will include more than
 a hundred species, which have been arrayed in genera varying in number
-from a dozen to above a score, according to the fancy of the
-systematizer. Speaking generally, hawks may be characterized by
-possessing comparatively short wings and long legs, a bill which begins
+from a dozen to above a score, according to the [[Fancy|fancy]] of the
+systematizer. Speaking generally, [[Hawks|hawks]] may be characterized by
+possessing comparatively short wings and long [[Leg|legs]], a bill which begins
 to decurve directly from the cere (or soft bare skin that covers its
 base), and has the cutting edges of its maxilla (or upper mandible)
 sinuated[1] but never notched. To these may be added as characters,
@@ -20,7 +20,7 @@ species the irides are yellow, deepening with age into orange or even
 red, and that the immature plumage is almost invariably more or less
 striped or mottled with heart-shaped spots beneath, while that of the
 adults is generally much barred, though the old males have in many
-instances the breast and belly quite free from markings. Nearly all are
+instances the [[Breast|breast]] and belly quite free from markings. Nearly all are
 of small or moderate size--the largest among them being the gos-hawk
 (q.v.) and its immediate allies, and the male of the smallest,
 _Accipiter tinus_, is not bigger than a song-thrush. They are all birds
@@ -41,7 +41,7 @@ best known of these groups should bear--some authors terming it _Nisus_,
 and others, who seem to have the most justice on their side,
 _Accipiter_. In Europe there are two species--first, _A. nisus_, the
 common sparrow-hawk, which has a wide distribution from Ireland to
-Japan, extending also to northern India, Egypt and Algeria, and
+[[Japan]], extending also to northern India, Egypt and Algeria, and
 secondly, _A. brevipes_ (by some placed in the group _Micronisus_ and by
 others called an _Astur_), which only appears in the south-east and the
 adjoining parts of Asia Minor and Persia. In North America the place of
@@ -52,10 +52,10 @@ some placed in another genus, _Cooperastur_), which is larger and has
 not so northerly a range. In South America there are four or five more,
 including _A. tinus_, before mentioned as the smallest of all, while a
 species not much larger, _A. minullus_, together with several others of
-greater size, inhabits South Africa. Madagascar and its neighbouring
+greater size, inhabits South Africa. [[Madagascar]] and its neighbouring
 islands have three or four species sufficiently distinct, and India has
 _A. badlus_. A good many more forms are found in south-eastern Asia, in
-the Indo-Malay Archipelago, and in Australia three or four species, of
+the Indo-Malay Archipelago, and in [[Australia]] three or four species, of
 which _A. cirrhocephalus_ most nearly represents the sparrow-hawk of
 Europe and northern Asia, while _A. radiatus_ and _A. approximans_ show
 some affinity to the gos-hawks (_Astur_) with which they are often

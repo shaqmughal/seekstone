@@ -7,12 +7,12 @@ id: 42-639
 
 # Indo-China
 
-INDO-CHINA, FRENCH.[1] The geographical denomination of French
-Indo-China includes the protectorates of Annam, Tongking and Cambodia,
-the colony of Cochin-China and part of the Laos country. In 1900 the
+INDO-CHINA, FRENCH.[1] The geographical [[Denomination|denomination]] of French
+Indo-China includes the protectorates of [[Annam]], Tongking and Cambodia,
+the colony of Cochin-China and part of the [[Laos]] country. In 1900 the
 newly-acquired territory of Kwang-Chow Bay, on the coast of China, was
 placed under the authority of the governor-general of Indo-China.
-Cochin-China, a geographical definition which formerly included all the
+Cochin-China, a geographical [[Definition|definition]] which formerly included all the
 countries in the Annamese empire--Tongking, Annam and Cochin-China--now
 signifies only the French colony, consisting of the "southern provinces"
 originally conquered from Annam, having Saigon as its capital. In its
@@ -20,7 +20,7 @@ entirety French Indo-China, the eastern portion of the Indo-Chinese
 peninsula, lies between 8° 30´ and 230 25´ N. and 100° and 109° 20´ E.
 It is bounded N. by China, on which side the frontiers have been
 delimited; E. and S.E. by the Gulf of Tongking and the China Sea; W. by
-the Gulf of Siam and Siam, and N.W. by Burma. The area is estimated at
+the Gulf of Siam and Siam, and N.W. by [[Burma]]. The area is estimated at
 about 290,000 sq. m., with a population of 17¼ millions, of whom 75 or
 80% are Annamese. The French inhabitants number about 13,000.
 
@@ -30,18 +30,18 @@ mountains, an offshoot of the great Chinese group of Yun-nan, which,
 making a double curve, forms an immense S. South and west of this
 mountain chain the country forms part of the Mekong basin. To the north
 and north-east of the chain the valley of the Song-Koi, or Red river,
-constitutes almost the whole of Tongking, of which its delta represents
+constitutes almost the whole of Tongking, of which its [[Delta|delta]] represents
 the most fertile and populous if not the largest portion. The small
 mountainous provinces of Lang-Son, That-Ke and Kao-Bang, however, belong
 geographically to the Si-Kiang basin. On the east the small province of
-Mon-Kay, on the borders of Kwang-Tung, forms a little basin enclosed
+Mon-Kay, on the [[Borders|borders]] of Kwang-Tung, forms a little basin enclosed
 between the mountains and the sea; on the south the province of
 Thanh-Hoa, although crossed by the small river Song-Ma, forms the
 extremity of the Red river delta and belongs to it, the two rivers being
 united at some distance from the sea by a natural channel formed by the
 junction of a northern branch of the Song-Ma with a southern branch of
 the Song-Koi. The Red river descends from the mountains of Yun-nan,
-rising near Tali-fu between deep and inaccessible gorges, and becomes
+rising near Tali-fu between deep and inaccessible [[Gorges|gorges]], and becomes
 navigable only on its entry into Tongking. Means have been taken to
 render it available to steam launches, and in consequence of an
 agreement between the state and the Compagnie des Correspondances
@@ -80,12 +80,12 @@ rendering Saigon the most important natural port of Indo-China.
   dislocated, folded and occasionally rounded into hills 1000 to 1300
   ft. in height, belonging to the Devonian period. Above these schists
   lie--more especially in the north and south of Tongking--marbles and
-  other highly crystalline limestones, upon which rest, unconformably in
+  other highly crystalline [[Limestone|limestones]], upon which rest, unconformably in
   places (Nong-Son, Ke-Bao, Hon-Gáy), Carboniferous formations. In the
   upper part of the Red river valley rich deposits of coal have been
   found between Yen-Bay and Hai-Duong, in a considerable tract of
   Tertiary rock. Limestone occurs also in the valley of the Mekong,
-  forming an extensive _massif_ in the district of Lakhon and in the
+  forming an extensive _[[Massif|massif]]_ in the district of Lakhon and in the
   basins of the Nam-Ka-Dinh and Nam-Hin-Bun. These limestones appear to
   be Carboniferous. In the region south of Lakhon the rock is Triassic,
   and gold has been found in several districts. The natives collect it
@@ -111,13 +111,13 @@ rendering Saigon the most important natural port of Indo-China.
   (from 86° to 93.2°). The damp unwholesome heat sometimes produces
   dysentery and cholera. The climate of Annam is less regular. The
   north-easterly monsoon, which is "the ocean-wind," brings the rains in
-  September. The north-easterly gales lower the temperature below 59°.
+  September. The north-easterly [[Gale|gales]] lower the temperature below 59°.
   September is the month in which the typhoon blows. During the dry
   season--June, July and August--the thermometer oscillates between 86°
   and 95°. The nights, however, are comparatively cool. Tongking has a
-  winter season--October to May. The temperature, lowered by fog and the
+  winter season--October to May. The temperature, lowered by [[Fog|fog]] and the
   rains, does not rise above 75.2° and descends to 50° over the delta,
-  and to 44.6° and even 42.8° in the highlands, where white frost is
+  and to 44.6° and even 42.8° in the highlands, where white [[Frost|frost]] is
   occasionally seen. The summer, on the other hand, is scorching. The
   wind veers to the south-east and remains there until October. The
   temperature rises to over 83°; often it reaches and continues for
@@ -128,20 +128,20 @@ rendering Saigon the most important natural port of Indo-China.
   _Fauna and Flora._--From the populous cultivated districts wild
   animals, once plentiful, have retired towards the wooded and
   mountainous districts. The wild life of Laos includes fairly numerous
-  herds of elephants, the rhinoceros (one- and two-horned rhinoceros
-  horn is employed as a "medicine"), tiger, panther, brown bear,
+  herds of [[Elephant|elephants]], the rhinoceros (one- and two-horned rhinoceros
+  [[Horn|horn]] is employed as a "medicine"), tiger, panther, brown bear,
   tree-bear, monkeys and rats, among which are the musk rat, the palm
   rat and the _nu-khi_, or rat found in the rice-fields of the
   highlands, in which its ravages are considerable. In mountain
-  districts the leopard, wild boar and deer are found, and in the
-  neighbourhood of habitations the tiger-cat and ichneumon. The buffalo
+  districts the [[Leopard|leopard]], wild boar and deer are found, and in the
+  neighbourhood of habitations the tiger-cat and ichneumon. The [[Buffalo|buffalo]]
   is commonly found wild in Laos as a domesticated animal it also holds
-  a prominent place. The zebu bull is used for transport purposes.
+  a prominent place. The zebu [[Bull|bull]] is used for transport purposes.
   Attempts to acclimatize the Arab horse and to introduce sheep from
   Aden and China have failed. There is, however, an indigenous race of
   horses, excellent in spite of their small size--the horses of Phu-Yen.
   Among birds the woodcock, peacock and numerous species of duck inhabit
-  the woods and marshes. The goose and guinea-fowl appear, as also the
+  the woods and marshes. The [[Goose|goose]] and guinea-fowl appear, as also the
   turkey, to have become easily acclimatized. Reptiles (apart from the
   caimans of the Mekong, which attain a length of over 30 ft., and are
   much appreciated by the Annamese as food) are extremely numerous and
@@ -150,12 +150,12 @@ rendering Saigon the most important natural port of Indo-China.
   to it--the _pa-beuk_ and the _pa-leun_, which attain a length of
   nearly 6 ft. All varieties of mosquitoes, ants and leeches combine to
   render the forests bordering the Mekong impracticable. Peculiar
-  species of grubs and caterpillars destroy the cotton and coffee
+  species of grubs and [[Caterpillar|caterpillars]] destroy the cotton and coffee
   plantations of Cochin-China. The silkworm may be said to be indigenous
   in Tongking, where there are several thousand acres of mulberry trees.
 
   The flora is inter-tropical, and comprises nearly all the trees known
-  in China and Japan. The bamboo is utilized in building and a variety
+  in China and [[Japan]]. The bamboo is utilized in building and a variety
   of other ways. Formerly the teak was believed not to exist in the
   forests of Indo-China, but it was found some years ago in considerable
   abundance, and plantations of it have been made. Certain hard woods
@@ -164,7 +164,7 @@ rendering Saigon the most important natural port of Indo-China.
   gives excellent results in Laos. Tea, of which there are a certain
   number of plantations in the highlands of Tongking and Annam, grows
   wild in Upper Laos, and in quality closely resembles the Pou-eurl or
-  Pueul variety noted in Yun-nan. Cocoa, coffee and cotton are
+  Pueul variety noted in Yun-nan. [[Cocoa]], coffee and cotton are
   cultivated in Tongking and Cambodia. Cinnamon and cardamoms are
   gathered in Laos and Annam. Ground nuts, sesame, sugar canes, pepper,
   jute, tobacco and indigo are also grown. The area under rice, which is
@@ -201,7 +201,7 @@ tolerant Buddhism, which in practice resolves itself chiefly into the
 worship of ancestors. Certain ceremonies performed in Cambodia resemble
 distantly the Brahminical cult. The Roman Catholic religion has been
 introduced by missionaries. The course of its history has not been free
-from catastrophes and accidents. There is an apostolical vicariate in
+from [[Catastrophe|catastrophes]] and accidents. There is an apostolical vicariate in
 Cochin-China, one in Cambodia and several mission stations in Tongking.
 Two of these missions are mainly conducted by Spanish priests.
 
@@ -217,9 +217,9 @@ Hanoi; of Cambodia, at Pnom-Penh. The government of the colonies having
 been transferred (1889) from the ministry of marine to the ministry of
 commerce, and in 1894 to the newly created ministry of the colonies, the
 control of the residencies passed gradually into the hands of civil
-agents. Cochin-China, which already by the decree of the 8th of February
+agents. Cochin-China, which already by the [[Decree|decree]] of the 8th of February
 1880 had been endowed with a colonial council, had a municipality, a
-chamber of commerce, and even a deputy in the French parliament. There
+chamber of commerce, and even a [[Deputy|deputy]] in the French parliament. There
 had thus been three distinct states, each with its own ruler and
 government. But by the decrees of the 17th of October and the 3rd of
 November 1887 the unity of Indo-China was determined. By decree of
@@ -227,7 +227,7 @@ October the post of director of the interior of Cochin-China was done
 away with and replaced by that of lieutenant-governor under the
 immediate authority of a governor-general. The functions and powers of
 the latter official were, however, but vaguely defined before the decree
-of the 21st of April 1891, which conferred on M J. M. A. de Lanessan,
+of the 21st of April 1891, which conferred on M J. M. A. de [[Lanessan]],
 appointed governor-general, the most extensive powers. The
 residents-general of Tongking, Annam and Cambodia, and the
 lieutenant-governor of Cochin-China, as well as the military
@@ -238,7 +238,7 @@ a share of authority, was unwelcome to numerous interests, which,
 combining, secured the abrupt recall of M de Lanessan on the 29th of
 December 1894. The decree of the 21st of April 1891 was not, however,
 revoked, but the powers it conferred were restricted. After the
-appointment of M Doumer, successor to M Rousseau, who died on the 10th
+appointment of M [[Doumer]], successor to M Rousseau, who died on the 10th
 of December 1896, this decree was again put in force on the former
 scale, and in 1898 it was supplemented by the decrees of the 3rd and
 31st of July, which definitely established the political and financial
@@ -266,7 +266,7 @@ of Cochin-China; the presidents of the chambers of commerce of Saigon,
 Hanoi and Hai-Phong; the presidents of the united chambers of commerce
 and agriculture of Annam and Cambodia; the presidents of the chambers of
 agriculture of Tongking and Cochin-China; four influential natives; the
-chief of the cabinet and the governor-general's secretary. This list
+chief of the [[Cabinet|cabinet]] and the governor-general's secretary. This list
 sufficiently indicates the departmental services, by means of which the
 general government is carried on. The Superior Council meets not only at
 Hanoi, the seat of the government, but also at Saigon, Hué and
@@ -276,7 +276,7 @@ attendance of the local authorities of regions other than those in which
 the place of meeting is situated. The Superior Council meets annually to
 receive the general budget and the local budgets which "must be accepted
 by the governor-general at a session of the Superior Council."[2] It
-must also be consulted on the distribution of military credits, and on
+must also be consulted on the distribution of military [[Credit|credits]], and on
 the credits to be devoted to public works. The _contrôle financier_,
 which scrutinizes and sanctions all measures of the public services
 involving outlay of money, is dependent on the ministry of the colonies.
@@ -296,7 +296,7 @@ comprising the chief military and naval authorities.
   Saigon, My-Tho, Vinh-Long, Ben-Tre, Chau-Doc, Kantho, Soc-Trang,
   Tra-vinh, Long-Xuyen for Cochin-China, at Pnom-Penh for Cambodia, and
   at Hanoi and Hai-Phong for Tongking. These courts are supplemented by
-  _juges de paix_ in Cochin-China, and there are _juges de paix_ at
+  _[[Juge|juges]] de paix_ in Cochin-China, and there are _juges de paix_ at
   Nam-Dinh (Tongking) and Tourane; elsewhere in the protectorates the
   residents perform judicial functions. There are criminal courts at
   Saigon, My-Tho, Vinh-Long and Long-Xuyen in Cochin-China, at Hanoi in
@@ -313,14 +313,14 @@ comprising the chief military and naval authorities.
   public works of Indo-China under the "direct authority of the
   governor-general as regards works entered to the general budget
   account." There is a director of public works in Indo-China at Saigon,
-  a director of engineering in the other countries. In 1895 a "special
+  a director of [[Engineering|engineering]] in the other countries. In 1895 a "special
   service" was created in Tongking to consider railway business.
 
   _Posts and Telegraphs._--The country is divided into two sections for
   the purposes of this service, the one comprising Annam, Tongking and
   Upper Laos, the other Cochin-China, Cambodia and Lower Laos. The post
   and telegraph offices in Indo-China number about three hundred.
-  Tourane communicates by submarine cable with Amoy in China, thence
+  Tourane communicates by submarine [[Cable|cable]] with Amoy in China, thence
   with Vladivostok and Europe.
 
   _The Army--Land Force._--The military services are under the authority
@@ -328,7 +328,7 @@ comprising the chief military and naval authorities.
   1907 comprised four regiments of colonial infantry with 22 batteries
   of artillery (10 in Tongking and 12 in Cochin-China). The native
   troops, numbering over 18,000, comprised four regiments of Tongkingese
-  _tirailleurs_ (sharp-shooters), two of Annamese, a battalion of
+  _tirailleurs_ (sharp-shooters), two of Annamese, a [[Battalion|battalion]] of
   Cambodian and a battalion of Chinese _tirailleurs_, a squadron of
   Annamese _chasseurs_ or light horse and two companies of engineers.
 
@@ -337,12 +337,12 @@ comprising the chief military and naval authorities.
   third-class cruiser and some minor vessels at Hai-Phong.
 
   The _Policing_ of the country is performed by natives (the _garde
-  indigène_) under European officers and by the _gendarmerie coloniale_,
+  indigène_) under European officers and by the _[[Gendarmerie|gendarmerie]] coloniale_,
   which is reinforced by native auxiliaries.
 
   _Money, &c._--The monetary unit is the _piastre_, which is of variable
-  value, having fallen from 4.50 francs to 2.40 francs and fluctuating
-  round that figure. The chief native coin is the _sapek_ of zinc or
+  value, having fallen from 4.50 [[Franc|francs]] to 2.40 francs and fluctuating
+  round that figure. The chief native [[Coin|coin]] is the _sapek_ of zinc or
   tin, six hundred of which strung together form a _ligature_, a tenth
   of which is called a _tien_. The piastre is worth 2700 sapeks. The
   unit of weight, the _picul_, equals 60.4 kilos. (about 133 lb.); the
@@ -385,7 +385,7 @@ comprising the chief military and naval authorities.
   monopoly of the purchase and sale of salt, and the monopoly of the
   purchase, manufacture and sale of opium.
 
-  The chief items of expenditure in 1904 were the following:--
+  The chief [[Item|items]] of expenditure in 1904 were the following:--
 
     Public Works                 £385,680
     Customs and "régies"          618,654
@@ -512,9 +512,9 @@ averse from French influence and instituted persecutions of the
 Christian missionaries and natives, which led, in the reign of Tu-duc in
 1858, to the arrival at Tourane of a French and Spanish fleet. The
 capture of that town was followed early in 1859 by the storming of
-Saigon, which Rigault de Genouilly, the French admiral, chose as his
+Saigon, which Rigault de Genouilly, the French admiral, [[Chose|chose]] as his
 base of operations. The French and Spanish were, however, too few to
-take the offensive, and were forced to submit to a blockade, conducted
+take the offensive, and were forced to submit to a [[Blockade|blockade]], conducted
 by the Annamese general Nguyen Tri Phuong, at the head of 20,000 troops.
 It was not till February 1861 that reinforcements under Admiral Charner
 reached Saigon, and the Annamese were defeated and My-Tho taken. A
@@ -526,7 +526,7 @@ operations that Tu-duc consented to the ratification of the treaty. In
 1863 Admiral de la Grandière was appointed governor of Cochin-China and
 in the same year France established her protectorate over Cambodia. It
 was under La Grandière that the exploration of Mekong was undertaken
-(see GARNIER, M. J. F.) and that in 1867 the three provinces of
+(see [[Garnier|GARNIER]], M. J. F.) and that in 1867 the three provinces of
 Cochin-China left to Annam were annexed. French intervention in
 Tongking, which began with the expedition of François Garnier to Hanoi
 in 1873, culminated after a costly and tedious war (see TONGKING) in the
@@ -540,7 +540,7 @@ distinct periods, characteristic of the political conception and
 governmental system adopted by the French government. In the first
 period, 1884-1891, the French agents in Tongking and Indo-China
 generally proceeded under cover of the treaty of 1884 with the definite
-conquest and annexation of Tongking and also Annam. Cochin-China itself
+conquest and [[Annexation|annexation]] of Tongking and also Annam. Cochin-China itself
 openly designed to seize the southern provinces of Annam, upon the
 borders of which it lay. This policy, momentarily checked by the war
 with China, was vigorously, even violently, resumed after the treaty of
@@ -549,7 +549,7 @@ General de Courcy. The Annamese government forthwith decided upon
 rebellion. An improvised attack upon the French troops was led by the
 ministers Thu-yet and Thu-ong. The revolt was promptly suppressed. The
 regent Thu-yet and the king Ham-N'ghi (crowned in August 1884) fled. At
-this time the French government, following a very widespread error,
+this time the French government, following a very widespread [[Error|error]],
 regarded Tongking and Annam as two distinct countries, inhabited by
 populations hostile to each other, and considered the Tongkingese as the
 oppressed vassals of the Annamese conqueror. To conquer Annam, it was
@@ -557,15 +557,15 @@ said, would liberate Tongking. This misconception produced the worst
 consequences. With the flight of the king civil war commenced in Annam.
 The people of Tongking, whose submission the court of Hué had not dared
 to demand, began to rise. Taking advantage of this state of anarchy,
-pirates of the Black Flag, Chinese deserters and Tongkingese rebels
+pirates of the Black [[Flag]], Chinese deserters and Tongkingese rebels
 devastated the country. The occupation of Tongking became a prolonged
 warfare, in which 25,000 French, compelled to guard innumerable posts,
 had to oppose an intangible enemy, appearing by night, vanishing by day,
 and practising brigandage rather than war. The military expenditure, met
 neither by commerce, which had become impossible, nor taxation, which
 the Annamese could not pay nor the French receive, resulted in heavy
-deficits. The resident-general, Paul Bert, who hoped to gain the
-confidence of the mandarins by kindness and goodwill, did not succeed in
+deficits. The resident-general, Paul [[Bert]], who hoped to gain the
+confidence of the mandarins by kindness and [[Goodwill|goodwill]], did not succeed in
 preventing, or even moderating, the action of the military régime.
 Than-quan, Hon-Koi, Lao-Kay, Pak-Lun and Kao-Bang were occupied, but the
 troops were driven back to the delta and almost invested in the towns.
@@ -577,7 +577,7 @@ Constans, however, appointed "provisional" governor-general after the
 death of M. Filippini, succeeded to a certain extent in reviving
 commerce in the towns of the delta. MM. Richaud, Bihourd and Piquet,
 successors of M. Constans, were all powerless to deal with the
-uninterrupted "bush-fighting" and the augmentation of the deficit, for
+uninterrupted "bush-fighting" and the [[Augmentation|augmentation]] of the deficit, for
 no sooner was the latter covered by grants from the mother country than
 it began to grow again. At the close of the financial year in 1890
 France had paid 13,000,000 francs. In April 1891 the deficit again
@@ -606,7 +606,7 @@ governor-general and to respect him, and commanded rebels to lay down
 arms. The effect was immediate--disorders in the delta ceased. The
 pirates alone, in revolt against the king of Annam and all authority,
 continued their brigandage. But the governor-general instituted four
-"military districts," the commanders of which were commissioned to
+"military districts," the [[Commander|commanders]] of which were commissioned to
 destroy the pirates. At the same time he placed a force of native
 police, the _linh co_, at the disposal of the mandarins, hitherto
 regarded with suspicion and intentionally deprived of all means of
@@ -614,13 +614,13 @@ action. Order was restored within the delta. In the mountainous
 districts infested by pirates roads were opened and posts established.
 The chief haunts of the pirates were demolished, and during 1893 the
 foremost pirate chiefs gave in their submission. The Indo-Chinese budget
-regained its balance. On the Chinese frontier agreements were concluded
+regained its [[Balance|balance]]. On the Chinese frontier agreements were concluded
 with Marshal Sou, in command of the Chinese forces, regarding the
 simultaneous repression of piracy in both countries. But on the Mekong
 difficulties arose with the Siamese. For centuries Siam had occupied the
 right bank of the Mekong, and her troops had crossed the river and
 occupied the left bank. Luang-Prabang was in the hands of the Siamese,
-who had also established posts at Stung-treng and elsewhere. Friction
+who had also established posts at Stung-treng and elsewhere. [[Friction]]
 occurred between the French agents and Siamese soldiery. After the death
 of Inspector Crosgurin on the 5th of June 1893 the French government
 occupied Stung-treng and Khong. France demanded explanations and redress
@@ -631,10 +631,10 @@ French flotilla, consisting of the gunboats "L'Inconstant" and "La
 Comète," crossed the bar of the Menam on 13th July 1893, forced the
 entrance of the channel, and anchored at Bangkok, before the French
 legation. A second ultimatum was then presented. It contained the
-following conditions:--First the occupation of Chantabun by the French
+following conditions:--First the occupation of [[Chantabun]] by the French
 until the Siamese should have entirely evacuated the left bank of the
 Mekong; secondly, the Siamese to be interdicted from maintaining
-military forces at Battambang, Siem-Reap, and generally from
+military forces at [[Battambang]], Siem-Reap, and generally from
 establishing fortified positions within 15½ m. of the right bank of the
 Mekong; thirdly, Siam to be interdicted from having armed boats on the
 great lake Tonle-Sap. This agreement was executed immediately, the
@@ -647,13 +647,13 @@ France took possession of Laos, a treaty, on the basis of the ultimatum,
 being signed on the 1st of October 1893. The disputes to which this
 affair with Siam had given rise between France and Great Britain were
 amicably settled by an agreement concluded on the 15th of January 1896.
-This "declaration," virtually ratifying the treaty concluded in 1893
+This "[[Declaration|declaration]]," virtually ratifying the treaty concluded in 1893
 between France and Siam, settled the limits of the zones of influence of
 the two contracting powers in the north of the Mekong regions and on the
 frontiers of Siam and Burma. Great Britain resigned to France the
 regions of the Muong-Sing which she had previously occupied. The great
 part of Siam included in the Menam basin was declared neutral, so also
-the Me-ping basin in the north, Meklong Pechaburi and Bang Pa Kong
+the Me-ping basin in the north, Meklong Pechaburi and [[Bang]] Pa Kong
 rivers in the south. The neutral zone, 15½ m. wide on the right bank of
 the Mekong, was formally recognized.
 
@@ -692,14 +692,14 @@ lines.
   AUTHORITIES.--M. J. F. Gamier, _Voyage d'exploration en Indo-Chine_
   (Paris, 1873); J. M. A. de Lanessan, _L'Indo-Chine française_ (Paris,
   1889); P. Doumer, _L'Indo-Chine française_ (Souvenirs) (Paris, 1905);
-  F. Bernard, _Indo-Chine_ (Paris, 1901), L. Salaun, _L'Indo-Chine_
+  F. [[Bernard]], _Indo-Chine_ (Paris, 1901), L. Salaun, _L'Indo-Chine_
   (Paris, 1903); A. Girault, _Principes de colonisation et de
   législation coloniale_ (Paris, 1907); M. Petit, _Les Colonies
   françaises_ (2 vols., Paris, 1902); J. C. Gervais Courtellemont,
   _L'Indo-Chine_ (Paris, 1902); A. Neton, _L'Indo-Chine et son avenir
   économique_ (Paris, 1904); A. Pavie, _Mission Pavie Indo-Chine_
   (1879-1895); _Géographie et voyages_ (Paris, 1901-1906); H. Lorin, _La
-  France: puissance coloniale_ (Paris, 1906); M. Monnier, _La Tour
+  France: puissance coloniale_ (Paris, 1906); M. Monnier, _[[La Tour]]
   d'Asie: Cochinchine, Annam, Tonkin_ (Paris, 1899); E. Bonhoure,
   _L'Indo-Chine_ (Paris, 1900); R. Castex, _Les Rivages indo-chinois_
   (Paris, 1904); L. de Reinach, _Le Laos_ (Paris, 1902) (this work gives
@@ -717,7 +717,7 @@ FOOTNOTES:
     by the colonial council and approved by the governor-general alone.
 
   [3] This does not include the expenditure on account of the 3% loan
-    of £8,000,000, which is inscribed in a special account. The debt of
+    of £8,000,000, which is inscribed in a special account. The [[Debt|debt]] of
     the government-general of Indo-China is composed as follows:--
 
       +---------------------------+--------------+-----------------+
@@ -740,7 +740,7 @@ FOOTNOTES:
 
 
 INDO-EUROPEAN LANGUAGES. The Indo-European (I.E.) languages are a family
-of kindred dialects spread over a large part of Europe, and of Asia as
+of kindred [[Dialect|dialects]] spread over a large part of Europe, and of Asia as
 far as India.
 
 The main branches so far identified fall easily into two groups of four.
@@ -761,23 +761,23 @@ and much its largest part is situated in Asia. To the _centum_-group
 belong (1) Greek; (2) the Italic languages, including Latin, Oscan,
 Umbrian and various minor dialects of ancient Italy; (3) Celtic,
 including (a) the Q-Celtic languages, Irish, Manx and Scotch Gaelic, (b)
-the P-Celtic, including the language of ancient Gaul, Welsh, Cornish and
+the P-Celtic, including the language of ancient [[Gaul]], Welsh, Cornish and
 Breton: the differentiation, which exists also in the Italic languages,
 turning upon the treatment of original _kw_ sounds, which all the Italic
 languages save Latin and the little-known Faliscan and the (b) group of
 the Celtic languages change to _p_. With these go (4) the Germanic or
-Teutonic languages, including (a) Gothic, (b) the Scandinavian
+Teutonic languages, including (a) [[Gothic]], (b) the Scandinavian
 languages, Swedish, Danish, Norwegian, Icelandic--differentiated in
 historical times out of a single language, Old Norse,--(c) West
 Germanic, Including English and Frisian, Low Frankish (from which spring
 modern Dutch and Flemish), Low and High German.
 
-To the _satem_-group belongs (1) Aryan or Indo-Iranian, including (a)
+To the _satem_-group belongs (1) [[Aryan]] or Indo-Iranian, including (a)
 Sanskrit, with its descendants, (b) Zend, and (c) Old Persian, from
 which is ultimately descended Modern Persian, largely modified, however,
 by Arabic words. This group is often divided into two sub-groups,
 _Indo-Aryan_, including the languages of India, and _Iranian_, used as a
-general title for Zend and Old Persian as the languages of ancient Iran.
+general title for Zend and Old Persian as the languages of ancient [[Iran]].
 Although the sounds of Indo-Aryan and Iranian differ considerably,
 phrases of the earliest form of the one can be transliterated into the
 other without change in vocabulary or syntax. (2) To the west of these
@@ -786,7 +786,7 @@ lies Armenian, which is so full of borrowed Iranian words that only in
 language. It is probably related to, or the descendant of, the ancient
 Phrygian, which spread into Asia from Thrace by the migration of tribes
 across the Hellespont. Of ancient Thracian unfortunately we know very
-little. (3) North of the Black Sea, and widening its borders in all
+little. (3) North of the [[Black Sea]], and widening its borders in all
 directions, comes the great Balto-Slavonic group. In this there are two
 branches somewhat resembling the division between Indo-Aryan and
 Iranian. Here three small dialects on the south-east coast of the Baltic
@@ -814,7 +814,7 @@ finds apparently confirming the statement of Herodotus (vii. 170) that
 the earlier population survived in later times only at Praesos and
 Polichne. Names of deities worshipped by the Aryan branch are reported
 to have been discovered in the German excavations at Boghaz-Keui (anc.
-_Pteria_, q.v.) in Cappadocia; names of kings appear in widely separated
+_Pteria_, q.v.) in [[Cappadocia]]; names of kings appear in widely separated
 areas elsewhere in Asia,[1] and a language not hitherto known has
 recently been found in excavations in Turkestan and christened by its
 first investigators Tocharish.[2] So far as yet ascertained, Tocharish
@@ -830,14 +830,14 @@ replaced the _k_ by a sibilant.
 Till the latter part of the 18th century it was the universal practice
 to refer all languages ultimately to a Hebrew origin, because Hebrew,
 being the language of the Bible, was assumed, with reference to the
-early chapters of Genesis, to be the original language. Even on these
+early chapters of [[Genesis]], to be the original language. Even on these
 premises the argument was unsound, for the same authority also recorded
-a confusion of tongues at Babel, so that it was unreasonable to expect
+a confusion of tongues at [[Babel]], so that it was unreasonable to expect
 that languages thus violently metamorphosed could be referred so easily
 at a later period to the same original. The first person to indicate
 very briefly the existence of the Indo-European family, though he gave
 it no distinctive name, was Sir William Jones in his address to the
-Bengal Oriental Society in 1786. Being a skilled linguist, he recognized
+[[Bengal]] Oriental Society in 1786. Being a skilled linguist, he recognized
 that Sanskrit must be of the same origin as Greek, Latin, Teutonic
 (Germanic) and possibly Celtic (_Asiatic Researches_, i. p. 422; _Works_
 of Sir W. Jones, i. p. 26, London, 1799). Unfortunately Sir William
@@ -845,7 +845,7 @@ Jones's views as to the relationship of the languages were not adopted
 for many years by later investigators. He had said quite definitely, "No
 philologer could examine them all three (Sanskrit, Greek and Latin)
 without believing them to have sprung from some common source, which
-perhaps no longer exists." Friedrich Schlegel, who learnt Sanskrit from
+perhaps no longer exists." [[Friedrich]] Schlegel, who learnt Sanskrit from
 Alexander Hamilton in Paris nearly twenty years later, started the view
 that Sanskrit, instead of being the sister, was the mother of the other
 languages, a mistake which, though long since refuted in all
@@ -860,22 +860,22 @@ under Indo-European many languages like Basque, Etruscan and Arabian
 (his term for Semitic), which certainly do not belong to this family of
 languages at all; and if the term is taken to mean, as it would seem to
 imply, all the languages spoken in India and Europe, it is undoubtedly a
-misnomer. There are many languages in India, as those of the Dravidians
-in Southern India and those of Northern Assam, which do not belong to
+misnomer. There are many languages in India, as those of the [[Dravidian|Dravidians]]
+in Southern India and those of Northern [[Assam]], which do not belong to
 this family. On the other hand there are many languages belonging to the
 family which exist outside both India and Europe--Zend, Old Persian,
 Armenian, Phrygian, to say nothing of languages recently discovered. The
 term most commonly used in Germany is "Indo-Germanic." This was employed
-by Klaproth as early as 1823. It is said not to have been invented by
+by [[Klaproth]] as early as 1823. It is said not to have been invented by
 him, but by whom and when it was invented is not quite ascertained.[4]
 It is an attempt to name the family by its most easterly and most
 westerly links. At the time when it was invented it had not yet been
 settled whether Celtic was or was not a member of this family. But in
 any case the term would not have been wrong, for members of the Germanic
-stock have been settled for above a thousand years in Iceland, the most
+stock have been settled for above a thousand years in [[Iceland]], the most
 westerly land of Europe, and for the last four centuries have
 increasingly dominated the continent of America. As has been pointed out
-by Professor Buck of Chicago (_Classical Review_, xviii. p. 400), owing
+by Professor [[Buck]] of [[Chicago]] (_Classical Review_, xviii. p. 400), owing
 to the German method of pronouncing _eu_ as _oi_, the word
 "Indo-Germanic" is easier for a German to pronounce than
 "Indo-European." Attempts to discover a more accurate and less ponderous
@@ -914,7 +914,7 @@ need arise.
   "likely." But all recent investigation goes to show that before the
   Indo-European languages separated they possessed words with all the
   characteristics which we recognize in substantives like the Latin
-  _dominus_ or verbs like the Greek [Greek: deiknytai]. Or, to put the
+  _[[Dominus|dominus]]_ or verbs like the Greek [Greek: deiknytai]. Or, to put the
   same fact in another way, by the comparative method it is impossible
   to reach a period when the speakers of Indo-European languages spoke
   in roots. A "root" is only a convenient philological abstraction; it
@@ -964,7 +964,7 @@ need arise.
   therefore the word must have belonged to the original language. The
   dispersion of the Indo-European people over the areas they now
   inhabit, or inhabited in the earliest times known to history, must
-  have been gradual, and commerce or communication between different
+  have been [[Gradual|gradual]], and commerce or communication between different
   branches must have always existed to some extent; the word might thus
   have been transmitted from one community to another. When a word is
   found in two branches which are geographically remote from one another
@@ -1019,7 +1019,7 @@ need arise.
   to us in the earliest forms of all or nearly all the existing
   languages. (1) The noun had certainly a large number of distinct cases
   in the singular: nominative, accusative, genitive, ablative, locative,
-  instrumental, dative.[5] In the plural, however, there was less
+  instrumental, [[Dative|dative]].[5] In the plural, however, there was less
   variety, the forms for dative and ablative being from the earliest
   times identical. In the dual, the oblique cases cannot be restored
   with certainty, so little agreement is there between the languages. In
@@ -1083,11 +1083,11 @@ need arise.
   continued action when it is regarded as a whole. Greek shows this very
   clearly. In Athenian official inscriptions it was usual to fix the
   date of the record by stating at the commencement who was the chief
-  magistrate (archon) of the year. This was expressed by the imperfect
+  [[Magistrate|magistrate]] (archon) of the year. This was expressed by the imperfect
   ([Greek: êrche]). But when reference was made to a past archonship,
   that was expressed by the aorist ([Greek: êpxe]). The same
   characteristic is evident also in prohibitions; thus, in Plato's
-  _Apology of Socrates_, [Greek: mê thorybêsête] is "Do not begin to
+  _[[Apology]] of Socrates_, [Greek: mê thorybêsête] is "Do not begin to
   make a disturbance," [Greek: mê thorybeite] is "Do not keep on making
   a disturbance." These points are most easily illustrated from Greek,
   because Greek, better than the other languages, has kept the
@@ -1157,14 +1157,14 @@ need arise.
   genitive and the ablative, and the instrumental with the ablative. The
   loss of the locative as an independent case had not long preceded
   historical times, because it survives in Oscan, the kindred dialect of
-  the neighbouring Campania. Greek has confused ablative with genitive,
+  the neighbouring [[Campania]]. Greek has confused ablative with genitive,
   except for one small relic recently discovered on an inscription at
-  Delphi; in the consonant stems it has replaced the dative by the
+  [[Delphi]]; in the consonant stems it has replaced the dative by the
   locative form and confused in it dative, locative and instrumental
   meanings. In some other members of the family, e.g. Germanic, the
   confusion has gone still farther.
 
-  The fate of the verb is similar, though the two paradigms do not
+  The [[Fate|fate]] of the verb is similar, though the two paradigms do not
   necessarily decay at the same rate. Thus Latin has modified its verb
   system much more than its noun system, and Greek, while reducing
   seriously its noun forms, shows a very elaborate verb system, which
@@ -1181,7 +1181,7 @@ need arise.
   Celtic dialects.
 
 The origin and spread of the Indo-European languages has long been, and
-remains, a vexed question. No sooner had Bopp laid the foundation of
+remains, a vexed question. No sooner had [[Bopp]] laid the foundation of
 Comparative Philology in his great work, the first edition of which
 appeared in 1833-1835, than this question began to be seriously
 considered. The earlier writers agreed in regarding Asia as the original
@@ -1192,7 +1192,7 @@ the migrations of mankind always proceeded towards the west. The view
 propounded by an English philologist, Dr R. G. Latham, that the original
 home was in Europe, was scouted by one of the most eminent writers on
 the subject--Victor Hehn--as lunacy possible only to one who lived in a
-country of cranks. Latham's view was first put forward in 1851, and in
+country of [[Crank|cranks]]. Latham's view was first put forward in 1851, and in
 half a century opinion had almost universally come over to his side. Max
 Müller indeed to the last held to the view that the home was "somewhere
 in Asia," and Professor Johannes Schmidt of Berlin, in a paper read
@@ -1200,7 +1200,7 @@ before the Oriental Congress at Stockholm in 1889, argued for a close
 contact between early Indo-European and Assyrian civilization, from the
 borrowing of one or two words and the existence of duodecimal elements
 in the Indo-European numeral system side by side with the prevalent
-decimal system--the dozen, the gross, the long hundred (120), &c. At 60
+decimal system--the dozen, the [[Gross|gross]], the long hundred (120), &c. At 60
 the systems crossed, and 60 was a very characteristic element in
 Assyrian numeration, whence come our minutes and seconds and many other
 units.[6]
@@ -1230,8 +1230,8 @@ units.[6]
   imperfectly known. In Western Europe two prehistoric races are known,
   the palaeolithic and the neolithic. The former, distinguished by their
   great skill in drawing figures of animals, especially the horse, the
-  reindeer, and the mammoth, preceded the period of the Great Ice Age
-  which rendered Northern Europe to the latitude of London and Berlin
+  reindeer, and the mammoth, preceded the period of the Great [[Ice]] Age
+  which rendered Northern Europe to the [[Latitude|latitude]] of London and Berlin
   uninhabitable for a period, the length of which, as of all geological
   ages, cannot definitely be ascertained. For the present purpose,
   however, this is of less importance, because it is not claimed that
@@ -1256,7 +1256,7 @@ units.[6]
   language have been from the earliest times at which we can trace it
   the language of a mixed race? (b) It is usual to assume that the
   Indo-European stock was tall and blond, in fact much as the classical
-  writers describe the early Germans. But the truth of this hypothesis
+  writers describe the early Germans. But the truth of this [[Hypothesis|hypothesis]]
   is much more difficult to demonstrate. In most countries known to the
   ancients where blond hair prevailed, at the present day dark or brown
   hair is much more in evidence. Moreover the colour of fair hair often
@@ -1270,10 +1270,10 @@ units.[6]
   Galatae, by whom apparently he means the Germans, he says that their
   hair as children is generally _white_, but as they grow up it is
   assimilated to the colour of their fathers. The ethnological argument
-  as to long-headed and short-headed races (dolichocephalic and
+  as to long-headed and short-headed races ([[Dolichocephalic|dolichocephalic]] and
   brachycephalic) seems untrustworthy, because in countries described as
   dolichocephalic short skulls abound and vice versa. Moreover this
-  classification, to which much more attention has been devoted than its
+  [[Classification|classification]], to which much more attention has been devoted than its
   inventor Retzius ever intended, is in itself unsatisfactory. The
   relation between the length and breadth of the head without
   consideration of the total size is clearly an unsatisfactory
@@ -1284,7 +1284,7 @@ units.[6]
   less importance than the size of the quantities. Anthropologists
   appear now to recognize this themselves.
 
-  The argument from physical geography seems more important. But here
+  The argument from physical [[Geography|geography]] seems more important. But here
   also no certain answer can be obtained till more is known of the
   conditions, in early times, of the eastern part of the area.
   According to Ratzel[7] the Caspian was once very much larger than it
@@ -1370,7 +1370,7 @@ units.[6]
   wealth consisted. Hence a cow was offered to an honoured guest, cows
   were the object of armed raids upon their neighbours, and when a
   member of the family died, a cow was killed to accompany him in the
-  next world. Even the phenomena of nature to their naive imaginations
+  next world. Even the phenomena of nature to their naive [[Imagination|imaginations]]
   could be represented by cows: the clouds of heaven were cows whose
   milk nourished the earth, the stars were a herd with the sun as the
   bull amongst them, the earth was a cow yielding her increase. Before
@@ -1379,22 +1379,22 @@ units.[6]
   not other cereals, and various leguminous plants were cultivated. Oxen
   drew the plough and the wagon. Industry also had developed with the
   introduction of agriculture; the carpenter with a variety of tools
-  appears to construct farm implements, buildings and furniture, and the
+  appears to construct farm [[Implement|implements]], buildings and furniture, and the
   smith is no less busy. Implements had begun with stone, but by this
   time were made of bronze if not of iron, for the metals gold, silver,
   copper, tin were certainly known. Spinning and weaving had also begun;
   pottery was well developed. The flocks and herds and agriculture
-  supplied food with plenty of variety; fermented liquors, mead,
-  probably wine and perhaps beer, were used, not always in moderation. A
+  supplied food with plenty of variety; fermented liquors, [[Mead|mead]],
+  probably wine and perhaps [[Beer|beer]], were used, not always in moderation. A
   great variety of military weapons had been invented, but geographical
   reasons prevented navigation from developing in Bactria. Towns existed
-  and fortified places. The people were organized in clans, the clans in
+  and fortified places. The people were organized in [[Clan|clans]], the clans in
   tribes. At the head of all, though not in the most primitive epoch,
   was the king, who reigned not by hereditary right, but by election.
-  Though money had not yet been invented, exchange and barter
+  Though money had not yet been invented, [[Exchange|exchange]] and [[Barter|barter]]
   flourished; there were borrowers and lenders, and property passed from
   father to son. Though we have no definite information as to their
-  laws, justice was administered; murder, theft and fraud were punished
+  laws, justice was administered; murder, theft and [[Fraud|fraud]] were punished
   with death, imprisonment or fine (_Résumé général_ at end of vol.
   ii.).
 
@@ -1404,9 +1404,9 @@ units.[6]
   recent writer adopts Pictet's views of the Indo-European family. But
   his list of domesticated animals is approximately correct, if
   domestication is used loosely simply of animals that might be kept by
-  the Indo-European man about his homestead. Even at the present day
+  the Indo-European man about his [[Homestead|homestead]]. Even at the present day
   domestication means different things in the case of different animals.
-  A pig is not domesticated as a dog is; in areas like the Hebrides or
+  A pig is not domesticated as a dog is; in areas like the [[Hebrides]] or
   western Ireland, where cattle and human beings share the two ends of
   the same building, domestication means something very different from
   the treatment of large herds on a farm extending to many hundreds of
@@ -1425,14 +1425,14 @@ units.[6]
   been well said, "of all the ordinary means of gaining a
   livelihood--with the exception perhaps of mining--agriculture is the
   most laborious, and is never voluntarily adopted by men who have not
-  been accustomed to it from their childhood" (Mackenzie Wallace,
-  Russia, new ed. i. p. 266, in relating the conversion of the Bashkir
+  been accustomed to it from their childhood" ([[Mackenzie]] Wallace,
+  Russia, new ed. i. p. 266, in relating the [[Conversion|conversion]] of the Bashkir
   Tatars to agriculture). Even the plough, in the primitive form of a
   tree stump with two branches, one forming the handle, the other the
   pole, was developed, and to this period may belong the representations
   in rock carvings in Sweden and the Alps of a pair of oxen in the
   plough (S. Müller, _Nordische Altertumskunde_, i. 205; Dechelette,
-  _Manuel d'archéologie_, ii. pp. 492 ff.). The Indo-European
+  _[[Manuel]] d'archéologie_, ii. pp. 492 ff.). The Indo-European
   civilization in its beginnings apparently belongs to the chalcolithic
   period (sometimes described by the barbarous term of Italian origin
   _eneolithic_) when copper, if not bronze had come in, but the use of
@@ -1443,9 +1443,9 @@ units.[6]
   The horse is an animal of the open plain; the foal always accompanies
   the mother, for at first its neck is too short to allow it to graze,
   and the mare, unlike the cow, has no large udder in which to carry a
-  great supply of milk. The cow, on the other hand, hides her calf in a
+  great supply of milk. The cow, on the other hand, hides her [[Calf|calf]] in a
   brake when she goes to graze, and is more a woodland animal. The pig's
-  natural habitat is the forest where beech mast, acorns, or chestnuts
+  natural habitat is the forest where [[Beech|beech]] mast, acorns, or chestnuts
   are plentiful. The goat is a climber and affects the heights, while
   the sheep also prefers short grass to the richer pastures suited to
   kine. To collect and tame all those animals implies control of an
@@ -1457,7 +1457,7 @@ units.[6]
   Indo-European languages, and it has generally been assumed that the
   beech must have been known from the first and therefore must have been
   a tree which flourished in the original home. Now the habitat of the
-  beech is to the west of a line drawn from Königsberg to the Crimea.
+  beech is to the west of a line drawn from Königsberg to the [[Crimea]].
   The argument assumes that its distribution was always the same. But
   nothing is more certain than that in different ages different trees
   succeed one another on the same soil. In the peat mosses of
@@ -1465,14 +1465,14 @@ units.[6]
   parallel among the trees which grow in the same district now, where
   the oak has a hard struggle to live at all, and where experience
   teaches the planter that coniferous trees will be more successful. On
-  the coast of Denmark in the same way the conifer has replaced the
+  the coast of [[Denmark]] in the same way the conifer has replaced the
   beech since the days of the "kitchen middens," from which so much
   information as to the primitive inhabitants of that area has been
   obtained. But with regard to the names of trees there are two serious
   pitfalls which it is difficult to avoid. (a) It is common to give a
   tree the name of another which in habit it resembles. In England the
   oriental plane does not grow freely north of the Trent; accordingly,
-  farther north the sycamore, which has a leaf that a casual observer
+  farther north the sycamore, which has a [[Leaf|leaf]] that a casual observer
   might think similar, has usurped the name of the plane. (b) In the
   case of the beech (Lat. _fagus_), the corresponding Greek word [Greek:
   phêgos] does not mean _beech_ but _oak_, or possibly, if one may judge
@@ -1480,12 +1480,12 @@ units.[6]
   been suggested that the word is connected with the verb [Greek:
   phagein] to eat, so that it was originally the tree with edible fruit
   and could thus be specialized in different senses in different areas.
-  If, however, Bartholomae's connexion of the Kurd _buz_, "elm" (_Idg.
+  If, however, Bartholomae's connexion of the Kurd _buz_, "[[Elm|elm]]" (_Idg.
   Forschungen_, ix. 271) be correct, there can be no relation between
   [Greek: phagein] and [Greek: phêgos], but the latter comes from a root
   *_bhaug_, in which the _g_ would become _z_ among the _satem_
-  languages. The birch is a more widely spread tree than the beech,
-  growing as luxuriantly in the Himalayas as in western Europe, but
+  languages. The [[Birch|birch]] is a more widely spread tree than the beech,
+  growing as luxuriantly in the [[Himalaya|Himalayas]] as in western Europe, but
   notwithstanding, the Latin _fraxinus_, which is almost certainly of
   the same origin, means not _birch_ but _ash_, while the word akin to
   ash (Gr. [Greek: oxuê]) appears in Latin without the _k_ suffix as
@@ -1494,7 +1494,7 @@ units.[6]
   Cornish _onnen_, from an original Celtic *_onna_ from *_os-na_. One of
   the most widely spread tree names is the word _tree_ itself, which
   appears in a variety of forms, Gr. [Greek: drys], Goth _triu_; Skt.
-  _daru_, [Greek: dory], &c., which is sometimes as in Greek specially
+  _[[Daru|daru]]_, [Greek: dory], &c., which is sometimes as in Greek specially
   limited to the oak, while the Indian _deodar_ (_deva-daru_) is a
   conifer. O. Schrader, who in his remarkable book, _Sprachvergleichung
   und Urgeschichte_ (1883, 3rd ed., 1906-1907), locates the original
@@ -1506,11 +1506,11 @@ units.[6]
   trees are limited to a small number of languages, and the meaning in
   different languages is widely different, as Gr. [Greek: elatê],
   "pine," Old High German _linta_, "linden," with which go the Latin
-  _linter_, "boat," and Lithuanian _lentà_, "board." The lime tree and
+  _linter_, "boat," and Lithuanian _[[Lent|lent]]à_, "board." The lime tree and
   the birch do not exist in Greece, and the Latin _betula_ is a
   borrowing from Gaulish (Irish _bethe_), the native word _fraxinus_, as
-  we have seen, being used for the _ash_. The equation of the Latin
-  _taxus_, "yew," with Gr. [Greek: toxon], "bow," is no doubt correct;
+  we have seen, being used for the _ash_. The [[Equation|equation]] of the Latin
+  _taxus_, "yew," with Gr. [Greek: toxon], "[[Bow|bow]]," is no doubt correct;
   Schrader's equation of Skt. _dhanvan_, "bow," with the German _tanne_,
   "fir," must, if correct, show at least a change of material, for no
   wood is less well adapted for a bow than fir. The only conclusion that
@@ -1520,7 +1520,7 @@ units.[6]
 
   Some of the names for cultivated plants are widely spread, but like
   the names of trees do not always indicate the same thing. This is not
-  surprising if we consider that the word _corn_, within the Teutonic
+  surprising if we consider that the word _[[Corn|corn]]_, within the Teutonic
   languages alone, means wheat in England, oats in Scotland, rye in
   Germany, barley in Sweden, maize in the United States of America. Thus
   the Skt. _yáva_ means corn or barley, in Zend corn (modern Persian
@@ -1541,11 +1541,11 @@ units.[6]
   places between palaeolithic and neolithic. They included nuts, plums,
   birdcherry, sloe, &c., and along with them was a little heap of grains
   of wheat. If Piette's observations are correct, this find must go back
-  to a date long preceding the fruits found by Heer in the
+  to a date long preceding the fruits found by [[Heer]] in the
   pile-dwellings of Switzerland. Here also cherry-stones were found,
   though the modern cherry is said to have been imported first by
   Lucullus in the first century B.C. from Cerasus in Pontus, whence its
-  name. In the pile-dwellings a considerable number of apples were
+  name. In the pile-dwellings a considerable number of [[Apple|apples]] were
   found. They were generally cut up into two or three pieces, apparently
   to be dried for winter use. In all probability they were wild apples
   of the variety _Pirus silvatica_, which is found across the whole of
@@ -1561,7 +1561,7 @@ units.[6]
   The attempt has been made to limit the possible area by a
   consideration of three animals which are said not to occur in certain
   parts of it--(a) the eel, which is said not to be found in the Black
-  Sea; (b) the honey bee, which is not found in that part of Central
+  Sea; (b) the honey [[Bee|bee]], which is not found in that part of Central
   Asia drained by the Oxus and Jaxartes; (c) the tortoise, which is not
   found in northern areas. From evidence collected by Schrader from a
   specialist at Bucharest (_Sprachvergleichung_,[3] ii. p. 147) eels are
@@ -1586,12 +1586,12 @@ units.[6]
   Europe north of the Alps and Carpathians and across Asia north of the
   Hindu Kush there are few geographical obstacles to prevent the rapid
   spread of peoples from any part of its area to any other, and, as we
-  have seen, the Celts and the Hungarians, &c., have, in the historical
+  have seen, the [[Celt|Celts]] and the Hungarians, &c., have, in the historical
   period, demonstrated the rapidity with which such migrations could be
   made. Such migration may possibly account for the appearance of a
   people using a _centum_ language so far east as Turkestan. But our
   information as to Tocharish is still too fragmentary to decide the
-  question. It is impossible here to discuss at any length the relations
+  question. It is impossible here to [[Discus|discuss]] at any length the relations
   between the separate Indo-European languages, a subject which has
   formed, from somewhat different points of view, the subject of
   Kretschmer's _Einleitung in die Geschichte der griechischen Sprache_
@@ -1622,7 +1622,7 @@ units.[6]
   (1890); _Reallexikon der indogermanischen Altertumskunde_ (1901); M.
   Much, _Die Heimat der Indogermanen_ (1902, 2nd ed. 1904); E. de
   Michelis, _L'Origine degli Indo-europei_ (1903); H. Hirt, _Die
-  Indogermanen_ (2 vols., 1905-1907); S. Feist, _Europa im Lichte der
+  Indogermanen_ (2 vols., 1905-1907); S. Feist, _[[Europa]] im Lichte der
   Vorgeschichte und die Ergebnisse der vergleichenden indogermanischen
   Sprachwissenschaft_, 1910, in W. Sieglin's _Quellen und Forschungen
   zur alten Geschichte und Geographie_. Important for special sections
@@ -1675,7 +1675,7 @@ FOOTNOTES:
     pp. 34 ff.).
 
   [8] See the essay on "Evolution and the Science of Language," in
-    _Darwin and Modern Science_ (1909), p. 524 f.
+    _[[Darwin]] and Modern Science_ (1909), p. 524 f.
 
 ## References
 

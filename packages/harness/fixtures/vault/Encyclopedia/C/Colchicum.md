@@ -27,7 +27,7 @@ _C. autumnale_ and its numerous varieties as well as other species of
 the genus, are well known in cultivation, forming some of the most
 beautiful of autumn-flowering plants. They are very easy to cultivate
 and do not require lifting. The most suitable soil is a light, sandy
-loam enriched with well decomposed manure, in a rather moist situation.
+[[Loam|loam]] enriched with well decomposed manure, in a rather moist situation.
 The corms should be planted not less than 3 in. deep. Propagation is
 effected by seed or increase of corms; the seed should be sown as soon
 as it is ripe in June or July.
@@ -35,11 +35,11 @@ as it is ripe in June or July.
 Colchicum was known to the Greeks under the name of [Greek: Kolchikon],
 from [Greek: Kolchis], or Colchis, a country in which the plant grew;
 and it is described by Dioscorides as a poison. In the 17th century the
-corms were worn by some of the German peasantry as a charm against the
+corms were worn by some of the German peasantry as a [[Charm|charm]] against the
 plague. The drug was little used till 1763, when Baron Störck of Vienna
 introduced it for the treatment of dropsy. Its use in febrile diseases,
 at one time extensive, is now obsolete. As a specific for gout colchicum
-was early employed by the Arabs; and the preparation known as _eau
+was early employed by the [[Arabs]]; and the preparation known as _eau
 médicinale_, much resorted to in the 18th century for the cure of gout,
 owes its therapeutic virtues to colchicum; but general attention was
 first directed by Sir Everard Home to the use of the drug in gout.
@@ -51,7 +51,7 @@ at a temperature of 130° to 150° F.
 The chief constituents of colchicum are two alkaloids, _colchicine_ and
 _veratrine_. Colchicine is the active principle and may be given in full
 form in doses of 1/32 to 1/16 grain. It is a yellow, micro-crystalline
-powder, soluble in water, alcohol and chloroform, and forming readily
+powder, soluble in water, alcohol and [[Chloroform|chloroform]], and forming readily
 decomposed salts with acids. It is the methyl ester of a neutral body
 _colchicein_, which may be obtained in white acicular crystals.
 
@@ -84,11 +84,11 @@ powerful of known cholagogues. Though this action doubtless contributes
 to its remarkable therapeutic power, it is very far from being an
 adequate explanation of the virtues of the drug in gout. In larger doses
 colchicum or colchicine acts as a most violent gastrointestinal
-irritant, causing terrible pain, colic, vomiting, diarrhoea, haemorrhage
+irritant, causing terrible pain, colic, vomiting, diarrhoea, [[Haemorrhage|haemorrhage]]
 from the bowel, thirst and ultimately death from collapse. This is
 accelerated by a marked depressant action upon the heart, similar to
 that produced by veratrine and aconite. Large doses also depress the
-nervous system, weakening the anterior horns of grey matter in the
+nervous system, weakening the anterior [[Horn|horns]] of grey matter in the
 spinal cord so as ultimately to cause complete paralysis, and also
 causing a partial insensibility of the cutaneous nerves of touch and
 pain. The action of colchicum or colchicine upon the kidneys has been
@@ -103,7 +103,7 @@ The sole but extremely important use of this drug is as a specific for
 gout. It has an extraordinary power over the pain of acute gout; it
 lessens the severity and frequency of the attacks when given
 continuously between them, and it markedly controls such symptoms of
-gout as eczema, bronchitis and neuritis, whilst it is entirely
+gout as [[Eczema|eczema]], [[Bronchitis|bronchitis]] and neuritis, whilst it is entirely
 inoperative against these conditions when they are not of gouty origin.
 Despite the general recognition of these facts, the pharmacology of
 colchicum has hitherto thrown no light on the pathology of gout, and the
@@ -119,7 +119,7 @@ remain so until the efficient poison of gout is isolated and defined.
 When that is done, colchicine may be found to exhibit a definite
 chemical interaction with this hitherto undiscovered substance.
 
-In _colchicum poisoning_, empty the stomach, give white of egg, olive or
+In _colchicum poisoning_, empty the stomach, give white of [[Egg|egg]], olive or
 salad oil, and water. Use hot bottles and stimulants, especially trying
 to counteract the cardiac depression by atropine, caffeine,
 strophanthin, &c.

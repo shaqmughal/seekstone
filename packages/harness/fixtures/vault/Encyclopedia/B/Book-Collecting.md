@@ -19,14 +19,14 @@ easily procurable at any moment, no one has any reason for collecting
 it. The anticipation that it will always be easily procurable is often
 unfounded; but so long as the anticipation exists it restrains
 collecting, with the result that Horn-books are much rarer than First
-Folio Shakespeares. It has even been laid down that the ultimate rarity
+[[Folio]] Shakespeares. It has even been laid down that the ultimate rarity
 of books varies in the inverse ratio of the number of copies originally
 printed, and though the generalization is a little sweeping, it is not
 far from the truth. To triumph over small difficulties being the chief
-element in games of skill, the different varieties of book-collecting,
+element in [[Games|games]] of skill, the different varieties of book-collecting,
 which offer almost as many varieties of grades of difficulty, make
 excellent hobbies. But in its essence the pastime of a book-collector is
-identical with the official work of the curator of a museum, and thus
+identical with the official work of the [[Curator|curator]] of a museum, and thus
 also with one branch of the duties of the librarian of any library of
 respectable age. In its inception every library is a literary workshop,
 with more or less of a garden or recreation ground attached according as
@@ -39,7 +39,7 @@ antiquaries gradually pick out books which they find to be still alive.
 Of some of these the interest cannot be reproduced in its entirety by
 any mere reprint, and it is this salvage which forms the literary
 museum. Book-collectors are privileged to leap at once to this stage in
-their relations with books, using the dealers' shops and catalogues as
+their relations with books, using the dealers' shops and [[Catalogue|catalogues]] as
 depositories from which to pick the books which will best fit with the
 aim or central idea of their collection. For in the modern private
 collection, as in the modern museum, the need for a central idea must be
@@ -67,7 +67,7 @@ although adumbrations of it existed under the Roman empire and towards
 the end of the middle ages, book-collecting, as it is now understood, is
 essentially of modern growth. A glance through what must be regarded as
 the medieval text-book on the love of books, the _Philobiblon_,
-attributed to Richard de Bury (written in 1345), shows that it deals
+attributed to Richard de [[Bury]] (written in 1345), shows that it deals
 almost exclusively with the delights of literature, and Sebastian
 Brant's attack on the book-fool, written a century and a half later,
 demonstrates nothing more than that the possession of books is a poor
@@ -84,7 +84,7 @@ case. Hardly a book of all that Jean Grolier (1479-1565) caused to be
 bound so tastefully for himself and his friends reveals any antiquarian
 instincts in its liberal owner, who bought partly to encourage the best
 printers of his day, partly to provide his friends with the most recent
-fruits of Renaissance scholarship. In England Archbishop Cranmer, Lords
+fruits of Renaissance scholarship. In England Archbishop [[Cranmer]], Lords
 Arundel and Lumley, and Henry, prince of Wales (1594-1612), in France
 the famous historian Jacques Auguste de Thou (1553-1617), brought
 together the best books of their day in all departments of learned
@@ -124,25 +124,25 @@ slowly fought their way up from amid the heavy volumes of theology by
 which they were at first overwhelmed.
 
 While book-collecting thus came into existence it was rather as an added
-grace in the formation of a fine library than as a separate pursuit.
+[[Grace|grace]] in the formation of a fine library than as a separate pursuit.
 Almost all the large book-buyers of the 16th, 17th and 18th centuries
 bought with a public object, or were rewarded for their zeal by their
 treasures being thought worthy of a public resting-place. Sir Thomas
 Smith (d. 1577) bequeathed his books to Queens' College, Cambridge;
 Archbishop Parker's were left under severe restrictions to Corpus
 Christi College in the same university; Sir Thomas Bodley refounded
-during his lifetime the university library at Oxford, to which also Laud
+during his lifetime the university library at Oxford, to which also [[Laud]]
 gave liberally and Selden bequeathed his books. The library of
 Archbishop Williams went to St John's College, Cambridge; that of
 Archbishop Usher was bought for Trinity College, Dublin. The
-mathematical and scientific books of Thomas Howard, earl of Norfolk (d.
+mathematical and scientific books of Thomas [[Howard]], earl of Norfolk (d.
 1646), were given by his grandson to the Royal Society; the heraldic
 collections of Ralph Sheldon (d. 1684) to Heralds' College; the library
 in which Pepys took so much pleasure to Magdalene College, Cambridge.
 Bishop Moore's books, including a little volume of Caxton quartos,
 almost all unique, were bought by George I. and presented to the
 university library at Cambridge. Archbishop Marsh, who had previously
-bought Stillingfleet's printed books (his manuscripts went to Oxford),
+bought Stillingfleet's printed books (his [[Manuscript|manuscripts]] went to Oxford),
 founded a library at Dublin. The immense accumulations of Thomas
 Rawlinson (d. 1725) provided materials for a series of auctions, and
 Harley's printed books were sold to Osbourne the bookseller. But the
@@ -162,11 +162,11 @@ Archbishop Cranmer and Lords Arundel and Lumley. A few notable
 book-buyers could not afford to bequeath their treasures to libraries,
 e.g. Richard Smith, the secondary of the Poultry Compter (d. 1675), at
 whose book-sale (1682) a dozen Caxtons sold for from 2 S. to 18 S.
-apiece, Dr Francis Bernard (d. 1698), Narcissus Luttrell(d. 1732) and Dr
-Richard Mead (d. 1754). At the opposite end of the scale, in the earls
+apiece, Dr Francis [[Bernard]] (d. 1698), Narcissus Luttrell(d. 1732) and Dr
+Richard [[Mead]] (d. 1754). At the opposite end of the scale, in the earls
 of Sunderland (d. 1722) and Pembroke (d. 1733), we have early examples
 of the attempts, seldom successful, of book-loving peers to make their
-libraries into permanent heirlooms. But as has been said, the drift up
+libraries into permanent [[Heirloom|heirlooms]]. But as has been said, the [[Drift|drift]] up
 to 1760 was all towards public ownership, and the libraries were for the
 most part general in character, though the interest in typographical
 antiquities was already well marked.
@@ -176,19 +176,19 @@ magnificent library of over 80,000 books and pamphlets and 440
 manuscripts which he accumulated shows on a large scale the catholic and
 literary spirit of the book-lovers of his day. As befitted the library
 of an English king it was rich in English classics as well as in those
-of Greece and Rome, and the typographical first-fruits of Mainz, Rome
+of Greece and Rome, and the typographical first-fruits of [[Mainz]], Rome
 and Venice were balanced by numerous works from the first presses of
 Westminster, London and Oxford. This noble library passed in 1823 to the
 British Museum, which had already received the much smaller but
 carefully chosen collection of the Rev. C.M. Cracherode (d. 1799), and
 in 1846 was further enriched by the wonderful library formed by Thomas
-Grenville, the last of its great book-loving benefactors, who died in
+[[Grenville]], the last of its great book-loving benefactors, who died in
 that year, aged ninety-one. A few less wealthy men had kept up the old
-public-spirited tradition during George III.'s reign, Garrick
+public-spirited tradition during George III.'s reign, [[Garrick]]
 bequeathing his fine collection of English plays and Sir Joseph Banks
 his natural history books to the British Museum, while Capell's
 Shakespearian treasures enriched Trinity College, Cambridge, and those
-of Malone went to the Bodleian library at Oxford, the formation of these
+of [[Malone]] went to the Bodleian library at Oxford, the formation of these
 special collections, in place of the large general library with a
 sprinkling of rarities, being in itself worth noting. But the noble
 book-buyers celebrated by the Rev. Thomas Frognall Dibdin in his
@@ -196,24 +196,24 @@ numerous bibliographical works kept mainly on the old lines, though with
 aims less patriotic than their predecessors. The duke of Roxburghe's
 books were sold in 1812, and the excitement produced by the auction,
 more especially by the competition between Lord Spencer and the duke of
-Marlborough (at that time marquess of Blandford) for an edition of
-Boccaccio printed by Valdarfer at Venice in 1471, led to the formation
-of the Roxburghe Club at a commemorative dinner. In 1819 the duke of
+[[Marlborough]] (at that time marquess of Blandford) for an edition of
+[[Boccaccio]] printed by Valdarfer at Venice in 1471, led to the formation
+of the Roxburghe Club at a commemorative [[Dinner|dinner]]. In 1819 the duke of
 Marlborough's books were sold, and the Boccaccio for which he had paid
 L2260 went to Earl Spencer (d. 1834) for L750, to pass with the rest of
 his rare books to Mrs Rylands in 1892, and by her gift to the John
 Rylands library at Manchester in 1899. The books of Sir M.M. Sykes were
-sold in 1824, those of J.B. Inglis in 1826 (after which he collected
+sold in 1824, those of J.B. [[Inglis]] in 1826 (after which he collected
 again) and those of George Hibbert in 1829. The 150,000 volumes brought
-together by Richard Heber at an expense of about L100,000 were disposed
+together by Richard [[Heber]] at an expense of about L100,000 were disposed
 of by successive sales during the years 1834-1837 and realized not much
 more than half their cost. The wonderful library of William Beckford (d.
 1844), especially rich in fine bindings, bequeathed to his daughter, the
 duchess of Hamilton, was sold in 1882, with the Hamilton manuscripts,
 for the most part to the German government. Their dispersal was preceded
 in 1881 by that of the Sunderland collection, already mentioned. The
-library of Brian Fairfax (d. 1749), which had passed to the earls of
-Jersey, was sold in 1885, that of Sir John Thorold (d. 1815) in 1884,
+library of [[Brian]] [[Fairfax]] (d. 1749), which had passed to the earls of
+[[Jersey]], was sold in 1885, that of Sir John Thorold (d. 1815) in 1884,
 his "Gutenberg" Bible fetching L3900 and his Mainz Psalter L4950. The
 great collection of manuscripts formed by Sir Thomas Phillipps (d. 1872)
 has furnished materials for numerous sales. The printed books of the
@@ -224,20 +224,20 @@ government (part of the Libri and Barrois collection, all, save one MS.
 of 13th century German ballads, resold to France), the Italian
 government (the rest of the Libri collection) Mr Yates Thompson (the
 MSS. known as the Appendix) and Mr J. Pierpont Morgan (the Lindau
-Gospels). The collections formed by Mr W.H. Miller (d. 1848, mainly
-English poetry), the duke of Devonshire (d. 1858) and Mr Henry Huth (d.
+[[Gospel|Gospels]]). The collections formed by Mr W.H. Miller (d. 1848, mainly
+English poetry), the duke of [[Devonshire]] (d. 1858) and Mr Henry Huth (d.
 1878), are still intact.
 
 Among the book-buyers of the reign of George III., John Ratcliffe, an
 ex-coal-merchant, and James West had devoted themselves specially to
 Caxtons (of which the former possessed 48 and the latter 34) and the
-products of other early English presses. The collections of Capell and
+products of other early English presses. The collections of [[Capell]] and
 Garrick were also small and homogeneous. Each section, moreover, of some
 of the great libraries that have just been enumerated might fairly be
 considered a collection in itself, the union of several collections in
 the same library being made possible by the wealth of their purchaser
 and the small prices fetched by most classes of books in comparison with
-those which are now paid. But perhaps the modern cabinet theory of
+those which are now paid. But perhaps the modern [[Cabinet|cabinet]] theory of
 book-collecting was first carried out with conspicuous skill by Henry
 Perkins (d. 1855), whose 865 fine manuscripts and specimens of early
 printing, when sold in 1870, realized nearly L26,000. If surrounded by a
@@ -256,13 +256,13 @@ their own treasures. In place of the miscellaneous library in which
 every class of book claimed to be represented, and which needed a
 special room or gallery to house it, they aimed at small collections
 which should epitomize the owner's tastes and require nothing bulkier
-than a neat bookcase or cabinet to hold them. The French bibliophiles
+than a neat [[Bookcase|bookcase]] or cabinet to hold them. The French bibliophiles
 whom M. Beraldi celebrated applied this theory with great success to
 collecting the dainty French illustrated books of the 18th century which
 were their especial favourites. In England Richard Fisher treated his
 fine examples of early book-illustration as part of his collection of
 engravings, etchings and woodcuts (illustrated catalogue printed 1879),
-and Frederick Locker (Locker-Lampson) formed in two small bookcases such
+and Frederick Locker ([[Locker-Lampson]]) formed in two small bookcases such
 a gathering of first editions of English imaginative literature that the
 mere catalogue of it (printed in 1886) produced the effect of a stately
 and picturesque procession. Some of the book-hoards of previous
@@ -295,7 +295,7 @@ at the Kelmscott and Doves' presses, and in the fine paper copies of a
 certain _Life of Queen Victoria_, for which a premium of 250% was asked
 before publication, is another proof that until the manufacturing stage
 is over collecting cannot safely begin. But with this exception the
-field is open, and the 19th century offers as good a hunting ground as
+field is open, and the 19th century offers as good a [[Hunting|hunting]] ground as
 any of its predecessors.
 
 
@@ -306,30 +306,30 @@ heads under which these may be grouped are few and fairly easily
 defined. They may be here briefly indicated together with some notes as
 to the literature which has grown up round them. The development which
 bibliographical literature has taken is indeed very significant of the
-changed ideals of collectors. Brunet's _Manuel du libraire_, first
+changed ideals of collectors. Brunet's _[[Manuel]] du libraire_, first
 published in 1810, attained its fifth edition in 1860-1864, and has
 never since been re-edited (supplement, 1878-1880). The _Bibliographer's
-Manual of English Literature_ by W.T. Lowndes, first published in 1834,
-was revised by H.G. Bohn in 1857-1864, and of this also no further
+[[Manual]] of English Literature_ by W.T. [[Lowndes]], first published in 1834,
+was revised by H.G. [[Bohn]] in 1857-1864, and of this also no further
 edition has been printed. These two works between them gave all the
 information the old-fashioned collectors required, the _Tresor de livres
-rares et precieux_ by J.G.T. Graesse (Dresden, 1859-1867, supplementary
+rares et precieux_ by J.G.T. Graesse ([[Dresden]], 1859-1867, supplementary
 volume in 1869) adding little to the information given by Brunet. The
 day of the omnivorous collector being past, the place of these general
-manuals has been taken by more detailed bibliographies and handbooks on
+[[Manuals|manuals]] has been taken by more detailed bibliographies and handbooks on
 special books, and though new editions of both Lowndes and Brunet would
 be useful to librarians and booksellers no publisher has had the courage
 to produce them.
 
 To attract a collector a book must appeal to his eye, his mind or his
-imagination, and many famous books appeal to all three. A book may be
+[[Imagination|imagination]], and many famous books appeal to all three. A book may be
 beautiful by virtue of its binding, its illustrations or the simple
 perfection and harmony of its print and paper. The attraction of a fine
 binding has always been felt in France, the high prices quoted for
-Elzevirs and French first editions being often due much more to their
+[[Elzevir|Elzevirs]] and French first editions being often due much more to their
 17th and 18th century jackets than to the books themselves. The
 appreciation of old bindings has greatly increased in England since the
-exhibition of them at the Burlington Fine Arts Club in 1891 (illustrated
+exhibition of them at the [[Burlington]] [[Fine Arts]] Club in 1891 (illustrated
 catalogue printed the same year), English blind stamped bindings,
 embroidered bindings, and bindings attributable to Samuel Mearne
 (_temp._ Charles II.) being much more sought after than formerly. (See
@@ -347,7 +347,7 @@ Kristeller's _Early Florentine Woodcuts_ (1897), the duc de Rivoli's
 (Prince d'Essling's) _Bibliographie des livres a figures venitiens
 1469-1525_ (1892, new edition 1906); for Germany, Muther's _Die deutsche
 Bucherillustration der Gothik und Fruhrenaissance_ (1884); for Holland
-and Belgium, Sir W.M. Conway's _The Woodcutters of the Netherlands in
+and [[Belgium]], Sir W.M. Conway's _The Woodcutters of the Netherlands in
 the 15th Century_ (1884); for France the material will all be found in
 Claudin's _Histoire de l'imprimerie en France_ (1900, &c.). Some
 information on the illustrated books of the early 16th century is given
@@ -361,8 +361,8 @@ XVIII^e siecle_ (5th ed., 1886), much of the same information, with a
 little more about English books, being given in Lewine's _Bibliography
 of Eighteenth Century Art and Illustrated Books_ (1898). English books
 with coloured illustrations, for which there has arisen a sudden
-fashion, are well described in Martin Hardie's _English Colour Books_
-(1906). Bewick's work has been described by Mr Austin Dobson.
+fashion, are well described in [[Martin]] Hardie's _English Colour Books_
+(1906). Bewick's work has been described by Mr Austin [[Dobson]].
 
 Appreciation of finely printed books has seldom extended much beyond the
 15th century. In addition to the works mentioned in the article on
@@ -373,15 +373,15 @@ fully, the later period.
 
 Among books which make an intellectual appeal to the collectors may be
 classed all works of historical value which have not been reprinted, or
-of which the original editions are more authentic, or convincing, than
+of which the original editions are more [[Authentic|authentic]], or convincing, than
 modern reprints. It is evident that these cover a vast field, and that
 the collector in taking possession of any corner of it is at once the
 servant and rival of historical students. Lord Crawford's vast
 collections of English, Scottish and Irish proclamations and of papal
-bulls may be cited as capital instances of the work which a collector
+[[Bull|bulls]] may be cited as capital instances of the work which a collector
 may do for the promotion of historical research, and the philological
-library brought together by Prince Lucien Bonaparte (_An Attempt at a
-Catalogue_ by V. Collins, published 1894) and the Foxwell collection of
+library brought together by Prince Lucien [[Bonaparte]] (_An Attempt at a
+Catalogue_ by V. [[Collins]], published 1894) and the Foxwell collection of
 early books on political economy (presented to the university of London
 by the Goldsmiths' Company) are two other instances of recent date. Much
 collecting of this kind is now being carried on by the libraries of
@@ -446,7 +446,7 @@ attaching to an original issue. One of the recognized byways of
 book-collecting, however, used to be the collection of as many editions
 as possible of the same work. When this result in the acquisition of
 numerous late editions of no value for the text its only usefulness
-would appear to be the index it may offer to the author's popularity.
+would appear to be the [[Index|index]] it may offer to the author's popularity.
 But in translations of the Bible, in liturgical works, and in editions
 published during the author's life the aid offered to the study of the
 development of the final text by a long row of intermediate editions may

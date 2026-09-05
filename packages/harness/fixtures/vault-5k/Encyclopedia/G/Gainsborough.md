@@ -16,18 +16,18 @@ portrait of a man whom he had detected on the watch for robbing his
 father's orchard, he was allowed to follow the bent of his genius in
 London, with some instruction in etching from Gravelot, and under such
 advantages as Hayman, the historical painter, and the academy in St
-Martin's Lane could afford. Three years of study in the metropolis,
+Martin's [[Lane]] could afford. Three years of study in the metropolis,
 where he did some modelling and a few landscapes, were succeeded by two
 years in the country. Here he fell in love with Margaret Burr, a young
-lady of many charms, including an annuity of L200, married her after
+lady of many [[Charm|charms]], including an annuity of L200, married her after
 painting her portrait, and a short courtship, and, at the age of twenty,
 became a householder in Ipswich, his rent being L6 a year. The annuity
 was reported to come from Margaret's real (not her putative) father, who
-was one of the exiled Stuart princes or else the duke of Bedford. She
+was one of the exiled Stuart princes or else the duke of [[Bedford]]. She
 was sister of a young man employed by Gainsborough's father as a
 traveller. At Ipswich, Gainsborough tells us, he was "chiefly in the
 face-way"; his sitters were not so numerous as to prevent him from often
-rambling with his friend Joshua Kirby (president of the Society of
+rambling with his friend [[Joshua]] Kirby (president of the Society of
 Artists) on the banks of the Orwell, from painting many landscapes with
 an attention to details which his later works never exhibited, or from
 joining a musical club and entertaining himself and his fellow-townsmen
@@ -55,8 +55,8 @@ standing, for a part of which the artist paid L300 a year.
 Gainsborough had not been many months in London ere he received a
 summons to the palace, and to the end of his career he divided with West
 the favour of the court, and with Reynolds the favour of the town.
-Sheridan, Burke, Johnson, Franklin, Canning, Lady Mary Wortley Montagu,
-Mrs Siddons, Clive, Blackstone, Hurd, were among the number of those who
+Sheridan, Burke, Johnson, [[Franklin]], Canning, Lady Mary Wortley Montagu,
+Mrs Siddons, [[Clive]], [[Blackstone]], Hurd, were among the number of those who
 sat to him. But in London as in Bath his landscapes were exhibited, were
 commended, and were year after year returned to him, "till they stood,"
 says Sir William Beechey, "ranged in long lines from his hall to his
@@ -67,8 +67,8 @@ three princesses, he withdrew that and his other pictures, and he never
 afterwards exhibited there. Even before this he had taken no part in the
 business of the Institution. After seceding he got up an exhibition in
 his own house, not successfully. In February 1788, while witnessing the
-trial of Warren Hastings, he felt an extraordinary chill at the back of
-his neck; this was the beginning of a cancer (or, as some say, a
+trial of Warren [[Hastings]], he felt an extraordinary chill at the back of
+his neck; this was the beginning of a [[Cancer|cancer]] (or, as some say, a
 malignant wen) which proved fatal on the 2nd of August of the same year.
 He lies buried at Kew.
 
@@ -87,7 +87,7 @@ ten years. There is a pretty anecdote that Gainsborough, if he ever had
 a tiff with her, would write a pacifying note, confiding it to his dog
 Fox, who delivered it to the lady's pet spaniel Tristram. The note was
 worded as in the person of Fox to Tristram, and Mrs Gainsborough replied
-in the best of humours, as from Tristram to Fox.
+in the best of [[Humour|humours]], as from Tristram to Fox.
 
 Gainsborough and Reynolds rank side by side as the greatest
 portrait-painters of the English school. They were at variance; but
@@ -99,11 +99,11 @@ of touch, Gainsborough is peculiarly eminent. His handling was slight
 for the most part, and somewhat arbitrary, but in a high degree
 masterly; and his landscapes and rustic compositions are not less gifted
 than his portraits. Among his finest works are portraits of "Lady
-Ligonier," "Georgiana, duchess of Devonshire," "Master Buttall (the Blue
+[[Ligonier]]," "Georgiana, duchess of Devonshire," "Master Buttall (the Blue
 Boy)," now in Grosvenor House, "Mrs Sheridan and Mrs Tickell," "Orpin,
-the parish clerk" (National Gallery), "the Hon. Mrs Graham" (Scottish
+the parish clerk" (National Gallery), "the Hon. Mrs [[Graham]]" (Scottish
 National Gallery), his own portrait (Royal Academy), "Mrs Siddons"
-(National Gallery); also "the Cottage Door," "the Market Cart," "the
+(National Gallery); also "the Cottage Door," "the Market [[Cart]]," "the
 Return from Harvest," "the Woodman and his Dog in a Storm" (destroyed by
 fire), and "Waggon and Horses passing a Brook" (National Gallery--this
 was a favourite with its painter). He made a vast number of drawings and
@@ -132,7 +132,7 @@ Devonshire," does really represent that lady, is by no means certain. It
 was mysteriously stolen in 1876 in London immediately after it had been
 purchased by Messrs Agnew at the Wynn Ellis sale at a huge price, and a
 long time elapsed before it was retraced. The picture was taken to New
-York, and eventually to Chicago; and in April 1901, through the agency
+York, and eventually to [[Chicago]]; and in April 1901, through the agency
 of a man named Pat Sheedy, it was given up to the American detectives
 working for Messrs Agnew; it was then sold to Mr Pierpont Morgan.
 
@@ -170,7 +170,7 @@ are hurried and flimsy, with a minimum of solid content, though not
 other than artistic in feeling. Here are a few of his axioms:--"What
 makes the difference between man and man is real performance, and not
 genius or conception." "I don't think it would be more ridiculous for a
-person to put his nose close to the canvas and say the colours smelt
+person to put his nose close to the canvas and say the [[Colours|colours]] smelt
 offensive than to say how rough the paint lies, for one is just as
 material as the other with regard to hurting the effect and drawing of a
 picture." "The eye is the only perspective-master needed by a
@@ -182,7 +182,7 @@ landscape-painter."
   Thomas Gainsborough_. He had quarrelled with the painter at Bath,
   partly because the latter had undertaken to do a portrait of him as a
   gift, and then neglected the work, and finally, in a huff, bundled it
-  off only half done. The crucial question here is whether or not
+  off only half done. The [[Crucial|crucial]] question here is whether or not
   Gainsborough was reasonably pledged to perform any such gratuitous
   work, and this point has been contested. Thicknesse's book is in part
   adverse to Gainsborough, and more particularly so to his wife.

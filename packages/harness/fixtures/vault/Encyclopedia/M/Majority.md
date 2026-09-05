@@ -6,13 +6,13 @@ topic: dynasties-studies
 
 # Majority
 
-MAJORITY (Fr. _majorité_; Med. Lat. _majoritas_; Lat. _major_, greater),
+MAJORITY (Fr. _majorité_; Med. Lat. _majoritas_; Lat. _[[Major|major]]_, greater),
 a term signifying the greater number. In legislative and deliberative
 assemblies it is usual to decide questions by a majority of those
 present at a meeting and voting. In law, majority is the state of being
 of full age, which in the United Kingdom is twenty-one years of age. A
 person attains his majority at twelve o'clock at night of the day
-preceding his twenty-first birthday (see INFANT; AGE).
+preceding his twenty-first birthday (see [[Infant|INFANT]]; AGE).
 
 ## See also
 

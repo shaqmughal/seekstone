@@ -37,17 +37,17 @@ of their employment. In 1907 alone laws regulating lobbying were passed
 in nine states--Alabama, Connecticut, Florida, Idaho, Missouri,
 Nebraska, North Dakota, South Dakota and Texas.
 
-  See James Bryce, _American Commonwealth_ (New York, ed. 1889), i.
+  See James Bryce, _American [[Commonwealth]]_ (New York, ed. 1889), i.
   673-678; Paul S. Reinsch, _American Legislatures and Legislative
   Methods_ (New York, 1907), chaps. viii., ix.; Margaret A. Schaffner,
   "Lobbying," in _Wisconsin Comparative Legislation Bulletins_, No. 2;
   and G. M. Gregory, _The Corrupt Use of Money in Politics and Laws for
-  its Prevention_ (Madison, Wis., 1893).
+  its Prevention_ ([[Madison]], Wis., 1893).
 
 
 FOOTNOTE:
 
-  [1] Bills introduced for purposes of blackmail.
+  [1] Bills introduced for purposes of [[Blackmail|blackmail]].
 
 ## See also
 

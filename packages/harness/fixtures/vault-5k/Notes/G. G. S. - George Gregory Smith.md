@@ -9,11 +9,11 @@ id: 42-4126
 # G. G. S. - George Gregory Smith
 
 G. G. S. - GEORGE GREGORY SMITH, M.A.
-Professor of English Literature, Queen's University, Belfast. Author of
+Professor of English Literature, Queen's University, [[Belfast]]. Author of
 _The Days of James IV._; _The Transition Period_; _Specimens of Middle
 Scots_; &c.
 
-- Barbour, John.
+- [[Barbour]], John.
 
 ## See also
 

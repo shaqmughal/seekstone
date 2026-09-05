@@ -14,7 +14,7 @@ packages and the names of the consignors thereof. In England, by the
 Revenue Act 1884, s. 3, where goods are exported for which no bond is
 required, a manifest must be delivered to the officer of customs by the
 master or owner of the ship within six days after the final clearance,
-or a declaration in lieu thereof, the penalty in default being a sum not
+or a [[Declaration|declaration]] in lieu thereof, the penalty in [[Default|default]] being a sum not
 exceeding five pounds.
 
 ## See also

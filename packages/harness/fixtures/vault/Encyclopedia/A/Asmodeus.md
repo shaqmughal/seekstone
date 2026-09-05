@@ -12,11 +12,11 @@ or Apollyon (Rev. ix. 11). In the Talmud he plays a great part in the
 legends concerning Solomon. In the apocryphal book of Tobit (iii. 8)
 occurs the well-known story of his love for Sara, the beautiful daughter
 of Raguel, whose seven husbands were slain in succession by him on their
-respective bridal nights. At last Tobias, by burning the heart and liver
+respective bridal nights. At last Tobias, by burning the heart and [[Liver|liver]]
 of a fish, drove off the demon, who fled to Egypt. From the part played
 by Asmodeus in this story, he has been often familiarly called the
-genius of matrimonial unhappiness or jealousy, and as such may be
-compared with Lilith. Le Sage makes him the principal character in his
+genius of matrimonial unhappiness or [[Jealousy|jealousy]], and as such may be
+compared with Lilith. [[Le Sage]] makes him the principal character in his
 novel _Le Diable boiteux_. Both the word and the conception seem to have
 been derived originally from the Persian. The name has been taken to
 mean "covetous." It is in any case no doubt identical with the demon

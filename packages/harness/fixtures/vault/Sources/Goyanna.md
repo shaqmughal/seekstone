@@ -10,7 +10,7 @@ produces sugar, rum, coffee, tobacco, cotton, cattle, hides and castor
 oil. The Goyanna river is navigable for small vessels nearly up to the
 city, but its entrance is partly obstructed and difficult. Goyanna is
 one of the oldest towns of the state, and was occupied by the Dutch from
-1636 to 1654. It has several old-style churches, an orphans' asylum,
+1636 to 1654. It has several old-style churches, an orphans' [[Asylum|asylum]],
 hospital and some small industries.
 
 ## See also

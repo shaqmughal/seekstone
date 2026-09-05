@@ -59,7 +59,7 @@ sailors' club, built by the Roman Catholic mission. The bishop of
 Singapore and Sarawak is also bishop of Labuan. The European graveyard
 has repeatedly been the scene of outrages perpetrated, it is believed,
 by natives from the mainland of Borneo, the graves being rifled and the
-hair of the head and other parts of the corpses being carried off to
+hair of the head and other parts of the [[Corpse|corpses]] being carried off to
 furnish ornaments to weapons and ingredients in the magic philtres of
 the natives. Pulau Dat, a small island in the near neighbourhood of
 Labuan, is the site of a fine coco-nut plantation whence nuts and copra

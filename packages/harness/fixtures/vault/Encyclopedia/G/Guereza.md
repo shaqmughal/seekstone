@@ -2,13 +2,13 @@
 
 GUEREZA, the native name of a long-tailed, black and white Abyssinian
 monkey, _Colobus guereza_ (or _C. abyssinicus_), characterized by the
-white hairs forming a long pendent mantle. Other east African monkeys
+white hairs forming a long pendent [[Mantle|mantle]]. Other east African monkeys
 with a similar type of colouring, which, together with the wholly black
 west African _C. satanas_, collectively constitute the subgenus
 _Guereza_, may be included under the same title; and the name may be
 further extended to embrace all the African thumbless monkeys of the
 genus _Colobus_. These monkeys are the African representatives of the
-Indo-Malay langurs (_Semnopithecus_), with which they agree in their
+Indo-Malay [[Langur|langurs]] (_Semnopithecus_), with which they agree in their
 slender build, long limbs and tail, and complex stomachs, although
 differing by the rudimentary thumb. The members of the subgenus
 _Guereza_ present a transition from a wholly black animal (_C. satanas_)

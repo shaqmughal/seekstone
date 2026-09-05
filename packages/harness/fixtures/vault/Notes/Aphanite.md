@@ -3,12 +3,12 @@
 APHANITE, a name given (from the Gr. [Greek: aphanes], invisible) to
 certain dark-coloured igneous rocks which are so fine-grained that their
 component minerals are not detected by the unaided eye. They consist
-essentially of plagioclase felspar, with hornblende or augite, and may
+essentially of plagioclase felspar, with [[Hornblende|hornblende]] or augite, and may
 contain also biotite, quartz and a limited amount of orthoclase.
 Although a few authorities still recognize the aphanites as a distinct
 class, most systematic petrologists, at the present time, have discarded
 it, and regard these rocks as merely structural facies of other species.
-Those which contain hornblende are uniform, fine-grained diorites,
+Those which contain hornblende are uniform, fine-grained [[Diorite|diorites]],
 vogesites, &c., while when pyroxene predominates they are ascribed to
 the dolerites, quartz-dolerites, &c. Hence, any rock which is compact,
 crystalline and fine grained, is frequently said to be _aphanitic_,
@@ -21,11 +21,11 @@ belongs.
 APHASIA[1] (from Gr. [Greek: a], privative, and [Greek: phasis],
 speech), a term which means literally inability to speak, and is used to
 denote various defects in the comprehension and expression of both
-spoken and written language which result from lesions of the brain.
+spoken and written language which result from [[Lesion|lesions]] of the brain.
 Aphasic disorders may be classed in two groups:--first, receptive or
 sensory aphasia, which comprises (a) inability to understand spoken
 language (auditory aphasia), and (b) inability to read (visual aphasia,
-or _alexia_); second, emissive or motor aphasia, under which category
+or _alexia_); second, emissive or motor aphasia, under which [[Category|category]]
 are included (a) inability to speak (motor vocal aphasia, or _aphemia_),
 and (b) inability to write (motor graphic aphasia, or _agraphia_). It
 has been shown that each of these defects is produced by destruction of
@@ -35,12 +35,12 @@ left cerebral hemisphere; this is the reason why aphasia is so commonly
 associated with paralysis of the right side of the body.
 
 A study of the acquisition of the faculty of speech throws light upon
-the education of the speech centres, and helps to elucidate their
+the education of the speech centres, and [[Helps|helps]] to elucidate their
 physiological interaction and the phenomena of aphasia. The auditory
 speech centre is the first to show signs of functional activity, for
 within a few months of birth the child begins to _understand_ spoken
 language. Some months later the motor vocal speech centre begins to
-functionate. The memories of the auditory word images which are stored
+functionate. The memories of the auditory word [[Image|images]] which are stored
 up in the auditory speech centre play a most important part in the
 process of learning to speak. The child born deaf grows up mute. The
 visual speech centre comes into activity when the child is taught to
@@ -67,8 +67,8 @@ are needed for purposes of vocal expression or silent thought.
 
 _Visual Aphasia or Alexia._--The visual speech centre, which is located
 in the left angular gyrus, is connected with the two centres for vision
-which are situated one in either occipital lobe. Destruction of the
-visual speech centre produces visual aphasia or alexia. Word blindness,
+which are situated one in either occipital [[Lobe|lobe]]. Destruction of the
+visual speech centre produces visual aphasia or alexia. Word [[Blindness|blindness]],
 sometimes used as the equivalent of visual aphasia, is, like word
 deafness, a misleading term. The individual is not blind, he sees the
 words and letters perfectly, but they appear to him as unintelligible
@@ -97,8 +97,8 @@ which are necessary for vocal expression, has been blotted out. In the
 great majority of cases of motor vocal aphasia there is associated
 agraphia, a circumstance which is perhaps to be accounted for by the
 proximity of the graphic centre. When the lesion is situated below the
-cortex of Broca's convolution but destroys the fibres which pass from it
-towards the internal capsule, agraphia is not produced (sub-cortical or
+cortex of Broca's convolution but destroys the [[Fibres|fibres]] which pass from it
+towards the internal [[Capsule|capsule]], agraphia is not produced (sub-cortical or
 pure motor vocal aphasia). Destruction of the auditory speech centre is,
 as we have seen, commonly accompanied by more or less interference with
 vocal speech, a consequence of _amnesia verbalis_.
@@ -122,7 +122,7 @@ mentioned. Thus _paraphasia_ is a condition in which the patient makes
 use of words other than those he intends. He may mix up his words so
 that his conversation is quite unintelligible. In the most pronounced
 forms he gabbles away, employing unrecognizable sounds in place of words
-(_jargon and gibberish aphasia_). _Paragraphia_ is a similar defect
+(_[[Jargon|jargon]] and gibberish aphasia_). _Paragraphia_ is a similar defect
 which occurs in writing. Both paraphasia and paragraphia may be produced
 by partial lesions of the sensory speech centres or of the commissures
 which connect these with the motor centres. _Object blindness_ (syn.
@@ -149,7 +149,7 @@ the smaller branches of the artery is obstructed, and, according to the
 region of the brain to which this branch is distributed, one or more of
 the speech centres may be destroyed. Occlusion of the left posterior
 cerebral artery causes extensive softening of the occipital lobe and
-produces pure word blindness. Further, a tumour, abscess, haemorrhage or
+produces pure word blindness. Further, a tumour, abscess, [[Haemorrhage|haemorrhage]] or
 meningitis may be so situated as to damage or destroy the individual
 speech centres or their connecting commissures. The amount of recovery
 to be expected in any given case depends upon the nature, situation and
@@ -166,11 +166,11 @@ greatly assisted by an intelligent application of scientific methods.
   Wernicke, _Der Aphasische Symptomen-complex_ (Breslau, 1874);
   Kussmaul, _Ziemssen's Cyclopaedia_, vol. xiv. p. 759; Wyllie, _The
   Disorders of Speech_ (1895); Elder, _Aphasia and the Cerebral Speech
-  Mechanism_ (1897); Collins, _The Faculty of Speech_ (1897); Bastian,
-  _Aphasia and other Speech Defects_ (1898); Byrom Bramwell,
+  Mechanism_ (1897); [[Collins]], _The Faculty of Speech_ (1897); [[Bastian]],
+  _Aphasia and other Speech Defects_ (1898); Byrom [[Bramwell]],
   "Will-making and Aphasia," _British Medical Journal_ (1897); "The
   Morison Lectures on Aphasia," _The Lancet_ (1906). See also the works
-  of Charcot, Hughlings Jackson, Dejerine, Lichtheim, Pitres, Grasset,
+  of Charcot, Hughlings [[Jackson]], Dejerine, Lichtheim, Pitres, Grasset,
   Ross, Broadbent, Mills, Bateman, Mirallie, Exner, Marie and others.
        (J. B. T.)
 

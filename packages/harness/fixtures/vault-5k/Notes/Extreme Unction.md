@@ -27,7 +27,7 @@ It has been general since the 9th century. The council of Florence A.D.
   "The fifth sacrament is extreme unction. Its matter is olive oil,
   blessed by a bishop. It shall not be given except to a sick person
   whose death is apprehended. He shall be anointed in the following
-  places: the eyes, ears, nostrils, mouth, hands, feet, reins. The form
+  places: the eyes, [[Ear|ears]], nostrils, mouth, hands, feet, reins. The form
   of the sacrament, is this: Through this anointing of thee and through
   its most pious mercy, be forgiven all thy sins of sight, &c. ... and
   so in respect of the other organs. A priest can administer this
@@ -35,7 +35,7 @@ It has been general since the 9th century. The council of Florence A.D.
   is expedient, the body as well."
 
 This sacrament supplements that of penance (viz. remission of
-post-baptismal sin) in the sense that any guilt unconfessed or left over
+post-baptismal sin) in the sense that any [[Guilt|guilt]] unconfessed or left over
 after normal penances imposed by confessors is purged thereby. It was
 discussed in the 12th century whether this sacrament is indelible like
 baptism, or whether it can be repeated; and the latter view, that of
@@ -91,7 +91,7 @@ Jewish life. He became specially notorious because of a curious
 controversy that arose concerning the amulets which Eybeschütz was
 suspected of issuing. These amulets recognized the Messianic claims of
 Sabbatai Sebi (q.v.), and a famous rabbinic contemporary of Eybeschütz,
-Jacob Emden, boldly accused him of heresy. The controversy was a
+[[Jacob]] Emden, boldly accused him of heresy. The controversy was a
 momentous incident in the Jewish life of the period, and though there is
 insufficient evidence against Eybeschütz, Emden may be credited with
 having crushed the lingering belief in Sabbatai current even in some

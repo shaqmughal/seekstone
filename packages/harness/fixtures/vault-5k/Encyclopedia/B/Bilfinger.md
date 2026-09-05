@@ -18,14 +18,14 @@ philosophicae, de deo, anima humana, mundo_ (Tübingen, 1725, 1746,
 representation of Wolff's philosophy, met with great success, and the
 author was appointed to the office of preacher at the castle of Tübingen
 and of reader in the school of theology. In 1721, after two years' study
-under Wolff, he became professor of philosophy at Halle, and in 1724
+under Wolff, he became professor of philosophy at [[Halle]], and in 1724
 professor of mathematics. His friends at Tübingen disapproved his new
 views, and in 1725, on Wolff's recommendation, he was invited by Peter
 the Great to lecture in St Petersburg, where he was well received. His
 success in winning the prize of a thousand crowns offered for a
 dissertation on the cause of gravity by the Academy of Sciences of Paris
 secured his return to his native land in 1731. In 1735, largely on
-account of his knowledge of military engineering, Duke Charles Alexander
+account of his knowledge of military [[Engineering|engineering]], Duke Charles Alexander
 (1733-1737) made him a privy councillor, but his hands were tied owing
 to the frivolous atmosphere of the court. On the death of the duke,
 however, he became a member of the Regency Council, and devoted himself
@@ -38,7 +38,7 @@ and abroad, and Frederick the Great is recorded to have said of him, "He
 was a great man whom I shall ever remember with admiration."
 
 Beside the _Dilucidationes_, he wrote:--_De harmonia animi et corporis
-humani commentatio_ (Frankfort and Leipzig, 1735; Tübingen, 1741); _De
+humani commentatio_ ([[Frankfort]] and Leipzig, 1735; Tübingen, 1741); _De
 origine et permissione mali_ (1724), an account of the Leibnitzian
 theodicy.
 

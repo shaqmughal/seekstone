@@ -8,8 +8,8 @@ type: source
 # Housel
 
 HOUSEL, the English name, until the time of the Reformation, for the
-Eucharist. The word in O. Eng. was _husel_. Its proper meaning is
-"sacrifice," and thus the word _hunsl_ appears in Ulfilas' Gothic
+[[Eucharist]]. The word in O. Eng. was _husel_. Its proper meaning is
+"sacrifice," and thus the word _hunsl_ appears in Ulfilas' [[Gothic]]
 version of Matt. ix. 13, "I will have mercy and not sacrifice." The
 ultimate origin is doubtful. The _New English Dictionary_ connects it
 with a Teutonic stem meaning "holy"; from which is derived the

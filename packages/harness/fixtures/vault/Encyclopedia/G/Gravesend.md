@@ -2,7 +2,7 @@
 
 GRAVESEND, a municipal and parliamentary borough, river-port and market
 town of Kent, England, on the right bank of the Thames opposite Tilbury
-Fort, 22 m. E. by S. of London by the South-Eastern & Chatham railway.
+Fort, 22 m. E. by S. of London by the South-Eastern & [[Chatham]] railway.
 Pop. (1901) 27,196. It extends about 2 m. along the river bank,
 occupying a slight acclivity which reaches its summit at Windmill Hill,
 whence extensive views are obtained of the river, with its windings and
@@ -30,11 +30,11 @@ extensively. The principal other industries are boat-building,
 ironfounding, brewing and soap-boiling. Fruit and vegetables are largely
 grown in the neighbourhood for the London market. Since 1867 Gravesend
 has returned a member to parliament, the borough including Northfleet to
-the west. The town is governed by a mayor, 6 aldermen and 18
+the west. The town is governed by a [[Mayor|mayor]], 6 aldermen and 18
 councillors. Area, 1259 acres.
 
 In the Domesday Survey "Gravesham" is entered among the bishop of
-Bayeux's lands, and a "hythe" or landing-place is mentioned. In 1401
+Bayeux's lands, and a "[[Hythe|hythe]]" or landing-place is mentioned. In 1401
 Henry IV. granted the men of Gravesend the sole right of conveying in
 their own vessels all persons travelling between London and Gravesend,
 and this right was confirmed by Edward IV. in 1462. In 1562 the town was
@@ -64,7 +64,7 @@ of March 1863, the princess Alexandra was received here by the prince of
 Wales (King Edward VII.) three days before their marriage. Gravesend
 parish church contains memorials to "Princess" Pocahontas, who died when
 preparing to return home from a visit to England in 1617, and was buried
-in the old church. A memorial pulpit from the state of Indiana, U.S.A.,
+in the old church. A memorial pulpit from the state of [[Indiana]], U.S.A.,
 made of Virginian wood, was provided in 1904, and a fund was raised for
 a stained-glass window by ladies of the state of Virginia.
 

@@ -33,7 +33,7 @@ The type of the _Casuariidae_ is the species named by Linnaeus _Struthio
 casuarius_ and by John Latham _Casuarius emeu_. Vieillot subsequently
 called it _C. galeatus_, and his epithet has been very commonly adopted
 by writers, to the exclusion of the older specific appellation. It seems
-to be peculiar to the island of Ceram, and was made known to
+to be peculiar to the island of [[Ceram]], and was made known to
 naturalists, as we learn from Clusius, in 1597, by the first Dutch
 expedition to the East Indies, when an example was brought from Banda,
 whither it had doubtless been conveyed from its native island. It was
@@ -63,10 +63,10 @@ state of nature. Though the old species occurs rather plentifully over
 the whole of the interior of Ceram, A.R. Wallace was unable to obtain or
 even to see an example. They all appear to bear captivity well, and the
 hens in confinement frequently lay their dark-green and rough-shelled
-eggs, which, according to the custom of the _Ratitae_, are incubated by
-the cocks. The nestling plumage is mottled (_Proc. Zool. Soc._, 1863,
+[[Egg|eggs]], which, according to the custom of the _Ratitae_, are incubated by
+the [[Cock|cocks]]. The nestling plumage is mottled (_Proc. Zool. Soc._, 1863,
 pl. xlii.), and when about half-grown they are clothed in dishevelled
-feathers of a deep tawny colour.
+[[Feather|feathers]] of a deep tawny colour.
 
 Of the emeus (as the word is now restricted) the best known is the
 _Casuarius novae-hollandiae_ of John Latham, made by Vieillot the type
@@ -108,7 +108,7 @@ FOOTNOTES:
     Arabic _Na'ama_ or _Na'ema_, an ostrich (_Struthio camelus_); but no
     additional evidence in support of the assertion is given by Dozy in
     1869 (_Glossaire des mots espagnols et portugais dérivés de l'arabe_,
-    2nd ed., p. 260). According to Gesner in 1555 (lib. iii. p. 709), it
+    2nd ed., p. 260). According to [[Gesner]] in 1555 (lib. iii. p. 709), it
     was the Portuguese name of the crane (_Grus communis_), and had been
     transferred with the qualifying addition of "_di Gei_" (i.e.
     ground-crane) to the ostrich. This statement is confirmed by

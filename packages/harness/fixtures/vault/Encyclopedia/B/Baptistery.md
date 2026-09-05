@@ -19,16 +19,16 @@ their confession of faith, and an inner apartment where the sacrament was
 administered. In the inner apartment the principal object was the baptismal
 font ([Greek: kolumbêthra], or _piscina_), in which those to be baptized
 were immersed thrice. Three steps led down to the floor of the font, and
-over it was suspended a gold or silver dove; while on the walls were
+over it was suspended a gold or silver [[Dove|dove]]; while on the walls were
 commonly pictures of the scenes in the life of John the Baptist. The font
 was at first always of stone, but latterly metals were often used.
 Baptisteries belong to a period of the church when great numbers of adult
-catechumens were baptized, and when immersion was the rule. We find little
+catechumens were baptized, and when [[Immersion|immersion]] was the rule. We find little
 or no trace of them before Constantine made Christianity the state
 religion, _i.e._ before the 4th century; and as early as the 6th century
 the baptismal font was built in the porch of the church and then in the
 church itself. After the 9th century few baptisteries were built, the most
-noteworthy of later date being those at Pisa, Florence, Padua, Lucca and
+noteworthy of later date being those at Pisa, Florence, Padua, [[Lucca]] and
 Parma. Some of the older baptisteries were very large, so large that we
 hear of councils and synods being held in them. It was necessary to make
 them large, because in the early Church it was customary for the bishop to
@@ -51,9 +51,9 @@ use, however, in Florence and Pisa. The baptistery of the Lateran must be
 the earliest ecclesiastical building still in use. A large part of it
 remains as built by Constantine. The central area, where is the basin of
 the font, is an octagon around which stand eight porphyry columns, with
-marble capitals and entablature of classical form; outside these are an
+[[Marble|marble]] capitals and [[Entablature|entablature]] of classical form; outside these are an
 ambulatory and outer walls forming a larger octagon. Attached to one side,
-towards the Lateran basilica, is a fine porch with two noble porphyry
+towards the Lateran [[Basilica|basilica]], is a fine porch with two noble porphyry
 columns and richly carved capitals, bases and entablatures. The circular
 church of Santa Costanza, also of the 4th century, served as a baptistery
 and contained the tomb of the daughter of Constantine. This is a remarkably
@@ -64,7 +64,7 @@ Old Law, in the other Christ delivers to St Peter the New Law--a charter
 sealed with the X P monogram.
 
 Another baptistery of the earliest times has recently been excavated at
-Aquileia. Ruins of an early baptistery have also been found at Salona. At
+[[Aquileia]]. Ruins of an early baptistery have also been found at Salona. At
 Ravenna exist two famous baptisteries encrusted with fine mosaics, one of
 them built in the middle of the 5th century, and the other in the 6th. To
 the latter date also belongs a large baptistery decorated with mosaics at
@@ -79,7 +79,7 @@ examples exist at Riez, Fréjus and Aix. In England, a detached baptistery
 is known to have been associated with the cathedral of Canterbury.
 
 See Hefele's _Concilien_, _passim_; Du Cange, _Glossary_, article
-"Baptisterium"; Eusebius, _Hist. Eccl._ x. 4; Bingham's _Antiquities of the
+"Baptisterium"; [[Eusebius]], _Hist. Eccl._ x. 4; Bingham's _Antiquities of the
 Christian Church_, book xi.
 
 (W. R. L.)

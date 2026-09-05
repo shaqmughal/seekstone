@@ -2,8 +2,8 @@
 
 CHAFFEE, ADNA ROMANZA (1842-   ), American general, was born at Orwell,
 Ohio, on the 14th of April 1842. At the outbreak of the Civil War he
-entered the United States cavalry as a private, and he rose to
-commissioned rank in 1863, becoming brevet captain in 1865. He remained
+entered the United States [[Cavalry|cavalry]] as a private, and he rose to
+commissioned rank in 1863, becoming [[Brevet|brevet]] captain in 1865. He remained
 in the army after the war and took part with distinction in many Indian
 campaigns. His promotion was, however, slow, and he was at the age of
 fifty-six still a lieutenant-colonel of cavalry. But in 1898, at the

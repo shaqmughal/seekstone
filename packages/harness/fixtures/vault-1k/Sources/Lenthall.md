@@ -24,7 +24,7 @@ dignity. Having taken the speaker's chair and looked round in vain to
 discover the offending members, Charles turned to Lenthall standing
 below, and demanded of him "whether any of those persons were in the
 House, whether he saw any of them and where they were." Lenthall fell on
-his knees and replied: "May it please your Majesty, I have neither eyes
+his [[Knee|knees]] and replied: "May it please your Majesty, I have neither eyes
 to see nor tongue to speak in this place but as the House is pleased to
 direct me, whose servant I am here." On the outbreak of the great
 rebellion, Lenthall threw in his lot with the parliament. He had already
@@ -39,7 +39,7 @@ the power of the parliament had been transferred to the army. On the
 rescind the ordinance re-establishing the old parliamentary committee of
 militia; Lenthall was held in the chair by main force and compelled to
 put to the vote a resolution inviting the king to London. Threats of
-worse things came subsequently to Lenthall's ears, and, taking the mace
+worse things came subsequently to Lenthall's ears, and, taking the [[Mace|mace]]
 with him, he left London on the 29th to join the army and Fairfax.
 Lenthall and Manchester, the speaker of the Lords, headed the fugitive
 members at the review on Hounslow Heath on the 3rd of August, being
@@ -89,7 +89,7 @@ position of dignity which he had filled before. He was temporarily made
 keeper of the new great seal (14th of May). On the 6th of June it was
 voted that all commissions should be signed by Lenthall and not by the
 commander-in-chief. His exalted position, however, was not left long
-unassailed. On the 13th of October Lambert placed soldiers round the
+unassailed. On the 13th of October [[Lambert]] placed soldiers round the
 House and prevented the members from assembling. Lenthall's coach was
 stopped as he was entering Palace Yard, the mace was seized and he was
 obliged to return. The army, however, soon returned to their allegiance
@@ -135,7 +135,7 @@ unworthy of any remembrance that hath been so great a sinner." He was
 held in little honour by his contemporaries, and was universally
 regarded as a time-server. He was, however, a man of good intentions,
 strong family affections and considerable ability. Unfortunately he was
-called by the irony of fate to fill a great office, in which governed
+called by the irony of [[Fate|fate]] to fill a great office, in which governed
 constantly by fears for his person and estate, he was seduced into a
 series of unworthy actions. He left one son, Sir John Lenthall, who had
 descendants. His brother, Sir John Lenthall, who, it was said, had too

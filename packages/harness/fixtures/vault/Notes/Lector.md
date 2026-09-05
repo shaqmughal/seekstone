@@ -13,10 +13,10 @@ existing at Rome. In the _Apostolic Church Order_ (canon 19), mention
 is made of the qualifications and duties of a reader, but no reference
 is made to their method of ordination. In the _Apostolic Didascalia_
 there is recognition of three minor orders of men, subdeacons, readers
-and singers, in addition to two orders of women, deaconesses and widows.
+and singers, in addition to two orders of women, [[Deaconess|deaconesses]] and widows.
 A century later, in the _Apostolic Constitutions_, we find not only a
 recognition of readers, but also a form of admission provided for them,
-consisting of the imposition of hands and prayer (lib. viii. cap. 22).
+consisting of the [[Imposition|imposition]] of hands and prayer (lib. viii. cap. 22).
 In Africa the imposition of hands was not in use, but a Bible was handed
 to the newly appointed reader with words of commission to read it,
 followed by a prayer and a benediction (Fourth Council of Carthage, can.

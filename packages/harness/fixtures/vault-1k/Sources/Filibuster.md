@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Filibuster
 
 # Filibuster
 
-FILIBUSTER, a name originally given to the buccaneers (q.v.). The term
+FILIBUSTER, a name originally given to the [[Buccaneers|buccaneers]] (q.v.). The term
 is derived most probably from the Dutch _vry buiter_, Ger. _Freibeuter_,
 Eng. _freebooter_, the word changing first into _fribustier_, and then
 into Fr. _flibustier_, Span. _filibustero_. _Flibustier_ has passed into

@@ -1,6 +1,6 @@
 # Barytes
 
-BARYTES, a widely distributed mineral composed of barium sulphate (BaSO_4).
+BARYTES, a widely distributed mineral composed of [[Barium|barium]] sulphate (BaSO_4).
 Its most striking feature and the one from which it derives its name
 barytes, barite (from the Greek [Greek: barus] heavy) or heavy spar, is its
 weight. Its specific gravity of 4.5 is about twice as great as that of salt
@@ -14,7 +14,7 @@ be enclosed as impurities.
 [Illustration]
 
 Crystals of barytes are orthorhombic and isomorphous with the strontium and
-lead sulphates (celestite and anglesite); they are usually very perfectly
+lead sulphates (celestite and [[Anglesite|anglesite]]); they are usually very perfectly
 developed and present great variety of form. The simplest are rhomb-shaped
 tables (fig. 1) bounded by the two faces of the basal pinacoid (_c_) and
 the four faces of the prism (_m_); the angle between the prism-faces (_mm_)
@@ -31,7 +31,7 @@ Crystals of barytes may be transparent and colourless, or white and opaque,
 or of a yellow, brown, bluish or greenish colour. Well developed crystals
 are extremely common, but the mineral occurs also in a granular, earthy, or
 stalactitic condition. It is known as cawk in the Derbyshire lead mines.
-The "crested" or "cock's comb" barytes occurs as rounded aggregations of
+The "crested" or "cock's [[Comb|comb]]" barytes occurs as rounded aggregations of
 thin lamellar crystals.
 
 Barytes is of common occurrence in metalliferous veins, especially those
@@ -44,7 +44,7 @@ mineral collections. In the neighbourhood of Nottingham, and other places
 in the Midlands, barytes forms a cementing material in the Triassic
 sandstones; amber-coloured crystals of the same mineral are found in the
 fuller's earth at Nutfield in Surrey; and the septarian nodules in London
-Clay contain crystals of barytes as well as of calcite. Crystals are found
+Clay contain crystals of barytes as well as of [[Calcite|calcite]]. Crystals are found
 as a rarity in the amygdaloidal cavities of igneous rocks.
 
 Artificially prepared crystals of barytes may be obtained by allowing a
@@ -54,7 +54,7 @@ when this is the case the interaction of sulphates results in a deposition
 of barytes, as has occurred in the pipes and water-boxes of the
 Newcastle-on-Tyne coal mines.
 
-Commercially, barytes is used in the preparation of barium compounds, as a
+Commercially, barytes is used in the preparation of barium [[Compound|compounds]], as a
 body for certain kinds of paper and cloth, and as a white pigment
 ("permanent white"). The finely powdered and washed mineral is too
 crystalline and consequently of insufficient opacity to be used alone as a

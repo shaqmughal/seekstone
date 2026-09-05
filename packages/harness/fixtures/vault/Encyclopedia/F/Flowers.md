@@ -13,7 +13,7 @@ for scientific purposes (as the collection of glass flowers at Harvard
 University, which illustrates the flora of the United States), but more
 often as articles of decoration and ornament. A large variety of
 materials have been used in their manufacture by different peoples at
-different times--painted linen and shavings of stained horn by the
+different times--painted linen and shavings of stained [[Horn|horn]] by the
 Egyptians, gold and silver by the Romans, rice-paper by the Chinese,
 silkworm cocoons in Italy, the plumage of highly coloured birds in South
 America, wax, small tinted shells, &c. At the beginning of the 18th
@@ -31,8 +31,8 @@ which will cut through a dozen or more thicknesses at one blow. The
 veins of the leaves are next impressed by means of a die, and the petals
 are given their natural rounded forms by goffering irons of various
 shapes. The next step is to assemble the petals and other parts of the
-flower, which is built up from the centre outwards; and the fourth is to
-mount the flower on a stalk formed of brass or iron wire wrapped round
+[[Flower|flower]], which is built up from the centre outwards; and the fourth is to
+mount the flower on a stalk formed of [[Brass|brass]] or iron wire wrapped round
 with suitably coloured material, and to fasten on the leaves required to
 complete the spray.
 

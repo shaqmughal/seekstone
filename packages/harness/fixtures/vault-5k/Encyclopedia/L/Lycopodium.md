@@ -8,7 +8,7 @@ tags: [biology, sculpture]
 # Lycopodium
 
 LYCOPODIUM, the principal genus of the Lycopodiaceae, a natural order of
-the Fern-allies (see PTERIDOPHYTA). They are flowerless herbs, with an
+the Fern-allies (see PTERIDOPHYTA). They are flowerless [[Herb|herbs]], with an
 erect, prostrate or creeping widely-branched stem, with small simple
 leaves which thickly cover the stem and branches. The "fertile" leaves
 are arranged in cones, and bear spore-cases (sporangia) in their axils,

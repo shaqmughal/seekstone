@@ -1,6 +1,6 @@
 # Cursor
 
-CURSOR, LUCIUS PAPIRIUS, Roman general, five times consul and twice
+CURSOR, [[Lucius|LUCIUS]] PAPIRIUS, Roman general, five times consul and twice
 dictator. In 325 he was appointed dictator to carry on the second
 Samnite War. His quarrel with Q. Fabius Maximus Rullianus, his _magister
 equitum_, is well known. The latter had engaged the enemy against the

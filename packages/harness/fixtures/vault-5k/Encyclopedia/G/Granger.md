@@ -13,7 +13,7 @@ engraved British heads"; this was "intended as an essay towards reducing
 our biography to a system, and a help to the knowledge of portraits."
 The work was supplemented in later editions by Granger, and still
 further editions were brought out by the Rev. Mark Noble, with additions
-from Granger's materials. Blank leaves were left for the filling in of
+from Granger's materials. [[Blank]] leaves were left for the filling in of
 engraved portraits for extra illustration of the text, and it became a
 favourite pursuit to discover such illustrations and insert them in a
 _Granger_, so that "grangerizing" became a term for such an

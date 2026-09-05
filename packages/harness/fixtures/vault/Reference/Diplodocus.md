@@ -7,27 +7,27 @@ topic: philosophy
 # Diplodocus
 
 DIPLODOCUS, a gigantic extinct land reptile discovered in rocks of Upper
-Jurassic age in western North America, the best-known example of a
+[[Jurassic]] age in western North America, the best-known example of a
 Sauropodous Dinosaur. The first scattered remains of a skeleton were
 found in 1877 by Prof. S.W. Williston near Cañon City, Colorado; and the
 tail and hind-limb of this specimen were described in the following year
 by Prof. O.C. Marsh. He noticed that in the part of the tail which
-dragged on the ground, each chevron bone below the vertebral column
+dragged on the ground, each [[Chevron|chevron]] [[Bone|bone]] below the vertebral column
 consisted of a pair of bars; and as so peculiar an arrangement for the
 protection of the artery and vein beneath the tail had not previously
 been observed in any animal, he proposed the name _Diplodocus_ ("double
 beam" or "double bar") for the new reptile, adding the specific name
-_longus_ in allusion to the elongated shape of the tail vertebrae. In
+_[[Longus|longus]]_ in allusion to the elongated shape of the tail vertebrae. In
 1884 Prof. Marsh described the head, vertebrae and pelvis of the same
 skeleton, which is now in the National Museum, Washington. In 1897 the
 next important specimen, a tail associated with other fragments,
 apparently of _Diplodocus longus_, was obtained by the American Museum
-of Natural History, New York, from Como Bluffs, Wyoming. In 1899-1900
+of Natural History, New York, from [[Como]] Bluffs, Wyoming. In 1899-1900
 large parts of two skeletons of another species, in a remarkable state
 of preservation, were disinterred by Messrs J. L. Wortman, O. A.
-Peterson and J. B. Hatcher in Sheep Creek, Albany county, Wyo., and
-these are now exhibited with minor discoveries in the Carnegie Museum,
-Pittsburg. There are also other specimens in New York, Chicago and the
+Peterson and J. B. Hatcher in Sheep [[Creek]], Albany county, Wyo., and
+these are now exhibited with minor discoveries in the [[Carnegie]] Museum,
+Pittsburg. There are also other specimens in New York, [[Chicago]] and the
 University of Wyoming. In 1901 Mr J. B. Hatcher studied the new species
 at Pittsburg, named it _Diplodocus carnegii_, and published the first
 restored sketch of a complete skeleton. Shortly afterwards plaster casts
@@ -62,8 +62,8 @@ the sacrum and 73 in the tail. The presacral vertebrae are of remarkably
 light construction, the plates and struts of bone being arranged to give
 the greatest strength with the least weight. The end of the tail is a
 flexible lash, which would probably be used as a weapon, like the tail
-of some existing lizards. The feet, notwithstanding the weight they had
-to support, are as unsymmetrical as those of a crocodile, with claws
+of some existing [[Lizard|lizards]]. The feet, notwithstanding the weight they had
+to support, are as unsymmetrical as those of a [[Crocodile|crocodile]], with claws
 only on the three inner toes. There is no external armour.
 
   See O. C. Marsh, _Amer. Journ. Sci._ ser. 3, vol. xvi. (1878), p. 414,

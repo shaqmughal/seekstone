@@ -9,8 +9,8 @@ together with, in some cases, a special vow to the pope's service, with
 the object of labouring for the spiritual good of themselves and their
 neighbours. They are declared to be mendicants and enjoy all the
 privileges of the other mendicant orders. They are governed and live by
-constitutions and rules, mostly drawn up by their founder, St Ignatius
-of Loyola, and approved by the popes. Their proper title is "Clerks
+constitutions and rules, mostly drawn up by their founder, St [[Ignatius]]
+of [[Loyola]], and approved by the popes. Their proper title is "Clerks
 Regulars of the Society of Jesus," the word _Societas_ being taken as
 synonymous with the original Spanish term, _Compañia_; perhaps the
 military term _Cohors_ might more fully have expressed the original idea
@@ -22,8 +22,8 @@ registers of the Parlement of Paris as early as 1552.
 _Constitution and Character._--The formation of the Society was a
 masterpiece of genius on the part of a man (see LOYOLA) who was quick to
 realize the necessity of the moment. Just before Ignatius was
-experiencing the call to conversion, Luther had begun his revolt against
-the Roman Church by burning the papal bull of excommunication on the
+experiencing the call to [[Conversion|conversion]], Luther had begun his revolt against
+the Roman Church by burning the papal [[Bull|bull]] of excommunication on the
 10th of December 1520. But while Luther's most formidable opponent was
 thus being prepared in Spain, the actual formation of the Society was
 not to take place for eighteen years. Its conception seems to have
@@ -53,7 +53,7 @@ orders, which preserved to their members certain constitutional rights.
   the constitutions the power of local superiors is modified, so that in
   practice the working is smooth. Ignatius knew that while a high ideal
   was necessary for every society, his followers were flesh and blood,
-  not machines. He made it clear from the first that the Society was
+  not [[Machine|machines]]. He made it clear from the first that the Society was
   everything and the individual nothing, except so far as he might prove
   a useful instrument for carrying out the Society's objects. Ignatius
   said to his secretary Polanco that "in those who offered themselves
@@ -72,7 +72,7 @@ orders, which preserved to their members certain constitutional rights.
   giving him the absolute disposal of all members of the Society in
   every place and for every purpose. He pushes the claim even further,
   requiring, besides entire outward submission to command, also the
-  complete identification of the inferior's will with that of the
+  complete [[Identification|identification]] of the inferior's will with that of the
   superior. He lays down that the superior is to be obeyed simply as
   such and as standing in the place of God, without reference to his
   personal wisdom, piety or discretion; that any obedience which falls
@@ -90,7 +90,7 @@ orders, which preserved to their members certain constitutional rights.
   members of other orders whose institutes represented the normal days
   of peace rather than those of war. The letter was condemned by the
   Inquisitions of Spain and Portugal; and it tasked all the skill and
-  learning of Bellarmine as its apologist, together with the whole
+  learning of [[Bellarmine]] as its apologist, together with the whole
   influence of the Society, to avert what seemed to be a probable
   condemnation at Rome.
 
@@ -133,7 +133,7 @@ orders, which preserved to their members certain constitutional rights.
   this sort of retirement, except as a mere temporary preparation for
   later activity; he made habitual intercourse with the world a prime
   duty; and to this end he rigidly suppressed all such external
-  peculiarities of dress or rule as tended to put obstacles in the way
+  peculiarities of [[Dress|dress]] or rule as tended to put obstacles in the way
   of his followers acting freely as emissaries, agents or missionaries
   in the most various places and circumstances. Another change he
   introduced even more completely than did the founders of the Friars.
@@ -161,7 +161,7 @@ abstract theory. The Society is distributed into six grades: novices,
 scholastics, temporal coadjutors (lay brothers), spiritual coadjutors,
 professed of the three vows, and professed of the four vows. No one can
 become a postulant for admission to the Society until fourteen years
-old, unless by special dispensation. The novice is classified according
+old, unless by special [[Dispensation|dispensation]]. The novice is classified according
 as his destination is the priesthood or lay brotherhood, while a third
 class of "indifferents" receives such as are reserved for further
 inquiry before a decision of this kind is made. The novice has first to
@@ -178,7 +178,7 @@ scholastic and takes the following simple vows in the presence of
 certain witnesses, but not to any person:--
 
   "Almighty Everlasting God, albeit everyway most unworthy in Thy holy
-  sight, yet relying on Thine infinite kindness and mercy and impelled
+  sight, yet relying on Thine [[Infinite|infinite]] kindness and mercy and impelled
   by the desire of serving Thee, before the Most Holy Virgin Mary and
   all Thy heavenly host, I, N., vow to Thy divine Majesty Poverty,
   Chastity and Perpetual Obedience to the Society of Jesus, and promise
@@ -330,7 +330,7 @@ feeling.
   depend for their very existence.
 
 Thus constituted, with a skilful union of strictness and freedom, of
-complex organization with a minimum of friction in working, the Society
+complex organization with a minimum of [[Friction|friction]] in working, the Society
 was admirably devised for its purpose of introducing a new power into
 the Church and the world. Its immediate services to the Church were
 great. The Society did much, single-handed, to roll back the tide of
@@ -339,8 +339,8 @@ its allegiance to the papacy, was threatening to do so. The honours of
 the reaction belong to the Jesuits, and the reactionary spirit has
 become their tradition. They had the wisdom to see and to admit, in
 their correspondence with their superiors, that the real cause of the
-Reformation was the ignorance, neglect and vicious lives of so many
-priests. They recognized, as most earnest men did, that the difficulty
+Reformation was the [[Ignorance|ignorance]], neglect and vicious lives of so many
+priests. They recognized, as most [[Earnest|earnest]] men did, that the difficulty
 was in the higher places, and that these could best be touched by
 indirect methods. At a time when primary or even secondary education had
 in most places become a mere effete and pedantic adherence to obsolete
@@ -352,7 +352,7 @@ for their pupils which were an enormous advance on those they found in
 use; so that for nearly three centuries the Jesuits were accounted the
 best schoolmasters in Europe, as they were, till their forcible
 suppression in 1901, confessedly the best in France. The Jesuit teachers
-conciliated the goodwill of their pupils by mingled firmness and
+conciliated the [[Goodwill|goodwill]] of their pupils by mingled firmness and
 gentleness. Although the method of the _Ratio Studiorum_ has ceased to
 be acceptable, yet it played in its time as serious a part in the
 intellectual development of Europe as did the method of Frederick the
@@ -364,7 +364,7 @@ they were excellent; but in education, or formation of character,
 deficient. Again, when most of the continental clergy had sunk, more or
 less, into the moral and intellectual slough which is pictured for us in
 the writings of Erasmus and the _Epistolae obscurorum virorum_ (see
-HUTTEN, ULRICH VON), the Jesuits won back respect for the clerical
+[[Hutten|HUTTEN]], ULRICH VON), the Jesuits won back respect for the clerical
 calling by their personal culture and the unimpeachable purity of their
 lives. These qualities they have carefully maintained; and probably no
 large body of men in the world has been so free from the reproach of
@@ -393,12 +393,12 @@ enemies have been those of the household of the Roman Catholic faith.
 The second fact is the ultimate failure which seems to dog all its most
 promising schemes and efforts. These two results are to be observed
 alike in the provinces of morals and politics. The first cause of the
-opposition indeed redounds to the Jesuits' credit, for it was largely
+opposition indeed redounds to the Jesuits' [[Credit|credit]], for it was largely
 due to their success. Their pulpits rang with a studied eloquence; their
 churches, sumptuous and attractive, were crowded; and in the
 confessional their advice was eagerly sought in all kinds of
 difficulties, for they were the fashionable professors of the art of
-direction. Full of enthusiasm and zeal, devoted wholly to their Society,
+direction. Full of [[Enthusiasm|enthusiasm]] and zeal, devoted wholly to their Society,
 they were able to bring in numbers of rich and influential persons to
 their ranks; for, with a clear understanding of the power of wealth,
 they became, of set purpose, the apostles of the rich and influential.
@@ -417,7 +417,7 @@ introduced into the conception of the religious life, naturally, were
 displeasing to the older orders, who felt like old aristocratic families
 towards a newly rich or purse-proud upstart. The Society, or rather its
 members, were too aggressive and self-assertive to be welcomed; and a
-certain characteristic, which soon began to manifest itself in an
+certain characteristic, which soon began to [[Manifest|manifest]] itself in an
 impatience of episcopal control, showed that the quality of "Jesuitry,"
 usually associated with the Society, was singularly lacking in their
 dealings with opponents. Their political attitude also alienated many.
@@ -434,14 +434,14 @@ tyrannicide discussed and defended in the abstract; and it was no
 wonder that, when opportunity served, the train that had been heedlessly
 laid by speculative professors was fired by rash hands. What professors
 like Suarez taught in the calm atmosphere of the lecture hall, what
-writers like Mariana upheld and praised, practical men took as
+writers like [[Mariana]] upheld and praised, practical men took as
 justification for deeds of blood. There is no evidence that any Jesuit
 took a direct part in political assassinations; however, indirectly,
 they may have been morally responsible. They were playing with edged
 tools and often got wounded through their own carelessness. Other
 grievances were raised by their perpetual meddling in politics, e.g.
 their large share in fanning the flames of political hatred against the
-Huguenots under the last two Valois kings; their perpetual plotting
+[[Huguenots]] under the last two Valois kings; their perpetual plotting
 against England in the reign of Elizabeth; their share in the Thirty
 Years' War and in the religious miseries of Bohemia; their decisive
 influence in causing the revocation of the edict of Nantes and the
@@ -490,7 +490,7 @@ Jesuits on the subject of grace were the Jansenists, who held that they
 were following the special teaching of St Augustine, known _par
 excellence_ as the doctor of grace. The Jesuits and the Jansenists soon
 became deadly enemies; and in the ensuing conflict both parties accused
-each other of flinging scruples to the wind. (See JANSENISM.)
+each other of flinging scruples to the wind. (See [[Jansenism|JANSENISM]].)
 
 But the accusations against the Jesuit system of moral theology and
 their action as guides of conduct have had a more serious effect on
@@ -511,17 +511,17 @@ Salamanca. Carlo Borromeo, to whose original advocacy they owed much,
 especially in the council of Trent, found himself attacked in his own
 cathedral pulpit and interfered with in his jurisdiction. He withdrew
 his protection and expelled them from his colleges and churches; and he
-was followed in 1604 in this policy by his cousin and successor Cardinal
+was followed in 1604 in this policy by his [[Cousin|cousin]] and successor Cardinal
 Federigo Borromeo. St Theresa learnt, in after years, to mistrust their
 methods, although she was grateful to them for much assistance in the
 first years of her work. The credit of the Society was seriously damaged
 by the publication, at Cracow, in 1612, of the _Monita Secreta_. This
-book, which is undoubtedly a forgery, professes to contain the
+book, which is undoubtedly a [[Forgery|forgery]], professes to contain the
 authoritative secret instructions drawn up by the general Acquaviva and
 given by the superiors of the Society to its various officers and
 members. A bold caricature of Jesuit methods, the book has been ascribed
 to John Zaorowsky or to Cambilone and Schloss, all ex-Jesuits, and it is
-stated to have been discovered in manuscript by Christian of Brunswick
+stated to have been discovered in [[Manuscript|manuscript]] by [[Christian Of Brunswick|Christian of Brunswick]]
 in the Jesuit college at Prague. It consists of suggestions and methods
 for extending the influence of the Jesuits in various ways, for securing
 a footing in fresh places, for acquiring wealth, for creeping into
@@ -536,18 +536,18 @@ have conducted its operations in such a manner. Later on a formidable
 assault was made on Jesuit moral theology in the famous _Provincial
 Letters_ of Blaise Pascal (q.v.), eighteen in number, issued under the
 pen-name of Louis de Montalte, from January 1656 to March 1657. Their
-wit, irony, eloquence and finished style have kept them alive as one of
+wit, [[Irony|irony]], eloquence and finished style have kept them alive as one of
 the great French classics--a destiny more fortunate than that of the
-kindred works by Antoine Arnauld, _Théologie morale des Jésuites_,
+kindred works by Antoine [[Arnauld]], _Théologie morale des Jésuites_,
 consisting of extracts from writings of members of the Society, and
 _Morale pratique des Jésuites_, made up of narratives professing to set
-forth the manner in which they carried out their own maxims. But, like
+forth the manner in which they carried out their own [[Maxims|maxims]]. But, like
 most controversial writers, the authors were not scrupulous in their
 quotations, and by giving passages divorced from their contexts often
 entirely misrepresented their opponents. The immediate reply on the part
-of the Jesuits, _The Discourses of Cleander and Eudoxus_ by Père Daniel,
+of the Jesuits, _The Discourses of Cleander and Eudoxus_ by Père [[Daniel]],
 could not compete with Pascal's work in brilliancy, wit or style;
-moreover, it was unfortunate enough to be put upon the Index of
+moreover, it was unfortunate enough to be put upon the [[Index]] of
 prohibited books in 1701. The reply on behalf of the Society to Pascal's
 charges of lax morality, apart from mere general denials, is broadly as
 follows:--
@@ -596,7 +596,7 @@ freeing itself from them.
   beyond which his words cannot be forced. The sense in which other
   Jesuit theologians--e.g. Paul Laymann (1575-1635), in his _Theologia
   moralis_ (Munich, 1625), and Ludwig Wagemann (1713-1792), in his
-  _Synopsis theologiae moralis_ (Innsbruck, 1762)--quote the axiom is an
+  _Synopsis theologiae moralis_ ([[Innsbruck]], 1762)--quote the axiom is an
   equally harmless piece of common sense. For instance, if it is lawful
   to go on a journey by railway it is lawful to take a ticket. No one
   who put forth that proposition would be thought to mean that it is
@@ -643,15 +643,15 @@ disciplined by a far more perfect drill. But it takes great men to carry
 out great plans; and of really great men, as the outside world knows and
 judges, the Society has been markedly barren from almost the first.
 Apart from its founder and his early companion, St Francis Xavier, there
-is none who stands in the very first rank. Laynez and Acquaviva were
-able administrators and politicians; the Bollandists (q.v.) were
+is none who stands in the very first rank. [[Laynez]] and Acquaviva were
+able administrators and politicians; the [[Bollandists]] (q.v.) were
 industrious workers and have developed a critical spirit from which much
 good can be expected; Francisco Suarez, Leonhard Lessius and Cardinal
 Franzelin were some of the leading Jesuit theologians; Cornelius a
 Lapide (1567-1637) represents their old school of scriptural studies,
 while their new German writers are the most advanced of all orthodox
 higher critics; the French Louis Bourdaloue (q.v.), the Italian Paolo
-Segneri (1624-1694), and the Portuguese Antonio Vieyra (1608-1697)
+Segneri (1624-1694), and the Portuguese [[Antonio]] Vieyra (1608-1697)
 represent their best pulpit orators; while of the many mathematicians
 and astronomers produced by the Society Angelo Secchi, Ruggiero Giuseppe
 Boscovich and G. B. Beccaria are conspicuous, and in modern times
@@ -664,7 +664,7 @@ thought. The Jesuits have produced no Aquinas, no Anselm, no Bacon, no
 Richelieu. Men whom they trained, and who broke loose from their
 teaching, Pascal, Descartes, Voltaire, have powerfully affected the
 philosophical and religious beliefs of great masses of mankind; but
-respectable mediocrity is the brand on the long list of Jesuit names in
+respectable mediocrity is the [[Brand|brand]] on the long list of Jesuit names in
 the catalogues of Alegambe and De Backer. This is doubtless due in great
 measure to the destructive process of scooping out the will of the
 Jesuit novice, to replace it with that of his superior (as a watchmaker
@@ -810,7 +810,7 @@ nations which have cast out the Society have shown no disposition to
 accept its own estimate and identify it with the Church; while the
 Church itself is not conscious of depending upon the Society. To the
 Church the Jesuits have been what the Janissaries were to the Ottoman
-Empire, at first its defenders and its champions, but in the end its
+Empire, at first its defenders and its [[Champion|champions]], but in the end its
 taskmasters.
 
 _History._--The separate article on Loyola tells of his early years, his
@@ -955,12 +955,12 @@ enclosure, as all religious persons then were, would be of no effective
 use to the Society; whereas the founder, against the wishes of several
 of his companions, laid much stress on the duty of accepting the post of
 confessor to kings, queens and women of high rank when opportunity
-presented itself. And the year 1546 is notable in the annals of the
+presented itself. And the year 1546 is notable in the [[Annals|annals]] of the
 Society as that in which it embarked on its great educational career,
-especially by the annexation of free day-schools to all its colleges.
+especially by the [[Annexation|annexation]] of free day-schools to all its colleges.
 
   The council of Trent, in its first period, seemed to increase the
-  reputation of the Society; for the pope chose Laynez, Faber and
+  reputation of the Society; for the pope [[Chose|chose]] Laynez, Faber and
   Salmeron to act as his theologians in that assembly, and in this
   capacity they had no little influence in framing its decrees. When the
   council reassembled under Pius IV., Laynez and Salmeron again attended
@@ -1009,7 +1009,7 @@ colleges and houses.
   astute politician and saw the vast capabilities of the Society over a
   far wider field than the founder contemplated; and he prepared to give
   it the direction that it has since followed. In some senses, this
-  learned and consummately clever man may be looked upon as the real
+  learned and consummately [[Clever|clever]] man may be looked upon as the real
   founder of the Society as history knows it. Having carefully prepared
   the way, he summoned the general congregation from which he emerged as
   second general in 1556. As soon as Ignatius had died Paul IV.
@@ -1024,7 +1024,7 @@ colleges and houses.
   hours should be observed in choir after the manner of the other
   orders, but with that moderation which should seem expedient to the
   general. Taking advantage of this last clause, Laynez applied the new
-  law to two houses only, namely, Rome and Lisbon, the other houses
+  law to two houses only, namely, Rome and [[Lisbon]], the other houses
   contenting themselves with singing vespers on feast days; and as soon
   as Paul IV. died, Laynez, acting on advice, quietly ignored for the
   future the orders of the late pope. He also succeeded in increasing
@@ -1052,7 +1052,7 @@ colleges and houses.
   term of office there took place the troubles in Rome concerning the
   English college and the subsequent Jesuit rule over that institution;
   and in 1580 the first Jesuit mission, headed by the redoubtable Robert
-  Parsons and the saintly Edmund Campion, set out for England. This
+  Parsons and the saintly Edmund [[Campion]], set out for England. This
   mission, on one side, carried on an active propaganda against
   Elizabeth in favour of Spain; and on the other, among the true
   missionaries, was marked with devoted zeal and heroism even to the
@@ -1063,7 +1063,7 @@ colleges and houses.
   rebellion in Spain. It was during this struggle that Mariana, the
   historian and the author of the famous _De rege_ in which he defends
   tyrannicide, wrote his treatise _On the Defects in the Government of
-  the Society_. He confessed freely that the Society had faults and that
+  the Society_. He confessed freely that the Society had [[Fault|faults]] and that
   there was a great deal of unrest among the members; and he mentioned
   among the various points calling for reform the education of the
   novices and students; the state of the lay brother and the possessions
@@ -1122,7 +1122,7 @@ substantially just (see GARNET, HENRY).
   Congregation _de auxiliis_, which sat from 1598 till 1607. The _Ratio
   Studiorum_ took its shape during this time. The Jesuit influence at
   Rome was supported by the Spanish ambassador; but when Henry IV. "went
-  to Mass," the balance inclined to the side of France, and the Spanish
+  to Mass," the [[Balance|balance]] inclined to the side of France, and the Spanish
   monopoly became a thing of the past. Acquaviva saw the expulsion of
   the Jesuits from Venice in 1606 for siding with Paul V. when he placed
   the republic under interdict, but did not live to see their recall,
@@ -1146,7 +1146,7 @@ substantially just (see GARNET, HENRY).
   the leading part on one side and finally secured the victory. In this
   same year, considering themselves ill-used by Olivarez, prime minister
   of Philip IV. of Spain, the Jesuits powerfully aided the revolution
-  which placed the duke of Braganza on the throne of Portugal; and their
+  which placed the duke of [[Braganza]] on the throne of Portugal; and their
   services were rewarded for nearly one hundred years with the practical
   control of ecclesiastical and almost of civil affairs in that kingdom.
 
@@ -1168,11 +1168,11 @@ substantially just (see GARNET, HENRY).
   Jesuits died with their converts bravely as martyrs for the faith, yet
   it is impossible to acquit them of a large share in the causes of that
   overthrow. It was also about this same period that the grave scandal
-  of the Chinese and Malabar rites began to attract attention in Europe,
+  of the Chinese and [[Malabar]] rites began to attract attention in Europe,
   and to make thinking men ask seriously whether the Jesuit missionaries
   in those parts taught anything which could fairly be called
   Christianity at all. When it was remembered, too, that they had
-  decided, at a council held at Lima, that it was inexpedient to impose
+  decided, at a council held at [[Lima]], that it was inexpedient to impose
   any act of Christian devotion except baptism, on the South American
   converts, without the greatest precautions, on the ground of
   intellectual difficulties, it is not wonderful that this doubt was not
@@ -1234,7 +1234,7 @@ submission to the Jesuits left no possible doubt as to the source of the
 rebellion, and gave the enemies of the Jesuits a handle against them
 that was not forgotten. In 1757 Carvalho, marquis of Pombal, prime
 minister of Joseph I. of Portugal, and an old pupil of the Jesuits at
-Coimbra, dismissed the three Jesuit chaplains of the king and named
+Coimbra, dismissed the three Jesuit [[Chaplain|chaplains]] of the king and named
 three secular priests in their stead. He next complained to Benedict
 XIV. that the trading operations of the Society hampered the commercial
 prosperity of the nation, and asked for remedial measures. The pope, who
@@ -1249,19 +1249,19 @@ to his mistress on the 3rd of September 1758. The duke of Aveiro and
 other high personages were tried and executed for conspiracy; while some
 of the Jesuits, who had undoubtedly been in communication with them,
 were charged, on doubtful evidence, with complicity in the attempted
-assassination. Pombal charged the whole Society with the possible guilt
+assassination. Pombal charged the whole Society with the possible [[Guilt|guilt]]
 of a few, and, unwilling to wait the dubious issue of an application to
 the pope for licence to try them in the civil courts, whence they were
 exempt, issued on the 1st of September 1759 a decree ordering the
-immediate deportation of every Jesuit from Portugal and all its
+immediate [[Deportation|deportation]] of every Jesuit from Portugal and all its
 dependencies and their suppression by the bishops in the schools and
 universities. Those in Portugal were at once shipped, in great misery,
 to the papal states, and were soon followed by those in the colonies. In
 France, Madame de Pompadour was their enemy because they had refused her
 absolution while she remained the king's mistress; but the immediate
-cause of their ruin was the bankruptcy of Father Lavalette, the Jesuit
+cause of their ruin was the [[Bankruptcy|bankruptcy]] of Father Lavalette, the Jesuit
 superior in Martinique, a daring speculator, who failed, after trading
-for some years, for 2,400,000 francs and brought ruin upon some French
+for some years, for 2,400,000 [[Franc|francs]] and brought ruin upon some French
 commercial houses of note. Lorenzo Ricci, then general of the Society,
 repudiated the debt, alleging lack of authority on Lavalette's part to
 pledge the credit of the Society, and he was sued by the creditors.
@@ -1291,7 +1291,7 @@ take effect in Spain itself, and the expulsion was relentlessly carried
 out, nearly six thousand priests being deported from Spain alone, and
 sent to the Italian coast, whence, however, they were repelled by the
 orders of the pope and Ricci himself, finding a refuge at Corte in
-Corsica, after some months' suffering in overcrowded vessels at sea. The
+[[Corsica]], after some months' suffering in overcrowded vessels at sea. The
 general's object may probably have been to accentuate the harshness with
 which the fathers had been treated, and so to increase public sympathy,
 but the actual result of his policy was blame for the cruelty with which
@@ -1301,7 +1301,7 @@ of Naples and Parma followed the example of France and Spain; Clement
 XIII. retorted with a bull launched at the weakest adversary, and
 declaring the rank and title of the duke of Parma forfeit. The Bourbon
 sovereigns threatened to make war on the pope in return (France, indeed,
-seizing on the county of Avignon), and a joint note demanding a
+seizing on the county of [[Avignon]]), and a joint note demanding a
 retractation, and the abolition of the Jesuits, was presented by the
 French ambassador at Rome on the 10th of December 1768 in the name of
 France, Spain and the two Sicilies. The pope, a man of eighty-two, died
@@ -1346,7 +1346,7 @@ licences to hear confessions. Such of the fathers as are engaged in the
 work of education are permitted to continue, on condition of abstaining
 from lax and questionable doctrines apt to cause strife and trouble. The
 question of missions is reserved, and the relaxations granted to the
-Society in such matters as fasting, reciting the hours and reading
+Society in such matters as [[Fasting|fasting]], reciting the hours and reading
 heretical books, are withdrawn; while the breve ends with clauses
 carefully drawn to bar any legal exceptions that might be taken against
 its full validity and obligation. It has been necessary to cite these
@@ -1385,7 +1385,7 @@ Society, and two forged breves were speedily circulated, being dated
 June 9 and June 29, 1774, approving their establishment in Russia, and
 implying the repeal of the breve of suppression. But these are
 contradicted by the tenor of five genuine breves issued in September
-1774 to the archbishop of Gnesen, and making certain assurances to the
+1774 to the archbishop of [[Gnesen]], and making certain assurances to the
 ex-Jesuits, on condition of their complete obedience to the injunctions
 already laid on them. The Jesuits also pleaded a verbal approbation by
 Pius VI., technically known as an _Oraculum vivae vocis_, but this is
@@ -1397,7 +1397,7 @@ the title of vicars, till on the 7th of March 1801 Pius VII. granted
 them liberty to reconstitute themselves in north Russia, and permitted
 Kareu, then vicar, to exercise full authority as general. On the 30th of
 July 1804 a similar breve restored the Jesuits in the Two Sicilies, at
-the express desire of Ferdinand IV., the pope thus anticipating the
+the express desire of [[Ferdinand]] IV., the pope thus anticipating the
 further action of 1814, when, by the constitution _Sollicitudo omnium
 Ecclesiarum_, he revoked the action of Clement XIV., and formally
 restored the Society to corporate legal existence, yet not only omitted
@@ -1432,7 +1432,7 @@ Petersburg and Moscow in 1813, and from the whole empire in 1820, mainly
 on the plea of attempted proselytizing in the imperial army. Holland
 drove them out in 1816, and, by giving them thus a valid excuse for
 aiding the Belgian revolution of 1830, secured them the strong position
-they have ever since held in Belgium; but they have succeeded in
+they have ever since held in [[Belgium]]; but they have succeeded in
 returning to Holland. They were expelled from Switzerland in 1847-1848
 for the part they were charged with in exciting the war of the
 Sonderbund. In south Germany, inclusive of Austria and Bavaria, their
@@ -1502,7 +1502,7 @@ American Jesuits are under 3000.
   12. Charles de Noyelle (Belgian)                       1682-1686
   13. Tirso Gonzalez (Spaniard)                          1687-1705
   14. Michele Angelo Tamburini (Modenese)                1706-1730
-  15. Franz Retz (Bohemian)                              1730-1750
+  15. [[Franz]] Retz (Bohemian)                              1730-1750
   16. Ignazio Visconti (Milanese)                        1751-1755
   17. Alessandro Centurioni (Genoese)                    1755-1757
   18. Lorenzo Ricci (Florentine)                         1758-1775
@@ -1522,7 +1522,7 @@ American Jesuits are under 3000.
   The bibliography of Jesuitism is of enormous extent, and it is
   impracticable to cite more than a few of the most important works.
   They are as follows: _Institutum Societatis Jesu_ (7 vols., Avignon,
-  1830-1838); Orlandini, _Historia Societatis Jesu_ (Antwerp, 1620);
+  1830-1838); Orlandini, _Historia Societatis Jesu_ ([[Antwerp]], 1620);
   _Imago primi saeculi Societatis Jesu_ (Antwerp, 1640); Nieremberg,
   _Vida de San Ignacio de Loyola_ (9 vols., fol., Madrid, 1645-1736);
   Genelli, _Life of St Ignatius of Loyola_ (London, 1872); Backer,
@@ -1532,9 +1532,9 @@ American Jesuits are under 3000.
   1858-1859); Wolff, _Allgemeine Geschichte der Jesuiten_ (4 vols.,
   Zürich, 1789-1792); Gioberti, _Il Gesuita moderno_ (Lausanne, 1846);
   F. Parkman, _Pioneers of France in the New World_ and _The Jesuits in
-  North America_ (Boston, 1868); _Lettres édifiantes et curieuses,
+  North America_ ([[Boston]], 1868); _Lettres édifiantes et curieuses,
   écrites des missions étrangères, avec les Annales de la propagation de
-  la foi_ (40 vols., Lyons, 1819-1854); Saint-Priest, _Histoire de la
+  la foi_ (40 vols., [[Lyons]], 1819-1854); Saint-Priest, _Histoire de la
   chute des Jésuites au XVIII^e Siècle_ (Paris, 1844); Ranke, _Römische
   Päpste_ (3 vols., Berlin, 1838); E. Taunton, _History of the Jesuits
   in England_ (London, 1901); Thomas Hughes, S.J., _History of the

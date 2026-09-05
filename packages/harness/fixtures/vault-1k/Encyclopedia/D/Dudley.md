@@ -35,7 +35,7 @@ among his papers:
 
   "Let men of God in courts and churches watch
    O'er such as do a Toleration hatch,
-   Lest that ill egg bring forth a Cockatrice
+   Lest that ill [[Egg|egg]] bring forth a Cockatrice
    To poison all with heresy and vice."
 
 He died at Roxbury, Massachusetts, on the 31st of July 1653.

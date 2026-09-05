@@ -20,7 +20,7 @@ species the irides are yellow, deepening with age into orange or even
 red, and that the immature plumage is almost invariably more or less
 striped or mottled with heart-shaped spots beneath, while that of the
 adults is generally much barred, though the old males have in many
-instances the breast and belly quite free from markings. Nearly all are
+instances the [[Breast|breast]] and belly quite free from markings. Nearly all are
 of small or moderate size--the largest among them being the gos-hawk
 (q.v.) and its immediate allies, and the male of the smallest,
 _Accipiter tinus_, is not bigger than a song-thrush. They are all birds
@@ -52,7 +52,7 @@ some placed in another genus, _Cooperastur_), which is larger and has
 not so northerly a range. In South America there are four or five more,
 including _A. tinus_, before mentioned as the smallest of all, while a
 species not much larger, _A. minullus_, together with several others of
-greater size, inhabits South Africa. Madagascar and its neighbouring
+greater size, inhabits South Africa. [[Madagascar]] and its neighbouring
 islands have three or four species sufficiently distinct, and India has
 _A. badlus_. A good many more forms are found in south-eastern Asia, in
 the Indo-Malay Archipelago, and in Australia three or four species, of

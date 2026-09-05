@@ -16,21 +16,21 @@ point out how the two existing species are distinguished from one
 another.
 
 The more specialized of the two species is the Indian or Asiatic
-elephant, _Elephas maximus_, specially characterized by the extreme
+elephant, _Elephas [[Maximus|maximus]]_, specially characterized by the extreme
 complexity of the structure of its molar teeth, which are composed of a
 great number of tall and thin plates of enamel and dentine, with the
 intervals filled by cement (see PROBOSCIDEA, fig. 1). The average number
 of plates of the six successive molar teeth may be expressed by the
 "ridge-formula" 4, 8, 12, 12, 16, 24. The plates are compressed from
 before backwards, the anterior and posterior surfaces (as seen in the
-worn grinding face of the tooth) being nearly parallel. Ears of
+worn grinding face of the tooth) being nearly parallel. [[Ear|Ears]] of
 moderate size. Upper margin of the end of the proboscis developed into a
 distinct finger-like process, much longer than the lower margins, and
 the whole trunk uniformly tapering and smooth. Five nails on the
 fore-feet, and four (occasionally five) on the hind-feet.
 
-The Asiatic elephant inhabits the forest-lands of India, Burma, the
-Malay Peninsula, Cochin China, Ceylon and Sumatra. Elephants from the
+The Asiatic elephant inhabits the forest-lands of India, [[Burma]], the
+[[Malay Peninsula]], [[Cochin]] China, Ceylon and Sumatra. Elephants from the
 last-named islands present some variations from those of the mainland,
 and have been separated under the names of _E. zeylonicus_ and _E.
 sumatranus_, but they are not more than local races, and the Ceylon
@@ -46,8 +46,8 @@ possibly even more. The female is somewhat smaller.
 
 [Illustration: FIG. 1. Asiatic Elephant (_Elephas maximus_).]
 
-The following epitome of the habits of the Asiatic elephants is
-extracted from _Great and Small Game of India and Tibet_, by R.
+The following [[Epitome|epitome]] of the habits of the Asiatic elephants is
+extracted from _Great and Small [[Game]] of India and Tibet_, by R.
 Lydekker:--
 
 "The structure of the teeth is sufficient to indicate that the food
@@ -70,7 +70,7 @@ able, by means of their trunks, to breathe without difficulty when the
 entire body is submerged. The herds, which are led by females, appear in
 general to be family parties; and although commonly restricted to from
 thirty to fifty, may occasionally include as many as one hundred head.
-The old bulls are very generally solitary for a considerable portion of
+The old [[Bull|bulls]] are very generally solitary for a considerable portion of
 the year, but return to the herds during the pairing season. Some
 'rogue' elephants--_gunda_ of the natives--remain, however, permanently
 separated from the rest of their kind. All such solitary bulls, as their
@@ -78,13 +78,13 @@ colloquial name indicates, are of a spiteful disposition; and it appears
 that with the majority the inducement to live apart is due to their
 partiality for cultivated crops, into which the more timid females are
 afraid to venture. 'Must' elephants are males in a condition
-of--probably sexual--excitement, when an abundant discharge of dark oily
+of--probably sexual--excitement, when an abundant [[Discharge|discharge]] of dark oily
 matter exudes from two pores in the forehead. In addition to various
 sounds produced at other times, an elephant when about to charge gives
 vent to a shrill loud 'trumpet'; and on such occasions rushes on its
 adversary with its trunk safely rolled up out of danger, endeavouring
 either to pin him to the ground with its tusks (if a male tusker) or to
-trample him to death beneath its ponderous knees or feet."
+trample him to death beneath its ponderous [[Knee|knees]] or feet."
 
 Exact information in regard to the period of gestation of the female is
 still lacking, the length of the period being given from eighteen to
@@ -101,22 +101,22 @@ trunk curled up, and consequently in silence.
 [Illustration: FIG. 2.--Immature African Elephant (_Elephas africanus_).]
 
 As regards their present distribution in India, elephants are found
-along the foot of the Himalaya as far west as the valley of Dehra-Dun,
+along the foot of the [[Himalaya]] as far west as the valley of Dehra-Dun,
 where the winter temperature falls to a comparatively low point. A
 favourite haunt used to be the swamp of Azufghur, lying among the
 sal-forests to the northward of Meerut. In the great tract of forest
-between the Ganges and Kistna rivers they occur locally as far west as
-Bilaspur and Mandla; they are met with in the Western Ghats as far north
-as between latitude 17° and 18°, and are likewise found in the
+between the [[Ganges]] and Kistna rivers they occur locally as far west as
+[[Bilaspur]] and Mandla; they are met with in the Western [[Ghats]] as far north
+as between [[Latitude|latitude]] 17° and 18°, and are likewise found in the
 hill-forests of Mysore, as well as still farther south. In this part of
 the peninsula they ascend the hills to a considerable height, as they do
 in the Newara Eliya district of Ceylon, where they have been encountered
 at an elevation of over 7000 ft. There is evidence that about three
 centuries ago elephants wandered in the forests of Malwa and Nimar,
-while they survived to a later date in the Chanda district of the
+while they survived to a later date in the [[Chanda]] district of the
 Central Provinces. At the comparatively remote epoch when the Deccan was
 a forest tract, they were probably also met with there, but the swamps
-of the Bengal Sundarbans appear unsuited to their habits.
+of the [[Bengal]] Sundarbans appear unsuited to their habits.
 
 Of tusks, the three longest specimens on record respectively measure 8
 ft. 9 in., 8 ft. 2 in. and 8 ft.; their respective weights being 81, 80
@@ -132,7 +132,7 @@ into the island. "White" elephants are partial or complete albinos, and
 are far from uncommon in Burma and Siam. Young Indian elephants are
 hairy, thus showing affinity with the mammoth.
 
-The African elephant is a very different animal from its Asiatic cousin,
+The African elephant is a very different animal from its Asiatic [[Cousin|cousin]],
 both as regards structure and habits; and were it not for the existence
 of intermediate extinct species, might well be regarded as the
 representative of a distinct genus. Among its characteristics the
@@ -142,17 +142,17 @@ ridge-formula being 3, 6, 7, 7, 8, 10; while the plates are not
 flattened, but thicker in the middle than at the edges, so that their
 worn grinding-surfaces are lozenge-shaped. Ears very large. The upper
 and lower margins of the end of the trunk form two nearly equal
-prehensile lips. Only three toes on the hind-foot. A very important
+prehensile [[Lip|lips]]. Only three toes on the hind-foot. A very important
 distinction is to be found in the conformation of the trunk, which, as
 shown in fig. 2, looks as though composed of a number of segments,
-gradually decreasing in size from base to tip like the joints of a
+gradually decreasing in size from base to tip like the [[Joints|joints]] of a
 telescope, instead of tapering gradually and evenly from one extremity
 to the other. The females have relatively large tusks, which are
 essential in obtaining their food. Except where exterminated by human
 agency (and this has been accomplished to a deplorable extent), the
 African elephant is a native of the wooded districts of the whole of
 Africa south of the Sahara. It is hunted chiefly for the sake of the
-ivory of its immense tusks, of which it yields the principal source of
+[[Ivory|ivory]] of its immense tusks, of which it yields the principal source of
 supply to the European market, and the desire to obtain which is rapidly
 leading to the extermination of the species. In size the male African
 elephant often surpasses the Asiatic species, reaching nearly 12 ft. in
@@ -167,7 +167,7 @@ Several local races of African elephant have been described, mainly
 distinguished from one another by the form and size of the ears, shape
 of the head, &c. The most interesting of these is the pigmy Congo race,
 _E. africanus pumilio_, named on the evidence of an immature specimen in
-the possession of C. Hagenbeck, the well-known animal-dealer of Hamburg,
+the possession of C. [[Hagenbeck]], the well-known animal-dealer of [[Hamburg]],
 in 1905. According to Hagenbeck's estimate, this elephant, which came
 from the French Congo, was about six years old at the time it came under
 scientific notice. Moreover, in the opinion of the same observer, it is
@@ -202,7 +202,7 @@ question as to the right of the dwarf Congo elephant to rank as a
 well-marked local race; the only point for consideration being whether
 it should not be called a species. The great interest in connexion with
 a dwarf West African race of elephant is in relation to the fossil pigmy
-elephants of the limestone fissures and caves of Malta and Cyprus.
+elephants of the [[Limestone|limestone]] fissures and caves of [[Malta]] and [[Cyprus]].
 Although some of these elephants are believed not to have been larger
 than donkeys, the height of others may be estimated at from 4 to 5 ft.,
 or practically the same as that of the dwarf Congo race. By their
@@ -221,7 +221,7 @@ to be classed as races of _Elephas pumilio_; or, rather, _E. pumilio_
 will have to rank as a race of the Maltese species. In this connexion it
 is of interest to note that, both in the Mediterranean islands and in
 West Africa, dwarf elephants of the African type are accompanied by
-pigmy species of hippopotamus, although we have not yet evidence to show
+pigmy species of [[Hippopotamus|hippopotamus]], although we have not yet evidence to show
 that in Africa the two animals occupy actually the same area. Still, the
 close relationship of the existing Liberian pigmy hippopotamus to the
 fossil Mediterranean species is significant, in relation to the
@@ -236,7 +236,7 @@ these are the greater tolerance by the African animal of sunlight, and
 the hard nature of its food, which consists chiefly of boughs and roots.
 The latter are dug up with the tusks; the left one being generally
 employed in this service, and thus becoming much more worn than its
-fellow.     (R. L.*)
+[[Fellow|fellow]].     (R. L.*)
 
 ## See also
 

@@ -12,9 +12,9 @@ became prominent on the French stage at the Porte Saint-Martin theatre
 in 1900, and the Varietes in 1901, and then became a member of the
 Comedie Francaise, but he resigned very soon in order to become director
 of the Renaissance, where he was principally associated with the actress
-Marthe Brandes, who had also left the Comedie. Here he established his
+Marthe [[Brand|Brandes]], who had also left the Comedie. Here he established his
 reputation, in a number of plays, as the greatest contemporary French
-actor in the drama of modern reality.
+actor in the [[Drama|drama]] of modern reality.
 
 ## References
 

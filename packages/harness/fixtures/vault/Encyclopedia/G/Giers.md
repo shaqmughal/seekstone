@@ -9,7 +9,7 @@ type: source
 
 GIERS, NICHOLAS KARLOVICH DE (1820-1895), Russian statesman, was born on
 the 21st of May 1820. Like his predecessor, Prince Gorchakov, he was
-educated at the lyceum of Tsarskoye Selo, near St Petersburg, but his
+educated at the [[Lyceum|lyceum]] of Tsarskoye Selo, near St Petersburg, but his
 career was much less rapid, because he had no influential protectors,
 and was handicapped by being a Protestant of Teutonic origin. At the age
 of eighteen he entered the service of the Eastern department of the
@@ -25,7 +25,7 @@ test. Besides events in central Asia, to which he had to devote much
 attention, the Herzegovinian insurrection had broken out, and he could
 perceive from secret official papers that the incident had far-reaching
 ramifications unknown to the general public. Soon this became apparent
-to all the world. While the Austrian officials in Dalmatia, with hardly
+to all the world. While the Austrian officials in [[Dalmatia]], with hardly
 a pretence of concealment, were assisting the insurgents, Russian
 volunteers were flocking to Servia with the connivance of the Russian
 and Austrian governments, and General Ignatiev, as ambassador in
@@ -35,10 +35,10 @@ Eastern question. Prince Gorchakov did not want a radical solution
 involving a great European war, but he was too fond of ephemeral
 popularity to stem the current of popular excitement. Alexander II.,
 personally averse from war, was not insensible to the patriotic
-enthusiasm, and halted between two opinions. M. de Giers was one of the
+[[Enthusiasm|enthusiasm]], and halted between two opinions. M. de Giers was one of the
 few who gauged the situation accurately. As an official and a man of
 non-Russian extraction he had to be extremely reticent, but to his
-intimate friends he condemned severely the ignorance and light-hearted
+intimate friends he condemned severely the [[Ignorance|ignorance]] and light-hearted
 recklessness of those around him. The event justified his sombre
 previsions, but did not cure the recklessness of the so-called patriots.
 They wished to defy Europe in order to maintain intact the treaty of San
@@ -68,10 +68,10 @@ with the desire of his august master, M. de Giers followed
 systematically a pacific policy. Accepting as a _fait accompli_ the
 existence of the triple alliance, created by Bismarck for the purpose of
 resisting any aggressive action on the part of Russia and France, he
-sought to establish more friendly relations with the cabinets of Berlin,
+sought to establish more friendly relations with the [[Cabinet|cabinets]] of Berlin,
 Vienna and Rome. To the advances of the French government he at first
-turned a deaf ear, but when the _rapprochement_ between the two
-countries was effected with little or no co-operation on his part, he
+turned a deaf [[Ear|ear]], but when the _rapprochement_ between the two
+countries was effected with little or no [[Co-Operation|co-operation]] on his part, he
 utilized it for restraining France and promoting Russian interests. He
 died on the 26th of January 1895, soon after the accession of Nicholas
 II.     (D. M. W.)

@@ -31,12 +31,12 @@ unpopular for a popular king, an active spur to the rising forces of
 discontent; and the unprecedented demands for money--demands followed,
 not by honour, but by dishonour, to the arms of England abroad. So much
 for the general causes. The actual crisis may be said to begin with the
-quarrel between John and Pope Innocent III. regarding the appointment of
+quarrel between John and Pope [[Innocent]] III. regarding the appointment of
 a new archbishop to the see of Canterbury. This was settled in May 1213,
 and in the new prelate, the papal nominee, Stephen Langton, who landed
 in England and absolved the king in the following July, the baronial
 party found an able and powerful ally. But before this event John had
-instituted a great inquiry, the inquest of service of June 1212, for the
+instituted a great inquiry, the [[Inquest|inquest]] of service of June 1212, for the
 purpose of finding out how much he could exact from each of his vassals,
 a measure which naturally excited some alarm; and then, fearing a
 baronial rising, he had abandoned his proposed expedition into Wales,
@@ -60,7 +60,7 @@ laws of Edward the Confessor as "good laws," which the king ought to
 observe, and then mentioned the charter granted by Henry I. on his
 accession as a standard of good government. This event has such an
 important bearing on the issue of Magna Carta that it is not
-inappropriate to quote the actual words used by Matthew Paris in
+inappropriate to quote the actual words used by [[Matthew]] Paris in
 describing the incident. The chronicler represents the archbishop as
 saying "Inventa est quoque nunc carta quaedam Henrici primi regis
 Angliae per quam, si volueritis, libertates diu amissas poteritis ad
@@ -71,7 +71,7 @@ John, feeling his position had grown stronger, went abroad early in
 1214, and remained for some months in France. With his mercenaries
 behind him he met with some small successes in his fight for Normandy,
 but on the 27th of July he and his ally, the emperor Otto IV., met with
-a crushing defeat at Bouvines at the hands of Philip Augustus, and even
+a crushing defeat at [[Bouvines]] at the hands of Philip Augustus, and even
 the king himself was compelled to recognise that his hopes of recovering
 Normandy were at an end.
 
@@ -80,13 +80,13 @@ the discontent had been increasing rather than diminishing, and its
 volume became much larger owing to an event of May 1214. Greatly needing
 money for his campaign, John ordered another scutage to be taken from
 his tenants; this, moreover, was to be at the unprecedented rate of
-three marks on the knight's fee, not as on previous occasions of two
+three marks on the knight's [[Fee|fee]], not as on previous occasions of two
 marks, although this latter sum had hitherto been regarded as a very
 high rate. The northern barons refused to pay, and the gathering forces
 of resistance received a powerful stimulus when a little later came the
 news of the king's humiliation at Bouvines. Then in October the beaten
-monarch returned to England, no course open to him but to bow before the
-storm. In November he met some of his nobles at Bury St Edmunds, but as
+monarch returned to England, no course open to him but to [[Bow|bow]] before the
+storm. In November he met some of his nobles at [[Bury]] St [[Edmunds]], but as
 they still refused to pay the scutage no agreement was reached. At once
 they took another step towards the goal. With due solemnity (_super
 majus altare_) they swore to withdraw their allegiance from the king and
@@ -99,7 +99,7 @@ However, this did not prevent the prelates from continuing to act to
 some extent with the barons, and early in January 1215 the malcontents
 asked the king to confirm the laws of Edward the Confessor and the other
 liberties of the kingdom. He evaded the request and secured a truce
-until Easter was passed. Energetically making use of this period of
+until [[Easter]] was passed. Energetically making use of this period of
 respite, he again issued the charter to the church, ordered his subjects
 to take a fresh oath of allegiance to him, and sent to the pope for aid;
 but neither these precautions, nor his expedient of taking the cross,
@@ -114,11 +114,11 @@ another attempt to delay the crisis, or to divide his foes, by granting
 a charter to the citizens of London (May 9, 1215), and then by offering
 to submit the quarrel to a court of arbitrators under the presidency of
 the pope. But neither the one nor the other expedient availed him.
-Arbitration under such conditions was contemptuously rejected, and after
+[[Arbitration]] under such conditions was contemptuously rejected, and after
 the king had ordered the sheriffs to seize the lands and goods of the
 revolting nobles, London opened its gates and peacefully welcomed the
 baronial army. Other towns showed also that their sympathies were with
-the insurgents, and John was forced to his knees. Promising to assent to
+the insurgents, and John was forced to his [[Knee|knees]]. Promising to assent to
 their demands, he agreed to meet the barons, and the gathering was fixed
 for the 15th of June, and was to take place in a meadow between Staines
 and Windsor, called Runnimede.
@@ -128,7 +128,7 @@ the 23rd of June, the hostile barons were present in large numbers; on
 the other hand John, who rode over each day from Windsor, was only
 attended by a few followers. At once the malcontents presented their
 demands in a document known popularly as the _Articles of the Barons_,
-more strictly as _Capitula quae barones petunt et dominus rex concedit_.
+more strictly as _Capitula quae barones petunt et [[Dominus|dominus]] rex concedit_.
 Doubtless this had been drawn up beforehand, and was brought by the
 baronial leaders to Runnimede; possibly it was identical with the
 document presented to the royal ministers at Brackley a few weeks
@@ -166,7 +166,7 @@ inquiry promised into the extent of the hated forest areas would be
 carried out too rigorously, and that these would be seriously curtailed,
 if not abolished altogether. Consequently, the two archbishops and their
 colleagues declared that the articles in the charter which provided for
-this inquiry, and for a remedy against abuses of the forest laws by the
+this inquiry, and for a remedy against abuses of the [[Forest Laws|forest laws]] by the
 king, must not be interpreted in too harsh a spirit. The customs
 necessary for the preservation of the forests must remain in force.
 
@@ -175,7 +175,7 @@ signed he had set to work to destroy it, and he now turned to this task
 with renewed vigour. He appealed to the pope, and hoped to crush his
 enemies by the aid of foreign troops, while the barons prepared for war,
 and the prelates strove to keep the peace. Help came first from the
-spiritual arm. On the 24th of August 1215 Innocent III. published a bull
+spiritual arm. On the 24th of August 1215 Innocent III. published a [[Bull|bull]]
 which declared Magna Carta null and void. It had been extorted from the
 king by force (_per vim et metum_), and in the words of the bull the
 pope said "compositionem hujusmodi reprobamus penitus et damnamus." He
@@ -207,7 +207,7 @@ Pembroke, are mentioned by name.
   had no place in the Articles of the Barons. On the present occasion it
   was evidently regarded as quite a formal and introductory matter, and
   the same remark applies to the general grant of liberties to all
-  freemen and their heirs, with which the chapter concludes.
+  freemen and their [[Heir|heirs]], with which the chapter concludes.
 
 Then follows a series of chapters intended to restrain the king from
 raising money by the harsh and arbitrary methods adopted in the past.
@@ -219,12 +219,12 @@ importance.
   Chapter II. fixes the amount of the relief to be paid to the king by
   the heir of any of his vassals. Previously John, disregarding the
   custom of the past, had taken as much as he could extort. Henceforward
-  he who inherits a barony must pay £100, he who inherits a knight's fee
+  he who inherits a [[Barony|barony]] must pay £100, he who inherits a knight's fee
   100 shillings or less, and for smaller holdings less "according to the
   ancient custom of fiefs."
 
   Chapters III. to VI. deal with the abuses of the king's privilege of
-  acting as guardian of minors and their lands. Money must not be
+  acting as [[Guardian|guardian]] of minors and their lands. Money must not be
   extorted from a ward when he receives his inheritance. The guardian or
   his servant must not take from the ward's property more than a
   reasonable amount for his expenses and the like; on the contrary he
@@ -260,7 +260,7 @@ again considered, the vexed question of scutage being dealt with.
 
   Chapter XII. says that in future no scutage or aid, beyond the three
   recognized feudal aids, shall be levied except by the consent of the
-  general council of the nation (_commune concilium regni nostri_),
+  general council of the nation (_[[Commune|commune]] concilium regni nostri_),
   while the three recognized aids shall only be levied at a reasonable
   rate. In dealing with this matter the Articles of the Barons had
   declared that aids and tallages must not be taken from the citizens of
@@ -309,10 +309,10 @@ barons set to work to redress them.
   time suitors in this court were not put to the expense and
   inconvenience of following the king from place to place.
 
-  Chapters XVIII. and XIX. deal with the three petty assizes, three
+  Chapters XVIII. and XIX. deal with the three petty [[Assize|assizes]], three
   kinds of cases regarding disputes about the possession of land. These
   must be heard in the county courts before two visiting justices and
-  four knights of the shire. The hardship of attendance at the county
+  four [[Knight|knights]] of the shire. The hardship of attendance at the county
   courts was to some extent obviated.
 
   Chapters XX. to XXII. regulate the amount of fines imposed for
@@ -321,7 +321,7 @@ barons set to work to redress them.
   of the neighbourhood. In the same way earls and barons must only be
   fined by their peers, and a similar privilege is extended to the
   clergy, who, moreover, were not to be fined in accordance with the
-  value of their benefices, but only of their other property. It should
+  value of their [[Benefice|benefices]], but only of their other property. It should
   be noticed that trial by one's peers, as understood in Magna Carta, is
   not confined to the nobility; in every class of society an accused man
   is punished in accordance with the verdict of his peers, or equals.
@@ -344,25 +344,25 @@ barons set to work to redress them.
   could. Henceforward this amount must not be raised.
 
   Chapters XXVI. and XXVII. were intended to protect the property of
-  deceased persons, and also to secure the full payment of debts due
+  deceased persons, and also to secure the full payment of [[Debt|debts]] due
   therefrom to the crown. Other creditors were also protected, and the
   property of an intestate must be distributed to his heirs under the
   supervision of the church.
 
   Chapter XXVIII. strikes a blow at the custom of purveyance. Royal
-  officials must pay for the corn and provisions which they take on
+  officials must pay for the [[Corn|corn]] and provisions which they take on
   behalf of the king.
 
   Chapter XXIX. says knights must not be compelled to give money instead
   of performing castle-guard, if they are willing to perform this
   service. Castle-guard was the liability incumbent on the holders of
-  some estates to serve in the garrison of the royal castles. The
+  some estates to serve in the [[Garrison|garrison]] of the royal castles. The
   constables of these castles had adopted the custom of compelling these
   landholders to give money and not service, mercenaries being then
   hired to perform this.
 
   Chapters XXX. and XXXI. forbid the royal officials to seize the horses
-  or carts of freemen for transport duty, or to take wood for the king's
+  or [[Cart|carts]] of freemen for transport duty, or to take wood for the king's
   buildings.
 
   Chapter XXXII. says that the lands of convicted felons shall be handed
@@ -388,8 +388,8 @@ barons set to work to redress them.
 
   Chapter XXXVI. promises that in future writs of inquisition shall be
   granted freely without payment of any kind. This kind of writ allowed
-  a man to refer the question of his guilt or innocence to the verdict
-  of his neighbours instead of proving his innocence by the duel.
+  a man to refer the question of his [[Guilt|guilt]] or innocence to the verdict
+  of his neighbours instead of proving his innocence by the [[Duel|duel]].
 
   Chapter XXXVII. prevents the king from administering certain kinds of
   land when these fall into the possession of minors. In the past John
@@ -401,7 +401,7 @@ barons set to work to redress them.
 
   Chapter XXXIX. is more important and the English rendering of it may
   be given in full. "No freeman shall be arrested, or detained in
-  prison, or deprived of his freehold, or outlawed, or banished, or in
+  prison, or deprived of his [[Freehold|freehold]], or outlawed, or banished, or in
   any way molested; and we will not set forth against him, nor send
   against him, unless by the lawful judgment of his peers and by the law
   of the land." The object of this was clearly to restrain John from
@@ -472,7 +472,7 @@ barons set to work to redress them.
   Chapters LVI. and LVII. deal with the grievances of Welshmen.
   Restoration of property is promised to them practically in the same
   way as to Englishmen. Welsh law is to be used in Wales, and in the
-  marches the law of the marches is to be employed.
+  [[Marches|marches]] the law of the marches is to be employed.
 
   Chapter LVIII. promises that his hostages and his charters shall be
   restored to Llewellyn, prince of Wales.
@@ -509,7 +509,7 @@ is based upon the Articles of the Barons. It is, however, very much
 longer than the former charter and somewhat longer than the Articles.
 Moreover, it differs in several particulars from the Articles, these
 differences being doubtless the outcome of deliberation and of
-compromise. For instance, the provisions in Magna Carta concerning the
+[[Compromise|compromise]]. For instance, the provisions in Magna Carta concerning the
 freedom of the church find no place in the Articles, while a comparison
 between the two documents suggests that in other ways also influences
 favourable to the church and the clergy were at work while the famous
@@ -532,7 +532,7 @@ and widows had been cheated and oppressed. By declaring, as it does,
 what were the laws and customs of a past age wherein justice prevailed,
 it shows what was the ideal of good government formed by John's prelates
 and barons. Magna Carta can hardly be said to have introduced any new
-ideas. As Pollock and Maitland (_History of English Law_) say "on the
+ideas. As Pollock and Maitland (_History of [[English Law]]_) say "on the
 whole the charter contains little that is absolutely new. It is
 restorative." But although mature study has established the truth of
 this proposition it was not always so. Statesmen and commentators alike
@@ -542,11 +542,11 @@ framers. It was regarded as having conferred upon the nation nothing
 less than the English constitution in its perfect and completed form.
 Sir Edward Coke finds in Magna Carta a full and proper legal answer to
 every exaction of the Stuart kings, and a remedy for every evil suffered
-at the time. Sir William Blackstone is almost equally admiring. Edmund
+at the time. Sir William [[Blackstone]] is almost equally admiring. Edmund
 Burke says "Magna Carta, if it did not give us originally the House of
 Commons, gave us at least a House of Commons of weight and consequence."
-Lord Chatham used words equally superlative. "Magna Carta, the Petition
-of Rights and the Bill of Rights form that code, which I call the Bible
+Lord [[Chatham]] used words equally superlative. "Magna Carta, the Petition
+of Rights and the Bill of Rights form that [[Code|code]], which I call the Bible
 of the English Constitution." Modern historians, although less
 rhetorical, speak in the highest terms of the importance of Magna Carta,
 the view of most of them being summed up in the words of Dr Stubbs: "The
@@ -565,8 +565,8 @@ preferential treatment is meted out to the clergy and the barons. Its
 benefits are confined to freemen, and of the benefits the lion's share
 fell to the larger landholders; the smaller landholders getting, it is
 true, some crumbs from the table. It did not establish freedom from
-arbitrary arrest, or the right of the representatives of the people to
-control taxation, or trial by jury, or other conceptions of a later
+arbitrary [[Arrest|arrest]], or the right of the representatives of the people to
+control taxation, or trial by [[Jury|jury]], or other conceptions of a later
 generation.
 
 The story of Magna Carta after the death of John is soon told. On the
@@ -574,17 +574,17 @@ The story of Magna Carta after the death of John is soon told. On the
 reissued the charter in the name of the young king Henry III. But
 important alterations were made. War was being waged against Louis of
 France, and the executive must not be hampered in the work of raising
-money; moreover the personal equation had disappeared, the barons did
+money; moreover the personal [[Equation|equation]] had disappeared, the barons did
 not need to protect themselves against John. Consequently the chapter
 limiting the power of the crown to raise scutages and aids without the
 consent of the council vanished, and with it the complementary one which
 determined the method of calling a council. Other provisions, the object
 of which had been to restrain John from demanding more money from
-various classes of his subjects, were also deleted, and the same fate
+various classes of his subjects, were also deleted, and the same [[Fate|fate]]
 befell such chapters as dealt with mere temporary matters. The most
 important of these was Chapter LXI., which provided for the appointment
 of 25 executors to compel John to observe the charter. The next year
-peace was made at Lambeth (Sept. 11, 1217) between Henry III. and Louis
+peace was made at [[Lambeth]] (Sept. 11, 1217) between Henry III. and Louis
 and another reissue of the charter was promised. This promise was
 carried out, but two charters appeared, one being a revised issue of
 Magna Carta proper, and the other a separate charter dealing with the
@@ -610,7 +610,7 @@ slight alterations, and this is the final form taken by Magna Carta,
 this text being the one referred to by Coke and the other early
 commentators. Subsequently the charters were confirmed several times by
 Henry III. and by Edward I., the most important occasion being their
-confirmation by Edward at Ghent in November 1297. On this occasion some
+confirmation by Edward at [[Ghent]] in November 1297. On this occasion some
 supplementary articles were added to the charter; these were intended to
 limit the taxing power of the crown.
 
@@ -619,9 +619,9 @@ limit the taxing power of the crown.
   four two are in the British Museum. Both came into the possession of
   the Museum with the valuable collection of papers which had belonged
   to Sir Robert Cotton, who had obtained possession of both. One was
-  found in Dover castle about 1630. This was damaged by fire in 1731;
+  found in [[Dover]] castle about 1630. This was damaged by fire in 1731;
   the other is undamaged. The two other sealed copies belong to the
-  cathedrals of Lincoln and of Salisbury. Both were written evidently in
+  cathedrals of [[Lincoln]] and of Salisbury. Both were written evidently in
   a less hurried fashion than those in the British Museum, and the one
   at Lincoln was regarded as the most perfect by the commissioners who
   were responsible for the appearance of the _Statutes of the Realm_

@@ -13,7 +13,7 @@ A.M.C. Dumeril in 1809, and has since been very extensively adopted. The
 division of the group into _Ecardines_ (_Inarticulata_), with no hinge
 to the shell and with an alimentary canal open at both ends, and
 _Testicardines_ (_Articulata_), with a hinge between the dorsal and
-ventral valves and with no anus, was proposed by Owen and has been
+ventral valves and with no [[Anu|anus]], was proposed by Owen and has been
 adopted by nearly all authors. In a later scheme based on our increased
 knowledge of fossil forms, the Brachiopoda are divided into four primary
 groups (orders). This is given at the end of the article, but it must
@@ -48,12 +48,12 @@ composed of two distinct valves; these valves are always, except in
 cases of malformation, equal-sided, but not equivalved. The valves are,
 consequently, essentially symmetrical, which is not the case with the
 Lamellibranchiata,--so much so, that certain Brachiopod shells were
-named _Lampades_, or lamp shells, by some early naturalists; but while
+named _Lampades_, or [[Lamp|lamp]] shells, by some early naturalists; but while
 such may bear a kind of resemblance to an antique Etruscan lamp, by far
 the larger number in no way resemble one. The shell is likewise most
 beautiful in its endless shapes and variations. In some species it is
 thin, semi-transparent and glassy, in others massive. Generally the
-shell is from a quarter of an inch to about 4 in. in size, but in
+shell is from a quarter of an [[Inch|inch]] to about 4 in. in size, but in
 certain species it attains nearly a foot in breadth by something less in
 length, as is the case with _Productus giganteus_. The valves are also
 in some species very unequal in their respective thickness, as may be
@@ -69,13 +69,13 @@ Traces of the original colour have also been preserved in some of the
 fossil forms; radiating bands of a reddish tint have been often seen in
 well-preserved examples of _Terebratula_ (_Dielasma_) _hastata_, _T_.
 (_Dielasma_) _sacculus_, _T. communis_, _T. biplicata_, and of several
-others. Some specimens of _T. carnea_ are of a beautiful pale pink
-colour when first removed from their matrix, and E. Deslongchamps has
-described the tint of several Jurassic species.
+others. Some specimens of _T. [[Carnea|carnea]]_ are of a beautiful pale pink
+colour when first removed from their [[Matrix|matrix]], and E. [[Deslongchamps]] has
+described the tint of several [[Jurassic]] species.
 
 The valves are distinguished as _dorsal_ and _ventral_. The ventral
 valve is usually the larger, and in many genera, such as _Terebratula_
-and _Rhynchonella_, has a prominent beak or umbo, with a circular or
+and _Rhynchonella_, has a prominent [[Beak|beak]] or umbo, with a circular or
 otherwise shaped foramen at or near its extremity, partly bounded by one
 or two plates, termed a deltidium. Through the foramen passes a
 peduncle, by which the animal is in many species attached to submarine
@@ -89,7 +89,7 @@ objects by a larger or smaller portion of their ventral valve, as is the
 case with many forms of _Crania_, _Thecidium_, _Davidsonia_, &c. Some
 _Cranias_ are always attached by the whole surface of their lower or
 ventral valve, which models itself and fills up all the projections or
-depressions existing on either the rock, shell or coral to which it
+depressions existing on either the rock, shell or [[Coral|coral]] to which it
 adhered. These irregularities are likewise, at times, reproduced on the
 upper or dorsal valve. Some species of _Strophalosia_ and _Productus_
 seem also to have been moored during life to the sandy or muddy bottoms
@@ -111,7 +111,7 @@ _Terebratula_ and _Terebratulina_, it is short and simple, and attached
 to a small divided hinge-plate, the two riband-shaped lamina being bent
 upwards in the middle (fig. 15). The cardinal process is prominent, and
 on each side of the hinge-plate are situated the dental sockets; the
-loop in _Terebratulina_ becomes annular in the adult by the union of its
+loop in _Terebratulina_ becomes [[Annular|annular]] in the adult by the union of its
 crural processes (fig. 16). In _Magellania_ [_Waldheimia_] it is
 elongated and reflected; the hinge-plate large, with four depressions,
 under which originates a median septum, which extends more or less into
@@ -131,7 +131,7 @@ only is furnished with two short anchor-shaped lamellae. Many more
 modifications are observable in different groups of which the great
 family _Terebratulidae_ is composed. In _Thecidium_ (figs. 3,4) the
 interior of the dorsal valve is variously furrowed to receive the
-lophophore folded in two or more lobes. In the family _Spiriferidae_
+lophophore folded in two or more [[Lobe|lobes]]. In the family _Spiriferidae_
 there are two conical spires directed outwards, and nearly filling the
 cavity of the shell (fig. 5); while in _Atrypa_ the broad spirally
 coiled lamellae are vertical, and directed toward the centre of the
@@ -177,10 +177,10 @@ of dorsal valve, to show the position of the labial appendages. v,
 Mouth. (A portion of the fringe of cirri is removed to show the brachial
 membrane and a portion of the spiral extremities of the arms.)]
 
-Each valve of the shell is lined by a mantle which contains
+Each valve of the shell is lined by a [[Mantle|mantle]] which contains
 prolongations of the body cavity. The outer surfaces of the mantle
 secrete the shell, which is of the nature of a cuticle impregnated by
-calcareous salts. These often have the form of prisms of calcite
+calcareous salts. These often have the form of prisms of [[Calcite|calcite]]
 surrounded by a cuticular mesh work; the whole is nourished and kept
 alive by processes, which in _Crania_ are branched; these perforate the
 shell and permit the access of the coelomic fluid throughout its
@@ -210,15 +210,15 @@ Logitudinal section with a portion of the animal.
 The body of the Brachiopod usually occupies about the posterior half of
 the space within the shell. The anterior half of this space is lined by
 the inner wall of the mantle and is called the mantle cavity. This
-cavity lodges the arms, which are curved and coiled in different ways in
+cavity [[Lodge|lodges]] the arms, which are curved and coiled in different ways in
 different genera. The water which bears the oxygen for respiration and
 the minute organisms upon which the Brachiopod feeds is swept into the
 mantle cavity by the action of the cilia which cover the arms, and the
-eggs and excreta pass out into the same cavity. The mouth lies in the
-centre of the anterior wall of the body. Its two lips fusing together at
+[[Egg|eggs]] and excreta pass out into the same cavity. The mouth lies in the
+centre of the anterior wall of the body. Its two [[Lip|lips]] fusing together at
 the corners of the mouth are prolonged into the so-called arms. These
 arms, which together form the lophophore, may be, as in _Cistella_,
-applied flat to the inner surface of the dorsal mantle fold, but more
+applied flat to the inner surface of the dorsal mantle [[Fold|fold]], but more
 usually they are raised free from the body like a pair of moustaches,
 and as they are usually far too long to lie straight in the mantle
 cavity, they are folded or coiled up. The brachial skeleton which in
@@ -234,7 +234,7 @@ many cases supports the arms has been mentioned above.
    5. Lip which overhangs the mouth and runs all round the lophophore.
    6. Tentacles.
    7. Ovary in dorsal valve.
-   8. Liver diverticula.
+   8. [[Liver]] diverticula.
    9. Occlusor muscle--its double origin is shown.
   10. Internal opening of left nephridium.
   11. External opening of the same.
@@ -248,7 +248,7 @@ A transverse section through the arm (fig. 22) shows that it consists of
 a stout base, composed of a very hyaline connective tissue not uncommon
 in the tissues of the Brachiopoda, which is traversed by certain canals
 whose nature is considered below under the section (_The Body Cavity_)
-devoted to the coelom. Anteriorly this base supports a gurrie or gutter,
+devoted to the coelom. Anteriorly this base supports a gurrie or [[Gutter|gutter]],
 the pre-oral rim of which is formed by a simple lip, but the post-oral
 rim is composed of a closely set row of tentacles. These may number some
 thousands, and they are usually bent over and tend to form a closed
@@ -277,7 +277,7 @@ the tentacles also straighten themselves and wave about in the water.
   sinuses of the mantle (fig. 21). Some of the endothelial cells lining
   the coelom are ciliated, the cilia keeping the corpusculated fluid
   contents in movement. Others of the endothelial cells show a great
-  tendency to form muscle fibres. Besides this main coelomic cavity
+  tendency to form muscle [[Fibres|fibres]]. Besides this main coelomic cavity
   there are certain other spaces which F. Blochmann regards as coelomic,
   but it must be remembered that his interpretation rests largely on
   histological grounds, and at present embryological confirmation is
@@ -340,7 +340,7 @@ the tentacles also straighten themselves and wave about in the water.
      9. Secondary arm-nerve.
     10. Under arm-nerve.]
 
-  _The Alimentary Canal_.--The mouth, which is quite devoid of armature,
+  _The Alimentary Canal_.--The mouth, which is quite devoid of [[Armature|armature]],
   leads imperceptibly into a short and dorsally directed oesophagus. The
   latter enlarges into a spherical stomach into which open the broad
   ducts of the so-called liver. The stomach then passes into an
@@ -430,7 +430,7 @@ the tentacles also straighten themselves and wave about in the water.
   regretted. In the Testicardines, of which the genus _Terebratula_ may
   be taken as an example, five or six pairs of muscles are stated by A.
   Hancock, Gratiolet and others to be connected with the opening and
-  closing of the valves, or with their attachment to or movements upon
+  closing of the valves, or with their [[Attachment|attachment]] to or movements upon
   the peduncle. First of all, the adductors or occlusors consist of two
   muscles, which, bifurcating near the centre of the shell cavity,
   produce a large quadruple impression on the internal surface of the
@@ -540,7 +540,7 @@ the tentacles also straighten themselves and wave about in the water.
     p, Peduncle.
     e, Heart.
     a, Alimentary tube.
-    z, Anal aperture.]
+    z, Anal [[Aperture|aperture]].]
 
   In the Testicardines, where no such sliding action of the valves was
   necessary or possible, no muscles for such an object were required,
@@ -601,7 +601,7 @@ the tentacles also straighten themselves and wave about in the water.
   sub-oesophageal ganglion is not drawn out, but lies medianly; it gives
   off two posteriorly directed nerves to the stalk, which in _Lingula_
   unite and form a substantial nerve. Sense organs are unknown in the
-  adult. The larval forms are provided with eye-spots, but no very
+  adult. The [[Larval Forms|larval forms]] are provided with eye-spots, but no very
   specialized sense organs are found in the adult.
 
   [Illustration: FIG. 28.--Diagram of nervous system of _Crania_; from
@@ -630,7 +630,7 @@ the tentacles also straighten themselves and wave about in the water.
     19. Obliquus superior muscle.
     20. Levator brachii muscle.]
 
-  The _histology_ of Brachiopods presents some peculiar and many
+  The _[[Histology|histology]]_ of Brachiopods presents some peculiar and many
   primitive features. As a rule the cells are minute, and this has
   especially stood in the way of embryological research. The plexus of
   nerve-fibrils which underlie the ectoderm and are in places gathered
@@ -677,7 +677,7 @@ the tentacles also straighten themselves and wave about in the water.
     8. Muscles.]
 
   _Embryology._--With the exception of Yatsu's article on the
-  development of _Lingula_ (_J. Coll. Sci., Japan_, xvii., 1901-1903)
+  development of _Lingula_ (_J. Coll. Sci., [[Japan]]_, xvii., 1901-1903)
   and E.G. Conklin's on "Terebratulina septentrionalis" (_P. Amer. Phil.
   Soc._ xli., 1902), little real advance has been made in our knowledge
   of the embryology of the Brachiopoda within recent years. Kovalevsky's
@@ -710,7 +710,7 @@ the tentacles also straighten themselves and wave about in the water.
   Simroth (_Ergeb. Plankton Expedition_, ii., 1897) has described, a few
   larval brachiopods of undetermined genera, two of which at least were
   pelagic, or at any rate taken far from the coast. These larvae, which
-  resemble those described by Fritz Muller (_Arch. Naturg._, 1861-1862),
+  resemble those described by Fritz Muller (_[[Arch]]. Naturg._, 1861-1862),
   have their mantle turned over their head and the larval shell well
   developed. No stalk has been seen by Simroth or Fritz Muller, but in
   other respects the larva resembles the stages in the development of
@@ -751,7 +751,7 @@ the tentacles also straighten themselves and wave about in the water.
   [FIG. 31.--Shell of larval Brachiopod. Phylembryo stage. (From
   Simroth.) 1, Protegulum; 2, permanent shell.]
 
-  _Classification_.--Beecher's division of the Brachiopoda into four
+  _[[Classification]]_.--Beecher's division of the Brachiopoda into four
   orders is based largely on the character of the aperture through which
   the stalk or pedicle leaves the shell. To appreciate his diagnoses it
   is necessary to understand certain terms, which unfortunately are not
@@ -761,7 +761,7 @@ the tentacles also straighten themselves and wave about in the water.
   that type of opening is found in the young stages only; later it
   becomes partly closed by two plates which grow out from the sides of
   the delthyrium. These plates are secreted by the ventral lobe of the
-  mantle, and were named by von Buch in 1834 the "deltidium." The form
+  mantle, and were named by von [[Buch]] in 1834 the "deltidium." The form
   of the deltidium varies in different genera. The two plates may meet
   in the middle line, and leave only a small oval opening near the
   centre for the pedicle, as in _Rhynchonella_; or they may meet only
@@ -788,7 +788,7 @@ the tentacles also straighten themselves and wave about in the water.
   The orders Atremata and Neotremata are frequently grouped together, as
   the sub-class Inarticulata or Ecardines--the Tretenterata of
   Davidson--and the orders Protremata and Telotremata, as the Articulata
-  or Testicardines--the Clistenterata of Davidson. The following scheme
+  or Testicardines--the Clistenterata of [[Davidson]]. The following scheme
   of classification is based on Beecher's and Schubert's. Recent
   families are printed in italic type.
 
@@ -841,13 +841,13 @@ the tentacles also straighten themselves and wave about in the water.
   _Affinities_.--Little light has been thrown on the affinities of the
   Brachiopoda by recent research, though speculation has not been
   wanting. Brachiopods have been at various times placed with the
-  Mollusca, the Chaetopoda, the Chaetognatha, the Phoronidea, the
+  Mollusca, the [[Chaetopoda]], the Chaetognatha, the Phoronidea, the
   Polyzoa, the Hemichordata, and the Urochordata. None of these
   alliances has borne close scrutiny. The suggestion to place
   Brachiopods with the Polyzoa, _Phoronis, Rhabdopleura_ and
   _Cephalodiscus_, in the Phylum Podaxonia made in _Ency. Brit._ (vol.
   xix, ninth edition, pp. 440-441) has not met with acceptance, and
-  until we have a fuller account of the embryology of some one form,
+  until we have a [[Fuller|fuller]] account of the embryology of some one form,
   preferably an Inarticulate, it is wiser to regard the group as a very
   isolated one. It may, however, be pointed out that Brachiopods seem to
   belong to that class of animal which commences life as a larva with
@@ -865,7 +865,7 @@ the tentacles also straighten themselves and wave about in the water.
   decollata_ Chemn., _Cistella cistellula_ S. Wood, _Cryptopora gnomon_
   Jeff., _Rhynchonella (Hemithyris) psittacea_ Gmel., _Crania anomala_
   Mull., and _Discinisca atlantica_ King. About one-half the 120
-  existing species are found above the 100-fathoms line. Below 150
+  existing species are found above the 100-[[Fathom|fathoms]] line. Below 150
   fathoms they are rare, but a few such as _Terebratulina wyvillei_ are
   found down to 2000 fathoms. _Lingula_ is essentially a very shallow
   water form. As a rule the genera of the northern hemisphere differ

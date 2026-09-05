@@ -8,7 +8,7 @@ type: article
 # Essay
 
 ESSAY, ESSAYIST (Fr. _essai_, Late Lat. _exagium_, a weighing or
-balance; _exigere_, to examine; the term in general meaning any trial or
+[[Balance|balance]]; _exigere_, to examine; the term in general meaning any trial or
 effort). As a form of literature, the essay is a composition of moderate
 length, usually in prose, which deals in an easy, cursory way with the
 external conditions of a subject, and, in strictness, with that subject,
@@ -18,8 +18,8 @@ may perhaps be admitted, but want of thought, that is to say lack of
 proper mental digestion, is certainly not characteristic of a fine
 example. It should, on the contrary, always be the brief and light
 result of experience and profound meditation, while "undigested" is the
-last epithet to be applied to the essays of Montaigne, Addison or Lamb.
-Bacon said that the Epistles of Seneca were "essays," but this can
+last epithet to be applied to the essays of Montaigne, Addison or [[Lamb]].
+Bacon said that the [[Epistle|Epistles]] of Seneca were "essays," but this can
 hardly be allowed. Bacon himself goes on to admit that "the word is
 late, though the thing is ancient." The word, in fact, was invented for
 this species of writing by Montaigne, who merely meant that these were
@@ -27,11 +27,11 @@ experiments in a new kind of literature. This original meaning, namely
 that these pieces were attempts or endeavours, feeling their way towards
 the expression of what would need a far wider space to exhaust, was lost
 in England in the course of the eighteenth century. This is seen by the
-various attempts made in the nineteenth century to coin a word which
+various attempts made in the nineteenth century to [[Coin|coin]] a word which
 should express a still smaller work, as distinctive in comparison with
 the essay as the essay is by the side of the monograph; none of these
 linguistic experiments, such as _essayette_, _essaykin_ (Thackeray) and
-_essaylet_ (Helps) have taken hold of the language. As a matter of fact,
+_essaylet_ ([[Helps]]) have taken hold of the language. As a matter of fact,
 the journalistic word _article_ covers the lesser form of essay,
 although not exhaustively, since the essays in the monthly and quarterly
 reviews, which are fully as extended as an essay should ever be, are
@@ -64,11 +64,11 @@ castle of Montaigne, in a study to which the philosopher withdrew for
 that purpose, surrounded by his books, close to his chapel, sheltered
 from the excesses of a fatiguing world. He wrote slowly, not
 systematically; it took nine years to finish the two first books of the
-essays. In 1574 the manuscript of the work, so far as it was then
+essays. In 1574 the [[Manuscript|manuscript]] of the work, so far as it was then
 completed, was nearly lost, for it was confiscated by the pontifical
 police in Rome, where Montaigne was residing, and was not returned to
 the author for four months. The earliest imprint saw the light in 1580,
-at Bordeaux, and the Paris edition of 1588, which is the fifth, contains
+at [[Bordeaux]], and the Paris edition of 1588, which is the fifth, contains
 the final text of the great author. These dates are not negligible in
 the briefest history of the essay, for they are those of its revelation
 to the world of readers. It was in the delightful chapters of his new,
@@ -81,19 +81,19 @@ above all the graceful stoicism, of the great master were admired and
 copied in France, the exact shape in which he had put down his thoughts,
 in the exquisite negligence of a series of essays, was too delicate to
 tempt an imitator. It is to be noted that neither Charron, nor Mlle de
-Gournay, his most immediate disciples, tried to write essays. But
-Montaigne, who liked to fancy that the Eyquem family was of English
-extraction, had spoken affably of the English people as his "cousins,"
+Gournay, his most immediate [[Disciple|disciples]], tried to write essays. But
+Montaigne, who liked to [[Fancy|fancy]] that the Eyquem family was of English
+extraction, had spoken affably of the English people as his "[[Cousin|cousins]],"
 and it has always been admitted that his genius has an affinity with the
 English. He was early read in England, and certainly by Bacon, whose is
 the second great name connected with this form of literature. It was in
 1597, only five years after the death of Montaigne, that Bacon published
 in a small octavo the first ten of his essays. These he increased to 38
 in 1612 and to 58 in 1625. In their first form, the essays of Bacon had
-nothing of the fulness or grace of Montaigne's; they are meagre notes,
+nothing of the fulness or [[Grace|grace]] of Montaigne's; they are meagre notes,
 scarcely more than the headings for discourses. It is possible that when
 he wrote them he was not yet familiar with the style of his predecessor,
-which was first made popular in England, in 1603, when Florio published
+which was first made popular in England, in 1603, when [[Florio]] published
 that translation of the _Essais_ which Shakespeare unquestionably read.
 In the later editions Bacon greatly expanded his theme, but he never
 reached, or but seldom, the freedom and ease, the seeming formlessness
@@ -104,15 +104,15 @@ which belonged to so great a presence as that of Bacon or Montaigne. The
 one exception was Sir William Cornwallis (d. 1631), who published essays
 in 1600 and 1617, of slight merit, but popular in their day. No other
 English essayist of any importance appeared until the Restoration, when
-Abraham Cowley wrote eleven "Several Discourses by way of Essays," which
+Abraham [[Cowley]] wrote eleven "Several Discourses by way of Essays," which
 did not see the light until 1668. He interspersed with his prose,
 translations and original pieces in verse, but in other respects Cowley
 keeps much nearer than Bacon to the form of Montaigne. Cowley's essay
 "Of Myself" is a model of what these little compositions should be. The
-name of Bacon inspires awe, but it is really not he, but Cowley, who is
+name of Bacon inspires [[Awe|awe]], but it is really not he, but Cowley, who is
 the father of the English essay; and it is remarkable that he has had no
 warmer panegyrists than his great successors, Charles Lamb and Macaulay.
-Towards the end of the century, Sir George Mackenzie (1636-1691) wrote
+Towards the end of the century, Sir George [[Mackenzie]] (1636-1691) wrote
 witty moral discourses, which were, however, essays rather in name than
 form. Whenever, however, we reach the eighteenth century, we find the
 essay suddenly became a dominant force in English literature. It made
@@ -128,25 +128,25 @@ long retained, a mixture of the manner of Montaigne with that of La
 Bruyere, combining the form of the pure essay with that of the
 character-study, as modelled on Theophrastus, which had been so popular
 in England throughout the seventeenth century. Addison's early _Tatler_
-portraits, in particular such as those of "Tom Folio" and "Ned Softly,"
+portraits, in particular such as those of "Tom [[Folio]]" and "Ned Softly,"
 are hardly essays. But Steele's "Recollections of Childhood" is, and
 here we may observe the type on which Goldsmith, Lamb and R.L. Stevenson
 afterwards worked. In January 1711 the _Tatler_ came to an end, and was
 almost immediately followed by the _Spectator_, and in 1713 by the
-_Guardian_. These three newspapers are storehouses of admirable and
+_[[Guardian]]_. These three newspapers are storehouses of admirable and
 typical essays, the majority of them written by Steele and Addison, who
 are the most celebrated eighteenth-century essayists in England. Later
 in the century, after the publication of other less successful
 experiments, appeared Fielding's essays in the _Covent Garden Journal_
 (1752) and Johnson's in the _Rambler_ (1750), the _Adventurer_ (1752)
 and the _Idler_ (1759). There followed a great number of polite
-journals, in which the essay was treated as "the bow of Ulysses in which
+journals, in which the essay was treated as "the [[Bow|bow]] of Ulysses in which
 it was the fashion for men of rank and genius to try their strength."
-Goldsmith reached a higher level than the Chesterfields and Bonnel
+Goldsmith reached a higher level than the [[Chesterfield|Chesterfields]] and Bonnel
 Thorntons had dreamed of, in the delicious sections of his _Citizen of
 the World_ (1760). After Goldsmith, the eighteenth-century essay
 declined into tamer hands, and passed into final feebleness with the
-pedantic Richard Cumberland and the sentimental Henry Mackenzie. The
+pedantic Richard [[Cumberland]] and the sentimental Henry Mackenzie. The
 _corpus_ of eighteenth-century essayists is extremely voluminous, and
 their reprinted works fill some fifty volumes. There is, however, a
 great sameness about all but the very best of them, and in no case do
@@ -163,24 +163,24 @@ the _London Magazine_ for August 1820, and proceeded at fairly regular
 intervals until December 1822; early in 1823 the first series of them
 were collected in a volume. The peculiarity of Lamb's style as an
 essayist was that he threw off the Addisonian and still more the
-Johnsonian tradition, which had become a burden that crushed the life
+Johnsonian tradition, which had become a [[Burden|burden]] that crushed the life
 out of each conventional essay, and that he boldly went back to the rich
 verbiage and brilliant imagery of the seventeenth century for his
 inspiration. It is true that Lamb had great ductility of style, and
 that, when he pleases, he can write so like Steele that Steele himself
 might scarcely know the difference, yet in his freer flights we are
-conscious of more exalted masters, of Milton, Thomas Browne and Jeremy
+conscious of more exalted masters, of Milton, Thomas Browne and [[Jeremy]]
 Taylor. He succeeded, moreover, in reaching a poignant note of personal
 feeling, such as none of his predecessors had ever aimed at; the essays
-called "Dream Children" and "Blakesmoor" are examples of this, and they
+called "[[Dream]] Children" and "Blakesmoor" are examples of this, and they
 display a degree of harmony and perfection in the writing of the pure
 essay such as had never been attempted before, and has never since been
-reached. Leigh Hunt, clearing away all the didactic and pompous elements
+reached. Leigh [[Hunt]], clearing away all the didactic and pompous elements
 which had overgrown the essay, restored it to its old _Spectator_ grace,
 and was the most easy nondescript writer of his generation in
-periodicals such as the _Indicator_ (1819) and the _Companion_ (1828).
+periodicals such as the _[[Indicator]]_ (1819) and the _Companion_ (1828).
 The sermons, letters and pamphlets of Sydney Smith were really essays of
-an extended order. In Hazlitt and Francis Jeffrey we see the form and
+an extended order. In [[Hazlitt]] and Francis [[Jeffrey]] we see the form and
 method of the essay beginning to be applied to literary criticism. The
 writings of De Quincey are almost exclusively essays, although many of
 the most notable of them, under his vehement pen, have far outgrown the
@@ -200,7 +200,7 @@ cast our eyes over this mass of brilliant writing we observe with
 surprise that it is almost wholly contentious. Nothing can be more
 remarkable than the difference in this respect between Lamb and
 Macaulay, the former for ever demanding, even cajoling, the sympathy of
-the reader, the latter scanning the horizon for an enemy to controvert.
+the reader, the latter scanning the [[Horizon|horizon]] for an enemy to controvert.
 In later times the essay in England has been cultivated in each of these
 ways, by a thousand journalists and authors. The "leaders" of a daily
 newspaper are examples of the popularization of the essay, and they
@@ -226,14 +226,14 @@ making itself at home in France. The so-called _Essais_ of Leibnitz,
 Nicole, Yves Marie Andre and so many others were really treatises.
 Voltaire's famous _Essai sur les moeurs des nations_ is an elaborate
 historical disquisition in nearly two hundred chapters. Later, the
-voluminous essays of Joseph de Maistre and of Lamennais were not essays
+voluminous essays of Joseph de Maistre and of [[Lamennais]] were not essays
 at all in the literary sense. On the other hand, the admirable
 _Causeries du lundi_ of Sainte-Beuve (1804-1869) are literary essays in
 the fulness of the term, and have been the forerunners of a great army
 of brilliant essay-writing in France. Among those who have specially
 distinguished themselves as French essayists may be mentioned Theophile
-Gautier, Paul de Saint-Victor, Anatole France, Jules Lemaitre, Ferdinand
-Brunetiere and Emile Faguet. All these are literary critics, and it is
+[[Gautier]], Paul de Saint-Victor, Anatole France, Jules Lemaitre, [[Ferdinand]]
+Brunetiere and Emile [[Faguet]]. All these are literary critics, and it is
 in the form of the analysis of manifestations of intellectual energy
 that the essay has been most successfully illustrated in France. All the
 countries of Europe, since the middle of the 19th century, have adopted

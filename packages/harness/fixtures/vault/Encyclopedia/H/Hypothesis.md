@@ -2,7 +2,7 @@
 
 HYPOTHESIS (from Gr. [Greek: hypotithenai], to put under; cf. Lat.
 _suppositio_, from _sub-ponere_), in ordinary language, an explanation,
-supposition or assumption, which is put forward in the absence of
+supposition or [[Assumption|assumption]], which is put forward in the absence of
 ascertained facts or causes. Both in ordinary life and in the
 acquisition of scientific knowledge hypothesis is all-important. A
 detective's work consists largely in forming and testing hypothesis. If
@@ -35,7 +35,7 @@ nature "Deum semper excipimus." Mill's principle, though sound in the
 abstract, has, except in a few cases, little practical value in
 determining the admissibility of hypotheses, and in practice any rule
 which tends to discourage hypothesis is in general undesirable. The most
-satisfactory check on hypothesis is expert knowledge in the particular
+satisfactory check on hypothesis is [[Expert|expert]] knowledge in the particular
 field of research by which rigorous tests may be applied. This test is
 roughly of two kinds, first by the ultimate principles or
 presuppositions on which a particular branch of knowledge rests, and

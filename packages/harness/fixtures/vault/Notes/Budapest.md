@@ -49,20 +49,20 @@ four colossal stone lions. At one end is a tunnel, 383 yds. long,
 constructed by Adam Clark in 1854, which pierces the castle hill and
 connects the quarter known as the Christinenstadt with the Danube. The
 other suspension bridge is the Schwurplatz bridge, completed in 1903, 56
-ft. broad, with a span of 317 yds. The other bridges are the Margaret
-bridge, with a junction bridge towards the Margaret island, the Franz
+ft. broad, with a span of 317 yds. The other bridges are the [[Margaret]]
+bridge, with a junction bridge towards the Margaret island, the [[Franz]]
 Joseph bridge, and two railway bridges.
 
 Perhaps the most attractive part of Budapest is the line of broad quays on
 the left bank of the Danube, which extend for a distance of 21/2 m. from the
-Margaret bridge to the custom-house, and are lined with imposing buildings.
+Margaret bridge to the [[Custom-House|custom-house]], and are lined with imposing buildings.
 The most important of these is the Franz Joseph Quai, 1 m. long, which
 contains the most fashionable cafes and hotels, and is the favourite
 promenade. The inner town is surrounded by the Innere Ring-Strasse, a
-circle of wide boulevards on the site of the old wall. Wide tree-shaded
+circle of wide [[Boulevard|boulevards]] on the site of the old wall. Wide tree-shaded
 streets, like the Kiraly Utcza, the Kerrepesi Ut, and the Uelloei Ut, also
 form the lines of demarcation between the different districts. The inner
-ring is connected by the Vaczi Koerut (Waitzner-Ring) with the Grosse
+ring is connected by the Vaczi Koerut (Waitzner-Ring) with the [[Grosse]]
 Ring-Strasse, a succession of boulevards, describing a semicircle beginning
 at the Margaret bridge and ending at the Boraros Platz, near the
 custom-house quay, through about the middle of the town. One of the most
@@ -76,16 +76,16 @@ great city. Budapest possesses numerous squares, generally ornamented with
 monuments of prominent Hungarians, usually the work of Hungarian artists.
 
 _Buildings._--Though of ancient origin, neither Buda nor Pest has much to
-show in the way of venerable buildings. The oldest church is the Matthias
-church in Buda, begun by King Bela IV. in the 13th century, completed in
+show in the way of venerable buildings. The oldest church is the [[Matthias]]
+church in Buda, begun by King [[Bela]] IV. in the 13th century, completed in
 the 15th century, and restored in 1890-1896. It was used as a mosque during
-the Turkish occupation, and here took place the coronation of Franz Joseph
-as king of Hungary in 1867. The garrison church, a Gothic building of the
+the Turkish occupation, and here took place the [[Coronation|coronation]] of Franz Joseph
+as king of Hungary in 1867. The [[Garrison|garrison]] church, a [[Gothic]] building of the
 13th century, and the Reformed church, finished in 1898, are the other
 ecclesiastical buildings in Buda worth mentioning. The oldest church in
 Pest is the parish church situated in the Eskue-Ter (Schwur-Platz) in the
 inner town; it was built in 1500, in the Gothic style, and restored in
-1890. The most magnificent church in Pest is the Leopoldstadt Basilica, a
+1890. The most magnificent church in Pest is the Leopoldstadt [[Basilica]], a
 Romanesque building with a dome 315 ft. in height, begun in 1851; next
 comes the Franzstadt church, also a Romanesque building, erected in 1874.
 Besides several modern churches, Budapest possesses a beautiful synagogue,
@@ -99,7 +99,7 @@ to preserve this monument.
 
 Among the secular buildings the first place is taken by the royal palace in
 Buda, which, together with the old fortress, crowns the summit of a hill,
-and forms the nucleus of the town. The palace erected by Maria Theresa in
+and forms the nucleus of the town. The palace erected by [[Maria Theresa]] in
 1748-1771 was partly burned in 1849, but has been restored and largely
 extended since 1894. In the court chapel are preserved the regalia of
 Hungary, namely, the crown of St Stephen, the sceptre, orb, sword and the
@@ -112,16 +112,16 @@ in this part of the town.
 
 The long range of substantial buildings fronting the left bank of the
 Danube includes the Houses of Parliament (see ARCHITECTURE, Plate IX. fig.
-115), a huge limestone edifice in the late Gothic style, covering an area
+115), a huge [[Limestone|limestone]] edifice in the late Gothic style, covering an area
 of 33/4 acres, erected in 1883-1902; the Academy, in Renaissance style,
 erected in 1862-1864, containing a lofty reception room, a library, a
 historic picture gallery, and a botanic collection; the Redoute buildings,
 a large structure in a mixed Romanesque and Moorish style, erected for
-balls and other social purposes; the extensive custom-house at the lower
-end of the quays, and several fine hotels and insurance offices. In the
+[[Ball|balls]] and other social purposes; the extensive custom-house at the lower
+end of the quays, and several fine hotels and [[Insurance|insurance]] offices. In the
 beautiful Andrassy Ut are the opera-house (1875-1884), in the Italian
 Renaissance style; the academy of music; the old and new exhibition
-building; the national drawing school; and the museum of fine arts
+building; the national drawing school; and the museum of [[Fine Arts|fine arts]]
 (1900-1905), in which was installed in 1905 the national gallery, formed by
 Prince Esterhazy, bought by the government in 1865 for L130,000, and
 formerly housed in the academy, and the collection of modern pictures from
@@ -135,10 +135,10 @@ and the university library (opened in 1875), a handsome Renaissance
 building; the palace of justice (1896), a magnificent edifice situated not
 far from the Houses of Parliament. In its neighbourhood also are the
 palatial buildings of the ministries of justice and of agriculture. There
-are also the exchange (1905); the Austro-Hungarian bank (1904); the central
+are also the [[Exchange|exchange]] (1905); the Austro-Hungarian bank (1904); the central
 post and telegraph office; the art-industrial museum (1893-1897), in
 oriental style, with some characteristically Hungarian ornamentations;
-several handsome theatres; large barracks; technical and secondary schools;
+several handsome theatres; large [[Barracks|barracks]]; technical and secondary schools;
 two great railway termini and a central market (1897) to be mentioned. To
 the south-east of the town lies the vast slaughter-house (1870-1872),
 which, with the adjacent cattle-market, covers nearly 30 acres of ground.
@@ -174,7 +174,7 @@ head of the scientific societies stands the academy of sciences, founded in
 various sciences except theology. Next to it comes the national museum,
 founded in 1807 through the donations of Count Stephan Szechenyi, which
 contains extensive collections of antiquities, natural history and
-ethnology, and a rich library which, in its manuscript department of over
+ethnology, and a rich library which, in its [[Manuscript|manuscript]] department of over
 20,000 MSS., contains the oldest specimens of the Hungarian language.
 Another society which has done great service for the cultivation of the
 Hungarian language is the Kisfaludy society, founded in 1836. It began by
@@ -186,7 +186,7 @@ society is very great, and it has attracted within its circle the best
 writers of Hungary. Another society similar in aim with this one is the
 Petoefi society, founded in 1875. Amongst the numerous scientific
 associations are the central statistical department, and the Budapest
-communal bureau of statistics, which under the directorship of Dr Joseph de
+communal [[Bureau|bureau]] of statistics, which under the directorship of Dr Joseph de
 Koeroesy has gained a European reputation.
 
 The artistic life in Budapest is fostered by the academy of music, which
@@ -204,8 +204,8 @@ town in Hungary, and in the former, if not also in the latter, it is second
 to Vienna alone in the Austro-Hungarian monarchy. The principal industries
 are steam flour-milling, distilling, and the manufacture of machinery,
 railway plant, carriages, cutlery, gold and silver wares, chemicals,
-bricks, jute, and the usual articles produced in large towns for home
-consumption. The trade of Budapest is mainly in corn, flour, cattle,
+[[Brick|bricks]], jute, and the usual articles produced in large towns for home
+consumption. The trade of Budapest is mainly in [[Corn|corn]], flour, cattle,
 horses, pigs, wines, spirits, wool, wood, hides, and in the articles
 manufactured in the town. The efforts of the Hungarian government to
 establish a great home industry, and the measures taken to that effect,
@@ -247,13 +247,13 @@ of 818% and Budapest of 809%. Within the same period the increase of Paris
 was 343%, and of London 340%. In 1900 the civil population of Budapest was
 716,476 inhabitants, showing an increase of 44.82% in the decade. To this
 must be added a garrison of 15,846 men, making a total population 732,322.
-Of the total population, civil and military, 578,458 were Magyars, 104,520
+Of the total population, civil and military, 578,458 were [[Magyars]], 104,520
 were Germans, 25,168 were Slovaks, and the remainder was composed of
 Croatians, Servians, Rumanians, Russians, Greeks, Armenians, Gypsies, &c.
 According to religion, there were 445,023 Roman Catholics, 5806 Greek
 Catholics, 4422 Greek Orthodox; 67,319 were Protestants of the Helvetic,
-and 38,811 were Protestants of the Augsburg Confessions; 168,985 were Jews,
-and the remainder belonged to various other creeds. A striking feature in
+and 38,811 were Protestants of the [[Augsburg]] Confessions; 168,985 were Jews,
+and the remainder belonged to various other [[Creeds|creeds]]. A striking feature in
 the progress of Budapest is the decline in the death-rate, which sank from
 43.4 per thousand in 1874 to 20.6 per thousand in 1900. In addition to the
 increased influx of [v.04 p.0681] persons in the prime of life, this is due
@@ -269,7 +269,7 @@ Catholic archbishop. The town is administered by an elected municipal
 council, which consists of 400 members. As Paris is sometimes said to be
 France, so may Budapest with almost greater truth be said to be Hungary.
 Its composite population is a faithful reflection of the heterogeneous
-elements in the dominions of the Habsburgs, while the trade and industry of
+elements in the dominions of the [[Habsburg|Habsburgs]], while the trade and industry of
 Hungary are centralized at Budapest in a way that can scarcely be affirmed
 of any other European capital. In virtue of its cultural institutions, it
 is also the intellectual and artistic centre of Hungary. The movement in
@@ -287,7 +287,7 @@ Hungary was centred in Budapest, and had largely been so since 1848, when
 it became the seat of the legislature, as it was that of the Austrian
 central administration which followed the revolution. The ideal of a
 prosperous, brilliant and attractive Magyar capital, which would keep the
-nobles and the intellectual flower of the country at home, uniting them in
+nobles and the intellectual [[Flower|flower]] of the country at home, uniting them in
 the service of the Fatherland, had received a powerful impetus from Count
 Stephan Szechenyi, the great Hungarian reformer of the pre-Revolutionary
 period. His work, continued by patriotic and able successors, was now taken
@@ -316,14 +316,14 @@ progress of Budapest.
 Politically, this ambitious and progressive capital is the creation of the
 Magyar upper classes. Commercially and industrially, it may be said to be
 the work of the Jews. The sound judgment of the former led them to welcome
-and appreciate the co-operation of the latter. Indeed, a readiness to
+and appreciate the [[Co-Operation|co-operation]] of the latter. Indeed, a readiness to
 assimilate foreign elements is characteristic of Magyar patriotism, which
 has, particularly within the last generation, made numerous converts among
 the other nationalities of Hungary, and--for national purposes--may be
 considered to have quite absorbed the Hungarian Jews. It has thus come to
 pass that there is no anti-Semitism in Budapest, although the Hebrew
 element is proportionately much larger (21% as compared with 9%) than it is
-in Vienna, the Mecca of the Jew-baiter.
+in Vienna, the [[Mecca]] of the Jew-baiter.
 
 Budapest has long been celebrated for its mineral springs and baths, some
 of them having been already used during the Roman period. They rise at the
@@ -414,7 +414,7 @@ their fearless exposure of shortcomings has been an element in the progress
 of the town. Reference should also be made to separate works of the
 director of that institution, Dr Joseph de Koeroesy, known in England for his
 discovery of the law of marital fertility, published by the Royal Society,
-and by his labours in the development of comparative international
+and by his labours in the development of comparative [[International|international]]
 statistics. His _Statistique Internationale des grandes villes_ and
 _Bulletin annuel des finances des grandes villes_ give valuable comparative
 data. See also _Die Oesterreichisch-Ungarische Monarchie in Wort und Bild_

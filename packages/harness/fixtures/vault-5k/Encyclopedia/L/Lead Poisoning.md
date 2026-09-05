@@ -23,7 +23,7 @@ convulsions and death. They are thus described by Dr J. T. Arlidge
   The poison finds its way gradually into the whole mass of the
   circulating blood, and exerts its effects mainly on the nervous
   system, paralysing nerve-force and with it muscular power. Its victims
-  become of a sallow-waxy hue; the functions of the stomach and bowels
+  become of a sallow-waxy [[Hue|hue]]; the functions of the stomach and bowels
   are deranged, appetite fails and painful colic with constipation
   supervenes. The loss of power is generally shown first in the fingers,
   hands and wrists, and the condition known as "wrist-drop" soon
@@ -36,7 +36,7 @@ convulsions and death. They are thus described by Dr J. T. Arlidge
 Dr M'Aldowie, senior physician to the North Staffordshire Infirmary, has
 stated that "in the pottery trade lead is very slow in producing serious
 effects compared with certain other industries." In his experience the
-average period of working in lead before serious lesions manifest
+average period of working in lead before serious lesions [[Manifest|manifest]]
 themselves is 18 years for females and 22½ years for males. But some
 individuals fall victims to the worst forms of plumbism after a few
 months' or even weeks' exposure to the danger. Young persons are more
@@ -48,7 +48,7 @@ have attacks whenever they are brought into contact with it. Possibly
 the difference is due to the general state of health; robust persons
 resist the poison successfully, those with impoverished blood and feeble
 constitution are mastered by it. Lead enters the body chiefly through
-the nose and mouth, being inspired in the form of dust or swallowed with
+the nose and mouth, being inspired in the form of [[Dust|dust]] or swallowed with
 food eaten with unwashed hands. It is very apt to get under the nails,
 and is possibly absorbed in this way through the skin. Personal care and
 cleanliness are therefore of the greatest importance. A factory surgeon
@@ -93,7 +93,7 @@ to the question of "fritting" the lead.
   articles are dipped. After dipping the glaze dries quickly, and on
   being "fired" in the kiln it becomes fused by the heat into the
   familiar glassy surface. In the manufacture of ware with enamelled
-  colours, glaze is mixed with the pigment to form a flux, and such
+  [[Colours|colours]], glaze is mixed with the pigment to form a flux, and such
   colours are used either moist or in the form of a dry powder.
   "Fritting" the lead means mixing it with the other ingredients of the
   glaze beforehand and fusing them all together under great heat into a
@@ -120,7 +120,7 @@ the certifying surgeon, with power to suspend those showing symptoms of
 poisoning, and providing for the more effectual removal of dust and the
 better enforcement of cleanliness. At the same time a scientific inquiry
 was ordered into the practicability of dispensing with lead in glazes or
-of substituting fritted compounds for the raw carbonate. The scientific
+of substituting fritted [[Compound|compounds]] for the raw carbonate. The scientific
 experts reported in 1899, recommending that the use of raw lead should
 be absolutely prohibited, and expressing the opinion that the greater
 amount of earthenware could be successfully glazed without any lead.
@@ -152,7 +152,7 @@ reported in 1910, and made various recommendations in detail for
 strengthening the existing regulations; but while encouraging the use of
 leadless glaze in certain sorts of common ceramic ware, they pointed out
 that, without the use of lead, certain other sorts could either not be
-made at all or only at a cost or sacrifice of quality which would entail
+made at all or only at a cost or sacrifice of quality which would [[Entail|entail]]
 the loss of important markets.
 
   In 1908 Dr Collis made an inquiry into the increase of plumbism in

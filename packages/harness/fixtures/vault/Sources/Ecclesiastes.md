@@ -3,16 +3,16 @@
 ECCLESIASTES (Heb. [Hebrew: Kohelet], _Kohelet_, "Koheleth"; Sept.
 [Greek: ekklesiastes]; Jerome _concionator_), one of the Wisdom Books of
 the Old Testament (see WISDOM LITERATURE). The book, as it stands, is a
-collection of the discourses, observations and aphorisms of a sage
+collection of the discourses, observations and [[Aphorism|aphorisms]] of a sage
 called Koheleth, a term the precise meaning of which is not certain. The
 Greek _ecclesiastes_ means one who takes part in the deliberations of an
-assembly (_ecclesia_), a debater or speaker in an assembly (Plato,
-_Gorgias_, 452 E), and this is the general sense of the Hebrew word. Its
+assembly (_[[Ecclesia|ecclesia]]_), a debater or speaker in an assembly (Plato,
+_[[Gorgias]]_, 452 E), and this is the general sense of the Hebrew word. Its
 form (singular feminine) has been supposed to be the adoption or
 imitation of the Arabic employment of a fem. sing. as the designation of
 a high official person, as is the case in the title _caliph_ (whence the
 rendering in the margin of the Revised Version, "Great orator"); but the
-adoption of an Arabic idiom is not probable. This usage is not Hebrew;
+adoption of an Arabic [[Idiom|idiom]] is not probable. This usage is not Hebrew;
 it is not found either in the Old Testament or in the later (Mishnaic)
 Hebrew. The form may have been suggested by that of the Hebrew word for
 "wisdom." _Koheleth_, however, is employed in the book not as a title of
@@ -35,7 +35,7 @@ pervaded by a definite tone of feeling. The keynote is given in the
 classic phrase with which the discussion opens and with which it closes:
 "Vanity of vanities (i.e. absolute vanity), all[1] is vanity!" Life,
 says the author, has nothing of permanent value to offer. His attitude
-is one not of bitterness but of calm hopelessness, with an occasional
+is one not of bitterness but of [[Calm|calm]] hopelessness, with an occasional
 tinge of disgust or contempt. He fancies that he has tried or observed
 everything in human experience, and his deliberate conclusion is that
 nothing is worth doing. He believes in an all-powerful but indifferent
@@ -52,13 +52,13 @@ recur regularly; for everything in human experience a time has been set;
 birth and death, building up and destroying, laughing and weeping,
 silence and speech, love and hate, war and peace, are to be regarded not
 as utterances of a living, self-directing world, but as incidents in the
-work of a vast machine that rolls on for ever; there is an endless
+work of a vast [[Machine|machine]] that rolls on for ever; there is an endless
 repetition--nothing is new, nothing is lost; if one thinks he has found
 something new, inquiry shows that it was in existence long ago; God, the
 author of all, seeks out the past in order to make it once more present;
 it is impossible to add to or take from the content of the world,
 impossible to change the nature of things, to effect any radical
-betterment of life; the result is unspeakable weariness--a depressing
+[[Betterment|betterment]] of life; the result is unspeakable weariness--a depressing
 series of sights and sounds. No goal or purpose is discoverable in this
 eternal round; if the sun rises and goes on his journey through the sky,
 it is merely to come back to the place where he rose; rivers flow for
@@ -79,7 +79,7 @@ The word is not found in this sense elsewhere in the Old Testament, but
 it so occurs in the Mishna (_Pirke Aboth_, iv. 7), and the vocabulary of
 Ecclesiastes is admittedly similar to that of the Mishna. Only here in
 the Old Testament does it stand as a simple isolated noun; elsewhere it
-is the definition of a noun (in "everlasting covenant," &c.), or it is
+is the [[Definition|definition]] of a noun (in "[[Everlasting|everlasting]] [[Covenant|covenant]]," &c.), or it is
 preceded by a preposition, in the phrases "for ever," "of old," or it
 stands alone (sing. or plur.) in the same adverbial sense, "for ever."
 The word means first a remote point in past or future, then a future
@@ -94,7 +94,7 @@ thought, yet so that man can never find out the work that God has done
 (iii. 11). The reference seems to be not so much to the variety and
 complexity of phenomena as to the impossibility of construing them
 rationally or in such a way that man may foresee and provide for his
-future. Man is in the clutches of fate (ix. 11, 12): there is no
+future. Man is in the clutches of [[Fate|fate]] (ix. 11, 12): there is no
 observable relation between exertion and result in life: the race is not
 to the swift nor the battle to the strong; success does not attend
 wisdom, knowledge and skill; men are like fish taken in a net or birds
@@ -103,7 +103,7 @@ caught in a snare.
 3. Human life, Koheleth declares, is unsatisfying. He inquired, he says,
 into everything that is done by men under the sun (i. 12-16): God has
 inflicted on men a restless desire for movement and work[2], yet life is
-but a catalogue of fruitless struggles. He gives a number of
+but a [[Catalogue|catalogue]] of fruitless struggles. He gives a number of
 illustrations. In his character of king he tried all the bodily
 pleasures of life (ii. 1-11): he had houses, vineyards, gardens, parks,
 ponds, forests, servants, flocks and herds, treasures of gold and
@@ -120,9 +120,9 @@ keep it--naked man comes into the world, naked he goes out. He does not
 consider the possibility of deriving enjoyment from wealth by helping
 the poor or encouraging learning (this latter, indeed, he looks on as
 vanity), and in general he recognizes no obligation on the part of a man
-to his fellows. A noteworthy survival of an old belief is found in vi.
+to his [[Fellows|fellows]]. A noteworthy survival of an old belief is found in vi.
 3: though a man have the great good fortune to live long and to have
-many children, yet, if he have not proper burial the blank darkness of
+many children, yet, if he have not proper burial the [[Blank|blank]] darkness of
 an untimely birth is better than he: this latter is merely the negation
 of existence; the former, it appears to be held, is positive misfortune,
 the loss of a desirable place in Sheol, though elsewhere (ix. 5)
@@ -134,19 +134,19 @@ If wealth be thus a vain thing, yet a sage might be supposed to find
 satisfaction in wisdom, that is, practical good sense and sagacity; but
 this also the author puts aside as bringing no lasting advantage, since
 a wise man must finally give up the fruit of his wisdom to someone else,
-who may be a fool, and in any case the final result for both fools and
+who may be a [[Fool|fool]], and in any case the final result for both [[Fools|fools]] and
 wise men is the same--both are forgotten (ii. 12-23). A particular
 instance is mentioned (ix. 13-15) of a beleaguered city saved by a wise
 man; but the man happened to be poor, and no one remembered him. The
 whole constitution of society, in fact, seems to the sage a lamentable
 thing: the poor are oppressed, the earth is full of their cries, and
 there is no helper (iv. 1); strange social upheavals may be seen: the
-poor[3] set in high places, the rich cast down, slaves on horseback,
+poor[3] set in [[High Place|high places]], the rich cast down, slaves on horseback,
 princes on foot (x. 5-7). He permits himself a sweeping generalization
 (vii. 25-28): human beings as a rule are bad: one may occasionally find
 a good man, never a good woman--woman is a snare and a curse. He (or an
 editor) adds (vii. 29) that this condition of things is due to social
-development: man was created upright (Gen. i. 27; Enoch lxix. 11), but
+development: man was created upright (Gen. i. 27; [[Enoch]] lxix. 11), but
 in the course of history has introduced corrupting complications into
 life.
 
@@ -155,12 +155,12 @@ cannot recognize a moral government of the world. He finds, like Job,
 that there are good men who die prematurely notwithstanding their
 goodness, and bad men who live long notwithstanding their badness (vii.
 15), though long life, it is assumed, is one of the great blessings of
-man's lot; and in general there is no moral discrimination in the
+man's [[Lot|lot]]; and in general there is no moral discrimination in the
 fortunes of men (viii. 14, ix. 2).
 
 5. There is no sacredness or dignity in man or in human life: man has no
 pre-eminence over beasts, seeing that he and they have the same final
-fate, die and pass into the dust, and no one knows what becomes of the
+fate, die and pass into the [[Dust|dust]], and no one knows what becomes of the
 spirit, whether in man's case it goes up to heaven, and in the case of
 beasts goes down into Sheol--death is practically the end-all; and so
 poor a thing is life that the dead are to be considered more fortunate
@@ -184,9 +184,9 @@ future of man's vital part, the spirit, is wholly uncertain.
 7. His conception of God is in accord with these views. God for him is
 the creator and ruler of the world, but hardly more; he is the master of
 a vast machine that grinds out human destinies without sympathy with man
-and without visible regard for what man deems justice--a being to be
+and without visible regard for what man [[Deems|deems]] justice--a being to be
 acknowledged as lord, not one to be loved. There can thus be no social
-contact between man and God, no communion of soul, no enthusiasm of
+contact between man and God, no communion of soul, no [[Enthusiasm|enthusiasm]] of
 service. Moral conduct is to be regulated not by divine law (of this
 nothing is said) but by human experience. The author's theism is cold,
 spiritless, without influence on life.
@@ -205,11 +205,11 @@ opportunity and the power to enjoy are represented as being the gift of
 God; but this statement is not out of accord with the author's general
 position, which is distinctly theistic. All the passages just cited,
 except the last (xi. 7-xii. 7), are simple and plain, but the bearing of
-the last is obscured by interpolations. Obviously the purpose of the
+the last is obscured by [[Interpolation|interpolations]]. Obviously the purpose of the
 paragraph is to point out the wisdom of enjoying life in the time of
 youth while the physical powers are fresh and strong, and the impotency
 of old age has not yet crept in. Omitting xi. 8c, 9b, 10b, xii. 1a, the
-passage will read: "Life is pleasant in the bright sunshine--however
+passage will read: "Life is pleasant in the [[Bright|bright]] sunshine--however
 long a man may live, he must be cheerful always, only remembering that
 dark days will come. Let the young man enjoy all the pleasures of youth,
 putting away everything painful, before the time comes when his bodily
@@ -223,7 +223,7 @@ though it is to be retained in the margin as a pious editorial addition,
 here interrupts the line of thought. In xii. 1a some critics propose to
 substitute for "remember thy Creator" the expression of xi. 9, "let thy
 heart cheer thee"; but the repetition is improbable. Others would read:
-"remember thy cistern" (Bickell), or "thy well" (Haupt), that is, thy
+"remember thy cistern" (Bickell), or "thy well" ([[Haupt]]), that is, thy
 wife. The wife is so called in Prov. v. 15-19 in an elaborate poetical
 figure (the wife as a source of bodily pleasure), in which the reference
 is clear from the context; but there is no authority, in the Old
@@ -234,7 +234,7 @@ simply to urge men to enjoy life while they can. The paragraph (and the
 original book) concludes with a sustained and impressive figure, in
 which the failing body of the old man is compared to a house falling
 into decay: first, the bodily organs (xii. 3, 4a): the keepers of the
-house (the arms and hands) tremble, the strong men (the legs and perhaps
+house (the arms and hands) tremble, the strong men (the [[Leg|legs]] and perhaps
 the backbone) are bent, the grinding women (the teeth) cease to work,
 those that look out of the windows (the eyes) are darkened, the
 street-doors are shut, the sound of the mill being low (apparently a
@@ -249,7 +249,7 @@ the almond tree blossoms (perhaps the hair turns white). The two next
 clauses are obscure.[6] Then comes the end: man goes to his everlasting
 home; the dust (the body) returns to the earth whence it came (Gen. ii.
 7), and the breath of life, breathed by God into the body, returns to
-him who gave it. This last clause does not affirm the immortality of the
+him who gave it. This last clause does not affirm the [[Immortality|immortality]] of the
 soul; it is simply an explanation of what becomes of the vital principle
 (the "breath of life" of Gen. ii. 7); its positive assertion is not in
 accord with the doubt expressed in iii. 21 ("who knows whether the
@@ -263,7 +263,7 @@ elsewhere denounced as worthless. It may be said that the author, while
 denying that wisdom (practical sagacity and level-headedness) can give
 permanent satisfaction, yet admits its practical value in the conduct of
 life. This may be so; but it would be strange if a writer who could say,
-"in much wisdom is much grief," should deliberately laud wisdom. The
+"in much wisdom is much grief," should deliberately [[Laud|laud]] wisdom. The
 question is not of great importance and may be left undecided. It may be
 added that there are in the book a number of aphorisms about fools (v.
 3[4], vii. 5, 6, x. 1-3, 12-15) quite in the style of the book of
@@ -305,7 +305,7 @@ editorial recommendations and cautions. First, Koheleth is endorsed as
 an industrious, discriminating and instructive writer. Possibly this is
 in reply to objections that had been made to what he had written. There
 follows an obscure passage (v. 11) which seems to be meant as a
-commendation of the teaching of the sages in general: their words are
+[[Commendation|commendation]] of the teaching of the sages in general: their words are
 said to be like goads (inciting to action) and like nails driven in a
 building (giving firmness to character); they issue from masters of
 assemblies,[7] heads of academies (but not of the Sanhedrin). The
@@ -321,7 +321,7 @@ further is known.
 _Composition of the Book._--If the analysis given above is correct, the
 book is not a unit; it contains passages mutually contradictory and not
 harmonizable. Various attempts have been made to establish its unity.
-The hypothesis of "two voices" is now generally abandoned; there is no
+The [[Hypothesis|hypothesis]] of "two voices" is now generally abandoned; there is no
 indication of a debate, of affirmations and responses. A more plausible
 theory is that the author is an honest thinker, a keen observer and
 critic of life, who sees that the world is full of miseries and unsolved
@@ -351,9 +351,9 @@ original author with interspersed editorial remarks; and it is better to
 preserve the existing form as giving a record of the process of growth.
 
 _Date._--As to the date of the book, though there are still differences
-of opinion among scholars, there is a gradual approach to a consensus.
+of opinion among scholars, there is a [[Gradual|gradual]] approach to a consensus.
 The Solomonic authorship has long since been given up: the historical
-setting of the work and its atmosphere--the silent assumption of
+setting of the work and its atmosphere--the silent [[Assumption|assumption]] of
 monotheism and monogamy, the non-national tone, the attitude towards
 kings and people, the picture of a complicated social life, the strain
 of philosophic reflection--are wholly at variance with what is known of
@@ -366,14 +366,14 @@ belongs to the post-classical period of Hebrew. The numerous Aramaisms
 point to a time certainly not earlier than the 4th century B.C., and
 probably (though the history of the penetration of Aramaic into Hebrew
 speech is not definitely known) not earlier than the 3rd century. More
-than this, there are many resemblances between the dialect of Koheleth
+than this, there are many resemblances between the [[Dialect|dialect]] of Koheleth
 and that of Mishna. Not only are new words employed, and old words in
 new significations, but the grammatical structure has a modern
 stamp--some phrases have the appearance of having been translated out of
 Aramaic into Hebrew. By about the beginning of our era the Jews had
 given up Hebrew and wrote in Aramaic; the process of expulsion had been
 going on, doubtless, for some time; but comparison with the later extant
-literature (_Chronicles_, the Hebrew _Ecclesiasticus_ or _Ben-Sira_,
+literature (_Chronicles_, the Hebrew _[[Ecclesiasticus]]_ or _Ben-Sira_,
 _Esther_) makes it improbable that such Hebrew as that of Koheleth would
 have been written earlier than the 2nd century B.C. (for details see
 Driver's _Introduction_). The general historical situation, also,
@@ -389,7 +389,7 @@ law, a naturalistic cosmos, is alien not only to the prophetic and
 liturgical Hebrew literature but also to Hebrew thought in general.
 Whether borrowed or not, it must be late; and its resemblance to Greek
 ideas suggests Greek influence. The supposition of such influence is
-favoured by some critics (Tyler, Plumptre, Palm, Siegfried, Cheyne in
+favoured by some critics (Tyler, Plumptre, Palm, Siegfried, [[Cheyne]] in
 his _Jewish Religious Life after the Exile_, and others), rejected by
 some (Zeller, Renan, Kleinert and others). This disagreement comes
 largely from the attempts made to find definitely expressed Greek
@@ -419,28 +419,28 @@ Koheleth, so far as these coincidences indicate it, would not be far
 from 200 B.C. The contrast made in x. 16 f. between a king who is a boy
 and one who is of noble birth may allude to historical persons. The
 antithesis is not exact; we expect either "boy and mature man" or
-"low-born and high-born." The "child" might be Antiochus V. (164 B.C.),
+"low-born and high-born." The "child" might be [[Antiochus]] V. (164 B.C.),
 or Ptolemy V., Epiphanes (204 B.C.), but the reference is too general to
 be decisive. The text of the obscure passage iv. 13-16 is in bad
 condition, and it is only by considerable changes that a clear meaning
 can be got from it. The two personages--the "old and foolish king" and
 the "poor and wise youth"--have been supposed (by Winckler) to be
-Antiochus Epiphanes (175-164 B.C.) and Demetrius (162-150 B.C.), or (by
+Antiochus Epiphanes (175-164 B.C.) and [[Demetrius]] (162-150 B.C.), or (by
 Haupt) Antiochus and the impostor Alexander Balas (150-146 B.C.), or (by
 others) Demetrius and Alexander; in favour of Alexander as the "youth"
 it may be said that he was of obscure origin, was at first popular, and
-was later abandoned by his friends. Such identifications, however, do
+was later abandoned by his friends. Such [[Identification|identifications]], however, do
 not fix the date of the book precisely; the author may have referred to
-events that happened before his time. The reign of Herod, a period of
+events that happened before his time. The reign of [[Herod]], a period of
 despotism and terror, and of strife between Jewish religious parties, is
-preferred by some scholars (Graetz, Cheyne and others) as best answering
+preferred by some scholars ([[Graetz]], Cheyne and others) as best answering
 to the social situation depicted in the book, while still others (as
 Renan) decide for the reign of Alexander Jannaeus (104-78 B.C.). The
 data are not numerous and distinct enough to settle the question beyond
 determining general limits: for reasons given above the book can hardly
 have been composed before about 200 B.C., and if, as is probable, a
 Septuagint translation of it was made (though the present Septuagint
-text shows the influence of Aquila), it is to be put earlier than 50
+text shows the influence of [[Aquila]]), it is to be put earlier than 50
 B.C. Probably also, its different parts are of different dates.
 
 Of the author nothing is known beyond the obvious fact that he was a man
@@ -450,15 +450,15 @@ a man of high standing, but neither a king nor a high-priest, certainly
 not the apostate priest Alcimus (1 Macc. vii. ix.); nor was he
 necessarily a physician--there are no details in ch. xii. or elsewhere
 that any man of good intelligence might not know. The book is written in
-prose, some of which is rhythmical, with bits of verse here and there:
+prose, some of which is rhythmical, with [[Bit|bits]] of verse here and there:
 thus i. 2-11 is balanced prose, 12-14 plain prose, 15 a couplet, i.
 16-ii. 25 simple prose, vii. contains a number of poetical aphorisms,
 and so on. Some of the verses are apparently from the author, some from
 editors.
 
 The fortunes of the book are not known in detail, but it is clear that
-its merciless criticism of life and its literary charm made it popular,
-while its scepticism excited the apprehensions of pious conservatives.
+its merciless criticism of life and its literary [[Charm|charm]] made it popular,
+while its scepticism excited the [[Apprehension|apprehensions]] of pious conservatives.
 Possibly the _Wisdom of Solomon_ (c. 50 B.C.) was written partly as a
 reply to it. The claim of sacredness made for it was warmly contested by
 some Jewish scholars. In spite of the relief afforded by orthodox
@@ -477,27 +477,27 @@ list of sacred books.
   LITERATURE.--For the older works see Zoeckler (in Lange's _Comm._); for
   Jewish commentaries see Zedner, _Cat. of Heb. books in Libry. of Brit.
   Mus._ (1867), and for the history of the interpretations, C.D.
-  Ginsburg, _Coheleth_ (1861). _Introductions_ of A. Kuenen, S.R.
-  Driver, Cornhill, Koenig. Articles in Herzog-Hauck, _Realencykl._ (by
-  P. Kleinert); Hastings, _Dict. Bible_ (by A.S. Peake); T.K. Cheyne,
-  _Encycl. Bibl._ (by A.B. Davidson); _Jew. Encycl._ (by D.S.
-  Margoliouth). Commentaries: F. Hitzig (1847); C.D. Ginsburg (1861); H.
-  Graetz (1871); Tyler (1874); Delitzsch (1875); E.H. Plumptre (1881);
+  [[Ginsburg]], _Coheleth_ (1861). _Introductions_ of A. [[Kuenen]], S.R.
+  Driver, Cornhill, [[Koenig]]. Articles in Herzog-Hauck, _Realencykl._ (by
+  P. Kleinert); [[Hastings]], _Dict. Bible_ (by A.S. Peake); T.K. Cheyne,
+  _Encycl. Bibl._ (by A.B. [[Davidson]]); _Jew. Encycl._ (by D.S.
+  Margoliouth). Commentaries: F. [[Hitzig]] (1847); C.D. Ginsburg (1861); H.
+  Graetz (1871); Tyler (1874); [[Delitzsch]] (1875); E.H. Plumptre (1881);
   C.H.H. Wright (1883); Nowack, revision of Hitzig (1883); Volck (in
   Strack u. Zoeckler's _Kurzgef. Komm._, 1889); Wildeboer (in Marti's
   _Kurzer Hand-Comm._, 1898); C. Siegfried (in W. Nowack's _Handkomm._,
-  1898); Oort (in _De Oude Test._, 1899). Other works: C. Taylor, _Dirge
+  1898); Oort (in _De Oude Test._, 1899). Other works: C. Taylor, _[[Dirge]]
   of Koh._ (1874); Wuensche, _Midrash_ on Koh. (in his _Biblioth.
   rabbin._, 1880); E. Renan, _L'Ecclesiaste_ (1882); Bickell, _Der
   Prediger_ (1884) and _Kohel.-Untersuchungen_ (1886; Engl. by E.J.
-  Dillon, _Sceptics of Old Test._, 1895); Schiffer, _Das Buch Koh. nach
+  [[Dillon]], _Sceptics of Old Test._, 1895); Schiffer, _Das [[Buch]] Koh. nach
   d. Auffass. d. Weisen d. Talmuds_, &c. (1884); A. Palm, _Qoh. u. d.
   nach-aristotel. Philosophie_ (1885) and _Die Qoh.-Lit._ (1886); E.
   Pfleiderer, _Die Phil. d. Heraklit_, &c. (1886); Cheyne, _Job and
   Solomon_ (1887) and _Jew. Relig. Life_, &c. (1898); W. Euringer, _Der
-  Masorahtext d. Koh._ (1890); W.T. Davison, _Wisdom-Lit. of Old Test._
+  Masorahtext d. Koh._ (1890); W.T. [[Davison]], _Wisdom-Lit. of Old Test._
   (1894); H. Winckler, in his _Altorient. Forschungen_ (1898); J.F.
-  Genung, _Words of Koh._ (Boston, Mass., 1904); P. Haupt,
+  Genung, _Words of Koh._ ([[Boston]], Mass., 1904); P. Haupt,
   _Ecclesiastes_ (Baltimore, 1905). The rabbinical discussions of the
   book are mentioned in _Shabbath_, 30b; _Megilla_, 7a; _Eduyoth_, v. 3;
   _Mishna Yadaim_, iii. 5, iv. 6; _Midrash Koheleth_ (on xi. 9), _Aboth
@@ -536,7 +536,7 @@ FOOTNOTES:
 
   [7] This is the Talmudic understanding of the Hebrew expression
     (Jerus. Sanhed. 10, 28a, cf. Sanhed. 12a; see Ecclus. xxxix. 2).
-    There is no good authority for the renderings "collectors of maxims,"
+    There is no good authority for the renderings "collectors of [[Maxims|maxims]],"
     "collections of maxims."
 
   [8] It is not certain that the codex form was in use in Palestine or

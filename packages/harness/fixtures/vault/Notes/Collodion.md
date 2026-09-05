@@ -11,7 +11,7 @@ COLLODION (from the Gr. [Greek: kolla], glue), a colourless, viscid
 fluid, made by dissolving gun-cotton and the other varieties of
 pyroxylin in a mixture of alcohol and ether. It was discovered in 1846
 by Louis Nicolas Ménard in Paris, and independently in 1848 by Dr J.
-Parkers Maynard in Boston. The quality of collodion differs according to
+Parkers Maynard in [[Boston]]. The quality of collodion differs according to
 the proportions of alcohol and ether and the nature of the pyroxylin it
 contains. Collodion in which there is a great excess of ether gives by
 its evaporation a very tough film; the film left by collodion containing
@@ -21,13 +21,13 @@ rapid evaporation of the ether. Under the microscope, the film produced
 by collodion of good quality appears translucent and colourless. To
 preserve collodion it should be kept cool and out of the action of the
 light; iodized collodion that has been discoloured by the development of
-free iodine may be purified by the immersion in it of a strip of silver
+free iodine may be purified by the [[Immersion|immersion]] in it of a strip of silver
 foil. For the iodizing of collodion, ammonium bromide and iodide, and
-the iodides of calcium and cadmium are the agents employed (see
+the iodides of calcium and [[Cadmium|cadmium]] are the agents employed (see
 PHOTOGRAPHY). Collodion is used in surgery since, when painted on the
 skin, it rapidly dries and covers the skin with a thin film which
 contracts as it dries and therefore affords both pressure and
-protection. Flexible collodion, containing Canada balsam and castor oil,
+protection. Flexible collodion, containing Canada [[Balsam|balsam]] and [[Castor Oil|castor oil]],
 does not crack, but, on the other hand, does not contract. It is
 therefore of less value. Collodion is applied to small aseptic wounds,
 to small-pox pustules, and occasionally to the end of the urethra in

@@ -10,7 +10,7 @@ type: article
 GOMPERS, SAMUEL (1850-   ), American labour leader, was born in London
 on the 27th of January 1850. He was put to work in a shoe-factory when
 ten years old, but soon became apprenticed to a cigar-maker, removed to
-New York in 1863, became a prominent member of the International
+New York in 1863, became a prominent member of the [[International]]
 Cigar-makers' Union, was its delegate at the convention of the
 Federation of Organized Trade and Labor Unions of the United States and
 Canada, later known as the American Federation of Labor, of which he

@@ -7,14 +7,14 @@ type: note
 
 # Costello
 
-COSTELLO, DUDLEY (1803-1865), English journalist and novelist, son of
+COSTELLO, [[Dudley|DUDLEY]] (1803-1865), English journalist and novelist, son of
 Colonel J. F. Costello, was born in Ireland in 1803. He was educated for
 the army at Sandhurst, and served for a short time in India, Canada and
 the West Indies. His literary and artistic tastes led him to quit the
 army in 1828, and he then passed some years in Paris. He was introduced
 to Baron Cuvier, who employed him as draughtsman in the preparation of
 his _Règne animal_. He next occupied himself in copying illuminated
-manuscripts in the Bibliothèque Royale; and to him and his sister
+[[Manuscript|manuscripts]] in the Bibliothèque Royale; and to him and his sister
 belongs the merit of being the first to draw general attention to this
 beautiful forgotten art, and of thus leading to its revival. About 1838
 Costello became foreign correspondent to the _Morning Herald_; in 1846
@@ -31,18 +31,18 @@ miniature painter, was born in Ireland in 1799. Her father died while
 she was young, and Louisa, who removed to Paris with her mother in 1814,
 helped to support her mother and brother by her skill as an artist. At
 the age of sixteen she published a volume of verse entitled _The Maid of
-the Cyprus Isle, and other poems_. This was followed in 1825 by _Songs
-of a Stranger_, dedicated to W. L. Bowles. Ten years later appeared her
+the [[Cyprus]] Isle, and other poems_. This was followed in 1825 by _Songs
+of a Stranger_, dedicated to W. L. [[Bowles]]. Ten years later appeared her
 _Specimens of the Early Poetry of France_, illustrated by beautifully
 executed illuminations, the work of her brother and herself. It was
 dedicated to Moore, and procured her his friendship as well as that of
-Sir Walter Scott. Her principal works are--_A Summer among the Bocages
+Sir Walter Scott. Her principal works are--_A Summer among the [[Bocage|Bocages]]
 and Vines_ (1840); _The Queen's Poisoner_ (or _The Queen-Mother_), a
 historical romance (1841); _Béarn and the Pyrenees_ (1844); _Memoirs of
 Eminent Englishwomen_ (1844); _The Rose Garden of Persia_ (1845), a
 series of translations from Persian poets, with illuminations by herself
 and her brother; _The Falls, Lakes and Mountains of North Wales_ (1845);
-_Clara Fane_ (1848), a novel; _Memoirs of Mary of Burgundy_ (1853); and
+_[[Clara]] Fane_ (1848), a novel; _Memoirs of Mary of Burgundy_ (1853); and
 _Memoirs of Anne of Brittany_ (1855). She died at Boulogne on the 24th
 of April 1870.
 

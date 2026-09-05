@@ -13,12 +13,12 @@ deg. 50' S. 39 deg. 20' E., capital of German East Africa. Pop. (1909)
 estimated at 24,000, including some 500 Europeans. The entrance to the
 harbor, which is perfectly sheltered (hence its name), is through a
 narrow opening in the palm-covered shore. The harbour is provided with a
-floating dock, completed in 1902. The town is built on the northern
+floating [[Dock|dock]], completed in 1902. The town is built on the northern
 sweep of the harbour and is European in character. The streets are wide
 and regularly laid out. The public buildings, which are large and
 handsome, include the government and customs offices on the quay
 opposite the spot where the mail boats anchor, the governor's house,
-state hospital, post office, and the Boma or barracks. Adjoining the
+state hospital, post office, and the Boma or [[Barracks|barracks]]. Adjoining the
 governor's residence are the botanical gardens, where many European
 plants are tested with a view to acclimatization. There are various
 churches, and government and mission schools. In the town are the head
@@ -42,7 +42,7 @@ railway to Mrogoro, and is connected by overland telegraph via Ujiji
 with South Africa. A submarine cable connects the town with Zanzibar.
 Dar-es-Salaam was laid out by the Germans on an ambitious scale in the
 expectation that it would prove an important centre of commerce, but
-trade developed very slowly. Ivory, rubber and copal are the chief
+trade developed very slowly. [[Ivory]], rubber and copal are the chief
 exports. The trade returns are included in those of German East Africa
 (q.v.).
 

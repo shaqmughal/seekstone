@@ -1,10 +1,10 @@
 # Haberdasher
 
 HABERDASHER, a name for a tradesman who sells by retail small articles
-used in the making or wearing of dress, such as sewing cottons or silks,
+used in the making or wearing of [[Dress|dress]], such as sewing cottons or silks,
 tapes, buttons, pins and needles and the like. The sale of such articles
 is not generally carried on alone, and a "haberdashery counter" usually
-forms a department of drapers' shops. The word, found in Chaucer, and
+forms a department of drapers' shops. The word, found in [[Chaucer]], and
 even earlier (1311), is of obscure origin; the suggestion that it is
 connected with an Icelandic _haprtask_, "haversack," is, according to
 the _New English Dictionary_, impossible. _Haperlas_ occurs in an early
@@ -15,12 +15,12 @@ such as that of Minsheu that "haberdasher" was perhaps merely a
 corruption of the German _Habt ihr das?_ "Have you that?" or _Habe das,
 Herr_, "Have that, sir," used descriptively for a general dealer in
 miscellaneous wares. The Haberdashers' Company is one of the greater
-Livery Companies of the City of London. Originally a branch of the
+[[Livery Companies]] of the City of London. Originally a branch of the
 mercers, the fraternity took over the selling of "small wares," which
 included not only articles similar to those sold as "haberdashery" now,
-but such things as gloves, daggers, glass, pens, lanterns, mousetraps
+but such things as [[Glove|gloves]], [[Dagger|daggers]], glass, pens, [[Lantern|lanterns]], mousetraps
 and the like. They were thus on this side connected with the Milliners.
-On the other hand there was early a fusion with the old gild of the
+On the other hand there was early a [[Fusion|fusion]] with the old gild of the
 "Hurers," or cap makers, and the hatters, and by the reign of Henry VII.
 the amalgamation was complete. There were long recognized two branches
 of the haberdashers, the haberdashers of "small wares," and the

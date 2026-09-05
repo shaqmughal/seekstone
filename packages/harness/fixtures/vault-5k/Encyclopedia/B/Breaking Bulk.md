@@ -1,15 +1,15 @@
 # Breaking Bulk
 
 BREAKING BULK, a nautical term for the taking out of a portion of the
-cargo of a ship, or the beginning to unload; and used in a legal sense
+[[Cargo|cargo]] of a ship, or the beginning to unload; and used in a legal sense
 for taking anything out of a package or parcel, or in any way destroying
 its entirety. It was thus important in connexion with the subject of
 bailment, involving as it did the curious distinction that where a
 bailee received possession of goods in a box or package, and then sold
-them as a whole, he was guilty only of a breach of trust, but if he
+them as a whole, he was guilty only of a [[Breach|breach]] of trust, but if he
 "broke bulk" or caused a separation of the goods, and sold a part or
 all, he was guilty of felony. This distinction was abolished by the
-Larceny Act 1861, which enacted that whoever, being a bailee of any
+[[Larceny]] Act 1861, which enacted that whoever, being a bailee of any
 chattel, money or valuable security, should fraudulently take or convert
 the same to his own use, or the use of any person other than the owner,
 although he should not break bulk or otherwise determine the bailment,
@@ -31,12 +31,12 @@ which they are exposed. It is therefore essential, before constructing a
 breakwater, to investigate most carefully the force, periods and
 duration of the winds from the quarters to which the work will be
 exposed, the distance of any sheltering land from the site in the most
-stormy direction, the slope of the beach and the depth of the sea in the
+stormy direction, the slope of the [[Beach|beach]] and the depth of the sea in the
 neighbourhood of the shore, and the protection, if any, afforded by
 outlying shoals or sandbanks. In a tidal sea, the height required for a
 breakwater is affected by the amount of tidal range; and the extent of
 breakwater exposed to breaking waves depends upon the difference in
-level between low and high water. The existence, also, of any drift of
+level between low and high water. The existence, also, of any [[Drift|drift]] of
 sand or shingle along the shore must be ascertained, and its extent; for
 the projection of a solid breakwater out from the shore is certain to
 affect this littoral drift, which, if large in amount, may necessitate
@@ -80,9 +80,9 @@ are raised; though in certain seas they are occasionally greatly
 increased by the exceptional velocities attained by hurricanes and
 typhoons, which, however, are fortunately restricted to fairly well
 defined and limited regions. Waves have been found to attain a maximum
-height of about 10 ft. in the Lake of Geneva, 17 ft. in the
+height of about 10 ft. in the Lake of [[Geneva]], 17 ft. in the
 Mediterranean Sea, 23 ft. in the Bay of Biscay, and 40 ft. in the
-Atlantic Ocean; whilst waves of 50 to 60 ft. in height have been
+[[Atlantic Ocean]]; whilst waves of 50 to 60 ft. in height have been
 observed in the Pacific Ocean off the Cape of Good Hope, where the
 expanse of sea reaches a maximum, and the exposure to gales is complete.
 The length of large waves bears no definite relation to their height,
@@ -96,7 +96,7 @@ as of common occurrence in the Pacific Ocean during storms.
 The rate of transmission of the undulation also varies with the
 exposure; for the ordinary velocity of the apparent travel of waves in
 storms has been found to amount to about 22 m. an hour in the Atlantic
-Ocean, and to attain about 27 m. an hour off Cape Horn. The large waves,
+Ocean, and to attain about 27 m. an hour off Cape [[Horn]]. The large waves,
 however, observed in mid-ocean do not reach the coast, because their
 progress is checked, and their height and length reduced, by
 encountering the shelving sea-bottom, which diminishes the depth of
@@ -107,10 +107,10 @@ in which the breakwater is situated. On the other hand, the height, and,
 consequently, the destructive force of waves, is increased on running up
 a funnel-shaped bay, by the increasing concentration of the waves in the
 narrowing width, just as the tidal range of a moderate tidal current is
-much augmented by its passage up the Bay of Fundy, or up the Bristol
+much augmented by its passage up the Bay of Fundy, or up the [[Bristol]]
 Channel into the Severn estuary, or by filling the shallow enclosed bay
 of St Malo. This effect is intensified when the bay faces the direction
-of the strongest winds. Thus at Wick a mass of masonry weighing 1350
+of the strongest winds. Thus at Wick a mass of [[Masonry|masonry]] weighing 1350
 tons, placed at the head of the breakwater projecting half-way across
 the bay and facing the entrance, was moved by the waves during a violent
 storm; and a portion of Peterhead breakwater, weighing 3300 tons, was
@@ -223,7 +223,7 @@ depth into which the breakwater has to be carried.
   furnish a very convenient substitute. These blocks are generally
   deposited as the outer covering on the top and sea slope of a rubble
   mound, as for example at the mound breakwaters in deep water
-  sheltering Algiers harbour, and at the French parts of Cette and Bona
+  sheltering Algiers harbour, and at the French parts of Cette and [[Bona]]
   on the Mediterranean; whilst they furnish the protection of the top
   and upper part of the sea slope of the rubble-mound extension of
   Marseilles breakwater down to 20 ft. below sea-level. At Alexandria,
@@ -359,7 +359,7 @@ depth into which the breakwater has to be carried.
   from displacement by the waves. In fact, the solidity and facility of
   construction of the superstructure were the primary considerations in
   the older form of breakwater; whereas the stability of the mound and
-  the avoidance of the undermining of the superstructure have been
+  the [[Avoidance|avoidance]] of the undermining of the superstructure have been
   regarded as the most important provisions in the more modern form.
 
 
@@ -377,7 +377,7 @@ depth into which the breakwater has to be carried.
 
   The long, detached breakwater sheltering the series of basins formed
   by wide projecting jetties along the sea coast at Marseilles (see
-  DOCK), is a typical instance of a breakwater where a quay has been
+  [[Dock|DOCK]]), is a typical instance of a breakwater where a quay has been
   formed on the top of a sorted rubble mound, sheltered on the sea side
   by a high wall, or narrow superstructure, founded at sea-level, and
   protected on the sea slope of the mound from undermining by large
@@ -428,7 +428,7 @@ depth into which the breakwater has to be carried.
 
   [Illustration: FIG. 6.--San Vincenzo Breakwater, Naples.]
 
-  The breakwaters in front of Havre, constructed in 1896-1907, for
+  The breakwaters in front of [[Havre]], constructed in 1896-1907, for
   sheltering the altered entrance to the port, were formed of a sorted
   rubble mound, protected on the sea slope by concrete blocks, and
   raised a little above low water of spring tides, upon which large
@@ -463,7 +463,7 @@ depth into which the breakwater has to be carried.
   Pedro in California with satisfactory results. When, however, a
   breakwater of the Delaware type was in progress for forming a harbour
   of refuge in Sandy Bay, Massachusetts, in front of Rockport to the
-  north of Boston, the upper 13 ft. of the 600 ft. of completed
+  north of [[Boston]], the upper 13 ft. of the 600 ft. of completed
   superstructure were carried away during a severe storm in 1898 leaving
   only a portion about 5 ft. in height above low water, the average rise
   of tide there being 8-3/5 ft. The design was, accordingly, modified in
@@ -538,7 +538,7 @@ depth into which the breakwater has to be carried.
 
   The breakwater for sheltering Peterhead Bay, where the rise of springs
   is 11-1/4 ft., was begun in 1888, and designed to extend into a depth
-  of 9-1/2 fathoms at low water (see HARBOUR). It was built as an
+  of 9-1/2 [[Fathom|fathoms]] at low water (see HARBOUR). It was built as an
   upright wall upon the rocky bottom for 1000 ft. from the shore; but
   owing to the increase in depth it was decided to construct the outer
   portion with a rubble base, surmounted by a superstructure originally
@@ -591,7 +591,7 @@ depth into which the breakwater has to be carried.
   stepped-forward courses, irregular settlement is particularly liable
   to occur, as the weight is progressively imposed in an uneven manner
   on the yielding rubble, in proportion to the height of the rubble base
-  and its deficiency in compactness. The open joints between the blocks
+  and its deficiency in compactness. The open [[Joints|joints]] between the blocks
   laid below low water enable the air to penetrate, on the recoil of the
   waves at low tide, into any internal fissures resulting from
   settlement; and the following wave, on striking the superstructure,
@@ -762,7 +762,7 @@ depth into which the breakwater has to be carried.
   With the exception perhaps of the Alderney breakwater, which, owing to
   its exceptional exposure and the unparalleled depth into which it
   extended, had its superstructure so often breached by the sea that,
-  owing to the cost of maintenance, the inner portion only has been kept
+  owing to the cost of [[Maintenance|maintenance]], the inner portion only has been kept
   in repair, the composite breakwater of Bilbao harbour has probably
   proved the most difficult to construct on account of its great
   exposure. The original design consisted of a wide rubble mound up to
@@ -810,7 +810,7 @@ depth into which the breakwater has to be carried.
   of a solid structure founded directly on the sea-bottom, in the form
   of an upright wall, with only a moderate batter on each face. This
   form of breakwater is strictly limited to sites where the bed of the
-  sea consists of rock, chalk, boulders, or other hard bottom not
+  sea consists of rock, chalk, [[Boulder|boulders]], or other hard bottom not
   subject to erosion by scour, and where the depth does not exceed about
   40 to 50 ft. If a solid breakwater were erected on a soft yielding
   bottom, it would be exposed to dislocation from irregular settlement;
@@ -823,7 +823,7 @@ depth into which the breakwater has to be carried.
   into a considerable depth is undesirable on account of the increased
   pressure imposed upon diving operations.
 
-  The Admiralty pier at Dover was begun about the middle of the 19th
+  The Admiralty pier at [[Dover]] was begun about the middle of the 19th
   century, and furnishes an early and notable example of an upright-wall
   breakwater resting upon a hard chalk bottom; and it was subsequently
   extended to a depth of about 42 ft. at low tide, in connexion with
@@ -844,7 +844,7 @@ depth into which the breakwater has to be carried.
   travelling cranes running on temporary staging supported at intervals
   of 50-1/4 ft. by clusters of iron piles carried down into the chalk
   bottom. On each line of staging there were four Goliaths, preceded by
-  a stage-erecting machine. The front Goliath was used for working a
+  a stage-erecting [[Machine|machine]]. The front Goliath was used for working a
   grab for excavating the surface layer of chalk, which was finally
   levelled by divers, the second for carrying the diving-bell, the third
   for laying the blocks below low water, and the fourth for setting the
@@ -856,7 +856,7 @@ depth into which the breakwater has to be carried.
   53 ft. below low water of spring tides, and the average 47 ft. With a
   rise of tide at springs of 18-3/4 ft., the average depth is thus
   approximately 66 ft. at high tide, necessitating a pressure of 29 lb.
-  on the square inch, which is the limit at which men can work without
+  on the square [[Inch|inch]], which is the limit at which men can work without
   inconvenience in the diving-bells. The breakwaters are raised about 11
   ft. above high water of springs. The detached southern breakwater was
   finished off at this level; but the extended western breakwater, or

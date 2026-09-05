@@ -14,10 +14,10 @@ chiefly by Mongols, and also by Kirghiz and a few Soyotes, Uryankhes and
 Khotons. It is governed by a Chinese commissioner, who has under him a
 special Mongol functionary (Mongol, _dzurgan_). The chief monastery is
 at Ulangom. Considerable numbers of sheep (about 1,000,000), sheepskins,
-sheep and camel wool are exported to China, while Chinese cottons, brick
+sheep and camel wool are exported to China, while Chinese cottons, [[Brick|brick]]
 tea and various small goods are imported. Leather, velveteen, cotton,
-iron and copper goods boxes, &c., are imported from Russia in exchange
-for cattle, furs and wool. The absence of a cart road to Biysk hinders
+iron and copper goods [[Box|boxes]], &c., are imported from Russia in [[Exchange|exchange]]
+for cattle, [[Fur|furs]] and wool. The absence of a [[Cart|cart]] road to Biysk hinders
 the development of this trade.
 
 ## References

@@ -22,7 +22,7 @@ system of observing, remembering and noting, sometimes even a month
 later, scenes and momentary actions from nature. In this way he, by
 degrees, transferred from the shop window to his paper at home the chief
 figures from David's picture of Napoleon crossing the Alps, which, by
-particular request, he copied in bright colours as a frontispiece to a
+particular request, he copied in bright [[Colours|colours]] as a frontispiece to a
 little schoolfellow's new prayer-book, for sixpence. At fourteen years
 of age Gibson was apprenticed to a firm of cabinetmakers,--portrait and
 miniature painters in Liverpool requiring a premium which his father
@@ -50,7 +50,7 @@ museum. Roscoe opened to the sculptor the treasures of his library at
 Allerton, by which he became acquainted with the designs of the great
 Italian masters.
 
-A cartoon of the Fall of the Angels marked this period,--now also in the
+A [[Cartoon|cartoon]] of the Fall of the Angels marked this period,--now also in the
 Liverpool museum. We must pass over his studies in anatomy, pursued
 gratuitously by the kindness of a medical man, and his introductions to
 families of refinement and culture in Liverpool. Roscoe was an excellent
@@ -58,18 +58,18 @@ guide to the young aspirant, pointing to the Greeks as the only examples
 for a sculptor. Gibson here found his true vocation. A basso rilievo of
 Psyche carried by the Zephyrs was the result. He sent it to the Royal
 Academy, where Flaxman, recognizing its merits, gave it an excellent
-place. Again he became unsettled. The ardent young breast panted for
+place. Again he became unsettled. The ardent young [[Breast|breast]] panted for
 "the great university of Art"--Rome; and the first step to the desired
 goal was to London. Here he stood between the opposite advice and
 influence of Flaxman and Chantrey--the one urging him to Rome as the
 highest school of sculpture in the world, the other maintaining that
 London could do as much for him. It is not difficult to guess which was
 Gibson's choice. He arrived in Rome in October 1817, at a comparatively
-late age for a first visit. There he immediately experienced the charm
-and goodness of the true Italian character in the person of Canova, to
+late age for a first visit. There he immediately experienced the [[Charm|charm]]
+and goodness of the true Italian character in the person of [[Canova]], to
 whom he had introductions,--the Venetian putting not only his experience
 in art but his purse at the English student's service. Up to this time,
-though his designs show a fire and power of imagination in which no
+though his designs show a fire and power of [[Imagination|imagination]] in which no
 teaching is missed, Gibson had had no instruction, and had studied at no
 Academy. In Rome he first became acquainted with rules and
 technicalities, in which the merest tyro was before him. Canova
@@ -84,7 +84,7 @@ by Canova, made their way to his studio in the Via Fontanella. His aim,
 from the first day that he felt the power of the antique, was purity of
 character and beauty of form. He very seldom declined into the
 prettiness of Canova, and if he did not often approach the masculine
-strength which redeems the faults of Thorwaldsen, he more than once
+strength which redeems the [[Fault|faults]] of Thorwaldsen, he more than once
 surpassed him even in that quality. We allude specially to his "Hunter
 and Dog," and to the grand promise of his "Theseus and Robber," which
 take rank as the highest productions of modern sculpture. He was
@@ -110,7 +110,7 @@ by Justice and Clemency, in the Houses of Parliament--was his finest
 work in the round. Of noble character also in execution and expression
 of thought is the statue of Huskisson with the bared arm; and no less,
 in effect of aristocratic ease and refinement, the seated figure of
-Dudley North. But great as he was in the round, Gibson's chief
+[[Dudley]] North. But great as he was in the round, Gibson's chief
 excellence lay in basso rilievo, and in this less-disputed sphere he
 obtained his greatest triumphs. His thorough knowledge of the horse, and
 his constant study of the Elgin marbles--casts of which are in
@@ -119,7 +119,7 @@ which belong to Lord Fitzwilliam--the "Hours leading the Horses of the
 Sun," and "Phaethon driving the Chariot of the Sun." Most of his
 monumental works are also in basso rilievo. Some of these are of a truly
 refined and pathetic character, such as the monument to the countess of
-Leicester, that to his friend Mrs Huskisson in Chichester cathedral, and
+Leicester, that to his friend Mrs Huskisson in [[Chichester]] cathedral, and
 that of the Bonomi children. Passion, either indulged or repressed, was
 the natural impulse of his art: repressed as in the "Hours leading the
 Horses of the Sun," and as in the "Hunter and Dog"; indulged as in the
@@ -141,7 +141,7 @@ the beautiful, and a certain philosophy of mind, he may be accepted as a
 type of what a pure-minded Greek pagan, in the zenith of Greek art, may
 have been. Gibson was elected R.A. in 1836, and bequeathed all his
 property and the contents of his studio to the Royal Academy, where his
-marbles and casts are open to the public. He died at Rome on the 27th of
+[[Marbles|marbles]] and casts are open to the public. He died at Rome on the 27th of
 January 1866.
 
   The letters between Gibson and Mrs Henry Sandbach, granddaughter of Mr

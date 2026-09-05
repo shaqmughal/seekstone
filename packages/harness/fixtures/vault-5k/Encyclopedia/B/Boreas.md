@@ -8,19 +8,19 @@ type: note
 # Boreas
 
 BOREAS, in Greek mythology, a personification of the north wind. He was
-described as the son of Astraeus and Eos, brother of Hesperus, Notus and
+described as the son of Astraeus and Eos, brother of [[Hesperus]], Notus and
 Zephyrus. His dwelling-place was on Mount Haemus in Thrace, or at
-Salmydessus, near the country of the Hyperboreans. He was said to have
+Salmydessus, near the country of the [[Hyperboreans]]. He was said to have
 carried off the beautiful Oreithyia, a daughter of Erechtheus, king of
 Athens, when he found her leading the dance at a festival, or gathering
 flowers on the banks of the Ilissus or some other spot in the
 neighbourhood of Athens. He had before wooed her in vain, and now
 carried her off to Mount Haemus, where they lived as king and queen of
 the winds, and had two sons, Zetes and Calais, and two daughters,
-Cleopatra and Chione (Apollodorus iii. 15; Ovid, _Metam._ vi. 677). For
+Cleopatra and Chione ([[Apollodorus]] iii. 15; Ovid, _Metam._ vi. 677). For
 the loss of Oreithyia the Athenians in after times counted on Boreas's
 friendliness, and were assured of it when he sent storms which wrecked
-the Persian fleet at Athos and at Sepias (Herodotus vii. 189). For this
+the Persian fleet at [[Athos]] and at Sepias (Herodotus vii. 189). For this
 they erected to him a sanctuary or altar near the Ilissus, and held a
 festival (Boreasmos) in his honour. Thurii also, which was a colony of
 Athens, offered sacrifice to him as Euergetes every year, because he had

@@ -14,13 +14,13 @@ career was rather that of a civil servant than of a party politician. In
 1879 he entered the ministry of foreign affairs as a secretary, and rose
 step by step through the diplomatic service. In 1886 he was elected
 deputy for Aisne, but, defeated in 1889, he returned to his diplomatic
-career, and on the 31st of May 1894 was chosen by Charles Dupuy to be
+career, and on the 31st of May 1894 was chosen by Charles [[Dupuy]] to be
 minister of foreign affairs. With one interruption (during the Ribot
 ministry, from the 26th of January to the 2nd of November 1895) he held
 this portfolio until the 14th of June 1898. During his ministry he
 developed the _rapprochement_ of France with Russia--visiting St
 Petersburg with the president, Felix Faure--and sent expeditions to
-delimit the French colonies in Africa. The Fashoda incident of July 1898
+delimit the French colonies in Africa. The [[Fashoda]] incident of July 1898
 was a result of this policy, and Hanotaux's distrust of England is
 frankly stated in his literary works. As an historian he published
 _Origines de l'institution des intendants de provinces_ (1884), which is

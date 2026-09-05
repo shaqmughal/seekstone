@@ -8,10 +8,10 @@ type: reference
 # Le Puy
 
 LE PUY, or LE PUY EN VELAY, a town of south-eastern France, capital of
-the department of Haute-Loire, 90 m. S.W. of Lyons on the Paris-Lyon
-railway. Pop. (1906) town, 17,291; commune, 21,420. Le Puy rises in the
+the department of Haute-Loire, 90 m. S.W. of [[Lyons]] on the Paris-Lyon
+railway. Pop. (1906) town, 17,291; [[Commune|commune]], 21,420. Le Puy rises in the
 form of an amphitheatre from a height of 2050 ft. above sea-level upon
-Mont Anis, a hill that divides the left bank of the Dolézon from the
+Mont [[Ani|Anis]], a hill that divides the left bank of the [[Dol]]ézon from the
 right bank of the Borne (a rapid stream joining the Loire 3 m. below).
 From the new town, which lies east and west in the valley of the
 Dolézon, the traveller ascends the old feudal and ecclesiastical town
@@ -29,7 +29,7 @@ region one of the most interesting parts of France.
 The Romanesque cathedral (Notre-Dame), dating chiefly from the first
 half of the 12th century, has a particoloured façade of white sandstone
 and black volcanic breccia, which is reached by a flight of sixty steps,
-and consists of three tiers, the lowest composed of three high arcades
+and consists of three tiers, the lowest composed of three high [[Arcade|arcades]]
 opening into the porch, which extends beneath the first bays of the
 nave; above are three windows lighting the nave; and these in turn are
 surmounted by three gables, two of which, those to the right and the
@@ -39,8 +39,8 @@ church. The doorway of the south transept is sheltered by a fine
 Romanesque porch. The isolated bell-tower (184 ft.), which rises behind
 the choir in seven storeys, is one of the most beautiful examples of the
 Romanesque transition period. The bays of the nave are covered in by
-octagonal cupolas, the central cupola forming a lantern. The choir and
-transepts are barrel-vaulted. Much veneration is paid to a small image
+octagonal [[Cupola|cupolas]], the central cupola forming a lantern. The choir and
+transepts are barrel-vaulted. Much veneration is paid to a small [[Image|image]]
 of the Virgin on the high altar, a modern copy of the medieval image
 destroyed at the Revolution. The cloister, to the north of the choir, is
 striking, owing to its variously-coloured materials and elegant shafts.
@@ -51,7 +51,7 @@ it was separated from the rest of the city. Near the cathedral the
 baptistery of St John (11th century), built on the foundations of a
 Roman building, is surrounded by walls and numerous remains of the
 period, partly uncovered by excavations. The church of St Lawrence (14th
-century) contains the tomb and statue of Bertrand du Guesclin, whose
+century) contains the tomb and statue of [[Bertrand]] [[Du Guesclin|du Guesclin]], whose
 ashes were afterwards carried to St Denis.
 
 Le Puy possesses fragmentary remains of its old line of fortifications,
@@ -59,7 +59,7 @@ among them a machicolated tower, which has been restored, and a few
 curious old houses dating from the 12th to the 17th century. In front of
 the hospital there is a fine medieval porch under which a street passes.
 Of the modern monuments the statue of Marie Joseph Paul, marquis of La
-Fayette, and a fountain in the Place de Breuil, executed in marble,
+Fayette, and a [[Fountain|fountain]] in the Place de Breuil, executed in marble,
 bronze and syenite, may be specially mentioned. The museum, named after
 Charles Crozatier, a native sculptor and metal-worker to whose
 munificence it principally owes its existence, contains antiquities,
@@ -68,16 +68,16 @@ collections. Among the curiosities of Le Puy should be noted the church
 of St Michel d'Aiguilhe, beside the gate of the town, perched on an
 isolated rock like Mont Corneille, the top of which is reached by a
 staircase of 271 steps. The church dates from the end of the 10th
-century and its chancel is still older. The steeple is of the same type
+century and its [[Chancel|chancel]] is still older. The steeple is of the same type
 as that of the cathedral. Three miles from Le Puy are the ruins of the
 Château de Polignac, one of the most important feudal strongholds of
 France.
 
-Le Puy is the seat of a bishopric, a prefect and a court of assizes, and
+Le Puy is the seat of a bishopric, a prefect and a court of [[Assize|assizes]], and
 has tribunals of first instance and of commerce, a board of trade
 arbitration, a chamber of commerce, and a branch of the Bank of France.
 Its educational institutions include ecclesiastical seminaries, lycées
-and training colleges for both sexes and municipal industrial schools of
+and training colleges for both sexes and municipal [[Industrial School|industrial schools]] of
 drawing, architecture and mathematics applied to arts and industries.
 The principal manufacture is that of lace and guipure (in woollen,
 linen, cotton, silk and gold and silver threads), and distilling,
@@ -103,7 +103,7 @@ articles of trade.
   of the town. The Saracens in the 8th century, the Routiers in the
   12th, the English in the 14th, the Burgundians in the 15th,
   successively ravaged the neighbourhood. Le Puy sent the flower of its
-  chivalry to the Crusades in 1096, and Raymond d'Aiguille, called
+  [[Chivalry|chivalry]] to the [[Crusades]] in 1096, and Raymond d'Aiguille, called
   d'Agiles, one of its sons, was their historian. Many councils and
   various assemblies of the states of Languedoc met within its walls;
   popes and sovereigns, among the latter Charlemagne and Francis I.,

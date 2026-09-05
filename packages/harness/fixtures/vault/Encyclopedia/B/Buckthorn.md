@@ -21,7 +21,7 @@ strong purgative properties, and the bark yields a yellow dye.
 An allied species, _Rhamnus Frangula_, is also common in England, and is
 known as berry-bearing or black alder. It is distinguished from buckthorn
 by the absence of spiny branchlets, its non-serrated leaves, and bisexual
-flowers with parts in fives. The fruits are purgative and yield a green dye
+flowers with parts in [[Fives|fives]]. The fruits are purgative and yield a green dye
 when unripe. The soft porous wood, called black dogwood, is used for
 gunpowder. Dyes are obtained from fruits and bark of other species of
 _Rhamnus_, such as _R. infectoria_, _R. tinctoria_ and _R. davurica_--the
@@ -30,7 +30,7 @@ Alaternus_, a Mediterranean species, are grown in shrubberies.
 
 Sea-buckthorn is _Hippophae rhamnoides_, a willow-like shrub, 1 to 8 ft. in
 height, with narrow leaves silvery on the underside, and globose
-orange-yellow fruits one-third of an inch in diameter. It occurs on sandy
+orange-yellow fruits one-third of an [[Inch|inch]] in diameter. It occurs on sandy
 seashores from York to Kent and Sussex, but is not common.
 
 American buckthorns are: _Rhamnus purshiana_ or _Cascara sagrada_, of the

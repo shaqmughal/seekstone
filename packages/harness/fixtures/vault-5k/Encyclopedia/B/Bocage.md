@@ -1,6 +1,6 @@
 # Bocage
 
-BOCAGE, MANUEL MARIA BARBOSA DE (1765-1805), Portuguese poet, was a
+BOCAGE, [[Manuel|MANUEL]] MARIA BARBOSA DE (1765-1805), Portuguese poet, was a
 native of Setubal. His father had held important judicial and
 administrative appointments, and his mother, from whom he took his last
 surname, was the daughter of a Portuguese vice-admiral of French birth
@@ -9,11 +9,11 @@ infancy, and being somewhat of a prodigy grew up to be flattered,
 self-conscious and unstable. At the age of fourteen, he suddenly left
 school and joined the 7th infantry regiment; but tiring of garrison life
 at Setubal after two years, he decided to enter the navy. He proceeded
-to the royal marine academy in Lisbon, but instead of studying he
+to the royal marine academy in [[Lisbon]], but instead of studying he
 pursued love adventures, and for the next five years burnt incense on
 many altars, while his retentive memory and extraordinary talent for
 improvisation gained him a host of admirers and turned his head. The
-Brazilian _modinhas_, little rhymed poems sung to a guitar at family
+Brazilian _modinhas_, little rhymed poems sung to a [[Guitar|guitar]] at family
 parties, were then in great vogue, and Bocage added to his fame by
 writing a number of these, by his skill in extemporizing verses on a
 given theme, and by allegorical idyllic pieces, the subjects of which
@@ -30,11 +30,11 @@ Affonso de Albuquerque and D. Joao de Castro. The irritation caused by
 these satires, together with rivalries in love affairs, made it
 advisable for him to leave Goa, and early in 1789 he obtained the post
 of lieutenant of the infantry company at Damaun; but he promptly
-deserted and made his way to Macao, where he arrived in July-August.
+deserted and made his way to [[Macao]], where he arrived in July-August.
 According to a modern tradition much of the _Lusiads_ had been written
 there, and Bocage probably travelled to China under the influence of
 Camoens, to whose life and misfortunes he loved to compare his own.
-Though he escaped the penalty of his desertion, he had no resources and
+Though he escaped the penalty of his [[Desertion|desertion]], he had no resources and
 lived on friends, whose help enabled him to return to Lisbon in the
 middle of the following year.
 
@@ -54,7 +54,7 @@ produced little of real merit, and before long its adherents became
 enemies and descended to an angry warfare of words. But Bocage's
 reputation among the general public and with foreign travellers grew
 year by year. Beckford, the author of _Vathek_, for instance, describes
-him as "a pale, limber, odd-looking young man, the queerest but perhaps
+him as "a pale, [[Limber|limber]], odd-looking young man, the queerest but perhaps
 the most original of God's poetical creatures. This strange and
 versatile character may be said to possess the true wand of enchantment
 which at the will of its master either animates or petrifies." In 1797
@@ -68,13 +68,13 @@ transfer in November from the state prison to that of the Inquisition,
 then a mild tribunal, and shortly afterwards recovered his liberty. He
 returned to his bohemian life and subsisted by writing empty _Elogios
 Dramaticos_ for the theatres, printing volumes of verses and translating
-the didactic poems of Delille, Castel and others, some second-rate
+the didactic poems of [[Delille]], Castel and others, some second-rate
 French plays and Ovid's _Metamorphoses_. These resources and the help of
 brother Freemasons just enabled him to exist, and a purifying influence
 came into his life in the shape of a real affection for the two
-beautiful daughters of D. Antonio Bersane Leite, which drew from him
+beautiful daughters of D. [[Antonio]] Bersane Leite, which drew from him
 verses of true feeling mixed with regrets for the past. He would have
-married the younger lady, D. Anna Perpetua (Analia), but excesses had
+married the younger lady, D. [[Anna]] Perpetua (Analia), but excesses had
 ruined his health. In 1801 his poetical rivalry with Macedo became more
 acute and personal, and ended by drawing from Bocage a stinging
 extempore poem, _Pena de Taliao_, which remains a monument to his powers
@@ -112,7 +112,7 @@ his death was kept there with much circumstance in 1905.
   Portuguez_, vol. vi. pp. 45-53, and vol. xvi. pp. 260-264; Dr T.
   Braga, _Bocage, sua vida e epoca litteraria_ (Oporto, 1902). A
   striking portrait of Bocage by H.J. da Silva was engraved by
-  Bartolozzi, who spent his last years in Lisbon.     (E. Pr.)
+  [[Bartolozzi]], who spent his last years in Lisbon.     (E. Pr.)
 
 ## References
 

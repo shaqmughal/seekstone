@@ -11,15 +11,15 @@ second son of Sir Richard Bray, one of the privy council of Henry VI.
 Reginald was born in the parish of St John Bedwardine, near Worcester,
 but the date of his birth is uncertain. He was receiver-general and
 steward of the household to Sir Henry Stafford, second husband of
-Margaret, countess of Richmond, whose son afterwards became King Henry
+[[Margaret]], countess of Richmond, whose son afterwards became King Henry
 VII. The accession of the king Henry VII. favoured the fortunes of
-Reginald Bray, who was created a knight of the Bath at the coronation
+Reginald Bray, who was created a [[Knight|knight]] of the Bath at the [[Coronation|coronation]]
 and afterwards a knight of the Garter. In the first year of Henry VII.'s
 reign he was given a grant of the constableship of Oakham Castle in
 Rutland, and was appointed joint chief justice with Lord Fitz Walter of
 all the forest south of Trent and chosen of the privy council.
 Subsequently he was made high treasurer and chancellor of the duchy of
-Lancaster. In October 1494 he became high steward of the university of
+[[Lancaster]]. In October 1494 he became high steward of the university of
 Oxford, and he was a member of the parliament summoned in the 11th year
 of Henry VII's reign. In June 1497 he was at the battle of Blackheath,
 and his services in repressing the Cornish rebels were rewarded with a

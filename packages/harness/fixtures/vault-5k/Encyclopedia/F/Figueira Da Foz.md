@@ -1,7 +1,7 @@
 # Figueira Da Foz
 
 FIGUEIRA DA FOZ, or FIGUEIRA, a seaport of central Portugal, in the
-district of Coimbra, formerly included in the province of Beira; on the
+district of Coimbra, formerly included in the province of [[Beira]]; on the
 north bank of the river Mondego, at its mouth, and at the terminus of
 the Lisbon-Figueira and Guarda-Figueira railways. Pop. (1900) 6221.
 Figueira da Foz is an important fishing-station, and one of the

@@ -17,12 +17,12 @@ language.
 
 
 KÖRMÖCZBÁNYA (German, _Kremnitz_), an old mining town, in the county of
-Bars, in Hungary, 158 m. N. of Budapest by rail. Pop. (1900), 4299. It
+Bars, in Hungary, 158 m. N. of [[Budapest]] by rail. Pop. (1900), 4299. It
 is situated in a deep valley in the Hungarian Ore Mountains region.
 Among its principal buildings are the castle, several Roman Catholic
 (from the 13th and 14th centuries) and Lutheran churches, a Franciscan
 monastery (founded 1634), the town-hall, and the mint where the
-celebrated Kremnitz gold ducats were formerly struck. The bulk of the
+celebrated Kremnitz gold [[Ducat|ducats]] were formerly struck. The bulk of the
 inhabitants find employment in connexion with the gold and silver mines.
 By means of a tunnel 9 m. in length, constructed in 1851-1852, the water
 is drained off from the mines into the river Gran. According to
@@ -34,11 +34,11 @@ in 1328, being therefore one of the oldest free towns in Hungary.
 
 
 KÖRNER, KARL THEODOR (1791-1813), German poet and patriot, often called
-the German "Tyrtaeus," was born at Dresden on the 23rd of September
+the German "Tyrtaeus," was born at [[Dresden]] on the 23rd of September
 1791. His father, Christian Gottfried Körner (1756-1831), a
 distinguished Saxon jurist, was Schiller's most intimate friend. He was
 educated at the Kreuzschule in Dresden and entered at the age of
-seventeen the mining academy at Freiburg in Saxony, where he remained
+seventeen the mining academy at [[Freiburg]] in Saxony, where he remained
 two years. Here he occupied himself less with science than with verse, a
 collection of which appeared under the title _Knospen_ in 1810. In this
 year he went to the university of Leipzig, in order to study law; but he
@@ -49,14 +49,14 @@ engaged to the actress Antonie Adamberger, and, after the success of
 several plays produced in 1812, he was appointed poet to the
 Hofburgtheater. When the German nation rose against the French yoke, in
 1813, Körner gave up all his prospects at Vienna and joined Lützow's
-famous corps of volunteers at Breslau. On his march to Leipzig he passed
+famous [[Corps|corps]] of volunteers at Breslau. On his march to Leipzig he passed
 through Dresden, where he issued his spirited _Aufruf an die Sachsen_,
 in which he called upon his countrymen to rise against their oppressors.
 He became lieutenant towards the end of April, and took part in a
 skirmish at Kitzen near Leipzig on the 7th of June, when he was severely
 wounded. After being nursed by friends at Leipzig and Carlsbad, he
 rejoined his corps and fell in an engagement outside a wood near
-Gadebusch in Mecklenburg on the 26th of August 1813. He was buried by
+Gadebusch in [[Mecklenburg]] on the 26th of August 1813. He was buried by
 his comrades under an oak close to the village of Wöbbelin, where there
 is a monument to him.
 

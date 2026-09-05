@@ -9,7 +9,7 @@ tags: [botany, biology]
 # Isoclinic Lines
 
 ISOCLINIC LINES (Gr. [Greek: isos], equal, and [Greek: klinein], to
-bend), lines connecting those parts of the earth's surface where the
+[[Bend|bend]]), lines connecting those parts of the earth's surface where the
 magnetic inclination is the same in amount. (See MAGNETISM,
 TERRESTRIAL.)
 

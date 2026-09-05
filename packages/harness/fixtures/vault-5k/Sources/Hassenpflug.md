@@ -1,8 +1,8 @@
 # Hassenpflug
 
-HASSENPFLUG, HANS DANIEL LUDWIG FRIEDRICH (1794-1862), German statesman,
-was born at Hanau in Hesse on the 26th of February 1794. He studied law
-at Gottingen, graduated in 1816, and took his seat as _Assessor_ in the
+HASSENPFLUG, HANS [[Daniel|DANIEL]] LUDWIG [[Friedrich|FRIEDRICH]] (1794-1862), German statesman,
+was born at Hanau in [[Hesse]] on the 26th of February 1794. He studied law
+at Gottingen, graduated in 1816, and took his seat as _[[Assessor]]_ in the
 judicial chamber of the board of government (_Regierungskollegium_) at
 Cassel, of which his father Johann Hassenpflug was also a member. In
 1821 he was nominated by the new elector, William II., _Justizrat_
@@ -27,7 +27,7 @@ attitude of overbearing independence towards his colleagues and even
 towards the elector. To such a man constitutional restrictions were
 intolerable, and from the moment he came into power he set to work to
 override them, by means of press censorship, legal quibbles,
-unjustifiable use of the electoral prerogatives, or frank supersession
+unjustifiable use of the electoral prerogatives, or [[Frank|frank]] supersession
 of the legislative rights of the Estates by electoral ordinances. The
 story of the constitutional deadlock that resulted belongs to the
 history of Hesse-Cassel and Germany; so far as Hassenpflug himself was
@@ -44,7 +44,7 @@ in the following year for that of civil governor of the grand-duchy of
 Luxemburg. Here, too, his independent character suffered him to remain
 only a year: he resented having to transact all business with the
 grand-duke (king of the Netherlands) through a Dutch official at the
-Hague; he protested against the absorption of the Luxemburg surplus in
+[[Hague]]; he protested against the absorption of the Luxemburg surplus in
 the Dutch treasury; and, failing to obtain redress, he resigned (1840).
 From 1841 to 1850 he was in Prussian service, first as a member of the
 supreme court of justice (_Obertribunal_) and then (1846) as president
@@ -62,7 +62,7 @@ Austria, which was steadily working for the restoration of the _status
 quo_ overthrown by the revolution of 1848. On his advice the elector
 seceded from the Northern Union established by Prussia and, on the 13th
 of September, committed the folly of flying secretly from Hesse with his
-minister. They went to Frankfort, where the federal diet had been
+minister. They went to [[Frankfort]], where the federal diet had been
 re-established, and on the 21st persuaded the diet to decree an armed
 intervention in Hesse. This decree, carried out by Austrian troops, all
 but led to war with Prussia, but the unreadiness of the Berlin
@@ -75,7 +75,7 @@ Isenburg-Wachtersbach, the elector's son-in-law. The count was
 pronounced insane; but Hassenpflug was conscious of the method in his
 madness, and tendered his resignation. This was, however, not accepted;
 and it was not till the 16th of October 1855 that he was finally
-relieved of his offices. He retired to Marburg, where he died on the
+relieved of his offices. He retired to [[Marburg]], where he died on the
 15th of October 1862. He lived just long enough to hear of the
 restoration of the Hesse constitution of 1831 (June 21, 1862), which it
 had been his life's mission to destroy. Of his publications the most

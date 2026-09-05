@@ -11,7 +11,7 @@ LIVERPOOL, a city, municipal, county and parliamentary borough, and
 seaport of Lancashire, England, 201 m. N.W. of London by rail, situated
 on the right bank of the estuary of the Mersey, the centre of the city
 being about 3 m. from the open sea. The form of the city is that of an
-irregular semicircle, having the base line formed by the docks and quays
+irregular semicircle, having the base line formed by the [[Dock|docks]] and quays
 extending about 9 m. along the east bank of the estuary, which here runs
 nearly north and south, and varies in breadth from 1 to 2 m. On the
 north the city is partly bounded by the borough of Bootle, along the
@@ -24,7 +24,7 @@ rateable value was £4,679,520.
 [Illustration: Liverpool Map.]
 
 The city lies on a continuous slope varying in gradient, but in some
-districts very steep. Exposed to the western sea breezes, with a dry
+districts very steep. Exposed to the western sea [[Breeze|breezes]], with a dry
 subsoil and excellent natural drainage, the site is naturally healthy.
 The old borough, lying between the pool, now completely obliterated, and
 the river, was a conglomeration of narrow alleys without any regard to
@@ -35,7 +35,7 @@ state of things began to exist. The older parts of the town have at
 successive periods been entirely taken down and renovated. The
 commercial part of the city is remarkable for the number of palatial
 piles of offices, built chiefly of stone, among which the banks and
-insurance offices stand pre-eminent. The demand for cottages about the
+[[Insurance|insurance]] offices stand pre-eminent. The demand for cottages about the
 beginning of the 19th century led to the construction of what are called
 "courts," being narrow _culs de sac_, close packed, with no through
 ventilation. This resulted in a high rate of mortality, to contend with
@@ -59,7 +59,7 @@ grounds of a private residence outside the city boundaries containing 94
 acres were acquired and are now known as Calderstones Park. In 1906
 about 100 acres of land in Roby, also outside the boundaries, was
 presented to the city. The total area of the parks and gardens of the
-city, not including the two last named, is 881½ acres. A boulevard about
+city, not including the two last named, is 881½ acres. A [[Boulevard|boulevard]] about
 1 m. in length, planted with trees in the centre, leads to the entrance
 of Prince's Park.
 
@@ -77,17 +77,17 @@ considerable alterations in the internal structure were made, and the
 council chamber extended so as to afford accommodation for the enlarged
 council. It contains a splendid suite of apartments, including a
 ball-room approached by a noble staircase. The building is occupied by
-the mayor as the municipal mansion house. A range of municipal offices
+the [[Mayor|mayor]] as the municipal mansion house. A range of municipal offices
 was erected in Dale Street in 1860. The building is in the Palladian
 style, with a dominating tower and square pyramidal spire.
 
 The crowning architectural feature of Liverpool is St George's Hall,
 completed in 1854. The original intention was to erect a hall suited for
 the triennial music festivals which had been held in the town. About the
-same time the corporation proposed to erect law-courts for the assizes,
+same time the corporation proposed to erect law-courts for the [[Assize|assizes]],
 which had been transferred to Liverpool and Manchester. In the
-competitive designs, the first prize was gained in both cases by Harvey
-Lonsdale Elmes. He was employed to combine the two objects in a new
+competitive designs, the first prize was gained in both cases by [[Harvey]]
+Lonsdale [[Elm|Elmes]]. He was employed to combine the two objects in a new
 design, of which the present building is the outcome. It is fortunate in
 its situation, occupying the most central position in the town, and
 surrounded by an area sufficiently extensive to exhibit its proportions,
@@ -95,22 +95,22 @@ an advantage which was accentuated in 1898 by the removal of St John's
 church, which previously prevented an uninterrupted view of the west
 side. The plan is simple. The centre is occupied by the great hall, 169
 ft. in length, and, with the galleries, 87 ft. wide and 74 ft. high,
-covered with a solid vault in masonry. Attached to each end, and opening
-therefrom, are the law-courts. A corridor runs round the hall and the
+covered with a solid vault in [[Masonry|masonry]]. Attached to each end, and opening
+therefrom, are the law-courts. A [[Corridor|corridor]] runs round the hall and the
 courts, communicating with the various accessory rooms. Externally the
 east front is faced with a fine portico of sixteen Corinthian columns
 about 60 ft. in height. An advanced portico of similar columns fronts
 the south end crowned with a pediment filled with sculpture. The style
 is Roman, but the refinement of the details is suggestive of the best
 period of Grecian art. The great hall is finished with polished granite
-columns, marble balustrades and pavements, polished brass doors with
+columns, [[Marble|marble]] balustrades and pavements, polished [[Brass|brass]] doors with
 foliated tracery. The fine organ was built by Messrs Willis of London,
 from the specification of Dr Samuel Wesley. Elmes having died in 1847
 during the progress of the work, the building was completed by C. R.
-Cockerell, R.A.
+[[Cockerell]], R.A.
 
 Next to the public buildings belonging to the city, the most important
-is the exchange, forming three sides of a quadrangle on the north side
+is the [[Exchange|exchange]], forming three sides of a quadrangle on the north side
 of the town-hall. The town-hall was originally built to combine a
 mercantile exchange with municipal offices, but the merchants preferred
 to meet in the open street adjoining. This, with other circumstances,
@@ -136,7 +136,7 @@ library and gallery of art are separate buildings, connected by the
 circular reading-room in the middle. The latter possesses some features
 in construction worthy of note, having a circular floor 100 ft. in
 diameter without columns or any intermediate support, and a lecture-room
-underneath, amphitheatrical in form, with grades or benches hewn out of
+underneath, amphitheatrical in form, with grades or [[Bench|benches]] hewn out of
 the solid rock. In 1884 the county sessions house just mentioned,
 adjoining the art gallery was opened for public business. In 1899 new
 post-office buildings in Victoria Street were completed. In 1907 two
@@ -153,7 +153,7 @@ country, from designs by G. F. Bodley and G. Gilbert Scott, was begun in
 foundations were completed in 1906 and the superstructure begun. The
 foundation of the chapter-house was laid in that year by the duke of
 Connaught, and work was then begun on the Lady chapel, the vestries and
-the choir.
+the [[Choir|choir]].
 
   _Railways._--There are three terminal passenger stations in Liverpool,
   the London & North Western at Lime Street, the Lancashire & Yorkshire
@@ -162,7 +162,7 @@ the choir.
   connexion is made with the Wirral railway, the Great Central, the
   Great Western and the London & North Western, on the Cheshire side of
   the river. The Liverpool electric overhead railway running along the
-  line of docks from Seaforth to Dingle was opened in 1893, and in 1905
+  line of docks from Seaforth to [[Dingle]] was opened in 1893, and in 1905
   a junction was made with the Lancashire and Yorkshire railway by which
   through passenger traffic between Southport and the Dingle has been
   established. In 1895 the Riverside station at the Prince's dock was
@@ -193,26 +193,26 @@ the choir.
   _Administration of Justice._--The city has quarter-sessions for
   criminal cases, presided over by the recorder, and held eight times in
   the year. At least two police courts sit daily, and more if required.
-  One is presided over by the stipendiary magistrate and the others by
-  the lay magistrates and the coroner. The court of passage is a very
+  One is presided over by the stipendiary [[Magistrate|magistrate]] and the others by
+  the lay magistrates and the [[Coroner|coroner]]. The court of passage is a very
   ancient institution, possibly dating from the foundation of the
   borough by King John, and intended for cases arising out of the
   imports and exports passing through the town. Its jurisdiction has
   been confirmed and settled by parliament and it is competent to try
   civil cases arising within the city to any amount. The mayor is
-  _ex-officio_ the judge, but the presiding judge is an assessor
+  _ex-officio_ the judge, but the presiding judge is an [[Assessor|assessor]]
   appointed by the crown and paid by the corporation. The court sits
   about five times a year. There is a Liverpool district registry of the
-  chancery of the County Palatine of Lancaster which has concurrent
+  chancery of the County Palatine of [[Lancaster]] which has concurrent
   jurisdiction with the high court (chancery division) within the
-  hundred of West Derby. The vice-chancellor holds sittings in
+  hundred of West [[Derby]]. The vice-chancellor holds sittings in
   Liverpool. There is a Liverpool district registry of the high court of
   justice with common law, chancery, probate and admiralty jurisdiction,
   under two district registrars. The Liverpool county court has the
   usual limited jurisdiction over a wide local area, together with
-  bankruptcy jurisdiction over the county court districts of St Helens,
+  [[Bankruptcy|bankruptcy]] jurisdiction over the county court districts of St Helens,
   Widnes, Ormskirk and Southport, and admiralty jurisdiction over the
-  same districts with the addition of Birkenhead, Chester, Runcorn and
+  same districts with the addition of Birkenhead, [[Chester]], Runcorn and
   Warrington. There are two judges attached to the court.
 
   _Ecclesiastical._--The see of Liverpool was created in 1880 under the
@@ -241,7 +241,7 @@ the choir.
   quaint and characteristic specimen of the architecture of the period.
   It now maintains two hundred and fifty boys and one hundred girls. In
   1906 the school was removed to new buildings at Wavertree. There is an
-  orphan asylum, established in 1840, for boys, girls and infants, and a
+  orphan [[Asylum|asylum]], established in 1840, for boys, girls and [[Infant|infants]], and a
   seamen's orphan asylum, begun in 1869, for boys and girls. The Roman
   Catholics have similar establishments. The Liverpool dispensaries
   founded in 1778 were among the pioneers of medical charity. The Royal
@@ -249,15 +249,15 @@ the choir.
   has been very successful, and is now merged in the university. The
   sailors' home, opened in 1852, designed to provide board, lodging and
   medical attendance at a moderate charge for the seamen frequenting the
-  port, is one of Liverpool's best-known charities. The David Lewis
-  Workmen's Hostel is an effort to solve the difficulty of providing
+  port, is one of Liverpool's best-known charities. The David [[Lewis]]
+  Workmen's [[Hostel]] is an effort to solve the difficulty of providing
   accommodation for unmarried men of the artizan class.
 
   _Literature, Art and Science._--The free library, museum and gallery
   of arts, established and managed by the city council, was originated
   in 1850. The first library building was erected by Sir William Brown.
   The Derby museum, containing the collections of Edward, the 13th earl,
-  was presented by his son. The Mayer museum of historical antiquities
+  was presented by his son. The [[Mayer]] museum of historical antiquities
   and art was contributed by Mr Joseph Mayer, F.S.A. Sir Andrew Walker
   (d. 1893) erected in 1877 the art gallery which bears his name. Large
   additions were made in 1884, the cost being again defrayed by Sir
@@ -276,9 +276,9 @@ the choir.
 
   _Education._--Sunday schools were founded for poor children in 1784,
   as the result of a town's meeting. These were soon followed by
-  day-schools supplied by the various denominations. The first were the
+  day-schools supplied by the various [[Denomination|denominations]]. The first were the
   Old Church schools in Moorfields (1789), the Unitarian schools in
-  Mount Pleasant (1790) and Manesty Lane (1792) and the Wesleyan
+  Mount Pleasant (1790) and Manesty [[Lane]] (1792) and the Wesleyan
   Brunswick school (1790). In 1826 the corporation founded two
   elementary schools, one of which, the North Corporation school, was
   erected in part substitution for the grammar school founded by John
@@ -302,18 +302,18 @@ the choir.
   upper, middle and lower, for different classes of the community. The
   middle and lower schools passed into the control of the corporation in
   1907. The Sefton Park elementary school and the Pupil Teachers'
-  College in Clarence Street were transformed into municipal secondary
+  College in [[Clarence]] Street were transformed into municipal secondary
   schools for boys and girls in 1907; the corporation has also a
   secondary school for girls at Aigburth. There are several schools
   maintained by the Roman Catholics, two schools of the Girls' Public
-  Day School Company and a large number of private schools. A cadet
-  ship, the "Conway," for the training of boys intending to become
+  Day School Company and a large number of private schools. A [[Cadet|cadet]]
+  ship, the "[[Conway]]," for the training of boys intending to become
   officers in the mercantile marine, is moored in the Mersey. There are
   two training colleges for women, one undenominational, and the other
-  conducted by the sisters of Notre Dame for Roman Catholic women. The
+  conducted by the sisters of Notre [[Dame]] for Roman Catholic women. The
   central municipal technical school is in the Museum Buildings, and
   there are three branch technical schools. There are also a nautical
-  college, a school of cookery and a school of art controlled by the
+  college, a school of [[Cookery|cookery]] and a school of art controlled by the
   Education Committee.
 
   Liverpool University, as University College, received its charter of
@@ -322,14 +322,14 @@ the choir.
   Infirmary became part of the University College. In 1900 a
   supplemental charter extended the powers of self-government and
   brought the college into closer relations with the authorities of the
-  city and with local institutions by providing for their fuller
+  city and with local institutions by providing for their [[Fuller|fuller]]
   representation on the court of governors. In 1903 the charter of
   incorporation of the university of Liverpool was received, thus
   constituting it an independent university. The university is governed
   by the king as visitor, by a chancellor, two pro-chancellors, a
   vice-chancellor and a treasurer, by a court of over 300 members
   representing donors and public bodies, a council, senate, faculties
-  and convocation. The fine group of buildings is situated on Brownlow
+  and [[Convocation|convocation]]. The fine group of buildings is situated on Brownlow
   Hill.
 
   _Trade and Commerce._--In 1800 the tonnage of ships entering the port
@@ -337,7 +337,7 @@ the choir.
   entered, averaging 94 tons; in 1908 there were 25,739, averaging 665
   tons. The commerce of Liverpool extends to every part of the world,
   but probably the intercourse with North America stands pre-eminent,
-  there being lines of steamers to New York, Philadelphia, Boston,
+  there being lines of steamers to New York, Philadelphia, [[Boston]],
   Baltimore, Galveston, New Orleans and the Canadian ports. Cotton is
   the great staple import. Grain comes next, American (North and South)
   and Australian wheat and oats occupying a large proportion of the
@@ -354,7 +354,7 @@ the choir.
 
   _Manufactures._--The manufactures of Liverpool are not extensive.
   Attempts have been repeatedly made to establish cotton mills in and
-  near the city, but have resulted in failure. Engineering works,
+  near the city, but have resulted in failure. [[Engineering]] works,
   especially connected with marine navigation, have grown up on a large
   scale. Shipbuilding, in the early part of the 19th century, was active
   and prosperous, but has practically ceased. During the latter half of
@@ -367,7 +367,7 @@ the choir.
   Mersey, but the trade has long disappeared. Litherland, the inventor
   of the lever watch, was a Liverpool manufacturer, and Liverpool-made
   watches have always been held in high estimation. There are several
-  extensive sugar refineries and corn mills. The confectionery trade has
+  extensive sugar refineries and [[Corn|corn]] mills. The confectionery trade has
   developed during recent years, several large works having been built,
   induced by the prospect of obtaining cheap sugar directly from the
   Liverpool quays. The cutting, blending and preparing of crude tobacco
@@ -382,7 +382,7 @@ estuary 6½ m., of which 1¼ m. is in the borough of Bootle. The
 Birkenhead docks have not such a frontage, but they extend a long way
 backward. The water area of the Liverpool docks and basins is 418 acres,
 with a lineal quayage of 27 m. The Birkenhead docks, including the great
-float of 120 acres, contain a water area of 165 acres, with a lineal
+[[Float|float]] of 120 acres, contain a water area of 165 acres, with a lineal
 quayage of 9½ m. The system of enclosed docks was begun by the
 corporation in 1709. They constituted from the first a public trust, the
 corporation never having derived any direct revenue from them, though
@@ -425,7 +425,7 @@ its breadth 80 ft. It is supported on floating pontoons about 200 in
 number, connected with the river wall by eight bridges, besides a
 floating bridge for heavy traffic 550 ft. in length and 35 ft. in width.
 The southern half is devoted to the traffic of the Mersey ferries, of
-which there are seven--New Brighton, Egremont, Seacombe, Birkenhead,
+which there are seven--New Brighton, [[Egremont]], Seacombe, Birkenhead,
 Rock Ferry, New Ferry and Eastham. The northern half is used by
 ocean-going steamers and their tenders. The warehouses for storing
 produce form a prominent feature in the commercial part of the city.
@@ -444,10 +444,10 @@ Stanley tobacco warehouse is the largest of its kind in the world, the
 area of its fourteen floors being some 36 acres.
 
   Dredging operations at the bar of the Queen's channel, in the channel
-  itself and at the landing stage enables the largest ocean liners to
+  itself and at the landing stage enables the largest ocean [[Liner|liners]] to
   enter the river and approach the stage at practically all states of
   the tide. The dredging at the bar was begun as an experiment in
-  September 1890 by two of the board's ordinary hopper barges of 500
+  September 1890 by two of the board's ordinary hopper [[Barge|barges]] of 500
   tons capacity each fitted with centrifugal pumps. The result was
   favourable, and larger vessels have been introduced. Before dredging
   was begun the depth of water at dead low water of spring tides on the
@@ -459,7 +459,7 @@ area of its fourteen floors being some 36 acres.
   channels.
 
 _Municipality._--Under the Municipal Reform Act of 1835, the boundaries
-of the original borough were extended by the annexation of portions of
+of the original borough were extended by the [[Annexation|annexation]] of portions of
 the surrounding district, while further additions were made in 1895,
 1902 and 1905. The city is divided into thirty-five wards with 103
 councillors and 34 aldermen. In 1893 the title of mayor was raised to
@@ -470,10 +470,10 @@ property, the first grant having been made by Thomas, earl of Lancaster,
 in 1309. This land was originally of value only as a source of supply of
 turf for firing, but in modern times its capacity as building land has
 been a fruitful source of profit to the town. A large proportion of the
-southern district is held in freehold by the corporation and leased to
+southern district is held in [[Freehold|freehold]] by the corporation and leased to
 tenants for terms of seventy-five years, renewable from time to time on
 a fixed scale of fines. There was formerly another source of income now
-cut off. The fee farm rents and town dues originally belonging to the
+cut off. The [[Fee|fee]] farm rents and town dues originally belonging to the
 crown were purchased from the Molyneux family in 1672 on a long lease,
 and subsequently in 1777 converted into a perpetuity. With the growth of
 the commerce of the port these dues enormously increased, and became a
@@ -481,7 +481,7 @@ cause of great complaint by the shipping interest. In 1856 a bill was
 introduced into parliament, and passed, by which the town dues were
 transferred to the Mersey Docks and Harbour Board on payment of
 £1,500,000, which was applied in part to the liquidation of the bonded
-debt of the corporation, amounting to £1,150,000.
+[[Debt|debt]] of the corporation, amounting to £1,150,000.
 
 _History._--During the Norse irruption of the 8th century colonies of
 Norsemen settled on both sides of the Mersey, as is indicated by some of
@@ -490,19 +490,19 @@ of the fief (inter Ripam et Mersham) granted by the Conqueror to Roger
 de Poictou, one of the great family of Montgomery. Although Liverpool is
 not named in Domesday it is believed to have been one of the six
 berewicks dependent on the manor of West Derby therein mentioned. After
-various forfeitures and regrants from the crown, it was handed over by
-Henry II. to his falconer Warine. In a deed executed by King John, then
+various [[Forfeiture|forfeitures]] and regrants from the crown, it was handed over by
+Henry II. to his [[Falconer|falconer]] Warine. In a deed executed by King John, then
 earl of Mortain, about 1191, confirming the grant of this with other
 manors to Henry Fitzwarine, son of the former grantee, the name of
 Liverpool first occurs. Probably its most plausible derivation is from
 the Norse _Hlithar-pollr_, "the pool of the slopes," the pool or inlet
 at the mouth of which the village grew up being surrounded by gently
 rising slopes. Another possible derivation is from the Prov. E. _lever_,
-the yellow flag or rush, A.S. _laefer_.
+the yellow [[Flag|flag]] or rush, A.S. _laefer_.
 
 After the partial conquest of Ireland by Strongbow, earl of Pembroke,
-under Henry II., the principal ports of communication were Bristol for
-the south and Chester for the north. The gradual silting up of the river
+under Henry II., the principal ports of communication were [[Bristol]] for
+the south and Chester for the north. The [[Gradual|gradual]] silting up of the river
 Dee soon so obstructed the navigation as to render Chester unsuitable. A
 quay was then constructed at Shotwick, about 8 m. below Chester, with a
 castle to protect it from the incursions of the neighbouring Welsh; but
@@ -535,7 +535,7 @@ The crown revenues from the burgage rents and the royal customs were
 leased in fee-farm from time to time, sometimes to the corporation, at
 other times to private persons. The first lease was from Henry III., in
 1229, at £10 per annum. In the same year the borough, with all its
-appurtenances, was bestowed with other lands on Ranulf, earl of Chester,
+[[Appurtenances|appurtenances]], was bestowed with other lands on Ranulf, earl of Chester,
 from whom it passed to his brother-in-law William de Ferrers, earl of
 Derby, who seems to have built Liverpool castle between 1232 and 1237.
 His grandson, Robert de Ferrers, was implicated in the rising of Simon
@@ -594,13 +594,13 @@ Steers.
 
 About this date the merchants of Liverpool entered upon the slave trade,
 into which they were led by their connexion with the West Indies. In
-1709 a single vessel of 30 tons burden made a venture from Liverpool and
+1709 a single vessel of 30 tons [[Burden|burden]] made a venture from Liverpool and
 carried fifteen slaves across the Atlantic. In 1730, encouraged by
 parliament, Liverpool went heartily into the new trade. In 1751,
 fifty-three ships sailed from Liverpool for Africa, of 5334 tons in the
 aggregate. The ships sailed first to the west coast of Africa, where
 they shipped the slaves, and thence to the West India Islands, where the
-slaves were sold and the proceeds brought home in cargoes of sugar and
+slaves were sold and the proceeds brought home in [[Cargo|cargoes]] of sugar and
 rum. In 1765 the number of Liverpool slavers had increased to
 eighty-six, carrying 24,200 slaves. By the end of the century
 five-sixths of the African trade centred in Liverpool. Just before its
@@ -624,13 +624,13 @@ merchants again turned their attention to retaliation. Between August
 1778 and April 1779, 120 privateers were fitted out in Liverpool,
 carrying 1986 guns and 8745 men.
 
-  See W. Enfield, _Hist. of Leverpool_ (1773); J. Aikin, _Forty Miles
+  See W. [[Enfield]], _Hist. of Leverpool_ (1773); J. Aikin, _Forty Miles
   round Manchester_ (1795); T. Troughton, _Hist. of Liverpool_ (1810);
   M. Gregson, _Portfolio of Fragments relating to Hist. of Lancashire_
   (1817); H. Smithers, _Liverpool, its Commerce_, &c. (1825); R. Syers,
   _Hist. of Everton_ (1830); E. Baines, _Hist. of County Palatine of
   Lancaster_, vol. iv. (1836); T. Baines, _Hist. of Commerce and Town of
-  Liverpool_ (1852); R. Brooke, _Liverpool during the last quarter of
+  Liverpool_ (1852); R. [[Brooke]], _Liverpool during the last quarter of
   18th Century_ (1853); J. A. Picton, _Memorials of Liverpool_ (2 vols.,
   1873); Ramsay Muir and Edith M. Platt, _A History of Municipal
   Government in Liverpool_ (1906); Ramsay Muir, _A History of Liverpool_

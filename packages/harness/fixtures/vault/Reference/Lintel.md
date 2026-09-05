@@ -5,7 +5,7 @@ _limes_, boundary, confused in sense with _limen_, threshold; the Latin
 name is _supercilium_, Ital. _soprasogli_, and Ger. _Sturz_), in
 architecture, a horizontal piece of stone or timber over a doorway or
 opening, provided to carry the superstructure. In order to relieve the
-lintel from too great a pressure a "discharging arch" is generally built
+lintel from too great a pressure a "[[Discharging Arch|discharging arch]]" is generally built
 over it.
 
 ## References

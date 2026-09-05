@@ -12,18 +12,18 @@ Formerly Exhibitioner of Merton College and Senior Scholar of St John's
 College, Oxford. Author of _Modern Europe_; _The War of Greek
 Independence_; &c.
 
-- Austria-Hungary: _History_ (_in part_); Babeuf; Balance of Power; Baron;
-Bates; Bavaria: _History_; Béguines; Berlin: _Congress and Treaty of_;
+- Austria-Hungary: _History_ (_in part_); Babeuf; [[Balance Of Power|Balance of Power]]; Baron;
+Bates; Bavaria: _History_; Bé[[Guines|guines]]; Berlin: _Congress and Treaty of_;
 Bernard, St.; Biretta.
 
 W. Bo. - WILHELM BOUSSET, D.TH.
 Professor of New Testament Exegesis in the University of Gottingen. Author
-of _Das Wesen der Religion_; _The Antichrist Legend_; &c.
+of _Das Wesen der Religion_; _The [[Antichrist]] Legend_; &c.
 
 - Basilides.
 
 W. B. Ca. - W. BROUGHTON CARR.
-Formerly Editor of the _British Bee Journal_ and the _Bee-Keepers' Record_.
+Formerly Editor of the _British [[Bee]] Journal_ and the _Bee-Keepers' Record_.
 
 - Bee: _Bee-keeping_.
 

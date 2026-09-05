@@ -16,10 +16,10 @@ of clay. A semi-arid climate where the precipitation is much
 concentrated seems to be most favourable to the development of this type
 of formation." The country round the Dead Sea, where loose friable sandy
 clay is capped by harder rock, produces "bad-land" topography. The cap
-of hard rock gives way at the joints, and the water making its way
+of hard rock gives way at the [[Joints|joints]], and the water making its way
 downwards washes away the softer material directly under the cracks,
 which become wider, leaving isolated columns of clay capped with hard
-sandstone or limestone. These become smaller and fewer as denudation
+sandstone or [[Limestone|limestone]]. These become smaller and fewer as denudation
 proceeds, the pillars standing a great height at times, until finally
 they all disappear.
 
@@ -53,7 +53,7 @@ many passages of considerable merit, tended but little to a correct
 interpretation of the phenomena in question. Equally unsatisfactory were
 the attempts of Joseph Priestley and some other scientific writers of
 the 18th century to connect the cause of earthquakes with electrical
-phenomena. The great earthquake of Lisbon in 1755 led the Rev. John
+phenomena. The great earthquake of [[Lisbon]] in 1755 led the Rev. John
 Michell, professor of mineralogy at Cambridge, to turn his attention to
 the subject; and in 1760 he published in the _Philosophical
 Transactions_ a remarkable essay on the Cause and Phenomena of
@@ -63,7 +63,7 @@ he remarked that an earthquake "is probably propagated through the earth
 nearly in the same manner as a noise is conveyed through the air." The
 recognition of the fact that the seismologist has to deal with the
 investigation of wave-motion in solids lies at the very base of his
-science. In 1846 Robert Mallet communicated to the Royal Irish Academy
+science. In 1846 Robert [[Mallet]] communicated to the Royal Irish Academy
 his first paper "On the Dynamics of Earthquakes"; and in the following
 year W. Hopkins, of Cambridge, presented to the British Association a
 valuable report in which earthquake phenomena were discussed in some
@@ -114,7 +114,7 @@ seismology.
 Much of Mallet's labour was directed to the determination of the
 position and magnitude of the subterranean source from which the
 vibratory impulses originated. This is known variously as the _seismic
-centre_, _centrum_, _hypocentre_, _origin_ or _focus_. It is often
+centre_, _centrum_, _hypocentre_, _origin_ or _[[Focus|focus]]_. It is often
 convenient to regard this centre theoretically as a point, but
 practically it must be a locus or space of three dimensions, which in
 different cases varies much in size and shape, and may be of great
@@ -126,9 +126,9 @@ that in the case of the Neapolitan earthquake the focal cavity was a
 curved lamelliform fissure, having a length of about 10 m. and a height
 of about 31/2 m., whilst its width was inconsiderable. The central point
 of this fissure, the theoretical seismic centre, he estimated to have
-been at a depth of about 61/2 m. from the surface. Dr C. Davison, in
+been at a depth of about 61/2 m. from the surface. Dr C. [[Davison]], in
 discussing Mallet's data, was led to the conclusion that there were two
-distinct foci, possibly situated on a fault, or plane of dislocation,
+distinct foci, possibly situated on a [[Fault|fault]], or plane of dislocation,
 running in a north-west and south-east direction. Mallet located his
 epicentre near the village of Caggiano, not far from Polla, while the
 other seems to have been in the neighbourhood of Montemurro, about 25 m.
@@ -148,7 +148,7 @@ Seebach a _pleistoseist_.
 
 In order to determine the position of the seismic centre, Mallet made
 much use of the cracks in damaged buildings, especially in walls of
-masonry, holding that the direction of such fractures must generally be
+[[Masonry|masonry]], holding that the direction of such fractures must generally be
 at right angles to that in which the normal earthquake-wave reached
 them. In this way he obtained the "angle of emergence" of the wave. He
 also assumed that free-falling bodies would be overthrown and projected
@@ -158,7 +158,7 @@ data are, however, subject to much error, especially through want of
 homogeneity in the rocks, but Mallet's work was still of great value.
 
 
-  Charleston earthquake, 1886.
+  [[Charleston]] earthquake, 1886.
 
 A different method of ascertaining the depth of the focus was adopted by
 Major C.E. Dutton in his investigation of the Charleston earthquake of
@@ -184,7 +184,7 @@ catastrophe on various structures and natural objects, or, where visible
 records were wanting, by personal evidence, which is often vague and
 variable. The Rossi-Forel scale was adopted. This is an arbitrary scale
 formulated by Professor M.S. de Rossi, of Rome, and Dr F.A. Forel, of
-Geneva, based mostly on the ordinary phenomena observed during an
+[[Geneva]], based mostly on the ordinary phenomena observed during an
 earthquake, and consisting of ten degrees, of which the lowest is the
 feeblest, viz. I. Microseismic shock; II. Extremely feeble shock; III.
 Very feeble shock; IV. Feeble; V. Shock of moderate intensity; VI.
@@ -215,11 +215,11 @@ The gigantic disaster known as the "Great Indian Earthquake," which
 occurred on the 12th of June 1897, was the subject of careful
 investigation by the Geological Survey of India and was described in
 detail by the superintendent, R.D. Oldham. It is sometimes termed the
-Assam earthquake, since it was in that province that the effects were
+[[Assam]] earthquake, since it was in that province that the effects were
 most severe, but the shocks were felt over a large part of India, and
 indeed far beyond its boundaries. Much of the area which suffered most
 disturbance was a wild country, sparsely populated, with but few
-buildings of brick or stone from which the violence of the shocks could
+buildings of [[Brick|brick]] or stone from which the violence of the shocks could
 be estimated. The epicentral tract was of great size, having an
 estimated area of about 6000 sq. m., but the mischief was most severe in
 the neighbourhood of Shillong, where the stonework of bridges, churches
@@ -230,7 +230,7 @@ connected with movement of subterranean rock-masses of enormous
 magnitude along a great thrust-plane, or series of such planes, having a
 length of about 200 m. and a maximum breadth of not less than 50 m. It
 is pointed out by Oldham that this may be compared for size with the
-great Faille du Midi in Belgium, which is known to extend for a distance
+great Faille du Midi in [[Belgium]], which is known to extend for a distance
 of 120 m. The depth of the principal focus, though not actually capable
 of determination, was probably less than 5 m. from the surface. From the
 focus many secondary faults and fractures proceeded, some reaching the
@@ -246,10 +246,10 @@ Eight years after the great Assam earthquake India was visited by
 another earthquake, which, though less intense, resulted in the loss of
 about 20,000 lives. This catastrophe is known as the Kangra earthquake,
 since its centre seems to have been located in the Kangra valley, in the
-north-west Himalaya. It occurred on the 4th of April 1905, and the first
+north-west [[Himalaya]]. It occurred on the 4th of April 1905, and the first
 great shocks were felt in the chief epifocal district at about 6.9 a.m.,
 Madras time. Although the tract chiefly affected was around Kangra and
-Dharmsala, there was a subordinate epifocal tract in Dehra Dun and the
+Dharmsala, there was a subordinate epifocal tract in [[Dehra Dun]] and the
 neighbourhood of Mussoorie, whilst the effects of the earthquake
 extended in slight measure to Lahore and other cities of the plain. It
 is estimated that the earthquake was felt over an area of about
@@ -274,7 +274,7 @@ movement along the plane of the San Andreas fault, one of a series which
 runs for several hundred miles approximately in a N.W. and S.E.
 direction near the coast line. Evidence of fresh movement along this
 plane of dislocation was traced for a distance of 190 m. from San Juan
-on the south to Point Arena on the north. There the trace of the fault
+on the south to Point [[Arena]] on the north. There the trace of the fault
 is lost beneath the sea, but either the same fault or another appears 75
 m. to the north at Point Delgada. The belt of disturbed country is
 notoriously unstable, and part of the fault had been known as the
@@ -306,14 +306,14 @@ seismic activity.
 
 The Jamaica earthquake of the 14th of January 1907 appears to have
 accompanied movement of rock along an east and west fracture or series
-of fractures under the sea a few miles from the city of Kingston. The
+of fractures under the sea a few miles from the city of [[Kingston]]. The
 statue of Queen Victoria at Kingston was turned upon its pedestal the
 eighth of a revolution.
 
 
   Messina earthquake, 1908.
 
-A terrible earthquake occurred in Calabria and Sicily on December 28,
+A terrible earthquake occurred in [[Calabria]] and Sicily on December 28,
 1908, practically destroying Messina and Reggio. According to the
 official returns the total loss of life was 77,283. Whilst the principal
 centre seems to have been in the Strait of Messina, whence the
@@ -321,7 +321,7 @@ disturbance is generally known as the Messina earthquake, there were
 independent centres in the Calabrian peninsula, a country which had been
 visited by severe earthquakes not long previously, namely on September
 8, 1905, and October 23, 1907. The principal shock of the great Messina
-earthquake of 1908 occurred at 5.21 A.M. (4.21 Greenwich time), and had
+earthquake of 1908 occurred at 5.21 A.M. (4.21 [[Greenwich]] time), and had
 a duration of from 30 to 40 seconds. Neither during nor immediately
 before the catastrophe was there any special volcanic disturbance at
 Etna or at Stromboli, but it is believed that there must have been
@@ -330,7 +330,7 @@ Strait of Messina, which has been studied by E. Cortese. The sea-floor
 in the strait probably suffered great disturbance, resulting in the
 remarkable movement of water observed on the coast. At first the sea
 retired, and then a great wave rolled in, followed by others generally
-of decreasing amplitude, though at Catania the second was said to have
+of decreasing amplitude, though at [[Catania]] the second was said to have
 been greater than the first. At Messina the height of the great wave was
 2.70 metres, whilst at Ali and Giardini it reached 8.40 metres and at
 San Alessio as much as 11.7 metres. At Malta the tide-gauge recorded a
@@ -367,7 +367,7 @@ disturbances by Professor E. Rudolph.
 
 Professor J.H. Jeans has pointed out that the regions of the earth's
 crust most affected by earthquakes lie on a great circle corresponding
-with the equator of the slightly pear-shaped figure that he assigns to
+with the [[Equator|equator]] of the slightly pear-shaped figure that he assigns to
 the earth. This would represent a belt of weakness, subject to crushing,
 from the tendency of the pear to pass into a spherical or spheroidal
 form under the action of internal stresses. According to the comte de
@@ -384,7 +384,7 @@ position. Earthquakes seem to have been most frequent when the
 displacement of the pole has been comparatively great, or when the
 change in the direction of movement has been marked. Valuable earthquake
 catalogues have been compiled at various times by Alexis Perrey, R. and
-J.W. Mallet, John Milne, T. Oldham, C.W.C. Fuchs, F. de Montessus de
+J.W. Mallet, John Milne, T. Oldham, C.W.C. [[Fuchs]], F. de Montessus de
 Ballore and others.
 
 
@@ -431,7 +431,7 @@ greater.
 Although most earthquakes seem to be of tectonic type, there are some
 which are evidently connected, directly or indirectly, with volcanic
 activity (see VOLCANO). Such, it is commonly believed, were the
-earthquakes which disturbed the Isle of Ischia in 1881 and 1883, and
+earthquakes which disturbed the Isle of [[Ischia]] in 1881 and 1883, and
 were studied by Professor J. Johnston-Lavis and G. Mercalli. In addition
 to the tectonic and volcanic types, there are occasional earthquakes of
 minor importance which may be referred to the collapse of the roof of
@@ -511,7 +511,7 @@ in the epifocal district by undulations which may be responsible for
 severe superficial damage. (See also for elastic waves ELASTICITY, Sec.
 89.)
 
-An old classification of earthquake-shocks, traces of which still linger
+An old [[Classification|classification]] of earthquake-shocks, traces of which still linger
 in popular nomenclature, described them as "undulatory," when the
 movement of the ground was mainly in a horizontal direction;
 "subsultory," when the motion was vertical, like the effect of a normal
@@ -745,7 +745,7 @@ our ideas respecting the character of earthquake motion. Although an
 earthquake may be strongly felt within a distance of 50 m. from its
 origin, and although the movements in the upper storeys of buildings
 within the shaken area may be large, the actual range of the horizontal
-motion of the ground is usually less than {1/10} of an inch. With such
+motion of the ground is usually less than {1/10} of an [[Inch|inch]]. With such
 earthquakes ordinary seismographs for recording vertical motion do not
 show any disturbance. When the movement reaches 1/2 in. it becomes
 dangerous, and a back-and-forth movement of an inch is usually
@@ -955,7 +955,7 @@ the night than during the day.
 Many experiments and investigations have been made to determine a
 possible relationship between earthquakes and electrical phenomena, but
 beyond drawing attention to the fact that luminous appearances may
-accompany the friction of moving masses of rock, and that a temporary
+accompany the [[Friction|friction]] of moving masses of rock, and that a temporary
 current may be established in a line by the disturbance of an
 earth-plate, these inquiries have yielded but little of importance. The
 inquiries respecting a possible relationship between adjustments so
@@ -1025,7 +1025,7 @@ Protestant heretics in their midst. To avoid a recurrence of disaster
 certain of these were baptized by force. In the myths relating to
 underground monsters and personages that are said to be the cause of
 earthquakes we see the direct effects which exhibitions of seismic and
-volcanic activity have produced upon the imagination. The beliefs, or
+volcanic activity have produced upon the [[Imagination|imagination]]. The beliefs, or
 more properly, perhaps, the poetical fancies, thus engendered have
 exhibited themselves in various forms. Beneath Japan there is said to be
 a catfish, which in other countries is replaced by a mole, a hog, an
@@ -1033,7 +1033,7 @@ elephant or other living creature, which when it is restless shakes the
 globe. The Kamchadales picture a subterranean deity called Tuil, who in
 Scandinavian mythology is represented by the evil genius Loki. We have
 only to think of the reference in the Decalogue forbidding the making of
-graven images of that which is in the earth beneath, to see in early
+graven [[Image|images]] of that which is in the earth beneath, to see in early
 Biblical history evidence of a subterranean mythology; and it seems
 probable that the same causes which led to the creation of Pluto, Vulcan
 and Poseidon gave rise to practices condemned by Moses.
@@ -1083,7 +1083,7 @@ horizontal section is sufficiently strong to resist the effects of the
 inertia of its superstructure, are employed to carry railways in Japan.
 In that country cast-iron piers are things of the past, whilst piers of
 masonry, together with their foundations, no longer follow the rules of
-ordinary engineering practice.
+ordinary [[Engineering|engineering]] practice.
 
 After flood, fire, earthquake, or when opportunity presents itself,
 changes are introduced in the construction of ordinary buildings. In a
@@ -1103,7 +1103,7 @@ In short, the rules and precautions which have to be recognized so as to
 avoid or mitigate the effects of earthquake movement are so numerous
 that students of engineering and architecture in Japan receive a special
 course of lectures on this subject. When it is remembered that a large
-earthquake may entail a loss of life greater than that which takes place
+earthquake may [[Entail|entail]] a loss of life greater than that which takes place
 in many wars, and that for the reconstruction of ordinary buildings,
 factories and public works an expenditure of several million pounds
 sterling is required, the importance of these studies cannot be
@@ -1163,7 +1163,7 @@ of nearly 1.2% per mile of descent.     (J. Mi.)
   31, 1886," Ninth Annual _Report_ of the United States Geological
   Survey, 1889; W.H. Hobbs, _Earthquakes, an Introduction to Seismic
   Geology_ (London, 1908), "The San Francisco Earthquake and Fire,
-  1906," _Bull. U.S. Geol. Surv._ No. 324; "The California Earthquake of
+  1906," _[[Bull]]. U.S. Geol. Surv._ No. 324; "The California Earthquake of
   Ap. 18, 1906," _Rep. State Earthq. Com._ (Washington, D.C., 1908);
   R.D. Oldham, "Report on the Great Earthquake of 12 June 1897," _Mem.
   Geol. Surv. India_, xxix. 1899, "On the Propagation of Earthquake
@@ -1171,7 +1171,7 @@ of nearly 1.2% per mile of descent.     (J. Mi.)
   "The Constitution of the Interior of the Earth as revealed by
   Earthquakes," _Quar. Jour. Geol. Soc._, 1906, 62, p. 456; 1907, 63, p.
   344; C. Davison, _A Study of Recent Earthquakes_ (London, 1905); _The
-  Hereford Earthquake of December 17, 1896_ (Birmingham, 1899), "The
+  Hereford Earthquake of December 17, 1896_ ([[Birmingham]], 1899), "The
   Investigation of Earthquakes," _Beitraege z. Geophysik_, Bd. ix., 1908,
   p. 201, and papers on British earthquakes in _Quart. Jour. Geol.
   Soc._; T.J.J. See, "The Cause of Earthquakes, Mountain Formation and
@@ -1209,13 +1209,13 @@ FOOTNOTES:
     _Die Erdbebenwarte_ (1901-1907); and the "Neueste
     Erdbebennachrichten, _Beilage der Monatsschrift Die Erdbebenwarte_."
 
-  [4] The "International Seismological Association" was founded at
+  [4] The "[[International]] Seismological Association" was founded at
     Strassburg in 1903, and publishes the _Beitraege zur Geophysik_,
     edited by George Gerland, director of the Strassburg station; the
     papers are printed in several languages.
 
   [5] The records of the British Association stations are published
-    (since 1896) in the _Reports_. Chile has a national earthquake
+    (since 1896) in the _Reports_. [[Chile]] has a national earthquake
     service (founded after the Valparaiso earthquake of August 1906)
     directed by comte de Montessus de Ballore.
 

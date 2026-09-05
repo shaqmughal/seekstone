@@ -1,10 +1,10 @@
 # Bimana
 
 BIMANA (Lat. "two-handed"), a word first used by the naturalist Johann
-Friedrich Blumenbach to distinguish the order of man from Quadrumana or
+[[Friedrich]] Blumenbach to distinguish the order of man from Quadrumana or
 other mammals. The term was popularized by Cuvier, and the majority of
 writers followed him in its adoption. In 1863, however, Huxley in his
-_Man's Place in Nature_ demonstrated that the higher apes might fairly
+_Man's Place in Nature_ demonstrated that the higher [[Ape|apes]] might fairly
 be included in Bimana. Again and again it has been proved that the human
 great toe can be by constant practice used as a thumb; artists exist who
 have painted pictures grasping the brush with their toes, and violinists
@@ -32,7 +32,7 @@ the "unrated bimetallism" which exists wherever two metals circulate
 together, but have their relative values determined, not by law, but by
 "the higgling of the market." Further, the inventor of the term--H.
 Cernuschi in 1869--regarded it as properly applicable to an
-international arrangement by which a number of states agree to adopt the
+[[International|international]] arrangement by which a number of states agree to adopt the
 same ratio, rather than to the use of the two metals by a single
 country, which may be described as national bimetallism. International
 bimetallism is at all events the form which has attracted attention in
@@ -56,8 +56,8 @@ that resulted from the Revolutionary wars had ceased, we find France
 (1803) and the United States (1792) with the double standard legally
 established. England, on the other hand, had in 1816 accepted by law the
 _gold standard_, which had come into use in the 18th century. Silver
-formed the currency of the other European countries. The great
-discoveries of gold in California (1848) and Australia (1851) brought
+formed the currency of the other [[European Countries|European countries]]. The great
+discoveries of gold in California (1848) and [[Australia]] (1851) brought
 about the displacement of silver by gold in France, and the continuance
 of gold as the principal currency metal in the United States, where by
 the law of 1834 it had been somewhat over-rated (1:16), as compared with
@@ -76,13 +76,13 @@ produced by coordinating the various currencies with that of the Latin
 Union.
 
 A series of political and economic events speedily changed this
-situation. The Franco-German War (1870-71) deposed France from her
+situation. The [[Franco-German War]] (1870-71) deposed France from her
 leading position, and led to the establishment of a German gold currency
-with a different unit from the franc, accompanied by the demonetization
+with a different unit from the [[Franc|franc]], accompanied by the [[Demonetization|demonetization]]
 of the silver currencies previously in use in the German states. The
 United States, where an inconvertible paper currency had been introduced
 during the Civil War, formally established the gold dollar as the
-standard coin (1873) and arranged for a return to specie payments
+standard [[Coin|coin]] (1873) and arranged for a return to specie payments
 (1878). At this time, too, the great production of gold which had marked
 the period 1850-1870 diminished, while very productive silver mines were
 discovered in the Pacific states of America. As a result of these
@@ -147,11 +147,11 @@ principal issue at the presidential elections of 1896 and 1900, in each
 of which it was emphatically rejected.
 
 A further attempt at securing international bimetallism was made by
-Senator Wolcott's commission in 1897. The American envoys, in concert
+Senator Wolcott's commission in 1897. The American envoys, in [[Concert|concert]]
 with the French government, proposed to England (1) the reopening of the
 Indian mints, and (2) the annual purchase by England of £10,000,000 of
 silver. The French minister claimed further concessions which were
-regarded as inadmissible by the English government; but the fate of the
+regarded as inadmissible by the English government; but the [[Fate|fate]] of the
 mission was settled by the refusal of the Indian government to reopen
 its mints.
 
@@ -162,7 +162,7 @@ England.
 
 Amongst the causes of this collapse the most important are: (1) the
 adoption of the gold standard by so many countries--Austria-Hungary
-(1892), Russia and Japan (1897), India (1899), Mexico (1904)-a movement
+(1892), Russia and [[Japan]] (1897), India (1899), Mexico (1904)-a movement
 which pointed to the complete triumph of gold in the future; (2) the
 great increase in the output of gold. Australia and South Africa so
 developed their gold mines as to bring the yield for 1906 to £81,000,000
@@ -181,7 +181,7 @@ endeavour in different ways to adjust their actual medium ... to the
 gold standard" (Nicholson, _Money and Monetary Problems_, 6th ed.).
 
 Perhaps the principal service rendered by the many able minds engaged in
-the movement will prove to be the fuller development of the more
+the movement will prove to be the [[Fuller|fuller]] development of the more
 difficult parts of monetary theory and the additional light thrown on
 the course of monetary history.
 
@@ -191,10 +191,10 @@ the _Joint-standard_ or as _Symmetallism_.
 
   BIBLIOGRAPHY.-On the bimetallic side, Nicholson, _Money and Monetary
   Problems_ (6th ed., 1903); F.A. Walker, _International Bimetallism_
-  (1896); Barbour, _The Theory of Bimetallism_ (1885); Lord Aldenham
-  (H.H. Gibbs), _A Colloquy on Currency_ (1900); and the numerous
+  (1896); [[Barbour]], _The Theory of Bimetallism_ (1885); Lord Aldenham
+  (H.H. [[Gibbs]]), _A Colloquy on Currency_ (1900); and the numerous
   pamphlets and leaflets of the Bimetallic League. Opposed to
-  bimetallism, Giffen, _The Case against Bimetallism_ (1892); Laughlin,
+  bimetallism, [[Giffen]], _The Case against Bimetallism_ (1892); Laughlin,
   _History of Bimetallism in the United States_ (4th ed., 1897); Lord
   Farrer, _Studies in Currency_ (1898), _The Gold Standard_
   (1898)--papers issued by the Gold Standard Defence Assoc. Leonard

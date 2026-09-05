@@ -7,7 +7,7 @@ type: reference
 
 # Ferrel'S Law
 
-FERREL'S LAW, in physical geography. "If a body moves in any direction
+FERREL'S LAW, in physical [[Geography|geography]]. "If a body moves in any direction
 on the earth's surface, there is a deflecting force arising from the
 earth's rotation, which deflects it to the right in the northern
 hemisphere and to the left in the southern hemisphere." This law applies

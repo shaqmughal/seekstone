@@ -1,7 +1,7 @@
 # Groat
 
 GROAT (adapted from the Dutch _groot_, great, thick; cf. Ger.
-_Groschen_; the Med. Lat. _grossus_ gives Ital. _grosso_, Fr. _gros_, as
+_Groschen_; the Med. Lat. _grossus_ gives Ital. _grosso_, Fr. _[[Gros|gros]]_, as
 names for the coin), a name applied as early as the 13th century on the
 continent of Europe to any large or thick coin. The groat was almost
 universally a silver coin, but its value varied considerably, as well at

@@ -14,15 +14,15 @@ quantities of moisture and traces of carbonic acid, hydrogen, ammonia,
 &c., the only constituents recognized were nitrogen and oxygen. The
 analysis of air was conducted by determining the amount of oxygen
 present and assuming the remainder to be nitrogen. Since the time of
-Henry Cavendish no one seemed even to have asked the question whether
-the residue was, in truth, all capable of conversion into nitric acid.
+Henry [[Cavendish]] no one seemed even to have asked the question whether
+the residue was, in truth, all capable of [[Conversion|conversion]] into nitric acid.
 
-The manner in which this condition of complacent ignorance came to be
+The manner in which this condition of complacent [[Ignorance|ignorance]] came to be
 disturbed is instructive. Observations undertaken mainly in the interest
 of Prout's law, and extending over many years, had been conducted to
 determine afresh the densities of the principal gases--hydrogen, oxygen
 and nitrogen. In the latter case, the first preparations were according
-to the convenient method devised by Vernon Harcourt, in which air
+to the convenient method devised by Vernon [[Harcourt]], in which air
 charged with ammonia is passed over red-hot copper. Under the influence
 of the heat the atmospheric oxygen, unites with the hydrogen of the
 ammonia, and when the excess of the latter is removed with sulphuric
@@ -47,7 +47,7 @@ ammonium nitrite. No impurity, consisting of any known substance, could
 be discovered capable of explaining an excessive weight in the one case,
 or a deficiency in the other. Storage for eight months did not disturb
 the density of the chemically extracted gas, nor had the silent electric
-discharge any influence upon either quality. ("On an Anomaly encountered
+[[Discharge|discharge]] any influence upon either quality. ("On an Anomaly encountered
 in determining the Density of Nitrogen Gas," _Proc. Roy. Soc._, April
 1894.)
 
@@ -65,7 +65,7 @@ resolved it. In his memoir of 1785 he writes:--
 
   "As far as the experiments hitherto published extend, we scarcely know
   more of the phlogisticated part of our atmosphere than that it is not
-  diminished by lime-water, caustic alkalies, or nitrous air; that it is
+  diminished by lime-water, [[Caustic|caustic]] alkalies, or nitrous air; that it is
   unfit to support fire or maintain life in animals; and that its
   specific gravity is not much less than that of common air; so that,
   though the nitrous acid, by being united to phlogiston, is converted
@@ -90,7 +90,7 @@ resolved it. In his memoir of 1785 he writes:--
   the tube, added some dephlogisticated air to it and continued the
   spark until no further diminution took place. Having by these means
   condensed as much as I could of the phlogisticated air, I let up some
-  solution of liver of sulphur to absorb the dephlogisticated air; after
+  solution of [[Liver|liver]] of sulphur to absorb the dephlogisticated air; after
   which only a small bubble of air remained unabsorbed, which certainly
   was not more than 1/120 of the bulk of the dephlogisticated air let up
   into the tube; so that, if there be any part of the dephlogisticated
@@ -126,12 +126,12 @@ wires insulated by U-shaped glass tubes CC passing through the liquid
 and round the mouth of the test-tube. The inner platinum ends DD of the
 wire may be sealed into the glass insulating tubes, but reliance should
 not be placed upon these sealings. In order to secure tightness in spite
-of cracks, mercury was placed in the bends. With a battery of five Grove
+of cracks, mercury was placed in the [[Bend|bends]]. With a battery of five Grove
 cells and a Ruhmkorff coil of medium size, a somewhat short spark, or
 arc, of about 5 mm. was found to be more favourable than a longer one.
 When the mixed gases were in the right proportion, the rate of
 absorption was about 30 c.c. per hour, about thirty times as fast as
-Cavendish could work with the electrical machine of his day. Where it is
+Cavendish could work with the electrical [[Machine|machine]] of his day. Where it is
 available, an alternating electric current is much superior to a battery
 and break. This combination, introduced by W. Spottiswoode, allows the
 absorption in the apparatus of fig. 1 to be raised to about 80 c.c. per
@@ -140,8 +140,8 @@ quantities of argon and for determinations of the amount present in
 various samples of gas, e.g. in the gases expelled from solution in
 water. A convenient adjunct to this apparatus is a small voltameter,
 with the aid of which oxygen or hydrogen can be introduced at pleasure.
-The gradual elimination of the nitrogen is tested at a moment's notice
-with a miniature spectroscope. For this purpose a small Leyden jar is
+The [[Gradual|gradual]] elimination of the nitrogen is tested at a moment's notice
+with a miniature spectroscope. For this purpose a small [[Leyden]] jar is
 connected as usual to the secondary terminals, and if necessary the
 force of the discharge is moderated by the insertion of resistance in
 the primary circuit. When with a fairly wide slit the yellow line is no
@@ -167,7 +167,7 @@ advantage is attained by raising the pressure of the gases above
 atmosphere, but a capacious vessel is necessary. This may consist of a
 glass sphere of 50 litres' capacity, into the neck of which, presented
 downwards, the necessary tubes are fitted. The whole of the interior
-surface is washed with a fountain of alkali, kept in circulation by
+surface is washed with a [[Fountain|fountain]] of alkali, kept in circulation by
 means of a small centrifugal pump. In this apparatus, and with about one
 horse-power utilized at the transformer, the absorption of gas is 21
 litres per hour ("The Oxidation of Nitrogen Gas," _Trans. Chem. Soc._,
@@ -186,7 +186,7 @@ determination over mercury by A.M. Kellas (_Proc. Roy. Soc._ lix. p.
 66, 1895) gave 1.186 c.c. as the amount of argon present in 100 c.c. of
 mixed atmospheric nitrogen and argon. In the earlier stages of the
 inquiry, when it was important to meet the doubts which had been
-expressed as to the presence of the new gas in the atmosphere, blank
+expressed as to the presence of the new gas in the atmosphere, [[Blank|blank]]
 experiments were executed in which air was replaced by nitrogen from
 ammonium nitrite. The residual argon, derived doubtless from the water
 used to manipulate the gases, was but a small fraction of what would
@@ -197,11 +197,11 @@ have been obtained from a corresponding quantity of air.
 The other method by which nitrogen may be absorbed on a considerable
 scale is by the aid of magnesium. The metal in the form of thin turnings
 is charged into hard glass or iron tubes heated to a full red in a
-combustion furnace. Into this air, previously deprived of oxygen by
+[[Combustion|combustion]] furnace. Into this air, previously deprived of oxygen by
 red-hot copper and thoroughly dried, is led in a continuous stream. At
 this temperature the nitrogen combines with the magnesium, and thus the
 argon is concentrated. A still more potent absorption is afforded by
-calcium prepared _in situ_ by heating a mixture of magnesium dust with
+calcium prepared _in situ_ by heating a mixture of magnesium [[Dust|dust]] with
 thoroughly dehydrated quick-lime. The density of argon, prepared and
 purified by magnesium, was found by Sir William Ramsay to be 19.941 on
 the O = 16 scale. The volume actually weighed was 163 c.c. Subsequently
@@ -232,9 +232,9 @@ translatory, the ratio of specific heats must be 1.67. This is precisely
 the number found from the velocity of sound in argon as determined by
 Kundt's method, and it leaves no room for any sensible energy of
 rotatory or vibrational motion. The same value had previously been found
-for mercury vapour by Kundt and Warburg, and had been regarded as
+for mercury vapour by [[Kundt]] and Warburg, and had been regarded as
 confirmatory of the monatomic character attributed on chemical grounds
-to the mercury molecule. It may be added that helium has the same
+to the mercury molecule. It may be added that [[Helium|helium]] has the same
 character as argon in respect of specific heats (Ramsay, _Proc. Roy.
 Soc._ l. p. 86, 1895).
 
@@ -297,7 +297,7 @@ under the influence of the electric discharge with oxygen, hydrogen or
 nitrogen. Numerous other, attempts to induce combination also failed.
 Nor does it appear that any well-defined compound of argon has yet been
 prepared. It was found, however, by M.P.E. Berthelot that under the
-influence of the silent electric discharge, a mixture of benzene vapour
+influence of the silent electric discharge, a mixture of [[Benzene|benzene]] vapour
 and argon underwent contraction, with formation of a gummy product from
 which the argon could be recovered.
 
@@ -350,7 +350,7 @@ Now that liquid air is available in many laboratories, it forms an
 advantageous starting-point in the preparation of argon. Being less
 volatile than nitrogen, argon accumulates relatively as liquid air
 evaporates. That the proportion of oxygen increases at the same time is
-little or no drawback. The following analyses (Rayleigh, _Phil. Mag._,
+little or no [[Drawback|drawback]]. The following analyses (Rayleigh, _Phil. Mag._,
 June 1903) of the _vapour_ arising from liquid air at various stages of
 the evaporation will give an idea of the course of events:--
 
@@ -369,7 +369,7 @@ the evaporation will give an idea of the course of events:--
 
 FOOTNOTE:
 
-  [1] Sir James Dewar, _Compt. Rend._ (1904), 139, 261 and 241.
+  [1] Sir James [[Dewar]], _Compt. Rend._ (1904), 139, 261 and 241.
 
 ## See also
 

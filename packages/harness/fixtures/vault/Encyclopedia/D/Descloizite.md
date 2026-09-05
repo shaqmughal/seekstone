@@ -17,11 +17,11 @@ cherry-red to brown or black, and the crystals are transparent or
 translucent with a greasy lustre; the streak is orange-yellow to brown;
 specific gravity 5.9 to 6.2; hardness 3½. A variety known as
 cuprodescloizite is dull green in colour; it contains a considerable
-amount of copper replacing zinc and some arsenic replacing vanadium.
+amount of copper replacing zinc and some [[Arsenic|arsenic]] replacing vanadium.
 Descloizite occurs in veins of lead ores in association with
 pyromorphite, vanadinite, wulfenite, &c. Localities are the Sierra de
-Cordoba in Argentina, Lake Valley in Sierra county, New Mexico, Arizona,
-Phoenixville in Pennsylvania, and Kappel (Eisen-Kappel) near Klagenfurt
+Cordoba in [[Argentina]], Lake Valley in Sierra county, New Mexico, Arizona,
+Phoenixville in Pennsylvania, and Kappel (Eisen-Kappel) near [[Klagenfurt]]
 in Carinthia.
 
 Other names which have been applied to this species are vanadite,

@@ -14,12 +14,12 @@ streams. The principal are the Callan, the Tynan and the Tallwater,
 flowing into the Blackwater, which, after forming the boundary between
 this county and Tyrone, empties itself into the south-western angle of
 Lough Neagh. The Tara and Newtown-Hamilton, the Creggan and the Fleury,
-flow into the bay of Dundalk. The Cam or Camlin joins the Bann, which,
+flow into the bay of Dundalk. The [[Cam]] or Camlin joins the Bann, which,
 crossing the north-western corner of the county, falls into Lough Neagh
 to the east of the Blackwater. The Newry Canal, communicating with
 Carlingford Lough at Warrenpoint, 6 m. below Newry, proceeds northward
 through Co. Armagh for about 21 m., joining the Bann at Whitecoat. The
-Ulster Canal begins at Charlemont on the river Blackwater, near its
+Ulster Canal begins at [[Charlemont]] on the river Blackwater, near its
 junction with Lough Neagh, proceeding through the western border of the
 county, and passing thence to the south-west by Monaghan and Clones into
 Upper Lough Erne, after a course of 48 m. Part of Lough Neagh is in the
@@ -30,7 +30,7 @@ thick deposit of pale-coloured clays with lignites, which are probably
 of Pliocene age, and indicate a reduction of the area of the lake in
 still later times. Between this lowland and Armagh city, the early
 Cainozoic basalts form slightly higher ground, while on the west a strip
-of Trias appears, overlying Carboniferous Limestone. A rough
+of Trias appears, overlying Carboniferous [[Limestone]]. A rough
 conglomerate containing blocks of this latter rock forms the hills on
 which Armagh itself is built; this outlier is probably Permian. The
 Carboniferous Limestone beneath it and around it is red-brown instead of
@@ -38,7 +38,7 @@ grey, and is famous for its richness in fish remains. A hummocky
 irregular country spreads southward, where the Silurian axis is
 encountered, in continuation of the southern uplands of Scotland. Slates
 and fine-grained sandstones appear here freely through the glacial
-drift. In the south the granite core of this upland is revealed, and is
+[[Drift|drift]]. In the south the granite core of this upland is revealed, and is
 quarried extensively about Bessbrook. It is penetrated by far younger
 intrusive masses at Slieve Gullion and Forkill. These rocks, which
 include some highly siliceous lavas, form part of the Eocene series that
@@ -47,7 +47,7 @@ have been worked in various parts of the county from time to time.
 
 _Industries._--The soil of the northern portion of the county is a rich
 brown loam, on a substratum of clay or gravel. Towards Charlemont there
-is much reclaimable bog resting on a limestone substratum. The eastern
+is much reclaimable [[Bog|bog]] resting on a limestone substratum. The eastern
 portion of the county is generally of a light friable soil; the southern
 portion rocky and barren, with but little bog except in the
 neighbourhood of Newtown-Hamilton. The climate of Armagh is considered
@@ -66,11 +66,11 @@ though it has somewhat declined in modern times. It is not necessary to
 the promotion of this manufacture that the spinners and weavers should
 be congregated in large towns, or united in crowded and unwholesome
 factories. On the contrary, most of its branches can be carried on in
-the cottages of the peasantry. The men devote to the loom those hours
+the cottages of the peasantry. The men devote to the [[Loom|loom]] those hours
 which are not required for the cultivation of their little farms; the
 women spin and reel the yarn during the intervals of their other
-domestic occupations. Smooth lawns, pure springs and the open sky are
-necessary for perfecting the bleaching process. Hence the numerous
+domestic occupations. Smooth [[Lawn|lawns]], pure springs and the open sky are
+necessary for perfecting the [[Bleaching|bleaching]] process. Hence the numerous
 bleachers dwell in the country with their assistants and machinery. Such
 is the effect of this combination of agricultural occupations with
 domestic manufactures that the farmers are more than competent to supply
@@ -81,7 +81,7 @@ flour. Apples are grown in such quantities as to entitle the county to
 the title applied to it, the orchard of Ireland.
 
 Communications are monopolized by the Great Northern railway company,
-whose main line from Belfast divides at Portadown, sending off lines to
+whose main line from [[Belfast]] divides at Portadown, sending off lines to
 Omagh, to Clones and to Dublin. A branch from Omagh joins the Dublin
 line to Goraghwood, and from this line there is a branch to Newry in Co.
 Down. An electric tram-way connects Bessbrook, a town with important
@@ -99,8 +99,8 @@ city and the county town, pop. 7588), Lurgan (11,782), Portadown
 is divided into eight baronies, and contains twenty-five parishes and
 parts of parishes, the greater number of which are in the Protestant and
 Roman Catholic dioceses of Armagh, and a few in the Roman Catholic
-diocese of Dromore. The constabulary has its headquarters at Armagh, the
-county being divided into five districts. Assizes are held at Armagh,
+diocese of [[Dromore]]. The constabulary has its headquarters at Armagh, the
+county being divided into five districts. [[Assize|Assizes]] are held at Armagh,
 and quarter sessions at Armagh, Ballybot, Lurgan, Markethill and
 Newtown-Hamilton. The parliamentary divisions are three: mid, north and
 south, each returning one member.

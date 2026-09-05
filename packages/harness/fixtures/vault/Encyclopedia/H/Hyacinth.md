@@ -9,11 +9,11 @@ id: 42-2066
 
 HYACINTH (Gr. hyakinthos), also called JACINTH (through Ital.
 _giacinto_), one of the most popular of spring garden flowers. It was in
-cultivation prior to 1597, at which date it is mentioned by Gerard. Rea
+cultivation prior to 1597, at which date it is mentioned by [[Gerard]]. Rea
 in 1665 mentions several single and double varieties as being then in
 English gardens, and Justice in 1754 describes upwards of fifty
 single-flowered varieties, and nearly one hundred double-flowered ones,
-as a selection of the best from the catalogues of two then celebrated
+as a selection of the best from the [[Catalogue|catalogues]] of two then celebrated
 Dutch growers. One of the Dutch sorts, called La Reine de Femmes, a
 single white, is said to have produced from thirty-four to thirty-eight
 flowers in a spike, and on its first appearance to have sold for 50
@@ -24,7 +24,7 @@ mentioned as blooming well in water-glasses. Justice relates that he
 himself raised several very valuable double-flowered kinds from seeds,
 which many of the sorts he describes are noted for producing freely.
 
-The original of the cultivated hyacinth, _Hyacinthus orientalis_, a
+The original of the cultivated hyacinth, _[[Hyacinthus]] orientalis_, a
 native of Greece and Asia Minor, is by comparison an insignificant
 plant, bearing on a spike only a few small, narrow-lobed, washy blue
 flowers, resembling in form those of our common blue-bell. So great has
@@ -35,7 +35,7 @@ of a large number of flowers; the spikes produced by strong bulbs not
 unfrequently measure 6 to 9 in. in length and from 7 to 9 in. in
 circumference, with the flowers closely set on from bottom to top. Of
 late years much improvement has been effected in the size of the
-individual flowers and the breadth of their recurving lobes, as well as
+individual flowers and the breadth of their recurving [[Lobe|lobes]], as well as
 in securing increased brilliancy and depth of colour.
 
 The peculiarities of the soil and climate of Holland are so very
@@ -47,12 +47,12 @@ notion of the vast number imported into England annually may be formed
 from the fact that, for the supply of flowering plants to Covent Garden,
 one market grower alone produces from 60,000 to 70,000 in pots under
 glass, their blooming period being accelerated by artificial heat, and
-extending from Christmas onwards until they bloom naturally in the open
+extending from [[Christmas]] onwards until they bloom naturally in the open
 ground.
 
-In the spring flower garden few plants make a more effective display
-than the hyacinth. Dotted in clumps in the flower borders, and arranged
-in masses of well-contrasted colours In beds in the flower garden, there
+In the spring [[Flower|flower]] garden few plants make a more effective display
+than the hyacinth. Dotted in clumps in the flower [[Borders|borders]], and arranged
+in masses of well-contrasted [[Colours|colours]] In beds in the flower garden, there
 are no flowers which impart during their season--March and April--a
 gayer tone to the parterre. The bulbs are rarely grown a second time,
 either for indoor or outdoor culture, though with care they might be
@@ -79,7 +79,7 @@ for which is regulated in some respects by fashion.
   retains its qualities for six or seven years, but hyacinths are not
   planted upon the same place for two years successively, intermediary
   crops of narcissus, crocus or tulips being taken. A good compost for
-  hyacinths is sandy loam, decayed leaf-mould, rotten cow dung and sharp
+  hyacinths is sandy [[Loam|loam]], decayed leaf-mould, rotten cow dung and sharp
   sand in equal parts, the whole being collected and laid up in a heap
   and turned over occasionally. Well-drained beds made up of this soil,
   and refreshed with a portion of new compost annually, would grow the
@@ -99,7 +99,7 @@ for which is regulated in some respects by fashion.
   of loose earth and skin, ready for storing. It is the practice in
   Holland, about a month after the bloom, or when the tips of the leaves
   assume a withered appearance, to take up the bulbs, and to lay them
-  sideways on the ground, covering them with an inch or two of earth.
+  sideways on the ground, covering them with an [[Inch|inch]] or two of earth.
   About three weeks later they are again taken up and cleaned. In the
   store-room they should be kept dry, well-aired and apart from each
   other.
@@ -117,14 +117,14 @@ for which is regulated in some respects by fashion.
   place on a dry hard bed of ashes, and be covered over to a depth of 6
   or 8 in. with the same material or with fibre or soil; and when the
   roots are well developed, which will take from six to eight weeks,
-  they may be removed to a frame, and gradually exposed to light, and
+  they may be removed to a [[Frame|frame]], and gradually exposed to light, and
   then placed in a forcing pit in a heat of from 60 to 70°. When the
   flowers are fairly open, they may be removed to the greenhouse or
   conservatory.
 
   The hyacinth may be very successfully grown in glasses for ornament in
   dwelling-houses. The glasses are filled to the neck with rain or even
-  tap water, a few lumps of charcoal being dropped into them. The bulbs
+  tap water, a few lumps of [[Charcoal|charcoal]] being dropped into them. The bulbs
   are placed in the hollow provided for them, so that their base just
   touches the water. This may be done in September or October. They are
   then set in a dark cupboard for a few weeks till roots are freely
@@ -135,7 +135,7 @@ for which is regulated in some respects by fashion.
   the small glasses commonly used for crocuses; and for decorative
   purposes should be planted about five bulbs in a 5-in. pot, or in pans
   holding a dozen each. If grown for cut flowers it can be planted
-  thickly in boxes of any convenient size. It is highly esteemed during
+  thickly in [[Box|boxes]] of any convenient size. It is highly esteemed during
   the winter months by florists.
 
   The Spanish hyacinth (_H. amethystinus_) and _H. azureus_ are charming
@@ -146,15 +146,15 @@ for which is regulated in some respects by fashion.
   bulbous plants. Thus _Muscari botryoides_ is the grape hyacinth, 6
   in., blue or white, the handsomest; _M. moschatum_, the musk hyacinth,
   10 in., has peculiar livid greenish-yellow flowers and a strong musky
-  odour; _M. comosum_ var. _monstrosum_, the feather hyacinth, bears
+  odour; _M. comosum_ var. _monstrosum_, the [[Feather|feather]] hyacinth, bears
   sterile flowers broken up into a featherlike mass; _M. racemosum_, the
   starch hyacinth, is a native with deep blue plum-scented flowers. The
   Cape hyacinth is _Galtonia candicans_, a magnificent border plant, 3-4
   ft. high, with large drooping white bell-shaped flowers; the star
   hyacinth, _Scilla amoena_; the Peruvian hyacinth or Cuban lily, _S.
   peruviana_, a native of the Mediterranean region, to which Linnaeus
-  gave the species name _peruviana_ on a mistaken assumption of its
-  origin; the wild hyacinth or blue-bell, known variously as _Endymion
+  gave the species name _peruviana_ on a mistaken [[Assumption|assumption]] of its
+  origin; the wild hyacinth or blue-bell, known variously as _[[Endymion]]
   nonscriptum_, _Hyacinthus nonscriptus_ or _Scilla nutans_; the wild
   hyacinth of western North America, _Camassia esculenta_. They all
   flourish in good garden soil of a gritty nature.

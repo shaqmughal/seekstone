@@ -13,7 +13,7 @@ including the emperor. Their chief duty was to offer annually public
 sacrifice for the fertility of the fields (Varro, _L. L_. v. 85). It is
 generally held that the college was founded by Romulus (see ACCA
 LARENTIA). This legend probably arose from the connexion of Acca
-Larentia, as _mater Larum_, with the Lares who had a part in the
+Larentia, as _mater Larum_, with the [[Lar|Lares]] who had a part in the
 religious ceremonies of the Arvales. But apart from this, there is proof
 of the high antiquity of the college, which was said to have been older
 than Rome itself, in the verbal forms of the song with which, down to
@@ -41,7 +41,7 @@ The ceremony of the first day took place in Rome itself, in the house of
 the magister or his deputy, or on the Palatine in the temple of the
 emperors, where at sunrise fruits and incense were offered to the
 goddess. A sumptuous banquet took place, followed by a distribution of
-doles and garlands. On the second and principal day of the festival the
+[[Dol|doles]] and garlands. On the second and principal day of the festival the
 ceremonies were conducted in the grove of the Dea Dia. They included a
 dance in the temple of the goddess, at which the song of the brotherhood
 was sung, in language so antiquated that it was hardly intelligible (see
@@ -58,11 +58,11 @@ as that offered on the first day. The Arvales also offered sacrifice and
 solemn vows on behalf of the imperial family on the 3rd of January and
 on other extraordinary occasions. The brotherhood is said to have lasted
 till the time of Theodosius. The British Museum contains a bust of
-Marcus Aurelius in the dress of a Frater Arvalis.
+Marcus Aurelius in the [[Dress|dress]] of a Frater Arvalis.
 
-  Marini, _Atti e Monumenti de' Fratri Arvali_ (1795); Hoffmann, _Die
+  [[Marini]], _Atti e Monumenti de' Fratri Arvali_ (1795); Hoffmann, _Die
   A._ (1858): Oldenberg, _De Sacris Fratrum A_. (1875); Bergk, _Das Lied
-  der Arvalbruder_ (1856); Breal, "Le Chant des Arvals" in _Mem. de la
+  der Arvalbruder_ (1856); Breal, "Le [[Chant]] des Arvals" in _Mem. de la
   Soc. de Linguistique_ (1881); Edon, _Nouvelle Etude sur le Chant
   Lemural_ (1884); _Corpus Inscriptionum Latinarum_, vi. 2023-2119;
   Henzen, _Acta Fratrum Arvalium_ (1874).

@@ -59,7 +59,7 @@ among them a machicolated tower, which has been restored, and a few
 curious old houses dating from the 12th to the 17th century. In front of
 the hospital there is a fine medieval porch under which a street passes.
 Of the modern monuments the statue of Marie Joseph Paul, marquis of La
-Fayette, and a fountain in the Place de Breuil, executed in marble,
+Fayette, and a [[Fountain|fountain]] in the Place de Breuil, executed in marble,
 bronze and syenite, may be specially mentioned. The museum, named after
 Charles Crozatier, a native sculptor and metal-worker to whose
 munificence it principally owes its existence, contains antiquities,
@@ -77,7 +77,7 @@ Le Puy is the seat of a bishopric, a prefect and a court of assizes, and
 has tribunals of first instance and of commerce, a board of trade
 arbitration, a chamber of commerce, and a branch of the Bank of France.
 Its educational institutions include ecclesiastical seminaries, lycées
-and training colleges for both sexes and municipal industrial schools of
+and training colleges for both sexes and municipal [[Industrial School|industrial schools]] of
 drawing, architecture and mathematics applied to arts and industries.
 The principal manufacture is that of lace and guipure (in woollen,
 linen, cotton, silk and gold and silver threads), and distilling,

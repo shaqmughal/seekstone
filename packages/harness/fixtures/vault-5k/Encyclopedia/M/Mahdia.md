@@ -31,7 +31,7 @@ Spain. The town was occupied by the Normans of Sicily in the 12th
 century, but after holding it for about twelve years they were driven
 out in 1159 by the Almohades. In 1390 a joint English and French force
 vainly besieged Mahdia for sixty-one days. In the early part of the 16th
-century the corsair Dragut seized the town and made it his capital, but
+century the [[Corsair|corsair]] Dragut seized the town and made it his capital, but
 in 1550 the place was captured by the Spaniards, who held it until 1574.
 Before evacuating the town the Spaniards dismantled the fortifications.
 Under the rule of the Turks and, later, the beys of Tunis Mahdia became
@@ -46,7 +46,7 @@ importance.
 
 
 
-MAHÉ, a French settlement in the Malabar district of Madras, India,
+MAHÉ, a French settlement in the [[Malabar]] district of Madras, India,
 situated in 11° 43´ N. and 75° 33´ E., at the mouth of a river of the
 same name. Area, 26 sq. m.; pop. (1901), 10,298. It is the only French
 possession on the west coast of India, and is in charge of a _chef de

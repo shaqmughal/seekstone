@@ -26,12 +26,12 @@ century B.C.
 
 
 
-ARISTIDES [[Greek: Aristeides]] (c. 530-468 B.C.), Athenian statesman,
+[[Aristides|ARISTIDES]] [[Greek: Aristeides]] (c. 530-468 B.C.), Athenian statesman,
 called "the Just," was the son of Lysimachus, and a member of a family
 of moderate fortune. Of his early life we are told merely that he became
 a follower of the statesman Cleisthenes and sided with the aristocratic
 party in Athenian politics. He first comes into notice as strategus in
-command of his native tribe Antiochis at Marathon, and it was no doubt
+command of his native tribe Antiochis at [[Marathon]], and it was no doubt
 in consequence of the distinction which he then achieved that he was
 elected chief archon for the ensuing year (489-488). In pursuance of his
 conservative policy which aimed at maintaining Athens as a land power,
@@ -59,7 +59,7 @@ was in command of the Athenian squadron off Byzantium, and so far won
 the confidence of the Ionian allies that, after revolting from the
 Spartan admiral Pausanias, they offered him the chief command and left
 him with absolute discretion in fixing the contributions of the newly
-formed confederacy (see DELIAN LEAGUE). His assessment was universally
+formed confederacy (see [[Delian League|DELIAN LEAGUE]]). His assessment was universally
 accepted as equitable, and continued as the basis of taxation for the
 greater part of the league's duration; it was probably from this that he
 won the title of "the Just." Aristides soon left the command of the

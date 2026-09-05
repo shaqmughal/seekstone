@@ -3,9 +3,9 @@
 ELECTROKINETICS, that part of electrical science which is concerned with
 the properties of electric currents.
 
-_Classification of Electric Currents._--Electric currents are classified
+_[[Classification]] of Electric Currents._--Electric currents are classified
 into (a) conduction currents, (b) convection currents, (c) displacement
-or dielectric currents. In the case of conduction currents electricity
+or [[Dielectric|dielectric]] currents. In the case of conduction currents electricity
 flows or moves through a stationary material body called the conductor.
 In convection currents electricity is carried from place to place with
 and on moving material bodies or particles. In dielectric currents there
@@ -19,7 +19,7 @@ current is the sum of each separately. In the case of conduction
 currents the circuit consists of a conductor immersed in a
 non-conductor, and may take the form of a thin wire or cylinder, a
 sheet, surface or solid. Electric conduction currents may take place in
-space of one, two or three dimensions, but for the most part the
+space of one, two or three [[Dimension|dimensions]], but for the most part the
 circuits we have to consider consist of thin cylindrical wires or tubes
 of conducting material surrounded with an insulator; hence the case
 which generally presents itself is that of electric flow in space of one
@@ -83,7 +83,7 @@ that any periodic curve having any wave form can be imitated by the
 superposition of simple sine currents differing in maximum value and in
 phase.
 
-_Definitions of Unit Electric Current._--In electrokinetic
+_[[Definition|Definitions]] of Unit Electric Current._--In electrokinetic
 investigations we are most commonly limited to the cases of
 unidirectional continuous and constant currents (C.C. or D.C.), or of
 simple periodic currents, or alternating currents of sine form (A.C.). A
@@ -119,7 +119,7 @@ the electromagnetic unit was too large for most purposes, whilst the
 electrostatic unit was too small; hence a practical unit of current
 called 1 ampere was selected, intended originally to be {1/10} of the
 absolute electromagnetic C.G.S. unit of current as above defined. The
-practical unit of current, called the international ampere, is, however,
+practical unit of current, called the [[International|international]] ampere, is, however,
 legally defined at the present time as the continuous unidirectional
 current which when flowing through a neutral solution of silver nitrate
 deposits in one second on the cathode or negative pole 0.001118 of a
@@ -152,7 +152,7 @@ continuous current the value of the current in amperes (A) is obtained
 as the quotient of the electromotive force acting in the circuit
 reckoned in volts by the resistance in ohms, or A = V/R. Ohm established
 his law by a course of reasoning which was similar to that on which
-J.B.J. Fourier based his investigations on the uniform motion of heat in
+J.B.J. [[Fourier]] based his investigations on the uniform motion of heat in
 a conductor. As a matter of fact, however, Ohm's law merely states the
 direct proportionality of steady current to steady electromotive force
 in a circuit, and asserts that this ratio is governed by the numerical
@@ -294,14 +294,14 @@ lines.
   good also for a long straight solenoid provided its length is large
   compared with its diameter. It can be shown that if insulated wire is
   wound round a sphere, the turns being all parallel to lines of
-  latitude, the magnetic force in the interior is constant and the lines
+  [[Latitude|latitude]], the magnetic force in the interior is constant and the lines
   of force therefore parallel. The magnetic force at a point outside a
   conductor conveying a current can by various means be measured or
   compared with some other standard magnetic forces, and it becomes then
   a means of measuring the current. Instruments called galvanometers and
   ammeters for the most part operate on this principle.
 
-_Thermal Effects of Currents._--J.P. Joule proved that the heat produced
+_Thermal Effects of Currents._--J.P. [[Joule]] proved that the heat produced
 by a constant current in a given time in a wire having a constant
 resistance is proportional to the square of the strength of the current.
 This is known as Joule's law, and it follows, as already shown, as an
@@ -407,8 +407,8 @@ insulated wire passing up it.
 
 [Illustration: FIG. 5.]
 
-Ampère devised certain crucial experiments, and the theory deduced from
-them is based upon four facts and one assumption.[2] He showed (1) that
+Ampère devised certain [[Crucial|crucial]] experiments, and the theory deduced from
+them is based upon four facts and one [[Assumption|assumption]].[2] He showed (1) that
 wire conveying a current bent back on itself produced no action upon a
 proximate portion of a movable astatic circuit; (2) that if the return
 wire was bent zig-zag but close to the outgoing straight wire the
@@ -473,7 +473,7 @@ distance between elements of conductors conveying the electric currents.
 Faraday's researches and the discovery of the fact that the insulating
 medium is the real seat of the operations necessitates a change in the
 point of view from which we regard the facts discovered by Ampère.
-Maxwell showed that in any field of magnetic force there is a tension
+[[Maxwell]] showed that in any field of magnetic force there is a tension
 along the lines of force and a pressure at right angles to them; in
 other words, lines of magnetic force are like stretched elastic threads
 which tend to contract.[3] If, therefore, two conductors lie parallel
@@ -484,11 +484,11 @@ circuits together. If, however, the currents are in opposite directions
 then the lateral pressure of the similarly contracted lines of force
 between them pushes the conductors apart. Practical application of
 Ampère's discoveries was made by W.E. Weber in inventing the
-electrodynamometer, and later Lord Kelvin devised ampere balances for
+electrodynamometer, and later Lord [[Kelvin]] devised ampere [[Balance|balances]] for
 the measurement of electric currents based on the attraction between
 coils conveying electric currents.
 
-_Induction of Electric Currents._--Faraday[4] in 1831 made the important
+_[[Induction]] of Electric Currents._--[[Faraday]][4] in 1831 made the important
 discovery of the induction of electric currents (see ELECTRICITY). If
 two conductors are placed parallel to each other, and a current in one
 of them, called the primary, started or stopped or changed in strength,
@@ -496,7 +496,7 @@ every such alteration causes a transitory current to appear in the other
 circuit, called the secondary. This is due to the fact that as the
 primary current increases or decreases, its own embracing magnetic field
 alters, and lines of magnetic force are added to or subtracted from its
-fields. These lines do not appear instantly in their place at a
+[[Fields|fields]]. These lines do not appear instantly in their place at a
 distance, but are propagated out from the wire with a velocity equal to
 that of light; hence in their outward progress they cut through the
 secondary circuit, just as ripples made on the surface of water in a
@@ -513,15 +513,15 @@ set up in that circuit which is proportional at any instant to the rate
 at which the total magnetic flux linked with it is changing. Hence if Z
 represents the total number of lines of magnetic force linked with a
 circuit of N turns, then -N(dZ/dt) represents the electromotive force
-set up in that circuit. The operation of the induction coil (q.v.) and
+set up in that circuit. The operation of the [[Induction Coil|induction coil]] (q.v.) and
 the transformer (q.v.) are based on this discovery. Faraday also found
 that if a copper disk A (fig. 6) is rotated between the poles of a
 magnet NO so that the disk moves with its plane perpendicular to the
 lines of magnetic force of the field, it has created in it an
 electromotive force directed from the centre to the edge or vice versa.
-The action of the dynamo (q.v.) depends on similar processes, viz. the
+The action of the [[Dynamo|dynamo]] (q.v.) depends on similar processes, viz. the
 cutting of the lines of magnetic force of a constant field produced by
-certain magnets by certain moving conductors called armature bars or
+certain magnets by certain moving conductors called [[Armature|armature]] bars or
 coils in which an electromotive force is thereby created.
 
 [Illustration: FIG 6.]
@@ -546,7 +546,7 @@ coils in which an electromotive force is thereby created.
   itself. For the results of such calculations on various forms of
   circuit the reader must be referred to special treatises.
 
-  H. von Helmholtz, and later on Lord Kelvin, showed that the facts of
+  H. von [[Helmholtz]], and later on Lord Kelvin, showed that the facts of
   induction of electric currents discovered by Faraday could have been
   predicted from the electrodynamic actions discovered by Ampère
   assuming the principle of the conservation of energy. Helmholtz takes
@@ -568,8 +568,8 @@ coils in which an electromotive force is thereby created.
   circuit. This is the effect discovered by Faraday.[5]
 
 _Oscillatory Currents._--In considering the motion of electricity in
-conductors we find interesting phenomena connected with the discharge of
-a condenser or Leyden jar (q.v.). This problem was first mathematically
+conductors we find interesting phenomena connected with the [[Discharge|discharge]] of
+a condenser or [[Leyden]] jar (q.v.). This problem was first mathematically
 treated by Lord Kelvin in 1853 (_Phil. Mag._, 1853, 5, p. 292).
 
   If a conductor of capacity C has its terminals connected by a wire of
@@ -580,7 +580,7 @@ treated by Lord Kelvin in 1853 (_Phil. Mag._, 1853, 5, p. 292).
   that instant is ½q²/C, and the energy associated with the circuit is
   ½L(dq/dt)², and the rate of dissipation of energy by resistance is
   R(dq/dt)², since dq/dt = i is the discharge current. Hence we can
-  construct an equation of energy which expresses the fact that at any
+  construct an [[Equation|equation]] of energy which expresses the fact that at any
   instant the power given out by the condenser is partly stored in the
   circuit and partly dissipated as heat in it. Mathematically this is
   expressed as follows:--
@@ -647,8 +647,8 @@ certain kind they create electromagnetic waves (see ELECTRIC WAVES) in
 the dielectric surrounding the oscillator, and an additional interest
 was given to them by their application to telegraphy. If a Leyden jar
 and a circuit of low resistance but some inductance in series with it
-are connected across the secondary spark gap of an induction coil, then
-when the coil is set in action we have a series of bright noisy sparks,
+are connected across the secondary spark [[Gap|gap]] of an induction coil, then
+when the coil is set in action we have a series of [[Bright|bright]] noisy sparks,
 each of which consists of a train of oscillatory electric discharges
 from the jar. The condenser becomes charged as the secondary
 electromotive force of the coil is created at each break of the primary
@@ -752,7 +752,7 @@ relative magnitudes and phase differences of these currents.
   the solution for each cycle symbol, and therefore for the current in
   each branch. The solution giving the current in such branch of the
   network is therefore always in the form of the quotient of two
-  determinants. The solution of the well-known problem of finding the
+  [[Determinant|determinants]]. The solution of the well-known problem of finding the
   current in the galvanometer circuit of the arrangement of linear
   conductors called Wheatstone's Bridge is thus easily obtained. For if
   we call the cycles (see fig. 7) (x + y), y and z, and the resistances
@@ -776,13 +776,13 @@ relative magnitudes and phase differences of these currents.
   have to consider certain points called sources at which the current
   flows into the sheet, and certain points called sinks at which it
   leaves. We may investigate, first, the simple case of one source and
-  one sink in an infinite plane sheet of thickness [delta] and
+  one sink in an [[Infinite|infinite]] plane sheet of thickness [delta] and
   conductivity k. Take any point P in the plane at distances R and r
   from the source and sink respectively. The potential V at P is
   obviously given by
 
               Q            r1
-    V = -------------log_e --,
+    V = -------------[[Log|log]]_e --,
         2[pi]k[delta]      r2
 
   where Q is the quantity of electricity supplied by the source per
@@ -854,7 +854,7 @@ investigations. The question whether a statically electrified body in
 motion creates a magnetic field is of fundamental importance.
 Experiments to settle it were first undertaken in the year 1876 by H.A.
 Rowland, at a suggestion of H. von Helmholtz.[8] After preliminary
-experiments, Rowland's first apparatus for testing this hypothesis was
+experiments, Rowland's first apparatus for testing this [[Hypothesis|hypothesis]] was
 constructed, as follows:--An ebonite disk was covered with radial strips
 of gold-leaf and placed between two other metal plates which acted as
 screens. The disk was then charged with electricity and set in rapid
@@ -888,7 +888,7 @@ observation recorded by R.W. Wood (_Phil. Mag._, 1902, 2, p. 659)
 provides a confirmatory fact. He noticed that if carbon-dioxide strongly
 compressed in a steel bottle is allowed to escape suddenly the cold
 produced solidifies some part of the gas, and the issuing jet is full of
-particles of carbon-dioxide snow. These by friction against the nozzle
+particles of carbon-dioxide snow. These by [[Friction|friction]] against the nozzle
 are electrified positively. Wood caused the jet of gas to pass through a
 glass tube 2.5 mm. in diameter, and found that these particles of
 electrified snow were blown through it with a velocity of 2000 ft. a
@@ -901,7 +901,7 @@ _Nature of an Electric Current._--The question, What is an electric
 current? is involved in the larger question of the nature of
 electricity. Modern investigations have shown that negative electricity
 is identical with the electrons or corpuscles which are components of
-the chemical atom (see MATTER and ELECTRICITY). Certain lines of
+the chemical [[Atom|atom]] (see MATTER and ELECTRICITY). Certain lines of
 argument lead to the conclusion that a solid conductor is not only
 composed of chemical atoms, but that there is a certain proportion of
 free electrons present in it, the electronic density or number per unit
@@ -923,20 +923,20 @@ force across the conductor.
   Electricity_ (3 vols., London, 1839, 1844, 1855); J. Clerk Maxwell,
   _Electricity and Magnetism_ (2 vols., Oxford, 1892); W. Watson and
   S.H. Burbury, _Mathematical Theory of Electricity and Magnetism_, vol.
-  ii. (Oxford, 1889); E. Mascart and J. Joubert, _A Treatise on
-  Electricity and Magnetism_ (2 vols., London, 1883); A. Hay,
+  ii. (Oxford, 1889); E. Mascart and J. [[Joubert]], _A Treatise on
+  Electricity and Magnetism_ (2 vols., London, 1883); A. [[Hay]],
   _Alternating Currents_ (London, 1905); W.G. Rhodes, _An Elementary
-  Treatise on Alternating Currents_ (London, 1902); D.C. Jackson and
+  Treatise on Alternating Currents_ (London, 1902); D.C. [[Jackson]] and
   J.P. Jackson, _Alternating Currents and Alternating Current Machinery_
   (1896, new ed. 1903); S.P. Thompson, _Polyphase Electric Currents_
   (London, 1900); _Dynamo-Electric Machinery_, vol. ii., "Alternating
-  Currents" (London, 1905); E.E. Fournier d'Albe, _The Electron Theory_
+  Currents" (London, 1905); E.E. [[Fournier]] d'Albe, _The Electron Theory_
   (London, 1906).     (J. A. F.)
 
 
 FOOTNOTES:
 
-  [1] See J.A. Fleming, _The Alternate Current Transformer_, vol. i. p.
+  [1] See J.A. [[Fleming]], _The Alternate Current Transformer_, vol. i. p.
     519.
 
   [2] See Maxwell, _Electricity and Magnetism_, vol. ii. chap. ii.
@@ -956,7 +956,7 @@ FOOTNOTES:
     (2nd ed.), vol. i. p. 374, § 280, 282b.
 
   [8] See _Berl. Acad. Ber._, 1876, p. 211; also H.A. Rowland and C.T.
-    Hutchinson, "On the Electromagnetic Effect of Convection Currents,"
+    [[Hutchinson]], "On the Electromagnetic Effect of Convection Currents,"
     _Phil. Mag._, 1889, 27, p. 445.
 
 ## See also

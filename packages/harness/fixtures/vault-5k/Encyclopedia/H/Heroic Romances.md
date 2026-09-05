@@ -29,13 +29,13 @@ the chivalrous actions of the heroes, it was always hinted that they
 were well-known public characters of the day in a romantic disguise.
 
 In the _Astree_ of Honore d'Urfe, which was a pure pastoral, in the
-religious romances of Pierre Camus (1582-1653), in the comic _Francion_
+religious romances of Pierre [[Camus]] (1582-1653), in the comic _Francion_
 of Charles Sorel, piquancy had been given to the recital by this belief
 that real personages could be recognized under the disguises. But in the
 _Carithee_ of Gomberville (1621) we have a pastoral which is already
 beginning to be a heroic romance, and a book in which, under a travesty
 of Roman history, an appeal is made to an extravagantly chivalrous
-enthusiasm. A further development was seen in the _Polyxene_ (1623) of
+[[Enthusiasm|enthusiasm]]. A further development was seen in the _Polyxene_ (1623) of
 Francois de Moliere, and the _Endymion_ (1624) of Gombauld; in the
 latter the elderly queen, Marie de' Medici, was celebrated under the
 disguise of Diana, for whom a beautiful shepherd of Caria (the author
@@ -51,7 +51,7 @@ visits all the sea-coasts of the world, the most remote as well as the
 most fabulous, in search of an ineffable princess, Alcidiane. This
 absurd and pretentious, yet very original piece of invention enjoyed an
 immense success, and historical romances of a similar class competed for
-the favour of the public. There was an equal amount of geography and
+the favour of the public. There was an equal amount of [[Geography|geography]] and
 more of ancient history in the _Ariane_ (1632) of Desmarets de
 Saint-Sorlin (1595-1676), a book which, long neglected, has in late
 years been rediscovered, and which has been greeted by M. Paul Morillot
@@ -80,7 +80,7 @@ equalled by their magnificent loyalty. These books were written with an
 aim that was partly didactic. Their object was to entertain the ladies
 and to gratify a taste for endlessly wire-drawn sentimentality, but it
 was also to teach fortitude and grandeur of soul and to inculcate
-lessons of practical chivalry. La Calprenede followed up the success of
+lessons of practical [[Chivalry|chivalry]]. La Calprenede followed up the success of
 his _Cassandre_ with a _Cleopatre_ (1647) in twelve volumes, and a
 _Faramond_ (1661) which he did not live to finish. He became more
 extravagant, more rhapsodical as he proceeded, and he lost all the
@@ -101,8 +101,8 @@ extravagant, tempestuous and absurd elements of the age, and whose
 elephantine romances remain as portents in the history of literature.
 These novels--there are five of them--were signed by Georges de Scudery,
 but it is believed that all were in the main written by Madeleine. The
-earliest was _Ibrahim, ou l'Illustre Bassa_ (1641); it was followed by
-_Le Grand Cyrus_ (1648-1653) and the final, and most preposterous member
+earliest was _Ibrahim, ou l'Illustre [[Bassa]]_ (1641); it was followed by
+_Le Grand [[Cyrus]]_ (1648-1653) and the final, and most preposterous member
 of the series was _Clelie_ (1649-1654). The romances of Mlle de Scudery
 (for to her we may safely attribute them) are much inferior in style to
 those of la Calprenede. They are pretentious, affected and sickly. The
@@ -116,7 +116,7 @@ and a geographical symbol, therefore, of the progress of love, with its
 city of Tender-upon-Esteem, its sea of Enmity, its river of Inclination,
 its rock-built citadel of Pride, its cold lake of Indifference, is a
 miracle of elaborate and incongruous ingenuity. But, amusing as it is,
-it shows into what depths of puerility the amorous casuistry of these
+it shows into what depths of puerility the amorous [[Casuistry|casuistry]] of these
 romances had fallen. These novels formed the chief topic of conversation
 and of correspondence in the literary society which gathered at and
 around the Hotel de Rambouillet, and in the personages of Mlle de
@@ -135,8 +135,8 @@ and afterwards Earl of Orrery (1621-1679), which was greatly admired by
 Dorothy Osborne and her correspondents. Addison speaks in the
 "Spectator" of the popularity of all these huge books, "the _Grand
 Cyrus_, with a pin stuck in one of the middle leaves, _Clelie_, which
-opened of itself in the place that describes two lovers in a bower."
-When the drama, and in particular tragedy, was reinstituted in England,
+opened of itself in the place that describes two lovers in a [[Bower|bower]]."
+When the [[Drama|drama]], and in particular tragedy, was reinstituted in England,
 sentimental readers found a field for their emotions on the stage, and
 the heroic romances immediately began to go out of fashion. They
 lingered, however, for a quarter of a century more, and M. Jusserand has

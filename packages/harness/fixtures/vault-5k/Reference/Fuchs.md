@@ -22,7 +22,7 @@ school of medicine, and published several Latin translations of
 treatises by its founder and by Hippocrates. But his most important
 publication was _De historia stirpium commentarii insignes_ (Basel,
 1542), a work illustrated with more than five hundred excellent outline
-illustrations, including figures of the common foxglove and of another
+illustrations, including figures of the common [[Foxglove|foxglove]] and of another
 species of the genus _Digitalis_, which was so named by him.
 
 ## References

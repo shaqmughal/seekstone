@@ -40,12 +40,12 @@ which succeed the _Roland_, are unlike that great work in having no
 plan, no system of composition. They are improvisations which wander on
 at their own pace, whither accident may carry them. This mass of
 medieval literature is monotonous, primitive and superficial. As Leon
-Gautier has said, in the rudimentary psychology of the chansons de
+[[Gautier]] has said, in the rudimentary psychology of the chansons de
 geste, man is either entirely good or entirely bad. There are no fine
 shades, no observation of character. The language in which these poems
 are composed is extremely simple, without elaboration, without ornament.
 Everything is sacrificed to the telling of a story by a narrator of
-little skill, who helps himself along by means of a picturesque, but
+little skill, who [[Helps|helps]] himself along by means of a picturesque, but
 almost childish fancy, and a primitive sentiment of rhythm. Two great
 merits, however, all the best of these poems possess, force and
 lucidity; and they celebrate, what they did much to create, that

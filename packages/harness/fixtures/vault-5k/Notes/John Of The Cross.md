@@ -15,7 +15,7 @@ verses are distinguished for their rapturous ecstasy and beauty of
 expression.
 
   Some of his poems have been translated with great success by Arthur
-  Symons in _Images of Good and Evil_; the most convenient edition of
+  Symons in _[[Image|Images]] of Good and Evil_; the most convenient edition of
   his works, which have been frequently reprinted, is that contained in
   vol. xvi. of the _Biblioteca de autores españoles_.
 

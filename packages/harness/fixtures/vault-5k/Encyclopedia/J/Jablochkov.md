@@ -13,9 +13,9 @@ was born at Serdobsk, in the government of Saratov, on the 14th of
 September 1847, and educated at St Petersburg. In 1871 he was appointed
 director of the telegraph lines between Moscow and Kursk, but in 1875 he
 resigned his position in order to devote himself to his researches on
-electric lighting by arc lamps, which he had already taken up. In 1876
+electric lighting by arc [[Lamp|lamps]], which he had already taken up. In 1876
 he settled in Paris, and towards the end of the year brought out his
-famous "candles," known by his name, which consisted of two carbon
+famous "[[Candle|candles]]," known by his name, which consisted of two [[Carbon|carbon]]
 parallel rods, separated by a non-conducting partition; alternating
 currents were employed, and the candle was operated by a high-resistance
 carbon match connecting the tips of the rods, a true arc forming between

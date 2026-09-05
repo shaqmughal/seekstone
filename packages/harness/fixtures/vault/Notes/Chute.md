@@ -4,7 +4,7 @@ CHUTE (Fr. for "fall," of water or the like; pronounced as "shoot," with
 which in meaning it is identical), a channel or trough, artificial or
 natural, down which objects such as timber, coal or grain may slide from
 a higher to a lower level. The word is also used of a channel cut in a
-dam or a river for the passage of floating timber, and in Louisiana and
+dam or a river for the passage of floating timber, and in [[Louisiana]] and
 on the Mississippi of a channel at the side of a river, or narrow way
 between an island and the shore. The "Water-Chute" or water tobogganing,
 is a Canadian pastime, which has been popular in London and elsewhere.

@@ -15,10 +15,10 @@ Sea, in 41 deg. 39' N. and 41 deg. 38' E. Pop. (1875) 2000; (1900)
 it by several small rivers. The town is protected by strong forts, and
 the anchorage has been greatly improved by artificial works. Batum
 possesses a cathedral, finished in 1903, and the Alexander Park, with
-sub-tropical vegetation. The climate is very warm, lemon and orange
+sub-tropical vegetation. The climate is very warm, [[Lemon|lemon]] and orange
 trees, magnolias and palms growing in the open air; but it is at the
 same time extremely wet and changeable. The annual rainfall (90 in.) is
-higher than anywhere in Caucasia, but it is very unequally distributed
+higher than anywhere in [[Caucasia]], but it is very unequally distributed
 (23 in. in August and September, sometimes 16 in. in a couple of days),
 and the place is still most unhealthy. The town is connected by rail
 with the main Transcaucasian railway to Tiflis, and is the chief port

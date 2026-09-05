@@ -16,7 +16,7 @@ sugar, and Diabetes Insipidus, or Polyuria, where the urine is simply
 increased in quantity, and contains no abnormal ingredient. This latter,
 however, must be distinguished from the polyuria due to chronic granular
 kidney, lardaceous disease of the kidney, and also occurring in certain
-cases of hysteria.
+cases of [[Hysteria|hysteria]].
 
 _Diabetes mellitus_ is the disease to which the term is most commonly
 applied, and is by far the more serious and important ailment. It is one
@@ -49,7 +49,7 @@ certain analytical processes. The quantity of sugar passed may vary from
 a few ounces to two or more pounds per diem, and it is found to be
 markedly increased after saccharine or starchy food has been taken.
 Sugar may also be found in the blood, saliva, tears, and in almost all
-the excretions of persons suffering from this disease. One of the most
+the [[Excretion|excretions]] of persons suffering from this disease. One of the most
 distressing symptoms is intense thirst, which the patient is constantly
 seeking to allay, the quantity of liquid consumed being in general
 enormous, and there is usually, but not invariably, a voracious
@@ -60,7 +60,7 @@ He suffers from increasing muscular weakness, the temperature of his
 body is lowered, and the skin is dry and harsh. There is often a
 peculiar flush on the face, not limited to the malar eminences, but
 extending up to the roots of the hair. The teeth are loosened or decay,
-there is a tendency to bleeding from the gums, while dyspeptic symptoms,
+there is a tendency to bleeding from the [[Gum|gums]], while dyspeptic symptoms,
 constipation and loss of sexual power are common accompaniments. There
 is in general great mental depression or irritability.
 
@@ -70,13 +70,13 @@ complications of the disease are many and serious. It may cause impaired
 vision by weakening the muscles of accommodation, or by lessening the
 sensitiveness of the retina to light. Also cataract is very common. Skin
 affections of all kinds may occur and prove very intractable. Boils,
-carbuncles, cellulitis and gangrene are all apt to occur as life
+[[Carbuncle|carbuncles]], cellulitis and [[Gangrene|gangrene]] are all apt to occur as life
 advances, though gangrene is much more frequent in men than in women.
 Diabetics are especially liable to phthisis and pneumonia, and gangrene
-of the lungs may set in if the patient survives the crisis in the latter
+of the [[Lung|lungs]] may set in if the patient survives the crisis in the latter
 disease. Digestive troubles of all kinds, kidney diseases and heart
 failure due to fatty heart are all of common occurrence. Also patients
-seem curiously susceptible to the poison of enteric fever, though the
+seem curiously susceptible to the poison of enteric [[Fever|fever]], though the
 attack usually runs a mild course. The sugar temporarily disappears
 during the fever. But the most serious complication of all is known as
 diabetic coma, which is very commonly the final cause of death. The
@@ -91,7 +91,7 @@ days, but is almost invariably the precursor of death.
 
 Diabetes is a very fatal form of disease, recovery being exceedingly
 rare. Over 50% die of coma, another 25% of phthisis or pneumonia, and
-the remainder of Bright's disease, cerebral haemorrhage, gangrene, &c.
+the remainder of [[Bright'S Disease|Bright's disease]], cerebral [[Haemorrhage|haemorrhage]], gangrene, &c.
 The most favourable cases are those in which the patient is advanced in
 years, those in which it is associated with obesity or gout, and where
 the social conditions are favourable. A few cures have been recorded in
@@ -102,7 +102,7 @@ treatment to mitigate the severity of the symptoms and to prolong life.
 
 There are two distinct lines of treatment, that of diet and that of
 drugs, but each must be modified and determined entirely by the
-idiosyncrasy of the patient, which varies in this condition between very
+[[Idiosyncrasy|idiosyncrasy]] of the patient, which varies in this condition between very
 wide limits. That of diet is of primary importance inasmuch as it has
 been proved beyond question that certain kinds of food have a powerful
 influence in aggravating the disease, more particularly those consisting
@@ -111,14 +111,14 @@ that the various methods of treatment proposed aim at the elimination as
 far as possible of these constituents from the diet. Hence it is
 recommended that such articles as bread, potatoes and all farinaceous
 foods, turnips, carrots, parsnips and most fruits should be avoided;
-while animal food and soups, green vegetables, cream, cheese, eggs,
-butter, and tea and coffee without sugar, may be taken with advantage.
+while animal food and soups, green vegetables, cream, [[Cheese|cheese]], [[Egg|eggs]],
+[[Butter|butter]], and tea and coffee without sugar, may be taken with advantage.
 As a substitute for ordinary bread, which most persons find it difficult
 to do without for any length of time, bran bread, gluten bread and
-almond biscuits. A patient must never pass suddenly from an ordinary to
+almond [[Biscuit|biscuits]]. A patient must never pass suddenly from an ordinary to
 a carbohydrate-free diet. Any such sudden transition is extremely liable
 to bring on diabetic coma, and the change must be made quite gradually,
-one form of carbohydrate after another being taken out of the diet,
+one form of [[Carbohydrate|carbohydrate]] after another being taken out of the diet,
 whilst the effect on the quantity of sugar passed is being carefully
 noted meanwhile. The treatment may be begun by excluding potatoes, sugar
 and fruit, and only after several days is the bread to be replaced by
@@ -135,7 +135,7 @@ deficiencies of a diet poor in carbohydrate. Scotch and Irish whisky,
 and Hollands gin, are usually free from sugar, and some of the light
 Bordeaux wines contain very little. Fat is beneficial, and can be given
 as cream, fat of meat and cod-liver oil. Green vegetables are harmless,
-but the white stalks of cabbages and lettuces and also celery and endive
+but the white stalks of cabbages and [[Lettuce|lettuces]] and also celery and endive
 yield sugar. Laevulose can be assimilated up to 1½ ozs. daily without
 increasing the glycosuria, and hence apples, cooked or raw, are
 allowable, as the sugar they contain is in this form. The question of

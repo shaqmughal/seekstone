@@ -14,7 +14,7 @@ undefended objects, houses, public buildings, &c., the object of the
 assailant being to dishearten his opponent, and specially to force the
 civil population and authorities of a besieged place to persuade the
 military commandant to capitulate before the actual defences of the
-place have been reduced to impotence. It is, therefore, obvious that
+place have been reduced to [[Impotence|impotence]]. It is, therefore, obvious that
 mere bombardment can only achieve its object when the amount of
 suffering inflicted upon non-combatants is sufficient to break down
 their resolution, and when the commandant permits himself to be
@@ -26,7 +26,7 @@ terrific fire at a large target, unlike the slow, steady and minutely
 accurate "artillery attacks "directed upon the fortifications, requires
 the expenditure of large quantities of ammunition, and wears out the
 guns of the attack. Bombardments are, however, frequently resorted to in
-order to test the temper of the garrison and the civil population, a
+order to test the temper of the [[Garrison|garrison]] and the civil population, a
 notable instance being that of Strassburg in 1870. The term is often
 loosely employed to describe artillery attacks upon forts or fortified
 positions in preparation for assaults by infantry.

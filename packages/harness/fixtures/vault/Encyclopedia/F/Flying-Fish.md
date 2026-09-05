@@ -5,7 +5,7 @@ FLYING-FISH, the name given to two different kinds of fish. The one
 more properly called flying gurnard; the other (_Exocoetus_) has been
 called flying herring, though more nearly allied to the gar-pike than to
 the herring. Some other fishes with long pectoral fins (_Pterois_) have
-been stated to be able to fly, but this has been proved to be incorrect.
+been stated to be able to [[Fly|fly]], but this has been proved to be incorrect.
 
 [Illustration: FIG. 1.--_Dactylopterus volitans._]
 
@@ -15,16 +15,16 @@ species known of the former, whilst more than fifty have been described
 of the latter, which, besides, are found in numerous shoals of
 thousands. The _Dactylopteri_ may be readily distinguished by a large
 bony head armed with spines, hard keeled scales, two dorsal fins, &c.
-The _Exocoeti_ have thin, deciduous scales, only one dorsal fin, and the
+The _Exocoeti_ have thin, [[Deciduous|deciduous]] scales, only one dorsal fin, and the
 ventrals placed far backwards, below the middle of the body; some have
-long barbels at the chin. In both kinds the pectoral fins are greatly
+long [[Barbel|barbels]] at the chin. In both kinds the pectoral fins are greatly
 prolonged and enlarged, modified into an organ of flight, and in many
 species of _Exocoetus_ the ventral fins are similarly enlarged, and
 evidently assist in the aerial evolutions of these fishes. Flying-fishes
 are found in the tropical and sub-tropical seas only, and it is a
 singular fact that the geographical distribution of the two kinds is
 nearly identical. Flying-fish are more frequently observed in rough
-weather and in a disturbed sea than during calms; they dart out of the
+weather and in a disturbed sea than during [[Calm|calms]]; they dart out of the
 water when pursued by their enemies or frightened by an approaching
 vessel, but frequently also without any apparent cause, as is also
 observed in many other fishes; and they rise without regard to the
@@ -47,7 +47,7 @@ like the course of a projectile, but it may become undulated in a rough
 sea, when they are flying against the course of the waves; they then
 frequently overtop each wave, being carried over it by the pressure of
 the disturbed air. Flying-fish often fall on board of vessels, but this
-never happens during a calm or from the lee side, but during a breeze
+never happens during a calm or from the [[Lee|lee]] side, but during a [[Breeze|breeze]]
 only and from the weather side. In day time they avoid a ship, flying
 away from it, but during the night when they are unable to see, they
 frequently fly against the weather board, where they are caught by the

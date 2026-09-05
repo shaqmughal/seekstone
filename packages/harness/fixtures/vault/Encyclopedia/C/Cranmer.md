@@ -2,21 +2,21 @@
 
 CRANMER, THOMAS (1489-1556), archbishop of Canterbury, born at Aslacton
 or Aslockton in Nottinghamshire on the 2nd of July 1489, was the second
-son of Thomas Cranmer and of his wife Anne Hatfield. He received his
+son of Thomas Cranmer and of his wife [[Anne]] Hatfield. He received his
 early education, according to Morice his secretary, from "a marvellous
 severe and cruel schoolmaster," whose discipline must have been severe
 indeed to deserve this special mention in an age when no schoolmaster
 bore the rod in vain. The same authority tells us that he was initiated
-by his father in those field sports, such as hunting and hawking, which
+by his father in those field sports, such as [[Hunting|hunting]] and hawking, which
 formed one of his recreations in after life. To early training he also
-owed the skilful horsemanship for which he was conspicuous. At the age
+owed the skilful [[Horsemanship|horsemanship]] for which he was conspicuous. At the age
 of fourteen he was sent by his mother, who had in 1501 become a widow,
 to Cambridge. Little is known with certainty of his university career
-beyond the facts that he became a fellow of Jesus College in 1510 or
+beyond the facts that he became a [[Fellow|fellow]] of Jesus College in 1510 or
 1511, that he had soon after to vacate his fellowship, owing to his
-marriage to "Black Joan," a relative of the landlady of the Dolphin Inn,
+marriage to "Black Joan," a relative of the landlady of the [[Dolphin]] Inn,
 and that he was reinstated in it on the death of his wife, which
-occurred in childbirth before the lapse of the year of grace allowed by
+occurred in childbirth before the [[Lapse|lapse]] of the year of [[Grace|grace]] allowed by
 the statutes. During the brief period of his married life he held the
 appointment of lecturer at Buckingham Hall, now Magdalene College. The
 fact of his marrying would seem to show that he did not at the time
@@ -39,14 +39,14 @@ to the din and bustle of the court. In August 1529 the plague known as
 the sweating sickness, which prevailed throughout the country, was
 specially severe at Cambridge, and all who had it in their power forsook
 the town for the country. Cranmer went with two of his pupils named
-Cressy, related to him through their mother, to their father's house at
-Waltham in Essex. The king (Henry VIII.) happened at the time to be
+[[Cressy]], related to him through their mother, to their father's house at
+Waltham in [[Essex]]. The king (Henry VIII.) happened at the time to be
 visiting in the immediate neighbourhood, and two of his chief
 counsellors, Gardiner, secretary of state, afterwards bishop of
-Winchester, and Edward Fox, the lord high almoner, afterwards bishop of
+Winchester, and Edward [[Fox]], the lord high almoner, afterwards bishop of
 Hereford, were lodged at Cressy's house. Meeting with Cranmer, they were
-naturally led to discuss the king's meditated divorce from Catherine of
-Aragon. Cranmer suggested that if the canonists and the universities
+naturally led to [[Discus|discuss]] the king's meditated divorce from Catherine of
+[[Aragon]]. Cranmer suggested that if the canonists and the universities
 should decide that marriage with a deceased brother's widow was illegal,
 and if it were proved that Catherine had been married to Prince Arthur,
 her marriage to Henry could be declared null and void by the ordinary
@@ -54,26 +54,26 @@ ecclesiastical courts. The necessity of an appeal to Rome was thus
 dispensed with, and this point was at once seen by the king, who, when
 Cranmer's opinion was reported to him, is said to have ordered him to be
 summoned in these terms: "I will speak to him. Let him be sent for out
-of hand. This man, I trow, has got the right sow by the ear."
+of hand. This man, I trow, has got the right sow by the [[Ear|ear]]."
 
 At their first interview Cranmer was commanded by the king to lay aside
 all other pursuits and to devote himself to the question of the divorce.
 He was to draw up a written treatise, stating the course he proposed,
 and defending it by arguments from scripture, the fathers and the
-decrees of general councils. His material interests certainly did not
+[[Decree|decrees]] of general councils. His material interests certainly did not
 suffer by compliance. He was commended to the hospitality of Anne
 Boleyn's father, the earl of Wiltshire, in whose house at Durham Place
-he resided for some time; the king appointed him archdeacon of Taunton
-and one of his chaplains; and he also held a parochial benefice, the
+he resided for some time; the king appointed him [[Archdeacon|archdeacon]] of Taunton
+and one of his [[Chaplain|chaplains]]; and he also held a parochial [[Benefice|benefice]], the
 name of which is unknown. When the treatise was finished Cranmer was
 called upon to defend its argument before the universities of Oxford and
 Cambridge, which he visited, accompanied by Fox and Gardiner.
 Immediately afterwards he was sent to plead the cause before a more
-powerful if not a higher tribunal. An embassy, with the earl of
+powerful if not a higher tribunal. An [[Embassy|embassy]], with the earl of
 Wiltshire at its head, was despatched to Rome in 1530, that "the matter
 of the divorce should be disputed and ventilated," and Cranmer was an
 important member of it. He was received by the Pope with marked
-courtesy, and was appointed "Grand Penitentiary of England," but his
+[[Courtesy|courtesy]], and was appointed "Grand Penitentiary of England," but his
 argument, if he ever had the opportunity of stating it, did not lead to
 any practical decision of the question.
 
@@ -89,7 +89,7 @@ that the old order must change; neither saw clearly what the new order
 should be to which it was to give place. They had frequent interviews,
 which had doubtless an important influence on Cranmer's opinions. But
 Osiander's house had another attraction of a different kind from
-theological sympathy. His niece Margaret won the heart of Cranmer, and
+theological sympathy. His niece [[Margaret]] won the heart of Cranmer, and
 in 1532 they were married. Hook finds in the fact of the marriage
 corroboration of Cranmer's statement that he never expected or desired
 the primacy; and it seems probable enough that, if he had foreseen how
@@ -105,7 +105,7 @@ nomination to the vacant see. Cranmer's conduct was certainly consistent
 with his profession that he did not desire, as he had not expected, the
 dangerous promotion. He sent his wife to England, but delayed his own
 return in the vain hope that another appointment might be made. The
-papal bulls of confirmation were dated February and March 1533, and the
+papal [[Bull|bulls]] of confirmation were dated February and March 1533, and the
 consecration took place on the 30th March. One peculiarity of the
 ceremony had occasioned considerable discussion. It was the custom for
 the archbishop elect to take two oaths, the first of episcopal
@@ -116,10 +116,10 @@ Cranmer, however, was not satisfied with this. He had a special protest
 recorded, in which he formally declared that he swore allegiance to the
 pope only in so far as that was consistent with his supreme duty to the
 king. The morality of this course has been much canvassed, though it
-seems really to involve nothing more than an express declaration of what
+seems really to involve nothing more than an express [[Declaration|declaration]] of what
 the two oaths implied. It was the course that would readily suggest
 itself to a man of timid nature who wished to secure himself against
-such a fate as Wolsey's. It showed weakness, but it added nothing to
+such a [[Fate|fate]] as Wolsey's. It showed weakness, but it added nothing to
 whatever immorality there might be in successively taking two
 incompatible oaths.
 
@@ -129,7 +129,7 @@ rather, of the legitimation of Anne Boleyn's expected issue--had now
 become very urgent, and in the new archbishop he had an agent who might
 be expected to forward it with the needful haste. The celerity and skill
 with which Cranmer did the work intrusted to him must have fully
-satisfied his master. During the first week of April Convocation sat
+satisfied his master. During the first week of April [[Convocation]] sat
 almost from day to day to determine questions of fact and law in
 relation to Catherine's marriage with Henry as affected by her previous
 marriage with his brother Arthur. Decisions favourable to the object of
@@ -152,29 +152,29 @@ celebrated about the 25th of January 1533--to be valid. On the 1st of
 June he crowned Anne as queen, and on the 10th of September stood
 godfather to her child, the future Queen Elizabeth.
 
-The breach with Rome and the subjection of the church in England to the
+The [[Breach|breach]] with Rome and the subjection of the church in England to the
 royal supremacy had been practically achieved before Cranmer's
 appointment as archbishop: and he had little to do with the other
 constitutional changes of Henry's reign. But his position as chief
 minister of Henry's ecclesiastical jurisdiction forced him into
 unpleasant prominence in connexion with the king's matrimonial
 experiences. In 1536 he was required to revise his own sentence in
-favour of the validity of Henry's marriage with Anne Boleyn; and on the
+favour of the validity of Henry's marriage with Anne [[Boleyn]]; and on the
 17th of May the marriage was declared invalid. The ground on which this
 sentence is pronounced is fairly clear. Anne's sister, Mary Boleyn, had
 been Henry VIII.'s mistress; this by canon law was a bar to his marriage
-with Anne--a bar which had been removed by papal dispensation in 1527,
+with Anne--a bar which had been removed by papal [[Dispensation|dispensation]] in 1527,
 but now the papal power to dispense in such cases had been repudiated,
 and the original objection revived. The sentence was grotesquely legal
 and unjust. With Anne's condemnation by the House of Lords Cranmer had
 nothing to do. He interceded for her in vain with the king, as he had
 done in the cases of Fisher, More and the monks of Christchurch. His
-share in the divorce of Anne of Cleves was less prominent than that of
+share in the divorce of [[Anne Of Cleves|Anne of Cleves]] was less prominent than that of
 Gardiner, though he did preside over the Convocation in which nearly all
 the dignitaries of the church signified their approval of that measure.
 To his next and last interposition in the matrimonial affairs of the
 king no discredit attaches itself. When he was made cognizant of the
-charges against Catherine Howard, his duty to communicate them to the
+charges against Catherine [[Howard]], his duty to communicate them to the
 king was obvious, though painful.
 
 Meanwhile Cranmer was actively carrying out the policy which has
@@ -189,7 +189,7 @@ re-adjustment of the creed and liturgy of the church, which formed
 Cranmer's principal work during the latter half of his life. The
 progress of the archbishop's opinion towards that middle Protestantism,
 if it may be so called, which he did so much to impress on the
-formularies of the Church of England, was gradual, as a brief
+formularies of the Church of England, was [[Gradual|gradual]], as a brief
 enumeration of the successive steps in that progress will show. In 1538
 an embassy of German divines visited England with the design, among
 other things, of forming a common confession for the two countries. This
@@ -207,7 +207,7 @@ in use, and shows his mastery of a rhythmical English style.
 
 The course taken by Cranmer in promoting the Reformation exposed him to
 the bitter hostility of the reactionary party or "men of the old
-learning," of whom Gardiner and Bonner were leaders, and on various
+learning," of whom Gardiner and [[Bonner]] were leaders, and on various
 occasions--notably in 1543 and 1545--conspiracies were formed in the
 council or elsewhere to effect his overthrow. The king, however,
 remained true to him, and all the conspiracies signally failed. It
@@ -218,7 +218,7 @@ forgave all the conspirators. He was, as his secretary Morice testifies,
 Cranmer was present with Henry VIII. when he died (1547). By the will of
 the king he was nominated one of a council of regency composed of
 sixteen persons, but he acquiesced in the arrangement by which Somerset
-became lord protector. He officiated at the coronation of the boy king
+became lord protector. He officiated at the [[Coronation|coronation]] of the boy king
 Edward VI., and is supposed to have instituted a sinister change in the
 order of the ceremony, by which the right of the monarch to reign was
 made to appear to depend upon inheritance alone, without the concurrent
@@ -234,7 +234,7 @@ complete the preparation of the church formularies, on which he had been
 for some time engaged. In 1547 appeared the _Homilies_ prepared under
 his direction. Four of them are attributed to the archbishop
 himself--those on Salvation, Faith, Good Works and the Reading of
-Scripture. His translation of the German Catechism of Justus Jonas,
+Scripture. His translation of the German Catechism of Justus [[Jonas]],
 known as Cranmer's Catechism, appeared in the following year. Important,
 as showing his views on a cardinal doctrine, was the _Defence of the
 True and Catholic Doctrine of the Sacrament_, which he published in
@@ -248,10 +248,10 @@ of Cranmer. The last great undertaking in which he was employed was the
 revision of his codification of the canon law, which had been all but
 completed before the death of Henry. The task was one eminently well
 suited to his powers, and the execution of it was marked by great skill
-in definition and arrangement. It never received any authoritative
+in [[Definition|definition]] and arrangement. It never received any authoritative
 sanction, Edward VI. dying before the proclamation establishing it could
 be made, and it remained unpublished until 1571, when a Latin
-translation by Dr Walter Haddon and Sir John Cheke appeared under the
+translation by Dr Walter Haddon and Sir John [[Cheke]] appeared under the
 title _Reformatio legum ecclesiasticarum_. It laid down the lawfulness
 and necessity of persecution to the death for heresy in the most
 absolute terms; and Cranmer himself condemned Joan Bocher to the flames.
@@ -270,7 +270,7 @@ man, and that he alone remained true to the nine days' queen when the
 others who had with him signed Edward's device deserted her. On the
 accession of Mary he was summoned to the council--most of whom had
 signed the same device--reprimanded for his conduct, and ordered to
-confine himself to his palace at Lambeth until the queen's pleasure was
+confine himself to his palace at [[Lambeth]] until the queen's pleasure was
 known. He refused to follow the advice of his friends and avoid the fate
 that was clearly impending over him by flight to the continent. Any
 chance of safety that lay in the friendliness of a strong party in the
@@ -283,7 +283,7 @@ days previously against the mass, the celebration of which, he heard,
 had been re-established at Canterbury. He had not taken steps to publish
 this, but by some unknown channel a copy reached the council, and it
 could not be ignored. In November, with Lady Jane Grey, her husband, and
-two other Dudleys, Cranmer was condemned for treason. Renard thought he
+two other [[Dudley|Dudleys]], Cranmer was condemned for treason. Renard thought he
 would be executed, but so true a Romanist as Mary could scarcely have an
 ecclesiastic put to death in consequence of a sentence by a secular
 court, and Cranmer was reserved for treatment as a heretic by the
@@ -309,7 +309,7 @@ national faith and to impose it on every Englishman. All these
 authorities had now legally established Roman Catholicism as the
 national faith, and Cranmer had no logical ground on which to resist.
 His early "recantations" are merely recognitions of his lifelong
-conviction of this right of the state. But his dilemma on this point led
+conviction of this right of the state. But his [[Dilemma|dilemma]] on this point led
 him into further doubts, and he was eventually induced to revile his
 whole career and the Reformation. This is what the government wanted.
 Northumberland's recantation had done much to discredit the Reformation,
@@ -323,14 +323,14 @@ that he renounced and refused all his recantations as things written
 with his hand, contrary to the truth which he thought in his heart; and
 that as his hand had offended, his hand should be first burned when he
 came to the fire. As he had said, his right hand was steadfastly exposed
-to the flames. The calm cheerfulness and resolution with which he met
+to the flames. The [[Calm|calm]] cheerfulness and resolution with which he met
 his fate show that he felt that he had cleared his conscience, and that
 his recantation of his recantations was a repentance that needed not to
 be repented of.
 
 It was a noble end to what, in spite of its besetting sin of infirmity
-of moral purpose, was a not ignoble life. The key to his character is
-well given in what Hooper said of him in a letter to Bullinger, that he
+of moral purpose, was a not ignoble life. The [[Key|key]] to his character is
+well given in what [[Hooper]] said of him in a letter to [[Bullinger]], that he
 was "too fearful about what might happen to him." This weakness was the
 worst blot on Cranmer's character, but it was due in some measure to his
 painful capacity for seeing both sides of a question at the same time, a
@@ -355,12 +355,12 @@ distinguished between the two. Church and state to him were one.
   (1694); _Anecdotes and Character of Archbishop Cranmer_, by Ralph
   Morice, and two contemporary biographies (Camden Society's
   publications); _Remains of Thomas Cranmer_, by Jenkyns (1833); _Lives
-  of Cranmer_, by Gilpin (1784), Todd (1831), Le Bas, in Hook's _Lives
+  of Cranmer_, by [[Gilpin]] (1784), Todd (1831), Le Bas, in Hook's _Lives
   of the Archbishops of Canterbury_, vols. vi. and vii. (1868), by Canon
   Mason (1897), A. D. Innes (1900) and A. F. Pollard (1904); Froude's
   _History_; R. W. Dixon's _History_; J. Gairdner's _History of the
   Church, 1485-1558_; Bishop Cranmer's _Recantacyons_, ed. Gairdner
-  (1885). R. E. Chester Waters's _Chesters of Chicheley_ (1877) contains
+  (1885). R. E. [[Chester]] Waters's _Chesters of Chicheley_ (1877) contains
   a vast amount of genealogical information about Cranmer which has only
   been used by one of his biographers.     (A. F. P.)
 

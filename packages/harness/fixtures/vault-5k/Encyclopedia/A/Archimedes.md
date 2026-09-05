@@ -10,7 +10,7 @@ tags: [warfare, ethics-theory]
 
 ARCHIMEDES (c. 287-212 B.C.), Greek mathematician and inventor, was born
 at Syracuse, in Sicily. He was the son of Pheidias, an astronomer, and
-was on intimate terms with, if not related to, Hiero, king of Syracuse,
+was on intimate terms with, if not related to, [[Hiero]], king of Syracuse,
 and Gelo his son. He studied at Alexandria and doubtless met there Conon
 of Samos, whom he admired as a mathematician and cherished as a friend,
 and to whom he was in the habit of communicating his discoveries before
@@ -19,8 +19,8 @@ mathematical research. He himself set no value on the ingenious
 mechanical contrivances which made him famous, regarding them as beneath
 the dignity of pure science and even declining to leave any written
 record of them except in the case of the [Greek: sphairopoiia]
-(_Sphere-making_), as to which see below. As, however, these machines
-impressed the popular imagination, they naturally figure largely in the
+(_Sphere-making_), as to which see below. As, however, these [[Machine|machines]]
+impressed the popular [[Imagination|imagination]], they naturally figure largely in the
 traditions about him. Thus he devised for Hiero engines of war which
 almost terrified the Romans, and which protracted the siege of Syracuse
 for three years. There is a story that he constructed a burning mirror
@@ -30,7 +30,7 @@ Livy or Plutarch; but it is probable that Archimedes had constructed
 some such burning instrument, though the connexion of it with the
 destruction of the Roman fleet is more than doubtful. More important, as
 being doubtless connected with the discovery of the principle in
-hydrostatics which bears his name and the foundation by him of that
+[[Hydrostatics|hydrostatics]] which bears his name and the foundation by him of that
 whole science, is the story of Hiero's reference to him of the question
 whether a crown made for him and purporting to be of gold, did not
 actually contain a proportion of silver. According to one story,
@@ -42,7 +42,7 @@ filled with water, and observing the difference of overflow. He was so
 overjoyed when this happy thought struck him that he ran home without
 his clothes, shouting [Greek: euraeka, euraeka], "I have found it, I
 have found it." Similarly his pioneer work in mechanics is illustrated
-by the story of his having said [Greek: dos moi pon sto kai kino taen
+by the story of his having said [Greek: dos moi pon sto kai [[Kino|kino]] taen
 gaen] (or as another version has it, in his dialect, [Greek: pa bo kai
 kino tan gan]), "Give me a place to stand and I (will) move the earth."
 Hiero asked him to give an illustration of his contention that a very
@@ -54,7 +54,7 @@ which he invented (see below) was probably devised in Egypt for the
 purpose of irrigating fields.
 
 Archimedes died at the capture of Syracuse by Marcellus, 212 B.C. In the
-general massacre which followed the fall of the city, Archimedes, while
+general [[Massacre|massacre]] which followed the fall of the city, Archimedes, while
 engaged in drawing a mathematical figure on the sand, was run through
 the body by a Roman soldier. No blame attaches to the Roman general,
 Marcellus, since he had given orders to his men to spare the house and
@@ -162,11 +162,11 @@ Arpinum."
   sand that could be contained in a sphere of the size of our
   "universe," a system of naming large numbers according to "orders" and
   "periods" which would enable any number to be expressed up to that
-  which we should write with 1 followed by 80,000 ciphers!
+  which we should write with 1 followed by 80,000 [[Cipher|ciphers]]!
 
   (9) _A Collection of Lemmas_, consisting of fifteen propositions in
   plane geometry. This has come down to us through a Latin version of an
-  Arabic manuscript; it cannot, however, have been written by Archimedes
+  Arabic [[Manuscript|manuscript]]; it cannot, however, have been written by Archimedes
   in its present form, as his name is quoted in it more than once.
 
   Lastly, Archimedes is credited with the famous _Cattle-Problem_,
@@ -177,7 +177,7 @@ Arpinum."
   mentioned by Pappus; (2) [Greek: Harchai], _Principles_, a book
   addressed to Zeuxippus and dealing with the _naming of numbers_ on the
   system explained in the _Sand Reckoner_; (3) [Greek: Peri zygon], _On
-  balances or levers_; (4) [Greek: Kentrobarika], _On centres of
+  [[Balance|balances]] or levers_; (4) [Greek: Kentrobarika], _On centres of
   gravity_; (5) [Greek: Katoptrika], an optical work from which Theon of
   Alexandria quotes a remark about refraction; (6) [Greek: Hephodion], a
   _Method_, mentioned by Suidas; (7) [Greek: Peri sphairopoiias], _On
@@ -190,7 +190,7 @@ Arpinum."
   the commentary of Eutocius, is that printed at Basel, in 1544, in
   Greek and Latin, by Hervagius. D. Rivault's edition (Paris, 1615) gave
   the enunciations in Greek and the proofs in Latin somewhat retouched.
-  A Latin version of them was published by Isaac Barrow in 1675 (London,
+  A Latin version of them was published by [[Isaac]] Barrow in 1675 (London,
   4to); Nicolas Tartaglia published in Latin the treatises on _Centres
   of Gravity_, on the _Quadrature of the Parabola_, on the _Measurement
   of the Circle_, and on _Floating Bodies_, i. (Venice, 1543); Trojanus

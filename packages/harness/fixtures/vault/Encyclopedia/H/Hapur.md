@@ -12,7 +12,7 @@ been founded in the 10th century, and was granted by Sindhia to his
 French general Perron at the end of the 18th century. Several fine
 groves surround the town, but the wall and ditch have fallen out of
 repair, and only the names of the five gates remain. Considerable trade
-is carried on in sugar, grain, cotton, timber, bamboos and brass
+is carried on in sugar, grain, cotton, timber, bamboos and [[Brass|brass]]
 utensils.
 
 ## References

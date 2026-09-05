@@ -17,7 +17,7 @@ College from 1896 to 1899. But it was as a literary critic of unusually
 clever style and an original vein of wit, that he first became known to
 the public, with his volume of essays entitled _Obiter Dicta_ (1884). In
 1889 he was returned to parliament for West Fifeshire as a Liberal. In
-the House of Commons his light but pointed humour gradually led to the
+the House of Commons his light but pointed [[Humour|humour]] gradually led to the
 coining of a new word, "barrelling," and his literary and oratorical
 reputation grew apace. Whether he was writing miscellaneous essays or
 law-books, his characteristic style prevailed, and his books on
@@ -33,7 +33,7 @@ married Mrs Lionel Tennyson, daughter of the poet Frederick Locker
 contest the N.E. division of Manchester rather than retain his seat in
 Fifeshire, but was defeated. He did valuable service, however, to his
 party by presiding over the Liberal Publication Department, and at the
-general election of 1906 he was returned for a division of Bristol. He
+general election of 1906 he was returned for a division of [[Bristol]]. He
 had been included in Sir Henry Campbell-Bannerman's cabinet, and as
 minister for education he was responsible for the education bill which
 was the chief government measure in their first session. But the

@@ -1,7 +1,7 @@
 # Kermes
 
-KERMES (Arab. _qirmiz_; see CRIMSON), a crimson dye-stuff, now
-superseded by cochineal, obtained from _Kermes ilicis_ (= _Coccus
+KERMES (Arab. _qirmiz_; see [[Crimson|CRIMSON]]), a crimson dye-stuff, now
+superseded by [[Cochineal|cochineal]], obtained from _Kermes ilicis_ (= _Coccus
 ilicis_, Lat. = _C. vermilio_, G. Planchon). The genus _Kermes_ belongs
 to the _Coccidae_ or Scale-insects, and its species are common on oaks
 wherever they grow. The species from which kermes is obtained is common
@@ -18,11 +18,11 @@ until 1714 that their animal nature was discovered.
   circular lower surface 2 millim. in diameter, and surrounded by a
   narrow zone of white cottony down. At this time there are concealed
   under a cavity, formed by the approach of the abdominal wall of the
-  insect to the dorsal one, thousands of eggs of a red colour, and
+  [[Insect|insect]] to the dorsal one, thousands of [[Egg|eggs]] of a red colour, and
   smaller than poppy seed, which are protruded and ranged regularly
   beneath the insect. At the end of May or the beginning of June the
-  young escape by a small orifice, near the point of attachment of the
-  parent. They are then of a fine red colour, elliptic and convex in
+  young escape by a small orifice, near the point of [[Attachment|attachment]] of the
+  parent. They are then of a fine red colour, elliptic and [[Convex|convex]] in
   shape, but rounded at the two extremities, and bear two threads half
   as long as their body at their posterior extremity. At this period
   they are extremely active, and swarm with extraordinary rapidity all
@@ -58,7 +58,7 @@ life of a Carthusian monk who had been given up by the Paris faculty;
 but the monk Simon who administered it on that occasion called it
 _Alkermes mineral_. Its reputation became so great that in 1720 the
 French government bought the recipe for its preparation. It still
-appears in the pharmacopoeias of many European countries and in that of
+appears in the pharmacopoeias of many [[European Countries|European countries]] and in that of
 the United States. The product varies somewhat according to the mode of
 preparation adopted. According to the French directions the official
 substance is obtained by adding 60 grammes of powdered antimony
@@ -68,10 +68,10 @@ The liquid is then filtered hot, and on being allowed to cool slowly
 deposits the kermes, which is washed and dried at 100° C.; prepared in
 this way it is a brown-red velvety powder, insoluble in water.
 
-  See G. Planchon, _Le Kermes du chêne_ (Montpellier, 1864); Lewis,
+  See G. Planchon, _Le Kermes du chêne_ (Montpellier, 1864); [[Lewis]],
   _Materia Medica_ (1784), pp. 71, 365; _Memorias sobre la grana Kermes
   de España_ (Madrid, 1788); Adams, _Paulus Aegineta_, iii. 180;
-  Beckmann, _History of Inventions_.
+  [[Beckmann]], _History of Inventions_.
 
 ## See also
 

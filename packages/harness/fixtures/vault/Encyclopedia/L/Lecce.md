@@ -1,7 +1,7 @@
 # Lecce
 
 LECCE (anc. _Lupiae_), a town and archiepiscopal see of Apulia, Italy,
-capital of the province of Lecce, 24 m. S.E. of Brindisi by rail. Pop.
+capital of the province of Lecce, 24 m. S.E. of [[Brindisi]] by rail. Pop.
 (1906) 35,179. The town is remarkable for the number of buildings of the
 17th century, in the rococo style, which it contains; among these are
 the cathedral of S. Oronzo, and the churches of S. Chiara, S. Croce, S.
@@ -22,11 +22,11 @@ reason alone. Its site was marked by the now deserted village of Rugge.
 The name Lycea, or Lycia, begins to appear in the 6th century. The city
 was for some time held by counts of Norman blood, among whom the most
 noteworthy is Bohemond, son of Robert Guiscard. It afterwards passed to
-the Orsini. The rank of provincial capital was bestowed by Ferdinand of
-Aragon in acknowledgment of the fidelity of Lecce to his cause.
+the Orsini. The rank of provincial capital was bestowed by [[Ferdinand]] of
+[[Aragon]] in acknowledgment of the fidelity of Lecce to his cause.
      (T. As.)
 
-  See M. S. Briggs, _In the Heel of Italy_ (1910).
+  See M. S. [[Brigg|Briggs]], _In the Heel of Italy_ (1910).
 
 ## See also
 

@@ -12,8 +12,8 @@ Central and South America. It is mainly within the republic of Panama,
 and gives its name to a gulf of the Carribbean Sea. Darien is of great
 interest in the history of geographical discovery. It was reconnoitred
 in the first year of the 16th century by Rodrigo Bastidas of Seville;
-and the first settlement was Santa Maria la Antigua, situated on the
-small Darien river, north-west of the mouth of the Atrato. In 1513 Vasco
+and the first settlement was Santa Maria la [[Antigua]], situated on the
+small Darien river, north-west of the mouth of the [[Atrato]]. In 1513 Vasco
 Nunez de Balboa stood "silent upon a peak in Darien,"[1] and saw the
 Pacific at his feet stretching inland in the Gulf of San Miguel; and for
 long this narrow neck of land seemed alternately to proffer and refuse a
@@ -27,13 +27,13 @@ economists of the period, William Paterson (q.v.), determined to
 establish a colony on the isthmus of Darien as a general emporium for
 the commerce of all the nations of the world. Regarded with disfavour
 both in England and Holland, the project was taken up in Scotland with
-the enthusiasm of national rivalry towards England, and the
+the [[Enthusiasm|enthusiasm]] of national rivalry towards England, and the
 "subscriptions sucked up all the money in the country." On the 26th of
-July 1698 the pioneers set sail from Leith amid the cheers of an almost
+July 1698 the pioneers set sail from [[Leith]] amid the cheers of an almost
 envious multitude; and on the 4th of November, with the loss of only
 fifteen out of 1200 men, they arrived at Darien, and took up their
 quarters in a well-defended spot, with a good harbour and excellent
-outlook. The country they named New Caledonia, and two sites selected
+outlook. The country they named New [[Caledonia]], and two sites selected
 for future cities were designated respectively New Edinburgh and New St
 Andrews. At first all seemed to go well; but by and by lack of
 provisions, sickness and anarchy reduced the settlers to the most
@@ -43,7 +43,7 @@ direct. Meanwhile a supplementary expedition had been prepared in
 Scotland; two vessels were despatched in May, and four others followed
 in August. But this venture proved even more unfortunate than the
 former. The colonists arrived broken in health; their spirits were
-crushed by the fate of their predecessors, and embittered by the harsh
+crushed by the [[Fate|fate]] of their predecessors, and embittered by the harsh
 fanaticism of the four ministers whom the general assembly of the Church
 of Scotland had sent out to establish a regular presbyterial
 organization. The last addition to the settlement was the company of
@@ -56,11 +56,11 @@ Tubacanti, stormed the camp in the night-time, and dispersed the Spanish
 force. On his return to the fort on the fifth day he found it besieged
 by the Spaniards from the men-of-war; and, after a vain attempt to
 maintain its defence, he succeeded with a few companions in making his
-escape in a small vessel. A capitulation followed, and the Darien colony
+escape in a small vessel. A [[Capitulation|capitulation]] followed, and the Darien colony
 was no more. Of those who had taken part in the enterprise only a
 miserable handful ever reached their native land.
 
-  See J. H. Burton, _The Darien Papers_ (Bannatyne Club, 1849);
+  See J. H. [[Burton]], _The Darien Papers_ (Bannatyne Club, 1849);
   Macaulay, _History of England_ (London, 1866); and A. Lang, _History
   of Scotland_, vol. iv. (Edinburgh, 1907).
 

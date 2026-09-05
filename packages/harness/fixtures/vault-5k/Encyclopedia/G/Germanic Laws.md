@@ -6,7 +6,7 @@ examples other than Frankish, viz. (1) _Leges Wisigothorum_, (2) _Lex
 Burgundionum_, (3) _Pactus Alamannorum_ and _Lex Alamannorum_, (4) _Lex
 Bajuvariorum_, (5) _Lex Saxonum_, (6) _Lex Frisionum_, (7) _Lex
 Angliorum et Werinorum, hoc est, Thuringorum_, and (8) _Leges
-Langobardorum_. All these laws may in general be described as codes of
+Langobardorum_. All these laws may in general be described as [[Code|codes]] of
 procedure and tariffs of compositions. They present somewhat similar
 features with the Salic law, but often differ from it in the date of
 compilation, the amount of fines, the number and nature of the crimes,
@@ -45,7 +45,7 @@ and sometimes as the _Liber Aniani_, from the fact that the authentic
 copies bear the signature of the _referendarius_ Anian.
 
 Euric's code remained in force among the Visigoths of Spain until the
-reign of Leovigild (568-586), who made a new one, improving upon that of
+reign of [[Leovigild]] (568-586), who made a new one, improving upon that of
 his predecessor. This work is lost, and we have no direct knowledge of
 any fragment of it. In the 3rd codification, however, many provisions
 have been taken from the 2nd, and these are designated by the word
@@ -57,7 +57,7 @@ a transformation. The new laws made by the kings were declared to be
 applicable to all the subjects in the kingdom, of whatever race--in
 other words, they became territorial; and this principle of
 territoriality was gradually extended to the ancient code. Moreover, the
-conversion of Reccared I. (586-601) to orthodoxy effaced the religious
+[[Conversion|conversion]] of Reccared I. (586-601) to orthodoxy effaced the religious
 differences among his subjects, and all subjects, _qua_ Christians, had
 to submit to the canons of the councils, which were made obligatory by
 the kings. After this change had been accepted, Recceswinth (649-672)
@@ -89,12 +89,12 @@ compiled the _Lex Romana Burgundionum_, called sometimes, through a
 misreading of the MSS., the _Liber Papiani_ or simply _Papianus_. The
 barbarian law of the Burgundians shows strong traces of Roman influence.
 It recognizes the will and attaches great importance to written deeds,
-but on the other hand sanctions the judicial duel and the _cojuratores_
+but on the other hand sanctions the judicial [[Duel|duel]] and the _cojuratores_
 (sworn witnesses). The vehement protest made in the 9th century by
-Agobard, bishop of Lyons, against the _Lex Gundobada_ shows that it was
+Agobard, bishop of [[Lyons]], against the _Lex Gundobada_ shows that it was
 still in use at that period. So late as the 10th and even the 11th
 centuries we find the law of the Burgundians invoked as personal law in
-Cluny charters, but doubtless these passages refer to accretions of
+[[Cluny]] charters, but doubtless these passages refer to accretions of
 local customs rather than to actual paragraphs of the ancient code.
 
   The text of the _Lex Burgundionum_ has been published by F. Bluhme in
@@ -116,8 +116,8 @@ subsequent to the conversion of the Alamanni to Christianity. There is
 no doubt that the text dates back to the reign of Dagobert I., i.e. to
 the first half of the 7th century. The later text, known as the _Lex
 Alamannorum_, dates from a period when Alamannia was independent under
-national dukes, but recognized the theoretical suzerainty of the
-Frankish kings. There seems no reason to doubt the St Gall MS., which
+national [[Dukes|dukes]], but recognized the theoretical suzerainty of the
+Frankish kings. There seems no reason to doubt the St [[Gall]] MS., which
 states that the law had its origin in an agreement between the great
 Alamannic lords and Duke Landfrid, who ruled the duchy from 709 to 730.
 
@@ -165,7 +165,7 @@ which formerly entailed death. The _Lex Saxonum_ apparently dates from
 Ribuariae additum_ of that year. The law established the ancient
 customs, at the same time eliminating anything that was contrary to the
 spirit of Christianity; it proclaimed the peace of the churches, whose
-possessions it guaranteed and whose right of asylum it recognized.
+possessions it guaranteed and whose right of [[Asylum|asylum]] it recognized.
 
 6. _Lex Frisionum._--This consists of a medley of documents of the most
 heterogeneous character. Some of its enactments are purely pagan--thus
@@ -203,7 +203,7 @@ _Leges_, v. 103. The old opinion that the law originated in south
 Holland is entirely without foundation.
 
 8. _Leges Langobardorum._--We possess a fair amount of information on
-the origin of the last barbarian code, the laws of the Lombards. The
+the origin of the last barbarian code, the laws of the [[Lombards]]. The
 first part, consisting of 388 chapters, is known as the _Edictus
 Langobardorum_, and was promulgated by King Rothar at a diet held at
 Pavia on the 22nd of November 643. This work, composed at one time and
@@ -238,7 +238,7 @@ the _Lombarda Vulgata_.
   1613. For further information on the laws of the Lombards see J.
   Merkel, _Geschichte des Langobardenrechts_ (1850); A. Boretius, _Die
   Kapitularien im Langobardenreich_ (1864); and C. Kier, _Edictus
-  Rotari_ (Copenhagen, 1898). Cf. R. Dareste in the _Nouvelle Revue
+  Rotari_ ([[Copenhagen]], 1898). Cf. R. Dareste in the _Nouvelle Revue
   historique de droit francais et etranger_ (1900, p. 143).     (C. Pf.)
 
 

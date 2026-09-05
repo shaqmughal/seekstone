@@ -2,8 +2,8 @@
 
 MACK VON LEIBERICH, KARL, FREIHERR (1752-1828), Austrian soldier, was
 born at Nenslingen, in Bavaria, on the 25th of August 1752. In 1770 he
-joined an Austrian cavalry regiment, in which his uncle, Leiberich, was a
-squadron commander, becoming an officer seven years later. During the
+joined an Austrian [[Cavalry|cavalry]] regiment, in which his uncle, Leiberich, was a
+squadron [[Commander|commander]], becoming an officer seven years later. During the
 brief war of the Bavarian Succession he was selected for service on the
 staff of Count Kinsky, under whom, and subsequently under the
 commander-in-chief Field Marshal Count Lacy, he did excellent work. He
@@ -12,12 +12,12 @@ quartermaster-general's staff in 1783. Count Lacy, then the foremost
 soldier of the Austrian army, had the highest opinion of his young
 assistant. In 1785 Mack married Katherine Gabrieul, and was ennobled
 under the name of Mack von Leiberich. In the Turkish war he was employed
-on the headquarter staff, becoming in 1788 major and personal
+on the headquarter staff, becoming in 1788 [[Major|major]] and personal
 aide-de-camp to the emperor, and in 1789 lieutenant-colonel. He
 distinguished himself greatly in the storming of Belgrade. Shortly after
 this, disagreements between Mack and Loudon, now commander-in-chief, led
-to the former's demanding a court-martial and leaving the front. He was,
-however, given a colonelcy (1789) and the order of Maria Theresa, and in
+to the former's demanding a [[Court-Martial|court-martial]] and leaving the front. He was,
+however, given a colonelcy (1789) and the order of [[Maria Theresa]], and in
 1790 Loudon and Mack, having become reconciled, were again on the field
 together. During these campaigns Mack received a severe injury to his
 head, from which he never fully recovered. In 1793 he was made
@@ -27,7 +27,7 @@ ensuing campaign. The young Archduke Charles, who won his own first
 laurels in the action of the 1st of March 1793, wrote after the battle,
 "Above all we have to thank Colonel Mack for these successes." Mack
 distinguished himself again on the field of Neerwinden; and had a leading
-part in the negotiations between Coburg and Dumouriez. He continued to
+part in the negotiations between [[Coburg]] and [[Dumouriez]]. He continued to
 serve as quartermaster-general, and was now made titular chief
 (_Inhaber_) of a cuirassier regiment. He received a wound at Famars, but
 in 1794 was once more engaged, having at last been made a major-general.
@@ -49,12 +49,12 @@ Archduke Charles, Mack was made quartermaster-general of the army, with
 instructions to prepare for a war with France. He did all that was
 possible within the available time to reform the army, and on the opening
 of the war of 1805 he was made quartermaster-general to the titular
-commander-in-chief in Germany, the Archduke Ferdinand. He was the real
+commander-in-chief in Germany, the Archduke [[Ferdinand]]. He was the real
 responsible commander of the army which opposed Napoleon in Bavaria, but
 his position was ill-defined and his authority treated with slight
 respect by the other general officers. For the events of the Ulm campaign
 and an estimate of Mack's responsibility for the disaster, see NAPOLEONIC
-CAMPAIGNS. After Austerlitz, Mack was tried by a court-martial, sitting
+CAMPAIGNS. After [[Austerlitz]], Mack was tried by a court-martial, sitting
 from February 1806 to June 1807, and sentenced to be deprived of his
 rank, his regiment, and the order of Maria Theresa, and to be imprisoned
 for two years. He was released in 1808, and in 1819, when the ultimate
@@ -74,12 +74,12 @@ died on the 22nd of October 1828 at S. Pölten.
 
 
 McLANE, LOUIS (1786-1857), American political leader, was born in
-Smyrna, Delaware, on the 28th of May 1786, son of Allan McLane
+Smyrna, [[Delaware]], on the 28th of May 1786, son of Allan McLane
 (1746-1829), a well-known Revolutionary soldier. He was admitted to the
 bar in 1807. He entered politics as a Democrat, and served in the
 Federal House of Representatives in 1817-1827 and in the Senate in
 1827-1829. He was minister to England in 1829-1831, and secretary of the
-treasury in Jackson's cabinet from 1831 (when in his annual report he
+treasury in Jackson's [[Cabinet|cabinet]] from 1831 (when in his annual report he
 argued for the United States Bank) until May 1833, when he was
 transferred to the state department. He retired from the cabinet in June
 1834. He was president of the Baltimore & Ohio railway in 1837-1847,

@@ -12,7 +12,7 @@ Moraceae), a native of Venezuela. As in other members of the order, the
 stem contains a milky latex, which flows out in considerable quantities
 when a notch is cut in it. The "milk" is sweet and pleasant tasting.
 Another species, _B. Alicastrum_, the bread-nut tree, a native of
-central America and Jamaica, bears a fruit which is cooked and eaten.
+[[Central America|central America]] and Jamaica, bears a fruit which is cooked and eaten.
 The bread-fruit (_Artocarpus_) is an allied genus of the same natural
 order.
 

@@ -6,11 +6,11 @@ topic: grammar-studies
 
 # Attorney-General
 
-ATTORNEY-GENERAL, in England, the chief law officer appointed to manage
+ATTORNEY-GENERAL, in England, the chief law officer appointed to [[Manage|manage]]
 all the legal affairs and suits in which the crown is interested. He is
 appointed by letters-patent authorizing him to hold office during the
 sovereign's pleasure. He is _ex officio_ the leader of the bar, and only
-counsel of the highest eminence are appointed to the office. The origin
+counsel of the highest [[Eminence|eminence]] are appointed to the office. The origin
 of the office is uncertain, but as far back as 1277 we find an
 _attornatus regis_ appointed to look after the interests of the crown,
 in proceedings affecting it before the courts. He has precedence in all
@@ -28,7 +28,7 @@ House of Commons they defend the legality of ministerial action if
 called in question. Previously to 1895 there was no restriction placed
 on the law officers as to their acceptance of private practice, but
 since that date this privilege has been withdrawn, and the salary of the
-attorney-general is fixed at L7000 a year and in addition such fees
+attorney-general is fixed at L7000 a year and in addition such [[Fee|fees]]
 according to the ordinary professional scales as he may receive for any
 litigious business he may conduct on behalf of the crown. The crown has
 also as a legal adviser an attorney-general in Ireland. In Scotland he
@@ -37,11 +37,11 @@ almost all the British colonies, and his duties are very similar to
 those of the same officer in England. In the self-governing colonies he
 is appointed by the administration of the colony, and in the crown
 colonies by royal warrant under the signet and sign-manual. There is an
-attorney-general for the duchy of Cornwall and also one for the duchy of
-Lancaster, each of whom sues in matters relating to that duchy.
+attorney-general for the duchy of [[Cornwall]] and also one for the duchy of
+[[Lancaster]], each of whom sues in matters relating to that duchy.
 
 The United States has an officer of this name, who has a seat in the
-cabinet. His duties are in general to represent the federal government
+[[Cabinet|cabinet]]. His duties are in general to represent the [[Federal Government|federal government]]
 before the United States Supreme Court, to advise the president on
 questions of law, and to advise similarly the heads of the state
 departments with reference to matters affecting their department. His

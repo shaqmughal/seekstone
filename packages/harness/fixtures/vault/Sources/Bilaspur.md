@@ -16,10 +16,10 @@ invasion (see below), when a Mahratta official took up his abode there
 and began to build a fort which was never completed. In 1862 it was made
 the headquarters of the district. The population in 1901 was 18,937. It
 is an important junction on the Bengal-Nagpur railway, where the two
-lines from the west meet on their way to Calcutta, 255 m. from Nagpur.
+lines from the west meet on their way to [[Calcutta]], 255 m. from Nagpur.
 
 The DISTRICT of BILASPUR has an area of 7602 sq. m. It forms the upper
-half of the basin of the river Mahanadi. It is almost enclosed on the
+half of the basin of the river [[Mahanadi]]. It is almost enclosed on the
 north, west and east by ranges of hills, while its southern boundary is
 generally open and accessible, well cultivated, and closely dotted with
 villages embedded in groups of fruit trees. The principal hills are--(1)
@@ -56,7 +56,7 @@ was 917,240.
 
 Among the Hindu inhabitants of the district, the Chamars and Pankas
 deserve particular notice. The former, who form the shoemaker and
-leather-dealing caste of the Hindu community, had always been held in
+leather-dealing [[Caste|caste]] of the Hindu community, had always been held in
 utter contempt by the other Hindu castes. But between 1820 and 1830 a
 religious movement, having for its object their freedom from the
 trammels of caste, was inaugurated by a member of the caste, named Ghasi
@@ -65,15 +65,15 @@ gave himself out as a messenger of God; he prohibited the adoration of
 idols, and enjoined the worship of the Supreme Being without any visible
 sign or representation. The followers of the new faith call themselves
 _Satnamis_, or the worshippers of _Satnam_ or God. They do not keep the
-Hindu festivals and they defy the contempt of the Brahmans. Ghasi Das,
+Hindu festivals and they defy the contempt of the [[Brahman|Brahmans]]. Ghasi Das,
 the founder of the faith, was their first high priest. He died in 1850;
 his son succeeded him, but was assassinated (it was said by the Hindus),
 and the grandson succeeded him. The Pankas, who form about a sixth of
 the population, are all Kabirpanthis, or followers of Kabir, a religious
 reformer of the 15th century. There is no great difference between the
-Kabir Pankas and the Satnamis. They both abstain from meat and liquor,
+Kabir Pankas and the Satnamis. They both abstain from [[Meat|meat]] and liquor,
 marry at the age of puberty, ordinarily celebrate their ceremonies
-through the agency of the elders of their own caste and bury their dead.
+through the agency of the elders of their own caste and [[Bury|bury]] their dead.
 The Pankas worship the Supreme Being under the name of _Kabir_, and the
 Chamars under the name of _Satnam_; while each community has a high
 priest to whom reverence is paid. At present the majority of the Pankas
@@ -84,7 +84,7 @@ their language and most of their ethnical characteristics, such as the
 flat forehead, squat nose, prominent nostril, dark skin, &c., and are
 scarcely distinguishable from the other classes of the Hindu labouring
 population. In addition to some of the Hindu deities which they worship,
-the Gonds have their own gods--Bara Deva and Dula Deva. The Kanwars are
+the Gonds have their own gods--Bara [[Deva]] and Dula Deva. The Kanwars are
 the next largest section of the aboriginal population. The upper class
 among them claim to be Rajputs, and are divided into numerous septs.
 Although an aboriginal tribe, the census returns them as a Hindu caste.
@@ -93,10 +93,10 @@ consequently occupies an influential position.
 
 The chief wealth of the district consists in its agricultural produce.
 Rice, wheat, pulses, millet, mustard, oil-seeds and cotton are the chief
-crops. Rice, the chief export, is sent to Bombay, Berar and northern
+crops. Rice, the chief export, is sent to Bombay, [[Berar]] and northern
 India. The tussur silk industry is of considerable importance, and the
 silk is reputed the best in the Central Provinces. Sal and other timber
-is exported. Lac is sent in large quantities to Calcutta and Mirzapur.
+is exported. [[Lac]] is sent in large quantities to Calcutta and Mirzapur.
 Coal and iron are the chief minerals; sandstone for building purposes is
 quarried near Bilaspur and Seorinarain. Among local industries the most
 important is the weaving trade.
@@ -107,7 +107,7 @@ known as the Chhattisgarh rajas, on account of thirty-six forts
 (_garhs_), of which they were the lords. A genealogical list of kings of
 this dynasty was carefully kept up to the fifty-fifth representative in
 the year 1741, when the country was seized without a struggle by the
-Mahrattas of Nagpur. From 1818 to 1830 Bilaspur came under the
+[[Mahrattas]] of Nagpur. From 1818 to 1830 Bilaspur came under the
 management of the British government, the Mahratta chief of Nagpur being
 then a minor. In 1854 the country finally lapsed to the British
 government, the chief having died without issue. During the Sepoy mutiny

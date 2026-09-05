@@ -12,15 +12,15 @@ until 1742, when he succeeded Porpora as head of the Conservatorio di
 Santa Maria di Loreto, also at Naples. This post he held for thirteen
 years, till his death on the 13th of August 1755 at Naples. He was
 married three times. His fame as a teacher was all but unrivalled, and
-Jommelli, Paesiello, Pergolesi, Piccini and Vinci were amongst his
+[[Jommelli]], Paesiello, Pergolesi, Piccini and Vinci were amongst his
 pupils. A complete collection of Durante's works, consisting all but
 exclusively of sacred compositions, was presented by Selvaggi, a
-Neapolitan lover of art, to the Paris library. A catalogue of it may be
+Neapolitan lover of art, to the Paris library. A [[Catalogue|catalogue]] of it may be
 found in Fétis's _Biographie universelle_. The imperial library of
-Vienna also preserves a valuable collection of Durante's manuscripts.
+Vienna also preserves a valuable collection of Durante's [[Manuscript|manuscripts]].
 Two requiems, several masses (one of which, a most original work, is the
 _Pastoral Mass_ for four voices) and the _Lamentations_ of the prophet
-Jeremiah are amongst his most important settings. The fact that Durante
+[[Jeremiah]] are amongst his most important settings. The fact that Durante
 never composed for the stage brought him a somewhat exaggerated
 reputation as a composer of sacred music. Although certainly one of the
 best church composers of his style and period, he is far inferior to
@@ -42,18 +42,18 @@ Alessandro Scarlatti.     (E. J. D.)
 
 
 DURÃO, JOSÉ DE SANTA RITA (1720-1784), Brazilian poet, was born near
-Marianna, in the province of Minas Geraes, in 1720, and died in Lisbon
+Marianna, in the province of Minas Geraes, in 1720, and died in [[Lisbon]]
 in 1754. He studied at Coimbra, in Portugal, graduated as a doctor of
-divinity, became a member of the Augustinian order of friars, and
+divinity, became a member of the Augustinian order of [[Friar|friars]], and
 obtained a great reputation as a preacher. Having irritated the minister
-Pombal by his defence of the Jesuits, he retired from Portugal in 1759;
+Pombal by his defence of the [[Jesuits]], he retired from Portugal in 1759;
 and, after being imprisoned in Spain as a spy, found his way to Italy in
-1763, where he became acquainted with Alfieri, Pindemonte, Casti and
+1763, where he became acquainted with Alfieri, Pindemonte, [[Casti]] and
 other literary men of the time. On his return to Portugal he delivered
 the opening address at the university of Coimbra for the year 1777; but
 soon after retired to the cloisters of a Gratian convent. At the time of
 his death he taught in the little college belonging to that order in
-Lisbon. His epic in ten cantos, entitled _Caramúru, poema epico do
+Lisbon. His epic in ten [[Canto|cantos]], entitled _Caramúru, poema epico do
 descubrimento da Bahia_, appeared in Lisbon in 1781, but proved at first
 a total failure. Its value has gradually been recognized, and it now
 ranks as one of the best poems in Brazilian literature--remarkable

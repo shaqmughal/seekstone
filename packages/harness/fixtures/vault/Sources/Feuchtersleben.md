@@ -16,14 +16,14 @@ medicine. In 1833 he obtained the degree of doctor of medicine, settled
 in Vienna as a practising surgeon, and in 1834 married. The young doctor
 kept up his connexion with the university, where he lectured, and in
 1844 was appointed dean of the faculty of medicine. He cultivated the
-acquaintance of Franz Grillparzer, Heinrich Laube, and other
+acquaintance of [[Franz]] Grillparzer, Heinrich [[Laube]], and other
 intellectual lights of the Viennese world, interested himself greatly in
 educational matters, and in 1848, while refusing the presidency of the
 ministry of education, accepted the appointment of under secretary of
 state in that department. His health, however, gave way, and he died at
-Vienna on the 3rd of September 1849. He was not only a clever physician,
+Vienna on the 3rd of September 1849. He was not only a [[Clever|clever]] physician,
 but a poet of fine aesthetical taste and a philosopher. Among his
-medical works may be mentioned: _Über das Hippokratische erste Buch von
+medical works may be mentioned: _Über das Hippokratische erste [[Buch]] von
 der Diät_ (Vienna, 1835), _Ärzte und Publicum_ (Vienna, 1848) and
 _Lehrbuch der ärztlichen Seelenkunde_ (1845). His poetical works include
 _Gedichte_ (Stutt. 1836), among which is the well-known beautiful hymn,
@@ -39,7 +39,7 @@ deutschen_ Klassiker (Vienna, 1851; 3rd ed. 1865-1866).
 
   His collected works (with the exception of the purely medical ones)
   were published in 7 vols. by Fr. Hebbel (Vienna, 1851-1853). See M.
-  Necker, "Ernst von Feuchtersleben, der Freund Grillparzers," in the
+  Necker, "Ernst von Feuchtersleben, der [[Freund]] Grillparzers," in the
   _Jahrbuch der Grillparzer Gesellschaft_, vol. iii. (Vienna, 1893).
 
 ## References

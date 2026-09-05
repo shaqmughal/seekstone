@@ -50,7 +50,7 @@ magnificent viaduct of thirty-five arches, exceeding 200 ft. in height.
 At the Lisbon end of the aqueduct is the Mae d'Agua (i.e. "Mother of
 Water"), containing a huge stone hall in the midst of which is the
 reservoir. The Alviella aqueduct, opened in 1880, brings water from
-Alviella near Pernes, 70 m. N.N.E. Numerous fountains are among the
+Alviella near Pernes, 70 m. N.N.E. Numerous [[Fountain|fountains]] are among the
 means of distribution. Sewage is discharged into the Tagus, and the
 sanitation of the city is good, except in the older quarters.
 
@@ -146,7 +146,7 @@ cemeteries east and west of Lisbon, a German cemetery, and an English
 cemetery, known also as _Os Cyprestes_ from the number of its cypresses.
 This was laid out in 1717 at the cost of the British and Dutch residents
 and contains the graves of Henry Fielding (1707-1754), the novelist, and
-Dr Philip Doddridge (1702-1751), the Nonconformist divine.
+Dr Philip [[Doddridge]] (1702-1751), the Nonconformist divine.
 
 Lisbon is the seat of an archbishop who since 1716 has borne _ex
 officio_ the honorary title of patriarch; he presides over the House of
@@ -172,7 +172,7 @@ Tombo collection, because in 1375 the archives were first stored in a
 tower of that name. The royal palace, or Paço das Necessidades, west of
 Buenos Ayres, is a vast 18th-century mansion occupying the site of a
 chapel dedicated to Nossa Senhora das Necessidades (i.e. "Our Lady who
-helps at need").
+[[Helps|helps]] at need").
 
   _The Suburbs of Ajuda and Belem._--In the extreme west of Lisbon,
   beyond the Alcantara valley, are Belem (i.e. "Bethlehem"), beside the
@@ -211,7 +211,7 @@ helps at need").
   do Rojo; and a strip of territory extending inland for a mean distance
   of 30 m. This region corresponds with the southern part of Estremadura
   (q.v.). Its more important towns, Setubal, Cintra, Torres Vedras and
-  Mafra, are described in separate articles. Sines, a small seaport on
+  [[Mafra]], are described in separate articles. Sines, a small seaport on
   Cape Sines, was the birthplace of Vasco da Gama. On the left bank of
   the Tagus, opposite Lisbon, are the small towns of Almada, Barreiro,
   Aldeia Gallega and Seixal, and the hamlet of Trafaria, inhabited by
@@ -227,7 +227,7 @@ helps at need").
   with a large British staff, and a club and grounds where social and
   athletic meetings are held by the British colony. Alhandra, on the
   right bank of the Tagus, above Lisbon, was the birthplace of
-  Albuquerque; fighting bulls for the Lisbon arena are bred in the
+  Albuquerque; fighting [[Bull|bulls]] for the Lisbon arena are bred in the
   adjacent pastures.
 
 _Railways, Shipping and Commerce._--Lisbon has five railway
@@ -286,7 +286,7 @@ international reputation; it possesses a valuable library and museum.
 The National Library, founded in 1796, contains over 400,000 printed
 books, and upwards of 9000 MSS. There are also colonial, naval,
 artillery, natural history and commercial museums, meteorological and
-astronomical observatories, zoological gardens and an aquarium. Purely
+astronomical observatories, zoological gardens and an [[Aquarium|aquarium]]. Purely
 educational institutions include the medical, polytechnic, military and
 naval schools, commercial, agricultural and industrial institutes, a
 school of art, a central lyceum, a school for teachers, &c. The English
@@ -352,7 +352,7 @@ fall into his hands, and yielded only after a siege of several months
 (21st October 1147), in which he was aided by English and Flemish
 crusaders on their way to Syria. In 1184 the city was again attacked by
 the Moslems under the powerful caliph Abu Yakub, but the enterprise
-failed. In the reign of Ferdinand I., the greater part of the town was
+failed. In the reign of [[Ferdinand]] I., the greater part of the town was
 burned by the Castilian army under Henry II. (1373), and in 1384 the
 Castilians again besieged Lisbon, but without success. Lisbon became the
 seat of an archbishop in 1390, the seat of government in 1422. During

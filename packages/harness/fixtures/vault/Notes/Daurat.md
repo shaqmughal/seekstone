@@ -1,7 +1,7 @@
 # Daurat
 
-DAURAT (or DORAT), JEAN (in Lat. AURATUS), (1508-1588), French poet and
-scholar, and member of the Pleiade, was born at Limoges in 1508. His
+DAURAT (or [[Dorat|DORAT]]), JEAN (in Lat. AURATUS), (1508-1588), French poet and
+scholar, and member of the Pleiade, was born at [[Limoges]] in 1508. His
 name was originally Dinemandy. He belonged to a noble family, and, after
 studying at the college of Limoges, came up to Paris to be presented to
 Francis I., who made him tutor to his pages. He rapidly gained an
@@ -15,7 +15,7 @@ Belleau and Pontus de Tyard. Joachim du Bellay was added by Ronsard to
 this group; and these five young poets, under the direction of Daurat,
 formed a society for the reformation of the French language and
 literature. They increased their number to seven by the initiation of
-the dramatist Etienne Jodelle, and thereupon they named themselves La
+the dramatist Etienne [[Jodelle]], and thereupon they named themselves La
 Pleiade, in emulation of the seven Greek poets of Alexandria. The
 election of Daurat as their president proved the weight of his personal
 influence, and the value his pupils set on the learning to which he
@@ -24,7 +24,7 @@ important of the seven. Meanwhile he collected around him a sort of
 Academy, and stimulated the students on all sides to a passionate study
 of Greek and Latin poetry. He himself wrote incessantly in both those
 languages, and was styled the Modern Pindar. His influence extended
-beyond the bounds of his own country, and he was famous as a scholar in
+beyond the [[Bounds|bounds]] of his own country, and he was famous as a scholar in
 England, Italy and Germany. In 1556 he was appointed professor of Greek
 at the College Royale, a post which he continued to hold until, in 1567,
 he resigned it in favour of his nephew, Nicolas Goulu. Charles IX. gave

@@ -35,7 +35,7 @@ distinguishable merely as different, though correlative, activities of
 consciousness. Professor Stout further investigates the phenomena of
 apprehension, and comes to the conclusion that "it is possible to
 distinguish and identify a whole without apprehending any of its
-constituent details." On the other hand, if the attention focuses
+constituent details." On the other hand, if the attention [[Focus|focuses]]
 itself for a time on the apprehended object, there is an expectation
 that such details will as it were emerge into consciousness. Hence he
 describes such apprehension as "implicit," and in so far as the implicit
@@ -50,7 +50,7 @@ synthetic act (the "synthesis of apprehension") by which the sensory
 elements of a perception are subjected to the formal conditions of time
 and space.
 
-  See G.F. Stout, _Analytic Psychology_ (London, 1896); F. Brentano,
+  See G.F. Stout, _Analytic Psychology_ (London, 1896); F. [[Brentano]],
   _Psychologie_ (bk. ii. ch. vii.), and _Vom Ursprung sittlicher
   Erkenntnis_; B. Titchener, _Outlines of Psychology_ (New York, 1902),
   and text-books of psychology. Also PSYCHOLOGY.
@@ -68,7 +68,7 @@ have had any connexion with the division of the Roman citizens into
 tribes or colleges. So far as can be seen it arose in the middle ages,
 and formed an integral part of the system of trade gilds and
 corporations by which skilled labourers of all kinds sought protection
-against the feudal lords, and the maintenance of those exclusive
+against the feudal lords, and the [[Maintenance|maintenance]] of those exclusive
 privileges with which in the interests of the public they were favoured.
 In those times it was believed that neither arts nor sciences would
 flourish unless such only were allowed to practise them as had given
@@ -87,7 +87,7 @@ _apprenticii ad legem_--the serjeants-at-law being _servientes ad
 legem_; and these two terms corresponded respectively to the trade names
 of apprentices and journeymen. During the middle ages the term of
 apprenticeship was seven years, and this period was thought no more than
-sufficient to instruct the learner in his profession, craft or mystery
+sufficient to instruct the learner in his profession, [[Craft|craft]] or mystery
 under a properly qualified master, teacher or doctor--for these names
 were synonymous--and to reimburse the latter by service for the training
 received. After this the apprentice became himself a master and a member
@@ -98,7 +98,7 @@ degree of doctor or master in the liberal arts. On the continent of
 Europe these rules were observed with considerable rigour, both in the
 learned professions and in those which we now designate as trades. In
 England they made their way more slowly and did not receive much
-countenance, there being always a jealousy of anything savouring of
+countenance, there being always a [[Jealousy|jealousy]] of anything savouring of
 interference with the freedom of trade. Nevertheless the formation of
 gilds and companies of tradesmen in England dates probably from the 12th
 century, and the institution of apprenticeships cannot be of much later
@@ -110,7 +110,7 @@ and normal term in the absence of special arrangement. By a statute of
 person should exercise any "trade or mystery" without having served a
 seven years' apprenticeship. In no place did the apprentices become so
 formidable by their numbers and organization as in London. During the
-Great Rebellion they took an active part as a political body, and were
+[[Great Rebellion]] they took an active part as a political body, and were
 conspicuous after the Restoration by being frequently engaged in
 tumults. It was probably owing to this circumstance, quite as much as to
 economic considerations of freedom of trade, that the act of Elizabeth
@@ -124,7 +124,7 @@ not make his own wheels but must buy them of a wheelwright, while the
 latter might make both wheels and coaches, because coach-making was not
 a trade in England when the act of Elizabeth was passed. For the like
 reason the great textile and metal manufactures which arose at
-Manchester and Birmingham were held exempt from the operation of the
+Manchester and [[Birmingham]] were held exempt from the operation of the
 statute. Concurrently with the dislike to the apprentice laws which such
 anomalies generated, the doctrines of Adam Smith, that all monopolies or
 restrictions on the freedom of trade were injurious to the public
@@ -156,10 +156,10 @@ qualification is maintained in greater vigour than ever.
 In some kinds of manufacture the old conditions have been modified by
 the subdivisions of labour or by the introduction of machinery, which
 have reduced the amount of skill which formerly was requisite, and thus
-they have passed out of the category of the higher skilled handicrafts,
+they have passed out of the [[Category|category]] of the higher skilled handicrafts,
 as only a very slight or short training is necessary to make an
 efficient worker; but a large number of the higher skilled trades remain
-which require a long period of training at the bench, and a careful
+which require a long period of training at the [[Bench|bench]], and a careful
 inquiry into this subject has shown that in nearly all of such trades
 there is a scarcity of skilled workers, which is due to the falling off
 in the number of apprenticeships. Many persons qualified to form an
@@ -180,7 +180,7 @@ Apprenticeship, to meet these difficulties. The Charity Commissioners in
 their report for 1905 recognized the value of this institution, and
 stated that they would in future enable the trustees of charity
 endowments for apprenticeship to avail themselves of the practical
-co-operation of the institution. The modern trade unions, on the other
+[[Co-Operation|co-operation]] of the institution. The modern trade unions, on the other
 hand, have done nothing to assist in restoring apprenticeship to its
 proper place; on the contrary, they have hampered it by restrictions
 which they have imposed, limiting the number of apprentices who may be
@@ -193,7 +193,7 @@ period; but the principle remains precisely the same, and the fact that
 it is applied more and more largely in Austria, Germany and other
 countries is an evidence of its necessity.
 
-The contract of apprenticeship is generally created by indenture, but
+The contract of apprenticeship is generally created by [[Indenture|indenture]], but
 any writing properly expressed and attested will do. The full
 consideration must be set out, and the instrument, whether a premium is
 paid or not, must be duly stamped, except in the case of parish
@@ -219,8 +219,8 @@ consent. It is usual in the indenture to state whether the apprentice is
 to be paid wages or otherwise. If the contract is to pay wages, no
 deduction can be made owing to illness or accident, unless it has been
 so provided for in the indentures. Nor is the apprentice liable for
-breakages or similar faults. The master has been supposed to have a
-right to administer moderate corporal punishment, though he may not
+breakages or similar [[Fault|faults]]. The master has been supposed to have a
+right to administer moderate [[Corporal Punishment|corporal punishment]], though he may not
 delegate it. But this right is really obsolete. According to old custom
 a master provided proper food for his apprentices, and medical
 attendance when required; but the modern practice is for apprentices to
@@ -231,19 +231,19 @@ transfer his business. The contract of apprenticeship may be dissolved
 by (1) efflux of time; (2) by death (if the master dies, some part of
 the premium is usually returnable, but if the apprentice dies no part is
 returnable); (3) by consent; (4) in case of grave misconduct; (5) under
-the Bankruptcy Act 1883, providing for discharge of the indentures of
+the [[Bankruptcy]] Act 1883, providing for [[Discharge|discharge]] of the indentures of
 apprenticeship and for payment on account of premium. Disputes between
 master and apprentice, in cases where no premium has been paid, or where
 the premium does not exceed L25, are dealt with by courts of summary
 jurisdiction. Apprentices bound according to the "custom of London," who
-are infants above the age of fourteen years and under twenty-one and
-unmarried, are responsible upon covenants contained in indentures
+are [[Infant|infants]] above the age of fourteen years and under twenty-one and
+unmarried, are responsible upon [[Covenant|covenants]] contained in indentures
 executed by them just as if they were of full age. The term of
 apprenticeship is usually not less than four years. Apprentices by the
-custom of London in agreements made at the Guildhall are subject to the
-jurisdiction of the chamberlain of London.
+custom of London in agreements made at the [[Guildhall]] are subject to the
+jurisdiction of the [[Chamberlain|chamberlain]] of London.
 
-Parish apprentices are those bound out by guardians of the poor in
+Parish apprentices are those bound out by [[Guardian|guardians]] of the poor in
 England. By the Poor Relief Act 1601, overseers of the poor were
 empowered, with the consent of two justices, to put out poor children as
 apprentices "where they shall be convenient." Owing to the
@@ -251,13 +251,13 @@ disinclination to receive such apprentices it became necessary to make
 the reception compulsory (1696), but this compulsion to receive them was
 abolished in 1844. Many statutes have been passed from time to time
 regulating the apprenticing of parish children, but it is now under the
-control of the Local Government Board, which issues rules specifying
+control of the [[Local Government Board]], which issues rules specifying
 fully the manner in which such children are to be bound, assigned and
 maintained.
 
   AUTHORITIES.--See E. Austin, _Law Relating to Apprentices_ (1890);
   Addison, _On Contracts_ (1905). For the state of apprenticeship in
-  European countries, and, more particularly in France, see
+  [[European Countries|European countries]], and, more particularly in France, see
   _Apprentissage, enquete et documents_ (Paris, 1904, Conseil Superieur
   du Travail, Ministere du Commerce, de l'Industrie, des Postes et des
   Telegraphes, session de 1902). See also the literature issued by the

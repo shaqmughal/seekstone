@@ -14,7 +14,7 @@ retain unimpaired their individual sovereignty, and the citizens of a
 federation consequently owe a double allegiance, one to the state, and
 the other to the federal government. They live under two sets of laws,
 the laws of the state and the laws of the federal government (J. Bryce,
-_Studies in History and Jurisprudence_, ii. 490). The word
+_Studies in History and [[Jurisprudence]]_, ii. 490). The word
 "confederation," as distinct from "federation" has been sometimes,
 though not universally, used to distinguish from such a federal state
 (_Bundesstaat_) a mere union of states (_Staatenbund_) for mutual aid,
@@ -33,22 +33,22 @@ we possess concerning the federal governments of Greece makes it
 necessary to pay special attention to them.
 
 In ancient Greece the most striking tendency of political development
-was the maintenance of separate city states, each striving for absolute
+was the [[Maintenance|maintenance]] of separate city states, each striving for absolute
 autonomy, though all spoke practically the same language and shared to
 some extent in the same traditions, interests and dangers. This
 centrifugal tendency is most marked in the cases of the more important
-states, Athens, Sparta, Argos, Corinth, but Greek history is full of
+states, Athens, Sparta, [[Argos]], [[Corinth]], but Greek history is full of
 examples of small states deliberately sacrificing what must have been
 obvious commercial advantage for the sake of a precarious autonomy. Such
 examples as existed of even semi-federal union were very loose in
 structure, and the selfishness of the component units was the
-predominant feature. Thus the Spartan hegemony in the Peloponnese was
+predominant feature. Thus the Spartan [[Hegemony|hegemony]] in the Peloponnese was
 not really a federation except in the broadest sense. The states did, it
 is true, meet occasionally for discussion, but their relation, which had
 no real existence save in cases of immediate common danger, was really
 that between a paramount leader and unwilling and suspicious allies. The
 Athenian empire again was a thinly disguised autocracy. The synod (see
-DELIAN LEAGUE) of the "allies" soon degenerated into a mere form; of
+[[Delian League|DELIAN LEAGUE]]) of the "allies" soon degenerated into a mere form; of
 comprehensive united policy there was none, at all events after the
 League had achieved its original purpose of expelling the Persians from
 Europe.
@@ -56,7 +56,7 @@ Europe.
 None the less it is possible, even in the early days of political
 development in Greece, to find some traces of a tendency towards united
 action. Thus the unions of individual villages, known as synoecisms,
-such as took place in Attica and Elis in early times were partly of a
+such as took place in Attica and [[Eli|Elis]] in early times were partly of a
 federal character: they resulted in the establishment of a common
 administration, and no doubt in some degree of commercial and military
 unity. On the other hand, it is likely that these unions lacked the
@@ -77,22 +77,22 @@ between an easily dissoluble relationship, more like an alliance than a
 federation, and a national system resulting from synoecism was
 practically never attained in early Greek history. There are, however,
 examples in Greece proper, and one, Lycia in Asia Minor, of real federal
-unions. The chief Greek federations were those of Thessaly, Boeotia,
-Acarnania, Olynthus, Arcadia, Aetolia, Achaea, the most important as
+unions. The chief Greek federations were those of Thessaly, [[Boeotia]],
+Acarnania, Olynthus, [[Arcadia]], Aetolia, Achaea, the most important as
 well as the most complete in respect of organization being the Aetolian
 League and the Achaean League.
 
 1. The Thessalian League originated in the deliberate choice by village
 aristocracies of a single monarch who belonged from time to time to
 several of the so-called Heracleid families. Soon after the Persian War
-this monarchy (dynasty of the Aleuadae, Herod, v. 63 and vii. 6)
+this monarchy (dynasty of the Aleuadae, [[Herod]], v. 63 and vii. 6)
 disappeared, and in 424 we find Athens in alliance with a sort of
 democratic federal council representing [Greek: to koinon thettalon]
 (cf. Thuc. i. 102, ii. 22, iv. 78), and probably composed of delegates
 from the towns. The local feudal nobles, however, seem to have put an
-end to this government by council, and a dictator (_tagus_) was
+end to this government by council, and a [[Dictator|dictator]] (_tagus_) was
 appointed, with authority over the whole military force of the
-federation. Three such officers, Lycophron, Jason and Alexander, all of
+federation. Three such officers, Lycophron, [[Jason]] and Alexander, all of
 Pherae, endeavoured vainly to administer the collective affairs of the
 federation, the last by means of a revived republican council. The final
 failure of this scheme coincided with the disappearance of Thessaly as a
@@ -106,7 +106,7 @@ of Thebes, especially during its short-lived supremacy after 379 B.C.
 3. The federation of Acarnania is of peculiar interest as being formed
 by scattered villages or tribes, without settled, still less fortified,
 habitation. In the early part of the 4th century a [Greek: koinon ton
-Akarnanon] met at Stratus (Xen. _Hell._ iv. 6. 4). Late in the same
+Akarnanon] met at Stratus (Xen. _[[Hell]]._ iv. 6. 4). Late in the same
 century towns began to form, without, however, disturbing the
 federation, which existed as late as the 2nd century B.C., governed by a
 representative council ([Greek: boula]), and a common assembly ([Greek:
@@ -119,7 +119,7 @@ exercise force against recalcitrants such as Acanthus.
 
 5. The 4th century Arcadian league, which was no doubt a revival of an
 older federation, was the result of the struggle for supremacy between
-Thebes and Sparta. The defeat of Sparta at Leuctra removed the pressure
+Thebes and Sparta. The defeat of Sparta at [[Leuctra]] removed the pressure
 which had kept separate the Arcadian tribes, and [Greek: to koinon ton
 Arkadon] was established in the new city, Megalopolis (q.v., also
 Arcadia).
@@ -165,10 +165,10 @@ therefore, in this respect rather national than federal.
 
 Of ancient federal government outside Greece we know very little. The
 history of Italy supplies a few examples, of which the chief is perhaps
-the league of the cities of Latium (q.v.; see also ETRURIA).
+the league of the cities of [[Latium]] (q.v.; see also ETRURIA).
 
   See E.A. Freeman, _Federal Government in Greece and Rome_ (2nd ed.,
-  1893, J.B. Bury), and works quoted in the special articles.
+  1893, J.B. [[Bury]]), and works quoted in the special articles.
 
 Among the later European confederations the Swiss republic is one of the
 most interesting. As now constituted it consists of twenty-two sovereign
@@ -177,9 +177,9 @@ a senate or council of state (_Standerat_), and a national council
 (_Nationalrat_), constituting unitedly the federal assembly. The
 executive council (_Bundesrat_) of seven members elects the president
 and vice-president for a term of three years (see SWITZERLAND:
-_GOVERNMENT_). Before the French Revolution the German empire was a
+_GOVERNMENT_). Before the [[French Revolution]] the German empire was a
 complex confederation, with the states divided into electoral colleges,
-consisting--(1) of the ecclesiastical electors and of the secular
+consisting--(1) of the ecclesiastical [[Electors|electors]] and of the secular
 electors, including the king of Bohemia; (2) of the spiritual and
 temporal princes of the empire next in rank to the electors; and (3) of
 the free imperial cities. The emperor was elected by the first college
@@ -200,7 +200,7 @@ federal parliament. This body has power to legislate for the whole
 empire in reference to all matters connected with the army, navy, postal
 service, customs, coinage, &c., all political laws affecting citizens,
 and all general questions of commerce, navigation, passports, &c. The
-emperor represents the federation in all international relations, with
+emperor represents the federation in all [[International|international]] relations, with
 the chancellor as first minister of the empire, and has power, with
 consent of the Bundesrath, to declare war in name of the empire.
 
@@ -246,7 +246,7 @@ rights in relation to all local self-government, and sustaining a
 constitutional autonomy, while cherishing the colonial relationship to
 Great Britain.
 
-The Commonwealth of Australia (q.v.), proclaimed in 1901, is another
+The [[Commonwealth]] of [[Australia]] (q.v.), proclaimed in 1901, is another
 interesting example of self-governing states federating into a united
 whole. There is, however, a striking difference to be observed in the
 powers of the federal governments of Canada and Australia. The federal
@@ -256,7 +256,7 @@ Australia has only such jurisdiction as is expressly vested in it or is
 not expressly withdrawn from the local legislatures. This jurisdiction
 is undoubtedly extensive, comprising among others, power to legislate
 concerning trade and industry, criminal law, taxation, quarantine,
-marriage and divorce, weights and measures, legal tender, copyrights and
+marriage and divorce, weights and measures, legal tender, [[Copyright|copyrights]] and
 patents, and naturalization and aliens. There was also an early attempt
 to federate the South African colonies, and an act was passed for that
 purpose (South African Act 1877), but it expired on the 18th of August

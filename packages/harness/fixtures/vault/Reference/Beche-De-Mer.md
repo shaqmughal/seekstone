@@ -14,7 +14,7 @@ Chinese and other Eastern peoples, connected with the production of
 which considerable trade exists in the Eastern Archipelago and the
 coasts of New Guinea, and also in California. It consists of several
 species of echinoderms, generally referred to the genus _Holothuria_,
-especially _H. edulis_. The creatures, which exist on coral reefs, have
+especially _H. edulis_. The creatures, which exist on [[Coral|coral]] reefs, have
 bodies from 6 to 15 in. long, shaped like a cucumber, hence their name
 of "sea-cucumbers." The skin is sometimes covered with spicules or
 prickles, and sometimes quite smooth, and with or without "teats" or

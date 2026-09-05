@@ -12,7 +12,7 @@ completed his university course, he was for many years in very
 straitened circumstances. An elegy written by him in Latin on the death
 of a friend attracted the attention of Count von Bruhl, the prime
 minister, who expressed a desire to see the author. Accordingly, in
-April 1752, Heyne journeyed to Dresden, believing that his fortune was
+April 1752, Heyne journeyed to [[Dresden]], believing that his fortune was
 made. He was well received, promised a secretaryship and a good salary,
 but nothing came of it. Another period of want followed, and it was only
 by persistent solicitation that Heyne was able to obtain the post of
@@ -31,18 +31,18 @@ of Dresden (to which city he had meanwhile returned) on the 18th of July
 edition of Lucian, based on a valuable codex of the Dresden Library. In
 the summer of 1761, although still without any fixed income, he married,
 and for some time he found it necessary to devote himself to the duties
-of land-steward to the Baron von Loben in Lusatia. At the end of 1762,
+of land-steward to the Baron von Loben in [[Lusatia]]. At the end of 1762,
 however, he was enabled to return to Dresden, where he was commissioned
 by P. D. Lippert to prepare the Latin text of the third volume of his
 _Dactyliotheca_ (an account of a collection of gems). On the death of
-Johann Matthias Gesner at Gottingen in 1761, the vacant chair was
-refused first by Ernesti and then by Ruhnken, who persuaded Munchhausen,
+Johann Matthias [[Gesner]] at Gottingen in 1761, the vacant chair was
+refused first by [[Ernesti]] and then by Ruhnken, who persuaded Munchhausen,
 the Hanoverian minister and principal curator of the university, to
 bestow it on Heyne (1763). His emoluments were gradually augmented, and
 his growing celebrity brought him most advantageous offers from other
 German governments, which he persistently refused. After a long and
 useful career, he died on the 14th of July 1812. Unlike Gottfried
-Hermann, Heyne regarded the study of grammar and language only as the
+[[Hermann]], Heyne regarded the study of grammar and language only as the
 means to an end, not as the chief object of philology. But, although not
 a critical scholar, he was the first to attempt a scientific treatment
 of Greek mythology, and he gave an undoubted impulse to philological
@@ -51,7 +51,7 @@ studies.
   Of Heyne's numerous writings, the following may be mentioned.
   Editions, with copious commentaries, of Tibullus (ed. E. C.
   Wunderlich, 1817), Virgil (ed. G. P. Wagner, 1830-1841), Pindar (3rd
-  ed. by G. H. Schafer, 1817), Apollodorus, _Bibliotheca Graeca_ (1803),
+  ed. by G. H. Schafer, 1817), [[Apollodorus]], _Bibliotheca Graeca_ (1803),
   Homer, _Iliad_ (1802); _Opuscula academica_ (1785-1812), containing
   more than a hundred academical dissertations, of which the most
   valuable are those relating to the colonies of Greece and the

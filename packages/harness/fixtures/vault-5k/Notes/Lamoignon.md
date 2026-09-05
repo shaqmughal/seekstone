@@ -9,7 +9,7 @@ type: source
 
 LAMOIGNON, a French family, which takes its name from Lamoignon, a place
 said to have been in its possession since the 13th century. One of its
-several branches is that of Lamoignon de Malesherbes. Several of the
+several branches is that of Lamoignon de [[Malesherbes]]. Several of the
 Lamoignons have played important parts in the history of France and the
 family has been specially distinguished in the legal profession.
 GUILLAUME DE LAMOIGNON (1617-1677), attained eminence as a lawyer and

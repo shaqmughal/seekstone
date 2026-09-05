@@ -4,7 +4,7 @@ BAN, a word taken from the root of a verb common to many Teutonic languages
 and meaning originally "to proclaim" or "to announce." The Late Lat. form
 of the word is _bannum_.
 
-In the laws of the Franks and kindred tribes the word had three main uses:
+In the laws of the [[Franks]] and kindred tribes the word had three main uses:
 first in the general sense of a proclamation, secondly, for the fine
 incurred for disobeying such proclamation, and thirdly for the district
 over which proclamations were issued.
@@ -33,7 +33,7 @@ upon by the vassals in their turn. As in England, the liability to military
 service was often commuted for a monetary payment, and there were various
 exemptions. In the 17th and 18th centuries the ban and arrière-ban were
 lacking in discipline when called out, and were last summoned in 1758.
-Local levies, however, called out between this date and the Revolution were
+Local [[Levi|levies]], however, called out between this date and the Revolution were
 sometimes referred to by these names.
 
 In the medieval Empire and in Germany the word "ban" retained the special
@@ -57,13 +57,13 @@ was entrusted to the imperial aulic council (_Reichshofrat_), and to the
 imperial court of justice or imperial chamber (_Reichskammergericht_).
 These courts were deprived of this power in 1711, retaining only the right
 of suggesting its use. The imperial ban had, however, been used for the
-last time in 1706, when Maximilian Emanuel, elector of Bavaria, was placed
+last time in 1706, when [[Maximilian]] Emanuel, elector of Bavaria, was placed
 under it.
 
 There are many other uses of the word in the sense of a prohibition. In
 earlier French law the ban of wine or _bannum vini_, was the exclusive
 right of a lord to sell wine during a stated number of days, and the ban of
-March and April forbade the pasturing of cattle in certain fields during
+March and April forbade the pasturing of cattle in certain [[Fields|fields]] during
 these months. There were also other similar uses dating from feudal times.
 In modern French law the phrase _rupture de ban_ described, previous to
 1885, the departure without notice of any released criminal living under
@@ -79,7 +79,7 @@ modern English use of the phrase "under the ban" refers to any line of
 conduct condemned by custom or public opinion. In its earlier and general
 sense as a proclamation, the ban may be said to have been suspended by the
 writ. The word, however, survives in the sense of a proclamation in the
-"banns of marriage" (_q.v._).
+"[[Banns Of Marriage|banns of marriage]]" (_q.v._).
 
 The Persian word _ban_, meaning lord or master, was brought into Europe by
 the Avars. It was long used in many parts of south-eastern Europe,
@@ -88,13 +88,13 @@ districts called _banats_, and is almost equivalent to the German
 _margrave_. After enjoying very extensive powers the bans were gradually
 reduced, both in numbers and importance. Since 1868, however, the governor
 of Croatia and Slavonia has been known as the ban of Croatia, Slavonia and
-Dalmatia, but his duties are civil and not military. He is appointed by the
+[[Dalmatia]], but his duties are civil and not military. He is appointed by the
 emperor of Austria, as king of Hungary, and has a seat in the upper house
 of the Hungarian parliament.
 
 See Du Cange, _Glossarium_, tome i. (Niort, 1883); H. Brunner, _Grundzuge
 der deutschen Rechtsgeschichte_ (Leipzig, 1901); E. P. Boutaric,
-_Institutions militaires de la France_ (Paris, 1863); Père G. Daniel,
+_Institutions militaires de la France_ (Paris, 1863); Père G. [[Daniel]],
 _Histoire de la milice française_ (Paris, 1721).
 
 ## See also

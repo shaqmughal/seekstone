@@ -6,7 +6,7 @@ topic: religion
 
 # Mastodon
 
-MASTODON (Gr. [Greek: mastos], breast, [Greek: odous], tooth), a name
+MASTODON (Gr. [Greek: mastos], [[Breast|breast]], [Greek: odous], tooth), a name
 given by Cuvier to the Pliocene and Miocene forerunners of the
 elephants, on account of the nipple-like prominences on the molar teeth
 of some of the species (fig. 2), which are of a much simpler type than
@@ -19,7 +19,7 @@ being _Tetrabelodon angustidens_ from the Miocene and _T. longirostris_
 (fig. 1 C.) from the Lower Pliocene of the Continent. In the former the
 upper tusks are bent down so as to cross the tips of the short and
 chisel-like lower pair. These long-chinned mastodons must have had an
-extremely elongated muzzle, formed by the upper lip and nose above and
+extremely elongated muzzle, formed by the upper [[Lip|lip]] and nose above and
 the lower lip below, with which they were able to reach the ground, the
 neck being probably rather longer than in elephants. On the other hand,
 in the short-chinned mastodons, as represented by the Pleistocene North
@@ -70,7 +70,7 @@ longirostris_.]
   covering, and scarcely any cement filling the space between them.
   Sometimes (as in _M. americanus_) the ridges are simple transverse
   wedge-shaped elevations, with straight or concave edges. In other
-  species the summits of the ridges are divided into conical cusps, and
+  species the summits of the ridges are divided into conical [[Cusp|cusps]], and
   may have accessory cusps clustering around them (as in _M.
   arvernensis_, fig. 2). When the summits of these are worn by
   mastication their surfaces present circles of dentine surrounded by a

@@ -1,7 +1,7 @@
 # Gentili
 
 GENTILI, ALBERICO (1552-1608), Italian jurist, who has great claims to
-be considered the founder of the science of international law, second
+be considered the founder of the science of [[International|international]] law, second
 son of Matteo Gentili, a physician of noble family and scientific
 eminence, was born on the 14th of January 1552 at Sanginesio, a small
 town of the march of Ancona which looks down from the slopes of the
@@ -10,7 +10,7 @@ of civil law at the university of Perugia, and holding a judicial office
 at Ascoli, he returned to his native city, and was entrusted with the
 task of recasting its statutes, but, sharing the Protestant opinions of
 his father, shared also, together with a brother, Scipio, afterwards a
-famous professor at Altdorf, his flight to Carniola, where in 1579
+famous professor at Altdorf, his flight to [[Carniola]], where in 1579
 Matteo was appointed physician to the duchy. The Inquisition condemned
 the fugitives as contumacious, and they soon received orders to quit the
 dominions of Austria.
@@ -22,7 +22,7 @@ of 1580, with a commendatory letter from the earl of Leicester, at that
 time chancellor of the university, and was shortly afterwards qualified
 to teach by being admitted to the same degree which he had taken at
 Perugia. His lectures on Roman law soon became famous, and the
-dialogues, disputations and commentaries, which he published henceforth
+[[Dialogue|dialogues]], disputations and commentaries, which he published henceforth
 in rapid succession, established his position as an accomplished
 civilian, of the older and severer type, and secured his appointment in
 1587 to the regius professorship of civil law. It was, however, rather
@@ -30,13 +30,13 @@ by an application of the old learning to the new questions suggested by
 the modern relations of states that his labours have produced their most
 lasting result. In 1584 he was consulted by government as to the proper
 course to be pursued with Mendoza, the Spanish ambassador, who had been
-detected in plotting against Elizabeth. He chose the topic to which his
+detected in plotting against Elizabeth. He [[Chose|chose]] the topic to which his
 attention had thus been directed as a subject for a disputation when
 Leicester and Sir Philip Sidney visited the schools at Oxford in the
 same year; and this was six months later expanded into a book, the _De
 legationibus libri tres_. In 1588 Alberico selected the law of war as
 the subject of the law disputations at the annual "Act" which took place
-in July; and in the autumn published in London the _De Jure Belli
+in July; and in the autumn published in London the _De Jure [[Belli]]
 commentatio prima_. A second and a third _Commentatio_ followed, and the
 whole matter, with large additions and improvements, appeared at Hanau,
 in 1598, as the _De Jure Belli libri tres_. It was doubtless in
@@ -48,7 +48,7 @@ deputy. In 1600 he was admitted to be a member of Gray's Inn, and in
 19th of June 1608, and was buried, by the side of Dr Matteo Gentili, who
 had followed his son to England, in the churchyard of St Helen's,
 Bishopsgate. By his wife, Hester de Peigni, he left two sons, Robert and
-Matthew, and a daughter, Anna, who married Sir John Colt. His notes of
+[[Matthew]], and a daughter, [[Anna]], who married Sir John Colt. His notes of
 the cases in which he was engaged for the Spaniards were posthumously
 published in 1613 at Hanau, as _Hispanicae advocationis libri duo_. This
 was in accordance with his last wishes; but his direction that the
@@ -64,9 +64,9 @@ lecture of Prof. T.E. Holland, and was warmly taken up in Italy. In
 spreading through Europe it encountered two curious cross-currents of
 opinion,--one the ultra-Catholic, which three centuries before had
 ordered his name to be erased from all public documents and placed his
-works in the _Index_; another the narrowly-Dutch, which is, it seems,
-needlessly careful of the supremacy of Grotius. These two currents
-resulted respectively in a bust of Garcia Moreno being placed in the
+works in the _[[Index]]_; another the narrowly-Dutch, which is, it seems,
+needlessly careful of the supremacy of [[Grotius]]. These two currents
+resulted respectively in a bust of [[Garcia]] Moreno being placed in the
 Vatican, and in the unveiling in 1886, with much international oratory,
 of a fine statue of Grotius at Delft. The English committee, under the
 honorary presidency of Prince Leopold, in 1877 erected a monument to the
@@ -88,7 +88,7 @@ canon law, but he proclaims as his real guide the _Jus Naturae_, the
 highest common sense of mankind, by which historical precedents are to
 be criticized and, if necessary, set aside.
 
-His faults are not few. His style is prolix, obscure, and to the modern
+His [[Fault|faults]] are not few. His style is prolix, obscure, and to the modern
 reader pedantic enough; but a comparison of his greatest work with what
 had been written upon the same subject by, for instance, Belli, or Soto,
 or even Ayala, will show that he greatly improved upon his predecessors,
@@ -119,7 +119,7 @@ method and arrangement of the treatise.
   _Lectiones Virgilianae_ (Hanau, 1600); _De nuptiis libri septem_
   (1601); _In tit. si quis principi, et ad leg. Jul. maiest._ (Hanau,
   1604); _De latin, vet. Bibl._ (Hanau, 1604); _De libro Pyano_ (Oxon,
-  1604); _Laudes Acad. Perus. et Oxon._ (Hanau, 1605); _De unione
+  1604); _[[Laud|Laudes]] Acad. Perus. et Oxon._ (Hanau, 1605); _De unione
   Angliae et Scotiae_ (London, 1605); _Disputationes tres, de libris
   jur. can., de libris jur. civ., de latinitate vet. vers._ (Hanau,
   1605); _Regales disput. tres, de pot. regis absoluta, de unione

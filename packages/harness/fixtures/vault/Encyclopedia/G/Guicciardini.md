@@ -9,16 +9,16 @@ type: source
 
 GUICCIARDINI, FRANCESCO (1483-1540), the celebrated Italian historian
 and statesman, was born at Florence in the year 1483, when Marsilio
-Ficino held him at the font of baptism. His family was illustrious and
+[[Ficino]] held him at the font of baptism. His family was illustrious and
 noble; and his ancestors for many generations had held the highest posts
 of honour in the state, as may be seen in his own genealogical _Ricordi
 autobiografici e di famiglia_ (_Op. ined._ vol. x.). After the usual
 education of a boy in grammar and elementary classical studies, his
 father, Piero, sent him to the universities of Ferrara and Padua, where
 he stayed until the year 1505. The death of an uncle, who had occupied
-the see of Cortona with great pomp, induced the young Guicciardini to
+the see of [[Cortona]] with great pomp, induced the young Guicciardini to
 hanker after an ecclesiastical career. He already saw the scarlet of a
-cardinal awaiting him, and to this eminence he would assuredly have
+cardinal awaiting him, and to this [[Eminence|eminence]] he would assuredly have
 risen. His father, however, checked this ambition, declaring that,
 though he had five sons, he would not suffer one of them to enter the
 church in its then state of corruption and debasement. Guicciardini,
@@ -29,11 +29,11 @@ public. Shortly afterwards he engaged himself in marriage to Maria,
 daughter of Alamanno Salviati, prompted, as he frankly tells us, by the
 political support which an alliance with that great family would bring
 him (ib. x. 71). He was then practising at the bar, where he won so much
-distinction that the Signoria, in 1512, entrusted him with an embassy to
-the court of Ferdinand the Catholic. Thus he entered on the real work of
+distinction that the Signoria, in 1512, entrusted him with an [[Embassy|embassy]] to
+the court of [[Ferdinand]] the Catholic. Thus he entered on the real work of
 his life as a diplomatist and statesman. His conduct upon that legation
 was afterwards severely criticized; for his political antagonists
-accused him of betraying the true interests of the commonwealth, and
+accused him of betraying the true interests of the [[Commonwealth|commonwealth]], and
 using his influence for the restoration of the exiled house of Medici to
 power. His Spanish correspondence with the Signoria (_Op. ined._ vol.
 vi.) reveals the extraordinary power of observation and analysis which
@@ -50,13 +50,13 @@ minor potentates of Italy. Still the school was pregnant with
 instructions for so apt a pupil. Guicciardini issued from this first
 trial of his skill with an assured reputation for diplomatic ability, as
 that was understood in Italy. To unravel plots and weave counterplots;
-to meet treachery with fraud; to parry force with sleights of hand; to
-credit human nature with the basest motives, while the blackest crimes
-were contemplated with cold enthusiasm for their cleverness, was
+to meet treachery with [[Fraud|fraud]]; to parry force with sleights of hand; to
+[[Credit|credit]] human nature with the basest motives, while the blackest crimes
+were contemplated with cold [[Enthusiasm|enthusiasm]] for their cleverness, was
 reckoned then the height of political sagacity. Guicciardini could play
-the game to perfection. In 1515 Leo X. took him into service, and made
+the [[Game|game]] to perfection. In 1515 Leo X. took him into service, and made
 him governor of Reggio and Modena. In 1521 Parma was added to his rule,
-and in 1523 he was appointed viceregent of Romagna by Clement VII. These
+and in 1523 he was appointed viceregent of Romagna by [[Clement]] VII. These
 high offices rendered Guicciardini the virtual master of the papal
 states beyond the Apennines, during a period of great bewilderment and
 difficulty. The copious correspondence relating to his administration
@@ -93,11 +93,11 @@ hesitate to place his powers at the disposal of the most vicious members
 of that house for the enslavement of Florence. In 1527 he had been
 declared a rebel by the Signoria on account of his well-known Medicean
 prejudices; and in 1530, deputed by Clement to punish the citizens after
-their revolt, he revenged himself with a cruelty and an avarice that
+their revolt, he revenged himself with a [[Cruelty|cruelty]] and an avarice that
 were long and bitterly remembered. When, therefore, he returned to
 inhabit Florence in 1534, he did so as the creature of the dissolute
 Alessandro de' Medici. Guicciardini pushed his servility so far as to
-defend this infamous despot at Naples in 1535, before the bar of Charles
+defend this infamous [[Despot|despot]] at Naples in 1535, before the bar of Charles
 V., from the accusations brought against him by the Florentine exiles
 (_Op. ined._ vol. ix.). He won his cause; but in the eyes of all
 posterity he justified the reproaches of his contemporaries, who
@@ -109,7 +109,7 @@ point; but it is only the recent publication of Guicciardini's private
 MSS. that has made us understand the force of their invectives. To plead
 loyalty or honest political conviction in defence of his Medicean
 partianship is now impossible, face to face with the opinions expressed
-in the _Ricordi politici_ and the _Storia Fiorentina_. Like Machiavelli,
+in the _Ricordi politici_ and the _Storia Fiorentina_. Like [[Machiavelli]],
 but on a lower level, Guicciardini was willing to "roll stones," or to
 do any dirty work for masters whom, in the depth of his soul, he
 detested and despised. After the murder of Duke Alessandro in 1537,
@@ -120,7 +120,7 @@ inexperienced princeling. He was mistaken, however, in his schemes, for
 Cosimo displayed the genius of his family for politics, and coldly
 dismissed his would-be lord-protector. Guicciardini retired in disgrace
 to his villa, where he spent his last years in the composition of the
-_Storia d'Italia_. He died in 1540 without male heirs.
+_Storia d'Italia_. He died in 1540 without male [[Heir|heirs]].
 
 Guicciardini was the product of a cynical and selfish age, and his life
 illustrated its sordid influences. Of a cold and worldly temperament,
@@ -132,7 +132,7 @@ and in spite of these qualities, a man whose moral nature inspires a
 sentiment of liveliest repugnance. It is not merely that he was
 ambitious, cruel, revengeful and avaricious, for these vices have
 existed in men far less antipathetic than Guicciardini. Over and above
-those faults, which made him odious to his fellow-citizens, we trace in
+those [[Fault|faults]], which made him odious to his fellow-citizens, we trace in
 him a meanness that our century is less willing to condone. His
 phlegmatic and persistent egotism, his sacrifice of truth and honour to
 self-interest, his acquiescence in the worst conditions of the world, if
@@ -160,7 +160,7 @@ described the _Ricordi_ as "Italian corruption codified and elevated to
 a rule of life." Guicciardini is, however, better known as the author of
 the _Storia d'Italia_, that vast and detailed picture of his country's
 sufferings between the years 1494 and 1532. Judging him by this
-masterpiece of scientific history, he deserves less commendation as a
+masterpiece of scientific history, he deserves less [[Commendation|commendation]] as a
 writer than as a thinker and an analyst. The style is wearisome and
 prolix, attaining to precision at the expense of circumlocution, and
 setting forth the smallest particulars with the same distinctness as the
@@ -168,7 +168,7 @@ main features of the narrative. The whole tangled skein of Italian
 politics, in that involved and stormy period, is unravelled with a
 patience and an insight that are above praise. It is the crowning merit
 of the author that he never ceases to be an impartial spectator--a cold
-and curious critic. We might compare him to an anatomist, with knife and
+and curious critic. We might compare him to an anatomist, with [[Knife|knife]] and
 scalpel dissecting the dead body of Italy, and pointing out the symptoms
 of her manifold diseases with the indifferent analysis of one who has no
 moral sensibility. This want of feeling, while it renders Guicciardini a
@@ -178,7 +178,7 @@ does not seem to be aware that he is writing a great historical tragedy.
 He takes as much pains in laying bare the trifling causes of a petty war
 with Pisa as in probing the deep-seated ulcer of the papacy. Nor is he
 capable of painting the events in which he took a part, in their
-totality as a drama. Whatever he touches, lies already dead on the
+totality as a [[Drama|drama]]. Whatever he touches, lies already dead on the
 dissecting table, and his skill is that of the analytical pathologist.
 Consequently, he fails to understand the essential magnitude of the
 task, or to appreciate the vital vigour of the forces contending in
@@ -192,12 +192,12 @@ philosophical historians which included Machiavelli, Segni, Pitti,
 Nardi, Varchi, Francesco Vettori and Donato Giannotti. Up to the year
 1857 the fame of Guicciardini as a writer, and the estimation of him as
 a man, depended almost entirely upon the _History of Italy_, and on a
-few ill-edited extracts from his aphorisms. At that date his
+few ill-edited extracts from his [[Aphorism|aphorisms]]. At that date his
 representatives, the counts Piero and Luigi Guicciardini, opened their
-family archives, and committed to Signor Giuseppe Canestrini the
+family [[Archive|archives]], and committed to Signor Giuseppe Canestrini the
 publication of his hitherto inedited MSS. in ten important volumes. The
 vast mass of documents and finished literary work thus given to the
-world has thrown a flood of light upon Guicciardini, whether we consider
+world has thrown a [[Flood|flood]] of light upon Guicciardini, whether we consider
 him as author or as citizen. It has raised his reputation as a political
 philosopher into the first rank, where he now disputes the place of
 intellectual supremacy with his friend Machiavelli; but it has coloured
@@ -213,7 +213,7 @@ _Storia Fiorentina_, an early work of the author, distinguished by its
 animation of style, brilliancy of portraiture, and liberality of
 judgment; and (4) the _Dialogo del reggimento di Firenze_, also in all
 probability an early work, in which the various forms of government
-suited to an Italian commonwealth are discussed with infinite subtlety,
+suited to an Italian commonwealth are discussed with [[Infinite|infinite]] subtlety,
 contrasted, and illustrated from the vicissitudes of Florence up to the
 year 1494. To these may be added a series of short essays, entitled
 _Discorsi politici_, composed during Guicciardini's Spanish legation. It

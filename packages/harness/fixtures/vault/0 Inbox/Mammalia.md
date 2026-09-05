@@ -6,7 +6,7 @@ topic: europe
 
 # Mammalia
 
-MAMMALIA (from Lat. _mamma_, a teat or breast), the name proposed by the
+MAMMALIA (from Lat. _mamma_, a teat or [[Breast|breast]]), the name proposed by the
 Swedish naturalist Linnaeus for one of the classes, or primary
 divisions, of vertebrated animals, the members of which are collectively
 characterized by the presence in the females of special glands secreting
@@ -20,7 +20,7 @@ and more especially in America, it has become a custom to designate the
 study of mammals by the term "mammalogy." Etymologically, however, that
 designation cannot be justified; for it is of hybrid (Latin and Greek)
 origin, and is equivalent to "mastology," the science which deals with
-the mammary gland (Gr. [Greek: mastos], woman's breast), a totally
+the [[Mammary Gland|mammary gland]] (Gr. [Greek: mastos], woman's breast), a totally
 different signification. As regards existing forms of life, the
 limitations of the class are perfectly well defined and easy of
 recognition; for although certain groups (not, by the way, whales,
@@ -41,7 +41,7 @@ known, it would clearly be impossible to draw a distinction between
 Mammalia on the one hand and Reptilia on the other. Indeed, as it is, we
 are already partially acquainted with one of these early intermediate
 creatures (_Tritylodon_), which forms a kind of zoological shuttlecock,
-being, so to speak, hit from one group to another, and back again, by
+being, so to speak, [[Hit|hit]] from one group to another, and back again, by
 the various zoologists by whom its scanty remains have been studied.
 Considered collectively, mammals, which did not make their appearance on
 the earth for some time after reptiles had existed, are certainly the
@@ -61,20 +61,20 @@ Batrachians) on the one hand, and agree with reptiles, and birds
 (Reptilia and Aves) on the other, in the possession during intra-uterine
 life of the membranous vascular structures respectively known as the
 amnion and the allantois, and likewise in the absence at this or any
-other period of external gills. A four-chambered heart, with a complete
+other period of external [[Gill|gills]]. A four-chambered heart, with a complete
 double circulation, and warm blood (less markedly so in the lowest group
 than in the rest of the class), distinguish mammals from existing
 reptiles, although not from birds. From both birds and reptiles the
 class is distinguished, so far at any rate as existing forms are
 concerned, by the following features: the absence of a nucleus in the
 red corpuscles of the blood, which are nearly always circular in
-outline; the free suspension of the lungs in a thoracic cavity,
+outline; the free suspension of the [[Lung|lungs]] in a thoracic cavity,
 separated from the abdominal cavity by a muscular partition, or
-diaphragm, which is the chief agent in inflating the lungs in
-respiration; the aorta, or main artery, forming but a single arch after
+[[Diaphragm|diaphragm]], which is the chief agent in inflating the lungs in
+respiration; the aorta, or main artery, forming but a single [[Arch|arch]] after
 leaving the heart, which curves over the left terminal division of the
 windpipe, or bronchus; the presence of more or fewer hairs on the skin
-and the absence of feathers; the greater development of the bridge, or
+and the absence of [[Feather|feathers]]; the greater development of the bridge, or
 commissure, connecting the two halves of the brain, which usually forms
 a complete corpus callosum, or displays an unusually large size of its
 anterior portion; the presence of a fully developed larynx at the upper
@@ -83,22 +83,22 @@ or expansion, near the lower end of the same; the circumstance that each
 half of the lower jaw (except perhaps at a very early stage of
 development) consists of a single piece articulating posteriorly with
 the squamosal element of the skull without the intervention of a
-separate quadrate bone; the absence of prefrontal bones in the skull;
+separate quadrate [[Bone|bone]]; the absence of prefrontal bones in the skull;
 the presence of a pair of lateral knobs, or condyles (in place of a
 single median one), on the occipital aspect of the skull for
 articulation with the first vertebra; and, lastly, the very obvious
 character of the female being provided with milk-glands, by the
 secretion of which the young (produced, except in the very lowest group,
-alive and not by means of externally hatched eggs) are nourished for
+alive and not by means of externally hatched [[Egg|eggs]]) are nourished for
 some time after birth.
 
 In the majority of mammals both pairs of limbs are well developed and
 adapted for walking or running. The fore-limbs may, however, be
 modified, as in moles, for burrowing, or, as in bats, for flight, or
-finally, as in whales and dolphins, for swimming, with the assumption in
+finally, as in whales and [[Dolphin|dolphins]], for swimming, with the [[Assumption|assumption]] in
 this latter instance of a flipper-like form and the complete
 disappearance of the hind-limbs. Special adaptations for climbing are
-exhibited by both pairs of limbs in opossums, and for hanging to boughs
+exhibited by both pairs of limbs in opossums, and for [[Hanging|hanging]] to boughs
 in sloths. In no instance are the fore-limbs wanting.
 
 In the great majority of mammals the hind extremity of the axis of the
@@ -110,7 +110,7 @@ into the body, after the fashion common among reptiles. As regards
 function, the tail may be a mere pendent appendage, or may be adapted to
 grasp boughs in climbing, or even to collect food or materials for a
 nest or sleeping place, as in the spider-monkeys, opossums and
-rat-kangaroos. Among jumping animals it may serve as a balance, as in
+rat-kangaroos. Among jumping animals it may serve as a [[Balance|balance]], as in
 the case of jerboas and kangaroos, while in the latter it is also used
 as a support when resting; among many hoofed mammals it is used as a
 fly-whisk; and in whales and dolphins, as well as in the African
@@ -130,7 +130,7 @@ shape of the body so as to present the minimum amount of resistance to
 the air, as well as in increase in heart and lung capacity to meet the
 extra expenditure of energy. Finally, in the jumping forms we meet with
 an increase in the length and weight of the tail, which has to act as a
-counterpoise. As regards the feet, a reduction in the number of digits
+counterpoise. As regards the feet, a reduction in the number of [[Digit|digits]]
 from the typical five is a frequent feature, more especially among the
 hoofed mammals, where the culmination in this respect is attained by the
 existing members of the horse tribe and certain representatives of the
@@ -145,11 +145,11 @@ may be correlated with short limbs and an abbreviated neck. Exceptions
 to this rule, as exemplified by the cats, are due to special adaptive
 causes. In point of bodily size mammals present a greater range of
 variation than is exhibited by any other living terrestrial animals, the
-extremes in this respect being displayed by the African elephant on the
+extremes in this respect being displayed by the African [[Elephant|elephant]] on the
 one hand and certain species of shrew-mice (whose head and body scarcely
-exceed an inch and a half in length) on the other. When the aquatic
+exceed an [[Inch|inch]] and a half in length) on the other. When the aquatic
 members of the class are taken into consideration, the maximum
-dimensions are vastly greater, Sibbald's rorqual attaining a length of
+[[Dimension|dimensions]] are vastly greater, Sibbald's rorqual attaining a length of
 fully 80 ft., and being probably the bulkiest and heaviest animal that
 has ever existed. Within the limits of individual groups, it may be
 accepted as a general rule that increase in bulk or stature implies
@@ -169,23 +169,23 @@ yellow and green form the predominating shades. In the main, the various
 types of minute ocular structure correspond very closely to the
 different groups into which mammals are divided, this correspondence
 affording important testimony in the favour of the general correctness
-of the classification. Among the exceptions are the South American
+of the [[Classification|classification]]. Among the exceptions are the South American
 squirrel-monkeys, whose eyes approximate in structure to those of the
-lemurs. Man and monkeys alone possess parallel and convergent vision of
+[[Lemur|lemurs]]. Man and monkeys alone possess parallel and convergent vision of
 the two eyes, while a divergent, and consequently a very widely
 extended, vision is a prerogative of the lower mammals; squirrels, for
-instance, and probably also hares and rabbits, being able to see an
+instance, and probably also [[Hare|hares]] and rabbits, being able to see an
 object approaching them directly from behind without turning their
 heads.
 
-An osteological question which has been much discussed is the fate of
+An osteological question which has been much discussed is the [[Fate|fate]] of
 the reptilian quadrate bone in the mammalian skull. In the opinion of F.
 W. Thyng, who has carefully reviewed all the other theories, the balance
 of evidence tends to show that the quadrate has been taken up into the
-inner ear, where it is represented among the auditory ossicles by the
+inner [[Ear|ear]], where it is represented among the auditory ossicles by the
 incus.
 
-Although the present article does not discuss mammalian osteology in
+Although the present article does not [[Discus|discuss]] mammalian osteology in
 general (for which see VERTEBRATA), it is interesting to notice in this
 connexion that the primitive condition of the mammalian tympanum
 apparently consisted merely of a small and incomplete bony ring, with,
@@ -225,7 +225,7 @@ having any connexion with the upright posture.
   bottom of a pit, or follicle, in the true skin, or dermis. Such hairs,
   either upon different parts of the skin of the same species, or in
   different species, assume very diverse forms and are of various sizes
-  and degrees of rigidity--as seen in the fur of the mole, the bristles
+  and degrees of rigidity--as seen in the [[Fur|fur]] of the mole, the bristles
   of the pig, and the spines of the hedgehog and porcupine, which are
   all modifications of the same structures. These differences arise
   mainly from the different arrangement of the constituent elements into
@@ -271,21 +271,21 @@ having any connexion with the upright posture.
 
   Remarkable differences in the direction or slope of the hair are
   noticeable on different parts of the body and limbs of many mammals,
-  especially in certain apes, where the hair of the fore-limbs is
-  inclined towards the elbow from above and from below. More remarkable
+  especially in certain [[Ape|apes]], where the hair of the fore-limbs is
+  inclined towards the [[Elbow|elbow]] from above and from below. More remarkable
   still is the fact that the direction of the slope often differs in
   closely allied groups, as, for instance, in African and Asiatic
-  buffaloes, in which the hair of the middle line of the back has
+  [[Buffalo|buffaloes]], in which the hair of the middle line of the back has
   opposite directions. Whorls of hair, as on the face of the horse and
   the South American deer known as brockets, occur where the different
   hair-slopes meet. In this connexion reference may be made to patches
   or lines of long and generally white hairs situated on the back of
   certain ruminants, which are capable of erection during periods of
-  excitement, and serve, apparently, as "flags" to guide the members of
+  excitement, and serve, apparently, as "[[Flag|flags]]" to guide the members of
   a herd in flight. Such are the white chrysanthemum-like patches on the
   rump of the Japanese deer and of the American prong-buck
   (_Antilocapra_), and the line of hairs situated in a groove on the
-  loins of the African spring-buck. The white underside of the tail of
+  [[Loin|loins]] of the African spring-buck. The white underside of the tail of
   the rabbit and the yellow rump-patch of many deer are analogous.
 
   The eye-lashes, or _ciliae_, are familiar examples of a special local
@@ -298,11 +298,11 @@ having any connexion with the upright posture.
   on the fore-arm near the wrist, in connexion with glands, and receive
   sensory powers from the radial nerve. In some mammals the hairy
   covering is partial and limited to particular regions; in others, as
-  the hippopotamus and the sea-cows, or Sirenia, though scattered over
+  the [[Hippopotamus|hippopotamus]] and the sea-cows, or Sirenia, though scattered over
   the whole surface, it is extremely short and scanty; but in none is
-  it reduced to so great an extent as in the Cetacea, in which it is
+  it reduced to so great an extent as in the [[Cetacea]], in which it is
   limited to a few small bristles confined to the neighbourhood of the
-  lips and nostrils, and often present only in the young, or even the
+  [[Lip|lips]] and nostrils, and often present only in the young, or even the
   foetal condition.
 
   Some kinds of hairs, as those of the mane and tail of the horse,
@@ -310,7 +310,7 @@ having any connexion with the upright posture.
   body-hair of the same animal, they are shed and renewed periodically,
   generally annually. Many mammals have a longer hairy coat in winter,
   which is shed as summer comes on; and some few, which inhabit
-  countries covered in winter with snow, as the Arctic fox, variable
+  countries covered in winter with snow, as the [[Arctic]] [[Fox|fox]], variable
   hare and ermine, undergo a complete change of colour in the two
   seasons, being white in winter and grey or brown in summer. There has
   been much discussion as to whether this winter whitening is due to a
@@ -324,7 +324,7 @@ having any connexion with the upright posture.
   shift from the normal positions, and to transfer themselves to other
   layers of the hair, where they are attacked and devoured by
   phagocytes. The winter whitening of mammals is, therefore, precisely
-  similar to the senile bleaching of human hair, no shift of the coat
+  similar to the senile [[Bleaching|bleaching]] of human hair, no shift of the coat
   taking place. Under the influence of exposure to intense cold a small
   mammal has been observed to turn white in a single night, just as the
   human hair has been known to blanch suddenly under the influence of
@@ -349,11 +349,11 @@ having any connexion with the upright posture.
   tail of the African flying rodents of the family _Anomaluridae_; and
   flat scutes, with the edges in apposition, and not overlaid, clothe
   both surfaces of the tail of the beaver, rats and certain other
-  members of the rodent order, and also of some insectivora and
-  marsupials. Armadillos alone possess an external bony skeleton,
+  members of the rodent order, and also of some [[Insectivora|insectivora]] and
+  marsupials. [[Armadillo|Armadillos]] alone possess an external bony skeleton,
   composed of plates of bony tissue, developed in the skin and covered
   with scutes of horny epidermis. Other epidermic appendages are the
-  horns of ruminants and rhinoceroses--the former being elongated,
+  [[Horn|horns]] of ruminants and rhinoceroses--the former being elongated,
   tapering, hollow caps of hardened epidermis of fibrous structure,
   fitting on and growing from conical projections of the frontal bones
   and always arranged in pairs, while the latter are of similar
@@ -385,11 +385,11 @@ having any connexion with the upright posture.
   the presence of other members of the species, even at great distances.
 
   To this group of structures belong the suborbital face-gland,
-  "larmier," or "crumen," of antelopes and deer, the frontal gland of
+  "larmier," or "crumen," of [[Antelope|antelopes]] and deer, the frontal gland of
   the muntjak and of bats of the genus _Phyllorhina_, the chin-gland of
-  the chevrotains and of _Taphozous_ and certain other bats, the
+  the [[Chevrotain|chevrotains]] and of _Taphozous_ and certain other bats, the
   glandular patch behind the ear of the chamois and the reed-buck, the
-  glands on the lower parts of the legs of most deer and a few antelopes
+  glands on the lower parts of the [[Leg|legs]] of most deer and a few antelopes
   (the position of which is indicated by tufts of long and often
   specially coloured hair), the interdigital foot-glands of goats,
   sheep, and many other ruminants, the temporal gland of elephants, the
@@ -399,7 +399,7 @@ having any connexion with the upright posture.
   dog-tribe, the preputial glands of the musk-deer and beaver (both well
   known for the use made of their powerfully odorous secretion in
   perfumery), and also of the swine and hare, the anal glands of
-  Carnivora, the perineal gland of the civet (also of commercial value),
+  Carnivora, the perineal gland of the [[Civet|civet]] (also of commercial value),
   the caudal glands of the fox and goat, the gland on the wing-membrane
   of bats of the genus _Saccopteryx_, the post-digital gland of the
   rhinoceros, &c. Very generally these glands are common to both sexes,
@@ -408,7 +408,7 @@ having any connexion with the upright posture.
   above-mentioned callosities or "chestnuts" on the limbs of horses are
   vestigial scent-glands; and it is noteworthy that scrapings or
   shavings from their surface have a powerful attraction for other
-  horses, and are also used by poachers and burglars to keep dogs
+  horses, and are also used by poachers and burglars to keep [[Dogs|dogs]]
   silent. The position of such glands on the lower portions of the limbs
   is plainly favourable to a recognition-taint being left in the tracks
   of terrestrial animals; and antelopes have been observed deliberately
@@ -425,7 +425,7 @@ having any connexion with the upright posture.
   _Dentition._--In the great majority of mammals the teeth form a
   definite series, of which the hinder elements are of a more or less
   complex type, while those in front are simpler. With the exception of
-  the marsupials, a set of deciduous, or milk, teeth is developed in
+  the marsupials, a set of [[Deciduous|deciduous]], or milk, teeth is developed in
   most mammals with a complicated type of dentition; these milk-teeth
   being shed at a comparatively early period (occasionally even _in
   utero_), when they are succeeded by the larger permanent series, which
@@ -515,7 +515,7 @@ having any connexion with the upright posture.
   Those of each jaw are placed in continuous series without intervals
   between them; and, although the anterior teeth are simple and
   single-rooted, and the posterior teeth complex and with several roots,
-  the transition between the two kinds is gradual.
+  the transition between the two kinds is [[Gradual|gradual]].
 
   In dividing and grouping such teeth for the purpose of description and
   comparison more definite characters are required than those derived
@@ -623,7 +623,7 @@ having any connexion with the upright posture.
          "      6     Hectus.       Hectid.
          "      7     Hebdomus.     Hebdomid.
 
-  With the exception of the Cetacea, most of the Edentata, and the
+  With the exception of the Cetacea, most of the [[Edentata]], and the
   Sirenia, in which the teeth, when present, have been specialized in a
   retrograde or aberrant manner, the placental mammals as a whole have a
   dentition conforming more or less closely to the foregoing type.
@@ -654,8 +654,8 @@ having any connexion with the upright posture.
   In very few mammals are teeth entirely absent. Even in the whalebone
   whales their germs are formed in the same manner and at the same
   period of life as in other mammals, and even become partially
-  calcified, although they never rise above the gums, and completely
-  disappear before birth. In the American anteaters and the pangolins
+  calcified, although they never rise above the [[Gum|gums]], and completely
+  disappear before birth. In the American [[Anteater|anteaters]] and the pangolins
   among the Edentata no traces of teeth have been found at any age.
   Adult monotremes are in like case, although the duck-billed platypus
   (_Ornithorhynchus_) has teeth when young on the sides of the jaws. The
@@ -689,14 +689,14 @@ having any connexion with the upright posture.
   is consistent with the free action of the canines, or tusks, so that
   no power is lost. The incisors are small, so as not to interfere with
   the penetrating action of the tusks; and the crowns of some of the
-  teeth of the cheek-series are modified into scissor-like blades, in
+  teeth of the cheek-series are modified into scissor-like [[Blades|blades]], in
   order to rasp off the flesh from the bones, or to crack the bones
   themselves, while the later teeth of this series tend to disappear.
 
   In the insectivorous type, as exemplified in moles and shrew-mice, the
   middle pair of incisors in each jaw are long and pointed so as to have
-  a forceps-like action for seizing insects, the hard coats of which are
-  broken up by the numerous sharp cusps surmounting the cheek-teeth.
+  a forceps-like action for seizing [[Insect|insects]], the hard coats of which are
+  broken up by the numerous sharp [[Cusp|cusps]] surmounting the cheek-teeth.
 
   In the omnivorous type, as exemplified in man and monkeys, and to a
   less specialized degree in swine, the incisors are of moderate and
@@ -721,7 +721,7 @@ having any connexion with the upright posture.
 
   Opinions differ as to the mode in which the more complicated
   cheek-teeth of mammals have been evolved from a simpler type of tooth.
-  According to one theory, this has been brought about by the fusion of
+  According to one theory, this has been brought about by the [[Fusion|fusion]] of
   two or more teeth of a simple conical type to form a compound tooth. A
   more generally accepted view--especially among palaeontologists--is
   the tritubercular theory, according to which the most generalized type
@@ -732,9 +732,9 @@ having any connexion with the upright posture.
   the upper and of the lower jaw, while names have also been assigned to
   super-added cusps. Molar teeth of the simple tritubercular type
   persist in the golden moles (_Chrysochloris_) among the Insectivora
-  and also in the marsupial mole (_Notoryctes_) among the marsupials.
+  and also in the [[Marsupial Mole|marsupial mole]] (_Notoryctes_) among the marsupials.
   The type is, moreover, common among the mammals of the early Eocene,
-  and still more so in those of the Jurassic epoch; this forming one of
+  and still more so in those of the [[Jurassic]] epoch; this forming one of
   the strongest arguments in favour of the tritubercular theory. (See
   Professor H. F. Osborn, "Palaeontological Evidence for the Original
   Tritubercular Theory," in vol. xvii. (new series) of the _American
@@ -761,7 +761,7 @@ having any connexion with the upright posture.
   apparatus, lies the tongue, an organ the free surface of which,
   especially in its posterior part, is devoted to the sense of taste,
   but which by reason of its great mobility (being composed almost
-  entirely of muscular fibres) performs important mechanical functions
+  entirely of muscular [[Fibres|fibres]]) performs important mechanical functions
   connected with masticating and procuring food. Its modifications of
   form in different mammals are numerous. Between the long, extensile,
   worm-like tongue of the anteaters, essential to the peculiar mode of
@@ -784,7 +784,7 @@ having any connexion with the upright posture.
     ss, small intestine (abbreviated);
     c, caecum;
     ll, large intestine or
-    colon, ending in
+    [[Colon|colon]], ending in
     r, the rectum.]
 
   Salivary glands, of which the most constant are the parotid and the
@@ -815,7 +815,7 @@ having any connexion with the upright posture.
   complementary relationship between the size and complexity of the
   organ and that of the stomach. Where the latter is simple the caecum
   is generally the largest, and vice versa. In vol. xvii. (1905) of the
-  _Transactions_ of the Zoological Society of London, Dr P. Chalmers
+  _Transactions_ of the Zoological Society of London, Dr P. [[Chalmers]]
   Mitchell has identified the paired caeca, or blind appendages, of the
   intestine of birds with the usually single caecum of mammals. These
   caeca occur in birds (as in mammals) at the junction of the small with
@@ -829,9 +829,9 @@ having any connexion with the upright posture.
   with "appendicitis." The existence of paired caeca was previously
   known in a few armadillos and anteaters, but Dr Mitchell has shown
   that they are common in these groups, while he has also recorded their
-  occurrence in the hyrax and the manati. With the aid of these
+  occurrence in the hyrax and the [[Manati|manati]]. With the aid of these
   instances of paired caeca, coupled with the frequent existence of a
-  rudiment of its missing fellow when only one is functional, the author
+  rudiment of its missing [[Fellow|fellow]] when only one is functional, the author
   has been enabled to demonstrate conclusively that these double organs
   in birds correspond in relations with their normally single
   representative in mammals.
@@ -843,16 +843,16 @@ having any connexion with the upright posture.
   contrivances for increasing the absorbing surface without adding to
   the general bulk of the organ, such as the numerous small tags, or
   "villi," by which it is everywhere beset, and the more obvious
-  transverse, longitudinal, or reticulating folds projecting into the
+  transverse, longitudinal, or reticulating [[Fold|folds]] projecting into the
   interior, met with in many animals, of which the "valvulae
   conniventes" of man form well-known examples. Besides the crypts of
   Lieberkühn found throughout the intestinal canal, and the glands of
   Brunner confined to the duodenum, there are other structures in the
   mucous membrane, about the nature of which there is still much
   uncertainty, called "solitary" and "agminated" glands, the latter more
-  commonly known by the name of "Peyer's patches." Of the liver little
+  commonly known by the name of "Peyer's patches." Of the [[Liver|liver]] little
   need be said, except that in all living mammals it has been divided
-  into a number of distinct lobes, which have received separate names.
+  into a number of distinct [[Lobe|lobes]], which have received separate names.
   It has, indeed, been suggested that in the earlier mammals the liver
   was a simple undivided organ. This, however, is denied by G. Ruge
   (vol. xxix. of Gegenbaur's _Morphologisches Jahrbuch_).
@@ -861,7 +861,7 @@ _Origin of Mammals._--That mammals have become differentiated from a
 lower type of vertebrates at least as early as the commencement of the
 Jurassic period is abundantly testified by the occurrence of the remains
 of small species in strata of that epoch, some of which are mentioned in
-the articles MARSUPIALIA and MONOTREMATA (q.v.). Possibly mammalian
+the articles [[Marsupialia|MARSUPIALIA]] and MONOTREMATA (q.v.). Possibly mammalian
 remains also occur in the antecedent Triassic epoch, some
 palaeontologists regarding the South African _Tritylodon_ as a mammal,
 while others consider that it was probably a reptile. Whatever may be
@@ -914,7 +914,7 @@ structure of their feet traces of the former opposability of the thumb
 and great toe to the other digits; and it has accordingly been argued
 that all marsupials are descended from arboreal ancestors. This doctrine
 is now receiving widespread acceptation among anatomical naturalists;
-and in the _American Naturalist_ for 1904, Dr W. D. Matthew, an American
+and in the _American Naturalist_ for 1904, Dr W. D. [[Matthew]], an American
 palaeontologist, considers himself provisionally justified in so
 extending it as to include all mammals. That is to say, he believes
 that, with the exception of the duckbill and the echidna, the mammalian
@@ -930,7 +930,7 @@ evidence in favour of this primitive opposability is considerable. In
 all the groups which are at present arboreal, the palaeontological
 evidence goes to show that their ancestors were likewise so; while
 since, in the case of modern terrestrial forms, the structure of the
-wrist and ankle joints tends to approximate to the arboreal type, as we
+wrist and [[Ankle|ankle]] [[Joints|joints]] tends to approximate to the arboreal type, as we
 recede in time, the available evidence, so far as it goes, is in favour
 of Dr Matthew's contention.
 
@@ -947,7 +947,7 @@ forsook their arboreal habitat to try a life on the open plains, where
 their descendants developed on the one hand into the carnivorous and
 other groups, in which the toes are armed with nails or claws, and on
 the other into the hoofed group, inclusive of such monsters as the
-elephant and the giraffe. The hypothesis is not free from certain
+elephant and the [[Giraffe|giraffe]]. The [[Hypothesis|hypothesis]] is not free from certain
 difficulties, one of which will be noticed later.
 
 _Classification._--Existing mammals may be primarily divided into three
@@ -962,11 +962,11 @@ MONODELPHIA.)
   The existing monotremes and marsupials are each represented only by a
   single order; but the placentals are divided into the following
   ordinal and subordinal groups, those which are extinct being marked
-  with an asterisk (*):--
+  with an [[Asterisk|asterisk]] (*):--
 
      1. Insectivora (Moles, Hedgehogs, &c.).
      2. Chiroptera (Bats).
-     3. Dermoptera (Colugo, or Flying Lemur).
+     3. Dermoptera ([[Colugo]], or Flying Lemur).
      4. Edentata:--
           a. Xenarthra (Anteaters, Sloths and Armadillos).
           b. Pholidota (Pangolins).
@@ -978,19 +978,19 @@ MONODELPHIA.)
      7. Carnivora:--
           a. Fissipedia (Cats, Dogs, Bears, &c.).
           b. Pinnipedia (Seals and Walruses).
-          c. *Creodonta (_Hyaenodon_, &c.).
+          c. *[[Creodonta]] (_Hyaenodon_, &c.).
      8. Cetacea (Whales and Dolphins):--
           a. *Archaeoceti (_Zeuglodon_, &c.).
           b. Odontoceti (Spermwhales and Dolphins).
           c. Mystacoceti (Whalebone Whales).
-     9. Sirenia (Dugongs and Manatis).
+     9. Sirenia ([[Dugong|Dugongs]] and Manatis).
     10. Ungulata (Hoofed Mammals):--
-          a. Proboscidea (Elephants and Mastodons).
-          b. Hyracoidea (Hyraxes).
+          a. Proboscidea (Elephants and [[Mastodon|Mastodons]]).
+          b. [[Hyracoidea]] (Hyraxes).
           c. *Barypoda (_Arsinöitherium_).
           d. *Toxodontia (_Toxodon_, &c.).
           e. *Amblypoda (_Uintatherium_, &c.).
-          f. *Litopterna (_Macrauchenia_, &c.).
+          f. *[[Litopterna]] (_Macrauchenia_, &c.).
           g. *Ancylopoda (_Chalicotherium_, &c.).
           h. *Condylarthra (_Phenacodus_, &c.).
           i. Perissodactyla (Tapirs, Horses, &c.).
@@ -1017,7 +1017,7 @@ MONODELPHIA.)
   the Edentata, it is still a matter of uncertainty whether the
   pangolins (Pholidota) and the ant-bears (Tubulidentata) are rightly
   referred to an order typically represented by the sloths, anteaters,
-  and armadillos of South and Central America, or whether the two
+  and armadillos of South and [[Central America]], or whether the two
   first-named groups have any close relationship with one another. Much
   uncertainty prevails with regard to the ancestry of the group as a
   whole, although some of the earlier South American forms have a
@@ -1051,7 +1051,7 @@ MONODELPHIA.)
 
   A much more interesting relationship of the creodont carnivora has,
   however, been established on the evidence of recent discoveries in
-  Egypt. From remains of Eocene age in that country Dr E. Fraas, of
+  Egypt. From remains of Eocene age in that country Dr E. [[Fraas]], of
   Stuttgart, has demonstrated the derivation of the whale-like
   _Zeuglodon_ from the creodonts. Dr C. E. Andrews has, moreover, not
   only brought forward additional evidence in favour of this most
@@ -1139,7 +1139,7 @@ isolated habitats by dispersal from the north along widely sundered
 longitudinal lines, or whether such a distribution implies the former
 existence of equatorial land-connexions. It may be added that even bats
 are unable to cross large tracts of sea; and the fact that fruit-bats of
-the genus _Pteropus_ are found in Madagascar and the Seychelles, as well
+the genus _Pteropus_ are found in [[Madagascar]] and the Seychelles, as well
 as in India, while they are absent from Africa, is held to be an
 important link in the chain of evidence demonstrating a former
 land-connexion between Madagascar and India.
@@ -1156,11 +1156,11 @@ such localities being either small forms which might have been carried
 on floating timber, or such as have been introduced by human agency.
 This absence of mammalian life in oceanic islands extends even to New
 Zealand, where the indigenous mammals comprise only two peculiar species
-of bats, the so-called Maori rat having been introduced by man.
+of bats, the so-called [[Maori]] rat having been introduced by man.
 
   One of the leading features in mammalian distribution is the fact that
   the Monotremata, or egg-laying mammals, are exclusively confined to
-  Australia and Papua, with the adjacent islands. The marsupials also
+  [[Australia]] and Papua, with the adjacent islands. The marsupials also
   attain their maximum development in Australia ("Notogaea" of the
   distributionists), extending, however, as far west as Celebes and the
   Moluccas, although in these islands they form an insignificant
@@ -1189,7 +1189,7 @@ of bats, the so-called Maori rat having been introduced by man.
   occurrence of one aberrant group (_Solenodon_) in the West Indies is,
   however, noteworthy. The family with the widest distribution is the
   _Soricidae_, the _Talpidae_ being unknown in Africa. The tree-shrews
-  (_Tupaiidae_) are exclusively Asiatic, whereas the jumping-shrews
+  (_Tupaiidae_) are exclusively Asiatic, whereas the [[Jumping-Shrew|jumping-shrews]]
   (_Macroscelididae_) are equally characteristic of the African
   continent. Madagascar is the sole habitat of the tenrecs
   (_Centetidae_), as is Southern Africa of the golden moles
@@ -1204,12 +1204,12 @@ of bats, the so-called Maori rat having been introduced by man.
   terrestrial mammals, being, as already mentioned, represented by
   numerous members of the mouse-tribe (_Muridae_) even in Australasia.
   With the remarkable exception of Madagascar, where it is represented
-  by the _Nesomyidae_, that family has thus a cosmopolitan distribution.
+  by the _Nesomyidae_, that family has thus a [[Cosmopolitan|cosmopolitan]] distribution.
   Very noteworthy is the fact that, with the exception of Madagascar
   (and of course Australia) the squirrel family (_Sciuridae_) is also
   found in all parts of the world. Precisely the same may be said of the
   hares, which, however, become scarce in South America. On the other
-  hand, the scaly-tailed squirrels (_Anomaluridae_), the jumping-hares
+  hand, the scaly-tailed squirrels (_Anomaluridae_), the [[Jumping-Hare|jumping-hares]]
   (_Pedetidae_), and the strand-moles (_Bathyergidae_) are exclusively
   African; while the sewellels (_Haplodontidae_) and the pocket-gophers
   (_Geomyidae_) are as characteristically North American, although a few
@@ -1367,7 +1367,7 @@ of bats, the so-called Maori rat having been introduced by man.
 
   The pigs (_Suidae_) and the hippopotamuses (_Hippopotamidae_) are
   essentially Old World groups, the former of which has alone succeeded
-  in reaching America, where it is represented by the collateral branch
+  in reaching America, where it is represented by the [[Collateral|collateral]] branch
   of the peccaries (_Dicotylinae_). An African origin would well explain
   the present distribution of both groups, but further evidence on this
   point is required before anything decisive can be affirmed, although
@@ -1401,9 +1401,9 @@ of bats, the so-called Maori rat having been introduced by man.
   distribution in the ocean. A few, on the other hand, have a very
   restricted range, the Greenland right whale (_Balaena mysticetus_)
   being, for instance, limited to the zone of the northern circumpolar
-  ice, while no corresponding species occurs in the southern hemisphere.
+  [[Ice|ice]], while no corresponding species occurs in the southern hemisphere.
   In this case, not only temperature, but also the peculiar mode of
-  feeding, may be the cause. The narwhal and the beluga have a very
+  feeding, may be the cause. The narwhal and the [[Beluga|beluga]] have a very
   similar distribution, though the latter occasionally ranges farther
   south. The bottle-noses (_Hyperöodon_) are restricted to the North
   Atlantic, never entering, so far as known, the tropical seas. Other
@@ -1417,7 +1417,7 @@ of bats, the so-called Maori rat having been introduced by man.
   salt water, some entering large rivers for considerable distances, and
   others being exclusively fluviatile. The susu (_Platanista_) is, for
   instance, extensively distributed throughout nearly the whole of the
-  river systems of the Ganges, Brahmaputra and Indus, ascending as high
+  river systems of the [[Ganges]], Brahmaputra and Indus, ascending as high
   as there is water enough to swim in, but apparently never passing out
   to sea. The individuals inhabiting the Indus and the Ganges must
   therefore have been for long ages isolated without developing any
@@ -1466,22 +1466,22 @@ of bats, the so-called Maori rat having been introduced by man.
   have varied but slightly from species now inhabiting the Polar Ocean.
 
   AUTHORITIES.--The above article is partly based on that of Sir W. H.
-  Flower in the 9th edition of this work. The literature connected with
+  [[Flower]] in the 9th edition of this work. The literature connected with
   mammals is so extensive that all that can be attempted here is to
   refer the reader to a few textbooks, with the aid of which, combined
   with that of the annual volumes of the _Zoological Record_, he may
   obtain such information on the subject as he may require: F. E.
   Beddard, "Mammals," _The Cambridge Natural History_, vol. x. (1902);
   W. H. Flower and R. Lydekker, _The Study of Mammals_ (London, 1891);
-  Max Weber, _Die Säugethiere_ (Jena, 1904); W. T. Blanford, _The Fauna
+  Max Weber, _Die Säugethiere_ ([[Jena]], 1904); W. T. Blanford, _The Fauna
   of British India--Mammalia_ (1888-1891); D. G. Elliot, _Synopsis of
-  the Mammals of North America_ (Chicago, 1901) and _The Mammals of
+  the Mammals of North America_ ([[Chicago]], 1901) and _The Mammals of
   Middle America and the West Indies_ (Chicago, 1904); W. L. Sclater,
-  _The Fauna of South Africa--Mammals_ (Cape Town, 1901-1902); W. K.
+  _The Fauna of South Africa--Mammals_ ([[Cape Town]], 1901-1902); W. K.
   Parker, _Mammalian Descent_ (London, 1885); E. Trouessart, _Catalogus
   mammalium, tam viventium quam fossilium_ (Paris, 1898-1899); and
-  supplement, 1904-1905; T. S. Palmer, _Index generum mammalium_
-  (Washington, 1904); W. L. and P. L. Sclater, _The Geography of
+  supplement, 1904-1905; T. S. Palmer, _[[Index]] generum mammalium_
+  (Washington, 1904); W. L. and P. L. Sclater, _The [[Geography]] of
   Mammals_ (London, 1899); R. Lydekker, _A Geographical History of
   Mammals_ (Cambridge, 1896).     (W. H. F.; R. L.)
 

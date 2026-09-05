@@ -8,7 +8,7 @@ tags: [music, fisheries]
 
 # Thomas Stanley
 
-THOMAS STANLEY, 1st earl of Derby (c. 1435-1504), was the son of Thomas
+THOMAS STANLEY, 1st earl of [[Derby]] (c. 1435-1504), was the son of Thomas
 Stanley, who was created Baron Stanley in 1456 and died in 1459. His
 grandfather, Sir John Stanley (d. 1414), had founded the fortunes of his
 family by marrying Isabel Lathom, the heiress of a great estate in the
@@ -25,7 +25,7 @@ in the Lancastrian restoration. Nevertheless, after Warwick's fall,
 Edward made Stanley steward of his household. Stanley served with the
 king in the French expedition of 1475, and with Richard of Gloucester in
 Scotland in 1482. About the latter date he married, as his second wife,
-Margaret Beaufort, mother of the exiled Henry Tudor. Stanley was one of
+[[Margaret]] [[Beaufort]], mother of the exiled Henry Tudor. Stanley was one of
 the executors of Edward IV., and was at first loyal to the young king
 Edward V. But he acquiesced in Richard's usurpation, and retaining his
 office as steward avoided any entanglement through his wife's share in
@@ -56,8 +56,8 @@ second earl. An old poem called _The Song of the Lady Bessy_, which was
 written by a retainer of the Stanleys, gives a romantic story of how
 Derby was enlisted by Elizabeth of York in the cause of his wife's son.
 
-   For fuller narratives see J. Gairdner's _Richard III._ and J. H.
-   Ramsay's _Lancaster and York_; also Seacome's _Memoirs of the House
+   For [[Fuller|fuller]] narratives see J. Gairdner's _Richard III._ and J. H.
+   Ramsay's _[[Lancaster]] and York_; also Seacome's _Memoirs of the House
    of Stanley_ (1741).                                      (C. L. K.)
 
 ## See also

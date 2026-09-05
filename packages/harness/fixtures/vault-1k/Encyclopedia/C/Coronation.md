@@ -59,7 +59,7 @@ England is not, and never was personally, a canon of St David's, nor did
 he ever perform any quasi-clerical function.
 
 At first a single anointing on the head was the practice, but afterwards
-other parts of the body, as the breast, arms, shoulders and hands
+other parts of the body, as the [[Breast|breast]], arms, shoulders and hands
 received the unction. From a very early period in the West three kinds
 of oil have been blessed each year on Maundy Thursday, the oil of the
 catechumens, the oil of the sick, and the chrism. The last, a compound
@@ -85,7 +85,7 @@ kings of England and France were thought to be able to cure scrofula by
 the imposition of their hands, and hence arose the practice in those
 countries of touching for the king's evil, as it was called. In England
 the chrism disappeared at the Reformation, but touching for the evil was
-continued till the accession of the house of Hanover in 1714.
+continued till the accession of the house of [[Hanover]] in 1714.
 
 The oldest of all existing rituals for the coronation of a king is
 contained in what is known as the Pontifical of Egbert, who was
@@ -196,7 +196,7 @@ appearance in the hall a herald in front of him read the challenge, the
 words of which have not materially varied at any period, as follows: "If
 any person, of what degree soever, high or low, shall deny or gainsay
 our sovereign lord ..., king of the United Kingdom of Great Britain and
-Ireland, defender of the faith (son and), next heir unto our sovereign
+Ireland, [[Defender Of The Faith|defender of the faith]] (son and), next heir unto our sovereign
 lord the last king deceased, to be the right heir to the imperial crown
 of this realm of Great Britain and Ireland, or that he ought not to
 enjoy the same; here is his champion, who saith that he lieth, and is a
@@ -234,7 +234,7 @@ head. The ceremony was concluded by the coronation mass said by the
 pope. The custom of the emperors going to Rome to be crowned was last
 observed by Frederick III. in 1440, and after that the German coronation
 was alone celebrated. The form followed was mainly thus: the electors
-first met at Frankfort, under the presidency of the elector-archbishop
+first met at [[Frankfort]], under the presidency of the elector-archbishop
 of Mainz, and, the election having been made, the emperor was led to the
 high altar of the cathedral and seated at it. He was then conducted to a
 gallery over the entrance to the choir, where, seating himself with the

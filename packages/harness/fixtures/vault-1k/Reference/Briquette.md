@@ -20,7 +20,7 @@ sizes are made for domestic use, become quite hard, and can be handled with
 less breakage than the original coal. Their principal use is as fuel for
 marine and locomotive boilers, the evaporative value being about the same
 as, or somewhat greater than, that of coal. The principal seat of the
-manufacture in Great Britain is in South Wales, where the dust and smalls
+manufacture in Great Britain is in South Wales, where the [[Dust|dust]] and smalls
 resulting from the handling of the best steam coals (which are very
 brittle) are obtainable in large quantities and find no other use. Some
 varieties of lignite, when crushed and pressed at a steam heat, soften

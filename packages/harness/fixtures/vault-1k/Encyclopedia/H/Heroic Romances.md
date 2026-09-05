@@ -51,7 +51,7 @@ visits all the sea-coasts of the world, the most remote as well as the
 most fabulous, in search of an ineffable princess, Alcidiane. This
 absurd and pretentious, yet very original piece of invention enjoyed an
 immense success, and historical romances of a similar class competed for
-the favour of the public. There was an equal amount of geography and
+the favour of the public. There was an equal amount of [[Geography|geography]] and
 more of ancient history in the _Ariane_ (1632) of Desmarets de
 Saint-Sorlin (1595-1676), a book which, long neglected, has in late
 years been rediscovered, and which has been greeted by M. Paul Morillot
@@ -102,7 +102,7 @@ elephantine romances remain as portents in the history of literature.
 These novels--there are five of them--were signed by Georges de Scudery,
 but it is believed that all were in the main written by Madeleine. The
 earliest was _Ibrahim, ou l'Illustre Bassa_ (1641); it was followed by
-_Le Grand Cyrus_ (1648-1653) and the final, and most preposterous member
+_Le Grand [[Cyrus]]_ (1648-1653) and the final, and most preposterous member
 of the series was _Clelie_ (1649-1654). The romances of Mlle de Scudery
 (for to her we may safely attribute them) are much inferior in style to
 those of la Calprenede. They are pretentious, affected and sickly. The

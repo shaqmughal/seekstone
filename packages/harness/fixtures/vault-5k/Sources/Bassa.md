@@ -23,7 +23,7 @@ the Munshis the eastern, while the Okpoto still held the south and a
 wedge-shaped district partially dividing the Munshis and Bassas. The Bassas
 are a very remarkable pagan race who permeate the entire protectorate of
 Northern Nigeria, and are to be found in small colonies in almost every
-province. They are clever agriculturists, naturally peaceful and
+province. They are [[Clever|clever]] agriculturists, naturally peaceful and
 industrious. The Munshis, though also good agriculturists, are a warlike
 and most unruly race, as are also the Okpoto.
 

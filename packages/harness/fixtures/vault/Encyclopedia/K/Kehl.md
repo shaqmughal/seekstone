@@ -15,7 +15,7 @@ however retain it for very long. In 1793 the French again took the town,
 which was retaken by the Austrians and was restored to Baden in 1803. In
 1808 the French, again in possession, restored the fortifications, but
 these were dismantled in 1815, when Kehl was again restored to Baden. In
-August 1870, during the Franco-German War, the French shelled the
+August 1870, during the [[Franco-German War]], the French shelled the
 defenceless town.
 
 ## See also

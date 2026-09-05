@@ -17,10 +17,10 @@ Kampti during the hot weather.
 
 The area of the DISTRICT OF CHHINDWARA is 4631 sq. m. It has two natural
 subdivisions--the hill country above the slopes of the Satpura
-mountains, called the Balaghat, and a tract of low land to the south
+mountains, called the [[Balaghat]], and a tract of low land to the south
 called the Zerghat. The high tableland of the Balaghat lies for the most
 part upon the great basaltic formation which stretches across the
-Satpuras as far east as Jubbulpore. The country consists of a regular
+Satpuras as far east as [[Jubbulpore]]. The country consists of a regular
 succession of hills and fertile valleys, formed by the small ranges
 which cross its surface east and west. The average height of the uplands
 is 2500 ft., but there are many points of greater elevation. The
@@ -30,7 +30,7 @@ Kanhan is the most considerable. Near the hills and along the streams
 are strips and patches of jungle; the villages are usually surrounded
 with picturesque groves of tamarind, mango and other shade-giving
 trees. In the hill-country the climate is temperate and healthy. In the
-cold season ice is frequently seen in the small tanks at an elevation of
+cold season [[Ice|ice]] is frequently seen in the small tanks at an elevation of
 about 2000 ft. Until May the hot wind is little felt, while during the
 rains the weather is cool and agreeable. The average annual rainfall
 amounts to 36 in. Pop. (1901) 407,927. There are manufactures of cotton

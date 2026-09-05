@@ -8,16 +8,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Istria"
 # Istria
 
 ISTRIA (Ger. _Istrien_), a margraviate and crownland of Austria, bounded
-N. by the Triestine territory, Gorz and Gradisca, and Carniola, E. by
+N. by the Triestine territory, Gorz and Gradisca, and [[Carniola]], E. by
 Croatia and S. and W. by the Adriatic; area 1908 sq. m. It comprises the
 peninsula of the same name (area 1545 sq. m.), which stretches into the
 Adriatic Sea between the Gulf of Trieste and the Gulf of Quarnero, and
 the islands of Veglia, Cherso, Lussino and others. The coast line of
 Istria extends for 267 m., including Trieste, and presents many good
 bays and harbours. Besides the great Gulf of Trieste, the coast is
-indented on the W. by the bays of Muggia, Capodistria, Pirano, Porto
+indented on the W. by the bays of Muggia, [[Capodistria]], Pirano, Porto
 Quieto and Pola, and on the E. by those of Medolino, Arsa, Fianona and
-Volosca. A great portion of Istria belongs to the Karst region, and is
+Volosca. A great portion of Istria belongs to the [[Karst]] region, and is
 occupied by the so-called Istrian plateau, flanked on the north and east
 by high mountains, which attain in the Monte Maggiore an altitude of
 4573 ft. In the south and west the surface gradually slopes down in
@@ -34,7 +34,7 @@ Viticulture is well developed, and the best sorts of wine are produced
 near Capodistria, Muggia, Isola, Parenzo and Dignano, while well-known
 red wines are made near Refosco and Terrano. The oil of Istria was
 already famous in Roman times. Cattle-breeding is another great source
-of revenue, and the exploitation of the forests gives beech and oak
+of revenue, and the exploitation of the forests gives [[Beech|beech]] and oak
 timber (good for shipbuilding), gall-nuts, oak-bark and cork. Fishing,
 the recovery of salt from the sea-water, and shipbuilding constitute the
 other principal occupations of the population. Istria had in 1900 a
@@ -62,17 +62,17 @@ Italy, and, when the seat of empire was removed to Ravenna, Istria
 reaped many benefits from the proximity of the capital. After the fall
 of the Western empire it was pillaged by the Longobardi and the Goths;
 it was annexed to the Frankish kingdom by Pippin in 789; and about the
-middle of the 10th century it fell into the hands of the dukes of
+middle of the 10th century it fell into the hands of the [[Dukes|dukes]] of
 Carinthia. Fortune after that, however, led it successively through the
 hands of the dukes of Meran, the duke of Bavaria and the patriarch of
-Aquileia, to the republic of Venice. Under this rule it remained till
+[[Aquileia]], to the republic of Venice. Under this rule it remained till
 the peace of Campo Formio in 1797, when Austria acquired it, and added
 it to the north-eastern part which had fallen to her share so early as
 1374. By the peace of Pressburg, Austria was in 1805 compelled to cede
 Istria to France, and the department of Istria was formed; but in 1813
 Austria again seized it, and has retained it ever since.
 
-  See T. G. Jackson, _Dalmatia, the Quarnero and Istria_ (Oxford, 1887).
+  See T. G. [[Jackson]], _[[Dalmatia]], the Quarnero and Istria_ (Oxford, 1887).
 
 ## See also
 

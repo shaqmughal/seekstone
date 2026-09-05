@@ -11,11 +11,11 @@ id: 42-1762
 BARRIER TREATY, the name given first to the treaty signed on 29th of
 October 1709 between Great Britain and the states-general of the United
 Netherlands, by which the latter engaged to guarantee the Protestant
-succession in England in favour of the house of Hanover; while Great
+succession in England in favour of the house of [[Hanover]]; while Great
 Britain undertook to procure for the Dutch an adequate _barrier_ on the
 side of the Netherlands, consisting of the towns of Furnes, Nieuport,
-Ypres, Menin, Lille, Tournai, Condé, Valenciennes, Maubeuge, Charleroi,
-Namur, Halle, Damme, Dendermond and the citadel of Ghent. The treaty was
+Ypres, Menin, Lille, Tournai, Condé, Valenciennes, Maubeuge, [[Charleroi]],
+Namur, [[Halle]], Damme, Dendermond and the citadel of [[Ghent]]. The treaty was
 based on the same principle of securing Holland against French aggression
 that had inspired that of Ryswick in 1698, by the terms of which the chief
 frontier fortresses of the Netherlands were to be garrisoned by Dutch

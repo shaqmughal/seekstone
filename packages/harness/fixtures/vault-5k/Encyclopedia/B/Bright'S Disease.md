@@ -32,7 +32,7 @@ rapid recovery of strength.
 
 In the treatment of acute Bright's disease, good results are often obtained
 from local depletion, from warm baths and from the careful employment of
-diuretics and purgatives. Chronic Bright's disease is much less amenable to
+[[Diuretics|diuretics]] and purgatives. Chronic Bright's disease is much less amenable to
 treatment, but by efforts to maintain the strength and improve the quality
 of the blood by strong nourishment, and at the same time by guarding
 against the risks of complications, life may often be prolonged in

@@ -12,12 +12,12 @@ remainder from Armagnac, Nebouzan, Astarac and Quatre Vallees, districts
 which all belonged to the province of Gascony. Pop. (1906), 209,397.
 Area, 1750 sq. m. Hautes-Pyrenees is bounded S. by Spain, W. by the
 department of Basses-Pyrenees (which encloses on its eastern border five
-communes belonging to Hautes-Pyrenees), N. by Gers and E. by
-Haute-Garonne. Except on the south its boundaries are conventional. The
+[[Commune|communes]] belonging to Hautes-Pyrenees), N. by [[Gers]] and E. by
+[[Haute-Garonne]]. Except on the south its boundaries are conventional. The
 south of the department, comprising two-thirds of its area, is occupied
 by the central Pyrenees. Some of the peaks reach or exceed the height of
 10,000 ft., the Vignemale (10,820 ft.) being the highest in the French
-Pyrenees. The imposing _cirques_ (Cirques de Troumouse, Gavarnie and
+Pyrenees. The imposing _[[Cirque|cirques]]_ (Cirques de Troumouse, Gavarnie and
 Estaube), with their glaciers and waterfalls, and the pleasant valleys
 attract a large number of tourists, the most noted point being the
 Cirque de Gavarnie. The northern portion of the department is a region
@@ -27,11 +27,11 @@ Lannemezan (about 2000 ft.), the watershed of the streams that come down
 on the French side of the Pyrenees, presents in its bleakness and
 barrenness a striking contrast to the plain that lies below. The
 department is drained by three principal streams, the Gave de Pau, the
-Adour and the Neste, an affluent of the Garonne. The sources of the
+Adour and the Neste, an affluent of the [[Garonne]]. The sources of the
 first and third lie close together in the Cirque of Gavarnie and on the
 slopes of Troumouse, whence they flow respectively to the north-west and
 north-east. An important section of the Pyrenees, which carries the
-Massif Neouvielle and the Pic du Midi de Bigorre (with its
+[[Massif]] Neouvielle and the Pic du Midi de Bigorre (with its
 meteorological observatory), runs northward between these two valleys.
 From the Pic du Midi descends the Adour, which, after watering the
 pleasant valley of Campan, leaves the mountains at Bagneres and then
@@ -43,7 +43,7 @@ receives the Gave de Pau. This latter stream, rising in Gavarnie, is
 joined at Luz by the Gave de Bastan from Neouvielle, and at Pierrefitte
 by the Gave de Cauterets, fed by streams from the Vignemale. The Gave de
 Pau, after passing Argeles, a well-known centre for excursions, and
-Lourdes, leaves the mountains and turns sharply from north to west; it
+[[Lourdes]], leaves the mountains and turns sharply from north to west; it
 has a greater volume of water than the Adour, but, being more of a
 mountain torrent, is regarded as a tributary of the Adour, which is
 navigable in the latter part of its course. The Neste d'Aure, descending
@@ -70,13 +70,13 @@ Peyriguere are well known and tobacco is also cultivated; chestnut trees
 and fruit trees are grown on the lower slopes. In the neighbourhood of
 Tarbes and Bagneres-de-Bigorre horse-breeding is the principal
 occupation and there is a famous stud at Tarbes. The horse of the region
-is the result of a fusion of Arab, English and Navarrese blood and is
-well fitted for saddle and harness; it is largely used by light cavalry
+is the result of a [[Fusion|fusion]] of Arab, English and Navarrese blood and is
+well fitted for saddle and [[Harness|harness]]; it is largely used by light [[Cavalry|cavalry]]
 regiments. Cattle raising is important; the milch-cows of Lourdes and
 the oxen of Tarbes and the valley of the Aure are highly esteemed. Sheep
 and goats are also reared. The forests, which occur chiefly in the
 highlands, contain bears, boars, wolves and other wild animals. There
-are at Campan and Sarrancolin quarries of fine marble, which is sawn and
+are at Campan and Sarrancolin quarries of fine [[Marble|marble]], which is sawn and
 worked at Bagneres. There is a group of slate quarries at Labassere.
 Deposits of lignite, lead, manganese and zinc are found. The mineral
 springs of Hautes-Pyrenees are numerous and much visited. The principal
@@ -89,18 +89,18 @@ calcium sulphates).
 
 The department has flour-mills and saw-mills, a large military arsenal
 at Tarbes, paper-mills, tanneries and manufactories of agricultural
-implements and looms. The spinning and weaving of wool and the
+[[Implement|implements]] and [[Loom|looms]]. The spinning and weaving of wool and the
 manufacture of knitted goods are carried on; Bagneres-de-Bigorre is the
 chief centre of the textile industry.
 
 Of the passes (_ports_) into Spain, even the chief, Gavarnie (7398 ft.),
 is not accessible to carriages. The department is served by the Southern
 railway and is traversed from west to east by the main line from Bayonne
-to Toulouse. There are three arrondissements, those of Tarbes, Argeles
+to Toulouse. There are three [[Arrondissement|arrondissements]], those of Tarbes, Argeles
 and Bagneres-de-Bigorre, 26 cantons and 480 communes. Tarbes is the
 capital of Hautes-Pyrenees, which constitutes the diocese of Tarbes, and
 is attached to the appeal court of Pau; it forms part of the region of
-the XVIII. army corps. In educational matters it falls within the
+the XVIII. army [[Corps|corps]]. In educational matters it falls within the
 circumscription of the academie of Toulouse. Tarbes, Lourdes,
 Bagneres-de-Bigorre and Luz-St Sauveur are the principal towns. St
 Savin, in the valley of the Gave de Pau, and Sarrancolin have

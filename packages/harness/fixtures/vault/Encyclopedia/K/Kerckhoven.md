@@ -9,8 +9,8 @@ tags: [architecture, heraldry-studies]
 # Kerckhoven
 
 KERCKHOVEN, JAN POLYANDER VAN DEN (1568-1646), Dutch Protestant divine,
-was born at Metz, in 1568. He became French preacher at Dort in 1591,
-and afterwards succeeded Franz Gomarus as professor of theology at
+was born at Metz, in 1568. He became French preacher at [[Dort]] in 1591,
+and afterwards succeeded [[Franz]] [[Gomarus]] as professor of theology at
 Leiden. He was invited by the States General of Holland to revise the
 Dutch translation of the Bible, and it was he who edited the canons of
 the synod of Dort (1618-1619).

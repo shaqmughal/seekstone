@@ -7,17 +7,17 @@ tags: [palaeontology, biology]
 
 # Duncan
 
-DUNCAN, ADAM DUNCAN, 1ST VISCOUNT (1731-1804), British naval commander,
-was born on the 1st of July 1731, at Lundie, in Forfarshire, Scotland.
-After receiving the rudiments of his education at Dundee, he was in 1746
-placed under Captain Haldane, of the "Shoreham" frigate, and in 1749 he
+DUNCAN, ADAM DUNCAN, 1ST VISCOUNT (1731-1804), British naval [[Commander|commander]],
+was born on the 1st of July 1731, at Lundie, in [[Forfarshire]], Scotland.
+After receiving the rudiments of his education at [[Dundee]], he was in 1746
+placed under Captain [[Haldane]], of the "Shoreham" [[Frigate|frigate]], and in 1749 he
 became a midshipman in the "Centurion." In 1755 he was appointed second
 lieutenant of the "Norwich," but on the arrival of that ship in America,
 whither, with the rest of Keppel's squadron, it had convoyed General
 Braddock's forces, he was transferred to the "Centurion." Once again in
 England, he was promoted to be second lieutenant of the "Torbay," and
 after three years on the home station he assisted in the attack on the
-French settlement of Goree, on the African coast, in which he was
+French settlement of [[Goree]], on the African coast, in which he was
 slightly wounded. He returned to England as first lieutenant of the
 "Torbay"; and in 1759 was made a commander, and in 1761 a post-captain.
 His vessel, the "Valiant" (74), was Commodore Keppel's flag-ship in the
@@ -29,10 +29,10 @@ recommencement of war with France, Captain Duncan was appointed to the
 in an action off Cape St Vincent, between a Spanish squadron under Don
 Juan de Langara and the British fleet under Sir George Rodney, Captain
 Duncan in the "Monarch" was the first to engage the enemy; and in 1782,
-as captain of the "Blenheim" (90), he took part in Lord Howe's relief of
-Gibraltar. From the rank of rear-admiral of the blue, received in 1789,
+as captain of the "[[Blenheim]]" (90), he took part in Lord Howe's relief of
+[[Gibraltar]]. From the rank of rear-admiral of the blue, received in 1789,
 he was gradually promoted until, in 1799, he became admiral of the
-white. In February 1795 he hoisted his flag as commander-in-chief of the
+white. In February 1795 he hoisted his [[Flag|flag]] as commander-in-chief of the
 North Sea fleet, appointed to harass the Batavian navy. Towards the end
 of May 1797, though, in consequence of the widespread mutiny in the
 British fleet, he had been left with only the "Adamant" (50), besides
@@ -56,22 +56,22 @@ mid-day the British ships, without waiting to form in order, broke
 through the Dutch line, and an engagement commenced which, after heavy
 loss on both sides, resulted in the taking by the British of eleven of
 the enemy's vessels. When the action ceased the ships were in nine
-fathoms water, within 5 m. of a lee shore, and there was every sign of
-an approaching gale. So battered were the prizes that it was found
+[[Fathom|fathoms]] water, within 5 m. of a [[Lee|lee]] shore, and there was every sign of
+an approaching [[Gale|gale]]. So battered were the prizes that it was found
 impossible to fit them for future service, and one of them, the "Delft,"
 sank on her way to England. In recognition of this victory, Admiral
 Duncan was, on the 21st of October, created Viscount Duncan of
 Camperdown and baron of Lundie, with an annual pension of £3000 to
-himself and the two next heirs to his title. The earldom of Camperdown
+himself and the two next [[Heir|heirs]] to his title. The earldom of Camperdown
 was created for his son Robert (1785-1859) in 1831, and is still in the
 possession of his descendants. In 1800 Lord Duncan withdrew from naval
 service. He died on the 4th of August 1804.
 
-  See Charnock, _Biog. Nav._ (1794-1796); Collins, _Peerage of England_,
+  See Charnock, _Biog. Nav._ (1794-1796); [[Collins]], _Peerage of England_,
   p. 378 (1812); W. James, _Naval History of Great Britain_ (1822);
   Yonge, _History of the British Navy_, vol. i. (1863); Earl of
   Camperdown, _Admiral Duncan_ (1898), vol. xvi. of the Navy Record Soc.
-  Publications, contains the logs of the ships engaged in the battle of
+  Publications, contains the [[Log|logs]] of the ships engaged in the battle of
   Camperdown.
 
 ## References

@@ -1,10 +1,10 @@
 # Hutchinson
 
-HUTCHINSON, ANNE (c. 1600-1643), American religious enthusiast, leader
-of the "Antinomians" in New England, was born in Lincolnshire, England,
+HUTCHINSON, [[Anne|ANNE]] (c. 1600-1643), American religious enthusiast, leader
+of the "[[Antinomians]]" in New England, was born in [[Lincolnshire]], England,
 about 1600. She was the daughter of a clergyman named Francis Marbury,
-and, according to tradition, was a cousin of John Dryden. She married
-William Hutchinson, and in 1634 emigrated to Boston, Massachusetts, as a
+and, according to tradition, was a [[Cousin|cousin]] of John [[Dryden]]. She married
+William Hutchinson, and in 1634 emigrated to [[Boston]], Massachusetts, as a
 follower and admirer of the Rev. John Cotton. Her orthodoxy was
 suspected and for a time she was not admitted to the church, but soon
 she organized meetings among the Boston women, among whom her
@@ -12,18 +12,18 @@ exceptional ability and her services as a nurse had given her great
 influence; and at these meetings she discussed and commented upon recent
 sermons and gave expression to her own theological views. The meetings
 became increasingly popular, and were soon attended not only by the
-women but even by some of the ministers and magistrates, including
+women but even by some of the ministers and [[Magistrate|magistrates]], including
 Governor Henry Vane. At these meetings she asserted that she, Cotton and
 her brother-in-law, the Rev. John Wheelwright--whom she was trying to
-make second "teacher" in the Boston church--were under a "covenant of
-grace," that they had a special inspiration, a "peculiar indwelling of
+make second "teacher" in the Boston church--were under a "[[Covenant|covenant]] of
+[[Grace|grace]]," that they had a special inspiration, a "peculiar indwelling of
 the Holy Ghost," whereas the Rev. John Wilson, the pastor of the Boston
 church, and the other ministers of the colony were under a "covenant of
 works." Anne Hutchinson was, in fact, voicing a protest against the
 legalism of the Massachusetts Puritans, and was also striking at the
 authority of the clergy in an intensely theocratic community. In such a
 community a theological controversy inevitably was carried into secular
-politics, and the entire colony was divided into factions. Mrs
+politics, and the entire colony was divided into [[Faction|factions]]. Mrs
 Hutchinson was supported by Governor Vane, Cotton, Wheelwright and the
 great majority of the Boston church; opposed to her were Deputy-Governor
 John Winthrop, Wilson and all of the country magistrates and churches.

@@ -6,7 +6,7 @@ topic: cities-studies
 
 # Beskescsaba
 
-BESKESCSABA, a market-town of Hungary, 123 m. S.E. of Budapest by rail.
+BESKESCSABA, a market-town of Hungary, 123 m. S.E. of [[Budapest]] by rail.
 Pop. (1900) 37,108, mostly Slovaks and Lutherans, who form the largest
 Lutheran community in Hungary. The town is situated near the White
 Koros, with which it is connected by a canal, and is an important

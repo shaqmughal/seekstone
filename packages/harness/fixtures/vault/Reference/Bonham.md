@@ -8,8 +8,8 @@ and the Texas & Pacific railways. Bonham is the seat of Carlton College
 (Christian), a woman's college founded in 1867; and its high school is
 one of the best in the state. It is a trading and shipping centre of an
 extensive farming territory devoted to the raising of live-stock and to
-the growing of cotton, Indian corn, fruit, &c. It has large cotton gins
-and compresses, a large cotton mill, flour mills, canning and ice
+the growing of cotton, Indian [[Corn|corn]], fruit, &c. It has large cotton [[Gin|gins]]
+and compresses, a large cotton mill, flour mills, canning and [[Ice|ice]]
 factories, railway repair shops, planing mills and carriage works. The
 town was named in honour of J.B. Bonham, a native of South Carolina, who
 was killed in the Alamo. The first settlement here was made in 1836. The
@@ -19,7 +19,7 @@ town was incorporated in 1850, and was re-incorporated in 1886.
 
 
 BONHEUR [MARIE ROSALIE], ROSA (1822-1899), French painter, was born at
-Bordeaux on the 22nd of March 1822. She was of Jewish origin. Jacques
+[[Bordeaux]] on the 22nd of March 1822. She was of Jewish origin. Jacques
 Wiener, the Belgian medallist, a native of Venloo, says that he and
 Raymond Bonheur, Rosa's father, used to attend synagogue in that town;
 while another authority asserts that Rosa used to be known in common
@@ -46,12 +46,12 @@ There is nothing feminine in her handling; her treatment is always manly
 and firm. Of her many works we may note the following:--"Ploughing in
 the Nivernais" (1848), in the Luxembourg gallery; "The Horse Fair"
 (1853), one of the two replicas of which is in the National Gallery,
-London, the original being in the United States; and "Hay Harvest in
-Auvergne" (1835). She was decorated with the Legion of Honour by the
+London, the original being in the United States; and "[[Hay]] [[Harvest]] in
+Auvergne" (1835). She was decorated with the [[Legion]] of Honour by the
 empress Eugenie, and was subsequently promoted to the rank of "officer"
 of the order. After 1867 Rosa Bonheur exhibited but once in the salon,
 in 1899, a few weeks before her death. She lived quietly at her country
-house at By, near Fontainebleau, where for some years she had held
+house at By, near [[Fontainebleau]], where for some years she had held
 gratuitous classes for drawing. She left at her death a considerable
 number of pictures, studies, drawings and etchings, which were sold by
 auction in Paris in the spring of 1900.     (H. Fr.)

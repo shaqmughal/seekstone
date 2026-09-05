@@ -5,10 +5,10 @@ about the middle of the 13th century. He received his education in
 Nicaea at a monastery of which he later became the abbot, though not in
 orders. Subsequently he gave himself up to a life of solitary asceticism
 in a Bithynian monastery, and is said, probably wrongly, to have
-remained some time in a monastery on Mount Athos. From this seclusion he
+remained some time in a monastery on Mount [[Athos]]. From this seclusion he
 was in A.D. 1255 called by Theodore II. Lascaris to the position of
 patriarch at Nicaea, and four years later, on that emperor's death,
-became joint guardian of his son John. His fellow-guardian Georgios
+became joint [[Guardian|guardian]] of his son John. His fellow-guardian Georgios
 Mouzalon was immediately murdered by Michael Palaeologus, who assumed
 the position of tutor. Arsenius then took refuge in the monastery of
 Paschasius, retaining his office of patriarch but refusing to discharge
@@ -26,7 +26,7 @@ Josephus gave absolution to the emperor, the quarrel was carried on
 between the "Arsenites" and the "Josephists." The "Arsenian schism"
 lasted till 1315, when reconciliation was effected by the patriarch
 Niphon (see Gibbon, _Decline and Fall of the Roman Empire_, ed. J.B.
-Bury, 1898, vol. vi. 467 foll.). Arsenius is said to have prepared from
+[[Bury]], 1898, vol. vi. 467 foll.). Arsenius is said to have prepared from
 the decisions of the councils and the works of the Fathers a summary of
 divine laws under the title _Synopsis Canonum_. This was published
 (Greek original and Latin version) by G. Voel and H. Justel in
@@ -37,7 +37,7 @@ depends on whether the patriarch Arsenius did or did not sojourn at
 Mount Athos.
 
   See Georgius Pachymeres ii. 15, iii. _passim_, iv. 1-16; Nicephorus
-  Gregoras iii. 1, iv. 1; for the will of Arsenius see Cotelerius,
+  [[Gregoras]] iii. 1, iv. 1; for the will of Arsenius see Cotelerius,
   _Monumenta_, ii. 168.
 
 ## See also

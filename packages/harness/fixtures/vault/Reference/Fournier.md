@@ -17,7 +17,7 @@ _Dissertation sur l'origine et les progres de l'art de graver en bois_.
 This gave rise to a controversy in which Schopflin and Baer were his
 opponents. Fournier's contributions to this debate were collected and
 reprinted under the title of _Traites historiques et critiques sur
-l'origine de l'imprimerie_. His principal work, however, was the _Manuel
+l'origine de l'imprimerie_. His principal work, however, was the _[[Manuel]]
 typographique_, which appeared in 2 vols. 8vo in 1764, the first volume
 treating of engraving and type-founding, the second of printing, with
 examples of different alphabets. It was the author's design to complete

@@ -9,10 +9,10 @@ have arisen, is likely to be a theogony ([Greek: theos], god) as well as
 a cosmogony (Babylonia, Egypt, Phoenicia, Polynesia).
 
 1. To many the interest of such stories will depend on their parallelism
-to the Biblical account in Genesis i.; the anthropologist, however, will
+to the Biblical account in [[Genesis]] i.; the anthropologist, however, will
 be attracted by them in proportion as they illustrate the more primitive
 phases of human culture. In spite of the frequent overgrowth of a
-luxuriant imagination, the leading ideas of really primitive cosmogonies
+luxuriant [[Imagination|imagination]], the leading ideas of really primitive cosmogonies
 are extremely simple. Creation out of nothing is nowhere thought of, for
 this is not at all a simple idea. The pre-existence of world-matter is
 assumed; sometimes too that of heaven, as the seat of the earth-maker,
@@ -31,7 +31,7 @@ tribes to that of the people of Israel.
 
 2. _North American Stories._--Theriomorphic creators are most fully
 attested for the Red Indian tribes, whose very backwardness renders them
-so valuable to an anthropologist. There is a painted image from Alaska,
+so valuable to an anthropologist. There is a painted [[Image|image]] from Alaska,
 now in the museum of the university of Pennsylvania, which represents
 such an one. We see a black crow tightly holding a human mask which he
 is in the act of incubating. Let us pass on to the Thlinkît Indians of
@@ -58,14 +58,14 @@ a tortoise (cf. § 6) on which a diving animal had placed some mud,
 received her. Here, being already pregnant, she gave birth to a
 daughter, who in turn bore the twins Joskeha and Tawiscara (myth of
 hostile brothers). By his violence (cf. Gen. xxv. 22) the latter killed
-his mother, out of whose corpse grew plants. Tawiscara fled to the west,
+his mother, out of whose [[Corpse|corpse]] grew plants. Tawiscara fled to the west,
 where he rules over the dead. Joskeha made the beasts and also men.
 After acting as culture-giver he disappeared to the east, where he is
 said to dwell with his grandmother as her husband.[6]
 
 3. _Mexican._--The most interesting feature in the Mexican cosmology is
 the theory of the ages of the world. Greece, Persia and probably
-Babylon, knew of four such ages.[7] The Priestly Writer in the
+[[Babylon]], knew of four such ages.[7] The Priestly Writer in the
 Pentateuch also appears to be acquainted with this doctrine; it is the
 first of four ages which begins with the Creation and ends with the
 Deluge. The Mexicans, however, are said to have assumed five ages called
@@ -77,7 +77,7 @@ For the Iranian parallel, see § 8, and on the Hebrew Priestly Writer,
 Gunkel, _Genesis_[2], pp. 233 ff.
 
 4. _Peruvian._--In Peru, as in Egypt, the sun-god obtained universal
-homage. But there were creator-gods in the background. A theoretical
+[[Homage|homage]]. But there were creator-gods in the background. A theoretical
 supremacy was accorded by the Incas to Pachacamac, whose worship, like
 that of Viracocha, they appear to have already found when they conquered
 the land. Pachacamac means, in Quichua, "world-animator."[9] The
@@ -93,7 +93,7 @@ Manco Capac ("the mighty man"), whose sister and wife is called Mama
 Oello, "the mother-egg." Afterwards, the creator and the mother-egg
 became respectively the sun and the moon, represented by the Inca
 priest-king and his wife, the supposed descendants of Manco Capac.[11]
-Dualistic tendencies were also developed. Las Casas[12] reports a story
+Dualistic tendencies were also developed. [[Las Casas]][12] reports a story
 that before creation the creator-god had a bad son who sought, after
 creation, to undo all that his father had done. Angered at this, his
 father hurled him into the sea. We need not suspect Christian
@@ -113,7 +113,7 @@ there is a heavenly as well as an earthly ocean; hence the clouds are
 sometimes called Tangaloa's ships. It is true, the popular imagery is
 unworthy of such a god. Sometimes he is said to live in a shell, by
 throwing off which from time to time he increases the world; or in an
-egg, which at last he breaks in pieces; the pieces are the islands. We
+[[Egg|egg]], which at last he breaks in pieces; the pieces are the islands. We
 also hear that long ago he hovered as an enormous bird over the waters,
 and there deposited an egg. The egg may be either the earth with the
 overarching vault of heaven or (as in Egypt--but this is a later view)
@@ -150,7 +150,7 @@ principle of intelligence, who spoke the world into existence.[20] A
 strange episode in the legend of the destruction of man by the gods
 tells how Ra (or Re), the first king of the world, finding in his old
 age that mankind ceased to respect him, first tried the remedy of
-massacre, and then ascended the heavenly cow, and organized a new
+[[Massacre|massacre]], and then ascended the heavenly cow, and organized a new
 world--that of heaven.[21]
 
 8. _Iranian._--The Iranian account of creation[22] is specially
@@ -206,7 +206,7 @@ as to the former, see BABYLONIAN AND ASSYRIAN RELIGION. With regard to
 the latter, we may notice that in Gen. ii. 4b-25 we have an account of
 creation which, though in its present form very incomplete, is highly
 attractive, because it is pervaded by a breath from primitive times. It
-has, however, been interwoven with an account of the Garden of Eden from
+has, however, been interwoven with an account of the Garden of [[Eden]] from
 some other source (see EDEN; PARADISE), and perhaps in order to
 concentrate the attention of the reader, the description of the origin
 of "earth and heaven" as well as of the plants and of the rain, appears
@@ -226,7 +226,7 @@ translated in 1890 by T. G. Pinches is distinguished by its non-mythical
 character; in particular, the dragon of chaos and darkness is
 conspicuous by her absence. This may illustrate the fact that the dragon
 is also unmentioned in the Hebrew cosmogony; to some writers the
-dragon-element may have seemed grotesque and inappropriate. We must,
+dragon-element may have seemed [[Grotesque|grotesque]] and inappropriate. We must,
 however, study this element in the most important Babylonian tradition,
 even if only for its relation to non-Semitic myths and especially to
 some striking passages in the Bible (Isa. xxvii. 1, li. 9b; Ps. lxxiv.
@@ -299,9 +299,9 @@ doubtless had peculiarities of their own. From one of them may have come
 that remarkable statement in Gen. i. 2b, "and the spirit of God (Elohim)
 was hovering over the face of the waters," which, until we find some
 similar myth nearer home, is best illustrated and explained by a
-Polynesian myth (see Cheyne, _Traditions and Beliefs of Ancient Israel_,
+Polynesian myth (see [[Cheyne]], _Traditions and Beliefs of Ancient Israel_,
 ad loc.). It is also probably to a non-Babylonian source that we owe the
-prescription of vegetarian or herb diet in Gen. i. 29, 30, which has a
+prescription of vegetarian or [[Herb|herb]] diet in Gen. i. 29, 30, which has a
 Zoroastrian parallel[26] and is evidently based on a myth of the Golden
 Age, independent of the Babylonian cosmogony. Gen. i., therefore, has
 not, as it stands, been directly borrowed from Babylonia, and yet the
@@ -343,7 +343,7 @@ FOOTNOTES:
     however, thought otherwise, and the myth itself suggests a
     theriomorphic earth-maker.
 
-  [5] See Schoolcraft, _Myth of Hiawatha_ (1856), pp. 35-39; and cf.
+  [5] See Schoolcraft, _Myth of [[Hiawatha]]_ (1856), pp. 35-39; and cf.
     the myth of Manabush, analysed in _Journ. of Amer. Folklore_, iv.
     210-213.
 
@@ -371,7 +371,7 @@ FOOTNOTES:
   [12] _De las antiquas gentes del Peru_ (ed. 1892), pp. 55, 56.
 
   [13] See especially Waitz-Gerland, _Anthropologie der Naturvölker_,
-    vi. 229-302; Gill, _Myths and Songs of the South Pacific_; Schirren,
+    vi. 229-302; [[Gill]], _Myths and Songs of the South Pacific_; Schirren,
     _Wandersagen der Neuseeländer_; also an older work (Sir George)
     Grey's _Polynesian Mythology_.
 
@@ -402,7 +402,7 @@ FOOTNOTES:
 
   [24] Fragments of older works are cited by Philo of Byblus (in
     Eusebius, _Praep. Evang._ i. 10) and Mochus and Endemus (in
-    Damascius, _De primis principiis_, c. 125).
+    [[Damascius]], _De primis principiis_, c. 125).
 
   [25] See Jastrow, _Religion of Babylonia and Assyria_, p. 428.
 

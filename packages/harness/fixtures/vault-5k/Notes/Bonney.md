@@ -24,7 +24,7 @@ secretary and afterwards president of the Geological Society
 (1884-1886), secretary of the British Association (1881-1885), president
 of the Mineralogical Society and of the Alpine Club. He was also in 1887
 appointed honorary canon of Manchester. His purely scientific works are:
-_Cambridgeshire Geology_ (1875); _The Story of our Planet_ (1893);
+_[[Cambridgeshire]] Geology_ (1875); _The Story of our Planet_ (1893);
 _Charles Lyell and Modern Geology_ (1895); _Ice Work, Past and Present_
 (1896); _Volcanoes_ (1899). In addition to many papers published in the
 _Quarterly Journal of the Geological Society_ and _Geological Magazine_,

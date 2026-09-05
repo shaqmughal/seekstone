@@ -6,21 +6,21 @@ West Indies), also called "anthropophagy" (Gr. [Greek: authrpspos], man,
 and [Greek: phaneiu], to eat). Evidence has been adduced from some of
 the palaeolithic cave-dwellings in France to show that the inhabitants
 practised cannibalism, at least occasionally. From Herodotus, Strabo and
-others we hear of peoples like the Scythian Massagetae, a nomad race
-north-east of the Caspian Sea, who killed old people and ate them. In
+others we hear of peoples like the Scythian [[Massagetae]], a nomad race
+north-east of the [[Caspian Sea]], who killed old people and [[Ate|ate]] them. In
 the middle ages reports, some of them probably untrustworthy, by Marco
 Polo and others, attributed cannibalism to the wild tribes of China, the
 Tibetans, &c. In our own days cannibalism prevails, or prevailed until
 recently, over a great part of West and Central Africa, New Guinea,
-Melanesia (especially Fiji) and Australia. New Zealand and the
+Melanesia (especially [[Fiji]]) and [[Australia]]. New Zealand and the
 Polynesian Islands were great centres of the practice. It is extensively
 practised by the Battas of Sumatra and in other East Indian islands and
 in South America; in earlier days it was a common feature of Indian wars
 in North America. Sporadic cannibalism occurs among more civilized
 peoples as a result of necessity or as a manifestation of disease (see
-LYCANTHROPY).
+[[Lycanthropy|LYCANTHROPY]]).
 
-_Classification._--Cannibalistic practices may be classified from two
+_[[Classification]]._--Cannibalistic practices may be classified from two
 points of view: (1) the motives of the act; (2) the ceremonial
 regulations. A third division of subordinate importance is also
 possible, if we consider whether the victims are actually killed for
@@ -40,7 +40,7 @@ Simple food cannibalism is common in Africa; the Niam-Niam and Monbuttu
 carry on wars for the sake of obtaining human flesh; in West Africa
 human flesh could formerly be seen exposed for sale in the market like
 any other article of commerce; and among some tribes it is the practice
-to sell the corpses of dead relatives for consumption as food. (b) In
+to sell the [[Corpse|corpses]] of dead relatives for consumption as food. (b) In
 curious contrast to this latter custom is the practice of devouring
 dead kinsfolk as the most respectful method of disposing of their
 remains. In a small number of cases this practice is combined with the
@@ -70,7 +70,7 @@ the one hand, to abstain from certain foods in order that they may not
 acquire certain qualities; on the other hand other foods are eagerly
 desired in order that they may by partaking of the flesh also come to
 partake of the mental or bodily peculiarities of the man or animal from
-which the meat is derived; thus, after the birth of a child, especially
+which the [[Meat|meat]] is derived; thus, after the birth of a child, especially
 the first-born, the parents are frequently forbidden the flesh of
 slow-moving animals, because that would prevent the child from learning
 to walk; conversely, eating the heart of a lion is recommended for a
@@ -79,15 +79,15 @@ understand the motives which lead to the eating of those slain in
 battle, both friends and foes. (ii.) We may term protective an entirely
 different kind of magical cannibalism, which consists in the consumption
 of a small portion of the body of a murdered man, in order that his
-ghost may not trouble the murderer; according to Hans Egede, the Eskimo,
+ghost may not trouble the murderer; according to Hans [[Egede]], the Eskimo,
 when they kill a witch, eat a portion of her heart, that she may not
 haunt them. (iii.) The practice is also said to have the effect of
 causing the relatives of the murdered man to lose heart or to prevent
 them from exercising the right of revenge; in this case it may be
-brought into relation with the ceremony of the blood covenant in one of
+brought into relation with the ceremony of the blood [[Covenant|covenant]] in one of
 the forms of which the parties drink each other's blood; or, it may
 point to a reminiscence of a ritual eating of the dead kinsman. The late
-survival of this idea in Europe is attested by its mention by Dante in
+survival of this idea in Europe is attested by its mention by [[Dante]] in
 the _Purgatorio_. (d) The custom of eating food offered to the gods is
 widespread, and we may trace to this origin Mexican cannibalism,
 perhaps, too, that of Fiji. The Aztec worship of the god of war,
@@ -98,7 +98,7 @@ with the heart and blood; finally the bodies of the victims were
 consumed by the worshippers. (e) We reach an entirely different set of
 motives in penal and revenge cannibalism. For the origin of these ideas
 we may perhaps look to that of protective magic, dealt with above; but
-it seems possible that there is also some idea of influencing the lot of
+it seems possible that there is also some idea of influencing the [[Lot|lot]] of
 the criminal in a future life; it may be noted that the whole of the
 body is seldom eaten in protective cannibalism; among the Battas,
 however, the criminal, and in parts of Africa the debtor, are entirely
@@ -117,7 +117,7 @@ human flesh; in other cases it is only the nearest relatives who may not
 partake of a body; in other cases again it is precisely the nearest
 relatives on whom the duty falls. A curious regulation in south-east New
 Guinea prescribes that the killer of the victim shall not partake in the
-feast; in some cases the whole of the clan to which belonged the man for
+feast; in some cases the whole of the [[Clan|clan]] to which belonged the man for
 whom revenge is taken abstains also; in other cases this clan, together
 with any others of the same intermarrying group, takes part in the feast
 to the exclusion of (a) the clan or group with which they intermarry and

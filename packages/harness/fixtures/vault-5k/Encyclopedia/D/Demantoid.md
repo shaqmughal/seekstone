@@ -11,7 +11,7 @@ DEMANTOID, the name given by Nils Gustaf Nordenskiold to a green garnet,
 found in the Urals and used as a gem stone. As it possesses high
 refractive and dispersive power, it presents when properly cut great
 brilliancy and "fire," and the name has reference to its diamond-like
-appearance. It is sometimes known as "Uralian emerald," a rather
+appearance. It is sometimes known as "Uralian [[Emerald|emerald]]," a rather
 unfortunate name inasmuch as true emerald is found in the Urals, whilst
 it not infrequently passes in trade as olivine. Demantoid is regarded as
 a lime-iron garnet, coloured probably by a small proportion of chromium.

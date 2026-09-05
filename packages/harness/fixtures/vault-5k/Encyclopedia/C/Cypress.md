@@ -11,7 +11,7 @@ tags: [heraldry, magnetism]
 CYPRESS (_Cupressus_), in botany, a genus of fifteen species belonging
 to the tribe Cupressineae, natural order Coniferae, represented by
 evergreen aromatic trees and shrubs indigenous to the south of Europe,
-western Asia, the Himalayas, China, Japan, north-western and
+western Asia, the [[Himalaya|Himalayas]], China, Japan, north-western and
 north-eastern America, California and Mexico. The leaves of the
 cypresses are scale-like, overlapping and generally in four rows; the
 female catkins are roundish, and fewer than the male; the cones consist
@@ -26,26 +26,26 @@ flame-shaped tree resembling the Lombardy poplar; its branches are
 thickly covered with small, imbricated, shining-green leaves; the male
 catkins are about 3 lines in length; the cones are between 1 and 1(1/2)
 in. in diameter, sessile, and generally in pairs, and are made up of
-large angular scales, slightly convex exteriorly, and with a sharp point
+large angular scales, slightly [[Convex|convex]] exteriorly, and with a sharp point
 in the centre. In Britain the tree grows to a height of 40 ft., in its
 native soil to 70 or 90 ft. It thrives best on a dry, deep, sandy loam,
 on airy sheltered sites at no great elevation above the sea. It was
 introduced into Great Britain before the middle of the 16th century. In
 the climate of the south of England its rate of growth when young is
 between 1 and 1(1/2) ft. a year. The seeds are sown in April, and come
-up in three or four weeks; the plants require protection from frost
+up in three or four weeks; the plants require protection from [[Frost|frost]]
 during their first winter.
 
-The timber of the cypress is hard, close-grained, of a fine reddish hue,
+The timber of the cypress is hard, close-grained, of a fine reddish [[Hue|hue]],
 and very durable. Among the ancients it was in request for poles,
 rafters, joists, and for the construction of wine-presses, tables and
 musical instruments; and on that account was so valuable that a
 plantation of cypresses was considered a sufficient dowry for a
 daughter. Owing to its durability the wood was employed for mummy cases,
-and images of the gods; a statue of Jupiter carved out of cypress is
+and [[Image|images]] of the gods; a statue of Jupiter carved out of cypress is
 stated by Pliny to have existed 600 years without showing signs of
 decay. The cypress doors of the ancient St Peter's at Rome, when removed
-by Eugenius IV., were about 1100 years old, but nevertheless in a state
+by [[Eugenius]] IV., were about 1100 years old, but nevertheless in a state
 of perfect preservation. Laws were engraved on cypress by the ancients,
 and objects of value were preserved in receptacles made of it; thus
 Horace speaks of poems _levi servanda cupresso_.
@@ -66,7 +66,7 @@ x. 3). In Turkish cemeteries the cypress--
 is the most striking feature, the rule being to plant one for each
 interment. The tree grows straight, or nearly so, and has a gloomy and
 forbidding, but wonderfully stately aspect. With advancing age its
-foliage becomes of a dark, almost black hue. William Gilpin calls the
+foliage becomes of a dark, almost black hue. William [[Gilpin]] calls the
 cypress an architectural tree: "No Italian scene," says he, "is perfect
 without its tall spiral form, appearing as if it were but a part of the
 picturesquely disposed edifices which rise from the middle ground
@@ -97,7 +97,7 @@ readily worked, durable, and equal in quality to that of the deodar.
 Another species, _C. lusitanica_ or _glauca_, the "cedar of Goa," is a
 handsome tree, 50 ft. in height when full-grown, with spreading branches
 drooping at their extremities; it has been much planted in Portugal,
-especially in the neighbourhood of Cintra. Its origin is doubtful. It
+especially in the neighbourhood of [[Cintra]]. Its origin is doubtful. It
 was well established in Portugal before the middle of the 17th century,
 and has since been cultivated generally in the south of Europe, but is
 nowhere believed to be indigenous. The name "cedar of Goa" is
@@ -135,7 +135,7 @@ reaching a height of 170 ft. or more, with a massive trunk 10 to 15 ft.
 or more in diameter, growing in or near water or on low-lying land which
 is subject to periodical flooding. The lower part of the trunk bears
 huge buttresses, each of which ends in a long branching far-spreading
-root, from the branches of which spring the peculiar knees which rise
+root, from the branches of which spring the peculiar [[Knee|knees]] which rise
 above the level of the water. The knees are of a soft spongy texture and
 act as breathing organs, supplying the roots with air, which they would
 otherwise be unable to obtain when submerged. The stout horizontally

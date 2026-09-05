@@ -3,9 +3,9 @@
 CAPRI (anc. _Capreae_), an island on the S. side of the Bay of Naples,
 of which it commands a fine view; it forms part of the province of
 Naples, and is distant about 20 m. S. of the town of Naples. Pop. (1901)
-of the commune of Capri, 3890, of Anacapri, 2316. It divides the exits
+of the [[Commune|commune]] of Capri, 3890, of Anacapri, 2316. It divides the exits
 from the bay into two, the Bocca Grande, about 16 m. wide, between Capri
-and Ischia, and the Bocca Piccola, 3 m. wide between Capri and the
+and [[Ischia]], and the Bocca Piccola, 3 m. wide between Capri and the
 extreme south-west point of the peninsula of Sorrento. It is 4 m. in
 length and the greatest width is 1-1/2 m., the total area being 5-1/2
 sq. m. The highest point is the Monte Solaro (1920 ft.) on the west,
@@ -28,9 +28,9 @@ effect in both cases is due to the light entering by a small entrance.
 
 The high land in the west of the island and the somewhat less elevated
 region in the east are formed of Upper Tithonian and Lower Cretaceous
-limestones, the latter containing Rudistes. The intervening depression,
-which seems to be bounded on the west by a fault, is filled to a large
-extent by sandstones and marls of Eocene age. A superficial layer of
+[[Limestone|limestones]], the latter containing Rudistes. The intervening depression,
+which seems to be bounded on the west by a [[Fault|fault]], is filled to a large
+extent by sandstones and [[Marl|marls]] of Eocene age. A superficial layer of
 recent volcanic tuffs occurs in several parts of the island. The Blue
 Grotto is in the Tithonian limestones; it shows indications of recent
 changes of level.
@@ -40,7 +40,7 @@ here) are the Teleboi from Acarnania under their king Telon. Neolithic
 remains were found in 1882 in the Grotta delle Felci, a cave on the
 south coast. In historical times we find the island occupied by Greeks.
 It subsequently fell into the hands of Neapolis, and remained so until
-the time of Augustus, who took it in exchange for Aenaria (Ischia) and
+the time of Augustus, who took it in [[Exchange|exchange]] for Aenaria (Ischia) and
 often resided there. Tiberius, who spent the last ten years of his life
 at Capri, built no fewer than twelve villas there; to these the great
 majority of the numerous and considerable ancient remains on the island
@@ -58,14 +58,14 @@ later of the emperors, never had upon it any community with civic
 rights. Even in imperial times Greek was largely spoken there, for about
 as many Greek as Latin inscriptions have been found. The medieval town
 was on the north side at the chief landing-place (Marina Grande), and to
-it belonged the church of S. Costanzo, an early Christian building. It
+it belonged the church of S. [[Costanzo]], an early Christian building. It
 was abandoned in the 15th century on account of the inroads of pirates,
 and the inhabitants took refuge higher up at the two towns of Capri and
 Anacapri.
 
 In 1806 the island was taken by the English fleet under Sir Sidney
 Smith, and strongly fortified, but in 1808 it was retaken by the French
-under Lamarque. In 1813 it was restored to Ferdinand I. of the Two
+under Lamarque. In 1813 it was restored to [[Ferdinand]] I. of the Two
 Sicilies.
 
   See J. Beloch, _Campanien_ (Breslau, 1890), 278 seq.; G. Feola,

@@ -3,7 +3,7 @@
 DENINA, CARLO GIOVANNI MARIA (1731-1813), Italian historian, was born at
 Revello, Piedmont, in 1731, and was educated at Saluzzo and Turin. In
 1753 he was appointed to the chair of humanity at Pignerol, but he was
-soon compelled by the influence of the Jesuits to retire from it. In
+soon compelled by the influence of the [[Jesuits]] to retire from it. In
 1756 he graduated as doctor in theology, and began authorship with a
 theological treatise. Promoted to the professorship of humanity and
 rhetoric in the college of Turin, he published (1769-1772) his _Delle

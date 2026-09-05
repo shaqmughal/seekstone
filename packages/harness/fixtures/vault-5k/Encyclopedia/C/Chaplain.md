@@ -29,8 +29,8 @@ civil servants, being eligible for a retiring pension after 23 years of
 service. Chaplains are also appointed under the foreign office to
 embassies, legations, consulates, &c.
 
-Workhouse chaplains are appointed by overseers and guardians on the
-direction of the Local Government Board, to which alone such chaplains
+Workhouse chaplains are appointed by overseers and [[Guardian|guardians]] on the
+direction of the [[Local Government Board]], to which alone such chaplains
 are responsible. Prison chaplains are appointed by the home secretary.
 
 In the British army there are two kinds of chaplains, permanent and
@@ -72,7 +72,7 @@ must be approved by the ordinary of the locality. In Austria there are
 Roman Catholic, Greek Church, Jewish and Mahommedan chaplains. The Roman
 Catholic chaplains are classed as parish priests, curates and
 assistants, and are subject to an army Vicar Apostolic. In war, at an
-army headquarters there are a "field-rabbi," a "military imam," an
+army headquarters there are a "field-rabbi," a "military [[Imam|imam]]," an
 evangelical minister, as well as the Roman Catholic hierarchy. By a
 decree of the Sacred Congregation of Propaganda (May 15, 1906), the
 archbishop of Westminster is the ecclesiastical superior of all
@@ -92,7 +92,7 @@ archbishop of Munich and Freysing is _ex officio_ bishop of the army.
 The origin of the office of _capellanus_ or _cappellanus_ in the
 medieval church is generally traced (see Du Cange, _Gloss, med. et
 infim. Latin_.) to the appointment of persons to watch over the sacred
-cloak (_cappa_ or _capella_) of St Martin of Tours, which was preserved
+cloak (_cappa_ or _[[Capella|capella]]_) of St Martin of Tours, which was preserved
 as a relic by the French monarchs. In time of war this cloak was carried
 with the army in the field, and was kept in a tent which itself came to
 be known as a _cappella_ or _capella_. It is also suggested that the
@@ -131,7 +131,7 @@ otherwise could not be recognized as an ecclesiastical chaplain. There
 are elaborate regulations governing the appointment and conduct of these
 chaplains.
 
-Other classes of chaplains are:--(1) _Parochial_ or _Auxiliary
+Other classes of chaplains are:--(1) _Parochial_ or _[[Auxiliary]]
 Chaplains_, appointed either by a parish priest (under a provision
 authorized by the Council of Trent) or by a bishop to take over certain
 specified duties which he is unable to perform; (2) _Chaplains of

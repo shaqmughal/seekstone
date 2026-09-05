@@ -30,10 +30,10 @@ change when two consuls were substituted for the king; but the
 subdivision of magisterial powers which characterized the first
 centuries of the Republic, and resulted in the establishment of twenty
 annually elected magistrates of the people, implied some modification of
-this principle of the investiture of magistrates with supreme authority.
+this principle of the [[Investiture|investiture]] of magistrates with supreme authority.
 For when the magistracies were multiplied a distinction was drawn
 between magistrates with _imperium_, namely consuls, praetors and
-occasionally dictators, and the remaining magistrates, who, although
+occasionally [[Dictator|dictators]], and the remaining magistrates, who, although
 exercising independent magisterial authority and in no sense agents of
 the higher magistrates, were invested merely with an authority
 (_potestas_) to assist in the administration of the state. At the same

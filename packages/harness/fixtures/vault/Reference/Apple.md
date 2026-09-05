@@ -13,21 +13,21 @@ sub-order _Pomaceae_, of the natural order _Rosaceae_. It is one of the
 most widely cultivated and best-known and appreciated of fruits
 belonging to temperate climates. In its wild state it is known as the
 crab-apple, and is found generally distributed throughout Europe and
-western Asia, growing in as high a latitude as Trondhjem in Norway. The
-crabs of Siberia belong to different species of _Pyrus_. The apple-tree
+western Asia, growing in as high a [[Latitude|latitude]] as Trondhjem in Norway. The
+[[Crab|crabs]] of Siberia belong to different species of _Pyrus_. The apple-tree
 as cultivated is a moderate-sized tree with spreading branches, ovate,
 acutely serrated or crenated leaves, and flowers in corymbs. The fruit
 is too well known to need any description of its external
 characteristics. The apple is successfully cultivated in higher
 latitudes than any other fruit tree, growing up to 65 deg. N., but
 notwithstanding this, its blossoms are more susceptible of injury from
-frost than the flowers of the peach or apricot. It comes into flower
+[[Frost|frost]] than the flowers of the peach or apricot. It comes into [[Flower|flower]]
 much later than these trees, and so avoids the night frost which would
 be fatal to its fruit-bearing. The apples which are grown in northern
 regions are, however, small, hard, and crabbed, the best fruit being
 produced in hot summer climates, such as Canada and the United States.
 Besides in Europe and America, the fruit is now cultivated at the Cape
-of Good Hope, in northern India and China, and in Australia and New
+of Good Hope, in northern India and China, and in [[Australia]] and New
 Zealand.
 
 Apples have been cultivated in Great Britain probably since the period
@@ -36,11 +36,11 @@ French or Dutch origin of much later date. In 1688 Ray enumerated
 seventy-eight varieties in cultivation in the neighbourhood of London,
 and now it is calculated that about 2000 kinds can be distinguished.
 According to the purposes for which they are suitable, they can be
-classed as--1st, dessert; 2nd, culinary; and 3rd, cider apples. The
+classed as--1st, dessert; 2nd, culinary; and 3rd, [[Cider|cider]] apples. The
 principal dessert apples are the Pippins (_pepins_, seedlings), of which
 there are numerous varieties. As culinary apples, besides Rennets and
 other dessert kinds, Codlins and Biffins are cultivated. In England,
-Herefordshire and Devonshire are famous for the cultivation of apples,
+Herefordshire and [[Devonshire]] are famous for the cultivation of apples,
 and in these counties the manufacture of cider (q.v.) is an important
 industry. Cider is also extensively prepared in Normandy and in Holland.
 Verjuice is the fermented juice of crab apples.
@@ -54,15 +54,15 @@ Pippins, and similarly prepared fruits come also from America.
 The apple may be propagated by seeds to obtain stocks for grafting, and
 also for the production of new varieties. The established sorts are
 usually increased by grafting, the method called whip-grafting being
-preferred. The stocks should be at least as thick as the finger; and
+preferred. The stocks should be at least as thick as the [[Finger|finger]]; and
 should be headed back to where the graft is to be fixed in January,
 unless the weather is frosty, but in any case before vegetation becomes
 active. The scions should be cut about the same time, and laid in firmly
 in a trench, in contact with the moist soil, until required.
 
 The tree will thrive in any good well-drained soil, the best being a
-good mellow calcareous loam, while the less iron there is in the subsoil
-the better. The addition of marl to soils that are not naturally
+good mellow calcareous [[Loam|loam]], while the less iron there is in the subsoil
+the better. The addition of [[Marl|marl]] to soils that are not naturally
 calcareous very much improves them. The trees are liable to canker in
 undrained soils or those of a hot sandy nature. Where the soil is not
 naturally rich enough, it should be well manured, but not to the extent
@@ -111,20 +111,20 @@ shortened by breaking them half through. The general winter pruning of
 the trees may take place any time from the beginning of November to the
 beginning of March, in open weather. The trees are rather subject to the
 attacks of the American blight, the white cottony substance found on the
-bark and developed by an insect (_Eriosoma, mali_), somewhat similar to
+bark and developed by an [[Insect|insect]] (_Eriosoma, mali_), somewhat similar to
 the green-fly of the garden, but not a true aphis. It may be removed by
 scrubbing with a hard brush, by painting the affected spots with any
 bland oil, or by washing them with dilute paraffin and soft soap.
 
 The apple-blossom weevil (_Anthonomus pomorum_), a small reddish-brown
 beetle, often causes serious damage to the flowers. The female bores and
-lays an egg in the unopened bud, and the maggot feeds on the stamens and
+lays an [[Egg|egg]] in the unopened bud, and the maggot feeds on the stamens and
 pistil. The weevil hibernates in the crannies of the bark or in the soil
 at the base of the trees, and bandages of tarred doth placed round the
 stem in spring will prevent the female from crawling up.
 
 The codlin moth (_Carpocapsa pomonana_) lays its eggs in May in the
-calyx of the flowers. The young caterpillar, which is white with black
+calyx of the flowers. The young [[Caterpillar|caterpillar]], which is white with black
 head and neck, gnaws its way through the fruit, and pierces the rind.
 When nearly full grown it attacks the core, and the fruit soon drops.
 The insect emerges and spins its cocoon in a crack of the bark.
@@ -142,7 +142,7 @@ are in use:--
     Dessert Apples.
 
   White Juneating.  .  .  .  .  .  .  .  .  . July
-  Early Red Margaret.  .  .  .  .  .  .  .  . Aug.
+  Early Red [[Margaret]].  .  .  .  .  .  .  .  . Aug.
   Irish Peach .  .  .  .  .  .  .  .  .  .  . Aug.
   Devonshire Quarrenden.  .  .  .  .  .  .  . Aug., Sept.
   Duchess of Oldenburg .  .  .  .  .  .  .  . Aug., Sept.
@@ -153,7 +153,7 @@ are in use:--
   King of the Pippins  .  .  .  .  .  .  .  . Oct.-Jan.
   Cox's Orange Pippin  .  .  .  .  .  .  .  . Oct.-Feb.
   Court of Wick  .  .  .  .  .  .  .  .  .  . Oct.-Mar.
-  Blenheim Pippin.  .  .  .  .  .  .  .  .  . Nov.-Feb.
+  [[Blenheim]] Pippin.  .  .  .  .  .  .  .  .  . Nov.-Feb.
   Sykehouse Russet  .  .  .  .  .  .  .  .  . Nov.-Feb.
   Fearn's Pippin .  .  .  .  .  .  .  .  .  . Nov.-Mar.
   Mannington's Pearmain.  .  .  .  .  .  .  . Nov.-Mar.
@@ -169,14 +169,14 @@ are in use:--
   Cornish Gilliflower  .  .  .  .  .  .  .  . Dec.-May
   Scarlet Nonpareil .  .  .  .  .  .  .  .  . Jan.-Mar.
   Cockle's Pippin.  .  .  .  .  .  .  .  .  . Jan.-Apr.
-  Lamb Abbey Pearmain  .  .  .  .  .  .  .  . Jan.-May
+  [[Lamb]] Abbey Pearmain  .  .  .  .  .  .  .  . Jan.-May
   Old Nonpareil  .  .  .  .  .  .  .  .  .  . Jan.-May
   Duke of Devonshire.  .  .  .  .  .  .  .  . Feb.-May
   Sturmer Pippin .  .  .  .  .  .  .  .  .  . Feb.-June
 
     Kitchen Apples.
 
-  Keswick Codlin .  .  .  .  .  .  .  .  .  . Aug.-Sept.
+  [[Keswick]] Codlin .  .  .  .  .  .  .  .  .  . Aug.-Sept.
   Lord Suffield  .  .  .  .  .  .  .  .  .  . Aug.-Sept.
   Manks Codlin.  .  .  .  .  .  .  .  .  .  . Aug.-Oct.
   Ecklinville Seedling .  .  .  .  .  .  .  . Aug.-Nov.
@@ -185,7 +185,7 @@ are in use:--
   Stone's Seedling  .  .  .  .  .  .  .  .  . Sept.-Nov.
   Emperor Alexander .  .  .  .  .  .  .  .  . Sept.-Dec.
   Waltham Abbey Seedling  .  .  .  .  .  .  . Sept.-Jan.
-  Cellini  .  .  .  .  .  .  .  .  .  .  .  . Oct., Nov.
+  [[Cellini]]  .  .  .  .  .  .  .  .  .  .  .  . Oct., Nov.
   Gravenstein .  .  .  .  .  .  .  .  .  .  . Oct.-Dec.
   Hawthornden .  .  .  .  .  .  .  .  .  .  . Oct.-Dec.
   Baumann's Red Winter Reinette .  .  .  .  . Nov.-Mar.
@@ -220,8 +220,8 @@ According to Hutchison their composition is as follows:--
   | Dried | 36.2  |   1.4   |  3.0   |  49.1  | 1.8  |  4.9   | 3.6  |
   +-------+-------+---------+--------+--------+------+--------+------+
 
-Many exotic fruits, having nothing in common with the apple; are known
-by that name, e.g. the Balsam apple, _Momordica Balsamina_; the custard
+Many [[Exotic|exotic]] fruits, having nothing in common with the apple; are known
+by that name, e.g. the [[Balsam]] apple, _Momordica Balsamina_; the custard
 apple (q.v.), _Anona reticulata_; the egg apple, _Solanum esculentum_;
 the rose apple, various species of _Eugenia_; the pineapple (q.v.),
 _Ananas sativus_; the star apple, _Chrysophyllum Cainito_; and the

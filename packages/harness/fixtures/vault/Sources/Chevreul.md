@@ -9,16 +9,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chevreul"
 # Chevreul
 
 CHEVREUL, MICHEL EUGÈNE (1786-1889), French chemist, was born, on the
-31st of August 1786, at Angers, where his father was a physician. At
+31st of August 1786, at [[Angers]], where his father was a physician. At
 about the age of seventeen he went to Paris and entered L.N. Vauquelin's
 chemical laboratory, afterwards becoming his assistant at the natural
 history museum in the Jardin des Plantes. In 1813 he was appointed
-professor of chemistry at the Lycée Charlemagne, and subsequently
-undertook the directorship of the Gobelins tapestry works, where he
+professor of [[Chemistry|chemistry]] at the Lycée Charlemagne, and subsequently
+undertook the directorship of the [[Gobelin|Gobelins]] tapestry works, where he
 carried out his researches on colour contrasts (_De la loi du contraste
 simultané des couleurs_, 1839). In 1826 he became a member of the
 Academy of Sciences, and in the same year was elected a foreign member
-of the Royal Society of London, whose Copley medal he was awarded in
+of the Royal Society of London, whose [[Copley]] medal he was awarded in
 1857. He succeeded his master, Vauquelin, as professor of organic
 chemistry at the natural history museum in 1830, and thirty-three years
 later assumed its directorship also; this he relinquished in 1879,
@@ -29,7 +29,7 @@ with a public funeral. In 1901 a statue was erected to his memory in the
 museum with which he was connected for so many years. His scientific
 work covered a wide range, but his name is best known for the classical
 researches he carried out on animal fats, published in 1823 (_Recherches
-sur les corps gras d'origine animale_). These enabled him to elucidate
+sur les [[Corps|corps]] gras d'origine animale_). These enabled him to elucidate
 the true nature of soap; he was also able to discover the composition of
 stearin and olein, and to isolate stearic and oleic acids, the names of
 which were invented by him. This work led to important improvements in

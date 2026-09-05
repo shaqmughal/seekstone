@@ -5,13 +5,13 @@ under two medieval dynasties, and again of prominent interest in the
 modern history of British India. Ghazni stands on the high tableland of
 central Afghanistan, in 68 deg. 18' E. long., 33 deg. 44' N. lat., at a
 height of 7280 ft. above the sea, and on the direct road between
-Kandahar and Kabul, 221 m. by road N.E. from the former, and 92 m. S.W.
+[[Kandahar]] and Kabul, 221 m. by road N.E. from the former, and 92 m. S.W.
 from the latter. A very considerable trade in fruit, wool, skins, &c.,
 is carried on between Ghazni and India by the Povindah kafilas, which
 yearly enter India in the late autumn and pass back again to the Afghan
 highlands in the early spring. The Povindah merchants invariably make
 use of the Gomal pass which leads to the British frontier at Dera Ismail
-Khan. The opening up of this pass and the British occupation of Wana, by
+[[Khan]]. The opening up of this pass and the British occupation of Wana, by
 offering protection to the merchants from Waziri blackmailing, largely
 increased the traffic.
 
@@ -22,7 +22,7 @@ forms the watershed between the Arghandab and Tarnak rivers. The castle
 stands at the northern angle of the town next the hills, and is about
 150 ft. above the plain. The town walls stand on an elevation, partly
 artificial, and form an irregular square, close on a mile in circuit
-(including the castle), the walls being partly of stone or brick laid in
+(including the castle), the walls being partly of stone or [[Brick|brick]] laid in
 mud, and partly of clay built in courses. They are flanked by numerous
 towers. There are three gates. The town consists of dirty and very
 irregular streets of houses several stories high, but with two
@@ -58,7 +58,7 @@ of white marble standing on a plinth of the same, and bearing a Cufic
 inscription praying the mercy of God on the most noble Amir, the great
 king, the lord of church and state, Abul Kasim Mahmud, son of
 Sabuktagin. The tomb stands in a rude chamber, covered with a dome of
-clay, and hung with old shawls, ostrich eggs, tiger-skins and so forth.
+clay, and hung with old shawls, ostrich [[Egg|eggs]], tiger-skins and so forth.
 The village stands among luxuriant gardens and orchards, watered by a
 copious aqueduct. Sultan Baber celebrates the excellence of the grapes
 of Rauzah.
@@ -77,17 +77,17 @@ _History._--The city is not mentioned by any narrator of Alexander's
 expedition, nor by any ancient author so as to admit of positive
 recognition. But it is very possibly the _Gazaca_ which Ptolemy places
 among the _Paropamisadae_, and this may not be inconsistent with Sir H.
-Rawlinson's identification of it with _Gazos_, an Indian city spoken of
+Rawlinson's [[Identification|identification]] of it with _Gazos_, an Indian city spoken of
 by two obscure Greek poets as an impregnable place of war. The name is
 probably connected with the Persian and Sanskrit _ganj_ and _ganja_, a
 treasury (whence the Greek and Latin _Gaza_). We seem to have positive
 evidence of the existence of the city before the Mahommedan times (644)
-in the travels of the Chinese pilgrim, Hsuan Tsang, who speaks of
+in the travels of the Chinese pilgrim, [[Hsuan Tsang]], who speaks of
 _Ho-si-na_ (i.e. probably _Ghazni_) as one of the capitals of _Tsaukuta_
 or Arachosia, a place of great strength. In early Mahommedan times the
 country adjoining Ghazni was called _Zabul_. When the Mahommedans first
 invaded that region Ghazni was a wealthy entrepot of the Indian trade.
-Of the extent of this trade some idea is given by Ibn Haukal, who states
+Of the extent of this trade some idea is given by [[Ibn Haukal]], who states
 that at Kabul, then a mart of the same trade, there was sold yearly
 indigo to the value of two million dinars (L1,000,000). The enterprise
 of Islam underwent several ebbs and flows over this region. The
@@ -101,7 +101,7 @@ Mahommedan occupation of Ghazni. Indeed, the building of the fort and
 city is ascribed by a Mahommedan historian to Amr b. Laith, the brother
 and successor of Ya`kub (d. 901), though the facts already stated
 discredit this. In the latter part of the 9th century the family of the
-Samanid, sprung from Samarkand, reigned in splendour at Bokhara.
+Samanid, sprung from Samarkand, reigned in splendour at [[Bokhara]].
 Alptagin, originally a Turkish slave, and high in the service of the
 dynasty, about the middle of the 10th century, losing the favour of the
 court, wrested Ghazni from its chief (who is styled Abu Bakr Lawik, wali
@@ -114,8 +114,8 @@ Sabuktagin, succeeded to the government, and with his name Ghazni and
 the Ghaznevid dynasty have become perpetually associated. Issuing forth
 year after year from that capital, Mahmud (q.v.) carried fully seventeen
 expeditions of devastation through northern India and Gujarat, as well
-as others to the north and west. From the borders of Kurdistan to
-Samarkand, from the Caspian to the Ganges, his authority was
+as others to the north and west. From the borders of [[Kurdistan]] to
+Samarkand, from the Caspian to the [[Ganges]], his authority was
 acknowledged. The wealth brought back to Ghazni was enormous, and
 contemporary historians give glowing descriptions of the magnificence of
 the capital, as well as of the conqueror's munificent support of
@@ -123,7 +123,7 @@ literature. Mahmud died in 1030, and some fourteen kings of his house
 came after him; but though there was some revival of importance under
 Ibrahim (1059-1099), the empire never reached anything like the same
 splendour and power. It was overshadowed by the Seljuks of Persia, and
-by the rising rivalry of Ghor (q.v.), the hostility of which it had
+by the rising rivalry of [[Ghor]] (q.v.), the hostility of which it had
 repeatedly provoked. Bahram Shah (1118-1152) put to death Kutbuddin, one
 of the princes of Ghor, called king of the Jibal or Hill country, who
 had withdrawn to Ghazni. This prince's brother, Saifuddin Suri, came to
@@ -152,7 +152,7 @@ one of which Lahore was wrested from Khusru Malik, the last of Mahmud's
 house, who died a captive in the hills of Ghor. In 1192 Prithvi Rai or
 Pithora (as the Moslem writers call him), the Chauhan king of Ajmere,
 being defeated and slain near Thanewar, the whole country from the
-Himalaya to Ajmere became subject to the Ghori king of Ghazni. On the
+[[Himalaya]] to Ajmere became subject to the Ghori king of Ghazni. On the
 death of his brother Ghiyasuddin, with whose power he had been
 constantly associated, and of whose conquests he had been the chief
 instrument, Muizuddin became sole sovereign over Ghor and Ghazni, and
@@ -166,7 +166,7 @@ succeeding events broke their dependence on any master, they established
 at Delhi that monarchy of which, after it had endured through many
 dynasties, and had culminated with the Mogul house of Baber, the shadow
 perished in 1857. The death of Muizuddin was followed by struggle and
-anarchy, ending for a time in the annexation of Ghazni to the empire of
+anarchy, ending for a time in the [[Annexation|annexation]] of Ghazni to the empire of
 Khwarizm by Mahommed Shah, who conferred it on his famous son,
 Jelaluddin, and Ghazni became the headquarters of the latter. After
 Jenghiz Khan had extinguished the power of his family in Turkestan,
@@ -176,7 +176,7 @@ Indus, after which he sent Ogdai his son to besiege Ghazni. Henceforward
 Ghazni is much less prominent in Asiatic history. It continued subject
 to the Mongols, sometimes to the house of Hulagu in Persia, and
 sometimes to that of Jagatai in Turkestan. In 1326, after a battle
-between Amir Hosain, the viceroy of the former house in Khorasan, and
+between Amir Hosain, the viceroy of the former house in [[Khorasan]], and
 Tarmashirin, the reigning khan of Jagatai, the former entered Ghazni and
 once more subjected it to devastation, and this time the tomb of Mahmud
 to desecration.
@@ -197,7 +197,7 @@ to Khorasan." He commends the fruit of its gardens, which still
 contribute largely to the markets of Kabul. Ghazni remained in the hands
 of Baber's descendants, reigning at Delhi and Agra, till the invasion of
 Nadir Shah (1738), and became after Nadir's death a part of the new
-kingdom of the Afghans under Ahmad Shah Durani. We know of but two
+kingdom of the Afghans under Ahmad Shah [[Durani]]. We know of but two
 modern travellers who have recorded visits to the place previous to the
 war of 1839. George Forster passed as a disguised traveller with a
 qafila in 1783. "Its slender existence," he says, "is now maintained by
@@ -212,7 +212,7 @@ commanding engineer, Captain George Thomson, for blowing in the Kabul
 gate with powder in bags, was adopted, and carried out successfully, at
 the cost of 182 killed and wounded. Two years and a half later the
 Afghan outbreak against the British occupation found Ghazni garrisoned
-by a Bengal regiment of sepoys, but neither repaired nor provisioned.
+by a [[Bengal]] regiment of sepoys, but neither repaired nor provisioned.
 They held out under great hardships from the 16th of December 1841 to
 the 6th of March 1842, when they surrendered. In the autumn of the same
 year General Nott, advancing from Kandahar upon Kabul, reoccupied

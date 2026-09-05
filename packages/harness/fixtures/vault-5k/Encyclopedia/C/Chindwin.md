@@ -1,6 +1,6 @@
 # Chindwin
 
-CHINDWIN, a river of Burma, the largest tributary of the Irrawaddy, its
+CHINDWIN, a river of [[Burma]], the largest tributary of the Irrawaddy, its
 entire course being in Burmese territory. It is called Ningthi by the
 Manipuris. The Chindwin is formed by the junction of the Tanai, the
 Tawan and the Tarôn or Turông, but it is still uncertain which is the
@@ -46,12 +46,12 @@ cannot come up from the Chindwin proper because of the reefs below Taro.
   communication with Homalin ceases in the dry weather, but from Kindat,
   nearly 150 m. below it, there are weekly steamers all the year round.
   Below Kindat the only considerable affluent of the Chindwin is the
-  Myit-tha, which receives the Chin hills drainage. The Chindwin rises
+  Myit-tha, which receives the [[Chin Hills|Chin hills]] drainage. The Chindwin rises
   considerably during the rains, but in March and April it is here and
   there so shallow as to make navigation difficult even for small steam
   launches. Whirlpools and narrows and shifting sandbanks also give some
   trouble, but much has been done to improve navigation since the
-  British annexation. Kindat, the headquarters of the Upper Chindwin
+  British [[Annexation|annexation]]. Kindat, the headquarters of the Upper Chindwin
   district, and Mônywa of the Lower, are on the banks of the river.
      (J. G. SC.)
 

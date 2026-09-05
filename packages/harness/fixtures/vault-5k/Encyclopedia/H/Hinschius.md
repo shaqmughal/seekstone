@@ -1,20 +1,20 @@
 # Hinschius
 
-HINSCHIUS, PAUL (1835-1898), German jurist, was the son of Franz Sales
+HINSCHIUS, PAUL (1835-1898), German jurist, was the son of [[Franz]] Sales
 August Hinschius (1807-1877), and was born in Berlin on the 25th of
 December 1835. His father was not only a scientific jurist, but also a
 lawyer in large practice in Berlin. After working under his father,
 Hinschius in 1852 began to study jurisprudence at Heidelberg and Berlin,
 the teacher who had most influence upon him being Aemilius Ludwig
 Richter (1808-1864), to whom he afterwards ascribed the great revival of
-the study of ecclesiastical law in Germany. In 1855 Hinschius took the
+the study of [[Ecclesiastical Law|ecclesiastical law]] in Germany. In 1855 Hinschius took the
 degree of _doctor utriusque juris_, and in 1859 was admitted to the
 juridical faculty of Berlin. In 1863 he went as professor
-extraordinarius to Halle, returning in the same capacity to Berlin in
+extraordinarius to [[Halle]], returning in the same capacity to Berlin in
 1865; and in 1868 became professor ordinarius at the university of Kiel,
 which he represented in the Prussian Upper House (1870-1871). He also
 assisted his father in editing the _Preussische Anwaltszeitung_ from
-1862 to 1866 and the _Zeitschrift fur Gesetzgebung und Rechtspflege in
+1862 to 1866 and the _Zeitschrift [[Fur|fur]] Gesetzgebung und Rechtspflege in
 Preussen_ from 1867 to 1871. In 1872 he was appointed professor
 ordinarius of ecclesiastical law at Berlin. In the same year he took
 part in the conferences of the ministry of ecclesiastical affairs, which
@@ -34,7 +34,7 @@ _Decretales Pseudo-Isidorianae et capitula Angilramni_ (2 parts,
 Leipzig, 1863) and _Das Kirchenrecht der Katholiken und Protestanten in
 Deutschland_, vols, i.-vi. (Berlin, 1869-1877). The first of these, for
 which during 1860 and 1861 he had gathered materials in Italy, Spain,
-France, England, Scotland, Ireland, Holland and Belgium, was the first
+France, England, Scotland, Ireland, Holland and [[Belgium]], was the first
 critical edition of the False Decretals. His most monumental work,
 however, is the _Kirchenrecht_, which remains incomplete. The six
 volumes actually published (_System des katholischen Kirchenrechts_)

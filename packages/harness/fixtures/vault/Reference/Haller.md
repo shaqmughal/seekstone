@@ -1,7 +1,7 @@
 # Haller
 
 HALLER, ALBRECHT VON (1708-1777), Swiss anatomist and physiologist, was
-born of an old Swiss family at Bern, on the 16th of October 1708.
+born of an old Swiss family at [[Bern]], on the 16th of October 1708.
 Prevented by long-continued ill-health from taking part in boyish
 sports, he had the more opportunity for the development of his
 precocious mind. At the age of four, it is said, he used to read and
@@ -12,25 +12,25 @@ women on the model of the great works of Bayle and Moreri, and written
 in Latin verse a satire on his tutor, who had warned him against a too
 great excursiveness. When still hardly fifteen he was already the author
 of numerous metrical translations from Ovid, Horace and Virgil, as well
-as of original lyrics, dramas, and an epic of four thousand lines on the
+as of original lyrics, [[Drama|dramas]], and an epic of four thousand lines on the
 origin of the Swiss confederations, writings which he is said on one
 occasion to have rescued from a fire at the risk of his life, only,
-however, to burn them a little later (1729) with his own hand. Haller's
+however, to [[Burn|burn]] them a little later (1729) with his own hand. Haller's
 attention had been directed to the profession of medicine while he was
 residing in the house of a physician at Biel after his father's death in
 1721; and, following the choice then made, he while still a sickly and
 excessively shy youth went in his sixteenth year to the university of
-Tubingen (December 1723), where he studied under Camerarius and
+Tubingen (December 1723), where he studied under [[Camerarius]] and
 Duvernoy. Dissatisfied with his progress, he in 1725 exchanged Tubingen
 for Leiden, where Boerhaave was in the zenith of his fame, and where
 Albinus had already begun to lecture in anatomy. At that university he
 graduated in May 1727, undertaking successfully in his thesis to prove
 that the so-called salivary duct, claimed as a recent discovery by
 Coschwitz, was nothing more than a blood-vessel. Haller then visited
-London, making the acquaintance of Sir Hans Sloane, Cheselden, Pringle,
+London, making the acquaintance of Sir Hans Sloane, [[Cheselden]], Pringle,
 Douglas and other scientific men; next, after a short stay in Oxford, he
 visited Paris, where he studied under Ledran and Winslow; and in 1728 he
-proceeded to Basel, where he devoted himself to the study of the higher
+proceeded to [[Basel]], where he devoted himself to the study of the higher
 mathematics under John Bernoulli. It was during his stay there also that
 his first great interest in botany was awakened; and, in the course of a
 tour (July-August, 1828), through Savoy, Baden and several of the Swiss
@@ -72,11 +72,11 @@ of the great council in 1745), and in 1753 he resolved to resign his
 chair and return to Switzerland.
 
 The twenty-one years of his life which followed were largely occupied in
-the discharge of his duties in the minor political post of a
-_Rathhausammann_ which he had obtained by lot, and in the preparation of
+the [[Discharge|discharge]] of his duties in the minor political post of a
+_Rathhausammann_ which he had obtained by [[Lot|lot]], and in the preparation of
 his _Bibliotheca medica_, the botanical, surgical and anatomical parts
 of which he lived to complete; but he also found time to write the three
-philosophical romances--_Usong_ (1771), _Alfred_ (1773) and _Fabius and
+philosophical romances--_Usong_ (1771), _Alfred_ (1773) and _[[Fabius]] and
 Cato_ (1774),--in which his views as to the respective merits of
 despotism, of limited monarchy and of aristocratic republican government
 are fully set forth. About 1773 the state of his health rendered
@@ -91,10 +91,10 @@ as a writer on Swiss historical bibliography (1785-1788, 7 vols.).
 
   Subjoined is a classified but by no means an exhaustive list of his
   very numerous works in various branches of science and literature (a
-  complete list, up to 1775, numbering 576 items, including various
+  complete list, up to 1775, numbering 576 [[Item|items]], including various
   editions, was published by Haller himself, in 1775, at the end of vol.
   6 of the correspondence addressed to him by various learned
-  friends):--(1) Anatomical:--_Icones anatomicae_ (1743-1754);
+  friends):--(1) Anatomical:--_[[Icon|Icones]] anatomicae_ (1743-1754);
   _Disputationes anatomicae selectiores_ (1746-1752); and _Opera acad.
   minora anatomici argumenti_ (1762-1768). (2) Physiological:--_De
   respiratione experimenta anatomica_ (1747); _Primae lineae
@@ -115,7 +115,7 @@ as a writer on Swiss historical bibliography (1785-1788, 7 vols.).
   See J. G. Zimmermann, _Das Leben des Herrn von Haller_ (1755), and the
   articles by Forster and Seiler in Ersch and Gruber's _Encyklopadie_,
   and particularly the detailed biography (over 500 pages) by L. Hirzel,
-  printed at the head of his elaborate edition (Frauenfeld, 1882) of
+  printed at the head of his elaborate edition ([[Frauenfeld]], 1882) of
   Haller's _Gedichte_.
 
 ## See also

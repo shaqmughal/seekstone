@@ -17,14 +17,14 @@ there in 534 or the furious persecution directed against the
 Monophysites by Ephraim (patriarch of Antioch 529-544) and Abraham
 (bishop of Amid c. 520-541). In Constantinople he seems to have early
 won the notice of Justinian, one of the main objects of whose policy was
-the consolidation of Eastern Christianity as a bulwark against the
-heathen power of Persia. John is said by Barhebraeus (_Chron. eccl._ i.
+the consolidation of Eastern Christianity as a [[Bulwark|bulwark]] against the
+[[Heathen|heathen]] power of Persia. John is said by Barhebraeus (_Chron. eccl._ i.
 195) to have succeeded Anthimus as Monophysite bishop of Constantinople,
 but this is probably a mistake.[1] Anyhow he enjoyed the emperor's
 favour until the death of the latter in 565 and (as he himself tells us)
 was entrusted with the administration of the entire revenues of the
 Monophysite Church. He was also sent, with the rank of bishop, on a
-mission for the conversion of such heathen as remained in Asia Minor,
+mission for the [[Conversion|conversion]] of such heathen as remained in Asia Minor,
 and informs us that the number of those whom he baptized amounted to
 70,000. He also built a large monastery at Tralles on the hills skirting
 the valley of the Meander, and more than 90 other monasteries. Of the
@@ -43,16 +43,16 @@ the author cannot have lived much longer; but of the circumstances of
 his death nothing is known.
 
   John's main work was his _Ecclesiastical History_, which covered more
-  than six centuries, from the time of Julius Caesar to 585. It was
+  than six centuries, from the time of [[Julius]] [[Caesar]] to 585. It was
   composed in three parts, each containing six books. The first part
   seems to have wholly perished. The second, which extended from
   Theodosius II. to the 6th or 7th year of Justin II., was (as F. Nau
   has recently proved)[3] reproduced in full or almost in full, in
   John's own words, in the third part of the _Chronicle_ which was till
-  lately attributed to the patriarch Dionysius Telmaharensis, but is
+  lately attributed to the patriarch [[Dionysius]] Telmaharensis, but is
   really the work of an unknown compiler. Of this second division of
   John's _History_, in which he had probably incorporated the so-called
-  _Chronicle_ of Joshua the Stylite, considerable portions are found in
+  _Chronicle_ of [[Joshua]] the Stylite, considerable portions are found in
   the British Museum MSS. Add. 14647 and 14650, and these have been
   published in the second volume of Land's _Anecdota Syriaca_. But the
   whole is more completely presented in the Vatican MS. (clxii.), which
@@ -70,7 +70,7 @@ his death nothing is known.
   treated his subject impartially, and though written from the narrow
   point of view of one to whom Monophysite "orthodoxy" was
   all-important, it is evidently a faithful reproduction of events as
-  they occurred. This third part was edited by Cureton (Oxford, 1853),
+  they occurred. This third part was edited by [[Cureton]] (Oxford, 1853),
   and was translated into English by R. Payne-Smith (Oxford, 1860) and
   into German by J. M. Schönfelder (Munich, 1862).
 

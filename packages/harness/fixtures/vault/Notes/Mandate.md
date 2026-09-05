@@ -26,21 +26,21 @@ until the mandatarius had acted on the mandate, it has with more
 propriety been referred to the contracts created by the supply of some
 fact (_re_). The obligations of the mandatarius under the contract were,
 briefly, to do what he had promised according to his instructions,
-observing ordinary diligence in taking care of any property entrusted to
+observing ordinary [[Diligence|diligence]] in taking care of any property entrusted to
 him, and handing over to his principal the results of his action,
 including the right to sue in his name. On the other hand, the principal
 was bound to recoup him his expenses and indemnify him against loss
 through obligations he might have incurred.
 
   The essentials and the terminology of the contract are preserved in
-  most modern systems of law. But in English law mandate, under that
+  most modern systems of law. But in [[English Law|English law]] mandate, under that
   name, can hardly be said to exist as a separate form of contract. To
   some extent the law of mandatum corresponds partly to the law of
   principal and agent, partly to that of principal and surety. "Mandate"
   is retained to signify the contract more generally known as gratuitous
-  bailment. It is restricted to personal property, and it implies the
+  [[Bailment|bailment]]. It is restricted to personal property, and it implies the
   delivery of something to the bailee, both of which conditions are
-  unknown in the mandatum of the civil law (see BAILMENT).
+  unknown in the mandatum of the [[Civil Law|civil law]] (see BAILMENT).
 
 ## See also
 

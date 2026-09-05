@@ -1,14 +1,14 @@
 # Infant
 
 INFANT (in early forms _enfaunt_, _enfant_, through the Fr. _enfant_,
-from Lat. _infans_, _in_, not, and _fans_, the present participle of
+from Lat. _infans_, _in_, not, and _[[Fan|fans]]_, the present participle of
 _fari_, to speak), a child; in non-legal use, a very young child, a
 baby, or one of an age suitable to be taught in an "infant school"; in
 law, a person under full age, and therefore subject to disabilities not
 affecting persons who have attained full age.
 
 This article deals with "infants" in the last sense; for the more
-general sense see INFANCY and CHILD. The period of full age varies
+general sense see [[Infancy|INFANCY]] and CHILD. The period of full age varies
 widely in different systems, as do also the disabilities attaching to
 nonage (non-age). In Roman law, the age of puberty, fixed at fourteen
 for males and twelve for females, was recognized as a dividing line.
@@ -21,7 +21,7 @@ tutor, act so as to bind himself by stipulations; in the earlier stages
 he could not, although binding stipulations could be made to him in the
 second stage. After puberty, until the age of twenty-five years, a
 modified infancy was recognized, during which the minor's acts were not
-void altogether, but voidable, and a curator was appointed to manage his
+void altogether, but voidable, and a [[Curator|curator]] was appointed to [[Manage|manage]] his
 affairs. The difference between the tutor and the curator in Roman law
 was marked by the saying that the former was appointed for the care of
 the person, the latter for the estate of the pupil. These principles
@@ -30,9 +30,9 @@ long as it lasts, gives to the father the complete control of the son's
 actions. The right of the father to appoint tutors to his children by
 will (_testamentarii_) was recognized by the Twelve Tables, as was also
 the tutorship of the _agnati_ (or legal as distinct from natural
-relations) in default of such an appointment. Tutors who held office in
+relations) in [[Default|default]] of such an appointment. Tutors who held office in
 virtue of a general law were called _legitimi_. Besides and in default
-of these, tutors _dativi_ were appointed by the magistrates. These terms
+of these, tutors _dativi_ were appointed by the [[Magistrate|magistrates]]. These terms
 are still used in much the same sense in modern systems founded on the
 Roman law, as may be seen in the case of Scotland, noticed below.
 
@@ -51,20 +51,20 @@ declares "necessaries" to mean "goods suitable to the condition in life
 of the infant, and to his actual requirements at the time of the sale
 and delivery." In the case of goods having a market price, the market
 price is reasonable. In all other cases the question is one of fact for
-the jury. The protection of infants extends sometimes to transactions
-completed after full age; the relief of heirs who have been induced to
-barter away their expectations is an example. "Catching bargains," as
+the [[Jury|jury]]. The protection of infants extends sometimes to transactions
+completed after full age; the relief of [[Heir|heirs]] who have been induced to
+[[Barter|barter]] away their expectations is an example. "Catching bargains," as
 they are called, throw on the persons claiming the benefit of them the
-burden of proving their substantial righteousness.
+[[Burden|burden]] of proving their substantial righteousness.
 
 At common law a bargain made by an infant might be ratified by him after
 full age, and would then become binding. Lord Tenterden's act required
 the ratification to be in writing. But now, by the Infants' Relief Act
 1874, "all contracts entered into by infants for the repayment of money
-lent or to be lent, or for goods supplied or to be supplied (other than
+[[Lent|lent]] or to be lent, or for goods supplied or to be supplied (other than
 contracts for necessaries), and all accounts stated, shall be absolutely
 void," and "no action shall be brought whereby to charge any person upon
-any promise made after full age to pay any debt contracted during
+any promise made after full age to pay any [[Debt|debt]] contracted during
 infancy, or upon any ratification made after full age of any promise or
 contract made during infancy, whether there shall or shall not be any
 new consideration for such promise or ratification after full age." For
@@ -97,12 +97,12 @@ by contract of apprenticeship or service. Since the passing of the Wills
 Act, an infant, except he be a soldier in actual military service or a
 seaman at sea, is unable to make a will. Infancy is in general a
 disqualification for public offices and professions, e.g. to be a member
-of parliament or an elector, a mayor or burgess, a priest or deacon, a
+of parliament or an elector, a [[Mayor|mayor]] or [[Burges|burgess]], a priest or deacon, a
 barrister or solicitor, &c.
 
 Before 1886 the custody of an infant belonged in the first place, and
 against all other persons, to the father, who was said to be "the
-guardian of his children by nature and nurture"; and the father might by
+[[Guardian|guardian]] of his children by nature and nurture"; and the father might by
 deed or will dispose of the custody or tuition of his children until the
 age of twenty-one.
 
@@ -131,14 +131,14 @@ guardian so removed.
 
 The same statute gives power to a court sitting in divorce practically
 to take away from a parent guilty of a matrimonial offence all rights of
-guardianship. When a decree for judicial separation or divorce is
+guardianship. When a [[Decree|decree]] for judicial separation or divorce is
 pronounced, the court pronouncing it may at the same time declare the
 parent found guilty of misconduct to be unfit to have the custody of the
 children of the marriage. "In such case the parent so declared to be
 unfit shall not, upon the death of the other parent, be entitled as of
 right to the custody or guardianship of such children." The court
-exercises this power very sparingly. When the declaration of unfitness
-is made, the practical effect is to give to the innocent parent the sole
+exercises this power very sparingly. When the [[Declaration|declaration]] of unfitness
+is made, the practical effect is to give to the [[Innocent|innocent]] parent the sole
 guardianship, as well as power to appoint a testamentary guardian to the
 exclusion of the guilty parent.
 
@@ -215,7 +215,7 @@ fourteen an infant is _doli capax_.
   by a minor having curators are void without their concurrence. Every
   deed in nonage, whether during pupilarity or minority, and whether
   authorized or not by tutors or curators, is liable to reduction on
-  proof of "lesion," i.e. of material injury, due to the fact of nonage,
+  proof of "[[Lesion|lesion]]," i.e. of material injury, due to the fact of nonage,
   either through the weakness of the minor himself or the imprudence or
   negligence of his curators. Damage in fact arising on a contract in
   itself just and reasonable would not be lesion entitling to

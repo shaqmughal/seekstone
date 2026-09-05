@@ -35,20 +35,20 @@ vols.); _The Preceptor containing a general course of education_ (1748,
 2 vols.), with an introduction by Dr Johnson; _The World_ (1753-1756, 4
 vols.); and _The Annual Register_, founded in 1758 with Edmund Burke as
 editor. To these various works, Horace Walpole, Akenside, Soame Jenyns,
-Lord Lyttelton, Lord Chesterfield, Burke and others were contributors.
+Lord [[Lyttelton]], Lord Chesterfield, Burke and others were contributors.
 Dodsley is, however, best known as the editor of two collections:
 _Select Collection of Old Plays_ (12 vols., 1744; 2nd edition with notes
-by Isaac Reed, 12 vols., 1780; 4th edition, by W. C. Hazlitt, 1874-1876,
+by [[Isaac]] Reed, 12 vols., 1780; 4th edition, by W. C. [[Hazlitt]], 1874-1876,
 15 vols.); and _A collection of Poems by Several Hands_ (1748, 3 vols.),
 which passed through many editions. In 1737 his _King and the Miller of
 Mansfield_, a "dramatic tale" of King Henry II., was produced at Drury
-Lane, and received with much applause; the sequel, _Sir John Cockle at
+[[Lane]], and received with much applause; the sequel, _Sir John Cockle at
 Court_, a farce, appeared in 1738. In 1745 he published a collection of
 his dramatic works, and some poems which had been issued separately, in
 one volume under the modest title of _Trifles_. This was followed by
 _The Triumph of Peace, a Masque occasioned by the Treaty of
 Aix-la-Chapelle_ (1749); a fragment, entitled _Agriculture_, of a long
-tedious poem in blank verse on _Public Virtue_ (1753); _The Blind Beggar
+tedious poem in [[Blank|blank]] verse on _Public Virtue_ (1753); _The Blind Beggar
 of Bethnal Green_ (acted at Drury Lane 1739, printed 1741); and an ode,
 _Melpomene_ (1757). His tragedy of _Cleone_ (1758) had a long run at
 Covent Garden, 2000 copies being sold on the day of publication, and it
@@ -67,7 +67,7 @@ his friend the Rev. Joseph Spence, on the 23rd of September 1764.
 
   See also _Shadows of the Old Booksellers_, by Charles Knight (1865),
   pp. 189-216; "At Tully's Head" in _Eighteenth Century Vignettes_, 2nd
-  series, by Austin Dobson (1894); E. Solly in _The Bibliographer_, v.
+  series, by Austin [[Dobson]] (1894); E. Solly in _The Bibliographer_, v.
   (1884) pp. 57-61. Dodsley's poems are reprinted with a memoir in A.
   Chalmers's _Works of English Poets_, vol. xv. (1810).
 

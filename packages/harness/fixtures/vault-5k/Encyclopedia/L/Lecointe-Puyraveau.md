@@ -19,8 +19,8 @@ their relations who had remained in France. He was secretary and then
 president of the Council of Five Hundred, and under the Consulate a
 member of the Tribunate. He took no part in public affairs under the
 Empire, but was lieutenant-general of police for south-east France
-during the Hundred Days. After Waterloo he took ship from Toulon, but
-the ship was driven back by a storm and he narrowly escaped massacre at
+during the [[Hundred Days]]. After Waterloo he took ship from Toulon, but
+the ship was driven back by a storm and he narrowly escaped [[Massacre|massacre]] at
 Marseilles. After six weeks' imprisonment in the Château d'If he
 returned to Paris, escaping, after the proscription of the regicides, to
 Brussels, where he died on the 15th of January 1827.

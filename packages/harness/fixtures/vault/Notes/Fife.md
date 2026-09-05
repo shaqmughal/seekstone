@@ -10,16 +10,16 @@ FIFE, an eastern county of Scotland, bounded N. by the Firth of Tay, E.
 by the North Sea, S. by the Firth of Forth, and W. by the shires of
 Perth, Kinross and Clackmannan. The Isle of May, Inchkeith, Inchcolm,
 Inchgarvie and the islet of Oxcar belong to the shire. It has an area of
-322,844, acres or 504 sq. m. Its coast-line measure 108 m. The Lomond
+322,844, acres or 504 sq. m. Its coast-line measure 108 m. The [[Lomond]]
 Hills to the S. and S.W. of Falkland, of which West Lomond is 1713 ft.
 high and East Lomond 1471 ft., Saline Hill (1178 ft.) to the N.W. of
-Dunfermline, and Benarty (1131 ft.) on the confines of Kinross are the
-chief heights. Of the rivers the Eden is the longest; formed on the
-borders of Kinross-shire by the confluence of Beattie Burn and Carmore
+[[Dunfermline]], and Benarty (1131 ft.) on the confines of Kinross are the
+chief heights. Of the rivers the [[Eden]] is the longest; formed on the
+[[Borders|borders]] of Kinross-shire by the confluence of Beattie [[Burn]] and Carmore
 Burn, it pursues a wandering course for 25 m. N.E., partly through the
 Howe, or Hollow of Fife, and empties into the North Sea. There is good
 trout fishing in its upper waters, but weirs prevent salmon from
-ascending it. The Leven drains the loch of that name and enters the
+ascending it. The Leven drains the [[Loch|loch]] of that name and enters the
 Forth at the town of Leven after flowing eastward for 15 m. There are
 numerous factories at various points on its banks. The Ore, rising not
 far from Roscobie Hills to the north of Dunfermline, follows a mainly
@@ -39,7 +39,7 @@ supplies part of the title of the combined baronies of Stratheden
   low-lying Howe of Fife the higher ground is formed of Lower Old Red
   Sandstone volcanic rocks, consisting of red and purple porphyrites and
   andesites and some coarse agglomerates, which, in the neighbourhood of
-  Auchtermuchty, are rounded and conglomeratic. These rocks have a
+  [[Auchtermuchty]], are rounded and conglomeratic. These rocks have a
   gentle dip towards the S.S.E. They are overlaid unconformably by the
   soft red sandstones of the Upper Old Red series which underlie the
   Howe of Fife from Loch Leven to the coast. The quarries in these rocks
@@ -47,7 +47,7 @@ supplies part of the title of the combined baronies of Stratheden
   conformably are the Carboniferous formations which occupy the
   remainder of the county, and are well exposed on the coast and in the
   numerous quarries. The Carboniferous rocks include, at the base, the
-  Calciferous Sandstone series of dark shales with thin limestones,
+  Calciferous Sandstone series of dark shales with thin [[Limestone|limestones]],
   sandstones and coals. They are best developed around Fife Ness,
   between St Andrews and Elie, and again around Burntisland between
   Kirkcaldy and Inverkeithing Bay. In the Carboniferous Limestone
@@ -76,10 +76,10 @@ supplies part of the title of the combined baronies of Stratheden
   is a striking example. In one of these necks on the shore at Kincraig
   Point is a fine example of columnar basalt; the "Rock and Spindle"
   near St Andrews is another. Last of all in Tertiary times, east and
-  west rifts in the Old Red Sandstone were filled by basalt dikes.
-  Glacial deposits, ridges of gravel and sand, boulder clay, &c.,
+  west rifts in the Old Red Sandstone were filled by basalt [[Dike|dikes]].
+  Glacial deposits, ridges of gravel and sand, [[Boulder Clay|boulder clay]], &c.,
   brought from the N. W., cover much of the older rocks, and traces of
-  old raised beaches are found round the coast and in the Howe cf Fife.
+  old raised [[Beach|beaches]] are found round the coast and in the Howe cf Fife.
   In the 25-ft. beach in the East Neuk of Fife is an island sea-cliff
   with small caves.
 
@@ -87,7 +87,7 @@ _Climate and Agriculture._--Since the higher hills all lie in the west,
 most of the county is exposed to the full force of the east winds from
 the North Sea, which often, save in the more sheltered areas, check the
 progress of vegetation. At an elevation of 500 or 600 ft. above the sea
-harvests are three or four weeks later than in the valleys and low-lying
+[[Harvest|harvests]] are three or four weeks later than in the valleys and low-lying
 coast-land. The climate, on the whole, is mild, proximity to the sea
 qualifying the heat in summer and the cold in winter. The average annual
 rainfall is 31 in., rather less in the East Neuk district and around St
@@ -104,24 +104,24 @@ has never been followed more than to supply local markets.
 Sheep-farming, however, is on the increase, and the raising of horses,
 especially farm horses, is an important pursuit. They are strong, active
 and hardy, with a large admixture, or purely, of Clydesdale blood. The
-ponies, hunters and carriage horses so bred are highly esteemed. The
+ponies, [[Hunter|hunters]] and carriage horses so bred are highly esteemed. The
 strain of pigs has been improved by the introduction of Berkshires.
 North of the Eden the soil, though generally thin, is fertile, but the
 sandy waste of Tents Moor is beyond redemption. From St Andrews
 southwards all along the coast the land is very productive. That
-adjacent to the East Neuk consists chiefly of clay and rich loam. From
+adjacent to the East Neuk consists chiefly of clay and rich [[Loam|loam]]. From
 Leven to Inverkeithing it varies from a light sand to a rich clayey
 loam. Excepting Stratheden and Strathleven, which are mostly rich,
 fertile loam, the interior is principally cold and stiff clay or thin
 loam with strong clayey subsoil. Part of the Howe of Fife is light and
 shingly and covered with heather. Some small peat mosses still exist,
-and near Lochgelly there is a tract of waste, partly moss and partly
+and near [[Lochgelly]] there is a tract of waste, partly moss and partly
 heath. The character of the farm management may be judged by its
 results. The best methods are pursued, and houses, steadings and
 cottages are all in good order, commodious and comfortable. Rabbits,
-hares, pheasants and partridges are common in certain districts; roe
+[[Hare|hares]], pheasants and partridges are common in certain districts; roe
 deer are occasionally seen; wild geese, ducks and teal haunt the lochs;
-pigeon-houses are fairly numerous; and grouse and blackcock are
+pigeon-houses are fairly numerous; and [[Grouse|grouse]] and blackcock are
 plentiful on the Lomond moors. The shire is well suited for fox-hunting,
 and there are packs in both the eastern and the western division of
 Fife.
@@ -130,20 +130,20 @@ _Mining._--Next to Lanarkshire, Fife is the largest coal-producing
 county in Scotland. The coal-field may roughly be divided into the
 Dunfermline basin (including Halbeath, Lochgelly and Kelty), where the
 principal house coals are found, and the Wemyss or Dysart basin
-(including Methil and the hinterland), where gas-coal of the best
+(including Methil and the [[Hinterland|hinterland]]), where gas-coal of the best
 quality is obtained. Coal is also extensively worked at Culross,
-Carnock, Falfield, Donibristle, Ladybank, Kilconquhar and elsewhere.
+Carnock, Falfield, Donibristle, [[Ladybank]], Kilconquhar and elsewhere.
 Beds of ironstone, limestone, sandstone and shale lie in many places
 contiguous to the coal. Blackband ironstone is worked at Lochgelly and
 Oakley, where there are large smelting furnaces. Oil shale is worked at
-Burntisland and Airdrie near Crail. Among the principal limestone
+Burntisland and Airdrie near [[Crail]]. Among the principal limestone
 quarries are those at Charlestown, Burntisland and Cults. Freestone of
 superior quality is quarried at Strathmiglo, Burntisland and
 Dunfermline. Whinstone of unusual hardness and durability is obtained in
 nearly every district. Lead has been worked in the Lomond Hills and
 copper and zinc have been met with, though not in paying quantities. It
 is of interest to note that in the trap tufa at Elie there have been
-found pyropes (a variety of dark-red garnet), which are regarded as the
+found pyropes (a variety of dark-red [[Garnet|garnet]]), which are regarded as the
 most valuable of Scottish precious stones and are sold under the name of
 Elie rubies.
 
@@ -154,18 +154,18 @@ towns and villages, especially those situated near the Eden and Leven,
 on the banks of which rivers, as well as at Kirkcaldy, Dunfermline and
 Ceres, are found the bleaching-greens. Kirkcaldy is famous for its
 oil-cloth and linoleum. Most of the leading towns possess breweries and
-tanneries, and the largest distilleries are at Cameron Bridge and
+tanneries, and the largest distilleries are at [[Cameron]] Bridge and
 Burntisland. Woollen cloth is made to a small extent in several towns,
 and fishing-net at Kirkcaldy, Largo and West Wemyss. Paper is
-manufactured at Guardbridge, Markinch and Leslie; earthenware at
-Kirkcaldy; tobacco at Dunfermline and Kirkcaldy; engineering works and
+manufactured at Guardbridge, Markinch and [[Leslie]]; earthenware at
+Kirkcaldy; tobacco at Dunfermline and Kirkcaldy; [[Engineering|engineering]] works and
 iron foundries are found at Kirkcaldy and Dunfermline; and shipbuilding
-is carried on at Kinghorn, Dysart, Burntisland, Inverkeithing and
+is carried on at [[Kinghorn]], Dysart, Burntisland, Inverkeithing and
 Tayport. From Inverkeithing all the way round the coast to Newburgh
 there are harbours at different points. They are mostly of moderate
-dimensions, the principal port being Kirkcaldy. The largest salmon
-fisheries are conducted at Newburgh and the chief seat of the herring
-fishery is Anstruther, but most of the coast towns take some part in the
+[[Dimension|dimensions]], the principal port being Kirkcaldy. The largest salmon
+[[Fisheries|fisheries]] are conducted at Newburgh and the chief seat of the herring
+[[Fishery|fishery]] is Anstruther, but most of the coast towns take some part in the
 fishing either off the shore, or at stations farther north, or in the
 deep sea.
 
@@ -187,7 +187,7 @@ Dunfermline.
 _Population and Government._--The population was 190,365 in 1891, and
 218,840 in 1901, when 844 persons spoke Gaelic and English and 3 Gaelic
 only. The chief towns are the Anstruthers (pop. in 1901, 4233),
-Buckhaven (8828), Burntisland (4846), Cowdenbeath (7908), Cupar (4511),
+Buckhaven (8828), Burntisland (4846), [[Cowdenbeath]] (7908), Cupar (4511),
 Dunfermline (25,250), Dysart (3562), Kelty (3986), Kirkcaldy (34,079),
 Leslie (3587), Leven (5577), Lochgelly (5472), Lumphinnans (2071),
 Newport (2869), St Andrews (7621), Tayport (3325) and Wemyss (2522). For
@@ -214,13 +214,13 @@ proud. The Romans effected no settlement in the province, though it is
 probable that they temporarily occupied points here and there. In any
 case the Romans left no impression on the civilization of the natives.
 With the arrival of the missionaries--especially St Serf, St Kenneth, St
-Rule, St Adrian, St Moran and St Fillan--and conversion of the Picts
+Rule, St Adrian, St Moran and St Fillan--and [[Conversion|conversion]] of the Picts
 went on apace. Interesting memorials of these devout missionaries exist
 in the numerous coast caves between Dysart and St Andrews and in the
 crosses and sculptured stones, some doubtless of pre-Christian origin,
 to be seen at various places. The word Fife, according to Skene, seems
-to be identical with the Jutland _Fibh_ (pronounced _Fife_) meaning
-"forest," and was probably first used by the Frisians to describe the
+to be identical with the [[Jutland]] _Fibh_ (pronounced _Fife_) meaning
+"forest," and was probably first used by the [[Frisians]] to describe the
 country behind the coasts of the Forth and Tay, where Frisian tribes are
 supposed to have settled at the close of the 4th century. The next
 immigration was Danish, which left lasting traces in many place-names
@@ -238,15 +238,15 @@ Falkland and St Andrews were often the scene of solemn pageantry and
 romantic episodes. Out of the seventy royal burghs in Scotland no fewer
 than eighteen are situated in the shire. However, notwithstanding the
 marked preference of the Stuarts, the Kingdom did not hesitate to play
-the leading part in the momentous dramas of the Reformation and the
-Covenant, and by the 18th century the people had ceased to regard the
+the leading part in the momentous [[Drama|dramas]] of the Reformation and the
+[[Covenant]], and by the 18th century the people had ceased to regard the
 old royal line with any but sentimental interest, and the Jacobite
 risings of 1715 and 1745 evoked only the most lukewarm support.
 
   See Sir Robert Sibbald, _History of the Sheriffdoms of Fife and
   Kinross_; Rev. J.W. Taylor, _Historical Antiquities of Fife_ (1875);
   A.H. Millar, _Fife, Pictorial and Historical_ (Cupar, 1895); Sheriff
-  Aeneas Mackay, sketch of the _History of Fife_ (Edinburgh, 1890);
+  Aeneas [[Mackay]], sketch of the _History of Fife_ (Edinburgh, 1890);
   _History of Fife and Kinross_ (Scottish County History series)
   (Edinburgh, 1896); John Geddie, _The Fringe of Fife_ (Edinburgh,
   1894).

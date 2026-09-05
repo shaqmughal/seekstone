@@ -13,12 +13,12 @@ pagan worship (Lat. _sacellum_). The word is derived through the O. Fr.
 _chapele_, modern _chapelle_, from the Late Lat. _capelle_ or
 _cappella_, diminutive of _cappa_, a cape, particularly that of a monk.
 This word was transferred to any sanctuary containing relics, in the
-early history of the Frankish Church, because the cloak of St Martin,
-_cappa brevior Sancti Martini_, one of the most sacred relics of the
+early history of the Frankish Church, because the cloak of St [[Martin]],
+_cappa brevior Sancti [[Martini]]_, one of the most sacred relics of the
 Frankish kings, was carried in a sanctuary or shrine wherever the king
 went; and oaths were taken on it (see Ducange, _Glossarium_, s.v.
-_Capella_). Such a sanctuary was served by a priest, who was hence
-called _capellanus_, from which is derived the English "chaplain"
+_[[Capella]]_). Such a sanctuary was served by a priest, who was hence
+called _capellanus_, from which is derived the English "[[Chaplain|chaplain]]"
 (q.v.). The strict application of the word to a sanctuary containing
 relics was extended to embrace any place of worship other than a church,
 and it was synonymous, therefore, with "oratory" (_oratorium_),
@@ -27,7 +27,7 @@ celebrated Sainte Chapelle in Paris, attached to what is now the Palais
 de Justice, well illustrates the early and proper meaning of the word.
 It was built (consecration, 1248) by St Louis of France to contain the
 relic of the Crown of Thorns, ransomed by the king from the Venetians,
-who held it in pawn from the Latin emperor of the East, John of Brienne,
+who held it in pawn from the Latin emperor of the East, [[John Of Brienne|John of Brienne]],
 lately dead. The chapel served as the sanctuary of the relic lodged in
 the upper chapel, and the whole building was attached as the place of
 worship to the king's palace. This, the primary meaning, survives in the
@@ -48,7 +48,7 @@ and widely scattered parish, or "district chapels," those of a district
 of a parish divided under the various church building acts. A "free
 chapel" is one founded by the king and by his authority, and visited by
 him and not by the bishop. A "proprietary chapel" is one that belongs to
-a private person. They are anomalies to the English ecclesiastical law,
+a private person. They are anomalies to the English [[Ecclesiastical Law|ecclesiastical law]],
 have no parish rights, and can be converted to other than religious
 purposes, but a clergyman may be licensed to perform duty in such a
 place of worship. In the early and middle part of the 19th century such
@@ -77,15 +77,15 @@ From the architectural point of view the addition of chapels to a
 cathedral or large church assumes some historical importance in
 consequence of the changes it involved in the plan. It was the
 introduction of the apsidal chapels in the churches of France which
-eventually led to the _chevet_ or cluster of eastern chapels in many of
+eventually led to the _[[Chevet|chevet]]_ or cluster of eastern chapels in many of
 the great cathedrals, and also sometimes to the extension of the
 transept so as to include additional apsidal chapels on the east side.
 In France, and to a certain extent in Italy, the multiplication of
 chapels led to their being placed on the north and south side of the
 aisles, and in some cases, as at Albi in France, to the suppression of
-the aisles and the instalment of the chapels in their place. The chapels
+the aisles and the [[Instalment|instalment]] of the chapels in their place. The chapels
 of the colleges at Oxford and Cambridge are sometimes of large
-dimensions and architecturally of great importance, that of Christ
+[[Dimension|dimensions]] and architecturally of great importance, that of Christ
 Church being actually the cathedral of Oxford; among others may be
 mentioned the chapel of Merton College, and the new chapel of Exeter
 College, both in Oxford, and the chapel of King's College, Cambridge,

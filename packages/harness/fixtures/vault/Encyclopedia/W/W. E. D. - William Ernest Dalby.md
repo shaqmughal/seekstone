@@ -1,8 +1,8 @@
 # W. E. D. - William Ernest Dalby
 
 W. E. D. - WILLIAM ERNEST DALBY, M.A., M.INST.C.E., M.I.M.E.
-Professor of Civil and Mechanical Engineering at the City and Guilds of
-London Institute Central Technical College, South Kensington. Associate
+Professor of Civil and Mechanical [[Engineering]] at the City and Guilds of
+London Institute Central Technical College, South [[Kensington]]. Associate
 Member of the Institute of Naval Architects. Author of _The Balancing of
 Engines_; _Valves and Valve Gear Mechanisms_; &c.
 

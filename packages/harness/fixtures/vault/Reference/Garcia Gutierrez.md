@@ -6,8 +6,8 @@ topic: biology
 
 # Garcia Gutierrez
 
-GARCIA GUTIERREZ, ANTONIO (1812-1884), Spanish dramatist, was born at
-Chiclana (Cadiz) on the 5th of July 1812, and studied medicine in his
+GARCIA GUTIERREZ, [[Antonio|ANTONIO]] (1812-1884), Spanish dramatist, was born at
+[[Chiclana]] ([[Cadiz]]) on the 5th of July 1812, and studied medicine in his
 native town. In 1832 he removed to Madrid, and earned a scanty living by
 translating plays of Scribe and the elder Dumas; despairing of success,
 he was on the point of enlisting when he suddenly sprang into fame as

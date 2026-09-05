@@ -1,11 +1,11 @@
 # Hallam
 
 HALLAM, HENRY (1777-1859), English historian, was the only son of John
-Hallam, canon of Windsor and dean of Bristol, and was born on the 9th of
-July 1777. He was educated at Eton and Christ Church, Oxford, where he
+Hallam, canon of Windsor and dean of [[Bristol]], and was born on the 9th of
+July 1777. He was educated at [[Eton]] and Christ Church, Oxford, where he
 graduated in 1799. Called to the bar, he practised for some years on the
 Oxford circuit; but his tastes were literary, and when, on the death of
-his father in 1812, he inherited a small estate in Lincolnshire, he gave
+his father in 1812, he inherited a small estate in [[Lincolnshire]], he gave
 himself up wholly to the studies of his life. He had early become
 connected with the brilliant band of authors and politicians who then
 led the Whig party, a connexion to which he owed his appointment to the
@@ -19,7 +19,7 @@ aristocratic aspect.
 
 Hallam's earliest literary work was undertaken in connexion with the
 great organ of the Whig party, the _Edinburgh Review_, where his review
-of Scott's _Dryden_ attracted much notice. His first great work, _The
+of Scott's _[[Dryden]]_ attracted much notice. His first great work, _The
 View of the State of Europe during the Middle Ages_, was produced in
 1818, and was followed nine years later by the _Constitutional History
 of England_. In 1838-1839 appeared the _Introduction to the Literature
@@ -41,7 +41,7 @@ family afflictions better known than any other incidents of his life. He
 survived wife, daughter and sons by many years. In 1834 Hallam published
 _The Remains in Prose and Verse of Arthur Henry Hallam, with a Sketch of
 his Life_. In 1852 a selection of _Literary Essays and Characters_ from
-the _Literature of Europe_ was published. Hallam was a fellow of the
+the _Literature of Europe_ was published. Hallam was a [[Fellow|fellow]] of the
 Royal Society, and a trustee of the British Museum, and enjoyed many
 other appropriate distinctions. In 1830 he received the gold medal for
 history, founded by George IV. He died on the 21st of January 1859.
@@ -57,7 +57,7 @@ separate chapters. Others deal with the great institutional features of
 medieval society--the development of the feudal system, of the
 ecclesiastical system, and of the free political system of England. The
 last chapter sketches the general state of society, the growth of
-commerce, manners, and literature in the middle ages. The book may be
+commerce, [[Manners|manners]], and literature in the middle ages. The book may be
 regarded as a general view of early modern history, preparatory to the
 more detailed treatment of special lines of inquiry carried out in his
 subsequent works, although Hallam's original intention was to continue
@@ -86,12 +86,12 @@ of the political and general history of the time as bears directly on
 specific changes in the organization of the state, including therein
 judicial as well as ecclesiastical institutions. But while abstaining
 from irrelevant historical discussions, Hallam dealt with statesmen and
-policies with the calm and fearless impartiality of a judge. It was his
-cool treatment of such sanctified names as Charles, Cranmer and Laud
+policies with the [[Calm|calm]] and fearless impartiality of a judge. It was his
+cool treatment of such sanctified names as Charles, [[Cranmer]] and [[Laud]]
 that provoked the indignation of Southey and the _Quarterly_, who forgot
 that the same impartial measure was extended to statesmen on the other
 side. If Hallam can ever be said to have deviated from perfect fairness,
-it was in the tacit assumption that the 19th-century theory of the
+it was in the tacit [[Assumption|assumption]] that the 19th-century theory of the
 constitution was the right theory in previous centuries, and that those
 who departed from it on one side or the other were in the wrong. He did
 unconsciously antedate the constitution, and it is clear from incidental
@@ -121,15 +121,15 @@ century and a half of his special period he is mainly occupied with a
 review of classical learning, and he adopts the plan of taking short
 decennial periods and noticing the most remarkable works which they
 produced. The rapid growth of literature in the 16th century compels him
-to resort to a classification of subjects. Thus in the period 1520-1550 we
+to resort to a [[Classification|classification]] of subjects. Thus in the period 1520-1550 we
 have separate chapters on ancient literature, theology, speculative
-philosophy and jurisprudence, the literature of taste, and scientific and
+philosophy and [[Jurisprudence|jurisprudence]], the literature of taste, and scientific and
 miscellaneous literature; and the subdivisions of subjects is carried
-further of course in the later periods. Thus poetry, the drama and polite
+further of course in the later periods. Thus poetry, the [[Drama|drama]] and polite
 literature form the subjects of separate chapters. One inconvenient result
 of this arrangement is that the same author is scattered over many
-chapters, according as his works fall within this category or that period
-of time. Names like Shakespeare, Grotius, Bacon, Hobbes appear in half a
+chapters, according as his works fall within this [[Category|category]] or that period
+of time. Names like Shakespeare, [[Grotius]], Bacon, [[Hobbes]] appear in half a
 dozen different places. The individuality of great authors is thus
 dissipated except when it has been preserved by an occasional sacrifice of
 the arrangement--and this defect, if it is to be esteemed a defect, is
@@ -148,7 +148,7 @@ accuracy, judgment and enormous reading. Not the least striking testimony
 to Hallam's powers is his mastery over so many diverse forms of
 intellectual activity. In science and theology, mathematics and poetry,
 metaphysics and law, he is a competent and always a fair if not a profound
-critic. The bent of his own mind is manifest in his treatment of pure
+critic. The bent of his own mind is [[Manifest|manifest]] in his treatment of pure
 literature and of political speculation--which seems to be inspired with
 stronger personal interest and a higher sense of power than other parts of
 his work display. Not less worthy of notice in a literary history is the
@@ -168,10 +168,10 @@ method as by the nature of his subject and his own temper. Hallam is a
 philosopher to this extent that both in political and in literary
 history he fixed his attention on results rather than on persons. His
 conception of history embraced the whole movement of society. Beside
-that conception the issue of battles and the fate of kings fall into
+that conception the issue of battles and the [[Fate|fate]] of kings fall into
 comparative insignificance. "We can trace the pedigree of princes," he
-reflects, "fill up the catalogue of towns besieged and provinces
-desolated, describe even the whole pageantry of coronations and
+reflects, "fill up the [[Catalogue|catalogue]] of towns besieged and provinces
+desolated, describe even the whole pageantry of [[Coronation|coronations]] and
 festivals, but we cannot recover the genuine history of mankind." But,
 on the other hand, there is no trace in Hallam of anything like a
 philosophy of history or society. Wise and generally melancholy
@@ -187,18 +187,18 @@ because they favour that tendency to regard all men as mentally and
 morally equal which is so unhappily strong in modern times. At the same
 time Hallam by no means assumes the tone of the mere scholar. He is even
 solicitous to show that his point of view is that of the cultivated
-gentleman and not of the specialist of any order. Thus he tells us that
+[[Gentleman|gentleman]] and not of the specialist of any order. Thus he tells us that
 Montaigne is the first French author whom an English gentleman is
 ashamed not to have read. In fact, allusions to the necessary studies of
 a gentleman meet us constantly, reminding us of the unlikely erudition
 of the schoolboy in Macaulay. Hallam's prejudices, so far as he had any,
 belong to the same character. His criticism is apt to assume a tone of
 moral censure when he has to deal with certain extremes of human
-thought--scepticism in philosophy, atheism in religion and democracy in
+thought--scepticism in philosophy, [[Atheism|atheism]] in religion and democracy in
 politics.
 
 Hallam's style is singularly uniform throughout all his writings. It is
-sincere and straightforward, and obviously innocent of any motive beyond
+sincere and straightforward, and obviously [[Innocent|innocent]] of any motive beyond
 that of clearly expressing the writer's meaning. In the _Literature of
 Europe_ there are many passages of great imaginative beauty.     (E. R.)
 
@@ -209,7 +209,7 @@ FOOTNOTE:
     _Middle Ages_, censured Hallam for making an arbitrary beginning at
     this point, and proposed to write a more complete history himself.
 
-  [2] Technical subjects like painting or English law have been
+  [2] Technical subjects like painting or [[English Law|English law]] have been
     excluded by Hallam, and history and theology only partially treated.
 
 ## See also

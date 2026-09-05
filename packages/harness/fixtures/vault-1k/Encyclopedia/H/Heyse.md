@@ -42,7 +42,7 @@ der Mitte des 18ten Jahrhundert_) (4 vols., 1889-1890).
   _Jugenderinnerungen und Bekenntnisse_ (1901); also O. Kraus, _Paul
   Heyses Novellen und Romane_ (1888); E. Petzet, _Paul Heyse als
   Dramatiker_ (1904), and the essays by T. Ziegler (in _Studien und
-  Studienkopfe_, 1877), and G. Brandes (in _Moderne Geister_, 1887).
+  Studienkopfe_, 1877), and G. [[Brand|Brandes]] (in _Moderne Geister_, 1887).
 
 ## See also
 

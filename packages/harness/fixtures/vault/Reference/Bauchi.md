@@ -17,7 +17,7 @@ of about 21,000 sq. m. The altitude rises from 1000 ft. above the sea in
 its north-eastern corner to 4000 ft. and 6000 ft. in the south-west. The
 province is traversed diagonally from N.E. to S.W. by a belt of mountain
 ranges alternating with fertile plateaus. Towards the south the country
-is very rugged and a series of extinct volcanic craters occur.
+is very rugged and a series of extinct volcanic [[Crater|craters]] occur.
 
 Amongst the more important plateaus are the Assab or Kibyen country,
 having a general level of upwards of 4000 ft., and the Sura country,
@@ -57,12 +57,12 @@ friendly to Europeans. Others are, on the contrary, disposed to be
 turbulent and warlike. Amongst the different tribes many are cannibals.
 They all go practically naked. They are essentially horsemen, and have a
 cruel habit of gashing the backs of their ponies that they may get a
-good seat in the blood. They are armed with bows and arrows, but depend
+good seat in the blood. They are armed with [[Bow|bows]] and arrows, but depend
 almost entirely in battle on the charges of their mounted spearmen.
 
 The native name "Bauchi," which is of great antiquity, Signifies the
 "Land of Slaves," and from the earliest times the uplands which now form
-the principal portion of the province been the hunting ground of the
+the principal portion of the province been the [[Hunting|hunting]] ground of the
 slave raider, while the hill fastnesses have offered defensible refuge
 to the population. So entirely was slavery a habit of the people, that
 as late as 1905, after the slave-trade had been abolished for three
@@ -78,8 +78,8 @@ more civilized portion had already, under enlightened native rulers,
 attained to a certain degree of prosperity and order. Mahommedanism was
 partly adopted by the upper classes in the 18th century, if not earlier,
 and the son of a Mahommedan native ruler, educated at Sokoto, accepted
-the flag of Dan Fodio and conquered the country for the Fula. The name
-of this remarkable soldier and leader was Yakoba (Jacob). His father's
+the [[Flag|flag]] of Dan Fodio and conquered the country for the Fula. The name
+of this remarkable soldier and leader was Yakoba ([[Jacob]]). His father's
 name was Daouad (David), and his grandfather was Abdullah, all names
 which indicate Arab or Mahommedan influence. The town of Bauchi and
 capital of the province was founded by Yakoba in the year 1809, and the

@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Enstatite"
 ENSTATITE, a rock-forming mineral belonging to the group of orthorhombic
 pyroxenes. It is a magnesium metasilicate, MgSiO3, often with a little
 iron replacing the magnesium: as the iron increases in amount there is a
-transition to bronzite (q.v.), and with still more iron to hypersthene
+transition to [[Bronzite|bronzite]] (q.v.), and with still more iron to hypersthene
 (q.v.). Bronzite and hypersthene were known long before enstatite, which
 was first described by G.A. Kenngott in 1855, and named from [Greek:
 enstates], "an opponent," because the mineral is almost infusible before

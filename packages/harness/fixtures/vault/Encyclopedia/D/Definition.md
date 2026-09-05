@@ -9,7 +9,7 @@ given concepts or universals; it is not concerned with individuals,
 which are marked by an infinity of peculiarities, any one or all of
 which might be predicated of another individual. Individuals can be
 defined only in so far as they belong to a single kind. According to
-Aristotle, definition is the statement of the essence of a concept
+[[Aristotle]], definition is the statement of the essence of a concept
 ([Greek: horismos men gar tou ti esti kai ousias], _Posterior
 Analytics_, B iii. 90 b 30); that is, it consists of the genus and the
 differentia. In other words, "man" is defined as "animal _plus_
@@ -35,7 +35,7 @@ essential and primary. (3) _The definition must be per genus et
 differentiam_ (or _differentias_), as we have already seen. These are
 the important rules. Three minor rules are: (4) _The definition must not
 contain the name of the concept to be defined_; if it does, no
-information is given. Such a proposition as "an archdeacon is one who
+information is given. Such a proposition as "an [[Archdeacon|archdeacon]] is one who
 performs archidiaconal functions" is not a definition. Concepts cannot
 be defined by their correlatives. Such a definition is known as a
 _circulus in definiendo_. (5) _Obscure and figurative language must be

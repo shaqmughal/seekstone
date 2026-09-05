@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Green_Monk
 
 GREEN MONKEY, a west African representative of the typical group of the
 guenon monkeys technically known as _Cercopithecus callitrichus_, taking
-its name from the olive-greenish hue of the fur of the back, which forms
+its name from the olive-greenish [[Hue|hue]] of the [[Fur|fur]] of the back, which forms
 a marked contrast to the white whiskers and belly.
 
 ## See also

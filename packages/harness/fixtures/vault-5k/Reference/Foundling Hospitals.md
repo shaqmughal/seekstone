@@ -20,7 +20,7 @@ deposited (_jactati_) in marble shells at the church doors, and tended
 first by the _matricularii_ or male nurses, and then by the _nutricarii_
 or foster-parents.[1] But it was in the 7th and 8th centuries that
 definite institutions for foundlings were established in such towns as
-Treves, Milan and Montpellier. In the 15th century Garcias, archbishop
+Treves, Milan and Montpellier. In the 15th century [[Garcia|Garcias]], archbishop
 of Valencia, was a conspicuous figure in this charitable work; but his
 fame is entirely eclipsed by that of St Vincent de Paul, who in the
 reign of Louis XIII., with the help of the countess of Joigny, Mme le
@@ -28,7 +28,7 @@ Gras and other religious ladies, rescued the foundlings of Paris from
 the horrors of a primitive institution named La Couche (rue St Landry),
 and ultimately obtained from Louis XIV. the use of the Bicetre for their
 accommodation. Letters patent were granted to the Paris hospital in
-1670. The Hotel-Dieu of Lyons was the next in importance. No provision,
+1670. The [[Hotel-Dieu]] of [[Lyons]] was the next in importance. No provision,
 however, was made outside the great towns; the houses in the cities were
 overcrowded and administered with laxity; and in 1784 Necker prophesied
 that the state would yet be seriously embarrassed by this increasing
@@ -38,7 +38,7 @@ territories. The first constitutions of the Revolution undertook as a
 state debt the support of every foundling. For a time premiums were
 given to the mothers of illegitimate children, the "enfants de la
 patrie." By the law of 12 Brumaire, An II. "Toute recherche de la
-paternite est interdite," while by art. 341 of the Code Napoleon, "la
+paternite est interdite," while by art. 341 of the [[Code]] Napoleon, "la
 recherche de la maternite est admise."
 
   _France._--The laws of France relating to this part of what is called
@@ -63,7 +63,7 @@ recherche de la maternite est admise."
   temporarily taken in while their parents are in hospital, and (3)
   _enfants en garde_, i.e. children who have either committed or been
   the victim of some felony or crime and are placed under state care by
-  judicial authority. The asylum which receives all these children is a
+  judicial authority. The [[Asylum|asylum]] which receives all these children is a
   departmental (_etablissement depositaire_), and not a communal
   institution. The etablissement depositaire is usually the ward of an
   hospice, in which--with the exception of children _en depot_--the stay
@@ -79,12 +79,12 @@ recherche de la maternite est admise."
   sedentaire_) or the wet nurse (_nourrice au sein_), the _prime de
   survie_ (premium on survival), washing, clothes, and the "outdoor"
   expenses, which include (1) temporary assistance to unmarried mothers
-  in order to prevent desertion; (2) allowances to the foster-parents
+  in order to prevent [[Desertion|desertion]]; (2) allowances to the foster-parents
   (_nourriciers_) in the country for board, school-money, &c.; (3)
   clothing; (4) travelling-money for nurses and children; (5) printing,
   &c.; (6) expenses in time of sickness and for burials and apprentice
   fees--are borne in the proportion of two-fifths by the state
-  two-fifths by the department, and the remaining fifth by the communes.
+  two-fifths by the department, and the remaining fifth by the [[Commune|communes]].
   The following figures show the number of children (exclusive of
   _enfants secourus_) relieved at various periods:
 
@@ -113,7 +113,7 @@ recherche de la maternite est admise."
   future. Reference may be made to the works noticed at the end of this
   article.
 
-  _Belgium._--In this country the arrangements for the relief of
+  _[[Belgium]]._--In this country the arrangements for the relief of
   foundlings and the appropriation of public funds for that purpose very
   much resemble those in France, and can hardly be usefully described
   apart from the general questions of local government and poor law
@@ -121,7 +121,7 @@ recherche de la maternite est admise."
   purely communal bodies, although they receive pecuniary assistance
   from both the departments and the state. A decree of 1811 directed
   that there should be an asylum and a wheel for receiving foundlings in
-  every arrondissement. The last "wheel," that of Antwerp, was closed in
+  every arrondissement. The last "wheel," that of [[Antwerp]], was closed in
   1860. (See _Des Institutions de bienfaisance et de prevoyance en
   Belgique_, 1850 a 1860, par M.P. Lentz.)
 
@@ -170,7 +170,7 @@ recherche de la maternite est admise."
   in the hands of the provincial officer of public charity (prykaz
   obshestvennago pryzrenya). The great central institutions
   (Vospitatelnoi Dom), at Moscow and St Petersburg (with a branch at
-  Gatchina), were founded by Catherine. When a child is brought the
+  [[Gatchina]]), were founded by Catherine. When a child is brought the
   baptismal name is asked, and a receipt is given, by which the child
   may be reclaimed up to the age of ten. The mother may nurse her child.
   After the usual period of six years in the country very great care is
@@ -195,9 +195,9 @@ recherche de la maternite est admise."
   charities, exist in most of the large cities.
 
   _Great Britain._--The Foundling Hospital of London was incorporated by
-  royal charter in 1739 "for the maintenance and education of exposed
+  royal charter in 1739 "for the [[Maintenance|maintenance]] and education of exposed
   and deserted young children." The petition of Captain Thomas Coram,
-  who is entitled to the whole credit of the foundation,[3] states as
+  who is entitled to the whole [[Credit|credit]] of the foundation,[3] states as
   its objects "to prevent the frequent murders of poor miserable
   children at their birth, and to suppress the inhuman custom of
   exposing new-born infants to perish in the streets." At first no
@@ -205,7 +205,7 @@ recherche de la maternite est admise."
   was put on each child by the parent. These were often marked coins,
   trinkets, pieces of cotton or ribbon, verses written on scraps of
   paper. The clothes, if any, were carefully recorded. One entry is,
-  "Paper on the breast, clout on the head." The applications became too
+  "Paper on the [[Breast|breast]], clout on the head." The applications became too
   numerous, and a system of balloting with red, white and black balls
   was adopted. In 1756 the House of Commons came to a resolution that
   all children offered should be received, that local receiving places
@@ -246,7 +246,7 @@ recherche de la maternite est admise."
   as servants for four years, and the boys at the age of fourteen as
   mechanics for seven years. There is a small benevolent fund for
   adults. The musical service, which was originally sung by the blind
-  children only, was made fashionable by the generosity of Handel, who
+  children only, was made fashionable by the generosity of [[Handel]], who
   frequently had the "Messiah" performed there, and who bequeathed to
   the hospital a MS. copy (full score) of his greatest oratorio. The
   altar-piece is West's picture of Christ presenting a little Child. In
@@ -273,7 +273,7 @@ recherche de la maternite est admise."
   on the Irish miscellaneous estimates recommended that no further
   assistance should be given. The hospital had not preserved life or
   educated the foundlings. The mortality was nearly 4 in 5, and the
-  total cost L10,000 a year. Accordingly in 1835 Lord Glenelg (then
+  total cost L10,000 a year. Accordingly in 1835 Lord [[Glenelg]] (then
   Irish Secretary) closed the institution.
 
   Scotland never seems to have possessed a foundling hospital. In 1759
@@ -290,7 +290,7 @@ recherche de la maternite est admise."
   medical men at Lyons, connected with the administration of the
   foundling hospital); Remacle, _Des hospices d'enfants trouves en
   Europe_ (Paris, 1838); Hugel _Die Findelhauser und das Findelwesen
-  Europas_ (Vienna, 1863); Emminghaus, "Das Armenwesen und die
+  [[Europa|Europas]]_ (Vienna, 1863); Emminghaus, "Das Armenwesen und die
   Armengesetzgebung," in _Europaischen Staaten_ (Berlin, 1870);
   Sennichon, _Histoire des enfants abandonnes_ (Paris, 1880); the annual
   _Rapport sur le service des enfants assistes du departement de la
@@ -300,7 +300,7 @@ recherche de la maternite est admise."
   Children_ (1901); A.G. Warner, _American Charities_ (enlarged, 1908)
   and _Reports of Massachusetts State Board of Charities_. Information
   may also be got in the _Reports on Poor Laws in Foreign Countries_,
-  communicated to the Local Government Board by the foreign secretary;
+  communicated to the [[Local Government Board]] by the foreign secretary;
   _Accounts and Papers_ (1875), vol. lxv. c. 1225; _Report of Committee
   on the Infant Life Protection Bill_ (1890); _Report of Lords Committee
   on the Infant Life Protection Bill_ (1896). (See also CHARITY AND
@@ -315,7 +315,7 @@ FOOTNOTES:
     article "Enfant expose" in Diderot's _Encyclopedie_, 1755, and
     Chamousset's _Memoire politique sur les enfants,_ 1757.
 
-  [3] Addison had suggested such a charity (_Guardian_, No. 3).
+  [3] Addison had suggested such a charity (_[[Guardian]]_, No. 3).
 
 ## See also
 

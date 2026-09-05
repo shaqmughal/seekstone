@@ -9,9 +9,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Macdonald"
 # Macdonald
 
 MACDONALD, SIR JOHN ALEXANDER (1815-1891), first premier of the dominion
-of Canada, was born in Glasgow on the 11th of January 1815, the third
+of Canada, was born in [[Glasgow]] on the 11th of January 1815, the third
 child of Hugh Macdonald (d. 1841), a native of Sutherlandshire. The
-family emigrated to Canada in 1820, settling first at Kingston, Ontario.
+family emigrated to Canada in 1820, settling first at [[Kingston]], Ontario.
 At the age of fifteen Macdonald entered a law office; he was called to
 the bar in 1836, and began practice in Kingston, with immediate success.
 Macdonald entered upon his active career at a critical period in the
@@ -30,7 +30,7 @@ constitution of the British Empire.
 
 Macdonald made his first acquaintance with public business as an
 alderman of Kingston. In 1844 Sir Charles Metcalfe, in his contest with
-the Reform party led by Baldwin and Lafontaine, appealed to the
+the Reform party led by [[Baldwin]] and Lafontaine, appealed to the
 electors, and Macdonald was elected to the provincial assembly as
 Conservative member for Kingston. A sentence in his first address to the
 electors strikes the dominant note of his public career: "I therefore
@@ -51,12 +51,12 @@ constantly increasing weight in his party.
 
 One of the first acts of the Reform government which succeeded that of
 which Macdonald was a member was to pass the Rebellion Losses Bill, made
-famous in colonial history by the fact that it brought to a crucial test
+famous in colonial history by the fact that it brought to a [[Crucial|crucial]] test
 the principle of responsible government. The assent of Lord Elgin to the
 bill provoked in Montreal a riot which ended in the burning of the
 houses of parliament, and so great was the indignation of the hitherto
 ultra-loyal Conservative party that many of its most prominent members
-signed a document favouring annexation to the United States; Macdonald
+signed a document favouring [[Annexation|annexation]] to the United States; Macdonald
 on the other hand took steps, in conjunction with others, to form a
 British-American league, having for its object the confederation of all
 the provinces, the strengthening of the connexion with the mother
@@ -73,7 +73,7 @@ Conservatives and moderate reformers for the purpose of carrying them.
 Out of this coalition was gradually developed the Liberal-conservative
 party, of which until his death Macdonald continued to be the most
 considerable figure, and which for more than forty years largely moulded
-the history of Canada. From 1854 to 1857 he was attorney-general of
+the history of Canada. From 1854 to 1857 he was [[Attorney-General|attorney-general]] of
 Upper Canada, and then, on the retirement of Colonel Taché, he became
 prime minister. This first coalition had now accomplished its temporary
 purpose, but so closely were parties divided at this period, that the
@@ -90,7 +90,7 @@ immediate proposal is said to have come from George Brown; the large
 political idea had long been advocated by Macdonald and Alexander Galt
 in Upper Canada--by Joseph Howe and others in the maritime provinces.
 The close of the American Civil War, the Fenian raids across the
-American border, and the dangers incident to the international
+American border, and the dangers incident to the [[International|international]]
 situation, gave a decisive impulse to the movement. Macdonald, at the
 head of a representative delegation from Ontario and Quebec, met the
 public men of the maritime provinces in conference at Charlottetown in
@@ -108,7 +108,7 @@ services to the empire.
 
 The difficulties of organizing the new Dominion, the questions arising
 from diverse claims and the various conditions of the country, called
-for infinite tact and resource on the part of the premier. Federal
+for [[Infinite|infinite]] tact and resource on the part of the premier. Federal
 rights were to be safeguarded against the provincial governments, always
 jealous of their privileges. The people of Nova Scotia in particular,
 dissatisfied with the way in which their province had been drawn into
@@ -127,7 +127,7 @@ Hudson's Bay Company, and the establishment of Manitoba as a province in
 1870. Canada's interests were protected during the negotiations which
 ended in the treaty of Washington in 1871, and in which Sir John took a
 leading part as one of the British delegates. In this year British
-Columbia entered the confederation, one of the provisions of union being
+[[Columbia]] entered the confederation, one of the provisions of union being
 that a transcontinental railroad should be built within ten years. This
 was declared by the opposition to be impossible. It was possible only to
 a leader of indomitable will. Charges of bribery against the government
@@ -166,12 +166,12 @@ suffered a stroke of paralysis, which caused his death eight days later
 (June 6).
 
 The career of Sir John Macdonald must be considered in connexion with
-the political history of Canada and the conditions of its government
+the [[Political History|political history]] of Canada and the conditions of its government
 during the latter half of the 19th century. Trained in a school where
 the principles of responsible government were still in an embryonic
 state, where the adroit management of coalitions and cabals was
 essential to the life of a political party, and where plots and
-counterplots were looked upon as a regular part of the political game,
+counterplots were looked upon as a regular part of the political [[Game|game]],
 he acquired a dexterity and skill in managing men that finally gave him
 an almost autocratic power among his political followers. But great
 personal qualities supplemented his political dexterity and sagacity. A
@@ -189,12 +189,12 @@ which characterized his whole career. To this power the successful
 guidance of the Dominion through its critical formative period must be
 ascribed. Few political leaders have ever had such a number of
 antagonistic elements to reconcile as presented themselves in the first
-Canadian parliament after confederation. The man who could manage to
+Canadian parliament after confederation. The man who could [[Manage|manage]] to
 rule a congeries of jealous factions, including Irish Catholics and
 Orangemen, French and English anti-federationists and agitators for
 independence, Conservatives and Reformers, careful economists and
 prodigal expansionists, was manifestly a man of unusual power, superior
-to small prejudices, and without strong bias towards any creed or
+to small prejudices, and without strong [[Bias|bias]] towards any creed or
 section. Such a man Macdonald proved himself to be. His personality
 stands out at this period as the central power in which each faction
 chiefly reposed trust, and under which it could join hands with the
@@ -211,7 +211,7 @@ party triumph. His natural urbanity allowed him to rule without seeming
 to rule. When baffled in minor objects he gave way with a good-natured
 flexibility which brought upon him at times charges of inconsistency.
 Yet Canada has seen statesmen of more contracted view insist on such
-small points, fall, and drag down their party with them. He lived at a
+small points, fall, and [[Drag|drag]] down their party with them. He lived at a
 time when the exigencies of state seemed to require the peculiar talents
 which he possessed. Entering politics at the dreariest and least
 profitable stage in Canadian history, he took the foremost part in the
@@ -228,7 +228,7 @@ agency for good now known to mankind; that that was the secret of his
 success; and that he determined to die under it, and strove that Canada
 should live under it." Macdonald became a member of the Imperial Privy
 Council in 1879, and in 1884 he received the Grand Cross of the Bath.
-His first wife was his cousin, Miss Isabella Clark, who died in 1858,
+His first wife was his [[Cousin|cousin]], Miss Isabella Clark, who died in 1858,
 leaving one surviving son, the Hon. Hugh John Macdonald, at one time
 premier of the province of Manitoba. By his second marriage, to Miss
 Bernard in 1867, Macdonald left an only daughter. On his death in 1891
@@ -237,7 +237,7 @@ his widow was created Baroness Macdonald of Earnscliffe.
   The authorized and fullest biography of Sir John A. Macdonald is one
   written by his private secretary, Joseph Pope. Others have been
   written by his nephew, Colonel J. Pennington Macpherson, and by J. E.
-  Collins. A bright and amusing anecdotal life has been compiled by E.
+  [[Collins]]. A bright and amusing anecdotal life has been compiled by E.
   D. Biggar. A condensed biography by G. R. Parkin forms one of the
   "Makers of Canada" series (Toronto, 1907; new ed., 1909).
        (G. R. P.)

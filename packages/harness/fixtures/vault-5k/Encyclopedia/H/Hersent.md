@@ -11,7 +11,7 @@ Fenelon," painted in 1810, found a place at Malmaison, and "Passage of
 the Bridge at Landshut," which belongs to the same date, is now at
 Versailles. Hersent's typical works, however, belong to the period of
 the Restoration; "Louis XVI. relieving the Afflicted" (Versailles) and
-"Daphnis and Chloe" (engraved by Langier and by Gelee) were both in the
+"[[Daphnis]] and Chloe" (engraved by Langier and by Gelee) were both in the
 Salon of 1817; at that of 1819 the "Abdication of Gustavus Vasa" brought
 to Hersent a medal of honour, but the picture, purchased by the duke of
 Orleans, was destroyed at the Palais Royal in 1848, and the engraving by
@@ -28,7 +28,7 @@ which is probably Hersent's _chef-d'oeuvre_. After this date Hersent
 ceased to exhibit at the yearly salons. Although in 1846 he sent an
 excellent likeness of Delphine Gay and one or two other works to the
 rooms of the Societe d'Artistes, he could not be tempted from his usual
-reserve even by the international contest of 1855. He died on the 2nd of
+reserve even by the [[International|international]] contest of 1855. He died on the 2nd of
 October 1860.
 
 ## See also

@@ -9,7 +9,7 @@ tags: [metaphysics-theory, chemistry]
 # Carbonado
 
 CARBONADO, a name given in Brazil to a dark massive form of impure
-diamond, known also as "carbonate" and in trade simply as carbon. It is
+diamond, known also as "carbonate" and in trade simply as [[Carbon|carbon]]. It is
 sometimes called black diamond. Generally it is found in small masses of
 irregular polyhedral form, black, brown or dark-grey in colour, with a
 dull resinoid lustre; and breaking with a granular fracture, paler in

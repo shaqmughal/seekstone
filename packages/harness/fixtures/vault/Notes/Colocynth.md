@@ -8,8 +8,8 @@ tags: [history]
 
 # Colocynth
 
-COLOCYNTH, COLOQUINTIDA or BITTER APPLE, _Citrullus Colocynthis_, a
-plant of the natural order Cucurbitaceae. The flowers are unisexual; the
+COLOCYNTH, COLOQUINTIDA or BITTER [[Apple|APPLE]], _Citrullus Colocynthis_, a
+plant of the natural order [[Cucurbitaceae]]. The flowers are unisexual; the
 male blossoms have five stamens with sinuous anthers, the female have
 reniform stigmas, and an ovary with three large fleshy placentas. The
 fruit is round, and about the size of an orange; it has a thick
@@ -23,8 +23,8 @@ contains about 15%. The foliage resembles that of the cucumber, and the
 root is perennial. The plant has a wide range, being found in Ceylon,
 India, Persia, Arabia, Syria, North Africa, the Grecian Archipelago, the
 Cape Verd Islands, and the south-east of Spain. The term _pakkuoth_,
-translated "wild gourds" in 2 Kings iv. 39, is thought to refer to the
-fruit of the colocynth; but, according to Dr Olaf Celsius (1670-1756), a
+translated "wild [[Gourd|gourds]]" in 2 Kings iv. 39, is thought to refer to the
+fruit of the colocynth; but, according to Dr Olaf [[Celsius]] (1670-1756), a
 Swedish theologian and naturalist, it signifies a plant known as the
 squirting cucumber, _Ecbalium Elaterium_.
 
@@ -54,9 +54,9 @@ two-grain pills at intervals of an hour or so.
 In minute doses colocynth acts simply as a bitter, but is never given
 for this purpose. In ordinary doses it greatly increases the secretion
 of the small intestine and stimulates its muscular coat. The
-gall-bladder is also stimulated, and the biliary function of the liver,
+gall-bladder is also stimulated, and the biliary function of the [[Liver|liver]],
 so that colocynth is both an excretory and a secretory cholagogue. The
-action which follows hypodermic injection is due to the excretion of the
+action which follows hypodermic injection is due to the [[Excretion|excretion]] of the
 drug from the blood into the alimentary canal. Though colocynth is a
 drastic hydragogue cathartic, it is desirable, as a rule, to supplement
 its action by some drug, such as aloes, which acts on the large
@@ -71,7 +71,7 @@ and in an Anglo-Saxon herbal of the 11th century (Cockayne, _Leechdoms_,
 &c., vol. i. p. 325, London, 1864), the following directions are given
 as to its use:--"For stirring of the inwards, take the inward neshness
 of the fruit, without the kernels, by weight of two pennies; give it,
-pounded in lithe beer to be drunk, it stirreth the inwards."
+pounded in lithe [[Beer|beer]] to be drunk, it stirreth the inwards."
 
 ## See also
 

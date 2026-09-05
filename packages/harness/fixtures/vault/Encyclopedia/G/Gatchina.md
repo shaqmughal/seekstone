@@ -13,7 +13,7 @@ partly marshy district, and on the south side of the town are two lakes.
 Among its more important buildings are the imperial palace, which was
 founded in 1770 by Prince Orlov, and constructed according to the plans
 of the Italian architect Rinaldi; a military orphanage, founded in 1803;
-and a school for horticulture. Among the few industrial establishments
+and a school for [[Horticulture|horticulture]]. Among the few industrial establishments
 is a porcelain factory. At Gatchina an alliance was concluded between
 Russia and Sweden on the 29th of October 1799.
 

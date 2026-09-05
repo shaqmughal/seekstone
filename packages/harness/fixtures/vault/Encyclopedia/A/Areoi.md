@@ -23,11 +23,11 @@ grossly licentious. But the Areois were also a social force. They aimed
 at communism in all things. The women members were common property; the
 period of cohabitation was limited to three days, and the female Areois
 were bound by oath at initiation to strangle at birth any child born to
-them. If, however, the infant was allowed to survive half an hour only,
+them. If, however, the [[Infant|infant]] was allowed to survive half an hour only,
 it was spared; but to have the right of keeping it the mother must find
 a male Areoi willing to adopt it. The Areois travelled about, devoting
 their whole time to feasting, dancing (the chief dance of the women
-being the grossly indecent _Timorodee_ mentioned by Captain Cook), and
+being the grossly indecent _Timorodee_ mentioned by Captain [[Cook]]), and
 debauchery, varied by elaborate realistic stage presentments of the
 lives and loves of gods and legendary heroes.
 

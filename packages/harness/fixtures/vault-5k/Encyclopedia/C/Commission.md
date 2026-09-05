@@ -16,7 +16,7 @@ to command troops, which the sovereign or president, as the ultimate
 commander-in-chief of the nation's armed forces, grants to persons
 selected as officers, or to the similar authority issued to certain
 qualified persons to act as justices of the peace. For the various
-commissions of assize see ASSIZE. The word is also used of the order
+commissions of [[Assize|assize]] see ASSIZE. The word is also used of the order
 issued to a naval officer to take the command of a ship of war, and when
 manned, armed and fully equipped for active service she is said to be
 "put in commission."
@@ -44,9 +44,9 @@ royal assent to legislation is issued to lords commissioners. Similarly
 bodies of persons or single individuals may be specially charged with
 carrying out particular duties; these may be permanent, such as the
 Charity Commission or the Ecclesiastical and Church Estates Commission,
-or may be temporary, such as various international bodies of inquiry,
+or may be temporary, such as various [[International|international]] bodies of inquiry,
 like the commission which met in Paris in 1905 to inquire into the North
-Sea incident (see DOGGER BANK), or such as the various commissions of
+Sea incident (see [[Dogger Bank|DOGGER BANK]]), or such as the various commissions of
 inquiry, royal, statutory or departmental, of which an account is given
 below.
 
@@ -65,13 +65,13 @@ on transactions directly resulting from agency and may be payable though
 the principal acquires no benefit. In order to claim remuneration an
 agent must be legally qualified to act in the capacity in which he
 claims remuneration. He cannot recover in respect of unlawful or
-wagering transactions, or in cases of misconduct or breach of duty.
+wagering transactions, or in cases of misconduct or [[Breach|breach]] of duty.
 
 _Secret Commissions._--The giving of a commission, in the sense of a
 bribe or unlawful payment to an agent or employé in order to influence
 him in relation to his principal's or employer's affairs, has grown to
 considerable proportions in modern times; it has been rightly regarded
-as a gross breach of trust upon the part of employés and agents,
+as a [[Gross|gross]] breach of trust upon the part of employés and agents,
 inasmuch as it leads them to look to their own interests rather than to
 those of their employers. In order to suppress this bribing of employés
 the English legislature in 1906 passed the Prevention of Corruption Act,
@@ -87,12 +87,12 @@ exceeding four months with or without hard labour or to a fine not
 exceeding £50, or both. The act also applies the same punishment to any
 person who corruptly gives or offers any gift or consideration to an
 agent. Also if a person knowingly gives an agent, or if an agent
-knowingly uses, any receipt, account or document with intent to mislead
+knowingly uses, any receipt, account or document with [[Intent|intent]] to mislead
 the principal, they are guilty of a misdemeanour and liable to the
 punishment already mentioned. For the purposes of the act
 "consideration" includes valuable consideration of any kind, and "agent"
 includes any person employed by or acting for another. No prosecution
-can be instituted without the consent of the attorney-general, and every
+can be instituted without the consent of the [[Attorney-General|attorney-general]], and every
 information must be upon oath.
 
 Legislation to the same effect has been adopted in Australia. A federal

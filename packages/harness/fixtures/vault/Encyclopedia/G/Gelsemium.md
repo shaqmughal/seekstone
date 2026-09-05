@@ -39,7 +39,7 @@ This last action is doubtful. The symptoms appear to be due to a
 paralysis of the motor cells that control the internal and external
 ocular muscles. The most marked action of the drug is upon the anterior
 cornua of grey matter in the spinal cord. It can be shown by a process
-of experimental exclusion that to an arrest of function of these cells
+of experimental exclusion that to an [[Arrest|arrest]] of function of these cells
 is due the paralysis of all the voluntary muscles of the body that
 follows the administration of gelsemium or gelsemine. Just before death
 the sensory part of the spinal cord is also paralysed, general
@@ -52,7 +52,7 @@ subcutaneous exhibition of strychnine.
 
 Though the drug is still widely used, the rational indications for its
 employment are singularly rare and uncertain. The conditions in which it
-is most frequently employed are convulsions, bronchitis, severe and
+is most frequently employed are convulsions, [[Bronchitis|bronchitis]], severe and
 purposeless coughing, myalgia or muscular pain, neuralgia and various
 vague forms of pain.
 

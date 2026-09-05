@@ -15,7 +15,7 @@ following twelve in 344, and the last in 345.[1] The author was early
 known as _hakkima pharsaya_ ("the Persian sage"), was a subject of Sapor
 II., and was probably of heathen parentage and himself a convert from
 heathenism. He seems at some time in his life to have assumed the name
-of Jacob, and is so entitled in the colophon to a MS. of A.D. 512 which
+of [[Jacob]], and is so entitled in the colophon to a MS. of A.D. 512 which
 contains twelve of his homilies. Hence he was already by Gennadius of
 Marseilles (before 496) confused with Jacob, bishop of Nisibis; and the
 ancient Armenian version of nineteen of the homilies has been published
@@ -26,7 +26,7 @@ Jovian's treaty of 363. That his name was Aphrahat or Pharhadh we learn
 from comparatively late writers--Bar Bahlul (10th century), Elias of
 Nisibis (11th), Bar-Hebraeus, and 'Abhd-isho'. George, bishop of the
 Arabs, writing in A.D. 714 to a friend who had sent him a series of
-questions about the "Persian sage," confesses ignorance of his name,
+questions about the "Persian sage," confesses [[Ignorance|ignorance]] of his name,
 home and rank, but infers from his homilies that he was a monk, and of
 high esteem among the clergy. The fact that in 344 he was selected to
 draw up a circular letter from a council of bishops and other clergy to
@@ -41,10 +41,10 @@ standpoint is that of the Syriac-speaking church, before it was touched
 by the Arian controversy. Beginning with faith as the foundation, the
 writer proceeds to build up the Structure of doctrine and duty. The
 first ten homilies, which form one division completed in 337, are
-without polemical reference; their subjects are faith, love, fasting,
+without polemical reference; their subjects are faith, love, [[Fasting|fasting]],
 prayer, wars (a somewhat mysterious setting forth of the conflict
-between Rome and Persia under the imagery of Daniel), the sons of the
-covenant (monks or ascetics), penitents, the resurrection, humility,
+between Rome and Persia under the imagery of [[Daniel]]), the sons of the
+[[Covenant|covenant]] (monks or ascetics), penitents, the resurrection, humility,
 pastors. Those numbered 11-22, written in 344, are almost all directed
 against the Jews; the subjects are circumcision, passover, the sabbath,
 persuasion (the encyclical letter referred to above), distinction of
@@ -53,7 +53,7 @@ Son of God, virginity and holiness, whether the Jews have been finally
 rejected or are yet to be restored, provision for the poor, persecution,
 death and the last times. The 23rd homily, on the "grape kernel" (Is.
 lxv. 8), written in 344, forms an appendix on the Messianic fulfilment
-of prophecy, together with a treatment of the chronology from Adam to
+of prophecy, together with a treatment of the [[Chronology|chronology]] from Adam to
 Christ. Aphraates impresses a reader favourably by his moral
 earnestness, his guilelessness, his moderation in controversy, the
 simplicity of his style and language, his saturation with the ideas and
@@ -75,12 +75,12 @@ bears important contemporary witness to the sufferings of the Christian
 church in Persia under Sapor (Shapur) II. as well as the moral evils
 which had infected the church, to the sympathy of Persian Christians
 with the cause of the Roman empire, to the condition of early monastic
-institutions, to the practice of the Syriac church in regard to Easter,
+institutions, to the practice of the Syriac church in regard to [[Easter]],
 &c.
 
   Editions by W. Wright (London, 1869), and J. Parisot (with Latin
   translation, Paris, 1894); the ancient Armenian version of 19 homilies
-  edited, translated into Latin, and annotated by Antonelli (Rome,
+  edited, translated into Latin, and annotated by [[Antonelli]] (Rome,
   1756). Besides translations of particular homilies by G. Bickell and
   E.W. Budge, the whole have been translated by G. Bert (Leipzig, 1888).
   Cf. also C.J.F. Sasse, _Proleg, in Aphr. Sapientis Persae sermones

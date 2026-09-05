@@ -44,7 +44,7 @@ Raphael in designing (in 1515-1516) a series of Scriptural subjects,
 which were first to be finished in cartoons, and then to be imitated in
 tapestry by Flemish artists, and used for the decoration of the Sistine
 Chapel. Two principal sets of tapestries were accordingly executed at
-Arras in Flanders; but it is supposed that neither Leo nor Raphael lived
+[[Arras]] in Flanders; but it is supposed that neither Leo nor Raphael lived
 to see them. The set which went to Rome was twice carried away by
 invaders, first in 1527 and afterwards in 1798. In the first instance
 they were restored in a perfect state; but after their return in 1814
@@ -62,7 +62,7 @@ for the weavers to pounce the outlines, and in other parts they were
 almost cut through by tracing." It has never been ascertained what
 became of the other cartoons. Three tapestries, the cartoons of which by
 Raphael no longer exist, are in the Vatican,--representing the stoning
-of St Stephen, the conversion of St Paul, and St Paul in prison at
+of St Stephen, the [[Conversion|conversion]] of St Paul, and St Paul in prison at
 Philippi.
 
 Besides the cartoons of Raphael, two, to which an extraordinary
@@ -72,7 +72,7 @@ the Standard, and the latter the Cartoon of Pisa--soldiers bathing,
 surprised by the approach of the enemy. Both these great works have
 perished, but the general design of them has been preserved. In recent
 times some of the most eminent designers of cartoons have been masters
-of the German school,--Cornelius, Kaulbach, Steinle, Fuhrich, &c.;
+of the German school,--Cornelius, [[Kaulbach]], Steinle, Fuhrich, &c.;
 indeed, as a general rule, these artists appear to greater advantage in
 their cartoons than in the completed paintings of the same compositions.
 In England cartoon-work developed considerably in 1843 and 1844, when a
@@ -86,13 +86,13 @@ South Kensington.     (W. M. R.)
 (2) "Cartoon" is also a term now applied to the large political drawings
 in the humorous or satirical papers of the day. At an earlier period
 satirical prints were styled "caricatures," and were issued separately.
-Gillray, Rowlandson, the three Cruikshanks, Heath and others were
+Gillray, Rowlandson, the three [[Cruikshank|Cruikshanks]], Heath and others were
 popular favourites in this class of design. Even the insignificant
 little cuts by Robert Seymour in _Figaro in London_, the _diableries_ in
 _The Fly_, and the vulgar and rancorous political skits identified with
 the flood of scurrilous little papers of the time, were dignified by the
 same term. The long series of _Political Sketches_ by "H.B." (John
-Doyle) were the first examples of unexaggerated statement, and fair and
+[[Doyle]]) were the first examples of unexaggerated statement, and fair and
 decorous satire. With the advent of _Punch_ and its various rivals (_The
 Peep-Show, The Great Gun, Diogenes_ and the like), the general tone was
 elevated. _Punch_ at first adopted the word "pencilling" to describe the
@@ -120,7 +120,7 @@ of the dissatisfaction or the rage of the multitude. The cartoon, it is
 agreed, must be suggestive; it must present a clear idea lucidly and, if
 possible, laughably worked out; and, however reserved or restrained it
 may be, or even, when occasion demands (as in the case of Sir John
-Tenniel and some of his imitators), however epic in intuition, it must
+Tenniel and some of his imitators), however epic in [[Intuition|intuition]], it must
 always figure, so to say, as a leading article transformed into a
 picture. (See CARICATURE and ILLUSTRATION.)     (M. H. S.)
 

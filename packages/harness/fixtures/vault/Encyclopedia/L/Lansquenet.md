@@ -1,9 +1,9 @@
 # Lansquenet
 
-LANSQUENET, the French corrupted form of the German _Landsknecht_
+LANSQUENET, the French corrupted form of the German _[[Landsknecht]]_
 (q.v.), a mercenary foot-soldier of the 16th century. It is also the
-name of a card game said to have been introduced into France by the
-_Landsknechte_. The pack of 52 cards is cut by the player at the
+name of a card [[Game|game]] said to have been introduced into France by the
+_Landsknechte_. The pack of 52 [[Cards|cards]] is cut by the player at the
 dealer's right. The dealer lays the two first cards face upwards on the
 table to his left; the third he places in front of him and the fourth,
 or _réjouissance_ card, in the middle of the table. The players, usually

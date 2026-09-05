@@ -18,7 +18,7 @@ career and entered St Mary's Hall, Oxford, where he exercised a
 remarkable influence over his fellow-undergraduates. He was, however, a
 desultory student, and in 1870 was advised to go to the little village
 of Martinhoe, in Devon, for quiet reading, but distinguished himself
-more by his daring climbs after sea-gulls' eggs and his engineering
+more by his daring climbs after sea-gulls' [[Egg|eggs]] and his engineering
 skill in cutting a pathway along precipitous cliffs to some caves. In
 1872 the death of his mother made a deep impression upon him. He began
 to read hard, took his B.A. degree, and in 1873 was ordained deacon and

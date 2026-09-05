@@ -9,11 +9,11 @@ tags: [classics, botany]
 # Argyrodite
 
 ARGYRODITE, a mineral which is of interest as being that in which the
-element germanium was discovered by C. Winkler in 1886. It is a silver
+element [[Germanium|germanium]] was discovered by C. Winkler in 1886. It is a silver
 sulpho-germanate, Ag8GeS6, and crystallizes in the cubic system. The
 crystals have the form of the octahedron or rhombic dodecahedron, and
 are frequently twinned. The botryoidal crusts of small indistinct
-crystals first found in a silver mine at Freiberg in Saxony were
+crystals first found in a silver mine at [[Freiberg]] in Saxony were
 originally thought to be monoclinic, but were afterwards proved to be
 identical with the more distinctly developed crystals recently found in
 Bolivia. The colour is iron-black with a purplish tinge, and the lustre

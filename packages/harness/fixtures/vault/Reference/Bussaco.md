@@ -1,20 +1,20 @@
 # Bussaco
 
 BUSSACO (or BUSACO), SERRA DE, a mountain range on the frontiers of the
-Aveiro, Coimbra, and Vizeu districts of Portugal, formerly included in the
-province of Beira. The highest point in the range is the Ponta de Bussaco
+[[Aveiro]], Coimbra, and Vizeu districts of Portugal, formerly included in the
+province of [[Beira]]. The highest point in the range is the Ponta de Bussaco
 (1795 ft.), which commands a magnificent view over the Serra da Estrella,
-the Mondego valley and the Atlantic Ocean. Luso (pop. 1661), a village
+the Mondego valley and the [[Atlantic Ocean]]. Luso (pop. 1661), a village
 celebrated for its hot mineral springs, is the nearest railway station, on
 the Guarda-Figueira da Foz line, which skirts the northern slopes of the
 Serra. Towards the close of the 19th century the Serra de Bussaco became
 one of the regular halting-places for foreign, and especially for British,
-tourists, on the overland route between Lisbon and Oporto. Its hotel, built
+tourists, on the overland route between [[Lisbon]] and Oporto. Its hotel, built
 in the Manoellian style--a blend of Moorish and Gothic--encloses the
 buildings of a secularized Carmelite monastery, founded in 1268. The
-convent woods, now a royal domain, have long been famous for their cypress,
+convent woods, now a royal domain, have long been famous for their [[Cypress|cypress]],
 plane, evergreen oak, cork and other forest trees, many of which have stood
-for centuries and attained an immense size. A bull of Pope Gregory XV.
+for centuries and attained an immense size. A [[Bull|bull]] of Pope Gregory XV.
 (1623), anathematizing trespassers and forbidding women to approach, is
 inscribed on a tablet at the main entrance; another bull, of Urban VIII.
 (1643), threatens with excommunication any person harming the trees. In

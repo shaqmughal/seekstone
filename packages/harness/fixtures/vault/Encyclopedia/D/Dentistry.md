@@ -5,21 +5,21 @@ DENTISTRY
 
 Historical sketch.
 
-(from Lat. _dens_, a tooth), a special department of medical
+(from Lat. _[[Dens|dens]]_, a tooth), a special department of medical
 science, embracing the structure, function and therapeutics of the mouth
 and its contained organs, specifically the teeth, together with their
 surgical and prosthetic treatment. (For the anatomy of the teeth see
 TEETH.) As a distinct vocation it is first alluded to by Herodotus (500
 B.C.). There are evidences that at an earlier date the Egyptians and
-Hindus attempted to replace lost teeth by attaching wood or ivory
+Hindus attempted to replace lost teeth by attaching wood or [[Ivory|ivory]]
 substitutes to adjacent sound teeth by means of threads or wires, but
 the gold fillings reputed to have been found in the teeth of Egyptian
 mummies have upon investigation been shown to be superficial
-applications of gold leaf for ornamental purposes. The impetus given to
+applications of gold [[Leaf|leaf]] for ornamental purposes. The impetus given to
 medical study in the Grecian schools by the followers of Aesculapius and
-especially Hippocrates (500 to 400 B.C.) developed among the
+especially [[Hippocrates]] (500 to 400 B.C.) developed among the
 practitioners of medicine and surgery considerable knowledge of
-dentistry. Galen (A.D. 131) taught that the teeth were true bones
+dentistry. Galen (A.D. 131) taught that the teeth were true [[Bone|bones]]
 existing before birth, and to him is credited the belief that the upper
 canine teeth receive branches from the nerve which supplies the eye, and
 hence should be called "eye-teeth." Abulcasis (10th cent. A.D.)
@@ -28,11 +28,11 @@ adjacent sound teeth. Vesalius (1514), Ambroise Paré, J. J. Scaliger, T.
 Kerckring, M. Malpighi, and lesser anatomists of the same period
 contributed dissertations which threw some small amount of light upon
 the structure and functions of the teeth. The operation of transplanting
-teeth is usually attributed to John Hunter (1728-1793), who practised it
+teeth is usually attributed to John [[Hunter]] (1728-1793), who practised it
 extensively, and gave to it additional prominence by transplanting a
-human tooth to the comb of a cock, but the operation was alluded to by
+human tooth to the [[Comb|comb]] of a [[Cock|cock]], but the operation was alluded to by
 Ambroise Paré (1509-1590), and there is evidence to show that it was
-practised even earlier. A. von Leeuwenhoek in 1678 described with much
+practised even earlier. A. von [[Leeuwenhoek]] in 1678 described with much
 accuracy the tubular structure of the dentine, thus making the most
 important contribution to the subject which had appeared up to that
 time. Until the latter part of the 18th century extraction was
@@ -40,7 +40,7 @@ practically the only operation for the cure of toothache.
 
 The early contributions of France exerted a controlling influence upon
 the development of dental practice. Urbain Hémard, surgeon to the
-cardinal Georges of Armagnac, whom Dr Blake (1801) calls an ingenious
+cardinal Georges of Armagnac, whom Dr [[Blake]] (1801) calls an ingenious
 surgeon and a great man, published in 1582 his _Researches upon the
 Anatomy of the Teeth, their Nature and Properties_. Of Hémard, M.
 Fauchard says: "This surgeon had read Greek and Latin authors, whose
@@ -66,17 +66,17 @@ in the same way from their predecessors. Fauchard suggested porcelain as
 an improvement upon bone and ivory for the manufacture of artificial
 teeth, a suggestion which he obtained from R. A. F. de Réaumur, the
 French savant and physicist, who was a contributor to the royal
-porcelain manufactory at Sévres. Later, Duchateau, an apothecary of St
+porcelain manufactory at Sévres. Later, Duchateau, an [[Apothecary|apothecary]] of St
 Germain, made porcelain teeth, and communicated his discovery to the
 Academy of Surgery in 1776, but kept the process secret. Du Bois Chémant
 carried the art to England, and the process was finally made public by
 M. Du Bois Foucou. M. Fonzi improved the art to such an extent that the
-Athenaeum of Arts in Paris awarded him a medal and crown (March 14,
+[[Athenaeum]] of Arts in Paris awarded him a medal and crown (March 14,
 1808).
 
 In Great Britain the 19th century brought the dawning of dental science.
 The work of Dr Blake in 1801 on the anatomy of the teeth was distinctly
-in advance of anything previously written on the subject. Joseph Fox was
+in advance of anything previously written on the subject. Joseph [[Fox]] was
 one of the first members of the medical profession to devote himself
 exclusively to dentistry, and his work is a repository of the best
 practice of his time. The processes described, though comparatively
@@ -96,7 +96,7 @@ the teeth with general pathological conditions, were clearly
 established. Thus a scientific foundation was laid, and dentistry came
 to be practised as a specialty of medicine. Certain minor operations,
 however, such as the extraction of teeth and the stopping of caries in
-an imperfect way, were still practised by barbers, and the empirical
+an imperfect way, were still practised by [[Barber|barbers]], and the empirical
 practice of dentistry, especially of those operations which were almost
 wholly mechanical, had developed a considerable body of dental artisans
 who, though without medical education in many cases, possessed a high
@@ -106,7 +106,7 @@ the latter as a distinct and separate calling.
 
 In America representatives of both classes of dentists began to arrive
 from England and France about the time of the Revolution. Among these
-were John Wooffendale (1766), a student of Robert Berdmore of Liverpool,
+were John Wooffendale (1766), a student of Robert Berdmore of [[Liverpool]],
 surgeon-dentist to George III.; James Gardette (1778), a French
 physician and surgeon; and Joseph Lemaire (1781), a French dentist who
 went out with the army of Count Rochambeau. During the winter of
@@ -124,7 +124,7 @@ Until well into the 19th century apprenticeship afforded the only means
 of acquiring a knowledge of dentistry. The profits derived from the
 apprenticeship system fostered secrecy and quackery among many of the
 early practitioners; but the more liberal minded and better educated of
-the craft developed an increasing opposition to these narrow methods. In
+the [[Craft|craft]] developed an increasing opposition to these narrow methods. In
 1837 a local association of dentists was formed in New York, and in 1840
 a national association, The American Society of Dental Surgeons, the
 object of which was "to advance the science by free communication and
@@ -179,7 +179,7 @@ frequently cause irritation resulting in profound reflex nervous
 phenomena, which are curable only by removal of the local tooth
 disorder. Gout, lithaemia, scurvy, rickets, lead and mercurial
 poisoning, and certain forms of chronic nephritis, produce dental and
-oral lesions which are either pathognomonic or strongly indicative of
+oral [[Lesion|lesions]] which are either pathognomonic or strongly indicative of
 their several constitutional causes, and are thus of great importance in
 diagnosis. The most important dental research of modern times is that
 which was carried out by Professor W. D. Miller of Berlin (1884) upon
@@ -188,10 +188,10 @@ race more extensively than any other. Miller demonstrated that, as
 previous observers had suspected, caries is of bacterial origin, and
 that acids play an important rôle in the process. The disease is brought
 about by a group of bacteria which develop in the mouth, growing
-naturally upon the débris of starchy or carbohydrate food, producing
-fermentation of the mass, with lactic acid as the end product. The
+naturally upon the débris of starchy or [[Carbohydrate|carbohydrate]] food, producing
+fermentation of the mass, with [[Lactic Acid|lactic acid]] as the end product. The
 lactic acid dissolves the mineral constituent of the tooth structure,
-calcium phosphate, leaving the organic matrix of the tooth exposed.
+calcium phosphate, leaving the organic [[Matrix|matrix]] of the tooth exposed.
 Another class of germs, the peptonising and putrefactive bacteria, then
 convert the organic matter into liquid or gaseous end products. The
 accuracy of the conclusions obtained from his analytic research was
@@ -204,7 +204,7 @@ readily take place, causing necrosis, tuberculosis, actinomycosis,
 phlegmon and other destructive inflammations, certain of which,
 affecting the various sinuses of the head, have been found to cause
 meningitis, chronic empyema, metastatic abscesses in remote parts of the
-body, paralysis, epilepsy and insanity.
+body, paralysis, [[Epilepsy|epilepsy]] and [[Insanity|insanity]].
 
 
 Filling or stopping.
@@ -215,7 +215,7 @@ preserve as far as possible the teeth and associated tissues, and
 _prosthetic dentistry_, the purpose of which is to supply the loss of
 teeth by artificial substitutes. The filling of carious cavities was
 probably first performed with lead, suggested apparently by an operation
-recorded by Celsus (100 B.C.), who recommended that frail or decayed
+recorded by [[Celsus]] (100 B.C.), who recommended that frail or decayed
 teeth be stuffed with lead previous to extraction, in order that they
 might not break under the forceps. The use of lead as a filling was
 sufficiently prevalent in France during the 17th century to bring into
@@ -235,7 +235,7 @@ firmly within the cavity. The cohesive properties of the foil were
 developed by passing it through an alcohol flame, which dispelled its
 surface contaminations. The gold was then welded piece by piece into a
 homogeneous mass by plugging instruments with serrated points. In this
-process of cold-welding, the mallet, hitherto in only limited use, was
+process of cold-welding, the [[Mallet|mallet]], hitherto in only limited use, was
 found more efficient than hand pressure, and was rapidly developed. The
 primitive mallet of wood, ivory, lead or steel, was supplanted by a
 mallet in which a hammer was released automatically by a spring
@@ -272,7 +272,7 @@ thermal conductivity, and its objectionable colour have led to an
 increasing use of amalgam, guttapercha, and cements of zinc oxide mixed
 with zinc chloride or phosphoric acid. Recently much attention has been
 devoted to restorations with porcelain. A piece of platinum foil of .001
-inch thickness is burnished and pressed into the cavity, so that a
+[[Inch|inch]] thickness is burnished and pressed into the cavity, so that a
 matrix is produced exactly fitting the cavity. Into this matrix is
 placed a mixture of powdered porcelain and water or alcohol, of the
 colour to match the tooth. The mass is carefully dried and then fused
@@ -303,9 +303,9 @@ superimposed, and this, after it has hardened, is covered with a
 metallic or other suitable filling. The utility of arsenious acid for
 devitalizing the dental pulp was discovered by J. R. Spooner of
 Montreal, and first published in 1836 by his brother Shearjashub in his
-_Guide to Sound Teeth_. The painful action of arsenic upon the pulp was
+_Guide to Sound Teeth_. The painful action of [[Arsenic|arsenic]] upon the pulp was
 avoided by the addition of various sedative drugs,--morphia, atropia,
-iodoform, &c.,--and its use soon became universal. Of late years it is
+[[Iodoform|iodoform]], &c.,--and its use soon became universal. Of late years it is
 being gradually supplanted by immediate surgical extirpation under the
 benumbing effect of cocaine salts. By the use of cocaine also the pain
 incident to excavating and shaping of cavities in tooth structure may
@@ -323,7 +323,7 @@ crowns, and as abutments for assemblages of crowns, known as
 bridge-work.
 
 The discoloration of the pulpless tooth through putrefactive changes in
-its organic matter were first overcome by bleaching it with chlorine.
+its organic matter were first overcome by [[Bleaching|bleaching]] it with [[Chlorine|chlorine]].
 Small quantities of calcium hypochlorite are packed into the
 pulp-chamber and moistened with dilute acetic acid; the decomposition of
 the calcium salt liberates chlorine _in situ_, which restores the tooth
@@ -364,7 +364,7 @@ anatomical relations of the teeth and their alveoli, and therefore
 adapted to the several classes of teeth. The operation has been rendered
 painless by the use of anaesthetics. The anaesthetic generally employed
 is nitrous oxide, or laughing-gas, the use of which was discovered in
-1844 by Horace Wells, a dentist of Hartford, Conn., U.S.A. Chloroform
+1844 by Horace Wells, a dentist of [[Hartford]], Conn., U.S.A. [[Chloroform]]
 and ether, as well as other general anaesthetics, have been employed in
 extensive operations because of their more prolonged effect; but
 chloroform, especially, is dangerous, owing to its effect upon the
@@ -382,7 +382,7 @@ Artificial teeth.
 
 _Dental Prosthesis._--The fastening of natural teeth or carved
 substitutes to adjoining sound teeth by means of thread or wire preceded
-their attachment to base-plates of carved wood, bone or ivory, which
+their [[Attachment|attachment]] to base-plates of carved wood, bone or ivory, which
 latter method was practised until the introduction of swaged metallic
 plates. Where the crown only of a tooth or those of several teeth were
 lost, the restoration was effected by engrafting upon the prepared root
@@ -390,7 +390,7 @@ a suitable crown by means of a wooden or metallic pivot. When possible,
 the new crown was that of a corresponding sound tooth taken from the
 mouth of another individual; otherwise an artificial crown carved from
 bone or ivory, or sometimes from the tooth of an ox, was used. To
-replace entire dentures a base-plate of carved hippopotamus ivory was
+replace entire dentures a base-plate of carved [[Hippopotamus|hippopotamus]] ivory was
 constructed, upon which were mounted the crowns of natural teeth, or
 later those of porcelain. The manufacture of a denture of this character
 was tedious and uncertain, and required much skill. The denture was kept
@@ -398,9 +398,9 @@ in place by spiral springs attached to the buccal sides of the appliance
 above and below, which caused pressure upon both jaws, necessitating a
 constant effort upon the part of the unfortunate wearer to keep it in
 place. Metallic swaged plates were introduced in the latter part of the
-18th century. An impression of the gums was taken in wax, from which a
+18th century. An impression of the [[Gum|gums]] was taken in wax, from which a
 cast was made in plaster of Paris. With this as a model, a metallic die
-of brass or zinc was prepared, upon which the plate of gold or silver
+of [[Brass|brass]] or zinc was prepared, upon which the plate of gold or silver
 was formed, and then swaged into contact with the die by means of a
 female die or counter-die of lead. The process is essentially the same
 to-day, with the addition of numerous improvements in detail, which have
@@ -484,7 +484,7 @@ natural tooth-root by means of a metallic pin of gold or platinum,
 extending into the previously enlarged root-canal and cemented in place.
 In another type of crown the point between the root-end and the abutting
 crown-surface is encircled with a metallic collar or band, which gives
-additional security to the attachment and protects the joints from
+additional security to the attachment and protects the [[Joints|joints]] from
 fluids or bacteria. Crowns of this character are constructed with a
 porcelain facing attached by a stay-piece or backing of gold to a plate
 and collar, which has been previously fitted to the root-end like a
@@ -525,7 +525,7 @@ countries the same as is medical practice. The business of manufacturing
 and selling dentists' supplies represents an enormous industry, in
 which millions of capital are invested.
 
-   AUTHORITIES.--W. F. Litch, _American System of Dentistry_; Julius
+   AUTHORITIES.--W. F. Litch, _American System of Dentistry_; [[Julius]]
    Scheff, jun., _Handbuch der Zahnheilkunde_; Charles J. Essig,
    _American Text-Book of Prosthetic Dentistry_; Tomes, _Dental Anatomy_
    and _Dental Surgery_; W. D. Miller, _Microörganisms of the Human
@@ -535,9 +535,9 @@ which millions of capital are invested.
    Fractures of the Maxillae_; G. Evans, _A Practical Treatise on
    Artificial Crown-and-Bridge Work and Porcelain Dental Art_; C. N.
    Johnson, _Principles and Practice of Filling Teeth, American
-   Text-Book of Operative Dentistry_ (3rd ed., 1905); Edward C. Kirk,
+   Text-Book of Operative Dentistry_ (3rd ed., 1905); Edward C. [[Kirk]],
    _Principles and Practice of Operative Dentistry_ (2nd ed., 1905); J.
-   S. Marshall, _American Text-Book of Prosthetic Dentistry_ (edited by
+   S. [[Marshall]], _American Text-Book of Prosthetic Dentistry_ (edited by
    C. R. Turner; 3rd ed., 1907).                            (E. C. K.)
 
 

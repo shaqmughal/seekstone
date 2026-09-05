@@ -41,7 +41,7 @@ property of the clergy. His life was often in danger, but his ready wit
 always saved it, and it was said that one _bon mot_ would preserve him
 for a month. When he did emigrate in 1792 he found himself regarded as
 a martyr to the church and the king, and was at once named archbishop
-_in partibus_, and extra nuncio to the diet at Frankfort, and in 1794
+_in partibus_, and extra nuncio to the diet at [[Frankfort]], and in 1794
 cardinal. He was finally made bishop of Montefiascone, and settled down
 in that little Italian town--but not for long, for in 1798 the French
 drove him from his retreat, and he sought refuge in Venice and St
@@ -50,7 +50,7 @@ Louis XVIII. at the papal court. In 1804 he began to prepare his return
 to France by a well-turned letter to Napoleon, congratulating him on
 restoring religion to France once more. In 1806 he did return; in 1807
 he was again received into the Academy; and in 1810, on the refusal of
-Cardinal Fesch, was made archbishop of Paris. He was presently ordered
+Cardinal [[Fesch]], was made archbishop of Paris. He was presently ordered
 by the pope to surrender his functions as archbishop of Paris. This he
 refused to do. On the restoration of the Bourbons he was summarily
 expelled from the Academy and from the archiepiscopal palace. He retired
@@ -58,7 +58,7 @@ to Rome, where he was imprisoned in the castle of St Angelo for six
 months for his disobedience to the papal orders, and died in 1817, a
 year or two after his release, of disease contracted in prison and of
 chagrin. As a critic he was a very able writer, and Sainte-Beuve gives
-him the credit of discovering Father Jacques Bridayne, and of giving
+him the [[Credit|credit]] of discovering Father Jacques Bridayne, and of giving
 Bossuet his rightful place as a preacher above Massillon; as a
 politician, his wit and eloquence make him a worthy rival of Mirabeau.
 He sacrificed too much to personal ambition, yet it would have been a

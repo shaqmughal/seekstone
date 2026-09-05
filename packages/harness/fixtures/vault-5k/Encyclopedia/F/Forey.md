@@ -3,8 +3,8 @@
 FOREY, ELIE FREDERIC (1804-1872), marshal of France, was born at Paris
 on the 5th of January 1804, and entered the army from St Cyr in 1824. He
 took part in the earlier Algerian campaigns, and became captain in 1835.
-Four years later he was given command of a battalion of _chasseurs a
-pied_ and in 1844 he became colonel. At the Revolution of 1848 Cavaignac
+Four years later he was given command of a [[Battalion|battalion]] of _chasseurs a
+pied_ and in 1844 he became colonel. At the Revolution of 1848 [[Cavaignac]]
 made him a general of brigade. He took an active part in the _coup
 d'etat_ of the 2nd of December 1851, and Napoleon III. made him a
 general of division shortly afterwards. He held a superior command in

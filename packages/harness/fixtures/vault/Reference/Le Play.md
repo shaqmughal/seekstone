@@ -8,9 +8,9 @@ id: 42-6417
 
 # Le Play
 
-LE PLAY, PIERRE GUILLAUME FRÉDÉRIC (1806-1882), French engineer and
-economist, was born at La Rivière-Saint-Sauveur (Calvados) on the 11th
-of April 1806, the son of a custom-house official. He was educated at
+LE PLAY, PIERRE [[Guillaume|GUILLAUME]] FRÉDÉRIC (1806-1882), French engineer and
+economist, was born at La Rivière-Saint-Sauveur ([[Calvados]]) on the 11th
+of April 1806, the son of a [[Custom-House|custom-house]] official. He was educated at
 the École Polytechnique, and from there passed into the State Department
 of Mines. In 1834 he was appointed head of the permanent committee of
 mining statistics, and in 1840 engineer-in-chief and professor of
@@ -24,7 +24,7 @@ the most diverse industries. The Académie des Sciences conferred on him
 the Montyon prize. Napoleon III., who held him in high esteem, entrusted
 him with the organization of the Exhibition of 1855, and appointed him
 counsellor of state, commissioner general of the Exhibition of 1867,
-senator of the empire and grand officer of the Legion of Honour. He died
+senator of the empire and grand officer of the [[Legion]] of Honour. He died
 in Paris on the 5th of April 1882.
 
   In 1856 Le Play founded the _Société internationale des études

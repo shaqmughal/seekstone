@@ -6,19 +6,19 @@ on the bank of a river of the same name which empties into a bay also
 called Inhambane. Next to Mozambique Inhambane, which dates from the
 middle of the 16th century, is architecturally the most important town
 in Portuguese East Africa. The chief buildings are the fort, churches
-and mosque. The principal church is built with stone and marble brought
+and mosque. The principal church is built with stone and [[Marble|marble]] brought
 from Portugal. The population, about 4000 in 1909, is of a motley
-character: Portuguese and other Europeans, Arabs, Banyans, half-castes
-and negroes. Its commerce was formerly mostly in ivory and slaves. In
+character: Portuguese and other Europeans, [[Arabs]], [[Banyan|Banyans]], half-castes
+and negroes. Its commerce was formerly mostly in [[Ivory|ivory]] and slaves. In
 1834 Inhambane was taken and all its inhabitants save ten killed by a
-Zulu horde under Manikusa (see GAZALAND). It was not until towards the
+Zulu [[Horde|horde]] under Manikusa (see GAZALAND). It was not until towards the
 close of the 19th century that the trade of the town revived. The value
 of exports and imports in 1907 was about £150,000. The chief exports are
 wax, rubber, mafureira and other nuts, mealies and sugar. Cotton goods
 and cheap wines (for consumption by natives) are the principal imports.
 The harbour, about 9 m. long by 5 wide, accommodates vessels drawing 10
 to 12 ft. of water. The depth of water over the bar varies from 17 to 28
-ft., and large vessels discharge into and load from lighters. Inhambane
+ft., and large vessels [[Discharge|discharge]] into and load from lighters. Inhambane
 is the natural port for the extensive and fertile district between the
 Limpopo and Sabi rivers. This region is the best recruiting ground for
 labourers in the Rand gold mines. Mineral oils have been found within a
@@ -27,7 +27,7 @@ short distance of the port.
 
 
 
-INHERITANCE. In English law, inheritance, heir and other kindred words
+INHERITANCE. In [[English Law|English law]], inheritance, [[Heir|heir]] and other kindred words
 have a meaning very different from that of the Latin _haeres_, from
 which they are derived. In Roman law the heir or heirs represented the
 entire legal personality of the deceased--his _universum jus_. In
@@ -67,13 +67,13 @@ purchaser, the next to inherit is his nearest lineal ancestor. This is a
 rule introduced by the Inheritance Act. Under the former law inheritance
 never went to an ancestor--collaterals, however remote of the person
 last seized being preferred even to his father. Various explanations
-have been given of this seemingly anomalous rule--Bracton and Blackstone
+have been given of this seemingly anomalous rule--Bracton and [[Blackstone]]
 being content to say that it rests on the law of nature, by which heavy
 bodies gravitate downwards. Another explanation is that estates were
 granted to be descendible in the same way as an ancient inheritance,
 which having passed from father to son _ex necessitate_ went to
-collaterals on failure of issue of the person last seized. 6. The sixth
-rule is thus expressed by Joshua Williams in his treatise on _The Law of
+[[Collateral|collaterals]] on failure of issue of the person last seized. 6. The sixth
+rule is thus expressed by [[Joshua]] Williams in his treatise on _The Law of
 Real Property_:--
 
   "The father and all the male paternal ancestors of the purchaser and
@@ -112,19 +112,19 @@ through his mother are now admitted by this rule. If the purchaser is
 illegitimate, his only relations must necessarily be his own issue.
 Failing heirs of all kinds, the lands of an intestate purchaser, not
 alienated by him, would revert by "escheat" to the next immediate lord
-of the fee, who would generally be the crown. If an intermediate
+of the [[Fee|fee]], who would generally be the crown. If an intermediate
 lordship could be proved to exist between the crown and the tenant in
 fee simple, such intermediate lord would have the escheat. But escheat
 is a matter of rare occurrence.
 
-The above rules apply to all freehold land whether the estate therein of
+The above rules apply to all [[Freehold|freehold]] land whether the estate therein of
 the intestate is legal or equitable. Before 1884, if a sole trustee had
 the legal estate in realty, and his _cestui que trust_ died intestate
 and without heirs, the land escheated to the trustee. This distinction
 was abolished by the Intestate Estates Act 1884.
 
 The descent of an estate in tail would be ascertained by such of the
-foregoing rules as are not inapplicable to it. By the form of the entail
+foregoing rules as are not inapplicable to it. By the form of the [[Entail|entail]]
 the estate descends to the "issue" of the person to whom the estate was
 given in tail--in other words, the last purchaser. The preceding rules
 after the fourth, being intended for the ascertainment of heirs other
@@ -135,18 +135,18 @@ the estate descends according to these rules. In copyhold estates
 descent, like other incidents thereof, is regulated by the custom of
 each particular manor; e.g. the youngest son may exclude the elder sons.
 How far the Inheritance Act applies to such estates has been seriously
-disputed. It has been held in one case (_Muggleton_ v. _Barnett_) that
+disputed. It has been held in one case (_Muggleton_ v. _[[Barnett]]_) that
 the Inheritance Act, which orders descent to be traced from the last
 purchaser, does not override a manorial custom to trace descent from the
 person last seized, but this position has been controverted on the
 ground that the act itself includes the case of customary holdings.
 
-Husband and wife do not stand in the rank of heir to each other. Their
-interests in each other's real property are secured by courtesy and
-dower.
+[[Husband And Wife|Husband and wife]] do not stand in the rank of heir to each other. Their
+interests in each other's real property are secured by [[Courtesy|courtesy]] and
+[[Dower|dower]].
 
 The personal property of a person dying intestate devolves according to
-an entirely different set of rules (see INTESTACY).
+an entirely different set of rules (see [[Intestacy|INTESTACY]]).
 
   In Scotland the rules of descent differ from the above in several
   particulars. Descent is traced, as in England before the Inheritance
@@ -179,7 +179,7 @@ an entirely different set of rules (see INTESTACY).
   eventualities), the younger of the elder brothers is preferred. The
   position of the father, after the brothers and sisters of the
   deceased, will be noticed as an important point of difference from the
-  English axioms; so also is the total exclusion of the mother and the
+  English [[Axiom|axioms]]; so also is the total exclusion of the mother and the
   maternal line. As between brothers and sisters the half-blood only
   succeeds after the full blood. Half-blood is either consanguinean, as
   between children by the same father, or uterine, as between children
@@ -190,7 +190,7 @@ an entirely different set of rules (see INTESTACY).
   which the deceased has sprung, the eldest succeeds first.
 
 _United States._--American law has borrowed its rules of descent
-considerably more from the civil law than the common law. "The 118 novel
+considerably more from the [[Civil Law|civil law]] than the common law. "The 118 novel
 of Justinian has a striking resemblance to American law in giving the
 succession of estates to all legitimate children without distinction and
 disregarding all considerations of primogeniture. There is one
@@ -202,7 +202,7 @@ lineal branch of descendants taking only the portion which their parent
 would have taken had he been living, the division being _per stirpes_
 and not _per capita_. But in some of the states the rule of the Roman
 law in this respect has been adopted and retained. Among these are Rhode
-Island, New Jersey, North and South Carolina, Alabama and Louisiana" (3
+Island, New [[Jersey]], North and South Carolina, Alabama and [[Louisiana]]" (3
 Washburn's _Real Property_, pp. 408, 409; 4 Kent's _Comm._ p. 375). When
 such lineal descendants stand in unequal degrees of consanguinity the
 inheritance is _per stirpes_ and not _per capita_ (_In re Prote_, 1907;
@@ -213,7 +213,7 @@ particular state in which the land to be inherited is situated. The law
 of primogeniture as understood in England is generally abolished
 throughout the United States, and male and female relatives inherit
 equally. In some states, as in Massachusetts, relatives of the
-half-blood inherit equally with chose of the whole-blood of the same
+half-blood inherit equally with [[Chose|chose]] of the whole-blood of the same
 degree; in others, like Maryland, they can inherit only in case none of
 whole-blood exist. In some of the states the English rule that natural
 children have no inheritable blood has been greatly modified. In
@@ -223,7 +223,7 @@ States generally are computed according to the civil law, i.e. by adding
 together the number of degrees between each of the two persons whose
 relationship is to be ascertained and the common ancestor. Thus,
 relationship between two brothers is in the second degree; between uncle
-and nephew in the third degree; between cousins, in the fourth, &c.
+and nephew in the third degree; between [[Cousin|cousins]], in the fourth, &c.
 
   In a few states such degrees are computed according to the common law,
   i.e. by counting from the common ancestor to the most remote
@@ -243,7 +243,7 @@ and nephew in the third degree; between cousins, in the fourth, &c.
   descent. In general the husband has the control and management thereof
   during the marriage, and either survivor has the administration of the
   moiety of the one deceased. There is a conflict in the laws in such
-  states as to the exact definition and as to whether or not the gains
+  states as to the exact [[Definition|definition]] and as to whether or not the gains
   or profits of such property are to be deemed separate property or
   community property [Succession of Dielman (Louisiana, 1907), 43
   Southern Rep. 972].

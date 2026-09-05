@@ -23,7 +23,7 @@ caps are mentioned. It is supposed that the art was first practised in
 Scotland, and thence carried into England, and that caps were made by
 knitting for some period before the more difficult feat of
 stocking-making was attempted. In an act of Edward VI. (1553) "knitte
-hose, knitte peticotes, knitte gloves and knitte sleeves" are
+hose, knitte peticotes, knitte [[Glove|gloves]] and knitte sleeves" are
 enumerated, and the trade of hosiers, among others, included in an act
 dated 1563. Spanish silk stockings were worn on rare occasions by Henry
 VIII., and the same much-prized articles are also mentioned in connexion
@@ -58,12 +58,12 @@ and fancy stitches or a combination of the two.
 
   [Illustration: FIG. 3.--Hand Stocking Frame.]
 
-  _Machinery._--In hand knitting the implements employed (a few needles
+  _Machinery._--In hand knitting the [[Implement|implements]] employed (a few needles
   or wires) are very simple and inexpensive. In the manufacturing
   industry the most complex and ingenious machinery is used. In 1589 the
   Rev. William Lee, a graduate of St John's College, Cambridge, while
   acting as curate (or vicar) of Calverton, Nottinghamshire, introduced
-  his stocking-frame. This machine was the first mechanical means
+  his stocking-frame. This [[Machine|machine]] was the first mechanical means
   employed to produce a looped or knitted fabric. This frame or machine
   of Lee's was the origin of all the hosiery and lace machines at
   present in use. One of the most remarkable points about his invention
@@ -85,7 +85,7 @@ and fancy stitches or a combination of the two.
   spring-pointed hook (or beard), the point of which can be pressed at
   will into a groove or eye in the shank. For method by which the loops
   are formed on the needles of the frame see fig. 4. This shows a few of
-  Lee's hooked or bearded needles having the old loops or work hanging
+  Lee's hooked or bearded needles having the old loops or work [[Hanging|hanging]]
   round the needle shanks. The thread of yarn which is to form the new
   row of loops is laid over the needle shanks and waved or looped
   between each pair of needles. This waving or looping ensures
@@ -154,18 +154,18 @@ and fancy stitches or a combination of the two.
   Lee's plain needles, with the result that, when knitting, the frame
   needles drew their loops to one side and the machine needles their
   loops to the opposite side of the fabric. The first offshoot from
-  frame-work knitting was the invention of the hand warp loom in 1775.
-  It was improved by the addition of the Dawson wheel by William Dawson
+  frame-work knitting was the invention of the hand warp [[Loom|loom]] in 1775.
+  It was improved by the addition of the [[Dawson]] wheel by William Dawson
   in 1791. This machine is the origin of the various complex machines
-  now working on this principle. Some of these have Jacquard mechanism
+  now working on this principle. Some of these have [[Jacquard]] mechanism
   attached, and nearly all of them are driven by motive power. About the
   middle of the 19th century close on 50,000 of Lee's hand frames were
   in use, finding employment for nearly 100,000 persons. Many attempts
   had been made previously to transform Lee's frame into a power or
   rotary frame. One of the first and most successful was that invented
-  by Luke Barton in 1857. This frame was fitted with self-acting
+  by [[Luke]] Barton in 1857. This frame was fitted with self-acting
   mechanism for fashioning, and was practically Lee's frame having
-  rotary shafts with cams added to give the various movements, this type
+  rotary shafts with [[Cam|cams]] added to give the various movements, this type
   of frame being known as straight bar rotary frames. In 1864 William
   Cotton of Loughborough altered this frame by reversing the positions
   of the needles and sinkers. Although made by various builders it is
@@ -174,10 +174,10 @@ and fancy stitches or a combination of the two.
   this frame. Single frames are built which will turn off one dozen
   pairs of hose at once, with the attention of one person. One of the
   most important inventions in connexion with the hosiery trade was the
-  latch, tumbler, or self-acting needle invented by Matthew Townsend and
+  latch, tumbler, or self-acting needle invented by [[Matthew]] Townsend and
   David Moulding of Leicester in 1858. Previous to this Lee's type of
   needle was the only one in use. This latch-needle (fig. 8) consists of
-  a stem having a butt at lower end by which it receives its knitting
+  a stem having a [[Butt|butt]] at lower end by which it receives its knitting
   action from cams, the upper end being turned into a hook. Near the
   hook end and attached to the stem by a pin is the spoon-shaped latch,
   which closes over the hook as required. Machines fitted with

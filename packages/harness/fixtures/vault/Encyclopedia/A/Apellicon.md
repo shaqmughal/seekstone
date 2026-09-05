@@ -9,7 +9,7 @@ type: source
 
 APELLICON, a wealthy native of Teos, afterwards an Athenian citizen, a
 famous book collector. He not only spent large sums in the acquisition
-of his library, but stole original documents from the archives of Athens
+of his library, but stole original documents from the [[Archive|archives]] of Athens
 and other cities of Greece. Being detected, he fled in order to escape
 punishment, but returned when Athenion (or Aristion), a bitter opponent
 of the Romans, had made himself tyrant of the city with the aid of
@@ -21,10 +21,10 @@ B.C.
 
 Apellicon's chief pursuit was the collection of rare and important
 books. He purchased from the family of Neleus of Skepsis in the Troad
-manuscripts of the works of Aristotle and Theophrastus (including their
+[[Manuscript|manuscripts]] of the works of [[Aristotle]] and Theophrastus (including their
 libraries), which had been given to Neleus by Theophrastus himself,
 whose pupil Neleus had been. They had been concealed in a cellar to
-prevent their falling into the hands of the book-collecting princes of
+prevent their falling into the hands of the [[Book-Collecting|book-collecting]] princes of
 Pergamum, and were in a very dilapidated condition. Apellicon filled in
 the lacunae, and brought out a new, but faulty, edition. In 84 Sulla
 removed Apellicon's library to Rome (Strabo xiii. p. 609; Plutarch,

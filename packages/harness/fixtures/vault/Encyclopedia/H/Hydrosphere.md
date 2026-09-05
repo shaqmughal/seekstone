@@ -7,10 +7,10 @@ topic: history
 # Hydrosphere
 
 HYDROSPHERE (Gr. [Greek: hydôr], water, and [Greek: sphaira], sphere),
-in physical geography, a name given to the whole mass of the water of
+in physical [[Geography|geography]], a name given to the whole mass of the water of
 the oceans, which fills the depressions in the earth's crust, and covers
 nearly three-quarters of its surface. The name is used in distinction
-from the atmosphere, the earth's envelope of air, the lithosphere (Gr.
+from the atmosphere, the earth's envelope of air, the [[Lithosphere|lithosphere]] (Gr.
 [Greek: lithos], rock) or solid crust of the earth, and the centrosphere
 or interior mass within the crust. To these "spheres" some writers add,
 by figurative usage, the terms "biosphere," or life-sphere, to cover all

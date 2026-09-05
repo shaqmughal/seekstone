@@ -1,11 +1,11 @@
 # Folkes
 
 FOLKES, MARTIN (1690-1754), English antiquary, was born in London on the
-29th of October 1690. He was educated at Saumur University and Clare
+29th of October 1690. He was educated at Saumur University and [[Clare]]
 College, Cambridge, where he so distinguished himself in mathematics
-that when only twenty-three years of age he was chosen a fellow of the
+that when only twenty-three years of age he was chosen a [[Fellow|fellow]] of the
 Royal Society. He was elected one of the council in 1716, and in 1723
-Sir Isaac Newton, president of the society, appointed him one of the
+Sir [[Isaac]] Newton, president of the society, appointed him one of the
 vice-presidents. On the death of Newton he became a candidate for the
 presidency, but was defeated by Sir Hans Sloane, whom, however, he
 succeeded in 1741; in 1742 he was made a member of the French Academy;
@@ -18,8 +18,8 @@ Rome_ and his _Table of English Gold Coins from the 18th Year of King
 Edward III_. In 1745 he printed the latter with another on the history
 of silver coinage. He also contributed both to the Society of
 Antiquaries and to the Royal Society other papers, chiefly on Roman
-antiquities. He married in 1714 Lucretia Bradshaw, an actress who had
-appeared at the Haymarket and Drury Lane (see Nichols's Lit. _Anecdot._
+antiquities. He married in 1714 [[Lucretia]] Bradshaw, an actress who had
+appeared at the Haymarket and Drury [[Lane]] (see Nichols's Lit. _Anecdot._
 ii. 578-598).
 
   For Sir John Hill's attack on Folkes (_Review of the Works of the

@@ -21,13 +21,13 @@ but it may be recapitulated here for historical purposes.
   or medieval thinkers; and for Aristotle, in particular, the glory is
   claimed of having at once originated the doctrine and practically
   brought it to perfection.[1] As translated by Hamilton, but without
-  his interpolations, the classical passage from the _De Memoria et
+  his [[Interpolation|interpolations]], the classical passage from the _De Memoria et
   Reminiscentia_ runs as follows:--
 
   "When, therefore, we accomplish an act of reminiscence, we pass
   through a certain series of precursive movements, until we arrive at a
   movement on which the one we are in quest of is habitually consequent.
-  Hence, too, it is that we hunt through the mental train, excogitating
+  Hence, too, it is that we [[Hunt|hunt]] through the mental train, excogitating
   from the present or some other, and from similar or contrary or
   coadjacent. Through this process reminiscence takes place. For the
   movements are, in these cases, sometimes at the same time, sometimes
@@ -49,9 +49,9 @@ but it may be recapitulated here for historical purposes.
 
   In Hobbes's psychology much importance is assigned to what he called,
   variously, the succession, sequence, series, consequence, coherence,
-  train of imaginations or thoughts in mental discourse. But not before
+  train of [[Imagination|imaginations]] or thoughts in mental discourse. But not before
   Hume is there express question as to what are the distinct principles
-  of association. John Locke had, meanwhile, introduced the phrase
+  of association. John [[Locke]] had, meanwhile, introduced the phrase
   "Association of Ideas" as the title of a supplementary chapter
   incorporated with the fourth edition of his _Essay_, meaning it,
   however, only as the name of a principle accounting for the mental
@@ -153,7 +153,7 @@ but it may be recapitulated here for historical purposes.
   _Inquiry_, of Hume), opened the path for all the investigations of
   like nature that have been so characteristic of English psychology. A
   physician by profession, he sought to combine with an elaborate theory
-  of mental association a minutely detailed hypothesis as to the
+  of mental association a minutely detailed [[Hypothesis|hypothesis]] as to the
   corresponding action of the nervous system, based upon the suggestion
   of a vibratory motion within the nerves thrown out by Newton in the
   last paragraph of the _Principia_. So far, however, from promoting the
@@ -175,7 +175,7 @@ but it may be recapitulated here for historical purposes.
   the progressive development of the mind's powers. Holding that mental
   states could be scientifically understood only as they were analysed,
   Hartley sought for a principle of synthesis to explain the complexity
-  exhibited not only in trains of representative images, but alike in
+  exhibited not only in trains of representative [[Image|images]], but alike in
   the most involved combinations of reasonings and (as Berkeley had
   seen) in the apparently simple phenomena of objective perception, as
   well as in the varied play of the emotions, or, again, in the manifold
@@ -191,7 +191,7 @@ but it may be recapitulated here for historical purposes.
   sensations, Hartley's first care was to determine the conditions under
   which states other than these simplest ones have their rise in the
   mind, becoming the matter of ever higher and higher combinations. The
-  principle itself supplied the key to the difficulty, when coupled with
+  principle itself supplied the [[Key|key]] to the difficulty, when coupled with
   the notion, already implied in Berkeley's investigations, of a
   coalescence of simple ideas of sensation into one complex idea, which
   may cease to bear any obvious relation to its constituents. So far
@@ -252,7 +252,7 @@ but it may be recapitulated here for historical purposes.
   Of these it will suffice to mention Condillac, who professed to
   explain all knowledge from the single principle of association
   (_liaison_) of ideas, operating through a previous association with
-  signs, verbal or other. In Germany, before the time of Kant, mental
+  signs, verbal or other. In Germany, before the time of [[Kant]], mental
   association was generally treated in the traditional manner, as by
   Wolff. Kant's inquiry into the foundations of knowledge, agreeing in
   its general purport with Locke's, however it differed in its critical

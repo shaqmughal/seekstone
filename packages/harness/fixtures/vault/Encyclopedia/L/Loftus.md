@@ -6,11 +6,11 @@ topic: philosophy
 
 # Loftus
 
-LOFTUS, ADAM (c. 1533-1605), archbishop of Armagh and Dublin, and lord
-chancellor of Ireland, the son of a Yorkshire gentleman, was educated at
-Cambridge. He accompanied the earl of Sussex to Ireland as his chaplain
+LOFTUS, ADAM (c. 1533-1605), archbishop of [[Armagh]] and Dublin, and lord
+chancellor of Ireland, the son of a Yorkshire [[Gentleman|gentleman]], was educated at
+Cambridge. He accompanied the earl of Sussex to Ireland as his [[Chaplain|chaplain]]
 in 1560, and three years later was consecrated archbishop of Armagh by
-Hugh Curwen, archbishop of Dublin. In 1565 Queen Elizabeth, to
+Hugh [[Curwen]], archbishop of Dublin. In 1565 Queen Elizabeth, to
 supplement the meagre income derivable from the archiepiscopal see owing
 to the disturbed state of the country, appointed Loftus temporarily to
 the deanery of St Patrick's; and in the same year he became president of
@@ -22,7 +22,7 @@ chancellor of Ireland. Loftus was constantly occupied in attempts to
 improve his financial position by obtaining additional preferment. He
 had been obliged to resign the deanery of St Patrick's in 1567, and
 twenty years later he quarrelled violently with Sir John Perrot, the
-lord deputy, over the proposal to appropriate the revenues of the
+lord [[Deputy|deputy]], over the proposal to appropriate the revenues of the
 cathedral to the foundation of a university. Loftus, however, favoured
 the project of founding a university in Dublin, though on lines
 different from Perrot's proposal, and it was largely through his
@@ -36,14 +36,14 @@ of April 1605. By his wife, Jane Purdon, he had twenty children.
 
 His brother Robert was father of ADAM LOFTUS (c. 1568-1643), who became
 lord chancellor of Ireland in 1619, and in 1622 was created Viscount
-Loftus of Ely, King's county, in the peerage of Ireland. Lord Loftus
+Loftus of [[Ely]], King's county, in the peerage of Ireland. Lord Loftus
 came into violent conflict with the lord deputy, Viscount Falkland, in
 1624; and at a later date his quarrel with Strafford was still more
-fierce. One of the articles in Strafford's impeachment was based on his
+fierce. One of the articles in Strafford's [[Impeachment|impeachment]] was based on his
 dealings with Loftus. The title, which became extinct on the death of
 his grandson, the 3rd viscount, in 1725 (when the family estate of
 Monasterevan, re-named Moore Abbey, passed to his daughter's son Henry,
-4th earl of Drogheda), was re-granted in 1756 to his cousin Nicholas
+4th earl of Drogheda), was re-granted in 1756 to his [[Cousin|cousin]] Nicholas
 Loftus, a lineal descendant of the archbishop. It again became extinct
 more than once afterwards, but was on each occasion revived in favour of
 a descendant through the female line; and it is now held by the marquis

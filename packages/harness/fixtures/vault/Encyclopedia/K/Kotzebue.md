@@ -1,24 +1,24 @@
 # Kotzebue
 
-KOTZEBUE, AUGUST FRIEDRICH FERDINAND VON (1761-1819), German dramatist,
+KOTZEBUE, AUGUST [[Friedrich|FRIEDRICH]] [[Ferdinand|FERDINAND]] VON (1761-1819), German dramatist,
 was born on the 3rd of May, 1761, at Weimar. After attending the
 gymnasium of his native town, he went in his sixteenth year to the
-university of Jena, and afterwards studied about a year in Duisburg. In
+university of [[Jena]], and afterwards studied about a year in [[Duisburg]]. In
 1780 he completed his legal course and was admitted an advocate. Through
 the influence of Graf Görtz, Prussian ambassador at the Russian court,
 he became secretary of the governor-general of St Petersburg. In 1783 he
-received the appointment of assessor to the high court of appeal in
+received the appointment of [[Assessor|assessor]] to the high court of appeal in
 Reval, where he married the daughter of a Russian lieutenant-general. He
 was ennobled in 1785, and became president of the magistracy of the
-province of Esthonia. In Reval he acquired considerable reputation by
+province of [[Esthonia]]. In Reval he acquired considerable reputation by
 his novels, _Die Leiden der Ortenbergischen Familie_ (1785) and
 _Geschichte meines Vaters_ (1788), and still more by the plays _Adelheid
 von Wulfingen_ (1789), _Menschenhass und Reue_ (1790) and _Die Indianer
 in England_ (1790). The good impression produced by these works was,
 however, almost effaced by a cynical dramatic satire, _Doktor Bahrdt mit
-der eisernen Stirn_, which appeared in 1790 with the name of Knigge on
+der eisernen Stirn_, which appeared in 1790 with the name of [[Knigge]] on
 the title-page. After the death of his first wife Kotzebue retired from
-the Russian service, and lived for a time in Paris and Mainz; he then
+the Russian service, and lived for a time in Paris and [[Mainz]]; he then
 settled in 1795 on an estate which he had acquired near Reval and gave
 himself up to literary work. Within a few years he published six volumes
 of miscellaneous sketches and stories (_Die jüngsten Kinder meiner
@@ -33,7 +33,7 @@ Petersburg, and on his journey thither he was, for some unknown reason,
 arrested at the frontier and transported to Siberia. Fortunately he had
 written a comedy which flattered the vanity of the emperor Paul I.; he
 was consequently speedily brought back, presented with an estate from
-the crown lands of Livonia, and made director of the German theatre in
+the [[Crown Land|crown lands]] of Livonia, and made director of the German theatre in
 St Petersburg. He returned to Germany when the emperor Paul died, and
 again settled in Weimar; he found it, however, as impossible as ever to
 gain a footing in literary society, and turned his steps to Berlin,
@@ -41,14 +41,14 @@ where in association with Garlieb Merkel (1769-1850) he edited _Der
 Freimütige_ (1803-1807) and began his _Almanach dramatischer Spiele_
 (1803-1820). Towards the end of 1806 he was once more in Russia, and in
 the security of his estate in Esthonia wrote many satirical articles
-against Napoleon in his journals _Die Biene_ and _Die Grille_. As
+against Napoleon in his journals _Die Biene_ and _Die [[Grille]]_. As
 councillor of state he was attached in 1816 to the department for
 foreign affairs in St Petersburg, and in 1817 went to Germany as a kind
 of spy in the service of Russia, with a salary of 15,000 roubles. In a
 weekly journal (_Literarisches Wochenblatt_) which he published in
 Weimar he scoffed at the pretensions of those Germans who demanded free
 institutions, and became an object of such general dislike that he was
-obliged to move to Mannheim. He was especially detested by the young
+obliged to move to [[Mannheim]]. He was especially detested by the young
 enthusiasts for liberty, and one of them, Karl Ludwig Sand, a
 theological student, stabbed him, in Mannheim, on the 23rd of March
 1819. Sand was executed, and the government made his crime an excuse for
@@ -67,13 +67,13 @@ less to any conspicuous literary or poetic ability than to an
 extraordinary facility in the invention of effective situations; he
 possessed, as few German playwrights before or since, the unerring
 instinct for the theatre; and his influence on the _technique_ of the
-modern drama from Scribe to Sardou and from Bauernfeld to Sudermann is
+modern [[Drama|drama]] from Scribe to Sardou and from [[Bauernfeld]] to Sudermann is
 unmistakable. Kotzebue is to be seen to best advantage in his comedies,
 such as _Der Wildfang_, _Die beiden Klingsberg_ and _Die deutschen
 Kleinstädter_, which contain admirable genre pictures of German life.
 These plays held the stage in Germany long after the once famous
 _Menschenhass und Reue_ (known in England as _The Stranger_), _Graf
-Benjowsky_, or ambitious exotic tragedies like _Die Sonnenjungfrau_ and
+Benjowsky_, or ambitious [[Exotic|exotic]] tragedies like _Die Sonnenjungfrau_ and
 _Die Spanier in Peru_ (which Sheridan adapted as _Pizarro_) were
 forgotten.
 

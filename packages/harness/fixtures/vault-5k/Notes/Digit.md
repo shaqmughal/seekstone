@@ -17,7 +17,7 @@ of an eclipse.
 
 
 
-DIGITALIS. The leaves of the foxglove (q.v.), gathered from wild plants
+DIGITALIS. The leaves of the [[Foxglove|foxglove]] (q.v.), gathered from wild plants
 when about two-thirds of their flowers are expanded, deprived usually
 of the petiole and the thicker part of the midrib, bitter taste; and to
 preserve their properties they must be kept excluded from light in
@@ -27,7 +27,7 @@ their greater roughness, their less divided margins, and their odour
 when rubbed; also with the leaves of _Symphytum officinale_, comfrey,
 and of _Verbascum Thapsus_, great mullein, which unlike those of the
 foxglove have woolly upper and under surfaces. The earliest known
-descriptions of the foxglove are those given by Leonhard Fuchs and
+descriptions of the foxglove are those given by Leonhard [[Fuchs]] and
 Tragus about the middle of the 16th century, but its virtues were
 doubtless known to herbalists at a much remoter period. J. Gerarde, in
 his _Herbal_ (1597), advocates the use of foxglove for a variety of
@@ -87,7 +87,7 @@ the organ, so that its internal capacity is reduced. The bearing of this
 fact on cases of cardiac dilatation is evident. In larger doses a
 remarkable sequel to these actions may be observed. The cardiac
 contractions become irregular, the ventricle assumes curious
-shapes--"hour-glass," &c.--becomes very pale and bloodless, and finally
+shapes--"[[Hour-Glass|hour-glass]]," &c.--becomes very pale and bloodless, and finally
 the heart stops in a state of spasm, which shortly afterwards becomes
 rigor-mortis. Before this final change the heart may be started again by
 the application of a soluble potassium salt, or by raising the fluid
@@ -134,7 +134,7 @@ to perform. This formula includes the vast majority of cardiac cases.
 The drug is contra-indicated in all cases where the heart is already
 beating too slowly; in aortic incompetence--where the prolongation of
 diastole increases the amount of the blood that regurgitates through the
-incompetent valve; in chronic Bright's disease and in fatty degeneration
+incompetent valve; in chronic [[Bright'S Disease|Bright's disease]] and in fatty degeneration
 of the heart--since nothing can cause fat to become contractile.
 
 ## References

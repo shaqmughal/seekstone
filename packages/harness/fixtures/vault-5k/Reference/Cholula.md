@@ -16,7 +16,7 @@ neighbour. At the time of the Spanish Conquest, Cholula--then known as
 Chololan--was a large and important town, consecrated to the worship of
 the god Quetzalcoatl, who had here one of the most imposing temples in
 Anahuac, built on the summit of a truncated pyramid, the largest of its
-kind in the world. This pyramid, constructed of sun-dried bricks and
+kind in the world. This pyramid, constructed of sun-dried [[Brick|bricks]] and
 earth, 177 ft. high, and covering an area of nearly 45 acres, is the
 most conspicuous object in the town and is surmounted by a chapel
 dedicated to _Nuestra Señora de los Remedios_. A corner of the lower

@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hammerbeam
 
 # Hammerbeam Roof
 
-HAMMERBEAM ROOF, in architecture, the name given to a Gothic open timber
+HAMMERBEAM ROOF, in architecture, the name given to a [[Gothic]] open timber
 roof, of which the finest example is that over Westminster Hall
 (1395-1399). In order to give greater height in the centre, the ordinary
 tie beam is cut through, and the portions remaining, known as
@@ -22,7 +22,7 @@ the paving of the hall to the hammerbeam is 40 ft., and to the underside
 of the collar beam 63 ft. 6 in., so that an additional height in the
 centre of 23 ft. 6 in. has been gained. Other important examples of
 hammerbeam roofs exist over the halls of Hampton Court and Eltham
-palaces, and there are numerous examples of smaller dimensions in
+palaces, and there are numerous examples of smaller [[Dimension|dimensions]] in
 churches throughout England and particularly in the eastern counties.
 The ends of the hammerbeams are usually decorated with winged angels
 holding shields; the curved braces and beams are richly moulded, and the

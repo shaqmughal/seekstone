@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Majesty"
 # Majesty
 
 MAJESTY (Fr. _majesté_; Lat. _majestas_, grandeur, greatness, from the
-base _mag-_, as in _magnus_, great, _major_, greater, &c.), dignity,
+base _mag-_, as in _magnus_, great, _[[Major|major]]_, greater, &c.), dignity,
 greatness, a term especially used to express the dignity and power of a
 sovereign. This application is to be traced to the use of _majestas_ in
 Latin to express the supreme sovereign dignity of the Roman state, the
@@ -18,20 +18,20 @@ modern law and usage of _laesa majestas, lèse majesté,
 Majestätsbeleidigung_, see TREASON.) From the republic _majestas_ was
 transferred to the emperors, and the _majestas populi Romani_ became the
 _majestas imperii_, and _augustalis majestas_ is used as a term to
-express the sovereign person of the emperor. Honorius and Theodosius
+express the sovereign person of the emperor. [[Honorius]] and Theodosius
 speak of themselves in the first person as _nostra majestas_. The term
 "majesty" was strictly confined in the middle ages to the successors of
-the Roman emperors in the West, and at the treaty of Cambrai (1529) it
+the Roman emperors in the West, and at the treaty of [[Cambrai]] (1529) it
 is reserved for the emperor Charles V. Later the word is used of kings
 also, and the distinction is made between imperial majesty (_caesareana
 majestas_) and kingly or royal majesty. From the 16th century dates the
 application of "Most Christian and Catholic Majesty" to the kings of
 France, of "Catholic Majesty" to the kings of Spain, of "Most Faithful
-Majesty" to the kings of Portugal, and "Apostolic Majesty" to the kings
+Majesty" to the kings of Portugal, and "[[Apostolic Majesty]]" to the kings
 of Hungary. In England the use is generally assigned to the reign of
 Henry VIII., but it is found, though not in general usage, earlier; thus
 the _New English Dictionary_ quotes from an _Address of the Kings Clerks
-to Henry II._ in 1171 (Materials for the History of Archbishop Becket,
+to Henry II._ in 1171 (Materials for the History of Archbishop [[Becket]],
 vii. 471, Rolls Series, 1885), where the king is styled _vestra
 majestas_, and Selden (_Titles of Honour_, part i. ch. 7, p. 98, ed.
 1672) finds many early uses in letters to Edward I., in charters of
@@ -55,7 +55,7 @@ an aureole.
 
 MAJLÁTH, JÁNOS, or JOHN, COUNT (1786-1855), Hungarian historian and
 poet, was born at Pest on the 5th of October 1786. First educated at
-home, he subsequently studied philosophy at Eger (Erlau) and law at Györ
+home, he subsequently studied philosophy at [[Eger]] (Erlau) and law at Györ
 (Raab), his father, Count Joseph Majláth, an Austrian minister of state,
 eventually obtaining for him an appointment in the public service.
 Majláth devoted himself to historical research and the translation into
@@ -72,7 +72,7 @@ south-west of Munich, on the 3rd of January 1855.
 
   Of his historical works the most important are the _Geschichte der
   Magyaren_ (Vienna, 1828-1831, 5 vols.; 2nd ed., Ratisbon, 1852-1853)
-  and his _Geschichte des österreichischen Kaiserstaats_ (Hamburg,
+  and his _Geschichte des österreichischen Kaiserstaats_ ([[Hamburg]],
   1834-1850, 5 vols.). Specially noteworthy among his metrical
   translations from the Hungarian are the _Magyarische Gedichte_
   (Stuttgart and Tübingen, 1825); and _Himfy's auserlesene Liebeslieder_

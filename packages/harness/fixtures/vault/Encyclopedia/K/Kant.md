@@ -2,7 +2,7 @@
 
 KANT, IMMANUEL (1724-1804), German philosopher, was born at Konigsberg
 on the 22nd of April 1724. His grandfather was an emigrant from
-Scotland, and the name Cant is not uncommon in the north of Scotland,
+Scotland, and the name [[Cant]] is not uncommon in the north of Scotland,
 whence the family is said to have come. His father was a saddler in
 Konigsberg, then a stronghold of Pietism, to the strong influence of
 which Kant was subjected in his early years. In his tenth year he was
@@ -10,7 +10,7 @@ entered at the Collegium Fredericianum with the definite view of
 studying theology. His inclination at this time was towards classics,
 and he was recognized, with his school-fellow, David Ruhnken, as among
 the most promising classical scholars of the college. His taste for the
-greater Latin authors, particularly Lucretius, was never lost, and he
+greater Latin authors, particularly [[Lucretius]], was never lost, and he
 acquired at school an unusual facility in Latin composition. With Greek
 authors he does not appear to have been equally familiar. During his
 university course, which began in 1740, Kant was principally attracted
@@ -23,7 +23,7 @@ university studies were much disturbed by poverty. His father died in
 private tutor. Although he disliked the life and was not specially
 qualified for it--as he used to say regarding the excellent precepts of
 his _Padagogik_, he was never able to apply them--yet he added to his
-other accomplishments a grace and polish which he displayed ever
+other accomplishments a [[Grace|grace]] and polish which he displayed ever
 afterwards to a degree somewhat unusual in a philosopher by profession.
 
 In 1755 Kant became tutor in the family of Count Kayserling. By the
@@ -54,16 +54,16 @@ rapid progress in Germany. In the course of ten or twelve years from the
 publication of the _Kritik of Pure Reason_, it was expounded in all the
 leading universities, and it even penetrated into the schools of the
 Church of Rome. Such men as J. Schulz in Konigsberg, J. G. Kiesewetter
-in Berlin, Jakob in Halle, Born and A. L. Heydenreich in Leipzig, K. L.
-Reinhold and E. Schmid in Jena, Buhle in Gottingen, Tennemann in
-Marburg, and Snell in Giessen, with many others, made it the basis of
+in Berlin, [[Jakob]] in [[Halle]], Born and A. L. Heydenreich in Leipzig, K. L.
+Reinhold and E. Schmid in [[Jena]], [[Buhle]] in Gottingen, Tennemann in
+[[Marburg]], and Snell in Giessen, with many others, made it the basis of
 their philosophical teaching, while theologians like Tieftrunk,
 Staudlin, and Ammon eagerly applied it to Christian doctrine and
 morality. Young men flocked to Konigsberg as to a shrine of philosophy.
 The Prussian Government even undertook the expense of their support.
 Kant was hailed by some as a second Messiah. He was consulted as an
 oracle on all questions of casuistry--as, for example, on the lawfulness
-of inoculation for the small-pox. This universal homage for a long time
+of inoculation for the small-pox. This universal [[Homage|homage]] for a long time
 left Kant unaffected; it was only in his later years that he spoke of
 his system as the limit of philosophy, and resented all further
 progress. He still pursued his quiet round of lecturing and authorship,
@@ -92,12 +92,12 @@ rationalizing style of the peculiarities of Christianity, was forbidden.
 Kant, thus shut out from Berlin, availed himself of his local privilege,
 and, with the sanction of the theological faculty of his own university,
 published the full work in Konigsberg. The Government, probably
-influenced as much by hatred and fear of the French Revolution, of which
+influenced as much by hatred and fear of the [[French Revolution]], of which
 Kant was supposed to be a partisan, as by love of orthodoxy, resented
-the act; and a secret cabinet order was received by him intimating the
+the act; and a secret [[Cabinet|cabinet]] order was received by him intimating the
 displeasure of the king, Frederick William II., and exacting a pledge
 not to lecture or write at all on religious subjects in future. With
-this mandate Kant, after a struggle, complied, and kept his engagement
+this [[Mandate|mandate]] Kant, after a struggle, complied, and kept his engagement
 till 1797, when the death of the king, according to his construction of
 his promise, set him free. This incident, however, produced a very
 unfavourable effect on his spirits. He withdrew in 1794 from society;
@@ -105,10 +105,10 @@ next year he gave up all his classes but one public lecture on logic or
 metaphysics; and in 1797, before the removal of the interdict on his
 theological teaching, he ceased altogether his public labours, after an
 academic course of forty-two years. He previously, in the same year,
-finished his treatises on the _Metaphysics of Ethics_, which, with his
+finished his treatises on the _Metaphysics of [[Ethics]]_, which, with his
 _Anthropology_, completed in 1798, were the last considerable works that
 he revised with his own hand. His _Lectures on Logic_, on _Physical
-Geography_, on _Paedagogics_, were edited during his lifetime by his
+[[Geography]]_, on _Paedagogics_, were edited during his lifetime by his
 friends and pupils. By way of asserting his right to resume theological
 disquisition, he also issued in 1798 his _Strife of the Faculties_, in
 which all the strongest points of his work on religion were urged
@@ -131,7 +131,7 @@ his decease, with a great effort he thanked his medical attendant for
 his visits in the words, "I have not yet lost my feeling for humanity."
 On the 12th of February 1804 he died, having almost completed his
 eightieth year. His stature was small, and his appearance feeble. He was
-little more than five feet high; his breast was almost concave, and,
+little more than five feet high; his [[Breast|breast]] was almost concave, and,
 like Schleiermacher, he was deformed in the right shoulder. His senses
 were quick and delicate; and, though of weak constitution, he escaped
 by strict regimen all serious illness.
@@ -141,7 +141,7 @@ married, he kept the habits of his studious youth to old age. His
 man-servant, who awoke him summer and winter at five o'clock, testified
 that he had not once failed in thirty years to respond to the call.
 After rising he studied for two hours, then lectured other two, and
-spent the rest of the forenoon, till one, at his desk. He then dined at
+spent the rest of the forenoon, till one, at his [[Desk|desk]]. He then dined at
 a restaurant, which he frequently changed, to avoid the influx of
 strangers, who crowded to see and hear him. This was his only regular
 meal; and he often prolonged the conversation till late in the
@@ -155,21 +155,21 @@ with the families of two English merchants of the name of Green and
 Motherby, where he found many opportunities of meeting ship-captains,
 and other travelled persons, and thus gratifying his passion for
 physical geography. This social circle included also the celebrated J.
-G. Hamann, the friend of Herder and Jacobi, who was thus a mediator
+G. [[Hamann]], the friend of Herder and [[Jacobi]], who was thus a mediator
 between Kant and these philosophical adversaries.
 
 Kant's reading was of the most extensive and miscellaneous kind. He
 cared comparatively little for the history of speculation, but his
 acquaintance with books of science, general history, travels and belles
 lettres was boundless. He was well versed in English literature, chiefly
-of the age of Queen Anne, and had read English philosophy from Locke to
+of the age of Queen [[Anne]], and had read English philosophy from [[Locke]] to
 Hume, and the Scottish school. He was at home in Voltaire and Rousseau,
 but had little or no acquaintance with the French sensational
 philosophy. He was familiar with all German literature up to the date of
 his _Kritik_, but ceased to follow it in its great development by Goethe
 and Schiller. It was his habit to obtain books in sheets from his
 publishers Kanter and Nicolovius; and he read over for many years all
-the new works in their catalogue, in order to keep abreast of universal
+the new works in their [[Catalogue|catalogue]], in order to keep abreast of universal
 knowledge. He was fond of newspapers and works on politics; and this was
 the only kind of reading that could interrupt his studies in philosophy.
 
@@ -180,22 +180,22 @@ delivered an extemporaneous address, opening up the subject by partial
 glimpses, and with many anecdotes or familiar illustrations, till a
 complete idea of it was presented. His voice was extremely weak, but
 sometimes rose into eloquence, and always commanded perfect silence.
-Though kind to his students, he refused to remit their fees, as this, he
+Though kind to his students, he refused to remit their [[Fee|fees]], as this, he
 thought, would discourage independence. It was another principle that
 his chief exertions should be bestowed on the intermediate class of
 talent, as the geniuses would help themselves, and the dunces were
 beyond remedy.
 
-Simple, honourable, truthful, kind-hearted and high-minded as Kant was
+Simple, [[Honourable|honourable]], truthful, kind-hearted and high-minded as Kant was
 in all moral respects, he was somewhat deficient in the region of
-sentiment. He had little enthusiasm for the beauties of nature, and
+sentiment. He had little [[Enthusiasm|enthusiasm]] for the beauties of nature, and
 indeed never sailed out into the Baltic, or travelled more than 40 miles
 from Konigsberg. Music he disregarded, and all poetry that was more than
 sententious prose. His ethics have been reproached with some justice as
 setting up too low an ideal for the female sex. Though faithful in a
 high degree to the duties of friendship, he could not bear to visit his
 friends in sickness, and after their death he repressed all allusion to
-their memory. His engrossing intellectual labours no doubt tended
+their memory. His [[Engrossing|engrossing]] intellectual labours no doubt tended
 somewhat to harden his character; and in his zeal for rectitude of
 purpose he forgot the part which affection and sentiment must ever play
 in the human constitution.
@@ -211,7 +211,7 @@ THE WRITINGS OF KANT
 
   No other thinker of modern times has been throughout his work so
   penetrated with the fundamental conceptions of physical science; no
-  other has been able to hold with such firmness the balance between
+  other has been able to hold with such firmness the [[Balance|balance]] between
   empirical and speculative ideas. Beyond all question much of the
   influence which the critical philosophy has exercised and continues to
   exercise must be ascribed to this characteristic feature in the
@@ -232,32 +232,32 @@ THE WRITINGS OF KANT
   have learned to distinguish accurately the two quantities which are
   vaguely included under the expression _amount of force_, and
   consequently have been able to show in what each party was correct and
-  in what it was in error. Kant's essay, with some fallacious
+  in what it was in [[Error|error]]. Kant's essay, with some fallacious
   explanations and divisions, criticizes acutely the arguments of the
   Leibnitzians, and concludes with an attempt to show that both modes of
   expression are correct when correctly limited and interpreted.
 
   2. _Whether the Earth in its Revolution has experienced some Change
   since the Earliest Times_ (1754; ed. and trans., W. Hastie, 1900,
-  _Kant's Cosmogony_; cf. Lord Kelvin in _The Age of the Earth_, 1897,
+  _Kant's [[Cosmogony]]_; cf. Lord [[Kelvin]] in _The Age of the Earth_, 1897,
   p. 7). In this brief essay Kant throws out a notion which has since
-  been carried out, in ignorance of Kant's priority, by Delaunay (1865)
+  been carried out, in [[Ignorance|ignorance]] of Kant's priority, by [[Delaunay]] (1865)
   and Adams. He points out that the action of the moon in raising the
   waters of the earth must have a secondary effect in the slight
   retardation of the earth's motion, and refers to a similar cause the
   fact that the moon turns always the same face to the earth.
 
-  3. _Allgemeine Naturgeschichte und Theorie des Himmels_, published
+  3. _Allgemeine Naturgeschichte und Theorie des [[Himmel|Himmels]]_, published
   anonymously in 1755 (4th ed. 1808; republished H. Ebert, 1890). In
   this remarkable work Kant, proceeding from the Newtonian conception of
   the solar system, extends his consideration to the entire sidereal
   system, points out how the whole may be mechanically regarded, and
   throws out the important speculation which has since received the
-  title of the nebular hypothesis. In some details, such e.g. as the
+  title of the nebular [[Hypothesis|hypothesis]]. In some details, such e.g. as the
   regarding of the motion of the entire solar system as portion of the
   general cosmical mechanism, he had predecessors, among others Thomas
   Wright of Durham, but the work as a whole contains a wonderfully acute
-  anticipation of much that was afterwards carried out by Herschel and
+  anticipation of much that was afterwards carried out by [[Herschel]] and
   Laplace. The hypothesis of the original nebular condition of the
   system, with the consequent explanation of the great phenomena of
   planetary formations and movements of the satellites and rings, is
@@ -279,7 +279,7 @@ THE WRITINGS OF KANT
   brief tract, Kant, apparently in entire ignorance of the explanation
   given in 1735 by Hadley, points out how the varying velocity of
   rotation of the successive zones of the earth's surface furnishes a
-  key to the phenomena of periodic winds. His theory is in almost entire
+  [[Key|key]] to the phenomena of periodic winds. His theory is in almost entire
   agreement with that now received. See the parallel statements from
   Kant's tract and Dove's essay on the influence of the rotation of the
   earth on the flow of its atmosphere (1835), given in Zollner's work,
@@ -309,8 +309,8 @@ THE WRITINGS OF KANT
   general scientific conceptions. For more detailed treatment of his
   importance in science, reference may be made to Zollner's essay on
   "Kant and his Merits on Natural Science" contained in the work on the
-  _Nature of Comets_ (pp. 426-484); to Dietrich, _Kant and Newton_;
-  Schultze, _Kant and Darwin_; Reuschle's careful analysis of the
+  _Nature of [[Comet|Comets]]_ (pp. 426-484); to [[Dietrich]], _Kant and Newton_;
+  Schultze, _Kant and [[Darwin]]_; Reuschle's careful analysis of the
   scientific works in the _Deutsche Vierteljahrs-Schrift_ (1868); W.
   Hastie's introduction to _Kant's Cosmogony_ (1900), which summarizes
   criticism to that date; and articles in _Kant-Studien_ (1896 foll.).
@@ -348,7 +348,7 @@ THE WRITINGS OF KANT
   of the Fundamental Propositions of Natural Theology and Ethics."
 
   1766. _Traume eines Geistersehers, erlautert durch Traume der
-  Metaphysik_, "Dreams of a Ghost-seer (or Clairvoyant), explained by
+  Metaphysik_, "[[Dream|Dreams]] of a Ghost-seer (or Clairvoyant), explained by
   the Dreams of Metaphysic" (Eng. trans. E. F. Goerwitz, with introd. by
   F. Sewall, 1900).
 
@@ -368,12 +368,12 @@ THE WRITINGS OF KANT
   1783. _Prolegomena zu einer jeden kunftigen Metaphysik die als
   Wissenschaft wird auftreten konnen_, "Prolegomena to all Future
   Metaphysic which may present itself as Science" (ed. B. Erdmann, 1878;
-  Eng. trans. J. P. Mahaffy and J. H. Bernard, 2nd ed. 1889; Belfort
+  Eng. trans. J. P. Mahaffy and J. H. [[Bernard]], 2nd ed. 1889; Belfort
   Bax, 1883 and Paul Carus, 1902; and cf. M. Apel, _Kommentar zu Kants
   Prolegomena_, 1908).
 
   1784. _Idee zu einer allgemeinen Geschichte im weltburgerlicher
-  Absicht_, "Notion of a Universal History in a Cosmopolitan Sense."
+  Absicht_, "Notion of a Universal History in a [[Cosmopolitan]] Sense."
   With this may be coupled the review of Herder in 1785.
 
   1785. _Grundlegung zur Metaphysik der Sitten_, "Foundations of the
@@ -405,7 +405,7 @@ THE WRITINGS OF KANT
   der Theodicee_.
 
   1793. _Die Religion innerhalb der Grenzen der blossen Vernunft_,
-  "Religion within the Bounds of Reason only" (Eng. trans. J. W. Semple,
+  "Religion within the [[Bounds]] of Reason only" (Eng. trans. J. W. Semple,
   1838).
 
   1794. _Ueber Philosophie uberhaupt_, "On Philosophy generally," and
@@ -458,8 +458,8 @@ THE WRITINGS OF KANT
   philosophies, those of Leibnitz and English empiricism, applied in
   various directions to those problems which serve as tests of their
   truth and completeness; we note the appearance of the difficulties or
-  contradictions which manifest the one-sidedness or imperfection of the
-  principle applied; and we can trace the gradual growth of the new
+  contradictions which [[Manifest|manifest]] the one-sidedness or imperfection of the
+  principle applied; and we can trace the [[Gradual|gradual]] growth of the new
   conceptions which were destined, in the completed system, to take the
   place of the earlier method. To understand the Kantian work it is
   indispensable to trace the history of its growth in the mind of its
@@ -504,7 +504,7 @@ THE WRITINGS OF KANT
   relation between himself as one part of the system, and the system as
   a whole? This second inquiry is specifically metaphysical in bearing,
   and the kind of answer furnished to it by Leibnitz on the one hand, by
-  Berkeley on the other, is in fact prescribed or determined beforehand
+  [[Berkeley]] on the other, is in fact prescribed or determined beforehand
   by the fundamental conception of the individualist method with which
   both begin their investigations. So soon as we make clear to ourselves
   the essential nature of this method, we are able to discern the
@@ -514,9 +514,9 @@ THE WRITINGS OF KANT
   reflections.
 
   Consider, first, the application of the method on its psychological
-  side, as it appears in Locke. Starting with the assumption of
+  side, as it appears in Locke. Starting with the [[Assumption|assumption]] of
   conscious experience as the content or filling-in of the individual
-  mind, Locke proceeds to explain its genesis and nature by reference to
+  mind, Locke proceeds to explain its [[Genesis|genesis]] and nature by reference to
   the real universe of things and its mechanical operation upon the
   mind. The result of the interaction of mind, i.e. the individual mind,
   and the system of things, is conscious experience, consisting of
@@ -555,7 +555,7 @@ THE WRITINGS OF KANT
   further inquiry, though it is an error to suppose, as Kant seems to
   have supposed, that he regarded mathematical propositions as coming
   under this head (see HUME); with respect to the second, he finds
-  himself, and confesses that he finds himself, hopelessly at fault. No
+  himself, and confesses that he finds himself, hopelessly at [[Fault|fault]]. No
   real connexions between isolated objects of experience are perceived
   by us. No single matter of fact necessarily implies the existence of
   any other. In short, if the difficulty be put in its ultimate form, no
@@ -588,11 +588,11 @@ THE WRITINGS OF KANT
   obtrude themselves when the attempt is made to work out a consistent
   doctrine of cognition. For the whole mass of cognisable fact, the
   _mundus intelligibilis_, is contained _impliciter_ in each monad, and
-  the several modes of apprehension can only be regarded as so many
+  the several modes of [[Apprehension|apprehension]] can only be regarded as so many
   stages in the developing consciousness of the monad. Sense and
   understanding, real connexion of facts and analysis of notions, are
   not, therefore, distinct in kind, but differ only in degree. The same
-  fundamental axioms, the logical principles of identity and sufficient
+  fundamental [[Axiom|axioms]], the logical principles of identity and sufficient
   reason, are applicable in explanation of all given propositions. It is
   true that Leibnitz himself did not work out any complete doctrine of
   knowledge, but in the hands of his successors the theory took definite
@@ -631,7 +631,7 @@ THE WRITINGS OF KANT
   fundamental question to which the _Kritik_ is an answer. What is the
   nature of the distinction between knowledge gained by analysis of
   notions and knowledge of matters of fact? Kant seems never to have
-  been satisfied with the Wolffian identification of logical axioms and
+  been satisfied with the Wolffian [[Identification|identification]] of logical axioms and
   of the principle of sufficient reason. The tract on the _False
   Subtlety of the Four Syllogistic Figures_, in which the view of
   thought or reason as analytic is clearly expressed, closes with the
@@ -641,7 +641,7 @@ THE WRITINGS OF KANT
   judgments, it is said, abound in our experience. They are, in fact, as
   Kant presently perceived, the foundations for all judgments regarding
   real existence. It was impossible that the question regarding their
-  nature and legitimacy and their distinction from analytic judgments
+  nature and [[Legitimacy|legitimacy]] and their distinction from analytic judgments
   should not present itself to him. The three tracts belonging to the
   years 1763-1764 bring forward in the sharpest fashion the essential
   opposition between the two classes of judgments. In the _Essay on
@@ -730,7 +730,7 @@ THE WRITINGS OF KANT
   thinker, the difficulty raised by Hume does not seem to occur to him.
   He still appears to think that experience does warrant the employment
   of such notions, and when there is taken into account his
-  correspondence with Lambert during the next few years, one would be
+  correspondence with [[Lambert]] during the next few years, one would be
   inclined to say that the _Architektonik_ of the latter represents most
   completely Kant's idea of philosophy.
 
@@ -767,7 +767,7 @@ THE WRITINGS OF KANT
   understanding is not its only use. Much more important is the _real_
   use, by which are produced the pure notions whereby we think things as
   they are. These pure notions are the laws of the operation of the
-  intellect; they are _leges intellectus_.
+  [[Intellect|intellect]]; they are _[[Leg|leges]] intellectus_.
 
   Apart, then, from the expanded treatment of space and time as
   subjective forms, we find in the _Dissertation_ little more than the
@@ -839,7 +839,7 @@ THE WRITINGS OF KANT
   which viewed the intellect itself as somehow furnished with the means
   of pure, rational cognition. He now discovered that Hume's sceptical
   analysis of the notion of cause was really the treatment of one
-  typical or crucial instance of the much more general problem. If
+  typical or [[Crucial|crucial]] instance of the much more general problem. If
   experience, says Hume, consists solely of states of mind somehow given
   to us, each of which exists as an effect, and therefore as distinct
   from others, with what right do we make the common assumption that
@@ -922,7 +922,7 @@ THE WRITINGS OF KANT
   and a posteriori, into pure and empirical, necessary and contingent.
   The individual as an agent, conscious of universal moral law, is yet
   regarded as in a measure opposed to experience, and the Kantian
-  ethical code remains purely formal. The ultimate relation between
+  ethical [[Code|code]] remains purely formal. The ultimate relation between
   intelligence and natural fact, expressed in the notion of end, is
   thought as problematic or contingent. The difficulties or obscurities
   of the Kantian system, of which the above are merely the more
@@ -940,7 +940,7 @@ THE WRITINGS OF KANT
   Judgment_, with the more important of the minor works, the _Metaphysic
   of Nature_ and the _Metaphysic of Ethics_. It would be necessary,
   also, in any such expanded treatment, to bring out clearly the Kantian
-  classification of the philosophical sciences, and to indicate the
+  [[Classification|classification]] of the philosophical sciences, and to indicate the
   relation between the critical or transcendental investigation of the
   several faculties and the more developed sciences to which that
   investigation serves as introduction. As any detailed statement of the
@@ -1048,7 +1048,7 @@ THE WRITINGS OF KANT
   in knowledge, viz. sense and understanding. Great ambiguity is the
   natural result of this procedure. For it was not possible for Kant to
   avoid the misleading connotation of the terms employed by him. In
-  strictness, sense, understanding, imagination and reason ought to have
+  strictness, sense, understanding, [[Imagination|imagination]] and reason ought to have
   had their functions defined in close relation to the elements of
   knowledge with which they are severally connected, and as these
   elements have no existence as separate facts, but only as factors in
@@ -1092,7 +1092,7 @@ THE WRITINGS OF KANT
   a separate, independent object, and use our predicates transcendently.
   Kant is not always in his language faithful to his view of the
   sense-manifold, but the theory as a whole, together with his own
-  express definitions, is unmistakable. On the origin of the data of
+  express [[Definition|definitions]], is unmistakable. On the origin of the data of
   sense, Kant's remarks are few and little satisfactory. He very
   commonly employs the term _affection_ of the faculty of sense as
   expressing the mode of origin, but offers no further explanation of a
@@ -1105,7 +1105,7 @@ THE WRITINGS OF KANT
   which plays so important a part in modern psychology--between the
   subjective results of sense affection and the character of the
   objective conditions of such affection. Kant has pointedly declared
-  that it would be a gross absurdity to suppose that in his view
+  that it would be a [[Gross|gross]] absurdity to suppose that in his view
   separate, distinct things-in-themselves existed corresponding to the
   several objects of perception. And, finally, it is not at all
   difficult to understand why Kant should say that the affection of
@@ -1129,7 +1129,7 @@ THE WRITINGS OF KANT
   Kant in the universal forms under which alone sense-phenomena manifest
   themselves in experience. These universal forms of perception, space
   and time, are necessary, a priori, and in characteristic features
-  resembling intuitions, not notions. They occupy, therefore, a peculiar
+  resembling [[Intuition|intuitions]], not notions. They occupy, therefore, a peculiar
   position, and one section of the _Kritik_, the _Aesthetik_, is
   entirely devoted to the consideration of them. It is important to
   observe that it is only through the a priori character of these
@@ -1166,7 +1166,7 @@ THE WRITINGS OF KANT
   proceeding from the ordinary current view of sense-experience, has
   found these remaining as residuum after analysis. The relation in
   which they stand to the categories or pure notions is ambiguous; and,
-  when Kant has to consider the fashion in which category and data of
+  when Kant has to consider the fashion in which [[Category|category]] and data of
   sense are to be brought together, he merely places side by side as a
   priori elements the pure connective notions and the pure forms of
   perception, and finds it, apparently, only a matter of contingent
@@ -1180,7 +1180,7 @@ THE WRITINGS OF KANT
   which such combination takes place. The forms of intellectual function
   Kant proceeds to enumerate with the aid of the commonly received
   logical doctrines. For this reference to logic he has been severely
-  blamed, but the precise nature of the debt due to the commonly
+  blamed, but the precise nature of the [[Debt|debt]] due to the commonly
   accepted logical classification is very generally misconceived.
   Synthetic combination, Kant points out, is formally expressed in a
   judgment, which is the act of uniting representations. At the
@@ -1237,7 +1237,7 @@ THE WRITINGS OF KANT
   cognition at all, is analytically evident; but the peculiarity is that
   the ego must be conscious of its own unity and identity, and this
   unity of self-consciousness is only possible in relation to difference
-  not contained in the ego but given to it. The unity of apperception,
+  not contained in the ego but given to it. The unity of [[Apperception|apperception]],
   then, as Kant calls it, is only possible in relation to synthetic
   unity of experience itself, and the forms of this synthetic unity, the
   categories, are, therefore, on the one hand, necessary as forms in
@@ -1438,7 +1438,7 @@ THE WRITINGS OF KANT
   of parts of the world, we find that reason is landed in a peculiar
   difficulty. Any solution that can be given is too narrow for the
   demands of reason and too wide for the restrictions of understanding.
-  The transcendent employment of the categories leads to antinomy, or
+  The transcendent employment of the categories leads to [[Antinomy|antinomy]], or
   equally balanced statements of apparently contradictory results. Due
   attention to the relation between understanding and reason enables us
   to solve the antinomies and to discover their precise origin and
@@ -1508,7 +1508,7 @@ THE WRITINGS OF KANT
   intelligent author or ground of both. These conditions, the postulates
   of practical reason, are the concrete expressions of the three
   transcendental ideas, and in them we have the full significance of the
-  ideas for reason. Immortality of the soul, positive freedom of will,
+  ideas for reason. [[Immortality]] of the soul, positive freedom of will,
   and the existence of an intelligent ground of things are speculative
   ideas practically warranted, though theoretically neither demonstrable
   nor comprehensible.
@@ -1606,11 +1606,11 @@ THE WRITINGS OF KANT
 
   BIBLIOGRAPHY.--Editions and works of reference are exceedingly
   numerous. Since 1896 an indispensable guide is the periodical review
-  _Kantstudien_ (Hamburg and Berlin, thrice yearly), edited by Hans
+  _Kantstudien_ ([[Hamburg]] and Berlin, thrice yearly), edited by Hans
   Vaihinger and Bruno Bauch, which contains admirable original articles
   and notices of all important books on Kant and Kantianism. It has
   reproduced a number of striking portraits of Kant. For books up to
-  1887 see Erich Adickes in _Philosophical Review_ (Boston, 1892 foll.);
+  1887 see Erich Adickes in _Philosophical Review_ ([[Boston]], 1892 foll.);
   for 1890-1894 R. Reicke's _Kant Bibliographie_ (1895). See also in
   general the latest edition of Ueberweg's _Grundriss der Geschichte der
   Philosophie_.
@@ -1630,7 +1630,7 @@ THE WRITINGS OF KANT
   Vernunft_ by B. Erdmann (see also his _Beitrage zur Geschichte und
   Revision des Textes von Kants Kritik der reinen Vernunft_ (1900). A
   useful selection (in English) is that of John Watson, _The Philosophy
-  of Kant_ (Glasgow, 1888).
+  of Kant_ ([[Glasgow]], 1888).
 
   TRANSLATIONS.--There are translations in all the principal languages.
   The chief English translators are J. P. Mahaffy, W. Hastie, T. K.
@@ -1643,21 +1643,21 @@ THE WRITINGS OF KANT
   1804); Stuckenberg, _The Life of Immanuel Kant_ (1882); Rudolf Reicke,
   _Kants Briefwechsel_ (1900). See also several of the critical works
   below. On Kant's portraits see D. Minden, _Ueber Portraits und
-  Abbildungen Imm. Kants_ (1868) and cf. frontispieces of _Kantstudien_
+  Abbildungen Imm. Kants_ (1868) and cf. [[Frontispiece|frontispieces]] of _Kantstudien_
   (as above).
 
   CRITICAL (in alphabetical order of authors).--R. Adamson, _Philosophy
-  of Kant_ (1879; Germ. trans., 1880); Felix Adler, _A Critique of
+  of Kant_ (1879; Germ. trans., 1880); [[Felix]] Adler, _A Critique of
   Kant's Ethics_ (1908); S. Aicher, _Kants Begriff der Erkenntnis
   verglichen mit dem des Aristoteles_ (1907); M. Apel, _Immanuel Kant:
   Ein Bild seines Lebens und Denkens_ (1904); Arnoldt, _Kritische
-  Exkurse im Gebiete der Kantforschung_ (1894); C. Bache, "_Kants
+  Exkurse im Gebiete der Kantforschung_ (1894); C. [[Bache]], "_Kants
   Prinzip der Autonomie im Verhaltnis zur Idee des Reichs der Zwecke_"
   (_Kantstudien_, 1909); B. Bauch, _Luther und Kant_ (1904); Paul Boehm,
-  _Die vorkritischen Schriften Kants_ (1906); E. Caird, _Critical
+  _Die vorkritischen Schriften Kants_ (1906); E. [[Caird]], _Critical
   Philosophy of Kant_ (2 vols., 1889); Chalybaus, _Historische
   Entwickelung der spekulativen Philosophie von Kant bis Hegel_ (5th
-  ed., 1860); H. S. Chamberlain, _Immanuel Kant_ (1909); Cousin, _Lecons
+  ed., 1860); H. S. [[Chamberlain]], _Immanuel Kant_ (1909); [[Cousin]], _Lecons
   sur la philosophie de Kant_ (4th ed., 1864); B. Erdmann, _Immanuel
   Kant, Kants Kritizismus in der 1 und 2 Auflage der "Kritik der reinen
   Vernunft_" (1877); O. Ewald, _Kants kritischer Idealismus als
@@ -1666,7 +1666,7 @@ THE WRITINGS OF KANT
   Kant_ (4th ed., 1898-1899), _Die beiden Kantischen Schulen in Jena_
   (1862), and _Commentary on Kant's Kritik of Pure Reason_ (1878); F.
   Forster, _Der Entwicklungsgang der Kantischen Ethik bis zur Kritik der
-  reinen Vernunft_ (1893); A. Fouillee, _Le Moralisme de Kant et
+  reinen Vernunft_ (1893); A. [[Fouillee]], _Le Moralisme de Kant et
   l'amoralisme contemporaine_ (1905); C. R. E. von Hartmann, _Kants
   Erkenntnistheorie und Metaphysik in den vier Perioden ihrer
   Entwickelung_ (1894); A. Hegler, _Die Psychologie in Kants Ethik_
@@ -1676,17 +1676,17 @@ THE WRITINGS OF KANT
   Entwickelungsgeschichte der Fichteschen Wissenschaftslehre aus der
   Kantischen Philosophie_ (1902); M. Kelly, _Kant's Philosophy as
   rectified by Schopenhauer_ (1909); W. Koppelmann, _I. Kant und die
-  Grundlagen der christlichen Religion_ (1890); M. Kronenberg, _Kant:
+  Grundlagen der christlichen Religion_ (1890); M. [[Kronenberg]], _Kant:
   Sein Leben und seine Lehre_ (1897; 3rd ed., 1905); E. Kuhnemann,
   _Kants und Schillers Begrundung der Aesthetik_ (1895) and _Die
   Kantischen Studien Schillers und die Komposition des Wallenstein_
-  (1889); H. Levy, _Kants Lehre vom Schematismus der reinen
+  (1889); H. [[Levy]], _Kants Lehre vom Schematismus der reinen
   Verstandesbegriffe_ (1901); Arthur O. Lovejoy, _Kant and the English
   Platonists_ (1908); J. P. Mahaffy, _Kant's Critical Philosophy for
   English Readers_ (1872-1874); W. Mengel, _Kants Begrundung der
   Religion_ (1900); A. Messer, _Kants Ethik_ (1904); H. Meyer-Benfey,
   _Herder und Kant_ (1904); Morris, _Kant's Critique of Pure Reason_
-  (Chicago, 1882); C. Oesterreich, _Kant und die Metaphysik_ (1906); F.
+  ([[Chicago]], 1882); C. Oesterreich, _Kant und die Metaphysik_ (1906); F.
   Paulsen, _Kant: Sein Leben und seine Lehre_ (1898; 4th ed., 1904; Eng.
   1902); Harold H. Prichard, _Kant's Theory of Knowledge_ (1909); A.
   Seth Pringle-Pattison, _The Development from Kant to Hegel_ (1882);
@@ -1721,7 +1721,7 @@ THE WRITINGS OF KANT
 
 FOOTNOTE:
 
-  [1] See further IDEALISM; METAPHYSICS; LOGIC, &c., where Kant's
+  [1] See further [[Idealism|IDEALISM]]; METAPHYSICS; LOGIC, &c., where Kant's
     relation to subsequent thought is discussed.
 
 ## See also

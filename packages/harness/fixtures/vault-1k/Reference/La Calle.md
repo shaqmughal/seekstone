@@ -43,7 +43,7 @@ novelist and dramatist, was born at the Château of Tolgou, near Sarlat
 Paris and entered the regiment of the guards, becoming in 1650
 gentleman-in-ordinary of the royal household. He died in 1663 in
 consequence of a kick from his horse. He was the author of several long
-heroic romances ridiculed by Boileau. They are: _Cassandre_ (10 vols.,
+[[Heroic Romances|heroic romances]] ridiculed by Boileau. They are: _Cassandre_ (10 vols.,
 1642-1650); _Cléopatre_ (1648); _Faramond_ (1661); and _Les Nouvelles,
 ou les Divertissements de la princesse Alcidiane_ (1661) published under
 his wife's name, but generally attributed to him. His plays lack the

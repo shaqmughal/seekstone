@@ -23,7 +23,7 @@ Officers, police and prison wardens were despatched in person to give
 evidence of identity at distant courts. Mis-identification was by no
 means rare. Many remarkable cases may be quoted. One of the most notable
 was that of the Frenchman Lesurques, in the days of the Directory, who
-was positively identified as having robbed the Lyons mail and suffered
+was positively identified as having robbed the [[Lyons]] mail and suffered
 death, protesting his innocence of the crime, which was afterwards
 brought home to another man, Duboscq, and this terrible judicial error
 proved to be the result of the extraordinary likeness between the two
@@ -48,7 +48,7 @@ Such elements of uncertainty cannot easily be eliminated from any system
 of jurisprudence, but some improvements in the methods of identification
 have been introduced in recent years. The first was in the adoption of
 anthropometry (q.v.), which was invented by the French savant, A.
-Bertillon. The reasons that led to its general supersession may be
+[[Bertillon]]. The reasons that led to its general supersession may be
 summed up in its costliness, the demand for superior skill in
 subordinate agents and the liability to errors not easy to trace and
 correct. A still more potent reason remained, the comparative failure of
@@ -70,7 +70,7 @@ extending to Germany, Austria-Hungary and other parts of Europe.
 
 The record of finger prints in England and Wales is kept by the
 Metropolitan police at New Scotland Yard. They were at first limited to
-persons convicted at courts at quarter sessions and assizes and to all
+persons convicted at courts at quarter sessions and [[Assize|assizes]] and to all
 persons sentenced at minor courts to more than a month without option of
 fine for serious offences. The finger prints when taken by prison
 warders are forwarded to London for registration and reference on
@@ -84,7 +84,7 @@ Yard, their antecedents are established beyond all hesitation.
 In past times identification of criminals who had passed through the
 hands of the law was compassed by branding, imprinting by a hot iron, or
 tattooing with an indelible sign, such as a crown, fleur de lys or
-initials upon the shoulder or other part of the body. This practice,
+[[Initials|initials]] upon the shoulder or other part of the body. This practice,
 long since abandoned, was in a measure continued in the British army,
 when offenders against military law were ordered by sentence of
 court-martial to be marked with "D" for deserter and "B.C." bad

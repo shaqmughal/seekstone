@@ -11,9 +11,9 @@ Frederick William III., was born on the 15th of October 1795. From his
 first tutor, Johann Delbrueck, he imbibed a love of culture and art, and
 possibly also the dash of Liberalism which formed an element of his
 complex habit of mind. But after a time Delbrueck, suspected of inspiring
-his charge with a dislike of the Prussian military caste and even of
+his charge with a dislike of the Prussian military [[Caste|caste]] and even of
 belonging to a political secret society, was dismissed, his place being
-taken by the pastor and historian Friedrich Ancillon, while a military
+taken by the pastor and historian [[Friedrich]] Ancillon, while a military
 governor was also appointed. By Ancillon he was grounded in religion, in
 history and political science, his natural taste for the antique and the
 picturesque making it easy for his tutor to impress upon him his own
@@ -25,7 +25,7 @@ his reckless bravery had earned him rebuke, and in Paris he was remarked
 for the exact performance of his military duties, though he found time
 to whet his appetite for art in the matchless collections gathered by
 Napoleon as the spoil of all Europe. On his return to Berlin he studied
-art under the sculptor Christian Daniel Rauch and the painter and
+art under the sculptor Christian [[Daniel]] Rauch and the painter and
 architect Karl Friedrich Schinkel (1781-1841), proving himself in the
 end a good draughtsman, a born architect and an excellent landscape
 gardener. At the same time he was being tutored in law by Savigny and in
@@ -80,23 +80,23 @@ allowed himself to be carried away for a while by the popular tide. The
 loyalty of the Prussian army remained inviolate; but the king was too
 tender-hearted to use military force against his "beloved Berliners,"
 and when the victory of the populace was thus assured his impressionable
-temper yielded to the general enthusiasm. He paraded the streets of
+temper yielded to the general [[Enthusiasm|enthusiasm]]. He paraded the streets of
 Berlin wrapped in a scarf of the German black and gold, symbol of his
 intention to be the leader of the united Germany; and he even wrote to
 the indignant tsar in praise of "the glorious German revolution." The
 change of sentiment was, however, apparent rather than real. The shadow
 of venerable institutions, past or passing, still darkened his
-counsels. The united Germany which he was prepared to champion was not
-the democratic state which the theorists of the Frankfort national
+counsels. The united Germany which he was prepared to [[Champion|champion]] was not
+the democratic state which the theorists of the [[Frankfort]] national
 parliament were evolving on paper with interminable debate, but the old
 Holy Roman Empire, the heritage of the house of Habsburg, of which he
-was prepared to constitute himself the guardian so long as its lawful
+was prepared to constitute himself the [[Guardian|guardian]] so long as its lawful
 possessors should not have mastered the forces of disorder by which they
 were held captive. Finally, when Austria had been excluded from the new
 empire, he replied to the parliamentary deputation that came to offer
 him the imperial crown that he might have accepted it had it been freely
 offered to him by the German princes, but that he would never stoop "to
-pick up a crown out of the gutter."
+pick up a crown out of the [[Gutter|gutter]]."
 
 Whatever may be thought of the manner of this refusal, or of its
 immediate motives, it was in itself wise, for the German empire would
@@ -148,15 +148,15 @@ died on the 2nd of January 1861.
   William IV. and Bunsen were edited by Ranke (Leipzig, 1873); his
   proclamations, speeches, &c., from the 6th of March 1848 to the 31st
   of May 1851 have been published (Berlin, 1851); also his
-  correspondence with Bettina von Arnim, _Bettina von Arnim und
+  correspondence with Bettina von [[Arnim]], _Bettina von Arnim und
   Friedrich Wilhelm IV., ungedruckte Briefe und Aktenstuecke_, ed. L.
-  Geiger (Frankfort-on-Main, 1902). See L. von Ranke, _Friedrich Wilhelm
+  Geiger ([[Frankfort-On-Main|Frankfort-on-Main]], 1902). See L. von Ranke, _Friedrich Wilhelm
   IV., Koenig von Preussen_ (works 51, 52 also in _Allgem. deutsche
   Biog._ vol. vii.), especially for the king's education and the inner
   history of the debates leading up to the united diet of 1847; H. von
   Petersdorff, _Koenig Friedrich Wilhelm IV._ (Stuttgart, 1900); F.
   Rachfahl, _Deutschland, Koenig Friedrich Wilhelm IV. und die Berliner
-  Maerzrevolution_ (Halle, 1901); H. von Poschinger (ed.), _Unter
+  Maerzrevolution_ ([[Halle]], 1901); H. von Poschinger (ed.), _Unter
   Friedrich Wilhelm IV. Denkwuerdigkeiten des Ministers Otto Frhr. von
   Manteuffel_, 1848-1858 (3 vols., Berlin, 1900-1901); and _Preussens
   auswaertige Politik_, 1850-1858 (3 vols., ib., 1902), documents

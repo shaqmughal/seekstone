@@ -122,7 +122,7 @@ name of Nagarjuna, whose probable date is about A.D. 200.
 Together with Nagarjuna, other early teachers of the Great Vehicle whose
 names are known are Vasumitra, Vasubandhu, Aryadeva, Dharmapala and
 Gunamati--all of whom were looked upon as Bodhisats. As the newer school
-did not venture so far as to claim as Bodhisats the disciples stated in
+did not venture so far as to claim as Bodhisats the [[Disciple|disciples]] stated in
 the older books to have been the contemporaries of Gotama (they being
 precisely the persons known as Arahats), they attempted to give the
 appearance of age to the Bodhisat theory by representing the Buddha as
@@ -193,7 +193,7 @@ the Dhyani-Buddha of this trinity, soon began to fill the largest place
 in the minds of the new school; and Avalokiteswara, his Bodhisat, was
 looked upon with a reverence somewhat less than his former glory. It is
 needless to add that, under the overpowering influence of these vain
-imaginations, the earnest moral teachings of Gotama became more and more
+[[Imagination|imaginations]], the earnest moral teachings of Gotama became more and more
 hidden from view. The imaginary saints grew and flourished. Each new
 creation, each new step in the theory, demanded another, until the whole
 sky was filled with forgeries of the brain, and the nobler and simpler
@@ -245,7 +245,7 @@ his own country and Nepal, the new wine, sweet and luscious to the taste
 of savages, completely disqualified them from enjoying any purer drink;
 and now in both countries Saivism is supreme, and Buddhism is even
 nominally extinct, except in some outlying districts of Nepal. But this
-full effect has only been worked out in the lapse of ages; the Tantra
+full effect has only been worked out in the [[Lapse|lapse]] of ages; the Tantra
 literature has also had its growth and its development, and some unhappy
 scholar of a future age may have to trace its loathsome history. The
 nauseous taste repelled even the self-sacrificing industry of Burnouf,
@@ -305,7 +305,7 @@ Yin_, a personification of Avalokitesvara as the heavenly word, who is
 often represented with a child in her arms. Srong Tsan Gampo has also
 become a saint, being looked upon as an incarnation of Avalokitesvara;
 and the description in the ecclesiastical historians of the measures he
-took for the welfare of his subjects do great credit to their ideal of
+took for the welfare of his subjects do great [[Credit|credit]] to their ideal of
 the perfect Buddhist king. He is said to have spent his long reign in
 the building of reservoirs, bridges and canals; in the promotion of
 agriculture, horticulture and manufactures; in the establishment of
@@ -324,7 +324,7 @@ established in the land.
 This monarch again sent to India to replace the sacred books that had
 been lost, and to invite Buddhist pandits to translate them. The most
 distinguished of those who came were Santa Rakshita, Padma Sambhava and
-Kamala Sila, for whom, and for their companions, the king built a
+[[Kamala]] Sila, for whom, and for their companions, the king built a
 splendid monastery still existing, at Samje, about three days' journey
 south-east of Lhasa. It was to them that the Tibetans owed the great
 collection of what are still regarded as their sacred books--the
@@ -384,7 +384,7 @@ petty wars, and conducted plundering expeditions against the
 neighbouring tenants, whilst the great abbeys were places of refuge for
 the studious or religious, and their heads were the only rivals to the
 barons in social state, and in many respects the only protectors and
-friends of the people. Meanwhile Jenghiz Khan had founded the Mongol
+friends of the people. Meanwhile Jenghiz [[Khan]] had founded the Mongol
 empire, and his grandson Kublai Khan became a convert to the Buddhism of
 the Tibetan Lamas. He granted to the abbot of the Sakya monastery in
 southern Tibet the title of tributary sovereign of the country, head of
@@ -530,10 +530,10 @@ practically under his control or influence.
   "Analyse du Kandjur," by M. Léon Feer, in _Annales du Musée Gaimet_
   (1881); Schott, _Ueber den Buddhismus in Hoch-Asien_; Gutzlaff,
   _Geschichte des Chinesischen Reiches_; Hue and Gabet, _Souvenirs d'un
-  voyage dans la Tartarie, le Tibet, et la Chine_ (Paris, 1858);
+  voyage [[Dan|dans]] la Tartarie, le Tibet, et la Chine_ (Paris, 1858);
   Pallas's _Sammlung historischer Nachrichten über die Mongolischen
   Völkerschaften_; Babu Sarat Chunder Das's "Contributions on the
-  Religion and History of Tibet," in the _Journal of the Bengal Asiatic
+  Religion and History of Tibet," in the _Journal of the [[Bengal]] Asiatic
   Society_, 1881; L. A. Waddell, _The Buddhism of Tibet_ (London, 1895);
   A. H. Francke, _History of Western Tibet_ (London, 1907); A.
   Grünwedel, _Mythologie des Buddhismus in Tibet und der Mongolei_

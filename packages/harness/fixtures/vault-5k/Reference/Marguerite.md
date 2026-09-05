@@ -10,7 +10,7 @@ type: source
 MARGUERITE, the popular name for the plant known botanically as
 _Pyrethrum_ (or _Chrysanthemum_) _frutescens_ (natural order
 Compositae), a shrubby perennial with smooth leaves cut pinnately into
-narrow segments and flower-heads two to three inches across produced
+narrow segments and flower-heads two to three [[Inch|inches]] across produced
 singly in summer and autumn on slender erect stalks. The white
 ray-florets surround a yellow disk. It is a native of the Canary Isles,
 and a favourite for decoration and for greenhouse cultivation,
@@ -71,7 +71,7 @@ not the smallest foundation. Marguerite died at Odot-en-Bigorre on the
 21st of September 1549. By her first husband she had no children, by her
 second a son who died in infancy, and a daughter, Jeanne d'Albret, who
 became the mother of Henry IV. Although the poets of the time are
-unwearied in celebrating her charms, she does not, from the portraits
+unwearied in celebrating her [[Charm|charms]], she does not, from the portraits
 which exist, appear to have been regularly beautiful, but as to her
 sweetness of disposition and strength of mind there is universal
 consent.
@@ -102,10 +102,10 @@ consent.
   piece, _Le Navire_, expressing her despair at her brother's death. Of
   the other works, never yet completely edited, the best editions are,
   for the _Heptameron_, Leroux de Lincy (1855); for the _Lettres_, Genin
-  (1841-1842); and for the _Marguerites_, &c., Frank (1873). English
+  (1841-1842); and for the _Marguerites_, &c., [[Frank]] (1873). English
   translations of the _Heptameron_ are rather numerous: one appeared in
   1887 by A. Machen, with an introduction by Miss A. M. F. Robinson (Mme
-  Darmesteter) and another (anonymous) in 1894, with an essay by G.
+  [[Darmesteter]]) and another (anonymous) in 1894, with an essay by G.
   Saintsbury. The religious poem, _Le Miroir de l'âme pécheresse_ was
   translated by Queen Elizabeth. Books on Marguerite and her court are
   also many. There may be noted Durand's _Marguerite de Valois et la
@@ -116,12 +116,12 @@ consent.
 
 II. The second MARGUERITE (1523-1574), daughter of Francis I., was born
 on the 5th of June, 1523, at St Germain-en-Laye, and, at an age the
-lateness of which caused lampoons, married Emmanuel Philibert, duke of
+lateness of which caused [[Lampoon|lampoons]], married [[Emmanuel]] Philibert, duke of
 Savoy, in 1559. Like her aunt and her niece she was a good scholar and
 strongly interested in men of letters. She is noteworthy as having given
 the chief impulse at the court of her brother Henry II. to the first
 efforts of the Pléiade (see RONSARD), and as having continued her
-patronage of literature at Turin. The poet Marc Antonio Flaminio, for
+patronage of literature at Turin. The poet Marc [[Antonio]] Flaminio, for
 instance, congratulates himself in pretty Latin verses on her singing
 his poems.
 
@@ -129,7 +129,7 @@ his poems.
 
 III. The third MARGUERITE (1553-1615), called more particularly
 Marguerite de Valois, was great-niece of the first and niece of the
-second, being daughter of Henry II. by Catherine de' Medici. She was
+second, being daughter of Henry II. by [[Catherine De' Medici|Catherine de' Medici]]. She was
 born on the 14th of May 1553. When very young she became famous for her
 beauty, her learning, and the looseness of her conduct. She was married,
 after a liaison with the duke of Guise, to Henry of Navarre, afterwards
@@ -147,12 +147,12 @@ which was not a short one, the strange Valois mixture of licentiousness,
 pious exercises, and the cultivation of art and letters, and died in
 Paris on the 27th of March 1615. She left letters and memoirs the latter
 of which are admirably written, and rank among the best of the 16th
-century. She was the idol of Pierre de Bourdeille Brantôme, and is the
+century. She was the idol of Pierre de Bourdeille [[Brant]]ôme, and is the
 "Reine Margot" of anecdotic history and romance.
 
   The _Mémoires_ are contained in the collection of Michaud and
   Poujoulat, and have been published separately by Guessard (the best,
-  1842), Lalanne, Caboche, &c. An English translation with introduction
+  1842), Lalanne, [[Caboche]], &c. An English translation with introduction
   by Violet Fane appeared in 1892. Her character, and still more her
   circumstances, made the pen very unamiably busy with her in her
   lifetime, the chief of many lampoons being the famous _Divorce

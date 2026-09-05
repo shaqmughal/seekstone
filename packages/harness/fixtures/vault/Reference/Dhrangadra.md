@@ -8,15 +8,15 @@ topic: colonization
 
 DHRANGADRA, a native state of India, in the Gujarat division of Bombay,
 situated in the north of the peninsula of Kathiawar. Its area is 1156
-sq. m. Pop. (1901) 70,880. The estimated gross revenue is £38,000 and
-the tribute £3000. A state railway on the metre gauge from Wadhwan to
+sq. m. Pop. (1901) 70,880. The estimated [[Gross|gross]] revenue is £38,000 and
+the tribute £3000. A state railway on the metre [[Gauge|gauge]] from Wadhwan to
 the town of Dhrangadra, a distance of 21 m., was opened for traffic in
 1898. Some cotton is grown, although the soil is as a whole poor; the
 manufactures include salt, metal vessels and stone hand-mills. The chief
 town, Dhrangadra, has a population (1901) of 14,770.
 
 The chief of Dhrangadra, who bears the title of Raj Sahib, with the
-predicate of His Highness, is head of the ancient clan of Jhala Rajputs,
+predicate of His Highness, is head of the ancient [[Clan|clan]] of Jhala Rajputs,
 who are said to have entered Kathiawar from Sind in the 8th century. Raj
 Sahib Sir Mansinghji Ranmalsinghji (b. 1837), who succeeded his father
 in 1869, was distinguished for the enlightened character of his

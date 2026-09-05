@@ -11,7 +11,7 @@ tags: [inventors, history]
 GRIMOARD, PHILIPPE HENRI, COMTE DE (1753-1815), French soldier and
 military writer, entered the royal army at the age of sixteen, and in
 1775 published his _Essai theorique et practique sur les batailles_.
-Shortly afterwards Louis XVI. placed him in his own military cabinet and
+Shortly afterwards Louis XVI. placed him in his own military [[Cabinet|cabinet]] and
 employed him especially in connexion with schemes of army reform. By the
 year of the Revolution he had become one of Louis's most valued
 counsellors, in political as well as military matters, and was marked
@@ -28,12 +28,12 @@ military books.
   legeres et leur emploi_ (Paris, 1782), _Conquetes de Gustave-Adolphe_
   (Stockholm and Neufchatel, 1782-1791); _Memoires de Gustave Adolphe_
   (Paris, 1790), Correspondence of Marshal Richelieu (Paris, 1789), St
-  Germain (1789), and Bernis (1790), _Vie et regne de Frederic le Grand_
+  Germain (1789), and [[Bernis]] (1790), _Vie et regne de Frederic le Grand_
   (London, 1788), _Lettres et memoires du marechal de Saxe_ (Paris,
   1794), _L'Expedition de Minorque en 1756_ (Paris, 1798), _Recherches
   sur la force de l'armee francaise depuis Henri IV jusqu'en 1805_
   (Paris, 1806), _Memoires du marechal de Tesse_ (Paris, 1806), _Lettres
-  de Bolingbroke_ (Paris, 1808), _Traite, sur le service d'etat-major_
+  de [[Bolingbroke]]_ (Paris, 1808), _Traite, sur le service d'etat-major_
   (Paris, 1809), and (with Servan) _Tableau historique de la guerre de
   la Revolution 1792-1794_ (Paris, 1808).
 

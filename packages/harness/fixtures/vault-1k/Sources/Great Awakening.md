@@ -39,7 +39,7 @@ England, found that the faculties of Harvard and Yale had officially
 "testified" and "declared" against him and that most pulpits were closed
 to him. Some separatist churches were formed as a result of the
 Awakening; these either died out or became Baptist congregations. To the
-reaction against the gross methods of the revival has been ascribed the
+reaction against the [[Gros|gross]] methods of the revival has been ascribed the
 religious apathy of New England during the last years of the 18th
 century; but the martial and political excitement, beginning with King
 George's War (i.e. the American part of the War of the Austrian

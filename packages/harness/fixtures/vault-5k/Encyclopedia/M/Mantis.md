@@ -1,6 +1,6 @@
 # Mantis
 
-MANTIS, an insect belonging to the order _Orthoptera_. Probably no other
+MANTIS, an [[Insect|insect]] belonging to the order _Orthoptera_. Probably no other
 insect has been the subject of so many and widespread legends and
 superstitions as the common "praying mantis," _Mantis religiosa_, L. The
 ancient Greeks endowed it with supernatural powers ([Greek: mantis], a
@@ -25,14 +25,14 @@ characteristic devotional attitude, it rests motionless upon the four
 posterior limbs waiting for prey, or occasionally stalks it with slow
 and silent movements, finally seizing it with its knife-blades and
 devouring it. Although apparently not daring to attack ants, these
-insects destroy great numbers of flies, grasshoppers and caterpillars,
+insects destroy great numbers of flies, [[Grasshopper|grasshoppers]] and [[Caterpillar|caterpillars]],
 and the larger South-American species even attack small frogs, lizards
 and birds. They are very pugnacious, fencing with their sword-like limbs
 "like hussars with sabres," the larger frequently devouring the smaller,
 and the females the males. The Chinese keep them in bamboo cages, and
 match them like fighting-cocks.
 
-The common species fixes its somewhat nut-like egg capsules on the stems
+The common species fixes its somewhat nut-like [[Egg|egg]] capsules on the stems
 of plants in September. The young are hatched in early summer, and
 resemble the adults, but are without wings.
 
@@ -40,7 +40,7 @@ resemble the adults, but are without wings.
 
 The green coloration and shape of the typical mantis are procryptic,
 serving to conceal the insect alike from its enemies and prey. The
-passage from leaf to flower simulation is but a step which, without
+passage from [[Leaf|leaf]] to flower simulation is but a step which, without
 interfering with the protective value of the coloration so far as
 insectivorous foes are concerned, carries with it the additional
 advantage of attracting flower-feeding insects within reach of the
@@ -52,7 +52,7 @@ enhanced by a gentle swaying kept up by the insect in imitation of the
 effect of a lightly blowing breeze. As instances of this may be cited
 _Idalum diabolicum_, an African insect, and _Gongylus gongyloides_,
 which comes from India. Examples of another species (_Empusa eugena_)
-when standing upon the ground deceptively imitate in shape and hue a
+when standing upon the ground deceptively imitate in shape and [[Hue|hue]] a
 greenish white anemone tinted at the edges with rose; and Bates records
 what appears to be a true case of aggressive mimicry practised by a
 Brazilian species which exactly resembles the white ants it preys upon.

@@ -23,14 +23,14 @@ mountainous tract has probably an average altitude of between 6000 and
 and populous. The valleys are well watered and produce excellent crops
 of cereals and dates. The best-known are the Wadi Taraba and the W.
 Besha, both running north-east towards the W. Dawasir in Nejd. Taraba,
-according to John Lewis Burckhardt, is a considerable town, surrounded
+according to John [[Lewis]] Burckhardt, is a considerable town, surrounded
 by palm groves and gardens, and watered by numerous rivulets, and tamous
 for its long resistance to Mehemet Ali's forces in 1815. Five or six
 days' journey to the south-east is the district of Besha, the most
 important position between Sana and Taif. Here Mehemet Ali's army,
 amounting to 12,000 men, found sufficient provisions to supply it during
 a fortnight's halt. The Wadi Besha is a broad valley abounding with
-streams containing numerous hamlets scattered over a tract some six or
+streams containing numerous [[Hamlet|hamlets]] scattered over a tract some six or
 eight hours' journey in length. Its principal affluent, the W. Shahran,
 rises 120 m. to the south and runs through the fertile district of
 Khamis Mishet, the highest in Asir. The Zahran district lies four days

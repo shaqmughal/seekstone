@@ -35,7 +35,7 @@ ordinarius, and in 1862 succeeded H. von Sybel as professor of history
 in the university of Munich. The Bavarian government honoured him in
 various ways, and he died at Munich on the 17th of December 1889. In
 addition to the works already mentioned, Giesebrecht published a good
-monograph on Arnold of Brescia (Munich, 1873), a collection of essays
+monograph on Arnold of [[Brescia]] (Munich, 1873), a collection of essays
 under the title _Deutsche Reden_ (Munich, 1871), and was an active
 member of the group of scholars who took over the direction of the
 _Monumenta Germaniae historica_ in 1875. In 1895 B. von Simson added a

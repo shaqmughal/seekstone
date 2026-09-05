@@ -1,7 +1,7 @@
 # Chinde
 
 CHINDE, a town of Portuguese East Africa, chief port for the Zambezi
-valley and British Central Africa, at the mouth of the Chinde branch of
+valley and [[British Central Africa]], at the mouth of the Chinde branch of
 the Zambezi, in 18° 40´ S., 36° 30´ E. Pop. (1907) 2790, of whom 218
 were Europeans. Large steamers are unable to cross the bar, over which
 the depth of water varies from 10 to 18 ft. Chinde owes its existence to

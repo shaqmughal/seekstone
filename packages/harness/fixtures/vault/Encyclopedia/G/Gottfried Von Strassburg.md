@@ -8,7 +8,7 @@ topic: cartography-theory
 
 GOTTFRIED VON STRASSBURG, one of the chief German poets of the middle
 ages. The dates of his birth and death are alike unknown, but he was the
-contemporary of Hartmann von Aue, Wolfram von Eschenbach and Walther von
+contemporary of Hartmann von [[Aue]], Wolfram von Eschenbach and Walther von
 der Vogelweide, and his epic _Tristan_ was written about the year 1210.
 In all probability he did not belong to the nobility, as he is entitled
 _Meister_, never _Herr_, by his contemporaries; his poem--the only work
@@ -24,12 +24,12 @@ the German epic with the French original is, however, impossible, as
 Chretien's _Tristan_ is entirely lost, and of Thomas's only a few
 fragments have come down to us. The story centres in the fatal voyage
 which Tristan, a vassal to the court of his uncle King Marke of Kurnewal
-(Cornwall), makes to Ireland to bring back Isolde as the king's bride.
+([[Cornwall]]), makes to Ireland to bring back Isolde as the king's [[Bride|bride]].
 On the return voyage Tristan and Isolde drink by mistake a love potion,
 which binds them irrevocably to each other. The epic resolves itself
 into a series of love intrigues in which the two lovers ingeniously
 outwit the trusting king. They are ultimately discovered, and Tristan
-flees to Normandy where he marries another Isolde--"Isolde with the
+flees to Normandy where he [[Marri|marries]] another Isolde--"Isolde with the
 white hands"--without being able to forget the blond Isolde of Ireland.
 At this point Gottfried's narrative breaks off and to learn the close of
 the story we have to turn to two minor poets of the time, Ulrich von
@@ -53,7 +53,7 @@ above all, depicted with a variety and insight, unusual in medieval
 literature, the effects of an overpowering passion. Yet, glowing and
 seductive as Gottfried's love-scenes are, they are never for a moment
 disfigured by frivolous hints or innuendo; the tragedy is unrolled with
-an earnestness that admits of no touch of humour, and also, it may be
+an earnestness that admits of no touch of [[Humour|humour]], and also, it may be
 added, with a freedom from moralizing which was easier to attain in the
 13th than in later centuries. The mastery of style is no less
 conspicuous. Gottfried had learned his best lessons from Hartmann von
@@ -67,18 +67,18 @@ Gottfried's _Tristan_ is the masterpiece of the German court epic.
   (Leipzig, 1843); by R. Bechstein (2 vols., 3rd ed.,
   Leipzig,1890-1891); by W. Golther (2 vols., Stuttgart, 1889); by K.
   Marold (1906). Translations into modern German have been made by H.
-  Kurz (Stuttgart, 1844); by K. Simrock (Leipzig, 1855); and, best of
+  [[Kurz]] (Stuttgart, 1844); by K. Simrock (Leipzig, 1855); and, best of
   all, by W. Hertz (Stuttgart, 1877). There is also an abbreviated
   English translation by Jessie L. Weston (London, 1899). The
   continuation of Ulrich von Turheim will be found in Massman's edition;
-  that by Heinrich von Freiberg has been separately edited by R.
+  that by Heinrich von [[Freiberg]] has been separately edited by R.
   Bechstein (Leipzig, 1877). See also R. Heinzel, "Gottfrieds von
-  Strassburg Tristan und seine Quelle" in the _Zeit. fur deut. Alt._
+  Strassburg Tristan und seine Quelle" in the _Zeit. [[Fur|fur]] deut. Alt._
   xiv. (1869), pp. 272 ff.; W. Golther, _Die Sage von Tristan und
   Isolde_ (Munich, 1887); F. Piquet, _L'Originalite de Gottfried de
   Strasbourg dans son poeme de Tristan et Isolde_ (Lille, 1905). K.
   Immermann (q.v.) has written an epic of _Tristan und Isolde_ (1840),
-  R. Wagner (q.v.) a musical drama (1865). Cp. R. Bechstein, _Tristan
+  R. Wagner (q.v.) a musical [[Drama|drama]] (1865). Cp. R. Bechstein, _Tristan
   und Isolde in der deutschen Dichtung der Neuzeit_ (Leipzig, 1877).
 
 ## References

@@ -23,7 +23,7 @@ bears the name of Li-mou shan or Wu-tchi shan (the Five-Finger
 Mountain), and attains a height of 6000 or 7000 ft. Its praises are
 celebrated in a glowing ode by Ch'iu, a native poet. The island appears
 to be well watered, and some of its rivers are not without importance as
-possible highways of commerce; but the details of its hydrography are
+possible highways of commerce; but the details of its [[Hydrography|hydrography]] are
 very partially ascertained. A navigable channel extends in an irregular
 curve from the bay of Hoi-how (Hai-K'ow) in the north to Tan-chow on the
 west coast. Being exposed to the winter monsoon, the northern parts of
@@ -78,8 +78,8 @@ and the old cemetery still contains about 113 Christian graves. The port
 of K'iung-chow-fu at the mouth of the river, which is nearly dry at low
 water, is called simply Hoi-how, or in the court dialect Hai-K'ow, i.e.
 seaport. The two towns are united by a good road, along which a large
-traffic is maintained partly by coolie porters but more frequently by
-means of wheel-barrows, which serve the purpose of cabs and carts. The
+traffic is maintained partly by [[Coolie|coolie]] porters but more frequently by
+means of wheel-barrows, which serve the purpose of cabs and [[Cart|carts]]. The
 value of the trade of the port has risen from L670,600 in 1899 to
 L719,333 in 1904. In the same year 424 vessels, representing a tonnage
 of 312,554, visited the port. This trade is almost entirely with the
@@ -92,7 +92,7 @@ or missionaries.
 
 The inhabitants of Hainan may be divided into three classes, the Chinese
 immigrants, the civilized aborigines or Shu-li and the wild aborigines
-or Sheng-li. The Chinese were for the most part originally from Kwang-si
+or Sheng-li. The Chinese were for the most part originally from [[Kwang-Si|Kwang-si]]
 and the neighbouring provinces, and they speak a peculiar dialect, of
 which a detailed account by Mr Swinhoe was given in _The Phoenix, a
 Monthly Magazine for China, &c._ (1870). The Shu-li as described by Mr
@@ -102,16 +102,16 @@ while their eyes are not oblique. Their hair is long, straight and
 black, and their beards, if they have any, are very scanty. They till
 the soil and bring rice, fuel, timber, grass-cloth, &c., to the Chinese
 markets. The Sheng-li or Li proper, called also La, Le or Lauy, are
-probably connected with the Laos of Siam and the Lolos of China. Though
+probably connected with the [[Laos]] of Siam and the Lolos of China. Though
 not gratuitously aggressive, they are highly intractable, and have given
 great trouble to the Chinese authorities. Among themselves they carry on
 deadly feuds, and revenge is a duty and an inheritance. Though they are
 mainly dependent on the chase for food, their weapons are still the
-spear and the bow, the latter being made of wood and strung with bamboo.
-In marriage no avoidance of similarity of name is required. The bride's
+spear and the [[Bow|bow]], the latter being made of wood and strung with bamboo.
+In marriage no [[Avoidance|avoidance]] of similarity of name is required. The bride's
 face is tattooed according to a pattern furnished by the bridegroom.
 Their funeral mourning consists of abstaining from drink and eating raw
-beef, and they use a wooden log for a coffin. When sick they sacrifice
+beef, and they use a wooden [[Log|log]] for a coffin. When sick they sacrifice
 oxen. In the spring-time there is a festival in which the men and women
 from neighbouring settlements move about in gay clothing hand in hand
 and singing songs. The whole population of the island is estimated at
@@ -122,14 +122,14 @@ introduced from the mainland. In 1300 the Chinese authorities assign
 
 It was in 111 B.C. that Lu-Po-Teh, general of the emperor Wu-ti, first
 made the island of Hainan subject to the Chinese, who divided it into
-the two prefectures, Tan-urh or Drooping Ear in the south, so-called
+the two prefectures, Tan-urh or Drooping [[Ear]] in the south, so-called
 from the long ears of the native "king," and Chu-yai or Pearl Shore in
 the north. During the decadence of the elder branch of the Han dynasty
 the Chinese supremacy was weakened, but in A.D. 43 the natives were led
 by the success of Ma-yuan in Tong-king to make a new tender of their
 allegiance. About this time the whole island took the name of Chu-yai.
 In A.D. 627 the name of K'iung-chow came into use. On its conquest by
-the generals of Kublai Khan in 1278 the island was incorporated with the
+the generals of [[Kublai Khan]] in 1278 the island was incorporated with the
 western part of the province of Kwang-tung in a new satrapy, Hai-peh
 Hai-nan Tao, i.e. the circuit north of the sea and south of the sea. It
 was thus that Hai-nan-Tao, or district south of the sea or strait, came
@@ -137,7 +137,7 @@ into use as the name of the island, which, however, has borne the
 official title of K'iung-chow-fu, probably derived from the Kiung shan
 or Jade Mountains, ever since 1370, the date of its erection into a
 department of Kwang-tung. For a long time Hainan was the refuge of the
-turbulent classes of China and the place of deportation for delinquent
+turbulent classes of China and the place of [[Deportation|deportation]] for delinquent
 officials. It was there, for example, that Su-She or Su-Tung-po was
 banished in 1097. From the 15th to the 19th century pirates made the
 intercourse with the mainland dangerous, and in the 17th they were

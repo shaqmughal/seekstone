@@ -16,7 +16,7 @@ from the defect that no method being known of conveniently transferring
 boats from one level to another they were only practicable between
 points that lay on nearly the same level; and inland navigation could
 not become generally useful and applicable until this defect had been
-remedied by the employment of locks. Great doubts exist as to the
+remedied by the employment of [[Lock|locks]]. Great doubts exist as to the
 person, and even the nation, that first introduced locks. Some writers
 attribute their invention to the Dutch, holding that nearly a century
 earlier than in Italy locks were used in Holland where canals are very
@@ -186,7 +186,7 @@ where it is retained when the gates are closed.
 
 An essential adjunct to a canal is a sufficient number of waste-weirs to
 discharge surplus water accumulating during floods, which, if not
-provided with an exit, may overflow the tow-path, and cause a breach in
+provided with an exit, may overflow the tow-path, and cause a [[Breach|breach]] in
 the banks, stoppage of the traffic, and damage to adjoining lands. The
 number and positions of these waste-weirs must depend on the nature of
 the country through which the canal passes. Wherever the canal crosses a
@@ -219,7 +219,7 @@ between the stop-gates can be run off into the stream.
 
   Locks.
 
-Locks are chambers, constructed of wood, brickwork, masonry or concrete,
+Locks are chambers, constructed of wood, brickwork, [[Masonry|masonry]] or concrete,
 and provided with gates at each end, by the aid of which vessels are
 transferred from one reach of the canal to another. To enable a boat to
 ascend, the upper gates and the sluices which command the flow of water
@@ -240,7 +240,7 @@ vertical timber at the end of the gate is known as the "heel-post," and
 at its foot is a casting that admits an iron pivot which is fixed in the
 lock bottom, and on which the gate turns. Iron straps round the head of
 the heel-post are let into the lock-coping to support the gate. The
-gates are opened and closed by balance beams projecting over the lock
+gates are opened and closed by [[Balance|balance]] beams projecting over the lock
 side, by gearing or in cases where they are very large and heavy by the
 direct action of a hydraulic ram. In order to economize water canal
 locks are made only a few inches wider than the vessels they have to
@@ -286,7 +286,7 @@ which the boats travel. In some cases the boats are conveyed on a
 wheeled trolley or cradle running on rails; this plan was adopted on the
 Morris canal, built in 1825-1831, in the case of 23 inclines having
 gradients of about 1 in 10, the rise of each varying from 44 to 100 ft.
-Between the Ourcq canal and the Marne, near Meaux, the difference of
+Between the Ourcq canal and the [[Marne]], near Meaux, the difference of
 level is about 40 ft., and barges weighing about 70 tons are taken from
 the one to the other on a wheeled cradle weighing 35 tons by a wire rope
 over an incline nearly 500 yards long. But heavy barges are apt to be

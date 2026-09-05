@@ -56,7 +56,7 @@ necessary.
   von ihrem Anfange bis auf die neuesten Zeiten_ (5 vols., Gött.,
   1805-1812); _Übersicht der Französischen Revolution_ (2 vols., Gött.,
   1797); _Weltgeschichte_ (3rd ed., 5 vols., Gött., 1819-1820);
-  _Geschichte der drei letzten Jahrhunderte_ (3rd ed., 6 vols., Hanover,
+  _Geschichte der drei letzten Jahrhunderte_ (3rd ed., 6 vols., [[Hanover]],
   1817-1818); _Urgeschichte des erlauchten Hauses der Welfen_ (Hanover,
   1817).
 

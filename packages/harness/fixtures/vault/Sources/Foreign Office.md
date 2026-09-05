@@ -36,13 +36,13 @@ western (Europe), parliamentary, financial, librarian and keeper of the
 papers, treaties and registry. In the case of important despatches and
 correspondence, these, with the drafts of answers, are sent first to the
 permanent under-secretary, then to the prime minister, then to the
-sovereign and, lastly, are circulated among the members of the cabinet.
+sovereign and, lastly, are circulated among the members of the [[Cabinet|cabinet]].
 The salary of the secretary for foreign affairs is L5000 per annum,
 that of the permanent under-secretary L2000, the parliamentary
 under-secretary and the first assistant under-secretary, L1500, and the
 other assistant under-secretaries L1200.
 
-  See Anson, _Law and Custom of the Constitution_, part ii.
+  See [[Anson]], _Law and Custom of the Constitution_, part ii.
 
 ## See also
 

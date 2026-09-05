@@ -64,7 +64,7 @@ to the maintenance at all costs of the regimental colours. Even over
 young troops the influence of the colour has been extraordinary, and
 many generals have steadied their men in the heat of battle by taking a
 regimental colour themselves to lead the advance or to form up the
-troops. Thus in the first battle of Bull Run (1861) the raw Confederate
+troops. Thus in the first battle of [[Bull]] Run (1861) the raw Confederate
 troops were rallied under a heavy fire by General Joseph Johnston, their
 commander-in-chief, who stood with a colour in his hand until the men
 gathered quickly in rank and file. The archduke Charles at Aspern (1809)
@@ -166,7 +166,7 @@ advantages it formerly possessed, but would also provide the simplest
 means for ensuring the vitally necessary co-operation of infantry and
 artillery in the decisive assault. The duty of carrying the colours was
 always one of special danger, and sometimes, in the old short-range
-battles, every officer who carried a flag was shot. That this fate would
+battles, every officer who carried a flag was shot. That this [[Fate|fate]] would
 necessarily overtake the bearer under modern conditions is far from
 certain, and in any case the few men on the enemy's side who would be
 brave enough to shoot accurately under heavy shell fire would, however

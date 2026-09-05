@@ -9,8 +9,8 @@ zones, and approaching the coasts only accidentally, occasionally, or
 periodically.
 
 The mackerel proper (genus _Scomber_) are readily recognized by their
-elegantly shaped, well-proportioned body, shining in iridescent colours.
-Small, thin, deciduous scales equally cover nearly the entire body.
+elegantly shaped, well-proportioned body, shining in iridescent [[Colours|colours]].
+Small, thin, [[Deciduous|deciduous]] scales equally cover nearly the entire body.
 There are two dorsal fins, the anterior near the head, composed of 11-14
 feeble spines, the second near the tail with all the rays soft except
 the first, and behind the second dorsal five or six finlets. The ventral
@@ -53,7 +53,7 @@ species different from _S. scomber_ and _S. colias_, and well
 characterized by their dentition and coloration. Also the species from
 St Helena is distinct. Of extra-Atlantic species the mackerel of the
 Japanese seas are the most nearly allied to the European, those of New
-Zealand and Australia, and still more those of the Indian Ocean,
+Zealand and [[Australia]], and still more those of the Indian Ocean,
 differing in many conspicuous points. Two of these species occur in the
 British seas: _S. scomber_, which is the most common there as well as in
 other parts of the North Atlantic, crossing the ocean to America, where
@@ -67,8 +67,8 @@ the seas of southern Europe, but single individuals or small schools
 frequently reach the shores of Great Britain and of the United Stales.
 
   The home of the common mackerel (to which the following remarks refer)
-  is the North Atlantic, from the Canary Islands to the Orkneys, and
-  from the Mediterranean and the Black Sea and the coasts of Norway to
+  is the North Atlantic, from the [[Canary Islands]] to the Orkneys, and
+  from the Mediterranean and the [[Black Sea]] and the coasts of Norway to
   the United States.
 
   Towards the spring large schools approach the coasts. Two causes have
@@ -87,9 +87,9 @@ frequently reach the shores of Great Britain and of the United Stales.
   altogether, passing them, for some hitherto unexplained reason, at a
   greater depth than that to which the nets reach, viz. 20 ft. As the
   season advances, the schools penetrate farther northwards into St
-  George's Channel or eastwards into the English Channel. The fishery
+  George's Channel or eastwards into the [[English Channel]]. The [[Fishery|fishery]]
   then assumes proportions which render it next in importance to the
-  herring and cod fisheries. In Plymouth alone a fleet of some two
+  herring and [[Cod|cod]] [[Fisheries|fisheries]]. In Plymouth alone a fleet of some two
   hundred boats assembles; and on the French side of the Channel no less
   capital and labour are invested in it, the vessels employed being,
   though less in number, larger in size than on the English side. The
@@ -109,7 +109,7 @@ frequently reach the shores of Great Britain and of the United Stales.
   appear in rather small numbers off the east coast of that country. On
   the Norwegian coast mackerel fishing does not begin before May, whilst
   on the English coasts large catches are frequently made in March.
-  Large cargoes are annually imported in ice from Norway to the English
+  Large [[Cargo|cargoes]] are annually imported in [[Ice|ice]] from Norway to the English
   market.
 
   After the spawning the schools break up into smaller companies which
@@ -127,14 +127,14 @@ frequently reach the shores of Great Britain and of the United Stales.
   the surface some days after farther eastwards; they may deviate from
   their direct line of migration, and even temporarily return westwards.
   In some years between 1852 and 1867 the old mackerel disappeared off
-  Guernsey from the surface, and were accidentally discovered feeding at
-  the bottom. Many were taken at 10 fathoms and deeper with the line,
+  [[Guernsey]] from the surface, and were accidentally discovered feeding at
+  the bottom. Many were taken at 10 [[Fathom|fathoms]] and deeper with the line,
   and all were of exceptionally large size, several measuring 18 in. and
   weighing nearly 3 lb.; these are the largest mackerel on record.
 
   The mackerel most esteemed as food is the common species, and
   individuals from 10 to 12 in. in length are considered the best
-  flavoured. In more southern latitudes, however, this species seems to
+  flavoured. In more southern [[Latitude|latitudes]], however, this species seems to
   deteriorate, specimens from the coast of Portugal, and from the
   Mediterranean and Black Sea, being stated to be dry and resembling in
   flavour the Spanish mackerel (_S. colias_), which is not esteemed for
@@ -149,14 +149,14 @@ FOOTNOTE:
 
 
 
-McKIM, CHARLES FOLLEN (1847-1909), American architect, was born in
-Chester county, Pennsylvania, on the 24th of August 1847. His father,
+McKIM, CHARLES [[Follen|FOLLEN]] (1847-1909), American architect, was born in
+[[Chester]] county, Pennsylvania, on the 24th of August 1847. His father,
 James Miller McKim (1810-1874), originally a Presbyterian minister, was
 a prominent abolitionist and one of the founders (1865) of the New York
 _Nation_. The son studied at Harvard (1866-1867) and at Paris in the
 École des Beaux-Arts (1867-1870), and in 1872 became an architect in New
 York City, entering the office of H. H. Richardson; in 1877 he formed a
-partnership with William Rutherford Mead (b. 1846), the firm becoming in
+partnership with William Rutherford [[Mead]] (b. 1846), the firm becoming in
 1879 McKim, Mead & White, when Stanford White (1853-1906) became a
 partner. McKim was one of the founders of the American Academy in Rome;
 received a gold medal at the Paris exposition of 1900; in 1903, for his
@@ -164,9 +164,9 @@ services in the promotion of architecture, received the King's Medal of
 the Royal Institute of British Architects; and in 1907 became a National
 Academician. He died at St James, Long Island, N.Y., on the 14th of
 September 1909. McKim's name is especially associated with the
-University Club in New York, with the Columbia University buildings,
+University Club in New York, with the [[Columbia University]] buildings,
 with the additions to the White House (1906), and, more particularly,
-with the Boston Public Library, for which the library of Ste Geneviève
+with the [[Boston]] Public Library, for which the library of Ste Geneviève
 in Paris furnished the suggestion.
 
 ## See also

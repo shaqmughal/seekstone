@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bachian"
 # Bachian
 
 BACHIAN (Dutch _Batjan_), one of the Molucca Islands, in the residency of
-Ternate, Dutch East Indies, in the Molucca Sea, in 0°13'-0°55' S. and
+Ternate, Dutch [[East Indies]], in the Molucca Sea, in 0°13'-0°55' S. and
 127°22'-128° E. With its subordinate islands, Mandioli, Tawali and others,
 it lies west of the southern peninsula of the island of Halmahera or
 Jilolo, and has an area of 914 sq. m. It is of irregular form, consisting
@@ -22,12 +22,12 @@ mountain of Labua reaching 6950 ft. Coal and other minerals have been
 discovered. A large portion of the island is richly wooded, and sago,
 cocoa-nuts and cloves (which are indigenous) are abundantly produced.
 Bachian is remarkable as the most eastern point on the globe inhabited by
-any of the _Quadrumana_, a black ape occurring here as in Celebes. The
-island is very rich in birds and insects. The interior of the island is
+any of the _Quadrumana_, a black [[Ape|ape]] occurring here as in Celebes. The
+island is very rich in birds and [[Insect|insects]]. The interior of the island is
 uninhabited and none of the dwellers on the coast are indigenous. They
 consist of the Sirani or Christian descendants of the Portuguese, of
 Malays, with a Papuan element, Galela men from the north of Halmahera,
-immigrants from Celebes, with some Chinese and Arabs. The total number of
+immigrants from Celebes, with some Chinese and [[Arabs]]. The total number of
 inhabitants is about 13,000. The chief village, called Amasing by the
 inhabitants, but also called Bachian, is situated on the west side of the
 isthmus. Bachian is the most important island of a group formerly governed

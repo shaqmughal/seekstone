@@ -5,7 +5,7 @@ grape wine. The frequently occurring statement that the word "brandy" is
 derived from the High German _Branntwein_ is incorrect, inasmuch as the
 English word (as Fairley has pointed out) is quite as old as any of its
 continental equivalents. It is simply an abbreviation of the Old English
-_brandewine_, _brand-wine_ or _brandy wine_, the word "brand" being
+_brandewine_, _brand-wine_ or _brandy wine_, the word "[[Brand|brand]]" being
 common to all the Teutonic languages of northern Europe, meaning a thing
 burning or that has been burnt. John Fletcher's _Beggar's Bush_ (1622)
 contains the passage, "Buy brand wine"; and from the Roxburgh _Ballads_
@@ -28,7 +28,7 @@ _Brandy_), defined as "an alcoholic liquid obtained by the distillation
 of the fermented, unmodified juice of fresh grapes."
 
 Very little of the brandy of commerce corresponds exactly to the former
-definition of the _British Pharmacopoeia_ as regards colouring matter,
+[[Definition|definition]] of the _British Pharmacopoeia_ as regards colouring matter,
 inasmuch as trade requirements necessitate the addition of a small
 quantity of caramel (burnt sugar) colouring to the spirit in the
 majority of cases. The object of this is, as a rule, not that of
@@ -79,7 +79,7 @@ of absolute alcohol.)
 
   +-------------------------------------+---------+-----+--------+-------+----------+---------+---------+
   |                                     | Alcohol |Total|  Non-  |       | "Higher  |         |         |
-  |               Age, &c.              |% by vol.|Acid.|volatile|Esters.|Alcohols."|Aldehyde.|Furfural.|
+  |               Age, &c.              |% by vol.|Acid.|volatile|[[Esters]].|Alcohols."|Aldehyde.|Furfural.|
   |                                     |         |     |  Acid. |       |          |         |         |
   +-------------------------------------+---------+-----+--------+-------+----------+---------+---------+
   | 1. _New_ 1904                       |  61.7   |  45 |    5   |   82  |   125    |    8    |   2.3   |
@@ -186,7 +186,7 @@ _Adulteration._--A good deal has been written about the preparation of
 artificial brandy by means of the addition of essential oils to potato
 or beetroot spirit, but it is more than doubtful whether this practice
 was really carried on on a large scale formerly. What undoubtedly did
-occur was that much beet, potato or grain spirit was used for blending
+occur was that much [[Beet|beet]], potato or grain spirit was used for blending
 with genuine grape spirit. Prosecutions under the Food and Drugs Act, by
 certain English local authorities in the year 1904, resulted in the
 practical fixation of certain chemical standards which, in the opinion
@@ -195,7 +195,7 @@ nature, resulted in much adulteration of a type previously non-existent.
 There is no doubt that at the present time artificial esters and higher
 alcohols, &c., are being used on an extensive scale for the preparation
 of cheap brandies, and the position, in this respect, therefore, has not
-been inproved. Where formerly fraud was practically confined to the
+been inproved. Where formerly [[Fraud|fraud]] was practically confined to the
 blending of genuine brandy with spirit other than that derived from the
 grape, it is now enhanced by the addition of artificial essences to the
 blend of the two spirits.     (P. S.)

@@ -13,7 +13,7 @@ sole occupation of the inhabitants. Their language is Bicol.
 LIGHT. _Introduction._--§ 1. "Light" may be defined subjectively as the
 sense-impression formed by the eye. This is the most familiar
 connotation of the term, and suffices for the discussion of optical
-subjects which do not require an objective definition, and, in
+subjects which do not require an objective [[Definition|definition]], and, in
 particular, for the treatment of physiological optics and vision. The
 objective definition, or the "nature of light," is the _ultima Thule_ of
 optical research. "Emission theories," based on the supposition that
@@ -40,7 +40,7 @@ especially so long as we remain ignorant of fundamental matters
 concerning the origin of electric and magnetic strains and stresses; in
 addition, the treatment is more intelligible, the researches on the
 electromagnetic theory leading in many cases to the derivation of
-differential equations which express quantitative relations between
+differential [[Equation|equations]] which express quantitative relations between
 diverse phenomena, although no precise meaning can be attached to the
 symbols employed. The school following Clerk Maxwell and Heinrich Hertz
 has certainly laid the foundations of a complete theory of light and
@@ -51,7 +51,7 @@ _Vorlesungen über Maxwell's Theorie der Elektricität und des Lichtes_:--
   "So soll ich denn mit saurem Schweiss
    Euch lehren, was ich selbst nicht weiss."
 
-     GOETHE, _Faust_.
+     GOETHE, _[[Faust]]_.
 
 The essential distinctions between optical and electromagnetic phenomena
 may be traced to differences in the lengths of light-waves and of
@@ -86,7 +86,7 @@ occasion the sensation of colour (see COLOUR; ABSORPTION OF LIGHT).
 Transparent bodies are seen partly by reflected and partly by
 transmitted light, and opaque bodies by absorption. Refraction also
 influences visibility. Objects immersed in a liquid of the same
-refractive index and dispersion would be invisible; for example, a glass
+refractive [[Index|index]] and dispersion would be invisible; for example, a glass
 rod can hardly be seen when immersed in Canada balsam; other instances
 occur in the petrological examination of rock-sections under the
 microscope. In a complex rock-section the boldness with which the
@@ -100,7 +100,7 @@ indices of the substance and the surrounding medium becoming inoperative
 when the illumination is uniform on all sides. R. W. Wood has performed
 experiments which confirm this view.
 
-The analysis of white light into the spectrum colours, and the
+The analysis of white light into the spectrum [[Colours|colours]], and the
 reformation of the original light by transmitting the spectrum through a
 reversed prism, proved, to the satisfaction of Newton and subsequent
 physicists until late in the 19th century, that the various coloured
@@ -127,13 +127,13 @@ further analysis.
 § 3. _Divisions of the Subject._--In the early history of the science of
 light or optics a twofold division was adopted: _Catoptrics_ (from Gr.
 [Greek: katoptron], a mirror), embracing the phenomena of reflection,
-i.e. the formation of images by mirrors; and _Dioptrics_ (Gr. [Greek:
+i.e. the formation of [[Image|images]] by mirrors; and _Dioptrics_ (Gr. [Greek:
 dia], through), embracing the phenomena of refraction, i.e. the bending
 of a ray of light when passing obliquely through the surface dividing
 two media.[2] A third element, _Chromatics_ (Gr. [Greek: chrôma],
 colour), was subsequently introduced to include phenomena involving
 colour transformations, such as the iridescence of mother-of-pearl,
-feathers, soap-bubbles, oil floating on water, &c. This classification
+[[Feather|feathers]], soap-bubbles, oil floating on water, &c. This [[Classification|classification]]
 has been discarded (although the terms, particularly "dioptric" and
 "chromatic," have survived as adjectives) in favour of a twofold
 division: geometrical optics and physical optics. _Geometrical optics_
@@ -158,9 +158,9 @@ Of the subordinate phases of the science, "physiological optics" is
 concerned with the phenomena of vision, with the eye as an optical
 instrument, with colour-perception, and with such allied subjects as
 the appearance of the eyes of a cat and the luminosity of the glow-worm
-and firefly; "meteorological optics" includes phenomena occasioned by
+and [[Firefly|firefly]]; "meteorological optics" includes phenomena occasioned by
 the atmosphere, such as the rainbow, halo, corona, mirage, twinkling of
-stars and colour of the sky, and also the effects of atmospheric dust in
+stars and colour of the sky, and also the effects of atmospheric [[Dust|dust]] in
 promoting such brilliant sunsets as were seen after the eruption of
 Krakatoa; "magneto-optics" investigates the effects of electricity and
 magnetism on optical properties; "photo-chemistry," with its more
@@ -196,7 +196,7 @@ phenomenon of DIFFRACTION. Some substances have the property of
 transforming luminous radiations, presenting the phenomena of
 CALORESCENCE, FLUORESCENCE and PHOSPHORESCENCE. An optical system is
 composed of any number of MIRRORS or LENSES, or of both. If light
-falling on a system be not brought to a focus, i.e. if all the emergent
+falling on a system be not brought to a [[Focus|focus]], i.e. if all the emergent
 rays be not concurrent, we are presented with a CAUSTIC and an
 ABERRATION. An optical instrument is simply the setting up of an optical
 system, the TELESCOPE, MICROSCOPE, OBJECTIVE, optical LANTERN, CAMERA
@@ -221,7 +221,7 @@ light travels in straight lines--or, in other words, that an object is
 seen in the direction in which it really lies--must have been realized
 in very remote times. The antiquity of mirrors points to some
 acquaintance with the phenomena of reflection, and Layard's discovery of
-a convex lens of rock-crystal among the ruins of the palace of Nimrud
+a [[Convex|convex]] lens of rock-crystal among the ruins of the palace of Nimrud
 implies a knowledge of the burning and magnifying powers of this
 instrument. The Greeks were acquainted with the fundamental law of
 reflection, viz. the equality of the angles of incidence and reflection;
@@ -279,7 +279,7 @@ strong enough to overcome Aristotle's theory that light was an activity
 ([Greek: energeia]) of a medium which he termed the _pellucid_ ([Greek:
 diaphanes]); about two thousand years later Newton's exposition of his
 corpuscular theory overcame the undulatory hypotheses of Descartes and
-Huygens; and it was only after the acquisition of new experimental facts
+[[Huygens]]; and it was only after the acquisition of new experimental facts
 that the labours of Thomas Young and Augustin Fresnel indubitably
 established the wave-theory.
 
@@ -293,7 +293,7 @@ refract the sun's rays so as to render that luminary visible, although
 actually it may be below the horizon. The most celebrated of the early
 writers on optics is the Alexandrian Ptolemy (2nd century). His
 writings on light are believed to be preserved in two imperfect Latin
-manuscripts, themselves translations from the Arabic. The subjects
+[[Manuscript|manuscripts]], themselves translations from the Arabic. The subjects
 discussed include the nature of light and colour; the formation of
 images by various types of mirrors, refractions at the surface of glass
 and of water, with tables of the angle of refraction corresponding to
@@ -406,13 +406,13 @@ realized, and a tendency to dispute the dogmatism of the church and to
 question the theories of the established schools of philosophy became
 apparent. In the science of optics, Italy led the van, the foremost
 pioneers being Franciscus Maurolycus (1494-1575) of Messina, and
-Giambattista della Porta (1538-1615) of Naples. A treatise by Maurolycus
+Giambattista [[Della Porta|della Porta]] (1538-1615) of Naples. A treatise by Maurolycus
 entitled _Photismi de Lumine et Umbra prospectivum radiorum incidentium
 facientes_ (1575), contains a discussion of the measurement of the
 intensity of light--an early essay in photometry; the formation of
 circular patches of light by small holes of any shape, with a correct
 explanation of the phenomenon; and the optical relations of the parts of
-the eye, maintaining that the crystalline humour acts as a lens which
+the eye, maintaining that the crystalline [[Humour|humour]] acts as a lens which
 focuses images on the retina, explaining short- and long-sight (myopia
 and hyper-metropia), with the suggestion that the former may be
 corrected by concave, and the latter by convex, lenses. He observed the
@@ -429,7 +429,7 @@ chiefly on his _Magia naturalis sive de miraculis rerum naturalium_, of
 which four books were published in 1558, the complete work of twenty
 books appearing in 1589. It attained great popularity, perhaps by reason
 of its astonishing medley of subjects--pyrotechnics and perfumery,
-animal reproduction and hunting, alchemy and optics,--and it was several
+animal reproduction and [[Hunting|hunting]], alchemy and optics,--and it was several
 times reprinted, and translated into English (with the title _Natural
 Magick_, 1658), German, French, Spanish, Hebrew and Arabic. The work
 contains an account of the camera obscura, with the invention of which
@@ -450,7 +450,7 @@ images; the later form, now known as the "Keplerian" or "astronomical"
 telescope (in contrast with the earlier or "terrestrial" telescope)
 consisted of two convex lenses, which gave inverted images. With the
 microscope, too, advances were made, and it seems probable that the
-compound type came into common use about this time. These single
+[[Compound|compound]] type came into common use about this time. These single
 instruments were followed by the invention of binoculars, i.e.
 instruments which permitted simultaneous vision with both eyes. There is
 little doubt that the experimental realization of the telescope, opening
@@ -483,7 +483,7 @@ of the sines. It may be observed that the modern form was independently
 obtained by James Gregory and published in his _Optica promota_ (1663).
 Armed with the law of refraction, Descartes determined the geometrical
 theory of the primary and secondary rainbows, but did not mention how
-far he was indebted to the explanation of the primary bow by Antonio de
+far he was indebted to the explanation of the primary [[Bow|bow]] by [[Antonio]] de
 Dominis in 1611; and, similarly, in his additions to the knowledge of
 the telescope the influence of Galileo is not recorded.
 
@@ -530,7 +530,7 @@ to which he contributed so much.
   of a central idea.... It appears that if a general method in deductive
   optics can be attained at all, it must flow from some law or
   principle, itself of the highest generality, and among the highest
-  results of induction.... [This] must be the principle, or law, called
+  results of [[Induction|induction]].... [This] must be the principle, or law, called
   usually the Law of Least Action; suggested by questionable views, but
   established on the widest induction, and embracing every known
   combination of media, and every straight, or bent, or curved line,
@@ -617,7 +617,7 @@ investigation of these properties. Indeed, mathematical and physical
 optics may justly be dated from this time. The phenomenon of
 _diffraction_, so named by Grimaldi, and by Newton _inflection_, which
 may be described briefly as the spreading out, or deviation, from the
-strictly rectilinear path of light passing through a small aperture or
+strictly rectilinear path of light passing through a small [[Aperture|aperture]] or
 beyond the edge of an opaque object, was discovered by the Italian
 Jesuit, Francis Maria Grimaldi (1619-1663), and published in his
 _Physico-Mathesis de Lumine_ (1665); at about the same time Newton made
@@ -626,7 +626,7 @@ formed when light is transmitted through a prism,[4] and studied
 _interference_ phenomena in the form of the colours of thin and thick
 plates, and in the form now termed _Newton's rings_; _double
 refraction_, in the form of the dual images of a single object formed by
-a rhomb of Iceland spar, was discovered by Bartholinus in 1670;
+a rhomb of [[Iceland]] spar, was discovered by Bartholinus in 1670;
 Huygens's examination of the transmitted beams led to the discovery of
 an absence of symmetry now called _polarization_; and the finite
 velocity of light was deduced in 1676 by Ole Roemer from the comparison
@@ -657,7 +657,7 @@ results are collected in his _Opticks_, the first edition of which
 appeared in 1704. Huygens published his theory in his _Traité de
 lumière_ (1690), where he explained reflection, refraction and double
 refraction, but did not elucidate the formation of shadows (which was
-readily explicable on the Newtonian hypothesis) or polarization; and it
+readily explicable on the Newtonian [[Hypothesis|hypothesis]]) or polarization; and it
 was this inability to explain polarization which led to Newton's
 rejection of the wave theory. The authority of Newton and his masterly
 exposition of the corpuscular theory sustained that theory until the
@@ -711,7 +711,7 @@ Bradley's discovery in 1728 of the "aberration of light," with the
 subsequent derivation of the velocity of light, the value agreeing
 fairly well with Roemer's estimate; the foundation of scientific
 photometry by Pierre Bouguer in an essay published in 1729 and expanded
-in 1760 into his _Traité d'optique sur la graduation de la lumière_; the
+in 1760 into his _Traité d'optique sur la [[Graduation|graduation]] de la lumière_; the
 publication of John Henry Lambert's treatise on the same subject,
 entitled _Photometria, sive de Mensura et Gradibus Luminis, Colorum et
 Umbrae_ (1760); and the development of the telescope and other optical
@@ -721,12 +721,12 @@ marked by the names of Thomas Young and Augustin Fresnel, and in a
 lesser degree by Arago, Malus, Sir William Herschel, Fraunhofer,
 Wollaston, Biot and Brewster.
 
-Although the corpuscular theory had been disputed by Benjamin Franklin,
+Although the corpuscular theory had been disputed by Benjamin [[Franklin]],
 Leonhard Euler and others, the authority of Newton retained for it an
 almost general acceptance until the beginning of the 19th century, when
 Young and Fresnel instituted their destructive criticism. Basing his
 views on the earlier undulatory theories and diffraction phenomena of
-Grimaldi and Hooke, Young accepted the Huygenian theory, assuming, from
+Grimaldi and [[Hooke]], Young accepted the Huygenian theory, assuming, from
 a false analogy with sound waves, that the wave-disturbance was
 longitudinal, and ignoring the suggestion made by Hooke in 1672 that the
 direction of the vibration might be transverse, i.e. at right angles to
@@ -770,7 +770,7 @@ medium. Fresnel's theory was developed in a strikingly original manner
 by Sir William Rowan Hamilton, who interpreted from Fresnel's analytical
 determination of the geometrical form of the wave-surface in biaxal
 crystals the existence of two hitherto unrecorded phenomena. At
-Hamilton's instigation Humphrey Lloyd undertook the experimental search,
+Hamilton's instigation Humphrey [[Lloyd]] undertook the experimental search,
 and brought to light the phenomena of external and internal conical
 refraction.
 
@@ -805,8 +805,8 @@ several phenomena (e.g. the colour of the sky) on this hypothesis.
 
 § 13. _Recent Developments._--The determination of the velocity of light
 (see section III. of this article) may be regarded as definitely
-settled, a result contributed to by A. H. L. Fizeau (1849), J. B. L.
-Foucault (1850, 1862), A. Cornu (1874), A. A. Michelson (1880), James
+settled, a result contributed to by A. H. L. [[Fizeau]] (1849), J. B. L.
+[[Foucault]] (1850, 1862), A. Cornu (1874), A. A. Michelson (1880), James
 Young and George Forbes (1882), Simon Newcomb (1880-1882) and Cornu
 (1900). The velocity in moving media was investigated theoretically by
 Fresnel; and Fizeau (1859), and Michelson and Morley (1886) showed
@@ -825,7 +825,7 @@ confirmed by the theoretical investigations of A. A. Bucherer and H. A.
 Lorentz.
 
 Experimental photometry has been greatly developed since the pioneer work
-of Bouguer and Lambert and the subsequent introduction of the photometers
+of Bouguer and [[Lambert]] and the subsequent introduction of the photometers
 of Ritchie, Rumford, Bunsen and Wheatstone, followed by Swan's in 1859,
 and O. R. Lummer and E. Brodhun's instrument (essentially the same as
 Swan's) in 1889. This expansion may largely be attributed to the increase
@@ -840,7 +840,7 @@ investigations in 1893, and the same principle has been applied by
 Haycraft and Whitman. These questions--colour and flicker
 photometry--have important affinities to colour perception and the
 persistence of vision (see VISION). The spectrophotometer, devised by De
-Witt Bristol Brace in 1899, which permits the comparison of similarly
+Witt [[Bristol]] Brace in 1899, which permits the comparison of similarly
 coloured portions of the spectra from two different sources, has done
 much valuable work in the determination of absorptive powers and
 extinction coefficients. Much attention has also been given to the
@@ -866,7 +866,7 @@ types (see INTERFERENCE). The variation of refractive index with density
 has been the subject of much experimental and theoretical inquiry. The
 empirical rule of Gladstone and Dale was often at variance with
 experiment, and the mathematical investigations of H. A. Lorentz of
-Leiden and L. Lorenz of Copenhagen on the electromagnetic theory led to
+Leiden and L. Lorenz of [[Copenhagen]] on the electromagnetic theory led to
 a more consistent formula. The experimental work has been chiefly
 associated with the names of H. H. Landolt and J. W. Brühl, whose
 results, in addition to verifying the Lorenz-Lorentz formula, have
@@ -874,7 +874,7 @@ established that this function of the refractive index and density is a
 colligative property of the molecule, i.e. it is calculable additively
 from the values of this function for the component atoms, allowance
 being made for the mode in which they are mutually combined (see
-CHEMISTRY, PHYSICAL). The preparation of lenses, in which the refractive
+[[Chemistry|CHEMISTRY]], PHYSICAL). The preparation of lenses, in which the refractive
 index decreases with the distance from the axis, by K. F. J. Exner, H.
 F. L. Matthiessen and Schott, and the curious results of refraction by
 non-homogeneous media, as realized by R. Wood may be mentioned (see
@@ -907,7 +907,7 @@ fluorite (56 µ) and sylvite (61 µ) surfaces in 1899 by Rubens and E.
 Aschkinass. The short waves--ultra-violet rays--have also been studied,
 the researches of E. F. Nichols on the transparency of quartz to these
 rays, which are especially present in the radiations of the mercury arc,
-having led to the introduction of lamps made of fused quartz, thus
+having led to the introduction of [[Lamp|lamps]] made of fused quartz, thus
 permitting the convenient study of these rays, which, it is to be noted,
 are absorbed by ordinary clear glass. Recent researches at the works of
 Schott and Genossen, Jena, however, have resulted in the production of a
@@ -930,7 +930,7 @@ occurred simultaneously to W. Sellmeier (who is regarded as the founder
 of the modern theory) and had been employed about 1850 by Sir G. G.
 Stokes to explain absorption lines, involves an action between the
 aether and the molecules of the dispersing substance. The mathematical
-investigation is associated with the names of Sellmeier, Hermann
+investigation is associated with the names of Sellmeier, [[Hermann]]
 Helmholtz, Eduard Ketteler, P. Drude, H. A. Lorentz and Lord Rayleigh,
 and the experimental side with many observers--F. Paschen, Rubens and
 others; absorbing media have been investigated by A. W. Pflüger, a great
@@ -1011,7 +1011,7 @@ experiments on thin metal films which, under certain conditions,
 originate colour phenomena inexplicable by interference and diffraction.
 These colours have been assigned to the principle of optical resonance,
 and have been treated by Kossonogov (_Phys. Zeit._, 1903). J. C. Maxwell
-Garnett (_Phil. Trans_. vol. 203) has shown that the colours of coloured
+[[Garnett]] (_Phil. Trans_. vol. 203) has shown that the colours of coloured
 glasses are due to ultra-microscopic particles, which have been
 directly studied by H. Siedentopf and R. Zsigmondy under limiting
 oblique illumination.
@@ -1028,8 +1028,8 @@ The rotation of the plane of polarization by quartz was discovered in
 1811 by Arago; if white light be used the colours change as the Nicol
 rotates--a phenomenon termed by Biot "rotatory dispersion." Fresnel
 regarded rotatory polarization as compounded from right- and left-handed
-(dextro- and laevo-) circular polarizations; and Fresnel, Cornu, Dove
-and Cotton effected their experimental separation. Legrand des Cloizeaux
+(dextro- and laevo-) circular polarizations; and Fresnel, Cornu, [[Dove]]
+and Cotton effected their experimental separation. Legrand [[Des Cloizeaux|des Cloizeaux]]
 discovered the enormously enhanced rotatory polarization of cinnabar, a
 property also possessed--but in a lesser degree--by the sulphates of
 strychnine and ethylene diamine. The rotatory power of certain liquids
@@ -1053,7 +1053,7 @@ Cauchy were followed by those of Beer, Eisenlohr, Lundquist, Ketteler
 and others; the refractive indices were determined both directly (by
 Kundt) and indirectly by means of Brewster's law; and the reflecting
 powers from [lambda] = 251 µµ to [lambda] = 1500 µµ were determined in
-1900-1902 by Rubens and Hagen. The correlation of the optical and
+1900-1902 by Rubens and [[Hagen]]. The correlation of the optical and
 electrical constants of many metals has been especially studied by P.
 Drude (1900) and by Rubens and Hagen (1903).
 
@@ -1063,7 +1063,7 @@ Herschel in 1845, and by David Brewster in 1846, the theory being due to
 Sir G. G. Stokes (1852). More recent studies have been made by Lommel,
 E. L. Nichols and Merritt (_Phys. Rev._, 1904), and by Millikan who
 discovered polarized fluorescence in 1895. Our knowledge of
-phosphorescence was greatly improved by Becquerel, and Sir James Dewar
+phosphorescence was greatly improved by Becquerel, and Sir James [[Dewar]]
 obtained interesting results in the course of his low temperature
 researches (see LIQUID GASES). In the theoretical and experimental study
 of radiation enormous progress has been recorded. The pressure of
@@ -1072,7 +1072,7 @@ the electromagnetic theory, and, in a simpler manner, by Joseph Larmor
 in his article RADIATION in these volumes, has been experimentally
 determined by E. F. Nichols and Hull, and the tangential component by J.
 H. Poynting. With the theoretical and practical investigation the names
-of Balfour Stewart, Kirchhoff, Stefan, Bartoli, Boltzmann, W. Wien and
+of Balfour Stewart, [[Kirchhoff]], Stefan, Bartoli, Boltzmann, W. Wien and
 Larmor are chiefly associated. Magneto-optics, too, has been greatly
 developed since Faraday's discovery of the rotation of the plane of
 polarization by the magnetic field. The rotation for many substances was
@@ -1105,13 +1105,13 @@ stereoscope. Binocular instruments with enhanced stereoscopic vision, an
 effect achieved by increasing the distance between the object glasses,
 have been introduced. In the study of diffraction phenomena, which led
 to the technical preparation of gratings, the early attempts of
-Fraunhofer, Nobert and Lewis Morris Rutherfurd, were followed by H. A.
+Fraunhofer, Nobert and [[Lewis]] Morris Rutherfurd, were followed by H. A.
 Rowland's ruling of plane and concave gratings which revolutionized
 spectroscopic research, and, in 1898, by Michelson's invention of the
-echelon grating. Of great importance are interferometers, which permit
+[[Echelon|echelon]] grating. Of great importance are interferometers, which permit
 extremely accurate determinations of refractive indices and
 wave-lengths, and Michelson, from his classical evaluation of the
-standard metre in terms of the wave-lengths of certain of the cadmium
+standard metre in terms of the wave-lengths of certain of the [[Cadmium|cadmium]]
 rays, has suggested the adoption of the wave-length of one such ray as a
 standard with which national standards of length should be compared.
 Polarization phenomena, and particularly the rotation of the plane of
@@ -1136,7 +1136,7 @@ others.
   treats "dispersion" in great detail. Treatises more particularly
   theoretical are James Walker, _Analytical Theory of Light_ (1904); A.
   Schuster, _Theory of Optics_ (1904); P. Drude, _Theory of Optics_,
-  Eng. trans. by C. R. Mann and R. A. Millikan (1902). General treatises
+  Eng. trans. by C. R. [[Mann]] and R. A. Millikan (1902). General treatises
   of exceptional merit are A. Winkelmann, _Handbuch der Physik_, vol.
   vi. "Optik" (1904); and E. Mascart, _Traité d'optique_ (1889-1893); M.
   E. Verdet, _Leçons d'optique physique_ (1869, 1872) is also a valuable
@@ -1167,7 +1167,7 @@ others.
   G. S. Klügel (Leipzig, 1775). Original memoirs are available in many
   cases in their author's "collected works," e.g. Huygens, Young,
   Fresnel, Hamilton, Cauchy, Rowland, Clerk Maxwell, Stokes (and also
-  his _Burnett Lectures on Light_), Kelvin (and also his _Baltimore
+  his _[[Burnett]] Lectures on Light_), Kelvin (and also his _Baltimore
   Lectures_, 1904) and Lord Rayleigh. Newton's _Opticks_ forms volumes
   96 and 97 of Ostwald's Klassiker; Huygens' _Über d. Licht_ (1678),
   vol. 20, and Kepler's _Dioptrice_ (1611), vol. 144 of the same series.
@@ -1190,7 +1190,7 @@ the nature of optical phenomena. According to the one, luminous bodies
 emit extremely small corpuscles which can freely pass through
 transparent substances and produce the sensation of light by their
 impact against the retina. This _emission_ or _corpuscular theory_ of
-light was supported by the authority of Isaac Newton,[8] and, though it
+light was supported by the authority of [[Isaac]] Newton,[8] and, though it
 has been entirely superseded by its rival, the _wave-theory_, it remains
 of considerable historical interest.
 
@@ -1787,7 +1787,7 @@ on to Maxwell's theory of light.
   vector quantities, the "electric force" E and the "magnetic force" H,
   the former of which is the force acting on unit of electricity and the
   latter that which acts on a magnetic pole of unit strength. In a
-  non-conductor (dielectric) the force E produces a state that may be
+  non-conductor ([[Dielectric|dielectric]]) the force E produces a state that may be
   described as a displacement of electricity from its position of
   equilibrium. This state is represented by a vector D ("dielectric
   displacement") whose magnitude is measured by the quantity of
@@ -2061,7 +2061,7 @@ of pressure in the medium.
 18. _Theories of Neumann, Green, and MacCullagh._--A theory of light in
 which the elastic aether has a uniform density, and in which the
 vibrations are supposed to be parallel to the plane of polarization, was
-developed by Franz Ernst Neumann,[27] who gave the first deduction of
+developed by [[Franz]] Ernst Neumann,[27] who gave the first deduction of
 the formulas for crystalline reflection. Like Fresnel, he was, however,
 obliged to introduce some illegitimate assumptions and simplifications.
 Here again Green indicated a more rigorous treatment.
@@ -2083,7 +2083,7 @@ Here again Green indicated a more rigorous treatment.
       N ( --------- -------- - -------- --------- ) |.   (21)
          \  [dP]x    [dP]y      [dP]x     [dP]y  / _|
 
-  If [xi], [eta], [zeta] vanish at infinite distance the integral of
+  If [xi], [eta], [zeta] vanish at [[Infinite|infinite]] distance the integral of
   this expression over all space is zero, when L, M, N are constants,
   and the same will be true when these coefficients change from point to
   point, provided we add to (21) certain terms containing the
@@ -2365,7 +2365,7 @@ or parallel to, its own plane.
     Young and Forbes.
 
   An important improvement on the Fizeau method was made in 1880 by
-  James Young and George Forbes at Glasgow. This consisted in using two
+  James Young and George Forbes at [[Glasgow]]. This consisted in using two
   distant reflectors which were placed nearly in the same straight line,
   and at unequal distances. The ratio of the distances was nearly 12:13.
   The phase observed was not that of complete extinction of either
@@ -2653,7 +2653,7 @@ found, in a general way, that there actually was a retardation; but his
 observations took account only of the mean retardation of light of all
 the wave-lengths, which he found to correspond with the undulatory
 theory. Michelson went further by determining the retardation of light
-of various wave-lengths in carbon bisulphide. He made two series of
+of various wave-lengths in [[Carbon Bisulphide|carbon bisulphide]]. He made two series of
 experiments, one with light near the brightest part of the spectrum; the
 other with red and blue light. Putting V for the speed in a vacuum and
 V1 for that in the medium, his result was
@@ -2668,7 +2668,7 @@ between observation and theory.
 The comparison of red and blue light was made differentially. The
 colours selected were of wave-length about 0.62 for red and 0.49 for
 blue. Putting V_r and V_b for the speeds of red and blue light
-respectively in bisulphide of carbon, the mean result compares with
+respectively in bisulphide of [[Carbon|carbon]], the mean result compares with
 theory as follows:--
 
   Observed value of the ratio V_r, V_b    1.0245
@@ -2709,7 +2709,7 @@ a space of about 15 wave-lengths.
   Travaux Scientifiques de Léon Foucault_ (2 vols., 4to, Paris, 1878).
   Cornu's determination is found in _Annales de l'Observatoire de Paris,
   Mémoires_, vol. xiii. The works of Michelson and Newcomb are published
-  _in extenso_ in the _Astronomical Papers of the American Ephemeris_,
+  _in extenso_ in the _Astronomical Papers of the American [[Ephemeris]]_,
   vols. i. and ii.     (S. N.)
 
 
@@ -2774,7 +2774,7 @@ FOOTNOTES:
     supplementary volumes to the 3rd edition of the _Encyclopaedia
     Britannica_.
 
-  [7] A crucial test of the emission and undulatory theories, which was
+  [7] A [[Crucial|crucial]] test of the emission and undulatory theories, which was
     realized by Descartes, Newton, Fermat and others, consisted in
     determining the velocity of light in two differently refracting
     media. This experiment was conducted in 1850 by Foucault, who showed

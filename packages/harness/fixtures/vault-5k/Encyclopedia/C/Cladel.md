@@ -12,7 +12,7 @@ CLADEL, LÉON (1835-1892), French novelist, was born at Montauban
 studied law at Toulouse and became a solicitor's clerk in Paris. He made
 a reputation in a limited circle by his first book, _Les Martyrs
 ridicules_ (1862), a novel for which Charles Baudelaire, whose literary
-disciple Cladel was, wrote a preface. He then returned to his native
+[[Disciple|disciple]] Cladel was, wrote a preface. He then returned to his native
 district of Quercy, where he produced a series of pictures of peasant
 life in _Eral le dompteur_ (1865), _Le Nommé Qouael_ (1868) and other
 volumes. Returning to Paris he published the two novels which are

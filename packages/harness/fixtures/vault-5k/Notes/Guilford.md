@@ -4,14 +4,14 @@ GUILFORD, BARONS AND EARLS OF. FRANCIS NORTH, 1st Baron Guilford
 (1637-1685), was the third son of the 4th Baron North (see NORTH,
 BARONS), and was created Baron Guilford in 1683, after becoming lord
 keeper in succession to Lord Nottingham. He had been an eminent lawyer,
-solicitor-general (1671), attorney-general (1673), and chief-justice of
+solicitor-general (1671), [[Attorney-General|attorney-general]] (1673), and chief-justice of
 the common pleas (1675), and in 1679 was made a member of the council of
 thirty and on its dissolution of the cabinet. He was a man of wide
-culture and a stanch royalist. In 1672 he married Lady Frances Pope,
+culture and a stanch royalist. In 1672 he married Lady [[Franc|Frances]] Pope,
 daughter and co-heiress of the earl of Downe, who inherited the Wroxton
 estate; and he was succeeded as 2nd baron by his son Francis
 (1673-1729), whose eldest son Francis (1704-1790), after inheriting
-first his father's title as 3rd baron, and then (in 1734) the barony of
+first his father's title as 3rd baron, and then (in 1734) the [[Barony|barony]] of
 North from his kinsman the 6th Baron North, was in 1752 created 1st earl
 of Guilford. His first wife was a daughter of the earl of Halifax, and
 his son and successor Frederick was the English prime minister, commonly
@@ -20,20 +20,20 @@ known as Lord North, his courtesy title while the 1st earl was alive.
 FREDERICK NORTH, 2nd earl of Guilford, but better known by his courtesy
 title of Lord North (1732-1792), prime minister of England during the
 important years of the American War, was born on the 13th of April 1732,
-and after being educated at Eton and Christ Church, Oxford, was sent to
+and after being educated at [[Eton]] and Christ Church, Oxford, was sent to
 make the grand tour of the continent. On his return he was, though only
 twenty-two years of age, at once elected M.P. for Banbury, of which town
 his father was high steward; and he sat for the same town in parliament
 for nearly forty years. In 1759 he was chosen by the duke of Newcastle
 to be a lord of the treasury, and continued in the same office under
-Lord Bute and George Grenville till 1765. He had shown himself such a
+Lord Bute and George [[Grenville]] till 1765. He had shown himself such a
 ready debater that on the fall of the first Rockingham ministry in 1766
 he was sworn of the privy council, and made paymaster-general by the
-duke of Grafton. His reputation for ability grew so high that in
+duke of [[Grafton]]. His reputation for ability grew so high that in
 December 1767, on the death of the brilliant Charles Townshend, he was
 made chancellor of the exchequer. His popularity with both the House of
 Commons and the people continued to increase, for his temper was never
-ruffled, and his quiet humour perpetually displayed; and, when the
+ruffled, and his quiet [[Humour|humour]] perpetually displayed; and, when the
 retirement of the duke of Grafton was necessitated by the hatred he
 inspired and the attacks of Junius, no better successor could be found
 for the premiership than the chancellor of the exchequer. Lord North
@@ -57,9 +57,9 @@ of Burke and Fox was against him, and when he had only the purchased
 help of Thurlow and Wedderburne to aid him. The most important events of
 his ministry were those of the American War of Independence. He cannot
 be accused of causing it, but one of his first acts was the retention of
-the tea-duty, and he it was also who introduced the Boston Port Bill in
+the tea-duty, and he it was also who introduced the [[Boston]] Port Bill in
 1774. When the war had broken out he earnestly counselled peace, and it
-was only the earnest solicitations of the king not to leave his
+was only the [[Earnest|earnest]] solicitations of the king not to leave his
 sovereign again at the mercy of the Whigs that induced him to defend a
 war which from 1779 he knew to be both hopeless and impolitic. At last,
 in March 1782, he insisted on resigning after the news of Cornwallis's
@@ -68,7 +68,7 @@ well rewarded for his assistance to the king: his children had good
 sinecures; his half-brother, Brownlow North (1741-1820), was bishop of
 Winchester; he himself was chancellor of the university of Oxford,
 lord-lieutenant of the county of Somerset, and had finally been made a
-knight of the Garter, an honour which has only been conferred on three
+[[Knight|knight]] of the Garter, an honour which has only been conferred on three
 other members of the House of Commons, Sir R. Walpole, Lord Castlereagh
 and Lord Palmerston. Lord North did not remain long out of office, but
 in April 1783 formed his famous coalition with his old subordinate, C.
@@ -88,7 +88,7 @@ unexampled party feeling he won the esteem and almost the love of his
 most bitter opponents. Burke finely sums up his character in his _Letter
 to a Noble Lord_: "He was a man of admirable parts, of general
 knowledge, of a versatile understanding, fitted for every sort of
-business; of infinite wit and pleasantry, of a delightful temper, and
+business; of [[Infinite|infinite]] wit and pleasantry, of a delightful temper, and
 with a mind most disinterested. But it would be only to degrade myself,"
 he continues, "by a weak adulation, and not to honour the memory of a
 great man, to deny that he wanted something of the vigilance and spirit
@@ -106,14 +106,14 @@ remarkable for his great knowledge and love of Greece and of the Greek
 language. He had a good deal to do with the foundation of the Ionian
 university at Corfu, of which he was the first chancellor and to which
 he was very liberal. Guilford, who was governor of Ceylon from 1798 to
-1805, died unmarried on the 14th of October 1827. His cousin, Francis
+1805, died unmarried on the 14th of October 1827. His [[Cousin|cousin]], Francis
 (1772-1861), a son of Brownlow North, bishop of Winchester from 1781 to
 1820, was the 6th earl, and the latter's descendant, Frederick George
 (b. 1876), became 8th earl in 1886.
 
 On the death of the 3rd earl of Guilford in 1802 the barony of North
 fell into abeyance between his three daughters, the survivor of whom,
-Susan (1797-1884). wife of John Sidney Doyle, who took the name of
+Susan (1797-1884). wife of John Sidney [[Doyle]], who took the name of
 North, was declared by the House of Lords in 1841 to be Baroness North,
 and the title passed to her son, William Henry John North, the 11th
 baron (b. 1836) (see NORTH, BARONS).

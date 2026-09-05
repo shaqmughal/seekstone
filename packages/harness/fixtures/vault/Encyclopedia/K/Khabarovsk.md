@@ -14,7 +14,7 @@ and 135° 6´ E. It is connected by rail with Vladivostok (480 m.), and is
 an important entrepôt for goods coming down the Usuri and its tributary
 the Sungacha, as well as a centre of trade, especially in sables. The
 town is built of wood, and has a large cathedral, a monument (1891) to
-Count Muraviev-Amurskiy, a cadet corps (new building 1904), a branch of
+Count Muraviev-Amurskiy, a [[Cadet|cadet]] [[Corps|corps]] (new building 1904), a branch of
 the Russian Geographical Society, with museum, and a technical railway
 school.
 

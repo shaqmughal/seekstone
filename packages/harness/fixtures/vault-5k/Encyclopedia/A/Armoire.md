@@ -5,7 +5,7 @@ or "wardrobe," with one or more doors. It has varied considerably in
 shape and size, and the decoration of its doors and sides has faithfully
 represented mutations of fashion and modifications of use. It was
 originally exceedingly massive and found its chief decoration in
-elaborate hinges and locks of beaten iron. The finer ecclesiastical
+elaborate hinges and [[Lock|locks]] of beaten iron. The finer ecclesiastical
 armoires or aumbries which have come down to us--used in churches for
 the safe custody of vestments, eucharistic vessels, reliquaries and
 other precious objects--are usually painted, sometimes even upon the
@@ -18,7 +18,7 @@ have given place to the vogue of carving, and the simple rectangular
 panels gradually became sculptured with a simple motive, such as the
 linen-fold or parchment patterns. In the treasury of St Germain
 l'Auxerrois the ends of the 15th-century armoires are treated in this
-way. In that and the two following centuries the keys and the
+way. In that and the two following centuries the [[Key|keys]] and the
 escutcheons of the locks became highly ornamental; usually in forged
 iron, they were occasionally made of more precious metals. By slow
 degrees the shape of this receptacle changed--from breadth was evolved
@@ -38,8 +38,8 @@ increased, and it was again constructed in one piece. Ere long, however,
 it grew more sumptuous than ever. Boulle encrusted it with marqueterie
 from designs by Berain; it glowed with _amorini_, with the torches and
 arrows of Cupid, with the garlands which he weaves for his captives, and
-when allusiveness left a corner vacant, it was filled with arabesques in
-ebony or ivory, in brass or white metal. While the royal palaces and the
+when allusiveness left a corner vacant, it was filled with [[Arabesque|arabesques]] in
+ebony or [[Ivory|ivory]], in brass or white metal. While the royal palaces and the
 hotels of the great nobility were filled with those costly splendours,
 the ordinary cabinetmaker continued to construct his modest pieces, and
 by the middle of the 18th century the armoire was found in every French
@@ -58,7 +58,7 @@ and the beautiful _fermiere generale_, Mme de la Popeliniere, who had
 one made to mask a secret door. In the conventional and not very
 attractive wardrobe of commerce it is difficult to descry the gracious
 characteristics of the armoire of the Renaissance or the 17th century,
-and it is not altogether surprising that Theodore de Banville should
+and it is not altogether surprising that Theodore de [[Banville]] should
 have condemned one of the most solidly useful of household necessaries
 as a "hideous monster."
 

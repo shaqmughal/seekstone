@@ -15,16 +15,16 @@ branching, and about a foot in height; the leaves are deeply cut, with
 filiform segments; the flowers are small and white. The fruits, the
 so-called seeds, which constitute the cumin of pharmacy, are fusiform or
 ovoid in shape and compressed laterally; they are two lines long, are
-hotter to the taste, lighter in colour, and larger than caraway seeds,
+hotter to the taste, lighter in colour, and larger than [[Caraway|caraway]] seeds,
 and have on each half nine fine ridges, overlying as many oil-channels
 or vittae. Their strong aromatic smell and warm bitterish taste are due
 to the presence of about 3% of an essential oil. The tissue of the seeds
-contains a fatty oil, with resin, mucilage and gum, malates and
+contains a fatty oil, with resin, mucilage and [[Gum|gum]], malates and
 albuminous matter; and in the pericarp there is much tannin. The
-volatile oil of cumin, which may be separated by distillation of the
+volatile oil of cumin, which may be separated by [[Distillation|distillation]] of the
 seed with water, is mainly a mixture of cymol or cymene, C10H14, and
-cumic aldehyde, C6H4(C3H7)COH. Cumin is mentioned in Isaiah xxviii. 25,
-27, and Matthew xxiii. 23, and in the works of Hippocrates and
+cumic aldehyde, C6H4(C3H7)COH. Cumin is mentioned in [[Isaiah]] xxviii. 25,
+27, and [[Matthew]] xxiii. 23, and in the works of [[Hippocrates]] and
 Dioscorides. From Pliny we learn that the ancients took the ground seed
 medicinally with bread, water or wine, and that it was accounted the
 best of condiments as a remedy for squeamishness. It was found to
@@ -39,7 +39,7 @@ centuries was 2d. or, at present value, about 1s. 4d. (Rogers, _Hist. of
 Agric. and Prices_, i. 631). It is stimulant and carminative, and is
 employed in the manufacture of curry powder. The medicinal use of the
 drug is now confined to veterinary practice. Cumin is exported from
-India, Mogador, Malta and Sicily.
+India, Mogador, [[Malta]] and Sicily.
 
 ## See also
 

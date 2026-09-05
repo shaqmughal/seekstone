@@ -2,7 +2,7 @@
 
 BETHANY (mod. _el-'Azariyeh_), a village nearly 2 m. E.S.E. from
 Jerusalem, on the eastern slope of the Mount of Olives, 2208 ft. above
-the sea. It is interesting as the residence of Lazarus and his sisters,
+the sea. It is interesting as the residence of [[Lazarus]] and his sisters,
 and a favourite retreat of Jesus (see especially John xi., which
 describes the miracle of the resurrection of Lazarus at this place).
 From the 4th century down to the time of the Mahommedan invasion several

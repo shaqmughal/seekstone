@@ -16,7 +16,7 @@ in the 4th century B.C., though it does not appear in Roman history
 before the Social War (90 B.C.), in which it was at first adopted by the
 allies as the capital and seat of government of their newly founded
 state under the name Italia (this form, not Italica, is vouched for by
-the coins). It appears also as a fortress of importance in the Civil
+the [[Coin|coins]]). It appears also as a fortress of importance in the Civil
 War, though it only resisted Caesar's attack for a week (49 B.C.).
 Whether the Via Valeria ran as far as Corfinium before the time of
 Claudius is uncertain: he, however, certainly extended it to the

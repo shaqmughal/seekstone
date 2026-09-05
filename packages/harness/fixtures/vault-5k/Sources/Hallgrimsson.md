@@ -1,9 +1,9 @@
 # Hallgrimsson
 
-HALLGRIMSSON, JONAS (1807-1844), the chief lyrical poet of Iceland, was
+HALLGRIMSSON, [[Jonas|JONAS]] (1807-1844), the chief lyrical poet of [[Iceland]], was
 born in 1807 at Steinsstathir in Eyjafjartharsysla in the north of that
 island, and educated at the famous school of Bessastathr. In 1832 he went
-to the university of Copenhagen, and shortly afterwards turned his
+to the university of [[Copenhagen]], and shortly afterwards turned his
 attention to the natural sciences, especially geology. Having obtained
 pecuniary assistance from the Danish government, he travelled through
 all Iceland for scientific purposes in the years 1837-1842, and made

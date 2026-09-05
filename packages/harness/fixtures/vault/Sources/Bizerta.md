@@ -1,11 +1,11 @@
 # Bizerta
 
-BIZERTA (properly pronounced Ben Zert; Fr. _Bizerte_), a seaport of
+BIZERTA (properly pronounced [[Ben]] Zert; Fr. _Bizerte_), a seaport of
 Tunisia, in 37 deg. 17' N., 9 deg. 50' E. Pop. about 12,000. Next to
 Toulon, Bizerta is the most important naval port of France in the
 Mediterranean. It occupies a commanding strategical position in the
-narrowest part of the sea, being 714 m. E. of Gibraltar, 1168 m. W.N.W.
-of Port Said, 240 m. N.W. of Malta, and 420 m. S. by E. of Toulon. It is
+narrowest part of the sea, being 714 m. E. of [[Gibraltar]], 1168 m. W.N.W.
+of Port Said, 240 m. N.W. of [[Malta]], and 420 m. S. by E. of Toulon. It is
 60 m. by rail N.N.W. of Tunis. The town is built on the shores of the
 Mediterranean at the point where the Lake of Bizerta enters the sea
 through a natural channel, the mouth of which has been canalized. The
@@ -27,8 +27,8 @@ arsenal. There is a torpedo and submarine boat station on the north side
 of the channel at the entrance to the lake, but the principal naval
 works are at Sidi Abdallah at the south-west corner of the lake and 10
 m. from the open sea. Here is an enclosed basin covering 123 acres with
-ample quayage, dry docks and everything necessary to the accommodation,
-repair, revictualling and coaling of a numerous fleet. Barracks,
+ample quayage, dry [[Dock|docks]] and everything necessary to the accommodation,
+repair, revictualling and coaling of a numerous fleet. [[Barracks]],
 hospitals and waterworks have been built, the military town, called
 Ferryville, being self-contained.
 
@@ -36,12 +36,12 @@ Fortifications have been built for the protection of the port. They
 comprise (a) the older works surrounding the town; (b) a group of coast
 batteries on the high ground of Cape Bizerta or Guardia, 4 m.
 north-north-west of the town; these are grouped round a powerful fort
-called Jebel Kebir, and have a command of 300 to 800 ft. above
+called [[Jebel]] Kebir, and have a command of 300 to 800 ft. above
 sea-level; (c) another group of batteries on the narrow ground between
 the sea and the lake to the east of the town; the highest of these is
 the Jebel Tuila battery 265 ft. above sea-level.
 
-The LAKE OF BIZERTA, called Tinja by the Arabs, abounds in excellent
+The LAKE OF BIZERTA, called Tinja by the [[Arabs]], abounds in excellent
 fish, especially mullets, the dried roe of which, called _botargo_, is
 largely exported, and the fishing industry employs a large proportion of
 the inhabitants. The western shore of the lake is low, and in many
@@ -53,18 +53,18 @@ Ishkul, so called from Jebel Ishkul, a hill on its southern bank 1740
 ft. high. The Lake of Ishkul is nearly as large as the first lake, but
 is very shallow. Its waters are generally sweet.
 
-Bizerta occupies the site of the ancient Tyrian colony, Hippo Zarytus or
+Bizerta occupies the site of the ancient Tyrian colony, [[Hippo]] Zarytus or
 Diarrhytus, the harbour of which, by means of a spacious pier,
 protecting it from the north-east wind, was rendered one of the safest
 and finest on this coast. The town became a Roman colony, and was
 conquered by the Arabs in the 7th century. The place thereafter was
 subject either to the rulers of Tunis or of Constantine, but the
-citizens were noted for their frequent revolts. They threw in their lot
+citizens were noted for their frequent revolts. They threw in their [[Lot|lot]]
 (c. 1530) with the pirate Khair-ed-Din, and subsequently received a
-Turkish garrison. Bizerta was captured by the Spaniards in 1535, but not
+Turkish [[Garrison|garrison]]. Bizerta was captured by the Spaniards in 1535, but not
 long afterwards came under the Tunisian government. Centuries of neglect
 followed, and the ancient port was almost choked up, though the value of
-the fisheries saved the town from utter decay. Its strategical
+the [[Fisheries|fisheries]] saved the town from utter decay. Its strategical
 importance was one of the causes which led to the occupation of Tunisia
 by the French in 1881. In 1890 a concession for a new canal and harbour
 was granted to a company, and five years later the new port was formally
@@ -84,7 +84,7 @@ previous year, the Grand Prix de Rome for a cantata called _Cloris et
 Clotilde_. A success of a different kind also befell him at this time.
 Offenbach, then manager of the Theatre des Bouffes-Parisiens, had
 organized a competition for an operetta, in which young Bizet was
-awarded the first prize in conjunction with Charles Lecocq, each of them
+awarded the first prize in conjunction with Charles [[Lecocq]], each of them
 writing an operetta called _Docteur Miracle_. After the three years
 spent in Rome, an obligation imposed by the French government on the
 winners of the first prize at the Conservatoire, Bizet returned to
@@ -95,7 +95,7 @@ somewhat uninteresting nature of the story, the opera did not enjoy a
 very long run. The qualities displayed by the composer, however, were
 amply recognized, although the music was stated, by some critics, to
 exhibit traces of Wagnerian influence. Wagnerism at that period was a
-sort of spectre that haunted the imagination of many leading members of
+sort of spectre that haunted the [[Imagination|imagination]] of many leading members of
 the musical press. It sufficed for a work to be at all out of the common
 for the epithet "Wagnerian" to be applied to it. The term, it may be
 said, was intended to be condemnatory, and it was applied with little
@@ -117,7 +117,7 @@ opera given at the Opera Comique on the 22nd of May 1872, is certainly
 one of his most individual efforts. Again were accusations of Wagnerism
 hurled at the composer's head, and _Djamileh_ did not achieve the
 success it undoubtedly deserved. The composer was more fortunate with
-the incidental music he wrote to Alphonse Daudet's drama,
+the incidental music he wrote to Alphonse Daudet's [[Drama|drama]],
 _L'Arlesienne_, produced in October 1872. Different numbers from this,
 arranged in the form of suites, have often been heard in the
 concert-room. Rarely have poetry and imagination been so well allied as
@@ -132,7 +132,7 @@ underlying this psychological narrative was in itself a brilliant
 discovery, and in reconstructing the story in dramatic form the authors
 produced one of the most famous libretti in the whole range of opera.
 Still more striking than the libretto was the music composed by Bizet,
-in which the peculiar use of the flute and of the lowest notes of the
+in which the peculiar use of the [[Flute|flute]] and of the lowest notes of the
 harp deserves particular attention.
 
 On the 3rd of June, three months after the production of _Carmen_ in

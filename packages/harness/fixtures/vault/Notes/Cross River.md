@@ -18,7 +18,7 @@ course parallel to, and 10 to 20 m. east of, the Cross river. Near its
 mouth, on its east bank, is the town of Calabar (q.v.). It enters the
 estuary in 4 deg. 45' N. The Cross, Calabar, Kwa and other streams
 farther east, which rise on the flanks of the Cameroon Mountains, form a
-large delta. The Calabar and Kwa rivers are wholly within the British
+large [[Delta|delta]]. The Calabar and Kwa rivers are wholly within the British
 protectorate of Southern Nigeria, as is the Cross river from its mouth
 to the rapids mentioned. The upper course of the river is in German
 territory.

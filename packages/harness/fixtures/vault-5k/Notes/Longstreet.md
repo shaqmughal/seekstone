@@ -6,14 +6,14 @@ district, South Carolina, and graduated at West Point in 1842. He served
 in the Mexican War, was severely wounded, and received two brevets for
 gallantry. In 1861, having attained the rank of major, he resigned when
 his state seceded, and became a brigadier-general in the Confederate
-army. In this rank he fought at the first battle of Bull Run, and
+army. In this rank he fought at the first battle of [[Bull]] Run, and
 subsequently at the head of a division in the Peninsular campaign and
 the Seven Days. This division subsequently became the nucleus of the I.
 corps, Army of Northern Virginia, which was commanded throughout the war
 by Longstreet. This corps took part in the battles of second Bull Run
-and Antietam, and held the left of Lee's front at Fredericksburg. Most
+and [[Antietam]], and held the left of Lee's front at Fredericksburg. Most
 of the corps was absent in North Carolina when the battle of
-Chancellorsville took place, but Longstreet, now a lieutenant-general,
+[[Chancellorsville]] took place, but Longstreet, now a lieutenant-general,
 returned to Lee in time to take part in the campaign of Gettysburg. At
 that battle he disapproved of the attack because of the exceptionally
 strong position of the Federals. He has been charged with tardiness in
@@ -23,7 +23,7 @@ conceal his movements, which caused circuitous marching. The most
 conspicuous fighting in the battle was conducted by Longstreet. In
 September 1863 he took his corps to the west and bore a conspicuous part
 in the great battle of Chickamauga. In November he commanded the
-unsuccessful expedition against Knoxville. In 1864 he rejoined Lee's
+unsuccessful expedition against [[Knoxville]]. In 1864 he rejoined Lee's
 army in Virginia, and on the 6th of May arrived upon the field of the
 Wilderness as the Confederate right had been turned and routed. His
 attack was a model of impetuosity and skill, and drove the enemy back
@@ -51,7 +51,7 @@ that of commissioner of Pacific railways under Presidents McKinley and
 Roosevelt. In 1896 he published _From Manassas to Appomattox_, and in
 his later years he prepared an account of Gettysburg, which was
 published soon after his death, with notes and reminiscences of his
-whole military career. General Longstreet died at Gainesville, Georgia,
+whole military career. General Longstreet died at [[Gainesville]], Georgia,
 on the 2nd of January 1904.
 
   See _Lee and Longstreet at High Tide_, by Helen D. Longstreet

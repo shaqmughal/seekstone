@@ -10,7 +10,7 @@ Paris Exhibition of 1855 he received the grand or council medal. Most of
 his life was passed in the neighbourhood of Paris. He was passionately
 fond of animals, especially dogs, and indulged in all kinds of field
 sports. He died on the 22nd of August 1860 in consequence of being
-thrown from a vicious horse while hunting at Fontainebleau. The style of
+thrown from a vicious horse while hunting at [[Fontainebleau]]. The style of
 Decamps was characteristically and intensely French. It was marked by
 vivid dramatic conception, by a manipulation bold and rapid, sometimes
 even to roughness, and especially by original and startling use of
@@ -25,7 +25,7 @@ impressive of his historical pictures is his "Defeat of the Cimbri,"
 representing with wonderful skill the conflict between a horde of
 barbarians and a disciplined army. Decamps produced a number of genre
 pictures, chiefly of scenes from French and Algerine domestic life, the
-most marked feature of which is humour. The same characteristic attaches
+most marked feature of which is [[Humour|humour]]. The same characteristic attaches
 to most of his numerous animal paintings. He painted dogs, horses, &c.,
 with great fidelity and sympathy; but his favourite subject was monkeys,
 which he depicted in various studies and sketches with a grotesque

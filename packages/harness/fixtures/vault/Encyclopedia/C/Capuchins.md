@@ -7,14 +7,14 @@ type: article
 
 # Capuchins
 
-CAPUCHINS, an order of friars in the Roman Catholic Church, the chief
+CAPUCHINS, an order of [[Friar|friars]] in the Roman Catholic Church, the chief
 and only permanent offshoot from the Franciscans. It arose about the
 year 1520, when Matteo di Bassi, an "Observant" Franciscan, became
 possessed of the idea that the habit worn by the Franciscans was not the
 one that St Francis had worn; accordingly he made himself a pointed or
 pyramidal hood and also allowed his beard to grow and went about
 bare-footed. His superiors tried to suppress these innovations, but in
-1528 he obtained the sanction of Clement VII. and also the permission to
+1528 he obtained the sanction of [[Clement]] VII. and also the permission to
 live as a hermit and to go about everywhere preaching to the poor; and
 these permissions were not only for himself, but for all such as might
 join him in the attempt to restore the most literal observance possible
@@ -42,7 +42,7 @@ midnight, there were two hours of private prayer daily. The fasts and
 disciplines were rigorous and frequent. The great external work was
 preaching and spiritual ministrations among the poor. In theology the
 Capuchins abandoned the later Franciscan school of Scotus, and returned
-to the earlier school of Bonaventura (q.v.). The new congregation at the
+to the earlier school of [[Bonaventura]] (q.v.). The new congregation at the
 outset of its history underwent a series of severe blows. The two
 founders left it, Matteo di Bassi to return to the Observants, while his
 first companion, on being superseded in the office of vicar, became so
@@ -66,10 +66,10 @@ common people by the great poverty and austerity of their life. By these
 means they were also extraordinarily successful in making converts from
 Protestantism to Catholicism. Nor were the activities of the Capuchins
 confined to Europe. From an early date they undertook missions to the
-heathen in America, Asia and Africa, and at the middle of the 17th
+[[Heathen|heathen]] in America, Asia and Africa, and at the middle of the 17th
 century a Capuchin missionary college was founded in Rome for the
 purpose of preparing their subjects for foreign missions. A large number
-of Capuchins have suffered martyrdom for the Gospel. This activity in
+of Capuchins have suffered martyrdom for the [[Gospel]]. This activity in
 Europe and elsewhere continued until the close of the 18th century, when
 the number of Capuchin friars was estimated at 31,000.
 
@@ -78,15 +78,15 @@ secularizations and revolutions of the end of the 18th century and the
 first half of the 19th; but they survived the strain, and during the
 latter part of the 19th century rapidly recovered ground. At the
 beginning of the present century there were fifty provinces with some
-500 monasteries and 300 hospices or lesser houses; and the number of
+500 monasteries and 300 [[Hospice|hospices]] or lesser houses; and the number of
 Capuchin friars, including lay-brothers, was reckoned at 9500. In
 England there are ten or twelve Capuchin monasteries, and in Ireland
 three. The Capuchins now possess the church of the Portiuncula at
-Assisi. The Capuchins still keep up their missionary work and have some
+[[Assisi]]. The Capuchins still keep up their missionary work and have some
 200 missionary stations in all parts of the world--notably India,
 Abyssinia and the Turkish empire. Though "the poorest of all orders," it
 has attracted into its ranks an extraordinary number of the highest
-nobility and even of royalty. The celebrated Father Mathew, the apostle
+nobility and even of royalty. The celebrated Father [[Mathew]], the [[Apostle|apostle]]
 of Temperance in Ireland, was a Capuchin friar. Like the Franciscans the
 Capuchins wear a brown habit.
 

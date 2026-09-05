@@ -237,7 +237,7 @@ his widow was created Baroness Macdonald of Earnscliffe.
   The authorized and fullest biography of Sir John A. Macdonald is one
   written by his private secretary, Joseph Pope. Others have been
   written by his nephew, Colonel J. Pennington Macpherson, and by J. E.
-  Collins. A bright and amusing anecdotal life has been compiled by E.
+  [[Collins]]. A bright and amusing anecdotal life has been compiled by E.
   D. Biggar. A condensed biography by G. R. Parkin forms one of the
   "Makers of Canada" series (Toronto, 1907; new ed., 1909).
        (G. R. P.)

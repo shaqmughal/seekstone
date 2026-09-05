@@ -3,21 +3,21 @@
 BISMUTH, a metallic chemical element; symbol Bi, atomic weight 208.5 (O
 = 16). It was probably unknown to the Greeks and Romans, but during the
 middle ages it became quite familiar, notwithstanding its frequent
-confusion with other metals. In 1450 Basil Valentine referred to it by
+confusion with other metals. In 1450 [[Basil]] Valentine referred to it by
 the name "wismut," and characterized it as a metal; some years later
 Paracelsus termed it "wissmat," and, in allusion to its brittle nature,
-affirmed it to be a "bastard" or "half-metal"; Georgius Agricola used
+affirmed it to be a "[[Bastard|bastard]]" or "half-metal"; Georgius Agricola used
 the form "wissmuth," latinized to "bisemutum," and also the term
 "plumbum cineareum." Its elementary nature was imperfectly understood;
 and the impure specimens obtained by the early chemists explain, in some
 measure, its confusion with tin, lead, antimony, zinc and other metals;
 in 1595 Andreas Libavius confused it with antimony, and in 1675 Nicolas
-Lemery with zinc. These obscurities began to be finally cleared up with
+[[Lemery]] with zinc. These obscurities began to be finally cleared up with
 the researches of Johann Heinrich Pott (1692-1777), a pupil of Stahl,
 published in his _Exercitationes chemicae de Wismutho_ (1769), and of N.
-Geoffroy, son of Claude Joseph Geoffroy, whose contribution to our
+Geoffroy, son of [[Claude]] Joseph Geoffroy, whose contribution to our
 knowledge of this metal appeared in the _Memoires de l'academie
-francaise_ for 1753. Torbern Olof Bergman reinvestigated its properties
+francaise_ for 1753. Torbern Olof [[Bergman]] reinvestigated its properties
 and determined its reactions; his account, which was published in his
 _Opuscula_, contains the first fairly accurate description of the metal.
 
@@ -34,13 +34,13 @@ of the cube-like crystals can be truncated by cleavage at once
 distinguishes them from true cubes. When not tarnished, the mineral has
 a silver-white colour with a tinge of red, and the lustre is metallic.
 Hardness 2-2-1/2; specific gravity 9.70-9.83. The slight variations in
-specific gravity are due to the presence of small amounts of arsenic,
+specific gravity are due to the presence of small amounts of [[Arsenic|arsenic]],
 sulphur or tellurium, or to enclosed impurities.
 
-Bismuth occurs in metalliferous veins traversing gneiss or clay-slate,
-and is usually associated with ores of silver and cobalt. Well-known
+Bismuth occurs in metalliferous veins traversing [[Gneiss|gneiss]] or clay-slate,
+and is usually associated with ores of silver and [[Cobalt|cobalt]]. Well-known
 localities are Schneeberg in Saxony and Joachimsthal in Bohemia; at the
-former it has been found as arborescent groups penetrating brown jasper,
+former it has been found as arborescent groups penetrating brown [[Jasper|jasper]],
 which material has occasionally been cut and polished for small
 ornaments. The mineral has been found in some Cornish mines and is
 fairly abundant in Bolivia (near Sorata, and at Tasna in Potosi). It is
@@ -49,7 +49,7 @@ the chief commercial source of bismuth.
 The oxide, bismuth ochre, Bi2O3, and the sulphide, bismuth glance or
 bismuthite, are also of commercial importance. The former is found,
 generally mixed with iron, copper and arsenic oxides, in Bohemia,
-Siberia, Cornwall, France (Meymac) and other localities; it also occurs
+Siberia, [[Cornwall]], France (Meymac) and other localities; it also occurs
 admixed with bismuth carbonate and hydrate. The hydrated carbonate,
 bismutite, is of less importance; it occurs in Cornwall, Bolivia,
 Arizona and elsewhere.
@@ -72,7 +72,7 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   impurities. The extraction from ores in which the bismuth is present
   in the metallic condition may be accomplished by a simple liquation,
   or melting, in which the temperature is just sufficient to melt the
-  bismuth, or by a complete fusion of the ore. The first process never
+  bismuth, or by a complete [[Fusion|fusion]] of the ore. The first process never
   extracts all the bisbuth, as much as one-third being retained in the
   matte or speiss; the second is more satisfactory, since the extraction
   is more complete, and also allows the addition of reducing agents to
@@ -85,8 +85,8 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
 
   Sulphuretted ores are smelted, either with or without a preliminary
   calcination, with metallic iron; calcined ores may be smelted with
-  carbon (coal). The reactions are strictly analogous to those which
-  occur in the smelting of galena (see LEAD), the carbon reducing any
+  [[Carbon|carbon]] (coal). The reactions are strictly analogous to those which
+  occur in the smelting of [[Galena|galena]] (see LEAD), the carbon reducing any
   oxide, either present originally in the ore or produced in the
   calcination and the iron combining with the sulphur of the bismuthite.
   A certain amount of bismuth sulphate is always formed during the
@@ -108,8 +108,8 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   is _aqua regia_ or strong sulphuric acid. The solution of metallic
   chlorides or sulphates so obtained is precipitated by iron, the
   metallic bismuth filtered, washed with water, pressed in canvas bags,
-  and finally fused in graphite crucibles, the surface being protected
-  by a layer of charcoal. Another process consists in adding water to
+  and finally fused in [[Graphite|graphite]] crucibles, the surface being protected
+  by a layer of [[Charcoal|charcoal]]. Another process consists in adding water to
   the solution and so precipitating the bismuth as oxychloride, which is
   then converted into the metal.
 
@@ -165,7 +165,7 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   case it becomes coated with a greyish-black layer of an oxide (dioxide
   (?)), at a red heat the layer consists of the trioxide (Bi2O3); and is
   yellow or green in the case of pure bismuth, and violet or blue if
-  impure; at a bright red heat it burns with a bluish flame to the
+  impure; at a [[Bright|bright]] red heat it [[Burns|burns]] with a bluish flame to the
   trioxide. Bismuth combines directly with the halogens, and the
   elements of the sulphur group. It readily dissolves in nitric acid,
   _aqua regia_ and hot sulphuric acid, but tardily in hot hydrochloric
@@ -184,7 +184,7 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   them brittle and impairs their electrical conductivity. With mercury
   it forms amalgams. Bismuth is a component of many ternary alloys
   characterized by their low fusibility and expansion in solidification;
-  many of them are used in the arts (see FUSIBLE METAL).
+  many of them are used in the arts (see [[Fusible Metal|FUSIBLE METAL]]).
 
   _Compounds_.--Bismuth forms four oxides, of which the trioxide, Bi2O3,
   is the most important. This compound occurs in nature as bismuth
@@ -198,12 +198,12 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   of a bismuth salt. Bismuth dioxide, BiO or Bi2O2, is said to be formed
   by the limited oxidation of the metal, and as a brown precipitate by
   adding mixed solutions of bismuth and stannous chlorides to a solution
-  of caustic potash. Bismuth tetroxide, Bi2O4, sometimes termed bismuth
+  of [[Caustic|caustic]] potash. Bismuth tetroxide, Bi2O4, sometimes termed bismuth
   bismuthate, is obtained by melting bismuth trioxide with potash, or by
   igniting bismuth trioxide with potash and potassium chlorate. It is
   also formed by oxidizing bismuth trioxide suspended in caustic potash
-  with chlorine, the pentoxide being formed simultaneously; oxidation
-  and potassium ferricyanide simply gives the tetroxide (Hauser and
+  with [[Chlorine|chlorine]], the pentoxide being formed simultaneously; oxidation
+  and potassium ferricyanide simply gives the tetroxide ([[Hauser]] and
   Vanino, _Zeit. Anorg. Chem_., 1904, 39, p. 381). The hydrate,
   Bi2O4.2H2O, is also known. Bismuth pentoxide, Bi2C5, is obtained by
   heating bismuthic acid, HBiO3, to 130 deg.C.; this acid (in the form
@@ -213,9 +213,9 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   Bismuth forms two chlorides: BiCl2 and BiCl3. The dichloride, BiCl2,
   is obtained as a brown crystalline powder by fusing the metal with the
   trichloride, or in a current of chlorine, or by heating the metal with
-  calomel to 250 deg. Water decomposes it to metallic bismuth and the
+  [[Calomel|calomel]] to 250 deg. Water decomposes it to metallic bismuth and the
   oxychloride, BiOCl. Bismuth trichloride, BiCl3, was obtained by Robert
-  Boyle by heating the metal with corrosive sublimate. It is the final
+  Boyle by heating the metal with [[Corrosive Sublimate|corrosive sublimate]]. It is the final
   product of burning bismuth in an excess of chlorine. It is a white
   substance, melting at 225 deg.-230 deg. and boiling at 435 deg.-441
   deg. With excess of water, it gives a white precipitate of the
@@ -239,7 +239,7 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   crystalline precipitate of basic nitrate, probably Bi(OH)2NO3, though
   it varies with the amount of water employed. This precipitate
   constitutes the "magistery of bismuth" or "subnitrate of bismuth" of
-  pharmacy, and under the name of pearl white, _blanc d'Espagne_ or
+  pharmacy, and under the name of pearl white, _[[Blanc|blanc]] d'Espagne_ or
   _blanc de fard_ has long been used as a cosmetic.
 
   _Sulphides_.--Bismuth combines directly with sulphur to form a,
@@ -274,7 +274,7 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   only one part of bismuth is present in 20,000 of water. The blackish
   brown sulphide precipitated from bismuth salts by sulphuretted
   hydrogen is insoluble in ammonium sulphide, but is readily dissolved
-  by nitric acid. The metal can be reduced by magnesium, zinc, cadmium,
+  by nitric acid. The metal can be reduced by magnesium, zinc, [[Cadmium|cadmium]],
   iron, tin, copper and substances like hypophosphorous acid from acid
   solutions or from alkaline ones by formaldehyde. In quantitative
   estimations it is generally weighed as oxide, after precipitation as
@@ -283,15 +283,15 @@ urnayl arsenate walpurgite, Bi(UO2),(OH)24(A3O4)4.
   _Pharmacology_.--The salts of bismuth are feebly antiseptic. Taken
   internally the subnitrate, coming into contact with water, tends to
   decompose, gradually liberating nitric acid, one of the most powerful
-  antiseptics. The physical properties of the powder also give it a mild
+  [[Antiseptics|antiseptics]]. The physical properties of the powder also give it a mild
   astringent action. There are no remote actions.
 
   _Therapeutics_.--The subnitrate of bismuth is invaluable in certain
-  cases of dyspepsia, and still more notably so in diarrhoea. It owes
+  cases of [[Dyspepsia|dyspepsia]], and still more notably so in diarrhoea. It owes
   its value to the decomposition described above, by means of which a
   powerful antiseptic action is safely and continuously exerted. There
   is hardly a safer drug. It may be given in drachm doses with impunity.
-  It colours the faeces black owing to the formation of sulphide.
+  It [[Colours|colours]] the faeces black owing to the formation of sulphide.
 
 ## References
 

@@ -9,7 +9,7 @@ tags: [politics, biography]
 # F. G. M. B. - Frederick George Meeson Beck
 
 F. G. M. B. - FREDERICK GEORGE MEESON BECK, M.A.
-Fellow and Lecturer of Clare College, Cambridge.
+[[Fellow]] and Lecturer of [[Clare]] College, Cambridge.
 
 - Bernicia.
 

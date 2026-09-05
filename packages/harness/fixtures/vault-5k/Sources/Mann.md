@@ -7,9 +7,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Mann"
 
 # Mann
 
-MANN, HORACE (1796-1859), American educationist, was born in Franklin,
+MANN, HORACE (1796-1859), American educationist, was born in [[Franklin]],
 Massachusetts, on the 4th of May 1796. His childhood and youth were
-passed in poverty, and his health was early impaired by hard manual
+passed in poverty, and his health was early impaired by hard [[Manual|manual]]
 labour. His only means for gratifying his eager desire for books was the
 small library founded in his native town by Benjamin Franklin and
 consisting principally of histories and treatises on theology. At the
@@ -22,7 +22,7 @@ Greek (1820-1822) and librarian (1821-1823) at Brown University; studied
 during 1821-1823 in the famous law school conducted by Judge James Gould
 at Litchfield, Connecticut; and in 1823 was admitted to the Norfolk
 (Mass.) bar. For fourteen years, first at Dedham, Massachusetts, and
-after 1833 at Boston, he devoted himself, with great success, to his
+after 1833 at [[Boston]], he devoted himself, with great success, to his
 profession. Meanwhile he served, with conspicuous ability, in the
 Massachusetts House of Representatives from 1827 to 1833 and in the
 Massachusetts Senate from 1833 to 1837, for the last two years as
@@ -47,7 +47,7 @@ disapproved of his pedagogical theories and innovations, and by various
 religious sectaries, who contended against the exclusion of all
 sectarian instruction from the schools. He answered these attacks in
 kind, sometimes perhaps with unnecessary vehemence and rancour, but he
-never faltered in his work, and, an optimist by nature, a disciple of
+never faltered in his work, and, an optimist by nature, a [[Disciple|disciple]] of
 his friend George Combe (q.v.), and a believer in the indefinite
 improvability of mankind, he was sustained throughout by his conviction
 that nothing could so much benefit the race, morally, intellectually and

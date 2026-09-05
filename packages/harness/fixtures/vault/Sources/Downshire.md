@@ -17,9 +17,9 @@ created earl of Hillsborough in the Irish peerage; in 1754 he was made
 comptroller of the royal household and an English privy councillor; and
 in 1756 he became a peer of Great Britain as baron of Harwich. For
 nearly two years he was president of the board of trade and plantations
-under George Grenville, and after a brief period of retirement he filled
+under George [[Grenville]], and after a brief period of retirement he filled
 the same position, and then that of joint postmaster-general, under the
-earl of Chatham. From 1768 to 1772 Hillsborough was secretary of state
+earl of [[Chatham]]. From 1768 to 1772 Hillsborough was secretary of state
 for the colonies and also president of the board of trade, becoming an
 English earl on his retirement; in 1779 he was made secretary of state
 for the northern department, and he was created marquess of Downshire
@@ -27,7 +27,7 @@ seven years after his final retirement in 1782. Both in and out of
 office he opposed all concessions to the American colonists, but he
 favoured the project for a union between England and Ireland. Reversing
 an earlier opinion Horace Walpole says Downshire was "a pompous
-composition of ignorance and want of judgment." He died on the 7th of
+composition of [[Ignorance|ignorance]] and want of judgment." He died on the 7th of
 October 1793 and was succeeded by his son Arthur (1753-1801), from whom
 the present marquess is descended.
 

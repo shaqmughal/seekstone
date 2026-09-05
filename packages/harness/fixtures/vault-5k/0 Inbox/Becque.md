@@ -8,13 +8,13 @@ topic: archaeology
 
 BECQUE, HENRY FRANCOIS (1837-1899), French dramatist, was born on the
 9th of April 1837 in Paris. He wrote the book of an opera _Sardanapale_
-in imitation of Lord Byron for the music of M. Victorin Joncieres in
+in imitation of Lord [[Byron]] for the music of M. Victorin Joncieres in
 1867, but his first important work, _Michel Pauper_, appeared in 1870.
-The importance of this sombre drama was first realized when it was
+The importance of this sombre [[Drama|drama]] was first realized when it was
 revived at the Odeon in 1886. _Les Corbeaux_ (1882) established Becque's
 position as an innovator, and in 1885 he produced his most successful
 play, _La Parisienne_. Becque produced little during the last years of
-his life, but his disciples carried on the tradition he had created. He
+his life, but his [[Disciple|disciples]] carried on the tradition he had created. He
 died in May 1899.
 
   See his _Querelles litteraires_ (1890), and _Souvenirs d'un auteur

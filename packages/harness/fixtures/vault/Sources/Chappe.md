@@ -8,13 +8,13 @@ id: 42-7648
 
 # Chappe
 
-CHAPPE, CLAUDE (1763-1805), French engineer, was born at Brulon (Sarthe)
+CHAPPE, [[Claude|CLAUDE]] (1763-1805), French engineer, was born at Brulon (Sarthe)
 in 1763. He was the inventor of an optical telegraph which was widely
 used in France until it was superseded by the electric telegraph. His
 device consisted of an upright post, on the top of which was fastened a
 transverse bar, while at the ends of the latter two smaller arms moved
 on pivots. The position of these bars represented words or letters; and
-by means of machines placed at intervals such that each was distinctly
+by means of [[Machine|machines]] placed at intervals such that each was distinctly
 visible from the next, messages could be conveyed through 50 leagues in
 a quarter of an hour. The machine was adopted by the Legislative
 Assembly in 1792, and in the following year Chappe was appointed

@@ -8,22 +8,22 @@ topic: philosophy
 
 HILDEBRAND, LAY OF (_Das Hildebrandslied_), a unique example of Old
 German alliterative poetry, written about the year 800 on the first and
-last pages of a theological manuscript, by two monks of the monastery of
-Fulda. The fragment, or rather fragments, only extend to sixty-eight
+last pages of a theological [[Manuscript|manuscript]], by two monks of the monastery of
+[[Fulda]]. The fragment, or rather fragments, only extend to sixty-eight
 lines, and the conclusion of the poem is wanting. The theory propounded
 by Karl Lachmann, that the poem had been written in its present form
 from memory, has been discredited by later philological investigation;
 it is clearly a transcript of an older original, which the copyists--or
 more probably the writer to whom we owe the older version--imperfectly
 understood. The language of the poem shows a curious mixture of Low and
-High German forms; as the High German elements point to the dialect of
+High German forms; as the High German elements point to the [[Dialect|dialect]] of
 Fulda, the inference is that the copyists were reproducing an originally
 Low German lay in the form in which it was sung in Franconia.
 
-The fragment is mainly taken up with a dialogue between Hildebrand and
+The fragment is mainly taken up with a [[Dialogue|dialogue]] between Hildebrand and
 his son Hadubrand. When Hildebrand followed his master, Theodoric the
 Great, who was fleeing eastwards before Odoacer, he left his young wife
-and an infant child behind him. At his return to his old home, after
+and an [[Infant|infant]] child behind him. At his return to his old home, after
 thirty years' absence among the Huns, he is met by a young warrior and
 challenged to single combat. Before the fight begins, Hildebrand asks
 for the name of his opponent, and discovering his own son in him, tries
@@ -31,7 +31,7 @@ to avert the fight, but in vain; Hadubrand only regards the old man's
 words as the excuse of cowardice. "In sharp showers the ashen spears
 fall on the shields, and then the warriors seize their swords and hew
 vigorously at the white shields until these are beaten to pieces...."
-With these words the fragment breaks off abruptly, giving no clue as to
+With these words the fragment breaks off abruptly, giving no [[Clue|clue]] as to
 the issue of the combat. There is little doubt, however, that, as in the
 Old Norse _Asmundar saga_, where the tale is alluded to, the fight must
 have been fatal to Hadubrand. But in the later traditions, both of the
@@ -45,13 +45,13 @@ Germanic times of an undoubtedly extensive ballad literature, dealing
 with the national sagas.
 
   The MS. of the _Hildebrandslied_, originally in Fulda, is now
-  preserved in the Landesbibliothek at Cassel. The literature on the
+  preserved in the Landesbibliothek at [[Cassel]]. The literature on the
   poem will be found most conveniently in K. Mullenhoff and W. Scherer,
   _Denkmaler deutscher Poesie und Prosa aus dem VIII. bis XI. Jahrh._,
   3rd ed. (1892), and in W. Braune, _Althochdeutsches Lesebuch_, 5th ed.
   (1902), to which authorities the reader is referred for a critical
   text. The poem was discovered and first printed (as prose) by J. G.
-  von Eckhart, _Commentarii de rebus Franciae orientalis_ (1729), i. 864
+  von [[Eckhart]], _[[Commentarii]] de rebus Franciae orientalis_ (1729), i. 864
   ff.; the first scholarly edition was that of the brothers Grimm
   (1812). Facsimile reproductions of the MS. have been published by W.
   Grimm (1830), E. Sievers (1872), G. Konnecke in his _Bilderatlas_

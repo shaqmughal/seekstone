@@ -7,21 +7,21 @@ id: 42-8328
 
 # Buchez
 
-BUCHEZ, PHILIPPE JOSEPH BENJAMIN (1796-1865), French author and politician,
-was born on the 31st of March 1796 at Matagne-la-Petite, now in Belgium,
-then in the French department of the Ardennes. He finished his general
+BUCHEZ, PHILIPPE JOSEPH [[Benjamin|BENJAMIN]] (1796-1865), French author and politician,
+was born on the 31st of March 1796 at Matagne-la-Petite, now in [[Belgium]],
+then in the French department of the [[Ardennes]]. He finished his general
 education in Paris, and afterwards applied himself to the study of natural
 science and medicine. In 1821 he co-operated with Saint-Amand Bazard and
 others in founding a secret association, modelled on that of the Italian
 Carbonari, with the object of organizing a general armed rising against the
 government. The organization spread rapidly and widely, and displayed
 itself in repeated attempts at revolution. In one of these attempts, the
-affair at Belfort, Buchez was gravely compromised, although the jury which
+affair at Belfort, Buchez was gravely compromised, although the [[Jury|jury]] which
 tried him did not find the evidence sufficient to warrant his condemnation.
 In 1825 he graduated in medicine, and soon after he published with Ulisse
 Trelat a _Precis elementaire d'hygiene_. About the same time he became a
 member of the Saint-Simonian Society, presided over by Bazard, Barthelemy
-Prosper Enfantin, and Olinde Rodrigues, and contributed to its organ, the
+Prosper [[Enfantin]], and Olinde Rodrigues, and contributed to its organ, the
 _Producteur_. He left it in consequence of aversion to the strange
 religious ideas developed by its "Supreme Father," Enfantin, and began to
 elaborate what he regarded as a Christian socialism. For the exposition and
@@ -40,9 +40,9 @@ Roux-Lavergne (1802-1874), the _Histoire parlementaire de la Revolution
 francaise_ (1833-1838; 40 vols.). This vast and conscientious publication
 is a valuable store of material for the early periods of the first French
 Revolution. There is a review of it by Carlyle (_Miscellanies_), the first
-two parts of whose own history of the French Revolution are mainly drawn
+two parts of whose own history of the [[French Revolution]] are mainly drawn
 from it. The editors worked under the inspiration of a strong admiration of
-the principles of Robespierre and the Jacobins, and in the belief that the
+the principles of Robespierre and the [[Jacobins]], and in the belief that the
 French Revolution was an attempt to realize Christianity. In the _Essai
 d'un traite complet de philosophie au point de vue du Catholicisme et du
 progres_ (1839-1840) Buchez endeavoured to co-ordinate in a single system
@@ -64,7 +64,7 @@ be considered as the completion of his _Traite de philosophie_, was the
 most important of the productions of the last period of his life. His
 brochures are very numerous and on a great variety of subjects, medical,
 historical, political, philosophical, &c. He died on the 12th of August
-1865. He found a disciple of considerable ability in M.A. Ott, who
+1865. He found a [[Disciple|disciple]] of considerable ability in M.A. Ott, who
 advocated and applied his principles in various writings.
 
 See also A. Ott, "P.B.J. Buchez," in _Journal des economistes_ for 1865.

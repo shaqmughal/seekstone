@@ -24,7 +24,7 @@ Vita Contempl._ ii. 475, ed. Mangey) in Egypt possessed a secret
 literature. But such literature was not confined to the members of these
 communities, but had been current among the Chasids and their successors
 the Pharisees.[1] To this literature belong essentially the apocalypses
-which were published in fast succession from Daniel onwards. These works
+which were published in fast succession from [[Daniel]] onwards. These works
 bore, perforce, the names of ancient Hebrew worthies in order to procure
 them a hearing among the writers' real contemporaries. To reconcile
 their late appearance with their claims to primitive antiquity the
@@ -34,14 +34,14 @@ was not designed for his own generation but for far-distant ages (1
 Enochi. 2, cviii. 1.; Ass. Mos. i. 16, 17). It is not improbable that
 with many Jewish enthusiasts this literature was more highly treasured
 than the canonical scriptures. Indeed, we have a categorical statement
-to this effect in 4 Ezra xiv. 44 sqq., which tells how Ezra was inspired
+to this effect in 4 [[Ezra]] xiv. 44 sqq., which tells how Ezra was inspired
 to dictate the sacred scriptures which had been destroyed in the
 overthrow of Jerusalem: "In forty days they wrote ninety-four books: and
 it came to pass when the forty days were fulfilled that the Highest
 spake, saying: the first that thou hast written publish openly that the
 worthy and unworthy may read it; but keep the seventy last that thou
 mayst deliver them only to such as be wise among the people; for in them
-is the spring of understanding, the fountain of wisdom and the stream of
+is the spring of understanding, the [[Fountain|fountain]] of wisdom and the stream of
 knowledge." Such esoteric books are apocryphal in the original
 conception of the term. In due course the Jewish authorities were forced
 to draw up a canon or book of sacred scriptures, and mark them off from
@@ -80,7 +80,7 @@ period of the history of religion we have on the one side the doctrine
 of God advancing in depth and fulness: on the other we have
 cosmological, eschatological and other survivals, which, however
 justifiable in earlier stages, are in unmistakable antagonism with the
-theistic beliefs of the time. The eschatology of a nation--and the most
+theistic beliefs of the time. The [[Eschatology|eschatology]] of a nation--and the most
 influential portion of Jewish and Christian apocrypha are
 eschatological--is always the last part of their religion to experience
 the transforming power of new ideas and new facts.
@@ -100,12 +100,12 @@ to new Christian apocryphs, though, in the case of most of them, the
 subject matter was to a large extent traditional and derived from Jewish
 sources.
 
-Another prolific source of apocryphal gospels, acts and apocalypses was
-Gnosticism. While the characteristic features of apocalyptic literature
+Another prolific source of apocryphal [[Gospel|gospels]], acts and apocalypses was
+[[Gnosticism]]. While the characteristic features of apocalyptic literature
 were derived from Judaism, those of Gnosticism sprang partly from Greek
 philosophy, partly from oriental religions. They insisted on an
 allegorical interpretation of the apostolic writings: they alleged
-themselves to be the guardians of a secret apostolic tradition and laid
+themselves to be the [[Guardian|guardians]] of a secret apostolic tradition and laid
 claim to prophetic inspiration. With them, as with the bulk of the
 Christians of the 1st and 2nd centuries, apocryphal books as such were
 highly esteemed. They were so designated by those who valued them. It
@@ -115,13 +115,13 @@ We have remarked above that the Jewish apocrypha--especially the
 apocalyptic section and the host of Christian apocryphs--became the
 ordinary religious literature of the early Christians. And this is not
 strange seeing that of the former such abundant use was made by the
-writers of the New Testament.[3] Thus Jude quotes the Book of Enoch by
+writers of the New Testament.[3] Thus Jude quotes the Book of [[Enoch]] by
 name, while undoubted use of this book appears in the four gospels and 1
 Peter. The influence of the Testaments of the Twelve Patriarchs is still
-more apparent in the Pauline Epistles and the Gospels, and the same
-holds true of Jubilees and the Assumption of Moses, though in a very
+more apparent in the Pauline [[Epistle|Epistles]] and the Gospels, and the same
+holds true of Jubilees and the [[Assumption]] of Moses, though in a very
 slight degree. The genuineness and inspiration of Enoch were believed in
-by the writer of the Ep. of Barnabas, Irenaeus, Tertullian and Clement
+by the writer of the Ep. of Barnabas, [[Irenaeus]], Tertullian and [[Clement]]
 of Alexandria. But the high position which apocryphal books occupied in
 the first two centuries was undermined by a variety of influences. All
 claims to the possession of a secret tradition were denied (Irenaeus ii.
@@ -140,14 +140,14 @@ magical book of Moses, which has been edited from a Leiden papyrus of
 the 3rd or 4th century by Dieterich (Abraxas, 109). This book, which may
 be as old as the 1st century, is entitled: "A holy and secret Book of
 Moses, called eighth, or holy" ([Greek: Mouseos iera biblos apokryphos
-epikaloumene ogdoe e hagia]). The disciples of the Gnostic Prodicus
+epikaloumene ogdoe e hagia]). The [[Disciple|disciples]] of the Gnostic Prodicus
 boasted (Clem. Alex. _Strom._ i. 15. 69) that they possessed the secret
 ([Greek: aprokryphous]) books of Zoroaster. 4 Ezra is in its author's
 view a secret work whose value was greater than that of the canonical
 scriptures (xiv. 44 sqq.) because of its transcendent revelations of the
 future. It is in a like laudatory meaning that Gregory reckons the New
 Testament apocalypse as [Greek: en apokryphois] (_Oratio in suam
-ordinationem_, iii. 549, ed. Migne; cf. Epiphanius, _Haer._ li. 3). The
+ordinationem_, iii. 549, ed. Migne; cf. [[Epiphanius]], _Haer._ li. 3). The
 word enjoyed high consideration among the Gnostics (cf. Acts of Thomas,
 10, 27, 44). (2) But the word was applied to writings that were kept
 from public circulation not because of their transcendent, but of, their
@@ -162,19 +162,19 @@ of [Greek: apokryphros] is here practically equivalent to "excluded from
 the public use of the church," and prepares the way for the third and
 unfavourable sense of this word. (3) The word came finally to mean what
 is false, spurious, bad, heretical. If we may trust the text, this
-meaning appears in Origen (_Prolog, in Cant. Cantic._, Lommatzsch xiv.
+meaning appears in Origen (_Prolog, in [[Cant]]. Cantic._, Lommatzsch xiv.
 325): "De scripturis his, quae appellantur apocryphae, pro eo quod multa
 in iis corrupta et contra fidem veram inveniuntur a majoribus tradita
 non placuit iis dari locum nec admitti ad auctoritatem."
 
 In addition to the above three meanings strange uses of the term appear
-in the western church. Thus the Gelasian Decree includes the works of
-Eusebius, Tertullian and Clement of Alexandria, under this designation.
+in the western church. Thus the Gelasian [[Decree]] includes the works of
+[[Eusebius]], Tertullian and Clement of Alexandria, under this designation.
 Augustine (_De Civ. Dei_, xv. 23) explains it as meaning obscurity of
 origin, while Jerome (_Protogus Galeatus_) declares that all books
 outside the Hebrew canon belong to this class of apocrypha. Jerome's
 practice, however, did not square with his theory. The western church
-did not accept Jerome's definition of apocrypha, but retained the word
+did not accept Jerome's [[Definition|definition]] of apocrypha, but retained the word
 in its original meaning, though great confusion prevailed. Thus the
 degree of estimation in which the apocryphal books have been held in the
 church has varied much according to place and time. As they stood in the
@@ -217,9 +217,9 @@ some confessions, e.g. the Westminster, a decided judgment is passed on
 them, that they are not "to be any otherwise approved or made use of
 than other human writings," a milder verdict is expressed regarding them
 in many other quarters, e.g. in the "argument" prefixed to them in the
-Geneva Bible; in the Sixth Article of the Church of England, where it is
+[[Geneva]] Bible; in the Sixth Article of the Church of England, where it is
 said that "the other books the church doth read for example of life and
-instruction of manners," though not to establish doctrine; and
+instruction of [[Manners|manners]]," though not to establish doctrine; and
 elsewhere.
 
 OLD TESTAMENT APOCRYPHAL BOOKS
@@ -231,9 +231,9 @@ apocryphal literature.
 1. _The Apocrypha Proper_, or the apocrypha of the Old Testament as used
 by English-speaking Protestants, consists of the following books: 1
 Esdras, 2 Esdras, Tobit, Judith, Additions to Esther, Wisdom of Solomon,
-Ecclesiasticus, Baruch, Epistle of Jeremy, Additions to Daniel (Song of
-the Three Holy Children, History of Susannah, and Bel and the Dragon),
-Prayer of Manasses, 1 Maccabees, 2 Maccabees. Thus the Apocrypha Proper
+[[Ecclesiasticus]], Baruch, Epistle of [[Jeremy]], Additions to Daniel (Song of
+the Three Holy Children, History of Susannah, and [[Bel]] and the Dragon),
+Prayer of Manasses, 1 [[Maccabees]], 2 Maccabees. Thus the Apocrypha Proper
 constitutes the surplusage of the Vulgate or Bible of the Roman Church
 over the Hebrew Old Testament. Since this surplusage is in turn derived
 from the Septuagint, from which the old Latin version was translated, it
@@ -250,7 +250,7 @@ Bible, moreover, rejects also 3 Ezra. It should further be observed that
 the Vulgate adds the Prayer of Manasses and 3 and 4 Ezra after the New
 Testament as apocryphal.
 
-It is hardly possible to form any classification which is not open to
+It is hardly possible to form any [[Classification|classification]] which is not open to
 some objection. In any case the classification must be to some extent
 provisional, since scholars are still divided as to the original
 language, date and place of composition of some of the books which must
@@ -317,7 +317,7 @@ Herzog's _Realencykl_. i. 622-653; Porter in Hastings' _Bible Dic_. i.
      (b) _Legendary_.
          Book of Jubilees.
          Paralipomena Jeremiae, or the Rest of the Words of Baruch.
-         Martyrdom of Isaiah.
+         Martyrdom of [[Isaiah]].
          Pseudo-Philo's Liber Antiquitatum.
          Books of Adam.
          Jannes and Jambres.
@@ -336,23 +336,23 @@ unknown to Josephus.
 
 (b) _Legendary._--The _Book of Jubilees_ was written in Hebrew by a
 Pharisee between the year of the accession of Hyrcanus to the
-high-priesthood in 135 and his breach with the Pharisees some years
+high-priesthood in 135 and his [[Breach|breach]] with the Pharisees some years
 before his death in 105 B.C. _Jubilees_ was translated into Greek and
 from Greek into Ethiopic and Latin. It is preserved in its entirety
 only in Ethiopic. _Jubilees_ is the most advanced pre-Christian
 representative of the midrashic tendency, which was already at work in
 the Old Testament 1 and 2 Chronicles. As the chronicler rewrote the
-history of Israel and Judah from the basis of the Priests' Code, so our
+history of Israel and [[Judah]] from the basis of the Priests' [[Code]], so our
 author re-edited from the Pharisaic standpoint of his time the book of
-Genesis and the early chapters of Exodus. His work constitutes an
+[[Genesis]] and the early chapters of [[Exodus]]. His work constitutes an
 enlarged targum on these books, and its object is to prove the
-everlasting validity of the law, which, though revealed in time, was
+[[Everlasting|everlasting]] validity of the law, which, though revealed in time, was
 superior to time. Writing in the palmiest days of the Maccabean
 dominion, he looked for the immediate advent of the Messianic kingdom.
 This kingdom was to be ruled over by a Messiah sprung not from Judah but
-from Levi, that is, from the reigning Maccabean family. This kingdom was
+from [[Levi]], that is, from the reigning Maccabean family. This kingdom was
 to be gradually realized on earth, the transformation of physical nature
-going hand in hand with the ethical transformation of man. (For a fuller
+going hand in hand with the ethical transformation of man. (For a [[Fuller|fuller]]
 account see JUBILEES, BOOK OF.)
 
 _Paralipomena Jeremiae_, or the _Rest of the Words of Baruch._--This
@@ -365,15 +365,15 @@ BARUCH.)
 _Martyrdom of Isaiah._--This Jewish work has been in part preserved in
 the _Ascension of Isaiah_. To it belong i. 1, 2^a, 6^b-13^a; ii. 1-8,
 10-iii. 12; v. 1^c-14 of that book. It is of Jewish origin, and recounts
-the martyrdom of Isaiah at the hands of Manasseh. (See ISAIAH, ASCENSION
+the martyrdom of Isaiah at the hands of [[Manasseh]]. (See ISAIAH, ASCENSION
 OF.)
 
 _Pseudo-Philo's Liber Antiquitatum Biblicarum._--Though the Latin
 version of this book was thrice printed in the 16th century (in 1527,
 1550 and 1599), it was practically unknown to modern scholars till it
-was recognized by Conybeare and discussed by Cohn in the _Jewish
+was recognized by [[Conybeare]] and discussed by Cohn in the _Jewish
 Quarterly Review_, 1898, pp. 279-332. It is an Haggadic revision of the
-Biblical history from Adam to the death of Saul. Its chronology agrees
+Biblical history from Adam to the death of Saul. Its [[Chronology|chronology]] agrees
 frequently with the LXX. against that of the Massoretic text, though
 conversely in a few cases. The Latin is undoubtedly translated from the
 Greek. Greek words are frequently transliterated. While the LXX. is
@@ -406,11 +406,11 @@ printed by W. Meyer in _Abh. d. Munch. Akad._, Philos.-philol. Cl. xiv.,
 Latin translation (_Denkschr. d. Wien. Akad. d. Wiss._ xlii., 1893).
 This version agrees for the most part with (i.). It has, moreover, a
 section, SS 28-39, which though not found in (i.) is found in (ii.).
-Before we discuss these three documents we shall mention other members
+Before we [[Discus|discuss]] these three documents we shall mention other members
 of this literature, which, though derivable ultimately from Jewish
 sources, are Christian in their present form, (iv.) _The Book of Adam
 and Eve_, also called the _Conflict of Adam and Eve with Satan_,
-translated from the Ethiopic (1882) by Malan. This was first translated
+translated from the Ethiopic (1882) by [[Malan]]. This was first translated
 by Dillmann (_Das christl. Adambuch des Morgenlandes_, 1853), and the
 Ethiopic book first edited by Trump (_Abh. d. Munch. Akad._ xv.,
 1870-1881). (v.) A Syriac work entitled _Die Schalzhohle_ translated by
@@ -429,7 +429,7 @@ language of this original, scholars are divided. The evidence, however,
 seems to be strongly in favour of Hebrew. How otherwise are we to
 explain such Hebraisms (or Syriacisms) as [Greek: euo rheei to helaion
 ex autou] (S 9), [Greek: ou eipen ... me phagein ap autou] (S 21). For
-others see SS 23, 33. Moreover, as Fuchs has pointed out, in the words
+others see SS 23, 33. Moreover, as [[Fuchs]] has pointed out, in the words
 [Greek: hesau en mataiois] addressed to Eve (S 25) there is a corruption
 of [Hebrew: havalim] into [Hebrew: avalim]. Thus the words were: "Thou
 shalt have pangs." In fact, Hebraisms abound throughout this book. (See
@@ -444,8 +444,8 @@ Iambres] (= [Hebrew: yanim veyambarim]) as in the Targ.-Jon. on Exod. i.
 15; vii. ii. In the Talmud they appear as [Hebrew: iohani umamra]. Since
 the western text of 2 Tim. iii. 8 has [Greek: Mambres], Westcott and
 Hort infer that this form was derived from a Palestinian source. These
-names were known not only to Jewish but also to heathen writers, such as
-Pliny and Apuleius. The book, therefore, may go back to pre-Christian
+names were known not only to Jewish but also to [[Heathen|heathen]] writers, such as
+Pliny and [[Apuleius]]. The book, therefore, may go back to pre-Christian
 times. (See Schurer[3] iii. 292-294; _Ency. Biblica_, ii. 2327-2329.)
 
 _Joseph and Asenath._--The statement in Gen. xli. 45, 50 that Joseph
@@ -470,7 +470,7 @@ few of them are of a much earlier date. The book holds the same place in
 rabbinical literature as the Book of Proverbs in the Bible. The sayings
 are often admirable. Thus in iv. 1-4, "Who is wise? He that learns from
 every man.... Who is mighty? He that subdues his nature.... Who is rich?
-He that is contented with his lot.... Who is honoured? He that honours
+He that is contented with his [[Lot|lot]].... Who is honoured? He that honours
 mankind." (See further PIRKE ABOTH.)
 
   2 (b). _New Testament Apocryphal Literature_:--
@@ -487,9 +487,9 @@ mankind." (See further PIRKE ABOTH.)
             "    "   Thomas.
             "    "   the Twelve.
           Gnostic gospels of Andrew, Apelles, Barnabas, Bartholomew,
-             Basilides, Cerinthus and some seventeen others.
+             [[Basilides]], Cerinthus and some seventeen others.
 
-     (b) _Acts and Teachings of the Apostles_:--
+     (b) _Acts and Teachings of the [[Apostle|Apostles]]_:--
          Acts of Andrew and later forms of these Acts.
           "    John.
           "    Paul.
@@ -506,7 +506,7 @@ mankind." (See further PIRKE ABOTH.)
          "Clement's" 2nd Epistle of the Corinthians.
               "      Epistles on Virginity.
               "         "     to James.
-         Epistles of Ignatius.
+         Epistles of [[Ignatius]].
          Epistle of Polycarp.
          Pauline Epp. to the Laodiceans and Alexandrians.
          3 Pauline Ep. to the Corinthians.
@@ -523,16 +523,16 @@ elaborate volumes of Resch (_Aussercanonische Paralleltexte zu den
 Evangelien_, vols. i.-iii., 1893-1895).
 
 To this section belongs also the _Fayum Gospel Fragment_ and the _Logia_
-published by Grenfell and Hunt.[5] The former contains two sayings of
+published by Grenfell and [[Hunt]].[5] The former contains two sayings of
 Christ and one of Peter, such as we find in the canonical gospels, Matt.
 xxvi. 31-34, Mark xiv. 27-30. The papyrus, which is of the 3rd century,
 was discovered by Bickell among the Rainer collection, who characterized
 it (_Z. f. kath. Theol._, 1885, pp. 498-504) as a fragment of one of the
-primitive gospels mentioned in Luke i. 1. On the other hand, it has been
+primitive gospels mentioned in [[Luke]] i. 1. On the other hand, it has been
 contended that it is merely a fragment of an early patristic homily.
 (See Zahn, _Gesch. Kanons_, ii. 780-790; Harnack, _Texte und
 Untersuchungen_, v. 4; Preuschen, _op. cit._ p. 19.) The _Logia_ (q.v.)
-is the name given to the sayings contained in a papyrus leaf, by its
+is the name given to the sayings contained in a papyrus [[Leaf|leaf]], by its
 discoverers Grenfell and Hunt. They think the papyrus was probably
 written about A.D. 200. According to Harnack, it is an extract from the
 _Gospel of the Egyptians_. All the passages referring to Jesus in the
@@ -569,7 +569,7 @@ it as [Greek: Istoria]. For various other designations see Tischendorf,
 _Evang. Apocr.[2]_ 1 seq. The narrative extends from the Conception of the
 Virgin to the Death of Zacharias. Lipsius shows that in the present form
 of the book there is side by side a strange "admixture of intimate
-knowledge and gross ignorance of Jewish thought and custom," and that
+knowledge and [[Gross|gross]] [[Ignorance|ignorance]] of Jewish thought and custom," and that
 accordingly we must "distinguish between an original Jewish Christian
 writing and a Gnostic recast of it." The former was known to Justin
 (_Dial._ 78, 101) and Clem. Alex. (_Strom._ vii. 16), and belongs at
@@ -584,7 +584,7 @@ recast of this work in the 3rd century as is done by Lipsius. The author
 had at his disposal two distinct groups of legends about Mary. One of
 these groups is certainly of non-Jewish origin, as it conceives Mary as
 living in the temple somewhat after the manner of a vestal virgin or a
-priestess of Isis. The other group is more in accord with the orthodox
+priestess of [[Isis]]. The other group is more in accord with the orthodox
 gospels. The book appears to have been written in Egypt, and in the
 early years of the 2nd century. For, since Origen states that many
 appealed to it in support of the view that the brothers of Jesus were
@@ -599,7 +599,7 @@ Kanons_, i. 485, 499, 502, 504, 539; ii. 774-780.) For the Greek text
 see Tischendorf, _Evang. Apocr.[2]_ 1-50; B.P. Grenfell, _An Alexandrian
 erotic Fragment and other Papyri_, 1896, pp. 13-17: for the Syriac,
 Wright, _Contributions to Apocryphal Literature of the N.T._, 1865, pp.
-3-7; A.S. Lewis, _Studia Sinaitica_, xi. pp. 1-22. See literature
+3-7; A.S. [[Lewis]], _Studia Sinaitica_, xi. pp. 1-22. See literature
 generally in Hennecke, _NT liche Apok. Handbuch_, 106 seq.
 
 _Gospel of Nicodemus._--This title is first met with in the 13th
@@ -618,7 +618,7 @@ reference to Theodosius. But this was only a revision, for as early as
 376 Epiphanius (_Haer._ i. 1.) presupposes the existence of a like text.
 In 325 Eusebius (_H.E._ ii. 2) was acquainted only with the heathen
 _Acts of Pilate_, and knew nothing of a Christian work. Tischendorf and
-Hofmann, however, find evidence of its existence in Justin's reference
+[[Hofmann]], however, find evidence of its existence in Justin's reference
 to the [Greek: Hakta Pilatou] (_Apol._ i. 35, 48), and in Tertullian's
 mention of the _Acta Pilati_ (_Apol._ 21), and on this evidence
 attribute our texts to the first half of the 2nd century. But these
@@ -626,7 +626,7 @@ references have been denied by Scholten, Lipsius, and Lightfoot.
 Recently Schubert has sought to derive the elements which are found in
 the Petrine Gospel, but not in the canonical gospels, from the original
 _Acta Pilati_, while Zahn exactly reverses the relation of these two
-works. Rendel Harris (1899) advocated the view that the Gospel of
+works. Rendel [[Harris]] (1899) advocated the view that the Gospel of
 Nicodemus, as we possess it, is merely a prose version of the Gospel of
 Nicodemus written originally in Homeric centones as early as the 2nd
 century. Lipsius and Dobschutz relegate the book to the 4th century. The
@@ -645,7 +645,7 @@ and Jerome, will be found in Hilgenfeld's _NT extra Canonem receptum_,
 Nicholson's _Gospel according to the Hebrews_ (1879), Westcott's
 _Introd. to the Gospels_, and Zahn's _Gesch. des NTlichen Kanons_, ii.
 642-723; Preuschen, _op. cit_. 3-8. This gospel was regarded by many in
-the first centuries as the Hebrew original of the canonical Matthew
+the first centuries as the Hebrew original of the canonical [[Matthew]]
 (Jerome, _in Matt._ xii. 13; _Adv. Pelag._ iii. 1). With the canonical
 gospel it agrees in some of its sayings; in others it is independent. It
 circulated among the Nazarenes in Syria, and was composed, according to
@@ -673,7 +673,7 @@ for if it had been so named because of its general use among the
 Hebrews, yet the Hebrews themselves would not have used this
 designation. It may have been known simply as "the Gospel." The language
 was Western Aramaic, the mother tongue of Jesus and his apostles. Two
-forms of Western Aramaic survive: the Jerusalem form of the dialect, in
+forms of Western Aramaic survive: the Jerusalem form of the [[Dialect|dialect]], in
 the Aramaic portions of Daniel and Ezra; and the Galilean, in isolated
 expressions in the Talmud (3rd century), and in a fragmentary 5th
 century translation of the Bible. The quotations from the Old Testament
@@ -715,7 +715,7 @@ ii. 703) assigns it to the latter half of the 2nd century, but Zahn
 (_Gesch. Kan._ ii. 771), on good grounds, to the earlier half. The
 latter scholar shows that probably it was used by Justin (_Dial._ 88).
 At all events it circulated among the Marcosians (Irenaeus, _Haer._ i.
-20) and the Naasenes (Hippolytus, _Refut._ v. 7), and subsequently among
+20) and the Naasenes ([[Hippolytus]], _Refut._ v. 7), and subsequently among
 the Manichaeans, and is frequently quoted from Origen downwards (_Hom.
 I. in Luc._). If the stichometry of Nicephorus is right, the existing
 form of the book is merely fragmentary compared with its original
@@ -734,8 +734,8 @@ ii. 742), about A.D. 170.
 
 OTHER GOSPELS MAINLY GNOSTIC AND ALMOST ALL LOST.--_Gospel of
 Andrew._--This is condemned in the Gelasian Decree, and is probably the
-gospel mentioned by Innocent (1 Ep. iii. 7) and Augustine (_Contra
-advers. Leg. et Proph._ i. 20).
+gospel mentioned by [[Innocent]] (1 Ep. iii. 7) and Augustine (_Contra
+advers. [[Leg]]. et Proph._ i. 20).
 
 _Gospel of Apelles._--Mentioned by Jerome in his _Prooem. ad Matt._
 
@@ -774,7 +774,7 @@ of Christ, is said to have formed the source of Irenaeus' account of the
 Gnostics of Barbelus (i. 29-31). Thus this work would have been written
 before 170.
 
-_Gospel of Judas Iscariot._--References to this gospel as in use among
+_Gospel of [[Judas Iscariot]]._--References to this gospel as in use among
 the Cainites are made by Irenaeus (i. 31. 1); Epiphanius (xxxviii. 1.
 3).
 
@@ -799,7 +799,7 @@ preuss. Akad. d. Wiss. zu. Berlin_ (1896), pp. 839 sqq., this gospel
 gives disclosures on the nature of matter ([Greek: ulae]) and the
 progress of the Gnostic soul through the seven planets.
 
-_Gospel of Matthias._--Though this gospel is attested by Origen (_Horm.
+_Gospel of [[Matthias]]._--Though this gospel is attested by Origen (_Horm.
 in Luc._ i.), Eusebius, _H.E._ iii. 25. 6, and the List of Sixty Books,
 not a shred of it has been preserved, unless with Zahn ii. 751 sqq. we
 are to identify it with the _Traditions of Matthias_, from which Clement
@@ -843,7 +843,7 @@ Apostelgeschichte_, i. 543-622; also James in Hastings' _Bible Dict._ i.
 92-93; Hennecke, _NT. Apokryphen_, _in loc._ The best texts are given in
 Bonnet's _Acta Apostolorum Apocrypha_, 1898, II. i. 1-127. These contain
 also the _Acts of Andrew and Matthew_ (or Matthias) in which Matthew (or
-Matthias) is represented as a captive in the country of the
+Matthias) is represented as a [[Captive|captive]] in the country of the
 anthropophagi. Christ takes Andrew and his disciples with Him, and
 effects the rescue of Matthew. The legend is found also in Ethiopic,
 Syriac and Anglo-Saxon. Also the _Acts of Peter and Andrew_, which among
@@ -861,8 +861,8 @@ has been edited most completely by Bonnet, _Acta Apostol. Apocr._, 1898,
 follows:--Arrival and first sojourn of the apostle in Ephesus
 (xviii.-lv.); return to Ephesus and second sojourn (history of Drusiana,
 lviii.-lxxxvi.); account of the crucifixion of Jesus and His apparent
-death (lxxxvii.-cv.); the death of John (cvi.-cxv.). There are manifest
-gaps in the narrative, a fact which we would infer from the extent
+death (lxxxvii.-cv.); the death of John (cvi.-cxv.). There are [[Manifest|manifest]]
+[[Gap|gaps]] in the narrative, a fact which we would infer from the extent
 assigned to it (i.e. 2500 stichoi) by Nicephorus. According to this
 authority one-third of the text is now lost. Many chapters are lost at
 the beginning; there is a gap in chapter xxxvii., also before lviii.,
@@ -878,7 +878,7 @@ For bibliography, Hennecke, _NT. Apok. Handbuch_, 492 sq.
 _Acts of Paul._--The discovery of the Coptic translation of these Acts
 in 1897, and its publication by C. Schmidt (_Acta Pauli aus der
 Heidelberger koptischen Papyrushandschrift herausgegeben_, Leipzig,
-1894), have confirmed what had been previously only a hypothesis that
+1894), have confirmed what had been previously only a [[Hypothesis|hypothesis]] that
 the Acts of Thecla had formed a part of the larger Acts of Paul. The
 Acts therefore embrace now the following elements:-(a) Two quotations
 given by Origen in his _Princip._ i. 2. 3 and his comment on John xx.
@@ -890,7 +890,7 @@ historical situation. Paul is in prison on account of Stratonice, the
 wife of Apollophanes. The Greek and Latin versions of these letters have
 for the most part disappeared, but they have been preserved in Syriac,
 and through Syriac they obtained for the time being a place in the
-Armenian Bible immediately after 2 Corinthians. Aphraates cites two
+Armenian Bible immediately after 2 Corinthians. [[Aphraates]] cites two
 passages from 3 Corinthians as words of the apostle, and Ephraem
 expounded them in his commentary on the Pauline Epistles. They must
 therefore have been regarded as canonical in the first half of the 4th
@@ -903,9 +903,9 @@ The Coptic version (C. Schmidt, _Acta Pauli_, pp. 74-82), which is here
 imperfect, is clearly from a Greek original, while the Latin and
 Armenian are from the Syriac. (c) _The Acts of Paul and Thecla_. These
 were written, according to Tertullian (_De Baptismo_, 17) by a presbyter
-of Asia, who was deposed from his office on account of his forgery.
+of Asia, who was deposed from his office on account of his [[Forgery|forgery]].
 This, the earliest of Christian romances (probably before A.D. 150),
-recounts the adventures and sufferings of a virgin, Thecla of Iconium.
+recounts the adventures and sufferings of a virgin, Thecla of [[Iconium]].
 Lipsius discovers Gnostic traits in the story, but these are denied by
 Zahn (_Gesch. Kanons_, ii. 902). See Lipsius, _op. cit._ ii. 424-467;
 Zahn (_op. cit._ ii. 892-910). The best text is that of Lipsius, _Acta
@@ -935,7 +935,7 @@ fragments of these Acts, only about 900 stichoi out of the 3600 assigned
 to them in the Stichometry of Nicephorus have as yet been recovered.
 
 The author was, according to Tertullian (_De Baptism._ 17), a presbyter
-in Asia, who out of honour to Paul wrote the Acts, forging at the same
+in Asia, who out of honour to Paul wrote the Acts, [[Forging|forging]] at the same
 time 3 Corinthians. Thus the work was composed before 190, and, since it
 most probably uses the martyrdom of Polycarp, after 155. The object of
 the writer is to embody in St Paul the model ideal of the popular
@@ -976,8 +976,8 @@ Peter seem dependent on the Acts of Thomas, and sometimes the converse.
   Apocr._ i. 178-234) see Lipsius ii. 1. 84 sqq. The "Acts of Xanthippe
   and Polyxena," first edited by James (_Texts and Studies_, ii. 3.
   1893), and assigned by him to the middle of the 3rd century, as well
-  as the "Acts of the Disputation of Archelaus, bishop of Mesopotamia,
-  and the Heresiarch Manes" ("Acta Disputationis Archelai Episcopi
+  as the "Acts of the Disputation of [[Archelaus]], bishop of Mesopotamia,
+  and the Heresiarch [[Manes]]" ("Acta Disputationis Archelai Episcopi
   Mesopotamiae et Manetis Haeresiarchae," in Routh's _Reliquiae
   Sacrae[2]_, v. 36-206), have borrowed largely from our work.
 
@@ -998,11 +998,11 @@ the apostles. Clement of Alexandria quotes it several times as a genuine
 record of Peter's teaching. Heracleon had previously used it (see
 Origen, _In Evang. Johann._ t. xiii. 17). It is spoken unfavourably of
 by Origen (_De Prin._ Praef. 8). It was probably in the hands of Justin
-and Aristides. Hence Zahn gives its date as 90-100 at latest; Dobschutz,
+and [[Aristides]]. Hence Zahn gives its date as 90-100 at latest; Dobschutz,
 as 100-110; and Harnack, as 110-130. The extant fragments contain
 sayings of Jesus, and warnings against Judaism and Polytheism.
 
-They have been edited by Hilgenfeld: _Nov. Test. extra Can._, 1884, iv.
+They have been edited by [[Hilgenfeld]]: _Nov. Test. extra Can._, 1884, iv.
 51-65, and by von Dobschutz, _Das Kerygma Petri_, 1893. Salmon (_Dict.
 Christ. Biog._ iv. 329-330) thinks that this work is part of a larger
 work, _A Preaching of Peter and a Preaching of Paul_, implied in a
@@ -1013,7 +1013,7 @@ contested by Zahn, see _Gesch. Kanons_, ii. 820-834, particularly pp.
 _Acts of Thomas._--This is one of the earliest and most famous of the
 Gnostic Acts. It has been but slightly tampered with by orthodox hands.
 These Acts were used by the Encratites (Epiphanius, _Haer._ xlvii. 1),
-the Manichaeans (Augustine, _Contra Faust_. xxii. 79), the Apostolici
+the Manichaeans (Augustine, _Contra [[Faust]]_. xxii. 79), the Apostolici
 (Epiphanius lxi. 1) and Priscillianists. The work is divided into
 thirteen Acts, to which the Martyrdom of Thomas attaches as the
 fourteenth. It was originally written in Syriac, as Burkitt (_Journ. of
@@ -1027,7 +1027,7 @@ Lipsius assigns it to the early decades of the 3rd. (See Lipsius,
 _Apokryphen Apostelgeschichten_, i. 225-347; Hennecke, _N.T.
 Apokryphen_, 473-480.)
 
-_Teaching of the Twelve Apostles_ (Didache).--This important work was
+_Teaching of the Twelve Apostles_ ([[Didache]]).--This important work was
 discovered by Philotheos Bryennios in Constantinople and published in
 1883. Since that date it has been frequently edited. The bibliography
 can be found in Schaff's and in Harnack's editions. The book divides
@@ -1067,7 +1067,7 @@ Hilgenfeld in 1877, Gebhardt and Harnack in 1878, and Funk in 1887 and
 BARNABAS.)
 
 _Epistle of Clement._--The object of this epistle is the restoration of
-harmony to the church of Corinth, which had been vexed by internal
+harmony to the church of [[Corinth]], which had been vexed by internal
 discussions. The epistle may be safely ascribed to the years 95-96. The
 writer was in all probability the bishop of Rome of that name. He is
 named an apostle and his work was reckoned as canonical by Clement of
@@ -1083,7 +1083,7 @@ antiquissima_, 1894.
 "_Clement's_" _2nd Ep. to the Corinthians._--This so-called letter of
 Clement is not mentioned by any writer before Eusebius (_H. E_. iii. 38.
 4). It is not a letter but really a homily written in Rome about the
-middle of the 2nd century. The writer is a Gentile. Some of his
+middle of the 2nd century. The writer is a [[Gentile]]. Some of his
 citations are derived from the Gospel to the Egyptians.
 
 _Clement's Epistles on Virginity._--These two letters are preserved only
@@ -1094,12 +1094,12 @@ middle of the 2nd century. They have been edited by Beelen, Louvain,
 
 _Clement's Epistles to James._--On these two letters which are found in
 the Clementine Homilies, see Smith's _Dict. of Christian Biography_, i.
-559, 570, and Lehmann's monograph, _Die Clementischen Schriften_, Gotha,
+559, 570, and Lehmann's monograph, _Die Clementischen Schriften_, [[Gotha]],
 1867, in which references will be found to other sources of information.
 
 _Epistles of Ignatius._--There are two collections of letters bearing
 the name of Ignatius, who was martyred between 105 and 117. The first
-consists of seven letters addressed by Ignatius to the Ephesians,
+consists of seven letters addressed by Ignatius to the [[Ephesians]],
 Magnesians, Trallians, Romans, Philadelphians, Smyrnaeans and to
 Polycarp. The second collection consists of the preceding extensively
 interpolated, and six others of Mary to Ignatius, of Ignatius to Mary,
@@ -1109,7 +1109,7 @@ the beginning of the 5th. The authenticity of the first collection also
 has been denied, but the evidence appears to be against this contention.
 The literature is overwhelming in its extent. See Zahn, _Patr. Apost.
 Op_., 1876; Funk[2], _Die apostol. Vater_, 1901; Lightfoot[2],
-_Apostolic Fathers_, 1889.
+_[[Apostolic Fathers]]_, 1889.
 
 _Epistle of Polycarp._--The genuineness of this epistle stands or falls
 with that of the Ignatian epistles. See article in Smith's _Dictionary
@@ -1118,7 +1118,7 @@ of Christian Biography_, iv. 423-431; Lightfoot, _Apostolic Fathers_, i.
 
 _Pauline Epistles to the Laodiceans and the Alexandrians_.--The first of
 these is found only in Latin. This, according to Lightfoot (see
-_Colossians[3]_, 272-298) and Zahn, is a translation from the Greek.
+_[[Colossians]][3]_, 272-298) and Zahn, is a translation from the Greek.
 Such an epistle is mentioned in the Muratorian canon. See Zahn, _op.
 cit_. ii. 566-585. The Epistle to the Alexandrians is mentioned only in
 the Muratorian canon (see Zahn ii. 586-592).
@@ -1152,7 +1152,7 @@ FOOTNOTES:
     most of it was written by a Greek Jew in Egypt.
 
   [5] These editors have discovered (1907) a gospel fragment of the 2nd
-    century which represents a dialogue between our Lord and a chief
+    century which represents a [[Dialogue|dialogue]] between our Lord and a chief
     priest--a Pharisee.
 
 ## See also

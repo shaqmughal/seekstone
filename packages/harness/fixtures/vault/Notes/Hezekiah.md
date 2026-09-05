@@ -8,11 +8,11 @@ type: source
 # Hezekiah
 
 HEZEKIAH (Heb. for "[my] strength is [of] Yah"), in the Bible son of
-Ahaz, one of the greatest of the kings of Judah. He flourished at the
+Ahaz, one of the greatest of the kings of [[Judah]]. He flourished at the
 end of the 8th and beginning of the 7th century B.C., when Palestine
 passed through one of the most eventful periods of its history. There is
 much that is uncertain in his reign, and with the exception of the great
-crisis of 701 B.C. its chronology has not been unanimously fixed.
+crisis of 701 B.C. its [[Chronology|chronology]] has not been unanimously fixed.
 Whether he came to the throne before or after the fall of Samaria
 (722-721 B.C.) is disputed,[1] nor is it clear what share Judah took in
 the Assyrian conflicts down to 701.[2] Shortly before this date the
@@ -20,7 +20,7 @@ whole of western Asia was in a ferment; Sargon had died and Sennacherib
 had come to the throne (in 705); vassal kings plotted to recover their
 independence and Assyrian puppets were removed by their opponents. Judah
 was in touch with a general rising in S.W. Palestine, in which Ekron,
-Lachish, Ascalon (Ashkelon) and other towns of the Philistines were
+[[Lachish]], Ascalon (Ashkelon) and other towns of the Philistines were
 supported by the kings of Musri and Meluhha.[3] Sennacherib completely
 routed them at Eltekeh (a Danite city), and thence turned against
 Hezekiah, who had been in league with Ekron and had imprisoned its king
@@ -38,9 +38,9 @@ again revolted (700 B.C.) and Sennacherib's presence was urgently needed
 nearer home.
 
 At what precise period the Babylonian Merodach (i.e. Marduk)-Baladan
-sent his embassy to Hezekiah is disputed. Although ostensibly to
+sent his [[Embassy|embassy]] to Hezekiah is disputed. Although ostensibly to
 congratulate the king upon his recovery from a sickness, it was really
-sent in the hope of enlisting his support, and the excessive courtesy
+sent in the hope of enlisting his support, and the excessive [[Courtesy|courtesy]]
 and complaisance with which it was received suggest that it found a
 ready ally in Judah (2 Kings xx. 12 sqq.; Isa. xxxix.). Merodach-Baladan
 was overthrown by Sargon in 710 B.C., but succeeded in making a fresh
@@ -57,8 +57,8 @@ king in the act of besieging that town.[6] This thoroughly historical
 fragment is followed by two narratives which tell how the king sent an
 official from Lachish to demand the submission of Hezekiah and conclude
 with the unexpected deliverance of Jerusalem. Both these stories appear
-to belong to a biography of Isaiah, and, like the similar biographies of
-Elijah and Elisha, are open to the suspicion that historical facts have
+to belong to a biography of [[Isaiah]], and, like the similar biographies of
+Elijah and [[Elisha]], are open to the suspicion that historical facts have
 been subordinated to idealize the work of the prophet. See KINGS, BOOKS
 OF.
 
@@ -66,7 +66,7 @@ OF.
   1-xxxvii. 8, and (b) xix. 9b-35; cp. Isa. xxxvii. 9-36 (2 Chron.
   xxxii. 9 sqq. is based on both), and Jerusalem's deliverance is
   attributed to a certain rumour (xix. 7), to the advance of Tirhakah,
-  king of Ethiopia (v. 9), and to a remarkable pestilence (v. 35) which
+  king of [[Ethiopia]] (v. 9), and to a remarkable pestilence (v. 35) which
   finds an echo in a famous story related, not without some confusion of
   essential facts, by Herodotus (ii. 141; cf. Josephus _Antiq._ x. i.
   5).[7] It is difficult to decide whether xix. 9a belongs to the first
@@ -94,7 +94,7 @@ OF.
   invasion.
 
 It is not certain whether Hezekiah's conflict with the Philistines as
-far as Gaza or his preparations to secure for Jerusalem a good water
+far as [[Gaza]] or his preparations to secure for Jerusalem a good water
 supply (xviii. 8, xx. 20; 2 Chron. xxxii. 30; Ecclus. xlviii. 17 sq.)[9]
 should precede or follow the events which have been discussed. On the
 other hand, the reforms which the compiler of the book has attributed to
@@ -112,18 +112,18 @@ denounce, do not support the view that the apparently radical reforms of
 Hezekiah were extensive or permanent, and Jer. xxvi. 17-19 (which
 suggests that Micah had a greater influence than Isaiah) throws another
 light upon the conditions during his reign. Hezekiah was succeeded by
-his son MANASSEH (q.v.).
+his son [[Manasseh|MANASSEH]] (q.v.).
 
   See further W. R. Smith, _Prophets_, 359-364, and HEBREW RELIGION.
   According to PROV. xxv. 1, Hezekiah was a patron of literature (see
   PROVERBS). The hymn which is ascribed to the king (Isa. xxxviii. 9-20,
-  wanting in 2 Kings) is of post-exilic origin (see Cheyne, _Introd. to
+  wanting in 2 Kings) is of post-exilic origin (see [[Cheyne]], _Introd. to
   Isaiah_, 222 sq.), but is further proof of the manner in which the
   Judaean king was idealized in subsequent ages, partly, perhaps, in the
   belief that the deliverance of Jerusalem was the reward for his piety.
   For special discussions, see Stade, _Zeits. d. alttest. Wissenschaft_,
   1886, pp. 173 sqq.; Winckler, _Alttest. Untersuch_., 26 sqq.;
-  Schrader, _Cuneiform Inscr. and Old Test_. (on 2 Kings, _l.c_.);
+  Schrader, _[[Cuneiform]] Inscr. and Old Test_. (on 2 Kings, _l.c_.);
   Driver, _Isaiah, his Life and Times_, pp. 43-83; A. Jeremias, _Alte
   Test_. 304-310; Nagel, _Zug d. Sanherib gegen Jerus_. (Leipzig, 1903,
   conservative); and especially Prasek, Sanherib's "Feldzuge gegen Juda"
@@ -145,13 +145,13 @@ FOOTNOTES:
     is not improbable.
 
   [3] Meluhha is held by many critics to be N.W. Arabia; the
-    identification of Musri is uncertain, see below.
+    [[Identification|identification]] of Musri is uncertain, see below.
 
   [4] The phrase was a favourite one of Rib-Addi, king of Gebal
     (Byblus), in the 15th century B.C.; _Tell-el-Amarna Letters_ (ed.
-    Knudtzon), Nos. 74, 79, &c. Jeremiah (v. 27) uses the simile in a
+    Knudtzon), Nos. 74, 79, &c. [[Jeremiah]] (v. 27) uses the simile in a
     different way. For a discussion of Sennacherib's record, see Wilke,
-    _Jesaja u. Assur_ (Leipzig, 1905), pp. 97 sqq.
+    _Jesaja u. [[Assur]]_ (Leipzig, 1905), pp. 97 sqq.
 
   [5] For the early date (between 720 and 710), Winckler, _Alttest.
     Unt._ 139 sqq., Burney, _Kings_, 350 sq.; Driver; Kuchler, &c.; for
@@ -165,10 +165,10 @@ FOOTNOTES:
     9-11. But see further ISAIAH (BOOK).
 
   [7] See, on the story, Griffith, in D. Hogarth's _Authority and
-    Archaeology_, p. 167, n. 1.
+    [[Archaeology]]_, p. 167, n. 1.
 
   [8] The house of _Nisroch_ should probably be that of the god
-    _Nusku_; see also Driver in Hogarth, _op. cit._ p. 109; Winckler,
+    _Nusku_; see also Driver in [[Hogarth]], _op. cit._ p. 109; Winckler,
     _op. cit._ p. 84.
 
   [9] It is commonly believed that Hezekiah constructed the conduit of

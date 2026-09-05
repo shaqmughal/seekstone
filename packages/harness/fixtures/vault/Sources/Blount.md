@@ -16,17 +16,17 @@ convention which ratified the Federal constitution for North Carolina in
 appointment, governor of the "Territory South of the Ohio River,"
 created out of land ceded to the national government by North Carolina
 in 1789. He was also during this period the superintendent of Indian
-affairs for this part of the country. In 1791 he laid out Knoxville
+affairs for this part of the country. In 1791 he laid out [[Knoxville]]
 (Tennessee) as the seat of government. He presided over the
 constitutional convention of Tennessee in 1796, and, on the state being
 admitted to the Union, became one of its first representatives in the
 United States Senate. In 1797 his connexion became known with a scheme,
-since called "Blount's Conspiracy," which provided for the co-operation
+since called "Blount's Conspiracy," which provided for the [[Co-Operation|co-operation]]
 of the American frontiersmen, assisted by Indians, and an English force,
-in the seizure on behalf of Great Britain of the Floridas and Louisiana,
+in the seizure on behalf of Great Britain of the Floridas and [[Louisiana]],
 then owned by Spain, with which power England was then at war. As this
 scheme, if carried out, involved the corrupting of two officials of the
-United States, an Indian agent and an interpreter, a breach of the
+United States, an Indian agent and an interpreter, a [[Breach|breach]] of the
 neutrality of the United States, and the breach of Article V. of the
 treaty of San Lorenzo el Real (signed on the 27th of October 1795)
 between the United States and Spain, by which each power agreed not to
@@ -34,7 +34,7 @@ incite the Indians to attack the other, Blount was impeached by the
 House of Representatives on the 7th of July 1797, and on the following
 day was formally expelled from the Senate for "having been guilty of
 high misdemeanor, entirely inconsistent with his public trust and duty
-as a senator." On the 29th of January 1798 articles of impeachment were
+as a senator." On the 29th of January 1798 articles of [[Impeachment|impeachment]] were
 adopted by the House of Representatives. On the 14th of January 1799,
 however, the Senate, sitting as a court of impeachment, decided that it
 had no jurisdiction, Blount not then being a member of the Senate, and,

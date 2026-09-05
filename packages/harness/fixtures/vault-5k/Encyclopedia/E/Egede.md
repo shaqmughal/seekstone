@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Egede"
 
 EGEDE, HANS (1686-1758), Norwegian missionary, was born in the vogtship
 of Senjen, Norway, on the 31st of January 1686. He studied at the
-university of Copenhagen, and in 1706 became pastor at Vaagen in the
+university of [[Copenhagen]], and in 1706 became pastor at Vaagen in the
 Lofoten islands, but the study of the chronicles of the northmen having
 awakened in him the desire to visit the colony of Northmen in Greenland,
 and to convert them to Christianity, he resigned his charge in 1717; and

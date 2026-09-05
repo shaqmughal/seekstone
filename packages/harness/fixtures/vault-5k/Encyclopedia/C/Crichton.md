@@ -46,11 +46,11 @@ with his name in 1581 as _Relatione della qualita di ... Crettone_, and
 again in 1582 (reprinted Venice, 1831).
 
 In Venice Crichton met and vanquished all disputants except Giacomo
-Mazzoni, was followed from place to place by crowds of admirers, and won
-the affection of the humanists Lorenzo Massa and Giovanni Donati. In
+Mazzoni, was followed from place to place by [[Crowd|crowds]] of admirers, and won
+the affection of the humanists Lorenzo [[Massa]] and Giovanni Donati. In
 March 1581 he went to Padua, where he held two great disputations. In
 the first he extemporized in succession a Latin poem, a daring onslaught
-on Aristotelian ignorance, and an oration in praise of ignorance. In the
+on Aristotelian [[Ignorance|ignorance]], and an oration in praise of ignorance. In the
 second, which took place in the Church of St John and St Paul, and
 lasted three days, he undertook to refute innumerable errors in
 Aristotelians, mathematicians and schoolmen, to conduct his dispute
@@ -86,7 +86,7 @@ legendary magnitude.
   Stanilaus Niegosevski; see John Black's _Life of Torquato Tasso_, ii.
   413-451 (1810), for a criticism. The _Life of Crichton_, by P. Fraser
   Tytler (2nd ed., 1823), contains many extracts from earlier writers;
-  see also "Notices of Sir Robert Crichton of Cluny and of his son
+  see also "Notices of Sir Robert Crichton of [[Cluny]] and of his son
   James," by John Stuart, in _Proceedings Soc. of Antiquaries of
   Scotland_, vol. ii. pp. 103-118 (1855); and the article by Andrew
   Lang, "The death of the Admirable Crichton," in the _Morning Post_

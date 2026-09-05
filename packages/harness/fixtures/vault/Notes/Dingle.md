@@ -8,7 +8,7 @@ lies on the south side of the northernmost of the great promontories
 which protrude into the Atlantic on the south-western coast of Ireland,
 on the fine natural harbour of Dingle Bay, in a wild hilly district
 abundant in relics of antiquity. The town, which is the centre of a
-considerable fishing industry, especially in mackerel, was in the 16th
+considerable fishing industry, especially in [[Mackerel|mackerel]], was in the 16th
 century of no little importance as a seaport; it had also a noted
 manufacture of linen. It was incorporated by Queen Elizabeth, and
 returned two members to the Irish parliament until the Union.

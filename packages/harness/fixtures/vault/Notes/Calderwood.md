@@ -13,12 +13,12 @@ CALDERWOOD, HENRY (1830-1897), Scottish philosopher and divine, was born at
 Peebles on the 10th of May 1830. He was educated at the Royal High school,
 and later at the university of Edinburgh. He studied for the ministry of
 the United Presbyterian Church, and in 1856 was ordained pastor of the
-Greyfriars church, Glasgow. He also examined in mental philosophy for the
+Greyfriars church, [[Glasgow]]. He also examined in mental philosophy for the
 university of Glasgow from 1861 to 1864, and from 1866 conducted the moral
 philosophy classes at that university, until in 1868 he became professor of
 moral philosophy at Edinburgh. He was made LL.D. of Glasgow in 1865. He
 died on the 19th of November 1897. His first and most famous work was _The
-Philosophy of the Infinite_ (1854), in which he attacked the statement of
+Philosophy of the [[Infinite]]_ (1854), in which he attacked the statement of
 Sir William Hamilton that we can have no knowledge of the Infinite.
 Calderwood maintained that such knowledge, though imperfect, is real and
 ever-increasing; that Faith implies Knowledge. His moral philosophy is in

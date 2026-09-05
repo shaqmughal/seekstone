@@ -26,9 +26,9 @@ FIG. 1.--PERSIAN ASTROLABE (c. 1712) INSCRIBED IN ARABIC.
   FRONT, showing the _Rete_ or _Spider_, a network of star pointers.
   Beneath the _Rete_, in a hollow, are four thin brass discs, called
   Tables or Climates, engraved with projections of the sphere for
-  different latitudes.
+  different [[Latitude|latitudes]].
 
-  BACK, showing graduations, parallelogram for measuring heights; and
+  BACK, showing [[Graduation|graduations]], parallelogram for measuring heights; and
   other tables, together with the _Rule_ with sights (A) held by a
   moveable pin (B), known as the _Horse_ or _Wedge_.]
 
@@ -43,7 +43,7 @@ and Q at the eye.]
 [Illustration: From _Exercises_, by T. Blundeville.
 
 FIG. 3.--Mariner's Astrolabe, A.D. 1594. Made of brass, or of heavy
-wood: it varied in size from a few inches to 1 ft. in diameter.]
+wood: it varied in size from a few [[Inch|inches]] to 1 ft. in diameter.]
 
 The two forms of the planispheric astrolabe most widely known and used
 in the 15th, 16th and even 17th centuries were: (1) the _portable
@@ -62,7 +62,7 @@ incapable of any great precision.
 
 (2) The _mariner's astrolabe_, fig. 3, was adapted from that of
 astronomers by Martin Behaim, c. 1480. This was the instrument used by
-Columbus. With the tables of the sun's declination then available, he
+Columbus. With the tables of the sun's [[Declination|declination]] then available, he
 could calculate his latitude by meridian altitudes of the sun taken with
 his astrolabe. The mariner's astrolabe was superseded by John Hadley's
 quadrant of 1731.

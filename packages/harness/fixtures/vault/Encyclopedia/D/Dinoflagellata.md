@@ -8,10 +8,10 @@ topic: history
 
 DINOFLAGELLATA, so called by O. Bütschli (= the CILIOFLAGELLATA of E.
 Claparide and H. Lachmann), a group of Protozoa, characterized as
-Mastigophora, provided with two flagella, the one anterior extended in
+[[Mastigophora]], provided with two flagella, the one anterior extended in
 locomotion, the other coiled round its base, or lying in a transverse
 groove. The body is bounded by a firm pellicle, often supplemented by an
-armour ("lorica") of cuticular cellulose plates, with usually a marked
+armour ("lorica") of cuticular [[Cellulose|cellulose]] plates, with usually a marked
 longitudinal groove from which the anterior flagellum springs, and an
 oblique or spiral transverse groove for the second flagellum. In
 _Polykrikos_ (fig. 2, 9) there are eight transverse grooves each with

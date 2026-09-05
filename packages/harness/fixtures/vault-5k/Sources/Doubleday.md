@@ -11,14 +11,14 @@ DOUBLEDAY, ABNER (1819-1893), American soldier, was born at Ballston
 Spa, New York, on the 26th of June 1819, and graduated from West Point
 in 1842. He served in the U.S. artillery during the Mexican War, being
 present at the battles of Monterey and Buena Vista. He was second in
-command at Fort Sumter, Charleston, South Carolina, when it was
+command at Fort Sumter, [[Charleston]], South Carolina, when it was
 bombarded and taken by the Confederates in 1861, and later in the
 campaign of that year he served in the Shenandoah valley as a field
 officer. In February 1862 he was made a brigadier-general of volunteers
 and employed in the lines of Washington. He commanded a division in the
-Army of the Potomac in the second Bull Run campaign and at Antietam,
+Army of the Potomac in the second [[Bull]] Run campaign and at [[Antietam]],
 becoming major-general U.S.V. in November 1862. He continued to command
-his division in the Fredericksburg and Chancellorsville campaigns, and
+his division in the Fredericksburg and [[Chancellorsville]] campaigns, and
 on the first day of the battle of Gettysburg he led the I. corps, and
 for a time all the Union forces on the field, after the death of General
 Reynolds. In the latter part of the war he was employed in various

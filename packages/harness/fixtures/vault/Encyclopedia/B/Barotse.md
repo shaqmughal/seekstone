@@ -28,7 +28,7 @@ Aälukolui. That the Barotse at a still more remote period emigrated from
 the far north-east is indicated by vague tradition as well as by a certain
 similarity in type and language to some tribes living in that direction,
 though the fact that natives from Mashonaland can understand those at
-Lialui (the Barotse capital) has led to the assumption by some writers that
+Lialui (the Barotse capital) has led to the [[Assumption|assumption]] by some writers that
 the Barotse are an offshoot of the Mashona. The variety in type among the
 Mashona and the homogeneity of the Barotse would rather point to an
 opposite conclusion.
@@ -69,11 +69,11 @@ paramount chief, by proclamation, abolished the state of slavery, an act
 which, however, left untouched the predominant position of the Barotse and
 their rights to chieftainship. The paramount chief shares with a queen
 (_Mokwai_) his authority and prerogatives. The Mokwai is not the wife but
-the eldest sister of the ruling chief. With his death her privileges lapse.
+the eldest sister of the ruling chief. With his death her privileges [[Lapse|lapse]].
 Theoretically, these co-rulers are equal, neither may promulgate a national
-decree without the assent of the other, but each has a capital town,
+[[Decree|decree]] without the assent of the other, but each has a capital town,
 councillors and absolute authority in a province, the two having joint
-authority over all other provinces. In their code of laws the Barotse show
+authority over all other provinces. In their [[Code|code]] of laws the Barotse show
 an advance on the standard of probably any other African negro state. By
 right, an accused chief is tried by his peers, each of whom in rotation
 from junior to senior gives his verdict, after which the president reports
@@ -81,12 +81,12 @@ the finding of the court to the paramount chief, who passes sentence. As to
 their religious beliefs the Barotse imagine the sun to be the embodiment of
 a great god whose sole care is for the amelioration of man. Him they
 worship, though more pains are taken to appease evil spirits, in whose
-existence they also believe, to whom every evil to which man is heir is
+existence they also believe, to whom every evil to which man is [[Heir|heir]] is
 attributed. The spirits of ancestors--especially of deceased chiefs--are
 also objects of worship. Christianity, of a Protestant evangelical type,
 was first introduced into the country in 1884 by François Coillard and has
 made some progress among the people, among the converts being Letia, eldest
-son and heir of Lewanika, the paramount chief.
+son and heir of [[Lewanika]], the paramount chief.
 
 2. _Barotseland._--This term includes, in the sense of the country in which
 the authority of the paramount Barotse chief is acknowledged, not only the
@@ -105,7 +105,7 @@ of government, Barotse chiefs administer districts under the direction of
 the paramount chief; and
 
 (c) Tribes over which the local chiefs are permitted to retain their
-position subject to the payment of annual tribute and to their doing homage
+position subject to the payment of annual tribute and to their doing [[Homage|homage]]
 in person at Lialui when called upon to do so.
 
 With the publication of the king of Italy's award in 1905 in the
@@ -122,7 +122,7 @@ British protection is about 182,000 sq. m.
 Excluding the ridge of high ground running east and west which, culminating
 at a height of 5000 ft., forms the Congo-Zambezi water-parting, the extreme
 east (Batoka) and the district in the immediate vicinity of the Victoria
-Falls (_q.v._) throughout which, with local variations, a red laterite clay
+Falls (_q.v._) throughout which, with local variations, a red [[Laterite|laterite]] clay
 predominates, the main physical features of Barotseland may be described as
 a series of heavy white sand undulations covered with subtropical forest
 vegetation. These are intersected by alluvium-charged valleys through which
@@ -135,7 +135,7 @@ in many parts of Africa. There seems to be little or no indication of
 mineral wealth in the white sand area, but in the north and east there is
 not only every prospect of a great agricultural and pastoral future but
 also of considerable mining development. Though basalt predominates in the
-neighbourhood of the Victoria Falls and large fields of granite crop up on
+neighbourhood of the Victoria Falls and large [[Fields|fields]] of granite crop up on
 the Batoka plateau and elsewhere, there is every indication of the
 existence of useful minerals in these districts. Gold, copper, tin, lead,
 zinc and iron have been discovered.
@@ -147,7 +147,7 @@ Congo-Zambezi watershed which rises to 5000 ft. in many places. The Zambezi
 valley from the Victoria Falls (3000 ft.) to the Kabompo confluence (3500
 ft.), though involving little or no risk to health to the traveller, cannot
 be considered suitable for white settlement. Taking into consideration the
-relative value of altitude to latitude, the plateauland of Barotseland
+relative value of altitude to [[Latitude|latitude]], the plateauland of Barotseland
 compares very favourably with existing conditions elsewhere, being several
 degrees more temperate than would be expected. Approximately the mean [v.03
 p.0426] maximum and minimum temperatures stand at 80° and 55° F.
@@ -163,7 +163,7 @@ distribution of many species of fauna and flora. In these respects, as well
 as from an ethnological standpoint, Barotseland essentially belongs not to
 South but to Central Africa. The great river has also served to prevent the
 spread from South Africa into Barotseland of such disastrous cattle
-diseases as tick fever and lung sickness.
+diseases as tick [[Fever|fever]] and [[Lung|lung]] sickness.
 
 3. _The Establishment of British Suzerainty._--By the charter granted to
 the British South Africa Company in October 1889, the company was allowed
@@ -172,7 +172,7 @@ included in the Portuguese dominions, and by a treaty of the 11th of June
 1891 between Great Britain and Portugal it was declared that the Barotse
 kingdom was within the British sphere of influence. The dispute between the
 contracting powers as to what were the western limits of Barotseland was
-eventually referred to the arbitration of the king of Italy, who by his
+eventually referred to the [[Arbitration|arbitration]] of the king of Italy, who by his
 award of the 30th of May 1905, fixed the frontier at the Kwando river as
 far north as 22° E., then that meridian up to the 13° S., which parallel it
 follows as far east as 24° E., and then that meridian to the Belgian Congo
@@ -180,7 +180,7 @@ frontier. In the meantime the British South Africa Company had entered into
 friendly relations with Lewanika (_q.v._), the paramount chief of the
 Barotse, and an administrator was appointed on behalf of the company to
 reside in the country. A native police force under the command of a British
-officer was raised and magistrates and district commissioners appointed. In
+officer was raised and [[Magistrate|magistrates]] and district commissioners appointed. In
 the internal affairs of the Barotse the company did not interfere, and the
 relations between the British and Barotse have been uniformly friendly. The
 pioneers of Western civilization were not, however, the agents of the
@@ -188,7 +188,7 @@ Chartered Company, but missionaries. F. S. Arnot, an Englishman, spent two
 years in the country (1882-1884) and in 1884 a mission, fruitful of good
 results, was established by the Société des Missions Evangéliques de Paris.
 Its first agent was François Coillard (1834-1904), who had previously been
-engaged in mission work in Basutoland and who devoted the rest of his life
+engaged in mission work in [[Basutoland]] and who devoted the rest of his life
 to the Barotse. Though always an admirer of British institutions and
 anxious that the country should ultimately fall under British jurisdiction,
 Coillard in the interests of his mission was in the first instance anxious
@@ -200,32 +200,32 @@ all the influence acquired by Coillard's exceptional personal magnetism and
 singleness of purpose was used to prepare the way for the extension of
 British rule. Only those few pioneers who knew the Barotse under the old
 conditions can fully realise what civilization and England owe to the
-co-operation of this high-minded Frenchman.
+[[Co-Operation|co-operation]] of this high-minded Frenchman.
 
 Under the Chartered Company's rule considerable progress has been made in
 the development of the resources of the country, especially in opening up
 the mining districts in the north. The seat of the administration, Kalomo,
 is on the "Cape to Cairo" railway, about midway between the Zambezi and
-Kafue rivers. The railway reached the Broken Hill copper mines, 110 m. N.
+Kafue rivers. The railway reached the [[Broken Hill]] copper mines, 110 m. N.
 of the Kafue in 1906, and the Belgian Congo frontier in 1910. From Lobito
 Bay in Portuguese West Africa a railway was being built in 1909 which would
 connect with the main line near the Congo frontier. This would not only
-supply Barotseland with a route to the sea alternative to the Beira and
-Cape Town lines, but while reducing the land route by many hundred miles
+supply Barotseland with a route to the sea alternative to the [[Beira]] and
+[[Cape Town]] lines, but while reducing the land route by many hundred miles
 would also supply a seaport outlet 1700 m. nearer England than Cape Town
 and thus create a new and more rapid mail route to southern Rhodesia and
 the Transvaal. The Zambezi also, with Kebrabasa as its one bar to
 navigation between Barotseland and the sea, will supply a cheap line of
 communication. (See RHODESIA.)
 
-See David Livingstone, _Missionary Travels and Researches in South Africa_
-(London, 1857); Major Serpa Pinto, _How I crossed Africa_ (London, 1881);
+See David [[Livingstone]], _Missionary Travels and Researches in South Africa_
+(London, 1857); [[Major]] Serpa Pinto, _How I crossed Africa_ (London, 1881);
 F. Coillard, _On the Threshold of Central Africa_ (London, 1897); Major A.
-St H. Gibbons, _Exploration and Hunting in Central Africa_ (London, 1898),
+St H. Gibbons, _Exploration and [[Hunting]] in Central Africa_ (London, 1898),
 _Africa South to North through Marotseland_ (London, 1904); "Journeys in
 Marotseland," _Geographical Journal_, 1897; "Travels in the Upper Zambezi
-Basin," _Geographical Journal_, 1901; A. Bertrand, _Aux pays des Barotse,
-haut Zambèze_ (Paris, 1898); Col. Colin Harding, _In Remotest Barotseland_,
+Basin," _Geographical Journal_, 1901; A. [[Bertrand]], _Aux pays des Barotse,
+haut Zambèze_ (Paris, 1898); Col. Colin [[Harding]], _In Remotest Barotseland_,
 (London, 1905); C. W. Mackintosh, _Coillard of the Zambesi_ (London, 1907),
 with a bibliography; L. Decle, _Three Years in Savage Africa_ (London,
 1898). Consult also the annual reports of the British South Africa Company,

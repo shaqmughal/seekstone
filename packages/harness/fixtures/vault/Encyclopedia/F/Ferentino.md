@@ -1,15 +1,15 @@
 # Ferentino
 
-FERENTINO (anc. _Ferentinum_, to be distinguished from Ferentum or
+FERENTINO (anc. _Ferentinum_, to be distinguished from [[Ferentum]] or
 Ferentinum in Etruria), a town and episcopal see of Italy, in the
 province of Rome, from which it is 48 m. E.S.E. by rail. Pop. (1901)
-7957 (town), 12,279 (commune). It is picturesquely situated on a hill
+7957 (town), 12,279 ([[Commune|commune]]). It is picturesquely situated on a hill
 1290 ft. above sea-level, and still possesses considerable remains of
 ancient fortifications. The lower portion of the outer walls, which
 probably did not stand free, is built of roughly hewn blocks of a
-limestone which naturally splits into horizontal layers; above this in
+[[Limestone|limestone]] which naturally splits into horizontal layers; above this in
 places is walling of rectangular blocks of tufa. Two gates, the Porta
-Sanguinaria (with an arch with tufa voussoirs), and the Porta S. Maria,
+Sanguinaria (with an [[Arch|arch]] with tufa voussoirs), and the Porta S. Maria,
 a double gate constructed entirely of rectangular blocks of tufa, are
 preserved. Outside this gate is the tomb of A. Quinctilius Priscus, a
 citizen of Ferentinum, with a long inscription cut in the rock. See Th.
@@ -35,7 +35,7 @@ older church in 1099-1118; the interior was modernized in 1693, but was
 restored to its original form in 1902. It contains a fine canopy in the
 "Cosmatesque" style (see _Relazione dei lavori eseguiti dall' ufficio
 tecnico per la conservazione dei monumenti di Rome a provincia_, Rome,
-1903, 175 seq.). The Gothic church of S. Maria Maggiore, in the lower
+1903, 175 seq.). The [[Gothic]] church of S. Maria Maggiore, in the lower
 town (13th-14th century), has a very fine exterior; the interior, the
 plan of which is a perfect rectangle, has been spoilt by restoration.
 There are several other Gothic churches in the town.

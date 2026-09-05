@@ -18,7 +18,7 @@ subjects, the former of whom flourished in the early part and the latter
 in the later part of the 16th century--speak of it as being then
 commonly cultivated and used.[1] The Romans, it would appear, made
 great use of the leek for savouring their dishes, as seems proved by the
-number of recipes for its use referred to by Celsius. Hence it is more
+number of recipes for its use referred to by [[Celsius]]. Hence it is more
 than probable that it was brought to England by the Romans. Italy was
 celebrated for leeks in the time of Pliny (_H.N._ xix. c. 6), according
 to whom they were brought into great esteem through the emperor Nero,
@@ -32,10 +32,10 @@ gardeners in the neighbourhood of large cities. The whole plant, with
 the exception of the fibrous roots, is used in soups and stews. The
 sheathing stalks of the leaves lap over each other, and form a thickish
 stem-like base, which is blanched, and is the part chiefly preferred.
-These blanched stems are much employed in French cookery. They form an
+These blanched stems are much employed in French [[Cookery|cookery]]. They form an
 important ingredient in Scotch winter broth, and particularly in the
 national dish _cock-a-leekie_, and are also largely used boiled, and
-served with toasted bread and white sauce, as in the case of asparagus.
+served with toasted bread and white sauce, as in the case of [[Asparagus|asparagus]].
 Leeks are sown in the spring, earlier or later according to the soil and
 the season, and are planted out for the summer, being dropped into holes
 made with a stout dibble and left unfilled in order to allow the stems
@@ -60,7 +60,7 @@ FOOTNOTE:
 
     "Now leckes are in season, for pottage ful good,
        And spareth the milck cow, and purgeth the blood,
-     These hauving with peason, for pottage in Lent,
+     These hauving with peason, for pottage in [[Lent]],
        Thou spareth both otemel and bread to be spent."
 
 ## References
